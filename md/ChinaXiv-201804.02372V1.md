@@ -1,0 +1,223 @@
+# 基于并行干扰抵消的UFMC系统信道均衡
+
+余翔，高燕妮，段思睿(重庆邮电大学，重庆 400065)
+
+摘要：通用滤波多载波(UFMC)技术作为5G的一种候选波形，传输中不加循环冗余(CP)，多径衰落信道下会产生符号间干扰(ISI)以及子载波间干扰(ICI)。针对该问题，提出一种基于并行干扰抵消的均衡算法。首先，根据分析得到多径信道下UFMC系统干扰数学表达式；其次，在采用迫零均衡后，对可靠区间外的数据，根据剩余干扰表达式，近似重构相邻载波及符号间干扰；最后，对各载波并行地进行迭代干扰抵消。通过仿真实验表明，在多径信道下，该算法能够一定程度上降低误码率，提高UFMC系统性能。
+
+关键词：通用滤波多载波；符号间干扰；载波间干扰；迫零均衡；并行干扰抵消 中图分类号：TN911.5 doi: 10.3969/j.issn.1001-3695.2018.03.0112
+
+# UFMC system channel equalization based on parallel interference cancellation
+
+Yu Xiang, Gao Yanni†,Duan Sirui (Chongqing University ofPosts& Telecommunications,Chongqing 4ooo65,China)
+
+Abstract:Universal filtered multi-carier(UFMC）technology is acandidate for5G，without cyclicredundancy(CP)in transmissionandinter-symbolinterference (ISI)andinter-carierinterference (ICI)willoccurundermulti-path fadingchanels. To solvethisproblem,anequalizationagorithmbasedonparalelinterferewasproposed.Frstlyaccording totheanalysis,the mathematical expresionof UFMC system interferenceunder multi-path chanel was obtained.Secondly，after using zeroforcing equalization,thedataoutsidethereliable intervalwas used toapproximatethereconstructionof adjacentcarriers nd inter-symbolinterfereneaodngtotesiualiterfereneexprsso.Fiallpplngiteratieinteferenceacelioto eachcaierinparalel.Simulationexperimentsshow thatunder multipathchannel,thealgorithmcanreducethebiterrorrate to a certain extent and improve the UFMC system performance.
+
+Keywords:UFMC；inter-symbol interference；inter-carrier interference；zero-forcing equalization；paralel interference cancellation
+
+# 0 引言
+
+面向2020年及未来，数据流量的千倍增长，千亿设备连接和多样化的业务需求都将对5G系统设计提出严峻挑战。与4G主要关注移动宽带业务不同，5G的业务类型更加丰富，尤其是大量的物联网业务，例如：低成本大连接的机器通信业务，低时延高可靠的V2V（车对车）业务等，这些业务对基础波形提出了新的要求[1]。而需要严格同步来实现载波间正交的OFDM系统难以满足新场景下的需求[2]。UFMC 作为一种新型多载波技术，它通过对子带滤波来抑制带外泄露，从而降低时频偏干扰，实现宽松同步，满足低端设备低耗电的需求。通过将UFMC与认知无线电（CR）耦合可以更好地利用可用频谱资源，且相较于OFDM系统检测概率更优[3]。与FBMC(滤波器组多载波）
+
+相比，UFMC 的滤波长度短一些，对于低功耗的短突发包传输效率高，例如：认知的M2M（机器对机器）通信，上行链路控制信令等[4]。在UFMC系统中不加CP，需要考虑多径信道带来的ISI和ICI影响，虽然通过滤波器产生的下降沿可以克服部分干扰[51，但是在延迟比较大时这部分干扰仅仅通过单抽头均衡并不能达到很好的抑制效果，UFMC要支持机通信中短包数据的传输，就需要采用相应的均衡技术来消除ISI以及ICI[6]。
+
+在UFMC均衡方面，基本都是采用简单的单抽头均衡，并没有考虑多径信道中的ISI和ICI，在文献[6针对存在的上述干扰问题，考虑在UFMC系统中加入相应的CP，然后采用简单的单抽头均衡器克服干扰，但是加入CP降低了频谱效率，文献[8]中考虑频偏引起的ICI以及子带间干扰（IBI），采用
+
+LMS来进行干扰消除，但是对于码间干扰（ISI）非常严重的信道环境，LMS均衡算法的调节存在一个启动模式，它的收敛速度较慢。文献[9]中分析了多径信道下UFMC系统的干扰，但是并没有给出具体所受的ISI以及ICI表达式，也没有给出可行的方法。借鉴OFDM在CP不足时所用的干扰抑制方法，比较常用的方法为RISIC（残余ISI消除）以及在此之上的改进算法[10,11],其在时域用相邻OFDM符号反馈抵消的方法来克服ISI,通过构造循环矩阵对角化重复地矫正ICI。但由于UFMC系统加入滤波器进行线性卷积，所以这种构建循环矩阵的方法在UFMC中并不适用，文献[12]在得到相应的信道估计值后，根据CP不足时OFDM系统的干扰表达式，在反馈抑制ISI项后，利用初始判决消除一定距离的ICI，最后再进行ML检测，结果能够一定程度上降低误码率，但复杂度高，耗时较长。本文根据多径信道下UFMC系统接收端的干扰表达式，在进行简单的ZF均衡后，对可靠区间外的信号进行干扰抵消，将ICI/ISI干扰近似为能量较大的相邻几个载波点，在减小复杂度的同时能够一定程度降低误码率。
+
+# 1 UFMC系统模型及干扰分析
+
+UFMC系统模型如图1所示，信号在进行传输时，整个频带被划分成 $B$ 个子带，每个子带分配 $N _ { B }$ 个连续的子载波，每一个子带对应LTE 中的一个物理资源块。总的子载波数量为 $N$ ，每一个子带 $i$ 都进行 $N$ 点的IDFT将信号从频域转换到时域，所有的数据符号都被调制到分配的对应子带的子载波上，在未分配的子载波上将进行补零从而进行IDFT，在经过IDFT后符号长度为 $N$ 。然后输出信号 $s _ { i }$ 经过长度为 $L _ { 1 }$ 的滤波器 $\pmb { f } _ { i }$ 进行滤波，因为 $s _ { i }$ 与 $\pmb { f } _ { i }$ 的线性卷积，最后符号长度变为 $\scriptstyle { G = N + L _ { 1 } - 1 }$ 0
+
+![](images/d22349b3c505cf5aa1f5c1452f2f4f2070e1e62311f16bc97e758b4701a2aa54.jpg)  
+图1UFMC系统模型
+
+在每个子带经过滤波之后，所有子带信号叠加进行传输，综上输出信号 $x$ 可以表示为
+
+$$
+\pmb { x } = \sum _ { i = 0 } ^ { B - 1 } { \pmb { F } } _ { i } \pmb { D } _ { i } \pmb { S } _ { i }
+$$
+
+其中: $\boldsymbol { S } _ { i }$ 为 $N$ 个子载波上调制的频域数据， $D _ { _ i }$ 为 $N$ 点IDFT矩阵 $\textbf {  { D } }$ 的第 $\left( k N _ { \scriptscriptstyle B } + 1 \right)$ 列到第 $\left( \left( k + 1 \right) N _ { _ B } \right)$ 列，矩阵 $\textbf {  { D } }$ 中第 $\mathbf { k }$ 行第$\mathfrak { n }$ 列元素为 $d _ { k , n } = \frac { 1 } { \sqrt { N } } e ^ { i 2 \pi k n / N }$ ei2πkn/N。Fi为托普利兹矩阵，用来进行线性卷积，第一列为 $\tilde { \pmb { f } } = \left[ f _ { i } \big ( 0 \big ) , f _ { i } \big ( 1 \big ) , . . . , f _ { i } \big ( L _ { 1 } - 1 \big ) , 0 _ { 1 \times ( N - 1 ) } \right] ^ { T }$ ，第一行为 $\left[ f _ { i } ( 0 ) , 0 _ { 1 \times ( N - 1 ) } \right]$ 。
+
+考虑信道为多径频率选择性衰落信道，并且信道系数在一个UFMC符号期间保持不变，那么无线多径衰落信道冲击响应为
+
+$$
+h ( n ) = \sum _ { l = 0 } ^ { L _ { 2 } - 1 } h _ { l } \delta ( n - \tau _ { l } ) = \sum _ { l = 0 } ^ { L _ { 2 } - 1 } \rho _ { l } e ^ { j 2 \pi \varphi _ { l } } \delta ( n - \tau _ { l } )
+$$
+
+其中: $L _ { 2 }$ 表示不同路径的数目，主要依赖于信道环境和数据传输数率， $\rho _ { \iota }$ 是多径信道的衰落因子，其服从瑞利分布， $2 \pi \phi _ { l }$ 为在 $\left[ 0 , 2 \pi \right]$ 服从均匀分布的多径随机相移。经过多径信道，第 $\mathrm { ~ m ~ }$ 个符号接收端信号可以表示为
+
+$$
+\begin{array} { r l } { y _ { m } ( n ) = \displaystyle \sum _ { l = 0 } ^ { L _ { 2 } - 1 } h _ { l , m } x _ { m } ( n - \tau _ { l } ) _ { 2 N } \mu _ { 1 } ( n ) + } & { { } } \\ { \displaystyle \sum _ { l = 1 } ^ { L _ { 2 } - 1 } h _ { l , m - 1 } x _ { m - 1 } ( n + G - \tau _ { l } ) _ { 2 N } \mu _ { 2 } ( n ) } & { { } ~ + \omega ( n ) } \end{array}
+$$
+
+由于在UFMC系统中接收端会进行补零，然后再进行 2N点 FFT运算，所以上式中 $x _ { m }$ ， $x _ { m - 1 }$ 都为补零后的信号，其中$\left( n \right) _ { 2 N }$ 代表 $n { \bmod { 2 N } }$ ， $\omega ( n )$ 代表信号传输的噪声，函数 $\mu _ { 1 } ( n )$ 、$\mu _ { 2 } ( n )$ 定义为：
+
+$$
+\begin{array} { r } { \mu _ { 1 } = \left\{ \begin{array} { l l } { 1 \qquad \tau _ { l } \leq n \leq G - 1 } \\ { 0 \qquad o t h e r s } \end{array} \right. , \quad \mu _ { 2 } = \left\{ \begin{array} { l l } { 1 \qquad 0 \leq n \leq \tau _ { l - 1 } } \\ { 0 \qquad o t h e r s } \end{array} \right. } \end{array}
+$$
+
+对式（3）进行2N-FFT，根据级数运算性质，得到第a个子载波信号为
+
+$$
+\begin{array} { l } { { { \displaystyle Y ( a ) = S _ { m } ( a ) F _ { m } ( a ) \sum _ { l = 0 } ^ { L - 1 } { h _ { _ { l m } } e ^ { - j \pi a c _ { l } / N } } + } } } \\ { { { \displaystyle \sum _ { l = 0 } ^ { L - 1 } { h _ { _ { l m } } \sum _ { k = 0 , k \neq a } ^ { 2 N - 1 } { \frac { S _ { m } ( k ) F _ { m } ( k ) } { 2 N } e ^ { - j \pi k \tau _ { l } / N } b _ { 1 } ( a - k ) _ { 2 N } + } } } } } \\ { { { \displaystyle \sum _ { l = 1 } ^ { L - 1 } { h _ { _ { l m - 1 } } ( \frac { S _ { m - 1 } ( a ) F _ { m - 1 } ( a ) } { 2 N } e ^ { - j \pi a ( \tau _ { l } - G ) / N } \tau _ { l } + } } } } \\ { { { \displaystyle \sum _ { k = 0 , k \neq a } ^ { 2 N - 1 } { \frac { S _ { m - 1 } ( k ) F _ { m - 1 } ( k ) } { 2 N } e ^ { - j \pi k ( \tau _ { l } - G ) / N } b _ { 2 } ( a - k ) _ { 2 N } + } } } } \end{array}
+$$
+
+其中： $b _ { 1 } ( k ) = \frac { e ^ { - j \pi k \tau _ { / } / N } ( 1 - e ^ { - j \pi k ( G - \tau _ { / } ) / N } ) } { 1 - e ^ { - j \pi k / N } }$ ， $b _ { 2 } ( k ) = \frac { 1 - e ^ { - j \pi k \tau _ { l } / N } } { 1 - e ^ { - j \pi k / N } }$ 1--jk/，分别对应μ、$\mu _ { 2 }$ 的傅里叶变换， $S _ { m } ( a )$ 、 $F _ { m } ( a )$ 为发送信号以及滤波器频域响应。表达式（4）中第二项为相应的载波间干扰，第三、四项为系统所受的符号间干扰，对此将表达式（4）简化为
+
+$$
+Y ( a ) = F ( a ) H ( a ) S ( a ) + I _ { I C I } ( a ) + I _ { I S I } ( a ) + W ( a )
+$$
+
+其中：
+
+$$
+\begin{array} { l } { { { \displaystyle I _ { I C I } ( a ) = \sum _ { l = 0 } ^ { L - 1 } h _ { l , m } \sum _ { k = 0 , k \neq a } ^ { 2 N - 1 } \frac { S _ { m } ( k ) F _ { m } ( k ) } { 2 N } e ^ { - j \pi k \tau _ { l } / N } b _ { 1 } ( a - k ) _ { 2 N } } } } \\ { { { \displaystyle I _ { I S I } ( a ) = \sum _ { l = 1 } ^ { L _ { 2 } - 1 } h _ { l , m - 1 } ( \frac { S _ { m - 1 } ( a ) F _ { m - 1 } ( a ) } { 2 N } e ^ { - j \pi a ( \tau _ { l } - G ) / N } \tau _ { l } } } } \\ { { { \displaystyle \qquad + \sum _ { k = 0 , k \neq a } ^ { 2 N - 1 } \frac { S _ { m - 1 } ( k ) F _ { m - 1 } ( k ) } { 2 N } e ^ { - j \pi k ( \tau _ { l } - G ) / N } b _ { 2 } ( a - k ) _ { 2 N } ) } } } \end{array}
+$$
+
+# 2 基于并行干扰抵消的信道均衡
+
+接收端经过2N点FFT后，对输出的偶载波点乘以 $1 / F ( a )$ 以消除式（5）中滤波器系数 $F ( a )$ 的影响，然后经过ZF均衡，至此接收端式（5）可以表示为
+
+$$
+\begin{array} { c } { { \displaystyle { \frac { Y ( a ) } { H ( a ) F ( a ) } } { = } S ( a ) { + } \frac { I _ { I C I } ( a ) { + } I _ { I S I } ( a ) { + } W ( a ) } { H ( a ) F ( a ) } } } \\ { { { } = S ( a ) { + } I _ { 1 } ( a ) { + } I _ { 2 } ( a ) { + } W ^ { \prime } ( a ) } } \end{array}
+$$
+
+从式（8）可以看出，在采用传统的ZF均衡进行接收后，除噪声外，信号仍会受到 $I _ { 1 } ( a )$ 和 $I _ { \mathrm { 2 } } ( \mathbf { a } )$ 两项干扰因子的影响。
+
+为减小错误重传的概率，本文首先将经过ZF均衡的信号通过可靠区间（RZ）判断，对于RZ内的信号直接进行判决输出，而RZ外的信号通过干扰重构，然后对各载波点并行地进行干扰抵消，对干扰抵消后的信号再次进行判断重复上述过程，直到所有信号位于RZ内，从而使接收端尽可能正确解调出$S ( a )$ ，具体过程如图2所示。
+
+![](images/3ef7418a22220c2ba9f8858c55dfd90dba7d4344a9715548c21acc25812f7067.jpg)  
+图2基于并行干扰抵消的UFMC系统信道均衡框图
+
+本文在复数平面中根据每个符号的信号星座定义一个可靠的区域（RZ），RZ的大小由单个阈值参数T来定义，如图3中QPSK星座对应的RZ（其他QAM和PSK星座同理）。在每次迭代中，如果相应的均衡符号（即量化之前）位于RZ中，则检测到的信号被分类为可靠的。为了减少所需的迭代次数，从而减少处理延迟，我们在每次迭代之后通过将T减小预定值$\varepsilon$ 来放大RZ。
+
+![](images/a6719cad1f3f7a300b60ffccd97fca1d71f8a734f09f124f94202ad8bc0f3f70.jpg)  
+图3QPSK星座的可靠区域
+
+对于RZ中的符号通过硬判决得到相应的 $S ( a )$ ，而RZ之外的符号通过重构 $I _ { 1 } ( a )$ 和 $I _ { 2 } ( \mathbf { a } )$ 两个干扰项，再将干扰从解调数据中抵消，在重构 $I _ { 1 } ( a )$ 中，从式（6）可知，首先从信道估计模块中得到信道时域响应 $\hat { h }$ ，并得到除当前载波a点外其他载波处的 $S ( k )$ 值，从文献[13，14]中可知a点所受的载波间干扰能量主要来自相邻几个载波，特别地，在UFMC中子带间经过滤波处理，旁瓣泄露的能量减小，其他子带中的子载波对当前子带中的子载波干扰很小，本文将 $I _ { 1 } ( a )$ 中干扰近似为与a距离$d \leq 2$ 的子载波产生的干扰，即
+
+$$
+I _ { I C I } ^ { \prime } ( { \bf a } ) = \sum _ { l = 0 } ^ { L _ { z } - 1 } \hat { h } _ { l , m } \sum _ { k = a + 2 i } \frac { S _ { m } ( k ) F _ { m } ( k ) } { 2 N } e ^ { - j \pi k \tau _ { l } / N } b _ { 1 } ( a - k ) _ { N } i = \pm 1 , \pm 2
+$$
+
+$I _ { 1 } ( a )$ 可近似表示为：
+
+$$
+{ \cal I } _ { 1 } ^ { \prime } ( a ) = \frac { { \cal I } _ { I C I } ^ { \prime } } { H ( a ) F ( a ) }
+$$
+
+由于UFMC系统的过采样，从图1接收端可知最后取偶载波进行解调，而奇载波处符号很小可以忽略不计，所以式中$\mathbf { k }$ 为距离d内的偶数载波。
+
+对于干扰项 $I _ { 2 } ( a )$ ，传统的方法都是通过将已解调的前一符号反馈到当前符号，并结合信道响应进行ISI消除，文献[11]中得到多径信道中OFDM系统中的 $I _ { \scriptscriptstyle { I S I } }$ (a)项，将前一符号各载波对应的 $S _ { m - 1 } ( a )$ 全数反馈到当前符号进行消除，不难发现将每个子载波都采用这种方式进行干扰消除，那么 $N$ 个子载波干扰消除的复杂度为 $O \left( N ^ { 2 } \right)$ ，而在UFMC 中，当多径延迟较小时，可以通过滤波器在时域形成的下降沿抑制ISI，而当延迟较大时，本文从式（7）入手，发现干扰能量主要集中在前一符号载波a点以及其相邻载波，具体证明过程如下。
+
+根据式（7），第k个子载波对当前载波a的干扰可以表示为
+
+$$
+I _ { k , a } = \left\{ \begin{array} { l l } { \displaystyle { \frac { S _ { m - 1 } \left( k \right) F _ { m - 1 } \left( k \right) } { 2 N } \sum _ { l = 1 } ^ { L - 1 } h _ { l , m - 1 } e ^ { - j \pi a \left( \tau _ { l } - G \right) / N } \tau _ { l } } } & { k = a } \\ { \displaystyle { \frac { S _ { m - 1 } \left( k \right) F _ { m - 1 } \left( k \right) } { 2 N } \sum _ { l = 1 } ^ { L - 1 } h _ { l , m - 1 } e ^ { - j \pi a \left( \tau _ { l } - G \right) / N } b _ { 2 } \left( a - k \right) _ { 2 N } } } & { k \neq a } \end{array} \right.
+$$
+
+从式中可以看出各载波对当前载波的影响从幅值上来说主要通过函数 $b _ { 2 }$ 来进行区分，即 $\left| \frac { 1 - e ^ { - j \pi k \tau _ { l } / N } } { 1 - e ^ { - j \pi k / N } } \right|$ 的幅值大小，现作$b _ { 2 }$ 的幅值曲线图进行具体分析，如图4所示。
+
+![](images/73cb48a1dbb56dfc511efeb2d20d673c2b6e5916d511e11eac40818b9f4fd50a.jpg)  
+图4不同延迟下 $b _ { 2 }$ 幅值图
+
+图中 $N = 2 5 6$ ，分别为最大多径为30/50时 $b _ { 2 }$ 的幅值图，从图中可以发现 $b _ { 2 }$ 在大部分 $\mathbf { k }$ 点的取值很小，接近于0。而在 $\mathbf { k } { = } 1$ 和 $\scriptstyle \mathbf { k } = 5 1 1$ 点处取得最大值，并且在 $\mathbf { k } { > } 1$ 以及 $\mathbf { k } { < } 5 1 1$ 附近取值迅速下降，随着 $\tau _ { l }$ 的增加，这种下降趋势更加明显，取值较大的点数越来越少，通过对 $b _ { 2 }$ 求极限，可得 $b _ { 2 }$ 在 $\scriptstyle \mathbf { k } = 0$ 处取得极大值为 $\tau _ { \iota }$ ，刚好对应 $\mathbf { k } { = } \mathbf { a }$ 时的干扰项因子。（7）式中干扰项为$b _ { 2 } \left( a - k \right) _ { 2 N }$ ，意为关于a点的循环移位，当 $\mathbf { k }$ 取值与a越接近，那么映射到 $b _ { 2 }$ 中相应的幅值越大。
+
+通过观察 $b _ { 2 }$ 知道越靠近当前载波a点取值越大，并且在$\mathbf { k } { = } \mathbf { a }$ 时（即图5中 $\scriptstyle \mathbf { k } = 0$ 时）取得最大值。下面将通过仿真具体的干扰能量分布来说明，假设发送符号间相互独立，能量相等，且为1，即 $\left| S ( k ) \right| ^ { 2 } = 1$ ，第 $\mathrm { ~ \bf ~ k ~ } ( \mathrm { ~ \boldsymbol ~ k ~ } \neq a$ ）个子载波泄漏到当前载波a的能量可以表示为
+
+$$
+\begin{array} { c l } { { \displaystyle p _ { _ { k , \alpha } } = \sum _ { l = 1 } ^ { L _ { 2 } - 1 } \biggl | \frac 1 { 2 N } h _ { l , m - 1 } S _ { m - 1 } ( k ) F _ { m - 1 } ( k ) e ^ { - j \pi k ( \tau _ { l } - G ) / N } b _ { 2 } ( a - k ) _ { 2 N } \biggr | ^ { 2 } } } \\ { { = \displaystyle \frac { F _ { m - 1 } ^ { 2 } ( k ) } { 4 N ^ { 2 } } \sum _ { l = 1 } ^ { L _ { 2 } - 1 } \rho _ { l } ^ { 2 } \left| b _ { 2 } ( a - k ) _ { 2 N } \right| ^ { 2 } } } \end{array}
+$$
+
+同理可得
+
+$$
+p _ { _ { a , a } } = \frac { F _ { m - 1 } ^ { 2 } ( a ) } { 4 N ^ { 2 } } \sum _ { l = 1 } ^ { L _ { 2 } - 1 } \rho _ { l } ^ { 2 } \tau _ { l } ^ { 2 }
+$$
+
+根据式（11）（12）可以得到前一符号各载波点对当前载波点a( $\scriptstyle \mathbf { a } = 6 0$ ）的能量泄露图，如图5所示。图5中选取多径延迟较大的扩展典型城市信道模型(Extended Typical Urbanmodel,ETU)，在仿真中使用了120个载波，考虑对当前载波$\scriptstyle \mathtt { a } = 6 0$ 的干扰情况，从图中可以看出在子载波 $\scriptstyle \mathtt { a } = 6 0$ 处，干扰能量取得最大值，而其它子载波处的干扰能量相对较小，本文取与a 距离d以内的偶载波进行干扰消除，这样符号间干扰项$I _ { \scriptscriptstyle I S I } ( a )$ 可以表示为
+
+$$
+\begin{array} { c } { { { \cal I } _ { I S I } ^ { \prime } ( a ) { = } { \displaystyle { \sum _ { l = 1 } ^ { L _ { 2 } - 1 } } h _ { l , m - 1 } ( { \frac { S _ { m - 1 } ( a ) { \cal F } _ { m - 1 } ( a ) } { 2 N } } e ^ { - j \pi a ( \tau _ { l } - G ) / N } \tau _ { l } } } } \\ { { { } } } \\ { { { + \displaystyle { \sum _ { k = a + 2 i } \frac { S _ { m - 1 } ( k ) { \cal F } _ { m - 1 } ( k ) } { 2 N } e ^ { - j \pi k ( \tau _ { l } - G ) / N } \times } } } } \\ { { { { } } } } \\ { { { b _ { 2 } ( a - k ) _ { N } ) } } } \end{array}
+$$
+
+同理 $I _ { 2 } ( a )$ 可以近似表示为
+
+$$
+{ \cal I } _ { 2 } ^ { \prime } ( a ) = \frac { { \cal I } _ { I S I } ^ { \prime } } { H ( a ) F ( a ) }
+$$
+
+![](images/5c893bf8c18e4471d961e14e4605605a391d9695fdcaabcf6627ea03682455a4.jpg)  
+图5前一符号对当前载波（ $\scriptstyle \mathtt { a } = 6 0$ ）的干扰能量分布
+
+根据上述得到的 $I _ { 1 } ^ { \prime } ( a )$ ， $I _ { 2 } ^ { \prime } ( a )$ 将干扰从待解调数据中抵消，针对所有不同子载波处的数据符号，干扰抵消操作可以并行地同时进行，以减少处理时延。
+
+假设经过 ZF 均衡第 $\mathrm { ~ m ~ }$ 个符号的各载波点输出向量为$\alpha _ { m } = \left[ \alpha ( 0 ) , \alpha ( 1 ) , . . . , \alpha ( N - 1 ) \right] ^ { T } , \tilde { S } _ { m } = \left[ s ( 0 ) , s ( 1 ) , . . . , s ( N - 1 ) \right] ^ { T }$ 为最后判决输出的信号向量并初始化为 $\tilde { S } _ { m } = \alpha _ { m }$ ，定义可靠区间$A \left( \eta \right) { = } \left[ \eta { - } T , \eta { + } T \right]$ ，对于 $2 ^ { 2 \mathrm { m } } { \mathrm { - } } { \mathrm { Q A M } }$ 星座来说$\eta \in \left\{ \pm 1 , \pm 3 , . . . , \pm \left( 2 ^ { m } - 1 \right) \right\}$ ,本文并行干扰抑制算法流程如图6所示。
+
+![](images/1db614a32e0ac876ea10cc02827945bc24c13faf0b9d791ce49c77985070755d.jpg)  
+图6并行干扰抵消算法流程图
+
+首先，在第 $\mathrm { ~ \bf ~ r ~ }$ 次迭代过程中，如果 $\alpha _ { m } ^ { r } \left( a \right) \in A ^ { r } \left( \eta \right)$ 且$\alpha _ { m } ^ { r } \left( a \right) \neq M$ ，则对 $\alpha _ { m } ^ { r } ( a )$ 进行判决，记为 $\hat { \alpha } _ { m } ^ { r } ( a )$ ，另$S _ { m } ^ { r } \left( a \right) = \hat { \alpha } _ { m } ^ { r } \left( a \right)$ 且设置 $\alpha _ { m } ^ { r } \left( a \right) = M$ ，其中 $M$ 可设置为调制符号永远都不会取得的较大数值，如100，1000等；
+
+其次，如果 $\alpha _ { m } ^ { r } \left( a \right) \notin A ^ { r } \left( \eta \right)$ 且 $\alpha _ { m } ^ { r } \left( a \right) \neq 0$ ，则根据 $\tilde { S } _ { m } ^ { r }$ 以及缓存的 $\tilde { S } _ { m - 1 }$ 信号向量结合式（10）（15）进行干扰重构，得到 $I _ { 1 } ^ { \prime } ( a )$ 和 $I _ { 2 } ^ { \prime } ( a )$ ，另 $\begin{array} { r } { \alpha _ { m } ^ { r + 1 } \big ( a \big ) = \alpha _ { m } ^ { r } \big ( a \big ) - I _ { 1 } ^ { \prime } \big ( a \big ) - I _ { 2 } ^ { \prime } \big ( a \big ) , \quad T ^ { r + 1 } = T ^ { r } + \varepsilon \ , } \end{array}$
+
+$$
+A ^ { r + 1 } \big ( \eta \big ) = \left[ \eta - T ^ { r + 1 } , \eta + T ^ { r + 1 } \right] ;
+$$
+
+最后重复上述迭代步骤，直到 $\pmb { \alpha } _ { m }$ 中所有元素都为 $M$ ，则停止迭代。
+
+# 3 复杂度分析
+
+在OFDM系统中，由于CP的应用，接收端相应载波点乘以相应的系数即可消除信道影响，因此均衡器设计简单，处理时延小。在UFMC均衡器设计中不仅需要尽可能抑制干扰，同样需要综合考虑复杂度。本文提出的均衡算法复杂度主要根据扰抵消式（9）（14）进行计算，而两者进行复数乘法的次数大约为 $( 4 d + 1 ) L _ { 2 }$ ，其中 $d$ 为干扰抵消距离， $L _ { 2 }$ 为信道延迟路径数，如果用 $I$ 表示迭代次数， $R$ 表示每次迭代中进行干扰重构的载波数，那么算法整体进行复数乘法的次数约为 $( 4 d + 1 ) L _ { 2 } R I$ 。当$I = 1$ 时，即检测数据全部位于可靠区间内，此时算法复杂度最低，与单抽均衡算法相同。最坏的情况为 $I = N$ 时，即检测数据皆在可靠区间外，且每次通过干扰抵消以及增大可靠区间仅能确定一个可靠子载波，那么算法整体进行复数乘法的次数约为$\frac { 4 d + 1 } { 2 } L _ { 2 } N \Big ( N + 1 \Big )$ ，而其中信道延迟路径数 $L _ { 2 }$ 最大值为9（ETU信道），其复杂度为 $O \Big ( N ^ { 2 } \Big )$ 。但一般情况下，由于每次迭代过程中会通过调整 $\varepsilon$ 来扩大可靠区间，能确定的可靠载波数往往大于1，迭代次数 $I$ 会远小于 $N$ 。
+
+# 4 仿真分析
+
+前面对UFMC系统经过多径信道所受干扰以及抑制干扰的均衡算法进行了理论分析，本节将利用MATLAB对误码率进行仿真，本文仿真的相关参数设置如表1所示。
+
+表1仿真基本参数表  
+
+<html><body><table><tr><td>仿真项目</td><td>参数</td></tr><tr><td>FFT点数N</td><td>512</td></tr><tr><td>实际占用子载波数</td><td>240</td></tr><tr><td>子载波数/子带</td><td>12</td></tr><tr><td>子带数</td><td>20</td></tr><tr><td>滤波器</td><td>切比雪夫</td></tr><tr><td>旁瓣衰减</td><td>30dB</td></tr><tr><td>滤波器长度</td><td>21</td></tr><tr><td>信道模型</td><td>EPA/EVA/ETU</td></tr></table></body></html>
+
+![](images/e78cb7ebef5fee83d1eeb9da48aa55c17fe5d5137e93d548fab8a48ee5bcfd52.jpg)  
+图7不同信道环境下两个系统单抽头均衡误码率
+
+图7仿真了在三种不同信道环境中的OFDM与UFMC系统误码率，即扩展步行者信道模型(extended pedestrianAmodel,EPA)、扩展车辆信道模型 (extendedvehicularAmodel,EVA)和ETU 三种信道，其中OFDM系统的CP长度为最大多径长度，从图中可以看出，在延迟较小的EPA环境中，UFMC系统通过单抽头均衡能够取得较好的性能，误码率与OFDM系统相差不大，但是对于延迟较大的EVA和ETU信道应用单抽头均衡的效果明显不佳，不及加入CP的OFDM系统，但在延迟较大时，
+
+OFDM系统加入的CP长度较大会牺牲频谱效率。在不加CP的UFMC系统中通过设计均衡器解决干扰，使得性能尽可能接近OFDM系统是本节的主旨。
+
+![](images/c7705add4e43af63b3cf8eccdf3b90177c9b65307fa1e4e4f9e2654e7e7a43fb.jpg)  
+图8不同信道下单抽头与本文均衡算法对比
+
+图8为加入本文并行干扰抑制算法后与单抽头均衡的对比图，图中迭代次数 $I = 8$ ， $\varepsilon$ 每次迭代中增量为0.1。从图中红色曲线可以看出加入本文设计的算法后，总体上个信道环境下较单抽头均衡器效果均达到一定改善，在EPA信道环境中，本文效果不是很明显，主要由于延迟较小时，ISI干扰较大的频点增多，而文中为减小复杂度仅取 $\scriptstyle \mathrm { d } = 2$ ，但影响不是很大。主要在应对延迟较大的两个信道中，性能提升能明显看见，而且随着多径延迟增大，本文的算法效果更明显，所以在应对延迟较大的信道本文的算法是可观的。
+
+![](images/50e9db858976054b60da81cef8c6f57a1c7663c5f3677da077cf01558c5f7623.jpg)  
+图9不同信道下几种均衡算法对比
+
+a）图9将OFDM系统中几种时域均衡算法与本文的算法进行了对比，从图中可以发现总体上基于MMSE-DFE（最小均方误差判决反馈均衡)的时域均衡算法较本文与ZF-DFE（迫零判决反馈均衡）算法效果更好，主要由于MMSE-DFE 将噪声考虑进去进行设计，而且在反馈抑制上一符号的干扰，考虑了所有频点，而本文算法只考虑较大的几个频点，但采用ZF/MMSE 算法涉及矩阵求逆，其复杂度为 $O \big ( N ^ { 3 } \big )$ ，而本文在最坏的情况下算法复杂度仅为 $O \Big ( N ^ { 2 } \Big )$ ，相对于 ZF/MMSE-DFE更低。本文算法除在EPA信道中逊于ZF-DFE 算法外，其他两个延迟较大的信道皆优于ZF-DFE，主要由于在EPA信道环境中，ISI干扰较大的频点增多，而文中为减小复杂度仅取距离$d = 2$ 内的载波进行干扰抑制，效果不佳，但随着多径延迟增加
+
+这种影响越来越小。
+
+# 5 结束语
+
+本文主要针对无CP的UFMC系统分析其在多径衰落信道中存在的ICI以及ISI，在延迟较小时系统经过滤波产生的‘软保护’效果结合单抽头均衡便能抑制干扰，但在延迟较大时单抽头均衡方法并不能解决干扰。文本对经过 ZF 均衡的信号首先进行可靠区间判断，以减小错误传播，然后对于RZ外的信号，根据干扰表达式近似重构干扰，最后各载波点并行进行干扰抵消，得到的信号再继续重复上述过程，直到所有的信号位于RZ内，且相较于常用的MMSE-DFE以及ZF-DFE时域均衡算法复杂度降低，能够在多径信道下一定程度减小干扰的影响，降低误码率。
+
+# 参考文献：
+
+[1]IMT-2020(5G)推进组.5G概念白皮书 [R].北京：《5G 概念白皮书》 发布会,2015.(IMT-2020 (5G)PROMOTION GROUP.White Paper on 5G Concept [R]. Beijing: Release Conference of《White Paper on 5G Concept》, 2015.）   
+[2]谢显中．第5代移动通信基本要求与新型多址复用技术[J].重庆邮电 大学学报：自然科学版,2015,27(4):434-440.(Xie Xianzhong. Key requirements and multi-access multiplexing techniques for 5G [J]. Journal of Chongqing University ofPosts and Telecommunications: Natural Science, 2015,27 (4): 434-440.)   
+[3]Zerhouni K,Elassali R,Elbahhar F,et al.On the cyclostationarity of universal filtered multi-carrier UFMC [J].International Journal of Electronics and Communications,2018,89 (3): 174-180.   
+[4]Kibria M G,Villardi G P,Ishizu K,et al.Throughput enhancement of multicarrier cognitive M2M networks: universal-filtered OFDMsystems [J]. IEEE Intermet of Things Journal,2016,3(5): 830-838.   
+[5]Wang Xiaojie,Wild T,Schaich F.Filter optimization for carrier-frequencyand timing-offset in universal filtered multi-carrier systems [C]//Proc of the 81th IEEE Vehicular Technology Conference. [S.1.]: Spring, 2015:1-6.   
+[6]Wang Xiaojie,Wild T, Schaich F,et al.Pilot-aided channel estimation for universal filtered multi-carrier [C]//Proc of the 82th IEEE Vehicular Technology Conference.2015: 1-5.   
+[7]Zhang Lei,Pei Xiao,Quddus A.Cyclic prefix-based universal filtered multicarrier system and performance analysis [J]. IEEE Signal Processing Letters,2016,23 (9): 1197-1201.   
+[8]田广东，王珊，何萍，等．基于LMS 算法的UFMC 系统自适应干扰消 除[J].电子技术应用,2016,42(7):21-25.(Tian Guangdong,Wang Shan, He Ping,et al.Adaptive interference cancellation for UFMC system based onLMS algorithm[J].Application of Electronic Technique,2016,42(7): 21-25.)   
+[9] Wang Shendi, Thompson J S,Grant P M. Closed-form expressions for ICI/ISI in filtered OFDM systems for asynchronous 5G uplink [J]. IEEE Trans on Communications,2017,65 (11): 4886-4898.   
+[10]Li Yushan,Mclaughlin S,CruickshankDGM. OFDM system with cyclic prefix reconstruction and MMSE turbo equalization [C]//Proc of the 62th IEEEVehicular Technology Conference.2005:635-639.   
+[11] Liu Xiqing,Chen HH,Chen Shuyi,et al. Symbol cyclic-shift equalization algorithm:A CP-free OFDM//OFDMA system design [J].IEEE Trans on Vehicular Technology,2017,66 (1): 282-294.   
+[12lPham T.Le-Ngoc T.Woodward G.et al.Eaualization for MIMO-OFDM
+
+systems with insufficient cyclic prefix[C]//Proc of the 63th IEEE Vehicular Technology Conference.2016:1-5.   
+[13] Matz G,Schafhuber D,Grochenig K,et al.Analysis,optimization,and implementation of low-interference wireless multicarrier systems [J].IEEE Trans on Wireless Communications,2007,6(5):1921-1931.   
+[14]Das S,Schniter P.Max-SINR ISI//ICI-shaping multicarrier communication over the doubly dispersive channel [J]. IEEE Trans on Signal Processing, 2007,55(12): 5782-5795.

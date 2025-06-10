@@ -1,0 +1,165 @@
+# 坝上长尾鸡与海兰褐鸡肌肉营养成分对比研究
+
+段玲欣」　常　丽 2.3\*李祥龙1\*\*　彭永东」　张传生 $^ 1$ 贺英 $^ 1$ 逯春香」邓　颖」戴豪杨1（1.河北科技师范学院动物科技学院，秦皇岛 066004；2.河北农业大学动物科技学院，保定071000;3.秦皇岛市农业局，秦皇岛 066004)
+
+摘要：坝上长尾鸡是河北省唯一被列入中国畜禽遗传资源志的地方家禽品种。为了更好地保护和开发利用坝上长尾鸡资源，本试验选取相同饲养管理条件下 200 日龄的该鸡种和海兰褐鸡各180只，每组随机分为5个重复，每个重复36只。在同一条件下常规饲养，于230 日龄每组挑选10只鸡屠宰，对肌肉中主要营养成分进行了比较分析。结果显示：1)坝上长尾鸡肌肉中的粗蛋白质和粗脂肪含量与海兰褐鸡相比差异不显著（ $\cdot P { > } 0 . 0 5$ )。2)2 鸡种间胸肌、腿肌中的必需氨基酸含量差异不显著 $( P { > } 0 . 0 5 )$ ；坝上长尾鸡肌肉中的呈味氨基酸（谷氨酸、天冬氨酸、甘氨酸和丙氨酸）显著高于海兰褐鸡（ $\cdot P { < } 0 . 0 5 )$ ，腿肌中的苦味氨基酸——苯丙氨酸含量显著低于海兰褐鸡 （ $\cdot P { < } 0 . 0 5$ )。3）坝上长尾鸡腿肌中的不饱和脂肪酸、饱和脂肪酸和总脂肪酸含量显著低于海兰褐鸡（ $\cdot P { < } 0 . 0 5 )$ ；坝上长尾鸡腿肌中的花生四烯酸和二十二碳六烯酸含量显著高于海兰褐鸡（ $\scriptstyle P < 0 . 0 5 )$ )。4）坝上长尾鸡胸肌中的镁（ $\scriptstyle P < 0 . 0 1 { \dot { } }$ 和铁（ $. P { < } 0 . 0 5 )$ 含量显著高于海兰褐鸡，腿肌中的钠（ $( P { < } 0 . 0 5 )$ 、镁 $( P { < } 0 . 0 1 )$ 和铁 $( P { < } 0 . 0 5 )$ 的含量显著高于海兰褐鸡。由此可见，2 鸡种肌肉品质优良，且坝上长尾鸡肌肉品质优于海兰褐鸡。
+
+关键词：坝上长尾鸡；海兰褐鸡；氨基酸；脂肪酸；矿物元素
+
+中图分类号：S831
+
+坝上长尾鸡是我国优良的地方品种资源，属于以蛋用为主的蛋肉兼用型鸡种，主要分布在河北北部的承德、张家口的坝上地区，具有抗严寒、耐粗饲、适应性强等特点，是河北省唯一被列入《中国畜禽遗传资源志：家禽志》（2011）的地方家禽品种[1]。目前，关于坝上长尾鸡品种资源调查[]、生长发育测定[3-4]等方面已经开展了相关工作，但关于坝上长尾鸡肌肉品质测定的研究还未见报道。因此，本研究随机抽取相同饲养管理条件下笼养的 200 日龄坝上长尾鸡母鸡，用相同日龄的海兰褐蛋鸡作为对照，进行了品质及肌肉营养成分的测定，比较其肌肉品质和营养价值，为坝上长尾鸡优良地方鸡种的保种、品种选育及开发利用提供数据参考。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+测定样品取自张家口京星园生态农业有限公司坝上长尾鸡保种基地的坝上长尾鸡，对照组为相同饲养管理条件下的海兰褐鸡。
+
+# 1.2 主要仪器
+
+气相色谱仪（日本岛津GC-2010）、高效液相色谱仪（日本岛津LC-20AB）、氨基酸分析仪（日立L-8900）、原子吸收分光光度计、凯氏定氮仪、索氏脂肪仪、茂福炉和绞肉机（九阳 JYS-A950)等。
+
+# 1.3试验分组
+
+选择 200 日龄坝上长尾鸡和海兰褐鸡各180羽，随机分为5个重复，每个重复36只，2鸡种饲喂同种高峰期蛋鸡全价料，同时笼养于立体3层的半开放式鸡舍中，每天饲喂干粉料3次，自由采食和饮水，每日光照 $1 6 \mathrm { h }$ ，试验鸡基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>64.0</td><td>代谢能 ME/(MJ/kg)</td><td>10.93</td></tr><tr><td>豆粕 Soybean meal</td><td>22.5</td><td>粗蛋白质 CP</td><td>16.50</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.5</td><td>钙Ca</td><td>3.34</td></tr><tr><td>石粉 Limestone</td><td>8.0</td><td>总磷TP</td><td>0.58</td></tr><tr><td>预混料 Premix1)</td><td>4.0</td><td>有效磷 AP</td><td>0.40</td></tr><tr><td>合计 Total</td><td>100.0</td><td></td><td></td></tr></table></body></html>
+
+1 预混料为每千克饲粮提供 Premix provided the folowing per kilogram of diet：VA 10 000 IU，VD33 500 IU，VE20IU，VK32 mg，硫胺素 thiamine $1 \mathrm { m g }$ ，核黄素 riboflavin $5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $6 \ : \mathrm { m g }$ ，烟酸 nicotinicacid $3 0 ~ \mathrm { m g }$ ，吡哆醇 pyridoxine $6 \ : \mathrm { m g }$ ，生物素 biotin $1 . 5 ~ \mathrm { m g }$ ，叶酸 folic acid $2 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } \thinspace 2 \mathrm { ~ m g }$ ，胆碱choline $5 0 0 \mathrm { m g }$ ，Mn $6 5 ~ \mathrm { m g }$ ， $\mathrm { 1 0 . 8 ~ m g }$ ，Fe $6 0 ~ \mathrm { m g }$ ， $\mathrm { C u } 8 \mathrm { m g }$ ， $\mathrm { Z n 8 0 ~ m g }$ ，Se $0 . 3 ~ \mathrm { m g }$ 。
+
+2）代谢能为计算值，其余为实测值。ME was a calculated value,while the others were measured values.
+
+# 1.4 测定指标及方法
+
+2 种鸡同种饲粮饲喂30d后，每组180羽中各随机抽取10只，于230日龄屠宰，放血后屠宰并全净膛，取左右两侧胸肌和腿肌各 $2 0 0 ~ \mathrm { g }$ ，置于塑料自封袋中， $- 2 0 { } ^ { \circ } \mathrm { C }$ 冷冻保存。肌肉化学组成由本实验室测定，其余指标委托北京市营养源研究所完成。
+
+# 1.4.1 肌肉化学组成的测定
+
+将胸肌和腿肌的肉样分别用绞肉机绞3遍，取样测定肌肉中的水分、粗蛋白质和粗脂肪含量，分别参照GB/T9695.15—2008、GB/T9695.11—2008和GB/T9695.7—2008。每个样品每个指标做 3个平行测定，取平行测定的算术平均数作为该样品该指标的测定值。
+
+# 1.4.2 氨基酸和脂肪酸含量测定
+
+样品测定前处理：将一 $2 0 ^ { \circ } \mathrm { C }$ 保存的肌肉样品转移到 $4 ^ { \circ } \mathrm { C }$ 解冻，解冻后用绞肉机绞碎均匀后，取$1 0 0 ~ \mathrm { { m g } }$ 左右的肉样进行测定。17种氨基酸含量参照GB/T 5009.124—2003 方法测定，其中色氨酸以$4 . 2 \ : \mathrm { m o l / L }$ 氢氧化钠(NaOH)水解，其余氨基酸以 $6 \mathrm { m o l / L }$ 的盐酸(HCI)水解测定，之后用日立L-8900氨基酸自动分析仪进行分析。脂肪酸含量的测定按GB/T22223—2008方法，用气相色谱仪分析。
+
+# 1.4.3 肌肉胆固醇测定方法
+
+按GB/T22220—2008的测定方法，用高效液相色谱仪分析。
+
+# 1.4.4肌肉矿物元素测定指标及方法
+
+采用原子吸收分光光度计分析。铜按GB/T 5009.13—2003，锌按GB/T 5009.14—2003，镁、铁、 锰按 GB/T 5009.90—2003，钾、钠按 GB/T 5009.91—2003，钙按 GB/T 5009.92—2003 测定。
+
+# 1.5 数据统计
+
+试验结果使用SPSS13.0进行样品 $\mathbf { \Psi } _ { t }$ 检验。数据用平均值±标准差表示。
+
+# 2结果与分析
+
+2.1坝上长尾鸡和海兰褐鸡肌肉化学成分
+
+由表2可知，鸡种之间比较，坝上长尾鸡肌肉中的粗蛋白质和粗脂肪含量与海兰褐鸡相比差异不显著（ $\cdot P { > } 0 . 0 5 ) .$ ；部位之间比较，坝上长尾鸡胸肌中的粗蛋白质含量显著高于腿肌（ $. P { < } 0 . 0 5 )$ ，坝上长尾鸡胸肌中的粗脂肪含量极显著低于腿肌（ $P { < } 0 . 0 1 \ \mathrm { \cdot }$ ）
+
+# 表2坝上长尾鸡和海兰褐鸡肌肉化学成分
+
+Table 2Muscle chemical component of Bashang long-tail and Hy-Line brown chickens %
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="2">胸肌Breast muscle</td><td colspan="2">腿肌Leg muscle</td></tr><tr><td>坝上长尾鸡 Bashang long-tail chicken</td><td>海兰褐鸡 Hy-Line brown</td><td>坝上长尾鸡Bashang long-tail chicken</td><td>海兰褐鸡 Hy-Line brown</td></tr><tr><td>干物质 Dry matter</td><td>24.70±0.46</td><td>chicken 24.95±0.25</td><td>24.42±0.27</td><td>chicken 24.28±0.60</td></tr><tr><td>粗蛋白质 Crude</td><td></td><td>23.42±0.58C</td><td>20.42±0.46B</td><td>19.30±0.90D</td></tr><tr><td>protein</td><td>23.17±0.77A</td><td></td><td></td><td></td></tr><tr><td>粗脂肪 crude fat</td><td>1.71±0.49A</td><td>2.75±0.28A</td><td>4.05±0.32C</td><td>5.03±1.54B</td></tr></table></body></html>
+
+不同鸡种之间，同行数据肩标相邻小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相间小写字母表示差异极显著（ $P { < } 0 . 0 1 \ \cdot$ )，相同字母或无字母表示差异不显著（ $. P { > } 0 . 0 5$ )；同一鸡种不同部位之间，同行数据肩标相邻大写字母表示差异显著 $( P _ { }$ $< 0 . 0 5 )$ ，相间大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。
+
+Between diferent breeds,values in the same row with adjacent lowercase leter superscripts mean significant diference （20 $( P { < } 0 . 0 5 )$ ,and with alternate lowercase lettr superscripts mean extramely significant difference $( P { < } 0 . 0 1 )$ ，while with the same letter or no letter supericripts mean no significant differenc ( $( P { > } 0 . 0 5 )$ .Between different muscle parts of the same breed,values in the same row with adjacent capital leter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with alternate capital letter superscripts mean extramely significant diference $( P { < } 0 . 0 1 )$ ，while with the same letter or no letter supericripts mean no significant differenc $( P > 0 . 0 5 )$ ). The same as below.
+
+# 2.2坝上长尾鸡和海兰褐鸡肌肉氨基酸含量
+
+由表3可知，鸡种之间比较，坝上长尾鸡胸肌中的亮氨酸（ $_ { \scriptstyle P < 0 . 0 1 }$ ）、苏氨酸（ $P { < } 0 . 0 1$ ）、丝氨酸（ $P { < } 0 . 0 1 \ \mathrm { \cdot }$ ）、天冬氨酸（ $P { < } 0 . 0 1 \rangle$ 、谷氨酸（ $. P { < } 0 . 0 5$ ）和丙氨酸（ $_ { . P < 0 . 0 1 }$ ）含量显著或极显著高于海兰褐鸡，缬氨酸（ ${ \cdot } P { < } 0 . 0 1 .$ 、酪氨酸（ $_ { . P < 0 . 0 1 }$ ）和脯氨酸（ ${ \cdot } P { < } 0 . 0 5$ ）含量显著或极显著低于海兰褐鸡，胸肌其余氨基酸含量两者差异不显著（ $. P { > } 0 . 0 5 )$ ；坝上长尾鸡腿肌中的亮氨酸（ $_ { . P < 0 . 0 5 }$ 、丝氨酸（ $_ { _ { P < 0 . 0 5 } }$ ）、天冬氨酸（ ${ \cdot } P { < } 0 . 0 1$ ）和丙氨酸（ $. P { < } 0 . 0 1$ ）含量显著或极显著高于海兰褐鸡，苯丙氨酸（ $. P { < } 0 . 0 5$ ）和酪氨酸（ ${ \cdot } P { < } 0 . 0 1$ ）含量显著或极显著低于海兰褐鸡，腿肌其余氨基酸含量两者差异不显著（ $P { > } 0 . 0 5 )$ ）°
+
+部位之间比较，坝上长尾鸡胸肌中的苯丙氨酸含量极显著高于腿肌( $_ { , P < 0 . 0 1 } )$ ，色氨酸 $( P { < } 0 . 0 1 )$ 、异亮氨酸（ $. P { < } 0 . 0 5 )$ 、氨酸（ ${ \scriptstyle P < 0 . 0 1 }$ ）、组氨酸（ $( P { < } 0 . 0 1 )$ 、酪氨酸（ $_ { . } P { < } 0 . 0 5 { \ : } )$ ）、天冬氨酸（ $( P { < } 0 . 0 5 )$ （204号和丙氨酸( $_ { . } P { < } 0 . 0 1 \$ )含量显著或极显著低于腿肌;海兰褐鸡胸肌中的亮氨酸( $. P { < } 0 . 0 5 ^ { \cdot }$ ）、氨酸 $( P { < } 0 . 0 1 )$ 、苏氨酸（ $P { < } 0 . 0 1$ )、赖氨酸（ $P { < } 0 . 0 5 \$ ）、组氨酸（ $P { < } 0 . 0 1 \$ ）、天冬氨酸（ $P { < } 0 . 0 5$ ）和丙氨酸（ ${ \cdot } P { < } 0 . 0 1$ ））
+
+显著或极显著低于腿肌，同时，海兰褐鸡胸肌中的总氨基酸含量也极显著低于腿肌肉（ $( P { < } 0 . 0 1 )$ 。
+
+表3坝上长尾鸡和海兰褐鸡肌肉氨基酸含量  
+Table 3Amino acid contents in muscle of Bashang long-tail and Hy-Line brown chicken $\%$   
+
+<html><body><table><tr><td colspan="3">胸肌 Breast muscle</td><td colspan="2">腿肌 Leg muscle</td></tr><tr><td>项目</td><td>坝上长尾鸡</td><td>海兰褐鸡</td><td>坝上长尾鸡</td><td>海兰褐鸡</td></tr><tr><td>Items</td><td>Bashang long-tail</td><td>Hy-Line brown</td><td>Bashang long-tail</td><td>Hy-Line brown</td></tr><tr><td></td><td>chicken</td><td>chicken</td><td>chicken</td><td>chicken</td></tr><tr><td>色氨酸Trp</td><td>0.17±0.05aA</td><td>0.18±0.03a</td><td>0.26±0.01bC</td><td>0.21±0.06b</td></tr><tr><td>异亮氨酸Ile</td><td>0.83±0.04aA</td><td>0.86±0.04a</td><td>0.91±0.06bB</td><td>0.89±0.04b</td></tr><tr><td>亮氨酸Leu</td><td>1.80±0.08a</td><td>1.58±0.04cB</td><td>1.92±0.13b</td><td>1.69±0.07cC</td></tr><tr><td>氨酸Val</td><td>0.90±0.05aA</td><td>1.01±0.02cB</td><td>1.06±0.04bC</td><td>1.12±0.07bD</td></tr><tr><td>苏氨酸 Thr</td><td>0.90±0.04a</td><td>0.84±0.01cB</td><td>0.96±0.05b</td><td>0.90±0.04bD</td></tr><tr><td>赖氨酸Lys</td><td>1.80±0.09</td><td>1.75±0.05A</td><td>1.92±0.12</td><td>1.87±0.07B</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.83±0.03A</td><td>0.80±0.01</td><td>0.75±0.04bC</td><td>0.87±0.08c</td></tr><tr><td>蛋氨酸Met</td><td>0.57±0.03</td><td>0.58±0.02</td><td>0.60±0.04</td><td>0.60±0.04</td></tr><tr><td>组氨酸His</td><td>0.59±0.05A</td><td>0.59±0.03B</td><td>1.02±0.03C</td><td>0.94±0.19D</td></tr><tr><td>酪氨酸Tyr</td><td>0.03±0.01aA</td><td>0.64±0.01°</td><td>0.04±0.00bB</td><td>0.67±0.05d</td></tr><tr><td>精氨酸Arg</td><td>1.30±0.06</td><td>1.26±0.07</td><td>1.34±0.10</td><td>1.31±0.09</td></tr><tr><td>丝氨酸 Ser</td><td>0.84±0.04a</td><td>0.76±0.03c</td><td>0.84±0.04b</td><td>0.78±0.02c</td></tr><tr><td>甘氨酸Gly</td><td>0.89±0.06</td><td>0.87±0.12</td><td>0.91±0.03</td><td>0.92±0.08</td></tr><tr><td>天冬氨酸 Asp</td><td>2.03±0.09aA</td><td>1.82±0.06cC</td><td>2.20±0.10bB</td><td>1.97±0.10dD</td></tr><tr><td>谷氨酸Glu</td><td>3.46±0.15a</td><td>3.20±0.09b</td><td>3.37±0.32</td><td>3.20±0.20</td></tr><tr><td>丙氨酸 Ala</td><td>1.37±0.06aA</td><td>1.12±0.03cB</td><td>1.53±0.09bC</td><td>1.20±0.04dD</td></tr><tr><td>脯氨酸 Pro</td><td>0.58±0.03a</td><td>0.66±0.07b</td><td>0.57±0.06</td><td>0.71±0.13</td></tr><tr><td>总氨基酸 TAA</td><td>18.87±0.78</td><td>18.52±0.23A</td><td>20.19±1.13</td><td>19.83±0.77C</td></tr></table></body></html>
+
+2.3坝上长尾鸡和海兰褐鸡肌肉脂肪酸和胆固醇含量 鸡种之间。由表4可知，坝上长尾鸡和海兰褐鸡胸肌中除 $a -$ 亚麻酸外的必需脂肪酸和非必需脂
+
+肪酸含量差异均不显著（ $( P { > } 0 . 0 5 )$ ，但坝上长尾鸡胸肌中的棕榈酸、棕榈油酸、硬脂酸、油酸、亚油酸、花生四烯酸和二十二碳六烯酸（DHA）含量均比海兰褐鸡低。坝上长尾鸡腿肌中的肉豆蔻酸（ $P { < } 0 . 0 5 \$ )、棕榈酸（ $P { < } 0 . 0 1$ )、亚油酸（ $_ { \scriptstyle P < 0 . 0 1 }$ ）和 $a -$ 亚麻酸（ ${ \cdot } P { < } 0 . 0 1$ ）含量显著或极显著低于海兰褐鸡，但花生四烯酸和DHA 含量显著高于海兰褐鸡 $( P { < } 0 . 0 5 )$ 。无论胸肌还是腿肌中的棕榈油酸、硬脂酸和油酸含量2 鸡种之间差异不显著 （ $( P { > } 0 . 0 5 )$ ，但坝上长尾鸡肌肉中的棕榈油酸、硬脂酸和油酸含量均比海兰褐鸡低。可见品种对脂肪酸含量和组成有影响。由表5可知，坝上长尾鸡肌肉中的胆固醇含量与海兰褐鸡比较差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+部位之间。由表4 可知，坝上长尾鸡和海兰褐鸡腿肌中的棕榈酸、棕榈油酸、硬脂酸、油酸、亚油酸和花生四烯酸含量均显著或极显著高于胸肌（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )，项上长尾鸡胸肌和腿肌中的DHA含量差异不显著 $( P { > } 0 . 0 5 )$ ，海兰褐鸡胸肌中的DHA含量显著高于腿肌（ $. P { < } 0 . 0 5 )$ 。由表5可知，海兰褐鸡胸肌和腿肌中的胆固醇含量差异不显著 ${ ( P { > } 0 . 0 5 ) }$ ，坝上长尾鸡胸肌和腿肌中的胆固醇含量差异极显著 $( P { < } 0 . 0 1 )$ 。
+
+表4坝上长尾鸡和海兰褐鸡肌肉脂肪酸含量  
+Table 4Fat acid contents in muscle of Bashang long-tail and Hy-Line brown chickens g/100g   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="2">胸肌 Breast muscle</td><td colspan="2">腿肌Leg muscle</td></tr><tr><td>坝上长尾鸡</td><td>海兰褐鸡</td><td>坝上长尾鸡</td><td>海兰褐鸡</td></tr><tr><td>Items</td><td>Bashang long-tail chicken</td><td>Hy-Line brown chicken</td><td>Bashang long-tail chicken</td><td>Hy-Line brown</td></tr><tr><td>肉豆蔻酸 C14:0</td><td><0.01</td><td>ND</td><td>0.02±0.01a</td><td>chicken 0.03±0.00b</td></tr><tr><td>棕榈酸 C16:0</td><td>0.26±0.06A</td><td>0.44±0.17B</td><td>0.67±0.14bC</td><td>0.94±0.16dD</td></tr><tr><td>珠光脂酸C17：0</td><td>ND</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>硬脂酸 C18:0</td><td>0.13±0.03aA</td><td>0.18±0.07aB</td><td>0.31±0.04bC</td><td>0.36±0.05bD</td></tr><tr><td>花生酸 C20:0</td><td>ND</td><td>ND</td><td>ND</td><td><0.01</td></tr><tr><td>山崙酸 C22：0</td><td>ND</td><td>ND</td><td><0.01</td><td>ND</td></tr><tr><td>棕榈油酸 C16:1</td><td>0.02±0.01A</td><td>0.03±0.02C</td><td>0.09±0.02B</td><td>0.10±0.02D</td></tr><tr><td>油酸 C18:1</td><td>0.35±0.10A</td><td>0.61±0.30C</td><td>1.10±0.26B</td><td>1.49±0.30D</td></tr><tr><td>二十碳一烯酸 C20：1</td><td>ND</td><td><0.01</td><td>0.01±0.00</td><td>0.01±0.00</td></tr><tr><td>神经酸 C24：1</td><td>ND</td><td>ND</td><td><0.01</td><td>ND</td></tr></table></body></html>
+
+表5坝上长尾鸡和海兰褐鸡肌肉胆固醇含量  
+
+<html><body><table><tr><td>亚油酸 C18:2</td><td>0.20±0.04A</td><td>0.49±0.35B</td><td>0.67±0.17bC</td><td>1.19±0.28dD</td></tr><tr><td>γ-亚麻酸 C18:3</td><td>ND</td><td><0.01</td><td>0.01±0.00</td><td>0.01±0.00</td></tr><tr><td>α-亚麻酸C18:3</td><td>0.00±0.01a</td><td>0.01±0.01bB</td><td>0.01±0.01c</td><td>0.04±0.01dD</td></tr><tr><td>二十碳二烯酸C20：2</td><td>ND</td><td><0.01</td><td>0.01±0.00</td><td><0.01</td></tr><tr><td>二高-γ-亚麻酸</td><td>ND</td><td><0.01</td><td>0.01±0.00</td><td><0.01</td></tr><tr><td>C20 :3</td><td></td><td>0.12±0.02aB</td><td></td><td></td></tr><tr><td>花生四烯酸 C20:4 二十二碳六烯酸 C22:6</td><td>0.11±0.02aA</td><td>0.02±0.01A</td><td>0.17±0.01bC</td><td>0.14±0.02cC</td></tr><tr><td>饱和脂肪酸 SFA</td><td>0.01±0.01 0.39±0.09A</td><td>0.63±0.25B</td><td>0.02±0.01a</td><td>0.01±0.00bB</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>0.37±0.11A</td><td>0.65±0.32C</td><td>1.00±0.18bC 1.20±0.28B</td><td>1.34±0.21cD 1.60±0.32D</td></tr><tr><td>多不饱和脂肪酸PUFA</td><td>0.33±0.06A</td><td>0.64±0.37B</td><td>0.91±0.17bC</td><td></td></tr><tr><td></td><td>0.70±0.16A</td><td>1.29±0.68B</td><td></td><td>1.40±0.30cD</td></tr><tr><td>不饱和脂肪酸UFA</td><td></td><td></td><td>2.11±0.44bC</td><td>3.00±0.58cD</td></tr><tr><td>总脂肪酸 TFA</td><td>1.09±1.25A</td><td>1.92±0.93B</td><td>3.11±0.60bC</td><td>4.34±0.78cD</td></tr></table></body></html>
+
+ND：未检出 Not detected。
+
+Table 5Cholesterol content in muscle of Bashang long-tail and Hy-Line brown chickens mg/100g   
+
+<html><body><table><tr><td></td><td colspan="2">胸肌 Breast muscle</td><td colspan="2">腿肌 Leg muscle</td></tr><tr><td>项目</td><td>坝上长尾鸡</td><td>海兰褐鸡</td><td>坝上长尾鸡</td><td>海兰褐鸡</td></tr><tr><td>Item</td><td>Bashang long-tail</td><td>Hy-Line brown</td><td>Bashang long-tail</td><td>Hy-Line brown</td></tr><tr><td></td><td>chicken</td><td>chicken</td><td>chicken</td><td>chicken</td></tr><tr><td>胆 固 Cholesterol</td><td>35.34±4.23A</td><td>40.64±10.01</td><td>51.50±3.25C</td><td>49.02±4.34</td></tr></table></body></html>
+
+2.4坝上长尾鸡和海兰褐鸡肌肉矿物元素含量
+
+鸡种之间比较。由表6可知，坝上长尾鸡胸肌中的镁（ $_ { - P < 0 . 0 1 }$ ）和铁（ $. P { < } 0 . 0 5$ ）含量显著或极显著高于海兰褐鸡，坝上长尾鸡腿肌中的钠（ $P { < } 0 . 0 5 \$ 、镁（ $( P { < } 0 . 0 1$ ）和铁（ $. P { < } 0 . 0 5$ ）含量显著或极显著高于海兰褐鸡。
+
+部位之间比较。由表6可知，坝上长尾鸡胸肌中的钠（ $\scriptstyle P < 0 . 0 1 { \mathrm { . } }$ 、钙（ $_ { _ { P < 0 . 0 5 ) } }$ 、铁（ $( P { < } 0 . 0 1 )$ 和锌（ $P { < } 0 . 0 5 )$ 含量显著或极显著低于腿肌，镁含量极显著高于腿肌（ $\scriptstyle P < 0 . 0 1 { \mathrm { ? } }$ ；海兰褐鸡胸肌中的钠$( P { < } 0 . 0 1 )$ 、铁 $( P { < } 0 . 0 1 )$ 和锌( $( P { < } 0 . 0 5 )$ 含量显著或极显著低于腿肌，镁含量极显著高于腿肌( $( P { < } 0 . 0 1 )$ 。表6坝上长尾鸡和海兰褐鸡肌肉矿物元素含量
+
+Table 6Mineral element contents in muscle of Bashang long-tail and Hy-Line brown chickens mg/100g   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="2">胸肌 Breast muscle</td><td colspan="2">腿肌Leg muscle</td></tr><tr><td>坝上长尾鸡</td><td>海兰褐鸡</td><td>坝上长尾鸡</td><td>海兰褐鸡</td></tr><tr><td>Items</td><td>Bashang long-tail chicken</td><td>Hy-Line brown chicken</td><td>Bashang long-tail chicken</td><td>Hy-Line brown chicken</td></tr><tr><td>钾K</td><td>339.43±32.97</td><td>303.70±53.09</td><td>286.60±44.50</td><td>308.25±24.74</td></tr><tr><td>钠Na</td><td>45.94±5.58A</td><td>47.06±3.78B</td><td>77.18±5.03cC</td><td>68.11±2.93dD</td></tr><tr><td>钙Ca</td><td>3.72±0.39aA</td><td>3.53±0.33ab</td><td>4.56±0.42bB</td><td>4.13±0.64bc</td></tr><tr><td>镁Mg</td><td>35.86±0.88aA</td><td>31.55±1.38cB</td><td>28.45±0.43bC</td><td>25.38±0.59dD</td></tr><tr><td>铁Fe</td><td>0.67±0.05aA</td><td>0.57±0.04bB</td><td>1.67±0.04cC</td><td>1.49±0.14dD</td></tr><tr><td>锌Zn</td><td>0.56±0.02A</td><td>0.53±0.04C</td><td>2.63±0.26B</td><td>2.50±0.56D</td></tr><tr><td>锰Mn</td><td><0.01</td><td><0.01</td><td>0.01±0.00</td><td>0.02±0.01</td></tr><tr><td>铜Cu</td><td><0.01</td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1 肌肉化学成分
+
+肌内脂肪含量影响鸡肉的嫩度、多汁性和风味，也是消费者选择和衡量肉品的重要指标[5]。当肌内脂肪含量达到 $3 . 0 \% { \sim } 7 . 5 \%$ 时，肌肉鲜滑且肥而不腻、食用口感较好；低于 $2 . 5 \%$ 时，肌肉干枯质硬、口感较差。坝上长尾鸡肌肉脂肪平均含量恰好接近 $3 . 0 \%$ ，食用口感最佳。鸡胸肌脂肪含量为$1 . 7 5 \%$ ，占整鸡体重的 $1 8 \% \sim 2 0 \% ^ { [ 7 ] }$ ，可能喜欢胸肌的消费者认为该鸡肉口感很差，但不能因此否定坝上长尾鸡。本试验发现33 周龄坝上长尾鸡胸肌和腿肌中的粗脂肪含量均低于海兰褐鸡，推测可能因为鸡只日龄和品种影响脂肪沉积。从粗蛋白质含量看，坝上长尾鸡和海兰褐鸡的胸肌粗蛋白质含量均显著高于腿肌，说明胸肌的蛋白质营养优于腿肌。
+
+# 3.2肌肉氨基酸和脂肪酸含量
+
+肌肉中必需氨基酸是评价其营养价值优劣的主要指标之一。坝上长尾鸡胸肌、腿肌8种必需氨基酸占总氨基酸的比例分别为 $4 1 . 3 4 \%$ 、 $4 1 . 5 1 \%$ ，海兰褐鸡胸肌、腿肌必需氨基酸占总氨基酸的比例分别为 $4 1 . 0 4 \%$ 、 $4 1 . 1 0 \%$ ，均达到联合国粮农组织/世界卫生组织提出的理想蛋白质中必需氨基酸占总氨基酸的比例为 $40 \%$ 的要求。2鸡种胸肌、腿肌必需氨基酸与非必需氨基酸的比例也达到了联合国粮农组织/世界卫生组织要求的 $6 0 \%$ 以上。
+
+动物蛋白质的鲜美在一定程度取决于其呈味氨基酸的组成与含量。4 种呈味氨基酸中，谷氨酸（Glu）和天冬氨酸（Asp）为呈鲜味的特征性氨基酸，其中Glu 的鲜味最强，甘氨酸（Gly）和丙氨酸(Ala)是呈甘味的特征性氨基酸[8-9]。坝上长尾鸡胸肌、腿肌呈味氨基酸的平均含量分别为 $7 . 7 5 \%$ 和 $8 . 0 1 \%$ ，而海兰褐鸡胸肌、腿肌平均含量分别为和 $7 . 0 1 \%$ 和 $7 . 2 9 \%$ ，坝上长尾鸡胸肌和腿肌的呈味氨基酸显著高于海兰褐鸡。苯丙氨酸为苦味氨基酸，坝上长尾鸡腿肌的苯丙氨酸显著低于海兰褐鸡。从必需氨基酸占总氨基酸的比例，以及呈味氨基酸与苦味氨基酸的组成上看，坝上长尾鸡均优于海兰褐鸡。因此，与海兰褐鸡相比，坝上长尾鸡氨基酸营养价值极高。
+
+对于脂肪酸含量，坝上长尾鸡腿肌的大部分脂肪酸，包括亚油酸、棕榈酸、饱和脂肪酸、多不饱和脂肪酸和总脂肪酸等含量均显著低于海兰褐鸡。多不饱和脂肪酸摄入量偏低影响血脂健康，建议经常食用坝上长尾鸡的人通过其他途径增加不饱和脂肪酸的摄入量[10]。脂肪酸含量是影响肌肉风味的主要因素之一，也是注重营养保健低脂饮食人群的首选。必需脂肪酸是细胞膜合成的必要成分，也是鸡肉营养价值评价必不可少的指标。花生四烯酸作为三大必需脂肪酸之一，是多种生物活性物质的前体，参与造血和免疫调节，并在许多疾病的病理生理过程中起重要作用。DHA俗称脑黄金，作为人类和动物生长发育的结构膜，在人体大脑皮层和眼睛视网膜中含量分别高达 $20 \%$ 和 $5 0 \%$ ，对脑和视网膜的健全十分重要[]。本试验中，坝上长尾鸡腿肌的花生四烯酸和 DHA 含量显著高于海兰褐鸡。所以，在这2种脂肪酸的营养方面，坝上长尾鸡对比海兰褐鸡有明显的优势。生物体内花生四烯酸由前体亚油酸在酶的作用下转化衍生而来，DHA 是以前体 $\mathfrak { a }$ -亚麻酸通过碳链延长和去饱和转化而成[12]。而作为花生四烯酸和DHA的前体，坝上长尾鸡的亚油酸和 $\mathfrak { a }$ -亚麻酸的含量显著低于海兰褐鸡，推测坝上长尾鸡腿肌利用前体转化为花生四烯酸和DHA的能力较强。
+
+# 3.3 肌肉矿物元素含量
+
+矿物质元素是保证人体正常生长发育的六大营养素之一。矿物质元素在人体内含量虽少，但承担着重要的生理功能。如铁是血红蛋白的结构成分并维持着血红蛋白运输功能，锌作为体内几十种酶的组成成分与大脑发育和智力有关，维持上皮和黏膜组织的完整等。本试验测定的胸肌、腿肌 8种矿物元素，按平均值计，坝上长尾鸡绝大多数高于海兰褐鸡，特别是镁和铁含量，无论胸肌还是腿肌，坝上长尾鸡均显著高于海兰褐鸡。对于目前吃肉多而蔬菜少的缺镁一族[13]，既能饱吃肉之口福，又能补充镁。对于普遍缺乏铁、锌、钙的城乡居民[14]，坝上长尾鸡无疑是最好的选择。
+
+4结论
+
+坝上长尾鸡作为河北省宝贵的禽类遗传资源，除了产地口碑极佳的蛋用价值、良好的适应性及观赏性外，肌肉中必需氨基酸、呈味氨基酸、花生四烯酸、DHA 和矿物质等营养和风味的指标含量显著高于我国目前饲养量较大的优良蛋鸡品种海兰褐鸡，是品质优良的地方鸡种。
+
+参考文献:  
+[1]陈国宏.中国禽类遗传资源[M].上海:上海科学技术出版社,2004:39-41.  
+[2]刘小辉,李祥龙,周荣艳,等.坝上长尾鸡品种资源调查报告[J].中国畜牧兽医,2014,41(6):182-187.[3]刘小辉,李祥龙,周荣艳,等.坝上长尾鸡育雏期生长发育规律研究[J].吉林农业科学,2015,40(1):76-81.  
+[4] 刘小辉,李祥龙,周荣艳,等.坝上长尾鸡育成期生长发育规律研究[J].湖北农业科学,2016,55(2):418-421,424.  
+[5] 席鹏彬,蒋宗勇,林映才,等.鸡肉肉质评定方法研究进展[J].动物营养学报,2006,18(增刊):347-352.[6] KERRYJ,KERRYJ,LEDWARDD.现代肉品加工与质量控制[M].任发政,译.北京:中国农业大学出版社,2006:24.  
+[7] 马闯.世界肉类生产和消费需求及发展趋势[J].中国禽业导刊,2010,27(5):2-7.  
+[8]曾广植.氨基酸的味道及其甜味剂[J].化学通报,1990(8):1-9.  
+[9] 蒋滢,徐颖,朱庚伯.人类味觉与氨基酸味道[J].氨基酸和生物资源,2002,24(4):70.  
+[10] 郎丽巍,王洪允,胡蓓,等.多不饱和脂肪酸在癌症及炎症疾病方面的研究进展[J].中国生化药物杂志,2014,34(1):153-155,158.  
+[11] 曹万新,孟橘,田玉霞.DHA的生理功能及应用研究进展[J].中国油脂,2011,36(3):1-4.  
+[12] BAUCELLS M D,CRESPO N,BARROETA A C,et al.Incorporation of diferent polyunsaturated fattyacids into eggs[J].Poultry Science,2000,79(1):51-59.  
+[13] 马凤喜.吃得精细小心缺镁症[N].中国妇女报,2006-11- 21(2).  
+[14] 于小冬,柴巍中.中国营养强化食品产业发展报告[C]//中国营养产业发展报告(2006).北京:公众营养与发展中心,2006.
+
+# Comparative Study on Muscle Nutritional Components Between Bashang Long-tail and Hy-Line Brown
+
+# Chicken
+
+DUAN Lingxin1 CHANG $\operatorname { L i } ^ { 2 , 3 * }$ LI Xianglong1\*\*PENG Yongdong1 ZHANG Chuansheng1 HE
+
+# Ying1LU Chunxiang1DENG Ying1DAI Haoyang1
+
+1. Couege of Animal Science ana lecnnology, Hebel Normat University of Science & Iecnnology nhuangdao O660O4, China; 2. Collge of Animal Science and Technology, Agricultural University ebei, Baoding O71001, China; 3. Agriculture Bureau of Qinhuangao, Qinhuangao O66004, China) Abstract: Bashang long-tail chicken is the only local poultry variety included in Animal Genetic Resources in China of Hebei Province. In order to better protect and exploit the resources of Bashang long-tail chicken, one hundred and eighty 2Oo-day-old Bashang long-tail chicken and Hy-Line brown chicken were selected and divided into 5 replicates randomly with thirty-six chickens per replicate. At 23O days of age,1O chickens of each breed were slaughtered and main nutrient components in the muscle were compared and analyzed under the same feeding and management conditions. The results showed as follows: 1） the contents of crude protein and crude fat in muscle of Bashang long-tail chicken and Hy-Line brown chinken had no significant difference $( P { > } 0 . 0 5 )$ .2）There was no significant difference in essential amino acid content between breast muscle and leg muscle of two breeds $( P { > } 0 . 0 5 )$ .The contents of delicious amino acids(glutamic acid,aspartic acid,glycine and alanine) in muscle of Bashang long-tail chicken were significantly higher than those of Hy-Line brown chicken( $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 ,$ ，and bitter amino acid phenylalanine content in leg muscle of Bashang long-tail chicken was significantly lower than that of Hy-Line brown chicken( $( P { < } 0 . 0 5 )$ .3） The contents of unsaturated fatty acids, saturated fatty acids and total fatty acids in leg muscle of Bashang long-tail chicken were significantly lower than those of Hy-Line brown chicken $( P { < } 0 . 0 5 )$ . The contents of arachidonic acid and aocosahexaenoic acid in leg muscle of Bashang long-tail chicken were significantly higher than those of Hy-Line brown chicken $( P { < } 0 . 0 5 )$ . 4） The contents of magnesium $( P { < } 0 . 0 1 )$ and iron ( $( P { < } 0 . 0 5 )$ in breast muscle of Bashang long-tail chicken were significantly higher than those of Hy-Line brown chicken,and the contents of sodium $( P { < } 0 . 0 5 )$ ，magnesium $( P { < } 0 . 0 1 )$ and iron $( P { < } 0 . 0 5 )$ in leg muscle of Bashang long-tail chicken were significantly higher than those of Hy-Line brown chicken. In conclusion,muscle quality of two breeds is reasonable, moreover, the quality of Bashang long-tail chicken is better than that of Hy-Line brown chicken. Key words: Bashang long-tail chicken; Hy-Line brown chicken; amino acid; fatty acid; mineral element

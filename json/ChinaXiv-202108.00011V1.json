@@ -1,0 +1,672 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of stones on the sand saltation threshold during natural sand and dust storms in a stony desert in Tsogt-Ovoo in the Gobi Desert, Mongolia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Batjargal BUYANTOGTOKH1,2\\*， Yasunori KUROSAKI'， Atsushi TSUNEKAWA1,Mitsuru TSUBO'，BatdelgerGANTSETSEG²，Amarsaikhan DAVAADORJ²,Masahide ISHIZUKA³, Tsuyoshi T SEKIYAMA4, Taichu Y TANAKA4, Takashi MAKI4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Arid Land Research Center,Tottori University,Totori 680-0o01,Japan;   \n² Informationand Research InstituteofMeteorology,Hydrologyand Environment, Ulaanbatar 15160,Mongolia;   \n3Faculty ofEngineering andDesign,Kagawa UniversityTakamatsu761-0396,Japan;   \n4Meteorological Research Institute,Japan Meteorological Agency,Tsukuba 305-0o52, Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Non-erodible elements such as stones and vegetation are key to controlling wind erosion and dust emission in drylands. Stony deserts are widely distributed in the Gobi Desert, but the effect of stones on wind erosion and dust emission have not been wel studied, except under artificial conditions. In this study, we evaluated the effect of stones on wind erosion and dust emission by measuring the sand saltation threshold in a stony desert in Tsogt-Ovoo in the Gobi Desert,Mongolia,under natural surface conditions during sand and dust storms.We quantified the amount of stones by measuring the roughness density, and determined the threshold friction velocity for sand saltation by measuring wind speed and sand saltation count. Our results showed that the threshold friction velocity increased with the roughness density of stones.In the northern part of the study area, where neither a surface crust nor vegetation was observed, the roughness density of stones was O.0oo in a topographic depression (TD),0.05O on a northern slope (N.SL),and 0.160 on the northern mountain (N.MT). The mean threshold friction velocity values were 0.23, O.41,and $0 . 5 7 \\mathrm { ~ m } / \\mathrm { s }$ at the TD,N.SL,and N.MT sites, respectively. In the southern part of the study area, the roughness density values of stones were 0.000 and 0.070-0.32O at the TD and southern slope sites,respectively,and the mean threshold friction velocities were 0.23 and $0 . 4 5 { - } 0 . 7 1 \\mathrm { ~ m / s }$ ，respectively. We further compared the observed threshold friction velocities with simulated threshold friction velocities using Raupach's theoretical roughness correction and the measured roughness density values,and found that Raupach's roughness correction worked very well in the simulation of threshold friction velocity in the stony desert.This means that the results of our stone measurement can be applied to a numerical dust model. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:arid region;threshold friction velocity；roughness density；shear stress；sand saltation threshold roughness correction; Gobi Desert ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sand and dust storms can cause human and animal mortality (Mu et al.，2O13） and health deterioration (Onishi et al., 2015),as well as agricultural production losses (Yang et al., 2002). Additionally, aeolian dust particles that originate from such storms have an impact on climate, though the scale of that impact is still under debate (e.g., Boucher et al.， 2O13). To avoid damage from storms and to evaluate their effects,a high-precision three-dimensional numerical dust cycle model is needed because of the large uncertainty in the amount of dust emission of current models, which shows an 11.1-fold difference in global dust emission (Wu et al., 2020). Many factors influence erodibility and dust emission. Factors affecting the susceptibility of soil and land surfaces to wind erosion include the presence and coverage of stones, soil particle size, the presence of a soil crust, soil wetness,and the amounts of snow cover and vegetation (Kurosaki et al.,2O1la).The effects of these factors on the occurrence of sand and dust storms in East Asia, one of the world's major dust sources,have been evaluated by using an erodibility index,such as the threshold wind friction velocity,and dust occurrence ratios (Kurosaki et al., 2011a,b; Wu et al., 2O16,202O). However, the effect of stones has not been evaluated under natural conditions in East Asia. The Gobi Desert in northern China and southern Mongolia, along with the Taklimakan Desert in Northwest China, is a major dust source in East Asia (e.g., Natsagdorj et al.,2003;Wang et al.,2008; Chen et al.,2017). The Gobi Desert is characterized by widely distributed stone pavements (Cooke,1970). An area covered by a stone pavement is referred to as a \"gobi\", which means \"stony desert\" in Chinese, but in Mongolian, \"gobi\" is used for a \"desert with sparse vegetation, barren soil, and scarce surface water\". ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Aeolian sand saltation is a key dust emission process (Greeley and Iversen,1985; Shao et al., 1993).The threshold value of wind friction velocity for sand saltation depends on many parameters, including soil particle size (Gillette et al., 1980; Shao and Lu,20oo; Edwards and Namikas,2015),the presence of non-erodible elements (Gillette,1978; Marticorena et al., 2006; Tan et al.,2019),soil moisture (Ishizuka et al.,2009),soil crust (Gillette et al.,1982; Marticorena et al.,1997a),and other soil properties (Gillette,1988). Non-erodible roughness elements, which include vegetation, stones,and soil crusts, influence the major physical processes involved in wind erosion (Callot et al.,2Ooo) through two effects: the coverage effect and the shear stress (i.e.,drag) partitioning effect (Marshall, 1971； Iversen et al.，1990). In quantitative terms, increased coverage of non-erodible elements,by reducing the total erodible area,reduces the sand saltation amount. Similarly, the partitioning of the total shear stress due to wind into the force exerted on the roughness elements and that exerted on intervening surfaces (Schlichting, 1936) reduces the wind shear stress that reaches the soil surface (Gilies et al., 2007） and increases the sand saltation threshold.Li et al. (2O2O) have shown that variation of sand saltation threshold is due to the different shear stresses caused by the presence of non-erodible elements. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Several theoretical models have been developed to describe the partitioning of shear stress between the surface and roughness elements (Raupach,1992; Raupach et al.,1993; Marticorena and Bergameti,1995). Specifically, these models describe the effect of roughness elements on the threshold friction velocity，which is the minimum friction velocity required to initiate movement of sand particles.In dust models, the frequency of sand and dust events is determined by how often the wind velocity exceeds the threshold friction velocity，and their intensity depends on by how much the threshold is exceeded (Callot et al.,2Oo0). The model developed by Raupach et al. (1993) accounts for the effects of roughness elements and their coverage on the threshold friction velocity（Webb et al.，2O20) by using the roughness density，which is defined here as the sum of the element frontal areas (i.e., facing the wind direction) divided by the ground surface area,and constant parameters such as the basal-to-frontal area ratio of nonerodible elements. In general, the model by Raupach et al. (1993) performs well with respect to the results of wind tunnel experiments (Gilies et al., 2Ooo), field experiments conducted with artificial cylindrical roughness elements (Gillies et al.,20o7),and field experiments conducted in vegetated areas (e.g., King et al., 2005; Gillette et al., 2006). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate the effects of two types of roughness elements, i.e.， solid elements (e.g., gravel， stone） and flexible elements (e.g.，vegetation)，on the threshold friction velocity, Marticorena et al. (1997b) developed a double shear stress partition model based on the single shear stress partition model of Marticorena et al. (1997a)，and Darmenova et al. (2009) developed a double shear stress partition model based on the model of Raupach et al. (1993). Darmenova et al. (2O09) used their model to simulate dust transport over East Asia, as did Xi and Sokolik (2015),Foroutan et al. (2017),and Lee and Park (2020) using the same model. All of the above-mentioned model studies employed representative roughness density of stones for each land cover type because data on the roughness density of a natural stone surface covering wide areas of the world were not available.For example, the minimum roughness density of solid elements is constant in barren and sparsely vegetated land, which is the dominant land cover type in our study area (Tsogt-Ovoo in the Gobi Desert, Mongolia). We question whether accurate results can be obtained by using a constant representative roughness density for natural stones to estimate the threshold friction velocity in this study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effects of stones on wind erosion in the Gobi Desert of northern China have been studied mainly by field wind tunnel measurements (e.g., Tan et al.,2013; Zhang et al.,2014; Zhang et al., 2015; Zhang et al., 2016). In these above-mentioned studies, stone coverage was strongly correlated with the threshold friction velocity, and the sand flux decreased exponentially with stone coverage. However, these studies did not consider the effect of the roughness density of stones on the threshold velocity. Recently,Tan et al. (2O19) conducted a wind tunnel experiment in the Gobi Desert for aeolian saltation to determine the threshold wind velocities for artificial stony surfaces with different roughness densities and revealed that the threshold friction velocity for sand saltation increased with the roughness density of stones. Their results agree well with the model of Raupach et al. (1993). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Field-based, wind tunnel,and model simulation studies have all shown that the aerodynamic roughness length and roughness density of non-erodible elements are important parameters for assessing the effect of surface roughness elements on the threshold friction velocity in wind erosion models. However, roughness elements are generally described only by their roughness density (Marticorena et al.,1997b). There is a good relation between the ratio of aerodynamic roughness length to the mean height of roughness elements and roughness density (Marshall, 1971; Lancaster and Baas,1998; King et al., 2005; Marticorena et al., 2006; Hebrard et al., 2012). Thus, for natural stones, if the roughness density and the mean height are well quantified, then the aerodynamic roughness length can be obtained by using the aforementioned relation and could be used in wind erosion models.Therefore, in this study, we measured the roughness density of stones and the observed sand saltation thresholds in Tsogt-Ovoo in the Gobi Desert, Mongolia.We also used the model of Raupach et al. (1993)，which includes a roughness correction, to simulate threshold friction velocity using the measured roughness density of stones.The main objective of this research was to evaluate the effects of stones on the threshold friction velocity for sand saltation. The specific objectives were as follows: (1） to quantify roughness density for different coverages, numbers, and sizes of stones; (2) to calculate the threshold friction velocity using observed sand saltation count data and meteorological data; and (3） to validate the theoretical model with roughness correction by simulating threshold friction velocity using the measured roughness density of stones. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Study area and methodology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sand and dust storms are a common phenomenon in Asian drylands such as the Gobi Desert and Taklimakan Desert. Our study sites are located in Tsogt-Ovoo Village $( 4 4 ^ { \\circ } 2 3 ^ { \\prime } 0 4 ^ { \\prime \\prime } \\mathrm { N }$ $1 0 5 ^ { \\circ } 1 6 ^ { \\prime } 5 9 ^ { \\prime \\prime } \\mathrm { E }$ ), South Gobi Province,Mongolia, which is in the northern part of the Gobi Desert (Ishizuka et al., 2012). An analysis of meteorological observatory data has shown that TsogtOvoo experiences the highest frequency of dust storms in East Asia (Kurosaki and Mikami, 2007). The area around Tsogt-Ovoo includes a topographic depression that extends approximately $1 0 ~ \\mathrm { k m }$ in the northeast-southwest direction and $2 0 \\mathrm { k m }$ in the northwest-southeast direction (Fig.1). Further, the vegetation coverage in Tsogt-Ovoo differs depending on the topography (Gantsetseg et al.， 2017). The mean annual precipitation during 1975-2019 was $1 0 0 . 4 ~ \\mathrm { m m }$ . More than two-thirds of the annual precipitation occurs from June to August. The annual mean temperature was $3 . 8 ^ { \\circ } \\mathrm { C }$ in 2011 with a maximum temperature of $3 7 . 1 ^ { \\circ } \\mathrm { C }$ in August and a minimum temperature of $- 3 1 . 3 ^ { \\circ } \\mathrm { C }$ in January (Ishizuka et al., 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc2dce169a4e277872894d083123310a3dcddc5619e89dc139791aa43e21e017.jpg",
+        "img_caption": [
+            "Fig.1 Topographic map showing the locations of the observation sites around Tsogt-Ovoo.Stars indicate sites where observations were conducted year-round: The Main site (labeled 1;see Table 1） was established in March 2012,and sites Subl4A and Sub14B (labeled 2 and 3,respectively)were established in March 2014. Temporary observation sites are indicated by triangles.Observations were conducted during $1 { - } 5 \\ \\mathrm { M a y } \\ 2 0 1 8$ at sites Sub18A-Sub18D (abeled 4-7,respectively)and from 27 April to 8 May 2019 at sites Sub19A-Sub19D (labeled 8-11,respectively).Wind speed,wind direction,and sand saltationcount were observed at all sites, whereas soil moisture was observed only at the year-round sites. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The sites are located in five different topographic positions, designated southern mountain (S.MT; Sub18A site), southern slope (S.SL; Sub14B, Sub19A, and Sub19B sites), topographic depression (TD; Sub14A, Sub18D, Sub19C,and Sub19D sites), northern slope (N.SL; Main and Sub18B sites),and northern mountain (N.MT; Sub18C site) (Table 1). It should be noted that the two digits in the site name indicate the installation year. We chose the temporary site locations on the basis of land surface features, especially the size and amount of stones. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows land surface conditions in front of the sand saltation count sensor at the different sites. There was no green or dead vegetation at the Main, Subl4A,and Sub14B sites in spring 2018, but green or dead vegetation was observed at those sites in spring 2019. There was a hard crust at the Subl4A, Sub18A,and Subl8D sites in both years. There was a soft crust on sandy soil at the Sub19C site.Further,at the site Sub19D,there was a sand sheet with no vegetation, crust, or stones. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because land surface characteristics differed from site to site in our study area, we compared the simulated threshold friction velocity at each study site with the observed value to validate the theoretical model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e02a7d61cf4f23cc928ef7b158ea5d15d92d48c0221dc0a50ed43e8a5e8add3.jpg",
+        "table_caption": [
+            "Table 1 Site locations and type, measurement periods,topographic positions,and surface characteristics "
+        ],
+        "table_footnote": [
+            "Note:S.T,ouhemotai;S.SL,outhsoe;TD,tographcdepresson;N.SL,orthesloe;NM,orthotain "
+        ],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Site</td><td colspan=\"2\">Geographical coordinates</td><td>Typeof</td><td>Observation</td><td>Topositiphic</td><td>charauteristic</td></tr><tr><td rowspan=\"2\">1</td><td rowspan=\"2\">Main</td><td rowspan=\"2\">44°23'04\"N</td><td rowspan=\"2\">105°16'59\"E</td><td rowspan=\"2\">Year-round</td><td>1-5 May 2018</td><td rowspan=\"2\">N.SL</td><td>Stone</td></tr><tr><td>27 April-8 May</td><td>Stone and</td></tr><tr><td rowspan=\"2\">2</td><td rowspan=\"2\">Sub14A</td><td rowspan=\"2\">44°23'37\"N</td><td rowspan=\"2\">105°13'24\"E</td><td rowspan=\"2\">Year-round</td><td>2019 1-5 May 2018</td><td rowspan=\"2\">TD</td><td>vegetation Hard crust</td></tr><tr><td>27 April-8 May</td><td>Crust and</td></tr><tr><td rowspan=\"2\">3</td><td rowspan=\"2\">Sub14B</td><td rowspan=\"2\">44°23'32\"N</td><td rowspan=\"2\">105°13'12\"E</td><td rowspan=\"2\">Year-round</td><td>2019</td><td rowspan=\"2\">S.SL</td><td>vegetation</td></tr><tr><td>1-5 May 2018 27 April-8 May</td><td>Stone Stone and</td></tr><tr><td>4</td><td>Sub18A</td><td>44°22'23\"N</td><td>105°11'28\"E</td><td>Temporary</td><td>2019 1-5 May 2018</td><td>S.MT</td><td>vegetation</td></tr><tr><td>5</td><td>Sub18B</td><td>44°24'26\"N</td><td>105°14'01\"E</td><td>Temporary</td><td>1-5 May 2018</td><td>N.SL</td><td>Stone Stone</td></tr><tr><td>6</td><td>Sub18C</td><td>44°27'32\"N</td><td>105°16'48\"E</td><td>Temporary</td><td>1-5 May 2018</td><td>N.MT</td><td>Stone</td></tr><tr><td>7</td><td>Sub18D</td><td>44°21'47\"N</td><td>105°14'51\"E</td><td>Temporary</td><td>1-5May 2018</td><td>TD</td><td>Hard crust</td></tr><tr><td>8</td><td>Sub19A</td><td>44°21'52\"N</td><td>105°14'04\"E</td><td>Temporary</td><td>27 April-8 May</td><td>S.SL</td><td>Stone</td></tr><tr><td>9</td><td>Sub19B</td><td>44°22'02\"N</td><td>105°14'27\"E</td><td>Temporary</td><td>2019 27 April-8 May</td><td>S.SL</td><td>Stone</td></tr><tr><td>10</td><td>Sub19C</td><td>44°22'29\"N</td><td>105°14'54\"E</td><td>Temporary</td><td>2019 27 April-8 May</td><td>TD</td><td>Sand and soft</td></tr><tr><td>11</td><td>Sub19D</td><td>44°22'39\"N</td><td>105°14'59\"E</td><td>Temporary</td><td>2019 27 April-8 May 2019</td><td>TD</td><td>crust Sand</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e6acbc3a6d59305c7928407922b033b602c59351ff50033f6d4a73bbbe73188.jpg",
+        "img_caption": [
+            "Fig.2 Land surface conditions in front of the saltation count sensor at14 observation sites.Each site name is shown at the botom of each photo with the topographic position (MT,mountain; SL,slope; TD,topographic depression) and observation year in parentheses.The diameter of the mouth of the sand catcher was $3 . 1 \\ \\mathrm { c m }$ ,and the diameter of the sand saltation count sensor was $1 . 2 \\mathrm { c m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The workflow for this study is shown in Figure 3. Specifically, image analysis was used to directly measure the height, width,and length of 105 stones at each site; these measurements were used together with the stone coverage to calculate the roughness density of stones. The obtained roughness density was used in a roughness correction parameterization to simulate the threshold friction velocity at each site and to determine the roughness length of the stony sites. The observed wind speed and roughness length were used to calculate the friction velocity. The obtained friction velocity and the observed sand saltation count (hereafter, saltation count) were used to determine the instantaneous threshold friction velocity. The instantaneous threshold values were used to calculate the mean threshold friction velocity during the observation period shown in Table 1. Finally, the observed mean was used to validate the simulated threshold friction velocity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Observation Model simulation Measurement of the twenty one images eigh,wi degh Ideal theshaldroelocity at each site) Image analysis to determine stone coverage,width,length Roughness density of stone () ② f():Roughness correction and number ① (Marshall, 1971) (Raupach etal.,1993) ③ Wind speed Roughness length at1.7m height (Foroutan et al.,2017) Soil moisture correction 4 (Fécan et al.,1998) Friction velocity Sand saltation Saltconcentrationcorrection count at 0.1 m ⑤ height Instantaneous threshold friction velocity, Soil crust correction (Bagnold,1941) ⑥ Mean threshold 7 Threshold friction velocity Validation friction velocity (Shao et al.,2011) Direct measurement Calculation ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 Observations of meteorological parameters, saltation count, and soil texture ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We measured the spatial coverage and size (i.e.， height, width， and length） of stones, meteorological parameters such as wind speed and wind direction, saltation count, and soil texture at each site. Layout of quadrats where land surface photographs were taken for stone measurement and demonstration of anemometer and wind vane are shown in Figure 4. Wind speed, wind direction, and saltation count were measured at each site during 1-5 May 2018 and from 27 April to 8 May, 2019. Anemometers (S-WSA-M003, Onset Company, Bourne, MA, USA) and wind vanes (S-WDA-M003, Onset Company, Bourne, MA, USA) were installed at a height of $1 . 7 \\mathrm { ~ m ~ }$ at each site (Fig. 4b). Saltation count sensors (UD-101, Chuo Kosoku Ltd., Japan)(Udo,20o9） were installed at a height of $0 . 1 \\mathrm { ~ m ~ }$ at each site (Fig. 4b). Soil moisture sensors (S-SMC-M005, Onset Company, Bourne,MA, USA) were installed to $5 \\ \\mathrm { c m }$ depth.The saltation count, wind speed, and wind direction were measured at $3 0 \\mathrm { ~ s ~ }$ intervals.The UD-101 sensor was positioned facing the northwest (i.e., $3 1 5 ^ { \\circ } )$ ，which is the prevailing direction of strong winds in the study area (Ishizuka et al., 2O12).We used only the observational data obtained when the wind direction was in the northwest quarter, from $2 6 0 ^ { \\circ }$ to $3 7 0 ^ { \\circ }$ (or $1 0 ^ { \\circ }$ ).We collected soil samples from the surface layer ( $\\mathrm { 1 - 5 ~ c m }$ depth) at each site and analyzed the soil texture by the dispersion method (Faé et al.,2O19). Soil moisture measurements were performed only at the Main, Sub14A,and Sub14B sites. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 Measurements of stones ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We used image analysis to obtain the breadth and height of stones and their number for calculating the roughness density of stones at each site. We took 21 photographs of the surface in $3 0 \\ \\mathrm { c m } { \\times } 5 0$ cm quadrats (including the scale) at each site (Fig. 4a).We established three $2 1 \\mathrm { - m }$ long observation lines extending northward (N), northwestward (NW),and westward (W) from a point in the southeast part of the site,where the measurement instruments for the saltation count and wind were installed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9efeeecf9e01640a94fd0d7af84fc4d745667fba043967892a594f86d4522ccd.jpg",
+        "img_caption": [
+            "Fig.4 Layout of quadrats (gray rectangles)where land surface photographs were taken for stone measurement (a)and demonstration of anemometer and wind vane (b).The black dot in the left panel indicates the position of the UD-10l count sensor, which faced northwest.The UD-1Ol sensor was installed at the height of $0 . 1 \\mathrm { ~ m ~ }$ ·， the anemometer and wind vane were installed at the height of $1 . 7 \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 Measurements of stone coverage, width, length, and number by image analysis We used ImageJ version $1 . 5 2 \\mathrm { p }$ ，developed by the U.S. National Institutes of Health to automatically count and measure the number and size of each stone, which are necessary to obtain the roughness density of stones (Mazzoli and Moriconi, 2014). Figure 5 shows the steps involved in image processing. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d9ee2a7461c437d00a5fa2303612f4a1f1c32879b74519754cb5435c20441f7.jpg",
+        "img_caption": [
+            "Fig.5 Demonstration of image processing steps.(a),cropped image with scale; (b),the color threshold for soil that is manuallyset; (c),image after application ofthe threshold for stones and the \"FillHoles\"and \"Watershed\" functions to separate particles; (d),final image after application of the \"Extended Particle Analyzer\" function, which removes coarse sand particles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the first step, the pixel size was measured by referring to the $3 0 ~ \\mathrm { c m } { \\times } 5 0 ~ \\mathrm { c m }$ scale (see Fig. 4a). After the scale was set, the image was cropped to exclude the scale (Fig. 5a).In the second step,the \"Color Threshold\" function was used to color the soil surface,while stones retained their original color. The color threshold was manually adjusted, but we detected some stones on the soil surface with a color similar to that of the soil by tracing their outlines by hand (Fig. 5b). In the third step,we converted the RGB image to an 8-bit grayscale image, seting the soil surface to O (black) and the stones to 255 (white). After this step, some gray areas were left. In the fourth step,these gray areas were divided into stone and soil automatically by using the threshold method of Otsu (1979). However, some fine particles,too small to be stones, were left. Therefore, in the fifth step,the functions \"Fill Holes\" and \"Watershed\" were applied to separate these particles (Fig. 5c). Finally, in the sixth step,we revised colors of stones and background and removed fine particles with an area smaller than $0 . 1 2 ~ \\mathrm { c m } ^ { 2 }$ ， corresponding to a diameter of $4 . 0 \\ \\mathrm { m m }$ , by applying the \"Extended Particle Analyzer\" function (Fig. 5d). Then, we measured the width,length,and area of each stone and used the stone areas to estimate the stone coverage as the area fraction of stones (black areas in the final image) in each $3 0 \\ \\mathrm { c m } { \\times } 5 0$ cm quadrat. The averaged stone coverage of the 21 images was considered to represent the stone coverage at the site. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 Roughness density of stones ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The roughness density, $\\lambda _ { s }$ (i.e., lateral cover),is defined as the ratio of the total frontal area of all roughness elements to the total surface area, and the calculation formula is as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { s } = \\frac { n s } { S } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } b _ { i } h _ { i } } { S } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the number of roughness elements; $b$ (cm) and $h \\ ( { \\mathrm { c m } } )$ are the roughness element and height, respectively; $s ( \\mathrm { c m } ^ { 2 } )$ is the mean frontal silhouette area of the obstacles present over the horizontal surface area $S \\ : ( \\mathrm { c m } ^ { 2 } )$ (e.g.,Marshall,1971)； and $i$ is the stone. The frontal silhouette area of each stone was computed from the width and height of each stone. We determined the breadth of each stone by averaging the width and length of the stone obtained by the image analysis (Section 2.4.1). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We estimated the height of each stone from the two-dimensional image by assuming that the breadth to height ratio at a given site was constant.To obtain the representative breadth to height ratio for each site, we measured the height, width,and length of 1O5 stones at the site in the field and used the averaged width and length values to calculate the breadth. We calculated the height of each stone in the two-dimensional images using the equation: ${ h _ { i } } \\mathrm { { = } } { b _ { i } } / r$ ，where $r$ is the representative breadth to height ratio.Finally, we used Equation 1 to calculate roughness density $( \\lambda _ { s } )$ . The averaged roughness densities of the 21 images were considered to be the representative roughness density value at each site. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5 Roughness length ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The aerodynamic roughness length is a function of the mean height, density, and shape of the solid elements. Several studies have empirically determined the relationships among aerodynamic roughness length, roughness mean height, and roughness density of natural desert surfaces, especially sparsely vegetated and stony surfaces (e.g., Lancaster and Baas,1998; King et al.,2005; Marticorena et al., 2006; Hebrard et al., 2012). Foroutan et al. (2017) compiled aerodynamic roughness length，roughness density， and roughness mean height from data reported by several field and wind tunnel studies (King et al., 2Oo5; Marticorena et al., 2006; Hebrard et al., 2O12) and created a comprehensive database of aerodynamic roughness lengths. By fiting straight lines to the relationship between the ratio of aerodynamic roughness length to roughness mean height and roughness density, Foroutan et al. (2O17) estimated the aerodynamic roughness length relevant to aeolian processes as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { z _ { 0 } } { h } = \\left\\{ \\begin{array} { l l } { 0 . 9 6 0 \\lambda _ { s } ^ { 1 . 0 7 } , \\lambda _ { s } < 0 . 2 } \\\\ { 0 . 0 8 3 \\lambda _ { s } ^ { - 0 . 4 6 } , \\lambda _ { s } \\ge 0 . 2 } \\end{array} , \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $z _ { 0 }$ (cm) is the aerodynamic roughness length; $h$ (cm) is the roughness mean height; and $\\lambda _ { s }$ is the roughness density. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We used the mean stone height at each site and Equation 2 to determine the aerodynamic roughness length at the stony sites in this study. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For relatively smooth surfaces,aerodynamic roughness length is approximately 1/30 of the mean particle diameter (Greeley and Iversen,1985). The value of aerodynamic roughness length was used at the sandy sites or sites with crusts (Sub19C, Sub19D and Sub14A). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.6 Friction velocity and the threshold friction velocity estimated from observations ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6.1 Friction velocity ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The friction velocity, which represents the surface shear stress exerted by the wind, is a critical parameter in numerical dust emission schemes. It determines the onset and end of saltation, and it also affects the horizontal sand flux and the vertical dust flux.By assuming a logarithmic wind profile under neutral conditions,the friction velocity $u *$ can be calculated as, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { * } = \\frac { k U _ { 1 . 7 } } { \\log ( z / z _ { 0 } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $k$ is the von Karman constant ( $\\scriptstyle ( k = 0 . 4 1 )$ ） $z _ { 0 } ~ ( \\mathrm { m / s } )$ is the aerodynamic roughness length; $z$ $\\mathrm { ( m ) }$ is the observation height $( z { = } 1 . 7 \\mathrm { ~ m } )$ ；and $U _ { 1 . 7 } ~ \\mathrm { ( m / s ) }$ is the observed wind speed at the observation height of $1 . 7 \\mathrm { m }$ . Note that in Equation 3,we used the aerodynamic roughness length estimated from the roughness density obtained with Equation 2. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6.2 Threshold friction velocity obtained from observations ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The threshold friction velocity for sand saltation is commonly defined as the minimum friction velocity required for the initiation of sand transport. Several methods have been employed to calculate this value (Barchyn and Hugenholtz, 2O11),although generally the threshold wind velocity is actually calculated instead of the threshold friction velocity. We employed the\"Instantaneous Method\" of Bagnold (1941),which identifies the friction velocity at which sand saltation begins and ends as the threshold friction velocity (Barchyn and Hugenholtz, 2011). The instantaneous threshold friction velocity $( u _ { ^ { * } t { \\mathrm { ~ i n s t } } } )$ was estimated every 30 s (Section 2.3),and the mean threshold friction velocity $\\left( u _ { * t \\mathrm { m e a n } } \\right)$ over the observation period (Table 1） was used for validating the simulated threshold friction velocities. Figure 6 presents an example of a friction velocity time series to illustrate the method used to determine the instantaneous threshold friction velocities.The black and blue gray lines show the friction velocity when sand saltation was observed or not observed,respectively. The red circles indicate the times at which sand saltation started and ended,and the friction velocities at those times were used as the instantaneous threshold friction velocities. The green line shows the friction velocity when the wind direction was between $1 0 ^ { \\circ }$ and $2 6 0 ^ { \\circ }$ .Because the sand saltation sensors(UD-1O1） faced northwest (i.e., $3 1 5 ^ { \\circ } )$ ), the instantaneous friction velocities were not determined when the wind direction was between $1 0 ^ { \\circ }$ and $2 6 0 ^ { \\circ }$ , although the sand saltation was active. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4480621048c5a4bed8ff51092ba4bea7d21c7e6d970654e1a479240e0564051.jpg",
+        "img_caption": [
+            "Fig.6 Time series of friction velocity during 28-29 May 2019 at the site Subl9D.Blue line,no sand transport; black line,active sand transport; $\\boldsymbol { u } _ { * t }$ inst,instantaneous threshold friction velocity at the start and end of sand transport; $u * t$ mean,mean threshold friction velocity (dashed horizontal line).Friction velocities obtained when the wind direction was between $1 0 ^ { \\circ }$ and $2 6 0 ^ { \\circ }$ (green line) were not used in the determination of the threshold friction velocity.Friction velocity was calculated using Equation 3 with aerodynamic roughness length of the threshold friction velocity.Friction velocity was calculated using Equation 3 with aerodynamic roughness length of $0 . 0 0 1 2 \\mathrm { ~ m } / \\mathrm { s }$ . Wind speed and wind direction (WD） were measured at $1 . 7 \\mathrm { ~ m ~ }$ height.UTC is the Coordinated Universal Time. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.7Parameterization of the threshold friction velocity in the numerical model ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The threshold friction velocity represents the minimum wind speed for the mobilization of soil grains. Under ideal conditions (i.e.， no roughness elements，no soil moisture,no salt concentration, and no soil crust), the threshold friction velocity can be calculated by considering the balance among wind drag, gravity,and interparticle cohesion (Shao and Lu, 2oo0). The threshold friction velocity $( u * _ { t } )$ for an arbitrary surface that is affected by roughness elements (shear stress partitioning)，soil moisture， salt concentration,and soil crust is expressed as follows: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { * _ { t } } = ( d _ { s } , \\lambda , w , s _ { c } , s _ { c r } ) = u _ { * _ { t 0 } } ( d _ { s } ) f ( \\lambda ) f ( w ) f ( s _ { c } ) f ( s _ { c r } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $d _ { s }$ (mm) is the sand particle size; $u _ { \\ast t 0 } \\ \\mathrm { ( m / s ) }$ is the threshold friction velocity of sand particles of size under ideal conditions; $\\lambda , w ( \\mathbf { m } ^ { 3 } / \\mathbf { m } ^ { 3 } )$ ， $s _ { c }$ ,and $s _ { c r }$ are the roughness density of the roughness elements, soil moisture, salt concentration,and soil crust, respectively; and $f ( \\lambda ) , f ( \\nu )$ $f ( s _ { c } )$ ，and $f ( s _ { c r } )$ are the correction functions for surface roughness elements, soil moisture,salt concentration,and soil crust, respectively (Shao et al.,2O11).All of these correction functions are equal to or greater than $1 . f ( s c )$ and $f ( s _ { c r } )$ are often set to 1 in numerical simulations because of the lack of parameterizations and data. Shao and Lu (2ooo) derived the following simple expression for an ideal threshold friction velocity: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { * _ { t 0 } } ( d _ { s } ) = \\sqrt { A _ { N } ( \\frac { \\overline { { \\rho _ { p } } } } { \\rho _ { a } } g d _ { s } + \\frac { A _ { L } } { \\rho _ { a } d _ { s } } ) } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho _ { p }$ （ $( \\mathrm { k g } / \\mathrm { m } ^ { 3 } )$ is the sand particle density $( \\rho _ { p } { = } 2 5 6 0 ~ \\mathrm { k g / m } ^ { 3 } )$ ： $\\rho _ { a }$ ${ \\bf \\chi } _ { a } ~ ( \\mathrm { k g } / \\mathrm { m } ^ { 3 } )$ is the air density （204号 $\\scriptstyle ( \\rho _ { a } = 1 . 2 2 5 \\ \\mathrm { k g } / \\mathrm { m } ^ { 3 } )$ ： $g \\ ( \\mathrm { m } / \\mathrm { s } ^ { 2 } )$ is the gravitational acceleration $\\left( g { = } 9 . 8 1 \\ \\mathrm { m / s } ^ { 2 } \\right)$ ； and $\\mathbf { \\nabla } A _ { N }$ and $\\ b { A _ { L } }$ are constants $\\scriptstyle ( A _ { N } = 0 . 0 1 2 3$ and $A _ { L } { = } 1 . \\bar { 6 } 5 { \\times } 1 0 ^ { - 4 } \\mathrm { \\ k g / s } ^ { 2 } )$ ，which account for the magnitude of the interparticle cohesive forces and are empirically determined by a wind tunnel experiment (Greeley and Iversen, l985). Note that we did not measure the sand particle size $d _ { s }$ at the observation sites. In this study, we used the minimum values of the threshold friction velocity of sand particles of size corresponding to a soil particle diameter of about $8 0 ~ \\mathrm { m m }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7.1 Surface roughness effect (shear stress partitioning effect)   \nWe adapted the surface roughness factor of Raupach et al. (1993) based on drag partitioning to   \ninclude the effects of solid elements (i.e., stones): ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { f ( \\lambda ) = \\sqrt { ( 1 - \\sigma _ { s } m _ { s } \\lambda _ { s } ) ( 1 + \\beta _ { s } m _ { s } \\lambda _ { s } ) } , } } \\\\ { { { } } } \\\\ { { \\beta _ { s } = \\frac { C _ { R } } { C _ { s } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma _ { s }$ is the ratio of the basal to frontal area of the roughness elements; $m _ { s }$ is a parameter accounting for spatial nonuniformity of surface stress that ranges between O and 1 (1 for uniform stress and decreasing as nonuniformity increases); $\\lambda _ { s }$ is the roughness density of the solid elements (Raupach et al., 1993); $\\beta _ { s }$ is representing the drag partition of a single roughness element; $C _ { R }$ is the drag coefficient for isolated roughness elements； and $C _ { S }$ is the drag coefficient for the soil surface. In this study, we used the average roughness density of stones at each site for representing the roughness density of the solid elements.For $\\beta _ { s }$ , Shao et al. (2015) recommended using a value between 100 and 400.In this study,following Tan et al. (2019), we set $m _ { s } = 0 . 5$ and $\\beta _ { s } { = } 1 0 0$ . For obtaining the $\\sigma _ { s }$ ,we used the measured values at each site (i.e., the average ratio of breadth to height of the 105 stones). We assumed that $\\sigma _ { s }$ was constant at a given site. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7.2 Effects of soil moisture, salt concentration, and soil crust ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fécan et al.(1998) parameterized the influence of soil moisture as a function of the clay content by fiting an equation to the experimental data for various soils. Shao and Lu (2Ooo) used observational data to expand the parameterization of Fécan et al. (1998) for several soil textures and obtained the following equation: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( w ) = \\left\\{ \\frac { 1 } { \\sqrt { 1 + a \\left( w - w _ { r } \\right) ^ { b } } } \\ : \\ : \\ : \\mathrm { f o r } \\ : w < w _ { r } , \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $w \\ ( \\mathrm { m } ^ { 3 } / \\mathrm { m } ^ { 3 } )$ is the volumetric soil moisture; $a$ and $b$ are parameters that depend on soil texture; and $w _ { r }$ （20 $( \\mathrm { m } ^ { 3 } / \\mathrm { m } ^ { 3 } )$ is the threshold soil moisture value,which depends on the soil texture (Kang et al., 2011). Our measured soil moisture during the observational periods was always lower than the threshold value. Therefore,we set $\\scriptstyle f ( w ) = 1$ in the simulation. We found no salt accumulation in the study area, so we did not measure salt concentration and set $f ( s _ { c } ) { = } 1$ . A soil crust was sometimes present (Table 1), but we had no method for measuring its hardness. Thus, we also set $\\scriptstyle f ( s _ { c r } ) = 1$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1 Roughness density and roughness length ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows the measurement results for soil texture and the parameters for stones (coverage, mean stone height, roughness density,and roughness length) at all sites.The soil texture at all sites was loam，except for sandy loam and silt loam at the sites Sub18C and Sub18D, respectively. The three highest stone coverages were $5 7 . 1 \\%$ at the Sub18A site (S.MT; Table 1), $4 7 . 2 \\%$ at the Sub19A site (S.SL),and $3 9 . 7 \\%$ at the Sub19B site (S.SL). The next highest coverages were $3 3 . 9 \\%$ at the Sub18C site (N.MT), $2 8 . 8 \\%$ at the Sub18B site (N.SL), $2 2 . 4 \\%$ at the Sub14B site (S.SL), and $1 8 . 6 \\%$ at the Main site (N.SL). The stone coverage was only $2 . 9 \\%$ at the Sub18D site(TD) and $0 . 0 \\%$ at the Sub14A(TD),Sub19C (TD),and Sub19D(TD) sites. Mean stone height, roughness density,and roughness length generally tended to increase with increasing stone coverage. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We examined the relationship between stone coverage and roughness density based on the data of this study and based on the data reported by Marticorena et al. (2Oo6) (Fig. 7); we fitted a third-degree polynomial to the data. The roughness density increased gradually when the stone coverage was from $0 . 0 \\%$ to $3 0 . 0 \\%$ ; it increased relatively quickly between coverages of $3 0 . 0 \\%$ and $5 0 . 0 \\%$ and apparently increased gradually again when stone coverage exceeded $5 0 . 0 \\%$ . This result suggests that it may be possible to estimate the roughness density of stones from the stone coverage.At the sites Sub18A， Sub19A， Sub19B， Sub18C， Sub18B， Sub14B，Main，and Sub18D, the frequency distribution of the ratio of breadth to height was normal (Fig. 8). ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e90b8cb9c856792420defaca05bef43fb6488df00eec882109ef2c0935d8229.jpg",
+        "table_caption": [
+            "Table 2 Measurement results for coverage, mean height,roughness density,and roughness length of stones at each site "
+        ],
+        "table_footnote": [
+            "Note:SD,standard deviation;-,no data available. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Site name</td><td rowspan=\"2\">Soil texture</td><td colspan=\"2\">Stone coverage (%)</td><td colspan=\"2\">Ratio ofbgreadth</td><td colspan=\"2\">Height</td><td colspan=\"2\">Roughntess</td><td rowspan=\"2\">Roeghness (cm)</td></tr><tr><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td></tr><tr><td>Main</td><td>Loam</td><td>18.6</td><td>2.95</td><td>1.75</td><td>0.37</td><td>0.39</td><td>0.15</td><td>0.05</td><td>0.001</td><td>0.0152</td></tr><tr><td>Sub14A</td><td>Loam</td><td>0.0</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>0.00</td><td>1</td><td>0.0012</td></tr><tr><td>Sub14B</td><td>Loam</td><td>22.4</td><td>3.52</td><td>1.81</td><td>0.30</td><td>0.57</td><td>0.23</td><td>0.07</td><td>0.016</td><td>0.0318</td></tr><tr><td>Sub18A</td><td>Loam</td><td>57.1</td><td>5.84</td><td>1.88</td><td>0.36</td><td>1.05</td><td>0.27</td><td>0.34</td><td>0.039</td><td>0.1569</td></tr><tr><td>Sub18B</td><td>Loam</td><td>28.8</td><td>3.26</td><td>1.85</td><td>0.35</td><td>0.48</td><td>0.19</td><td>0.13</td><td>0.017</td><td>0.0519</td></tr><tr><td>Sub18C</td><td>Landy</td><td>33.9</td><td>4.25</td><td>1.74</td><td>0.43</td><td>0.65</td><td>0.37</td><td>0.16</td><td>0.023</td><td>0.0878</td></tr><tr><td>Sub18D</td><td>LSilm</td><td>2.9</td><td>1.01</td><td>1.93</td><td>0.41</td><td>0.47</td><td>0.16</td><td>0.01</td><td>0.004</td><td>0.0011</td></tr><tr><td>Sub19A</td><td>Loam</td><td>47.2</td><td>4.13</td><td>1.89</td><td>0.37</td><td>1.01</td><td>0.35</td><td>0.32</td><td>0.031</td><td>0.1587</td></tr><tr><td>Sub19B</td><td>Loam</td><td>39.7</td><td>4.73</td><td>1.84</td><td>0.39</td><td>0.89</td><td>0.30</td><td>0.24</td><td>0.036</td><td>0.1628</td></tr><tr><td>Sub19C</td><td>Loam</td><td>0.0</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>0.00</td><td>1</td><td>0.0012</td></tr><tr><td>Sub19D</td><td>Loam</td><td>0.0</td><td>二</td><td>二</td><td>二</td><td>二</td><td>二</td><td>0.00</td><td>二</td><td>0.0012</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/7667930b604afbc9f0ddff1627454fc283d4972d4427d062da85e25fcc48e5be.jpg",
+        "img_caption": [
+            "Fig.7 Relationship between stone coverage and roughness density from this study (black dots)and the study of Marticorena et al. (2006) (open circles) ",
+            "Fig.8Frequencydistributionsof the ratio of breadth to height of stones at the sites Subl8A (a),Subl9A (b) Sub19B (c), Sub18C(d),Sub18B(e), Sub14B (f),Main (g),and Sub18D (h) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "50[(a) Sub18A 50[(b) Sub19A 50[(c) Sub19B 50 (d) Sub18C 40 40 40 30 30 30 30 20 20 20 20 10 10 10 10 0 1 o □ 0 0L □□ 1.1 1.4 1.7 2.0 2.3 2.6 2.9 3.2 1.1 1.4 1.7 2.0 2.3 2.6 2.9 3.2 1.1 1.4 1.72.0 2.3 2.6 2.9 3.2 1.11.4 1.7 2.0 2.3 2.6 2.9 3.2 L 50[(f) Sub14B 50[(g) Main 50[ (h) Sub18D 40 40 40 30 30 30 20 20 20 10 10 10 0 □ 0L L□ 0 二□ 1.1 1.4 1.7 2.0 2.3 2.6 2.9 3.2 1.1 1.4 1.7 2.0 2.3 2.6 2.9 3.2 1.1 1.4 1.7 2.0 2.3 2.6 2.9 3.2 1.1 1.4 1.7 2.0 2.3 2.6 2.9 3.2 Ratio of breadth to hright Ratio of breadth to hright Ratioof breadthtohright Ratioof breadthto hright ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Although the coverage, mean height, and roughness density differed greatly from site to site, the mean ratio was similar among the sites (Table 2). The roughness correction is related to the ratio of breadth to height (i.e.,the ratio of the basal to frontal area of the roughness elements $( \\sigma _ { s } )$ in Eq. 6); thus,it is possible to use the observed mean ratio in the model simulation because the ratio is normally distributed. Previous dust model studies that considered the efect of stones on the threshold friction velocity have used a value of 1.OO for this ratio, but in this study, the average ratio was 1.84. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2 Observed threshold friction velocity and the effects of roughness density ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figures 9 and 1O show the time series of friction velocity (green and blue lines)，the instantaneous threshold friction velocities (red circles),and their temporal means (dashed lines) at the sites during 1-5 May 2018 and 27 April-8 May 2019,respectively. Sand saltation was observed at allsites in 2O19 and at three sites in 2018,but almost no saltation was observed at the other four sites in 2018. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Under the natural field conditions,the instantaneous friction threshold at the sites was not constant. However, during both measurement periods, the temporal difference was much smaller than the difference in the mean threshold among the sites. The standard deviation of the instantaneous threshold friction velocity around the mean threshold friction velocity value at each site was between O.03 and $0 . 0 7 ~ \\mathrm { m / s }$ ,whereas the standard deviation around the average of the mean threshold friction velocity among the sites was $0 . 1 5 ~ \\mathrm { m / s }$ . The highest mean threshold friction velocity $( 0 . 7 1 ~ \\mathrm { m / s } )$ was recorded at the site Sub19A,where the roughness density was highest (0.320) in 2019. The lowest mean threshold friction velocity $( 0 . 2 3 ~ \\mathrm { m / s } )$ was recorded at the site Sub19D,where no stones were observed in 2019. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We examined the relationship between roughness density and mean threshold friction velocity at seven sites in 2019 and three sites in 2018 (Fig. 11). Observations were also conducted at the sites Sub14A, Sub18A, Sub18B,and Sub18D in 2018,but we could not obtain the threshold friction velocity because saltation counts were too few. The mean threshold friction velocity tended to increase with increasing roughness density. We divided the dataset into three groups according to roughness density: Group 1 consisted of 2019Sub14A, 2019Sub19C，and 2019Sub19D sites(roughness density $_ { \\mathrm { - } 0 . 0 0 0 }$ )；Group 2 consisted of 2018Main and 2019Main (roughness density $_ { \\mathrm { \\ t = 0 . 0 5 0 } }$ )；and Group 3 consisted of 2018Sub14B and 2019Sub14B (roughness density $\\scriptstyle \\tau = 0 . 0 7 0 ^ { }$ ). The four digits before the site name indicate the year ofobservation. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/8dbab4b57f85ad302f5dc6ede035355ab1e267331f84de5541f7e07a147bba7c.jpg",
+        "img_caption": [
+            "Fig.9 Friction velocity when the wind direction was between $2 6 0 ^ { \\circ }$ and $3 7 0 ^ { \\circ }$ (i.e., $1 0 ^ { \\circ }$ ）(blue lines）or between $1 0 ^ { \\circ }$ and $2 6 0 ^ { \\circ }$ (green lines),instantaneous threshold friction velocity (red circles),and mean threshold friction velocity (dashed lines)during 1-5 May 2018 at the sites Sub18C (a),Sub14B(b),and Main (c).u\\*t mean,mean threshold friction velocity; SD,standard deviation of the instantaneous thresholds around the mean. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3 Simulated threshold friction velocity and validation against observations ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure 12 shows the relationship between the observed threshold friction velocity and simulated threshold friction velocity by using the measured roughness density of stones at each site. The simulated threshold friction velocity was the same within each of the three groups: Group 3, $0 . 4 2 ~ \\mathrm { m / s }$ ; Group 2, $0 . 3 7 ~ \\mathrm { m / s }$ ; and Group 1, $0 . 2 0 ~ \\mathrm { m / s }$ . These values corresponded to roughness densities of 0.070,0.050,and 0.0o0,respectively. The observed and simulated threshold friction velocities were almost the same at the sandy site Sub19D and at the stony sites 2O18Sub14B, 2018Main, Sub18C, Sub19A,and Subl9B (see Table 1),but the simulated threshold friction velocities for the sites in groups 1-3 tended to be substantially underestimated. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Friction velocity $( 1 0 ^ { \\circ } \\mathrm { < W D } { < } 2 6 0 ^ { \\circ } )$ Friction velocity $( 2 6 0 ^ { \\circ } < \\mathrm { W D } < 3 7 0 ^ { \\circ } )$ -Mean threshold friction velocity Friction velocity (sand saltation active) Instantaneous threshold friction velocity 1.[(a) Sub19 SD-0.05.m/m/s   \n(s/u)\\* 0.6   \nu 0.4 0.2 0.0 27Apr28Apr29Apr30Apr1May2May3May4May5May6May7May8May 1.2[ (b) Sub19B   \n(s/u)\\*n 1 0.6F SD-0.05mm/s 0.4 0.2 0.0 27Apr28Apr29Apr30Apr1May2May3May4May5May6May7May8May   \n0.8 1.0[(c)Sub14B u\\* =0.50m/s   \n0.6 SD=0.05 m/s   \n0.4 0.2 0.0L 27Apr28Apr29Apr30Apr1May2May3May4May5May6May7May8May   \n(s/uu)\\* 1.0[(d) Main 0.6 SD=0.05m/s u\\*tme =0.48m/s 0.4 0.2 0.0 27Apr28Apr29Apr30Apr1May2May3May4May5May6May7May8May   \nCG) s SD=-0.043m/s   \n0.4 0.2 0.0L 27Apr28Apr29Apr30Apr1May2May3May4May5May6May7May8May 1.0[(f) Sub19C 0.8 u\\* mean=0.24 m/s 0.6 SD=0.05 m/s   \nu 0.4 0.2 0.0 27Apr28Apr29Apr30Apr1May2May3May4May5May6May7May8May 1.0 (g)Sub19D 0.8 U\\*t mean=0.23 m/s   \n(s/u)\\*n 0.6 SD=0.03 m/s 0.4 0.2 t 029Apr28Apr 29Apr30Apr1May2May3May4May5May6May7May8May ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4 Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.1 Soil texture, stone coverage, topography, and dust source ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We found no relationship between the spatial distribution of soil texture and topography, but parameters of stones such as coverage and roughness density tended to increase from lowland (i.e.,TD) to highland (i.e.,MT) sites. In addition, those parameters tended to be higher at the southern sites (i.e., S.MT and S.SL) than at the northern sites (i.e., N.MT and N.SL), which resulted in the threshold friction velocities being low in lowlands and high in highlands. Our results agreed with the findings of Callot et al. (2OoO)，who revealed that the size of nonerodible elements such as stones was dependent on the distance from the highest topographic point. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/fce1cc4ec98464a6c9a494e6569a583040393afc79f84a1bf5da9074a68ff1fa.jpg",
+        "img_caption": [
+            "Fig.11 Relationship between roughness density and mean threshold friction velocity observed at the bare or stony (i.e.,no vegetation and no crust) sites (black dots),stonyand vegetated sites (open rectangles),vegetated site with crust (open triangle),and site with crust only(open rhombus)in spring 2018 and 2019.Symbols show the average roughness density and mean observed threshold friction velocity,and bars show their standard deviations.For sites Main,Subl4A,and Sub14B,where observations were carried out year-round,the four digits before the site name indicate the year of the observations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d2a3edad44a091f7512225938f1ee0e1c4f1ba3f8f535511ed13e84fdcc647a.jpg",
+        "img_caption": [
+            "Fig.12Scater plot between the observed threshold friction velocity(during1-5 May 2O18 and during 27 April-8May 2019)and simulated threshold friction velocityusing the observed roughness densityof stones at the bare or stony (i.e.，no vegetation and no crust） sites (black dots)，stony and vegetated sites (open rectangles)，vegetated site with crust (open triangle),and site with crust only (open rhombus).The two horizontal thin dashed lines show the simulated threshold friction velocity using roughness densities of 0.002 and O.020 for barren and sparsely vegetated land cover types, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "It is well known that dust sources are often distributed in topographic lows and lands adjoining topographic highs (e.g. Shao, 2O08); in this study, such areas are represented by the TD sites. Our findings that areas with almost no stone coverage were associated with low threshold friction velocities are consistent with this wel-known observation about dust sources. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2Effects of other factors on threshold friction velocity than stones ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We found that sites with the same roughness density (Figs.1l and 12) can have different observed threshold friction velocities. The roughness density of stones was 0.O7O at the sites 2018Sub14B and 2019Sub14B (Group 3), 0.050 at the sites 2018Main and 2019Main (Group 2), and 0.000 at the sites 2019Sub14A, Sub19C,and Sub 19D (Group 1). Increased soil moisture and salt accumulation can increase the threshold friction velocity. However, during our observation periods, the observed soil moisture was very low (less than $\\dot { 0 } . 0 5 ~ \\mathrm { m } ^ { 3 } / \\mathrm { m } ^ { 3 }$ ),though itwas observed at the sites Main, Sub14B,and Sub14A only; further, no salt accumulation was observed. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In 2019, dead vegetation was observed at the sites Main, Sub14B,and Subl4A,and green vegetation was observed at the site Subl4A, whereas no vegetation was observed at these sites in 2018 (Fig. 13). Many studies have shown that vegetation reduces wind erosion intensity through coverage and shear stress partitioning effects,which decrease soil erodibility,and as a result, the sand saltation threshold increases (e.g., Lancaster and Baas, 1998; Li et al., 2008; Yan et al., 2O11). We can infer that the presence of herbaceous vegetation (live or dead) led to higher threshold friction velocities at the sites Main and Sub14B in spring 2019. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/25012d491b3a06b62a4ea3731b2fc7ea1a49b971638ac0391dfb0da4e12017f4.jpg",
+        "img_caption": [
+            "Fig.13 Crust conditions at the sites Sub14A (a)and Sub18D(b) in spring 2018,and at the sites Sub14A (c) and Sub19C (d) in spring 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In the field, the effects of stones and vegetation on wind erosion cannot be separated from those of other factors, such as changes in soil properties or the presence of a crust (Lopez et al., 1998).We observed crust at the sites Sub14A and Sub18D in 2018 and at the sites Sub14A and Sub19C in 2019 (Fig.13), but the characteristics of the crust differed among the sites. In 2018, the observed crust was mostly undisturbed and sand particles were less mobile at the sites Subl4A and Sub18D.In 2O19, the area of disturbed crust was larger at the site Subl4A,but some less-mobile sand particles were still seen, and at the site Sub19C,although a crust was observed, many mobile sand particles were present. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "It is very difficult to quantitatively estimate the threshold friction velocity under crusted conditions because many factors, including its morphological and compositional properties (i.e., the modulus of rupture, thickness,and clay, calcium carbonate, water soluble material, and organic matter contents), need to be taken into account (Gillette et al.,1982). However, a welldeveloped crust can protect soil surfaces, thereby reducing wind erosion intensity (Belnap and Gillette,1998). Marticorena et al.(1997a) showed that the threshold friction velocity was much higher when crust was undisturbed than when it was disturbed. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Crust was observed at the sites 2019Sub14A and Sub19C (Fig. 13). In the plot of the simulated threshold friction velocity against the observed threshold friction velocity (Fig.12), the site 2019Sub14A was far to the right of the 1:1 line, indicating that the observed threshold friction velocity was much higher than the simulated threshold friction velocity based on the observed roughness density of stones alone. Because the site has vegetation as well as crust, we cannot isolate the effect of the crust alone,but this result demonstrates that vegetation and crust both increase the threshold friction velocity. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The site Sub19C was also located on the right of the 1:1 line in Figure 12.In addition, the observed threshold friction velocity was slightly higher at the site Subl9C than at the site Subl9D.The crust may have caused the threshold friction velocity to be higher at the site Sub19C than at the site Subl9D.However, these sites may be located nearer the 1:1 line because of sand particle mobility； many mobile sand particles were observed at the sites Subl9C and Sub19D and were relatively fewer at all other sites. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As discussed in Section 4.1, the topographic depression may be a major dust source because stones are almost completely absent there. However, vegetation and crust were distributed mostly in the topographic depression (Table 1). Gantsetseg et al. (2017） reported that the Normalized Difference Vegetation Index (NDVI) was high in the topographic depression in Tsogt-Ovoo during the rainy summer of 20l2. Their result supports our finding of dead vegetation mainly in the topographic depression in spring because dead vegetation represents vegetation that grew in the previous summer or earlier. We could not quantitatively examine the effects of vegetation and crust on the threshold friction velocity due to a lack of data, but we could determine that an increase in the threshold friction velocity was resulted from their effects. In addition,the gaps in the observed threshold friction velocities between sites Sub19D and 2019Sub14A, between sites 2018Main and 2019Main,and between sites 2018Sub14B and 2019Sub14B quantitatively implied the importance of vegetation and crust at these sites. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.3Effects of stones on the threshold friction velocity in the three-dimensional model studies ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "It is currently difficult to account for the effects of stones on the threshold friction velocity in a three-dimensional dust model because no reliable data on the spatial distribution of stones are available. However, several studies (e.g.，Darmenova et al.， 20o9； Xi and Sokolik,2015; Foroutan et al.,2017; Lee and Park,202O) have conducted a three-dimensional dust simulation by employing a double shear stress partition scheme. These studies prepared a lookup table that contains representative roughness density values of solid elements (i.e., stones) and vegetation for each land cover type. The studies used roughness density values of O.0o2 (Darmenova et al., 2009;Foroutan et al.,2017) and 0.020 (Xi and Sokolik,2015; Lee and Park,2020) for barren and sparsely vegetated land cover types,respectively. In this study，all of the sites were considered barren or sparsely vegetated， the threshold friction velocity simulated with roughness density of O.0o2 was $0 . 2 1 ~ \\mathrm { m / s }$ ，and that simulated with roughness density of 0.020 was $0 . 2 8 ~ \\mathrm { m / s }$ (horizontal dashed lines in Fig.12). Even though all of the sites in this study were classified as barren or sparsely vegetated,our results showed that the threshold friction velocities simulated using with the observed roughness density varied from $0 . 2 0 ~ \\mathrm { m / s }$ at the bare sites in the topographic depression, to $0 . 7 0 ~ \\mathrm { m / s }$ at the stony sites on the southern mountain with roughness density of 0.0oo; and these simulated threshold friction velocities were almost the same as those observed values at the sites with roughness density of 0.320. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "When we compared the threshold friction velocity estimated by the three-dimensional dust models employing a constant roughness density with threshold friction velocities estimated for bare or stony sites (black dots in Fig.12), we found that the threshold friction velocity estimated by the three-dimensional dust models employing roughness density of 0.002 was almost same as that at a sandy site (Subl9D) in the topographic depresson,but the three-dimensional dust models employing roughness density of 0.020 overestimated the threshold friction velocity at that site. Moreover, the three-dimensional dust models employing both roughness density values of 0.002 and 0.O2O consistently underestimated the threshold friction velocity at the sites on slopes and mountains (e.g., 2018Main, 2018Sub14B, Sub18C, Sub19B,and Sub19A). Our survey result showing that the roughness density varies over a wide range even among sites with the same land cover type suggests that reliable spatial distribution data of stones based on field measurements are necessary to achieve realistic three-dimensional dust simulation results. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We expect it to be possible to obtain spatial distribution data of stones over a wide area by satelite remote sensing techniques. Some studies have already estimated roughness parameters from satelite data. Greeley et al.(l991） found an empirical correlation between the aerodynamic roughness length of non-erodible elements and the radar backscater coeficient obtained by Airborne Synthetic Aperture Radar (AIRSAR)，and Marticorena et al. (2004) obtained a good relation between the aerodynamic roughness length and the Polarization and Directionality of the Earth's Reflectance (POLDER)-1 bidirectional reflectance distribution function (BRDF). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Laurent et al. (2oo5) conducted a three-dimensional dust simulation using a roughness length map obtained by the BRDF method of Marticorena et al. (2O04), but the mapped data comprise roughness values due to both stones and vegetation. For a simulation that discriminates the effects of stones and vegetation, such as a simulation using a double shear stress partition scheme, satellite observation techniques that can separately quantify stones and vegetation are needed. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We evaluated the effects of stones on the sand saltation threshold for different roughness densities of stones by conducting field observations under natural surface conditions during sand and dust storms in the northern part of the Gobi Desert, Mongolia.We found that sand saltation threshold noticeably increased with the increasing roughness density of stones. Specifically,roughness density increased from lowland to highland sites. At the sites to the north of Tsogt-Ovoo,where neither crust nor vegetation was observed, the roughness density values were 0.000, 0.050,and 0.160 at the TD,N.SL and N.MT sites,respectively.To the south, the values were O.0oo and $0 . 0 7 0 { - } 0 . 3 2 0$ at the TD and S.SL sites,respectively. The stone coverage also increased from lowland to highland sites;at the sites to the north, where neither crust nor vegetation was observed, the mean threshold friction velocities (the average of the instantaneous threshold friction velocities） were O.23, O.41,and $0 . 5 7 ~ \\mathrm { m / s }$ at the TD,N.SL,and N.MT sites, respectively. To the south, they were O.23 and $0 . 4 5 { - } 0 . 7 1 ~ \\mathrm { m / s }$ at the TD and N.SL sites, respectively. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We simulated the threshold friction velocity with the model, which includes the Raupach's roughness correction that uses measured roughness density values. We found that this roughness correction worked very well in the study area. The threshold friction velocity was simulated very well at all sites where neither crust nor vegetation was observed,although the simulated threshold friction velocity showed a small negative bias. Though our survey was conducted in only one small area in the vast Gobi Desert, our results suggest that if roughness density of stones over a wide area can be obtained,the roughness correction for the stone effect in the model of roughness correction can be applied in the three-dimensional dust models. The simulation results of this study also showed that, to reasonably simulate sand saltation in the Gobi Desert, it is essential to consider the effects of vegetation and crust as well as the effects of stones. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the Arid Land Research Center's Project (Impacts of Climate Change on Drylands: Assessment and Adaptation，funded by the Japan's Ministry of Education,Culture， Sports， Science,and Technology), the Grants-in-Aid for Scientific Research (JSPS KAKENHI) (15H05115,17H01616,16H02712, and 25220201),and the Environment Research and Technology Development Fund of the Environmental ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Restoration and Conservation Agency (JPMEERF2O205001).This study was funded by the Joint Research Program of Arid Land Research Center, Tottori University (31C2003 and 31C2012). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Bagnold R A.1941.The physics ofblown sand and desert dunes.Progressin Physical Geography,18(1): 91-96.   \nBarchyn TE,Hugenholtz C H.2011.Comparisonof four methods to calculate aeolian sediment transport threshold from field data:Implications for transportpredictionanddiscusionof methodevolution.Geomorphology,29(3-4):190-203.   \nBelnap J,Gilette DA.l998.Vulnerabilityof desert biological soil crusts to wind erosion:the influences of crust development, soil texture,and disturbance.Journal of Arid Environments,39(2): 133-142.   \nBoucher O,RandallD,ArtaxoP,etal.2013.Clouds and aerosols.In: Climate Change 2013:The Physical Science Basis. Contribution of Working Group Ito the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press,571-657.   \nCallot Y,Marticorena B,BergametiG.20o.Geomorphologic approach for modelling thesurface features of arid environments in a model of dust emisions: application to the Sahara Desert. Geodinamica Acta,13(5): 245-270.   \nChen S,Huang J,LiJ,etal.2O17.Comparisonofdust emissions,transport,anddepositionbetween the TaklimakanDesert and Gobi Desert from 2007 to 2011.Science China Earth Sciences,60(7):1338-1355.   \nCooke R U.1970.Stone pavements in deserts.Annals of the Association of American Geographers,60(3): 560-577.   \nDarmenova K,SokolikIN,Shao Y,etal.2O09.Developmentofaphysicallbaseddust emission module within the Weather Research and Forecasting(WRF) model: Assssment of dust emision parameterizations and input parameters for source regions in Centraland East Asia.Journalof Geophysical Research: Atmospheres,114(D14),doi:10.1029/2008JD011236.   \nEdwards BL,Namikas SL.2015.Characterizing the sediment bedin terms of resistance to motion: Towardan improved model of saltation thresholds for aeolian transport.Aeolian Research,19:123-128.   \nFaéG S,Montes F,Bazilevskaya E,etal.2019.Making soil particle size analysisbylaserdifraction compatible with standard soil texture determination methods.Soil Science Society of America Journal,83(4):1244-1252.   \nFecanF,Marticorena B,Bergameti G.1998.Parametrizationof the increaseof theaeolian erosion threshold wind friction velocity due to soil moisture for arid and semi-arid areas.Annales Geophysicae,17: 149-157.   \nForoutanH,Young J,Napelenok S,et al.2017.Development andevaluationofa physics-based windblown dust emision scheme implemented in the CMAQ modeling system.Journal of Advances in Modeling Earth Systems,9(1): 585-608.   \nGantsetseg B,shukaM,KurosakiY,etal0l7.opograpicalandhydrologicalefectsonmeso-scalevegetatiodesert steppe,Mongolia. Journal of Arid Land, 9(1): 132-142.   \nGilette DA.1978.Testswith aportable wind tunnel for determining wind erosion threshold velocities.Atmospheric Environment,12(12): 2309-2313.   \nGilette DA,AdamsJ,EndoA,etal.980.Thresholdvelocitiesforinputofsoilparticles intotheairbydesertsoils.oual of Geophysical Research: Oceans, 85(C10): 5621-5630.   \nGilette DA,Adams J,MuhsD,etal.1982.Thresholdfriction velocitiesandrupture moduli forcrusteddesert soilsforthe input of soil particles into the air. Journal of Geophysical Research: Oceans,87(C11): 9003-9015.   \nGilette DA.1988.Threshold friction velocities fordust production foragriculturalsoils.Journal of Geophysical Research: Atmospheres,93(D10): 12645-12662.   \nGilette DA,HerrickJE,Herbert GA.20o6.Wind characteristics of mesquite streets in the northern Chihuahuan Desert, New Mexico,USA.Environmental Fluid Mechanics,6(3): 241-275.   \nGilies JA,LancasterN,Nickling WG,etal.2ooo.Fielddeterminationofdrag forcesand shearstresspartitioningefects for a desert shrub (Sarcobatus vermiculatus,greasewood).Journal of Geophysical Research: Atmospheres,105(D20): 24871-24880.   \nGilies JA,Nickling WG,King J.oo7.Shearstresspartitioning inlarge patchesofroughnessintheatmosphericnertial sublayer. Boundary-Layer Meteorology,122(2):367-396.   \nGreleyR,Iversen JD.1985.Windasa geological processon Earth，Mars, Venus and Titan.Cambridge: Cambridge University Press,333.   \nGreeley R,Gaddis L,LancasterN,et al.1991.Assessmentof aerodynamic roughnessvia airborne radarobservations.In: Aeolian Grain Transport. Vienna: Springer, 77-88.   \nHebrardE,Listowski C,CollP,et al.2012.Anaerodynamic roughness length mapderived from extended Martianrock abundance data.Journal of Geophysical Research: Planets,117(E4),doi: 10.1029/2011JE003942.   \nIshizuka M,Mikami M,Yamada Y,etal.2O09.Threshold frictionvelocitiesof saltationsand particles fordierentsoil   \nIshizuka M,Mikami M,Yamada Y,etal.2012.Does ground surfacesoilaggregationafect transitionof the wind speed threshold for saltation and dust emission? SOLA,8:129-132.   \nIversen JD, Wang WP,Rasmussen KR,etal.1990.The effctofaroughness elementonlocal saltation transport.Journal of Wind Engineering and Industrial Aerodynamics,36: 845-854.   \nKang JY,Yoon SC,Shao Y,et al.20l1.Comparisonofvertical dustflux byimplementing three dustemisionschemes in WRF/Chem.Journal of Geophysical Research: Atmospheres,116(D9),doi: 10.1029/2010JD014649.   \nKing J,Nickling WG,GillesJA.2Oo5.Representationofvegetationandother nonerodible elements inaeolianshearstress partitioning models for predicting transport threshold.Journal of Geophysical Research:Earth Surface,l10(F4)，doi: 10.1029/2004JF000281.   \nKurosakiY,Mikami M.2Oo7.Threshold wind speed fordustemissioninEastAsiaand itsseasonal variations.Journalof Geophysical Research: Atmospheres,112(D17),doi: 10.1029/2006JD007988.   \nKurosakiY,Shinoda M,Mikami M.20lla.Whatcaused arecentincrease indust outbreaks over East Asia?Geophysical Research Letters,38(11),doi: 10.1029/2011GL047494.   \nKurosakiY,Shinoda M,Mikami M,etal.20lb.Effectsofsoiland landsurfaceconditions insummeron dustoutbreaks in the following Spring in a Mongolian Grassland. SOLA,7: 69-72.   \nLancaster N,Baas A.1998.Influenceof vegetation coveronsand transportbywind: field studies at Owens Lake,California. Earth Surface Processes and Landforms: The Journal of the British Geomorphological Group,23(1): 69-82.   \nLaurent B,Marticorena B,Bergameti G,etal.2Oo5.Simulationofthemneraldust emision frequencies fromdesertareas of China and Mongolia using an aerodynamic roughnes length map derived from the POLDER/ADEOS1 surface products.Journal of Geophysical Research: Atmospheres,110(D18),doi:10.1029/2004JD005013.   \nLee H,Park S H.2020.Stepwiseassessment of different saltation theories in comparison with fieldobservation data. Atmosphere,11(1): 10,doi: 10.3390/atmos11010010.   \nLi G,Zhang J,Herrmann HJ,et al.2020.Studyof aerodynamicgrainentrainment inaeolian transport.Geophysical Research Letters,47(11): e2019GL086574.   \nLi Z, Wu S,Dale J,etal.20o8.Wind tunnel experimentsof air flowpaterns over nabkhas modeled after those fromthe Hotan River basin,Xinjiang,China(I): non-vegetated.Frontiers of Earth Science in China,2(3): 333-339.   \nLopez M V,Sabre M,GraciaR,etal.1998.Tillage efects onsoilsurfaceconditionsand dust emission bywind erosion in semiarid Aragon (NE Spain). Soil and Tillage Research,45(1-2): 91-105.   \nMarshallJK.1971.Drag measurements in roughness arrys of varying densityand distribution.Agricultural Meteorology8: 269-292.   \nMarticorenaB,Bergameti G.1995.Modeling theatmospheric dustcycle:1.Designofasoil-derived dust emision scheme. Journal of Geophysical Research: Atmospheres,100(D8): 16415-16430.   \nMarticorena B,Bergameti G,Gilete D,etal.1997a.Factorscontrolling thresholdfriction velocity insemiaridandarid areas of the United States. Journal of Geophysical Research: Atmospheres,102(D19): 23277-23287.   \nMarticorena B,Bergameti G,AumontB,et al.1997b.Modeling the atmospheric dustcycle:2.Simulationof Saharan dust sources.Journal of Geophysical Research: Atmospheres,102(D4): 4387-4404.   \nMarticorena B,Chazete Pergameti G,etal.2Oo4.Mapping theaerodynamicroughnesslengthofdesert surfaces fromthe POLDER/ADEOS bi-directional reflectance product. International Journal of Remote Sensing,25(3): 603-626.   \nMarticorena B,Kardous M,Bergameti G,etal.2Oo6.Surfaceand aerodynamic roughnessinarid and semiaridareasand theirrelation toradar backscatercoefficient.Journal of Geophysical Research:Earth Surface，11(F3)，doi: 10.1029/2006JF000462.   \nMazzoli A,Moriconi G.2014.Particle size,size distributionand morphologicalevaluationof glass fiberreinforced plastic (GRP) industrial by-product. Micron, 67: 169-178.   \nMu H,Otani S,Shnoda M,etal.2013.Long-term effectsof livestock loss caused bydust stormon Mongolianinhabitants:a survey l year after the dust storm. Yonago Acta Medica, 56(1): 39-42.   \nNatsagdorj L,Jugder D,Chung Y S.2003.Analysis of dust storms observed in Mongolia during 1937-1999Atmospheric Environment, 37(9-10): 1401-1411.   \nOnishi K,Otani S,Yoshida A,et al.2015.Adverse health efectsofAsiandust particles and heavy metals in Japan.Asia Pacific Journal of Public Health,27(2): NP1719-NP1726.   \nOtsu N.1979.A threshold selection method from gray-level histograms.IEEE Transactionson Systems，Man，and Cybernetics,9(1): 62-66.   \nRaupach MR.1992. Drag and drag partition on rough surfaces.Boundary-Layer Meteorology,60(4): 375-395.   \nRaupach MR,GilleteDA,Leys JF.1993.Theefectof roughnesselements on wind erosion threshold.Journal of Geophysical Research: Atmospheres,98(D2): 3023-3029.   \nSchlichtig H.1936.Experimental investigationofthe problem ofsurfaceroughnessIn: National AdvisoryCommitte for Aeronautics Collection.National Advisory Committee for Aeronautics,1-34.   \nShao Y,Raupach MR,FindlaterPA.1993.Efectofsaltationbombardmentonthe entrainmentofdustbywind.Journalof Geophysical Research: Atmospheres,98(D7): 12719-12726.   \nShao Y,Lu H.2ooo.Asimpleexpresion forwind erosion thresholdfriction velocity.Journalof GeophysicalResearch: Atmospheres,105(D17): 22437-22443.   \nShao Y.2004.Simplification of a dust emisionscheme andcomparison with data.Journal of Geophysical Research: Atmospheres,109(D10),doi: 10.1029/2003JD004372.   \nShao Y.20o8.Physics and Modelling of Wind Erosion.Dordrecht: Springer,18-20.   \nShao Y,Ishizuka M,Mikami M,et al.20l1.Parameterizationof size-resolved dust emisionandvalidation with measurements.Journal of Geophysical Research: Atmospheres,116(D8),doi: 10.1029/2010JD014527.   \nShao Y,NicklingW,BergametiG,etal.2Ol5.Atributeto MichaelR.Raupachforcontributions toaeolianfluiddyamics. Aeolian Research,19:37-54.   \nTanL,Zang W,Qu J,etal.2O13.Aeolian sand transport over gobi with diferent gravelcoverages underlimited sand supply: A mobile wind tunnel investigation. Aeolian Research,11: 67-74.   \nTanL,Zhang W,An Z,etal.2019.The effctofroughnessdensityof gobibeds on the entrainmentof sedimentby wind: A wind tunnel study. Journal of Wind Engineering and Industrial Aerodynamics,19o:183-189.   \nUdo K.2009.Field measurementof seasonal wind-blownsand flux using high-frequency sampling instrumentation.Journal of Coastal Research, SI(56): 148-152.   \nWang X,Xia D,Wang T,et al.2O08.Dust sources inarid and semiarid China and southern Mongolia: Impacts of geomorphological settng and surface materials. Geomorphology,97(3-4): 583-600.   \nWebb NP,ChappellA,LeGrandSL,etal.2O20.A noteon the useof drag partition in aeolian transport models.Aeolian Research,42:100560,doi:10.1016/j.aeolia.2019.100560.   \nWu C,Lin Z,Liu X.2020.Global dust cycle and uncertainty in CMIP5 models.Atmospheric Chemistryand Physics Discussions,2020:1-52.   \nWu J,KurosakiY,Sinoda M,etal16.Regionalcharacteristicsofrecentdustocurrenceaditsontrollingactorsin East Asia. SOLA,12: 187-191.   \nWu J,Kurosaki Y,Du C.2020.Evaluationof climaticandanthropogenic impactsondust erodibility:Acase study in Xilingol Grassland,China. Sustainability,12(2): 629,doi:10.3390/sul2020629.   \nXi X,SokolikIN.2015.Seasonal dynamics of threshold friction velocityanddust emision in CentralAsia.Journalof Geophysical Research: Atmospheres,120(4):1536-1564.   \nYanY,Xu X,Xin X,etal.20l.Efectofvegetationcoverageoneolianustaccumulationiasemiaridsteppeoforthern China. Catena,87(3):351-356.   \nYang YL,VictorS,LuQ.2002.Global Alarm: Dustand Sandstorms fromthe World's Drylands.New York: United Nations Pubns,346.   \nZhang J，Teng Z,Huang N,et al.2016.Surfacerenewal asa significant mechanism for dust emision.Atmospheric Chemistry and Physics,16(24): 15517-15528.   \nZhang K,Zhang W,TanL,etal.2015.Efectsofgravel mulch on aeolian transport: afieldwind tunnelsimulation.Journal of Arid Land,7(3): 296-303.   \nZhang W,TanL, Zhang G,etal.2O14.Aeolian proceses overgravelbeds: Field wind tunnel simulationanditsapplication atop the Mogao Grottoes, China.Aeolian Research,15: 335-344. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    }
+]

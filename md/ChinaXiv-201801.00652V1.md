@@ -1,0 +1,114 @@
+临床研究
+
+# 早孕期胎儿大脑中动脉收缩期峰值流速、心胸比值与胎儿头臀长的相关性
+
+邓许洁，陈翠华，裘毓雯，肖淑芳，廖淑欣,钟 梅,杨 芳南方医科大学南方医院妇产科，广东广州510515
+
+摘要：目的探索早孕期胎儿大脑中动脉收缩期峰值流速(MCAPSV)及心胸比值(CTR)随孕周变化的规律,建立早孕期不同孕周胎儿MCAPSV及CTR的参考范围，并分析其与胎儿头臀长(CRL)之间的关系。方法应用彩色多普勒超声检查前瞻性检测了552例正常产检孕妇的( $4 5 { \leqslant } \mathrm { C R L } { \leqslant } 8 4 \ \mathrm { m m }$ )胎儿MCAPSV、CTR。按胎儿CRL大小分组,将552例孕妇分为4个孕周组，建立早孕期胎儿MCA PSV及CTR参考范围,并分析MCA PSV与CRL、CTR与CRL之间的关系。结果 早孕期胎儿MCA PSV与CRL呈中等正相关，相关系数为0.426 $\scriptstyle ( P < 0 . 0 0 1 )$ );CTR与CRL无显著相关性，相关系数为 $0 . 1 6 8 ( P { < } 0 . 0 0 1 )$ 。早孕期MCAPSV的参考值范围为14.35(14.08\~14.62）cm/s;CTR的参考值范围为0.34（0.33\~0.34)。结论 彩色多普勒超声检查用于检测早孕期胎儿MCAPSV、CTR是可靠、可行的,具备实时监测胎儿早期发育异常的能力;早孕期不同孕周胎儿MCAPSV、CTR的参考值范围的建立为彩色多普勒超声应用于早期无创产前诊断α-地中海贫血提供了临床理论依据。
+
+关键词：早孕；大脑中动脉收缩期峰值流速；心胸比值；头臀长
+
+# Correlation analysis of fetal middle cerebral artery peak systolic velocity, cardiothoracic ratio and crown-rump length in early pregnancy
+
+DENG Xujie, CHEN Cuihua, QIU Yuwen, XIAO Shufang,LIAO Shuxin, ZHONG Mei, YANG Fang DepartmentoftetricsdecologyangHospital,outheredicaloesityangzhouin
+
+Abstract: Objective To explore the pattern of variations in middle cerebral artery peak systolic velocity (MCA PSV)and cardiothoracicratio (CTR)duringearly pregnancy，establish their reference rangesand explore their correlation withthe crown-rump length (CRL). Methods A total of 522 pregnant women with normal findings inantenatal examinations underwent routinecolor Doppler ultrasound examination tocollct the dataof MCAPSV, CTRand CRL.The referenceranges of MCA PSVandCTRfor diferent CRLlevels were established,and thecorrelationof MCAPSVand CTRwith CRL was analyzed.Results Duringthefirst trimester, MCAPSVandCRLshowedamoderate positivecorelation withacorelation coefficient of 0.426 $( P { < } 0 . 0 0 1 )$ ， while CTR and CRL showed no significant correlation (0.168, $P { < } 0 . 0 0 1$ ). The reference range of MCA PSV was 14.35 (14.08-14.62)cm/s andthatof CTR was 0.34 (0.33-0.34)during early pregnancy. Conclusion Color Doppler ultrasoundisasafeandfeasible modalitytoasess fetalMCAPSVand CTRfordetecting fetal growthabnormalities inearly pregnancy. The established reference ranges of MCA PSVand CTR ofer a clinical theoretical basis for detecting $\alpha$ -thalassemia in early pregnancy.
+
+Key words: early pregnancy; middle cerebral artery peak systolic velocity; cardiothoracic ratio; crown-rump lengt
+
+近年来，彩色多普勒超声检查作为一种非侵入性手段检测胎儿各项指标、预测胎儿发育状况已得到国内外妇产科及影像科专科医师的普遍关注，是临床研究的热点之一[1-2]
+
+在正常情况下，大脑中动脉运输着胎儿大约 $80 \%$ 的大脑血流,且胎儿的脑循环呈现高阻力状态[3-4]。当胎儿出现低氧状态,机体血液则自动重新分配，增加心脏、肾上腺的血量，减少外周及胎盘的循环血量，这种血液重新分配现象称为脑保护效应。该效应在胎儿适应低氧状态过程中起到重要作用，而在缺氧状态下大脑中动脉可以出现反常低阻力现象，甚至大脑中动脉舒张期血液反流。由于大脑中动脉指标本身对反应胎儿脑血管状态有一定的参考价值，且该指标是评估胎儿脑血管最容易获得的超声图像之一，因而大脑中动脉收缩期峰值流速(MCAPSV)广泛应用于胎儿贫血检查中[5-6]。其次，正常胎儿心脏面积与胸腔面积比值约1/3，而胎儿贫血疾病往往伴随着系统性水肿，在循环系统最突出表现为为心脏增大，因此测量胎儿心胸面积比值可以评估胎儿心脏功能严重程度以及胎儿贫血情况[7-8]
+
+迄今，国内已有针对胎儿大脑中动脉收缩期峰值流速(MCAPSV）、心胸比值(CTR)的报道，但多为中晚孕期正常胎儿,而早孕期 $( 1 1 - 1 3 ^ { + 6 } \mathrm { \mathbf { W } } )$ 胎儿的MCAPSV、CTR参数研究,尤其是大样本的研究鲜有报道[9-10]
+
+本研究拟利用我科确立的成熟的彩色多普勒超声诊断技术对552例头臀长(CRL)为 $4 5 { \sim } 8 4 ~ \mathrm { m m }$ 胎儿的MCAPSV及CTR进行同步检测，探索早孕期胎儿MCAPSV、CTR随孕周变化的规律，建立早孕期不同孕周胎儿MCAPSV及CTR的参考范围，并分析其与头臀长(CRL)之间的关系。
+
+# 1对象和方法
+
+# 1.1 一般资料
+
+前瞻性连续收集2015年\~2016年在南方医科大学南方医院行产前检查的早孕期正常单胎妊娠孕妇。纳入标准：妊娠周数为 $1 1 { \sim } 1 3 ^ { + 6 }$ 周,B超测量头臀长 $\leqslant 8 4 \ \mathrm { m m }$ 单胎妊娠。排除标准：多胎妊娠;妊娠周数<11周或 $> 1 4$ 周；图像质量差;胎儿畸形或染色体异常。本研究纳入早孕期正常单胎妊娠孕妇552例(排除胎儿发育异常1例)，年龄16\~43岁，平均28.67岁，按照胎儿CRL大小分为4个组 $: 4 5 { \leqslant } \mathrm { C R L } < 5 5 \ \mathrm { m m } . 5 5 { \leqslant } \mathrm { C R L } < 6 5 \ \mathrm { m m } . 6 5 { \leqslant } \mathrm { C R L }$ $< 7 5 \ \mathrm { m m } , 7 5 { \leqslant } \mathrm { C R L } { \leqslant } 8 4 \ \mathrm { m m }$ ，（每组孕妇分别为41、184、246、81名)。所有孕妇末次月经明确，孕妇既往体键，无毒物、放射线接触史，无高血压、糖尿病等妊娠合并症、地中海贫血及慢性疾病史。超声检查均为单胎，检测胎儿大小均在 $4 5 { \leqslant } \mathrm { C R L } { \leqslant } 8 4 ~ \mathrm { m m }$ 范围内，常规超声检查排除胎儿畸形。所有纳入研究者均签署知情同意书，该研究通过南方医院伦理委员审查。
+
+# 1.2仪器与方法
+
+应用四维彩超机器GEVolusonE8,经腹部检查，选用4C-D探头，采用早孕及心脏条件，常规产检排除胎儿异常(其中1例胎儿单腔心畸形)后进行CRL、MCAPSV、CRL的测量。1.2.1胎儿头臀长测量方法（图1）测量切面：胎儿正中矢状切面，胎体自然屈曲，头顶及骶尾部清晰显示，躯干部显示脊柱矢状面全长；放大倍数：放大至胎儿躯体占据屏幕的 $2 / 3 { \sim } 3 / 4$ ；测量方法：光标置于胎儿头顶皮肤外缘至骶尾部皮肤外缘；测量次数：2次。注意事项：人组胎儿首先测量CRL，如CRL $< 4 5 ~ \mathrm { m m }$ 或 $\mathrm { > } 8 4 \ \mathrm { m m }$ ，该病例不人组。
+
+1.2.2胎儿大脑中动脉收缩期峰值流速(图2、3）测量方法：在胎儿静息状态下，显示颅脑Willis血管环，取样框放置于大脑中动脉起始部,取样容积为0.7\~1.0、血流速度为 $0 . 6 { \sim } 0 . 9 \ \mathrm { c m / s } .$ 角度调至与大脑中动脉血流方向一致,偏差角度小于 $1 5 ^ { \circ }$ ；测量次数：2次;注意事项：胎儿活动以及孕妇明显的腹式呼吸可影响胎儿MCAPSV测值的准确性，需在胎儿静息状态下采集数据;必要时孕妇屏住呼吸。
+
+![](images/9593c2413c4b8bc90b7bb7f2e66d4e2c33351a6f076515cd50cddaf930d6a7c7.jpg)  
+图1头臀长测量方法 Fig.1 Crown-rump length (CRL).
+
+![](images/87ca42f2fd73fb40d73348ba26da5834d80400522557819f0d361a3d92ef9f3c.jpg)  
+图2Willis血管环显示图 Fig.2 Willis'circle.
+
+![](images/a31c260124900300285aca0db442df91d66b4502007342fa24accf48f99c29a6.jpg)  
+图3大脑中动脉收缩期峰值流速 Fig.3 Middle cerebral artery peak systolic velocity (MCA PSV).
+
+1.2.3胎儿心胸比值测量方法（图4）测量切面为心脏四腔心切面，心脏舒张期，二尖瓣与三尖瓣打开时，测量二尖瓣与三尖瓣最外侧附着点的距离与胸腔的最大径线间的比值。胸腔最大径线取同一切面和脊柱与胸骨间连线垂直的两侧肋骨外缘的距离8";测量次数：2次;注意：胎儿四腔心基本对称，排除左右心脏不对称、心脏位置异常以及单心室的异常。
+
+![](images/8c42c1b1cdffc55ef55c851d0eebb8cdc88cdbe991453bd60ed83e4cfeda2b14.jpg)  
+图4心胸比测影法Fig.4 Cardiothoracic ratio(CTR).
+
+# 1.3统计学处理
+
+使用SPSS22.0统计软件进行数据处理及分析；符合正态分布的指标，数据呈现为均数 $\trianglerighteq$ 标准差；参考值范围的采用双侧限值的 $9 5 \%$ 参考值范围；各指标（中位数水平)组间比较采用多组KruskalWallisH非参数检验，各组间两两比较采用Mann-Whitney检验， $P { < } 0 . 0 5$ 认为差异有统计学意义。
+
+# 2结果
+
+2.1基本数据
+
+552例胎儿MCAPSV、CTR全部被记录到，检出率为 $100 \%$ ;早孕期MCAPSV的参考值范围为 $1 4 . 0 8 \sim$ $1 4 . 6 2 \mathrm { c m / s }$ ，平均数为 $1 4 . 3 5 \mathrm { c m / s }$ ；CTR的参考值范围为$0 . 3 3 \mathrm { \sim } 0 . 3 4$ ，平均数为0.34;不同孕期MCAPSV、CTR参数(表1)。
+
+表1不同孕期胎儿MCAPSV、CTR参数 Tab.1 MCA PSV and CTR in different gestational weeks during earlypregnancy   
+
+<html><body><table><tr><td>Group</td><td>MCA PSV(cm/s)</td><td>CTR(ratios)</td></tr><tr><td>45≤CRL<55 mm, n=41</td><td>12.12±2.54</td><td>0.33±0.05</td></tr><tr><td>55≤CRL<65 mm,n=184</td><td>13.28±2.92</td><td>0.33±0.06</td></tr><tr><td>65≤CRL<75 mm,n=246</td><td>14.94±3.15</td><td>0.33±0.06</td></tr><tr><td>75≤CRL≤84 mm,n=81</td><td>16.15±3.03</td><td>0.35±0.05</td></tr><tr><td>Total, n=552</td><td>14.35±3.23</td><td>0.34±0.06</td></tr></table></body></html>
+
+# 2.2相关性分析
+
+早孕期胎儿MCAPSV与CRL呈正相关,相关系数为0.426， $P { < } 0 . 0 0 1$ ;CTR与CRL无显著相关性，相关系数 ${ \bf R } ^ { 2 }$ 为0.168( $P { < } 0 . 0 0 1$ ，图5)。
+
+![](images/b92d64e6cad7e77b5b16c858ea93c1f59764a8d59509555a557c800c11f48dce.jpg)  
+图5MCAPSV、CTR与CRL相关性分析 Fig.5 Correlation of MCA PSV (A) and CTR (B) with CRL in early pregnancy.
+
+# 3讨论
+
+产前超声诊断是进行胎儿宫内发育异常评估的有效手段[12],而在宫内发育异常的疾病中,地中海贫血(简称地贫)是一组严重威胁胎儿健康的最大遗传性溶血性贫血病， $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { a } . ~ } }$ -和β-地贫是其最重要的临床类型[12]。 $\mathfrak { a }$ -地贫分：静止型、轻型(标准型)中间型-血红蛋白H病、重型-血红蛋白巴氏(HbBart's)水肿胎[13]。重型地贫胎儿在孕早期出现重度贫血，并逐步出现胎盘增厚、心脏增大、心胸比值增大、宫内缺氧等严重并发症，最终致宫内死胎[14-15]。目前,无创超声技术诊断严重 $\mathbf { \dot { a } } \mathbf { \cdot }$ 地中海贫血,多数采取在中孕期超声检查大脑中动脉峰值流速、胎儿心胸比、胎盘厚度等检查[1]。而怀有HbBart's胎儿的孕妇在孕中晚期引产，母体发生妊娠高血压疾病、产后出血、肝肾功能损害和胎盘粘连等并发症的发生率均明显增高[16]。孕育重型地贫儿严重威胁母婴健康,影响优生优育的实施和人口素质的提高。因此对重型 $\mathfrak { a }$ 地中海贫血早期诊断早期、终止妊娠是目前中国最为可行的预防策略[17]。
+
+目前早孕期诊断重型 $\mathfrak { a }$ -地中海贫血胎儿主要采取有创性胎儿取样，即绒毛穿刺术，该方法有一定的风险和胎儿丢失率。所以，如能通过无创、快捷、经济的检查手段早期发现HbBart's胎儿，将极大程度地减少患者损伤和流产风险，节省社会资源，降低出生缺陷，提高人口素质,也是目前的研究热点[18-20]。
+
+大脑中动脉收缩期峰值流速是检测胎儿发育异常的一个重要参考指标，大脑中动脉峰值的标准测量方式,需要在胎儿静息状态下，取样框需放置于大脑中动脉起始部,根据血管的粗细，一般取样容积1.0左右，角度调至与大脑中动脉血流方向一致，偏差角度小于$1 5 ^ { \circ }$ 。由于早孕期胎儿处于活动状态，容易影响动脑中动脉峰值流速测值，且普通超声仪器较难完整显示早孕期胎儿大脑Willis血管环，MCAPSV在该条件下的应用受限，因而既往早孕期MCAPSV相关研究开展较少9，更多的是应用于中晚期孕评估胎儿贫血情况。我们前期在国际妇产科超声学会(ISUOG)便提出,在孕 $1 1 { \sim } 1 3 ^ { + 6 }$ 周早孕期胎儿进行进行超声监测，确认胎儿生机，并尝试在早孕期进行MCAPSV的测量。
+
+随着超声仪器的发展以及超声医生技术的提高，早孕期胎儿大脑Willis血管环也可以清楚显示，使得早孕期准确测量胎儿MCVPS成为了可能[22-23]。通过早孕期超声检测胎儿大脑中动脉峰值流速以及胎儿心胸比，可以准确地评估胎儿贫血程度，并建立早孕期不同孕周的参考值范围，为实现彩色多普勒超声成为早孕期无创产前诊断重型 $\alpha \mathrm { . }$ -地中海贫血的工具提供理论基础。目前国内有关早孕期正常胎儿MCAPSVCTR的研究鲜有报道。
+
+近年来我们探索以彩色多普勒超声应用于早期产前诊断地中海贫血，建立了一套可靠、可行的超声技术，并且经过大样本验证。本研究发现MCAPSV、CTR、CRL变化规律与理论上胎儿的发育相一致。基于现有数据，我们尝试制定了MCAPSV和CTR参考值范围，旨在指导临床早期无创产前诊断。
+
+综上所述，胎儿MCAPSV、CTR均为反映早孕期胎儿成长发育特点，特别是胎儿贫血的重要指标。了解胎儿MCAPSV、CTR在早孕期的变化规律，能更好地评价胎儿宫内状况。彩色多普勒超声检查用于检测早孕期胎儿MCAPSV、CTR是可靠、可行的，建立的早孕期不同孕周的正常胎儿MCAPSV、CTR的参考值范围，可为彩色多普勒超声预测胎儿正常发育提供理论依据也为彩色多普勒超声技术用于早期无创产前诊断α地中海贫血的提供了重要临床理论依据。
+
+# 参考文献：
+
+[1]He YH,Liu K,Gu XY,etal. The application of high definition flow imagingin fetal hemodynamics|J].Clin Exp Obstet Gynecol, 2015 42(1): 11-7.   
+[2]张志坤.超声诊断在胎儿发育异常中的应用[J].中国计划生育和妇产 科，2016(1):25-8,48.   
+[3」李芒.超声检测妊娠晚期胎儿脐动脉及大脑中动脉频谱在妊娠期高 血压中的意义[J].中外医疗，2014(25):183-4.   
+[4」田莉,蔡春华,周鸿.正常妊娠过程胎儿大脑中动脉、脐动脉和子宫 动脉血流动力学相关性的研究[J].现代妇产科进展,2011,20(10): 824-5.   
+[5］张越青,凌 奕,金 松,等.胎儿大脑中动脉血流峰值速度在预测胎儿 地中海贫血中的临床应用[J].海南医学院学报,2010,(1):108-10.   
+[6]万里凯,陈彦红,许春梅,等.超声检测脐动脉、脐静脉内径在地中海贫 血及正常胎儿的对比研究[J].中国临床新医学,2010,3(6):517-9.   
+[7］万里凯,田 矛,许春梅,等.中孕期多项超声检测指标对地中海贫血产 前筛查的Logistic 回归分析[J].中国超声医学杂志,2010,26(11): 1031-4.   
+[8］胡淑君.胎儿心胸径线及比值的测量与临床价值[J].中华围产医学杂 志,2001,4(2): 76-8.   
+[9] Zhen L,Pan M, Han J,et al. Non-invasive prenatal detection of haemoglobin Bart's disease by cardiothoracic ratio during the first trimester[J].Eur J Obstet Gynecol Reprod Biol,2015,193: 92-5.   
+[10] Andrei C, Vladareanu R. The value of reference ranges for middle cerebral artery peak systolic velocity in the management of rhesus alloimmunized pregnancies[J]. Maedica (Buchar),2012,7(1):14-9.   
+[11]陆燕飞,宋海国,陆 胤.超声在地中海贫血胎儿产前诊断中的价值 [J].医学综述,2014(24): 4602-3.   
+[12] Sommet J, Alberti C, Couque N,et al. Clinical and haematological risk factors for cerebral macrovasculopathy in a sickle cell disease newborn cohort: a prospective study[J].Br JHaematol,2016,172 (6): 966-77.   
+[13]Bianchi N, Cosenza LC,Lampronti I, et al. Structural and functional insights on an uncharacterized Aγ-Globin-Gene polymorphism present in four $\beta 0$ Thalassemia families with high fetal hemoglobin levels[J]. Mol Diagn Ther,2016,20(2): 161-73.   
+[14] Huang SW, Xu Y,Liu XM,et al. The prevalence and spectrum of $\mathfrak { a }$ -Thalassemiain GuizhouprovinceofSouth China [J]. Hemoglobin,2015,39(4): 260-3.   
+[15]Li Z,LiF,Li M, et al. The prevalence and spectrum of thalassemia in Shenzhen, Guangdong Province,People's Republic of China[J]. Hemoglobin,2006,30(1): 9-14.   
+[16]魏 然.地中海贫血孕妇妊娠状况及对胎儿的影响分析[J].大家健康: 中旬版,2013(9): 105-6.   
+[17]De Dreuzy E,Bhukhai K,Leboulch P,et al. Current and future alternative therapies for beta-thalassemia major[J].Biomed J,2016, 39(1): 24-38.   
+[18] Zafari M,Kosaryan M,GillP,et al. Non-invasive prenatal diagnosis of $\beta$ -thalassemia by detection of the cell-free fetal DNA in maternal circulation:a systematicreviewand meta-analysis [J].Ann Hematol,2016,95(8): 1341-50.   
+[19] Vichinsky E.Advances in the treatment of alpha-thalassemia[J]. Blood Rev,2012,26(Suppl 1): S31-4.   
+[20]Taher AT, Cappellni MD, Musallam KM.Recent advances and treatment challenges in patients with non-transfusion-dependent thalassemia[J]. Blood Rev,2012,26(Suppl 1): S1-2.   
+[21] Salomon LJ,Alfirevic Z,Bilardo CM,etal.国际妇产科超声学会早 孕期胎儿超声指南[J].妇产与遗传:电子版,2014,(3):54-64.   
+[22]廖伊梅.早孕期胎儿严重肢体畸形产前超声诊断新技术研究[D].广 州:南方医科大学,2013.   
+[23]李胜利,文华轩.早孕期产前超声诊断进展[J].中华妇幼临床医学杂 志:电子版,2011,7(4):287-92.
+
+(编辑：经媛）

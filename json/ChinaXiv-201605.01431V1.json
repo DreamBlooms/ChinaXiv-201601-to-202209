@@ -1,0 +1,456 @@
+[
+    {
+        "type": "text",
+        "text": "IRTKS negatively regulates antiviral immunity through PCBP2 sumoylation-mediated MAVS degradation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pengyan Xial\\*，Shuo Wangl\\*， Zhen Xiong12, Buqing Ye1,Li-Yu Huang3,4, Ze-Guang Han3,4 & Zusen Fan12 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RNA virus infection is recognized by the RIG-l family of receptors that activate the mitochondrial adaptor MAVS,leading to the clearance of viruses.Antiviral signalling activation requires strict modulation to avoid damage to the host from exacerbated inflammation. Insulin receptor tyrosine kinase substrate (IRTKS) participates in actin bundling and insulin signalling and its deficiency causes insulin resistance. However, whether IRTKS is involved in the regulation of innate immunity remains elusive. Here we show that IRTKS deficiency causes enhanced innate immune responses against RNA viruses. IRTKS-mediated suppression of antiviral responses depends on the RIG-l-MAVS signalling pathway.IRTKS recruits the E2 ligase Ubc9 to sumoylate PCBP2 in the nucleus,which causes its cytoplasmic translocation during viral infection.The sumoylated PCBP2 associates with MAVS to initiate its degradation,leading to downregulation of antiviral responses.Thus,IRTKS functions as a negative modulator of excessive inflammation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "nnate immunity is the first defence line of a host against invading microbes1,2. The innate immune system utilizes germline-encodedpattern recognition receptors(PRRs), including membrane-bound Toll-like receptors and cytosolic retinoic acid-inducible gene-I (RIG-I)-like receptors (RLRs),to detect foreign pathogen invasion.Pathogen-associated molecular patterns derived from bacterial and viral elements are recognized by host $\\mathrm { P R R } s ^ { 3 }$ .All RLRs harbour a DEAD/H-box RNA helicase domain that binds to dsRNA.RIG-Iand MDA5,sensors of RNA virus infection,contain an N-terminal tandem CARD domain that is critical to initiate type I interferon (IFN） secretion4-6. Once binding to viral RNAs,RIG-I and MDA5 undergo conformational change to activate another CARD-containing adaptorprotein, mitochondrial antiviral signalling,protein (MAVS, also known as VISA, IPS-1 and CARDIF)-10 Then MAVS activates_IRF3 and ${ \\mathrm { N F - } } \\kappa { \\mathrm { B } }$ to produce type I IFNs and other cytokines-13,leading tofurtheractivation of theadaptive immunity and restriction of the infection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To avoid damage to the host from excessive inflammation, antiviral signalling requires tight regulation to adequately eradicate invading pathogens.Given that MAVS coordinates signals from two independent central PRRs,the cell employs various mechanisms to modulate MAVS,including proteinprotein interactions,changes of mitochondrial dynamics and post-translationalmodifications12.Recently，several negative regulators for MAVS have been reported14-17.Among these negative regulators, the host RNA-binding protein PCBP2 (poly(rC） binding protein 2） was originally identified to be involved in host cell mRNA stability and translational regulation of cellular mRNAs18. During virus infection, PCBP2 can associate with MAVS that acts_as a scaffold to enhance AIP4-mediated degradation of MAVs17. Endogenous PCBP2 primarily resides in the nucleus but relocalizes to the cytoplasm where it initiates MAVS degradation on viral infection. However, the underlying mechanism by which PCBP2 undergoes nuclear export during virus infection is still unknown. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Insulin receptor tyrosine kinase substrate (IRTKS),a member of the IRSp53/MIM family,plays a pivotal role in the formation of plasma membrane protrusions19. It has been reported that IRTKS directly mediates the clustering of actin filaments20,and initiates pathogen-driven actin pedestal formation on bacterial infection21,22，Inadition，ITKScanbephosphorylatedin response to insulin stimulation20. Moreover, IRTKS deficiency causes insulin resistance23. Insulin resistance might be implicated in clinical infections and immune regulations.However,whether IRTKS is involved in the regulation of innate immunity remains elusive.Here we show that IRTKS deficiency augments innate immune responses against RNA viruses.IRTKS mediates sumoylation of PCBP2 to cause its nuclear export on RNA virus infection,leading to MAVS degradation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IRTKS deficiency enhances anti-RNA virus activity. We previously generated IRTKS knockout mice and found that IRTKS deletion exhibits insulin resistance23. Given that insulin resistance might be implicated in clinical infections,we then wanted to explore whether IRTKS was involved in the antimicrobial response.First,IRTKS was successfully deleted in bone marrow-derived macrophages(BMDMs） and mouse embryonic fibroblasts (MEFs）of $I R T K S ^ { - / - }$ mice (Fig. la, left panel).We observed that the survival rate of $I R T K S ^ { - / - }$ mice was similar to that of littermate control mice on infection with Listeria monocytogenes (Fig. la,right panel). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We next wanted to test whether IRTKS deficiency influenced the host's antiviral activity.We infected $I R T K S ^ { - / - }$ mice with several RNA and DNA virus strains. Interestingly, $I R T K S ^ { - / - }$ mice were more resistant to RNA virus vesicular stomatitis virus (VSV） infection compared with littermate $I R T K S ^ { + / + }$ mice (Fig.1b).However,when treated with DNA viruses such as herpes simplex virus (HSV),survival rates were similar between $I R \\dot { T } K S ^ { + / + }$ and $I R T K S ^ { - / - }$ mice (Supplementary Fig. la). These data indicate that $I R T K S ^ { - / - }$ mice display enhanced antiviral activity against RNA viruses. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Type I IFNs are major cytokines to induce antiviral responses in the host1,24.With VSV infection, $I R T K S ^ { - / - }$ mice expectedly produced higher levels of type I IFNs in sera than their littermate control mice (Fig.lc,d). Consistently,viral titres were markedly declined invarious tissues of $I R T K { \\bf \\dot { S } } ^ { - / - }$ mice compared with $I R T K S ^ { + / + }$ mice (Fig.le and Supplementary Fig. $| { \\mathfrak { b } } , { \\mathfrak { c } } ,$ .To further confirm the IRTKS deficiency-enhanced immune response against RNA viruses,we assayed IFN levelsin $I R \\dot { T } K S ^ { - / - }$ macrophages post viral stimulation.Asexpected, $I R T K S ^ { - / - }$ macrophages generated higher levels of type I IFNs than those of their littermate control mice (Fig. 1f,g). Consequently，VSV replication was remarkably suppressed in $I R T K S ^ { ^ { \\bullet } - / - }$ macrophages(Fig.1h).Similarly， $I R T K S ^ { - / }$ -macrophages also produced higher levels of type I IFNs on Sendai virus $( \\mathrm { S e V } )$ challenge (Supplementary Fig. 1d,e） and $I R T K S ^ { - / - }$ mice were resistant to SeV infection (Supplementary Fig.1f).By contrast,IRTKS deletion displayed no significant antiviral change compared with wild-type (WT） mice during DNA virus infection (Supplementary Fig. 1g-l). Taken together, IRTKS functions as an inhibitory modulator in the clearance of RNA viruses. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IRTKS suppresses antiviral immunity via RIG-I-MAVS. The induction of type I IFNs is modulated by transcription factors, including NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ and the IFN regulatory factors IRF3 and IRF7 (ref.1).Activation of IRF3 and IRF7 needs phosphorylation by two IKK-related kinases,TBKl and $\\mathrm { I K K } ^ { 2 5 }$ . On phosphorylation, these two IRFs undergo homodimerization and translocate into the nucleus,leading to the transcription of type I IFN genes.We then examined the activation of IRF3 in $\\Dot { I } \\Dot { R } T K S ^ { - / - }$ BMDMs during virus challenge.As expected,RNA viruses were able to initiate enhanced activation of IRF3 in $I R T K S ^ { - / - }$ macrophages and produced elevated levels of IFNs in these cells (Fig. 2a). However,DNA viruses had no such activity (Fig.2a). In addition, IRTKS knockout sustained high levels of IFN expression after VSV infection (Fig. 2b). By contrast, for $I R T K S ^ { + } { } ^ { * }$ cells， Ifnb mRNA levels were increased at early time points,whereas decreased at late time points post VSV challenge (Fig. 2b). Consequently, the replication of VSV in $I R T K S ^ { - 7 - }$ cells was remarkably suppressed (Fig.2c).However, IRTKS deficiency did not affect the IFN expression with HSV infection (Supplementary Fig.2a) or the replication of HSV in these cells (Supplementary Fig.2b). Since poly(dA:dT) can be converted to $5 ^ { \\prime }$ -PPp RNA by RNA polymerase III (ref.26),we then utilized poly(dA:dT)and poly(I:C) to mimic RNA virus infection. Similarly, poly(I:C) and poly(dA:dT） triggered robust activation of IRF3 and produced elevated levels of IFNs in $I R T K S ^ { - / - }$ macrophages (Fig. 2d). By contrast,poly(dI:dC） and calf thymus DNA,mimicking viral DNAs， did not promote enhanced IRF3 transcription in IRTKS-/- macrophages. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "On RNA virus infection,RIG-I and_MDA5 activate MAVS throughtheCARD-CARDinteraction1.27.MAVSintutrigger the activation of ${ \\mathrm { N F - } } \\kappa { \\mathrm { B } }$ and IRF3,suggesting the RIG-I-MAVS pathway is major means to clear RNA viruses.To determine whether IRTKS-mediated suppression of innate immunity depends on the RIG-I-MAVS signalling, we co-transfected MEF cells with increasing amounts of IRTKS plus members of the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a IRTKS+/+ b IRTKS+/+   \nBMDM IRTKS+/+ IRTKS-/- + 100 IRTKS\\~/- 100 IRTKSMEF 80 80   \n55 kD - IRTKS   \n43kD β-Actin Jenani 60 20- 20 0+ 1 0 01234567 04812162024 28 Listeria infection (days) VSV infection (days)   \nC ●IRTKS+/+ d ● IRTKS+/+ e ● IRTKS +/+ ▲ IRTKS-- ▲ IRTKS ▲ IRTKS-/-   \n2.000 2,500 聚 \\*\\* ▲ (-ju b 200 250 基 \\*\\* \\*\\*\\* X ▲ (iielel) prllg gi ie 10-1 100 \\*\\*   \n-NII 16d) 1,000 彩 本 ▲ D-NII 6d) 150- 100 ： 本 1012 10-3 · 500 安 50 Y 10-4 萧鑫 0+ 0 10-5 0 1 3 0 1 3 0 4 6 VSV infection (days) VSV infection (days) VSV infection (days)   \n（re) trg 1.007 ■IRTKS+/+ Marophage g(ereie h (eiielei) 10 Mecogng 禁 5001 人 \\* 400 \\*\\* rrrnNA 300 T JPPAAAA 604 禁 200 工 100 0.2 T T 0+ 0 01 1 0 12243648 0 122436 48 0 12243648 VSV infection (h) VSV infection (h) VSV infection (h) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RIG-I-MAVS pathway.We found that IRTKS overexpression markedly inhibitedIFN- $\\beta$ production induced by RIG-I and MAVS,but not by TBK1 or TRAF3 (Fig.2e).However,IRTKS overexpression showed inhibitory effect onMDA5-mediatedIfnb expression (Supplementary Fig.2c),but it did not block Ifnb expression even with a highest dose of IRTKS transfection during the period ofVSV infection.These data are in agreement with a previous report showing that MDA5 has a distinct function from RIG-I in the innate immune response28,29.Moreover, IRTKS significantly suppressed endogenous Ifnb expression elicited by RIG-I and MAVS,but not by TBK1 or TRAF3 in macrophages (Fig.2f).Inaddition,IRTKS overexpression remarkably inhibited Ifnb expression in macrophages with VSV infection (Fig. 2g). Similar observationswere also achieved inpoly(I:C)-or poly(dA:dT)-treated cells,but not in poly(dI:dC)- or calf thymus-DNA-treated cells (Supplementary Fig.2d). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We next knocked down RIG-I or MAVS through shRNAs in IRTKS-deficient BMDMs (Fig. 2h).We noticed that RIG-I or MAVS knockdown almost blocked Ifnb expression in IRTKSdeficient cells (Fig. 2i).Altogether, IRTKS-mediated suppression of antiviral response relies on the RIG-I-MAVS signalling pathway. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IRTKS interactswithPCBP2.To elucidate theIRTKS-mediated suppression of antiviral response,we screened a mouse cDNA library derived from murine bone marrow using IRTKS as a bait through a yeast two-hybrid approach.Seven positive clones were identified to be PCBP2,a negative regulator of MAVsl7. Their interaction of IRTKS with PCBP2 was verified by the yeast twohybrid assay (Fig. 3a).Moreover，recombinant IRTKS also associated with PCBP2 through a glutathione S-transferase (GST)-based pull-down assay (Fig.3b).Notably, the association of IRTKS with PCBP2 was only observed in cells infected with VSV virus (Fig. 3c).In addition, the interaction of IRTKS with PCBP2 was significantly enhanced over the process of VSV infection (Fig. 3d).However,DNA viruses such as HSV virus failed to mediate this interaction (Fig. 3e). These data indicate ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a \\*\\*\\* \\*\\*\\* IRTKS4 b +IRTKS+/+ C Mock VSV-GFP 900 400 ---- IRTKS-/- ★ \\*\\*HO +/+STPP\\* 600 300 300 200 0 100 工 PPTPPI   \nDimer   \nMonomer IRF3 0 0 6 12 18 MockVSV SeV HSVVACV VSV infection (h) ■IRTKS+/+ \\*\\*\\* \\*\\*\\* ■IRTKS+/+ T IRTKS 800 30 400 20   \nDimer 100 工 IRF3   \nMonomer \\*\\*\\*工 Mock VSVGFP 9 L GFPRIG-I MAVS TBK1 TRAF3 以 thy 公 2   \nf IRTKS 0ng g Vector h -- IRTKS IRTKS+/+   \n5 \\*\\*\\* \\*\\*\\* rle) thri gig 250 IRTKS-/- + + 200 shCtrl 150 shRIG-I shMAVS 100 55 kD- IRTKS 50 0 1 □ 95 kD - RIG-I F3 0 6 12 18 24 72 kD - MAVS T VSV infection (h) 43 kD- β-Actin   \ni 300 ■IRTKS+/+ □IRTKS-- IRTKS-+shRIG-I   \n180 ■IRTKS+shMAVS 120 T 60 0 H Mock VSV ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "that RNA viruses induce the interaction of IRTKS with PCBP2 during virus infection. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Using truncated IRTKS fragments,we mapped IRTKS (amino acid (aa) 40o-514） was necessary and sufficient for association with PCBP2 (Fig.3f,g).Importantly,restoration with the deleted IRTKS (IRTKS(△400-514)） did not rescue the suppression of ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VSV infection in IRTKS-deficient macrophages (Fig. 3h). However，restoration of the full-length (FL） IRTKS (IRTKS-FL) displayed robust VSV infection.These data suggest that the aa 400-514 fragment is necessary for IRTKS-mediated suppression of virus infection. Similarly,using truncated PCBP2 fragments, we defined PCBP2 (aa 1-81） was necessary and sufficient for interaction with IRTKS (Fig.3i,j).Consistently,restoration of the deletion of aa 1-81 of PCBP2 (PCBP2(△1-81)) failed to rescue the suppression of VSV infection in PCBP2-silenced macrophages (Fig.3k). Overall, the interaction of IRTKS with PCBP2 playsa critical role in the suppression of RNA virus infection. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/36a0764c81c7c33a317fd801a2f255893b4409cd9cf0db17c44261fa2b1f449d.jpg",
+        "img_caption": [
+            "Figure3|IRTKS associates with PCBP2.(a)IRTKS interacts with PCBP2 by yeast two-hybrid screening.Yeast strain $\\mathsf { A H 1 0 9 }$ was co-transfected with Gal4 DNA-binding domain (BD)-fused IRTKS and $G a l 4$ activating domain (AD)-fused PCBP2.p53 and large Tantigen were introduced as a positive control. (b)Recombinant GST-IRTKS and PCBP2 were subjected to GST pull-down assay. $\\mathbf { \\eta } ( \\bullet )$ WT BMDMS were infected with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 ) ,$ for $2 \\mathsf { h }$ followed by immunoprecipitation (IP) with anti-IRTKS antibody.(d) $I R T K S ^ { + / + }$ and $I R T K S ^ { - / - }$ mice were intranasally inoculated with VSV $( 5 \\times 1 0 ^ { 5 }$ p.f.u. for each mousefortheidicatedtieritoealmacroagesereolecteddlysedforitntiSntibody.erefectditV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 )$ for $2 h$ ,followed by IP with anti-IRTKS antibody.(f) Scheme for IRTKS truncations. $\\mathbf { \\sigma } ( \\pmb { \\mathsf { g } } )$ The indicated Flag-tagged IRTKS truncations were co-transfected with FL HA-tagged PCBP2 into MEF cells,followed by IP with anti-Flag antibody.( $\\mathbf { h } ) \\mathbf { \\Lambda } / R T K S ^ { - / - }$ BMDMs were rescued with FL- or $\\Delta 4 0 0 -$ 514-IRTKS,followed by infection with VSV-GFP $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 ) ,$ for $2 4 \\mathsf { h }$ Cells were counterstained with DAPl (left panel).GFP-positive cells were calculated (right panel). Scale bar, $2 0 0 \\mu \\mathrm { m }$ (ij)TheindicatedFlag-taggedPCBP2truncations (i)wereco-transfected withFLHA-tagged IRTKSintoMEFcells, followed by IP with anti-Flag antibody (j). ${ \\bf \\Pi } ( { \\bf k } )$ PCBP2-silenced BMDMs were rescued with FL- or △1-81-PCBP2,folowed by infection with VSV-GFP （204号 $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 ) ,$ for $2 4 \\mathsf { h }$ Cells were counterstained with DAPI (left panel).GFP-positivecells were calculated (right panel).Scale bar, $2 0 0 \\mu \\mathrm { m }$ .Dataare shown as means $\\pm \\thinspace s . 0$ A two-tailed unpaired Student's t-test was used. $^ { \\star \\star } P < 0 . 0 1$ $^ { \\star \\star \\star } P < 0 . 0 0 1$ .Data are representative of at least three independent experiments. m.o.i.,multiplicity of infection; p.f.u.,plaque-forming unit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IRTKS promotes PCBP2-mediated degradation of MAVS PCBP2 is known to augment MAVS degradation for immune regulation during RNA infection17. The association of IRTKS with PCBP2 prompted us to examine whether IRTKS regulated the protein stability of MAVS as well.As expected,IRTKS knockout prohibited the degradation of MAVS in BMDMs during VSV challenge (Fig. 4a). This degradation took place at the protein level, but not at the mRNA level (Supplementary Fig. 3a). Moreover,the proteasome inhibitor MGi32 could block the degradation of MAVS (Fig.4b),suggesting MAVS was degraded bytheproteasomepathway.Consistently,K48-linked polyubiquitinated MAVS appeared in $I R T K S ^ { + / + }$ BMDMs on VSV infection (Fig. 4c), whereas $I R T K S ^ { - / - }$ cells displayed a very ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a IRTKS+/+ IRTKS-/- b IRTKS+/+ IRTKS-/- C IRTKS+/+ IRTKS0 4 81216 04 81216 VSV(s) 016101616C Ant-MAVS + × 072 + + + +   \n55- IRTKS kD   \n43- β-Actin 55- IRTKS 130- d 43- β-Actin IP 95- +IRTKS+/+-- IRTKS\" AAA-/itti 1.25 -- d 72- 0.7 + + Fap-IRTKS 72- MAVS kD + + 525° 75- MAV-SRTKS Lysate 55- IRTKS Time (h)0 4 8 1216 26- GFP 43- ${ \\mathfrak { \\beta } }$ Actin   \ne f g shCtrl Flag-IRTKS shCtrl shPCBP2 shPCBP2 + X + +1+ MAS + + + P + 0255 ++ -72 PCBP2 -43 Flag-IRTKS -55 PCBP2 -43 $\\beta$ -Actin -43 PCBP2 -43 $\\beta$ -Actin -43 $\\beta$ -Actin 43   \nh 20ng i 一 20ng □100ng IRTKS+/+ □100 ng [lh) rlilerilegcin 250 IRTKS-/- (ploj) 250 200 I IRTKS(WT) aaiieriie 200 T 150 \\*\\* VSV + kD 150 100 MAVS - 72 100 500 \\*\\*\\* IRTKS 543 T-NII 50 0 \\*\\*\\* MAVS + + MAVS + + PCBP2(WT) IRTKS(WT) △1-81 △400-514 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "weak signal.More importantly, IRTKS overexpression facilitated MAVSdegradation with a dose-dependentmannerin macrophages on VSV challenge (Fig. 4d).However， IRTKS overexpression did not affect the mRNA stability of MAVS (Supplementary Fig. 3b).These results suggest that IRTKS enhances proteasome-mediated degradation of MAVS during virus infection. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Of note，IRTKS overexpression failed to induce MAVS degradation in PCBP2-depleted macrophages (Fig. 4e),suggesting that IRTKS-mediated suppression of antiviral response depends on PCBP2.It has been reported that PCBP2 plays a pivotal role in the degradation of MAVS17. They also demonstrated that Lys371 and Lys420 of MAVS are the two residues for K48-linked polyubiquitination.We then generated the degradation-resistant mutantK371R/K420R-MAVSandoverexpresseditin macrophages.We observed that IRTKS did not induce the degradation of K371R/K420R-MAVS even in shCtrl-treated macrophages(Fig. 4f)． However， IRTKSpotentiatedthe degradation of WT MAVS only in the presence of PCBP2.We then rescued PCBP2(FL)or PCBP2(△1-81） in PCBP2-silenced BMDMs. PCBP2(△1-81） restoration failed to induce the degradation ofMAVSpost virusstimulation(Fig. 4g). Consequently, PCBP2(△1-81） restoration did not inhibit MAVS-mediated type I IFN generation (Fig. 4h).By contrast, PCBP2(FL） restoration remarkablyprohibited type I IFN production. Finally，IRTKS(△400-514） restoration could not induce the degradation of MAVS on virus stimulation either (Fig. 4i).Consistently，IRTKS(△400-514) restoration did not suppress MAVS-mediated type I IFN production (Fig. 4j). Altogether， IRTKS potentiates the degradation of MAVS through interaction with PCBP2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IRTKS recruits Ubc9 to sumoylate PCBP2 on virus infection. Among the positive clones screened out from the above yeast two-hybrid assay,21 clones were identified to be Ubc9.The interaction of IRTKS with Ubc9 was validated by yeast twohybrid assay (Fig. 5a).We then mapped the Ubc9-binding site on IRTKS.We noticed that the aa 1-230 fragment of IRTKS was necessary and sufficient for interactingwith Ubc9(Fig.5b).More importantly,withVSV stimulation,anti-IRTKS antibody was able to precipitate Ubc9 and PCBP2 in macrophages (Fig. 5c),suggesting that IRTKS associated with Ubc9 and PCBP2 during virus challenge. Ubc9 is the only E2 ligase for protein sumoylation30,31. Then we examined whether PCBP2 or IRTKS underwent sumoylation during virus infection. Interestingly，we observed that PCBP2 was sumoylated on VSV challenge (Fig. 5d). Treatment with the sumoylation inhibitor ginkgolic acid32 blocked the sumoylation of PCBP2. During VSV infection, polysumoylated PCBP2 was further verified by immunoblotting with anti-PCBP2 or anti-small ubiquitin-like modifier 2 (antiSUMO2） antibody (Supplementary Fig. 4a,b). Furthermore, PCBP2 sumoylation was caused by SUMO2，but not by SUMO1 (Supplementary Fig. 4c,d),which was validated by immunoblotting with anti-HA antibody. These data suggest that PCBP2 undergoes SUMO2-mediated polysumoylation during virus infection. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Wenext wanted to determine the cellular location in which PCBP2 was sumoylated on VSV infection.We infected BMDMs with VSV virus and performed fractionation of the cytoplasm and nucleus during early and late time points. At $^ \\mathrm { 1 h }$ post VSV infection，PCBP2 sumoylation appeared in the nucleus, not detectable in the cytoplasm (Fig. 5e).However,at $^ { 8 \\mathrm { h } }$ after VSV infection,PCBP2 sumoylation mainly existed in the cytoplasm (Fig.5e),whereas only weak signals were picked in the nucleus. With treatment of the nuclear export inhibitor leptomycin B before VSV infection, PCBP2 sumoylation only appeared in the nucleus at $^ { 8 \\mathrm { h } }$ ，but no sumoylated signals in the cytoplasm (Fig.5e).These data indicate that the PCBP2 sumoylation takes place in the nucleus during VSV infection.Notably,PCBP2 and Ubc9 were mainly localized in the nucleus in Mock-treated BMDMs (Fig.5f).Whereas IRTKS distributed in the nucleus and cytoplasm.At early time post VSV infection,PCBP2,Ubc9 and IRTKS exhibited colocalization in the nucleus of BMDMs (Fig.5f).Furthermore,VSV particles entered into the nucleus and colocalized with these proteins at an early stage of VSV challenge (Supplementary Fig. 4e). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We further verified our observationswith an in vitro reconstitution assay.We found that PCBP2 could be sumoylated by Ubc9 with the in vitro assay (Fig.5g).Lysine 37 was predicted to be the only sumoylation site on PCBP2 through a GPS-antismall ubiquitin-like modifier (SUMO） predicting tool’.We generated several PCBP2 mutants carrying lysine to arginine mutations. As expected, the K37R mutation impaired the sumoylation of PCBP2 via the in vitro assay (Fig.5g). More importantly,IRTKS was required for the sumoylation of PCBP2 (Fig. 5g).Without IRTKS,PCBP2 did not undergo sumoylation. Expectedly，IRTKS deficiency abrogated the sumoylationof PCBP2 with VSV challenge (Fig. 5h)，which maintained the stability of MAVS.Finally,Ubc9 depletion also abolished the PCBP2 sumoylation (Fig.5i). Taken together,IRTKS recruits Ubc9 to sumoylate PCBP2 in the nucleus on RNA virus infection. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IRTKS promotes PCBP2 translocation and MAVS degradation. It has been reported that protein sumoylation is involved in the nuclear-cytoplasmic transport of various proteins34,35.Given that MAVS is a mitochondrial membrane adaptor, the interaction of PCBP2 with MAVS requires the nuclear export of PCBP2. Therefore,we next examined whether the sumoylation of PCBP2 triggereditscytoplasmictranslocation. Expectedly， VSV stimulation caused cytoplasmic translocation of PCBP2 post 8-h infection(Fig. 6a)． Moreover， thesumoylation inhibitor ginkgolic acid blocked the nuclear export of PCBP2 with VSV challenge (Fig.6a).As shown in the Fig.5e,leptomycin B also blocked cytoplasmic translocation of sumoylated PCBP2 after VSV challenge. Consistently,a large amount of sumoylated PCBP2 appeared in the cytoplasm of macrophages post $\\mathrm { { \\dot { 8 } h } }$ of VSV stimulation (Fig. 6b)，whereas only a little amount of sumoylated PCBP2 remained in the nucleus.Accordingly,MAVS underwent degradation in the cytoplasm of VSV-infected macrophages(Fig. 6b). Theseobservationswerefurther validated by cellular fractionation (Fig. 6c). In addition, sumoylated PCBP2 neither affect the interaction between MAVS and PCBP2,nor the association of RIG-I or MDA5 (Supplementary Fig. 5a).These data indicate that the sumoylated PCBP2 leads to its nuclear export during the progress of virus infection. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We next deleted PCBP2 in macrophages via a CRISPR/Cas9 approach (Supplementary Fig. 5b-d).We rescued WT-PCBP2 or K37R-PCBP2 in PCBP2-deleted macrophages.We observed that WT-PCBP2 restoration was able to cause the nuclear export of PCBP2 after VSV infection (Fig.6d).However,the K37R-PCBP2 mutant abolished such activity. Consistently，K37R-PCBP2 restoration impaired the sumoylation of PCBP2 (Fig.6e),which kept MAVS stability as that of empty vector-treated control cells. Bycontrast,WT-PCBP2 restoration still induced the sumoylation of PCBP2 and caused the cytoplasmic translocation of PCBP2 (Fig. 6e),leading to degradation of MAVS.AIP4 has been reported to mediate MAVS ubiquitination ina PCBP2-dependent mannerl6.We noticed that PCBP2 sumoylation is required for AIP4 activation (Fig. 6f).Cytoplasmic translocation of PCBP2 and IRTKS are also needed for MAVS degradation (Fig. 6g). IRTKS-mediated MAVS degradation is AIP4 dependent (Fig. 6h). Notably,PCBP2 knockout markedly produced type I IFNs (Fig.7a).However, K37R-PCBP2 restoration did not suppress the production of IFN $\\beta$ in PCBP2-deleted macrophages (Fig. 7a), while WT-PCBP2 restoration inhibited the generation of IFN- $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ = Consequently,K37R-PCBP2 restoration still repressed the virus titres and replication rate as $P C B P 2 ^ { + / + }$ cells (Fig. $7 6$ and Supplementary Fig.5e).These data indicate that the sumoylation of PCBP2 is involved in the regulation of MAVS-mediated virus clearance. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Notably，IRTKS deletion abrogated the nuclear export of PCBP2 after $^ { 8 \\mathrm { h } }$ of VSV challenge (Fig.7c), suggesting that IRTKS played a critical role in the cytoplasmic translocation of PCBP2. As shown in Fig.5b,the aa 1-230 fragment of IRTKS is necessary for association with Ubc9.To further confirm the critical role of IRTKS in PCBP2 sumoylation,we then rescued WT-IRTKS or △1-230-IRTKS in $I R T \\dot { K } S ^ { - / - }$ macrophages. We found that △1-230-IRTKS restoration did not cause the cytoplasmic translocation of PCBP2 after $^ { 8 \\mathrm { h } }$ of VSV infection (Fig. 7d). Accordingly,△1-230-IRTKS restoration did not suppress antiviral activity in IRTKS-deficient cells either (Fig.7e), suggesting a critical role of IRTKS in the sumoylation of PCBP2.Finally, △400-514-IRTKS restoration in $I R T K { \\dot { S } } ^ { - / - }$ macrophages did not induce the nuclear export of PCBP2 with VSV challenge either (Fig.7f).Consistently,△400-514-IRTKS restoration disrupted the PCBP2 sumoylation (Fig. ${ \\mathrm { 7 g } } ,$ upper panel),and still sustained thestabilityofMAVS(Fig. ${ \\mathrm { 7 g } } ,$ lowerpanel). Overall, ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef0df3c164d0f8919b5129615ee7eda02d5944edcb5bf755a8bcbd00e135a7b2.jpg",
+        "img_caption": [
+            "Figure5|RTKSrecruitsUb9tatsumoyatesPCBPinthenucleusrightafterVSVinfection.(a）YeasttrainAHO9asCtransfectedwithGal4 DNA-bindingdomai(D)fusedTKandGal4activatigdomainAD)fusedUc9.p53adgeTantigenerentroducedasposio.(b) MapingthinteractiegodUatedaedcatiebeditsagdUldy GST pull-down assay. (c)WT mice were intranasally inoculated with VSV $( 5 \\times 1 0 ^ { 5 }$ p.f.u.for each mouse) for the indicated times.Peritoneal macrophages werelleddoeiibuoasuooihad (d)WT BMDMs were incubated with VSV $\\mathrm { \\langle } m . 0 . \\mathrm { i } . = 5 \\mathrm { \\rangle }$ for $^ { 8 \\mathfrak { h } }$ with or without ginkgolic acid (GA, $2 0 \\mu \\mathrm { m } ;$ ,followed by IP with anti-PCBP2 antibody. Immunoprecipitates were detected with anti-SUMO2 antibody.(e)WT BMDMs were incubated with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 ) ,$ ）for the indicated times with or without $4 0 \\mathsf { n } M$ leptomycinB,folowedbyctoplasmicanduclearseparationLysatesereimmunoprecipitatedwithnti-CBPantibodyfollwedby immunoblotting with the indicated antibodies.(f) WT BMDMs were incubated with VSV $\\mathrm { \\langle } m . 0 . \\mathrm { i } . = 5 \\mathrm { \\rangle }$ for $1 \\mathfrak { h } .$ followed by immunostaining with the indicated antibodies.Nuclei were counterstained with DAPl.Scale bar, $1 0 \\mu \\mathrm { m }$ $\\mathbf { \\sigma } ( \\mathbf { g } )$ Recombinant PCBP2 was incubated with the indicated recombinant proteins in the presence of $5 { \\mathsf { m } } N$ ATP,followedbyIPwithantibodyagainstPCBP2.Theimmunoprecipitates wereimmunoblotted withthe indicatedantibodies. (h) $I R T K S ^ { + / + }$ and $I R T K S ^ { - / - \\ d }$ BMDMs were incubated with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 )$ for ${ 8 \\hbar } ,$ followed by IP with anti-PCBP2 antibody.Immunoprecipitates were detected with anti-SUMO2 antibody.(i) shCtrl- or Ubc9-silenced BMDMs were incubated with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 )$ for $^ { 8 \\mathfrak { h } }$ ,followed by IP with anti-PCBP2tbdteoesdataeepeastthtisitilsult.utiiyfu plaque-forming unit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IRTKS-mediated PCBP2 sumoylation is required for its cytoplasmic translocation that associates with MAVS,leading to MAVS degradation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RNA virus infection is recognized by the RIG-I family of receptors to activate the mitochondrial adaptor protein MAVS, leading to clearance of viruses.MAVS,an innate immune signalling adaptor，integratessignals from two independent cytosolic PRRs to trigger activation of IKK and TBK,which consequently activate NF- $\\boldsymbol { \\kappa } \\mathrm { B }$ and IRF3 to induce production of type $\\dot { \\mathrm { ~ I ~ } } \\operatorname { I F N } \\dot { \\mathbf { s } } ^ { 1 }$ .Antiviral signalling activation is an extremely powerful cellular response that requires strict modulation to adequately eradicate invading viruses while avoiding damage to the cell from overzealous inflammation.In this study,we define that IRTKS as an inhibitory modulator for the RIG-I-MAVS signalling pathway.IRTKS can recruit the E2 ligase Ubc9 to sumoylate PCBP2 in the nucleus that causes its cytoplasmic translocation.In the cytoplasm,the sumoylated PCBP2 associates with MAVS to initiate MAVSdegradation， leadingto downregulation of host immune response (Fig. 8). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5510099db84eda17b8d9b6b5c2e14f4054504e4d2dd178978a652cdbb41c597.jpg",
+        "img_caption": [
+            "Figure 6|IRTKS-mediated PCBP2 sumoylation causes its cytoplasmic translocation leading to MAVS degradation.(a) $I R T K S ^ { + / + }$ and $I R T K S ^ { - / - \\ d }$ BMDMs were incubated with VSV $\\langle \\mathsf { m } . 0 . \\mathsf { i } . = 5 \\cdot$ for $^ { 8 \\mathfrak { h } }$ with or without ginkgolic acid (GA) $( 2 0 \\mu \\mathrm { m } )$ ,followed by immunostaining with the indicated antibodiesPcetafmBopaictalBeaedpel)Aasteouda $1 0 \\mu \\mathrm { m }$ $( \\boldsymbol { \\mathsf { b } } )$ WT BMDMs were incubated with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 ) ,$ for ${ 8 } \\mathsf { h } ,$ followed by immunoprecipitation (IP)with anti-PCBP2 antibody using cytoplasmic or nuclear fractions.(c) WT BMDMs were incubated with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 ) ,$ for $^ { 8 \\mathfrak { h } }$ with or without GA $( 2 0 \\mu \\mathrm { m } )$ ,followed by cytoplasmic and nuclear separation.IPwas performed usinganti-PCBP2antibody.Immunoprecipitates were detectedwiththeindicatedantibodies.(d) $P C B P 2 + 1 +$ and $P C B P 2 ^ { - / - }$ BMDMs rescued with WT or K37R-PCBP2 were incubated with VSV $( \\mathsf { m } . 0 . \\dot { \\mathsf { l } } . = 5 )$ for $8 \\mathfrak { h }$ ,followed by immunostaining with the indicated antibodies. PercentagesofcytoplasmicPCBP2(cytoplasmicPCBP2/totalPCBP)werecalculatedrightpanel).Atlast2OOcelswerecounted.Scalebar $1 0 \\mu \\mathrm { m }$ (e) $P C B P 2 + 1 +$ and $P C B P 2 ^ { - / - }$ BMDMs rescued with theindicated PCBP2 plasmids were incubated wit VSV $\\langle \\mathsf { m } . 0 . \\mathsf { i } . = 5 \\rangle$ for ${ 8 } \\mathsf { h } .$ followed by IP with anti-PCBP2. (f) $P C B P 2 ^ { + / + }$ and $P C B P 2 ^ { - / - }$ MEFs were transfected with Flag-AIP4 and Myc-PCBP2 (K37R) for $2 4 \\mathsf { h }$ ,followed by immunobloting with the indicated antibodies.( $\\bf { \\bar { g } } ) \\ / I R T K S ^ { + / + }$ and $I R T K S ^ { - / - \\ d }$ MEFs were transfected with Flag-AIP4 for $2 4 \\mathsf { h }$ with or without $4 0 { \\mathsf { n } } M$ leptomycin B,followed by immunobloting with the indicatedantibodies.(h)shCtrl-or AIP4-silenced MEFs were transfected with Flag-IRTKS for $2 4 \\mathsf { h }$ ,followed by immunoblotting withtheidicaedsepriepaeeitslii "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Onactivation of the RLR signalling pathway,MAVS undergoes prion-like polymerization to form a MAVS_ signalosomel1,12, resulting in activation of the cytosolic kinases IKK and TBK1.In this process,many factors of the host tightly regulate the RIG-IMAVS signalling_pathway to balance the virus infection-elicited inflammation. It has been reported that some viruses, including hepatitis C virus and enterovirues,employ_their endogenous proteinases to directlycleave $\\mathrm { M } \\mathrm { \\dot { A } V S } ^ { \\dot { 8 } , 3 6 , \\dot { 3 } 7 }$ ，leading tothe inactivation of the MAVS-mediated antiviral responses.However, most viruses are recognized by host PRRs to initiate cellular responses,which consequently regulate antiviral immunity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/741cf09b02b883b8a740d96ed9e80dcbacc15c8409f98a7bb238ae6299df5fdc.jpg",
+        "img_caption": [
+            "Figure7|IRTKS-mediated PCBP2sumoylation is requiredfor MAVS negative regulation during RNAvirus infection.(a) $P C B P 2 ^ { - / - }$ BMDMs were transfected with WT-or K37R-PCBP2 for $1 8 \\mathsf { h }$ (upper panel),followed by infection with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 ) ,$ for $1 8 \\mathsf { h }$ .IFN levels were detected by ELISA (lower panel). (b) $P C B P 2 ^ { - / - }$ BMDMs were transfected with WT-or K37R-PCBP2 for $1 8 \\mathsf { h } ,$ followed by infection with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 ) ,$ for the indicated times. VSV mRNA of BMDMs was analysed by RT-PCR.(c) $I R T K S ^ { + / + }$ and $I R T K S ^ { - / - \\ d }$ BMDMs were incubated with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 )$ for $^ { 8 \\mathfrak { h } }$ ,followed by immostaigitcaedtibiesrcetagofplacBcypcB/totaBeaedgtat 200 cells were counted. Scale bar, $1 0 \\mu \\mathrm { m }$ (d) $I R T K S ^ { + / + }$ and $I R T K S ^ { - / - }$ BMDMs rescued with WTor $\\Delta 1$ -230-IRTKS were incubated with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 ) ,$ for $^ { 8 \\mathfrak { h } }$ followedyimmunotainingithteidicatedantibodiesPercentagsofcylasmicCBPcytoplasmcCBP2/totalPCBP)wrecalated (right panel).At least 2OO cells were counted. Scale bar, $1 0 \\mu \\mathrm { m }$ (e) $I R T K S ^ { + / + }$ and $I R T K S ^ { - / - \\ d }$ BMDMs were rescued with WT or $\\Delta 1$ -230-IRTKS,followed by infection with VSV-GFP $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 ^ { \\cdot }$ for $2 4 \\mathsf { h }$ Cells were counterstained with DAPl (left panel).GFP-positive cells were calculated (right panel).Scale bar, $2 0 0 \\mu \\mathrm { m }$ (f) $I R T K S ^ { + / + }$ and $I R T K S ^ { - / - \\ d }$ BMDMs rescued with WT or △4OO-514-IRTKS were incubated with VSV $( \\mathsf { m } . 0 . \\dot { \\mathsf { l } } . = 5 )$ for $8 \\mathsf { h } ,$ followed by immuostainngitdcaedtbirceagsfcpasmcBcypcBtotaB2ealaedgplt 200 cells were counted. Scale bar, $1 0 \\mu \\mathrm { m }$ (g) $I R T K S ^ { + / + }$ and $I R T K S ^ { - / - }$ BMDMs rescued with the indicated IRTKS plasmids were incubated with VSV $( \\mathsf { m } . 0 . \\mathsf { i } . = 5 )$ for $^ { 8 \\mathfrak { h } }$ ,followedbyimmunoprecipitation(IP)withanti-CBP2antibodyusingcytoplasmicoruclearfractions.Immunoprecipitatsorcel lysates were immunoblotted with the indicated antibodies.Data are shown as means $\\pm \\thinspace s . 0$ Fora,e,a two-tailed unpaired Student's t-testwas used; for b,a one-way analysis of variance followed by a Dunnettpost hoc test was used using $P C B P 2 ^ { + / + }$ cells as controls. $^ { \\star } P < 0 . 0 5$ $^ { \\star \\star } P < 0 . 0 1$ $^ { \\star \\star \\star } P < 0 . 0 0 1$ . Data are representative of at least three separate experiments.m.o.i.,multiplicity of infection. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Post-translational modifications of MAVS and its associated partners are a main aspect of host cell modulation of antiviral responses. Several E3 ubiquitin ligases，including TNF125 (ref.38)，TRIM25 (ref.39)and AIP4 (ref.17)，have been identifiedtoubiquitinateMAVS foritsdegradation.PCBP2could be act asa physical_scaffold to link MAVS with its E3ligases for its ubiquitination17.Notably，PCBP2 resides mainly in the nucleus in a steady state.However,it is unknown how PCBP2 relocalizes to the cytosol where it associates with MAVS on virus infection.Herein，we show that IRTKS negatively regulates antiviral responses against RNA viruses in a RIG-I-MAVSdependentmanner.PCBP2 sumoylationmediated byIRTKS took place in the nucleus on RNA virus infection,which causes its cytoplasmic translocation to interact with MAVS during the late stage of infection，leading to MAVS degradation.PCBP2 sumoylation and IRTKS are required for AID4-mediated MAVS degradation.Moreover,MDA5 expression increases Ifnb expression only at late time of VSV infection，which isin agreement with recent reports28,29These observationssuggest that IRTKS might play a role at the early time points of the antiviral response that isRIG-I mediated.Therefore,the PCBP2 sumoylation plays a critical role in IRTKS-mediated suppression of antiviral activity against RNA viruses. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c137241173661eadbb4d014ddbb0789c835bfe71798af5c0854bdc6a5f68197a.jpg",
+        "img_caption": [
+            "",
+            "Figure 8 | A work model for IRTKS-mediated MAVS degradation during RNA virus infection. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Protein sumoylation plays an important role in various cellular processes,including cell proliferation，apoptosis, transcription regulation and so $\\stackrel { \\smile } { \\mathbf { o n } } ^ { 4 0 , 4 1 }$ .Like the ubiquitinsystem,the SUMO system targets a large number of proteins to fulfil numerous functions42,43. However,the salient difference from the ubiquitin system is the simplicityof the enzymatic apparatusfor sumoylation and de-sumoylation.Up to date,only one SUMOconjugating enzyme Ubc9 has been identified41. In'this study, we demonstrate that IRTKS can recruit Ubc9 to sumoylate PCBP2 at Lys37 in the nucleus during the early stage of RNA virus infection. Over the process of RNA virus infection,sumoylated PCBP2 causes its cellular switch for nuclear versus cytoplasmic localization,where the sumoylated PCBP2 associates with MAVS to initiate its degradation. The sumoylation inhibitor or Ubc9 depletion abolishes the sumoylation of PCBP2,indicating that PCBP2 is a novel substrate for sumoylation during RNA virus infection. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the inner membrane compartment, IRTKS regulates bundles of actin filaments20.During intracellular bacterial infection, bacteria utilize the cytoplasmic actin activators to generate pathogen-drivenactinpedestal right afterthebacterial invasion22.IRTKS can be directly activated by the tyrosine kinase Src through phosphorylation, leading to enhanced cell migration44. In addition, IRTKS can interact with the epidermal growth factor receptor to activate the ERK signalling,which is involved in the pathogenesis of hepatocellular carcinoma45. Our recent report showed that IRTKS is phosphorylated in response to insulin stimulation,whose deletion causes insulin resistance23. Insulin resistance might be implicated in clinical infections and immune regulations.Herein,we show that IRTKS deficiency does notinfluence the antibacterial response in mice. Quite interestingly，IRTKS-deficient mice exhibit elevated antiviral activities against RNA viruses,but not DNA viruses.However, theunderlyingmechanism ofIRTKS-mediated immune suppression in response to distinct viruses needs to be further investigated. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "IRTKS was originally cloned from endocrine organs4o.As an insulin receptor tyrosine substrate,IRTKS is phosphorylated after activation of insulin signalling20. Insulin,as the primary anabolic hormone, modulatesa variety of physiological processes, including growth,differentiation,apoptosis,_as well as synthesis and breakdown of lipid, protein and glucose47.Insulin binds to its insulin receptor to activate the receptor intrinsic tyrosine kinases, leading to activation of the PI3K/Akt pathway48,49. Insulin signalling is indispensable for glucose metabolism in cells of the muscle and adipose tissues50.We previously demonstrated that IRTKS-deficient mice display hyperglycaemia,hyperinsulinaemia, glucose intoleranceanddecreasedinsulinsensitiity3,sgeting IRTKS is implicated in the pathogenesis of diabetes. The pathogenesis of diabetes might be closely related to excessive autoimmune responses51. However, the mechanism leading to autoimmunity in diabetes still remains elusive.Recent onset of type 1 diabetes is strongly correlated with infection by RNA virusessuchasenteroviruses5253Moreover，atranscriptional signature of type I IFNs precedes islet autoimmunity54. Type I IFNs play a critical role in many autoimmune diseases via various immune modulatory actions55' We show that IRTKS targets the RIG-I-MAVS signalling axis that modulates the production of type I IFNs as a negative modulator in infection of RNA viruses. Furthermore,IRTKS-mediated immune suppression differs in response to different types of viruses.Thus,our findings will prompt us to further investigate the connection of IRTKS between the virus infections and the pathogenesis of autoimmune diseases. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Antibodies and reagents.Antibodies used were: anti-IRTKS and anti-EEA1 were from Santa Cruz Biotechnology;anti-IRF3,anti-MAVS,anti-K48-polyubiquitin, anti-H3 and anti-Ubc9 were from Cell Signaling Technology;anti-PCBP2 and antiSUMO2 were from MBL International Corporation; anti-GST,anti-green fluorescent protein (GFP),anti-HA,anti-FLAG,anti- $\\beta$ -actinand anti-His antibodies were from Sigma-Aldrich; Donkey anti-rabbit or anti-mouse secondary antibodies conjugated with Alexa-488,Alexa-594 or Alexa-405 were purchased from Molecular Probes.HRP-conjugated secondary antibodies were from Santa Cruz Biotechnology.Paraformaldehyde,cycloheximide,MG132,ginkgolic acid, isopropyl- $\\cdot \\beta$ -D-thiogalactopyranoside,4,6-diamidino-2-phenylindole and propidiumiodide were from Sigma-Aldrich. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Cells and culture.For BMDMs,bone marrow cells were aspirated from mouse femurs,followed by culture in RPMI 1640 media containing $1 0 \\%$ fetal bovine serum, $5 0 \\mathrm { n g } \\mathrm { m l } ^ { - 1 }$ macrophage colony stimulating factor(MCSF) for7 days. For macrophage transfection,BMDMs $( 1 \\stackrel { \\cdot } { \\times } 1 0 ^ { 6 } )$ were resuspended in $1 0 0 \\mu \\mathrm { l }$ Nucleofector solution buffer(Lonza) containing $5 \\mu \\mathrm { g }$ RNA or other substrates,followed by transfection using the Nucleofector Program Y-Ool on Amaxa nucleofector II device (Lonza).Cells were recovered in RPMI 164O media containing $4 \\mathrm { m M }$ Lglutamine, $1 . 5 \\mathrm { g l } ^ { - 1 }$ sodium bicarbonate and $1 0 \\%$ heat-inactivated fetal bovine serum for $^ { 6 \\mathrm { h } }$ ,followed by flow cytometric sorting for viable cells. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Animals and viruses.Mouse experiments complied with ethical regulations and were approved by the Institutional Animal Care and Use Committees at the Institute of Biophysics,Chinese Academy of Sciences.IRTKS mice were generated through embryo injection of embryonic stem cells with a complete deletion of exon 1 of IRTKS provide by Shanghai Bimodal Organism Science& Technology Development²’.IRTKS knockout mice were backcrossed to C57BL/6 background for more than six generations.Female mice at an age of 12 weeks were used in this study.For preparation of viruses,viruses were incubated with Vero cells,followed by supernatant collection $4 8 \\mathrm { h }$ later.SeV viruses were cultured in embryonated eggs.Supernatants were ultra-centrifuged at ${ 2 5 , 0 0 0 g }$ for $^ { 2 \\mathrm { h } }$ Pelletswere resuspended in RPMI 1640.For virus infection in vivo,mice were either intravenously injected with viruses or intranasally inoculated with viruses for long time observation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Plasmid construction.SAE1,SAE2,Ubc9,SUMO2,IRTKS,PCBP2,RIG-I and MDA5 were cloned from a murine bone marrow library29.MAVS (also known as VISA)was a gift from Hongbing Shu(Wuhan University).SAE1,SAE2,Ubc9 andSUMO2 were subcloned into pET-28a vectors for His-tagged protein expression.PCBP2 and IRTKS were subcloned into pFlag-CMV2 or pCMV-HA for expression in mammalian cells.PCBP2 and IRTKS were also subcloned into pGEX-6p-1 for GST-fusion protein expression in Escherichia coli. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ELISA-based interferon determination. Supernatants from cultured cels or sera were collected at the indicated times.Cytokines were analysed by ELISA kits (R&D Systems)with the manufacturer's instructions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Luciferase assay. IFN $\\cdot \\beta$ luciferase reporter was constructed as described26. Luciferase reporter vectors were co-transfected with pRL-TK(as an internal control reporter vector) into MEF cells by electroporation.Luciferase assays were performed with guidelines provided by the manufacturer (Promega). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Yeast two-hybrid screening.Yeast two-hybrid screening was performed as described previously56.Briefly,IRTKS was cloned into pGBKT7 vector (BD-IRTKS).Yeast AH109 cells were transfected with BD-IRTKS and plasmids containing a mouse bone marrow cDNA library(Clontech/Takara) and then plated on selective synthetic defined (SD) media.Selected clones were isolated for DNA sequencing.X-α-gal assay was carried out by the manufacturer's instructions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Immunoprecipitation.Cells were collected and treated with lysis buffer ( $\\mathrm { \\Omega } ^ { \\cdot } 1 5 0 \\mathrm { m M }$ NaCl, $5 0 \\mathrm { m M }$ Tris-Cl, $1 \\%$ Triton X-1oo,protease inhibitor cocktail, $\\mathrm { p H } 7 . 4 \\$ 。 Supernatants were collected by centrifugation (15,oo0g,15 min, $4 ^ { \\circ } \\mathrm { C }$ ,and incubated with the indicated antibodies $( 1 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 } )$ for $6 \\mathrm { h }$ at $4 ^ { \\circ } \\mathrm { C }$ ，followed by immunoprecipitation with $2 0 \\mu \\mathrm { l }$ protein $\\mathrm { A } / \\mathrm { G }$ conjugated agarose (Santa Cruz Biotechnology).The precipitates were completely washed with lysis buffer and detected through immunobloting. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence.Immunostaining was performed as described previously57,58 Briefly,cellswerepatedon $0 . 0 1 \\%$ poly-L-Lysine-treated coverslips and fixed with $4 \\%$ paraformaldehyde for $1 0 \\mathrm { m i n }$ ,followed by permeabilization with $0 . 5 \\%$ Triton X-100 for $2 0 \\mathrm { m i n }$ at room temperature.Primary antibodies $( 0 . 2 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 } )$ were added for $^ { 2 \\mathrm { h } }$ at room temperature post blocking with $1 0 \\%$ donkey serum for $3 0 \\mathrm { m i n }$ .Samples were further stained with Alexa-488-,Alexa594-or Alexa-405-conjugated secondary antibodies,followed by visualization with confocal microscopy (Olympus FV1000). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "RNA interference.RNA interference sequences were designed according to pSUPER system instructions (Oligoengine).BMDMs were electroporated with pSUPER-GFP vector encoding target sequences against PCBP2 (#1: $5 ^ { \\prime }$ -GGTGC ACGTATCAACATCT- $3 ^ { \\prime }$ $\\# 2$ $5 ^ { \\prime }$ -GACCGACTAATGCCATCTT- $3 ^ { \\prime }$ ；Ubc9(#1: $5 ^ { \\prime }$ -GGCACAATGAACCTGATGA- $3 ^ { \\prime }$ $\\# 2$ $5 ^ { \\prime }$ -AGCAGAGGCCTACACAA TT- $\\cdot 3 ^ { \\prime } { } ^ { \\cdot }$ ；MAVS( $\\# 1$ $5 ^ { \\prime }$ -CAGAGAGCATCAAGAGCAA- $3 ^ { \\prime }$ A $\\# 2$ $5 ^ { \\prime }$ -GTCACAG TATCAGCCCTAT- $3 ^ { \\prime }$ ;RIG-I(#1: $5 ^ { \\prime }$ -CGCTAACCAAATTCCTGTC- $3 ^ { \\prime }$ ,#2: $5 ^ { \\prime }$ -GG TACAACATTGCGAGCAT-3'),and scramble sequences for $4 8 \\mathrm { h }$ ,followed by GFP-positive cell selection through flow cytometry. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Reverse transcription-PCR analysis.Total RNA was extracted from cells using Trizol reagent and cDNA was reverse transcribed using Superscript II (Invitrogen). Reverse transcription-PCR (RT-PCR) was performed using StarScript II Two-step RT-PCR Kit (Genestar) with the following primers: Ifna primers,sense: $5 ^ { \\prime }$ -ACTC ATAACCTCAGGAACAAG- $3 ^ { \\prime }$ ,anti-sense: $5 ^ { \\prime }$ -CTTTGATGTGAAGATG TTC AG- $3 ^ { \\prime }$ ； Ifnb primers,sense: $5 ^ { \\prime }$ -AGTACAACAGCTACGCCTGG- $3 ^ { \\prime }$ ,anti-sense: $5 ^ { \\circ }$ -GAGTCCGCCTCTGATGCTTA- $3 ^ { \\prime }$ ；Mavs,sense: $5 ^ { \\prime }$ -GCGAGGTCCACTGAG CTATC- $3 ^ { \\prime }$ ,anti-sense: $5 ^ { \\prime }$ -CAGGTCAGGAGCAATGGAGG- $. 3 ^ { \\prime }$ ；Pcbp2,sense: $5 ^ { \\prime }$ -TGGATGCCACAG TGACTTACG- $3 ^ { \\prime }$ ,anti-sense: $5 ^ { \\prime }$ -GGGAGGTGATTGAGG GCAAA- $3 ^ { \\prime }$ .VSVRNA was detected as described59. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Invitro sumoylation reconstitution assay. cDNAs of SAE1, SAE2,Ubc9, SUMO2,PCBP2 and IRTKS were subcloned into pET-28a vectors.Plasmids were transformed into $E$ coli strain BL21 (DE3).DE3 clones were cultured $\\mathrm { ( O D _ { 6 0 0 } = 0 . 6 ) }$ ,followed by induction with $0 . 2 \\mathrm { m M }$ isopropyl- $\\beta$ -D-thiogalactopyranoside at $1 6 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { h }$ .Cells were collected and lysed by supersonic and further purified through Ni-NTA resin columns.The in vitro sumoylation reconstitution assays were performed by mixing SAE1/SAE2 $( 2 \\mu \\mathrm { g } \\mu \\mathrm { l } ^ { - 1 } )$ ，Ubc9 $( 1 . 5 \\mu \\mathrm { g } \\mu \\mathrm { l } ^ { - 1 } )$ ， SUMO2 $( 1 \\mu \\ g \\mu \\mathrm { l } ^ { - 1 } )$ and other proteins in the SUMO buffer (50 mMTris-HCl, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 mM $\\mathrm { M g C l } _ { 2 }$ $\\mathrm { \\ p H 8 . 0 } ^ { \\cdot }$ toavolume of $1 8 \\mu \\mathrm { l }$ .The reaction was started by adding $2 \\mu \\mathrm { l }$ ATPbuffer ( $2 \\mathrm { m M }$ ATP, $1 0 \\mathrm { m M }$ creatine phosphate disodium salt, $3 . { \\overset { \\cdot } { 5 } } \\operatorname { U } \\operatorname { m l } ^ { - 1 }$ creatine kinase, $0 . 6 \\mathrm { U } \\mathrm { m l } ^ { - 1 }$ inorganic pyrophosphatase at $3 7 ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { h } }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Gene knockout in BMDMs through CRISPR-Cas9 technology.Genome engineering of the indicated genes was performed using the CRISPR-Cas9 system as described.sgRNA upstream of PCBP2 exon 2: $5 ^ { \\prime }$ -ACCATTACCAGTGG AATGGT $3 ^ { \\prime }$ ,sgRNA downstream of PCBP2 exon 2: $5 ^ { \\prime }$ -CTTTTCTAGTGGAG TGTGGT $3 ^ { \\prime }$ .WT BMDMs were infected with lentivirus to introduce the GFP-containing CRISPR/Cas9 vectors.GFphigh cels were sorted through flow cytometry,followed by analysis of editing efficiency through PCR.PCR products were subcloned and genotyped by DNA sequencing. Genotyped cells were transplanted to recipient mice for further experiments. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis. Statistical significance was calculated by the indicated test as described in figure legends by GraphPad Prism 5. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1.Wu,J.& Chen,Z.J.Innate immune sensing and signaling of cytosolic nucleic acids.Annu.Rev.Immunol. 32,461-488 (2014).   \n2.Xia,P.et al. Sox2 functions as a sequence-specific DNA sensor in neutrophils to initiate innate immunity against microbial infection.Nat. Immunol.16,   \n366-375 (2015).   \n3.Kumar,H.,Kawai,T.& Akira,S.Pathogen recognition by the innate immune system. Int.Rev. Immunol.30,16-34 (2011).   \n4.Abdullah, Z.& Knolle,P.A. Scaling of immune responses against intracelular bacterial infection.EMBO J. 33,2283-2294 (2014).   \n5.Loo,Y.M.& Gale,Jr M.Immune signaling by RIG-I-like receptors.Immunity   \n34,680-692 (2011).   \n6．Nakhaei, P.,Genin,P.,Civas,A.& Hiscott, J.RIG-I-like receptors: sensing and responding to RNA virus infection. Semin.Immunol. 21,215-222 (2009).   \n7.Kawai,T.et al. IPS-1,an adaptor triggering RIG-I-and Mda5-mediated type I interferon induction. Nat.Immunol. 6,98i-988 (2005).   \n8.Meylan,E.et al. Cardif is an adaptor protein in the RIG-Iantiviral pathway and is targeted by hepatitis C virus.Nature 437,1167-1172 (2005).   \n9.Seth,R.B.,Sun,L.,Ea,C.K.& Chen,Z.J.Identification and characterization of MAVS,a mitochondrial antiviral signaling protein that activates NF-kappaB and IRF 3.Cell 122,669-682 (2005).   \n10.Xu,L.G.et al. VISA is an adapter protein required for virus-triggered IFN-beta signaling.Mol.Cell19,727-740 (2005).   \n11.Hou,F.et al. MAVS forms functional prion-like aggregates to activate and propagate antiviral innate immune response.Cell i46,448-46l (2011).   \n12.Jacobs,J.L.& Coyne,C.B.Mechanisms of MAVS regulation at the mitochondrial membrane.J.Mol. Biol.425,5009-5019 (2013).   \n13.Liu,S.et al.MAVS recruits multiple ubiquitin E3 ligases to activate antiviral signaling cascades.eLife 2,e00785 (2013).   \n14.Jia,Y.et al.Negative regulation of MAVS-mediated innate immune response by PSMA7.J. Immunol.183,4241-4248 (2009).   \n15.Moore,C.B.et al.NLRX1 is a regulator of mitochondrial antiviral immunity. Nature 451,573-577 (2008).   \n16.Yasukawa,K.et al. Mitofusin 2 inhibits mitochondrial antiviral signaling. Sci. Signal.2,ra47 (2009).   \n17.You,F.et al.PCBP2 mediates degradation of the adaptor MAVS via the HECT ubiquitin ligase AIP4. Nat.Immunol.10,1300-1308 (2009).   \n18.Makeyev,A.V.& Liebhaber,S.A. The poly(C)-binding proteins: a multiplicity of functions and a search for mechanisms.RNA 8,265-278 (2002).   \n19.Ahmed, S.,Goh,W.I.& Bu,W.I-BAR domains,IRSp53 and filopodium formation. Semin. Cell Dev.Biol.21,350-356 (2010).   \n20.Millard, T.H.,Dawson,J.& Machesky,L.M. Characterisation of IRTKS,a novel IRSp53/MIM family actin regulator with distinct filament bundling properties.J. Cell Sci.120,1663-1672 (2007).   \n21.Aitio,O.et al.Recognition of tandem PxxP motifs as a unique Src homology   \n3-binding mode triggers pathogen-driven actin assembly.Proc.Natl Acad. Sci. USA 107,21743-21748 (2010).   \n22.Vingadassalom,D.et al.Insulin receptor tyrosine kinase substrate links the E.coli O157:H7 actin assembly effectors Tir and EspF(U) during pedestal formation.Proc.Natl Acad. Sci.USA 106,6754-6759 (2009).   \n23.Huang,L.Y.et al. Deficiency of IRTKS as an adaptor of insulin receptor leads to insulin resistance.Cell Res.23,1310-1321 (2013).   \n24.Hornung,V.,Hartmann,R.,Ablasser,A.& Hopfner,K.P. OAS proteins and cGAS: unifying concepts in sensing and responding to cytosolic nucleic acids. Nat. Rev. Immunol.14,521-528 (2014).   \n25.Sharma,S.et al. Triggering the interferon antiviral response through an IKK-related pathway. Science 300,1148-1151 (2003).   \n26.Chiu, Y.H., Macmillan,J.B.& Chen,Z.J. RNA polymerase II detects cytosolic DNA and induces type I interferons through the RIG-I pathway.Cel 138,   \n576-591 (2009).   \n27.Peisley,A.,Wu,B.,Xu,H.,Chen, Z.J.& Hur,S.Structural basis for ubiquitinmediated antiviral signal activation by RIG-I.Nature 509,110-114 (2014).   \n28.Gitlin,L.et al. Melanoma differentiation-associated gene 5 (MDA5) is involved in the innate immune response to Paramyxoviridae infection in vivo.PLoS Pathog. 6,e1000734 (2010).   \n29.Grandvaux,N.et al. Sustained activation of interferon regulatory factor 3 during infection by paramyxoviruses requires MDA5.J. Innate Immun.6, 650-662 (2014).   \n30.Bellail,A.C., Olson,J.J.& Hao,C.SUMO1 modification stabilizes CDK6 protein and drives the cell cycle and glioblastoma progression.Nat. Commun. 5,4234 (2014).   \n31.Ulrich,H.D.Two-way communications between ubiquitin-like modifiers and DNA.Nat. Struct. Mol.Biol.21,317-324 (2014).   \n32.Fukuda,I.et al. Ginkgolic acid inhibits protein SUMOylation by blocking formation of the E1-SUMO intermediate.Chem.Biol.i6,133-i40 (2009).   \n33.Zhao,Q.et al.GPS-SUMO:a tool for the prediction of sumoylation sites and SUMO-interaction motifs.Nucleic Acids Res.42,W325-W330 (2014).   \n34.Santiago,A.,Li,D.,Zhao,L.Y.,Godsey,A.& Liao,D.p53 SUMOylation promotes its nuclear export by facilitating its release from the nuclear export receptor CRM1.Mol.Biol.Cell 24,2739-2752 (2013).   \n35.Wood,L.D.,Irvin,B.J.,Nucifora,G.,Luce,K. S.& Hiebert, S.W. Small ubiquitin-like modifier conjugation regulates nuclear export of TEL,a putative tumor suppressor.Proc.Natl Acad.Sci.USA 100,3257-3262 (2003).   \n36.Feng,Q.et al. Enterovirus 2Apro targets MDA5 and MAVS in infected cels. J. Virol. 88,3369-3378 (2014).   \n37.Wang,B.et al.Enterovirus 71 protease 2Apro targets MAVS to inhibit antiviral type I interferon responses.PLoS Pathog.9,el0o3231 (2013).   \n38.Arimoto,K.et al.Negative regulation of the RIG-I signaling by the ubiquitin ligase RNF125.Proc.Natl Acad.Sci.USA 104,7500-7505 (2007).   \n39.Castanier,C.et al.MAVS ubiquitination by the E3 ligase TRIM25 and degradation by the proteasome is involved in type Iinterferon production after activation of the antiviral RIG-I-like receptors.BMC Biol.10,44 (2012).   \n40.Flotho,A.& Melchior,F. Sumoylation: a regulatory protein modification in health and disease.Annu. Rev. Biochem.82,357-385 (2013).   \n41.Jentsch,S.&Psakhye,I. Control of nuclear activities by substrate-selective and protein-group SUMOylation.Annu. Rev. Genet.47,167-186 (2013).   \n42.Psakhye,I. & Jentsch,S.Protein group modification and synergy in the SUMO pathway as exemplified in DNA repair. Cell 151,807-820 (2012).   \n43.Qi,Y.et al.Hyper-SUMOylation of the Kv7 potassium channel diminishes the M-current leading to seizures and sudden death.Neuron 83,1l59-1171 (2014).   \n44.Chen,G.et al. Src-stimulated IRTKS phosphorylation enhances cell migration. FEBS Lett.585,2972-2978 (2011).   \n45.Wang,Y.P.et al.Insulin receptor tyrosine kinase substrate activates EGFR/ ERK signalling pathway and promotes cell proliferation of hepatocellular carcinoma. Cancer Lett.337,96-106 (2013).   \n46.Hu,R.M.et al.Gene expression profiling in the human hypothalamuspituitary-adrenal axis and full-ength cDNA cloning.Proc.Natl Acad.Sci. USA 97,9543-9548 (2000).   \n47.Pessin,J.E.& Saltiel,A.R. Signaling pathways in insulin action: molecular targets of insulin resistance.J. Clin. Invest.106,165-169 (2000).   \n48.Hers,I.,Vincent,E.E.& Tavare,J.M.Akt signalling in health and disease. Cell Signal. 23,1515-1527 (2011).   \n49.Taguchi,A.& White,M.F.Insulin-like signaling, nutrient homeostasis,and life span.Annu.Rev.Physiol.70,191-212 (2008).   \n50.Bogan,J. S.Regulation of glucose transporter translocation in health and diabetes.Annu. Rev.Biochem.81,507-532 (2012).   \n51. Roep,B. O.& Tree,T.I.Immune modulation in humans: implications for type 1 diabetes mellitus.Nat.Rev.Endocrinol.10,229-242 (2014).   \n52.Dotta,F.& Sebastiani,G.Enteroviral infections and development of type 1 diabetes: the Brothers Karamazov within the CVBs.Diabetes 63,384-386 (2014).   \n53.Richardson,S.J.& Horwitz,M. S.Is type 1 diabetes \"going viral\"? Diabetes 63 2203-2205 (2014).   \n54.Ferreira,R.C.et al.A type I interferon transcriptional signature precedes autoimmunity in children genetically at risk for type 1 diabetes.Diabetes 63, 2538-2550 (2014).   \n55.Gonzalez-Navajas,J.M.,Lee,J.,David,M.& Raz,E.Immunomodulatory functions of type I interferons.Nat. Rev.Immunol.12,125-135 (2012).   \n56.Xia,P.et al.WASH inhibits autophagy through suppression of Beclin 1 ubiquitination. EMBO J. 32,2685-2696 (2013).   \n57.Wang, S.et al. Transient activation of autophagy via Sox2-mediated suppresson of mTOR is an important early step in reprogramming to pluripotency. Cell Stem Cell 13,617-625 (2013).   \n58.Xia,P.et al.WASH is required for the differentiation commitment of hematopoietic stem cells in a c-Myc-dependent manner.J.Exp.Med. 211, 2119-2134 (2014).   \n59.Hasan,M.et al. Trexl regulates lysosomal biogenesis and interferonindependent activation of antiviral genes.Nat.Immunol.14,61-71 (2013).   \n60.Ran,F.A.et al. Genome engineering using the CRISPR-Cas9 system. Nat. Protoc.8,2281-2308 (2013). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We thank Junying Jia and Yan Teng for technical support.We thank Dr Jack Bennink (National Institute of Allergy and Infectious Diseases,Bethesda,MD) for providing VSV and VACV virus strains.We thank Dr Zhengfan Jiang (Peking University) for providing SeV virus and Dr Hongbing Shu (Wuhan University) for providing MAVS plasmid.We thank Dr Hua Peng (Institute of Biophysics,CAS) for providing the Vero cells.This work was supported by the National Natural Science Foundation of China (91419308, 81330047,31300645,31429001 and 31471386),973 Program of the MOST of China (2015CB553705,2010CB911902),the Strategic Priority Research Programs of the Chinese Academy of Sciences (XDA01010407). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "P.X.and S.W.designed and performed experiments,analysed data and wrote the paper; Z.X.and L.H. performed experiments; B.Y.and Z.H.analysed data; Z.F.initiated the study,organized, designed and wrote the paper. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Additional information ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Information accompanies this paper at http://www.nature.com/ naturecommunications ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests:The authors declare no competing financial interests. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Reprints and permission information is available online at http://npg.nature.com/ reprintsandpermissions/ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Howto cite thisarticle:Xia,P.et al. IRTKS negatively regulatesantiviral immunity through PCBP2 sumoylation-mediated MAVS degradation.Nat. Commun.6:8132 doi: 10.1038/ncomms9132 (2015). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license,visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,157 @@
+# 侧壁式压水室离心泵空化特征数值计算
+
+张宁，杨敏官，高波，李忠，陆胜（江苏大学能源与动力工程学院，江苏 镇江212013）
+
+摘要：基于CFD方法，采用混合两相模型、标准K－ε方程和 sighal 发展的全空化模型，对具有特殊结构形式的侧壁式压水室离心泵空化特征进行数值计算。预测了泵在未发生空化和空化条件下的能量性能，并且分析了设计流量下叶片表面和流道内的空泡分布情况。结果表明：在大流量工况下，泵的必须汽蚀余量大，容易产生空化现象。随着泵进口压力的降低，空泡最先出现在泵叶片背面靠近进口边附近；当进口压力进一步降低时，空泡区域开始快速增加，向叶片出口延伸，泵的扬程开始大幅下降。进口压力继续降低时，叶片工作面开始出现空泡，叶轮周向流道内开始充满空泡，此时泵的扬程急剧下降，泵的稳定运行条件被破坏。不同汽蚀余量下，叶频处压力幅值变化明显，在临界汽蚀点处几乎达到极小值。
+
+关键词：离心泵；侧壁式压水室；数值计算；空化中图分类号：TH311 文献标识码：A
+
+# Numerical Simulation on Cavitation Flow in a Centrifugal Pump with Slope Volute
+
+ZHANG Ning YANG MinGuan GAO Bo LI Zhong；LU Sheng
+
+School of Energy and Power Engineering, Jiangsu University, Zhenjiang,212O13,Chin
+
+Abstract:Fullcavitation model、mixture and standard K -ε model were used to investigate cavitation flow in a centrifugal pump with slope volute. Performance of model pump at cavitation and non-cavitation conditions were obtained,and cavitation bubbles distribution in blade surface and channel were discussed.The results show that: at high flow rate,cavitation easily occurs in model pump. When static pressure at pump inlet decreases,cavitation bubbles firstly appear in suction pressure side of blade inlet. With pressure reducing further, cavitation region expands to impeler outlet,and head of model pump is affected obviously.Then cavitation regions transforms to blade pressure side,and the whole impeler channel are filled with cavitation bubbles leading to pump performance dropping rapidly. At fullcavitation condition,steady operating status of model pump is destroyed. Under diferent NPSH working conditions, pressure amplitude at blade passing frequency difers,and pressure amplitude almost reaches minimum value at critical NPSH.
+
+Key words: centrifugal pump; slope volute; numerical simulation; cavitation
+
+# 0前言
+
+水力机械中，由于局部压力的降低诱发的空化现象一直是研究的重难点问题，空化产生的振动噪声和对叶片表面的破坏作用影响水力机械的安全稳定运行[1]。空化现象属于典型的非稳态气液两相运动，空化产生、发展、溃灭过程涉及传质传热，属于多学科交叉领域[2]。
+
+离心泵广泛应用于工业运输、城市生活、农业灌溉等领域。受空化现象的影响，离心泵扬程将急剧下降，并且伴随大幅振动噪声的出现。因此如何最大限度的抑制空化现象的产生并且准确预测空化发生位置成为急待解决的问题[3、4]。
+
+为降低离心泵振动水平，提出一种压水室扩散段呈一定倾斜角的侧壁式压水室。空化是离心泵振动重要激励源，因此深入研究侧壁式压水室离心泵内部空化发展演变规律对认清空化诱发振动关系有较大的意义。
+
+采用数值计算方法对比转速130的侧壁式压水室离心泵进行分析。基于fluent软件，采用sighal叶片表面空化产生部位和发展过程规律以及泵的能量性能变化趋势。
+
+# 1离心泵基本参数
+
+设计一台侧壁式压水室离心泵，表1给出了模型泵的基本性能参数。
+
+表1模型泵性能参数  
+Tab.1 Parameters of model pump   
+
+<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>流量Q</td><td>48 m³/h</td></tr><tr><td>扬程H</td><td>7.8 m</td></tr><tr><td>转速n</td><td>1450 r/min</td></tr><tr><td>比转速ns</td><td>130</td></tr><tr><td>叶轮进口直径Dj</td><td>100 mm</td></tr><tr><td>叶轮外径D2</td><td>172 mm</td></tr></table></body></html>
+
+# 2数值计算方法
+
+根据离心泵流动特性，将流动区域分为4个区域：静止区一进口段、出口段、压水室；旋转区—叶轮。由于空化现象的复杂性，空化区密度梯度大，低质量网格容易造成计算过程发散。采用ICEM对几何模型进行结构网格划分，壁面附近进行加密处理，并且进行网格无关性检查以保证计算结果的精度，网格总数为120万。
+
+![](images/670eaba8b0267ed1abe926f1761ebb0a26ec793deac5b1887c9af094b5cb0e69.jpg)  
+图1计算域
+
+![](images/697f154a11a3a76beee2bd4b42e03c9c1f6cfdcf6d0c05e8f2d5139f4783e8dc.jpg)  
+Fig.1 Computational domains   
+图2单流道叶轮网格图
+
+Fig.2 Mesh of impeller single channel
+
+# 2.1控制方程
+
+混合流体相连续方程
+
+$$
+\frac { \partial \rho } { \partial t } + \boldsymbol { \nabla } \cdot ( \rho \boldsymbol { \nu } ) = 0
+$$
+
+空泡连续方程
+
+$$
+\frac { \partial } { \partial t } ( \rho { f } ) + \nabla \cdot ( \rho { f } { \nu } ) = R _ { e } - R _ { c }
+$$
+
+动量方程
+
+$$
+\frac { \hat { \sigma } } { \hat { \sigma } t } ( \rho \nu ) + \nabla \cdot ( \rho \nu ) = - \nabla p + \frac { 1 } { 3 } \nabla [ ( \mu + \mu _ { t } ) \nabla \cdot \nu ]
+$$
+
+$$
++ \nabla [ ( \mu + \mu _ { t } ) \nabla \cdot \nu ] + \rho g
+$$
+
+标准 $\kappa - \varepsilon$ 方程
+
+$$
+\begin{array} { l } { \displaystyle \mu _ { t } = \frac { C _ { \mu } \rho \kappa ^ { 2 } } { \varepsilon } } \\ { \displaystyle \frac { \partial \left( \rho \kappa u _ { i } \right) } { \partial x _ { i } } = \frac { \partial } { \partial x _ { j } } \Biggl [ \Biggl ( \mu + \frac { \mu _ { t } } { \sigma _ { \kappa } } \Biggr ) \frac { \partial \kappa } { \partial x _ { j } } \Biggr ] + G _ { \kappa } - \rho \varepsilon } \end{array}
+$$
+
+$$
+\begin{array} { l } { \displaystyle \frac { \hat { \sigma } \big ( \rho \varepsilon u _ { i } \big ) } { \hat { \sigma } x _ { i } } = \frac { \hat { \sigma } } { \hat { \sigma } x _ { j } } \Bigg [ \bigg ( \mu + \frac { \mu _ { t } } { \sigma _ { \varepsilon } } \bigg ) \frac { \hat { \sigma } \varepsilon } { \hat { \sigma } x _ { j } } \Bigg ] + \frac { C _ { 1 \varepsilon } \varepsilon } { \kappa } G _ { \kappa } - C _ { 2 \varepsilon } \rho \frac { \varepsilon ^ { 2 } } { \kappa } } \\ { \displaystyle G _ { \kappa } = \mu _ { t } \Bigg [ \frac { \hat { \sigma } u _ { i } } { \hat { \sigma } x _ { j } } + \frac { \hat { \sigma } u _ { j } } { \hat { \sigma } x _ { i } } \Bigg ) \frac { \hat { \sigma } u _ { i } } { \hat { \sigma } x _ { j } } } \end{array}
+$$
+
+$$
+C _ { 1 \varepsilon } = 1 . 4 4 C _ { 2 \varepsilon } = 1 . 9 2 C _ { \mu } = 0 . 0 9 \sigma _ { \varepsilon } = 1 . 3 \sigma _ { \kappa } = 1 . 0
+$$
+
+$\rho$ 为气/液混合流体质量密度， $V$ 为混合流体速度， $f$ 为空泡相的质量组分， $R e$ 为水蒸气凝结率，$p$ 为静压力， $\mu$ 为分子粘性系数， $\boldsymbol { \mu } _ { \textit { t } }$ 为湍流粘性系数。
+
+计算中的水的温度设为 $3 0 ^ { \circ } \mathrm { C }$ ，水的饱和蒸汽压$\scriptstyle p _ { \mathrm { * } } = 3 5 4 0 \mathrm { P a }$ ，水/空泡表面张力 $\sigma { = } 0 . 0 7 1 7 \mathrm { ~ N / m }$ 。假定水中不凝结性气体的质量组分 $f _ { g } { = } 0 . 8 \times 1 0 ^ { - 6 }$ 。计算中流场的压力均为绝对压力。
+
+# 2.2计算方法及边界条件
+
+固体壁面采用无滑移条件，采用标准壁面函数处理近壁区域复杂流动。采用一阶迎风格式对速度、湍动能耗散率及湍动能进行离散。采用SIMPLE算法实现速度和压力之间的耦合。在计算域的进口断面采用绝对速度进口，并且在进口给定 $\kappa - \varepsilon$ 的数值，该值由式（8）确定。采用压力出口条件，并降低松弛因子以保证计算过程稳定。
+
+$$
+\begin{array} { l } { { \kappa { = } 0 . 0 0 5 { u _ { i n } } ^ { 2 } , \varepsilon { = } ( C _ { \mu } ^ { \mathrm { \scriptsize ~ { \frac { 3 } { 4 } } } } \kappa ^ { \frac { 3 } { 2 } } ) / l } } \\ { { l { = } 0 . 0 7 D _ { i n } } } \end{array}
+$$
+
+# 3计算结果分析
+
+# $3 . 1 \mathsf { y } ^ { + }$ 检验
+
+标准 $\kappa - \varepsilon$ 模型适用于高雷诺数湍流流动，对于近壁面附近复杂层流及过渡流动状态，标准$\kappa - \varepsilon$ 则无法求解，近壁区的流动则采用壁面函数来处理，因此近壁面第一层网格节点应处于湍流边界层内。 $\mathbf { y } +$ 取值范围一般为30—200。图3给出了叶片表面的 $\mathrm { y } + \mathrm { \Delta }$ 值分布，可以看出其变化范围满足要求，网格满足计算精度要求。
+
+![](images/3f8473ad4088d7574023e4e25652195c527b7bc30929d4c1c4e73127eaeff466.jpg)  
+图3叶片表面 $\mathrm { y } + \cdot$ 分布Fig.3 y+ distribution of impeller
+
+# 3.2侧壁式压水室离心泵能量性能分析
+
+图4给出了侧壁式压水室离心泵性能曲线，泵的最高效率点偏到 $1 . 0 5 \phi _ { N }$ 附近，在设计流量点上，泵的扬程为 $7 . 4 \mathrm { { m } ; }$ ，基本满足设计要求。
+
+图5给出了侧壁式压水室离心泵3个典型工况下 $( 0 . 8 \phi _ { N } , 1 . 0 \phi _ { N } , 1 . 2 \phi _ { N } )$ 的空化性能曲线。当进口总压较大时，泵内无空化现象产生，离心泵能量性能未受影响，扬程几乎保持不变。随着进口总压的降低，离心泵叶片表面开始产生空泡，使得泵扬程开始下降。根据扬程下降 $3 \%$ 准则可得3种工况下泵的必须汽蚀余量NPSHc分别为 $1 . 1 2 \mathrm { ~ m ~ }$ 、1.25m、 $1 . 7 \mathrm { ~ m ~ }$ 。从NPSHc可以得到大流量下泵抗汽蚀性较差，这与理论分析是一致的。随着进口压力的进一步降低，泵的扬程会急剧下降，严重影响离心泵的稳定运行。
+
+![](images/eaed4b8eada106f882c0d114e79dc09b41b4184cc71c5b3e5e4d0b78bd9341ac.jpg)  
+图4泵性能曲线
+
+![](images/3786aaed4542208063d993d8096b3da97bbee2cef7492ad81625bee6b4af83db.jpg)  
+Fig.4 Performance of model pump   
+图5离心泵空化性能曲线  
+Fig.5 Cavitation performance of pump   
+图6叶片背面空泡分布  
+Fig.6 Bubbles distribution on blade suction side
+
+空泡体积分数也心边心Reee
+
+图6给出了 $1 . 0 \phi _ { N }$ 工况下，不同NPSH值时叶片表面空泡体积分布图。从图中可以得到：在无空化时，叶片进口边是低压区，因此当进口总压降低时，低于液体汽化压力，空泡将最先在叶片进口边附近产生，此时空泡区域和空泡体积分数还处于较低水平，空化对泵的性能影响较小。当压力进一步降低时，最大空泡体积分数区域还处于叶片进口边附近，空泡区域开始增加，向叶片出口边延伸。此时泵扬程受到影响，当 $_ { \mathrm { N P S H = 1 . 2 5 ~ m } }$ 时，泵扬程下降 $3 \%$ 。进一步降低进口压力时，空化区域继续增加，空泡运动到高压区时产生溃灭，形成明显的气/液分界面。当 $\mathrm { N P S H = } 0 . 9 2 \mathrm { ~ m }$ 时，空化区域占据整个叶片1/2左右，此时泵的扬程急剧下降，工作性能恶化，空泡体积分数最大值出现在叶片前盖板附近。
+
+# 3.3空化流动非定常计算结果
+
+离心泵叶轮内部产生空化现象时，稳定的流动结构被破坏，空泡初生、发展和溃灭过程将对叶轮内流动产生明显影响。叶轮一隔舌动静干涉作用诱发的压力脉动是诱导离心泵低频振动的重要激励源。为了得到空化流动对泵内部压力脉动的影响规律，在 $1 . 0 \phi _ { N }$ 工况下对侧壁式压水室离心泵进行空化非定常数值计算，时间步长设置为 $1 . 1 5 \times 1 0 ^ { - 5 }$ S。监测点设置如图7所示。
+
+![](images/4de88164bbfbe6e4ca842c9f71111610d7c655f9142e3db6c8b06a98999cfd77.jpg)  
+图7监测点  
+Fig.7 Monitoring points
+
+图8给出了3个不同监测点处，叶频处压力脉动幅值随有效空化余量变化曲线。开始阶段，叶片进口压力远高于汽化压力，无空化现象产生，压力脉动幅值较大。随着叶轮进口压力的降低，有效空化余量减小，压力脉动幅值呈下降趋势，此时模型的性能几乎不受影响。当达到临界汽蚀余量点时，叶片进口边空泡区域扩大，此时压力脉动基本达到最小值。有效空化余量进一步降低时，空泡充满叶轮流道，此时泵的流动状态完全被破坏，导致压力脉动幅值迅速上升。因此可以将压力脉动迅速上升的拐点作为判断泵内临界汽蚀状态的依据。
+
+![](images/c90b6a8e789553d6b79802e83e46e4ffad653dc5368bf69db61fc2f19e29b0de.jpg)  
+图8叶频幅值变化规律 Fig.8 Pressure pulsation amplitude
+
+# 4结论
+
+应用数值计算方法对侧壁式压水室离心泵进行空化数值分析，得到以下结论：1、大流量下，泵的必需汽蚀余量大，泵容易产生空化。2、空泡最先出现在叶片背面进口边附近，进口压压区溃灭形成明显的汽\液分界面；压力继续降低时，流道内充满空泡，泵的扬程急剧降低。3、临界汽蚀点处，叶频处压力脉动幅值几乎达到最小值，之后随着有效汽蚀余量的降低压力幅值迅速上升。
+
+# 参考文献
+
+[1]O.Coutier-Delgosha.Experimental and numerical studies in a centrifugal pump with two-dimensional curved blades in cavitating condition [J].ASME Journal of Fluid Engineering, 2003,125:970-978.   
+[2] M.Chudina.Detection of cavitation in situ operation of kinetic pumps: Effect of cavitation on the characteris-tic discrete frequency component [J].Applied Acoustics,2009,70: 1175-1182.   
+[3]M.Chudina.Detection of cavitation in operation of kinetic pumps: Use of discrete frequency tone in audible spectra [J]. Applied Acoustics,2009,70:540-546.   
+[4] Chek Zin TAN.An experimental study of cavitation detection in a centrifugal pump using envelope analysis [J]. Journal of System Design and Dynamics,2008,2(1): 274-28   
+附：   
+通讯作者：张宁   
+Add:江苏省镇江市江苏大学能源与动力工程学院212013   
+Tel:18806101236 0511—88783105   
+E-mail: zhangningwlg@163.com

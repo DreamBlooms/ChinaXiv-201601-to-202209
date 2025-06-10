@@ -1,0 +1,526 @@
+[
+    {
+        "type": "text",
+        "text": "合川渠江景观大桥BIM技术应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肖奎 陈家勇 赖亚平 乔云强 王帆（林同談国际工程咨询中国有限公司，重庆401121）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】合川渠江景观大桥采用主跨 $4 0 0 \\mathrm { m }$ 的单主缆地锚式悬索桥，桥塔曲面造型复杂，主梁为变宽分离式扁平钢箱梁，为提高设计效率、保证设计质量，提出\" $\\mathrm { R + G H + R }$ ”的BIM协同设计平台。借助二次开发实现不同软件平台间的信息交互，内置制模标准及构件编码体系，应用BIM技术进行全桥设计。在设计过程中，采用参数化批量建模、实时渲染、智慧出图、虚拟现实、3D打印及4D施工模型等技术，提升了设计质量和工作效率，同时也为桥梁三维设计的发展和应用实践积累经验。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】单主缆地锚式悬索桥；参数化；实时渲染；BIM技术",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 工程简介",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "合川渠江景观大桥位于重庆市合川区渠江口上游 $8 0 0 \\mathrm { m }$ 处，连接云门片区与钓鱼城半岛，满足机动车、非机动车、行人等过江需求，是渠江绿道工程重要的过江通道[1]。结合通航要求以及两岸的地形特点，大桥采用单主缆地锚式悬索桥，桥跨布置为 $1 3 0 \\mathrm { m } + 4 0 0 \\mathrm { m } + 1 4 6 \\mathrm { m }$ 主缆矢跨比为1/9，单幅桥面宽 $8 . 5 \\mathrm { m } ^ { [ 2 ] }$ 。本桥总体布置图见图1，总体透视效果见图2。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7fb0e3e1416202f1640bdaea53b1e06804a8c5a140e813829c3194723334c22.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcf8c54d74fa2efff76efdbd044a3b3a4dc991e06cd9de69c839bb4e332dbe27.jpg",
+        "img_caption": [
+            "图1总体布置图（单位：m）",
+            "图2总体透视效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[基金项目]重庆市基础与前沿研究计划项目（项目编号：CStc2017zdcy-ySZxX0003este2017jeyjys30018)[作者简介]肖奎（1982-)，男，硕士，工程师，桥梁景观设计师，主要研究方向：桥梁景观与概念设计、桥梁三维及一体化、BIM技术研发。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 工程特点及难点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相对于常规桥梁，本桥技术特点突出，如表1所示。主塔采用曲面造型三角形拱塔，主梁为分离式变宽钢箱梁，缆索系统采用部分斜吊索的布置形式，南岸为重力式锚碇，北岸采用隧道式锚碇。为满足设计需求，本项目设计初期就明确采用BIM技术进行全桥的设计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/87dee67b5526c54427b55088b138b87cdb7c0cf2a7487d7eaa8a6737d18d993a.jpg",
+        "table_caption": [
+            "表1本桥工程特点"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主要组成部位</td><td>特点</td><td>图示</td></tr><tr><td>桥塔</td><td>本桥桥塔以“山峦”为设计主 题，桥塔立面线条简洁、流畅，造 型优美。中、上塔柱轮廓线采用三 次抛物线，下塔柱采用直线段。为 减小下横梁温度荷载下对桥塔横向 弯矩的影响，横梁骨架在桥塔中心 线处设置断缝，采用铰接的方式连 接。桥塔曲面造型独特，为保证曲 面形态，断面沿高程方向不断变化， 有必要采用BIM技术进行桥塔的 设计。</td><td>桥塔外包 塔冠骨架 上横梁 上塔柱 塔柱横隔板 中塔柱 铰接 下塔柱 支撑横隔 系梁 承台 桩基</td></tr><tr><td>主梁</td><td>主桥加劲梁采用分离式扁平钢 箱梁且纵坡较大，平面上由曲线段+ 直线段两部分组成。为提高行人安 全和行车舒适，将非机动车道、行 人与机动车分离，钢主梁通过变宽 钢横梁连接。</td><td></td></tr><tr><td>缆索系统</td><td>缆索系统选用单主缆部分斜吊 索的布置形式，在靠近桥塔范围各 设置7对斜吊索，施工时主梁需从 桥塔侧往跨中侧逐节段组拼，以保 证主梁偏载作用下的抗扭刚度。</td><td></td></tr><tr><td>锚碇</td><td>北岸山体地质主要为砂岩和泥 岩互层，围岩稳定性相对较好。综 合考虑工程造价、山体开挖量、环 境扰动、景观效果等方面，选用隧 道式锚碇形式。</td><td>1</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 BIM应用环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 $\\mathbf { R } { + } \\mathbf { G H + R }$ 桥梁协同设计平台",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本桥桥塔曲面造型独特，主缆及主梁的空间定位复杂，因此BIM协同设计平台应具备曲面造型、几何精确控制的能力。与此同时，本桥在设计过程中存在大量专业间的协调工作，应考虑信息的传递性与软件间的互通性。为此，提出 $\\mathrm { \\Delta ^ { \\circ } R + G H + R } ^ { \\mathrm { , } }$ 的桥梁BIM协同设计平台。该平台集成了三维造型软件Rhinoceros（以下简称 Rhino）、参数化软件Grasshopper（以下简称GH）及信息化集成平台Revit三款主流软件的优势，使其具备造型能力强、易开发、轻量化、参数化程度高且高效协同的综合性优势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/be8746734873af8f3e360240aa7047e5b9ce3b7250ced19f3f399b40d616ac87.jpg",
+        "img_caption": [
+            "图3BIM协同工作流程示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在充分发挥‘ $\\mathrm { \\Delta ^ { \\prime } R + G H + R ^ { \\prime } }$ ”中各软件优势的基础上，制定BIM制模标准，进而开展桥梁专业定制化的二次开发，为桥梁BIM实施提供更为完备、高效的解决方案。如图3所示，其协同工作思路为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）在方案设计阶段，借助Rhino和GH进行桥梁方案的参数化调整和造型研究，可实时呈现方案效果便于沟通及抉择，大幅提升桥梁方案设计的效率；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）借助GH定义桥梁中心轴线的“基准控制线”，用于精确定位墩台、桥塔、主梁节段及锚碇等构件；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）基于参数化骨架模型，在Revit中整合各专业模型，并在此几何模型的基础上批量为构件添加材质、配筋率等非几何信息，实现各专业的协同和信息共享。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 软硬件环境",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该BIM平台以美国RobertMcNeel&Assoc开发的专业级3D造型软件Rhinoceros为三维核心，结合自主二次开发的R-BRG、G-BRG的桥梁辅助设计系统，综合应用Revit、Vray、Lumion、Fuzor、Midas、Abaqus 等软件，实现各软件之间的信息传递与模型交互，并依托BIM模型进行三维模型和二维图纸的交互。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "硬件方面采用了大内存和高性能的图形级工作站，配合高效、先进的云计算技术，能快速接入国外云计算超级计算机集群，实现智能联机与云端渲染（参见图4)，同时也能处理各类复杂计算情形，使得结构拓扑优化成为可能，极大地提升设计效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9de502aecf7b2bc673789b873b3cbf99422e536b41b408089a2067300eaa324b.jpg",
+        "img_caption": [
+            "图4云计算处理"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3BIM设计与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 BIM模型构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在信息化设计初期，应明确大桥的建模及拆分原则，本项目参照重庆市市政工程信息模型设计及交付标准的相关规定[3-4]，对BIM模型进行拆分并分类进行协同管理。设定大桥的建模原则及构件编码体系，如图5所示，使各专业设计人员在统一原则下建模，以保证后期的快速合模。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d912cd82dac2f7a9ba0778567f8b7e4102032992af500b08df6c31608cfde28d.jpg",
+        "img_caption": [
+            "图5构件编码体系"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "桥梁模型信息化处理流程：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）基于参数化设计软件GH，建立实时可  \n调的桥梁骨架模型，据此搭建Rhino与Revit  \n的交互平台，可批量驱动族构件；2）对于常规构件，通过建立企业级丰富可  \n调的桥梁参数化常规构件族库，如图6所示，  \n批量赋予结构参数完成建模；3）对于异型结构，应用自适应族，借助参  \n数化手段赋予构件几何控制信息，可准确地建",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "立空间异形结构;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4)基于参数化骨架模型，批量赋予构件定位信息，按照下部上部及附属的顺序进行组拼，完成桥梁几何模型的建立；5）为构件批量添加配筋率、材质等非几何信息；6）在桥梁BIM模型中集成机电、管线、照明等多专业模型，实现各专业之间的协同工作，满足BIM应用需求。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cee71893b31127d1657fccbe27f2edba6dc78e08e63175522b779c340c5ab933.jpg",
+        "img_caption": [
+            "图6参数化族库构件"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 BIM模型应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在前期方案阶段，借助自主二次开发的R-BRG及G-BRG辅助设计工具，结合GIS地理信息数据快速搭建桥位场地及周边环境的地形地貌模型，同时录入项目的基本信息，便于信息管理；借助参数化手段，可快速进行方案的迭代和优化；加上自适应的智能渲染技术，设计人员能够非常便捷的边调整边观察，大幅提升前期的创作、研判及抉择效率，如图7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/80b2c6dce4dd12eee716651a724345619c1c46587828bb6f9458650bfcba20a9.jpg",
+        "img_caption": [
+            "图7实时渲染技术"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在设计阶段，设计人员可借助BIM模型辅助进行复杂节点的三维设计，并对复杂空间的内部结构以第一视角进行结构合理性及操作空间可达性的检查，以保障后期实施的可操作性。借助碰撞检查的功能可避免结构布置上的软、硬碰撞问题。在BIM平台内完成工程量的统计，解决传统二维设计中易出错、难复核的难题。在结构出图方面，借助BIM模型可对复杂节点进行更为直观的三维视图表达，同时借助参数化设计手段可将BIM信息模型的三维成果批量转换为二维图纸，深度可达施工图设计要求，该桥异型桥塔结构的出图率达到 $70 \\%$ 以上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在结构计算方面，基于参数化骨架模型，以MCT命令流形式快速通过Midas软件建立三维杆系有限元计算模型，可达一键运行计算并校核计算结果的效果[5]，并可快速进行结构的迭代及优化；对于桥梁结构受力复杂的部位，BIM模型可直接交互实体有限元分析，进行力学仿真模拟。本工程的具体应用详见表2。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b33f64442d132f5702fd2a3f088b3ada6ec8891e844551ac5791a1cb997f84d9.jpg",
+        "table_caption": [
+            "表2桥梁BIM设计阶段应用"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设计内容</td><td>作用</td><td>图示</td></tr><tr><td>可视化 设计</td><td>桥塔形体复杂，单纯的二维 设计相对困难，可视化的设计可 保证信息传递和图纸表达的一致 性。</td><td></td></tr><tr><td>性能化 设计</td><td>可视化性能分析能够在方案 前期辅助评估场地的使用条件、 归纳特点，以便进行项目的场地 规划、交通组织等重要决策。</td><td>北岸隧道锚侧地形高程分析 南岸重力锚侧高程分析 50m以 210m以下 215m以上 203m以下</td></tr><tr><td>参数化 出图</td><td>由于桥梁专业BIM技术应用 尚处于探索应用阶段，相关BIM 质量管理体系尚未完善，二维图 纸表达尚不可或缺，因此BIM模 型的智能2D 出图能力，极大保证 了设计效率和质量。</td><td></td></tr><tr><td>工程量 统计</td><td>模型的信息化是BIM的基本 属性，模型自带信息能够用于工 程造价管理，同时也能够快速对 构件库中各类组件进行统计分 析，相比人工统计，大幅提升了 信息统计的精准程度。</td><td>常规模型明细表> 主梁梁段</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7d450f32f6549f89fd003a57d0fa085e999b00a58bdc8eb01387262d8bca922.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>计算交互</td><td>基于二次开发和 BIM模型, 利用 GH生成 MCT文件，可快速 交互桥梁结构的三维杆系模型; 对于结构应力扰动区，可快速将 BIM三维几何模型交互有限元计 算分析软件Abaqus，指导施工图 设计，做到结构精细化设计。</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在设计审查阶段，审查人员可基于BIM整合模型直观地进行结构的安全性和合理性审查，在平台内对出现问题的构造进行批注，并将问题与构件相挂接。审查批复的模型中批注的构件均将以高亮的形式显示，设计人员可快速地查阅有问题的构造，并直接定位到问题构件上，在平台内直接调用Revit信息模型，按照审查意见调整设计及信息模型，与此同时，调整后的模型将自动反馈到BIM平台中，这样审查工作将变得更加直观高效。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "BIM拓展应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 专业化定制与二次开发 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在项目设计过程中，基于“ $\\scriptstyle \\mathrm { R + G H + R }$ ”协同平台进行桥梁的定制化二次开发，涵盖方案创作、前期设计分析和施工图设计全过程，如图8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "开发，主要包含：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）1）路面交通设施、城市及自然环境的智能集成化模拟，涵盖车辆、人物、植被、建筑及交通标识等各方面；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）2）线型、色彩和图层等建模环境的标准化，用户可根据设计需求快速地切换和调整建模环境;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）3）借助参数化随机车辆和人群模块，可快速地进行桥上行人、交通设施的随机动态模拟；_",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4）4）桥面附属设施的轻量化建模，并快速栏杆、护栏、立柱等形式的切换。模型和场景完成后，可实时查看方案效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二部分G-BRG是针对桥梁设计阶段的二次开发，主要包含桥梁主体结构及下部结构模型的快速搭建、桥梁各类族构件参数化建模及批量出图、借助参数化手段自动生成钢筋图纸，并与计算模型进行快速交互。最后形成一整套轻量化、标准化、自动化的三维设计流程。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/81bc5cfec83f7243564623cec0f80fff9c8cf6acfb1ddb1c3dc5f0e289fca670.jpg",
+        "img_caption": [
+            "第一部分R-BRG是针对方案阶段的二次",
+            "图8环境模拟与智能建模"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 VR虚拟现实技术应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虚拟现实以信息技术为核心，在计算机数字化环境中建立一个多源信息融合和交互式的三维动态视景的仿真世界，用户可从视觉、听觉和触觉等多方面感知途径与虚拟世界的对象进行交互[]。随着计算机信息技术的发展，VR在桥梁中也得到了一定的应用。本桥在设计过程中利用 $_ { \\mathrm { B I M + V R } }$ 技术，一方面可帮助设计师更加准确地把握项目中构件的空间尺度；另一方面能增强项目信息交互和传递时的直观感受，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "VR 体验过程如图9所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a1989c334b1992e555328ea67314039a46e43a41e7d1ee17c69a715bfb6b7a6.jpg",
+        "img_caption": [
+            "图9BIM+VR应用"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3 3D打印技术",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3D打印技术以BIM模型为基础，运用快速成型的环境友好型聚乳酸（PLA）材料，借助逐层打印的方式来构建形体[7]。因此，它具备复杂形体制作成本低、无须二次组装、操作简单、环保及模型精细度高等优势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本项目结合3D打印技术进行桥塔造型的推敲和优化，最终确定桥塔的造型方案，如图10所示。为保证后期桥塔实施的便捷性，本项目在桥塔侧面设计成单一曲率，可重复利用桥塔侧模，节约桥塔的施工成本。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/55e428834aefcc2f45d4dc98440fa5b449e9cdcf2b9cfae6b78a5d471830e5ca.jpg",
+        "img_caption": [
+            "图10BIM+3D打印技术应用"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4 三维可视化技术交底 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "鉴于本桥施工过程的复杂性，为使参建各方更为直观地把握项目建设全过程，借助BIM技术进行三维可视化的施工技术交底；相对于传统的二维交底，参建方能够更加准确地把握项目的关键施工工序；同时，施工单位能够在此模型的基础上结合施工组织措施进一步细化施工步骤，服务于施工阶段的BIM模型。本桥施工过程模拟如图11所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/16fda43c51cce236feed3a92d1b2c2da055d9919b9942a9de63a1957a0ee4897.jpg",
+        "img_caption": [
+            "(a)基础施工"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/90fcc96dd7a79e2f04068d45549e98e35ff19164881ee1587c8b01c19a61a97d.jpg",
+        "img_caption": [
+            "（b）桥塔施工"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/75ec0d104dd335d4ad7c9ef47f9817eedd483d96b0e7b505be864ec84cd14821.jpg",
+        "img_caption": [
+            "图11施工过程模拟"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 总结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文介绍了BIM技术在合川渠江景观大桥设计阶段的设计方法及应用实践，提出（204号 $\\mathrm { ^ { * } R } { + } \\mathrm { G H } { + } \\mathrm { R } ^ { , }$ 的桥梁设计协同平台，该平台具备造型能力强、易开发、轻量化、参数化程度高且高效协同等特点。在平台内进行桥梁定制化的二次开发，以实现不同软件平台间的信息交互，为桥梁BIM实施提供更为高效的解决方案，本项目首次尝试在BIM信息平台中直观地进行设计过程的审查和批复工作，进一步发挥BIM的应用价值。然而，如何将BIM设计阶段的成果与施工和运维阶段的BIM相结合，仍需进一步探究。希望本文能为桥梁设计领域的BIM应用提供一种新思路。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]王帆,赖亚平,乔云强等.合川渠江景观大桥三角拱形桥塔设计研究[J].中外公路，2018(4):109-112.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]林同談国际工程咨询（中国）有限公司.合川渠江景观大桥施工图设计[Z],2017.  \n[3]DBJ50/T-282-2018,市政工程信息模型设计标准[S].重庆：2018.  \n[4]DBJ50/T-283-2018,市政工程信息模型交付标准[S].重庆：2018.  \n[5]张亚运,钱国明.基于云平台的桥梁健康监测系统在工程中的应用[J]．电脑知识与技术,2015(10):206-208.[6]黎乐涛.虚拟现实在桥梁工程中的应用[J].道路桥梁，2017(4):10.  \n[7]樊冬雪，许珊珊,崔-涛.3D打印技术在桥梁模型中的应用[J].工程科技,2018(1):136-137.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "BIM Technology Application in Hechuan Qujiang Bridge ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Xiao Kui, Chen Jiayong, Lai Yaping , Qiao Yunqiang, Wang Fan (T.Y.Lin International Engineering Consulting （China） Co., Ltd., Chongqing 401121, China） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[Abstract] ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hechuan Qujiang Bridge,with a main span $4 0 0 \\mathrm { m }$ ，isa single main cable anchored suspension bridge with a complex surface pylon and also a widened and separated flat steel box girder, thus a new BIM collaborative platform named $\" \\mathrm { R } { + } \\mathrm { G H } { + } \\mathrm { R } \"$ is proposed to improve the design efficiency and ensure the design quality. By means of secondary development basing on Rhino and Grasshopper, information data can be exchanged between diffrent software systems within the platform. The process of making three-dimensional design of the bridge can be carried out basing on built-in BIM modelling standards and component coding system. In addition,new technologies such as parametric batch modeling,real-time rendering, intelligent drawing, virtual reality,3D printing and 4D construction model are used in the design process to improve the design quality and efficiency，and also to accumulate experience for the development and application of three-dimensional design of bridges with BIM technology. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[Key Words] Single main cable-anchored suspension bridge; Parameterization; Intellectualized real-time ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "rendering; BIM Technology ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第一作者：肖 奎  \n单位：林同秘国际工程咨询(中国)有限公司  \n通讯地址：重庆市渝北区芙蓉路6号  \n邮编：401121  \n手机：18627821982  \nQQ: 51012820  \n邮箱：51012820@qq.com",
+        "page_idx": 8
+    }
+]

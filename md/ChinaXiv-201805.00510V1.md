@@ -1,0 +1,165 @@
+# DOI:10.5846/stxb201703010332
+
+王彬,孙虎,徐倩,田冀,李强,陈盈赞,杨汝兰,张志明.基于无人3D摄影技术的雪松（Cedrus deodara)群落高度测定.生态学报,2018,38（10)：3524-3533.  
+WangB,unH,uQianJ,QenYYngRangeighteasurentCdarCedrusdeodra）ouitybasedaerial vehicles(UAV）3D photogrammetry technology.Acta Ecologica Sinica,2018,38(10):3524-3533.
+
+# 基于无人3D摄影技术的雪松（Cedrusdeodara）群落高度测定 C
+
+王　彬,孙虎,徐倩,田冀,李强,陈盈,杨汝兰,张志明云南大学生态学与环境学院，生态学与地植物学研究所，昆明650091
+
+摘要;植物群落高度是反映植物群落特征的重要指标,植物群落高度的测定能给植物群落多样性分析、生物量估算、功能形状研究提供重要的数据基础。传统的森林调查主要由生态调查工作者通过目测或者利用激光测高仪对每个个体进行逐一测定,因此劳动强度大,耗时费力,并且难以进行大面积的植物群落高度调查。近年来,随着无人机（Unmanned Aerial Vehicle，UAV)技术的飞速发展,催生了无人机低空摄影测量和遥感技术,该技术已被应用于农作物植株高度测定和生物量估测等。然而针对植被类型多样、树木种类繁多且地形复杂的山区如何精确的获取植物群落高度仍然是一个较大挑战。以缓坡地形的云南大学呈贡校区为研究区,选取校区内人工种植的雪松（Cedrus deodara(Roxb.）G.Don)林为研究对象,利用无人机搭载可见光相机平台获取研究区近地面航空影像,利用高分辨的影像匹配加密获得的点云数据生成数字表面模型（Digital Surface Model，DSM）。依据点云分类提取非植物类点,消除少数因植被与非植被相接的边缘模糊而错分类的部分,内插后生成数字地面模型（DigitalTerrain Model，DTM）。将 DSM和DTM叠加相减得到树木高度变化模型(Canopy Height Model，CHM）,即获得研究区各个雪松的高度。然后利用激光测距仪测定研究样地内100 棵雪松的高度,将此测定的树高与无人机航测技术生成的CHM模型测定的树高值进行精度检验。结果表明无人机测定的树高值与激光测距仪测定的树高值线性拟合度较高， $r ^ { 2 }$ 值在0.904以上。此方法基于无人机影像生成空间模型,提取树高,受外界环境因素影响较小，且成本较传统测树方法低廉,可广泛运用于各种植物群落的调查研究当中,有极好的应用前景。
+
+关键词：多旋翼无人机;航空摄影测量;近地面遥感;立木高度;可见光相机
+
+# Height measurement of a Cedar( Cedrus deodara） community based on unmanned aerial vehicles(UAV) 3D photogrammetry technology
+
+WANG Bin，SUN Hu，XU Qian，TIAN Ji, LI Qiang，CHEN Yingyun，YANG Rulan，ZHANG Zhiming\* InstituteofEologyndGeobtanySchoolofEcologyndEironmentalSciene，Yunnan University，Kunming50ina
+
+Abstract:The height of plant communities is an important parameter，which can beused to estimate biomassand is a functional traitof plant communities.Tree heightand plantcommunity heightarecommonly estimatedby forest surveyors or measuredthrough theuseof alaser altimeterin traditional forest surveys.However,this traditional survey method is hardto applyto measure treeand plantcommunity height in large areas.Recently，with therapiddevelopment of unmannedaerial vehicle(UAV）technology，thedevelopmentoflow-altitudeunmannedaerial photogrammetryandremotesensing technology has been stimulated.Previous studies have shown that UAV images can used to measure crops and orchard height，and to estimate biomass.However，obtaining the height of vegetation inrough mountain areas remains abig challnge.Chenggong campus of Yunnan Universitywaschosen asan experimentalarea becauseof thesmallhillarea.Wealsoselecteda plotin which $4 2 0 3 ~ \mathrm { m } ^ { 2 }$ was dominated by pine trees(Cedrus deodara [Roxb.]G.Don).Aerial images of the experimental area were acquired using the UAVequipped with acommon digital camera platform(Sony ILCE-7R).We aligned these images to obtain point cloud data andto produce dense pointcloud data.Then we built adigitalsurface model(DSM）using these pointdata.We extracted non-plant points acording to theclasificationofcloud point.Some sections wereremoved because of edge fogs betweenthe plantandnon-plant parts，andanew height model(digital terain model；DTM）was built by interpolation.Fortheheight variation modelof thecedarcanopy inthestudyarea(canopy height model;CHM）,theheight was obtained byoverlayingthe DSMand DTM.DTM was subtracted from DSM inordertoobtaintheheight variation mode of the cedar canopyinthe studyarea.Theheight variationmodel was the heightofcedar individuals.Afterward，an accuracy assessment has beencarriedout using linear regression analysis.The heightsof 1OO cedar individuals，measured by a laser rangefinder were used as validation data. There are very greatly correlations ( $\stackrel { \cdot } { r } { > } 0 . 9 0 4 \$ ）between the tree heights measured bylaser range finder and quantified by CHM derived byoverlaying DSM and DTM.Both the space model, which was based on the UAV images，and tree height which was subtracted from the space model were lessaffected by external environment factors.Additionaly,this method is easy to be performedandcanbe widelyused to investigate various plant communities and has prospects for use in ecological application.
+
+Key Words:multi-rotor UAV；aerial photogrammetry； field remote sensing；standing tree height；vision camera
+
+植物高度是反映植物群落特征的重要指标,也是当今林业调查不可或缺的测量内容[1-2]。植物群落高度的测定能给植物群落多样性分析、生物量估算、功能形状研究提供重要的数据基础[3-5]。在森林经营管理中,通常利用树高来确定立木材积和材积生长率,在森林资源日益减少的今天,对森林实现准确的调查显得尤为重要[6]
+
+传统的群落高度测定方法通常是利用测树高仪,或者激光测距仪等进行估测森林群落的高度,然而该传统的群落高度调查方法通常只能基于测定几棵树乃至几十棵树进而求平均值,因此劳动强度大、效率低,难以进行大面积大尺度范围的森林参数调查[7]。另外,传统利用航空和卫星遥感进行森林资源调查,具有实测缓慢、劳动力大、成本高、周期长、时空分辨率低、受云层影像大等缺点和不足[8」。近年来,在植物群落高度测定领域中出现不少新的技术和手段,如：极化合成孔径雷达干涉技术、星载激光雷达GLAS 结合光学 MODIS 数据反演冠层高度和运用机载激光雷达点云数据提取林木高度[9-11]。然而这些技术和手段成本高昂,极化干涉技术和星载激光雷达现对大比例尺下的地物测定仍有较大偏差。现在国内外大量搭载使用激光雷达传感器，其独特的穿透性,能穿透简单冠层获取地面信息,从而实现植被高度提取,而利用相机测定植被群落高度的研究较少[12-14]。然而在利用激光雷达传感器获取森林垂直结构存在一定局限性,如激光雷达影像数据质量受森林的密度、郁闭度、天气条件(尤其是风速)等因素影响很大[15]。通常只有针对静风条件下的密度小和郁闭度较低的针叶林,激光雷达才能获得相对较高质量的数据。此外,由于激光雷达传感器价格昂贵,获取高精度雷达影像的成本较高,因此较大范围的应用激光雷达数据获取森林和植物群落的结构特征信息还不是非常普遍,从而制约了该技术得以更广泛的应用[16]。
+
+近年来,随着无人机(Unmanned Aerial Vehicle，UAV)技术的飞速发展,同时也催生了无人机低空摄影测量和遥感(Photogrammetry and Remote Sensing，PaRS)技术,该技术具有拍摄影像分辨率高、重叠率大、姿态角大、相幅小、数量多等特点,因此无论是在商业还是科学应用等方面都有着巨大的发展潜力[17-18]。自 2000 年以后,随着该技术的迅速发展,一些小型轻便的无人机被广泛应用,这些小型化的无人机具有起降灵活、使用成本低、受气候影响小等优点,日渐成为人们关注的热点[18-20]。同样无人机航空摄影测量和遥感技术也日益受到生态学家们的关注,尤其是宏观和空间生态学家们的关注[17]。无人机是一个新的平台,能够搭载不同类型的摄像仪和传感器,如激光雷达扫描仪、多光谱影像仪、高光谱影像仪、热成像仪等[18.14]。Salami 等综述了无人机技术在植被遥感领域的应用和发展前景,指出由于无人机航空摄影遥感的低成本,尤其是搭载常规数码相机的无人机平台能够获得高时间和高空间分辨率的影像,对传统卫星遥感是一个非常好的补充。近几年无人机在生态监测研究中得到广泛应用。Stanley等人利用AIAA研制的Pathfinder-Plus无人机航测系统用来对 $1 5 0 0 \mathrm { { h m } } ^ { 2 }$ 的土地进行长期监测[21]。Renato Henriques 团队利用无人机影像分类出栖息地范围[22]。Stefano等人利用无人机航测技术对挪威南部一片针叶林进行长期的监测,建立了不同透光度气候条件下,测量值与真实值的回归模型,并利用多折交叉验证了模型在森林监测的可行性[23」。李德仁也提出,应用空间信息技术所建立的不同尺度生态环境监测和评价技术体系,是开展生态保护,防止生态退化、维护生态安全的一项重要基础性工作[24]。如上所述,随着摄影测量技术的迅速发展,利用普通数码相机构建3D 模型技术越来越成熟[25-27]
+
+近年来，已有学者利用无人机搭载常规数码相机获取近地面航拍照片,构建3D 模型进行树木高度测定[28-29],以及进行农作物植株高度测定和生物量估测等[29-30]。尽管如此,但是关于利用机搭载普通数码相机对树种多样、地形复杂的针叶林木高度提取的报道不多见。传统遥感技术提取林木信息缺点在于需要花费大量的人力财力,信息提取周期长,且提取效果不佳。云南省植被类型丰富,而其中针叶林分布很广。全省暖热性、暖温性、寒凉性和寒温性针叶林约占全省面积的 $3 5 . 5 4 \% ^ { [ 3 1 ] }$ 。实现大面积针叶林的高度提取，对估算生物量和生态价值有重要意义，而针叶林快速监测一直以来是难点,本研究拟利用无人机携带可见光相机获取航拍数据,利用照片影像数据建立空间模型,使用分类点数据求差法提取实验区内针叶树种的高度,以期该提取方法将能推广到其他区域和能为相对较大面积的森林群落(尤其是针叶林群落)快速监测研究。
+
+# 1实验数据和方法
+
+# 1.1 研究区概况
+
+研究区位于云南大学呈贡校区生态学与环境学院旁，经纬度范围为 $1 0 2 . 8 5 5 9 4 7 ^ { \circ } - 1 0 2 . 8 5 6 4 3 9 ^ { \circ } \mathrm { E }$ ，$2 4 . 8 2 8 6 4 0 ^ { \circ } - 2 4 . 8 2 9 1 3 6 ^ { \circ } \mathrm { N } _ { \circ }$ ，整个人工林面积约为 $4 2 0 3 \mathrm { m } ^ { 2 }$ ,最高海拔 $1 9 8 7 \mathrm { m } \left( \pm 2 \mathrm { m } \right)$ ,最低海拔 $1 9 8 4 \mathrm { m } \left( \pm 2 \mathrm { m } \right)$ 。整体为均匀缓坡,坡向东北向。研究区主体主要为多边形人工林（图1）,主要种植了雪松（Cedrus deodara$( R o x b . ) \ G . \ D o n _ { \ c }$ 。东北侧被道路包围,边缘有少量杂木,视线良好,无遮挡。样区包含100棵雪松,位于正三角标示处。图1影像拍摄时间为4月底，光线充足。
+
+# 1.2 研究数据
+
+为了获取有效的数据,数据采集之前对飞行任务进行整体规划设计,以确保数据获取的有效性和飞行的安全性。控制速度以配合相机延时拍摄的频率,本研究采集数据飞行速度为 $4 \mathrm { m / s }$ 。区域内，航向重叠度高于$7 0 \%$ ,旁向重叠度高于 $7 5 \%$ 1
+
+在本次研究中，无人机搭载的相机为SonyILCE-7R,传感器最大像素为 $7 3 6 0 \times 4 9 1 2$ ,最小感光像元尺寸为$4 . 8 9 \mu \mathrm { m } \times 4 . 8 9 \mu \mathrm { m }$ ,固定光圈大小为 $\mathrm { f } / 4$ ,ISO 值为100,快门速度为 $1 / 1 0 0 0 \mathrm { s }$ ,并调用相机参数补偿几何失真,镜头参数为固定焦距 $3 5 \mathrm { m m }$ 。使用大疆 S900 六旋翼飞行器作为飞行平台,并利用调参软件DJI Assistan2 校准。天空端GPS使用HOLUX M241-A轨迹记录仪,地面端GPS 使用南方 S750手持数据采集系统。共采集到照片影像 254张,主要区域设置地面控制点5个，全部区域设置地面控制点10个。匹配对齐相片,主要区域内影像重叠度均大于9。基于相片对齐生成关键点 79470个,有效重叠度为10.7848,点云数据密度为 172 点/m²。使用横轴墨卡托投影(UTM）,研究样区位于北半球48 号带,采用World Geodetic System 1984（WGS84）基准。
+
+# 2研究方法
+
+# 2.1 数据预处理
+
+# 2.1.1 几何校正
+
+任何镜头都存在一定的图形几何失真,且挂载的相机非专业的量测相机,不是为摄影测量设计的,没有准确地测定内方位元素,透镜也没有经过严格的校正,所以拍摄得到的数字图像存在光学畸变误差[32]。一般情况下,导致获取的影像数据存在几何变形的因素主要包括两个方面：镜头存在非线性畸变和图像传感器阵列潜在的排列误差。该研究使用为独立相机成像,不存在图像传感器阵列排列时候的误差,不考虑第二种情况，只存在镜头固有的非线性畸变。传统的几何校正费时且工程量大,在本研究中,使用相机功能,调用相机自身程序补偿畸变,然后在 Agisoft Lens 软件中计算镜头参数,将相机校正模型参数数据导人PhotoModeler 软件中对全部影像进行校正。校正系数和误差如下表(表1）。
+
+![](images/a1b139ead1173107aba77c568442d41b5ef787bc0bd7f7dab175053fb486a031.jpg)  
+图1实验区位置  
+Fig.1Location of study area
+
+表1校正系数和相关性  
+Table 1 Calibration coefficients and correlation matrix   
+
+<html><body><table><tr><td>参数 Parameter</td><td>值 Value</td><td>误差 Error</td><td></td><td></td><td>Cy</td><td>K1</td><td>K2</td><td>K3</td><td>K4</td><td>P1</td><td>P2</td><td>P3</td><td>P4</td></tr><tr><td>F</td><td>7393.48</td><td>1.7</td><td>1.00</td><td>0.23</td><td>0.14</td><td>0.14</td><td>-0.03</td><td>0.01</td><td>0.00</td><td>-0.03</td><td>-0.02</td><td>0.00</td><td>0.00</td></tr><tr><td>Cx</td><td>-25.2148</td><td>1.6</td><td>O</td><td>1.00</td><td>-0.29</td><td>0.00</td><td>-0.02</td><td>0.01</td><td>-0.01</td><td>0.62</td><td>-0.67</td><td>0.65</td><td>-0.58</td></tr><tr><td>Cy</td><td>-13.5802</td><td>1.8</td><td></td><td></td><td>1.00</td><td>0.03</td><td>0.00</td><td>0.00</td><td>0.00</td><td>-0.68</td><td>0.62</td><td>-0.65</td><td>0.57</td></tr><tr><td>K1</td><td>0.0168487</td><td>0.00017</td><td></td><td></td><td></td><td>1.00</td><td>-0.93</td><td>0.89</td><td>-0.84</td><td>0.01</td><td>-0.02</td><td>0.01</td><td>-0.01</td></tr><tr><td>K2</td><td>-0.0671272</td><td>0.0018</td><td></td><td></td><td></td><td></td><td>1.00</td><td>-0.99</td><td>0.96</td><td>-0.02</td><td>0.02</td><td>-0.02</td><td>0.03</td></tr><tr><td>K3</td><td>0.0907806</td><td>0.0077</td><td></td><td></td><td></td><td></td><td></td><td>1.00</td><td>-0.99</td><td>0.02</td><td>-0.02</td><td>0.02</td><td>-0.03</td></tr><tr><td>K4</td><td>-0.03562</td><td>0.011</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.00</td><td>-0.02</td><td>0.01</td><td>-0.02</td><td>0.03</td></tr><tr><td>P1</td><td>-0.000933269</td><td>5×10-5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.00</td><td>-0.97</td><td>0.97</td><td>-0.84</td></tr><tr><td>P2</td><td>0.000936326</td><td>5x10-5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.00</td><td>-0.96</td><td>0.83</td></tr><tr><td>P3</td><td>2.82942</td><td>0.18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.00</td><td>-0.94</td></tr><tr><td>NP4</td><td>-2.31212</td><td>0.18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.00</td></tr></table></body></html>
+
+F, Cx, Cy, K1, $K 2$ $K 3$ ， $K 4$ ， $P 1$ ， $P 2$ ， $P 3$ ， $P 4$ 为相机模型参数； $F$ 为主焦距（focal length）， $C x$ 为主点 $x$ 坐标( $\mathrm { \Delta X }$ coordinate of he prinialpoint）， $C y$ 为主点 $y$ 坐标（Y coordinate of the principal point）， $K 1$ ， $K 2$ ， $K 3$ ，K4为径向畸变系数（radial distortion coefficients）， $P 1$ ， $P 2$ ， $P 3$ ， $P 4$ 为正切畸变系数(tangential distortion coefficients)
+
+# 2.1.2 图像增强
+
+相片由相机的M档(手动调节档)拍摄,镜头的曝光系数(ISO）、光圈大小和曝光时间是锁定的,相机根据拍摄场景自动调节白平衡和HDR。因为航高一般在几十米甚至上百米的空中,所以目标物对于 $3 5 \mathrm { m m }$ 焦距镜头来说已经处于“无限远”,不会受到光圈大小的干扰,所拍照片中也就不存在景深虚化,对数据准确度的影响较小。另外，一般航测会选择无雨雪的白天进行，只要按正确的航速飞行,曝光时间同样不会影响到数据的准确度。但是存在一种情况,在拍摄过程中可能会有云层遮蔽太阳的情况,如前一张拍的相片是在太阳光照射的情况下拍摄的,后一张相片由于云层刚好在这个时候挡住太阳,使得整个光环境较前一张相片发生变化,而相机本身的自动调节还没有跟上,使得后一张相片比前一张相片昏暗。这种情况会影响到相片的对齐,所以,在处理数据前先对所有相片进行图像增强处理。将图片导入Agisoft Photoscan软件中,建立堆块后，使用 Set Image Brightness 工具,估计照片组的曝光均值,设定亮度百分比,以做到影像增强的效果。处理前后如图(图2)所示。 C）
+
+![](images/911730caf29a1bb364a62fa8ab7f0ccb256c82f8d5856b1189f0ad01303545f0.jpg)  
+图2图像增强处理前后对比  
+Fig.2Uniform color contrast before and after processing
+
+# 2.2 树高提取
+
+# 2.2.1 点云数据提取
+
+提取GPS 轨迹,导入航拍照片,对应相同时间匹配照的GPS 信息,赋予GPS 信息的相片导人软件中将直接形成航拍轨迹和机位位置。快速对齐相片生成顶点并加密后,简单观察目标物生成情况,生成报告查看相片重叠度,确认目标物生成情况良好,重叠度较高(主要区域在8以上)之后再使用该软件处理无人机航拍相片,在软件中刺出并定位地面控制点后,引入坐标系统(WGS84/UTM zone 48N)赋予每一个点GPS 位置信息。导出点云数据(las.格式)。点云数据描述性、可塑性强,保留诸多高度细节,基于点云数据可以提取更多空间信息。其中las.格式点云数据是二进制格式,能包含更多的信息,并且占用的存储空间相对较小[3]。该数据处理方式是在 Agisoft Photoscan 软件平台中实现。
+
+# 2.2.2 植物群落高度测定
+
+将点云数据按照 $0 . 1 \mathrm { m }$ 像元尺寸采样,每个像元取范围内最大Z值生成栅格数据,通过多级B 样带内插后生成 DSM。多级B样带内插（Multilevel B-Spline Interpolation)是一种基于不规则区域样点计算连续平面 $\mathrm { C } ^ { 2 }$ 的内插方法,此方法能平衡形状平滑度与多级近似值精度之间的关系,从而获得更好的内插效果[34]。利用可见光光谱指数——红绿蓝植被指数(RGBVI)混合计算影像3个波段,重新赋予点云新的光谱指数属性,通过点云采样工具,参考R、G、B、亮度、色调和数值,设定公差为15,分类点云中的非植物类点。红绿蓝植被指数能很好的区分植被和非植被部分,易于从点云中提取非植物类点[19]。如图（图3）。
+
+$$
+\frac { \rho _ { \mathrm { g r e e n } } ^ { 2 } - ( \rho _ { \mathrm { r e d } } + \rho _ { \mathrm { b l u e } } ) } { \rho _ { \mathrm { g r e e n } } ^ { 2 } + ( \rho _ { \mathrm { r e d } } + \rho _ { \mathrm { b l u e } } ) }
+$$
+
+将点云数据进行分类提取非植被类点,按照 $0 . 1 \mathrm { m }$ 像元尺寸采样为栅格数据后，通过DTMFilter（slope-based)工具将少数因植被与非植被相接的边缘模糊而错分类的部分消除,因为模糊部分大约为 $0 . 5 \mathrm { m }$ ,抬升并不明显,设定消除扫描半径为5,允许地形坡度为15,不设置置信区间,生成地面栅格数据,如图（图4）。通过
+
+![](images/f24fe8a39c7fe7992cf380baf99ac6266885f38730f97471609b85a2d794b8e8.jpg)  
+Fig.3The RGBVI is calculated according to the band
+
+多级B样带内插后生成DTM。将 DSM减去 DTM即能得到树木高度变化模型CHM。该操作过程是在SAGAGIS软件平台中完成，操作流程图如图(图5)所示。
+
+![](images/cb6c19171c8e061f4d34da3244e95f3785dd4c6ef0e9b5ab584b1c8562ea073c.jpg)  
+图3根据波段计算出红绿蓝植被指数  
+图4提取非植被类点并消除错分类部分  
+Fig.4Extracted the points about non-plant and removed a few portions because some edge fogs
+
+# 2.2.3群落高度精度检验
+
+基于 SPSS 统计软件平台,利用外业测量的数据与该方法提取的树高数据进行线性相关性分析。样地内共计有100棵雪松,利用激光测距仪测定所有雪松高度。对航测方法提取的树高和外业测量的树高进行比较分析,验证其精度。建立线性相关分析对无人机提取树高进行精度验证。样本相关系数 $\boldsymbol { r }$ 为：
+
+$$
+r = \frac { \displaystyle \sum \left( x - x \right) \left( y - y \right) } { \sqrt { \displaystyle \sum \left( x - x \right) 2 \cdot \sum \left( y - y \right) 2 } } = \frac { S P } { \sqrt { S S _ { x } \cdot S S _ { y } } }
+$$
+
+其决定系数 $r ^ { 2 }$ 为：
+
+$$
+r ^ { 2 } = \frac { S P ^ { 2 } } { S S _ { x } \cdot S S _ { y } } = \frac { b S P } { S S _ { y } } = \frac { U } { S S _ { y } } = 1 - \frac { Q } { S S _ { y } }
+$$
+
+式中： $x$ 表示航测树高， $y$ 表示外业实测树高， $r ^ { 2 }$ 的含义是变量 $x$ 引起的 $y$ 变异的回归平方和占 $y$ 变异总数平方和的比率， $r ^ { 2 }$ 取值范围为0—1,表示 $x$ 与 $y$ 之间的相关程度。
+
+# 3研究结果
+
+基于CHM数据按照 $0 . 1 \mathrm { m }$ 的间距生成等高线。其中，雪松位于树冠的最高值被等高线围起来，方便统计树高。将地被物高度模型导入GlobalMapper软件中建立高度变化样带，点选等高线围起来的中心区域，生成样带上的高度变化曲线，将曲线数据导出，波峰处的高度值即为树高。统计得到实验样区内100棵研究对象树高测量值。
+
+基于无人机航拍影像，生成实验区整体点云模型（图6)。基于点云数据按照 $0 . 1 \mathrm { m }$ 像元尺寸采样，内插后生成实验区数字表面模型，如图 $\mathrm { 7 a }$ 。根据非植被类点，消除空洞边缘错分类部分内插后得到实验区数字地形模型，如图7b 求差生成树木高度模型,如图 $\mathrm { 7 c }$ 。
+
+利用激光测距仪测量研究区内所有的雪松高度，共计100 棵,并将提取出来的雪松树高与外业实测的树高进行比较分析。以航测提取数据为因变量,外业实测数据为自变量，建立线性函数关系，回归结果如图(图8)。图中所示测量值与真实值之间拟合关系，在处理后相关系数$R ^ { 2 }$ 在0.904以上。
+
+# 4讨论
+
+当前无人机影像生成数字地理模型方法有多种，其中最常用的有两种方法，即通过提取绝对定向点生成DEM 和基于不规则三角网构建规则格网DEM[35]。这两种方法都需要大量的计算，专业门坎较高。而本研究利用非植被点内插提取实验区本地数字地形模型，更快捷，能适应野外大规模调查，测量值与真实值误差较小。利用该方法对雪松高度提取，相比较于其他方法提取的树高具有较高的提取精度，获取的树高很接近真实值，相关系数 $r ^ { 2 }$ 在0.904以上。
+
+![](images/d890c60e82aea516430285ec2e19422f2eface55c3395e6db93860432ff83b8f.jpg)  
+图5群落植被高度模型提取流程图Fig.5The flow chart of extracting CHM
+
+![](images/f60a0354a771ac13f7a280ee01201bbf9fe999d2769b8131d7649317c9559d1d.jpg)  
+图6实验区点云模型  
+Fig.6Study area's point cloud model
+
+》在之前,已有一些利用无人机航测技术提取树高的尝试。一项森林计测的专利中曾使用树木底点的真航高减去树木顶点的真航高来实现森林树木的高度测定[8。还有方法用立体像对原理实现像方与物方的相互转换,用测量得到的树木坐标代进旋转矩阵中得出树高[36]。杨伯钢等利用机载激光雷达技术来测定树高[7]。上述3种方法都存在一定的局限性,真航高相减的方法需要在配备无线电测高仪记录主点的航高,不仅增加了工作量,而且效果不尽人意[37]。利用立体像对的方法只能针对单棵立木树高进行计算,不适应大面积的森林群落调查。使用激光雷达测树高的方法虽然精度较高,但是采用的是单棵手动量测的方法,同样难以适应大面积的森林调查，并且激光雷达影像数据质量受森林的密度、郁闭度、天气条件(尤其是风速)等因素影响很大。本研究利用无人机搭载RGB数码相机能快速较大范围调查群落树高，更适用于生态学野外调查。本文通过多级B样带内插后生成DSM，基于点云数据依据分类提取非植被类点内插生成DTM，最后通过叠加相减分析获得树高，不受森林密度、郁闭度、天气条件等因素的影响，并且利用无人机机载普通数码相机的方法具有成本更加低廉的优势。
+
+![](images/f3e1b27dd048afe369a6d21389d7a98d49a4978aa4d4422229ca050b6addf51d.jpg)  
+图7研究区数字表面模型(a)，数字地形模型(b)，地被物高度模型(c)
+
+Zarco-Tejada 的团队2014年使用线性回归的方法对内业统计数据与外业实测数据进行了差异性分析[29]。同年,北京林业大学利用无人机影像基于像对原理提取的树高与实测值做了相对误差计算和线性回归分析[38]。2015年,北京林业大学同一个团队利用点样方法获取本地数字地理模型后用差值法获取树高，同样也做了线性相关分析[39]。本研究同样采用线性回归的方法验证测量值和真实值的差异，结果也表明本研究的方法所得到的结果误差在可接受范围内并且测量值
+
+![](images/a8452160e7abfa65f678abc116c52f72cf9d04392f24a81b3f0fd1f78646f092.jpg)  
+Fig.7Digital Surface Model（a）Digital Terrain Model（b） Canopy Height Model（c）  
+图8实验样区100棵树实测高和测量高验证评估结果 Fig.8Results of the validation assessment comparing fieldmeasured tree height and DSM-retrieved height of the 100 validation trees distributed over area
+
+接近真实值。
+
+本研究的方法提取树高数据会受到树冠遮蔽的影响,被遮蔽的部分通过内插推断得到,在根据非植被类点向空缺部分内插时易受到边缘数据的影响。另外，利用普通数码相机采集数据,在进行过校正后精度上依然与专业的量测相机有一定差距,并且由于冠层遮蔽,可见光相机不能采集到冠层之下的数据,所以现阶段只能提取位于群落中较高位置的植物高度。目前机载平台多用于地形比较平坦、树种单一的果园、农田等区域。本研究基于无人机获取分析得到的DSM数据和DTM数据进行叠加分析提取树高,提取精度受外界因素的影响小,适用于地形比较复杂、植物种类繁多的地区。今后可以推广在大面积进行针叶林树高估测、稀树灌木草地植被群落和单一植被群落高度提取等方面。 ）
+
+本研究通过地面控制点引入坐标,所以需要精度很高的定位仪器进行控制点采集。将来可以使用 RTK-GPS 等高精度定位系统获取更精准的地面控制点。另一方面,如果使用能达到与实际地形相吻合的高分辨率的 DEM 数据,此方法的操作将更加简单,结果将更加精确。DSM也是影响树高提取的关键因素之一,改进DSM 提取方法也是将来本研究发展方向。还有无人机在飞行过程中往往受到外界和自身飞行因素的影响而存在姿态误差,高质量的姿态信息能提高相片的匹配效率和精度,将来可使用更专业的惯性导航系统以补偿无人机姿态误差。
+
+# 5结语
+
+随着地理信息科学与相关产业的发展,各行业对遥感数据的需求急剧增长,生态学领域亦是如此。除了传统的卫星遥感数据外,现对大比例尺范围下的高分辨影像需求也越来越大。对于区域小尺度或较精细的地物研究，传统的卫星遥感影像由于分辨率的限制而无法满足需求。
+
+本次研究,成功提取了研究区内每棵的雪松高度,并且通过相关关系的计算,验证了此方法的可靠性与准确性。相比传统调查手段,利用无人机航空摄影技术具有灵活、低成本、周期短等优点,特别在一些野外地形复杂而人不易接近的地区,该技术更能体现其优势。时代变化,技术日新月异,无人机技术在近几年突飞猛进,不断地更新和完善,较之前两年有了很多变化,如新的地面站软件,新的飞行控制器,新的政策法规等等。现阶段关于无人机测树领域大多开始使用机载激光雷达,虽然能更好的获取地面信息内插出更精准的本地数字地理模型,但可见光传感器与之相比具有的低成本、快速采集和丰富色彩信息是激光雷达所不能比的。本研究通过不断试验,总结出一套现在最新的无人机航测流程,并且改良了差值法测树的方法,大大缩短了工作周期。此外，相对于传统的野外群落样方调查和森林调查获取森林树木和群落高度及估测生物量的方法,利用无人机航空摄影技术要快速,并且也可能更准确。同时目前无人机的续航能力已经可以借由航线设计和断点飞行来进行弥补,采取多次采样的方式可以满足相对较大面积的采样需求。并且,这些采样结果如果跟卫星遥感结合将来有可能实现更大面积的森林群落的高度测定，乃至生物量的估测研究等。
+
+# 参考文献（References） :
+
+［1］吴红波.基于星载大光斑 LiDAR数据反演森林冠层高度及应用研究[D]．哈尔滨：东北林业大学，2011,6:1-2  
+[2] Fang JY,ShenZH,Tang ZY,Wang XP,WangZH,FengJM,LiuYN,QiaoXJ,WuXP,ZhengCY.Forestcommunitysurveyadthestructural characteristics of forests in China.Ecography，2012,35(12）：1059-1071..  
+[3] 叶万辉，曹洪麟，黄忠良，练琚愉，王志高，李林，魏识广，王章明.鼎湖山南亚热带常绿阔叶林20 公顷样地群落特征研究.植物生态学报，2008,32(2):274-286.  
+[4] 邢艳秋，王立海.基于森林调查数据的长白山天然林森林生物量相容性模型.应用生态学报，2007，18（1)：1-8.  
+[5］王婧，温仲明，张春梅，赵臻.延河流域植物群落高度变化与群落构建.水土保持通报，2011，31（2)：181-185.  
+[6］周志强，岳彩荣，徐天蜀，李毅，王晓宁.森林高度遥感估测研究综述.现代农业科技，2012,（2)：198-199，203-203.  
+[7］杨伯钢，冯仲科，罗旭，祝晓坤，董明，全明玉，韩光瞬.LIDAR 技术在树高测量上的应用与精度分析.北京林业大学学报，2007,29(S2):78-81.  
+[8］冯仲科，林宗坚，姚山.无人机航空摄影遥感森林计测方法：中国，CN200610000857.9.2008-05-28.  
+[9］于大洋,董贵威，杨健，彭应宁，王超，张红.基于干涉极化SAR数据的森林树高反演.清华大学学报（自然科学版），2005，45（3）：
+
+34-356.[10]杨婷，王成，李贵才,骆社周，习晓环，高帅，Zeng HC.基于星载激光雷达GLAS 和光学 MODIS 数据中国森林冠层高度制图.中国科学：地球科学，2014，44（11):2487-2498.[11] 王涛，龚建华，张利辉，岳玉娟.基于机载激光雷达点云数据提取林木参数方法研究.测绘科学，2010,35(6)：47-49.[12]BaltsaviasEPbelasersang：basicrelatiosandfoulassprsJoualofotogametryndReoeSensing，9,4（/3)：199-214.[13]BlairJB，RabineDL，HofonMA.ThLaserVegetationImgingSsor:amem-alitudedigistioonly，irboelaseieerformapping vegetation and topography.ISPRS Journal of Photogrammetry and Remote Sensing，1999,54(2/3）：115-122.[14]SalamfE，BaradoC，PastorE.UAVflightexperimentsapliedtotheremotesensingofvegetatedareas.RemoteSensing，2O4，6（1)11051-11081.15]ssotForest Science,2011,68(5）:959-974.[16] 赵峰,李增元，王韵晟，庞勇．机载激光雷达(LiDAR)数据在森林资源调查中的应用综述.遥感信息，2008（1):106-110,53-53.[17]AnderostKJisilutatlsioldt11(3): 138-146.[18]Colomina I,Molina P. Unmanned aerial systems for photogrammetryand remote sensing:a v. ISPRS Journal of Photogrammetryand RemoteSensing，2014,92：79-97.[19] 王峰，吴云东.无人机遥感平台技术研究与应用.遥感信息，2010(2)：114-118.[20] 李明慈.微型无人机摄影测量数据处理研究[D].北京：北京建筑大学，2015.[21]Herwitz S R,Johnson L F，Arvesen JC，Higgins R G,Leung JG,Dunagan S E. Precision agriculture a a commercial application for solar-poweredunmaederalvehicles//Asst，echnicalConferenceandWorkshoonUnmaedAerospaceVeicles.Portsmouth，ViginAIAA， 2002.[22]GonalvesJnqR,sous-lR,teiA,asBdoJEaatigerldaproachforessngaxtaddoiflelsucsoalouoAVee)132-146.[23]Puliti S，OrkaH，GobakkenTNsetEIventoryofsaforestareasusinganumaederialystmRemoteSensing，5，（8）:9632-9654.[24］李德仁.摄影测量与遥感学的发展展望.武汉大学学报信息科学版：2008，33（12）:1211-1215.[25]RemondinF，araeti，NexF，Saoi，arazziDUVpotgaetrformaingndDmdelinguentstatusdfuteperspectives//teatioaliofotrotesingdatialatie，Zurich 2011 Workshop. Zurich，Switzerland: ISPRS,2011.[26]RosnellHokavaraEointdgneaofroaraliagataacqedyquadrocoptertypicouadrlicddigital stillcamera. Sensors，2012,12(1) : 453-480.[27]Toes-cpGradosFqoea.Hgu-ngofalreplatatsitunmanned aerial vehicle（UAV） technology.PLoS One，2015，10(6）：e0130479.2]ZarcdVreVtftiooutaaerial vehicle(UAV）and automatic 3D photo-reconstruction methods.European Journal of Agronomy,2014,55:89-99.[29]BendigJ，YuK，AasenH，BoltenA，BenertzS，BroscheiJ，GnypML，BarethG.CombiningUAV-basedplantheightfromcropsurfacemodels，visiblendarifraedvegeatioindicfromassoitoringinbarleyeatioalJoualofliedEarthObeationdGeoinformation， 2015，39:79-87.[30]TillyasenHarethG.FsioofplanthigandvegeatioindicsforetimatioofrleyomassemoteSnsing，,79)11449-11480.[31］周瑞伍.云南植被主要类型分布区预测研究[D]．昆明：云南大学，2015.[32] 鲁恒，李永树，李何超，何敬，任志明.无人机影像数字处理及在地震灾区重建中的应用.西南交通大学学报，2010,45（4);533-538,573-573.[33] 赵自明，史兵，田喜平,赵松.LAS 格式解析及其数据的读取与显示.测绘技术装备,2010，12（3）:17-20.Lee S，WolbergG,SinS.ScateeddatainterpolationwitultilevelB-splEETansactiosonVisuaationdompueapcs，1997,3(3): 228-244.[35] 易柳城.无人机遥感影像与数字高程模型的三维可视化研究[D].长沙：中南大学，2013.[36] HuiquanBi,JuLinCFo,YnLancaiLeYogPagEvautofolieareqtisfoprdictigdaeerfrotreightadaJournal of Forest Research,2012,42(4）：789-806(18)[37] 彭品勋.航空像片真航高的通用求算方法.遥感信息，1991,（1):27-28.[38] 樊江川.无人机航空摄影测树技术研究[D].北京：北京林业大学，2014.[39] 王伟.无人机影像森林信息提取与模型研建[D].北京：北京林业大学，2015.

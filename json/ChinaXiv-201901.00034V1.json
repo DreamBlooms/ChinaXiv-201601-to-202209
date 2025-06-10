@@ -1,0 +1,544 @@
+[
+    {
+        "type": "text",
+        "text": "基于密度聚类算法的校园人群聚集和移动规律分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郭玉彬，吴宇航，周哲帆，李西明(华南农业大学 数学与信息学院，广州 510642)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对某高校无线网日志数据进行挖掘分析，获取校园人群聚集点分布和人群移动规律。首先利用分布式统计算法统计校园内各建筑物的无线网络连接人次；然后建立校园建筑物的中心点经纬坐标的R-树索引，并对 R-树叶子节点分组，以此将校园分成几个部分；再利用密度聚类算法对校园每一个部分中的建筑物中心点经纬坐标进行聚类得到校园区域划分；最后结合聚类结果和统计结果获取人群聚集区域和区域之间人群移动规律。研究结果可为学校校车路径规划、共享单车部署和校园功能区规划等工作提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：无线网络；日志数据；R-树；密度聚类；人群聚集和移动 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2018.09.0638 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of crowd aggregation and movement on campus based on density clustering algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guo Yubin, Wu Yuhang, Zhou Zhefan,Li Ximing† (College of Mathematics & Information,South China Agricultural University,Guangzhou 510642, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This paper analyzed the wirelessnetwork log data of a university to study the law of crowd aggegation and movementoncampus.Firstly,the numberof wireless network connections of each building was obtained by distributed statisticalalgorithmsoncampus.Then it establishedtheR-tree indexofbuildingcentrallatitude-longitudecoordinates,and grouped theR-tree leaf nodes to dividethecampus into parts.Next itclustered the building central latitude-longitude coordinates ofeach parttogetthecampus areadivisionbythe densityclustering algorithm.Finaly,this paper gotthelawof crowd aggegation area and movement between areas from clustering resultsand statistical results.Experimental results provide references for school bus routing,shared bicycle deployment and campus function area planning etc. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: wireless network; log data; R-tree; density clustering; crowd aggregation and movement ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着移动互联网技术的快速发展，我国多数高校已完成或正在进行无线网络全覆盖工作，与之相适应，校园网的无线上网日志数据呈爆炸式增长。笔者所在高校，宿舍与办公区已实现全覆盖，2018年上半年仅上网认证数据就达到252515722条(2.5多亿条)。这些日志数据主要包含用户移动设备的MAC地址、上下线时间、连接无线访问接入点(wireless access point，简称无线AP)的名称和离线原因等信息。通过对日志信息的分析，可以得到校园人群分布、人群移动等规律性信息，而这些信息可以为诸如校巴调度，共享单车部署与路线设计和校园功能区规划等工作提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人群聚集和移动规律分析是当前大数据背景下的研究热点。文献[1]提出了基于GPS轨迹的兴趣点和出行规划挖掘方法，利用用户个人位置历史数据结合出行经验，发现了研究区域的十大兴趣点和用户在各个兴趣点之间的出行规律；文献[2]通过获取大量的手机用户位置信息，分析用户六个月的轨迹数据得出人类移动时空规律性；文献[3]分析大量的私家车GPS轨迹数据，给出人们频繁的出行方式，并预测近期交通热点区域和某个区域拥堵可能性。除了利用轨迹数据，还有一些研究利用Wi-Fi网络日志数据分析人群体聚集或移动规律，文献[4]通过Wi-Fi网络日志建立了一个移动模型，利用设备上下线的时间，得到两点之间的移动速度，提取用户移动特性，并准确描述用户移动行为。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在人群聚集和移动规律研究中，聚类是一种有效的分析方法。文献[5]利用聚类技术，从空间和时间两个维度对用户轨迹数据进行两阶段聚类，以此构建用户兴趣区。文献[6]利用 DBSCAN(density based spatial clustering of applicationswithnoise)对人群聚集热点区域进行提取和分析，发现相同时间段之间热点区域存在较高的覆盖率，而不同时间段的热点区域存在较大的差异的规律。除了聚类算法外，学者们还有利用神经网络7和统计法[8等方法来发现人群移动规律等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对校园内人群聚集和移动规律也有一些学者进行了研究。文献[9]利用DBSCAN 算法对武汉大学学生轨迹数据进行聚类，提取聚集点，并分析学生各类活动时段分布。该论文对利用GPS数据研究学生行为工作具有参考意义，其不足之处在于轨迹数据来自志愿者，数据量较少且代表性不足。文献[10]利用加拿大蒙特利尔康戈迪亚大学的Wi-Fi网络日志数据进行分析和聚类，识别了网络用户在建筑物内活动类型，如上下课，办公，在公共区域使用网络，并且提出搜索算法，用于关联网络用户多天中同一类型的活动。此论文针对的人群移动范围较小，没有考虑建筑物之间人群移动问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "与轨迹数据相比，校园无线网络的日志数据量大且稳定，更能反映人群聚集与移动情况。本文对某高校无线网络的日志数据进行处理和分析，首先利用MapReduce计算模式的分布式统计算法统计每一栋建筑的中心经纬坐标'对应的无线网络连接设备数量，统计结果表示每一栋建筑物的所有无线AP的连接人次的总和。然后对研究区域所有建筑物中心经纬坐标建立R-树索引，并对R-树叶子节点分组，粗略地将校园划分不同部分，再利用密度聚类算法对校园每一部分中心经纬坐标进行聚类得到校园详细的区域划分。最后结合聚类结果和统计结果得到人群热点分布区域和区域之间人群移动规律。本论文利用R-树索引解决中心经纬坐标动态变化的问题，可长期、持续对校园网日志数据进行处理而不受校园网扩建和AP不稳定的影响，增加了实验的灵活性。另外，采用MapReduce计算模式实现核心算法，提高了大数据处理效率。图1是本文算法整体流程图。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对每一部分的中心经纬  \n输入中心经 建立R-树索引将校坐标聚类，得到校园区  \n纬坐标数据 园分成不同部分 域划分  \n输入无线网 统计每一个无线 匹配每一个区域的无线 输出最终的  \n络日志数据 AP的连接人次 AP的连接人次并求和 聚类结果",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1相关技术",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 R-树 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "R-树是一个层次化的、高度平衡的多层数据结构，是B-树在多维数据空间上的自然扩展[II]，R-树的每个节点对应一个最小外包框(minimumboundingrectangle,MBR)，该MBR是包围所有子节点的最小空间范围。图2是R-树的示例，其中(a)是数据项分布情况，图中实线框表示空间对象的MBR，其可为二维坐标，如经纬坐标，表示若干二维形状的最大范围。虚线框表示中间节点索引项对应的索引空间。图2(b)是其对应的R-树图。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f35419a3942bed8e1b4910054ce831a4f35e0ca529a240af57a364d813f18ec.jpg",
+        "img_caption": [
+            "图1算法整体流程图",
+            "Fig.1Algorithm overall flow chart ",
+            "图2R-树示例图",
+            "Fig.2Example of R-tree "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设 $m ( 2 < = m < = M / 2 )$ 为节点包含的索引项(数据项)的最小数目，R-树需要满足以下性质：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）除根节点之外，所有中间节点包含有 $\\mathbf { \\lambda } _ { m }$ $\\scriptstyle ( m = M / 2 )$ 至 $M$ 个记录索引。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）根节点至少有两叶子节点，除非它同时是叶子节点。  \nc）每一个叶子节点拥有 $m ( m { = } M / 2 )$ 至 $M$ 个数据项。  \nd）所有的节点都需要同样的存储空间。  \ne）所有叶子节点都位于同一层次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 DBSCAN算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DBSCAN算法是一种利用类的高密度连通性来快速发现任意形状类的密度聚类算法[I2]。DBSCAN算法的基本思想是对于一个类中的每个对象，在其给定半径的领域中包含的对象不能少于某一给定的最小数目。令样本集$D = \\{ x _ { 1 } , x _ { 2 } , . . . , x _ { m } \\}$ ，样本 $x _ { i } , x _ { j } \\in D$ 。取 $\\varepsilon > 0$ ， $\\operatorname* { m i n } P t s$ 为正整数，则有如下定义：a） $x _ { j }$ 的 $\\varepsilon$ -邻域，包含在 $D$ 中且与 $x _ { j }$ 的距离不大于 $\\varepsilon$ 的样本集合；b）核心对象，如果 $x _ { j }$ 的 $\\varepsilon$ -邻域至少包含 $\\operatorname* { m i n } P t s$ 个样本，则 $x _ { j }$ 为核心对象；c）边界点， $x _ { i }$ 本身不是核心点,但它包含在另外一个核心点 $x _ { j }$ 的 $\\boldsymbol { \\varepsilon }$ -邻域内,则称 $x _ { i }$ 为边界点；d）噪声点，数据集合中既不是核心点也不是边界点的其他点称为噪声点；e）密度直达，如果 $x _ { i }$ 位于 $x _ { j }$ 的 $\\varepsilon _ { - }$ 邻域中，且 $x _ { j }$ 是核心对象，则称 $x _ { i }$ 由 $x _ { j }$ 密度直达；f）密度可达，对于 $x _ { i }$ 和 $x _ { j }$ ，如果存在样本序列 $p _ { 1 } , p _ { 2 } , . . . , p _ { T }$ ,满足 $p _ { 1 } = x _ { i }$ ，$p _ { T } = x _ { j }$ ,且对任意 $k \\in [ 1 , . . . , T - 1 ]$ ， $p _ { k + 1 }$ 由 $p _ { k }$ 密度直达，则称 $\\boldsymbol { x } _ { j }$ 由$x _ { i }$ 密度可达；g）密度相连，对于 $x _ { i }$ 和 $\\vert x _ { j }$ ，如果存在核心对象样本 $x _ { k }$ ，使 $x _ { i }$ 和 $x _ { j }$ 均由 $x _ { k }$ 密度可达，则称 $x _ { i }$ 和 $\\boldsymbol { x } _ { j }$ 密度相连。基于以上定义，DBSCAN算法步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)从样本集D中取任意样本P，并标记P为已读。b)如果P是核心对象，找出P的 $\\varepsilon$ -邻域所有密度可达点。c)如果P是一个边界点，没有对象从P密度可达，P被暂时标注为噪声点。d)重复a）\\~d)，直到D中所有对象都被标记为已读。e)针对所有核心对象的 $\\boldsymbol { \\varepsilon }$ -邻域的直接密度可达点找到最大密度相连对象集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重复e）直到所有核心对象的 $\\boldsymbol { \\varepsilon }$ -邻域遍历完毕。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DBSCAN算法优点是具有较强的抗噪声干扰和发现任意形状类等优点[13]。其缺点是需要找出所有的密度核心对象，同时参数 $\\varepsilon$ 和 $\\operatorname* { m i n } P t s$ 需要人为确定，存在一定的人为误差。参数 $\\varepsilon$ 和 $\\operatorname* { m i n } P t s$ 影响聚类质量，如果 $\\varepsilon$ 取值过大，会导致大多数点都聚到同一个类中， $\\varepsilon$ 取值过小，会导致一个类的分裂；如果 $\\operatorname* { m i n } P t s$ 取值过大，会导致在同一个类中点被标记为非核心对象， $\\operatorname* { m i n } P t s$ 取值过小，会导致发现大量的核心对象。针对DBSCAN 算法的不足，国内外学者提出了许多改进算法，例如M-FDBSCAN[14]算法、HDBSCAN[15]算法等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2实验准备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1源数据说明",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文实验数据来自某高校无线网络设备日志，抽取了2017年3月份无线网络认证数据作为源数据，一共有39478898条数据。表1给出无线网络日志结构说明。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/da8c86fb29f3d3ac60e69dcc4ac94966672aa39ed6103b002b1dfb6f3c31717a.jpg",
+        "table_caption": [
+            "表1无线网络日志描述",
+            "Table 1 Wireless network log description "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>类型</td><td>长度</td><td>说明</td></tr><tr><td>SEQ</td><td>INT</td><td>100</td><td>唯一标志符</td></tr><tr><td>DATE</td><td>DATE</td><td>100</td><td>日志产生日期</td></tr><tr><td>TIME</td><td>TIME</td><td>100</td><td>日志产生时间</td></tr><tr><td>MESSAGE</td><td>VARCHAR</td><td>1000</td><td>日志内容</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1中，SEQ字段是日志数据的唯一标志符，DATE表示本条日志产生的日期，TIME是具体产生的时间，精确到微秒。MESSAGE字段是当前日志的日志内容，里面包含了移动设备的MAC地址、当前连接无线AP名字、设备连接状态信息等。设备连接状态有上线、下线和漫游3种。同时，本文还对所有的无线AP信息进行汇总，如表2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表2中，AP_NAME字段表示无线AP的名称，AP_MAC表示当前无线AP的MAC地址，也是无线AP的唯一标志，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CEN_GPS表示建筑物中心点的经纬坐标，BUILDING表示无线AP所在的建筑物名称。在此表中，由于同一栋建筑物中无线AP距离相距比较近且每一栋建筑物无线AP数量比较多，因此取建筑物中心点的经纬坐标代表建筑物中所有无线AP的实际的经纬坐标，使建筑物的无线AP表示更加简化同时建筑物的位置被标记。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/011db1abd56cff9ada15d16b53afab0bb0899875191b47d7cc46ab5017a19d29.jpg",
+        "table_caption": [
+            "Table 2 Wireless access point table "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>类型</td><td>说明</td></tr><tr><td>AP_NAME</td><td>VARCHAR</td><td>无线AP名称</td></tr><tr><td>AP_MAC</td><td>VARCHAR</td><td>无线AP的MAC地址</td></tr><tr><td>CEN_GPS</td><td>VARCHAR</td><td>建筑物中心点的经纬坐标</td></tr><tr><td>BUILDING</td><td>VARCHAR</td><td>无线AP所在建筑物名称</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据预处理主要是选择研究时段的日志数据，并依据日志数据中MESSAGE字段出错标签去掉出错数据，然后从日志数据中获取并保存每一个设备位置变化信息。出错数据包括认证出错数据和无线AP设备出错数据等。位置变化信息例子如表3所示，每一条数据记录某一设备在某一个时刻的位置。具体过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)将无线网络日志信息数据表和无线AP信息表保存到HDFS中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)使用正则表达式抽取无线网络日志的MASSAGE字段中的移动设备的MAC地址、移动设备连接无线AP所在的建筑物名称，并分别用MAC和BUILDING表示，根据建筑物名称和无线AP表匹配建筑物中心经纬坐标，用CEN_GPS表示。添加当前日志的DATE、TIME字段，并将以上所有信息保存到临时表。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)将无线AP表和临时表以CEN_GPS字段进行两表相连后对MAC和DATA以及TIME字段进行排序。只保留MAC和DATA以及CEN_GPS字段都连续相同记录的第一条，得",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "到预处理结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3给出预处理后关于移动设备0000.00d1.ab46的2017年3月31日移动记录，表示此设备在当天07:56:44时刻在外语学院连接无线AP，在08:18:40时刻在生命科学学院连接无线AP，在14:34:04时刻在林学院连接无线AP。由于一天中MAC和DATE以及CEN_GPS字段都连续相同的记录只保留其中一条，因此表3实际是保存设备一天中CEN_GPS变化的信息，对应用户一天中的位置变化情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3移动设备认证位置变化例子",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4223195a9ff2fac6e011d9d6ff78e5acd4e08b0db57e20e35325cdb6ab7cc540.jpg",
+        "table_caption": [
+            "表2无线AP表",
+            "Table 3Example of authentication location changes for mobile device "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>MAC</td><td>DATE</td><td>TIME</td><td>CEN_GPS</td><td>BUILDING</td></tr><tr><td>0000.00d1.ab46</td><td>2017.3.31</td><td>07:56:44</td><td>113.371997,23.16637</td><td>外国语学院</td></tr><tr><td>0000.00d1.ab46</td><td>2017.3.31</td><td>08:18:40</td><td>113.366686,23.164849</td><td>生命科学学院</td></tr><tr><td>0000.00d1.ab46</td><td>2017.3.31</td><td>14:34:04</td><td>113.367682,23.165515</td><td>林学院</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3实验及结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文实验使用Hadoop集群进行数据处理，集群包含master 主机1台，slaver 机3台，节点配置为CPUi7-8700K,内存8GB。平台使用Centos7.0 操作系统，Hadoop2.7。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文实验分为人次统计和密度聚类两个过程。在统计阶段，由表2可知，预处理后的数据同一栋建筑物所有无线AP的经纬坐标对应当前建筑物中心点的经纬坐标，即中心经纬坐标，那么计算每一个中心经纬坐标对应连接人次即为该建筑物中所有无线AP的连接人次总和。在聚类阶段首先对无线AP表中的中心经纬坐标建立R-树索引，并根据学校的功能区划分将R-树叶子节点进行分组和将组间重复数据归类到距离最近的组中避免聚类结果数据重复。最后对每一组的叶子节点进行密度聚类，利用聚类结果中每一个类的中心经纬坐标和统计结果的中心经纬坐标连接人次相匹配得到每一个类的连接人次，实验流程如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人次统计 密度聚类 各类连接人次匹配Map阶段 建立R-树 MapA阶段遍历所有数据项，并以中心 建立有关校园所有中心经纬 输出聚类结果的各个类数据经纬坐标作为key，value=1 坐标的R-树索引，并对R-树 MapB阶段输出 的叶子节点进行分组 输出每一个中心经纬坐标的连接人次Reduce阶段 DBSCAN聚类 Reduce阶段出人次，个 对每，组存子点进行 的中心经",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1人次统计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人次统计是统计预处理数据（表3）的每一个中心经纬坐标对应的网络连接设备数量。由于该校的校园无线网络账户不能同时在两台设备及以上登录，且每一个中心经纬坐标代表一栋建筑物，那么统计建筑物中所有无线AP在对应时间内的网络连接设备数总和，实际是统计建筑物中所有无线AP在对应时间内的网络连接人次总和。人次统计过程见算法1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1按时间段选择的预处理数据  \n输入：预处理后的日志文件  \n输出：各个中心经纬坐标的连接人次总和  \n//map阶段遍历所有数据项  \nmap(LongWritable key, Text value, Context context):",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "//按照制表符对数据切割 string[]data $\\ c =$ val.toString(.split( $\" \\mathrm { \\backslash t \" } )$ stringCEN_GPS $\\ c =$ data[3]; /以中心经纬坐标作为key 输出 context.write (new Text(CEN_GPS),1); //reduce阶段实际统计每一栋建筑物连接人次 reduce(Text key,Iterable<Text> values,Context context)://Reduce 阶段 int num $_ { 1 = 0 }$ /遍历迭代器; for each val in values num $^ { + + }$ ；//统计数量 end for ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "context.write (null, $\\mathrm { k e y + \" ~ \\ \" ~ \\ \" + n u m } \\rangle$ ；//输出结果 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在算法1中，Map 阶段逐行遍历预处理数据，并以<key,value>形式存储，按照制表符对value进行切割保存在data数组中，并取出中心经纬坐标传给reduce阶段。在reduce 阶段累加每一个key对应迭代器的值既是各个中心经纬坐标的连接人次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2密度聚类 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "密度聚类过程分成两个步骤：a）对校园内所有的中心经纬坐标建立R-树索引，并根据学校的功能区划分将R-树叶子节点进行分组和将组间重复数据归类到距离最近的组中；b)对每一组的数据进行密度聚类，利用聚类结果中每一个类的中心经纬坐标和统计结果的中心经纬坐标连接人次相匹配得到每一个类的中心经纬坐标的连接人次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于学校无线网络存在不定时扩建和网络不稳定状态，从而影响到中心经纬坐标数量，为了适应中心经纬坐标动态变化和让聚类结果更加准确，本文对中心经纬坐标建立R树索引，通过R-树的增加或减少叶子节点的方法来增加或者减少中心经纬坐标。建立R-树索引后，为了能按照学校功能区划分将同一个功能区的中心经纬坐标汇集一起，即需对 R-树叶子节点进行分组。假如将R-树叶子节点分成n组，那么从R-树某一层有n个父节点开始分别抽取每一个父节点对应的所有叶子节点作为一个组，并将组间重复数据归类到距离最近的组中。利用DBSCAN聚类对每一组数据进行聚类，详细地将校园划分不同的小区域，最后根据聚类结果和统计结果计算出每一个类的每一个中心经纬坐标对应连接人次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文建立R-树索引及分组的过程如下：a)从无线AP表中获取所有中心经纬坐标。b)对中心经纬坐标建立R-树索引。c)将R-树的叶子节点分成n组。d)如叶子节点同时归属两个组及两组以上，将改节点归  \n类到其距离最近的组。基于R-树的密度聚类算法，见算法2，作用是先建立中  \n心经纬坐标的R-树索引，并将R-树叶子节点进行分组，然后  \n用 DBSCAN 聚类算法对每一组叶子节点进行密度聚类。算法2基于R-树的密度聚类输入：中心经纬坐标集dataTable。输出:DBSCAN 聚类结果。//Node 类是一种构造R-树的数据结构class Node{final double[] coords;//当前节点值final boolean leaf;//是否为叶子节点final LinkedList<Node>children;//子节点Node parent://父节点1Node R_tree;List<String>cluster，clustersList $\\ c =$ null;List<List<String>>clusters，dbClusters $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ null;//建立R-树RTreeRTree $\\begin{array} { r l } { \\mathbf { \\Psi } } & { { } = \\mathbf { \\Psi } } \\end{array}$ newRTree();DBSCAN DBSCAN=neW DBSCAN(;for each data in dataTable//添加数据构建R-树R_tree $\\ c =$ RTree.insert(data);end for//将R-树索引中叶子节点分成n个组int $\\scriptstyle \\mathrm { n = 7 }$ ；//组个数，暂取值为7//clusters存储每一组中心经纬坐标  \nclusters $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ RTree.createClusterList(n);  \nforeachcluster inclusters  \n//对每一组中心经纬坐标做DBSCAN算法clustersList $\\ c =$ DBSCAN.execute(cluster);  \ndbClusters.add(clustersList)://保存聚类结果end for  \nreturn dbClusters;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在算法2中，Node类是一种构造R-树的数据结构，其包含了当前节点值，子节点和父节点等属性。RTree类中insert(方法代表将输入的数据进行构造R-树数据结构并保存在一个全局变量中，createClusterList()方法代表将R-树的所有叶子节点分成n组，并返回每一组的数据。DBSCAN类中execute()方法是对每一组R-树的叶子节点进行聚类，返回聚类结果。算法2步骤如下：首先调用RTree.insert(方法建立关于中心经纬坐标的R-树，然后调用RTreecreateClusterList(方法时将R-树叶子节点分成n组，如叶子节点同时归属两个组及以上，不包含该叶子节点计算其所在所有组的中心，并将其归类到距离最近的中心所对应的组中。最后调用DBSCAN.execute(方法对每一组中心经纬坐标做DBSCAN聚类，返回并保存聚类结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对每一组数据进行聚类之后，最后需要计算每一个类的总连接人次，此过程见算法3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法3类的连接人次匹配输入：算法1统计结果，算法2聚类结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输出：类的连接人次匹配。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MapA(LongWritable key, Text value,Context context)://MapA 阶段,   \n输出聚类结果 String[]strA $\\ c =$ val.toString(.split(\"\\t\") String AP $\\ c =$ strA[0]://存储无线AP /存储无线AP对应的类 String clusterNum= strA [1]; context.write(new Text(AP),new Text(clusterNum)); MapB(LongWritable key,Text value,Context context):// MapB 阶段,   \n输出连接人次统计结果 String[] strB $\\ c =$ value.toString(.split(\"\\t\"); String AP $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ strB[0];//存储无线 AP context.write(new Text(AP),value); Reduce(Text key, Iterable<Text> values,Context context)://Reduce 阶   \n段 for each val in values String clusterNum://类标记 Text statisticData=new Text(); /判断是否为聚类结果数据 If val.indexof(\"\\t\")!=-1 statisticData=val; Ⅱ保存统计结果 else clusterNum=val; /标记所属类 end if end for context.write(null, new Text(statisticData $+ \" \\mathrm { \\ \" { } } ^ { \\mathrm { \\prime \\prime } } +$ clusterNum)); //输出结果 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在算法3中，MapA和MapB阶段分别遍历DBSCAN聚类结果和中心经纬坐标的连接人次统计结果，并将其输出给Reduce阶段。在Reduce阶段，首先根据对象判断数据是来自DBSCAN聚类结果还是统计结果，即如果对象包含一个制表符，则用statisticData保存统计结果，否则用clusterNum保存DBSCAN聚类结果，statisticData和clusterNum出现在同一个Reduce对象中，说明它们的中心经纬坐标是相同的，所以连接字段已经匹配成功。最后设置Reduce 阶段的 key为 null，value 为 statisticData +\"\" $^ +$ clusterNum，即可输出每一个中心经纬坐标和其对应的类的连接人次结果。求和即可得到对应类的总连接人次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3实验结果及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文源数据总有39478898条，预处理后有13290271条，学校的无线AP总数为10,255个，提取得到的中心经纬坐有125个。先对中心经纬坐标建立R-树索引，由于学校功能区分成7大块，根据学校的功能区划分将R-树叶子节点分成7组，用ABCDEFG表示。对于DBSCAN密度聚类算法，本文 $\\varepsilon$ 和 $\\operatorname* { m i n } P t s$ 值参考了文献[16]的思路，分别取863.92和3。密度聚类将研究区域划分为10个类，将每组和每一组分类的分布情况映射到地图上，与实际情况相符合，如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4给出聚类结果以及不同时间段内每一个类和统计结果相匹配得到连接人次匹配结果。可以看出A、B、F、G和H组聚类后分别得到一个类，记作A1、B1、F1、G1和H1。C、D、E三组组聚类后都得到两个类，分别标记为C1、C2;D1、D2；E1、E2。统计时间段连接人次分一个月总人次、日均人次、日均不同时间段内人次（上午、中午、下午、晚上和凌晨人次)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/06facb1be67acba0e1bf3470faf13a975107098aeb200824c93a65e013d6c340.jpg",
+        "img_caption": [
+            "图4分组结果和聚类结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c681ddd5ca3ef7b73d05df23f7f1c62ca30d13525e0701cc9fba3e69e27b169e.jpg",
+        "table_caption": [
+            "Table 4Matching of clustering results and statistical results in diferent time periods/person tim "
+        ],
+        "table_footnote": [
+            "表4不同时间段内聚类结果及统计结果的人次匹配/人次"
+        ],
+        "table_body": "<html><body><table><tr><td>R-树分组</td><td>聚类结果</td><td>一个月</td><td>日均</td><td></td><td>上午(6:00-12:00）中午(12:00-14:00)</td><td>下午(14:00-18:00)晚上(18:00-24:00)</td><td></td><td>凌晨(00:00-6:00)</td></tr><tr><td rowspan=\"2\">A</td><td>A1</td><td>120431</td><td>4014</td><td>1424</td><td>453</td><td>997</td><td>1129</td><td>12</td></tr><tr><td>A2</td><td>96859</td><td>3229</td><td>903</td><td>371</td><td>479</td><td>1016</td><td>459</td></tr><tr><td>B</td><td>B1</td><td>183904</td><td>6130</td><td>1779</td><td>687</td><td>912</td><td>1676</td><td>1076</td></tr><tr><td>C</td><td>C1</td><td>328661</td><td>10955</td><td>3498</td><td>1442</td><td>2311</td><td>2976</td><td>729</td></tr><tr><td rowspan=\"2\"></td><td>C2</td><td>66509</td><td>2217</td><td>623</td><td>242</td><td>303</td><td>631</td><td>419</td></tr><tr><td>D1</td><td>209216</td><td>6974</td><td>1802</td><td>641</td><td>925</td><td>1839</td><td>1768</td></tr><tr><td>D</td><td>D2</td><td>60519</td><td>2017</td><td>737</td><td>220</td><td>492</td><td>506</td><td>63</td></tr><tr><td>E</td><td>E1</td><td>283043</td><td>9435</td><td>3341</td><td>1071</td><td>2619</td><td>2203</td><td>202</td></tr><tr><td>F</td><td>F1</td><td>94609</td><td>3154</td><td>999</td><td>365</td><td>667</td><td>853</td><td>270</td></tr><tr><td>G</td><td>G1</td><td>260234</td><td>8674</td><td>2596</td><td>850</td><td>1763</td><td>2484</td><td>981</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出日均人次分布中，C1、E1、G1、D1和B1区日均人次较多，说明这5个区人群分布比较密集，属于人群聚集区。上午日均人次C1、E1、G1和D1比较多，由此可知上午这4个区上午是人群聚集区；同样，中午人群聚集区是C1、E1、G1和D1；下午人群密集地是E1、C1和G1；晚上人群聚集区是C1、G1、E1、D1和B1；凌晨人群聚集区是D1、B1和G1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了研究每一区域的人群移动情况，本文对每一个区的人群移动次数进行统计，统计结果如表5所示，人群移动次数比较频繁的区域拓扑图如图5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表5和图5可以看出，E1区、A1区、B1区、C1区、D1区和G1区人群移动比较频繁，可以看出E1区在此校是人群移动最频繁区域。E1区人群移动人次也是最多的，其中流入人次是997次，流出人次是1047次；C1区人群移动人次仅次于E1区，其中流入人次926次，流出人次是1032次，其他相对人群移动人次较多的区还有D1、G1和A1区。在不同区域间的人群移动，E1和C1之间人群移动基数最大，除此之外，A1和A2、C1和D1、B1和G1的区域间的人群移动基数较大。对于区域内人群移动差距比较大的区域有D1区，相差132次和C1区，相差106次。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcdca03527a6471797bd0d0f47f353523cfcb8177508ec18e1fd50bfce42c811.jpg",
+        "img_caption": [
+            "Fig.4Result of grouping and clustering ",
+            "图5人群移动频繁区域拓扑图",
+            "Fig.5Area topology for crowd frequent movement "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/729399dfcf0319c0cfa0f30f160afa2e255e89e73c486741138d3415fae99e65.jpg",
+        "table_caption": [
+            "Table5 Cross areas mobility population statistics/person time ",
+            "表6上午跨区人群移动情况/人次"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>A1</td><td>A2</td><td>B1</td><td>C1</td><td>C2</td><td>D1</td><td>D2</td><td>E1</td><td>F1</td><td>G1</td><td>总和</td></tr><tr><td>A1</td><td>0</td><td>215</td><td>19</td><td>55</td><td>3</td><td>15</td><td>21</td><td>107</td><td>18</td><td>59</td><td>512</td></tr><tr><td>A2</td><td>228</td><td>0</td><td>4</td><td>18</td><td>1</td><td>10</td><td>15</td><td>38</td><td>7</td><td>21</td><td>342</td></tr><tr><td>B1</td><td>14</td><td>3</td><td>0</td><td>56</td><td>1</td><td>7</td><td>7</td><td>106</td><td>4</td><td>170</td><td>368</td></tr><tr><td>C1</td><td>67</td><td>17</td><td>66</td><td>0</td><td>83</td><td>237</td><td>31</td><td>349</td><td>96</td><td>86</td><td>1032</td></tr><tr><td>C2</td><td>3</td><td>1</td><td>1</td><td>65</td><td>0</td><td>3</td><td>1</td><td>46</td><td>29</td><td>3</td><td>152</td></tr><tr><td>D1</td><td>14</td><td>7</td><td>9</td><td>171</td><td>2</td><td>0</td><td>80</td><td>107</td><td>34</td><td>44</td><td>468</td></tr><tr><td>D2</td><td>20</td><td>12</td><td>8</td><td>28</td><td>0</td><td>111</td><td>0</td><td>31</td><td>6</td><td>74</td><td>290</td></tr><tr><td>E1</td><td>132</td><td>34</td><td>114</td><td>358</td><td>48</td><td>129</td><td>35</td><td>0</td><td>75</td><td>149</td><td>1074</td></tr><tr><td>F1</td><td>19</td><td>5</td><td>5</td><td>97</td><td>26</td><td>48</td><td>6</td><td>73</td><td>0</td><td>12</td><td>291</td></tr><tr><td>G1</td><td>65</td><td>21</td><td>231</td><td>78</td><td>3</td><td>47</td><td>73</td><td>140</td><td>14</td><td>0</td><td>672</td></tr><tr><td>总和</td><td>562</td><td>315</td><td>457</td><td>926</td><td>167</td><td>607</td><td>269</td><td>997</td><td>283</td><td>618</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9648861b3e2c22843fb20c992820a5ad28d85389e013f108115dff5b163ff4d4.jpg",
+        "table_caption": [
+            "表5跨区人群移动统计/人次"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>A1</td><td>A2</td><td>B1</td><td>C1</td><td>C2</td><td>D1</td><td>D2</td><td>E1</td><td>F1</td><td>G1</td><td>总和</td></tr><tr><td>A1</td><td>0</td><td>135</td><td>14</td><td>26</td><td>1</td><td>7</td><td>10</td><td>46</td><td>10</td><td>26</td><td>275</td></tr><tr><td>A2</td><td>77</td><td>0</td><td>2</td><td>5</td><td>0</td><td>3</td><td>7</td><td>12</td><td>3</td><td>6</td><td>115</td></tr><tr><td>B1</td><td>8</td><td>1</td><td>0</td><td>28</td><td>0</td><td>5</td><td>2</td><td>51</td><td>2</td><td>78</td><td>175</td></tr><tr><td>C1</td><td>39</td><td>12</td><td>51</td><td>0</td><td>59</td><td>146</td><td>21</td><td>191</td><td>78</td><td>60</td><td>657</td></tr><tr><td>C2</td><td>2</td><td>1</td><td>1</td><td>42</td><td>0</td><td>3</td><td>0</td><td>18</td><td>19</td><td>1</td><td>87</td></tr><tr><td>D1</td><td>9</td><td>7</td><td>5</td><td>91</td><td>1</td><td>0</td><td>48</td><td>58</td><td>18</td><td>37</td><td>274</td></tr><tr><td>D2</td><td>9</td><td>11</td><td>3</td><td>18</td><td>0</td><td>72</td><td>0</td><td>19</td><td>3</td><td>38</td><td>173</td></tr><tr><td>E1</td><td>69</td><td>27</td><td>86</td><td>229</td><td>33</td><td>83</td><td>23</td><td>0</td><td>54</td><td>103</td><td>707</td></tr><tr><td>F1</td><td>12</td><td>3</td><td>4</td><td>68</td><td>16</td><td>25</td><td>3</td><td>41</td><td>0</td><td>8</td><td>180</td></tr><tr><td>G1</td><td>28</td><td>11</td><td>129</td><td>40</td><td>2</td><td>29</td><td>28</td><td>71</td><td>6</td><td>0</td><td>344</td></tr><tr><td>总和</td><td>253</td><td>208</td><td>295</td><td>547</td><td>112</td><td>373</td><td>142</td><td>507</td><td>193</td><td>357</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了研究上下午该校各区的人群移动情况，本文也统计了该校上下午人群移动人次，如表6和7所示，其中表6表示上午跨区人群的移动情况，表7表示下午跨区人群的移动情况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表6可以看出，C1区的上午人群移动人次最多，流入人次是926次，流出时657次，结合表4可以计算出该区域内部移动人次，即上午日均人群移动次数减去该区域上午人群流入次数再减去区域上午人群流出次数，那么C1区的区域内部人群移动次数为2294，占比是 $6 5 . 5 8 \\%$ 。同样，E1区上午人群移动人次仅次于C1区，流入人次为507，流出人次为707次，区域内部人群移动次数为2127次，占比 $6 3 . 6 6 \\%$ 。除了C1区与E1区之外，还有D1和G1区上午人群移动次数比较大。从表6中也看出上午人群流入流出的次数相差比较大的区域有E1，相差200人次，其次是B1和C1区，相差分别是120次和110次。从表7可以看出，C1区和E1区依然是下午人群移动人次最多的两个区域，结合表4，也可以计算出两个区域人群移动次数分别是1387次和1638次，占比分别是 $6 0 . 0 1 \\%$ 和 $6 2 . 5 4 \\%$ 。除了这两个区域，还有A1和G1区下午人群移动次数比较大。从表7中可以看出各区下午群流入流出的次数相差不大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从以上分析中，可以看出该校的C1区、E1区、D1区和B1区日均网络连接人次较多，其中C1和B1区是宿舍区，E1 是学校的中心区，区内有图书馆、行政楼和教学楼等，D1区是宿舍区和教学楼的组合。由此反映出学校的人群分布主要是宿舍区和中心区，与实际情况相符，在人群聚集区可以增加娱乐设施、商铺，扩大消防通道和增强安保力度等。对于人群移动情况，可以从分析中获知E1区、A1区、B1区、C1区和D区人群移动比较频繁，其中上午人群移动比较频繁区域有C1区、E1区和D1区，下午人群移动比较频繁区域有C1区、E1区和A1区。可以根据实际情况在人群移动次数多的地方增加交通安全提醒，可以在人群移动频繁地方多投放共享单车或者修建或者增加共享单车停放点。对于该校的人流的方向性，可以按照 $\\mathrm { A 1 } { < } \\mathrm { = } \\mathrm { > } \\mathrm { A } 2 { < } \\mathrm { = } \\mathrm { > } \\mathrm { E } 1 { < } \\mathrm { = } \\mathrm { > } \\mathrm { D } 1$ ，$\\mathrm { G 1 } < = > \\mathrm { B 1 } < = > \\mathrm { E } 1 < = > \\mathrm { C 1 }$ 的区域道路连通情况设计校巴路线或者共享单车车道，对于上下午人群流量次数较多的区域可以考虑增加校巴趟次或者调整校巴调度次数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bcb03be51010ae1c3a5242ae6ef63617cb632ba4ab7bdc78f0802040150f0450.jpg",
+        "table_caption": [
+            "Table 6Cross areas mobility population in the morning /person time ",
+            "表7下午跨区人群移动情况 /人次Table7 Cross areas mobility"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">population in afternoon</td><td colspan=\"3\">/person time</td></tr><tr><td></td><td>A1</td><td>A2</td><td>B1</td><td>C1</td><td>C2</td><td>D1</td><td>D2</td><td>E1</td><td>F1</td><td>G1</td><td>总和</td></tr><tr><td>A1</td><td>0</td><td>77</td><td>11</td><td>26</td><td>1</td><td>8</td><td>8</td><td>43</td><td>7</td><td>33</td><td>214</td></tr><tr><td>A2</td><td>76</td><td>0</td><td>2</td><td>8</td><td>0</td><td>4</td><td>4</td><td>12</td><td>2</td><td>10</td><td>118</td></tr><tr><td>B1</td><td>9</td><td>2</td><td>0</td><td>29</td><td>0</td><td>4</td><td>3</td><td>48</td><td>2</td><td>85</td><td>182</td></tr><tr><td>C1</td><td>30</td><td>8</td><td>30</td><td>0</td><td>30</td><td>74</td><td>18</td><td>171</td><td>62</td><td>47</td><td>470</td></tr><tr><td>C2</td><td>1</td><td>0</td><td>1</td><td>37</td><td>0</td><td>1</td><td>0</td><td>19</td><td>15</td><td>1</td><td>75</td></tr><tr><td>D1</td><td>8</td><td>3</td><td>4</td><td>64</td><td>1</td><td>0</td><td>33</td><td>46</td><td>14</td><td>23</td><td>196</td></tr><tr><td>D2</td><td>9</td><td>5</td><td>2</td><td>14</td><td>0</td><td>36</td><td>0</td><td>15</td><td>2</td><td>23</td><td>106</td></tr><tr><td>E1</td><td>51</td><td>16</td><td>54</td><td>178</td><td>17</td><td>46</td><td>16</td><td>0</td><td>45</td><td>82</td><td>505</td></tr><tr><td>F1</td><td>8</td><td>2</td><td>2</td><td>55</td><td>11</td><td>12</td><td>3</td><td>41</td><td>0</td><td>6</td><td>140</td></tr><tr><td>G1</td><td>33</td><td>10</td><td>89</td><td>43</td><td>1</td><td>23</td><td>23</td><td>81</td><td>6</td><td>0</td><td>309</td></tr><tr><td>总和</td><td>225</td><td>123</td><td>195</td><td>454</td><td>61</td><td>208</td><td>108</td><td>476</td><td>155</td><td>310</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文通过对某高校无线网络的日志数据进行统计和聚类分析，得到该校的区域划分情况和人群聚集和人群移动情况，为非商业化或者商业化活动策划作参考。本文首先去除一些与实验无关数据，并从日志文件提取设备位置变化信息；然后利用设备位置变化信息统计每一栋建筑物中心经纬坐标对应的连接人次。再建立校园内所有中心经纬坐标的R-树索引，并对R-树叶子节点分组后采用密度聚类算法对每一组数据聚类得到校园区域划分情况。最后结合聚类结果和统计结果，得到每一个类的中心经纬坐标的连接人次，并对结果进一步求出类之间的人群移动人次。通过对结果分析，所得结论对校车路径规划、共享单车部署、校园功能区规划等提供参考。另外，利用R树可提高数据处理效率，并且在R-树的中可以动态添加或者减少无线AP从而增加了实验的灵活性。本文下一步的工作是跟踪人员移动情况，结合成绩数据和上网流量分析学生的在校行为。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Zheng Y, ZhangL,Xie X,et al.Mining interesting locations and travel sequences from GPS trajectories [C]// Proc of the 18th International Conference on World Wide Web．New York:ACM Press，2009: 791-800.   \n[2]Gonzalez M C,Hidalgo CA,Barabasi A.Understanding individual human mobility patterns [J].Nature,2008,453(7196): 779-782.   \n[3]Giannotti F,Nanni M,Pedreschi D,et al. Unveiling the complexity of human mobility by querying and mining massive trajectory data [J]. VLDB Journal,2011,20(5): 695.   \n[4]Kim M,Kotz D,Kim S.Extracting a mobility model from real user traces [C]// Proc of IEEE International Conference on Computer Communications.Piscataway,NJ:IEEE Press,2Oo6:1-13.   \n[5]冀亚丽，桂小林，戴慧珺，等．支持轨迹隐私保护的两阶段用户兴趣 区构建方法 [J].计算机学报，2017,40(12):2734-2747.(Ji Yali,Gui Xiaolin,Dai Huijun,et al. Constructing user's interest regions with two steps for trajectory privacy protection [J].Chinese Journal of Computers,2017,40(12):2734-2747.)   \n[6]张文星.人群聚集热点区域分析与预测[D].银川：宁夏大学，2017. (Zhang Wenxing.Analyze and Predict the hot spot regions [D] Yinchuan: Ningxia University,2017.)   \n[7]Liao L,Patterson D J,Fox D,et al. Building personal maps from GPS data[J].Annals of the New York Academy of Sciences,2006,1093(1): 249.   \n[8]齐佳倩．基于视频监控数据的人群行为分析和异常轨迹检测 [D]. 北京：北京交通大学,2018.(Qi Jiaqian.Crowd behaviors analysis and and abnormal trajectory detection detection based on surveillance data [D].Beijing: Beijing Jiaotong University,2018.)   \n[9]杜胜兰，李枫，黄长青，等．基于轨迹数据的武汉大学学生行为规律 分析[J].测绘地理信息,2017,42(1):91-95.(Du Shenglan,Li Feng, Huang Changqing,et al. Trajectory-based activity pattern analysis of Wuhan University's students [J].Journal of Geomatics,2017,42(1): 91-95.)   \n[10] Poucin G,Farooq B,Patterson Z.Activity patterns mining in Wi-Fi access point logs[J].Computers Environment & Urban Systems,2018, 67: 55-67.   \n[11] Guttman A.R-trees:a dynamic index structure for spatial searching [C]//Proc of ACM SIGMOD International Conference on Management ofData.New York:ACM,1984:47-57.   \n[12]张文元，谈国新，朱相舟．停留点空间聚类在景区热点分析中的应 用[J].计算机工程与应用，2018，54(4):263-270.(ZhangWenyuan, Tan Guoxin，Zhu Xiangzhou．Application of stay points spatial clustering in hot scenic spots analysis [J].Computer Engineering & Applications,2018,54(4): 263-270.)   \n[13]刘淑芬，孟冬雪，王晓燕．基于网格单元的DBSCAN算法[J]．吉林 大学学报:工学版，2014，44(4):1135-1139.(Liu Shufen，Meng Dongxue,Wang Xiaoyan.DBSCAN algorithm based on grid cell [J]. Journal of Jilin University:Engineering and Technology Edition,2014, 44(4):1135-1139.)   \n[14]Erdem A,Gindem T I.M-FDBSCAN:a multicore density-based uncertain data clustering algorithm [J].Turkish Journal of Electrical Engineering& Computer Sciences,2014,22(1):143-154.   \n[15]MelvinRL,Xiao J,GodwinRC,et al.Visualizing correlated motion with HDBSCAN clustering [J].Protein Science,2018,27(1): 62-75.   \n[16]赖丽萍，聂瑞华，汪疆平，等.基于MapReduce的改进DBSCAN算法 [J]．计算机科学，2015,42(S2):396-399.(Lai Liping，Nie Ruihua, WangJiangping，et al.Improved DBSCAN algorithm based on MapReduce [J].Computer Science,2015,42 (S2): 396-399.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

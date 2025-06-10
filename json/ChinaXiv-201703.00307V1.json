@@ -1,0 +1,1633 @@
+[
+    {
+        "type": "text",
+        "text": "Estimating the sea state bias of Jason-2 altimeter from crossover differences by using a three-dimensional nonparametric model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Maofei Jiang, Ke Xu, Yalong Liu and Lei Wang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract—Witha standarddeviationaslarge as $2 \\ \\mathrm { c m }$ ,thesea state bias (SSB)has become the dominant source of error in satellite altimetry.The operational SSB correction models are two-dimensional (2-D) empirical (parametric or nonparametric) models based on the altimeter-measured wind speed(U）and significant wave height (SWH).However,these 2-D SSB models cannot entirelyparameterize the range bias variability.The SSB uncertainty may be lowered through improved SSB models including additional measurable orpredictable correlatives.This paper presents a method to estimate the SSB from crossover differences by using a three-dimensional (3-D） nonparametric model.The model is based onU,SWH from Jason-2 altimeter oceanobservations,and the meanwave period (MWP) from the European Centre for Medium-Range Weather Forecasts (ECMWF）reanalysis project ERA-Interim(The SSB model developed with the method presented in this paper is called‘3-D SSB model’and the SSB estimated with the 3-D SSB model is called ‘3-D SSB estimate').Simulations indicate that the wave period can greatly affect the SSB.Evaluated by the separate annual data sets from 2009 to 2011, the 3-D SSB estimates can increase the explained variance by $\\mathbf { 1 . 3 2 \\ c m ^ { 2 } }$ ，or $\\mathbf { 1 . 1 5 \\ c m }$ RMS relative to the traditional 2-D SSB estimates based onUand SWH. Spatial evaluation of improvement shows that the 3-D SSB estimatesarebetterthanthe traditional 2-DSSBestimatesatall latitudes.The enhancementfrom 2-Dto 3-D SSB estimates isof great significance to improve the precision of the altimeter product. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms—sea statebias,radar altimeter，crossover differences,three-dimensional nonparametric model, mean wave period ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "reflectors of radar energy than wave crests [1]. This effect is known as the electromagnetic bias (EM bias).There are two othersea-state-related biases:the skewnessand tracker biases [2].The EM bias,the skewness bias and the tracker bias are generally called the sea state bias (SSB).Due to improvements in the precise orbit determination technology and other geophysical corrections,the sea state bias is now the dominant error term in satellite altimetry [3]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In1971,Jackson first discovered the phenomenon of the EM bias from radar observations in a tower experiment [4]. During the past few decades,various investigators have tried to use both geometrical optics [4-9] and physical optics [10-12] scattering theory to describe the EMbias.Numerous tower and airborne experiments have been conducted to determine the behaviorof theEMbias[13-17].Nevertheless,itis still hard to completely understand the physical mechanism of the EMbias, so the estimation of the SSB still largely relies on empirical models. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I．INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "attracted more and more attention.One of the main purposes of radar altimeters is to measure the mean sea level. However,the sea level measured by radar altimeters is lower than the true sea level because wave troughs are better ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Empirical SSB models are usually developed with a parametric [2,18,19] or nonparametric [20-25] method. Operational SSB models are generally based on the sea surface height (SSH) differences between repeat altimeter tracks, either crossover [2] or collinear differences [18].More recently, the sea level anomalies (SLAs) obtained by subtracting the mean sea surface (MSS) from the instantaneous SSH measurements have been used to directly estimate the SSB [22,26]. Empirical SSBmodels areclassically developed byusingthe altimeter-measured wind speed (U) and significant wave height (SWH).However, these two-parameter SSB models can not entirely parameterize the SSH variability attributed to regional complexities in ocean wave climate [27,28].Backscattering coefficient, pseudo wave age,swell height, mean wave period, RMS long wave slope and inverse wave age were used to estimate the SSB[19， 23， 25]. Tran presenteda three-dimensional(3-D) satellite SSB correction model in 2010 and the results indicated that the new model could reduce by around $7 . 5 \\%$ the total altimeter range error budgets for Jason-1 and Jason-2 [24].In addition to U and SWH,Tran used the mean wave period（ Tm ） estimated from a numerical wind-wave model, NOAA's WaveWatch3.WaveWatch3 was run ona global $1 ^ { \\circ } \\times 1 ^ { \\circ }$ grid at6 hourlytime step in Tran's study The mean wave period is defined as ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT m = m _ { \\mathrm { 0 } } / m _ { \\mathrm { 1 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { \\mathnormal { x } } = \\iint S ( f , \\theta ) f ^ { \\ b { x } } d f d \\theta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { x }$ represents the statistical moments derived from the directional wave elevation density spectrum, $S ( f , \\theta )$ ，with frequency $f$ and wave propagation direction $\\theta$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tran developed the 3-D SSB model using the SLAs data sets. SLAs are obtained by subtracting the mean sea surface from the instantaneous SSH measurements.The mean sea surface is generally obtained from a mean sea surface model. Therefore, there are two possible sources of errors for the SLAs data: the errors in the SSH measurements and the possible errors in the mean sea surface model. Any range or geophysical correction errorin the SSH measurements has a direct impact on the SSB estimation,whereas the SSH differences estimation is more likely to reduce systematic errors by repeat track analysis.In 2004，Labroue [22] compared the SSB estimates using crossoverdifferences， collineardifferencesandSLAs respectively. The crossover and collinear estimates give the same result provided that the SSH are filtered in the same way. However,the SLAs estimates are significantly different from the collinear or crossover estimates.In addition,the SSB estimates derived from different mean sea surface models are quite different and there is no explicit explanation for such difference.Therefore,the crossoverandcollinearestimatesare preferred for the moment,but the SLAs estimate is not recommended yet. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we present a method to estimate the SSB from crossover differences by using a three-dimensional (3-D) nonparametric model.Like what Tran did in 2O1O,we also use the wind speed, the significant wave height and the mean wave period as the three input variables.The ECMWF global reanalysis product ERA-Interim provides the mean wave period directly. The mean wave period from ERA-Interim is based on -1 spectral moment $( m _ { - 1 } / m _ { 0 } )$ [29],which is different from that in Tran's model.However,if the 3-D SSB model using the mean wave period directly provided by ERA-Interim also has good performances, the 3-D SSB model will be much more practical because the ECMWF reanalysis product has been widely used in the altimeter data processing and is available over a long time period. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The rest of the paper is organized as follows.To analyze the relationship between the wave period and the SSB,we first simulate the profiles of the sea surface in deep water with the fourth order Stokes wave theory in Section II.In Section III, we describe the nonparametric estimation method for the SSB estimation.Estimating the SSB from the SSH differences by using a 3-D nonparametric model has not been implemented before.Compared with the 2-D SSB estimation, the 3-D SSB estimation requires much more computation time.We present the methods to reduce the computation time in this section. Section IV introduces the data sources and the data collocation process. In Section V,we estimate the SSB of Jason-2 using two 2-D and a 3-D nonparametric models. Zero-adjustment processing for the SSB models including the mean wave period is discussed in this section. Section VI is the conclusion of the paper. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II.THE RELATIONSHIP BETWEEN THE WAVE PERIOD AND THE SSB ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Traditional operational SSB models are based on the wind speed and the significant wave height.Tran's 3-D SSB model presented in 2O1O indicated that the variance reduction of residual sea surface height (RSSH) was increased at all latitudes after the mean wave period was introduced to the SSB models.However, there have been no publications that describe the relationship between the wave period and the SSB.In this section,we aim to discuss the relationship between the wave period and the SSB.EM bias in the SSB is mainly caused by nonlinear sea surface.Therefore，any factor related to the nonlinear sea surface canaffecttheEMbias. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sea wave is generally studied from two aspects. On the one hand,fluid mechanics is used to study the movement of particles in the liquid and the two main theories are the linear and nonlinear sea wave theories.On the other hand,sea wave is considered as a random process and the movement of particles in the liquid is described statistically. The mean wave period used in this study is actually obtained in the second way. However,our main objective is to discuss the relationship between the wave period and the SSB,so we use the linear and nonlinear sea wave theories in this study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to the linear and nonlinear sea wave theories,sea wave is linear when the wave height is small enough compared with the wavelength.However, linear wave theory is not suitable when the wave height is no longer small enough. Nonlinear sea wave theory mainly consists of the Stokes wave theory and the Cnoidal wave theory.Fig.1 presents the ranges of validity for different wave theories [3O].The Stokes wave theory is applied to deep water，but in shallow water, the Cnoidal wave theory is preferred. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/be396aeaa819a8b8d584206294b1e33f7e5537b58c6d8695a09bcf077bd355a8.jpg",
+        "img_caption": [
+            "Fig.1.Ranges of validity for different wave theories. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most valid measurements of altimeters are in deep water, where the Stokes wave theoryispreferred.For the Stokes wave theory, the higher the orderis, thewider the range of validityis. In this study，we use the fourth-order Stokes wave theory. According to the fourth-order Stokes wave theory, the wave profile can be written as $\\varsigma ( x )$ [31], ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\varsigma ( x ) = \\frac { 1 } { 2 } k a ^ { 2 } + k ^ { 3 } a ^ { 4 } + a ( 1 + \\frac { 9 } { 8 } k ^ { 2 } a ^ { 2 } ) \\cos ( k x ) + ( \\frac { 1 } { 2 } k a ^ { 2 } + \\frac { 1 1 } { 6 } k ^ { 3 } a ^ { 4 } ) \\cos ( 2 k x ) } } } \\\\ { { \\displaystyle { + \\frac { 3 } { 8 } k ^ { 2 } a ^ { 3 } \\cos ( 3 k x ) + \\frac { 1 } { 3 } k ^ { 3 } a ^ { 4 } \\cos ( 4 k x ) } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\cal L } = \\frac { g T ^ { 2 } } { 2 \\pi } ( 1 + k ^ { 2 } a ^ { 2 } ) , } } \\\\ { { } } \\\\ { { \\displaystyle { \\cal H } = 2 a ( 1 + \\frac { 3 } { 2 } k ^ { 2 } a ^ { 2 } ) , } } \\\\ { { } } \\\\ { { \\displaystyle k = \\frac { 2 \\pi } { L } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "whereL,T,H,k are wavelength,wave period, wave height and wavenumber respectively. The term $a$ isan undetermined constant associated with the wave height.If we know H and T, we can obtain the wave profile using expressions (3)-(6). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd823fcb03144783271476278811303cd09c817c6215b2cfda84c79f85fbbf65.jpg",
+        "img_caption": [
+            "Fig.2.Profiles of the sea surface that are calculated with the fourth Stokes wave theory.(a) The wave heightis fixed while the wave period is variable,(b) the wave period is fixed while thewave heightis variable. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 presents the wave profiles of the sea surface that are obtained with the fourth Stokes wave theory.When the wave height is fixed,nonlinearity is weakened with the increase of the wave period. On the contrary,when the wave period is fixed, nonlinearity is weakened with the decrease of the wave height. The wave profile of the nonlinear wave is usuallyan asymmetric curve with steep crests and flat troughs. The strength of the nonlinearityis mainly determined by the relative wave height $\\mathrm { H } / \\mathrm { d }$ in shallow water,where d is water depth. However,in deep water,the strength of the nonlinearity is mainly determined by wave steepness $\\delta = H / L$ . The larger the wave steepness is,the stronger the nonlinearity is. The wavelengthgenerallyincreaseswiththewaveperiod. Therefore,similar to the wave height,the wave period can greatly affect the SSB.When the wave height is fixed,if the wave period increases, the steepness will be decrease,so the magnitude of the SSB will decrease accordingly. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The wave profile $\\varsigma ( x )$ in (3) satisfies ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { 0 } ^ { 2 \\pi / k } [ \\varsigma ( x ) - ( \\frac { 1 } { 2 } k a ^ { 2 } + k ^ { 3 } a ^ { 4 } ) ] d x = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the level $z _ { 0 } = { \\frac { 1 } { 2 } } k a ^ { 2 } + k ^ { 3 } a ^ { 4 }$ forms the free surface on which the water particle is still,that is to say,the origin of coordinatesis $\\frac { 1 } { 2 } k a ^ { 2 } + k ^ { 3 } a ^ { 4 }$ meters below the still water surface. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The height of the wave crest with respect to the origin of coordinates is: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { H _ { c } = \\frac { 1 } { 2 } k a ^ { 2 } + k ^ { 3 } a ^ { 4 } + a ( 1 + \\frac { 9 } { 8 } k ^ { 2 } a ^ { 2 } ) + ( \\frac { 1 } { 2 } k a ^ { 2 } + \\frac { 1 1 } { 6 } k ^ { 3 } a ^ { 4 } ) } } } \\\\ { { \\displaystyle { + \\frac { 3 } { 8 } k ^ { 2 } a ^ { 3 } + \\frac { 1 } { 3 } k ^ { 3 } a ^ { 4 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The height of the wave trough with respect to the origin of coordinates is: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { H _ { t } = \\frac { 1 } { 2 } k a ^ { 2 } + k ^ { 3 } a ^ { 4 } - a ( 1 + \\frac { 9 } { 8 } k ^ { 2 } a ^ { 2 } ) + ( \\frac { 1 } { 2 } k a ^ { 2 } + \\frac { 1 1 } { 6 } k ^ { 3 } a ^ { 4 } ) } } } \\\\ { { \\displaystyle { ~ - \\frac { 3 } { 8 } k ^ { 2 } a ^ { 3 } + \\frac { 1 } { 3 } k ^ { 3 } a ^ { 4 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The half wave height with respect to the origin of coordinates is: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle H _ { h } = \\frac { 1 } { 2 } ( H _ { c } + H _ { t } ) } } \\\\ { { \\displaystyle ~ = \\frac { 1 } { 2 } k a ^ { 2 } + k ^ { 3 } a ^ { 4 } + ( \\frac { 1 } { 2 } k a ^ { 2 } + \\frac { 1 1 } { 6 } k ^ { 3 } a ^ { 4 } ) + \\frac { 1 } { 3 } k ^ { 3 } a ^ { 4 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore,the half wave height with respect to the still water surface is: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { r } = H _ { h } - z _ { 0 } = \\frac { 1 } { 2 } k a ^ { 2 } + \\frac { 1 1 } { 6 } k ^ { 3 } a ^ { 4 } + \\frac { 1 } { 3 } k ^ { 3 } a ^ { 4 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$H _ { \\mathfrak { r } }$ can be seen as the theoretical EM bias derived from the Stokes theory.We can obtain $H _ { r }$ from (4),(5),(6) and (11). Fig.3 shows $H _ { r }$ that varies long with the change of the wave height and the wave period respectively.When the wave period is fixed, $H _ { r }$ is an increasing function of the wave height. On the contrary, $H _ { r }$ is a decreasing function of the wave period when the wave height is fixed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf3a72abcebdc50ccfbd33abc506ae9e1fb475e49c45030ea641e49f00f7cc41.jpg",
+        "img_caption": [
+            "Fig.3.Half wave height with respect to the still water surface (theoretical EM bias derived from the Stokes theory).(a) The wave period is fixed at $\\mathrm { T } { = } 9 \\mathrm { s }$ while (b) the wave heightis fixed at $_ { \\mathrm { H } = 2 . 5 \\mathrm { m } }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.NONPARAMETRIC ESTIMATIONMETHOD FOR THE SEA ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "STATE BIAS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Gaspar first introduced the nonparametric (NP) method for the estimation of the sea state bias in 1998 [2O] and then developed it in 2OO2 [21]. From then on，nonparametric estimation method has been widely applied to the SSB estimation.In this section，we discuss the nonparametric estimation method for the sea state bias.Part A presents the general multi-dimensional nonparametric regression model using the local linear regression estimator.Part B presents Tran's 3-D nonparametric SSB model developed with the SLAs data. Part C describes the basic principle of estimating the SSB from crossover differences by using a nonparametric model.The differences between the SLAs estimates and the crossover estimates are also discussed in this part. Compared with developing a 2-D SSB model, developing a 3-D SSB model requires much more computation time.Part D gives the methods to reduce the computation time. On the one hand, we adopt a new iterative algorithm for sparse least-squares problems.On the other hand,we improve the local linear regression estimator described inPart A. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A.Multi-dimensional Nonparametric Regression Model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Assume that $y$ isarandom scalarvariable jointly distributed with a random vector $\\mathbf { x } = ( x _ { 1 } , x _ { 2 } , . . . , x _ { p } )$ . The general regression model canbedescribed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = r ( \\mathbf { x } ) + \\varepsilon ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $r$ is a regression function and $\\varepsilon$ isa zero-mean error term.Nonparametric estimation theory provides various estimators for the regression function $r ( \\mathbf { x } ) = \\operatorname { E } [ y | \\mathbf { x } ]$ . If we have n observations $( y _ { i } , \\mathbf { x _ { i } } )$ , we can write the estimator $\\hat { \\bf \\Phi } _ { r ( { \\bf x } ) }$ of the regression function $r ( \\mathbf { x } ) = \\operatorname { E } [ y | \\mathbf { x } ]$ as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\boldsymbol r } ( { \\mathbf x } ) = \\sum _ { i = 1 } ^ { n } y _ { i } \\alpha _ { n } ( { \\mathbf x } - { \\mathbf x } _ { i } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha _ { n } ( \\mathbf { x } - \\mathbf { x } _ { i } )$ is a weighting function that has to satisfy ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { n } \\alpha _ { n } ( { \\bf x } - { \\bf x } _ { i } ) = 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Gaspar's research has shown that the local linear regression (LLR) estimator is the best choice to minimize the bias on the estimate [21].Therefore, the local linear regression estimator is widely used to develop SSB models.For any vector $\\mathbf { z }$ in the neighborhood of $\\mathbf { x }$ ，a local linear model for the regression function $r$ can be written as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( \\mathbf { z } ) = \\beta _ { 0 } + \\sum _ { j = 1 } ^ { p } \\beta _ { j } ( z _ { j } - x _ { j } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We can find the value of $\\mathbf { \\beta } = ( \\beta _ { \\mathrm { o } } , \\beta _ { \\mathrm { 1 } } , . . . , \\beta _ { \\mathrm { { \\it { p } } } } ) ^ { \\mathrm { T } }$ that minimizes ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\underset { i = 1 } { \\overset { n } { \\sum } } [ y _ { i } - \\beta _ { 0 } - \\underset { j = 1 } { \\overset { p } { \\sum } } \\beta _ { j } ( x _ { i j } - x _ { j } ) ] ^ { 2 } K _ { \\scriptscriptstyle H } ( { \\bf x } - { \\bf x } _ { i } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The kernel function $K _ { \\cal H } ( { \\bf x } - { \\bf x } _ { i } ) = \\frac { 1 } { \\vert { \\bf H } \\vert } K [ { \\bf H ^ { - 1 } } ( { \\bf x } - { \\bf x } _ { i } ) ]$ is the function that describes the weighting scheme for the $\\alpha _ { n } ( \\mathbf { x } - \\mathbf { x } _ { i } )$ （204号 weight term given in(13). The kernel function $K$ assigns weights as a function of a scaled distance ${ \\mathbf { H } } ^ { \\mathbf { - 1 } } ( \\mathbf { x } - \\mathbf { x } _ { i } )$ between （204号 $\\mathbf { X } _ { i }$ and x . $\\left. \\mathbf { H } \\right.$ is the determinant of $\\mathbf { H }$ ，a $( \\boldsymbol { p } \\times \\boldsymbol { p } )$ nonsingular scaling matrix,generally called bandwidth matrix. The kernel function $K$ is a nonnegative scalar function normalized to satisfy $\\int K ( \\mathbf { x } ) \\mathrm { d } \\mathbf { x } = 1$ . It is usually chosen to be a symmetric probability density function.In this paper，we used the spherical Epanechnikov kernel, which,proves to minimize the mean square error of the LLR estimator [32]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For a 2-D SSB model based on U and SWH, $\\mathbf { x } = ( U , S W H )$ ,the kernel reads [21,33] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle K _ { \\scriptscriptstyle H } ( { \\bf x } - { \\bf x } _ { i } ) = \\operatorname* { m a x } \\{ 0 , \\frac { 2 } { \\pi h _ { \\scriptscriptstyle U } h _ { \\scriptscriptstyle S W H } } \\times [ 1 } } \\\\ { { \\displaystyle ~ - ( \\frac { U - U _ { i } } { h _ { \\scriptscriptstyle U } } ) ^ { 2 } - ( \\frac { S W H - S W H _ { i } } { h _ { \\scriptscriptstyle S W H } } ) ^ { 2 } ] \\} . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For a 3-D SSB model based and U,SWH and MWP, $\\mathbf { x } = ( U , S W H , M W P )$ ,the kernel reads [33] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { K _ { \\scriptscriptstyle H } ( { \\bf x } - { \\bf x } _ { i } ) = \\operatorname* { m a x } \\{ 0 , \\frac { 1 5 } { 8 \\pi h _ { \\scriptscriptstyle U } h _ { \\scriptscriptstyle S W H } } h _ { \\scriptscriptstyle M W P } \\times [ 1 - ( \\frac { U - U _ { i } } { h _ { \\scriptscriptstyle U } } ) ^ { 2 } } \\\\ { - ( \\frac { S W H - S W H _ { i } } { h _ { \\scriptscriptstyle S W H } } ) ^ { 2 } - ( \\frac { M W P - M W P _ { i } } { h _ { \\scriptscriptstyle M W P } } ) ^ { 2 } ] \\} . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { h } = ( h _ { \\scriptscriptstyle U } , h _ { \\scriptscriptstyle S W H } , h _ { \\scriptscriptstyle M W P } )$ is the bandwidth vector.We used local bandwidth in this paper.Details can be found in the literature [21].The bandwidth vector $\\mathbf { h } ( \\mathbf { x } )$ is written as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\bf h } ( { \\bf x } ) = ( h _ { \\scriptscriptstyle U } , h _ { { \\scriptscriptstyle S W H } } , h _ { { \\scriptscriptstyle M W P } } ) ( { \\bf x } ) } } \\\\ { { \\displaystyle ~ \\sum _ { { \\bf i } } ^ { { \\bf j } } ( h _ { \\scriptscriptstyle U } , h _ { { \\scriptscriptstyle S W H } } , h _ { { \\scriptscriptstyle M W P } } ) _ { \\scriptscriptstyle 0 } [ { \\bf n } ( { \\bf x } ) / { \\bf \\bar { n } } ] ^ { - 1 / 7 } , { \\bf n } ( { \\bf x } ) ^ { \\scriptscriptstyle 3 } ~ 0 . 1 { \\bf \\bar { n } } } } \\\\ { { \\displaystyle ~ \\sum _ { { \\bf i } } ^ { { \\bf j } } 3 ( h _ { \\scriptscriptstyle U } , h _ { { \\scriptscriptstyle S W H } } , h _ { { \\scriptscriptstyle M W P } } ) _ { \\scriptscriptstyle 0 } , { \\bf n } ( { \\bf x } ) < 0 . 1 { \\bf \\bar { n } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $( h _ { v } , h _ { \\scriptscriptstyle S W H } , h _ { \\scriptscriptstyle M W P } ) _ { 0 }$ is a reference bandwidth. We select $( h _ { v } , h _ { \\scriptscriptstyle S W H } , h _ { \\scriptscriptstyle M W P } ) _ { 0 }$ the value( $( 2 \\mathrm { m } / \\mathrm { s } , 0 . 9 \\mathrm { m } , 2 \\mathrm { s } )$ referred to the ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "literature [21]. $\\mathbf { n } ( \\mathbf { x } )$ is the number of measurements in the box where $\\mathbf { x }$ is found and $\\mathbf { \\Pi } _ { \\mathfrak { n } } ^ { - }$ is the mean value of $\\mathrm { n } ( \\mathbf { x } )$ · ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Equation(16) is a typical weighted least squares problem and the solution is: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\beta } = ( \\mathbf { X _ { D } ^ { T } } \\mathbf { W X _ { D } } ) ^ { - 1 } \\mathbf { X _ { D } ^ { T } } \\mathbf { W y } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ${ \\bf W } = d i a g \\{ { \\cal K } _ { H } ( { \\bf x } - { \\bf x } _ { i } ) \\}$ isthe $( n \\times \\mathtt { n } )$ matrix of the ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { y } ^ { \\mathbf { T } } = [ y _ { 1 } , . . . , y _ { \\mathrm { n } } ] , ~ \\mathbf { X _ { \\mathbf { p } } } = { \\left[ \\begin{array} { l l l l } { 1 } & { x _ { 1 1 } - x _ { 1 } } & { \\dots } & { x _ { 1 p } - x _ { p } } \\\\ { 1 } & { x _ { 2 1 } - x _ { 1 } } & { \\dots } & { x _ { 2 p } - x _ { p } } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\vdots } \\\\ { 1 } & { x _ { n 1 } - x _ { 1 } } & { \\dots } & { x _ { n p } - x _ { p } } \\end{array} \\right] } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The so-called local linear estimator of $r _ { L L R } ( \\mathbf { x } )$ is $\\beta _ { \\mathfrak { d } }$ while the other components of $\\boldsymbol { \\mathfrak { \\textbf { \\beta } } }$ are estimators of the first order partial derivativesof $r$ [32].We can thus write ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { r } _ { \\mathrm { L L R } } \\left( \\mathbf { x } \\right) = \\beta _ { 0 } = \\mathbf { e _ { 1 } ^ { T } } ( \\mathbf { X _ { D } ^ { \\mathrm { T } } W X _ { D } } ) ^ { - 1 } \\mathbf { X _ { D } ^ { \\mathrm { T } } W y } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ${ \\bf e _ { 1 } }$ isa $[ ( \\mathsf { p } + 1 ) \\times 1 ]$ unit vector: $\\mathbf { e } _ { 1 } ^ { \\mathrm { { T } } } = ( 1 , 0 , . . . , 0 )$ . Setting $\\mathbf { T } = \\mathbf { e _ { i } ^ { \\mathrm { { T } } } } ( \\mathbf { X _ { D } ^ { \\mathrm { { T } } } } \\mathbf { W } \\mathbf { X _ { D } } ) ^ { - 1 } \\mathbf { X _ { D } ^ { \\mathrm { { T } } } } \\mathbf { W }$ ，the weighting functioncan be written as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\alpha _ { n } ( \\mathbf { x } - \\mathbf { x } _ { i } ) = \\mathbf { T } ( i ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Obviously, $\\hat { \\boldsymbol { r } } _ { \\mathrm { L L R } }$ conforms to(13) and,with a little algebra, $\\alpha _ { n } ( \\mathbf { x } - \\mathbf { x } _ { i } )$ in (22) can be shown to satisfy (14). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$B$ Tran'sThree-dimensional Nonparametric SSB Model ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tran's three-dimensional parametric SSB model is based on the wind speed, the significant wave height from Jason-1 and the mean wave period estimated from WaveWatch3 [24]. Extracting the SSB from the SSH measurements is the key to develop a SSB model. Tran extracted the SSB by subtracting the mean sea surface height from the instantaneous sea surface height. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The sea surface height measurement uncorrected for the SSB is denoted as SSH'. SSH contains the geoid $( h _ { g } )$ , the dynamic topography $( \\eta )$ ,the SSB and some measurement noise $( \\omega )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS S H ^ { ' } = h _ { g } + \\eta + S S B + \\omega .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If $S S B _ { m }$ is the estimated SSB from a SSB model, the sea surface height measurement corrected for the SSB（SSH）can be written as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S } S H = h _ { g } + \\eta + \\mathrm { S } S B - S S B _ { m } + \\omega .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At each location $\\mathbf { k }$ ,the mean sea surface can be obtained by averaging the multiyear measurements at the location $\\mathbf { k }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { M S S } _ { k } = < \\mathit { S S H } > _ { k } = < \\mathit { h } _ { g } > _ { k } + < \\eta > _ { k } + < \\mathit { S S B } - \\mathit { S S B } _ { m } > _ { k } + < \\omega > _ { k } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The sea level anomalies can be obtained by subtracting the mean sea surface height from the instantaneous sea surface height. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { \\Delta h _ { \\boldsymbol { k } } = S S H _ { \\boldsymbol { k } } ^ { \\prime } - M S S _ { \\boldsymbol { k } } } \\\\ { = ( h _ { \\mathrm { g } } ) _ { \\boldsymbol { k } } - < h _ { \\mathrm { g } } > + ( \\eta ) _ { \\boldsymbol { k } } - < \\eta > _ { \\boldsymbol { k } } + ( S S B ) _ { \\boldsymbol { k } } - } \\\\ { < S S B - S S B _ { m } > _ { \\boldsymbol { k } } + ( \\omega ) _ { \\boldsymbol { k } } - < \\omega > _ { \\boldsymbol { k } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Assume that all terms except for $\\left( S S B \\right) _ { k }$ in (26） can be considered as a single noise term $\\mathcal { E } _ { k }$ of zero mean. Equation (26) can be simplified: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta h _ { \\boldsymbol { k } } = \\left( S S B \\right) _ { \\boldsymbol { k } } + \\varepsilon _ { \\boldsymbol { k } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Assume that the SSB is a function $\\varphi$ of $\\mathbf { x }$ ，a vector containing U, SWH and MWP.Noting $y _ { k } = \\Delta h _ { k }$ ,then: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { k } = \\Delta h _ { k } = S S H _ { k } ^ { ' } - M S S _ { k } = ( S S B ) _ { k } + \\varepsilon _ { k } = \\varphi ( { \\bf x } _ { k } ) + \\varepsilon _ { k } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This is the typical expression of a regression model. Given a set of n measurements $( y _ { i } , \\mathbf { x } _ { i } )$ ，where $y _ { i }$ is the residual sea surface height and $\\mathbf { x } _ { i } = ( x _ { i 1 } , x _ { i 2 } , x _ { i 3 } ) = ( U _ { i } , S W H _ { i } , M W P _ { i } )$ isa vector defined by the measurements ofU,SWHand MWP, the estimated SSB $\\varphi ( \\mathbf { x } )$ can be obtained from (21). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C.Estimating the SSB from Crossover Differences by Using a Three-dimensional Nonparametric Model ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Unlike Tran's 3-D SSB model developed with the SLAs data, the 3-D SSB model we developed in this paper is based on the crossover differences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At crossover points,the geoid signal can be eliminated by forming differences between two $S S H ^ { ' }$ measurements taken on the ascending arc (index 1） and the descending arc (index 2) respectively, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS S H _ { 2 } ^ { ' } - S S H _ { 1 } ^ { ' } = ( S S B _ { 2 } - S S B _ { 1 } ) + ( \\eta _ { 2 } - \\eta _ { 1 } ) + ( \\omega _ { 2 } - \\omega _ { 1 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Assume that $( \\eta _ { 2 } - \\eta _ { 1 } ) + ( \\omega _ { 2 } - \\omega _ { 1 } )$ can be considered as a single zero-mean noise term $\\varepsilon$ . The observation equation for the SSH differences can be written as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { S S H _ { 2 } ^ { ' } - S S H _ { 1 } ^ { ' } = S S B _ { 2 } - S S B _ { 1 } + \\varepsilon . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Assume that the SSB is an unspecified function $\\varphi$ of （20 $\\mathbf { x } = ( U , S W H , M W P ) : \\mathrm { S S B } = \\varphi ( \\mathbf { x } )$ ，noting $y = S S H _ { 2 } ^ { ' } - S S H _ { 1 } ^ { ' }$ the observation equation(3O) can be written as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { y } = \\varphi ( \\mathbf { x } _ { 2 } ) - \\varphi ( \\mathbf { x } _ { 1 } ) + \\varepsilon .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If $\\mathbf { X } _ { 2 } = \\mathbf { X }$ is given, the conditional expectation of $y$ is: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE [ y \\vert \\mathbf { x } _ { 2 } = \\mathbf { x } ] = \\varphi ( \\mathbf { x } ) - E [ \\varphi ( \\mathbf { x _ { 1 } } ) \\vert \\mathbf { x } _ { 2 } = \\mathbf { x } ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With a set of observations $( y _ { i } , \\mathbf { x } _ { 1 i } , \\mathbf { x } _ { 2 i } )$ ，we can estimate the conditional expectations in (32) using(13): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi ( { \\bf x } ) = \\sum _ { i = 1 } ^ { n } y _ { i } \\alpha _ { n } ( { \\bf x } - { \\bf x } _ { 2 i } ) + \\sum _ { i = 1 } ^ { n } \\varphi ( { \\bf x } _ { 1 i } ) \\alpha _ { n } ( { \\bf x } - { \\bf x } _ { 2 i } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For a given $\\mathbf { x }$ ,if the value of $\\varphi ( \\mathbf { x } _ { 1 i } )$ is known,(33) provides a practical method to estimate $\\varphi ( \\mathbf { x } )$ . To estimate it, we can write (33) for $\\mathbf { x }$ equal to any of $\\mathbf { X } _ { 1 j }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi ( \\mathbf { x } _ { 1 j } ) = \\sum _ { i = 1 } ^ { n } y _ { i } \\alpha _ { n } ( \\mathbf { x } _ { 1 j } - \\mathbf { x } _ { 2 i } ) + \\sum _ { i = 1 } ^ { n } \\varphi ( \\mathbf { x } _ { 1 i } ) \\alpha _ { n } ( \\mathbf { x } _ { 1 j } - \\mathbf { x } _ { 2 i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Or in matrix form: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\mathbf { I } - \\mathbf { A } ) \\Phi _ { 1 } = \\mathbf { A } \\mathbf { y } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { I }$ isa $( n \\times n )$ identity matrix, $\\mathbf { A }$ isa $( n \\times n )$ matrix with elements $a _ { j i } = \\alpha _ { n } ( \\mathbf { x } _ { 1 j } - \\mathbf { x } _ { 2 i } )$ expressed by the local linear estimator of equation (14), $\\boldsymbol { \\Phi } _ { 1 } ^ { \\mathrm { T } } = [ \\varphi ( \\mathbf { x } _ { 1 1 } ) , . . . , \\varphi ( \\mathbf { x } _ { 1 n } ) ]$ ，and $\\mathbf { y } ^ { \\mathrm { T } } = [ y _ { 1 } , . . . , y _ { n } ]$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The matrix $\\mathbf { I } { \\boldsymbol { \\cdot } } \\mathbf { A }$ is singular because the rank of $\\mathbf { I } { \\boldsymbol { \\cdot } } \\mathbf { A }$ is $\\mathrm { n - 1 }$ Asdescribed in (3O),only SSH differencesare observed,so the SSB can only be determined to within a constant. Therefore,we have to impose the value of one of the components of ${ \\pmb { \\rho } } _ { 1 }$ ，say, $\\varphi ( \\mathbf { x } _ { 1 1 } ) = \\varphi _ { 0 }$ .(35) can be rewritten as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { B _ { 1 } } \\Phi = \\mathbf { A } \\mathbf { y } - \\mathbf { B _ { 0 } } \\varphi _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { \\Phi } ^ { \\mathbf { T } } = [ \\varphi ( \\mathbf { x } _ { 1 2 } ) , . . . , \\varphi ( \\mathbf { x } _ { 1 n } ) ]$ ： $( \\mathbf { B _ { 0 } } , \\mathbf { B _ { 1 } } )$ is a partition of I-A with $\\mathbf { B _ { 0 } }$ the first column of I-A.We now have a system of $\\mathfrak { n }$ equations with n-1 unknowns.A linear least squares solution is readilyobtained: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\Phi } = ( \\mathbf { B } _ { 1 } ^ { \\mathrm { T } } \\mathbf { B } _ { 1 } ) ^ { - 1 } \\mathbf { B } _ { 1 } ^ { \\mathrm { T } } ( \\mathbf { A } \\mathbf { y } - \\mathbf { B } _ { 0 } \\boldsymbol { \\varphi } _ { 0 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This provides the missing estimates of $\\varphi ( \\mathbf { x } _ { 1 i } ) , i = 2 , . . . , n$ · These can then be plugged into (33) to estimate $\\varphi ( \\mathbf { x } )$ for any value of $\\mathbf { x }$ . The nonparametric SSB estimation problemis thus formally solved. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The main difference between the SLAs estimates and the crossover estimates is the way to extract the SSB.The former extract the SSB from the sea level anomalies while the latter does from the SSH differences at the crossovers.Compared with the SLAs SSB estimates,the crossover SSB estimates have some advantages: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）Some systematic errors can be eliminated by the SSH differences because they are unchangeable fora same position while such systematic errors cannot be eliminated by the SLAs. 2)The SLAs are obtained by subtracting the mean sea surface from the instantaneous SSH measurements.The mean seasurface isusually obtained from a mean sea surface model that is obtained from several altimeters. Some errors may appear since different altimeters use different methods to process the data.In addition, different mean sea surface models may yield quite different SSB estimates [22]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D.Methods for Reducing the Computation Time ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in (37),for each x,it requiresalarge number of matrix operations,so the nonparametric method can hardly be applied to the real time processing of the altimeter data directly. To solve this problem, we can make a lookup table and estimate the SSB at each grid in the lookup table. Compared with the 2-D SSB lookup table, the 3-D SSB lookup table has many more grid points. Therefore，developing a 3-D SSB model requires much more computation time.In this section，we describe the methods we used to reduce the computation time for developing a 3-D SSB model. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1） The application of LSMR: $\\mathbf { B _ { 1 } ^ { T } B _ { 1 } }$ in (37）isa $[ ( n - 1 ) \\times ( n - 1 ) ]$ matrix. Inverting the matrix requiresa prohibitive amount of computation time when n is very large. In Gaspar's study in 1998 [20]，500 crossover points were randomly extracted for each cycle，so the data subset was limited to $\\mathtt { n } = 5 0 0$ . In 20O2,Gaspar [21] used the LSQR(Least Square QR decomposition method） [34] algorithm to solve equation (36） and greatly reduced computation time,so all valid crossovers in each cycle were used to develop the SSB model. In our study，we replaced the LSQR algorithm in Gaspar'sresearchwiththeLSMR(LeastSquare minimum-residual method) [35] algorithm. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Both LSQR and LSMR are iterative algorithms for sparse linear equation and sparse least squares.The two algorithms find a solution $\\mathbf { x }$ to the following problems: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Unsymmetric equations: minimize $\\left\\| \\mathbf { x } \\right\\| _ { 2 }$ subject to $\\mathbf { A x } = \\mathbf { b } .$ （20 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Regularizedleastsquares: ${ \\mathrm { m i n i m i z e } } \\left\\| \\left( { \\mathbf { A } } \\right) \\mathbf { x } - \\left( { \\mathbf { b } } \\right) \\right\\| _ { 2 } .$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { A } \\in \\sqsupset \\mathsf { I } ^ { \\boldsymbol { m } \\times \\boldsymbol { n } }$ ， $\\mathbf { b } \\in \\square ^ { m }$ ,and $m \\leq n$ or $m \\geq n$ . The matrix A is normally large and sparse. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The practical stopping rules involve three dimensionless quantitiesATOL,BTOL,and CONLIM: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "S2: Stop if $\\left\\| \\mathbf { A } ^ { \\mathrm { T } } \\mathbf { r } _ { k } \\right\\| \\leq A T O L \\| \\mathbf { A } \\| \\| \\mathbf { r } _ { k } \\| .$ （204号",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "S3: Stop if $c o n d ( \\mathbf { A } ) \\geq C O N L I M .$ （20 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The first two rules are applied to compatible and incompatible systems respectively while the third rule works in both systems. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LSQR is equivalent to the conjugate-gradient (CG) method applied to the normal equation $( \\mathbf { A } ^ { \\mathrm { T } } \\mathbf { A } + \\lambda ^ { 2 } \\mathbf { I } ) \\mathbf { x } = \\mathbf { A } ^ { \\mathrm { T } } \\mathbf { b }$ . It can reduce $\\left\\| \\mathbf { r } _ { k } \\right\\|$ monotonically，where $\\mathbf { r } _ { k } = \\mathbf { b } - \\mathbf { A x } _ { k }$ is the residual for the approximate solution $\\mathbf { X } _ { k }$ ．In contrast, LSMR is equivalent to the minimum-residual (MINRES) method applied to the normal equation， so $\\left\\| \\mathbf { A } ^ { \\mathbf { T } } \\mathbf { r } _ { k } \\right\\|$ aremonotonically decreasing. In practice, $\\left\\| \\mathbf { r } _ { k } \\right\\|$ also decreases monotonically and is never very far behind the corresponding value for LSQR Therefore,although LSQR and LSMR ultimately converge to similarpoints,itis safer to use LSMR in situations where the solver must be terminated early. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Afterusing the Epanechnikov kernel,(36) becomes a sparse linear system,for which both LSQR and LSMR can be used. $\\mathbf { B _ { 1 } } \\mid \\mathbf { \\Phi } , \\mathbf { \\Phi } \\boldsymbol { \\Phi }$ and $\\mathbf { A } \\mathbf { y } - \\mathbf { B _ { 0 } } \\varphi _ { 0 }$ are corresponding to A， $\\textbf { x }$ and $\\mathbf { b }$ （204号 respectively in (38) -(4O).We used both LSQR and LSMR to solve (36).LSMR produces resultsabit faster thanLSQR does. After replacing LSQR with LSMR, the computation time can be reduced by $10 \\% - 1 5 \\%$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）Improved local linear regression estimator:The final local linearregressionestimatorof $r ( \\mathbf { x } )$ is $\\hat { \\boldsymbol { r } } ( \\mathbf { x } ) = \\beta _ { 0 } = \\mathbf { e _ { 1 } ^ { \\mathrm { { T } } } } ( \\mathbf { X _ { D } ^ { \\mathrm { { T } } } W X _ { D } } ) ^ { - 1 } \\mathbf { X _ { D } ^ { \\mathrm { { T } } } W y }$ ，where $\\mathbf { X _ { p } }$ isa $( n \\times p )$ matrix and $\\mathbf { W }$ is a $( n \\times n )$ matrix.When n is large enough, this requires a lot of computation time.Itis not obvious for a 2-D SSB model, but for a 3-D SSB model, much more computation time is required because there are many more grid points in a 3-D SSB lookup table.We attempted to avoid high dimensional matrix operations and made some improvements on the traditional local linear regression estimator. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For a 3-D SSB model based on U，SWH and MWP, $\\mathbf { x } = ( U , S W H , M W P )$ ，for any vector $\\mathbf { z }$ of three variables,a local linear model for the regression function $r$ can be written as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( { \\bf z } ) = \\beta _ { 0 } + \\beta _ { 1 } ( z _ { 1 } - x _ { 1 } ) + \\beta _ { 2 } ( z _ { 2 } - x _ { 2 } ) + \\beta _ { 3 } ( z _ { 3 } - x _ { 3 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have to find the value of $\\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta } \\mathbf { \\beta }$ that minimizes ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = \\sum _ { i = 1 } ^ { n } [ y _ { i } - \\beta _ { 0 } - \\beta _ { 1 } ( x _ { i 1 } - x _ { 1 } ) - \\beta _ { 2 } ( x _ { i 2 } - x _ { 2 } ) - \\beta _ { 3 } ( x _ { i 3 } - x _ { 3 } ) ] ^ { 2 } K _ { \\scriptscriptstyle H } ( { \\bf x } - { \\bf x } _ { i } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To get $\\beta$ ,we can calculate the partial derivatives of $Z$ and make them equal to zero, $\\frac { \\partial Z } { \\partial \\beta _ { 0 } } = 0 \\ , \\ \\frac { \\partial Z } { \\partial \\beta _ { 1 } } = 0 \\ , \\ \\frac { \\partial Z } { \\partial \\beta _ { 2 } } = 0 \\ , \\ \\frac { \\partial Z } { \\partial \\beta _ { 3 } } = 0 \\ .$ Four equations are obtained: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { S _ { 0 0 0 } \\beta _ { 0 } + S _ { 1 0 0 } \\beta _ { 1 } + S _ { 0 1 0 } \\beta _ { 2 } + S _ { 0 0 1 } \\beta _ { 3 } = a } \\\\ { S _ { 1 0 0 } \\beta _ { 0 } + S _ { 2 0 0 } \\beta _ { 1 } + S _ { 1 1 0 } \\beta _ { 2 } + S _ { 1 0 1 } \\beta _ { 3 } = b } \\\\ { S _ { 0 1 0 } \\beta _ { 0 } + S _ { 1 1 0 } \\beta _ { 1 } + S _ { 0 2 0 } \\beta _ { 2 } + S _ { 0 1 1 } \\beta _ { 3 } = c } \\\\ { S _ { 0 0 1 } \\beta _ { 0 } + S _ { 1 0 1 } \\beta _ { 1 } + S _ { 0 1 1 } \\beta _ { 2 } + S _ { 0 0 2 } \\beta _ { 3 } = d } \\end{array} \\right. ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where a, b,c,d and $S _ { m k t }$ are written as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. \\begin{array} { l } { { a = \\displaystyle \\sum _ { i = 1 } ^ { n } y _ { i } K _ { n } ( { \\bf x } - { \\bf x } _ { i } ) } } \\\\ { { b = \\displaystyle \\sum _ { i = 1 } ^ { n } y _ { i } ( x _ { n } - x _ { 1 } ) K _ { n } ( { \\bf x } - { \\bf x } _ { i } ) } } \\\\ { { \\varepsilon = \\displaystyle \\sum _ { i = 1 } ^ { n } y _ { i } ( x _ { 2 } - x _ { 2 } ) K _ { n } ( { \\bf x } - { \\bf x } _ { i } ) } } \\\\ { { d = \\displaystyle \\sum _ { i = 1 } ^ { n } y _ { i } ( x _ { 3 } - x _ { 3 } ) K _ { n } ( { \\bf x } - { \\bf x } _ { i } ) } } \\\\ { { S _ { n \\beta } = \\displaystyle \\sum _ { i = 1 } ^ { n } ( x _ { i } - x _ { 1 } ) ^ { n } ( x _ { i 2 } - x _ { 2 } ) ^ { k } ( x _ { i 3 } - x _ { 3 } ) ^ { \\top } K _ { n } ( { \\bf x } - { \\bf x } _ { i } ) } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { S } = \\left[ \\begin{array} { l l l l } { S _ { 0 0 0 } } & { S _ { 1 0 0 } } & { S _ { 0 1 0 } } & { S _ { 0 0 1 } } \\\\ { S _ { 1 0 0 } } & { S _ { 2 0 0 } } & { S _ { 1 1 0 } } & { S _ { 1 0 1 } } \\\\ { S _ { 0 1 0 } } & { S _ { 1 1 0 } } & { S _ { 0 2 0 } } & { S _ { 0 1 1 } } \\\\ { S _ { 0 0 1 } } & { S _ { 1 0 1 } } & { S _ { 0 1 1 } } & { S _ { 0 0 2 } } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a matrix form, $\\mathbf { S } \\mathbf { \\beta } = { \\left| \\begin{array} { l } { b } \\\\ { c } \\end{array} \\right| }$ ，then ，where ${ \\bf S } ^ { + }$ is the C d d ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Moore-Penrose pseudo inverse matrix of matrix $\\mathbf { s }$ The local linear estimator of $r ( \\mathbf { x } )$ is: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\boldsymbol { r } } ( \\mathbf { x } ) = \\hat { \\boldsymbol { \\beta } } _ { 0 } = \\mathbf { e } _ { 1 } ^ { \\mathrm { { T } } } \\cdot \\mathbf { S } ^ { + } \\cdot \\left[ \\begin{array} { l } { a } \\\\ { b } \\\\ { c } \\\\ { d } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where ${ \\bf e } _ { 1 } ^ { \\mathbf { T } } = ( 1 , 0 , 0 , 0 )$ ， setting $\\mathbf { Q = e _ { 1 } ^ { T } \\cdot S ^ { \\dagger } }$ ， $\\hat { \\mathbf { \\xi } } _ { r ( \\mathbf { X } ) } ^ { }$ can be written as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\hat { r } } ( { \\bf x } ) = { \\hat { \\boldsymbol { \\beta } } } _ { 0 } = { \\bf Q } ( 1 ) \\cdot a + { \\bf Q } ( 2 ) \\cdot b + { \\bf Q } ( 3 ) \\cdot c + { \\bf Q } ( 4 ) \\cdot d } \\ ~ } \\\\ { { \\displaystyle ~ = \\sum _ { i = 1 } ^ { n } \\biggl [ { \\bf Q } ( 1 ) + { \\bf Q } ( 2 ) \\cdot ( x _ { i 1 } - x _ { 1 } ) + \\phantom { x x x x x x x x x } \\biggl ] { \\cal K } _ { H } ( { \\bf x } - { \\bf x _ { i } } ) \\cdot y _ { i } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The weighting function can be written as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\alpha _ { n } ( \\mathbf { x } - \\mathbf { x } _ { i } ) } \\\\ & { = [ \\mathbf { Q } ( 1 ) + \\mathbf { Q } ( 2 ) \\cdot ( x _ { i 1 } - x _ { 1 } ) + } \\\\ & { \\mathbf { Q } ( 3 ) \\cdot ( x _ { i 2 } - x _ { 2 } ) + \\mathbf { Q } ( 4 ) \\cdot ( x _ { i 3 } - x _ { 3 } ) ] K _ { \\cal H } ( \\mathbf { x } - \\mathbf { x } _ { i } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As shown in (22） and (5O), the form of the weighting function obtained with the improved local linear regression estimator is different from that obtained with the traditional local linear regression estimator.For a $3 { \\cdot } \\mathrm { D }$ nonparametric model，theweightingfunctionisobtainedfrom $\\mathrm { \\bf T } = \\mathrm { e } _ { 1 } ^ { \\mathrm { \\bf T } } ( \\mathrm { \\bf X } _ { \\mathrm { \\bf D } } ^ { \\mathrm { \\bf T } } \\mathrm { \\bf W } \\mathrm { \\bf X } _ { \\mathrm { \\bf D } } ) ^ { - 1 } \\mathrm { \\bf X } _ { \\mathrm { \\bf D } } ^ { \\mathrm { \\bf T } } \\mathrm { \\bf W } \\mathrm { \\bf \\Lambda } , \\mathrm { e } _ { 1 } ^ { \\mathrm { \\bf T } }$ isa $( 4 \\times 1 )$ unit vector, $\\mathbf { X _ { D } }$ is a $( \\mathrm { n } \\times 4 )$ matrix and W is a $( n \\times n )$ matrix, $\\mathbf { X _ { D } ^ { T } W }$ isa $( 4 \\times n )$ （204号 matrix and $\\mathbf { X _ { D } ^ { T } W X _ { D } }$ isa $( 4 \\times 4 )$ matrix. Therefore， the multiplication of ${ \\bf X _ { p } ^ { T } }$ and W requires $4 n ^ { 2 }$ multiplication operations. The multiplication of $\\mathbf { X _ { D } ^ { T } W }$ and $\\mathbf { X _ { D } }$ requires $4 ^ { 2 } n$ （204号 multiplication operations.The inversion of $\\mathbf { X _ { p } ^ { T } W X _ { p } }$ requires （20 $4 ^ { 3 }$ multiplicationoperations.Themultiplicationof （204号 $( \\mathbf { X _ { p } ^ { T } } \\mathbf { W X _ { p } } ) ^ { - 1 }$ and $\\mathbf { X _ { D } ^ { T } W }$ requires $4 ^ { 2 } n$ multiplication operations.The multiplication of ${ \\bf e } _ { 1 } ^ { \\mathrm { { T } } }$ and $( \\mathbf { X _ { D } ^ { T } } \\mathbf { W } \\mathbf { X _ { D } } ) ^ { - 1 } \\mathbf { X _ { D } ^ { T } } \\mathbf { W }$ requires $4 n$ multiplicationoperations. Thus, thetime complexity of obtaining the weighting function using the traditional local linear regression estimator is ${ \\mathrm { O } } ( { \\mathfrak { n } } ^ { 2 } )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As described in(47), computing a, b, c,d and $S _ { m k t }$ require n, 2n, 2n，2nand $( \\mathrm { m } + k + t + 1 ) \\times n$ multiplicationoperations respectively. $\\mathbf { s }$ isa $( 4 \\times 4 )$ matrix. Therefore，the time complexity of obtaining the weighting function using the improved local linear regression estimatoris ${ \\mathrm { O } } ( n )$ .In comparison with the traditional local linear regression estimator, the improved local linear regression estimator can greatly reduce the computation time. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IV．DATA SOURCES AND COLLOCATED SET ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A．ERA-Interim Reanalysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The mean wave period used in our study is obtained from the ERA-Interim reanalysis.ERA-Interim is the third global reanalysisproject produced by the European Centre for Medium-Range Weather Forecasts (ECMWF).ECMWF has spared no efforts to produce global reanalysis for the state of the atmosphere,land and ocean during the last few decades. ERA-15 and ERA-4O are the two major global reanalysis projects.ERA-Interimis the successor of ERA-15 and ERA-40 Theobjective of the ERA-Interimis to prepare foranew global reanalysis project to replace ERA-4O gradually. ERA-Interim provides reanalysis data from 1979 to the present time and updatesinnearrealtime. ContrastedwithERA-40, ERA-Interim has some improvements in data assimilation, forecast model and observing system. ERA-Interim uses a spectral T255 horizontal resolution（T159 for ERA-4O） and obtains a reduced N128 Gaussian grid with an approximately uniform spacing of $7 9 ~ \\mathrm { k m }$ （ $1 2 5 ~ \\mathrm { k m }$ for ERA-4O).Therefore, ERA-Interim owns a higher horizontal resolution(T255,N128 approximately $0 . 7 1 ^ { \\circ }$ ） than ERA-40(T159,N80 approximately $1 . 2 5 ^ { \\circ }$ ).With bilinear interpolation techniques,the data in the N128 Gaussian grid is interpolated into different kinds of latitude/longitude grids from $0 . 1 2 5 ^ { \\circ }$ to $3 ^ { \\circ }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The ocean wave analysis in ERA-Interim incorporates an optimal interpolation method to constrain predicted wave spectrausingaltimeter wave heightobservations.ERA-Interim uses reprocessed ERS-1 and ERS-2 data from ESA，and near-real-time data fromENVISAT,JASON-1,andJASON-2. The horizontal resolution of the wave model in ERA-Interim is $1 1 0 ~ \\mathrm { k m }$ and the wave spectra resolution is determined by 24 directions and 3O frequencies [36].ERA-Interim updates data four times per day at OO, O6,12 and 18 UTC.A variety of data in uniform latitude/longitude grids can be obtained from ERA-Interim datasets. The mean wave period we used is projected on the grid of $0 . 1 2 5 ^ { \\circ } \\times 0 . 1 2 5 ^ { \\circ }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B.Jason-2 Altimeter ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The wind speed and the significant wave height used in this study are obtained from the version‘D’GDR of Jason-2. Jason-2 was launched in June 2Oo8 and placed on the same ground track as its predecessors TOPEX/POSEION (T/P, launched in August 1992) and Jason-1 (launched in December 2001).Jason-2 carries the Poseidon-3 radar altimeter and occupies a non-sun-synchronous orbitat analtitude of $1 3 3 6 \\mathrm { k m }$ with an inclination of $6 6 . 1 5 ^ { \\circ }$ . Poseidon-3 is a dual-frequency radaraltimeter that operates at $1 3 . 5 7 5 \\ : \\mathrm { G H z }$ (Ku-band) and 5.3 GHz(C-band).The repeat cycle of Jason-2 is about 9.91 days, which meansthat everylocation along the Jason-2 ground-track is measured approximately every 9.91 days. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C. Collocated Set ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mean wave period is only available at OO, O6,12 and 18 UTC everyday,so we have to interpolate the data onto thealtimeter ground track locations.In this study,bilinear interpolation is used in space and linear interpolation is used in time. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The crossover data we use in this study is from 2OO9 to 2011. Gaspar computed the crossovers cycle per cycle,concluding that there are $6 { \\times } 1 0 ^ { 3 }$ to $7 \\times 1 0 ^ { 3 }$ valid crossovers per cycle. Unlike Gaspar [2O-21],we computed the crossovers not only cycle per cycle but also between two adjacent cycles to get more crossovers. A group of crossovers consist of the crossovers from the current cycle,the crossovers of the ascending arc for the current cycle and the descending arc for the next cycle,and the crossovers of the descending arc for the current cycle and the ascending arc for the next cycle.After quality control we can get $1 5 \\times 1 0 ^ { 3 }$ to $1 8 \\times 1 0 ^ { 3 }$ valid crossovers per group,which are approximately three times that computed cycle per cycle. There are few points that are completely consistent with the crossovers of the ascending arc and the descending arc.We select four points at each side of the crossover and use spline interpolation to interpolate the measurements to the crossover. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Gaspar computed the SSB estimates cycle per cycle and then computed the mean value of the individual SSB estimates. Unlike Gaspar，we first put the crossover data from all the groups together and then randomly extract 8ooO crossover points to compute the SSB estimates every time.Finally we compute the mean value of the individual SSB estimates.In this way，we may obtain more measurements from the data-poor areas because there may be few measurements in the data-poor areas in a single group. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "V．ESTIMATION OF THE JASON-2 SSB ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A. Zero-adjustment Processing for SSB Models Including MWP ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As described in Section II, the rank of $\\mathbf { I } { \\boldsymbol { \\cdot } } \\mathbf { A }$ in equation (35) is equal to $\\mathrm { n - 1 }$ and it may bring uncertainty problems. To eliminate the uncertainty,we have to impose the value of one of the components $\\varphi _ { 1 }$ .For a traditional 2-D nonparametric SSB model based onUand SWH,after obtaining the estimated SSB $\\varphi ( \\mathbf { x } )$ using (33)，we should subtract $\\varphi ( U = 0 , S W H = 0 )$ from $\\varphi ( U , { \\mathrm { S W H } } )$ at all grid points to ensure that the SSB is zero over a flat sea with no wind. We call this process‘zero-adjustment processing'. After MWP is introduced to a SSB model, zero-adjustment processing is very important. In this part, we discuss how to deal with zero-adjustment processing for both 2-D and 3-D SSB models. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For a 2-D SSB model based on SWH and MWP，we introduce two methods to do deal with this problem.In the first method (2D method 1),we ensure that the SSB will be zero if SWHiszero.Itisimplementedbysubtracting $\\varphi ( S W H = 0 , M W P _ { i } )$ from $\\varphi ( S W H , M W P _ { i } )$ at all grid points. The SSB is given in the form of a 2-D look-up table,so at each row, the obtained SSB $\\varphi ( \\mathbf { x } )$ with(33) will subtract the first SSB to ensure $\\varphi ( S W H = 0 , M W P _ { i } ) = 0$ 、In the second method (2D method 2), the obtained SSB estimates at all grid points subtract a same value.Fig.4 presents the distribution histograms of U, SWH and MWP.The range of MWP in our 2-D look-up table is O-18 s and the mean of MWP in our data set is about 9 s.Three values $\\varphi ( S W H = 0 , M W P = 0 )$ ， $\\varphi ( S W H = 0 , M W P = 9 s )$ and $\\varphi ( S W H = 0 , M W P = 1 8 s )$ are provided in this study.There are fewmeasurementswhen $\\scriptstyle \\mathbf { M } \\mathbf { W } \\mathbf { P = } 0$ or $\\mathrm { \\Delta M W P = 1 8 s }$ ，so $\\varphi ( S W H = 0 , M W P = 9 s )$ is more accurate compared with $\\varphi ( S W H = 0 , M W P = 0 )$ and （204号 $\\varphi ( S W H = 0 , M W P = 1 8 s )$ （204号 Therefore,the value $\\varphi ( S W H = 0 , M W P = 9 s )$ is the value selected in this study. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c4371e53d483f586bcde13cfbff3fd47cce053a172a848ab921abffcba01817.jpg",
+        "img_caption": [
+            "Fig.4.Histograms of U,SWH and MWP.Results are obtained with the data from the year of 2011 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For a 3-D SSB model based on U，SWH and MWP, zero-adjustment processing is more complex.The SSB is given as a 3-D look-up table. SWH, U and MWP are corresponding to the row,column and page.Like what we do for the 2-D SSB model based on MWP and SWH,we also introduce two methods to deal with this problem.For the first method(3-D method 1),we ensure that the SSB is zero when both U and SWH are zero.At each page, the obtained SSB $\\varphi ( \\mathbf { x } )$ from (33) will subtract the SSB value that lies in the first row and the first column to make $\\varphi ( S W H = 0 , M W P = 0 ) = 0 ,$ For the second method (3D method 2),a same value is subtracted from the obtained SSB at all grid points. Similar to the above 2-D SSB model, therearethreesuchvaluestoselectfrom: $\\varphi ( U = 0 , S W H = 0 , M W P = 0 ) \\quad , \\quad \\varphi ( U = 0 , S W H = 0 , M W P = 9 s )$ and $\\varphi ( U = 0 , S W H = 0 , M W P = 1 8 s )$ ．Similarly，there are few measurements when $\\scriptstyle \\mathbf { M W P = 0 }$ or $\\mathrm { M W P = 1 8 s }$ ，so the obtained value $\\varphi ( U = 0 , S W H = 0 , M W P = 9 s )$ is more accurate than the value $\\varphi ( U = 0 , S W H = 0 , M W P = 0 )$ aswell as the value $\\varphi ( U = 0 , S W H = 0 , M W P = 1 8 s )$ ．Therefore，the value $\\varphi ( U = 0 , S W H = 0 , M W P = 9 s )$ is the value we select. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We used the explained variance to evaluate different SSB models.Explained variance is the reduction in the variance of SSH differences obtained when applying the given SSB correction and it is a main criterion to assess the quality of a SSB model [2O]. Similar to what Tran did [3O],we computed the explained variance using several complete-year data sets. The year 2O11-version solutions are evaluated by not only 2011 measurements but also 2OO9 and 2O1O altimeter data.Results from 2oo9 version of the models are also provided for comparisons. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the 2-D (MWP and SWH) SSB models,we first calculated the explained variance using the global data.TABLE I presentsthe explainedvariance calculatedwith the data from 2009 to 2011. The 2-D SSB model with method 2 has larger explained variance in all cases.We then binned the data between $6 5 ^ { \\circ } \\mathrm { S }$ and $6 5 ^ { \\circ } \\mathrm { N }$ from 2011 into $1 0 ^ { \\circ }$ latitude bands and calculated the explained variance in each band.Fig.5 presents latitude distribution of the variance explained by the 2-D SSB models with method 1 and method 2 respectively versus the 1-D benchmark.The variance explained by the SSB model developed with method 2 is larger than that with method 1 at most latitudes. Therefore，the SSB model developed with method 2 is better and we will use the second method to develop the 2-D SSB model based on MWP and SWH. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/541b91dd0a58d167ed200d341b5d1eb8dfb4e215c4ab293b78c8a5ba72ba2fb3.jpg",
+        "table_caption": [
+            "TABLEI MAGNITUDE OF THE EXPLAINED VARIANCE OBTAINED USING THE 2-D SSB CORRECTIONMODELSWITHDIFFERENTMETHODS(RESULTS ARE CALCULATED WITH THE CROSSOVER DATA OF WHICHTHE TIME DIFFERENCES ARE LESS THAN9.91DAYS) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">SSB models</td><td colspan=\"3\">Explained Variance (cm²)</td></tr><tr><td colspan=\"3\">ValidationData Set</td></tr><tr><td>2009</td><td>2010</td><td>2011</td></tr><tr><td>2009 version,2D method1</td><td>38.04</td><td>37.95</td><td>38.29</td></tr><tr><td>2009 version,2D method2</td><td>38.27</td><td>38.15</td><td>38.24</td></tr><tr><td>2011 version,2D method1</td><td>36.44</td><td>36.58</td><td>37.05</td></tr><tr><td>2011 version,2D method2</td><td>38.34</td><td>38.38</td><td>38.83</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/217c0a2f16dd3db1eceb61997d1230df4ea079f06a0c52953896481e14474fb3.jpg",
+        "img_caption": [
+            "Fig.5.Latitude distribution of the variance explained by the 2-D(MWP and SWH) SSB models developed with method 1 and method 2 respectively in comparison to a 1D $( - 3 . 8 \\% \\mathrm { S W H } )$ benchmark.Results are obtained by crossover differences data binned into $1 0 ^ { \\circ }$ latitude bands. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the 3-D(U,SWH and MWP) SSB models,we used the same way as the 2-D SSB models to evaluate the two methods. TABLE II presents the explained variance calculated with the datafrom 2009 to 2011.Similar to the 2-D SSB models based onMWPand SWH, the 3-D SSB model with method2is better at a global scale.Fig.6 presents the latitude distribution of the variance explained by the 3-D SSB models with method1 and method 2 respectively versus the 1-D benchmark.The SSB model with method 2 is better than that with method1 at all latitudes.Therefore，for both 2-D and 3-D SSB models including MWP,subtracting a same value is a better choice. $\\varphi ( S W H = 0 , M W P = 9 s )$ and $\\varphi ( U = 0 , S W H = 0 , M W P = 9 s )$ are the values that should be subtracted fora2-D and 3-D SSB models respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/182b9562962dbe620e0d761fe8f0e77d669b1e68cc32f86827658a15577b0b34.jpg",
+        "table_caption": [
+            "TABLEII MAGNITUDE OF THE EXPLAINED VARIANCE OBTAINED USING THE 3-D SSB CORRECTIONMODELSWITHDIFFERENTMETHODS(RESULTSARE CALCULATED WITH THE CROSSOVER DATA OF WHICHTHE TIME DIFFERENCES ARE LESS THAN9.91DAYS) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">SSB models</td><td colspan=\"3\">Explained Variance (cm²)</td></tr><tr><td colspan=\"3\">ValidationData Set</td></tr><tr><td>2009</td><td>2010</td><td>2011</td></tr><tr><td>2009version,3D method1</td><td>37.27</td><td>37.31</td><td>37.78</td></tr><tr><td>2009 version,3D method2</td><td>39.17</td><td>39.22</td><td>39.63</td></tr><tr><td>2011 version,3D methodl</td><td>36.60</td><td>36.60</td><td>37.08</td></tr><tr><td>2011 version,3D method2</td><td>39.39</td><td>39.24</td><td>39.82</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8f1d8b5384394e2bf465fa390d14a89ff33fc3e9b4ea8229254c82b327a05c5.jpg",
+        "img_caption": [
+            "Fig.6.Latitude distribution of the variance explained by the 3-D(U,SWH and MWP) SSB models developed with method 1 and method 2 respectively in comparison to a 1D $( - 3 . 8 \\% \\mathrm { S W H } )$ benchmark.Results are obtained by crossover differences data binned into $1 0 ^ { \\circ }$ latitude bands. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "B. Comparison of the Contribution of U and MWP to the SSB ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to compare the contribution ofU and MWP to the SSB，we estimated the SSB from the crossover differences using two 2-D nonparametric models.The first 2-D model is based onUand SWH(2D_US) while the second 2-D model is based on MWP and SWH (2D_MS).The SSB estimates are shown in Fig.7 in the form of 2-D grids with contours given in cm.The two models are developed with one year data from 2011.As shown in Fig.7 (a)，the magnitude of the SSB generally increases with SWH. For a given SWH， the magnitude of the SSB first increases with U and then decreases at higher wind speeds,consistent with Gaspar's results [2O, 21]. However, the slope of the contour is positive in Fig.7 (b).For a given SWH，the magnitude of the SSB decreases with MWP. Results inFig.2(a) show that when the wave height is fixed, the nonlinearity is weakened with the increase of the wave period. Taking this into account,the result is reasonable. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/11ebd3102b304298e3411e4b83901d987a671c0d995fd6cfcdedca79d6f47fca.jpg",
+        "img_caption": [
+            "Fig.7.Jason-2 SSB estimates (in cm) obtained in (a) 2D_US and (b)2D_MS. Shaded areas represent data density:(dark gray) holding no data,(red) when it is between 5 between 30,(yellow) when itis between 30 and100,and (white) when it is larger than 1OO samples.The SSB lookup table is obtained with the crossover data from 2011 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To evaluate 2D_US and 2D_MS,we first calculated the explained variance using the global data from 2Oo9 to 2011. The SSB estimates are obtained with the crossover data whose time differences are less than 3 days.TABLE III presents the explained variance calculated with the crossover data of which the time differences are less than 3 days.The SSB correction should be added to the radar altimeter measurements of the sea surface height (SSH).TABLE II also gives the variance of the crossover SSH differences corrected for SSB.Ideally，the crossover SSH differences should be zero.However,because of ocean variability and some other correction errors,the crossover SSH differences are hardly zero.A better correction should decrease the variance of the crossover SSH differences. In fact,for two different models,the increase in the explained variance equals to the decrease in the variance of the crossover SSH differences.As shown in TABLE III,compared with 2D_US,2D_MS increases the explained variance by O.38-0.59 $\\mathrm { c m } ^ { \\bar { 2 } }$ The average of the six values (2D_MS -2D_US) is 0.47 $\\mathrm { c m } ^ { 2 }$ or $0 . 6 9 \\ \\mathrm { c m }$ RMS.The repeat cycle for Jason-2 is about 9.91 days. TABLE IV gives the results obtained by the crossover data whose time differences are less than 9.91 days. Compared with 2D_US，2D_MS increases the explained variance by $0 . 1 0 { - } 0 . 3 8 \\ \\mathrm { c m } ^ { 2 }$ .The average of the six values is 0.21 $\\mathrm { c m } ^ { 2 }$ ，or $0 . 4 5 ~ \\mathrm { c m }$ RMS. Therefore, the 2D_MS is better on a global scale. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc62877d5b64b7b600bb03271f965d1e6ac5a7ec605c05d191031b0a98e901fc.jpg",
+        "table_caption": [
+            "TABLE III MAGNITUDE OFEXPLAINEDVARIANCEOBTAINED USINGTHETWODIFFERENT2-D SSB CORRECTIONMODELS(RESULTS ARECALCULATED WITHTHE CROSSOVER DATA OF WHICHTHE TIME DIFFERENCES ARE LESS THAN3 DAYS) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">SSB Models</td><td colspan=\"2\">Explained Variance (cm²)</td><td colspan=\"2\">Variance of△SSH (cm²)</td></tr><tr><td></td><td>Validation Data Set</td><td>Validation Data Set</td><td></td></tr><tr><td>2009</td><td>2010 2011</td><td>2009 2010</td><td>2011</td></tr><tr><td>2009 version,2D_US</td><td>18.56 18.30</td><td>18.82</td><td>25.20 25.38</td><td>24.54</td></tr><tr><td>2009 version,2D_MS</td><td>18.94 18.76</td><td>19.23</td><td>24.82 24.92</td><td>24.13</td></tr><tr><td>2009 version,difference (2D_MS -2D_US)</td><td>0.38 0.46</td><td>0.41</td><td>0.38 0.46</td><td>0.41</td></tr><tr><td>2011 version,2D_US</td><td>18.52 18.30</td><td>18.83</td><td>25.24 25.39</td><td>24.53</td></tr><tr><td>2011 version,2D_MS</td><td>18.97</td><td>18.89 19.37</td><td>24.79 24.78</td><td>23.99</td></tr><tr><td>2011 version,difference (2D_MS-2D_US)</td><td>0.45</td><td>0.59 0.54</td><td>0.45 0.59</td><td>0.54</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/28826586ec566a3482df2dc99c5c6600f10e34966d133e7535ef91bf45ea5bda.jpg",
+        "table_caption": [
+            "TABLE IVMAGNITUDE OFEXPLAINED VARIANCE OBTAINEDUSINGTHETWODIFERENT2-DSSBCORRECTION MODELS(ESULTS ARECALCULATED WITHTHECROSSOVER DATA OFWHICHTHE TIME DIFFERENCES ARE LESS THAN 9.91DAYS)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">SSB Models</td><td colspan=\"2\">Explained Variance (cm2)</td><td colspan=\"2\">Variance of△SSH (cm²)</td></tr><tr><td colspan=\"2\">ValidationData Set</td><td colspan=\"2\">ValidationData Set</td></tr><tr><td>2009 2010</td><td>2011</td><td>2009</td><td>2010 2011</td></tr><tr><td>2009 version,2D_US</td><td>38.07 38.04</td><td>38.42</td><td>35.07</td><td>35.62 35.24</td></tr><tr><td>2009 version,2D_MS</td><td>38.27 38.15</td><td>38.52</td><td>34.87 35.50</td><td>35.14</td></tr><tr><td>2009 version,difference (2D_MS -2D_US)</td><td>0.20 0.11</td><td>0.10</td><td>0.2 0.12</td><td>0.1</td></tr><tr><td>2011 version,2D_US</td><td>38.10 38.07</td><td>38.57</td><td>35.04 35.58</td><td>35.09</td></tr><tr><td>2011 version,2D_MS</td><td>38.38 38.34</td><td>38.83</td><td>34.75 35.31</td><td>34.83</td></tr><tr><td>2011 version,difference (2D_MS -2D_US)</td><td>0.28 0.27</td><td>0.25</td><td>0.29</td><td>0.27 0.26</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e3b1d7f59723feaef9e3a06a937fa912ef29685f7ae3b321530dc10f8606d17.jpg",
+        "img_caption": [
+            "Fig.8.Latitude distribution of the variance explained by the $ { 2 \\mathrm { D } _ { - } }$ US and $ { 2 \\mathrm { D } _ { - } }$ MS respectively in comparison to a 1D $\\left( - 3 . 8 \\% \\mathrm { S W H } \\right)$ benchmark.Results are obtained by crossover differences data binned into $1 0 ^ { \\circ }$ latitude bands.Results are obtained with the data from 2011. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To assess the performances of $ { 2 \\mathrm { D } _ { - } \\mathrm { U S } }$ and 2D_MS at different regions,we binned the crossover data of which the time differences are less than 9.91 days into $1 0 ^ { \\circ }$ latitude bands and computed the explained variance in each band. Fig.8 presents the explained variance in comparison to a 1D （204号 $( - 3 . 8 \\% \\mathrm { S W H } )$ SSB model.2D_MS is better than 2D_US at most latitudes while 2D_US is better only above $5 0 ^ { \\circ } \\mathrm { S }$ and $5 0 ^ { \\circ } \\mathrm { N }$ At middle and low latitudes, 2D_MS is obviously better. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Therefore,MWP contributes more to the SSB at middle and lowlatitudes while at high latitudes U contributes more. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "C.SSB Estimated from the Crossover Differences by Using A 3-DNonparametricModel ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The 3-D SSB model based onU,SWHand MWP(3D_USM is finally presented as a 3-D lookup table and the ranges of U, SWHandMWP are respectively $0 { - } 3 0 \\mathrm { m / s }$ $0 { - } 1 2 \\mathrm { m }$ and 0-18s.U, SWHandMWParealldividedinto5Obands.Therefore, the 3-D SSB lookup table has 5O仓5O5O grid points.As shown in Fig.4, the mean values ofU,SWHand MWP are $7 . 7 3 ~ \\mathrm { m / s }$ $2 . 7 4 ~ \\mathrm { ~ m ~ }$ and 9.14 s respectively. There are nearly no observations when any of the three variables is beyond the range we give,so the rangesofU,SWHand MWPfor the 3-D lookup table are appropriate.In order to better represent the 3-D SSB model,we present the correction values in the form of 2-D arrays by fixing a third parameter.Contours of the SSB values are displayed in cm and shown inFig.9.The SSBlookup table is obtained with one year of data from year 2O11.The fixed values are near the mean values to ensure that there are enough measurements.In our study,the three fixed value we choose are $\\mathbf { M } \\mathbf { W } \\mathbf { P } = 9 \\mathbf { \\Lambda } \\mathbf { s }$ $\\mathrm { U } = 7 . 5 \\mathrm { m }$ and $\\mathrm { S W H } = 2 . 5 \\ : \\mathrm { m }$ respectively.Fig.9 (a) and (b) agree closely with Fig.7(a) and (b).When Uand MWP are fixed, the magnitude of the SSB is an increasing function of SWH.In contrast, the magnitude of the SSB is a decreasing functionofMWPwhenUand SWHare fixed.Inthe data-rich region, there is an approximately $4 \\mathrm { c m }$ variation versus MWP, with bias decreasing as the wave period increases.As shown in Fig.9(c),when SWHis fixed,variations with MWP are more obvious than that with U in data-rich region.For a given U, the magnitude of the SSB is a decreasing function of MWP. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Asanalyzed in Section II,in deep water the nonlinearityof the wave is mainly determined by the wave steepness,which is the ratio of the wave height and the wave length. EM bias, mainly caused by the nonlinearity of the wave,is the main component of the sea state bias.EM bias increases with the strengthening of the wave's nonlinearity.Therefore,EM bias varies with wave steepness.When the wave heightis fixed, the steepness is mainly determined by the wavelength. The wavelength generally varies with the wave period linearly. Therefore,as long as the wave heightis fixed, the wave period can determine the steepness and then affect the EM bias.With the increase of the wave period, the nonlinearity weakens,so the EM bias also decreases.Therefore, the results in Fig.9 are appropriate. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.1O compares the theoretical SSB derived from the Stokes theory with the SSB derived from the empirical SSB models.For the SSB derived from the Stokes theory，the abscissas of Fig.1O (a) andFig.1O (b) are the wave height (H) and wave period（T）respectively.However，for the SSB derived from the empirical SSB models,the abscissas ofFig.10 (a) and (b) are respectively the significant wave height (SWH) and mean wave period (MWP).The variation trend of the SSB derived from the empirical SSB modelsis consistent withthat derived from the Stokes theory in the whole.When other conditions are the same,the magnitude of the SSB is an increasing function of the wave height and is a decreasing function of the wave period.However,the theoretical SSB derived from the Stokes theory is a few centimeters lower than the empirical SSB correction in most regions. The lines determined by the empirical SSB correction with 3D_USM or 2D_MS are more close to straight lines than that determined by the theoretical SSB correction implied by the Stokes theory both in Fig.1O(a) and Fig.1O(b).The mechanism of the SSB is quite complex,the theoretical SSB derived from the Stokes theory in this paper is simplified.Many factors can affect the SSB and we can hardly describe the SSB only using the wave height and the wave period. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Since we have selected $\\varphi ( \\mathrm { U } = 0 , S W H = 0 , M W P = 9 s )$ to perform the zero-adjustment, there may be some positive SSB correction values.Fig. 11 presents the histogram of the 3-D SSB correction values. There are a small number of positive values,the percentage of which is only $0 . 0 1 6 \\%$ .The SSB should be negative in theory.However,only after all other errors are well corrected can the SSB model be developed. Some residual errors may affect the estimated SSB values, so a small number of positive estimated SSB values are acceptable. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a433e9badcb6df9ad14cc2437e9a6b061ec918bb287c62269a5effa97ccb491.jpg",
+        "img_caption": [
+            "Fig.9.Jason-2 SSB estimates (in cm) obtained in 3D_USM.This is shown by using three 2-D arrays with the respective third variable held constant. The fixed values are (a) $\\mathrm { { \\ M W P = 9 \\mathrm { { s } } } }$ ，(b) $\\mathrm { U } = 7 . 5 \\mathrm { m } / \\mathrm { s }$ ，(c) $\\mathrm { S W H } = 2 . 5 \\ : \\mathrm { m }$ respectively. Shaded areas represent data density: (dark gray) holding no data,(red) when it is between1 between 5,(yellow)when it is between 5 and1O,and (white) when it is larger than 1O samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/06085cebb3331644220bc490f017360546af23519df0aff061ea039f25103435.jpg",
+        "img_caption": [
+            "Fig.10.Comparison between the SSB derived from the Stokes theory and the SSB derived from the empirical SSB models.(a) For the SSB derived from the Stokes Theory,the wave period is fixed at ${ \\mathrm { T } } = 9 :$ s.Forthe SSBderived from 2D_MS,the mean wave period is fixed at $\\mathbf { M } \\mathbf { W } \\mathbf { P } = 9$ s.For the SSB derived from 3D_USM,the wind speed and the mean wave period are respectively fixed at $\\mathrm { U } = 7 . 5 \\ : \\mathrm { m } / \\mathrm { s }$ and $\\mathbf { M } \\mathbf { W } \\mathbf { P } = 9 ~ \\mathrm { { s } }$ .(b)For the SSB derived from the Stokes Theory, the wave height is fixed at $_ { \\mathrm { H } = 2 . 5 \\mathrm { m } }$ .For the SSB derived from 2D_MS, the significant wave height is fixed at $\\mathrm { S W H } = 2 . 5 \\ : \\mathrm { m }$ For the SSB derived from 3D_USM,the wind speed and the significant wave height are respectively fixed at $\\mathrm { U } { = } 7 . 5 ~ \\mathrm { m / s }$ and $\\mathrm { S W H } { = } 2 . 5 \\ \\mathrm { m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "As with the 2-D SSB models,we use the explained variance to assess the performance of the 3-D SSB model.The main objective is to determine whether the performance of 3D_USM is improved relative to 2D_US and 2D_MS.We first calculated the explained variance using the global crossover data from 2009 to 2O11.For comparison, we also calculated the explained variance using the SSB correction values in Jason-2 GDR. TABLE V presents the results calculated with the crossover data whose time differences are less than 3 days. The change from 2D_US to 3D_USM provides $1 . 2 5 { - } 1 . 4 0 \\mathrm { c m } ^ { 2 }$ improvement in the explained variance. The average of the six values (3D_USM-2D_US) is $1 . 3 2 ~ \\mathrm { c m } ^ { 2 }$ or $1 . 1 5 ~ \\mathrm { c m }$ in RMS sea level estimate improvement.Comparedwith2D_MS and the SSBin Jason-2 GDR product,3D_USM can increase the explained variance by respectively $0 . 8 4 \\mathrm { c m } ^ { 2 }$ and $1 . 6 1 \\mathrm { c m } ^ { 2 }$ ,or $0 . 9 2 \\mathrm { c m }$ and $1 . 2 7 \\mathrm { c m } \\mathrm { R M S }$ . TABLE VI gives the results calculated with the crossover data of which the time differences are less than 9.91 days.Similar to TABLE V,3D_USM provides the largest explained variance among all the SSB models in TABLE VI. Compared with 2D_US,3D_USM can decrease the variance of the SSH differences by $1 . 1 0 { - } 1 . 3 2 \\mathrm { c m } ^ { 2 }$ and the average of the six values (3D_USM-2D_US) is $1 . 2 0 \\mathrm { c m } ^ { 2 }$ ，or $1 . 0 9 \\mathrm { ~ c m ~ R M S }$ . The average of the explained variances increased by 3D-USM relative to $2 \\mathrm { D } \\_ \\mathrm { M S }$ and the SSB in Jason-2 GDR product are respectively $0 . 9 9 \\ \\mathrm { c m } ^ { 2 }$ and $1 . 3 8 ~ \\mathrm { c m } ^ { 2 }$ ，or $0 . 9 9 \\ \\mathrm { c m }$ and $1 . 1 8 ~ \\mathrm { c m }$ RMS.Therefore,the3-DSSBmodelis betterthanthe2-DSSB models on a global scale. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3110eb3e34eff232657b3a5cbd831b39a23723bcf5dd2fc7d07ce9298202d2e.jpg",
+        "img_caption": [
+            "Fig.11.Histogram of 3-D SSB correction values.Results are obtained by the data from 2011 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca548b6fe8fe083ba33f4bd5008f86b68fa6f8804c17886e48ec2f57e74c8700.jpg",
+        "table_caption": [
+            "TABLE VMAGNITUDEOFEXPLAINED VARIANCE OBTAINEDWITHTHEDIFERENT SSBCORRECTION MODELS(RESULTS ARECALCULATED WITHTHECROSSOVER DATA OF WHICH THE TIME DIFFERENCES ARE LESS THAN 3 DAYS)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">SSB Models</td><td colspan=\"3\">Explained Variance (cm2)</td><td colspan=\"3\">Variance of △SSH (cm²)</td></tr><tr><td colspan=\"3\">Validation Data Set</td><td colspan=\"3\">Validation Data Set</td></tr><tr><td>2009</td><td>2010</td><td>2011</td><td>2009</td><td>2010</td><td>2011</td></tr><tr><td>Jason2 GDR</td><td>18.28</td><td>18.00</td><td>18.54</td><td>25.48</td><td>25.68</td><td>24.82</td></tr><tr><td>2009 version,2D_US</td><td>18.56</td><td>18.30</td><td>18.82</td><td>25.20</td><td>25.38</td><td>24.54</td></tr><tr><td>2009 version,2D_MS</td><td>18.94</td><td>18.77</td><td>19.23</td><td>24.82</td><td>24.91</td><td>24.13</td></tr><tr><td>2009 version,3D_USM</td><td>19.81</td><td>19.60</td><td>20.09</td><td>23.95</td><td>24.08</td><td>23.27</td></tr><tr><td>2009 version,difference (3D_USM-2D_MS)</td><td>0.87</td><td>0.83</td><td>0.86</td><td>0.87</td><td>0.83</td><td>0.86</td></tr><tr><td>2009 version,difference (3D_USM-2D_US)</td><td>1.25</td><td>1.30</td><td>1.27</td><td>1.25</td><td>1.30</td><td>1.27</td></tr><tr><td>2009 version,difference (3D_USM-Jason2 GDR)</td><td>1.53</td><td>1.60</td><td>1.55</td><td>1.53</td><td>1.60</td><td>1.55</td></tr><tr><td>2011 version,2D_US</td><td>18.52</td><td>18.30</td><td>18.83</td><td>25.24</td><td>25.39</td><td>24.53</td></tr><tr><td>2011 version,2D_MS</td><td>18.97</td><td>18.89</td><td>19.37</td><td>24.79</td><td>24.78</td><td>23.99</td></tr><tr><td>2011 version,3D_USM</td><td>19.80</td><td>19.70</td><td>20.23</td><td>23.96</td><td>23.99</td><td>23.13</td></tr><tr><td>2011 version,difference (3D_USM-2D_MS)</td><td>0.83</td><td>0.81</td><td>0.86</td><td>0.83</td><td>0.81</td><td>0.86</td></tr><tr><td>2011 version,difference (3D_USM-2D_US)</td><td>1.28</td><td>1.40</td><td>1.40</td><td>1.28</td><td>1.40</td><td>1.40</td></tr><tr><td>2011 version,difference (3D_USM-Jason2 GDR)</td><td>1.58</td><td>1.70</td><td>1.69</td><td>1.58</td><td>1.70</td><td>1.69</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/be33596d64a9e41f85018ad71f89e253c01ec4cc56cddeb0be361e7a3b49acf9.jpg",
+        "table_caption": [
+            "TABLE VI MAGNITUDEOFEXPLAIEDVARIANCEOBTAIEDWITHTHEDIFERENTSSBCORRECTINMODLS ESULTSARECACULATEDWITHTHECROSSVERDATAOF WHICH THE TIME DIFFERENCES ARE LESS THAN 9.91 DAYS) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">SSB Models</td><td colspan=\"2\">Explained Variance (cm²)</td><td colspan=\"3\">Variance of △SSH (cm²)</td></tr><tr><td colspan=\"2\">Validation Data Set</td><td colspan=\"3\">Validation Data Set</td></tr><tr><td>2009</td><td>2010 2011</td><td>2009</td><td>2010</td><td>2011</td></tr><tr><td>Jason2 GDR</td><td>37.89</td><td>37.87 38.32</td><td>35.24</td><td>35.78</td><td>35.34</td></tr><tr><td>2009 version,2D_US</td><td>38.07</td><td>38.04 38.42</td><td>35.07</td><td>35.62</td><td>35.24</td></tr><tr><td>2009 version,2D_MS</td><td>38.27</td><td>38.15 38.52</td><td>34.87</td><td>35.50</td><td>35.14</td></tr><tr><td>2009 version,3D_USM</td><td>39.17</td><td>39.22</td><td>39.63 33.96</td><td>34.44</td><td>34.04</td></tr><tr><td>2009 version,difference (3D_USM-2D_MS)</td><td>0.90</td><td>1.07</td><td>1.11</td><td>0.91 1.06</td><td>1.10</td></tr><tr><td>2009 version,difference (3D_USM-2D_US)</td><td>1.10</td><td>1.18</td><td>1.21 1.11</td><td>1.18</td><td>1.20</td></tr><tr><td>2009 version,difference (3D_USM-Jason2 GDR)</td><td>1.28</td><td>1.35</td><td>1.31 1.28</td><td>1.34</td><td>1.30</td></tr><tr><td>2011 version,2D_US</td><td>38.10</td><td>38.07</td><td>38.57</td><td>35.04 35.58</td><td>35.09</td></tr><tr><td>2011 version,2D_MS</td><td>38.38</td><td>38.34</td><td>38.83</td><td>34.75 35.31</td><td>34.83</td></tr><tr><td>2011 version,3D_USM</td><td>39.24</td><td>39.39</td><td>39.80</td><td>33.89 34.26</td><td>33.86</td></tr><tr><td>2011 version,difference (3D_USM-2D_MS)</td><td>0.86</td><td>1.04</td><td>0.97</td><td>0.86 1.05</td><td>0.97</td></tr><tr><td>2011 version,difference (3D_USM-2D_US)</td><td>1.14</td><td>1.32</td><td>1.23</td><td>1.15 1.32</td><td>1.23</td></tr><tr><td>2011 version,difference (3D_USM-Jason2 GDR)</td><td>1.35</td><td>1.52</td><td>1.48</td><td>1.35 1.52</td><td>1.48</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the performance of 3D_USM at different latitudes,we binned the crossover data whose time differences are less than 9.91 days into $1 0 ^ { \\circ }$ latitude bands and computed the explained variance in each band. The explained variance relative to the 1D ( $( - 3 . 8 \\% \\mathrm { S W H } )$ SSB model is shown in Fig.12 Fig.13 presents the mean values and the standard deviations (Std) of SWH,U and MWP respectively.Like Gaspar's results in 1994 [2],the standard deviations of both SWH and U increasewiththelatitude.However,MWPdiffersalotfromU and SWH.The mean value of MWP is larger in the southern hemisphere while the standard deviation is larger in the northern hemisphere.Both the mean value and the standard deviation ofMWP are the largest at middle latitudes both in the southern and northern hemisphere.As described by Gaspar and Tran [2，25]，the variances explained by all SSB models increase towards the poles because the standard deviations of both U and SWH increase towards the poles.The explained variance at the equatorial is very small because of the small standard deviation of SWH. The explained variance is very highat high latitudes because the standard deviations ofUand SWH are very large. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.12,3D_USM is the best of all the SSB models.Compared with 2D_US，3D_USM is better at all latitudes.At most latitudes,the improvement is more than 1 $\\mathrm { c m } ^ { 2 }$ .The improvement is obvious at low and middle latitudes. Compared with the 2D_MS，3D_USM also increases the explained variances at alllatitudes,especially at highlatitudes. This indicates thatU obtains some SSB information that cannot be explained only by SWH and MWP.The wind speed can affect the roughness of the sea surface and then affect the radar cross section.According to the theoretical explanation of the EMbias, the general definition of the EMbias is the normalized correlation between the radar cross section and the long wave elevation [8,9].As explained in Millet's research [11], non-Gaussian long-wave statistics and the hydrodynamic modulation of short-wave amplitudes are the two major contributors to the EM bias. The presence of wind-generated small-wave roughness is crucial to the portion of the bias caused by hydrodynamic modulation，so the EM bias is affectedbythelocal wind speed.As shown inFig.13,athigh latitudes,the standard deviation of U is very high while the standard deviation of MWP is relatively low.At these latitudes, U may contain more SSB information than that MWP contains. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/60054ffe9fd5e37e98293b7e61cc400789c13024adff96cfabff499618c65965.jpg",
+        "img_caption": [
+            "Fig.12.Latitude distribution of the variance explained by 3D_USM,2D_US and $\\mathrm { 2 D \\_ M S }$ respectively in comparison to a 1D $( - 3 . 8 \\% \\mathrm { S W H } )$ benchmark.The variance explained by the SSB corrections in Jason-2 GDR data is also given. Results are obtained with the crossover data from 2011 "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "s (s) JI Jo GS D 9 □ 9.5 8 1 □ 9 7 国 2 2 8.5 k A 白 6 马   \n-50 0 50 -50 0 50 -50 0 50   \nLatitude (degrees) Latitude (degrees) Latitude (degrees)   \n百q 明 (s/u) n Jo pis A q 2 □ 3.5   \n1.2 1.7   \n1 3   \nd 1.6   \ns0.8 2.5 P 1.5   \n0.6 1.4   \n-50 0 50 -50 0 50 -50 0 50   \nLatitude (degrees) Latitude (degrees) Latitude (degrees) ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/b520a5438c20b5a5d53437cc42735c2de4eec0687243ed75d719da783f86625c.jpg",
+        "img_caption": [
+            "Fig.13.Latitude distribution of the mean and the standard deviation of SWH,U and MWP.Results are obtained with the data from 2011. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In order to assess the performance of 3D_USM at different time intervals,we binned the crossover data from 2O11 into 1-day bands and computed the explained variance in each band. The explained variance in comparison to the 1D( $( - 3 . 8 \\% \\mathrm { S W H } )$ （204号 SSB model is shown in Fig.14.The variances explained by all the SSB models increase with the time intervals.The dynamic topography and tide varies with the time.When the time interval is large,the fluctuations of the dynamic topography and tides will be great, therefore,the SSH differences vary greatly.As shown in Fig.14,the performance of 3D_USM is the best in all bands. The improvement from 2D_US to 3D_USM is more than $1 \\mathrm { c m } ^ { 2 }$ in most bands.The improvement is almost the same in all bands.There is a great jump in explained variance going from O.5 day to 1.5 day. There may be two reasons.On the one hand,at the same crossover point within a day, SWH, U and MWP measured from the ascending pass are almost the same as that measured from the descending pass.Therefore,the SSB difference is small at the same point and the SSB differences make little contribution to the SSH differences.On the other hand,ocean variability is very weak within a day,so the variance of the SSH differences is very small. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "As discussed above,3D_USM is better than the 2-D SSB models at all altitudes and all time intervals.This improvement can be seen as a great improvement in comparison to 2D_US and 2D_MS. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "D.Comparison between the Jason-2 Derived SLA with In-situ Measurements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Sea level anomaly(SLA) is an important parameter used in oceanographic investigations.SLA is obtained by subtracting the mean sea surface (MSS）from the instantaneous SSH measurements.The MSS model CLS2O11 is used in this study. In order to know whether the 3-D SSB estimates can improve the accuracyof SLA,we compared the satellite derived SLA with some tide gauge measurements from Senetosa in Corsica island calibration/validation site.In Senetosa,main calibration site for T/P and Jason missions is located at $4 0 \\mathrm { k m }$ fromAjaccio Fig.15 presents the general configuration of Corsica absolute calibration site.There are three tide gauges (M3,M4 and M5) submerged on both sides of pass O85 of Jason-2.M4 and M5 are installed very close together ( $\\cdot < 3 0 \\ \\mathrm { c m } )$ ,in order to monitor databetter. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fcf88caa993e5ac8645cc4146339cbf10d52f5930121b5ac32d9a254549d63d.jpg",
+        "img_caption": [
+            "Fig.15.Map of Corsica absolute calibration site "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ae9ac11c1d4a2ce20ba125b32e88f1e4231c30893af61a95df5042e225b9234.jpg",
+        "img_caption": [
+            "Fig.14.Variation with time differences of the variance explained by the 3D_USM,2D_US and 2D_MS in comparison to a 1D $( - 3 . 8 \\% \\mathrm { S W H } )$ benchmark. The variance explained by the SSB corrections in Jason-2 GDR data is also given.Results are obtained with the crossover data of which the time differences are less than 9.91 days. ",
+            "Fig.16.Comparison of Jason-2 derived SLA and tide gauge derived SLA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We used the data from cycle 50 to cycle 15O of Jason-2 GDR.Fig.16 presents the M5 tide gauge derived SLA, Jason-2 derived SLA with 2-D SSB estimates and 3-D SSB estimates respectively. Jason-2 derived SLAs with both 2-D SSB estimates and 3-D SSB estimates agree closely with the M5 tide gauge derived SLA in the whole.TABLE VII presents Jason-2 SLA bias from tide gauges. As shown in TABLE VI, the variance of Jason-2 SLA bias from the tide gauges can be reduced by $0 . 6 2 – 0 . 6 7 ~ \\mathrm { ~ c m } ^ { 2 }$ when replacing the 2-D SSB estimates with the 3-D SSB estimates. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/06f3f971b0d353dfa5607f380f6329f448ca34065cda2f7fb01ef3458278c41c.jpg",
+        "table_caption": [
+            "TABLEVII JASON-2SLABIASFROMTIDEGAUGES "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Tide Gauge</td><td>SSB model</td><td>Mean (cm)</td><td>Variance (cm2)</td></tr><tr><td rowspan=\"3\">M3</td><td>GDR SSB</td><td>20.22</td><td>13.25</td></tr><tr><td>2-D SSB</td><td>17.49</td><td>12.47</td></tr><tr><td>3-D SSB</td><td>14.19</td><td>11.83</td></tr><tr><td rowspan=\"3\">M4</td><td>GDR SSB</td><td>19.52</td><td>12.11</td></tr><tr><td>2-D SSB</td><td>16.12</td><td>11.63</td></tr><tr><td>3-D SSB</td><td>13.66</td><td>10.96</td></tr><tr><td rowspan=\"3\">M5</td><td>GDR SSB</td><td>19.55</td><td>9.80</td></tr><tr><td>2-D SSB</td><td>16.60</td><td>9.86</td></tr><tr><td>3-D SSB</td><td>13.42</td><td>9.24</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "$E .$ ThePerformanceof the 3-D SSBEstimatesin the Coastal Regions ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The open-ocean altimetry is mature and is a great success for satellite-based Earth Observation.However, the coastal zone is animportant domain where altimetry remainsgrossly underexploited. Changing circulation, sea level and sea state have by far the largest impact on human society.Retracking algorithms and the geophysical corrections are the crucial territories for coastal altimetry.Therefore, the improvement of the SSB corrections is very important for coastal altimetry.In this part, we aim to assess the performance of the 3-D SSB estimates in the coastal regions. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/a28832c1d2c1c714313d77f14e3c2a0a1643510f2f8671ffda2dc88b95dcd260.jpg",
+        "img_caption": [
+            "Fig.17.Differences of variances:Variance of the crossover SSH differences with the 3-D SSB estimates -Variance of the crossover SSH differences with the 2-D SSB estimates.Results are obtained with the data from 2OO9-2O11 and derived with 5km-bands. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Crossover SSH differences are the main tool to analyze the overall altimeter system performance.They allowus to analyze the SSH consistency between ascending and descending passes [37,38].We binned the data between the coast and $1 0 0 \\mathrm { k m }$ offshore into 5km-bands and computed the crossover SSH variance differences(the variance of the crossover SSH differences with the 3-D SSB estimates minus the variance of the crossover SSH differences with the 2-D SSB estimates)in each band.The results in the $0 { - } 1 0 \\mathrm { k m }$ band are discarded due to the presence of land in the altimeter footprint.Results are shown inFig.17.The variance of the crossover SSH differences can be reduced in the whole coastal regions by using the 3-D SSB estimates.In the $1 0 { - } 2 0 ~ \\mathrm { k m }$ band,the reduction of the variance of the crossover SSH differences from the 2-D SSB estimates to the 3D SSB estimates is extremely high and it may be due to the little number of the crossover points in these bands. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/db9750ae01bed84f38ff40af51f9cc6e8468bac5548e3f1283cd949da80ab376.jpg",
+        "img_caption": [
+            "Fig.18.Differences of variances:Variance of the along track SSH differences with the 3-D SSB estimates -Variance of the along track SSH differences with the 2-D SSB estimates.Results are obtained with the data from 2OO9-2O11 and derived with 5km-bands. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/133862378e2ca92f825a6db4efc234fc6080524dbdde9cff2292606139399d23.jpg",
+        "img_caption": [
+            "Fig.19.Differences of variances:Variance of the along track SSHdifferences with 3D SSB -Variance of the along track SSH differences with 2D SSB. Results are obtained with the data from $2 0 0 9 \\ - \\ 2 0 1 1$ and derived with $2 0 \\mathrm { k m }$ -bands. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In the coastal regions,the number of the valid crossover points is relatively small and the results may be not convincing froma statistical point of view.A more robust assessment is to compare the along track SSH differences for each SSB solution. Every location along the Jason-2 ground-track is measured very approximately 9.91 days.We binned the data between the coast and $1 0 0 \\mathrm { k m }$ offshore into $5 \\mathrm { k m }$ -bands and computed the along track SSH variance differences (the variance of the along track SSH differences with the 3-D SSB estimates minus the variance of the along track SSH differences with the 2-D SSB estimates) in each band.The results in the $0 { - } 1 0 \\mathrm { k m }$ band are also discarded Results are shown in Fig.18.Compared with the 2-D SSB estimates,the 3-D SSB estimatescanreduce thevariance of the along track SSH differences in the whole coastal regions. The reduction of the variance of the along track SSH differences from the 2-D SSB estimates to the 3D SSB estimates increases with the distance from the coast. To compare the performances of the 3-D SSB estimates in the coastal regions and in the open-ocean regions respectively，we binned the data between the coast and $1 0 0 0 \\mathrm { k m }$ offshore into $2 0 \\mathrm { k m }$ -bandsand computed the along track SSH variance differences in each band.Results are shown in Fig.19.Similar to the results in Fig.18,the reduction of the variance of the crossover SSHdifferences from the 2-D SSB estimates to the 3D SSB estimates increases with the distance from the coast.Because all the other conditions are the same， the improvement of the SSH is due to the improvement of the SSB corrections. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Asanalyzed above,both the crossover SSH differences variance and the along track SSH differences variance can be reduced in the whole coastal regions by replacing the 2-D SSB estimates with the 3-D SSB estimates.This means that the 3-D SSB estimates can improve the whole altimetry system performance in the coastal regions.However, the improvement from the 2-D SSB estimates to the 3-D SSB estimates in the coastal regionsisrelativelysmall compared withthe improvement in the open-ocean regions.In shallow waters, waterdepth can greatlyaffect the nonlinearity of the seasurface and therefore affect the SSB.In the future, we will further study the SSB in the coastal regions and introduce the bathymetry or some other parameters to the SSB model for coastal altimetry. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "$F$ 、Comparison with the 3-D SSB Models Using the Wave Period fromWaveWatch3 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1) Comparison with the 3-D SSB model using the wave mean period from WaveWatch3:The mean wave period Tran used is estimated from a numerical ocean wave model,NOAA's WaveWatch3 (NWW3). NWW3 was run on a global $1 ^ { \\circ } \\times 1 ^ { \\circ }$ grid ata6 hourly time step and ECMWF wind fields were used to force the wave model in Tran's study. The mean wave period we used in this paper is provided by ECMWF reanalysis ERA-Interim directly and we do not have to run the wave model by ourselves. The mean wave period (MWP） from ERA-Interim is based on -1 spectral moment $( m _ { - 1 } / m _ { 0 } )$ . On the contrary, the mean wave period(Tm) estimated from NWW3 in Tran's 3-D SSB model is based on 1 spectral moment $( m _ { 0 } / m _ { 1 } )$ （20 Moreover,the mean wave period from ERA-Interim is modeled with theWave Model(WAM).BothWAM andWaveWatch3 are the third generation wave models.WaveWatch3 is in the spirit of the WAM model but differs from WAM in in many important points such as the governing equations,the model structure, thenumerical methods andthephysical parameterizations. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In the NWW3 products provided by the National Oceanic andAtmosphericAdministration/NationalCenterfor Environment Prediction/National Weather Service (NOAA/NCEP/NWS), the mean wave period is not provided overa long time period.Therefore,if we want to use the mean wave period to develop the 3-D SSB model,we have to run the WaveWatch3 model by ourselves.In thispaper,WaveWatch3 was run on a $0 . 2 5 ^ { \\circ } \\times 0 . 2 5 ^ { \\circ }$ grid and at a one hourly time step. The mean wave period (Tm） we used is obtained from September 2,2014 to October 21,2014 over the integration domain from $7 ^ { \\circ } N$ to $4 5 ^ { \\circ } N$ in latitude and $1 0 5 ^ { \\circ } E$ to $1 5 0 ^ { \\circ } E$ in longitude.Fig.2O presents the distribution of Jason-2 ground tracks we used to develop the SSB models.There are only a small amount of crossover points, so we used the collinear data set to develop the SSB models in this part. The SSB models developed with thecollineardata and the crossover data are identical from the methodology point of view． All the measurements are interpolated onto a reference track of Jason-2 and the collinear differences are the differences between two repeat cycles. The two 3-D SSB models using MWP from ERA-Interim and Tm from WaveWatch3 respectively are developed with the same collinear data set.Furthermore,to assess the performance of the two 3-D SSB models,we also developed three different 2-D SSB models. The spatial resolution of MWP from ERA-Interim we used to form the collinear data isalso $0 . 2 5 ^ { \\circ } \\times 0 . 2 5 ^ { \\circ }$ · ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As with the SSB models developed with the crossover data, we also use the explained variance to assess the performance of different SSB models in this part.Fig.21 presents the corresponding explained variance by different SSB models tested across the collinear data. The 3-D SSB model using MWP from ERA-Interim displays the highest reduction with $3 4 . 1 0 ~ \\mathrm { c m } ^ { 2 }$ .The 2-D SSB model based on SWH from Jason-2 GDR and MWP from ERA-Interim displays a little higher reduction compared with the traditional 2-D SSB model based Uand SWH fromJason-2.The 2-D SSBmodelbased on SWH fromJason-2GDRandTmobtained fromWaveWatch3yielda decrease in total variance of $3 2 . 6 3 \\mathrm { c m } ^ { 2 }$ ,which is $0 . 1 8 \\mathrm { c m } ^ { 2 }$ lower than that explained by the 2-D SSB model based on U and SWHfromJason-2 GDR.In Tran's studyin 2006 [25], the SSB model based on SWH from Jason-1 GDR and Tm obtained from WaveWatch3 also yields $0 . 4 \\ \\mathrm { c m } ^ { 2 }$ explained variance lower than that explained by the 2-D SSB model based on U and SWH from Jason-1 GDR.However, the 3-D SSB model based on $\\mathrm { ~ U ~ }$ and SWH from Jason-2 GDR and Tm from WaveWach3 displays higher reduction than the traditional 2-D SSB model. Therefore,both the two 3-D SSB models using MWP fromERA-Interimand Tm estimated from WaveWatch3 respectively are able to reduce the total variance in the SSH differences relative to the traditional 2-D SSB models. ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/b710974a148fd36d16e4747b3718ee09a625ef9c10bcdde70df4e4805505ffb2.jpg",
+        "img_caption": [
+            "Fig.20. Distribution of Jason-2 ground tracks used to develop the SSB model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/88d4a5c2ada607b79b2915a30f45187f0af54332496dec310a01c8b5c550ab5c.jpg",
+        "img_caption": [
+            "Fig.21.Reduction in variance of SSH differences performed by the different SSB models on the collinear data set. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2) Comparison with the 3-D SSB model using the peak wave period from WaveWatch3: The mean wave period is not provided over a long time period in the NWW3 products from NOAA/NCEP/NWS.However, the peak wave period $( \\mathrm { T p } )$ is directly provided in WaveWatch3 version 2.22 hindcast reanalysis product,which provides the peak wave period from Aug 1999 up to now. We aim to develop a 3-D SSB model based on U and SWH from Jason-2 GDR data and Tp from WaveWatch3 version 2.22 hindcast reanalysis product using the crossover data set. The peak wave period we used to develop the 3-D SSB model is on a 6 hourly temporal and $0 . 2 5 ^ { \\circ }$ spatial resolution which covers the globe from $9 0 ^ { \\circ } S$ to $9 0 ^ { \\circ } N$ ： ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "TABLE VIlI presents the magnitude of the explained variances obtained with several SSB models.Fig.22 presents latitude distribution of the variance explained by several SSB models respectively in comparison to a 1D（ $( - 3 . 8 \\% \\mathrm { S W H } )$ （204号 benchmark.As shownin TABLEVIIIandFig.22, the 3-D SSB model using the peak wave period from WaveWatch3 version 2.22 hindcast reanalysis product is better than the traditional 2-D SSB model based onU and SWH.However, the 3-D SSB model using the peak wave period is not as good as the 3-D SSB model using the mean wave period from ECMWF reanalysis ERA-Interim.There may be two reasons for the differencesbetween the two 3-D SSB models.On the one hand, the mean wave period from ERA-Interim is obtained from WAM model while the peak wave period from WaveWatch3 version 2.22 hindcast reanalysis product is obtained from WaveWatch3 model. On the other hand, the influence of the mean wave period on the SSB may differ from that of the peak wave period on the SSB. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "As discussed above, the 3-D SSB model using the mean wave period or the peak wave period has positive impact on reducing the variance in sea level measurements relative to the traditional 2-D SSB model. The mean wave period can be defined in many ways and depend on different spectral moments. ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { 0 , - 2 } = \\sqrt { \\frac { m _ { - 2 } } { m _ { 0 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { 0 , - 1 } = \\frac { m _ { - 1 } } { m _ { 0 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { 0 , 1 } = \\frac { m _ { 0 } } { m _ { 1 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { 0 , 2 } = \\sqrt { \\frac { m _ { 0 } } { m _ { 2 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { _ x } = \\iint S ( f , \\theta ) f ^ { x } d f d \\theta$ representsthestatistical moments derived from the directional wave elevation density spectrum, $S ( f , \\theta )$ ，with frequency $f$ and wave propagation direction $\\theta$ ． The mean wave period Tran used to develop the 3-D SSB model is $T _ { 0 , 1 }$ ．The mean wave period from ERA-Interim is $T _ { 0 , - 1 }$ . Future efforts will attempt to develop 3-D SSB models using different wave periods and find out which wave period contributes most to the SSB. ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb812ab78ff592bb762f3bf1e83eefe6ede83e236fe763fc47e4e9115782a9ae.jpg",
+        "img_caption": [
+            "Fig.22.Latitude distribution of the variance explained by several SSB models respectively in comparison to a 1D $( - 3 . 8 \\% \\mathrm { S W H } )$ benchmark.Results are obtained with the crossover data from 2011. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf255e92d58b7109bdbfa64f2f412ec90871b71204a43e8550d742ef191a4866.jpg",
+        "table_caption": [
+            "TABLEVIII MAGNITUDE OF EXPLAINED VARIANCE OBTAINED USING THE DIFFERENT SSB CORRECTION MODELS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"4\">SSB Models</td><td colspan=\"2\">Explained Variance (cm²)</td><td colspan=\"2\">Explained Variance (cm²)</td></tr><tr><td colspan=\"2\">(time difference <3days)</td><td colspan=\"2\">(time difference <9.91 days)</td></tr><tr><td colspan=\"2\">Validation Data Set</td><td colspan=\"2\">Validation Data Set</td></tr><tr><td>2009</td><td>2010 2011</td><td>2009</td><td>2010 2011</td></tr><tr><td>2009 version,2D</td><td>18.25</td><td>18.74</td><td>38.04 38.17</td><td>38.49</td></tr><tr><td>2009 version,3D_NWW3_Tp</td><td>18.47 18.88 18.65</td><td>19.12</td><td>38.49 38.70</td><td>38.96</td></tr><tr><td>2009 version,3D_ECMWF_MWP</td><td>19.71 19.54</td><td>19.98</td><td>39.13 39.33</td><td>39.56</td></tr><tr><td>2009 version,difference (3D_NWW3_Tp - 2D)</td><td>0.41 0.40</td><td>0.38</td><td>0.45 0.53</td><td>0.47</td></tr><tr><td>2009 version,difference (3D_ECMWF_MWP-2D)</td><td>1.24 1.29</td><td>1.24</td><td>1.09 1.16</td><td>1.07</td></tr><tr><td>2011 version, 2D</td><td>18.45 18.25</td><td>18.75</td><td>38.08 38.21</td><td>38.54</td></tr><tr><td>2011 version,3D_NWW3_Tp</td><td>18.89 18.69</td><td>19.17</td><td>38.56 38.74</td><td>39.06</td></tr><tr><td>2011version,3D_ECMWF_MWP</td><td>19.71 19.67</td><td>20.16</td><td>39.22 39.54</td><td>39.82</td></tr><tr><td>2011 version,difference (3D_NWW3_Tp - 2D)</td><td>0.44 0.44</td><td>0.42</td><td>0.48 0.53</td><td>0.52</td></tr><tr><td>2011version,difference (3D_ECMWF_MWP-2D)</td><td>1.26 1.42</td><td>1.41</td><td>1.14 1.33</td><td>1.28</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "VI.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Operational SSB models are based on altimeter-measured U and SWH. In this study，we estimate the SSB from the crossover differences by using a 3-D nonparametric model based on U,SWH from Jason-2 GDR data and MWP from ECMWF reanalysis project ERA-Interim. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "We first simulated the profiles of the sea surface in deep water with the fourth order Stokes wave theory to study the relationship between the wave period and the SSB.Results show that the wave period may greatly affect the SSB.This provides theoretical support for introducing the mean wave period to the empirical SSB correction models. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Compared witha 2-D SSB model based onUand SWH, the lookup table fora 3-D SSB model basedonU,SWHand MWP has many more grid points.Thus,the 3-D SSB estimation requires much more computation time.We introduced LSMR iterative algorithm and improved the traditional local linear regression estimator,so the computation time was greatly reduced. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "After introducing the mean wave period to the SSB models developed with nonparametric estimation method,we should pay attention to the zero-adjustment processing. We gave and compared two methods for both 2-D and 3-D SSB models. Model skills are evaluated in terms of the explained variance. We compared two 2-D SSB models (2D_US and 2D_MS).We first calculated the explained variance with the global data and results indicate that 2D_MS is better on a global scale.We then binned the crossover data into $1 0 ^ { \\circ }$ latitude bands and computed the explained variance in each band.Results show that 2D_MS is better than 2D_US at most latitudes.We compared the 3-D SSBmodel(3D_USM) with the two2-D SSBmodels aswell as the SSB correction in Jason-2 GDR product.Results indicate that the variance explained by 3D_USM increases by $1 . 3 2 \\mathrm { c m } ^ { 2 }$ and $0 . 8 4 \\mathrm { c m } ^ { 2 }$ relative to that explained by 2D_US and 2D_MS respectively. Spatial evaluation of improvement shows that ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3D_USM is better than both 2D_US and 2D_MS at all latitudes. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "SLA is an important traditional parameter used in oceanographic investigations.We compared the Jaon-2 derived SLA with the tide gauge derived SLA at Corsica absolute calibration site.Results show that the variance of Jason-2 SLA bias from the tide gauges can be reduced by $0 . 6 2 – 0 . 6 7 \\ \\mathrm { c m } ^ { 2 }$ when replacing the 2-D SSB estimates with the 3-D SSB estimates. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The SSB correction is very important for the coastal altimetry.We tested the performance of the 3-D SSB estimates in the coastal regions. The variance of the crossover SSH differences as well as the variance of the along track SSH difference was used to assess the 2-D and 3-D SSB estimates. Compared with the 2-D SSB estimates,the 3-D SSB estimates perform better in the whole coastal regions. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Unlike Tran's 3-D SSB model, we used the mean wave period from ECMWF reanalysis project ERA-Interim instead ofthatfromNOAA'sWaveWatch3model.We described some agreements and disagreements between the two sources of the meanwave period.We first compared the two 3-D SSB models using MWP from ERA-Interim and Tm estimated from WaveWatch3 model respectively.Results show that the 3-D SSB model using MWP from ERA-Interim has higher reductioninthe totalvarianceof theSSHdifferences.Wethen developed a 3-D SSB model using the peak wave period from WaveWatch3version 2.22hindcastreanalysisproduct produced byNOAA/NCEP/NWS and compared itwith the 3-D SSB model using MWP from ERA-Interim.The 3-D SSB model using MWPfromERA-Interimperforms better than the 3-D SSB model using the peak wave period in the whole and at all latitudes. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The operational SSB models applied to the SSB correction for Jason-1 and Jason-2 are developed from SSH differences. Besides,the ECMWF products are widely used in altimeter level 2 processing.Both the dry troposphere path delay correction and the inverted barometer correction use the data from ECMWF atmospheric pressure products.The ECMWF numerical weather prediction models may also provide a wet tropospheric correction for Jason-1 and Jason-2 GDR products. Therefore,the method presented in this paper to estimate the SSB is very practical for the SSB correction in radar altimeter measurements of sea level. The results in this study are obtained with Jason-2 GDR data.The same method need to be applied to other altimeter mission data to insure that the method presented in this study is applicable to all data sets. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENT ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The Jason-2 GDR data and the tide gauge data used in this paper are downloaded from AVIsO (ftp://avisoftp.cnes.fr). The meanwaveperiodisobtainedfromERA-Interim (http://apps.ecmwf.int/datasets/data/interim-full-daily/).The peakwaveperiodis downloaded from NOAA/NCEP/NWS (http://polar.ncep.noaa.gov/waves/download.shtml).We would like to express appreciation to AVISO,ECMWF and NWS for providing us with data.Besides,we would like to express appreciation to East China Sea Marine Forecasting Center of State Oceanic Administration for providing us with ocean wave numerical forecastdataobtained fromWaveWatch3. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "A．Pseudo-code forLSMR ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "LSMR is used to solve the systems of linear equations $\\mathbf { A x } = \\mathbf { b }$ . If the system is inconsistent,it solves the least-squares problem min $\\left\\| \\mathbf { b - A x } \\right\\| _ { 2 }$ . In this paper, we use the LSMR to solve equation (35). $\\mathbf { B _ { 1 } }$ ， $\\boldsymbol { \\varphi }$ and $\\mathbf { A y } - \\mathbf { B _ { 0 } } \\varphi _ { 0 }$ are corresponding to A, $\\mathbf { x }$ and $\\mathbf { b }$ respectively. We only give the basic steps for the LSMR algorithm.If the readers want to know more about the LSMR algorithm, they can refer to the literature [36] or the web site http://web.stanford.edu/group/SOL/software/lsmr/. 1. (Initialize) ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r l r l r l } & { \\mathbf { \\beta } _ { 1 } \\mathbf { u } _ { 1 } = \\mathbf { b } } & { \\mathbf { a } _ { 1 } \\mathbf { v } _ { 1 } = \\mathbf { A } ^ { \\mathrm { T } } \\mathbf { u } _ { 1 } } & & { \\mathbf { \\overline { { a } } } _ { 1 } = \\mathbf { a } _ { 1 } } & { \\mathbf { \\overline { { \\leq } } } _ { 1 } = \\mathbf { a } _ { 1 } \\mathbf { \\beta } _ { 1 } } & & { \\mathbf { \\rho } _ { 0 } = 1 } \\\\ & { \\mathbf { \\overline { { \\mathbf { p } } } } _ { 0 } = 1 } & { \\mathbf { \\overline { { c } } } _ { 0 } = 1 } & & { \\mathbf { s } _ { 0 } = 1 } & & { \\mathbf { h } _ { 1 } = \\mathbf { v } _ { 1 } } & & { \\mathbf { \\overline { { h } } } _ { 0 } = 0 } & & { \\mathbf { x } _ { 0 } = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2. For $\\mathrm { k } { = } 1 , 2 , 3 \\ldots$ ,repeat steps 3-6 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "3.(Continue the bidiagonalization) ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\big \\{ \\beta _ { k + 1 } \\mathbf { u } _ { k + 1 } = \\mathbf { A } \\mathbf { v } _ { k } - \\mathbf { a } _ { k } \\mathbf { u } _ { k } \\qquad \\mathbf { a } _ { k + 1 } \\mathbf { v } _ { k + 1 } = \\mathbf { A } ^ { \\mathrm { T } } \\mathbf { u } _ { k + 1 } - \\big \\mathbf { \\beta } _ { k + 1 } \\mathbf { v } _ { k } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4. (Construct and apply rotation ${ \\bf P _ { k } }$ ）",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\begin{array} { c c } { \\mathbf { \\rho } _ { k } = ( \\mathbf { \\overline { { u } } } _ { k } ^ { 2 } + \\mathbf { \\beta } _ { k + 1 } ^ { 2 } ) ^ { \\frac { 1 } { 2 } } } & { \\mathbf { c } _ { k } = \\mathbf { \\overline { { u } } } _ { k } / \\mathbf { \\rho } _ { \\mathbf { \\rho } _ { k } } } & { \\mathbf { s } _ { k } = \\mathbf { \\beta } _ { k + 1 } / \\mathbf { \\rho } _ { k } } \\\\ { \\mathbf { \\theta } _ { k + 1 } = \\mathbf { s } _ { k } \\mathbf { \\alpha } _ { k + 1 } } & { \\mathbf { \\overline { { u } } } _ { k + 1 } = \\mathbf { c } _ { k } \\mathbf { \\alpha } _ { k + 1 } } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "5.(Construct and apply rotation $\\overline { { \\mathbf { P } } } _ { k }$ ）",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\overline { { { \\bf { \\widehat { \\Theta } } } } } _ { k } = \\overline { { { \\bf { s } } } } _ { k \\cdot 1 } { \\bf { \\vec { p } } } _ { k } \\qquad \\overline { { { \\bf { \\widehat { \\Theta } } } } } _ { k } = \\left( \\left( \\overline { { { \\bf { c } } } } _ { k \\cdot 1 } { \\bf { p } } _ { k } \\right) ^ { 2 } + { \\bf { \\widehat { \\Theta } } } _ { k + 1 } ^ { 2 } \\right) ^ { \\frac { 1 } { 2 } } } } \\\\ { { \\overline { { { \\bf { c } } } } _ { k } = \\overline { { { \\bf { c } } } } _ { k \\cdot 1 } { \\bf { \\vec { p } } } _ { k } / \\overline { { { \\bf { \\widehat { \\Theta } } } } } _ { k } \\qquad \\overline { { { \\bf { s } } } } _ { k } = { \\bf { \\Theta } } _ { k + 1 } / { \\bf { \\widehat { \\Theta } } } _ { k } } } \\\\ { { \\mathrm {  ~ \\mathcal { ~ \\widehat { \\phi } } ~ } _ { k } = \\overline { { { \\bf { c } } } } _ { k } \\overline { { { \\bf { \\widehat { \\xi } } } } } _ { k } } \\qquad \\overline { { { \\bf { \\widehat { \\xi } } } } } _ { k + 1 } = - { \\bf { \\widehat { \\bf { s } } } } _ { k } \\overline { { { \\bf { \\widehat { \\xi } } } } } _ { k } }  \\\\ { { \\mathrm {  ~ \\mathcal { ~ \\widehat { \\Theta } } ~ } _ { k } \\mathrm { { ( U p d a t e ~ } } { \\bf { h } } , { \\bf { \\widehat { h } } } , { \\bf { \\xi } } _ { { k } } \\mathrm { ~ ) } } } \\\\ { { \\overline { { { \\bf { h } } } } _ { k } = { \\bf { h } } _ { k } - \\left( \\overline { { { \\bf { \\widehat { \\Theta } } } } } _ { k } { \\bf { p } } _ { k } / \\left( { \\bf { p } } _ { k \\cdot 1 } \\overline { { { \\bf { \\widehat { \\Theta } } } } } _ { k - 1 } \\right) \\right) \\overline { { { \\bf { h } } } } _ { k - 1 } } } \\\\ { { { \\bf { x } } _ { k } = { \\bf { x } } _ { k - 1 } + \\left( { \\bf { \\widehat { \\Theta } } } _ { k } / \\left( { \\bf { p } } _ { k } \\overline { { \\bf { \\widehat { \\Theta } } } } _ { k } \\right) \\right) \\overline { { { \\bf { h } } } } _ { k } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { h } _ { k + 1 } = \\mathbf { v } _ { k + 1 } - ( \\mathbf { \\mathbf { \\Theta } } \\mathbf { \\Theta } \\mathbf { \\Theta } _ { k + 1 } / \\mathbf { p } _ { k } ) \\mathbf { h } _ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "7. Compute $\\left\\| \\mathbf { r } _ { k } \\right\\| , \\left\\| \\mathbf { A } ^ { \\mathbf { T } } \\mathbf { r } _ { k } \\right\\| , \\left\\| \\mathbf { x } _ { k } \\right\\|$ ， estimate $\\left\\| \\mathbf { A } \\right\\| , c o n d ( \\left\\| \\mathbf { A } \\right\\| )$ and test if any of the stopping criteria is satisfied.   \nB. The steps for deriving the SSB values with a 3-D nonparametricmodel   \n1. Randomly extract $\\mathbf { N }$ crossover points each time.In this paper, we choose $\\scriptstyle \\mathbf { N = } 8 0 0 0$ ：   \n2. Impose $\\varphi ( \\mathbf { x _ { 1 1 } } ) = \\varphi _ { 0 }$ ，with any reasonable value of $\\varphi _ { \\mathrm { 0 } }$ ，we choose $\\varphi _ { \\mathrm { 0 } } = - 1 2 c m$ in this paper.   \n3.Compute $\\varphi$ in (36) using the LSMR algorithm   \n4. Compute $\\varphi ( \\mathbf { x } )$ over a regular grid of $( U , S W H , M W P )$ by using (33).   \n5.Repeat steps 1-4 for M times.In this paper, we choose $\\scriptstyle \\mathbf { M } = 5 0$ 6. Compute $\\overline { { \\varphi } } ( \\mathbf { x } )$ , the average of $\\varphi ( \\mathbf { x } )$ ：   \n7. Subtract $\\overline { { \\varphi } } ( U = 0 , S W H = 0 , M W P = 9 s )$ from $\\overline { { \\varphi } } ( \\mathbf { x } )$ at all grid points. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[1] J.Hausman and V. Zlotnicki,\"Sea State Bias in Radar Altimetry Revisited,\" Marine Geodesy,vol.33,pp.336-347,2010.   \n[2] P.Gaspar,F.Ogor,P.Y.Letraon,and O. Z. Zanife,\"Estimating the Sea-State Bias of the Topex and Poseidon Altimeters from Crossover Differences,\" Journal of Geophysical Research-Oceans，vol. 99,pp. 24981-24994,Dec 15 1994.   \n[3] J.P.Dumont, V.Rosmorduc,N. Picot, S. Desai, H. Bonekamp,J.Figa, et al.,OSTM/Jason-2 products book,2011.   \n[4] B.S.Yaplee,A. Shapiro,D.L.Hammond,B.D.Au,and E.A.Uliana, \"Nanosecond Radar Observations of Ocean Surface from a Stable Platform,\" Ieee Transactions on Geoscience Electronics, vol. Ge 9,pp. 170-&,1971.   \n[5] M.A.Srokosz,\"On the Joint Distribution of Surface Elevation and Slopes for a Nonlinear Random Sea,with an Application to Radar Altimetry,\" Journalof Geophysical Research-Oceans，vol.91，pp. 995-1006,Jan 15 1986.   \n[6] E.Rodriguez,Y.J. Kim,and J.M.Martin,\"The Effect of Small-Wave Modulation on the Electromagnetic Bias,\" Journal of Geophysical Research-Oceans,vol.97,pp.2379-2389,Feb 15 1992.   \n[7] T.Elfouhaily,D.Thompson,D.Vandemark,and B.Chapron,\"Weakly nonlinear theory and sea state bias estimations,\" Journal ofGeophysical Research-Oceans,vol.104,pp.7641-7647,Apr15 1999.   \n[8] T.Elfouhaily，D.R．Thompson，B.Chapron，and D.Vandemark, \"Improved electromagnetic biastheory,\" Journal of Geophysical Research-Oceans,vol.105,pp.1299-1310,Jan 15 2000.   \n[9] T.Elfouhaily，D.R．Thompson，B.Chapron，and D.Vandemark, \"Improved electromagnetic bias theory:Inclusion of hydrodynamic modulations,\" Journal of Geophysical Research-Oceans,vol.106,pp. 4655-4664,Mar 15 2001.   \n[10] F.W.Millet,K.F.Warnick,and D.V.Arnold,\"Electromagnetic bias at off-nadir incidence angles,\"Journal of Geophysical Research-Oceans, vol.110,Sep 23 2005.   \n[11]F.W.Millet,K.F.Warnick,J.R.Nagel,and D.V.Arnold,\"Physical optics-based electromagnetic bias theory with surface height-slope cross-correlation and hydrodynamic modulation,\"Ieee Transactions on Geoscience and Remote Sensing,vol.44,pp.1470-1483,Jun 2006.   \n[12]P.Naenna and J.T.Johnson,\"A Monte Carlo Study of Altimeter Pulse Returnsand the Electromagnetic Bias,\" Ieee Transactionson Geoscience and Remote Sensing,vol.48,pp.3218-3224,Aug 2010.   \n[13]E.J.Walsh,D.W.Hancock，D.E.Hines,and J.E.Kenney, \"Electromagnetic Bias of 36-Ghz Radar Altimeter Measurements of Msl,\"Marine Geodesy, vol.8,pp.265-296,1984. Mclaughlin,et al., \"Frequency-Dependence of Electromagnetic Bias in Radar Altimeter Sea-Surface Range Measurements,\" Journal of Geophysical Research-Oceans,vol. 96,pp.20571-20583,Nov 151991.   \n[15]E.J.Walsh,F.C.Jackson,E.A.Uliana,and R.N.Swift,\"Observations onElectromagneticBiasinRadarAltimeterSea-Surface Measurements,\" Journal of Geophysical Research-Oceans,vol. 94,pp. 14575-14584, Oct 15 1989.   \n[16]D.V. Arnold, W.K. Melville,R.H. Stewart,J. A. Kong,W.C. Keller, and E.Lamarre,\"Measurements of Electromagnetic Bias at Ku-Bands and C-Bands,\" Journal of Geophysical Research-Oceans,vol.100, pp. 969-980,Jan 15 1995.   \n[17]W.K.Melville,R.H. Stewart,W.C.Keller,J.A. Kong,D.V.Arnold,A. T.Jessup,et al.，\"Measurements of Electromagnetic Bias in Radar Altimetry,\"Journalof Geophysical Research-Oceans，vol.96,pp. 4915-4924,Mar 15 1991.   \n[18]D.B.Chelton,\"The Sea-State Bias in Altimeter Estimates of Sea-Level from Collinear Analysis of Topex Data,\"Journal of Geophysical Research-Oceans,vol.99,pp.24995-25008,Dec 15 1994.   \n[19]F.W.Millet，D.V.Arnold,K.F.Warnick,and J.Smith, \"Electromagnetic bias estimation using in situ and satellite data:1.RMS wave slope,\" Journal of Geophysical Research-Oceans,vol.108,Feb 21 2003.   \n[20]P.Gaspar and J.P.Florens,\"Estimation of the sea state bias in radar altimeter measurements of sea level: Results from a new nonparametric method,\" Journalof Geophysical Research-Oceans,vol.103， pp. 15803-15814,Jul15 1998.   \n[21]P.Gaspar,S.Labroue,F.Ogor,G.Lafitte,L.Marchal,and M.Rafanel, \"Improving nonparametricestimatesof the sea state biasin radar altimeter measurements of sea level,\" Journal of Atmospheric and Oceanic Technology,vol.19,pp.1690-1707,Oct 2002.   \n[22]S. LaBroue,P. Gaspar,and J. Dorandeu,\"Nonparametric Estimates of the Sea State Bias for the Jason-1 Radar Altimeter,\" Marine Geodesy, vol.27,pp.453-481,2004.   \n[23]F.W. Milet,D.V.Arnold,P.Gaspar,K.F.Warnick,and J. Smith, \"Electromagnetic bias estimation using in situ and satellite data:2.A nonparametric approach,\" Journal of Geophysical Research-Oceans, vol. 108,Feb 21 2003.   \n[24]N.Tran,D.Vandemark,S.Labroue,H.Feng,B.Chapron,H.L.Tolman, et al.,\"Sea state bias in altimeter sea level estimates determined by combining wave model and satellite data,\" Journal of Geophysical Research-Oceans,vol.115,Mar19 2010.   \n[25]N. Tran,D.Vandemark,B.Chapron,S.Labroue,H.Feng,B.Beckley,et al.，\"New models for satellite altimeter sea state bias correction developed using global wave model data,\" Journal of Geophysical Research-Oceans,vol.111, Sep 6 2006.   \n[26]D.Vandemark,N. Tran,B.D.Beckley,B.Chapron,and P.Gaspar, \"Direct estimation of sea state impacts on radar altimeter sea level measurements,\"Geophysical Research Letters,vol.29,Dec 17 2002.   \n[27]R.E. Glazman,A. Greysukh,and V. Zlotnicki,\"Evaluating Models of Sea-State Bias in Satelite Altimetry,\" Journal of Geophysical Research-Oceans,vol.99,pp.12581-12591,Jun 15 1994.   \n[28]R.Kumar，D. Stammer，W.K.Melville，andP. Janssen, \"Electromagnetic bias estimates based on TOPEX,buoy，and wave model data,\"Journal of Geophysical Research-Oceans,vol.108,Nov 13 2003.   \n[29]S.Caires,A. Sterl,and C.P. Gommenginger,\"Global ocean mean wave period data:Validation and description,\" Journal of Geophysical Research-Oceans,vol.11o,Feb 5 2005.   \n[30]S. Wang and B.Liang, Wave Mechanics for Ocean Engineering. Qing Dao, China: CHINA OCEAN UNIVERSITY PRESS,2013.   \n[31]S. Wen and M. Yu, Wave Theory and Calculation Principles.Beijing, China: Science Press,1984.   \n[32]J.Fan,\"Design-adaptive Nonparametric Regression,\"Journal of the American Statistical Association,vol.87,pp.998-004,1992/12/01 1992.   \n[33]J.Fan and I. Gijbels,Local Polynomial Modeling and Its Applications: Chapman and Hall,1996.   \n[34]C.C.Paige and M.A. Saunders,\"Lsqr -an Algorithm for Sparse Linear-Equations and Sparse Least-Squares,\" Acm Transactions on Mathematical Software,vol.8, pp.43-71,1982.   \n[35]D.C.L.Fong and M.Saunders,\"Lsmr:An Iterative Algorithm for Sparse Least-SquaresProblems,\"SiamJournal on Scientific Computing, vol. 33,pp.2950-2971,2011.   \n[36] D.P.Dee,S.M.Uppala,A.J.Simmons,P.Berrisford,P.Poli,S. Kobayashi，et al.，\"The ERA-Interim reanalysis: configuration and performanceof thedataassimilationsystem,\"QuarterlyJournal of the Royal Meteorological Society,vol.137,pp.553-597,Apr 2011.   \n[37]M.Ablain,S.Philipps,N.Picot,and E.Bronner,\"Jason-2 Global Statistical Assessment and Cross-Calibration with Jason-1,\"Marine Geodesy,vol.33,pp.162-185,2010.   \n[38]J.Dorandeu,M.Ablain,Y.FaugeRe,F.Mertz,B.Soussi,andP.Vincent, \"Jason-1 global statistical evaluation and performance assessment: Calibration and cross-calibration results,\"Marine Geodesy,vol. 27, pp. 345-372,2004/07/012004. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "MaofeiJiangreceived the B.S.degree in electronic informationscienceandtechnologyfromJilin University,Changchun, China,in 2O13.Currently,he ispursuing the Ph.D.degree at the University of Chinese Academy of Sciences,Beijing, China. ",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/406667b2cb176f8eab37911da056422c3305b063b5f408f6acede70982e325fc.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Hisresearch interests include sea state bias correction and radar altimeter data processing. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Ke Xu received the B.S.and M.S.degrees in electronics from Beijing Normal University,Beijing, China,and the Ph.D.degree in space physics from the Graduate University of Chinese Academy of Sciences, Beijing,China,in 1991,1994 and 2001,respectively. ",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a42d311566c64643c5315788339bc671e1a99eff358e274303a47ef45cd903d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "He is currently a Professor with the Key Laboratory ofMicrowave Remote Sensing，National Space Science Center,Chinese Academy of Sciences, Beijing，China.He is the Chief Designer for the HY-2A satellite radar altimeter.His research interests include spaceborne radar altimeter design,synthetic aperture radar altimeter, and signal processing. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8a20187164b87a1e339cdbf5cf6fbb5b4458d27ad1c44ae6ee3c0bfd16f43df.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Yalong Liureceived the B.S.degree in remote sensing from Nanjing University of Information Science & Technology,Nanjing,China,and the M.S.degree in physical geography from Ludong Univeristy,Yantai, China,and the Ph.D.degree in ocean satellite remote sensing from Ocean University of China,Qingdao, China in 2008,2011 and 2014 respectively. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "From 2014 to 2015,he worked as assistant researcher in National Space Science Center, Chinese Academy of Sciences,Beijing,China. Currently,he is working as engineer at Yantai Marine Environmental ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Monitoring Center Station，Yantai,China.His research interests include validation/calibration for satellite altimeter,altimetry data process and dynamic morphology evolution in estuary and coast. ",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ec8b423284d5d761610ef2a065eebed68887c1a700f26b468d334fbcf6e5518.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "LeiWang received the B.Eng.degree in Information Engineering from the Xi'an JiaoTong University,Xi'an, China,in 20o9 and Ph.D.degree in Electromagnetic field and Microwave technology form the University of Chinese Academy of Sciences,Beijing,in 2015. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "He is currently working in the Key Laboratory of Microwave and Remote Sensing,Chinese Academy of Sciences，Beijing，China，and the National Space Science Center, Chinese Academy of Sciences,Beijing. His research interests include high precision radar ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "altimeter data processing. ",
+        "page_idx": 20
+    }
+]

@@ -1,0 +1,531 @@
+[
+    {
+        "type": "text",
+        "text": "天文用法珀滤光器控制器关键模块数字前端AD转换精度要求的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘黎明1,2，许骏1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.中国科学院云南天文台，云南昆明650011；2.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：法珀滤光器在我国天文界得到了越来越广泛的应用，目前云南天文台抚仙湖太阳观测站已购进两台法珀滤光器，准备用于1m新真空太阳望远镜的光谱观测中。由于国内对法珀滤光器研究还比较少，国外相关资料尚不能查询到，因此了解其控制系统，不仅是自研法珀的需要，也是日常工作中必须的基础。针对这一趋势，在简介法珀滤光器原理的基础上，介绍了法珀滤光器的控制系统，并对控制系统数字前端AD 转换精度要求进行研究。通过计算F-P平行板控制精度，最终选出符合要求的模数转换器。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：法珀滤光器 法珀控制器 数字电路 AD 转换器中图分类号：P111 文献标识码：A 文章编号：1672-7673（2019）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "简单地说，两块具有高反射率、高透过率的平行平板，就构成一个法珀腔（图1)。法珀腔具有广泛用途。从工作波长来看，法珀不仅用于光学仪器中，微波领域也大量使用，在引力波探测中，采用法珀谐振腔可以在毫秒量级的时间储存光子，也可用法珀做传感器，比方说红外传感器[2和偏振测量工具。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "固定间隙的法珀部件就是所谓的法珀标准具，基本方法是利用精密磨制的石英间隔柱支承两个反射面，从而满足光学要求。理论上虽然可以用外加压力、改变工作温度等改变这个系统的间隙，但实际应用中只把这类系统用在单一波长系统中。目前用得最多的是激光通讯系统中的标准具。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在天文光谱观测中，法珀标准具可以使成像光谱仪的分辨本领显著提升，从而可以分辨出波长差极细微的光谱线。在太阳观测仪器中，法珀标准具用来作为一种窄带滤光器，过滤出所需的谱线并使之成像，最常见的例子是太阳的Hα线以及Ca-K线滤光器。与其它类型滤光器相比，法珀在透过率方面有巨大的优势，同时，改进的法珀滤光器在作光谱扫描观测时，能达到Hz量级的扫描频率，速度方面有明显优势。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa6b4a2da2ec9148e338ff684f04c469cdaeed44082c6005668622b055625056.jpg",
+        "img_caption": [
+            "图1法珀滤光器的原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "法珀滤光器（Fabry-PerotInterferometers，FPI）由法国物理学家夏尔·法布里和阿尔弗雷德·珀罗提出（图1)。因为共振现象的存在，透过的光具有波长选择性，其透过波长在真空中满足：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda { = } 2 \\mathrm { d } \\cdot \\cos \\alpha / m\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d152d4f2e0e21097a73dcbe74e34fd8dae6f2a7023a55998483e780c3506c9a6.jpg",
+        "img_caption": [
+            "Fig 1.Basic Ideal of FPI ",
+            "图2法珀滤光器的梳装透过特性",
+            "Fig 2.Output of a one-stage-FPI "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $d$ 为法珀两平板间距； $\\boldsymbol { \\mathscr { a } }$ 为入射光入射角； $\\boldsymbol { \\mathit { m } }$ 为级次；λ为透过波长。从而形成如图2的梳装滤光（滤波）器。在需要单一波长的情况下，需要级联或者与其它滤光滤波设备配合使用。法珀滤光器透过波长连续可调，光学元件少，不需要特殊的晶体材料，因而比较容易被用在需要进行波长扫描（如太阳Hα扫描观测)，同时光子较少并需要较大光学孔径的场合。虽然理论上改变腔体内介质（如果有）的折射率可以实现波长扫描，但工程实现上极为困难，在实际使用中，波长扫描都是通过改变 $d$ 值实现的[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天文用FPI于1956 年由 Ring 等研制成功，并由 Dobrodski于1959 年开始试观测。4最早的法珀滤光器的太阳成功观测应用见于J.V.Ramsay等1967年的观测报道，采用开放式结构，焦面探测器使用干板[5]此后，法珀滤光器在天文界的应用越来越广泛，性能也逐渐提高。近年来，国内逐渐开始引入法珀滤光器，并开始作试观测。例如云南天文台抚仙湖太阳观测站目前已经购进两台法珀滤光器，将在1m太阳望远镜上使用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而根据已有资料可知，目前法珀滤光器的控制器还是使用的模拟电路，尚未发现数字电路的控制器。相较模拟电路，数字电路精确度更高。因此研究数字电路的法珀滤光器的控制器是很有必要的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2法珀滤光器的控制系统",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1控制系统综述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "法珀滤光器在机械上有严苛的加工和安装精度要求，如果能应用自动控制技术，对机械系统的安装要求就可以降低。另一方面，在天文观测，特别是太阳观测中，法珀一般需要在Hα 谱线宽度内扫过几个到十几个点，因而，法珀滤光器光学间隙需要可调以实现波长扫描。平行度、间隙精度和扫描，加上法珀滤光器的基本要求，提出了对控制系统的基本要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "纯电系统基于各种电测微技术，具体可以基于电容方式、电感方式和压电方式。就测微本身来说，电感方式测微在国内有成功应用的例子，但磁路导磁率随多种原因变化，因而使用受限。压电方式的缺点更多，很少有人使用。在法珀中，普遍选用电容测微最主要的原因是因为它能做得很小并且性能稳定[6]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与光电方式相比，纯电系统因为采用电容等测微传感器来测量间距，不是直接测量光程，需要一套辅助的光学系统定期校准“电”间距与光程之间的关系。从资料上来看，现在是每3天左右进行一次定标，工作比较繁复。这里，再行定标的标准是零位时中心波长偏离了设计值的 $1 5 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/94dce293001359c59183baa51425ee31a7088fa1075853e8731cfb5abad302f2.jpg",
+        "img_caption": [
+            "图3法珀滤光器镜片俯视图与侧视图",
+            "Fig3.The top and side view of FPI’s lens "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图3，在法珀滤光器两平板镜片的边沿正交布置两对电容器，即 $X$ 方向的CX1及CX2，Y方向的CY1及 CY2，每只电容器均由镀在上下平板的一对电极构成。理论上，当平板完全平行时， $\\mathrm { C X 1 = C X 2 }$ ， $\\mathrm { C Y 1 = C Y 2 }$ 如果不等，则表示在对应方向上不平行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图4，如果两对电容正交布置，且3个压电陶瓷柱ABC 按 $1 2 0 ^ { \\circ }$ 均布，这时，反馈系统依",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\binom { V _ { A } } { V _ { B } } } = { \\binom { 0 } { - 1 } } \\quad { \\begin{array} { l l } { - 1 } & { - 1 } \\\\ { 0 } & { - 1 } \\\\ { 1 } & { 0 } & { - 1 } \\end{array} } { \\binom { V _ { x } } { V _ { z } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输出电压到由压电陶瓷制成的促动器A、B、C上，就可以校正系统达到平行，并能保证法珀滤光器平板在作Tip-Tilt校正时旋转中心在镜面中心上，从而保正光学间隙不变。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac96b625dcd677b41873b4e1a4e1228ed77e56193c0f5bda8db8ce07e6c543ef.jpg",
+        "img_caption": [
+            "图4电容传感器和促动器的布置"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2促动器和高压驱动电路",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在光学波段，促动器最大行程需求来自扫描，约在 $2 \\mu \\mathrm { ~ m ~ }$ ，最好可以连续变化，因而选择压电陶瓷PZT是最合适的，并可保留足够的调整裕量。早期，促动器需要堆叠多层压电陶瓷并与玻璃粘合，工艺复杂，PZT 的高压驱动电路也要由天文学家和工程师同行花费大量时间研制[7]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前，压电陶瓷和配套驱动器因为应用广泛，形成了巨大的市场，厂家产品线丰富，作为天文应用，基本能选择合适的量产产品。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3控制电路总体",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "来自传感器的信号十分微弱，必须加以放大，同时也需要处理以符合反馈控制函数的要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图5，对于CX通路：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6a2c69d57918bf596712fafc30607ae2ee0fcfc060a5cd234945c7b1854586f.jpg",
+        "img_caption": [
+            "Fig 4. The arrangement of the capacitance micrometer and PZT of a FPI ",
+            "图5差分电容对平行检测原理",
+            "Fig 5.Principal of Diferencial Capacetance micrometer "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "给CX1/CX2差分电容对加驱动信号，检测它们共接点的输出，如果两电容相等并且VA与VB等幅反相时，输出为0；如果二者不等，输出有值。放大这个信号，由PSD 解调，送入运放矩阵，计算出A、B、C3路PZT所需的信号，后经高压放大驱动压电陶瓷A、B、C完成闭环。这里，Vcom是与VA 恒定相差的参考信号。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而，工艺限制了CX1与CX2不可能完全一样，即使在物理间隙相等时输出也不相等；同时，物理间隙相等并不代表光学间隙就相等，因而，需要对CX1与CX2 加以补偿。CY1/CY2也有相同的电路要求，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CZ 与Cref与此类似。更进一步，即便X、Y两路都已经独立得到补偿，X、Y之间还会存在差别，故还需对 X/Y之间的补偿。此外，由于要进行波长扫描，该间隙还需可控调整。CZ与 $\\mathrm { C } _ { \\mathrm { R E F } }$ 相等时，输出为零。CZ不影响两平板的平行关系。Cref提供一个间隙基准，间隙的调节在此基准上进行，同时，它的气压温湿度等与CZ一致，起到补偿环境因素影响的作用。在考虑了以上因素后，增加 $X$ 平衡、 $Y$ 平衡、 $Z$ 平衡3个调节机构；同时，电路本身也有零偏，因而再加入 $X$ 偏移、 $Y$ 偏移、 $Z$ 偏移3个调节，这3路同时还补偿掉X、Y、 $\\boldsymbol { Z } \\boldsymbol { \\mathrm { ~ 3 ~ } }$ 路的其它差别。DA转换器是强行给 $Z$ 轴加一个偏压，起间隙调节即波长扫描的作用。该DA 通常为8位，理论上可进行256步扫描，但实际工作中，都只做几步到几十几步的扫描。最终形成了图6的整体框架[]。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1192181e220a02e5114a7b16a726bdc70da572f2cbb716eae2a473461e4565c3.jpg",
+        "img_caption": [
+            "图6较完整的FP控制系统框图",
+            "Fig 6.Diagram of the complete servo system "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4、控制电路关键模块的数字化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6所用控制系统采用模拟电路的方式，也是目前的通用做法。然而模拟电路具有干扰、失真等方面的缺点，相比之下，数字电路处理模拟量是通过程序完成，只要编程就可以解决这些问题，结构简单，调试方便。因此，为了尽可能地减少误差，对控制系统的关键模块进行数字化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "单取 $X$ 路做研究，对于CX路控制系统数字化模块如图7。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a54b3cfde774552e55ac04bceee06a9f8a28451cfccdd810e26df9e0880e4132.jpg",
+        "img_caption": [
+            "Fig 7.X path diagram of the FP digital system "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "该数字化控制系统能否使用，首要条件是确定差分模数转换器是否能检测出CX1与CX2之间的最小输出值。  \n因而接下来对差分模数转换电路进行探讨。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3差分模数转换电路",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于图5中的电路作进一步的说明。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1输入级：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以 $\\operatorname { C x }$ 为例，它是一个简单的平板电容器，其电容量为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { X } = \\varepsilon \\cdot \\varepsilon _ { 0 } \\cdot { \\frac { s } { d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f49b2176fbdba88ae386f74afd495f353db583bccec2c11db82a4f9b6c21c08.jpg",
+        "img_caption": [
+            "图7FP控制系统X路数字化框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { \\sigma } _ { \\varepsilon }$ 为介质相对介电常数，对于氮气，在标准情况下 $\\mathfrak { s } = 1 . 0 0 0 5 8$ ，取为1即有足够的精度； $\\varepsilon _ { \\scriptscriptstyle \\mathrm { ~ 0 ~ } }$ 是真空介电常数，取为 $8 . 8 6 \\times 1 0 ^ { - 1 2 } \\mathrm { F / m }$ 。在典型系统中，面积 $S$ 一般为几十到几百平方毫米，间距 $d$ 为 $5 \\sim$ $1 0 \\mu \\mathrm { m }$ ，因而，其电容量只有数十到一百微法，即 $\\mathrm { C x } { = } 1 0 { \\sim } 1 0 0 \\mathrm { p F }$ （目前选取 $\\mathrm { C X = 1 0 p F }$ 的电容做研究)。假设 $X$ 驱动电桥为理想源，据 $\\begin{array} { r } { X _ { c } = \\frac { 1 } { 2 \\pi \\cdot f \\cdot C _ { x } } } \\end{array}$ ，可以导出在工作频率为 $1 0 \\mathrm { K H z }$ 的情况下，整个电容传感器的等效输出阻抗约百千欧量级，这是一个内阻比较大的信号源。因而，第1级放大器必须有足够大的输入阻抗以得到较高的传输效率及检测灵敏度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2、差分电路控制精度要求",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "若要求控制精度远高于光谱带宽（2个量级)，取中心波长为 $6 5 6 . 3 \\mathrm { n m }$ ，求得光谱带宽对应平行板间隔为 $0 . 1 \\mathrm { n m }$ ，法珀平行板工作间隔为 $2 9 5 3 3 . 5 \\mathrm { n m }$ 。则其控制精度为 $3 . 3 9 \\cdot 1 0 ^ { - 6 }$ 。信号源为32KHZ方波转化为正弦波，通过全差分放大器后输出两路幅度相等、相位相反的信号。通过两个电容为 $1 0 \\mathrm { p F }$ 左右的平行板，进入差分AD转换器。如图8为正弦信号通过平行板电容器进入差分模数电路框图.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig 8.Sinusoidal signals bythe fully differential amplifier bytheparallel plates into the differential ADC 考虑平板放置于法珀滤光器腔体内受到的各类影响,其等效电路图如图9。 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5491c2b2886923f4aa19939c812d3487c082c51a94cb2a6a78e96a03f6a6057f.jpg",
+        "img_caption": [
+            "图8正弦信号通过全差分放大器通过平行板进入差分ADC",
+            "图9通过全差分放大器进入差分ADC的电路",
+            "Fig9.Through a fully differential amplifier and enter the circuit of a differential ADC "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如图9，通过全差分放大器转换后的两路等幅反相信号分别通过两个平行板电容CX1、CX2，进入差分AD。Z1、Z2为考虑到其他因素的阻抗。U为信号电压，Uo为差分AD输入电压。当CX1、CX2的平板间隔变动时，其差分AD需检测到的电压差值计算如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { U _ { 0 1 } = U \\frac { Z _ { 1 } } { Z _ { 1 } + Z _ { C X 1 } } , \\ U _ { 0 2 } = U \\frac { Z _ { 2 } } { Z _ { 2 } + Z _ { C X 2 } } } \\\\ & { U _ { 0 1 } ^ { \\prime } = U \\frac { Z _ { 1 } } { Z _ { 1 } + Z _ { C X 1 } } , \\ U _ { 0 2 } ^ { \\prime } = U \\frac { Z _ { 2 } } { Z _ { 2 } + Z _ { C X 2 } + A Z _ { C X 2 } } } \\\\ & { \\qquad \\Delta U _ { 0 2 } = U _ { 0 2 } ^ { \\prime } - U _ { 0 2 } } \\\\ & { \\qquad = - \\frac { \\Delta Z _ { C X } } { Z _ { 2 } + Z _ { C X } } \\times U _ { 0 2 } } \\\\ & { \\qquad > - \\frac { \\Delta Z _ { C X } } { Z _ { C X } } \\times U _ { 0 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所以， $\\Delta \\mathrm { \\ U } { > } 3 . 3 9 \\mathrm { U } \\times 1 0 ^ { - 6 }$ （204号取 $\\mathrm { U } { = } 5 \\mathrm { V }$ ，则 $\\Delta \\mathrm { \\ U o } = \\mathrm { \\Omega } 3 . 3 9 \\times 5 \\times 1 0 ^ { - 6 } \\mathrm { = } 1 . 6 9 \\times 1 0 ^ { - 5 } \\mathrm { \\ U }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "若要求数字误差不大于 $1 \\%$ ，则1LSB对应的输入电压为： $1 . 6 9 \\times 1 0 ^ { - 7 } \\mathrm { V }$ 则 $1 \\mathrm { L S B } { < } 1 . 6 9 { \\times } 1 0 ^ { - 7 } \\mathrm { V }$ 时，差分AD才能检测到差值变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3差分模数转换器选择 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据奈奎斯特抽样定理，AD 抽样频率应大于2倍模拟输入信号，即模数抽样速率应大于64KSPS。目前所用的差分模数转换器分辨率最高为32位 AD7177-2。然而 AD7177-2最大通道扫描速率只有 10KSPS,远远不能满足需求。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最大扫描速率大于64KSPS 的差分AD 转换器在市场上能够找到的最高分辨率为24位AD。因此通过筛选，以24位AD7760为例，分析能否满足实验精度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AD7760是一款高性能、24位 $\\Sigma - \\Delta$ 型模数转换器（ADC)，融合了宽输入带宽、高速特性与 $\\Sigma - \\Delta$ 转换技术的优势，2.5MSPS时信噪比可达 $1 0 0 \\mathrm { d B }$ ，因此非常适合高速数据采集应用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "模拟输入范围取决于AD7760采用的基准电压。当基准电压为4V时，模拟输入范围为基于2V共模电压的 $\\pm 3 . 2 \\mathrm { V }$ 差分偏置电压。此共模偏置可利用片内差分放大器实现，从而可进一步降低外部信号的调理要",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "求。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在 78KHZ 输出数据速率时，AD7760 动态范围为120dB。基准电压 UREF $\\boldsymbol { \\mathbf { \\mathit { \\Omega } } } = 4 . 0 9 6 \\boldsymbol { \\mathrm { V } }$ ，共模电压为UREF$/ 2 { = } 2 . 0 4 8 \\mathrm { V }$ ，最大输入电压为0.8UREF $\\mathrm { = 3 . 2 7 5 V }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "带入差分AD输入阻抗，取CX1路，根据戴维南等效定理得出电路图如图10。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/33b00215efdac9d2adc49d76e6b5364363909ffbfc08d1c0f5bd20e04ae8d01e.jpg",
+        "img_caption": [
+            "图10 戴维南等效电路",
+            "Fig 10. Thevenin equivalent circuit "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "则输入差分ADC的模拟输入电压为Uo1z+Z ZADCU1，通过CX2路的电路图与CX1路类似，则 ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { U _ { 0 2 } = \\frac { Z _ { A D C } } { Z _ { 2 } + Z _ { A D C } } U _ { 2 \\circ } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "取 $\\mathrm { U } { = } 5 \\mathrm { V }$ ， $U _ { O } { = } 0 . 5 \\mathrm { { U } = 2 . 5 \\mathrm { { V } } }$ （20  \n则 $1 \\mathrm { L S B } { = } 2 . 5 \\mathrm { V } / 2 ^ { 2 4 } ~ { = } 1 . 4 9 ~ \\times 1 0 ^ { - 7 } \\mathrm { V } .$ 0  \n1LSB $\\triangleleft$ $6 9 \\times 1 0 ^ { - 7 } \\mathrm { V }$   \nCX1、CX2两电容之间电压最小差值大于差分ADC的LSB。因此差分AD7760转换器满足设计要求。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4AD7760精度分析",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通常用分辨率和转换误差表示模数转换器的转换精度。本节对转换误差进行分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "转换误差表示AD转换器实际输出的数字量与理想输出数字量的差别，通常用输出数字量最低位数的倍数表示。选择AD7760芯片后，根据厂家提供的AD数据，对AD7760的精度误差进行分析。如表1。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由动态范围 $= 2 0 * 1 \\mathrm { o g }$ （ $2 ^ { \\mathrm { n } } / 1$ ） (n为转换位数)可求得 $\\mathrm { n { = } 2 0 }$ 。  \n则U $V _ { \\odot } = 2 . 5 \\mathrm { V } / 2 ^ { 2 0 } \\mathrm { = } 2 . 3 8 \\times 1 0 ^ { - 6 } \\mathrm { V }$ （20  \nU转换误差 $\\langle \\langle \\Delta \\mathrm { U o } \\mathrm { = } 1 . 6 9 \\times 1 0 ^ { - 5 } \\mathrm { V }$ ，  \n又各直流精度误差皆小于 $0 . 0 1 \\%$ ，对输入信号影响皆可忽略。  \n因此AD转换误差对法珀平板电压的改变影响极小，符合法珀滤光器的控制要求。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7cba5033c54e627b7ed36c3a21cbb1f514cc5074e09fa042fad48fc3dca00d4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">表1AD7760参数</td></tr><tr><td colspan=\"4\">Tab.1 the parameters of AD7760</td></tr><tr><td>参数</td><td colspan=\"3\">测试条件/注释 测试条件/注释 单位</td></tr><tr><td>动态性能</td><td colspan=\"3\"></td></tr><tr><td>1/256抽取</td><td>MCLK=40MHZ,0DR=78KHZ,Fin=1KHZ</td><td></td><td></td></tr><tr><td>动态范围</td><td>调制器输入短路</td><td>120.5</td><td>dB，典型值</td></tr><tr><td>信噪比（SNR)</td><td>输入幅度=-0.5dBFS</td><td>112</td><td>dB，典型值</td></tr><tr><td>无杂散动态范围（SFDR)</td><td>非谐波，输入幅度=-6dBFS</td><td>126</td><td>dBc，典型值</td></tr><tr><td>总谐波失真（THD)</td><td>输入幅度=-0.5dBFS</td><td>105</td><td>dB，典型值</td></tr><tr><td>直流精度</td><td colspan=\"3\"></td></tr><tr><td>分辨率</td><td rowspan=\"6\"></td><td>24</td><td>位</td></tr><tr><td>微分非线性（DNL）</td><td>0.00076</td><td>%，典型值</td></tr><tr><td>积分非线性（INL）</td><td>0.014</td><td>%，典型值</td></tr><tr><td>零误差</td><td>0.02</td><td>%，最大值</td></tr><tr><td>增益误差</td><td>0.016</td><td>%，典型值</td></tr><tr><td>零误差漂移</td><td>0. 00001</td><td>%FS/C，典型值</td></tr><tr><td>增益误差漂移</td><td></td><td>0.0002</td><td>%FS/C，典型值</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论和展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前法珀滤光器程控化程度很低，发展缓慢，并且从各资料来看，核心控制环路仍然是全模拟的，程控化只用在保持状态、锁定过程等等、各工作模式之间的切换、波长扫描等外围环路上，初步估算，AD、DA 在如此高精度的控制要求下，带来了过大的误差，当然，模拟方式相对成熟且已经能满足系统要求，可能也是原因之一。但从长期发展来看，数字化和程控化必须解决。在大望远镜拼接镜面，全模拟核心环路因为长距离传输不可靠，数字化是必须的，并且也有大量成功经验。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过计算，目前市面上已有的差分 AD 转换器能够满足法珀滤光器控制器数字化的设计要求。因此控制系统的数字化也就具有可行性。接下来对法珀控制系统数字化进行深入研究，实现数字化控制系统。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] Frangois Pajot et.al.Design and performances of a cryogenic Fabry-Perot for submillimeterastronomy，Proceedings of SPIE Vol. 5172 （2003) 277-786。  \n[2］冯飞,焦继伟,熊斌,王跃林.基于法布里珀罗微腔阵列的光读出红外热成像器件设计与制作［J].光学学报,2004(10) :1375-1380.  \nFeng Fei，Jiao Jiwei， Xiong Bin， Wang Yuelin. Design and Fabrication of Optically ReadableInfrared Thermal Imaging Device Based on Fabry-Perotw Micro-Cavity Array [J]. ACTA OPTICA SINICA,2004(10) :1375-1380  \n[3]常亮．天文用Fabry-Perot 滤光器的特性研究[D]．中国科学院研究生院(云南天文台)，2007.Chang Liang. Research on the Characteristics of Fabry-Perot filter in Astronomy [D]. GraduateUniversity of Chinese Academy of Sciences (Yunnan Observatory)， 2007.  \n[4] J.V.Ramsay et. al.,Tunable Optical filter with narrow bandwidth,J. Sci. Instru.，1965 Vol42，P334。  \n[5] Ramsay J V. Very narrow band interference filters ［J]. Publications of the AstronomicalSociety of Australia， 1967，1(2).  \n[6]郑艳芳，许骏，李雪宝．电容式边缘传感器的设计[J]．现代电子技术，2011，34(2):119-122.Zheng Yanfang， Xu Jun，Li Xuebao. Design of Capacitive Edge Sensor [J]. Modern ElectronicsTechnique，2011，34(2):119-122  \n[7]郑艳芳，许骏，李雪宝．基于 PZT 的法珀滤光器平板平行度控制系统的设计与实现[J]．计算机与现代化，2010(12):171-173.  \nZheng Yanfang， Xu Jun,Li Xuebao.Control System of Plates Parallelism for Fabry - Perot FilterBased on PZT [J].JISUANJI Yu XIANDAIHUA， 2010(12):171-173.  \n[8] Hicks T R， Reay N K, Scaddan R J. A servo controlled Fabry-Perot interferometer usingcapacitance micrometers for error detection [J]. Journal of Physics E Scientific Instruments,1974，7(1) :27.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Research onaccuracy requirements of digital front-end AD converter of key module of astronomical Fabry-Perot ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Interferometers controller ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Liu Liming1,2， XU Jun1",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1.Yunnan Observatories， Chinese Academy of Sciences， Kunming 650011， China，Email:1lm@ynao.ac.cn",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.University of Chinese Academy of Sciences, Beijing 100049, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Fabry-Perot Interferometers has been more and more widely used in China's astronomical community. At present， the Fuxian Lake Solar Observatory at the Yunnan Observatory has purchased two FPl for use in the spectral observation of the 1m new vacuum solar telescope. As the domestic research on FPl is still relatively small， overseas inquiries to relevant information is not yet. Therefore，understanding its control system is not only the need to research FPl，but also the necessary foundation in daily work. In this paper，a basic review of FPl control system is given，and describes the digitalization of research on AD Converter Accuracy Requirements of Digital Front End of Control System.Calculate the accuracy of the F-P parallel board control and finally select the AD converter that meets the requirements. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Fabry-Perot Interferometers，Fabry-Perot Controller， Digital circuits，AD converter ",
+        "page_idx": 9
+    }
+]

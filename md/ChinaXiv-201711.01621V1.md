@@ -1,0 +1,231 @@
+全混合日粮粒度对奶牛采食、咀嚼活动和生产性能的影响李延涛　闫　瑞　胡志勇 林雪彦 王中华\*(山东农业大学动物科技学院，泰安 271018)
+
+摘要：本试验研究了全混合日粮（TMR）粒度对奶牛采食、咀嚼活动和生产性能的影响，以探讨 TMR 适宜的粒度及制作过程中苜蓿、羊草的适宜搅拌时间。选用4头经产泌乳中期[泌乳时间（ $8 5 { \pm } 7$ ）d]荷斯坦奶牛[体重（ $6 1 6 . 8 { \pm } 4 4 . 3$ ） $\mathbf { k g } ]$ 进行 $4 { \times } 4$ 拉丁方设计。通过改变苜蓿、羊草搅拌时间改变TMR 粒度，分为4组，分别为细颗粒牧草（FH）组(苜蓿搅拌$1 2 \mathrm { m i n }$ ，羊草搅拌 $2 0 \mathrm { m i n } ,$ )、中细颗粒牧草（MFH）组(苜蓿搅拌 $9 \mathrm { { m i n } }$ ，羊草搅拌 $1 5 \mathrm { m i n } \dot { }$ ）中长颗粒牧草（MLH）组(苜蓿搅拌 $6 \mathrm { m i n }$ ，羊草搅拌 $1 0 \mathrm { m i n } \dot { }$ )和长颗粒牧草（LH）组(苜蓿搅拌 $3 \mathrm { m i n }$ ，羊草搅拌 $5 \mathrm { m i n } \mathrm { \cdot }$ )。共进行4期试验，每期持续 $1 9 \mathrm { d }$ ，其中预试期14d，采样期5d。记录采样期前3d的产奶量并采集奶样测定乳成分，采样期的第2和3天视频监控记录奶牛咀嚼活动，采样期最后2d采集粪样测定养分表观消化率。结果表明：TMR 粒度对干物质、有机物、中性洗涤纤维、氮的表观消化率有显著影响（ $. P { < } 0 . 0 5 \$ ，与MLH组和LH 组相比，FH组和 MFH 组的表观消化率较高。TMR 粒度对奶牛干物质、物理有效中性洗涤纤维、中性洗涤纤维、氮的摄入量，产奶量和乳成分无显著影响（ $. P { > } 0 . 0 5 \$ )。没有观察到 TMR 粒度对奶牛咀嚼时间有显著影响（ $( P { > } 0 . 0 5 )$ )，也没有观察到TMR 粒度对血浆生化指标有显著影响 （ $P { > } 0 . 0 5$ )。结果提示，TMR适宜的粒度分布如下： $\ge 1 9 . 0 0 \mathrm { m m }$ 、 $8 . 0 0 \tilde { \bf \Phi } ( < 1 9 . 0 0 )$ （204$\mathrm { m m } . 1 . 1 8 \mathrm { \sim } ( < 8 . 0 0 ) \mathrm { m m }$ 和 $< 1 . 1 8 ~ \mathrm { m m }$ 的干物质比例分别为 $4 5 . 2 0 \% . 2 5 . 5 0 \% . 1 6 . 5 5 \%$ 和 $1 2 . 7 5 \%$ TMR中苜蓿和羊草适宜搅拌时间分别为9和 $1 5 \mathrm { m i n }$ 。
+
+关键词：奶牛；全混合日粮；搅拌时间；粒度；采食量；咀嚼活动；生产性能
+
+22 目前，我国大中型奶牛场基本都已采用全混合日粮（TMR）饲喂技术，TMR 的搅拌  
+23 时间对粒度大小有明显的影响。国内外许多研究表明 TMR 粒度，尤其是粗饲料粒度，对  
+24 奶牛的干物质（DM）摄入量、反刍活动和养分的消化率有一定影响，但得到的结论并不  
+25 统一。孔庆斌等[1认为 TMR 粒度会通过影响奶牛的瘤胃充盈度、食糜与瘤胃微生物的接触  
+26 面积、瘤胃中食糜的外流速度，进而影响到瘤胃的发酵类型和最终产物以及饲料成分消化  
+27 部位的转移(淀粉的消化部位由瘤胃转移到小肠)，并最终影响到养分的消化率和动物生产  
+28 性能。贺鸣[2研究发现，经过机械加工后 2、4、8cm 的长苜蓿奶牛DM摄入量分别为12.61、  
+29 11.65、9.41kg/d；李胜利等[3]认为，当奶牛饲喂过多粗饲料时，DM摄入量会受到瘤胃大  
+30 小的限制，小的饲料颗粒可以加快瘤胃外流速度，使奶牛采食更多的饲粮，从而提高 DM  
+31 摄入量。张骞[4研究发现，经过机械加工后1、3、5cm长苜蓿对奶牛DM摄入量无显著的  
+32 影响，但能增加物理有效纤维（peNDF）的摄入量，提高标准乳产量和乳脂率，对乳蛋白  
+33 率影响却不显著。Yansari 等[5]、Einarson 等[6]、Kononoff 等[7]和 Alamouti 等[8]认为降低饲  
+34 料粒度奶牛采食量会提高；但 Beauchemin 等[9]、Yang 等[lo]、Yang 等[l和 Beauchemin 等[12]  
+35 研究认为粒度降低不影响奶牛的采食量；Kahyani 等[13]通过试验发现精饲料超过一定比例  
+36 后降低 TMR 粒度对 DM摄入量没有影响。Leonardi等[14]和 Alamouti 等[8]认为 TMR 粒度与  
+37 奶牛挑食有很大关系，而 Bhandari等[15]研究认为 TMR 粒度对挑食没有影响。关于奶牛饲  
+38 料适宜粒度的研究未取得一致的结果。  
+39 之前的研究多采用钡草机作为改变TMR粒度的方式，但是在实际的生产过程当中，  
+40 TMR在混合的过程中搅拌时间也可进一步影响饲草颗粒。国内外关于TMR粒度对奶牛采  
+41 食、咀嚼活动和生产性能影响的研究文献很多，但通过TMR搅拌时间来改变TMR粒度，从  
+42 而研究对奶牛采食、咀嚼活动和生产性能影响的文献很少。本试验是通过改变TMR搅拌时  
+43 间去改变TMR粒度，研究对奶牛采食、咀嚼活动和生产性能的影响，为确定规模化牛场TMR  
+44 适宜的粒度和搅拌时间提供一定的参考。
+
+1.1试验动物与饲养管理选用4头泌乳中期经产荷斯坦奶牛，平均始重为（ $6 1 6 . 8 { \scriptstyle \pm 4 4 . 3 }$ ）kg，泌乳时间为（ $8 5 { \pm } 7$ ）
+
+d。每日分别在06：00和18：00投喂2次TMR，剩料量控制在 $10 \%$ 以内。
+
+1.2 TMR
+
+各组TMR采用相同配方，其组成及营养水平见表1。TMR中各原料的营养水平测定采用实验室常规分析方法，TMR营养水平根据原料中的养分含量和原料在TMR中的比例计算得出。产奶净能（MJ/kg） $= 0 . 5 5 0 \ 1 \times$ 消化能（MJ/kg）－0.3905，消化能 $\scriptstyle : =$ 饲料总能 $\times$ 能量消化率，能量消化率 $( \% ) \ { = } 9 4 . 2 8 0 8 { - } 6 1 . 5 7 3 0 [ \$ 中性洗涤纤维(NDF)/有机物（OM）][16]。
+
+表1TMR组成及营养水平(干物质基础)  
+Table1 Composition and nutrient levels of the TMR（DM basis）  
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>毛棉籽 Cottonseed</td><td>4.66</td></tr><tr><td>羊草Leymuschinensis</td><td>17.62</td></tr><tr><td>苜蓿Alfalfa</td><td>18.28</td></tr><tr><td>玉米黄贮 Yellow maize silage</td><td>3.94</td></tr><tr><td>玉米青贮Maize silage</td><td>15.18</td></tr><tr><td>玉米干酒糟及其可溶物 MaizeDDGS</td><td>3.78</td></tr><tr><td>豆粕 Soybean meal</td><td>2.28</td></tr><tr><td>蒸汽压片玉米 Steam flaked corn</td><td>9.02</td></tr><tr><td>麸皮Wheat bran</td><td>2.18</td></tr><tr><td>精饲料 Concentratel)</td><td>20.31</td></tr><tr><td>预混料 Premix2</td><td>1.92</td></tr><tr><td>食盐 NaCl</td><td>0.83</td></tr><tr><td>合计Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td></tr><tr><td>中性洗涤纤维 NDF</td><td>42.24</td></tr><tr><td>粗蛋白质 CP</td><td>16.65</td></tr><tr><td>粗灰分 Ash</td><td>6.90</td></tr><tr><td>产奶净能 NEL/(MJ/kg)</td><td>6.36</td></tr></table></body></html>
+
+1精饲料可为每千克 TMR 提供 Concentrate provided the following per $\mathrm { k g }$ diets: VA 10 000 IU, $\mathrm { V D } _ { 3 } 4 0 0 0$ （204 IU,VE 70 IU， Se $0 . 5 ~ \mathrm { m g }$ ， $\mathrm { M n } \ 1 5 0 \mathrm { m g }$ ， Zn 150 mg，Co 2 mg, $\mathrm { ~ I ~ } 5 \mathrm { ~ m g ~ }$ ， $\mathrm { C u } 3 5 \mathrm { m g }$ ，Fe $5 0 0 ~ \mathrm { m g }$ 。 （204 $^ 2 { } ^ { ) }$ 预混料可为每千克 TMR 提供 Premix provided the folowing per kg diets: VA1 600 000 IU, $\mathrm { V B } _ { 3 }$ 300 000 IU, VE 3 500 IU, Se $1 0 0 ~ \mathrm { { m g } }$ ，Mn 2 400 mg, $Z n 1 8 0 0 0 { \mathrm { m g } }$ , Co 40 mg, I 200 mg, $\mathrm { C u } 2 8 0 0 \mathrm { m g }$ ，Fe $6 0 0 0 \mathrm { m g }$ 。 3）营养水平为计算值。Nutrient levels were calculated values.
+
+1.3 试验设计
+
+TMR 制作一般坚持先粗后精、先干后湿的原则，首先搅拌羊草和苜蓿，搅拌时间控制在 $1 0 { \sim } 2 0 \ \mathrm { \ m i n }$ 。与苜蓿相比，羊草质地更为粗糙，纤维含量更高，因此TMR机处理粗饲料时，羊草的搅拌时间更长。作者在参观学习了澳亚牧场、佳宝牧场和鲁宝牧场的 TMR制作后，设计了羊草和苜蓿不同的搅拌时间梯度，以此来改变TMR粒度。试验按 $4 { \times } 4$ 的拉丁方设计进行，分为细颗粒牧草（FH）组[苜蓿搅拌 $1 2 \ \mathrm { m i n }$ ，羊草搅拌$2 0 \mathrm { m i n } ]$ 、中细颗粒牧草（MFH)组[苜蓿搅拌 $9 \mathrm { m i n }$ ，羊草搅拌 $1 5 \mathrm { m i n } ]$ 、中长颗粒牧草（MLH）组[苜蓿搅拌 $6 \mathrm { m i n }$ ，羊草搅拌 $1 0 \mathrm { m i n } ]$ 、长颗粒牧草(LH)组[苜蓿搅拌 $3 \mathrm { m i n }$ ，羊草搅拌 $\cdot 5 \mathrm { m i n } ]$ 。共进行4期试验，每期 $1 9 \mathrm { ~ d ~ }$ ，前14d为预试期，后5d为采样期。TMR搅拌采用9JSG-10卧式搅拌机，由泰安意美特机械有限公司生产。
+
+表2TMR 的粒度分布  
+Table 2The particle sizes of diets   
+%   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td></tr><tr><td>FH</td><td>MFH</td><td>MLH</td><td>LH</td></tr><tr><td>干物质 DM</td><td></td><td></td><td></td><td></td></tr><tr><td>≥19.00 mm</td><td>36.60</td><td>45.20</td><td>53.66</td><td>60.20</td></tr><tr><td>8.00~ (<19.00) mm</td><td>27.24</td><td>25.50</td><td>24.22</td><td>17.81</td></tr><tr><td>≥1.18~ (<8.00) mm</td><td>19.41</td><td>16.55</td><td>11.51</td><td>12.36</td></tr><tr><td><1.18 mm</td><td>16.75</td><td>12.75</td><td>10.62</td><td>9.63</td></tr><tr><td>物理有效系数（>1.18mm）</td><td>0.83</td><td>0.87</td><td>0.89</td><td>0.90</td></tr><tr><td>pef （>1.18 mm)</td><td></td><td></td><td></td><td></td></tr><tr><td>中性洗涤纤维 NDF</td><td></td><td></td><td></td><td></td></tr><tr><td>≥19.00 mm</td><td>49.72</td><td>57.52</td><td>65.14</td><td>72.62</td></tr><tr><td>8.00~ (<19.00) mm</td><td>21.36</td><td>20.99</td><td>18.82</td><td>12.99</td></tr><tr><td>≥1.18~ (<8.00) mm</td><td>15.58</td><td>10.98</td><td>8.04</td><td>7.57</td></tr><tr><td><1.18 mm</td><td>13.34</td><td>10.50</td><td>8.00</td><td>6.82</td></tr></table></body></html>
+
+1.4样品采集
+
+1.4.1 饲料样的采集
+
+采样期每天记录饲喂量、剩料量，采集TMR样品和剩料样品， $6 5 ~ \mathrm { ^ { \circ } C }$ 烘干，粉碎， $4 ^ { \circ } \mathrm { C }$ 冷藏保存。
+
+# 1.4.2 奶样的采集
+
+每期试验第15、16、17天记录产奶量，分别在07：00和19：00 挤奶，按早晚比例4:6共取样 $5 0 0 ~ \mathrm { m L }$ ，取样前用搅拌器把奶充分搅拌，使奶的组成均匀一致。每 $1 0 0 ~ \mathrm { { m L } }$ 奶样加入 $3 3 \%$ 的 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 溶液2\~3滴防腐， ${ \bf - } 2 0 ^ { \circ } \mathrm { C }$ 冷冻保存，用于乳成分分析。
+
+# 1.4.3 血样的采集
+
+每期试验第16、17天晨饲前、饲喂后 $6 \mathrm { ~ h ~ }$ 尾根静脉采血，注射器及离心管均用2500$\scriptstyle { \mathrm { I U / m L } }$ 的肝素钠溶液抗凝， $5 0 3 \times g$ 下离心 $1 5 \mathrm { m i n }$ ，分离血浆，- $2 0 \ \mathrm { { ^ \circ C } }$ 冷冻保存。
+
+# 1.4.4 粪样的采集
+
+每期试验第18、19d连续2天采集粪样。粪样：每6h采集并称重1次，搅拌均匀，取总量的 $10 \%$ ，加入 $20 \%$ 的硫酸( $\mathrm { 1 0 ~ m L }$ 每 $\boldsymbol { 1 0 0 } \mathrm { \ g }$ 粪样)固氮。 $6 5 \ \mathrm { ^ \circ C }$ 烘干，测定初水分，粉碎， $- 2 0 \ { ^ { \circ } C }$ 保存。
+
+1.5 测定指标及方法
+
+# 1.5.1 营养水平的测定
+
+TMR、剩料、粪尿中粗蛋白质（CP）含量的测定采用凯氏定氮法，NDF 含量的测定方法采用Van Soest提出的洗涤纤维分析方法，DM、OM、粗灰分（ash）含量的测定参考张丽英主编的《饲料分析与饲料质量检测技术》，总能采用 PARR 公司的6200 氧弹量热仪测定。剩料中peNDF含量采用以下公式计算：
+
+peNDF=NDF $\times$ 物理有效系数（pef）（ $\mathrm { > } 1 . 1 8 ~ \mathrm { m m } \dot { }$ ）°
+
+# 1.5.2 粒度的测定
+
+TMR和剩料粒度的测定采用BX-4型奶牛便携式分级筛，由中国农业大学奶牛研究中心和北京戴瑞利德科技发展有限公司研制生产。
+
+# 1.5.3 血浆生化指标的测定
+
+血浆谷丙转氨酶、谷草转氨酶、碱性磷酸酶活性，葡萄糖、尿素氮、尿酸、甘油三酯浓度均采用日本和光纯药工业株式会社提供的试剂盒测定，按说明书操作，在日立7020型全自动分析仪上进行测定。
+
+# 1.5.4 乳成分的测定
+
+乳脂率、乳蛋白率、乳糖率的测定使用乳成分分析仪(78110，Foss)测定。
+
+# 1.5.5 奶牛咀嚼活动的测定
+
+在试验场地根据奶牛位置安装带有8个摄像头的视频系统对奶牛的咀嚼活动录像2d,根据获得的视频，连续的 $2 4 \mathrm { h }$ 内以每 $5 \mathrm { m i n }$ 为间隔单位记录其采食和反刍时间。动物停止采食后 $2 0 \mathrm { m i n }$ 内不再继续采食，则认为采食停止；一次反刍结束后 $5 \mathrm { m i n }$ 内不开始下一次
+
+反刍，则认为反刍结束。咀嚼时间以采食时间 $+$ 反刍时间的形式表示。
+
+# 1.6 数据处理
+
+试验原始数据在Excel电子表格整理后，使用SAS8.2软件中GLM过程进行方差分析和 Duncan 氏多重比较， $P { < } 0 . 0 5$ 为差异显著， $0 . 0 5 { \le } P { < } 0 . 1 0$ 为存在差异趋势。
+
+2结果
+
+# 2.1 养分表观消化率
+
+由表3可见，不同TMR 粒度对奶牛DM、OM、NDF、peNDF 和氮（N）的摄入量没有显著影响（ $\cdot  { P } { > } 0 . 0 5 \$ )，但对奶牛DM、OM、NDF和N的全消化道表观消化率有显著的影响(（ $( P { < } 0 . 0 5 )$ 。与MLH组和LH组相比，FH组和MFH组的DM全消化道表观消化率显著提高（ $P { < } 0 . 0 5 \mathrm { { ) } }$ )，FH组和MFH组之间、MLH组和LH组之间没有显著差异（ $( P { > } 0 . 0 5 )$ ；FH组的OM全消化道表观消化率显著高于LH组（ $. P { < } 0 . 0 5 )$ ，MFH组显著高于MLH组和LH组（ $_ { ( P < 0 . 0 5 ) }$ ，FH 组和MFH组之间、MLH组和LH组之间、FH组和MLH组之间的没有显著差异（ $( P { > } 0 . 0 5 )$ ；与MLH组和LH组相比，FH组和MFH组的NDF全消化道表观消化率显著提高 （ $_ { \cdot } P { < } 0 . 0 5 )$ ，FH 组和MFH组之间、MLH 组和LH组之间NDF 没有显著差异（ $( P { > } 0 . 0 5 )$ ；FH组和MFH组的 $\mathbf { N }$ 全消化道表观消化率显著高于LH组（ $. P { < } 0 . 0 5 \rangle$ ，FH组、MFH组和MLH组之间没有显著差异（ $P { > } 0 . 0 5 \rangle$ )，MLH 组和LH 组之间没有显著差异（204 $( P { > } 0 . 0 5 )$ 。
+
+表3TMR粒度对奶牛养分表观消化率的影响   
+Table 3Effects of particle size of TMR on nutrient apparent digestibility in dairy cows   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td><td rowspan="2">R-MSE</td><td rowspan="2">P值 P-value</td></tr><tr><td>FH</td><td>MFH</td><td>MLH</td><td>LH</td></tr><tr><td>摄入量 Intake/(kg/d)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>21.40</td><td>21.83</td><td>20.30</td><td>19.93</td><td>1.49</td><td>0.318</td></tr><tr><td>有机物OM</td><td>19.83</td><td>20.24</td><td>18.83</td><td>18.46</td><td>1.37</td><td>0.312</td></tr><tr><td>物理有效纤维 peNDF</td><td>7.34</td><td>7.70</td><td>7.36</td><td>7.37</td><td>0.64</td><td>0.834</td></tr><tr><td>中性洗涤纤维 NDF</td><td>8.87</td><td>8.91</td><td>8.26</td><td>8.17</td><td>0.71</td><td>0.381</td></tr><tr><td>氮N</td><td>0.58</td><td>0.60</td><td>0.56</td><td>0.55</td><td>0.042</td><td>0.357</td></tr><tr><td colspan="2">粪的养分含量 Nutrient content in feces/(kg/d)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>6.37b</td><td>6.45b</td><td>7.64a</td><td>7.95a</td><td>0.85</td><td>0.092</td></tr><tr><td>有机物OM</td><td>5.79b</td><td>5.66b</td><td>6.94a</td><td>7.21a</td><td>0.58</td><td>0.035</td></tr><tr><td>中性洗涤纤维 NDF</td><td>3.44b</td><td>3.71ab</td><td>4.30a</td><td>4.56a</td><td>0.26</td><td>0.048</td></tr><tr><td>氮N</td><td>0.131ab</td><td>0.122b</td><td>0.145a</td><td>0.151a</td><td>0.018</td><td>0.068</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="7">表观消化率 Apparent digestibility/%</td></tr><tr><td>干物质DM</td><td>70.24a</td><td>70.44a</td><td>62.39b</td><td>60.09b</td><td>4.05</td><td>0.022</td></tr><tr><td>有机物OM</td><td>70.86ab</td><td>71.96a</td><td>63.19bc</td><td>60.99c</td><td>4.83</td><td>0.043</td></tr><tr><td>中性洗涤纤维 NDF</td><td>61.37a</td><td>58.46a</td><td>48.03b</td><td>44.20b</td><td>5.10</td><td>0.009</td></tr><tr><td>氮N</td><td>77.43a</td><td>78.80a</td><td>73.84ab</td><td>71.50b</td><td>2.99</td><td>0.046</td></tr></table></body></html>
+
+同行数据肩标相同或无字母表示差异不显著（ $P { > } 0 . 0 5 \$ )，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row,values with the same or no letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ 二 while with different small letter superscripts mean significant difference ( $\scriptstyle \cdot < 0 . 0 5$ ).The sameasbelow.
+
+# 2.2 剩料粒度分布
+
+由表4可见，TMR粒度对剩料中粒度 $\geq 1 9 . 0 0 \ \mathrm { m m }$ 、8.00\~（<19.00） mm、1.18\~（<8.00)mm的DM比例及粒度 $\geq 1 9 . 0 0 \ \mathrm { ~ m m }$ 、1.18\~ ( $< 8 . 0 0$ ） $\mathrm { m m }$ 的NDF比例有显著影响（ $P { < } 0 . 0 5 \rangle$ ），随着TMR粒度的增加，剩料中粒度8.00\~（<19.00） $\mathbf { m } \mathbf { m }$ 的NDF比例有增加的趋势（ $. 0 . 0 5 { \le } P { < } 0 . 1 0 \dot { . }$ )。FH组剩料中粒度 $\geq 1 9 . 0 0 \ \mathrm { m m }$ 的DM比例显著低于另外3组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，MFH组、MLH组和LH组差异不显著（ $P { > } 0 . 0 5 \rangle$ ；FH组剩料中粒度8.00\~（<19.00） $\mathrm { m m }$ 的DM比例显著高于另外3组（ $. P { < } 0 . 0 5 )$ ，MFH组、MLH组和LH组之间差异不显著（ $( P { > } 0 . 0 5 )$ ；FH组剩料中粒度 $1 . 1 8 \sim$ ( $< 8 . 0 0$ ） $\mathbf { m m }$ 的DM比例显著高于另外3组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，MFH组、MLH组和LH组之间差异不显著（ $P { > } 0 . 0 5 \$ ；FH组剩料中粒度 $\geq 1 9 . 0 0 \ \mathrm { m m }$ 的NDF比例显著低于另外3组（ $P { < } 0 . 0 5 )$ ，MFH组、MLH组和LH组之间差异不显著（ $( P { > } 0 . 0 5 )$ ；FH组的粒度1.18\~（<8.00）mm的NDF比例显著高于另外3组（ $P { < } 0 . 0 5 \ \cdot$ )，MFH组、MLH组和LH组之间差异不显著（ $P { > } 0 . 0 5 \ \cdot$ )；FH组剩料中粒度 $8 . 0 0 \sim$ （<19.00） $\mathbf { m } \mathbf { m }$ 的NDF比例有高于其他3组的趋势$( 0 . 0 5 { \le } P { < } 0 . 1 0 )$ 。
+
+表4TMR粒度对奶牛剩料粒度分布的影响   
+Table 4Effects of particle size of TMR on particle size distribution of orts in dairy cows $\%$ （204号   
+
+<html><body><table><tr><td rowspan="3">项目Items</td><td colspan="4">组别Groups</td><td rowspan="3">R-MSE</td><td rowspan="2">P值 P-value</td></tr><tr><td>FH</td><td>MFH</td><td>MLH</td><td>LH</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质DM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>≥19.00 mm</td><td>41.75b</td><td>63.61a</td><td>63.66a 14.69b</td><td>65.40a</td><td>6.01</td><td>0.004</td></tr><tr><td>8.00~ (<19.00) mm</td><td>27.84a</td><td>19.31b</td><td>11.95b</td><td>14.03b</td><td>3.93</td><td>0.008</td></tr><tr><td>1.18~ (<8.00) mm</td><td>17.94a</td><td>10.10b</td><td></td><td>10.63b</td><td>2.88</td><td>0.028</td></tr><tr><td><1.18 mm 中性洗涤纤维 NDF</td><td>12.47</td><td>6.98</td><td>9.70</td><td>9.94</td><td>3.58</td><td>0.293</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>≥19.00 mm</td><td>52.85b</td><td>70.435a</td><td>72.59a</td><td>71.70a</td><td>7.72</td><td>0.031</td></tr><tr><td>8.00~ (<19.00) mm</td><td>23.32</td><td>17.53</td><td>11.94</td><td>13.59</td><td>5.44</td><td>0.092</td></tr><tr><td>1.18~ (<8.00) mm</td><td>14.14a</td><td>7.42b</td><td>9.02b</td><td>7.51b</td><td>2.54</td><td>0.029</td></tr><tr><td><1.18 mm</td><td>9.7</td><td>4.617</td><td>6.46</td><td>7.00</td><td>2.80</td><td>0.176</td></tr></table></body></html>
+
+# 2.3 咀嚼活动
+
+由表5可见，TMR粒度对奶牛每天的采食、反刍和咀嚼时间，每千克DM和NDF的采食、反刍和咀嚼时间都没有显著影响（ $( P { > } 0 . 0 5 )$ 。
+
+Table 5Effects of particle size of TMR on chewing activity in dairy cows min   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td><td rowspan="2">R-MSE</td><td rowspan="2">P值 P-value</td></tr><tr><td>FH</td><td>MFH</td><td>MLH</td><td>LH</td></tr><tr><td colspan="7">每天采食、反刍、咀嚼时间 Time spent on eating,ruminating and chewing per day</td></tr><tr><td>采食时间 Eating time</td><td>326.00</td><td>284.50</td><td>309.50</td><td>288.00</td><td>56.59</td><td>0.714</td></tr><tr><td>反刍时间 Ruminating time</td><td>372.50</td><td>362.50</td><td>397.00</td><td>350.00</td><td>73.63</td><td>0.825</td></tr><tr><td>咀嚼时间 Chewing time</td><td>699.50</td><td>647.00</td><td>709.00</td><td>638.00</td><td>82.46</td><td>0.551</td></tr><tr><td colspan="7">每千克干物质采食、反刍、咀嚼时间 Time spent on eating,ruminating and chewing of per kg DM</td></tr><tr><td>采食时间 Eating time</td><td>15.27</td><td>13.01</td><td>15.09</td><td>14.49</td><td>3.18</td><td>0.753</td></tr><tr><td>反刍时间 Ruminating time</td><td>17.45</td><td>16.47</td><td>19.94</td><td>18.05</td><td>3.03</td><td>0.482</td></tr><tr><td>咀嚼时间 Chewing time</td><td>32.77</td><td>29.48</td><td>35.14</td><td>32.54</td><td>3.64</td><td>0.277</td></tr><tr><td colspan="7">每千克中性洗涤纤维的采食、反刍、咀嚼时间 Time spent on eating,ruminating and chewing of per kg NDF</td></tr><tr><td>采食时间 Eating time</td><td>36.91</td><td>32.2</td><td>37.12</td><td>35.43</td><td>8.53</td><td>0.838</td></tr><tr><td>反刍时间 Ruminating time</td><td>42.10</td><td>40.58</td><td>48.89</td><td>43.99</td><td>5.90</td><td>0.312</td></tr><tr><td>咀嚼时间 Chewing time</td><td>79.13</td><td>72.78</td><td>86.28</td><td>79.42</td><td>8.38</td><td>0.264</td></tr></table></body></html>
+
+# 2.4产奶量和乳成分
+
+由表6可见，TMR粒度对奶牛产奶量、乳脂率和乳脂产量、乳糖率和乳糖产量、乳蛋白率和乳蛋白产量都没有显著影响（ $P { > } 0 . 0 5 )$ 。
+
+表5TMR粒度对奶牛咀嚼活动的影响  
+表6TMR粒度对奶牛产奶量和乳成分的影响  
+Table 6Effects of particle size of TMR on milk production and composition in dairy cows   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td><td rowspan="2">R-MSE</td><td rowspan="2">P值 P-value</td></tr><tr><td>FH</td><td>MFH</td><td>MLH</td><td>LH</td></tr><tr><td>产奶量Milk yield/(kg/d)</td><td>21.87</td><td>22.68</td><td>21.94</td><td>22.00</td><td>0.10</td><td>0.659</td></tr><tr><td>乳脂率Milk fat percentage/%</td><td>3.64</td><td>3.88</td><td>3.89</td><td>3.57</td><td>0.47</td><td>0.711</td></tr><tr><td>乳脂产量 Milk fat yield/(g/d)</td><td>794.18</td><td>869.28</td><td>848.05</td><td>777.34</td><td>79.22</td><td>0.384</td></tr><tr><td>乳糖率Lactose percentage/%</td><td>4.43</td><td>4.27</td><td>4.29</td><td>4.18</td><td>0.18</td><td>0.352</td></tr><tr><td>乳糖产量Lactose yield/(g/d)</td><td>970.83</td><td>973.31</td><td>937.04</td><td>913.57</td><td>59.27</td><td>0.478</td></tr><tr><td>乳蛋白率 Milk protein percentage/%</td><td>2.81</td><td>2.89</td><td>2.83</td><td>2.83</td><td>0.08</td><td>0.511</td></tr><tr><td>乳蛋白产量 Milk protein yield/(g/d)</td><td>615.39</td><td>659.79</td><td>621.14</td><td>624.51</td><td>23.54</td><td>0.122</td></tr></table></body></html>
+
+由表7可见，TMR粒度对奶牛血浆中谷丙转氨酶、谷草转氨酶、碱性磷酸酶活性，葡萄糖、尿素氮、尿酸、甘油三酯浓度都没有显著影响（ $( P { > } 0 . 0 5 )$ 。
+
+表7TMR粒度对奶牛血浆生化指标的影响  
+Table 7Effects of particle size of TMR on plasma biochemical indicators in dairy cows   
+
+<html><body><table><tr><td colspan="3">项目Items</td><td colspan="4">组别 Groups</td><td rowspan="2">R-MSE</td><td rowspan="2">P值 P-value</td></tr><tr><td></td><td></td><td>FH</td><td></td><td>MFH</td><td>MLH</td><td>LH</td></tr><tr><td>谷 丙转氨酶</td><td>Alanine am</td><td></td><td>24.25</td><td>28.00</td><td>28.50</td><td>28.13</td><td>4.21</td><td>0.454</td></tr><tr><td>aminotransferase/(U/L)</td><td></td><td>pm</td><td>23.25</td><td>27.00</td><td>27.00</td><td>25.38</td><td>2.87</td><td>0.298</td></tr><tr><td>谷草转氨酶</td><td>Aspartate</td><td>am</td><td>59.25</td><td>58.25</td><td>59.00</td><td>64.13</td><td>9.17</td><td>0.803</td></tr><tr><td>aminotransferase/(U/L)</td><td></td><td>pm</td><td>51.50</td><td>55.88</td><td>55.28</td><td>57.25</td><td>5.93</td><td>0.594</td></tr><tr><td>碱性磷酸 酶</td><td>Alkaline</td><td>am</td><td>21.75</td><td>22.50</td><td>19.75</td><td>20.50</td><td>4.60</td><td>0.833</td></tr><tr><td>phosphatase/(U/L)</td><td></td><td>pm</td><td>18.75</td><td>20.50</td><td>17.75</td><td>19.00</td><td>3.26</td><td>0.702</td></tr><tr><td colspan="2">葡萄糖 Glucose/(mmol/L)</td><td>am</td><td>2.98</td><td>2.80</td><td>3.03</td><td>3.10</td><td>0.32</td><td>0.607</td></tr><tr><td colspan="2"></td><td>pm</td><td>2.88</td><td>2.90</td><td>2.83</td><td>2.59</td><td>0.29</td><td>0.464</td></tr><tr><td colspan="2">尿素氮 Urea nitrogen/(mmol/L)</td><td>am</td><td>5.20</td><td>5.26</td><td>5.14</td><td>5.16</td><td>0.58</td><td>0.986</td></tr><tr><td colspan="2"></td><td>pm</td><td>5.65</td><td>5.78</td><td>5.73</td><td>5.46</td><td>0.55</td><td>0.858</td></tr><tr><td colspan="2">尿酸Urea acid/(μ mol/L)</td><td>am</td><td>23.38</td><td>29.88</td><td>26.63</td><td>25.50</td><td>4.57</td><td>0.329</td></tr><tr><td colspan="2"></td><td>pm</td><td>19.25</td><td>20.13</td><td>23.63</td><td>25.50</td><td>5.13</td><td>0.352</td></tr><tr><td colspan="2">甘油三酯 Triglyceride/(mmol/L)</td><td>am</td><td>0.088</td><td>0.11 0.058</td><td>0.075 0.063</td><td>0.086</td><td>0.02</td><td>0.303</td></tr></table></body></html>
+
+161 am:晨饲前采集的血样；pm:晨饲后6h采集的血样。 162 am: blood sample collected before morning feeding; pm: blood sample collected $6 \mathrm { { h } }$ after morning feeding.
+
+163 3讨论
+
+3.1不同TMR粒度对奶牛养分摄入量和表观消化率的影响
+
+本试验采用拉丁方设计，以不同的TMR 粒度作为唯一的处理，随着 TMR中粗饲料搅拌时间的增加带来的 TMR 粒度的降低，奶牛的 DM 摄入量并没有显著地增加，这与Beauchemin 等[9]、Yang 等[17]、Soita 等[18]的试验结果一致。Belyea等[9]认为对于只饲喂饲草的奶牛，粒度的降低会提高采食量；对于饲喂饲草和精饲料饲粮的奶牛，粒度不会对采食量有影响，这是因为瘤胃充盈度不再是奶牛DM摄入量的限制性因素，奶牛自身的新陈代谢成为DM摄入量的主要限制性因素。Rode 等[20认为只有长饲草才会影响到采食量，而切短的饲草或草粉并不会影响到采食量。但是Jaster 等[21]、Allen[22]、Kononoff 等[7]、Yansari等[5]、Einarson 等更多的研究结果表明，粒度的降低会提高采食量。Allen[22]的研究结果表明，奶牛的采食量和养分的供给会被瘤胃充盈度和食糜的外流速度所限制，粒度的降低
+
+会降低饲草对瘤胃充盈度的影响并且会提高瘤胃的外流速度，导致奶牛采食更多的饲粮。Shaver 等[23]和 Beauchemin 等[24]指出当奶牛采食低质高纤维的饲粮时，饲草粒度的降低会提高奶牛DM摄入量，当饲喂较为平衡的饲粮时，饲草的粒度对奶牛的DM摄入量影响较小。  
+本试验并没有观察到粒度的降低对奶牛DM摄入量的显著影响，可能存在2方面的原因：一方面试验TMR 较为均衡，饲料种类较多，精粗比55.03:44.97（毛棉籽作为精饲料)，且粗饲料品质较好，对奶牛大量饲喂进口苜蓿和东北羊草、青贮玉米，粒度的降低对奶牛DM 摄入量的影响并不显著；另一方面考虑到一些粒度的降低显著提高采食量的试验，如Yansar 等[5]使用的试验饲粮 pef ( $\mathrm { > } 1 . 1 8 \mathrm { m m }$ ）变化范围为0.46-0.71，Einarson 等使用的试验饲粮pef ( $> 1 . 1 8 \mathrm { m m }$ ）变化范围为0.776\~0.952，受TMR搅拌机动力及刀片的影响，该试验使用的饲粮在一般的搅拌时间内 pef （ $\mathrm { > } 1 . 1 8 \mathrm { m m }$ ）的变化范围较小（0.83\~0.90)，可能也是粒度降低对奶牛 DM摄入量影响不显著的原因之一。  
+Mertens[25]研究发现随着TMR 粒度的降低，瘤胃微生物附着饲粮的表面积增加，最终会导致瘤胃发酵的速度加快，对消化有着促进作用；同时，粒度的降低会带来外流速度的加快，食糜在瘤胃中滞留的时间较短，对养分的消化有着负面作用；Yansari 等[5]和 Einarson等试验结果却表明,粒度的降低会降低瘤胃液pH,使瘤胃内微生物的消化能力下降。可见，粒度对饲粮消化率的影响是多方面的，最终的消化率变化是多种因素综合作用的结果。本试验的研究结果表明，随着粗饲料搅拌时间的增加带来的TMR粒度的降低，奶牛DM、OM、NDF和N的表观消化率受到显著的影响，且搅拌时间最长的2组饲粮的DM和NDF的全肠道表观消化率显著高于搅拌时间最短的2组饲粮，搅拌时间最短的1组饲粮N的表观消化率低于其他3组饲粮，OM的全肠道表观消化率在组间也存在差异。Yang等[17]的研究结果表明，粒度的降低对OM的瘤胃消化率和全肠道消化率都没有影响，NDF的在瘤胃和肠道的消化率都有所降低，N的全肠道表观消化率随着粒度的降低而降低。另外，Yansari等[5]的研究结果表明，粒度的降低对DM、OM、N的表观消化率都没有影响，但是降低了NDF的表观消化率。Belyea等[19]、Shaver等[23]和Grant等[26]的研究指出，粒度的下降会带来纤维消化率的下降，原因是粒度的下降通常会带来采食量的提高和外流速度的加快。导致试验研究结果同国外研究结果不一致的原因可能有2个方面：首先本试验中粒度的降低并没有对DM、OM、
+
+NDF、peNDF和N的摄入量产生影响，消化率不会因养分摄入量的增加而下降；其次该试验使用的饲粮在一般的搅拌时间内pef （ $\mathrm { > } 1 . 1 8 \mathrm { m m }$ ）的变化范围较小（0.83\~0.90)，粒度的下降可能对瘤胃酸度和外流速度的影响不如对瘤胃微生物消化的影响那么明显。
+
+# 3.2不同TMR粒度对奶牛咀嚼活动的影响
+
+Calberry 等[27]、Kononoff 等[7]和Krause 等[28]许多研究表明，饲粮的NDF含量和粒度是影响奶牛咀嚼活动的重要因素。Beauchemin 等[9]、Krause 等[28]发现随着粒度的降低，奶牛采食时间没有受到影响但反刍时间减少了，Yansar 等[5]的研究结果表明，细度降低后总的咀嚼、反刍和采食时间都降低了。值得注意的是，Yansari等[5的试验中，随着粒度的降低，奶牛的DM摄入量增加了，但是 peNDF 的摄入量减少了，而在 Beauchemin 等[9的试验中,随着粒度的降低，奶牛的DM摄入量没有受到影响但peNDF的摄入量减少了，peNDF的摄入量可能是反映奶牛反刍活动的重要指标。可以肯定的是，奶牛采食量和 peNDF 的摄入量的提高必然会带来奶牛反刍活动的增加，但是采食时间可能不会受到影响。在本试验中，奶牛每天的采食、反刍、咀嚼时间（采食 $^ +$ 反刍时间)，每千克DM的采食、反刍和咀嚼时间，每千克NDF 的采食、反刍和咀嚼时间等多项指标均没有收到 TMR粒度的影响，这与Clark 等[29]的研究结果相一致。另外，在本试验中，由 TMR 搅拌机搅拌时间的增加带来的 TMR 粒度的降低并没有对奶牛DM、NDF 和 peNDF 的摄入量产生影响，可能是奶牛采食、反刍、咀嚼时间多项指标差异不显著的原因。
+
+3.3不同TMR粒度对奶牛产奶量和乳成分的影响
+
+一般来说,TMR粒度主要通过对采食量和消化率的影响来引起产奶量的变化。Einarson等[6]、Kononoff 等[7]、Yang 等[10]、Calberry 等[27]、Krause 等[30]和 Yang 等[31]的多项研究表明，粒度的降低对产奶量没有显著影响，并且在这些试验中，奶牛的DM摄入量都增加了，产奶量并没有显著提高的原因可能是养分消化率的下降。Beauchemin 等的试验结果表明，粒度的降低对奶牛的DM摄入量和产奶量没有显著影响。值得注意的是，Yansari等[5的试验结果中，随着粒度的降低，奶牛的 DM摄入量显著提高，DM、N 的表观消化率没有显著变化，产奶量也没有显著提高。在本试验中，随着 TMR 搅拌机搅拌时间的增加带来的TMR 粒度的降低对奶牛的养分摄入量没有显著影响，而奶牛DM、OM、NDF 和N的表观消化率受到显著的影响，而产奶量在不同组间却没有显著性的差异，可能在实际的试验过程中，影响产奶量的因素比影响采食量和消化率的因素要复杂得多，奶牛配方、饲养管理、场地的舒适程度、天气变化、挤奶管理多种因素都会影响到产奶量。
+
+Shaver 等[23]、Armentano 等[32]、Mertens[25]认为粒度下降引起的纤维消化率的下降，瘤胃液pH的下降，反刍和咀嚼时间的下降，乙酸/丙酸的下降最终都会影响到乳脂率和乳蛋白率；Armentano 等[32l认为对于泌乳中期的奶牛，乳脂率是反映瘤胃发酵状况、瘤胃液 pH和 peNDF 含量的良好指标。本试验没有观察到由TMR 搅拌机搅拌时间的增加带来的 TMR粒度的降低对奶牛乳成分的影响,与 Krause 等[30]、Beauchemin 等[9]、Calberry 等[27]、Einarson等的研究结果基本一致，但是，Yansari等[5的试验结果表明：随着粒度的降低，NDF和peNDF 的摄入量显著降低，奶牛的DM摄入量显著提高，DM、N 的表观消化率没有显著影响，但NDF的表观消化率下降，最终粒度的降低对产奶量影响不显著，乳脂率降低了，乳蛋白率提高了。尽管不同的研究结果存在争议，但是对于粒度的下降和 peNDF摄入量的减少会降低乳脂率这一结论是被普遍认可的，Mertens[25]和Beauchemin 等[33]认为粒度对乳脂率的影响在饲粮NDF含量（ $1 9 . 7 \%$ )低于NRC(1989)最低需要量的情况下更易被观察到。本试验没有观察到乳成分变化的可能原因有3方面因素：首先试验的周期较短（每期试验19 d)，试验动物少（4头奶牛)；其次试验 TMR中包含首蓿（ $1 8 . 2 8 \%$ ）等具有缓冲作用的物质；另外饲粮中的毛棉籽也会直接影响乳脂率。
+
+3.4不同TMR粒度对奶牛血浆生化指标的影响
+
+国内外关于TMR 粒度对奶牛血浆生化指标影响的研究很少。Bhandari等[34]研究发现,降低苜蓿和玉米青贮的长度对血浆葡萄糖和尿素的浓度没有影响，Bhandari 等[15]的试验结果也表明，降低苜蓿和燕麦的长度后，奶牛血浆葡萄糖和尿素的浓度差异不显著，这与本试验的结果一致。Kahn[35]认为奶牛血浆葡萄糖和尿素的正常浓度分别为 $2 . 4 { \sim } 4 . 2 \ \mathrm { m m o l / L }$ 和2.8～8.8 mmol/L。Plaizier[36]发现用切碎的苜蓿代替苜蓿青贮来降低 TMR 粒度能增加血浆葡萄糖的浓度和降低血浆尿素的浓度，但造成这种差异的主要原因是饲料种类而不是TMR 粒度。本试验中粒度的降低并没有对DM、OM、NDF、peNDF和N 的摄入量产生影响，这可能是造成血浆指标差异不显著的原因。
+
+4结论
+
+$\textcircled{1}$ 牧草搅拌时间的适度延长会显著影响TMR的粒度，提高养分的消化率。
+
+（204号 $\textcircled{2}$ 在本试验条件下，TMR适宜的粒度分布如下： $\ge 1 9 . 0 0 \mathrm { m m }$ 、8.00\~(<19.00) mm、1.18\~(<8.00) mm和 $< 1 . 1 8 ~ \mathrm { m m }$ 的干物质比例分别为 $4 5 . 2 0 \%$ 、 $2 5 . 5 0 \%$ 、 $1 6 . 5 5 \%$ 和 $1 2 . 7 5 \%$ ； TMR中苜蓿和羊草适宜搅拌时间分别为9和 $1 5 \mathrm { m i n }$ 。  
+参考文献：  
+[1]孔庆斌,张晓明.苜蓿干草切割长度对荷斯坦育成母牛日粮氮平衡和能量代谢的影响[J]动物营养学报 2008,20(4):429-434.  
+[2] 贺鸣.TMR 中粗饲料不同颗粒大小对干奶牛咀嚼行为和瘤胃发酵的影响[D].硕士学位论文.北京:中国农业大学,2005.  
+[3]李胜利,陈萍,郑博文.如何通过改善奶牛饲料转化效率提高牛奶产量和质量[C]/饲料营养研究进展—一第五届全国饲料营养学术研讨会论文集.北京:中国畜牧兽医学会动物营养学分会,2006:210-216.  
+[4]张骞.TMR 中 PeNDF 水平对奶牛瘤胃发酵及产奶性能的影响[D].硕士学位论文.扬州:扬州大学,2010.  
+[5]YANSARI A T,VALIZADEH R,NASERIAN A,et al.Effects of Alfalfa particle size andspecific gravity on chewing activity,digestibility and performance of Holstein dairycows[J].Journal of Dairy Science,2004,87(11):3912-3924.  
+[6]EINARSON M S,PLAIZIER J C,WITTENBERG K M.Effects of barley silage chop lengthon productivity and rumen conditions of lactating dairy cows fed a total mixed ration[J].Journalof Dairy Science,2004,87(9):2987-2996.  
+[7]KONONOFF P J,HEINRICHS A J.The effect of corn silage particle size and cottonseedhulls on cows in early lactation[J].Journal of Dairy Science,2003,86(7):2438-3451.  
+[8]ALAMOUTI A A,ALIKHANI A M,GHORBANI G R,et al.Effects of inclusion of neutraldetergent soluble fibre sources in diets varying in forage particle size on feed intake,digestiveprocesses,and performance of mid-lactation Holstein cows[J].Animal Feed Science andTechnology,2009,154(1/2):9-23.  
+[9]BEAUCHEMIN K A,YANG W Z,RODE L M.Efects of particle size of Alfalfa-Baseddairy cow diets on chewing activity,ruminal fermentation,and milk production[J].Journal of Dairy
+
+Science,2003,86(2):630-643.
+
+[10]YANG W Z,BEAUCHEMIN K A.Effects of physically effective fiber on chewing activity and ruminal pH of dairy cows fed diets based on barley silage[J].Journal of Dairy Science,2006,89(1):217-228.   
+[11]YANG W Z,BEAUCHEMIN K A.Effects of physically effctive fiber on digestion and milk production by dairy cows fed diets based on corn silage[J].Journal of Dairy Science,2005,88(3):1090-1098.   
+[12]BEAUCHEMIN K A,YANG W Z.Effects of physically effective fiber on intake,chewing activity,and ruminal acidosis for dairy cows fed diets based on corn silage[J].Journal of Dairy Science,2005,88(6):2117-2129.   
+[13]KAHYANI A,GHORBANI G R,KHORVASH M,et al.Effects of alfalfa hay particle size inhigh-concentrate diets supplemented with unsaturated fat,chewing behavior,total-tract digestibility,andmilkproduction of dairy cows[J].Journal of Dairy Science,2013,96(11) :7110-7119.   
+[14]LEONARDI C,ARMENTANO L E.Effect of quantityquality and length of alfalfa hay on selective consumption by dairy cows[J].Journal of Dairy Science,2003,86(2) :557-564.   
+[15]BHANDARI S K,LI S,OMINSKI K H,et al.Effects of the chop lengths of alfalfa silage and oat silage on feed intake,milk production,feeding behavior,and rumen fermentation of dairy cows[J].Journal of Dairy Science,2008,91(5):1942-1958.   
+[16]冯仰廉,陆治年.奶牛营养需要和饲料成分[M].3版.北京:中国农业出版社,2007. [17]YANG W Z,BEAUCHEMIN K A,RODE L M.Effects of particle size of alfalfa-based dairy cow diets on site and extent of digestion[J].Journal of Dairy Science,2002,85(8):1958-1968. [18]SOITA H W,CHRISTENSEN D A,MCKINNON J J.Influence of particle size on the effectiveness of the fiber in barley silage[J].Journal of Dairy Science,2000,83(10):2295-2300. [19]BELYEA R L,MARTIN P J,SEDGWICK H T.Utilization of chopped and long alfalfa by dairy Heifers[J].Journal of Dairy Science,1985,68(5):1297-1301.   
+[20]RODE L M,WEAKLEY D C,SATTER L D.Effect of forage amount and particle size in diets of lactating dairy cows on site of digestion and microbial Protein synthesis[J].Canadian Journal of Animal Science,1985,65(1):101-111.   
+[21] JASTER E H,MURPHY M R.Effects of varying particle size of forage on digestion and chewing behavior of dairy heifers[J].Journal of Dairy Science,1983,66(4):802-810.   
+[22]ALLEN M S.Effects of diet on short-term regulation of feed intake by lactating dairy cattle[J].Journal of Dairy Science,2000,83(7):1598-1624.   
+[23]SHAVER R D,NYTES A J,SATTER L D,et al.Influence of feed intake,forage physical form,and forage fiber content on Particle size of masticated forage,ruminal digesta and feces of dairy cows[J].Journal of Dairy Science,1988,71(6):1566-1567.   
+[24]BEAUCHEMIN K A,RODE L M,ELIASON M V.Chewing activities and milk production of dairy cows fed alfalfa as hay,silage,or dried cubes of hay or silage[J].Journal of Dairy Science,1997,80(2):324-333.   
+[25]MERTENS D R.Creating a system for meeting the fiber requirements of dairy cows[J].Journal of Dairy Science,1997,80(7):1463-1481.   
+[26]GRANT R J,COLENBRANDER V F,MERTENS D R.Milk fat depression in dairy cows:role of particle size of alfalfa hay[J].Journal of Dairy Science,1990,73(7):1823-1833. [27]CALBERRY J M,PLAIZIER J C,EINARSON M S,et al. Effects of replacing chopped alfalfa hay with alfalfa silage in a total mixed ration on production and rumen conditions of lactating dairy cows[J].Journal of Dairy Science,2003,86(11):3611-3619.   
+[28]KRAUSE K M,COMBS D K,BEAUCHEMIN K A.Effects of forage particle size and grain fermentability in midlactation cows.II.Ruminal pH and chewing activity[J].Journal of Dairy Science,2002,85(8):1947-1957.   
+[29] CLARK P W,ARMENTANO L E.Influence of particle size on the effectiveness of the fiber in corn silage[J].Journal of Dairy Science,1999,82(3):581-588.   
+[30]KRAUSE K M,COMBS D K,BEAUCHEMIN K A.Effects of forage particle size and grain ferment ability in midlactation cows.I .Milk production and diet digestibility[J].Journal of Dairy Science,2002,85(8):1936-1946. [31]YANG W Z,BEAUCHEMIN K A,RODE L M.Efects of grain processing,forage to concentrate ratio,and forage particle size on rumen $\mathrm { p H }$ and digestion by dairy cows[J].Journal of Dairy Science,2001,84(10):2203-2216.   
+[32]ARMENTANO L,PEREIRA M.Measuring the effectiveness of fiber by animal response trials[J].Journal of Dairy Science,1997,80(7):1416-1425.   
+[33]BEAUCHEMIN K A,FARR B I,RODE L M,et al.Effects of alfalfa silage chop length and supplementary long hay on chewing and milk production of dairy cows[J].Journal of Dairy Science,1994,77(5):1326-1339.   
+[34]BHANDARI S K,OMINSKI K H,WITTENBERG K M,et al.Effects of chop length of alfalfa and corn silage on milk production and rumen fermentation of dairy cows[J].Journal of Dairy Science,2007,90(5):2355-2366.   
+[35]KAHN C M.The Merck veterinary manual[M].9th ed.Rahway,NJ:Merck & Co Inc.,2005. [36]PLAIZIER J C.Replacing chopped alfalfa hay with alfalfa-silage in barley grain and alfalfabasedtotalmixed rationsforlactatingdairycows[J].Journal ofDairy Science,2004,87(8):2495-2505.   
+Effects of Particle Size of Total Mixed Ration on Feed Intake, Chewing Activity and Performance in Dairy Cows   
+LI Yantao YAN Rui HU Zhiyong LIN Xueyan WANG Zhonghua\*   
+(College of Animal Science and Technology， Shandong Agricultural University， Tai'an 271018，China)   
+Abstract:This experiment was conducted to study the efects of particle size of total minxed ration (TMR) on feed intake, chewing activity and performance in dairy cows, which was used to determine the appropriate particle size of TMR and mixing time of alfalfa and Leymus chinensis during TMR processing. Four multiparous Holstein dairy cows [body weight was ( $6 1 6 . 8 { \pm } 4 4 . 3 \dot { }$ ）
+
+kg] at mid-lactation [days in milk was $( 8 5 \pm 7 )$ d] were randomly assigned to 4 groups in a $4 { \times } 4$ Latin square. Particle size of TMR were changed according to changing mixing time of alfalfa and Leymus chinensis, and the 4 groups were as follows: fine practicle hay (FH) group (mixing time of alfalfa and Leymus chinensis was 12 and $2 0 ~ \mathrm { m i n }$ ,rescpectively),medium-fine practicle hay (MFH) group (mixing time of alfalfa and Leymus chinensis was 9 and $1 5 \mathrm { m i n }$ ,rescpectively), medium-long practicle hay (MLH) group (mixing time of alfalfa and Leymus chinensis was 6 and $1 0 \mathrm { m i n }$ , rescpectively) and long practicle hay (LH) group (mixing time of alfalfa and Leymus chinensis was 3 and $5 \mathrm { m i n }$ ,rescpectively). The experiment consisted of 4 periods of $1 9 \mathrm { d }$ with 14 d for adaptation and $5 \mathrm { ~ d ~ }$ for sampling in each period. Milk yield was recorded and milk sample was collected to determine milk composition in the first three days of sampling period, monitoring system was used to measure chewing activity on the second and third days of sampling period,and feces sample was collected to evaluate nutrient apparent digestibility in last two days of sampling period. The results showed as follows: particle size of TMR had significant effects on apparent digestibility of dry matter，organic matter，neutral detergent fiber and nitrogen; compared with MLH and LH groups $( P { < } 0 . 0 5 )$ ， apparent digestibility in FH and MFH groups was higher. Particle size of TMR had no significant efects on intakes of dry matter, physical effective neutral detergent fiber, neutral detergent fiber and nitrogen, as well as milk yield and milk composition $( P { > } 0 . 0 5 )$ . No significant differences were detected on chewing activity and plasma biochemical indicators caused particle size of TMR $( P { > } 0 . 0 5 )$ . The results indicate that the suitable particle size distribution of TMR can be as follows: the percentages of dry matter $\geq 1 9 . 0 0 \ \mathrm { m m }$ ，8.00\~(<19.00) mm， 1.18\~(<8.00) mm and $< 1 . 1 8 \ \mathrm { m m }$ are $4 5 . 2 0 \%$ ， $2 5 . 5 0 \%$ ， $1 6 . 5 5 \%$ and $1 2 . 7 5 \%$ ， respectively; the suitable mixing time for alfalfa and Leymus chinensis in TMR are 9 and $1 5 \mathrm { m i n }$ , respectively.
+
+Key words: dairy cow; total mixed ration； mixing time； particle size; feed intake; chewingactivity; performance

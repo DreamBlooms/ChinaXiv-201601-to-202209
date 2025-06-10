@@ -1,0 +1,527 @@
+[
+    {
+        "type": "text",
+        "text": "间充质干细胞治疗产品开发现状与趋势",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "毛开云 范月蕾 王跃 陆娇 陈大明\\*\\*（中国科学院上海生命科学信息中心，上海，200031)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的：从产品开发角度分析间充质干细胞治疗产品的发展现状和未来趋势。方法：检索科睿唯安（Clarivate Analytics）的Cortellis 数据库的数据，利用定量分析法和对比分析法对检索结果进行分析。结果：目前已有5种间充质干细胞治疗产品上市，9种间充质干细胞治疗产品处于注册及临床期，未来市场上的间充质干细胞治疗产品将呈现快速增长趋势。Mesoblast、FCB等公司在间充质干细胞治疗产品的拥有量上具有优势。间充质干细胞产业内部的商业交易也越来越多，目前共发生包括药物开发及商业化许可、专利资产出售以及早期药物研发合作等12起交易，其中药物开发及商业化许可是最主要的交易模式。尽管中国的间充质干细胞治疗产品研究尚处于起步阶段，但中国的西比曼生物、北科生物等公司已有多款产品处于临床阶段，中国本土的间充质干细胞治疗产品前景可期。结论：虽然间充质干细胞治疗产品市场尚处于起步阶段，但其技术发展快，市场需求大，相关企业产品研发与商品化积极性高，上升潜力巨大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：间充质干细胞；治疗产品；市场竞争；临床研发 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Development Status and Trend Analysis of Mesenchymal Stem Cells Therapeutic Products ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MAO Kai-Yun, FAN Yue-Lei, WANG Yue, LU Jiao, CHEN Da-Ming (Shanghai Information Center forLife Sciences,Chinese Academy of Sciences，Shanghai,2Ooo31,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 Objective: To analyze the development status and trend of Mesenchymal stem cells (MSCs） therapeutic products in the sense of product manufacturing.Methods: Based on the Cortellis database of Clarivate Analytics,this paper analyzed the searching results with utilizing quantitative analysis and comparative analysis methods.Results: Currently,5 MSCs therapeutic products have been launched into markets，and another 9 MSCs therapeutic products are at registration phase or Phase II clinical trial. In addition, companies such as Mesoblast and FCB have an advantages over MSCs therapeutic products in the market. And business deals related to MSCs products are increasing in recent years, including 12 deals so far, ranging from drug development, commercial license, and patent assets sales to drug R&D cooperation in early phase. As for China, several MSCs therapeutic products are at clinical stage, and a bright prospect can be expected for Chinese MSCs therapeutic product markets.Conclusion: Although MSCs therapeutic product market still at its preliminary stage,the market potential is considerably huge since the fast-developing technologies, enormous market demand as well as the high motivation of related companies in MSCs R&D and commercialization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Mesenchymal Stem Cells; Therapeutic Products; Market Competition; Clinical R&D ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干细胞又称为起源细胞、万用细胞，是一类具有自我更新和分化潜能的细胞，由于其在再生医学领域的广泛应用，干细胞是生物医药领域研究的绝对热点。1999年美国《科学》杂志将干细胞研究列为世界十大科学成就之首，排在克隆技术和人类基因组测序之前。2008年，诱导多潜能干细胞研究分别被《自然》和《科学》杂志评为第一和第二位的重大科学进展。1此外，2007年和2012年的诺贝尔生理或医学奖都颁给了极具潜力的干细胞研究。在产业领域，干细胞也展现出巨大的市场潜力。据前瞻产业研究院《中国干细胞医疗行业发展前景预测分析报告》数据统计，2010年，全球干细胞医疗市场规模为215亿美元，到 2015年时已增至635亿美元。预计到2018年，全球干细胞医疗市场将超过千亿美元，达到1195亿美元²。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "成体干细胞是临床应用最成熟的一类。造血干细胞、间充质干细胞都是成体干细胞。其中，间充质干细胞因其来源丰富、制备简单、多能性、低免疫源性和致瘤性等特征越来越受到关注，间充质干细胞的多向分化能力和免疫调节作用使其呈现出很大的临床潜在利用价值。美国临床试验数据库ClinicalTrials数据显示，目前与间充质干细胞相关的临床试验已涉及300 多种疾病，单是在美国开展的与间充质干细胞相关的临床试验就达到了650多件，主要的疾病包括骨损伤、神经退行性疾病、糖尿病、心肌缺血、重症肌无力、肝损伤等。因此，本文将间充质干细胞治疗产品作为主要的研究对象，研究间充质干细胞产品及市场的发展现状，希望为我国相关产业的发展提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf7d36d6513d7a3678a2f63f1ee2b1d82e4c050663e2f35aef9921165b30c27e.jpg",
+        "table_caption": [
+            "表1各类干细胞特性比较",
+            "Table1 The Characteristic ComparisonofDifferent Stem Cells "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>胚胎干细胞</td><td>诱导多潜能干细胞</td><td>间充质干细胞</td><td>造血干细胞</td><td>祖细胞</td></tr><tr><td>治疗范围</td><td>广泛</td><td>广泛</td><td>比较广泛</td><td>一般为血液病</td><td>器官特异性局限</td></tr><tr><td>产业化</td><td>不易</td><td>不易</td><td>容易</td><td>一般</td><td>不易</td></tr><tr><td>伦理问题</td><td>较大</td><td>较小</td><td>较小</td><td>较小</td><td>较小</td></tr><tr><td>致瘤性</td><td>强</td><td>强</td><td>较弱</td><td>较弱</td><td>较弱</td></tr><tr><td>配型</td><td>需要</td><td>不需要</td><td>不需要</td><td>需要</td><td>需要</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用科睿唯安（Clarivate Analytics，原汤森路透知识产权与科技事业部）的Cortellis（原名 Thomson Reuters Pharma）数据库检索对象，检索时间是 2017年3月23日，其中药物研发和药物交易分别从高级检索中\"Drugs\"和\"Deals\"两个入口检索。其中药物研发和药物交易检索均采用\"技术（Technologies）”分类中\"生物技术概念（Biotechnologyconcept）”，选择\"细胞治疗（Cell therapy）\"技术中“干细胞治疗（Stemcelltherapy）”，通过干细胞来源查找到成体干细胞治疗（Adult stem cell therapy）中的\"间充质干细胞治疗（Mesenchymal stem cell",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "therapy）”，并将其作为分析对象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主要采用定量分析法和对比分析法。在定量分析法方面，将数量特征、数量关系与数量变化进行统计分析，以作为对比分析的基础；在对比分析法方面，通过实际数与基数的对比来提示实际数与基数之间的差异，借以了解分析对象目前所处的现状和趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2．结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1总体研发现状",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "间充质干细胞领域的研究起源于20世纪60年代，Friedenstein教授于1968年从骨髓中发现一群干细胞能支持造血和分化为骨细胞，这类贴壁培养的干细胞呈漩涡状生长，他在1988 年将这类干细胞命名为\"骨髓基质干细胞”。由于这些细胞来源于发育早期的中胚层，Caplan 教授在1991年进一步把这类干细胞命名为\"间充质干细胞”，间充质干细胞由此得名。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "间充质干细胞由于其在疾病治疗领域的巨大优势发展迅速。1995年Caplan 教授首次将间充质干细胞应用于临床，并证明了间充质干细胞用于治疗疾病的安全性。这是间充质干细胞研究史上的第一个里程碑式的事件，使间充质干细胞的研究从实验室跨入到实际的临床应用。间充质干细胞的分化潜能与免疫抑制能力的发现将间充质干细胞的研究与应用推向高潮，以间充质干细胞作为治疗手段及药品的研究如火如茶。2012年，Osiris 公司申报间充质干细胞作为药品上市得到加拿大FDA的批准，是间充质干细胞首次作为药物在全球上市。此后，越来越多的间充质干细胞产品进入临床或进入市场，更多的患者将从中获益。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f623d77a236d2294a00d832de3c88074b63c34d3aba6bcd603ab2d02d566bb6.jpg",
+        "table_caption": [
+            "表2间充质干细胞大事记 Table2 Significant Events in MSCs Development "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>事件</td></tr><tr><td>1968年</td><td>Friedenstein教授发现骨髓中存在一群干细胞能支持造血和分化为骨细胞， 在1974年体外培养获得成果，这类贴壁培养的干细胞呈漩涡状生长。</td></tr><tr><td>1991年</td><td>Caplan教授把这类干细胞命名为\"间充质干细胞”，“间充质干细胞\"的命名逐 渐被广泛接受和使用4。</td></tr><tr><td>1995年</td><td>Caplan 教授从恶性血液病患者骨髓抽取并分离培养出这些贴壁的基质细 胞，然后回输到患者体内，观察临床效果并证明这些基质的安全性，使间 充质干细胞的研究从实验室跨入到实际的临床应用4。</td></tr><tr><td>1999年</td><td>Pittenger等在science发表文章，首次证明间充质干细胞具有多向分化能力， 能分化为脂肪细胞、成骨细胞、软骨细胞，激发了众多研究者对间充质干 细胞的分化潜能的研究。</td></tr><tr><td>2002年</td><td>研究发现间充质干细胞有强大的免疫抑制能力。随后发现MSC本身具有低 免疫原性，即使异体或跨种属使用，均难于引起免疫排斥反应。间充质干 细胞的这些免疫特性，非常有利于用于治疗免疫性疾病，包括移植排斥反 应和自身免疫性疾病5。</td></tr><tr><td>2006年</td><td>国际细胞治疗协和（ISCT）统一了间充质干细胞的定义（也是鉴定标准）， 使得间充质干细胞有了全球范围的最低鉴定标准。这个定义包括三方面的 内容：①，贴壁生长；②，细胞表面表达一些特异性抗原（标记物)；③具</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae58a0cef339e40da33775f0219f6d5ac7b1e34cf40339c03001f890033c0233.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">有向脂肪细胞、成骨细胞、软骨细胞分化的能力。</td></tr><tr><td>2012年</td><td>Osiris公司申报MSC作为药品上市得到加拿大FDA的批准，适应症为儿童 急性激素抵抗的移植物抗宿主病（GVHD），随后适应症扩大为成年人 GVHD，并在新西兰、瑞士等国上市5。</td></tr><tr><td>2016年</td><td>日本厚生劳动省完全批准间充质干细胞治疗产品Temcell用于治疗GvHD患 者。</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从Cortellis的数据来看，至今共记录有178件间充质干细胞治疗产品，其中绝大多数产品处于研发与临床阶段，处于研发阶段的产品占产品总量的 $28 \\%$ ，处于临床阶段的产品占产品总量的 $33 \\%$ ，可见间充质干细胞产品研发的热度升温。在所有产品中，已有5件产品在美国、日本、韩国、德国等国上市，正式进入市场。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/37951daf90b29b54e7d5cfae1a1414f2d196db0b1fa5fdb172b45f16558bbfb7.jpg",
+        "img_caption": [
+            "图1全球间充质干细胞治疗产品总体研发现状"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：（1）预注册：已提交该药物上市的申请，在等待批准的阶段；（2）注册：相关的授权机构已经批准该药物可以上市，但该药物还没有在市面上提供；（3）没有研发报道：在该公司上一次发布更新至少18个月以上没有研发报告，或者一个项目在该公司网站上的研发管线中已经消失，但之前是有研发状态的；（4)终止：该药物在制剂申请注册前（或者即使已经申请注册，但没有获得批准)，针对某个适应症的研发已终止；（5）暂停：药物的发展阶段处于临时被该公司停止的状态，但不是终止（例如：由于在试验中出现副作用，现金流的问题，或等待战略性评估)。（6）发现：包括发现/探索及临床前的阶段，在动物体内的临床前药理学/毒理学评价。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 the Global R&D Status of MSCs Therapeutic Products ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2重要产品研发进展",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前，共有14 件产品处于临床III期、注册与上市阶段，这些产品都是或极大可能上市造福患者，这些产品中有5件产品处于上市阶段(表3),2件产品处于注册和预注册阶段（表4)，7件产品处于临床II期（表5)。对这些产品上市的国家和地区进行分析后发现，发达国家是间充质干细胞产品的优先上市国家，源于这些国家先进的科研技术、完善的药品审核流程及监管体制，印度、以色列与哈萨克斯坦等发展中国也相继有间充质干细胞产品进入注册阶段与临床IⅢI期。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1已上市 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) remestemcel-L/Prochymal ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Prochymal（remestemcel-L）是Mesoblast从美国 Osiris 公司收购的一种较成熟的干细胞产品，用于治疗aGVHD，该产品由来自于健康捐献者骨髓中的间充质干细胞制备而成，从一个供源的骨髓中分离出干细胞并进行扩大培养，能够获得多达一万个剂量的 Prochymal。目前，Prochymal已在加拿大和新西兰上市，在包括美国的另外七个国家可通过一项扩大使用计划获取。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，Mesoblast也与仿制药巨头Teva及日本JCR制药公司达成干细胞技术合作。JCR获得了Prochymal在日本的销售权，本土名称为TEMCELL，2015年11月该公司收到日本药监部门对其TEMCELL产品的定价，一袋细胞公司收到医疗返款7079美元，而一个疗程则在11万至17万美元之间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) OsteoCel ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2005 年，Osiris 公司的骨再生产品Osteocel上市销售。OsteoCel是一款保留骨骼中天然干细胞群的骨基质产品，用于骨骼矫形过程中的骨骼再生。这类产品的使用过程类似于自体移植，但因为其具有生物活性，其成为目前市场上唯一的用于骨引导、骨诱导、骨生成的自体移植产品。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该产品2006年销售额为800万美元，2007年销售额达到1500万美元。即便如此，还是难以支撑OsteoCel干细胞治疗产品开发的庞大费用。2008 年，Osiris 公司将OsteoCel以8500万美元卖给了美国医疗器械类生物技术公司NuVasive。因此，作为NuVasive的产品，可以看到OsteoCel上市时间为2008年。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3） Cartistem ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cartistem由汉城Medipost公司开发，来源于新生儿脐带血干细胞，有助于膝盖软骨的再生，这是世界上第一个获批的异体（从同一物种的不同个体采集）干细胞治疗产品，可以为退行性关节炎患者提供新的治疗机遇。该药物可通过手术注射到患者的膝盖。目前，该药物的适应症主要为软骨疾病和退行性关节炎，产品于2012年获批上市。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Dong-A公司于2012年获得该药物的生产许可。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4) t2c-001 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "t2c-001药物最早由法兰克福大学研发，后由t2cure 公司与法兰克福大学合作研制，该产品已于2012年在德国上市，主要适应症为心肌梗死。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(5） Hearticellgram-AMI ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2011年，由FCB-Pharmicell公司开发的心脏病急性心肌梗塞治疗药物Hearticellgram-AMI由韩国食品药品监督管理局批准上市，适应症为急性心肌梗塞。Hearticellgram-AMI成为全球首个利用自身骨髓间充质干细胞制成的治疗急性心肌梗死的干细胞药物，给药途径为局部冠状动脉注射。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2注册阶段",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) Stempeucel ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Stempeutics 公司研发的 Stempeucel主要用于治疗严重肢体缺血症，可直接针对该疾病的根本原因。Stempeucel是一种基于池化（Pooling）技术的干细胞治疗产品，主要来自从健康的成人志愿捐献者身上提取的同种异体骨髓间充质干细胞。该公司专属的池化方法让生产过程更高效、资源浪费最少、患者获得价格较低的产品。这种方法能让单个主细胞库产生100 多万名患者使用的剂量，这在再生性的药品中独一无二。这种专属技术让 Stempeucel能在多个疾病类别中增加药物的治疗潜力，公司已就该池化技术在多国申请了专利。目前，该药物在印度处于注册阶段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) Cx-601 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\operatorname { C x - } 6 0 1$ 是一种由Cellerix公司开发的来源于同种异体脂肪来源的间充质干细胞悬浮液，可用于克罗恩病患者复杂肛瘘的治疗，通常来说，肛瘘可使用抗生素、免疫抑制剂以及抗肿瘤坏死因子进行治疗，然而这些措施对于复杂肛瘘并无明显效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cellerix是TiGenix的全资子公司，该公司是胃肠病学的制药公司。TiGenix于2016年7月4日与武田制药公司签署了许可协议，武田公司收购了 $\\mathbf { C } \\mathbf { \\times } 6 0 1$ 专利权，将 $\\operatorname { C x } 6 0 1$ 商品化用于美国以外克罗恩病人的复杂肛门瘘。目前，该药物在欧盟处于预注册阶段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.3临床II期",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从临床I期的情况来看，共有两种研发趋势。一种是研制应用于特定适应症的新型干细胞治疗产品，如由以色列Pluristem治疗公司研发的用于治疗周围血管疾病等适应症的PLX干细胞治疗药物；Mesoblast研发的应用于脐带干细胞移植的MPC-CBE；Osiris 治疗公司研发的用于糖尿病足溃疡等适应症的Grafix；Stemedica 细胞技术公司用于治疗心肌梗死等适应症的间充质骨髓干细胞治疗产品以及 Stematix公司用于治疗心肌梗死等疾病的Allostrome。一种是对已经上市的干细胞治疗产品新适应症的研发，如Mesoblast将rexlemestrocel-L的适应症拓展到充血性心力衰竭、脊柱病、腰椎间盘退行性疾病；FCB 制药将Cerecelgram 的适应症拓展到脑梗死、缺血性脑卒中以及脊髓损伤等适应症。总体而言，制药公司不仅尝试将间充质干细胞治疗药物用于更多的适应症，也在更多地国家进行临床，使更多地区的患者能够受益。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ca967c6fc8b0e56c2d244079ead19ca3b68d2b0ecc5170a0db5a4d3a367099c.jpg",
+        "table_caption": [
+            "表3全球间充质干细胞治疗产品研发现状（最高研发状态：上市） Table 3 the Global R&D Status of MSCs Therapeutic Products (Highest Status: Launched) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">药物名称/商品名</td><td rowspan=\"2\">原研公司</td><td colspan=\"5\">目前研发现状</td></tr><tr><td>在研公司</td><td>适应症</td><td>状态</td><td>国家/地区</td><td>时间</td></tr><tr><td rowspan=\"2\">remestemcel-L/ Prochymal</td><td rowspan=\"2\">Osiris Therapeutics Inc</td><td>JCR Pharmaceuticals Co Ltd</td><td>移植物抗宿主病 移植物抗宿主病</td><td>上市</td><td>日本</td><td>2016</td></tr><tr><td>Mesoblast Ltd</td><td>移植物抗宿主病</td><td>注册 注册</td><td>加拿大 新西兰</td><td>2012 2013</td></tr><tr><td>OsteoCel</td><td>Osiris Therapeutics Inc</td><td>NuVasive Inc</td><td>骨损伤</td><td>上市</td><td>美国</td><td>2008</td></tr><tr><td rowspan=\"4\">Cartistem</td><td rowspan=\"4\">Medipost Co Ltd</td><td>Dong-A ST Co Ltd;</td><td>类风湿性关节炎 软骨疾病</td><td>上市 上市</td><td>韩国 韩国</td><td>2012 2012</td></tr><tr><td></td><td>软骨疾病</td><td>上市</td><td>韩国</td><td>2012</td></tr><tr><td>Medipost Co Ltd</td><td>类风湿性关节炎</td><td>上市</td><td>韩国</td><td>2012</td></tr><tr><td></td><td>软骨疾病</td><td>上市</td><td>美国</td><td>2011</td></tr><tr><td rowspan=\"4\">t2c-001</td><td>Johann Wolfgang Goethe-Universitat</td><td>t2cure GmbH</td><td>心肌梗死</td><td>上市</td><td>德国</td><td>2010</td></tr><tr><td>Frankfurt am Main</td><td>Johann Wolfgang</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Goethe-Universitat Frankfurt am Main;</td><td>心肌梗死</td><td>上市</td><td>德国</td><td>2010</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hearticellgram-AM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>FCB-Pharmicell Co Ltd</td><td>心肌梗死</td><td>上市</td><td>韩国</td><td>2011</td></tr><tr><td>I</td><td>FCB-Pharmicell Co Ltd</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb8aad737940074605bb7c41f767ebbba82ecf44bb15f8aac777d4404bba08aa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">药物名称</td><td rowspan=\"2\">原研公司</td><td colspan=\"5\">目前研发现状</td></tr><tr><td>在研公司</td><td>适应症</td><td>状态</td><td>国家/地区</td><td>时间</td></tr><tr><td>Stempeucel</td><td>Stempeutics Research Pvt Ltd</td><td> Stempeutics Research Pvt Ltd</td><td>缺血</td><td>注册</td><td>印度</td><td>2016</td></tr><tr><td rowspan=\"3\">Cx-601</td><td rowspan=\"3\">Cellerix SA</td><td>Cellerix SA</td><td>肛周瘘</td><td>预注册</td><td>欧盟</td><td>2016</td></tr><tr><td>Takeda Pharmaceutical Co Ltd</td><td>肛周瘘</td><td>预注册</td><td>欧盟</td><td>2016</td></tr><tr><td>TiGenix NV</td><td>肛周瘘</td><td>预注册</td><td>欧盟</td><td>2016</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/46f33ebe3b3c4c3777bf07cd0760df3cb84649319ee0041a757299847f4181f0.jpg",
+        "table_caption": [
+            "表4全球间充质干细胞治疗产品研发现状（最高研发状态：注册及预注册） Table 4 the Global R&D Status of MSCs Therapeutic Products (Highest Status: Registration and Pre-Registration) ",
+            "表5全球间充质干细胞产品研发现状 (最高研发状态：临床III期)Table 5 the Global R&D Status of MSCs Therapeutic Products (Highest Status: Phase II Clinical trial)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">药物名称</td><td rowspan=\"2\">原研公司</td><td colspan=\"5\">目前研发现状</td></tr><tr><td>在研公司</td><td>适应症</td><td>状态</td><td>国家/地区</td><td>时间</td></tr><tr><td rowspan=\"4\">rexlemestrocel-L</td><td>Angioblast Systems Inc</td><td>Mesoblast Ltd</td><td>充血性心力衰竭 充血性心力衰竭</td><td>临床Ⅲ期 临床Ⅲ期</td><td>美国 加拿大</td><td>2016</td></tr><tr><td rowspan=\"3\">Mesoblast Ltd</td><td rowspan=\"3\">Mesoblast Ltd</td><td></td><td></td><td></td><td>2016</td></tr><tr><td>脊柱病</td><td>临床Ⅲ期</td><td>澳大利亚</td><td>2013</td></tr><tr><td>腰椎间盘退行性疾病</td><td>临床Ⅲ期 临床Ⅲ期</td><td>澳大利亚</td><td>2013</td></tr><tr><td rowspan=\"5\">PLX stem cell therapy</td><td rowspan=\"5\">Pluristem Therapeutics Inc</td><td rowspan=\"5\">Pluristem Therapeutics Inc</td><td>腰椎间盘退行性疾病 周围血管疾病</td><td>临床Ⅲ期</td><td>美国 美国</td><td>2015 2009</td></tr><tr><td>骨髓移植</td><td>临床</td><td>以色列</td><td>2012</td></tr><tr><td></td><td>临床</td><td>以色列</td><td>2012</td></tr><tr><td>再生障碍性贫血</td><td></td><td>以色列</td><td></td></tr><tr><td>间歇性跛行</td><td>临床Ⅱ期</td><td></td><td>2013</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td></td><td>肌损伤</td><td>临床Ⅱ期</td><td>德国</td><td>2012</td></tr><tr><td>间歇性跛行</td><td>临床Ⅱ期</td><td>德国</td><td></td><td>2013</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/5914026d54c5aede43b5f0934fbe9e815d4562c4f4dcdfff2825e0f547cf8ff2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">CHA Bio & Diostech Co Ltd</td><td>周围血管疾病 间歇性跛行 脐带干细胞移植</td><td>临床Ⅲ期 临床Ⅱ期</td><td>欧盟 韩国</td><td>2009 2014</td></tr><tr><td rowspan=\"5\">MPC-CBE</td><td rowspan=\"5\">Mesoblast Ltd</td><td>Mesoblast Ltd</td><td>脐带干细胞移植</td><td>临床Ⅲ期 临床Ⅲ期</td><td>欧盟 澳大利亚</td><td>2011 2011</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>脐带干细胞移植</td><td>临床Ⅲ期</td><td>美国</td><td>2011</td></tr><tr><td></td><td>脐带干细胞移植</td><td>临床Ⅲ期</td><td>欧盟</td><td>2011</td></tr><tr><td>Cephalon Inc</td><td>脐带干细胞移植</td><td>临床Ⅲ期</td><td>美国</td><td>2011</td></tr><tr><td rowspan=\"2\">Grafix</td><td rowspan=\"2\">Osiris Therapeutics Inc</td><td rowspan=\"2\">Osiris Therapeutics Inc</td><td>脐带干细胞移植 伤口愈合</td><td>临床Ⅲ期 临床</td><td>澳大利亚 美国</td><td>2011</td></tr><tr><td></td><td>临床Ⅲ期</td><td>美国</td><td>2013</td></tr><tr><td rowspan=\"9\"></td><td rowspan=\"9\">FCB-Pharmicell Co Ltd</td><td rowspan=\"9\"></td><td>糖尿病足溃疡</td><td></td><td></td><td>2015</td></tr><tr><td>脑梗死</td><td>临床Ⅲ期</td><td>韩国</td><td>2005</td></tr><tr><td>缺血性脑卒中</td><td>临床Ⅲ期</td><td>韩国</td><td>2007</td></tr><tr><td>脊髓损伤</td><td>临床Ⅲ期</td><td>韩国</td><td>2008</td></tr><tr><td>创伤性脑损伤</td><td>临床</td><td>韩国</td><td>2012</td></tr><tr><td>脑出血</td><td>临床</td><td>韩国</td><td>2012</td></tr><tr><td>肝硬化</td><td>临床Ⅱ期</td><td>韩国</td><td>2012</td></tr><tr><td>缺血</td><td>临床I期</td><td>韩国</td><td>2014</td></tr><tr><td>缺血性脑卒中</td><td>临床Ⅱ期</td><td>美国</td><td>2011</td></tr><tr><td rowspan=\"3\">mesenchymal bone marrow-derived</td><td rowspan=\"3\">Stemedica Cell Technologies Inc</td><td rowspan=\"3\"></td><td>痴呆</td><td>临床I期</td><td>美国</td><td>2016</td></tr><tr><td>心脏衰竭</td><td>临床Ⅱ期</td><td>美国</td><td>2014</td></tr><tr><td>心肌梗死</td><td>临床Ⅲ期</td><td>哈萨克斯坦</td><td>2014</td></tr><tr><td rowspan=\"3\">Allostrome</td><td rowspan=\"3\">Stematix Inc</td><td rowspan=\"3\">Stematix Inc</td><td>心肌梗死</td><td>临床Ⅱ期</td><td>美国</td><td>2014</td></tr><tr><td>心肌梗死</td><td>临床Ⅲ期</td><td>西班牙</td><td>2011</td></tr><tr><td>软骨疾病 关节疾病</td><td>临床Ⅱ期 临床Ⅱ期</td><td>西班牙 西班牙</td><td>2011 2011</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3研发机构竞争情况 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对全球研发与制造间充质干细胞治疗产品的拥有情况进行调研，发现相关机构大多是发达国家专注于细胞研究的生物技术类企业，值得关注的是西比曼生物科技集团（CellularBiomedicine Group Inc）以及北科生物（Beike BiotechnologyCoLtd)，这两家公司是中国专业从事干细胞基础研究、临床应用研究及干细胞技术的企业，可见中国在间充质干细胞治疗产品领域也占有一席之地。从间充质干细胞产品的研发情况来看，排在前4位的公司包括Mesoblast、FCB 制药、Cellular Biomedicine 集团以及Medipost 公司，这几家公司在研发产品的数量上具有较大优势，本节将对这4家公司以及北科生物这5家公司的基本情况、产品定位，以及间充质干细胞市场的地位进行详细描述。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) Mesoblast Ltd ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mesoblast创立于2004年，总部位于澳大利亚墨尔本，全职雇员115人左右，是一家开发以细胞为基础的再生治疗产品的生物技术公司。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mesoblast主要从事以细胞为基础的再生治疗产品的研究与开发，利用其专利技术平台“间充质前体细胞（MPC）成人干细胞技术平台\"所研发的间充质干细胞(MLCs)，在治疗心脏病、脊柱和肌肉骨骼疾病、肿瘤和血液疾病、免疫介导性疾病等领域有着显著效果。2010 年，Mesoblast 自主研发的干细胞产品MPC 获得澳大利亚的上市批准。2012年因接盘赛诺菲放弃的 Osiris 公司人造干细胞治疗产品 Prochymal 和Chondrogen 而名声大振。在Prochymal的基础上，Mesoblast 公司研发出全新的干细胞治疗产品 Temcell，该产品主要治疗括慢性心力衰竭、后背疼痛和类风湿性关节炎。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前，Mesoblast拥有8个产品处于临床与上市阶段，其中7件产品处于临床阶段，Prochymal已获批上市。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) FCB-Pharmicell Co Ltd ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "世界首个成体干细胞治疗药物开发公司FCBPHARMICELL隶属于Pharmicell株式会社，其主要产品包括间充质干细胞治疗剂Hearticellgram-AML、人体干细胞培养液化妆品Beaucell、By Pharmicell Lab 等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FCB-Pharmicell在间充质干细胞治疗产品的研发领域具有举足轻重的地位，大韩民国食品医学安全厅曾在全世界医学发达国家保健专家参加的世界免疫组织化学机构（IHC）会议上，发表了关于PHARMICELL 的自体骨髓间质干细胞治疗剂临床许可的过程，提议把Hearticellgram-AMI作为全世界干细胞治疗剂许可标准。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前,FCB-Pharmicell共有5个产品处于临床和上市阶段，其中1个产品处于上市阶段，4个产品处于临床阶段。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3） Cellular Biomedicine Group Inc ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2009 年，西比曼生物科技（上海）有限公司（Cellular Biomedicine Group Ltd.）在中国成立，2014年正式在美国纳斯达克挂牌上市，成为唯一在纳斯达克上市的中国细胞治疗生物科技公司。公司致力于开发用于治疗癌症的免疫细胞治疗产品和治疗退行性疾病的干细胞治疗产品。公司的干细胞平台覆盖治疗膝骨关节炎、软骨损伤等退行性疾病的产品开发。目前，西比曼拥有干细胞和免疫细胞技术专利近80项（包括已授权和申请中)，包括国际专利13项、PCT专利10项。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在间充质干细胞领域，2013年，西比曼的专利技术生产的一体化脂肪间充质细胞纯化系统A-StromalTMKit 细胞提取试剂盒获得中国国家食品药品监督管理总局颁发的医疗器械注册证书。2016年，西比曼在间充质干细胞领域连续获得重大突破，公布自体脂肪来源间充质干细胞（ReJoin $\\textsuperscript { \\textregistered }$ ）治疗膝骨关节炎临床试验IIb阶段48周阳性数据、开展异体脂肪来源间充质干细胞（AlloJoinTM）治疗膝骨关节炎的I期临床研究、开展自体脂肪来源间充质干细胞（ReJoin $\\textsuperscript { \\textregistered }$ ）治疗软骨损伤Ⅱ期临床研究。目前，公司共有3件产品，1件处于ⅡI期临床、2件处于I期临床。可见，中国的西比曼生物科技公司在全球的间充质干细胞治疗领域很有优势。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4) Medipost Co Ltd ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "韩国企业Medipost成立于 2000 年，主要从事干细胞领域药物和技术的开发。早在 2005年，Medipost的间充质干细胞产品CARTISTEM就获得了韩国食品药品监督管理局的批准，开展I期与Ⅱ期试验，用于治疗膝关节骨缺损如骨关节炎等疾病。2011年，美国FDA 批准在美国开展CARTISTEM的I期与II期试验。2012年，同种异体干细胞治疗药物在韩国正式获批上市，同年，韩国食品药品监督管理局批准了公司另一件间充质干细胞产品PNEUMOSTEM的Ⅱ期临床，用于早产儿肺部疾病的干细胞治疗。2013年，公司的另一件间充质干细胞产品NEUROSTEM获得韩国食品药品监督管理局批准开展临床研究，用于治疗阿尔兹海默症的干细胞治疗。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前，Medipost共有3件产品处于临床与上市阶段，其中CARTISTEM已上市，另外两件产品处于临床ⅡI期。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(5) Beike Biotechnology Co Ltd ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "深圳市北科生物科技有限公司（Beike BiotechnologyCoLtd）创建于2005年7月，是中国最早专业从事战略性新兴产业生物治疗技术临床转化及技术服务的国家级高新技术企业。公司拥有员工400多名，其中 $3 5 \\%$ 以上为技术研发人员。公司在干细胞研究领域成果卓越，共申请39项干细胞领域相关专利，26项获得授权，在国内外包括Cell StemCel等权威杂志发表论文百余篇。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在间充质干细胞研究领域，2013年，公司\"重2013-068：间充质干细胞注射液治疗系统性红斑狼疮的关键技术研发\"被深圳市创新委列入重大技术攻关项目；2014年，一类新药注射用人脐带间充质干细胞开发被重大新药创制科技重大专项实施管理办公室纳入专项项目备选库；2015年，国际知名医学期刊《BMCMedicine》发布了北科生物与海军总医院心脏中心等11家医疗机构合作，历时5年的125期间国家863重大专项《经冠状动脉注射人脐带华通氏间充质干细胞治疗急性心肌梗死的随机、双盲、安慰剂对照多中心临床研究》的",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究成果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "目前，公司已有2件间充质干细胞产品获得国家食品药品监督管理局批准，开展临床试验，均处于临床Ⅱ期。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ae5f6dd384546ed8fabbb86590587218848dad7890afbf215d608e48e2539a6.jpg",
+        "table_caption": [
+            "表6全球间充质干细胞治疗产品的主要研发机构分布",
+            "Table6LeadingR&D institutions ofMSCs Therapeutic Products "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>公司</td><td>临床</td><td>临床I期</td><td>临床Ⅱ期</td><td>临床Ⅲ期</td><td>预注册</td><td>上市</td><td>合计</td></tr><tr><td>1</td><td>Mesoblast Ltd</td><td></td><td></td><td>4</td><td>3</td><td></td><td>1</td><td>8</td></tr><tr><td>2</td><td>FCB-Pharmicell Co Ltd</td><td></td><td>1</td><td>2</td><td>1</td><td></td><td>1</td><td>5</td></tr><tr><td>3</td><td>Cellular Biomedicine Group Inc</td><td></td><td>2</td><td>1</td><td></td><td></td><td></td><td>3</td></tr><tr><td>4</td><td>Medipost Co Ltd</td><td></td><td></td><td>2</td><td></td><td></td><td>1</td><td>3</td></tr><tr><td>5</td><td>Aldagen Inc</td><td></td><td>1</td><td>1</td><td></td><td></td><td></td><td>2</td></tr><tr><td>6</td><td>apceth GmbH & Co KG</td><td></td><td></td><td>2</td><td></td><td></td><td></td><td>2</td></tr><tr><td>7</td><td>Beike Biotechnology Co Ltd</td><td></td><td></td><td>2</td><td></td><td></td><td></td><td>2</td></tr><tr><td>8</td><td>Cellerix SA</td><td></td><td></td><td>1</td><td></td><td>1</td><td></td><td>2</td></tr><tr><td>9</td><td>Cephalon Inc</td><td></td><td></td><td></td><td>2</td><td></td><td></td><td>2</td></tr><tr><td>10</td><td>IsletOne Therapeutics</td><td>2</td><td></td><td></td><td></td><td></td><td></td><td>2</td></tr><tr><td>11</td><td>Johann Wolfgang Goethe-Universitat Frankfurt</td><td></td><td></td><td>1</td><td></td><td></td><td>1</td><td>2</td></tr><tr><td>12</td><td>am Main JW Pharmaceutical Corp</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td>2</td></tr><tr><td>13</td><td> Nuo Therapeutics Inc</td><td></td><td>1</td><td>1</td><td></td><td></td><td>1</td><td>2</td></tr><tr><td>14</td><td>t2cure GmbH</td><td></td><td></td><td>1</td><td></td><td></td><td>1</td><td>2</td></tr><tr><td>15</td><td>TiGenix NV</td><td></td><td></td><td>1</td><td></td><td>1</td><td></td><td>2</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.4产品交易现状 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "目前间充质干细胞治疗产品研发领域的交易类型主要有三种，包括药物开发及商业化许可、专利资产出售以及早期药物研发合作，这几种交易类型中，药物开发及商业化许可是最主要的间充质干细胞治疗产品领域的交易形式（占到所有交易的 $60 \\%$ )。这种类型的交易可以使原研企业保留自身产品的知识产权，又可借助许可方拓宽自己的产品市场，也是生物医药行业最常见的交易类型。如法国制药巨头赛诺菲 2008年与美国Osiris 公司就人造间充质干细胞治疗产品OTI-030 和remestemcel-L签署了一份高达13.8亿美元的干细胞治疗产品开发协议，但2012年，赛诺菲宣布终止合作，放弃这两种干细胞治疗产品。此外，干细胞研发公司 TiGenix、SanBio、Cynata、Pluristem、Pluristem、Medipost 等公司均通过药物开发及商业化许可的方法与其他公司进行研发合作或扩展商业渠道。值得注意的Medipost授予香港生命科学集团对其产品Cartistem在中国香港、澳门、台湾地区以及大陆的分销权，可见国际间充质干细胞巨头已经产品布局到大陆市场。除了药物开发及商业化许可的交易形式外，Osiris 分别在2008与2013年通过出售专利资产对药物或相关技术进行转让，被转让方NuVasive与Mesoblast可完全获取公司相关产品与技术的专利权，从而可自由的生产与销售其产品。出售专利权主要存在于以研发为主要业务的企业，一方面可将产品的商业化交给其他公司，顺利完成专利成果转化，一方面通过出售专利快速回笼资金进行商品研发，从Osiris来说主要属于后者。此外，早期的研发合作也是非常主要的交易形式。间充质干细胞治疗产品的研发项目与其他生物医药研发项目都具有高风险、长周期的特点，与其他公司合作研发可获得更多的研发经费与研发资源，从而提升研发效率，同时也许明确研发成果的利益共享模式。Osiris与Juvenile 糖尿病研究、JCR 制药与MEDIPAL 都属于这种合作形式。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "从产品的交易现状可以看到间充质干细胞治疗产品交易形式的多样性，从而可见间充质干细胞治疗产品研究领域已成为全球医药巨头与生物技术公司争相攻占的焦点。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/a87407e40ed821be5a17bc1bd145aee38db64d8705149233e235e2c6503c7d05.jpg",
+        "table_caption": [
+            "表7间充质干细胞治疗产品商业化交易情况 (列举） able 7 Major Commercial Transactions of MSCs Therapeutic Products (Examples) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">字号</td><td rowspan=\"2\">转让人</td><td rowspan=\"2\">合伙人</td><td rowspan=\"2\">交易类型</td><td rowspan=\"2\">交易覆盖 领域</td><td rowspan=\"2\">交易不覆 盖领域</td><td rowspan=\"2\">根据合同当 前的预计值 (USD M)</td><td rowspan=\"2\">根据合同实际 已支付的金额 (USD M)</td><td rowspan=\"2\">适应症</td><td rowspan=\"2\">药物</td><td rowspan=\"2\">药物最高 研发状态 (交易时)</td><td>药物最高 研发状态 （目前）</td><td>交易开 始时间</td></tr><tr><td></td><td></td></tr><tr><td></td><td>Osiris Therapeuti</td><td>Sanofi Genzyme</td><td>药物开发/商全球 业化许可</td><td></td><td>加拿大；美 国</td><td>1380.00</td><td>115.00</td><td>移植物抗宿 主病</td><td>OTI-030; remestemcel-L</td><td>临床Ⅲ期</td><td>上市</td><td>2008/11/4</td></tr><tr><td></td><td>cs Inc TiGenix NV</td><td>Takeda Pharmaceutica</td><td>药物开发/商 业化许可</td><td>加拿大;日 本</td><td>美国</td><td>417.37</td><td>39.00</td><td>克罗恩病； 肛周瘘</td><td>Cx-601</td><td>预注册</td><td>预注册</td><td>2016/7/4</td></tr><tr><td></td><td>SanBio Co Ltd</td><td>1 Co Ltd Sumitomo Dainippon</td><td>药物开发/商 业化许可</td><td>加拿大； 美国</td><td></td><td>205.00</td><td>6.00</td><td>中风</td><td>SB-623</td><td>临床Ⅱ期</td><td>临床Ⅱ期</td><td>2010/10/4</td></tr><tr><td></td><td>Osiris Therapeuti</td><td>Pharma Co Ltd NuVasive Inc</td><td>出售全专利 资产</td><td></td><td></td><td>137.00</td><td>85.00</td><td>损伤</td><td>OsteoCel</td><td>上市</td><td>上市</td><td>2008/5/8</td></tr><tr><td></td><td>cs Inc Osiris Therapeuti</td><td>Mesoblast Ltd</td><td>出售全专利 资产</td><td></td><td></td><td>100.00</td><td>15.00</td><td></td><td>mesenchymal stem cell </td><td>注册</td><td>上市</td><td>2013/10/1 1</td></tr><tr><td></td><td>cs Inc</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>therapy (cardiac repair); remestemcel-L</td><td></td><td></td><td></td></tr><tr><td>6</td><td>Cynata Therapeuti</td><td>FUJIFILM Holdings Corp</td><td>药物开发/商全球 业化许可</td><td></td><td></td><td>48.20</td><td>3.00</td><td>移植物抗宿 主病</td><td>CYP-001</td><td>临床</td><td>临床</td><td>2016/9/5</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe23816f6cc727485507031dcba068221dc9d816b44e8a86d8b649cc27a1bdfa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>7</td><td>Pluristem Therapeuti cs Inc</td><td>Interferon Sciences Inc</td><td>商业化许可</td><td>亚洲</td><td>日本</td><td>23.00</td><td>23.00</td><td>动脉疾病； 自身免疫性 疾病；骨髓 移植；炎症 性肠病；缺</td><td>PLX stem cell therapy</td><td>发现阶段</td><td></td><td>临床III期 2007/2/22</td></tr><tr><td></td><td>Pluristem</td><td>CHA Bio & Diostech Co</td><td>药物开发/商韩国</td><td></td><td></td><td>10.00</td><td>10.40</td><td>血；多发性 硬化 行；缺血；</td><td>间歇性跛 PLX stem cell therapy</td><td>临床Ⅲ期</td><td></td><td>临床II期 2013/6/26</td></tr><tr><td></td><td>Therapeuti cs Inc</td><td>Ltd</td><td>业化许可</td><td></td><td></td><td></td><td></td><td>外周血管疾 病 软骨疾病</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Medipost Co Ltd</td><td>Hong Kong Life Sciences and Technologies</td><td></td><td>商业化许可中国香港; 中国澳门; 中国台湾; 中国大陆</td><td></td><td>4.14</td><td>0.15</td><td></td><td>Cartistem</td><td>上市</td><td>上市</td><td>2012/11/6</td></tr><tr><td></td><td>Osiris Therapeuti</td><td>Group Ltd Juvenile Diabetes</td><td>早期研究/药 物开发</td><td></td><td></td><td>4.00</td><td>4.00</td><td>型糖尿病</td><td>胰岛素依赖remestemcel-L</td><td>注册</td><td>上市</td><td>2007/10/2 5</td></tr><tr><td>1</td><td>cs Inc JCR Pharmace</td><td>Research Foundation MEDIPAL HOLDINGS</td><td>早期研究/药 物开发</td><td></td><td></td><td>3.69</td><td>3.69</td><td>移植物抗宿 主病</td><td>remestemcel-L</td><td>预注册</td><td>上市</td><td>2011/7/29</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3．总结与展望 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "从间充质干细胞治疗产品的开发现状来看，在老龄化与人们对健康需求不断提升的今天，干细胞和再生医学产业的发展如火如茶，全球医药企业与生物技术研发公司通过资助研发、合作研发、购买专利、商业化许可等多种形式纷纷在间充质干细胞治疗产品产业中抢占先机，已有5款间充质干细胞治疗药物上市，更多的药物业进入注册与临床I期，可以预见，一大批间充质干细胞治疗药物即将上市。从国家来看，不仅是发达国家，发展中国家也成为间充质干细胞治疗产品研发与临床的热门地域，干细胞相关产品的研发受到了各国相关部门的重视。然而，包括间充质干细胞在内的所有干细胞治疗产品的研发仍处于起步阶段，免疫排斥等技术壁垒等阻碍着干细胞治疗产品研发的进程及大规模应用。此外，间充质干细胞治疗产品作为一项新技术，药物监管与审查模式还有待提升，尤其是我国，曾经的干细胞市场混乱使得国际社会对中国的干细胞研究存在质疑，《自然》以及《经济学人》等知名杂志更对其进行严厉批评。而后的监管收紧，又使得很多技术与药物研发的审核期过程或难以通过审查，影响了相关公司的研发获益。因此，对于间充质干细胞治疗产品的研发，在保证产品质量与安全性的同时兼顾研发机构及患者的权益，对于间充质干细胞治疗产品的研发也有着至关重要的作用。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1] 秦彤，苗向阳.iPS 细胞研究的新进展及应用．遗传，2010，32(12)：1205-1214.   \nQin T,Miao X Y. New development and application of ips cell Heredity,2010,32(12): 1205-1214. [2] 程野．干细胞医疗潜力无限 2018 年全球市场将超千亿美元．[2016-12-15].   \nhttp://bg.qianzhan.com/report/detail/300/161215-0e6142f4.html.   \nCheng Y.Stem cell medical treatment has all the potential, with over 1O0 billion market all over world.[2016-12-15]. http://bg.qianzhan.com/report/detail/300/161215-0e6142f4.html. [3]Friedenstein A.J., Petrakova K.V., Kurolesova A.I.,et al. Heterotopic of bone marrow.Analysis of precursor cells for osteogenic and hematopoietic tissues. Transplantation， 1968， 6(2): 230-247.   \n[4]Lazarus H.M.， Haynesworth S.E.， Gerson S.L.,，etal.Ex vivo expansion and subsequent infusion of human bone marrow-derivedstromal progenitor cels (mesenchymal progenitor cells): implications fortherapeutic use.Bone Marrow Transplant，1995，16(4): 557-564.   \n[5] 间充质干细胞的简要研究历程.[2016-11-04].https://sanwen8.cn/p/t2csfR.html.   \nThe brief research history of mesenchymal stem cell.[2016-11-04].   \nhttps://sanwen8.cn/p/t2csfR.html.   \n[6] Dominici M.，Le Blanc K.， Mueller I.， et al. Minimal criteria for defining multipotent mesenchymal stromal cells. Thelnternational Society for Cellular Therapy position statement. Cytotherapy，2006，8(4): 315-317. ",
+        "page_idx": 15
+    }
+]

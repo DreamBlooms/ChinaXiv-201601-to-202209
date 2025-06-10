@@ -1,0 +1,644 @@
+[
+    {
+        "type": "text",
+        "text": "AtTMEM18 plays important roles in pollen tube and vegetative growth in Arabidopsis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "<iao-Ying Dou12,Ke-Zhen Yang², Zhao-Xia Ma²,Li-Qun Chen², Xue-Qin Zhang²,Jin-Rong Bai' and De Ye²\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BejingRdiationCenterHaidiananluejingo875，hinatateKeyLaboratoryofantsigndhemistryf BiologicaSciences,CinaAgriculturalUniversityuanmingyuanXiluBijingo93,China.\\*Correspondence:yede@caedu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractIn flowering plants,pollen tube growth is essential for delivery of male gametes into the female gametophyte or embryo sac for double fertilization.Although many genes have been identified as being involved in the process，the molecular mechanisms of pollen tube growth remains poorly understood. In this study,we identified that the Arabidopsis Transmembrane Protein 18 (AtTMEM18) gene played important roles in pollen tube growth.The AtTMEM18 shares a high similarity with the Transmembrane 18 proteins (TMEM18s) that are conserved in most eukaryotes and may play important roles in obesity in humans.Mutation in the AtTMEM18 by a Ds insertion caused abnormal callose deposition in the pollen grains and had a significant impact on pollen germination and pollen tube growth. AtTMEM18 is expressed in pollen grains,pollen tubes,root tips and othervegetative tissues.The pollen-rescued assays showed that the mutation in AtTMEM18 also caused defects in roots, stems, leaves and transmiting tracts.AtTMEM18-GFP was located around the nuclei. Genetic assays demonstrated that the localization of AtTMEM18 around the nuclei in the generative cells of pollen grains was essential for the male fertility. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,expression of the rice TMEM18-homologous protein (OsTMEM18) driven by LAT52 promoter could recover the fertility of the Arabidopsis attmem18 mutant.These results suggested that the TMEM18 is important for plant growth in Arabidopsis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Arabidopsis;male gametophyte;plant;pollen;TMEM18; transmembrane protein   \nCitation: Dou XY,Yang KZ,Ma ZX,Chen LQ, Zhang XQ,Bai JR,Ye D (2015).AtTMEM18 plays important roles in pollen tube and vegetative growth in Arabidopsis.J Integr Plant Biol XX:XX-XX doi: 10.1111/ jipb.12459   \nEdited by:Mengxiang Sun,Wuhan University,China   \nReceived Oct.16,2015; Accepted Dec.21,2015   \nAvailable online on Dec.24,2o15 at www.wileyonlinelibrary.com/ journal/jipb   \n$\\mathfrak { O }$ 2015 The Authors.Journal of Integrative Plant Biology published by John Wiley& Sons Australia,Ltd on behalf of Institute of Botany,The Chinese Academy of Sciences.   \nThis is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License,which permits use and distribution in any medium,provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In higher plants,pollen tube elongation in the pistil is a crucial step for sexual reproduction (Xia et al.2o1o).The process begins with deposition of pollen grains on the stigmatic tissue. The compatible interaction between pollen and stigmatic cells triggers the hydration and germination of the pollen grains (Jiang et al.2oo5). The resulting pollen tube invades the stigmatic tissue,penetrates the style,navigates through the transmitting tract,and then is guided toward the ovule to deliver the sperm cells into the embryo sac for fertilization (Hulskamp et al. 1995; Wilhelmi and Preuss 1996; Ray et al. 1997;Lennon and Lord 2ooo; Palanivelu and Preuss 2000; Johnson and Preuss 2oo2; Lord and Russell 2oo2; Preuss 2002; Kim et al.2oo3;Palanivelu et al. 2003). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pollen tube elongation is a polar growth event,namely the growth exclusively occurs at the tip (Bedinger 1992; Krichevsky et al. 2oo7; Chebli et al.2o12). Many cell biological processes are involved in pollen tube growth,such as calcium gradients (lwano et al.2oo9),vesicular trafficking(Samaj et al. 2006),actin cytoskeleton dynamics (Wilsen et al.2oo6),ion fluxes (Michard et al.2oo9),energy metabolism (Hepler et al. 2013)and cell wall synthesis (Chebli et al.2o12; Guan et al.2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cell wall plays a crucial role in maintaining cell integrity under high turgor pressure(Chebli et al.2o12; Guan etal.2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cell wall synthesis mainly occurs in the tip region of growing pollen tubes.The newly formed cell wall at the pollen tube tip is mainly composed of pectins (Lancelle and Hepler 1992; Edlund et al. 2oo4; Geitmann and Steer 2oo6; Dardelle et al. 2010;Chebli et al.2o12),which are synthesized in the Golgi apparatus and secreted by exocytosis,and are highly methylesterified. In the subapical and distal region of the pollen tubes,the pectins are de-esterified by pectin methylesterase (PME) to confer the rigidity (Jiang et al. 2oo5; Harholt et al. 2010).Behind the tip of the pollen tube,a secondary layer is formed beneath the outer pectic layer (Ferguson et al.1998; Li et al.1999a).The most abundant component in this secondary wall layer is callose.Cellulose is also present in this layer,but at a low level (Dong et al.2oo5;Nishikawa et al. 2005;Geitmann and Steer 2oo6). Callose deposition was first detected immediately after germination of pollen grains in liquid medium,at the rim of the germination aperture (Li et al. 1999b). In pollen tube,callose can be steadily detected in the distal region,which is confined to the inner wall layerand to transverse walls named plugs (Ferguson et al. 1998; Li et al. 1999b).The plugs were consistent with its role in resisting tension stresses (Chebli et al. 2o12). However, how the genes regulate the callose deposition in pollen tube remains poorly understood. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The tip growth events of cells include pollen tube and root hair growth in higher plants,nerve growth and axon guidance in animals,and hyphal growth in fungi (Li et al. 1999b). Many genes have been identified as being involved in tip growth, including the Transmembrane protein 18(TMEM18) in animals. TheTMEM18 is predicted to consist of $\\alpha$ helicesand has three transmembrane domains (Speakman 2o13). Phylogenetic analysis has revealed that TMEM18 has an ancient origin, being found in plants and most other eukaryotic organisms (Almén et al. 2010; Speakman 2013).TMEM18 is located in the nuclear envelope in neural stem cells (Jurvansuu et al. 2008) and has been proposed to be involved in cell migration as demonstrated by overexpression of the protein increasing the migration of neural stem cells towards glioma in the rat brain (Jurvansuu et al.2oo8).The TMEM18 is expressed ubiquitously with differences in expression levels in the different tissues (Speakman 2o13). In mouse brain,its highest expression occurred in the hypothalamus,thalamus and substantia nigra.The hypothalamus is the region that is responsible for the control of energy homeostasis.Recently TMEM18 was identified to be involved in obesity and body mass index (BMl) (Almén et al.201o). Nevertheless,so far, little is known about the function of TMEM18.Especially, the rolesand functions of the TMEME18 protein in plant species remain unknown. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,the Arabidopsis thaliana TMEM18 (AtTMEM18) was identified bya screening for male gametophyte-defective mutant from the gene- and enhancer-trap Ds insertional mutant library (Sundaresan et al. 1995; Yang et al. 1999). AtTMEM18 is encoded by At1g3435o and shares a higher similarity with the TMEM18 proteins from other species.The insertion of the Ds in At1g3435o caused an unusual deposition of callose in the germinating pollen grains and affected the growth of pollen tubes and vegetative organs,indicating that AtTMEM18 plays important roles in the pollen tube and cell morphogenesis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Isolation and genetic analysis of the attmem18 mutant ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The attmem18 mutant was isolated in a genetic screen for male gametophyte-defective mutants from a collection of gene-trap and enhancer-trap Ds insertion lines in Arabidopsis ecotype Landsberg erecta (Ler) (Sundaresan et al.1995).The Ds insertion created a genetic tag of kanamycin resistance in the mutant plant.At first,a genetic analysis of the heterozygous attmem18-1(attmem1 $8 / +$ )plantswas performed(Table1). The progeny fromself-pollinated attmem1 $^ { 1 8 / + }$ plants exhibited asegregation ratio of approximately 1 kanamycin-resistant $( \\mathsf { K a n } ^ { \\mathsf { R } } )$ : 1 kanamycin-sensitive $( k \\mathsf { a n } ^ { \\mathsf { S } } )$ (1282:1278),much lower than the typical Mendelian segregation ratio of $3$ to 1. Furthermore,no homozygous $\\mathsf { K a n } ^ { \\mathrm { { R } } }$ plants (attmem1 $\\delta { } I { - }$ )were identified in the progeny.This result indicates that the attmem18 mutant is defective in gametophytic function. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9ec1ada0ac7cca5bf6642b25499d857d8156b0d4421cdce416b8cfaf1382da7.jpg",
+        "table_caption": [
+            "Table1. Geneticanalysis of the attmem1 $^ { 8 / + }$ mutant "
+        ],
+        "table_footnote": [
+            "KanR,kanamycin-resistant; Kans,knanamycin-sensitive. "
+        ],
+        "table_body": "<html><body><table><tr><td>Crosses (Female ×Male)</td><td>Number seedlings of KanR</td><td>Number seedlings of Kans</td><td>KanR/ Kans</td></tr><tr><td>attmem18/+×attmem18/+</td><td>1,282</td><td>1,278</td><td>1.003</td></tr><tr><td>Wild type Xattmem18/+</td><td>0</td><td>2,237</td><td>0</td></tr><tr><td>attmem18/+ ×wild type</td><td>710</td><td>690</td><td>1.029</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine how the mutation affected male or female gametophytic functions,the attmem1 $^ { 8 / + }$ plants were used as males or females to cross with wild type plants.As shown in Table1,when the attmem1 $^ { 8 / + }$ plants were used as femaleparents, $5 0 . 7 1 \\%$ （710/14oo） of the resulting F1 progeny were KanR.In contrast,when attmem1 $^ { 8 / + }$ pollen grains were used to pollinate wild type plants，no $\\mathsf { K a n } ^ { \\mathsf { R } }$ plants in the F1 progeny were obtained (o:2237).Thus,the attmem18 mutation disrupted male gametophytic function completely， but did not affect female gametophytic function. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The attmem18 pollen grains exhibited an abnormal callose deposition ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate how attmem18 affected male gametophytic function， observation of attmem18 male gametophyte development was performed.Scanning electron microscopy (SEM) showed that most of the pollen grains from the attmem1 $^ { 1 8 / + }$ plants were as normal as wild type pollen grains in morphology (Figure 1A，B). $4 ^ { \\prime } 6$ -diamidino-2-phenylindole (DAPI） staining showed that thepollen grains from theattmem1 $^ { 8 / + }$ plants had two sperm nuclei and a vegetative nucleus like wild type pollen grains (Figure 1C, D).These results indicated that the attmem18 mutation did not affected pollen formation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Aniline blue,which is a specific dye for callose,was used to study the callose deposition pattern in the attmem18 pollen by comparison with wild type pollen.No obvious fluorescence signal was observed in wild type pollen grains(Figure 1E)as expected.In contrast, $2 3 . 2 \\%$ of pollen grains from attmem1 $^ { 8 / + }$ plants exhibited the dotted fluorescence signals (Table S1, Figure1F),indicating that a number of attmem1 $^ { 8 / + }$ pollen grains had an abnormal callose deposition. Because no homozygous attmem18 mutant could be generated for the assays,attmem18 mutant was introgressed into a background of quartet1-2 (qrt1-2) mutant to perform quartet assay (Preuss et al.1994).The qrt1-2 mutation blocks physical separation of the tetrad pollen grains,but does not affect the germination and growth of the pollen tubes (Preuss etal.1994).Therefore, a tetrad from the attmem1 $8 / + ;$ ：qrt1/qrt1 mutant plants had two qrt1-2 (presenting wild type) pollen gains and two qrt1-2; attmem18 (presenting attmem18 mutant) pollen grains.When the tetrads pollen grains from qrt1-2and attmem18 $/ +$ qrt1/qrt1 plants were stained with aniline blue,no obvious fluorescence could be seen in qrt1-2 pollen grains from the qrt1/qrt1 mutant plant,while $2 4 . 1 \\%$ of pollen grains from the attmem18/+;qrt1-2/ qrt1-2 plants showed dotted callose deposition patterns (Table S1，Figure 1G，H)，indicating that the pollen grains carrying the attmem18 in the tetrads exhibited an unusual callose deposition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Toverify the location of callose deposition in the attmem18 pollen grains,callose-specific antibody was used to locate the callose in the section of attmem18 pollen grains from the attmem1 $^ { 1 8 / + }$ plants.As shown in Figure 1J,the punctate callose signals appeared nearby the inner wall in the attmem18 pollen grain sections,compared to that no obvious fluorescence signals were observed in the sections of the wild type pollen grains (Figure 1l). These results showed that the attmem18 pollen grains had an abnormal callose deposition during germination process. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc6ffa4271c7c23ded1b7dc6a7d5228fa6bb04bf10f0f25c651da87b434a5dfa.jpg",
+        "img_caption": [
+            "Figure1.Phenotypic characterization of attmem18 pollen grains (A,B) SEM images of pollen grains from wild type (A) and attmem1 $^ { 8 / + }$ plants (B).(C,D) DAPl-stained pollen grains from wild type(C)and attmem1 $^ { 8 / + }$ plants (D). (E-H)Aniline blue-stained pollen grains from wild type(E),attmem $^ { 8 / + }$ (F), qrt1/qrt1 (G)andattmem1 $8 / + ;$ qrt1/qrt1 plants (H). (l,J) Section and immunofluorescence assays of pollen grains fromwild type(l)and attmem1 $^ { 8 / + }$ plants(J).The red arrows indicate the dotted callose deposition in the pollen grains.SN,sperm cell nuclei; VN, vegetative cell nuclei. Bars $= 2 0 \\mu \\mathrm { m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The attmem18 pollen is defective in pollen germination and pollen tube growth ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To study how attmem18 mutation affected the male gametophytic function,we further examined the germination of attmem18 pollen grains.The mature pollen grains from attmem $1 8 / +$ plant were cultured in vitro. $3 9 . 8 \\%$ of the pollen grains fromattmem1 $^ { 8 / + }$ plants germinated in vitro,compared to that $7 6 . 2 \\%$ of the pollen grains from wild type plants could germinate under the same culture condition (Figure 2A-C), indicating that the attmem18 significantly reduced pollen germinationinvitro. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Then we examined the pollen germination efficiency of the attmem18 in vivo.After the pollen grains from attmem1 $^ { 8 / + }$ and wild type plants were pollinated to the emasculated wild type flowers for $1 2 \\mathsf { h }$ ，they were observed by SEM, respectively.All the wild type pollen tubes could normally grow into the stigma (Figure 2D). In contrast, some of the pollen tubes generated by the pollen grains from attmem1 $^ { 8 / + }$ plants were short and swollen (Figure 2E). Among the pollen grains from attmem $^ { 8 / + }$ plants, $5 7 . 0 \\%$ could grow morphologically normal pollen tubes, $1 8 . 4 \\%$ did not germinate,and $2 4 . 6 \\%$ produced shorter and swollen pollen tubes. In comparison, $9 5 . 9 \\%$ of wild type pollen tubes could grow normally through the stigma (Table S2).The quartet assays also achieved a similar result.In most tetrads from the attmem $| 8 / +$ qrt1/qrt1 plants,only1or2pollen grains could germinate pollen tubes. In general, $3 6 . 2 \\%$ pollen grains produced normal pollen tubes, $3 5 . 0 \\%$ pollen grains did not germinate，and $2 8 . 7 \\%$ of pollen grains generated swollen pollen tubes (Table S2). In the control,most of the qrt1-2 tetrads could have three or four pollen grains produce pollen tubes (Figure 2F). The germination rate was $6 8 . 1 \\%$ (Table S2).Aniline blue staining showed that the callose deposition pattern in attmem18 pollen tube inner walls was obviously different from that in wild type pollen tubes.In the wild type， the callose exhibited as strong and round fluorescent signals,and uniformly distributed on the inner wall of pollen tubes.Callose plugs were formed in the elongating wild type pollen tubes (Figure 2G). In the attmem18 mutant pollen grains from attmem1 $^ { 8 / + }$ andattmem1 $8 / +$ qrt1/ qrt1 plants，callose exhibited as a punctate distribution pattern (Figure 2H，I)and distributed irregularly in the swollen pollen tube inner walls.The punctate distribution pattern was not found in the morphologically normal pollen tubes (Figure 2G,H).This result indicated that the abnormal callose deposition was likely related to the defect of the attmem18 pollen tubes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d91c1d729c4c1e47d22db241070545ff806e667c1296ea39082e7f8abe9825d.jpg",
+        "img_caption": [
+            "Figure 2. Ine attmemio arrectea in vitro ana in vivo germination ol polien grains ",
+            "(A,B)The in vitro germination of pollen grains from wild-type (A) and attmem $^ { 8 / + }$ plants (B). (C) Germination rates of pollen grains from wild type (WT) and attmem1 $^ { 8 / + }$ plants.(D,E) SEM images showing in vivo germination of the pollen grains from wild type (C) and attmem $^ { 8 / + }$ plants (D). (F-l) The in vivo germination of pollen grains from qrt1/qrt1 plants (F),wild type (G), attmem1 $^ { 8 / + }$ (H) and attmem1 $8 / + ;$ qrt1/qrt1 plants (l). $\\mathsf { P g } ,$ pollen grain; Pt, pollen tubes; Stg,stigmatic cells. White arrows indicatetheungerminatedpollen grains.Theredarrows indicateabnormalcalose deposition inthepollen grainsand pollen tubes. Bars $= 2 0 \\mu \\mathrm { m }$ ， $^ { * } \\ P < 0 . 0 5$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Phenotypes of attmem18 could be complemented by wild typeAtTMEM18 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thermal asymmetric interlaced PCR (TAIL-PCR)(Liu et al. 1995;Liu and Whittier 1995) was applied to obtain the flanking sequences adjacent to the Ds element in attmem18. Sequence analysis showed that the Ds element was inserted into the first exon of gene At1g3435o,261 bp downstream from start codon ATG (Figure 3A).The Ds insertion site was further confirmed by conventional PCR using the genespecific (AtTMEM18-Ds $3 ^ { \\prime }$ )and $D s - 5 ^ { \\prime }$ border (Ds5-3） primers (Table S4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To verify the phenotype of attmem1 $^ { 8 / + }$ was caused by the Ds insertion in AtTMEM18 (At1g3435o),the genomic sequence of AtTMEM18，which included the 1.o-kb promoter，1.5-kb coding region and $3 ^ { \\prime }$ -terminal region of AtTMEM18，was cloned into Ti-derived vector pCAMBIA13oo(CAMBIA, Australia) and introduced into the heterozygous attmem18 (attmem18/+) plants via Agrobacterium tumefaciens-mediated infiltration transformation (Bechtold and Pelletier 1998).The seeds from theT1 transgenic attmem1 $^ { 8 / + }$ plants were plated on kanamycin-containing agar plates to analyze the Ds segregation ratio.The progeny from self-pollinated 34out of 40 transformant lines segregated in an increased ratio of KanR:Kan,compared to those from self-crossed attmem $^ { 1 8 / + }$ controls (Table S3).The aniline blue staining assays showed that the transgenic attmem18 pollen grains exhibited a normal callose distribution pattern like wild type pollen grains (Figure S1).Furthermore，the in vitro pollen germination rates of the transformed attmem18 lines were increased (Figure 3B-D) to the values similar to that of wild type pollen. These results demonstrated that the defects in pollen tube growth could be complemented by the introduction of the wild type AtTMEM18 genomic DNA fragment. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AtTMEM18 is expressed in the tissues active in cell growth anddifferentiation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The expression pattern of AtTMEM18 was first analyzed by RT-PCR and Northern blotting hybridization using the RNAs extracted from different wild type plant tissues including seedlings，roots，stems,leaves，flowers，and siliques.The expression of AtTMEM18 were detected mainly in roots and inflorescences,weaker in seedlings,leaves and siliques (Figure 4A,B), suggesting that AtTMEM18 was a constitutive expression gene. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Theexpressionpattern ofAtTMEM18 was furtherexamined by promoteractivityassay.The AtTMEM18 promoterwas fused to GUS reporter gene and introduced into wild type plants.The GUS activity was detected mainly in root tips,the cotyledon of seedlings，mature anthers and pollen tubes (Figure 4C-l), consistent with the results from RT-PCR and Northern blotting hybridization.These results indicated that AtTMEM18is constitutively expressed in many tissues,with higher levels in the tissues active in cell growth and differentiation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Theattmem18 also affected the development of other vegetative tissues ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above,attmem18 disrupts the male gametophytic function. No attmem18 homozygous plant was obtained for further investigation of AtTMEM18 function.To further examine the impact of attmem18 on vegetative development,we performed the pollen rescue experiments using promoter of the pollen-specific gene LAT52 (Muschietti et al.1994) fused with AtTMEM18 coding region.The resulting pLAT52:AtTMEM18 construct was introduced into attmem1 $^ { 8 / + }$ mutant plants.The seeds from self-pollinated T1 transgenic plants were planted on agar plates containing kanamycin.The progenyfrom the self-pollinated pollen-rescuedplants (attmem18/ $^ { \\prime } +$ pLAT52:AtTMEM $1 8 / + { \\bf \\Phi }$ ）segregatedinarateof approximately 2 KanR: $1 \\ K \\mathsf { a n } ^ { \\mathsf { S } }$ ,indicating that the construct (pLAT52:AtTMEM18) could restore attmem18 gametophytic function (Table S3).The pollen-rescued lines，which were heterozygous for the Ds insertion and homozygous for the T-DNA insertion (attmem1 $^ { 8 / + }$ pLAT52:AtTMEM18/pLAT52:AtTMEM18)were generated and selected for further assays.In the progeny from self-pollinated pollen-rescued plants,approximately $2 5 \\%$ (247/1,o14） of the seedlings were stunted, compared to wild type seedlings.The hypocotyls,roots and cotyledons of the pollen-rescued seedlings were shorter (Figure 5B-D),compared to those of wild type.When these stunted seedlings developed into mature plants,the height of plants and length of siliques were shorter than those of wild type plants (Figure 5E).The clarified root tips and root paraffin cross sections of the pollen-rescued attmem18 seedlings showed that the structures of the root cells were drastically disordered (Figure 5G，K) compared to those of wild type plants (Figure 5F，J). SEM and paraffin cross section observation showed that the epidermal cells of the hypocotyl in pollen-rescued attmem18 seedlings were distorted (Figure 5l,M).The siliques of pollen-rescued attmem18 plants were shorter,in which seed set often occurred only in the upper halves of the siliques (Figure 5N,O).When the pollen grains from pollen-rescued attmem18 plants were pollinated to wild type pistils, the resulting pollen tubes could grow to the bottom of the polinated wild type pistils (Figure 5P).In contrast，when the wild type pollen grains were pollinated to the pistils of the pollen-rescued attmem18 plants, the wild type pollen tubes could grow into style,but could not elongate to the bottom of the pistil (Figure 5Q). These results suggested that the pLAT52:AtTMEM18 construct only specifically restored the gametophytic function，but did not restore silique development.Therefore,the pollenrescued mutant materials could be used to further study the impact of attmem18 on vegetative development. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a20ad148f4ca50e936ff59bb2c63b8fe19deaadb0c308defb23db3a96d5dea3.jpg",
+        "img_caption": [
+            "Figure 3.Molecular characterization of attmem18 mutant ",
+            "(A)Theorganizationofthe AtTMEM18gene,showing theDs elementinsertion site.(B,C)Theinvitrogerminationof pollen grains from wild type (B)and complemented plants (C). (D) Pollen germination rates of the wild type (WT)and the complemented (Comp) plants.Bars $= 2 0 \\mu \\mathrm { m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fca0065591c55d99905c1eb40ea5073dc7211056f470d3c35b758e5a00ea8297.jpg",
+        "img_caption": [
+            "Figure 4.Expression patterns of AtTMEM18 ",
+            "(A,B)RT-PCRassayandNorther-blotting,comparing theAtTMEM18 mRNA levels inseedlings,roots,stems,leaves,flowers andsiliqes.(-l)Uctivitineing(C),oot(D),eaf(),fresence(F)nt(G),plenbe(H)lero transgenic wild type plants carrying the pAtTMEM18:GUS construct. Bars $\\ c =$ 1 mm in (C) and (E), $0 . 5 \\mathsf { m m }$ in (F) and (l), $0 . 1 \\mathsf { m m }$ in (D) and (G), $1 0 \\mu \\mathrm { m }$ in (H). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To examine the impact of the attmem18 on silique development, the paraffin section of transmitting tissue of pollen-rescued attmem18 plants were observed.The results showed that the style diaphragm of pollen-rescued attmem18 siliques was not fused,compared to the wild type siliques ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3efc415bca5d78345d752943f205b0dce69c4d6ce8755f22f2fe202a4a10d576.jpg",
+        "img_caption": [
+            "\"igure 5.Phenotypic characterization of the pollen-rescued attmem18 mutants "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(A)Expressionlevelsof AtTMEM18were drasticalyreduced intepolen-rescuedattmem18homozygousseedlingsasrevealed byRT-PCR.(B,C)A10-d-oldpolen-rescuedattmem18homozygousseedling(B),comparedwiththe10-d-oldwildtyesedling (C)underthesame growth conditions.(D)Amature polen-rescuedattmem18 homozygous plantcomparedwithwildtypeplant (WT)under the same growth conditions. (E)Theflowering pollen-rescued attmem18 homozygous plants compared with wild type plants (WT)under thesame growth conditions.(F)Aclarified wildtyperoottip,showing thetypicalcellorganization pattern.(G)A clarified pollen-rescuedatmem18 homozygous root tip,showing the defect in thecellmorphologyand organization.(H,I)The SEM imagesof hypocotyl epidermalcels inwild typeseedlings (H)and pollen-rescuedattmem18 homozygous seedling(l).The red arrow indicates the distorted epidermal cellorganization. $( \\mathsf { J } , \\mathsf { K } )$ The cross sectioning images of wild type root (J) and pollen-rescued attmem18 homozygous root (K). $( \\mathsf { L } , \\mathsf { M } )$ Comparison of the paraffin cross-sections between wild type hypocotyl (L) and pollen-rescued attmem18 homozygous hypocotyl $( M )$ .The red oval indicates irregularly hypocotyl cels. (N)Comparison of the sliques at the7thdayafterpollnation (DAP)betweenwild typeand polen-rescuedattmem18 homozygous plants.The silique ofhomozygous attmem18 mutant was much shorter thanthatof wild type.(O)Mature siliques from wildtype plants andatmem18 plants.(P)The growthofattmem18 pollen tubesin thewild type(Ler)at12DAP.(Q)The growthof wildtypepollen tubesintheatmem18siliqueat12DAP.(R,S)Comparisonofparafincrossectioninwild type pistil (R)and attmem18 pistil (S).The red arrow indicates the unfused style diaphragm in attmem18 pistil. $\\mathsf { B a r s } = 5 0 0 \\mu \\mathrm { m }$ in (B) to (D), (N) and (O), $5 0 \\mu \\mathrm { m }$ in (F) to (M), (P) to (S). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(Figure 5R,S).These results indicated that the cell morphogenesisin pollen-rescued attmem18 mutant siliques were affected.PCR assays using DNA from the defective pollenrescued attmem18 seedlings indicated that they were homozygous for the attmem18 mutation. RT-PCR assays using the RNAs extracted from the pollen-rescued attmem18 homozygous seedlings showed that expression of AtTMEM18 was dramatically reduced in the pollen-rescued attmem18 seedlings (Figure 5A).Transgenic wild type plantswith pLAT52:AtTMEM18 coding region construct were examined as a negative control, no defective plants were found in these transgenic plants in wild type background.Therefore, the attmem18 mutation also affected vegetativedevelopment in Arabidopsis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AtTMEM18 protein is located around nucleus ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AtTMEM18 protein has 163 amino acid residues in length and contains three predicted transmembrane domains(http://www. cbs.dtu.dk/services).It shares similarities with the proteins from many species in eucaryon except yeast and nematode, butnot in bacteria.In particular,AtTMEM18 shares $7 2 \\%$ similarity with LOC100527513 (Glycine max) and POPTRDRAFT_287702 (Populus trichoca), $5 9 \\%$ similarity with LOC100283849 (Zea mays), $5 3 \\%$ similarity with Os05g043250o (Oryza sativa) and $34 \\%$ similarity with Transmembrane 18 (Mus musculus)and TMEM18 (Homo sapiens) (Figure 6A).The phylogenetic tree analysis showed that TMEM18 proteins could be clustered into animal and plant groups,respectively (Figure 6B).AtTMEM18 belongs to the plant group. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To investigate the subcellular localization of AtTMEM18, 1.0-kb promoter of AtTMEM18 was fused to the AtTMEM18 genomic coding region and the coding sequence of green fluorescent protein (GFP).The resulting construct pAtTMEM18:gAtTMEM18-GFP was introduced into wild type and heterozygous attmem $^ { 8 / + }$ plants,respectively.Genetic analysis showed that the progeny from self-pollination of the resulting_transgenic heterozygous (attmem1 $^ { 8 / + } .$ ）segregated ina $\\mathsf { K a n } ^ { \\mathrm { { \\bar { R } } } }$ : Kan' ratio of up to 2:1 (Table S3), indicating that the AtTMEM18-GFP fusion protein could function normally. The GFP signals were observed in roots,pollen grains at the unicellular to tricellular stages and pollen tubes.In unicellular pollen grains，the GFP signals were detected around the unique nuclei (Figure 7A). In the bicellular pollen grains,the GFP signals appeared around the vegetative and generative nuclei (Figure 7B). In the tricellular pollen grains,the GFP signals were located around the vegetative and two sperm nuclei (Figure 7C). In the germinating pollen grains, the GFP signals were detected around the vegetative and sperm nuclei in the growing pollen tubes (Figure 7D). In the root hair, the GFP signals were expressed around the nuclei (Figure 7E). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Toexamine whether the protein localization was related to the introns of the gene,another construct was generated by replacing the genomic coding sequence (gAtTMEM18) With the AtTMEM18 cDNA. The resulting pAtTMEM18: cAtTMEM18-GFP construct was also introduced into heterozygous attmem18 (attmem1 $B / + { \\mathrm { . } }$ ）plants.The progeny from the self-pollinated transgenic attmem $^ { 8 / + }$ plants segregated in a ratio of $1 \\mathsf { K a n } ^ { \\mathsf { R } } \\colon 1 \\mathsf { K a n } ^ { \\mathsf { S } }$ ,like the progeny from the selfpollinated nontransgenic attmem1 $^ { 8 / + }$ plants,indicating that pAtTMEM18:cAtTMEM18-GFP could not restore the fertility of attmem18 mutant. The GFP signal was detected in the pAtTMEM18:cAtTMEM18-GFP transgenic pollen grains and roots (Figure 7F-l) roots and pollen grains. In the transgenic root hairs,the GFP signals could be detected around the nucleus like those in the pAtTMEM18:gAtTMEM18-GFP transgenic plants (Figure7l). During the periods of pollen development,however, the GFP signals were appeared only around the vegetative cell nuclei (Figure 7F-H),differently from those in the pAtTMEM18:gAtTMEM18-GFP transgenic pollen grains in which GFP signals were located not only around the vegetative nuclei but also around the generative nuclei at the bicellular stage or around the sperm nuclei at the mature pollen stage.These results indicated that the introns of the AtTMEM18 was related to its expression in generative and sperm nuclei in Arabidopsis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To further examine which intron was involved in its expression regulation in AtTMEM18，deletion assays were performed.AtTMEM18 gene has three introns (Figure S2A).As shown in Figure S2A,six constructs were generated for the assays. The resulting six constructs were introduced into attmem1 $^ { 8 / + }$ plants,respectively.The genetic analyses showed that the progeny from all the six construct transgenic attmem1 $^ { 8 / + }$ plants segregated in a ratio of approximately 2 KanR:1 Kan\\$ (Table S3), indicating that all six constructs could complement the fertility of attmem18 mutant.The GFP signals were located around the vegetative and sperm nuclei of the transgenic tricellular pollen grains (Figure S2B). Thus, any one intron of AtTMEM18 could be enough to enable the correct expression of AtTMEM18 in the pollen grains. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Expression of the rice TMEM18 (Os05g043250o) in attmem18 could complement the attmem18 mutant phenotype ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "BlastP search showed that rice (Oryza sativa) also has a TMEM18-homologous protein，namely Os05go432500.To examine whether Oso5go4325oo had the same function asAtTMEM18 in Arabidopsis， the construct pLAT52: Os05go4325oowasgeneratedandintroducedinto attmem1 $^ { 1 8 / + }$ mutant plants.The seedlings from the selfpollinated T1 transgenic plants segregated in a ratio of $2 K a n ^ { \\mathsf { R } }$ ： $1 \\mathsf { K a n } ^ { \\mathsf { S } }$ (Table S3),compared to the1 KanR:1 Kan' segregation of the seedlings from the self-pollinated non-transgenic attmem1 $^ { 8 / + }$ mutant plants.The result showed that the rice Oso5go43250o protein could complement the functional loss of AtTMEM18 in Arabidopsis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AtTMEM18 is important for pollen tube growth ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Wereport here the functional characterization of AtTMEM18 that is involved in pollen tube growth.AtTMEM18 encodes a transmembrane protein,which shares higher similarity with the TMEM18 proteins found in many animal and plant species. In the rat brain,the TMEM18 is located in the nuclear envelope of the neural stem cells (Jurvansuu et al.2oo8).The GFP fusion protein assays demonstrated that AtTMEM18 is located around nuclei, implying that it might be also located in the nuclear envelope.However，more direct evidence still is required to address this question. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AtTMEM18 is expressed in the developing pollen grains at the stages from unicellular to mature pollen grains, indicating that it is related to male gametophytic function.The Ds insertion in AtTMEM18 caused defect in pollen germination and pollen ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A Arabidopsis thaliana MEEIRSAMEKQVDLVADLVEKLSGELRTGFQPAYDNFLGFFHAIDWKEPWIMGIMAFHAL 60 Glycine max MEELKSAMEEHMDLMADLVOKLSSDLRAGFRPAYDNFIGFFHAIDWKEPWIMGILGFEVV 60 Populuseuphratica MEELKSALEAHMDCMADLVQKLSSELRSGLRPAIDNFIGFFHAIDWTEPWLMGI IG F LM 60 Oryza sativa Japonica Group MEEACAAVMAHLDCVSGLVQALSAELRRGIGPAADSLLAFVRAVDW? PW MVFHAT 60 Zea mays MEELRAAVTAHLDCVAGLVQALSSELRRGIGPAADNLRAEIRAVDWTEPWLMCIMAFHVV 60 Mus musculus .MSSAYSVRSFP.. .VSIPAVIMETDWTEPWLLG AFHLL 37 Homo sapiens MPSAFSVSSFP. .VSIPAVLTQTDWTEPWLMGLATF AL 37 Danio rerio .MTASNTKNASAIPIDKFSNVRITSIWTELQSVDWSEPWLMAILAFHVF 48 Drosophilamojavensis .MHPGEIEVNEIT. GIWSELMSIDWKDPWLIGI HVL 37 dw pw 1 h Arabidopsis thaliana LLLVTLLSRRHLNFHMELFLLALAGVY! AEN NRELRKN STQNYFDSN G VEISTLW 120 Glycine max LLVAIISRKKTNFCMELELLTLAGVY AESI NRELGKNWKSESSONYEDPRGLEMSVLW 120 Populus euphratica LLILTVVSRKHINFCMSFFLLALAG VY LSEE RI JRVLGD WRSEASONYFI H ED SVLW 120 Oryza sativa Japonica Group LLLTAVGLRRNANEOLEMLELAYSGVY ISYMAEE WKS IATRNYFDRA VEVSVVW 120 Zea mays LLLTAVGFRRNANFCLFLLFLAYSG JEKN NRYLGENWKSFTSRNYFDRS TSRNYEI VEISVVW 120 Mus musculus CLLLTCFSSQRYKLCIGHI CLVVIY S JEVAAVI W T SKYQYFDSR SLVF 97 Homo sapiens CVLLTCLSSRSYRLOIGHI CLVIIV E INEAAAMN WF 工 SKYQYFI SR H FISIVF 97 Danio rerio CEAFTLLSCKYYRIQICHI FLLMVAM E YINELAAMNWRSESKEO SKFQYFD SK MEI FISIVY 108 Drosophilamojavensis TTSTALLTRNYTNFOVELFIVLLSVVY VYFSE JEYAAA WKTESKCC SKQQYFDNN STVF 97 vy e n W yfd gf fs Arabidopsis thaliana LVIAMII LINTLFSLCYLIVKV AELRHRARLAH..TKEE 163 Glycine max S □ LLVISMIILINTLFSLCYMIVRW KRAELRHRARAAR . . NKQD 163 Populus euphratica GPI LIIATIILINTLFSLCYMIVRWKRAELRHRARLARESNKQD 165 Oryza sativa Japonica Group CP FISMVIVVSSLITLCRLMVKWKRAELRHRAQLAR..DKQD 163 Zea mays VISIVSVISSLIALCRLMVKWK RAELRHRARLAH..DKKD. 163 Mus musculus SAPLIFNAML FNAMLIVIMWVRKTLTVMTDL MWVRKTLTVMTDIKTLQEERKERRRR..RKEE 140 Homo sapiens SAPT VNAMIIVVMWVWKTLNVMTDL KN NAQERRKEKKRR. .RKED . 140 Danio rerio LLNTVIIVAVWVWRTFSTMTEL ILQLKRKAAREN. .HKKTC. 152 Drosophila mojavensis LLNCMLLIGTWLYNSTQIMVTII TAC LKERARREN..SAATTAPIAPTTGTKNLKE 155 sp k Sequence identity $1 0 0 \\%$ （20 （204号 $\\ge = 1 0 0 \\%$ （204号 （20 $\\scriptstyle \\geq = 5 0 \\%$ （204号 （ $\\geq = 3 0 \\%$ （204号 0.05   \nB L 一 Oryza sativa Japonica Group Zea mays Arabidopsis thaliana Glycine max Populus euphratica Mus musculus Homo sapiens Danio rerio Drosophila mojavens is ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Figure 6.AtTMEM18 shares sequence similarity with many TMEM18 from other species (A) Sequence alignmentof AtTMEM18-homologous proteins.(B)Phylogeneticanalysisof AtTMEM1-homologous proteins. The scalebarrepresents geneticdistance.Speciesandacesionnumber:Arabidopsis thaliana,AT1G3435o; Glycine max, NP_001237116;Populus euphratica，XP_01038158；Oryza sativa Japonica Group,Os05g043250o;Zea mays,AFW61473; Mus musculus,NP_742046; Homo sapiens,NP_690047;Danio rerio,NP_o01056o1; Drosophilamojavensis,EDWo8271. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "tube growth,but did not affect the division of generative cells and morphology of mature pollen grains.Thus,AtTMEM18 protein is important for pollen germination and pollen tube growth,but may not be essential for pollen formation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The attmem18 pollen tubes became swollen.It has been reported that defects in pollen tube wall components can cause the pollen tube wall to be unstable,resulting in swollen pollen tubes (Wang et al.2o13). Our histological assays showed that the attmem18 pollen grains exhibited a dotted callose distribution pattern before germination, different from those in wild type pollen grains. In wild type，callose appears prolifically at two stages，namely tetrad stage and pollen tube growth stage after germination.At the tetrad stage, the callose walls were formed to separate and protect the microspores.During emergence of the pollen tubes, the callose deposition could be detected at the rim of the germination aperture (Li et al.1999b).Then, in pollen tube,callose can be steadily detected in the distal region，which is confined to the inner wall layer and to transverse walls named a plug (Ferguson et al. 1998; Li et al. 1999b).The callose plug is consistent with its role in resisting tension stresses (Chebli et al.2o12). According to these results, the mature pollen grains did not synthesize callose before germination.The irregular callose deposition in the inner wall of attmem18 pollen gains suggested AtTMEM18 may play roles in the time-control of callose synthesis. Therefore,we speculate that the premature callose synthesis in ungerminated pollen grain may be the major cause for the abnormal germination.Furthermore,our results also showed that the callose distribution in the swollen attmem18 pollen tubes were significantly different from those of wild type pollen tube.When attmem18 pollen grains were cultured in vitro,no callose plugs were formed in the swollen mutant pollen tubes after germination although the dotted callose deposition still appeared in the inner wall of the pollen grains.Moreover, the pollen tube walls lacked or had less callose deposition.Therefore,we speculated that AtTMEM18 may be involved in pollen tube growth through controlling deposition or synthesis of callose in pollen grains and pollen tubes.There could be two possibilities for the mechanism that AtTMEM18 controls deposition or synthesis of the callose.One is that AtTMEM18 may be involved in the regulation of expression of the genes related to callose biosynthesis.The data supporting this hypothesis is that the C-terminal of the TMEM18 proteins in animal could form homo-polymer,bind to DNA of the chromosome and repress transcription of certain genes in the nucleus (Jurvansuu and Goldman 2011).Another possibility is that AtTMEM18 may participate in the transportation of the proteins related to callose biosynthesis or deposition. Nevertheless， more studies are still required to address how AtTMEM18 controls the deposition of callose to the walls of pollen grains and pollen tubes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/94f7f0bb668fcb23aa44fd34aeac85ebf18eb81e08aff3daac361ab5d60d3216.jpg",
+        "img_caption": [
+            "Figure7.Subcellular localization of AtTMEM18-GFF ",
+            "(A-E)TheGFPignalswerelocatedroundthnucleiunicellularpollengrain(A),icellareplengrain(B),tricelluarellen grain (C),pollentube(D)androothair (E)fromthepAtTMEM18:gAtTMEM18-GFPtransgenic plants.(F-l)TheGFPsignals were locatedaroundthenuceinteunicelluarpollengrain(F),icellaepoengrain(G),tricellarepollengrain(H)andtir (l) from pAtTMEM18:cAtTMEM18-GFP transgenic plants.GN,generativenuclei;N,nuclei;VN,vegetative nuclei; Bars $= 5 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AtTMEM18 may influence the morphogenesis of the vegetative cells in Arabidopsis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The pollen-rescue assays showed that the attmem18 also severely affected the development of the vegetative tissues, including hypocotyls，cotyledon，roots， leaves， siliques, resulting in shorter plants and reduction in seed set.The sectioning of the tissues showed that the diaphragm was not fused in the mutant siliques.The shapes of the cells in the distorted tissues including siliques and roots were altered. These results indicate that TMEM18 is important for normal plant cell growth,especially for cell morphogenesis. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The introns of AtTMEM18 is essential for its expression in generative cells of pollen grains ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the GFP fusion protein assays for AtTMEM18 protein localization,the pAtTMEM18:cAtTMEM18-GFP could not complement the male sterile phenotype of attmem18 mutant, but the pAtTMEM18:gAtTMEM18-GFP could.In pAtTMEM18: cAtTMEM18-GFP,theAtTMEM18cDNAwasused,which lacked the three introns of AtTMEM18，whereas in pAtTMEM18: gAtTMEM18-GFP,the genomic coding sequences was fused to GFP，which contained three introns.Therefore，the results indicated that the introns are essential for the expression of AtTMEM18 function on male fertility.In the pAtTMEM18: gAtTMEM18-GFPtransgenicattmem1 $^ { 8 / + }$ plants,the AtTMEM18- GFP was expressed around the nuclei of both vegetative cells and two sperm cells,while in pAtTMEM18:cAtTMEM18- GFP transgenic attmem1 $^ { 8 / + }$ plants,the AtTMEM18-GFP was expressed only around the nucleus of the vegetative cell, but not in those of the sperm cells.Therefore,the introns of AtTMEM18 are essential for its expression in sperm cells. Further deletion assays for the introns demonstrated that either of the three introns is enough to ensure the expression of AtTMEM18 in sperm cells,which could restore the male gametophytic function of attmem18 mutant.Taken together,expression of AtTMEM18 in sperm cells is essential for its function on male gametophytic function,and the introns of AtTMEM18 are required to ensure its expression in sperm cells. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It is still worthy to point out that when the pollen specific promoterLAT52 wasused to drive the expression of AtTMEM18 in pollen grain and pollen tubes， the progeny from the self-pollinated pLAT52:cAtTMEM18-GFP transgenic attmem1 $^ { 1 8 / + }$ mutant plants segregated in ratio of approximately $2 \\mathsf { K a n } ^ { \\mathsf { R } }$ ：1 $\\mathsf { K a n } ^ { \\mathsf { S } }$ (data not shown)，indicating that pLAT52:cAtTMEM18- GFP also could restore the male gametophytic function of attmem18.The green fluorescence of AtTMEM18-GFP was distributed in the whole pollen grains,included the vegetative cell and sperm cells (Figure S3).This result demonstrated that use of LAT52 promoter also could complement the roles of AtTMEM18 introns. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The TMEM18 genes in plants might be different from those in animals ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "TMEM18 protein is remarkably well conserved across this1,500 million year evolutionary history (Almén et al. 2o1o).Surprisinglyit hasno clear homologs in either yeast or Caenorhabditis elegans (Almén etal.201o).AtTMEM18 shares $7 2 \\%$ $5 3 \\%$ and $34 \\%$ similarity with the homologous proteins of Populus trichoca, Oryza sativa and Homo sapien,respectively.The homologous analysis showed the AtTMEM18 was clustered with the plant group.These results indicated that the functions of TMEM18 proteins might be different between plants and animals.The differences in the structure between TMEM18 and AtTMEM18 were mainly reflected in two aspects.First, the C-terminal of TMEM18 protein has a typical nucleic acid-binding motif (ERRKEKKRRRKED) and has been demonstrated to bind to DNA (Jurvansuu and Goldman 2o11). The second significant difference is that there are four cysteine residues in the firstand second transmembrane domain of TMEM18.With these four cysteine residues,TMEM18 proteins could form homo-polymer and be located in nuclear envelope,and enable the C-terminal of the protein to bind DNA on the chromosome and repress transcription of certain genes in the nucleus (Jurvansuu and Goldman 2o11). In contrast, there were no any typical nucleic acid binding motif in the C-terminal region of AtTMEM18 and other homologous proteins in plants.Furthermore，DNA binding assay showed that AtTMEM18 could not bind to DNA.Moreover,BIFCassay showed that AtTMEM18 also could not form homodimers.In addition,expression of the mouse TMEM18 protein in attmem18 could not recover the male fertility of the mutant,but expression of the rice homologous gene (Os05Go4325oo） driven by the pollen-specific LAT52 promoter could restore the male gametophytic fertility of attmem18.Taken together， the AtTMEM18 proteins may be functionally different from those inanimals. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSAND METHODS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Plantmaterialsand mutant isolation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The Arabidopsis thaliana plants used in this study were all in Landsberg erecta background.The seeds were plated on MS-salt agar plates with or without $5 0 \\mathrm { m g / L }$ kanamycin (Sigma-Aldrich）or $2 0 \\mathrm { m g / L }$ hygromycin (Roche， Basel, Switzerland) at $4 ^ { \\circ } C$ for2 d.Then the seeds were cultured at $2 2 ^ { \\circ } C$ under a light cycle of 16 h light/8 h dark for10 d.The resulting 1o-d-old seedlings were grown into soil in the same growth condition.The generation of Ds insertion lines and screen of mutants were performed as described by Sundaresan et al. (1995). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Characterization of attmem18 mutant phenotype ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Morphological observations of pollen grains by SEM were performed as described by Jiang et al. (2oo5). Pollen viability was examined using Alexander staining (Alexander 1969). DAPl staining of pollen grains was performed as described by Yang et al. (2009). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To examine in vitro pollen germination, the pollen grains were plated on the agar-solid pollen germination medium containing 1mM KCl，10 mM $\\mathsf { C a C l } _ { 2 }$ ， $\\mathsf { 0 . 8 m } M$ $M g S O _ { 4 } ,$ $0 . 0 1 \\%$ ${ \\sf H } _ { 3 } { \\sf B O } _ { 3 }$ and $1 8 \\%$ sucrose.Then the pollen plates were incubated at $2 2 - 2 4 ^ { \\circ } C$ for 6 h.At least 3oo pollen grains were examined to calculate the average germination rates for each sample. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To examine in vivo pollen tube growth, the flowers were emasculated one day before anthesis.The being cultured at $2 2 ^ { \\circ } C$ for $6 \\mathsf { h }$ ，the pollinated pistils were mounted onto the sample platform and quickly examined for the pollen tube growth patterns on the stigma by SEM (HITACHI, S-3400N). On the other hand, the pollinated pistils were collected and fixed in fixing solution (ethanol:acetic acid $= 3 { : } 1 \\cdot$ for $6 \\mathsf { h }$ .Then the fixed pistils were softened in 8M NaOH overnight.After washed with water for several times,the pistils were stained withaniline blue buffer ( $\\cdot 0 . 1 \\%$ aniline blue in o.1 ${ \\cal M } \\sf K _ { 2 } H P O _ { 4 }$ -KOH buffer with $\\mathsf { p H } = 1 1 . 0 \\dot { }$ ）for $2 h$ in the dark.The pollen tube growth patterns inside the pistils were observed using fluorescence microscopy (LEICA,DM25oo,Germany). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Pollen grain immunocytochemistry assay was performed as described by Geitmann et al. (1995). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Localization of Ds insertion site in attmem18 mutant ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The flanking sequence adjacent to the Ds element was obtained by TAlL-PCR (Liu et al. 1995; Liu and Whittier1995). Extraction of the attmem18 genomic DNA and TAIL-PCR were performed using $D s / A D$ primer sets,as described previously (Yang et al.1999).The Ds insertion was confirmed by conventional PCR using Ds-specific primers Ds5-3 (Table S4) paired with the gene-specific primer AtTMEM18-Ds $3 ^ { \\prime }$ (Table S4). The Ds insertion site was determined by sequencing of the resulting flanking DNA fragments. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Complementation experiments ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The $5 ^ { \\prime }$ upstream sequence and genomic DNA of AtTMEM18 Was amplified using rTaq (TaKaRa，Japan）with primers AtTMEM18-g ${ \\boldsymbol { \\cdot } } { \\boldsymbol { 5 } } ^ { \\prime }$ and AtTMEM18-g-3'(Table S4) and verified by sequencing. The resulting DNA fragment was cloned into theTi-derivedbinary vector pCAMBIA130o(CAMBIA, Australia) and introduced into the attmem18 heterozygous mutant plants by Agrobacterium tumefaciens (strain GV3101)- mediated infiltration method (Bechtold and Pelletier 1998). The transformant plants were selected on MS medium supplemented with $5 0 \\mathrm { m g / L }$ kanamycin and $2 0 \\mathrm { m g / L }$ hygromycin.The selected transgenic plants were transferred into soil to produce T2 seeds.The T2 seeds were germinated on kanamycin-containing MS agar plates to evaluate the complementation efficiency by analyzing the segregation ratio of kanamycin resistance. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The pollen rescue experiment was performed by pollenspecific expression of AtTMEM18 coding region in attmem1 $8 / +$ plants.The coding region of AtTMEM18 was amplified using rTaqwith primers AtTMEM18-c-5'and AtTMEM18 $c - 3 ^ { \\prime }$ (Table S4).The LAT52 promoter fragment was obtained from the plasmid pUCLNGFP2 (a gift from Dr. Zhenbiao Yang, Department of Botany and Plant Science，Universityof California at Riverside,CA).The resulting DNA fragment Was cloned into Ti-derived binary vector pCAMBIA13oo.The resulting constructs were transformed into attmem1 $8 / +$ plants.The selection and segregationanalysis of transformant plantswas performedasdescribed above. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The total RNA of rice (Oryza sativa） seedlings was extracted with cetyltrimethylammonium bromide (CTAB) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "solution (Yu and Goh 2ooo). Reverse transcription was performed using alfalfa mosaic virus reverse transcriptase (AMV，TaKaRa， http://www.takara-bio.com/). The coding region of Os05go4325oo wasamplified using rTaq with primers $0 5 - c - 5 ^ { \\prime }$ and $0 s - c - 3 ^ { \\prime }$ (Table S4). The pLAT52:Os05g0432500 construct was transformed into attmem1 $^ { 1 8 / + }$ plants.The selection and genetic analysis of transformant plants was performed as described above. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Assays for AtTMEM18 expression pattern ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The seedlings，roots，stems，leaves，flowers and siliques were harvested from 2-week-old seedlings and 4-week-old flowering plants,respectively.The total RNAs were extracted with cetyltrimethylammonium bromide(CTAB)solution(Yu and Goh 2ooo). Reverse transcription was performed using alfalfa mosaic virus reverse transcriptase (AMV，TaKaRa, http://www.takara-bio.com/). TUBULIN cDNA was used as an internal control to normalize the amount of cDNA templates.The primers TUBULIN-RT ${ \\cdot } 5 ^ { \\prime }$ and TUBULIN-RT- $3 ^ { \\prime }$ (Table S4) were used to amplify the TUBULIN cDNA fragment. The primers AtTMEM18-RT- ${ \\boldsymbol { \\cdot } } { \\boldsymbol { 5 } } ^ { \\prime }$ and AtTMEM18-RT- $3 ^ { \\prime }$ (Table S4) were used to assess the expression level of AtTMEM18 as previously described by Yang et al.(2009). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Northern blotting hybridization，AtTMEM18 genespecific probe was amplified by rTaq using the primers AtTMEM18-RT ${ \\boldsymbol { \\cdot } } { \\boldsymbol { 5 } } ^ { \\prime }$ and AtTMEM18-RT ${ \\boldsymbol { \\cdot } } { \\boldsymbol { 3 } } ^ { \\prime }$ (Table S4).The RNA probes Were labeled using the DIG RNA labeling kit (Roche, Indianapolis,IN,USA) as described by the supplier.RNA gel blotting hybridizations were performed following the instructions of the DIG system and DlG application manual provided by the supplier. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The AtTMEM18 promoter wasamplified usingrTaq with primers AtTMEM18-p- ${ \\boldsymbol { 5 } } ^ { \\prime }$ and AtTMEM18-p- $3 ^ { \\prime }$ (Table S4). After verifiedby sequencing，the fragment was subcloned upstream of the GUS reporter gene in Ti-derived binary vector pCAMBlA13oo to generate the expression cassette pAtTMEM18:GUS.The resulting construct was introduced into the wild type plants by Agrobacterium tumefaciens (strain GV31o1)-mediated infiltration method (Bechtold and Pelletier 1998). The transformant plants were selected on MS medium supplemented with $2 0 \\mathrm { m g / L }$ hygromycin.The selected transgenic plants were transferred into soil to produce T2 seeds.GUS staining of T2 plants tissues were performed as described previously (Sundaresan et al.1995; Yang et al. 1999). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Phenotypic characterization of pollen-rescued plants ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For paraffin sectioning,the roots,stems,leavesand siliques of the pollen-rescued attmem18 plantsand wild type plants were fixed in $50 \\%$ formalin-acetic acid-alcohol (FAA) solution and processed according to Shi et al.(2oo5) and Yang et al.(1999). The observation of the clarified root tips were as described by Yang et al. (1999). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Assays forprotein subcellularlocalization ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The AtTMEM18 promoter fragment was amplified using rTaq(TaKaRa)withprimers AtTMEM18-P $5 ^ { \\prime }$ and AtTMEM18- ${ \\mathsf { P } } { - } 3 ^ { \\prime }$ (Table S4).The AtTMEM18 genomic DNA fragment without the stop codon was amplified by rTaq using primers AtTMEM18-g-5′-2 and AtTMEM18-g-3'-2 (Table S4).The AtTMEM18 coding region fragment without the stop codon was amplified using rTaq with primers AtTMEM18-c- ${ \\boldsymbol { \\cdot } } { \\boldsymbol { 5 } } ^ { \\prime }$ and AtTMEM18-c-3'(Table S4).After verified by sequencing, the AtTMEM18 promoter and genomic DNA fragments were subcloned in front of the NOS terminator sequence $( \\mathsf { T } _ { N O S } )$ in the modified pCAMBlA13oo vector which contained GFP coding region,resulting in a pAtTMEM18:gAtTMEM18-GFP:TNos Construct. The pAtTMEM18:cAtTMEM18-GFP:TNOs COnstruct was generated in the same way.The pAtTMEM18:gAtTMEM18- $G F P { : } { \\sf T } _ { N O S }$ and pAtTMEM18:cAtTMEM $1 8 – \\mathsf { G F P : T } _ { N O S }$ constructs were introduced into attmem1 $^ { 8 / + }$ and wild type plants, respectively.The transformant plants were selected using $5 0 \\mathrm { m g / L }$ kanamycin and $2 0 \\mathrm { m g / L }$ hygromycin.The subcellular localization of AtTMEM18-GFP fusion protein in the roots,pollen grains and pollen tubes was visualized under a confocal microscope (LSM51o,Carl Zeiss, Germany,http://www.zeiss.com). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr.V.Sundaresan,Dr.Wei-Cai Yangand Mrs.Li-Fen Xie for their kind help with the mutant screens.This work was supported by the research grants from the Ministry of Sciences and Technology(973 project number: 2oo7CB1o8700), the Natural Science Foundation of China (NSFC，project number:3o53oo6o)，the Ministry of Education (111 project numbered Bo6oo3) and the BJAST Youth Backbone Training Plan (No.2015-24). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR CONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Conceived and designed the experiments: D.Y.，X.Y.D.and K.Z.Y. Performed the experiments: X.Y.D., K.Z.Y.,Z.X.M.,L.Q.C. and X.Q.Z.Analyzed the data:X.Y.D.,K.Z.Y.and D.Y.Wrote the paper: D.Y., X.Y.D., K.Z.Y., and J.R.B. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "microgametogenesis and for pollen viability in Arabidopsis.Plant J 42: 315-328   \nEdlund AF,Swanson R, Preuss D (2oo4) Pollen and stigma structure and function: The role of diversity in polination. Plant Cell 16: S84-S97   \nFerguson C,Teeri T,Siika-Aho M,Read S,Bacic A (1998) Location of cellulose and callose in pollen tubes and grains of Nicotiand tabacum.Planta 206: 452-460   \nGeitmann A, Hudak J, Vennigerholz F,Walles B (1995) Immunogold localization of pectin and callose in pollen grains and pollen tubes of Brugmansia suaveolens- -implications for the selfincompatibility reaction.JPlant Physiol147: 25-235   \nGeitmann A,Steer M (2oo6) The architecture and properties of the pollen tube cell wall. The Pollen Tube.Springer.p.177-200   \nGuan Y，Guo J，Li H，Yang Z（2013） Signaling in pollen tube growth:Crosstalk,feedback，and missing links.Mol Plant 6: 1053-1064   \nHulskamp M，Kopczak SD，Horejsi TF，Kihl BK，Pruitt RE (1995) Identification of genes required for pollen-stigma recognition in Arabidopsis thaliana.Plant J8: 703-714   \nHarholt J,Suttangkakul A, Scheller HV (2o1o) Biosynthesis of pectin. Plant Physiol 153: 384-395   \nHepler PK，Rounds CM，Winship LJ (2013） Control of cell wall extensibility during pollen tube growth. Mol Plant 6: 998-1017   \nIwano M, Entani T,Shiba H,Kakita M,Nagai T,Mizuno H,Miyawaki A, Shoji T,Kubo K, Isogai A (2oo9) Fine-tuning of the cytoplasmic （20 ${ \\mathsf { C a } } ^ { 2 + }$ concentration is essential for pollen tube growth. Plant Physiol 150: 1322-1334   \nJiang L, Yang SL, Xie LF,San Puah C,Zhang XQ, Yang WC,Sundaresan V, Ye D (2oo5) VANGUARD1 encodes a pectin methylesterase that enhances polen tube growth in the Arabidopsis style and transmitting tract. Plant Cell 17: 584-596   \nJohnson MA, Preuss D (2oo2) Plotting a course: Multiple signals guide pollen tubes to their targets. Dev Cell 2: 273-281   \nJurvansuu J, Zhao Y,Leung DS,Boulaire J,Yu YH,Ahmed S,Wang S (2008)Transmembrane protein 18 enhances the tropism of neural stem cells for glioma cells.Cancer Res 68:4614-4622   \nJurvansuu JM，Goldman A (2011） Obesity risk gene TMEM18 encodes a sequence-specific DNA-binding protein. PLoS ONE 6: e25317   \nKim S,Mollet J-C.，Dong J,Zhang K,Park S-Y,Lord EM(2003) Chemocyanin,a small basic protein from the lily stigma, induces pollen tube chemotropism. Proc Natl Acad Sci 100: 16125-16130   \nKrichevsky A,Kozlovsky SV,Tian GW,Chen MH,Zaltsman A,Citovsky V (2007) How polen tubes grow. Dev Biol 303: 405-420   \nLancelle SA， Hepler P (1992) Ultrastructure of freeze-substituted pollen tubes of Lilium longiflorum. Protoplasma 167: 215-230   \nLennon K,Lord E(2ooo) In vivo pollen tube cellof Arabidopsis thaliand 1. Tube cell cytoplasmand wall. Protoplasma 214: 45-56   \nLi H, Bacic A, Read SM (1999a) Role of a callose synthase zymogen in regulating wall deposition in pollen tubes of Nicotiana alata Link et Otto. Planta 208: 528-538   \nLi H,Lin Y, Heath RM,Zhu MX, Yang Z(1999b) Control of pollen tube tip growth by a Rop GTPase-dependent pathway that leads to tiplocalized calcium influx. Plant Cell 1: 1731-1742   \nLiu YG,Mitsukawa N,OosumiT,Whitter RF(1995) Efficient isolation and mapping of Arabidopsis thaliana T-DNA insert junctions by thermal asymmetric interlaced PCR. Plant J 8: 457-463   \nLiu YG,Whitier RF (1995） Thermal asymmetric interlaced PCR: Automatable amplification and sequencing ofinsert end fragments ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Alexander M (1969) Differential staining of aborted and nonaborted pollen. Stain Technol 44: 117-122 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Almén MS,Jacobsson JA,Shaik JH,Olszewski PK,Cedernaes J, Alsio J,Sreedharan S,Levine AS,Fredriksson R,Marcus C(2010) The obesity gene，TMEM18，is of ancient origin，found in majority of neuronal cells in all major brain regions and associated with obesity in severely obese children.BMC Med Genet 11:58   \nBechtold N，Pelletier G (1998) In planta Agrobacterium-mediated transformation of adult Arabidopsis thaliana plants by vacuum infiltration.Methods Mol Biol 82: 259-266   \nBedinger P (1992) The remarkable biology of pollen.Plant Cell4: 879   \nChebli Y, Kaneda M, Zerzour R,Geitmann A(2o12) The cell wall of the Arabidopsis pollen tube — spatial distribution,recycling,and network formation of polysaccharides.Plant Physiol 160: 1940-1955   \nDardelle F,Lehner A,Ramdani Y,Bardor M,Lerouge P,Driouich A, Mollet J-C (2o1o) Biochemical and immunocytological characterizations of Arabidopsis pollen tube cell wall. Plant Physiol 153: 1563-1576   \nDongX, Hong Z,Sivaramakrishnan M,Mahfouz M,Verma DPS (2005) Callose synthase (CalS5) is required for exine formation during from P1 and YAC clones for chromosome walking. Genomics 25: 674-681   \nLord EM，Russell SD (2oo2）The mechanisms of polination and fertilization in plants.Annu Rev Cell Dev Biol 18: 81-105   \nMichard E，Alves F，Feijó JA(2oo9)The role of ion fluxes in polarized cell growth and morphogenesis:The pollen tube as an experimental paradigm.Int JDev Biol 53:1609   \nMuschietti J，Dircks L，Vancanneyt G,McCormick S(1994） LAT52 protein is essential for tomato pollen development: Pollen expressing antisense LAT52 RNA hydrates and germinates abnormally and cannot achieve fertilization.Plant J 6:321-338   \nNishikawa S-i, Zinkl GM, Swanson RJ,Maruyama D,Preuss D (2005) Callose (β-1，3 glucan) is essential for Arabidopsis polln wall patterning, but not tube growth. BMc Plant Biol 5: 22   \nPalanivelu R, Brass L,Edlund AF,Preuss D (2oo3) Pollen tube growth and guidance is regulated by POP2,an Arabidopsis gene that Controls GABA levels. Cel 114: 47-59   \nPalanivelu R，Preuss D (2ooo） Pollen tube targeting and axon guidance: Paralels in tip growth mechanisms.Trends Cell Biol 10: 517-524   \nPreuss D (2oo2) Sexual signaling on a cellular level: Lessons from plant reproduction. Mol Biol Cell 13: 1803-1805   \nPreuss D,Rhee SY，Davis RW (1994) Tetrad analysis possble in Arabidopsis with mutation of the QUARTET (QRT) genes. Science 264: 1458-1460   \nRay S,Park S-S,Ray A (1997) Pollen tube guidance by the female gametophyte. Development 124: 2489-2498   \nSamaj J,Muller J，Beck M，Bhm N,Menzel D (2oo6) Vesicular trafficking,cytoskeleton and signalling in root hairs and pollen tubes. Trends Plant Sci 11: 594-600   \nShi DQ,Liu J, Xiang YH,Ye D,Sundaresan V,Yang WC (2oo5) SLOW WALKER1, essential for gametogenesis in Arabidopsis, encodes a WD40 protein involved in 18S ribosomal RNA biogenesis.Plant Cell 17: 2340-2354   \nSpeakman JR (2o13) Functional analysis of seven genes linked to body mass index and adiposity by genome-wide association studies: A review. Hum Hered 75: 57-79   \nSundaresan V,Springer P,Volpe T,Haward S,Jones JD,Dean C,Ma H, Martienssen R (1995) Patterns of gene action in plant development revealed by enhancer trap and gene trap transposable elements. Genes Dev 9: 1797-1810   \nWang L,Wang W,WangYQ,Liu YY,Wang JX, Zhang XQ,Ye D,Chen LQ (2013）Arabidopsis galacturonosyltransferase (GAUT） 13 and GAUT14 have redundant functions in pollen tube growth.Mol Plant 6: 1131-1148   \nWilhelmi LK，Preuss D (1996） Self-sterility in Arabidopsis due to defective pollen tube guidance. Science 274: 1535-1537   \nWilsen KL,Lovy-Wheeler A,Voigt B,Menzel D,Kunkel JG,Hepler PK (2006) Imaging the actin cytoskeleton in growing pollen tubes. Sex Plant Reprod 19: 51-62   \nXia C,Wang YJ,Li WQ,Chen YR, Deng Y, Zhang XQ,Chen LQ,Ye D (2010)The Arabidopsis eukaryotic translation initiation factor 3, subunit F (AtelF3f)，is required for pollen germination and embryogenesis.Plant J63:189-202   \nYang KZ, Xia C,Liu XL,Dou XY,Wang W,Chen LQ,Zhang XQ,Xie LF, He L,Ma X (2oo9)A mutation in Thermosensitive Male Sterile 1, encodinga heat shock protein with DnaJ and PDl domains, leads tothermosensitive gametophytic male sterility in Arabidopsis. Plant J57: 870-882   \nYang WC,Ye D,XuJ,Sundaresan V(1999)The SPOROCYTELESS gene of Arabidopsis is required for initiation of sporogenesisand encodes a novel nuclear protein.Genes Dev 13:21o8-2117   \nYu H,Goh CJ (2ooo） Identification and characterization of three orchid MADS-box genes of the AP1/AGL9 subfamily during floral transition. Plant Physiol 123: 1325-1336 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTING INFORMATION ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Additional supporting information may be found in the online version of thisarticle at the publisher'sweb-site.   \nTable S1. Comparison of pollen grains with dotted callose deposition in wild type,mutant and complemented mutant plants   \nTable S2.The in vivo Germination of pollen grains from attmem1 $^ { 8 / + }$ mutant and wild type plants   \nTable S3.Genetic analyses of progeny from different transgenic attmem1 $^ { 8 / + }$ plants   \nTable S4.The sequences of primers used in this study   \nFigure S1.The full length wild type AtTMEM18 sequence could complement the phenotype of attmem18 pollen   \nFigure S2.The structure and location of the fused proteins expressed by the six constructs   \nFigure S3.Location of pLAT52:cAtTMEM18-GFP construct in transgenic pollen grains ",
+        "page_idx": 13
+    }
+]

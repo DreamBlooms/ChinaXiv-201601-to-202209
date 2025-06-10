@@ -1,0 +1,244 @@
+[
+    {
+        "type": "text",
+        "text": "FINE MAGNETIC STRUCTURE AND ORIGIN OF COUNTER-STREAMING MASS FLOWS IN A QUIESCENT SOLAR PROMINENCE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YUANDENG SHEN $^ { 1 , 2 , 3 , 4 }$ ,Yu LIU $^ { 1 }$ , YING D. LIU $^ 2$ ,P.F.CHEN $^ 4$ ， JIANGTAO SU $^ 3$ , ZHI XU $^ { 1 }$ ，& ZHONG LIU $^ { 1 }$ Draft version November17,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We present high-resolution observations of a quiescent solar prominence which was consisted of a vertical and a horizontal foot encircled by an overlying spine,and counter-streaming mass flows were ubiquitous in the prominence.While the horizontal foot and the spine were connecting to the solar surface,the vertical foot was suspended above the solar surface and supported by a semicircular bubble structure.The bubble first collapsed and then reformed at a similar height,finally,it started to oscillate for a long time.We find that the collapsing and oscillation of the bubble boundary were tightly associated with a fare-like feature located at the bottom of the bubble.Based on the observational results,we propose that the prominence should be composed of an overlying horizontal spine encircling a low-lying horizontal and a vertical foot,in which the horizontal foot was consisted of shorter field lines running partially along the spine and with the both ends connecting to the solar surface, while the vertical fot was consisted of piling-up dips due to the sagging of the spine fields and supported by a bipolar magnetic system formed by parasitic polarities (i.e.,the bubble). The upflows in the vertical foot were possbly caused by the magnetic reconnection at the separator between the bubble and the overlying dips,which intruded into the persistent downflow field and formed the picture of counter-streaming mass flows. In addition, the counter-streaming fows in the horizontal foot were possibly caused by the imbalanced pressure at the both ends. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Subject headings: Sun: filaments, prominences - Sun: magnetic fields - Sun: oscillations - Sun chromosphere ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Solar prominences are cloud-like cool and dense plasma suspended in the extremely hot， tenuous corona,and prominence plasma is typically one hundred times cooler and denser than the surrounding coronal plasma(Mackay et al. 201O). The eruptions of prominences are vitally important for space weather forecast since they usually lead to coronal mass ejections that can significantly affect the interplanetary space(Liu et al. 2014; Schmieder et al.2O15).Previous observations have indicated that a prominence is consisted of a main spine and a few lateral feet (or barbs)(Martin 1998)，and all these structures are composed of many field-aligned thin threads that carry intriguing counter-streaming mass flows(Zirker et al.1998；Lin et al. 2003， 2005; Schmieder et al. 2008;Berger et al. 2011; Chen et al. 2014;Yang et al. 2014; Yan et al. 2015).So far, it has been widely accepted that prominencesare supported by solar magnetic fields(Tandberg-Hanssen 1995)，and theoretical works have been performed to understand the prominence physics(Kippenhahn et al. 1957;Kuperus & Raadu 1974; Martin & Echols 1994; Aulanier et al. 2002；Amari et al. 2003).However, the basic magnetic structure and the origin of counterstreaming mass flows in prominences are hitherto unclear,although these issues are crucial for understanding the prominence physics as well as the initiation of coronal mass ejections(Shibata & Magara 2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Currently, there are three main discrepancies about the magnetic structure and counter-streaming mass flows in prominences. The first is about the magnetic field distribution in prominences.Some high-resolution observations showed that prominences are consisted of horizontal thin threads(e.g., Casini et al. 2Oo3; Okamoto et al. 2007;Heinzel et al. 2008;Ahn et al. 201O)，while others indicated that prominences are consisted of vertical thin_threads(e.g.， Berger et al. 2O08; Chae et al. 2008)． Recently, Dudik et al.(2012) argued that this discrepancy is largely depending on the observing angle with respect to the prominence axis.The second is about the relationship between the ends of prominence feet and the photospheric magnetic fields. Some observations showed that prominence feet are fixed at parasitic (minority） polarities that are opposite in polarity to the surrounding network elements(e.g., Martin&Echols 1994),butotherstudiesindicated that they are possibly terminated around small-scale polarity inversion lines of the photospheric magnetic fields(e.g., Wang 200l;Aulanier & Démoulin 1998;Aulanier et al. 1998;Chae et al. 2005;Li & Zhang 2013). It should be noted that in Martin & Echols (1994)prominence feet are composed of magnetic field lines running off the prominence spine and rooted in parasitic polarities, while Aulanier & Démoulin (1998) and Aulanier et al. (1998）suggested that prominence feet are composed of magnetic dips overlying the secondary photospheric inversion lines formed by parasitic polarities.The third is about the origin of counter-streaming mass flows in prominences.Some studies suggested that counter-streaming flows are the manifestation of longitudinal oscillations of thin threads(e.g.,Lin et al. 2003; Chen et al. 2014)，while others proposed that they are caused by force non-equilibrium at the two ends of threads(e.g.,Low & Petrie 2005; Chen et al. 2014). These discrepancies about prominence have puzzled soar physicists many years. To reconcile these discrepancies，high-resolution and multi-wavelength observations are necessary, as well as the measuring method of magnetic spectropolarimetry. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this letter， we present a quiescent prominence recorded by the New Vacuum Solar Telescope(NVST; Liu et al. 2014)， which showed both of horizontal and vertical structures and intriguing counter-streaming mass flows.In addition,a sharply defined bubble structure is observed below the vertical foot of the prominence,which showed interesting collapsing,reformation, and oscillation dynamics.Thanks to the high temporal and spatial resolution observations of the NVST,we are able to study the fine magnetic structure and the origin of the counter-streaming mass flows in the prominence, as well as the physics of the dynamical bubble structure. Instruments and observations are described in Section 2,main observational results are presented in Section 3, and interpretation and discussions are given in Section 4. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.INSTRUMENTS AND OBSERVATIONS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The NVST is an one-meter ground-based solar telescope operated by Yunnan Observatories of Chinese Academy of Sciences. Due to the influence of the Earth's turbulent atmosphere,the raw solar images taken by the NVST are reconstructed using high-resolution imaging algorithms(see,Liu et al. 2O14).The reconstructed NVST Ha data has a cadence and a spatial resolution of 12 seconds and 236 km，respectively. The extremeultraviolet (EUV) images taken by the Atmospheric Imaging Assembly （AIA；Lemen et al. 2012） onboard the Solar Dynamics Observatory (SDO; Pesnell et al. 2012）are used in the paper,whose cadence and spatial resolution are 12 seconds and 88O km,respectively. In addition,full-disk $\\mathrm { H } \\alpha$ images taken by the Kanzelhohe Solar Observatory (KSO) Hα telescope and magnetograms taken by the Helioseismic and Magnetic Imager (HMI; Schou et al. 2012) onboard the SDO are also used to aid our analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3．RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "On 24 May 2014,a high-latitude quiescent prominence at the northwest solar limb ( $2 8 ^ { \\circ }$ N, 88° W) was observed by ground-based and space-borne telescopes such as NVST,KSO,and SDO.These instruments image the prominence at chromosphere and corona temperature simultaneously. The prominence was consisted of a horizontal and a vertical low-lying foot encircled by an overlying horizontal spine,and all of these structures are consisted of thin threads that manifest the magnetic field distribution in the prominence.While the horizontal foot seemingly with its both ends directly rooted on the solar surface,the vertical foot was suspended above the solar limbby a semicircular bubble structure (Fig.1a).The average width of the thin threads is about $7 0 0 ~ \\mathrm { k m }$ ，and the height and width of the bubble are $1 3 , 0 0 0 \\pm 3 3 6$ km and $2 5 , 0 0 0 \\pm 5 7 6 \\ \\mathrm { k m }$ n,respectively. The AIA171 A images show that the vertical foot was embedded in a largescale loop structure,along which one can identify the prominence more clearly in AIA 304 A images (Fig.1 b and c).The KSO Hα telescope recorded the prominence since a few days ago.On 20 May 2014, the prominence was on the solar disk and showed up as a long filament consisting of a few discrete segments,and the one containing the bubble is indicated by the white arrows in Fig.1 d-e. The HMI line-of-sight (LOS)magnetogram on 20 May indicates that the prominence was located on the polarity inversion line of a quiet-Sun region,and many minority polarities can be identified around the polarity inversion line.(Figl.g). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The bubble below the vertical foot showed intriguing dynamical behaviours in the NVST $\\mathrm { H } \\alpha$ images (Fig. 2 ac).Firstly,it collapsed at about O6:55UT and launched conspicuous upflows along the vertical threads. Since downflows were persistent along the vertical threads during the entire observing time,the combination of upflows and downflows formed a pattern of counter-streaming flows in the vertical foot. The collapsing also resulted in the successful intrusion of downflows into the bubble. Secondly,after the collapsing the bubble reformed at a similar height and then started to oscillate forabout 90 minutes. Thirdly, during the oscillation stage the vertical threads above the bubble showed collective horizontal motion to the west at a speed of $4 . 1 \\pm 1 . 2$ km $\\mathrm { s } ^ { - 1 }$ ． At the bottom of the bubble,an obvious flare-like feature is observed just above the solar surface in AIA EUV channels (here, only show AIA 211 $\\textup { \\AA }$ as an example)，and the brightest stage occurred during the bubble's collapsing stage (Fig. 2 d-f). Using the differential emission measure (DEM) technique(Cheng et al. 2012), the DEM curves crossing the bubble and the prominence are derived respectively (Fig. 2 g). The result shows that the bubble has a similar temperature distribution to the prominence ( $5 . 8 \\ \\leqslant \\ \\log T \\ \\geqslant \\ 7 . 4$ ，and both the average temperature and the emission measure of the bubble are slightly higher than those of the prominence. It should be noted that since the DEM results are seriously influenced by the foreground and background offlimb emissions along the LOS(Parenti 2012)，the temperature of the prominence (bubble) may just represents the prominence-corona transition region (PCTR) (foreground and background off-limb emissions).Therefore, we can not tell whether the temperature of the bubble is hotter that the prominence or not. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ubiquitous counter-streaming mass flows were observed in different parts of the prominence.In the vertical foot,downflows were persistent during the entire observing time,while upflows were heavily only during the bubble's collapsing stage,after which they weakened gradually and finally disappeared after O8:4O UT (Fig. 3 a and b).It is noted that the counter-streaming flows along the vertical threads are close to uniform motion, implying that the downward gravity must be balanced by some kind of upward forces such as thermal and magnetic pressure. The average speeds of_the upward and downward flows are $1 3 . 7 \\pm 5 . 2$ km s $^ { - 1 }$ and $1 2 . 5 \\pm 5 . 2$ $ { \\mathrm { k m ~ s } } ^ { - 1 }$ ，respectively.In_the horizontal foot (Fig.3 c and d)，the direction of the counter-streaming flows were eastward and westward for the lower and higher threads，and their average speeds are $2 0 . 1 \\pm 4 . 5 \\ \\mathrm { k m }$ $\\mathrm { s } ^ { - 1 }$ and $1 5 . 8 \\pm 3 . 8 ~ \\mathrm { k m } ~ \\mathrm { \\check { s } ^ { - 1 } }$ ，respectively. The different speeds of the counter-streaming flows in the vertical and horizontal feet may indicate the different driving mechanisms of these counter-streaming mass flows.By comparing with previous studies,the speeds of counterstreaming flows are consistent withLabrosse et al.(2010) and Schmieder et al. (20iO),but they are less than the values reported by Berger et al. (201O).However, these values areall of the same order. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5d45efbbc915bfef59444f76c55c66892590cfff9ccbaec923290aa9da4948a.jpg",
+        "img_caption": [
+            "FIG.1.— Multi-wavelength observations show the quiescent prominence.a,NVST $\\mathrm { H } \\alpha$ negative image.The dashed lines A1-A2,B1-B2 andC1-C3areusedtoobtainthetme-distancediagrams.bandcAIA171Aimage.Thewhiteboxshows thefeld-of-viewofpanela.c, AIA $3 0 4 \\mathrm { ~ \\AA ~ }$ image.Thewhiteboxshows thefeld-of-viewofthepanelsinFig.2.Thewhitearrowsinpanelsa-cpointtothesolarnorth. d-f, KSO $\\mathrm { H } \\alpha$ images.Thewhitearrows indicatetheprominence footcontaining thebubble.g,HMILOSmagnetogramoverlaidwith the prominence profile determined from the KSO $\\mathrm { H } \\alpha$ image on 20 May 2014 at O6:15:18 UT.See animations 1 and 2 for the all NVST and AIA images. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By comparing the profiles of the oscillating bubble boundary and the brightness of the flare-like feature, one can find that the oscillation behaviour of the bubble boundary is consistent with the variation pattern of the EUV brightness of the flare-like feature (Fig.4 a and b). Namely, the continuous large rising of the bright ness of the fare-like feature corresponds to the collapsing stage of the bubble boundary,while those small rising of the brightness only led to moderate oscillation motions whose amplitude was about 25O km on average. This result may indicate that the energy released by the flarelikefeature heated the bubble and therefore led to the vacation of the thermal and magnetic pressure inside the bubble,which would cause the collapsing and oscillation of the bubble boundary.It seems that the collapsing and oscillation of the bubble boundary are depending on the amplitude of the disturbance resulted from the flare-like feature.It should be noted that some sudden increase of the NVST $\\mathrm { H } \\alpha$ brightness are caused by spicules. The collapsing of the bubble lasted for about 25.2 minutes,while the durations of the oscillating motions range from 4.8 to 7.8 minutes.Wavelet analysis(Torrence & Compo 1998) of the oscillating bubble boundary and the brightness of the flare-like feature profiles indicates that all these parameters contain two main periods of about three and five minute. Schmieder et al.(2013)also reported the period of five minute in a prominence,and they proposed that such oscillations are possibly associated with magnetic reconnection events in or just above the photosphere,or the leaking of photospheric characteristic oscillations into the chromosphere. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd933373fa58872366676a2f27b9bac6b5c99ddcfad16a7b415584b82e9031af.jpg",
+        "img_caption": [
+            "FIG.2.— Spatial and temperature evolution of the bubble and the vertical prominence foot.a-c,NVST $\\mathrm { H } \\alpha$ negative images.d-f,AIA 211Aimagesg,DEMcurvesderivedfromtheboxregions(ref.panelc)overthebubbleandtheprominencebyusingthesixhotcanels ofAIA.TheboxinpanelfshowstheregionusedtomeasurethebrightnesshowninFig.4.Seeanimation3fortheallNVSTandAIA images. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.INTERPRETATIONANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on the observation,we propose a cartoon model to interpret the magnetic structure of the prominence (Fig.5 a and b)，which is similar to the magnetohydrodynamics (MHD） model proposed by Dudik et al. (2012).According to the model, the prominence is composed of a high-lying horizontal spine that directly connects to the solar surface,which encircles a low-lying horizontal and a vertical foot. The horizontal foot is composed of shorter field lines running partially along the spine and with the both ends connecting to the solar surface,while the vertical foot is consisted of piling-up dips due to the sagging of the initially horizontal spine fields. Meanwhile,the piling-up dips are supported by a low-lying closed magnetic system that forms the bubble structure. This topology includes a separator between the bubble and the overlying dips (red dashed curve in panels a and b of Fig.5).If disturbance occurs around the separator,magnetic reconnection at the separator can be expect (Dudik et al. 2012). It should be point out that our interpretation of the verticalfeet is consistent withthetraditionaltheoryforinterpreting the vertical structures observed in solar prominences(e.g.，Aulanier& Démoulin 1998;Low& Petrie 2005;Chae et al． 2008; Schmieder et al. 2010).Using this model, one can naturally explain the coexistence of horizontal and vertical structures in a single prominence,the relationship between photospheric magnetic fields and the ends of prominence feet，and the origin of counter-streaming mass flows in prominences. Obviously,when one observes the prominence from the side, the spine and the horizontal foot will be observed as horizontal structures,while the vertical foot will be observed as vertical structure in prominence.When one observes the prominence from the top,the end of the vertical foot would be terminated at the small-scale polarity inversion line that forms by small polarities,and the ends of the horizontal foot are possibly rooted at small polarities directly (Fig. 5 b). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae3e4c692ccfae2441f9cb0f528cb541b2cf8601bc07106253fae1e086176028.jpg",
+        "img_caption": [
+            "FIG.3.—Thecounter-streamingmassfows inverticalandhorzontalfetoftheprominence.a-b,time-distancediagramsalongAland A2,andtheredandbluelinesmarktheupwardanddowwardmassfows,respectively.c-d,time-distancedagramsalongBand2, andtherdandbluelinesarkthewestwardandeastwardmassfows,respectively.Altesetime-distancediagramsaremadefromthe NVST $\\mathrm { H } \\alpha$ data,and the data gap is indicated in each panel. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As pointed out by (Dudik et al. 2012), the sharp bubble boundary could either be due to the magnetic reconnection at the separator or due to the piling up of plasma near the separator，and the magnetic reconnection at the separator can be the driving mechanism of upflows (plumes） in prominences.For the present case,since the continuous heating of the flare-like feature,the thermal and magnetic pressure will rise continuously inside the bubble.This will disturb the initial equilibrium of the bubble and thus lead to the rise (or expansion） of the bubble.Therefore,the collapsing of the bubble can be interpreted as the result of the magnetic reconnection at the separator between the low-lying bubble and the overlying dips (Fig. 5 c and d),due to the large rising of temperature inside the bubble. The consequence of the reconnection are the appearance of the upflows in the vertical foot,the downflows intrudedinto thebubble,and the collective horizontal motion of the thin threads. If the disturbance results from the flare-like feature is too small to trigger the fast magnetic reconnection at the separator,the consequence may just be oscillation motions of the bubble boundary as we observed in the present case. The magnetic reconnection at the separator could also be a possible driving mechanism of counter-streaming mass flows in prominences. For the counter-streaming flows in the horizontal foot,we propose that they may caused by the imbalanced pressure at the both ends.Since the mass flows were apparently along different threads,the mechanism of longitudinal oscillation threads can be excluded. In this line of thought,counter-streaming flows can also be expected in the high-lying prominence spine, even though we do not detect counter-streaming mass flows in the spine based on the NVST $\\mathrm { H } \\alpha$ observations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/72a44a98c5fbf85b805d8ef6815d5102937513c706c4d6daf22acc7c67a1e676.jpg",
+        "img_caption": [
+            "FIG.4.—Therelationshipsbetwnthednamicalbubbleboundaryandthebrightnessoftefarelikefature.,time-distancediagam obtained from the NVST $\\mathrm { H } \\alpha$ data along C3 as shown in Fig.1. b,AIA 131 A 211 A,and NVST $\\mathrm { H } \\alpha$ lightcurves_show_the brightness variationsofthefare-likefature.Theverticaldashedlinesandthecyanhorzontalbarsmarkthedurationofeachoslltiootion g,waveletaalsftltraetoresoftbleodarateosiiosfC-C(e)h1(fdA (g)brightnesproflsovetefelikefatue.h,thellontrajetoresdteridfrotetidistancedagramsalogC-C3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bubble structure is always observed in quiescent prominences,and it is possibly a fundamental building block of solar quiescent_prominences. Earlier lowresolutionground-based(Stellmacher & Wiehr1973; de Toma et al. 2oo8） and recent high-resolution spaceborne(Berger et al.2008， 2010， 2011； Dudik et al. 2012）telescopeshave observed several prominence bubbles and the generation of plumes that directly intrude into the prominence body. So far，the origin of prominence bubbles is still unclear.Berger et al.(Berger et al. 2O11)proposed that they are formed by emerging magnetic flux below prominences，but Gunar et al.(Gunar et al. 2014) suggested that they are formed because of perturbations of the prominence magnetic field by parasitic bipoles.In addition，the driving mechanism of prominence plumes from bubble structures is also unclear.Some authors proposed that the generation of plumes are caused by Rayleigh-Taylor instability at the bubble boundary(Berger et al. 2011; Hillier et al. 2011，2012；Keppens et al. 2015)，while others suggest that they are possibly caused by magnetic reconnection at the boundary between the bubble and the prominence(Liu & Kurokawa20o4; Dudik et al. 2012).Our observations suggest that the prominence bubble is possibly formed by low-lying bipolar magnetic systems due to the appearance of small polarities near the photospheric polarity inversion line,and the generation of the upflows (or plumes) in the vertical foot are possibly drived by the magnetic reconnection at separator between the bubble and the overlying dips that forms the vertical prominence foot. However, the mechanism of Rayleigh-Taylor instability can not be completely discarded,and it may as well be present and play a role in the collapsing of the bubble and the generation of the upflows. The bubble's temperature and dynamics are inevitably influenced by the flare-like feature at the bottom of the bubble,which releases energy and changes the thermal and magnetic pressure inside the bubble and further disturbs the bubble boundary. The periodicity analysis of the flare-like feature's brightness and the bubble's boundary may indicate that the photospheric pressure-driven oscillations can effectively modulate the kinematics of prominence bubbles and the overlying prominence,via modulating the magnetic reconnection process that releases magnetic_energy and thereby produced the flare-like feature (Chen & Priest 2006).. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/31ff2ec039fbb144f096c75e9d30f01bfec97b2f49e41a9c01b7f6121c734de5.jpg",
+        "img_caption": [
+            "FIG.5.—Aschematicmodeldemonstratestheprominencemageticstructure.a,Edgeonviewof thepromience.bop-dowview f prominence.cmagneticfeldconfgurationbeforethemagneticreconectiobetweentheubleandtheoverlyingdips.dagetic configurationduringtheecoectioprocessInpanelsaandbthebuenrange,indigoandrddashedlineseprtthe prominencespine,theverticalfoot,thehorzontalfoot,tebubble,andthseparatorrespectivelyInpanelsandd,tecurtseet ismarkedbydashededcrossTheyelolinsinpanelcindicatethemagneticfeldlinestoberecoect,whilethoseinpaneldare thereconnectedmagneticfeldlines.Thehorizontalthickredbarinpanelsa,Canddrepresentthesolarlimb.Notethatolysome representative field lines are plotted in the figure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We thank the observations provided by the NVST, KSO,and $S D O$ and an anonymous referee for many constructive suggestions. The NVST Hα data was from a joint campaign launched by Prof.B.Schmieder. This work is supported by the Natural Science Foundation of China (11403o97)，the Yunnan Science Foundation (2015FB191),the National Basic Research Program of China (973 program，2011CB811400)，the Specialized Research Fund for State KeyLaboratories, the Open Research Program of the Key Laboratory of Solar Activity of Chinese Academy of Sciences (KLSA201401), the Key Laboratory of Modern Astronomy and Astrophysics of Nanjing University, the Youth Innovation Promotion Association (2014047) and the Western Light Youth Project of Chinese Academy of Sciences. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ahn,K.,Chae,J.,Cao,W.,&Goode,P.,2010,ApJ,721,74   \nAmari,T.,Luciani,J.F.,Aly,J.J.,Mikic,Z.,&Linker,J.,2003, ApJ,595,1231   \nAulanier,G.,& Démoulin,P.,1998,A&A,329,1125   \nAulanier,G.,& Démoulin,P.,van Driel-Gesztelyi,L.,Mein,P.,& DeForest,C.,1998,A&A,335,309   \nAulanier,G.,DeVore,C.R.,& Antiochos,S.K.,2002,ApJ,567, L97   \nBerger,T.E., Shine,R.A., Slater,G.L.,et al.,2008,ApJ,676, L89   \nBerger,T.E.,Slater,G.,Hurlburt,N.,et al.,2010,ApJ,716,1288   \nBerger,T.E.,Testa,P.,Hillier,A.,et al.,2011,Nature,472,197   \nCasini,R.,López Ariste,A., Tomczyk,S.,& Lites,B.W.,2003, ApJ,598,L67   \nChae,J.,Ahn,K.,Lim,E.-K.,Choe,G.S.,& Sakurai,T.,2008, ApJ,689,L73   \nChae,J.,Moon,Y.J.,& Park,Y.D.,2005,ApJ,626,574   \nChen,P.F.,Harra,L.K.,& Fang,C.,2014,ApJ,784,50   \nChen,P.F.,& Priest,E.R.,2006, Sol.Phys.,238,313   \nCheng,X., Zhang, J., Saar, S.H.,& Ding,M.D., 2012,ApJ,761, 62   \nde Toma,G.,Casini,R.,Burkepile,J. T.,& Low,B.C., 2008, ApJ,687,L123   \nDudik,J.,Aulanier,G.,Schmieder,B., Zapior,M.,& Heinzel,P., 2012,ApJ,761,9   \nGunár,S.,Schwartz,P.,Dudik,J.,et al.,2014,A&A,567,A123   \nHeinzel,P.,Schmieder,B.,Farnik,F.,Schwartz,P.,Labrosse,N., et al.,2008,ApJ,686,1383   \nHillier,A.,Berger,T.,Isobe,H.,& Shibata,K.,2012,ApJ,746, 120   \nHillier,A., Isobe,H.,Shibata,K.,& Berger,T.,2011,ApJ,736, L1   \nKeppens,R.,Xia,C.,& Porth,O.,2015,ApJ,806,L13   \nKippenhahn,R.,& Schluterm,A.1957,Z.Astrophys.,43,36   \nKuperus,M.,& Raadu,M.A.,1974,A&A,31,189   \nLacrosse,N.,Heinzel,P.,Vial,J.-C.,et al.,2O1o,Sol.Phys.,151, 243   \nLemen,J.R.,Title,A.M.,Akin,D.J.,et al.,2012,Sol.Phys., 275,17   \nLi,L.P.,& Zhang,J.,2013,Sol.Phys.,282,147   \nLin,Y.,Engvold,O.,Rouppe van der Voort,L.,Wiik,J.E.,& Berger,T.E.,2005,Sol.Phys.,226,239   \nLin,Y.,Engvold,O.,& Wiik,J.E.,2003,Sol.Phys.,216,109   \nLiu,Y.,& Kurokawa,H.,2004,PASJ,56,497   \nLiu,Y.D.,Luhmann,J.G.,Kajdic,P.,et al.,2014,NatCo,5, 3481   \nLiu,Z.,Xu,J.,Gu,B.Z.,et al.,2014,RAA,14,705   \nLow,B.C.,& Petrie,G.J.D.,2005,ApJ,626,551   \nMackay,D.H.,Karpen,J.T.,Ballester,J.L.,Schmieder,B.,& Aulanier,G., 2010,Space Sci.Rev.,151,333   \nMartin,S.F.,1998,Sol.Phys.,182,107   \nMartin, S.F.,& Echols,C.R.: i994,In: Rutten,R.J., Schrijver, C.J.(eds.) Solar Surface Magnetism,339   \nOkamoto,T.J.,Tsuneta, S., Berger,T.E.,et al., 2007, Science, 318,1577   \nParenti,S., Schmieder,B.,Heinzel,P.,& Golub,L.,2012,ApJ, 754,66   \nPesnell,W.D,Thompson,B.J.,& Chamberlin,P.C.,2012, Sol. Phys.,275,3   \nSchmieder,B.,Bommier,V.,Kitai,R.,et al.,2008, Sol.Phys., 247,321   \nSchmieder,B.,Chandra,R.,Berlicki,A.,& Mein,P.,201o,A&A, 514,A68   \nSchmieder,B.,Kucera,T.A.,Knizhnik,K.,et al.,2013,ApJ, 777,108   \nSchmieder,B.,Aulanier,G.,Vrsnak,B., 2015,Sol.Phys.,tmp,64   \nSchou,J., Borrero,J. M., Norton,A. A., et al.,2012, Sol. Phys., 275,229   \nShibata,K.,& Magara,T.,2011,LRSP,8,6   \nStellmacher,G.,&Wiehr,E.,1973,A&A,24,321   \nTandberg-Hanssen,E.(ed.） 1995,The Nature of Solar Prominences,Vol.199 (Dordrecht:Kluwer Academic)   \nTorrence,C.,& Compo,G.P.,1998,Bull.Meteorol.Soc.,79,61   \nWang,Y.M.,2001,ApJ,560,456   \nYan,X.L.,Xue,Z.K.,Xiang,Y.Y.,& Yang,L.H.,2015,10,1725   \nYang,S.,Zhang,J.,Liu,Z.,& Xiang,Y.,2014,ApJ,784,L36   \nZirker,J.B.,Engvold,O.,& Martin,S.F.,1998,Nature,396,440 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

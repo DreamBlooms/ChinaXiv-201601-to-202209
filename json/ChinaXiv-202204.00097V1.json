@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "近20a新疆天然草地NPP时空分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈春波²，李刚勇²，彭建²(1.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2.新疆维吾尔自治区草原总站干旱区草地生态系统遥感监测实验室,新疆 乌鲁木齐830049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于MOD17A3HGFNPP(Net primary productivity)与气温、降水量等数据,采用趋势分析与偏相关分析，在多个尺度(全疆、北疆与南疆、各地州市与11种草地类型)探讨了2000—2018年新疆天然草地NPP时空动态及其对气候变化的响应。结果表明：近20a新疆草地NPP呈波动递增，多年均值为 $0 . 1 0 3 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 }$ ，由准噶尔西部山地、伊犁河谷、天山、阿尔泰山向准噶尔盆地、塔里木盆地逐渐降低；北疆草地多年平均 $\\mathrm { N P P } ( 0 . 1 4 9 \\mathrm { ~ k g ~ C \\cdot m ^ { - 2 } } )$ 高于南疆 $( 0 . 0 5 5 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ ，北疆、南疆草地NPP均表现为增加趋势；各地、州、市草地NPP总体为增加,但年际变化分异明显；11种天然草地类型（除高寒荒漠类)NPP表现为递增趋势，但不同草地类型存在差异。2000年后，新疆气候暖湿化有利于草地植被生长，但降水年际变化增强导致草地NPP年际波动剧烈。研究结果为新疆天然草地碳收支评估提供基础数据，能够促进天然草地健康评价以及可持续利用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：非对称暖湿化；NPP；时空动态；空间对地观测；新疆天然草地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "草地是地表分布最为广泛的生态系统类型，在全球碳循环与气候变化中扮演着重要角色,具有防风固沙、维持水土、涵养水源与生物多样性保护等多种功能[2]。健康、稳定的草地生态系统具有可持续性，能够维持自我运作能力3，可以为人类的生存与发展提供持续、良好的生态服务[4-5]。净初级生产力（Net primary production,NPP)作为草地健康的关键变量，不仅表征草本植物活动的重要变量，而且是判定草地生态系统碳汇和调节生态过程的主要因子[6。草地NPP为草地植被净的碳获取,是草地总初级生产中所获得的碳与植物线粒体呼吸所释放的碳之间的平衡；草地NPP变化揭示了草地的时空演变格局，可以作为评价草地生态系统结构与功能特征的重要指标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "气候变化与不合理的开垦利用，导致新疆天然草地出现了不同程度的逆向演替[8-10]。近年来，以",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NPP为指示器国内学者做了大量工作推动了新疆草地研究，主要表现在以下3个方面：（1）草地NPP观测尺度由样地样方田间观测[9.11-12]逐步扩展到遥感空间对地观测,如MODIS数据集[13-15]、NOAA-AVHRR及其衍生的数据集(GIMMS3g-NDVI)[2.16]与国产高分遥感数据集[17];由于样方采样数据无法描述草地NPP在区域尺度的时空动态，因此遥感观测逐渐成为一种被广泛接受的研究手段；低空无人机遥感具有分辨率高、时效性强尤其擅长云下飞行，正在草地研究中逐步推广[18-20],如孙世泽等[21]采用无人机多光谱影像开展了新疆天然草地生物量估算，精度达到 $7 5 \\%$ 。（2）草地NPP研究方法多元化，包括统计学方法、遥感反演[22]与生态模拟，如CASA模型[23-26]、CENTURY模型[27]与Biome-BGC模型[28-29];张仁平等[23]采用CASA模型分析了2001—2014年新疆草地NPP空间分布对气候变化的响应，遥感模型用于反演草地NPP，但在点上的验证还较为匮乏；生态模型可模拟草地生态系统结构、功能以及碳水循环的复杂相互作用，能够预测未来时段草地的时空特征。3）新疆气候变化与人类活动对草地NPP的影响研究[223,30-32];如陈宸等8采用多源数据分析了近20a新疆荒漠草地动态变化及其对气候变化的响应，但没有阐述其余草地类型；赵鹏等利用实际NPP与潜在NPP定量分析了气候变化和人类活动对新疆草地的影响。随着研究的不断深入，草地NPP已成为气候变化背景下的研究热点，草地NPP作为生态系统碳循环的重要组成，不仅反映了草地植被的生产能力，在碳源、碳汇的转换中尤其重要，我国要在预定时期内实现碳达峰、碳中和，草地NPP有着重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以遥感和地理信息系统为基础，采用MODISNPP数据集、气候再分析数据及其相关辅助数据，探讨2000—2018年新疆天然草地NPP时空变化。为客观、精确地刻画出天然草地NPP时空特征，在全疆、北疆与南疆、各地州市及其11种草地类型中分别开展草地NPP年际变化分析。采用偏相关方法进一步分析气温、降水与天然草地NPP的相关关系，揭示近年来气候变化对天然草地NPP的影响。天然草地时空分析既是草地生态结构、功能研究的重要内容，也是草地可持续利用的基础，能够促进新疆天然草地保护及其草地资源合理使用，有利于新疆经济社会发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆维吾尔自治区（简称新疆， $3 4 ^ { \\circ } 2 2 ^ { \\prime } { \\sim } 4 9 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { N } ,$ $7 3 ^ { \\circ } 3 2 ^ { \\prime } { \\sim } 9 6 ^ { \\circ } 2 1 ^ { \\prime } \\mathrm { E } \\$ 位于我国西北部，地处亚欧大陆中心，面积为 $1 6 6 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，占全国陆地面积的1/6（图1)。新疆为典型的干旱区，属于温带大陆性气候，年平均气温 $9 { \\sim } 1 2 ~ \\mathrm { \\% }$ ,降水少，蒸发强，气候干燥，多年平均降水量 $1 5 0 \\mathrm { m m }$ 。新疆地理环境特征为“三山夹两盆”，由北向南分别为阿尔泰山、准噶尔盆地、天山、塔里木盆地与昆仑山，海拔最低为 $- 1 5 5 \\mathrm { m }$ （吐鲁番艾丁湖),最高为 $8 6 1 1 \\mathrm { ~ m ~ }$ （乔戈里峰），根据新疆地理要素及其气候特征[33]，将新疆分为北疆和南疆①②。远离海洋、高山环抱与封闭的大小盆地造就了新疆特殊的自然地理环境，导致水热空间分布差异显著[34],发育了丰富多样的天然草地。新疆天然草地面积 $5 7 2 5 . 8 8 \\times 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ,全国五大牧区之一[35],共计11个大类，25个亚类，131个草地组，687个草地型，其中大类包括：高寒荒漠类、高寒草原类、高寒草甸类、山地草甸类、温性草甸草原类、温性草原类、温性荒漠草原类、温性草原化荒漠类、温性荒漠类、低地草甸类与沼泽类[36]。新疆天然草地分布于阿尔泰山、准噶尔西部山地及盆地、天山、昆仑山、塔里木盆地与昆仑山六大地貌单元。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源与预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的源数据包括NPP、新疆天然草地分类与新疆行政区划。NPP为2000—2018年的MOD17A3HGFv006 [37]（https://lpdaac.usgs.gov/products/mod17a3hgfv006/），该数据为年尺度NPP，空间分辨率500m。新疆天然草地分类来自新疆维吾尔自治区草原总站。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气候数据来自国家青藏高原科学数据中心-中国区域地面气象要素驱动数据集（China meteorological forcing dataset,CMFD)(http://data.tpdc.ac.cn/zh-hans/data/8028b944- daaa- 4511- 8769-965612652c49/?q=China% 20meteorological% 20forcing% 20dataset）。该数据集以国际主流的Princeton、GLDAS、GEWEX-SRB与TRMM作为数据基础，融合了中国气象局常规气象观测数据制作而成，其精度介于气象局观测数据和卫星遥感数据之间，优于国际上已有的再分析数据[38-39]。本研究主要包括CMFD的气温与降水量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于MOD17A3HGF数据，开展格式转化（即\\*.hdf转\\*.tif格式）、影像镶嵌、投影转换与裁剪，生成2000—2018年新疆天然草地NPP数据。新疆维吾尔自治区标准地图为\\*.jpg格式，在ArcGIS10.2软件中完成地(州、市)级与全疆范围的数据库文件。CMFD气候数据的预处理：包括降水速率转化为年降水，将 $3 \\mathrm { { h } }$ 气温转化为年均气温",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1新疆天然草地NPP统计方法采用新疆天然草地NPP数据，分别在地(州、市)边界内、南北疆范",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f20232e751fec46eb665842ddb2925af912583046d4ef0214d10308b27b35032.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "Fig.1 Overview of the research area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：该图基于新疆维吾尔自治区自然资源厅标准地图服务网站下载的审图号为新S(2020)026号的标准地图制作，底图边界无修改。下同。图1研究区概况",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "围与全疆尺度上统计并输出逐年草地NPP平均值、最大值、最小值与标准差（空间异质性）。利用2000—2018年的NPP数据，计算新疆天然草地NPP的多年平均空间格局。以新疆天然草地分类为基础，分别裁剪2000—2018年的天然草地NPP数据，经计算后输出相应的统计数值。在以上空间数据裁剪、统计与数值输出的过程中，均采用地理空间数据抽象库(Geospatial data abstraction library,GDAL)与Python编程语言实现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2新疆天然草地NPP年际变化新疆天然草地 NPP的年际变化率表征了草地NPP的年际变化，研 究中采用线性趋势线(最小二乘法)来模拟天然草 地NPP的年际变化[2],计算公式如下： ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = \\frac { n \\times \\displaystyle \\sum _ { i = 1 } ^ { n } ( i \\times \\mathrm { N P P } _ { i } ) - ( \\displaystyle \\sum _ { i = 1 } ^ { n } i ) \\times ( \\displaystyle \\sum _ { i = 1 } ^ { n } \\mathrm { N P P } _ { i } ) } { n \\times \\displaystyle \\sum _ { i = 1 } ^ { n } i ^ { 2 } - \\left( \\displaystyle \\sum _ { i = 1 } ^ { n } i \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 为研究时段的长度，本研究中 $n { = } 1 9$ （即$2 0 1 8 - 2 0 0 0 + 1$ )；i为研究年份序号（即2000年定义为1,2001年定义为 $2 , \\cdots , 2 0 1 8$ 年为19); $\\mathrm { N P P } _ { i }$ 为研究时段 $i$ 年天然草地NPP取值; $k$ 为新疆天然草地NPP的年际变化率，当 $k { > } 0$ ，即随时间变化天然草地",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NPP表现为增加趋势，当 $k { < } 0$ ,即天然草地NPP为减 少的趋势。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3新疆天然草地NPP与气温、降水量的相关性为定量天然草地NPP与气候因子的相关性，研究中主要考虑气温、降水量对天然草地NPP的影响，在像元尺度上计算NPP与气温、降水量的偏相关系数，计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { x y } = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } [ \\big ( x _ { i } - { \\bar { x } } \\big ) \\big ( y _ { i } - { \\bar { y } } \\big ) ] } { \\displaystyle \\sqrt { \\sum _ { i = 1 } ^ { n } \\big ( x _ { i } - { \\bar { x } } \\big ) ^ { 2 } \\sum _ { i = 1 } ^ { n } \\big ( y _ { i } - { \\bar { y } } \\big ) ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $r _ { x y }$ 为参数 $x , y$ 之间的相关系数; $x _ { i }$ 为第 $i$ 年的草地NPP; $y _ { i }$ 为第 $i$ 年的气温或者降水量; $\\bar { x }$ 为研究时段草地NPP均值； $\\bar { y }$ 为研究时段气温或降水量的均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究的技术流程详细如图2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1新疆天然草地NPP时空特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 新疆天然草地NPP年际变化 2000—2018年新疆天然草地NPP均值为 $0 . 1 0 3 \\mathrm { ~ k g ~ C } \\cdot \\mathrm { m } ^ { - 2 }$ ，总体为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据获取 数据处理 数据分析格式转换 $\\textcircled{1}$ \\*.hdf转为\\*.tif;$\\textcircled{2}$ 逐年镶嵌h23v04、h23v05、影像镶嵌 h24v04、h24v05、h25v04与h25v05；  \nMOD17A3HGF 投影转换 $\\textcircled{3}$ 投影转为Albers;$\\textcircled{4}$ 新疆天然草地分类为MASK影像裁剪 (掩膜)，裁剪MOD17A3HGF数据。NPP空间统计坐标转换  \n新疆天然草地 投影变换 $\\textcircled{1}$ 投影转为WGS-1984，Albers;分类数据 $\\textcircled{2}$ 采用最邻近内插法。重采样 NPP空间运算矢量化 ①在ArcGIS10.2平台开展矢量化；$\\textcircled{2}$ 经拓扑检查后转数据库Polygon  \n新疆行政区划 Polygon文件 文件；标准地图 $\\textcircled{3}$ 新建属性字段，赋值为新疆行 NPP年际变化属性赋值转栅格数据 $\\textcircled{4}$ 以行政区划为栅格属性值，转换Polygon为栅格。格式转换 NPP与气候相$\\textcircled{1}$ \\*.nc转为\\*.grid; 关性分析投影转换 $\\textcircled{2}$ 投影转为WGS-1984，Albers;气候数据 $\\textcircled{3}$ 新疆行政区划为掩膜,裁剪气温、影像裁剪 降水量数据；质量检查 $\\textcircled{4}$ 数据异常值检查。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "增加趋势(图 $\\mathrm { 3 a } , \\mathrm { 3 d } \\mathrm { \\ i }$ ）。2000年NPP为 $0 . 0 9 1 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 }$ 2018年为 $0 . 1 0 8 \\mathrm { ~ k g ~ C } \\cdot \\mathrm { m } ^ { - 2 }$ ,从2000—2018年增加了$0 . 0 1 7 ~ \\mathrm { k g } ~ \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 }$ 。 $2 0 0 0 { - } 2 0 0 4$ 年年均NPP为0.098$\\operatorname { k g } \\mathbf { C } \\cdot \\mathbf { m } ^ { - 2 }$ 。同2000—2004年相比,2005—2009年、2010—2014年与2015—2018年年均NPP分别为$0 . 0 9 9 \\mathrm { k g } \\mathrm { C } \\cdot \\mathbf { m } ^ { - 2 } ( + 1 . 0 \\% ) \\mathrm { , 0 . 1 1 0 \\ k g \\ C \\cdot m ^ { - 2 } ( + 1 2 . 2 \\% ) }$ 与$0 . 1 1 1 \\mathrm { k g } \\mathrm { C } { \\cdot } \\mathrm { m } ^ { - 2 } \\big ( + 1 3 . 3 \\% \\big )$ 。研究时段内，NPP具有年际波动，2007年后呈扩大趋势（图 $3 \\mathrm { a } \\mathrm { \\sim } \\mathrm { b }$ ),NPP最小值为 $0 . 0 9 0 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } ( 2 0 0 8$ 年),最大值为 $0 . 1 2 2 \\mathrm { k g } \\mathrm { C } { \\cdot } \\mathrm { m } ^ { - 2 }$ (2016年）。在 $2 0 0 0 { - } 2 0 0 4$ 年NPP变化为 $0 . 0 1 3 { \\mathrm { ~ k g } }$ $\\mathbf { C } \\cdot \\mathbf { m } ^ { - 2 }$ ,2005—2009年、2010—2014年与 2015—2018年变化分别为 $0 . 0 1 4 \\mathrm { k g } \\mathbb { C } \\cdot \\mathrm { m } ^ { - 2 } \\left( + 7 . 7 \\% \\right) \\phantom { 0 . 0 2 1 \\mathrm { k g } \\mathbb { C } \\cdot \\mathrm { m } ^ { - 2 } }$ $+ 6 1 . 5 \\% ) \\ 、 0 . 0 2 2 \\mathrm { k g } \\mathrm { C } \\bullet \\mathrm { m } ^ { - 2 } \\left( + 6 9 . 2 \\% \\right)$ O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将NPP分别与前一年比较(同比），显示NPP年际波动增强（图3c）。2000—2003年NPP增量0.013$\\mathrm { k g } \\mathrm { C } { \\cdot } \\mathrm { m } ^ { - 2 } ( 1 4 . 3 \\% ) ; 2 0 0 4 { - 2 0 0 9 }$ 年NPP正负增长交替发生，2008、2009年NPP增量首次出现最低值（204号 $( - 0 . 0 1 4 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ 与最高值 $( 0 . 0 1 2 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ ；研究时段内，NPP增量的最低值与最高值分别为0.022$\\mathrm { k g \\ C \\cdot m ^ { - 2 } } ( 2 0 1 4$ 年)与 $0 . 0 2 2 \\mathrm { ~ k g ~ C } \\cdot \\mathrm { m } ^ { - 2 } ( 2 0 1 6$ 年)。将NPP分别与2000年相比，显示NPP总体为增加；然而，最近3a（2016—2018年），NPP表现为递减（图3d)。2008年的天然草地NPP增量最小 $- 0 . 0 0 1 ~ \\mathrm { k g }$ $\\mathrm { C } { \\cdot } \\mathrm { m } ^ { - 2 } \\left( - 1 . 1 \\% \\right) , 2 0 1 6$ 年增量为最大 $0 . 0 3 1 \\mathrm { ~ k g ~ C } \\cdot \\mathrm { m } ^ { - 2 }$ $( + 3 4 . 1 \\% )$ ）。同2016年比较，2018年天然草地NPP减少了 $0 . 0 1 4 \\mathrm { k g } \\mathrm { C } { \\cdot } \\mathrm { m } ^ { - 2 } ( + 1 1 . 5 \\% )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2新疆天然草地NPP空间分布格局在2000—2018年，新疆天然草地NPP(多年均值)具有空间分布差异(图4)，并且NPP年际变化具有空间分异(图5)。NPP由伊犁河谷、天山、阿尔泰山与昆仑山脉及其塔城地区向准噶尔盆地、塔里木盆地逐渐降低。NPP高值 $( > 0 . 5 0 \\ \\mathrm { k g } \\ \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ 区域分布在伊犁河谷、天山与阿尔泰山，低值 $< 0 . 0 5 \\mathrm { ~ k g ~ C ~ } \\cdot \\mathrm { m } ^ { - 2 } )$ 区域在准噶尔盆地腹地与塔里木盆地边缘(图4）。NPP( $> 0 . 2 \\mathrm { ~ k g ~ C ~ } \\cdot \\mathrm { m } ^ { - 2 } )$ 仅占全疆天然草地总面积的$1 9 . 5 \\%$ ，比重较小，但位置相对集中（伊犁河谷、阿尔泰山与天山山脉)(图4)。 $\\mathrm { N P P } ( < 0 . 0 5 \\ \\mathrm { k g } \\ \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ 占全疆天然草地总面积的 $4 5 . 6 \\%$ ，分布在准噶尔盆地腹地与东天山北坡以及塔里木盆地边缘(图4)。$8 0 . 5 \\%$ 的区域草地NPP小于 $0 . 2 \\mathrm { \\ k g \\ C } \\cdot \\mathrm { m } ^ { - 2 }$ ，尤其$6 3 . 1 \\%$ 的区域小于 $0 . 1 \\ \\mathrm { k g } \\ \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 }$ 。然而，天然草地$\\mathrm { N P P } ( > 0 . 4 0 \\ \\mathrm { k g } \\ \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ 仅占全疆天然草地总面积的$4 . 4 \\%$ ,特别是天然草地 $\\mathrm { N P P ( > 0 . 5 0 \\ k g \\ C { \\cdot } m ^ { - 2 } ) }$ 的面积占比仅为 $1 . 4 \\%$ ,集中分布在伊犁河谷。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2新疆南、北疆与各地、州、市天然草地NPP变化 趋势 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 新疆北疆、南疆天然草地NPP变化 2000—  \n2018年，北疆与南疆天然草地NPP均为波动增加趋",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/35cd8bbcc70b128318ffcf2330474e4e70d2079d2796e906c98d189868ed77cb.jpg",
+        "img_caption": [
+            "干辛区地理"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/136a976fe8e7135a6dfc2e3fc1d06430cb8c84a9c3e330450b877f3441e65d7c.jpg",
+        "img_caption": [
+            "Fig.3Interannual changes of natural grassland NPP in Xinjiang from 2OoO to 2018 ",
+            "图42000—2018年新疆天然草地NPP均值空间分布特征 Fig.4 Spatial characteristics of mean average natural grassland NPP in Xinjiang from 200O to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/15f196663199296d73b28063e7b45df1f4833cafe999b4905ced9d41a142b193.jpg",
+        "img_caption": [
+            "图32000—2018年新疆天然草地NPP时间变化",
+            "图52000—2018年新疆天然草地NPP年际变化空间格局 Fig.5Spatial pattern of interannual changes of natural grassland NPP in Xinjiang from 200O to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "势,北疆草地NPP多年均值 $( 0 . 1 4 9 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ 高于南疆草地 $( 0 . 0 5 5 \\mathrm { k g } \\mathrm { C } { \\cdot } \\mathrm { m } ^ { - 2 } )$ (图6)。2006年后北疆草地NPP年际变化扩大，2013—2016年草地NPP发生剧烈振荡，变化幅度为 $0 . 0 3 6 \\ \\mathrm { k g } \\ \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 }$ (2013—2014年） $0 . 0 3 9 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } ( 2 0 1 5 - 2 0 1 6$ 年）。北疆NPP最低值与最高值分别为 $0 . 1 2 6 \\ \\mathrm { k g } \\ \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } \\left( 2 0 0 8 \\right.$ 年）$0 . 1 8 2 \\ \\mathrm { k g \\ C \\cdot m ^ { - 2 } } ( 2 0 1 6$ 年）,而南疆为 $0 . 0 4 8 \\mathrm { ~ k g ~ C ~ } { \\cdot } \\mathrm { m } ^ { - 2 }$ (2001年） $0 . 0 6 2 \\mathrm { ~ k g ~ C ~ } \\cdot \\mathrm { m } ^ { - 2 } ( 2 0 1 7$ 年),北疆与南疆草地NPP最低值发生的时间不同。整个研究时段内，北疆草地NPP(多年平均)是南疆的2.7倍。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 新疆各地、州、市天然草地NPP变化 2000—2018年全疆各地(区）(自治)州、市(简称\"地州\")草地NPP总体为波动递增，但NPP年际变化分异明显（图7)。北疆各地州草地NPP高于南疆各地州，而且北疆各地州（除克拉玛依市外)NPP均高于$0 . 0 5 \\mathrm { ~ k g ~ C ~ } { \\cdot } \\mathrm { m } ^ { - 2 }$ ;南疆各地州草地NPP普遍低于0.10$\\operatorname { k g } \\mathbf { C } \\cdot \\mathbf { m } ^ { - 2 }$ ,尤其和田地区NPP最低 $( 0 . 0 3 7 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(图7)。伊犁州直属县(市)草地NPP(多年平均)高于 $0 . 3 0 \\mathrm { ~ k g ~ C ~ } { \\cdot } \\mathrm { m } ^ { - 2 }$ ,尽管NPP为增加趋势，但自2006年开始有2次(2006—2009年与2013—2016年）较大的脉动。北疆伊犁直属县(市)草地NPP(多年平均)最高 $( 0 . 3 6 5 \\mathrm { ~ k g ~ C ~ } { \\cdot } \\mathrm { m } ^ { - 2 } )$ ,其次为博尔塔拉蒙古自治州 $( 0 . 1 6 6 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ 、乌鲁木齐市 $( 0 . 1 3 9 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ （204号与塔城地区 $( 0 . 1 2 9 \\mathrm { ~ k g ~ C ~ } \\cdot \\mathrm { m } ^ { - 2 } )$ 。南疆各地州草地NPP位于 $0 . 0 3 { \\sim } 0 . 0 9 \\mathrm { k g } \\mathrm { C } { \\cdot } \\mathrm { m } ^ { - 2 }$ 间,吐鲁番市NPP高于南疆其他各地州，和田地区与哈密市的草地NPP偏低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3新疆天然草地类型NPP年际变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究分别对草地类型像元数值逐年计算平均值，得到草地NPP平均值的年际变化趋势（图8)。2000—2018年11种草地NPP表现为波动增加，但年际变化依然为增强的态势。整个研究时段，温性草甸草原类的变化幅度为 $0 . 0 9 0 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 }$ （图8f），其次为山地草甸类 $( 0 . 0 8 2 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ （图8e)与温性",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a656e001de7fc07d32a69a61cf3bc9c94a70a7eb0a61c12b3a908afe9549bd0.jpg",
+        "img_caption": [
+            "图6新疆北疆、南疆天然草地NPP变化趋势 ",
+            "Fig.6Change trends of natural grassland NPP in northern and southern Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "OONPP 均值 ----趋势  \n/dd 0.1 (a)阿勒泰地区 。 0 / 0.20 (b)塔城地区00 o ag 。-Q00- 00-= 00oo。2000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \n/dd 808 (c)克拉玛依市 B/ 0.22 (d)博尔塔拉蒙古自治州8 00 0o e00.0 o00.012000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \nBd 408 (002 0 B/d 104 昌回族32092 。0.34 0000-6 。 0-0 。 0 00. 0.10 0.08 Looaa 。 08 0 0 Q0.30 0 L2000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \n2/d 0.20 (g)乌鲁木齐市 (h)哈密市1800 0 。0--00000-6 _Q:。0.10 0 L 0.030 。 上2000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \n三 B/dd 00800 。oo -00 --O.00。 =-0--000 p O- 0.060.055 o 00 0 。 。 0.05 。2000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \nd 8 (）克苏区120613 0 o0 皖 克孜5苏x－1.克孜自治州 0 ooo --.0.05 0 --Q-Q 000 Eoo o0.050 00o L 0.045 T 0 J2000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \nd 00000 0。 0 oog00 0000.050 ① 00 1 0.030 booo 。 0 □2000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \n0.08 0.19 (a)低地草甸类 y=0.000898x-1.747049 2Bdd 0.2 0.23 (b)高寒草甸类 y=0.000944x-1.688372 oo  \n0.05 0.07 0.06 ooa- O QQ 0 0 00000 。 9.0o 0.22 0.21 0.9 LO d 。 o 00-0- 。° 000 0 o -02000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份0.015  \n1 ()高草原0.669007 o。 u. 0.010 (d)高0-0.40189Q O 。 0 0 0 0-=Q0 。 。 O 0.000 0000000-0-000000000-0-o0 -0.005  \n0.0402000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \n0.46 (e)山地草甸类 0.40 (f)温性草甸草原类  \n/J 44 y-0.001096x-1.817851 。 。 B/dd 8.8 y0.001314x-2.317370 。 °。  \n0.38 od 0o0g 0 。。 b 0 Θ 0.32 09 O 0 0 0 o  \n0.36 0 0 0.38 0 02000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \n0.075 0.28  \nu. 800 (g)性草原10类 0 。 u. 0.26 (b）性2.791714 。 。。  \nJP 8045 -Qb 0 -0-0-Q6 'o-o' .0-0 JH 0.22 oo oQ 0 o O  \n88 0 0.20 o 0。 L2000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \n0.14 (i)温性荒漠草原类 0.07 (i)温性荒漠类  \nh 8 y-0.001174x-2.255405 0 °。 ddu 0.06 y=0.000784x-1.533953 。 0O O_Q-Q  \n0.10 0.09 0 o O 。 0 0 。 0 O 0.04 0.03 0000 0 o-0 0 o 0oL2000 2005 2010 2015 2020 2000 2005 2010 2015 2020年份 年份  \nz 0.28 (0018x32765091 o。  \n0.24 0.22 Q- 0 0o 0 0 -Q-=-00- 。 0 ○ONPP --均值 ----趋势  \n0.20 o2000 2005 2010 2015 2020年份",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "草原类 $( 0 . 0 7 9 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ （图8h),明显高于其他草地类型。高寒荒漠类基本保持不变，仅在2014年与2018年出现轻微的脉动值(图8d)。草地NPP峰值发生在2016年，之后则表现为递减的趋势。在11种草地类型种，多年均NPP最大为山地草甸类中 $\\left( 0 . 3 8 5 \\mathrm { ~ k g ~ C ~ } \\cdot \\mathrm { m } ^ { - 2 } \\right)$ （图8e），其次为温性草甸草原类$( 0 . 3 2 2 \\mathrm { ~ k g ~ C } \\cdot \\mathrm { m } ^ { - 2 } )$ （图8f)与沼泽类 $( 0 . 2 2 3 \\mathrm { ~ k g ~ C } \\cdot \\mathrm { m } ^ { - 2 } )$ （图 $8 \\mathrm { k }$ );高寒荒漠类最低为 $0 . 0 0 2 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 }$ （图8d），其次为温性荒漠类 $( 0 . 0 4 1 \\mathrm { ~ k g ~ C } \\cdot \\mathrm { m } ^ { - 2 } )$ (图8j)与温性草原化荒漠类 $( 0 . 0 4 2 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ （图 $8 \\mathrm { g }$ ）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e98c6b7402d7777a816f76f35961ff26e2a0c03a04c6f725a306c5cf53a366d5.jpg",
+        "img_caption": [
+            "图92000—2018年新疆天然草地NPP与气温、降水量的相关性",
+            "Fig.9 Correlations between natural grassland NPP and temperature,precipitation in Xinjiang from 2ooO to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4新疆天然草地NPP对气温、降水量的响应",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "新疆天然草地NPP与气温、降水量相关性的空间分布(图9)，在2000—2018年草地植被NPP对气温、降水量的响应具有空间差异。研究时段内，草地植被NPP与气温正、负相关性并存（图 $9 \\mathrm { a }$ )，草地NPP与气温相关系数均值为0.018,最高值为0.908,最低值为-0.906;据统计结果表明，正相关占$2 0 . 4 1 \\%$ （面积),其中高度正相关仅占 $0 . 0 2 \\%$ ,中度正相关占 $4 . 1 5 \\%$ ;正相关主要分布在天山北坡的昌吉州与乌鲁木齐市，南疆主要以负相关为主。草地植被NPP对降水量的响应整体为正相关性(图9b），正相关占 $4 1 . 7 4 \\%$ ，高度正相关与中度正相关分别占$0 . 1 7 \\%$ ） $1 2 . 6 2 \\%$ ，主要分布于伊犁河谷、天山北坡(昌吉州与乌鲁木齐市)与准噶尔西部山地，草地类型分别为低地草甸类、温性荒漠类与温性荒漠草原类；草地NPP与降水量的相关系数均值为0.234，最高值为0.957;南疆草地NPP与降水量的相关性主要表现中度相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2000一2018年在气候变化与人类活动的双重影响下，新疆天然草地NPP具有时空分异特征。近$2 0 \\mathrm { a }$ 草地NPP总体为增加趋势，但NPP具有年际波动，尤其2007年后表现为增强趋势，这与降水的年际变化加剧相关[40]；草地NPP多年平均值为0.103$\\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } ( 2 0 0 0 - 2 0 1 8$ 年）,最低值为 $0 . 0 9 0 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 }$ (2008年），最高值 $0 . 1 2 2 \\mathrm { ~ k g ~ C } \\cdot \\mathrm { m } ^ { - 2 } ( 2 0 1 6$ 年)，变化幅度为 $0 . 0 3 2 \\mathrm { ~ k g ~ C } \\cdot \\mathrm { m } ^ { - 2 }$ 。草地NPP(多年均值)具有空间差异，由伊犁河谷、天山、阿尔泰山、昆仑山脉及其准噶尔西部山地向准噶尔盆地、塔里木盆地逐渐降低。草地NPP的空间特征与全疆降水的空间格局具有正相关性，这与张仁平等[23]基于MODIS ND-VI等数据集采用CASA模型模拟的草地NPP格局一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "新疆天然草地NPP时空演变格局与水热变化关系密切[4I],远离海洋、高山环抱与封闭的盆地地形造就了新疆特殊的自然地理环境，直接影响了地表水热资源分布与变化[34]。研究时段内，新疆北疆、南疆天然草地NPP均表现为波动增加，尽管北疆草地NPP多年均值 $( 0 . 1 4 9 \\mathrm { ~ k g ~ C } \\cdot \\mathrm { m } ^ { - 2 } )$ 与递增的趋势高于南疆 $( 0 . 0 5 5 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ ,但北疆的年际波动高于南疆，这是因为在生长季北疆的极端降水量年际间变化大[40]。姚俊强等[42]分析了1961—2018年新疆89个台站的气象数据，结果显示虽然全疆降水量呈现增加趋势，但是显著增加的区域仅分布在伊犁河谷、准噶尔西部山地、天山北坡与塔里木盆地南缘，北疆极端降水发生频率高于南疆。准噶尔西部山地、伊犁河谷与天山北坡受北大西洋暖湿气流的影响，加之地形因素，气温随山体升高而递减，在山地迎风坡降水量较多，主要在山地最大降水线以下随地势升高而递增(“雨影效应”)[43]。北疆的升温速率高于南疆,北疆最低气温升幅明显，气温上升带来草地生长季延长[32]。西伯利亚气团与蒙古高原气团水分含量少，加剧了南疆尤其是塔里木盆地的干旱程度[44-45],南疆最高气温增加显著，导致蒸散需求旺盛，当降水量的增加不足以抵消蒸散增加的需求量，区域陆面便趋于干旱逐渐反馈至大气导致暖干化[42.4-45]。草地植被NPP与气温正、负相关性并存，草地植被NPP对降水量的响应整体为正相关性。草地NPP与气温、降水量相关系数均值分别为0.018( $P { = } 0 . 6 )$ 、0.234( $P { = } 0 . 0 7 6 )$ ；统计显示，草地NPP与气温、降水量的正相关面积分别占 $2 0 . 4 1 \\%$ 、$4 1 . 7 4 \\%$ 。草地NPP与气温正相关的区域，主要分布在天山北坡(昌吉州与乌鲁木齐市)，南疆以负相关为主。草地NPP与降水量正相关的区域，主要分布于伊犁河谷、天山北坡(昌吉州与乌鲁木齐市)与准噶尔西部山地，草地类型分别为低地草甸类、温性荒漠类与温性荒漠草原类。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在全球变化背景下，2000年后新疆气候为“非对称暖湿化”（Asymmetric warming-weting）,即全区总体上表现为暖湿化趋势,但局域为暖干化[40.46-47],气温、降水量增加促进草地生长，本研究结果显示2000—2018年新疆天然草地NPP为递增的趋势。新疆\"暖湿化\"具有高位、低位震荡[42],引起草地NPP的年际波动。研究时段内，草地NPP与气温、降水量正、负相关性并存；草地NPP对降水量的响应呈现为正相关，负相关仅占总面积 $6 \\%$ ，以低度负相关为主。气候暖湿化在草地生长季最明显，尤其是夏季极端降水的增加[40.42],降水仍然是新疆草地生长的重要因素[26];研究结果显示，近20a新疆天然草地NPP表现为增加趋势的占 $4 9 . 7 8 \\%$ ,主要分布在阿尔泰山、准噶尔西部山地、天山北坡与天山山脉。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2000年后，国家开展“退牧还草”工程，全面实行草原生态保护补助奖励机制，草地退化趋势减弱，草地生态状况具有改善趋势，扭转了以往草地持续恶化的状况[48-49]。这与本研究采用遥感观测的结果一致，2000年后新疆天然草地NPP总体为波动式增加。过度放牧是导致草地退化的重要因素[48.50],自治区实行禁牧、休牧、划区轮牧与草地补播等措施,减轻了人类扰动对草地的影响[51-52],在一定程度上遏制了草地退化，促进了草地资源利用的可持续性。多项研究表明：新疆“草原生态保护补助奖励机制\"实施后，天然草地植被长势总体上有所提高，草地NPP和覆盖度增加，提高了草地质量和可采食的天然牧草量，促进了草地资源的可持续利用[53-55]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究利用2000—2018年MODIS数据集（MOD17A3HGF)和相关辅助数据(新疆维吾尔自治区标准地图、新疆天然草地分类数据与气温、降水量数据集），以NPP作为草地生态状况的重要指标，从不同空间尺度(全疆、南北疆、各地州市与新疆天然草地类型）、年际变化及其草地NPP对气候因子（气温、降水量)的响应开展分析，结果表明：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）2000—2018年，新疆天然草地NPP表现为波动递增的趋势;草地多年均NPP由伊犁河谷、天山、阿尔泰山与昆仑山脉及其塔城地区向准噶尔盆地、塔里木盆地逐渐降低。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)北疆草地年均NPP高于南疆，北疆与南疆草地NPP均表现为增加趋势，北疆草地NPP递增的趋势高于南疆；各地州草地NPP总体为增加，但年际变化分异明显；11种天然草地类型为波动递增，但是高寒荒漠类几乎没有变化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）草地植被NPP与气温正、负相关性并存；草地植被NPP对降水量的响应整体为正相关性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]张利,周广胜,汲玉河,等.中国草地碳储量时空动态模拟研究 [J].中国科学:地球科学,2016,46(10):1392-1405.[Zhang Li, Zhou Guangsheng,Ji Yuhe,et al. Spatiotemporal dynamic simulation of grassland carbon storage in China[J]. Scientia Sinica (Terrae),2016,46(10): 1392-1405.]   \n[2]赵鹏,陈桃,王茜,等.气候变化和人类活动对新疆草地生态系 统NPP影响的定量分析[J].中国科学院大学学报,2020,37(1): 51-62.[Zhao Peng,Chen Tao,Wang Qian,et al. Quantitative analysis of the impact of climate change and human activities on grassland ecosystem NPP in Xinjiang[J]. Journal of University of Chinese Academy of Sciences,2020,37(1): 51-62.]   \n[3] Costanza R,Michael M.What is a healthy ecosystem?[J].Aquatic Ecology,1999,33(1): 105-115.   \n[4] Wu JG. Urban ecology and sustainability:The state-of-the- science and future directions[J].Landscape and Urban Planning, 2014,125:209-221.   \n[5] 郭建国,郭晓川,杨械,等.什么是可持续性科学?[J].应用生态 学报,2014,25(1):1-11.[Wu Jianguo,Guo Xiaochuan,Yang Yu, et al.What is sustainability science?[J]. Chinese Journal of Applied Ecology,2014,25(1): 1-11.]   \n[6]陈卓奇,邵全琴,刘纪远,等.基于MODIS 的青藏高原植被净初 级生产力研究[J].中国科学:地球科学，2012,42(3):402-410. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[Chen Zhuoqi, Shao Quanqin,Liu Jiyuan, et al.Analysis of net primary productivity of terrestrial vegetation on the Qinghai-Tibetan Plateau, based on MODIS remote sensing data[J]. Scientia Sinica (Terrae),2012,42(3): 402-410.] [7]李博,赵斌,彭容豪.陆地生态系统生态学原理[M].北京:高等 教育出版社,20O05.[Li Bo, Zhao Bin,Peng Ronghao.Principles of terrestrial ecosystem ecology[M]. Beijing: Higher Education Press,   \n2005.] [8]陈宸,井长青,邢文渊,等.近20年新疆荒漠草地动态变化及其 对气候变化的响应[J].草业学报,2021,30(3):1-14.[Chen Chen, Jing Changqing, Xing Wenyuan, et al. Desert grassland dynamics in thelast 2O years anditsresponse to climate changein Xinjiang [J]. Acta Prataculturae Sinica, 2021,30(3): 1-14.] [9]杨峰,钱育蓉,李建龙,等.天山北坡典型荒漠草地退化特征及 其成因[J].自然资源学报,2011,26(8):1306-1314.[Yang Feng, Qian Yurong,Li Jianlong,et al. Degradation characteristics and causes of desert grassland in the northern Tianshan Mountains[J]. Journal of Natural Resources,2011,26(8): 1306-1314.] [10] 徐文轩,连仲民,徐婷,等.新疆准噶尔盆地荒漠草地水源圈植 物群落退化格局[J].生态学杂志,2016,35(1):104-110.[Xu Wenxuan, Lian Zhongmin,Xu Ting,et al. Degradation pattern of desert steppe plant community around a piosphere in Junggar Basin of Xinjiang[J]. Chinese Journal of Ecology,2016,35(1): 104-110.] [11]陈佼,张丽.天山北坡草地盖度高光谱遥感估算[J].草业科学,   \n2017,34(1): 30-39.[Chen Jiao, Zhang Li. Estimating grassland coverage based on hyperspectral remote sensing in the northern Tianshan Mountains[J]. Pratacultural Science,2017,34(1): 30-39.] [12] 周李磊,朱华忠,钟华平,等.新疆伊犁地区草地土壤容重空间 格局分析[J].草业学报,2016,25(1):64-75.[Zhou Lilei, Zhu Huazhong, Zhong Huaping,et al. Spatial analysis of soil bulk density in Yili, Xinjiang Uygur Autonomous Region[J].Acta Prataculturae Sinica,2016,25(1): 64-75.] [13]闫俊杰,刘海军,赵玉,等.2000—2015年新疆伊犁河谷草地 NPP 时空变化特征[J].水土保持研究,2018,25(5):390-396. [Yan Junjie,Liu Haijun, Zhao Yu,et al. Spatiotemporal dynamics of grassland net primary productivity in Ili River Valley from 2000 to 2015[J]. Research of Soil and Water Conservation,2O18,25(5):   \n390-396.] [14] 任璇,郑江华,穆晨,等.新疆近15年草地NPP动态变化与气象 因子的相关性研究[J].生态科学,2017,36(129):43-51.[Ren Xuan,Zheng Jianghua, Mu Chen,et al. Correlation analysis of the spatial-temporal variation of grassland net primary productivity and climate factors in Xinjiang in the past15 years[J].Ecological Science,2017,36(129): 43-51.] [15]闫俊杰,刘海军,崔东,等.近15年新疆伊犁河谷草地退化时空 变化特征[J].草业科学,2018,35(296):508-520.[Yan Junjie, Liu Haijun, Cui Dong,et al. Spatiotemporal dynamics of grassland degradation inYiliValleyof Xinjiang overthelast15years[J]. Pratacultural Science,2018,35(296): 508-520.] [16]Duan H, Zhao H, Jiang Y,et al. Analysis of seasonal grassland change and its drivers during 1982—2006 in Xinjiang[J]. Rangeland Ecology&Management,2017,70(4):422-429.   \n[17] Zhang W, Yang X, Manlike A,et al. Comparative study of remote sensing estimation methods for grassland fractional vegetation coverage: A grassland case study performed in Ii Prefecture, Xinjiang, China[J]. International Journal of Remote Sensing,2019,40 (5): 2243-2258.   \n[18] 蔡宗磊,苗正红,常雪,等.基于无人机大样方数据及国产卫星 反演草地植被覆盖度方法研究[J.草地学报,2019,27(5): 1431-1440.[Cai Zonglei, Miao Zhenghong,Chang Xue,et al.Research on grassand fractional vegetation coverage inversion method basedon drone large quadrat data and domestic satelite[J]. Acta Agrestia Sinica,2019,27(5): 1431-1440.]   \n[19] 郭阳,贾志斌,张琪,等.基于遥感数据的内蒙古呼伦贝尔草原 草畜平衡时空动态研究[J].中国草地学报,2021,43(4):30-37. [Guo Yang,Jia Zhibin, Zhang Qi,et al. Study on the spatiotemporal dynamics of forage-livestock balance in Hulunbuir grassland of Inner Mongolia based on remote sensing data[J]. Chinese Journal of Grassland,2021,43(4): 30-37.]   \n[20]Shi Y, Gao J,Li X,et al.Improved estimation of aboveground biomass of disturbed grassland through including bare ground and grazing intensity[J].Remote Sensing,2021,13,2105,doi:10.3390/ rs13112105.   \n[21]孙世泽,汪传建,尹小君,等.无人机多光谱影像的天然草地生 物量估算[J].遥感学报,2018,22(5):848-856.[Sun Shize,Wang Chuanjian, Yin Xiaojun,et al.Estimating aboveground biomass ofnatural grassland based on multispectral images of unmanned aerial vehicles[J]. Journal of Remote Sensing,2018,22(5): 848-856.]   \n[22] 荀其蕾,董乙强,安沙舟,等.基于MOD 09GA数据的新疆草地 生长状况遥感监测研究[J].草业学报,2018,27(4):10-26. [Xun Qilei,Dong Yiqiang,An Shazhou,et al.Monitoring of grassland herbage accumulation by remote sensing using MOD 09GA data in Xinjiang[J]. Acta Prataculturae Sinica,2018,27(4): 10-26.]   \n[23] 张仁平,郭靖,张云玲.新疆草地净初级生产力(NPP)空间分布 格局及其对气候变化的响应[J].生态学报,2020,40(15):5318- 5326.[Zhang Renping, Guo Jing, Zang Yunling. Spatial distribution pattern of NPPof Xinjiang grassland and its response to climatic changes[J].Acta Ecologica Sinica,2020,40(15): 5318-5326.]   \n[24] 杜梦洁,郑江华,任璇,等.地形对新疆昌吉州草地净初级生产 力分布格局的影响[J].生态学报,2018,38(13):4789-4799.[Du Mengjie,Zheng Jianghua,Ren Xuan,etal. Effects of topography on the distribution pattern of net primary productivity of grassand in Changji Prefecture, Xinjiang[J].Acta Ecologica Sinica,2018,38 (13): 4789-4799.]   \n[25] 任璇,郑江华,穆晨,等.不同气象插值方法在新疆草地NPP估 算中的可靠性评价[J].草业科学,2017,34(3):439-448.[Ren Xuan,Zheng Jianghua,Mu Chen,et al. Evaluating reliability of grassland net primary productivity estimates using different meteorological interpolation methods[J].Pratacultural Science,2017,34   \n[26]Jiang Y,Guo J,PengQ,et al. The effects of climate factors and human activities on net primary productivity in Xinjiang[J]. International Journal of Biometeorology,2020,64(1): 765-77.   \n[27] 郭燕云,刘艳,李秋月,等.CENTURY模型在新疆天山山区的 适用性分析[J].草地学报,2020,28(1):252-258.[Guo Yanyun, Liu Yan,Li Qiuyue,et al. Validation and adaptability evaluation of grassland ecosystem model CENTURY in the Tianshan Mountain area[J]. Acta Agrestia Sinica,2020,28(1): 252-258.]   \n[28] 黄小涛,罗格平.新疆草地蒸散与水分利用效率的时空特征[J] 植物生态学报,2017,41(5): 506-518.[Huang Xiaotao,Luo Geping. Spatio-temporal characteristics of evapotranspiration and water use efficiency in grasslands of Xinjiang[J]. Chinese Journal of Plant Ecology,2017,41(5): 506-518.]   \n[29] 韩其飞,罗格平,李超凡,等.放牧对新疆草地生态系统碳源/汇 的影响模拟研究[J].生态学报,2017,37(13):4392-4399.[Han Qifei,Luo Geping,Li Chaofan, etal.Modeling the grazing effect of grassland on the carbon source/sink in Xinjiang[J].Acta Ecologica Sinica,2017,37(13): 4392-4399.]   \n[30] 杨静雅,李新国,闫凯,等.基于NDVI的新疆和静县草地植被 覆盖动态变化及其与气温降水的关系[J].生态科学,2018,37 (6): 38-44.[Yang Jingya,Li Xinguo,Yan Kai,et al.Grassand vegetation dynamics and the relationship between the temperature and precipitation in Hejing County,Xinjiang,based on NDVI[J]. Ecological Science,2018,37(6): 38-44.]   \n[31] Zhang R,Liang T,Guo J,et al. Grassland dynamics in response to climate change and human activities in Xinjiang from 2000 to 2014[J]. Scientific Reports,2018,8(1): 1-11.   \n[32] Zhang R,Guo J, Yin G.Response of net primary productivity to grassland phenological changes in Xinjiang, China[J]. Peerj, 2021, 9(1):e10650,doi: 10.7717/peerj.10650.   \n[33] 刘嘉麒,李泽椿,秦小光.新疆地区自然环境演变、气候变化及 人类活动影响[M].北京:中国水利水电出版社,2014.[Liu Jialqi,Li Zechun,Qin Xiaoguang.The evolution of the natural environment,climate change and the impact of human activities in Xinjiang[M]. Beijing: China Water Conservancy and Hydropower Press,2014.]   \n[34] 杨利普.新疆水资源及其利用[M].乌鲁木齐:新疆人民出版社, 1981.[Yang Lipu. Xinjiang water resourcesand utilization[M]. Urumqi: Xinjiang People's Publishing House,1981.]   \n[35]许鹏.新疆草地资源及其利用[M].乌鲁木齐:新疆维吾尔自治 区畜牧厅/新疆科技卫生出版社,1993.[Xu Peng.Xinjiang grassland resources and its utilization[M]. Urumqi: Animal Husbandry Department of Xinjiang Uygur Autonomous Region/Xinjiang Science and Technology Publishing House,1993.]   \n[36] 罗麟.新疆草地资源介绍(一)[J].新疆畜牧业,1990(5):32-36. [Luo Lin. Introduction to Xinjiang grassand resources(I)[J]. Xinjiang Xumuye,1990(5): 32-36.]   \n[37]Running S,Zhao M.Mod17a3hgf Modis/terra net primary production gap-filled yearlyL4 global 5OOm sin grid v0o6[J]. Nasa EosdisLand Processes Daac.Available Online:Https://oi.Org/ 10.5067/modis/mod17a3hgf,2019,6.   \n[38] Yang K,He J, Tang W J,et al. On downward shortwave and longwave radiations over high altitude regions: Observation and modeling inthe TibetanPlateau[J].AgriculturalandForest Meteorology, 2010,150(1): 38-46.   \n[39]He J, Yang K,Tang W,etal. The first high-resolution meteorological forcing sataset for land process studies over China[J]. Scientific Data,2020,7(1): 1-11.   \n[40] Wang Q, Zhai P, Qin D. New perspectives on ‘warming-wetting' trend in Xinjiang,China[J].Advances in Climate Change Research,2020,11(3): 252-260.   \n[41] 杨淑霞,张文娟,冯琦胜,等.基于MODIS逐日地表反射率数据 的青南地区草地生长状况遥感监测研究[J].草业学报,2016, 25(8): 14-26.[Yang Shuxia, Zhang Wenjuan, Feng Qisheng, et al. Monitoring of grassland herbage accumulationby remote sensing using MODIS daily surface reflectance data in the Qingnan Region [J]. Acta Prataculturae Sinica. 2016,25(8): 14-26.]   \n[42] 姚俊强,陈静,迪丽努尔·托列吾别克,等.新疆气候水文变化趋 势及面临问题思考[J].冰川冻土,2020,42(3):1-14.[Yao Junqiang,Chen Jing,Tuoliwubieke Dilinuer,et al. Trend of climate and hydrology change in Xinjiang and itsproblems thinking[J]. Journal of Glaciology and Geocryology,2020,42(3): 1-14.]   \n[43] Sun H,Liu X.Impacts of the uplift of four mountain ranges on the arid climate and dust cycle of inland Asia[J].Palaeogeography, 2018, 505: 167-179.   \n[44] Zhang R,Liu P, Zhang K. Spatio-temporal characteristics of potential climate productivity of grassland and its responses to climate change in Xinjiang,China[J]. Journal of Desert Research,2012,32 (1): 181-187.   \n[45]An L,Hao Y,Yeh T J,et al. Annual to multidecadal climate modes linking precipitation of the northern and southern slopes of the Tianshan Mts[J]. Theoretical and Applied Climatology,2020, 140(1): 453-465.   \n[46]Li C,Wang R,Ning H,et al.Characteristics of meteorological drought pattern and risk analysis for maize production in Xinjiang, northwest China[J]. Theoretical and Applied Climatology，2018, 133(3): 1269-1278.   \n[47]Yao J, Chen Y, Zhao Y,et al. Response of vegetation NDVI to climatic extremes in the arid region of Central Asia: A case study in Xinjiang,China[J].Theoretical and Applied Climatology,2018, 131(3): 1503-1515.   \n[48] 张海燕,樊江文,邵全琴,等.2000—2010年中国退牧还草工程 区生态系统宏观结构和质量及其动态变化[J.草业学报, 2016,25(4): 1-15.[Zhang Haiyan,Fan Jiangwen, Shao Quanqin, et al. Ecosystem dynamics in the ‘Returning Rangeland to Grassland’programs,China[J]. Acta Prataculturae Sinica,2016,25(4): 1-15.]   \n[49] 张海燕,樊江文,邵全琴.2000—2010年中国退牧还草工程区 土地利用/覆被变化[J].地理科学进展,2015,34(7):840-853. [Zhang Haiyan,Fan Jiangwen,Shao Quanqin.Land use/land cover ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "change in the grassland restoration program areas in China, 2000—2010[J]. Progress in Geography,2015,34(7): 840-853.]   \n[50] 胡振通,孔德帅,魏同洋,等.草原生态补偿:减畜和补偿的对等 关系[J].自然资源学报,2015,30(11):1846-1859.[Hu Zhentong,Kong Deshuai,Wei Tongyang,et al.Grassland eco-compensation equivalent relationship between livestock reduction and compensation[J]. Journal of Natural Resources,2O15,30(11): 1846-1859.]   \n[51]Liu Y,Wang Q, Zhang Z,et al. Grassland dynamics in responses to climate variation and human activities in China from 2OOO to 2013[J]. Science of the Total Environment,2019,69O: 27-39.   \n[52]Naeem S, Zhang Y,Tian J,et al. Quantifying the impacts of snthropogenic sctivities and climate variations on vegetation productivity changes in China from 1985 to 2015[J]. Remote Sensing,2020,12 (7):1113,doi:10.3390/rs12071113. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[53]李伟.新疆实施草原生态保护补助奖励机制初期成效研究[J] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "新疆畜牧业,2015,220(10):22-27.[Li Wei. Study on the initial effectiveness of Xinjiang's implementation of grassland ecological protection subsidy and reward mechanism[J]. Xinjiang Xumuye, 2015,220(10): 22-27.]   \n[54] 姜萍,丁文广，肖静,等.新疆植被NPP及其对气候变化响应的 海拔分异[J].干旱区地理,2021,44(3):849-857.[Jiang Ping, Ding Wenguang,Xiao Jing,et al.Altitudinal difference of vegetation NPP and its response to climate change in Xinjiang[J].Arid Land Geography,2021,44(3): 849-857.]   \n[55] 谢大伟,张诺,苏颖,等.深度贫困地区易地扶贫搬迁产业发展 模式及制约因素分析——以新疆南疆三地州为例[J].干旱区 地理,2020,43(5):1401-1408.[Xie Dawei, Zhang Nuo,Su Ying, et al.Industial development modes and restraining factors of severe poverty region after resident relocation for poverty alleviation: Cases of three prefectures in south Xinjiang[J].Arid Land Geography,2020,43(5): 1401-1408.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal analysis of net primary productivity for natural grassland in Xinjiang in the past 2O years ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHEN Chunbo1²， LI Gangyong²， PENG Jian² (1.State KeyLaboratoryofDesertandOasisEcology,XinjiangInstituteofEcologyandGeography,ChineseAcademyofSciences, Urumqi83ol1,Xinjiang,China;2.JointLaboratoryforRemoteSensingMonitoringofGrassandEcosysteminAridArea, Xinjiang Grassland Technical Promotion Station, Urumqi 83OO49,Xinjiang, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study investigates the spatiotemporal dynamics of natural grassland NPP and its response to climatic change in Xinjiang Uygur Autonomous Region, China from 2000 to 2018,based on MOD17A3HGF NPP data and related auxiliary datasets (e.g.,tmperature and precipitation).The different spatial scales (in whole Xinjiang, northernand southern Xinjiang,various prefectures,and diferent natural grassand types,respectively), inter-aual changes,trend analysis,and partial corelation analysis were adopted to characterize grasland NPP variation.The results ilustrate that grassland NPP showed an increased volatity trend from 2Oo to 2018,and the mean average of NPP is $0 . 1 0 3 \\mathrm { ~ k g ~ C ~ } { \\cdot } \\mathrm { m } ^ { - 2 }$ .In terms of spatial pattern, it decreases gradually from the western mountains of Junggar,Ili River Valley，Tianshan Mountains,and Altay Mountains to the Junggar and Tarim Basin. Although the grassland NPP of northern Xinjiang $( 0 . 1 4 9 \\mathrm { k g } \\mathrm { C } { \\cdot } \\mathrm { m } ^ { - 2 } )$ is higher than that of southern Xinjiang （20 $( 0 . 0 5 5 \\mathrm { k g } \\mathrm { C } \\cdot \\mathrm { m } ^ { - 2 } )$ , its inter-annual fluctuations are greater than that of southern Xinjiang. Grassland NPP in the entire state shows an increasing trend,but the inter-annualchangesare distinct.The NPPof1l natural grassland types (except for alpine deserts） is increasing; however,there are big differences in variable grassand types. Therefore,it is beneficial to the growth of grassland vegetation after 20O that the warming-wetting trend and mitigation of human interference in Xinjiang.However,anomalies of inter-annual precipitation result in the nterannual fluctuations of grassland NPP. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: asymmetric warming-wetting; net primary productivity； spatiotemporal dynamics； space earth observation; natural grassland in Xinjiang ",
+        "page_idx": 12
+    }
+]

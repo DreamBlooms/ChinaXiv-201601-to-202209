@@ -1,0 +1,372 @@
+# Theoretical study on the bactericidal nature of nanopatterned surfaces
+
+Fudong Xue a,b, Junjie Liu a\*, Longfang Guoä, Lirong Zhanga, Qianzhong Li a
+
+aSchoolofPhysicalScienceandTechnology,nnerMongoliaUniversityNo.235,XueWestRoad,Huhehot0,China b Institute of iophysics,ChineseAcademyofSciences,15Datun Road,Chaoyang District,Beijing00,China
+
+# HIGHLIGHTS
+
+·A mathematical model wasprimelyused to explain the mechanismof the bactericidal properties of the cicada wing surface.   
+· The maximum stretching of bacterial layer is at the top of the nanopillars/ridges in region A.   
+·Optimal antibacterial nanostructures are analyzed and discussed.
+
+# ARTICLEINFO
+
+# ABSTRACT
+
+Article history:   
+Received 28 June 2015   
+Received in revised form   
+20 August 2015   
+Accepted 20 August 2015   
+Available online 4 September 2015   
+Keywords:   
+Antibacterial   
+Nanopatterned surface materials   
+Catenary   
+Mechanics model
+
+A natural biomaterial has been discovered with bactericidal activities,which is mainly attributed to its nanopatterned surface structure.The surface of Clanger cicada (Psaltoda claripennis） wings has been identified as a natural bactericidal material,which has lead to the emergence of research on the development of novel antibacterial surfaces.From the interactions between bacterial biofilms and nanopatterned surface structures,a new mechanical model is proposed that investigates the rupture of bacterial cells within the framework of the“stretching"theory.The efect of surface nanoroughness on the survival of bacterial cels is evaluated bydetermining the stretching ability of their cell wals.The results,calculated using Gram-positive and Gram-negative bacteria as examples,show a correlation between the stretching of the cell wall and the geometric parameters of the surface structures.The theoretical results indicate that fora given cellrigidity,the bactericidal nature of the surface is determined by the geometric parameters of the surface structures.
+
+$\circledcirc$ 2015Elsevier Ltd.All rightsreserved.
+
+# 1．Introduction
+
+Some biological materials,including the surfacesof cicadaeand lotus (Nelumbo nucifera),exhibit contaminant-free natures,even though theyare innately surrounded with potential contaminants in their natural environments (Bazaka et al.,2O11;Bhushan et al., 2009;Marmur, 2004; Zhang et al., 2006; Zhao et al., 2009). Significant attention has been paid to the contamination-prevention mechanism of these naturally existing surfaces,both experimentally and theoretically,since their self-cleaning properties were discovered.These surfaces have special physical surface structures that significantly increase their hydrophobicity,even to the point of superhydrophobicity,thus,endowing them with self-cleaning qualities(Guo et al., 2011; Su et al., 2010;Watson et al., 2010; Wenzel,1936; Zheng et al., 20o5). Some research groups have tried to establish a relation between the self-cleaning and antibiofouling properties of natural surfaces with those that can prevent the attachment and accumulation of biological material (Carbone, 2004; Decuzzi and Ferrari, 2010; Wenzel, 1936; Zheng et al., 2005). As has been recently reported,superhydrophobic/self-cleaning surfacesare not necessarilyantibiofoulingin nature.Pseudomonas aeruginosa cells that could adhere relatively effectively onto the surface of the wings of the Clanger cicada (Psaltoda claripennis) were killed with extreme efficiency by the wing surface.The experimental results suggest that there are only physical interactions between bacterial cells and cicada wing surface.Thus,the bactericidal properties of the wings area result of the mechanical rupture of the bacteria,arising from physical interactions between the cells and nanoscale wing surface structure.A stretching model has been developed by Elena P. Ivanova and colleagues to provide insights on the interactions occurring between bacterial cells and cicada wing surface structures.On the basis of this model, the adsorption of the bacterial cell walls on the pattern of the cicada wing surface could cause a drastic increase in the total area, accompanied by stretching of the cell wall,which could lead to irreversible cell membrane rupture and bacterial death.On the other hand,a very detailed theoretical model has been presented for the prediction of the strength of cellular adhesion to originally inert surfaces as a function of the surface structure,accounting for both specific (ligand-receptor) and non-specific interfacial interactions (physical interactions）(Decuzzi and Ferrari,2O1O;Campoccia et al., 2013;Hasan et al., 2013a, 2013b; Ivanova et al., 2012, 2013；Nguyen et al.,2013;Pogodin et al., 2013). Results from this model suggest that only physical interactions between bacterial cells and cicada wing surface structures cannot provide sufficient energy to lead to full adhesion and irreversible cell rupture.
+
+In this study,we provide another theoretical model to explain the mechanism of the bactericidal properties of the cicada wing surface.On the basis of the interactions between bacterial cells and nanopatterned surface structures,an elastic mechanical model is proposed that investigates the rupture of bacterial cells within the framework of the stretching theory. The effect of surface nanoroughness on bacterial cells is evaluated by determining the stretching degree of the cell walls.The results for the stretching degree of Gram-positive and Gram-negative bacteria as functions of the geometric parameters of surface structures are obtained and discussed.The theoretical results indicate that given the cell rigidity,the bactericidal nature of the antibacterial surfaces is determined by the geometric parameters of the surface structures.
+
+# 2.Theoreticalmodel
+
+Two kinds of surfaces,covered either with nanopillar or nanoridge structures,were considered onto which sparsely distributed bacterial cells adhered.As the thickness of bacterial cell walls are an order of magnitude smaller than the dimensions of the nanostructures on these surfaces,the bacterial membranes can be treated as thin elastic layers,whose structural details and composition can be neglected.In other words,we focused our attention on the stretching layer of a bacterial cell interactingwith the surface nanostructures,without losing generality. The diference between the stretching layerand free layerofa bacterial cell, i.e.,the stretching degree,can be evaluated by calculating the difference between the areas of bacterial cell membranes that could either interact ornot with surfacenanostructures. Mechanical ruptures would occur on bacterial cell walls if the stretching degree of the elastic layer exceeds its threshold.
+
+# 2.1.Nanoridge-covered surfaces
+
+The side-elevation sketch map of a bacterial cell adhered onto nanoridgesis shown in Fig.1,where the shaded region represents the bacterial cell.Due to the interaction between nanoridges and gravity,deformations occur along the elastic bacterial membrane, as shown in Fig.1.Assume that the side elevation of each periodically arranged nanoridge is parabolic,height of each nanoridge is $H$ ，width at the bottom of each parabola is 2R,contact area between the bacterial membrane and nanoridge is $S _ { A } ,$ and area of the suspended membrane is $S _ { B }$ ，For simplification,each bacterial cell is treated as a cylinder with a diameter of A and density of $\rho$ 元 The length of each cylinder is greater than its diameter.
+
+Let $\alpha$ denote the stretching of the bacterial membrane due to itssurface interaction,where $k$ denotes the coefficient of stiffness that is related to the intensity of the bacterial membrane and $\theta$ denotes the angle between the tangent to the bacterial membrane and horizontal line.When the stretching of the bacterial membrane is within the range of elastic deformation,these stresses are proportional to the stretching,and $\scriptstyle { T / S = E \alpha }$ ,where Sis crossection areaand $E$ is Young's modulus of the bacterial cell walls.
+
+![](images/f3b8598b7ffe6d90c1dce7f1dfdbea9c1a438c25301ad64e4b2c94d1a1b6d75d.jpg)  
+Fig.1.Side-elevation sketch map of a bacterial membrane adsorbing onto two neighboring nanoridges,where $H$ is the height of the nanoridge,2R is the bottom width of the nanoridge, $S _ { A }$ denotes the part of the bacterial membrane covering the nanoridge, $S _ { B }$ denotes the suspended membrane surface, $r _ { 0 }$ is the distance from the dividing line to the $x$ -axis,and $D$ is the distance between two adjacent nanopillars.
+
+# 2.1.1.For the area of $S _ { A }$
+
+Setarectangular coordinate system,as shown in Fig.1,where theparabola intersectswith the $x$ -axisat points (R,O) and $( - R , 0 )$ $\alpha _ { A }$ is local stretching of the layer in region A,and $\alpha _ { B }$ is the local stretching of the layer in region B.Then,the curve equation of the parabola can be obtained as
+
+$$
+g ( r ) = H ( 1 - r ^ { 2 } / R ^ { 2 } ) .
+$$
+
+Hence,we can obtain the slope of the bacterial membrane: $g ^ { \prime } ( r ) = - \tan \theta .$
+
+The distance from the $x$ -axis to the dividing line is $r _ { 0 } .$ and distance from the $x$ -axis to an arbitrary point in the curve is $r$ External forces on the cell membrane comprise $G$ ，whichisthe local gravity of the bacterial cell,and $T _ { 1 }$ and $T _ { 2 }$ ，are the pulling forces over and under the infinitesimal area,respectively (Fig.2a). Define γas the thickness of the cell wall of the bacterium, $\lambda { = } \rho g A$ as the gravity of unit bacterial cell walls.Set an infinitesimal membrane,taking the length as $1 \mathrm { n m }$ ，andthewidth $( d r )$ in the direction perpendicular and parallel to the tension,then we can get the infinitesimal area $d s { = } 1 \times d r$ Let $r ^ { \prime }$ be the radius of the curvature and $d \theta$ bethe field angle.Section stress of the infinitesimal area can be written as follows(Gerstmayr et al.,2O13;Such et al., 2009):
+
+$$
+T _ { 1 } \cos \ { \frac { d \theta } { 2 } } = T _ { 2 } \cos { \frac { d \theta } { 2 } } + G _ { A } \sin \ \theta
+$$
+
+： $\cdot d \theta {  } 0$ ： $. c o s ( d \theta / 2 )  1$ .Substituting $G _ { A } = \lambda d s$ into Eq.(1),wecan obtain
+
+$$
+T _ { 1 } - T _ { 2 } = \lambda \sin \theta d s .
+$$
+
+Set $T _ { 0 }$ to be the strain of the vertices and $T _ { A }$ to be the strain at any position in region (A); thus
+
+$$
+T _ { 0 } - T _ { A } = \int _ { A } \frac { - g ^ { \prime } ( r ) \lambda d s } { \sqrt { 1 + \left( g ^ { \prime } ( r ) \right) ^ { 2 } } } = \frac { \lambda R ^ { 2 } } { 2 H } \sqrt { 1 + \left( \frac { 2 H } { R ^ { 2 } } r \right) ^ { 2 } } .
+$$
+
+The strain at the dividing line can be regarded as
+
+$$
+T _ { r _ { 0 } } = T _ { 0 } - \frac { \lambda R ^ { 2 } } { 2 H } \sqrt { 1 + \left( \frac { 2 H } { R ^ { 2 } } r _ { 0 } \right) ^ { 2 } } .
+$$
+
+# 2.1.2.For the area of $S _ { B }$
+
+To determine the portion of the cell membrane suspended between nanoridges (Fig.2b),set its curvilinear equation as $\boldsymbol { \mathscr { f } } ( \boldsymbol { r } )$ hence，the slope is $f ( r ) = - \tan \theta$ .The external forces can be described through the catenary equation.
+
+![](images/790ef32ace46e9aa17d596b4b50ce3ae5bdbced382f3f68fb39d1a661cf385e6.jpg)  
+Fig.2.Sectionstressofanifiitesimalara.Thestressofthelayersinegio(A)andregion (B)areshonin(a)and()pectively
+
+$$
+\begin{array} { l } { T _ { \nu 1 } = T _ { \nu 2 } + G , } \\ { T _ { h 1 } = T _ { h 2 } . } \end{array}
+$$
+
+In the above equation, $T _ { h }$ and $T _ { \nu }$ are the horizontal and the vertical components of $T _ { 1 }$ and $T _ { 2 }$ ，respectively,and $G _ { B } = \lambda$ ds. Simplify Eq.(5) and calculate the integral
+
+$$
+T _ { \nu } ( r _ { 1 } ) - T _ { \nu } ( r _ { 2 } ) = \int _ { r _ { 1 } } ^ { r _ { 2 } } \lambda \ : d s .
+$$
+
+Clearly $T _ { \nu } ( d / 2 ) = 0$ ,hence Eq.(6) can be expressed as
+
+$$
+T _ { \nu } ( r ) = \int _ { r } ^ { d / 2 } \lambda d s = \lambda ( D / 2 - r ) .
+$$
+
+When $\scriptstyle { \theta = \pi / 2 }$ ,the vertical component of the region near the bottom is as follows:
+
+$$
+T _ { 1 } \sin d \theta _ { 1 } = G _ { B }
+$$
+
+： $\cdot d \theta {  } 0$ ， $\cdot \sin ( d \theta ) {  } d \theta$ 、At the bottom of the region, $T _ { h } = T _ { 1 }$ 元 Simplifying this equation,we obtain
+
+$$
+T _ { h } = \lambda \frac { d r } { d \theta } .
+$$
+
+In the above formula, $d r / d \theta$ is the curve radius of the catenary equation $( r _ { c } ^ { \prime } )$ near the bottom of the nanoridge.Eq.(9) can be expressed as
+
+$$
+\begin{array} { r } { T _ { h } = \lambda r _ { c } ^ { \prime } . } \end{array}
+$$
+
+Combining Eqs.(7) and(1O),we obtain
+
+$$
+f \backslash ( r ) = - \mathrm { \ t a n ~ } \theta = - \frac { T _ { \nu } ( r ) } { T _ { h } } = \frac { ( r - D / 2 ) } { r _ { c } ^ { \prime } } .
+$$
+
+Considering the continuity of the first order derivative,here $f ^ { \prime }$ $( r _ { 0 } ) \mathop { = } g ^ { \prime } ( r _ { 0 } )$ ,we can get
+
+$$
+r _ { c } ^ { \prime } = \frac { R ^ { 2 } ( D / 2 - r _ { 0 } ) } { 2 H r _ { 0 } } .
+$$
+
+From Eqs.(7),(10),and (12),we obtain
+
+$$
+T _ { B } = \sqrt { T _ { \nu } ^ { 2 } + T _ { h } ^ { 2 } } = \frac { \lambda R ^ { 2 } ( D - 2 r _ { 0 } ) } { 4 H r _ { 0 } } \sqrt { 1 + \left( \frac { 2 H r _ { 0 } ( 2 r - D ) } { R ^ { 2 } ( 2 r _ { 0 } - D ) } \right) ^ { 2 } } .
+$$
+
+When $r = r _ { 0 }$ ，because of the continuity and differentiability, ${ T _ { B } = T _ { A } }$ .Substituting Eq.(13) into Eq.(4),we obtain
+
+$$
+T _ { 0 } = \frac { \lambda R ^ { 2 } D } { 4 H r _ { 0 } } \sqrt { 1 + \left( \frac { 2 H r _ { 0 } } { R ^ { 2 } } \right) ^ { 2 } } ,
+$$
+
+where $\scriptstyle { T _ { A } = \gamma E \alpha _ { A } }$ and $T _ { B } = \gamma E \alpha _ { B }$ are the tension of the cell wall.
+
+# 2.1.3.Determine the boundary conditions
+
+The relation between the initial surface area and stretched area relies on the following geometrical formulation: the projection of unperturbed and stretched areas onto the surface plane remains constant.
+
+$$
+d S _ { 0 } = \frac { d \sigma } { 1 + \alpha }
+$$
+
+where $d S _ { 0 }$ and $d \sigma$ represent an infinitesimal area of the bacterial cell walls of initial and stretched state,respectively.In the infinitesimal area of $S _ { A } , S _ { B }$ is deduced through the surface area formula, leading to the following condition:
+
+$$
+S _ { 0 } = \int _ { 0 } ^ { r _ { 0 } } \frac { \sqrt { 1 + \left( g ^ { \setminus } ( r ) \right) ^ { 2 } } } { 1 + \alpha _ { A } } d r + \int _ { r _ { 0 } } ^ { d / 2 } \frac { \sqrt { 1 + \left( f ^ { \setminus } ( r ) \right) ^ { 2 } } } { 1 + \alpha _ { B } } d r .
+$$
+
+# 2.2.Bacterium-covered nanopillars
+
+The geometry of the bacterium-covered nanopillars is described as a rotating paraboloid.The side-elevation sketch map of a bacterial cell adhered onto nanopillars is similar to that of nanoridges,as shown in Fig.3.Furthermore,the shaded region in Fig.3 similarly represents a bacterial cell.Assuming that the distribution of nanopillars is periodic and the side elevation of each nanopillar isparabolic,the heightof each nanopillar is $H$ ,widthat the bottom of each parabolais 2R,contact area between the bacterial membrane and nanopillar is $S _ { A } ,$ and area of the membrane suspension is $S _ { B }$
+
+Set a rectangular coordinate system,as shown in Fig.1,with a parabolic intersection of the $x$ -axis at points $( R , 0 )$ and $( - R , 0 )$ ,the covered height of the bacterial cell to the nanopillar as $h _ { 0 }$ and distance from the dividing line to $x$ -axisas $r _ { 0 }$ .Supposing that the stretching of the layer in region A is $\alpha _ { A }$ ,the stretching of the layer in region B is $\alpha _ { B }$
+
+# 2.2.1.For the area of $S _ { A }$
+
+As shown in Fig.3,set a torus with a horizontal displacement of $r$ and width of dr.The infinitesimal area of $S _ { A }$ is given by the following expression:
+
+$$
+d S _ { A } = \frac { 4 \pi r } { 3 } \frac { 2 H r } { R ^ { 2 } } d r .
+$$
+
+Let $\theta$ be the intersections between normal and horizontal lines, G be the local gravity of the bacterial cell,and $T$ be the pulling force.
+
+： $\cdot d \theta {  } 0$ ： $\cdot . . . { \cos ( d \theta / 2 ) } \to 1$ .Substituting $G _ { A } = \lambda d s$ ,Eq.（1) with the section stress of the infinitesimal area can be written as follows:
+
+![](images/ed2141c60453ac7523d38b9ec22360179654e13c382a8bdb9cdca98cccfd58e5.jpg)  
+Fig.3.The side-elevation sketch map of a bacterial membrane adsorbed between two nanopillars,where $T _ { 1 }$ and $T _ { 2 }$ are the pulling forces over and under the infinitesimal area,respectively, $\theta _ { 1 }$ and $\theta _ { 2 }$ are the intersections between the horizontal lines and direction of $T _ { 1 }$ and $T _ { 2 }$ $G$ is the local gravity of the bacterial cell, $r$ is the distance from the $x \cdot$ -axis to an arbitrary point, $d s$ is a torus at point $r$ on the bacterial membrane,dr is the width,and the circle is enclosed bya dividing line.
+
+$$
+T _ { 1 } - T _ { 2 } = \lambda d s \sin \theta .
+$$
+
+Set $T _ { 0 }$ to be the stress of the vertices,and $T _ { A }$ to be the stress at any position in region (A);thus
+
+$$
+T _ { 0 } - T _ { A } = \int _ { A } \frac { g ^ { \prime } ( r ) \lambda \ d s } { \sqrt { 1 + \left( g ^ { \prime } ( r ) \right) ^ { 2 } } } = 2 \pi \lambda \int _ { A } g \ d g \langle r \rangle r \ d r = \frac { 4 \pi H \lambda } { 3 R ^ { 2 } } r ^ { 3 } .
+$$
+
+The stress at the dividing line can be regarded as
+
+$$
+T _ { r _ { 0 } } = T _ { 0 } - \frac { 4 \pi H \lambda } { 3 R ^ { 2 } } r _ { 0 } ^ { 3 } .
+$$
+
+Since bacterium is attached to the nanopillars,all of the pillar support shall be equal to the gravity acting on the bacterium. Considering the nanopillars distribution equality, the support of each pillar is $F _ { 0 } = \lambda D ^ { 2 }$ .The section stress in region (A) can then be written as follows:
+
+$$
+T _ { r _ { 0 } } \sin \theta _ { 0 } = \lambda ( D ^ { 2 } - \pi r _ { 0 } ^ { 2 } ) ,
+$$
+
+where $\theta _ { 0 }$ is the angle between the tangent to the bacterial membrane and the horizontal lines at the dividing line.By com bining Eqs.(2O) and (21),we can obtain
+
+$$
+T _ { 0 } = \frac { \lambda R ^ { 2 } ( D ^ { 2 } - \pi r _ { 0 } ^ { 2 } ) } { 2 H r _ { 0 } } \sqrt { 1 + \left( \frac { 2 H r _ { 0 } } { R ^ { 2 } } \right) ^ { 2 } } + \frac { 4 \pi H \lambda } { 3 R ^ { 2 } } r _ { 0 } ^ { 3 } .
+$$
+
+# 2.2.3.Determine the boundary conditions
+
+Substituting $T { = } 2 \pi r \gamma E \alpha$ into Eq.(25),we can obtain
+
+$$
+\alpha _ { B } = \alpha _ { 0 } = \frac { \lambda R ^ { 2 } } { 4 E \gamma H } \Bigg ( \frac { D ^ { 2 } } { \pi r _ { 0 } ^ { 2 } } - 1 \Bigg ) \sqrt { 1 + \Bigg ( \frac { 2 H r _ { 0 } } { R ^ { 2 } } \Bigg ) ^ { 2 } } .
+$$
+
+Therelation between the initial surface area of bacteriumand stretched area can be stated as
+
+Assuming the stretching of the bacterial membrane is within the range of elastic deformation, i.e., $T { = } 2 \pi r \gamma E \alpha$ ,Eq.(19) can be simplified to
+
+$$
+T _ { B } = T _ { r _ { 0 } } = \frac { \lambda R ^ { 2 } ( D ^ { 2 } - \pi r _ { 0 } ^ { 2 } ) } { 2 H r _ { 0 } } \sqrt { 1 + \left( \frac { 2 H r _ { 0 } } { R ^ { 2 } } \right) ^ { 2 } } .
+$$
+
+Simplifying Eq.(27) by converting the integrals,we obtain
+
+$$
+\alpha _ { A } = \frac { \lambda R ^ { 2 } } { 4 E \gamma H } \Bigg ( \frac { D ^ { 2 } } { \pi r _ { 0 } ^ { 2 } } - 1 \Bigg ) \sqrt { 1 + \Bigg ( \frac { 2 H r _ { 0 } } { R ^ { 2 } } \Bigg ) ^ { 2 } } + \frac { 2 H r ^ { 2 } } { 3 R ^ { 2 } \gamma E } \Bigg ( \frac { r _ { 0 } ^ { 3 } } { r ^ { 3 } } - 1 \Bigg ) .
+$$
+
+# 2.2.2.For the area of $S _ { B }$
+
+When the deformation of the suspended region is very small, the curvature of the suspended surface can be considered to be constant.Therefore,assuming that the region under the torus is part of a spherical shell, the area $S _ { B }$ can be given by the following expression:
+
+$$
+d S _ { 0 } = \frac { d \sigma } { 1 + \alpha } .
+$$
+
+$$
+S _ { B } = 2 ( 1 - \cos \theta _ { 0 } ) \frac { D ^ { 2 } - \pi r _ { 0 } ^ { 2 } } { \sin ^ { 2 } \theta _ { 0 } }
+$$
+
+When the spherical shell is under force,the stresses are equal onthe spherical shell by the continuity conditions
+
+$$
+S _ { 0 } = \int \frac { d \sigma } { 1 + \alpha } = \int _ { A } \frac { d S _ { A } } { 1 + \alpha _ { B } } + \frac { S _ { B } } { 1 + \alpha _ { B } }
+$$
+
+# 3.Parameterdetermination
+
+Supposing that the shape of the bacterium is a cylinder with density $\rho { = } 1 0 ^ { 3 } \mathrm { k g } / \mathrm { m } ^ { 3 }$ ,the diameter A changesas the length of the bacterium changes；generally,the diameter ranges from 0.2 to $7 \mu \mathrm { m } .$ Thus, $\lambda { = } \rho g A { = } ( 2 - 7 0 ) \times 1 0 ^ { - 3 } \mathrm { N / m } ^ { 2 }$
+
+Bacterial cell walls are mostly made of peptidoglycan,which has a crystalline lattice structure comprising polysaccharide chains from two alternating amino sugars (21).The mechanical strength of the cell walls depends on the existence of peptidoglycan.The peptidoglycan monomer comprises three parts:a disaccharides unit,short peptide,and peptide bridge.A disaccharides unit of $1 0 . 3 \mathring { \mathrm { A } }$ in length is alternately connected to N-acetyl glucosamine orN-acetyl muramic acid;the disaccharidesunits are formed by $\beta$ 1,4 glycosidic bonds to constitute the peptidoglycan skeleton. Short peptide tails,which generally comprise four amino acids, connect into short peptide chains and are linked to the N-acetyl muramic acid molecules.The peptide bridge forms a high-strength mesh structure by cross-linking adjacent peptide tails.
+
+Set the layer of peptidoglycan in the cell wall as $\delta$ ，then the thickness of the bacterial cell walls is $\gamma { = } \delta \times 1 . 0 3 \ \mathrm { n m }$ .Peptidoglycan structure is shown in Fig. 4(Nelson and Cox,2004).
+
+Bacteria break when peptidoglycan chains rupture in bacterial cell walls. Obviously, the energy of $\beta$ -1,4 glycosidic bonds is larger than that of peptide bonds.Hence,when bacteria break because of traction,the peptide bridges of the peptide bonds are the first to rupture.
+
+Conforming to the Lennard-Jones model (Chen et al., 2o04) for the potential energy of peptide bonds in a peptidoglycan monomer, the potential energy curve is shown in Fig.4.
+
+$$
+E _ { p } = 4 \varepsilon { \left( \frac { 1 } { ( r ^ { * } ) ^ { 1 2 } } - \frac { 2 } { ( r ^ { * } ) ^ { 6 } } \right) } , \mathrm { h e r e } \frac { 1 } { r ^ { * } } = \frac { \sigma } { r _ { i j } }
+$$
+
+Setting the derivative of the energy $( \mu )$ of peptide bonds with respect to its distance $( \boldsymbol r ^ { * } )$ equal to zero yields $r _ { 0 } ^ { * } = 1$ ，where the energy $( \mu )$ achieves its minimum.For intermolecular forces $\scriptstyle { F = d \mu } /$ dr,similarly setting the derivative of $F$ with respect to its distance $( \boldsymbol r ^ { * } )$ equal to zero yields $r _ { 1 } ^ { * } { = } 1 . 1 0 9$ ，where the forcesachieve their maximum.The bacterial cell will break when $r ^ { * } > r _ { 1 } ^ { * }$
+
+Assuming that the peptidoglycan monomer is isotropic,the initial spacing is $r _ { 0 } ^ { * }$ along the direction of the peptidoglycan monomer peptide bond and along the direction of the glycosidic bond.The critical stretching degree $( \alpha _ { c r } )$ yields
+
+![](images/5c574bee7e5355060fb16933eb18573ec9fa2e6b7cf94aac9bbd537ee54b2f24.jpg)  
+ig4 line indicates the interaction forces between the peptidoglycan monomer; $r _ { 0 } ^ { * }$ indicates the $r ^ { * }$ value when the potential energy is minimum,namely,the bacteria is nol stretched; $r _ { 1 } ^ { * }$ indicates the $r ^ { * }$ value as the tension of bacterial cell wall reaches its maximum.
+
+![](images/6f3052a91e3cbbfea35eeb8d77f7ad229283066ab6d07c75958a05c636cb9fb3.jpg)  
+Fig.5.Under the condition of invariable nanoridge/pillar height where $_ { H = 2 0 0 \mathrm { n m } }$ ，the adjacent nanoridges distance $d = 1 7 0 \ \mathrm { n m }$ and the ridge/pillar-bottom radiu （204号 $R { = } 6 0 ~ \mathrm { { n m } }$ .Changes in bacterial size reveal trends in (a) the drop height $( h _ { 0 } )$ and (b) the maximum bacterial membrane stretch $( \alpha _ { m a x } )$
+
+$$
+\alpha _ { c r } = \frac { r _ { m a x } - r _ { m i n } } { r _ { m i n } } = \frac { r _ { 1 } - r _ { 0 } } { r _ { 0 } } = 0 . 1 1 .
+$$
+
+Investigating chemical-bond energy data (Luo,2Oo5)，we can determine that the bond energy of the peptide bond is $3 6 2 . 3 \mathrm { k J / m o l }$ therefore, the minimum value of $E _ { p }$ is $3 6 2 . 3 \mathrm { k J / m o l }$ in Eq. (29). Substituting $r _ { 0 } ^ { \ast }$ into Eq.(29) yields $\varepsilon { = } 3 6 2 . 3 \times 1 0 ^ { 3 } \mathrm { J / m o l } .$
+
+Because $F _ { m a x } = F ( \ r _ { 1 } ^ { * } ) { = } 0 . 9 7 4 \times 1 0 ^ { 6 } \mathrm { N / m o l }$ and a cross-sectional area of the peptidoglycan monomer of $S _ { m } { = } a ^ { 2 } { = } 1 . 0 6 \times 1 0 ^ { - 1 8 } \mathrm { m } ^ { 2 }$ for Gram-positive bacteria with a cross-linkage degree of $p { = } 7 5 \%$ each peptidoglycan monomer's contribution to the mechanical strength is $F _ { i } { = } F _ { m a x } p / N _ { A }$ .Thus,peptidoglycan mechanical strength per unit area becomes
+
+$$
+T _ { c r } = \frac { \sum F _ { i } } { \Delta S } = \frac { F _ { m a x } p } { N _ { A } S _ { m } } = 1 . 1 4 5 .
+$$
+
+Consider $T _ { c r } { = } E \alpha _ { c r }$ and Young's modulus $E { = } 1 0 . 5 2 8 ~ \mathrm { N / m } ^ { 2 }$
+
+Fora Gram-positive bacterium with a cross-linkage degree of $p { = } 3 0 \%$ ,Young's modulus is $E { = } 4 . 2 1 1 ~ \mathrm { N / m } ^ { 2 }$
+
+# 4.Resultsanddiscussion
+
+# 4.1.The state of bacterial cells adsorbed onto nanoridges
+
+For Gram-positive bacteria,there are generally 1O-5O layers of peptidoglycan in their cell walls;if $\delta = 3 0$ ，then $\gamma { = } 3 0 . 9 \ \mathrm { n m }$ Convert Eqs.(16)and (28) and then substitute with these parameters. As $\lambda$ changes,the drop height of bacteria onto the nanoridges $\left( h _ { 0 } \right)$
+
+and the maximum stretching of bacteria $( \alpha _ { m a x } )$ are as shown in Fig. 5.
+
+As illustrated in Fig.5,with an increase in bacterial weight $( \lambda )$ Gram-positive bacteria show an increase in both their drop height $\left( h _ { 0 } \right)$ and maximum membrane stretch $( \alpha _ { m a x } )$ .Theeffectof nanoridge and nanopillar structure on bacterial drop height and membrane stretching is most pronounced for Gram-positive bacteria on nanoridges.
+
+# 4.2.The state ofa bacterial cell adsorbed onto nanopillars
+
+For the Gram-negative bacterium,if $\delta = 2$ ,then $\gamma { = } 2 . 0 6 ~ \mathrm { n m }$ .We can simplify Eqs.（16)and（28）by converting the integrals and then substituting these parameters.As $\lambda$ changes,the bacterial drop height on the nanopillars $( h _ { 0 } )$ and the maximum bacterial membrane stretching $( \alpha _ { m a x } )$ vary,as shown in Fig. 6.
+
+As $\lambda$ increases,the maximum membrane stretching of the bacterium increases.As shown in Figs.5 and 6,when comparing the efect of nanoridge and nanopillar structure on bacterial drop height and membrane stretching,bacteria adsorbed onto nanopillars are much larger in size than those adsorbed onto nanoridges.Bacterial cells of the same type are more sensitive to changes in the nanopillar surface structure.
+
+Comparing the state of Gram-positive and Gram-negative bacteria adsorbed on nanoridges,the maximum membranestretching capability of the Gram-negative bacterium is higher than that of the Gram-positive bacterium.Therefore,Gram-negative bacteria are more susceptible and sensitive to nanopatterned surface structures.Only the influence of the nanopillar/nanoridge structures was considered with respect to determining the optimal nanomaterial structure for bactericide.
+
+![](images/21d6aeca8cfa7ea123c5d94b834ec091ed7dcec4fc4a6bb9b3ec26eaa6da6ed3.jpg)  
+Fig.6.Under the condition of invariable nanoridges/pillars height where $_ { H = 2 0 0 \ \mathrm { n m } }$ ,the adjacent nanopillar distance $D { = } 1 7 0 \ \mathrm { n m }$ and the bottom radius $R { = } 6 0 ~ \mathrm { { n m } }$ .Change: in bacterial size reveal trends in (a) the drop height $( h _ { 0 } )$ and (b)maximum bacterial membrane stretch $( \alpha _ { m a x } )$
+
+![](images/ae07ab6b0efd9d72c3db2a8431c9d2ff55afaf90882b6fc8ea3da9e0c9b13389.jpg)  
+Fig7aii membrane stretching capacity. Changes inλ are distinguished by different plot colors.
+
+# 4.3.The optimal nanopillar structure
+
+When the nanopillar radius $R { = } 6 0 \ \mathrm { n m }$ ,height $H { = } 2 0 0 \ \mathrm { n m }$ and adjacentnanopillar distance $D { = } 1 7 0 \ \mathrm { n m }$ ，the nanopillar structure is the same as the surface of cicada wings.For the Gram-positive bacteria walls,there are 1O-5O layers of peptidoglycan;thus,set $\delta \mathrm { = } 3 0$ and $\gamma { = } 3 0 . 9 \ \mathrm { n m }$ 、As shown in Fig.6,while $\lambda { = } 3 3 \times 1 0 ^ { - 3 } \mathrm { N } /$ $\mathrm { m } ^ { 2 }$ ，themaximumstretchingofthecellmembrane $\alpha _ { m a x } { = } 0 . 1 1 < \alpha _ { c r } .$ This means that most Gram-positive bacteria cannot be killed by the nanopattern on the cicada wing surface. Gram-negative bacteria have 1-3 layers of peptidoglycan,which sets $\delta = 2$ and $\gamma { = } 2 . 0 6 \ \mathrm { n m }$ ，The maximum membrane stretching $( \alpha _ { m a x } )$ for Gram-negative bacteria is shown in Fig.6.Most Gramnegative bacteria can be killed by the nanopattern of the wing surface,and onlya fewmay survive.These results correspond with the Ivanova's experimental results.
+
+Under the conditions of invariable nanopillar height,where $H { = } 2 0 0 \ \mathrm { n m }$ and the adjacent nanopillar distance $D { = } 1 7 0 \ \mathrm { n m }$ ，the relation between the bottom radius $( R )$ and the depth of the nanopillar $\left( h _ { 0 } \right)$ and membrane stretching $( \alpha _ { m a x } )$ fora Gramnegative bacterium is shown in Fig.7.Under the conditions of invariablenanopillarbottomradius $R { = } 6 0 ~ \mathrm { { n m } }$ andheight
+
+$H { = } 2 0 0 \ \mathrm { n m }$ ,therelation between the adjacent nanopillar distance $( d )$ and the depth of the nanopillar $\left( h _ { 0 } \right)$ and the membrane stretching $( \alpha _ { m a x } )$ for a Gram-negative bacterium is shown in Fig.8.
+
+As shown in Fig.7,while the nanopillar height remained constant under the rotating paraboloid,a decrease in the bottom pillar-radiusreduced thebacterial surfacetension. When $\bar { \lambda } { = } 3 0 \times 1 0 ^ { - 3 } \mathrm { N / m } ^ { 2 }$ ，the nanopillar height $H { = } 2 0 0 \ \mathrm { n m }$ ，and the adjacent nanopillar distance $D { = } 1 7 0 \ \mathrm { n m }$ ，aGram-positive bacterium will rupture on the nanopillar structure with a bottom radius of $R \leq 5 8 ~ \mathrm { { n m } }$ .From Fig.8,the enlargement of nanopillar spacing $D$ resulted in an increase in the bacterial surface tension.When $\lambda { = } 3 0 \times 1 0 ^ { - 3 } \mathrm { N } / \mathrm { m } ^ { 2 }$ ，the nanopillar height $H { = } 2 0 0 \ \mathrm { n m }$ ，and the bottom radius of the nanopillar structures $R { = } 6 0 \ \mathrm { n m }$ ，aGrampositive bacterium will rupture on the nanopillar structures if the adjacent nanopillar distance $D \geq 1 7 6 \ \mathrm { n m }$ .These results suggest that when the nanopillars become sharper and the spacing between the pillars becomes larger, the antibacterial properties of the nanopillar surface are enhanced.
+
+# 5．Conclusions
+
+A mathematical model has been developed to provide a possible explanation for the bactericidal properties of the cicada wing surface.
+
+![](images/a1061351abd3004b399e2397e9898574cde52a1d2c1cc83a9eb1a0d262c28345.jpg)  
+Fig membrane stretching capacity. Changes in $\lambda$ are distinguished by different plot colors.
+
+This work supports the idea that physical interactions between the bacterial cells and cicada wing surface structures cannot provide suficient energy to permit full cell adhesion. The effects of gravity on the bacterial cells,as well as nonspecific forces such as van der Waals forces,playa role in cell wall rupture.In agreement with experimental evidence,Gram-negative bacteria are more susceptible and sensitive to nanopatterned surface structures and can be killed with extreme eficiency by the wing surface.
+
+This work supports the idea that natural nanostructured surfaces can have bactericidal properties that prevent or reduce bacterial adhesion and contamination.
+
+# Acknowledgements
+
+This work was supported by the National Natural Science Foundation of China (31106188,61462068)，and the Technology Foundation of Ministry of Education of China (21o3O),and the Natural Science Foundation of Inner Mongolia Autonomors Region (2015MS0329).
+
+# References
+
+Bazaka, K., Crawford,R.J., Ivanova, E.P., 2O11. Do bacteria differentiate between degrees of nanoscale surface roughness? Biotechnol. J. 6, 11o3-1114.   
+Bhushan, B., Jung, Y.C., Niemietz, A., Koch, K., 20o9. Lotus-like biomimetic hierarchical structures developed by the self-assembly of tubular plant waxes. Langmuir 25,1659-1666.   
+Campoccia, D., Montanaro, L., Arciola, C.R., 2013. A review of the biomaterials technologies for infection-resistant surfaces. Biomaterials 34, 8533-8554.   
+Carbone, G., 2oo4. Elastic beam over an adhesive wavy foundation. J. Appl. Phys 95, 4476.   
+Chen, Q., Cao, H., Huang, H., 2oo4. A research on the interatomic potential in molecular dynamics (MD). J. Tianjin Inst. Technol. 20,101-105.   
+Decuzzi, P., Ferrari, M., 201o. Modulating cellular adhesion through nanotopography. Biomaterials 31, 173-179.   
+Nelson, D.L., Cox,M.M.,20o4. Lehninger Principles of Biochemistry. W H Freeman and Company, New York.   
+Gerstmayr, J. Sugiyama, H., Mikkola,A.,2013. Review on the absolute nodal coordinate formulation for large deformation analysis of multibody systems. J. Comput. Nonlinear Dyn. 8, 031016.   
+Guo, Z.G., Liu, W.M., Su, B.L., 2011. Superhydrophobic surfaces: from natural to biomimetic to functional. J. Colloid Interface Sci. 353, 335-355.   
+Hasan, J., Crawford, R.J., Ivanova, E.P., 2O13a. Antibacterial surfaces: the quest for a new generation of biomaterials. Trends Biotechnol. 31, 295-304.   
+Hasan, J., Webb, H.K., Truong, V.K., Pogodin, S., Baulin, V.A., Watson, G.S.. Watson, J.A., Crawford,R.J., Ivanova, E.P.,2013b.Selective bactericidal activity of nanopatterned superhydrophobic cicada Psaltoda claripennis wing surfaces. Appl. Microbiol. Biotechnol. 97, 9257-9262.   
+Ivanova, E.P., Hasan, J., Webb, H.K., Truong, V.K., Watson, G.S., Watson, J.A., Baulin, V.A.,Pogodin, S.,Wang, J.Y., Tobin, M.J., Lobbe, C., Crawford, R.J., 2012. Natural bactericidal surfaces: mechanical rupture of Pseudomonas aeruginosa cells by cicada wings. Small 8, 2489-2494.   
+Ivanova, E.P., Hasan, J., Webb, H.K., Gervinskas, G., Juodkazis, S., Truong, V.K., Wu, A.H.F., Lamb, R.N., Baulin, V.A., Watson, G.S.,Watson,J.A., Mainwaring, D.E., Crawford, R.J.,2013. Bactericidal activity of black silicon. Nat. Commun. 4.   
+Luo,Y., 2oo5. Handbook of Bond Dissociation Energies in Organic Compounds. Sciencep, Beijing.   
+Marmur, A., 2oo4. The lotus effect: superhydrophobicity and metastability. Langmuir 20, 3517-3519.   
+Nguyen, S.H.T., Webb,H.K., Hasan, J.,Tobin,M.J., Crawford, R.J., Ivanova, E.P., 2013. Dual role of outer epicuticular lipids in determining the wettability of dragonfly wings. Colloids Surf. B: Biointerfaces 106,126-134.   
+Pogodin, S., Hasan, J., Baulin, V.A., Webb, H.K., Truong, V.K., Phong Nguyen, T.H., Boshkovikj, V., Fluke, C.J., Watson, G.S., Watson,J.A., Crawford,R.J., Ivanova,E.P., 2013. Biophysical model of bacterial cell interactions with nanopatterned cicada wing surfaces. Biophys. J. 104, 835-840.   
+Su, Y.W., Ji, B.H., Huang, Y.G., Hwang, K.C., 201o. Nature's design of hierarchical Superhydrophobic surfaces of a water strider for low adhesion and low-energy dissipation. Langmuir 26, 18926-18937.   
+Such, M., Jimenez-Octavio, J.R., Carnicero, A., Lopez-Garcia, O., 2oo9. An approach based on the catenary equation to deal with static analysis of three dimensional cable structures. Eng. Struct.31,2162-2170.   
+Watson, G.S., Cribb, B.W., Watson,J.A.,2010. How micro/nanoarchitecture facilitates anti-wetting: an elegant hierarchical design on the termite wing. ACS Nano 4, 129-136.   
+Wenzel, R.N.,1936. Resistance of solid surfaces to weting by water.Ind. Eng. Chem. Res. 28,988-994.   
+Zhang, G., Zhang, J., Xie, G., Liu, Z., Shao, H., 2Oo6. Cicada wings: a stamp from nature for nanoimprint lithography. Small 2, 1440-1443.   
+Zhao,L., Chu, P.K., Zhang, Y., Wu, Z., 20o9. Antibacterial coatings on titanium implants. J. Biomed.Mater. Res-A 91B, 470-480.   
+Zheng, Q.S., Yu,Y., Zhao, Z.H., 2Oo5. Effects of hydraulic pressure on the stability and transition of wetting modes of superhydrophobic surfaces. Langmuir 21, 12207-12212.

@@ -1,0 +1,269 @@
+饲粮营养水平对中速型黄羽肉鸡生长性能、胴体品质、肉品质、风味和血浆生化指标的影响林厦菁 苟钟勇 李龙 黄丹红 范秋丽 蒋守群\*
+
+（广东省农业科学院动物科学研究所，畜禽育种国家重点实验室，农业部华南动物营养与饲料重点实验室，广东省动物育种与营养公共实验室，广东省畜禽育种与营养研究重点实
+
+验室，广州 510640)
+
+摘要：本试验旨在研究饲粮营养水平对中速型黄羽肉鸡生长性能、胴体品质、肉品质、风味和血浆生化指标的影响。选用1、29、57日龄中速型岭南黄羽肉鸡各1920、1920 和1440只（公母各1/2)，试验分为3个阶段，每个阶段根据本课题组提出的黄羽肉鸡饲养标准上下浮动分别设置低营养水平组、中营养水平组和高营养水平组及以我国《鸡饲养标准》（NY/T33—2004）为标准的标准营养水平组。每组公鸡6个重复，母鸡6个重复，每个重复30\~40只鸡。试验期84d。结果表明：1）1\~28日龄，公鸡方面，高营养水平组的平均日增重显著高于低营养水平组和中营养水平组（ $\cdot P { < } 0 . 0 5 \$ )，高营养水平组和标准营养水平组的平均日采食量显著高于低营养水平组和中营养水平组（ $\cdot P { < } 0 . 0 5 )$ ，低营养水平组的料重比显著高于其他营养水平组（ $\cdot P { < } 0 . 0 5 \$ ；母鸡方面，低营养水平组的平均日增重显著低于其他营养水平组（ $\scriptstyle P < 0 . 0 5 )$ ，标准营养水平组的平均日采食量显著高于低营养水平组（ $\cdot P { < } 0 . 0 5$ )，中营养水平组的料重比显著低于低营养水平组（ $P { < } 0 . 0 5 )$ 。 $2 9 { \sim } 5 6$ 日龄，公鸡方面，低营养水平组的料重比显著高于其他营养水平组（ $\cdot < 0 . 0 5 \rangle$ ；母鸡方面，低营养水平组的平均日增重显著低于其他营养水平组（ $( P { < } 0 . 0 5 )$ ，中营养水平组和标准营养水平组的平均日采食量显著高于高营养水平组（ $\cdot P { < } 0 . 0 5 \$ )，低营养水平组的料重比显著高于高营养水平组和标准营养水平组（ $P$ ${ < } 0 . 0 5 \$ )。 $5 7 { \sim } 8 4$ 日龄，高营养水平组公鸡和母鸡的平均日增重均显著高于标准营养水平组( $P$ ${ < } 0 . 0 5 { \mathrm { ) } }$ ，高营养水平组母鸡的料重比显著低于其他营养水平组（ $\scriptstyle P < 0 . 0 5$ )。2）标准营养水平组母鸡的腹脂率显著低于高营养水平组( $\cdot P { < } 0 . 0 5 \$ )。饲粮营养水平对公鸡和母鸡的屠体率、半净膛率、全净膛率、腿肌率、胸肌率、胫骨折断力均无显著影响（ $\cdot P { > } 0 . 0 5 \$ )。3）高营养水平组公鸡的 $4 5 \mathrm { m i n }$ 肉色黄度值显著高于低营养水平组和标准营养水平组（ $P { < } 0 . 0 5 )$ 。饲粮营养水平对公鸡肌肉嫩度、滴水损失、pH无显著影响（ $P { > } 0 . 0 5 )$ 。饲粮营养水平对母鸡肉品质指标无显著影响（ $P { > } 0 . 0 5$ )。4）饲粮营养水平对公鸡和母鸡胸肌的风味指标均无显著影响( $P { > } 0 . 0 5$ )。5）饲粮营养水平对公鸡和母鸡血浆中的钙、尿酸和尿素氮含量均无显著影响 ( $\cdot  { P } { > } 0 . 0 5 ) ,$ 。综合本试验生长性能、增重成本、胴体品质、肉品质和血浆生化指标等结果，认为在1\~28日龄，公鸡和母鸡推荐使用中营养水平的饲粮；29\~56日龄，公鸡和母鸡推荐使用中营养水平的饲粮；57\~84日龄，公鸡和母鸡推荐使用高营养水平的饲粮。
+
+关键词：黄羽肉鸡；肉品质；风味；营养水平中图分类号：S831 文献标识码：A 文章编号：
+
+黄羽肉鸡是我国的特色肉鸡产业，出栏量已经与白羽肉鸡持平，2017年商品代黄羽肉鸡出栏量达到43.3亿只，广东省黄羽肉鸡产量达到了其年均产量的 $70 \%$ 。所以合理配制饲料，提高饲料转化效率，对降低岭南黄羽肉鸡养殖成本具有重要的意义。李莉等[研究发现，营养水平增加可有效提高桂香雏鸡的能量、粗蛋白质、粗脂肪、粗纤维表观消化率。Miah等[2]研究发现，提高饲粮营养水平后孟加拉地方品种鸡的收入利润有所增加。孙作为[3]研究发现，高营养水平可以提高胴体的质量。有研究报道低营养水平会降低屠宰性能[4]。饲粮营养水平对地方品种的研究主要集中公鸡及能量和蛋白质方面，对于整个营养需求和母鸡的研究较少。多年来，本研究室一直对黄羽肉鸡的营养需要进行着研究，目前已开展了蛋白质和能量[5]、钙[6]、磷[7]、锌[8]、钠和氯[9]、赖氨酸[10]、蛋氨酸[1]、苏氨酸[12]、色氨酸[13]、异亮氨酸[14]及维生素A、维生素 ${ \bf D } _ { 3 }$ 、维生素E、维生素 $\mathrm { B } _ { 2 } ^ { [ 1 5 - 1 8 ] }$ 等营养需要的研究，根据本研究室的多年积累的研究数据总结出一套黄羽肉鸡公鸡和母鸡营养需求参数。因此，本试验是对前期研究基础上得到的营养参数进行验证，旨在通过测定中速型黄羽肉公鸡和肉母鸡的生长性能、胴体品质、肉品质、风味和血浆生化指标，从而确定其适宜的饲粮营养水平，为其养殖提供科学依据，为饲料公司和农户带来更多经济利益。
+
+# 1材料与方法
+
+# 1.1试验动物与试验设计
+
+试验分3个阶段独立开展，1\~28日龄选用体重相近的1日龄的黄羽肉鸡1920只（每组公鸡6个重复，母鸡6个重复，每个重复40只)，29\~56日龄选用体重相近的29日龄的黄羽肉鸡1920只（每组公鸡6个重复，母鸡6个重复，每个重复40只)，57\~84日龄选用体重相近的57日龄黄羽肉鸡1440只（每组公鸡6个重复，母鸡6个重复，每个重复30 只)。每个试验阶段根据饲粮营养水平不同分成4个组，在本课题组提出的标准基础上增加或者减少能量 $5 \%$ 和其他营养水平 $10 \%$ ，构成低营养水平组、中营养水平组、高营养水平组，并设以我国《鸡饲养标准》（NY/T33-2004）营养水平为标准的标准营养水平组。试验采用玉米-豆粕型基础饲粮，营养水平参考我国《鸡饲养标准》（NY/T33-2004)，该标准中的肉鸡的营养水平公母共用。根据《中国饲料成分及营养价值表》（15版）设计饲料配方。公鸡和母鸡的饲粮组成及营养水平分别见表1、表2。
+
+# 表1公鸡饲粮组成及营养水平 (风干基础)
+
+Table 1 Composition and nutrients levels of diets for male broilers （air-dry basis） %   
+
+<html><body><table><tr><td colspan="4"></td><td colspan="4">1~28 日龄1to 28 days</td><td colspan="4">29~56 日龄 29 to 56 days 57~84 日龄 57 to 84 days</td></tr><tr><td rowspan="6">项目Items</td><td>低营养水 平组Low</td><td>中营养水 平水平组 Medium nutrient</td><td>高营养水 平水平组</td><td>标准 营养 水平</td><td>低营养水 平组Low nutrient</td><td>中营养水 平水平组 Medium</td><td>高营养水 平水平组</td><td>标准 低营养水 营养 平组Low</td><td>中营养水 平水平组</td><td>高营养水 平水平组 High</td><td>标准 营养 水平</td></tr><tr><td>nutrient level group</td><td></td><td>High nutrient</td><td>level</td><td></td><td>High nutrient</td><td>水平 组 Standa</td><td>nutrient level</td><td>Medium nutrient</td><td></td></tr><tr><td>level</td><td>level group</td><td>组 Standa</td><td>group</td><td>nutrient level</td><td>level</td><td>group</td><td>level</td><td>nutrient level</td><td>组</td></tr><tr><td>group</td><td></td><td>rd</td><td></td><td>group</td><td>group</td><td>rd</td><td>group</td><td>group</td><td>Standa</td></tr><tr><td></td><td></td><td>nutrien t level</td><td></td><td></td><td>nutrie nt</td><td></td><td></td><td></td><td>rd nutrie</td></tr><tr><td></td><td></td><td></td><td> group</td><td></td><td></td><td></td><td>level group</td><td></td><td></td><td></td><td>nt level group</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米 Corm (CP8.7%)</td><td>60.00</td><td>65.00</td><td>60.10</td><td>61.00</td><td>69.40</td><td>67.00</td><td>67.50</td><td>68.00 69.40</td><td>67.00</td><td>67.50</td><td>68.00</td></tr><tr><td>次粉 Wheat middling</td><td>4.00</td><td>2.00</td><td></td><td>4.00</td><td></td><td>2.00</td><td>0.50</td><td></td><td></td><td>2.00</td><td>0.50</td></tr><tr><td>麸皮 Wheat bran</td><td>3.90</td><td></td><td></td><td></td><td>4.00</td><td></td><td></td><td>4.00</td><td></td><td></td><td></td></tr><tr><td>鱼粉 Fish meal (CP 60.2%)</td><td></td><td>2.00</td><td>3.00</td><td>2.50</td><td>3.90</td><td></td><td></td><td>3.90</td><td></td><td></td><td></td></tr><tr><td>豆粕 Soybean meal（CP 44.0%)</td><td>25.00</td><td>25.30</td><td>27.80</td><td>25.50</td><td>18.00</td><td>23.00</td><td>21.00</td><td>24.00 18.00</td><td>23.00</td><td>21.00</td><td>24.00</td></tr><tr><td>玉米蛋白粉 Corn gluren meal</td><td></td><td>1.00</td><td>3.00</td><td>2.20</td><td></td><td>1.05</td><td>1.80 2.00</td><td></td><td>1.05</td><td>1.80</td><td>2.00</td></tr><tr><td>豆油 Soybean oil</td><td></td><td></td><td>1.20</td><td></td><td></td><td>1.50</td><td>2.00 0.60</td><td></td><td>1.50</td><td>2.00</td><td>0.60</td></tr><tr><td>赖氨酸 Lys（78.4%）</td><td></td><td></td><td></td><td>0.02</td><td>0.15</td><td>0.13</td><td>0.19</td><td>0.11 0.15</td><td>0.13</td><td>0.19</td><td>0.11</td></tr><tr><td>蛋氨酸Met （99.0%)</td><td>0.20</td><td>0.21</td><td>0.23</td><td>0.15</td><td></td><td></td><td>0.90</td><td></td><td></td><td>0.90</td><td></td></tr><tr><td>苏氨酸 Thr （98.5%）</td><td>0.15</td><td>0.20</td><td>0.23</td><td>0.20</td><td>0.20</td><td>0.13</td><td>0.15</td><td>0.09</td><td>0.20</td><td>0.13 0.15</td><td>0.09</td></tr></table></body></html>
+
+<html><body><table><tr><td>石粉 Limestone</td><td>1.04</td><td>1.16</td><td>1.20</td><td>1.30</td><td>0.27</td><td>0.28</td><td>0.39</td><td>0.23</td><td>0.29</td><td>0.28</td><td>0.39</td><td>0.23</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.65</td><td>1.53</td><td>1.70</td><td>1.44</td><td>0.01</td><td>0.04</td><td>0.07</td><td></td><td>0.06</td><td>0.04</td><td>0.07</td><td></td></tr><tr><td>食盐NaCl</td><td>0.23</td><td>0.21</td><td>0.21</td><td>0.19</td><td>0.95</td><td>0.95</td><td>1.10</td><td>1.22</td><td>0.95</td><td>0.95</td><td>1.10</td><td>1.22</td></tr><tr><td>沸石粉 Zeolite</td><td>2.83</td><td>0.39</td><td>0.33</td><td>0.50</td><td>1.38</td><td>0.39</td><td>0.33</td><td>0.50</td><td>2.83</td><td>0.39</td><td>0.33</td><td>0.50</td></tr><tr><td>预混料 Premix1</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>代谢能ME/（MJ/kg）</td><td>11.53</td><td>12.14</td><td>12.75</td><td>12.14</td><td>12.13</td><td>12.77</td><td>13.41</td><td>12.56</td><td>12.53</td><td>13.19</td><td>13.85</td><td>12.98</td></tr><tr><td>粗蛋白质CP</td><td>18.00</td><td>20.00</td><td>22.00</td><td>21.00</td><td>15.75</td><td>17.50</td><td>19.25</td><td>19.00</td><td>14.40</td><td>16.00</td><td>17.60</td><td>16.00</td></tr><tr><td>赖氨酸 Lys</td><td>0.90</td><td>1.00</td><td>1.10</td><td>1.05</td><td>0.84</td><td>0.93</td><td>1.02</td><td>0.98</td><td>0.77</td><td>0.85</td><td>0.94</td><td>0.85</td></tr><tr><td>蛋氨酸Met</td><td>0.41</td><td>0.45</td><td>0.50</td><td>0.46</td><td>0.34</td><td>0.38</td><td>0.42</td><td>0.40</td><td>0.32</td><td>0.35</td><td>0.39</td><td>0.34</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.80</td><td>0.89</td><td>0.98</td><td>0.85</td><td>0.65</td><td>0.72</td><td>0.79</td><td>0.72</td><td>0.61</td><td>0.68</td><td>0.75</td><td>0.65</td></tr><tr><td>苏氨酸Thr</td><td>0.68</td><td>0.75</td><td>0.83</td><td>0.76</td><td>0.69</td><td>0.77</td><td>0.85</td><td>0.74</td><td>0.64</td><td>0.71</td><td>0.78</td><td>0.68</td></tr><tr><td>色氨酸 Trp</td><td>0.19</td><td>0.21</td><td>0.23</td><td>0.19</td><td>0.18</td><td>0.20</td><td>0.22</td><td>0.18</td><td>0.15</td><td>0.17</td><td>0.19</td><td>0.16</td></tr><tr><td>异亮氨酸 Ile</td><td>0.69</td><td>0.77</td><td>0.85</td><td>0.76</td><td>0.63</td><td>0.70</td><td>0.77</td><td>0.73</td><td>0.59</td><td>0.65</td><td>0.72</td><td>0.62</td></tr><tr><td>钙Ca</td><td>0.86</td><td>0.95</td><td>1.05</td><td>1.00</td><td>0.77</td><td>0.85</td><td>0.94</td><td>0.90</td><td>0.72</td><td>0.80</td><td>0.88</td><td>0.80</td></tr><tr><td>有效磷 AP</td><td>0.41</td><td>0.45</td><td>0.50</td><td>0.45</td><td>0.38</td><td>0.42</td><td>0.46</td><td>0.40</td><td>0.36</td><td>0.40</td><td>0.44</td><td>0.35</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of diets: $_ { 1 \sim 2 8 }$ 日龄1 to 28 days of age，VA5 659 IU，VD3 543 IU, $\mathrm { V E 4 0 ~ m g }$ ， $\mathrm { V B } _ { 1 } 3 . 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 }$ （204号$4 \ : \mathrm { m g }$ ，吡哆醇 pyridoxine $3 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 1 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $4 1 . 8 \mathrm { m g }$ ，泛酸 pantothenic acid $1 0 \mathrm { m g }$ ，叶酸 folic acid $1 . 5 ~ \mathrm { m g }$ ，生物素biotin $0 . 1 5 \mathrm { m g }$ ，氯化胆碱 choline chloride $1 0 0 0 \mathrm { m g }$ ，Fe $8 0 ~ \mathrm { m g }$ ， $\mathrm { C u 1 8 . 8 \ m g }$ ， $\mathrm { Z n } 7 4 \mathrm { m g }$ ， $\mathrm { M n } 6 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 6 \ : \mathrm { m g }$ ， $\mathrm { S e 0 . 1 1 ~ m g }$ ； $2 9 { \sim } 5 6$ 日龄 29 to 56 days of age，VA3 560 IU, $\mathrm { V D } _ { 3 } 6 0 3 \mathrm { I U }$ ，VE $2 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 4 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 4 \mathrm { m g }$ ，吡哆醇 pyridoxine $3 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 1 \mathrm { m g }$ ，烟酸 nicotinic acid $1 6 . 2 \mathrm { m g }$ ，泛酸 pantothenic acid $1 0 \mathrm { m g }$ ，叶酸 folic acid $0 . 5 5 \mathrm { m g }$ ，生物素biotin $0 . 1 5 \mathrm { m g }$ ，氯化胆碱choline chloride $7 5 0 \mathrm { m g }$ ，Fe $8 0 ~ \mathrm { m g }$ ， $\mathrm { C u 1 0 . 8 \ m g }$ ， $Z { \mathrm { n } } 6 3 { \mathrm { ~ m g } }$ ， $\mathrm { M n } 6 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 6 \ : \mathrm { m g }$ ，Se $0 . 1 9 \mathrm { m g }$ ； 57\~84 日龄 57 to 84 days of age,VA 1 708 IU, $\mathrm { V D } _ { 3 } 6 5 8 \mathrm { I U }$ ，VE $1 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 1 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 3 \mathrm { m g }$ ，吡哆醇 pyridoxine $3 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 1 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $1 5 . 2 \mathrm { m g }$ ，泛酸 pantothenic acid $1 0 \mathrm { m g }$ 叶酸 folic acid $1 . 5 ~ \mathrm { m g }$ ，生物素biotin $0 . 1 5 \mathrm { m g }$ ，氯化胆碱 choline chloride $5 0 0 ~ \mathrm { m g }$ ，Fe $8 0 \mathrm { m g }$ ， $\mathrm { C u 1 8 . 7 \ m g }$ ， $Z n 6 3 { \mathrm { ~ m g } }$ ， $\mathrm { M n 9 0 m g }$ ， $\mathrm { ~ I ~ } 0 . 6 \ : \mathrm { m g }$ ，Se $0 . 3 ~ \mathrm { m g }$ 。表2同。The same as Table 2.
+
+2计算值。表 2 同。Measured values.The same as Table 2.
+
+# 表2母鸡饲粮组成及营养水平（风干基础）
+
+Table 2 Composition and nutrients levels of diets for female broiler（air-dry basis） %
+
+1\~28 日龄 1 to 28 days
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">低营养水 平组Low nutrient level group</td><td rowspan="2">中营养水 平水平组 Medium nutrient level group</td><td rowspan="2">高营养水 平水平组 High nutrient level group t level</td><td rowspan="2">标准 营养 水平 组 Standa rd nutrien</td><td rowspan="2">低营养水 平组Low nutrient level group</td><td colspan="2">中营养水 高营养水 平水平组 平水平组 Medium</td><td rowspan="2">days 标准 营养 水平 组 Standa </td><td rowspan="2">低营养水 平组Low nutrient level group</td><td rowspan="2">中营养水 平水平组 Medium nutrient level group</td><td rowspan="2">高营养水 平水平组 High nutrient level group</td><td rowspan="2">标准 营养 水平 组 Standa rd nutrie nt</td></tr><tr><td>High nutrient nutrient level level group group</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td>group</td><td></td><td></td><td></td><td>level group</td><td></td><td></td><td></td><td>level group</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corm （CP8.7%）</td><td>62.30</td><td>64.40</td><td>60.00</td><td>61.00</td><td>69.40</td><td>67.00</td><td>67.50</td><td>68.00</td><td>69.40</td><td>67.00</td><td>67.50</td><td>68.00</td></tr><tr><td>次粉 Wheat middling</td><td>4.00</td><td>2.10</td><td></td><td>4.00</td><td></td><td></td><td>2.00</td><td>0.50</td><td></td><td></td><td>2.00</td><td>0.50</td></tr><tr><td>麸皮 Wheat bran 鱼粉 Fish meal（CP 60.2%)</td><td>3.90</td><td></td><td>3.00</td><td>2.50</td><td>4.00 3.90</td><td></td><td></td><td></td><td>4.00 3.90</td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>豆粕 Soybean meal（CP 44.0%）</td><td>24.00</td><td>25.40</td><td>27.60</td><td>25.50</td><td>18.00</td><td>23.00</td><td>21.00</td><td>24.00</td><td>18.00</td><td>23.00</td><td>21.00</td><td>24.00</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td></td><td>1.00</td><td>3.00</td><td>2.20</td><td></td><td>1.05</td><td>1.80</td><td>2.00</td><td></td><td>1.05</td><td>1.80</td><td>2.00</td></tr><tr><td>豆油 Soybean oil</td><td></td><td>0.55</td><td>1.50</td><td></td><td></td><td>1.50</td><td>1.90</td><td>0.60</td><td></td><td>1.50</td><td>1.90</td><td>0.60</td></tr><tr><td>赖氨酸 Lys (78.4%)</td><td>0.09</td><td>0.07</td><td>0.07</td><td>0.02</td><td>0.20</td><td>0.19</td><td>0.26</td><td>0.11</td><td>0.20</td><td>0.19</td><td>0.26</td><td>0.11</td></tr><tr><td>蛋氨酸 Met （99.0%)</td><td>0.17</td><td>0.17</td><td>0.20</td><td>0.15</td><td></td><td></td><td>0.90</td><td></td><td></td><td></td><td>0.90</td><td></td></tr><tr><td>苏氨酸Thr (98.5%)</td><td>0.23</td><td>0.27</td><td>0.30</td><td>0.20</td><td>0.20</td><td>0.13</td><td>0.16</td><td>0.09</td><td>0.20</td><td>0.13</td><td>0.16</td><td>0.09</td></tr><tr><td>石粉 Limestone</td><td>1.05</td><td>1.14</td><td>1.20</td><td>1.30</td><td>0.27</td><td>0.25</td><td>0.35</td><td>0.23</td><td>0.27</td><td>0.25</td><td>0.35</td><td>0.23</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.65</td><td>1.54</td><td>1.70</td><td>1.44</td><td>0.01</td><td></td><td>0.02</td><td></td><td>0.01</td><td></td><td>0.02</td><td></td></tr><tr><td>食盐 NaCl</td><td>0.23</td><td>0.21</td><td>0.21</td><td>0.19</td><td>0.95</td><td>1.00</td><td>1.10</td><td>1.22</td><td>0.95</td><td>1.00</td><td>1.10</td><td>1.22</td></tr><tr><td>沸石粉 Zeolite</td><td>1.38</td><td>0.15</td><td>0.22</td><td>0.50</td><td>1.38</td><td>0.15</td><td>0.22</td><td>0.50</td><td>1.38</td><td>0.15</td><td>0.22</td><td>0.50</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/（MJ/kg）</td><td>11.73</td><td>12.35</td><td>12.97</td><td>12.14</td><td>12.13</td><td>12.77</td><td>13.41</td><td>12.56</td><td>12.53</td><td>13.19</td><td>13.85</td><td>12.98</td></tr><tr><td>粗蛋白CP</td><td>18.00</td><td>20.00</td><td>22.00</td><td>21.00</td><td>15.75</td><td>17.50</td><td>19.25</td><td>19.00</td><td>14.40</td><td>16.00</td><td>17.60</td><td>16.00</td></tr><tr><td>赖氨酸Lys</td><td>0.95</td><td>1.05</td><td>1.16</td><td>1.05</td><td>0.88</td><td>0.98</td><td>1.08</td><td>0.98</td><td>0.77</td><td>0.85</td><td>0.94</td><td>0.85</td></tr><tr><td>蛋氨酸Met</td><td>0.40</td><td>0.44</td><td>0.48</td><td>0.46</td><td>0.32</td><td>0.35</td><td>0.39</td><td>0.40</td><td>0.32</td><td>0.35</td><td>0.39</td><td>0.34</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.77</td><td>0.85</td><td>0.94</td><td>0.85</td><td>0.65</td><td>0.72</td><td>0.79</td><td>0.72</td><td>0.61</td><td>0.68</td><td>0.75</td><td>0.65</td></tr><tr><td>苏氨酸Thr</td><td>0.74</td><td>0.82</td><td>0.90</td><td>0.76</td><td>0.67</td><td>0.74</td><td>0.81</td><td>0.74</td><td>0.58</td><td>0.64</td><td>0.70</td><td>0.68</td></tr><tr><td>色氨酸Trp</td><td>0.19</td><td>0.21</td><td>0.23</td><td>0.19</td><td>0.18</td><td>0.20</td><td>0.22</td><td>0.18</td><td>0.15</td><td>0.17</td><td>0.19</td><td>0.16</td></tr><tr><td>异亮氨酸 Ile</td><td>0.65</td><td>0.72</td><td>0.79</td><td>0.76</td><td>0.59</td><td>0.65</td><td>0.72</td><td>0.73</td><td>0.54</td><td>0.60</td><td>0.66</td><td>0.62</td></tr><tr><td>钙Ca</td><td>0.86</td><td>0.95</td><td>1.05</td><td>1.00</td><td>0.77</td><td>0.85</td><td>0.94</td><td>0.90</td><td>0.72</td><td>0.80</td><td>0.88</td><td>0.80</td></tr></table></body></html>
+
+<html><body><table><tr><td>有效磷 AP</td><td>0.41</td><td>0.45</td><td>0.50</td><td>0.45</td><td>0.38</td><td>0.42</td><td>0.46</td><td>0.40</td><td>0.36</td><td>0.40</td><td>0.44</td><td>0.35</td></tr></table></body></html>
+
+# 1.2 饲养管理
+
+试鸡采用平养，自由采食颗粒料和饮水， $_ { 1 \sim 2 8 }$ 日龄试验阶段：室温保持32℃， $2 4 \mathrm { h }$ 持续光照（白天自然光照，夜间灯光照明)；29\~56 日龄和 57\~84日龄试验阶段在开放鸡舍，采取自然光照，不额外补充光照。其他按常规饲养操作规程饲养和常规免疫程序免疫。
+
+# 1.3 测定指标
+
+# 1.3.1生长性能指标
+
+每阶段试验开始和结束前1天晚22:00断料供水，次日09:00，以重复为单位称重、称剩料，统计耗料量，计算各阶段试验的平均日增重、平均日采食量和料重比，并根据市场原料价格估算增重成本。
+
+# 1.3.2 血浆生化指标
+
+每阶段试验结束时（28、56、84日龄)，每重复选接近平均体重试鸡2只（公母各1只)，采血制备血浆， $- 2 0 \mathrm { ~ \textdegree C }$ 保存待测。采用 Beckman 全自动生化分析仪（CX5型，Beckman仪器公司，美国）及相应分析试剂盒测定血浆中钙、尿酸、尿素氮含量。具体检测方法操作参照试剂盒说明书进行，检测试剂盒均购自南京建成生物工程研究生。
+
+# 1.3.3 胴体品质和胫骨折断力检测
+
+第3阶段试验结束时（84日龄)，每重复选接近平均体重试鸡2只（公母各1只），称重。去羽毛、脚皮、趾壳、喙壳后称重，得到屠体重。半净膛：屠体重去气管、食道、嗪囊、肠、脾脏、胰脏、胆和生殖器官。全净膛：半净膛重去心脏、肝脏、腺胃、肌胃、脂肪及头、脚的重量。保留心脏、肝脏、
+
+肾脏、腺胃、肌胃(去角质膜和内容物)、腹部脂肪、肌胃周围的脂肪和肺脏、肾脏的重量。然后再分割胸肌、腿肌和腹脂（含肌胃周围脂肪），并称重，计算以屠体重为基础的胸肌率、腿肌率和腹脂率。
+
+第3阶段试验结束时（84日龄），每重复选接近平均体重试鸡2只（公母各1只）,完整摘取左侧胫骨，去除表面经膜组织，胫骨用测力仪（INSTRON411型，Instron公司，美国）立即测定胫骨折断强度，测定胫骨折断力。
+
+# 1.3.4 肉品质
+
+第3阶段试验结束时（84日龄）每重复选接近平均体重试鸡2只（公母各1只），将两侧无皮无骨的胸肌完整剥离，去除胸肌周围的脂肪组织等，测定胸肌、pH、肉色、嫩度和滴水损失。
+
+肉色：分别于屠宰后 $4 5 \mathrm { m i n }$ 和 $2 4 \mathrm { h }$ 测定（均在 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下储存)，每个胸肌样品选择3个位置，用色差仪（CR-410型，美能达公司，日本）测定其亮度（L\*）、红度（a\*）和黄度 $( \boldsymbol { \mathsf { b } } ^ { * }$ ）值。
+
+pH：分别于屠宰后 $4 5 \mathrm { m i n }$ 及24、 $7 2 \mathrm { { h } }$ 测定（均在 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下储存）胸肌，用 $\mathsf { p H }$ 计（HI8424型，北京Hanna 仪器科学技术有限公司）对每个胸肌样品选择3个位置检测。
+
+滴水损失：从每个胸肌样品上取一块 $2 . 0 \ \mathrm { g }$ 左右的肌肉，称重并记录，然后悬挂吊在吹气袋中，4℃下储存， $2 4 \mathrm { h }$ 后称量滴水后重。  
+滴水损失 $( \% ) = [$ （滴水前重量-滴水后重量）/滴水后重量] $\times 1 0 0$ 。  
+嫩度：具体操作步骤参照 Jiang 等[19]方法，使用嫩度仪（Instron 4411型，英斯特朗公司，美国）测定。
+
+1.3.5 风味品尝评分测定
+
+风味品尝方法：将每只试验鸡胸肌（84日龄）切成块状放入一个小碗内，用锡箔纸包好，放入大锅蒸 $2 0 \mathrm { m i n }$ ，取出。供品尝的鸡肉全部采用数字编号，隐去样品编号。邀请畜牧专家共12位担任评委，品鉴项目包括：观品色、闻香味、品口感、嚼嫩度和尝鲜味5项内容。各样品品尝间隔采用清水漱口。评分采用5分制，每位评委独立打分。最后计算每块胸肌5个项目的各自平均值。
+
+# 1.4 数据统计分析
+
+对公鸡和母鸡的各个性能指标采用 SPSS17.0软件分别进行方差分析，在差异显著的基础上采用 Duncan 氏法进行多重比较，显著水平为 $P { < } 0 . 0 5$ ，结果用平均值表示。
+
+# 2结果
+
+2.1饲粮营养水平对中速型黄羽肉鸡生长性能的影响
+
+由表3可知，1\~28日龄，公鸡方面，高营养水平组的平均日增重显著高于低营养水平组和中营养水平组（ $P { < } 0 . 0 5$ )，高营养水平组和标准营养水平组的平均日采食量显著高于低营养水平组和中营养水平组（ $\scriptstyle P < 0 . 0 5 )$ ，低营养水平组的料重比显著高于其他营养水平组（ $\cdot P { < } 0 . 0 5 \$ ，低营养水平组和中营养水平营养组的增重成本显著低于高营养水平组和标准营养水平组 $( P { < } 0 . 0 5 )$ ;母鸡方面，低营养水平组的平均日增重显著低于其他营养水平组( $\cdot P { < } 0 . 0 5 \$ )，标准营养水平组的平均日采食量显著高于低营养水平组（ $\cdot < 0 . 0 5 \rangle$ ，中营养水平组的料重比显著低于低营养水平组（ $\cdot P { < } 0 . 0 5 \$ ），低营养水平组和中营养水平组的增重成本显著低于高营养水平组和标准营养水平组( $\cdot P { < } 0 . 0 5 \$ ） $2 9 { \sim } 5 6$ 日龄，公鸡方面，低营养水平组的料重比显著高于其他营养水平组（ $\cdot P { < } 0 . 0 5 \$ )，高水平营养组的增重成本显著高于低营养水平组和标准营养水平组 $( P { < } 0 . 0 5 )$ );母鸡方面，低营养水平组的平均日增重显著低于其他营养水平组( $\cdot P { < } 0 . 0 5 )$ ，中营养水平组和标准营养水平组的平均日采食量显著高于高营养水平组（ $\scriptstyle P < 0 . 0 5 .$ )，低营养水平组的料重比显著高于高营养水平组和标准营养水平组（ $P$ $< 0 . 0 5 \$ )。57\~84日龄，高营养水平组公鸡和母鸡的平均日增重均显著高于标准营养水平组（ $\cdot P { < } 0 . 0 5 \$ )，高营养水平组母鸡的料重比显著低于其他营养水平组（ $\scriptstyle P < 0 . 0 5 .$ ）°
+
+表3饲粮营养水平对中速型黄羽肉鸡生长性能的影响  
+Table 3Effects of dietary nutrient level on growth performance of medium-growing yellow-feathered broilers   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">1~28日龄 1to 28 days of age</td><td colspan="7"></td><td colspan="7">57~84日龄 57 to 84 days of age</td></tr><tr><td>低营养 水平组 Low</td><td>中营养 水平水 平组</td><td>高营养 水平水 平组</td><td>标准营 养水平</td><td>P值 P-value</td><td>低营养 水平组</td><td>中营养 水平水</td><td>29~56日龄 29 to 56 days of age 高营养 水平水</td><td>标准营 养水平</td><td></td><td>P值 P-value</td><td>低营养 水平组</td><td>中营养 水平水</td><td></td><td>高营养 水平水</td><td>标准营 养水平</td><td>P值 P-value</td></tr><tr><td>公鸡</td><td>nutrient level group</td><td>Medium nutrient level group</td><td>High nutrient level group</td><td>组 Standard nutrient level group</td><td>SEM</td><td></td><td>Low nutrient level group</td><td>平组 Medium nutrient level group</td><td>平组 High nutrient level group</td><td>组 Standard nutrient level group</td><td>SEM</td><td>nutrient level group</td><td>Low 平组 Medium nutrient level group</td><td>平组 High nutrient level group</td><td>组</td><td>Standard SEM nutrient level group</td><td></td></tr><tr><td>Male broilers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>11.94c</td><td>13.35b</td><td>14.31a</td><td>13.71ab</td><td>0.22 0.30</td><td>0.01 0.001</td><td>29.13</td><td>30.22</td><td>30.48 30.08</td><td>0.45</td><td>0.307</td><td>19.96ab</td><td>19.87ab</td><td></td><td>17.46b</td><td></td><td></td></tr><tr><td>料重比</td><td>23.84a 2.00a</td><td>24.40a 1.83b</td><td>25.81b 1.80b</td><td>26.05b 1.90b</td><td>0.03</td><td></td><td>80.53 2.76a</td><td>78.27 77.45 2.56b</td><td>78.65</td><td>1.32</td><td>0.299 Λ</td><td>94.48</td><td>92.88</td><td>90.96</td><td>92.03</td><td>1.54</td><td>0.466 0.059</td></tr><tr><td>F/G 增重成 Weight</td><td></td><td></td><td></td><td></td><td>0.001</td><td></td><td></td><td>2.61b</td><td>2.61b</td><td>0.02</td><td>0.001</td><td>4.26</td><td>3.94</td><td>3.95</td><td>4.02</td><td>0.08</td><td></td></tr><tr><td>gain cost/元 母鸡</td><td>6.12b</td><td>5.85b</td><td>6.58a</td><td>6.42a</td><td>0.09 0.1</td><td></td><td>8.01a</td><td>8.11ab 8.29b</td><td>8.03a</td><td>0.08</td><td>0.1</td><td>12.05</td><td>12.51</td><td>12.68</td><td>12.01</td><td>0.24</td><td>0.310</td></tr><tr><td>Female broilers 平日</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADG/g 平均日</td><td>11.07b</td><td>12.47a</td><td>12.20a</td><td>12.65a</td><td>0.17</td><td>0.001</td><td>24.16b</td><td>26.15a</td><td>26.02a 26.45a</td><td>0.38</td><td>0.006</td><td>24.87ab</td><td>24.85ab</td><td>25.65a</td><td>24.43b</td><td>0.25</td><td>0.021</td></tr><tr><td>采食量 ADFIg</td><td>23.10b</td><td>23.54ab</td><td>23.93ab</td><td>24.60a</td><td>0.29</td><td>0.016</td><td>71.62ab</td><td>73.56a</td><td>69.89b 73.51a</td><td>0.79</td><td>0.024</td><td>101.66</td><td>95.27</td><td>99.48</td><td>98.94</td><td>2.33</td><td>0.519</td></tr><tr><td>料重比 F/G</td><td>2.10a</td><td>1.89b</td><td>1.96ab</td><td>1.94ab</td><td>0.02</td><td>Λ 0.001</td><td>2.97a</td><td>2.82ab</td><td>2.77b</td><td>0.05</td><td>0.007</td><td>4.09a</td><td>4.05a</td><td>3.88b</td><td>4.05a</td><td>0.03</td><td>0.010</td></tr><tr><td>增重成</td><td>6.39b</td><td>6.19b</td><td>7.19a</td><td>6.57a</td><td>0.06</td><td></td><td>8.64</td><td>8.53</td><td>2.70b 8.51</td><td>0.16</td><td>0.182</td><td>12.25</td><td>12.55</td><td>12.37</td><td>12.11</td><td>0.11</td><td>0.215</td></tr></table></body></html>
+
+本   
+Weight   
+gain   
+cost/元   
+同行数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。   
+In the same row, values with the same or no letter superscripts mean no significant difference ( $\mathrm { ( } P { > } 0 . 0 5 \mathrm { ) }$ , while with different small letter superscripts mean significant difference ( $\lceil P { < } 0 . 0 5 \rceil$ ). The same as below.
+
+2.2饲粮营养水平对中速型黄羽肉鸡胴体品质的影响
+
+由表4可知，标准营养水平组母鸡的腹脂率显著低于高营养水平组（ $\cdot P { < } 0 . 0 5 \$ ），各营养水平组公鸡的腹脂率无显著差异（ $\mathrm { \Phi } \cdot P { > } 0 . 0 5 \mathrm { \dot { \Omega } }$ )。各营养水平组公鸡和母鸡的屠体率、半净膛率、全净膛率、腿肌率、胸肌率、胫骨折断力均无显著差异（ $P { > } 0 . 0 5 \$ ）°
+
+表4饲粮营养水平对中速型黄羽肉鸡胴体品质的影响  
+Table 4Efects of dietary nutrient level on carcass quality of medium-growing yellow-feathered broilers   
+
+<html><body><table><tr><td>项目Items</td><td>低营养水平组 Low nutrient level</td><td>中营养水平水平组 Medium nutrient level</td><td>高营养水平水平组 High nutrient level</td><td>标准营养水平组 Standard nutrient level group</td><td>SEM</td><td>P值 P-valu</td></tr><tr><td>公鸡 Male broilers</td><td>group</td><td>group</td><td>group</td><td></td><td></td><td>e</td></tr><tr><td>屠体率 Carcass rate/%</td><td>89.75</td><td>90.97</td><td>89.66</td><td>89.25</td><td>0.42</td><td>0.526</td></tr><tr><td>半净率 Half-eviscerated rate/%</td><td>82.46</td><td>83.32</td><td>82.91</td><td>80.81</td><td>0.88</td><td>0.291</td></tr><tr><td>全净率 Eviscerated rate/%</td><td>67.99</td><td>68.16</td><td>70.96</td><td>65.89</td><td>1.37</td><td>0.212</td></tr><tr><td>胸肌率 Breast muscle rate/%</td><td>11.09</td><td>10.59</td><td>10.57</td><td>10.83</td><td>0.34</td><td>0.716</td></tr><tr><td>腿肌率 Leg muscle rate/%</td><td>19.30</td><td>20.12</td><td>19.99</td><td>19.16</td><td>0.41</td><td>0.246</td></tr><tr><td>腹脂率 Abdominal fat rate/%</td><td>2.69</td><td>3.53</td><td>2.08</td><td>3.38</td><td>0.51</td><td>0.222</td></tr><tr><td>胫骨折断力 Tibia breaking force/N</td><td>211.66</td><td>222.82</td><td>235.26</td><td>221.71</td><td>10.24</td><td>0.438</td></tr><tr><td>母鸡 Female broilers 屠体率 Carcass rate/%</td><td>89.72</td><td>90.11</td><td>90.62</td><td>89.56</td><td>0.92</td><td>0.825</td></tr><tr><td>半净率 Half-eviscerated rate/%</td><td>82.57</td><td>82.67</td><td>82.89</td><td>83.19</td><td>0.84</td><td>0.964</td></tr><tr><td>全净率 Eviscerated rate/%</td><td>69.08</td><td>68.76</td><td>68.79</td><td>69.46</td><td>0.63</td><td>0.917</td></tr><tr><td>胸肌率 Breast muscle rate/%</td><td>12.87</td><td>12.38</td><td>12.79</td><td>12.73</td><td>0.43</td><td>0.866</td></tr><tr><td>腿肌率 Leg muscle rate/%</td><td>16.17</td><td>16.74</td><td>17.11</td><td>16.94</td><td>0.37</td><td>0.398</td></tr><tr><td>腹脂率 Abdominal fat rate/%</td><td>6.25ab</td><td>5.66ab</td><td>6.66a</td><td>4.58b</td><td>0.54</td><td>0.047</td></tr><tr><td>胫骨折断力 Tibia breaking force/N</td><td>187.71</td><td>207.60</td><td>188.94</td><td>201.51</td><td>8.34</td><td>0.298</td></tr></table></body></html>
+
+2.3饲粮营养水平对中速型黄羽肉鸡肉品质的影响
+
+由表5可知，高营养水平组公鸡的 $4 5 \mathrm { m i n }$ 肉色 $\boldsymbol { \mathrm { b } } ^ { * }$ 值显著高于低营养水平组和标准营养水平组（ $\cdot P { < } 0 . 0 5 )$ 。饲粮营养水平对公鸡的嫩度、滴水损失、pH无显著影响（ $. P { > } 0 . 0 5 )$ 。饲粮营养水平对母鸡的肉品质均无显著影响（ $\cdot P { > } 0 . 0 5 )$ ）°
+
+表5饲粮营养水平对中速型黄羽肉鸡肉品质的影响  
+Table 5Effects of dietary nutrient level on meat quality of medium-growing yelow-feathered broilers   
+
+<html><body><table><tr><td colspan="2">项目Items</td><td>低营养水平组 Low nutrient level group</td><td>中营养水平水平组 Medium nutrient level group</td><td>高营养水平水平组 High nutrient level group</td><td>标准营养水平组 Standard nutrient level</td><td>SEM</td><td>P值 P-value</td></tr><tr><td colspan="2">公鸡 Male broilers</td><td></td><td></td><td></td><td>group</td><td></td><td></td></tr><tr><td colspan="2">嫩度 Tenderness/N</td><td>40.27</td><td>38.32</td><td>39.23</td><td>42.17</td><td>2.19</td><td>0.646</td></tr><tr><td colspan="2">滴水损失 Drip loss/%</td><td>3.92</td><td>4.18</td><td>4.02</td><td>5.23</td><td>0.36</td><td>0.187</td></tr><tr><td rowspan="7">肉色 Meat color</td><td>亮度L*</td><td>54.03</td><td></td><td>54.17</td><td>53.16</td><td>52.82</td><td>0.70</td><td>0.442</td></tr><tr><td>45 min</td><td>红度a*</td><td>15.88</td><td>15.70</td><td>19.80</td><td>16.40</td><td>2.59</td><td>0.359</td></tr><tr><td></td><td>黄度 b*</td><td>13.16b</td><td>13.43ab</td><td>15.93a</td><td>13.12b</td><td>0.64</td><td>0.018</td></tr><tr><td></td><td>亮度L*</td><td>55.00</td><td>55.35</td><td>54.98</td><td>54.45</td><td>0.78</td><td>0.848</td></tr><tr><td>24h 红度a*</td><td></td><td>13.78</td><td>13.70</td><td>13.75</td><td>14.08</td><td>0.39</td><td>0.429</td></tr><tr><td>黄度 b*</td><td></td><td>13.36</td><td>13.77</td><td>15.65</td><td>13.3</td><td>0.74</td><td>0.070</td></tr><tr><td>45 min</td><td></td><td>5.99</td><td>5.97</td><td>5.96</td><td>5.93</td><td>0.08</td><td>0.958</td></tr><tr><td colspan="2">pH 24 h</td><td>5.77</td><td>5.82</td><td>5.80</td><td>5.76</td><td>0.04</td><td>0.672</td></tr><tr><td colspan="2">72 h</td><td>5.93</td><td>5.97</td><td>5.94</td><td>5.93</td><td>0.04</td><td>0.793</td></tr><tr><td colspan="2">母鸡 Female broilers 嫩度 Tenderness/N</td><td>44.67</td><td>44.43</td><td>38.91</td><td>39.05</td><td>3.13</td><td></td></tr><tr><td colspan="2">滴水损失Drip loss/%</td><td>4.91</td><td>4.18</td><td>4.43</td><td>4.16</td><td>0.39</td><td>0.380 0.442</td></tr><tr><td rowspan="5">45 min</td><td></td><td>55.64</td><td>54.50</td><td>55.07</td><td></td><td></td><td></td></tr><tr><td>亮度L* 红度a*</td><td>14.26</td><td>14.26</td><td>13.78</td><td>55.51 13.85</td><td>0.66 0.34</td><td>0.541</td></tr><tr><td>黄度 b*</td><td>17.36</td><td>16.40</td><td>17.42</td><td>16.98</td><td>0.68</td><td>0.658</td></tr><tr><td>亮度L*</td><td></td><td>57.08</td><td>56.72</td><td>58.19</td><td>0.91</td><td>0.770</td></tr><tr><td>红度a*</td><td>57.49 11.44</td><td>11.55</td><td>11.09</td><td>10.61</td><td>0.55</td><td>0.771 0.488</td></tr><tr><td rowspan="4">pH</td><td>24h</td><td>18.78</td><td>17.06</td><td>18.19</td><td>17.41</td><td>0.88</td><td>0.456</td></tr><tr><td>黄度 b*</td><td></td><td>6.00</td><td>6.06</td><td>6.02</td><td>0.10</td><td></td></tr><tr><td>45 min</td><td>5.75</td><td>5.76</td><td>5.79</td><td>5.86</td><td>0.06</td><td>0.123</td></tr><tr><td>24 h 72 h</td><td>5.70 5.84</td><td>5.85</td><td>5.89</td><td>5.84</td><td>0.02</td><td>0.589 0.480</td></tr></table></body></html>
+
+2.4饲粮营养水平对中速型黄羽肉鸡风味的影响
+
+由表6可知，饲粮营养水平对公鸡和母鸡胸肌的颜色外形、气味、风味、嫩度、多汁性和胸肌大小均无显著影响（ $P { > } 0 . 0 5 )$ 。
+
+表6饲粮营养水平对中速型黄羽肉鸡胸肌风味的影响  
+Table 6Effects of dietary nutrient level on breast muscle flavor of medium-growing yellow-feathered broilers   
+
+<html><body><table><tr><td>项目Items</td><td>低营养水平组Low nutrient level group</td><td>中营养水平水平组 Medium nutrient level group</td><td>高营养水平水平组 High nutrient level group</td><td>标准营养水平组 Standard nutrient level group</td><td>SEM</td><td>P值 P-value</td></tr><tr><td>公鸡 Male broilers</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>颜色外形 Color and shape</td><td>5.25</td><td>4.58</td><td>4.92</td><td>5.00</td><td>0.22</td><td>0.259</td></tr><tr><td>气味 Smell</td><td>5.5</td><td>5.00</td><td>5.17</td><td>5.00</td><td>0.22</td><td>0.424</td></tr><tr><td>风味Flavor</td><td>4.75</td><td>4.75</td><td>4.67</td><td>4.58</td><td>0.20</td><td>0.960</td></tr><tr><td>嫩度 Tendermess</td><td>4.83</td><td>4.75</td><td>4.92</td><td>5.00</td><td>0.21</td><td>0.837</td></tr><tr><td>多汁性 Juicy</td><td>4.58</td><td>4.67</td><td>4.67</td><td>4.67</td><td>0.15</td><td>0.985</td></tr><tr><td>胸肌大小 Breast muscle size/cm²</td><td>104.32</td><td>115.27</td><td>104.58</td><td>104.75</td><td>5.06</td><td>0.475</td></tr><tr><td>母鸡Female broilers 颜色外形 Color and shape</td><td></td><td>4.75</td><td>4.75</td><td>4.83</td><td>0.17</td><td></td></tr><tr><td>气味 Smell</td><td>4.83 5.42</td><td>5.00</td><td>4.75</td><td>4.92</td><td>0.15</td><td>0.975 0.114</td></tr><tr><td>风味Flavor</td><td>4.50</td><td>4.67</td><td>4.50</td><td>4.83</td><td>0.17</td><td>0.429</td></tr><tr><td>嫩度 Tenderness</td><td>4.83</td><td>5.17</td><td>4.83</td><td>4.92</td><td>0.24</td><td>0.699</td></tr><tr><td>多汁性 Juicy</td><td>4.75</td><td>4.67</td><td>4.75</td><td>4.67</td><td>0.28</td><td>0.992</td></tr><tr><td>胸肌大小 Breast muscle size/cm²</td><td>102.46</td><td>114.42</td><td>115.88</td><td>110.15</td><td>4.15</td><td>0.117</td></tr></table></body></html>
+
+2.5饲粮营养水平对中速型黄羽肉鸡血浆生化指标的影响由表7可知，饲粮营养水平对公鸡和母鸡血浆中的钙、尿酸和尿素氮含量均无显著影响（ $P { > } 0 . 0 5 )$ ）°
+
+Table7Efects of dietary nutrient level onplasma biochemical indexes of medium-growing yellow-feathered broilers   
+
+<html><body><table><tr><td></td><td colspan="2">1~28 日龄 1 to 28 days of age</td><td></td><td colspan="9">29~56日龄29 to 56 days of age</td><td colspan="6">57~84日龄 57to 84 days of age</td></tr><tr><td>低营养水</td><td>中营养</td><td>高营养</td><td>标准营</td><td></td><td>P值</td><td>低营养</td><td>中营养</td><td>高营养</td><td>标准营</td><td></td><td>P值</td><td>低营养</td><td>中营养</td><td>高营养</td><td>标准营</td><td></td><td>P值</td></tr><tr><td>平组</td><td>水平水</td><td>水平水</td><td>养水平</td><td></td><td>P-valu</td><td>水平组</td><td>水平水</td><td>水平水</td><td>养水平</td><td></td><td>P-valu</td><td>水平组</td><td>水平水</td><td>水平水</td><td>养水平</td><td></td><td>P-valu</td></tr><tr><td>Low</td><td>平组</td><td>平组</td><td>组</td><td></td><td>e</td><td>Low</td><td>平组</td><td>平组</td><td>组</td><td></td><td>e</td><td>Low</td><td>平组</td><td>平组</td><td>组</td><td></td><td>e</td></tr><tr><td>nutrient</td><td>Medium</td><td>High</td><td>Standard</td><td>SEM</td><td></td><td>nutrient</td><td>Medium</td><td>High</td><td>Standar</td><td>SEM</td><td></td><td>nutrient</td><td>Medium</td><td>High</td><td>Standar</td><td>SEM</td><td></td></tr><tr><td>level group</td><td>nutrient level</td><td>nutrient level</td><td>nutrient level</td><td></td><td></td><td>level group</td><td>nutrient</td><td>nutrient</td><td>d nutrient</td><td></td><td></td><td>level</td><td>nutrient level</td><td>nutrient level</td><td>d nutrient</td><td></td><td></td></tr><tr><td></td><td>group</td><td>group</td><td> group</td><td></td><td></td><td></td><td>level group</td><td>level group</td><td>level</td><td></td><td></td><td> group</td><td>group</td><td>group</td><td>level</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td> group</td><td></td><td></td><td></td><td></td><td></td><td>group</td><td></td><td></td></tr><tr><td>2.21 312.81</td><td>2.10</td><td>2.23</td><td>2.18</td><td>0.06</td><td>0.453</td><td>2.68</td><td>2.64</td><td>2.68</td><td>2.68</td><td>0.05</td><td>0.920</td><td>2.64</td><td>2.63</td><td>2.58</td><td>2.60</td><td>0.04</td><td>0.427</td></tr><tr><td>2.12</td><td>347.76</td><td>344.53</td><td>330.96</td><td>18.59</td><td>0.563</td><td>287.48</td><td>288.29</td><td>250.73</td><td>283.95</td><td>13.03</td><td>0.106</td><td>275.60</td><td>294.10</td><td>283.19</td><td>316.98</td><td>16.91</td><td>0.468</td></tr><tr><td></td><td>2.27</td><td>2.26</td><td>2.33</td><td>0.14</td><td>0.709</td><td>2.48</td><td>2.62</td><td>2.45</td><td>2.64</td><td>0.13</td><td>0.782</td><td>2.07</td><td>1.75</td><td>1.78</td><td>1.84</td><td>0.11</td><td>0.098</td></tr><tr><td>2.28</td><td>2.40</td><td>2.25</td><td>2.31</td><td>0.07</td><td>0.689</td><td>2.56</td><td>2.59</td><td>2.59</td><td>2.55</td><td>0.03</td><td>0.783</td><td>2.60</td><td>2.58</td><td>2.55</td><td>2.54</td><td>0.07</td><td>0.959</td></tr><tr><td>346.40</td><td>347.40</td><td>373.49</td><td>351.64</td><td>14.26</td><td>0.611</td><td>307.49</td><td>304.19</td><td>323.20</td><td>323.59</td><td>15.95</td><td>0.717</td><td>355.42</td><td>329.57</td><td>342.00</td><td>354.67</td><td>17.40</td><td>0.688</td></tr><tr><td>2.40</td><td>2.52</td><td>2.56</td><td>2.37</td><td>0.13</td><td>0.739</td><td>2.53</td><td>2.66</td><td>2.63</td><td>2.53</td><td>0.14</td><td>0.889</td><td>1.83</td><td>1.85</td><td>1.74</td><td>1.58</td><td>0.09</td><td>0.889</td></tr></table></body></html>
+
+0055551 项目Items Male broilers 钙 $\mathrm { \hat { C } a } /$ （mmol/L） 尿酸Uric acid/ （μmol/L) 尿素氮Urea nitrogen/ (mmol/L) 母鸡 Female broilers 钙Ca/（mmol/L） 尿酸Uric acid/ (μmol/L) 尿素氮Urea nitrogen/ (mmol/L) cini
+
+# 3讨论
+
+# 3.1饲粮营养水平对中速型黄羽肉鸡生长性能的影响
+
+肉鸡的生长发育与饲粮中的营养水平有着密切的关系。本试验在1\~28日龄和 29\~56 日龄阶段，低营养水平组平均日增重和平均日采食量都较低，料重比较高。刘琳[20]研究报道不同营养水平对吉林芦花公鸡和母鸡生长性能均无显著影响。李文斌[21]在对爱拔益加（AA)肉仔鸡的试验中发现，低营养水平的饲粮会显著降低AA肉仔鸡的生长性能，这个结果与Fanatico 等[22]研究结果一致。本研究结果显示，高营养水平的饲粮可以提高中速型岭南黄羽肉鸡公鸡和母鸡的平均日增重和平均日采食量，降低料重比。这个结果与王薇薇等[23]以快速型岭南黄羽肉鸡的试验结果相似。谢淑芳等[24]研究发现，高营养水平饲粮显著降低了肉鸡料重比，显著提高了平均日增重。但马淑梅等[25]以北京油鸡为研究对象的结果认为，高营养水平饲粮对于鸡只的平均日增重、平均日采食量和料重比无显著影响。张学余等[26对乌骨鸡的研究报道显示，不同代谢能和粗蛋白质水平对公鸡和母鸡的平均日增重无显著影响。以上研究结果说明，不同品种的肉鸡对于营养水平的差异反应也各不相同。对于饲料企业和养殖农户来说，虽然平均日增重是肉鸡生长的重要指标，但也同时要考虑饲料成本，从而获得更多的经济收益。所以结合本试验生长性能和增重成本的结果，认为1\~28日龄和29\~56日龄，公鸡和母鸡最适营养水平为中营养水平。57\~84日龄，公鸡和母鸡最适营养水平为高营养水平。
+
+# 3.2饲粮营养水平对中速型黄羽肉鸡胴体品质的影响
+
+一般认为屠宰率和全净膛率是衡量鸡只产肉性能的主要指标，屠宰率在 $80 \%$ 以上，全净膛率在 $60 \%$ 以上，认为是产肉性能良好的标志[27]。本试验结果显示，4个组的产肉性能较好。葡淑琴等[28]研究认为，饲喂高营养水平的饲粮可以增加半净膛和胸肌的重量。杨耐德等[29]在对石岐杂鸡的研究中也发现，提高能量水平可以提高石岐杂鸡的屠宰性能。但申春平等[30]研究表明，不同能量和蛋白质水平对黄羽肉鸡的屠宰率和全净膛率没有显著的影响，赵衍铜等[3]也得出这一结论。这可能是因为当能量和蛋白质等营养水平变化不大时，营养水平在一定范围内的变化对中速型黄羽肉鸡的胴体品质无显著影响。周桂莲等[32]研究认为，腹脂是影响肉鸡胴体品质的重要因素，一定范围内，腹脂率随代谢能水平增加呈线性增加，过高能量水平的饲粮易导致家禽过多的脂肪沉积。蛋白质和能量水平均增加，则会引起机体蛋白质和脂肪含量均显著提高[32-33]。由于性激素的差别，母鸡沉积的能力显著高于公鸡[34]。本次试验结果发现，高营养水平组母鸡的腹脂率有显著增加，但是营养水平对公鸡的腹脂率无显著影响，与前人研究结果[34相似。腹部脂肪的积蓄会造成生产者、消费者及加工者的额外损失，但黄羽肉鸡无论从口感还是肉品质上均要求有一定的脂肪沉积[35-36]。从脂肪沉积方面来说，中营养水平组和低营养水平组肉鸡的胴体品质更符合大众对于低脂优质鸡的追求。
+
+3.3饲粮营养水平对中速型黄羽肉鸡肉品质和风味的影响
+
+适宜的饲粮营养水平能够改善鸡肉品质。Tang 等[37研究认为，高饲粮营养水平能够显著降低肌肉的滴水损失和增加pH。随着饲粮营养水平增加，腿肌和胸肌中的含水量减少[37-38]。方立超等[39]研究报道，提高饲粮代谢能水平显著增加了胸肌的pH。肉色是反映肌肉外观和系水力的主要指标，L\*值越低，肉色越暗，a\*值越高，红度越高，b\*值越高，黄度越高。当L\*值超过60，说明肉色苍白，系水力差[40]。本试验结果显示，4个组的肉品质均较好，不同营养水平只对公鸡 $4 5 \mathrm { m i n }$ 的 ${ \mathfrak { b } } ^ { * }$ 值有显著影响作用，高营养水平会显著提高肉色b\*值，对母鸡的肉品质指标均无显著影响。这说明营养水平在小范围内（ $\leqslant 1 0 \%$ ）变化对中速型岭南黄羽肉鸡肉品质影响的不显著。
+
+肉质的感官指标包括气味、鲜味、多汁度、易嚼度等。根据评分标准及品尝规则，评分越高，说明肉质的风味更佳。本试验的结果显示，各组之间的肉质风味无显著差异。李龙等[41]认为，品种间的肌内脂肪含量有较大差异，且与肌肉风味呈显著相关。Arkfield 等[42]报道，猪只自由采食或饲喂不同能量的饲料，猪里脊的味感会产生差异，低程度自由采食组的猪肉多汁性低于高程度自由采食组。根据以上研究说明，肉鸡的肉质风味与品种、饲料添加剂及饲养方式有关，与营养水平的相关性不大。
+
+3.5饲粮营养水平对中速型黄羽肉鸡血浆生化指标的影响
+
+韦志坚等[43]认为，鸡的血浆生化指标在一定程度上可反映机体对营养物质的代谢情况。有研究报道血浆钙、磷含量能在一定程度上反映机体钙、磷的营养状况，但在较宽的饲粮钙水平范围内，体内的钙调控系统能够维持血浆钙含量处于相对稳定的状态。本试验结果与以上研究结论一致，血浆钙含量未受不同营养水平饲粮的影响。血浆中尿酸和尿素氮的含量是反映动物机体对蛋白质的代谢及自身营养情况的重要的指标，蛋白质过高或是过低都不利于机体对氮沉积和蛋白质的利用[4]。刘璐[45]在对广西黄鸡的试验显示，不同的蛋白质含量对血浆尿素含量无显著影响。冯凯玲等[4]的研究中也表明，不同能量、蛋白质水平的饲粮对血浆中尿酸、总蛋白、白蛋白的含量均无显著影响。本试验结果与前人研究一致，不同营养水平对于血浆中的尿酸和尿素氮含量没有显著影响。这说明在小范围调饲粮整营养水平对于机体的蛋白质代谢和钙沉积无显著影响。
+
+# 4结论
+
+综合本试验生长性能、增重成本、胴体品质、肉品质和血浆生化指标等结果，认为在本试验条件下，1\~28日龄，公鸡和母鸡推荐使用中营养水平的饲粮；29\~56日龄，公鸡和母鸡推荐使用中营养水平的饲粮；57\~84日龄，公鸡和母鸡推荐使用高营养水平的饲粮。
+
+# 参考文献:
+
+[1]李莉,卜泽明,罗世乾,等.日粮能量和蛋白水平对桂香雏鸡饲料营养物质表观消化率的影响[J].南方农业学报,2015,46(2):344-348.
+
+[2] MIAH M Y,CHUWDHUKY S D,BHUIYAN A K F H.EItect ot diterent dietary levels ot energy on the growth performance and meat yield of indigenous chicken reared in confinement under therural conditionofbangladesh[J].International Journal of Animal Resources,2016,1(1):53-60.
+
+[3]孙作为.饲养密度和饲粮营养影响肉鸡生长、胴体组成及腿部健康的研究[D].博士学位论文.北京:中国农业大学,2013.
+
+[4] SIKUR V R,ROBINSON F E,KORVER D R,et al.Effects of nutrient density on growth and carcass traits in fast-and slow-feathering female turkeys[J].Poultry Science,2004,83(9):1507 - 1517.
+
+[5]周桂莲,蒋宗勇,林映才,等.22\~42 日龄黄羽肉鸡饲粮粗蛋白质需要量的研究[C]//中国畜牧兽医学会动物营养学分会学术研讨会论文集.北京：中国畜牧兽医学会动物营养学分会，2004.
+
+[6]洪平,蒋守群,周桂莲,等 $. 4 3 \sim 6 3$ 日龄黄羽肉鸡钙需要量研究[J].优质鸡的改良生产暨发展研讨会论文集.[S.l.]:[s.n.],2011.
+
+[7]蒋宗勇,周桂莲,李得忠,等.不同非植酸磷和基因工程酵母菌植酸酶水平对 43-63 日龄黄羽肉鸡生长和胫骨发育的影响[C]//全球肉鸡产业论坛暨第二届中国白羽肉鸡产业发展大会会刊.北京:中国畜牧业协会禽业分会,2010
+
+[8]蒋宗勇,刘小雁,蒋守群,等.43-63日龄黄羽肉鸡锌需要量的研究[J].中国农业科学,2010,43(20):4295 - 4302.
+
+[9]于欢,蒋守群,刘梅,等 $. 1 \sim 2 1$ 日龄黄羽肉鸡钠、氯的需要量[J].动物营养学报,2017,29(3):786 - 797.
+
+[10]周桂莲,林映才,蒋宗勇,等.1\~21日龄黄羽肉鸡饲料赖氨酸需要量的研究[C]//动物营养与饲料研究—一第五届全国饲料营养学术研讨会论文集.珠海:中国畜牧兽医学会动物营养学分会,2006.
+
+[11]席鹏彬,林映才,蒋守群,等.43\~63 日龄黄羽肉鸡可消化蛋氨酸需要量的研究[C]//第六次全国饲料营养学术研讨会论文集.杨凌:中国畜牧兽医学会动物营养学分会,2010
+
+[12]席鹏彬,林映才,蒋宗勇,等.饲粮苏氨酸水平对0\~21日龄黄羽肉鸡生长性能、胴体品质和免疫功能的影响[C]//中国畜牧兽医学会动物营养学分会第十次学术研讨会论文集.杭州:中国畜牧兽医学会动物营养学分会,2008
+
+[13]席鹏彬,林映才,蒋宗勇,等.饲粮色氨酸水平对0\~21日龄黄羽肉鸡生长性能、胴体品质和体成分沉积的影响[C]//中国畜牧兽医学会 2008年学术年会暨第六届全国畜牧兽医青年科技工作者学术研讨会论文集.广州:中国畜牧兽医学会,2008.
+
+[14]郑春田,林映才,蒋宗勇,等.43\~63 日龄黄羽肉鸡异亮氨酸需要量研究[C]/中国畜牧兽医学会动物营养学分会第十次学术研讨会论文集.杭州:中国畜牧兽医学会动物营养学分会,2008.
+
+[15] GAO J,LIN H, WANG X J,et al.Vitamin E supplementation alleviates the oxidative stress induced by dexamethasone treatment and improves meat quality in broiler chickens[J].Poultry Science,2010,89(2):318-327.
+
+[16]杨宽民,蒋宗勇,周桂莲,等.黄羽肉鸡维生素 ${ \bf D } _ { 3 }$ 需要量研究[C]//第六次全国饲料营养学术研讨会论文集.杨凌:中国畜牧兽医学会动物营养学分会,2010
+
+[17]阮栋,蒋守群,周桂莲,等.饲粮维生素 $\mathbf { B } _ { 2 }$ 水平对 $2 2 { \sim } 4 2$ 和 $4 3 { \sim } 6 3$ 日龄黄羽肉鸡生长性能、免疫功能、血清抗氧化指标、肝脏酶活和胴体品质的影响[C]/第六次全国饲料营养学术研讨会论文集.北京：中国畜牧兽医学会动物营养学分会，2010
+
+[18]洪平.黄羽肉鸡维生素A需要量的研究[D].硕士学位论文.广州：华南农业大学,2010.
+
+[19]JIANG S,JIANG Z,LIN Y,et al.Effects of different rearing and feeding methods on meat qualityand antioxidative propertiesin Chinese Yellow male broilers[J].British Poultry Science,2011,52(3):352 - 358.
+
+[20]刘琳.不同营养水平对吉林芦花鸡生长性能和呼吸熵的影响[D].硕士学位论文.长春:吉林农业大学,2017.
+
+[21]李文斌.不同光照制度和营养水平对肉仔鸡生产性能、肉品质及免疫功能的影响[D].硕士学位论文.兰州:甘肃农业大学,2010.
+
+[22] FANATICO A C,PILLAI P B,EMMERT JL,et al.Meat quality of slow-and fast-growing chicken genotypes fed low-nutrient or standard diets and raised indoors or with outdoor access[J].Poultry Science,2007,86(10):2245 - 2255.
+
+[23] 王薇薇,蒋守群,周桂莲,等.不同饲粮营养水平对岭南黄羽肉鸡生产性能和肉品质的影响[C]//第六次全国饲料营养学术研讨会论文集.杨凌:中国畜牧兽医学会,2010:24.
+
+[24] 谢淑芳,刘秀云.饲粮不同能量水平对肉仔鸡生产性能的影响[J].黑河科技,2003(1):11-12.
+
+[25]马淑梅,华登科,郭艳丽,等.饲粮营养水平对黄羽肉鸡生长性能、肉品质和性成熟的影响[J].动物营养学报,2016,28(1):217-223.
+
+[26]张学余,韩威,苏一军,等.饲料能量和蛋白含量对苏禽乌骨鸡日增重的影响[J].江西农业大学学报,2010,32(2):199 - 205.
+
+[27]王福明.普格土鸡屠宰性能及肌肉品质的测定[J].畜禽业,2006(10):33-34.
+
+[28]葡淑琴,李金录,史兆国,等.日粮不同营养水平对黄羽肉鸡屠宰性能及肉品质的影响[J].   
+中国畜牧兽医,2008,35(8):9- 13.
+
+[29]杨耐德,尹福泉,黄晓亮,等.日粮不同营养水平对石岐杂肉鸡屠宰性能及肌肉品质的影
+
+响[J].贵州农业科学,2010,38(7):151-154.
+
+[30]申春平,吴兆林,章明,等.不同日粮、不同品种黄鸡增重及屠宰性能的研究[J].中国禽业导刊,2004,21(5):40.
+
+[31]赵衍铜,张丽萍,马倩,等.日粮不同营养水平对芦花鸡生长性能及屠宰性能的影响[J].饲料工业,2012,33(17):25 - 27.
+
+[32]周桂莲,林映才,蒋守群,等.饲粮代谢能水平对 22\~42日龄黄羽肉鸡生长性能、胴体品质以及部分血液生化指标影响的研究[J].饲料工业,2004,25(3):35-38.
+
+[33] JACKSON S,SUMMERS JD,LEESON S.Effect of dietary protein and energy on broiler carcass composition and efficiency of nutrient utilization[J].Poultry Science,1982,61(11):2224-2231.
+
+[34]陈继兰,赵桂苹,郑麦青,等.快速与慢速肉鸡脂肪生长与肌苷酸含量比较[J].中国家禽,2002,24(8):16 - 18.
+
+[35]刘定发,林勇,蒋隽,等.性别对优质黄羽肉鸡屠体性状和肌肉品质的影响[J].中国畜牧兽医,2005,32(11):23 - 25.
+
+[36]缪宪纲,温汝波,邱立云.优质三黄鸡饲养技术[M].广州:广东科技出版社,1990.
+
+[37]TANG M Y,MA Q G,CHEN X D,et al.Effects of dietary metabolizable energy and lysine on carcass characteristics and meat quality in Arbor Acres broilers[J].Asian-Australasian Journal of Animal Science,2007,20(12):1865 - 1873.
+
+[38] PESTI G M,BAKALLI R I,CERVANTES H M,et al.Studies on semduramicin and nutritional responses:2.methionine levels[J].Poultry Science,1999,78(8):1170-1176.
+
+[39]方立超,宋代军,阚宁,等.饲粮能量和蛋白质水平对肉鸡肉质的影响[J].西南农业学报,2002,15(3):98 - 104.
+
+[40]孙厚法.山东省四个地方鸡种产肉性能和肉品质的比较研究[D].硕士学位论文.泰安:山东农业大学,2015.
+
+[41]李龙,蒋守群,郑春田,等.不同品种黄羽肉鸡肉品质比较研究[J].中国家禽,2015,37(21):6- 11.
+
+[42] ARKFIELD E K,HAMMAN E,BERGER JE,et al.Sensory characteristics of loins from pigs divergently selected for residual feed intake and fed diets difering in energy[R].[S.l.J:Iowa State University,2014:56.
+
+[43]韦志坚,张朝胜,何宝祥,等.广西奶水牛产后主要脂类指标的动态监测[J].广西畜牧兽医,2010,26(1):42 - 43.
+
+[44]代腊,董信阳,袁超,等.日粮中添加缬氨酸对蛋鸡蛋白质代谢、抗氧化及免疫功能的影响[C]//中国畜牧兽医学会动物营养学分会第十一次全国动物营养学术研讨会论文集.长沙:中国畜牧兽医学会动物营养学分会，2012
+
+[45]刘璐.广西东兰乌鸡生长期适宜能量和蛋白质水平的研究[D].硕士学位论文.南宁:广西大学,2016.
+
+[46]巧凯玲,蒋启东,董泽敏,等.夏季不同能量和蛋白水平对 30\~60 日龄麻鸭物质代谢率、血清生化指标和肌肉成分的影响[J].中国家禽,2014,36(5):24-30.
+
+Effects of Dietary Nutrient Level on Growth Performance, Carcass Quality, Meat Quality,Flavor and Plasma Biochemical Parameters of Medium-Growing Yellow-Feathered Broilers   
+LIN Xiajing GOU Zhongyong LI Long HUANG Danghong FAN Qiuli JIANG Shouqun\* (Institute of Animal Science, Guangdong Academy of Agricultural Sciences, State Key   
+\*Corresponding author, professor, E-mail: jsqun3100@sohu.com (责任编辑武海龙)
+
+Laboratory of Livestock and Poultry Breeding, Key Laboratory of Animal Nutrition and Feed Science in South China, Ministry of Agriculture Guangdong Public Laboratory of Animal Breeding and Nutrition, Guangdong Key Laboratory of Animal Breeding and Nutrition, Guangzhou 510640, China)
+
+Abstract: This experiment was conducted to investigate the effects of dietary nutrient level on growth performance, carcass quality, meat quality, flavor and plasma biochemical parameters of medium-growing yellow-feathered broilers. 1 920,1 920 and 1 440 medium-growing Lingnan yellow-feathered broilers at 1,29 and 57 days of age were selected, respectively, the experiment divided into 3 stages,at each stage, the low nutrient level group, medium nutrient level group and high nutrient level group were set up according to our research group standard up or down for yellow-feathered broilers,and the standard nutrient group was set up according to standard of Standard of Chicken Feeding (NY/T 33-2004). There were 6 replicates of male broilers in each group and 6 replicates of female broilers in each group,each replicate had 30 to 40 broilers. The experiment lasted for 84 days. The results showed as follows: 1) during 1 to 28 days of age, for male broilers, the average daily gain (ADG) of high nutrient level group was significantly higher than that of low nutrient level group and medium nutrient level group $( P { < } 0 . 0 5 )$ , the average daily fed intake (ADFI) of high nutrient level group and standard nutrient level group was significantly higher than that of low nutrient level group and medium nutrient level group $( P { < } 0 . 0 5 )$ ,and the feed to gain ratio (F/G) of low nutrient level group was significantly higher than that of other nutrient level groups $( P { < } 0 . 0 5 )$ ； for female broilers,the ADG of low nutrient level group was significantly lower than that of other nutrient level groups $( P { < } 0 . 0 5 )$ , the ADFI of standard nutrient level group was significantly higher than that of low nutrient level group $( P { < } 0 . 0 5 )$ , the F/G of
+
+During 29 to 56 days of age，for male broilers,the F/G of low nutrient level group was significantly higher than that of other nutrient level groups $( P { < } 0 . 0 5 )$ ; for female broilers, the ADG of low nutrient level group was significantly lower than that of other nutrient level groups （20 $( P { < } 0 . 0 5 )$ ， the ADFI of medium nutrient level group and standard nutrient level group was significantly higher than that of high nutrient level group $( P { < } 0 . 0 5 )$ , the F/G of low nutrient level group was significantly higher than that of high nutrient level group and standard nutrient level group $( P { < } 0 . 0 5 )$ . During 57 to 84 days, the ADG of male and female broilers of high nutrient level group was significantly higher than that of standard nutrient level group $( P { < } 0 . 0 5 )$ , and the F/G of female broilers of high nutrient level group was significantly lower than that of other nutrient level groups $( P { < } 0 . 0 5 )$ . 2) The abdominal fat rate of female broilers of standard nutrient level group was significantly lower than that of high nutrient level group $( P { < } 0 . 0 5 )$ . Dietary nutrient level had no significant effects on carcass rate, half-eviscerated rate, eviscerated rate, leg muscle rate, breast muscle rate and tibia breaking force of male and female broilers $( P { > } 0 . 0 5 )$ .3）The $4 5 \mathrm { \ m i n }$ yellowness value of meat color of male broilers of high nutrient level group was significantly lower than that of low nutrient level group and standard nutrient level group $( P { < } 0 . 0 5 )$ . Dietary nutrient level had no significant effects on tenderness, drip loss and $\mathfrak { p H }$ of male broilers $( P { > } 0 . 0 5 )$ ： Dietary nutrient level had no significant effects on meat quality indexes of female broilers $( P { > } 0 . 0 5 )$ . 4) Dietary nutrient level had no significant efects on flavor indexes of male and female broilers $( P { > } 0 . 0 5 )$ . 5）Dietary nutrient level had no significant effects on the contents of calcium, uric acid and urea nitrogen in plasma of male and female broilers $( P { > } 0 . 0 5 )$ . According to the results of growth performance, weight gain cost, carcass quality， meat quality and plasma biochemical indexes in this study, it is concluded that during l to 28 days of age,recommend medium nutrient level diet for male and female broilers; during 29 to 56 days of age,recommend medium nutrient level diet for male and female broilers; during 57 to 84 days of age, recommend high nutrient level diet for male and female broilers.
+
+Key words: yellow-feathered broilers; meat quality; flavor; nutrient level

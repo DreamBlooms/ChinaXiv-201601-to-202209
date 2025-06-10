@@ -1,0 +1,396 @@
+[
+    {
+        "type": "text",
+        "text": "黄河重要水源补给区生态红线划定研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温煜华，王乃昂，严欣荣³(1中共甘肃省委党校经济社会发展研究所,甘肃兰州730070；2兰州大学资源环境学院/干旱区与沙漠研究中心,甘肃兰州730000；3国际竹藤中心竹藤科学与技术重点实验室,北京 100102）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在分析黄河重要水源补给区生态环境特征的基础上，从生态弹性力、生态敏感性和社会经济影响力三方面构建了生态红线划定评价体系，运用GIS空间分析技术构建黄河重要水源补给区的空间属性数据库，采用层次分析法确定了各指标权重，运用空间分析、叠加分析技术将黄河水源补给区分为生态红线区、生态黄线区和生态绿线区，最终确定了各区的生态保护重点及管护对策。研究结果表明：生态红线区占整个区域的 $3 8 . 4 \\%$ ，主要分布在玛曲境内的黄河及其支流的源头、甘南临夏两州农牧交错带和白龙江沿岸地区。生态红线区应该实行最严格的管控措施，严禁各种开发活动。生态黄线区占整个区域的 $3 9 . 1 \\%$ ，主要分布在临夏州南部，甘南州西北部和南部，因其生态战略地位重要，以生态修复和治理为重点，严禁有损主导生态功能的开发建设活动。生态绿线区占整个区域的 $2 2 . 5 \\%$ ，主要分布在临夏州的北部和甘南州的中部，这些地区可进行适度开发，通过生态产业的发展带动经济转型升级和环境保护的良性互动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态红线；生态弹性力；生态敏感性；黄河重要水源补给区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为进一步加强环境保护，我国于2011年首次提出“划定生态红线”的重要战略任务，它是继“18亿亩耕地红线”后的国家层面的生态线。生态红线自提出以来备受关注，学者们作了大量的探索性研究。在内涵界定方面，环保部给出了比较权威的界定，即“在重点生态功能区、生态环境敏感区和脆弱区等区域划定的严格管控边界，是国家和区域生态安全的底线。\"高吉喜、林勇等认为生态红线是由空间红线、面积红线和管理红线共同构成的综合管理体系[1-2]。在生态红线划定方法方面,虽然2014 年环保部印发的《国家生态保护红线一生态功能基线划定技术指南(试行)》对生态红线的划定提出了指导借鉴，但生态问题具有典型的尺度性和区域差异性，不同地区在划定生态红线时应选择能充分体现区域生态环境特征的指标。如渤海地区考虑了环境灾害风险评价[3],草原地区重点评价土地沙化敏感性和防沙固沙功能性[4],喀斯特地区重点评价水土流失敏感性和石漠化敏感性[5],城市地区重点评价生态恢复力和生态敏感性[6]。已有研究借鉴生态承载力和生态安全理论，从生态功能重要性、生态环境敏感性等方面构建生态红线评价指标体系。评价方法采用GIS空间分析技术确定生态红线的空间范围。在生态红线管控方面，分级划定、分类管理的生态红线管控模式为生态红线的可持续管理构建了技术支撑[7-8] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国际上虽然没有“生态红线”的提法，但保护地（protectedarea）与我国的生态红线异曲同工。保护地指的是具有严格地理边界管理的生态保护区域，如国家公园、生态保护地、特殊保护地、特别保育区等[9]。在保护地的划定方法上,有生态要素空间定位界定法、生态功能界定法和主体功能界定法，多数学者倾向于采用生态功能法[10]。在保护地评价指标体系构建中多采用生态功能重要性、生态脆弱性、生态敏感性及人类的干扰影响力等指标[11-12]。在保护地面积的确定上，大多数国家的保护地面积占其国土面积的 $5 \\% \\sim 4 0 \\%$ 之间，对不同的保护地采取分级分类管控[13]。为了增强保护地的连通性,有些国家在保护地之间构建大尺度的绿色廊道或生态网络加强生物多样性保护，如欧洲的绿带计划（TheEuropeanGreenBelt）、美国的绿道网络（AmericanGreenwayNetwork)等。本研究以黄河重要水源补给区为例，以生态承载力为理论基础，试图构建研究区生态红线划定的评价指标体系，确定可操作性的红线划定方法，并提出分区分级的管控对策。这不仅可以完善生态红线划定的理论和方法，而且对维护黄河流域的生态安全，寻求民族地区生态建设与区域经济发展的契合点具有重大现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大江大河的源头是我国重要的生态屏障。黄河重要水源补给区位于黄河上游的青海、甘肃两省，其中青海段属于全国主体功能区划中的“三江源草原草甸湿地生态功能区”。因此本研究将黄河重要水源补给区甘肃段作为研究范围，包括甘南藏族自治州和临夏回族自治州（图1）。它与三江源草原草甸湿地、若尔盖草原湿地、秦巴生物多样性3个国家重点生态功能区相邻，是青藏高原生态屏障的重要组成部分，对维系黄河流域生态安全具有重要作用。区内山峦叠嶂、沟谷纵横、地形错综复杂。区内大部分地处 $3 \\ 0 0 0 \\ \\mathrm { m }$ 以上,年均降雨量 $5 0 0 \\sim 8 0 0 ~ \\mathrm { m m }$ ,寒冷湿润是该区的主要气候特征。独特的地理环境和气候条件孕育了大面积的森林、草地和湿地生态系统。境内有“一江三河”，即白龙江、黄河、洮河、大夏河，河流众多，水资源丰富，是长江、黄河的重要水源涵养区和补给区，有“黄河蓄水池”之称。研究区不仅有涵养水源、维持生物多样性的重要作用，而且可以调节黄河水量、泥沙量，对维持整个流域的生态平衡意义重大。研究区属于民族地区，以畜牧业和旅游业为主，工业发展落后，存在生态环境脆弱和经济发展落后的双重困境。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/37905c78e52d8e9df78bfada6c74dce0752bfd82de60df1c34b092ec1bdfeded.jpg",
+        "img_caption": [
+            "图1黄河重要水源补给区地理位置 Fig.1Location of important water supply region of the Yellow River "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 评价指标体系构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态红线评价借鉴生态功能区划[14 和中国主体功能区划[15]中的区划评价方法，以生态承载力为理论基础构建评价指标体系。生态承载力作为度量可持续发展的核心工具之一，其理论和方法备受关注。承载力研究从资源/环境承载力扩展到生态承载力，研究对象从单一要素扩大到整个生态经济系统。生态承载力通常从支持力和压力两个角度展开，支持力指资源供给量和环境容量的指标，压力指社会经济发展对生态系统的干扰强度[16]。本研究结合研究区的生态环境条件和社会经济发展特征，从生态弹性力、生态敏感性和社会经济影响力3方面来构建生态红线评价指标体系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1生态弹性力指标生态弹性力指生态系统自我维持、自我调节及抵抗各种压力与扰动的能力大小，主要反映生态系统对外界作用的调节和缓冲能力[17]。研究区的生态类型从南向北依次为森林一草地一农地,不同生态类型的生态弹性力是不同的。生态弹性力主要由地形地貌、气候、水文、土壤、植被状况决定，因此，生态弹性力评价主要考虑上述指标。研究区地形起伏较大，对能量和物质的分布产生再分配效应，尤其是白龙江河谷沟壑纵横，使自然环境和生态类型呈现垂直地带性，生态弹性力差异较大，在地形地貌方面选取海拔指标。气候条件中的气温和降水是影响水文和植被的重要因子，进而影响生态系统的结构和功能，在气候方面选择年均气温和年均降雨量两个指标。水文条件为植被生长提供了环境，一般河网密度可以反映区域水资源的丰富程度，因此在水文方面选取河网密度指标。土壤类型和质量决定了土地的生产能力，尤其是土壤中的有机质含量影响植被的生长发育情况，在土壤方面选取土壤有机质含量指标。植被状况对生态系统的稳定性有直接的影响，一般来说，生态系统的植被类型越复杂多样，物种越丰富，生态系统的健康状况越好，生态弹性力就越大。在植被方面选取植被覆盖率和生物丰度指标。上述指标代表了研究区地形、气候、水文、土壤、植被状况等信息，能表征生态系统的状态和弹性力大小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2生态敏感性指标生态敏感性指生态系统对外界干扰所具有的敏感反应和自我恢复能力[18]不同的区域有不同的生态环境问题，研究区南部的甘南州草地面积占总面积的 $70 \\%$ 以上，近年来由于气候暖干化和人类的超载过牧，引起大面积的草地沙化[19],大量的湿地也面临过度利用和土壤盐渍化的问题。北部的临夏州处在青藏高原与黄土高原交接地带，气候干旱，容易引起水土流失。所以该区的主要生态环境问题是土地沙化、水土流失和土壤盐渍化，相应的敏感性指标从土地沙化敏感性、水土流失敏感性和土壤盐渍化敏感性3方面来评价。土地沙化敏感性是由气候的干燥程度、风力大小、植被覆盖和土壤状况所决定的，因此，采用干燥指数、起沙风天数,植被盖度与土壤质地来评价。区域水土流失受到多种因素的影响，降水是水土流失的触发因子，地表起伏度和沟壑密度与水土流失程度成正相关，土壤质地是水土流失的抗性因子。水土流失敏感性是各影响因子综合作用的结果，因此，选取降水侵蚀力、地表起伏度、沟壑密度、土壤质地和植被盖度来评价。土壤盐渍化的发生与发展与地下水、气候和土壤质地关系密切。地卜水水位越高、矿化度越大，植被覆盖率越低，土壤盐渍化就越严重。因此,选取地下水水位、地下水矿化度、降水量/蒸发量比值与土壤质地来评价土壤盐渍化敏感度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3社会经济影响力指标人类活动是引起生态系统变化的重要因素。社会经济发展对生态的影响有两方面，一方面是由于人口增加和生活质量的提高，引起需求增加而产生的生态压力，选取人口密度、农民人均纯收入、人均农牧业总产值、一产GDP比重等指标。另一方面是由于科技进步和社会经济发展，人类逐渐提高的生态环境修复治理能力和潜力，选取人均GDP、GDP年均增长率、城市化水平、人均受教育程度、科技人员比重、环保投入占GDP比重等指标。综合以上分析，构建了黄河重要水源补给区生态红线评价指标体系（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2数据收集与整理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水文数据：河网密度以DEM数据为基础，采用GIS 的水文分析功能自动提取水系，计算每个格网内水系长度后得出。地下水矿化度采用2012 年《甘肃省水土保持区划》的数据。地下水埋深采用2015年甘肃省水利厅对研究区44个井的实测数据。降雨侵蚀力通过对国内外11种计算方法比较，采用比较稳定的月均降雨量法[20]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地貌数据：海拔空间数据是通过将研究区内的SRTM海拔数据转换成分辨率为 $1 \\ \\mathrm { k m } \\times 1 \\ \\mathrm { k m }$ 的栅格获得。地表起伏度是通过ArcMap的空间分析模块的统计功能获得。沟壑密度通过设置合理的汇流阈值，用多流向算法计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气象数据：温度空间数据采用2016年的MO-DIS 影像在ArcMap中进行栅格运算获得。降雨量、蒸发量、大风日数资料由甘肃省气象局提供，包括2007一2016年甘南、临夏16个市县及相邻的青海省的同仁、河南、久治、玛沁及四川省的若尔盖、阿坝共22个县的气象站数据，包括各市县气象站点的编号、经纬度和海拔，各气象站点分析时间尺度内的降雨量 $\\left( 0 . 1 \\mathrm { ~ m m } \\right) ^ { \\cdot }$ ）、蒸发量（ $\\mathrm { ~ ( ~ 0 . ~ 1 ~ ~ m m ~ }$ 、风速（ ${ \\left( 0 . 1 \\mathrm { ~ m ~ } \\cdot \\right. }$ $\\mathrm { ~ s ~ } ^ { - 1 }$ )。湿润度指数采用适合于西北地区的de Mar-tonne 计算公式[21]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤数据：土壤类型图以甘肃省 $1 : 1 \\ 0 0 0 \\ 0 0 0$ 土壤图为基础底图，对研究区的土壤类型进行数字化获得。土壤质地分布图以《甘肃土壤》和《甘肃土种志》为基础，对土壤质地进行分类获得。土壤有机质含量来自《甘肃土壤》中的随机土样测量数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植被数据：植被指数(NDVI)是从地理空间数据云下载2016年陆地标准产品MODIS计算得出（空间分辨率为 $1 ~ \\mathrm { k m }$ ,时间分辨率为16d)，选取7月的数值计算，因为7月的NDVI值为多年平均月NDVI值的最高值，能够充分反映植被覆盖的空间分布差异。上述水文、地貌、气象、土壤、植被的栅格数据是通过插值法得出连续有序的空间分布值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "社会经济数据：通过2016年甘肃省统计年鉴资料获得[22] O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 评价方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究以黄河重要水源补给区所在的甘南临夏两州所辖的县级区为综合评价单元，用 $1 \\ \\mathrm { k m } \\times 1 \\ \\mathrm { k m }$ 栅格单元作为各评价指标的数据载体。评价方法如下：第一，采用层次分析法确定权重。通过向20名专家发放征询问卷，根据其对指标相对重要性的判定构造判断矩阵，计算出各评价指标因子权重（表1)。第二，对评价指标数据进行处理。各评价指标单位不同、量纲各异，对各指标数值采用均值法进行无量纲化处理。各评价指标对生态环境的影响有正负效应之分，对负向指标通过倒数法进行正向化处理[23]。第三,采用加权求和多指标运算,代人模型：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE \\ = \\ \\sum _ { i \\ = 1 } ^ { n } \\ W _ { i } P _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $E$ 为生态红线评价结果值； $Q _ { i }$ 为第 $i$ 个评价指标的权重； $P _ { i }$ 为第 $\\mathbf { \\chi } _ { i }$ 个评价指标的分值； $n$ 为评价指标的数目。在ArcMap中利用地图代数进行运算，按照自下而上的顺序依次计算生态弹性力、生态敏感性和社会经济影响力指标层结果。第四，运用GIS的空间分析技术，对生态弹性力、生态敏感性和",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1黄河重要水源补给区态红线评价因子权重",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a566c43a9d6b110db40c5482be062287dd39c160ebcf9fc2b5bffe1b8ae02d5.jpg",
+        "table_caption": [
+            "Tab.1Weight of assessment factor of water supply region of the YellowRiver "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>评价 综合层</td><td>权重</td><td>评价 项目层</td><td>权重</td><td>评价因子层</td><td>权重</td></tr><tr><td>生态弹 性力</td><td>2.62</td><td>地形地貌</td><td>0.23</td><td>海拔</td><td>0.23</td></tr><tr><td rowspan=\"8\"></td><td>气候</td><td></td><td>0.66</td><td>年均气温</td><td>0.27</td></tr><tr><td></td><td></td><td></td><td>年均降雨量</td><td>0.39</td></tr><tr><td>土壤</td><td></td><td>0.21</td><td>土壤有机质含量</td><td>0.21</td></tr><tr><td>水文</td><td></td><td>0.54</td><td>河网密度</td><td>0.54</td></tr><tr><td>地表覆被</td><td></td><td>0.98</td><td>植被盖度</td><td>0.72</td></tr><tr><td></td><td></td><td></td><td>生物丰度</td><td>0.26</td></tr><tr><td>土地沙化</td><td></td><td>2.68</td><td>干燥度</td><td>0.93</td></tr><tr><td rowspan=\"8\"></td><td></td><td></td><td>起沙风天数</td><td>0.52</td></tr><tr><td rowspan=\"6\"></td><td></td><td>土壤质地</td><td></td><td>0.38</td></tr><tr><td>水土流失</td><td></td><td>植被盖度</td><td>0.85</td></tr><tr><td></td><td>2.13</td><td>降雨侵蚀力</td><td>0.74</td></tr><tr><td></td><td></td><td>地表起伏度</td><td>0.25</td></tr><tr><td></td><td></td><td>沟壑密度</td><td>0.36</td></tr><tr><td></td><td>土壤质地</td><td></td><td>0.21</td></tr><tr><td rowspan=\"6\"></td><td>土壤盐</td><td></td><td></td><td>地表覆盖度</td><td>0.57</td></tr><tr><td>渍化</td><td></td><td>0.84</td><td>地下水位埋深</td><td>0.31</td></tr><tr><td></td><td></td><td>地下水矿化度</td><td></td><td>0.29</td></tr><tr><td></td><td></td><td></td><td>蒸发量/降水量</td><td>0.18</td></tr><tr><td></td><td></td><td></td><td>植被覆盖度</td><td>0.06</td></tr><tr><td>社会经 1.73 济影响</td><td>社会</td><td>0.49</td><td>人口密度</td><td></td><td>0.23</td></tr><tr><td rowspan=\"8\"></td><td></td><td></td><td></td><td>农牧民人口比例</td><td>0.18</td></tr><tr><td></td><td></td><td></td><td>人均受教育程度</td><td>0.08</td></tr><tr><td>经济</td><td></td><td>0.90</td><td>农民人均纯收入</td><td>0.12</td></tr><tr><td></td><td></td><td></td><td>人均GDP</td><td>0.25</td></tr><tr><td></td><td></td><td></td><td>人均农牧业总产值</td><td>0.14</td></tr><tr><td></td><td></td><td></td><td>一产GDP 比重</td><td>0.33</td></tr><tr><td></td><td></td><td></td><td>GDP 年均增长率</td><td>0.06</td></tr><tr><td></td><td>生态治理</td><td>0.34</td><td>科技支出占GDP 比重</td><td>0.11</td></tr><tr><td></td><td></td><td></td><td>生态治理投入</td><td></td><td>0.23</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "社会经济影响力进行叠加分析，根据叠加结果将研究区划分为生态红线区、生态黄线区和生态绿线区。其中，按照《生态保护红线划定技术指南》中的规定，将禁止开发区如国家级自然保护区，国家级风景名胜区、国家级地质公园、国家级森林公园以及重要饮用水水源地均纳入到生态红线区范围。对图上难以明确界定或具有争议的生态红线区边界走向、拐点地理坐标等进行实地勘测，对破碎化的图斑进行聚合处理，形成边界清晰、切合实际的生态红线分布图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 单项评价要素分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.1生态弹性力评价如图2所示，生态弹性力评价结果显示黄河重要水源补给区从北向南生态弹性力指数有逐渐上升的趋势，说明南部的甘南州生态系统比北部的临夏州稳定。但是，甘南州局部地区的生态弹性力指数较小，如甘南州玛曲西南部、夏河西北部、碌曲南部、卓尼与迭部的交界处，其中，玛曲西南部和夏河西北部是由于近年来气候暖干化和人类超载放牧形成的退化草地,碌曲南部主要是退化的湿地，卓尼和迭部的交界处属于洮河林区，自建国以来遭大肆砍伐后生态遭到破坏，近年来人工造林取得显著成效，但人工林的生态功能显著低于自然林，因此，这一地区的生态弹性力较低。一般情况下，影响生态弹性力的因子主要是植被和降水。甘南州的降水量较大，水资源丰富，植被覆盖率高，生态系统类型丰富多样。而临夏州处在青藏高原向黄土高原过渡区，降水量较少，植被稀疏，生态系统自我调节和恢复能力较差，生态弹性力也较低。研究区降水量自南部的甘南州向北部的临夏州逐渐递减（图2a），植被覆盖率随之降低（图2b），生态弹性力也呈递减趋势（图2c）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2生态敏感性评价从土地沙化、水土流失、土壤盐渍化3方面对生态敏感性进行评价。土地沙化高度敏感区分布在甘南州夏河西北，碌曲南部，玛曲西北，迭部北部，临夏州的永靖和东乡（图3a）。其中,夏河西北、碌曲南部、玛曲西北主要是由于超载放牧引起的草地沙化，尤其是玛曲沿黄河地带形成了 $2 2 0 ~ \\mathrm { k m }$ 的流动沙丘带；迭部北部是由于过度砍伐森林引起的土地沙化;临夏州的永靖和东乡主要是由于气候干旱、植被稀少、地表多沙质，在人类不合理的开发下容易引起土地沙化。水土流失高度敏感区主要分布在临夏州的大部分，甘南州的夏河西北、碌曲南部、玛曲西北及白龙江河谷地带（图3b）。其中，临夏州处在青藏高原与黄土高原的交接地带，气候干旱，土质疏松，植被覆盖率低，水土流失面积占土地总面积的 $7 9 . 9 \\%$ 。甘南州的水土流失是由于林草植被破坏引起的。土壤盐渍化高度敏感区主要分布在临夏州的永靖和东乡（图3c），这些地区的蒸发量是降水量的3～5倍，地下水埋深较浅，矿化度较高，容易发生盐渍化。甘南州的玛曲、夏河和迭部也有零星的土壤盐渍化分布，这主要是由于草地、湿地退化引起的。土地沙化、水土流失、土壤盐渍化3 种现象在地域上出现重合，导致临夏州的永靖、东乡和甘南州玛曲西北、碌曲南部、夏河西北、迭部北部成为生态高度敏感区，而太子山、莲花山国家级自然保护区为生态最不敏感的地区（图3d），评价结果与实际相符。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd48e3b4a925d2b9e30d1a6398bb0767eea72f080bc403dd1aa8e1b210a0e0ac.jpg",
+        "img_caption": [
+            "图3黄河重要水源补给区生态敏感性评价 Fig.3Ecological sensitivity evaluation of water supply region of the Yellow River "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.3社会经济影响力评价黄河重要水源补给区的社会经济影响力评价结果见图4。社会经济影响力值越大，表明生态系统受到的压力越大；值越小,表明生态系统受到的压力越小。其中，太子山和莲花山国家级自然保护区在行政区划上既不属于临",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "101°E 103E 101°E 103E   \n37N U 28 □ (a)土地沙化敏感性N (b)水土流失敏感性 N 图例8\\~2.1 A 图例.4\\~1.7 A 2.1\\~2.5 1.7\\~1.9   \n38 4.5\\~4.2 >6.2 30 30 2.9\\~2.7 4.6 300   \nN88 05010km H 330 3.88 T 05010km H 538 101°E 103E 105°E 101°E 103E 105°E 101°E 103°E 105°E 101°E 103E 105°E   \n8N 1 8N 3 1 3N (c)土壤盐渍化敏感性 (d)生态敏感性 图例 N 图例 N 0.6\\~0.8 10.8\\~1.1 A 9.1\\~9.9 9.9\\~13 A 1.1\\~1.8 13\\~20   \n300 1.8\\~2.7 350 32N 20\\~38 30 福 050100 050100   \n8.88 L1 km L 330 338 km L 2.88 101°E 103°E 105°E 101°E 103E 105°E ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "夏州，也不属于甘南州，保护区内人烟稀少，该图中以空白表示。社会经济发展对生态环境影响最大的是临夏州的临夏市及南部的积石山、东乡、广和和康乐，这些地区气候干旱,植被稀疏，近年人口密度高达 $2 2 7 \\sim 4 9 3$ 人· $\\mathrm { k m } ^ { - 2 }$ ，高密度的人口使得农牧产品的需求量增大，大量开垦荒地造成水土流失加剧，对农业生态环境造成巨大威胁，生态环境已经处于超载状态。社会经济影响力较大的临夏州的临夏、和政两县，这些地区第一产业占GDP比重高达$2 7 \\%$ ,单一化的农业结构加剧了生态环境与社会经济发展的矛盾。此区经济落后，科技水平低，对生态环境的修复治理有限，使得已经破坏的生态环境很难改善。社会经济影响力最小的是甘南州的合作和迭部,人口密度为 $3 4 \\sim 4 7$ 人· $\\mathrm { k m } ^ { - 2 }$ ,第一产业所占比重相对较低约为 $1 5 \\%$ ,第二产业已经形成矿产、电力、绿色食品开发等工业体系，对土地的依存度较少，该区也属于全国主体功能区划中的重点生态功能区，国家已投人大量的资金和技术对生态环境进行修复治理。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/653d593aa3e18bf0b5e09ff4eaae3e7a5130cbfb9153c781831a40a9acd44462.jpg",
+        "img_caption": [
+            "图2黄河重要水源补给区生态弹性力评价 Fig.2 Ecological resilience evaluation of water supply region of the Yellow River ",
+            "图4黄河重要水源补给区社会经济影响力Fig.4Social economic influence of importantwatersupply region of the Yellow River"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2生态红线划定结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "叠加生态弹性力、生态敏感性和社会经济影响力评价图层，得到黄河重要水源补给区评价结果（图5），综合评价指数值在 $2 4 . 2 \\sim 9 5 . 6 \\$ 之间,运用GIS的断裂点法将其划分为3个级别： $3 1 . 7 \\sim 9 5 . 6 \\$ 为生态红线区，面积 $1 6 ~ 9 7 6 ~ \\mathrm { k m } ^ { 2 }$ ,占研究区总面积的$3 8 . 4 \\%$ ： $2 7 . 6 \\sim 3 1 . 7$ 为生态黄线区，面积17285$ { \\mathrm { k m } } ^ { 2 }$ ，占研究区总面积的 $3 9 . 1 \\%$ ;24.2\\~27.6为生态绿线区，面积 $9 9 4 6 ~ \\mathrm { k m } ^ { 2 }$ ,占研究区总面积的 $2 2 . 5 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究在单项因子及综合评价的基础上，根据各评价指标的贡献程度，辨识了生态红线区的主导功能和关键生态特征（表2）。研究区内的大量湿地、草地和河流源头是最大的自然资本，理所当然成为生态红线区。生态红线分布面积最大的是甘南州的玛曲，占玛曲总面积的 $4 5 . 9 \\%$ ,处于“高稳定、高敏感和低压\"状态。玛曲降水量大,草地覆盖率高，生物多样性丰富，生态弹性力大;生态敏感性主要表现为草地沙化和退化。近年来施行游牧民定居及异地搬迁后，有效缓解了人口对草地的压力，除金矿开发外，经济社会发展对生态环境的压力较小。玛曲境内大片的草地和湿地就像巨大的蓄水池源源不断地补给黄河，因此，将玛曲境内的红线区命名为玛曲黄河重要水源涵养生态红线区。甘南临夏两州交界处也有大面积的红线区，主要分布在临夏州南部的临夏、和政、康乐,甘南州北部的夏河,包括两州交界处的太子山国家级自然保护区和莲花山国家级自然保护区，这些红线区处于“中等稳定、较高敏感和中压\"状态。由于该区处在农牧交错带，水土流失敏感性指数大，区内的两个国家级自然保护区生态系统复杂多样，物种资源丰富，因此命名为农牧交错带水土保持与生物多样性生态红线区。甘南州的碌曲和合作境内有大片湿地,湿地被称为“地球之肾”，是蓄水调洪的巨大贮库,在涵养水源、维持生物多样性、保护环境方面具有不可替代的作用,因此,将这些区域分别命名为碌曲湿地水源涵养红线区、合作湿地水源涵养红线区。此外,在黄河、长江主要支流的源头都划定了红线区，分别是洮河水源涵养红线区、大夏河水源涵养红线区、刘家峡水库红线区、白龙江沿岸水土保持与水源涵养红线区。生态黄线区主要集中在临夏州南部、甘南州西北部和南部,基本分布在生态红线区的周边。生态绿线区主要分布在临夏州的北部、甘南州的中部,是城镇化和工业化发展的主要承载地。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb3d5c5a6ba3b91427a89509843140e25336c112ef28f38d86d15d768ddc25d6.jpg",
+        "img_caption": [
+            "图5黄河重要水源补给区生态红线、黄线、绿线分区 Fig.5Division of red line，yellow line and green line of ecological protection in important water supply region of the Yellow River "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c6361346ab3759a915ef2834d3050b4103c488239fb2dc9099d14abb783789b.jpg",
+        "table_caption": [
+            "表2红线区的划分及分布情况",
+            "Tab.2Division and distribution of red line area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>红线区</td><td>分布情况</td></tr><tr><td>水源补给涵养</td><td>玛曲大部分、碌曲湿地、合作湿地、洮河水源、大</td></tr><tr><td>红线区</td><td>夏河水源、刘家峡水库</td></tr><tr><td>水土保持与生</td><td>临夏州南部的临夏、和政、康乐，甘南州北部的</td></tr><tr><td>物多样性红线</td><td>夏河，包括甘南、临夏两州交界处的太子山国家</td></tr><tr><td>区</td><td>级自然保护区和莲花山国家级自然保护区</td></tr><tr><td>水土保持与水 源涵养红线区</td><td>白龙江沿岸</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3分区管控措施",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生态红线区是水源涵养、水土保持和生物多样性保护的重要生态功能区，是生态保育与修复的关键地区，也是研究区生态环境基底的“源”和“汇”。它的生态战略地位重要，对维护黄河流域生态安全具有决定意义，要实行最严格的管控措施。在生态红线区内禁止一切与生态保护无关的开发建设活动、禁止工业化城镇化等开发活动。将来应明确生态红线区的人口与企业退出机制、产业环境准入标准、自然资源资产产权和用途管制、生态补偿、绿色GDP考核等政策导向，只有对生态红线区建立严格的制度保障，才能保证红线的落地。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生态黄线区在维持生态系统稳定中发挥着重要作用，关系到较大范围的生态安全，其级别仅次于生态红线区。生态黄线区基本分布在生态红线区的周边，是介于生态红线区和生态绿线区的过渡地区。本质上，生态黄线区是一种弹性区域，可以根据区域发展战略发挥不同的空间功能。当区域开发以扩张为主时，可作为城镇发展的后备空间资源；当区域发展以收缩保护为主时，可作为生态保护缓冲区。生态黄线区在国土开发过程中，要以保护生态本底为主，允许不影响主导生态功能的适度开发建设活动，以保持区域生态产品供给能力，但应该限制大规模高强度工业化城镇化开发，禁止高污染、高能耗类工业发展，不断降低资源消耗量和污染物排放量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生态绿线区的生态承载力较高，生态环境功能较弱，适宜进行适度规模的开发活动。但由于研究区的生态战略地位重要，生态绿线区在开发过程中，应充分利用生态优势，大力发展生态产业。利用得天独厚的天然优质草场和畜种资源，推进生态畜牧业产业化发展。利用原始的自然风光、浓郁的民俗风情和厚重的宗教文化，发展生态旅游。围绕水电、风电和太阳能的规模化开发，构建清洁能源产业体系。通过构建绿色低碳的现代产业体系，实现生态环境建设和经济发展的双赢。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "黄河重要水源补给区作为我国西部生态屏障的要冲，探索该区生态红线划定方法，确定生态红线划分结果，并提出相应的管护对策，为我国江河源区生态红线划定和保护提供了参考借鉴",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）构建生态红线评价指标体系。生态红线划定是一项涉及多学科的系统工程，不仅涉及地理学、生态学等学科，也涉及到GIS等空间分析技术的应用。由于生态环境问题具有典型的尺度性和区域差异性，因此，选择能表征生态系统特征和功能的指标体系，是划定生态红线的关键。本研究以黄河重要水源补给区为例，在构建生态红线评价体系过程中，不仅考虑区域生态环境自身的特征，而且考虑了社会经济活动对生态环境的影响，并将其影响从生态压力和能动性改造两方面来评价，充分体现了社会经济与生态系统是一个统一体，各要素之间相互影响、相互制约的系统观。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）确定生态红线区。运用GIS空间分析技术，通过综合评价分级，将研究区划分为生态红线区、生态黄线区和生态绿线区。其中，生态红线区占研究区总面积的 $3 8 . 4 \\%$ ,这相较于国外的生态保护地的面积 $( 5 \\% \\sim 4 0 \\%$ )较合理，但相较于国内相关研究划定的其他地区红线占比( $1 8 \\% \\sim 2 4 \\%$ )稍高，这是因为研究区16个市县中有11个市县属于国家主体功能区划中的甘南黄河重要水源补给生态功能区，生态战略地位非常重要，因此红线面积所占比例较大也是合理的，因为生态红线区面积太小势必会影响保护效果。本研究划定的生态红线区均是生态功能强、生态敏感性高、生态战略地位重要的地区，评价结果基本符合研究区生态系统的实际情况",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）实行生态红线的制度保障",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "目前，很多地区都在尝试生态红线分区管理模式和分级分类管控措施。本研究划定了不同类型的生态红线区、生态黄线区和生态绿线区，并明确了各区的主导生态功能，提出红线严控、黄线调控、绿线开发的差别化管理,有助于进一步完善生态红线的管理机制。为有效保障生态红线，必须从制度、体制、机制入手，建立生态红线的根本保障。生态红线要实行“源头严防、过程严管、后果严惩”制度。明确生态红线在国土空间中的优先地位，将其作为空间规划编制的基础。通过建立监测网络和监管平台，强化执法监督，实现过程严管。强化评价考核和责任追究，对于生态红线保护好的地区，加大生态补偿力度;对于造成破坏的，严格追究责任。只有实行最严格的制度保障，才能保证生态红线的落地。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］高吉喜,邹长新，郑好.推进生态保护红线落地保障生态文明",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "制度建设[J].环境保护,2015,43（11）：26-29.［GAO Jixi, ZOU Changxin,ZHENG Hao.Promote the ecological protection red fall to the ground and guarantee the construction of ecological civilization[J].Environmental Protection,2015,43（11）:26-29.]   \n[2]林勇,樊景凤,温泉,等.生态红线划分的理论和技术[J].生态 学报,2016,36（5）:1244-1252.［LIN Yong,FAN Jingfeng, WEN Quan,et al.Primary exploration of ecological theories and technologies for delineation of ecological redline zones[J].Acta Ecologica Sinica,2016,36(5）:1244-1252.]   \n[3］许妍,梁斌,鲍晨光,等.渤海生态红线划定的指标体系与技术 方法研究[J].海洋通报,2013,32(4）:361-367.[XUYan,LIANG Bin,BAO Chenguang,et al.Research on the index system and the technical methods of ecological red line division for the Bohai Sea[J].Marine Science Bulletin,2013,32(4):361-367.]   \n[4］冯宇.呼伦贝尔草原生态红线区划定的方法研究[D].北京： 中国环境科学研究院,2013.［FENG Yu.Research on method of ecological red line area delineation in Hulunbeir Grassand[D]. Beijing:Chinese Academy of Environmental Sciences,2013.]   \n[5］杨世凡,安裕伦,王培彬,等.贵州赤水河流域生态红线区划分 研究［J].长江流域资源与环境,2015,24（8）：1405－1411.[ YANG Shifan,AN Yulun,WANG Peibin,et al.Study of ecological red-line zones in Guizhou Chishui River Basin[J].Resources and Environment in the Yangtze Basin,2015,24(8）:1405-1411.]   \n[6］张晓瑞,贺岩丹,方创琳,等.城市生态环境脆弱性的测度分区 与调控［J].中国环境科学,2015,35（7）：2200－2208.[ ZHANG Xiaorui,HE Yandan,FANG Chuanglin,et al. Measurement zoning and control of urban eco-environmental vulnerability [J].China Environmental Science,2015,35（7）:2200 -2208.]   \n[7］邹长新,王丽霞,刘军会.论生态保护红线的类型划分与管控 [J].生物多样性,2015,23（6）:716-724.［ZOUChangxin, WANG Lixia,LIU Junhui. Classification and management of ecological protection redlines in China[J].Biodiversity Science, 2015,23(6) :716 -724.]   \n[8］喻本德,叶有华,郭微,等.生态保护红线分区建设模式研 究——以广东大鹏半岛为例[J].生态环境学报,2014,（6)： 962-971.[YU Bende,YE Youhua,GUO Wei,et al.Research on the partition construction mode for ecological essential line:A case study in Dapeng Peninsula,Guangdong Province[J]. Ecology and Environmental Sciences,2014,(6） :962 -971.]   \n[9]ERVIN J. Protected area assessments in perspective[J]. Biological Science,2003,(53）:819 -822.   \n[10]LIU JG,MOONEY H,HULL V,et al. Systems integration for global sustainability[J]. Science,2015,（347） :963-969.   \n[11］DAY JC. Zoning-lessons from the Great Barrier Reef Marine Park [J].Ocean & Coastal Management,2002,45(2）:139 -156.   \n[12]HALPERN B S,WALBRIDGE S,SELKOE K A,et al. A global map of human impact on marine ecosystems[J]. Science,2008, 319(5865):948 -952.   \n[13］刘冬,林乃峰,邹长新,等.国外生态保护地体系对我国生态保 护红线划定与管理的启示[J].生物多样性,2015,23（6）： 708 -715.[LIU Dong,LIN Naifeng,ZOU Changxin,et al.Development of foreign ecological protected areas and linkages to ecological protection redline delineation and management in China[J]. Biodiversity Science,2015,23(6):708-715.]   \n[14］邓铭江,樊自立,徐海量,等.塔里木河流域生态功能区划研究 [J].干旱区地理,2017,40（4）:705-717.[DENG Mingjiang, FAN Zili,XU Hailiang,et al.Ecological function regionalization of Tarim River Basin[J].Arid Land Geography,2017,40(4):705- 717.]   \n[15］樊杰.中国主体功能区划方案[J].地理学报,2015,（2）:186- 201.［FAN Jie.Draft of major function oriented zoning of China [J].Journal of Geographical Sciences,2015,（2）:186 -201.]   \n[16]向芸芸,蒙吉军.生态承载力研究和应用进展[J].生态学杂 志,2012,31（11）:2958 -2965.[XIANG Yunyun,MENG Jijun. Research and application advances in ecological carrying capacity [J]. Chinese Journal of Ecology,2012,31（11）:2958-2965.]   \n[17］高吉喜.可持续发展理论探讨—生态承载力理论、方法与应 用[M].北京:中国环境科学出版社,2001:22-25.[GAO Jixi. Theory of sustainable development :Theory,method and application of ecological carrying capacity[M]. Beijing:China Environmental Science Press,2001:22 -25.]   \n[18］乔青,高吉喜,王维,等.生态脆弱性综合评价方法与应用[J]. 环境科学研究,2008,21(5）:117-123.[QIAO Qing,GAO Jixi, WANG Wei,et al.Method and application of ecological frangibility assessment[J].Research of Environmental Sciences,2008,21 (5):117 -123.]   \n[19］王生荣,李巍,王录仓.人地关系视角下的少数民族生态脆弱 区城镇化问题研究——以甘南藏族自治州为例[J].农业现代 化研究,2013,34（3）:333-337.[WANG Shengrong,LI Wei, WANG Lucang.Urbanization of ecologically fragile and national minority areas from perspective of human-land relationship :Gannan Tibetan Autonomous prefecture as an example[J].Research of Aagricultural Modernization,2013,34(3）:333-337.   \n[20］胡琳,苏静,桑永枝,等.陕西省降雨侵蚀力时空分布特征[J]. 干旱区地理,2014,37（6):1101-1107.[HU Lin,SU Jing, SANG Yongzhi,et al. Spatial and temporal characteristics of rainfall erosivity in Shaanxi Province[J].Arid Land Geography,2014, 37(6) :1101 -1107. ]   \n[21］韩宇平,张冰,黄会平,等.华北平原干燥度指数时空分布特征 及其影响因素分析[J].干旱区地理,2016,39(4):695－703. [ HAN Yuping,ZHANG Bing,HUANG Huiping,et al. Spatial-temporal characteristics of aridity index and its influencing factors in North China Plain from 1960 to 2014[J].Arid Land Geography， 2016,39(4) :695 - 703.   \n[22］甘肃省统计局.甘肃统计年鉴［M].北京：中国统计出版社， 2016:43 -91.[Gansu Statistics Bureau. Gansu statistical yearbook [M].Beijing:China Statistics Press,2016:43-91.]   \n[23］陈国宏,李美娟.基于方法集的综合评价方法集化研究[J].中 国管理科学,2004,12（1）:101-105.[CHEN Guohong,LI Meijuan.The research on the comprehensive evaluation method integration based on method set[J].Chinese Journal of Management Science,2004,12(1) :101-105.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Determination of ecological red line of important water supply region of the Yellow River ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WEN Yu-hua’, WANG Nai-ang2,YAN Xin-rong? (1 GansuProvincialPartyhoolofCPC,ResearchIstituteofEconomicandSocialDevelopment,Lanzhou30o,Gansu,ina;   \n2College of Resource and Environment Science,Lanzhou University,Lanzhou 730ooo,Gansu,China;   \n3InternationalCenterofamboondRattn,KeyLabfamboondRattanScienceandTchnology,Bijing,Cina) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Based on characteristics of ecological environment in important water supply area of the Yellow River, China,the index systemand methodology was built from the ecological resilience,ecological sensitivityand social economic influence.Using GIS technique to construct spatial database,index weight was determined by Analytic Hierarchy Proces.Through the overall analysis and spatial analysis,the important water supply area ofthe Yellow River was divided into three regions whichareecological red line region,ecological yellw lineregion and ecological green line region,and it furtherclarify the countermeasures for management and protection of three regions.In the process of construction ofevaluation system,itconsider notonly characteristic of ecological environment,but also the impact of human activities onthe ecological environment,and evaluate from two aspects of ecological presure and active transformation,which reflects a systematic view thatthe human andecological system is aunifiedbody.The results showed that red line region account for $3 8 . 4 \\%$ of entire area which mainly distributed in the Yellow River in Maqu Countyand its the source of tributaries,the ecotone between agricultureand animal husbandry of two prefectures of Gannan and Linxia,and the shoreside areas of Bailongjiang River.It can be divided into many types,such as the Yelow River water conservation area in Maqu County,soil and water conservation and biodiversityarea in the farming-pastoral ecotone in Gannan and Linxia Prefectures,wetland water conservation area in Luqu County,wetland water conservation area in Hezuo County,riverhead water conservation area of Daxia River,riverhead water conservation areaof Taohe River,soil and water conservation areaof Bailongjiang riverside,and waterconservation area of Liujiaxia Reservoir.It should implement the most stringentcontrol measures,prohibit allkinds ofdevelopmentactivities in ecological red line area.The yellow line region account for $3 9 . 1 \\%$ of entire area,mainly distributed in the south of Linxia,northwestand southofGannan.Becauseof its important ecological strategic position,ecological rehabilitationand governanceare the key points,andthe development and construction activities thatare detrimental to the ecological functions are strictly prohibited. The green line region account for $2 2 . 5 \\%$ of entire area,mainly distributed in the north of Linxiaand in the middle of Gannan.These areas should be moderate development,promotethe transformation and upgrading of industryand thepositive interaction of environmental protection through the development of ecological industry. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:ecological red line；ecological resilience；ecological sensitivity；important water supply area of the Yellow River ",
+        "page_idx": 8
+    }
+]

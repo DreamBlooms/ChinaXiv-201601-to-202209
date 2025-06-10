@@ -1,0 +1,248 @@
+# 土中水膜厚度变化规律及未冻水含量预测方法
+
+万旭升，颜梦宇，路建国，晏忠瑞(西南石油大学土木工程与测绘学院，四川成都610500)
+
+摘要：未冻水含量改变直接影响冻土的热力学及变形特性,也是水热数值计算的关键条件。为了探究未冻水含量变化规律,首先采用等效粒径表征土颗粒粒径分布,将土体简化成等效粒径球状堆积体系。其次考虑简单立方堆积和立方最密堆积平均的堆积方式,基于多孔介质预融理论,提出土中未冻水含量的计算方法，并通过试验数据验证其合理性。最后分析了杂质密度以及有效粒径大小对水膜厚度以及未冻水含量的影响。研究结果表明：土颗粒表面电荷密度引发的自由能对水膜厚度的改变极易受杂质浓度的影响，随着浓度增大，土颗粒表面电荷对水膜的影响越来越小。土中液态水含量主要由土颗粒表面水膜厚度变化来决定，当等效颗粒减小时，通过间隙水求解的未冻水体积比例逐渐增大,并且在较低浓度时发挥更大作用。对于较大颗粒土，未冻水含量模型预测效果好。当粉质黏土、黄土、砂土等效粒径分别缩小0.28、0.3、0.36倍时，未冻水体积含量计算结果与试验值吻合较好。
+
+关键词：预融；未冻水含量；等效粒径；杂质浓度；表面电荷密度
+
+我国冻土面积分布广泛，多年冻土和季节性冻土面积之和超过国土面积的 $7 0 \% ^ { [ 1 ] }$ 。寒区工程建设面临因水热相互作用引发的冻胀融沉现象，严重制约着公路、铁路以及构筑物等基础设施建设。水分是土体发生冻融的物质基础，未冻水含量的改变直接影响冻土的热力学及变形特性。同时，未冻水含量随温度变化规律也是水热数值计算的必要条件。
+
+已有试验研究表明冻土中的未冻水主要受土质、外界条件（包括温度和压力）盐分以及冻融过程等因素的影响[2-5]。水分冻结随着土体颗粒粒径减小、含盐量增加、液体饱和度减小、土颗粒活化比表面积增大而难度增加[]。随着测试技术的不断发展,核磁共振法、时域反射法和频域反射法等[6-9]广泛运用在未冻水含量测试中，通过信号值与温度的对应关系回归不同温度下的未冻水含量值，建立未冻水含量-温度关系。Anderson和Tice[10]通过大量室内试验，依据试验数据首次发现未冻水含量随温度降低呈现指数函数减小，并给出了经验公式。随后,此种关系得到了进一步改进及发展[12]。Clap-eyron方程建立了冰、水压力与温度之间的联系，被广泛运用到水热模型计算中[13-15],该方程阐明了水分冻结主要取决于冰水压力的变化。Shoop和Bi-gl[1通过土水特征曲线获取了冻融过程中的水分冻结曲线并预测了未冻水含量随温度变化规律。Zhang等[17]考虑了土孔隙中冰对水的吸附作用，改进了一般的土体冻结曲线。基于毛细管压力理论，Dall'Amico等[18]通过将Clapeyron方程和源于vanGenuchten模型的土-水特征曲线相结合，建立了水分冻结曲线与土水势的关系，随后就有学者证明了此方法的合理性[19]。Sheshukov 和Niber[20]结合简化后的Clapeyron方程，拓展了未冻水含量预测公式，在土水特征曲线中引入了残余含水量。也有学者根据孔隙大小分布函数，基于孔隙水从大孔隙到小孔隙的冻结顺序，建立了理想成冰条件下的土中水冻结模型[21-22]。Hitchcock等[23]基于均匀成核理论、孔隙堵塞及单一孔隙理论阐释了液体在介孔材料冻融滞后机理。
+
+多孔介质中冰晶预融现象为未冻水含量的求解提供了新的思路。Cash等4基于预融理论建立了负温下等粒径球状颗粒堆积体系的液态水比例组成，并将未冻水含量简化为过冷度的函数。Wet-tlaufer[25揭示了冰-液接触面以及冰晶表面内在联系，预融行为明显受介质中杂质的影响。Hendrik和Wettlaufer[26]考虑了多孔介质中杂质浓度以及固体颗粒表面电荷密度的影响，建立了理想等颗粒体系预融理论。然而，由于土中土颗粒粒径范围分布较广泛，预融理论在土中并未得到广泛的应用。本文在已有多孔介质预融理论的基础上，提出针对土体的体积未冻水含量计算方法，并分析了杂质浓度以及颗粒粒径大小对未冻水含量的影响。
+
+# 1预融理论
+
+在一个理想等半径球状固体堆积体系中， $0 \mathrm { { ^ { \circ } C } }$ 以上纯水充满固体颗粒间隙，假定固体颗粒为均质的、各向同性且表面光滑，且在超低温下孔隙水全部相变为冰晶。发生预融(冰晶开始融化)之前，所有间隙中充满冰晶，当温度上升后，冰晶开始融化，水分的存在形式有薄膜水和间隙水，如图1所示。薄膜水主要存在土颗粒表面和冰晶接触面，而间隙水主要存在于冰晶与土颗粒所包围的间隙中，其存在温度由冰-液弯曲界面决定。
+
+![](images/f7d17e9ab80e096c31417c8d43ea1366f1780922cd3ef8e5ece8c16e1efa1461.jpg)  
+图1多孔介质中液态水存在形式  
+Fig.1 Existence form of liquid water in porous medium
+
+基于多孔介质预融理论，Cash等[24]首次建立了两种常见堆积，简单立方堆积（SimpleCubicPack-ing,SC)和立方最密堆积(Face-CenteredCubic Pack-ing,FCC），其颗粒排列方式如图2所示。堆积体系中液态水的比例与薄膜厚度、颗粒半径以及冰-液接触面半径之间的关系，如公式(1)所示。
+
+$$
+f _ { l } ( \mathrm { S C } ) = \frac { 3 } { R } f _ { \mathrm { p } } ( \mathrm { S C } ) d _ { \mathrm { p } } + \frac { 3 ( 4 - \pi ) } { 8 } \frac { 1 } { R } d _ { \mathrm { \scriptsize { \mathrm { g b } } } } + \frac { 3 } { 4 } \pi \frac { r ^ { 2 } } { R ^ { 2 } } + \frac { 9 } { 8 } \pi \frac { r ^ { 2 } } { R ^ { 2 } }
+$$
+
+$$
+f _ { \mathit { l } } ( \mathrm { F C C } ) { = } \frac { 3 } { R } f _ { \mathrm { p } } ( \mathrm { F C C } ) d _ { \mathrm { p } } + \sqrt { 2 } ( \sqrt { 3 } - \pi / 2 ) \frac { 1 } { R } d _ { \mathrm { \mathrm { g b } } } +
+$$
+
+![](images/c7c192957411b83f5b8b9f66c16662edeadd551fc6c7cfc8b585abd8f225953a.jpg)  
+图2等粒径颗粒排列方式  
+Fig.2Arrangement of uniform size particle
+
+式中： $f _ { \mathrm { p } } ( \mathrm { S C } )$ 和 $f _ { \mathrm { p } } ( \mathrm { F C C } )$ 分别表示SC和FCC排列下颗粒占总体积的百分比(填充率)； $f _ { \mathrm { p } } ( \mathrm { S C } ) { = } 0 . 5 2 3 6 ^ { [ 2 4 ] }$ $f _ { \mathrm { p } } ( \mathrm { F C C } ) { = } 0 . 7 4 0 5 ^ { [ 2 4 ] }$ 。 $R$ 表示颗粒半径; $d _ { \mathrm { p } }$ 表示冰颗粒和固体颗粒之间的水膜厚度； $d _ { \mathrm { g b } }$ 表示冰颗粒之间的水膜厚度； $f _ { \mathrm { p } }$ 是球体颗粒占总体积的比例。 $\boldsymbol { r }$ 表示冰液接触面的半径；其大小会影响冻结温度；可通过Gibbs-Thomson关系确定[27]
+
+若不考虑系统杂质及表面带电时，固体颗粒表面薄膜厚度d可用公式(2)计算[24.26]
+
+$$
+d = \left( - \frac { \mathrm { A _ { H } } T _ { m } } { L _ { w i } \rho _ { l } 6 \pi \Delta T } \right) ^ { \frac { 1 } { 3 } }
+$$
+
+式中： $\triangle T$ 表示过冷度，即初始冻结温度降低值（与$2 7 3 . 1 5 \mathrm { K }$ 的偏差值)。 $L _ { u i }$ 表示冰水相变潜热 $\left( \mathrm { J } { \cdot } \mathrm { m o l } ^ { - 1 } \right)$ 。$\rho _ { l }$ 是孔隙溶液摩尔密度 $\left( \mathrm { m o l } \cdot \mathrm { m } ^ { - 3 } \right)$ 。 $T _ { m }$ 是纯水冰点温度， $2 7 3 . 1 5 \mathrm { K }$ 。 $\mathbf { A } _ { \mathrm { H } }$ 是Hamaker常数[27],不同物质接触形式会影响Hamaker常数的取值，故 $d _ { \mathrm { g b } }$ 和 $d _ { \mathrm { p } }$ 存在一定差异。
+
+对于土而言，系统中含有杂质(盐分），况且很多类型的土颗粒表面带有电荷，故多孔介质体系中应该考虑杂质和颗粒带电量的影响。Hendrik和Wettlaufer26推导了含杂质、带电堆积等粒径颗粒系统中的水膜厚度与过冷度之间的关系，如公式(3)所示：
+
+$$
+\frac { L _ { w i } } { T _ { m } } \Delta T = R T _ { _ m } \frac { n _ { _ m } } { \rho _ { l } d } - \frac { \mathrm { A _ { H } } } { \rho _ { l } 6 \pi d ^ { 3 } } + \frac { q _ { s } ^ { ~ 2 } } { \varepsilon \varepsilon _ { _ 0 } \rho _ { l } } \left( 1 - \frac { 1 } { \mathbf { c } \sqrt { n _ { _ { i m } } d } } \right) e ^ { - \mathrm { c } \sqrt { n _ { _ { i m } } d } }
+$$
+
+式中：c是常数，可通过公式(4)计算。
+
+$$
+\mathrm { c } = \sqrt { \frac { e ^ { 2 } \mathrm { N _ { A } } } { \mathrm { k } \varepsilon \varepsilon _ { 0 } T _ { m } } }
+$$
+
+式中： $n _ { i m }$ 是土颗粒表面的杂质浓度; $\mathbf { \varepsilon } _ { \mathrm { { \varepsilon } _ { 0 } } }$ 是真空介电常数；ε是液态水的相对介电常数; $\mathrm { { N _ { A } } }$ 是阿伏伽德罗常数； $T _ { { \scriptscriptstyle m } } = 2 7 3 . 1 5 ~ \mathrm { K } ; e$ 是电子电荷; $\mathbf { k }$ 是玻尔兹曼常数; $q _ { s }$ 是固定颗粒表面的电荷密度，孔隙溶液摩尔密度 $\dot { \rho } _ { l }$ 在计算中可认为是常数;R是气体常数。公式(3)右边第一项表示杂质浓度影响，第二项表示色散力影响下的界面自由能，第三项表示颗粒表面电荷相关的界面自由能。
+
+以上理论表明等颗粒多孔介质中水分冻结问题得到了较完美的解决，然而对于不同粒径组成的土中水分冻结依然缺乏有效的方法。
+
+# 2 研究方法
+
+由于土体颗粒分布范围较为广泛，例如粉质黏土通常从几个微米到几个毫米，故现有预融理论在土中应用受到限制。假定土颗粒为球状颗粒，忽略表面粗糙度，视表面为理想光滑球面。基于土体颗粒级配曲线，取足够小的颗粒粒径范围，通常试验测定的也是某一粒径范围 $R _ { i }$ 土颗粒质量(体积)占总颗粒质量(体积)比例 $\lvert \omega _ { i }$ ，颗粒分布及粒径划分如图3所示。根据参考文献[28-29」，黄土和砂土的颗粒分布曲线如图4所示。
+
+![](images/eeaa9680ff810a0f7906a69ab99dbe2a088bdbaa985aa581128c5cda29028402.jpg)  
+图3粉质黏土粒径分布  
+Fig.3Soil particle distribution of silty clay
+
+在第 $i$ 个粒径范围内，认为粒径均匀分布，土颗粒半径均为 $R _ { i }$ ,若不考虑土的结构性差异，理想认为土体是以上两种颗粒堆积，则可利用联合公式(1)和公式(3)求解该粒径下土中未冻水含量。则总的未冻水含量可用公式(5)求解。
+
+$$
+f _ { l } ( { \mathrm { S C } } ) = \sum _ { i = 1 } ^ { n } \omega _ { i } ~
+$$
+
+![](images/6c2fb2650b1020d4bbc42e12eabe4775937f4647fe034caaca8d8a34aa5a8de7.jpg)  
+图4 黄土和砂土粒径分布  
+Fig.4Soil particle distribution of loess and sand
+
+$$
+\begin{array} { l } { { f _ { \mathit { i } } \displaystyle ( \mathrm { F C C } ) = \sum _ { i = 1 } ^ { n } \omega _ { i } } } \\ { { \displaystyle \left[ \frac { 3 } { R _ { i } } f _ { \mathrm { p } } ( \mathrm { F C C } ) d _ { \mathrm { p } } + \sqrt { 2 } ( \sqrt { 3 } - \pi / 2 ) \frac { 1 } { R _ { i } } d _ { \mathrm { \phi b } } + \frac { 3 \sqrt { 2 } } { 2 } \pi \frac { r _ { i } ^ { 2 } } { R _ { i } ^ { 2 } } + \frac { \sqrt { 2 } \pi { r _ { i } } ^ { 2 } } { 2 R _ { i } ^ { 2 } } \right] } } \end{array}
+$$
+
+式中： $r _ { i }$ 表示土颗粒半径为 $R _ { i }$ 情况下的冰液接触面的半径。然而，公式(5)计算较为繁琐，利用了相同方法重复求解不同粒径下的未冻水含量。针对此问题，本文根据不同粒径土颗粒的体积占比，提出等效粒径的方法，具体计算如公式(6)所示。
+
+$$
+R _ { e } = \sum _ { i = 1 } ^ { n } \omega _ { i } R _ { i }
+$$
+
+式中： $R _ { e }$ 表示土颗粒等效粒径，
+
+土中土颗粒排列处于SC和FCC之间，为了进一步简化计算，本文采用平均堆积颗粒排列,即取 $f _ { \mathrm { p } }$ (SC)和 $f _ { \mathrm { p } } \left( \mathrm { F C C } \right)$ 的平均值。结合公式(5)和公式(6)，土中液态含水量可用公式(7)计算。
+
+$$
+f _ { l } = 1 . 8 9 6 \frac { d _ { \mathrm { p } } } { R _ { e } } + 0 . 2 7 5 \frac { d _ { \mathrm { g b } } } { R _ { e } } + 7 . 3 8 8 \frac { r ^ { 2 } } { R _ { e } ^ { 2 } }
+$$
+
+其中冰-液接触面弯曲半径 $r$ 可通过公式（8）计算[23]。
+
+$$
+r = \frac { \gamma _ { s l } } { \rho _ { s } \bigg ( \displaystyle \frac { L _ { \scriptscriptstyle { w i } } } { T _ { \scriptscriptstyle { m } } } \Delta T - R _ { e } T _ { \scriptscriptstyle { m } } \displaystyle \frac { n _ { \scriptscriptstyle { i m } } } { \rho _ { l } d } \bigg ) }
+$$
+
+式中： $\rho _ { s }$ 是冰晶的摩尔密度; $\gamma _ { s l }$ 是冰液表面自由能。对于冰水相变潜热，在温度较小范围内变化时，忽略其变化，取 $L _ { w i } { \approx } 6 0 0 0 \mathrm { \ J { \cdot } m o l ^ { - 1 } } ,$
+
+随着温度升高无限接近冰点时，假定冰晶处于孔隙中心处，无限小可近似认为一点，如图5所示，此时冰晶具有最大水膜厚度。则可依据颗粒排列
+
+![](images/b32008193afcdc39f3ad28cef584919f1a30ae3f1d4789db0afc38586167c54e.jpg)  
+Fig.5Schematic diagram of maximum thickness of water film
+
+几何关系建立不同土颗粒堆积下的孔隙初始体积浓度与水膜表面杂质浓度之间的关联，如公式(9)所示。
+
+$$
+c _ { 0 } ( \mathrm { S C } ) = \frac { n _ { i m } ( \mathrm { S C } ) } { N ( \sqrt { 2 } - 1 ) R _ { e } }
+$$
+
+$$
+c _ { 0 } ( \mathrm { F C C } ) = \frac { 2 n _ { i m } ( \mathrm { F C C } ) } { N ( \sqrt { 3 } - 1 ) R _ { e } }
+$$
+
+式中： $N$ 为单位分子杂质电解离子数，对氯化钠而言， $N { = } 2$ 。
+
+为了方便计算土中初始浓度，把孔隙水的初始浓度 $c _ { 0 }$ 考虑成SC和FCC模型的平均浓度，则杂质浓度可用公式(10)计算：
+
+$$
+n _ { i m } = \frac { n _ { i m } ( F C C ) + n _ { i m } ( S C ) } { 2 }
+$$
+
+假定初始浓度 $c _ { 0 } ( \mathrm { S C } ) { = } c _ { 0 } ( \mathrm { F C C } ) { = } c _ { 0 }$ ，将公式(9)变形后带入公式(10)，可得到土中平均杂质浓度计算公式，见公式(11)。
+
+$$
+n _ { i m } \approx 0 . 4 N R _ { e } c _ { 0 }
+$$
+
+对于固体颗粒,Hamaker常数通常取 $9 . 8 6 \times 1 0 ^ { - 1 9 }$ $\mathrm { J } ^ { [ 2 4 ] }$ ;对于冰晶接触面而言，表面电荷密度可取0.01$\mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ 以及Hamaker常数为 $- 3 . 3 { \times } 1 0 ^ { - 2 2 } \mathrm { J } ^ { [ 2 6 ] }$ $\scriptstyle R = 8 . 3 1 4$ $\mathbf { J } \cdot ( \mathrm { m o l } \cdot \mathbf { K } ) ^ { - 1 \left[ 2 7 \right] }$ $\scriptstyle \mathtt { \mathtt { E } } _ { 0 } = 8 . 8 5 4 1 9 \times 1 0 ^ { - 1 2 }$ F· $\mathbf { m } ^ { - 1 [ 2 7 ] }$ $\mathfrak { E } { = } 8 0 . 4 \ : \mathrm { F }$ ：$\mathbf { m } ^ { - 1 [ 2 7 ] }$ （204 $\underline { { \cdot } } e = 1 . 6 0 2 { \times } 1 0 ^ { - 1 9 } \mathrm { C } ^ { [ 2 7 ] } ; \underline { { \mathrm { k } } } = 1 . 3 0 8 { \times } 1 0 ^ { - 2 3 } \mathrm { J } \cdot \mathrm { K } ^ { - 1 [ 2 7 ] } ; \mathrm { N } _ { \mathrm { A } } =$ $6 . 0 2 2 \times 1 0 ^ { 2 3 } \ \mathrm { m o l ^ { - 1 } } \ ^ { [ 2 7 ] }$ $\rho _ { l } { = } 5 . 5 5 5 \times 1 0 ^ { 4 } \mathrm { m o l } \cdot \mathrm { m } ^ { - 3 [ 2 4 ] }$ ; $\rho _ { s } =$ $5 . 0 9 4 { \times } 1 0 ^ { 4 } \mathrm { m o l } { \cdot } \mathrm { m } ^ { - 3 \cdot \left[ 2 4 \right] }$ $\gamma _ { s l } { = } 0 . 0 3 \ \mathrm { J } { \cdot } \mathrm { m } ^ { - 2 \ [ 2 4 ] }$ 。
+
+# 3结果与分析
+
+# 3.1土中水膜厚度与未冻水含量变化
+
+一般土颗粒表面带有电荷，以青藏高原粉质黏土为研究对象,取 $0 . 1 \mathrm { ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 \left[ 3 0 \right] }$ ,该类土的初始冻结温度为 $- 0 . 2 \mathrm { ~ } ^ { \circ } \mathrm { C } ^ { [ 3 1 ] }$ 。已有试验研究表明该冰点温度归咎于土中离子浓度[2.32],基于溶液冰点计算公式[32]可反算出初始离子浓度约 $0 . 0 7 ~ \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 。假定土中盐分类型为典型氯化钠盐， $N { = } 2$ ，根据公式(9a)估算 $n _ { i m }$ 为 $4 . 5 { \times } 1 0 ^ { 2 } { \mu } \mathrm { m o l } { \cdot } \mathrm { m } ^ { - 2 }$ 。以图3粉质黏土颗粒级配曲线为例，土颗粒等效半径为 $8 ~ { \mu \mathrm { m } }$ 。依据公式(3)可建立土颗粒水膜厚度与冻结温度降低之间的关系，计算结果如图6所示。图中斜线表示过冷度随水膜厚度的变化规律曲线，线上点 $K _ { 1 } \setminus K _ { 2 }$ 表示不同水膜厚度时过冷度值。
+
+从图6可以看出，土中水膜厚度与温度呈现出线性关系，要使水膜厚度变化小，则要更大的过冷度或者更低的温度。 $K _ { 1 }$ 和 $K _ { 2 }$ 两个点表明要使水膜厚度变成 $2 2 \ \mathrm { n m } \cdot 1 5 \ \mathrm { n m }$ ，则需要过冷度分别达到20K或 $3 0 \mathrm { K }$ 。若土的初始冻结温度为 $0 \mathrm { { ^ { \circ } C } }$ ,土体温度从 $- 2 0 \mathrm { { ^ { \circ } C } }$ 变化至 $- 3 0 \mathrm { { ^ { \circ } C } }$ ,水膜厚度仅变化 $7 \mathrm { n m }$ 。该规律表明在 $- 3 0 \ \mathrm { { ^ circ C } }$ 以下土中水膜厚度变化很小，一般冻土地区土中温度很难使水膜厚度变为几个纳米。故计算土中未冻结含水量,通常考虑 $- 3 0 \ \mathrm { { ^ circ C } }$ 以内变化。
+
+![](images/9fac209a7a7866f87032279c1dab92ca310d88638b192a3a4ceb1e032bbb836d.jpg)  
+图5最大水膜厚度示意图  
+图6土中过冷度与水膜厚度关系  
+Fig.6Curve of relationship between degree of supercooling and thickness of water film in soils
+
+类似地，冰晶间的水膜厚度与过冷度可依据公式(3)建立相互关联，弯曲冰-液界面的半径可通过公式(8)求解。将水膜厚度与弯曲液面半径的值代入公式(7)即可求解不同过冷度下的土中未冻水含量，当取等效半径的0.28倍计算时，计算值与吻合数据较好，计算结果如图7所示。图中试验数据均来自青藏高原粉质黏土[15.28.31-33],可以发现试验值与计算值吻合较好，尤其在剧烈冰水相变阶段( $- 2 \sim$ $0 \mathrm { { ^ { \circ } C } }$ )。图7表明改进的公式可以求解负温下粉质黏土中未冻水含量。
+
+![](images/94714b46cd9663a13d248cd502b880c5458389d66cee33760a0aa40d9e841192.jpg)  
+图7粉质黏土未冻水含量计算值与试验值对比 Fig.7 Comparison between the calculated and experimental values of unfrozen water content in silty clay
+
+为了进一步验证模型的适用性，选取不同类型黄土、砂土及黏土试验值进行对比。不同类型土的颗粒表面电荷量差异较小[3i],故在计算中均取0.1$\mathrm { C } { \cdot } \mathrm { m } ^ { - 2 }$ 。通过公式(6)可计算出黄土和砂土的等效粒径分别为 $1 0 ~ \mu \mathrm { m }$ 和 $5 6 ~ { \mu \mathrm { m } }$ 。黏土的等效粒径大约为4 μm[2.34]
+
+不考虑土中水过冷度，表面杂质浓度与之前粉质黏土一样，同样对等效半径进行缩小，黏土、黄土、砂土分别以等效半径的 $0 . 2 4 , 0 . 3 , 0 . 3 6$ 倍计算,未冻水试验数据均来源于参考文献[18.28,34-35],计算结果如图8所示。从图8a可以看出，计算值能较好反映未冻水变化规律，当温度较低时，即 $\Delta T > 1 0 \mathrm { K }$ ，预测值比试验值较高。对于砂土而言，计算值与试验值吻合较好，未冻水体积含量迅速减小并趋于稳定，当 $\Delta T > 5 \mathrm { K }$ 时，未冻水比例基本不变。而对于黏土，虽然计算值反映了变化趋势，但误差较大，尤其在开始冻结温度段，其主要原因是黏土颗粒的形状呈片状，与假定的球形差距较大。
+
+# 3.2水膜厚度影响因素
+
+不同物理化学界面能对水膜厚度的影响如图9所示。色散力其与Hamaker常数相关，对水膜的影响与杂质浓度没有关系，随着水膜厚度减小，过冷度呈线性增大，当水膜减小至几个纳米级时，其逐渐发挥作用。杂质浓度对水膜厚度的变化影响很大，随着浓度增加，相同过冷度下水膜厚度减小越来越困难，说明水分冻结难度增大。土颗粒表面电荷密度对水膜厚度的影响极易受杂质浓度的影响，随着浓度增大，土颗粒表面电荷对水膜的影响越来越小;相反，当杂质浓度减小至 $0 . 0 1 ~ { \mu \mathrm { m o l } } \cdot \mathrm { m } ^ { - 2 }$ ，,土颗粒表面电荷密度对土孔隙中水膜变化的作用大于杂质浓度本身的影响。当杂质浓度大于 $1 \ \mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 }$ ，表面电荷密度对水膜的影响非常小，在计算中可以不考虑。此外，依据公式(3)，当颗粒表面电荷密度减弱时，其对水膜的影响也随之减小。
+
+![](images/9a67de136d7d62536d274d025c7df475d5b2bee00d62ee9c5555fad3b609b1cd.jpg)  
+图8不同土类型计算值与试验值对比  
+Fig.8Comparison between the calculated and experimental values of different soils
+
+![](images/4bf2770308fddfb148f8f47e7f74e5b675f2a6ce062585b67ef094d34376b38a.jpg)  
+图9不同杂质浓度及物理化学界面能对水膜厚度影响Fig.9Effect of different impurity concentration and physicalchemical interface energy
+
+# 3.3薄膜水和间隙水变化规律及影响因素
+
+对于粉质黏土，颗粒表面水膜，冰晶间水膜以及间隙水所引起未冻水含量的变化如图10所示。可以看出，土中水分冻结主要由土颗粒表面水膜厚度变化来决定。冰晶间水膜的影响相比土颗粒表面水膜而言较小，两者计算值之间差了一个数量级。而土中间隙水对未冻水含量的影响最小，通过公式(8)得出，较高的初始浓度会减小冰-液弯曲界面的半径，导致 $r / R _ { e }$ 的平方减小很多，致使液态含水量很小。
+
+![](images/5eea02f9c7afab7d26e32e443902577d7df0f9dc56dc647cfcdaa9c04324b028.jpg)  
+图10水膜及间隙水对未冻水含量计算值的贡献 Fig.10 Construction of water film and interstitial water to calculation of unfrozen water content
+
+当土中杂质浓度变化或土颗粒粒径变化，诸如黏土比粉质黏土的颗粒要细，在此假定不同浓度及粒径条件，未冻水含量计算结果如图11所示。可以发现在浓度较高的条件下（图11a），随着土的等效颗粒粒径减小，未冻水含量增大，表明水在细颗粒土中更难冻结。在浓度较低情况下(图11b)，未冻水含量变化表现出相似的规律，但基于间隙水计算得到的未冻水含量所发挥的作用随着颗粒减小愈发明显，在很大温度范围内，超过了基于冰晶间水膜厚度计算的未冻结含水量值。此外，计算结果表明土颗粒等效粒径越细，初始冻结温度较低，低浓度细颗粒的冰-液弯曲界面在水分初始冻结中占主
+
+![](images/5ad6b676bef5490e75bfff3a18a8625f246c3598dab268ac00dae62c357c522e.jpg)  
+图11浓度及颗粒半径对未冻水含量的影响  
+Fig.11 Effect of concentration and particle radius on unfrozen water content
+
+导地位。
+
+# 4讨论
+
+经典的指数或幂函数关系8在水分剧烈相变阶段(初始冻结温度附近)存在很大的误差，因为指数函数在冰点 $0 \%$ 不收敛，且模型中参数随不同初始含水量变化较大。结合土水特征曲线和冻结特征曲线的预测模型[很大程度上依赖于初始含水量和残余含水量，且模型中涉及的参数较多。这些未冻水含量模型中的参数没有明确的物理意义，而本文改进的模型物理参数明确，且考虑了土体颗粒大小、杂质浓度、颗粒表面带电特性，并涉及了水分冻结的物理化学微观机理。
+
+Dash等[27通过预融理论计算了等粒径聚苯乙烯粉末及石墨化炭黑粉中未冻水含量的分布，发现当半径分别缩小0.15和0.4时计算效果与试验值吻合较好。土颗粒实际排列非常复杂，且颗粒形状并非全是球状体，且土颗粒表面呈现出一定粗糙度。本文在计算过程中采用了等效粒径，当粉质黏土、黄土、砂土分别以等效半径的0.28、0.3、0.36倍计算时，计算值与试验值吻合较好。而对于细颗粒土黏土，计算值与试验值差别较大。此外，在模型中未考虑细颗粒土中特殊结构，大部分黏土中存在如蜂窝结构、絮状结构等特殊形式，与自然排列下的土颗粒分布有一定差距，会影响模型计算精度。同时，计算中缩小半径的处理方式还未有详细阐述。所以颗粒形状、颗粒表面粗糙度、土颗粒的实际排列和土的结构类型等会作为水分微观冻结方面后期研究内容，进而开展进一步研究。
+
+# 5结论
+
+本文基于多孔介质预融理论，开展了土中未冻水体积含量随温度变化研究，提出了其计算方法，并分析讨论了杂质浓度和粒径大小对水膜厚度及未冻水含量的影响，具体结论如下：
+
+（1）对于较大颗粒土，未冻水含量模型预测效果较好。当粉质黏土、黄土、砂土等效粒径分别缩小 $0 . 2 8 \ 、 0 . 3 \ 、 0 . 3 6$ 倍时，未冻水含量计算结果与试验值接近，模型可较好地预测土中不同过冷度下液态水含量。而对于黏土，未冻水含量预测误差较大。
+
+(2）土颗粒表面电荷密度对水膜厚度的影响极易受杂质浓度的影响，随着浓度增大，土颗粒表面电荷对水膜的影响越来越小。随着杂质浓度增加，相同过冷度下水膜厚度增加，水分冻结难度增大。
+
+(3）土中未冻水含量计算可以不考虑色散力的影响，水分冻结主要由土颗粒表面水膜厚度变化来决定。当等效颗粒减小时，通过间隙水求解的未冻水体积比逐渐增大，并且在较低浓度时发挥更大作用。
+
+（4）当土颗粒表面杂质浓度小于 $1 \ \mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 }$ 土中水分冻结温度由冰-液接触面半径决定，该半径随等效粒径减小而减小，且半径越小，冻结温度越低。
+
+# 参考文献(References):
+
+[1]徐教祖,王家澄,张立新,等.冻土物理学[M].北京:科学出版 社,201O.[Xu Xiaozhu,Wang Jiacheng,Zhang Lixin,et al. Frozen SoilPhysics[M].Beijing: Science Press,2010.]   
+[2]徐教祖,王家澄,张立新,等.土体的冻胀和盐胀机理[M].北京: 科学出版社,1995.[Xu Xiaozhu,Wang Jiacheng, Zhang Lixin,et al.Mechanisms of Frost Heave and Soil Expansion of Soils[M]. Beijing: Science Press,1995.]   
+[3] Kurylyk B L,Watanabe K.The mathematical representation of freezing and thawing processes in variably-saturated, non-deformable soils[J].Advances in Water Resources,2013,6O: 160-177.   
+[4]Zhou J Z, Wei CF,Lai Y M.et al.Application of the generalized clapeyron equation to freezing point depression and unfrozen water content[J].Water Resources Research,2018,54(11):9412- 9431.   
+[5]乌艺恒,赵鹏武,周梅,等.季节性冻土区土体冻融过程及其对 水热因子的响应[J].干旱区研究,2019,36(6):1568-1575.[Wu Yiheng,Zhao Pengwu, Zhou Mei,et al.Freezing-thawing process of seasonal frozen soil and its response to moisture and temperature[J].Arid Zone Research,2019,36(6): 1568-1575.]   
+[6]Kleinberg RL, Griffin D D.NMR measurement of permafrost: Unfrozen water assay，pore-scale distribution of ice,and hydraulic permeability of sediments[J]. Cold Regions and Technology,2005, 42(1): 63-77.   
+[7]裴万胜.冻土水-热-力相互作用过程及数值模拟研究[D].北 京：中国科学院大学,2015.[Pei Wansheng.Study of the Hydrothermal-mechanical Interaction Process of Frozen Soil and Its Numerical Simulation[D]. Beijing: University of Chinese Academy of Sciences,2015.]   
+[8]Kruse A M, Darrow M M,Akagawa S.Improvements in measuring unfrozen water in frozen soils using the pulsed nuclear magnetic resonance method[J]. Journal of Cold Regions Engineering,2018, 32(1):04017016. https: /doi.10.1061/(ASCE)CR.1943-5495.000 0141.   
+[9]吴芹芹,莫淑红,程圣东,等.黄土区冻融期不同土地利用土壤 水分与温度的关系[J].干旱区研究,2020,37(3):627-635.[Wu Qinqin,Mo Shuhong,Cheng Shengdong,et al. Study on the correlation between soil moisture and temperature of different land uses in the loess area during a freezing-thawing period[J].Arid Zone Research,2020,37(3): 627-635.]   
+[10]Anderson D M,Tice AR.Predicting unfrozen water content in frozen soils from surface area measurements[J]. Highway Research Record,1972,393:12-18.   
+[11] McKenzieJM,Voss CI,Siegel DI. Groundwaterflow with energy transport and water-ice phase change: Numerical simulations,benchmarks,and application to freezing in peat bogs[J]. Advanced Water Resources,2007,30(4): 966-983.   
+[12]Kong L M,Wang Y S,Sun WJ,et al.Influence of plasticity on unfrozen water content offrozen soils as determined by nuclear magnetic resonance[J]. Cold Regions Science and Technology,2020, 172:102993.https://doi.org/10.1016/j.coldregions.2020.102993.   
+[13]Daanen R P,Nieber JL. Model for coupled liquid water flow and heat transport with phase change in a snowpack[J]. Journal of Cold Regions Engineering,2009,23(2): 43-68.   
+[14]Painter SL, Karra S. Constitutive model for unfrozen water content in subfreezing unsaturated soils[J]. Vadose Zone Journal,2014,13 (4): 334-338.   
+[15] Chai M T, Zhang JM, Zhang H,etal. A method for calculating unfrozen water content of silty clay with consideration of freezing point[J]. Applied Clay Science,2018,161: 474-481.   
+[16] Shoop S, Bigl S.Moisture migration during freeze and thaw of unsaturated soils: Modeling and large scale experiments[J]. Cold Regions Science and Technology,1997,25: 33-45.   
+[17] Zhang X,Sun S, Xue Y. Development and testing of a frozen soil parameterization for cold region studies[J]. Journal of Hydrometeorology,2007,8: 690-701.   
+[18]Dall’Amico M,Endrizi S,Gruber S,etal.Arobustand energyconserving model of freezing variably-saturated soil[J]. The Cryosphere,2011, 5: 469-484.   
+[19]Watanabe K, Kito T, Wake T,et al.Freezing experiments on unsaturated sand,loam and silt loam[J].Annals of Glaciology,2011,52: 37-43.   
+[20]Sheshukov A Y,Niber JL. One dimensional freezing of nonheaving unsaturated soils: Model formulation and similarity solution[J]. Water Resources Research,2011,47(11): 11519. htps: /doi: 10. 1029/2011WR010512.   
+[21]Wang C,Lai Y M,Zhang M Y.Estimating soil freezing characteristic curve based on pore-size distribution[J].Applied Thermal Engineering,2017,124: 1049-1060.   
+[22] Xiao Z A,Lai Y M, Zhang J. A thermodynamic model for calculating the unfrozen water content of frozen soil[J]. Cold Regions Science and Technology,2020,172:103011. https://doi.org/10.1016/ j.coldregions. 2020.103011.   
+[23]Hitchcock I,Holt EM,LoweJP,etal.Studiesoffrezing-melting hysteresis in cryoporometry scanning loop experimentsusing NMRdiffusometryandrelaxometry[J]. ChemicalEngineering Scence,2011,66(4): 582-592.   
+[24] Cash JW,Dash JG,Fu HY.Theory of ice premelting in monosized powders[J]. Journal of Crystal Growth,1992,123:101-108.   
+[25]Wettlaufer JS.Impurity effects in the premelting of ice[J].Physical Review Letters,1999,82: 2516. htps://doi.org/10.1103/PhysRevLett.82.2516.   
+[26]Hendrik H G, WetluferJS.Theoryof ice premelting in porous media[J]. Physical Review E,2010,81: 031604: 1-13.   
+[27]Dash JG,Rempel A W,Wetlaufer JS. The physics of premelted ice and its geophysical consequences[J]. Review of Modern Physics, 2006,78: 695-741.   
+[28] Tang L Y,Wang K,Jin L, et al.A resistivity model for testing unfrozen water content of frozen soil[J].Cold Regions Science and Technology,2018,153:55-63.   
+[29] Qiu E X,Wan X S,Qu MF,et al.Estimating unfrozen water content in frozen soils based on soil particle distribution[J].Journal of Cold Regions Engineering,2020,34(2): 04020002,doi:10.1061/ (ASCE)CR.1943-5495.0000208.   
+[30] 靳潇,杨文,孟宪红,等.基于双电层模型冻土中未冻水含量理 论推演及应用[J]. 岩土力学,2019,40(4):1449-1456.[Jin Xiao, Yang Wen, Meng Xianhong,et al. Deduction and application of unfrozen water content in soil based on electrical double-layer theory[J].Rock and Soil Mechanics,2019,40(4): 1449-1456.]   
+[31]Wen Z,Ma W,Feng W J,et al. Experimental study on unfrozen water content and soil matric potential of Qinghai-Tibet silty clay [J]. Environmental Earth Science,2012, 66(5): 1467-1476.   
+[32] Wan X S,Lai Y M, Wang C.Experimental Study on the Freezing Temperatures of Saline Silty Soils[J].Permafrost and Periglacial Processes,2015,26(2): 175-187.   
+[33]LuJG,Pei W S, Zhang X Y,et al. Evaluation of calculation models for the unfrozen water content of freezing soils[J]. Journal of Hydrology,2019,575: 976-985.   
+[34] 冷毅飞,张喜发,杨凤学,等.冻土未冻水含量的量热法试验研 究[J].岩土力学,2010,31(12):3758-3764.[Leng Yifei, Zhang Xifa,Yang Fengxue,et al. Experimental research on unfrozen water content of frozen soils by calorimetry[J]. Rock and Soil Mechanics,2010,31(12): 3758-3764.]   
+[35] 李述训,程国栋,刘继民,等.兰州黄土在冻融过程中水热输运 实验研究[J].冰川冻土,1996,18(4):319-324.[Li Shuxun, Cheng Guodong,Liu Jimin,et al.Experimental study on heat moisture transfer in lanzhou loess during freezing-thawing processes[J]. Journal of Glaciology and Geocryology,1996,18(4): 319-324.]
+
+# Variation of water film thickness in soil and prediction method of unfrozen water content
+
+WAN Xusheng， YAN Mengyu, LU Jianguo， YAN Zhongrui (School of CivilEngineeringand Geomatics,SouthwestPetroleum University,Chengdu 6105oo,Sichuan,China)
+
+Abstract: The variation of unfrozen water content directly influences the thermodynamics and deformation properties of frozen soils,and it is also the key condition for water-heat coupled simulations.In order to study this variation,the distribution of soil particle size wasused to an equivalent particle size,and soil was simplified to the quivalent particle size spherical packing system.Based on the premelting theory in porous medium, the calculation method of unfrozen water content in soil was put forward with the considered average packing system of simple cubic packing and cubic close packing,and the accuracy was verified by the experimental data. Moreover,the effect of impurity density and the equivalent particle size on water film thickness and unfrozen water content was analyzed.The results show that the thickness of water film calculated using the surface charge density of soil particles was easily affected by impurity concentration,and the effect of surface charge density on water film was progressively reduced as the impurity concentration increased.The liquid water fraction was mainly determined by the variation of water film thickness on the surface of soil particles,and the contribution of interstitial water to the total liquid fraction increased as theequivalent particle size decreased,especially at low impurity concentrations.Moreover, the model of unfrozen water content produced better predictions in larger particle soils.The calculated values of volumetric unfrozen water were close to the experimental values when the equivalent particle sizes of silty clay,loess,and sand were reduced by 0.28,0.3,and 0.36,respectively.
+
+Keywords: premelting; unfrozen water content; equivalent particle size; impurity density; surface charge density

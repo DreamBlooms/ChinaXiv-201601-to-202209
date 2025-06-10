@@ -1,0 +1,464 @@
+[
+    {
+        "type": "text",
+        "text": "D97N突变对光受体蛋白古紫质4质子泵和能量转换效率的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王娟郜玉娇孙超赵欣 \\*\\*(上海磁共振重点实验室 物理与材料科学学院 华东师范大学 上海 200062)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要古紫质 4(Archaerhodopsin 4,aR4)是新近发现的古生菌 Halobacterium species xz515 红膜上唯一的光敏视黄醛蛋白，具有和细菌视紫红质(Bacteriorhodopsin,bR)相似的质子泵功能，但在中性pH条件下，其质子释放和摄取顺序与bR相反。针对质子供体天冬氨酸97(Aspartic acid 97,D97)对 aR4 光循环、特别是对质子释放摄取顺序和菌株ATP生成率的影响,采用基因定点突变技术,构建了aR4的单突变体D97N,以及相对应的bR单突变体D96N。采用紫外-可见吸收光谱和闪光动力学光谱技术初步研究突变对视黄醛键合区、光反应中间态 M态和O态、质子泵功能以及菌株ATP生成率的影响。结果表明，D97N突变对视黄醛紫外-可见光吸收波长没有太大影响，但造成M态衰减时间的显著延长、质子泵功能的消失以及菌株ATP 的生成率大幅降低。与bR中的D96作用相比，D97对aR4 质子功能的影响有所不同，这可能与D97所处的一个更为疏水性的胞外侧环境有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 古紫质4 单点突变 光循环中间态 质子泵 天冬氨酸97",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号Q93",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "细菌类视紫红质是一类含有七个 $\\mathbf { \\alpha } _ { \\mathrm { ~ \\mathfrak { a } . ~ } }$ -跨膜螺旋和一分子的视黄醛辅基的光敏受体蛋白，主要包括细菌视紫红质(Bacteriorhodopsin,bR)[1]、古紫质(Archaerhodopsin,aR)[2-4]、盐细菌视紫红质(Halorhodospin,hR)[5]、感觉视紫红质(Sensory rhodopsin,sR)[6]、变形菌视紫红质(Proteorhodopsin,pR)[7]。细菌类视紫红质的应用十分广泛，根据功能可以分为质子泵、氯离子泵、阳离子通道和光传感器等[8]。aR、bR和pR 是质子泵蛋白中的主要成员，在光照条件下可以经历一系列的光循环中间态、并伴随着质子的传递，最终实现ATP的合成。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文研究的古紫质 4(Archaerhodopsin-4,aR4)是在我国西藏扎北湖中嗜盐菌上发现的一种具有光驱质子泵功能的受体蛋白，并以三聚体的二维六方晶格形式存在于细胞膜上[9]。aR4与bR的同源性为 $59 \\%$ ，主要的关键性残基都相同，但质子传输的摄取和释放顺序却是相反的[10]，将两种蛋白进行对比研究，对揭示aR4的光循环和质子泵机理具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在光照条件下，bR内的视黄醛辅基发生光致异构，从而引发蛋白结构发生一系列变化，在经历了K、L、M、N、O等中间态后回到基态，并伴随着质子的释放与摄取，形成质子梯度促使ATP酶将ADP合成ATP，供给生命体活动所需能量[1。蛋白光循环中的质子传递主要依靠蛋白中的一些关键氨基酸残基和水分子来完成的，其中包括通道上的质子受体D85、质子供体D96，以及胞外侧结构域的质子释放基团E194和E204等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用基因工程定点突变技术，将bR中的质子供体D96和aR4中对应位点的 D97进行单点突变并在L33 菌株进行异源表达，成功构建出了D96NL33-bR和 D97NL33-aR4 突变体。通过光谱学分析，研究了D97N所引起的aR4动力学行为的改变，从而了解D97在质子传递过程中的作用以及对光循环的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1菌株与质粒 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验所用bR表达缺陷型菌株HalobacteriumspeciesL33和aR4 嗜盐菌Halobacteriumspeciesxz515均由复旦大学丁建东教授惠赠。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 酶和试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "T4DNA 连接酶、TaqDNA 聚合酶、PyrDNA 聚合酶、DNA 酶I、RNA 酶、限制性内切酶 BamHI和HindIII、DNA 和蛋白质的分子量标记均购于 TaKaRa公司；四环素购于上海生物工程技术服务公司；PEG-600 和新生霉素购于 Sigma公司；DNA回收试剂盒购于MBI公司；ATP试剂购于碧云天公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 培养基",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）蛋白陈液体培养基（PM)1L：NaCl $2 5 0 ~ \\mathrm { g }$ ， $\\mathrm { M g S O 4 ^ { \\cdot } 7 H 2 O 2 0  g }$ ，柠檬酸钠 $3 \\mathrm { g }$   \nKCl 2 g， $\\mathrm { C a C l } _ { 2 } 0 . 2 \\ \\mathrm { g }$ ，Oxoid L37 10 g， $\\mathrm { p H } 7 . 4$   \n2) 再生液体培养基1L：PM培养基中加入 $1 5 \\%$ 蔗糖和 $5 0 ~ \\mathrm { m M }$ Tris-HCl，pH 7.2  \n3) 再生半固体培养基则是在再生液体培养基中加入 $0 . 6 \\%$ 琼脂  \n4）再生固体培养基是在再生液体培养基中加入 $1 . 2 \\%$ 的琼脂  \n5）原生质形成液： $1 5 \\%$ 蔗糖，2MNaCl，27mMKCl，50 mM Tris-HCl，pH8.8  \n1.2方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 PCR 引物设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用PCR进行bop和ar4基因的定点突变，PCR反应使用的引物如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8326592b2ff116df3bd0f9f6b1d2d28d94a922141cdb4bbfb7409ca8d13087f2.jpg",
+        "table_caption": [
+            "表1引物序列 Table1Primersused for amplification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td> gene</td><td>Primer name</td><td>Primer sequence (5'-3')</td></tr><tr><td>bop</td><td>P1</td><td>5'-CGGGATCCGACGTGAAGATGGGG-3'</td></tr><tr><td>bop</td><td>P2</td><td>5'-GCCAAGCTTCTAGATCAGTCGCTG -3'</td></tr><tr><td rowspan=\"2\">D96NL33-bR</td><td>P3</td><td>5'-GTTAAACCTCGCGTTGCTCGTTGACG-3'</td></tr><tr><td>P4</td><td>5'-CGTCAACGAGCAACGCGAGGTTTAAC-3'</td></tr><tr><td>D97NL33-aR4</td><td>P5</td><td>5'-CTGCTGCTCAACCTCGCCC-3'</td></tr><tr><td></td><td>P6</td><td>5'-GGGCGAGGTTGAGCAGCAG-3'</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2单突变bop/ar4基因的重组克隆和表达载体的构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以质粒pUC19-bop为模板，分别用引物P1和P4 扩增出小片段S1，用引物P2 和P3扩增出小片段S2；以质粒pUC19-ar4为模版，分别用引物P1和P6扩增出小片段S3,用引物P2和P5扩增出小片段S4。反应条件为： $9 5 \\mathrm { ^ \\circ C }$ 预变性 $5 \\mathrm { m i n }$ $9 4 ^ { \\circ } \\mathrm { C } \\mathrm { ~ 1 ~ m i n }$ ， $5 5 ^ { \\circ } \\mathrm { C } ~ 3 0 ~ \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C } \\mathrm { ~ 1 ~ m i n }$ ，30个循环， $7 2 ^ { \\circ } \\mathrm { C } \\ 5 \\ \\mathrm { m i n }$ ， $1 2 \\mathrm { { ^ \\circ C } }$ forever；以S1、S2 作模板，P1 和P2 为引物扩增出全长的 D96N-bop 突变基因；以 S3、S4作模板，P1和P2为引物扩增出全长的D97N-ar4突变基因。将克隆的D96N-bop和 $D 9 7 N _ { - } a r 4$ 突变基因与pUC19用BamHI、HindIII双酶切并连接，之后转化E.coli Top10并用终浓度为 $6 0 \\mathrm { m g / L }$ 氨苄青霉素的LB平板筛选阳性转化子，进一步用PCR和双酶切鉴定，所获得重组克隆载体命名为pUC19-D96N-bop 以及pUC19-D97N-ar4，送上海铂尚生物技术有限公司测序。将测序正确的D96N-bop和 $D 9 7 N  – a r 4$ 基因亚克隆入穿梭表达载体pXL-NovR，转化大肠杆菌DH10b 并用终浓度 $5 0 \\mathrm { m g / L }$ 四环素的LB平板筛选阳性菌落,PCR和双酶切鉴定阳性转化子，重组表达载体命名为pNor-D96N-bop 和pNor-D97N-ar4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3嗜盐菌同源转化和筛选 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "嗜盐菌的转化方法参考文献[11]，稍作改进的方法如下：按 $2 \\%$ 的接种量将L33细胞接种于PM培养基中活化培养至 $\\mathrm { O D } _ { 5 5 0 }$ 为 $1 . 0 { \\sim } 1 . 5$ ，取 $2 \\mathrm { m l }$ 培养物离心，依次加入 $2 0 0 ~ \\mu \\mathrm { l }$ 原生质体形成液和 $2 0 \\mu 1 0 . 5 \\ : \\mathrm { m M }$ EDTA,室温静置 $5 \\mathrm { m i n }$ 将 $1 { \\sim } 1 0 \\mathrm { u g }$ 的表达质粒与 $2 0 0 ~ \\mu \\mathrm { l }$ 原生质体混合，总体积不超过 $2 2 0 \\mathrm { u l }$ ；另取 $2 0 0 \\mu \\mathrm { l }$ 原生质体与 $2 0 ~ \\mu \\mathrm { l }$ 无菌水混合作空白对照，室温放置 $2 0 ~ \\mathrm { m i n }$ 。加入 $2 2 0 \\mu \\mathrm { l }$ 过滤除菌的PEG-600混匀，室温静置 $2 0 \\mathrm { m i n }$ 。加入 $\\mathrm { 1 ~ m l }$ 再生液体培养基，混匀后离心，再加入 $\\mathrm { 1 ~ m l }$ 再生液体培养基轻轻悬浮，于 $3 7 \\ \\mathrm { { ^ circ C } }$ 培养箱中静置培养12小时。次日，将培养液与 $1 0 { \\sim } 1 5 ~ \\mathrm { m l }$ 含新生霉素的再生半固体培养基混合，铺在含有同样浓度新生霉素的再生固体培养基平板上，于 $3 7 \\ \\mathrm { { ^ circ C } }$ 避光培养，当出现菌落后，光照培养，筛选紫色菌落。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4蛋白的表达与纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "挑取紫色单菌落于 $5 \\mathrm { m l }$ 含有新生霉素的PM培养基中， $3 7 \\ \\mathrm { { ^ circ C } }$ 光照， $2 1 0 \\mathrm { r p m }$ 培养至对数期， $2 \\%$ 的接种量扩大培养，最终培养体积为1L， $8 0 0 0 \\mathrm { r p m }$ 离心收集菌体，蛋白纯化参照文献[I，将获得的蛋白分别命名为 $\\mathrm { R C } ^ { \\mathrm { L } 3 3 }$ -aR4、D97NL33-aR4、${ \\mathrm { R C } } ^ { \\sim 3 3 }$ -bR、D96NL33-bR(RC,Recombinant)。蛋白纯化后采用 SDS-PAGE 进行分析,用Bradford法测定蛋白质浓度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5紫外-可见光扫谱",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取适量的蛋白样品悬浮加入pH为7.0的缓冲溶液(100mMNaCl,20mMKCl,$0 . 0 2 5 \\% \\mathrm { ( w / v ) N a N _ { 3 } ) }$ ，使用紫外-可见光分光光度仪(T6 新世纪)对纯化后蛋白进行紫外-可见光吸收光谱的测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6闪光动力学光谱 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用自制的动力学光谱仪也称为闪光光谱仪测量样品的光循环中间态。使用照相机闪光灯作为激发光源，测量光由卤钨灯提供，垂直于激发光。测量M中间态的形成与衰减对应于 $4 1 2 \\mathrm { n m }$ 处的吸收变化，O中间态的形成与衰减对应于$6 6 0 \\ \\mathrm { n m }$ 处的吸收变化。所有蛋白样品悬浮在缓冲溶液中 $\\mathrm { 1 0 0 \\ m M \\ N a C l , 2 0 \\ m M }$ KCl, $0 . 0 2 5 \\% \\left( \\mathrm { w / v } \\right) \\mathrm { N a N } _ { 3 } , \\mathrm { p H } 7 . 0 )$ ，测量时样品均处于光适应状态，所有实验均在室温下进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.7质子泵功能的检测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当蛋白泵出质子，并且还未从溶液中获取质子时，溶液会瞬间酸化，而这一变化可以通过使用染料pyranine 加以观测。染料在 $4 5 6 \\mathrm { n m }$ 处对 $\\mathsf { p H }$ 灵敏度最高，因此蛋白样品的质子提取与释放过程则利用敏感的pyranine 染料在 $4 5 6 \\ \\mathrm { n m }$ 处的吸收变化来指示：样品加pyranine 后测量信号与不加pyranine 的空白信号的差谱在 456nm处吸收的增加对应于膜蛋白质子的提取，而吸收的减少则反映了质子的释放[10]。所有样品均处于光适应状态，介质环境为 $\\mathrm { p H } 7$ 的 $1 0 0 \\ : \\mathrm { m M N a C l }$ ，20mMKC1缓冲溶液，所有测量都在室温下进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.8 ATP 的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ATP 标准曲线的测定按照ATP试剂盒上的步骤进行测定。样品测定的方法为：待菌株长到平台期时，将所有待测菌液调节 $\\mathrm { O D } _ { 6 6 0 } { = } 0 . 2$ ，用离心管离心沉淀细胞 $( 4 0 0 0 \\ \\mathrm { g } , \\ 1 0 \\mathrm { m i n } )$ ，弃上清，轻轻弹散细胞。然后加入 $2 0 0 ~ \\mu \\mathrm { l }$ 裂解液裂解细胞，裂解后离心 $( 4 ^ { \\circ } \\mathrm { C } , \\ 1 2 0 0 0 \\ \\mathrm { g } , \\ 5 \\ \\mathrm { m i n } )$ ，取上清置于冰上，用于后续的测定。使用微量移液器一次性的将 $1 0 0 \\mu \\mathrm { l }$ 的 ATP检测工作液加入到检测孔中，室温放置$3 { - } 5 \\mathrm { m i n }$ 后加入 $2 0 ~ \\mu \\mathrm { l }$ 待测样品，迅速用微量移液器混匀，使用多功能酶标仪(SpectraMaxM5/M5e,IRISIIXSP)测定RLU值。空白对照为 $1 0 0 ~ \\mu \\mathrm { l }$ 检测工作液内加入 $2 0 \\mu \\mathrm { l }$ 细胞裂解液。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1aR4和bR 氨基酸序列比对",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "aR4和bR氨基酸序列比对分析结果如图1所示，两者序列的同源性为 $59 \\%$ 。红色标注为质子传输通道和视黄醛键合区内相同的保守性关键残基，蓝色标注是视黄醛键合区内唯一不同的残基。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "57  \nbR1 QAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSM 60  \naR4 1 DLLGDGRPETLWLGIGTLLMIIGTFYFIAQGWGVTDKEAREYYAITILVPGIASAAYLAM 60： \\*\\*\\*\\*:\\*\\*.:\\*\\*:\\*\\*:\\*\\*:\\*\\*:.:\\* \\*\\*:\\*:\\*:::\\*\\*\\*\\* \\*\\*\\*.\\*\\*:\\*\\*:\\*85/8689 96  \nbR 61 LLGYGLTMVPFG-GEQNPIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMI 118  \naR4 61 FFGIGVTEVELASGAVLDIYYARYADWLFTTPLLLLDLALLAKVDRVSIGTLIGVDALMI 119::\\*\\*:\\*\\*:.\\* \\*\\*:\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*：：\\*:\\*:\\*.\\*.:\\*\\*145  \nbR 119GTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTV 178  \naR4 120 VTGLIGALSKTPLARYTWWLFSTIAFLFVLYYLLTSLRSAAAQRSEEVQSTFNTLTALVA 179\\*\\*\\*:\\*\\*\\*:\\*. \\*:.\\*\\* :\\*\\* \\*:\\*::\\*\\* \\*: .: \\* \\* \\*\\* \\*\\*\\*:.\\* ：182185 194 204 212 216  \nbR 179VLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPS 238  \naR4180 VLWTAYPILWIVGTEGAGVVGLGVETLAFMVLDVTAKVGFGFALLRSRAILGETEAPEPS 239\\*\\*\\*:\\*\\*\\*::\\*::\\*:\\*\\*\\*\\*:\\*\\*:\\*\\*\\* \\*\\*\\*\\*\\*\\*:\\*\\*\\*\\*\\*\\*：\\*\\*\\*\\*\\*\\*\\*:\\*\\*:\\*\\*\\*\\*\\*\\*  \nbR 239 AGDGAAATSD 248 P02945 BACR_HALSA  \naR4 240 AGT- 243 Q9HH34 Q9HH34 HALSI\\*\\*",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 SDS-PAGE 电泳检测",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "纯化后的蛋白 SDS-PAGE 电泳检测结果如图2所示。可以看出，D97NL33-aR4和 $\\mathrm { D 9 6 N ^ { L 3 3 } - b R }$ 的分子量大小均为 $2 6 \\mathrm { { k D a } }$ ，与重组野生型 bR和aR4 的分子量一致，说明蛋白已成功在L33中表达。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d74e9947482d8e15e6e90a4cce7ef5cae518dc0a971895e4ccfd488f5aa27aab.jpg",
+        "img_caption": [
+            "图2重组bR和aR4蛋白的SDS-PAGE电泳分析Figure 2 SDS-PAGE electrophoresis of the recombinant bR and aR4"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 紫外-可见吸收光谱",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RCL33-aR4、D97NL33-aR4、RCL33-bR 和D96NL33-bR光适应条件下的紫外-可见光谱如图3所示。可以看出，突变体最大吸收波长与相对应的重组野生型蛋白相比并未发生明显位移，分别位于 $5 5 0 \\mathrm { n m }$ 、 $5 4 8 ~ \\mathrm { n m }$ 、 $5 6 8 \\mathrm { n m }$ 和 $5 6 7 \\mathrm { n m }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 bR 蛋白中 D96 到视黄醛希夫碱的距离约为10 埃[12]，突变对视黄醛的紫外-可见光谱最大吸收波长没有造成太大的影响[13]。类比bR，我们初步判断在aR4中 D97到视黄醛的距离可能与bR蛋白中D96到视黄醛希夫碱的距离相近，因此并未引起视黄醛吸收波长的显著变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4闪光动力学光谱 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "所有的蛋白样品悬浮在缓冲溶液中(100 mMNaCl,20 mMKCl, $0 . 0 2 5 \\%$ w/vNaN3,pH7.0)，在室温下测定蛋白的光循环中间态，如图4所示。由图可以看出：1）D97NL33-aR4突变不但造成了M态信号的减弱，而且造成了M态衰减时间的延长，是D96NL33-bR 突变衰减时间的两倍；",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b10230ac12c0d8d2ef085ac9201f437692a34c782952e3629aab909e72e35ad9.jpg",
+        "img_caption": [
+            "图3重组bR和aR4蛋白的紫外-可见光吸收光谱 Figure 3 UV-VIS absorption spectra of the recombinant bR and aR "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2）与野生型相比，aR4的D97N突变并未造成其O态形成时间和衰减时间的显著变化，然而bR的D96N 突变却造成了其O态的消失。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "bR中D96N突变造成其M态衰减延长主要是因为 $\\mathrm { M } \\to \\mathrm { N }$ 的转变过程中希夫碱的重新质子化受阻引起的。因为突变造成羧基的消失，很大程度地增加了希夫碱获取质子的难度。在aR4中，D97N的突变使得M态的衰减延迟更加明显，我们推测有可能是D97到希夫碱的质子传输通道上的介质环境更加疏水，阻碍了希夫碱从胞内侧获取质子的进程，最终导致光循环中间态M态衰减的延长。而这一差异是否与aR4中的第146位残基为更为疏水性的苯丙氨酸有关需要进一步深入研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "bR 的D96N 突变造成其O态的消失主要是因为希夫碱的再质子化受阻，M态延长使N态和O态形成变得更加困难[14]。然而，aR4中的D97N突变造成 M态的延长并没有对O态的形成和衰减构成影响，我们推测这有可能是由于aR4和bR 两种蛋白的质子摄取与释放顺序不同从而导致蛋白光循环中间态出现顺序不同。aR4光循环中的O态有可能是先于M态生成，因此在aR4蛋白中M态的延长对O态没有影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5质子泵功能测定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所有的蛋白样品悬浮在缓冲溶液中(100 mMNaCl,20 mMKCl, $0 . 0 2 5 \\%$ w/vNaN3,pH7.0)，在室温下测定野生型和突变体的质子泵，结果如图5所示。aR4与 bR 蛋白的质子泵相比，两者质子泵动力学行为完全相反，并且aR4是一个弱",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/574256981d897a0a3c92410ae33482752146c5ac2a81804398737c6a67d2f399.jpg",
+        "img_caption": [
+            "图4重组bR和aR4蛋白的闪光动力学图谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 Light-induced transient absorption changes of M and O states at 41Onm and ${ \\bf 6 6 0 n m }$ respectively for the recombinant bR and aR4 (a-d) M state curves of $\\mathsf { R C } ^ { \\mathrm { L } 3 3 }$ -aR4, $\\mathrm { D } 9 7 \\mathrm { N } ^ { \\mathrm { L } 3 3 }$ -aR4, $\\mathsf { R C } ^ { \\mathrm { L } 3 3 }$ -bR and $\\mathrm { D 9 6 N ^ { L 3 3 } }$ -bR (e-h) O state curves of $\\mathsf { R C } ^ { \\mathrm { L } 3 3 }$ -aR4, $\\mathrm { D } 9 7 \\mathrm { N } ^ { \\mathrm { L } 3 3 }$ -aR4, $\\mathsf { R C } ^ { \\mathrm { L } 3 3 }$ -bR and D96NL33-bR ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "质子泵，蛋白受到光刺激后会先吸收质子随后释放质子，D97N突变造成了aR4质子泵功能几乎丧失，而D96N突变使得bR质子吸收和释放速度减缓，但并没有造成其质子泵功能的丧失。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "bR 的D96N突变使得希夫碱无法从D96获取质子，而是从胞外直接获取质子，这种获取质子的方式受外界环境pH的影响较大[15]。而aR4 中D97的突变使得其质子泵功能消失，我们初步判断是由于希夫碱所处的疏水环境，阻碍了任何一条获取质子的途径，从而导致蛋白质子泵功能丧失。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba6a141dbc5bc260dbd1b42ea7b3e6f9904da110434a1a8952848b9b5b7c2afa.jpg",
+        "img_caption": [
+            "",
+            "图5重组bR和aR4蛋白的质子泵功能检测 Figure 5 Proton pump function assay for the recombinant bR and aR4 (a) ${ \\mathrm { R C } } ^ { \\sim 1 3 3 } ,$ -aR4; (b) $\\mathrm { D 9 7 N ^ { L 3 3 } }$ -aR4 mutant; (c) $\\mathsf { R C } ^ { \\mathrm { L } 3 3 }$ -bR; and (d) $\\mathrm { D 9 6 N ^ { L 3 3 } }$ -bR mutant "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6 ATP检测 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对于膜上存在bR和aR4这类光驱动质子泵蛋白的菌株来说，一方面可以通过氧化磷酸化产生ATP，另一方面可以利用光能产生质子梯度，从而促使ATP酶将 ADP 转化为ATP[16]。任何结构上的改变可以影响光驱动质子泵蛋白的质子泵功能，进而影响其光合磷酸化的效率。因此，通过ATP生成率的测定可以反向推测关键残基对蛋白结构的影响。利用已知浓度的ATP溶液对仪器进行刻度(图6a)，以获取浓度的标准曲线 $\\left( \\mathrm { y } { = } 0 . 9 7 0 5 \\mathrm { x } { + } 1 . 6 6 4 1 \\right)$ ， $\\scriptstyle \\mathrm { R } ^ { 2 } = 0 . 9 9 9 7 ,$ ，进而可以对突变菌株ATP的生成率进行测定。从图6b可以看出，D97N突变菌株的ATP生成效率仅为同等条件下重组野生型菌株ATP生成率的 $50 \\%$ 左右，由于质子泵功能的受损大大降低了菌体 ATP的生成。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "D97是质子通道上的关键氨基酸，承担着从胞内侧摄取质子的功能，将天冬氨酸突变为天冬酰胺增加了胞内侧的疏水性、降低了胞内外质子梯度差，从而削弱了aR4的质子泵功能，进而导致菌株ATP生成率的显著降低。由此可以推测，如果将质子摄取或释放两个半通道上的一些氨基酸进行定点突变，降低胞内侧的疏水性，增加胞内外质子梯度差，则可以实现菌株 ATP生成率的提高，为太阳能的储存提供一条新的途径[17]。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/29113c3157960b16697fd7e6c60b87660a80a37fb4363f5f140ecbe9f20f352c.jpg",
+        "img_caption": [
+            "图6重组aR4的ATP生成率测定曲线",
+            "Figure 6 ATP formation rate curve of the recombinant aR4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) Calibration of ATP concentration; (b)ATP formation rate of the recombinant aR4 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文选择aR4中的质子供体D97进行了定点突变，一方面是因为类比其他质子泵蛋白，相同位点均为天冬氨酸，并且此位点对于蛋白的质子摄取功能影响很大。另一方面，本文将aR4和bR相同位点突变进行对比研究，主要是因为D96NL33-bR 突变体结构和性质已得到广泛的研究，通过二者相似性和差异性的对比，有助于较深入地认识aR4结构与功能的关系。本研究通过基因定点突变的方法将aR4和bR上的相同位点进行定点突变，并实现了在L33菌株中重组表达，获得突变体 D97NL33-aR4 和 D96NL33-bR。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过将D97NL33-aR4和D96NL33-bR对比研究，两个位点的突变均对视黄醛的紫外最大吸收波长没有明显影响，但对两者光循环的影响存在着很大差异，主要表现为对光循环M态和O态的影响。D97NL33-aR4 的突变没有对O态造成显著影响，而 $\\mathrm { D 9 6 N ^ { L 3 3 } - b R }$ 突变造成了O态的消失。D97N突变使aR4质子泵功能减弱，菌株的ATP生成率降低了 $50 \\%$ ，而D96N突变并未对bR的质子泵功能造成显著的影响。由此推测，aR4和bR从胞内侧到希夫碱的半通道结构域的空间构象可能存在很大差异，aR4在此区域的介质环境可能更加疏水，使得位于相同位置的D97在aR4中发挥着不同的功能。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "M态吸收带峰值为 $4 1 2 \\mathrm { n m }$ ，与基态 $5 7 0 \\mathrm { n m }$ 处的吸收带峰值没有重叠，这对于信息存储与处理方面的应用研究意义重大[18],而这一应用能否实现直接受制于M态的稳定性长短，通过定点突变延长M态的寿命则为最常用方法。本研究表明，D97NL33-aR4 蛋白M态的寿命延长为 $\\mathrm { D 9 6 N ^ { L 3 3 } - b R }$ 的两倍，因此具有很高的潜在应用价值。此外，通过氨基酸突变增强蛋白质子泵功能以提高菌株的光能转化效率，可用于太阳能的储存。目前，aR4的研究远不够深入，特别是其光循环中间态时间顺序尚不明确。本研究为进一步深入研究aR4的光循环，以及结构与功能关系提供了一定的研究基础。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] Oesterhelt, D,and Stoeckenius,W Rhodopsin-like protein from the purple membrane of Halobacterium halobium.Nature: New biology,1971, 233(39):149-152.   \n[2] Mukohata,Y,Sugiyama,Y, Ihara, K, et al.An Australian halobacterium contains a novel proton pump retinal protein: Archaerhodopsin. Biochemical and Biophysical Research Communications,1988,151(3):1339-1345.   \n[3] Sugiyama,Y,Maeda,M,Futai,M,et al.Isolation of a gene that encodes a new retinal protein, archaerhodopsin,from Halobacterium sp.aus-1.Journal of Biological Chemistry,1989, 264(35): 20859-20862.   \n[4] Li, Q G,Wang, H,Song, D J,et al.The Isolation and Purification of Archaerhodopsin from Halobacterium sp. XZ515.Sheng Wu Hua Xue Yu Sheng Wu Wu Li Xue Bao (Shanghai),1997, 29(5): 517-520.   \n[5] Matsuno-Yagi, A,and Mukohata,YTwo possible roles of bacteriorhodopsin; a comparative study of strains of Halobacterium halobium differing in pigmentation. Biochemical and Biophysical Research Communications 1977, 78(1): 237-243.   \n[6] Bogomolni, RA,and Spudich,JL Identification of a third rhodopsin-like pigment in phototactic Halobacterium halobium.Proceedings of the National Academy of Sciences of the United States of America,of the United States of America,1982,79(20): 6250-6254.   \n[7] Beja,O,Aravind,L, Koonin,E V,et al. Bacterial rhodopsin: evidence for a new type of phototrophy in the sea.Science,2000,289(5486): 1902-1906.   \n[8] Ernst,O P, Lodowski, DT, Elstner, M,et al. Microbial and animal rhodopsins: structures, functions,and molecular mechanisms. Chemical Reviews,2014,114(1): 126-163.   \n[9] Li, Q, Sun, Q, Zhao,W,et al. Newly isolated archaerhodopsin from a strain of Chinese halobacteria and its proton pumping behavior. Biochimica et Biophysica Acta (BBA) - Biomembranes,2000,1466(1-2): 260-266.   \n[10] Ming,M, Lu,M, Balashov,S P, et al. pH dependence of light-driven proton pumping by an archaerhodopsin from Tibet: comparison with bacteriorhodopsin. Biophysical Journal, 2006, 90(9): 3322-3332.   \n[11] Cline,S W,Lam,WL, Charlebois,R L, et al.Transformation methods for halophilic archaebacteria. Canadian Journal of Microbiology,1989,35(1):148-152.   \n[12] Luecke,H, Schobert,B, Richter, HT,et al.Structure of bacteriorhodopsin at1.55 A resolution Journal of Molecular Biology, 1999,291(4): 899-911.   \n[13] Zimanyi, L, Kulcsar,A, Lanyi,JK,et al. Intermediate spectra and photocycle kinetics of the $\\mathsf { A s p 9 6 - } \\mathsf { > }$ Asn mutant bacteriorhodopsin determined by singular value decomposition with self-modeling. Proceedings of the National Academy of Sciences of the United States of America,1999,96(8): 4414-4419.   \n[14] Zimanyi,L, Cao,Y,Chang,M,et al.The two consecutive M substates in the photocycle of bacteriorhodopsin are affected specifically by the D85N and D96N residue replacements. Photochemistry and Photobiology,1992,56(6):1049-1055.   \n[15] Holz,M, Drachev,LA,Mogi,T,et al. Replacement of aspartic acid-96 by asparagine in bacteriorhodopsin slows both the decay of the M intermediate and the associated proton movement. Proceedings of the National Academy of Sciences of the United States of America,,1989,86(7): 2167-2171.   \n[16] Walter,JM,Greenfield,D,Bustamante, C,et al.Light-powering Escherichia coli with proteorhodopsin. Proceedings of the National Academy of Sciences of the United States of America,2007,104(7): 2408-2412.   \n[17] Hampp,N Bacteriorhodopsin as a Photochromic Retinal Protein for Optical Memories. Chemical Reviews,2000,100(5): 1755-1776.   \n[18] Lanyi,J K,and Pohorille,A Proton pumps: mechanism of action and applications. Trends in Biotechnology, 2001,19(4): 140-144. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Effect of D97N Mutation on Proton Transport and Energy Conversion in the Photoreceptor Archaerhodopsin 4 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "WANG Juan GAO Yu-jiao SUN Chao ZHAO Xin (ShanghaiKeyLboratoryfgneticesoance,choolofysicsandaterialsience,EastChinaNoalUiversityagi ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "200062,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AbstractArchaerhodopsin 4 (aR4) is a newly discovered photosensitive retinal protein from the claret membrane of Halobacterium species xz515. It functions as a proton pump similar to bacteriorhodopsin (bR) but with an opposite temporal order of proton uptake and release at neutral pH. Aspartic acid 97 (D97) is one of the key residues as the proton donor during the photocycle in aR4. Its function on the photocycle,the proton pump function and the energy conversion is very important for a deep understanding of the relationships between aR4 structure and function, especially with proton release and uptake order. In this study, single mutation of D96N of bR and D97N of aR4 have been successfully constructed by combining site-directed mutagenesis with heterologous expression in Halobacterium species L33.The influences of mutations on the retinal binding pocket, transient kinetic change of the M state and O state,and the ATP conversion efficiency have been studied by UV-VIS and flashlight induced kinetic absorption change spectroscopy. The results show that D97N mutation in aR4 does not affect the UV absorption of the retinal chromophore，but results in a significant prolongation of the M state,a greatly weakened proton pump,and a decreased ATP formation efficiency. This indicates a different function of D97 in aR4 than the same type residue D96 in bR due to a more hydrophobic environment along the proton translocation channel from D97 to the retinal chromophore. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words:Archaerhodopsin 4site-specific mutation photo-intermediate proton pump aspartic acid 97 ",
+        "page_idx": 12
+    }
+]

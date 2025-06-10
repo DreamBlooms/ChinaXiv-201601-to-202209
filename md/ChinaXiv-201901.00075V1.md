@@ -1,0 +1,217 @@
+# 习得年龄对客体和动作图画口语命名的不同影响：ERP研究
+
+娄昊李丛张清芳(中国人民大学心理学系，北京 100872)
+
+摘要词汇习得年龄指人们最早理解单词意义时的年龄，已有研究发现早习得词汇的阅读反应时间短于晚习得词汇，研究者对于词汇习得年龄效应的认知机制存在争论。本研究运用事件相关电位技术，考察了词汇习得年龄(早与晚)对客体图画和动作图画命名的影响。研究中采用图画命名任务，要求被试在看到图画后迅速且准确地说出图画名称。结果发现早习得名词的命名快于晚习得名词，而早习得动词的命名却慢于晚习得动词；习得年龄对于名词产生的影响发生在图画呈现后的 $2 5 0 { \sim } 3 0 0 ~ \mathrm { m s }$ 之间，表现为早习得名词波幅小于晚习得名词，而习得年龄对于动词产生的影响发生在图画呈现后的 $2 0 0 { \sim } 6 0 0 ~ \mathrm { m s }$ 之间，表现为早习得动词波幅大于晚习得动词。这表明名词产生中的习得年龄效应发生在词汇选择阶段，支持了语义假设的观点；动词产生过程中的习得年龄效应出现在多个加工阶段，包括了词汇选择、音韵编码和语音编码阶段，这与动词语义的多重性及其与动作相关的脑区激活有关，支持了网络可塑性假说的观点。
+
+关键词口语词汇产生；图画命名；客体图画；动作图画；词汇习得年龄效应
+
+分类号 B842
+
+# 1 前言
+
+词汇习得年龄(Age of acquisition,AoA)是指以□语或书面语的形式接触到这个词并理解其意义的年龄(Carroll&White,1973；陈宝国，尤文平，王立新，2006)。Carroll和White(1973)首先发现AoA是影响词汇通达和产生速度的重要因素，表现在早期习得的词语比晚期习得的词语加工要容易，即早习得词比晚习得词加工速度更快，反应时更短，即词汇习得年龄效应(以下简称为"AoA 效应")。AoA效应的研究关系到早期语言的习得是否影响了成人语言加工，具有重要的理论意义和实践意义(陈宝国，尤文平，周会霞,2007)。
+
+关于AoA效应的研究采用的刺激材料包括了词汇和图画。采用词汇作为目标材料时研究者采取的任务包括了词汇判断(Johnston&Barry,2006)、词汇命名(Barry,Johnson,&Wood,2006)、语义范畴判断(Chen,Zhou,Dunlap,&Perfetti,2007)。采用图片作为刺激材料时,AoA指的是图画名称的习得年龄，任务包括了图片语义分类(Catling&Johnston,2006)、图片知觉辨认任务(Holmes&Ellis，2006)、客体图画口语命名(Catling，Dent，Johnston，& Balding,2010；Laganaro & Perret，2O11；Perret，Bonin，&Laganaro,2014)和动作图画口语命名(Bonin,Boyer,Méot,Fayol,&Droit,2004;Shao,Roelofs,& Meyer,2013)。在两类刺激材料的加工中都发现了AoA效应，但是两类材料下的加工过程是不同的。词汇加工为词汇识别过程，是从字形到语义的加工过程，而图片加工为词汇产生过程，包括了概念准备、词汇语义选择(基于概念的激活选择相应的词汇，包括句法和语义的选择)、音韵编码(提取音段信息和节律信息)、语音编码(编码各类信息的发音运动程序)和发音等过程(Levelt,Roelofs,&Meyer,1999)。
+
+# 1.1 AoA效应的产生机制
+
+研究者对AoA 效应产生机制存在激烈争论，提出了不同理论假设，主要有语音完整性假设和语义假设。语音完整性假设(phonological completenesshypothesis)认为AoA 效应发生在词汇加工的语音提取阶段，早习得词语音以整体形式存储，而晚习得词语音以非整体分解的形式存储，包括了各个音段以及节律信息等。在提取单词语音信息时，早习得词可以整体提取，晚习得词需要整合各个部分后再整体提取，因此早习得词的提取快于晚习得词，表现为反应时更快(Brown&Watson,1987)。Gerhand和Barry (1999)在真假词的词汇判断任务中要求被试对真词和不符合发音规则的假词进行判断，或者让被试在完成词汇判断任务时同时完成发音抑制任务，减少对语音信息的加工，结果发现完成任务时语音信息减少，AoA效应也相应减少，因此研究者认为AoA效应发生于语音提取阶段。
+
+后来的一些实验发现不符合语音完整性假设的观点。Mobaghan 和Ellis (2002)的语音分割实验中，要求被试对单词的语音进行分割后发音，结果发现与早习得词相比，晚习得词未表现出更易进行语音分割，这不符合语音完整性的假设。语音完整性假设认为晚习得词是分解表征的，那么在语音分割任务中的反应时应该更快。国内学者使用汉语材料对AoA效应的语音完整性假设进行检验，也发现了相似的结果。张振军、丁国盛和陈宝国(2011)采用三种语音匹配任务，分别为整体语音加工任务(整体语音匹配任务)和部分语音加工任务(声母匹配任务和韵母匹配任务)，在两类任务中都发现早习得词的加工速度快于晚习得词。研究结果不符合语音完整性假设对部分语音加工任务中晚习得词提取更快的预期。张积家、陈穗清、张广岩和戴东红(2012)的研究中采用聋人大学生作为被试，聋生与健听生相比，语音意识较弱，采用手语命名的反应方式也在一定程度上控制了语音的作用；在提取字义时，聋生会更多采用形到义的加工方式(方俊明，张朝，1998)。按照语音完整性假设观点，聋大学生在图片命名任务、汉字语义分类任务和图片的语义分类任务这三种任务中，应当不会出现AoA效应，但是研究发现在三种任务中都存在显著的AoA效应，与语音完整性假设预期不符。语音完整性假设也不能解释在另外一些涉及语义加工但不需要语音信息参与的任务中，如语义范畴判断任务，也发现了 AoA 效应(Brysbaert，Van，& DeDeyne,2000)。
+
+语义假设(semantic hypothesis)则认为词汇习得的顺序是语义系统最重要的组织原则，晚习得词汇的意义建立在早习得词汇的语义基础上，AoA效应发生在词汇的语义加工过程。Brysbaert等(2000)在语义联想任务中要求被试说出目标词出现时联想到的第一个词，在语义分类任务中要求被试对目标词进行语义分类，结果在两个语义加工任务中均发现了典型的AoA效应，表明AoA效应发生于语义加工过程。研究者在多种涉及语义层面加工的判断任务中，如有无生命性判断任务(Morrison&Gibbons，2006)、人造物体判断任务(Catling&Johnston，2006)，都发现了显著的AoA效应。国内研究者对汉语词汇加工过程中AoA效应产生机制的研究结果倾向于支持语义假设。陈宝国等(2007)比较了词汇命名(呈现词语要求被试朗读单词)和图片命名，结果在汉字命名中未发现AoA效应；研究者进一步采取呈现单词进行语义范畴的判断任务以及图片语义分类任务，结果都发现了AoA效应。三个系列实验表明AoA效应发生在语义加工过程，与音韵提取过程无关，支持了语义假设。陈俊、林少惠和张积家(2011)采用类似的实验任务得到了相同的结果。研究者认为汉语中的词汇命名中未出现AoA效应，可能是由于汉字是意音文字，字形与语音无直接联系，在汉字识别中语音的作用不够强，而语义的作用比较强导致的。
+
+研究者发现AoA 效应也有可能发生在多个加工阶段中(Holmes&Ellis,2006;Catling&Johnston,2009）。网络可塑性假设(NetworkPlasticityHypothesis)是根据基于计算机模拟的联结主义的观点提出来的。Ellis 和Lamboo Ralph(2000)通过计算机模拟发现早期训练的模式比晚期训练的模式表征得更好，这与AoA效应的表现类似。在网络结构中，早习得词汇对词汇网络的塑造作用比晚习得词汇重要，且晚习得词汇的网络结构可塑性降低。根据该假设的观点，AoA效应可以出现于所有涉及个体已有信息提取的阶段，即概念加工、语义加工和语音加工等多个层次。Holmes 和Ellis (2006)在图片范畴判断任务中发现，在语音抑制条件和无语音抑制条件下均观察到了AoA效应，但是AoA效应在语音抑制任务中会减小，说明AoA 效应的产生可能部分来源于语音编码阶段，但在语音抑制任务中，虽然AoA效应减小但并未消失，这说明AoA效应不仅仅发生在语音编码阶段。Catling和Johnston (2009)在图图判断任务(判断前后两张图是否相同)、客体真实性判断任务、图词判断任务(后呈现的词与前呈现的图含义是否相同)和图画命名任务中检验AoA效应的存在，并对产生的AoA效应量的大小(Cohen'sd)进行比较。结果在四种任务中均发现了AoA效应，图画命名任务中的AoA效应量最大，图图判断任务和客体真实性判断任务的AoA效应量大小接近，图词判断任务效应量大于前两种任务但差异未达到显著水平。图画命名任务效应量最大，显著大于其他三种任务。研究者认为图图判断任务和客体真实性判断任务主要涉及概念加工过程，在这两个任务中发现AoA效应，说明该效应发生于概念水平。图词判断任务涉及概念加工和语义加工，在这一任务中观察到的 AoA 效应量高于前两个任务，但未达到显著水平，说明AoA效应也可能发生于语义加工阶段。在图画命名中观察到了显著高于其他三种任务的AoA 效应量，说明在音韵编码阶段相较于概念和语义阶段产生了更大的AoA效应。同时图画命名任务相较于其他三种任务包含了更多加工过程，AoA 效应量更大,这一结果也符合网络可塑性假设的观点。陈宝国、尤文平、张亚峰和刘文焕(2010)对汉字早期字形加工阶段的AoA效应的研究中，采用模糊字辨认的视觉时间阈限测定的方法，发现早习得汉字辨认时间短且准确率更高，早习得汉字的识别阈限显著短于晚习得汉字，说明在汉字早期字形的加工阶段存在AoA效应，也说明AoA效应在知觉加工阶段也有可能发生(同见 Chen,Dent,You,& Wu,2009)。
+
+综上，第一，AoA效应的语音完整性假设是基于词汇理解过程(词汇命名)的结果，而语义假设和网络可塑性假设主要是基于词汇产生过程(图画命名、图画分类等)的结果。网络可塑性假设比语音假设和语义假设更为灵活，能够解释AoA在词汇理解和词汇产生过程中的发现。第二，尽管词汇理解和词汇产生过程都包含了语义和语音加工，但两个过程所涉及的语义和语音加工过程可能不同。以图画作为刺激材料的词汇产生过程中，首先激活的是图画的概念，之后是词汇的语义选择和音韵编码、语音编码和发音。图图判断任务、图画范畴分类一般只包括了概念水平的提取，而图词判断任务包括了概念和词汇水平的语义提取。相比而言，词汇识别的过程中不一定要语义加工过程参与，即AoA效应与概念和词汇水平上语义的激活存在密切关联。
+
+# 1.2AoA在客体命名和动作命名中的不同作用
+
+名词和动词是语言中两种基本词类，在语义层面、句法层面和语用层面等多个语言学水平上均存在差异，如在句子加工中动词具有功能性的作用，名词则作为论元角色发挥作用。动词的表达相较于名词也更为复杂，名词的表达通常是对某一客体的指代，而动词的表达涉及了与其相关联的其他概念(Gentner，1982)，动词的概念和词汇水平上的语义激活比名词更加复杂。已有研究表明名词和动词在理解和产生等方面均存在显著差异。
+
+AoA是影响客体图画命名的重要因素之一。在多种字母语言的客体图画命名任务研究中，采用回归分析的方法，均发现 AoA是图画命名速度的显著预测因子(Bates,etal.，2003；Alario,etal.,2004;汉语：Weekes,Shu,Hao,Liu,& Tan,2007; Liu,Hao,Li,&Shu,2011)。在动作图画命名的研究中,Cuetos和 Alija (2003)对西班牙语动作图画命名潜伏期的影响因素的回归分析中，发现AoA是影响图画命名反应时的重要因素(同样的结果见Schwitter,Boyer,Méot,Bonin 和Bonin 等(2004)对法语的研究)。尽管如此，研究者在汉语动作图画命名研究中并未发现 AoA 显著的影响作用。陈永香和朱莉琪(2015)在动作图画命名潜伏期影响因素的研究中，发现了H值(命名一致性的指标)、熟悉性和视觉复杂性对动作图画命名的影响作用。虽然相关分析中发现AoA与图画命名的反应时之间存在0.137的正相关 $( p < 0 . 0 5 )$ ，但是在与其他因素共同预测命名反应时的分析中，AoA这一预测变量未能进入回归方程。李丛、张清芳和黄韧(2017)考察了AoA在客体和动作图画命名任务中的作用，在客体图画命名中发现了经典的AoA效应但在动作图画命名中却发现了反转的AoA效应，即早习得词汇的动作图画命名速度慢于晚习得词汇的动作图画命名。
+
+已有AoA效应的研究均采用行为反应时作为指标，本研究则采用高时间分辨率的事件相关电位技术，进一步考察 AoA 影响客体图画和动作图画口语命名中的加工阶段。图画口语命名是言语产生研究中的经典任务，包括了概念准备、词汇选择、音韵编码、语音编码和发声等过程，大约在 $6 0 0 \sim$ $7 0 0 ~ \mathrm { { \ m s } }$ 内完成(Leveltetal.，1999)，元分析结果发现词条提取发生在图画呈现后的 $2 0 0 { \sim } 2 7 5 ~ \mathrm { m s }$ 之间,音韵编码发生在图画呈现后的 $2 7 5 { \sim } 4 5 0 \ \mathrm { \ m s }$ 之间，语音编码发生在图画呈现后的 $4 5 5 { \sim } 6 0 0 ~ \mathrm { m s }$ 之间。上述过程加工完毕后，讲话者即可顺利地表达出目标词汇(Indefrey&Levelt,2004;Indefrey,2011)。在图画命名任务中，动词命名比名词命名反应时更长(Druks et al.，2006；Matzig，Druks，Masterson，&Vigliocco,2009)。通过比较AoA效应的时间进程与元分析的结果，可以确定其在口语产生过程中的发生阶段。
+
+Laganaro 和 Perret (2011)在法语口语产生中,采用图画命名和延迟图画命名任务，结果只在图画命名任务中发现了AoA效应，AoA效应发生在$2 2 0 { \sim } 2 5 0 \ \mathrm { m s }$ 和 $3 3 0 { \sim } 3 5 0 \ \mathrm { m s }$ 这两个时间窗口，分别对应言语产生过程中的词条选择和音韵编码阶段。研究者进一步采用脑电地形图微态分割的方法，发现AoA效应稳定地出现于 $3 5 0 ~ \mathrm { { m s } }$ 左右的时间窗口,即音韵编码阶段(类似的结果见Laganaro，Valente,&Perret,2012;Perret etal.,2014)。因此，研究者认为在法语口语产生中，AoA效应的发生阶段位于音韵编码阶段，且发生在单一阶段而非多阶段。已有有关汉语中AoA效应的ERP研究针对的是词汇识别过程(白学军，王丽红，吕勇，胡伟,2010;Weekes,2011)，尚未出现对汉语口语产生中AoA效应的ERP研究，也未关注图画名称词性的不同对图画口语命名过程的影响。
+
+因此，本研究采用高时间分辨率的ERP技术，考察词汇习得年龄(早与晚)对客体图画和动作图画命名是否产生了不同的影响，其影响的时间进程有何不同，同时进一步检验语音完整性假设、语义假设及网络可塑性假设的理论观点，确定名词产生和动词产生过程中AoA效应的发生阶段。实验中要求被试完成图画口语命名任务，实验刺激材料包括了客体图画和动作图画，分别包括了图画名称为早和晚习得的词汇。这一任务涉及了口语产生的所有过程，包括概念准备、词汇选择、音韵编码、语音编码和发声阶段，可以观察到AoA对客体词汇和动作词汇产生的具体阶段的影响。根据语音完整性假设，预期AoA效应发生在口语命名过程中的音韵编码和语音编码阶段；根据语义假设，预期AoA效应出现在语义加工过程，包括了概念准备和词条选择阶段。由于客体词汇和动作词汇之间的差异，动作词汇相较于客体词汇涉及其他语言学因素(题元关系等)更多，动作词汇的加工更为复杂，因而早习得与晚习得的动词差异应该会更大，相较于名词而言，AoA对动词产生过程的影响可能是多阶段的。根据网络可塑性假说，名词和动词的产生过程中的AoA效应都可能发生在多个加工阶段。
+
+# 2方法
+
+# 2.1被试
+
+28 名(9 名男生，平均年龄22.18岁，标准差2.56岁)来自北京地区高校，自愿参加实验的大学生。无脑部疾病史，母语为汉语，普通话标准，视力或矫正视力正常。所有被试在实验之前阅读知情同意书并签字，实验之后获得一定报酬。
+
+# 2.2材料
+
+实验材料包含94幅客体图画(选自Liuet al.,2011)和94幅动作图画(其中27幅选自Masterson&Druks,1998,67幅选自Akinina etal.,2014；李丛等,2017)，其中4幅客体图画和4幅动作图画为练习图画。客体图画的习得年龄指标来源于Liu 等(2011)建立的数据库，动作图画的习得年龄来源于季丛(2017)硕士学位论文中所建立的动作图画指标的数据库。客体图画和动作图画分别根据图画名称习得年龄的早晚划分为4类图画各45幅。早、晚习得客体图画和早、晚习得动作图画分别在命名一致性、熟悉性、具体性、视觉复杂性、表象变异性和词频等因素上进行了匹配(参见表1)。 $t$ 检验表明,早晚习得客体图画的习得年龄差异显著， $t ( 4 4 ) ~ =$ -13.19, $p < 0 . 0 1$ ；早晚习得动作图画的习得年龄差异显著, $t ( 4 4 ) = - 1 4 . 1 5 , p < 0 . 0 1$ ，在命名一致性、熟悉性、具体性、视觉复杂性、表象变异性和词频上均无显著性差异 $( t \mathrm { s } < 2 , p \mathrm { s } > 0 . 0 5 )$ 。
+
+# 2.3 设计
+
+实验设计包括了词类(客体图画、动作图画)和AoA (早习得、晚习得)两个自变量，均为被试内因素。被试对动作图画和客体图画分别进行命名，动作图画命名和客体图画命名顺序在被试间进行平衡：一半被试先进行客体图画命名，再进行动作图画命名任务；一半被试先进行动作图画命名，再进行客体图画命名任务。在命名任务中，图画均以伪随机顺序呈现在屏幕中央，名称首音相同的图画不连续呈现。
+
+# 2.4仪器
+
+实验仪器包括E-prime2.0软件、PET-SRBOX反应盒、麦克风和计算机等。图画均在PII-667计算机屏幕中央呈现，被试的反应通过PET-SRBOX连接的麦克风记录。所有实验材料的呈现、计时以及被试反应时间的采集均由计算机控制。
+
+表1客体和动作图画早习得词与晚习得词的各项指标均值及其标准差  
+
+<html><body><table><tr><td rowspan="2">各项指标</td><td colspan="4">客体图画</td><td colspan="4">动作图画</td></tr><tr><td>早习得词</td><td>晚习得词</td><td>t</td><td>P</td><td>早习得词</td><td>晚习得词</td><td>t</td><td>P</td></tr><tr><td>习得年龄</td><td>2.58 (0.59)</td><td>4.42 (0.73)</td><td>-13.19</td><td><0.01</td><td>2.53 (0.37)</td><td>3.38 (0.25)</td><td>-14.15</td><td><0.01</td></tr><tr><td>命名一致性(%)</td><td>69.78 (18.36)</td><td>70.24 (0.22)</td><td>-0.11</td><td>0.91</td><td>71.68 (18.34)</td><td>78.97 (16.37)</td><td>-0.95</td><td>0.35</td></tr><tr><td>熟悉性</td><td>4.36 (0.47)</td><td>4.38 (0.37)</td><td>-0.19</td><td>0.85</td><td>3.22 (0.73)</td><td>3.35 (0.88)</td><td>-0.24</td><td>0.81</td></tr><tr><td>具体性</td><td>3.84 (0.43)</td><td>3.94 (0.42)</td><td>-1.19</td><td>0.24</td><td>2.01 (0.38)</td><td>1.91 (0.40)</td><td>0.61</td><td>0.55</td></tr><tr><td>视觉复杂性</td><td>3.13 (0.94)</td><td>3.27 (0.80)</td><td>-0.78</td><td>0.44</td><td>3.05 (0.64)</td><td>3.17 (0.58)</td><td>-1.04</td><td>0.30</td></tr><tr><td>表象一致性</td><td>1</td><td>1</td><td>1</td><td>1</td><td>3.84 (0.62)</td><td>3.89 (0.58)</td><td>-1.13</td><td>0.26</td></tr><tr><td>表象变异性</td><td>3.18 (0.37)</td><td>3.11 (0.35)</td><td>0.96</td><td>0.34</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>词频对数</td><td>3.86 (0.92)</td><td>3.57 (0.72)</td><td>1.66</td><td>0.11</td><td>3.63 (0.93)</td><td>3.34 (0.63)</td><td>1.80</td><td>0.08</td></tr></table></body></html>
+
+注：图画名称的词频在《现代汉语通用词表》(2003)中查得。
+
+# 2.5 程序
+
+被试坐在实验室内电脑正前方约 $7 0 ~ \mathrm { c m }$ 处，进行图画命名任务，实验需要经过(1)学习阶段：被试学习图画及其所对应的名称。告诉被试这些图画在接下来的正式实验中会出现，并且要求被试记住每一幅图画所对应的名称。学习完毕之后会测试被试的学习情况，如果被试对某一幅图画的命名出现错误，主试会及时纠正，并告知要记住程序中所给出的图画名称，直到被试能够按照正确名称进行命名。(2)练习阶段：对4幅练习图画分别进行命名，以熟悉实验程序和操作。(3)正式实验阶段：被试尽可能迅速且准确地对图画中的动作(动作图画)或客体(客体图画)进行命名。
+
+练习阶段和正式实验阶段的程序基本一致，每一试次的流程如下：首先，屏幕正中间呈现注视点$^ { 6 6 } + ^ { 9 9 } 5 0 0 \mathrm { ~ m s }$ ，接着屏幕中央随机呈现一幅客体图画(客体图画命名测试中)或动作图画(动作图画命名测试中)，被试尽可能迅速且准确地对图画进行命名，被试开始做出反应后图画消失，接着呈现 $1 0 0 0 \mathrm { { m s } }$ 的空屏，空屏呈现结束后进入下一试次。如果被试$2 0 0 0 ~ \mathrm { \ m s }$ 内不做反应，图画自动消失，呈现空屏$1 0 0 0 ~ \mathrm { { m s } }$ ，进入下一试次。在命名过程中，要求被试尽可能不要发出“嗯”、“啊"等声音。计算机记录被试的反应时间，主试记录被试的命名正确率。实验过程中休息3次，每次休息1分钟，整个实验大概持续30分钟。
+
+# 2.6 EEG记录与分析
+
+使用美国NeuroScan公司生产的ESI-64导脑电记录系统。参考电极为右乳突的均值。前额发际线下 $1 \ \mathrm { c m }$ 处连接接地电极，垂直眼电(VEOG)和水平眼电(HEOG)均为双极记录，VEOG电极分别置于左眼眼眶上和眼眶下正中间的位置，HEOG两电极分别置于眼角左右两侧 $1 \ \mathrm { c m }$ 处。每个电极处的头皮电阻均保持在 $5 ~ \mathrm { k } \Omega$ 以下。连续记录时滤波带通为 $0 . 0 5 { \sim } 1 0 0 \mathrm { H z }$ ，采样率为 ${ 5 0 0 } \mathrm { H z } /$ 导。离线分析时程(epoch)为图画呈现前 $2 0 0 ~ \mathrm { { m s } }$ 到图画呈现后 $6 0 0 ~ \mathrm { { m s } }$ 。基线为图画出现前 $2 0 0 ~ \mathrm { { m s } }$ ，数据分析时采用 $0 . 1 { \sim } 3 0$ $\mathrm { H z }$ 的带通滤波，只对被试正确反应的刺激所引起的EEG进行平均叠加。删除眼电、肌电、漂移等伪迹，波幅超过 $\mathrm { \pm 1 0 0 ~ \mu V }$ 的记录在叠加中自动删除，对EEG数据分类叠加，共得到早习得名词、晚习得名词、早习得动词和晚习得动词产生的4种条件下的波形。
+
+选取9个兴趣区(Regions ofInterest,ROI)，其中每个外侧ROI波幅值是两个电极点的平均波幅：左前(F3，F5)，中前(FZ)，右前(F4，F6)、左中(C3,C5)，中中(CZ)，右中(C4，C6)，左后(P3，P5)，中后(PZ)和右后(P4,P6)区域。将每个时间窗口的平均波幅分别进行2(词类：名词、动词) $_ { | \times 2 | }$ 习得年龄：早习得、晚习得) $\scriptstyle \left. \times 3 \right.$ （脑区：前、中、后） $| \times 3 |$ 半球：左、中、右)的重复测量方差分析，重复测量方差分析中球形性假设不成立时，使用Greenhouse-Geiss 法校正。
+
+# 3 结果
+
+28名被试中删除了7名被试数据，5名被试因叠加次数不够，2名被试因EEG信号伪迹太多而删除，共分析了21名被试数据，每名被试每个条件下有效叠加试次数均超过40次。
+
+# 3.1 行为结果
+
+删除错误反应的数据，4种条件下错误率分别为：早习得名词 $3 . 6 \%$ ，晚习得名词 $3 . 2 \%$ 、早习得动词 $5 . 4 \%$ ，晚习得动词 $4 . 5 \%$ 。删除错误率大于 $10 \%$ 的项目，共删除项目3个，其中晚获得名词1个，早获得动词2个。删除反应时小于 $3 0 0 ~ \mathrm { { \ m s } }$ 和大于$2 0 0 0 ~ \mathrm { \ m s }$ 的数据，删除平均值三个标准差以外的数据。对反应时数据进行2(词类：名词、动词) $_ { | \times 2 | }$ 习得年龄：早习得、晚习得)两因素方差分析，被试方差分析 $( F _ { I } )$ 和项目方差分析 $( F _ { 2 } )$ 的结果表明：词类主效应显著，名词命名反应时 $( 8 0 6 \pm 6 3 ~ \mathrm { m s } )$ 快于动词0 $8 7 3 \pm 6 2 ~ \mathrm { m s } )$ ， $F _ { 1 } \left( 1 , 2 0 \right) = 6 8 . 1 6$ $p = 0 . 0 1$ $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 7 7$ $F _ { 2 } \left( 1 , 1 7 3 \right) = 5 2 . 9 0$ $p = 0 . 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 3$ 。习得年龄主效应不显著, $F _ { 1 } \left( 1 , 2 0 \right) = 0 . 0 3$ ， $p = 0 . 8 8$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 0 1$ ， $F _ { 2 }$ $( 1 , 1 7 3 ) = 0 . 0 1$ ， $p = 0 . 9 6$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 0 1$ 。词类和习得年龄的交互作用显著, $F _ { 1 }$ $( 1 , 2 0 ) = 4 0 . 6 8$ ， $p = 0 . 0 1$ ， $\boldsymbol \eta _ { \mathrm { p } } ^ { 2 } =$ 0.67, $F _ { 2 }$ $( 1 , 1 7 3 ) = 6 . 0 7$ ， $p = 0 . 0 2$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 0 3$ 。进一步的分析表明，早习得名词 $( 7 9 4 \pm 6 6 ~ \mathrm { m s } )$ 反应时快于晚习得名词( $8 1 8 \pm 6 0 ~ \mathrm { m s } )$ ，在被试分析中两者差异显著, $F _ { 1 } ( 1 , 2 0 ) = 1 7 . 6 2 \$ $p = 0 . 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 7$ ，项目分析中两者差异边缘显著, $F _ { 2 } ( 1 , 8 7 ) = 3 . 4 5$ $p = 0 . 0 7$ $\eta _ { \mathrm { p } } ^ { 2 } = \ 0 . 0 4$ ；早习得动词反应时 $( 8 8 5 ~ \pm ~ 6 0 ~ \mathrm { ~ m s } )$ 慢于晚习得动词 $( 8 6 2 \pm 6 3 ~ \mathrm { m s } )$ ，在被试分析中两者差异显著, $F _ { I } ( 1 , 2 0 ) = 2 8 . 1 4 \$ $p = 0 . 0 1$ ， $\boldsymbol \eta _ { \mathrm { p } } ^ { 2 } = 0 . 5 9$ ，项目分析中两者差异边缘显著, $F _ { 2 } ( 1 , \ 8 6 ) \ = \ 2 . 6 9$ ， $p \ = \ 0 . 1 0$ $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 0 3$ 。
+
+# 3.2 ERP结果
+
+剔除反应错误和反应时小于 $5 0 0 ~ \mathrm { ~ m s ~ }$ 或大于$2 0 0 0 ~ \mathrm { \ m s }$ 的试次。已有研究表明图画刺激呈现175ms 为视觉加工阶段(Levelt etal.，1999)，且以往研究在刺激呈现后 $2 0 0 ~ \mathrm { { \ m s } }$ 的时间窗内未发现过AoA效应(Bakhtiar,Su,Lee,& Weekes,2016)，因此，根据波形观察和已有发现，本研究仅分析 $2 0 0 ~ \mathrm { { \ m s } }$ 后的 ERP 波幅，分析以 $5 0 ~ \mathrm { { \ m s } }$ 为间隔分割时间窗口,包括了 $2 0 0 { \sim } 2 5 0 ~ \mathrm { ~ m s }$ ， $2 5 0 { \sim } 3 0 0 ~ \mathrm { ~ m s }$ ， $3 0 0 { \sim } 3 5 0 ~ \mathrm { ~ m s }$ ，$3 5 0 { \sim } 4 0 0 ~ \mathrm { m s }$ ， $4 0 0 { \sim } 4 5 0 ~ \mathrm { m s }$ ， $4 5 0 { \sim } 5 0 0 ~ \mathrm { m s }$ ， $5 0 0 { \sim } 5 5 0 ~ \mathrm { m s }$ 和 $5 5 0 { \sim } 6 0 0 ~ \mathrm { m s }$ 共8个时间窗口。对各个时间窗口的平均波幅分别进行2(词类：名词、动词) $^ { \mathbf { \nabla } _ { \times 2 } }$ (AoA:早习得、晚习得） $| \times 3 |$ （脑区：前、中、后） $^ { \times 3 ( }$ 半球：左、中、右)的重复测量方差分析(见表2)，发现了词类、AoA、脑区以及半球在所有时间窗口中都存在显著的交互作用。
+
+图1所示针对名词和动词分别计算了不同时间窗口下达到显著差异水平的各个兴趣区的AoA效应(早习得词-晚习得词)。图2所示是客体和动作图画在早晚AoA条件下F5电极点上的波形，及其在相应的时间窗口内AoA效应的地形分布图。
+
+# 4讨论
+
+采用图画口语命名任务和ERP技术，我们考察了AoA对汉语名词产生和动词产生过程的不同影响。在客体图画命名中发现了经典的AoA效应，即早习得客体图画命名速度快于晚习得客体图画命名；在动作图画命名任务中则发现了反转的AoA效应，即早习得动作图画命名慢于晚习得动作图画的命名。ERP结果发现客体图画名称的AoA效应出现在图画呈现后 $2 5 0 { \sim } 3 0 0 ~ \mathrm { m s }$ 的时间窗口内,表现为早习得名词平均波幅小于晚习得名词，晚习得名词平均波幅更正。动作图画名称的AoA效应出现在图画呈现后的 $2 0 0 { \sim } 2 5 0 ~ \mathrm { m s }$ ， $3 0 0 { \sim } 4 0 0 ~ \mathrm { m s }$ ，以及 $4 5 0 { \sim } 6 0 0 ~ \mathrm { ~ m s }$ 时间窗口内，表现为早习得动词比晚习得动词的平均波幅更大，波幅更正。ERP数据的波幅分析发现了名词与动词的AoA效应的表现模式不同，两者所涉及的认知机制不同。
+
+表2以词类、AoA和ROI为自变量在 $\mathbf { 2 0 0 { \sim } 6 0 0 ~ m s }$ 时间窗口(以 $\mathbf { 5 0 ~ m s }$ 为间隔)中方差分析的结果  
+
+<html><body><table><tr><td rowspan="2">变异来源</td><td colspan="2">200~250 ms</td><td colspan="2">250~300 ms</td><td colspan="2">300~350 ms</td><td colspan="2">350~400 ms</td><td colspan="2">400~450 ms</td><td colspan="2">450~500 ms</td><td colspan="2">500~550 ms</td><td colspan="2">550~600 ms</td></tr><tr><td>F</td><td>m</td><td>F</td><td>m</td><td>F</td><td>m</td><td>F</td><td></td><td>F</td><td>m</td><td>F</td><td></td><td>F</td><td>m</td><td>F</td><td></td></tr><tr><td>词类(1,20)</td><td></td><td>8.07** 0.29</td><td>3.46†</td><td>0.15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AoA (1,20)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>词类×AoA (1,20)</td><td>3.54†</td><td>0.15</td><td>3.42†</td><td>0.15</td><td>3.20†</td><td>0.14</td><td>3.38†</td><td>0.14</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>词类×脑区(2,40)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>34.40** 0.63 28.57** 0.59 18.53** 0.48 13.15** 0.40</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AoA×脑区(2,40)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>词类×AoA×脑区(2,40)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>词类×半球(2,40)</td><td></td><td></td><td></td><td></td><td>2.69†</td><td>0.12</td><td></td><td></td><td>2.53+</td><td>0.11</td><td></td><td></td><td></td><td></td><td>2.52†</td><td>0.11</td></tr><tr><td>AoA×半球(2,40)</td><td></td><td></td><td></td><td></td><td>6.24*</td><td>0.24</td><td>4.03*</td><td>0.17</td><td>5.69*</td><td>0.22</td><td>7.46**</td><td>0.27</td><td>5.44*</td><td>0.21</td><td>5.08*</td><td>0.20</td></tr><tr><td>词类×AoA×半球(2,40)</td><td></td><td></td><td>5.35*</td><td>0.21</td><td>7.95** 0.28</td><td></td><td>9.46**0.32</td><td></td><td>9.81**</td><td></td><td>0.3311.83**</td><td></td><td>0.37 17.52**</td><td>0.47</td><td></td><td>9.67**0.33</td></tr><tr><td>词类×脑区×半球(4,80)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.35†</td><td>0.11</td><td>3.14*</td><td>0.14</td><td></td><td>2.07† 0.09</td></tr><tr><td>AoA×脑区×半球(4,80)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.87*</td><td>0.13</td><td></td><td></td><td>3.40* 0.15</td><td></td></tr><tr><td>词类×AoA×脑区×半球 (4,80)</td><td></td><td>7.16** 0.26</td><td></td><td>8.89** 0.31</td><td>9.78** 0.33</td><td></td><td>8.36** 0.29 11.38** 0.36 18.53** 0.48 15.71*** 0.44 7.69** 0.28</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：\*\* $p < 0 . 0 1$ ，\* $p < 0 . 0 5$ ， $\dag 0 . 0 5 < p < 0 . 1 0$ ，一不显著
+
+![](images/0d8dcd657107e5905927fbf01f02899fd04a67ecbb0307aedb88ef974d76cd8b.jpg)  
+图1名词和动词在不同时间窗口下的AoA效应注：图中误差棒均为 $9 5 \% C \mathrm { I }$
+
+![](images/275e727591077aa6ed124997d4f054b67c88afb4d5059a701e98eb861e34aa6c.jpg)  
+图2F5电极点(左前)名词和动词AoA效应注：彩图见电子版
+
+本研究中所发现的名词和动词的命名潜伏期平均值为 $8 0 6 ~ \mathrm { { \ m s } }$ 和 $8 7 3 \mathrm { ~ m s }$ ，明显地长于元分析中所呈现的平均反应时 $6 0 0 { \sim } 7 0 0 ~ \mathrm { m s }$ 。反应时的延长是否会导致所包括的各个阶段产生相应地延迟？有研究者认为这会使得口语产生中所包括的各个阶段在时间进程上都发生延长，即由于各个阶段的所用时间都增加，最终导致了反应时的增加(Schuhmann,Schiller,Goebel,& Sack,20o9)。有的研究者则认为仅仅是某个阶段时间的增加导致了反应时的延长，Laganaro 等(2012)比较了反应时潜伏期不同的三组被试(反应时平均值从快到慢分别为 $7 1 4 ~ \mathrm { { m s } }$ ， $8 1 5 ~ \mathrm { m s }$ 和 $9 2 6 ~ \mathrm { m s }$ ，发现反应速度即潜伏期的长短不会影响 $0 { \sim } 2 0 0 ~ \mathrm { ~ m s }$ 之间的波形，而是影响了词汇选择过程。反应快的被试组其词汇选择过程大约用时 $7 4 { \sim } 8 5 ~ \mathrm { m s }$ (前2组被试)，而反应慢的被试组用时大约 $1 5 1 ~ \mathrm { { \ m s } }$ ，表明被试的词汇选择过程出现了延长，并非所有的过程都会延长。
+
+客体图画命名的AoA效应出现在 $2 5 0 { \sim } 3 0 0 ~ \mathrm { m s }$ 的时间窗口内，在口语产生过程中, $2 0 0 { \sim } 2 7 5 \ \mathrm { m s }$ 为词汇选择阶段，由于行为反应时较长，根据已有的研究结果(Schuhmann et al.,20o9；Laganaro et al.,2012)，我们认为词汇选择过程的时间可能会延长，因此这一时间进程更有可能对应的是词汇选择阶段，即客体图画命名的AoA效应发生在词汇选择阶段，与法语客体图画命名的研究结果一致(Laganaro&Perret,2011;Indefrey,2011)。早习得的名词其语义选择更容易，在波形上表现为早习得名词的波幅低于晚习得名词。相比而言，动作图画命名的AoA效应持续了更长的时程，出现在图画呈现后的 $2 0 0 { \sim } 2 5 0 ~ \mathrm { m s }$ ， $3 0 0 { \sim } 4 0 0 ~ \mathrm { m s }$ 和 $4 5 0 { \sim } 6 0 0 ~ \mathrm { m s }$ 的时间窗口内，这些时间窗口分别对应口语词汇产生中的词汇选择，音韵编码和语音编码阶段(Laganaro&Perret,2011;Indefrey,2011)。研究结果表明AoA效应在客体和动作图画命名中发生模式不同，客体图画命名中为单一阶段模式，而动作图画命名中为多阶段模式。
+
+研究结果表明AoA对名词产生和动词产生存在不同影响。根据名词AoA效应产生的时间进程$( 2 5 0 { \sim } 3 0 0 \ \mathrm { \ m s } )$ ，早习得与晚习得的名词在音韵编码和语音编码阶段无差异，与语音完整性假设不一致。这一时间窗口位于口语产生过程中的词汇选择阶段(Indefrey,2011)，与语义假设的观点一致。我们的发现与已有汉语图画命名任务的结果一致(陈宝国等，2007)，表明晚习得词概念的意义是建立在早习得词概念意义的基础之上，因此早习得词比晚习得词的语义激活和提取更快。动作图画命名中的AoA效应所出现的时间窗口分别对应于词汇选择、音韵编码和语音编码这三个加工阶段，表明动词口语产生中的AoA效应可能出现在多个加工阶段，与网络可塑性假设的预期一致。
+
+我们认为AoA效应在客体和动作图画命名中的不同表现可能来自于两个方面：第一，由于名词的语义明确，而动词具有多重涵义导致的；第二，早习得的动作词汇可能与多个概念之间发生联结，而晚习得的动作词汇与其他概念之间的联结相对较少(Gentner,1982)。在词频得到匹配的情况下，由于动词的命名中经常包含各种与其相关概念的激活，例如"打电话”，“打球”，“打水"等。因此，我们认为晚习得的动作词汇，其相关概念激活较少，对其命名造成的干扰则较少，与早习得的词汇相比，其动作命名越快。多重语义的激活以及相关概念的激活可能会使得动词的AoA效应发生在多个阶段，包括了词汇选择、音韵编码和语音编码各个阶段$( 2 0 0 { \sim } 6 0 0 ~ \mathrm { m s } )$ 。相比而言，名词的语义比较明确，词频匹配的情况下其AoA效应只发生在词汇选择阶段 $( 2 5 0 { \sim } 3 0 0 ~ \mathrm { m s } )$ 。本研究中所发现的AoA效应主要发生于大脑左半球和中部脑区(如图2所示)，与以往ERP研究结果相一致(Bakhtiaretal.,2016)。
+
+名词和动词的差异在人类习得语言的过程中一直存在。Tardif(1996)的研究发现，在个体语言习得和发展的过程中，名词和动词在习得最早的词汇中所占比重最大，动词相比于名词更难记忆并且习得的更晚。这一结果可能也与动词和名词的句法类别及其功能方面存在诸多差异有关，句子中动词起功能性的作用，而名词起论元的角色，同时动词的表达比名词更加复杂一些，名词的表达只需要一个物体的指代对象，而动词涉及了与具体动作相关联的概念(Gentner，1982)。神经心理学的研究也发现了图画命名过程中名词和动词的表现不同,Arevalo.Lu，Huang，Bates 和Dronkers (2011)对脑损伤患者的研究结果显示，在图画命名任务中，无论被试是否言语流畅，动词产生错误率都高于名词产生。本研究中也发现动词的错误率 $( 4 . 9 5 \% )$ 高于名词错误率 $( 3 . 4 \% )$ 。
+
+在印欧语系口语词汇产生的研究中，客体图画命名的AoA 效应可能发生在词汇选择和音韵编码两个阶段(Belke，Brysbaert，Meyer，& Ghyselinck,2005；Chalard & Bonin，2Oo6)。Laganaro 和 Perret(2011)发现AoA在图画刺激呈现后 $3 5 0 ~ \mathrm { { \ m s } }$ 左右的时间窗口起作用，持续了大约 $3 2 ~ \mathrm { m s }$ ，表明AoA效应可能发生于音韵编码阶段。汉语与印欧语系结果的不同可能与语言特点以及语言产生过程有密切关系：多数研究发现印欧语系的口语词汇产生过程中词汇选择和音韵编码之间存在双向联结(Starreveld&LaHeij,1995,1996;Damian&Martin,1999)，语义和音韵信息的激活基本上是同时的(Dell'Acquaet al.,2010)。汉语的口语词汇产生过程则发现这两个阶段之间的关系是独立的无交互作用，语义和音韵信息的激活时间是分离的(Zhu,Damian,& Zhang,2015;Zhu,Zhang,& Damian,2016)。
+
+以往有关名词AoA效应的发生阶段都针对的是词汇选择或音韵编码，并未涉及到语音编码阶段。在口语词汇产生中，语音编码阶段主要是为词汇的发音准备运动指令，在不同的语境中运动指令是不同的，相同的语音如果前后的音节不同，其运动指令就不同(Levelt etal.,1999)。为什么动作图画命名的AoA效应也有可能发生在语音编码阶段？研究发现名词和动词有不同的神经基础，在动词加工中额区激活，名词加工中颞-枕区激活，而且动词的含义是和运动神经通道相关的，靠近运动区的额叶在动词加工中起作用；具体名词的含义是和视觉通道相关的，名词的加工与靠近视觉中枢的颞-枕区有关(Pulvermuller，1999；Warrington&McCarthy，1987)，因而在动作图画命名的过程中相应的脑区产生了激活。
+
+Zevin 和 Seidenberg (2002)认为词汇产生中的
+
+AoA效应可能来源于词汇累计频率和频率分布模式的影响。对于名词来说，早习得名词可能在习得后的长时间内依然保有很高的使用频率，早习得名词的命名快于晚习得名词；随年龄增长，晚习得的复杂动词和抽象动词的使用比例在个体总体词汇中所占的比例会增加。早习得动词习得时间早于晚习得动词，但其累计频率可能少于晚习得动词，因而早习得动词的反应时更长，出现了AoA影响名词和动词模式的反转。汉语中是否也存在这一影响因素尚需要更进一步的研究。
+
+# 5 结论
+
+综上，本研究首次考察了汉语口语词汇产生过程中客体图画和动作图画命名中的AoA效应，发现在图画命名任务中，AoA对客体和动作图画的影响模式不同。早习得名词的命名反应时快于晚习得名词，而早习得动词的命名反应时慢于晚习得动词，出现了AoA效应的反转。名词的AoA效应发生在词汇选择阶段 $( 2 5 0 { \sim } 3 0 0 \ \mathrm { \ m s } )$ ，早习得名词的波幅小于晚习得名词；而动词的AoA效应出现在多个加工阶段，包括了词汇选择、音韵编码和语音编码阶段 $( 2 0 0 { \sim } 6 0 0 \ \mathrm { \ m s } )$ ，早习得动词的波幅大于晚习得动词；名词和动词的AoA效应主要出现在左半球。名词的AoA效应支持了语义假设的观点，而动词的AoA效应发生在多个加工阶段，为网络可塑性假说提供了支持证据。名词和动词产生过程中 AoA效应的认知机制不同，这可能与名词和动词在句子交流中的功能不同以及两者的语义联结网络不同有关。
+
+# 参考文献
+
+Akinina,Y.L.,Malyutina,S.,Ivanova,M.,Iskra,E.,Mannova, E.,& Dragoy,O.(2o15).Russian normative data for 375 action pictures and verbs.Behavior Research Methods, 47(3),691-707.   
+Alario,F.X.,Ferrand,L.,Laganaro,M.,New,B.,Frauenfelder, U.H.,& Segui,J.(2004).Predictors of picture naming speed. Behavior Research Methods， Instruments，and Computers,36(1),140-155.   
+Arévalo,A.L., Lu, C.C.,Huang,L.B.Y.,Bates,E.A.,& Dronkers,N.F.(201l).Action and object processing in brain-injured speakers of Chinese.Neuropsychology,25(6), 792-805.   
+Bai,X.J.，Wang,L.H.,Lv,Y.,& Hu,W.(2010).An ERP studyon ageofacquisition effect. Psychological Exploration,30(1),21-26.   
+[白学军，王丽红，吕勇，胡伟.(2010)．词汇的获得年龄效 应:ERP 研究．心理学探新,30(1),21-26.]   
+Bakhtiar,M.,Su,I.F.,Lee,H.K.,& Weekes,B.S.(2016). Neural correlates of age of acquisition on visual word recognition in Persian. Journal of Neurolinguistics,39, 1-9.   
+Barry, C., Johnston,R.A.,& Wood,R.F.(2006).Effects of age of acquisition,age,and repetition priming on object naming. Visual Cognition, 13(7-8),911-927.   
+Bates,E.,D'Amico,S., Jacobsen, T., Székely,A.,Andonova, E.,& Devescovi, A.，... Tzeng, O. (2003). Timed picture naming in seven languages.Psychonomic Bulletin Review, 10(2),344-380.   
+Belke,E., Brysbaert, M., Meyer, A. S.，& Ghyselinck,M. (2005). Age of acquisition effects in picture naming: Evidence for a lexical-semantic competition hypothesis. Cognition, 96(2), B45-B54.   
+Bonin,P.,Boyer,B., Méot,A., Fayol, M.,& Droit, S.(2004). Psycholinguistic norms for action photographs in French and their relationships with spoken and written latencies. Behavior Research Methods, Instruments,and Computers, 36(1),127-139.   
+Brown, G.D.A.,& Watson,F.L.(1987). First in, first out: Word learning age and spoken word frequency as predictors of word familiarity and word naming latency. Memory and cognition,15(3),208-216.   
+Brysbaert，M.，Van，W.I.，& De Deyne.S.(2000). Age-of-acquisition effects in semantic processing tasks. Acta Psychologica, 104(2),215-226.   
+Carroll,J.B.,& White,M. N.(1973).Age-of-acquisition norms for 220 picturable nouns. Journal of Verbal Learning and Verbal Behavior, 12(5),563-576.   
+Catling,J. C.,& Johnston,R.A. (2006). The effects of age of acquisition onan object classification task. Visual Cognition, 13(7-8), 968-980.   
+Catling, J. C.,& Johnston,R.A. (2009). The varying effects of age of acquisition. The Quarterly Journal of Experimental Psychology, 62(1),50-62.   
+Catling,J.C., Dent,K., Johnston,R.A.,& Balding,R.(2010). Age of acquisition, word frequency，and picture-word interference. Quarterly Journal of Experimental Psychology, 63(7), 1304-1317.   
+Chalard,M.,&Bonin,P. (2o6).Age-of-acquisitionfctsin picture naming: Are they structural and/or semantic in nature? Visual Cognition, 13(7-8), 864-883.   
+Chen,B.G.,Dent,K. You,W.P.,& Wu, G.L.(2009).Age of acquisition affects early orthographic processing during Chinese character recognition. Acta Psychologica,130(3), 196-203.   
+Chen,B.G., You,W.P.,& Wang,L.X. (2006). The research development of the age-of-acquisition effect in lexical processing. Psychological Science, 29(6),1515-1517.   
+[陈宝国，尤文平，王立新.(2006)．词汇习得年龄效应的研 究进展．心理科学,29(6),1515-1517.]   
+Chen,B.G.， You,W. P.,& Zhou, H. X. (2007).Age of acquisition effects in reading Chinese:Evidence in favor of the semantic hypothesis. Acta Psychologica Sinica,39, 9-17.   
+[陈宝国，尤文平，周会霞.(2007).汉语词汇习得的年龄效 应：语义假设的证据．心理学报,39(1),9-17.]   
+Chen,B.G.,You,W.P.,Zhang,Y.F.,& Liu,W.H.(2010) Acquisition age of effects on the early orthographic processingstage of Chinese characterrecognition. Psychological Science, 33(3), 726-728.   
+[陈宝国，尤文平，张亚峰，刘文唤.(2010).汉字早期字形 加工阶段的习得年龄效应．心理科学,33(3),726-728.]   
+Chen,B.G., Zhou,H.X., Dunlap,S.,& Perfetti, C.A. (2007). Age of acquisition effects in reading Chinese: Evidence in favour of the arbitrary mapping hypothesis. British Journal of Psychology, 98(3),499-516.   
+Chen,J.,Lin, S.H.,& Zhang,J. J. (2011). The word AoA effects in Chaoshan-Putonghua bilinguals’experimental periormance.Acia rsycnologica Sinica,45(∠)   
+[陈俊，林少惠，张积家. (2011).潮汕话-普通话双言者的词 汇习得年龄效应．心理学报,43(2),111-112.]   
+Chen,Y.X.,& Zhu,L.Q.(2015).Predictors of action picture naming in Mandarin Chinese.Acta Psychologica Sinica, 47(1), 11-18.   
+[陈永香，朱莉琪.(2015)．影响动作图片命名的因素．心理 学报,47(1),11-18.]   
+Cuetos,F.,& Alija,M.(20o3).Normative data and naming times for action pictures.Behavior Research Methods Instruments and Computers,35(1),168-177.   
+Damian，M.F.，& Martin，R.C.(1999).Semantic and phonological codes interact in single word production. Journal of Experimental Psychology: Learning， Memory, and Cognition, 25(2),345-361.   
+Dell' Acqua,R., Sessa, P., Peressotti,F., Mulatti, C., Navarrete. E.，& Grainger,J. (2010).ERP evidence for ultra-fast semantic processing in the picture-word interference paradigm.Frontiers in Psychology,1,177.   
+Druks,J.,Masterson,J.,Kopelman,M.,Claire,L.,Rose,A.,& Ray,G. (20o6).Is action naming better preserved (than object naming) in Alzheimer's disease and why should we ask? Brain and Language, 98(3), 332-340.   
+Ellis，A.W.，& Lambon Ralph,M.A.(2000). Ageof acquisition effects in adult lexical processing reflect loss of plasticity in maturing system: Insights from connectionist networks. Journal of Experimental Psychology: Learning, Memory and Cognition,26(5),1103-1123.   
+Fang,J.M.，& Zhang， Z. (1998). Comparative study on cognitive processing of Chinese characters between hearing-impaired and normal children.Chinese Journal of Special Education,(4),19-21.   
+[方俊明，张朝.(1998).聋人与听力正常人汉字加工认知途 径的比较研究．中国特殊教育,(4),19-22.]   
+Gentner, D.(1982).Why nouns are learned before verbs: Linguistic relativity versus natural partitioning. Language, 2,301-334.   
+Gerhand,S.,& Barry,C.(1999).Age of acquisition,word frequency,and the role of phonology in the lexical decision task. Memory and Cognition, 27(4),592-602.   
+Holmes, S. J.,& Elis, A. W. (2006). Age of acquisition and typicality effects in three object processing tasks.Visual Cognition, 13(7-8),884-910.   
+Indefrey,P. (20l1). The spatial and temporal signatures of word production components:A critical update.Frontiers in Psychology, 2,255-275.   
+Indefrey,P.，& Levelt，W. J. M.(2004). The spatial and temporal signatures of word production components. Cognition. 92(1-2),101-144.   
+Johnston,R.A.,& Barry,C.(2006). Age of acquisition and lexical processing. Visual Cognition, 13(7-8), 789-845.   
+Laganaro, M.，&Perret，C.(2011).Comparing electrophysiological correlates of word production in immediate and delayed naming through the analysis of word age of acquisition effects. Brain Topography, 24(1), 19-29.   
+Laganaro,M., Valente,A.,& Perret, C.(2012). Time course of word production in fast and slow speakers: A high density ERP topographic study. Neuroimage, 59(4), 3881-3888.   
+Levelt,W.J.,M.,Roelofs,A.,& Meyer,A.S.(1999).A theory of lexical access in speech production.Behavioral and Brain Sciences,22(1),1-75.   
+Li, C., Zhang, Q.F.,& Huang,R.(2017). The opposite effects of age of acquisition in object and action pictures naming. Psychological Exploration,37(3),220-225.   
+[李丛，张清芳，黄韧.(2017)．词汇获得年龄在物体和动作 片 当兴东部   
+Liu,Y. Y., Hao,M.L., Li,P.,& Shu, H. (2011). Timed picture naming norms for Mandarin Chinese.Plos One,6(1), e16505.   
+Masterson, J.,& Druks,J.(1998). Description of a set of 164 nouns and 102 verbs matched for printed word frequency, familiarity and age of- acquisition. Journal of Neurolinguistics, 11,331-354.   
+Matzig, S., Druks,J., Masterson,J.,& Vigliocco,G. (2009). Noun and verb differences in picture naming:Past studies and new evidence.Cortex,45(6),738-758.   
+Mobaghan, J.,& Elis, A. W. (2002). Age of acquisition and the completeness of phonological representations. Reading and Writing,15(7-8),759-788.   
+Morrison,C.M.,& Gibbons, Z.C.(2006). Lexical determinants of semantic processing speed. Visual Cognition, 13(7-8), 949-967.   
+Perret,C.，Bonin,P.,& Laganaro,M.(2014).Exploring the multiple-level hypothesis of AoA effects in spoken and written object naming using a topographic ERP analysis. Brain and Language, 135,20-31.   
+Pulverm u ller, F. (1999).Words in the brain'slanguage. Behavioral and Brain Sciences,22(2),253-279.   
+Schuhmann,T.，Schiller,N.O.，Goebel,R.，& Sack，A．T. (2009). The temporal characteristics of functional activation in broca's area during overt picture naming. Cortex, 45(9), 1111-1116.   
+Schwitter,V.,Boyer,B.,Méot,A., Bonin,P.,& Laganaro,M. (2004).French normative data and naming times for action pictures.Behavior Research Methods， Instruments,and Computers,36(3), 564-576.   
+Shao,Z. S., Roelofs, A.,& Meyer, A. S. (2013). Predicting naming latencies for action pictures: Dutch norms. Behavior Research Methods,46(1),274-283.   
+Starreveld,P.A.,& La Heij,W.(1995). Semantic interference, orthographic facilitation,and their interaction in naming tasks. Journal of Experimental Psychology: Learning, Memory, and Cognition,21(3),686-698.   
+Starreveld,P.A.,& La Heij，W.(l996).The locusof orthographic-phonological facilitation: Reply to Roelofs, Meyer, and Levelt (1996). Journal of Experimental Psychology: Learning，Memory，and Cognition， 22(1), 252-255.   
+Tardif,T.(1996).Nouns are not always learned before verbs: Evidence from Mandarin speakers' early vocabularies. Developmental Psychology, 32(3),492-504.   
+Warrington, E. K.,& McCarthy, R. A. (1987). Categories of knowledge: Furtherfractionationsandattempted integration.Brain,110(5),1273-1296.   
+Weekes,B. (2011).Age of acquisition effects on Chinese character recognition:Evidence from EEG.Procedia Social and Behavioral Sciences,23(23),67-68.   
+Weekes,B. S., Shu, H.,Hao, M.L.,Liu, Y.Y.,& Tan,L.H. (2007).Predictors of timed picture naming in Chinese. Behavior Research Methods,39(2),335-342.   
+Zevin, J. D.,& Seidenberg, M. S. (2002). Age of acquisition effects in word reading and other tasks. Journal of Memory and Language, 47(1),1-29.   
+Zhang,J.J., Chen, S. Q., Zhang,G.Y.,& Dai, D.H.(2012). Age of acquisition effects in deaf college students.Acta Psychologica Sinica, 44(11),1421-1433.   
+[张积家，陈穗清，张广岩，戴东红．(2012)．聋大学生的词 汇习得年龄效应．心理学报,44(11),1421-1433.]   
+Zhang，Z.J.，You,W.P.,& Chen,B.G.(2011).Age-ofacquisition effects of Chinese character: Test of phonological completeness hypothesis.Psychological Development and Education, 27(6), 577-583.
+
+语音完整性假设的检验．心理发展与教育，27(6)，577- 583.] Zhu,X.D.,Damian,M.F.,& Zhang,Q.F.(2015).Seriality of semantic and phonological processes during overt speech in Mandarin as revealed by event-related brain potentials.
+
+Brain andLanguage,144,16-25. Zhu,X.B.,Zhang,Q.F.,& Damian,M.F.(2016).Additivity of semantic and phonological effects: Evidence from speech production in Mandarin.The Quarterly Journal of Experimental Psychology,69(11),2285-2304.
+
+# Distinct effects of age of acquisition in Chinese object and action picture naming: An ERP study
+
+LOU Hao; LI Cong; ZHANG Qingfang (DepartmentofPsychology,Renmin UniversityofChina,Beijing10o872,China)
+
+# Abstract
+
+Age of Acquisition (AoA) refers to the age at which a concept is learned. Early-acquired words have an advantage over late-acquired words in processing accuracy and speed.Which stage of AoA playing its role in spoken word production remains controversial. The phonological completeness hypothesis assumes that AoA may have a phonological locus,while the semantic hypothesis assumes that AoA affects semantic processing (i.e.,conceptual preparation,lexical selection). The network plasticity hypothesis assumes that AoA arises at multiple processing levels, in spoken word production.
+
+In a picture naming task,we used the event-related potential (ERP) technique to examine the loci of AoA effect in object and action pictures naming. Twenty-eight participants (9 males, mean range: 22.18,SD: 2.56) participated in this study.We selected a total of 188 words and their coresponding black and white line pictures, half of which were object pictures,and half were action pictures. Within each type of picture, half were early acquired,and half were late acquired.Therefore,the age of acquisition of picture names (early vs.late)and word type (noun Vs.verb) served as within-participants variables.During the experiment, participants were asked to name each picture as accurately and quickly as possible.
+
+Behavioral data indicated a typical AoA effect in object pictures naming,showing that object pictures corresponding to early-acquired nouns were named faster than those corresponding to late-acquired ones. In contrast,action pictures corresponding to early-acquired verbs were named slower than those corresponding to late-acquired verbs.ERP data also showed distinct AoA effect paterns in object and action picture naming. For object picture naming,late-acquired nouns elicited a larger positivity than early-acquired nouns between $2 5 0 { \sim } 3 0 0 ~ \mathrm { m s }$ over left-prefrontal regions. In contrast, for action picture naming, early-acquired verbs evoked a larger positivity than late-acquired verbs within $2 0 0 { \sim } 2 5 0 ~ \mathrm { m s }$ ,300\~400 ms and $4 5 0 { \sim } 6 0 0 ~ \mathrm { m s }$ time windows over the left hemisphere.
+
+We suggest that the AoA effect in object naming may originate in the lexical selection of spoken word production,supporting the semantic hypothesis.In contrast, the AoA effects in action naming may originate in multiple processes，such as lexical selection,phonological encoding and phonetic encoding，supporting the network plasticity hypothesis.The distinct AoA effects between the naming of object and action pictures probably relate to the distinct semantic networks that represent objects and actions.Therefore,the AoA effect in action picture naming is much more complicated than in object picture naming and needs further investigation.
+
+Key wordsspoken word production; picture naming; object picture; action picture; age of acquisition effect

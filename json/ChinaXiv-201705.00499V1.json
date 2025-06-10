@@ -1,0 +1,374 @@
+[
+    {
+        "type": "text",
+        "text": "Synthesis of polyurethane containing carboncarbon double bonds to prepare functionalizable ultrafine fibers via electrospinning ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wenwen Xue, Lisheng Zhang,Haizhen Chen, Jinggang Wang,Haining ${ \\mathsf { N a } } ^ { \\star }$ and Jin Zhu\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polyurethanes (TPUs) containing carbon-carbon double bonds are synthesized for use as novel materials with the ability to form functionalizable ultrafine fibers via electrospinning.Byadjusting the molecular structure,a series of TPU products with different amounts of carbon-carbon double bondsare obtained. After investigating the reactivity of the TPU with $1 H , 1 H , 2 H , 2 H$ -perfluorooctanethiol，all of the TPU samples exhibit efective functionalizability.The more carbon-carbon double bonds contained in the molecular structure,the stronger the functionalizability.Besides,these TPUs can easily form uniform ultrafine fibers via electrospinning. Uponcomparison,the functionalizabilityof the electrospun fibers is similar to that observed in the bulk TPU materials.This work suggests a feasible methodology to produce a functionalized ultrafine fibrous carier.Accordingly，TPU containing carbon-carbon double bonds is expected to be exploited as a fibrous carrier of solid catalysts in the future. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As one of the most convenient techniques to swiftly produce fibers of nano- or micro-meter size,electrospinning1-5 has attracted great attention from scientific researchers in the last decade. Owing to their high ratio of surface area to volume,6,7 electrospun fibers have exhibited huge potential for fabrication of functionalized materials.Even today,the particular microstructure of electrospun fibers is continually exploited in new applications requiring functional materials.8-14 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the area of chemical transition and refinery,catalysts are indispensable functional materials that effectively reduce the time and improve the efficiency of the chemical reaction. However,as we know, the traditional homogeneous catalyst has inevitable drawbacks of hard separation and dificult recycle.15-18 Therefore,establishing a way to create immobilized catalysts is considered in order to optimize the catalyst performance. Accordingly， manyinorganic andorganic materials such as nanoparticles,19 nanowires,20 carbon nanotubes,21 mesoporous materials,2² and ion exchange resins23 are starting to be used as carriers of immobilized catalysts.In spite of using these carriers，the balance between highly effective catalysis and easy post-processing separation is still elusive.Thus,itis necessary to produce an effective carrier for the immobilized catalyst. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The structural characteristics of electrospun fibers present interesting advantages in fabricatinga carrier for immobilized catalysts.The effect of catalysis can be controlled by increasing thesurface area to volume ratio of the fiber, that is to reduce the fiber diameter as much as possible.Besides,the essential fiber structure can effectively maintain the ability to be separated from the reaction system or product.In particular, the establishment ofa functionalizable electrospun fibrous carrier offers an excellent solution for preparing highly effective immobilized catalysts.In this work,we will focus on the preparation of polyurethane containing carbon-carbon double bonds (thermoplastic polyurethane,TPU) as the functionalizable material.It is shown that functionalizable electrospun fibrous carriers can be fabricated for this application.In addition, the potential for functionalization is discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1 Materials ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Itaconic acid，1,4-butanediol (BDO)，1,6-hexanediol,1,10- decanediol, $p$ -toluenesulfonic acid (PTSA)，hydroquinone, tetrabutyl titanate (TBOT)，isophorone diisocyanate (IPDI), dibutyltin dilaurate (DBTL),dibutylamine,bromocresol green, and2,2-dimethoxy-2-phenylacetophenone(DMPA)were obtained from the Aladdin Reagents (Shanghai) Co.，Ltd. Chloroform，methanol,acetone,toluene,2-butanone,tetrahydrofuran (THF),N,N-dimethylformamide (DMF),and hydro gen chloride were obtained from Sinopharm Chemical Reagent Co., Ltd. $1 H , 1 H , 2 H , 2 H \\cdot$ Perfluorooctanethiol (TESH-6) was purchased from Hengtong Fluorine Co.,Ltd.All chemicals wereusedasreceived. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Synthesis of polyester glycol ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Itaconic acid $\\mathrm { ( 0 . 1 5 ~ m o l ) }$ ,1,10-decanediol $\\left( 0 . 1 8 \\mathrm { \\ m o l } \\right) ^ { \\cdot }$ ）together with PTSA (0.1427 g) as the esterification catalyst,and hydro quinone $\\left( 0 . 1 9 0 0 \\ \\mathrm { g } \\right)$ as the radical inhibitor were mixed in a three necked flask and reacted at $1 2 0 { ^ \\circ \\mathbf { C } }$ for $3 0 ~ \\mathrm { m i n }$ ， $1 4 5 ~ ^ { \\circ } \\mathrm { C }$ for $6 0 ~ \\mathrm { { m i n } }$ and $1 6 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 4 0 ~ \\mathrm { m i n }$ in sequence under a dry nitro gen atmosphere.After that， the moisture in the reaction system was removed by means of a circulating water vacuum pump for $^ \\textrm { \\scriptsize 1 h }$ ，With the addition of TBOT $\\left( 0 . 3 \\mathrm { \\ m m o l } \\right)$ as the polycondensation catalyst, the reaction was processed under vacuum using first a circulating water vacuum pump for $2 0 ~ \\mathrm { m i n }$ and then an rotary vane pump for $3 . 5 \\mathrm { ~ h ~ }$ . The produced polyester glycol (DPDO) was dissolved in $\\mathrm { C H C l } _ { 3 }$ and precipitated in methanol. The dissolving-precipitating process was repeated several times for purification.Finally,the DPDO was dried under reduced pressure at room temperature for $^ { 1 2 \\mathrm { ~ h ~ } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bya similar way,1,6-hexanediol $\\left( 0 . 2 6 \\mathrm { \\ m o l } \\right)$ ，itaconic acid $\\left( 0 . 2 \\mathrm { ~ m o l } \\right)$ ，together with PTSA(0.1902 g) and hydroquinone $\\left( 0 . 2 5 3 3 \\ \\mathrm { g } \\right)$ were stirred in a three necked flask and heated up gradually in steps such as $1 2 0 ~ ^ { \\circ } \\mathrm { C }$ for $3 0 \\ \\mathrm { \\ m i n }$ ， $1 4 5 ~ ^ { \\circ } \\mathrm { C }$ for $6 0 ~ \\mathrm { { m i n } }$ ，and $1 6 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 2 0 \\ \\mathrm { m i n }$ under a dry nitrogen atmosphere.Then,a dehumidification process was followed using a circulating water vacuum pump for $^ \\mathrm { ~ 1 ~ h ~ }$ ，After that，TBOT $\\left( 0 . 4 \\mathrm { ~ m m o l } \\right)$ as the polycondensation catalyst was added to the mixture and stirred for reaction at $1 6 0 ~ ^ { \\circ } \\mathrm { C }$ under vacuum conditions attained by a circulating water vacuum pump for $2 0 ~ \\mathrm { m i n }$ at first and then an rotary vane pump for $3 . 5 \\mathrm { ~ h ~ }$ The produced polyester glycol (HPDO) was dissolved in $\\mathrm { C H C l } _ { 3 }$ and precipitated in methanol several times before being dried under reduced pressure at room temperature for $^ { 1 2 \\mathrm { ~ h ~ } }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Itaconic acid $\\left( 0 . 2 \\mathrm { ~ m o l } \\right)$ ,1,4-butanediol $\\mathrm { ( 0 . 2 7 ~ m o l ) }$ ，together with PTSA $\\left( 0 . 2 1 2 2 { \\mathrm { ~ g } } \\right)$ as the esterification catalyst,and hydro quinone (O.2595 g) as the radical inhibitor were added into a threenecked flask.The solvent mixturewas stirred and heated in three steps while being purged by dry nitrogen in steps such as $1 4 0 ~ ^ { \\circ } \\mathrm { C }$ for $6 0 \\ \\mathrm { \\ m i n }$ ， $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $6 0 \\ \\mathrm { \\ m i n }$ ，and $1 6 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 5 \\ \\mathrm { \\ m i n }$ .Once the generated moisture was removed with a circulating water vacuum pump for $^ \\textrm { \\scriptsize 1 h }$ ，TBOT $\\left( 0 . 4 \\mathrm { ~ m m o l } \\right)$ as the polycondensation catalyst was added to the mixture and stirred under vacuum (using a circulating water vacuum pump for $2 0 ~ \\mathrm { m i n }$ and switching to an rotary vane pump for $^ { 2 \\mathrm { ~ h ~ } }$ .A cycling dissolution in $\\mathrm { C H C l } _ { 3 }$ and precipitation in the methanol process were carried out to purify the generated polyester glycol (BPDO) which was later dried under reduced pressure at room temperature for $^ { 1 2 \\mathrm { ~ h ~ } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3Preparation of TPU containing carbon-carbon double bonds ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TPUs containing carbon-carbon double bonds were synthesized as shown in Fig.1.Three types of polyester glycol prepared from 1,10-decanediol,1,6-hexanediol,and 1,4-buta nediol and itaconic acid were respectively used to synthesize the TPUs (that is DTPU,HTPU and BTPU) containing different amounts of carbon-carbon double bonds.In the text below, the process of the synthesis is elucidated in more detail. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc190e1013e247fed8891b0a1e8296caeb06ce2ed40f4c52c1196989880559f6.jpg",
+        "img_caption": [
+            "Fig.1 Schematic process of the synthesis of TPU. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IPDI and BDO were employed as hard segments for the fabrication of TPU with the use of DPDO as soft segments.Typically,the synthesis of TPU was carried out ina three necked flask equipped with a mechanical stirrer,a reflux condenser and a ${ \\bf N } _ { 2 }$ inlet.Firstly, IPDI and polyester glycol together with DBTL as the catalystwere dissolved in toluene and then stirred at $6 5 \\ ^ { \\circ } \\mathrm { C }$ under a dry nitrogen atmosphere.After $^ \\mathrm { ~ 3 ~ h ~ }$ ，the residual isocyanate (NCO) content was determined by titration according to DIN EN ISO 14896-2009.The sample liquid after being dissolved in dry toluene reacts with excessive di- $n$ -butylamine,and the residual di- $n$ -butylamine was back titrated with hydrochloric acid up to the endpoint. The content of isocya nine is calculated from the titration volume.Thereafter,an appropriate amount of BDO as a chain extender was added dropwise into the flask at $8 0 ~ ^ { \\circ } \\mathrm { C }$ 、Once all NCO groups were reacted (the presence of NCO groups was checked through FTIR spectrometry by detecting the -NCO stretching absorbance band at $2 2 3 0 ~ \\mathrm { c m } ^ { - 1 }$ ),the mixture was concentrated by rotary evaporation under reduced pressure at room temperature and then purified three times by dissolving-precipitating in a chloroform and methanol solution $\\left( 5 0 : 5 0 \\ \\mathrm { v o l \\% } \\right)$ ).Finally, thepurified TPUwasdissolved in THF and poured intoaPTFE mould.Seven days were required for the solvent to evaporate thoroughly in the fume hood and the TPU to be shaped into a $1 0 0 \\times 1 0 0 ~ \\mathrm { m m } ^ { 2 }$ square sheet (with the thickness of $1 \\ \\mathrm { m m }$ for laterusage.A similar process was also conducted for HPDO and BPDO. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4Reaction of the TPU with TESH-6 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BTPU,HTPU and DTPU were respectively dissolved in THF for $^ { 8 \\mathrm { ~ h ~ } }$ .Excessive TESH-6 was added into the solution and stirred for $3 0 \\mathrm { m i n }$ at first. Then, $2 \\mathrm { w t \\% }$ DMPA was added into the solution under vigorous agitation for $2 0 \\ \\mathrm { \\ m i n }$ to form a homo geneous mixture.The mixture was poured into a PTFE mould and exposed under a high-pressure mercury lamp $( 5 0 0 ~ \\mathrm { W } )$ at $3 6 5 ~ \\mathrm { { n m } }$ for different irradiation times (5 min,10 min, $3 0 ~ \\mathrm { m i n }$ $6 0 \\ \\mathrm { m i n }$ ， $1 2 0 \\ \\mathrm { m i n } ^ { \\cdot }$ ).After the reaction,the TPUs are prepared into films for further characterization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5Electrospinning of the TPU ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DTPU，HTPU and BTPU were respectively dissolved in a solvent mixture of DMF/THF (with the volume ratio of $2 / 3$ ） at room temperature to form $2 0 { - } 3 5 \\quad \\mathrm { w t \\% }$ solutions．The solutions were taken in a $5 ~ \\mathrm { m L }$ syringe with a stainless needle (diameter $= 0 . 8 \\ \\mathrm { m m }$ ）as the capillary. The syringe was then fixed on a pump (14-831-201,Fisher Scientific).Electrospinning was performed at a flow rate of $0 . 3 \\mathrm { \\ m L h ^ { - 1 } }$ . A high-voltage power supply (DW-P503-1ACDF,Dongwen High Voltage Power Plant, Tianjin, China) was used to produce voltages ranging from 5.5 to $8 . 0 \\ \\mathrm { k V }$ and a drum covered with aluminium foil was used as the collector at a speed of $1 0 0 ~ \\mathrm { r p m }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6Reaction of the electrospun TPU membranes with TESH-6 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The electrospun membranes were cut into square pieces of $5 \\times$ $5 ~ \\mathrm { c m } ^ { 2 }$ ,and then immersed in a mixture of TESH-6 and $2 \\ \\mathrm { w t \\% }$ of DMPA under the protection of nitrogen.After $2 . 5 \\mathrm { ~ h ~ }$ ，the immersed electrospun membranes were exposed immediately under the same UV lamp mentioned in section 2.4.The exposure time was set from 1 min to $1 2 0 ~ \\mathrm { \\ m i n }$ .After UV irradiation，the electrospun membranes were washed with methanol 5 times and dried at room temperature.A blank experiment of the electrospun membranes without a TESH-6 solution was conducted as well. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7 Characterization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $^ 1 \\mathrm { H }$ NMR spectra of polyurethane were recorded on a Bruker Avance III 4ooM nuclear magnetic resonance spectro meter operating at $2 5 ~ ^ { \\circ } \\mathrm { C }$ and using acetone and $\\mathrm { C D C l } _ { 3 }$ as solvents respectively.The FTIR spectra were collected with an Agilent Technologies Cary 6oo Series FTIR Microscope.The morphology of the electrospun fibers was observed by using a Hitachi S48oo field emission scanning electron microscope. The chemical elements of the membranes were investigated by using an AMETEK EDAX detector.The molecular weight was determined by using a PL-GPC 220,and $\\mathrm { C H C l } _ { 3 }$ as the solution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3．Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1Molecular structure of the TPU ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows the schematic process of the synthesis of TPU.Itaconic acid and three kinds of glycols are used to synthesize different types of polyester glycols.Consequently,after chain extension，three types of TPUs containing carbon-carbon double bonds are obtained from the experiment.The chemical structures of the TPUs are confirmed by FTIR.In Fig.2,two strong absorption bands at $1 7 0 6 ~ \\mathrm { { c m } ^ { - 1 } }$ and $3 3 3 0 ~ \\mathrm { c m } ^ { - 1 }$ are observed.It reflects the essential stretching vibration of carbonyl and amino groups in TPU.There is also a clearabsorption band at $1 6 4 3 ~ \\mathrm { c m } ^ { - 1 }$ ，which is attributed to the $\\scriptstyle \\mathbf { C } = \\mathbf { C }$ double bond.It is clear that BTPU exhibits the highest absorption at $1 6 4 3 ~ \\mathrm { { c m } ^ { - 1 } }$ while HTPU and DTPU show relatively weak absorp tion.This result indicates that BTPU has the highest quantity of carbon-carbon double bonds.In contrast,the amount of carbon-carbon double bonds in HTPU and DTPU is relatively low. $^ 1 \\mathrm { H }$ NMR spectra of TPUs are given in Fig.3.Accordingly, the practical structure and composition of TPUs can be calculated in detail.The related data are summarized in Table1. BTPU has 3.60 mmol ${ \\mathrm { g } } ^ { - 1 }$ carbon-carbon double bonds in its molecular structure.However,in HTPU and DTPU,only 2.22 and 1.94 mmol ${ \\mathrm { g } } ^ { - 1 }$ of carbon-carbon double bonds are measured,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb5cee62c27b4f067dde8f4db3988af13031281d0cd61b73d44e13d2e99b43f4.jpg",
+        "img_caption": [
+            "Fig.2FTIR spectra of TPU. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 Functionalizabilityof the TPU ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The functionalizabilities of DTPU,HTPU and BTPU are detected by reaction with TESH-6 under UV irradiation.In Fig.4 which shows the FTIR spectra of the DTPU,HTPU and BTPU reacted without (a,c,e) and with (b,d,f) TESH-6 under UVirradiation,no matter with or without TESH-6,after UV irradiation， the absorption band at $1 6 4 3 ~ \\mathrm { \\ c m } ^ { - 1 }$ decreases obviously.The longer reaction time is applied，the more thorough reaction occurs.This phenomenon adequately shows the reactivity of the carbon-carbon double bonds in the TPU. Without using TESH-6,the reaction must take place between carbon-carbon double bonds.As a result,it produces the effect of crosslinking.After the addition of TESH-6 in the TPU, the FTIR spectra exhibit additional absorption bands at $1 1 4 5 ~ \\mathrm { c m } ^ { - 1 }$ ， $1 1 9 1 ~ \\mathrm { { c m } ^ { - 1 } }$ and $7 0 5 ~ \\mathrm { c m } ^ { - 1 }$ ,which are related to the stretching vibration of $\\mathbf { C } { \\mathrm { - } } \\mathbf { F }$ and C-S,respectively.Therefore, although crosslinking between carbon-carbon double bonds isvery easy to occur under UV irradiation, the TPU obtained in the experiment also has the ability to react with a functional agent such as TESH-6.In other words,the synthesized polyurethane containing carbon-carbon double bonds exhibit strong functionalizability. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/06519b1bdd0340e7e1faf77b9f5f11d283587e39cb65972f13303e974d540d63.jpg",
+        "img_caption": [
+            "Fig.3NMR spectra of TPU. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/11e50aaa9a145162b1078f76f001b1c427d3c33759f66334f7587e0550514266.jpg",
+        "table_caption": [
+            "Table1 Molecular structure ofTPU "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Synthesized TPU</td><td>Number-average molecular weight of the polyester glycol section (g mol-1)</td><td>Number-average molecular weight of TPU (g mol-1)</td><td>Content of polyester glycol² (wt%)</td><td>Amount of C=C double bondsa (mmol g-1)</td></tr><tr><td>BTPU</td><td></td><td>0.69 ×104</td><td>69.6</td><td>3.60</td></tr><tr><td>HTPU</td><td>1870 578</td><td>3.45 × 104</td><td>58.5</td><td>2.22</td></tr><tr><td>DTPU</td><td>714</td><td>2.34×104</td><td>69.3</td><td>1.94</td></tr><tr><td colspan=\"5\">ä Calculated from NMR spectra.</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The total amount of fluoride element existing on the surface of TPU films is further determined by EDS (see Fig.5). ABTPU film showsa larger amount of fluorine element (about $1 2 { - } 1 4 \\%$ )than that of the HTPU and DTPU films.These results are in agreement with the amount of carbon-carbon double bonds in TPUs before the reaction.It can be concluded that introducing as much carbon-carbon double bonds as possible isan effective method to increase the functionalizability of the TPU.Fig.5 also suggests an optimum reaction time to functionalize the TPU.A too long reaction time leads to the breaking of C-S bonds and thus reduces the amount of fluorine element.It relatively supports the principle of functional agent choice during the process of the functionalization of the TPU. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3Electrospinnability of TPU and functionalizability of electrospun fibers ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DTPU,HTPU and BTPU are further used in an attempt to prepare ultrafine fibers via electrospinning by choosing the appropriate electrospinning conditions;all of the TPU can form ultrafine fibers with uniform morphology (see Fig.6) Fiber diameters are all around $7 0 0 ~ \\mathrm { n m }$ .Then,the functionalizability of the electrospun TPU fibers was systematically tested. Firstly,the change in the fiber morphology before and after reacting with TESH-6 is observed by SEM.In Fig.7,almost no obvious change can be found in the fiber morphology without using TESH-6 before and after UV irradiation.As we discussed above,the carbon-carbon double bonds tend to crosslink together under UV irradiation.This characteristic undoubtedly results in the durable performance under UV light and heat. In addition, this phenomenon brings a limited change in the fiber morphology.However,after adding TESH-6,because of the reaction between carbon-carbon double bondsand TESH-6,the effect of crosslinking is weakened.Under these conditions,long-time UV irradiation initiates the melting of TPU fibers.In Fig.7(f) and (h)，after $1 0 { - } 3 0 ~ \\mathrm { \\ m i n }$ of UV irradiation, TPU fibers begin to melt.With an increase of the time of UV irradiation up to $6 0 { - } 1 2 0 ~ \\mathrm { m i n }$ ,the TPU fibers finally merge together. The fiber morphology on the surface is nearly lost. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f979f89e318ee25ffcb081f79488f244f741eefbdeb9bf6e20ccd6509791a64e.jpg",
+        "img_caption": [
+            "Fig.4 FTIR spectra of the DTPU，HTPU and BTPU reacted without (a,c,e) and with (b,d,f) TESH-6 under UV irradiation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3998cad0581ab7af5c07ef9e7667f7b0177a426478582ec7568e5facb0aa26e.jpg",
+        "img_caption": [
+            "Fig.5Amount of fluoride element in TPU films after reaction with TESH-6. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d8e9dd74ae0934e614a4ba657c4ef59b0a3cd2363fe48651cae2ccc5880dade.jpg",
+        "img_caption": [
+            "Fig.6SEM images of the electrospun TPU fibers. (a) DTPU,(b) HTPU, (c) BTPU. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.8 further gives FTIR spectra of the electrospun TPU (a，b)DTPU,(c,d) HTPU and (e,f) BTPU) fibers reacted without (a,c,e) and with (b,d,f) TESH-6.As narrated in section 3.2, the change of the absorption band at $1 6 4 3 ~ \\mathrm { c m } ^ { - 1 }$ defines the change of $\\scriptstyle \\mathbf { C } = \\mathbf { C }$ double bonds in the TPU.On the other hand, the absorption bands at $1 1 4 5 ~ \\mathrm { c m } ^ { - 1 }$ ，1191 $\\mathrm { c m } ^ { - 1 }$ and $7 0 5 ~ \\mathrm { { c m } ^ { - 1 } }$ reflect the change of $\\mathbf { C } { \\mathrm { - } } \\mathbf { F }$ and C-S bonds. According to Fig.7(b,d and f),the reaction between carboncarbon double bonds and TESH-6 is successfully achieved. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a79cde567b68c5b6f8dd1bee019f5a84c597d44d753bf854d46098f160eef53.jpg",
+        "img_caption": [
+            "Fig.8FTIR spectra of the electrospun TPU((a,b) DTPU,(c,d) HTPU and (e,f) BTPU) fibers reacted without (a,c,e) and with (b,d,f) TESH-6 under UV irradiation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac8ddece22041f9d1ea630b6864da53f922f7be649227e2461e4f0fa2baf5199.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfb7428849f51d19b063eb6d9b845ead140888657b1e986e709ce792bb647482.jpg",
+        "img_caption": [
+            "Fig.7SEM images of the electrospun BTPU fibers reacted without (a,c,e,g,i, k) and with (b,d,f,h,j,l) TESH-6 under UVirradiation within different times of (a,b) $0 \\mathrm { \\ m i n } ,$ (c,d)5 min,(e,f) $1 0 \\mathrm { \\ m i n } .$ (g,h) 30 min, (i, j) 60 min, (k, l) 120 min. ",
+            "Fig.9Amount of fluoride element in the electrospun TPU fibers after reaction with TESH-6. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.9 shows the amount of fluorine element present in the electrospun TPU fibers after reacting with TESH-6 under UV irradiation.The highest amount of fluorine element can be observed on BTPU fibers and the fluorine element of HTPU and DTPU is relatively low. This result is almost the same as the TPUmaterials,so that the functionalizability of the electrospun TPU fibers can be recognized by the properties of TPU materials.Besides,a higher amount of fluoride element is achieved in almost all of the electrospun TPU fibers than in TPU films.As we know,TPU and TESH-6 are first reacted in solution.During this process，some carbon-carbon double bonds in TPU react with TESH-6,and the others react with each other.After preparing TPU into films,the fluoride element is relatively low.However,as to the electrospun TPU fibers,the grafting reaction takes place in a heterogeneous system.Carbon-carbon bonds,which particularly exist at the surface of electrospun TPU fibers,should react with TESH-6 as much as possible.It induces a little high grafting amount of fluoride element on the electrospun TPU fibers. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Considering the possibility of the electrospun TPU fibers in the preparationof solid catalyst carriers,the experimental data from Fig.7-9 suggest the feasibility and the optimum conditions of fabrication.Synthesizing TPU containing carboncarbon double bondswith the ability to formultrafine fibers via electrospinning is an effective way to produce functionalizable fibrous precursors.The functionalizability of the electrospun fibers is easy to be controlled by the molecular structure of TPU materials.After this,within a suitable reaction time, the final functionalization of the electrospun TPU fibers can be achieved.However,prolongation of the reaction time under UV irradiation to functionalize the electrospun TPU fibers is not helpful.A too long reaction time will lead to the loss of fiber morphology and thus has a detrimental effect on the functionalization. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Three types of polyurethanes with different amountsof carbon-carbon double bonds are synthesized.Characterization via FT-IR,EDS and SEM are conducted,and the functionalizability and electrospinning potential of the synthesized TPU areclearly exhibited.By means of UV irradiation，the functional agent (TESH-6) can effectively react with the carboncarbon double bonds in TPU.A systematic study of the relationship between the reaction time of functionalization and the amount of fluorine element showed the optimum conditions for the functionalized electrospun TPU membranes. This research has established a feasible way to produce functionalized ultrafine fibrous carrier materials. TPU containing carbon-carbon double bonds is expected to be exploited as a fibrous carrier of solid catalysts in the future. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors greatly thank the financial support from the project 51403224 supported by the National Science FoundationofChina(NSFC)， Project2013A610023and 2013A61oo25 supported by Ningbo Natural Science Foundation,and the Ningbo Key Lab of Polymer Materials (Grant no.2010A22001). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Notesand references ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 Z. M. Huang, Y.-Z. Zhang,M. Kotaki and S.Ramarkrishna, Compos. Sci. Technol.,2003,63,2223-2253. 2 D.Li and Y.N. Xia,Adv.Mater.,2004,16,151-1170. 3D.H.Reneker and I. Chun,Nanotechnology,1996,7,216- 223. 4 J. Doshi and D. H. Reneker, J. Electrostat.，1995,35,151- 160. 5A. Greiner and J.H. Wendorff,Angew. Chem.,Int. Ed., 2007, 46,5670-5703. 6 S.Megelski, J. S. Stephens,D.B.Chase and J.F.Robolt, Macromolecules,2002,35,8456-8466. 7 P.Gibson，H. S.Gibson and D. Rivin，Colloids Surf.，A, 2001,187,469-481. 8 N.Bhardwaj and S.C. Kundu,Biotechnol. Adv.,2010,28, 325-347. 9 B. Sun,Y. Z.Long,H. D. Zhang,M.M. Li, J. L. Duvail, X. Y. Jiang and H.L. Yin, Prog. Polym. Sci.,2014,39, 862- 890. 10 J.Wu,N. Wang, Y. Zhao and L. Jiang, J. Mater. Chem. A, 2013,1, 7290-7305. 11 Z. Y. Hou, G.G.Li, H. Z. Lian and J. Lin,J. Mater. Chem., 2012,22, 5254-5276. 12 S. Gautam, A. K. Dinda and N. C. Mishra, Mater. Sci. Eng., C,2013,33,1228-1235. 13 H. l. Jiang,L. Q. Wang and K. J. Zhu, J. Controlled Release, 2014,193,296-303. 14 L. Liu, Y. Zhang,G.G.Wang, S.C.Li, L.Y.Wang, Y. Han, X. X. Jiang and A.G. Wei, Sens. Actuators,B,2011,160,448- 454. 15 D.J. Core-Hamilton, Science,2003,299,1702-1706. 16 J.T. Scarpello,D. Nair,L.M. Freitas dos Santos,L. S.White and A.G. Livingston,J. Membr. Sci.,2002,203,71-85. 17 R.H. Fish, Chemistry,1999,5,1677-1680. 18 S.Shylesh, V. Schunemann and W. R. Thiel,Angew. Chem., Int. Ed.,2010,49,3428-3459. 19 S.Wittmann，A. Schatz，R.N.Grass，W. J. Stark and O.Reiser,Angew. Chem., Int. Ed.,2010,49,1867-1870. 20 Y.W.Ma,S. J. Jiang,G.Q. Jian,H. S. Tao,L. S. Yu, X. B. Wang, J. M. Zhu, Z. Hu and Y. Chen, Energy Environ. Sci.,2009,2,224-229. 21 R.T. Lv, T. X. Cui, M.-S. Jun, Q. Zhang,A. Y. Cao, D. S. Su, Z.J. Zhang，S.-H. Yoon,J. Miyawaki,I. Mocfhida and F. Y. Kang,Adv. Funct. Mater.,2011,21, 999-1006. 22 A.Corma and H.Garcia,Adv. Synth. Catal.，2006,348, 1391-1412. 23 P. Barbaro,Chemistry,2006,12,66-5675. ",
+        "page_idx": 6
+    }
+]

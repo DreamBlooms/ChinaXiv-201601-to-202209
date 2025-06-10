@@ -1,0 +1,305 @@
+[
+    {
+        "type": "text",
+        "text": "地基紫外吸收性气溶胶监测仪电子学系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "梁少林’²，王咏梅¹，石恩涛¹，王天放¹，王后茂¹，杨晓君1,2(1.中国科学院国家空间科学中心 北京 1001902.中国科学院大学 北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为利用紫外-可见光连续光谱对气溶胶进行观测，研制了基于被动光学遥感技术的地基紫外吸收性气溶胶监测仪。介绍了仪器的电子学系统，硬件上包括望远镜、控制器、探测器和电控箱四个部分，软件上基于LabVIEW设计了仪器的控制系统，并采用CCD的局部感光技术对紫外-可见光光谱分别采集。实验表明，该电子学系统能够实现地基紫外吸收性气溶胶监测仪的自动化观测，并能得到紫外-可见光波段有效的光谱数据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：气溶胶；紫外-可见光；电子学系统；控制；感光区中图分类号：TN65 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Electronics system of the ground-based ultraviolet absorbent aerosol monitor LIANG Shao-lin1,2, WANG Yong-meil,SHI En-tao1, WANG Tian-fang1,WANG Hou-mao1,YANG Xiao-jun1,2 (1.National Space Science Center, Chinese Academy of Sciences,Beijing 1Oo19o, China; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.University of Chinese Academy of Sciences,Beijing 1Oo190,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In order to observe the aerosol via the ultraviolet-visible continuous spectrum,the ground-based ultraviolet absorbent aerosol monitor has been developed on the basis of passve optical remote sensing technology. The electronics system of the instrument is introduced,it's hardware includes telescope,controler,detectorand electric cabinet,and it's control system is designed by using the LabVIEW software,the region of interest of the CCD is also set up to colect the ultraviolet-visible spectrum signal respectively.The experiment result shows that this electronics system can realize the automatic observation of the ground-based ultraviolet absorbent aerosol monitor,and also can get the effective spectrum data of ultraviolet-visible band. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: aerosol; ultraviolet-visible light; electronics system; control; region of interest ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "被动光学遥感是指利用太阳光或星光等自然光源作为光波信号，通过光辐射的特征对所携带的目标信息进行探测的技术[]。目前，基于被动光学遥感进行气溶胶地基观测，国内外已有几十年的发展历史。如美国NASA利用CE318太阳光度计在全球范围内建立的气溶胶自动观测网络AERONET，该仪器只对可见光-近红外内的几个非连续波段进行观测[2]。而德国Bremen大学利用差分吸收光谱仪MAX-DOAS建立了DOAS地基观测网络，虽然覆盖紫外-可见光连续波段，但是由于定标难度的问题，仪器只能对天空散射光进行探测3。中国科学院国家空间科学中心研制的地基紫外吸收性气溶胶监测仪既要求能实现紫外-可见光连续光谱的观测，又可同时探测天空散射和太阳直射光。因此，对其电子学系统提出了更高的要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1系统硬件结构",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地基紫外吸收性气溶胶监测仪电子学系统原理框图如图1所示，",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8efbdd74e29a7c3bfa904f46d495ecfedeb50f2e1fba13b7b25a74162c38cd62.jpg",
+        "img_caption": [
+            "图1地基紫外吸收性气溶胶监测仪电子学系统框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据各环节的功能不同，可以将电子学系统分为四个主要部分：望远镜电子系统、探测器、控制器和电控箱。其中，望远镜部分主要完成天空散射口和太阳直射口的选择。探测器部分完成光信号的传输，分光和捕捉。控制器部分主要完成整机的控制如太阳跟踪和天空扫描的实现、光谱仪的控制、CCD数据的读取、以及各种采样信号和环境监测信号的处理。电控箱中采样电路主要对各种原始信号进行采样，电源模块对仪器各部分供电。外围设备如太阳跟踪和天空扫描系统选用SOLYSGearDrive型太阳跟踪器，环境监测设备则包括雨雪传感器和风速计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 望远镜 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "望远镜电子学部分包括步进电机及其驱动器、积分球、限位开关、霍尔元件及磁铁、位置检测单元等，其内部结构如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b922d3e39830e617cece78227993239a3431b86cb4c3cb8836edc0290a1d75b5.jpg",
+        "img_caption": [
+            "图2　望远镜电子学内部结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d42d9f11032c13fe89ab70a4d3890687f4ef8c73122e88db0d45532e74eec29.jpg",
+        "img_caption": [
+            "图3电机带动积分球在导轨上运动"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在仪器刚开机时，步进电机带动积分球在导轨上向右移动，如图3所示。限位开关位于导轨的右侧终点，当积分球触碰到限位开关时，限位开关导通，积分球停止运动完成复位。在积分球的左右两边各有一磁铁，当积分球移动，霍尔元件感应到左侧磁铁时，入光口与天空散射口重合，而当霍尔元件感应到右侧磁铁时，入光口与太阳直射口重合，因此完成望远镜入射通道的切换[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 探测器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从望远镜出射的光信号经光纤传输后首先进入光谱仪分光系统。考虑到仪器的工作波段设置（ $3 0 0 { - } 5 0 0 \\mathrm { n m }$ ）及光谱分辨率要求 $( 0 . 6 \\mathrm { - } 0 . 8 \\mathrm { n m } )$ ，设计了基于车尔尼-特纳结构的平面光栅光谱仪分光系统，其波长覆盖范围 $0 { - } 1 4 0 0 \\mathrm { n m } .$ 精度 $\\pm 0 . 2 \\mathrm { n m }$ ，波段的选择通过设置中心波长实现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于太阳光强在紫外段（ $3 0 0 { - } 3 4 0 \\mathrm { n m }$ ）比可见光段（ $3 4 0 { - } 5 0 0 \\mathrm { n m }$ ）低2-3个数量级[5]，因此需要选用在紫外段量子效率较高的探测器。PI公司2K系列背照式紫外增强型CCD在紫外段量子效率达 $6 0 \\% \\sim 7 0 \\%$ ，制冷温度最低达 ${ \\cdot } 7 0 \\mathrm { { ^ \\circ C } }$ ，热噪声较小，保证了较高的信噪比。此外，该CCD还具有独特的双AD转换通道设计，每个通道下的电子增益倍数均可调，适合探测强度动态范围较大的光信号[，其主要参数如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/eca40957ebee04c83adb3ab3ad753b7e5c4420cbd2463d5d0ead778f4cc1a038.jpg",
+        "table_caption": [
+            "表1PI-2KBUV 相机主要参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>参数值</td></tr><tr><td>像素</td><td>512*2048</td></tr><tr><td>像元大小</td><td>13.5um*13.5um</td></tr><tr><td>转换位数</td><td>16</td></tr><tr><td>计数值阱深</td><td>65535</td></tr><tr><td>转换速度</td><td>慢（100Khz）、快（2Mhz）</td></tr><tr><td>转换通道</td><td>高阱深、低噪声</td></tr><tr><td>转换增益</td><td>高阱深通道：低16e/c、中8e/c、高4e/c 低噪声通道：低4e/c、中2e/c、高le/c</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，转换增益即像素电子数与电压读数之间的对应关系，如4e/c意为每4个电子产生一个电压读数计数值（count)，而电压读数计数值阱深为65535。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 控制器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "控制器执行整机的工作程序，使仪器各部件按流程工作。基于多设备控制需求，选用NI 公司工控机。其接口种类丰富包括USB 接口、串口、网口、数字IO以及模拟采样输入等，且使用灵活性强，板卡可根据需要自由配置。由该型工控机组成的控制器连接示意图如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/89af61628aba36e5ee45d9a1b9d213a4a83d7477c57280a88a55c279646fdfd5.jpg",
+        "img_caption": [
+            "图4控制器组成连接 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，数据采集卡包括16 路模拟采样输入，24路数字IO，通过接线盒可以实现对多路信号的采集和多种设备的控制。双核处理器对光谱仪的控制和CCD的数据采集则通过USB2.0接口实现。此外，将该处理器的以太网RJ45接口和太阳跟踪器的以太网接口接入路由器的不同WAN口，并利用处理器作为路由器的管理主机以建立局域网内通信，处理器就可以通过IP 寻址的方式实现对太阳跟踪器的控制[8]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 电控箱 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电控箱主要装载电源模块和采样电路。其中电源模块连接如图5所示，一级 220V 电源常开，负责给工控机供电。在白天工作期间，工控机控制继电器1使二级220V电源导通，分别给光谱仪、CCD和太阳跟踪器供电，并经过变压成12V后给采样电路供电。工控机控制另外一路继电器2导通，使220V变压成24V后给环境监测设备供电。而若天气恶劣，继电器1断开，继电器2仍导通，环境监测设备一直工作直到天气恢复，才使继电器1导通，仪器重新工作。夜晚时，继电器1，2均断开，工控机关机。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3be3c4402e5c80742ff5d6fc8de07f10a45f20aef8fd2dc9d06cf8d16e1f40ca.jpg",
+        "img_caption": [
+            "图5电源模块连接图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cffb244352f0d722c4ec0ef91993258c9fa6e54f8e8c28d52fee0bed196e613.jpg",
+        "img_caption": [
+            "图6采样电路基本单元"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采样电路主要完成电源模块电压和仪器温度的采集，其基本单元如图6所示。其中电源VCC 和电阻R2位为可变部件，当VCC为电源模块电压而R2不变时，可以对电源模块电压采样，而当VCC不变而R2换成热敏电阻时，就可对仪器温度采样。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2软件设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仪器主要工作流程如图7所示，通过对工控机BIOS 系统的设置，可使其在每天一个固定时间开机。开机后，电源模块导通，环境监测设备即开始工作，各部件开始初始化。初始化完成后，仪器进入工作状态，电机，太阳跟踪器，探测器协调动作，完成太阳直射光和天空散射光的探测。一天工作循环完成后，仪器复位，包括电机复位和太阳跟踪器复位，然后电源模块断电，工控机关机[10]。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f1d993a5879436765dfdbf95bfa7ea3db96a22684d865dd91f6cdeb6caf213d.jpg",
+        "img_caption": [
+            "图7仪器主要工作流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "地基紫外吸收性气溶胶监测仪控制软件年 月 日 时 分 秒 开机暂停工作仪器状态 2016 9 13 14 01 085V电压 12V电压24V电压温度采集1温度采集2温度采集3 晴好 雨雪大风工作状态 4.998 11.799 24.078 27.5 28.1 28.7 O .电机复位电机方向电机脱机霍尔信号限位开关天空散射口太阳直射口望远镜 . O . . . O .开机 光栅选择 光栅速度（nm/min）中心波长（nm)探测器 光谱仪 1.00 100.00 400.00开机紫外艰光时间(s)可见曝光时间(s) 目标温度 当前温度CCD 0.300 0.100 -70.00 -70.1IP地址 TCP镜口 开机初始化 太阳跟踪天空扫描复位太阳跟踪器 192.168.1.101 15000 O . .世界时 北 天顶 光强1500-10 1000 :东 水平500南13/09/16 06:01:08方位角 189.762500 天顶角 43.568000 903数据存储路径 Hdata b",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于LabVIEW 的仪器控制软件前面板设计如图8所示[11]，根据仪器各部件功能分为以下几个模块：仪器状态栏主要显示当前时间和开关机状态；工作状态栏显示电压和温度采集结果以及当前天气状态；望远镜部分显示各部件如电机、霍尔探测器和限位开关的通断状态，并指出当前的入射通道选择；探测器部分主要设置光谱仪和CCD的工作参数，如光谱仪光栅选择，移动速度和中心波长，CCD 曝光时间和制冷温度；太阳跟踪器部分输入IP 地址和TCP 端口以建立太阳跟踪器和处理器的局域网内通信[2，各显示控件显示太阳跟踪器当前的运行状态，指向位置和传感器光强等；软件采集到的数据则存放到存储路径中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3实验与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本仪器的特点是可以实现对紫外-可见光波段太阳直射和天空散射光的测量，这就要求仪器有足够大的动态范围和对紫外弱信号有足够高的灵敏度[13]。为此，设计中，利用 CCD的双读出通道以及不同转换增益的特点，采用CCD 的局部感光技术(region of interest)对紫外-可见光光谱分别采集。紫外和可见光部分分别采用不同增益和读出通道，保证了对强光不饱和而弱光又尽可能高的信噪比[14]，采集完成后，将图像合并得到完整的图像和计数值谱线，如图 $9 \\mathrm { - a }$ 和 $9 \\mathrm { - b }$ 所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/12e405fef107e57e7dba34a2aa760fbf27ccb544dbdfa34b4d23946229f41cf7.jpg",
+        "img_caption": [
+            "图8软件前面板设计",
+            "图9-a外场试验采集图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/59408f480ccce079aea9b11623c97f13c2ac09c5d3182e2bb54ecaa1c369a1a6.jpg",
+        "img_caption": [
+            "图9-b外场试验采集图像像元合并后计数值分布谱线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过与理论模拟分析比较表明，采用CCD不同增益和读出通道对太阳直射或天空散射光进行探测，其紫外和可见波段辐射强度分布的精细结构均得以保留，表明该方案可以兼顾紫外弱信号和可见光较强信号的探测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "地基紫外吸收性气溶胶监测仪电子学系统硬件上通过不同入光通道的切换，实现了太阳直射光和天空散射光的交替测量。选用紫外增强型CCD并在软件上采用紫外和可见光波段分别曝光的技术，使紫外和可见光波段CCD计数值谱线信息得到有效的保留。通过进一步的辐亮度定标后[5]，就可以得到紫外-可见波段连续的太阳谱线，并用于气溶胶尤其是紫外吸收性气溶胶的反演。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 杨军.气象卫星及其应用[M].北京:气象出版社,2012.  \n[2] 卞良,李保生,李东辉.CE318 型太阳光度计关键技术及误差分析[J].现代科学仪器,2013,12(6):156-160.  \n[3] 范学花,陈洪滨,夏祥螯.中国大气气溶胶辐射特性参数的观测与研究[J].大气科学,2013.37(2):477-489.  \n[4] 丁芝琴.基于霍尔传感器的电机测速装置设计[J].农机化研究,2010.5(5):81-84.  \n[5] 盛裴轩,毛节泰,李建国,等.大气物理学（第四版）[M].北京:北京大学出版社,2013.  \n[6] 慕伟,徐呈霖,司旭,等.光纤包层中的弱光探测技术[J].红外与激光工程,2016,45(4):56-61.  \n[7] 谢勇,姚远程.基于USB2.0与LabVIEW的高速数据采集系统设计[J.电子设工程,2012,20(19):5-7.  \n[8]梁少林,王咏梅,石恩涛,等.SOLYS Gear Drive 太阳跟踪器的控制系统设计[J].计算机测量与控制.2017,12(1):102-105.  \n[9] 陈文钦.BIOS研发技术剖析.[M].北京：清华大学出版社,2011.  \n[10] 邹县芳.批处理在提高Windows 管理效率中的神奇应用.[M].北京:中国铁道出版社,2012.  \n[11]肖成勇,雷振山,魏丽.LabVIEW2010 基础教程[M].北京:中国铁道出版社,2012.  \n[12]赵建华,张婷婷.太阳跟踪控制系统的研究与设计[J].电子测量技术,2016,39(3):1-3.  \n[13]方莉,余涛,顾行发.北京地区H1-J卫星CCD数据的气溶胶反演及在大气校正中的应用[J].遥感学报,2013,17(1):151-158.  \n[14]张玉衡,颜毅华.针对暗目标的帧转移面阵CCD成像系统设计[J].天文学报,2015,56(3):296-303.  \n[15]邹鹏,郑小兵,吴浩宇,等.基于陷阱探测器的辐亮度探测器定标方法研究[J].光学学报,2013,33(7):92-98.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第一作者简介：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "梁少林（1992—)，男，安徽省阜阳市人，现为中国科学院大学在读博士研究生。研究方向：空间环境探测技术，包括光电探测系统设计、智能仪器仪表技术等。邮编：100190 邮箱：shaolin_liang@163.com",
+        "page_idx": 4
+    }
+]

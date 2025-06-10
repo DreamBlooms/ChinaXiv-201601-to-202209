@@ -1,0 +1,1860 @@
+[
+    {
+        "type": "text",
+        "text": "广西青藓科分类学修订",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李腾1，唐启明²，韦玉梅²，赵建成1，李敏1\\*（1.河北师范大学生命科学学院，石家庄050024；2.广西喀斯特植物保育与恢复生态学重点实验室，广西壮族自治区中国科学院广西植物研究所，广西桂林541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：通过对采自广西24个县（市）的1147份青藓科植物标本的逐一鉴定及相关文献的查阅，确认广西青藓科植物有11属、44种，其中包括广西青藓科植物新纪录属1属，即拟异叶藓属（Pseudokindbergia），新纪录种7种，分别为拟异叶藓（P.dumosa）、匐枝青藓（Brachytheciumprocumbens）、阔叶尖喙藓（Oxyrrhynchium latifolium）、泛生尖喙藓（O.vagans）、华东细喙藓（Rhynchostegiella sinensis）、长肋拟青藓（Sciuro-hypnum populeum）和弯叶拟青藓（S.reflexum）。该文提供了修订后的广西青藓科植物名录，并对其中的新纪录属、种的主要形态学识别特征、生境和地理分布等进行了详细描述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：青藓科，拟异叶藓属，尖喙藓属，长喙藓属，拟青藓属中图分类号：Q949.35文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A revision of Brachytheciaceae (Bryophyta) of Guangxi, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Teng1，TANG Qiming²，WEI Yumei²， ZHAO Jiancheng1，LI Minl\\* (1. College ofLife Sciences,Hebei Normal University, Shijiazhuang O5o024, China; 2. Guangxi Key Laboratory of Plant Conservation and Restoration Ecology in Karst Terrain, Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences, Guilin 5410o6, Guangxi, China ) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A total of 1 147 specimens of Brachytheciaceae from 24 counties (cities） in Guangxi were studied. After identifying and reviewing related literatures,11 genera and 44 species were confirmed. Among them， the genus Pseudokindbergia and 7 species,which include $P .$ dumosa，Brachythecium procumbens, Oxyrrhynchium latifolium, O. vagans, Rhynchostegiella sinensis， Sciuro-hypnum populeum and S.reflexum respectively，were newly recorded in Guangxi .In this paper, a revised checklist of Brachytheciaceae of Guangxi was provided. And the morphological characters,habitats， geographical distribution of the new records were also described in great detail. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Brachytheciaceae,Pseudokindbergia, Oxyrrhynchium, Rhynchostegium, Sciuro-hypnum ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "广西壮族自治区位于中国南部 $( 2 0 ^ { \\circ } 5 4 ^ { \\prime } { \\sim } 2 6 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { N }$ ， $1 0 4 ^ { \\circ } 2 6 ^ { \\prime } { \\sim } 1 1 2 ^ { \\circ } 0 4 ^ { \\prime } \\mathrm { E } )$ ，南临北部湾，海岸线曲折。广西山地众多，其总面积占全区总面积的3/4以上，而境内典型的喀斯特地貌可达广西总面积的1/3 以上。复杂而独特的地形与地貌特点孕育了广西丰富而独特的生物资源（苏宗明等，2014）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "综合前人的研究成果，Wei etal.（2018）根据正式发表的相关文献整理发表了广西苔藓植物名录，其中包括青藓科植物11属、65种。同年，魏倩倩等（2018）报道了广西藓类植物新纪录25科、36 属、47种，其中包括青藓科植物新纪录2属、3种。因此，广西青藓科植物目前已报道11属68基金项目：国家自然科学基金项目（31960045）；河北省自然科学基金项目（C2019205115）；河北省高等学校科学技术研究项目（ZD2018049）；河北师范大学科技类基金项目（L042018Z06）[Supported bythe National Natural ScienceFoundationof China(31960045)；Natural Science Foundation of Hebei Province(C2019205115); Hebei ScientificandTechnological Research in Collegesand UniversitiesProject (ZD2018049)；ScientificandTechnologicalFundProjectofHebei Normal University (L042018Z06)]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：李腾（1992-），女，河北南和人，硕士，主要从事藓类植物系统分类学研究，（E-mail)2405785742@qq.com。  \n\\*通信作者：李敏，博士，副教授，主要从事藓类植物系统分类学研究，（E-mail）limin@hebtu.edu.cn。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "种，占中国青藓科植物总种数（120 种）的1/2以上(Lietal.,2015b）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于广西丰富的青藓科资源但又缺乏系统的分类学研究，作者在2017年—2018年间收集了采自广西24个县（市）的青藓科植物标本1147份（包括前人已发表的有关广西青藓科的文献中的凭证标本），并基于此对广西青藓科植物进行了系统地分类学修订。通过对上述标本的逐一形态学鉴定，并结合广西最新苔藓植物名录以及最新报道的文献记载（Weietal.,2018；魏倩倩等，2018），确认广西青藓科植物有11属、44种，其中包括广西青藓科植物新纪录属1属、新纪录种7种。本文对这些新分布类群的主要形态识别特征、地理分布等特征进行了详细地阐述。凭证标本现存放于河北师范大学植物标本馆（HBNU）、广西植物研究所标本馆（IBK）、华东师范大学标本馆（HSNU)、中科院植物研究所标本馆(PE）、上海师范大学植物标本馆（SHNU)和贵州大学植物标本馆(GACP)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.广西青藓科植物修订名录",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过对采自广西的1147份青藓科植物标本的系统分类学研究，修订后的广西青藓科植物有11属、44种（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d0dd6e0807b95a886aaa7cf3ac0a2c1f691f104ebe70e72b9110939cf6eea29a.jpg",
+        "table_caption": [
+            "Table1 Revised checklist of Brachytheciaceae in Guangxi, China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>属名Genus name</td><td>种名 Species name</td></tr><tr><td>气藓属Aerobryum</td><td>气藓 A. speciosum Dozy. et Molk.</td></tr><tr><td>青藓属Brachythecium</td><td>多褶青藓 B.buchanani (Hook.) A. Jaeger</td></tr><tr><td></td><td>台湾青藓B.formosanum Takaki</td></tr><tr><td></td><td>圆枝青藓 B. garovaglioides Mull. Hal.</td></tr><tr><td></td><td>灰青藓 B. glauculum C.Muell.</td></tr><tr><td></td><td>粗枝青藓B.helminthocladum Broth.&Paris</td></tr><tr><td></td><td>同枝青藓 B.homocladum Mull.Hal.</td></tr><tr><td></td><td>柔叶青藓 B.moriense Besch.</td></tr><tr><td></td><td>燕尾青藓 B. novae-angliae (Sull.& Lesq.) A. Jaeger</td></tr><tr><td></td><td>悬垂青藓B.pendulum Takaki</td></tr><tr><td></td><td>华北青藓 B. pinnirameum Mull. Hal.</td></tr><tr><td></td><td>毛尖青藓B.piligerum Cardot</td></tr><tr><td></td><td>匐枝青藓 B.procumbens (Mitt.)A. Jaeger</td></tr><tr><td></td><td>溪边青藓 B.rivulare Schimp.</td></tr><tr><td></td><td>长叶青藓 B.rotaeanum De Not</td></tr><tr><td></td><td>卵叶青藓 B.rutabulum (Hewd.) B.S.G.</td></tr><tr><td>美喙藓属Eurhynchium</td><td>扭尖美喙藓E.kirishimense Takaki</td></tr><tr><td>同蒴藓属Homalothecium</td><td>无疣同蒴藓 H.laevisetum Lac.</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/de836269e7456c2265f96a8aee78089b8b211511fcf26408dbf8363058420bc4.jpg",
+        "table_caption": [
+            "表1广西青藓科植物修订名录"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>属名Genus name</td><td>种名 Species name</td></tr><tr><td rowspan=\"3\">鼠尾藓属Myuroclada</td><td>羽枝鼠尾藓 M. longiramea (Mull. Hal.) M.Li,Y.</td></tr><tr><td>F.Wang, Ignatov & Huttunen</td></tr><tr><td>鼠尾藓 M. maximowiczii(G.G.Borshch.) Steere &W. B.Schofield</td></tr><tr><td>尖喙藓属Oxyrrhynchium</td><td>卵叶尖喙藓 O.hians (Hedw.)Loeske</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0bfd014e0cfda971f09bb0b14b2eae6ffd3314ec4c779624e5a4f2d747435f9f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：以上各物种的凭证标本信息以及在广西的地理分布等信息详见附录。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>阔叶尖喙藓 O. latifolium (Cardot) Podp. 疏网尖喙藓 O.laxirete(Broth.) Broth. 密叶尖喙藓 O.savatieri (Besch.) Broth. 泛生尖喙藓 O.vagans (A.Jaeger) Ignatov& Huttunen</td></tr><tr><td>褶叶藓属Palamocladium 拟异叶藓属Pseudokindbergia</td><td>褶叶藓 P. leskeoides (Hook.) E.G.Britt. 拟异叶藓 P.dumosa (Mitt.) Min Li,Y.F.Wang,</td></tr><tr><td>细喙藓属Rhynchostegiella</td><td>Ignatov & B.C.Tan 日本细喙藓R.japonica Dix.et Thér.</td></tr><tr><td>长喙藓属Rhynchostegium</td><td>光柄细喙藓R.laeviseta Broth. 细肋细喙藓R.leptoneuraDix.& Thér. 锐尖细喙藓 R.menadensis（Sande Lac.)E.B.Bartram 华东细喙藓R.sinensis Broth.&Paris 西里伯长喙藓 R.celebicum (Sande Lac.)A.Jaeger 缩叶长喙藓 R.contractum Cardot</td></tr><tr><td>拟青藓属 Sciuro-hypnum 羽枝拟青藓 S.plumosum (Hedw.) Ignatov & Huttunen 长肋拟青藓 S.populeum (Hedw.) Ignatov & Huttunen</td><td>杜氏长喙藓R.duthiei Mull.Hal.et Dixon 斜枝长喙藓 R.inclinatum (Mitt.)A. Jaeger 卵叶长喙藓 R.ovalifolium S.Okamura 淡枝长喙藓R.pallenticaule Muill. 淡叶长喙藓 R.pallidifolium (Mitt.)A. Jaeger 水生长喙藓R.riparioides Hedw. 匐枝长喙藓 R. serpenticaule (Mull. Hal.) Broth.</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.广西青藓科植物新纪录",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 新纪录属",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 拟异叶藓属Pseudokindbergia Min Li, Y.F. Wang, Ignatov & B. C.Tan., Cryptog. Bryol.36(1): 61.2015.单种属；属特征详见种的主要识别特征（Lietal.,2015a）。2.1.1.1 拟异叶藓 (图版I)Pseudokindbergia dumosa (Mitt.) Min Li, Y.F. Wang, Ignatov & B. C. Tan, Cryptog. Bryol. 36(1): 61.2015.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主要识别特征：植物体大型；茎叶与枝叶明显异形。假鳞毛半圆形或三角状半圆形。茎叶先端渐尖或急尖，形成长毛尖状；中肋粗壮，达叶片中部以上；中部细胞菱形至线形；基部呈阔心形至三角形，具下延，角区细胞长方形。枝叶较小，卵状披针形至三角状披针形，叶先端渐尖，叶缘具粗齿；中肋末端有刺突；中部细胞长菱形至线形。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：融水县：汪楣芝46939（被错误鉴定为Brachythecium brotheri）（PE）；龙胜县：郭水良、于晶110619523（SHNU）；兴安县：刘倩、左勤965，刘倩、朱永清、王幼芳1684，609（HSNU）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（甘肃、陕西、西藏、四川、重庆、湖南、云南、广西、台湾）、尼泊尔、不丹、印度（Liet al.,2015a）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 新纪录种",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1匐枝青藓(图版II：1\\~4）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium procumbens (Mitt.) A. Jaeger, Ber. Thätigk. St. Gallischen Naturwiss. Ges.1876-77: 341 (Gen. Sp.Musc.2: 409).1878. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主要识别特征：假鳞毛三角状。茎叶卵形至三角状卵形，叶先端长渐尖，中肋达叶片的1/2\\~2/3处；中部细胞长菱形，末端尖锐；叶基部浅心形，角区细胞有分化，方形或矩圆形。枝叶与茎叶同形，略小，其余特征同茎叶。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：乐业县：唐启明、张仕艳20181001-213（HBNU，IBK）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（新疆、陕西、山西、河北、江苏、浙江、西藏、四川、贵州、江西、云南、广西、台湾）、韩国、日本、印度、尼泊尔、斯里兰卡（贾渝，何思，2013）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2阔叶尖喙藓（图版II：5\\~9）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Oxyrrhynchium latifolium (Cardot) Podp., Spisy Prir. Fak. Univ.v Brné 116: 33.1929. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主要识别特征：植物体粗壮，茎匍匐，不规则分枝。假鳞毛半圆形、钝。茎叶宽卵形，叶先端具有小尖头，中肋粗壮，达叶片4/5处，末端有刺突；叶中部细胞菱形或长菱形，基部细胞比较宽且短，常具壁孔；角区分化不明显。枝叶与茎叶同形，略小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：乐业县：唐启明20171020-064，20171021-010，20180409-34，20180409-75，20180413-436，20180416-735，20180609-199，20180609-202，20180609-203（HBNU，IBK）；乐业县：唐启明、张仕艳20181001-210，20181008-608（HBNU，IBK）；靖西县：韦玉梅8-389A（HBNU，IBK）；龙州县：韦玉梅 5654A（HBNU，IBK）；上思县：王幼芳等2014183（HSNU)；融水县：龙光日 $9 I O 7 5 a$ （PE）；兴安县：王幼芳、左勤1317（被错误鉴定为 Eurhynchium longirameum）（HSNU）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（贵州、浙江、广东、广西）、朝鲜、日本（刘倩，2010；贾渝，何思，2013）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "讨论：阔叶尖喙藓O.latifolium 和卵叶尖喙藓O.hians是尖喙藓属中叶均较宽而形态较为相近；两者的不同之处在于：前者叶形为阔卵形，最宽处靠近叶基部；而后者叶型为宽椭圆形，最宽处在叶中部。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3泛生尖喙藓（图版II：10\\~13）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Oxyrrhynchium vagans (A. Jaeger) Ignatov & Huttunen,Arctoa 11:273.2002. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主要识别特征：茎匍匐。假鳞毛半圆形。茎叶卵圆形，先端渐尖，基部圆形，叶边缘具细锯齿，中肋达叶片的0.7；叶中部细胞线形，基部细胞矩圆形。枝叶椭圆形，中肋达叶片 $0 . 6 { \\sim } 0 . 7 5$ ，中肋顶端具刺突。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：靖西县：韦玉梅等20141208-18（HBNU，IBK）；兴安县：王幼芳、左勤356（HSNU）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（安徽、浙江、四川、贵州、湖南、云南、台湾）、印度、尼泊尔、巴基斯坦、缅甸、越南、泰国、斯里兰卡、老挝、马兰西亚、印度尼西亚、菲律宾、美国（夏威夷）（Ignatov et al.,2005）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "讨论：该种与卵叶尖喙藓O.hians 和密叶尖喙藓O.savatieri较为接近，与两者的不同之处在于：泛生尖喙藓O.vagans 靠近叶尖处的细胞为长薄壁细胞。在中国最新的苔藓植物物种名录中并未收录该种（贾渝，何思，2013），但Ignatov etal.（2005）认为该种在中国的湖南、安徽、贵州、四川、台湾、云南和浙江有分布。该物种在广西的发现不仅证实了其确实在中国有分布，并且扩大了其在国内的分布范围。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4华东细喙藓（图版III：1\\~4)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegiella sinensis Broth.& Paris,Rev.Bryol.35:128.1908. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主要识别特征：植物体细弱。茎叶卵状披针形或卵形，叶先端渐尖，中肋达叶片2/3处，或更长。叶中部细胞菱形或短菱形，角区细胞方形或长方形。枝叶卵形，中肋末端具刺突；叶中部细胞短菱形，角细胞分化明显，方形。孢蒴倾斜，椭圆状圆柱形，蒴柄红棕色，光滑。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：那坡县：王健等20130817-124，201308017-126（HSNU）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分布：中国特有（上海、江苏、浙江、广西）（贾渝，何思，2013）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.5长肋拟青藓(图版III：5\\~9）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sciuro-hypnum populeum (Hedw.) Ignatov & Huttunen, Arctoa 11: 270. 2002 [2003]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "主要识别特征：植物体中等尺寸，不规则分枝。假鳞毛三角状，边缘具微齿。茎叶略宽卵状披针形至卵状披针形，先端渐尖，中肋强劲及顶；叶中部细胞蠕虫状，角细胞方形至矩形，壁略厚。枝叶卵状披针形，其他特征与茎叶一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：那坡县：王健等 20130818-36A（HSNU），贾鹏等NP091024144（GACP）；天峨县：赖明洲KS89-218（PE）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（新疆、西藏、内蒙古、黑龙江、吉林、辽宁、甘肃、陕西、河北、北京、山东、河南、四川、湖北、湖南、江西、安徽、江苏、上海、浙江、云南、贵州、重庆、广西、台湾）、韩国、日本、不丹、印度、巴基斯坦、尼泊尔、印度尼西亚（爪哇）、俄罗斯、欧洲、北美（贾渝，何思，2013）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.6弯叶拟青藓(图版III：10\\~14)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sciuro-hypnum reflexum (Starke) Ignatov & Huttunen,Arctoa 11: 270.2002[2003]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "主要识别特征：假鳞毛半圆形平截或钝。茎叶阔卵形至三角状卵形，叶先端长渐尖，中肋近叶尖；叶中部细胞菱形至线状菱形，叶基具下延，角区细胞分化未达中肋，呈长矩形。枝叶卵状披针形，基部略下延，其余特征同茎叶。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：兴安县：唐启明20180907-20（HBNU，IBK）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（新疆、西藏、内蒙古、黑龙江、吉林、辽宁、宁夏、陕西、山西、河北、山东、河南、安徽、江苏、上海、浙江、四川、重庆、贵州、湖南、江西、福建、云南、广西、广东）、日本、印度、俄罗斯、巴基斯坦、坦吉克斯坦、欧洲、北美（贾渝，何思，2013）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "讨论：弯叶拟青藓与长肋拟青藓较为相似，两者的不同之处在于：前者卵状三角形至阔卵状披针形，后者叶形披针形至卵状披针形；前者角区较大，多为长矩形，或矩形，后者角区方形或矩形。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3．合并种、存疑种和排除种",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经过对采自广西的青藓科植物标本1147份标本的逐一形态学鉴定，修订后的广西青藓科植物有11属、44种。由于这一研究结果与前人已报道名录中的68种差距较为悬殊，作者再次认真研究了前人的文献及凭证标本，并对名录中有差别的物种进行了逐一分析，最终将其归结为以下三种情况：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1合并种",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近二十年来，随着分子生物学研究方法在青藓科植物研究中的不断应用，青藓科分类系统以及部分物种的概念发生了变化，这就导致一些物种之间进行了合并。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1基于形态和分子系统学证据，密枝青藓（B.amnicola.Mull.Hal.）、斜枝青藓（B.campylothallum C.Muell.）、多枝青藓（B.fasciculirameum C.Muell.）、扁枝青藓（B.planiusculum C.Muell.）和绿枝青藓（B.viridefactum C.Muell.）被处理为多褶青藓（B.buchananii）的异名，故将其处理为多褶青藓的异名（耿江婷，2015）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.2B.plumosum var.striato-plumosum 被处理为羽枝拟青藓（Sciuro-hypnum plumosum）的异名（翟德逞，2008）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.3将白色同蒴藓（H.leucodonticaule(C.Muell.)Broth.）处理为无疣同蒴藓（H.laevisetumLac.）的异名（Ignatov et al.，2005）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.4刘倩（2010）将 Rhynchostegium divaricatifolium 处理为 Kindbergia divaricatifolia。本研究中，通过对该文献引用凭证标本的形态学观察发现，该种的植株大小及形态、叶形、角区细胞和假鳞毛等特征均在Pseudokindbergia dumosa变化范围内，故将R.divaricatifolium处理为Pseudokindbergia dumosa 的异名。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 存疑种",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "广西青藓科植物中的存疑种有下列两种情况：前人文献中的部分物种的凭证标本已全部遗失，或者只借阅到了部分凭证标本，但这些标本均为错误鉴定。而对于未借阅到的凭证标本，无法确定其物种名称。同时，本研究查阅的所有广西青藓科植物中未见符合以上特征的标本，所以，该些种是否在广西有分布，有待进一步研究。故本文暂将这些物种归为存疑种。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1前人文献中的凭证标本已遗失的物种有：勃氏青藓（B.brotheri Paris.）（汪楣芝，贾渝1993;贾渝等，1995；谢强等 2012b；左勤等，2010）、尖叶青藓（B.coreanumCardot）（贾渝等，1995；谢强等，2013；胡人亮，王幼芳，2005；Hu,RL,WangYF,2008；汪楣芝，贾渝，1993；贾渝等，1995）、羽状青藓(B.propinnatum Redf.)（祝爱琼等，2000)、毛尖藓（Cirriphyllum piliferum (Hedw.)Grout）（谢强等，2013；祝爱琼等，2000）、狭叶美喙藓（Eurhynchium coarctum C.Muell.）（蔡锦荣，2016)、糙叶美喙藓（E.squarrifolium Broth.ex Ihs.）（左勤等，2010）、狭叶长喙藓（RhynchostegiumfaurieiCard.）（左勤等，2010）、长枝褶藓（Okamuraea hakoniensis (Mitt) Broth.）（Wu,PC2002;吴鹏程2002）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2前人文献中提到，但本研究只借阅到了部分凭证标本，但这些标本均为错误鉴定的物种有：褶叶青藓(Brachythecium salebrosum (Hoffm. ex F.Weber & D.Mohr) B.S.G.)（谢强等，2012a，2013;胡人亮，王幼芳，2005；Hu et al.,2008）、东亚青藓(B.trichomitrium (Dixon et Ther.) Hutunen,Ignatov,Min.Li&Y.F.Wang)(左勤等，2010)、绒叶青藓(B.velutinum (Hedw.)B.S.G.)(徐炳声，1989；谢强等,2013；胡人亮，王幼芳，2005；Hu etal.,2008)，对于文献中提到的标本，借阅到的标本，均为错误鉴定，对于未借阅到的标本，无法确定其物种。而在我们所查阅的所有广西青藓科植物中未见符合该种特征的标本，故该种是否在广西有分布，有待进一步研究，暂归为存疑种。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 排除种",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于前人文献中提到的部分物种，经作者借阅凭证标本并逐一研究鉴定后确认为错误鉴定，故本研究将这些种类排除出广西青藓科植物名录。这些物种有：灰白青藓（Brachythecium albicans(Hedw.)Schimp.）（谢强等，2013)、冰川青藓（B.glaciale B.S.G.）（左勤等，2010)、皱叶青藓（B.kuroishicum Besch.）（谢强等，2013)、野口青藓（B.noguchii Takaki）(翟德逞，2008；谢强等，2012a)、疣柄青藓（B.perscabrum Broth.）(翟德逞，2008；左勤等，2010)、青藓（B.pulchellum Broth.& Paris）（谢强等,2013）、钩叶青藓（B.uncinifolium Broth.etPar.）（谢强等，2013）、短尖美喙藓（Eurhynchiumangustirete(Broth.)T.Kop.）（左勤等，2010）、尖叶美喙藓（E.eustegium(Besch.) Dixon）（左勤等，2010；谢强等，2012a）、斜蒴藓（Camptothecium lutescens (Hedw.)B.S.G.）（贾鹏等，2010）、美丽长喙藓（Rhynchostegium subspeciosum(Mull.Hal.)Mull.Hal.）（左勤等，2010）、深绿褶叶藓（Palamocladium euchloron(C.Mull.)Wijk et Margad.（贾鹏等，2010；谢强等，2012a）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本文完成过程中，华东师范大学王幼芳教授、中科院植物所贾渝研究员和于宁宁博士、中科院沈阳应该生态研究所李薇博士、上海师范大学郭水良教授、贵州大学熊源新教授和曹威博士等提供了广西青藓科的相关标本供作者研究，在此对各位前辈和同行的无私支持和帮助表示衷心的感谢！",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nCAI JR,Ma YH, YU J, et al., 2016. Newly recorded moss genus and species in Guangxi autonomous region of China based on collection from huaping national nature reserve[J]. J Shanghai Normal Univ (Nat Sci Ed),45(5):617-623.[蔡锦蓉，麻亚鸿，于晶，等,2016.广西藓类植物新纪录[J]．上海师范 大学学报(自然科学版),45(5):617-623.]   \nGENG JT, 2015. A taxonomic study on Brachythecium s.1. of China[D]. Shijiazhuang: Hebei Normal University.[耿江婷,2015．中国广义青藓属(Brachythecium s.1.)分类学研究[D].石家庄：河北师范 大学.]   \nHU R L,WANG YF,2005. Flora bryophytorum sinicorum (Vol.7) [M]. Beijing: Science Pres, 82-182. [胡 人亮，王幼芳,2005．中国苔藓志(第七卷)[M]．北京：科学出版社,82-182.]   \nHU RL,WANG YF, CROSBY, MR, et al.,2008. Mossflora of China (English version, Vol. 7) [M]. Beijing, New York: Science Press & Saint Louis: Missouri Botanical Garden Press,71-167.   \nIGNATOV MS,HUTTUNEN S,KOPONEN T, 2005.Bryophyte flora of Hunan Province, China. 5. Brachytheciaceae (Musci), with an overview of Eurhynchiadelphus and Rhynchostegiella in SE Asia[J]. Acta Bot Fennica, 178: 1-56.   \nJIA Y,HE S,2013. Species catalogue of China. Vol.1 plants, bryophytes[M]. Beijing: Science Press, 204-217.[贾渝，何思.2013．中国生物物种名录．第一卷 植物，苔藓植物[M]．北京:科学出版社, 204-217.]   \nJIA Y,WU PC,LUO JX,1995. The moss flora of Mt.Jiuwan, Guangxi and its significance in dividing the boundary line between tropical and subtropical regions in China (cont.))[J]. Acta Phytotax. Sinica, 33 (6):556-571.[贾渝，吴鹏程，罗健馨,1995．广西九万山藓类植物区系分析及其对划分热带、亚热 带分界线的意义(续)[J]．植物分类学报,33（6):556-571.]   \nJIA P, XIONG YH, WANG MH, et al.,2010. A study on the bryoflora on the Maojie Nature Reserve for bird in Guangxi [J]. JGuizhou Normal Univ (Nat Sci Ed),27(6): 55-62.[贾鹏，熊源新，王美会，等. 2010．广西猫街鸟类自然保护区苔藓植物初步研究[J]．贵州大学学报(自然科学版),27(6):55-62.   \nLI M， MA J， IGNATOV MS， et al.， 2015a. Taxonomic re-assssment of Kindbergia (Brachytheciaceae,Bryophyta) in China， with a description of Pseudokindbergia gen. nov. [J]. Cryptogamie, Bryol, 36(1):47-68.   \nLI M,WANG LB, WANG YF, 2015b. Status and prospect of Brachytheciaceae (Bryophyta) in China[J]. Chenia,12:1-13.   \nLIU Q,2010.Taxonomy and phylogeny of Eurhynchium and Rhynchostegium based on morphological and molecular data in East Asia[D].Shanghai: East China Normal University.[刘倩,2010.东亚地区美喙 藓属（Eurhynchium）和长喙藓属（Rhynchostegium）植物形态学和分子系统学研究[D].上海：华 东师范大学.]   \nSU ZM,LI XK, DING T, et al.,2014. The vegetation of Guangxi (Vol.1) [M]. Beijing: Chinese Forestry Press．[苏宗明,李先琨，丁涛，等,2014．广西植被(第一卷)[M].北京：中国林业出版社.]   \nWANG MZ, JIA Y,1993. Higher plant catalogue of Jiuwan Mountain (I) Bryophyta [M]. In: LI ZY, QIU XM. Reports on the plant resources of the Jiuwan Mountains,Guangxi, China. Beijing: Chinese Forestry Press,200-207.[汪楣芝，贾渝,1993．九万山高等植物名录(一)苔藓植物[M].//李振宇，邱 小敏．广西九万山植物资源考察报告．北京：中国林业出版社,200-207.]   \nWEI QQ, ZHANG BY, LI M, et al., 2018. Newly recorded species of mosses in Guangxi， China [J]. Guihaia,38(3):388-396.[魏倩倩，章博远，李敏，等,2018．广西藓类植物新记录的报道[J]．广西 植物,38(3): 388-396.]   \nWEI YM, TANG QM,HO BC, et al.,2018. An annotated checklist of bryophytes of Guangxi, China[J]. Chenia,13(special issue 1): 1-132.   \nWU PC,2002.Flora bryophytarum sinicorum (Vol. 6)[M].Beijing: Science Press.[吴鹏程,2002．中国苔 藓志(第六卷)[M]．北京：科学出版社.]   \nWU P C, Crosby MR,2002. Mossflora of China (English version, Vol. 6)[M].Beijing, New York: Science Press & Saint Louis: Missouri Botanical Garden Press.   \nXIE Q,WEI YM, XIE YJ,2012a. The bryoflora of limestone regions in Sino-Vietnam border area in southwest Guangxi[M]. In: LIANG SC, MA JM. Research on animal and plant ecology of Guangxi, second series.Beijing:Chinese Forestry Pres,3-17.[谢强，韦玉梅，谢彦军,2012.桂西南中越边境 石灰岩地区苔藓植物区系[M].//梁士楚，马姜明主编．广西动植物生态学研究(第二集)．北京：中 国林业出版社,3-17.]   \nXIE Q,XIE YJ, KONG FM, et al., 2013. Studies on bryophytes species in Jingxi Co. And Napo Co. In: LIANG SC, MA JM. Research on animal and plant ecology of Guangxi, third series. Beijing: Chinese Forestry Press,84-100.[谢强，谢彦军，孔繁茂，等,2013．靖西县和那坡县苔藓植物种类研究 [M].//梁士楚，马姜明主编．广西动植物生态学研究（第三集）北京：中国林业出版社,84-100.]   \nXIE Q,XU L, XIE YJ, et al.,2012b. Study on flora and ecological distribution of bryophytes in Cathaya argyrophylla natural communities of Huaping, Guangxi [M]. In: LIANG SC, MA JM. Research on animal and plant ecology of Guangxi,second series.Beijing: Chinese Forestry Press,18-23.[谢强，徐 丽，谢彦军，等,2012.广西花坪银杉天然群落苔藓植物区系与生态分布的研究[M]./梁士楚，马 姜明．广西动植物生态学研究（第二集）．北京：中国林业出版社,18-23.]   \nXU BS，1989. Cryptogamic flora of the Yangtze Delta and adjacent regions[M]. Shanghai: Shanghai Scientific and Technical Publishers,347-357.[徐炳声,1989．长江三角洲及邻近地区孢子植物志[M]. 上海：上海科学技术出版社,347-357.]   \nZHAI,DC,2008.A taxonomic study on Brachythecium of East Asia [D]. Shanghai: East China Normal University.[翟德逞,2008．东亚青藓属植物分类学研究[D]．上海：华东师范大学.]   \nZHU AQ, ZHANG GC, XIE Q, 2000. The bryophytes in the Yinzhulaoshan moutain of Guangxi[J]. J Guangxi Normal.Univ (Nat Sci Ed),18(3):86-90.[祝爱琼，张革昌，谢强,2000.广西银竹老山的苔 藓植物[J].广西师范大学学报(自然科学版),18(3):86-90.]   \nZUO Q，LIU，WANG YF, 2010. Study on moss flora of Maoershan Nature Reserve，Guangxi[J]. Guihaia,30(6):850-858.[左勤，刘倩，王幼芳,2010.广西猫儿山自然保护区藓类植物区系研究[J]. 广西植物,30(6):850-858.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/58e55771603a1f6209eb2d43d97d37097878e7bf9e563bb5d7f1ff444f354bee.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\scriptstyle 1 \\sim 2 .$ 茎叶； $3 { \\sim } 4$ 枝叶；5.茎叶叶尖；6.枝叶叶尖；7.茎叶基部；8.枝叶基部；9.茎叶基部角区；10.枝叶基部角区；11. 茎叶中部细胞；12.枝叶中部细胞；13.假鳞毛；14.植物体。（凭证标本：郭水良，于晶110619523） 1-2.Stemleaves;3-4.branch leaves; 5.Tipof stemleaf; 6.tipofbranch leaf;7.Baseof stemleaf; 8.Baseof branch leaf; 9. Alarcellsofstem leaf;10.Alarcelsofbranch leaf;1.Medianlaminal celsof stemleaf;12.Medianlaminal celsofbranch leaf;13.Pseudoparaphyllia;14.Plant.(Voucher specimen: Shuiliang Guo &Jing Yu 110619523) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图版I 拟异叶藓",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f960520317e0c2b20572409501de2f7489c31c09c5a1650b369cb19f797bbd25.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图版 $\\scriptstyle \\mathbf { I I } 1 \\sim 4$ 匐枝青藓：1.茎叶；2.枝叶中部细胞；3.茎叶角区；4.假鳞毛； $5 { \\sim } 9$ 阔叶尖喙藓：5.茎叶；6.枝叶；7.茎叶中部细胞；8.茎叶角区；9.假鳞毛； $1 0 { \\sim } 1 3$ 泛生尖喙藓：10.茎叶；11.茎叶中部细胞；12.枝叶先端；13.假鳞毛。（凭证标本： $1 { \\sim } 4$ 唐启明、张仕艳20181001-213； $5 { \\sim } 9$ 唐启明20180609-203； $1 0 { \\sim } 1 3$ 韦玉梅等 20141208-18)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PlateI1-4.Brachytheciumprocumbens1.Stem leaf;2.medianlaminalcelsofbranch leaf;3.alarcelsofstemleaf;4. Pseudoparaphyllia.5-9.Oxyrrhynchium latifolium5.Stem leaf; 6.Branch leaf,7.median laminalcelsofstem leaf;8.alar cells of stem leaf;9.Pseudoparaphyllia.10-13.Oxyrhynchiumvagans10.Stem leaf;11.median laminalcelsof stem leaf;12.tip celsof branch leaf;13.Pseudoparaphylia.(vocher specimen:1-4.Qiming Tang & Shiyan Zhang 20181001-213,; 5-9. Qiming Tang 20180609-203;10-13. Yumei Wei et al.20141208-18) ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/17ebc91ac89319e2d76d5975a51c51b476d8f743f564d48956e2c77f9e692ae0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图版 $\\mathbf { I I I 1 { \\sim } } 4$ 华东细喙藓：1.茎叶；2.枝叶；3.茎叶中部细胞；4.茎叶角区； ${ \\mathbf { 5 } } { \\sim } 9 .$ 长肋拟青藓：5.茎叶；6.枝叶；7.枝 叶中部细胞；8.枝叶角区；9.假鳞毛； $\\mathbf { 1 0 } { \\sim } 1 4 .$ 弯叶拟青藓10.茎叶；11.茎叶中部细胞；12.茎叶基部；13.茎叶角区； 14.假鳞毛。（凭证标本： $1 { \\sim } 4$ ，王健等 20130817-126； $5 { \\sim } 9$ ，赖明洲KS89-218； $1 0 { \\sim } 1 4$ ，唐启明20180907-20) PlateIII1-4.Rhynchostegielasinensis1.Stemleaf;2.Branchleaf;3.median laminalcellsofstem leaf;4.alarcelsof stemleaf.5-9.Sciuro-hypnumpopuleum5.Stem leaf; 6.Branch leaf;7.medianlaminal celsofbranch leaf,8.alarcelsof branch leaf; 9.Pseudoparaphylla.10-14.Sciuro-hypnumreflexum10.Stemleaf;11.median laminal celsof stemleaf;12. baseof stem leaf;13.alarcellsofstem leaf;14.Pseudoparaphyllia. (vocherspecimen:1-4.Jian Wang etal.20130817-126; 5-9.Mingzhou Lai KS89-218;10-14. Qiming Tang 20180907-20) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "附录广西青藓科分类学修订名录",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1气藓属 Aerobryum Dozy. et Molk.Nederl.Kruidk.Arch.2(4):279.1851. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1.1气藓 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Aerobryum speciosum Dozy. et Molk., Ned.Kruidk. Arch., 2(4): 279.1851. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：那坡县德孚自然保护区：韦玉梅等 20141203-47(HSNU)。那坡县：韦玉梅20141206-60（HSNU）；贾鹏等NPPH100510027，NPPH100510024，NPPH100510030，NPPH100510036，NPPH100510061，NPPH100510073(GACP)。猫儿山国家自然保护区：王幼芳、左勤 702，1113，1188，1352（HSNU）；唐启明 20180508-364；唐启明、韦玉梅、何思 20180908-112;何思、韦玉梅 48703。金秀县大瑶山国家级自然保护区：唐启明20180515-642，20180506-206A。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、来宾市、桂林市；中国（西藏、四川、云南、重庆、贵州、湖北、湖南、广西、海南、江西、台湾）。印度、斯里兰卡、不丹、越南、泰国、老挝、菲律宾、印度尼西亚、日本、巴布亚新几内亚。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2青藓属",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium B.S.G.Bryol. Eur. 6:5.1853. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.1 多褶青藓 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium buchananii (Hook.)A. Jaeger, Ber. Thatigk. St. Gallischen Naturwiss. Ges.1876-77: 341 (Gen. Sp. Musc.2: 1159).1878. Hypnum buchananii Hook., Trans.Linn. Soc.London 9: 32o.28 f.3.1808. Brachythecium amnicolum Müll. Hal., Nuovo Giorn. Bot. Ital., n. s. 3: 125.1896. Brachythecium campylothallum Müll. Hal., Nuovo Giorn. Bot. Ital., n. s.3: 124.1896. Brachythecium fasciculirameum Müll Hal., Nuovo Giorn. Bot. Ital., n. s. 4: 269.1897. Brachythecium planiusculum Mull. Hal., Nuovo Giorn. Bot. Ital., n. s. 4: 268.1897. Brachythecium thraustum C. Muell., Nuov. Giorn. Bot. Ital. n. s. 5:270, 1897. Brachythecium viridefactum C. Muel., Nuov.Giorn. Bot. Ital. n. s. 4:270. 1897. Brachythecium perminusculum Mull. Hal., Nuovo Giorn. Bot. Ital., n. s. 5: 200.1898. Brachythecium yunnanense Herzog, Hedwigia 65: 167. 1925. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：隆林县：韦玉梅8-335，8-349，8-359。隆林县大哄豹自然保护区：韦玉梅8-118B。乐业县雅长兰科植物国家级自然保护区：唐启明、张仕艳20181003-364A，20181001-178。乐业县：唐启明 20140608-149，20180411-217，20180411-221，20180409-70；唐启明、张仕艳 20181002-264;20181003-354A。天峨县令当山：赖明洲 KS89-419a，KS89-421（PE）。天峨县：龙光日、张灿明等167a，赖明洲 KS89-80（PE）。龙胜县：郭水良、于晶110620002(SHNU)。猫儿山国家自然保护区：王幼芳、刘倩 681；王幼芳、左勤167，328，346，358，601，617，619，623，682，684，698，717，720，739，1363，1369，1370，1918(HSNU)；赵芳芳 865 (PE)；何思、韦玉梅 48616，48600。那坡县白云山老虎跳自然保护区：韦玉梅10-305，10-335，10-707，10-776。那坡县：裴林英2154，2183，2186，2524，2529，2540，2581(PE)，2596；谢强等弄内14，弄莫06，水弄04;韦玉梅等20141204-94，20141205-67），20141206-17（HSNU）；贾鹏等 NPPH100510076,NPPH100510137，NPPH100510184(GACP)。靖西县：韦玉梅 5-316A；谢强等灵光17，红山14。靖西县邦亮自然保护区：韦玉梅 5-313，8-527，8-544。金秀县大瑶山国家级自然保护区：唐启明20180504057。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、河池市、来宾市、桂林市；中国（新疆、西藏、青海、黑龙江、吉林、辽宁、内蒙古、甘肃、陕西、山西、河北、北京、河南、山东、四川、重庆、湖北、安徽、江苏、上海、云南、贵州、湖南、江西、浙江、广西、广东、福建、台湾）。俄罗斯，不丹，朝鲜，日本，老挝，缅甸，泰国，越南，尼泊尔，斯里兰卡，巴基斯坦。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.2 台湾青藓 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium formosanum Takaki, J.Hattori Bot.Lab.15:2.1955. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "种的描述描述：参见翟德逞，2008。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：西林县猫街自然保护区：贾鹏XLMJ091020009（GACP）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市；中国（西藏、内蒙古、吉林、辽宁、宁夏、陕西、河北、四川、重庆、贵州、安徽、江苏、湖南、江西、浙江、云南、广西、广东、台湾），日本，尼泊尔。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3 圆枝青藓 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium garovaglioides Mull. Hal., Nuovo Giorn. Bot. Ital., n. s. 4: 270.1897. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见翟德逞，2008。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：乐业县：唐启明20180413-427，20180417-838。乐业县雅长兰科植物国家级自然保护区：唐启明、张仕艳20181001-163，20181001-219，20181003-346。西林县那佐自然保护区：贾鹏等NZ100506067，NZ100506253，NZ100507010，NZ100507013，NZ100507028，NZ100507040,NZ100507062，NZ100507067,NZ100507072,NZ100507074,NZ100507092,XLNZ091019049 (GACP)。西林县：贾鹏等 XLMB091021058，XLMB091021085，XLMB091021152(GACP)。那坡县白云山：韦玉梅 20140916-12,10-668,10-725。那坡县:王健等 20130816-54,20130816-56,20130818-80 (HSNU);韦玉梅等 20141206-12 (HSNU)；裴林英 2351(PE)；贾鹏等 NP091024077,NPPH100510165 (GACP)。那坡县德孚自然保护区：贾鹏等 NPDF091025031(GACP)。靖西县：谢强等果巴26，红山01，马峒07；韦玉梅8-456A，20140914-25。大新县恩城国家自然保护区：唐启明20180113-152，20180113-154B,20180113-163,20180113-165。武鸣县大明山国家自然保护区：唐启明 20181106-104,20181107-133。龙州县炮台山：韦玉梅5-444A，5-445，5-447，10-162，。鹿寨县：龙日光91007b(PE)。金秀县大瑶山国家级自然保护区：唐启明20180507297。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、南宁市、柳州市、来宾市；中国（新疆、西藏、内蒙古、吉林、甘肃、陕西、山东、四川、湖北、湖南、安徽、江西、江苏、浙江、云南、重庆、贵州、广西、广东、福建、香港、台湾），俄罗斯（远东地区，阿尔泰山），朝鲜，韩国，日本，缅甸，尼泊尔，巴基斯坦，印度，不丹。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.4灰青藓 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium glauculum C.Muell., Nuov.Giorn. Bot. Ital. n. s.5:199.1897. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "T的符Ⅲ细：奓兀八，上幼力，J。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：猫儿山国家自然保护区：王幼芳、左勤 2007715850(HSNU)。  \n分布：桂林市；中国特有（陕西、上海、贵州、广西）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.5 粗枝青藓 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium helminthocladumBroth.&Paris,Rev.Bryol.31:63.1904. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见翟德逞，2008。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：猫街自然保护区：贾鹏等 XLMJ091021133(GACP)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市；中国（内蒙古、黑龙江、辽宁、陕西、山东、河南、四川、云南、贵州、湖南、安徽、浙江、广西、台湾），日本。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.6 同枝青藓 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium homocladum Mill. Hal., Nuovo Giorn. Bot. Ital., n. s.3: 126.1896. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005；翟德逞，2008。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：天峨县：龙光日、张灿明等187b(PE)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "分布：河池市；中国特有种（辽宁、陕西、湖北、安徽、江西、广西）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.7 柔叶青藓 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium moriense Besch.,Ann.Sci. Nat.,Bot., sér.7,17: 375.1893. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：猫儿山国家自然保护区：王幼芳、刘倩 681，1569；刘倩、左勤672(HSNU)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "分布：桂林市；中国（西藏、黑龙江、吉林、陕西、山西、河北、四川、贵州、重庆、湖北、湖南、江西、安徽、云南、广东、广西、香港），日本。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.8燕尾青藓 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium novae-angliae (Sull. & Lesq.)A. Jaeger, Ber. Thatigk. St. Galischen Naturwiss. Ges. 1876-77: 328 (Gen. Sp. Musc. 2: 328). 1878. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Hypnum novae-angliae Sull.&Lesq.,Manual (ed.2) 676-677.1856. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Bryhnia novae-angliae (Sull. & Lesq.)Grout, Bull. Torrey Bot. Club 25(5): 229.1898. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见Noguchi，1991；胡人亮，王幼芳，2005；李敏，2004。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：武鸣县大明山国家自然保护区：唐启明20181105-164。猫儿山国家自然保护区：王幼芳、左勤1640 (HSNU)；何思、韦玉梅 48586。金秀县大瑶山国家级自然保护区：唐启明20180515-661。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "分布：南宁市、来宾市、桂林市；中国（新疆、西藏、吉林、陕西、山西、甘肃、河北、山东、上海、江苏、安徽、湖北、湖南、江西、福建、四川、贵州、重庆、云南、广西），日本，欧洲，北美洲，巴基斯坦。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.9 悬垂青藓 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium pendulum Takaki, J.Hattori Bot.Lab.15:27.1955. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：那坡县：贾鹏 NPPH100510125(GACP)。 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市；中国（河北、安徽、江西、浙江、湖南、四川、贵州、重庆、福建、广西），日本。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.10 华北青藓 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium pinnirameum Mull. Hal., Nuovo Giorn. Bot. Ital., new series 3: 126.1896. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium camptothecioides Takaki J.Hattori Bot.Lab.15:4,f.9,1-7.1955. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见Noguchi，1991；翟德逞，2008；胡人亮，王幼芳，2005。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：猫儿山国家自然保护区：王幼芳、左勤1379 as Brachythecium camptothecioide.(HSNU)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "分布：桂林市；中国（新疆、西藏、宁夏、陕西、山东、河南、浙江、安徽、福建、四川、贵州、云南、广西），日本。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.11 毛尖青藓 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium piligerum Cardot, Bull. Soc.Bot.Geneve, Sér.2,3: 290.1911. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：那坡县：贾鹏 NPPH100510162(GACP)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市；中国（内蒙古、黑龙江、吉林、辽宁、陕西、北京、山东、西藏、四川、贵州、重庆、湖北、湖南、安徽、江苏、浙江、江西、福建、云南、广西），日本。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.12 匐枝青藓 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium procumbens (Mitt.) A. Jaeger, Ber. Thatigk. St. Gallischen Naturwiss. Ges.1876-77: ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "341(Gen. Sp. Musc. 2: 409). 1878. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Hypnum procumbens Mitt., J.Proc.Linn. Soc., Bot., Suppl. 1: 70.1859. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005；翟德逞，2008。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：乐业县：唐启明、张仕艳20181001-213。 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市；中国（新疆、陕西、山西、河北、江苏、浙江、西藏、四川、贵州、江西、云南、广西、台湾），韩国，日本，印度、尼泊尔、斯里兰卡。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.13 溪边青藓 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium rivulare Schimp., Bryol. Eur. 6: 17. pl. 546 (fasc. 52-56. Monogr.13. pl.12).1853. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005；翟德逞，2008。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：乐业县：唐启明 20180409-52。天峨县：龙光日、张灿明190 (PE)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、河池市；中国（新疆、内蒙古、黑龙江、吉林、辽宁、甘肃、陕西、山西、北京、河北、河南、山东、西藏、四川、湖北、湖南、安徽、浙江、云南、广西、贵州、重庆、福建、台湾）以及亚洲其他国家，欧洲，俄罗斯，北美洲，南美洲。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.14 长叶青藓 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium rotaeanum De Not, Comment. Soc. Crittog. Ital. 2(3): 285-286.1867. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：西林县：贾鹏XLMB091021240(GACP)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市；中国（吉林、陕西、四川、重庆、湖南、安徽、浙江、云南、贵州、广西），欧洲，俄罗斯，日本，北美洲。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.15 卵叶青藓 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium rutabulum (Hewd.) B. S. G., Bryol. Eur. 6: 15. pl. 543 (fasc. 52-56 Monogr.11. pl. 9). 1853. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Hypnum rutabulum Hedw., Sp.Musc.Frond.276.1801. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005；翟德逞，2008。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：乐业县：唐启明20180411-296，20180609-209。靖西县：韦玉梅8-756。龙州县弄岗国家级自然保护区：韦玉梅5-644B。上思县十万大山国家级自然保护区：王幼芳等2014176(HSNU)。龙胜县：赵芳芳 882 (PE)。西林县：贾鹏 XLMB091021209(GACP),",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、防城港市、桂林市；中国（新疆、内蒙古、黑龙江、吉林、辽宁、甘肃、宁夏、陕西、河北、北京、山东、西藏、青海、四川、贵州、重庆、湖北、湖南、浙江、安徽、江苏、云南、广西、台湾），欧洲，俄罗斯（西伯利亚），日本，巴基斯坦，阿尔及利亚，巴布亚新几内亚，澳大利亚，高加索地区，哈萨克斯坦，新西兰，哈萨克斯坦，坦桑尼亚，智利，叙利亚。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3美喙藓属",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Eurhynchium Bruch & Schimp.Bryologia Europaea 5:217.1854. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.1 扭尖美喙藓",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Eurhynchium kirishimense Takaki, Journal of the Hattori Botanical Laboratory 16: 34.41 f. 1-10. 1956. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005；刘倩，2010。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：龙胜县：郭水良、于晶110620166(SHNU)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "分布：桂林市；中国（辽宁、陕西、山西、湖南、四川、贵州、云南、福建、广西、广东），日本。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4同蒴藓属",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Homalothecium B.S.G.Bryol.Eur.5:91.1851. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1 无疣同蒴藓",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Homalothecium laevisetum Lac., Ann. Mus. Bot. Lugd. Bat. 2: 298. 1866; Wang in Wu, Bryofi. Hengduan Mts. 592.2000. Homalothecium leucodonticaule (C. Muell.) Broth., Nat. Pfl. 1(3): 1135.1908. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Ptychodium leucodoticaule C.Muell., Giorn. Bot.Ital. n. ser. 4: 268.1897. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：西林县：贾鹏等XLMB091021242(GACP)。乐业县：唐启明20180409-39,20180411-211， 20180411-222， 20180413-344， 20180414-488， 20180415-644， 20180416-774,20180416-775，20180607-62，20180609-161。乐业县雅长兰科植物国家级自然保护区：唐启明、张仕艳 20181001-112，20181007-536。天峨县：李振宇 90027(PE)。天峨县令当山：赖明洲 KS-89-401(PE)。那坡县：谢强等龙合11，弄慢08，弄慢15，弄旺19；韦玉梅5-337，5-341B，5-347，5-352A,5-356；裴林英2192。那坡县老虎跳自然保护区：韦玉梅10-281。靖西县：谢强等 冻和25，足峙17，坡院06，三合27，巴留07，足峙18，岳圩21；韦玉梅5-293A，8-648A，8-742B。靖西县邦亮自然保护区：韦玉梅8-504，1866。靖西县古文水源林保护区：韦玉梅8-716，8-742B。百色市大哄豹自然保护区：韦玉梅1514。大新县恩城国家自然保护区：唐启明20180113-94，20180113-104A,20180113-105B，20180113-132，20180115-222，20180115-233，20180115-235B，20180115-244。大新县下雷水源林保护区：韦玉梅10-204；裴林英2099，2133，2140。隆安县屏山：韦玉梅5-133，5-134A，5-148D，5-154C，5-156B。隆林县大哄豹自然保护区：韦玉梅5-106A，8-113A，8-114。龙州县八更山：章博远等 2014632，2014633，2014629E(HSNU)。凭祥市大连城景区：韦玉梅5-718B;5-735C。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、河池市、南宁市；中国（新疆、西藏、甘肃、陕西、辽宁、河北、山东、河南、四川、湖北、湖南、重庆、贵州、安徽、江苏、上海、浙江、江西、云南、福建、广东、广西），日本，朝鲜。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5鼠尾藓属",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Myuroclada Besch.Ann.Sc.Nat. Ser.7.17:379.1893. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.1 羽枝鼠尾藓 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Myuroclada longiramea (Mull. Hal.） M. Li, Y. F. Wang, Ignatov & Huttunen, J. Bryol. 36(1): 152014.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Eurhynchium longirameum (C. Muel.) Y. F. Wang et R. L. Hu,Acta Phytotax. Sin. 41(3): 277. 2003. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：融水县九万大山：汪楣芝 $4 6 3 9 I a$ 。猫儿山国家自然保护区：王幼芳、左勤1936asEurhynchium angustirete (HSNU)。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "分布：柳州市、桂林市；中国（新疆、吉林、辽宁、陕西、河北、广西），东欧，阿尔泰，西伯利亚南部，雅库蒂亚，俄罗斯远东，堪察加半岛和科曼多尔群岛至普里莫斯基领土和库页岛，日本（稀少）。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.2 鼠尾藓 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Myuroclada maximowiczii (G. G. Borshch.) Steere & W. B. Schofield, Bryoiogist 59: 1. 1956 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Hypnum maximowiczii G.G. Borshch. in Maximowicz, Prim.Fl. Amur. 467.1859. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：上思县：高谦2036（GXMG）；",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "分布：防城港市；中国（黑龙江、吉林、辽宁、内蒙古、甘肃、陕西、山西、山东、江苏、上海、浙江、四川、重庆、湖南、江西、云南、广西），朝鲜，日本，俄罗斯、欧洲、北美洲。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6尖喙藓属",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Oxyrrhynchium (Schimp.） Warnst. Kryptogamenflora der Mark Brandenburg, Laubmoose 2: 781. 1905. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Oxyrrhynchium hians (Hedw.）Loeske， Verhandlungen des Botanischen Vereins fuir die Provinz Brandenburg und die Angrenzenden Länder 49: 59.1907. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Hypnum hians Hedw., Species Muscorum Frondosorum 272.pl.70: f.11-14.1801. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：隆林县百色市大哄豹自然保护区：韦玉梅1501。乐业县：唐启明 20171018-009,20171018-025，20171018-029，20171018-030B，20171018-032，20171021-019B，20171021-019b,20171021-020， 20180409-46， 20180411-281， 20180411-294， 20180415-524， 20180415-560,20180415-569，20180415-581，20180415-595，20180415-648，20180808-145；唐启明、张仕艳20181002-245。乐业县雅长兰科植物国家级自然保护区：唐启明、张仕艳20181004-431A，20181005-493，20181007-563。那坡县：王健等 20130816-14 (HSNU)；贾鹏等 NP091024136(GACP)。那坡县德孚自然保护区：贾鹏等NPDF091025051，NPDF091025052(GACP)。靖西县：韦玉梅等20141207-26(HSNU)。大新县：韦玉梅等 20141208-31(HSNU)。大新县恩城国家自然保护区：唐启明20180112-69B，20180115-243。上思县十万大山：2014179-a，2014180A (HSNU)。罗城县九万山：龙光日、张灿明 L-89028 as Eurhynchium savatieri，L-89034 (PE)。融水县九万大山：贾渝 J49-b (PE);何小兰H-00140 as Eurhynchium savatieri (PE)。猫儿山国家自然保护区：王幼芳、左勤 263，321,325，676，1316-2，1672，1675-1，1913，1973(HSNU)。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、防城港市、河池市、柳州市、桂林市；中国（黑龙江、吉林、辽宁、内蒙古、陕西、山东、河南、四川、贵州、湖南、湖北、江苏、浙江、江西、云南、福建、广西、广东、香港），日本，巴基斯坦，不丹，尼泊尔，高加索地区，喀麦隆，坦桑尼亚，科特迪瓦，北美洲。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.2 阔叶尖喙藓 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Oxyrrhynchium latifolium (Cardot) Podp., Spisy Prirodovedecké Fakulty University v Brné 116: 33 1929. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Eurhynchium latifolium Cardot.,Beihefte zum Botanischen Centralbatt 17:35.21.1904. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：乐业县：唐启明20171020-064，20171021-010，20180409-34，20180409-75，20180413-436，20180416-735，20180609-199，20180609-202，20180609-203。乐业县雅长兰科植物国家级自然保护区：唐启明、张仕艳 20181001-210，20181008-608。靖西县：韦玉梅8-389A。龙州县弄岗国家级自然保护区：韦玉梅 5-654A。上思县十万大山：2014183(HSNU)。融水县：龙光日91075a(PE)。猫儿山国家自然保护区：王幼芳、左勤1317as Eurhynchium longirameum (HSNU)。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、防城港市、柳州市、桂林市；中国（贵州、浙江、广东、广西），朝鲜，韩国，日本。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.3 疏网尖喙藓 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Oxyrrhynchium laxirete (Broth.） Broth., Die natirlichen Pflanzenfamilien, Zweite Auflage 11: 377 1925. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Eurhynchium laxirete Broth., Bulletin de la Société Botanique de Geneve 4: 380.1912. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：乐业县：唐启明20171018-017，20171018-021，20171019-007，20171019-012,  \n20171019-019B，20171019-021，20171019-027B，20171019-034，20171019-063，20171019-071,  \n20171020-017，20171020-020， 20171020-058，20171020-074C，20171021-008，20171021-025,  \n20171021-050，20171021-061，20171023-009D，20171024-010，20171033-033，20180410-146,  \n20180411-177，20180411-178B，20180411-179， 20180411-180，20180411-195，20180411-227,  \n20180411-235，20180411-238，20180411-257A，20180411-265， 20180413-320， 20180413-322,  \n20180413-323， 20180413-326，20180413-346，20180413-348，20180413-349， 20180413-351,  \n20180413-355， 20180413-376， 20180413-408， 20180414-470， 20180414-484， 20180415-528,",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "20180415-561， 20180415-562， 20180415-574， 20180415-580， 20180415-653， 20180416-708,20180416-758，20180417-806，20180417-817，20180607-1，20180607-15，20180607-26，20180607-30,20180607-33，20180808-076，20180809-83A，20180809-95，20180809-98；唐启明、张仕艳20181002-244。乐业县雅长兰科植物国家级自然保护区：唐启明20181001-176，唐启明、张仕艳20180930-23。西林县那佐自然保护区：贾鹏等NZ100506010，NZ100506030，NZ100506065，NZ100506073，NZ100506074，NZ100506076，NZ100506079，NZ100506080，NZ100506101，NZ100506110，NZ100506121，NZ100506129，NZ100506130，NZ100506131，NZ100506139，NZ100506184,NZ100506210,NZ100506212,NZ100506229,NZ100507008,NZ100507042,NZ100507075(GACP)。西林县：贾鹏等 XLMB091021005，XLMB091021090，XLMB091021086，XLMB091021253(GACP)。西林县猫街自然保护区：贾鹏等XLMJ091020086，XLMJ091020114，XLMJ091020144(GACP)。那坡县：谢强等 红山12，红山14，坡马屯15，牛郎坡13；韦玉梅 20141206-37；贾鹏等NP091024007，NP091024159(GACP)。那坡县老虎跳自然保护区，韦玉梅10-409，10-452，10-484,10-604，10-708。那坡县德孚自然保护区：贾鹏等 NPDF091025014(GACP)。靖西县：韦玉梅 5-299,20140912-7，20140914-1；谢强等 永兴41，红山11；20141207-14 (HSNU)。靖西县古文水源林保护区：韦玉梅8-725B。靖西县邦亮自然保护区：韦玉梅8-528，8-541C，1888(PE)。大新县恩城国家自然保护区：唐启明 20180115-220，20180116-262C。大新县：韦玉梅 5-207，5-216，5-220；王健等20130813-32(HSNU)。大新县下雷水源林保护区：韦玉梅 5-406A，5-407A，10-219，10-223。隆安县龙虎山自然保护区：韦玉梅 5-94。武鸣县三十六弄-陇均自然保护区：韦玉梅5-25A,5-46，5-52。龙州县：韦玉梅 5-514A,5-562,5-748A；章博远等 2014541B (HSNU)；吴鹏程、林尤兴等1299 (PE)。龙州县炮台山：韦玉梅5-459，20140921-7。龙州县弄岗国家级自然保护区：章博远等 2014704，2014708，2014717，2014719，2014721B，2014723，2014739，2014757(HSNU)；韦玉梅 5-574B,5-591A，5-642，5-696；裴林英 1858(PE)；章博远 2014711(HSNU)。龙州县大青山：韦玉梅 10-66。宁明县：章博远等 2014546，2014548，2014545(HSNU)。凭祥市小连城景区：韦玉梅10-30。防城港市：章博远等 2014508(HSNU)。防城区：章博远等 2014514(HSNU)。融水县九万大山：汪楣芝46293-b (PE)；20180415-656；20180808-148B；20171021-029。桂林市临桂区花坪国家级自然保护区：何思、韦玉梅 48888。猫儿山国家自然保护区：王幼芳、左勤1606，1673，1678，1681(HSNU)。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、防城港市、南宁市、柳州市、桂林市；中国（西藏、陕西、山东、四川、重庆、贵州、湖南、湖北、江苏、浙江、上海、安徽、江西、云南、福建、广西、广东、海南)，朝鲜，韩国，日本。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6.4 密叶尖喙藓 ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Oxyrrhynchium savatieri (Besch.) Broth.,Annales des Sciences Naturells; Botanique, ser.7,17: 378 [893. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Eurhynchium savatieri Schimp. ex Besch., Annales des Sciences Naturelles; Botanique，sér.7,17: 378 1893 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Eurhynchium protractum Mull.Hal., Nuovo Giornale Botanico Italiano, new series 3: 124.1896. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium gracilescens Broth., Symbolae Sinicae 4:108.1929. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：那坡县：韦玉梅10-779。 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市；中国（新疆、西藏、青海、内蒙古、黑龙江、陕西、山西、山东、河南、江苏、上海、浙江、江西、安徽、湖南、湖北、四川、贵州、重庆、云南、广西、广东、香港、台湾），朝鲜，韩国，日本，大洋洲（瓦努阿图）。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6.5 泛生尖喙藓 ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Oxyrrhynchium vagans (A. Jaeger) Ignatov & Huttunen Arctoa 11: 273.2002. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium vagans A. Jaeger, Ber. Thatigk. Galischen Naturwiss Ges. 1867-1877: 369.1878. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见Ignatov，2005。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：靖西县：韦玉梅等20141208-18。猫儿山国家级自然保护区：王幼芳、左勤 356(HSNU)。分布：百色市、桂林市；中国（安徽、浙江、四川、贵州、湖南、云南、广西、台湾），印度，尼泊尔，巴基斯坦，缅甸，越南，泰国，斯里兰卡，老挝，马兰西亚，印度尼西亚，菲律宾，美国（夏威夷）。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "7褶叶藓属",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Palamocladium C.Müell.Flora 82:465-466.1896. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "7.1褶叶藓 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Palamocladium leskeoides (Hook.) E.G. Britt, Bull. Torrey Bot. Club 40: 673,1931. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Hookeria leskeoidesHook.,Musci Exot., vol.1,pl. 55,1818. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Isothecium nilgeheniense Mont.,Ann. Sci.Nat., Bot., ser.2,17: 246.1842. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Palamocladium nilgheriense (Mont.) Mull. Hall., Flora 82: 465.1896. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：隆林县大哄豹自然保护区：韦玉梅8-150，8-238；隆林县：韦玉梅8-342，8-348，1528，1538，1593，1594(PE)；章博远 2013817-26。天峨县：张灿明 T-008(PE)；龙光日、张灿明等 $1 8 7 c$ ，191-a(PE)；赖明洲 KS89-235(PE)。那坡县：裴林英 2201，2205，2227，2236，2343,2395，2400，2402，2445，2456，2357，2475，2478，2582，2595，2598(PE)；王健等 20130817-13,20130817-25(HSNU)；韦玉梅等 20141204-106，20141204-132，10-526；谢强等 规等17，龙合08，牛郎坡11，水弄11。那坡县老虎跳自然保护区：韦玉梅10-270，10-345，10-354，10-413，10-435，10-443,10-444,10-451,10-526,10-550,10-601,10-661,10-735,10-778.靖西县:韦玉梅 20140916-54,5-323，5-332，8-463B，8-666，8-688；谢强等果巴27；裴林英 2739，2746，2582。靖西县古文水源林保护区：韦玉梅8-704，8-719A，8-723A，8-730A，8-743A。靖西县底定自然保护区：谢强等样5D2-001，样5D5-001，样5E4-001，样 5E5-001。宁明县十万大山国家级自然保护区：章博远等2014373A(HSNU)，20140418。融水县九万大山：贾渝 00115(PE)。融水苗族自治县：龙光日91085-a(PE)；贾渝 00113 (PE)；汪楣芝 46432-a(PE)。龙胜县：金鑑明、胡舜士 521-B，496(PE)。猫儿山国家自然保护区：刘倩、左勤1389 (HSNU)。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、河池市、柳州市、桂林市；中国（新疆、西藏、内蒙古、黑龙江、吉林、辽宁、陕西、河北、上海、江苏、浙江、湖北、湖南、安徽、四川、贵州、重庆、云南、广西、福建、台湾），朝鲜，日本，印度，印度尼西亚，越南，菲律宾，哥斯达黎加，新西兰，西印度群岛，危地马拉，阿根廷、巴西，秘鲁，玻利维亚，哥伦比亚，厄瓜多尔，美国，委内瑞拉，埃塞俄比亚，索马里，乌干达，肯尼亚，坦桑尼亚，卢旺达，南非，马达加斯加，斯威士兰。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "8拟异叶藓属",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Pseudokindbergia Min Li, Y. F. Wang, Ignatov & B. C.Tan, Cryptogamie, Bryologie 36(1): 61. 2015. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "8.1拟异叶藓 Pseudokindbergia dumosa (Mitt.) Min Li, Y.F. Wang, Ignatov & B. C. Tan, Cryptog. Bryol. 36(1): 61. 2015. Hypnum dumosa Mitt., J. Linn. Soc. Bot. Suppl.1: 80.1859. Kindbergia dumosa (Mit.) Ignatov & Huttunen,Arctoa 11: 263.2002. Eurhynchium serricuspis Müll Hal., Nuovo Giorn. Bot. Ital., n. s., 5: 197.1898. Bryhnia serricuspis (Mull Hall) Y.F. Wang & R.L. Hu,Acta Phytotax. Sin. 41: 272.2003. Rhynchostegium divaricatifolium Renauld & Cardot, Bulltin de la Societé Botanique de Belgique 41(1): 91. 1905. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见Lietal.，2015a。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：融水县：汪楣芝 46939(PE)as Brachythecium brotheri。龙胜县：郭水良、于晶110619523(SHNU)。猫儿山国家自然保护区：刘倩、左勤 965，刘倩、朱永清、王幼芳 609，1684(HSNU)。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "分布：柳州市、桂林市；中国（甘肃、陕西、西藏、四川、重庆、湖南、云南、广西、台湾），印度，尼泊尔，不丹。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "9细喙藓属",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegiella (B.S.G) Limpr.Laubm.Deutschl.3:207.1896. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "9.1 日本细喙藓",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegiella japonica Dix. et Thér., Rev.Bryol. n. ser. 4: 167.1932. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：靖西县：韦玉梅 8-625B，5-308；胡舜士Q-7(PE)。大新县：韦玉梅5-15，5-202,5-206A，5-437A。大新县恩城国家自然保护区：唐启明 20180504-40。龙州县：章博远 2014660;韦玉梅5-469A，5-477，5-527A。龙州县弄岗国家级自然保护区：章博远 2014737B(HSNU)。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市；中国（新疆、陕西、湖南、贵州、重庆、云南、广西、广东），日本。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "9.2 光柄细喙藓 ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegiella laeviseta Broth., Symb. Bin. 4: 109.1929; Wang et al.,Acta Phytotax. Sin. 36(3): 264. 1998. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：龙州县弄岗国家级自然保护区：王健等20130812-26，20130812-34，20130812-5020130812-70A(HSNU)；章博远 2014727(HSNU)；裴林英1793(PE)。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "分布：崇左市；中国特有（新疆、陕西、贵州、重庆、湖南、江西、浙江、云南、广西）。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "9.3 细肋细喙藓 ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegiella leptoneura Dix.& Thér. in Dix.,Rev.Bryol., n. s.4: 168.1932. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见Ignatov，2005。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：靖西县：韦玉梅 $8 - 5 7 4$ 。龙州县弄岗国家级自然保护区：章博远2014700，韦玉梅等20140422-65，20140422-65A(HSNU)。龙州县：章博远 20140423-31G(HSNU)；韦玉梅 5-601B。防城区十万大山国家级自然保护区：唐启明等20181112-143。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、防城港市；中国特有（内蒙古、吉林、辽宁、山东、四川、贵州、云南、广西、台湾）。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "9.4 锐尖细喙藓 ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegiella menadensis (Sande Lac.) E.B. Bartram, Philipp. J. Sci. 68: 302.1933. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Hypnum menadense SandeLac.,Bryol. Jav.2:156, tab.255.1866. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "H. fissidentoides Broth.,Bot. Jahrb.17: 479.1893,hom.Illeg ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium menadense (Sande Lac.) A. Jaeger, Ber. S. Gall Thät. Naturw. Ges. 1876-77: 371. 1878 (Ad. 2: 437). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium fissidentoides Paris,Ind.Bryol.1128.1898. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见Ignatov，1999。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：大新县：韦玉梅10-253。隆安县：韦玉梅 5-96。武鸣县：韦玉梅5-30，5-37，5-43A。龙州县：章博远 20140422-65D，20140423-31(HSNU)；韦玉梅 5-575。龙州县弄岗国家级自然保护区：章博远 2014685A,2014710，2014713，2014722，2014725，2014741，2014754,2014756(HSNU);王健等20130811-32，20130812-70(HSNU)；裴林英1781(PE)。防城港市防城区：章博远 2014454(HSNU)。大新县恩城国家自然保护区：唐启明20180113-155。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、防城港市、南宁市；中国（湖南、广西），菲律宾。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "9.5 华东细喙藓 ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegiella sinensisBroth.&Paris,Rev.Bryol.35:1908. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见Ignatov，2005。  \n标本鉴定：那坡县：王健等 20130817-124，20130817-126(HSNU)。  \n分布：百色市；中国特有（上海、江苏、浙江、广西）。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10长喙藓属 Rhynchostegium Bruch & Schimp.Bryologia Europaea 5:197.1852. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10.1 西里伯长喙藓 ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium celebicum (Sande Lac.） A. Jaeger, Bericht iber die Thätigkeit der St. Galischen Naturwissenschaftlichen Gesellschaft 1876-77: 374. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Hypnum celebium Sande Lac., Bryologia Javanica 2:159.1866. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：乐业县雅长兰科植物国家级自然保护区：唐启明、张仕艳20180930-36。西林县那佐自然保护区：贾鹏等 NZ100506075，NZ100506168，NZ100506196，NZ100506202，NZ100506232(GACP)。西林县：贾鹏等 XLMB091021010，XLMB091021239(GACP)。西林县猫街自然保护区：贾鹏等XLMJ061020069，XLMJ091020080，XLMJ091020135，XLMJ091020136(GACP)。那坡县老虎跳自然保护区：韦玉梅 采集号无。那坡县：谢强等 百埃18。靖西县邦亮国家级保护区：王健等20130815-112(HSNU)；韦玉梅 8-601，8-635，10-251。大新县下雷水源林保护区：韦玉梅10-211。大新县：韦玉梅 5-208，10-238；靖西县：韦玉梅8-600A，8-758A，8-763，8-769，8-776。武鸣县：韦玉梅 5-34。武鸣县大明山国家自然保护区：唐启明 20181105-124。龙州县大青山：章博远等2014564(HSNU)。龙州弄岗国家自然保护区：韦玉梅5-675。龙州县：韦玉梅5-534，5-536A，5-537，5-538。十万大山：郭水良、于晶无采集号，a531(SHNU)。上思县十万大山：唐启明 20181113-214。防城区十万大山国家级自然保护区：唐启明等20181112-164A。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、防城港市、南宁市；中国（四川、贵州、云南、广西、广东、台湾、海南），印度，印度尼西亚，苏门答腊，越南，菲律宾，巴布新几内亚，马来西亚，美国（夏威夷)。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10.2 缩叶长喙藓 ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium contractum Cardot, Bulletin de la Societé Botanique de Geneve 4: 381.1912. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：西林县那佐自然保护区：贾鹏等NZ100506132，NZ100506135(GACP)。乐业县：唐启明20180414-455，20180414-456。天峨县：赖明洲 KS89-10(PE)。那坡县：贾鹏等 NPPH100510195(GACP)。武鸣县大明山国家自然保护区：唐启明 20181105-116。龙胜县：郭水良、于晶110620148(SHNU)；猫儿山国家自然保护区：王幼芳、左勤 686 asR.fauriei(HSNU)；何思、韦玉梅 48671。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、河池市、南宁市、桂林市；中国（陕西、河南、江苏、浙江、四川、贵州、湖南、安徽、云南、福建、广西、广东、台湾），朝鲜，韩国，日本。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10.3 杜氏长喙藓 ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium duthiei Mul. Hal. et Dixon, Journal of the Bombay Natural History Society 39: 789. 1937. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：龙州大青山：章博远等2014565(HSNU)。龙州县弄岗国家级自然保护区：章博远等2014696 (HSNU)。宁明县：章博远等 2014559 (HSNU)。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "分布：崇左市；中国（四川、云南、广西、广东），印度，不丹。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10.4 斜枝长喙藓 ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium inclinatum (Mit.） A. Jaeger， Bericht über die Thätigkeit der St. Gallschen ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Naturwissenschaftlichen Gesellschaft 1876-77: 366. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Hypnum inclinatum Mit., Journal of the Proceedings of the Linnean Society 8: 152. 1864. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010；胡人亮，王幼芳，2005。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：龙州县：章博远等 2014683 (HSNU) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "分布：崇左市；中国（新疆、西藏、陕西、山东、江苏、河南、四川、重庆、贵州、湖南、安徽、江苏、云南、广西、台湾），日本。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "10.5 卵叶长喙藓 ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium ovalifolium S. Okamura, Journal of the College of Science, Imperial Univeristy of Tokyo 38(4): 94. pl. 41. 1926. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：隆林县大哄豹自然保护区：韦玉梅8-175。西林县那佐自然保护区：贾鹏等NZ100506124，NZ100506157， NZ100506159，NZ100506215， NZ100506230，NZ100506248,NZ100506250，NZ100506251，NZ100507098（GACP)。西林县猫街自然保护区：贾鹏等XLMJ091020081，XLMJ091020083（GACP)。西林县：贾鹏等 XLMB091021009，XLMB091021079,XLMB091021091， XLMB091021099， XLMB091021236， XLMB091021107， XLMB091021210,XLMB091021214， XLMB091021228， XLMB091021230， XLMB091021252， XLMB091021254,XLMB091021255，XLMB091021256(GACP)。乐业县：唐启明 20171019-006，20180417-836。天峨县：龙光日、张灿明等 160a(PE)；20180504-015；20180504-019。那坡县：谢强等 巴熊山22；韦玉梅等20141204-50(HSNU)；贾鹏等 NP091024092(GACP)。那坡县老虎跳自然保护区：韦玉梅10-674。那坡县德孚自然保护区：贾鹏等 NPDF091025007(GACP)。靖西县邦亮自然保护区：韦玉梅8-599，8-626A，1952(PE)。靖西县：韦玉梅 20140914-18，5-331，8-634A，8-757C，8-759，8-760,8-762，8-765B，8-772，8-774，8-775。靖西县古文水源林保护区：韦玉梅8-700。大新县下雷水源林保护区：韦玉梅 10-226。大新县恩城国家自然保护区：唐启明 20180115-219。武鸣县三十六弄-陇均自然保护区：韦玉梅 5-56。武鸣县大明山国家自然保护区：唐启明 20181106-102。龙州县弄岗国家级自然保护区：韦玉梅 5-597A。龙州县八更山：章博远等 2014676，2014679(HSNU)。龙州县弄岗国家级自然保护区：章博远等 2014699A，2014743(HSNU)；裴林英176(HSNU)。龙州县大青山：章博远等 2014558，2014567，2014574B，2014584(HSNU)。宁明县十万大山国家级自然保护区：章博远等2014379A，2014381B，2014387(HSNU)。上思县十万大山国家级自然保护区：王幼芳等2014184-a，2014197，2014207B。防城港市十万大山国家级自然保护区：章博远等2014426A,$2 0 I 4 4 2 9 B$ 。十万大山：郭水良、于晶a418(SHNU)。融水县九万大山：汪楣芝 45989(PE)。龙胜县：吴鹏程、林尤兴等 831(PE)；韦玉梅10-176；郭水良、于晶110619380 (SHNU)。猫儿山国家自然保护区：王幼芳、左勤 606(HSNU)，1957(HSNU)as R.pallenticaule；何思、韦玉梅 48680；唐启明20180907-36。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、防城港市、河池市、南宁市、柳州市、桂林市；中国（吉林、陕西、四川、贵州、重庆、湖南、云南、广西、福建、台湾），日本。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "10.6 淡枝长喙藓 ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium pallenticaule Mull. Hal., Nuovo Giornale Botanico Italiano, new series 4: 271.1897. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：隆林县：韦玉梅 8-353，8-356。乐业县雅长兰科植物国家级自然保护区：唐启明、张仕艳20180930-54，20181008-610。那坡县：谢强等盆河10；韦玉梅10-472。靖西县古文水源林保护区：韦玉梅8-668，8-690A。靖西县邦亮自然保护区：韦玉梅8-632，1978。靖西县湖涧：胡舜士 54。武鸣县三十六弄-陇均自然保护区：韦玉梅 5-60。武鸣县大明山国家自然保护区：唐启明20181107095。龙州县：韦玉梅5-474。上思县十万大山：王健等 2014321；章博远等 2014321。防城港市防城区十万大山国家级自然保护区：章博远等 2014438C(HSNU)。龙胜县：郭水良、于晶110621181(SHNU)。猫儿山国家自然保护区：王幼芳、左勤677(HSNU)。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、防城港市、南宁市、桂林市；中国特有（黑龙江、吉林、陕西、浙江、云南、广西、广东、海南）。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "10.7 淡叶长喙藓 ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium pallidifolium (Mitt.）A. Jaeger， Bericht iber die Thätigkeit der St. Gallschen aturwissenschaftlichen Gesellschaft 1876-77:369. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Hypnum pallidifolium Mitt., Journal of the Proceedings of the Linnean Society 8: 153.1864. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005；刘倩，2010。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：猫儿山国家自然保护区：王幼芳、左勤539asR.subspeciosum (HSNU)。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "分布：桂林市；中国（新疆、西藏、内蒙古、吉林、辽宁、陕西、山西、山东、河南、四川、重庆、贵州、湖北、湖南、江西、安徽、江苏、上海、浙江、云南、广西、海南、香港，台湾），韩国，日本。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "10.8 水生长喙藓 ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium riparioides Hedw. Bulletin de la Societé Botanique de France 60: 231.1913. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：乐业县：唐启明、张仕艳20181002-256。那坡县：韦玉梅等 20141204-154(HSNU)。靖西县：韦玉梅 5-263，5-266，5-320。靖西县古文水源林保护区：韦玉梅 8-680A。龙州炮台山：韦玉梅5-471A。融水县九万大山：贾渝 00081(PE)；汪楣芝 46104，46123(PE)；何小兰 H-00162(PE)。龙胜县：吴鹏程、林尤兴等 988(PE)；金鑑明、胡舜士949(PE)；郭水良、于晶110620023(SHNU)。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、崇左市、柳州市、桂林市；中国（黑龙江、吉林、辽宁、内蒙古、甘肃、陕西、河北、山东、四川、重庆、贵州、湖北、湖南、上海、江苏、浙江、安徽、云南、广西、广东），印度，尼泊尔，不丹，巴基斯坦，坦桑尼亚，朝鲜，日本。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "10.9 匐枝长喙藓 ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Rhynchostegium serpenticaule (Mull Hal.) Broth., Nuovo Giornale Botanico Italiano, new series 13: 275.1906. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Eurhynchium serpenticaule Mull. Hal., Nuovo Giornale Botanico Italiano, new series 4: 271. 1897. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见刘倩，2010。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：西林县那佐自然保护区：贾鹏等NZ100506099，NZ100506112，NZ100506221，NZ100506235,NZ100507015,NZ100507038,NZ100507082(GACP)。西林县：贾鹏等XLMB091021218,XLMB091021222(GACP)。西林县猫街自然保护区：贾鹏等 XLMB091021139(GACP)。乐业县雅长兰科植物国家级自然保护区：唐启明、张仕艳20180930-89，20180930-95。那坡县：韦玉梅10-434;贾鹏等 NP091024142(GACP)。武鸣县大明山国家自然保护区：唐启明 20181106-101。上思县十万大山：郭水良、于晶 无采集号s.n.(SHNU)。桂林市临桂区：唐启明 20180910-272。金秀县大瑶山国家级自然保护区：唐启明20180515-625。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、防城港市、南宁市、来宾市、桂林市；中国特有种（山西、陕西、四川、重庆、贵州、湖南、福建、江苏、浙江、云南、广西）。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "11拟青藓属",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Sciuro-hypnum (Hampe) Hampe,Linnaea 38:220.1874.   \nHypnum subg. Sciurohypnum Hampe, Flora 50: 76.1867. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "11.1 羽枝拟青藓 ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Sciuro-hypnum plumosum (Hedw.) Ignatov & Huttunen, Arctoa 11: 270.2002 [2003]. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Hypnum plumosum Hedw., Sp.Musc.Frond.257-258.1801.   \nBrachythecium plumosum (Hedw.) Schimp., Bryol. Eur. 6: 8 (fasc. 52-54 Monogr. 4).1853.   \nBrachythecium glauculum Müll.Hal., Nuovo Giorn. Bot. Ital., n. s. 5: 199.1898.   \nBrachythecium glauculum C. Muell., Nuov. Giorn. Bot. Ital. n. s.5: 199.1897. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "种的描述特征：参见翟德逞，2008。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：隆林县百色市大哄豹自然保护区：韦玉梅1512。乐业县：唐启明 20180409-51,20180409-59，20180413-423；郭水良、于晶110622012(SHNU)；唐启明、张仕艳 20181002-276，20181002-289。靖西县邦亮国家自然保护区：王健等 20130815-89(HSNU)。环江县九万山：汪楣芝47057，47123 (PE)；贾渝 $0 0 4 2 7 a$ (PE)。罗城县九万山：龙光日、张灿明L-89044(PE)。九万大山：龙光日、张灿明等GSY058 $\\mathbf { \\nabla } \\cdot \\boldsymbol { b }$ as Brachythecium plumosum，H-046(PE)。融水县九万大山：贾渝 00039(PE)；汪楣芝46022 (PE)；何小兰 H-00100-a (PE)。融水县：何小兰H00449(PE)。龙胜县：金鑑明、胡舜士376-2，376-3，387，394A-1，394A-2，416(PE)；吴鹏程、林尤兴等 213，213-2，231，1304-b,1363，1401(PE)；郭水良、于晶110619354，110620194，110620227(SHNU)。龙胜县花坪：郭水良、于晶110619265，110619317，11062018，110620131，110620147，110620156，110620185，110620307(SHNU)。猫儿山国家自然保护区：王幼芳、左勤96，143，145，147，172，176，186，188，203，254，281，323，329，333，336，338，339，340，343，344，349，351，354，359，360，362，363,364，365，369，370，371，372，373，374，376，377，379，380，383，384，386，387，465，510,514，517，521，538，546，558，559，600，603，605，607-1，608，610，611，612，614，616,620as B.glaciale, 622，673，674,675,678,683， 727， 734-1, 741-1， 742-1, 743-1， 744-1,745-1,746-1，748-1，749-1，750-1，751-1，753-1，754-1，755-1，756-1，758-1，759-2，760-1，761-1,762-1，763-1，764-1，765-1，766-1，768-1,770-1，772-1，773-1，774-1， 776-1，777-1，779，780-1,815，837，850，871，872，887，910，921，926，933，958，960，962，963，964，967，968,969，975，976，977，978，979，982，983，984，985，986，987，990,991，993，994，995，997,998，999，1000，1001，1037，1048，1142，1164b，1187，1249，1259，1316-1，1319，1329，1357,1362，1364，1366，1372，1373，1376，1378，1381，1382，1385，1386，1387，1388，1390，1392,1394，1395，1396，1400，1401，1402，1403，1405，1407，1410，1412，1413，1414，1419，1421,1425，1427，1428，1430，1431，1432，1435，1439，1560，1561，1562，1563，1566，1567，1570,1571，1572，1573，1575，1670，1682(HSNU)；何思、韦玉梅 48603，48706；唐启明 20180907-16,20180907-33；赵芳芳 788，801，821，846，851，898(PE)。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、河池市、柳州市、桂林市；中国（新疆、西藏、青海、内蒙古、黑龙江、吉林、辽宁、甘肃、宁夏、陕西、山西、河北、北京、山东、河南、四川、重庆、贵州、湖北、湖南、安徽、江苏、浙江、上海、江西、福建、云南、广东、广西、香港、海南、台湾）以及北半球广泛分布。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "11.2 长肋拟青藓 ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Sciuro-hypnum populeum (Hedw.) Ignatov & Huttunen, Arctoa 11: 270. 2002 [2003]. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Hypnum populeum Hedw., Sp.Musc.Frond.270-271,pl.70, f.1-6.1801. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Brachythecium populeum (Hedw.) Schimp., Bryol. Eur. 6: 7. 535 (fasc.52-56 Mon.3.1).1853. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见翟德逞，2008。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：那坡县：王健等 20130818-36A(HSNU)；贾鹏等 NP091024144（GACP）。天峨县：赖明洲KS89-218 (PE)。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "分布：百色市、河池市；中国（新疆、西藏、内蒙古、黑龙江、吉林、辽宁、甘肃、陕西、河北、北京、山东、河南、四川、湖北、湖南、江西、安徽、江苏、上海、浙江、云南、贵州、重庆、广西、台湾），欧洲，俄罗斯，韩国，日本，不丹，印度，巴基斯坦，尼泊尔，印度尼西亚（爪哇)，",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "北美。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "11.3 弯叶拟青藓 ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Sciuro-hypnum reflexum (Starke) Ignatov & Huttunen, Arctoa 11: 270. 2002[2003].   \nHypnum reflexum Starke,Bot. Taschenbuch 306-307,476.1807.   \nBrachythecium reflexum (Starke) B.S.G., Bryol. Eur. 6: 12 (fasc. 52-56.Monogr. 8).   \n1853. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "种的特征描述：参见胡人亮，王幼芳，2005；翟德逞，2008。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "标本鉴定：兴安县猫儿山国家自然保护区：唐启明20180907-20。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "分布：桂林市；中国（新疆、西藏、内蒙古、黑龙江、吉林、辽宁、宁夏、陕西、山西、河北、山东、河南、安徽、江苏、上海、浙江、四川、重庆、贵州、湖南、江西、福建、云南、广西、广东），俄罗斯，巴基斯坦，坦吉克斯坦，欧洲，日本，北美，印度。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "备注：本文引证的标本绝大多数保存于广西植物研究所标本馆（IBK），河北师范大学植物标本馆（HBNU）存有上述副份标本外，其余引证标本现存放的标本馆均已标出。",
+        "page_idx": 24
+    }
+]

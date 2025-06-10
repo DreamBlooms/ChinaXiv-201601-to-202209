@@ -1,0 +1,256 @@
+# DOI:10.5846/stxb201611182344
+
+宫兆宁,李洪,阿多,程庆文.官厅水库消落带土壤有机质空间分布特征.生态学报,2017,37（24);8336-8347. GongN,Liugatialactefaiteveofaigc Ecologica Sinica,2017,37(24) :8336-8347.
+
+# 官厅水库消落带土壤有机质空间分布特征
+
+宫兆宁1,2,3，李洪4,\*，阿多1,2,3，程庆文5
+
+1首都师范大学资源环境与旅游学院，北京100048  
+2三维信息获取与应用教育部重点实验室，北京100048  
+3资源环境与地理信息系统北京市重点实验室，北京100048  
+4国家林业局昆明勘查设计院，昆明650216  
+5中国航天科工集团公司，北京100048
+
+摘要;消落带土壤由于在水陆交替的特殊生境和复杂的地球化学共同作用下形成，具有独特的理化性质和生态功能。各营养盐含量在时间和空间上具有较高的变异性,土壤中有机质的分布及迁移和转化均受到复杂的影响。针对官厅水库流域上游妨水河段消落带,选择典型消落带落水区,对该区土壤有机质含量的时空分布特征进行研究。结果表明:1)研究区消落带土壤有机质含量较为贫瘠,变化范围在 $1 . 6 4 - 2 6 \mathrm { g / k g }$ 之间,平均值仅为 $1 3 . 1 6 \mathrm { g / k g }$ ,变异系数达 $5 0 . 5 9 \%$ 。说明消落带由于季节性干湿交替的特殊水文条件的影响,土壤养分的分布具有较高的空间异质性。淹水频繁区有机质含量平均值为 $1 5 . 7 4 \mathrm { g / k g }$ ,高于长期出露区的 $1 0 . 1 2 \mathrm { g / k g }$ ,且变异系数为 $4 1 . 3 8 \%$ ,小于长期出露区的 $5 4 . 9 8 \%$ 。说明淹水频繁区对土壤养分的持留能力更强,且周期性的淹水条件使得研究区近岸具有相似的生境类型,不同采样点土壤有机质含量的差异相对较小。2)不同植物群落下,芦苇和香蒲群落土壤有机质含量最高,平均值为 $1 7 . 0 8 \mathrm { g / k g }$ ;含量最低的是以小叶杨和白羊草为主的中旱生植物带,平均值为 $9 . 1 2 \mathrm { g }$ $\bf k g$ ;其次是酸模叶蓼、大刺儿菜为优势物种的湿生植物带，土壤有机质含量平均值为 $1 5 . 4 9 \mathrm { g } / \mathrm { k g } _ { \odot } 3 \AA$ 不同土壤层次有机质含量差异较大,总体变化趋势均由表层向下逐渐减少,各层之间体现出显著差异性( $P { < } 0 . 0 5 \rangle$ 。研究区土壤 $\mathrm { C } / \mathrm { N }$ 变化范围在1.64—18.95,平均值为8.95。说明研究区土壤碳氮比相对较低,有机质的腐殖化程度较高，且长期出露区土壤有机质更容易发生分解,C 的累积速度远小于 $\mathrm { ~ N ~ }$ 。土壤C/N垂直分布大致呈先增大后减小趋势，在 $3 0 \mathrm { c m }$ 处达到最大值,而后随着土壤深度的增加逐渐减小。4)消落带土壤有机质分布的影响因素分析中,土壤有机质与全磷呈极显著正相关,相关系数为0.62 $_ { ; ( P < 0 . 0 1 ) }$ ；与土壤全氮和C/N呈显著正相关( $R = 0 . 5 7 , 0 . 6 0 ; P { < } 0 . 0 5 )$ 。这说明研究区土壤全磷、全氮 $\ 、 \mathrm { C } / \mathrm { N }$ 和有机质明显具有相同的变化趋势,和有机质存在相互影响。其次,土壤有机质和湿度在呈显著负相关( $R = - 0 . 5 1$ $\scriptstyle P < 0 . 0 5$ ),表明研究区土壤湿度对有机质含量具有显著的影响。气候因子中,温度对研究区土壤有机质的分布具有显著的影响,相关系数为-0.51( $P { < } 0 . 0 5 )$ 。植被因子中,植被覆盖度和土壤有机质含量呈显著正相关,相关系数为0.64,表明植被因子也是影响土壤有机质分布的重要因素之一。
+
+关键词：消落带;土壤有机质;空间分异;官厅水库
+
+# Spatial distribution characteristics of organic matter in the water level fluctuation zone of Guanting Reservoir
+
+GONG Zhaoning1,2.3，LI Hong4,\*，A Duo1,2.3，CHENG Qingwen   
+1College of Resources Environment& Tourism,Capital Normal University,Beijing1Ooo48,China   
+2KeyLaboratoryof3DInformationAcquisitionand ApplicationofMinistryof Education，Beijing 1Oo048,China   
+3Key Laboratory of Resources Environment and GIS of Beijing Municipal,Beijing 1Ooo48,China   
+4Kunming Survey& Design Institute of State Forestry Administration,Kunming 65O216,China
+
+5China Aerospace Science& Industry Corp.,Beijing 1Ooo48,China
+
+Abstract：Thesoil in the waterlevelfluctuation zone（WLFZ）hasspecific particularly physical and chemical propertiesas wells ecologicalfunctionsbecauseitisgeneratedinaspecialhydrologicalenvironment.Tenutrientcontentofhesilhas a high levelof variabilityintimeand space.Therefore，thedistribution，migrationandtransformationoforganic mater （OM）are undercomplex influences.In the present study，atypical WLFZ in Guanting Reservoir，andthe temporal and spatial distribution characteristicsofOMcontentin the soil，wereanalyzed.Results showed thatthe OMcontentof WLFZ soil in Guanting Reservoir was fairly low,and changed in the range of $1 . 6 4 - 2 6 \mathrm { g / k g }$ ， with an average value of 13.16g/kg. The coefficient of variation was $5 0 . 5 9 \%$ ，which showed that the distribution of soil nutrients in the WLFZ had higher heterogeeity，becauseofthedry-wetaltermatehydrologicalconditionsandhumanactivities.TheOMcontentof thefrequent flooding area was $1 5 . 7 4 \mathrm { g / k g }$ on average，which was higher than the contrasting long-term exposed area at $1 0 . 1 2 \mathrm { g / k g }$ . The coefficient of variation was $4 1 . 3 8 \%$ in the frequent flooding area，which was lower than in the control zones that were （204 $5 4 . 9 8 \%$ .This indicated thatthe soil nutrient retention ability in the frequent flooding area was stronger，and diferencesof soil OMbetween different sampling points were relatively small.Under diferent plant communities，theOMcontentof Phragmites australis and Typha angustifolia emergent communities was the highest，with an average value of $1 7 . 0 8 8 \mathrm { g / k g }$ ; thelowest content was in Populus simonii and Bothirochloa ischaemum mesoxerophytescommunities，which had an average value of $9 . 1 2 \mathrm { g / k g }$ . The Polygonum Lapathifolium and Cirsium setosum hygrophyte communities were second highest， with an OM average value of $1 5 . 4 9 \mathrm { g / k g }$ .In different soil depths，the OM content varied，with an overall decreasing trend from the surface downward. The OM of each soil layer showed significant differences ( $\scriptstyle \sum \sum 0 . 0 5 \$ ). The soil C/N changed in the range of1.64—18.95,withan average valueof 8.95.This demonstratedthattheC/Nof the studyarea was relativelylow,the OM hadahigh degreeof humification，organicnitrogen tendedtoaccumulate，therewasgreaterpotentialof soil anaerobic decomposition to produce $\mathrm { C H } _ { 4 }$ and $\mathrm { C O } _ { 2 }$ . In the vertical distribution,C/N first increased and then decreased as the depth of the soil profilechanged，and reachedthe maximum valueat 30cm dep.Soil OMand total phosphorus,totalN,and C/N were significantly positively correlated，with coefficients of 0.62 ( $P { < } 0 . 0 1$ ），0.57，and 0.60 （ $P { < } 0 . 0 5$ ），respectively.This showed that the soil OM,total phosphorus，total N，and C/Nhad similar change trends，andexperienced interaction.Soil OM and moisture were negatively correlated $( R = - 0 . 5 1 )$ at the 0.05 significant $P$ -value,indicating that soil moisture in the studyarea had asignificant impactontheOMcontent.Temperature had asignificant influenceon the distributionof soil OM in the study area，the correlation coefficient was $- 0 . 5 0 8$ ，significance level $P = 0 . 0 3 1$ . Vegetation cover and soil OM content was significantlypositivelyrelated，indicating thatthe vegetation factor wasalsoan important factor afectingthe distribution of soil OM.
+
+Key Words:water level fluctuation zone；organic matter of soil； spatial distribution；Guanting reservoir
+
+水库消落带是指季节性或人为控制性水位消涨在库周形成的反复淹没和出露的带状区,具有水域和陆地双重属性,是一类特殊的季节性湿地生态系统[1-2]。水库消落带作为一种重要的生态交错带,具有生物的多样性、人类活动的频繁性和生态的脆弱性等特点[3-4],在库区水体与陆岸之间形成的一个巨大的环库生态隔离带,是深入分析各种生态要素相互作用机制的主要研究区域。
+
+土壤有机质(Organic Mater，OM)是消落带土壤的重要组成部分,作为土壤肥力高低的重要指标之一,其含量变化对湿地生态系统的生产力影响非常显著[5-6]。由于消落带土壤受季节性干湿交替的特殊水文条件影响,土壤环境中伴随着土壤的物理化学性质、植物生长状态、微生物群落等诸多变化[7-8],与其他土壤相比,表现出独特的理化性质和生态功能,且各营养盐含量在空间和时间上具有较高的变异性[9-10],土壤中有机质的分布、迁移和转化均受到十分复杂的影响。因此,研究干湿交替模式下消落带土壤有机质的时空分布特征及动态变化机制,对探索有机质的迁移和转化机制、预测消落带土壤营养变化趋势,以及进一步估算土壤有机碳储量和分析湿地生态系统碳循环具有十分重要的意义。
+
+目前国外对消落带土壤环境的研究主要是针对湖泊、河流边缘湿地等在自然水位的消长条件下土壤营养盐发生性质的改变及其迁移转化作用[11-16]。Zhang 等研究指出消落带土壤养分有较高的变异性,并且其理化性质的变化对周围生态环境变化具有指示作用[17]。而国内的研究较多集中在三峡库区、洞庭湖、鄱阳湖等湿地[18-27],针对消落带干湿环境的交替下土壤水分、有机质、氮、磷和土壤重金属等的变化特征和分布规律等方面展开研究。局部消落带区土壤承受干湿交替的剧烈变化,在空间和时间上消落带土壤具有较高的变异性[28],有机质的含量及分布受到更为复杂的影响。由于消落带的特殊环境影响,且有机质组成结构较为复杂,影响因素繁多，因此水库消落带土壤有机质的分布、累积和转化等动态变化机制目前仍然不能全面掌握。官厅水库是新中国兴建的第一个大型水库,也是首都北京重要的供水水源地之一。近半个世纪以来,由于消落带系统结构和功能退化导致的水土流失、库区淤积、水质污染、边岸侵蚀以及周边环境沙漠化等问题,严重威胁着库区的生态安全。反复周期性的裸露和浸泡以及水位涨落、冲刷和淤积,使消落带的地形、土壤和水分状况发生了一系列的变化,但目前对官厅水库消落带的研究较少。本文针对官厅水库流域上游妨水河段的自身特点,选择典型消落带落水区,于2013年5月对该区土壤有机质含量的时空分布特征进行研究,并揭示消落带频繁淹水区和长期出露区的土壤养分特征差异,为官厅水库消落带土壤环境质量演变过程和水土变化提供基础数据和依据。
+
+# 1 研究区概况
+
+官厅水库妫水河段消落带位于北京市境内的西北部延庆县,地处野鸭湖湿地自然保护区内,其地理位置处于 $1 1 5 ^ { \circ } 4 6 ^ { \prime } 1 6 ^ { \prime \prime } { - } 1 1 5 ^ { \circ } 5 9 ^ { \prime } 4 8 ^ { \prime \prime } \mathrm { E } , 4 0 ^ { \circ } 2 2 ^ { \prime } 0 4 ^ { \prime \prime } { - } 4 0 ^ { \circ } 3 0 ^ { \prime } 3 1 ^ { \prime \prime } \mathrm { N }$ 之间(图1)。该区属北温带大陆性季风气候,处于暖温带与中温带、半干旱到半湿润之间的过度地带,多年平均气温 $8 . 9 \%$ ,降水大多集中在夏季的6—8月份,平均降水量为 $4 6 3 \mathrm { m m }$ ,占全年降水量的 $7 5 \%$ ,降雨的高峰期为7月下旬到8月上旬[29]。主要的土壤类型为褐土和潮土,在官厅水库湖滨周围地下水埋深在 $2 \mathrm { { m } }$ 左右的地区,是湿潮土集中分布的地区,在局部滨水地区主要分布草甸沼泽土。在微地形变化较大地区,随地形和地下水的变化,潮土(黄潮土)—盐化潮土—湿潮土—草甸沼泽土呈复区分布[30]。本次采样主要野鸭湖自然保护区的核心区,由于妨水河北岸土地利用类型大多是农业用地,只有南岸维持典型的湿地景观地貌,生长着丰富的湿地植物群落,为更好的研究自然水文条件下土壤有机质的分布情况，因此采样点主要集中在妨水河南岸。
+
+![](images/eea6840196752df677a2c2b4f51bb23c17469d053007cabc4981809a906ef721.jpg)  
+图1研究区地理位置图  
+Fig.1Location map of study area
+
+http://www.ecologica.cn
+
+# 2材料和方法
+
+# 2.1样品采集与预处理
+
+为全面研究官厅水库消落带土壤营养盐分布特征以及空间异质性,根据官厅水库消落带水位变化的空间和时间特征,按近岸干湿交替频繁区、长期出露区的消落带设置采样带。官厅水库妨水河段消落带位于北京市境内的西北部延庆县,地处野鸭湖湿地自然保护区内。北岸土地利用类型多为农业用地;而南岸维持典型的湿地景观地貌,分布有丰富的湿地植被资源。因此,为更好的研究自然水文条件下土壤有机质的分布情况，采样点主要集中在妨水河南岸。采样时间为2013年5月,此期间水位较低,植被较少,便于采样。采样时沿着计划路线按照“随机”、“等量”和"多点混合"的原则进行采样[31]。采样点布局还考虑到根据不同植物群落及水分梯度设计采样剖面,避开路边、田埂、沟边和肥堆等特殊部位。根据水位梯度及地形起伏的变化,采集土壤样品时采样点布局垂直于水陆交界线,从岸边滩涂区一直延伸到最高水位区,形成一个采样剖面（图2），从岸边滩涂区随着海拔的升高,将能够频繁地被水淹没和落干的区域划分为淹水频繁区。而地势相对较高,不易被水淹没而长期暴露的地区划分为长期出露区。每个样点分5层采样， $0 { \stackrel { - 1 0 } { \longrightarrow } } 1 0 { \stackrel { - 1 0 } { \longrightarrow } } 2 0 \ldots 2 0 { \stackrel { - 3 0 } { - 3 0 } } \ldots 3 0 { \stackrel { - 4 0 } { - 4 0 } } ,$ （20$4 0 { - } 5 0 \mathrm { c m }$ ,整个研究区共采集样本130个。采样点间隔50— $1 0 0 \mathrm { m }$ ,贯穿整个研究区,将为结果分析提供充足的数据支撑。辅以土壤三参仪同步测量样点的湿度、温度和电导率,记录采样点GPS 坐标及详细的样地特征信息,主要包括土地利用类型、植被类型、坡度、坡向等环境因子。将采回的新鲜潮湿的土样放在室内阴凉通风处自行风干,手工挑选去除沙砾及虫体、植物根、叶残体后倒入陶瓷研钵中磨碎,过 $2 \mathrm { m m }$ 筛子,充分混合。
+
+![](images/cb6e4b407c2937e64abbe9540824ce5b298f11e175ca05fcef26195c6a867cb6.jpg)  
+图2消落带土壤采样点分布图  
+Fig.2Distribution of soil sampling sites in water level fluctuation zone
+
+# 2.2 实验方法
+
+本实验土壤理化性质的分析包括土壤有机质、全氮、全磷、全盐量、 $\mathrm { \Phi _ { \cdot } p H }$ 和土壤含水率,其分析方法依据中华人民共和国林业行业标准,森林土壤分析方法[31],见表1。
+
+Table1 Determination methods of soil physicochemical characteristics   
+
+<html><body><table><tr><td>分析项目 Analysis items</td><td>分析方法 Analysis methods</td><td>分析依据 Analysis basis</td></tr><tr><td>土壤有机质 Soil organic matter</td><td>重铬酸钾氧化-外加热法</td><td>LY/T1237-1999《森林土壤有机质测定》</td></tr><tr><td>土壤全氮 Soil total nitrogen</td><td>半微量凯氏法</td><td>LY/T1228-1999《森林土壤全氮的测定》</td></tr><tr><td>土壤全磷 Soil total phosphorus</td><td>酸溶-钼锑抗比色法</td><td>LY/T1232-1999《森林土壤全磷的测定》</td></tr><tr><td>土壤全盐量 Soil total salt content</td><td>质量法</td><td>LY/T1251-1999《森林土壤水溶性盐分分析》</td></tr><tr><td>土壤 pH Soil pH</td><td>电位法</td><td>LY/T1239-1999《森林土壤pH的测定》</td></tr><tr><td>土壤含水率 Soil moisture content</td><td>质量法</td><td>LY/T1213-1999《森林土壤含水量的测定》</td></tr></table></body></html>
+
+# 2.3 数据处理
+
+实验数据采用 SPSS17.0统计软件做单因素方差分析和相关性分析,差异显著性水平取0.05;数据统计和作图采用Microsoft Excel 2007。运用经典统计分析方法,得出研究区本实验土壤理化性质分布情况,包括土壤有机质、全氮、全磷、全盐量 $\mathrm { \Phi _ { \cdot } p H }$ 和土壤含水率,如表2所示。
+
+# 3结果与分析
+
+# 3.1消落带土壤有机质含量分布特征
+
+# 3.1.1土壤有效样本养分统计特征
+
+将所有实测土壤营养成分数据进行异常值检测和剔除后,利用传统统计学原理,对全部126个有效样本的土壤主要养分含量进行描述性统计,包括最大值、最小值、平均值及标准差等,并进行简单分析。消落带土壤主要养分含量状况见表2。
+
+均值和中位数常用来描述数据分布的集中趋势,标准差和变异系数则表达数据的离散程度。本研究中,整个研究区土壤有机质含量较为贫瘠,变化范围在 $1 . 6 4 { \overset { \_ } { \_ } } 2 6 . 6 \mathbf { g } / \mathbf { k g }$ ,平均值仅为 $1 3 . 1 6 \mathrm { g / k g }$ 。消落带土壤除pH外,其余营养成分含量的平均值都大于中值,且最小值和最大值间相差较大,说明消落带土壤养分含量的中心趋向为偏正态分布。土壤 $\mathrm { \ p H }$ 和全磷含量的变异系数较小,分别为 $3 . 1 1 \%$ 和 $1 7 . 7 9 \%$ ,全盐量的变异系数最大,达到 $7 3 . 0 2 \%$ ，其次是全氮和有机质含量，依次为 $6 7 . 7 8 \%$ 和 $5 0 . 5 9 \%$ 。由此可见，采样区消落带土壤受季节性干湿交替的特殊水文条件的影响,导致土壤各营养盐的分布具有较高的空间异质性。
+
+表1土壤理化性质的分析方法  
+表2消落带土壤养分统计  
+Table 2 Statistic information of soil nutrient in water level fluctuation zone   
+
+<html><body><table><tr><td>分析项目 Analysis items</td><td>最小值Min/ （g/kg)</td><td>最大值Max/ （g/kg)</td><td>均值 Mean/ （g/kg)</td><td>中值 Median/ （g/kg)</td><td>标准差 Standard deviation</td><td>变异系数 Coefficient of variation</td></tr><tr><td>有机质Organic matter</td><td>1.60</td><td>26.60</td><td>13.16</td><td>12.08</td><td>6.66</td><td>0.5059</td></tr><tr><td>全磷 Total phosphorus</td><td>0.28</td><td>0.68</td><td>0.44</td><td>0.37</td><td>0.08</td><td>0.1779</td></tr><tr><td>全氮 Total nitrogen</td><td>0.15</td><td>5.48</td><td>0.97</td><td>0.81</td><td>0.66</td><td>0.6778</td></tr><tr><td>全盐量 Total salt content</td><td>0.45</td><td>15.24</td><td>2.42</td><td>1.52</td><td>1.77</td><td>0.7302</td></tr><tr><td>pH Z</td><td>6.22</td><td>7.22</td><td>6.54</td><td>6.50</td><td>0.20</td><td>0.311</td></tr></table></body></html>
+
+# 3.1.2 不同水分梯度下有机质分布特征
+
+由于周期性的干湿交替作用使土壤在很短时间内发生剧烈的变化,各营养物质的截留分解和释放等过程更加活跃。为深入探索消落带内特殊水文条件对有机质含量的影响,将官厅水库消落带按照水分梯度划分，如图1。垂直于水陆交界线,从岸边滩涂区随着海拔的升高,将能够频繁地被水淹没和落干的区域划分为淹水频繁区。而地势相对较高,不易被水淹没而长期暴露的地区划分为长期出露区。对比分析同一季节下库区消落带近岸干湿交替频繁区和长期出露区土壤有机质含量分布情况（表3）。
+
+http://www.ecologica.cn
+
+土壤有机质含量统计分析结果表明;淹水频繁区有机质含量的分布范围为 $4 . 9 0 { \ - } 2 6 . 6 0 \mathrm { g / k g }$ ,平均值为$1 5 . 7 4 \mathrm { g / k g }$ ,高于与此形成对照的长期出露区平均值 $1 0 . 1 2 \mathrm { g / k g }$ ,其变化范围为 $1 . 6 4 - 2 2 . 7 2 { \mathrm { g / k g } }$ ，淹水频繁区有机质含量的变异系数为 $4 1 . 3 8 \%$ ,小于长期出露区的 $5 4 . 9 8 \%$ ,且前者有机质含量均值与中值相近，后者则相差较大。干湿交替的淹水频繁区土壤水分相对较高,植被生长状况优于长期裸露区,而且在淹水状态下,枯萎的植物残体留在土壤中分解缓慢,加强土壤有机质的不断积累。消落带土壤长期出露地区,由于相对较为干旱,植被稀少,土壤湿度较小,且盐渍化严重,有机质不易于积累,因此淹水频繁区有机质含量高于长期出露区。周期性的干湿交替使得研究区的淹水频繁区土壤类型,植被类型,水分条件等生态环境相似度较高,使得不同采样点之间土壤有机质的含量差异小于长期出露区。
+
+Table 3Statistic information of soil organic matter in different sample zones   
+
+<html><body><table><tr><td>采样区域 Sample zones</td><td>最小值Min /（g/kg)</td><td>最大值Max /（g/kg)</td><td>均值 Mean /（g/kg)</td><td>中值 Median 标准差 Standard /（g/kg) deviation</td><td>变异系数 Coefficient of variation</td></tr><tr><td>淹水频繁区 The frequent flooding area</td><td>4.90</td><td>26.60</td><td>15.74</td><td>15.55 6.51</td><td>0.4138</td></tr><tr><td>长期出露区 The long-term exposed area</td><td>1.64</td><td>22.72</td><td>10.12</td><td>8.29 5.56</td><td>0.5498</td></tr></table></body></html>
+
+淹水频繁区样品（ ${ \bf \rho } _ { n } = 7 5$ ），长期出露区样品 ${ \bf \zeta } _ { n } = 5 1$ ）
+
+# 3.1.3不同植被群落下有机质分布特征
+
+植被群落对于土壤养分具有富集作用,而土壤养分的变化直接影响植被群落的分布格局及演替过程[32]。不同植物群落对土壤养分的吸收利用和累积效应各不相同,将土壤样品按照典型植物群落划分,探究不同植被群落类型与土壤有机质彼此间的互动关系。研究区湿地植被类型丰富,按照水分由高到低植被类型依次分布有沉水植物、浮水植物、挺水植物、湿生植物、中生植物和盐生植物[3-34]。在研究区消落带,湿地植被呈现明显的带状分布,在水陆交接的浅水区,主要为沉水植物和浮水植物混合分布;随着水位升高,植物带逐渐过渡到挺水植物、湿生植物和中生植物。研究区采样期间选择的植物类型和优势植物群落分别为：挺水植物类型包括芦苇群落（Com.Phragmites australis）、香蒲群落（Com.Typha angusitifolia）;湿生植物类型主要优势物种为酸模叶蓼群落（Com.Polygonum Lapathifolium）、大刺菜群落（Com.Cirsium setosum）;中旱生植物类型主要包括小叶杨群落(Com.Populus simonii)和披碱草群落（Com.Elymusdahuricus）。各植物群落下土壤有机质含量情况见表4。 人
+
+表3消落带不同采样区土壤有机质统计分析  
+表4采样区主要湿地植被类型及土壤有机质含量  
+Table 4 The main vegetation types and content of soil organic matter in different sample zones   
+
+<html><body><table><tr><td colspan="6">Tabie npiezones</td></tr><tr><td>植物生态类型</td><td>优势植物群落</td><td>有机质变化范 Variation range</td><td>有机质平均值 Average value</td><td>样本数目 Sample</td><td>所在采样区域 Sample area</td></tr><tr><td>Plant ecological types</td><td>Dominant plant Ocommunity</td><td>of organic matter/ （g/kg)</td><td>of organic matter/ （g/kg)</td><td>number/个</td><td></td></tr><tr><td>挺水植物 Emerged plant</td><td>芦苇Phragmites australis 香蒲Typha angusitifolia</td><td>6.82—26.60</td><td>17.08±6.45</td><td>42</td><td>淹水频繁区</td></tr><tr><td>湿生植物</td><td>酸模叶蓼Polygonum Lapathifolium</td><td>4.80—23.20</td><td>15.49±6.23</td><td>33</td><td>淹水频繁区</td></tr><tr><td>Hygrophilous plant 中旱生植物</td><td>大刺儿菜 Cirsium setosum 小叶杨 Populus simonii</td><td></td><td></td><td></td><td></td></tr><tr><td>Mesophyte plant</td><td>披碱草 Elymusdahuricus</td><td>1.64—21.31</td><td>9.12±4.87</td><td>51</td><td>长期出露区</td></tr></table></body></html>
+
+从表4中可以看出,消落带淹水频繁区主要分布着挺水植物和湿生植物,长期出露区主要是中旱生植物。挺水植物带以芦苇和香蒲群落为主,土壤有机质含量最高,平均值为 $1 7 . 0 8 \mathrm { g / k g }$ ,最小值和最大值分别为6.82和 $2 6 . 6 0 \mathrm { g / k g }$ ;其次是酸模叶蓼、大刺儿菜为优势物种的湿生植物带,土壤有机质含量平均值为 $1 5 . 4 9 \mathrm { g / k g }$ 。含量最低的是以小叶杨和白羊草为主的中旱生植物带,平均值为 $9 . 1 2 \mathrm { g / k g }$ 。芦苇和香蒲以及酸模叶蓼等植被群落下土壤有机质含量在表层 $( 0 { - } 1 0 \mathrm { c m } ^ { \cdot } ,$ )含量最高，下层土壤有机质含量依次比上层土壤含量低。在中旱生植物带,地势较高,土壤含水率较低,且灌木和草本植物多混合分布,因此土壤养分分布格局相对零乱,最小值与最大值之间相差较大,变化范围为 $1 . 6 4 - 2 1 . 3 1 { \bf g } / \mathrm { k g }$ 0
+
+# 3.1.4不同土壤深度下有机质分布特征
+
+将库区消落带内0—10、10—20、20—30、30—40、40—50cm采样深度范围的土壤有机质进行分层分析,结果如图3。可以看出,研究区不同土壤层次有机质含量差异较大,总体变化趋势均由表层向下逐渐减少,各层之间体现出显著差异性( $_ { P < 0 . 0 5 ) }$ 。全部有效样本以及淹水频繁区和长期出露区的土壤有机质具有相似的分布趋势,均在0— $1 0 \mathrm { { c m } }$ 处出现累积峰。究其原因主要是由于作为土壤有机质主要来源的动植物残体、植物根系大量分布在地表所致。随着土壤剖面深度的增加,植物根系减少,且深层土壤不易受到外界环境的干扰,有机质的转化、分解及合成过程稳定,致使土壤有机质含量低并且变化较小。在 $3 0 \mathrm { c m }$ 处略微出现波动,主要是由于部分地区灌木和草本植物混合分布,这些植被群落下土壤有机质含量的垂直分布规律比较特殊,如图4展示了比较典型的小叶杨和披碱草植物群落下的土壤有机质含量特征。在小叶杨等灌木集中分布的地区,土壤类型以砂壤为主,树下地表没有其他植物生长,植物落叶及枯枝分布较少,不利于有机质的累积,土壤有机质含量最低。由于杨树根系较深,根系分泌物及残体增多，下层土壤有机质含量反而比表层含量略高，在$3 0 \mathrm { c m }$ 处达到本研究采样深度范围内的最大值，而后有机质含量又随着土层深度逐渐降低。在披碱草等草本植物群落集中的地区,地下根系较短,且植物死亡率较高,落叶等地表枯落物较多,因此土壤有机质集中在表层，随着土层深度变深,有机质含量逐渐变小。
+
+![](images/1297792d464fabf75e0c2b68d4b539c0eead5a790a111b7d6641643f1c6e3a64.jpg)  
+图3土壤有机质含量随土壤深度的变化
+
+![](images/f761ead65168c72b6bb819fa96f92ef484bd27d2a94dfc5af68553e3a3a5858d.jpg)  
+Fig.3The change of soil organic matter content in different sampling depth   
+图4典型植物群落土壤有机质含量随土壤深度的变化 Fig.4The change of soil organic matter content in different sampling depth of typical plant communities distribution area
+
+# 3.2消落带土壤碳氮比分布特征
+
+土壤碳氮比指示土壤生物分解过程中碳和氮转化作用的密切关系[5,35],可用来衡量土壤中C、N 营养平衡的状况。有研究指出,土壤C/N 能影响土壤厌氧分解产生 $\mathrm { C H } _ { 4 }$ 和 $\mathrm { C O } _ { 2 }$ 的潜力[36]。微生物对有机质分解的最适 C/N约为25:1,如果碳氮比大于25 时,微生物的分解作用就慢,并且吸收消耗土壤中的氮素,使N急剧减小。有机质的分解过程由于氮素受限而分解较困难。反之,如果碳氮比较低,微生物活动旺盛,则会促进微生物对有机质的分解,并释放出大量有效态氮,有利于N的积累。研究区内5月份所有采样点土壤C/N变化范围在1.64—18.95,平均值为8.95,有机质分解的C/N约为9:1。说明研究区土壤碳氮比相对较低,有机质的腐殖化程度高,且有机氮更容易矿化;同时也表明土壤厌氧分解产生 $\mathrm { C H } _ { 4 }$ 和 $\mathrm { C O } _ { 2 }$ 的潜力较大、速率较快。由于消落带淹水频繁区和长期出露区的水文条件和其他环境因子不同,碳氮比的分布可能会受到影响而表现出差异性，因此针对两个不同区域分析碳氮比的分布情况。
+
+http://www.ecologica.cn
+
+# 3.2.1  淹水频繁区土壤碳氮比分布特征
+
+淹水频繁区土壤全氮含量较低,在2.09- $0 . 1 5 \mathrm { g / k g }$ 之间,如图5所示。土壤有机质含量的最大值和最小值差距较大,导致C/N的变化范围波动也较大,变化范围为6.92—18.94,平均值为9.65,相比整个研究区的平均值(8.95)略高,但仍远小于土壤有机质正当分解的碳氮比。说明研究区消落带土壤有机质容易发生降解，并能释放出过量的氮素，供给植物生长的营养充足。在土壤剖面0— ${ . 5 0 } \mathrm { c m }$ 内,总体上碳氮比分布具有一定的规律，如图6。在0— $3 0 \mathrm { c m }$ 范围,土壤C/N 逐渐增大,在 $3 0 \mathrm { c m }$ 处达到最大值11.02,而后随着土壤深度的增加呈减小趋势。
+
+选取淹水频繁区消落带内典型的优势植物群落，分析不同植被下0— ${ . 5 0 } \mathrm { c m }$ 土层范围内碳氮比的分布情况。从表5可以看出,芦苇和酸模叶蓼群落下土壤C/N大小相近,垂直分布趋势大体上同样是先升高后减小,并且都在12以下。在 $5 0 \mathrm { c m }$ 采样深度自表层向下,芦苇群落C/N由9.58逐渐上升至12.07后又逐渐减小至9.21;酸模叶蓼群落则在 $2 0 \mathrm { c m }$ 时达到最大值11.30,从 20— $3 0 \mathrm { c m }$ 逐渐减小。
+
+![](images/3b1c5a116b111340538b4ee284889a0df3b9b6fd4c9e4c1c1eecb6583179d08c.jpg)  
+图5淹水频繁区土壤有机质、全氮及碳氮比含量
+
+![](images/5a1f5dca27327cc608609928caf24a73e875dd06495efc810fa76840912030ae.jpg)  
+Fig.5Organic matter，Total nitrogen and C/N of Soil in the frequent flooding area   
+图6淹水频繁区土壤碳氮比垂直分布  
+Fig.6Thevertical distribution of soil $\mathbf { C } / \mathbf { N }$ in the frequent flooding area
+
+表5淹水频繁区典型植物群落下土壤碳氮比分布  
+Table 5Thevertical distribution of soil C/N of typical communities in the frequent flooding area   
+
+<html><body><table><tr><td rowspan="2">植物群落 Plant community</td><td rowspan="2">样本数目/个 Sample number</td><td colspan="5"></td></tr><tr><td>0-10</td><td>10-20</td><td>20-30</td><td>30-40</td><td>40-50</td></tr><tr><td>芦苇群落 Com.Phragmites australis</td><td>35</td><td>9.58</td><td>10.34</td><td>12.07</td><td>11.36</td><td>9.21</td></tr><tr><td>酸模叶蓼群落 Com.Polygonum lapathifolium</td><td>29</td><td>10.27</td><td>11.23</td><td>10.63</td><td>9.69</td><td>8.28</td></tr></table></body></html>
+
+# 3.2.2长期出露区土壤碳氮比分布特征
+
+长期出露区土壤全氮含量低于淹没区,碳氮比平均值为8.13,在1.64—1141间变化,如图7。土壤有机质相较淹水频繁区更容易发生分解,C 的累积速度远小于N。垂直分布规律和淹水频繁区相似,在0—30cm范围,C/N 随土壤深度增加而逐渐增加,增加幅度相对急剧; $3 0 { \mathrm { - } } 5 0 { \mathrm { c m } }$ 内， $\mathrm { C } / \mathrm { N }$ 随土壤深度增加而逐渐减小。并且 $3 0 \mathrm { c m }$ 处达到的最大值为9.1,和淹水频繁区相差1.9。
+
+长期出露区植被类型包括高大的乔、灌木和低矮的草本植物,采样区典型的优势植物群落小叶杨和披碱草土壤碳氮比的分布情况如表6。小叶杨和披碱草群落下土壤C/N差别较大。小叶杨群落下土壤C/N从0—30cm逐渐升高，在 $3 0 { \mathrm { - } } 4 0 \mathrm { c m }$ 呈减小变化，从 $4 0 \mathrm { c m }$ 至 $5 0 \mathrm { { c m } }$ 又呈现增大趋势，变化规律可以总结为低一高一低—高。披碱草群落土壤 $\mathrm { C } / \mathrm { N }$ 变化规律较明显，先增大后减小,在 $3 0 \mathrm { c m }$ 处达到最大值。表层土壤0—$1 0 \mathrm { { c m } }$ 内,披碱草群落C/N比小叶杨群落高出许多,说明披碱草对N的积累大于小叶杨群落。且长期出露区典型植物群落下土壤C/N均小于淹水频繁区,而植物的分布受水分梯度控制,说明土壤C/N的分布可能与湿度具有密切的关系。
+
+![](images/5ec005cdbf6fead5674d937f586a00567018f6e2271a96802457bd1a80600733.jpg)  
+图7长期出露区土壤有机质、全氮及碳氮比含量 Fig.7Organic matter，Total nitrogen and $\mathbf { C } / \mathbf { N }$ of Soil in the long. term exposed area
+
+![](images/3ee68414afcb09ccb490dedeef7a2f668673fe9088dc626fda997533f886d925.jpg)  
+图8长期出露区土壤碳氮比垂直分布  
+Fig.8 The vertical distribution of soil C/N in the long-term exposed area
+
+表6长期出露区典型植物群落下土壤碳氮比分布  
+Table 6The vertical distribution of soil C/Nof typicalcommunities in the long-term exposed area   
+
+<html><body><table><tr><td>植物群落</td><td>样本数目/个</td><td></td><td>土壤深度 Soil depth/cm</td><td></td><td></td></tr><tr><td>Plant community</td><td>Sample number</td><td>0-10</td><td>10-20 20-30</td><td>30-40</td><td>40—50</td></tr><tr><td>小叶杨群落 Com.Populus simonii</td><td>31</td><td>5.75</td><td>10.33</td><td>9.05</td><td>10.59</td></tr><tr><td>披碱草群落 Com.Elymusdahuricus</td><td>11</td><td>8.79</td><td></td><td>7.58</td><td>7.22</td></tr></table></body></html>
+
+# 3.3 消落带土壤有机质分布影响因素分析
+
+土壤有机质总是处于不停的动态变化中,有机质的含量同时受到输人和输出的影响。输出主要是有机质分解释放出能量,被植物吸收利用。其分解过程受到植被覆盖度、土壤温度等生物和非生物条件的影响[37-38]。由于研究区消落带土壤存在着干湿交替的特殊水文条件的影响,土壤中有机质的含量受到更为复杂的影响。结合研究区土壤湿度、电导率、含水量、含盐量、全氮及 $\mathbf { C } : \mathbf { N }$ 等物理化学特性、气候条件和植被因子,分析典型消落带土壤有机质分布的影响因素。
+
+# 3.3.1土壤理化性质对有机质的影响
+
+消落带土壤各物理及化学指标相关分析结果见表7。从表中可以看出,土壤有机质与全磷呈极显著正相关，相关系数为0.615( $P { < } 0 . 0 1 )$ ;与土壤全氮和C/N呈显著正相关( $\prime R = 0 . 5 7 2 , 0 . 5 9 5 ; P < 0 . 0 5 )$ 。这说明研究区土壤全磷、全氮 $\downarrow ^ { \mathrm { { C } / N } }$ 和有机质明显具有相同的变化趋势,并且和有机质存在相互影响。大分子的有机物质对可吸附态磷具有较强的持留能力,同时磷元素的积累又是有机质的重要来源。全氮含量及碳氮比增大,有机质更易于累积。其次,土壤有机质和湿度在0.05水平上呈负相关关系( $R = - 0 . 5 0 8 \AA$ ),表明研究区土壤湿度对有机质含量具有显著的影响,湿度较大时土壤有机质较容易发生分解和转化,致使含量降低。
+
+# 3.3.2 温度对土壤有机质的影响
+
+温度是影响土壤微生物和酶的活性的主要因素，一般25— $3 5 \mathrm { { ^ \circ C } }$ 是微生物活动的最适宜温度范围，随着温度的升高，土壤有机质的分解速率加大。在 $0 ^ { \circ } \mathrm { C }$ 以下或者超过 $3 5 \mathrm { ^ { \circ } C }$ ,微生物的活性会受到抑制，土壤有机质的降解速率变小[10,39]。利用土壤三参仪同步测量采样点的土壤温度,研究区消落带土壤温度在 $1 5 . 2 \mathrm { - } 2 2 . 3 ^ { \circ } \mathrm { C }$ （204间,平均温度为 $1 7 . 8 3 ^ { \circ } \mathrm { C }$ ,符合微生物的活动范围。土壤有机质含量和温度的相关系数为-0.508,显著性水平$\textstyle P < 0 . 0 5$ 。表明温度对研究区土壤有机质的分布具有显著的影响。并且有机质含量与温度的线性关系为 $y =$ $- 0 . 1 8 x + 2 0 . 6 8 , R ^ { 2 }$ 为 $0 . 2 5 7$ 。由于受干湿交替的影响,长期出露区温度比近岸淹水频繁区略高,表明有机质分解速率更大。
+
+Table 7The correlation matrix of soil physicochemical characteristics in water level fluctuation zone   
+
+<html><body><table><tr><td>Syhemical parameters</td><td>相关性</td><td>有机质 matter</td><td>全氨 nitrogen</td><td>全磷 phosphorus</td><td>全盐量 content</td><td>碳氨比</td><td>pH</td><td>含水率 content</td><td>C电dcity</td><td>H湿度</td></tr><tr><td>有机质 Organic matter</td><td>R</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>P</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全氮 Total nitrogen</td><td>R</td><td>0.57 *</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>P</td><td>0.02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全磷 Total phosphorus</td><td>R</td><td>0.62 **</td><td>0.42</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>P</td><td>0.01</td><td>0.09</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全盐量</td><td>R</td><td>0.11</td><td>0.80**</td><td>0.15</td><td>1</td><td></td><td></td><td>ogica.</td><td></td><td></td></tr><tr><td>Total salt content</td><td>P</td><td>0.67</td><td>0.00</td><td>0.56</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>碳氮比</td><td>R</td><td>0.60 *</td><td>-0.29</td><td>0.24</td><td>-0.60 *</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>C/N pH</td><td>P</td><td>0.01</td><td>0.26</td><td>0.36</td><td>0.01</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>R</td><td>-0.01</td><td>-0.17</td><td>0.40 0.11</td><td>-0.09</td><td>0.15</td><td></td><td></td><td></td><td></td></tr><tr><td>含水率</td><td>P R</td><td>0.98 0.32</td><td>0.51 0.00</td><td>0.46</td><td>0.72 -0.16</td><td>0.55 0.31</td><td>0.47</td><td>1</td><td></td><td></td></tr><tr><td>Moisture content</td><td>P</td><td>0.21</td><td>0.99</td><td>0.07</td><td>0.53</td><td>0.23</td><td>0.06</td><td></td><td></td><td></td></tr><tr><td>电导率</td><td>R</td><td>0.25</td><td>0.53 *</td><td>0.00</td><td>0.45</td><td>-0.15</td><td>-0.60 *</td><td>-0.43</td><td>1</td><td></td></tr><tr><td>Conductivity</td><td>P</td><td>0.34</td><td>0.00</td><td>0.99</td><td>0.07</td><td>0.57</td><td>0.01</td><td>0.08</td><td></td><td></td></tr><tr><td>湿度</td><td>R</td><td>-0.51*</td><td>0.15</td><td>0.47</td><td>-0.28</td><td>0.41</td><td>0.17</td><td>0.52 *</td><td>0.05</td><td>1</td></tr><tr><td>Humidity</td><td>P</td><td>0.04</td><td>0.60</td><td>10.06</td><td>. 0.28</td><td>0.10</td><td>0.51</td><td>0.03</td><td>0.84</td><td></td></tr></table></body></html>
+
+$R$ 为相关系数； $P$ 为显著性水平；\*\*表示相关性在0.01水平上极显著; $*$ 表示相关性在0.05水平上显著
+
+表7消落带土壤物理化学性质相关性矩阵  
+表8消落带有机质与土壤基本理化指标的相关系数矩阵  
+
+<html><body><table><tr><td>消落带 Water level fluctuation zone</td><td>相关性 Correlation</td><td>平均温度/℃ Average temperature</td></tr><tr><td>全部采样区 Total sampling area</td><td>-0.51*</td><td>17.83</td></tr><tr><td>淹水频繁区 The frequent flooding area</td><td>-0.44*</td><td>17.31</td></tr><tr><td>长期出露区 The long-term exposed area</td><td>-0.61*</td><td>18.41</td></tr></table></body></html>
+
+\*\*表示相关性在0.01水平上极显著； $*$ 表示相关性在0.05水平上显著
+
+# 3.3.3 植被覆盖度对土壤有机质的影响
+
+利用遥感影像通过线性光谱混合模型分析方法[40],得到研究区植被覆盖度,如图9。根据采样点坐标，提取对应植被覆盖度值,与表层土壤有机质含量进行相关分析。结果表明植被覆盖度和土壤有机质含量呈显著正相关，显著性水平为 $P { = } 0 . 0 3$ （小于0.05）。有机质含量和植被覆盖度的分布趋势如图10,植被覆盖度越高,土壤有机质含量越大。
+
+# 4结论与讨论
+
+通过对官厅水库妫水河消落带土壤养分的分析调查,探讨了水库消落带土壤有机质含量的时空分异特征,并研究其与研究区土壤基本理化特性的密切关系,探索干湿交替对土壤有机质分布的影响,得出以下结论：
+
+![](images/1f647cd9317b45fca1f68b8cae0f33d9bf779df60ac44b2848f488a80da5d9c8.jpg)  
+图9研究区植被覆盖度分布图Fig.9 The distribution of vegetation coverage
+
+![](images/ebd3a7670189e8d2a0946c4f9f3e1c30cc7d42138933ab74f64db68c23cb6b0d.jpg)  
+图10消落带土壤有机质和植被覆盖度的关系 Fig.10The relationship between soil organic matter and the distribution of vegetation coverage
+
+(1)官厅水库消落带土壤有机质含量变化范围在 $1 6 - 2 6 \mathrm { g / k g }$ ，平均值仅为 $1 3 . 1 6 \mathrm { g / k g }$ ,变异系数达$5 0 . 5 9 \%$ 。说明消落带由于受到季节性干湿交替的特殊水文条件的影响,土壤养分的分布具有较高的异质性。淹水频繁区土壤有机质含量高于与此形成对照的长期出露区,并且淹水频繁区有机质含量的变异系数为$4 1 . 3 8 \%$ ,小于长期出露区的 $5 4 . 9 8 \%$ 。说明淹水频繁区土壤对养分的持留能力更强,并且周期性淹水使得研究区近岸具有相似的生境类型,因此不同采样点之间土壤有机质的含量差异较小。芦苇和香蒲群落土壤有机质含量最高,平均值为 $1 7 . 0 8 \mathrm { g / k g }$ ;含量最低的是以小叶杨和披碱草为主的中旱生植物带,平均值为 $9 . 1 2 \mathrm { g / k g }$ ;其次是酸模叶蓼、大刺儿菜为优势物种的湿生植物带,土壤有机质含量平均值为 $1 5 . 4 9 \mathrm { g / k g }$ 。不同土壤层次有机质含量差异较大,总体变化趋势均由表层向下逐渐减少,各层之间体现出显著差异性( $( P { < } 0 . 0 5 )$ 。
+
+(2)研究区土壤碳氮比含量相对较低,变化范围在1.64—18.95,平均值为8.95。有机质的腐殖化程度高,有机态氮易于积累,土壤厌氧分解产生 $\mathrm { C H } _ { 4 } ^ { \circ }$ 和 $\mathrm { C O } _ { 2 }$ 的潜力较大、速率较快。淹水频繁区C/N 波动范围为6.92—18.94,平均值为9.65,略高于长期出露区的8.13。长期出露区土壤有机质相较淹水频繁区更易发生分解,C 的累积速度远小于N。在土壤剖面垂直分布上,土壤C/N 呈先增大后减小趋势,在 $3 0 \mathrm { c m }$ 处达到最大值,而后随着土壤深度的增加逐渐减小。
+
+(3)通过分析水库消落带土壤湿度、电导率、含水量、含盐量、全氮及C/N等物理化学特性以及气候条件、植被因子对消落带土壤有机质含量的影响,发现研究区土壤全磷、全氮、C/N和有机质具有相同的变化趋势，且和有机质存在相互影响的关系。其次,研究区土壤湿度和温度对有机质含量具有显著的影响,湿度较大时土壤有机质较容易发生分解和转化,致使含量降低。再次植被覆盖度也是影响土壤有机质分布的重要因素之一
+
+本研究分析讨论了研究区消落带土壤有机质的分布特征以及可能的影响因素,揭示了不同水文条件、土壤埋深和植物群落影响下,消落带土壤有机质分布规律。消落带作为湿地生态系统中能量物质储存和交换最频繁的区域,有机质和营养元素含量丰富且形态多样,各营养物质的动态变化和循环机制会根据环境变化而改变。因此对于消落带的特殊水文条件下有机质以及其他土壤营养元素的动态变化机制和循环机理研究，可作为进一步研究的方向。
+
+# 参考文献（References）：
+
+[1］程瑞梅，王晓荣，肖文发，郭泉水.消落带研究进展.林业科学，2010,46(4)：111-119.
+
+http://www.ecologica.cn
+
+[3]MinshallGWugenskiAiparanPresandIteractios//aerFabertiG,dsethodsinreaEolorlioAcademic Press， 2007.  
+[4] 张建春，彭补拙.河岸带研究及其退化生态系统的恢复与重建.生态学报，2003，23（1)：56-63.  
+[5] 郭劲松，黄轩民，张彬，方芳,付川.三峡库区消落带土壤有机质和全氮含量分布特征.湖泊科学,2012,24（2):213-219.  
+[6] 陈怀满.环境土壤学(第二版).北京：科学出版社,2010.  
+[7] 艾丽皎，吴志能，张银龙.消落带土壤环境研究进展.北方园艺，2012（17)：199-203.  
+[8] BosticEM，WhiteJR.Soilphosphorusandvegetationinfluenceonwetlandphosphorusreleaseaftersimulateddrought.SoilScience SoAmerica Journal,2007,71(1)：238-244.  
+[9] 吕宪国.湿地科学研究进展及研究方向.中国科学院院刊，2002，17（3）：170-172.  
+[10] 王晓荣，程瑞梅，肖文发，郭泉水，封晓辉.三峡库区消落带初期土壤养分特征.生态学杂志,2010,29（2):281-289.  
+[11] YangY，YinX，nHngZFetegtervelagetraegforlaeprotetioatostelevel.Hdlia,2014,738(1): 111-127.  
+12]Zarlctseisatede.  
+[13] GilbertD，GeroF，eVicenteIedintsicciosdofosatelitinewateroufedites.Science of the Total Environment，2014,466-467: 965-975.  
+14]Mowellossbldeesieiflseatio/):143-154.  
+[15] GregorySV,SwansonFJ,MckeeWA，Cummins KW.AnEcosystem Perspectiveof Riparian ZonesBioscience,1991,41（8）:540-551.  
+[16] Rodrguez-Murll，lmendrosG,KnickrHWetandsoloancattoositioniedieraneandd（sblaseDaimiel,Central Spain）:Insightintodiferentcarbosequestrationpathways.OrganicGeocemistry，2011,42（7）：76-773.  
+[17] ZhangB,GuoJS,FangF，LiZ,uC.Concentrationofutrientsintesiinwater-level-fuctuatingzoneofreeGorgesReservoi.Ecohydrology& Hydrobiology，2012，12（2）：105-114.  
+[18] 孙文彬，杜斌，赵秀兰,何丙辉.三峡库区澎溪河底泥及消落区土壤磷的形态及吸附特性研究.环境科学，2013，34（3)：1107-1113.  
+[19] 李昌晓，钟章成，刘芸.模拟三峡库区消落带土壤水分变化对落羽杉幼苗光合特性的影响.生态学报，2005，25（8)：1953-1959.  
+[20] 徐德星，秦延文，张雷,郑丙辉，海热提.三峡入库河流大宁河回水区沉积物和消落带土壤磷形态及其分布特征研究.环境科学，2009,30(5): 1337-1344.  
+[21] 康义，郭泉水，程瑞梅，洪明，金江群，王祥福.三峡库区消落带土壤物理性质变化.林业科学，2010,46(6)：1-5.  
+[22] 常超，谢宗强，熊高明，储立民.三峡水库蓄水对消落带土壤理化性质的影响.自然资源学报，2011,26（7)：1236-1244.  
+[23] 沈雅飞，王娜，刘泽彬，王晓荣，肖文发，程瑞梅.三峡库区消落带土壤化学性质变化.水土保持学报，2016，30（3)：190-195.  
+[24] 郭泉水，康义，赵玉娟,洪明，孔倩倩，聂必红.三峡库区消落带土壤氮磷钾、pH值和有机质变化.林业科学，2012,48（3)：7-10.  
+[25] 王合玲，张辉国，秦璐,马辉英,吕光辉.新疆艾比湖流域土壤有机质的空间分布特征及其影响因素.生态学报，2012，32（16)：4969-4980.  
+[26] 杜冠华，李素艳，郑景明，王灵艳,郑永魁.洞庭湖湿地土壤有机质空间分布及其相关性研究.现代农业科学，2009，16（2）：21-23,32-32.  
+[27] 张全军，于秀波，钱建鑫，熊挺，鄱阳湖南矶湿地优势植物群落及土壤有机质和营养元素分布特征．生态学报，2012，32（12)：3656-3669.  
+[28] Graf W L.Downst logic and geomorphic efects of large dams on American rivers.Geomorphology，2006,79（3/4）：336-360.  
+[29] 王颖，宫辉力，赵文吉，李小娟，张志峰，赵微.北京野鸭湖湿地资源变化特征.地理学报，2005，60(4）：656-664.  
+[30] 宫兆宁，宫辉力，赵文吉.北京湿地生态演变——以野鸭湖湿地自然保护区为例.北京：中国环境科学出版社，2007.  
+[31] 张万儒，杨光滢，屠星南，张萍.森林土壤分析方法.北京：中国标准出版社,1999.  
+[32] 吕贻忠，李保国，崔燕.不同植被群落下土壤有机质和速效磷的小尺度空间变异.中国农业科学，2006，39（8)：1581-1588.  
+[33] 林川，宫兆宁，赵文吉，樊磊.基于光谱特征变量的湿地典型植物生态类型识别方法——以北京野鸭湖湿地为例.生态学报，2013，,33(4) :1172-1185.  
+[34］宫兆宁，宫辉力，胡东.北京野鸭湖湿地植物.北京：中国环境科学出版社，2012.[35] 唐国勇，苏以荣，肖和艾，黄道友，刘守龙，黄敏，吴金水.湘北红壤丘岗稻田土壤有机碳、养分及微生物生物量空间变异.植物营养与肥料学报，2007,13（1)：15-21.  
+[36] 王维奇，仝川，曾从盛.不同质地湿地土壤碳、氮、磷计量学及厌氧碳分解特征.中国环境科学，2010,30(10)：1369-1374.  
+[37] BrownS,LenartoJKongGHructuredacaerdaicsofn-ipactedieforestiAseefboicalChina.Biotropica，1995，27(3）：276-289.  
+[38] 白军红,邓伟，张玉霞，王国平.洪泛区天然湿地土壤有机质及氮素空间分布特征.环境科学，2002，23(2)：77-81.  
+[39] 黄耀，刘世梁，沈其荣，宗良纲.环境因子对农业土壤有机碳分解的影响.应用生态学报，2002，13(6)：709-714.  
+[40] 崔天翔，宫兆宁,赵文吉，赵雅莉，林川.不同端元模型下湿地植被覆盖度的提取方法——以北京市野鸭湖湿地自然保护区为例.生态学报，2013,33(4)：1160-1171.

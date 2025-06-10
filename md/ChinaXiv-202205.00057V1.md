@@ -1,0 +1,545 @@
+# 基于NOMA异构云无线接入网的联合子信道和功率分配算法
+
+顾兆伟，江凌云
+
+(南京邮电大学 通信与信息工程学院，南京 210003)
+
+摘要：针对基于NOMA异构云无线接入网中增加网络效用需要以更高的能源消耗为代价，从而导致能源效率低的问题，提出了一种联合子信道和功率分配方案。首先，该方案定义网络效用和电网能源成本之间的差值为系统收益，考虑了最大传输功率、能量收集(EnergyHarvesting，EH)电池容量、用户最小数据速率需求和跨层干扰阈值等约束，以最大化系统收益为目标建立优化问题。然后，采用贪心算法给用户配对并分配子信道，实现低复杂度次优解；最后，利用基于交替方向乘子法的拉格朗日最大化方法优化了功率分配。仿真结果表明，与NOMA系统中未配备EH单元的方案相比，系统收益提高了约 $1 8 . 8 \%$ ；与OFDMA系统中配备EH单元的方案相比，系统收益提高了约 $1 1 . 8 \%$ 。
+
+关键词：异构云无线接入网；NOMA；混合能源；子信道分配；功率分配中图分类号：TN929.5 doi:10.19734/j.issn.1001-3695.2022.02.0050
+
+Joint sub-channel and power allocation algorithm for downlink NOMA Heterogeneous cloud ran
+
+Gu Zhaowei, Jiang Lingyun (Colege of Telecommunications & Information Engineering,Nanjing UniversityofPosts & Telecommunications,Nanjing 210003,China)
+
+Abstract: In heterogeneous cloudradioaccssnetwork basedonNOMA,theincreaseof network utilitycomes at thecostof energyconsumption,whichleads tolowenergy eficiency.To solvethis problem,thispaperproposedajointsub-channeland power allocationsolution.Thealgorithmfirstdefinedthediference between networkutilityand grid energycostasthe system revenue,and then established an optimization problem with the goal of maximizing system revenue where constraints of maximumtransmit power,baterycapacityofenergyharvesting (EH),user'sminimumdataraterequirementsandcros-ayer interference thresholdswereconsidered.Next,itusedthe greedyalgorithm topairusersandasignsub-channels,which obtainedalow-complexitysub-optimalsolution.Finally,itusedtheLagrangian maximization methodbasedon thealterating direction methodofmultipliers tooptimize the powerallocation.The simulationresults showthat,compared with thescheme in NOMA system without considering EH units,the system revenue has increased by about $1 8 . 8 \%$ ； compared with that in OFDMA system equipped with EH units, the system revenue has increased by about $1 1 . 8 \%$ ：
+
+Key words: Heterogeneous cloud ran; NOMA; hybrid energy; sub-channel allocation; power allocation
+
+# 0 引言
+
+由于智能设备的普及和新兴的社交网络服务，移动终端的数量和移动数据流量急剧增长[I。为了满足更高的数据速率和大规模无线连接的需求，利用由宏小区和微小区、微微小区、毫微小区等组成的异构网络成为关键技术。其中，异构云无线 接入网络(Heterogeneous Cloud Radio AccessNetwork,HCRAN)由于其可扩展性、灵活性和兼容性受到了广泛研究和关注。HCRAN 由高功率节点(HighPower NodeHPN)、低功率节点(LowPowerNode,LPN)(即无线远端射频单元，RemoteRadio Head,RRH)和基带处理单元(Base Band-processingUnit，BBU)形成的池组成。HCRAN实现了控制平面和数据平面的分离，HPN仅负责无缝覆盖和发送控制信令，RRH负责数据传输服务，避免了频繁切换和控制信令的开销[2]。非正交多址接入(Non-orthogonal multiple access,NOMA)已经成为一种很有前途的技术，可以满足5G在解决频谱稀缺问题方面的要求[3]。NOMA的主要原理是允许多个用户在相同的时间、频率、符号上非正交的使用频谱，多用户信号的叠加编码在允许用户间干扰的发射端进行，而连续干扰消除(Successive Interference Cancellation,SIC)在接收端进行，以准确分离多用户信号。然而，由于多用户信号的组合，接收器的检测过程非常复杂。其中最流行的是功率域NOMA，功率根据用户的信道条件分配给用户，强信道增益的用户被分配以较低的功率[4]。可以预见，HCRAN和NOMA的结合可以利用两者的优势并提高频谱效率和能源效率。然而，二者的结合面临着同层和跨层干扰以及有效资源分配的挑战。因此，有效的资源分配和干扰管理是NOMA-HCRAN系统中需要考虑的基本方面。
+
+此外，RRH的大规模部署伴随着巨大的能源消耗和温室气体的排放，为此，EH技术被引入HCRAN，即为每个LPN配备EH单元并收集可再生能源作为电网能源供给的补给，从而实现绿色通信的目标[5]。然而，与传统稳定可靠的电网供电不同，可再生能源具有时空分布不均、随机和间歇性到达的特点，取决于天气条件和RRH的位置部署[，本文必须考虑混合能源供应的RRH何时以及多长时间可以调度可再生能源。因此，有效管理可再生能源的电池存储和联合调度电网能源和可再生能源具有实际意义。最后，由于移动用户的分布不均匀，业务负荷可能与每个小基站的能量收集状态和频谱资源不相符，这就需要根据各个小小区RRH的状态进行能量调度。为了应对这些挑战，大多数先前的工作都集中在通过在小区间卸载数据流量达到电网节能(如文献[7])或网络效用最大化的能源调度上，如文献[8]。值得注意，网络效用随着消耗更多的电网能源而增加，需要以一定的电价购买。为了保证混合能源供应带来的绿色通信，需要仔细评估网络效用和电网能源成本之间的平衡。因此，本文针对上述问题展开研究。
+
+# 1 相关工作
+
+有效的资源分配对于获得功率域NOMA系统的高性能至关重要。目前的研究大都基于小蜂窝异构网络(HeterogeneousNetworks,HetNets)，但考虑到HCRAN中传输速率计算方法和功率消耗模型等与HetNets并无较大区别因此相关研究成果是可以进行借鉴和比较的。首先，为了解决多小区场景中的资源分配问题，相关文献对总数据速率和能源效率最大化进行了研究。文献[9]通过采用分布式功率分配算法来实现Stackelberg均衡，使用Stackelberg博弈方法研究了功率分配问题。文献[10]考虑了多小区多用户NOMA系统下的基站功率和用户传输速率约束，然后基于KKT条件实现有效的功率分配。然而，上述研究没有解决NOMA下有效的子信道分配及用户配对问题。为了最大化整体系统吞吐量，文献[11提出了用户调度和迭代分布式功率控制算法，以获得小区内资源的次优分配方案，所提的算法实现了较高的频谱效率，但系统复杂度较高。文献[12]提出了初始化算法和SOEMA 算法以将用户配对到最优子信道以最大化小蜂窝用户的吞吐量，所提算法复杂度较低，但没有分配给用户最佳功率。但在这些研究中，并没有考虑系统提高最大化数据速率时花费的更多的电网能源成本，没有考虑系统的能源效率和绿色通信。
+
+另一方面，文献[13\~16]研究了NOMA-HetNets下行链路的能量效率最大化和用户调度优化。文献[13]研究了具有给定基站功率约束的公平功率分配，而在文献[14]中研究了小小区的子信道和功率分配问题，但这些研究忽视了用户配对问题。文献[15]在非均匀的NOMA小区内，同时考虑了用户配对和用户接入以获得更高的数据速率和能源效率。文献[16]则考虑了完美的信道状态信息(Channel StateInformation,CSI)和不完美的CSI，采用了匹配理论对子信道中的两个用户进行配对，并使用分式发射功率分配算法来分配每个用户的功率。但这些研究都没有考虑在小基站上利用EH单元减少网络总的能源消耗。文献[17]在考虑同时无线信息和功率传输技术且配备EH单元的情况下，研究了子信道分配和功率优化以最大化小区总能效的问题。然而，这忽略了复用相同子信道的小小区之间的同层干扰。如果不能很好地消除干扰，将增加系统的能耗[18]。文献[19]在考虑跨层/同层干扰约束，EH 约束和不完美的信道状态信息下研究了子信道和功率分配。但是这没有考虑小基站的可再生能源电池容量约束，确保基站能够获取所需的最小能量来改善系统能效。
+
+基于以上研究，本文在NOMA-HCRAN中，考虑RRH的EH电池容量约束及跨层/同层干扰的同时，提出了一种联合子信道和功率分配方案，在满足个人移动用户的最低数据速率需求的同时，在网络效用和电网能源成本之间取得平衡，获得系统收益(定义为网络效用和电网能源成本之间的差值)的最大化。
+
+# 2 系统模型
+
+本节描述了提出的基于NOMA的两层异构云无线接入网络(NOMA-HCRAN)的系统模型和参数，以及此网络使用的功率消耗模型。
+
+# 2.1系统模型
+
+本文考虑了一个下行NOMA-HCRAN网络，如图1所示。由一个高功率节点，即宏基站(Macro Base Station,MBS)和位于其覆盖范围的低功率节点(RRH)的集合组成。假设所有基站和用户都配备了单个天线，即单输入单输出系统。此外，由于MBS主要负责无缝覆盖和控制信令的传发，需要稳定的电网能源供电。因此，仅为每个RRH配备收集可再生能源的设备，可同时由电网能源和可再生能源(如太阳能、风能、热电、机电等)供能。每个RRH首先将收集到的能量存储在其电池中，然后在随后的时隙中消耗它。
+
+![](images/5475e71482dcb3964580f5298250a8b38119dc42b4712ee6a5f9cc066583a92e.jpg)  
+图1下行链路NOMA-HCRAN系统模型  
+Fig.1System model for downlink NOMA-HCRAN
+
+假设在每个时隙 $t$ 内，存储在电池中的 $E _ { f , t }$ 焦耳能量可补偿RRHf用于冷却系统和数据传输的功率消耗。由于本文考虑了每个时隙的最优资源管理，为了符号简洁，下文中省略了下标索引 $\scriptstyle t _ { \circ }$ 为了简便，将宏基站表示为 $B S _ { m }$ ，RRH表示为$B S _ { f }$ ，其中 $m { = } 1$ ， $f \triangleq \{ 1 , 2 , . . . , F \}$ ， $\mathcal { U } _ { r } \triangleq \{ 1 , 2 . . . , \mathscr { R } \}$ 和 $\mathcal { U } _ { w } \triangleq \{ 1 , 2 , . . . , \mathcal { W } \}$ (为了简单下文用集合 $W$ 表示)分别表示宏基站用户(mCUEs)和RRH用户(fCUEs)。采用NOMA技术用 $s$ 个子信道服务此异构网络中的用户。系统总的带宽表示为 $B _ { \scriptscriptstyle { w } }$ ，每个子信道的带宽通过用 $s$ 个子信道均分 $B _ { \scriptscriptstyle { w } }$ 得到，即 $B _ { s c h } = B _ { \scriptscriptstyle w } / S$ 。 $P _ { m a x } ^ { m }$ 和 $P _ { m a x } ^ { f }$ 分别表示基站 $B S _ { m }$ 和 $B S _ { f }$ 的最大目标发送功率。并采用了取决于距离和路径损耗的瑞利衰落模型。然后用$U E _ { w , s } ^ { f }$ ， $U E _ { w , s } ^ { q }$ ， $U E _ { r , s } ^ { m }$ 分别表示占用子信道 $s$ 由 $B S _ { f }$ 服务的第 $w$ 个fCUE用户，占用子信道 $s$ 由 $B S _ { q }$ 服务的第 $w$ 个用户 $( f \neq q )$ 和占用子信道 $s$ 由 $B S _ { m }$ 服务的第 $\boldsymbol { r }$ 个mCUE用户。假设 $B S _ { f }$ 的所有用户的信道系数如(1)排列。
+
+$$
+h _ { 1 , s } ^ { f } \leq h _ { 2 , s } ^ { f } \leq \cdots \leq h _ { w , s } ^ { f } \cdots \leq h _ { w , s } ^ { f }
+$$
+
+其中， $h _ { w , s } ^ { f }$ 表示 $U E _ { w , s } ^ { f }$ 的信道衰落系数，定义为 $h _ { w , s } ^ { f } = g _ { w , s } ^ { f } \chi _ { w , s } ^ { f }$ 。符号 $g _ { w , s } ^ { f }$ 是表示瑞利衰落的参数， $\chi _ { w , s } ^ { f }$ 是第 $w$ 个fCUE 与其接入的基站 $B S _ { f }$ 之间的阴影和路径损耗。
+
+根据NOMA原理，基站使用叠加编码发送功率水平不同的多用户信号。在接收端，每个用户接收到其服务基站的期望信号和从其他基站发出的干扰信号。此处提出的模型考虑到来自同类型基站的干扰信号，即同层干扰，同时还有来自不同类型基站的干扰，即跨层干扰。由于可以使用此模型得到fCUEs和mCUEs 的实际表现，因此， $U E _ { w , s } ^ { f }$ 处的接收信号可以数学表示为(2)。
+
+$$
+\begin{array} { r l } { \mathbb { Y } _ { w , s } ^ { f } = \underbrace { h _ { w , s } ^ { f } \sqrt { p _ { w , s } ^ { f } } N _ { w , s } ^ { f } } _ { \| \nabla u \cap \mathbb { R } ^ { d } \setminus \mathbb { R } ^ { d } } + } & { \underbrace { \begin{array} { l } { \underline { { \mathbf { V } } } } \\ { \underline { { \mathbf { V } } } = \mathbf { k } } \end{array} \displaystyle h _ { w , s } ^ { f } \sqrt { p _ { i , s } ^ { f } } x _ { i , s } ^ { f } } _ { \ge \eta \le t \le h _ { w } ^ { ( d _ { k } ) } \displaystyle \| \nabla u \cap \mathbb { R } ^ { d } \setminus \mathbb { R } ^ { d } } + } \\ { \underbrace { \begin{array} { l } { \underline { { F } } } \\ { \underbrace { q = 1 , q \rho } f } \end{array} } _ { \| \nabla u \| _ { s } ^ { f } \le \gamma \le \gamma } \sqrt { p _ { w , s } ^ { q } } x _ { w , s } ^ { q } + } \\ { \underbrace { \begin{array} { l } { \underline { { R } } } \\ { \displaystyle \sum _ { \lbrace s \rbrace } ^ { n } \alpha _ { s , h _ { r } ^ { ( s ) } } ^ { \rho } \sqrt { p _ { r , s } ^ { m } } x _ { r , s } ^ { m } } + z _ { w , s } ^ { f } } \\ { \underbrace { \qquad p = 1 } _ { \varrho \mathbb { R } ^ { d } \setminus \mathbb { R } ^ { d } } } \end{array} } \end{array}
+$$
+
+式(2)中的期望信号项表示用户 $U E _ { w , s } ^ { f }$ 的期望传输信号，其中 $x _ { w , s } ^ { f }$ 和 $p _ { w , s } ^ { f }$ 分别表示期望的传输符号和分配给 $U E _ { w , s } ^ { f }$ 的功率。NOMA内用户干扰项表示由其他用户引起的干扰；同层干扰项中， $x _ { w , s } ^ { q } , h _ { w , s } ^ { f , q }$ 和 $p _ { w , s } ^ { q }$ 分别表示期望的传输符号，信道衰落系数（ $B S _ { f }$ 和 $U E _ { w , s } ^ { q }$ 之间)和分配给用户 $U E _ { w , s } ^ { q }$ 的功率。在跨层干扰中，项 $x _ { r , s } ^ { m } , h _ { r , s } ^ { f , m }$ 和 $p _ { r , s } ^ { m }$ 分别表示期望的传输符号，信道衰落系数（ $U E _ { r , s } ^ { m }$ 和 $B S _ { f }$ 之间)和分配给用户 $U E _ { r , s } ^ { m }$ 的功率。此外， $h _ { w , s } ^ { m , f }$ 表示$U E _ { w , s } ^ { f }$ 和 $B S _ { m }$ 之间的信道衰落系数。噪声项 $z _ { w , s } ^ { f } \sim \mathcal { C N } \big ( 0 , ( \sigma _ { w , s } ^ { f } ) ^ { 2 } \big )$ 表示位于用户处的均值为零，方差为 $\left( \sigma _ { w , s } ^ { f } \right) ^ { 2 }$ 的加性高斯白噪声。参数 $\mathcal { \alpha } _ { w , s } ^ { f } \in \{ 0 , 1 \}$ 和 $\alpha _ { r , s } ^ { m } \in \{ 0 , 1 \}$ 是分别表示式(3)和(4)中 fCUEs 和mCUEs子信道分配指示的二进制变量。
+
+NOMA技术允许超过一个用户使用同一子信道，并且在接收机处使用SIC技术进行正确的解调过程。SIC可以通过根据用户被分配功率大小进行管理，从而消除干扰[12]。基于此考虑， $U E _ { w , s } ^ { f }$ 可以有效解码所有的第 $w { - } 1$ 个fCUE 的信号，并将所有 $_ { w + 1 }$ fCUEs的信号看做噪声。假设所有的 $B S _ { s }$ 具有完整的信道状态信息的完美认知，然后用户 $U E _ { w , s } ^ { f }$ 接收到的信干噪比(Signal to Interference plusNoise Ratio,SINR)可以表示为式(5)，式(5)可以简化为式(6)。
+
+$$
+\gamma _ { w , s } ^ { f } = \underbrace  \frac { p _ { w , s } ^ { f } | \boldsymbol { h } _ { w , s } ^ { f } | ^ { 2 } } { | \underbrace { \boldsymbol { h } _ { w , s } ^ { f } | ^ { 2 } \sum _ { i = w + 1 } ^ { W } p _ { i , s } ^ { f } } + \underbrace { \alpha _ { w , s } ^ { q } | \boldsymbol { h } _ { w , s } ^ { f , q } | ^ { 2 } \sum _ { q = 1 , q \neq f } ^ { F } p _ { w , s } ^ { q } } _ { \mathrm { F o M } A ^ { [ \hbar ] } \mathrm { f i f f s } \mathrm { f i f f s } \mathrm { f i f s } } + \underbrace { \alpha _ { r , s } ^ { m } | \boldsymbol { h } _ { r , s } ^ { f } | ^ { 2 } } _ { \mathrm { f i f f s } \mathrm { f \neq \neq \neq \neq \neq \neq } } | \underbrace { \alpha _ { w , s } ^ { f } | \boldsymbol { h } _ { w , s } ^ { f } | ^ { 2 } } _ { \mathrm { f i f f s } \mathrm { f i f s } } | ^ { 2 } } _ { \mathrm { f i f f s } \mathrm { f i f s } \mathrm { f i f s } } + \underbrace { \alpha _ { r , s } ^ { m } | \boldsymbol { h } _ { r , s } ^ { f , m } | ^ { 2 } \sum _ { r = 1 } ^ { R } p _ { r , s } ^ { m } } _ { \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } } + \underbrace { ( \sigma _ { w , s } ^ { f } ) ^ { 2 } } _ { \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } \mathrm { f i f s } }
+$$
+
+$$
+\gamma _ { w , s } ^ { f } = \frac { p _ { w , s } ^ { f } \vert { h _ { w , s } ^ { f } } \vert ^ { 2 } } { { I _ { w , s } ^ { f } } + { I _ { c o } ^ { f , q } } + { I _ { c r } ^ { f , m } } + \underbrace { ( \sigma _ { w , s } ^ { f } ) ^ { 2 } } _ { \vert \vert \vert \vert \vert \vert \mathrm { \scriptsize ~ \equiv ~ \frac { \vert \Theta \vert } { \vert \vert \cdot \vert \mathrm { \scriptsize ~ \Theta \vert } } \vert } } }
+$$
+
+其中， $I _ { w , s } ^ { f } = \big | h _ { w , s } ^ { f } \big | ^ { 2 } \sum _ { i = w + 1 } ^ { W } p _ { i , s } ^ { f }$ 是NOMA内用户干扰，$I _ { c o } ^ { f , q } = \alpha _ { w , s } ^ { q } \big | h _ { w , s } ^ { f , q } \big | ^ { 2 } \sum _ { q = 1 , q \neq f } ^ { \mathcal { F } } p _ { w , s } ^ { q }$ 是同层干扰， $I _ { c r } ^ { f , m } = \alpha _ { r , s } ^ { m } \left| h _ { r , s } ^ { f , m } \right| ^ { 2 } \sum _ { r = 1 } ^ { \mathcal { R } } p _ { r , s } ^ { m }$ 是跨层干扰。因此， $U E _ { w , s } ^ { f }$ 可获得的数据速率以每秒比特数(bps)为单位可表示为式(7)。
+
+$$
+R _ { w , s } ^ { f } ( \pmb { \alpha } , \pmb { p } ) = \alpha _ { w , s } ^ { f } B _ { s c h } \log _ { 2 } ( 1 + \gamma _ { w , s } ^ { f } ) \mathrm { ( b p s ) }
+$$
+
+其中， $\pmb { a } = \left( \alpha _ { 1 , s } ^ { f } , \alpha _ { 2 , s } ^ { f } , \cdots , \alpha _ { W , s } ^ { f } \right)$ 表示子信道分配参数的集合，$\pmb { p } = \left( p _ { 1 , s } ^ { f } , p _ { 2 , s } ^ { f } , \cdots p _ { w , s } ^ { f } \right)$ 是给每个 $U E _ { w , s } ^ { f }$ 的功率分配值。由此可得，用户可以从RRH获得的总的数据速率为式(8)。
+
+$$
+R _ { s u m } ^ { f } ( \alpha , p ) = \sum _ { f = 1 } ^ { F } \sum _ { w = 1 } ^ { W } \sum _ { s = 1 } ^ { s } \ \alpha _ { w , s } ^ { f } R _ { w , s } ^ { f }
+$$
+
+由于单个移动用户对获得的吞吐量有不同程度的满意度，本文使用效用函数 $U _ { \scriptscriptstyle w } \big ( R _ { \scriptscriptstyle w } \big )$ 来评估移动用户 $w$ 对吞吐量 $\textstyle R _ { \scriptscriptstyle w }$ 的满意度,则整个网络的效用可以表示为 $\Sigma _ { \forall w \in W } U _ { w } \big ( R _ { w } \big )$ 。不失一般性，为了弹性服务，函数可以设置为 $R _ { i }$ 的二次可微、递增的、严格的凹函数。
+
+# 2.2功率消耗模型
+
+本节提出的功率消耗参数模型基于[20]，同时考虑了基站发送端和用户接收端的功率消耗。RRH的功率消耗表示为式(9)
+
+$$
+P _ { T ( w , s ) } ^ { f } ( \alpha , \pmb { p } ) = \underbrace { \frac { 1 } { \xi _ { f } } \sum _ { w = 1 } ^ { w } \sum _ { s = 1 } ^ { s } \alpha _ { w , s } ^ { f } p _ { w , s } ^ { f } } _ { \vec { z } \vec { y } ] \cdot \vec { z } \vec { z } . \vec { z } \vec { y } ] \cdot \vec { z } } + \underbrace { P _ { s t } ^ { f } } _ { \vec { p } \vec { z } \vec { x } . \vec { z } \vec { z } } ,
+$$
+
+其中，式(9)的第一项是动态功率，由基站侧发送信号给用户的传输功率构成，即功率放大器中发出射频信号耗费的功率。参数 $\xi _ { f } \in \{ 0 , 1 \}$ 表示基站 $B S _ { f }$ 处功率放大器的效率。第二项是静态功率，由参数 $P _ { s t } ^ { f }$ 和 $P _ { s t } ^ { w }$ 组成，如式(10)所示。 $P _ { s t } ^ { f }$ 对应于 $B S _ { f }$ 处的运行电路和传输信号系统(如冷却系统、滤波器等)消耗的功率。$P _ { s t } ^ { w }$ 对应于负责在接收端(即fCUE)接收信号所需要的功率。
+
+$$
+P _ { s t } ^ { f } = P _ { s t } ^ { f } + \sum _ { w = 1 } ^ { W } P _ { s t } ^ { w }
+$$
+
+类似的，宏基站的功耗如式(11)所示，所有相关参数与RRH的类似。
+
+$$
+P _ { T ( r , s ) } ^ { m } ( \alpha , \pmb { p } ) = \underbrace { \frac { 1 } { \xi _ { m } } \sum _ { r = 1 } ^ { R } \sum _ { s = 1 } ^ { S } \alpha _ { r , s } ^ { m } p _ { r , s } ^ { m } } _ { \vec { x } \vec { y } ] \cdot \vec { \imath } \vec { z } \vec { s } . \vec { y } ] \cdot \vec { \mp } } + \underbrace { P _ { s t } ^ { m } } _ { \vec { y } \vec { z } \vec { s } \vec { z } \vec { y } ] \cdot \vec { \mp } }
+$$
+
+$$
+P _ { s t } ^ { m } = P _ { s t } ^ { m } + \sum _ { r = 1 } ^ { R } P _ { s t } ^ { r }
+$$
+
+为了在网络效用和系统成本间取得平衡，本文需要考虑电网供电的花费。让 $\pi _ { B }$ 和 $\pi _ { f }$ 分别表示电力公司为MBS和RRH设定的单位能源价格。由于MBS是电网供电，它的能源费用用 $Q _ { B }$ 表示，即
+
+$$
+Q _ { B } = \pi _ { B } T P _ { T ( r , s ) } ^ { m }
+$$
+
+每个 RRH 由电网和可再生能源共同供电，因此本文假设 $T$ 为运行时间，RRH在 $\boldsymbol { \tau _ { f } } T$ 时间内首先使用存储的可再生能源，然后在剩余的 $\big ( 1 - \tau _ { f } \big ) T$ 内使用电网功率，则RRH支付给电力公司的电网能源费用用 $Q _ { f }$ 表示，即
+
+$$
+Q _ { f } = \pi _ { f } T ( 1 - \tau _ { f } ) P _ { T ( w , s ) } ^ { f } \forall f \in { \cal F }
+$$
+
+则电网能源成本可计算为
+
+$$
+C o = Q _ { B } + \sum _ { f = 1 } ^ { F } Q _ { f }
+$$
+
+另一方面，所有RRH都由存储在各自电池中的可再生能源供电，因此，RRH的发射功率取决于电池中存储的可再生能源的数量(即 $E _ { s }$ )，即可得式(16)。
+
+$$
+\tau _ { s } P _ { T ( w , s ) } ^ { f } \leq \frac { E _ { f } } { T } \quad \forall f \in { \cal F }
+$$
+
+# 2.3 能源效率指标
+
+能源效率是评估旨在降低系统能耗的蜂窝系统设计性能的重要参数。根据定义，能效 $\boldsymbol { Q ^ { \scriptscriptstyle E E } }$ 是吞吐量(可实现的数据速率)与总功耗之比[21]。它以比特/焦耳为单位衡量，如式(17)所示。
+
+$$
+Q ^ { E E } = \frac { T h r o u g h p u t ( b p s ) } { T o t a l ~ \mathrm { P o w e r ~ C o n s u m p t i o n } ( \mathrm { J o u l e / s } ) }
+$$
+
+则NOMA-HCRAN中RRH的能源效率可以表示为
+
+$$
+Q _ { s u n } ^ { E E , f } ( \alpha , p ) = \frac { \displaystyle { \sum _ { f = 1 } ^ { F } \sum _ { w = 1 } ^ { W } \sum _ { s = 1 } ^ { S } \alpha _ { w , s } ^ { f } R _ { w , s } ^ { f } } } { \displaystyle { \frac { 1 } { \xi _ { f } } \sum _ { w = 1 } ^ { W } \sum _ { s = 1 } ^ { S } p _ { w , s } ^ { f } + P _ { s t } ^ { f } } }
+$$
+
+# 2.4问题建立
+
+本文希望根据每个用户的数据速率需求来平衡网络效用和电网能源成本，数学上本文将权衡问题建立为以下形式：
+
+$$
+\operatorname* { m a x } _ { \alpha , p , \tau } \quad \sum _ { \forall w \in W } U _ { w } ( R _ { w , s } ^ { f } ) - \alpha C o
+$$
+
+$$
+s . t . \sum _ { s \in S } \alpha _ { w , s } ^ { f } R _ { w , s } ^ { f } \geq R _ { w } ^ { r e q } , \quad \forall w \in W
+$$
+
+$$
+\tau _ { s } P _ { T ( w , s ) } ^ { f } \leq \frac { E _ { f } } { T } \quad \forall f \in { \cal F }
+$$
+
+$$
+\sum _ { s = 1 } ^ { S } \alpha _ { w , s } ^ { f } p _ { w , s } ^ { f } \leq P _ { \operatorname* { m a x } } ^ { f } ~ \forall f \in { \cal F } , w \in { \cal W }
+$$
+
+$$
+\sum _ { f \in F } \sum _ { w \in W } \alpha _ { w , s } ^ { f } p _ { w , s } ^ { f } \mid h _ { w , s } ^ { m , f } \mid ^ { 2 } \leq I _ { t h } ^ { s } , \forall s
+$$
+
+$$
+p _ { w , s } ^ { f } \ge 0 , \quad \forall f , w , s
+$$
+
+$$
+\sum _ { w \in W } \alpha _ { w , s } ^ { f } \leq 1 , \quad \forall f , s
+$$
+
+$$
+\alpha _ { w , s } ^ { f } \in \{ 0 , \ 1 \} , \ \forall f , w , s
+$$
+
+$$
+0 \le \tau _ { f } \le 1 , \ \forall f \in F
+$$
+
+其中， $\sum _ { \mathbb { V } _ { w \in W } } U _ { w } \big ( R _ { w , s } ^ { f } \big )$ 是网络效用函数，可以有不同的函数形式，这里选择比例公平效用 $U _ { w } = l o g \left( R _ { w , s } ^ { f } \right)$ 以获得用户间公平的功率分配，非负系数 $\alpha$ 代表电网能源消耗影响资源分配的权重。这里 $a , p , \tau$ 分别表示 $\alpha _ { w , s } ^ { f } \setminus p _ { w , s } ^ { f } \setminus \tau _ { f }$ 的向量。此处，约束式(19-1)
+
+表示满足QoS需求，每个用户必须满足最小数据速率需求。约束式(19-2)表示用于给RRH补充供电的可再生能源受电池容量限制；约束式(19-3)表示RRH $f$ 的最大发射功率限制；式(19-4)确保每个子信道上fCUEs对宏小区造成的最大跨层干扰不超过阈值 $I _ { t h } ^ { s }$ 。式(19-5)确保分配给用户的功率始终为正，式(19-6)和(19-7)则确保每个用户仅能接入一个子信道。值得注意的是，本文可以通过调整 $\alpha$ 的大小来在网络效用和电网能源成本之间取得不同的平衡。
+
+注意由于 $\tau _ { f }$ 和 $p _ { w , s } ^ { f }$ 的乘积，优化问题式(19)乍一看是不等式约束的和非凸的。因此，ADMM、拉格朗日最大化等常见的优化方法不能直接应用于解决这个优化问题。在下面的部分中，通过变换和重新参数化使问题凸化，并提出一个有效的算法来解决它。
+
+# 3 联合子信道和功率分配算法(JCPA)
+
+在所提出的系统模型中，最初，该研究假设用户接入过程中使用先进的算法，例如文献[15]中使用的算法。请注意，本文提出的用户配对和功率分配解决方案与使用的用户接入算法无关，而用户配对和功率分配问题评估，是本文的研究重点。提出的JCPA 基于贪心算法(Greedy Algorithm,GA)对用户进行子信道匹配后应用基于交替方向乘子法(AltermatingDirection MethodofMultipliers,ADMM)的功率分配算法，以获得基于NOMA的混合能源供应异构云无线接入网中最优的系统收益。
+
+用户配对和功率分配形成了一个影响 NOMA 系统性能的联合优化问题。为了降低解决这个联合优化问题的计算复杂度，它被分解为两个子问题。第一部分使用GA解决将两个用户分配到同一子信道的用户配对问题。第二部分使用一种基于ADMM的优化算法解决功率分配问题，以获得每个用户的最优功率分配和最优的系统收益。
+
+# 3.1基于GA和能效的用户配对算法
+
+用户配对过程对NOMA网络性能影响很大。优化用户配对方案是提升NOMA网络性能的必要条件。可以使用穷举搜索方法，通过考虑用户配对的所有可能组合，来实现最佳系统性能。然而，随着用户数量的增加，计算复杂度倍增。因此，本文采用了一种具有较低计算复杂度的GA方法，能够为NOMA-HCRAN实现次优用户配对。
+
+假设每个子信道只分配两个用户，为每个子信道分配相等的功率，为每个子信道中的每个配对用户分配公平的功率[13]。分配给第一个用户 $U E _ { 1 , s } ^ { f }$ 由式(20)可得：
+
+$$
+p _ { 1 , s } ^ { f } = \frac { p _ { s } ^ { f } } { 1 + \delta _ { 1 , s } ^ { f } + \delta _ { 1 , s } ^ { f } \delta _ { 2 , s } ^ { f } + \cdots + \delta _ { 1 , s } ^ { f } \delta _ { 2 , s } ^ { f } \cdots \delta _ { W _ { s } - 1 , s } ^ { f } }
+$$
+
+$W _ { s }$ 是子信道中配对的用户数， $\delta _ { 1 , s } ^ { f }$ 是第一个和第二个用户之间信道系数的比例，如式(21)所示。
+
+$$
+\delta _ { 1 , s } ^ { f } = \frac { G _ { 1 , s } ^ { f } } { G _ { i + 1 , s } ^ { f } }
+$$
+
+$$
+G _ { 1 , s } ^ { f } = \mid h _ { 1 , s } ^ { f } \mid ^ { 2 } / ( I _ { w , s } ^ { f } + I _ { c o } ^ { f , q } + I _ { c r } ^ { f , m } + ( \sigma _ { w , s } ^ { f } ) ^ { 2 } )
+$$
+
+分配给另一个配对用户 $U E _ { w _ { i } , s } ^ { f }$ 的功率如式(23)所示。
+
+$$
+p _ { w _ { i } , s } ^ { f } = \frac { ( \prod _ { l = 1 } ^ { i - 1 } \delta _ { w l , s } ^ { f } ) p _ { s } ^ { f } } { 1 + \delta _ { w _ { 1 } , s } ^ { f } + \delta _ { w _ { 1 } , s } ^ { f } \delta _ { w 2 , s } ^ { f } + \cdots + \delta _ { w _ { 1 } , s } ^ { f } \delta _ { w 2 , s } ^ { f } \cdots \delta _ { w _ { s } - 1 , s } ^ { f } }
+$$
+
+使用GA的主要思想是在问题的每个阶段选择可能达到的最佳最优解的最佳选择。采用GA侧重于分配两个可以最大限度提高能源效率的最佳用户。
+
+算法1描述了将两个用户分配到某个有效子信道的GA算法。对于每个阶段，选择两个用户并将其分配到使他们的能源效率最大化的最佳子信道。在将所有用户分配到其最佳利用的子信道后，此过程终止。算法1的过程分为两个过程：
+
+初始化过程和子信道分配过程。
+
+a)初始化过程。算法1首先初始化用户、子信道、分配变量及被选中用户的集合，每个用户初始为零的数据速率以及每个子信道的功率分配。然后，计算得到每个用户的SINR并将它们降序排列，通过式(20)和(23)为每个用户分配功率，从而更新每个用户的数据速率。
+
+b)子信道分配过程。如果第一个用户与其他用户相比具有更高的SINR并且无法获得所需的数据速率，则将其分配到选定的子信道。第一个用户还应满足同信道干扰低于所分配子信道阈值的条件。选择了第一个用户后，更新被选择用户集和用户子信道分配参数，然后从用户集中移除该用户。
+
+另一方面，如果第二个用户的能效比其他用户低，并且若其能效可以通过添加第一个选择的用户的能效来提高，则选择第二个用户。选择第二个用户后，被选择用户集和用户子信道分配参数都被更新，然后从用户集中移除该用户。
+
+从而实现了最优配对，并且从子信道集合中去除了最优子信道。这个过程一直持续到所有用户都被分配到他们最充分利用的子信道。算法1的流程如下所示。
+
+算法1：基于GA的用户配对算法
+
+1:初始化
+
+a)用户集 $\mathcal { U } _ { w } = \{ 1 , 2 , . . . , W \}$   
+b)子信道集合 $S = \{ 1 , 2 . . . , S \}$   
+c)设置子信道分配参数 $\alpha _ { w , s } ^ { f } = 0 , \forall w , s$ （204号  
+d)已被分配信道的用户集 $\Omega _ { s } = \emptyset , \forall s$   
+e)设置 $R _ { w , s } ^ { f } = 0 , \forall w , s$ （204  
+f)设置 $p _ { s } ^ { f } = p _ { m a x } ^ { f } / S , \forall s \in S$ （204号  
+2:获得 $\gamma _ { w , s } ^ { f } , \forall w , s$ 并且降序排列$\gamma _ { 1 , s } ^ { f } \ge \gamma _ { 2 , s } ^ { f } , \cdots , \ge \gamma _ { W , s } ^ { f }$   
+3:通过式(20)和(23)获得 $p _ { 1 , s } ^ { f }$ 和 $p _ { w _ { i } , s } ^ { f } , \forall w , s$ （204号  
+4:获得 $R _ { w , s } ^ { f } = B _ { s c h } \log _ { 2 } \big ( 1 + \gamma _ { w , s } ^ { f } \big ) , \forall w , s$ （204号  
+5:while $u _ { \scriptscriptstyle w } \neq \emptyset$ do  
+6:for $w = 1$ to $W$ do  
+a) 找到用户 $w _ { i } ^ { * }$ 满足 $R _ { w _ { i } ^ { * } , s } ^ { f } < R _ { w _ { i } ^ { * } , s } ^ { r e q }$   
+b) 对于用户 $\boldsymbol { w } _ { i } ^ { * }$ 找到信道 $s ^ { * }$ 满足 $I _ { c r } ^ { s ^ { * } } \leq I _ { t h } ^ { s ^ { * } }$ 并且 $\gamma _ { w _ { i } ^ { \ast } , s ^ { \ast } } ^ { f } \geq \gamma _ { w _ { i } ^ { \ast } , s } ^ { f }$ AsES  
+c） 更新 $\Omega _ { s } = \Omega _ { s } \cup \{ w _ { i } ^ { * } \}$ 并且从 $\mathcal { U } _ { w }$ 移除 $w _ { i } ^ { * }$ ， $\mathcal { U } _ { w } = \mathcal { U } _ { w } - \{ w _ { i } ^ { * } \}$ ，且  
+令 $\alpha _ { w _ { i } ^ { * } , s } ^ { f } = 1$ ，if $\left( \left| \Omega _ { s } \right| \right) = 2$ then  
+d) 对于每个复用用户，获得 $Q _ { w , s } ^ { E E } = \frac { \alpha _ { w , s } ^ { f } R _ { w , s } ^ { f } } { \displaystyle \frac { 1 } { \xi _ { f } } p _ { w , s } ^ { f } + \tilde { p } _ { s t } ^ { f } }$   
+e) 找到 $\boldsymbol { w } _ { j } ^ { * }$ 满足 $\mathcal { Q } _ { w _ { j } ^ { * } } ^ { E E } < { \mathcal Q } _ { w _ { j } } ^ { E E } , \{ { \mathcal Q } _ { w _ { j } ^ { * } } ^ { E E } + { \mathcal Q } _ { w _ { i } ^ { * } } ^ { E E } \} > \mathcal { Q } _ { w _ { j } ^ { * } } ^ { E E }$   
+$\mathsf { f }$ ） 更新 $S = S - \{ s ^ { * } \} , \Omega _ { s } = \Omega _ { s } \cup \left\{ w _ { i } ^ { * } + w _ { j } ^ { * } \right\}$ ，并从 $\mathcal { U } _ { w }$ 移除 $\boldsymbol { w } _ { j } ^ { * }$ ，即  
+（20 $\mathcal { U } _ { w } = \mathcal { U } _ { w } - \left\{ w _ { j } ^ { * } \right\}$ （204号  
+g） 此时，令 $\alpha _ { w _ { j } ^ { * } , s } ^ { f } = 1$ （204号  
+7: end if  
+8: end for  
+9:Until $\mathcal { U } _ { w } = \emptyset$   
+10:end while
+
+3.1.1时间复杂度
+
+用户配对算法的复杂度分析：假设 $s$ 是子信道的数量，$W$ 表示网络中的可用用户，即 $W { = } 2 S$ 。应用穷举搜索有助于实现更高的系统性能，但需要考虑所有可能的用户接入组合，这将导致 $O ( 2 S ! / 2 ^ { s } )$ 的计算复杂度。基于GA(算法1)的解决方案的计算复杂度主要取决于根据用户SINR进行排序的初始化过程和将用户分配到子信道的分配过程。初始化过程需要$W { \left( W - 1 \right) } / \ 2$ 次操作，分配过程需要 $2 W l n ( W )$ 次操作，因此，GA的总复杂度可表示为
+
+因此，GA(算法1)的计算复杂度为 $\mathcal { O } ( W ^ { 2 } )$ 。
+
+# 3.2优化算法设计
+
+在本节中，本文通过依次优化式(19)中的多个变量来找到最佳能源和功率分配。首先，本文通过重新参数化将问题转换为凸优化问题，然后，提出了一种有效的优化算法基于原对偶参数来解决等效问题。图2给出了本文算法的架构，特别是凸化、算法设计以及关键优化问题之间的联系。
+
+![](images/c7fb83ab67a3b9c1a119e7c30c4804ba1206b8c59b6d76d4db0814d6fc7610be.jpg)  
+图2提出的系统收益最大化方法概述  
+Fig.2Overview of proposed approach to system revenue maximization 3.2.1凸化
+
+为了使问题式(19)易于处理，首先将其转换为凸优化问题。为了避免 $\tau _ { f }$ 和 $p _ { w , s } ^ { f }$ 的乘积，引入可再生能源功率消耗变量$\hat { p } _ { w , s } ^ { f }$ 和电网功率消耗变量 $\breve { p } _ { w , s } ^ { f }$ ，即
+
+$$
+\begin{array} { l } { \displaystyle \hat { p } _ { w , s } ^ { f } = \tau _ { f } ( p _ { w , s } ^ { f } + \frac { P _ { s t } ^ { f } } { U _ { w } ^ { f } } ) , } \\ { \displaystyle \check { p } _ { w , s } ^ { f } = ( 1 - \tau _ { f } ) ( p _ { w , s } ^ { f } + \frac { P _ { s t } ^ { f } } { U _ { w } ^ { f } } ) , \forall w \in { U } _ { w } ^ { f } , \forall f \in { F } } \end{array}
+$$
+
+其中， $U _ { w } ^ { f }$ 是 $\mathcal { U } _ { w } ^ { f }$ 中用户数量。RRH服务的每个移动用户同时消耗可再生能源和电网能源，总的功率消耗可表示为(25)
+
+$$
+p _ { w , s } ^ { f } + \frac { p _ { s t } ^ { f } } { U _ { w } ^ { f } } = \hat { p } _ { w , s } ^ { f } + \breve { p } _ { w , s } ^ { f } , \forall w \in U _ { w } , \forall f \in F
+$$
+
+为了将电池容量约束式(19-2)转换为等式约束，为所有RRH引入非负变量 $\overline { { p } } _ { f }$ ,则式(19-2)可重构为
+
+$$
+\sum _ { \forall w \in U _ { w } ^ { f } } \hat { p } _ { w , s } ^ { f } + \overline { { p } } _ { f } = \frac { E _ { f } } { T } , \forall f \in F
+$$
+
+则问题式(19)可重写为
+
+$$
+\begin{array} { r l } { \underset { \nu } { \operatorname* { m a x } } } & { \displaystyle \sum _ { \forall w \in W } U _ { w } ( R _ { w , s } ^ { f } ) } \\ & { \displaystyle - \alpha \Bigg ( Q _ { B } + \sum _ { \forall f \in F } \pi _ { f } T \Bigg ( \sum _ { \forall w \in W } \breve { p } _ { w , s } ^ { f } \Bigg ) \Bigg ) } \end{array}
+$$
+
+$$
+\hat { p } _ { w , s } ^ { f } \geq 0 , \breve { p } _ { w , s } ^ { f } \geq 0 , \forall w \in U _ { w } , \forall f \in F
+$$
+
+$$
+\overline { { p } } _ { f } \geq 0 , \forall f \in F
+$$
+
+其中， $\pmb { \nu } = \left( p _ { w , s } ^ { f } , \overline { { p } } _ { f } , ( \hat { p } _ { w , s } ^ { f } , \check { p } _ { w , s } ^ { f } ) \right) ^ { T }$ 。优化问题(27)是凸优化问题证明：由于关于 $p _ { w , s } ^ { f }$ 的 $R _ { w , s } ^ { f }$ 是凹的，因此式(27-1)中的最小数据速率约束是凸的。连同其余的线性约束，问题式(27)的可行集是凸的。由于 $R _ { w , s } ^ { f }$ 凹的性质，关于 $R _ { w , s } ^ { f }$ 的单调增函数也是凹的。式(27)中的目标函数是凹函数的求和与线性函数的求和间的差值，因此是凹的。连同其凸的可行集，可以得到式(27)是一个凸优化问题。
+
+# 3.2.2算法设计
+
+由于凸性，本文可以通过原始对偶方法获得问题式(27)的最优解，即通过最大化其拉格朗日函数并最小化其相应的对偶函数来解决问题。用 $\pmb { \eta } = ( \eta _ { 1 } , . . . , \eta _ { w } )$ 表示约束式(19-1)中最小数据速率的乘子向量。本文定义问题式(27)的拉格朗日形
+
+式为
+
+$$
+\begin{array} { r l } & { L ( \boldsymbol { \nu } , \boldsymbol { \eta } ) = \displaystyle \sum _ { \forall \boldsymbol { w } \in W } U _ { \boldsymbol { w } } ( R _ { \boldsymbol { w } , \boldsymbol { s } } ^ { f } ) + \displaystyle \sum _ { \forall \boldsymbol { w } \in W } \eta _ { \boldsymbol { w } } ( R _ { \boldsymbol { w } , \boldsymbol { s } } ^ { f } - R _ { \boldsymbol { w } } ^ { r e q } ) } \\ & { \quad \quad \quad - \alpha \Bigg ( Q _ { B } + \displaystyle \sum _ { \forall f \in F } \pi _ { f } T \Big ( \displaystyle \sum _ { \forall \boldsymbol { w } \in W } \breve { p } _ { \boldsymbol { w } , \boldsymbol { s } } ^ { f } \Big ) \Bigg ) } \end{array}
+$$
+
+通过最大化拉格朗日函数并最小化对偶问题，如下所示。
+
+$$
+\begin{array} { r l } { { } } & { { \displaystyle g ( \eta ) = \operatorname* { m a x } _ { \nu } { L \big ( \nu , \eta \big ) } } } \\ { { } } & { { \quad s . t . ~ ( 1 9 - 3 ) \sim ( 1 9 - 8 ) , ( 2 5 ) \sim ( 2 6 ) , } } \end{array}
+$$
+
+对偶问题：
+
+$$
+\begin{array} { r l } { \underset { \eta } { \operatorname* { m i n } } } & { { } g ( \eta ) } \\ { \mathrm { s . t . } } & { { } \eta _ { w } \geq 0 , \forall w \in W , } \end{array}
+$$
+
+由于变量间的相互耦合，在闭式表达式中很难得到最优解。可以通过原始对偶变量，交替求解式(29)和(30)求解，设$\pmb { \eta } ^ { - }$ 是前一次迭代式(30)的解，在当前迭代中，通过算法3最大化式(29)将最优解更新为 $\nu ^ { + }$ ，同时通过次梯度方法更新式(30)的解为 $\pmb { \eta } ^ { + }$ ，即
+
+$$
+\pmb { \eta } ^ { + } = \operatorname* { m a x } \left\{ 0 , \pmb { \eta } - \beta ( \pmb { R } ( \nu ^ { + } ) - \pmb { R } ^ { r e q } ) \right\} ,
+$$
+
+其中， $\pmb { R } \big ( \pmb { \nu } ^ { + } \big )$ 是参数为 $\nu ^ { + }$ 时 $R _ { w , s } ^ { f }$ 的向量， $R ^ { r e q }$ 是向量 $\left[ R _ { 1 } ^ { r e q } , . . . , R _ { W } ^ { r e q } \right]$ ，$\beta$ 是步长。用于解决式(27)的功率分配算法如算法2。
+
+算法2：联合子信道和功率分配算法(JCPA)
+
+1:通过算法1得到用户配对方案，更新子信道分配矩阵 $\alpha _ { w , s } ^ { f }$ ：
+
+2:初始化：随机选择 $\pmb { \eta } ^ { + } \geq 0$ ：
+
+3:repeat  
+4: 令 $\pmb { \eta } ^ { - } = \pmb { \eta } ^ { + }$ ;  
+5: 通过算法3更新 $\nu ^ { + }$ ：  
+6: 通过式(31)更新 $\pmb { \eta } ^ { + }$ ;  
+7: 直到达到停止准则： $\left\| \pmb { \nu } ^ { + } - \pmb { \nu } ^ { - } \right\| \leq \varepsilon$ ;  
+8: 获得式(27)的最优解，即 $\nu _ { \mathrm { ~ \textit ~ { ~ o ~ } ~ } } ^ { + }$
+
+3.2.3收敛性和最优性分析
+
+当 $n \to \infty$ ，功率分配算法以 $1 / n$ 的速率逼近式(27)的可行解，达到的目标值与最优值的差小于 $\beta L ^ { 2 } { \Big / } _ { 2 }$ ，其中 $n$ 是迭代次数， $\textbf { \em L }$ 在式(33)中定义。证明让 $\hat { \pmb { \nu } } ^ { ( n ) }$ 表示解式(29)第 $n$ 次迭代的解，并定义 $\overline { { \pmb { \nu } } } ^ { ( n ) }$ 为向量 $\hat { \pmb { \nu } } ^ { ( 0 ) } , . . . , \hat { \pmb { \nu } } ^ { ( n - 1 ) }$ 的平均值，即
+
+$$
+{ \overline { { \pmb { \nu } } } } ^ { ( n ) } = { \frac { 1 } { n } } \sum _ { j = 0 } ^ { n - 1 } { \hat { \pmb { \nu } } } ^ { ( i ) }
+$$
+
+为了简便，用 $F ( \nu )$ 表示式(27)中的目标函数，用 $\nu$ 表示 $\nu$ 的可行集。由于 $R ( \nu )$ 是凹的且关于 $\cdot$ 连续，则 $\begin{array} { r } { \operatorname* { m a x } _ { \nu \in \mathcal { V } } \left\| { \pmb R } \left( \pmb { \nu } \right) - { \pmb R } ^ { r e q } \right\| _ { 2 } } \end{array}$ 是有限的，且定义 $\boldsymbol { L }$ 为
+
+$$
+L = \operatorname* { m a x } _ { \nu \mathrm { e V } } \left\| { \pmb R } ( \nu ) - { \pmb R } ^ { r e q } \right\| _ { 2 }
+$$
+
+$$
+F ^ { * } - \frac { \| \pmb { \eta } ^ { ( 0 ) } \| _ { 2 } } { 2 n \beta } - \frac { \beta L ^ { 2 } } { 2 } \le F ( \overline { { \pmb { \nu } } } ^ { ( n ) } ) \le
+$$
+
+$$
+F ^ { * } + \| \pmb { \eta } ^ { * } \| _ { 2 } \left\| \left[ \pmb { R } ^ { r e q } - \pmb { R } \left( \overline { { \pmb { \nu } } } ^ { ( n ) } \right) \right] ^ { + } \right\| _ { 2 }
+$$
+
+$$
+\left\| { { \left[ { R ^ { r e q } } - { R } \left( { \bar { \nu } } ^ { \left( n \right) } \right) \right] } ^ { + } } \right\| _ { 2 } \leq \frac { \left\| { \eta } ^ { \left( n \right) } \right\| _ { 2 } } { n \beta }
+$$
+
+其中， $F ^ { \ast } , \pmb { \eta } ^ { \ast } , \pmb { \eta } ^ { ( 0 ) } , \pmb { \eta } ^ { ( n ) }$ 分别表示式(27)的最优目标值，式(30)的最优对偶解，运行算法2的初始乘子向量和第 $n$ 次迭代的乘子向量。由于式(27)的严格凸性，乘子向量 $\pmb { \eta } ^ { ( n ) }$ 的欧几里德范数是有界的。不等式(35)遵循当 $n  \infty , [ R ^ { r e q } - R ( \bar { \nu } ^ { ( n ) } ) ] _ { ~ 2 } ^ { + }  0$ 以 $1 / n$ 的速率，这表示 $\overline { { \pmb { \nu } } } ^ { ( n ) }$ 以 $1 / n$ 的速率逼近可行解，当 $n  \infty$ 。从式(34)进一步可得，当 $n \to \infty$ ，差值小于 $\beta L ^ { 2 } / 2$ 时， $F \big ( \overline { { \mathfrak { v } } } ^ { ( n ) } \big )$ 达到最优目标值，即 ${ \boldsymbol { F } } ^ { * }$ 。根据式(32)，可得 ${ \hat { \pmb { \nu } } } ^ { ( n ) } = { \big ( } n + 1 { \big ) } { \overline { { \pmb { \nu } } } } ^ { ( n + 1 ) } - n { \overline { { \pmb { \nu } } } } ^ { ( n ) }$ 。连同$n \to \infty , { \overline { { \nu } } } ^ { ( n ) } \to { \overline { { \nu } } } ^ { \infty }$ ，可得 $\hat { \pmb { \nu } } ^ { ( n ) }  \overline { { \pmb { \nu } } } ^ { ( n ) }  \overline { { \pmb { \nu } } } ^ { \infty }$ ，所以 $F \big ( \hat { \pmb { \nu } } ^ { ( n ) } \big )$ 当差值小于$\beta L ^ { 2 } / 2$ 时取得式(27)的最优目标值。
+
+# 3.3基于ADMM的拉格朗日最大化
+
+在本节中，考虑以分布式方式解决式(29)，即所有基站通过与用户的有限信息交换，分布式决定每个用户的最佳功率分配。这是因为对于大型的与大量毫微微小区相关的HetNets网络，分布式控制由于其实现复杂度低和信令开销低具有极大的实用性。因此，基于等式约束凸优化问题式(29)提出了基于ADMM的拉格朗日最大化算法(即算法3)，还证明了所提算法的最优性和时间复杂度。
+
+# 3.3.1算法设计
+
+所提出的算法在每次迭代时工作如下：首先，每个RRH通过最大化与式(29)相关的增广拉格朗日量来分布式地更新功率分配。然后，根据更新后的变量更新关于式(25)(26)的乘子。用 $( \lambda _ { f w } ) _ { \forall w \in W , f \in F } , ( \phi _ { f } ) _ { \forall f \in F }$ 表示约束式(25)(26)的乘子。为了符号简洁，定义 $\pmb { \theta } = \big ( ( \lambda _ { f w } ) _ { \forall w \in W , f \in F } , ( \phi _ { f } ) _ { \forall f \in F } \big ) ^ { T }$ ，并使用矩阵 $A$ 和向量 $\scriptstyle { \mathbf { \alpha } } _ { c }$ 分别表示约束式(25)(26)中变量的系数矩阵和约束右边系数的向量。因此，用 $\tilde { L } _ { \rho } \left( \nu , \theta , \eta \right)$ 表示式(29)的增广拉格朗日量，满足
+
+$$
+\tilde { L } _ { \rho } \left( \nu , \theta , \eta \right) = L ( \nu , \eta ) - \theta ^ { T } \left( A \nu - c \right) - \frac { \rho } { 2 } \| A \nu - c \| _ { 2 } ^ { 2 }
+$$
+
+其中， $\rho { > } 0$ 是惩罚因子。基于ADMM思想，可以迭代的进行增广拉格朗日最大化和乘子更新。在第 $\mathbf { k }$ 次迭代中，每个RRH通过最大化增强拉格朗日函数式(36)来分布式地更新用户的功率分配，即
+
+$$
+\begin{array} { c }   {  \begin{array} { c c } { { p _ { \alpha , \delta } ^ { \prime } ( \alpha ) = \displaystyle \{ { { \bf { a r g } } _ { \alpha , \delta } ^ { \prime } \cos \theta _ { \alpha , \delta } ^ { \prime } [ { \frac { \partial } { \partial } } \sigma ( p _ { \alpha , \delta } ^ { \prime } , v _ { \alpha ; \delta } ^ { ( \alpha - 1 ) } , \theta ^ { \beta - 1 } ) ,  \forall \alpha \leq \nu }  } } } \\    \begin{array} { c c }    \begin{array} { c c }   \begin{array} { c c } { { \begin{array} { c c } { { \begin{array} { c c } { { \begin{array} { c c } { { \begin{ c c } } { { \begin{array} { c c } { { \begin{ c c } } { { \end{array} } } } \end{ c } } \end{array} } } \end{array} } } } \\ { { ( p _ { \alpha { \alpha , \delta } } ^ { \prime } \end{array} } , v _ { \alpha ; \delta } ^ { \prime } ) = \nu } \end{array} } } } \\   \begin{array} { c }   \begin{array} { c c }   \begin{array} { c c }   \begin{array} { c c }   \begin{array} { c c }  { \begin{ c c } }   \begin{array} { c c } { \begin{ c c } }  { \begin{ c c } { \end{array} } } { \begin{ c c } }   \begin{ c c } { \begin{array} { c c } { \begin{ c c } } { { \begin{ c c } } { { \begin{ c c } } { { \begin{ c c } { \begin{array} { c c } { \begin{ c c } } { { \begin{ c c } } { \end{array} } { c } { c \begin{ c } } { \end{array} } } { c \end{array} } } } \end{ c } } } \\ { {  \begin{array} { c { \begin{array} \begin{ c c } {array} { \begin{ c c } { } { \begin{ c c } } { { \begin{array} { c c } { \begin{ c } { \begin{ c c } } { { \begin{ c } { \begin{ c c } } { \end{array} } { c } { \begin{ c } { \begin{ c } { c } \end{array} } { c } } \end{ c } } \end{array} } } \end{array} } } \\ { {  \begin{array} { c { \begin{array} \begin{ c c } { } { \begin{ c c } } { { { \begin{ c c } } { { \begin{ \begin{array} } { c c } { { \begin{ c c } } { { \begin{ c c } } { { \begin{ c } { \begin{ c c } } { { \begin{ c } { \begin{ c c } } { \end{array} } { c } \end{array} } } \end{array} } } \\ { ( p _ { \alpha { \delta } } ^ { \prime } \end{ c } } , v _ { \alpha ; \delta } ^ { \prime } ) = \nu } } \end{array} } } \\ {  \forall i \mathrm { c } \in \mathcal { F } } \end{ c } } } } \end{ } } } \end{array} } } } \end{array} } } } } } \\   \begin{array} { c }   \begin{array}  \end{array} \end{array} \end{array} \end{array} \end{array} \end{array}
+$$
+
+这里， $\pmb { \theta } ^ { ( k - 1 ) }$ 表示第 $\mathbf { k } { - } 1$ 次迭代更新的乘子， $\pmb { \nu } _ { - p _ { w , s } ^ { f } } ^ { ( k - 1 ) }$ 表示 $\pmb { \nu } ^ { ( k - 1 ) }$ 向量除了 $p _ { w , s } ^ { f } ( k - 1 )$ 以外的所有元素。
+
+因为增广拉格朗日函数关于 $\nu$ 中的每个变量都是凹的，可以进一步得到式(37)的最优解。
+
+$$
+p _ { w , s } ^ { f } ( k ) = \left\{ \begin{array} { l l } { 0 , \quad \frac { \vec { q } + \vec { k } } { | \vec { q } | } \nabla _ { f w } | _ { p _ { w , s } ^ { f } = 0 } + \eta _ { w } \le \frac { H _ { f w } N _ { 0 } } { | h _ { w , s } ^ { f } | ^ { 2 } } } \\ { \qquad \quad } \\ { P _ { \operatorname* { m a x } } ^ { f } , \quad \frac { \vec { q } + \vec { k } } { | \vec { \nabla } _ { f w } | } _ { p _ { w , s } ^ { f } = P _ { \operatorname* { m a x } } ^ { f } } + \eta _ { w } } \\ { \qquad \quad } \\ { \qquad \ge \frac { H _ { f w } + \rho P _ { \operatorname* { m a x } } ^ { f } } { O _ { f w } } } \\ { \qquad \quad } \\  \widetilde { p } _ { w , s } ^ { f } , \quad \pm \vert \vec { \nabla } \vec { \mathrm { e } } \end{array} \right.
+$$
+
+其中
+
+$$
+\begin{array} { r l } & { \nabla _ { \rho \rho } = \frac { \hat { \sigma } U _ { s } \left( \sum _ { w ^ { \prime } \in \mathcal { K } _ { s ^ { \prime } } \mid f \in \mathcal { K } _ { s ^ { \prime } } } R _ { w ^ { \prime } , \zeta } ^ { f } ( k ^ { \prime } + 1 ) + R _ { w , s } ^ { f } \right) } { \hat { \sigma } R _ { s ^ { \prime } , \zeta } ^ { R _ { \zeta } ^ { \prime } } } , } \\ & { D _ { \rho \rho } = B _ { s \rho } \log ( 1 + \frac { p _ { \zeta \rho } ^ { T } ( k ^ { \prime } ) \left| { h } _ { s ^ { \prime } } ^ { f } \right| ^ { 2 } } { I _ { \zeta \rho } ^ { \prime } ( k ^ { \prime } ) + 1 / \rho _ { \zeta \rho } ^ { \prime } ( k ^ { \prime } ) + I _ { \zeta \rho } ^ { T } ( k ^ { \prime } ) + \left( \sigma _ { u , s } ^ { \prime } \right) ^ { 2 } } ) } \\ & { \quad - \frac { B _ { s \rho } R _ { f , \zeta } ^ { f } ( k ^ { \prime } ) \left| { h } _ { s ^ { \prime } } ^ { f } \right| ^ { 2 } } { \left( \sigma _ { u , s } ^ { f } \right) ^ { 2 } + p _ { \sigma } ^ { \prime } ( k ^ { \prime } ) \left| { h } _ { s ^ { \prime } } ^ { f } \right| ^ { 2 } } } \\ & { O _ { \rho \kappa } = \frac { B _ { \kappa } \left| { h } _ { s , c } ^ { f } \right| ^ { 2 } } { I _ { \mathrm { m } , s } ^ { f } ( k ^ { \prime } ) + I _ { \zeta \rho } ^ { \prime } ( k ^ { \prime } ) + I _ { \zeta \rho } ^ { \prime } ( k ^ { \prime } ) + P _ { \mathrm { r a c } } ^ { f } \left| { h } _ { s ^ { \prime } } ^ { f } \right| ^ { 2 } } } \\ & { H _ { \rho \kappa } = \mathcal { L } _ { s \rho } ^ { ( k ^ { \prime } - 1 ) } - \rho \left( \hat { p } _ { \mathrm { r } , c } ^ { f } ( k ^ { \prime } ) + \hat { p } _ { \mathrm { r } , c } ^ { f } ( k ^ { \prime } ) - \frac { B _ { \kappa ^ { \prime } } ^ { f } } { I _ { \mathrm { r } , c } ^ { f } } \right) , \mathrm { s f } \rho \left( F , \zeta \right) } \end{array}
+$$
+
+p{是满足等式(+）(²+（)+ 的根，此外可得
+
+$$
+\begin{array} { l } { \hat { p } _ { w , s } ^ { f } ( s ) = \operatorname* { m a x } \Big \{ 0 , \hat { H } _ { f w } \Big \} } \\ { \check { p } _ { w , s } ^ { f } ( s ) = \operatorname* { m a x } \Bigg \{ 0 , { p } _ { w , s } ^ { f } ( s ) - \hat { p } _ { w , s } ^ { f } ( s ) + \displaystyle \frac { \lambda _ { f w } ^ { ( k - 1 ) } - \alpha \pi _ { f } T } { \rho } + \frac { P _ { s t } ^ { f } } { U _ { w } ^ { f } } \Bigg \} } \\ { \overline { { p } } _ { w , s } ^ { f } ( s ) = \operatorname* { m a x } \Bigg \{ 0 , - \displaystyle \frac { \phi _ { f } ^ { ( k - 1 ) } } { \rho } + \left( \frac { E _ { f } } { T } - \sum _ { \forall w \in U _ { w } ^ { f } } \hat { p } _ { w , s } ^ { f } ( s - 1 ) \right) \Bigg \} , \forall f \in F } \end{array}
+$$
+
+其中， $\hat { H } _ { f w } = \frac { \lambda _ { f w } ^ { ( k - 1 ) } } { \rho } - \left( \hat { p } _ { w , s } ^ { f } { } ^ { ( k - 1 ) } + \breve { p } _ { w , s } ^ { f } { } ^ { ( k - 1 ) } - \frac { P _ { s t } ^ { f } } { U _ { w } ^ { f } } \right) \mathrm { ~ c ~ }$ 在更新完变量后，通过 $\pmb { \nu } ^ { ( k ) }$ 和 $\pmb \theta ^ { ( k - 1 ) }$ 更新乘子。用 $r ^ { ( k ) }$ 表示第 $\mathbf { k }$ 次迭代的原空间残差，满足
+
+$$
+\pmb { r } ^ { ( k ) } = \pmb { A } \pmb { \nu } ^ { ( k ) } - \pmb { c }
+$$
+
+第 $\mathbf { k }$ 次迭代更新的乘子为 $\pmb { \theta } ^ { ( k ) }$ ，且
+
+$$
+\pmb { \theta } ^ { ( k ) } = \pmb { \theta } ^ { ( k - 1 ) } + \rho \pmb { r } ^ { ( k ) }
+$$
+
+当交替更新 $\nu ^ { ( k ) }$ 和 $\pmb { \theta } ^ { ( k ) }$ 直到满足停止标准时，基于ADMM的拉格朗日最大化算法终止并获得最优解。此处采用原始残差必须很小的停止标准，即
+
+$$
+\| r ^ { ( k ) } \| _ { 2 } ^ { 2 } { \leq } \varepsilon _ { r }
+$$
+
+其中， $\varepsilon _ { r } > 0$ 是(29)的原始可行性条件的可行容差。
+
+算法3：求解(29)的基于ADMM的拉格朗日最大化算法
+
+1：初始化：随机选择 $\pmb { \theta } ^ { ( 0 ) }$ ，令 $\pmb { \nu } ^ { ( 0 ) } = \pmb { \nu } ^ { - } , \pmb { k } = 1$
+
+2:repeat
+
+3: 所有RRH通过式 $( 3 8 ) \sim ( 4 0 )$ 以分布式方式将 $\pmb { \nu } ^ { ( k - 1 ) }$ 更新为 $\nu ^ { ( k ) }$   
+4: 通过式(42)将 $\pmb { \theta } ^ { ( k - 1 ) }$ 更新为 $\pmb { \theta } ^ { ( k ) }$   
+5: 通过式(41)更新 $r ^ { ( k ) }$   
+6: $k = k + 1$ （204号  
+7: until 达到停止准则，即 $r ^ { ( k - 1 ) } \frac { 2 } { 2 } \leq \varepsilon _ { r }$   
+8：获得最优解 $\pmb { \nu } ^ { ( k - 1 ) }$ （204号
+
+3.3.2时间复杂度
+
+设 $ { \varepsilon } _ { p }$ 表示二分搜索中更新发射功率的终止参数，由式(29)可推出基于ADMM的拉格朗日最大化算法需要 $O ( 1 / \varepsilon _ { r } )$ 次迭代达到收敛，且在每次迭代中更新变量的复杂度为$O \left( W \cdot \log \left( \frac { P _ { m a x } ^ { f } } { \varepsilon _ { p } } \right) \right)$ ，其中 $\mathrm { ~ w ~ }$ 表示用户数量。因此，当应用二分搜索在每次迭代中获得变量的根时，所提出算法的时间复杂度为$O { \left( { W \cdot \log \left( \frac { P _ { m a x } ^ { f } } { \varepsilon _ { p } } \right) } / \varepsilon _ { r } \right) }$ 。
+
+# 4 仿真与分析
+
+针对所提出的JCPA方法，本节利用Matlab仿真工具评估提出的算法的性能、最大网络效用、最优能耗和最大系统收益。此外，由于相关文献没有针对同一优化目标提出算法，这里通过与其他三种算法进行比较来进行数值仿真，即等功率分配方法，文献[22]在NOMA系统中没有采用EH技术的no-EH-JSPA算法和文献[19]中在OFDMA系统中采用EH技术的EH-OFDMA算法。等功率分配是指每个混合供电RRH对每个接入的用户使用最大的发射功率，然后优化分配给每个用户的带宽；no-EH-JSPA 算法在考虑同层/跨层干扰同时利用凸松弛和对偶分解技术优化NOMAHetNet中子信道和功率分配，以最大化整个系统的能源效率；EH-OFDMA算法在小蜂窝异构网络中利用了EH技术，引入时变跨层/同层干扰定价，利用非合作博弈方法解决子信道和功率分配问题。参考文献[23]中的参数设置，设置了如表1中的仿真参数。所有的用户和RRH均匀分布在 $1 0 0 0 \mathrm { m } \times 1 0 0 0 \mathrm { m }$ 的区域内，MBS位于坐标 $( 5 0 0 \mathrm { m } , 5 0 0 \mathrm { m } )$ 。除非另有说明，设置每个用户最小数据速率需求为2Mbps，混合供电RRH存储可再生能源的电池容量为10焦耳，权衡系数 $\scriptstyle a$ 初始值为0.5。
+
+首先，如图3，验证了所提出的基于ADMM的拉格朗日最大化算法在不同惩罚因子设置下的复杂度和收敛性。由图可知， $r ^ { ( k ) }$ 随着迭代次数的增加趋向于零，说明基于ADMM的拉格朗日最大化算法实现了原始残差收敛。此外，由于 $r ^ { ( k ) }$ 趋向于零，可以通过式(42)得到序列 $\big \{ \pmb { \theta } ^ { ( k ) } \big \}$ 次线性收敛。从图还可以看出曲线可以拟合为近似 $1 / r ^ { ( k ) 2 }$ 的曲线，表示基于ADMM的拉格朗日最大化算法达到停止准则要经过 $O \big ( 1 / \varepsilon _ { r } \big )$
+
+次迭代。此外，算法的时间复杂度还取决于惩罚因子 $\rho$ 的设置，即复杂度随着 $\rho$ 的减小而增大。
+
+表1仿真参数设置  
+Tab.1Setting of simulation parameters   
+
+<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>路径损耗(MBS)/dB</td><td>128.1+37.6lg(d)</td></tr><tr><td>路径损耗(RRH)/dB</td><td>127+301g(d)</td></tr><tr><td>噪声功率谱密度/dBm·Hz-1</td><td>-174</td></tr><tr><td>系统带宽/MHz</td><td>10</td></tr><tr><td>跨层干扰阈值dBm</td><td>-101.2</td></tr><tr><td>MBS最大发射功率/w</td><td>0.5</td></tr><tr><td>RRH最大发射功率/w</td><td>0.1</td></tr><tr><td>MBS静态功率消耗/w</td><td>0.2</td></tr><tr><td>RRH静态功率消耗/w</td><td>0.1</td></tr><tr><td>单位能源价格/$</td><td>2</td></tr></table></body></html>
+
+![](images/7a6a39afb10f57739414f5692d785158513c64d2a43bab1c391763ac1da1a9eb.jpg)  
+图3基于ADMM拉格朗日最大化算法在不同惩罚因子设置下的时间复杂度Fig.3The time complexity ofthe ADMM-based Lagrangian maximizationalgorithmin the different settings of penalty parameter图4显示了所提出的JCPA算法的最优性和收敛性，步长 $\beta$ 设置为 $1 0 ^ { - 6 }$ 。可以看出，所提算法可以实现快速收敛，将在10次迭代内达到全局最优。
+
+![](images/3f9d4e292d61e5c4cc9653c7c5b90144afe0468f9b18d4a311f77b8566f779a7.jpg)  
+图4提出的JCPA算法的最优性和复杂度
+
+接下来进行不同用户(MobileUser,MU)密度下的算法性能比较，考虑一个MBS和三个混合能源供应RRH的NOMAHCRAN网络，固定四个基站的位置，如图5所示，并放置50\~100个MUs于此范围内，参数 $\boldsymbol { \varepsilon }$ 设置为 $1 0 ^ { - 4 }$ 。
+
+图6表示，当采用比例公平效用函数作为网络效用函数时，提出的JCPA和三种对比算法所获得的网络效用、总的电网能源成本和系统收益均随着MU数量的增加而增加，这说明几种方案均能有效提高NOMAHCRAN网络的小区能效。一方面，等功率分配算法取得了最低的系统收益且与其他几种方案相差甚远是因为采取此方案时，每个混合供电RRH对每个接入的用户提供最大的发射功率，然后优化分配给每个用户的带宽，这导致采用比例公平效用函数时，所获得的网络效用最大，但这以最大的电网功率消耗为代价，当用户数目快速增加时，电网功率消耗急剧上升，导致较低的系统收益。另一方面，在系统中用户数达到100时，与未配备EH单元的no-EH-JSPA相比，提出的JCPA的系统收益提升了约 $1 8 . 8 \%$ ，这是因为具有EH单元的系统能够在传输过程中使用EH单元电池中存储的可再生能源。与配备EH单元的EH-OFDMA相比，提出的JCPA的系统收益提升了约$1 1 . 8 \%$ ，这是因为NOMA系统相较于OFDMA具有更高的频谱效率，又利用了串行干扰消除技术消除干扰，从而得到了更高的网络效用。而EH-OFDMA能够获得比NOMA系统下的no-EH-JSPA更高的系统收益则是由于其配备了EH单元，这能够大幅降低系统电网能源成本，从而提高系统收益。总而言之，提出的JCPA相比其他几种方案能够得到更多的系统收益，同时花费了最少的电网能源成本，即有效提高了系统的能效。
+
+![](images/3b1b81ad8eed25af599a2b36eec1619fbb5321bc94ac651fb8dc36f2598bfff9.jpg)  
+图5NOMAHCRAN网络拓扑
+
+![](images/0b4a283b18850c34e7790368ef9bfa3c1c493ac7e6a50877356222fee0b42dd1.jpg)  
+Fig.4The optimality and time complexity of the proposed JCPA   
+Fig.5The network topologyofNOMA-HCRAN   
+图6不同用户数量下算法的性能
+
+Fig.6The performance of four algorithms at different number of mus图7显示了改变RRH数量时几种算法的性能表现，此时，本文在 $\mathrm { 5 0 0 m } , \mathrm { 5 0 0 m } )$ 处部署MBS，并在 $1 0 0 0 \mathrm { m } \times 1 0 0 0 \mathrm { m }$ 区域内随即部署 $3 { \sim } 1 0$ 个混合能源供应的RRH，其余仿真参数如上文所示。由图可知，除了等功率分配算法，随着RRH数量增加，其他几种算法获得的网络效用和系统收益增加，总的电网能源成本反而减少，这是由于每个RRH 都配备了能量收集单元，可以为RRH提供能源补充。具体来说，对于采取比例公平效用函数时，提出的JCPA相较于no-EH-JSPA和EH-OFDMA，系统收益最小提升了约 $1 3 . 3 \%$ 和 $8 . 0 \%$ 。此外，可以看出，对于等功率分配算法，随着RRH数量增加，电源能源成本急剧增加，这是由于此算法默认每个RRH 提供给其服务用户最大的发射功率，反而导致系统收益的降低，这说明了相较于仅在相同功率优化频率分配，优化功率分配对提升系统收益影响更大，而本文提出的JCPA和其余几种资源分配算法都做到了优化分配了了用于每个MU数据传输的发射功率。
+
+![](images/1528057dc0cb95d86b64c21d29097982dccc253319d4b84084b95ed6d9dcc699.jpg)  
+图7不同RRH数量下算法的性能
+
+图8显示了当改变用户最小数据速率需求从0.4Mbps到2Mbps时几种算法的性能对比。由图可知，一方面，与其他几种算法相比，相同功率分配的频率分配以更多的能源成本为代价获得最大的网络效用，从而导致系统收益最低。另一方面，no-EH-JCPA和EH-OFDMA算法随着最小数据速率需求的提高，可以以更多的能源成本为代价增加网络效用，这也导致了两种方案获得的系统收益随着 $R _ { w } ^ { r e q }$ 增大而减少。相反，随着最小数据速率需求的增加，所提出的JCPA在比例公平效用情况下通过增加电网能源成本达到最小速率需求，但整体网络效用提升不大，系统收益略微下降。但所提出的算法始终优于其他几种算法，相较于no-EH-JSPA，系统收益最少提高了约 $7 . 5 \%$ 。
+
+![](images/ae577249261e46e196045f361cfc7b5337000acc87165747949804b7c0ce73d0.jpg)  
+图8不同用户最小数据速率需求下的算法性能  
+Fig.8Performance of algorithms at different user minimum data rate requirements
+
+图9表明，当使用等功率分配时，改变 $\alpha$ 不会影响网络效用和总的电网能源成本，这是因为在给定功率分配情况下，系统收益仅受限于通过优化频率最大化的网络效用，这与 $\scriptstyle a$ 取值无关。相反，其他几种算法包括所提出的JCPA得到的网络效用、总的电网能源成本和系统收益随着 $\scriptstyle a$ 的增大而减小。这是因为权衡系数 $\scriptstyle a$ 反映了电网能源成本对系统收益的负面影响， $\scriptstyle a$ 的增加意味着本文需要减少电网能源成本以最大化系统收益，同时也会进一步导致网络效用的下降。此外，所提出的算法总是优于其他几种算法，例如，与等功率分配算法相比，所提算法至少可以增加 $1 9 . 9 \%$ ；与EH-OFDMA相比，所提算法最多可以增加 $24 . 9 \%$ 。
+
+图10显示了当每个混合能源供应RRH覆盖范围内随即部署10\~30个Mus时，所提JCPA算法和全频率复用方案的性能比较。从图可知，当采用比例公平效用时，两种算法随着每个小基站中MU数量的增加，获得的网络效用、总的电网能源成本和系统收益均增加。此外，可以发现所提算法的系统收益接近于全频率复用方案的系统收益，说明了所提算法实现了较高的频谱效率，但代价是更多的电网能源成本。
+
+![](images/33431d9afdeefe33fa769c5f385b9962f768fac885220a90c180185c924b5ae0.jpg)  
+图9不同权衡系数 $\alpha$ 设置下算法性能
+
+![](images/5be0e11bca6a76cd74b9ffa2e1f79494692345144a215931c0c7d1a2710fc007.jpg)  
+Fig.7The performance of algorithms at different number of RRH   
+Fig.9Performance of algorithms at different setting oftrade-off coefficient α   
+图10不同用户密度下JCPA和全频率复用的性能 Fig.10The performance of the proposed JCPA and full frequency reuse scheme at different MU densities.
+
+# 5 结束语
+
+本文在考虑EH 技术和节点间干扰的同时，研究了NOMA-HCRAN网络中子信道和功率的联合优化问题，以最大化系统收益。为了得到较低复杂度的次优解，将问题解耦为用户配对和功率分配问题。首先，利用GA算法对每个子信道中两个用户进行配对；接下来，功率分配被建立为最大化网络效用和电网能源成本差值(即系统收益)的优化问题，然后利用基于ADMM的拉格朗日最大化算法得到了功率的最优分配。仿真结果表明，所提算法在10次迭代内达到收敛，证明了算法的有效性。另外，与现有的算法相比，本文所提算法性能优于前者。
+
+# 参考文献：
+
+[1]尹光辉，尼俊红，岳顺民，等.eMBB与URLLC混合业务场景下的 用户调度和资源分配[J].电力信息与通信技术，2019,17(12):1-8. (Yin Guanghui,Ni Junhong,Yue Shunmin,et al.User Scheduling and Resource Allocation in a Mixed Business Scenarios of eMBB and URLLC [J]. Electric Power Information and Communication Technology,   
+2019,17 (12): 1-8.) [2]顾兆伟，江凌云．混合能源供应异构云无线接入网的功率分配和能 源协作算法[J].南京邮电大学学报：自然科学版，2021,41(5):45-   
+52.(Gu Zhaowei,Jiang Lingyun. Joint power allocation and energy cooperation algorithm for hybrid energy supply in 5G H-CRAN[J]. Journal of Nanjing University ofPosts and Telecommunications: Natural Science,2021,41 (5): 45-52.)   
+[3]Islam SMR,Zeng M,Dobre OA,et al.Resource allocation for downlink NOMA systems:key techniques and open issues [J].IEEE Wireless Communication,2018,25 (2): 40-47.   
+[4]Islam S MR,Avazov N,Dobre OA,et al.Power-domain non-orthogonal multiple access(NOMA) in 5G systems: potentials and challenges [J]. IEEE Communications Surveys & Tutorials,2017,19 (2):721-742.   
+[5]Hung HJ,Ho TY,Lee S Y,et al.Relay selection for heterogeneous cellular networks with renewable green energy sources [J]. IEEE Trans on Mobile Computing,2108,17(3): 661-674.   
+[6] 代贤忠，韩新阳，董益华，等．能源互联网多源多层次协调优化方法 研究[J]．电力工程技术,2019,38(02):1-9.(Dai Xianzhong,Han Xinyang,Dong Yihua,et al.Multi-source and multi-level coordination optimization method of energy internet [J]. Electric Power Engineering Technology,2019,38 (02): 1-9.)   
+[7]Chanola V,Sikdar B,Krishnamachari B.Delay aware resource management for grid energy savings in green cellular base stations with hybrid power supplies [J].IEEE Trans on Communications,2017,65 (3): 1092-1104.   
+[8]Wei Yifei,Richard YF,Song Mei,et al.User scheduling and resource allocation in HetNetswith hybrid energy supply:an actor-critic reinforcement learning approach [J].IEEE Transon Wireless Communications,2018,17(1):680-692.   
+[9]Song Zhengyu, Ni Qiang and Sun Xin. Distributed power allocation for nonorthogonal multiple access heterogeneous networks [J].IEEE Communications Letters,2018,22 (3): 622-625.   
+[10] Khan W U,Yu Z,Yu S,et al.Eficient power allocation in downlink multi-cell multi-user NOMA networks [J].IET Communication,2019, 13 (4): 396-402.   
+[11] Ni Dadong,Hao Li,Qian Xiaomin，et al.Power allocation for downlinkNOMA heterogeneous networks [J]. IEEE Access,2018,6: 26742-26752.   
+[12] Zhao Jingjing,Liu Yuanwei, Chai KK,et al. Resource allocation for nonorthogonal multiple access in heterogeneous networks [C]// 2017 IEEE International Conference on Communications (ICC). Piscataway, NJ: IEEE Press,2017: 1-6.   
+[13] Xiang Lanhua, Chen Hongbin.Energy-efficient and fair power allocation approach for NOMA in ultra-dense heterogeneous networks [C]//2017 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC).Piscataway,NJ: IEEE Press,2018:89- 94.   
+[14] Fang Fang,Cheng Julian,Ding Zhiguo,et al. Energy efficient resource optimization for a downlink NOMA heterogeneous small-cell network [C]//2018 IEEE 10th Sensor Array and Multichannel Signal Processing Workshop (SAM).Piscataway, NJ: IEEE Press,2018: 51-55.   
+[15] Han Tao,Gong Jie,Liu Xiong，et al.On downlink NOMA in heterogeneous networks with non-uniform small cell deployment [J]. IEEE Access,2018,6: 31099-31109.   
+[16] Zhang Haijun,Fang Fang,Cheng Julian,et al. Energy-efficient resource allocation in NOMA heterogeneous networks [J].IEEE Wireless Communications,2018,25 (2): 48-53.   
+[17] Zhang Haijun,Feng Mengting,Long K,et al. Energy-efficient resource allocation in NOMA heterogeneous networks with energy harvesting [C]/ 2018 IEEE Global Communications Conference (GLOBECOM) . Piscataway,NJ: IEEE Press,2019.   
+[18] Lohani S,Hossain E,Bhargava V,et al. On downlink resource allocation for SWIPT in smallcells in a two-tier HetNet[J].IEEE Trans on Wireless Communications,2016,15 (11): 7709-7724.   
+[19] Zhang Haijun,Du Jiali,Cheng Julian,et al. Incomplete CSI based resource optimization in SWIPT enabled heterogeneous networks:a noncooperative game theoretic approach [J].IEEE Trans on Wireless Communications,2018,17(3): 1882-1892.   
+[20] Le NT,Tran LN,Vu QD,et al. Energy-efficient resource allocation for OFDMA heterogeneous networks [J].IEEE Trans on Communications, 2019,67(10): 7043-7057.   
+[21] Bjornson E,Hoydis J,Sanguineti L.Massive MIMO networks: spectral, energy,and hardware efficiency [J].Foundations and Trends in Signal Processing,2017,11 (3-4): 154-655.   
+[22] Fang Fang,Cheng Julian,Ding Zhiguo.Joint energy efficient subchannel and power optimization for a downlink NOMA heterogeneous network [J].IEEE Trans on Vehicular Technology,2019,68 (2):1351-1364.   
+[23] ETSI.ETSI TR 136 931-2018,LTE;Evolved Universal Terrestrial Radio Access (E-UTRA);Radio Frequency(RF) requirements for LTE Pico Node B [S].Paris: ETSI,2018

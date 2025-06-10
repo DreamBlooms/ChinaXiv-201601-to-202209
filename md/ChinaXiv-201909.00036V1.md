@@ -1,0 +1,175 @@
+# 北大西洋涛动对新疆冬季极端冷事件的影响
+
+陈颖¹，李维京²，史红政³，毛炜峰4（1．新疆气候中心,新疆 乌鲁木齐830002；2．国家气候中心,北京100081;3．新疆气象局,新疆 乌鲁木齐830002；4．中国气象局乌鲁木齐沙漠气象研究所,新疆 乌鲁木齐830002）
+
+摘要：利用1961—2016年新疆各站逐日气温、NCEP再分析高度场、风场资料及北大西洋涛动(NAO)指数,分析了新疆1961—2016年冬季出现的极端冷事件频次变化及与其相联系的环流特征。冬季NAO通过欧亚（EU)波列传播影响新疆冬季极端冷事件的变化，但冬季NAO位相与新疆冬季极端冷事件并没有逐年一一对应的负相关关系。在冬季NAO负位相年，由EU波列传播， $7 0 ^ { \circ } \mathrm { N }$ 以北北风偏弱，当乌拉尔山及其以东区域位势高度偏高（低），$5 0 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N }$ 西风偏弱(强)时,新疆冬季极端冷事件偏多(少);在冬季NAO 正位相年,由EU波列传播， $7 0 ^ { \circ } \mathrm { N }$ 以北北风偏强，当乌拉尔山及其以东区域位势高度偏高（低）， $5 0 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N }$ 西风偏弱(强)时，新疆冬季极端冷事件偏多（少）。因此,冬季NAO、乌拉尔山及其以东区域高度场和 $5 0 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N }$ 西风三者共同作用决定了新疆冬季极端冷事件的发生频次，其中乌拉尔山及其以东区域位势高度和 $5 0 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N }$ 西风在冬季NAO对新疆极端冷事件的影响关系中起到了重要的调制作用。
+
+关键词：冬季极端冷事件；北大西洋涛动；纬向环流；新疆
+
+随着全球气候变暖，新疆区域气温上升、降水增加，呈现出明显的“暖湿化”特征，其中气温上升，尤其表现在新疆冬季气温上升最为显著[1]。但近年来,极端低温、极端降雪等事件也屡屡发生(2-4)。当前，大量学者研究了中国或者中国北方的极端气候事件的气候特征，王绍武[5分析了百年来中国冷冬的气候特征,任福民等[和翟盘茂等[7]分析了中国年、季极端气温变化趋势的时空特征和中国北方近50 年温度极端事件变化;严中伟等讨论了近几十年中国极端气候变化格局。刘学华等[9认为,北方地区极端气温指数变化最大，而且对应气候突变的时段,极端气温也有了显著变化。李维京等[°认为，我国冬季气温在1985年之前处于冷期，之后为暖期;我国冬季气温异常与影响因子的关系发生了显著的年代际变化，而且影响因子之间的关系也发生了显著的年代际变化。对于冬季气候的分析和预测,季元中等[11认为1980 年代新疆的气候变暖从地域上讲主要在北疆,从季节上讲主要在冬季,从时间上来讲主要在夜间;毛炜峄等[12利用新疆33 站1961—2011年冬季气温和前期108项月环流特征量指数，考虑各站冬季气温及前期月环流特征量的线性变化趋势影响，建立了统计预测模型。对于新疆冬季极端低温事件,陈少勇等[13]对中国西北地区的极端低温事件做了统计分析，认为西北地区极端低温的低值主要出现在新疆北部和青海高原，利用合成分析给出了西北地区冬季极端低温出现时的环流特征。陈颖等[14]指出，新疆冬季极端冷事件的变化趋势是趋于减少的。关学锋等[15]认为，北疆冬季气温序列与北极涛动（AO)的相关程度较高，AO的变化对于北疆冬季气温和降水有实际的预报价值。
+
+北大西洋涛动(NAO)指亚速尔高压和冰岛低压之间气压的反向变化关系，即当亚速尔地区气压偏高时，冰岛地区气压偏低，反之亦然。NAO是北大西洋地区大气最显著的模态，其气候影响最突出的主要是北美及欧洲。Hurrell等[16-18]认为,除南方涛动外，NAO是气候年际变化的主要源地，它与跨越大西洋进入欧洲的表面风场变化有密切的关系，并且它对北半球气温变化有最大的贡献，NAO与气温以及湿度的“晓晓板”式变化有密切的关系。武炳义等[19]发现冬季NAO 通过影响西伯利亚高压从而对冬季风产生影响。柴晶品等[20]认为，NAO主要与大西洋、欧洲及乌拉尔山地区阻塞的频率和强度的变化存在显著相关关系;杨莲梅等[2分析了新疆夏季降水与沿西亚副热带西风急流罗斯贝(Rossby)波和NAO的关系，认为夏季斯堪的纳维亚半岛－中欧-西亚和中亚的准静止波传播是联系NAO与沿西亚副热带西风急流波活动及新疆夏季降水变化的纽带。
+
+考虑到与NAO相联系的大气环流系统地处新疆上游，冬季NAO变化引起的环流改变可能会对新疆冬季的气候变化产生重要影响。本文将在分析新疆冬季极端冷事件的气候特征的基础上，重点分析不同位相的NAO对新疆冬季极端冷事件的影响。
+
+# 数据与方法
+
+# 1.1 数据来源
+
+选用新疆1961年1月至2017年2月资料完整的89个测站的逐日最低气温，时间序列采用当年的全部测站取算术平均值建立，NAO指数、位势高度场、风场等资料均来自NOAA网站的NCEP再分析资料（http://www.esrl.noaa. gov/psd/data/gridded/data.ncep.reanalysis.pressure.html）。冬季平均值采用当年12月至次年2月的平均值，多年平均值取1981—2010 年平均。
+
+# 1.2 分析方法
+
+当前对于极端气候事件的判定方法和定义很多,本文根据 Kiktev 等[22]给出的方法,采用百分位法来定义极端气候事件，即分别分析新疆89个1961—2016年冬季资料完整的测站的逐日最低气温，将日最低气温的第10分位作为冷事件的阈值；低于阈值则记为1个冷事件日，分别建立各站冷事
+
+件频次序列。
+
+采用旋转经验正交函数分解(REOF)方法分析新疆冬季极端冷（暖)事件的空间一致性来确定研究区域;采用Mann-Kendall方法和滑动 $\mathbf { \chi } _ { t }$ 检验方法确定气候突变点；合成分析的显著性检验为 $T$ 检验，技术方法详见文献[23]
+
+# 2结果与分析
+
+# 2.1新疆冬季极端冷事件的气候特征
+
+1961—2016年，新疆区域冬季极端冷事件日数呈下降趋势,下降速率为每站 $1 . 8 3 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { { a } ) ~ } ^ { - 1 }$ ，通过了0.05显著性水平检验。由图1a可见，1961—2016年共有31a区域平均冬季极端冷事件日数偏多,其中,在1977年前的17a中有 $1 5 \mathrm { ~ a ~ }$ 冬季极端冷事件日数偏多，7年异常偏多；在1978年之后的39a 中,仅有16a冬季极端冷事件日数偏多,3a异常偏多。利用累积距平和滑动t检验方法对1961—2016年冬季新疆极端冷事件进行突变检验分析，确定新疆冬季极端冷事件日数下降这一突变现象是从1977年开始的。
+
+# 2.2新疆冬季极端冷事件与冬季NAO的联系
+
+对1961—2016年新疆各站冬季极端冷事件频次序列进行REOF分析，前3个旋转空间模态的累计方差贡献解释了总方差的 $7 0 . 7 \%$ ,其中第一个旋转空间模解释了总方差的 $3 7 . 7 \%$ （图1b）。虽然前3 个空间模态都反映了全疆一致变化，但第一旋转空间模态为冷事件的变化中心，位于北疆。由于新疆受“三山夹两盆"特殊地形的影响，北半球中高纬度槽脊系统对新疆北部的影响更为直接，而且，注：REOF代指旋转经验正交函数分解。
+
+![](images/2dae6e5c1cf6d80ef1a9ac31861eebd6c21e81d3a0c1923437dedee1d93c2975.jpg)  
+图11961—2016 年冬季新疆极端冷事件时间变化(a)和冬季新疆极端冷事件 REOF 第一空间模态(b)Fig.1Temporal variation（a）and the first spatial mode of REOF（b）of extreme cold events in winter in Xinjiangduring the period of 1961 -2016
+
+注：色斑为通过0.05水平的显著性检验区域。
+
+![](images/2d47e7cfee815b04348bfcab3526e178774528623c8eae109f3dc7ef5cf0ff64.jpg)  
+图21961—2016年新疆冬季极端冷事件分别与冬季 $5 0 0 ~ \mathrm { { h P a } }$ 位势高度(a）、冬季 $3 0 0 \ \mathrm { h P a }$ 经向风(b)的相关场 Fig.2Correlation fields between the extreme cold events in Xinjiang and the $5 0 0 ~ \mathrm { { h P a } }$ geopotential height field（a) and $3 0 0 \ \mathrm { h P a }$ meridional wind field（b）inwinter during the period of 1961-2016
+
+1961一2016年冬季新疆极端冷事件时间变化序列和新疆冬季区域极端冷事件日数REOF第一特征向量的时间系数之间的相关系数为0.71，通过了0.001的显著性水平检验。因此，后期的分析都围绕第一旋转空间模态的这种分布特征展开。
+
+1961—2016年新疆冬季区域极端冷事件日数REOF第一模态的时间系数与 $5 0 0 ~ \mathrm { { h P a } }$ 冬季环流高度场的正相关区位于斯堪的纳维亚半岛、巴伦支海和新地岛附近及其以东以北的区域,最大正相关系数达到0.4以上，通过了0.01水平的显著性检验;一个负相关区在地中海以东至我国东部,最大负相关系数达-0.7以下;另一个负相关区在大西洋上空，最大负相关系数达-0.4以下，均通过了0.01水平的显著性检验（图2a）。
+
+新疆冬季区域极端冷事件日数REOF第一模态的时间系数与 $3 0 0 \ \mathrm { h P a }$ 经向风场的显著负相关区位于 $4 5 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N }$ 北大西洋西部和中亚地区，斯堪的纳维亚半岛和贝加尔湖以东为显著正相关区，均通过了0.05水平的显著性检验。欧亚范围内中高纬度正负相关区域相间排列，呈现一列东西向分布的波列特征(图2b)。那么，北大西洋上空的大气环流是否通过这样的波列传播对新疆冬季极端冷事件产生影响呢？新疆区域冬季极端冷事件平均日数与冬季NAO的相关指数为-0.38，超过了0.01水平的显著性检验。
+
+从冬季NAO负（正)位相年的 $3 0 0 \ \mathrm { h P a }$ 经向风场的合成场(图3）上也能清晰地看到自北大西洋经斯堪的纳维亚半岛通过中亚与西伯利亚的一个纬向传播的波列,这与Liu等[24]提出的3类欧亚遥相关型中 EU 波列一致。Wallace〔25]也指出,欧亚和东亚冬季温度存在负相关关系。因此，北大西洋附近的区域环流配置可能通过这种横亘欧亚大陆的EU波列对新疆的冬季气候产生影响。
+
+![](images/78a6641c2ef6ac439cd404b508479aef59a06d7d7d67aad5ed07c5c19202d00a.jpg)  
+注：NAO指北大西洋涛动。下同。  
+图31961—2016 年不同NA0位相年 $3 0 0 \ \mathrm { h P a }$ 经向风合成场  
+Fig.3Syntheticfieldof $3 0 0 \ \mathrm { h P a }$ meridional wind in diffevent phase of NAO during the period of 1961 -201
+
+# 2.3冬季NAO不同位相下新疆冬季极端冷事件偏多(少)年对应的位势高度场
+
+由图3a和3b可见，在冬季NAO为负位相时，乌拉尔山至西西伯利亚区域( $\mathrm { ^ { \circ } \sim 1 0 0 ^ { \circ } E } \cdot$ 北风偏强，北方冷空气势力相对偏强，新疆冬季极端冷事件频次趋于偏多；冬季NAO为正位相时正好相反。但对1961一2016年以来所有的冬季进行分析发现，二者并非一一对应的关系，将不同NAO位相年对应新疆冬季极端冷事件偏多（少)分为4种情况（表1）。
+
+根据表1将1961—2016年的56个冬季分成4种类型，分别做 $5 0 0 ~ \mathrm { { h P a } }$ 位势高度距平场的合成分析（图4）。冬季NAO负位相时新疆极端冷事件偏少年(图4a)和冬季NAO正位相时新疆极端冷事件偏多年(图4d)的合成高度场均表现为纬向环流分布，即冬季NAO负位相、乌拉尔山至西伯利亚区域为负高度距平时，新疆极端冷事件偏少；冬季NAO正位相、乌拉尔山至西伯利亚区域为正高度距平时，新疆极端冷事件偏多。而对于冬季NAO负位相时新疆极端冷事件偏多年(图4c)和冬季NAO正位相时新疆极端冷事件偏少年(图4b)的合成高度场则表现为经向环流分布，即冬季NAO负位相、乌拉尔山地区为正高度距平时，新疆冬季极端冷事件偏多；冬季NAO正位相、乌拉尔山地区为负高度距平时，新疆冬季极端冷事件偏少。因此，乌拉尔山及其以东区域的高度场对新疆冬季极端冷事件有决定性的
+
+表1NAO不同位相对应新疆冬季极端冷事件发生频次年份划分  
+Tab.1Division of ocurrence frequency of extreme cold events in winter in Xinjiang in diferent phases of NAO   
+
+<html><body><table><tr><td colspan="2">NAO负位相年</td><td>NAO正位相年</td></tr><tr><td></td><td>极端冷事件偏少年1969,1978,1986,1996,2008,2009</td><td>1972,1980,1981,1982,1985,1988,1989,1991,1992,1994,1998, 1999,2000,2003,2006,2013,2014,2015,2016</td></tr><tr><td></td><td>极端冷事件偏多年1961，1962，1963，1964，1965，1967，1968，1970， 1976，1977，1984，1995，1997，2002，2010</td><td>1966,1971,1973,1974,1975,1979,1983，1987,1990，1993, 2001,2004,2005,2007,2011,2012</td></tr></table></body></html>
+
+注：NAO 指北大西洋涛动。下同。
+
+![](images/301401b9709fbe9fff6f8846f89c0213f3f4b745fbc524bc84d794f12197b2d6.jpg)  
+图4不同NAO位相下新疆冬季极端冷事件出现频次不同年份合成的 $5 0 0 ~ \mathrm { { h P a } }$ 位势高度场 Fig.4 $5 0 0 ~ \mathrm { { h P a } }$ geopotential height fields composed by division of occurrence frequency of extreme cold events in winter in Xinjiang in different phases of NAO
+
+![](images/ba4d6ea51515f09240c940ad6458e1f8585bb58fc93036501ab560db96841832.jpg)  
+图51961—2016年新疆冬季极端冷事件与冬季 $3 0 0 \ \mathrm { h P a }$ 纬向风的相关场
+
+影响。
+
+# 2.4不同NAO位相下新疆冬季极端冷事件偏多(少)年的 ${ \bf 3 0 0 ~ h P a }$ 纬向风场
+
+新疆冬季区域极端冷事件日数REOF第一特征向量的时间系数与 $3 0 0 \ \mathrm { h P a }$ 纬向风场的相关场（图5)显示：新疆区域上空和 $8 0 ^ { \circ } \mathrm { N }$ 以北的区域为通过
+
+0.05水平显著性检验的正相关区域，而 $5 5 ^ { \circ } \sim 7 5 ^ { \circ } \mathrm { N }$ 为通过0.05水平显著性检验的负相关区域。正负相关区域相间排列，呈现一列从极地至中纬度的波列特征。
+
+针对NAO不同位相下新疆冬季极端冷事件偏多(少)年分别做 $3 0 0 \ \mathrm { h P a }$ 纬向风场的合成分析，如图6所示。NAO负位相年，新疆冬季冷事件出现的多少与 $4 0 ^ { \circ } \mathrm { E }$ 以东的纬向风分布有关，乌拉尔山及其以东的区域西风偏强（弱），则新疆冬季极端冷事件出现频次偏少（多）（图6a，6c）。而对于NAO正位相年，新疆冬季极端冷事件偏少年乌拉尔山及其以东的大部分区域均为东风(图6b)距平，而偏多年在极区为西风距平,在 $5 0 ^ { \circ } \sim 6 5 ^ { \circ } \mathrm { N }$ 的纬度带出现了东风距平，新疆上空为西风距平,则在极区至 $6 5 ^ { \circ }$ 范围内存在反气旋式切变，而在新疆北部存在气旋式切变(图6d)。因此，乌拉尔山区域位势高度上升，使得乌拉尔山及其以东区域的环流经向度增大，经向上表现为北风距平，乌拉尔山及其以东区域的西风减弱，新疆冬季极端冷事件发生频次增加，反之亦然
+
+# 2.5新疆冬季极端冷事件影响因子间的相互关系
+
+根据前文分析，新疆冬季极端冷事件频次与冬
+
+![](images/aa20a43be3997808e31756335c5fd765987efb7166713ae6ab1dfbaa173796c0.jpg)  
+Fig.5Correlation field between extreme cold events in Xinjiang and $3 0 0 \ \mathrm { h P a }$ zonal wind in winter during the period of 1961 -2016   
+图6不同NAO位相下新疆冬季极端冷事件出现频次不同的 $3 0 0 \ \mathrm { h P a }$ 等向风场 Fig.6 $3 0 0 \ \mathrm { h P a }$ Zonal wind field composed by division of occurrence frequency of extreme cold events in winter in Xinjiang in different phases of NAO
+
+季NAO、乌拉尔山区域的高度场、乌拉尔山及其以东的区域纬向风的强弱有明确的对应相关关系。
+
+根据图4中影响新疆冬季极端冷事件的乌拉尔山地区高度场位置定义 $5 0 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N } , 4 0 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { E }$ 范围内的 $5 0 0 ~ \mathrm { { h P a } }$ 平均高度场为乌拉尔山关键区因子。
+
+根据图5中北半球中高纬负相关最显著的区域,选取 $5 0 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N } , 6 0 ^ { \circ } \sim 1 1 0 ^ { \circ } \mathrm { E }$ 范围内 $3 0 0 \ \mathrm { h P a }$ 纬向风场，定义区域纬向风指数为：
+
+$$
+I = U _ { 5 0 } - U _ { 7 0 } = \frac { 1 } { 2 1 } \sum _ { N = 1 } ^ { 2 1 } U _ { n } ( 5 0 ^ { \circ } ) -
+$$
+
+$$
+{ \frac { 1 } { 2 1 } } \sum { } ^ { 2 1 } { \cal U } _ { n } ( 7 0 ^ { \circ } ) \ = \ { \frac { 1 } { 2 1 } } \sum { } ^ { 2 1 } { \cal \Delta } U _ { n }
+$$
+
+将新疆冬季极端冷事件REOF第一模态对应的时间系数与冬季NAO，区域纬向风指数，乌拉尔山关键区因子分别做相关分析，并且将这3个因子之间也分别做相关分析（表2）。
+
+由表2可知，冬季区域纬向风指数、冬季NAO、冬季乌拉尔关键区因子和新疆冬季极端冷事件RE-OF第一模态对应的时间系数表现出了显著的相关关系，均通过了显著性水平为0.05的信度检验。其中，区域纬向风指数和冬季NAO分别与新疆冬季极端冷事件REOF第一模态对应的时间系数均有显著的负相关关系，而乌拉尔关键区因子和新疆冬季极端冷事件REOF第一模态对应的时间系数呈显著的正相关关系。但是，冬季NAO分别与冬季区域纬向风指数、冬季乌拉尔关键区因子之间并没有显著的相关关系。归纳冬季NAO位相与乌拉尔山区域高度场和风场的配置关系，如表3所示。
+
+表2新疆冬季极端冷事件与各影响因子之间的相关关系 Tab.2Correlation between the extreme cold events in winter and the main factors in Xinjiang   
+
+<html><body><table><tr><td>相关</td><td>REOF第一模态 对应的时间系数</td><td>区域纬 向风</td><td>冬季 NAO</td><td>乌拉尔 关键区</td></tr><tr><td>REOF第一模态 对应的时间系数</td><td>1</td><td>-0.56 *</td><td>-0.38 *</td><td>0.31*</td></tr><tr><td>区域纬向风</td><td>-0.56 *</td><td>1</td><td>0</td><td>-0.02</td></tr><tr><td>冬季NAO</td><td>-0.38 *</td><td>0</td><td>1</td><td>0.05</td></tr><tr><td>乌拉尔关键区</td><td>0.31 *</td><td>-0.02</td><td>0.05</td><td>1</td></tr></table></body></html>
+
+注： $*$ 表示通过显著性水平为0.05的信度检验。
+
+表3冬季NAO位相与乌拉尔山区域环流的配置关系  
+Tab.3 Relationship between the NAO phase in winter and the circulation over the Ural Mountain   
+
+<html><body><table><tr><td colspan="2">冬季NAO负位相年</td><td colspan="2">冬季NAO 正位相年</td></tr><tr><td>乌拉尔山高度场、风场距平</td><td>新疆冬季极端冷事件频次距平</td><td>乌拉尔山高度场、风场距平</td><td>新疆冬季极端冷事件频次距平</td></tr><tr><td>70N以北北风偏弱</td><td>偏少</td><td>70°N 以北北风偏强</td><td>偏多</td></tr><tr><td>乌拉尔山区域位势高度负距平</td><td rowspan="4">偏多</td><td>乌拉尔山区域位势高度正距平</td><td></td></tr><tr><td>50°~70N西风偏强</td><td>50°~70N 西风偏弱</td><td></td></tr><tr><td>70N 以北北风偏弱</td><td>70°N以北北风偏强</td><td>偏少</td></tr><tr><td>乌拉尔山区域位势高度正距平</td><td>位势高度负距平</td><td></td></tr><tr><td>50°~70°N西风偏弱</td><td colspan="3">50°~70°N西风偏强</td></tr></table></body></html>
+
+# 3结论与讨论
+
+（1）新疆冬季极端冷事件平均日数与冬季NAO呈显著负相关关系。北大西洋附近的区域环流配置通过横亘欧亚大陆的EU波列对新疆的冬季气候产生影响。冬季NAO为负位相时，乌拉尔山至西西伯利亚区域北风偏强，新疆冬季极端冷事件频次趋于偏多；冬季NAO为正位相时正好相反。但逐年考察这种相关关系时，二者并非一一对应的关系。
+
+（2）冬季NAO、乌拉尔山及其以东区域高度场和区域纬向风指数三者共同作用，决定了新疆冬季极端冷事件的发生频次，其中乌拉尔山及其以东区域位势高度和纬向风起到了主要的调制作用。在冬季NAO负位相年，由EU波列传播， $7 0 ^ { \circ } \mathrm { N }$ 以北北风偏弱，当乌拉尔山及其以东区域位势高度偏高（低）， $5 0 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N }$ 西风偏弱(强)时，新疆冬季极端冷事件偏多(少);在冬季NAO正位相年，由EU 波列传播， $7 0 ^ { \circ } \mathrm { N }$ 以北北风偏强，在这个背景下，当乌拉尔山及其以东区域位势高度偏高（低）， $5 0 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N }$ 西风偏弱(强)时，新疆冬季极端冷事件偏多（少）。因此，冬季NAO在EU波列向东传播的过程中，对新疆冬季冷事件的发生频次起主要作用的是乌拉尔山及其以东区域位势高度和 $5 0 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N }$ 西风。
+
+新疆冬季极端冷事件产生发展是一个多尺度、多模态的环流综合影响的结果，本文仅对在NAO不同位相下新疆冬季极端冷事件的变化成因进行了粗浅的分析，而对于不同年份的优势影响因子没有进行具体的分析。陈文等[2的研究表明，在季节时间尺度上，平流层极涡的变化存在自上而下的异常传播，这种异常下传现象与对流层向平流层传播的行星波活动密切相连。与平流层极涡自上而下的异常传播事件相对应，东亚地区的短期气候也有显著的变化。行星波活动通过波流相互作用可以影响 AO以及西伯利亚高压和阿留申低压，从而导致冬季风异常。那么，这种由平流层自上而下的极涡变化对新疆冬季极端冷事件存在着怎样的影响，作为身处欧亚大陆内陆的新疆区域，东亚冬季风与其有怎样的联系，北半球最为重要的区域气候模态一—AO又通过怎样的动力过程与极涡共同影响新疆区域的冬季极端气候,这都是在后期研究中需要持续重点关注的问题。
+
+# 参考文献（References）：
+
+[1]《新疆区域气候变化评估报告》编写委员会.新疆区域气候变 化评估报告决策者摘要及执行摘要(2012)[M].北京：气象出 版社,2O13.[Xinjiang Regional Climate Change Assessment Report Compiling Committee. Xinjiang Regional Climate Change Assessment Report for Decision-Makersand Executive Abstracts （2012）[M].Beijing:Meteorological Press,2013.]   
+[2]王遵娅,张强,陈峪,等.2008 年初我国低温雨雪冰冻灾害的气 候特征[J].气候变化研究进展,2008,2（6):63-67.[Wang Zunya,Zhang Qiang,Chen Yu,et al.Characters of meteorological disasters caused by the extreme synoptic process in early 2Oo8 over China[J].Advances in Climate Change Research,2008,2（6）： 63 -67.]   
+[3]陈颖,李元鹏,辛渝，等.2008 年初塔里木盆地低温阴雪过程的 气候特征及影响[J].沙漠与绿洲气象,2008,2(6)：12-15. [Chen Ying,Li Yuanpeng,Xin Yu,et al.Characters and impacts of low temperature and cloudy- snow process over Tarim Basin in early 2008[J].Desert and Oasis Meteorology,2008,2（6）:12- 15.]   
+[4]陈颖,江远安,毛炜峰,等.气候变化背景下新疆北部 2009/ 2010 年冬季雪灾[J].气候变化研究进展,2011,7(2)：104- 109.[Chen Ying,Jiang Yuan'an,Mao Weiyi,et al.2009/2010 winter snow disaster in northern Xinjiang under global warming [J].Advances in Climate Change Research,2011,7(2）:104- 109.]   
+[5]王绍武.中国冷冬的气候特征[J].气候变化研究进展,2011,7 (2）:104-109.[Wang Shaowu.Climatological aspects of severe winters in China[J].Advance in Climate Change Research,2011, 7(2):104-109.]   
+[6]任福民,翟盘茂.1951—1990 年中国极端气温变化分析[J].大 气科学,1998,22（2）:217-227.[Ren Fumin,Zhai Panmao. Study on changes of China’s extreme temperatures during 1951- 1990[J]. Chinese Journal of Atmospheric Sciences,1998,22（2）: 217 -227.]   
+[7]翟盘茂,潘晓华.中国北方近50 年温度和降水极端事件变化 [J].地理学报,2003,58（9）:1-10.[Zhai Panmao,Pan Xiaohua. Change in extreme temperature and precipitation over northern China during the second half of the 2Oth century[J].Acta Geographica Sinica,2003,58(9）:1-10.]   
+[8］严中伟,杨赤.近几十年中国极端气候变化格局[J].气候与环 境研究,2000,5(3）:267-272.[Yan Zhongwei,Yang Chi.Geographic patterns of extreme climate changes in China during 1951-1997[J]. Climatic and Environmental Research,2000,5 (3) :267 -272.]   
+[9]刘学华,季致建,吴洪宝,等.中国近年极端气温和降水的分布 特征及年代际差异〔J].热带气象学报,2006,22（6）：618- 624.［Liu Xuehua,Ji Zhijian,Wu Hongbao,et al.Distributing characteristics and interdecadal difference of daily temperature and precipitation extremes in China For latest 40 years[J]. Journal of Tropical Meteorology,2006,22(6）:618-624.]   
+[10]李维京,李怡,陈丽娟,等.我国冬季气温与影响因子关系的年 代际变化[J].应用气象学报,2013,24(4）:385-396.[Li Weijing,LiYi,ChenLijuan,etal.Inter-decadal variabilityof therelationship between winter temperature in China and its impact factors [J].Journal of Applied Meteorological Science,2013,24（4）: 385 -396. ]   
+[11］季元中,任宜勇.八十年代新疆气候变暖及其影响的评估[J]. 新疆气象,1992,15（1）:13-18.[Ji Yuanzhong,Ren Yiyong. Assessment of climate warming and its impact in Xinjiang in the 1980s[J]. Xinjiang Meteorology,1992,15（1）:318.]   
+[12]毛炜峰,陈鹏翔,白素琴,等.增暖趋势对新疆冬季气温预测效 果的影响[J].干旱区研究,2014,31（5）:882－890.[Mao Weiyi,Chen Pengxiang,Bai Suqin,et al.Influence of warming trend on predicted temperature in winter in Xinjiang[J].Arid Zone Research,2014,31(5) :882-890.]   
+[13］陈少勇,王劲松,任燕,等.近49 年中国西北地区极端低温事 件的演变特征[J].高原气象,2011,30（5）：1 266－1 273. [Chen Shaoyong,Wang Jinsong,Reng Yan,et al. Evaluative characteristic of extreme minimum temperature of Northwest China in recent 49 years[J].Plateau Meteorology,2011,30（5）:1 266 - 1 273.]   
+[14]陈颖,李维京,史红政,等.不同气候背景下新疆冬季极端冷 （暖)事件的变化特征[J].沙漠与绿洲气象,2016,10（4）： 21-29.[Chen Ying,Li Weijing,Shi Hongzheng,et al.Variations of extreme cold（warm）events in winter in Xinjiang at different climate background[J]. Desert and Oasis Meteorology,2016,10 (4) :21 -29.]   
+[15]关学锋,孙卫国,李敏娇,等.1965—2012 年新疆北部地区气候 变化及其对北极涛动的响应[J].干旱区研究,2016,33（4）： 681-689.[Guan Xuefeng,Sun Weiguo,Li Minjiao,et al. Climate change in North Xinjiang and its response to Arctic Oscillation during the period of 1965-2012[J].Arid Zone Research,2016,33 (4) :681-689.]   
+[16]Hurrell JW,Loon H V. Decadal variations in climate association with the North Atlantic Oscillation[J]. Climatic Change,1997,36:
+
+301-326.
+
+[17]Hurrell JW.Decadal trends in the North Atlantic Oscillation:Regional temperatures and precipitation[J].Science,1995,269： 676 -679.   
+[18]Hurrell JW.Influence of variations in extratropical wintertime teleconnections on Northern Hemisphere temperature[J].Geophysical ResearchLetters,1996,23:665-668.   
+[19］武炳义，黄荣辉.冬季北大西洋涛动极端异常变化与东亚冬季 风[J].大气科学,1999,23（6）:641-651.[Wu Bingyi,Huang Ronghui.Effects of the extremes in the north Atlantic Oscillation on east Asia winter monsoon[J].Chinese Journal of Atmospheric Sciences,1999,23(6):641-651.]   
+[20］柴晶品，刁一娜.北大西洋涛动指数变化与北半球冬季阻塞活 动[J].大气科学,2011,35（2）:326-338.[Chai Jingpin,Diao Yina.The effect of the variation of the North Atlantic Oscillation on winter blocking activities in the Northern Hemiphere[J].Chinese Journal of Atmospheric Sciences,2011,35(2):326-338.]   
+[21］杨莲梅,张庆云.北大西洋涛动对新疆夏季降水异常的影响 [J].大气科学,2008,32（5）:1187-1196.[YangLianmei, Zhang Qingyun.Effects of the North Atlantic Oscillation on the summer rainfall anomalies in Xinjiang[J].Chinese Journal of Ate
+
+mospheric Sciences,2008,32(5):1 187-1196.]
+
+[22]Kiktev D,Sexton D M H,Alexander L,et al.Comparison of modeled and observed trends in indices of daily climate extremes[J]. Journal of Climate,2003,16(22）:3 560-3570.   
+[23]魏凤英.现代气候统计诊断与预测技术[M].北京：气象出版 社,1999.[Wei Fengying.Diagnotic and Predictive Technology in Modern Climatologic Statistics[M].Beijing:China Meteorological Press,1999.]   
+[24]Liu Y Y,Wang L,Zhou W,et al. Three Eurasian teleconnection patterns:Spatial structures，temporal variability，and associated winter climate anomalies〔J].Climate Dynamics，2014，42： 2 817-2 839.   
+[25]Wallace JM,Gutzler D S.Teleconnections in the geopotential heightfield during the Northern Hemisphere winter[J].Monthly WeatherReview,1981,109:784-812.   
+[26]陈文，魏科.大气准定常行星波异常传播及其在平流层影响东 亚冬季气候中的作用[J].地球科学进展，2009，24(3）：272- 285.[Chen Wen,Wei Ke.Anomalous propagation of the quasi-stationary planetary waves in the atmosphere and its roles in the impact of the stratosphere on the east Asian winter climate[J].Advances in Earth Science,2009,24(3）:272-285.]
+
+# Effects of NAO on the Extreme Cold Events in Xinjiang in Winter
+
+CHEN Ying1， LI Wei-jing²， SHI Hong-zheng³， MAO Wei-yi4 (1. Xinjiang Climate Center,Urumqi 83002,Xinjiang,China；2. National Climate Center,Beijing 10o081,China; 3. Xinjiang Meteorological Bureau,Urumqi 830002,Xinjiang,China; 4.Instituteof DesertMeteorology,China MeteorologicalAdministration,Urumqi 83oo02,Xinjiang,China)
+
+Abstract：Thefrequency and circulation of extreme cold events in Xinjiang in winter were analyzed based on he dailyair temperaturedata from the meteorological stations in Xinjiang,NCEPreanalysis data of the height field, wind field,temperature fieldand North Atlantic Oscillation（NAO）index during the period of 1961-2016.The variation of extreme cold events in Xinjiang in winter was affected bythe Eurasia（EU）wave train transmission,in winter,however,there was no one-to-one corresponding negative correlation between the NAO phase and the extreme cold events in Xinjiang in winter.In the winter of NAO negative phase,NAO was spread by the EU wave train,and the north wind was weak in north of $7 0 ^ { \circ } \mathrm { N }$ . Under this background,the extreme cold events in Xinjiang in winter were more （less）when the geopotential height over the Ural Mountain and its east region was high（low）and the west wind was weak（strong）in $5 0 ^ { \circ } - 7 0 ^ { \circ } \mathrm { N }$ . In the winter of NAO positive phase,NAO was spread by the EU wave train,and the north wind was strong in north of $7 0 ^ { \circ } \mathrm { N }$ . Under this background,the extreme cold events in Xinjiang in winter were more（less）when the geopotential height over the Ural Mountain and its east region was high（low） and the west wind was weak （strong） in $5 0 ^ { \circ } - 7 0 ^ { \circ } \mathrm { N }$ . The result showed that the occurrence frequency of extreme cold events in Xinjiang was mainly affcted bythe interaction of NAO,the geopotential height field over the Ural Mountain and its east region and the west wind in $5 0 ^ { \circ } - 7 0 ^ { \circ } \mathrm { N }$ ,of which,the west wind in $5 0 ^ { \circ } - 7 0 ^ { \circ } \mathrm { N }$ in winter and the geopotential height field over the Ural Mountain and its east region were the main affecting factors.
+
+Key words:extreme cold event in winter； North Atlantic Oscillation； zonal circulation ； Xinjiang

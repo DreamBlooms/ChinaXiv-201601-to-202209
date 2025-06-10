@@ -1,0 +1,134 @@
+# DOI:10.5846/stxb201604220754
+
+陈博,文乐雷,赵菊鹏,梁宏合,陈建,焦晓国.同种雄性竞争对手的存在对星豹蛛雄蛛求偶和交配行为的影响.生态学报,2017,37（11)： 3932-3938.   
+ChenB,WenLZJ,iangH,enXEftsofospeficialsoalecourtshdmtingemoanousolspier Pardosa astrigera.Acta Ecologica Sinica,2017,37(11):3932-3938.
+
+# 同种雄性竞争对手的存在对星豹蛛雄蛛求偶和交配行为的影响
+
+陈博¹，文乐雷}，赵菊鹏²，梁宏合³，陈 建¹，焦晓国1，\*
+
+1湖北大学生命科学学院,行为生态与进化研究中心,湖北生物资源绿色转化协同创新中心，武汉430062  
+2广东出入境检验检疫局检验检疫技术中心，广州510623  
+3广西壮族自治区亚热带作物研究所，南宁530002
+
+摘要;越来越多的研究发现,雄性产生精子(精液)也需付出代价。雄性除了依据配偶质量和竞争对手的竞争强度适应性调整生殖投入外,雄性在求偶和交配行为上也相应产生适应性反应,求偶和交配行为具有可塑性。目前雄性求偶和交配行为可塑性研究主要集中于雌性多次交配的类群中,在雌性单次交配的类群中研究甚少。以雌蛛一生只交配一次而雄蛛可多次交配的星豹蛛为研究对象,比较：(1)前一雄性拖丝上信息物质对后续雄蛛求偶和交配行为的影响,（2)雌雄不同性比对雄蛛求偶和交配行为的影响。研究结果表明,星豹蛛前一雄蛛拖丝上的信息物质对后续雄蛛求偶潜伏期、求偶持续时间和交配持续时间都没有显著影响,但前一雄蛛拖丝上的信息物质对后续雄蛛求偶强度有显著抑制作用。同时,性比对星豹蛛雄蛛求偶和交配行为都没有显著影响。可见,星豹蛛雄蛛对同种雄性拖丝上的化学信息可产生求偶行为的适应性调整,而对性比不产生适应性反应。
+
+关键词：星豹蛛;单次交配;求偶交配;适应性反应；可塑性行为
+
+# Effects of conspecific rivals on male courtship and mating in the monandrous wolf spider Pardosa astrigera
+
+CHEN Bo’，WEN Lelei'， ZHAO Jupeng²，LIANG Honghe³，CHEN Jian’， JIAO Xiaoguo'   
+1Centeforubet   
+University，Wuhan 430062，China   
+2Guangdong Entry-Exit Inspection and Quarantine Technology Center，Guangzhou 510623，China   
+3Subtropical Crops Research Institute of Guangxi Zhuang Autonomous Region，Nanning 53Ooo2，China
+
+Abstract：Male sperm  semen production is costly across diverse taxa. Consequently，depending on matequalityand the competitive intensityof rivals，malesarepredictedtoadaptively investtheircourtshipand mating eforts tomaximize their reproductive success，while prudently allocating their sperm.Presently,most studies onmale plastic behavioralresponses to rivals have mainly focused on polyandrous females.Recent studies provide evidence that male plastic behavioral responses are plentiful and varied，found in a widerange of taxa，and comprisebehaviorsthat occur pre-or post-copulation.It is predicted that malesaltered aspectsof their matingbehavior when indirectly exposed torivalchemical cues，anddirectly exposed tothesex ratioor the presence，number，or densityof rivals.Generall，malesexhibit adaptively behavioral responses torivalcues to maximize theirreproductive fitnes.Incontrast，wehave limited informationabout male behavioral responses to rival cues in monandrous species.In the present study，weused the monandrouswolf spider，Pardosa astrigera，asamodel systemtotestmaleplasticbehavioral responses torivalchemical cuesanddiffrentoperationalsex ratios.It isgenerallyaccepted that in wandering spiders，males dependon female silk-mediated chemical substances to search and locate matesBesides encountering the silkoffemales of diferentperiods，such as immatureand mature virgin females，and mated females，males may also encounter male silk andamix offemaleand male silk.Given that males gain mating pportunities viapre-copulatorymatechoice,it is predictedthat males may investmorecourtship intensityin the silk of virginfemales thanthose of malesand/oramix offemaleand male silk.When maleP.astrigera individuals were exposed to thefemale silk previouslyoccupied by themselves orother males，wecompared the diffrences in malecourtship latency courtship duration，courtship intensity，and mating duration across mating treatments.Our resultsshowed that male courtshipintensity（foreleg raisesper secondandbody shakes per second）wassignificantly reduced when they were exposed to female silk previouslyoccupied bytheirown silkorbyother males than femalesilk not previouslyoccupied by males；however，there wereno significant diferences inmalecourtship latency，courtship duration，and mating duration. Although，when male $P$ ，astrigera individuals were directly exposed to diffrent operational sex ratios，our results indicated that varied sex ratios showed asmalleffecton male courtship and mating behaviors.The present study concurs with our prediction，which shows that male $P$ . astrigera possessed pre-copulatory adaptive responses to rival chemical cues，but showed limited plastic behavioralresponsestooperational sexratios.Toour knowledge,thisisthefirststudy todetermine male plastic behavioral responses to conspecific rivals in monandrous spiders.
+
+Key Words: Pardosa astrigera； single mating；courtship and mating；adaptive response； plastic behavior
+
+根据 Trivers 的性选择理论,雌性在生殖上投资通常大于雄性；“殷勤”的雄性尝试尽可能与多个雌性交配以提高自己的生殖成功率,而"挑剔”的雌性只能依靠加速产卵和产仔来提高生殖成功率[1]。对雄性动物而言,雌性只是它们相互竞争的稀缺资源,从而驱使雄性个体为争夺稀缺雌性而展开激烈竞争[1]。
+
+对多次交配的动物而言,动物的性选择包括交配前的性选择和交配后的性选择[2-4]。交配后性选择又分为雌性的隐秘选择[5]和雄性的精子竞争[2-4]。雄性产生精子也需付出代价[4]。雄性为获得最大生殖潜力,依据配偶质量和对手的竞争强度策略性地调整当前生殖投入,包括精子(精液)质量和精子数量[2-4]。雄性精子竞争又可以进一步分为精子竞争风险模型和精子竞争强度模型[2-4]。当感知周围存在同种竞争对手或竞争对手遗留化学信息的情况下,雄性通常提高求偶强度和交配持续时间,以增加当前的生殖投人[4.6-13]。雄性一般依据环境中其它雄性遗留的化学信息来评价交配的竞争风险[6-13]。此外,性比也是影响动物性选择强度的一个重要因子[.14-18]。当外界性比偏重雌性时,雄性通常降低当前的生殖投入。相反,当外界性比偏重雄性时,雄性通常增加当前的生殖投入。行为上主要表现为雄性求偶和交配行为的适应性调整[6,14-18]
+
+目前雄性策略性求偶和交配行为及生殖投入研究主要集中于多次交配物种中[2-4.6],在单次交配物种中研究甚少[1920]。对一生只进行单次交配的动物而言,只有交配前性选择起作用。由于其一生只能交配一次，雌性对雄性配偶的选择非常慎重,通常优先选择竞争力强的“心仪”雄性。对雄性而言,其只有准确搜寻和定位未交配雌性时,才可能获得交配的机会。因此,雄性通常借助环境中雌性留下能反映雌性交配状态的化学信息对潜在配偶进行评价。
+
+在蜘蛛中,雄蛛通过触肢上化学感受器感知蛛网和拖丝上化学信息物质,对潜在对象的物种、性别、交配状态和是否成熟进行准确辨别[21-24]。星豹蛛 Pardosa astrigera 是中国广为分布的一种游猎型狼蛛。星豹蛛雌蛛一生只交配一次,而雄蛛可多次交配[25]。当星豹蛛雄蛛面对雌蛛时，雄蛛在雌蛛面前展现复杂的求偶行为。第一对步足上下伸展和整个身体作俯卧撑式运动是星豹蛛雄蛛典型的求偶行为[25]。仅提供成熟未交配雌蛛的拖丝,雌蛛拖丝上化学信息物质同样能激起雄蛛上述典型的求偶行为[24]。先前研究发现,星豹蛛雄性拖丝上的信息物质抑制后续同种雄性的求偶行为,并且雄蛛求偶强度与交配成功率正相关[26]。
+
+本研究以雌蛛一生只交配一次而雄蛛可多次交配的星豹蛛为研究对象,比较(1)前一雄蛛拖丝上信息物质对后续雄蛛求偶和交配行为的影响，（2)雌雄不同性比对星豹蛛雄蛛求偶和交配行为的影响。首次在雌性单配制狼蛛中验证雄性在面对不同竞争风险时,其是否具有适应性调整自身求偶和交配行为的能力。
+
+# 1材料与方法
+
+# 1.1 实验材料
+
+星豹蛛 Pardosa astrigera（L.Koch 1877）于2014 年11月采自湖北省武汉市马鞍山森林公园。当地星豹蛛以亚成蛛越冬,11月正是星豹蛛亚成蛛发生的高峰期。采回后在实验室培养箱内饲养,培养箱温度控制在$2 5 \mathrm { { ^ \circ C } }$ ,14L:10D光照。蜘蛛放入玻璃试管中单头饲养,试管底部用一块蘸水的海绵保湿,每星期饲喂2次,每次提供 20—30头黑腹果蝇成虫。星豹蛛亚成蛛蜕皮后供实验用。实验前 24h禁止喂食。
+
+# 1.2实验装置、内容与方法
+
+# 1.2.1 星豹蛛雄蛛拖丝对后续雄蛛求偶和交配行为的影响
+
+用试管把成熟6d 没有交配的星豹蛛雌蛛轻轻引入铺有洁净滤纸的培养皿（直径 $9 \ \mathrm { { c m } }$ ,培养皿盖内侧正上方放一蘸水的棉球保湿,实验室温度控制 $2 5 \mathrm { { ^ \circ C } }$ ， $1 4 \mathrm { L } : 1 0 \mathrm { D }$ 光照)中,收集雌蛛拖丝 $2 \widehat { \mathbf { h } _ { \circ } } \$ 2h 后把培养皿中雌蛛转移,然后把收集有雌蛛拖丝的培养皿随机分为3组。第1组(NM;只有雌蛛拖丝,没有雄蛛拖丝)：把雌蛛引入培养皿,让其适应 $2 ~ \mathrm { m i n }$ ,然后引入1只成熟没有交配的雄蛛，观察其求偶和交配行为;第2组（OM：既有雌蛛拖丝,也有雄蛛自身的拖丝):把成熟没有交配的一只雄蛛轻轻引入收集有雌蛛拖丝的培养皿中,让其自由活动 $3 0 ~ \mathrm { m i n }$ ,收集雄蛛的拖丝,然后转移雄蛛。接着把单只雌蛛引入培养皿,让其适应 $2 ~ \mathrm { m i n }$ ,最后把先前雄蛛放入培养皿,观察其求偶和交配行为;第3组(AM:既有雌蛛拖丝,也有其它雄蛛的拖丝):把成熟没有交配的1只雄蛛轻轻引入收集有雌蛛拖丝的培养皿中，让其自由活动 $3 0 ~ \mathrm { m i n }$ ,收集雄蛛的拖丝,然后转移雄蛛。接着把雌蛛引入培养皿,让其适应 $2 ~ \mathrm { m i n }$ ,最后把另一不同雄蛛放入培养皿,观察其求偶和交配行为。从引入雄蛛开始记时,直至雌雄蛛成功完成交配,如果没有成功交配,则只持续记录 $3 0 ~ \mathrm { m i n }$ 。分别记录下述指标：（1)雄蛛求偶潜伏时间,即从引入雄蛛开始到雄蛛在培养皿中表现典型求偶行为止;(2)雄蛛求偶持续时间,即 30min 内雄蛛用于求偶总时间;(3)雄蛛第一对步足伸展频率,雄蛛整个求偶期内,雄蛛平均每秒第一对步足伸展次数。（4)雄蛛身体振动频率,雄蛛整个求偶期内,雄蛛平均每秒身体作“俯卧撑”式振动次数。（5)交配持续时间（Mating duration）,即雄蛛将触肢器插入雌蛛外雌器开始,至雌雄蛛分开。如果雄蛛引入后 $3 0 ~ \mathrm { m i n }$ 内不活动,则该数据剔除,不参与统计。每完成一组实验,用酒精擦拭培养皿,干后再用。
+
+# 1.2.2星豹蛛不同性比对雄蛛交配持续时间的影响
+
+实验装置(图1)由透明玻璃组成，A、B和C为边长为 $6 ~ \mathrm { c m }$ 的等边三角形，C为雌雄交配区域，底部垫有洁净滤纸,A和B为放置单头星豹蛛的区域。实验前首先在交配装置C区底部垫上洁净的滤纸,用试管把成熟日龄为6d没有交配的星豹蛛雌蛛轻轻引入C区,收集雌蛛拖丝2h,然后轻轻引入成熟没有交配的雄蛛,同时在A和B区分别引入单只成熟没有交配的雌蛛或雄蛛。交配装置侧面放一蘸水的棉球保湿,实验室温度控制 $2 5 \mathrm { { ^ \circ C } }$ ，光照14L：10D。设置为3个处理。第1个处理为1雌1雄：A和B都空置;第2个处理为3雌1雄：C 区一旦引入雄蛛，立刻在A和B区分别放置一只雌蛛；第3个处理为3雄1雌：C区一旦引入雄蛛，立刻在A和B区分别放置一只雄蛛。依次记录不同处理交配装置C区中雄蛛求偶和交配行为。用酒精擦拭交配装置内壁，待酒精挥发后再次使用。
+
+# 1.3 数据分析
+
+采用单因素方差分析（SPSS16统计软件）统计星
+
+![](images/5203dc7b33338b0a75b2f04e95d85aad544a4f3f5d5c186a8e0aea9eb4407260.jpg)  
+图1不同性比对星豹蛛求偶和交配行为影响实验装置图 Fig.1Construction for determining the effect of sex ratio of the wolf spider Pardosa astrigera on male courtship and mating
+
+豹蛛求偶和交配行为差异,如差异显著,进一步用Tukey 测验比较不同处理之间的差异。数据统一采用 Mean$^ +$ SE 显示。
+
+# 2结果与分析
+
+2.1星豹蛛雄蛛拖丝对后续雄蛛求偶和交配行为的影响
+
+在不同处理中,雄蛛的求偶行为比较结果见图2。不同处理对雄蛛求偶潜伏期（图 $2 : F _ { { } _ { 2 , 5 7 } } = 0 . 5 3 9$ ，P=0.672）和求偶持续时间（图！ $2 : F _ { 2 , 5 7 } = 0 . 2 1 8$ ， $\textstyle P = 0 . 8 0 5$ )都没有显著影响。但不同处理对星豹蛛雄蛛第一对步足伸展频率（图2 $: F _ { 2 , 5 7 } = 4 . 4 1 8$ ， $P { = } 0 . 0 1 6$ )和身体振动频率（图2 $\ ! : F _ { 2 , 5 7 } = 4 . 2 1 9$ ， $P { = } 0 . 0 2 0 \dot { \it \Omega }$ )都有显著影响。NM雄蛛第一对步足伸展频率和身体振动频率都显著高于OM 和AM 雄蛛,而后二者之间没有显著差异。
+
+![](images/5babf838c392894c8ac9c159502c06470d1a2041b166ff56304b468f711a090f.jpg)  
+图2星豹蛛不同雄蛛拖丝对后续雄蛛求偶行为(Mean ${ \bf + \thinspace S E }$ )的影响  
+Fig.2Effects of dragline from diferent male wolf spider Pardosa astrigera oncourtship behaviourof subsequent males
+
+NM:无雄蛛拖丝 No male dragline;OM：同一雄蛛拖丝 male own dragline; $\mathrm { A M }$ ：不同雄蛛拖丝 Another male dragline;不同英文字母示差异显著在NM、OM和AM3种不同交配处理中,雄蛛交配持续时间都没有显著差异（图3 $: F _ { 2 , 5 7 } = 0 . 4 1 6$ ， $P =$ 0.662)。
+
+2.2星豹蛛不同性比对雄蛛求偶和交配行为的影响
+
+在面对不同性比星豹蛛成蛛时,雄蛛的求偶和交配行为比较结果见图4。不同性比对雄蛛求偶潜伏期（图 $4 : F _ { 2 , 5 7 } = 0 . 1 6 0$ ， $\scriptstyle P = 0 . 8 5 4 { \mathrm { , } }$ 和求偶持续时间（图 $4 : F _ { 2 , 5 7 } = 0 . 0 1 2$ ， $ { \boldsymbol { P } } = 0 . 9 8 8 ^ { \cdot }$ )都没有显著影响。同时不同性比对星豹蛛雄蛛第一对步足伸展频率（图4： $F _ { _ { 2 , 5 7 } } { = } 0 . 1 6 5$ ， $ { P = 0 . 8 4 8 }$ )和身体振动频率（图4 $\mathfrak { t } : F _ { { 2 , 5 7 } } = 1 . 2 8 1$ ， $P =$ 0.286)也都没有显著影响。同样,性比对雄蛛交配持续时间也没有显著影响（图 5 $: F _ { 2 , 5 7 } = 0 . 3 8 1$ ， $\textstyle P = 0 . 6 8 5$ ）。
+
+# 3讨论
+
+已有研究表明,雄性除产生精子需付出代价外，与交配相关的其它行为,如求偶和交配也需付出代价[27-31]。雄性为实现生殖潜力最大化,必需依配偶的质量和竞争对手的竞争强度适应性调整其求偶和交配行为。Bretman等把雄性在面临其它雄性竞争对手时表现的可塑性性行为分为交配前、交配中和交配后行为3类。交配前行为主要指雄性的求偶行为，交配过程中行为指交配持续时间，而交配后行为主要指配偶的守护行为[6]。对多配制动物,雄性通常表现上述3类可塑性行为[；而对单配制动物，研究甚少,少数研究表明其只表现交配前和交配中可塑性行为[19-20]。雄性通常依据环境中其它雄性遗留的化学信息来评价交配竞争风险[6-13]。Aragon 研究发现雄蝶螈 Lissotriton boscai 在感知水体中有其它雄性化学信息时,其降低求偶行为[7]雄性蟋蟀Gryllus bimaculatus在有其它雄性化学信息存在条件下,其会增强其求偶行为[12]。可见在不同物种中，雄性对外界环境中其它雄性的化学信息会产生不同反应。该差异性反应可能与雌性交配模式和精子优先模式有关。对于单配制雌性,当雄性感知外界环境中雄性的化学信息时,降低其求偶是适宜的。对于多配制雌性,雄性求偶行为的调整与雄性精子优先模式有关。如果第一只雄性精子优先受精,当雄性感知外界环境中其它雄性存在信息时,降低其求偶是适宜的;相反,如果最后一只雄性精子优先受精,当雄性感知外界环境中其它雄性信息时,增强其求偶行为是适宜的。在不同狼蛛中,雄蛛求偶强度越大,其交配成功率越高[26,31]。但求偶强度越大,其能量付出也越大,寿命显著缩短[28-30]。当前的研究发现,前一雄蛛拖丝上化学信息物质抑制后续雄蛛的求偶强度,即便提供同等质量的成熟未交配雌蛛。可见本文的研究结果与Aragon的研究结论一致[7],也与 Ayyagari 和 Tietjen 对狼蛛 Schizocosaocreata 的研究结果一致[32]。这一结果与星豹蛛雌蛛一生只交配一次的交配模式也是吻合的。
+
+![](images/83984c3845d01457358ade0be6136369be676f90ab58fcd994223ca8c793b9b8.jpg)  
+图3星豹蛛不同雄蛛拖丝对后续雄蛛交配持续时间（Mean $^ +$ SE)的影响 Fig.3Effects of dragline from different male wolf spider Pardosa astrigera on mating duration of subsequent males
+
+![](images/140f1fa11116cb09a9cfe8600d757b4bfc058b161c4aa5c010f1473398a11194.jpg)  
+图4星豹蛛不同性比对雄蛛求偶行为( $\mathrm { M e a n } + \mathrm { S E }$ 的影响  
+Fig.4Effects of sex ratio of the wolf spider Pardosa astrigera on male courtship behaviour
+
+研究结果还发现，雄蛛在自己拖丝上和在其它雄蛛拖丝上求偶强度没有显著差异，可见雄蛛不能辨别雄性拖丝来自于自己还是来自其它雄蛛的拖丝。在野外，雄蛛在通过雌蛛释放的拖丝上信息物质追踪定位雌蛛过程中，雌蛛很可能已与其它同种雄蛛完成交配。因此雄蛛在追踪定位雌蛛过程中，如果感知雌蛛拖丝上遗留有其它雄蛛拖丝信息物质时，其降低求偶强度是一种适应性行为。降低求偶强度不但可以节省能量，而且可以避免无效追踪而丧失追踪其它适宜配偶的机会。
+
+![](images/fd5ddfa2015f5654eae8926c16ccfd4c85b0381a84b70cd04dfec2a4a7367a39.jpg)  
+图5星豹蛛不同性比对雄蛛交配持续时间 $\mathrm { \nabla \cdot M e a n \cdot S E }$ 的影响Fig.5Effects of sex ratio of the wolf spider Pardosa astrigera onmale mating duration
+
+本研究发现，在星豹蛛雄性竞争对手信息存在条件
+
+下,无论是化学刺激(雄蛛拖丝),还是视觉刺激(偏向雄性的性比),雄蛛交配持续时间一直保持固定不变。可见,与多配制物种不同,星豹蛛雄蛛交配持续时间不具有适应性改变的能力。Bretman等认为,对单配制物种,雄性交配行为可塑性低;相反对多配制物种,雄性交配行为可塑性高[6]。可见本结论与 Bretman 等的预测结果也一致。但Lizé 等研究发现单配制的果蝇 Drosophila subobscura 存在竞争对手时,雄性意外地延长交配持续时间[20]。Lizé 等据此推断 Drosophila subobscura 单配制起源于多配制。相反,Arnqvist 在鳞翅目、双翅目和鞘翅目中采用系统发育方法证实多配制起源于单配制[33]。关于单配制和多配制的起源和进化方向一直是一个悬而未决的问题。星豹蛛雌蛛单配制是祖征？还是由多配制演化而来值得做进一步研究。在野外自然条件下,星豹蛛雌雄性比接近1,雄蛛比雌蛛早成熟,加之雄蛛可以多次交配而雌蛛一生只交配一次,因此雄蛛之间为获得交配机会而产生很强的交配前竞争[34]。可以推测雄蛛很少有多次交配的机会,甚至很多雄蛛根本就没有交配的机会。因此雄蛛一旦有幸获得交配机会,将其生殖投资最大地投入到当前的交配是其适应性选择。因此,雄性交配持续时间保持不变也可能是一种适应性行为。
+
+# 参考文献（References）：
+
+[1] TriversRL.Parentalinvestmentandsexualselection//CampbellB,ed.Sexual SelectionandtheDescentofan.Chicag：Adine,1972.  
+[2] KellCD,Jseualeodetetalfaeccalv1）4  
+[3] Parker G A,Pizzari T.Sperm competition and ejaculate economics.Biological Reviews,2O10,85(4）：897-934.  
+[4] WedellN，GageMJG,ParkerGA.Spercompeition，maleprudenceandsper-liitedfeales.TrendsinEcology&Evolutio，17(7):313-320.  
+[5 EberhardWG.FemaleControl;SexualSelectionbyCrypticFemaleChoice.Princeton,NewJersey：PrincetonUniverstyPress，1996.  
+[6] BretmanAGaeJanTQuickhagearistsaleplastviouralsposestalsresino&Evolutio6: 467-473.Arag6nP.ConspeificmalechemicalcuesinfluencecourtshipbehaviourinthemalenewtLsotritonboscai.Behaviour，O09，146（8）：1137- 1151.  
+[8] CarazoP，FontE，AlfthanB.Chemosesoryassesmentofspercompetionlevelsndtheevolutionofintealspermatophoreguarding.Proceedings of the Royal Society B：Biological Sciences，2007,274(1607）：261-267.  
+[9]FribergUalepreptiofaletigsatusitsfetooplatouration，speefenceadfealefssAnialeha,72(6):1259-1268.  
+[10]LaneSM,SolinoJH,MitchellC,BlountJD,Okada K，HuntJ,HouseCM.Rivalmalechemicalcuesevokechangesinmalepreadpost-copulatory investment in a flour beetle.Behavioral Ecology，2015,26(4）：1021-1029.  
+]LecoEieconspecitic male sexual inhibition.Journal of Chemical Ecology，1yy8,24(4）：bəə-6/1.  
+[12]LyonsadCJaosesepitineldcet,Grsmacutus（deGealei,(3): 673-680.  
+[13]TomasosWleeiedtilardocarbssialseopetiitesiydetaculateexpediree.Proceedings of the Royal Society B：Biological Sciences，2009,276(1655）：383-388.  
+[14]BretmanceCTlastcosofalerooelogsetoeelofsopetaaletifitness.Proceedings of the Royal Society B:Biological Sciences，2009,276(1662）：1705-1711.  
+[15]BretmanA，FrickeC，HetheringtonP，StoeR，ChaanTExposuretoivalsandplasticesponsestspercompetioninDrosohilmelanogaster. Behavioral Ecology，2010,21(2）：317-321.  
+[16]Bretma，WstacatJDagJG,apanCostsdeftsflifeeexposetatigalsinaleDrosoilgsteEvolution，2013,67(8）:2413-2422.  
+[17]BretanA，WestancoatJDGageMJG,anTIndivdualplastiesposesyaestoivalsevealmmatcbtnavioudfitness outcomes.Proceedings of the Royal Society B:Biological Sciences,2012,279(1739）：2868-2876.  
+[18]GarcoleFedustofouladazodgosofsepeii（Phyllomorpha laciniata）. Behavioral Ecology，2004，15(1）：23-30.  
+[19]Lizé A,Price TA R, Heys C,Lewis Z, Hurst G DD. Extreme cost of rivalry in a monandrous species: le-male interactions result in failure toacquire matesand reduced longevity.Proceedings oftheRoyal Society B: Biological Sciences，2014,281(1786): 20140631.  
+[20]LizéA,ofJalrEA,LewsZ,HustGerceptfalealeopeteooilopuativispecies where females rarely remate. Biology Letters，2012,8(1）： 35-38.  
+[21]BarudLostaFGagesileealsposfroisfalesatfeteprdiesatesineolfsdemalitiosa. Journal of Ethology，2010,28（1)：75-85.  
+[22]GaskettAC.Spidersexpheromoes：emisionreception，structures，andfunctionsBiologicalReviews,O0,82（）:27-48.  
+23]obertsJUetGetalealalsfealeiciestate and receptivity.Animal Behaviour,2005,70(1）：217-223.  
+[24］吴俊，焦晓国，陈建，彭宇，刘凤想，王振华．雌星豹蛛性信息素的行为学证据.动物学报，2007,53(6)：994-999.  
+［25］吴俊，焦晓国，陈建，彭宇，刘凤想.星豹蛛求偶和交配行为.动物学杂志，2008，43（2）：9-12.  
+[26]XiaoR,ChenB,WangYC,LuM,ChnJ,LiDQ，YnYL,JiaoXG.Slmediatedmalecourtshipefortinhe moandrousolfspiderPardosa astrigera（Araneae:Lycosidae). Chemoecology，2015,25(6):285-292.  
+[27]CadyAB,eKJUetGontrastiegetostsfurtsigalingintoolfdesvingdegtouiJournal of Arachnology，2011,39(1):161-165.  
+[28]Kotialevegedarthe Royal Society B: Biological Sciences，1998,265(1411）: 2203-2209.  
+29]KotiaaVJialitiHoubof）laboratoryandfieldconditions.Behavioral Ecologyand Sociobiology，199,46(2）：123-128.  
+[30]MapesJtalVtiaoriVbilittofodi-epdetelalesplaiugofierfthe Royal Society B：Biological Science，1996,263（1371）：785-789.  
+[31]Shambe，ilgerobodK,betsE.Coursfortiseerpredictorfatigesoaetatioforalolfspiders.Behavioral Ecology，2009,20(6): 1242-1251.  
+[32]] AyagariLRnWJ.Preliaryaiofaleroofsideret（Aa,Lysda）JoalChemical Ecology，1987,13(2）: 237-244.Arnqvist G.Comparative evidencefortheevolution of genitalia bysexual selection.Nature，1998,393（6687）：784-786.  
+[34] JiaoXG,ChnZQ,WuJ,DuHY,uFX,CnJ,LiDaleretigdealefesiheofspiderrdosrigerfmale mating history.Behavioral Ecology and Sociobiology，2011,65(2）：325-332.

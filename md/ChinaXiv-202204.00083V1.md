@@ -1,0 +1,330 @@
+# 基于横纵向联合控制的多目标优化车辆跟驰研究
+
+李孟凡，秦文虎，云中华(东南大学 仪器科学与工程学院，南京 210096)
+
+摘要：为解决车辆在拥堵环境中因车速波动较大所带来的跟驰平稳性较差，跟踪无效或不安全等问题，提出了基于车辆模型和深度强化学习的多目标优化跟驰方案。首先基于车辆横纵向动力学建立车辆跟驰模型，然后根据车间距误差、速度误差、横向偏差及相对偏航角等，利用深度确定性策略梯度算法得到跟驰车的加速度和转向角，以更平稳安全地控制跟驰车辆。经NGSIM公开驾驶数据集进行测试与验证，该方案可有效地提升跟驰车辆的稳定、舒适与安全性，对保证交通安全和提升道路通行能力具有重要意义。
+
+关键词：车辆跟驰；横纵向联合控制；深度确定性策略梯度；NGSIM 中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2021.12.0687
+
+Multi-objective optimal car-following model with lateral and longitudinal control
+
+Li Mengfan, Qin Wenhu†, Yun Zhonghua (Southeast University,Schoolof Instrument Science&Engineering,Nanjing 2loo96,China)
+
+Abstract: Duetothelarge fluctuationsandpoorstabilityof thevehicleinthecongested environment,itisdificultto track the vehicle in frontofit in time.This paper developedamulti-objective optimalcar following algorithm.The algorithmused avehiclelateraland longitudinal dynamic model anddeepreinforcement learning to establish acar-following model.Then, according tothevehicledistance difference,speeddiference,lateral deviation,andrelativeyawangle,thedeepdeterministic strategy gradient algorithm obtainedtheacelerationand stering angleoftefollowing vehicle.Therefore,thealgorithmcan control the following car more smoothlyandsafely.After testing and verification withtheNGSIMdriving data set,theesults showthatthis methodcaneffectivelyimprove thestability,comfort,andsafetyofcar following.Itcan promote trafic safety and improve road capacity.
+
+Key words: car following; lateral and longitudinal; deep deterministic policy gradient; NGSIM
+
+# 0 引言
+
+车辆跟驰是重要的自动驾驶辅助技术，能够减轻驾驶员的驾驶负担，提高驾驶舒适性，减少交通安全事故。但在交通拥堵状况中由于车辆频繁的加减速，跟驰效果较差，因此低速跟驰研究得到了广泛关注[1]。
+
+以往的自动驾驶跟驰模型多为理论驱动，主要在车辆跟驰行为基础上，以数学、物理学模型表达跟驰过程中的各种状态，建立符合驾驶经验的车辆跟驰模型。首个跟驰模型由pipes[2]提出，其假设跟驰车速度与车间距成正比，根据车间距决策跟驰车速度，建立车辆跟驰模型。之后，基于交通流异质性、人类因素、道路因素等陆续提出了基于安全距离、心理生理、刺激反应以及元胞自动机等车辆跟驰模型，但理论驱动跟驰模型难以综合考虑上述各种影响因素，模型预测精度较差，在描述复杂车辆跟驰行为时不够准确。
+
+得益于智能交通的发展，大规模高精度车辆轨迹数据为基于数据驱动的车辆跟驰提供了研究基础，通过对车辆轨迹数据统计分析，挖掘出有关驾驶行为规律，建立对应的拟合关系，从而实现车辆的有效跟驰[3]。目前，数据驱动车辆跟驰模型有基于模糊逻辑、支持向量回归、人工神经网络、深度强化学习模型等。其中深度强化学习跟驰模型[4]是近年的研究热点，如卷积神经网络、递归神经网络、长短时记忆神经网络等方法逐步应用于车辆跟驰研究中。Zhu Meixin 等人[5]利用深度强化学习得到了车辆跟驰策略，建立了从跟驰速度、相对速度、车间距到跟驰加速度的仿人映射模型；PanFeng等人[基于逆强化学习对真实驾驶数据分析后，获取了人类驾驶员的驾驶特征，设计了奖励函数，得到了更加自然的跟驰驾驶行为；朱冰[7基于近端策略优化算法建立了车辆跟驰控制策略及基于双前车跟驰结构的主车纵向控制架构，实现了车辆跟驰控制。模型预测控制[8(ModelPredictiveControl，MPC)多应用于跟驰场景中，重庆大学胡晓松等人开发了一种基于MPC的控制器来优化车速和发动机扭矩，在确保跟驰安全的同时实现更好的燃油经济性和更少的废气排放。MaoJin等人[]基于MPC算法，设计了可以在线更新权重系数的多目标优化方法，实现了更好的跟驰跟踪性和稳定性。与其他模型相比，深度强化学习车辆跟驰模型能够通过不断地学习适应不同地驾驶环境，具有更好的泛化能力，有助于开发与人类驾驶行为更相似的自主驾驶算法和交通流模型。
+
+驾驶员在跟车行驶时，意识到车辆偏离期望轨迹时，通常会通过降低速度和增大跟车距离，以减小横向控制风险和纵向事故风险[1I]。车辆在曲率变化的道路上行驶时，若模型对横向控制不足，会影响车辆的操纵稳定性。通常的跟驰研究大多考虑了纵向加速度决策而忽略了横向路径跟踪，且主要集中于对人类驾驶行为的模拟而忽略了对驾驶行为的优化，本文基于车辆横纵向联合控制并考虑安全性、舒适性，利用深度强化学习算法得到同时决策加速度和转向角的车辆跟驰模型，实现车辆有效地跟随前车行驶。
+
+# 1 车辆动力学模型
+
+在跟驰车辆的运动控制中，首先需建立车辆动力学模型，该研究根据转向和牵引系统，简化转向系统，直接输入前轮转角作为跟驰车方向盘转角，基于车辆横向运动和横摆运动以及纵向运动，建立车辆三自由度动力学模型如下[12]:
+
+$$
+\left\{ \begin{array} { l } { \dot { \nu } _ { x } = \nu _ { y } \dot { \varphi } + ( F _ { x f } \cos \delta - F _ { y f } \sin \delta + F _ { x r } ) / m } \\ { \dot { \nu } _ { y } = - \nu _ { x } \dot { \varphi } + ( F _ { x f } \sin \delta + F _ { y f } \cos \delta + F _ { y r } ) / m } \\ { \ddot { \varphi } = ( ( F _ { x f } \sin \delta + F _ { y f } \cos \delta ) l _ { f } - F _ { y r } l _ { r } ) / l _ { z } } \end{array} \right.
+$$
+
+图1为车辆动力学模型，图中XOY是地面参考坐标系，xoy是车辆坐标系。 $\nu _ { x } , \nu _ { y }$ 是车辆质心的纵向和侧向速度， $\varphi$ 是车辆横摆角， $\dot { \varphi }$ 是车辆横摆角速度， $\boldsymbol { \delta }$ 为前轮转向角； $l _ { f }$ 是汽车质心到前轮的距离， $l _ { r }$ 是汽车质心到后轮的距离； $l _ { z }$ 是车辆绕铅垂轴的转动惯量； $F _ { x f }$ 和 $F _ { y f }$ 分别是前轮所受到纵向力和侧向力， $F _ { x r }$ 和 $F _ { y r }$ 分别是后轮所受到的作用力。
+
+![](images/54d5ecc9695a2e709a4dbfa4faf5edb9587cb47a2b7e8013f59ca89f2114823f.jpg)  
+图1车辆动力学模型
+
+前后轮胎的侧向力与侧偏角近似成线性关系[13]。式(2)中$\alpha _ { f }$ ， $\alpha _ { r }$ 分别为前轮侧偏角和后轮侧偏角； $C _ { f \natural }$ $C _ { r }$ 分别为车辆前轮胎转弯刚度和后轮胎转弯刚度[12]。
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle { F _ { y f } = 2 C _ { f } \alpha _ { f } = 2 C _ { f } ( \delta - \frac { l _ { f } \dot { \varphi } + \nu _ { y } } { \nu _ { x } } ) } } \\ { \displaystyle { F _ { y r } = 2 C _ { r } \alpha _ { r } = 2 C _ { r } \frac { l _ { r } \dot { \varphi } - \nu _ { y } } { \nu _ { x } } } } \end{array} \right.
+$$
+
+由式(1)(2)即可得到车辆的纵向加速度 $\dot { \boldsymbol { \nu } } _ { \mathrm { r } }$ 、横向加速度 $\dot { \boldsymbol { \mathfrak { p } } } _ { \mathfrak { p } }$ 和横摆角加速度 $\ddot { \varphi }$ 。
+
+# 2 基于DDPG车辆跟驰决策算法
+
+深度确定性策略梯度算法具有深度神经网络的特征提取能力和强化学习的决策优势，且适用于具有离散输入、连续输出的跟驰决策问题，因此，本文基于深度确定性策略梯度算法建立了车辆跟驰总体策略如图2所示。
+
+在拥堵路段中，跟驰车辆的加速度 $\textbf { \em a }$ 和转向角 $\delta$ 通常受前车运动状态所影响，因而需要基于前车状态来建立跟驰车辆的控制策略。在采集到前后车辆的速度差、相对距离及后车横向偏差、相对偏航角之后，利用深度确定性策略梯度算法，将车辆跟驰问题转换转换为特定奖励函数下的马尔可夫决策过程，并通过深度强化学习agent与车辆跟驰环境交互迭代学习，得到跟驰车辆的横纵向控制策略，也就是跟驰车辆的加速度和转向角，以此来调整跟驰车辆的运动状态，实现对跟驰车的最优控制[14]。
+
+# 2.1 DDPG算法原理
+
+深度强化学习包含不断观察和奖励并与环境互动的智能体(agent)，以及因agent所采取的行动而发生变化的环境两部分。深度Q网络适用于具有少量离散输出的模型，但在连续动作空间中有可能决策失败。该研究利用在连续控制领域中表现良好的深度确定性策略梯度(DDPG)算法[15]，来学习
+
+Actor网络和Critic网络，将用于决策加速度和转向角的跟驰车作为agent，其主要目标是最大化奖励函数。Actor网络主要负责策略的生成，即根据跟驰车和前车的速度、相对速度以及相对距离来输出跟驰车的加速度，根据横向偏差和相对偏航角得到跟驰车方向盘的转角。Critic网络则负责策略的改进，根据状态-动作对来输出 $Q ( s _ { t } , a _ { t } )$ ，并按性能改进方向来更新Actor的策略参数。
+
+![](images/075ef4394d0a4fd658c2b5b6664faa55268a29c5cd47183a1c6917a00009a8af.jpg)  
+图2基于深度强化学习的车辆跟驰总体框图  
+Fig.2Deep reinforcement learning for car following
+
+图3的Actor和Critic的网络架构由输入层，输出层和包含多个神经元的隐藏层所构成。DDPG首先初始化缓冲区，Actor、Critic网络参数 $\theta ^ { \mu }$ 、 $\theta ^ { \boldsymbol { Q } }$ 以及Actor、Critic 相应的目标网络权重参数 $\theta ^ { \mu } \cdot \theta ^ { \varrho }$ ，然后在每个训练周期中，根据Actor的策略 $a _ { t } = \mu ( s | \theta ^ { \mu } ) + N _ { t }$ 计算跟驰车的加速度和转向角，接下来观察奖励值 $\boldsymbol { r } _ { t }$ 和下一时刻状态值 $s _ { t + I }$ ，在得到奖励函数和状态值后利用Critic网络对当前状态 $s _ { t }$ 所采取的动作 $a _ { t }$ 进行评估，根据损失函数L来更新Critic的网络参数 $\theta ^ { \varrho }$ ，并使用策略梯度来更新Actor的网络参数 $\theta ^ { \mu }$ ，最后根据Actor和Critic 的网络权重的更新方向来更新目标网络权重 $\theta ^ { \mu ^ { \prime } }$ 和 $\theta ^ { \varrho }$ ，以此过程来不断优化Actor和Critic，直到收敛。在这个过程中，DDPG算法[15]的优化目标为
+
+$$
+a = \underset { a = \mu ( s \mid \theta ^ { \mu } ) + N _ { r } } { \arg \operatorname* { m a x } } Q ( s , a \vert \theta ^ { \varrho } )
+$$
+
+Critic网络依据损失函数(4)更新 $\theta ^ { \boldsymbol { Q } }$ 。
+
+$$
+\begin{array} { r l } & { \left\{ y _ { t } = r _ { t } + \gamma Q ^ { \prime } ( s _ { t + 1 } , \mu ^ { \prime } ( s _ { t + 1 } \big | \theta ^ { \mu } ) \big | \theta ^ { \varrho } ) \right. } \\ & { \left. \left[ L = \mathrm { E } ( Q ( s _ { t } , a _ { t } ) \big | \theta ^ { \varrho } ) - y _ { t } \right) ^ { 2 } \right. } \end{array}
+$$
+
+Actor网络使用策略梯度(5)来更新 $\theta ^ { \mu }$ 0
+
+$$
+\nabla _ { \theta ^ { \mu } } J \approx \nabla _ { a } Q ( s , a \big | \theta ^ { \varrho } ) \big | _ { s _ { t } , \mu ( s _ { t } ) } \nabla _ { \theta ^ { \mu } } \mu ( s _ { t } \big | \theta ^ { \mu } ) \big | _ { s _ { t } }
+$$
+
+在 $\mathbf { k }$ 次优化后，采用策略(6)来更新Actor和Critic的目标网络参数 $\theta ^ { \mu ^ { \prime } }$ 和 $\theta ^ { \varrho }$ 。
+
+$$
+\displaystyle { \int _ { \theta ^ { \mu } } ^ { \theta ^ { \mu } }  \tau \theta ^ { \mu } + ( 1 - \tau ) \theta ^ { \mu } }
+$$
+
+![](images/0a4314fbe6b96aaf725d679028f45f9eeddcbdef0e06d5386e861f1494e94552.jpg)  
+Fig.1Vehicle dynamics model   
+图3Actor和Critic 网络结构图  
+Fig.3Architecture of the actor and critic networks
+
+# 2.2车辆跟驰误差
+
+跟驰车在跟随前车运动过程中，需要依据前车行驶状态和行驶轨迹，来规划跟驰车的控制策略。为了跟踪前车速度和行驶轨迹，表征跟驰车和前车之间的位置和速度及行驶轨迹之间的关系，使跟驰车保持一定的安全距离并沿期望路径行驶，建立横纵向联合控制的车辆跟驰误差模型如图4所示。
+
+![](images/a01d002a2d6558a34296b8c61362519ec43949d2c9608a9fcbec96269e7e7937.jpg)  
+图4车辆跟驰误差模型
+
+在车辆纵向运动中，跟驰车需根据车辆速度和与前车的距离决策其加速度，从而安全、有效地跟随前车行驶。微观驾驶员行为的安全距离模型[16]为式(7)。
+
+$$
+d _ { s a f e } = \lambda _ { 1 } ( \nu _ { f o l l o w } ^ { 2 } - \nu _ { l e a d } ^ { 2 } ) + t _ { R T } \ast \nu + d _ { 0 }
+$$
+
+其中：参数由车辆的最大制动能力决定； $t _ { R T }$ 是恒定车头时距(s)，一般为驾驶员反应时间； $\cdot$ 是跟驰车速度 $\mathrm { ( m / s ) }$ ； $d o$ 是跟驰车车速为零时的最小安全距离 $( \mathrm { m } )$ 。因车辆在跟驰行驶过程中，前车和后车速度差异小，将 $\lambda _ { 1 } \big ( { \pmb { \nu } } _ { f o l l o w } ^ { 2 } - { \pmb { \nu } } _ { l e a d } ^ { 2 } \big )$ 项忽略，故基于固定车间时距算法[16]，设计安全距离模型如(8)所示。
+
+$$
+d _ { s a f e } = t _ { R T } \ast _ { \nu } + d _ { 0 }
+$$
+
+根据两车的相对运动关系，结合车间相对速度和车间距误差定义车辆跟驰纵向模型(9)以直观反映跟随模式下跟驰车和前车的行驶状态。
+
+$$
+\left\{ \begin{array} { l l } { e _ { \nu } = \nu _ { f o l l o w } - \nu _ { l e a d } } \\ { e _ { d } = d _ { r e a l } - d _ { s a f e } } \end{array} \right.
+$$
+
+上式中 $\scriptstyle e _ { \nu }$ 为跟驰车速度vfollow 和前车速度 $\nu _ { l e a d }$ 之间的差值， $\scriptstyle e _ { d }$ 为实际距离 $d _ { r e a l }$ 与安全跟车距离 $d _ { s a f e }$ 之间的差值。
+
+在车辆横向运动中，跟驰车需要根据与行驶轨迹间的相对位置关系来获取横向速度和横摆角速度，并通过调整车辆转向角来保证有效地进行横向跟踪，减小横向偏差和相对偏航角[17]。
+
+$$
+\left\{ \begin{array} { l l } { \dot { e } _ { y } = \nu _ { y } + \nu _ { x } e _ { \varphi } } \\ { \dot { e } _ { \varphi } = \dot { \varphi } - \dot { \varphi } _ { d } = \dot { \varphi } - k _ { d } \nu _ { x } } \end{array} \right.
+$$
+
+其中： $e _ { y }$ 为横向位置偏差； $\boldsymbol { \mathscr { e } } _ { \varphi }$ 为偏航角误差； $k _ { d }$ 为跟驰轨迹曲率。
+
+# 2.3奖励函数设计
+
+在强化学习中，奖励是环境对智能体动作的反馈和评估动作好坏的信号，通常为标量。在跟驰车横纵向联合控制中，需要用奖励函数来决定横向轨迹的跟随和纵向速度的控制。
+
+跟驰控制问题可转换为以跟踪性、安全性和舒适性[5]等多个目标的优化问题。为了使跟驰车尽可能接近目标路径，同时保持更好的速度响应和稳定的加速行为，因此使用纵向速度误差 $\scriptstyle e _ { \nu }$ 、距离误差 $e _ { d }$ 、横向偏差 $e _ { y }$ 、加速度 $\textbf { \em a }$ 和转向角$\delta$ 作为奖励函数的特征。另外还需考虑相对速度小于零、跟驰速度过小以及横向偏差过大所造成的异常情况给予模型惩罚 $m$ 。因此设计奖励函数(11)。
+
+$$
+r _ { t o t a l } = r _ { f o l l o w } + r _ { c o m f o r t a b l e } + r _ { s a f e } + m
+$$
+
+为了有效地跟踪前车，基于纵向速度误差和横向偏差设计奖励函数(12)以实现纵向速度跟踪和横向路径跟踪。跟驰速度误差和横向偏差越小， $r _ { f o l l o w }$ 将越大，而当横向偏差小于$0 . 1 \mathrm { m }$ 、跟驰速度误差小于 $1 \mathrm { m / s }$ 时进行正向奖励 $\mathrm { ~ H ~ }$ ，以更精准的进行路径跟踪与速度跟踪。
+
+$$
+r _ { f o l l o w } = - ( \omega _ { \mathrm { l } } e _ { \nu } ^ { 2 } + \omega _ { 2 } e _ { \mathrm { y } } ^ { 2 } ) + H
+$$
+
+针对舒适性，基于加速度和转向角设计奖励函数(13)。跟驰加速度和转向角越小，横纵向的跟驰将会越稳定，舒适性也越好。
+
+$$
+r _ { c o m f o r t a b l e } = - ( \omega _ { 3 } a ^ { 2 } + \omega _ { 4 } \delta ^ { 2 } )
+$$
+
+针对安全性，基于安全距离误差设计奖励函数(14)。
+
+$$
+r _ { s q f e } = - \omega _ { 5 } e _ { d } ^ { 2 }
+$$
+
+另外，设置终止条件为 $| e _ { y } | { > } 1 , \nu { < } 0 . 5 , d { < } 0$ ，当触及终止条件时给模型惩罚 $\mathbf { \nabla } _ { m }$ ，以防止横向偏差过大、跟驰速度过小，避免碰撞。
+
+# 3 实验结果与分析
+
+# 3.1模型训练
+
+基于DDPG的跟驰车横纵向联合控制的重点是模型特征选择和融合。由于使用驾驶员视角的视觉图像作为模型输入的可解释性太差，甚至导致神经网络无法学习到有用信息，因此本模型使用环境的特征向量 $X _ { i n p u t }$ 作为模型输入。
+
+$$
+X _ { i n p u t } = ( \int e _ { \nu } , e _ { \nu } , \nu , \int e _ { y } , e _ { y } , \dot { e } _ { y } , \int e _ { \varphi } , e _ { \varphi } , \dot { e } _ { \varphi } )
+$$
+
+该模型根据当前的策略输出跟驰车的加速度 $\textbf { \em a }$ 和转向角 $\delta$ 并更新其位置和速度。同时，环境更新前车的状态并返回当前步骤的奖励及更新策略。
+
+网络训练步骤如下：
+
+依据动作空间、状态空间及奖励函数，设计跟驰问题的深度强化学习要素；
+
+初始化Actor-Critic 网络，重置环境;
+
+从环境中获取观测量 $s o$ ，计算初始动作 $a _ { 0 } = \mu ( s _ { 0 } )$ ，然后将初始动作设置为当前动作 $( a \gets a _ { 0 } )$ ，将当前的观测值设置为初始观测值 $( s \gets s _ { 0 } )$ ;
+
+将动作 $a$ 应用到环境中，获取下一时刻的观测值 $\boldsymbol { s } ^ { \prime }$ 和奖励$r$ ，然后从经验集中学习 $( s , a , r , s ^ { \prime } )$ ，计算下一时刻的动作 $a ^ { \prime } = \mu ( s ^ { \prime } )$ ，最后将 $( a \gets a ^ { ' }$ )，来更新当前的动作，将 $( s \gets s ^ { \prime } )$ 来更新当前的观测值；
+
+以此循环，当达到终止条件，训练终止。
+
+DDPG算法的超参数如表1所示。
+
+表1DDPG 算法超参数  
+Tab.1Super parameters of DDPG algorithm   
+
+<html><body><table><tr><td>参数</td><td>取值</td></tr><tr><td>Actor 网络学习率</td><td>0.0001</td></tr><tr><td>Critic 网络学习率</td><td>0.001</td></tr><tr><td>内存批大小尺寸</td><td>64</td></tr><tr><td>经验回放存储池</td><td>106</td></tr><tr><td>最大回合数</td><td>104</td></tr><tr><td>每一回合最多步数</td><td>600</td></tr><tr><td>时间步长</td><td>0.1</td></tr></table></body></html>
+
+图5所示为训练跟驰模型中的奖励变化趋势，该训练从跟驰数据集中选取了40个跟驰事件的数据进行训练，其中红色曲线为各训练回合的平均奖励值，蓝色曲线为每个训练回合的奖励值，黄色曲线为每个回合开始时，critic网络对折扣长期奖励的估计。平均奖励越高，跟驰的效果越好。实验经历3548个回合的训练，从图5中可明显的看出在约1400个回合时，奖励函数逐步收敛。
+
+![](images/15e84bf18411dcd410a355a3535a0e36082a3b8260c246e5e4792d449bfb8db5.jpg)  
+Fig.4Car following error model   
+图5跟驰模型训练奖励值整体变化图 Fig.5Car following model training reward value
+
+在图5中，最后100个回合的奖励值如图6所示，可以看出该算法稳定有效。
+
+![](images/51accb9866704b80562260ed27ee33fe49090559817e9bad34146131ba3259d7.jpg)  
+图6跟驰模型训练最后100个回合奖励值 Fig.6The last 1Oo rounds of the car following model training
+
+# 3.2模型测试
+
+利用MATLAB/Simulink搭建跟驰控制仿真系统，建立整车动力学模型，整车动力学参数如表2所示。
+
+Tab.2Vehicle dynamics parameters   
+
+<html><body><table><tr><td>参数名</td><td>参数</td><td>参数值</td></tr><tr><td>整车质量</td><td>m</td><td>1600kg</td></tr><tr><td>车身绕z轴转动惯量</td><td>l</td><td>2875kg/m²</td></tr><tr><td>质心到前轴距离</td><td></td><td>1.4m</td></tr><tr><td>质心到后轴距离</td><td>l</td><td>1.6m</td></tr><tr><td>前轮胎转弯刚度</td><td>Cf</td><td>19000N/rad</td></tr><tr><td>后轮胎转弯刚度</td><td>Cr</td><td>33000N/rad</td></tr></table></body></html>
+
+基于著名的NGSIM真实驾驶员跟驰驾驶数据集对跟驰控制策略进行测试与验证，从I-80路段的车辆轨迹数据中提取1341个跟驰事件，每个跟驰事件包含前车速度、跟驰车速度、两车相对速度以及两车相对间距，持续时间在15s以上。如表3所示为某一个跟驰事件的部分数据。
+
+表2整车动力学参数  
+表3跟驰数据结构  
+
+<html><body><table><tr><td>跟车间距(m)</td><td>跟驰车速(m/s)</td><td>相对速度(m/s)</td><td>前车速度(m/s)</td></tr><tr><td>9.995</td><td>7.773</td><td>2.368</td><td>10.141</td></tr><tr><td>10.197</td><td>8.015</td><td>2.015</td><td>10.030</td></tr><tr><td>10.367</td><td>8.231</td><td>1.701</td><td>9.932</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+调整加速度和转向角使跟驰车跟随前车沿着曲率变化道路行驶，在满足安全距离、速度、加速度和转向角的限制条件下，计算最优跟驰动作。另外根据车辆动力学物理限制，设置跟驰车加速度 $\textbf { \em a }$ 和转向角 $\delta$ 范围[5]如(16)所示。
+
+$$
+\displaystyle \left\{ - 3 m / s ^ { 2 } \le a \le 2 m / s ^ { 2 } \right.
+$$
+
+从1341对跟驰对数据中，随机选择一组跟驰数据验证本文所提跟驰决策方案并与 MPC 跟驰方案进行对比。实验中的车辆间距、速度及加速度变化如图7\~9所示。设置前车和跟驰车的初始车间距为 $1 5 \mathrm { m }$ ，跟驰车纵向速度为 $6 . 7 \mathrm { m / s }$ ，前车纵向速度为 $6 . 1 \mathrm { m / s }$ 。图7为跟车间距图，可以看出，跟驰车和前车的车距始终保持相对稳定，DDPG 算法的跟车距离整体上比人类驾驶员和MPC决策的距离小，实现了高效跟驰。
+
+![](images/7f2cb3b0ed83fdc24a9370185522fc0c959c4e19d6bfc6c8902b19762a14c02e.jpg)  
+图7跟车间距对比  
+Fig.7Comparison of the car following distance
+
+图8为前车速度，真实驾驶员跟驰速度、DDPG算法所决策的跟驰速度、MPC算法所决策的跟驰速度。从图中可以看出前车经历了先加速再减速然后匀速行驶的过程，而DDPG算法在跟随行驶中的速度变化更加稳定。
+
+![](images/8d33cdadf83145ca800953ba189051810e9e13e167c6b4dd4d804b7ca3a56966.jpg)  
+图8车辆速度变化Fig.8Vehicle speed
+
+图9为跟驰车加速度曲线图，可以看出，跟驰车通过合理调整加速度有效地调整了车速与间距，且保持了较为平稳的加速度。
+
+![](images/4d16ef8ea6c2ae17067d762efa052bd7dec27e5b58b53f71102a547507644255.jpg)  
+图9跟驰车加速度变化  
+Fig.9Car following acceleration
+
+为评价本文所用算法的跟驰效果，采用平均绝对误差(17)作为模型评价指标。
+
+$$
+M A D { = } ( \sum _ { i = 1 } ^ { n } \big | y _ { i } - \overline { { y } } _ { i } \big | ) / n
+$$
+
+其中： $y _ { i }$ 为单个观测值； $\overline { { y } } _ { i }$ 为算数平均值。表4给出了DDPG算法、MPC算法和真实驾驶员实测值的平均绝对误差。
+
+Tab.3Car following data structure   
+表4模型误差  
+Tab.4 Model error   
+
+<html><body><table><tr><td>MAD</td><td>真实驾驶员</td><td>MPC</td><td>DDPG</td></tr><tr><td>加速度</td><td>0.5722</td><td>0.5507</td><td>0.5407</td></tr><tr><td>速度</td><td>0.8089</td><td>0.9823</td><td>0.4932</td></tr><tr><td>距离</td><td>1.5306</td><td>1.3390</td><td>1.4408</td></tr></table></body></html>
+
+从表4可以看出，DDPG算法的加速度平均绝对误差最小，实现了更加平稳舒适的跟驰效果；DDPG算法的速度误差相对于人类驾驶员和MPC算法都有所降低，算法跟驰有效且具有较强的自适应能力，能够保持更加稳定的行驶速度；DDPG算法决策的跟车间距平均绝对误差比真实驾驶员小，故DDPG算法的决策效果更加稳定且能保持较小的车距。
+
+图10为前车行驶的道路轨迹曲率，图11为横向控制实验结果。其中，跟驰车的初始横向偏差设置为 $0 . 2 \mathrm { m }$ ，初始偏航角设置为-0.1rad。跟驰车通过控制转向角，使得偏航角误差快速减小，由于道路轨迹曲率不断变化，故跟驰车不断微调转向角，使横向偏差和相对偏航角较小，DDPG算法和MPC算法的横向控制效果基本一致。
+
+![](images/0c3cc1cdc08acd2bdd92ccb652538bd63f4dc9fa03c3b45ecb7530803594f4f8.jpg)  
+图10前车轨迹曲率图
+
+![](images/ede9a79f839f6cf297364a69b0a75df4ab981b271526ff8578215dff714da3e8.jpg)  
+Fig.10Front car trajectory curvature
+
+为了评价跟驰模型的预测性能，选取加速度变化率(jerk)来评价跟驰舒适性，选取车头时距(thw，time headway)评价跟驰安全性和有效性。在跟驰行驶中的车头时距通常保持在1s\~4s内，车头时距越小跟踪越紧，跟驰效率越高，但若低于1s容易发生碰撞，而大于4s则通常不属于跟驰行驶。
+
+$$
+\{ \begin{array} { l l } { \mathrm { j e r k } = \sum _ { t = 0 } ^ { n } | \Delta a / \Delta t | } \\ { \displaystyle t h w = | \frac { 1 } { n } \sum _ { t = 0 } ^ { n } d / \frac { 1 } { n } \sum _ { t = 0 } ^ { n } \nu | } \end{array} 
+$$
+
+从表5可以看出，DDPG算法所决策跟驰车的加速度变化率比真实驾驶员决策的加速度变化率小，可保证车辆跟驰的舒适性，避免频繁加减速带来的不适感。另外，跟驰车的车头时距保持在了1-4s的安全车头时距范围内，比真实驾驶员和MPC算法决策的车头时距更小，跟驰效率更高。
+
+Tab.5Car following model evaluation   
+
+<html><body><table><tr><td colspan="2">真实驾驶员决策</td><td>MPC决策</td><td>DDPG决策</td></tr><tr><td>jerk(m/s³)</td><td>531.4185</td><td>299.3043</td><td>426.4647</td></tr><tr><td>thw(s)</td><td>1.4610</td><td>2.2279</td><td>1.2624</td></tr></table></body></html>
+
+为验证多种跟驰工况下的实验效果，另在NGSIM数据集中随机选择一个跟驰事件，实验结果如图12\~15和表6\~7所示。可以看出，在该跟驰事件下，DDPG 算法决策的加速度及其变化率更小，跟驰车速度更加稳定，车头时距保持在1s\~4s的范围内，依然实现了更加舒适、稳定和安全地跟驰。
+
+# 4 结束语
+
+本文基于车辆三自由度动力学模型并结合横纵向联合控制，搭建了一种车辆跟驰控制模型，然后基于深度强化学习DDPG算法建立了决策模型以对跟驰车的加速度和转向角进行决策，以确保跟驰车辆的行驶安全有效和舒适。实验利用人类驾驶数据集NGSIM对模型进行了训练测试与评估，并与MPC跟驰控制算法相比，结果表明本文所用方法在保证安全的情况下，跟驰距离和加速度变化率更小，比人类驾驶员表现更佳，对保证交通安全和提升道路通行能力具有较大意义。
+
+目前，跟驰控制功能相对独立，如将车辆跟驰控制与车道保持辅助系统和车道变换辅助系统相结合，将实现更高层次的自动驾驶控制。
+
+![](images/675997a3cfbffe35d55dd78c8079c20c98a135888065bc78b0aa9aab5c9ef2e7.jpg)  
+图12跟车间距对比
+
+![](images/666992cc698477f246b49dfd9806c502389614d9ed12f27ad7f4c5b41c81739a.jpg)  
+图11横向控制效果图  
+图13车辆速度变化
+
+![](images/a17c4ae378920a234bd8732b4a3964ee9da55959719851a712e9d1f953319ca0.jpg)  
+Fig.11Lateral control results   
+Fig.13Vehicle speed   
+图14跟驰车加速度变化
+
+![](images/df11f3a7123bd2030d752be95d1d08418d84a25d8abf159248f156222727ce7c.jpg)  
+Fig.12 Comparison of the car following distance   
+Fig.14Car following acceleration   
+图15横向控制效果图  
+Fig.15Lateral control results
+
+表5跟驰模型评价  
+表6模型误差  
+
+<html><body><table><tr><td>MAD</td><td>真实驾驶员</td><td>MPC</td><td>DDPG</td></tr><tr><td>加速度</td><td>0.5766</td><td>0.8241</td><td>0.5161</td></tr><tr><td>速度</td><td>0.8630</td><td>0.7859</td><td>0.4370</td></tr><tr><td>距离</td><td>1.4368</td><td>0.4773</td><td>1.3314</td></tr></table></body></html>
+
+表7跟驰模型评价
+
+Tab.6Model error   
+Tab.7Car following model evaluation   
+
+<html><body><table><tr><td colspan="2">真实驾驶员决策</td><td>MPC 决策</td><td>DDPG 决策</td></tr><tr><td>jerk(m/s3)</td><td>408.2924</td><td>337.4202</td><td>265.5867</td></tr><tr><td>thw(s)</td><td>1.6712</td><td>1.2306</td><td>1.7247</td></tr></table></body></html>
+
+# 参考文献：
+
+[1]Saifuzzaman M, Zheng Z. Incorporating human-factors in car-following models:a review of recent developments and research needs [J]. Transportation research part C: emerging technologies,2014,48:379-403.   
+[2]Pipes L A.An operational analysis of trafic dynamics [J]. Journal of applied physics,1953,24(3): 274-281.   
+[3] 张兰芳，朱佩玄，杨旻皓，等．基于数据驱动的城市地下快速路跟驰 行为模型构建[J].同济大学学报：自然科学版,2021,49(05):661- 669.(Zhang Lanfang,Zhu Peixuan,Yang Minhao,et al.Modeling of carfollowing behavior on urban underground expressways based on datadriven Methods [J].Journal of Tongji University:Natural Science,2021, 49 (05): 661-669.)   
+[4]罗颖，秦文虎．基于IDM与RBFNN的组合型车辆低速跟驰模型[J]. 计算机应用研究，2019,37(8):1-7.(Luo Ying，QinWenhu. Combination low-speed car-following model based on IDMand RBFNN [J].Application Research of Computers,2019,37 (8): 1-7.)   
+[5]Zhu Meixin，Wang Yinhai,Pu Ziyuan,et al.Safe,efficient,and comfortable velocity control based on reinforcement learning for autonomous driving[J]. Transportation Research Part C:Emerging Technologies,2020,117:102662.   
+[6]Pan Feng,Bao Hong.Preceding vehicle following algorithm with human driving characteristics [J].Proceedings of the Institution of Mechanical Engineers,Part D: Journal of Automobile Engineering,2021,235 (7): 1825-1834.   
+[7]朱冰，蒋渊德，赵健，等．基于深度强化学习的车辆跟驰控制[J]. 中国公路学报,2019,32(06):53-60.(Zhu Bing,Jiang YuanDe,Zhao Jian，et al.A car-following control algorithm based on deep reinforcement learning [J].China Journal of Highway and Transport, 2019,32 (06): 53-60.)   
+[8]Camacho EF,Alba C B.Model predictive control [M]. Springer science & business media,2013.   
+[9]Hu Xiaosong,Zhang Xiaoqian,Tang Xiaolin,et al.Model predictive control ofhybrid electric vehicles for fuel economy,emission reductions, and inter-vehicle safety in car-following scenarios [J].Energy,2020,196: 117101.   
+[10] Mao Jin,Yang Lei,Hu Yuanbo,et al.Research on Vehicle Adaptive Cruise Control Method Based on Fuzzy Model Predictive Control [J]. Machines,2021,9 (8): 160.   
+[11] Muhrer E,Vollrath M.The effect of visual and cognitive distraction on driver's anticipation in a simulated car following scenario [J]. Transportation research part F: traffic psychology and behaviour,2011, 14 (6): 555-566.   
+[12]许芳，张君明，胡云峰，等．智能车辆路径跟踪横纵向耦合实时预测 控制器[J]．吉林大学学报：工学版，2021,51(6):2287-2294.(Xu Fang,Zhang Junming,Hu Yunfeng,et al.Lateral and longitudinal coupling real-time predictive controller for intelligent vehicle path tracking[J]. Journal of Jilin University:Engineering and Technology Edition,2021,51(6): 2287-2294.)   
+[13] Wang Hong,Huang Yanjun,Khajepour A,et al.Crash mitigation in motion planning for autonomous vehicles [J].IEEE transactions on intelligent transportation systems,2019,20 (9): 3313-3323.   
+[14] Zhu Meixin,Wang Xuesong,Wang Yinhai. Human-like autonomous carfollowing model with deep reinforcement learning [J]. Transportation research part C:emerging technologies,2018,97:348-368.   
+[15] Lillicrap TP,Hunt JJ,Pritzel A,et al. Continuous control with deep reinforcement learning [J].arXiv preprint arXiv:1509.02971,2015.   
+[16] Puan O C,Mohamed A,Idham M K,et al.Drivers behaviour on expressways: headway and speed relationships [C]// IOP Conference Series:Materials Science and Engineering.IOP Publishing,2019,527 (1): 012071.   
+[17] Wang Yulei, Ding Haitao, Yuan Jinxin,et al. Output-feedback triple-step coordinated control for path following of autonomous ground vehicles [J].Mechanical Systems and Signal Processing,2019,116:146-159.

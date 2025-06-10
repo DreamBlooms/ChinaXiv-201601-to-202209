@@ -1,0 +1,645 @@
+[
+    {
+        "type": "text",
+        "text": "Shifting Nicotiana attenuata's diurnal rhythm does not alter its resistance to the specialist herbivore Manduca sexta ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jasmin Herden,Stefan Meldau1,Sang-Gyu Kimt,Grit Kunert², Youngsung Joo1, lan T. Baldwin1 and Meredith C. Schuman1,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "'DepartmntoflecularologyaxanckstitutefoicalolgyHansoellStrasse87745enaanyertf BiochemistryMaxanckIstituteforhemicalEcologyHans-Knoel-trase8，7745JenaGermanyGermanCentrefortgative BiodiversityResearchDiveutsheat5LeigeranuretddressologyepartmentfgyUnsityf Konstanz,Uiversiae47sanrrntdressGestrasseac655 Einbeck，Geranyurrentdres:CenterforGenomeEngineeringInstituteofBsicSence，DejeonKorea\\*Correspdence: mschuman@ice.mpg.de ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractArabidopsis thaliana plants are less resistant to attack by the generalist lepidopteran herbivore Trichoplusia ni when plantsand herbivoresare entrained to opposite,versus identical diurnal cycles and tested under constant conditions. Thiseffect isassociated with circadian fluctuations in levels of jasmonic acid,the transcription factor MYC2,and glucosinolate contents in leaves.We tested whethera similar effect could be observed in a different plant-herbivore system: the wild tobacco Nicotiana attenuata and its co-evolved specialist herbivore,Manduca sexta.We measured larval growth on plants under both constant and diurnal conditions following identical or opposite entrainment,profiled the metabolome of attacked leaf tissue,quantified specific metabolites known to reduce M. sexta growth,and monitored M. sexta feeding activity underall experimental conditions.Entrainment did not consistently affect M.sexta growth or plant defense induction. However,both were reduced under constant dark conditions, aswas M. sexta feeding activity.Our data indicate that the response induced by M.sexta in N.attenuata is robust to diurnal cues and independent of plant or herbivore entrainment.We propose that while the patterns of constitutive or general damage-induced defense may undergo circadian fluctuation, the orchestration of specific induced responses is more complex. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Circadian clock; diurnal rhythm;Manduca sexta; Nicotiand attenuate;plant-herbivore interactions   \nCitation: Herden J,Meldau S,Kim SG,Kunert G,Joo Y,Baldwin IT, Schuman MC(2o16) Shifting Nicotiana attenuata's diurnal rhythm does not alter its resistance to the specialist herbivore Manduca sexta. JIntegr Plant Biol XX:XX-XX doi: 10.1111/jipb.12458   \nEdited by: lvan Galis,Okayama University, Japan   \nReceived Oct.1, 2015; Accepted Dec.17,2015   \nAvailable online on Dec.23,2o15 at www.wileyonlinelibrary.com/ journal/jipb   \n$\\mathfrak { O }$ 2015 Institute of Botany, Chinese Academy of Sciences ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Through the Earth's rotation,day and night alternate inan approximately 24h diurnal cycle. Most organisms have developed an internal circadian clock in order to synchronize theiractivities with predictable diurnal events (reviewed in Bell-Pedersen et al.2oo5). Plants have been shown to gain a fitness advantage from having a circadian clock synchronized withtheir external environment (reviewed in Yerushalmiand Green 2oo9).Furthermore,some plant responses to abiotic stress (reviewed in Sanchez et al.2o11) and to biotrophic pathogen attack (Bhardwaj et al. 2011; Wang et al. 2011; Zhang et al.2o13)are mediated by the circadian clock,but lessis known about plant responses to herbivore attack. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Goodspeed et al. (2o12） showed that larvae of the generalist lepidopteran Trichoplusia ni have a circadian feeding pattern when observed onartificial diet.They found that T.ni entrained to a 12 h:12h light: dark (LD) cycle grew largerand caused more damage on Arabidopsis thaliana plants that had been entrained to a diurnal regime opposite to that of larvae (out-of-phase),versus when plants and larvae were entrained to the same regime (in-phase).These experiments were performed under constant dark (DD) or constant light (LL)conditions,setups classically used in order to separate circadian from diurnal phenomena (Harmer 2oo9).Similar effects could be demonstrated for harvested fruits and vegetables from several plant families entrained under 12 h:12h LD cycles prior to,or during infestation by T.ni (Goodspeed et al. 2o13b).As had been shown for pathogen attack (Bhardwaj et al. 2011; Wang et al. 2011; Zhang et al. 2013)，Goodspeed et al. (2012，2013a) furthermore showed that in-phase plants of arrhythmic A. thaliana mutant lines (CCA1-OX and the LUX ARRHYTHMO knockout lux2) were not better defended than out-of-phase plants of the same lines under DD or LL conditions，implicating the clock in the anticipation of defense to T.ni. Additionally,jasmonicacid (JA) and salicylic acid (SA) levels fluctuated constitutively in A.thaliana plants under DD and LL，in oppositely phased circadian cycles,and A.thaliana lines deficient in jasmonate biosynthesis (allene oxide synthase (aos), jasmonate resistant 1(jar1)were not better defended when entrained in-phase with T. ni (Goodspeed et al.2o12).This consistent effect of various plant clocks on the rhythmically feeding T.ni is intriguing,albeit difficult to understand in an evolutionary context,given thatT.ni has rarely been observed feeding on A. thaliana in nature (Jander 2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In a follow-up study,Goodspeed and colleagues (2013b) demonstrated circadian fluctuation of glucosinolate contents in A.thaliana leaves as well as in harvested cabbage,with glucosinolate contents peaking during the day at levels threefold the night-time trough.These fluctuations had a similar phase to the constitutive JAfluctuations demonstrated in the 2o12 study and were proposed as a direct,if not complete，explanation of synchronized plants’ superior resistance to T.ni,since this effectis likely to be mediated by JA-induced metabolites and not directly by JA (but see Kallenbach et al.2o12). However, the A. thaliana myb28myb29 mutant,which does not produce aliphatic glucosinolates,also displayed greater resistance to T.ni after co-entrainment of plantsand larvae,although overall resistance of myb28myb29 wasreduced in comparison to WT. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thus,the most straightforward interpretation of the studies by Goodspeed and colleagues is that circadian fluctuation in JA-mediated defenses allows plants to anticipate herbivore attack.However there are other interpretations,and the“anticipatorydefense\"hypothesissuffers from some weaknesses: unlike foliar pathogens, herbivores do not depend on a circadian cycle of stomatal opening for attack. Even herbivores from the same family,sharing the same host plant，and sensitive to overlapping suites of jasmonatemediated defenses may attack at different times of day, although individual herbivores do have characteristic activity patterns; and herbivore population dynamics are unpredictable (Wigglesworth 1972; Denno et al. 1995; Jander 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We thus asked whether anticipatory defense can be observed in other plant-herbivore pairs (Jander 2012). Specifically,we tested whether the resistance of the wild tobacco Nicotiana attenuata Torr.ex.Watson (Solanaceae) to its specialist herbivore Manduca sexta Linne (Sphingidae) is also reduced when plantsand herbivoresare entrained out-ofphase with each other.M.sexta is both among the most damaging herbivores of N.attenuata,as well as an important pollinator (Kessler 2o12).The intertwined evolutionary history of these two organisms should have afforded the opportunity for N. attenuata to anticipate attack by M. sexta larvae using any robust and expedient means. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We tested the hypothesis that out-of-phase entrainment of N. attenuata increases M. sexta growth and decreases N.attenuata'selicitation of defense compounds under constant or diurnal experimental conditions. In designing our experiments,we considered that constant conditions can have detrimental effects on plant physiology: physiological disorders and photodamage in constant light (reviewed in Sysoeva et al. 2010),or carbon starvation in constant dark (e.g.,Graf et al. 2010).In order to demonstrate a direct mechanism for the observed growth of M.sexta on differently entrained plants,we analyzed leaf material for general metabolomic fingerprintsas well as target specialized metabolites before and after M.sexta feeding for all experimental set-ups,rather than analyzing levels of defense signaling hormones.N.attenuata accumulates a panoply of defense compounds in shoot tissue in response to M.sexta feeding,which have well-characterized effects on M. sexta growth rates.These include hydroxygeranylinaloolditerpene glycosides (HGL-DTGs,Heiling et al.201o), phenolics and putrescine conjugates (Kaur et al. 2o1o)，and trypsin protease inhibitors (Zavala and Baldwin 2oo4).Although M.sexta is tolerant to high levels of nicotine,its growth is also reduced on nicotine-containing compared to nicotinedeficient plants, likely due to the metabolic cost of detoxification for larvae (Steppuhn et al.2004). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Weobserved no difference in either M. sexta growth or N.attenuata's elicitation of defense compounds as a result of synchronousversus asynchronous entrainment ofplants and larvae under diurnal (LD) conditions;a small increase in production of defense compounds by asynchronously entrained plants and no difference in M. sexta growth under constant light(LL);and a transient increase in M.sexta growth coupled to a reduction in levels of defense metabolites,which already tended to be low,forasynchronously entrained pairs under constant dark (DD).We conclude that,while placing plants under constant conditions - especially DD - stresses plantsand alters their capacity to mount resistance, there is no effect of in-phase versus out-of-phase entrainment of plants andherbivores onN.attenuata'sabilityto resistM.sextaattack. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GrowthofM.sexta larvae ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We entrained plants under one of two regimes:in-phase or outof-phase,infested plants with M.sexta larvae,which had been entrained under the in-phase regime,and measured larval growth under diurnal (LD) or constant conditions (LL，DD; $n = 2 6 - 4 5$ larvae, Figure 1). Under all three conditions,growth of M.sexta larvae (Figure 2) was similar on in-phase and out-ofphase plants ( $\\lceil P > 0 . 1 3 \\rceil$ ,statistical test results in Table S1).There was only a single measurement,day 7 under DD,for which larvae feeding on out-of-phase plants were significantly heavier than larvae on in-phase plants ( $\\begin{array} { r } { P = 0 . 0 2 9 3 , } \\end{array}$ ).However,overall growth rates of larvae were reduced under DD，as was mortality at the end of the 9 d experiment (DD, $2 7 \\%$ mortality; LL, $4 3 \\%$ LD, $3 7 \\%$ ；DDVS.LL, $\\mathsf { \\Pi } ^ { P = 0 . 0 3 8 }$ ； DD VS. LD, $P = 0 . 3 0 0$ Bonferroni-corrected G-tests of independence).Mortality did not differ between larvae on in-and out-of-phase plants (DD, $3 3 . 3 \\%$ and $2 0 . 0 \\% ,$ ， $P = 0 . 2 8 7 0$ ；under LL， $4 8 . 9 \\%$ and $3 7 . 8 \\% ,$ （20 $\\boldsymbol { \\mathsf { P } } = \\boldsymbol { \\mathsf { 0 } } ,$ 1510; under LD, $4 1 . 7 \\%$ and $3 1 . 7 \\% ,$ $, P = 0 . 2 7 3 4 ,$ ).While larvae also developed through instarsat similar rates on in-phase and out-of-phase plants,development through instars was slower under DD when compared to LL(day 9: DD,mode: end of $3 ^ { \\mathsf { r d } }$ to beginning of $4 ^ { \\mathrm { t h } }$ instar; LL: middle to end of $4 ^ { \\mathrm { t h } }$ instar). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Untargeted metabolomic fingerprints of in-phase and outof-phase plants ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Metabolomic fingerprints measured in positive electrospray mode，which captures the majority of known induced metabolites in N. attenuata (Gaquerel et al. 2o1o; Kim et al. 2011),were similar for in-phase and out-of-phase rosette-stage N.attenuataplantsafter3d of herbivory byM.sexta larvae under LL,DD,and LD( $\\displaystyle { \\mathfrak { n } } = 5$ plants).We used both principal component analysis(PCA，Figures 3，S1) and volcano plots (Figure S2, File S1) to visualize the differences between sample groups.Metabolomic fingerprints of in-phase and out-ofphase plants in PCAsdiffered before herbivory in LL and LD, but did not differ after 3 d of herbivory，as revealed by overlapping confidence intervals for the sample groups; similarly，overlap was greater in DD after3 d of herbivory (Figure 3).The explanatory value of PCA axes for the separation of sample groups is difficult to compare between individual PCAs,but separation in metabolomics fingerprints before and after herbivory was more pronounced in LLand LD than in DD，indicating a stronger response of plants to herbivory in LL and LD. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6237253eebb2f9d7efce2daa23e831fa619fdcdb34bc0a242ee5b4adecd140b6.jpg",
+        "img_caption": [
+            "Figure1.Experimental designs for assaying entrainment effects under constant or diurnal conditions ",
+            "Plantsandeggswere transferedfromtheirrespectiveentrainmentregimetoconstantconditions1dbefore infestation (A),or fordiuralconditions (B),out-of-phaseplants were transfered tothelight/darkregimeunderwhichin-phase plantsandlarvae had been entrained,and infestation followed immediately. Manduca sexta infestation lasted for ${ 3 } { \\mathsf { d } } ,$ ，afterwhich larvae were placed on new,entrained plants of the same treatment group.Afterday3,transfer to new plants occurrd every 2ddue to increasedlarvalfeding damage (notdepicted).Boxes represent12hintervalsof eitherlight (white squares)ordark (black squares);thechangefromdiurnaltoconstantconditions (constantlight,LLorconstantdark,DD)is idicatedbythechangeto greypanels.M.sextaarvaealwaysreceivedthein-phaseentrainmentregimewhileNicotianaattenuataplantsreceivedin-phase orout-of-phase entrainment regimes.Angled arrowsfrom above showtime points at whichleaf tissue was colected (before transfer to constant conditions,before and $3 0$ after infestation by M.sexta larvae);arrows from below show when M.sexta larvaeweretransferredtoorfrom plants.Plants weregrown intheirrespectiveentrainmentregimes forat least1od,while M.sexta were entrainedas eggs and neonates forat least1d before infestationof plants (larvae hatched withinthe last12h before infestation). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Transfer to constant conditions(LL and DD) itself had a strong effect on plant metabolic fingerprints:adding plant samples taken before a 1 d pre-infestation period (see methods) to PCAs for LL and DD shows that in-phase(12 h light:12 h dark) and out-of-phase plants (12 h dark:12 h light) in fact became less similar after 1 d of exposure to constant conditions (Figure S1). Only a small number of $\\mathsf { m } / z$ features (2o) had a more than two-fold change and a P-value $< 0 . 0 5$ in a comparison of in-phase and out-of-phase plants after 3 d herbivory inLL．Similarly，only $1 4 \\mathsf { m } / z$ features showed significant differences between in-phase and out-of-phase plantsafter3d herbivory inLD,while $6 6 \\mathsf { m } / z$ features showed significant differences between in-phase and out-of-phase plants after3 d herbivory in DD(Figure S2).Hyponastyand strong reductions in starch contentswere observed for plants in DD (Figure S3), indicating that stress responses to DD might have modified the induced defense response. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Quantificationoftargetspecializedmetabolites ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because separation along PC1 in PCAs (Figure 3) likely reflects changes to both general (primary) and specialized metabolism induced by herbivory(e.g.,Schwachtje and Baldwin 2008; Machado et al.2o13),we chose to quantify a number of wellcharacterized defense metabolites forwhich an effect on M. sexta growth had been shown in previous studies:nicotine (e.g.,Steppuhn et al.2oo4),17-hydroxygeranyllinalool diterpene glycosides (17-HGL-DTGs， Heiling et al. 2010)，and caffeoylputrescine (CP,Kaur et al.2o1o). Because we were interested in the effect of entrainment on the induced plant defense response,we show targeted metabolite data for the timepointafter3 d herbivory( $\\displaystyle \\dot { \\boldsymbol { n } } = 5$ plants, Figure 4).These defense metabolites accumulated to similar levels for in",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f8c7c514cc4e577d800c8100e66da91b1e22fa643fd46be679a2b4b04701b16.jpg",
+        "img_caption": [
+            "Figure 2.Manduca sexta larvae grow similarly on in-phase and out-of-phase Nicotiana attenuata plants under constant or diurnal conditions "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "M. sexta growth was monitored from day 5， to avoid increasing mortality of very young larvae，until day9 (corresponding to the $2 ^ { \\mathsf { n d } }$ through $4 ^ { \\mathrm { t h } }$ of 5 instars). (A) In LL,larval performance was similar on in-phase and out-ofphase plants for all three timepoints.(B) In DD larvae on outof-phase plants were significantly heavier ( $' ^ { * } P \\mathrm { - v a l u e } < 0 . 0 5 )$ on day7,but not for the other two timepoints.Furthermore, final larvalmass on day 9 was much lowerin DD than in LL or in LD. (C) In LD，larval performance was similar at all three timepoints and larval had a similar finalmass on day9as in LL.Thus,larval growth did not differ overall on in-phase versus out-of-phase treatments under any of the three light conditions. Wilcoxon rank-sumtests were performed to compare treatments within each time point and regime. Shown are means $\\pm S E$ ；forconstant light (LL), $n = 2 3 - 2 9$ ；for constant dark (DD), $n = 3 0 - 3 7 ;$ and for diurnal conditions (LD), $n = 3 5 - 4 6$ larvae.Treatment labels in panel (a)apply to all charts.Weighing of larvae coincided with the exchange of plants (see Figure 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "phase and out-of-phase plants under LL and LD,except for CP under LL (Figure 4, $\\mathfrak { t } = - 2 . 6 4 9$ ${ \\mathsf { d f } } = 8$ $\\pmb { { \\cal P } } = 0 . 0 2 9 3$ ,all other P-values $> 0 . 1 7$ ,Table S2). Accumulation of CP was in fact lower for in-phase than out-of-phase LL plants,which is not ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/51ffc40b79df828d183798959b7b3639bd203dcfe1713f6cfc6dfb5163c5fa7e.jpg",
+        "img_caption": [
+            "Figure 3.In-phase and out-of-phase Nicotiana attenuata plants respond similarly to Manduca sexta attack under constant or diurnal conditions "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Principal component analyses (PCAs）were conducted on metabolomic fingerprints of plant samples $\\mathtt { \\Delta } \\mathtt { \\tilde { n } } = 5$ plants/ treatment) takenbefore orafterM.sexta infestation foreach regime. (A) In LL,confidence intervals of treatment groups (in-phase and out-of-phase) did not overlap before herbivory, but did so after herbivory.(B) However，in DD,confidence intervalsoverlapped beforeand afterherbivory,althoughthe zone of overlap grew after herbivory.(C) Similarly，in LD, confidence intervals overlapped after，but not before herbivory.Overall,in-phase and out-of-phase plants became similarafter 3d herbivory under the respective light regimes. Filled symbols stand for samples collected before herbivory, and empty symbols stand for samples collected after 3 d herbivory，under the respective light regime.Dashed and dotted lines delineate $9 5 \\%$ confidence intervals；groups for which confidence intervals do not overlap are considered significantly different. Treatment groups differed due to induced defense in response to $3 0$ of herbivory (principal component 1，PC1) and effects due to prior entrainment conditions (PC2）as well as by the effects of continued exposure to the respective light regime (PC1 and PC2),and interactions of these factors (see also PCAs in supplementary information for sample groups collected before pre- infestation treatment; similar effects explain the separation along PC1 and PC2 in those cases). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "consistent with the hypothesis that in-phase plants are better defendedagainst herbivores. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "However,in-phase plants accumulated significantly more nicotine and HGL-DTGs than out-of-phase plants under DD (Figure 4, nicotine: ${ \\sf t } = 2 . 9 0 1$ ， ${ \\mathsf { d f } } = 8$ ， ${ \\sf P } = 0 . 0 1 9 9$ ；HGL-DTGs: $t = 2 . 3 2 7$ ,df $= 8$ $\\begin{array} { r } { P = 0 . 0 4 8 4 \\mathrm { . } } \\end{array}$ ),consistent with theanticipatory defense hypothesis. In DD, levels of HGL-DTGs were very low in comparison to levels in plants grown under LL and LD conditions,and CP accumulation was too low to quantify. In ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f115ee15f6c0d95eb8598a2f6ed0c772980e53cbf8dbc3fe9d596e65102c339.jpg",
+        "img_caption": [
+            "Figure 4.Specific herbivory-induced defense metabolites in leaves of Nicotiana attenuata respond differently to entrainmentaswell as light regime "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Concentrations of nicotine (A),total hydroxygeranyllinalool diterpene glycosides (HGL-DTGs,B) and caffeoylputrescine (CP,C) in in-phase or out-of-phase plantsafter3 d ofM.sexta infestation ( $\\displaystyle { \\mathfrak { n } } = 5$ plants/treatment).To facilitate comparisons between different light regimes,panels within a compound are shown with the same scale,but not for HGL-DTGs in DD (inset). Nicotine and HGL-DTGs differed significantly $( ^ { * } P < 0 . 0 5 )$ between in-phase and out-of-phase plants under DD while CP differed significantly under LL;all in-phase and out-of-phase pairs were compared using Student's t-tests,and no other significant differences were found.FM, fresh mass. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "fact,irrespective of entrainment,HGL-DTGs decreased over time in plants under DD (mean $\\pm { \\sf S E }$ ， $n = 5 ,$ inrelative peak area/g FM,before placement in DD:in-phase $6 6 . 4 \\pm 8 . 3$ ,outof-phase $3 6 . 8 \\pm 6 . 3 ;$ after $2 4 \\mathsf { h }$ DD: in-phase $4 1 . 5 \\pm 9 . 1 _ { \\cdot }$ out-ofphase $2 0 . 6 \\pm 4 . 9 ;$ ：after3 d herbivory (4 d DD):in-phase $1 0 . 9 \\pm 2 . 4$ ，out-of-phase $4 . 6 \\pm 1 . 2 )$ ；incontrast， nicotine accumulation under DD was similar to levels under LL and LD.These subtle differences in metabolites between in-phase and out-of-phase plants under DD did not affect M.sexta growth (Figure 2，Table S1).Rather， they highlight how constant conditions might dampen or alter defense induction, as does the fact that plants under LL accumulated HGL-DTGs to higher levels than plants under LD (Figure 4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Feeding patterns of M. sexta larvae under diurnal and constant conditions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have indicated a strong dependence of M. sexta activity on temperature (Kingsolver and Woods 1997; Petersen et al.2ooo). Lamps in our climate chambers emit infrared as well as visible light,and we hypothesized that the infrared irradiation especially might have increased the temperature of chambers during light periods when compared to dark periods.In the M.sexta growth assays,neonates initially placed on the adaxial surface of rosette leaves could be found allover the plant several days later, frequently sitting on the abaxial side or on the edge of leaves.Furthermore, observations of caterpillar behavior in the glasshouse,as well as in the field (e.g., Casey 1976),show that M. sexta larvae prefer to sit hidden under leaves.We thus measured temperatures below the surface of plants'leaves,at four different positions in each of the two climate chambers for at least 2 d,using pendant data loggers.Temperatures during dark periods reflected the set temperatures of the climate chambers (approximately $2 4 ^ { \\circ } C ,$ ，but temperatures under leaves during light periods deviated from set temperatures by approximately $3 ^ { \\circ } \\mathsf { C }$ (Table S3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We checked for diurnal fluctuation in M.sexta larval feedingactivity over $2 4 \\mathsf { h }$ ,followinga $2 4 \\mathsf { h }$ acclimation period under DD,LL,and LD conditions and temperatures: LL at $2 7 ^ { \\circ } \\mathsf { C }$ DD at $2 4 ^ { \\circ } \\mathsf C ,$ and LD with a changing regime of 12 h L $( 2 6 ^ { \\circ } C )$ ：12h D $( 2 4 ^ { \\circ } \\mathsf { C } )$ .Larvae were fed on freshly cut N.attenuata rosette leaves from a common pool of plants under in-phase LD conditions.After $2 4 \\mathsf { h }$ of acclimation, leaf area removed by larvae overanadditional $2 4 \\mathsf { h }$ in six 4h periods was quantified asa measure of feedingactivity ( $n = 5 { - } 6$ larvae; Figures 5,S4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Damage increased over the $2 4 \\mathsf { h }$ of the experiment under LLwith a leveling-off toward the end of the experiment,which can likely be attributed to the initiation of molting by larvae (Figure 5A). Similarly, there was an increase in damage over the course of the experiment under DD without discernible fluctuations in inflicted damage (Figure 5B). Damage in leaf area removed increased with larval mass as larvae grew (Table S4),so the total amount of leaf area removed increased over $2 4 \\mathsf { h } _ { \\div }$ ,and the low slope of the increase in damage rates under the constant conditions highlights the strong interdependence of larval size and damage. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Under LD conditions,damage rates increased over the first three time intervals,but dropped in the $4 ^ { \\mathrm { t h } }$ interval which followed the switch to the night regime,to increase again during the night (Figure 5C). However, in the $5 ^ { \\mathsf { t h } }$ and $6 ^ { \\mathrm { t h } }$ time intervals,in the middle and end of the night period,damage rates increased again.When normalized to larval mass, damage rates measured under LD conditions in the $1 ^ { \\mathsf { s t } }$ time interval, from 9:0o to 13:0o,and in the $4 ^ { \\mathrm { t h } } , 5 ^ { \\mathrm { t h } }$ and $6 ^ { \\mathrm { t h } }$ time intervals,from 21:oo to o9:oo,were significantly lower than rates measured in the $2 ^ { \\mathsf { n d } }$ and ${ 3 } ^ { \\mathsf { r d } }$ time intervals, between 13:00 and 21:oo (Figure S4,minimal linear mixed effects model, likelihood ratio: 26.36, $P < 0 . 0 0 0 1 _ { , }$ ). Incontrast,damage under LL and DD conditions occurred at a nearly constant rate per unit larval mass (Figure S4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus,damage inflicted to leaves by M.sexta larvae rapidly and steadily increased with increasing caterpillar mass under all conditions,with evidence of diurnal fluctuation.Feeding damage reached the highest rates under LL and was lowest under DD conditions regardless of whether rates were ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8715fd9f08e43a9998d471dc3aefe1cdb030840014f8d607bb9ac09463b2af5a.jpg",
+        "img_caption": [
+            "Figure 5.Damage by Manduca sexta larvae feeding on leaves ofNicotiana attenuata increases under all regimes "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Damage to N.attenuata leaves caused by five $2 ^ { \\mathsf { n d } }$ -instar $M$ sexta larvae after $2 4 \\mathsf { h }$ acclimatization under the three experimental regimes used (see Figure1),mean $\\pm { \\sf S E }$ 0 $\\overset { \\cdot } { \\boldsymbol { n } } =$ $5 ^ { - 6 }$ ).Note that Y-axes have different scales.Overall,damage from M.sexta larvae (consumed leaf area in $\\mathsf { c m } ^ { 2 } / \\mathsf { h } \\mathsf { i }$ increased two- to fourfold within $2 4 \\mathsf { h }$ under all three regimes (A-C). However under LD conditions， the amount of damage decreased initially after the onset of the dark phase (C).For choice of temperatures，see Results text and Table S3. Damage normalized to larval mass is shown in Figure S4; masses are given in Table S4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "corrected for larval mass (Figures 5，S4). This directly correlates with the differences in larval growth rates (Figure 2),changes to metabolic fingerprints under herbivory (Figure 3),and observed levels of HGL-DTGS and CP(Figure 4) under LD,LL,and DD. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Goodspeed and colleagues (Goodspeed et al.2012，2013a, 2013b）have proposed an“anticipatory defense”effect of enhanced plant resistance to insect herbivores conferred by correct entrainment with the environment and thus herbivore activity.Thiseffect has so far been observed only with the generalist Trichoplusia ni,which displays circadian feeding activity on artificial diet (Goodspeed et al.2o12).Here,we show a counterexample,in which co-entrainment with the specialist herbivore Manduca sexta does not benefit the wild tobacco Nicotiana attenuata.Consistent with reports of physiological stresses experienced by plants under constant light or dark conditions (Graf et al. 2o1o; Sysoeva et al.2010), our results also indicate that stress caused by constant experimental conditions may interfere with plant defense responses and thus confound results obtained under such artificial light and temperature regimes and thwart conclusions about the role of the clock in a plant's anti-herbivore defense. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "N.attenuata plants induced defense against M.sexta regardless of plant and larval entrainment ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Overall,M.sexta larval growth was similar on in-phase and outof-phase N.attenuata plants under three different experimental set-ups (Figure 1) using constant dark (DD),constant light (LL),or diurnal (LD) conditions,except for a small and transient,but significant increase in mass of larvae feeding on out-of-phase plants under DD.Larval growth was,however, slower under DD conditions,perhaps due to reduced feeding activity (Figures 5，S4）or less nutritious plant material (Figure S3). Lower temperatures under DD,in the absence of warming infrared radiation from lamps,might have reduced larval growth rates (Figure 5,Table S3; Kingsolver and Woods 1997；Petersen et al.2ooo). Metabolomic fingerprints of N.attenuata plants changed markedlyafter3 d of feeding by M.sexta larvae underall three conditions,and there was little difference between in-phase and out-of-phase plants after herbivory，even though these groups differed prior to herbivory under LL and LD conditions (Figure 3). However, metabolomic fingerprints from plants in DD were generally less affected by herbivory than were those from plants in LL or LD (Figure 3). Accumulation patterns of HGL-DTGs and CP in particular (Figure 4) suggest that these compounds depend strongly on light and，likely，available carbon (Figure S3; Wunsche et al. 2011). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M.sexta feedingactivity increasesrapidlyover time ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M.sexta larvae usually remain on plants from oviposition until they reach at least the third of five to six larval instars (e.g., Kingsolver and Nagle 2oo7). The green larvae are mobile within their host plants,using them as camouflage,adopting postures similar to branchesand hidingbeneath leaves,which mightalso help themto thermoregulate in their native desert habitat (as shown for M.quinquemaculata;Kessler and Baldwin 2oo2b);and indeed the timing of feeding bouts in nature may be largely independent of temperature (Casey 1976；Bernays and Woods 2ooo) even though the rate of growth and development is not (Kingsolver and Woods 1997; Petersen etal. 2ooo; Kingsolver and Nagle 2oo7).The larvae, if they survive,may not leave the plant until there is little plant material left (Schittko et al. 2000). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Perhaps N. attenuata plants benefit most from inducing defense to the maximum possible level at maximum speed in response to M.sexta attack,anticipating the rapid growth of sedentary larvae rather than diurnal fluctuations in their activity. In this study,underall conditions,M.sexta damages rates increased by two- to five-fold within $2 4 \\mathsf { h }$ as larvae grew (Figure S4). This rapid increase in damage with increasing size of larvae might mask temperature- and daytime-specific fluctuations；for example，feeding rates of second-instar M.sexta under LD conditions transiently decreased at the beginning of the dark phase，and this pattern was more apparent when damage rates were normalized to increasing larval size (Figures 5,S4). This decrease was likely due to diurnal temperature fluctuations; when M.sexta larvae were exposed to a 12 h:12h LD regime at constant temperature, there wasa fairly constant proportion of active animals over 24 h (Casey 1976). Differences in the magnitude of damage ratesbetween the three settings (i.e., leafarea removed was greatest in the LL setting and was lowest in the DD setting; note different scales in Figure 5)are probably due to a combination of slightly different larval growth rates，and different incubation temperature,because increased temperatures elevate feeding rates and,consequently，increase developmental rates of M.sexta larvae (Kingsolverand Woods 1997; Petersen et al. 2000). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Typical temperature fluctuations in N.attenuata'snative environment of the Great Basin Desert in UT are much stronger than those in our climate chambers: in spring,when M.sexta eggs are laid on plants,temperatures may fluctuate by more than $2 0 ^ { \\circ } C$ over $2 4 \\mathsf { h }$ .It will be interesting to investigate whether this large temperature change results in predictable diurnal fluctuations in M.sexta's feeding behavior in nature.If so,plants with a functioning circadian clock might in fact be able to anticipate diurnal rhythms of M. sexta feeding activity.The question is whether they would benefit from doing so，given M. sexta's rapid growth and the likelihood that plants in nature are attacked by a varied community of other herbivores (see for example Schittko et al.20oo; Glawe et al. 20o3; Steppuhn et al.20o4; Steppuhn and Baldwin 2oo8; Jander 2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When do plants anticipate attack,and when do they react to attackers? ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In contrast to pathogen attack,which is strongly correlated to diurnal humidity and temperature cycles (Bhardwaj etal.2011, Wang etal.2o11), herbivore activity may be less predictable on a daily time scale within a given environment.Rather,it is an intra-and interspecifically plastic trait subject to modification by external factors such as predator activity and availability of mating partners，and internal factors like nutritional status and hormones,in addition to the common circadian zeitgebers of light and temperature (Wigglesworth 1972; Jander 2o12). In nature,a single plant is often infested by multiple herbivore species (Denno et al. 1995).Variation in climate and other environmental factors among habitats,and previous attack by particular herbivores,may be more reliable predictors of future herbivore attack than are plastic activity peaks,resulting in geneticand epigeneticadaptation of plant populations (Agrawal et al. 2o12; Rasmann et al. 2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless,some plant-herbivore pairs may be affected by circadian fluctuations in herbivore activity and plant defense capacity:Arabidopsis thaliana plants were more resistant to T.ni herbivores under both DD and LL conditions whenplants andherbivoreshad been co-entrained (Goodspeed et al.2o12). In the case of A. thaliana and T. ni, it is difcult to interpret this interaction in an evolutionary context, since T.ni isa broad generalist, these two organisms have not co-evolved，and thus circadian fluctuations in A.thaliana's defense response cannot be said to occur specifically in anticipation of T.ni feeding (Jander 2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "One way to reconcile our data with those from Goodspeed et al.(2o12，2013b)is to hypothesize that these studies collectively describe a previously unrecognized difference between constitutive or generally damage-induced，and specifically herbivore-induced plant defenses (Bonaventure 2014).Constitutive production of plant defense metabolites may be,at least in part,regulated by the circadian clock (Kerwin et al.2o11);and in the absence of reliable,specific, contraindicative information about attackers,plants may maintain these endogenous rhythms,as when the generalist T.ni attacks A.thaliana or harvested fruits and vegetables (Goodspeed et al.2012,2013b).However，if plants receive specific and reliable information about the identity of an attacker, theymay be likely to engage ina targeted response which overrides constitutive rhythms. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Asimilarphenomenon hasalready been demonstrated for plant immunity: Wang et al. (2o11) showed that A. thaliana plants rhythmically pulse the transcription of genes involved in basal and R-gene-mediated defense under the control of a core clock gene，the MYB transcription factor CIRCADIAN CLOCK ASSOCIATED1 (CCA1)；but following attack by the oomycete Hyaloperonospora arabidopsidis,the R-gene-mediated response disrupted the rhythmicity and increased the amplitude of CCA1 gene expression,thus inducing sustained immune gene expression. The mechanisms behind the involvement of the clock in immunity have been further investigated bya handful of research groups using different strains of H.arabidopsidis，P. syringae，and pathogenassociated molecular patterns (PAMPs) (Bhardwaj et al. 2011; Wang et al. 2011; Zhang et al. 2013). A picture is emerging in which components of basal and R-gene-mediated defense fluctuate with individual circadian phases (expression of defense-related genes versus stomatal opening cycles),while specifically elicited responsesmay feed back on the clock to abolish constitutive rhythmicity - as has been shown for glucosinolate production in A. thaliana (Kerwin et al.2011). Thiscan be interpreted as an articulation of the long-known difference between constitutive and induced plant defenses, informed by an understanding of plant circadian clocks and their role in coordinating plant's activities (Kessler and Baldwin 2002a; Harmer 2009; Kerwin et al. 2011; Wang et al. 2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Interestingly， jasmonic acid (JA)and salicylic acid (SA) levels fluctuated constitutively in A. thaliana plants under DD and LL,in oppositely phased circadian cycles.Herbivory by T.ni increased the total amount of JA,but did not alter this rhythm，in contrast to the observations of altered rhythm following induction in plant-pathogen interactions (Wang et al.2011; Zhang et al. 2013). The JA peak in wild-type (WT) plants preceded a maximum of feeding activity of T.ni towards the end of the subjective day and thus could have indicated anticipation of attack (Goodspeed et al. 2012). In accordance with this pattern of JA fluctuation，Shin et al. (2012) showed in A. thaliana that MYC2,a transcription factor which mediates jasmonate signaling,oscillates in transcript levels as well as protein levels throughout the day with a maximum toward dusk. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Analternative hypothesis is that the constitutive, circadian-controlled opposed oscillation of jasmonates and salicylates identified by Goodspeed et al. (2012，2013a) is a general defense priming mechanism in A.thaliana,but not in N.attenuata.Many snail and slug species are known to attack A.thaliana,and these ravenous herbivores are both highly mobile,and generally nocturnal (Falk et al. 2o13). Application of the locomotion mucus of at least one snail species to wounded A. thaliana leaves is known to induce accumulation of jasmonates (Falk et al.2o13),but many slugs and snails also induce salicylate-related pathways (Meldau et al. 2014), presumably via the pathogens that reside in their mucus. Attack by molluscs at night might mean a greater risk of infection with pathogens.As for attack by pathogens,attack by molluscan herbivores is also highly dependenton predictable diurnal fluctuations in temperature and humidity, and the circadian clock is implicated in balancing pathogen defense with growth in A.thaliana (Zhang et al.2o13). Perhaps A.thaliana has evolved to anticipate more regular and predictable patterns of attack than the opportunistic, ephemeral desert annual N.attenuata. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Nicotiana attenuata supports a diverse herbivore community, among which the most damaging insect herbivore,Manduca sexta may have an activity pattern dominated by rapidly increasing，rather than diurnally predictable activity.While defense responses to herbivores can reduce growth in N.attenuata (reviewed in Steppuhn and Baldwin 2008), plants that induce defense against herbivores also are fitter than those that do not (e.g.，Zavala and Baldwin 2004), and thus evolutionary pressure may push N.attenuata plants not to anticipate attack，but to rapidly respond when it occurs.N.attenuata relies on constitutive as well as induced defense: for example,nicotine and 17-HGL-DTGs have both a constitutive and induced component (Baldwin 1999; Heiling et al.2o1o)；but the induced component dominates in magnitude and complexity (Wu and Baldwin 2o1o; Gaquerel et al.2o1o)，suggesting that constitutive fluctuations in N.attenuata's defenses may be obviated bya strong induced response，which might be less affected by the plant's internal rhythm.To the extent that there are diurnal fluctuations in N.attenuata's induced defense metabolites (Kim et al.2o11)，these may be indicative of physiological coordination between general and specialized metabolism and might have little effect on plant resistance to herbivores. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Studies using transgenic N. attenuata plants with altered circadian clock components may allow a closer investigation of the relationship between plant and insect diurnal rhythms,in the natural conditions underwhich N.attenuata evolved. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods for supplementary data，and expanded explanations of experimental and analysis procedures,are given in a supplementary materials and methods section. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cultivation of Nicotiana attenuata plants ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All experiments were performed with N.attenuata Torr.Ex. Wats.(Solanaceae） wild-type (WT） plants from a $3 1 ^ { 5 ^ { \\mathrm { t } } } .$ generation inbred line originating from a natural population at the Desert Inn Ranch in Utah,UT,USA in 1988 (Glawe et al. 2003). Germination and growth conditions until potting were as previously described (Krügel et al. 2oo2; Schuman et al. 2014).Twenty days after germination, individual small rosette plants were transplanted to 1 L plastic pots containing FruhsdorferNullerde (HawitaGruppe,Vechta,Germany) with 0.5 g/LPG mix (Yara UK Limited,N E Lincolnshire,UK), $0 . 9 \\mathrm { g } / \\mathrm { L }$ $\\mathsf { C a } ( \\mathsf { H } _ { 2 } \\mathsf { P O } _ { 4 } ) _ { 2 } ,$ ${ } _ { 2 } \\mathsf { P O } _ { 4 } \\mathsf { ) } _ { 2 } , \\ 0 . 3 5 \\mathsf { g } / { \\mathsf { L } } \\ \\mathsf { M g } { \\mathsf { S } } \\mathsf { O } _ { 4 } \\cdot 7 \\mathsf { H } _ { 2 } \\mathsf { O }$ (Sigma-Aldrich Chemie GmbH,Munich, Germany),and $\\tt { 0 . 0 5 5 8 / L }$ Micro Max (Everris GmbH,Nordhorn,Germany)，and cultivated in one of two climate chambers (Johnson Controls Unitary Products, Norman,OK,USA; dimensions: $4 . 0 0 \\mathrm { ~ m ~ l ~ } \\times 2 . 2 2 \\mathrm { ~ m ~ }$ W $\\times 2 . 3 5 \\mathsf { m }$ h)under either an in-phase regime (light o9:oo-21:oo/dark 21:00-o9:oo)or an out-of-phase regime (dark $0 9 { : } 0 0 { - } 2 1 { : } 0 0 /$ light 21:00-09:00)at $6 5 \\%$ RH and $2 4 ^ { \\circ } C$ forat least another 10 d prior to the start of experiments.The 12 h light period reflects a typical photophase forN.attenuata plants duringvegetative growth and flowering (May-June), based on PAR measurements taken in the wash in Southwestern UT in which we conduct field research,which is part of N.attenuata's native range (Y. Joo and colleagues,in preparation). Preliminary experiments demonstrated that N.attenuata plants flower underboth long-day(16 h light/8 h dark)and12h light/12h dark conditions. Light in climate chambers was provided by Master Sun-T PIA Agro 4oo W(Koninklijke Philips N.V., Eindhoven,The Netherlands）at $100 \\%$ intensity,approximately $4 0 0 \\mu \\mathrm { m o l } / \\mathrm { m } ^ { 2 }$ pers PAR (measured usinga Ll-COR Ll-25o A Light Meter und Sensor LI-COR Quantum Q 35195,LI-COR,Lincoln,NB,USA). Plants were watered initially with $2 0 0 \\mathsf { m L }$ per plant,and from then on daily with $1 0 0 \\mathrm { { m L } }$ per plant.Peter's Professional Allrounder 2o-2o-2o N-P-K+TE fertilizer (Everris) was added once per week at a concentration of $0 . 7 5 \\mathrm { g } / \\mathsf { L }$ . Plants were used for the larval growth experiments under constant dark (DD), constant light (LL),or in-phase diurnal (LD) conditions after entrainment.To quantify larval feedingactivity, leaves were cut every $4 \\ h$ from a designated batch of rosette-stage plants cultivated under in-phase LD conditions,and batches were not re-used. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Manducasexta larvae ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Manduca sexta eggs originated from an in-house colony at the Max Planck Institute for Chemical Ecology in Jena. Larvae hatched within 5 d after oviposition.For growth assays,eggs were incubated under the in-phase entrainment conditions in the climate chamber forat least2d,and foran additional 1d under either LL or DD for experiments under constant conditions (Figure 1). Egg collection and incubation were timed such that most eggs hatched within the last 12 h of incubation.At the end of incubation, featherweight forceps were used to place freshly hatched M. sexta neonates on leaves. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "M.sexta growth assays ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We decided not only to emulate the experimental set-up of Goodspeed et al. (2o12） under constant conditions but, additionally,we established a set-up under diurnal conditions in which plants entrained under the out-of-phase regime (12 h:12h dark:light，DL) were transferred to the in-phase regime (12 h:12 h LD) and kept under in-phase conditions for $2 - 3$ d.A detailed justification is given in the supplementary materials and methods.Plants were entrained under either in-phase or out-of-phase conditions (see cultivationof Nicotiana attenuata plants) and M.sexta eggs were entrained under in-phase conditions (see Manduca sexta larvae).When N.attenuata plants enter the flowering stage，herbivoryinduced defense responses are reduced(Diezel et al.2o11), but small rosettes would not have provided sufficient food for M.sexta larvae.We therefore used plants that were in full rosette to early elongating stages (31-33 d post-germination) at the start of assays.Larvae were kept under LL,DD,or in-phase LD conditions after entrainment until the end of the assay and transferred to new,entrained plants every 2-3 d to reduce habituation of plants to experimental conditions, orreduce the exacerbation of off-target effects due to prolonged exposure to constant conditions (Graf et al. 2010; Sysoeva et al. 201o; Jänkänpää et al. 2012). All plants were from the same synchronously germinated batch,so plants and larvae both aged over the course of the assay. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For diurnal (LD) conditions,at 9:oo on the first day of the experiment (lights-on in the in-phase chamber,lights-off in the out-of-phase chamber),1o plants were transferred from the out-of-phase to the in-phase chamber.Six recently hatched M.sexta larvae were placed per plant on 1o in-phase and 10 out-of-phase N.attenuata plants (see Figure 1); larvae were distributed evenly amongthree similar，fully-developed rosette leaves on each plant. Plants of the same treatment were kept together in trays (five plants/tray) distributed in the chamber,so that if larvae moved between plants, they were most likely to move onto a plant of the same treatment. After3 d,2o new out-of-phase plants were transferred to the in-phase chamber and plants in each treatment were exchanged for undamaged plants with the respective prior entrainment.Two to three larvae (if possible, from the same plant)were placed together on a new plant of the same treatment.Due to mortality, some larvae were lost and from day4 some also moved between plants,and thus larvae,not plants，were treated as biological replicates.Subsequent exchanges of plants were conducted every 2 d as described. At the second exchange of plants (5 d) and at all remaining exchanges (7 and 9 d), larvae were weighed, since younger larvae experienced higher mortality after weighing;mass was determined t $_ { 0 } \\pm 0 . 0 0 1 \\mathrm { g }$ with a laboratory balance (Sartorius AG,Gottingen,Germany).Larval growth is interpreted as an indicator of both larval performance and plant resistance (e.g.， Zavala and Baldwin 2oo4). The experiment was terminated when the largest larvae $( 4 ^ { \\mathrm { t h } }$ or early $5 ^ { \\mathsf { t h } }$ instar) began actively looking for host plants outside the trays containing plants of a single treatment. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Constant conditions were achieved using two climate chambers set to opposite 12 h:12h LD cycles (the same chambers used simultaneously for in- and out-of-phase entrainment),so that plants for exchange remained entrained to the correct light regime,while organisms could be exposed to DD or LL by transferring plants and larvae between chambersevery $1 2 \\mathsf { h }$ ：For pre-infestation treatment and M.sexta infestation in DD,transfer without exposure to light was achieved by placing organisms in lightproof containers at the end of the 12 h dark phase and then transferring them to the other climate chamber after it entered the dark phase. Three green LED lights ( $\\lambda = 5 2 0 \\ : \\mathrm { { n m } }$ ,each 1W) were used for illumination of entire chambers during experimental measurements under DD,and curtains were hung in front of chamber doors to avoid accidental light exposure from outside.For LL, organisms were transferred uncovered between chambers every 12h.Experimental setups under DD and LL were conducted simultaneously.One day before M.sexta infestation,at 9:oo (lights-on in the in-phase and lights-off in the outof-phase chamber),five each of in-phase and out-of-phase plants were transferred from their prior entrainment regime to the respective constant conditions.This1d pre-infestation exposure to constant conditions was done to avoid differences due to confounding effects from prior entrainment regimes (e.g.， nutritive state; Goodspeed et al. 2012). Simultaneously，M. sexta eggs were also transferred to constant conditions.After 1 d under constant conditions, freshly hatched M.sexta larvae were placed on three fully developed rosette leaves of N.attenuata WT plants: nine neonates/plant on five plants/treatment in each chamber; larvae were placed as described for diurnal conditions.After 3 d,plants in each treatment were exchanged for undamaged plants with the same entrainment and 1 d pre-infestation treatment in constant conditions.At the first exchange of plants (3 d),10 plants of each treatment were used,so densities were reduced to four to five larvae/plant (if possible larvae were transferred from the same previous plant). In subsequent exchanges of plants,we tried to even out the number of larvae per plant as number of larvae decreased due to mortality,and three to four from one plant were placed together on a new plant.At the second exchange of plants and at all remaining exchanges,the larvae were weighed as described for LD.Again,the first exchange occurred 3 dafter infestation while subsequent exchanges occurred at 2 d intervals (days 5,7 and 9). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Plant tissue samples from M.sexta growth assays ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For LD,one fully developed rosette leaf was collected from eachplantbefore infestationwithM.sexta,andafter3dof herbivory,either the most heavily attacked,fully developed rosette leaf was collected,ora similaramount of leaf tissue was pooled from multiple such leaves,if these leaves all had similar amounts of tissue removed by M.sexta.For DD and LL, leaves at position o (oldest leaf undergoing the transition between sink and source) were collected before the 1d preinfestation treatment in constant conditions； leaves at position $+ 1$ (youngest source leaf) were collected prior to infestation with M.sexta，and leaves were collected as described forLDafter3 dofM.sexta infestation.The same plants were thus sampled two to three times.Midveins were removed,because small larvae normally do not feed on these leaf parts,and leaveswere flash-frozen in liquid nitrogenand stored at ${ - 8 0 } ^ { \\circ } { \\mathsf { C } } .$ Tissue was ground and aliquoted over liquid nitrogen immediately before extraction.Plants were treated as biological replicates for measures of plant metabolites. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Extraction of plant metabolites for fingerprinting and targetedanalysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Per tissue sample ( $\\displaystyle \\boldsymbol { \\mathbf { \\acute { n } } } = 5$ plants), $5 5 \\pm 5 \\mathrm { m g }$ of frozen,ground leaf material were weighed into $2 \\mathsf { m L }$ Eppendorf tubes and masses were recorded $_ { ( \\pm 0 . 0 0 0 1 \\mathrm { g } }$ weighed with a balance from Sartorius AG).Extraction of metabolites was performed as described by Gaquerel and colleagues (2o1o) using $5 0 0 \\mu \\mathrm { L }$ extraction buffer without internal standards ( $4 0 \\%$ methanol (HPLC grade; VWR International Ltd., Leicestershire,UK), $\\mathsf { v } / \\mathsf { v } .$ containing $4 0 \\mathsf { m } M$ acetic acid (MerckKGaA，Darmstadt, Germany)and $4 4 \\mathsf { m } M$ ammoniumacetate(SigmaAldrich); pH 4.8). Supernatants were transferred to a $1 . 5 \\mathsf { m L }$ HPLC crimP vial N11-1 HP with a $2 5 0 \\mu \\mathrm { L }$ micro-insert (MachereyNagel GmbH& Co.KG,Düren,Germany). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Metabolomic fingerprinting of plant tissue extracts ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Plant extracts were analyzed by liquid chromatographyelectrospray ionization-micro time of flight-mass spectrometry(LC-ESl-microToF-MS，Bruker Daltonik GmbH，Bremen, Germany） in positive mode as described by Gaquerel and colleagues (2o1o)，but with specific modifications of the procedure as detailed by Kim and colleagues (2o11) and with a $2 \\mu \\ L$ injection volume.Raw data files from the Bruker software (Data Analysis v4.o) were exported as net CDF format and were processed as described by Kim and colleagues (2011), including peak detection，retention time correction，and annotation of isotope and adduct ions using the bioconductor XCMS and CAMERA packages (http://www.bioconductor.org/; Smith et al. 2oo6; Tautenhahn et al. 2oo8; Benton et al. 2010). XCMS output files were processed using Microsoft Excel 2010. We deleted all $m / z$ features with a retention time ${ \\le } 4 0 { \\le }$ (calibration fluid),as well as features within the last 3o s of the chromatogram (contaminants).We selected single abundant features for each compound by removing ions identified as low-abundance isotopes $( ( M + 1 ) , ( M + 2 ) ,$ 、etc.).Peaks were set to o if they had a relative intensity $\\leq 9 0$ or if their specific compound did not appear in $3 / 4$ of the replicates of one treatment. Peak intensities of samples were normalized to $\\mathsf { g }$ fresh mass.After processing,the data sets comprised $6 9 3 { \\mathsf { m } } / z$ features for LL, $6 0 4 \\mathrm { m } / z$ features for DD,and $6 5 4 \\mathrm { m } / z$ features for LD. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Quantification of target plant specialized metabolites ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Plant extracts were also analyzed on a high-pressure liquid chromatograph coupled to a UV diode array detector (HPLCDAD,AgilentTechnologies,Santa Clara,CA,USA) as described by Oh et al. (2o12). Peak areas were integrated using Chromeleon (version 6.8；Dionex Corporation，Sunnyvale, CA,USA) and the amount of metabolites in plant tissue was calculated by comparison with external standard curves of nicotine，chlorogenic acid (CGA),and rutin (Sigma-Aldrich; 7.8,15.6,31.3,62.5,125 0r $2 5 0 ~ { \\mu \\mathrm { g / m L } }$ of each standard).To account for fluctuating measurement conditions,external standard curves were compared before,between,and after samples. Concentration values below the range of the standard curves were expressed as not quantifiable. Caffeoylputrescine (CP) was estimated based on external CGA calibration and expressed as ${ \\mu } \\mathsf { g c o a }$ equivalents. HGLDTG content was expressed as relative peak area.The amount of metabolites in the plant tissue was expressed as amount perg fresh mass (FM). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Quantification of feedingactivity ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We quantified feeding activityas $\\mathsf { c m } ^ { 2 } \\cdot \\mathsf { g }$ larval mass/h under the same light and temperature conditions used for M.sexta growth assays.Damage and larval mass were measured in $4 \\ h$ intervals over $2 4 \\mathsf { h }$ ，immediatelyfollowinga $2 4 \\mathsf { h }$ acclimation period.We employed temperature/light data loggers to determine accurate temperatures experienced by M. sexta larvae during growth assays (HOBO UA-oo2-64 Pendant Temp/Light，Onset Computer Corporation，Cape Cod,MA, USA,accuracy: temperature: $\\pm 0 . 5 3 ^ { \\circ } { \\mathsf C }$ from $0 ^ { \\circ } \\mathsf { C }$ to $5 0 { } ^ { \\circ } \\mathrm { C } ;$ logging interval: 1o min; logging time: at least 2 d). Because M. sexta larvae are often found under leaves,we placed the loggers shaded under rosette leaves on soil of potted plants. Loggers were placed in four positions distributed throughout each of the two climate chambers used for M.sexta growth assays. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We used Votsch growth chambers (VB 1014，Votsch Industrietechnik GmbH,Balingen-Frommern,Germany)with the following settings，determined by temperatures measured as described above: for LL, $2 4 \\mathsf { h }$ light at $2 7 ^ { \\circ } \\mathsf { C } ;$ forDD, $2 4 \\mathsf { h }$ dark at ${ 2 4 } ^ { \\circ } \\mathsf C ;$ and for LD,12h light at $2 6 ^ { \\circ } C / 1 2 \\mathsf { h }$ dark at ${ 2 4 } ^ { \\circ } \\mathsf C ;$ （204号 humidity was set to $6 5 \\%$ as in the climate chambers used for growth assays.Precautions to avoid light exposure for DD conditions and the dark phase of LD conditions were similar to the M.sexta growth assays: chambers were shielded from external light sources with curtains across the doors;in the dark，during work in the growth chamber，red light at a wavelength thought to be invisible to M.sexta larvae was used 0 $\\dot { \\lambda } = 7 2 0 \\mathsf { n m } ;$ ：Briscoe and Chittka 2oo1) and for the collection of rosette leaves in the dark phase of the climate chamber, green LED lights were used as previously described.Experiments began at 9:oo, the time used to switch between light and dark periods in growth assays.M. sexta eggs were incubated for $3 0$ inanin-phase climate chamber(see M. sexta growth assays) and after hatching, $9 ^ { - 1 2 }$ larvae/plant were placed on 5 plants and reared for $3 ^ { - 4 }$ d until they reached the $2 ^ { \\mathsf { n d } }$ instar.The time was chosen such that caterpillars would not molt during the $2 4 \\mathsf { h }$ of quantification. Five larvae were placed ina square Petri dish with plant material ( $\\overset { \\cdot } { \\boldsymbol { n } } = 8$ dishes) and acclimated under the light and temperature conditions of the respective assay for $2 4 \\mathsf { h }$ .Leaf material was provided as food duringacclimation and exchanged every 12 h; the bases of leaves were covered with water-soaked tissues to prevent water loss. Immediately following the $2 4 \\mathsf { h }$ acclimation,the larvae in each Petri dish were weighed together (see Table S4) and provided with two fresh rosette leaves.After each $4 \\ h$ interval,larvae were again weighed,old leaves were replaced with two freshly cut rosette leaves as described,and old leaves were scanned to quantify consumed leaf area.A $1 \\mathsf { c m } ^ { 2 }$ piece of millimetric paper was scanned alongside leaves as a sizestandard.Lines were drawn with the line tool in Adobe ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Photoshop (version CS2，Adobe Systems GmbH，Munich, Germany) if necessary to re-construct missing portions of the edges of leaves,and the wand tool was used if necessary to remove shadows originating from scanning;then missing leaf area was quantified with SigmaScan (SigmaScan Pro - Image Analysis,Version 5.0.0 Copyright 1987-1999 SPSS Inc., IBM, Armonk,NY, USA; in “fill’mode,with the following settings - fill: threshold method: auto threshold: % range:25). Leaf area removed was normalized by dividing by the actual time between exchanges of leaves $( 3 . 7 \\mathrm { - } 4 . 3 \\mathsf { h } )$ ，and dividing by the mass of larvae in the Petri dish at the start of the respective time interval.Of the 4o larvae in each condition, only one died under LL,three under DD,and two under LD conditions(mortality: $2 . 5 \\% - 7 . 5 \\% )$ and the corresponding replicates were excluded from data analysis，aswere replicates in which larvae did not begin to feed within the first $4 h$ of the experiment,or in which the majority of larvae began to molt; thus, the final number of replicates per assay was $n = 5 { - } 6$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Statistical tests of differences in M. sexta growth,targeted defense metabolites,and M.sexta feeding damage rates were performed in R (version 2.12.2, 2.15.0,or 3.0.2) using RStudio (version 0.97.551) (R Core Team,2012). Metabolomic fingerprinting data were analyzed in MetaboAnalyst (http://www. metaboanalyst.ca/，Xia et al. 2009，2012，2015): after first autoscaling to achieve normality and homoscedasticity，a principal component analysis (PCA)was conducted for all sample groups within a light regime (before transfer to constant conditions,before herbivory，and after3d herbivory) and,separately,only for the sample groups collected before and after3 d herbivory within a light regime.Additionally, volcano plots were generated to filter for significant differences in the abundance of individual $m / z$ features between leaf tissues of in-phase and out-of-phase plants after $3$ d herbivory.Significant differences within an $m / z$ feature were defined as a more than twofold change and a P-value $< 0 . 0 5$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For M.sexta growth and targeted metabolite data,we checked treatment groups graphically (quantile-quantile plots）and statistically (Shapiro-Wilk tests） for normality, and used F tests to check for homoscedasticity.When the requirements of normality and homoscedasticity were met, Student's t-tests were used to test for differences between inphase and out-of-phase plants.When data failed to meet one requirement and could not be made to meet these requirements by log transformation,we conducted Wilcoxon ranksum tests for independent samples. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate whether the leaf area consumed by M.sexta larvae differed between4h time intervals,and thus probably also light and dark periods,linear mixed effects models (lme；nlme package，Pinheiro et al.2013）were performed.We corrected for the fact that heavier larvae consume more plant material using the leaf area removed per $\\mathsf { g }$ initial larval mass per h as response variable (Table S4). Explanatory variables were the respective 4h time intervals (fixed effect)，and the replicate ID was set as a random intercept.The optimal fixed structure was found by stepwise model simplification and factor level reduction followed by the comparison of the models using likelihood ratio tests.This test was also used to obtain P-values.The minimal model was refitted with the restricted maximum likelihood method (REML） and validated for homogeneity of variances and normality of residuals (Zuur et al. 2009). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The authors gratefully acknowledge D.Veit as well as the gardening staff of the Max Planck Institute for Chemical Ecology for assistance establishing and maintaining experimental conditions.Data loggers for temperature measurement were kindly provided by Winfried Voigt,Institute for Ecology，Friedrich Schiller University Jena.This work was supported by funding from the Max Planck Society (all),the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig,funded by the German Research Foundation (FZT 118，M.C.S.)，the Global Research Lab program (2012055546) from the National Research Foundation of Korea(Y.J.),and a European Research Council advanced grant to I.T.B. (number 293926; I.T.B.,M.C.S., S.-G.K., and S.M.). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR CONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "J.H.,S.M.,S.K.,Y.J.,I.T.B.,and M.C.S. designed experiments. J.H.，S.M.，Y.J.，and M.C.S.conducted experiments.J.H. extracted and analyzed samples and J.H.and G.K.analyzed data.J.H.and M.C.S.wrote the first draft of the manuscript and all authors contributed to the revision and finalization of the manuscript. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Agrawal AA,Hastings AP,Johnson MTJ,Maron JL,Salminen J-P(2012) Insect herbivores drive real-time ecological and evolutionary change in plant populations.Science $3 3 8$ ：113-116   \nBaldwin IT (1999) Inducible nicotine production in native Nicotiana as an example of adaptive phenotypic plasticity.J Chem Ecol 25: $3 - 3 0$ （204号   \nBell-Pedersen D,Cassone VM，Earnest DJ,Golden SS,Hardin PE, Thomas TL,Zoran MJ(2oo5).Circadian rhythms from multiple Oscillators:Lessons from diverse organisms.Nat Rev Genet 4: 121-130   \nBenton HP,Want EJ,Ebbels TMD(2o1o) Correction of mass calibration gaps in liquid chromatography-mass spectrometry metabolomics data.Bioinformatics 26:2488   \nBernays E,Woods H (2ooo) Foraging in nature by larvae of Manduca sexta-influenced by an endogenous oscillation.J Insect Physiol 46: 825-836   \nBhardwaj V,MeierS,Petersen LN,Ingle RA,Roden LC (2o11) Defence responses of Arabidopsis thaliana to infection by Pseudomonas syringae are regulated by the circadian clock.PLoS ONE 6:e26968   \nBonaventure G (2o14） Plants recognize herbivorous insects by complex signalling networks.In:Voelckel C and Jander G,eds. Annual Plant Reviews Volume 47:Insect-Plant Interactions.First edn.John Wiley& Sons,Ltd,West Sussex,UK. pp.1-35   \nBriscoe AD,Chittka L(2oo1) The evolution of color vision in insects. Ann Rev Entomol 46: 471-510   \nCasey TM (1976)Activity patterns,body temperature and thermal ecology in two desert caterpillars (Lepidoptera:Sphingidae). Ecology 57: 485-497   \nDenno R，McClure M，Ott J(1995） Interspecific interactions in phytophagous insects: Competition reexamined and resurrected. Ann Rev Entomol 40: 297-331   \nDiezel C,Allmann S, Baldwin IT (2o11) Mechanisms of optimal defense patterns in Nicotiana attenuata: Flowering attenuates herbivoryelicited ethylene and jasmonate signaling.J Integr Plant Biol 53: 971-983   \nFalk KL, Kästner J, Bodenhausen N,Schramm K,Paetz C,Vassao DG, Reichelt M,von Knorre D,Bergelson J,Erb M,Gershenzon J, Meldau S (2013) The role of glucosinolates and the jasmonic acid pathway in resistance of Arabidopsis thaliana against molluscan herbivores.Mol Ecol 23: 1188-1203   \nGaquerel E,Heiling S,Schoettner M, Zurek G,Baldwin IT (2010) Development and validation of a liquid chromatography-electrospray ionization-time-of-flight mass spectrometry method for induced changes in Nicotiana attenuata leaves during simulated herbivory.JAgr Food Chem 58: 9418-9427   \nGlawe G，Zavala JA，Kessler A，Van Dam NM，Baldwin IT (2003） Ecological costs and benefits correlated with trypsin protease inhibitor production in Nicotiand attenuata. Ecology 84: 79-90   \nGoodspeed D, Chehab EW,Covington MF, Braam J(2o13a) Circadian control of jasmonates and salicylates:The clock role in plant defense.Plant Signal Behav 8:8-10   \nGoodspeed D,Chehab EW,Min-Venditti A,Braam J,Covington MF (2012）Arabidopsis synchronizes jasmonate-mediated defense with insect circadian behavior. Proc Natl Acad Sci USA 109: 4674-4677   \nGoodspeed D,Liu JD,Chehab EW,Sheng Z,Francisco M,Kliebenstein DJ, Braam J(2013b) Postharvest circadian entrainment enhances croP pest resistance and phytochemical cycling. Curr Biol 23: 1235-1241   \nGraf A, Schlereth A, Stitt M,Smith AM (201o) Circadian control of carbohydrate availability for growth in Arabidopsis plants at night. Proc Natl Acad Sci USA 107: 9458-9463   \nHarmer SL(2oo9) The circadian system in higher plants.Ann Rev Plant Biol 60: 357-377   \nHeiling S，Schuman MC，Schoettner M，Mukerjee P，Berger B, Schneider B，Jassbi AR，Baldwin IT (2010） Jasmonate and ppHsystemin regulate key malonylation steps in the biosynthesis of 17-hydroxygeranylinalool diterpene glycosides,an abundant and effective direct defense against herbivores in Nicotiand attenuata. Plant Cell 22: 273-292   \nJander G (2o12） Timely plant defenses protect against caterpillar herbivory. Proc Natl Acad Sci USA 109: 4343-4344   \nJänkänpää HJ,Mishra Y,Schroder WP, Jansson S (2o12) Metabolic profiling reveals metabolic shifts in Arabidopsis plants grown under different light conditions. Plant Cell Env 35: 1824-1836   \nKallenbach M, Bonaventure G,Gilardoni PA,Wissgott A,Baldwin IT (2012）PNAS Plus: Empoasca leafhoppers attack wild tobacco plants in a jasmonate-dependent manner and identify jasmonate mutants in natural populations. Proc Natl Acad Sci USA 109: E1548-E1557   \nKaur H,Heinzel N,Schttner M,Baldwin IT,Gälis I(2o1o） R2R3- NaMYB8 regulates the accumulation of phenylpropanoid-polyamine conjugates,which are essential for local and systemic defense against insect herbivores in Nicotiand attenuata.Plant Physiol 152: 1731-1747   \nKerwin RE, Jimenez-Gomez JM，Fulo PD,Harmer SL，Maloof JN, Kliebenstein DJ (2o11) Network quantitative trait loci mapping of circadian clock outputs identifies metabolic pathway-to-clock linkages in Arabidopsis. Plant Cell23: 471-485   \nKesser A,Baldwin IT (2oo2a) Plant responses to insect herbivory: The emerging molecular analysis.Ann Rev Plant Biol 53: 299- 328   \nKessler A, Baldwin IT (2oo2b) Manduca quinquemaculata's optimization of intra-plant oviposition to predation,food quality,and thermal constraints. Ecology 83: 2346-2354   \nKessler D (2o12） Context dependency of nectar reward-guided Oviposition. Entomol Exp Appl 144: 112-122   \nKim S-G,Yon F,Gaquerel E,Gulati J,Baldwin IT (2o11) Tissue specific diurnal rhythms of metabolites and their regulation during herbivore attack in a native tobacco, Nicotiana attenuata. PLoS ONE 6: e26214   \nKingsolver JG,Nagle A (2oo7） Evolutionary divergence in thermal sensitivity and diapause of field and laboratory populations of Manduca sexta. Physiol Biochem Zool 80: 473-479   \nKingsolver JG,Woods HA (1997) Thermal sensitivity of growth and feeding in Manduca sexta caterpillars. Physiol Zool 7o: 631-638   \nKrügel T，Lim M,Gase K, Halitschke R，Baldwin IT (2o02）Agrobacterium-mediated transformation of Nicotiana attenuata，a model ecological expression system. Chemoecology 12: 177-183   \nMachado RAR,Ferrieri AP,Robert CAM,Glauser G,Kallenbach M, Baldwin IT,Erb M (2o13) Leaf-herbivore attack reduces carbon reserves and regrowth from the roots via jasmonate and auxin signaling. New Phytol 200: 1234-1246   \nMeldau S,Kästner J, Von Knorre D, Baldwin IT (2014) Salicylic aciddependent gene expression is activated by locomotion mucus of different molluscan herbivores. Communintegr Biol 7: e28728   \nOh Y,Baldwin IT,Galis I(2o12) NaJAZh regulates a subset of defense responses against herbivores and spontaneous leaf necrosis in Nicotiana attenuata plants.Plant Physiol 159: 769-788   \nPetersen C,Woods HA, Kingsolver JG (2ooo) Stage-specific effects of temperature and dietary protein on growth and survival of Manduca sexta caterpillars.Physiol Entomol 25: 35-40   \nPinheiro J, Bates D,DebRoy S, Sarkar D,The R Development Core Team (2013) Nlme: Linear and Nonlinear Mixed Effects Models.R Package Version 3. pp.1-111   \nRasmann S,De Vos M,Casteel CL,Tian D,Halitschke R,Sun JY, Agrawal AA, Felton GW,Jander G (2o12) Herbivory in the previous generation primes plants for enhanced insect resistance.Plant Physiol 158: 854-863   \nR Core Team (2o12) R:A language and environment for statistical computing. URL http://www.R-project.org   \nSanchez A,Shin J,Davis SJ(2o11) Abiotic stress and the plant circadian clock. Plant Signal Behav 6: 223-231   \nSchittko U,Preston CA，Baldwin IT (2ooo） Eating the evidence? Manduca sexta larvae can not disrupt specific jasmonate induction in Nicotiana attenuata by rapid consumption.Ecology 49:343-346   \nSchuman MC,Palmer-Young EP,Schmidt A,Gershenzon J, Baldwin IT (2014) Ectopic TPS expression enhances sesquiterpene emission in Nicotiana attenuata without altering defense or development Of transgenic plants or neighbors. Plant Physiol 166: 779-797   \nSchwachtje J，Baldwin IT (2oo8）Why does herbivore attack reconfigureprimary metabolism? Plant Physiol 146: 845-851   \nShin J,Heidrich K,Sanchez-Villarreal A,Parker JE, Davis SJ(2012)TIME FOR COFFEE represses accumulation of the MYC2 transcription factor to provide time-of-day regulation of jasmonate signaling in Arabidopsis.Plant Cell 24: 2470-2482   \nSmith CA,Want EJ,O'Maille G,Abagyan R, Siuzdak G (2oo6) XCMS: Processing mass spectrometry data for metabolite profiling using nonlinear peak alignment，matching and identification.Anal Chem 78: 779-787   \nSteppuhn A, Baldwin IT(2oo8) Induced defenses and the cost-benefit paradigm.In: Schaller A,ed.Induced Plant Resistance to Herbivory. Springer Science $+$ Business Media B.V.: Dordrercht，The Netherlands. pp. $6 \\imath - 8 \\imath$ （204号   \nSteppuhn A,Gase K，Krock B，Halitschke R，Baldwin IT (2004) Nicotine's defensive function in nature.PLoS Biol 2: e217   \nSysoeva MI，Markovskaya EF，Shibaeva TG(2o1o） Plants under Continuous light: A review. Plant Stress 4: 5-17   \nTautenhahn R，Boettcher C,Neumann S (2oo8) Highly sensitive feature detection for high resolution LC/MS.BMc Bioinfo 9: 504   \nWang W,Barnaby JY,Tada Y,Li H,To M,Fu X, Dong X(2o11) Timing of plant immune responses by a central circadian regulator. Nature 470: 110-115   \nWigglesworth VB (1972) The Principles of Insect Physiology.Chapman and Hall,New York,NY,USA   \nWu J,Baldwin IT (2o1o） New insights into plant responses to the attack from insect herbivores. Ann Rev Genet 44: 1-24   \nWünsche H, Baldwin IT,Wu J(2011) Silencing NOA1 elevates herbivoryinduced jasmonic acid accumulation and compromises most of the carbon-based defense metabolites in Nicotiana attenuata. JIntegr Plant Biol 53: 619-631   \nXia J,Sinelnikov I, Han B,Wishart DS(2015） MetaboAnalyst 3.0 - making metabolomics more meaningful. Nucl Acids Res 43: W251-W257 (DOl: 10.1093/nar/gkv380)   \nXia J，Mandal R，Sinelnikov I，Broadhurst D，Wishart DS (2012) MetaboAnalyst 2.o -a comprehensive server for metabolomic data analysis. Nucl Acids Res 40: W127-W133   \nXia J,Psychogios N,Young N,Wishart DS (2oo9) MetaboAnalyst: A web server for metabolomic data analysis and interpretation. Nucl Acids Res 37: W652-W660   \nYerushalmi S,Green RM(2oo9) Evidence for the adaptive significance Of circadian rhythms. Ecol Let 12: 970-981   \nZavala JA,Baldwin IT (2oo4) Fitness benefits of trypsin proteinase inhibitor expression in Nicotiana attenuata are greater than their costs when plants are attacked. BMc Ecol 4: 11   \nZhang C, Xie $\\mathsf { Q } ,$ Anderson RG,Ng G,Seitz NC,Peterson T, McClung CR, McDowel JM, Kong D, Kwak JM,Lu H (2013) Crosstalk between the circadian clock and innate immunity in Arabidopsis.PLoS Pathog 9: e1003370   \nZuur AF, leno EN,Walker NJ,Saveliev AA,Smith GM(2oo9) Mixed Effects Models and Extensions in Ecology with R.In:Gail M, Krickeberg K，Samet JM，Tsiatis A，Wong W，eds.Springer Science $+$ Business Media,LLC,New York,NY,USA ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTING INFORMATION ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Additional supporting information may be found in the online version of this article at the publisher's web-site. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure S1.Metabolic fingerprints from in-phase and out-ofphase Nicotiana attenuata plants become less similarafter1d exposure to constant light or constant dark,but more similar after3dof herbivory ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Principal component analyses(PCAs）were conducted on metabolomic fingerprints of plant samples ( $\\displaystyle { n = 5 }$ plants/ treatment).For constant conditions,samples were collected before transfer to constant light (LL,A) or constant dark (DD，B)，as well as before and after Manduca sexta infestation.Dotted lines delineate $9 5 \\%$ confidence intervals. Treatment groups were separated by the effects of induced defense in response to 3 d herbivory (PC1） as well as effects due to prior entrainment conditions and/or their interactions with exposure to 1 d of constant conditions (PC2) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure S2.Volcano plots showing individual $m / z$ features demonstrate fewer differencesbetweenin-phase and out-of-phase plants after $3$ d herbivory in LL and LD than in DD ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathsf { x }$ -axis shows the $\\log _ { 2 }$ -transformed fold change (FC) between in-phase and out-of-phase plants for the individual $m / z$ features,and the y-axis shows the log1o-transformed P-values for t-tests between in-phase and out-of-phase plants for the individual $m / z$ feature; $n = 5$ .Significant $m / z$ features are denoted by $\\mathsf { \\Pi } ^ { P < 0 . 0 5 }$ and a fold change $\\leq - 2 \\mathsf { o r } \\geq 2$ (cut-off values denoting threshold lines in the graphs) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure S3.Plants kept under constant dark display hyponasty and carbon starvation ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Hyponasty (A) is indicative of a shade-avoidance response in mature plants.(B) Starch content was compared between inphase and out-of-phase plants within a time point using independent sample t-tests $( n = 5 )$ .Because in-phase plants were exposed to a 12 h night prior to DD treatment but out-ofphase plants were exposed to a 12h day,out-of-phase plants initially had greater amounts of starch（ $^ { \\prime * * * } P < 0 . 0 0 1$ ina Student's t-test versus in-phase plants at o d),but in-phase and out-of-phase plants had similar starch levels after 1d of acclimation. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure S4.Damage to Nicotiana attenuata leaves by secondinstar Manduca sexta larvae is roughly constant per unit larval mass under constant light and temperature conditions,but fluctuates under diurnal conditions   \nLeaf area damage caused by five $2 ^ { \\mathsf { n d } }$ -instar M. sexta larvae (leaf area in $\\mathsf { c m } ^ { 2 } \\mathsf { g }$ larval mass $^ { - 1 } { \\mathsf { h } } ^ { - 1 }$ after $2 4 \\mathsf { h }$ acclimatization under the three experimental regimes used (see Figure 1), mean $\\pm { \\sf S E }$ $( n = 5 - 6 )$ .Note that Y-axes have different scales. Damage rates per unit larval mass were relatively constant under constant light (LL） conditions or constant dark (DD) conditions，but fluctuated under diurnal (LD） conditions; for choice of temperatures, see Results text and Table S3. abDamage per unit mass was significantly greater in the two $4 \\mathsf { h }$ time intervals from 13:oo to 21:oo than in all other $4 \\ h$ time intervals under LD conditions: intervals which did not significantly differ were grouped and compared in a linear mixed effects model (likelihood ratio test, $P < 0 . 0 0 0 1$ ) Table S1. Results of Wilcoxon rank-sum tests comparing masses of larvae on in-phase versus out-of-phase plants; the significant P-value is in bold   \nTable S2. Results of Student's t-tests comparing concentrations of target metabolites from in-phase versus out-ofphase plants; significant P-values are in bold   \nTable S3. Mean temperatures (in $^ { \\circ } \\mathsf { C }$ ）measured using temperature loggers at four different positions distributed in climate chambers used for Manduca sexta growth assays (Figure 2) over at least 2 d of measurements taken every 10 min   \nTable S4. Mean masses (in mg) of Manduca sexta larvae used for feeding damage   \nFile S1. Significant features identified in DD,LL,and LD volcano ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "plots (volcano.xlsx) Supplemental materials and methods ",
+        "page_idx": 12
+    }
+]

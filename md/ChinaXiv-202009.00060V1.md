@@ -1,0 +1,255 @@
+# 基于难样本挖掘的孪生网络目标跟踪
+
+亢洁，孙 阳1，沈钧戈²†
+
+(1．陕西科技大学 电气与控制工程学院，西安 710021;2.西北工业大学 无人系统技术研究院，西安 710072)
+
+摘要：为了解决全卷积挛生网络目标跟踪算法(SiamFC)在复杂环境下容易出现跟踪漂移甚至跟踪失败的问题，提出了一种基于难样本挖掘的孪生网络目标跟踪方法。该方法在 SiamFC算法的基础上，首先利用特征融合模块进行特征融合，以提高特征表征的鲁棒性，然后引入一个新的损失函数，加强网络对难样本的学习能力并缓解正负样本不平衡的问题。为验证该方法的有效性，在OTB2015和GOT10k数据集上对算法进行测试实验。实验结果表明，在OTB2015数据集上该方法比SiamFC算法在成功率上提高 $2 . 6 \%$ ，精度上提高 $2 \%$ 在GOT10k数据集上该方法的mAO为0.429，相比SiamFC算法提高了 $3 . 7 \%$ ，在光照变化、目标形变、相似背景干扰情况下具有更好的表现。
+
+关键词：孪生网络；目标跟踪；特征融合；损失函数；难样本挖掘 中图分类号：TP391.4 doi:10.19734/j.issn.1001-3695.2020.03.0084
+
+Siamese network object tracking based on hard sample mining
+
+Kang Jie1, Sun Yang1, Shen Junge2† (1.CollegeofElectrical&ControlEnginering,Shaanxi UniversityofScience&Technology,Xi'an70o21,China; 2.Unmanned System Research Institute,Northwestern Polytechnical University,Xi'an 710o72,China)
+
+Abstract: In complex environment,theobject trackingalgorithmoffull-convolutional siamese network is prone to track drift or even track failure.Inorder to solve theproblem,this paper proposed a siamese network tracking algorithmbased on hard sample mining.Onthe basis of SiamFC,this method firstused afeature fusion module for feature fusionto enhance the robustnessoffeaturerepresentation,and then proposed anovel loss function tostrengthenthelearningabilityofnetwork to hardsamplesandalleviate theproblemofimbalancebetwenpositiveandnegativesamples.Toverifythevalidity,tis method wastestedon OTB2015 benchmarkandGOT10k dataset.The resultsofOTB2015 showthatthis methodincreases the success rate by $2 . 6 \%$ and the accuracy by $2 \%$ compared with SiamFC.On the GOT10k dataset, the mAO of this method is 0.429, which is $3 . 7 \%$ higherthan the SiamFC.It illustrates that this method has a bettr performance in the case of illumination variation, object deformation, and similar background interference.
+
+Key words: siamese network; object tracking; feature Fusion; loss function; hard sample mining
+
+# 0 引言
+
+视觉目标跟踪是计算机视觉领域的研究热点之一[I]，广泛应用于智能视频监控、智能交通等领域。但是由于存在目标姿态变化、形状变化等内在因素以及光照变化、背景混杂、遮挡等外在因素的干扰，视觉目标跟踪仍然面临着巨大的挑战。为解决目标跟踪的难题，由于深度特征强大的表征能力，研究者开始将深度学习用于目标跟踪领域。HCF(hierarchicalconvolutional features forvisual tracking)算法[2]、HDT(hedgeddeeptracking)算法[3]等用深度学习的卷积特征代替传统相关滤波跟踪算法的人工特征，大幅度提高了目标跟踪的成功率和精度。多域卷积神经网络目标跟踪算法[4](MDNet)采用离线训练和在线微调相结合的方式，充分发挥了深度学习端到端的优势，在跟踪性能上获得了显著提高。但是这些使用深度学习的目标跟踪算法的推理过程计算复杂度高，没有很好地平衡准确性和实时性。而基于孪生网络的目标跟踪算法，将目标跟踪问题看做是一个目标模板和候选区域的相似度度量问题，在目标跟踪的实时性上有着很大的优势。因此，基于孪生网络的目标跟踪算法[5\~8]逐渐成为目标跟踪的主流算法。其中，全卷积孪生网络目标跟踪算法[(SiamFC)同时考虑了速度和精度，但是由于其只使用了网络提取的最后一层特征来表征目标，当跟踪的目标外观发生变化时，跟踪鲁棒性差。此外，在训练过程中没有考虑正负样本不平衡以及大量简单负样本的问题，这些简单负样本会对损失函数起主要作用，使得网络不能很好地学习到具有判别力的信息，当出现相似背景干扰时，很容易跟踪错误。
+
+因此，本文以SiamFC算法为基础，针对其目标表征能力的欠缺，提出特征融合模块，将浅层和深层的特征进行融合得到更为鲁棒的特征来表征目标。同时，为解决正负样本不平衡以及大量简单负样本的问题，提出改进的损失函数替换Logistic损失函数来提高网络的学习能力和判别力。最后，本文提出基于难样本挖掘的孪生网络目标跟踪方法，主要创新点为：a)针对目标形变、光照变化导致目标外观发生变化时目标表征的鲁棒性欠缺，利用提出的特征融合模块提高特征表征的鲁棒性；b)针对相似背景干扰问题，提出一种改进的损失函数加强对难样本的学习，提高跟踪算法的判别力。
+
+# 1 本文方法
+
+本节将详细描述提出的基于难样本挖掘的孪生网络目标跟踪方法，其整体结构如图1所示。其核心思想为通过权重共享的两支Alexnet网络提取目标模板 $z$ 和搜索区域 $\textbf { x }$ 的特征，将提取得到的三层特征通过设计的特征融合模块进行融合，利用融合后更为鲁棒的特征来表征目标，然后经过一个相似度计算的卷积操作得到尺寸为 $1 7 \times 1 7 \times 1$ 的目标位置响应图，并通过改进Logistic 损失函数来加强相似背景干扰时的目标定位。
+
+![](images/ec5c98702c845a606d84955bee816f0c6b0b4dc4d4567ff8a1ab91cb82ea4988.jpg)  
+图1本文方法的跟踪框架
+
+# 1.1多特征融合
+
+由于语义特征具有丰富的语义信息，利于目标和背景的判别，因此常常采用网络提取的最后一层的特征来表征目标，然而语义特征的分辨率低，不能很好地捕捉到空间位置等细节信息，这些细节信息也是目标准确定位的关键。卷积神经网络提取的浅层特征含有丰富的细节信息，深层特征含有丰富的语义信息。因此，本文提出一个特征融合模块来有效结合来自深层和浅层的特征信息。其具体结构如图2所示。本文采用经过修改的Alexnet作为权重共享的孪生网络用于特征的提取，其网络结构如表1所示。
+
+![](images/2ea70c04b548255821be57469d08886602dad694dbb06f36defdb5af40e1116a.jpg)  
+Fig.1Framework of the proposed method   
+图2特征融合模块结构  
+Fig.2Structure of feature fusion module
+
+表1孪生网络结构  
+Tab.1Structure of siamese network   
+
+<html><body><table><tr><td rowspan="2">网络层</td><td rowspan="2">尺寸</td><td rowspan="2">通道</td><td rowspan="2">步长</td><td colspan="2">输出尺寸</td></tr><tr><td>模板分支</td><td>搜索分支</td></tr><tr><td>input</td><td>/</td><td>/</td><td>/</td><td>127×127×3</td><td>255×255×3</td></tr><tr><td>conv1</td><td>11×11</td><td>192</td><td>2</td><td>59×59×192</td><td>123×123×192</td></tr><tr><td>maxpool1</td><td>3×3</td><td>/</td><td>2</td><td>29×29×192</td><td>61×61×192</td></tr><tr><td>conv2</td><td>5×5</td><td>512</td><td>1</td><td>25×25×512</td><td>57×57×512</td></tr><tr><td>maxpool2</td><td>3×3</td><td>/</td><td>2</td><td>12×12×512</td><td>28×28×512</td></tr><tr><td>conv3</td><td>3×3</td><td>768</td><td>1</td><td>10×10×768</td><td>26×26×768</td></tr><tr><td>conv4</td><td>3×3</td><td>768</td><td>1</td><td>8×8×768</td><td>24×24×768</td></tr><tr><td>conv5</td><td>3×3</td><td>512</td><td>1</td><td>6×6×512</td><td>22×22×512</td></tr></table></body></html>
+
+在网络提取的不同层的特征中，conv2层的步长为4，其特征分辨率较高，包含更多位置细节信息，利于目标位置的定位，conv3层的步长为8，特征更为稀疏，含有语义信息，conv5经过两层卷积进一步提取更为复杂的语义信息。因此，本文选择conv2、conv3、conv5这三层特征输入到特征融合模块实现浅层特征和深层特征的融合，获得更为鲁棒的特征来表征目标，提高跟踪器应对目标外观变化的跟踪鲁棒性和跟踪精度。
+
+特征融合模块的输入是 $H \times W \times C$ 的深层特征 $\varphi _ { n }$ 和$H ^ { \prime } { \times } W ^ { \prime } { \times } C ^ { \prime }$ 的浅层的特征 $\varphi _ { n - 1 }$ ，融合过程描述如下：a）首先对深层特征 $\varphi _ { n }$ 进行上采样upsample 操作，本文使用双线性插值实现特征图的上采样，提高深层特征的分辨率。b)然后对浅层特征 $\varphi _ { n - 1 }$ 和上采样后的深层特征 $\varphi _ { n }$ 进行一个 conv 卷积操作，将深层特征的通道数降维至与浅层特征一致，保证特征维度的一致性。c）接着进行add求和和ReLU激活操作，将两层的特征做一个元素级融合，把深层特征的语义判别信息和浅层特征的空间位置信息结合到一起。d）最后采取interpolation插值操作，保证输出特征的感受野适用于目标跟踪的精确定位问题。最终，整个特征融合的公式为
+
+$$
+\varphi _ { o u t } = \sigma ( \varphi _ { n } , \varphi _ { n - 1 } )
+$$
+
+其中 $\sigma ( \cdot )$ 代表特征融合操作。
+
+# 1.2难样本挖掘损失函数
+
+进一步地，针对目标跟踪中相似背景干扰问题，本文提出一个难样本挖掘损失函数。在SiamFC 算法中使用的是logistic损失函数用于模型的训练：
+
+$$
+l ( y , \nu ) = \log { ( 1 + \exp { ( - y \nu ) } ) }
+$$
+
+其中 $\nu$ 是目标模板与搜索区域候选框的相似度分数，$y \in \{ + 1 , - 1 \}$ 是正、负样本的标签值。
+
+由于搜索区域的目标候选框大多数属于背景即负样本，少数包含目标区域即正样本，带来了训练过程中正负样本的不平衡问题。这种正负样本的不平衡进一步造成了大量简单负样本的存在。但是在logistic 损失函数中赋予正、负样本相同的权重，没有平衡好正样本和负样本对模型训练的影响，导致跟踪的性能受限；没有考虑训练样本中存在的大量简单负样本，这些简单的负样本会对损失函数的计算起主要作用，使得网络不能够很好地学习到具有判别力的信息，当出现相似背景干扰时，更容易出现跟踪漂移和失败。
+
+因此，针对以上问题，基于logistic损失函数提出了一种改进的损失函数：
+
+$$
+l ( y , \nu ) = \frac { 1 + y } { 2 } \alpha ( 1 - p ) ^ { \gamma } \log \left( 1 + \exp \left( - y \nu \right) \right) +
+$$
+
+$$
+{ \frac { 1 - y } { 2 } } ( 1 - \alpha ) p ^ { \gamma } \log { \big ( } 1 + \exp ( - y \nu ) { \big ) }
+$$
+
+即
+
+$$
+l ( y , \nu ) = \left\{ \begin{array} { c l } { { \alpha ( 1 - p ) ^ { \gamma } \log \left( 1 + \exp ( \nu ) \right) } } & { { y = 1 } } \\ { { ( 1 - p ) ^ { \gamma } \log \left( 1 + \exp ( \nu ) \right) } } & { { y = - 1 } } \end{array} \right.
+$$
+
+其中 $p$ 是目标模板与搜索区域候选块的相似度概率值，由 $\nu$ 通过sigmoid函数计算得到； $\gamma$ 是关注困难样本的放缩因子； $\alpha$ 为平衡正负样本的权重。进一步地将改进的损失函数表示为
+
+$$
+\alpha _ { \mathrm { T } } { = } \left\{ \begin{array} { c } { { \alpha , y { = } 1 } } \\ { { 1 { - } \alpha , y { = } - 1 } } \end{array} \right. ; p _ { \mathrm { T } } { = } \left\{ \begin{array} { c } { { p , y { = } 1 } } \\ { { 1 { - } p , y { = } - 1 } } \end{array} \right.
+$$
+
+$$
+l ( y , \nu ) = \alpha _ { T } ( 1 - p _ { T } ) ^ { \gamma } \log { ( 1 + \exp { ( - y \nu ) } ) }
+$$
+
+在该改进的损失函数中，引入了 $\alpha _ { T }$ 权重项，设置正样本的权重大于负样本的权重，拉近正负样本对损失值计算的贡献；此外，还引入了 $( 1 - p _ { \mathrm { T } } ) ^ { \gamma }$ 这一动态项， $\gamma$ 设置为大于0的值，对于简单负样本， $p _ { \mathrm { r } }$ 更易趋于1， $( 1 - p _ { \mathrm { { T } } } ) ^ { \gamma }$ 趋于0，需要叠加更多的简单负样本的计算值才能对损失函数起作用。对于困难负样本， ${ p } _ { \mathrm { r } }$ 更易趋于0， $( 1 - p _ { \mathrm { T } } ) ^ { \gamma }$ 趋于1，这样对于困难负样本的权重相对加大了，更加注重困难样本。两者同时作用时，该新的损失函数能够更好地指导模型的学习，使得跟踪模型的性能提高，在目标跟踪时能够更好地应对相似背景干扰的情况。
+
+由于目标模板的尺寸比搜索区域的尺寸小，会得到一个相似度响应图 $\textbf {  { D } }$ ，其是由目标模板与搜索区域中所有候选块的相似度分数 $\nu$ 组成。因此，整个相似度响应图的损失函数定义为每一对目标模板和搜索区域候选块损失的平均值：
+
+$$
+L ( y , \nu ) = \frac { 1 } { | D | } \sum _ { u \in D } l \left( y [ u ] , \nu [ u ] \right)
+$$
+
+其中 $y \left[ u \right] \in \left\{ + 1 , - 1 \right\}$ 是每一个位置 $u \in D$ 的标签值，正样本为$y [ u ] { = } 1$ ，负样本为 $y [ u ] { = } { - } 1$ 。
+
+# 1.3基于难样本挖掘的孪生网络目标跟踪
+
+SiamFC算法将视觉目标跟踪看做是一种模板匹配的问题，即通过在每一帧中搜索与目标模板相似的区域来对目标
+
+进行定位。通过学习相似度度量函数 $f ( z , \pmb { x } )$ ，根据学习的结果计算目标模板特征和搜索区域候选块特征之间的相似度分数：
+
+$$
+f \left( z , x \right) = g \left( \varphi ^ { \left( \right)} z  , \varphi ^ { \left( \right)} x  \right)
+$$
+
+其中： $g \left( \cdot \right)$ 是一个相似度度量； $\varphi ( z )$ 是目标模板的特征； $\varphi ( { \pmb x } )$   
+是搜索区域候选块的特征。
+
+本文方法通过离线训练来学习用于模板匹配的相似度函数。首先从同一个视频序列中获取目标模板和搜索区域作为跟踪器的输入，然后经过相同的两个共享权重的卷积神经网络分支进行特征提取，本文采用的卷积神经网络是修改的的AlexNet。然后通过级联的特征融合模块对选取的conv2、conv3、conv5这三层的特征 $\varphi _ { 1 } \setminus \varphi _ { 2 }$ 、 $\varphi _ { 3 }$ 进行融合：
+
+$$
+\varphi = \sigma ( \varphi _ { 1 } , \sigma ( \varphi _ { 2 } , \varphi _ { 3 } ) )
+$$
+
+接着对融合得到的目标模板分支特征 $\varphi ( z )$ 和搜索区域分支特征 $\varphi ( { \pmb x } )$ 做一个交叉相关操作，计算目标模板分支的特征 $\varphi ( z )$ 和搜索区域候选块的特征 $\varphi ( { \pmb x } )$ 之间的相似度分数：
+
+$$
+f \left( z , x \right) = \varphi \left( z \right) * \varphi \left( x \right) + b
+$$
+
+其中 $*$ 代表交叉相关操作， $\textbf { \textit { b } }$ 为偏置项。输出为相似度响应图，相似度得分最大的位置即为目标的位置，以此来确定目标在当前帧中的位置。相似度响应图的维度与目标模板和搜索区域大小有关。
+
+最后，在训练的过程中使用改进的损失函数来对网络的权重进行更新，使得网络学到更有用的信息，具有更强的判别力。
+
+跟踪时根据上一帧目标位置的中心来获得当前帧的搜索区域用于计算相似度响应得分图，得分最大的位置即为当前帧中目标的位置。
+
+# 2 实验和实验结果分析
+
+# 2.1实验细节
+
+a）训练数据准备：为了提高通用目标跟踪器的泛化能力，避免过度拟合跟踪测试的数据集，本文方法在ILSVRC15[9]数据集上从头离线训练。这个数据集包含超过4000个序列，超过100万的视频帧。在同一个视频序列中随机选择2帧，将其作为目标模板和搜索区域的训练数据对，并对其进行进一步裁剪和填充，使得目标位于每一帧的中心：
+
+$$
+\left( w + 2 p \right) \times \left( h + 2 p \right) = A ^ { 2 }
+$$
+
+其中 $w$ 和 $h$ 分别为目标边界框的宽、高， $A$ 为目标模板的大小， $p$ 为 $( w + h ) / 4$ 。在训练中采用的目标模板大小为 $^ { 1 2 7 \times 1 2 7 }$ ，搜索区域大小为 $2 5 5 \times 2 5 5$ 。
+
+b）训练设置：在训练中设置了50轮，在2个GPU上训练，Batch设置为8。使用SGD对网络参数进行更新，动量设置为0.9，学习率以几何退火的方式从 $1 0 ^ { - 2 }$ 到 $1 0 ^ { - 5 }$ 自动调整，权重衰减设置为 $5 \times 1 0 ^ { - 4 }$ 。
+
+c）测试设置：初始目标的外观只计算一次。使用双线性插值将 $1 7 \times 1 7$ 的相似度得分图转换成 $2 5 5 { \times } 2 5 5$ 获得更精确的位置。使用3个尺度 $1 . 0 3 7 5 ^ { \{ - 1 , 0 , 1 \} }$ 对目标进行搜索，尺度惩罚因子设置为0.9745，衰减因子为0.35。
+
+d）实验环境和设备：本文方法使用python在Pytorch 中实现，在显存为11GB的NVIDIAGeForceRTX2080TiGPU,CPU为 $3 . 3 \mathrm { G H z }$ 的IntelCore i9-7900X，内存为64GB的设备上进行的。
+
+# 2.2评价标准
+
+在OTB2015 数据集[10]中选用 OPE(one pass evaluation)的测试方法，计算两个评价指标：精确度图(precisionplot)和成功率图(success plot)。精确度表示跟踪器预测位置的中心 $C _ { \mathfrak { r } }$ 与真实位置的中心 $C _ { \mathrm { g t } }$ 距离小于 20 像素的帧数占总帧数的百分比：
+
+$$
+P ( \sigma _ { S U C C } ) = \| C _ { g t } - C _ { t } \| \leq \sigma _ { S U C C }
+$$
+
+其中 $\sigma _ { \mathrm { s u c c } }$ 是中心位置误差的阈值，单位为pixel。
+
+成功率为每个成功率图曲线下的面积(AUC)，即不同重叠阈值对应成功率的平均值。其中每个重叠阈值的成功率计算公式为
+
+$$
+S \left( \sigma _ { o v e r } \right) = \frac { R _ { g t } \cap R _ { t } } { R _ { g t } \cup R _ { t } } \ge \sigma _ { o v e r }
+$$
+
+其中 $R _ { \mathrm { g t } }$ 是真实位置的目标框， $R _ { \mathrm { t } }$ 是预测的目标框， $\sigma _ { \mathrm { o v e r } }$ 是目标重叠率的一个阈值，范围为0\~1。
+
+在GOT10k[l]数据集中，选用AO(average overlap)作为指标来计算预测目标框和实际目标框之间的平均重叠度。考虑到在评估过程中存在的类别不平衡问题，进一步使用了计算mAO这种类别平衡的度量方式来评估：
+
+$$
+\mathrm { m A O } { = } \frac { 1 } { C } \sum _ { c { = } 1 } ^ { C } \Biggl ( \frac { 1 } { | S _ { c } | } \sum _ { i \in S _ { c } } { \bf A O } _ { i } \Biggr )
+$$
+
+其中 $c$ 表示类别的数量， $S _ { c }$ 表示属于第 $c$ 类的一个子集， $\left. S _ { c } \right.$ 表示子集的数量。
+
+# 2.3参数确定
+
+a)参数γ作用于 $( 1 - p _ { \mathrm { T } } ) ^ { \gamma }$ 这一权重项，来关注困难样本。当 $\gamma = 0$ 时，权重项不起作用，相当于原来的logistic 损失函数；当／取值大于0，权重项发挥作用。不同／取值下，本文方法的测试实验结果如表2所示。当 $\gamma = 2$ 时，本文方法的实验结果最好。
+
+Tab.2AUC of the proposed method under differenty   
+
+<html><body><table><tr><td>Y</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>AUC</td><td>0.535</td><td>0.539</td><td>0.558</td><td>0.468</td><td>0.473</td></tr></table></body></html>
+
+b)参数 $\alpha$ 是调节正负样本不平衡的重要参数，通过权重因子 $\alpha$ 的调节，拉近正、负样本的损失值。不同 $\alpha$ 取值下，本文方法的测试实验结果如表3所示。当 $\alpha = 0 . 6$ 时，本文方法的实验结果最好。
+
+表2不同／取值下本文方法的AUC  
+表3不同 $\alpha$ 取值下本文方法的AUC  
+Tab.3AUC of the proposed method under different $\alpha$   
+
+<html><body><table><tr><td>α</td><td>0.5</td><td>0.6</td><td>0.7</td><td>0.8</td><td>0.9</td></tr><tr><td>AUC</td><td>0.556</td><td>0.589</td><td>0.532</td><td>0.496</td><td>0.512</td></tr></table></body></html>
+
+# 2.4 实验结果分析
+
+OTB2015数据集一共含有100个跟踪序列，包含了11种具有挑战的序列，在这个数据集上将本文方法和SiamFC[6]算法进行了比较，并且还和GOTURN[12]、CFNet[13]、SINT[5]、MEEM[14]、Staple[15]、DSiam[16]、DSST[17]、KCF[18]、SAMF[19]、SturctSiam[20]、SiamTri[21]这些主流的目标跟踪算法也作了比较。图3、4分别为这13种目标跟踪算法在OTB2015数据集上的成功率图和精确度图。
+
+![](images/281ff99afb3f6f0457241e48118690b7cf43af89ef5965e717a38099356f020a.jpg)  
+图3OTB2015数据集上算法的成功率  
+Fig.3Success plot of algorithm on OTB2015 benchmark
+
+![](images/8f2ef2ffcb3ca9f13079171067be51afe22ef6a0015c2bbcf576379829c5d93a.jpg)  
+图4OTB2015数据集上算法的精确度  
+Fig.4Precision plot of algorithm on OTB2015 benchmark
+
+从图3、4的测试结果可以看到，本文方法相比于SiamFC算法，在成功率上提高了 $2 . 6 \%$ ，在精确度上提高了 $2 \%$ ，表明了本文方法引入特征融合和新的损失函数的有效性。与同样通过改进损失函数的跟踪算法相比，由于SiamTri算法通过引入Triplet损失，更为充分地利用正样本和负样本之间的联系，但是SiamTri算法对目标外观变化效果不好，因此在精度上本文方法不如SiamTri算法，但是在成功率上本文方法和SiamTri算法接近。StructSiam算法充分利用局部特征，但本文方法深度挖掘难样本的信息，在跟踪器性能上本文方法与StructSiam算法同样有竞争性。此外，相比于其他基于李生网络的目标跟踪算法，本文方法取得了更优异的性能，特别是本文方法比SINT算法在成功率上高 $2 \%$ ，精度基本持平。但是SINT 算法通过大量的匹配计算非常耗时，而本文方法的速度达到71FPS，远超SINT算法的4FPS，在保证跟踪准确度的同时，速度也达到了实时性的要求。本文方法采用卷积操作代替滑动窗口检测，以解决边界效应，因此相比于KCF算法在成功率上大幅度提高了 $1 3 . 9 \%$ ，在精度上提高了 $1 5 . 2 \%$ 。
+
+GOT10k数据集包括超过10000个视频，目标框超过150万个，可细分为563个目标类别，此数据集还有一个动作类别，分为87种动作。用于测试的数据集包含180个视频序列，包括 84个目标类别，32个动作类别。因此，进一步在难度更大的GOT10k 数据集上将本文方法和 SiamFC[、SiamRes[22]、SiamFC2[13]、DSiam[16]、GOTURN[12]这5种算法作了比较，测试结果如表4所示。
+
+表4GOT10k 数据集上的测试结果  
+Tab.4Test result of the GOT10k   
+
+<html><body><table><tr><td>指标</td><td>SiamFC</td><td>SiamRes</td><td>SiamFC2</td><td>DSiam</td><td>GOTURN</td><td>本文</td></tr><tr><td>mAO</td><td>0.392</td><td>0.385</td><td>0.434</td><td>0.417</td><td>0.418</td><td>0.429</td></tr></table></body></html>
+
+从表4的测试结果可以看到，本文方法相比于SiamFC算法mAO提高了 $3 . 7 \%$ 。SiamFC2在SiamFC的基础上加入相关滤波，并且实现端到端的训练，和本文方法的性能接近。SiamRes算法采用更深的主干网络，但没有利用浅层的特征，缺乏位置细节信息，本文方法的mAO比SiamRes算法提高了 $4 . 4 \%$ ，进一步证明了本文方法的有效性和较好的泛化能力。
+
+以上是对不同跟踪器的一个定量评价，为了进一步定性地对本文方法进行评估，在OTB2015数据集中选取了Skating2(目标形变)、Singer2(光照变化)、Bolt(背景杂乱)这3个挑战性的视频序列对本文方法和SiamFC算法进行了进一步的测试实验。图5、6分别为SiamFC算法和本文方法在这三个视频序列上的跟踪结果。
+
+![](images/b2997ee4572587ca6ea5e73a5e0ebc2c3688ce5f7a8dc9b080ea4b59c6b800c4.jpg)  
+图5SiamFC 算法的跟踪结果 Fig.5Tracking result of siamfc
+
+通过对SiamFC算法和本文方法在三个视频序列上的跟踪结果的分析，本文方法相比于SiamFC算法具有更强的抗形变能力，当目标发生较大的形变时，SiamFC算法的目标定位有着明显的偏差，而本文方法可以较为准确地定位目标，例如图5(a)的192帧和图6(a)的192帧；本文方法在目标发生严重的光照变化时也表现出了一定的抵抗能力，而SiamFC算法当目标受到光照变化的影响时跟踪失败了，例如图5(b)的59 帧、70帧和图6(b)的59帧、70帧；本文方法在相似目标干扰的情况下的表现比SiamFC算法更好，当出现相似目标干扰时，本文方法依然跟踪成功，而SiamFC算法完全失败了，例如图5(c)的79帧、123帧和图6(c)的79帧、123帧。
+
+![](images/463d2687e1bb31aed2121e1052fe70b0410587e32aa247dcab928f837a608741.jpg)  
+图6本文方法的跟踪结果 Fig.6Tracking result of the proposed method
+
+# 3 结束语
+
+本文提出了基于难样本挖掘的李生网络目标跟踪算法，主要解决在光照变化、目标形变情况下的特征表征问题以及相似背景干扰情况下的难样本学习问题。首先，在全卷积孪生网络目标跟踪算法的基础上引入了一个特征融合模块，提高了特征表征的鲁棒性。然后，基于logistic损失函数提出改进的损失函数，加强了网络对难样本的学习能力。实验结果表明，在OTB2015数据集上相比于SiamFC算法，在成功率上提升了 $2 . 6 \%$ ，在精度上提升了 $2 \%$ ，在GOT10k数据集上相比于SiamFC算法的mAO提高了 $3 . 7 \%$ ，验证了本文方法改进的有效性。本文方法和其他一些主流的目标跟踪算法相比在性能上也有很大的竞争力。但是本文方法没有考虑目标遮挡问题，在今后的工作中将考虑目标遮挡问题，来进一步提高目标跟踪算法的性能。
+
+# 参考文献：
+
+[1]孟绿，杨旭．目标跟踪算法综述[J]．自动化学报,2019,45(7):1244- 1260.(Meng Lu,Yang Xyu.A survey of object tracking algorithms [J]. Acta Automatica Sinica,2019,45(7):1244-1260.)   
+[2]Ma Chao，Huang Jiabin，Yang Xiaokang，et al.Hierarchical convolutional features for visual tracking[C]//Proceedings of the IEEE International Conference on Computer Vision,2015:3074-3082.   
+[3]Qi Yuankai, Zhang Shengping,Qin Lei,et al.Hedged deep tracking [C]// Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition,2016: 4303-4311.   
+[4]Nam H,Han B.Learning multi-domain convolutional neural networks for visual tracking [C]// Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition,2016:4293-4302.   
+[5]Tao Ran,Gavves E,Smeulders A W M. Siamese instance search for tracking[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition,2016:1420-1429.   
+[6]Bertinetto L,Valmadre J,Henriques JF,et al.Fully-convolutional siamese networks for object tracking [C]// European Conference on Computer Vision. Springer, Cham,2016: 850-865.   
+[7]仇祝令，查宇飞，朱鹏，等．基于孪生神经网络在线判别特征的视觉 跟踪算法 [J]．光学学报，2019,39(9):0915003.(Qiu Zhuling，Zha Yufei, Zhu Peng,et al.Visual tracking algorithm based on online feature discrimination with siamese network [J].Acta Optica Sinica,2019,39 (9): 0915003.)   
+[8]任珈民，宫宁生，韩镇阳．一种改进的基于孪生卷积神经网络的目 标跟踪算法[J].小型微型计算机系统，2019,40(12)：2686-2690. (Ren Jiamin,Gong Ningsheng,Han Zhenyang.Improved target tracking algorithm based on siamese convolution neural network[J].Journal of Chinese Computer Systems,2019,40 (12):2686-2690.)   
+[9]Russakovsky O,Deng Jia, Su Hao,et al. Imagenet large scale visual recognition challenge [J]. International Journal of Computer Vision, 2015,115 (3): 211-252.   
+[10]Wu Yi,LimJ,Yang MH.Object tracking benchmark[J].IEEE Trans on Pattern Analysis and Machine Intelligence,2015,37(9):1834-1848.   
+[11] Huang Lianghua,Zhao Xin,Huang Kaiqi.Got-1Ok:A large highdiversity benchmark for generic object tracking in the wild [J].IEEE Transactions on Pattern Analysis and Machine Intelligence,2019:1-1.   
+[12] Held D,Thrun S, Savarese S.Learning to track at 1Oo fps with deep regression networks [C]// European Conference on Computer Vision. Springer, Cham,2016: 749-765.   
+[13] Valmadre J,Bertinetto L,Henriques JF,et al.End-to-end representation learning for correlation filter based tracking[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition,2017: 2805-2813.   
+[14] Zhang Jianming,Ma Shugao,Sclaroff S.MEEM:Robust tracking via multiple experts using entropy minimization [C]//European Conference on Computer Vision. Springer, Cham,2014:188-203.   
+[15] Bertinetto L,Valmadre J,Golodetz S,et al. Staple: Complementary learners for real-time tracking[C]//Proceedingsof the IEEE Conference on Computer Vision and Pattern Recognition,2016:1401-1409.   
+[16] Guo Qing,Feng Wei, Zhou Ce,et al.Learning dynamic siamese network for visual object tracking [C]// Proceedings of the IEEE International Conference on Computer Vision,2017:1763-1771.   
+[17]Danelljan M,Häger G,Khan F S,et al.Accurate scale estimation for robust visual tracking [C]// British Machine Vision Conference, Nottingham,September 1-5,2014.BMVA Press,2014.   
+[18]Henriques JF,Caseiro R,Martins P,et al.High-speed tracking with kernelized correlation filters [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2014,37(3): 583-596.   
+[19]Li Yang,Zhu Jianke.A scale adaptive kernel correlation filter tracker with feature integration [C]// European Conference on Computer Vision. Springer, Cham,2014: 254-265.   
+[20] Zhang Yunhua,Wang Lijun,Qi Jinqing，et al.Structured siamese network for real-time visual tracking[C]//Proceedings of the European conference on computer vision,2018:351-366.   
+[21] Dong Xingping, Shen Jianbing.Triplet loss in siamese network for object tracking [C]// Proceedings of the European Conference on Computer Vision,2018:459-474.   
+[22] Zhang Zhipeng,Peng Houwen.Deeper and wider siamese networks for real-time visual tracking [C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition,2019:4591-4600.

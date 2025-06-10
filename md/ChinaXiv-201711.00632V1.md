@@ -1,0 +1,145 @@
+# 催化剂 $\mathrm { P _ { t } }$ 作用下氧气和质子还原反应分析
+
+孙红1，于东旭1，宋文帅¹，王逊²（1.沈阳建筑大学交通与机械工程学院，辽宁沈阳1101682.沈阳建筑大学 理学院，辽宁 沈阳110168)
+
+摘要：氧气在质子交换膜（PEM）燃料电池阴极的还原反应特性对电池性能有重要影响。本文通过建立电催化剂Pt 表面的氧吸附模型，及氢与氧在Pt表面进行的氧化还原反应模型，运用分子动力学方法模拟研究了氢原子与氧在Pt表面的反应机理，分析了温度对氧气还原反应特性的影响。研究发现，氢原子和氧原子在 Pt表面初次吸附是整个氧气还原反应的控制步骤；随着温度升高，氧气还原反应的速度加快，但温度不影响氧气还原反应各个步骤中的产物结构。研究结果对加强理解PEM燃料电池反应机理，推动燃料电池的应用具有重要意义。
+
+关键词：PEM；燃料电池；催化剂；反应机理中图分类号：U469.7 文献标志码：A
+
+# The Analysis of Oxygen Reduction Reaction with Proton based on Catalysis of Pt
+
+Hong Sun',Dongxu Yu',Wenshuai Song', Xun Wang （1.DepartmentofTransportationandMechanicalEngineering,ShenyangJianzhu University,LiaoningShenyanglO68,China 2. College of Science, Shenyang Jianzhu University,Liaoning Shenyang 11Ol68, China)
+
+Abstract:Oxygen playsan important role on Proton Exchange Membrane (PEM) fuel cell cathode reduction reaction.In this paper, oxygen adsorption model on catalyst Ptand the redox reaction model ofhydrogen and oxygen on the surface of Pt are developed to study the reaction mechanism of hydrogen and oxygen in the Pt surface based on molecular dynamics simulation method. Analysis of the effect of temperature on the characteristics of oxygen reduction reaction is performed.The research results show thatthe first adsorption on the Pt surface for the hydrogen and oxygen atoms is the control step of the oxygen reduction reaction; with the increase of temperature,the oxygen reduction reaction becomes faster, but the temperature does not affect the structure of the reduction product in each step.These results are very helpful in the understanding of PEM fuel cell reaction mechanism and promote the application of PEM fuel cell.
+
+Key words: PEM; fuel cell; catalyst; mechanism
+
+# 0引言：
+
+电极反应尤其是阴极氧气的还原反应，对PEM燃料电池的性能有重要影响。近年来，随着PEM燃料电池技术的发展，PEM燃料电池阴极催化层氧化还原反应机理受到了高度关注。Pt是质子交换膜燃料电池目前最常用、最有效的催化剂之一，因此发生在Pt面上的氧化还原反应，成了研究重点之一。目前，针对PEM燃料电池阴极中氧气和质子还原反应机理有四电子反应机理和二电子反应机理。在PEM燃料电池中，反应环境是弱酸性的，当Pt中杂质很少的时候，氧气还原以四电子反应路径为主[1]。在弱碱性环境中，Miah等利用伏安循环技术观测到两步四电子氧化还原反应过程[2]。Adzic 等[3]认为PEM燃料电池阴极氧气还原反应以四电子反应机理为主，二电子反应机理与四电子反应机理同时进行。Markovic 等[4认为二电子反应机理更适合应用于Pt和Pt 合金催化剂，持有相同观点的 Sun等错误！未找到引用源。认为二电子反应机理比四电子反应机理更适合应用于氧化还原反应。根据反应过程中在能量变化规律，Liu等基于二电子理论研究了氧化还原反应机理，发现在第一步反应时释放能量最小，在第四步反应较之前三步反应，放出最多的能量。在第一个电子传递方面，Hartnig等[7错误！未找到引用源。做了溶剂分子的重组等相关的研究。
+
+AnaM.Gomez-Marin等[8认为在整个反应过程的研究中可溶性中间产物的减少是整个氧化还原反应的决策步。催化剂作用下，氧气和质子的还原反应得以加快[，催化剂颗粒的大小和分布，以及温度和酸碱性环境也对其反应速度和机理有重要影响[10] [11]。为了加快PEM燃料电池的反应速度，各种催化剂及复合催化剂都被研究出来，并进行实验对比分析[12][13]
+
+上述文献主要是研究PEM燃料电池催化剂的制备、催化特性、电极特性等，尽管有少数文献通过模拟分析了燃料电池阴极的氧气还原反应机理，但基于催化剂Pt作用下的氧气还原机理以及影响因素的研究仍然很少。本文运用分子动力学和量子力学的基本原理，模拟分析了氧气在催化剂Pt表面还原反应机理，分析了温度等参数对Pt催化作用下氧气还原反应特性的影响。
+
+# 1、模型
+
+论文模拟采用基于密度泛函理论（DFT）的CASTEP 进行，分别模拟高温 PEM 燃料电池在393K、413K、433K、453K、473K等温度条件下，氧气背压为0.1MPa条件下，发生在阴极催化剂Pt表面上的反应： $\mathrm { O } _ { 2 } { + } 4 \mathrm { H } {  } 2 \mathrm { H } _ { 2 } \mathrm { O }$ 。模拟中的结构优化采用广义梯度近似(GGA)，交换关联势采用 PBE 泛函，计算精度为普通级(Medium)，计算中平面波截断能量均取为 $3 0 0 \mathrm { e V }$ ，自洽场循环(SCF cycles)设为300，精度以每个原子能量收敛至2.0e-6ev/atom以内为标准。分子动力学计算采用NPT模式，即设定温度、压强、反应时长，固定晶胞质心进行分子动力学模拟。
+
+模拟首先对Pt原胞进行结构优化，在优化后的Pt原胞的基础上切出Pt(111)面，构建4层Pt原子，添加真空层厚度为 $2 . 0 \mathrm { n m }$ ，建立 $1 \times 2 \times 1$ 的超晶胞。约束底层两层原子，对晶胞进行弛豫，得到其结构参数为： $\mathrm { a { = } 0 . 5 7 0 9 0 5 n m }$ ， $\mathrm { \Delta b { = } 0 . 9 8 8 8 3 6 n m }$ ， $\mathrm { c } { = } 2 . 6 9 9 2 1 \mathrm { n m }$ ${ \mathrm { a } } = { \mathrm { B } } = \gamma = 9 0 { } ^ { \circ }$ 。同样，对 $\mathbf { O } _ { 2 }$ 分子进行结构优化，测得优化后 $\mathrm { O } _ { 2 }$ 分子键长为 $0 . 1 2 4 0 1 4 \mathrm { n m }$ 。将 $\mathrm { O } _ { 2 }$ 置于Pt（111）表面的真空层， $\mathrm { O } _ { 2 }$ 将吸附于 $\mathrm { \ P t }$ 表面，对吸附的结构进行优化，得到能量最低的 $\mathrm { O } _ { 2 }$ 吸附于Pt（111）表面的稳定结构，如图1。吸附过程中能量变化如图2所示。
+
+此 $\mathrm { O } _ { 2 }$ 吸附于Pt（111）表面的稳定结构作为模拟计算的初始模型，运用分子动力学模拟发生在Pt表面的氧气还原反应的特性。计算所得到的 $\mathrm { \ P t }$ 晶格常数为 $0 . 4 0 \mathrm { n m }$ ，该常数的实验值为 $0 . 3 9 2 \ \mathrm { n m }$ ，在误差范围内，该计算所设定的参数是合理的，所得数据在有效范围内。
+
+![](images/5417f7f6b282b598a71a0a4734e3c05186197a178419960464ac7a9b6831ade4.jpg)  
+图 $1 \mathrm { O } _ { 2 }$ 在 $\mathrm { \ P t }$ 表面的吸附
+
+![](images/017288b606426d2c87682dd922b0ddbab2c619059e080598175a27c6f85b0956.jpg)  
+Fig.1 $\mathrm { O } _ { 2 }$ adsorption on the surface of the Pt   
+图2 $\mathbf { O } _ { 2 }$ 吸附于 $\mathrm { \ P t }$ 表面时的能量变化
+
+Fig.2 Energy with the $\mathrm { O } _ { 2 }$ adsorption on $\mathrm { P t }$ surface
+
+# 2、反应路径
+
+在弱酸性环境下， $\mathrm { O } _ { 2 }$ 反应路径为：
+
+$$
+\mathrm { O } _ { 2 } { + } 4 \mathrm { H } ^ { + } { + } 4 \mathrm { e } ^ { - } { \to } 2 \mathrm { H } _ { 2 } \mathrm { O } ;
+$$
+
+Pt 表面的氧气还原反应分为四个步骤进行。第一个反应步骤是将第一个氢原子 $\mathrm { H } _ { 1 }$ 置于 $\mathrm { O } _ { 1 }$ 与 $\mathrm { O } _ { 2 }$ 中间点上方 $0 . 3 \mathrm { n m }$ 处，发生反应： $^ { * } \mathrm { O } _ { 2 } \mathrm { + } \mathrm { H } \mathrm {  } ^ { * } \mathrm { O } _ { 2 } \mathrm { H } \mathrm {  }$ $^ { * } \mathrm { O + ^ { * } O H }$ ；（\*表示吸附于 $\mathrm { \bf { P t } }$ 表面），如图3。在反应过程中， $\mathrm { H } _ { 1 }$ 原子逐渐接近 $\mathrm { \Delta O } _ { 1 }$ 原子在达到距离 $\mathrm { \Delta O } _ { 1 }$ 原子 $0 . 1 2 6 1 \ \mathrm { \ n m }$ 处，与 $\mathrm { \Delta O } _ { 1 }$ 成键，如图3(b)。随着反应时间的不同，可形成图3(b)、(c)所示两种生成物。能量随时间的变化如图4所示。由图可知，在反应生成反应物A之后，会有一个瞬态能量稳定期，在没有得到充足的H供应的情况下，最终分解为中间产物B，从而进一步释放能量。但实际情况是H的供应是连续而充分的，因此第一个步骤中的反应方程式是： $^ { * } \mathrm { O } _ { 2 } \mathrm { + } \mathrm { H } \mathrm {  } ^ { * } \mathrm { O } _ { 2 } \mathrm { H }$ ，而不会出现 $^ { * } \mathrm { O } _ { 2 } \mathrm { H } {  } ^ { * } \mathrm { O } { + } ^ { * } \mathrm { O H }$ 的反应。
+
+![](images/66dadfae3a09baed59939f90eeeb2c2713113f861881c3244d75cdb566f7791c.jpg)  
+图3（a）反应物Fig.3 (a) the reactants
+
+![](images/cb56d8c8e6198d08b3edcb204656214026d40157fe31fa8bb0e257e88b31389d.jpg)  
+图3(b)生成物A Fig.3 (b) the product A
+
+WE
+
+![](images/7b6dd59011c4f4a32dcaff4d8d61679baf3a69321c34e369065e180019cc421a.jpg)  
+图3(C)生成物B Fig.3 (c) the product B 图3第一步反应过程 Fig.3the first step reaction   
+图4 $^ { * } \mathrm { O } _ { 2 } \mathrm { + } \mathrm { H } { \longrightarrow } ^ { * } \mathrm { O } _ { 2 } \mathrm { H } { \longrightarrow } ^ { * } \mathrm { O } \mathrm { + } ^ { * } \mathrm { O H }$ 体系能量随反应时间变化 Fig.4 Energy with the reaction of $^ { * } \mathrm { O } _ { 2 } \mathrm { + } \mathrm { H } {  } ^ { * } \mathrm { O } _ { 2 } \mathrm { H } {  } ^ { * } \mathrm { O } { + } ^ { * } \mathrm { O H }$   
+Fig.5 the second step reaction
+
+由于实际反应时H是连续而充分地供应，故将生成物A进行结构优化，作为第二个反应步骤的模型。在第二个步骤中，加入第二个氢原子 $\mathrm { H } _ { 2 }$ ，发生反应： $^ { * } \mathrm { O } _ { 2 } \mathrm { H } + \mathrm { H } \xrightarrow { } ^ { * } \mathrm { O } _ { 2 } \mathrm { H } _ { 2 } \xrightarrow { } ^ { * } \mathrm { O H } + ^ { * } \mathrm { O H }$ ，反应模型如图5。反应中将 $\mathrm { H } _ { 2 }$ 原子置于距离 $\mathrm { \Delta O } _ { 1 }$ 、 $\mathrm { H } _ { 1 }$ 、 $\mathrm { O } _ { 2 }$ 等同距离$0 . 3 \mathrm { n m }$ 处，对模型进行分子动力学模拟。可以发现：在加入 $\mathrm { H } _ { 2 }$ 之后， $\mathrm { H } _ { 2 }$ 逐渐运动趋向于 $\mathbf { O } _ { 2 }$ ，与 $\mathrm { O } _ { 2 }$ 成键，生成 $\mathrm { * _ { O _ { 2 } H _ { 2 } } }$ ，并最终分解为两个 $^ { * } \mathrm { O H }$ ，如图5(b)、图5(c)。
+
+![](images/502d352ef44fb72008cb4d9c1744cd537f1843df88d92e375f930b2b0c1f21a9.jpg)  
+图5(a)反应物
+
+![](images/78e116666b8ca877cd6569cdf2b2c76d4fbcbe6b6e07b79e2f22329b9ef06ad8.jpg)  
+  
+Fig.5 (a) the reactants   
+图5(b)H2 的吸附  
+Fig.5(b) the adsorption of $\mathrm { H } _ { 2 }$
+
+图5(c)生成物C Fig.5 (c) the product C 图5第二步反应过程
+
+在图 5(c)即生成物C 的基础上，对该生成物进行优化，并加入第三个氢原子进行第三步反应：$2 ^ { \ast } \mathrm { O H + H \mathrm { - } \mathrm { ^ \ast } O H + H _ { 2 } O }$ 。初始模型如图6(a)，将H3原子置于 $\mathrm { O } _ { 1 }$ 之上 $0 . 3 \mathrm { n m }$ 处，之后对该模型进行分子动力学模拟。 $\mathrm { O } _ { 1 }$ 在与 $\mathrm { H } _ { 3 }$ 结合后，开始断裂与Pt原子之间的联系，并形成水分子脱离，如图6(b)。
+
+最后对第三步得到的产物E进行结构优化，加入第四个氢原子 $\mathrm { H } _ { 4 }$ 作为第四步反应的反应物，进行第四部的反应： $^ { * } \mathrm { O H } { + } \mathrm { H } _ { 2 } \mathrm { O } { + } \mathrm { H } {  } 2 \mathrm { H } _ { 2 } \mathrm { O } .$ 。第四步的初始反应物如图7(a)所示，对其进行分子动力学模拟计算，并得到最终生成物F，如图7(b)。
+
+![](images/dac77066be779dc728d351823fff4622581ff5286f709bf6dc58943f7b595761.jpg)
+
+![](images/e529dfedfaaa1c9df110ec7d4657b874674f78a4eca0b07ee361405bd9329958.jpg)  
+图6(a)反应物Fig.6 (a) the reactants
+
+![](images/74598d2c24ba2fd7ac59d15d351a997f697c059e00db12de7b142fb4b00ac575.jpg)  
+图6(b)生成物E Fig.6 (b) the product E 图6第三步反应 Fig.6 the third step reaction
+
+![](images/2a08f25859289051c92df968b514ab99388a5efefa283007e083ff224ee6da26.jpg)  
+图7(a)反应物Fig.7 (a) the reactants  
+图7(b)生成物FFig.7 (b) the product F图7第四步反应Fig.the fourth step reaction
+
+3、温度影响
+
+模拟设定压强等同、Pt表面状态相同和放置H原子位置相同，分别分析温度在393K、413K、433K、453K和473K时对反应中四个步骤的影响。反应的四个步骤是：
+
+$$
+\begin{array} { r l r l } & { \mathrm { ~ \ ^ * O _ 2 + H \to * O _ 2 H ~ } } & & { \qquad \textcircled { 1 } } \\ & { \mathrm { ~ \ * O _ 2 H + H \to * O _ 2 H _ 2 \to * O H + * O H ~ } } & & { \qquad \textcircled { 2 } } \\ & { \mathrm { \ 2 * O H + H \to * O H + H _ 2 O ~ } } & & { \qquad \textcircled { 3 } } \\ & { \mathrm { \ * O H + H _ 2 O + H \to 2 H _ 2 O ~ } } & & { \qquad \textcircledast } \end{array}
+$$
+
+每个反应步骤都是在前一个步骤得到生成物的基础上，在相同的位置加入反应物H原子进行下一步的反应。
+
+图8是当温度条件为433K时，四个步骤反应过程中的能量随时间的变化。在H的初始位置距离氧原子等同的情况下，每一步反应所需的时间不同，而以第一步反应所占时间最长，达到130fs左右。第二、三、四步反应所需时间均小于此值，三者所需反应时间均小于50fs。由此可见，在Pt（111）表面进行的 $\mathrm { O } _ { 2 }$ 与H的反应中，H在 $\mathrm { O } _ { 2 }$ 上的首次吸附所需的时间在整个反应过程中是最长的，这意味着这个步骤是整个反应中的控制步骤。
+
+![](images/26d6108d66367df4bf25330f30df9dbf3b7cff2041fa93672395b5ae59ac396d.jpg)  
+图8433K四步反应过程中系统能量随时间变化  
+Fig.8 four steps in the process of system energy change over time fewer than 433Kelvin temperature
+
+图9是整个反应控制步骤第一步反应速度随温度的变化曲线。图中显示：随着温度的提升，反应成键之前所需的时间逐渐减少，即分子运动的速度随温度的升高而增加。同时，随着反应温度的提升，成键后达到稳态的时间也显著缩短，即反应的速率随温度的升高而加快。
+
+表1统计了各温度条件下控制步骤第一步反应$\mathrm { \Delta O } _ { 1 }$ 和 $\mathrm { H } _ { 1 }$ 吸附瞬间H原子的瞬间速度以及吸附前 H原子的平均速度， $\mathrm { O } _ { 2 }$ 和 $\mathrm { H } _ { 1 }$ 之间成键的时间和稳定后结构的最优键长。
+
+![](images/c165a9821c09cc8cab85dbdf6398c002bafcd44ca0c2ec494f23cb6720c2b889.jpg)  
+图9不同温度下第一步反应的时间和能量的变化different reaction temperature
+
+表1不同温度下的Pt原子间距及 $\mathrm { O } _ { 2 }$ 与 $\mathrm { H } _ { \mathrm { l } }$ 的成键时间 Table1 the distance between two Pt atoms and the bonding time between O2 and H1 for different temperature   
+
+<html><body><table><tr><td>温度</td><td>393K</td><td>413K</td><td>433K</td><td>453K</td><td>473K</td></tr><tr><td>吸附前H平 均速度 /0.1nm·fs-1</td><td>0.000272 08</td><td>0.000374 595</td><td>0.000731 588</td><td>0.001054 976</td><td>0.001111 557</td></tr><tr><td>成键时间/fs</td><td>229</td><td>186</td><td>113</td><td>77</td><td>66</td></tr><tr><td>0与H.最优</td><td>0.990</td><td>0.988</td><td>0.988</td><td>0.991</td><td>0.990</td></tr></table></body></html>
+
+综合表中数据可以发现，随着温度的上升，H原子吸附前和吸附瞬间的运动速度显著增加，成键需要的时间缩短，但温度对生成物稳定状态的最优键长影响很少，可以忽略不计。
+
+# 4、结论
+
+本文根据密度泛函理论，对Pt（111）表面的$\mathbf { O } _ { 2 }$ 的还原反应进行分子动力学模拟计算，根据计算的结果，可得到如下的结论：
+
+1、在Pt（111）表面上进行的 $\mathrm { O } _ { 2 }$ 与 $\mathrm { ~ H ~ }$ 的反应过程中，如果H原子能持续和充分供给，其反应步骤中的第一步反应只能是： $^ { * } \mathrm { O } _ { 2 } \mathrm { + H \mathrm { - } }$ $^ { * } \mathrm { O } _ { 2 } \mathrm { H }$ 。  
+2、在Pt（111）表面上进行的 $\mathrm { O } _ { 2 }$ 与H的整个反应过程中，第一个步骤，即 $\mathrm { H } _ { 1 }$ 与 $\mathrm { O } _ { 2 }$ 的吸附时间最长，是整个反应的控制步骤。  
+3、随着温度的升高，H原子的运动速度加快，和O吸附成键时间缩短，表明温度升高可以提高反应速率，但不会影响各个反应步骤中生成物的结构。
+
+# 参考文献
+
+[1]Yeager E B.Electrocatalystsfor $\mathrm { O } _ { 2 }$ Reduction [J]. Electrochim Acta. 1984,29(11): 1527-1537.   
+[2]Miah Md R,Osaka T. Two-step Four-electron Reduction of Molecular Oxygen at Iodine-adatoms-modified Gold Electrode in Alkaline Media [J]. International Journal of Electrochemistry Society, 2012,7:697-710   
+[3]Adzic R, Lipkowski J, Ross PN, et al. Recent Advances in the Kinetics of Oxygen Reduction (In Electrocatalysis)[M], Wiley-VCH: New York,1998   
+[4]Markovic N M, Schmidt T J, Stamenkovic V, et al. Recent Advances in the Kinetics of Oxygen Reduction [J]. Fuel Cells 2001,1(2): 105-116.   
+[5]Sun H, Cai X Y, Wang X. Analysis of the Electrochemical Reaction Path at the Cathode of a PEM Fuel Cell [J]. Journal of Engineering Thermophysics. 2013,34(1)   
+[6]Liu C， Wu YH,Sun H， Tang Y L.Oxygen Reduction Reaction of PEMFC Cathode by Molecular Simulation[J]. Advanced Materials Research,2010,105-106(1): 698-700.   
+[7]Hartnig C, Koper M T M. Molecular Dynamics Simulation of the First Electron Transfer Step in the Oxygen ReductionReaction[J].J. ElectroAnal. Chem. 2002,532:165-170   
+[8]Gómez-Marin Ana M, Juan M Feliu. New Insights into the Oxygen Reduction Reaction Mechanism on Pt(111): A DetailedElectrochemicalStudy[J].ChemSusChem, 2013,6 (6): 1091-1100.   
+[9]Andrew A Gewirth, Matthew S Thorum. Electro reduction of Dioxygen for Fuel-Cell Applications: Materials and Challenges[J]. Journal of Inorganic Chemistry,2010,49 (8): 3557-3566.   
+[10] Paulus UA,Wokaun A, Scherer G G. Oxygen Reduction on Carbon-Supported Pt-Ni and Pt-Co Ally Catalysts[J]. Journal of Physical Chemistry B,2002,106 (16):4181-4191   
+[11] Wikander K, Ekstrom H, Palmqvist A E C,et al. On the Influence of Pt Particle Size on the PEMFC Cathode Performance[J]. Electrochimica Acta, 2007， 52(24): 6848-6855.   
+[12] Stephen Walch,Abhishek Dhanda, Masoud Aryanpour, et al.Mechanism of Molecular Oxygen Reduction at the Cathode of a PM Fuel Cell: Non-Electrochemical Reactions on Catalytic Pt Particles[J]. Journal of Physical Chemistry C 2008 112 (22): 8464-8475   
+[13] Zhang J, Wang X, Wu C, et al. Preparation and Characterization of $\mathrm { P t / C }$ Catalysts for PEMFC Cathode: Effect of Different Reduction Methods[J].Reaction Kinetics and Catalysis Letters,2004, 83(2): 229-236.

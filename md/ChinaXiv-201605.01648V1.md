@@ -1,0 +1,245 @@
+# 星载大容量固态存储器快速可靠启动算法设计
+
+李 姗²，宋 琪²，朱 岩，安军社(1.中国科学院空间科学与应用研究中心，100190北京；2.中国科学院大学，100049北京)
+
+摘要：为解决星载SSR启动缓慢，可靠性不足所带来的无法满足复杂、灵活的任务需求问题,研究星载大容量固态存储器(SSR)的索引建立机制,分析传统方案的优缺点并结合在轨运控需求、工作模式等特点提出一种适合基于NAND FLASH的星载大容量固态存储器的快速启动算法.原有文件系统存储索引表来自于NANDFLASH空余区,算法增加新的保留区设计及相应的启动过程避免重启时扫描空余区重新建立索引.针对空间环境单粒子效应带来的存储错误NANDFLASH保留区的索引信息采取ECC编码、冗余备份、分区存储等可靠性措施提高索引表的可靠性.本文介绍了应用保留区的启动工作机理以及不同模式下的更新方式阐述了系统在功能性重启和故障性重启下的扫描方式，并建立数学模型分析算法的有效性，最后在使用欧比特NANDFLASH搭建的测试平台上进行验证.算法功能性重启索引建立耗时 $5 . 6 4 3 ~ \mathrm { ~ m s }$ ,故障重启索引建立$7 3 . 9 8 5 ~ \mathrm { m s }$ 而传统算法重启索引建立50.37s.实验结果表明本算法显著减少了系统启动耗时.
+
+关键词：快速启动；NANDFLASH；固态存储器；存储系统中图分类号：TP274 文献标志码：A 文章编号:0367-6234(2015)10-0100-06
+
+# Design of quick initialization algorithm for space-borne solid state recorder
+
+LI Shan 1²,SONG Qi1'²,ZHU Yan’ ,AN Junshe1 (1.Center for Space Science and Application Research,Chinese Academy of Sciences,100190 Beijing,China; 2.University of Chinese Academy of Sciences,1OoO49 Beijing,China)
+
+Abstract:The starting up of onboard SSR is slow and the management is unreliable,theycan not satisfy the demand of the mission which is becoming more and more complex and flexible.To solve the problem,this paper focuses on the index establishing mechanism for onboard Solid State Recorder（SSR）,a quick initialization method for onboard massive capacity SSR based on NAND FLASH is proposed by analyzing the advantages and disadvantages of traditional scheme,the requirementof on-orbit operation and control,and working mode,etc.The proposed method uses the design of reserved area and corresponding booting process on the basis of the original NAND FLASH indexing mechanism by space area,which largely reduced the organization time for index table.By considering the memory error caused by single particle effct,the index information in thereserved areaof NAND FLASH uses reliabilitymethods including ECCcoding,redundancies and partion storage to improve thereliability of the index table.The restart working mechanism and the updateof diferent mode for the reserved area of application is firstly introduced.Followedbythedescriptionofthescanning modeinboth functionalrestartand fault restart,anda mathematical model is built to prove theefectiveness,and is verified ina platform establishedusing Orbita NANDFLASH.Finaly,in the designed platform the functional restart of the algorithm takes3.643 ms and thefaultrestart takes 73.985 ms while the traditional algorithm takes 50.37s,which demonstrate thatthe proposed algorithm significantly reduces the mounting up time.
+
+Keywords: quick initialization; NAND FLASH; solid state recorder; storage system
+
+星载大容量固态存储器(SSR)是航天器的关键设备之一由于地面接收站数量、接收范围有限航天器在轨运行时，产生的大量珍贵数据需先在星上暂存待入境后进行数据传输.航天器工作环境恶劣空间中充斥着大量带电粒子可导致设备内管理逻辑混乱部分单元失效甚至引起设备起火烧毁整个航天器[1-5].异常发生时 需通过地面在过境时发送指令以备份单元切换的方式降低或消除带电粒子带来的效应的影响.另外，对绕月、绕火星等非地球恒星的飞行器而言其测控和数传接收还受到各星球间位置关系变化的影响，因此星载SSR管理算法对可靠性和启动时间都提出了较高的要求.
+
+NANDFLASH的存储密度高低功耗抗震能力强等[6-8].目前,常见的NAND FLASH管理方法有JFFS[9],YAFFS[0]等.其中 YAFFS 是针对 NANDFLASH设计的管理方法启动较 JFFS更快[11]应用范围更广.YAFFS算法中索引表使用多级映射方式，系统重建耗时长，风险大. $\mathrm { Y i m } ^ { [ 1 2 ] }$ 提出的快照技术（Snapshot）将系统内数据索引记录下来并保存在NANDFLASH中系统再次启动时只需读取快照内数据即可重建索引但该算法的快照机制只在系统正常关机时才启动异常关机时快照内容无法重建系统，必须对所有NANDFLASH空余区进行扫描依旧存在启动时间过长的问题.星载SSR的启动时间由索引表建立时间、CPU读取索引表时间以及存储系统初始状态设置时间3部分构成， $2 5 6 ~ \mathrm { G b }$ 容量( $3 2 \mathrm { ~ K ~ }$ 条索引表项)情况下CPU读取索引表时间在1s以内初始状态设置过程在几个CPU周期之内即可完成而索引表的建立时间占启动时间的 $9 5 \%$ 以上.因此本文重点讨论如何对索引表建立时间的优化设计.
+
+# 1 NAND FLASH
+
+NANDFLASH是一种层次结构的掉电非易失存储器页作为基本单元构成块，多个块组成芯片.每页包含数据区和空余区，空余区用于存储一些管理信息.NANDFLASH由FNtunnel构成,它是芯片中的最小存储单元，可以通过放电的方式使其为零，但无法单独使其置‘1’，只能整块充电置‘1'.因此，NANDFLASH不能直接更新，需要先擦除后更新.NANDFLASH的基本操作包括:读取擦除写入.其中读取和写入的基本单元为页,而擦除的基本单元为块[13].NANDFLASH采用数据地址分时复用的形式，通过IO分时传输数据、地址及控制信息.坏块是一些无法被彻底擦除或者其中有些位无法翻转块的统称.由于成本和工艺限制出厂时NANDFLASH中会存在一些坏块称为初始坏块.为区分这些出厂坏块厂家通常在NANDFLASH空余区的第一个字节标记非“OXFF”.NANDFLASH的块擦除极限为 $5 ~ 0 0 0 { \sim } 1 0 0 ~ 0 0 0$ 次因此会有坏块在使用过程中产生称作使用坏块
+
+为满足空间应用需要原始NANDFLASH芯片不仅经过抗辐照加固而且使用3-D封装技术进行叠装以实现更高的存储密度[14].3-D技术将8片NANDFLASH基片（DIE)封装为成一个镀金立方体将芯片的控制信号，电源线连接在一起，而数据线、片选信号分别引出.以珠海欧比特公司的
+
+VDNF64G08为例[15],每个芯片包含8个die，每个die包含4096个块，每块包含64页，每页包含4KBytes数据区和128Kbytes空余区.
+
+# 2 快速启动算法设计
+
+星载SSR在轨运行时有3种工作模式：存储模式、回放模式以及混合模式.索引表随星载SSR内数据存储状态变化持续更新索引表更新策略需灵活适应各工作模式的需求.传统应用中采用页作为索引最小单元不仅占用大量存储空间且启动缓慢[15].现在越来越多的研究者把眼光集中在以块为单元甚至更大的单元索引策略上[16].NAND FLASH读操作的最小单元是页擦除操作的最小单元是块.因此本文采用以块为主以页为辅的索引方式，有效提高启动速率，
+
+# 2.1 星载SSR的启动基本流程
+
+传统星载SSR在对NANDFLASH进行数据存储、读取等操作的同时，将管理信息存储在NANDFLASH空余区.由于NANDFLASH单页加载时间较长约为 $2 0 0 \sim 7 0 0 ~ \mu \mathrm { s }$ 而一页数据加载时间通常不超过 $1 3 0 ~ \mu \mathrm { s }$ ,为了提高SSR的吞吐量，多采用多级流水操作[17].空余区采用页为单元标记,当页操作完毕后根据操作结果在页空余区中写入页信息，包括页使用情况、页属性、流水级信息等.空间中存在多种高能粒子易诱发NANDFLASH发生单粒子效应产生逻辑错误或引起功能异常，严重影响航天器在轨效能的发挥.为提高索引条自的可靠性，加入ECC校验码，可实现自动纠正1位错误检测2位错误.具体页信息存储情况如表1所示，
+
+表1NANDFLASH空余区页记录信息表  
+
+<html><body><table><tr><td>页种类</td><td>空余区 第一字节</td><td>空余区 第二、三字节</td><td>空余区 第四字节</td><td>空余区 第五字节</td></tr><tr><td>已使用</td><td>页属性信息</td><td>文件号</td><td>流水级信息</td><td>ECC校验码</td></tr><tr><td>未使用</td><td>全‘1'</td><td>全‘1'</td><td>全‘1'</td><td>全‘1’</td></tr></table></body></html>
+
+星载SSR启动时遍历所有页的空余区并将页信息整合为按照块为单位的新条目.块条目包含块信息、使用信息等.块条目结构组成如表2所示.
+
+表2块条目信息表  
+
+<html><body><table><tr><td>块种类</td><td>第0- 11位</td><td>第12- 15位</td><td>第三、四 字节</td><td>第五 字节</td><td>第六 字节</td></tr><tr><td>已使用</td><td>块地址</td><td>块属性信息</td><td>文件号</td><td>起始地址</td><td>ECC校验码</td></tr><tr><td>未使用</td><td>块地址</td><td>全‘1'</td><td>全‘1’</td><td>全‘1'</td><td>全‘1’</td></tr></table></body></html>
+
+索引表建立完成之后，由CPU读取并存入缓存SDRAM中，供CPU对存储区进行管理.因此，对于传统算法管理的星载SSR而言，索引表一份存储在CPU缓存SDRAM中，另一份存储在NANDFLASH的空余区.第一份掉电丢失，启动时必须遍历所有块空余区致使启动时间随容量增加大幅增长[12],无法满足星载SSR的应用需求，
+
+# 2.2 保留区索引表设计
+
+为提高系统启动速度本文提出保留区概念在星载SSR存储区中划分一块区域专门保存索引信息定义为保留区索引表.启动时，优先搜索保留区索引表集中搜索区域降低搜索用时.
+
+保留区索引表基于CPU中原始索引表架构精简组织信息，减少组织用时，减小索引表，提高启动速度.根据保留区索引条自类型将其划分为坏块信息区与数据信息区，由于二者更新频率、方式不同，因此将两者独立存储、管理.坏块区更新频率低，可靠性要求更高对坏块信息区进行双份冗余存储.数据信息区保存索引条目坏块区保存坏块块号.索引表条目可用数组表示为： $\{$ 块号块类型,文件号文件占用页数ECC编码}，索引条自使用固定的位数存储替代条目标示符提高检索效率.保留区中块的数据区存储索引信息，空余区存储维护信息.空余区第一个字节代表块属性第二个字节代表页状态，块属性分为正常块 $( { \begin{array} { l l } { 0 \mathrm { { x } } } & { ^ { 6 } \mathbf { 0 } 3 } \end{array} } " )$ 、未使用块( $0 \mathrm { x }$ “FF"）页状态分为有效 $( \mathrm { ~ 0 x ~ } ^ { \prime \prime } 5 5 ^ { \prime \prime } )$ 、无效（ $\mathrm { ~ ( ~ 0 x ~ ' 0 0 ' ) }$ ：
+
+随着星载SSR的运行，索引表中将产生大量失效条目需定期整理.如将整个索引表读出，剔除失效条目再写入，需占用NANDFLASH总线较长时间降低系统存储效率.为此本文提出分die管理的方式将保留区分die划分，每个die的保留区中仅存储该die的索引表，使用时只需维护当前die，充分利用空间降低各die间的耦合度，提高可靠性同时增强算法适用性，
+
+首次上电对所有NANDFLASH芯片进行扫描得到出厂坏块地址并分别将其全部写入每个die保留区的第一个block 坏块区中 ,然后使用Page Cope-Back将其中内容拷贝至第二个block的坏块区中并在第一块空余区写入 $0 \mathrm { x }$ “55”标示该页为有效的索引表存储页.正常工作时，CPU按一定更新周期对保留区索引表进行更新将新增的数据信息写入数据信息区.根据NANDFLASH的特性无法对写入块直接更新但分析可知再次写入，对应位为两次写入量相与的结果因此可以通过再次写入零的方式将对应位写为零此操作定义为覆写.新增信息如为文件写入顺序添加条目；如为文件擦除将对应条目的文件大小覆写为0;如为擦除坏块则将其块号写入坏块信息存储页;如为出错块则先将其写入数据信息存储页中，待失效处理后将地址写入坏块区，
+
+每个Die的保留区采用固定定位的方式提高系统故障后重启的可靠性.每个Die的前5个好块定为保留区随着系统信息的更新保留区内也可能出现坏块如出现坏块顺序向后扩展保留区，保证保留区中至少有3个好块可供使用.更新策略也采用顺序更新方式，即第 $i$ 块是两个区都更新第 $i + 1$ 块是独立更新坏块区.
+
+索引更新策略需配合各工作模式以保证性能最优.存储模式下数据流量低，NANDFLASHI/O总线空闲时间充裕，保留区正常更新.回放模式和混合模式下数据流量高NANDFLASHI/O总线忙碌，停止更新保留区，仅实时更新原始索引表和备份索引表.在境内时地面会根据需求，发送指令标记不再需要的文件为失效数据.索引条自对应文件失效时将该条目对应文件占用页数改写为零，该操作定义为失效处理失效处理通过覆写即可快速实现.出境模式后，需根据地面指令更新索引表.通常,过境后会有大量数据被标记无效.为提高更新效率将保留区中入境前有效的block标记无效根据原始索引表中失效信息对保留区组织新索引表写入保留区中空白块.采用流水线方式更新索引表提高整体更新效率具体流程如图1所示.其中 $N _ { \mathrm { c l } } =$ 更新总级数; $N _ { \mathrm { { c } } } =$ 单级更新总数; $N _ { \mathrm { e l } } =$ 擦除总级数; $N _ { \mathrm { e } } =$ 单级擦除总数；一个die内有 $B$ 个块
+
+# 3星载 SSR的快速启动模式
+
+星载SSR在首次启动或者彻底复位后的首次启动需要遍历Flash空余区，无法实现快速启动.而在一般工作过程中重启时能够使用快速启动模式.实际应用中快速启动拥有两种模式，一种为功能性重启，一种为故障性重启.功能性重启为恢复功能或消除某些粒子效应时进行的软件重启.故障性重启多为系统在运行中遇到的不可抗力使得其突然掉电或者复位.两者间最大的区别为功能性重启时过程可控，系统有足够的时间将缓存区的索引表写入保留区并将保留区索引表所在位置保存而故障性重启时过程不可控
+
+功能性重启：由计算机中主控计算机板发送重启指令星载SSR系统中计算机板接到指令后优先将缓存中索引信息存入保留区.保存保留区索引表后星载SSR系统中CPU将保留区索引表所在位置发送给主控计算机板然后重启.再次上电，CPU只扫描保留区有效块的数据区即可重建索引.
+
+故障性重启:系统突然掉电丢失CPU缓存内信息包括原始索引表保留区索引表更新信息最后更新位置以及整体分布位置.再次启动后重建步骤如下：
+
+1）定位保留区.CPU按顺序读取每个die内前两块空余区前两个字节，搜索到 $0 \mathrm { x } ^ { \prime \prime } 0 1 5 5 ^ { \prime \prime }$ 即停止，如无则从该die末尾开始倒序搜索，搜索到 $0 \mathrm { x }$ ”0155"即止;
+
+![](images/d03d30ce2cc3c14a54fa23f88b3cc3162af874da80d3deeb85bdcf76f99e298b.jpg)  
+图1索引表更新流程
+
+2）读取保留区.FPGA顺序读取每个die保留区有效块的空余区，扫描 $0 \mathrm { x } ^ { \prime \prime } 0 1 5 5 ^ { \prime \prime }$ .根据 $0 \mathrm { x } ^ { \prime \prime } 0 1 5 5 ^ { \prime \prime }$ 的位置定位有效页，读取有效页的数据区；
+
+3）定位最后更新位置.读取每个die索引表记录中最后一块的下一非坏块空余区,如非 $0 \mathrm { x }$ "FF”，则表明此块已使用.块内实际使用情况与索引表记录不符此die为最后更新位置；
+
+4）恢复更新信息.假设最后更新die的索引表最后一条地址是第 $m$ 块更新周期为 $N$ 块.将从 $m$ 块开始扫描每页空余区的前6字节直至 $m + N$ 块或者扫描到某页空余区第一个字节为“FF”表明此块未写入过数据为止
+
+# 4系统性能分析
+
+# 4.1 基本假设
+
+本算法的启动时间与NANDFLASH大小、保留区内坏块的数量、索引表的大小、更新方式、故障发生时缓存区内容大小、索引表更新周期都相关.为计算方便做出如下假设：
+
+1）系统寿命内每个die内坏块的数量不超过 总量的一半;
+
+2）目标 NAND FLASH 满足: $\mathrm { 1 p a g e = \left( D + S \right) }$ Byte,1block $. = \ P _ { \mathrm { p a g e s } }$ 1 $1 \mathrm { d i e } = B _ { \mathrm { b l o c k s } }$
+
+测试系统包括 $Q _ { \mathrm { d } }$ 个die;
+
+3）保留区内有效块为第 $\mathbf { \chi } _ { i }$ 块的概率为 $n _ { i } \%$ 0
+
+4）读取时钟周期为 $t _ { \mathrm { c l k } }$ ,NANDFLASH内部加载时间为 $t _ { \mathrm { b u s y } }$ ，读取比特数为 $q _ { \mathrm { r e a d } }$ ，因此,读NANDFLASH的时间可以表示为
+
+$$
+T _ { \mathrm { r e a d } } = 7 t _ { \mathrm { c l k } } + t _ { \mathrm { b u s y } } + q _ { \mathrm { r e a d } } t _ { \mathrm { c l k } } .
+$$
+
+令 $T _ { \mathrm { c } } = 7 t _ { \mathrm { c l k } } + t _ { \mathrm { b u s y } }$ .式(1)可简化为
+
+$$
+T _ { \mathrm { r e a d } } = T _ { \mathrm { c } } + q _ { \mathrm { r e a d } } t _ { \mathrm { c l k } } .
+$$
+
+5）最后更新位置为第 $N _ { l }$ 块 $\boldsymbol { \mathrm { \Omega } } \mathrm { 0 } \leqslant N _ { l } \leqslant Q _ { \mathrm { d } } \boldsymbol { \mathrm { \Omega } } \mathrm { ; }$
+
+6）算法更新周期为 $N _ { \mathrm { u p } }$ ·
+
+7）第 $i$ 个die索引表大小为 $V _ { i }$ $\rho \leqslant V _ { i } \leqslant P ( D + S )$
+
+4.2快速启动、传统索引建立时间分析及对比
+
+根据以上假设建立NANDFLASH数学模型重点对本文提出的快速启动算法的故障性启动时间$T _ { \mathrm { s t a r t n } }$ 和传统算法的启动时间 $T _ { \mathrm { s t a r t o } }$ 进行计算.
+
+$T _ { \mathrm { s t a r t n } }$ 的计算根据启动流程可分为如下4步：
+
+1）定位保留区 $T _ { \mathrm { o r i e n t } }$ 扫描 $i$ 次找到保留区使用时间为： $Q _ { \mathrm { d } } n _ { i } \% i ( \textit { T } _ { \mathrm { c } } { } ~ + ~ 2 t _ { \mathrm { c l k } } )$ ．厂商允许NANDFLASH存在一定数量的坏块，一般在 $2 \%$ 至 $5 \%$ 之间，同时FLASH设备的使用有擦写次数的限制，NANDFLASH是10O万次在空间环境中出现辐射时新增长使用坏块的概率 $p _ { \mathrm { u b } 1 } < 1 0 ^ { - 4 }$ 连续出现两块使用坏块的概率为 $p _ { \mathrm { u b 2 } } = p _ { \mathrm { u b 1 } } ^ { 2 } ~ < ~ 1 0 ^ { - 8 [ 1 9 ] }$ .因此，系统寿命内连续出现两块以上使用坏块的概率极低，假设保留区最多会出现两个坏块，最多需扫描三次即可得到索引表位置.
+
+$$
+\begin{array} { r l r } { T _ { \mathrm { o r i e n t } } = } & { \displaystyle \sum _ { i = 1 } ^ { B / 2 } Q _ { \mathrm { d } } n _ { i } \mathcal { H } i ( T _ { \mathrm { c } } + 2 t _ { \mathrm { c l k } } ) = } & \\ & { \displaystyle Q _ { \mathrm { d } } ( T _ { \mathrm { c } } + 2 t _ { \mathrm { c l k } } ) \cdot ( n _ { 1 } \mathcal { H } + 2 n _ { 2 } \mathcal { H } + 3 n _ { 3 } \mathcal { H } _ { O } ) = } & \\ & { \displaystyle Q _ { \mathrm { d } } ( T _ { \mathrm { c } } + 2 t _ { \mathrm { c l k } } ) \cdot ( 1 + n _ { 2 } \mathcal { H } + 2 n _ { 3 } \mathcal { H } ) } & { < } \\ & { \displaystyle 1 . 1 \times Q _ { \mathrm { d } } ( T _ { \mathrm { c } } + 2 t _ { \mathrm { c l k } } ) . } & { ( 2 ; } \end{array}
+$$
+
+2）读取保留区Treadr ‘
+
+$$
+T _ { \mathrm { r e a d r } } = \sum _ { i = 1 } ^ { T _ { \mathrm { d } } } ( T _ { \mathrm { c } } + V _ { i } t _ { \mathrm { c l k } } ) \leqslant Q _ { \mathrm { d } } ( T _ { \mathrm { c } } + 2 7 B t _ { \mathrm { c l k } } ) .
+$$
+
+3）定位最后更新位置Tastup‘
+
+$$
+T _ { \mathrm { l a s t u p } } = N _ { l } ( \mathrm { \nabla } T _ { \mathrm { c } } + t _ { \mathrm { c l k } } ) \ \leqslant Q _ { \mathrm { d } } ( \mathrm { \nabla } T _ { \mathrm { c } } + t _ { \mathrm { c l k } } ) .
+$$
+
+4）恢复更新信息 $T _ { \mathrm { r e c o v e r } }$ 1
+
+$$
+T _ { _ \mathrm { r e c o v e r } } = N ( \textit { T } _ { \mathrm { c } } + 6 t _ { \mathrm { c l k } } ) .
+$$
+
+因此，本算法的启动时间 $T _ { \mathrm { s t a r t n } }$ 为
+
+$$
+T _ { \mathrm { \ s t a r t { n } } } = T _ { \mathrm { { o r i e n t } } } + T _ { \mathrm { { r e a d r } } } + T _ { \mathrm { { l a s t u p } } } + T _ { \mathrm { { r e c o v e r } } } .
+$$
+
+将式(2）\~(5)代入式(6)中得
+
+$$
+T _ { \mathrm { \scriptsize ~ s t a r t n } } = Q _ { \mathrm { { d } } } \left[ 3 . 1 T _ { \mathrm { { c } } } + t _ { \mathrm { { c l k } } } ( 3 . 2 + 2 7 B ) \ \right] .
+$$
+
+传统星载SSR管理算法在每页空余区写入块属性、块计数、时间码、校验码等，每次启动时都需要扫
+
+描所有空余区用 $T _ { \mathrm { s t a r t o } }$ 表示启动时间.
+
+$$
+T _ { \mathrm { s t a r t o } } = Q _ { \mathrm { d } } B P ( \mathrm { \Delta } T _ { \mathrm { c } } \mathrm { \Delta } + S t _ { \mathrm { c l k } } ) = Q _ { \mathrm { d } } ( \mathrm { \Delta } B P T _ { \mathrm { c } } \mathrm { \Delta } + B P S t _ { \mathrm { c l k } } )
+$$
+
+目前市场上常用的NANDFLASH中各参数的范围如下:
+
+$$
+3 2 < P < 2 5 6
+$$
+
+$$
+1 \ 0 2 4 \ < \ B \ < \ 8 \ 1 9 2 \ ,
+$$
+
+$$
+1 6 < S < 2 2 4
+$$
+
+$$
+T _ { \mathrm { c } } \approx 2 5 ~ { \mu \mathrm { s } } ~ ,
+$$
+
+$$
+5 0 ~ \mathrm { p s } \leqslant t _ { \mathrm { c l k } } \leqslant 2 8 . 5 7 ~ \mathrm { p s } .
+$$
+
+对比式(2)和式(3)可得：
+
+$$
+Q _ { \mathrm { d } } 3 . 1 T _ { \mathrm { c } } \ll Q _ { \mathrm { d } } B P T _ { \mathrm { c } } ~ .
+$$
+
+$$
+Q _ { \mathrm { d } } t _ { \mathrm { c l k } } ( 3 . 2 + 2 7 B ) \ll Q _ { \mathrm { d } } B P S t _ { \mathrm { c l k } } .
+$$
+
+因此,可得 $T _ { \mathrm { s t a r t n } } \ll T _ { \mathrm { s t a r t o } }$
+
+# 5 实验结果
+
+本文使用国产化器件搭建星载SSR硬件平台验证算法性能.存储芯片使用国产珠海欧比特生产的VDNF64G08芯片,CPU使用计算所研制的龙芯.FPGA尚未国产化使用ActelA3PE3000L芯片工作在64M晶振下.主要存储芯片为4片VDNF64G08芯片共256G.测试软件为基于LINUX5.8自主开发的星载SSR控制软件.在该平台下使用本文提出算法与传统管理算法进行启动时间的比较试验并且针对相关参数进行实验、讨论.星载相机拍摄图片通常较大，为贴合使用需求测试数据选用大小为 $1 0 0 ~ \mathrm { K } \sim 1 0 ~ \mathrm { M }$ 的图像数据.
+
+# 5.1 启动时间
+
+使用测试数据在以上测试平台上分别进行功能重启和故障重启，记录上电到索引表识别完毕的时间并与传统算法进行比较.首先，设定更新周期为100块使用测试数据将星载SSR存储区写满，待到数据开始循环擦除、写入到第550块时，由上位机软件发送重启指令得到功能重启的时间是 $5 . 6 4 3 ~ \mathrm { m s }$ 在同样测试条件下，待存储区循环擦除、写入到第550块时，人为掉电模拟故障，得到的故障重启时间是 $7 3 . 9 8 5 ~ \mathrm { m s }$
+
+相同条件下使用传统的管理算法得到的故障重启与软件重启时间相同，都为50.37s.可见，本文算法的启动时间显著缩短了启动时间.
+
+# 5.2 更新周期
+
+由于系统故障后启动时间与更新周期关系密切使用原测试数据在上述平台上进行以更新周期为变量的一组关于启动时间的测试实验.设定更新周期分别为10、100、500块.在写第495块时，人为掉电模拟故障重启启动时间见表3.
+
+表3不同更新周期下的启动时间  
+
+<html><body><table><tr><td>更新周期/块</td><td>启动时间/ms</td></tr><tr><td>10</td><td>6. 625</td></tr><tr><td>100</td><td>130.349</td></tr><tr><td>500</td><td>753.060</td></tr></table></body></html>
+
+故障后存留在缓存中的索引表信息丢失缓存区中的索引表信息量与故障发生的时间以及更新周期有关.随着更新周期增大缓存区的信息量增多故障发生时可能丢失信息量增多.再次启动时需要扫描的空余区数量增多所以系统故障启动时间变长.虽然更新周期增加对应启动时间增长但较长的更新周期CPU缓存内保存的索引信息量增多索引信息发生改动时更改索引表消耗的系统资源减少索引表维护更便捷.尤其时当系统内信息小范围频繁改动时较长的更新周期更利于简化索引表从而提高启动时间.因此需要结合工程具体需求选择更新周期
+
+# 6 结语
+
+对星载SSR工作特点进行分析,提出一种可靠的快速启动算法.该算法在原始星载SSR启动机制的基础上提出保留区概念单独存储索引表，减少启动扫描用时;流水更新的更新策略提高更新效率;双份冗余的坏块表存储方案增加算法可靠性；依据不同模式使用不同更新策略，充分保证其性能.笔者在逻辑模型下对该算法进行分析并与传统算法进行比较，又在国产器件搭建的星载SSR测试平台上对其进行试验验证.分析结果和试验结果均表明，该算法在功能性重启和故障重启条件下都能显著减少启动时间，在功能性重启条件下性能更优.在今后的研究中笔者将就更新周期文件修改概率，文件大小等多种影响因素进行更多的探讨以求更优良的管理方案
+
+# 参考文献
+
+[1]WANGJ,KATZR,SUNJ,etal. SRAMbased reprogrammable FPGA for space application [J].IEEE Trans Nuclear Science ,1999 46(6) :1728-1735.   
+[2]ALIARG,BISKUPB,BRUGGERMetal.SEUmeasurements and simulations in a mixed field environment[J].IEEE Trans Nuclear Science ,2013 60(4):2469-2476.   
+[3]MCMICKELL MB，TANZILLOP，KREIDER T,et al. Rapid development of space applications with responsive digital electronics board and LabVIEW FPGA $[ \mathrm { C } ] / \AA$ NASA/ESA Conference on Adaptive Hardware and Systems (AHS).Anaheim [s.n.]2010:79-81.   
+[4]THOMPSON S MYCROFT A BRAT G et al.Automatic inflight repair of FPGA cosmic ray damage [C]//1st Disruption in Space Symposium．Washington[s.n.], 2005:287-296.   
+[5]KOZA JR，BENNETT F H. Genetic programming 3: darwinian invention and problem solving [M].Berlin: Springer Netherlands,2000:379-381.   
+[6] BU K,WANG M,NIE H,et al. The optimization of the hierarchical storage system based on the hybrid SSD technology [C ]//the 2nd International Conferenceon ISDEA.Piscataway: IEEE ,2012: 1323-1326.   
+[7] FABIANO M,FURANO G. NAND flash storage technology for mission-critical spaceapplications [J].Aerospaceand Electronic Systems Magazine,IEEE,2013 28(9):30-36.   
+[8] MARINELLA M. The future of memory [C]//2013 IEEE Aerospace Conference.Piscataway: IEEE ,2013:1-11.   
+[9]WOODHOUSE D. JFFS:The journalling flash file system [EB/OL]. https: //www.sourceware.org/jffs2/jffs2-html/. 2001-10-10.   
+[10] Aleph One Ltd,Embedded Debian.Yafs:A NAND-Flash Filesystem[EB/OL].http://www.aleph1.co.uk/yaffs/.[214- 5-23].   
+[11]LU Cao ，SHI Shao.A fast mounting method for NAND flash file system 2O11[C]//3rd International Conference on Computer Research and Development （ ICCRD）. Shanghai [s.n.] 2011: 416-420.   
+[12]YIM K S.A fast start-up technique for flash memory based computing systems[C ]//ProceedingsoftheACM Symposium on Applied Computing（SAC）. New York: ACM ,2005: 843-849.   
+[13]ho CHIEN-CHUNG,HUANG PO-CHUN,KUO TEI-WEI, et al.A dram-flash index for native flash file systems [C]// International Conference on Hardware/Software Co-design and System Synthesis （CODES $+$ ISSS). Montreal [s.n.], 2013: 1-10.   
+[14]AL-SARAWI SAID F，ABBOTT DEREK，FRANZON PAUL D.A review of 3-D packaging technology[J]. IEEE Transactions on Components ,Packaging and Manufacturing Technology ,1998 21: 2-14.   
+[15]VDNF64G08-F 64G bit\* 8 bit NAND Flash Memory Data Sheet[S].Orbit Electronics,2013.   
+[16]RIZVI S S,CHUNG Tae-Sun.An advanced and reliable initialization technique using virtual clustering for flash memory based embedded and real time systems [C]//2011 6th International Conference on Computer Sciences and Convergence Information Technology（ICCIT) . Piscataway: IEEE,2011: 509-513.   
+[17] RIZVI S S ,CHUNG T S ,AMI: an advanced endurance management technique for flash memory storage systems [J].The International ArabJournal of Information Technology 2011. 8(1) : 1-9.   
+[181失岩其干闪存的星裁高速大空量存储技术的研究
+
+# [D].北京：空间科学与应用研究中心，2006.
+
+:19]NGUYEN E N，GUERTINSM，SWIFTG M，etal. Radiation effects on advanced flash memories [J].IEEE Transactions on Nuclear Science，1999,46(6):1744- 1750. (编辑张宏)

@@ -1,0 +1,542 @@
+[
+    {
+        "type": "text",
+        "text": "Genotypic diversity effects on biomass production in native perennial bioenergy cropping systems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GEOFFREY P. MORRIS1, ZHENBIN HU1,PAUL P.GRABOWSKI²,JUSTIN O. BOREVIT $Z ^ { ^ 3 }$ MARIE-ANNE DE GRAAFF4,R.MICHAEL MILLER and JULIED. JASTROW5 1Departmentofgronomy,Kansas Statenersityanattan,K66506,A,-AiryorageResearchete Madison,WI3706,USA,ResearchSchoolofiology,AustralianNationalUnioersity,Acton,AC60l,Autralia 4DepartmentoflogicaliencesiseStateesityise7ABosiencessionArgonetial Laboratory,Argonne,IL 60439,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The perennial grass species that are being developed as biomass fedstock crops harbor extensive genotypic diversity,but the efects of this diversityon biomass productionare not wellunderstood.We investigated the effects of genotypic diversity in switchgrass (Panicum virgatum) and big bluestem (Andropogon gerardii on perennial biomass cropping systems in two experiments conducted over 2008-2014 at a 5.4-ha fertile field site in northeastern Ilinois, USA. We varied levels of switchgrassand big bluestem genotypic diversity using various localand nonlocal cultivars -under low or high species diversity,with or without nitrogen inputs -and quantified establishment,biomass yield,ndbiomass composition.Inone experiment('agronomic trial),wecompared three switchgrass cultivars in monoculture to a switchgrass cultivar mixture and three different species mixtures,with or without N fertilization.In another experiment (diversity gradient)，we varied diversity levels in switchgrassand big bluestem (1,2,4,or 6cultivars per plot), with one or two species per plot. Inboth experiments,cultivar mixtures produced yields equivalent to or greater than the bestcultivars.In theagronomic trial, thethree switchgrass mixture showed the highest production overall,though not significantly diferent than best cultivar monoculture. In the diversity gradient, genotypic mixtures had one-third higher biomass production than the average monoculture,and none of the monocultures were significantly higher yielding than the average mixture.Year-to-year variation in yields was lowest in the three-cultivar switchgrass mixtures and Cave-In-Rock (the southern Ilinois cultivar)and also reduced in the mixture of switchgrass and big bluestem relative to the species monocultures.The efects of genotypic diversity on biomass composition were modest relative to the differences among species and genotypes. Our findings suggest that local genotypes can be included in biomass cropping systems without compromising yields and that genotypic mixtures could help provide high， stable yields of high-quality biomass feedstocks. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:big bluestem，biomassfeedstock，cultivars，ecotype，fertiization，low-inputhigh-diversity，polymorphism switchgrass, tallgrass prairie, yield ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received28 July 2015;accepted20August 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years,there has been great worldwide interest in the development of biomass cropping systems that could provide bioenergy feedstocks and reduce greenhouse gas emissions associated with fossil fuels.In the United States,Congress has mandated a major transition to lignocellulosic biofuels,which will require development of multiple new regionally appropriate biomass cropping systems (Downing et al., 2011). Among the top candidates for biomass energy crops are perennial grass species native to North American tallgrass prairies, including switchgrass (Panicum virgatum),big bluestem (Andropogongerardii)，andindiangrass(Sorghastrum nutans). These grasses share several characteristics that could be valuable for bioenergy production systems. Most notably they are capable of producing substantial yields of dry biomass with limited inputs and on land not suited to row cropping (Schmer et al., 2008; Griffith et al.，2011). In addition，bioenergy cropping systems based on native grasses may provide additional ecosystem services,such as carbon (C) sequestration(Tilman et al.，2006a;Gelfand et al.，2013)and wildlife habitat (Robertson et al.,2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Native perennial grasses have undergone some selection for forage，habitat restoration，and，increasingly, bioenergy uses，but most cultivars of these species remain essentially samples of the wild gene pool (Casler， 2012).As widespread wind-pollinated species, prairie grasses harbor abundant genetic diversity. The ecotypic diversity and regional gene pools of switchgrass have been particularly well studied.In addition to classical work on continental clines (McMillan，1959) and upland and lowland ecotypes (Porter,1966),recent studies have identified phenotypic clinal variation across multiple axes (Casler，2005;Casler et al.，2007) and many genetic subpopulations (Zalapa et al.， 2010; Morris et al.,2011; Zhang et al.,2011;Grabowski et al., 2014).Though less well studied,big bluestem exhibits similar patterns of genotypic diversity at the phenotypic and genomic level (McMillan，1956,1961;Gray et al., 2014).As predominantly outcrossing species，switchgrass and big bluestem are both highly heterozygous. This abundant genotypic diversity provides useful genetic variance forcrop improvement，but high heterozygosity and limited ability to inbreed can hinder many breeding approaches (Liu & Wu,2012).Other candidate perennial biomass crops that originated in Asia，such as Miscanthus and Saccharum spp.，exhibit similar patterns of diversity in their native ranges (Dillon et al.,2007;Kim et al.,2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In most crops,and most cropping systems, genotypic diversity has decreased over time,eitherdirectly due to selection for uniformity or indirectly due to genetic bottlenecks created by selection for other traits (Kingsbury, 2011).Direct selection on uniformity has been particularly central to the modern improvement of row crops, where uniform height and maturity is critical for efficient harvest and consistent quality. Accordingly,most commercial row crops are inbred varieties (e.g.,wheat, soybean） or F1 hybrids of inbred lines (e.g.，corn，sorghum) (Acquaah，2012).By contrast，many perennial forage crops retain extensive genotypic diversity,either because uniformity is not necessary or desirable，or because the mating system precludes repeated inbreeding (e.g., obligate outcrossers). Given that the development of bioenergy cropping systems is at an early stage, it raises the question of what level of genotypic diversity should be targeted to increase yields in new perennial biomass crops.Moreover，as perennial biomass cropping systems are expected to provide a number of additional ecosystem services，genotypic diversity may influence trade-offs or synergies among system outputs, such as feedstock yields,feedstock quality，soil C storage，or habitat for biodiversity conservation.While potential trade-offs and synergies of species mixtures in perennial biomass cropping systems have been investigated(Tilman et al.，2006a;Adler et al.，2009;Griffith et al.，2011;Mangan et al.，2011;Jarchow & Liebman, 2012，2013)，the effects of genotype diversity mixtures (i.e.,intraspecific diversity) are not well understood. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are a number of reasons why genotypic diversity may be beneficial in perennial biomass cropping systems.Genetically，heterogeneous crop populations may buffer or hedge against temporal and spatial variability in the production environment (Allard & Bradshaw，1964). This effect is thought to be important to smallholder production on marginal lands (Haussmann et al., 2012) and may be important for biomass cropping systems if production occurs on marginal lands,as expected (Downing et al.，2011;Uden et al.，2013). The most widespread use of designed genotypic mixtures is in multiline cultivars of cool-season cereals,which can reduce the severity and spread of plant disease (Mundt, 2002)．In native perennial systems，diverse mixtures often have higher productivity due to a sampling effect, the tendency of higher diversity systems to include at least one highly productive type (Fargione et al., 2007). Intraspecific diversity may also increase niche comple mentarity (Cook-Patton et al.，2011)，as is commonly seen with wild or cultivated interspecific mixtures (e.g., binary legume-grass mixtures) (Fargione et al., 2007; Nyfeler et al.,2009). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many cultivars,species，and species mixtures have been investigated as potential lignocellulosic biomass crops because the choice of plant material has multiple impacts on the feasibility and sustainability of the biomass feedstock production system.For producers of biomass feedstock,high yield potential and efficient use of inputs will be critical for profitability (Boyer et äal., 2012).Biomass cropping systems that have high net energy ratio (bioenergy output per unit input） yet produce low yields (biomass per unit area) may not be adopted because producer profitability is highly dependent on yields.Another concern for producers will be the opportunity cost of moving from a flexible annual cropping system to a perennial system that would require additional time to profitability (with little or no yields for several years following planting) (Uden et äal., 2013).If native perennial bioenergy cropping systems areto be adopted，therefore,it is essential that yield potential be increased substantially，especially during the early years following planting. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the biomass conversion industry,yields will also be important because ready access to low-cost feedstock is required for plant profitability (Gan & Smith,2011). Beyond feedstock access and cost，feedstock composition is important for many conversion technologies.For example,high-digestibility low-lignin feedstocks may bepreferredforenzyme-based conversion， while energy-dense high-lignin feedstock may be preferred for combustion-based conversion.While ash is generally undesirable，particular elements (e.g.，K，Na，Ca，S, and Cl) may be especially harmful for particular conversion technologies (Sims，2Oo3).The abundant natural variation of biomass composition among and within native perennial species (Sarath et al.,2oo8;Vogel et al., 2010;Zhang et al.，2015） provides an opportunity to optimize plant mixtures for a given fuelshed (e.g.,10s of km surrounding the bioenergy production facility) based on the conversion technology in use. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the effects of genotypic diversity on stand establishment,biomass yields,and biomass composition,we conducted two field experiments in northeastern Illinois over 2008-2014，wherewevaried switchgrass and big bluestem genotypic diversity，as well as other management variables.In the first experiment,we compared a switchgrass cultivar mixture to switchgrass cultivars grown in monoculture and multispecies mixtures,with and without nitrogen inputs. In the second experiment,we created a genotypic diversity gradient by varying cultivar numbers within switchgrass monocultures,big bluestem monocultures，and mixtures of switchgrass and big bluestem.Here，we describe the effects of varying genotypic diversity levels on stand establishment,biomass yield,and biomass composition and discuss the implications of these findings for the development of native perennial biomass cropping systems. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Material andmethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sitedescriptionandpreparation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiments were conducted at the Fermilab National Environmental Research Park in Batavia,IL (N 41.8414，W 88.2297).Prior to the experiment (1971-2007)，the $5 . 4 \\ \\mathrm { h a }$ site was maintained as an old field dominated by cool-season grasses-primarily smooth brome (Bromus inermis),quackgrass (Agropyron repens),and Poa species (O'Brien et al.,2013). The soil at the site is Grays silt loam (fine-silty,mixed,superactive, mesic Mollic Oxyaquic Hapludalf),which is rated as prime farmland by US Department of Agriculture.Mean annual precipitation in the area is $9 2 0 ~ \\mathrm { m m }$ with a mean temperature of $9 . 5 ^ { \\circ } \\mathrm { C }$ Monthly precipitation totals and monthly mean temperatures during the experiment were obtained from the National Climatic Data Center (http://www.ncdc.noaa.gov/） for Chicago West DuPage Airport weather station (USWooo94892), located approximately $8 ~ \\mathrm { k m }$ north of our field site. In fall 2007, standing vegetation at the site was removed by application of the broad-spectrum herbicide glyphosate followed by burning of the dead vegetation. Subsequent regrowth in spring 2008 was treated again with glyphosate twice before planting. Switchgrass monocultures were seeded at $6 . 7 \\mathrm { k g }$ pure live seed (PLS) $\\mathbf { h } \\mathbf { a } ^ { - 1 }$ (\\~575 seeds $\\mathrm { m } ^ { - 2 }$ ),which is within the seeding rate range $( 5 . 6 { - } 7 . 3 ~ \\mathrm { k g } ~ \\mathrm { P L S } ~ \\mathrm { h a } ^ { - 1 } )$ recommended by the US Department of Agriculture(USDA）Natural Resources Conservation Service (NRCS) for switchgrass feedstock production in the Midwest. Seeding rates in the plots that included other species were adjusted to achieve the same total seeding rate as the switchgrass monocultures (\\~575 seeds $\\mathrm { m } ^ { - 2 }$ )，with the proportion of each species and ecotype given in Table 1.The monocultures and mixtures are described in detail below.All sown species are perennials and native to the region (Swink & Wilhelm, 1994). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Switchgrass and big bluestem germplasm ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The switchgrass and big bluestem cultivars were chosen to represent a wide range of diversity in each species.The switchgrass germplasm used consisted of the following,listed in order of most northern to most southern origin.Dacotah is derived from progeny of a single plant from North Dakota and originates from the most northern and driest location $( 3 8 0 ~ \\mathrm { m m } )$ 1 among the selected cultivars (Barker et al.,199O).Forestburg is a composite of four accessions from eastern South Dakota (Barker et al.,1988).Sunburst is derived from multiple plants from one county in southeastern South Dakota,which were subjected to three cycles of selection for vigor,leafiness,and seed weight (Boe & Ross,1998). Southlow switchgrass is an ecopool from southern Lower Michigan,a composite of germplasm from 11 native stands crossed and increased with no purposeful selection (Durling et al.,2oo8).Cave-In-Rock was developed from germplasm originating at a native stand in southern Illinois (Hanson,1972).Blackwell originates from a single plant collected at an upland site in northern Oklahoma and was tested in northeastern Kansas prior to release (Hanson,1972). Kanlow originates from germplasm collected at a lowland site in central Oklahoma and was subject to selection for leafiness, vigor,and late season greenness in northeastern Kansas prior to release (Hanson,1972). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The big bluestem germplasm used was the following. Southlow big bluestem is an ecopool from southern Lower Michigan, a composite of germplasm from 22 native stands crossed and increased with no purposeful selection (Durling et al.,2007). Champ isa hybrid of sandbluestem(Andropogon hallii) from Nebraska and big bluestem from multiple sites in Nebraska and Iowa (Newell,1968a). Pawnee was developed from germplasm originating from a county in southeastern Nebraska and was selected for several generations in Nebraska (Newell, 1968b).Bonanza is a derivative of Pawnee,selected for three generations for forage yield and digestibility across three sites in Nebraska (Vogel et al.,2006).Rountree originates from a native stand inwestern Iowa and was selected and increased in eastern Missouri (Alderson & Sharp,1994).Epic originates from a site in western Arkansas and was selected and increased in eastern Missouri (USDA-NRCS,2013). Suther originates from a native stand in central North Carolina and was tested andincreasedinNew Jersey (Davisetal.,2002). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experimental design for agronomic trial ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The agronomic trial has seven plant treatments in three randomized complete blocks with two split-plot fertilization treatments,fora totalof 42 plots.Each plot is $3 6 \\mathrm { ~ m ~ } \\times 2 0 \\mathrm { ~ m ~ }$ .The plant treatments (Table 1） consist of three switchgrass monocultures [the lowland cultivar Kanlow (KA),upland cultivar Cave-In-Rock (CR)，and regional ecopool Southlow (SL)l;a switchgrass mixture with all three varieties (SG)；binary mixtures of switchgrass with big bluestem (BB),or switchgrass with Canada wildrye (CW);and a 12-species prairie mixture that includes the preceding grasses along with other grasses and forbs native to the region (PR).Plots are separated by $2 \\mathrm { ~ m ~ }$ (east-west）or $4 ~ \\mathrm { m }$ (north-south） alleys sown with a lowstature fescue mix (Festuca spp.）and replicate plot treatments are assigned to northern,central, and southern blocks.This experiment was managed using conventional agricultural techniques.Plant treatments were sown in June 2oo8,by no-till drill-seeding using a native seed drill at a depth of ${ \\sim } 0 . 5 ~ \\mathrm { c m }$ in ${ \\sim } 2 0 ~ \\mathrm { c m }$ rows.In the fertilized plots,granular urea (46-0-O) was applied annually during the first week of June (beginning in 2009) with a hand broadcast spreader at a rate of $6 7 ~ \\mathrm { k g } \\mathrm { N } \\mathrm { h a } ^ { - 1 }$ within the recommended range for switchgrass feedstock production $( 5 0 - 1 0 0 ~ \\mathrm { k g ~ N ~ h a } ^ { - 1 } )$ (USDA-Natural Resources Conservation Service,2Oo9).Theweedswere controlled by broadcast application of Milestone (aminopyralid) and Garlon (triclopyr) broad-leaf herbicides in 20o9 (except the PR mixture,which includes broad-leaf species).In 2010,weed control included spot application of Milestone and Garlon to several patches of crown vetch (Securigera varia),dogwood (Cornus sp.),and oxeye daisy (Leucanthemum vulgare) and spot application of RoundUp(glyphosate) to reed canary grass (Phalaris arundinacea). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a77efa7348f0f4075e6e1510dbe9c27232c42c9e7e8dce04eb5647da4e8f0b16.jpg",
+        "table_caption": [
+            "TablePlantmaterialsandsownplanttreatmentsfortheagronomictrial.Valuesinparenthesisindicatethesowncultivaromposi tion (based on $\\%$ of sown seeds)for switchgrass and big bluestem,or sown species composition for the forbs.The plant treatments areKanlowsigras(KA),Cave-Iockitchgrass (C),outloihgass(S),treeswihgrassivrte), big bluestem plus switchgrass mixture (BB),a Canada wildrye plus switchgrass mixture (CW),anda prairie mixture (PR) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Species</td><td rowspan=\"2\">Common name</td><td rowspan=\"2\">Type</td><td rowspan=\"2\">Cultivar</td><td colspan=\"7\">Plant mixture treatments (sown %)</td></tr><tr><td>KA</td><td>CR</td><td>SL</td><td>SG</td><td>BB</td><td>CW</td><td>PR</td></tr><tr><td>Panicum virgatum</td><td>Switchgrass</td><td>C4 grass</td><td></td><td>100%</td><td>100%</td><td>100%</td><td>100%</td><td>50%</td><td>60%</td><td>20%</td></tr><tr><td></td><td></td><td></td><td>Kanlow</td><td>(100%)</td><td></td><td></td><td>(33%)</td><td>(17%)</td><td>(20%)</td><td>(7%)</td></tr><tr><td></td><td></td><td></td><td>Cave-In-Rock</td><td></td><td>(100%)</td><td></td><td>(33%)</td><td>(17%)</td><td>(20%)</td><td>(7%)</td></tr><tr><td>Andropogon gerardii</td><td>Big bluestem</td><td></td><td>Southlow</td><td></td><td></td><td>(100%)</td><td>(33%)</td><td>(17%)</td><td>(20%)</td><td>(7%)</td></tr><tr><td></td><td></td><td>C4 grass</td><td></td><td></td><td></td><td></td><td></td><td>50%</td><td></td><td>20%</td></tr><tr><td></td><td></td><td></td><td>Rountree</td><td></td><td></td><td></td><td></td><td>(17%)</td><td></td><td>(7%)</td></tr><tr><td></td><td></td><td></td><td>Epic</td><td></td><td></td><td></td><td></td><td>(17%)</td><td></td><td>(7%)</td></tr><tr><td>Sorghastrum nutans</td><td></td><td></td><td>Southlow</td><td></td><td></td><td></td><td></td><td>(17%)</td><td></td><td>（7%)</td></tr><tr><td>Elymus canadensis</td><td>Indiangrass</td><td>C4 grass</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20%</td></tr><tr><td></td><td>Canada wildrye</td><td>C3 grass</td><td></td><td></td><td></td><td></td><td></td><td></td><td>40%</td><td>20%</td></tr><tr><td>Desmodium canadense</td><td></td><td>Forbs</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20%</td></tr><tr><td>Lespedeza capitata</td><td>Showy tick trefoil Round-headed</td><td>Legume</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.50%)</td></tr><tr><td></td><td>bush clover</td><td>Legume</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.50%)</td></tr><tr><td>Dalea purpurea</td><td>Purple prairie clover</td><td>Legume</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.50%)</td></tr><tr><td>Aster nova-angliae</td><td>New England aster</td><td>Composite</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.50%)</td></tr><tr><td>Coreopsis tripteris</td><td>Tall tickseed</td><td>Composite</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.50%)</td></tr><tr><td>Heliopsis helianthoides</td><td>Smooth oxeye</td><td>Composite Composite</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.50%)</td></tr><tr><td>Ratibida pinnata</td><td>Yellow coneflower</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.50%)</td></tr><tr><td>Veronicastrum virginicum</td><td>Culver's root</td><td>Other forb</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.50%)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Experimental design for diversity gradient ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "bluestem,or switchgrass and big bluestem mixture) for a total of 164 plots $( 3 \\mathrm { ~ m ~ } \\times 2 \\mathrm { ~ m ~ }$ each).Each of seven cultivars of switchgrass and seven cultivars of big bluestem was grown in four replicate monoculture plots (2 species $\\times 7$ cultivars $\\times 4$ replicates $= 5 6$ plots). For the single-species cultivar mixtures ('Swi', $' \\mathrm { B i g ^ { \\prime } } )$ ，there are 12 replicatesat each cultivar diversity level $( 2 , 4 , 6 )$ ，with cultivars sampled randomly and seeded at equal rates (2 species $\\times 3$ diversity levels $\\times 1 2$ replicates $= 7 2$ plots).For the mixed-species cultivar mixtures $( ^ { \\prime } \\mathrm { M i x ^ { \\prime } } )$ ，there are 12 replicatesat each cultivar diversity level with cultivars sampled randomly at a $1 : 1$ ratio of switchgrass and big bluestem (3 diversity levels $\\times 1 2$ replicates $= 3 6$ plots).Alternating rows are separated by $1 \\mathrm { ~ m ~ }$ east-west alleys,and the experiment is surrounded and bisected by larger alleys from the Agronomic trial.Replicates are blocked according to exposure to alleys. Seeds were hand-sown into ${ \\sim } 0 . 5$ -cm-deep furrows in $2 0 \\ \\mathrm { c m }$ rows.Two months postsowing,all plots showed germination of the sown species (i.e.，switchgrass,big bluestem, or both).The plots were hand-weeded in the spring from 2008 to 2010,and treated with broad-leaf herbicide (Milestone and Garlon) in 2009. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Biomass yield measurements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The diversity gradient consists of four levels of cultivar diversity (1,2, 4, 6) and three species treatments (switchgrass,big ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To account for the time it takes for native perennial systems to establish,we define the first 2 years of the experiment as establishment years (2008-2010) and the subsequent 5 years (2009- 2014)as production years (Fig.1).In the first establishment year(November 2Oo8)and first production year (September 2010),the standing crop of aboveground biomass in the agronomic trial was estimated for sown species and weeds using $0 . 5 \\mathrm { - m } ^ { 2 }$ circular quadrats (Kennedy,1972).Four quadrats were randomly placed in each plot,and all stems within the area were clipped to $2 { \\cdot } 4 \\ \\mathrm { c m }$ aboveground level. In years 20o9-2014, aboveground biomass was harvested at ${ \\sim } 1 5 ~ \\mathrm { c m }$ aboveground level (USDA-Natural Resources Conservation Service，2009) aftera killing frost (early- to mid-November) using standard commercial hay machinery.Each plot was harvested individually and produced one or more round bales (of variable size) per plot,which were weighed with a hanging scale.For each diversity gradient plot,in years 2009-2014, the entire plot was harvested with a string trimmer just aboveground level,and the biomass was collected,so that essentially all aboveground biomass was removed.Moisture content of biomass from each bale/plot was estimated from a subsample taken immediately prior to baling or weighing,and all reported yields have been adjustedtoadry-weightbasis $( 6 5 ^ { \\circ } \\mathrm { C } )$ .The effects of plant treatment and nitrogen fertilization on biomass yields,stand establishment,and plant composition in the agronomic trial were determined by repeated measures split-plot ANovA implemented with aov in the R statistical computing environment (R Core Team,2014).The $P _ { - }$ -values givenin the text for significant factors are from minimal adequate models,obtained after sequentially dropping nonsignificant $( P > 0 . 0 5 )$ factors from the model (Crawley,2012). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/783954bf1c0598ae90eeaf5cd189bc5b280dc49674408c8c1acac27901ce473f.jpg",
+        "img_caption": [
+            "Fig.1Monthlyprecipitation (a)and meanmonthlytemperatureconditions (b)during theexperiment.The20-yearaverages (1981- 2001)are shown with the gray lines.Data are from $8 ~ \\mathrm { k m }$ north of the field site. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Genetic diversity estimates ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Published Illumina short-read sequence data for 123 switchgrass genotypes along with barcode multiplexing information (Grabowski et al.，2014)were downloaded from the NCBI ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sequence Read Archive (Accession: PRJNA252891) and Dryad DigitalRepository(doi:10.5061/dryad.k77nh)，respectively. The raw data were demultiplexed with ea-utils.1.1.2-537 (Aronesty，2013)，and adapterswere removed with the FASTX-Toolkit(http://hannonlab.cshl.edu/fastx_toolkit/). The individual fastq files were aligned on the reference genome with BWA (Li & Durbin,2009),and single nucleotide polymorphisms (SNPs) were called with SAMtools (Li et al., 2009)with default settings.The genetic distance of individuals and the neighbor-joining (NJ) tree was calculated with TASSEL4 (Bradbury et al.,2007),and the NJ tree was visualized with MEGA 6 (Tamura et al., 2013).Nucleotide diversity was calculated with $2 p ( 1 - p ) _ { , }$ ，where $p$ represents the allele frequency. The allele frequencies were calculated with VCFtools (Danecek et al.,2011),and the figure was drawn with R(R Core Team,2014). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Biomass composition analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Subsamples of the whole-plot harvested biomass were taken forall plots (both agronomic trial and diversity gradient）in 2012.The samples were dried at $6 5 ^ { \\circ } \\mathrm { C }$ and sent to a commercial plant testing laboratory,Dairyland Laboratories Inc.(Arcadia, WI,USA),for grinding in a cyclone mill and compositional analysis using wet chemistry and near-infrared reflectance spectroscopy (NIRS).Mineral analysis (Ca,P,K,Mg,and S) was carried out using wet chemistry methods (AOAC Official Method 953.01).NIRS estimates of lignin,hemicellulose, cellulose,fat,sugar,ash,and nitrogen were performed on a FOSS 5000 using calibrations developed in WinISI (FOSS North America,Eden Prairie,MN).Calibrations were based on wet chemistry (AOAC Official Methods 973.18,2002.04，920.39, 942.05,990.03) from a worldwide panel of mixed hay samples $\\mathcal { N }$ ranging from 355 to 7140),with an $r ^ { 2 }$ based on validation samplesranging from O.73 to 0.99.All values are provided on a dry matter basis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Precipitation and temperature conditions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Stand establishment and biomassproduction are expected to be influencedbyprecipitation and temperature.The monthly precipitation and average monthly temperatures during the experiment are presented alongwith 20-year averages for comparison (Fig.1). The first establishment year (2oo8) and first production year(2010) were unusually wet，with 2008 being the wettest year on record (1871-2014) for the Chicago area (US Department of Commerce, 2015). The third production year coincided with the historic drought of 2012 and total precipitation in the 6 months preceding harvest was just $56 \\%$ of the 20-year average.The 2012 drought year also had unusually high temperatures in July, $3 ^ { \\circ } \\mathrm { C }$ above the 20-year average for the month. The first winter postplanting was unusually cold,with Jan uary 2009 temperatures $5 ^ { \\circ } \\mathrm { C }$ below the 20-year average. The winter prior to the 2014 production year was also unusually cold with January and February 2014 temperatures $5 ^ { \\circ } \\mathrm { C }$ and $7 ^ { \\circ } \\mathrm { C }$ below the 20-year averages,respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Standestablishment ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To characterize any differences in stand establishment among the treatments in the agronomic trial,we compared the sown plant composition (Fig.2a) to the observed plant composition in the first establishment year(2008)(Fig.2b）and first production year (2010) (Fig. $2 \\mathrm { c } , \\mathrm { d }$ ). In 2008, the average aboveground standing crop was $0 . 4 ~ \\mathrm { { \\ M g } ~ \\ h a ^ { - 1 } } .$ ，of which only $2 5 \\%$ was accounted for by sown plant species.No significant differences were observed among the plant treatments ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe0aa3b24a8eb4d89fbe25b53c90b37a67209205afac87e16ef46ebf2336d5a3.jpg",
+        "img_caption": [
+            "Fig.2Plantestablishmentandplotcompositionbasedonpeakabovegroundbiomassintheagronomictrial.Shownarethepecent age of sown seed in each plant treatment (a),the observed biomass composition (mean $\\pm$ standard error) in the establishment year 2008(b),andthefistproductionyearuferilized()andfrilized(d).TeplanttreatmentsareKanlowsitchgrassK) Cave-In-Rockichrass(CR),outlowichgras(SL),theswitchgrasslivarxture(G),bigbustepusicas mixture (B),a Canada wildryeplus switchgrass mixture (CW),anda prairie mixture (PR).Shading in (a)designates the three switchgrassiasocal),oal)thogoal)(bted allplotsiagivenplanttreatmentbecausenofertilizerhadbeenapledatthatpoint.Forbs'referstoallnonlegumesownforbs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Published2015.ThisarticleisaU.S.GovermmentworkandisinthepublicdomainintheUSA.GlobalChangeBiology.Publishedby John Wiley & Sons Ltd,doi: 10.1111/gcbb.12309 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "either for the total amount of biomass( $\\mathit { \\Omega } ^ { \\prime } P = 0 . 1 1 \\$ orfor the proportion of weed biomass $( P = 0 . 2 4 )$ .By 2010, the average biomass was $9 . 6 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ and the proportion of biomass accounted for by sown plant species increased to $9 0 \\%$ ，onaverage.Here,there were significant differences in the proportion of sown vs. weed biomass among plant treatments $( P < 0 . 0 1 )$ ，with Southlow switchgrass showing poor establishment compared to most other plant treatments $( \\sim 6 5 \\%$ of biomass; Tukey's HSD $P < 0 . 0 3 )$ .Inaddition，the unfertilized plots showed a significantly higher proportion of weed biomass compared to the fertilized plots $2 0 \\%$ vs. $1 0 \\%$ $P < 0 . 0 1 \\$ ).The total biomass (sown species plus weeds) was $3 0 \\%$ less in the unfertilized plots compared to the fertilized plots $( P < 0 . 0 0 0 1 )$ .Overall,total biomasswas approximately equal in all plant treatments except Southlow switchgrass,which had $34 \\%$ less biomass than the others ( $\\begin{array} { r } { P < 0 . 0 1 \\dot { } , } \\end{array}$ . No significant plant treatment by fertilizer interactions on plant composition or total biomass was observed during stand establishment or the first production year. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Biomass yields in genotypic and species mixtures in the agronomictrial ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Biomass yields were determined in 2009-2014 by harvesting entire plots after plant senescence (Fig.3).By the third year of the experiment (201O),the total yield across all plots was statistically indistinguishable from the total yield in later years,supporting the definition of 2008- 2009 as establishment years and 2010-2014 as production years.Averaging over the five production years,plant treatment and fertilization effects were both highly significant $( P < 0 . 0 0 0 1 )$ .Block effectswerenotobserved $( P = 0 . 4 4 )$ andarenot consideredfurtherhere.Themean yield increase due to nitrogen fertilization $( 6 7 ~ \\mathrm { k g } ~ \\mathrm { N }$ $\\mathrm { \\ h a } ^ { - 1 } )$ was $2 . 2 \\mathrm { M g } \\mathrm { h a } ^ { - 1 } ,$ .and no interaction was observed between fertilizationand plant treatment ( ${ ' P } = 0 . 5 5 \\$ .The ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6512610ed54b078197941fe0ee05f130ab97ea6e889e673d8b885247d14573a7.jpg",
+        "img_caption": [
+            "Fig.3 Biomass yields over 7 years from 14 perennial cropping systems.Plotted are the means $\\pm$ standard error $( n = 3 )$ of dryweightyieldsforwhole-plotharvestablebiomass(orfor08,anestimatebasedonquadratdata).TheplantreatmentsareKanlow switchgrass (KA)Cave-I-ocksitchgrass(CR),outhlowitchgrass(SL),athreeswitchgrassulivarmixure(G),igbue stemplusswitchgrassmixture(BB),a Canada wildrye plusswitchgrass mixture (CW),andaprairie mixture (PR).The toppanels (a and b)are results from unfertilized('U') plots,while the bottom panels (c and d) are from fertilized $( ^ { \\prime } \\mathrm { F ^ { \\prime } } )$ plots.Averaged over the five productionyears (2010014)andacrosstwofertilizationlevels,themixtureofthreswitchgrasscultivars SG)hadthehighestyield (though not significantly higher than BB,CR,and CW). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Published2015.ThisarticleisaUS.GovernmentworkandisinthepublicdomainintheUSA.GlobalChangeBiology.Publishedby JohnWiley& SonsLtd,doi:10.1111/gcbb.12309 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "switchgrass cultivar mixture (SG) produced the greatest yield overall, averaging $8 . 7 \\mathrm { M g } \\mathrm { h a } ^ { - 1 }$ across 5 years when fertilized and $6 . 6 \\mathrm { \\ M g \\ h a } ^ { - 1 }$ when unfertilized. Average yieldswere similar for the Cave-In-Rock cultivar monoculture (CR) and the binary species mixtures of switchgrass with big bluestem (BB) and switchgrass with Canada wildrye(CW)(Tukey's HSD test $P > 0 . 0 5 \\$ .In contrast,we observed lower average yields for the Kanlow and Southlow cultivar monocultures (KA and SL) and the prairie mixture (PR). Overall, the yields from the switchgrass-only treatments (SG,KA, $\\mathrm { C R } ,$ and SL)were no greater or less than the mixtures with other species (CW,BB,andPR) $( P = 0 . 7 9 \\$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Across the production years,the yield trends were significantly different among plant treatments (ANCOVA $P < 0 . 0 0 0 1 ^ { \\cdot }$ ). Comparing each plant treatment to CaveIn-Rock, the switchgrass cultivar most likely a priori to be well adapted and high yielding in this region, some plant treatments showed significant yield increases over theproductionyears， while others showedyield decreases.An increasing yield over the production years was observed in the Southlow cultivar $( \\mathrm { S L } , 0 . 6 \\mathrm { M g }$ $\\mathrm { \\dot { \\ h a } } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } .$ $P = 0 . 0 2 )$ and the binary mixture of switchgrass and big bluestem (BB, $0 . 5 \\mathrm { \\ : M g \\ : h a ^ { - 1 } \\ : y r ^ { - 1 } } .$ $P = 0 . 0 2 \\rangle$ ： In contrast,a trend of decreasing yield was observed in theKanlow_cultivar(KA， $- 0 . 7 \\quad \\mathrm { M g } \\quad \\mathrm { h a } ^ { - 1 } \\mathrm { y r } ^ { - 1 } .$ $P < 0 . 0 0 0 1 ^ { \\cdot }$ ). There was no evidence of fertilization by year interaction or a three-way interaction of fertilization with plant treatment over years ${ } ^ { \\prime } P = 0 . 9 8 { } ^ { \\prime }$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Biomass yields over the genotypic diversity gradient ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To better understand genotypic diversity effects on biomass production,we carried out a parallel experiment ona diversity gradient with four levels of cultivar richness (1,2,4,or 6) and three species treatments (switchgrass,big bluestem,ora binary mixture of the two). The seven switchgrass and seven big bluestem cultivars used in this experiment were chosen to represent a broad sample of the geographic range and genetic variation for each species (seeMaterialsandMethods).For the switchgrass treatments，we estimated the sown genotypic diversity based on nucleotide diversity from genotypingby-sequencing data and found significantly higher polymorphism in the cultivar mixtures $( P < 0 . 0 0 0 1$ 1 $r ^ { 2 } = 0 . 3 3$ Fig.4a,b).There were large differences in biomass yield among the 14 cultivars when grown in monoculture (Fig.4c,d). (Note that biomass yields from the diversity gradient plots are presented as $\\mathrm { { M g \\ h a } ^ { - 1 } \\ y r ^ { - 1 } }$ for comparison with agronomic trial results,not to provide absoluteyieldestimates). Whengrownincultivar monocultures,the big bluestem cultivars yielded somewhat more than the switchgrass cultivars,averaging $+ 1 . 7$ $\\mathbf { M g \\ h a } ^ { - 1 } \\ \\mathbf { y r } ^ { - 1 }$ over the production years of 2010-2014 $( P < 0 . 0 1 { \\dot { } }$ ).Among the cultivar monocultures, the species effect (switchgrass vs.big bluestem) explains $12 \\%$ of the variation,while cultivar(nested within species) explains $4 3 \\%$ of the variation $( P _ { \\mathrm { s p } } < 0 . 0 0 1 ; P _ { \\mathrm { s p : c v } } < 0 . 0 0 0 1 )$ ， ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To test the effects of genotypic diversity on biomass production，we compared the cultivar monocultures described above $( n = 5 6 )$ to randomly chosen mixtures of the same cultivars (2,4,or 6 cultivars per plot; $n = 1 0 8 )$ . Among the cultivar mixture plots,two-thirds were sown with only switchgrass or only big bluestem，while one-third were sown with $1 : 1$ mixtures of the two species (e.g., three switchgrass cultivars and three big bluestem cultivars in a six cultivar plot). Averaging yields over the production years (2010- 2014)，we observed a significant positive relationship between yield and number of cultivars (Fig. 4e,f; $P = 0 . 0 2 \\mathrm { \\cdot }$ .Comparing yields of the cultivar monocultures to the genotypic/species mixtures，we see a higher average yield $( 3 1 \\%$ for switchgrass, $9 . 5 \\%$ for big bluestem, $34 \\%$ for the species mixture) in the mixtures (2,4,or 6 cultivars) than the average yield of the cultivarsgrown in monoculture $( P < 0 . 0 1 )$ ).Onlyone switchgrass cultivar monoculture，Blackwell，had a higher mean yield than the switchgrass cultivar mixtures (8.1 vs. $7 . 5 \\mathrm { \\ M g \\ h a } ^ { - 1 } ,$ ）although this was not significant( ${ \\mathit { P } } = 0 . 1 5 )$ .Twobigbluestemcultivar monocultures,Rountree and Suther,had higher mean yield than the big bluestem cultivar mixtures (9.5 and 9.4 vs. $8 . 2 ~ \\mathrm { M g ~ h a } ^ { - 1 } ,$ ，but the differences were again not significant $( P = 0 . 1 )$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Year-to-year stability ofbiomass yields ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In addition to mean biomass yields,we also considered the differences in year-to-year stability of yields,estimated as the coefficient of variation for yield across years.In the agronomic trial,the plant treatments differ significantly in the year-to-year variation in yield over the production years (Fig. 5a; $P < 0 . 0 0 0 1$ ).Thefertilized and unfertilized treatments did not have significantly different coefficient of variation for yield $( P = 0 . 2 9 )$ ： Kanlow and Southlow had the highest coefficients of variation while Cave-in-Rock and the three-cultivar switchgrass mixture had lower variation (Fig. 5a). Overall, the year-to-year coefficient of variation was slightly higher in the switchgrass cultivar monocultures than the switchgrass cultivar mixture (0.26 vs. 0.1; $P < 0 . 0 5$ ） In the diversity gradient experiment，no significant reduction in year-to-year variation was observed in the plots with higher genotypic diversity Fig. 5b; $P = 0 . 1 1$ ） However,reduced year-to-year variation was observed in the plots with both switchgrass and big bluestem as compared to the plots with only one of the species (Fig. 5c; $P < 0 . 0 0 0 1$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/08a117e83d97c56fb72d2fbf056ee88b9242c92b144f84e7b682fd0919cc4fee.jpg",
+        "img_caption": [
+            "Fig.4Biomass yieldsalongagenotypicdiversitygradientforswitchgrassandbig bluestem.(a)Geneticvariationof theseven switchgrasscultivarsusedintheexperimentrelativetothecontinent-wiediversityofswichgrassestimatedfromsingleucleotide polymorphism，and plotted on a neighbor-joining tree（ $\\mathbf { \\mathrm { K } } = \\mathbf { \\ l }$ Kanlow, $\\mathtt { B } =$ Blackwell, ${ \\sf S } =$ Sunburst, $\\mathrm { D } =$ Dacotah, $\\mathrm { { O } = }$ Southlow, $\\mathrm { F } =$ Forestburg, $C =$ Cave-In-Rock). (b)The nucleotide diversity (average pairwise diference) in switchgrass monocultures and cultivarmixturesusedinthefieldexperiment(ed,Testedandotherposiblemixturesofthesevenctivars(black,NotTested.(c-f) The mean yields over five production years ( $\\cdot \\pm$ standard error)of the switchgrass (c) and big bluestem (d) cultivar monocultures are comparedtothoseofmixtures (eandf),withtheobservedmixtureyields (e)orthe‘scaled'mixtureyields(f),whicharecorected forthe expected yieldofeach mixture basedontheaverage monoculture yieldsofthecomponentcultivars.Thecultivar monocultures (candd)are sortedinorderof decreasing mean yield.Thedotedlineindicates the globalmeanacrossplant treatments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Compositionofharvestedbiomass ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The final aspect of the cropping systems we evaluated was the composition of the harvested biomass.To identify differences among treatments,we estimated the content of the structural components (lignin,cellulose, hemicellulose)，nonstructuralorganiccompounds (sugar,nonfiber carbohydrates,fats),and minerals $( \\Nu ,$ （204号 P,K, S,Mg, Na,Cl) from all plots in both experiments in 2012,midway through the production years.Here, wehighlight a few of these compositional effects from each experiment. In the agronomic trial，we observed significant plant treatment differences and fertilization effects for several constituents,and plant treatment by fertilization interactionina fewcases (Table 2).The differences in lignin content among plant treatments were highlysignificant $( P < 0 . 0 0 0 1 )$ )，with higher lignin content in the prairie mixture (PR; Tukey's $P < 0 . 0 1 \\$ ） and lower lignin content in Kanlow switchgrass (KA; Tukey's $P < 0 . 0 1$ ).Cellulose content was significantly lower in the big bluestem-switchgrass mixture (BB) and higher in switchgrass biomass (Tukey's $P < 0 . 0 0 0 1$ .N fertilization leads to a significant,but small, increase in biomass $\\Nu$ content from $0 . 5 9 \\%$ to $0 . 6 6 \\%$ 0 $P < 0 . 0 0 1 _ { \\cdot }$ ） There was no evidence of differing $\\mathrm { \\Delta N }$ content among plant treatments,but there was significant interaction ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "onegoeloigea regogeloigea (c)   \n90 8'090 a a cogeeeegogeiegere 8'09'0 a   \na   \n00 ab bc 40 40   \n20 0 2000   \n00 00   \nKA SL PR BB CWSG CR 1246 SwiBigMix Plant treatment Numberofcultivars Species ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a45f301bf7d0c3dafb6a74dd10d6460ec759c205eec7fa741432e8fef79f2255.jpg",
+        "table_caption": [
+            "Table 2 Biomass composition by plant treatment (top; $n = 6 ,$ or $\\mathsf { N }$ fertilization treatment (bottom; $n = 2 1 { \\dot { } }$ ).Values that are signifi cantly different (Tukey's HSD, $\\alpha ~ = ~ 0 . 0 5 )$ among cultivars or diversity levels are indicated by a different letter "
+        ],
+        "table_footnote": [
+            "Cell,cellulose;Hemi,hemicellulose; NFC,nonfiber carbohydrate. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Lignin</td><td>Cell</td><td>Hemi</td><td>Sugar</td><td>NFC</td><td>Fat</td><td>Ash</td><td>N</td><td>P</td><td>K</td><td>Mg</td><td>S</td><td>Ca</td><td>Na</td><td>Cl</td></tr><tr><td>Plant treatment</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>KA</td><td>7.5c</td><td>47.7a</td><td>30.2a</td><td>5.0a</td><td>3.5c</td><td>1.6a</td><td>5.4b</td><td>0.62a</td><td>0.037a</td><td>0.16a</td><td>0.17a</td><td>0.058a</td><td>0.21d</td><td>103.0a</td><td>0.058bc</td></tr><tr><td>CR</td><td>8.1b</td><td>46.5a</td><td>28.6ab</td><td>4.6ab</td><td>5.7abc</td><td>1.4ab</td><td>5.9ab</td><td>0.58a</td><td>0.048a</td><td>0.19a</td><td>0.16a</td><td>0.047a</td><td>0.33c</td><td>78.8a</td><td>0.083a</td></tr><tr><td>SL</td><td>8.3ab</td><td>46.8a</td><td>28.4b</td><td>3.4c</td><td>4.0bc</td><td>1.3b</td><td>7.0a</td><td>0.63a</td><td>0.060a</td><td>0.17a</td><td>0.15a</td><td>0.050a</td><td>0.42ab</td><td>83.8a</td><td>0.073ab</td></tr><tr><td>SG</td><td>8.1ab</td><td>46.5a</td><td>28.4b</td><td>4.4ab</td><td>5.1abc</td><td>1.4ab</td><td>6.4ab</td><td>0.63a</td><td>0.045a</td><td>0.20a</td><td>0.16a</td><td>0.057a</td><td>0.36bc</td><td>82.0a</td><td>0.070abc</td></tr><tr><td>BB</td><td>7.9bc</td><td>44.4b</td><td>29.2ab</td><td>4.1b</td><td>6.7a</td><td>1.5ab</td><td>6.0ab</td><td>0.67a</td><td>0.048a</td><td>0.15a</td><td>0.15a</td><td>0.043a</td><td>0.36bc</td><td>77.8a</td><td>0.052c</td></tr><tr><td>CW</td><td>8.0bc</td><td>45.9ab</td><td>28.7ab</td><td>4.6ab</td><td>5.8abc</td><td>1.5ab</td><td>6.1ab</td><td>0.60a</td><td>0.047a</td><td>0.19a</td><td>0.16a</td><td>0.047a</td><td>0.34c</td><td>88.2a</td><td>0.068abc</td></tr><tr><td>PR</td><td>8.7a</td><td>46.4ab</td><td>26.4c</td><td>3.9bc</td><td>6.2ab</td><td>1.5ab</td><td>6.6ab</td><td>0.65a</td><td>0.045a</td><td>0.18a</td><td>0.15a</td><td>0.045a</td><td>0.44a</td><td>81.2a</td><td>0.058bc</td></tr><tr><td>N Fert.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Unfert.</td><td>7.9b</td><td>45.8b</td><td>28.7a</td><td>4.5a</td><td>5.8a</td><td>1.5a</td><td>6.4a</td><td>0.59b</td><td>0.057a</td><td>0.18a</td><td>0.15b</td><td>0.050a</td><td>0.35a</td><td>81.7a</td><td>0.069a</td></tr><tr><td>Fertilized</td><td>8.3a</td><td>46.8a</td><td>28.4a</td><td>4.1a</td><td>4.8a</td><td>1.4b</td><td>6.0a</td><td>0.66a</td><td>0.037b</td><td>0.17a</td><td>0.17a</td><td>0.050a</td><td>0.36a</td><td>88.2a</td><td>0.064a</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "with fertilization $( P = 0 . 0 4 7 )$ due to higher Nlevels in the fertilized big bluestem-switchgrass mixture (BB). The biomass $\\mathrm { \\Delta P }$ content is significantly lower with N fertilization $( P < 0 . 0 0 0 1 )$ ，but there were no differences in K content among treatments. The only significant difference in ash content was the higher ash content of Southlow vs.Kanlow switchgrass $( 7 . 0 \\%$ VS. $5 . 4 \\%$ $P = 0 . 0 2 ,$ ） ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the genotypic diversity gradient, switchgrass biomass had lower estimated cellulose content $( 4 4 . 6 \\% )$ than big bluestem $( 4 6 . 8 \\%$ ：Tukey's $P < 0 . 0 0 0 1$ ）and the mixtures of big bluestem and switchgrass $( 4 5 . 5 \\%$ ：Tukey's $P < 0 . 0 0 1 _ { \\cdot }$ ).Conversely，switchgrass had higher estimated sugar content $( 4 . 9 \\% )$ than big bluestem $( 4 . 1 \\%$ ： Tukey's $P < 0 . 0 0 0 1 \\$ ）and the two species mixture $( 4 . 5 \\%$ Tukey's $P = 0 . 0 0 1 _ { \\cdot }$ ).Thelevel of cultivardiversity had no significant effects on the organic compound content, and little effect on mineral composition. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study,we characterized the effects of plant geno typicand speciesdiversityon establishment,yields,and biomass composition and consider some implications forproduction,conversion and environmental impacts. Overall, we found genotype mixtures performed well in terms of yield (Figs 3,4and 5).Given that this was true even when some of the constituent cultivars performed poorly in monoculture,this suggests that there is little risk of low yields in using genotypic mixtures as long assome adapted material is included.We see that use of genotypicdiversity can stabilize yields (as seen with SG),but so can the choice of a high-yielding and welladapted cultivar monoculture (in this case， CaveIn-Rock） (Fig. 5a). These observations are consistent with a sampling effect because the yields of the genotypic mixtures are not transgressive (Fargione et al., 2007). In more marginal production environments, where temporal and spatial heterogeneity is proportionally more important, there may be greater benefits of genotypic diversity (Haussmann et al.，2012).Further studies of genotypic mixtures of biomass species grown in marginal production environments (e.g.，droughtprone or nutrient deficient soils) will be needed to evaluate this hypothesis.In addition，future studiesof targeted genotypic mixtures (i.e.，selected for complementary traits or high yield potential) might reveal benefits of genotypic diversity not observed in the random genotype mixtures we studied here. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We did not estimate the abundances of the three switchgrass cultivars separately in the cultivar mixture, but given biomass composition estimates,it appears that all three cultivars were well represented.For example, the higher ash content of SG and SL treatments than KA and CR (Table 2) suggests that Southlow Was abundant in the three-cultivar mixture by 2012 despite its slow establishment in monoculture.These findings show that a local ecopool cultivar with high genotypic diversity can meet or exceed the biomass yields from cultivars with high expected yields when production is considered overa longer time scale. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "While high average yields are important, the stability of yields maybe equally important in marginal produc tion systems with localized value chains.For instance, in drier years,crops with high yield potential but drought sensitivity could fail to meet the year-round feedstock supplies required by the bioconversion plants (Uden et al.， 2013). In row cropping and native grassland systems,mixtures of genotypes and species have been shown to stabilize productivity (Smithson& Lenné，1996；Tilman et al.，2006b）and thus may be expected to limit yield losses to environmental stresses, such as cold spells or drought. In fact,in this experiment,the highest overall biomass yields were observed in the three switchgrass mixture (SG) during the drought year of 2012 (true for both fertilized and unfertilized treatments;Fig.3).In contrast，the 2012 corn yields in the county were about $2 0 \\%$ below the 2011 yields and the long-term yield trend (USDA-NASS, 2013).The ability of diverse native perennial biomass cropping systems to produce high yields when row crop (e.g., corn or sorghum) stover yields are low may be especially valuable for ensuring stable feedstock supplies in a fuel shed despite annual variability (Uden et al.,2013). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Diverse species mixtures are commonly used in forage systems- especially mixtures of legumes and coolseason grasses - and these polycultures often substantially outperform forage monocultures (Picasso et al., 2008).As most of the weed species at our field site were cool-season species，we hypothesized that the plant treatments that included cool-season species (the wildrye with switchgrass and the 12-species prairie mixture) could reduce weed biomass during establishment. However, there was no evidence that the cool-season species we included were able to out compete the cool-season weeds.Instead,vigorous growth in the establishment year by improved cultivars seemed to be most associated with weed suppression.Further studies with other cool-season native species will be needed to determine whether other warm $^ +$ cool-season native grass mixtures areable to provide improved yields. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "While interactions between species diversity and fertilization have been investigated,interactions between genotypic diversity and fertilization have been less studied (Jarchow & Liebman,2013).In this study, there wasnoevidencethatswitchgrassmonocultures responded more to N fertilization than the species mixtures or that different switchgrass cultivars or cultivar mixtures responded differently (Fig. 3). This suggests that choosing a higher genotypic and/or species diversity will neither help or hinder production under moderate N fertilization,whichis likely to be employed for perennial bioenergy crops given that producer profits are maximized at intermediate $\\mathrm { \\Delta N }$ inputs (Boyer et al., 2012).This finding is consistent with studies on other nativeperennial cropping systems in fertilesoil (Jarchow& Liebman,2013). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A meta-analysis of switchgrass monocultures and switchgrass-dominated mixtures found that mixtures of switchgrassand legumesgenerally performed well (Wang et al.，201O)，presumably due to fertilization effects from $\\Nu _ { 2 }$ fixation.In our study，however，the treatment that included legumes (PR) had lower yields compared to switchgrass cultivar monocultures and lower diversity mixtures,whether unfertilized or fertilized,suggesting that there was no N fertilization effect due to the legumes (Fig.3). This may have been due the low abundance of legumes in our mixture $( 7 . 5 \\%$ of sown seed) and the poor establishment of these legumes (Fig.2).Also,prairie mixture (PR) yields might have been lower because the broadleaf plants (e.g.,the large composites） take up a large area when they are green but when they senesce (and are cut and baled)，the leaves fall to the ground and are not harvested. Future studies on combined genotypic/species mixtures for biomass production might take advantage of a better understanding of optimal legume composition in biomass cropping systems that has emerged from recent work(Picasso et al.，2008; Johnson et al.，2010;Wang et al.,2010;Griffith et al.,2011). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Another potential impact of native biomass crops is gene flow from cultivars to native stands of the same species.The probability of such gene flow and its effects onnative populations and associated communities are not yet understood (Kwit & Stewart,2011).The inclusion of local ecopools in cultivar mixtures for biomass cropping systems could help conserve local genotypes. One aspect we considered here was whether local germplasm could be used effectively in biomass cropping systems. The results were mixed. The local switchgrass ecopool Southlow did not establish well, contributing little to the biomass in the early years of the experiment (Fig.2） and yielding poorly in the early production years (Fig.3).This is likely because Southlow，unlike Cave-In-Rock and Kanlow， wasnot intentionally selected for reduced dormancy and vigorous emergence.However, Southlow switchgrass yields continued to rise over the production years compared to CaveIn-Rock (which plateaued）while Kanlow decreased. This is consistent with the expectation that Southlow, from nearby southern Michigan，is well adapted to northeast Illinois (Casler et al.，20o7;Grabowski et al., 2014).By the last production years (2013-2014),Southlow yields matched those of Cave-In-Rock and exceeded in those ofKanlow in theunfertilized treatment. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In many photoperiod sensitive species，including switchgrass,the use of low latitude-adapted germplasm in high latitudes is known to dramatically increase biomass yields through delayed flowering (Casler et al., 2007；Rooney et al.，2oo7).Under favorable conditions, wet-adapted germplasm also produce more biomass than dry-adapted germplasm. Consistent with this expectation,we saw the lowest yields in the most northernand dry-adapted cultivars,Dacotah switchgrass and Champ big bluestem (Fig. 4). The yields of Kanlow, the most southern and wet-adapted switchgrass cultivar in our study,did achieve high yields in some years,but declined dramatically in 2013 and 2014. Cultivars from southern lowland gene pool would be poorly adapted to the northern Midwest climate (Casler et al.,2007;Grabowski et al.,2014). The unusually cold winter of 2013/ 2014 may have contributed to the decline of the Kanlow stands,as Kanlow stands have shown little survival just $1 7 5 ~ \\mathrm { k m }$ north of our field site (Casler,2014).Overall, the balance between photoperiod effects and local adaptation effects seems to favor cultivars or mixtures from within the hardiness zone or one zone south of our site in the upper Midwest (e.g., Cave-In-Rock and Blackwell forswitchgrass,and Rountree and Suther for big bluestem). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The composition of harvested biomass has important implications for crop management (e.g.,balancing N-PK removal and fertilization), biomass utilization (e.g., lignin/cellulose ratios or slagging and fouling) (Sims, 2003)，and the environmental sustainability of the sys tem (e.g., net energy inputs and GHG balance) (Down inget al.,2011;Singh et al.,2012;Bhandari et al.,2013). A previous study comparing four switchgrass and three big bluestem genotypes found the former having significantly higher lignin content,as determined by HPLC (Zhang et al.,2015).However，we saw no evidence of higher lignin in switchgrass overall in our comparison of seven switchgrass vs.seven big bluestem genotypes (Table 3). Given that we did observe among-cultivar variation in lignin (Table 2 and 3),the lack of betweenspecies differences in lignin is not likely due to a lack of precision in the NIRS measurements,but the broader sampling of switchgrass and big bluestem germplasm in our study.Ash and N levels were similar for big bluestem and switchgrass,and big bluestem may have lower levels of minerals involved in corrosion/fouling (e.g.,Cl, Ca,S; Table 2). Together with the evidence of high yield potential for big bluestem, these data suggest that big bluestem mixtures and monocultures warrant more consideration for biomass production systems. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The variation in feedstock composition introduced by higher diversity biomass cropping systems has been raised as a potential limitation of these systems (Adler et al.,20o9). In our study,the prairie mixture (PR)did have significantly different composition for a number of variables,including notably higher lignin and ash than the Cave-In-Rock (CR) and Kanlow (KA） switchgrass monocultures (Table 2).In contrast, the switchgrass cultivar mixture (SG) and the big bluestem $^ +$ switchgrass mixture (BB) had lignin levels similar to the CaveIn-Rock monoculture. Using genotypic mixtures of a single species,or simple mixtures of grasses,may be a way to exploit beneficial diversity effects while avoiding undesirable compositional effects of high species diversity.The low N composition of switchgrass had a role in its prioritization over leguminous crops for bioenergy research (Wright，2007).Here，we observed no difference in biomass N among the plant treatments (Table 2),but this may be due to the small proportion of legumes in the harvested biomass and translocation of nutrients to belowground biomass prior to harvest. The nonlegume forbs，which did contribute substantially to harvested biomass,had no effect on N levels (Table 2).Biomass from N fertilized plots had significantly higher lignin and $\\mathrm { \\Delta N }$ than biomass from unfertilized plots $( 5 \\%$ greater in both cases),indicating that the increase in yield upon N fertilization may go along with a reduction in feedstock quality. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Given the long breeding cycle for perennial outcrossing crops，the development of regionally optimized genotypes for perennial biomass production may take decades. Effectively implementing and interpreting multi-environment and multiyear field trials in plant breeding programs remain a serious challenge even in major annual row crops (Cooper et al.，2014). Taken together,our findings on biomass yield and composition suggest that genotypic mixtures could be a useful strategyto increase and stabilize yields inbiomass feedstock production systems，in parallel withcrop improvement efforts.Further studies,especially in marginal production environments and on targeted genotypic mixtures,will help determine the potential value of genotypic mixtures to increase the sustainability and profitability of native perennial bioenergy cropping systems. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/08aaeeb27dbd2c409e8d2e9b77576a61dba65ae38d5af678baef60b4c3700146.jpg",
+        "table_caption": [
+            "riarrrrriereriirrrrtirlirierriss reselrlts "
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Cultivar</td><td>Lignin</td><td>Cell</td><td>Hemi</td><td>Sugar</td><td>NFC</td><td>Fat</td><td>Ash</td><td>N</td><td>P</td><td>K</td><td>Mg</td><td>S</td><td>Ca</td><td>Na</td><td>Cl</td></tr><tr><td>Switchgrass</td><td>Blackwell</td><td>7.9ab</td><td>45.0ab</td><td>29.8ab</td><td>4.9bc</td><td>6.9b</td><td>1.4bc</td><td>5.3ab</td><td>0.54b</td><td>0.045b</td><td>0.15bc</td><td>0.17a</td><td>0.043b</td><td>0.29 cd</td><td>83.5a</td><td>0.095b</td></tr><tr><td></td><td>CaveInRock</td><td>7.7ab</td><td>44.9ab</td><td>29.8ab</td><td>5.1b</td><td>7.0b</td><td>1.5bc</td><td>5.9ab</td><td>0.49b</td><td>0.060ab</td><td>0.15bc</td><td>0.16a</td><td>0.043b</td><td>0.31bcd</td><td>79.5a</td><td>0.065b</td></tr><tr><td></td><td>Dacotah Forestburg</td><td>7.5ab</td><td>39.7c</td><td>25.1c</td><td>6.5a</td><td>11.6a</td><td>2.3a</td><td>7.9a</td><td>1.03a</td><td>0.100a</td><td>0.30a</td><td>0.16a</td><td>0.075a</td><td>0.52a</td><td>123.0a</td><td>0.155a</td></tr><tr><td></td><td>Kanlow</td><td>8.1a 7.3ab</td><td>44.5b</td><td>29.9ab 31.0a</td><td>4.8bcd 4.9bc</td><td>5.9bc</td><td>1.4bc</td><td>6.4ab</td><td>0.57b</td><td>0.060ab</td><td>0.13c</td><td>0.16a</td><td>0.045b</td><td>0.40bc</td><td>92.5a</td><td>0.068b</td></tr><tr><td></td><td></td><td></td><td>46.8ab</td><td></td><td></td><td>4.5bc</td><td>1.5bc</td><td>6.5ab</td><td>0.55b</td><td>0.035b</td><td>0.14c</td><td>0.17a</td><td>0.043b</td><td>0.21d</td><td>92.2a</td><td>0.062b</td></tr><tr><td></td><td>SouthlowSG</td><td>7.8ab</td><td>45.2ab</td><td>28.9ab</td><td>4.0 cde</td><td>6.3b</td><td>1.4bc</td><td>6.8ab</td><td>0.53b</td><td>0.053b</td><td>0.13c</td><td>0.14ab</td><td>0.045b</td><td>0.40bc</td><td>76.5a</td><td>0.092b</td></tr><tr><td>Sunburst</td><td></td><td>8.1a</td><td>45.0ab</td><td>30.0ab</td><td>4.5bcd</td><td>5.9bc</td><td>1.3c</td><td>6.1ab</td><td>0.53b</td><td>0.055b</td><td>0.12c</td><td>0.17a</td><td>0.062ab</td><td>0.42ab</td><td>89.0a</td><td>0.070b</td></tr><tr><td>Bonanza</td><td></td><td>7.2ab</td><td>47.1ab</td><td>31.2a</td><td>3.3e</td><td>1.7c</td><td>1.6bc</td><td>7.3ab</td><td>0.58b</td><td>0.048b</td><td>0.17bc</td><td>0.13ab</td><td>0.040b</td><td>0.29d</td><td>107.2a</td><td>0.057b</td></tr><tr><td>Champ</td><td></td><td>7.7ab</td><td>47.2ab</td><td>28.9ab</td><td>4.0cde</td><td>4.4bc</td><td>1.7b</td><td>6.5ab</td><td>0.56b</td><td>0.058b</td><td>0.19abc</td><td>0.12ab</td><td>0.043b</td><td>0.29d</td><td>83.0a</td><td>0.070b</td></tr><tr><td>Epic</td><td></td><td>7.0b</td><td>46.1ab</td><td>29.8ab</td><td>4.0cde</td><td>4.9bc</td><td>1.7bc</td><td>7.0ab</td><td>0.53b</td><td>0.058b</td><td>0.28ab</td><td>0.10b</td><td>0.043b</td><td>0.26d</td><td>88.5a</td><td>0.083b</td></tr><tr><td>Pawnee Rountree</td><td></td><td>7.9ab</td><td>45.3ab</td><td>30.2ab</td><td>4.5bcd</td><td>6.0bc</td><td>1.6bc</td><td>5.0b</td><td>0.64b</td><td>0.048b</td><td>0.18abc</td><td>0.14ab</td><td>0.043b</td><td>0.30cd</td><td>78.0a</td><td>0.087b</td></tr><tr><td>SouthlowBB</td><td></td><td>8.1a</td><td>48.0a</td><td>29.3ab</td><td>3.9de</td><td>3.4bc</td><td>1.5bc</td><td>5.8ab</td><td>0.58b</td><td>0.045b</td><td>0.21abc</td><td>0.10b</td><td>0.037b</td><td>0.24d</td><td>89.5a</td><td>0.068b</td></tr><tr><td>Suther</td><td></td><td>7.8ab 8.0a</td><td>48.2a 46.7ab</td><td>29.3ab 28.5b</td><td>3.3e 5.3b</td><td>2.5bc</td><td>1.4bc</td><td>7.1ab</td><td>0.54b</td><td>0.053b 0.045b</td><td>0.16bc</td><td>0.11b</td><td>0.040b</td><td>0.27d</td><td>120.2a</td><td>0.058b</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>5.7bc</td><td>1.5bc</td><td>5.9ab</td><td>0.57b</td><td></td><td>0.23abc</td><td>0.12ab</td><td>0.045b</td><td>0.25d</td><td>78.0a</td><td>0.068b</td></tr><tr><td></td><td>No. of</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>P</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Species</td><td>cultivars 1</td><td>Lignin</td><td>Cell</td><td>Hemi</td><td>Sugar</td><td>NFC</td><td>Fat</td><td>Ash N</td><td></td><td></td><td></td><td>Mg</td><td></td><td>Ca</td><td>Na</td><td>Cl</td></tr><tr><td> Switchgrass</td><td>2</td><td>7.8ab</td><td>44.5d</td><td>29.2a</td><td>4.9a</td><td>7.0a</td><td>1.5a</td><td>6.4a 0.61a</td><td>0.058a</td><td>0.16b</td><td></td><td>0.16a</td><td>0.051a</td><td>0.37a</td><td>90.9a</td><td>0.087a</td></tr><tr><td></td><td></td><td>8.0ab</td><td>45.2 cd</td><td>29.6a</td><td>4.8ab</td><td>5.7ab</td><td>1.4a 6.3a</td><td>0.56a</td><td>0.055ab</td><td>0.14b</td><td>0.16a</td><td>0.048ab</td><td>0.36ab</td><td>87.0a</td><td></td><td>0.083ab</td></tr><tr><td></td><td></td><td>8.0ab</td><td>46.3abcd</td><td>29.6a</td><td>4.8ab</td><td>5.0ab</td><td>1.5a</td><td>5.8a 0.58a</td><td>0.048ab</td><td>0.14b</td><td></td><td>0.17a</td><td>0.045ab</td><td>0.32abc</td><td>119.3a</td><td>0.079ab</td></tr><tr><td>Big Bluestem</td><td></td><td>7.9ab</td><td>45.8bcd</td><td>29.4a</td><td>4.8ab</td><td>5.7ab</td><td>1.4a</td><td>6.2a 0.56a</td><td>0.041b</td><td></td><td>0.14b</td><td>0.16a</td><td>0.043ab</td><td>0.34abc</td><td>88.8a</td><td>0.084ab</td></tr><tr><td></td><td></td><td>7.7b 48.0a</td><td>47.0abc</td><td>29.6a</td><td>4.0 cd</td><td>4.1b</td><td>1.6a</td><td>6.4a 0.57a</td><td></td><td>0.050ab</td><td>0.20a</td><td>0.12c</td><td>0.041b</td><td>0.27c</td><td>92.1a</td><td>0.070ab</td></tr><tr><td></td><td>2</td><td>8.2a</td><td></td><td>28.9a</td><td>4.1bcd</td><td>3.6b</td><td>1.5a</td><td>6.0a</td><td>0.59a</td><td>0.055ab</td><td>0.19ab</td><td>0.12bc</td><td>0.040b</td><td>0.26c</td><td>91.4a</td><td>0.058b</td></tr><tr><td></td><td>4</td><td>7.9ab</td><td>47.2abc</td><td>29.6a</td><td>4.1bcd</td><td>3.7b</td><td>1.6a</td><td>6.3a</td><td>0.56a</td><td>0.048ab</td><td>0.18ab</td><td>0.12c</td><td>0.040b</td><td>0.28bc</td><td>98.0a</td><td>0.065ab</td></tr><tr><td></td><td>6</td><td>7.9ab</td><td>47.6ab</td><td>30.2a</td><td>3.8d</td><td>3.7b</td><td>1.5a</td><td>6.2a</td><td>0.57a</td><td>0.046ab</td><td>0.18ab</td><td>0.12bc</td><td>0.039b</td><td>0.27c</td><td>83.7a</td><td>0.057b</td></tr><tr><td>Mixture</td><td>2</td><td>7.8ab</td><td>47.0abc 46.3abcd</td><td>29.6a 30.3a</td><td>4.4abcd 4.2bcd</td><td>4.3b 4.8ab</td><td>1.5a 1.4a</td><td>7.0a 6.5a</td><td>0.52a 0.58a</td><td>0.041b 0.047ab</td><td>0.16b 0.15b</td><td>0.14b 0.14ab</td><td>0.043ab 0.043ab</td><td>0.30bc 0.32abc</td><td>91.2a 85.8a</td><td>0.075ab 0.068ab</td></tr><tr><td></td><td>4</td><td>7.8ab 8.0ab</td></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Published2015.ThisarticleisaU.S.Governmentworkandis inthepublicdomainintheUSA.GlobalChangeBiology.Publihedby John Wiley& Sons Ltd,doi: 10.1111/gcbb.12309 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Funding for this research was provided by the US Department ofEnergy, Office of Science,Office of Biological and Environmental Research under contract DE-AC02-06CH11357to Argonne National Laboratory (RMM and JDJ).Additional supportwas provided by the Argonne/UChicago Energy Initiative to RMM and JOB,USDA-NIFA grant 2010-03894 to RMM,and a USDA-AFRI grant 2012-67010-20069 to M-AG, JDJ,and GPM. PPG was partially supported by National Institutes of Health Training Grant T32 GM007197.We thank Timothy Vugteveen, Whitney Panneton,Nina Noah, Jeremy Lederhouse,ScottHofmann,Susan Kirt Alterio,Kelly Moran Sturner，andCheryl Martin for technical assistance,and two anonymous reviewers for helpful comments and suggestions. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acquaah G (2012) Principles of Plant Genetics and Breeding (2 edn).Wiley-Blackwell, Hoboken,NJ.758 pp.   \nAdler PR,Sanderson MA,Weimer PJ,Vogel KP (2009) Plant species composition and biofuel yields of conservation grasslands. Ecological Applications,19,2202- 2209.   \nAlderson J,Sharp WC, United States.Department of Agriculture (1994) Grass Varieties in the United States.U.S.Department of Agriculture,Washington,DC,10 pp.   \nAllard RW, Bradshaw AD (1964) Implications of genotype-environmental interactions in applied plant breeding.Crop Science,4, 503-508.   \nAronesty E (2013) Comparison of sequencing utility programs.The Open Bioinformatics Journal,7,8.   \nBarker RE,Haas RJ, Jacobson ET,Berdahl JD (1988) Registration of “Forestburg\" switchgrass. Crop Science,28,192-193.   \nBarker RE,Haas RJ,Berdahl JD,Jacobson ET (199O)Registration of “Dacotah\" switchgrass.Crop Science,30,1158.   \nBhandari HS,Walker DW,Bouton JH, Saha MC (2013)Effects of ecotypes and morphotypes in feedstock composition of switchgrass (Panicum virgatum L.). GCB Bioenergy,6,26-34.   \nBoe A,Ross JG (1998) Registration of \"Sunburst\" switchgrass. Crop Science,38,540.   \nBoyer CN, Tyler DD,Roberts RK,English BC,Larson JA (2012) Switchgrass yield response functions and profit-maximizing nitrogen rates on four landscapes in Tennessee.Agronomy Journal,04,579-88.   \nBradbury PJ,Zhang Z,Kroon DE,Casstevens TM,Ramdoss Y, Buckler ES (2007) TASSEL: software for association mapping of complex traits in diverse samples. Bioinformatics,23,2633-2635.   \nCasler MD (2005) Ecotypic variation among switchgrass populations from the Northern USA. Crop Science,45,388-398.   \nCasler MD (2012) Switchgrass breeding, genetics,and genomics.In: Switchgrass (ed. Monti A),pp.29–53.Springer,London.   \nCasler MD (2014) Heterosis and reciprocal-cross effects in tetraploid switchgrass. Crop Science,54,2063-2069.   \nCasler MD, Vogel KP,Taliaferro CM et al. (2oo7) Latitudinal and longitudinal adaptation of switchgrass populations. Crop Science,47,2249-2260.   \nCook-Patton SC,McArt SH,Parachnowitsch AL,Thaler JS,Agrawal AA (2011)A direct comparison of the consequences of plant genotypic and species diversity on communities and ecosystem function. Ecology, 92, 915-923.   \nCooper M,Messina CD,Podlich D et al.(2014) Predicting the future of plant breding: complementing empirical evaluation with genetic prediction. Crop and Pasture Science,65,311-336.   \nR Core Team (2014) R:A Language and Environment for Statistical Computing.R Core Team, Vienna,Austria.   \nCrawley MJ (2012) The R Book (2nd edn).Wiley, Chichester,West Sussex,UK.1076 Pp.   \nDanecek P,Auton A,Abecasis G et al.(2011) The variant callformat and VCFtools. Bioinformatics,27,2156-2158.   \nDavis KM, Englert JM,Kujawski JL (2002) Improved conservation plant materials released by NRCS and cooperators through September 2002.   \nDillon SL, ShapterFM,Henry RJ,Cordeiro G,Izquierdo L,Lee LS (2007) Domestication to crop improvement: genetic resources for Sorghum and Saccharum (Andropogoneae).Annals of Botany,100,975-989.   \nDowning M,EatonLMGrahamRLetal. (2011)USBillion-tonUpdate:BiomasSupplyfora Bioenergy and Bioproducts Industry.Oak Ridge National Laboratory (ORNL),Oak Ridge, TN.   \nDurlingJC,Leif JW,Burgdorf DW (2007) Registration of southlow Michigan germplasm big bluestem. Crop Science,47,455.   \nDurlingJC,Leif JW,Burgdorf DW (2008)Registrationof southlow Michigan germplasm switchgrass.Journal of Plant Registrations,2,60.   \nFargione J,Tilman D,DybzinskiRet al.(20o7) From selection to complementarity: shifts inthecauses of biodiversity-productivityrelationshipsinalong-termbiodiversity experiment.Proceedings of theRoyal Society B:Biological Sciences,274,871-876.   \nGan J, Smith CT (2011) Optimal plant size and fedstock supply radius: a modeling approach to minimize bioenergy production costs. Biomass and Bioenergy，35, 3350-3359.   \nGelfand I, Sahajpal R, Zhang X,Izaurralde RC, Gross KL,Robertson GP (2013) Sustainable bioenergy production from marginal lands in the US Midwest.Nature, 493, 514–517.   \nGrabowski PP,Morris GP,Casler MD,Borevitz JO (2014) Population genomic variationreveals roles of history,adaptationand ploidy inswitchgrass.Molecular Ecology,23,4059-4073.   \nGray MM,St.AmandP,BelloNMet al. (2014)Ecotypes of an ecologicallydominant prairie grass (Andropogon gerardii) exhibit genetic divergence across the U.S. Midwest grassands'environmental gradient.Molecular Ecology,23,6011-6028.   \nGrifith AP,Epplin FM,Fuhlendorf SD, Gillen R (2011) Acomparison of perennial polycultures and monocultures for producing biomass for biorefinery feedstock. Agronomy Journal,103,617-627.   \nHanson AA (Angus A (1972) Grass Varieties in the United States.Agricultural Research Service,U.S.epartmentofAgriculture,Washington,DC,34pp   \nHaussmann BIG,Fred Rattunde H,Weltzien-Rattunde E, Traoré PSC,Vom Brocke $\\mathrm { K , }$ Parzies HK (20l2) Breeding strategies for adaptation of pearl millet and sorghum to climate variability and change in West Africa.Journal of Agronomy and Crop Science,198,327-39.   \nJarchow ME,Liebman M(2O12) Tradeofs in biomass and nutrient allocation in prairies and corn managed forbioenergy production. Crop Science,52,1330-1342.   \nJarchow ME,Liebman M (20l3) Nitrogen fertilization increases diversity and productivity of prairiecommunities used for bioenergy.GCB Bioenergy,5,281-289.   \nJohnsonM-VV,Kiniry JR,Sanchez H,PolleyHW,Fay PA (201o) Comparing bio mass yields of low-input high-diversity communities with managed monocultures acrosstheCentral United States.BiEnergy Research,3,353-361.   \nKennedyRK (1972) The sickledrat: a circular quadrat modification useful in grassland studies.Journal of Range Management Archives,25,312-313.   \nKim C, Zhang D,Auckland S et al.(2012) SSR-based genetic maps of Miscanthus sinensis and M.sacchariflorusand their comparison to sorghum.TAG Theoretical and Appliedeeics,,.   \nKingsburyN(2011)Hybrid:The Historyand Science ofPlant Breeding.University Of Chicago Press, Chicago,IL; Bristol.512 pp.   \nKwit C,Stewart CN (2011) Gene flow matters in switchgrass (Panicum virgatum L.), a potential widespread biofuel feedstock. Ecological Applications,22, 3-7.   \nLi H,Durbin R (20o9)Fast and accurate short read alignment with Burrows-Wheeler transform.Bioinformatics,25,1754-1760.   \nLi H,Handsaker B,Wysoker A et al.(2o09) The sequence alignment/map format and SAMtools.Bioinformatics,25,2078-2079.   \nLiu L,Wu Y (2012) Identification of a selfing compatible genotype and mode of inheritance in switchgrass. BioEnergy Research,5,662-668.   \nMangan ME,Sheaffer C,Wyse DL,Ehlke NJ,Reich PB (2011) Native perennial grassand species for bioenergy: establishment and biomassproductivity.Agronomy Journal,,519.   \nMcMillan C (1956) Nature of the plant community.I. Uniform garden and light period studies of five grass taxa in Nebraska. Ecology,37,330-340.   \nMcMillan C(1959) The role of ecotypic variation in the distribution of the Central GrasslandofNorthAmerica.EcologicalMonographs,29,86-08.   \nMcMillan C (1961) Nature of the plant community.VI. Texas Grassland Communities under transplanted conditions.American Journal of Botany,48,778-785.   \nMorris GP, Grabowski PP,Borevitz JO (2011) Genomic diversity in switchgrass (Panicumvirgatum):from thecontinental scale toa dune landscape.Molecular Ecology, 20, 4938-4952.   \nMundt CC (2O02) Use of multiline cultivars and cultivar mixtures for disease management.Annual Review of Phytopathology,40,381-410.   \nNewell LC(1968a) Registration of Champ Bluestem (Reg.No.2). Crop Science,8,515.   \nNewell LC(1968b) Registration of Pawnee Big Bluestem (Reg.No.1). Crop Science, 8, 514–515.   \nNyfeler D,Huguenin-Elie O, Suter M, Frossard E,Connolly J,Lüscher A (2009) Strong mixture effects among four species in fertilized agricultural grassland led to persistent and consistent transgressve overyielding.Journal of Applied Ecology, 46, 683-691.   \nO'Brien SL,Jastrow JD,McFarlane KJ,Guilderson TP,Gonzalez-Meler MA (2013) Decadal cycling within long-lived carbon pools revealed by dual isotopic analysis of mineral-associated soil organic matter. Biogeochemistry,112,111-125.   \nPicasso VD,Brummer EC,Liebman M, Dixon PM,Wilsey BJ (2008) Crop species diversity affects productivity and weed suppression in perennial polycultures under two management strategies. Crop Science, 48, 331-342.   \nPorter CL (1966) An analysis of variation between upland and lowland switchgrass, Panicum virgatum L.,in Central Oklahoma. Ecology,47, 980-992.   \nRobertson BA,Doran PJ,Loomis LR,Robertson JR,Schemske DW (2011) Perennial biomass feedstocks enhance avian diversity. GCB Bioenergy,3,235-246.   \nRooney WL, Blumenthal J, Bean B,Mullet JE (20o7) Designing sorghum as a dedicated bioenergy feedstock.Biofuels,Bioproductsand Biorefining,1,147-157.   \nSarath G,Akin DE,Mitchell RB,Vogel KP (20o8) Cell-wall composition and accessibility to hydrolytic enzymes is differentiallyaltered in divergently bred switchgrass (Panicum virgatum L.) genotypes.Applied Biochemistry and Biotechnology,150, 1-14.   \nSchmer MR,Vogel KP,MitchellRB,Perrin RK (2008)Net energy of cellulosic ethanol fromswitchgrass.Proceedingsof theNationalAcademy ofSciences,1o5,464-469.   \nSimsREH (2oo3) Bioenergy Options fora Cleaner Environment:In Developed and Developing Countries:In Developed and Developing Countries.Elsevier,Amsterdam, 200 pp.   \nSingh MP,Erickson JE,Sollenberger LE,Woodard KR,Vendramini JMB,Fedenko JR (2012)Mineral composition and biomass partitioning of sweet sorghum grown for bioenergy in the southeastern USA. Biomass and Bioenergy,47,1-8.   \nSmithson JB,Lenné JM (1996) Varietal mixtures:a viable strategy for sustainable productivity in subsistence agriculture.Annals of Applied Biology,128,127-158.   \nSwink F,Wilhelm G (1994) Plants of the Chicago Region (4th edn).Indiana Academy of Science,Indianapolis.936 pp.   \nTamura K,Stecher G,Peterson D,Filipski A,Kumar S (2013) MEGA6:Molecular evolutionary genetics analysis version 6.O.Molecular Biology and Eoolution,30, 2725-2729.   \nTilman D,Hill J, Lehman C (20o6a) Carbon-negative biofuels from low-input high diversity grassland biomass. Science, 314,1598-1600.   \nTilman D,Reich PB,Knops JMH (2006b) Biodiversity and ecosystem stability in a decade-long grassland experiment. Nature, 441, 629-632.   \nUden DR, Mitchell RB,Allen CR, Guan $\\mathrm { \\Delta Q } ,$ McCoy TD (2013) The feasibility of producing adequate feedstock for year-round cellulosic ethanol production in an intensive agricultural fuelshed. BioEnergy Research,6, 930-938.   \nUS Department of Commerce N (2015) Oficial Extreme Weather Records for Chicago, IL.   \nUSDA-NASs (2013)Acreage,yield and production by counties,Illinois,2012.   \nUSDA-Natural Resources Conservation Service (2O09) Planting and Managing Switchgrass asa Biomass Energy Crop.PlantMaterials Program,TechnicalNote 3.   \nUSDA-NRCS (2013) Iowa Bulletin No.190-12-5.   \nVogel KP,Mitchell RB,Klopfenstein TJ,Anderson BE (2006) Registration of \"Bonanza\"big bluestem. Crop Science,46,2313-2314.   \nVogel KP,Dien BS,Jung HG,Casler MD,Masterson SD,Mitchell RB (2010) Quantifying actual and theoretical ethanol yields for switchgrass strains using NIRS analyses.BioEnergyResearch,4,96-110.   \nWang D,Lebauer DS,Dietze MC (201o)A quantitative review comparing the yield of switchgrass in monocultures and mixtures in relation to climate and management factors. GCB Bioenergy,2,16-25.   \nWrightL (2oo7) Historical Perspective on how and why Switchgrass was Selected as a \"Model\" High-Potential Energy Crop. Bioenergy Resources and Engineering Systems, ORNL/TM-2007/109 Oak Ridge, TN.   \nZalapa JE,Price DL,Kaeppler SM,Tobias CM,Okada M,Casler MD (2010)Hierarchical classification of switchgrass genotypes using SSR and chloroplast sequences: ecotypes,ploidies,gene pools,and cultivars.Theoretical and Applied Genetics,122, 805–817.   \nZhang Y,Zalapa JE,Jakubowski AR et al.(2011) Post-glacial evolution of Panicum virgatum: centers of diversity and gene pools revealed by SSR markers and cpDNA sequences. Genetica,139, 933-948.   \nZhang K,Johnson L,Prasad PVV,Pei Z, Yuan W,Wang D (2015) Comparisonof big bluestem with other native grasses: chemical composition and biofuel yield. Energy,83,358-365. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

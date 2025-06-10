@@ -1,0 +1,710 @@
+[
+    {
+        "type": "text",
+        "text": "宁夏隆德方言单字调及双字调声学分析 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张入梦",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（北京大学 中国语言文学系 北京 100871)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文运用Praat语音分析软件对宁夏隆德方言单字调及双字调进行了声学分析。通过对语音样本数据进行归一化处理，提取出各声调下每个例字的基频值，在此基础上参考半音法、根据五度标调法确定调值；最终归纳出隆德方言的三个单字调—缓升调（113）、高降调（51）、中平调（33），以及四种双字调变调调形。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：隆德方言，字调，声学分析，Praat，基频 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、隆德方言概况 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.方言点介绍 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "隆德县位于宁夏南部边陲，六盘山西麓，县境西北毗连静宁、西吉，东南直接泾源、庄浪，东北周边与固原接界。介于北纬 $3 5 ^ { \\circ } 2 1 \" \\_ 3 5 ^ { \\circ } 4 7 \"$ 、东经$1 0 5 ^ { \\circ } 4 8 ^ { \\prime }$ 一 $1 0 6 ^ { \\circ } 1 5 \"$ 之间。南北长47公里，东西宽 41公里，全县幅员面积985平方公里。截至2018年，隆德县总人口17.5392万人，其中汉族人口占 $86 \\%$ 以上；其他常驻民族有回族、满族、藏族、蒙古族、壮族、苗族、土家族等1。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "据《中国语言地图集》（1987）划分，隆德方言属中原官话陇中片；涵盖隆德县境内的3镇10乡：城关、沙塘、联财、神林、张程、杨河、凤岭、观庄、好水、陈靳、奠安、山河、温堡。杨苏平《隆德方言研究》（2018）又将隆德方言分为北中南三片。本实验分析的是隆德方言神林话，属隆德方言中片。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.声韵系统简介2 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1）声母系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "隆德方言声母共有24个声母；其中包括23个辅音声母与1个零声母；声母及其例字如下（表1）：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "p(布、班) （204号 ${ \\mathfrak { p } } ^ { \\mathrm { h } }$ (怕、盘） m（门、买） f(飞、冯） v（围、午) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "t（到、多） t（太、同） n (硬、女) 1(连、农) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { k }$ (归、街) $\\mathbf { k } ^ { \\mathrm { { h } } }$ （开、跪） $\\mathfrak { p }$ （案、额） x(话、咸）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "tc（经、杰） tch(旗、局） c(旋、休) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ts（招、蒸）tsʰ（昌、潮) $\\mathfrak { E }$ (十、深) z（人、日）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ts（争、祖) tsh（仓、馋） s (丝、师) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "零声母 (而、远)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1隆德方言声母系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在隆德方言中，中古知、章、庄三组声母依开合口化并为[ts]、[ts]两组声母（[ts]组实际音值更接近舌叶音[tJ]组）；这两组声母互补分布。中古精组字齐齿呼前分尖团，读[ts]音；撮口呼前不分，读[tc]音。中古全浊声母仄声字（塞音及塞擦音）清化后部分字读为送气音。部分古见系二等常用字在白读音中保留了舌根音的读法，韵母亦读为洪音，如\"街”、“咸”。中古泥、来母字在合口呼前混读为[1]，如“农[luη24]” $\\overleftarrow { }$ ‘龙[lun24]”。普通话开口呼零声母字在隆德方言中为[n]母字。部分疑、影母齐齿呼字声母读为[n]，如\"咬、严”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）韵母系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "隆德方言的韵母又30个，包括8个单韵母，22个复韵母。韵母及其例字如下（表2）：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1(支、思) i（第、急) u (故、木) y(雨、驴)（知、日）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ər（耳、二) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a(爬、拿) ia（架、霞） ua(刮、滑）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ə (蛇、舌) uə (过、活） yə（确、月） ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ε(来、奶) iε (铁、姐) uε(怪、坏) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ə(饱、桃） iə(条、桥) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "əu（丑、收） iəu（油、求）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ei（倍、妹） uei(贵、跪) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "an（胆、含） ian（帘、艰） uan（短、官）yan（权、圆）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ən（根、肯） in（林、星） u(红、魂） yη（云、穷）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "an（桑、狼） ian（良、杨） uan（光、黄）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2隆德方言韵母系统",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "隆德方言除韵腹为[a]的鼻音韵母外不分前后鼻音，鼻尾韵表现为[n]。合口呼韵母与[ts]组声母相拼时，介音、韵母[u]音值接近舌尖前卷舌元音。中古果摄一等字多读为[a]、[uə]韵。流摄开口一等来母字韵母读为[u]，如“楼”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）声调系统",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一般认为隆德方言有4个声调，调类、调值如下（表3）：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "阴平213：高、边、德、灭 阳平24：唐、穷、房、读上声53：古、丑、粉、碗 去声44：是、大、怒、用",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3隆德方言声调系统",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "隆德方言中古清声母入声字和次浊入声字归阴平调，全浊入声字归阳平调。老派话仍有四个单字调，新派话单字调阴阳平似乎已逐渐不分。但神林话中的单字调已确乎不分阴阳平，如\"抹\" $\\fallingdotseq$ “麻”，“偷” $\\fallingdotseq$ “头”，“吃” $\\fallingdotseq$ “迟”，“天” $\\fallingdotseq$ “甜”；因而本实验以平、上、去三个单字调为准制定字表。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二、实验方法说明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.数据采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）录音技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验使用语音分析软件Praat 内置录音工具录音，采样频率为 $4 4 1 0 0 \\mathrm { { H z } }$ 单声道录制，采样精度为16位；录音文件存储格式为wav 格式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）参数提取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用Praat进行音频处理和分析。运用自相关算法——利用声带振动的准周期性，计算语音信号周期的相关性——提取基频；提取时将基频起始和末尾的不稳定段剪除。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）归一化处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于每个样本时长存在差异，直接提取出的基频点数量不同，不便于进行对",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "比研究，需先对基频进行时间上的归一化处理。本次试验使用基频提取脚本，每个音节提取20 个基频点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.发音人信息简介",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "四位发音人（两男两女）均为土生土长的隆德方言神林话母语者，主要信息如下（表5）：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d531de34bcb7ec6f4a8bc79514c91cc7d470a30b6e76e8b21279362f183428e1.jpg",
+        "table_caption": [
+            "表5发音人基本信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>姓名简写</td><td>性别</td><td>年龄</td><td>离乡年龄</td><td>教育水平</td><td>职业</td></tr><tr><td>F1</td><td>rd</td><td>男</td><td>50</td><td>18</td><td>硕士</td><td>公职</td></tr><tr><td>F2</td><td>cd</td><td>男</td><td>53</td><td>未离乡</td><td>初中</td><td>务农</td></tr><tr><td>M1</td><td>1x</td><td>女</td><td>44</td><td>18</td><td>高中</td><td>企业</td></tr><tr><td>M2</td><td>jy</td><td>女</td><td>74</td><td>53</td><td>小学</td><td>退休</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.调查字调 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）单音节字表",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑到声母对声调的影响，单字调的例字大多是选自清声母塞音、塞擦音的常用字，而避免用浊音字。并列出了声韵母条件相同、声调作为最小对立的情况作为参照，如“妈、马、骂”。每个声调选 5个例字，共 15个（见表6），录音时每个要求读两遍。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/35ed7a73b94ae003f2ecac6c4797a1bcc45ed6a89a30a087b921aa201ddc9ff7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>调类</td><td></td></tr><tr><td>平声</td><td>妈/ma/、白/bε/、田/thian/、揪/tciəu/、通/thun/、愁/tshəu/</td></tr><tr><td>上声</td><td>马、摆、舔、九、桶、丑</td></tr><tr><td>去声</td><td>骂、拜、垫、就、动、臭</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表6隆德方言单字调例字",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）双音节字表",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双字调（不考虑轻声音节）理论上共有9种组合方式，每种组合方式择 5个词项（见表7）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c62da43a224af2b5ccc76065c6e3e3d7ee6930df6361cda5efa4ae9f1c92f0af.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>调类</td><td>词项</td></tr><tr><td>平+平</td><td>羊毛、皮鞋、亏人、冰凌、跟集（风匣)</td></tr><tr><td>平+上</td><td>灯盏、墨水、精彩、北斗、箍桶</td></tr><tr><td>平+去</td><td>月亮、咳嗽、亲戚、填炕、耕地</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ec6ff741e95778e22288e62b8f930711cff08c1dafb7bb0c782d17d64d89864.jpg",
+        "table_caption": [
+            "2019-2020学年第1学期实验语音学期末报告"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>上+平</td><td>淌血、咬人、摆席、擀毡、打捶</td></tr><tr><td>上+上</td><td>满嘴、保管、赶紧、手掌、领导</td></tr><tr><td>上+去</td><td>奖状、手电、水磨、请示、捣乱</td></tr><tr><td>去+平</td><td>布鞋、浪闲、念书、敬神、拜年</td></tr><tr><td>去+上</td><td>报纸、政府、队长、字典、地震</td></tr><tr><td>去+去</td><td>大路、部队、骂仗、垫圈、过事</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三、单音节声调参数分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "声调是一个除音高的变化模式之外还涉及音位系统及感知等多方面因素的语言学概念。从物理声学的角度来看，音高是声调最主要的表现方式；基频作为反映音高的物理参数，是描写声调调值的重要参考因素。刘复先生在《四声实验录》中创用的半音法对基频进行了一个对数处理，使得经过半音法处理后的数据更加接近人们的听感；协调了声调的物理属性与心理感知。半音法与赵元任先生首创的五度标调法综合起来，可以比较准确地描写汉语的声调系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c866e1318369c47b68800bf9808693326fd6d17e9e2a26cbd8144e3119efb44.jpg",
+        "table_caption": [
+            "表7隆德方言双字调词项"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">平声</td><td colspan=\"2\">上声</td><td colspan=\"2\">去声</td></tr><tr><td>性别</td><td>男</td><td>女</td><td>男</td><td>女</td><td>男</td><td>女</td></tr><tr><td>1</td><td>84.58166667</td><td>139.59375</td><td>152.5966667</td><td>198.0133334</td><td>121.1016667</td><td>171.0841667</td></tr><tr><td>2</td><td>84.10541667</td><td>136.2554167</td><td>151.3833334</td><td>192.9125</td><td>120.8833334</td><td>167.6741667</td></tr><tr><td>3</td><td>84.02541667</td><td>133.8741667</td><td>149.82875</td><td>187.8183333</td><td>120.9791667</td><td>164.3941667</td></tr><tr><td>4</td><td>84.00291667</td><td>132.3495834</td><td>148.3466667</td><td>183.85</td><td>121.3316667</td><td>161.7245834</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验基于Praat 软件对音频的分析，对数据进行归一化处理，提取出各声调下每个例字的基频值，用Excel 绘制成折线图直观表示；在此基础上参考半音法、根据五度标调法确定调值。首先将 wav 格式的无压缩音频导入Praat，参照语音波形与强度曲线合理截取其中强度稳定的一段，即要求第二共振峰结构稳定、能量均衡。然后在选定的音段导入基频提取脚本，每个例字取 20 个基频数据，同时对时长进行归一化处理，使之与取基频的点相对应。再将每个单字调下的5个例字的基频值进行平均（见表8），按照性别将发音人的数据分为两组分组绘图。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c06c5a384e6c189146b3622d5be2b2a01fad34b838d37cb9b9563b736796378f.jpg",
+        "table_caption": [
+            "2019-2020 学年第1学期 实验语音学期末报告"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>5</td><td>84.51333333</td><td>131.35</td><td>146.4029167</td><td>179.9804167</td><td>121.7</td><td>159.9654167</td></tr><tr><td>6</td><td>84.95625</td><td>129.9504167</td><td>143.85</td><td>175.7016667</td><td>122.1329167</td><td>158.8066667</td></tr><tr><td>7</td><td>85.86541667</td><td>129.1758334</td><td>141.33</td><td>170.9741667</td><td>122.59875</td><td>157.88125</td></tr><tr><td>8</td><td>86.53458334</td><td>129.4370834</td><td>138.75125</td><td>166.6083333</td><td>122.9404167</td><td>157.2483333</td></tr><tr><td>9</td><td>87.94458334</td><td>130.1933334</td><td>135.5783333</td><td>161.7383334</td><td>123.2108334</td><td>156.85875</td></tr><tr><td>10</td><td>90.05170833</td><td>131.2491667</td><td>131.8441667</td><td>157.2870834</td><td>123.3416667</td><td>156.5116667</td></tr><tr><td>11</td><td>92.50801667</td><td>132.5475</td><td>128.5179167</td><td>152.6716667</td><td>123.3345834</td><td>156.0804167</td></tr><tr><td>12</td><td>95.01470834</td><td>133.98875</td><td>124.0725</td><td>147.9654167</td><td>123.295</td><td>155.5941667</td></tr><tr><td>13</td><td>97.7756</td><td>135.5070834</td><td>118.9145834</td><td>142.90125</td><td>123.2133334</td><td>155.1725</td></tr><tr><td>14</td><td>100.5027417</td><td>137.0604167</td><td>114.0233334</td><td>137.56125</td><td>123.0708334</td><td>154.6725</td></tr><tr><td>15</td><td>102.9576667</td><td>138.4766667</td><td>109.0904167</td><td>132.7579167</td><td>122.8066667</td><td>154.0025</td></tr><tr><td>16</td><td>105.0993083</td><td>139.6429167</td><td>103.9941667</td><td>128.2941667</td><td>122.4808333</td><td>153.1829167</td></tr><tr><td>17</td><td>106.96</td><td>140.5216667</td><td>99.77458334</td><td>124.3345834</td><td>122.00875</td><td>152.43375</td></tr><tr><td>18</td><td>108.545</td><td>141.315</td><td>95.73875</td><td>120.7570834</td><td>121.36</td><td>151.6429167</td></tr><tr><td>19</td><td>109.5933334</td><td>142.25875</td><td>90.84416667</td><td>117.9</td><td>120.35125</td><td>150.74625</td></tr><tr><td>20</td><td>109.90625</td><td>143.2145833</td><td>87.49833334</td><td>115.8795833</td><td>119.18875</td><td>150.075</td></tr><tr><td>时长</td><td>242.5129167</td><td>226.1279167</td><td>163.7566667</td><td>155.3533333</td><td>247.145</td><td>218.16</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表8男女声调基频数据",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "男性发音人与女性发音人单字调基频折线图如下（图1、图2）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fea1799cc845e676965fc7ed530beb2421f06b43bdfd1aec1a465d545ec1a3c.jpg",
+        "img_caption": [
+            "图1男性单字调"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/04783a069334c5eefab9f87add906a47799cb31f0ff3a9884cd40535c70da266.jpg",
+        "img_caption": [
+            "图2女性单字调"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将男性发音人与女性发音人单字调基频综合起来得到综合基频数据（表9)及折线图（图3）：",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4aa37cab9119f7cd94b9e6fd7602bc6e96d94a372237105dd802b39bdaac30ed.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>平声</td><td>上声</td><td>去声</td></tr><tr><td>1</td><td>112.0877083</td><td>175.305</td><td>146.0929167</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3af692738d2c09aa4b970cad4e948a6c232b5d090d621d1b4513b44537c6c3dc.jpg",
+        "table_caption": [
+            "2019-2020学年第1学期实验语音学期末报告"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>2</td><td>110.1804167</td><td>172.1479167</td><td>144.27875</td></tr><tr><td>3</td><td>108.9497917</td><td>168.8235417</td><td>142.6866667</td></tr><tr><td>4</td><td>108.17625</td><td>166.0983334</td><td>141.528125</td></tr><tr><td>5</td><td>107.9316667</td><td>163.1916667</td><td>140.8327083</td></tr><tr><td>6</td><td>107.4533333</td><td>159.7758334</td><td>140.4697917</td></tr><tr><td>7</td><td>107.520625</td><td>156.1520834</td><td>140.24</td></tr><tr><td>8</td><td>107.9858333</td><td>152.6797917</td><td>140.094375</td></tr><tr><td>9</td><td>109.0689583</td><td>148.6583333</td><td>140.0347917</td></tr><tr><td>10</td><td>110.6504375</td><td>144.565625</td><td>139.9266667</td></tr><tr><td>11</td><td>112.5277583</td><td>140.5947917</td><td>139.7075</td></tr><tr><td>12</td><td>114.5017292</td><td>136.0189584</td><td>139.4445833</td></tr><tr><td>13</td><td>116.6413417</td><td>130.9079167</td><td>139.1929167</td></tr><tr><td>14</td><td>118.7815792</td><td>125.7922917</td><td>138.8716667</td></tr><tr><td>15</td><td>120.7171667</td><td>120.9241667</td><td>138.4045834</td></tr><tr><td>16</td><td>122.3711125</td><td>116.1441667</td><td>137.831875</td></tr><tr><td>17</td><td>123.7408333</td><td>112.0545833</td><td>137.22125</td></tr><tr><td>18</td><td>124.93</td><td>108.2479167</td><td>136.5014583</td></tr><tr><td>19</td><td>125.9260417</td><td>104.3720833</td><td>135.54875</td></tr><tr><td>20</td><td>126.5604167</td><td>101.6889583</td><td>134.631875</td></tr><tr><td>时长</td><td>234.3204167</td><td>159.555</td><td>232.6525</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ceb6b764d87b841e5a039cc1630193b94a1fcfb7fef050573db17735d3f484a.jpg",
+        "img_caption": [
+            "表9隆德方言声调综合基频数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图3隆德方言单字调基频 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结合半音法及五度标调法的原理、并且综合发音人的听感可将隆德方言神林话的调值进行如下处理：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第一类平声，调值记为113；调型为缓升调，主要音高特征是先平后升，为“低-低-中\"式。平声音节的平均时长很长，在听感上能够比较明显地感到起始低音高的保持，在折线图上亦可看到起始调值在第10个基频点之前基本持平，之后开始上升趋势；因此本着尽量准确的原则使用三个数值描写该声调，即使并非曲折调。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第二类上声，调值记为51；调型为高降调，主要音高特征是为\"高-低\"式。整个音节比较稳定均匀地下降，调值跨越五度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第三类去声，调值记为33；调型是中平调，主要音高特征是\"中-中”。从折线图中看，平调的曲线并非完全平直，而是在接近末尾时呈现了基频衰减的趋势;但斜率波动控制在一定范围之内便可被识别为平调；这也是单音节结束时的正常趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从时长来看，平声与去声的时长都较长且比较接近，而上声时长要短于平声与去声；这与三者的调型有关。缓升调与中平调给音长的空间较大；而高降调由于结束调值很低，因而能够给音长的空间就小了许多。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于以上分析，隆德方言单字调系统可归结如下（表10）：",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/acd6934bb320a322b22338db0892e6f4126514a44d83020f68fae4fa06615cce.jpg",
+        "table_caption": [
+            "表10隆德方言单字调区别特征表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>调类</td><td>调值</td><td>调型</td><td>代表字</td></tr><tr><td>平声</td><td>113</td><td>缓升调，低-低-中</td><td>妈、白、甜</td></tr><tr><td>上声</td><td>51</td><td>高降调，高-低</td><td>马、摆、舔</td></tr><tr><td>去声</td><td>33</td><td>中平调，中-中</td><td>骂、拜、垫</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "四、双音节声调参数分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "语流音变是音节与音节连接时互相影响造成的语音变化；在声调上表现为连读变调。本实验讨论非重叠双音节连读变调规律。以下的分析是在综合了男女发音人数据的基础上进行的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.平声",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）平声为前字",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在单字调录音及分析时，发现中古阴平字与阳平字在隆德方言神林话中已合并为同一个调类，在语音和听感上都不再有分别（如\"妈\" $\\fallingdotseq$ “麻\"等）。然而，在后来的双字调语音分析中发现，“平声 $^ +$ 平声\"组合中的前字上仍然能够体现出中古阴平字与中古阳平字的分别。因而作者又补充了几个“阴平 $^ +$ 平声\"与\"阳平 $+$ 平声\"的词项进一步佐证—双字调“平 $^ +$ 平\"部分数据提取依照的是如下经过补充的词项，见表11:",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/980080d4fe983005986ae941d319333b11602b2bed3208a3f0769c2a3cf3b919.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">调类</td><td>词项</td></tr><tr><td rowspan=\"2\">平+平</td><td>阴平+平</td><td>亏人、冰凌、跟集、抹布、吃饭、天地</td></tr><tr><td>阳平+平</td><td>羊毛、皮鞋、麻布、迟到、田地</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "最终得到图4所示的连读变调情况：",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7768a9a419eb18658bff5bec587e64b662ee6e681f3186969b10c084bed10d8a.jpg",
+        "img_caption": [
+            "表11双字调“平+平” ",
+            "图4平声 $+ \\mathbf { X }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "可以看到，阴平字作前字与平声、上声、去声相接时，调型从平声缓升调变为中降调，改读31；阳平字作前字与平上去相接时，改读为23。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）平声为后字",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图5是平声字为后字的变调情况：",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/edc3d6c6b3530133d5603097da7a8d95b82b580ac025fcb6960966215361e0a0.jpg",
+        "img_caption": [
+            "图 $5 \\mathrm { X } +$ 平声"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "后字为平声的变调基本比较一致，只是缓升的特征不再明显，趋势更接近“低-中”，可以描写为13。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.上声",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）上声为前字",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0429737978c64bbe9df9add030e1861b80affcad55e1e1d80f9dfac0dc49a73a.jpg",
+        "img_caption": [
+            "图6是上声音节为前字的变调情况：",
+            "图6上声 $+  { \\mathrm { X } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "上声作为前字与第二个音节相接时还是保持了降调的趋势；但与后字为上声的音节连读时起始调值变低，变为31；与平声连读时基本未变；与去声连读时则结尾音高稍高，变为52。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）上声为后字",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图7为上声为后字的连读变调情况：",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4416f2caae19f648b839bf1c782365a6e34405293df88487b992a0d03f6d2ee9.jpg",
+        "img_caption": [
+            "图 $7 x +$ 上声"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在后字位置上的上声情节比较稳定，基本没有改变，音值仍为51.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.去声",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）去声为前字",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6326625b57e4340b3f3372fe80773d1792cb15d354886d560dc9b6c1e17db9c7.jpg",
+        "img_caption": [
+            "图8为去声为前字的音变情况："
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "去声做前字的音值非常稳定，基本没有改变，仍为33。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（2）去声为后字",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0a33b6e9c5e4114866c51b08648c859ca6ad0ebffcf6473831be754974b60c9.jpg",
+        "img_caption": [
+            "图8去声 $+ x$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "去声做后字的情况如图9所示：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图 $9 x +$ 去声",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "去声做后字的音变情况亦非常稳定，仍为33。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "五、双音节变调规则总结",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "隆德方言神林话双字调变调规则如下：",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/d8756120b89e44d966d1fb7b83545ea42ce117dec25d789a0c3b9d0c2560b4f4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>平113</td><td>上51</td><td>去33</td></tr><tr><td rowspan=\"2\">平113</td><td>阴平：31+13</td><td>31+51</td><td>31+33</td></tr><tr><td>阳平：23+13</td><td>23+13</td><td>23+33</td></tr><tr><td>上51</td><td>51+13</td><td>31+51</td><td>52+33</td></tr><tr><td>去33</td><td>33+13</td><td>33+51</td><td>33+33</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "孔江平，《实验语音学基础教程》，2015，北京：北京大学出版社杨苏平，《隆德方言研究》，2018，北京：中国社会科学出版社李小凡、项梦冰，2010，《汉语方言学基础教程》，北京：北京大学出版社刘复，1951（1924初版），《四声实验录》，上海：中华书局赵元任，1980，《语言问题》（新版），北京：商务印书馆",
+        "page_idx": 11
+    }
+]

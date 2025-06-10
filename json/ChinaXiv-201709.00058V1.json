@@ -1,0 +1,543 @@
+[
+    {
+        "type": "text",
+        "text": "NON-UNIVERSAL GAUGINO MASSES IN SUPERSYMMETRIC SO(10) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nidal Chamoun ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Institute of Theoretical Physics, Chinese Academy of Sciences, P.O. Box 2735, Beijing 100080, China and Department of Physics, Higher Institute for Applied Sciences and Technology, P.O.Box 31983, Damascus, Syria ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chao-Shang Huang, Chun Liu and Xiao-Hong Wu Institute of Theoretical Physics， Chinese Academy of Sciences, P.O.Box 2735, Beijing 100080, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We consider SUSY SO(1O) models in which SUSY breaking occurs via an F-term which does not transform as an SO(1O) singlet. This results in nonuniversal GUT-scale gaugino masses leading to a different pattern of sparticle masses from what is expected in the minimal supergravity model (mSUGRA). We study three breaking chains of SO(1O) down to the standard model through SU(4) $\\times$ SU(2) $\\times$ SU $( 2 )$ ，SU(2) $\\times$ SO(7) and ‘flipped' SU(5) achieved by the representations 54 and 21O which appear in the symmetric product of two SO(10) adjoints. We examine the phenomenological implications of the different boundary conditions corresponding to the different breaking chains and present the sparticle spectrum. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: SO(10) grand unification, Supersymmetry, Gaugino mass ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Grand unification theories (GUT） are among the most promising models for physics beyond the standard model (SM). Supersymmetry (SUSY) is necessary to make the huge hierarchy between the GUT scale and the electroweak scale stable under radiative corrections. There are some experimental evidences for the SUSY GUT. One is the apparent unification of the measured gauge couplings within the minimal SUSY SM (MSSM) at scale $M _ { G U T } \\sim 2 \\times 1 0 ^ { 1 6 }$ GeV [1]. Another is the small neutrino masses extracted from recent observation of neutrino oscilations [2], which imply that the next scale of new physics is the GUT scale. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The most simple GUT model is the SU(5). The next simple one is the SO(10) [3] which will be studied in this paper. Whenever there is no intermediate scale of new physics between the GUT and electroweak scales, the gauge coupling unification is guaranteed. SO(10) models have additional desirable features over SU(5) ones. All the matter fermions in one generation fit into one spinor representation of SO(1O). The representation contains the right-handed neutrino and, thus, provides an interesting framework in view of the small neutrino masses [4]. The R-parity can be automatically conserved as a consequence of some gauge symmetry breaking [5]. Higgs fields can be put into any irreducible representation (irrep) we want since Adler-Bell-Jackiw anomalies are absent for all representations of SO(10). In addition, SO(10) has more attractive subgroups, such as SU(5) $\\times$ U(1), $S U ( 4 ) \\times S U ( 2 ) \\times S U ( 2 )$ etc., thus it has more interesting breaking patterns than SU(5) has. Practically, it seems that the SUSY SU(5) is not favored by experiments [6]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because of SUSY breaking, the MSSM has over hundred soft parameters, such as gaugino masses, which are determined by the SUSY breaking mechanism. The minimal supergravity model (mSUGRA） provides an attractive and economical framework to fix the soft parameters in the MSSM. In mSUGRA, SUSY is broken in a “hidden sector”,then gravitationalstrengh interactions automatically transmit SUSY breaking to the “visible sector” which contains all the SM fields and their superpartners. Furthermore, one assumes that the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Kähler potential takes a certain canonical form; as a result, all scalar felds get the same contribution $m _ { 0 } ^ { 2 }$ to their squared scalar masses and all trilinear parameters have the same value $A _ { 0 }$ . In addition, one assumes that the gauge kinetic function is a function of the gauge singlet so that gaugino masses have a “universal” value $m _ { 1 / 2 }$ at scale $M _ { G U T }$ . The resulting weak scale spectrum of superpartners and their couplings can then be derived in terms of the SM parameters in addition to four continuous plus one discrete parameters $m _ { 0 }$ ， $m _ { 1 / 2 }$ ， $A _ { 0 }$ ， $\\tan \\beta$ and $\\mathrm { s i g n } ( \\mu )$ provided that the radiative breaking mechanism of the electroweak symmetry is assumed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However, these universal boundary conditions adopted in the mSUGRA are simple assumptions about the nature of high-scale physics and may remove some interesting degrees of freedom. Indeed, there exist interesting classes of mechanism in which non-universal soft SUSY breaking terms can be derived. For instance, string-inspired supergravity or models in extra dimensions can lead to non-universality for SUSY breaking parameters at the string unification scale or compactification scale. [7]. There exists interesting phenomenology in SUSY models with non-universal gaugino masses [8]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Non-universal gaugino masses may arise in supergravity models in which a non-minimal gauge field kinetic term is induced by the SUSY breaking vacuum expectation value (vev) of a chiral superfeld that is charged under the GUT group [9]. The effect of non-singlet SUSY preserving vev on gaugino masses was studied in Refs. [10] and [9]. The boundary conditions for the gaugino masses have been worked out for the case of SU(5) GUT [9] and their phenomenological implications have been investigated [11]. To our knowledge, there have not been studies of the non-universal gaugino masses resulting from SUSY breaking vev of SO(10) non-singlet chiral superfields and the purpose of this paper is to provide just such a study. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The paper is organized as follows. In section II we present the group-theoretical results which determine the boundary conditions for the gaugino masses coming from a condensation of F-component of a chiral superfeld of a SO(10) non-singlet which is in the symmetric Kronecker product of two SO(10) adjoints and we restrict our study to the lower dimensional representations 54 and 210. Each of these irreducible representations (irreps) leads to a proper pattern of non-universal gaugino masses depending on which breaking chain it leads to. For the irrep 54 it can lead to two breaking chains from SO(10) down to the SM. One chain is through the phenomenologically interesting subgroup SU(4) $\\times$ SU $( 2 ) \\ \\times$ $\\mathrm { S U } ( 2 ) \\equiv G _ { 4 2 2 }$ corresponding to Pati-Salam model [12] and the other chain is through the subgroup SU(2) $\\times$ SO(7). We determined the gaugino masses corresponding to these two chains irrespective of the Higgs multiplet used to break the intermediate subgroup to the SM. In accordance with the successful MSSM prediction of the gauge coupling unification, we assume that the breaking of the intermediate stages takes place also around $M _ { G U T }$ .As to the 21O representation, it can lead to many breaking chains [13,14] and we chose to study the chain through the ‘flipped’ SU(5) $\\times$ U(1)[15] followed by a breaking via a 10 representation of SU(5) contained in the spinor rep of SO(10) down to the SM. Using these boundary conditions, one can use the renormalization group equations (RGEs) to deduce the weak scale values of the sparticle spectrum which we present in section II and we compare them to mSUGRA case. In calculating the spectrum we take into account all constraints from the the present negative searches of sparticles ( superpartners of SM particles and extra Higgs bosons） at collider experiments and $b  s \\gamma$ as well as the recent data of the E821 experiment on the muon anomalous magnetic dipole moment. In section IV we end up with concluding remarks. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "II. SUSY SO(10) GUTS WITH NON-UNIVERSAL GAUGINO MASSES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We discuss the non-universality of soft SUSY-breaking gaugino masses in SUSY SO(10) GUT. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this class of models, non-universal gaugino masses are generated by at least a nonsinglet chiral superfield $\\Phi$ that appears linearly in the gauge kinetic function and whose auxiliary $F$ component acquires a vev [9,11] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset \\int d ^ { 2 } \\theta f _ { a b } ( \\Phi ) W ^ { a } W ^ { b } + h . c . \\supset \\frac { < F _ { \\Phi } > _ { a b } } { M } \\lambda ^ { a } \\lambda ^ { b }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "werethegugeetifesf()∑f(）+i parameter of the mass dimension, $\\Phi _ { s }$ and $\\Phi ^ { n }$ are the singlet and non-singlet chiral superfields respectively, the $\\lambda ^ { a , b }$ are the gaugino fields and the $F _ { \\Phi }$ is the auxiliary field component of $\\Phi$ In conventional models of supergravity breaking, the assumption that only the singlet field $F _ { \\Phi _ { s } }$ gets a vev is made so that one obtains universal gauge masses. However, in principle, the chiral superfield $\\Phi$ which communicates supersymmetry breaking to the gaugino fields can lie in any representation found in the symmetric product of two adjoints ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 4 5 \\times 4 5 ) _ { s y m m e t r i c } = \\mathbf { 1 } + 5 4 + 2 \\mathbf { 1 0 } + 7 \\mathbf { 7 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where only 1 yields universal masses. Thus the gaugino masses $M _ { a }$ where the index $a = 3 , 2 , 1$ represents the SM SU(3) $\\times$ SU(2) $\\times$ U $( 1 )$ generators as a whole are, in general, non universal at the $M _ { G U T }$ scale. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In principle,an arbitrary linear combination of the above representations is also allowed and here we make two basic assumptions. The first one is that the dominant component of gaugino masses comes from one of non-singlet F-components. The second one is that the SO(10) gauge symmetry is broken down at the scale $M _ { G U T }$ to an intermediate group $H$ （204号 by a non zero vev for the scalar component of the non-singlet superfeld. In its turn, $H$ is subsequently broken down to the SM at the same scale $M _ { G U T }$ . Only the non-zero vev of the component of $F _ { \\Phi }$ which is‘neutral' with respect to $H$ yields gaugino masses since $H$ remains unbroken after SUSY breaking. Depending on which breaking chain one follows down to the SM, ratios of gaugino masses $M _ { a }$ 's at $M _ { G U T }$ are determined by group theoretical factors. We restricted our study to the lower dimensional representations 54 and 210 and we discussed several possible breaking chains in the following subsections. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Before we present our detailed discussions on gaugino masses， a remark is in place. According to the above recipe that gives gaugino masses at tree level, the SUSY-breaking vev of the non-singlet superfeld is also responsible for the breaking of the gauge symmetry. Because of the SO(10) breaking down to H, there are heavy gauge supermultiplets which correspond to the broken generators and receive masses of order of $m _ { G U T }$ .However， the ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SUSY-breaking effects proportional to the vev of non-singlet F-component split the heavy gauge supermultiplets so that they behave as messengers which communcate SUSY-breaking to the H gauge supermultiplet （as well as the quark and lepton supermultiplets ） by loop effects. The soft terms ( gaugino and squark masses etc.） generated by the gauge-mediated mechanism with gauge messengers have been calculated in ref. [16]. Applying their results to our case, the loop-induced soft terms can be neglected compared to those generated at tree level (i.e. those discussed in the paper) if $M \\sim M _ { G U T }$ since they are proportional to $\\frac { \\alpha ( m _ { G U T } ) } { 4 \\pi }$ （2 which is about $3 \\times 1 0 ^ { - 3 }$ . In general, the size of M is model- dependent and between $m _ { G U T }$ （204号 and $m p l a n c k$ . For example, $M \\sim m _ { G U T }$ in the M-theory on $S ^ { 1 } / Z _ { 2 }$ ， $M \\sim m _ { s t r i n g } \\simeq 4 \\times 1 0 ^ { 1 7 }$ （2 GeV in the wekly coupled heterotic $E _ { 8 } \\times E _ { 8 }$ string theory, and $M \\sim m _ { P l a n c k }$ in general supergravity models. In the paper we limit ourself to the case of $M \\sim m _ { G U T }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A.The representation 54 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Looking at the branching rule for the GUT group SO(1O) [17], we see that the representation 54 can break it into several subgroups (e.g. $H = G _ { 4 2 2 } \\equiv S U ( 4 ) \\times S U ( 2 ) \\times S U ( 2 ) , H =$ $S U ( 2 ) \\times S O ( 7 ) , H = S O ( 9 )$ ). Noting that the choice $H = S O ( 9 )$ would lead to universal gaugino masses, we choose to study the following breaking chains. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n. \\ S O ( 1 0 ) \\mapsto H = G _ { 4 2 2 } \\mapsto S U ( 3 ) \\times S U ( 2 ) \\times U ( 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The group $G _ { 4 2 2 }$ corresponds to the phenomenologically interesting Pati-Salam model $S U ( 4 ) _ { C } \\times S U ( 2 ) _ { R } \\times S U ( 2 ) _ { L }$ where the lepton number is the fourth colour. The branching rule of the SO(10) represention 54 to $G _ { 4 2 2 }$ is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf 5 4 } = ( { \\bf 2 0 } , { \\bf 1 } , { \\bf 1 } ) + ( { \\bf 6 } , { \\bf 2 } , { \\bf 2 } ) + ( { \\bf 1 } , { \\bf 3 } , { \\bf 3 } ) + ( { \\bf 1 } , { \\bf 1 } , { \\bf 1 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "So at the first step of the breaking chain, we assume that the traceless $\\&$ symmetric $2 ^ { n d }$ -rank tensor 54 representation scalar fields have the non-zero vev ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n< 5 4 > \\ = v \\ D i a g ( 2 , 2 , 2 , 2 , 2 , 2 , - 3 , - 3 , - 3 , - 3 )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the indices $1 , \\ldots 6$ correspond to $S O ( 6 ) \\simeq S U ( 4 )$ while those of $7 , \\ldots . 0$ (henceforth the index O means 10) correspond to $S O ( 4 ) \\simeq S U ( 2 ) \\times S U ( 2 )$ . To break $G _ { 4 2 2 }$ down to the SM,one may simply choose the 16 Higgs fields since the branching rule of the rep. 16 to SM is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf 1 6 } = ( { \\bf 3 } , { \\bf 2 } ) _ { 1 / 3 } + ( { \\bf 3 } , { \\bf 1 } ) _ { 2 / 3 } + ( { \\bf \\bar { 3 } } , { \\bf 1 } ) _ { - 4 / 3 } + ( { \\bf 1 } , { \\bf 2 } ) _ { - 1 } + ( { \\bf 1 } , { \\bf 1 } ) _ { 2 } + ( { \\bf 1 } , { \\bf 1 } ) _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where the number on the lower right denotes the quantum number Y of $U ( 1 ) _ { Y }$ . The decomposition of the gauge (super) miltiplet 45 of SO(10) under $G _ { 4 2 2 }$ is given by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA ( 4 5 ) = A ( 1 5 , 1 , 1 ) + A ( 1 , 3 , 1 ) + A ( 1 , 1 , 3 ) + A ( 6 , 2 , 2 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The contents of the gauge multiplets $A ( 1 5 , 1 , 1 ) , A ( 1 , 3 , 1 )$ and $A ( 1 , 1 , 3 )$ in SM are respectively ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { A ( 1 5 , 1 , 1 ) = A ( 8 , 1 ) \\scriptscriptstyle 0 + A ( 3 , 1 ) \\scriptscriptstyle 4 / 3 + A ( \\bar { 3 } , 1 ) \\scriptscriptstyle - 4 / 3 + A ( 1 , 1 ) \\scriptscriptstyle 0 , } } \\\\ { { A ( 1 , 1 , 3 ) = A ( 1 , 3 ) \\scriptscriptstyle 0 , } } \\\\ { { A ( 1 , 3 , 1 ) = A ( 1 , 1 ) \\scriptscriptstyle 2 + A ( 1 , 1 ) \\scriptscriptstyle - 2 + A ( 1 , 1 ) \\scriptscriptstyle 0 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When the neutral component $H ( 1 , 1 ) _ { 0 }$ of the 16 Higgs fields develops a vev $< H ( 1 , 1 ) _ { 0 } > = v ^ { \\prime }$ （204号 （204号 $G _ { 4 2 2 }$ will be broken down to SM. Then the gauge multiplets, $A ( 1 , 1 ) _ { 0 }$ in A(15,1,1) and $A ( 1 , 1 ) _ { 0 }$ in A(1,3,1),will mix with each other. That is, we need to identify the weak hypercharge $Y$ generator as a linear combination of the generators of $S U ( 4 ) _ { C } \\times S U ( 2 ) _ { R }$ sharing the same quantum numbers. Using this,we can determine the $U ( 1 ) _ { Y }$ term in the gaugino mass expression in function of the coupling constants $g _ { 4 }$ ， $g _ { 2 }$ corresponding to $S U ( 4 ) _ { C }$ and （204号 $S U ( 2 ) _ { R }$ respectively. Here,as we mentioned in the introduction,we assume that the intermediate breakings down to the SM take place all around the $M _ { G U T }$ scale motivated by the MSSM successful unification of gauge couplings, and so we have $g _ { 2 } \\sim g _ { 4 } \\sim g$ leading finally to gaugino masses $M _ { a }$ (a=3,2,1) in the ratio $1 : - \\frac { 3 } { 2 } : - 1$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The first stage of this breaking chain is achieved by the 54 traceless $\\&$ symmetric $2 ^ { n d }$ （204号 rank tensor with the non-zero vev ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n< 5 4 > \\ = v D i a g ( 7 / 3 , 7 / 3 , 7 / 3 , - 1 , - 1 , - 1 , - 1 , - 1 , - 1 , - 1 , - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where the indices 1,2,3 correspond to $S O ( 3 ) \\simeq S U ( 2 )$ and $4 , \\ldots 0$ correspond to SO(7). Subsequently SO(7) is broken to $S O ( 6 ) \\simeq S U ( 4 )$ which in turn is broken to $S U ( 3 ) \\times U ( 1 )$ （号 As a result we get the gaugino masses $M _ { a }$ (a=3,2,1) in the ratio $1 : - { \\textstyle { \\frac { 7 } { 3 } } } : 1$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B.The representation 210 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The irrep 210 of SO(10) can be represented by a $4 ^ { t h }$ -rank totally antisymmetric tensor $\\Delta _ { i j k l }$ . It can break SO(1O) in different ways [17]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS O ( 1 0 ) \\mapsto G _ { 4 2 2 } \\mapsto S U ( 3 ) \\times S U ( 2 ) \\times U ( 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "If the only non-zero vev is $\\Delta _ { 7 8 9 0 } = v$ where the indices 1 to 6 correspond to SU(4) while those of 7 to O correspond to $\\mathrm { S O ( 4 ) }$ then the intermediate stage is $H = G _ { 4 2 2 }$ [18]. We see immediately here that when SU $( 4 )$ would be broken to SU(3) we shall get massless gluinos (SU(3) gauginos). One can also see that if the only non-zero vevs are assumed to be （204号 $\\Delta _ { 1 2 3 4 } = \\Delta _ { 3 4 5 6 } = \\Delta _ { 1 2 5 6 } = w$ then SO(10) is broken to $G _ { 3 2 2 1 } \\equiv S U ( 3 ) \\times S U ( 2 ) \\times S U ( 2 ) \\times U ( 1 )$ （204号 [18] leading, eventually, to $S U ( 2 ) _ { L }$ massless gauginos. Consequently one can, in principle, assume both $\\boldsymbol { v }$ and $w \\ne 0$ and get $G _ { 3 2 2 1 }$ as an intermediate stage without getting massless gauginos. We would like to note here that one should not swiftly drop the massless gluino scenario since it is not completely excluded phenomenologically [19] and particularly because, as we said earlier,the breaking could be achieved in principle from any linear combination of the irreps (1, 54,210,770). We did not study the case corresponding to $v , w \\not = 0$ ,neither the case where the intermediate stage is ${ \\cal G } _ { 3 2 1 1 } \\equiv S U ( 3 ) \\times S U ( 2 ) \\times U ( 1 ) \\times U ( 1 )$ achieved by △1278 = $\\Delta _ { 1 2 9 0 } ~ = ~ \\Delta _ { 3 4 7 8 } ~ = ~ \\Delta _ { 5 6 7 8 } ~ = ~ \\Delta _ { 5 6 9 0 } ~ = ~ ($ [13]． Rather we concentrated on the phenomenologically interesting case of ‘flipped’ SU(5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS O ( 1 0 ) \\mapsto H _ { 5 1 } \\equiv S U ( 5 ) \\times U ( 1 ) \\mapsto S U ( 3 ) \\times S U ( 2 ) \\times U ( 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The ‘flipped’ SU(5） model [20] exhibits some very suitable features such as fermion and Higgs-boson content, the natural doublet-triplet mass splitting mechanism and, among others, no cosmologically embarrassing phase transitions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The 210 irrep can break SO(10) to $H _ { 5 1 }$ when its singlet under $H _ { 5 1 }$ takes a non-zero vev which amounts to its non-zero components as a $4 ^ { t h }$ -rank totally antisymmetric tensor being [14] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Delta _ { 1 2 3 4 } = \\Delta _ { 1 2 5 6 } = \\Delta _ { 1 2 7 8 } = \\Delta _ { 1 2 9 0 } = \\Delta _ { 3 4 5 6 } = \\Delta _ { 3 4 7 8 } } \\\\ & { \\qquad = \\Delta _ { 3 4 9 0 } = \\Delta _ { 5 6 7 8 } = \\Delta _ { 5 6 9 0 } = \\Delta _ { 7 8 9 0 } = v . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Next we should break $H _ { 5 1 } \\equiv S U ( 5 ) \\times U ( 1 ) _ { X }$ to the $\\mathrm { S M } \\equiv S U ( 3 ) _ { C } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y }$ . The SU(5) group can be decomposed into $S U ( 3 ) _ { C } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Z }$ . The weak hypercharge $Y$ must be a linear combination of $Z$ and $X$ . Under $S U ( 5 ) \\times U ( 1 ) _ { X }$ the 16 Higgs decomposes as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { 1 6 } = \\mathbf { 1 0 } _ { 1 } + \\bar { \\mathbf { 5 } } _ { - 3 } + \\mathbf { 1 } _ { 5 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where the number on the lower right denotes the quantum number X of $U ( 1 ) _ { X }$ .Because the 10 rep. has the following branching rule under $S U ( 5 ) \\supset S U ( 3 ) \\times S U ( 2 ) \\times U ( 1 ) _ { Z }$ （204号 ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf 1 0 } = ( \\bar { \\bf 3 } , { \\bf 1 } ) _ { - \\frac { 2 } { 3 } } + ( { \\bf 3 } , { \\bf 2 } ) _ { \\frac { 1 } { 6 } } + ( { \\bf 1 } , { \\bf 1 } ) _ { 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "if the $\\mathbf { 1 0 } _ { 1 }$ （more precisely, the neutral component (1,1） of $S U ( 3 ) \\times S U ( 2 )$ in the $\\bf { 1 0 } _ { 1 }$ rep.) in the 16 gets a non-zero vev, then $H _ { 5 1 }$ will break to the SM with $Y / 2 = { \\textstyle { \\frac { 1 } { 5 } } } ( X - Z )$ where $Z$ is the generator of $S U ( 5 )$ which commutes with the generators of $S U ( 3 ) _ { C } \\times S U ( 2 ) _ { L }$ and is normalized (for the five-dimensional representation of $S U ( 5 )$ ）as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = D i a g ( - { \\frac { 1 } { 3 } } , - { \\frac { 1 } { 3 } } , - { \\frac { 1 } { 3 } } , { \\frac { 1 } { 2 } } , { \\frac { 1 } { 2 } } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note that had we chosen $\\begin{array} { r } { \\frac { Y } { 2 } = Z } \\end{array}$ corresponding to the Georgi-Glashow SU(5) we would get universal gaugino masses. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Introducing the properly normalized $U ( 1 ) _ { Z }$ and $U ( 1 ) _ { X }$ generators $L _ { Z } = \\sqrt { \\textstyle { \\frac { 3 } { 5 } } } Z$ ， $L _ { X } =$ $\\textstyle { \\frac { 1 } { \\sqrt { 8 0 } } } X$ such that $\\begin{array} { r } { T r ( L _ { Z } ) ^ { 2 } = \\frac { 1 } { 2 } } \\end{array}$ in the defining represenation of SU(5） and $T r _ { { \\bf 1 6 } } ( L _ { X } ) ^ { 2 } = 1 \\qquad $ in the 16 spinor representation of SO(10) [17] we could identify the properly normalized $U ( 1 ) _ { Y }$ field as a linear combination of the $U ( 1 ) _ { X }$ and $U ( 1 ) _ { Z }$ fields. Again，we assume that the breaking of the intermediate stage $H _ { 5 1 }$ happens at the $M _ { G U T }$ scale resulting in $g _ { 1 } \\sim g _ { 5 } \\sim g$ （20 for the coupling constants. Then we finally get gaugino masses $M _ { a }$ (a=3,2,1) in the ratio 1:1:-96. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "C. Summary ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We summerize in Table I our results for the relative gaugino masses at $M _ { G U T }$ scale and （204号 $m _ { Z }$ scale recalling that $M _ { 3 } ^ { 0 } : M _ { 2 } ^ { 0 } : M _ { 1 } ^ { 0 }$ at $M _ { G U T }$ ( $M _ { a } ^ { 0 } \\equiv M _ { a } ^ { G U T }$ ） evolves approximately to $M _ { 3 } : M _ { 2 } : M _ { 1 } \\sim 7 M _ { 3 } ^ { 0 } : 2 M _ { 2 } ^ { 0 } : M _ { 1 } ^ { 0 }$ at the weak scale $m _ { Z }$ . The cases B, C, D correspond to different breaking chains respectively. The case A corresponds to the mSUGRA, i.e., the universal gaugino mass case. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "III.PHENOMENOLOGICAL ANALYSIS AND MASS SPECTRA ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The gaugino mass patterns we have obtained are of phenomenological interest. There can, in principle, be various terms in the superpotential and Kahler potential that may give rise to non-universal sqaurk and slepton masses,and whether such terms exist is model-dependent. For simplicity, we assume universal soft sfermion masses and trilinear couplings in our numerical analysis in order to clarify the phenomenological implications of non-universal gaugino masses. We use the event generator ISAJET [21] (version 7.48) to simulate models with non-universal gaugino mass parameters at the scale $M _ { G U T }$ in this section． The model parameter space used in our work is expanded by $m _ { 0 }$ ， $M _ { 3 } ^ { \\mathrm { 0 } } \\equiv m _ { \\mathrm { 1 / 2 } }$ ， $A _ { 0 }$ ， $\\tan \\beta$ and $\\mathrm { s i g n } ( \\mu )$ ： $M _ { 2 } ^ { 0 }$ （204号 and $M _ { 1 } ^ { 0 }$ can then be calculated in terms of $M _ { 3 } ^ { 0 }$ according to Table I. ISAJET calculates an iterative solution to the 26 RGEs and imposes the radiative electroweak symmetry breaking constraint. This determines allthe sparticle masses and mixings and can calculate the branching fractions for all sparticles,particles and Higgs bosons. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The constraints of lower bounds of sparticle and Higgs bonson masses [22] are included. And we require the gauge coupling unification at the scale $M _ { G U T } = 2 . 0 { \\times } 1 0 ^ { 1 6 }$ GeV. Throughout the work we take $m _ { t } = 1 7 5$ GeV. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A check for the compatibility of the models with the $b \\to s \\gamma$ constraint is included. The prediction of the $b \\to s \\gamma$ decay branching ratio [23] should be within the current experimental bounds [24] ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\times 1 0 ^ { - 4 } < B R _ { e x p } ( b  s \\gamma ) < 4 . 2 \\times 1 0 ^ { - 4 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Because there is no full next-to-leading order (NLO) formula available in SUSY models we use the leading order (LO） calculation with about $\\pm \\% 3 0$ theoretical uncertainty included. This constraint is very strong for negative mu-term ( $s i g n ( \\mu ) = - 1$ ）1 due to the constructively interference of SUSY contributions with the SM contributions [26]. It leads to a rather large (but still smaller than 1Tev) sparticle mass spectrum. For $s i g n ( \\mu ) = + 1$ ，there are regions of the parameter space where the mass spectrum is low while $\\tan \\beta$ is large since the SUSY contributions destructively interfer with the Higgs's and W's contributions in this case. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The $( g - 2 )$ constraint of the muon anomalous magnetic dipole moment $a _ { \\mu } \\equiv { \\frac { 1 } { 2 } } ( g - 2 ) _ { \\mu }$ [27] is also considered. The current data of the E821 experiment [28] give the following bound on the supersymmetry contribution to $a _ { \\mu }$ （204号 ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 1 \\times 1 0 ^ { - 1 0 } < a _ { \\mu } ^ { S U S Y } < 7 5 \\times 1 0 ^ { - 1 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1We follow the conventional definition of the $\\mathrm { s i g n } ( \\mu )$ [25] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It is well-known that the diagram with chargino-sneutrino in the loop gives a dominant contribution to $a _ { \\mu } ^ { S U S Y }$ for general SUSY mass parameters and the muon chirality can be flipped by the Yukawa coupling of muon which is proportional to $1 / c o s \\beta ( \\sim \\tan \\beta$ in the large $\\tan \\beta$ case） [29,30]. Therefore, even with a relatively large mass spectrum, the bound on the supersymmetry contribution to $a _ { \\mu }$ , Eq. (12),can be satisfied in the large $\\tan \\beta$ case. On the contrary, the bound requires scenarios of small charginos and sneutrino masses when （204 $\\tan \\beta$ is small. So the combined consideration of $( g \\ - - 2 ) _ { \\mu }$ and $b  s \\gamma$ leads to that the regions of large $\\tan \\beta$ and low mass spectrum which are allowed by $b \\to s \\gamma$ alone decrease significantly. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Table II illustrates the numerical results of the mass spectra evaluated at the mass scale （204号 $m _ { Z }$ for the values $m _ { 1 / 2 } = 3 0 0 \\mathrm { G e } \\backslash$ /， $m _ { 0 } = 4 0 0$ GeV, $A _ { 0 } = 3 5 0$ GeV and we have taken a large value for the $\\tan \\beta = 2 0$ since this would enhance the $( g - 2 )$ constraint. We see from the table that the mass spectrum is relatively heavy, which comes in order to satisfy the （20 $b \\to s \\gamma$ constraint in the $s i g n ( \\mu ) = - 1$ case,as pointed out above. All cases have neutralino LSP. Cases A, C and D have chargino NLSP, and case B an stau NLSP. The four cases are experimentally distinguishable, because the sparticle mass splitting patterns are quite different among the four ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Fig.1 the $\\tan \\beta$ dependence of the $| \\mu |$ ， neutralinos and charginos masses for the four cases in Table I is presented, where we have taken $m _ { 1 / 2 } = 3 0 0$ GeV, $m _ { 0 } = 4 0 0$ GeV, $A _ { 0 } = 6 0 0$ GeV. We noted that for far larger values of $m _ { 0 }$ ， $m _ { 1 / 2 }$ resulting in larger masses for the smuon and charginos, the $( g - 2 ) _ { \\mu }$ constraint would be violated. Also we have chosen a rather large value for the trilinear scalar coupling $A _ { 0 }$ which appears in the off-diagonal elements of the squark mass matrix in order to favor a large stop mass splittng. One can see from the figure that the $| \\mu |$ ， neutralinos and charginos masses are insensitive to tan $\\beta$ （204 when $\\tan \\beta$ is relatively large (say, larger than 10). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figs. 2 and 3 present the $m _ { 1 / 2 }$ dependence of the $| \\mu |$ , neutralinos and charginos masses for the four cases with tan $\\beta$ being taken to be 8 and 25, respectively. In the cases B and C corresponding to the representation 54, the ( $( g - 2 ) _ { \\mu } )$ ） constraint was not respected for $\\mu > 0$ . This is in agreement with the anlysis in ref.[29,31]. As pointed out in ref. [29,31], in most of the parameter space the sign of the SUSY contributions to $a _ { \\mu }$ is directly correlated with the sign of the product $M _ { 2 }$ $\\mu$ such that it is positive (negative) for $M _ { 2 } \\ \\mu > 0$ ( $M _ { 2 } \\mu < 0$ Thus, the latest result of the E821 experiment, eq.(12), suggests that $M _ { 2 } \\ \\mu > 0$ so that one has $\\mu < 0$ since $M _ { 2 } < 0$ in the cases B and C. In all four cases we see that the LSP is the neutralino but in case D corresponding to the 21O representation the lightest chargino and neutralino are approximately degenerate while for the other three cases the approximate degeneracy happens for the heaviest ones.Thus, in the case D the lightest chargino is longlived.Therefore, the experimental signals for the case D are different from those expected from conventional R-parity conserved SUSY modles, e.g., mSUGRA (i.e., the case A) which have been studied in Ref. [32]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "IV.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We have studied SUSY SO(10) models in which the gaugino masses are not universal at the GUT scale and we have performed the group theory methods required to calculate their ratio. Then, for some specific values of the soft mass parameters which are chosen to respect the experimental constraints coming from the direct search of sparticles, $b \\to s \\gamma$ （204号 and $a _ { \\mu }$ ，we compared phenomenologically these models. The mass spectrum in the case D is particularly interesting due to the presence of the approximately degenerate lightest chargino and neutralino. All the breaking chains allow for boundary conditions compatible with current experimental data on the ( $b \\to s \\gamma$ ） branching ratio and the $( g - 2 )$ measurement . However,theetcostraintssarogcoad $a _ { \\mu } ^ { S U S Y }$ becomes very large for the large $\\tan \\beta$ region and is expected to become the powerful tool in order to constrain the SUSY parameter space and so to decide which breaking chain is preferable. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The pattern of non-universal gaugino masses at $M _ { G U T }$ is determined only by the breaking chain from $S O ( 1 0 )$ down to SM if the scale at which the breaking of the intermediate subgroup happens is the same as that at the first step of the breaking chain. Otherwise, it also depends on the scale at which the breaking of the intermediate subgroup happens. However, the dependence is normally weak as long as the intermediate scale is not too low 2. Besides the irreps 54 and 210 of SO(10) necessary to get non-universal masses, we use only one more irrep of SO(10), the spinor rep. 16, to realize the next step of breaking chains. This is economical in constructing a SUSY SO(10) GUT. It is important to give an explicit form of a superpotential for a SUSY SO(10) GUT model with non-universal gaugino masses to construct a specific model, which is beyond the scope of the paper and left to future work. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by the National Natural Science Foundation of China. N.C. acknowledges financial support from COMSATS. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2The intermediate scale is larger than about $1 0 ^ { 1 0 }$ GeV in most of the model building studies (see, e.g., refs. [20,13]). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1] P. Langacker and M.-X. Luo, Phys. Rev. D 44 (1991) 817; C. Giunti, C. W. Kim and U. W. Lee,Mod. Phys. Lett. A 6 (1991) 1745; U. Amaldi, W. de Boer and H. Furstenau, Phys. Lett. B 260 (1991) 447; J. Ellis, S. Kelley and D. Nanopolous, Phys. Lett. B 260 (1991) 131. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[2] Super-Kamiokande Collaboration, Y. Fukuda et al., Phys. Rev. Lett. 81 (1998) 1562; SNO Collaboration, Q.R. Ahmad et al., Phys. Rev. Lett. 87(2001) 071301. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[3] H. Georgi, in Particles and Fields (AIP, NY, 1975), p. 575; H. Fritzsch and P. Minkowski, Ann. Phys. 93 (1975)193; Z.-Y. Zhao, J. Phys. G 8 (1982) 1019.   \n[4] M. Gell-Mann, P. Ramond and R. Slansky, in Supergravity (North Holland, Amsterdam, 1979); T. Yanagida, in Proc. of the Workshop on Unified Theory and Baryon Number of the Universe (KEK, Tsukuba, 1979); R. N. Mohapatra and G. Senjanovic, Phys. Rev. Lett. 44 (1980) 912; C.H. Albright and S.M. Barr, Phys. Rev. Lett. 85 (2000) 244, Phys. Rev.D62 (2000) 093008, ibid, D64 (2001) 073010; C.H. Albright, hep-ph/0110259; N. Maekawa, hep-ph/O110276; B. Bajc, G. Senjanovic and F. Vissani, hep-ph/0110310.   \n[5] See for an example, S.P. Martin, Phys. Rev. D 46 (1992) R2769.   \n[6] H. Murayama and A. Pierce, hep-ph/O108104.   \n[7] A. Brignole, L.E. Ibanez and C. Munoz, Nucl. Phys. B422 (1994) 125, Erratum: ibid, B436 (1995) 747； A. Brignole, L.E Ibänez, C. Munoz and C. Scheich, Z. Phys. C74 (1997)157; T. Kobayashi, D. Suematsu, K. Yamada and Y. Yamagishi, Phys. Lett. B348 (1995) 402; R. Dermisek and A. Mafi, hep-ph/0108139.   \n[8] C.H. Chen, M. Drees and J.F. Gunion, Phys. Rev. D55 (1997) 330; Y. Kawamura, H.P. Nills,M. Olechowski and M. Yamaguchi, J. High Energy Phys. 9806 (1998) 008； M. Brhlik, G.J. Good and G.L. Kane, Phys. Rev. D59 (1999) 115004; M. Brhlik, L. Everett, ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "G.L. Kane and J. Lykken, Phys.Rev. Lett.83 (1999) 2124, Phys.Rev. D62 (2000) 035005; E. Accomando,R. Arnowitt and B. Dutta, Phys. Rev. D61 (2000) 075010; T. Ibrahim and P. Nath,Phys. Rev. D61 (2000) 093004; S. Khalil, T. Kobayashi and O. Vives, Nucl. Phys. B580 (2000) 275; C.-S. Huang and W. Liao, Phys. Rev. D62 (2000) 016008. [9] G. Anderson et al., in New Directions for High Energy Physics, Snowmass 96, (SLAC, Menlo Park, CA，1997)， hep-ph/9609457; J. Amundson et al., in New Directions for High Energy Physics, Snowmass 96, (SLAC, Menlo Park, CA, 1997), hep-ph/9609374. [10] C.T. Hill, Phys. Lett. 135B (1984) 47; J. Ellis, K. Enqvist, D.V. Nanopoulos and K. Tamvakis, Phys. Lett. 155B (1985) 381; M. Drees, Phys. Lett. 158B (1985) 409. [11] G. Anderson, H. Baer, C.-H. Chen and X. Tata, Phys. Rev. D61 (200O) 095005; K. Huitu, Y. Kawamura, T. Kobayashi and K. Puolamaki, Phys.Rev. D 61 (2000) 035001; SUGRA Working Group, V. Barger, C.E.M. Wagner, et al., hep-ph/0003154. [12] J.C. Pati and A. Salam, Phys. Rev. D 10 (1974) 275. [13] J. Sato, Phys. Rev. D53 (1996) 3884. [14] X.-G. He and S. Meljanac, Phys. Rev. D 41 (1990) 1620. [15] A. De Rujula, H. Georgi and S.L. Glashow, Phys. Rev. Lett. 45 (1980) 413; S.M. Barr,Phys. Lett. 112B(1982) 219; I. Antoniadis, J. Elis, J.S. Hagelin and D.V. Nanopoulos, Phys. Lett. B194 (1987) 231. [16] G.F. Giudice and R. Rattazzi, Nucl. Phys. B511 (1998) 25. [17] R. Slansky, Phys. Rep. 79 (1981) 1. [18] C.S. Aulakh and R. N. Mohapatra, Phys. Rev. D 28(1983) 217. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[19] For a recent study, see E.L. Berger et al., Phys. Rev. Lett. 86 (2001) 423l; talk in the 3rd Circum-Pan-Pacific Symposium on \"High Energy Spin Physics\" (Beijing, 2001).   \n[20] S.M. Barr, in [15]; K. Tamvakis, Phys. Lett. B201 (1988) 95.   \n[21] H. Baer， F.E. Paige， S.D. Protopopescu and X. Tata， BNL-HET-99/43， hepph/0001086.   \n[22] Particle Data Group, D.E. Groom et al., Eur. Phys J. C 15 (2000) 1.   \n[23] For a recent analysis, see G. Degrassi, P. Gambino and G.F. Giudice, JHEP O012(2000) 009.   \n[24] CLEO Collaboration, S. Ahmed et al., CLEO-CONF-99-10, hep-ex/9908022.   \n[25] H.E. Haber and G.L. Kane, Phys. Rep. 117 (1985) 75.   \n[26] C.-S. Huang, T. Li, W. Liao, Q.-S. Yan and S.-H. Zhu, Eur. Phys. J. C18 (2000) 393; F. Borzumati, C. Greub, T. Hurth and D. Wyler, Phys. Rev. D62 (2000) 075005 and references therein; Chao-shang Huang and Qi-shu Yan, Phys. Lett. B442 (1998) 209; J.L. Lopez, D.V. Nanopoulos, X. Wang and A. Zichichi, Phys. Rev. D51 (1995) 147; T. Goto and Y. Okada, Prog. of Theor. Phys. 94 (1995) 407; M.A. Diaz, Phys. Lett. B322 (1994) 207; F. Borzumati, Z. Phys. C63(1994) 291; R. Garisto and J. N. Ng Phys. Lett.B315 (1993) 372; R. Barbieri and G.F. Giudice Phys. Lett. B309 (1993) 86; S. Bertolini, F. Borzumati, A. Masieso and G. Ridolfi, Nucl. Phys. B353 (1991) 591.   \n[27] A. Czarnecki and W.J. Marciano, Phys. Rev. D 64 (2001) O13014 and references therein; S. Martin and J. Wells,Phys.Rev. D 64 (2001) 035003.   \n[28] Muon g-2 Collaboration, H.N. Brown et al., Phys. Rev. Lett. 86 (2001) 2227.   \n[29] J.L. Lopez, D.V. Nanopoulos and X. Wang, Phys. Rev. D49 (1994) 366.   \n[30] U. Chattopadhyay and P. Nath, Phys.Rev. D53 (1996) 1648;T. Moroi, Phys. Rev. D53(1996) 6565, Erratum-ibid, D56 (1997) 4424.   \n[31] S.Komine, T. Moroi and M. Yamaguchi, Phys. Lett. B506 (2001) 93.   \n[32] C.-H. Chen,M. Drees and J.F. Gunion,Phys. Rev. Lett. 76(1996) 2002; J.F. Gunion and S. Mrenna, Phys. Rev. D 64 (2001) 075002. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "TABLES ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/19bf7a58d4e4fbe49fb1d972f04918e14d9c862933761ec08ca51174c32f5569.jpg",
+        "table_caption": [
+            "TABLE I. Relative masses of gauginos at the GUT scale and at the weak scale achieved by vevs of the $F$ -term of superfields in representations corresponding to diferent breaking chains. The case A of the singlet representation 1 for the $F$ -term corresponds to the minimal supergravity model. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Case</td><td>F</td><td>Intermediate Stage</td><td>MGUT</td><td>MGUT</td><td>MGUT</td><td>Mmz</td><td>Mm</td><td>M</td></tr><tr><td>A</td><td>1</td><td></td><td>1</td><td>1</td><td>1</td><td>0.42</td><td>0.88</td><td>3.0</td></tr><tr><td>B</td><td>54</td><td>G422</td><td>-1</td><td>-1.5</td><td>1</td><td>-0.42</td><td>-1.3</td><td>3.0</td></tr><tr><td>C</td><td>54</td><td>SU(2) × S0(7)</td><td>1</td><td>-7/3</td><td>1</td><td>0.42</td><td>-2.1</td><td>3.0</td></tr><tr><td>D</td><td>210</td><td>H51</td><td>-96/25</td><td>1</td><td>1</td><td>-1.6</td><td>0.88</td><td>3.0</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/f48983924f3cfaf0f1261210421eb1235bb558217563f5fda5e231f669967c1f.jpg",
+        "table_caption": [
+            "TABLE II. Mass spectra in the four models (A, B, C, D) for $m _ { 1 / 2 } = 3 0 0 \\mathrm { G e V }$ ， $m _ { 0 } = 4 0 0 \\mathrm { G e V }$ $A _ { 0 } = 3 5 0 \\mathrm { G e V }$ and tan $\\beta = 2 0$ . All the masses are shown in GeV and evaluated at the scale $m _ { Z }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>mx.2</td><td>mx1，2.3.4</td><td>me1.2</td><td>m1.2</td><td>μ/mH±</td></tr><tr><td>Mg</td><td>mH1.2</td><td>mu1,2</td><td>mt1.2</td><td>md1.2</td><td>mb1.2</td></tr><tr><td>A</td><td>211/375</td><td>117/212/351/374</td><td>448/416</td><td>394/445</td><td>+348/535</td></tr><tr><td>726</td><td>114/529</td><td>730/716</td><td>558/704</td><td>735/715</td><td>657/710</td></tr><tr><td>B</td><td>257/404</td><td>123/259/289/404</td><td>502/416</td><td>389/493</td><td>-286/527</td></tr><tr><td>731</td><td>111/521</td><td>766/717</td><td>576/715</td><td>770/716</td><td>684/708</td></tr><tr><td>C</td><td>101/579</td><td>86/101/147/579</td><td>616/416</td><td>385/606</td><td>-106/577</td></tr><tr><td>743</td><td>111/572</td><td>843/718</td><td>547/781</td><td>847/716</td><td>696/767</td></tr><tr><td>D</td><td>208/358</td><td>208/324/355/493</td><td>494/588</td><td>482/572</td><td>+328/558</td></tr><tr><td>729</td><td>113/553</td><td>734/765</td><td>598/707</td><td>738/726</td><td>656/721</td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f7fcb7eb486653b6bf3878c489eca2a9b86bc39723e20f497a5b93b98523d69.jpg",
+        "img_caption": [
+            "FIG.1. The Neutralino and the Chargino masses as a function of $\\tan \\beta$ for the cases in Table "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(I). Also plotted is $| \\mu |$ . We have taken $m _ { 0 } = 4 0 0 \\mathrm { G e V }$ ， $A _ { 0 } = 6 0 0$ GeV and $M _ { a } ^ { 0 } = m _ { 1 / 2 }$ times the number appearing in Table (I), with $m _ { 1 / 2 } = 3 0 0 \\mathrm { G e V }$ ，： ",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/592deb6365b6b342f94198fca02c7e0a91451a5252644c44bd1eb1aeb7db5153.jpg",
+        "img_caption": [
+            "FIG. 2. The Neutralino and the Chargino masses as a function of $m _ { 1 / 2 }$ for the cases in Table I). Also plotted is $| \\mu |$ . We have taken $\\tan \\beta = 8$ ， $m _ { 0 } = 2 0 0 \\mathrm { G e V }$ and $A _ { 0 } = 3 0 0$ GeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4b3156efe299a5b33ff775a53c8a491801db0335bfb05a488741f96eee3228c.jpg",
+        "img_caption": [
+            "FIG. 3. The Neutralino and the Chargino masses as a function of $m _ { 1 / 2 }$ for the cases in Table 1)． Also plotted is $| \\mu |$ . We have taken $\\tan \\beta = 2 5$ ， $m _ { 0 } = 2 0 0 \\mathrm { G e V }$ and $A _ { 0 } = 3 0 0$ GeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    }
+]

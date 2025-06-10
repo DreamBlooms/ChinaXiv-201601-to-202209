@@ -1,0 +1,210 @@
+[
+    {
+        "type": "text",
+        "text": "Crystal structure of the catalytic subunit of magnesium chelatase ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xuemin Chen1,2, Hua $\\mathsf { P u } ^ { 1 , 2 }$ , Ying Fang12， Xiao Wang12, Shun Zhao12，Yajing Lin³, Min Zhang4, Huai-En Dai',Weimin Gong $^ { 3 , 5 \\star }$ and Lin Liu1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tetrapyrroles, including haem and chlorophyll, play vital roles for various biological processes, such as respiration and photosynthesis,and their biosynthesis is critical for virtually all organisms. In photosynthetic organisms, magnesium chelatase $\\mathbf { ( } \\mathbf { M g C h } )$ catalyses insertion of magnesium into the centre of protoporphyrin $\\mathbf { \\delta } \\| \\mathbf { X } _ { \\pmb { r } }$ the branch-point precursor for both haem and chlorophyll,leading tetrapyrrole biosynthesis into the magnesium branch1,2. This reaction needs a cooperated action of the three subunits of MgCh: the catalytic subunit ChlH and two AAA+ subunits,Chll and ChlD (refs 3-5). To date,the mechanism of $M g C h$ awaits further elucidation due to a lackof high-resolution structures,especially for the \\~15O kDa catalytic subunit. Here we report the crystal structure of ChlH from the photosynthetic cyanobacterium SynechocystisPCC 6803, solved at $2 . 5 A$ resolution. The active site is buried deeply inside the protein interior,and the surrounding residues are conserved throughout evolution. This structure helps to explain the loss of function reported for the cch and gun5 mutations of the ChlH subunit,and to provide the molecular basisof substrate channelling during the magnesium-chelating process. The structure advances our understanding of the holoenzyme of $M g C h ,$ ：ametal chelating enzyme other than ferrochelatase. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chlorophyll, the most abundant pigment in plants,algae and cyanobacteria,is synthesized through a multistep pathway in which protoporphyrin IX (Proto）is the branch-point precursor for both haem and chlorophyll.In contrast to the single-subunit ATP-independent ferrochelatase that catalyses insertion of a ferrous iron into the Proto ${ \\mathrm { r i n g } } ^ { 6 }$ ，MgCh comprises three subunits, ChlH, ChlI and ChlD,and requires ATP for magnesium chelation. To complete a catalytic cycle,the three subunits cooperate in a dynamic manner with the $\\mathrm { \\ A A A } ^ { + }$ subunits ChlI and ChlD assembling into a two-tiered hexameric ring,and then interacting with the substrate-binding ChlH subunit to form a transient holoenzyme complex7.ATP hydrolysis by ChlI drives magnesium insertion and disassembly of the holoenzyme8,9.To date, the structure of the hexameric ChlI-ChlD motor unit has been observed by electron microscopyl0-12，and the structure of the monomeric ChlH (or BchH,the bacterial homologue of ChlH) has been observed by electron microscopy at $2 5 { - } 3 0 \\mathrm { ~ \\AA ~ }$ resolution13-15. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here we describe the $2 . 5 \\textup { \\AA }$ structure of a full-length ChlH from cyanobacterium Synechocystis sp.PCC 6803 (Table1).The overall architecture with dimensions of $1 3 3 \\mathrm { ~ \\AA ~ } \\times 8 0 \\mathrm { ~ \\AA ~ } \\times 7 5 \\mathrm { ~ \\AA ~ }$ is a cage-like assembly preceded by a small amino $( \\mathrm { N } )$ -terminal region (Fig. 1), which is consistent with electron microscopy studies and smallangle X-ray scattering analysis14,15. The crystal structure shows that ChlH is composed of six domains (I-VI)，with domains ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "III-VI constituting the cage-like assembly; domains I and I form the N-terminal ‘head' and‘neck'regions.Domains Iand II have a $\\beta$ -sheet core similar to the carboxy(C)-terminal domain of transketolasel6，with five $\\beta$ -strands arranged in the order of 1-3-2-4-5 (Supplementary Fig. 1).Domain III exhibits a previously unreported fold that consists of a nine-stranded (2-3-4-1-5-6-7-9-8) $\\bar { \\beta }$ -sheet and seven main α-helices (αl-α7).A large α-helical bundle is inserted between $\\beta 7$ and a7 of domain III,and this insertion constitutes domainIV.DomainValso adoptsadistinct fold,witha sevenstranded (4-3-2-1-5-6-7) $\\beta$ -sheet, $\\mathtt { 1 1 a }$ -helices (αl-al1) anda hairpin. The C-terminal domain VI is a compact α-helical bundle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the crystal, two ChlH subunits are related bya non-crystallographic twofold axis (Fig.2a). The dimerization interface occurs between domains Iand Vand has an area of $1 , 8 0 8 \\mathrm { ~ \\AA ~ } ^ { 2 }$ .Polar interactions including six hydrogen bonds and a salt bridge stabilize the dimer (Fig.2b).Apart from the polar interactions,no other ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fe990a394b721bd153cb7ecad37d69019717e11527e61aacc5176bdb35ceb07.jpg",
+        "table_caption": [
+            "Table1|Datacollection,phasingandrefinementstatistics "
+        ],
+        "table_footnote": [
+            "Highestresolutionshell isshown inparenthesis. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Native ChlH</td><td>SeMetChlH</td></tr><tr><td>Data collection</td><td></td><td></td></tr><tr><td>Space group</td><td>H3</td><td>H3</td></tr><tr><td>Cell dimensions</td><td></td><td></td></tr><tr><td>a,b,c(A)</td><td>319.7,319.7,105.2</td><td>321.1,321.1,105.2</td></tr><tr><td>α,β,γ()</td><td>90,90,120</td><td>90, 90,120</td></tr><tr><td>Wavelength (A)</td><td>0.9793</td><td>0.9793</td></tr><tr><td>Resolution (A)</td><td>50.0-2.5 (2.59-2.50)</td><td>50.0-3.0 (3.11-3.0)</td></tr><tr><td>Rsym Or Rmerge</td><td>0.085 (0.820)</td><td>0.202 (>1)</td></tr><tr><td>/al</td><td>16.7 (2.3)</td><td>28.5 (3.6)</td></tr><tr><td>Completeness (%)</td><td>99.9 (100.0)</td><td>100.0 (100.0)</td></tr><tr><td>Redundancy</td><td>4.1 (4.1)</td><td>23.1 (23.1)</td></tr><tr><td>Refinement</td><td></td><td></td></tr><tr><td>Resolution (A)</td><td>46.0-2.50</td><td></td></tr><tr><td>No. of reflections</td><td>134,365</td><td></td></tr><tr><td>Rwork/Rfree</td><td>0.179/0.209</td><td></td></tr><tr><td>No. of atoms</td><td></td><td></td></tr><tr><td>Protein</td><td>19,288</td><td></td></tr><tr><td>Ligand/ion</td><td>0</td><td></td></tr><tr><td>Water</td><td>880</td><td></td></tr><tr><td>B-factors</td><td></td><td></td></tr><tr><td>Protein</td><td>48.6</td><td></td></tr><tr><td>Ligand/ion</td><td>None</td><td></td></tr><tr><td>Water</td><td>47.9</td><td></td></tr><tr><td>r.m.sdeviations</td><td></td><td></td></tr><tr><td>Bond lengths (A)</td><td>0.003</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>Bond angles ()</td><td>0.873</td><td></td></tr></table></body></html>",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/39ceff994e1f3d96b4189adaf988234d935ff274b9e2234a84cc7294f9aab60f.jpg",
+        "img_caption": [
+            "Figure 1| Crystal structure of the ChlH subunit.a,Three surface models related by $9 0 ^ { \\circ }$ rotation along the vertical axis.The head (I) domain is blue, the neck(l)ailgttiiiednspti eprseta 630-640.TheboundarybetwendomainslandIthatcannotbedefined(residues22-229)isgrey.cDomainsl-Vlasrbbondiagrams. ",
+            "Figure2Dimeristal.aToorthogoalvofteChsubitirosbdaga.Onmooerieadteoud asinFigbimeratioterfaceesidusoledinolariteractioshdlinsareostic.drogendt folwispd "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "E15   \n城 2 N1134 Y R47 S1135 现 R43 D1136 E199 K1018 490° E1062 T8   \n燕照 K6 D1064 F2 E1025 + ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f31a785daf24eaf76676895b66b5b2502ffaed926755cfb52e284850e10646b.jpg",
+        "img_caption": [
+            "Figure3ThintealpocketabbondiagmofthCsbunitiththeintealpocetsowsacksufaceTeoxedenoteaein bOpeboafecoadataalsseac sticpeedsd similaresiduesareadfosesiCoosreerdtothflebittoegiOemosy andtheotherisoloudasiigghen5mutatiosiUperpaelsososeupoftheareaonda4;owerpaelsonnil model of the gun5 mutation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "interaction is found,even though the two neck domains seem adjacent to each other.In solution,monomer is the predominant form of ChlH subunit,and only a small fraction of dimer exists (Supplementary Fig.2).The observation is consistent with the reported solution state of Thermosynechococcus elongatus ChlH (TeChlH)l4.The exclusive interaction between domains I and V suggests that deletion of domain I may eliminate the formation of the loosely bound ChlH dimer,and is consistent with the observation that removal of the N-terminal 159 residues of TeChlH resulted in a clearly monomeric statel5. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An internal pocket is located at the interface between domains III and V,and its size is large enough to engulf a tetrapyrrole ligand (Fig.3a,b).Residues surrounding the pocket are Asn467,Val468, Leu624，Asn657，Glu660 and Ile663 from domain III,and Trp985,Val1041,Phe1042,Asn1097,Tyr1102,Asn1107,Tyr1125, Lysl129，Asp1163，Ile1167，Val1172，His1174，Tyr1175and Asp1177 from domain V (Supplementary Fig.3).Although molecular details of ChlH-Proto interaction cannot be accurately determined without the Proto-bound structure, the unliganded structure described here offers the first picture of the Protobinding pocket of ChlH.Multiple sequence alignment shows that the most conserved residues are concentrated in domains III and V(Supplementary Fig.4).Notably,residues forming this pocket are mostly conserved (Fig. 3c)，indicating a conserved Protobinding mechanism for ChlH subunits of different species.We attempted to locate the magnesium binding site by co-crystallization and soaking with magnesium,but did not observe a potential site. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The two ChlH subunits within the dimer are nearly structurally identical, having a root mean squared deviation of $0 . 6 \\dot { 8 } \\mathring { \\mathrm { A } }$ for 1,201 Ca pairs.Two regions exhibiting major structural differences are residues Asp464-Thr470 and Thr577-Ala593 (Fig. 3d,e).Both regions are loops of domain III and contribute to the interface with domain V.Following the second loop,there is a conserved proline at position 595 whose mutation to leucine in Arabidopsis （24号 $( { \\mathrm { P r o } } 6 4 2 {  } { \\mathrm { L e u } } )$ ）leads to the conditional chlorina (cch) phenotypel7. Aside from the two loops of domain III,three loops near the pocket are so flexible that their electron density is missing (Fig.3f).Two of the missing loops are in domain II( $\\mathrm { T h r } 3 8 0 -$ Leu391 and Ser4l5-Ala424),and the other is in domain III (Lys630-Pro640 or Met627-Asn642).A mutation at a conserved alanineat position 990ofArabidopsis ChlH to valine $\\left( { \\mathrm { A l a 9 9 0 } } \\to { \\mathrm { V a l } } \\right)$ ）causes a genomes uncoupled phenotype and is called gun5 (ref. 18). The counterpart gun5 mutationin Synechocystis ChlH is at position 942，which is at the joint between domains III and V (Fig.3g).The cch and gun5 mutant ChlH proteins retain Proto binding ability but are catalytically inactivel9. Our X-ray structure suggests that both mutations may introduce interior spatial hindrance and hence interfere with the chelation reaction occurring in the pocket. Electron microscopy maps of the hexameric motor unit of $\\mathrm { M g C h }$ ，the ChlI-ChlD complex, have revealed that large conformational change of the ChlI-ChlD complex happens on ATP bindingl².Itis possible that through formation of a holoenzyme,the motor unit triggers conformation change of the ChlH subunit and thus fulfils its role for catalysis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The intraorganellar location of the tetrapyrrole biosynthetic enzymes has been proposed as a key control of the flux into either the haem branch or the chlorophyll branch1,2.ChlH displays a dual location inchloroplaststroma and membrane20-22. Protoporphyrinogen IX oxidase(PPO） specifically PPO1 in Arabidopsis,the enzyme producing Proto in chloroplasts,also localizes to both stroma and membrane22,23.Interestingly, the crystal structure of tobacco PPO shows that,like ChlH,PPO forms a loosely bound dimer24. The tobacco PPO dimer fits well with the ChlH dimer without any structural adjustment (Fig.4).In this PPO -ChlH model,the substrate-binding domain and the flavin adenine dinucleotide-binding domain of PPO are in close contact with domains II and $\\mathrm { \\Delta V }$ of ChlH (Supplementary Fig. 5).The bound PPO inhibitor which mimics its substrate is ${ \\sim } \\bar { 4 } 9 \\mathrm { ~ \\AA ~ }$ from the centre of the internal pocket, or ${ \\sim } 3 5 \\mathrm { ~ \\AA ~ }$ from the entrance to the pocket. The distal membrane-binding domain of PPO probably associates with the membrane,and Proto could be channelled through the substrate-binding domain of PPO to the internal pocket of ChlH. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d17eef4b3c8382f481be4605145287f5e8786d76b90707a1df6e498140d6721.jpg",
+        "img_caption": [
+            "Figure4ModeloftheOChHcomplexTetwosubunitsoftePPOdimerareshoninpinkandorangandthetoChsubunitsareshonin blue and green. Fog is used as a depth cue. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Association of ChlH to the chloroplast membrane is prompted by the Gun4-porphyrin complexes21,25. Gun4, a positive regulator of $\\mathrm { M g C h }$ ,directly binds to Proto and MgProto, the substrate and the product of $\\mathrm { M g C h }$ ,respectively26-29.MgProto is then recognized by the subsequent methyltransferase,ChlM30.Based on these findings,a working model focused on the substrate uptake and product release of MgCh is proposed (Supplementary Fig. 6).The membrane association of PPO,ChlH and Gun4 ensures a flux of Proto to the chlorophyll branch,although the role of their stromal fraction is unclear.After the chelation reaction,Gun4 and ChlM help the product MgProto to release from ChlH,and thus regenerate the catalytic subunit for a new catalytic cycle. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Expression, purification and crystallization. The chlH gene of Synechocystis sp. PCC 6803was inserted into thepET- $2 8 \\mathsf { a } ( + )$ plasmid(Novagen) between the NdeI and XhoI sites to generate the pET- $2 8 \\mathrm { a - H i s } _ { 6 }$ -ChlH plasmid. The recombinant Histagged ChlH subunit was expressed in Escherichia coli BL21(DE3) cells after adding $0 . 2 \\mathrm { m M }$ isopropyl $\\beta$ -D-1-thiogalactoside when thecell density reached $A _ { 6 0 0 \\mathrm { n m } }$ of 0.6. After growth at $1 8 ~ ^ { \\circ } \\mathrm { C }$ for $1 6 { - } 1 8 \\mathrm { h }$ ,the cells were harvested by centrifuge, resuspended in a lysis buffer,containing $2 0 ~ \\mathrm { m M }$ Tris-HCl, pH7.5,500 mM NaCl and $2 0 ~ \\mathrm { m M }$ imidazole,and disrupted by sonication.The recombinant protein was purified from the cleared lysate using a nickel-nitrilotriacetic acid column (Qiagen) and then size-exclusion chromatography with a HiLoad 16/60 Superdex 200 column (GE Healthcare).The purified protein was concentrated by ultrafiltration in a buffer containing $2 0 ~ \\mathrm { m M }$ Tris-HCl, pH 7.5, $1 5 0 \\ \\mathrm { m M \\ N a C l }$ and $2 \\mathrm { m M }$ dithiothreitol, shock-frozen in liquid nitrogen and stored at $- 8 0 { } ^ { \\circ } \\mathrm { C } .$ For crystallization, the purified protein was diluted to a concentration of $1 0 \\ \\mathrm { m g \\ m l ^ { - 1 } }$ .Both the native and selenomethionine-substituted crystals of the ChlH subunit were obtained using the vapour diffusion method at $1 6 ^ { \\circ } \\mathrm { C }$ in a mixture containing $1 { - } 2 \\mu \\mathrm { l }$ of protein sample and an equal volume of reservoir solution ( $\\mathrm { 0 . 8 5 \\ : M }$ sodium citrate, $\\mathrm { p H } 7 . 0$ and $2 \\mathrm { m M }$ dithiothreitol) taken from $\\mathrm { 1 m l }$ of reservoir solution.The crystals qualified for X-ray data collection were optimized by the seeding method.Before data collection, crystals were harvested with nylon loops,and cryo-protected in the crystallization solution supplemented with $2 0 \\%$ (v/v)glycerol. Crystals were then shock-frozen in liquid nitrogen for X-ray diffraction experiment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Datacollection and structure determination.All X-ray diffraction data were collected at beamline BL17U of the Shanghai Synchrotron Radiation Facility at a wavelength of $0 . 9 7 9 3 \\mathrm { ~ \\AA ~ }$ at $1 0 0 \\mathrm { K } .$ The data were indexed, integrated and scaled with HKL20oo (HKL Research Inc.).Selenium positions were determined using the SHELXD program³1.A preliminary model was built using AutoSol and AutoBuild from PHENIX³2.Additional missing residues were manually added according to the $2 { \\cal F } _ { o } – { \\cal F } _ { c }$ and $F _ { o } { - } F _ { c }$ electron density maps in Coot3³.The native ChlH subunit structure was determined by molecular replacement with the selenomethioninesubstituted structure as the searching model.Automatic model building was performed using the ARP/wARP program34,and manual readjustments were done in $\\mathrm { C o o t } ^ { 3 3 }$ .Further refinement was performed with PHENIX3².The overall quality of the structure was assessed by PROCHECK3,and in Ramachandran 97.47,3.21 and $0 . 3 2 \\%$ of the residues were most favoured,additional allowed and disallowed regions, respectively.Data collection and structure refinement statistics are summarized in Table1.The interaction surface area was calculated by PISA6.The protein structure figures were prepared using $\\mathrm { P y M O L } ^ { 3 7 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Received 17 May 2015;accepted 30 July 2015; published 24 August 2015 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1．Tanaka,R.& Tanaka,A.Tetrapyrrole biosynthesis in higher plants.Annu.Rev. Plant Biol.58,321-346 (2007).   \n2．Mochizuki,N.et al.The cell biology of tetrapyrroles: a life and death struggle. Trends Plant Sci.15,488-498 (2010).   \n3．Gibson,L.C.D.,Willows,R.D.,Kannangara,C.G.,von Wettstein,D.&Hunter, C.N.Magnesium-protoporphyrin chelatase of Rhodobacter sphaeroides: reconstitiution of activity by combining the products of the bchH, -I and -D genes expressed in Escherichia coli.Proc.Natl Acad.Sci.USA 92, 1941-1944 (1995).   \n4.Jensen,P.E.,Gibson,L.C.D.,Henningsen,K.W.& Hunter,C.N.Expression of the chlI,chlD,and chlH genes from the cyanobacterium Synechocystis PCC6803 in Escherichia coli and demonstration that the three cognate proteins are required for magnesium-protoporphyrin chelatase activity.J.Biol. Chem.271, 16662-16667 (1996).   \n5．Reid,J.D.& Hunter,C.N.Magnesium-dependent ATPase activity and cooperativity of magnesium chelatase from Synechocystis sp.PCC6803.J.Biol. Chem.279,26893-26899 (2004).   \n6．Al-Karadaghi, S.et al.Chelatases:distort to select? Trends Biochem. Sci.31, 135-142 (2006).   \n7.Axelsson,E.et al.Recessiveness and dominance in barley mutants deficient in Mg-chelatase subunit D,an AAA protein involved in chlorophyll biosynthesis. Plant Cell 18,3606-3616 (2006).   \n8．Jensen,P.E.,Reid,J.D.& Hunter, C.N.ATPase activity associated with the magnesium-protoporphyrin IX chelatase enzyme of Synechocystis PCC6803: evidence for ATP hydrolysis during $\\mathrm { M g } ^ { 2 + }$ insertion,and the MgATP-dependent interaction of the ChlI and ChlD subunits.Biochem.J.339,127-134 (1999).   \n9.Karger,G.A.,Reid,J.D.& Hunter, C.N.Characterization of the binding of deuteroporphyrin IX to the magnesium chelatase H subunit and spectroscopic properties of the complex.Biochemistry 40,9291-9299 (2001).   \n10.Fodje,M.N.et al.Interplay between an AAA module and an integrin I domain may regulate the function of magnesium chelatase.J.Mol.Biol. 311, 111-122 (2001).   \n11.Hansson,A.,Willows,R.D.,Roberts,T.H.& Hansson,M. Three semidominant barley mutants with single amino acid substitutions in the smallest magnesium chelatase subunit form defective AAA $^ +$ hexamers.Proc.Natl Acad.Sci.USA 99, 13944-13949 (2002).   \n12.Lundqvist,J.et al.ATP-induced conformational dynamics in the AAA $^ +$ motor unit of magnesium chelatase.Structure 18,354-365 (2010).   \n13.Sirijovski,N.et al. Substrate-binding model of the chlorophyll biosynthetic magnesium chelatase BchH subunit.J. Biol. Chem.283,11652-11660 (2008).   \n14.Qian,P.et al. Structure of the cyanobacterial magnesium chelatase H subunit determined by single particle reconstruction and small-angle X-ray scatring. J.Biol. Chem.287,4946-4956 (2012).   \n15.Adams,N.B.et al. Structural and functional consequences of removing the N-terminal domain from the magnesium chelatase ChlH subunit of Thermosynechococcus elongatus. Biochem.J.464, 315-322 (2014).   \n16.Lindqvist,Y.,Schneider,G.,Ermler,U.& Sundstrom,M.Three-dimensional structure of transketolase,a thiamine diphosphate dependent enzyme,at 2.5 A resolution.EMBOJ.11,2373-2379 (1992).   \n17.Espineda,C.E., Linford,A. S., Devine,D.& Brussan,J.A. The AtCAO gene, encoding chlorophyll a oxygenase,is required for chlorophyll b synthesis in Arabidopsis thaliana.Proc.Natl Acad.Sci. USA 96,10507-10511 (1999).   \n18.Mochizuki,N.,Brusslan,J.A.,Larkin,R.,Nagatani,A.& Chory,J.Arabidopsis genomes uncoupled 5 (GUN5) mutant reveals the involvement of Mg-chelatase H subunit in plastid-to-nucleus signal transduction.Proc.Natl Acad. Sci.USA   \n98,2053-2058 (2001).   \n19.Davison,P.A.& Hunter,C.N.Abolition of magnesium chelatase activity by the gun5 mutation and reversal by Gun4.FEBS Lett. 585,183-186 (2011).   \n20.Nakayama,M.et al. Cloning and expression of the soybean chlH gene encoding a subunit of Mg-chelatase and localization of the $\\mathrm { M g } ^ { 2 { \\dot { + } } }$ concentration-dependent ChlH protein within the chloroplast.Plant Cell Physiol.39,275-284 (1998).   \n21.Adhikari,N.D.,Orler,R.,Chory,J.,Froehlich,J.E.& Larkin,R.M.Porphyrins promote the association of GENOMES UNCOUPLED 4 and a $\\mathbf { M } \\mathbf { g }$ -chelatase subunit with chloroplast membranes.J.Biol. Chem.284,24783-24796 (2009).   \n22.Joyard,J.et al. Chloroplast proteomics and the compartmentation of plastidial isoprenoid biosynthetic pathways.Mol.Plant 2,1154-1180 (2009).   \n23. Zhang,F.et al. Tetrapyrrole biosynthetic enzyme protoporphyrinogen IX oxidase 1 is required for plastid RNA editing.Proc.Natl Acad.Sci.USA 111,   \n2023-2028 (2014).   \n24.Koch,M.et al. Crystal structure of protoporphyrinogen IX oxidase:a key enzyme in haem and chlorophyll biosynthesis.EMBO J.23,1720-1728 (2004).   \n25.Adhikari, N.D.et al. GUN4-porphyrin complexes bind the ChlH/GUN5 subunit of Mg-Chelatase and promote chlorophyll biosynthesis in Arabidopsis. Plant Cell 23,1449-1467 (2011).   \n26.Larkin,R.M.,Alonso,J.M.,Ecker,J.R.& Chory,J.GUN4,a regulatorof chlorophyll synthesis and intracellular signaling. Science 299,902-906 (2003).   \n27.Verdecia,M.A.et al. Structure of the Mg-chelatase cofactor GUN4 reveals a novel hand-shaped fold for porphyrin binding.PLoS Biol.3,el51 (2005).   \n28.Davison,P.A.et al. Structural and biochemical characterization of Gun4 suggests a mechanism for its role in chlorophyll biosynthesis.Biochemistry 44,   \n7603-7612 (2005).   \n29.Chen,X.et al. Crystal structures of GUN4 in complex with porphyrins. Mol. Plant 8,1125-1127 (2015).   \n30.Chen,X.et al. Structural insights into the catalytic mechanism of Synechocystis magnesium protoporphyrin IX O-methyltransferase (ChlM).J.Biol. Chem.289,   \n25690-25698 (2014).   \n31.Schneider,T.R.& Sheldrick,G.M. Substructure solution with SHELXD.Acta Crystallogr.D 58,1772-1779 (2002).   \n32.Adams,P.D.et al.PHENIX:a comprehensive Python-based system for macromolecular structure solution.Acta Crystallogr.D 66,213-221 (2010).   \n33.Emsley,P.& Cowtan,K.Coot: model-building tools for molecular graphics.Acta Crystallogr.D 60,2126-2132 (2004).   \n34.Perrakis,A.,Harkiolaki,M.,Wilson,K.S.& Lamzin,V.S.ARP/wARP and molecular replacement.Acta Crystallogr.D57,1445-1450 (2001).   \n35.Laskowski,R.A.,MacArthur,M.W.,Moss,D.S.& Thornton,J.M. PROCHECK:A program to check the stereochemical quality of protein structures.J.Appl. Crystallogr.26,283-291 (1993).   \n36.Krissinel,E.&Henrick,K.Inference of macromolecular assemblies from crystalline state.J.Mol. Biol.372,774-797 (2007).   \n37.PyMOL Molecular Graphics Systemv.1.3.(Schrodinger,L.L.C.,2010). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We thank M.-Z.Wang at the Institute of Biophysics of the Chinese Academy of Sciences and the staff of beamline BLl7U at the Shanghai Synchrotron Radiation Facility for technical support. This work was supported by the National Basic Research Program of China Grant 2011CBA00901,the Key Research Program KGZD-EW-T05 and the Hundred Talents Program of the Chinese Academy of Sciences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "X.C.cloned the construct, purified,crystalized,collected, processed and refined data; H.P., Y.F.,X.W.and S.Z.purified and collected data; Y.L.,M.Z.and H.D.analysed data; W.G.and L.L.designed the study and wrote the paper. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Additional information ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information is available online.Reprints and permissions information is available online at www.nature.com/reprints.Correspondence and requests for materials should be addressed to L.L.or W.G. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Competing interests ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interests. ",
+        "page_idx": 4
+    }
+]

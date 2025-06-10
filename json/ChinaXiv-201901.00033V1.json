@@ -1,0 +1,401 @@
+[
+    {
+        "type": "text",
+        "text": "频率捷变的全双工数字自干扰抑制方法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "皇甫雅帆1，杨春'，秋勇涛1²，刘友江1(1．中国工程物理研究院 电子工程研究所，四川 绵阳 621900;2.清华大学 工程物理系，北京 100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对极端频谱环境中强干扰对全双工系统性能的影响，提出了一种适用于频率捷变的全双工数字自干扰抑制方法。通过离线运算获取工作频带范围内的误差补偿模型，并利用该模型实时生成捷变频点的自干扰信道参数以重建自干扰信号并完成数字对消。数值仿真结果表明该方法在系统工作频带范围内可将自干扰抑制到噪底以下，并在整个频带具有较高一致性和良好的收敛性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：数字自干扰抑制；频率捷变；全双工 中图分类号：TN929.5 doi: 10.3969/j.issn.1001-3695.2018.08.0641 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Digital self-interference cancellation method for frequency agility full duplex system ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huangfu Yafan1, Yang Chun1, Qiu Yongtaol, ², Liu Youjiang1 (1.InstituteofElectronic Engineering,ChinaAcademyofEngineeingPhysics,Mianyang Sichuan 6219o0,China;2.Dept ofEngineeringPhysics,Tsinghua University,BeijinglOoo84,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Toovercome theefectsofthe intense jamforthefullduplex (FD)systemsin the extreme spectrumenvironment, this paper proposedanovel Digital Self-Interference Cancelation (DSIC)method that adapts tothe frequencyagility ful duplex systems.The errorcompensationmodel of the full working band wascalculated oflineandcould generate the self-interference (SI)channelcoeficientsreal-timelytoreconstructthe SIsignalandaccomplishtheDSIC.Thenumerical simulationresultsindicatethattheleveloftheresidualSIsignalaftertheDSICiselowthenoisefloorlevelinthefulland, which also demonstrate the consistency and convergence of the proposed method at different frequency points. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: digital self-interference cancellation (dsic); frequency agility; full duplex (fd) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着无线通信的飞速发展，频率资源的需求日益增大，频谱竞争日趋激烈，而传统的通信系统普遍存在频谱利用率低的问题。近年来，同时同频全双工技术逐渐引起人们的关注并取得了较大的发展，该技术支持在同一频率上同时进行发射与接收的通信模式，可以将频率利用率提高一倍[1]。该优势使得同时同频全双工技术成为了学术界和工业界研究的热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "同时同频全双工的核心问题在于自干扰抑制。自干扰抑制主要从空域[2]、射频域[3.4]和数字域[5]三个维度展开，通过三个不同作用域共同作用的方式抑制自干扰[。在目前可见的文献中，研究人员的关注点主要集中于固定频点、固定带宽、外部干扰相对较低的情况，对于极端频谱条件下自然空间或敌对环境中可能存在的具有突发性、随机性的强带内干扰的场景而言，这些干扰会对系统产生极大的影响以至于固定频点、固定带宽的同时同频全双工系统性能下降乃至于无法工作。而频率捷变的同时同频全双工系统可作为一个应对的手段。当出现上述问题时，系统在一定带宽范围内灵活调整自身工作频点，合理避开强干扰频段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而，在该工作模式下，由于工作的子带发生变化从而导致带内的信道特征随之改变，自干扰信号也发生变化。目前主流的数字自干扰抑制手段例如自干扰信号估计与重建[7,8]、自适应滤波[9]、辅助接收链路的数字自干扰抑制[5,10]等,由于需要重新估计自干扰信号，难以满足同时同频全双工系统在动态频率捷变场景下对自干扰抑制的有效性和实时性要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，提出了一种频率捷变（frequencyagility）的数字自干扰抑制（digital self-interference cancellation,DSIC）方法，在捷变工作频带范围内离线地建立自干扰信道响应模型，获取离散的多个频点信道响应参数，从而拟合得到整个通带的响应补偿模型。该方法利用离线工作完成对全通带信道特性的估计，在线工作时实时地提供频率捷变所对应的信道特性信息，在通带范围的任意频点实现自干扰抑制，满足同时同频全双工系统在频率捷变时对自干扰抑制的需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 系统模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "系统模型如图1所示。图1（a）中，基带产生发射信号x[n]由发射链路处理后得到射频信号 $x ( t )$ ，经环形器后由天线发射；接收链路接收到的信号y(t)包含来自远端的期望信号$r ( t )$ 及环形器泄漏的自干扰信号 $s ( t )$ ，经过射频自干扰抑制模块后得到信号 $y ^ { \\prime } ( t )$ ，到达数字基带后的信号定义为y[n]，数字自干扰抑制模块联合该信号与发射链路基带信号x[n]生成一个估计信号 $\\tilde { y } ^ { \\prime } [ n ]$ 并与 $y ^ { \\prime } [ n ]$ 对消，得到z[n]信号。图1（b)为捷变模型，信号在射频链路中传输时，由于切换频点致使信道响应改变，即对应的信道参数 $\\mathbf { h } ^ { ( i ) }$ 发生变化。本文期望在同时同频全双工系统工作之前能够获取整个通带的信道响应特性的先验信息，从而建立误差补偿模型，当系统捷变要求出现时能及时地通过误差补偿模型提取当前新频点的信道响应估计参数，保证自干扰抑制的有效性和实时性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4eab4222ccb14cc5b4600e6221becee36cc26c1b1c28bd2018bee627cdf56118.jpg",
+        "img_caption": [
+            "图1 (a)同时同频全双工系统模型(b)捷变模型 Fig.1(a) FD system model; (b)Frequency agility model "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同时同频全双工系统自干扰主要来源于射频信道，对于收发同天线系统，自干扰信号的主要来源包括环形器泄漏以及天线反射[II]，因此，离线建立捷变通带的有线信道响应特性模型能充分表征自干扰信息，通过对应的补偿模型能保证系统对自干扰抑制的要求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑一个线性系统，采用记忆多项式对自干扰信号建模， 定义接收链路加性高斯白噪声（AWGN）为 $\\mu [ n ]$ ，到达基带 的期望信号(received signalof interest,received SoI)为 $r [ \\mathrm { n } ]$ ，前 述接收链路基带信号 $y ^ { * } [ n ]$ 可表示为 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny ^ { * } [ n ] = \\sum _ { m = 0 } ^ { M - 1 } h _ { m } x [ n - m ] + r [ n ] + \\mu [ n ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $h _ { { \\scriptscriptstyle m } }$ 为信道响应参数， $h _ { m } \\in \\mathbb { C } ^ { M \\times 1 }$ 。数字自干扰抑制模块获取该参数的估计值 $\\tilde { h } _ { m } \\in \\mathbb { C } ^ { M \\times 1 }$ ，并重建自干扰信号 $\\tilde { y } ^ { \\prime } [ n ]$ ，将其从 $y ^ { * } [ n ]$ 中减去得到 $z [ n ]$ 信号：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz [ n ] = \\sum _ { m = 0 } ^ { M - 1 } h _ { m } x [ n - m ] - \\sum _ { m = 0 } ^ { M - 1 } \\tilde { h } _ { m } x [ n - m ] + r [ n ] + \\mu [ n ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上式右侧前两项为经过DSCI后的残余自干扰信号(residual self-interference，residual SI）：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { R e s i d u a l \\mathrm { ~ S I } } \\left[ n \\right] = \\sum _ { m = 0 } ^ { M - 1 } h _ { m } x [ n - m ] - \\sum _ { m = 0 } ^ { M - 1 } \\tilde { h } _ { m } x [ n - m ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如何准确获取信道响应参数的估计值是信号估计与重建数字自干扰抑制算法中的核心。对于固定频点，相关算法研究有较多文献，其中估计算法主要包括最小二乘（LS）准则、最小均方递归算法（recursiveLS，RLS）、最小均方误差（MMSE）准则等。而对于频率捷变的动态场景，几乎没有见到相关文献和工作报道。本文提出了一种频率捷变的数字自干扰抑制方法，解决频率捷变下的自干扰抑制问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 频率捷变数字自干扰抑制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先考虑捷变通带内某一频点的数字自干扰抑制估计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可选用固定频点信道响应估计算法中任意一种作为建立频率捷变动态场景模型中各离散频点的估计算法来使用。不妨设频率捷变范围为 $[ f _ { 1 } , f _ { N } ]$ ，对于满足频率范围在其中的射频频点 $f _ { i } \\in [ f _ { 1 } , f _ { N } ]$ ，基带信号 $x [ n ]$ 经过发射与接收链路后回到基带的信号定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny ^ { \\prime } { } _ { i } [ n ] = \\sum _ { m = 0 } ^ { M - 1 } h _ { m } ^ { ( i ) } x [ n - m ] + r [ n ] + \\mu [ n ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在离线工作，即无接收期望信号场景下 $r [ n ] = 0$ 。获得的信号 $y ^ { \\prime } { } _ { i } [ n ]$ 与信号 $x [ n ]$ 利用估计算法（如LS）得到一组该频点的信道响应估计参数序列 $\\tilde { \\pmb { h } } ^ { ( i ) }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\pmb { h } } ^ { ( i ) } = [ \\tilde { h } _ { 0 } ^ { ( i ) } , \\tilde { h } _ { 1 } ^ { ( i ) } , \\cdots , \\tilde { h } _ { m } ^ { ( i ) } , \\cdots , \\tilde { h } _ { M - 1 } ^ { ( i ) } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取子带间隔为 $\\left( f _ { N } - f _ { 1 } \\right) / N$ ，即产生均匀分布的 $\\mathbf { N }$ 个频点，分别选取这 $\\mathbf { N }$ 个频点作为工作频点重复上述工作从而得到一系列不同频点的信道响应估计参数 $\\tilde { \\pmb { H } }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { { \\pmb { H } } } = [ \\tilde { \\pmb { h } } ^ { ( I ) } , \\tilde { \\pmb { h } } ^ { ( 2 ) } , \\cdots , \\tilde { \\pmb { h } } ^ { ( i ) } , \\cdots , \\tilde { \\pmb { h } } ^ { ( N ) } ] ^ { \\mathrm { T } } =\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array} { c c c c c c c } { { \\tilde { h } _ { 0 } ^ { ( 1 ) } } } & { { \\tilde { h } _ { 1 } ^ { ( 1 ) } } } & { { \\cdots } } & { { \\tilde { h } _ { m } ^ { ( 1 ) } } } & { { \\cdots } } & { { \\tilde { h } _ { M - 1 } ^ { ( 1 ) } } } \\\\ { { \\tilde { h } _ { 0 } ^ { ( 2 ) } } } & { { \\tilde { h } _ { 1 } ^ { ( 2 ) } } } & { { \\cdots } } & { { \\tilde { h } _ { m } ^ { ( 2 ) } } } & { { \\cdots } } & { { \\tilde { h } _ { M - 1 } ^ { ( 2 ) } } } \\\\ { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } \\\\ { { \\tilde { h } _ { 0 } ^ { ( i ) } } } & { { \\tilde { h } _ { 1 } ^ { ( i ) } } } & { { \\cdots } } & { { \\tilde { h } _ { m } ^ { ( i ) } } } & { { \\cdots } } & { { \\tilde { h } _ { M - 1 } ^ { ( i ) } } } \\\\ { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } \\\\ { { \\tilde { h } _ { 0 } ^ { ( N ) } } } & { { \\tilde { h } _ { 1 } ^ { ( N ) } } } & { { \\cdots } } & { { \\tilde { h } _ { m } ^ { ( N ) } } } & { { \\cdots } } & { { \\tilde { h } _ { M - 1 } ^ { ( N ) } } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将 $N$ 个频点归一化至[-0.5,0.5]之间，取 $\\tilde { \\pmb { H } }$ 的第 $\\mathrm { ~ m ~ }$ 列利用多项式拟合，获得不同频点的第 $\\mathbf { m }$ 阶信道响应估计参数的多项式拟合曲线：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { m } ( f _ { k } ) = \\sum _ { p = 0 } ^ { P - 1 } a _ { p } ^ { ( m ) } f _ { k } ^ { p }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $g _ { m } ( f _ { k } )$ 为频点处的第 $\\mathbf { m }$ 阶信道响应估计参数值， $f _ { k }$ 为归一化频率： $f _ { k } \\in \\left[ - 0 . 5 , 0 . 5 \\right]$ ， $P$ 为多项式拟合阶数， $a _ { p } ^ { ( m ) }$ 为多项式的各阶系数。从而，计算得到频点处的所有 $M$ 阶信道响应参数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( f _ { k } ) = [ g _ { 0 } ( f _ { k } ) , g _ { 1 } ( f _ { k } ) , \\cdots , g _ { m } ( f _ { k } ) , g _ { M - 1 } ( f _ { k } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用 $G ( f _ { k } )$ 可快速计算获得捷变频率范围内的任意频点$f _ { k }$ 的信道响应估计值。该算法按步骤描述如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)离线过程。初始化系统，设置工作频带、子带间隔、子带个数，并产生基带发射信号 $x [ n ]$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)离线过程。分别选取不同子带作为射频发射频带，获取接收链路的基带信号 $y _ { i } ^ { \\phantom { \\dagger } } [ n ]$ ，并利用 $x [ n ]$ 与 $y _ { i } ^ { \\phantom { \\dagger } } [ n ]$ 估计该频带的信道响应参数序列 $\\tilde { \\pmb { h } } ^ { ( i ) }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)离线过程。共有 $\\mathrm { ~ \\bf ~ N ~ }$ 个子带，每个子带对应 $M$ 个信道响应估计参数，重复b)从而获取所有子带信道响应估计参数序列 $\\tilde { \\pmb { H } } = [ \\tilde { \\pmb { h } } ^ { ( I ) } , \\tilde { \\pmb { h } } ^ { ( 2 ) } , \\cdots , \\tilde { \\pmb { h } } ^ { ( i ) } , \\cdots , \\tilde { \\pmb { h } } ^ { ( N ) } ] ^ { T }$ ，将估计参数序列按参数位置分为$M$ 组，对每组参数分别进行多项式拟合获得 $M$ 条拟合曲线$G ( f _ { k } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)在线过程。选定工作频率 $f _ { k }$ ，利用c中获取的参数曲线集合计算对应频带的信道响应参数 $G ( f _ { k } )$ ，利用该参数估计自干扰信号 $\\tilde { y } _ { f _ { k } }$ [n]并完成数字对消，获得对消后的信号 $z _ { f _ { k } } [ n ]$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 数值仿真与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于上述方案，选择LS准则作为离散频点自干扰估计算法，利用MATLAB进行数值仿真分析，主要参数如表1所示。考虑电路中不同频点的信道响应不同以及环形器特性，在仿真中产生一个特殊的、带内平坦度差、通带为 $1 \\sim 1 . 5 \\ \\mathrm { G H z }$ 的FIR带通滤波器，用来表征捷变工作频带范围内的信道响应。滤波器长度为49阶，滤波特性如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "离线过程期望信号 $r [ n ] = 0$ ，回到基带后的信号 $y _ { i } ^ { \\phantom { \\dagger } } [ n ]$ 通过LS 准则估计得到长度为 $M$ 的参数序列 $\\tilde { \\pmb { h } } ^ { ( i ) }$ 和估计信号 $\\tilde { y } _ { i } ^ { \\prime } [ n ]$ ，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对消后得到信号 $z _ { i } [ n ]$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b33607a72c942fcf0123abf30fde81edfe206228f5acd08a10daa9d81ac32632.jpg",
+        "table_caption": [
+            "表1数值仿真参数Table 1 Numerical simulation parameters"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>说明</td></tr><tr><td>工作频带</td><td>1~1.5 GHz</td></tr><tr><td>子带间隔</td><td>10 MHz</td></tr><tr><td>子带个数</td><td>51</td></tr><tr><td>发射信号</td><td>16QAM@50MHz,0 dBm</td></tr><tr><td>接收信号</td><td>QPSK@20MHz,-87 dBm</td></tr><tr><td>噪声水平</td><td>-110 dBm</td></tr><tr><td>环形器隔离度</td><td>25dB</td></tr><tr><td>射频抑制</td><td>50 dB</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ded76caa5c4e18f828e0618e543c9fb4bbf04ce7b464395d60d964d15253d323.jpg",
+        "img_caption": [
+            "图2利用FIR带通滤波器表征信道响应"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义对消比（digitalcancellationratio,DCR）为数字自干扰的抑制水平，单位为dB：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD C R = P o w e r _ { B e f o r e \\ D S I C } - P o w e r _ { A f t e r \\ D S I C }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $P o w e r _ { B e f o r e D S I C }$ 与 $P o w e r _ { A f t e r \\ D S I C }$ 分别表示数字自干扰抑制前后的信号功率。图3为工作带内不同频点处 $M$ 取值与对消比的关系曲线，在该仿真中选择使各频点对消比在 $7 0 \\mathrm { d B }$ 左右。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c068eedc4a93d6896582908feb33a19c6f10f04f760ad93042469aef9cc6b9c3.jpg",
+        "img_caption": [
+            "Fig.2Representing the channel response with FIR bandpass filter ",
+            "图3估计长度 $M$ 与DCR的关系曲线Fig.3DCR vs.Estimation order M",
+            "图5仿真结果",
+            "Fig.5Simulation results "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过离线过程获得了工作频带中均匀分布的51个频点的信道响应参数序列，对其按照前述规则进行多项式拟合以获取长度为 $M = 4 0$ 的拟合曲线集合 $G ( f _ { k } )$ 。图4为多项式拟合阶数 $P$ 与对消比之间的关系曲线，选择与图3中测试频点相差 $1 0 \\mathrm { ~ M ~ }$ 的新的测试频点进行测试，从图中可以看出，当拟合阶数为 $P = 2 1$ 阶时，新的测试频点均能达到 $7 0 ~ \\mathrm { d B }$ 左右的自干扰抑制效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在线运行时，在信号中加入接收的期望信号（ReceivedSoI)，利用离线过程生成的多项式提取估计参数用于数字自干扰抑制，仿真结果如图5所示，图中，（a）为射频工作频点 $f = 1 . 4 6 G H z$ 处的基带频谱，通过该方法获取了70dB左右的自干扰抑制效果，残余自干扰位于噪底以下；（b）为数字自干扰抑制前后接收期望信号解调的星座图，通过星座图证明了应用该方法进行自干扰抑制的有效性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a2e9774b2a1fd58c6f76ad82be6d0f9bd68108271de993eb2fc43a3197ef35d.jpg",
+        "img_caption": [
+            "图4多项式拟合阶数 $P$ 与DCR的关系曲线Fig.4DCRvs.Polynomial order $P$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2c101ffc49a739574b5fe3a87439c2d896b2344a6448a632afa78bb6964a692.jpg",
+        "img_caption": [
+            "(a)射频工作频点 $f = 1 . 4 6 G H z$ 处基带频谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) Baseband spectrum for Radio frequency point: $f { = } 1 . 4 6 ~ \\mathrm { G H z }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Uuatetet 0.5 Jtttee 0.5   \n0 d   \nQ-0.5 品 -0.5 % 0 8 8 . 。 1 -0.5 0.5 I -1 -0.5 0 0.5 1 In-Phase In-Phase (Before DSIC) (After DSIC) (b)DSIC前后解调星座图   \n(b) Constellation results before and after DSIC ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "工作全频带仿真结果如图6所示，其中横坐标为归一化频率，纵坐标分别为EVM与DCR。由图6（a）可见利用本文提出的方法可将EVM控制在 $8 \\%$ 左右，自干扰抑制量在70dB左右，与离线过程中直接估计得到的抑制效果相一致；固定参数下的DSIC仅在部分点的抑制效果较好，而在其他位置效果很差。图6证明了本文所提出的算法在工作全频带范围内的一致性与有效性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文针对频率捷变场景下信道响应改变致使数字自干扰抑制过程中重建自干扰信号误差较大而引起的自干扰抑制性能降低的问题，提出了一种离线建立工作全频带内的响应补偿模型，并在频率捷变过程中利用该模型实时提取补偿参数，重建自干扰信号的方法对自干扰进行抑制的方法。该方法在离线过程完成了响应模型的建立从而避免了在线运行过程中频率捷变时参数的重新估计，满足动态场景下自干扰抑制对时效性的要求。数值仿真结果显示该方法能实现通带范围内任意频点均具有良好的抑制效果。未来的工作包括对该算法的进一步优化，并进行实际系统的实验验证等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbeadcac36e6ee5d1a7dd4eed94b94142cb6e8cfb5b9fee01a51a9fac2e98d19.jpg",
+        "img_caption": [
+            "Fig.6Working full band simulation results "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Zhang Zhongshan,Long Keping，Vasilakos A V.,et al.Full-duplex ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "wireless communications:challenges,solutions,and future research directions [J].Proceeding of the IEEE,2016,104(7):1369-1409.   \n[2]Jasim A A,Younus K M.Ali A,et al.A simple self-interference cancellation technique for full duplex communication [C]//Proc of Internet Technologies and Applications.2017: 224-229.   \n[3]Kim J, Choi W,Park H. Beamforming for full-duplex multiuser MIMO systems [J].IEEE Transon Vehicular Technology，2017，66(3): 2423-2432.   \n[4] Han Xiuyou,Huo Bofan,Shao Yuchen,et al.RF self-interference cancellation using phase modulation and optical sideband filtering [J]. IEEE Photonics Technology Letters,2017,29(11): 917-920.   \n[5]Li Jiong，Zhang Hang，Fan Menglan．Digital self-interference cancellation based on independent component analysis for co-time co-frequency full-duplex communication systems [J]，IEEE Access, 2017,5:10222-10231.   \n[6]Li Chenxing,Zhao Hongzhi,Wu Fei,et al.Digital self-interference cancellation with variable fractional delay FIR filter for full-duplex radios [J].IEEE Communications Letters,2018,22(5):1082-1085   \n[7]Tian Lu,Wang Shuai,Cheng Zhiheng,et al.All-digital self-interference cancellationinzero-iffull-duplextransceivers[J]. China Communication,2016,13(11): 27-34.   \n[8]Wang Dan,Huang Kaizhi,Li Yunzhou.Digital cancellation algorithms of in-band full duplex [J].Application Research of Computers,2016, 33(8): 2241-2245.   \n[9]Roberto LV,Emilio A R,Carlos M,et al.An adaptive feedback cancellerfor full-duplex relays based on spectrum shaping [J].IEEE Journal on Selected Areas in Communications,2012,30(8):1566-1577.   \n[10] Ahmed E,Eltawil A M. All-digital self-interference cancellation technique for full-duplex systems [J].IEEE Trans on Wireless Communications.2015 14(7),3519-3532.   \n[11]唐友喜．同时同频全双工原理与应用[M].北京：科学出版社，2016: 17.(Tang Youxi.No division duplex [M].Beijing: Science Press,2016: 17.） ",
+        "page_idx": 3
+    }
+]

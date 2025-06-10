@@ -1,0 +1,390 @@
+[
+    {
+        "type": "text",
+        "text": "β -胡萝卜素对妊娠母猪粪便、血清和乳汁中免疫球蛋白A浓度的影响张晓音吉昱斌\\* 李雁强 吴 旻 马思慧 郑 鑫\\*（吉林农业大学动物科学技术学院，长春130118）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究妊娠母猪后期饲粮中添加β-胡萝卜素对妊娠母猪粪便中β -胡萝卜素含量及粪便、血清和乳汁中免疫球蛋白A（IgA）浓度的影响。将体况相近、胎次相同的妊娠母猪30头随机分成3组，每组10头猪，饲养 $6 0 \\mathrm { d }$ 。对照组饲喂基础饲粮，半月组和一月组分别在预产期前半个月和1个月的基础饲粮中添加 $2 0 0 ~ \\mathrm { m g / k g }$ β -胡萝卜素。用高效液相色谱法测定各组粪便中 $\\beta$ -胡萝卜素含量，酶联免疫吸附试验（ELISA）测定粪便、血清和乳汁中IgA 浓度。结果表明：半月组和一月组粪便中 $\\beta$ -胡萝卜素含量高于对照组，大部分差异显著（ $( P { < } 0 . 0 5 )$ ；在分娩前1周，半月组和一月组粪便中IgA浓度大部分高于对照组，但在分娩后1周，半月组和一月组粪便中IgA大部分浓度低于对照组；半月组和一月组血清和乳汁中IgA浓度高于对照组，除一月组血清IgA浓度外均差异不显著（ $\\cdot  { P } { > } 0 . 0 5 \\$ )。由此可见，饲粮添加 $\\beta$ -胡萝卜素可以增加妊娠母猪粪便中β -胡萝卜素含量，提高血清和乳汁中IgA浓度，从而增强妊娠母猪的免疫功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：β-胡萝卜素；妊娠母猪；高效液相色谱；免疫球蛋白A中图分类号：S828 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "养猪业是我国畜牧业的支柱产业，但目前养猪业普遍存在母猪繁殖方面的问题，产仔率及仔猪成活率低下，且随着集约化养殖的实施，疾病特别是重症烈性传染病增多，对养猪业构成严重威胁。Kume 等[1研究表明，β-胡萝卜素对动物繁殖、免疫和健康等方面有不同程度的促进作用。β-胡萝卜素是类胡萝卜素的一种，是广泛存在于植物中的一种脂溶性化合物，并且是最大生物活性的维生素A原，被157个国家列入食品添加剂与饲料添加剂名录。在妊娠和哺乳母猪饲料中添加β -胡萝卜素可以预防子宫炎，减少乳猪的黄白痢，从而提高仔猪的成活率和断奶窝重[2。研究表明，β-胡萝卜素能够调节机体免疫力，减少疾病的发生[3]。本试验通过在妊娠母猪饲粮中添加β-胡萝卜素，研究β-胡萝卜素对妊娠母猪粪便中β -胡萝卜素含量及粪便、血清及乳汁中免疫球蛋白A（IgA）浓度的影响，为β-胡萝卜素在妊娠母猪体内的消化吸收以及免疫功能研究进一步提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "选取吉林大学原种猪场胎次相同、预产期相近、体型均匀健康的军牧一号妊娠母猪 30头，随机分为3组，每组10头猪，饲养 $6 0 \\textup { d }$ 。对照组饲喂基础饲粮，半月组在预产期前半个月的基础饲粮中添加 $2 0 0 ~ \\mathrm { m g / k g }$ $\\beta$ -胡萝卜素，一月组在预产期前1个月的基础饲粮中添",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "加 $2 0 0 \\mathrm { { m g / k g } \\mathrm { { ~ \\AA ~ } \\mathrm { { ~ \\AA ~ } ~ } } }$ -胡萝卜素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "${ \\beta }$ -胡萝卜素( $1 0 \\%$ )购自武汉星辰生物科技有限公司（食品添加级，可用于饲料添加剂);高效液相色谱（HPLC）仪（1260 infinity 四元液相色谱系统）购自安捷伦公司；猪IgA 酶联免疫吸附试验（ELISA）试剂盒购自上海朗顿生物技术有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 饲养管理及样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "各组妊娠母猪在同一环境限位栏中饲喂，整个试验期均由同一饲养员负责，基础饲粮参照NRC(2012)饲养标准分别配制母猪妊娠期和泌乳期饲粮,基础饲粮组成及营养水平见表1，平均每头每日采食量限制在 $2 . 5 ~ \\mathrm { k g }$ ，分3次饲喂，自由饮水。预产期前7d，妊娠母猪转入产仔舍，小心护理。猪场常规防疫按照吉林大学原种猪场防疫程序进行，饲喂期间做好管理工作和防治措施。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在预产期前7d开始采集粪便，一直采集到产后7d，分娩当天母猪排便极少，不收集，所采粪便直接冻存于 $- 2 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ；在妊娠母猪预产期前第7天、分娩后第1天和第7天，耳静脉采血 $5 \\mathrm { m L }$ ，静置 $3 0 \\mathrm { m i n }$ 后， $4 \\ : \\mathrm { ‰ }$ 离心 $1 0 \\mathrm { m i n }$ ，收集上清，于-80℃冻存；分娩当天采集乳汁 $5 \\mathrm { m L }$ ，于-80 $\\mathrm { { } ^ { \\circ } C }$ 冻存。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb846b7a87018354ed859b246d3a87f4b8c17f419254286cb925e405194f97b1.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平 (风干基础)",
+            "Table 1 Composition and nutrient levels of basal diets (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>T 项目 Items</td><td>妊娠后期 Late pregnancy</td><td>泌乳期 Lactation</td></tr><tr><td>原料 Ingredients</td><td></td><td></td></tr><tr><td>玉米 Corn</td><td>48.50</td><td>47.15</td></tr><tr><td>小麦Wheat</td><td>17.00</td><td>20.00</td></tr><tr><td>麸皮Wheat bran</td><td>19.00</td><td>8.00</td></tr><tr><td>豆粕 Soybean meal</td><td></td><td>21.10</td></tr><tr><td>石粉 Limestone</td><td>12.30</td><td></td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.00</td><td>0.70 0.90</td></tr><tr><td>食盐 NaCl</td><td>1.00</td><td>0.30</td></tr><tr><td>赖氨酸盐酸盐 Lys·HCI</td><td>0.34</td><td></td></tr><tr><td>氯化胆碱 Choline chloride (50%)</td><td>0.16</td><td>0.15</td></tr><tr><td>微量元素预混料 Trace mineral premix1)</td><td>0.10</td><td>0.10</td></tr><tr><td></td><td>0.50</td><td>0.50</td></tr><tr><td>豆油 Soybean oil</td><td></td><td>1.00</td></tr><tr><td>维生素预混料 Vitamin premix2)</td><td>0.03</td><td>0.03</td></tr><tr><td>抗氧化剂 Antioxidant</td><td>0.03</td><td>0.03</td></tr><tr><td>复合酶制剂 Compound enzyme</td><td>0.04</td><td>0.04</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td></tr><tr><td>消化能DE/(MJ/kg)</td><td>13.05</td><td>13.42</td></tr><tr><td>粗蛋白质 CP</td><td>14.20</td><td>16.92</td></tr><tr><td>钙Ca</td><td>0.70</td><td>0.65</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0dd285b763265d993f6f67e4a38fc80bb2a32d7a45b98aff5c732093257f615.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>磷P 0.63 0.60</td></tr><tr><td>有效磷 AP 0.33 0.32</td></tr><tr><td>赖氨酸Lys 0.73 0.92</td></tr><tr><td>蛋氨酸 Met 0.23 0.20</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)微量元素预混料为每千克饲粮提供 The trace mineral premix provides the following per kg of diets: $\\mathrm { C u 2 0 m g }$ ，Fe $8 0 ~ \\mathrm { m g }$ ， $\\mathrm { Z n 8 0 ~ m g }$ ， $ { \\mathrm { M n } } 3 0  { \\mathrm { m g } }$ ， $\\mathrm { S e } 0 . 2 \\mathrm { m g }$ ， $\\mathrm { ~ I 0 . 3 ~ m g }$ 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)维生素预混料为每千克饲粮提供 The vitamin premix provides the following per $\\mathrm { k g }$ ofdiets: VA $1 2 0 0 0 \\mathrm { I U }$ ， $\\mathrm { V D } _ { 3 } 2 0 0 0 \\mathrm { I U }$ ，VE120 IU，VK $3 0 . 5 \\mathrm { m g }$ ，生物素 biotin $0 . 2 5 \\mathrm { m g }$ ，叶酸folic acid $5 \\mathrm { m g }$ ，烟酸 niacin $5 0 \\mathrm { m g }$ ，泛酸 pantothenic acid $4 0 \\mathrm { m g }$ ，核黄素riboflavin $2 . 5 \\mathrm { m g }$ $\\mathrm { V B } _ { 1 } 2 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 1 \\log$ ， $\\mathrm { V B } _ { 1 2 } 1 0 \\mu \\mathrm { g }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定指标及方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1粪便中 $\\beta$ -胡萝卜素含量测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粪便样本研匀后准确称取 $1 . 0 0 \\ \\mathrm { g }$ ，加入石油醚、丙酮（体积比8:2）反复提取，用HPLC仪（ $4 . 6 \\ : \\mathrm { m m } \\times 2 5 0 \\ : \\mathrm { m m }$ ， $5 \\mu \\mathrm { m }$ ）进行测定，从标准曲线中求得样本中β-胡萝卜素含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 IgA浓度测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粪样加入磷酸盐缓冲液（PBS）稀释后， $3 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 后取上清备用，血清和乳样用间接ELISA方法测定，按照试剂盒说明书所述，用全自动酶标仪在 $4 5 0 \\mathrm { n m }$ 波长下测吸光度（OD）值，绘制标准曲线，测定粪样、血清和乳样中IgA浓度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验数据用Excel2007初步整理，并采用SPSS19.0统计软件对数据进行统计分析，并用 Duncan 氏法多重比较检验各组间差异，分析结果用平均值±标准差表示，以 $P { < } 0 . 0 5$ 时表示差异显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1饲喂β-胡萝卜素对妊娠母猪粪便中β-胡萝卜素含量的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 HPLC法中标准曲线的绘制",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将β-胡萝卜素标准溶液经 $0 . 4 5 ~ { \\mu \\mathrm { m } }$ 有机滤膜过膜处理后进行测定，以HPLC图的峰面积作为纵坐标，标准液浓度作为横坐标绘制标准曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c0f7a3ae05f01527706c7c3071e4b61f69d6decaf356cfacca7f62cf81f43e2.jpg",
+        "img_caption": [
+            "图1对照组HPLC图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7572db478fbb38f94916f9df494b40aeb7f23d0cc7a61654a77303bbc7a5879a.jpg",
+        "img_caption": [
+            "图2半月组HPLC图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a405cedc31f8a1446b4aa1635274adf15732175b5b7b043f4225626baea87d4.jpg",
+        "img_caption": [
+            "Fig.1 HPLC picture of control group "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8481cb584666711bc47afdb390b378dadadb58125ec5aa953f75f6c6beaaf922.jpg",
+        "img_caption": [
+            "Fig.2 HPLC picture of half month group ",
+            "图3一月组HPLC图",
+            "图4标准曲线图",
+            "Fig.4 standard curve picture "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 HPLC picture of one month group ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2饲喂β -胡萝卜素对妊娠母猪粪便中β-胡萝卜素含量的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从产前7d开始采集母猪粪便，至产后 $\\mathrm { ~ 7 ~ d ~ }$ ，依次如表2的采样天数排列，分娩当天母猪不排便，因此去除第8天。由表2可知，对照组粪便中 $\\beta$ -胡萝卜素含量几乎不变；除第10、11天外，半月组中β-胡萝卜素含量显著高于对照组（ $\\scriptstyle P < 0 . 0 5$ )，除第9、12、13天外，一月组中β-胡萝卜素含量也显著高于对照组（ $\\scriptstyle \\left. P < 0 . 0 5 \\right)$ ，且第1天及第9天（分娩后第1天）粪便中β-胡萝卜素含量明显高于其他采样天数。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c42ade0d88c384475f13bf06d7d135a034d76ec92bc4f899e3df320a0584488.jpg",
+        "table_caption": [
+            "表2妊娠母猪粪便中β -胡萝卜素含量",
+            "Table 2Fecal β -carotene content of late-pregnancy sows ng/mg "
+        ],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td>采样天数</td><td>对照组</td><td>C 半月组</td><td>0 C 一月组</td></tr><tr><td>Sampling day</td><td>Control group</td><td>Half month group</td><td>One month group</td></tr><tr><td>第1天Day 1</td><td>2.330±0.112a</td><td>12.102±5.088b</td><td>13.938 ±6.138b</td></tr><tr><td>第2天Day 2</td><td>2.055±0.005a</td><td>4.578±0.977b</td><td>4.823 ±1.636b</td></tr><tr><td>第3天Day 3</td><td>2.066±0.019a</td><td>5.793 ±1.286b</td><td>3.777±0.876c</td></tr><tr><td>第4天 Day 4</td><td>2.053±0.013a</td><td>7.010±2.914b</td><td>5.718±3.317b</td></tr><tr><td>第5天Day 5</td><td>2.065±0.010a</td><td>6.364±1.750b</td><td>5.104±1.834b</td></tr><tr><td>第6天Day 6</td><td>2.127±0.098a</td><td>5.809±1.702b</td><td>5.393±2.183b</td></tr><tr><td>第7天Day7</td><td>2.253±0.253a</td><td>8.778±4.323b</td><td>6.097±2.254b</td></tr><tr><td>第9天Day 9</td><td>2.355 ±0.300a</td><td>11.315 ±6.931b</td><td>7.640±4.515ab</td></tr><tr><td>第10天 Day 10</td><td>2.069±0.024a</td><td>5.942±1.767ab</td><td>8.103±7.640b</td></tr><tr><td>第11天 Day 11</td><td>2.248±0.135a</td><td>4.479±2.025ab</td><td>10.043 ±7.721b</td></tr><tr><td>第12天 Day 12</td><td>2.290±0.111a</td><td>6.047±1.710b</td><td>4.963±3.900ab</td></tr><tr><td>第13天 Day 13</td><td>2.156±0.058a</td><td>8.442±3.640b</td><td>5.034±2.553a</td></tr><tr><td>第14天Day14</td><td>2.215 ±0.066a</td><td>6.290±2.414b</td><td>7.119±4.903b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the same column, values with different small leter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The sameasbelow. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2饲喂β -胡萝卜素对妊娠母猪粪便、血清和乳汁中IgA 浓度的影响 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1饲喂β -胡萝卜素对妊娠母猪粪便中IgA 浓度的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，在母猪分娩前的第1、2、3、4、5、7天，半月组粪便中IgA浓度高于对照组，且第5、7天差异显著（ $. P { < } 0 . 0 5 )$ ；在母猪分娩前的第1、3、5、6、7天，一月组粪便中 IgA 浓度也高于对照组，即在母猪分娩前1周，半月组和一月组粪便中 IgA 浓度大部分高于对照组。而分娩后，半月组粪便中IgA浓度均低于对照组，且除第14天外均差异显著（ $\\lceil P { \\ < } 0 . 0 5 )$ ；除第9、14天外，一月组粪便中IgA浓度均低于对照组，即在母猪分娩后1周，半月组和一月组粪便中IgA浓度大部分低于对照组。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d98acbecf6652ac00ad3f433fccb4bb302d5e3d5a914748f93fe4af02c3cd97.jpg",
+        "table_caption": [
+            "表3妊娠母猪粪便中IgA 浓度",
+            "Table 3Fecal IgA concentration of late-pregnancy sows n "
+        ],
+        "table_footnote": [
+            "2.2.2饲喂β-胡萝卜素对妊娠母猪血清中IgA浓度的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>采样天数</td><td>对照组</td><td>半月组</td><td>一月组</td></tr><tr><td>Sampling day</td><td>Control group</td><td>Half month group</td><td>One month group</td></tr><tr><td>第1天Day 1</td><td>35.976±15.025</td><td>64.441±23.807</td><td>61.902±43.891</td></tr><tr><td>第2天Day 2</td><td>36.365±24.762ab</td><td>56.558±23.777a</td><td>20.277±5.160b</td></tr><tr><td>第3天Day 3</td><td>29.811±24.073</td><td>39.525±25.770</td><td>33.335±22.246</td></tr><tr><td>第4天Day 4</td><td>40.146±24.834</td><td>49.236±22.358</td><td>35.609±28.765</td></tr><tr><td>第5天Day 5</td><td>25.878±18.635a</td><td>75.604±17.165b</td><td>76.569±54.670b</td></tr><tr><td>第6天Day 6</td><td>67.532±24.329</td><td>62.744±23.008</td><td>78.338±27.918</td></tr><tr><td>第7天Day 7</td><td>27.0778±16.589a</td><td>84.673±59.215b</td><td>42.474±30.526ab</td></tr><tr><td>第9天Day9</td><td>57.768±25.436a</td><td>20.352±12.563b</td><td>96.270±30.625c</td></tr><tr><td>第10天Day10</td><td>87.649±13.739a</td><td>43.935±42.464b</td><td>73.052±39.157ab</td></tr><tr><td>第11天 Day 11</td><td>85.315±43.013a</td><td>24.119±13.281b</td><td>31.216±28.941b</td></tr><tr><td>第12天Day 12</td><td>99.468±30.600a</td><td>24.022±11.184b</td><td>31.598±19.035b</td></tr><tr><td>第13天Day 13</td><td>87.363±46.116a</td><td>27.440±10.641b</td><td>56.567±29.861ab</td></tr><tr><td>第14天Day14</td><td>41.494±38.407</td><td>34.188±18.656</td><td>42.120±24.154</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，半月组和一月组血清中IgA浓度高于对照组，表明在饲粮中添加 $\\beta$ -胡萝卜素可以增加血清中IgA浓度；随着β-胡萝卜素的添加，血清中IgA浓度逐渐升高。但在第9天（分娩后1天）出现异常，半月组血清中IgA浓度却高于一月组（ $\\mathrm { ( } P { > } 0 . 0 5 \\mathrm { ) }$ ，而表3第9天的数据也出现异常，半月组粪便中IgA浓度显著低于一月组（ $\\cdot P { < } 0 . 0 5 \\$ )。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4妊娠母猪血清中IgA浓度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 4Serum IgA concentration of late-pregnancy sows μg/mL ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ac372ef09519ad6f70775fa9560fe9686cae02b1a35a84b4cca841303a1a908.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.2.3饲喂β-胡萝卜素对妊娠母猪乳汁中IgA 浓度的影响 "
+        ],
+        "table_body": "<html><body><table><tr><td>采样天数</td><td>对照组</td><td>半月组</td><td>一月组</td></tr><tr><td>Sampling day</td><td>Control group</td><td>Half month group</td><td>One month group</td></tr><tr><td>第2天Day 2</td><td>2 356.526±1 440.181</td><td>2 732.658±1 288.300</td><td>3 451.258±1 972.099</td></tr><tr><td>第9天Day 9</td><td>2 521.394±735.206</td><td>4 010.198±1 149.685</td><td>3 231.736±1 898.203</td></tr><tr><td>第14天 Day 14</td><td>2 270.347±1 226.253a</td><td>2 863.963±904.238ab</td><td>4 118.152±1 096.279b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，采集母猪分娩后第1天的初乳，随着β-胡萝卜素的添加，乳汁中IgA 浓度逐渐升高，但差异不显著（ $\\mathrm { ( } P { > } 0 . 0 5 \\mathrm { ) }$ ）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数据柱标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Value columns with the same or no letters mean no significant difference $( P { > } 0 . 0 5 )$ 1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4a6f45455553fffac4a14df299f39a981927c96fd8478483b086516bebd1e3a.jpg",
+        "img_caption": [
+            "图5妊娠母猪乳汁中IgA浓度",
+            "Fig.5IgA concentration of milk of late-pregnancy sows "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IgA 能够有效地中和细菌毒素，在肠黏膜和呼吸道黏膜中有着重要保护作用[4]。IgA 主要由黏膜相关淋巴样组织产生，能够阻止微生物与黏膜表面结合，抑制共生微生物的渗透[5],而且，通过其细胞表面受体与病毒的结合，可以破坏病毒的结构，减少病毒感染6。另外，泌乳期产妇乳腺组织含有大量IgA产生细胞，产妇可通过初乳将分泌型IgA传递给婴儿，这也是一种重要的自然被动免疫。所以IgA 浓度在一定程度上可以说明机体的免疫状态[7]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "关于β-胡萝卜素具有抗氧化性、提高动物免疫作用的研究报道很多，如在禽类、猫和狗等多种动物上的试验研究显示，β-胡萝卜素能够提高肌肉超氧化物歧化酶（SOD）的活性，增强其体内的多种免疫防御功能[8-10]，马思慧等[1研究表明，β-胡萝卜素能够增强免疫抑制小鼠血清内IgA浓度，但是，关于β-胡萝卜素对猪、牛等大家畜免疫功能影响的研究还不多。何文娟等[2在围产期奶牛饲粮中添加β -胡萝卜素极显著提高了围产期奶牛血清淋巴细胞的转化率，随着β-胡萝卜素添加量的增加，血浆中β-胡萝卜素和维生素A含量升高。Brief 等[13]发现，青年母猪每日每头注射 $3 2 . 6 ~ \\mathrm { m g }$ β -胡萝卜素可提高母猪血浆中β -胡萝卜素含量以及免疫球蛋白的浓度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在本试验中，半月组和一月组妊娠母猪粪便中β-胡萝卜素的含量，血清、乳汁中 IgA浓度均高于对照组，说明在饲粮中添加β-胡萝卜素可以提高妊娠母猪的免疫力。在母猪分娩后（第10\\~13 天)，对照组粪便中IgA 浓度明显升高，这可能与哺乳期母猪体内各种生殖、调控、应激激素释放有关，但在半月组和一月组中没有出现这个现象，在分娩前1周，半月组和一月组粪便中IgA 浓度高于对照组，而在分娩后，对照组粪便中 IgA 浓度却高于半月组和一月组，且对照组乳汁中 IgA 浓度均低于半月组和一月组，这可能是由于β-胡萝卜素的添加增加了母猪 IgA 向新生仔猪的转移，从而增强新生仔猪的免疫能力。日本京都大学Nishiyama 等[14-15]研究表明，在饲喂β-胡萝卜素的母鼠分娩后的小鼠胃内容物中，IgA的浓度也显著升高，同时在仔鼠的血清、粪便中IgA浓度在后来生长发育阶段也大大增加，说明对妊娠和泌乳的母鼠添加β-胡萝卜素增强了IgA从母体向新生儿的转移作用，本试验未采集仔猪样品，接下来将做进一步的试验验证这一结果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在妊娠母猪饲粮中添加适量的β-胡萝卜素，可以增加粪便中β-胡萝卜素含量，提高血清和乳汁中IgA浓度，增强母猪的免疫功能。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]KUME S,TOHARMAT T.Effect of colostral $\\beta$ -carotene and vitamin A on vitamin and health status of newborn calves[J].Livestock Production Science,2OO1,68(1):61-65.   \n[2] 蔡晓湛,贺银凤.β-胡萝卜素的研究进展[J].农产品加工学刊,2005(8):27-30.   \n[3] 维生素对猪繁殖机能的影响   \n[EB/OL].(2009-06-16).http://www.sdny.com.cn/xwxx_ xiangye.asp?id=89069&cid=&cnam=.   \n[4] 李彩容,金宇婷,华春珍.早期母乳中免疫球蛋白和补体含量动态观察[J].浙江预防医 学,2015,27(3):308-309,312.   \n[5]MACPHERSON A J,UHR T.Induction of protective IgA by intestinal dendritic cels carrying commensal bacteria[J].Science,2004,303(5664):1662-1665.   \n[6]GAN Y J,CHODOSH J,MORGAN A,et al.Epithelial cell polarization is a determinant in the infectious outcome of immuno-globulin A-mediated entry by Epstein-Barr virus[J].Journal of Virology,1997,71(1):519-526.   \n[7]YANG Y,YUAN Y J,TAO Y H,et al.Efects of vitamin A deficiency on mucosal immunity and response to intestinal infection in rats[J].Nutrition,2011,27(2):227-232.   \n[8] JOHNSON E J,QIN J,KRINSKY N I,et al. $\\beta$ -carotene isomers in human serum,breast milk and buccal mucosa cells after continuous oral doses of all-trans and 9-cis $\\beta$ -carotene[J].The Journal of Nutrition,1997,127(10):1993-1999.   \n[9]CANFIELD L M,GIULIANO A R,NEILSON E M,et al.Kinetics of the response of milk and serum $\\beta$ carotenetodaily $\\beta$ carotenesupplementationinhealthy,lactating women[J].American Journal of Clinical Nutrition,1998,67(2):276-283.   \n[10]韩瑞丽,李同树,李建群,等.β-胡萝卜素和 VE 对饲喂鱼油日粮鸡肉中脂肪酸组成及其氧 化稳定性的影响[J].西北农林科技大学学报:自然科学版,2006,34(11):47-50.   \n[11] 马思慧,杨欢,吴天成,等.β-胡萝卜素对免疫抑制小鼠免疫指标的影响[J].中国兽药杂 志,2014,48(7):10-14.   \n[12] 何文娟,孟庆翔,边四辈.围产期饲喂 ${ \\mathfrak { \\beta } }$ -胡萝卜素对奶牛免疫性能的影响[J].中国畜牧杂 志,2007,43(3):32-35.   \n[13]BRIEF S,CHEW B P.Effects of vitamin A and $\\beta$ -carotene on reproductive performance in gilts[J].Journal of Animal Science,1985,60(4):998-1004.   \n[14]NISHIYAMA Y,YASUMATSUYA K,KASAI K,et al.Effects of supplemental $\\beta$ -carotene with whey on IgA transfer from maternal milk and mucosal IgA induction in neonatal mice and calves[J].Livestock Science,2011,137(1/3):95-100.   \n[15]NISHIYAMA Y,SUGIMOTO M,IKEDA S,et al.Supplemental $\\beta$ -carotene increases IgA secreting cells in mammary gland and IgA transfer from milk to neonatal mice[J].British Journal of Nutrition,2011,105(1):24-30. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Effects of $\\beta$ -Carotene on Immunoglobulin A Concentration in Feces, Serum and Milk of Late-Pregnancy Sows ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xiaoyin JIYubin\\* LIYanqiang WUMin MA Sihui ZHENG Xin\\*\\*   \n(College ofAnimal ScienceandTechnology,JilinAgricultural University,Changchunl3Ol18,China) Abstract: This experiment was conducted to study the effects of dietary $\\beta$ -carotene on fecal $\\beta$ -carotene content and immunoglobulin A (IgA) concentration in feces, serum and milk of late-pregnancy sows. A total of 3O sows with the similar reproductive condition and the same parity were randomly divided into 3 groups with 1O pigs per group, which were fed for 6O days. The control group was fed a basal diet, and the half month group and one month group were fed the basal diet supplemented with $2 0 0 \\mathrm { m g / k g \\ \\beta }$ -carotene before expected date half month and one month, respectively. The fecal $\\beta$ -carotene concentration was tested by high performance liquid chromatography (HPLC),and enzyme-linked immunosorbent assay (ELISA) was used to detect the concentration of IgA in feces,serum and milk. The results showed that the most of fecal $\\beta$ -carotene contents in the half month group and one month group were significantly higher than those in control group（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ）.A week before delivery, the most of IgA concentrations in feces in half month group and one month group were higher than those in control group; but in ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "one week after delivery, the most of IgA concentrations in feces in half month group and one month group were lower than those in control group. In serum and milk, the IgA concentrations in the half month group and one month group were higher than those in control group except serum IgA concentration in one month group $( P { > } 0 . 0 5 )$ . In summary, $\\beta$ carotene can increase fecal $\\beta$ -carotene content and IgA concentration in serum and milk,and then enhance immune the function of late-pregnancy sows. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: $\\beta$ -carotene; late-pregnancy sows; HPLC; immunoglobulin A ",
+        "page_idx": 8
+    }
+]

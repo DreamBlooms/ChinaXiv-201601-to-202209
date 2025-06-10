@@ -1,0 +1,302 @@
+# 非洲开放获取科技期刊的发展一一以非洲期刊在线
+
+# （AJOL）平台及其刊物为例
+
+顾立平12，万益嘉12，李海博 1,2
+
+1中国科学院文献情报中心北京 100190  
+2中国科学院大学经济与管理学院图书情报与档案管理系 北京 100049
+
+摘 要：非洲地区是世界的重要组成之一，也是中国的重要国际合作伙伴。非洲许多国家和期刊出版社共同建设非洲期刊在线平台(AJOL)，它是全球科技信息开放获取的主要来源之一，本文采用文献综述和案例分析的方法，通过揭示AJOL的发展条件、平台管理和使用效益，为中国科技期刊的国际化提供案例，也可为我国科研人员提供国际科技合作、全球开放获取运动合作以及科技期刊合作的可能和机会。
+
+关键词：开放获取;科技期刊;科技信息;科学文化;国际合作;非洲科技
+
+中图分类号：G237.5文献标志码：A
+
+# Development of Africa Open Access Scientific Journal
+
+# -The case study of Africa Online Journal (AJOL) and its Journals
+
+Ku Liping12， Wan Yijia1,2， Li Haibo1,2
+
+1 National Science Library， Chinese Academy of Sciences, Beijing 100190 2 University of Chinese Academy of Sciences Economy and Management School Library Information and Archive Management Department, Beijing 100049
+
+# Abstract:
+
+Africa is an important part of the world and is also the important international colaboration partner of China. There are many countries and/or publishers in Africa build up the Africa Online Journal (AJOL), which is one of the main source of global open access scientific information. By using literature review and desk research, this study reveals its development conditions, platform management, and usage benefit, in order to provide references for the international development of Chinese S & T journals,and the opportunities and chances for Chinese researchers to build international collaboration on scientific and technology research, global open access movement, and journal development..
+
+Key words: Open Access; Science and Technology Journal; Science and Technology Information;   
+Scientific Culture; International Collaboration; Africa Science and Technology.
+
+# 1、引言
+
+长期以来，非洲的科技期刊存在利用率低、价值低、引用不足等问题；与之相反，非洲各国又存在强烈创办科技期刊以及发表学术论文的需求[。互联网是改变这一状况的最佳途径，然而，非洲学术出版社的发展仍然受限于资金资源短缺和数字化鸿沟。全球开放获取运动对于非洲科技期刊出版产生了巨大影响。对于发展中国家的科研人员而言，开放获取同时解决了两个问题：（1）他们的研究成果对其他地区的科研人员更加可见；（2）更容易获得其他地区的科研成果。如果广泛采用开放获取模式，可以提高整个国家科研成果的知名度。经过几十年的努力，一个总部设在南非的非营利组织—一非洲期刊在线（AfricanJournals Online，AJOL）平台成立了。AJOL由非洲高等教育、科研出版和大学图书馆管理委员会监管，收藏了非洲出版的经同行评议的500多种电子学术期刊（图1？），内容涉及非洲研究以及探讨非洲地区的卫生、农业等科技领域（图2？）。AJOL为非洲科研人员发表与获取学术论文提供了一个良好的平台。
+
+AJOL主要托管在非洲出版的有价值的同行评议学术期刊，与其合作的学术期刊覆盖所有学术领域；它的愿景是转化学术能量来发展非洲，以及提高非洲出版物的知名度、浏览量和使用量，最终支持高质量的非洲研究和高等教育[2]。AJOL主要解决了如下问题：（1）发达国家的出版物不一定涵盖非洲的重要研究领域或者非洲人十分关心的问题；（2）非洲国家需要集体在全球学术交流环境中发挥更大的作用；（3）非洲的科研人员需要获取他们自己的学术出版物。而AJOL对于世界其他国家科研人员的意义在于：（1）通过互联网提供非洲的信息；（2）了解非洲的真实情况以及非洲科研人员所关心的当地问题。
+
+![](images/dbc6ed6f22c051a421cdb707ff9e28d305fd7aa3a54ce032cdb3859b26907f0a.jpg)  
+图1AJOL的国家和期刊数量（2020）
+
+![](images/3d7578c748a4555d7d5d967f8e3d33cfbaa5d8ff1c46859cec19237a53d01c1e.jpg)  
+图2AJOL的学科分类和期刊数量（2020）
+
+AJOL是全球科技信息开放获取的主要来源之一，非洲大陆横跨57个国家，AJOL包括了其中32个国家526种学术期刊。如何在这复杂多变的环境下治理这些学术期刊？其出版、检索和下载服务是如何做到的？AJOL的运营对我国科技期刊的发展有何借鉴之处？本文通过文献综述和案例分析的方法，重点专注了以下几个问题：（1）非洲期刊在线的发展条件和制约限制是什么？（2）非洲期刊在线的期刊管理和读者服务有哪些？（3）非洲期刊在线的用户以及使用效果是什么？
+
+# 2.分析架构
+
+本文旨在引介和分析AJOL平台，AJOL平台是非洲研究的工具平台、非洲学术期刊的集成者以及非洲本地科研人员发表科研成果的平台。当前，非洲经济和科技正处在转型期[3]，联合国教科文组织与非洲多数国家政府制定的可持续发展目标（SDGs）[4以及非洲国家联盟对内是各个国家团体组织而成，对外又是一个整体处于世界舞台的双重角色[5]。了解AJOL的发展背景有助我们理解AJOL平台的机制及服务。
+
+根据研究的三个问题，我们聚焦在该平台的六个构面，如图3所示。此外，为深入了解AJOL的历史背景、平台方案及其刊物个案，需要大量解读官方文件以及部分刊物的论文或者摘要。因此，了解非洲知识分子口中的创新含义以及区域一体化的理念[是有必要的；同时从非洲人的视角去理解长期存在的非殖民化和去殖民化的意识形态[7]，也有助于我们进一步读懂AJOL官方文件和档案记录中文字章句之间的深层含义。
+
+![](images/bee4f72fdf541aa4f4855cd411a43a0f3ca81eb70732126ec8aaf6b138b2ddf5.jpg)  
+图3非洲科技期刊出版与传播的分析框架
+
+# 3.分析结果
+
+# 3.1．非洲期刊在线的发展条件与限制。
+
+非洲科技期刊的发展如同所有其他地区一样，都离不开当地的科技人才和科研成果，以及合适的经济运营模式、信息技术应用等条件。对于非洲科技期刊而言，还有一项更为纠结的是多语主义（Multilingualism）的争论和期刊语种问题。简言之，并非“母语”、“英语”、“母语-英语”的选择题，而是目前只有“外语（官方语）”、“外语（官方语）-英语”、“（官方语之一是）英语”、的选择。
+
+许多非洲国家没有提出文化出版（图书）政策，也未正式定义语言政策，即使有，也是推广英文或者法文而不是非洲语言，孩子们用母语发音学习这些第二外语很多年之后，形成在脑海中的翻译机制；既不完全是英文思维，也不完全是母语思维；许多非洲精英认为，多语主义会阻碍经济社会发展，更倾向于欧语化，但是社会语言学家和教育学家则认为多语环境才是真正强而有力的资源[8]。这样一种矛盾，具体显示为：历来得奖的非洲文学都不是用非洲语言写成的[9]。
+
+理解这一背景，就不难理解AJOL为何多数是英语期刊和法语期刊（葡萄牙语期刊仅有一份）；以及，有大量本土非洲期刊可能因为表述逻辑、刊物质量水平、刊行内容或者其他原因没有受到AJOL编纂索引。
+
+事实上，像AJOL的平台，最早也是英国牛津的一间非营利组织所发起，之后管理层转移转交给南非的另一所非营利组织[10]。在2004年、2009年进行过两次系统更新换代，成为一半以上刊物均为开放获取期刊的出版传播平台。（见表1）
+
+表1AJOL的历史  
+
+<html><body><table><tr><td>时间</td><td>事件</td><td>意义</td></tr><tr><td>1998年5月</td><td>英国INASP管理（非营利组织，国际科学出 版物可得性网络）在互联网上提供目录 (toc）</td><td>启动项目</td></tr><tr><td>1999年11月</td><td>项目评估后，决定扩大规模。</td><td>增加学科领域的期刊以及论 文摘要。</td></tr><tr><td>2000年8月</td><td>重新推出新的界面以及两大服务：在标题进 行关键词搜索、复印文件传递。</td><td>收录了50种非洲出版的英文 期刊</td></tr><tr><td>2001年至 2002年间</td><td>成员增加南非、非洲的法语国家，以及其他 非洲区。</td><td>扩大至多数非洲国家 扩大至期刊论文、图书。</td></tr><tr><td>2003年底</td><td>成员来自21个非洲国家; 提供期刊提供目录和摘要（包括法文摘要）。</td><td>增加国家、语种，以及摘要。</td></tr><tr><td>2004年3月</td><td>更新数据库系统，采用开放档案倡议 （OAI）建立索引，提供全球搜索。</td><td>接入国际为全球用户服务； 实现搜索引擎对元数据检索。</td></tr><tr><td>2005年</td><td>总部转移到南非，成为非营利组织。</td><td>实现非洲管理层。</td></tr><tr><td>2009年5月</td><td>网站提供下载功能。</td><td>实现立即下载论文。</td></tr><tr><td>2015年</td><td>成员来自31个非洲国家。 成为500多份同行评议期刊的主办单位。</td><td>跨国级别的科技期刊出版和 传播平台。</td></tr><tr><td>2019年6月</td><td>成为全球开放获取学术交流联盟的六家发起 单位之一。</td><td>参与和共同主导国际事务。</td></tr></table></body></html>
+
+\*本研究制作此表，数据来源：AJOL官网[11]和文献[12][13][14]；检索时间2020-07-06.
+
+早期African Journals Online的网址是www.inasp.org.uk与ScientificElectronic Library Online和Bioline Internatioinal同为寻找全球公共卫生与健康信息的重要信息源[15]。乌尔里希期刊目录（Ulrich’sPeriodicalsDirectory）和AJOL是采用文献计量研究非洲国家科研成果的重要信息源[16]；并且用作分析科研产出情况后的科技政策建议或者国际合作建议[17]。拥有可以查证的平台及其数据，对于非洲的部分国家以及非洲以外的国家的科研机构而言，都是十分有利的。因此，它争取到许多国际机构的援助与合作。（见表2）
+
+表2AJOL的合作者  
+
+<html><body><table><tr><td>单位</td><td>说明</td></tr><tr><td>Sida</td><td>瑞典国际开发合作署（Sida）是AJOL最大的捐助者。</td></tr><tr><td>INASP</td><td>英国INASP在通信、知识和网络领域，执行协助发展中国家和新兴国家的科 研信息计划。它是AJOL的创始者，并且持续保持长期合作。</td></tr><tr><td>PKP</td><td>加拿大的公共知识项目（PKP）旨在通过开发新的线上出版和知识共享环境 来提高学术研究的质量，为</td></tr><tr><td>Ford</td><td>美国福特基金会是2009年和2010年AJOL的主要捐助者，也是发展中国家 高等教育和国际合作的支持者。</td></tr><tr><td>WWS</td><td>世界科学联盟（WorldWideScience）通过提供全球科学资源的一站式搜索， 加速科学发现和进步；而AJOL是WWS的创始成员之一。</td></tr><tr><td>HINARI</td><td>世界卫生组织（WHO）主办的HINARI健康研究项目协助发展中国家的非 营利机构免费获得或者极低成本获得生物医学和社会科学主要期刊。它提高 AJOL的开放获取学术期刊合作伙伴的知名度。</td></tr><tr><td>CIARD</td><td>农业研究促进发展信息的一致性倡议（CIARD）努力使所有人都能公公共 访问和获得农业科研信息。</td></tr></table></body></html>
+
+\*本研究制作此表，数据来源：AJOL官网[18]；检索时间2020-07-06.
+
+随着经济社会发展，投资在高等教育的一部分成果会显示在学术论文上。如果在WoS搜索1980年至2004年间来自非洲科研成果，无论是国际期刊的主流科学，还是国家和区域期刊的本土科学，均在稳步上升，然而总体被引程度较低，只不过国际合作的研究论文的影响力较高。值得注意的是，一些南非期刊，如《Quaestiones Mathematicae》、《South African Forestry Journal》、《Philosophical Papers》等，没有被国际文摘索引所收录，但是却被国际科研社群所关注。由此，引发了是否建立”非洲引文索引“（AfricanCitationIndex）来促进非洲科学以及基于期刊的信息系统的讨论[19]。在非洲，也有很多学者呼吁真正需要改变的还是增加知识生产，他们从AJOL的进行分析，除了呼吁政府资助，也提倡多写多作的策略[20]。至少，在2008年至2015年间，AJ0L收录的期刊数量从300增长至500多份。AJOL既有编篡索引的责任，也有推广学术研究及其写作的服务，在这一方面，它推广了国际学术交流的一些标准规范。（如表3、表4)
+
+表3AJOL引导科研人员寻找课题资源和开展研究的举措  
+
+<html><body><table><tr><td>机构</td><td>用途</td><td>网址</td></tr><tr><td>CODESRIA</td><td>非洲社会科学研究发展理事会， 支持泛非领域的社会科学研究。</td><td>https://www.scidev.net/global/</td></tr></table></body></html>
+
+<html><body><table><tr><td>Sup-Numerique（法 国文化协会支持）</td><td>科学和发展网络，关注发展中国 家的科学、技术、新闻、观点和信息</td><td>http://www.sup-numerique.gouv.fr/</td></tr><tr><td>全球农业在线研究 (AGORA)</td><td>通过Research4Life为选定国家提 供免费或低成本的国际农业期刊 获取</td><td>https://www.africaportal.org/publications/</td></tr><tr><td>HINARI Program</td><td>世卫组织与主要出版商共同设立 使中低收入国家能够获取生物医 学和卫生文献的项目。</td><td>https://www.who.int/hinari/en/</td></tr><tr><td>OARE</td><td>联合国环境规划署（UNEP）、耶 鲁大学和科技出版商组成的国际 组织，使发展中国家能够获得环 境科学研究文献。</td><td>https://www.oaresciences.org/</td></tr><tr><td>ARDI</td><td>世界知识产权组织（WIP）与出 版业伙伴发起的ARDI计划旨在 增加发展中国家的科技文献获取。</td><td>https://www.wipo.int/ardi/en/</td></tr><tr><td>ADL</td><td>非洲数字图书馆（ADL）旨在通 过互联网提供数字化全文文献， 从而促进非洲大陆教育和终身学 习的振兴，并缓解第一世界和第 三世界国家之间的数字鸿沟。</td><td>http://www.africandl.org.za/</td></tr><tr><td>JSTOR</td><td>从世界各地收集的有关非洲的数 据。（对来自非洲地区的网域的用</td><td>https://www.aluka.org/struggles https://www.aluka.org/heritage</td></tr><tr><td>AfricaPortal</td><td>户是免费获取) 非洲的政治研究的出版物的集成 门户。</td><td>https://www.africaportal.org/publications/</td></tr><tr><td>Bioline</td><td>非洲的非盈利期刊集成商提供开 放获取（免费全文）的生物医学 期刊（发展中国家的科研成果）。</td><td>http://www.bioline.org.br/</td></tr><tr><td>Science in Africa</td><td>非洲第一本线上科技杂志（科普 类期刊)</td><td>http://www.scienceinafrica.com/</td></tr><tr><td>Africa Study</td><td>美国哥伦比亚大学出版的非洲研 究期刊</td><td>https://library.columbia.edu/libraries/global /africa.html</td></tr><tr><td>Amedeo</td><td>医学期刊指南</td><td>https://amedeo.com/about.php</td></tr><tr><td>Free Medical Journal</td><td>免费获取的医学期刊（英文、法语、 西班牙语、葡萄牙语)</td><td>http://www.freemedicaljournals.com/</td></tr></table></body></html>
+
+\*本研究制作此表，数据来源：AJOL官网[21]；检索时间2020-07-06.
+
+尽管一直倡导国际合作，但是在2015年前后，学者通过AJOL和WoS进行分析，认为加大国际影响力（可见度和被引率）的普遍做法还是通过专业领域内的非洲内外合作。例如，从1996到2015年间，在WoS所收录的图书馆和信息科学领域（Library and Information Science）中，只有4. $4 3 \%$ 的作者来自非洲，仅有8. $1 6 \%$ 份论文在非洲出版。每年只有0.67的篇均被引率。在非洲内部的机构间合作较为普遍；如果是非洲内部与国际合作并且发表在非洲以外的出版物，则被引较高[22]。综上所述，AJOL目前成为了出版平台（投稿、审稿、数字化、网络化）、服务平台（索引、检索、下载、推广）以及为科研、科研人员的写作、国际可见度等的传播平台。
+
+# 3.2．非洲期刊在线的平台服务与管理
+
+AJOL是一个非盈利组织，每年接受捐款，每年接受审计，在2019年由E&Y独立评估机构评估各项捐赠直接为非洲人民与全球读者分享科研成果做出贡献。它所使用的信息基础设施大多为开源软件，如表4所示。基于开源软件程序和技术的AJOL系统，用户前端（科研人员）可以在线浏览和搜索数据库内容），管理前端（期刊编辑）可以通过登录后管理数据库中的期刊。但它使用的“反木马软件”则来自商业公司[23]。该软件公司提供免费版、企业版等不同版本，语种包括英语、法语、葡萄牙语等，也被AJOL推荐给非洲期刊出版社。
+
+表4AJOL的信息技术是开源软件的应用[24]  
+
+<html><body><table><tr><td>软件</td><td>说明</td></tr><tr><td>OJS</td><td>加拿大“公共知识项目（Public KnowledgeProject,PKP）”开发开源的开 放期刊系统</td></tr><tr><td>PHP</td><td>网页脚本语言</td></tr><tr><td>SQL</td><td>数据库管理系统</td></tr><tr><td>Apache</td><td>网络服务器</td></tr><tr><td>Linux</td><td>操作系统</td></tr></table></body></html>
+
+早期非洲特别缺乏期刊和同行评议的基础设施以利文化发展和科技进步[25]。目前AJOL除了作为基础设施提供服务之外，已从两方面进行弥补，一是提高期刊收录要求以及参考指南（表5），二是提供学术不端的检测工具（表6）和信息。
+
+AJOL的期刊收录标准是要求期刊[26]（1）出版学术内容；（2）出版原创的科研论文；（3）内容必须经过同行评审和质量控制；（4）具有发挥功能的编辑委员会；（5）所有被列为编辑委员会和任何咨询委员会的成员，姓名、机构、联系方式准确详细。AJOL要求所收录的期刊，需要提供该刊的《作者指南》并且满足“全面、详细、准确地解释该刊的同行评议和质量控制流程”的要求，具体细节包括：（1）同行评议的类型；（2）实施同行评议的角色和责任；（3）审稿人的来源；（4）同行评议程序的每一步骤，以及（5）期刊检测剽窃的方法。此外，它们建议非洲出版的学术期刊参考加拿大的公共知识项目（PKP）提供的《在非洲创办新刊》指南[27]，并且参考国际标准。
+
+截至2018年在AJOL可用的学术期刊中，已有21份期刊采用D0I对其出版的学术论文进行标识[28]。包括其他国际标识在内，正在非洲的出版社推广。
+
+表5AJOL建议期刊采用的国际标准[29]  
+
+<html><body><table><tr><td>标准</td><td>说明</td></tr><tr><td>数字资源唯一标识 (DOI)</td><td>用于识别数字（内容）对象，充当一个URL允许用 户在互联网上寻找经常变换URL的数字对象。</td></tr><tr><td>ISSN国际中心</td><td>登记注册出版物以及提供唯一标识。</td></tr><tr><td>出版伦理委员会（COPE）</td><td>负责处理可能违反研究和出版伦理的行为</td></tr></table></body></html>
+
+<html><body><table><tr><td>非洲图书集成（AfricanBooks Collective, ABC)</td><td>旨在提高非洲出版物的知名度和可获取程度，提供 “按需打印”服务。</td></tr><tr><td>世界医学期刊编辑协会（WAME）</td><td>促进同行评审医学期刊编辑之间的国际合作。</td></tr><tr><td>国际医学期刊编辑委员会 （ICMJE)</td><td>同上</td></tr><tr><td>ResearchGATE</td><td>在线社交网络平台，科研人员可以组建小组、上传论 文、寻找工作、查找会议信息，使用自存储库并且相互 联系。</td></tr><tr><td>(Organization for the Advancement</td><td>提供关于所有事物的信息，包括开放存取的概念、原 则、优势、实现方法和手段。该网站重点介绍了来自世 界各地的发展和倡议，并提供了各种额外资源和案例 研究的链接。</td></tr></table></body></html>
+
+检测和防止剽窃是许多非洲教育工作者和期刊编辑关心的问题，而AJOL认为互联网上的许多工具可以用来防止剽窃（表6）；并且，需要引导作者（表7）以及引导期刊引导作者从事正规规范的科研伦理和学术出版。
+
+表6AJOL引导科技期刊发现和防止剽窃  
+
+<html><body><table><tr><td>机构</td><td></td><td>网址</td></tr><tr><td>剽窃门户 （Plagiarism Portal)</td><td>Wits 大学图书馆网站上，提供剽 窃定义、风格和检测软件的链接。</td><td>https://libguides.wits.ac.za/plagiarism_citation</td></tr><tr><td rowspan="3">HelioBLAST 测试剽窃的文本的网址。 Grammarly</td><td rowspan="3">（AJLO发布这些有间接宣告不 要剽窃抄袭的含义）</td><td>https://helioblast.heliotext.com/</td></tr><tr><td>https://www.grammarly.com/plagiarism-</td></tr><tr><td>checker https://en.wikipedia.org/wiki/Compari son_of_anti-plagiarism_software</td></tr><tr><td>剽窃抄袭的软件 列表 CrossRef</td><td>协助出版商验证学术内容原创性</td><td>http://www.crossref.org</td></tr><tr><td>毒蛇（Viper)</td><td>的“CrossCheck"服务。 免费下载的反抄袭和检测工具。</td><td>http://www.scanmeyssay.com/</td></tr></table></body></html>
+
+\*本研究制作此表，数据来源：AJOL官网[30；检索时间2020-07-06.
+
+表7AJOL引导科研人员正确认识论文的举措  
+
+<html><body><table><tr><td>机构</td><td>用途</td><td>网址</td></tr><tr><td>ThinkCheckSubmit</td><td>确认投稿前的每个细节。</td><td>https://www.thinkchecksubmit.org</td></tr><tr><td>Plagiarism Tutorials</td><td>避免剽窃、抄袭、不当引用。</td><td>https://libguides.wits.ac.za/plagiari sm_citation_and_referencing/Plagi arism_Tutorials</td></tr><tr><td>Kudo</td><td>科研成果（论文）推广与追踪。</td><td>https://www.growkudos.com</td></tr><tr><td>AuthorAID</td><td>专为非洲科研人员提高写作水平。</td><td>https://www.authoraid.info/en/</td></tr><tr><td>Equator Network</td><td>公共健康研究的指南。</td><td>http://www.equator-network.org/</td></tr><tr><td>ARRIVE</td><td>动物研究的指南。</td><td>https://www.nc3rs.org.uk/arrive-</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td>guidelines</td></tr></table></body></html>
+
+\*本研究制作此表，数据来源：AJOL官网[31]；检索时间2020-07-06.
+
+AJOL为每个参与期刊提供[32]：（1）免费在AJOL上的期刊主页（包括联系方式、编辑信息和作者说明）；（2）免费元数据托管；（3）免费全文托管（如果是开放获取期刊则提供用户下载pdf论文的功能），每月超过十万名世界各地科研人员的潜在额外收入（如果是订阅型期刊）；以及（4）期刊内容加载到AJOL网站的加工（目前是AJOL员工完成，但是鼓励出版社或者编辑自己掌握这一进程的所有权和控制权）。
+
+在经营策略上，AJOL除了作为开放获取期刊的集成发布者，它也兼任订阅型期刊的集成商，会根据用户注册、用户的IP位址，基于订阅期刊价格，以及按照国家区域的类别收取费用。
+
+表8AJOL提供订阅期刊论文的收费标准（终端用户）  
+
+<html><body><table><tr><td>国家区域的类别*</td><td>交付方式</td><td>美元结算</td></tr><tr><td>低收入国家</td><td>每月配额3份免费</td><td>0</td></tr><tr><td>中等偏下收入国家</td><td>AJOL补助</td><td>9</td></tr><tr><td>中等偏上收入国家</td><td>AJOL补助</td><td>15</td></tr><tr><td>高收入国家</td><td>全价</td><td>27</td></tr></table></body></html>
+
+\*国家区域的类别，按照世界银行的划分标准[33]。
+
+表9AJOL提供订阅期刊论文的收费标准（图书馆）[34]  
+
+<html><body><table><tr><td>国家区域的类别</td><td>25篇</td><td>50篇</td><td>100篇</td><td>250篇</td></tr><tr><td>低收入国家 教育机构图书馆</td><td colspan="4">每月最多12篇免费论文。如果超过，将鼓励用中等偏下收入国家的收费 标准购买一套预付费的服务，以增加配额。</td></tr><tr><td>中等偏下收入国 家</td><td>218美元（每篇 8.7美元）</td><td>413美元（每篇 8.25美元）</td><td>788美元（每篇 7.875美元）</td><td>1875美元（每篇 7.5美元）</td></tr><tr><td>中等偏上收入国 家</td><td>360美元（每篇 14.4美元）</td><td>705美元（每篇 14.1美元）</td><td>1350美元（每篇 13.5美元）</td><td>3225美元（每篇 12.9美元）</td></tr><tr><td>高收入国家</td><td>652美元（每篇 26.1美元）</td><td>1275美元（每篇 25.5美元）</td><td>2475美元（每篇 24.75美元）</td><td>6000美元（每篇 24美元）</td></tr></table></body></html>
+
+如前所述，AJOL原是为了收集整理非洲出版社的期刊目录，以及为非洲提供纸质版本的传递服务，并且成为重要的非洲科技的信息源3。后来，依托互联网发展和开放获取运动，逐步发展提供出版服务和检索下载服务。因此，近期AJOL也为非洲期刊推荐全球开放获取运动以及开放获取出版的经营案例。
+
+表10AJOL引导科技期刊理解开放获取和理解知识产权  
+
+<html><body><table><tr><td>机构</td><td>用途</td><td>网址</td></tr><tr><td>PeterSuber的个人 博客</td><td>全面概述开放获，提供开放获取 的开放获取专著以及相关链接。</td><td>http://www.earlham.edu/~peters/fos/overvi ew.htm</td></tr><tr><td>学术出版和学术资 源联盟（Scholarly</td><td>开放获取期刊出版的资源索引 开放获取收入模型</td><td>https://sparcopen.org/what-we-do/popular resources/</td></tr></table></body></html>
+
+<html><body><table><tr><td>Publishing and Academic Resources Coalition, SPARC)</td><td></td><td>https://sparcopen.org/wp- content/uploads/2016/01/incomemodels_v1 .pdf</td></tr><tr><td>开放获取出版商协 会（Open Access Scholarly Publishers' Association, OASPA)</td><td>代表全球开放获取期刊出版商在 科学、技术和学术领域的利益。</td><td>https://oaspa.org/</td></tr><tr><td>开放社会学院 (Open Society Institute )</td><td>开放获取的经营（商业）模型</td><td>https://www.budapestopenaccessinitiative.o rg/pdf/oaj_supplement_0703.pdf</td></tr><tr><td>开放获取期刊目录 (DOAJ)</td><td>符合开放获取期刊的特征的遴选 指南</td><td>https://www.doaj.org/application/new</td></tr><tr><td>非洲知识产权组织</td><td>国际、地区和南非版权及相关问题 的有用指南</td><td>https://libguides.wits.ac.za/c.php? g=145331&p=953515</td></tr></table></body></html>
+
+\*本研究制作此表，数据来源：AJOL官网[36；检索时间2020-07-06.
+
+综上所述，AJOL不仅仅是一种目录、检索或者出版的系统平台，更重要的是多元化经营模式，既有开放获取出版，也有订阅期刊论文获取折扣，最重要的是它还肩负推动非洲科研水平提升和科技论文水平提升的角色。
+
+# 3.3．非洲期刊在线的使用案例与成果
+
+截至目前为止，非洲期刊在线（AJ0L）主办了526份期刊，包括265种开放获取期刊；该网站有14985期，收录181861篇摘要，有175720篇全文可供下载，其中115070篇是开放获取[37]。在建立AJOL平台数年之后，非洲期刊在线（AJOL）和INASP在2019年推动《期刊出版实践与标准（JPPS）框架》[38]；旨在强化过程质量管理及其透明度，进一步增加所发表的科研成果的可信度。它在2018年开始用于评估在AJOL上的期刊，每份期刊都被六个级别划分，以区别和了解这些期刊需要进行哪些方面的改进。随着期刊论文的逐年增加，以及研究水平的逐步进步。AJOL渐渐产生以下几种使用成效。
+
+AJOL补充现有专业数据库的数据不全的问题。学者指出纯粹使用WoS无法准确反映世界各地，包括南非在内的国家，在入侵生物学（invasion biology）方面的研究和科研成果[39]。许多科研人员结合包括AJOL在内的各种数据库，开展荟萃分析和后设研究，例如，有人利用PubMed，Webof Science，Scopus,AJOL，Wiley Online Library和Google Scholar研究糖尿病和生活障碍[40]。有人利用PubMed，Google Scholar， Science Direct，Africa Index Medicus,Excerpta Medica Database,Cochrane Library databases和AJOL研究东非和中非围产期室息的患病率[41]。有人利用PubMed，EMBASE,Web of Science，GlobalIndexMedicus和AJOL研究乙型肝炎病毒（HBV）和人类免疫缺陷病毒（HIV）混合感染的流行率，以及城乡差距上的情况[42]。这些研究普遍需要较为全面的数据，或者从文献之中采集统计数据，所以AJOL就作为不可缺乏的数据来源。
+
+AJOL支持非洲本地的各种研究。例如在公共卫生领域，有人研究急性呼吸道感染的病死率和病毒病因[43]；有人研究热带和亚热带地区的血吸虫病和公共卫生[44]。在农业生态领域，中非一项合作研究，就采用ScienceDirect，PubMed,Google Scholar和AJOL的数据，进行非洲野生和家养动物中囊性包虫病（Cystic echinococcosis，CE）的流行和分布的研究[45]。
+
+AJOL能够支持全球的、本地的社会议题研究。例如有人研究低收入和中等收入国家儿童死亡率预测[46]。有人使用PubMed，Sciences direct，Index Medicusfor WHO，AIM(African Index Medicus)和AJOL的数据，进行患癌的阿拉伯妇女的生活质量研究[47]；有人根据同样的数据来源研究喀麦隆成年市民的糖尿病患病率[48]。
+
+AJOL能够支持全球视角下的区域性科技发展分析。例如，有人利用AJOL分析尼日利亚的神经肿瘤研究发展水平和潜力[49]。有人研究非洲国家实施抗菌药物的管理[50]。有人从AJOL中研究134份健康医疗领域的学术期刊，其中有65份开放获取期刊（尼日利亚22份南非18份、埃及6份），从2010到2015年的被引总量而言，开放获取期刊的贡献（34600篇 $7 7 . 5 \%$ ）高过订阅型期刊（10050篇$2 2 . 5 \%$ ），开放获取期刊的篇均被引（1.97）高过订阅型期刊（1.75）［51]。
+
+综上所述，AJOL能够支持荟萃分析和后设分析，对于全球范围，或者非洲地区，或者非洲某一国家地区，进行综述和概览。它能够支持人们了解非洲在地需求、非洲科技水平、非洲科技与社会发展，提供有力支撑。
+
+# 4.结语：
+
+长期以来，人们讨论科技期刊的发展，更多是跟踪、参考和借鉴来自欧美国家的案例，或者是顶级期刊如《Nature》和《Science》等，或者是出版集团Reed-Elservier和Wiley等，鲜少有人关注到第三世界国家的案例。然而，从科技期刊发展的地缘政治和传播市场的角度，类似东南亚、中东和非洲等地，在科技水平不如发展中国家的情况下，经济水平逐渐追赶的时期，该国该地区的科技期刊反而更需要在欧美资本主义发展道路之外，另择其他社会主义发展的可能，另觅在优秀体制下的出版集团的合作。因此，了解他们更有助于我们反思自身发展并且找寻与之合作的契机。
+
+非洲科技期刊的国际化发展的经验启示：
+
+（1）依托科技期刊出版与传播平台（AOJL）。该平台的总部原在英国伦敦，后转移至南非Makhanda马克汉达（原Grahamstown格拉罕镇），现管理层来自南非和其他非洲国家的出版行业。它们从接收指导、到引入国际标准和Know-How（做法），到独立自主实现出版服务、检索下载服务、推动科研和科研成果发表的经验道路值得了解。
+
+（2）代表非洲参与（出版界的）国际事务。该平台拥有来自32个国家的526种期刊，集中管理和提供出版服务，作为国际期刊出版伦理委员会（COPE）的成员；作为CrossRef的理事会成员；作为非洲图书馆和信息协会和研究所（AfLIA）的成员；作为开放获取期刊列表（DOAJ）合作伙伴；代表SPARC非洲。而且，在2019年共同组织起全球开放获取学术交流联盟。
+
+（3）多元化经营管理。既有对于开放获取期刊的收录要求和标准，也有对于订阅型期刊的论文收费的明确标准。
+
+非洲科技期刊平台的资源价值：（1）它集成了绝大多数来自非洲本地的科研成果。（2）它作为一个重要的科技成果来源，与许多其他数据库一并成为研究全球范围内的地区、学科、主题研究的重要参考。（3）它的数量和质量还在增长。
+
+非洲期刊在线（AJOL）汇总了来自撒哈拉以南的非洲32个国家的525种定期学科和多学科期刊，其中大多数来自尼日利亚（222家）、南非（96家）和埃塞俄比亚（30家）。在葡萄牙语为官方语言的非洲国家中，仅收取了莫桑比克的一份期刊。该数据库并没有收录所有非洲期刊，尤其是北非的任何期刊，北非是一个在信息科学方面有着广泛历史的地区；因此，AJOL对于撒哈拉以南非洲任何知识领域的研究都具有代表性，因为它所覆盖的一些国家的期刊很少或者无法在主要的国际数据库中被编制索引[52。此外，因为语种多元、文化多样、期刊丰富，因此本研究尚未全盘逐一了解非洲开放获取期刊的各个案例和细节，仅提出代表性的AJOL平台及其部分期刊和少数论文。在使用本文内容进行关于非洲科技发展的推论时，需要注意上述细节。有鉴于此，未来本研究将持续开展非洲科技期刊的典型案例、国家级科技期刊出版传播平台的比较、全球开放获取运动造成区域性科技期刊发展变化等方面的研究。
+
+如今，文化软实力在国际竞争中占据着越来越重要的地位，中央一再提出对外“讲好中国故事，传递中国声音”，目前已有推动中国图书馆文化对非“走出去”战略的声音[53。国际出版合作，也有中非合作的积极成效[54。那么，中国科技期刊是否也应发起“走出去”的思考？尤其是，当“倡导非洲之声（the AfricanVoice）的诉求不断响起”之时[5s，我们或许可以稍作倾听，甚至协助他们，使之更同意中国之声。是以为文，仅供参考。
+
+# 参考文献：
+
+[1] Murray S., Clobridge A.The Current State of Scholarly Journal Publishing in Africa[EB/OL].   
+[2020-07-14].https://www.ajol.info/public/Scholarly-Journal-Publishing-in-Africa-Report-Final  
+v04c.pdf.   
+[2] African Journals Online.About AJOL[EB/OL].[2020-07-   
+14]https://www.ajol.info/index.php/ajol/about-AJOL-African-Journals-Online   
+[3] Carlos Lopes C.. Africa in Transformation: Economic Development in the Age of   
+Doubt[M].Berlin: Springer International Publishing,2019. [4] Ramutsindela M., Mickler D..Africa and the Sustainable Development Goals[M].Berlin:   
+Springer International Publishing,2020.   
+[5] Amah O.E..Globalisation and Leadership in Africa: Developments and Challenges for the   
+Future[M].Berlin:Springer International Publishing,2019. [6] Oloruntoba S.O., Muchie M.. Innovation, Regional Integration,and Development in   
+Africa[M].Berlin: Springer International Publishing,2019.   
+[7] Manthalu C.H., Waghid Y..Education for Decoloniality and Decolonisation in Africa[M].Berlin:   
+Springer International Publishing,2019. [8] Zell H.M.Publishing in African Languages: A Review of the Literature[J]. African Research and   
+Documentation,2018,132:3-90. [9] Dyssou N.. An Interview with Ngugi wa Thiong'o'[EB/OL].[2020-07-   
+14].https://www.pennreview.org/an-interview-with-ngugi-wa-thiongo. [10] Smart P.African Journals OnLine (AJOL)[J]. Serials Review, 2005,31:261-265. [11] African Journals Online.History of AJOL[EB/OL].[2020-07-14]   
+.https://www.ajol.info/index.php/ajol/how-authors-can-use-AJOL   
+[12] Carol P..African Journals OnLine (AJOL)[J].Interlending and Document Supply,2002,30:2. [13] Lindsay E.B.. African Journals Online[J].Reference Reviews,2002,16:6.   
+[14] Lindsay E.B.. African Journals Online[J].Online Information Review,2002, 26:6.   
+[15] Fiona G., Richard H., Richard S..Global information flow[J]The Lancet, 20O0,356:1129. [16] Oyewusi F.O..School library research in Nigeria Content analysis of Nigerian School Library Journal 1979-2010[J].Library Review, 2012,61(3):215-230.   
+[17] Chiemeke S., Longe O.B., LongeF.A. et al.Research Outputs from Nigerian Tertiary Institutions:An Empirical Appraisal[J] Library Philosophy and Practice, 2009,1:1-10.   
+[18] African Journals Online. AJOL's Partners[EB/OL].[2020-07-   
+14].https://www.ajol.info/index.php/ajol/AJOL-partners   
+[19] Tijssen R.J..Africa's contribution to the worldwide research literature: New analytical perspectives, trends,and performance indicators[J].Scientometrics,2007,71(2):303-327. [20] Paulos A..Library resources, knowledge production,and Africa in the 21st century[J].The International Information and Library Review, 20o8,40:251-256.   
+[21] African Journals Online.Other Resources for Researchers[EB/OL].[2020-07-14]   
+https://www.ajol.info/index.php/ajol/resources-for-researchers   
+[22]Asubiaro T.. How collaboration type, publication place, funding and author's role afect citations received by publications from Africa: A bibliometric study of LIS research from 1996 to 2015[J].Scientometrics, 2019,120:1261-1287.   
+[23] Navigation.Spybot- Search & Destroy[EB/OL].[2020-07-14]https://www.safer  
+networking.org/products/   
+[24] African Journals Online.AJOL's system is entirely based on Open Source software programmes and technologies[EB/OL].[2020-07-14].https://www.ajol.info/index.php/ajol/howauthors-can-use-AJOL   
+[25] Stephanie K.. Journal and Book Reviews: The experience of African Books Collective [J]African Research and Documentation, 2007,102:23-30.   
+[26] African Journals Online.Resources for Journals[EB/OL].[2020-07-14]   
+https://www.ajol.info/index.php/ajol/resources-for-journals   
+[27] Stranack K..Starting a New Scholarly Journal in Africa[EB/OL].[2020-07-14]   
+https://pkp.sfu.ca/files/AfricaNewJournal.pdf   
+[28] Fasae J.K.. Oriogu C.D.. Digital Object Identifier and their Use in Accessing Online Scholarly Materials in Africa[J]. Library Philosophy and Practice (e-Journal), 2018:   
+https://digitalcommons.unl.edu/libphilprac/1785   
+[29] African Journals Online.Resources for Journals[EB/OL].[2020-07-14]   
+https://www.ajol.info/index.php/ajol/FAQ   
+[30] African Journals Online.Resources for Journals[EB/OL].[2020-07-14]   
+https://www.ajol.info/index.php/ajol/resources-for-journals   
+[31] African Journals Online.Other Resources for Authors[EB/OL].[2020-07-   
+14].https://www.ajol.info/index.php/ajol/resources-for-authors   
+[32] African Journals Online.Resources for Journals[EB/OL].[2020-07-14]   
+https://www.ajol.info/index.php/ajol/resources-for-journals   
+[33] The World Bank.World Bank Country and Lending Groups [EB/OL].[2020-07-   
+14].http://data.worldbank.org/about/country-classifications   
+[34] African Journals Online.How Librarians can use AJOL[EB/OL].[2020-07-14]   
+https://www.ajol.info/index.php/ajol/how-librarians-can-use-AJOL   
+[35] Rosenberg D..African Journals Online: improving awareness and access[J].Learned Publishing, 2002,15:51-57.   
+[36] African Journals Online.Resources for Journals[EB/OL].[2020-07-14]   
+https://www.ajol.info/index.php/ajol/resources-for-journals   
+[37] African Journals Online. Main Page of AJOL[EB/OL].[2020-07-   
+14J.https://www.ajol.info/index.php/ajol/ [38] AJOL,INASP.Journal Publishing Practices and Standards (JPPS) Framework[EB/OL].[2020-07- 14]https://www.journalquality.info/en/   
+[39] Yu FK., Akin-Fajiye M., Magar K.T.et al. A global systematic review of ecological field studies on two major invasive plant species, Ageratina adenophora and Chromolaena odorata[J].Diversity and Distributions, 2016, 22:1174-1185.   
+[40] Shiferaw W.S., Akalu T.Y., Petrucka P.M.et al. Risk factors of erectile dysfunction among diabetes patients in Africa: a systematic review and meta-analysis, Journal of Clinical and Translational Endocrinology,2020,21:1-9.   
+[41] Workineh Y., Semachew A., Ayalew E.et al. Prevalence of perinatal asphyxia in East and Central Africa: systematic review and meta-analysis[J].Heliyon, 2020, 6:1-9.   
+[42] Bigna J.J., Nkeck J.R., Ngouo A..Hepatitis B virus and HIV coinfection among adults residing in Cameroon: A systematic review and meta-analysis of prevalence studies[J].   
+Infection, Disease and Health,2018,23:170-178.   
+[43] Kenmoea S., Bignaa J.J., Modiyingia A.F..Case fatality rate and viral aetiologies of acute respiratory tract infections in HIV positive and negative people in Africa: The VARlAFRICA-HIV systematic review and meta-analysis[J].Journal of Clinical Virology, 2019,117:96-102.   
+[44] Mbanefo1 E.C., Huy N.T., Wadagni A.A. et al.Host Determinants of Reinfection with Schistosomes in Humans: A Systematic Review and Meta-analysis[J].PLOS Neglected Tropical Diseases,2014,8(9):3164.   
+[45] Ohiolei J.A., Li L., Ebhodaghe F..et.al.Prevalence and distribution of Echinococcus spp. in wild and domestic animals across Africa: Asystematic review and meta-analysis[J].Transboundary and Emerging Diseases,2020, 00:1-20.   
+[46] Muttalib F., Clavel V., Yaeger L.H.et al.Performance of Pediatric Mortality Prediction Models in Low-and Middle-Income Countries: A Systematic Review and Meta-Analysis[J].The Journal of Pediatrics,2020,doi: https://doi.org/10.1016/j.jpeds.2020.05.016.   
+[47] Rahou B.H., Rhazi K.E., Ouasmani F.et al. Quality of life in Arab women with breast cancer: a review of the literature[J].Health and Quality of Life Outcomes, 2016,14(1):14-64.   
+[48] Bigna J.J., Nansseu J.R., Katte JC.. Prevalence of prediabetes and diabetes mellitus among adults residing in Cameroon: A systematic review and meta-analysis[J].Diabetes Research and Clinical Practice, 2018,137:109-118.   
+[49] Adekanmbi A., Peters K.B., Razis E.et.al. Neurooncology Research in Nigeria: Great Untapped Potential[J].World Neurosurgery, 2019,124:381-385.   
+[50] Akpana M.R., Isemina N.U., Udohb A.E..Implementation of antimicrobial stewardship programmes in African countries: a systematic literature review[J].Journal of Global Antimicrobial Resistance,2020,22: 317-324.   
+[51] Ezema I.J., Onyancha O.B..Citation impact of health and medical journals in Africa: Does open   
+accessibility matter?[J].The Electronic Library, 2017,35(5):934-952.   
+[52] Manhique ILE., Casarin HCS..2019 Dimensoes teóricas e epistemologicas da competencia informational na Africa subsaariana[J] Information and Society, 2019,29(2):161-180.   
+[53] Essien F.K.,朱思苑，苏文成 等.非洲高校图书馆发展历程启示一以加纳大学 Balme 图书 馆为例[J].   
+2020,13(1):77-83.   
+[54]韩小婷,杨瑰玉,杨云鹏.国际出版合作新路径—“非洲出版中心”的探索与实践[]出版 参考,2019,12:92-103.   
+[55] Onyeka T.C., Chukwuneke F.N..Pain research in Africa: a ten-year bibliometric   
+survey[J].Journal of Anesthesia,2014, 28:511-516.
+
+1   
+2   
+3   
+4   
+5   
+6   
+7   
+8   
+9   
+10   
+11   
+12   
+13   
+14   
+15   
+16   
+17   
+18   
+19   
+2021   
+22   
+23   
+24   
+25   
+26   
+27   
+28   
+29   
+30   
+31   
+32   
+33   
+34   
+35   
+36   
+37   
+38   
+39   
+40   
+41

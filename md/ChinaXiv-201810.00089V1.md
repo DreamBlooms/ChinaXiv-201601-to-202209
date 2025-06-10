@@ -1,0 +1,288 @@
+# 基于CNN和LSTM混合模型的人体跌倒行为研究
+
+厍向阳，苏学威
+
+(西安科技大学 计算机科学与技术学院，西安 710054)
+
+摘要：视频监控中人体跌倒行为识别对于提升老年人护理质量，减少社会养老负担等方面有十分重要意义。传统模式识别方法依赖于人工选取的特征，智能化程度低，识别精度不高。深度学习模型泛化能力强，特征提取自动完成。但目前深度学习模型不能较好的把监控视频中跌倒行为的空间和时序特征有效结合起来。为此，提出基于CNN(convolutional neural network)和LSTM(long-short term memory)混合模型的人体跌倒行为识别方法。该模型采用两层结构，将视频以每5帧为一组输入到网络中，CNN提取视频序列的空间特征，LSTM提取视频时间维度上的特征，最后使用 softmax分类器进行识别。实验表明，该方法可以有效提高跌倒识别的准确率。
+
+关键词：跌倒行为识别；卷积神经网络；长短期记忆网络；时间维度中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2018.06.0424
+
+# Research on human fall behavior using CNN and LSTM-based hybrid model
+
+She Xiangyang, Su Xuewei (CollgeofComputer Science &Technology,Xi'an UniversityofScience &Technology,Xi'an710054,China)
+
+Abstract: The detectionof humanfallbehaviorinvideo surveilance is of great significanceforimproving thequalityof care fortheelderlyandreducing the burden of social pension.The traditional pattrnrecognition methodrelies on the characteristicsof the manual selection,the degree of intellgenceis low,andtherecognition accuracyis nothigh.Deep learning model has strong generalization abilityandcan extractthe feature automatically.However,the above models cannot efectivelycombinethespatialandtemporalcharacteristicsof thefallbhaviorinsurveillancevideos.Tothisend,Tispaper proposeda method which combinates CNNand LSTM(long-short term memory)models forthe studyof human fall behavior. The model adopted atwo-layer structure and put the video into the network every5 frames.The CNN extracted the spatial features ofthe video sequence.TheLSTMextractedthefeaturesofthevideoin the time dimension.Finaly,the softmax clasfierobtained theclasification result.Experiments show thatthis methodcan effctively improve the accuracyofal recognition.
+
+Key words: faling behavior recognition; convolutional neural network; long-short term memory; time dimension
+
+# 0 引言
+
+随着社会人口老龄化的发展，因为跌倒导致老人意外受伤或死亡的情况时有发生。准确高效地识别出监控视频中跌倒行为对于老年人的安全防护具有重要的现实意义[。许多学者在视频中跌倒行为识别方面做了大量研究，提出了一些识别方法。主要有两种：基于浅层传统模式识别方法和基于深度学习的分类模型。
+
+a）在浅层传统模式识别方面，文献[2]人工提取人体轮廓外接矩形的宽高比、人体Hu矩特征、人体轮廓离心率、人体轴线角等多特征进行融合，采用SVM检测跌倒行为。文献[3提取对跌倒行为敏感的时域及频域特征，利用奇异值分解方法降维和重构跌倒特征，采用SVM分类器检测跌倒行为。以上方法的识别率依赖事先人工提取的特征，一旦提取的特征不理想，跌倒行为识别的效果就会受到较大影响。
+
+b)深度学习模型通过对数据多层建模获得视频数据的特征表示，避免了人工提取特征的繁琐，而且具有良好的泛化能力。文献4提出一种基于CNN深度学习人体行为识别方法，该方法由卷积神经网络进行局部特征分析，得到特征输出项进行分类。但是该方法仅仅得到了局部空间特征，丢失了时域特征。文献[5]中提到一种基于LSTM深度学习人体行为识别方法，对时间序列进行建模，对人体行为进行训练和识别。但该方法的不足之处在于其仅仅提取了视频数据的时序特征，而丢失了局部空间特征。
+
+为了更好地获取视频数据空间和时序特征，一些专家学者将CNN和LSTM结合起来，并成功应用于视频分类和视频描述方面。 $\mathrm { N g ^ { [ 6 ] } }$ 等将图像数据和光流数据分别通过CNN，获取视频帧序列的空间信息，然后将CNN 输出传入LSTM，以挖掘它们之间的时序信息，最后通过softmax对视频类别进行预测。Venugopalan等人[7将短视频抽样为16帧图像序列并以此来代表整部视频，由CNN来提取特征，然后将此16帧特征做均值池化得到视频编码特征，然后利用LSTM解码生成视频描述信息。
+
+在前人研究的基础上，我们提出基于CNN和LSTM的混合模型来对跌倒行为进行识别的方法，对视频数据集进行简单处理后，混合模型利用CNN滑动窗口和权值共享[8来获得视频序列的局部空间特征并作为下一层的输入，利用LSTM的时序性获取视频数据的时间特征，将两者结合起来，充分利用了两者各自的优势。另外，由于深度学习可以自动提取行为特征，避免了人工提取特征的过程。跌倒行为识别的正确率得到了显著的提升。
+
+# 1 相关理论与方法
+
+# 1.1 卷积神经网络
+
+CNN是一种深度学习网络，最早由Fukushima9在1980 年提出。通常由输入层、卷积层、池化层、全连接层、输出层构成。卷积神经网络基本结构如图1。
+
+输 卷 池 全连接 输 1 积 化 →出 层 层 层 层
+
+a)输入层。输入层是整个网络的开始，在图像处理领域，卷积神经网络的输入通常为一张图像X的像素矩阵。
+
+b)卷积层。卷积层是CNN中最重要的一部分。根据对生物视觉细胞局部感受野的理解，卷积层中每一个节点的输入只是上一层神经网络的一小块，卷积层将每一小块进行更加深入的分析从而得到更加抽象的特征。卷积有三种形式，分别是full、same、valid。以 $H _ { i }$ 表示卷积神经网络第 $i$ 层的特征图（ $H _ { 0 } = X$ ）。假设 $H _ { i }$ 是卷积层， $H _ { i }$ 的具体产生过程为[10]:
+
+$$
+\boldsymbol { H } _ { i } = f ( \boldsymbol { H } _ { i - 1 } \otimes \boldsymbol { W } _ { i } + \boldsymbol { b } _ { i } )
+$$
+
+其中： $W _ { i }$ 表示第 $i$ 层卷积核的权值向量； $\otimes$ 表示卷积核与第 $i - 1$ 层图像或特征图进行卷积操作； $f ( . )$ 表示激活函数，以卷积的输出与第 $i$ 层的偏移量 $b _ { i }$ 代数和作为自变量，通过激活函数 $f ( x )$ 得到第 $i$ 层的特征图 $H _ { i }$ 。常见的激活函数有relu、sigmoid、tanh 等。
+
+图2以same卷积方式为例展示了卷积层的计算过程，其中红色框中为原始矩阵。卷积运算过程是计算两个相同位置元素的乘积之和，图中灰色部分计算过程如下：
+
+$$
+\left( 1 \times 0 \right) + \left( 0 \times 0 \right) + \left( - 1 \times 0 \right) + \left( 1 \times 0 \right) + \left( 0 \times 1 \right) + \left( - 1 \times 0 \right) = 0
+$$
+
+$$
+\times 1 ) ~ + ~ ( 1 \times 0 ) ~ + ~ ( 0 \times 0 ) ~ + ~ ( - 1 \times 1 ) ~ + 1 = - 1 < 0 \circ
+$$
+
+本例使用relu为激活函数，relu公式为：
+
+$$
+\varrho ^ { \prime } ( \boldsymbol { x } ) = \operatorname* { m a x } { ( 0 , \boldsymbol { x } ) }
+$$
+
+根据公式（2)，最终取值为0。
+
+![](images/f0d01f3733d5962d94e7e5733dc0a29a7be5a5eb7aa84f043d3ff784fb0d5e2d.jpg)  
+图2卷积层计算过程样例图
+
+c)池化层。在卷积层与卷积层之间往往会加上一个池化层（poolinglayer)，池化层可以非常有效的缩小矩阵尺寸，从而减少最后全连接层中节点的个数，最终达到减少整个神经网络中参数的目的。使用池化层既可以加快计算速度也可以防止过拟合的问题。其中常见的两种池化分别为最大值池化（max-pooling）和平均值池化（average-pooling）。
+
+将图2的卷积结果分别进行两种池化操作，池化结果用R表示，具体过程如图3所示。
+
+![](images/953589d858cb4dc02eb3b8e265d1425205153632a3c42c7b1a7dee56985135fd.jpg)  
+图1卷积神经网络结构图  
+图3池化操作样例图
+
+d)全连接层。在卷积神经网络的最后一般会由1到2个全连接层来给出最后的分类结果。经过几层的卷积层和池化层的处理之后，图像中的信息已经被抽象成了信息含量更高的特征。我们可以将卷积层和池化层看成自动提取图像特征的过程，在特征提取完成以后，仍需要使用全连接层来完成分类的任务。
+
+e)输出层。
+
+常用的输出层为softmax层，主要用于分类问题。通过softmax层可以得到当前样例属于不同种类的概率分布情况。给定输入 $\mathbf { x }$ 属于第i类的一种原始度量 $h ( x , y _ { i } )$ ,softmax公式如下：
+
+$$
+\begin{array} { c c c } { \displaystyle { P ( y = i \big | x ) = \frac { e ^ { h ( x , y _ { i } ) } } { \displaystyle \sum _ { j = 1 } ^ { n } e ^ { h ( x , y _ { j } ) } } } } \end{array}
+$$
+
+其中： $P ( y = i | x )$ 表示给定输入 $x$ 属于第 $i$ 类的概率。
+
+# 1.2 长短期记忆网络
+
+长短期记忆网络（LongShort-TermMemory，LSTM）是一种特殊的循环神经网络(RNN)。是为了克服RNN网络不能处理远距离依赖的问题而提出的。RNN中同层隐藏层节点之间有一定的关联，即当序列图片依次输入网络，隐藏层节点的计算不只依赖于当前输入层的输入，也依赖于上一时刻隐藏层各节点的激活值。对于输入序列 $\boldsymbol { x } = ( x _ { 1 } , x _ { 2 } , \cdots x _ { t } )$ ，RNN 网络层将得到隐藏层序列 $h = ( h _ { 1 } , h _ { 2 } , \cdots h _ { t } )$ 和输出序列 $y = ( y _ { 1 } , y _ { 2 } , \cdots , y _ { t } )$ ，计算方法如下[6,11,12];
+
+$$
+h _ { t } = H ( W _ { x h } x _ { t } + W _ { h h } h _ { t - 1 } + b _ { h } )
+$$
+
+$$
+y _ { t } = W _ { h o } h _ { t } + b _ { o }
+$$
+
+其中： $H$ 表示隐藏层所用的激活函数； $W _ { x h }$ 表示输入层到隐藏层的权重矩阵； $W _ { h h }$ 表示隐藏层到隐藏层的权重矩阵； $\boldsymbol { W } _ { h o }$ 表示隐藏层到输出层的权重矩阵； $b _ { h }$ 和 $b _ { o }$ 分别表示隐藏层和输出层的偏向量。
+
+导致RNN不能发现序列中时间间隔较长的帧之间的关系的原因是：RNN没有存储单元来存储和输出信息。不同于标准的RNN，LSTM架构[13]使用存储单元来存储和输出信息，从而对较长时间前的输入有了记忆能力。
+
+LSTM包括新输入 $x _ { t }$ 、输出 $h _ { t }$ 、输入门 $i _ { t }$ 、遗忘门 $f _ { t }$ 、输出门 $o _ { t }$ 。输入门 $i$ 根据x $\cdot \mathrm { ~ \ r ~ { ~ c ~ } ~ } _ { t - 1 } \cdot \mathrm { ~ h ~ } _ { t - 1 }$ 决定哪些部分将进入当前时刻的状态 $c _ { t }$ 进行更新。遗忘门 $f _ { t }$ 决定哪些信息被丢弃。通过遗忘门和输入门，LSTM结构可以更加有效的决定哪些信息应该被遗忘，哪些信息应该得到保留。具体结构如图4。
+
+![](images/47af682a34c5543d22066fc510d50f87306ce2028cf2bbfa4dd63f1afe75f2cd.jpg)  
+图4LSTM结构图
+
+图4中符号 $\otimes$ 表示向量元素乘；符号 $\oplus$ 表示向量拼接；符号 $\textcircled{+}$ 表示向量和。LSTM各组成部分做如下更新[14,15]:
+
+$$
+i _ { t } = \sigma ( W _ { x i } x _ { t } + U _ { h i } h _ { t - 1 } + b _ { i } )
+$$
+
+$$
+f _ { t } = \sigma ( W _ { x f } x _ { t } + U _ { h f } h _ { t - 1 } + b _ { f } )
+$$
+
+$$
+\tilde { c } _ { t } = \mathrm { t a n h } ( W _ { x c } x _ { t } + U _ { h c } h _ { t - 1 } + b _ { c } )
+$$
+
+$$
+c _ { t } = f _ { t } \odot c _ { t - 1 } + i _ { t } \odot \tilde { c } _ { t }
+$$
+
+$$
+o _ { t } = \sigma ( W _ { x o } x _ { t } + U _ { h o } h _ { t - 1 } + b _ { o } )
+$$
+
+$$
+h _ { t } = o _ { t } \operatorname { t a n h } ( c _ { t } )
+$$
+
+其中： $\sigma$ 表示 sigmoid 激活函数； $\odot$ 表示向量元素乘；$W _ { x i }$ 、 $W _ { x f }$ 、 $W _ { x c }$ 、 $W _ { x o }$ 分别表示输入层到输入门、遗忘门、存储单元cell和输出门之间的权重矩阵； $U _ { h i }$ 、 $U _ { h f }$ 、 $U _ { h c }$ 、 $U _ { h o }$ 分别表示隐藏层到输入门、遗忘门、存储单元cell和输出门之间的权重矩阵； $b _ { i } , \ b _ { f } , \ b _ { c } , \ b _ { o }$ 分别表示输入门、遗忘门以及存储单元cell和输出门的偏置值； $i$ 、 $f$ 、 $\mathbf { \sigma } _ { o }$ 、 $\mid c \mid$ 分别表示输入门、遗忘门、输出门和存储单元。
+
+# 2 跌倒行为识别的混合深度神经网络模型
+
+# 2.1基本思想
+
+将视频数据经过预处理所得序列图片随机分为训练数据集和测试数据集。训练数据用于模型的构建和参数的调整，测试数据用于检验模型的性能。利用CNN网络提取各帧的空间特征，然后将CNN网络的输出调整规模依次输入到LSTM网络来获取序列时序特征，并计算各个时刻LSTM输出的平均值，预测最后的分类结果。混合模型基本结构如图5所示。
+
+![](images/0b64762a79f6bb2c05b2e4847cb801ff1d43f8a1ee7c861420c8970d09466144.jpg)  
+图5混合模型结构
+
+# 2.2混合深度神经网络模型
+
+# 2.2.1卷积神经网络处理层
+
+模型使用卷积神经网络来提取视频帧的空间信息，生成行为的表示特征。
+
+令N表示输入网络的图像序列的帧数。对于单张图像，像素矩阵的大小为 $P { \times } Q$ ，采用same方式卷积，令卷积核大小为$k { \times } k$ ，需要在原始图像矩阵的外围加上长度为 $k / _ { 2 }$ 的零填充为$( P + 2 \stackrel { k } { \ 2 } ) \times ( Q + 2 \stackrel { k } { \ 2 } )$ 大小的像素矩阵，其中：表示向下取整符号。令 $\nu _ { i j }$ 表示扩充后像素矩阵中 $( i , j )$ 处像素值。则落入第$( Q ( i - 1 ) + j )$ 个 $( i \leq P + 2 \mathrm { ~ } k / { 2 }$ ， $j \leq Q + 2 \mathop { k / } _ { 2 }$ )滑动窗口的所有像素值可以表示为窗口矩阵，如下所示：
+
+$$
+X _ { i j } = \left( \begin{array} { c c c } { { \nu _ { i j } } } & { { \ldots } } & { { \nu _ { i ( j + k - 1 ) } } } \\ { { \vdots } } & { { \ddots } } & { { \vdots } } \\ { { \nu _ { ( i + k - 1 ) j } } } & { { \cdots } } & { { \nu _ { ( i + k - 1 ) ( j + k - 1 ) } } } \end{array} \right)
+$$
+
+对于每个窗口矩阵，结合公式（1）进行卷积运算得到当前窗口特征。
+
+$$
+Y _ { i j } = f (  { \boldsymbol { { x } } } _ { i j } \otimes  { \boldsymbol { { W } } } +  { \boldsymbol { { b } } } )
+$$
+
+在卷积运算过程中，鉴于relu收敛速度快的特性，f采用如下relu激活函数：
+
+$$
+g ( \boldsymbol { \mathbf { \rho } } _ { X } ) = \operatorname* { m a x } { ( 0 , \boldsymbol { \mathbf { \mathit { x } } } ) }
+$$
+
+在完成卷积之后进行池化操作。选择最大池化来进行处理。获得每一个窗口矩阵的最大特征值。
+
+$$
+R _ { n } = M a x ( Y _ { i j } )
+$$
+
+其中： $\boldsymbol { R _ { n } }$ 表示序列图像中第 $\mathfrak { n }$ 张图像经过卷积和池化操作以后的特征矩阵。
+
+分别对序列图像进行以上操作，则对于序列中各个图像帧的特征矩阵可用 $R = ( R _ { 1 } , R _ { 2 } , \cdots R _ { n } )$ 表示，其中 $n { \le } N$ 。
+
+# 2.2.2长短期记忆模型处理层
+
+CNN层的一个输出 $\mathtt { R }$ 对应一个时刻t的LSTM输入。某时刻t，根据公式（6）～（11)，LSTM单元各组成部分做如下更新：
+
+$$
+\begin{array} { r } { i _ { t } = \sigma ( W _ { r i } R _ { t } + U _ { h i } h _ { t - 1 } + b _ { i } ) } \\ { f _ { t } = \sigma ( W _ { r f } R _ { t } + U _ { h f } h _ { t - 1 } + b _ { f } ) } \end{array}
+$$
+
+$$
+\widetilde { c } _ { t } = \operatorname { t a n h } ( W _ { r i } R _ { t } + U _ { h c } h _ { t - 1 } + b _ { c } )
+$$
+
+$$
+c _ { t } = f _ { t } \odot c _ { t - 1 } + i _ { t } \odot \tilde { c } _ { t }
+$$
+
+$$
+o _ { t } = \sigma ( W _ { r o } R _ { t } + U _ { h o } h _ { t - 1 } + b _ { o } )
+$$
+
+$$
+h _ { t } = o _ { t } \operatorname { t a n h } ( c _ { t } )
+$$
+
+其中： $\sigma$ 表示sigmoid 激活函数； $R _ { t }$ 表示t时刻输入的特征矩阵； $W _ { r i }$ 、 $W _ { r f }$ 、 $W _ { r c }$ 、 $W _ { r o }$ 分别表示输入层到输入门、遗忘门、存储单元cell 和输出门之间的权重矩阵； $U _ { h i }$ ， $U _ { h f }$ 、 $U _ { h c } .$ ， $U _ { h o }$ 分别表示隐藏层到输入门、遗忘门、存储单元cell和输出门之间的权重矩阵； $b _ { i }$ 、 $b _ { f }$ 、 $b _ { c }$ 、 $b _ { o }$ 分别表示输入门、遗忘门、存储单元cell和输出门的偏置值。
+
+# 3 实验测试与分析
+
+# 3.1数据集与测试环境
+
+论文使用CASIA数据集[16作为测试数据，该数据集是由中国科学院自动化研究所提供。所有视频都是由分布在水平视角、斜角和俯角的三个未标定的静止的摄像机同时拍摄的，帧率为25fps，采用huffyuv 编码压缩，分辨率为 $3 2 0 ^ { * } 2 4 0$ 。图6为选取的原始视频帧。
+
+![](images/ce474fc8ff3a33989cbc570b62d7846058c33d6c1a5facbde43c6cb82e3ef648.jpg)  
+图6视频帧序列  
+图7不同帧数实验对比结果
+
+利用基于Python的深度学习库Keras在GPU加速环境下进行实验。具体实验环境如表1所示。
+
+表1实验环境配置  
+
+<html><body><table><tr><td>实验环境</td><td>配置</td></tr><tr><td>操作系统</td><td>Ubuntu14.04</td></tr><tr><td>GPU</td><td>NVIDIA Tian XP</td></tr><tr><td>内存\硬盘</td><td>64GB\4.2TB</td></tr><tr><td>程序语言</td><td>Python3.6</td></tr><tr><td>程序框架</td><td>Keras</td></tr></table></body></html>
+
+# 3.2实验方案与参数设置
+
+选择CASIA数据集中俯视角下单人行为的弯腰走、下蹲、晕倒、跳、跑、走作为实验数据。其中跌倒为异常数据集，弯腰走、下蹲、跳、跑、走作为正常数据集。经过对视频数据预处理后获得跌倒序列图片955张，非跌倒序列图片840张。其中随机选择 $80 \%$ 作为训练数据集， $20 \%$ 作为测试数据集。
+
+由于原始数据为彩色图像序列，色彩通道存在不稳定特性，所以将原始图像进行预处理，转化为单通道图像，并将像素值简单缩放归一化到[0,1]区间，用于最终的实验数据。
+
+为了获取实验输入序列最佳帧数并验证混合模型的有效性，本文采用在相同的实验环境下，相同数据集以及相同数据量，分别做如下两组对比试验：
+
+a)分别采取序列帧数为3、4、5、6、7输入混合模型进行实验。
+
+b)对 SVM、CNN[4]、LSTM[5]以及本文采用的混合模型进行跌倒检测的对比实验。
+
+深度学习模型主要涉及的参数有：滑动窗口大小、卷积核数、激活函数、LSTM节点数、优化方法以及学习率。选择优化方法（选取：Adam、SGD、RMSprop）、学习率（取值：0.0001，0.001，0.01，0.1)，LSTM节点数（选取：32.64,128）和激活函数（选取：relu，tanh）进行实验取优，其余参数为默认值，其中损失函数采用交叉熵损失函数，通过实验对比可知，模型中参数分别设置如表2所示，模型性能达到最佳。
+
+表2参数设置  
+
+<html><body><table><tr><td>参数名称</td><td>参数</td></tr><tr><td>学习率</td><td>0.0001</td></tr><tr><td>优化函数</td><td>SGD</td></tr><tr><td>激活函数</td><td>relu</td></tr><tr><td>损失函数</td><td>categorical_crossentropy</td></tr><tr><td>LSTM节点数</td><td>64</td></tr></table></body></html>
+
+# 3.3 实验结果及分析
+
+通过对不同序列帧数进行对比实验，结果如图7所示。
+
+100（%）索 山序列数
+
+由图7所知，当序列数为5时实验效果达到最佳，这可能是由于序列帧数太小会丢失部分跌倒的行为信息，不能很好的表示跌倒行为，而序列帧数过大则导致总体训练样本数变小，不能很好的训练模型。所以实验采用每5帧为一个序列进行实验，并用准确率对模型进行评价，准确率实验结果如表3所示。
+
+表3各个模型识别准确率  
+
+<html><body><table><tr><td>模型</td><td>准确率</td></tr><tr><td>SVM</td><td>82.17%</td></tr><tr><td>CNN</td><td>83.84%</td></tr><tr><td>LSTM</td><td>91.67%</td></tr><tr><td>CNN+LSTM</td><td>94.44%</td></tr></table></body></html>
+
+另外，对深度学习模型在GPU加速环境下训练时间也进行
+
+了对比实验，结果如图8所示。
+
+![](images/0884cc8d7663ce9ef72029c8b9156f8f0db9740610ac8feb53ebf20e8a994cad.jpg)  
+图8各模型训练时间对比
+
+从表3可以看出，对CASIA数据库进行跌倒检测的准确率按由高到低的顺序依次为：CNN+LSTM、LSTM、CNN、SVM。$\mathbf { C N N + L S T M }$ 混合模型的准确率要高于其它三种模型，这得益于混合模型既有效利用了CNN通过卷积获取局部空间特征，又结合了LSTM的时序性来获得视频序列的时间特征。另外，通过深度学习的方法也避免了繁杂的人工提取特征，泛化能力更强。但同时由图8可知，在模型的训练时间上，CNN和LSTM混合模型由于复杂的网络结构，其耗时分别高于CNN和LSTM的耗时，而LSTM耗时高于CNN是因其带有记忆功能，网络结构更为复杂。
+
+# 4 结束语
+
+论文提出了基于CNN和LSTM混合模型来检测跌倒行为，在CASIA数据集上的识别率达到了 $9 4 . 4 4 \%$ 。相比较浅层传统模式识别方法避免了人工提取特征，增强了模型的泛化能力；对于深层CNN和LSTM网络不但能够提取到序列视频帧的空间特征，也能提取到帧与帧之间的时序性信息，识别率提升明显，具有一定的可靠性。由于实验中采用的数据集背景固定单一，且都为单人行为，与实际情况还有偏差。未来应对更加接近于实际场景中的跌倒行为进行深入的研究和分析。
+
+# 参考文献：
+
+[1]Mubashir M, Shao L,Seed L.A survey on fall detection: principles and approaches [J]. Neurocomputing,2013,100 (2): 144-152.   
+[2] 汪大峰，刘勇奎，刘爽，等.视频监控中跌倒行为识别[J].电子设计 工程,2016,24 (22): 1126-1222.(Wang Dafeng,Liu Yongkui,Liu Shuang etal.Abnormal behavior recognition of fall in surveillance video [J]. Electronic Design Engineering,2016,24(22):1126-1222.)   
+[3]白勇，孙晓雯，秦昉，等．基于SVD特征降维和支持向量机的跌倒检测 算法[J].计算机应用与软件，2017,34(1):247-251.(Bai Yong，Sun Xiaowen,Qin fang,etal. The falling detection algorithm based on SVD feature dimension reduction and SVM [J]. Computer Applications and
+
+Software.2017,34(1):247-251)
+
+[4]王忠民，曹洪江，范琳．一种基于卷积神经网络深度学习的人体行为识 别方法[J].计算机科学，2016,43(s2):56-58.(Wang Zhongmin,Cao HUHgjiaug,ran LIn, ctaI. ivicuou OI Huial acuviy iecugHuon vascu UI convolutional neural networks [J].Computer Science，2O16,43(s2): 56-58.)
+
+[5]匡晓华，何军，胡昭华，等．面向人体行为识别的深度特征学习方法比 较[J].计算机应用研究,2018,35(9):2815-2817,2822.(Kuang Xiaohua, He Jun,Hu Shaohua,et al. Comparison of deep feature learning methods for human activity recognition [J].Application Research of Computers, 2018,35 (9): 2815-2817,2822)   
+[6]Ng YH, Hausknecht M,Vijayanasimhan S,et al.Beyond short snippets: deep networks for video classification [C]// Computer Vision and Pattern Recognition. 2015: 4694-4702.   
+[7]Venugopalan S,Xu H, Donahue J,et al. Translating Videos to Natural Language Using Deep Recurrent Neural Networks [J]. Computer Science, 2015.   
+[8]Ma Xuezhe,Hovy E.End-to-end sequence labeling via bi-directional lstm-cnns-crf [EB/OL].(2016-05-29). https://arxiv.org/abs/1603.01354.   
+[9]Fukushima K. Neocognitron: A hierarchical neural network capable of visual pattern recognition [J]. Neural Networks,1988,1(2): 119-130.   
+[10]李彦冬，郝宗波，雷航．卷积神经网络研究综述[J].计算机应用，2016, 36(9):2508-2515.(Li Yandong，Hao Zongbo,Lei Hang.Survey of convolutional neural network [J]. Journal of Computer Applications,2016, 36 (9): 2508-2515.)   
+[11] Graves A. Supervised sequence labelling with recurrent neural networks [M].Springer Berlin Heidelberg,2012.   
+[12] Graves A，Mohamed A R,Hinton G. Speech recognition with deep recurrent neural networks [C]// Proc of IEEE International Conference on Acoustics,Speech and Signal Processing.2013: 6645-6649.   
+[13] Gers FA, Schraudolph N N. Learning precise timing with Istm recurrent networks [M]. JMLR.org,2003.   
+[14] Sundermeyer M,Ney H,Schlyuter R.From feedforward to recurrent LSTM neural networks for language modeling [J]. IEEE//ACM Trans on Audio,Speech & Language Processing,2015,23 (3): 517-529.   
+[15] Cai M, Liu J.Maxout neurons for deep convolutional and LSTM neural networks in speech recognition [J]. Speech Communication. 2016,77 (C): 53-64.   
+[16]中国科学院行为分析数据库[EB/OL].htp://www.cbsr.ia.ac. cn/china/Action Databases CH. asp.(Behavioral analysis database of Chinese Academy of Sciences [EB/OL]. htp://www. cbsr. ia. ac. cn/china/Action Databases CH. asp.)

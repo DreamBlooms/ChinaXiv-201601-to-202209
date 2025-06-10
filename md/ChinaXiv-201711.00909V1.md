@@ -1,0 +1,143 @@
+1 益生芽孢杆菌脂肽类抑菌成分的高效液相色谱-电喷雾串联质谱分析李红亚 李术娜 王树香 王 全 李 文 朱宝成\*
+
+（河北农业大学生命科学学院，保定071000）  
+摘要：本文旨在探明一株具有益生潜质的枯草芽孢杆菌 ${ \bf N } _ { 2 }$ -10对肠道菌的抗菌作用及其活性成分，为深入评价该菌株的益生功能和益生机理奠定基础。以常见的肠道致病菌和有益菌为指示菌，采用抑菌圈法对该菌株发酵液成分的抑菌活性进行测定，并通过高效液相色谱-电喷雾串联质谱（HPLC-ESI-MS/MS）对其中的活性成分进行分析。结果表明：枯草芽孢杆菌N2-10发酵液的氯仿和正丁醇提取液对供试菌无明显的抑制作用；脂肽类对大肠杆菌、痢疾杆菌和沙门氏菌等肠道致病菌表现出明显的抑菌作用，而对肠道有益菌保加利亚乳杆菌抑制作用很弱，对嗜热链球菌则无抑制作用。脂肽粗提物的HPLC-ESI-MS/MS分析结果显示，脂肽粗提物中的脂肽类抗生素为伊枯草素家族中的C14\~C17抗霉枯草菌素（Mycosubtilin）的同系物。因此推断，枯草芽孢杆菌 ${ \bf N } _ { 2 } .$ -10对肠道致病菌产生抑制作用依赖于其产生的脂肽抗生素Mycosubtilin。  
+关键词：枯草芽孢杆菌；脂肽类物质；抑菌作用；高效液相色谱-电喷雾串联质谱；抗霉枯草菌素中图分类号： 文献标识码： 文章编号：  
+芽孢杆菌作为益生菌的一种重要菌种资源，具有抑制肠道致病菌、调节肠道菌群平衡、防治消化道疾病以及提高机体免疫力等多重作用，在食品、医药及饲料添加剂等领域发挥着重要作用[1-2]。芽孢杆菌在其生长代谢过程中产生的抗菌物质，是其发挥益生作用的重要物质基础[3]。因此明确菌株的抑菌作用及抑菌成分，是研究其益生机理的重要内容。自1945 年Johnson 等[4]报道枯草芽孢杆菌（Bacillus subtilis）产生抑菌物质以来，已从其中分离得到多种抑菌成分，能广泛抑制病原微生物[5-7]。非核糖体合成的脂肽类抗菌物质是其中最常见的一类。此类物质一般是指由1个 $\beta$ -羟基脂肪酸与7\~10个氨基酸以酰胺键链接而成的环肽[8]，主要包括表面活性素（surfactin）、伊枯草菌素（iturin）和丰原素（fengycin）三大家族[9-12]。不同的芽孢杆菌脂肽的抗菌性能有所不同，其中伊枯草菌素主要抑制真菌和部分细菌生长[13]，表面活性素不仅对革兰氏阳性菌、阴性菌和霉菌等多种细菌、真菌有明显抑制作用，还对病毒、支原体和原虫抑制效果显著[14]，丰原素则主要对丝状真菌有强烈的抑制作用[15]。  
+到目前为止，国内外对芽孢杆菌脂肽类抗菌物质的抑菌谱及应用研究主要侧重于真菌，尤其是植物病原真菌，其抑菌机理的研究也较为深入[i6]，而对其抑制细菌的研究较为缺乏。已报道的对细菌能产生抑制作用的芽孢杆菌脂肽类抗菌物质多限于 BacillomycinL（伊枯草菌素家族）[17]和表面活性素[18]，而有关于其他的芽孢杆菌脂肽对细菌的抑菌作用则鲜见报道。且在 Bacillomycin L和表面活性素抑菌谱的研究中主要侧重于金黄色葡萄球菌（Staphylococcus aureus）、肠炎沙门氏菌（Salmonela enterica）、变形杆菌（Proteusvulgatis）、绿脓杆菌（Pseudomonas aeruginosa）和大肠杆菌（Escherichiacoli）等致病菌，而忽略了其对有益菌的影响，因此不能客观评价芽孢杆菌对肠道菌群的作用。
+
+菌株 $N _ { 2 ^ { - 1 0 } }$ 是本课题组从西门塔尔牛新鲜粪便中筛选到的一株枯草芽孢杆菌。前期研究已证实该菌株具有很好的益生潜质，能耐受人工胃肠液和胆酸盐，对大肠杆菌有一定的抑制作用，可产生蛋白酶和淀粉酶等消化酶。为深入客观评价其益生功能，本文分别选取肠道致病菌和有益菌为指示菌，测定枯草芽孢杆菌 $N _ { 2 ^ { - } } 1 0$ 菌株发酵液成分的抑菌活性；进而通过高效液相色谱-电喷雾串联质谱（HPLC-ESI-MS/MS）对其中的抑菌成分进行分析及鉴定，研究旨在探明枯草芽孢杆菌 $N _ { 2 ^ { - } } 1 0$ 菌株的抑菌成分，为该菌株的益生功能和益生机理的研究提供依据。
+
+# 1材料与方法
+
+1.1菌株及培养基枯草芽孢杆菌 $N _ { 2 ^ { - } } 1 0$ 菌株为本课题组分离，保存。供试致病菌：大肠杆菌（Escherichia coli）CICC-10004、痢疾杆菌（Shigella flexneri）CICC21678、沙  
+门氏菌（Salmonella enterica）CICC21490、金黄色葡萄球菌（Staphylococcus aureus）CICC10306、嗜热链  
+球菌（Streptococcus thermophilus）CICC20174 和保加利亚乳杆菌（Bulgarian lactobacillus）CICC20247 由  
+河北农业大学生命科学学院制药工程实验室保藏。营养肉汤（NB）培养基 $( \mathrm { g / L } )$ ：蛋白脉 $1 0 \mathrm { { g } }$ 、牛肉膏 $5 \mathrm { g }$ 、氯化钠 ${ 5 } \mathrm { g }$ ，用于细菌培养。  
+发酵培养基 $\scriptstyle ( { \mathrm { g } } / { \mathrm { L } } )$ ：葡萄糖 $1 0 \mathrm { { g } }$ 、玉米粉 $1 3 \mathrm { g }$ 、大豆粉 $1 3 \mathrm { ~ g ~ }$ 。
+
+# 1.2 主要仪器
+
+AgilentLC-MSD-Trap-XCT离子阱液质联用仪（Agilent 公司，美国），Agilent C18 reverse-phase column（ $1 . 8 \mu \mathrm { m }$ ， $2 . 1 \ \mathrm { m m } { \times } 1 0 0 \ \mathrm { m m }$ ）（Agilent公司，美国），Adventurer电子天平（Ohaus 公司，美国），MLS-3020高压灭菌锅（SANYO公司，日本），SW-CJ-2FD 超净工作台（苏州泰安空气技术有限公司），GL-21M高速冷冻离心机（上海卢湘仪离心机有限公司)，旋转蒸发RE-52AA(河南省予华仪器有限公司),Nanopure超纯水仪(Thermo FisherScientific 公司，美国)。
+
+# 1.3 菌株的发酵培养
+
+将 $N _ { 2 ^ { - } } 1 0$ 菌株接种于NB 培养基中，于 $3 7 ^ { \circ } \mathrm { C }$ 、 $1 8 0 ~ \mathrm { r / m i n }$ 摇床培养 $1 6 \mathrm { ~ h ~ }$ 后转接于发酵培养基中，相同培养条件下培养 $7 2 \mathrm { h }$ ，得发酵液。
+
+# 1.4发酵液处理
+
+将 $2 0 0 ~ \mathrm { m L }$ 发酵液于 $4 ^ { \circ } \mathrm { C }$ ， $5 0 0 0 \mathrm { r / m i n }$ 条件下离心 $1 0 \mathrm { m i n }$ ，取发酵上清液 $1 0 0 ~ \mathrm { { m L } }$ 依次用3倍体积的氯仿、正丁醇萃取3次，合并萃取液，浓缩。另取发酵上清液 $1 0 0 ~ \mathrm { { m L } }$ 置于灭菌三角瓶中， $6 \mathrm { m o l / L }$ 浓盐酸调pH 2.0 后放置过夜。将液体分装于 $5 0 ~ \mathrm { m L }$ 离心管中， $1 0 \ 0 0 0 \ \mathrm { r / m i n }$ 离心 $1 5 ~ \mathrm { m i n }$ ，倾去上清液。向离心管沉淀中加入 $1 . 5 ~ \mathrm { m L }$ 中性甲醇，混匀、萃取 $8 \mathrm { h }$ 后再离心 $1 5 \mathrm { m i n }$ ，弃去沉淀，留上清液。将上清液进行浓缩，获得脂肽类粗提物。利用氮吹仪将氯仿提取物、正丁醇提取物及脂肽类粗提物浓缩至干，分别向其中加入超纯水2mL，振荡均匀，制成各提取物水溶液。
+
+# 1.5 体外抑菌活性的测定
+
+采用滤纸片抑菌圈法分别对其进行抑菌活性检测。分别将大肠杆菌、痢疾杆菌、沙门氏菌、嗜热链球菌和保加利亚乳杆菌接种于NB 培养基，置于 $3 7 ^ { \circ } \mathrm { C }$ 、 $\mathrm { 1 8 0 ~ r / m i n }$ 摇床上培养 $1 8 \mathrm { h }$ ，制得各病原菌的种子液。在超净工作台中，分别吸取 $4 ~ \mathrm { m L }$ 种子液加入到 $4 5 ~ ^ { \circ } \mathrm { C }$ 左右的 $1 0 0 ~ \mathrm { { m L } }$ NB 培养基中，摇匀后倒平板。待病
+
+原菌平板凝固后，分别将吸有各提取物水溶液的灭菌滤纸片（直径 $8 \ \mathrm { m m }$ ）以合适的间距置于平板上，每组设置3个平行试验。于 $3 5 ^ { \circ } \mathrm { C }$ 恒温箱培养 $2 4 \mathrm { h }$ ，观察并记录抑菌圈有无及大小。
+
+# 1.6 抑菌物质的分析
+
+取 $1 \mathrm { m L }$ 脂肽类甲醇提取液过 $0 . 4 5 \mu \mathrm { m }$ 滤膜，滤液经HPLC-ESI-MS/MS 检测。HPLC-ESI-MS/MS 系统为AgilentLC-MSD-Trap-XCT离子阱液质联用仪，C18 色谱柱( $2 . 1 \ \mathrm { m m } { \times } 1 0 0 \ \mathrm { m m }$ ， $3 . 5 ~ \mu \mathrm { m } )$ ；等梯度洗脱，洗脱液为 $0 . 1 \%$ 甲酸水溶液：乙腈 $\dot { \mathbf { \zeta } } = 6 0 : 4 0$ ，流速 $0 . 8 \mathrm { \ m L / m i n }$ ，检测波长 $2 3 0 \mathrm { n m }$ ，进样量 ${ 5 \mu \mathrm { L } }$ ；电离方式采用电喷雾，正离子模式；XCT 型离子肼质量检测器，检测范围为 $1 0 0 { \sim } 1 7 0 0 \mathrm { u }$ 。
+
+# 2结果与分析
+
+# 2.1 发酵液成分的抑菌活性
+
+利用痢疾杆菌、大肠杆菌、沙门氏菌、金黄色葡萄球菌、保加利亚乳杆菌和嗜热链球菌6种供试菌对枯草芽孢杆菌 $N _ { 2 ^ { - 1 0 } }$ 菌株发酵液不同提取方法所得的提取物进行抑菌测定（图1和表1）。结果表明：氯仿提取物和正丁醇提取物对供试菌的抑制作用较弱或基本无抑制作用，脂肽类粗提物则对致病菌表现出明显的抑制作用，而对有益菌抑制作用较弱或基本无抑制作用。其中氯仿提取物对保加利亚乳杆菌和痢疾杆菌表现出较弱的抑制作用，对其他供试菌基本无抑制作用；正丁醇提取物除去对大肠杆菌、痢疾杆菌和金黄色葡萄球菌有较弱的抑制作用外，对其他菌没有抑制作用；脂肽类粗提物对供试的肠道致病菌：痢疾杆菌、大肠杆菌、沙门氏菌和金黄色葡萄球菌的抑制作用明显，对肠道有益菌中保加利亚乳杆菌抑制作用较弱，对嗜热链球菌则无抑制作用。以上结果说明，枯草芽孢杆菌 $N _ { 2 ^ { - } } 1 0$ 菌株产生的主要抑菌成分为脂肽类;且脂肽类抗菌物质对肠道致病菌有明显抑制作用，而对有益菌则抑制作用微弱或无抑制作用。
+
+![](images/9cea4ef5704d8b90f5fff8c2bb84facf92cad129f558dbb0443438d1155fcce2.jpg)  
+图1不同发酵液提取物的抑菌活性
+
+A：大肠杆菌 Escherichiacoli；B：沙门氏菌Salmonell enterica；C：痢疾杆菌 Shigella flexneri；D：金黄色葡萄球菌Staphylococcus aureus；E：嗜热链球菌 Streptococcus thermophilus；F：保加利亚乳杆菌 Bulgarian lactobacilus；1：脂肽类粗提物 Lipopeptide crude extract；5：氯仿提取物 Chloroform extract；6：正丁醇提取物 n-butanol extract。
+
+Fig.1Antibacterial activities of different fermentation supernatant extracts
+
+表1不同发酵液提取物的抑菌圈直径  
+Table 1Inhibition zone diameter of different fermentation supernatant extracts mm   
+
+<html><body><table><tr><td>菌株</td><td>氯仿提取物 Chloroform extract</td><td>脂肽类粗提物</td><td>正丁醇提取物</td></tr><tr><td>大肠杆菌Escherichia coli</td><td>0.0±0.0</td><td>21.5±0.27</td><td>10.1±0.24</td></tr><tr><td>沙门氏菌 Salmonella enterica</td><td>9.1±0.21</td><td>12.2±0.16</td><td>0.0±0.0</td></tr><tr><td>痢疾杆菌Shigellaflexneri</td><td>10.9±0.19</td><td>24.6±0.18</td><td>9.1±0.36</td></tr><tr><td>金黄色葡萄球菌 Staphylococcus aureus</td><td>0.0±0.0</td><td>23.7±0.46</td><td>9.8±0.22</td></tr><tr><td>嗜热链球菌 Streptococcus thermophilus</td><td>0.0±0.0</td><td>0.0±0.0</td><td>0.0±0.0</td></tr><tr><td>保加利亚乳杆菌Bulgarian lactobacilus</td><td>11.2±0.34</td><td>9.1±0.12</td><td>0.0±0.0</td></tr></table></body></html>
+
+# 2.2抗菌成分的分析及鉴定
+
+采用HPLC-ESI-MS/MS对脂肽粗提物中的抗菌成分进行分析。首先从高效液相色谱-质谱联用(HPLC-MS)的一级质谱（ESI-MS）图中获得目标化合物的相对分子质量信息，接着再对各准分子离子进行
+
+MS²裂解分析，根据质谱裂解规律推断出化合物的结构。
+
+# 2.2.1 一级质谱结果
+
+如图2所示，粗提物经HPLC-ESI-MS检测，总离子流（TIC）图中3.6、4.4、6.1和 $8 . 4 \ \mathrm { m i n }$ 对应的4个峰质核比 ( $\mathbf { \dot { \Pi } } _ { \mathbf { m } / \mathbf { z } }$ ）分别为1065.7、1079.7、1093.7和1107.8。以上4个化合物的分子量依次相差 $1 4 \mathrm { ~ u ~ }$ ，恰好为脂肪酸链长度（ $\boldsymbol { \mathbf { \ell } } _ { - \mathbf { C } \mathbf { H } _ { 2 } }$ ），与伊枯草菌素家族中的抗霉枯草菌素（Mycosubtilin）的 $\scriptstyle [ \mathbf { M } + \mathbf { N } \mathbf { a } ] ^ { + }$ 相符合，因此初步推测4个化合物依次可能为C14\~C17Mycosubtilin同系物。
+
+# 2.2.2 二级质谱（ESI-MS²）结果
+
+对1065.7、1079.7、1093.7和1107.8对应的 $[ \mathrm { M } \mathrm { + H } ] ^ { + }$ 进行二级质谱分析，其产生的碎片离子如图3所示。图3中 $[ \mathrm { M } \mathrm { + H } ] ^ { + } .$ 为 $1 0 4 3 . 8 \mathrm { ~ u ~ }$ 的化合物的二级质谱中出现 $\mathrm { m / z } 6 3 8 . 5$ 和 801.5的2个碎片离子峰； $[ \mathrm { M } \mathrm { + H } ] ^ { + }$ 为 $1 0 5 7 . 8 \mathrm { u }$ 的二级谱中出现m/z652.6、815.6和928.7的3个碎片离子峰； $[ \mathrm { M } \mathrm { + H } ] ^ { + }$ 为 $1 0 7 1 . 8 { \mathrm { u } }$ 的二级谱图中只出现了 $\mathrm { m / z } ~ 6 6 6 . 5$ 的1个碎片离子峰；而 $[ \mathrm { M } \mathrm { + H } ] ^ { + }$ 为 $1 \ 0 8 5 . 8 \mathrm { ~ u ~ }$ 的二级谱图中显示比较明显的 $\mathrm { m / z } ~ 6 8 0 . 5$ 和843.5的2个碎片离子峰。以上碎片离子峰中 $\mathrm { { m / z } }$ 638.5、652.6、666.5和680.5依次相差 $1 4 \mathrm { u }$ ,与Mycosubtilin通过CID产生的b型和y型特征碎片离子（图4）中的b5 相符；而m/z 801.5、815.6和843.5碎片离子峰则分别与C14 Mycosubtilin、C15 Mycosubtilin 和C17 Mycosubtilin产生的b6特征碎片离子相一致；在 $[ \mathrm { M } \mathrm { + H } ] ^ { + }$ 为 $1 0 5 7 . 8 \mathrm { u }$ 化合物中出现的 $\mathrm { m } / \mathrm { z } 9 2 8 . 7$ 则被认定为b7特征碎片离子。
+
+综上可知，枯草芽孢杆菌 $N _ { 2 ^ { - 1 0 } }$ 菌株所产生的的脂肽类成分为C14Mycosubtilin、C15Mycosubtilin、C16Mycosubtilin 和 C17 Mycosubtilin4 个同系物。
+
+A：粗提物的总离子流图；B\~E：保留时间为3.6、4.4、6.1和 $8 . 4 \mathrm { m i n }$ 的峰所对应一级质谱图。
+
+![](images/fbc5fd4050703f72ca2318b5b028da501a60303c77c84a6bef0da9b50b680f5a.jpg)  
+图2菌株 $N _ { 2 ^ { - } } 1 0$ 发酵液中脂肽类粗提物的HPLC-ESI-MS图
+
+A:total ion chromatogramof crude extract; B toE:ESI-MS chromatogram peak atretention timeof3.6,4.4,6.1 and $8 . 4 \mathrm { m i n }$
+
+Fig.2HPLC-ESI-MS chromatogram of the lipopeptide crude extract from strain ${ \bf N } _ { 2 ^ { - } } 1 0$ fermentation
+
+supernatant
+
+![](images/2fa546f850975c97d1523553797676fcfddce664e55041f699706b3759ced4d0.jpg)  
+图3 $\mathrm { m / z }$ 为1043.8,1057.8,1071.8和1085.8的物质的二级质谱图  
+Fig.3Two stage masschromatogram of the protonated substance at m/z 1 043.8,1 057.8,1 071.8 and 1 085.8   
+图4抗霉枯草菌素通过CID产生的b型和y型离子碎片  
+Fig.4Possible b-and y-type fragments produced by CID from Mycosubtilin
+
+988 901 787 520 406 243 129C17 Mycosub tilin 974 887 773 520 406 243 129C16 Myco sub tilin 960 873 759 520 406 243 129C15 Mycosub tilin 946 859 745 520 406 243 129C14 Myco sub tilin y7 y6 y5 y4 y3 y2 yl Pro- Ser Asn- β-AA Asn Tyr- -Asn- Gln b1 b2 b3 b4 b5 b6 b7 98 185 299 524 638 801 915 C14 M yco sub tilin 98 185 299 538 652 815 929 C15 M yco sub tilin 98 185 299 552 666 829 943 C16 M yco sub tilin 98 185 299 566 680 843 957 C17 M yco sub tilin
+
+# 3.1枯草芽孢杆菌菌株N2-10发酵液成分的抑菌作用
+
+随着耐抗生素菌株的出现以及抗生素残留等问题的日趋严重，寻找安全环保、无耐药性、无残留的抗生素替代品成为当前的研究热点。益生芽孢杆菌及其脂肽抗菌物质具有广谱抗菌活性，不易产生耐药性是潜在的抗生素理想替代品之一。为深入发掘课题组前期获得的一株具有一定益生作用的枯草芽孢杆菌Nz-10菌株的益生潜质，本文以肠道常见致病菌和有益菌为指示菌，测定了菌株发酵液成分的抑菌活性。研究发现，枯草芽孢杆菌 $N _ { 2 ^ { - } } 1 0$ 在生长代谢过程中可以产生抑菌物质，其中脂肽类物质的抗菌活性最为明显，并且对供试菌中的大肠杆菌、痢疾杆菌及沙门氏菌等常见肠道致病菌的抑制作用显著，而对有益菌中的嗜热链球菌和保加利亚乳杆菌则基本无抑制作用。此抗菌特点有利于菌株在调节动物肠道平衡，预防致病菌导致的肠道疾病等益生作用的发挥。本研究结果与Fukushima等[19]发现芽孢杆菌可以增加动物胃肠道中乳酸杆菌的数量，并明显降低大肠菌群的数量的结论一致。此研究结果为该菌株益生潜质的深入评价及其抑菌物质的后期研究奠定了基础。
+
+# 3.2 脂肽类抗菌成分的HPLC-ESI-MS/MS分析
+
+HPLC-ESI-MS/MS 是目前用于分析脂肽类化合物分子量及鉴定其结构的有效工具[20]。在本研究中，我们首先从HPLC-MS的一级质谱图发现4个分子量依次相差 $_ { 1 4 \mathrm { ~ u ~ } }$ 的分子离子峰1065.7、1079.7、1093.7和1107.8。通过与已有报道[21]对照,发现其与伊枯草菌素家族中的C14\~C17 Mycosubtilin 同系物的 $\mathrm { [ M + N a ] ^ { + } }$ 相符合。继而通过对此4个目标化合物的 $[ \mathrm { M } \mathrm { + H } ]$ +进行 $\mathbf { M } \mathbf { S } ^ { 2 }$ 裂解分析发现，4个化合物的二级质谱均有符合C14\~C17Mycosubtilin 裂解规律的特征碎片离子出现，故而我们断定枯草芽孢杆菌 $N _ { 2 ^ { - } } 1 0$ 菌株产生的脂肽类抗菌物质为伊枯草菌素家族中的Mycosubtilin。
+
+4结论
+
+本文探明了枯草芽孢杆菌 $N _ { 2 ^ { - 1 0 } }$ 的脂肽类成分及其对肠道细菌的抗菌谱。
+
+参考文献：
+
+[1] 张娟,杨彩梅,曹广添,等.解淀粉芽孢杆菌及其作为益生菌的应用[J].动物营养学报,2014,26(4):863-867.
+
+[2] SOROKULOVA I B.PINCHUK I V,DENAYROLLES M,et al.The safety of two Bacillus probiotic strains for human use[J].Digestive Diseases and Sciences,2008,53(4):954-963.
+
+[3] HONG H A,DUC L H,CUTTING S M.The use of bacterial spore formersas probiotics[J].FEMS Microbiology Reviews,2005,29(4):813-835.   
+[4] JOHNSON B A,ANKER H,MELENEY F L.Bacitracin:a new antibiotic produced by a member of the $B$ subtilis group[J].Science,1945,102(2650):376-377.   
+[5] KOUMOUTSI A,CHEN X H,HENNE A,et al.Structural and functional characterization of gene clusters directing nonribosomal synthesis of bioactive cyclic lipopeptides in Bacillus amyloliquefaciensstrain FZB42[J].Journal of Bacteriology,2004,186(4):1084-1096.   
+[6] SOUTO G 1,CORREA O S,MONTECCHIA M S,et al.Genetic and functional characterization of a Bacillus sp. strain excreting surfactin and antifungal metabolites partially identified as iturin-like compounds[J].Journal of Applied Microbiology,2004,97(6):1247-1256.   
+[7] KIM P II,CHUNG K C.Production of an antifungal protein for control of coletotrichum lagenarium by Bacillus amyloliquefaciens MET0908[J].FEMS Microbiology Letters,2004,234(1):177-183.   
+[8] WANG J,LIU J,WANG X,et al.Application of electrospray ionization mass spectrometry in rapid Typing of fengycin homologues produced by Bacillus subtilis[J].Letters in Applied Microbiology,2004,39(1):98-102.   
+[9] 李冠楠,夏雪娟,隆耀航,等.抗菌肽的研究进展及其应用[J].动物营养学报,2014,26(1):17-25.   
+[10] 曹小红,廖振宇,王春玲,等.Bacillus natto TK-1产脂肽的纯化,抑菌活性及其表面活性剂特性[J].中国生物 工程杂志,2008,28(1):44-48.   
+[11] DELEU M,PAQUOT M,NYLANDER T.Effect of fengycin,a lipopeptide produced by Bacillus subtilis,on model biomembranes[J].Biophysical Journal,2008,94(7):2667-2679.   
+[12] KIM P I,BAI H,BAI D,et al.Purification and characterization of a lipopeptide produced by Bacilus thuringiensis CMB26[J].Journal of Applied Microbiology,2004,97(5):942-949.
+
+[13] YU G Y,SINCLAIR JB,HARTMAN G L,et al.Production of iturin A by Bacillus amyloliquefaciens suppressing Rhizoctonia solani[J].Soil Biology and Biochemistry,2002,34(7):955-963.
+
+[14] SEYDLOVA G,SVOBODOVA J.Review of surfactin chemical properties and the potential biomedical applications[J].Central European Journal of Medicine,20o8,3(2):123-133.
+
+[15] CAZORLA F M,ROMERO D,PEREZ-GARCIA A,et al.Isolation and characterization of antagonistic Bacillus subtilis strains from the avocado rhizoplane displaying biocontrol activity[J].Journal of Applied Microbiology,2007,103(5):1950-1959.
+
+[16] ONGENA M,JACQUES P.Bacillus lipopeptides:versatile weapons for plant disease biocontrol[J].Trends in Microbiol0gy,2008,16(3):115-125.
+
+[17] 张宝.解淀粉芽孢杆菌抗菌脂肽 BacillomycinL的纯化鉴定及抑菌机理研究[D].博士学位论文.北京:中国农业大学,2014:34-39.
+
+[18]翟少伟,李剑,史庆超.抗菌脂肽Surfactin的抗菌活性及应用[J].动物营养学报,2015,27(5):1333-1340. [19]FUKUSHIMA M,NAKANO M.The effect of a probiotic on faecal and liver lipid classes in rats[J].British Journal of Nutrition,1995,73(5):701-710.
+
+[20] MIKKOLA R,KOLARI M,ANDERSSON M A,et al.Toxic lactonic lipopeptide from food poisoning isolates of Bacillus licheniformis[J].European Journal of Biochemistry,2000,267(13):4068-4074.
+
+[21] 侯红漫,靳艳,金美芳,等.环脂肽类生物表面活性剂结构、功能及生物合成[J].微生物学通报,2006,33(5):122-128.
+
+High-Performance Liquid Chromatography-Electrospray Ionization Tandem Mass Spectrometry Analysis of (College of Life Science, Agriculture University of Hebei, Baoding O71oo0, China )
+
+Abstract:Theaim of this paper was to study the antibacterial effect on the intestinal bacterial and active constituent of Bacillus subtilis ${ \bf N } _ { 2 }$ -10 strain with a latent probiotic capacility, to lay the foundation for the healthy functionand mechanism of the in-depth evaluation of the probiotic strains.The antibacterial activity of the ingredients from culture broth was detected by the method of inhibition zone in this paper,using pathogens and probiotics commonly colonizing in the intestinal as indicators.The crude extract with antibacterial activity was further detected by high-performance liquid chromatography-electrospray ionization tandem mass spectrometry (HPLC-ESI-MS/MS).The results of antibacterial assay displayed that the chloroform extract and n-buthanol extract the corresponding culture media had not obvious inhibition activity against the tested strains.The crude lipopetide extact exhibited markedly antagonistic activity against Escherichia coli，Shigella flexneri and Salmonella enterica et cetera intestinal pathogenic bacteria and showed weak inhibitory effect on the probiotic Bulgarian lactobacillus，but had no effect on Streptococcus thermophilus. HPLC-ESI-MS/MS analysis data revealed that the active components in the crude lipopetide extact were C14 to C17 Mycosubtilin homologus. From allresults,itcan beconcluded that Mycosubtilin is produced and is responsible for theantibacterial activity of Bacillus subtilis strain ${ \bf N } _ { 2 }$ -10.
+
+Key words: Bacillus subtilis; lipopeptides; antibacterial activity; HPLC-ESI-MS/MS; mycosubtilin

@@ -1,0 +1,738 @@
+[
+    {
+        "type": "text",
+        "text": "基于混合布谷鸟算法的不确定手术调度模型求解",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨枫1²，叶春明1，汪顶玉1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．上海理工大学 管理学院，上海 200093;2.河南中医药大学 管理学院，郑州 450046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对应急救援情境下手术调度中存在不确定性因素导致无法获得精确的手术时间和结束期问题，设计了一种灰色调度模型和求解该问题的混合灰色布谷鸟算法。首先引入三参数和四参数区间灰数来描述不确定手术时间和不确定结束期，并定义了可能性测度和必然性测度，提出了拖期可信度指标，用于度量手术发生拖期的概率；然后建立了以最小化手术平均拖期可信度为目标的灰色混合整数规划模型，提出了一种混合灰色布谷鸟算法的求解方法，并以规模为 $6 ( 3 ) \\times 3$ 的经典算例为例进行仿真测试。实验表明该算法能很好地解决问题，比基本布谷鸟求解算法有更好的性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：灰色手术调度；不确定条件；布谷鸟算法；可信度；可能性测度；必然性测度 中图分类号:F406.2doi:10.3969/j.issn.1001-3695.2018.08.0622 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Solution of uncertain operation scheduling model based on hybrid Cuckoo algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yang Feng1,2, Ye Chunming1, Wang Dingyu1 (1.Businesschool,UniversityofShanghai forcience&Technology,hanghai23,China; 2.CollgeofManagement, Henan UniversityofTraditional Chinese Medicine,Zhengzhou 45oo46,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Theoperation scheduling in thepresence of uncertainty factors leadto inabilitytoobtain acurate timeof operation and ends under Emergency Rescue Situation.In order to solve the problem,this paper proposed a grey scheduling model anda hybrid greycuckooalgorithm.The modelused threeparameters interval grey number and thefour parameters of intervalgrey number todescribe theuncertaintimeofoperationandtheuncertainends.Then,itdefined the posibility measureand necesity measure to estimate the probabilityof operation tardinessAfter that,this paper established a gray mixed integer programming model with minimize average credibilityof operation tardiness，and presented a solution method of the mixed grey cuckoo search algorithm.A classic example of size $6 ( 3 ) \\times 3$ verified the proposed algorithm. The results show thatthe algorithmcansolve the problem very well,and the performance is beter than the basic cuckoo algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:grayoperation scheduling;uncertaintycondition; Cuckoo search algorithm; credibility;possibility measure; necessity measure ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长期以来，人类社会的进步常常以其赖以生存环境的不断恶化为代价，其后果必然是自然或人为灾害不断增多，突发事件不断增多。如何及时、科学、快速地处理突发事件，将突发事件对社会、经济、环境造成的不利影响降到最低，给政府在突发事件条件下的决策与管理行为提出了巨大挑战。突发事件发生时，应急救援工作的主要任务是在最短的时间内进行应急响应，以减少人员伤亡和财产损失。为了提高伤员救护效率，突发事件发生时，在医疗资源有限、医疗需求不断增加的现实情况下，各医疗部门的合理调度至关重要。在这个过程中，手术室是医院重要的一个部门，也是整个医院资源最为密集的地方。而手术调度管理长期以来一直都是医院管理的瓶颈问题，同时也是提升伤员救护效率最具潜力的方面。手术调度优化问题类似于柔性流水车间调度优化问题（flexible flow-shop schedulingproblem，FFSP)，与车间调度相比，工件换成了患者，机床换成了麻醉室、手术室和复苏室，工件加工过程换成了患者手术过程[I。但是应急救援情境下的手术调度存在大量的不确定因素，如手术资源缺乏、患者手术排程安排不合理、医生决策失误等，这将导致手术时间和结束期的不确定性。对于这种情况，通常把手术时间和结束期按照不确定因素来对待更加符合应急救援情境下的实际情况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，医院手术调度优化研究成果丰硕。文献[2]对手术计划与排程相关研究文献进行综述，从问题描述和技术特征角度将研究成果进行分类整理，提出手术调度中的不确定研究将成为手术调度发展的主要方向之一。邓富民等人[3]针对手术调度设计因素众多难以优化的问题，构建了以病人满意度及手术总流程时间为目标函数的模糊调度数学模型，并提出改进的非支配排序遗传算法。王昱等人[4考虑手术服务的不确定性问题，以院方收益最大为目标，将手术的服务时间表示为有界区间，提出了区间型手术调度问题的两阶段鲁棒优化方法。周炳海等人[5]针对手术中心的利用率问题，提出了基于拉格朗日松弛的手术中心调度算法，以最小化手术中心相关成本和最大化病人满意度为目标，建立数学规划模型，并设计不同问题规模的实验，对算法性能进行了评价和对比分析。文献[3]研究的是多资源约束下手术流程优化，并没有考虑本文所研究的突发事件情境下的手术时间和结束期的不确定性，且该文献提出的非支配排序遗传算法只适合该文献的特定场景，不具有普适性。文献[4]考虑了各种不确定因素，以院方收益为最大目标，但建立的是确定型手术调度模型，仅仅考虑手术服务时间的不确定性，而事实上手术结束期同样存在不确定性，该文献显然考虑的不够全面。文献[5]研究的是外科医生、护士和择期病人的多时段综合调度问题，这与本文研究的方向不同。不确定条件下FFSP的研究也得到大量学者的关注，大多数人采用模糊数学来进行研究，提出了模糊调度的概念，主要思路是从模糊因子的隶属性角度出发，通常采用三角模糊数和梯形模糊数来表示不确定加工时间和不确定交货期。Li等人[研究了一类单机并联配料问题，该问题具有模糊工期和模糊优先关系，目标是最小化最大完工时间，最大化模糊交货期的最小值和模糊优先级的最小值，提出了一种求解非支配解的有效算法。Noori-Darvish等人[7提出一种调度序列在依赖工件准备时间、模糊加工时间和模糊交货期情况下开放车间调度问题的双目标模糊规划模型。Nailwal等人[8]研究了模糊环境下的并行机双指标调度问题，指标为优化加权流时间和最大延迟的环境，提出一种启发式算法来寻找最优解。由于应急救援情境下手术时间和结束期的不确定性，使得调度约束因素不是以确定值形式表示，而是带有比较明显的区间性，上述文献提到的模糊数均为线性分段函数，但是典型FFSP中理想的加工时间和交货期通常是不确定情况下最有可能取到的值，偏离最可能值的概率函数不一定为线性函数，因此这种特点只有灰色系统理论中区间灰数最符合。因此，本文提出了使用三参数区间灰数和四参数区间灰数来描述不确定手术时间和不确定手术结束期，建立灰色手术调度模型，引入可能性测度和必然性测度，定义手术的拖期可信度指标，提出不确定结束拖期优化目标，建立灰色混合整数规划模型，利用智能算法进行求解。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "灰色理论中的区间灰数具备取值机会的概率不等性特征，不少学者对其进行了研究，并取得了一定的研究成果。将区间数引入到多准则优化方法中，用于解决现实世界中大量的不确定性决策问题[9。针对灰数信息对预测结果的影响，提出了将区间灰数序列转换成实数序列，建立区间灰数的预测模型[10]。基于基本区间数的定义，引出三参数区间数，并提出了相应领域的多属性决策方法[I\\~17]。其中文献[11]讨论了灰色目标决策问题，属性值的最大概率是已知的。使用主观或客观赋权法综合确定指标权重，建立指标权重综合优化模型，并利用三参数区间数来确定属性值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 灰色调度建模 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1调度问题描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "确定的手术调度通常是不存在的，在调度过程中，手术的实施过程总是或多或少受到一些不确定因素的影响，实际的调度只能使用一些可能性来度量，因此本文针对不确定的手术时间和不确定的手术结束期问题，采用三参数区间灰数和四参数区间灰数来表示，对于调度的目标，采用优化手术平均拖期可信度来表示。因此，先给出灰数的定义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于只知道其变化范围，无法给出精确值的数称之为灰数，通常记为“ $\\otimes$ ”。根据三参数区间灰数定义[18]，记$a ( \\otimes ) \\in [ \\alpha ^ { - } , \\alpha ^ { \\ast } , \\alpha ^ { + } ]$ 为三参数区间灰数，且 $0 \\leq \\alpha ^ { - } \\leq \\alpha ^ { \\ast } \\leq \\alpha ^ { + }$ ， $\\alpha ^ { - }$ 为区间数的取值下限， $\\alpha ^ { + }$ 为取值上限， $\\alpha ^ { * }$ 为区间中最有可能的取值，称为区间数的重心值。当 $\\alpha ^ { - } = \\alpha ^ { * } = \\alpha ^ { + }$ 时，三参数区间退化为一个实数，当 $\\alpha ^ { - }$ 与 $\\alpha ^ { * }$ 或 $\\alpha ^ { * }$ 与 $\\alpha ^ { + }$ 相同时，三参数区间灰数退化成区间灰数。三参数区间数满足 $\\int _ { \\alpha ^ { - } } ^ { \\alpha ^ { + } } f ( x ) d x = 1$ ，$f _ { \\mathrm { m a x } } = f ( \\alpha ^ { * } )$ ，且在最理想取值两侧的取值曲线并非一定为直线，因此，可以构建三参数区间数的隶属度函数如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r }  \\mu _ { T } ( x ) = \\left\\{ \\begin{array} { c c c } { [ x ^ { \\frac { 1 } { 2 } } - ( \\alpha ^ { - } ) ^ { \\frac { 1 } { 2 } } ] \\cdot [ ( \\alpha ^ { * } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha ^ { - } ) ^ { \\frac { 1 } { 2 } } ] ^ { - 1 } } & { \\alpha ^ { - } < x \\leq \\alpha ^ { * } } \\\\ { [ x ^ { \\frac { 1 } { 2 } } - ( \\alpha ^ { + } ) ^ { \\frac { 1 } { 2 } } ] \\cdot [ ( \\alpha ^ { * } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha ^ { + } ) ^ { \\frac { 1 } { 2 } } ] ^ { - 1 } } & { \\alpha ^ { * } < x \\leq \\alpha ^ { + } } \\\\ { 0 } & { x \\leq \\alpha ^ { - } & { o r \\quad x > \\alpha ^ { + } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据四参数区间灰数定义[19]，记 $b ( \\otimes ) \\in \\ [ \\alpha ^ { - } , \\alpha ^ { * _ { - } } , \\alpha ^ { * _ { + } } , \\alpha ^ { + } ]$ 为四参数区间灰数，且 $0 \\leq \\alpha ^ { - } \\leq \\alpha ^ { * - } \\leq \\alpha ^ { * + } \\leq \\alpha ^ { + }$ 。 $\\alpha ^ { - }$ 和 $\\alpha ^ { + }$ 为四参数区间数的取值下限和取值上限，另外，在此区间内， $\\alpha ^ { * _ { - } }$ 表示下限最可能值， $\\alpha ^ { * + }$ 表示上限最可能值，称二者为区间的双重心点，且满足 $\\int _ { \\alpha ^ { - } } ^ { \\alpha ^ { + } } f ( x ) d x = 1$ ， $f _ { \\mathrm { m a x } } = f ( \\alpha ^ { * _ { - } } )$ 或 $f _ { \\mathrm { m a x } } = f ( \\alpha ^ { * _ { + } } )$ ，当 $\\alpha ^ { * _ { - } }$ 与 $\\alpha ^ { * _ { + } }$ 相同时，四参数区间灰数退化成三参数区间灰数。因此，可以构建四参数区间数的隶属度函数如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { D } ( x ) = \\left\\{ \\begin{array} { l l } { [ x ^ { \\frac { 1 } { 2 } } - ( \\alpha - ) ^ { \\frac { 1 } { 2 } } ] \\cdot [ ( \\alpha ^ { * _ { - } } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha - ) ^ { \\frac { 1 } { 2 } } ] ^ { - 1 } , \\alpha ^ { - } \\leq x < \\alpha ^ { * _ { - } } } \\\\ { 1 , \\alpha ^ { * _ { - } } \\leq x < \\alpha ^ { * _ { + } } } \\\\ { [ x ^ { \\frac { 1 } { 2 } } - ( \\alpha ^ { + } ) ^ { \\frac { 1 } { 2 } } ] \\cdot [ ( \\alpha ^ { * _ { + } } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha ^ { + } ) ^ { \\frac { 1 } { 2 } } ] ^ { - 1 } , \\alpha ^ { * _ { + } } \\leq x < \\alpha ^ { + } } \\\\ { 0 \\qquad \\quad , x < \\alpha ^ { - } \\boxdot { \\mathbb { X } } { \\neq } x \\geq \\alpha ^ { + } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据以上描述，对于手术调度只有麻醉、手术和复苏三个阶段的情况，给出灰色手术调度问题描述如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）设 $P$ 代表 $n$ 个患者的集合，则 $P$ 可以表示为$P = \\{ p _ { 1 } , p _ { 2 } , . . . p _ { n } \\}$ ，其中 $p _ { i }$ 为第 $i$ 个患者， $i = 1 , 2 , . . . n$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）设 $M$ 代表 $\\mid m \\mid$ 台手术设备的集合，则 $M$ 可以表示为$M = \\{ \\{ m _ { 1 1 } , m _ { 1 2 } , . . . , m _ { 1 n } \\}$ ， $\\{ m _ { 2 1 } , m _ { 2 2 } , . . . , m _ { 2 q } \\}$ ， $\\{ m _ { 3 1 } , m _ { 3 2 } , . . . , m _ { 3 r } \\} \\}$ ，其中$m = n + q + r$ ， $\\textit { n }$ 、 $q$ 、 $\\boldsymbol { r }$ 分别为手术阶段1、2、3的多台平行机。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）每个患者都需要在麻醉、手术和复苏三个手术阶段上进行手术。对每个患者，手术阶段的次序是相同的。一个手术设备同时最多只能对一个患者执行操作。至少有一个手术阶段有多台设备，如麻醉间、手术间或者复苏室。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)患者 $P _ { i }$ 手术时间集合为 $T = \\{ a _ { i 1 } ( \\otimes )$ $a _ { i 2 } ( \\otimes )$ …， $a _ { i m } ( \\otimes ) \\}$ ，$a _ { i k } \\left( \\otimes \\right)$ 为三参数区间灰数， $a _ { i k } \\left( \\otimes \\right) \\in [ T _ { i k } ^ { - } , T _ { i k } ^ { * } , T _ { i k } ^ { + } ]$ ，表示患者 $i$ 的第$k$ 个手术阶段需要的时间。 $\\begin{array} { r } { T _ { i k } ^ { * } } \\end{array}$ 为该操作最可能的时间， $T _ { i k } ^ { - }$ 为该操作最短时间， $T _ { i k } ^ { + }$ 为最长时间，函数 $\\mu _ { i k } ( t )$ 用来表示在时间 $t$ 下患者 $i$ 的第 $k$ 个手术阶段完成的可能性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（5）患者 $i$ 的手术结束期用一个四参数灰数 $D _ { i } ( \\otimes ) =$ $( d _ { i } ^ { - } , d _ { i } ^ { * - } , d _ { i } ^ { * + } , d _ { i } ^ { + } )$ 来表示，区间 $( d _ { i } ^ { * } { } ^ { - } , d _ { i } ^ { * } { } ^ { + } )$ 为患者 $i$ 的最可能手术结束期。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "调度问题的其他约束条件与经典FFSP的约束条件基本一致。由于患者的手术结束期更能反映应急救援情境下的需求变化，所以本文研究的调度的最终目标是找到可行的调度方案，使得患者手术的平均结束拖期最小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2灰数操作算子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "手术设备 $k$ 上待手术患者集合为排队序列，如果排队序列中患者 $i$ 的前方存在患者序列 $1 , 2 , . . . , i { - 1 }$ ，将这些患者的手术时间进行加操作，就得到了患者 $i$ 的手术结束时间，因此定义两个灰数的加操作。由文献[20]可得三参数区间灰数的加运算：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1 $a _ { i k } \\left( \\otimes \\right) \\in \\left[ \\alpha ^ { - } , \\alpha ^ { * } , \\alpha ^ { + } \\right]$ ， $a _ { j k } \\left( \\otimes \\right) \\in \\left[ \\beta ^ { - } , \\beta ^ { \\ast } , \\beta ^ { + } \\right]$ ，则$a _ { i k } \\left( \\otimes \\right) + a _ { j k } \\left( \\otimes \\right) = \\left[ \\alpha ^ { - } + \\beta ^ { - } , \\alpha ^ { * } + \\beta ^ { * } , \\alpha ^ { + } + \\beta ^ { + } \\right]$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由定义1中的灰数加操作算子，可以得到患者 $i$ 的灰色手术结束时间 $a _ { i } ( \\otimes )$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i } ( \\otimes ) = \\sum _ { q = 1 } ^ { i } a _ { q k } \\left( \\otimes \\right) , q = 1 , 2 , . . . , n\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $a _ { \\scriptscriptstyle { q k } } ( \\otimes )$ 为患者 $q$ 在手术设备 $k$ 上的灰色手术时间。为了",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "得到患者手术的拖期，还需要给出四参数区间灰数的减操作算子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理1对于四参数区间数的隶属度函数式（2)，存在$\\begin{array} { r } { x _ { 1 } \\in [ \\alpha _ { i } ^ { - } , \\alpha _ { i } ^ { * - } ) \\qquad , \\qquad x _ { 2 } \\in [ \\alpha _ { j } ^ { * + } , \\alpha _ { j } ^ { + } ) \\qquad \\not \\exists [ ] \\qquad x _ { 3 } = ( x _ { 1 } ^ { \\frac { 1 } { 2 } } - x _ { 2 } ^ { \\frac { 1 } { 2 } } ) ^ { 2 } } \\end{array}$ ，使得： $\\begin{array} { r } { \\mu _ { D _ { i } } ( x _ { 1 } ) = \\mu _ { D _ { j } } ( x _ { 2 } ) = \\frac { ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } - x _ { 3 } ^ { \\frac { 1 } { 2 } } } { ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { i } ^ { + } ) ^ { \\frac { 1 } { 2 } } + ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } } } \\end{array}$ 成立。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明 若 $\\mu _ { D _ { i } } ( x _ { 1 } ) = \\mu _ { D _ { j } } ( x _ { 2 } )$ （204号 则$[ x _ { 1 } ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } ] \\cdot [ ( \\alpha _ { i } ^ { * - } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } ] ^ { - 1 } = [ x _ { 2 } ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } ] \\cdot [ ( \\alpha _ { j } ^ { * + } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } ] ^ { - 1 }$ 求解得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { 2 } = ( [ ( \\alpha _ { j } ^ { * + } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } ] \\cdot [ ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - x _ { 1 } ^ { \\frac { 1 } { 2 } } ] / [ ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { i } ^ { * - } ) ^ { \\frac { 1 } { 2 } } ] + ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "故有 $[ ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } - x _ { 3 } ^ { \\frac { 1 } { 2 } } ] / [ ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { i } ^ { * _ { - } } ) ^ { \\frac { 1 } { 2 } } + ( \\alpha _ { j } ^ { * _ { + } } ) ^ { \\frac { 1 } { 2 } } ]$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$C o n _ { i } ( x \\ge 0 ) = \\delta P o s ( x \\ge 0 ) + ( 1 - \\delta ) N e c ( x \\ge 0 )$ ， $0 \\leq \\delta \\leq 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由定义5可知，当 $0 < \\delta < 1$ 时，若患者 $i$ 的手术拖期可信度 $C o n _ { i } ( x \\ge 0 ) = 1$ ，则有 $N e c ( x \\ge 0 ) = 1$ ，即患者 $i$ 一定发生手术拖期，若 $C o n _ { i } ( x \\ge 0 ) = 0$ ，则 $P o s ( x \\ge 0 ) = 0$ ，那么患者一定不会发生手术拖期情况。拖期可信度系数 $\\delta$ 依据多种因素来确定，如决策者和手术拖期惩罚程度等， $\\delta$ 取值越小，那么决策越趋向保守。拖期可信度系数 $\\delta$ 对手术调度的不确定性影响有重要的意义，当突发事件下应急手术调度的伤员数量较少，系数的灵敏度较小，手术调度的不确定性就会大大降低，手术发生拖期的可能性也变小；反之，当有大批量的伤员被送到医院急救，医院手术资源的负荷就会增加，系数的灵敏度增大，手术调度的不确定性显著增加。如果拖期可信度系数增大到规定的阈值，应急救援管理者必须停止向该医院转运伤员，应该安排其他的医疗机构接收。根据可信度定义，得到下面的性质：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "性质1若患者 $i$ 的灰色手术拖期为 $T _ { i } ( \\otimes ) = ( \\alpha _ { i } ^ { - } , \\alpha _ { i } ^ { * - } , \\alpha _ { i } ^ { * + } , \\alpha _ { i } ^ { + } )$ ， $= [ ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - x _ { 1 } ^ { \\frac { 1 } { 2 } } ] \\cdot [ 1 + [ ( \\alpha _ { j } ^ { * } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } ] / [ ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { i } ^ { * * } ) ^ { \\frac { 1 } { 2 } } ] ] / [ ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { i } ^ { * } ) ^ { \\frac { 1 } { 2 } } + ( \\alpha _ { j } ^ { * * } ) ^ { \\frac { 1 } { 2 } } ] $ $\\alpha _ { i } ^ { - } < \\alpha _ { i } ^ { * - } \\leq \\alpha _ { i } ^ { * + } < \\alpha _ { i } ^ { + }$ ，则患者 $i$ 的手术拖期可信度 $C o n _ { i } ( x \\ge 0 )$ 为 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= [ ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - x _ { 1 } ^ { \\frac { 1 } { 2 } } ] / [ ( \\alpha _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - ( \\alpha _ { i } ^ { * - } ) ^ { \\frac { 1 } { 2 } } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以存在 $x _ { 1 }$ ， $x _ { 2 }$ 和 $x _ { 3 } = ( x _ { 1 } ^ { \\frac { 1 } { 2 } } - x _ { 2 } ^ { \\frac { 1 } { 2 } } ) ^ { 2 }$ ，使得$\\begin{array} { r } { \\mu _ { D _ { i } } ( x _ { 1 } ) = \\mu _ { D _ { j } } ( x _ { 2 } ) = \\frac { ( \\boldsymbol { \\alpha } _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - ( \\boldsymbol { \\alpha } _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } - x _ { 3 } ^ { \\frac { 1 } { 2 } } } { ( \\boldsymbol { \\alpha } _ { i } ^ { - } ) ^ { \\frac { 1 } { 2 } } - ( \\boldsymbol { \\alpha } _ { j } ^ { + } ) ^ { \\frac { 1 } { 2 } } - ( \\boldsymbol { \\alpha } _ { i } ^ { * - } ) ^ { \\frac { 1 } { 2 } } + ( \\boldsymbol { \\alpha } _ { j } ^ { * + } ) ^ { \\frac { 1 } { 2 } } } } \\end{array}$ 成立，定理1得证。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义2对于两个四参数区间灰数 $b _ { i } ( \\otimes ) \\in [ \\alpha _ { i } ^ { - } , \\alpha _ { i } ^ { * - } , \\alpha _ { i } ^ { * + } , \\alpha _ { i } ^ { + } ]$ 和 $b _ { j } ( \\otimes ) \\in [ \\alpha _ { j } ^ { - } , \\alpha _ { j } ^ { * _ { - } } , \\alpha _ { j } ^ { * _ { + } } , \\alpha _ { j } ^ { + } ]$ ，由文献[21]可得，经过减操作运算后得到四参数区间灰数为$b _ { i } ( \\otimes ) - b _ { j } ( \\otimes ) \\in ( \\alpha _ { i } ^ { - } - \\alpha _ { j } ^ { + } , \\alpha _ { i } ^ { * - } - \\alpha _ { j } ^ { * + } , \\alpha _ { i } ^ { * + } - \\alpha _ { j } ^ { * - } , \\alpha _ { i } ^ { + } - \\alpha _ { j } ^ { - } )$ （202",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于患者的手术结束时间是三参数区间灰数，而手术结束期为四参数区间灰数，在两者进行运算时，可以将三参数区间灰数当做一类特殊的四参数区间灰数来对待，即$a _ { i k } ( \\otimes ) \\in [ \\alpha _ { i k } ^ { - } , \\alpha _ { i k } ^ { * } , \\alpha _ { i k } ^ { + } ] \\iff a _ { i k } ( \\otimes ) \\in [ \\alpha _ { i k } ^ { - } , \\alpha _ { i k } ^ { * } , \\alpha _ { i k } ^ { * } , \\alpha _ { i k } ^ { + } ]$ 。由定义2得到手术设备 $k$ 等待区中患者 $i$ 的灰色手术拖期为$T _ { i } ( \\otimes ) = a _ { i } ( \\otimes ) - b _ { i } ( \\otimes ) \\ = ( \\alpha _ { i k } ^ { - } - \\alpha _ { i } ^ { + } , \\alpha _ { i k } ^ { * - } - \\alpha _ { i } ^ { * + } , \\alpha _ { i k } ^ { * - } - \\alpha _ { i } ^ { * - } , \\alpha _ { i k } ^ { * + } - \\alpha _ { i } ^ { - } )$ （20",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义 $\\textbf { 3 }$ 设有两个四参数区间数 $b _ { i } ( \\otimes ) \\in [ \\alpha _ { i } ^ { - } , \\alpha _ { i } ^ { * _ { - } } , \\alpha _ { i } ^ { * _ { + } } , \\alpha _ { i } ^ { + } ]$ ， （20 $b _ { j } ( \\otimes ) \\in [ \\alpha _ { j } ^ { - } , \\alpha _ { j } ^ { * _ { - } } , \\alpha _ { j } ^ { * _ { + } } , \\alpha _ { j } ^ { + } ]$ ，若有 $\\alpha _ { i } ^ { - } \\geq \\alpha _ { j } ^ { - }$ ， $\\alpha _ { i } ^ { * _ { - } } \\geq \\alpha _ { j } ^ { * _ { - } }$ ， $\\alpha _ { i } ^ { * _ { + } } \\geq \\alpha _ { j } ^ { * _ { + } }$ ， $\\alpha _ { i } ^ { + } \\geq \\alpha _ { j } ^ { + }$ ，则 $b _ { i } ( \\otimes ) \\geq b _ { j } ( \\otimes )$ 。同理,若有 $\\alpha _ { i } ^ { - } \\leq \\alpha _ { j } ^ { - }$ ， $\\alpha _ { i } ^ { * _ { - } } \\leq \\alpha _ { j } ^ { * _ { - } }$ ， $\\alpha _ { i } ^ { * _ { + } } \\leq \\alpha _ { j } ^ { * _ { + } }$ ， （204号 $\\alpha _ { i } ^ { + } \\leq \\alpha _ { j } ^ { + }$ ，则 $b _ { i } ( \\otimes ) \\leq b _ { j } ( \\otimes )$ □ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此可知，若患者 $i$ 的不确定手术拖期 $b _ { i } ( \\otimes )$ 大于0，则说明患者 $i$ 必定发生了手术拖期，否则不会发生。因此可以用可能性测度和必然性测度对患者的不确定手术拖期进行表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3目标函数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义4设集合 $A$ 、 $B \\ \\in F ( X )$ ， $x \\in X$ ， $\\mu _ { A }$ 、 $\\mu _ { B }$ 分别为A和B的隶属度函数，若PosA(B)=supmin{μA(x),μB(x)}，$N e c _ { A } ( B ) = \\operatorname* { i n f } _ { x \\in X } \\operatorname* { m a x } \\{ 1 - \\mu _ { A } ( x ) , \\mu _ { B } ( x ) \\}$ ，称 $P o s _ { A } ( B )$ 和 $N e c _ { A } ( B )$ 为 $B$ 在 $A$ 发生的条件下的可能性测度和必然性测度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "很显然， $P o s ( x \\ge 0 )$ 和 $N e c ( x \\ge 0 )$ ，表示 $x$ 不小于0的可能性和必然性的程度大小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义5假设患者 $i$ 的灰色手术拖期 $T _ { i } ( \\otimes ) = ( \\alpha _ { i } ^ { - } , \\alpha _ { i } ^ { * - } , \\alpha _ { i } ^ { * + } , \\alpha _ { i } ^ { + } )$ ，将患者 $i$ 的手术拖期可信度定义为其发生手术拖期的可能性测度和必然性测度的加权之和，记做 $C o n _ { i } ( x \\ge 0 )$ ，有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C o n _ { i } ( x \\geq 0 ) = \\left\\{ \\begin{array} { l l } { ~ 0 , } & { \\alpha _ { i } ^ { + } \\leq 0 } \\\\ { \\delta \\alpha _ { i } ^ { + } / \\left( \\alpha _ { i } ^ { + } - \\alpha _ { i } ^ { * + } \\right) , \\alpha _ { i } ^ { + } > 0 , } & { \\alpha _ { i } ^ { * + } \\leq 0 } \\\\ { ~ \\delta , } & { \\alpha _ { i } ^ { * + } > 0 , \\alpha _ { i } ^ { * - } \\leq 0 } \\\\ { ( \\alpha _ { i } ^ { * - } - \\delta \\alpha _ { i } ^ { - } ) / \\left( \\alpha _ { i } ^ { * - } - \\alpha _ { i } ^ { - } \\right) , \\alpha _ { i } ^ { * - } > 0 , \\alpha _ { i } ^ { - } \\leq 0 } \\\\ { ~ 1 , } & { \\alpha _ { i } ^ { - } > 0 } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设手术调度中患者 $i$ 的灰色手术结束时间、灰色手术期和灰色手术拖期分别为 $a _ { i k } ( \\otimes )$ 、 $D _ { i } ( \\otimes )$ 和 $T _ { i } ( \\otimes )$ ，所有患者的可行手术调度集合为 $s$ ，如果已知调度 $x \\in S$ ，令 $f ( x )$ 表示目标函数，那么由式(4)可以建立灰色混合整数规划模型如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\operatorname* { m i n } _ { x \\in S } \\sum _ { i = 1 } ^ { n } \\sum _ { k = 1 } ^ { m } \\{ \\omega _ { \\mathrm { i } } - \\delta \\alpha _ { i } ^ { + } / ( \\alpha _ { i } ^ { + } - \\alpha _ { i } ^ { * + } ) + } } \\\\ { { \\displaystyle \\omega _ { 2 } \\delta + \\omega _ { 3 } ( \\alpha _ { i } ^ { * - } - \\delta \\alpha _ { i } ^ { - } ) / ( \\alpha _ { i } ^ { * - } - \\alpha _ { i } ^ { - } ) + \\omega _ { 4 } \\} m _ { i k j } / n } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns . t . \\sum _ { k = 1 } ^ { m } \\sum _ { i = 1 } ^ { n } m _ { i k j } = 1 \\quad , i = 1 , 2 , . . . , n\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { n } m _ { i k j } \\leq 1 k = 1 , 2 , . . . , m ; j = 1 , 2 , . . . , n\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i k j _ { i } } \\left( \\otimes \\right) = \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { j _ { i } } a _ { j k } \\left( \\otimes \\right) m _ { i j k } \\quad i , j _ { i } = 1 , 2 , . . . , n ;\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = 1 , 2 , . . . , m\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { i } ( \\otimes ) = a _ { i k j _ { i } } ( \\otimes ) - D _ { i } ( \\otimes ) i , j _ { i } = 1 , 2 , . . . , n\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { i k j } = 0 , 1 i , j = 1 , 2 , . . . n ; k = 1 , 2 , . . . , m\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { q } = 0 , 1 \\quad q \\in \\{ 1 , 2 , 3 , 4 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该模型的求解目标是获得一个最优的调度方案，使得目标函数 $f ( x )$ 最小，本文中目标函数为所有患者手术拖期可信度的平均值，式（6）约束每个患者在手术设备排队序列上的位置唯一，不允许同时独占多个位置，式（7）约束手术设备的排队序列中的每个位置只能允许一个患者进行手术，式(8)定义手术设备 $k$ 的排队序列中的 $j _ { i }$ 位置的患者 $i$ 的灰色手术结束时间 $a _ { i k j _ { i } } ( \\otimes )$ ，式（9）定义了患者 $i$ 的灰色手术拖期 $T _ { i } ( \\otimes )$ ，式（10）定义了指示变量 $m _ { i k j }$ ，当患者 $i$ 位于手术设备 $k$ 排队序列中第 $j$ 位置时 $m _ { i k j } = 1$ ，其他情况 $m _ { i k j } = 0$ ，式（11）中若$\\omega _ { q } \\leq 0$ ，则令 $\\omega _ { q } = 1$ ，其他情况 ${ \\omega } _ { { q } } = 0$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理2如果患者 $i$ 的灰色手术拖期 $T _ { i } ( \\otimes ) = ( \\alpha _ { i } ^ { - } , \\alpha _ { i } ^ { * - } , \\alpha _ { i } ^ { * + } , \\alpha _ { i } ^ { + } )$ ，$\\alpha _ { i } ^ { - } < \\alpha _ { i } ^ { * - } \\leq \\alpha _ { i } ^ { * + } < \\alpha _ { i } ^ { + }$ ，则它的手术拖期可信度 $C o n _ { T _ { i } ( \\otimes ) } \\geq C o n _ { T _ { i } ( \\otimes ) - a _ { j } ( \\otimes ) }$ ，其中四参数灰数 $a _ { j } ( \\otimes ) = ( \\alpha _ { j } ^ { - } , \\alpha _ { j } ^ { * _ { - } } , \\alpha _ { j } ^ { * _ { + } } , \\alpha _ { j } ^ { + } )$ ，加工时间不为0。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明 由于患者手术拖期可信度系数 $\\delta \\in [ [ 0 , 1 ]$ ，对于式(4)的分段函数， 很显然有$0 \\le \\delta \\alpha _ { i } ^ { + } / ( \\alpha _ { i } ^ { + } - \\alpha _ { i } ^ { * _ { + } } ) \\le \\delta \\le ( \\alpha _ { i } ^ { * _ { - } } - \\delta \\alpha _ { i } ^ { - } ) / ( \\alpha _ { i } ^ { * _ { - } } - \\alpha _ { i } ^ { - } ) \\le 1$ + 于是$\\begin{array} { r } { T _ { i } ( \\otimes ) - a _ { j } ( \\otimes ) = ( \\alpha _ { i } ^ { - } - \\alpha _ { j } ^ { + } , \\alpha _ { i } ^ { * - } - \\alpha _ { j } ^ { * + } , \\alpha _ { i } ^ { * + } - \\alpha _ { j } ^ { * - } , \\alpha _ { i } ^ { + } - \\alpha _ { j } ^ { - } ) } \\end{array}$ ，可以看出$\\alpha _ { i } ^ { - } - \\alpha _ { j } ^ { + } \\leq \\alpha _ { i } ^ { - }$ ， $\\alpha _ { i } ^ { * - } - \\alpha _ { j } ^ { * + } \\leq \\alpha _ { i } ^ { * - }$ ， $\\alpha _ { i } ^ { * + } - \\alpha _ { j } ^ { * - } \\leq \\alpha _ { i } ^ { * + }$ ， $\\alpha _ { i } ^ { + } - \\alpha _ { j } ^ { - } \\leq \\alpha _ { i } ^ { + }$ ，故Coni ≥ConT(@)-aj(@)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理3如果一个调度序列S中，手术设备 $k$ 有若干个患者存在于其排队序列中，假设患者 $i$ 的灰色手术结束期和灰色手术时间为 $D _ { i } ( \\otimes )$ 和 $a _ { i k } ( \\otimes )$ ，患者 $j$ 的灰色手术结束期和灰色手术时间为 $D _ { j } ( \\otimes )$ 和 $a _ { j k } ( \\otimes )$ ， $a _ { i k } ( \\otimes ) = ( \\alpha _ { i k } ^ { - } , \\alpha _ { i k } ^ { * _ { - } } , \\alpha _ { i k } ^ { * _ { + } } , \\alpha _ { i k } ^ { + } )$ ，$a _ { j k } ( \\otimes ) = ( \\alpha _ { j k } ^ { - } , \\alpha _ { j k } ^ { * _ { - } } , \\alpha _ { j k } ^ { * _ { + } } , \\alpha _ { j k } ^ { + } )$ ， $i , j = 1 , 2 , . . . , r$ ， $k = 1 , 2 , . . . m$ ， $\\boldsymbol { r }$ 为手术设备 $k$ 排队序列中患者的数目， $i$ 和 $j$ 为患者 $i$ 和患者 $j$ 在手术设备 $k$ 排队序列中的位置，如果灰色手术结束期$D _ { i } ( \\otimes ) < D _ { j } ( \\otimes )$ ，且 $a _ { i k } ( \\otimes ) - D _ { i } ( \\otimes ) < a _ { j k } ( \\otimes ) - D _ { j } ( \\otimes )$ ，则患者 $j$ 的手术顺序一定在患者 $i$ 之后。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明假定手术时间大于0，在一个优化的调度序列 $s$ 中，手术设备 $k$ 的排队序列中所有患者的手术拖期可信度平均值 $f _ { k } ( S )$ 为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { k } ( S ) = \\frac { \\large _ { 1 } } { \\large [ \\sum _ { w = 1 } ^ { i - 1 } } C o n _ { T _ { w } ( \\otimes ) } + C o n _ { T _ { i } ( \\otimes ) } + \\sum _ { \\nu = i + 1 } ^ { j - 1 } C o n _ { T _ { \\nu } ( \\otimes ) } + C o n _ { T _ { j } ( \\otimes ) } + \\sum _ { u = j + 1 } ^ { r } C o n _ { T _ { u } ( \\otimes ) } \\large ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果调换患者 $i$ 和 $j$ 的位置，即患者 $j$ 比患者 $i$ 先手术，假设获得到的另一个优化调度序列为 $s ^ { \\prime }$ ，则对于新序列 $\\boldsymbol { s }$ ，手术设备 $k$ 的排队序列中所有患者的手术拖期可信度平均值$f _ { k } ( \\boldsymbol { S } ^ { \\prime } )$ 为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { k } ( { \\boldsymbol { S } } ^ { \\prime } ) = \\frac { 1 } { r } [ \\sum _ { w = 1 } ^ { i - 1 } C o n _ { T _ { w } ^ { * } ( \\otimes ) } + C o n _ { T _ { i } ( \\otimes ) } + \\sum _ { \\upsilon = i + 1 } ^ { j - 1 } C o n _ { T _ { \\upsilon } ^ { * } ( \\otimes ) } + C o n _ { T _ { j } ( \\otimes ) } + \\sum _ { \\upsilon = j + 1 } ^ { r } C o n _ { T _ { i } ^ { * } ( \\otimes ) } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于在手术设备 $k$ 的整个排队序列中，仅有患者 $i$ 和 $j$ 互换了位置，其他的均未变化，所以对于患者 $u$ 、 $\\nu$ 和 $w$ 的灰色手术拖期 $T _ { u } ( \\otimes ) = T _ { u } ^ { * } ( \\otimes )$ ， ${ \\cal T } _ { \\nu } ( \\otimes ) = { \\cal T } _ { \\nu } ^ { * } ( \\otimes )$ ， $T _ { \\nu } ( \\otimes ) = T _ { \\nu } ^ { * } ( \\otimes )$ ，其中，$u \\in [ j + 1 , r ]$ ， $\\nu \\in [ i + 1 , j - 1 ]$ ， $w \\in [ 1 , i - 1 ]$ ，并且",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { j } ( \\otimes ) = \\sum _ { w = 1 } ^ { i - 1 } a _ { w k } \\left( \\bigotimes \\right) + a _ { j k } ( \\bigotimes ) - D _ { j } ( \\bigotimes )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { i } ( \\otimes ) = \\sum _ { w = 1 } ^ { i - 1 } a _ { w k } \\left( \\bigotimes \\right) + a _ { i k } \\left( \\bigotimes \\right) - D _ { i } ( \\bigotimes )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于 $a _ { i k } ( \\otimes ) - D _ { i } ( \\otimes ) < a _ { j k } ( \\otimes ) - D _ { j } ( \\otimes )$ 可知 $T _ { j } ^ { \\prime } ( \\otimes ) > T _ { i } ( \\otimes )$ ，且由定理2可知手术拖期可信度 $C o n _ { T _ { j } ( \\otimes ) } > C o n _ { T _ { i } ( \\otimes ) }$ 。对于调度序列 $s ^ { \\prime }$ 中患者 $i$ 和 $s$ 中的患者 $j$ 的灰色手术拖期 $T _ { i } ^ { ' } ( \\otimes )$ 和 $T _ { j } ( \\otimes )$ 有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { i } ^ { ' } ( \\otimes ) = \\sum _ { w = 1 } ^ { i - 1 } a _ { w k } ( \\otimes ) + a _ { j k } ( \\otimes ) + \\sum _ { \\nu = i + 1 } ^ { j - 1 } a _ { \\nu k } ( \\otimes ) + a _ { i k } ( \\otimes ) - D _ { i } ( \\otimes )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { j } ( \\otimes ) = \\sum _ { w = 1 } ^ { i - 1 } a _ { w k } ( \\otimes ) + a _ { i k } ( \\otimes ) + \\sum _ { \\nu = i + 1 } ^ { j - 1 } a _ { \\nu k } ( \\otimes ) + a _ { j k } ( \\otimes ) - D _ { j } ( \\otimes )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "而 $D _ { j } ( \\otimes ) > D _ { i } ( \\otimes )$ ，故由式（16）和（17）得到 ${ T _ { i } ^ { * } ( \\otimes ) > T _ { j } ( \\otimes ) }$ 。由定理2 可知，手术拖期可信度 $C o n _ { T _ { i } ^ { \\prime } ( \\otimes ) } > C o n _ { T _ { j } ( \\otimes ) }$ ，因此由式（12）和（13）可知手术设备 $k$ 的排队序列中患者手术拖期可信度之和 $f _ { k } ( S ^ { \\prime } ) > f _ { k } ( S )$ ，说明调换患者 $i$ 和 $j$ 位置后的调度序列不比调换前更优，患者 $j$ 的手术顺序一定在患者 $i$ 之后，定理得证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 混合灰色布谷鸟算法设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1布谷鸟算法简介",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "布谷鸟算法（Cuckoo search，CS）[22]是一种仿生群智能算法，它由英国剑桥大学的Yang和拉曼工程大学的Deb 在2009年对布谷鸟寻窝产卵的行为进行研究，进而提出的一种启发式搜索算法。该算法被提出后，得到了许多科研人员的广泛关注并获取了许多优异的科研成果。2010 年，Yang 等人[23]在多目标求解问题中应用了布谷鸟算法。2011年，Valian等人[24]提出一种利用前向神经网络反馈改进的布谷鸟算法。2015年，Wang 等人[25]提出了一种具有混沌映射的变值模式布谷鸟算法。CS的基本思想源于布谷鸟的繁殖后代行为和鸟儿的Lévy飞行模式。Lévy飞行是一种长时间小范围局部搜索与偶尔较大范围探索相结合的随机飞行方式，通常产生较大跳跃的不均匀随机游走，这种方式能有效避免局部极值的吸引，具备较好的全局寻优能力，因此采用CS来求解本文提出的灰色混合整数规划模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CS算法适合于小规模实验，不适用于计算消耗大的优化问题，而且算法的搜索完全依靠随机游走，在寻优过程中消耗过多的计算量，不能保证算法的快速收敛，但是如果将CS算法与特定场合下的问题特性相结合，将问题特性融入到CS算法中，将能提高算法的搜索能力，获得较好的计算性能。下面给出一种混合灰色布谷鸟算法（hybrid grayCuckoosearch,HGCS）的实现过程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2编码设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于离散型的患者手术排序编码问题，无法直接使用CS算法，本文采用基于手术序列的编码规则。假设每个鸟巢的位置表示一个可行调度解，对于 $\\mid m$ 台手术设备 $n$ 个患者，可行解的编码可以用 $\\boldsymbol { n } \\times \\boldsymbol { m }$ 个鸟巢位置来表示，它代表一个手术序列的排列，每个患者必须出现但是只能出现 $m$ 次。例如对于 $4 \\times 3$ 的患者和手术设备，若位置编码为132143123442，对应的患者的手术序列为（ $J _ { 1 , 1 }$ ， $J _ { 3 , 1 }$ ， $J _ { 2 , 1 }$ ， $J _ { { \\mathrm { 1 } } , { 2 } }$ ， $J _ { 4 , 1 }$ ， $J _ { 3 , 2 }$ ，$J _ { { 1 , 3 } }$ ， $J _ { 2 , 2 }$ ， $J _ { 3 , 3 }$ ， $J _ { 4 , 2 }$ ， $J _ { 4 , 3 }$ ， $J _ { 2 , 3 } \\ )$ ，其中 $J _ { i , j }$ 表示第 $i$ 个患者的第 $j$ 个手术阶段，即第1个患者先在麻醉室进行麻醉，接着第3个患者在麻醉室进行麻醉，然后第2个患者在麻醉室麻醉，第1个患者在手术室进行手术，依此类推，最后第2个患者在复苏室复苏，如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bdde8ecd99ce72efa69060ef12b99b870adfa69142a99532b1871a149d01cb1.jpg",
+        "img_caption": [
+            "图1手术序列编码",
+            "Fig.1Surgical sequence coding "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 初始种群产生",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在CS中首先必须要初始化鸟巢的位置，这种初始化是通过随机的方式产生的，没有使用任何与要求解问题相关的知识，因此初始的种群的质量并不高。为了改进初始种群的质量，本文将手术调度的最短手术时间优先规则与最早手术结束期优先规则进行结合，利用两者的特征，提出一种灰色启发式算法，用来产生部分初始鸟巢位置。具体描述如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于四参数灰数 $w ( \\otimes ) = ( \\alpha ^ { - } , \\alpha ^ { \\ast - } , \\alpha ^ { \\ast + } , \\alpha ^ { + } )$ ，令$s i g n ( w ( \\emptyset ) ) = \\delta ( \\alpha ^ { - } + \\alpha ^ { * - } ) + ( 1 - \\delta ) ( \\alpha ^ { * + } + \\alpha ^ { + } )$ 为 $w ( \\otimes )$ 的灰色标记， $\\delta$ 为患者手术拖期可信度系数，对于患者的灰色手术时间$a _ { i k } ( \\otimes ) = ( \\alpha _ { i k } ^ { - } , \\alpha _ { i k } ^ { * } , \\alpha _ { i k } ^ { + } )$ ，有 $s i g n ( a _ { i k } ( \\otimes ) ) = \\delta ( \\alpha _ { i k } ^ { - } + \\alpha _ { i k } ^ { * } ) + ( 1 - \\delta ) ( \\alpha _ { i k } ^ { * } + \\alpha _ { i k } ^ { + } )$ ，对于患者的灰色手术结束期 $D _ { i } ( \\otimes ) = ( d _ { i } ^ { - } , d _ { i } ^ { * _ { - } } , d _ { i } ^ { * _ { + } } , d _ { i } ^ { + } )$ 有$s i g n ( D _ { i } ( \\otimes ) ) = \\delta ( d _ { i } ^ { - } + d _ { i } ^ { * - } ) + ( 1 - \\delta ) ( d _ { i } ^ { * + } + d _ { i } ^ { + } )$ 。因此最短手术时间和最早手术结束期可以表示为 $M i n \\{ s i g n ( a _ { i k } ( \\otimes ) ) \\}$ 和 $M i n \\{ s i g n ( D _ { i } ( \\otimes ) ) \\}$ 。那么，给出获取种群初始解的灰色启发式算法如下步骤：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）建立患者、手术设备和结束期的灰色标记集合：$P _ { k } = \\{ s i g n ( a _ { 1 k } ( \\otimes ) ) , s i g n ( a _ { 2 k } ( \\otimes ) ) , . . . , s i g n ( a _ { n k } ( \\otimes ) ) \\}$ ， $k \\in [ 1 , m ]$ ，$M _ { l } = \\{ s i g n ( a _ { l 1 } ( \\otimes ) ) , s i g n ( a _ { l 2 } ( \\otimes ) ) , . . . , s i g n ( a _ { l m } ( \\otimes ) ) \\}$ ， $l \\in [ 1 , n ]$ （204号 ，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { q } = \\{ s i g n ( D _ { 1 } ( \\otimes ) ) , s i g n ( D _ { 2 } ( \\otimes ) ) , . . . , s i g n ( D _ { n } ( \\otimes ) ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b）令 $s i g n ( D _ { q } ^ { ' } ( \\otimes ) ) = M i n ( D _ { q } )$ ， $s i g n ( a _ { l k } ( \\otimes ) ) = M i n ( M _ { l } )$ ，$s i g n ( a _ { l ^ { \\prime } k } ( \\otimes ) ) = M i n ( P _ { l } )$ ，即将患者 $\\mathbf { \\xi } _ { l } \\mathbf { \\cdot } \\mathbf { \\xi } _ { l } ,$ 分配给 $k ^ { \\prime }$ 进行手术，集合$P _ { k } = P _ { k } - s i g n ( a _ { l k } ( \\otimes ) )$ ， $M _ { l } = M _ { l } - s i g n ( a _ { l k } ( \\otimes ) ) , D _ { q } = D _ { q } - s i g n ( D _ { i } \\left( \\otimes \\right) )$ ，$i = 1 , 2 , . . . , n$ ， $k = 1 , 2 , . . . , m$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c）依次重复 $\\boldsymbol { \\mathbf { b } }$ )，直至每个手术设备均被分配给患者。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了使初始种群中鸟巢的位置保持种群多样性，将全部种群的三分之一部分使用上述步骤产生，剩下的部分仍然采用随机产生。设定CS算法的基本参数为搜索空间维数为 $m$ ，鸟巢个数为 $n$ ，宿主发现外来鸟蛋的概率为 $P _ { a }$ ，算法的最大迭代次数为 $M a x T$ ，获得初始化鸟巢的位置后，依据手术序列编码的方式将鸟巢位置转换为手术序列排列，然后计算各鸟巢位置对应的目标函数值（本文需要计算 $\\operatorname* { m i n } { f ( x ) , x } \\in S$ ，即计算不确定手术调度中所有患者手术拖期可信度的平均值的最小值）并找出最优鸟巢位置。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4产生候选种群",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，保留上一代的最优鸟巢位置，计算每个鸟巢位置的适应度函数 $\\scriptstyle f i t n e s s = Q - f ( x ) , x \\in S$ ， $\\varrho$ 为一个合适的正数，$f ( x )$ 为目标函数；然后，通过试探路径和位置的方式产生候选种群，策略是使用Lévy飞行的方式。Lévy飞行的方向是任意的，步长 $s$ 服从莱维分布的随机过程，式（18）用于产生候选种群。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { x } _ { i } ^ { t + 1 } = \\boldsymbol { x } _ { i } ^ { t } + \\alpha \\oplus l e \\boldsymbol { \\nu } \\boldsymbol { y } ( \\boldsymbol { \\lambda } ) \\ , i = 1 , 2 , . . . , n\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { i } ^ { t }$ 表示在第 $t$ 代的时候第 $i$ 个鸟巢的位置； $\\alpha$ 为步长控制系数，通常取值1； $\\oplus$ 为点对点乘法；levy()是莱维飞行随机搜索的路径，莱维飞行的方向服从均匀分布。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5择优选择 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用定理3改进当前种群的全部鸟巢位置，即比较每个鸟巢位置中的患者手术结束期，若灰色结束期 $D _ { i } ( \\otimes ) < D _ { j } ( \\otimes )$ ，且 $a _ { i k } ( \\otimes ) - D _ { i } ( \\otimes ) < a _ { j k } ( \\otimes ) - D _ { j } ( \\otimes )$ ，则患者 $j$ 的手术顺序一定在患者 $i$ 之后。使用CS算法的选择算子将父代与其候选子代一对一的比较适应度函数值，适应度高的个体将保留到下一代，即计算当前种群中鸟巢位置适应度函数的最大值 $f i t n e s s _ { \\operatorname* { m a x } }$ ，如果上一代种群中的最大适应度值大于 $f i t n e s s _ { \\mathrm { m a x } }$ ，则用上一代具有最大适应度值的鸟巢位置替换当前代适应度函数值的鸟巢位置，具体规则如式（19）所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ^ { t + 1 } = \\left\\{ \\begin{array} { l l } { y _ { i } ^ { t } , \\ f ( y _ { i } ^ { t } ) \\leq f ( x _ { i } ^ { t } ) } \\\\ { x _ { i } ^ { t } , \\ f ( y _ { i } ^ { t } ) > f ( x _ { i } ^ { t } ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "择优选择操作采用的是贪婪策略，能够跟踪进化过程搜寻到的最优解，不但能防止迭代过程退化现象的发生，而且能加快收敛速度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6随机迁移 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随机迁移类似遗传算法的变异操作，当鸟蛋被发现之后，基本的CS算法假定布谷鸟会随机寻找新的鸟巢位置，但是这种方式寻找的效果不理想，容易使解陷入局部最优，因此可以借助那些没有被发现的鸟巢位置来进行寻找，即借鉴遗传算法的交叉变换来寻找新的位置。交叉法的具体做法是：首先对 $N$ 个宿主鸟巢的位置进行随机乱序排列并将结果暂存起来；然后重复一次这样的操作；最后将两次的结果进行相减得到一个交叉步长，利用交叉步长来寻找新的宿主鸟巢。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假设外来鸟蛋被宿主发现的概率 $P _ { a }$ ，将其与服从均匀分布的随机数 $r \\in [ 0 , 1 ]$ 对比，如果 $\\boldsymbol { r } > P _ { a }$ ，则利用交叉法随机寻找新的宿主鸟巢并对找到的鸟巢位置进行越界检查，用适应值好的鸟巢位置取代适应值差的鸟巢位置，得到一组新的更优鸟巢位置，否则保存宿主鸟巢位置不变。随机迁移操作保留相对较好的鸟巢，既能淘汰种群中的劣势个体，又可以增加种群的多样性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7终止条件",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对择优选择和随机迁移操作之后，得到的最优鸟巢位置和最优适应值进行判断，若达到迭代停止条件（达到最大迭代次数MaxT）或者获得到要求的精度，则输出全局最优值和对应的全局最优位置；否则返回重新进行择优选择和随机迁移，依次迭代。最后通过对全局最优位置进行解码，即得所需要的调度方案。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 实验与结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文设计的 HGCS 算法，利用规模为 $6 ( 3 ) \\times 3$ 的经典算例来仿真测试。该算例是由Sakaw提出的，用于模拟不确定手术时间和不确定手术结束期的调度问题。实验中HGCS 和CS算法的参数设定[26为：鸟巢个数为30，宿主发现外来鸟蛋的概率 ${ \\cal P } _ { a } = 0 . 2 5$ ，最大迭代次数 $M a x T = 1 0 0 0$ 。实验仿真环境为：操作系统Windows7，处理器主频 $2 . 0 ~ \\mathrm { G H z }$ ，CPUIntel@CoreTM i3-2350M，内存2GB，仿真软件为MATLAb $2 0 1 4 \\mathrm { a }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于一个 $6 ( 3 ) \\times 3$ 的灰色手术调度问题，以最小化患者平均手术拖期可信度为目标函数，灰色手术时间和灰色手术结束期如表1所示，患者的手术约束顺序为： $R 1  R 2  R 3$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1 $6 ( 3 ) \\times 3$ 问题灰色手术时间和灰色手术结束期",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d74f332053b872e6f855d5eeca081f8c81a4559b8a6f6226f9de6a1d3f69b4d.jpg",
+        "table_caption": [
+            "Table1Grey operation and grey delivery period for $6 ( 3 ) \\times 3$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">患者号</td><td colspan=\"3\">手术时间a</td><td rowspan=\"2\">手术结束期D</td><td rowspan=\"2\">权重比例</td></tr><tr><td>R1</td><td>R2</td><td>R3</td></tr><tr><td>P1</td><td>(5,6,13)</td><td>(1,2,3)</td><td>(2,3,4)</td><td>(20,25,35,40)</td><td>0.15</td></tr><tr><td>P2</td><td>(3,4,5)</td><td>(2,4,5)</td><td>(1,3,5)</td><td>(20,25,35,40)</td><td>0.15</td></tr><tr><td>P3</td><td>(1,2,3)</td><td>(1,2,3)</td><td>(1,2,3)</td><td>(20,28,32,40)</td><td>0.25</td></tr><tr><td>P4</td><td>(3,4,6)</td><td>(2,3,5)</td><td>(3,4,5)</td><td>(20,28,32,40)</td><td>0.25</td></tr><tr><td>P5</td><td>(2,3,4)</td><td>(4,5,6)</td><td>(2,3,4)</td><td>(30,35,40,45)</td><td>0.10</td></tr><tr><td>P6</td><td>(2,3,4)</td><td>(3,4,5)</td><td>(2,3,4)</td><td>(30,35,40,45)</td><td>0.10</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "患者的手术拖期可信度系数 $\\delta$ 分别选取0.1、0.2、0.5、0.7、0.8，目标值为最小患者平均手术拖期可信度值，随机运行10次得到平均值，实验结果如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5894f4669dd8ef8325c95bc1023f83e096e20e63fc8e9e408ec5e648e64ec508.jpg",
+        "table_caption": [
+            "表2HGCS和CS算法下最小患者平均手术拖期可信度值及10次运行均值",
+            "able 2Minimum mean tardiness credibility of HGCS and the CS,mean value of $1 0 \\mathrm { \\ r u n }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">系数δ</td><td rowspan=\"2\">算法</td><td colspan=\"10\">f(x)最优目标值</td><td rowspan=\"2\">均值</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td rowspan=\"2\">0.1</td><td>CS</td><td>0.0491</td><td>0.0486</td><td>0.0480</td><td>0.0499</td><td>0.0483</td><td>0.0492</td><td>0.0488</td><td>0.0484</td><td>0.0493</td><td>0.0497</td><td>0.0489</td></tr><tr><td>HGCS</td><td>0.0481</td><td>0.0485</td><td>0.0472</td><td>0.0480</td><td>0.0477</td><td>0.0476</td><td>0.0480</td><td>0.0479</td><td>0.0483</td><td>0.0470</td><td>0.0478</td></tr><tr><td rowspan=\"2\">0.2</td><td>CS</td><td>0.0723</td><td>0.0786</td><td>0.0655</td><td>0.0689</td><td>0.0822</td><td>0.0755</td><td>0.0623</td><td>0.0741</td><td>0.0777</td><td>0.0814</td><td>0.0739</td></tr><tr><td>HGCS</td><td>0.0564</td><td>0.0654</td><td>0.0423</td><td>0.0568</td><td>0.0601</td><td>0.0656</td><td>0.0564</td><td>0.0589</td><td>0.0641</td><td>0.0532</td><td>0.0579</td></tr><tr><td rowspan=\"2\">0.5</td><td>CS</td><td>0.1895</td><td>0.1876</td><td>0.1910</td><td>0.1747</td><td>0.1885</td><td>0.1841</td><td>0.1678</td><td>0.1708</td><td>0.1933</td><td>0.1850</td><td>0.1832</td></tr><tr><td>HGCS</td><td>0.1331</td><td>0.1230</td><td>0.1445</td><td>0.1211</td><td>0.1391</td><td>0.1509</td><td>0.1436</td><td>0.1280</td><td>0.1472</td><td>0.1370</td><td>0.1368</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8a0d97918d1b2803c6d660e838c4a8e67df86242d11bf490e5937c7a6fdce47.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">0.7</td><td>CS</td><td>0.2135</td><td>0.2213</td><td>0.2331</td><td>0.2210</td><td>0.2178</td><td>0.2311</td><td>0.2258</td><td>0.2361</td><td>0.2283</td><td>0.2209</td><td>0.2249</td></tr><tr><td>HGCS</td><td>0.1954</td><td>0.2031</td><td>0.1986</td><td>0.1870</td><td>0.1986</td><td>0.2015</td><td>0.2364</td><td>0.2013</td><td>0.1845</td><td>0.1922</td><td>0.1999</td></tr><tr><td rowspan=\"2\">0.8</td><td>CS</td><td>0.2548</td><td>0.2631</td><td>0.2745</td><td>0.2610</td><td>0.2511</td><td>0.2537</td><td>0.2610</td><td>0.2503</td><td>0.2587</td><td>0.2611</td><td>0.2589</td></tr><tr><td>HGCS</td><td>0.2456</td><td>0.2315</td><td>0.2498</td><td>0.2356</td><td>0.2475</td><td>0.2501</td><td>0.2468</td><td>0.2468</td><td>0.2511</td><td>0.2432</td><td>0.2448</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表2可以看出，当患者手术拖期可信度系数 $\\delta$ 增大的时候，目标值的均值也会变大，主要原因是 $\\delta$ 增大的时候会明显增大了可能性测度的权重，从而导致患者手术拖期可信度变大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "取 $\\delta { = } 0 . 2$ 、0.5、0.7和0.8，分别利用CS和HGCS算法进行仿真实验。对于每个 $\\delta$ 取值，均任意选取其中一次实验得到患者平均手术拖期可信度值的收敛曲线，如图2\\~5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/03777f6c7da9e520717ebde8c5b330a35230f0b298527e5443fc34be6efa44c1.jpg",
+        "img_caption": [
+            "图2 $\\delta = 0 . 2$ 时CS和HGCS最优目标值收敛曲线 Fig.2Optimal target value convergence curves $( \\delta \\substack { = } 0 . 2 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6adb6a1f6258622e32af068b7bb454ae25cc0ea6e4def04b525a806fec07724b.jpg",
+        "img_caption": [
+            "图3 $\\delta = 0 . 5$ 时 CS 和 HGCS 最优目标值收敛曲线Fig.3Optimal target value convergence curves $\\mathrm { \\Phi } \\langle 8 = 0 . 5 \\rangle$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d8227095fae5bb698c49a92f062e1b19d07113c49ff68ae0ed7e506ccb41bc9.jpg",
+        "img_caption": [
+            "图4 $\\delta = 0 . 7$ 时CS 和HGCS 最优目标值收敛曲线Fig.4Optimal target value convergence curves $( \\delta = 0 . 7 )$ 1"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/49e6a3c76bebb539f1e322c29fc10603642f6518dbe4e170b1105bb150536f68.jpg",
+        "img_caption": [
+            "图5 $\\delta = 0 . 8$ 时 CS 和 HGCS 最优目标值收敛曲线Fig.5Optimal target value convergence curves $( \\delta = 0 . 8 )$ （20"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，对于不同的患者手术拖期可信度系数$\\delta$ （20 $, { \\mathrm { H G C S } }$ 算法所得到的最优目标值的平均值均比CS算法的要小，在 $\\delta { = } 0 . 2$ 、0.5、0.7和0.8时的图2\\~5收敛曲线也可以看出，当曲线趋于全局收敛时，HGCS算法的最优目标值也要优于CS算法，并且算法的收敛速度比较快。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "突发事件下的应急救援中伤员批量手术调度问题类似于柔性流水车间调度优化问题，但是手术时间和手术结束期存在不确定性。本文提出了一种灰色调度模型，利用三参数灰数表达不确定手术时间，四参数灰数表达不确定结束期，这种方式比其他文献上使用三角模糊数和梯形模糊数来表示不确定调度因素更具一般性和实际价值。除此之外，本文利用灰数的一些性质，获得最优灰色调度的一些特征，并利用这些特征对基本布谷鸟算法进行改进和创新，提出了混合灰色布谷鸟算法。利用混合灰色布谷鸟算法对问题规模为 $6 ( 3 ) \\times 3$ 的经典算例进行仿真测试，测试结果表明改进后的算法能很好地解决不确定手术调度中不确定手术时间和不确定结束期带来的患者手术拖期问题，并且通过与基本布谷鸟算法解决该问题的测试结果进行比较，发现混合灰色布谷鸟算法的性能明显要好于基本布谷鸟算法。这说明本文所提出的混合布谷鸟算法能很好的不确定手术调度问题，具有一定的应用价值。当然，本文所给出的解决方案仅仅适合单目标优化问题，对于多目标和带有资源约束类的调度问题将是下一步研究的工作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]白雪，罗利，杨晨曦，等．生产调度理论在医院手术室调度优化中的 应用研究框架[J].华西医学,2015(10):1990-1995.(BaiXue,Luo Li, Yang Chenxi,et al.Application and research framework of production scheduling theory in hospital operation room scheduling optimization [J].West China Medical Journal,2015(10): 1990-1995.)   \n[2]Velasquez-Restrepo P A,Rodriguez-Quintero A K,Jaen-Posada J S. Methodological approach to the planning and scheduling of operating rooms:Aliteraturereview[J].Revista GerenciaYPoliticasDe Salud, 2013,12(24):249-266.   \n[3]邓富民，梁学栋，刘爱军，等．多资源约束下改进NSGA-I算法的 手术调度[J]．系统工程理论与实践，2012,32(6):1337-1345.(Deng rumin,Liang Aueaong, Liu Aijun,el al. Surgicai operauon scneauing with multi-resource constrained based on the improved NSGA-II algorithm [J]. System engineering-theory &practice,2012，32 (6): 1337-1345. )   \n[4]王昱，唐加福．医院手术调度问题的两阶段鲁棒优化方法研究[J]. 系统工程学报，2016,31(4):431-440.(Wang Yu，Tang Jiafu.A two-stage robust optimization method for solving surgery scheduling problem [J]. Journal of systems engineering,2016,31(4): 431-440.)   \n[5] 周炳海，殷萌，钟臻怡．基于拉格朗日松弛的手术中心调度算法[J]. 系统工程理论与实践，2016,36(1):224-233.(Zhou Binghai，Yin Meng， ZhongZhenyi.Lagrangianrelaxation-basedscheduling algorithm for operating theatres [J]. System Engineering-Theory & Practice,2016,36(1):224-233.)   \n[6]Li Xuesong,Ishii H, Chen Minghao.Single machine parallel-batching scheduling problem with fuzzy due-date and fuzzy precedence relation [J].International Journal of Production Research，2015,53 (9): 2707-2717.   \n[7]Noori-Darvish S,Mahdavi I,Mahdavi-Amiri N.A bi-objective possibilistic programming model for open shop scheduling problems with sequence-dependent setup times，fuzzy processing times,and fuzzy due dates [J].Applied Soft Computing,2012,12 (4): 1399-1416.   \n[8] Nailwal K K,Gupta D, Sharma S.Fuzzy bi-criteria scheduling on paralel machines involving weighted flow time and maximum tardiness [J].Cogent Mathematics,2015,2(1):1019792.   \n[9]Stanujkic D,Magdalinovic N,Jovanovic R，et al.An objective multi-criteria approach to optimization using MOORA method and interval grey numbers [J]. Technological and Economic Development of Economy,2012,18 (2):331-363.   \n[10]曾波，刘思峰．一种基于区间灰数几何特征的灰数预测模型[J]．系 统工程学报,2011,26 (2):174-180.(Zeng Bo,Liu Sifeng.Prediction model of interval grey number based on its geometrical characteristics [J]. Journal of systems engineering,2011,26 (2): 174-180.）   \n[11] Luo Dang,Wang Xia. The multi-atribute grey target decision method for attribute value within three-parameter interval grey number [J]. Applied Mathematical Modelling,2012,36 (5):1957-1963.   \n[12]李晔，牛玉飞，郭三党．基于后悔理论的三参数区间灰数信息下的 风险型决策方法[J].数学的实践与认识,2017(24):102-109.(Li Ye, Niu Yufei,Guo Sandang.Risky decision-making methodwith three-parameter interval grey number based on regret theory [J]. Mathematics in Practice & Theory,2017 (24):102-109.）   \n[13] Han Erdong,Guo Peng,Zhao Jing,et al.Method for multi-attribute group decision making based on interval grey uncertain linguistic information [J].Journal of Frontiers of Computer Science& Technology,2016,10 (1): 93-102.   \n[14] Hassan K M,Alireza A,Meisam JE.Application of three parameter interval grey numbers in enterprise resource planning selection [J]. InternationaljournalorIniormation, Security ana Systems Management,2012,1(2): 72-77.   \n[15]刘卫锋，何霞.三参数区间值模糊软集及其决策应用[J].模糊系统 与数学,2015,29 (4):116-124.(Liu Weifeng,He Xia. Three parameters interval valued fuzzy soft sets and its application to decision making [J]. Fuzzy systems and mathematics,2015,29 (4):116-124.)   \n[16] Sahu N K,Datta S,Mahapatra S S. Decision making for selecting 3PL service provider using three parameter interval grey numbers [J]. International Journal of Logistics Systems & Management, 2Ol3,14 (3): 261-297.   \n[17] Yang Baohua, Zhao Jinshuai．Correlation coefficients of hesitant thre-parameter interval grey number and their applications to clustering analysis [J].Journal of Grey System,2013,25 (2):139-148.   \n[18]朱山丽，肖美丹，李晔.三参数区间灰数的多属性灰靶决策方法[J]. 河南科学,2016,34(7):1031-1036.(Zhu Shanli,Xiao Meidan,Li Ye. Multi-attribute decision-making method with three-parameter interval grey number[J]. Henan Science,2016,34(7):1031-1036.）   \n[19]胡军华，林增钰．基于四参数区间数的多准则决策方法[J].运筹与 管理,2013 (6):84-91.(Hu Junhua,Lin Zengyu.Multi-criteria decision making method based on interval numbers of four parameters [J]. Operations Research and Management Science,2013 (6): 84-91.)   \n[20] Wang Na,Hu Liping,Li Bingjun. Study on the distance entropy model based on three-parameter interval grey numbers and its application [J]. Journal of Henan Agricultural University,2014,48 (3): 386-390.   \n[21]林增钰．基于四参数区间直觉模糊集的多准则决策方法研究[D]. 长沙：中南大学,2012.(Lin Zengyu.Multi criteria decision making method based on interval valued intuitionistic fuzzy sets with four parameters [D] Changsha: Central south university,2012.）   \n[22] Santillan JH, Tapucar S,Manliguez C,et al. Cuckoo search via Lévy flights for the capacitated vehicle routing problem [J].Journal of Industrial Engineering International,2O17(1):1-12.   \n[23] Yang Xinshe,Deb S.Multiobjective cuckoo search for design optimization [J].Computers & Operations Research，2013，40(6): 1616-1624.   \n[24] Valian E,Mohanna S,Tavakoli S.Improved cuckoo search algorithm for feedforward neural network training [J].International Journal of Artificial Intelligence & Applications,2011,2(3): 36-43.   \n[25] Wang Lijin, Zhong Yiwe. Cuckoo search algorithm with chaotic maps [J].Mathematical Problems in Engineering,2015,2015(1):1-14.   \n[26] Yang Xinshe,Deb S.Cuckoo search via Levy flights [J].Mathematics, 2010,2010 (4): 210-214. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

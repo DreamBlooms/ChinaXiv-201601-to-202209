@@ -1,0 +1,545 @@
+[
+    {
+        "type": "text",
+        "text": "个体关于加工流畅性的信念对字体大小效应的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈　颖1,2　李锋盈」　李伟健1(浙江师范大学心理研究所，金华 321004） (阳光学院，福州350015)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本研究考察个体关于加工流畅性的信念对学习判断(Judgment of learming，简称 JOL)的影响，探讨字体大小效应的产生机制。研究通过两个实验分别考察个体关于“字体大小影响加工流畅性\"(实验1)以及\"加工流畅性影响记忆效果\"(实验2)等信念对字体大小效应的影响。结果发现：1)当人们相信大字体更流畅(实验1)或者越流畅越好记(实验2)时，他们在大字体项目上的 JOL 值显著高于小字体;2)当人们相信小字体更流畅(实验1)或者流畅性与记忆无关(实验2)时，他们在大字体和小字体项目上的 JOL值无显著差异，字体大小效应消失。上述结果表明，个体关于加工流畅性的信念是字体大小效应产生的重要原因，是人们进行学习判断的重要线索。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词字体大小效应；学习判断；关于加工流畅性的信念",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学习者对新近学习过的材料在后续测试中成绩的预测在很大程度上影响其自我调节学习的有 效 性(Dunlosky & Rawson,2012；Kornell & Metcalfe,2006; Thiede，Anderson,&Therriault,2003)，这种预测即学习判断(Judgment of learning，简称 JOL)，它是研究者最感兴趣的一种元认知判断(Dunlosky& Metcalfe,2009;Mueller,Tauber & Dunlosky,2013)。关于人们是如何进行学习判断的问题是近四十年来元认知研究关注的焦点。一直以来，对该问题的解释主要有两种观点：加工流畅性(processing fluency)假说和信念(beliefs)假说。近年来，关于字体大小效应(相对于小字体呈现的项目，人们在大字体项目上的JOL值更高)的研究为这两种假说提供了重要证据。一些研究表明，字体大小效应源于加工流畅性(Kormell,Rhodes,Castel,& Tauber,2011;Rhodes&Castel,2008)，另一些研究则表明，字体大小效应源于信念(Hu et al.,2015; Mueller, Dunlosky, Tauber,& Rhodes,2014)。最近,Mueller 和 Dunlosky (2017)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "提出，字体大小效应是基于人们关于加工流畅性的信念而产生的，与加工流畅性无关。他们的实验为此提供了初步证据，支持了信念假设(Mueller＆Dunlosky,2017)。本研究在Mueller和 Dunlosky(2017)研究的基础上更直接地考察个体关于加工流畅性的信念对字体大小效应的影响，进一步揭示元认知判断的认知机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Koriat (2000,2007)提出的双加工模型是解释个体如何进行元认知判断的一个颇具影响力的理论模型(Alter & Oppenheimer,2009; Carpenter,Wilford,Kornell,& Mullaney,2013;Dunlosky,Mueller,& Tauber,2015; Mueller et al.,2014; Rhodes & Castel,2008)。该模型认为,元认知监测包括两个系统：基于理论的监测(Theory-based monitoring)和基于体验的监测(Experience-based monitoring)。前者是指个体基于某种理论或信念(如关于记忆的信念)进行监测，是一种有意识加工；后者是指个体基于主观体验(如加工流畅性)进行监测，是一种无意识加工。该模型得到了大量实证研究(Jia et al.,2016; Li et al.,2016; Mueller,Dunlosky,&Tauber,2016; Mueller et al.,2013; Susser& Mulligan,2015)的支持，其中，关于字体大小效应的研究(Hu et al.,2015; Kornell et al.,2011; Mueller et al.,2014; Rhodes & Castel,2008)为此提供了重要证据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rhodes和Castel(2008)首次发现字体大小效应，即字体大小影响人们的JOL。研究中，被试学习36 个单词，大(48 pt)小(18 pt)字体各半。每个单词的呈现时间是 5s，被试每学习一个项目就进行学习判断，即预测该项目能够在随后测试中回忆出来的可能性( $0 { \\sim } 1 0 0 \\%$ 之间任何一个数字)，最后完成自由回忆测试。结果发现，相对于小字体的项目，被试在大字体项目上的 JOL 值更高，但字体大小不影响被试的回忆成绩。这种字体大小效应在后续的研究中也被反复验证(Kornell et al.,2011; Miele, Finn,& Molden, 2011; Mueller et al., 2014)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于字体大小效应产生机制的探讨为双加工模型提供了证据。一方面，有研究(Kornellet al.,2011;Rhodes&Castel,2008)表明，字体大小效应是由加工流畅性所致。例如,Rhodes和Castel (2008)要求被试对大字体和小字体项目做容易程度判断(ease-of-reading judgments),结果发现：被试判断大字体的项目阅读起来更加容易，表明个体感知到大字体项目比小字体项目加工起来更流畅。为了进一步验证他们的观点，研究者降低所有学习材料的加工流畅性,即用大小写字母交替的形式来呈现学习项目(如aLtErNaTiOn)。结果发现，在这种情况下，字体大小效应消失了，表明加工流畅性在字体大小对JOL的影响中起到了重要作用。另一方面,Mueller 等人(2014)的研究表明，人们所持有的信念(例如，大字体比小字体更重要)才是导致字体大小效应产生的原因，与加工流畅性无关。他们的研究(实验1和实验2)发现，字体大小影响 JOL，但不影响加工流畅性(以词汇辨别反应时和自定步调学习时间为指标)，表明字体大小效应的产生与加工流畅性无关。实验3要求被试先阅读一段关于字体大小实验的描述，然后让被试估计假想被试(hypothetical participants)能够回忆出大字体与小字体的项目分别多少个。实验4要求被试进行学习前判断(pre-study JOL)，该判断发生在学习前，因此不受加工流畅性的影响，只受信念影响。实验3和实验4都发现了字体大小效应，表明字体大小对 JOL的影响可能是信念的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述研究表明，加工流畅性和信念在学习判断中可能都起作用。事实上，正如Dunlosky等人(2015)指出的，加工流畅性和信念有时候密切联系，二者可能相互作用，共同影响 JOL。例如，人们可能基于有关加工流畅性的信念进行学习判断(Finn＆ Tauber,2015)。类似的,Mueller 和Dunlosky(2017)认为，字体大小效应的产生可能是源于被试关于加工流畅性的信念。具体而言，被试相信大字体的项目比小字体的项目加工起来更容易，并且认为加工更流畅的项目记忆效果会更好。为了验证这一假设,Mueller和Dunlosky 通过指导语来操纵被试关于颜色(蓝色/绿色)的信念，考察信念的改变对JOL 的影响。之所以选择颜色，是因为： $\\textcircled{1}$ 字体颜色不会影响加工流畅性; $\\textcircled{2}$ 人们也认为字体颜色不会影响加工流畅性。那么，如果引导被试相信颜色会影响加工流畅性，并且他们的JOL表现出相应的结果：被试相信加工更流畅的颜色(如蓝色)上的 JOL 值显著高于另一颜色(如绿色)的 JOL 值，就能表明人们关于加工流畅性的信念影响了JOL。研究者通过指导语对信念进行操纵，例如实验4中，让实验组被试阅读\"蓝色字体比绿色字体加工更流畅\"的指导语，控制组无指导语。所有的被试学习颜色不同的单词，进行学习判断和回忆测试。结果发现，实验组对蓝色字体项目的JOL 值显著高于绿色字体项目，控制组在蓝色和绿色字体项目上的 JOL 值无显著差异。该结果提示，关于加工流畅性的信念影响个体的 JOL。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "尽管Mueller和Dunlosky (2017)的研究结果表明个体关于加工流畅性的信念影响了JOL,然而，他们的研究并未直接考察字体大小效应。因此，关于字体大小效应是否是基于人们关于加工流畅性的信念而产生的问题仍不清楚。此外，正如Mueller 和Dunlosky 指出的，被试除了具有关于“大字体项目更容易加工\"的信念，还认为\"加工更流畅的项目记忆效果会更好”。简言之，字体大小效应所涉及的关于加工流畅性的信念既包括\"学习材料的特征对加工流畅性的影响”，又包括\"加工流畅性对记忆效果的影响”。然而,Mueller 和Dunlosky 的研究仅考察了前者。鉴于\"加工流畅性影响记忆效果\"的信念也是加工流畅性信念的重要内容，本研究认为，有必要进一步考察个体关于“加工流畅性影响记忆效果\"的信念对学习判断的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上，本研究的目的是：1)考察个体关于加工流畅性的信念对字体大小效应的影响;2)分别考察个体关于“字体大小影响加工流畅性\"的信念以及\"加工流畅性影响记忆效果\"的信念对JOL的影响。为了达到上述目的，本研究开展两个实验，实验1通过指导语操纵\"字体大小影响加工流畅性\"这一信念，考察该信念在字体大小效应中的作用。实验2通过指导语操纵\"加工流畅性影响记忆效果\"这一信念，考察该信念在字体大小效应中的作用。对这些问题的探讨有助于人们更具体和全面地了解关于加工流畅性的信念对学习判断的影响及其在字体大小效应中的作用，从而为学习判断的认知机制提供新的证据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 实验1: ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验1考察个体关于“字体大小影响加工流畅性\"的信念对字体大小效应的影响。研究通过指导语对信念进行操纵：引导一组被试相信大字体比小字体加工更流畅(以下简称大字体更流畅组)，引导另一组被试相信小字体比大字体加工更流畅(以下简称小字体更流畅组)，控制组不接受指导语。如果先前研究发现的字体大小效应是基于个体关于加工流畅性的信念而产生而不是加工流畅性本身，那么，在本实验中，大字体更流畅组和控制组应表现出字体大小效应，并且，由于指导语对“大字体比小字体更流畅\"这一信念进行了强调，该信念对学习判断的影响可能比没有指导语的情况下更大，因此，大字体更流畅组的字体大小效应可能比控制组更大。而小字体更流畅组的指导语强调的是\"小字体比大字体更流畅\"这一信念，如果个体的学习判断主要基于他们关于加工流畅性的信念进行，而不受加工流畅性本身的影响，那么，小字体更流畅组的被试在小字体项目上的JOL值应高于大字体上的JOL值，表现出和先前字体大小效应相反的效应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 被试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究的被试数量通过G\\*Power 软件进行计算(Faul,Erdfelder,Lang,& Buchner,2007)。先前关于字体大小效应研究得到的Cohen'sds 为0.58至0.74之间，根据这一效应量范围，当统计检验力(power)达到0.9 时，每一组被试数量需要在 22\\~34之间(参见 Yang,Huang,&Shanks,2018)。根据这一计算结果，实验1选取75 名在校大学生参加(其中男性9名)，平均年龄为 $2 0 . 2 7 \\pm 1 . 6 9$ 岁。所有被试视力或矫正视力正常，随机分配到大字体更流畅组(23名)小字体更流畅组(26 名)和控制组(26 名)。所有被试未曾参加过类似的心理学实验。实验结束后，被试获得相应报酬。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 仪器和材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验程序在17吋PC机上呈现，分辨率为1024×768，屏幕背景为白色。记忆项目的字体大小分别为宋体 18 号和 48 号，呈现在屏幕中央(如图1所示)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cb6d8b127631440a63630c0fc3bcddb552f8ab3b27ebfbeb9b944a01d26936a.jpg",
+        "img_caption": [
+            "图1词对呈现方式示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "学习材料为60 对常见汉语词对，例如\"礼物—高楼”。由不参加正式实验的 22名被试对所有词对在7点量表上进行难度和熟悉度评定。难度是指把线索词和目标词联系在一起的容易程度,1表示非常困难,7表示非常容易。熟悉度是指对词汇的熟悉程度,1表示非常不熟悉，7表示非常熟悉。根据评定结果，将所有词对按照难度排序，选取奇数号的30对词对以大字体呈现，偶数号的30对词对以小字体呈现。事后检验发现，两组词对在难度 $( t = 0 . 0 3 , p > 0 . 0 5$ 0$M = 1 . 9 6$ 0 $S D = 0 . 2 1$ )和熟悉度 $\\mathit { \\Omega } _ { t = 0 . 4 4 }$ $p > 0 . 0 5$ $M = 6 . 2 3$ $S D = 0 . 2 7 _ { . }$ )上差异均不显著。此外，自编难度相当的4对词对用于练习。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 实验设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2(字体大小：48 pt、 $1 8 \\mathrm { p t } ) \\times 3 ($ 组别：大字体更流畅组、小字体更流畅组、控制组)的混合实验设计。字体大小为被试内变量，组别为被试间变量。因变量为学习判断值和回忆正确率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 实验程序",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验程序用E-prime 2.0 软件编制。被试坐在距离电脑屏幕约为 $6 5 \\mathrm { c m }$ 的位置，眼睛与屏幕中心平视。正式实验开始前被试完成4个练习试次，以明确学习任务和熟悉实验程序。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "正式实验中，被试首先阅读相应的指导语。大字体更流畅组的指导语是：由于眼睛对大字体所成的视角比小字体的更大，大字体看起来和阅读起来更容易。也就是说，大脑加工大字体比加工小字体要容易的多，即大字体比小字体加工更流畅。小字体更流畅组的指导语是：小字体由于其“点阵\"数量比大字体的少，因此很容易的控制在视野范围内，从而导致大脑加工较小的字体比加工较大的字体容易的多，即小字体比大字体加工更流畅；控制组被试无需阅读指导语。之后，所有被试完成如下任务：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)学习。电脑屏幕正中央以固定随机顺序逐个呈现60 对词对(其中30对以18号字体呈现,30 对以48号字体呈现)，保证大字体或小字体不会连续出现三次或三次以上(为避免顺序效应，一半被试以正序进行学习，另一半被试以倒序进行学习)。每个词对呈现5秒，被试的任务是尽可能记住该词对。每个词对呈现完后，被试立即进行学习判断，即预测自己在随后的测试中能够根据线索词回忆出目标词的可能性 $( 0 \\% { \\sim } 1 0 0 \\%$ 评定， $0 \\%$ 表示完全不能回忆出来，$100 \\%$ 表示完全能回忆出来)。所有词对学习并判断完以后，完成3分钟 200 倒减3的干扰任务。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)测试。电脑随机呈现字体大小不同的线索词，被试根据电脑屏幕上呈现的线索词，回忆与之对应的目标词(用键盘输入)，时间不限。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验结束后，主试询问被试两个问题：1)是否记得正式实验开始前看到的指导语？2)是否相信指导语？",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "剔除1名不遵从指导语要求的被试以及5名不相信指导语的被试，其中小字体更流畅组中有4名被试报告不相信指导语(有效率 $8 5 \\%$ ，大字体更流畅组中有1名被试报告不相信指导语(有效率 $9 6 \\%$ )，使用 SPSS20.0对余下的69名被试的数据进行分析，各变量的描述统计见表1。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 学习判断值 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三组被试对不同字体大小词对的学习判断值见表1。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/42077ceea8a3f1926609256d50f23022c85fea3db2573a14e1e5881642baf7c2.jpg",
+        "table_caption": [
+            "表1实验1三组中不同字体大小上词对的学习判断值和回忆正确率 $( M \\pm S D )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别</td><td colspan=\"2\">JOL值</td><td colspan=\"2\">回忆正确率</td></tr><tr><td>大字体</td><td>小字体</td><td>大字体</td><td>小字体</td></tr><tr><td>控制组(N=25)</td><td>45.96 ± 14.04</td><td>44.08 ± 13.00</td><td>0.39 ± 0.21</td><td>0.37 ± 0.22</td></tr><tr><td>大字体更流畅组 (N=22)</td><td>44.97 ± 17.36</td><td>40.00 ± 15.40</td><td>0.32 ± 0.21</td><td>0.34 ± 0.24</td></tr><tr><td>小字体更流畅组 (N=22)</td><td>39.99 ± 15.63</td><td>40.20 ± 17.08</td><td>0.34± 0.22</td><td>0.30 ± 0.17</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以学习判断值为因变量进行2(字体大小：48 pt、 $1 8 \\mathrm { p t } ) \\times 3$ （组别：大字体更流畅组、小字体更流畅组、控制组)混合方差分析，结果表明，字体大小的主效应显著, $F ( 1 , 6 6 ) = 1 2 . 0 4 , p$ $< 0 . 0 1$ ， $\\eta ^ { 2 } = 0 . 1 5$ ，大字体的JOL值 $M = 4 3 . 7 4$ $S D = 1 5 . 6 5 \\$ )显著高于小字体的JOL值 $\\scriptstyle ( M = 4 1 . 5 4$ $S D = 1 5 . 0 6 )$ ；组别的主效应不显著, $F ( 2 , 6 6 ) = 0 . 6 2 , p > 0 . 0 5$ ；字体大小和组别之间的交互作用显著, $F ( 1 , 6 6 ) = 5 . 3 5 , p < 0 . 0 1 , \\eta ^ { 2 } = 0 . 1 4$ 。具体见图2。对字体大小和组别的交互作用进行简单效应检验发现：大字体更流畅组的被试在大字体词对的JOL值显著高于小字体词对的 JOL值： $F ( 1 , 6 6 ) = 1 9 . 4 2 , p < 0 . 0 0 1$ ， $\\mathfrak { n } ^ { 2 } = 0 . 2 3$ ；控制组以及小字体更流畅组的被试在大字体和小字体词对上的 JOL 值差异不显著 $( p \\mathbf { s } > 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/27a0916bd637091a9acb227ea8fbfd2fd6dad3578d1716bb1eee593a4a9c84ed.jpg",
+        "img_caption": [
+            "图2 实验1字体大小和组别的交互作用(图中误差线为标准误, $\\ast \\ast \\ast$ 表示 $p < 0 . 0 0 1$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 回忆正确率",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "被试在三个组上和不同字体大小上词对的回忆正确率见表1。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以回忆正确率为因变量进行2(字体大小：48 pt、 $1 8 \\mathrm { p t } ) \\times 3 \\time 1 0 ^ { 8 }$ （组别：大字体更流畅组、小字体更流畅组、控制组)混合方差分析，结果表明，字体大小主效应、组别主效应以及字体大小和组别之间的交互作用都不显著 $( p \\mathbf { s } > 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验1的结果表明：被试关于“字体大小影响加工流畅性\"的信念会影响其学习判断。正如预期的那样，当被试相信大字体加工更流畅时，他们在大字体项目的JOL值显著高于小字体，表现出字体大小效应。然而，控制组并未表现出字体大小效应，这可能是因为本研究采用的是词对，而先前研究普遍使用的是单词(如Kornell et al.,2011;Mueller et al.,2014;Rhodes&Castel,2008)，学习材料的差异可能是导致控制组未能表现出字体大小效应的原因。小字体更流畅组的被试也没有像预期的一样表现出对小字体项目的JOL 值高于对大字体的JOL 值，而是在大字体和小字体词对上的JOL 值没有显著差异，这一结果提示，字体大小效应的产生可能并不完全源于个体关于加工流畅性的信念，加工流畅性本身仍有可能起作用(详见总讨论)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3实验2: ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mueller 和Dunlosky(2017)指出，在字体大小效应的研究中，被试不仅认为\"大字体项目更容易加工”，还认为\"加工更流畅的项目记忆效果会更好”。前者是关于“学习材料的特征影响加工流畅性\"的信念，后者是关于“加工流畅性影响记忆效果\"的信念。本研究实验1的结果表明前者(关于“字体大小影响加工流畅性\"的信念)对个体学习判断的影响是字体大小效应产生的重要原因。实验2的目的则是考察后者(关于\"加工流畅性影响记忆效果\"的信念)对学习判断的影响。实验2同样通过指导语对信念进行操纵：引导一组被试相信加工越流畅的项目记忆效果越好(以下简称越流畅越好记组)，引导另一组被试相信加工流畅性不影响记忆效果(以下简称流畅性与记忆无关组)，控制组不接受指导语。如果先前关于字体大小效应的研究中被试持有的关于“加工更流畅越好记忆\"这一信念也影响学习判断，那么，越流畅越好记组和控制组应表现出字体大小效应。同样，由于越流畅越好记组的指导语可能加强了信念的作用，因此，该实验条件下表现出的字体大小效应可能比控制组更大。而流畅性与记忆无关组的被试则应在学习判断中表现出和指导语信念一致的趋势：在大字体和小字体项目上的JOL 值没有显著差异，即字体大小效应消失。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1方法",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 被试 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验2被试数量的确定同实验1。选取89 名在校大学生参加实验(其中男性10名)，平均年龄为 $2 0 . 1 6 \\pm 1 . 9 0$ 岁。所有被试视力或矫正视力正常，随机分配到越流畅越好记组(32名)流畅性与记忆无关组(33名)和控制组(24名)。所有被试未曾参加过类似的心理学实验。实验结束后，被试获得相应报酬。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 实验材料",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同实验1.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 实验设计",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2(字体大小：48 pt、 $1 8 \\mathrm { p t } ) \\times 3 0$ (组别：越流畅越好记组、流畅性与记忆无关组、控制组)的混合实验设计，字体大小为被试内变量，组别为被试间变量，因变量为学习判断值和回忆正确率。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.4 实验程序",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验2的程序基本同实验1，不同之处在于指导语任务。越流畅越好记组的指导语是：大字体比小字体加工起来更流畅，这种加工的容易性会减少认知负荷，有助于记忆，因此大",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "字体比小字体更好记忆。流畅性与记忆无关组的指导语是：大字体比小字体加工起来更流畅，但是心理学研究发现，大字体并不会比小字体更容易记忆，大脑加工起来更容易并不等于记忆起来会更好。控制组的被试无需阅读指导语。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2 结果与分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "剔除4名不遵从指导语要求的被试以及8名不相信指导语的被试，其中越流畅越好记组中有5名被试报告不相信指导语(有效率 $84 \\%$ ，流畅性与记忆无关组中有3名被试报告不相信指导语(有效率 $82 \\%$ )，使用 SPSS20.0对余下的77名被试的数据进行分析，各变量的描述统计见表2。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.1学习判断值 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "被试在两个组中不同字体大小上词对的学习判断值见表2。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/76421cb020eacc0a383d466353bacd56f9087b78ae9359db7b733e3e73d3d2e0.jpg",
+        "table_caption": [
+            "表2实验2三组中不同字体大小上词对的学习判断值和回忆正确率 $( M \\pm S D )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别</td><td colspan=\"2\">JOL值</td><td colspan=\"2\">回忆正确率</td></tr><tr><td>大字体</td><td>小字体</td><td>大字体</td><td>小字体</td></tr><tr><td>控制组(N=23)</td><td>39.01 ± 13.55</td><td>36.14 ± 12.10</td><td>0.36± 0.22</td><td>0.33 ± 0.19</td></tr><tr><td>越流畅越好记组 (N=27)</td><td>49.40 ± 14.93</td><td>40.66 ± 14.49</td><td>0.32 ± 0.20</td><td>0.29 ± 0.18</td></tr><tr><td>流畅性与记忆无关 组(N=27)</td><td>40.64 ± 20.39</td><td>40.36 ± 19.44</td><td>0.39 ± 0.25</td><td>0.39 ±0.23</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以学习判断值为因变量进行2(字体大小：48 pt、 $1 8 \\mathrm { p t } ) \\times 3 \\time 1 0 ^ { 8 }$ （组别：越流畅越好记组、流畅性与记忆相关组、控制组)混合方差分析，结果表明，字体大小的主效应显著, $F ( 1 , 7 4 ) =$ 24.62, $p < 0 . 0 0 1$ $\\mathfrak { \\eta } ^ { 2 } = 0 . 2 5$ ，大字体的JOL 值 $\\cdot M = 4 3 . 2 2$ $S D = 1 7 . 1 1$ )显著高于小字体的 JOL 值$\\mathrm { \\mathit { M } } = 3 9 . 2 1$ ， $S D = 1 5 . 7 4 )$ ；组别的主效应不显著, $F ( 1 , 7 4 ) = 1 . 4 1 , p > 0 . 0 5$ ；字体大小和组别之间的交互作用显著, $F ( 1 , 7 4 ) = 1 0 . 3 4 , p < 0 . 0 0 1 , \\eta ^ { 2 } = 0 . 2 2$ ，具体见图3。对字体大小和组别的交互作用进行简单效应检验发现：控制组被试在大字体词对上的JOL值高于小字体词对上的JOL 值，两者之间的差异接近显著性水平, $F ( 1 , 7 4 ) = 3 . 8 9 , p = 0 . 0 5 .$ 。为了进一步比较当前数据支持零假设和备择假设的可能性(Rouder, Speckman,Sun,Morey,& Iverson,2009)，我们计算了相应的贝叶斯因子'。计算结果表明，支持备择假设的贝叶斯因子为1.2，表明当前数据出现在H1为真情况下的可能性是在 H0 为真情况下的可能性的1.2倍。根据Wagenmakers等人(Wagenmakers et al.,2018)的决策标准，当前数据提供了较弱的证据支持Hl(不同大小字体的 JOL 值存在显著差异)。越流畅越好记组的被试在大字体词对上的 JOL 值显著高于小字体词对上的 JOL 值, $F ( 1 , 7 4 ) = 4 2 . 2 3 , p < 0 . 0 0 1$ $\\mathfrak { n } ^ { 2 } = 0 . 3 6$ ；流畅性与记忆无关组的被试在大字体和小字体词对上的JOL 值无显著差异, $F ( 1 , 7 4 ) = 0 . 0 4 , p > 0 . 0 5$ ，结果与假设一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b78d36e25c3227ba3530ec93d4fcb697cf58dd9de32c393a7bcda6f736bc326b.jpg",
+        "img_caption": [
+            "图3实验2字体大小和组别的交互作用(图中误差线为标准误, $* * *$ 表示 ${ \\cdot } p < 0 . 0 0 1 \\ 。$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 回忆正确率",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "被试在两个组上和不同字体大小上词对的回忆正确率见表2。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以回忆正确率为因变量进行 2(字体大小：48 pt、 $1 8 \\mathrm { p t } ) \\times 3 \\time 1 0 ^ { 8 }$ （组别：越流畅越好记组、流畅性与记忆相关组、控制组)混合方差分析，结果发现，字体大小的主效应、组别的主效应以及字体大小和组别的交互作用都不显著 $( p \\mathbf { s } > 0 . 0 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验2的结果与假设一致，即被试关于\"加工流畅性影响记忆效果\"的信念也会影响其学习判断。具体表现为：越流畅越好记组表现出字体大小效应，即相对于用小字体呈现的词对，被试在大字体词对上的 JOL 值更高。控制组在大字体词对上的 JOL 值高于小字体词对上的JOL 值，两者之间的差异接近显著性水平。并且，越流畅越好记组表现出的效应比控制组更大；流畅性与记忆无关组则没有出现字体大小效应。上述结果表明，个体相信加工起来更容易的项目更容易被记住，同以往的研究发现一致(Besken& Muligan,2013;Yue,Castel,&Bjork, 2013)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4总讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究通过考察个体关于加工流畅性的信念对其学习判断的影响，揭示字体大小效应产生的认知机制。具体通过两个实验分别考察了个体关于“字体大小影响加工流畅性\"以及“加工流畅性影响记忆效果\"等信念对学习判断的影响。结果发现，当被试相信大字体更流畅(实验1的大字体更流畅组)或者相信越流畅记忆效果越好(实验2的越流畅越好记组)时，被试在大字体词对上的 JOL值显著高于小字体。当被试相信小字体更流畅(实验1的小字体更流畅组)或者相信流畅性与记忆无关(实验2的流畅性与记忆无关组)时，被试在大字体和小字体词对上的JOL 值无显著差异，字体大小效应消失。本研究的结果表明个体关于加工流畅性的信念是其学习判断的重要线索，是字体大小效应产生的重要原因。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究的结果有力地支持了Koriat (2000,2007)双加工模型中的信念假说，同时也为该模型的进一步完善提供了启示。如前所述，双加工模型认为人们可能基于两种不同的加工系统进行元认知监测：基于某种理论或信念进行监测或者基于加工流畅性等主观体验进行监测。这两种加工过程完全不同，且相互分离(Koriat,2007)。然而，有研究者认为，加工流畅性和信念有时候密切联系，二者可能相互作用，共同影响学习判断(Dunlosky et al.,2015;Mueller &Dunlosky,2017)。例如，人们可能基于加工流畅性的体验产生相应的信念，这种信念影响其学习判断(Finn& Tauber,2015)。无独有偶,Mueller 和Dunlosky (2017)也认为，在字体大小影响 JOL的实验中，被试在学习过程中注意到了字体大小的变化，于是他们形成了一个看似合理但却错误的信念——大字体比小字体更容易加工。并且，被试也相信更容易加工的项目更好记忆，相应的成绩也会更好(Bjork,Dunlosky,& Kornell,2013; Simon& Bjork,2001)。本研究的两个实验通过指导语诱导被试相信\"大字体比小字体加工更流畅”(实验1)或者\"加工更流畅更好记”(实验2)之后，实验组表现出的字体大小效应都比没有接受指导语的控制组更强。这一结果提示，指导语所引发的信念与被试原有信念一致，而在接受指导语后，原有的信念可能得到进一步强化，因此表现出的字体大小效应也更强。这些结果表明，关于加工流畅性的信念是人们进行学习判断的一种重要依据，与 Mueller 和Dunlosky(2017)的研究结果一致。本研究与Muller 和Dunlosky(2017)的研究共同提示，虽然信念是元认知监测的重要线索，但这种信念的具体内容其实和学习材料本身的加工流畅性密切联系。也就是说，人们会基于材料的加工流畅性产生某种信念，并根据这一信念进行学习判断。据此，本研究认为,双加工模型将基于体验和基于理论的两个系统视为分离的观点需进行修正，未来研究可以从二者交互的角度对该模型进行进一步建构和验证。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，本研究的结果虽然支持了信念假说，但并不能完全排除加工流畅性本身对学习判断的影响。本研究实验1中小字体更流畅组被试在大字体和小字体词对上的 JOI值没有显著差异，并没有表现出与指导语一致的效应(小字体项目的 JOL 值比大字体更高)。这可能是因为学习材料所引发的加工流畅性体验仍在学习判断中起作用。在本研究中，小字体更流畅组的被试可能体验到大字体更流畅，小字体更不流畅，而这种体验和指导语引发的信念(即小字体比大字体加工更流畅)相互冲突。在这一实验条件下，基于加工流畅性本身的体验和由指导语引发的信念对学习判断产生的影响相反，因而导致字体大小效应消失。这一解释不同于Mueller和Dunlosky (2017)认为字体大小效应的产生与加工流畅性本身无关的观点。然而，由于本研究并未直接测量加工流畅性，因此无法确定流畅性在字体大小效应中的具体作用。要厘清关于加工流畅性的信念和加工流畅性本身在字体大小效应中的作用，仍需进一步探索。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "此外，本研究的结果为克服元认知错觉(metacognitive illusion)提供了启示。本研究的两个实验一致表明，字体大小影响 JOL，但不影响实际回忆成绩，与先前研究(Mueller et al,2014;Rhodes&Castel,2008)的结果相同，表明人们产生了元认知错觉。但是，当指导语引发了与人们先前信念不一致的信念时(例如小字体更流畅组、流畅性和记忆无关)，被试在大字体和小字体上的学习判断值和回忆成绩都没有显著性差异，表明元认知错觉消失了。可见，改变错误信念是消除元认知错觉的有效措施。研究者指出，学生的信念会受到课程、任务和教学等的影响(Hofer,1999;Nist＆Holschuh,2005)。因此，教师可以通过恰当的教学指导(例如明确告诉学生学习材料的某些特征和学习成绩无关)，引导学生意识到自己的不合理信念，从而消除元认知错觉，促进学生更准确的监测和更高效的自我调节学习。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "总之，本研究结果表明个体关于加工流畅性的信念影响了其学习判断，是字体大小效应产生的重要原因，为Koriat (2000,2007)的双加工模型中的信念假说提供了进一步证据，同时也提示该模型可以从将基于体验和基于理论两种系统进行整合的角度进行进一步修正和完善。此外，本研究的结果还为教学提供了启示：通过教学指导改变学生的错误信念，消除元认知错觉，从而促进有效学习。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究通过两个实验考察个体关于加工流畅性的信念对其学习判断的影响，探讨字体大小效应产生的认知机制。得到的结论如下：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1)个体关于“字体大小影响加工流畅性\"的信念影响其学习判断。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2)个体关于“加工流畅性影响记忆效果\"的信念影响其学习判断。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3)个体关于加工流畅性的信念是字体大小效应产生的重要原因，是人们进行学习判断的重要线索。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nAlter,A.L.,& Oppenheimer,D.M.(2009).Uniting the tribes of fluency to form a metacognitive nation. Personality and Social Psychology Review,13(3),219-235.   \nBesken,M.,& Mulligan, N. W. (2O13). Easily perceived, easily remembered? Perceptual interference produces a double dissociation between metamemory and memory performance. Memory & Cognition， 41(6), 897-903.   \nBjork,R.A.,Dunlosky,J.，& Kornell, N. (2013).Self-regulated learning:Beliefs,techniques,and illusions. Annual Review of Psychology, 64,417-444.   \nCarpenter,S. K.，Wilford,M. M., Kormell N.，& Mullaney, K. M. (2013). Appearancescan be deceiving: instructor fluency increases perceptions of learning without increasing actual learning. Psychonomic Bulletin & Review,20(6),1350-1356.   \nDunlosky, J.,& Metcalfe,J. (20o9). Metacognition. Thousand Oaks: Sage Publications, Inc.   \nDunlosky,J.,Muellr,M.,& Tauber,S.K.(2o15).The contribution of processing fluency(and beliefs) to people's judgments of learning. In D. S.Lindsay, C. M. Kelley,A. P. Yonelinas,& H.L. Roediger, III(Eds.), Remembering: Atributions,processes,and control in human memory (pp. 46-63). New York: Psychology Press.   \nDunlosky, J., & Rawson, K. A. (2012). Overconfidence produces underachievement: inaccurate self evaluations undermine students’ learning and retention. Learning and Instruction, 22(4), 271-280.   \nFaul,F., Erdfelder,E., Lang,A.,& Buchner,A. (2007). $\\ b { \\mathrm { G } } ^ { * }$ Power 3: A flexible statistical power analysis program for the social, behavioral,and biomedical sciences.Behavior Research Methods,39(2),175-191.   \nFinn,B.,& Tauber, S.K. (2015). Erratum to: When Confidence Is Not a Signal of Knowing: How Students’ Experiences and Beliefs About Processing Fluency Can Lead to Miscalibrated Confidence. Educational Psychology Review, 27(4),1-1.   \nHofer,B. K. (199). Instructional Context in the Collge Mathematics Clasroom: Epistemological Beliefs and Student Motivation. Journal of Staff Program & Organization Development, 16(2), 73-82.   \nHu, X.,Li,T., Zheng,J.,Su,N.,Liu, Z.,& Liang,L. (2o15). How much do metamemory beliefs contribute tothe font-size efect in judgments of learning? Plos One,10(11), e0142351.   \nJia, X.,Li,P.,Li,X., Zhang,Y.,Cao, W.,Cao,L.,&Li, W. (2016).The effect of word frequency on judgmentsof learning: Contributions of beliefs and processing fluency.Frontiers in Psychology,6,1995.   \nKoriat,A. (2ooo).The feling of knowing: some metatheoretical implications for consciousness and control. Consciousness & Cognition, 9(2),149-171.   \nKoriat,A. (2007).Metacognition and consciousnes.In P.D. Zelazo,M.Moscovitch,& E.Thompson (Eds.),The Cambridge handbook of consciousness (pp. 289-325). New York: Cambridge University Press.   \nKornell,N.,& Metcalfe,J. (20o6).Study efficacy and the region of proximal learning framework.Journal of Experimental Psychology: Learning, Memory, and Cognition, 32(3), 609-622.   \nKornell,N., Rhodes，M. G. Castel, A. D.,& Tauber, S.K. (2011). The ease-of-processing heuristic and the stability bias: Dissociating memory，memory beliefs,and memory judgments.Psychological Science, 22(6), 787-794.   \nLi,T.,Hu,X., Zheng,J.，Su,N.,Liu,Z.,& Luo,L. (2016). The influence of visual mental imagery size on metamemory accuracy in judgment of learning. Memory, 1.   \nMiele,D.B., Finn,B.,& Molden,D. C. (2011). Does easily learned mean easily remembered? Itdepends on your beliefs about intelligence. Psychological Science, 22(3), 320-324.   \nMueler,M.L.，& Dunlosky,J. (2017). How beliefs can impact judgments of learming: Evaluating analytic ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "processing theory with beliefs about fluency. Journal of Memory and Language, 93,245-258. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Mueller,M.L.,Dunlosky,J.,& Tauber,S.K.(2016).The effect of identical word pairs on people's metamemory judgments: What are the contributions of processing fluency and beliefs about memory? Quarterly Journal of Experimental Psychology, 69(4),781.   \nMueler,M.L.,Dunlosky,J.,Tauber,S.K.,& Rhodes,M.G.(2014).The font-size effct on judgmentsof learning: Does it exemplify fluency efects or reflect people's beliefs about memory? Journal of Memory and Language, 70,1-12.   \nMueler,M.L.,Tauber,S.K.,&Dunlosky,J.(2o13).Contributions of beliefs and processng fluency tothe effect ofrelatedness on judgments of learning.Psychonomic Bulletin & Review,20,378-384.   \nNist,S.L.,& Holschuh,J.P.(2oo5).Practical applications of the researchon epistemological beliefs.Journalof College Reading& Learning,35(2),84-92.   \nRhodes,M.G.,& Castel,A.D. (2o08).Memory predictions are influenced by perceptual information: Evidence for metacognitive illusions.Journal of Experimental Psychology: General,137(4),615-625.   \nRouder,J.N.,Speckman,P.L.,Sun,D.,Morey,R.D.,& Iverson,G. (20o9).Bayesian t tests foracceptingand rejecting the null hypothesis.Psychonomic Bulletin & Review,16(2),225.   \nSimon,D.A.,& Bjork,R.A. (2001).Metacognition in motor learning.Journal of Experimental Psychology Learning Memory & Cognition, 27(4),907.   \nSusser,J.A.,& Mulligan,N.W. (2O15).The effect of motoric fluencyon metamemory.Psychonomic Bulletin& Review, 22(4),1014-1019.   \nThiede,K.W.，Anderson, M. C.M.,& Therriault,D. (20o3). Accuracy of metacognitive monitoring affects learning of texts. Journal of Educational Psychology, 95(1), 66-73.   \nWagenmakers,E.-J.,Love,J.,Marsman,M.,Jamil,T.,Ly,A.,Verhagen,J.,..Morey,R.D.(2018).Bayesian inference for psychology.Part II.Psychonomic Bulletin & Review, 25(1),58-76.   \nYang, C., Huang,T.S.T.,& Shanks,D.R. (2O18).Perceptual fluency affects judgments of learning: The font size effect. Journal of Memory and Language, 99, 99-110.   \nYue,C.L., Castel,A. D.,& Bjork,R.A. (2013). When disfluency is—and is not—a desirable diffculty: The influence of typeface clarity on metacognitive judgments and memory. Memory & Cognition, 41(2), 229-241. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The influence of learner's beliefs about processing fluency on font-size effect ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "CHEN Ying1, 2; LI Fengying1; LI Weijian1 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "( InstituteofPsychology,Zhejiang Normal University,Jinhua 321oo4,China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Yango College,Fuzhou 350015,China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The font-size efect refers to the phenomenon by which the judgments of learning (JOLs) are higher for words presented in a larger versus smaller font size.Recently, it has received a great deal of attention in the area of metacognition because the cognitive mechanism of this effect can provide a way to understand how individuals make judgments of learning,which has been a central question in metacognitive monitoring research. So far, there have been two hypotheses about the mechanism underlying this effect: (a) the fluency hypothesis, which claims that JOLs are higher for larger words because they are presumably easier to process and (b） the belief hypothesis, which argues that the font-size effect is caused by people's beliefs (e.g., beliefs about how font size afects memory). Recently, Mueller and Dunlosky (2017) proposed a new account that the individual's belief about processing fluency could produce the font-size effect and went on to provide indirect evidence of this.Building on the work of Mueller and Dunlosky,the present study aims to provide direct evidence supporting this idea that beliefs about processing fluency influence the font-size effect. Furthermore,the current study extended the work of Mueller and Dunlosky by splitting the beliefs about processing fluency into two components: the impact of font size on processing fluency and the impact of processing fluency on memory performance. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In this study,we conducted two experiments to investigate the influence of beliefs about processing fluency on the font-size effect via diffrent instructions.Experiment 1 focused on the influence of beliefs about how font size impacts processing fluency on JOLs. Seventy-five participants were randomly assigned to three groups: group 1 received instructions about how the large font words were easier to process, group 2 received instructions about how small font words were easier to process, while the control group did not receive any such instructions. Then, all participants studied word pairs in large (48-point) or small(18-point) font sizes, made JOLs for each word pair and completed a cued-recall test. Experiment 2 focused on the influence of beliefs about how processng fluency impacts memory on JOLs. Eighty-nine participants were randomly assigned to three groups: group 1 received instructions stating that easier processing was positively associated with better memory performance, group 2 received instructions stating that processing fluency was unrelated to memory performance,and the control group did not receive any such instructions.All participants completed tasks similar to experiment 1. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "There were two main results. First, JOLs were higher for large fonts when participants were led to believe that the large font was easier to process (group 1 in experiment 1) or the ease of processing was positively related to better memory performance (group 1 in experiment 2). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Second, no difference in JOLs was observed when participants were instructed to believe that the small font was processed much more easily (group 2 in experiment 1) or processing fluency was irrelevant to memory performance (group 2 in experiment 2),i.e., there was no font-size effect. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,our results provide direct evidence that beliefs about processing fluency can produce the font-size effect, and that they play a vital role in judgments of learning. Key words font-size effect; judgments of learning; beliefs about processing fluency ",
+        "page_idx": 15
+    }
+]

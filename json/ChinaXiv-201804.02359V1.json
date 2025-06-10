@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of water deficiency on relationships between metabolism， physiology， biomass， andyield of upland cotton (Gossypium hirsutum L.) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tohir A BOZOROV1,2\\*, Rustam M USMANOV1, YANG Honglan², Shukhrat A HAMDULLAEV1,Sardorbek MUSAYEV³， Jaloliddin SHAVKIEV1， Saidgani NABIEV1， ZHANG Daoyuan²,AlisherAABDULLAEV1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Institute of Geneticsand PlantsExperimental Biology, Uzbek Academyof Sciences,Yukori-Yuz11226,Uzbekistan; 2 KeyLabofBiogeogaphyand Bioresource inAridLand,Xijiang InstituteofEcologyandGeography,ChineseAcademyof Sciences, Urumqi 830011,China; 3Department of Civil and Environmental Engineering, University of Connecticut, Storrs CT06269,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Drought is a common abiotic stress that considerably limits crop production. The objective of this study is to explore the influence of water deficiency on the yield,physiologic and metabolomic attributes in upland cottn cultivars (Gossypium birsutum L). Cotton cultivars,'Ishonch' and 'Tashkent- $6 ^ { \\prime }$ were selected to study the relationships among their physiologic, metabolomic and yield attributes during water deficiency. Deficit irrigation was designed by modifying the traditional watering protocol to reduce Water use.Results indicate that cotton cultivars respond differently to water deficit stress. Water deficit significantly influenced plant height,the number of internodes,and sympodial branches in both cultivars. However, yield components such as the number of bols,boll seed,lint mass,and individual plant yield were significantly reduced only in 'Tashkent-6'. The leaf area decreased and the specific leaf weight increased in 'Ishonch' under deficit irrigation conditions.However, 'Tashkent- $\\cdot 6 ^ { \\prime }$ demonstrated significant water loss compared to 'Ishonch',and both cultivars showed reduced transpiration rates. Untargeted metabolite profiles of leaves showed clear separation in 'Ishonch',but not in 'Tashkent- $\\cdot 6 ^ { \\prime }$ under deficit irigation compared to fullirrigation. The individual metabolites such as proline and galactinol showed strong association with yield under water deficit stressMoreover,this study indicates that leaf area and transpiration intensity influence yield during water deficiency. In summary， the correlation among morpho-physiologic, metabolic,and yield components significantly varied between the two cultivars under water deficiency. The flowering stage was sensitive to water stress for both cultivars.The direct relationship between physiology, metabolism, and yield may be a useful selection criterion for deter mining candidate parents for cotton drought tolerance breeding. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: irrigation; cotton; drought tolerance; metabolite profiling; yield ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As sessile organisms, plants are continuously exposed to diverse environmental stresses.Of these stresses，drought is the most significant because it limits flora diversification and agricultural productivity. Drought currently reduces crop yield more than $50 \\%$ worldwide (Boyer,1982; Bohnert et al.，1995；Baboev et al.， 2017).Drought-areas are expanding (Dai， 2011） and envisioned to be the worst in the Central and Southwest Asia by 2O5O (Agrawala et al., 2001). Cotton is considered as 'white gold' and significantly contributes to the economy in cotton producing countries. Cottn cultivars differed among each other by their economic valuable traits that are main features of both fiber productivity and cooking oil. Additionally,coton seeds have high protein content and are an excellent feed source for livestock. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Water deficiency stress significantly affects the fiber productivity，quality，and yield traits. Uzbekistan is reported to have $4 . 3 1 \\times 1 0 ^ { 6 } ~ \\mathrm { h m } ^ { 2 }$ of irrigated lands which is about $10 \\%$ of the total lands of the country (Kulmatov, 2O14). Water resources management needs to integrate more feasible and optimal irrigation methods to control deficit irrigation (AbdelGadir et al.，2012; Sampathkumar et al.,2O13； Snowden et al.,2013). The deficit irrigation approach is used to increase crop water use eficiency by reducing water or the number of irigation frequencies (Kirda,2Oo2). Considering that, there is a need to drought tolerant cottn varieties to produce more seeds and fiber yield per plant without reduction of fiber quality at reduced irrigation frequencies as well drought stress conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Insufficient soil moisture can affect developing organs especially during blooming,flowering, and fruiting stages that negatively affect plant morphological traits and yield components (McMichael and Hesketh，1982； Pettigrew,2004； Soomro et al.,2011).Water deficiency can reduce cell and leaf expansion, stem elongation,and leaf area index (Gerik et al.,1996). Plant leaf area and reduction of initiation of new leaves are not only attenuated (Pettigrew,2Oo4), but leaf water potential, stomata closure and conductance are also reduced (Bohnert et al.,1995； Bray, 1997). Seed germination and seedling establishment are the most critical stages in a water-limited environment (Saini and Lalonde,1997） as well as cotton boll development during flowering period (Orgaz et al., 1992). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Drought stress induces the expression of stress-related transcription factors and genes,such as reactive oxygen species (ROS), scavenging,abscisic acid (ABA) or mitogen-activated protein kinase signaling genes that activate various drought-related pathways to induce tolerance in the plant (Ullah et al.,2O17). Various genetic, physiologic and biochemical markers have been used in breeding programs for drought tolerance of coton (Pace et al.,1999; Basal et al., 2O09). There are several studies on genome,epigenome and transcriptome level to identify drought tolerance associated quantitative trait loci (QTLs), genes and transcripts in cotton (Chen et al.,2O13; Lu et al., 2017; Ullah et al., 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Morphologic and physiologic changes during insufficient water supply lead to genome reorganizations and large-scale alterations in transcriptome by suppressing or enhancing genes that result in metabolome alterations (Obata and Fernie,2O12；Witt et al.,2O12； Pucholt et al.,2015). Metabolite markers have been extensively used in screening plants for tolerance and responses to various environmental stresses (Witt et al.,2012; Meyer et al.,2014). Metabolites as a final product in gene-to-metabolite concept represent alteration in phenotype than genes that might be used as predictive markers (Saxena and Cramer, 2O13). Wit et al. (2O12) demonstrated several metabolites that displayed specific responses during drought stress,levels of which were correlated well with certain physiological traits. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Physiologic indices like leaf photosynthesis， stomatal conductance，and transpiration rate showed their potential as indicators for drought tolerance in cotton (Laffray and Louguet,1990; Leidi et al.,1993； Nepomuceno et al.,1998; Ullah et al., 2008). Analyses of Gossypium barbadense (Siv'on) and Gossypium hirsutum (F-177) also showed higher mineral and metabolite content along with greater water use efficiency in F-177 (Levi et al.,2O11). Changes in polyamine concentrations are common plant response to variety abiotic stresses. Recent studies in polyamines (putrescine， spermidine， and spermine） indicated different concentrationsin drought-tolerant and drought-sensitive G. hirsutum varieties (Loka et al.,2O15). Comparative proteome analysis of drought-responsive proteins during the seedling stage in two cotton ( $G .$ （20号 hirsutum) cultivars,drought-tolerant KK1543 and drought-sensitive Xinluzao26 have performed proteomic changes to response for drought in roots of cotton plants. These divergently expressed proteins may be related to biochemical pathways that are responsible for drought tolerance (Zhang et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However, it is stil required to study in-depth to find the most precise indices to evaluate plant drought tolerance.It is important to elucidate and induce drought-tolerant traits via metabolome analysis and identify their traits or parameters as potential indices for crop improvement. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper investigated the relationship between metabolites and morphophysiological parameters with yield components of cotton cultivars 'Ishonch' and 'Tashkent- $. 6 ^ { \\prime }$ under water deficit condition. Results indicate that 'Ishonch' has shown more drought tolerant genotype while 'Tashkent-6'is drought sensitive.Conclusion of this study is the characterization of coton cultivars by using morphological， physiological and metabolomic approaches can provide valuable information for selection criteria in plant breeding programs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Experimental site, irrigation condition,and plant material ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiment was conducted in Zangi-Ata, a district in the Tashkent region of Uzbekistan. The Tashkent region has a continental climate,according to the Koppen climate classification system (Peel et al., 2Oo7). Hence,the region experiences cold winters and long, hot,and dry summers. The Zangi-Ata experimental station is located at $4 1 . 1 7 8 ^ { \\circ } \\mathrm { N }$ and $6 9 . 1 2 9 ^ { \\circ } \\mathrm { E }$ ，with an elevation of $3 9 8 { \\mathrm { ~ m } }$ a.s.l. The annual photoperiod (light/dark) is $1 6 / 8 \\mathrm { ~ h ~ }$ . Temperatures increase in April during coton sowing season and decrease in late September before the harvesting period. Sunny days are between 175-185 d. Rainfall varies from 6 to $7 0 ~ \\mathrm { m m }$ in the dry season for a period of 5-6 months (Fig.1). The crops require intensive irrigation throughout this vegetation period. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d445c3866a1e319368f21fbdede23a1a20618ac6475155ad14995a6464b8674.jpg",
+        "img_caption": [
+            "Fig.1Monthly average temperature and precipitation in Tashkent region, Uzbekistan.The data include 1981- 2010(a)and 2014(b).Source: Centre for Hydro-meteorological Services,Tashkent.Max.Temp,maximum temperature; Min. Temp,minimum temperature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An optimal cotton irrigation protocol is widely-used for agriculture in Uzbekistan. Cotton is irrigated according to the 1-2-1 (pre-flowering-flowering-boll opening） sequence with 900 $\\mathrm { m } ^ { 3 } / \\mathrm { h m } ^ { 2 }$ of water applied before flowering，two applications of $1 2 0 0 ~ \\mathrm { \\ m } ^ { 3 } / \\mathrm { h m } ^ { 2 }$ each during flowering，and $9 0 0 \\ \\mathrm { m } ^ { 3 } / \\mathrm { h m } ^ { 2 }$ prior to boll opening phases. Soil moisture also contributes water during seed germination. A modified irigation protocol was also developed for deficient irrigation conditions. It has a 1-1-O sequence which limits water availability during flowering and boll development stages and reduces the total irigation requirement to $2 1 0 0 ~ \\mathrm { m } ^ { 3 } / \\mathrm { h m } ^ { 2 }$ of water. This study evaluates the response of selected cotton （ $\\boldsymbol { G }$ hirsutum） cultivars,'Ishonch'and 'Tashkent-6',to water deficiency under field conditions. Both genotypes have an average fiber production (3.5-3.8 tons) $/ \\mathrm { h m } ^ { 2 }$ ）but different tolerances to drought. Cotton cultivars were planted $2 0 \\ \\mathrm { c m }$ apart in $9 0 ~ \\mathrm { c m }$ wide by $5 0 \\mathrm { ~ m ~ }$ long furrows on 2 April, 2014. Full and deficit irigation conditions were separated by a specified distance. Insecticides Bi-58 (BASF, Germany）and Hexachloran were applied to aphids and cotton bollworm, respectively. Seasonal application of fertilizer per annum consisted of $2 5 0 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ nitrogen, $1 8 0 ~ \\mathrm { k g / h m ^ { 2 } }$ phosphorus and $\\overline { { 1 } } 1 5 \\mathrm { ~ k g } / \\mathrm { h m } ^ { 2 }$ potassium. Fertilizerswere applied during tillge or before irrigation. Morphological, physiological,and economic traits of selected cultivars were studied under water deficit conditions.Parameters such as plant height， leaf area (LA)，weight of dried leaf (WDL), chlorophyll fluorescence (CF),relative water content (RWC),excised-leaf water loss (EWL), specific leaf weight (SLW), transpiration rate (TR) and metabolite profile were used to monitor stress conditions as compared to full irrigated conditions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Measurement of morphological traits ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Plants with the same average height were randomly selected from each individual plot in fifteen different locations for morphological measurements.Plant height was determined by using a standard meter stick to measure from the ground to the top of the plant. Numbers of internodes, sympodial and monopodial branches were manually counted. The mass of boll containing seeds and lint was weighed before and after manually separating seeds. Then, lint percentage (lint $\\%$ ） and lint index were calculated. Cultivar bolls were considered mature in the plant if more than $50 \\%$ of bolls were open at the time of harvesting.Bolls from the first sympodial branch in the first node were selected to analyze boll mass,seed and fiber traits. Fifteen biological replicates of each genotype were used for all measurements. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Measurement of physiological parameters ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Relative water content (RWC） was measured following the method proposed by Smart and Bingham (1974).Fully expanded stem leaves were randomly plucked and immediately placed into a container at $1 0 ^ { \\circ } \\mathrm { C } { - } 1 5 ^ { \\circ } \\mathrm { C }$ After $3 0 \\ \\mathrm { m i n }$ ， the RWC was measured.Leaves were weighed before and after placing fresh leaves.Leaves were dried for $2 4 \\mathrm { ~ h ~ }$ at $7 0 ^ { \\circ } \\mathrm { C }$ and reweighed to calculate the new RWC. Water loss was determined using the Amid et al. (2Ol3） method. Transpiration rate was determined by Maniou et al. (2O14). Leaf surface density was calculated as described in Garnier et al. (2O11) and chlorophyll content was measured using a SPAD502 plus (Minolta Corp., Osaka, Japan). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Non-targeted leaf metabolite profiling ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For metabolite profiles,the $40 \\%$ methanol extraction procedure was employed as described by (Keinänen et al., 2001). Approximately $1 0 0 ~ \\mathrm { { m g } }$ of homogenized fine powder leaf tissue was placed in a $2 { \\cdot } \\mathrm { m L }$ Eppendorf tube with $1 ~ \\mathrm { m L }$ of extraction buffer( $40 \\%$ MeOH (v/v, methanol/water)） and $5 0 ~ \\mathrm { m M }$ acetate buffer $\\mathrm { \\Delta } 4 0 \\ \\mathrm { m M }$ acetic acid and $4 4 ~ \\mathrm { m M }$ ammonium acetate, $\\mathrm { p H } 4 . 8 ) \\$ and centrifuged at $1 6 0 , 0 0 0 \\ g$ for $1 0 ~ \\mathrm { { m i n } }$ at $4 ^ { \\circ } \\mathrm { C }$ .The supernatant was transferred into a new tube.Totally $1 5 ~ \\mu \\mathrm { L }$ of the extract was transferred into a glass vial with inserts and $2 ~ \\mu \\mathrm { L }$ of $40 \\%$ methanol leaf extracts were separated using HPLC (Agilent Technologies-1260, USA). An Eclipse XDB-C18 narrow-bore analytical column $( 3 . 5 ~ \\mu \\mathrm { m }$ ， $2 . 1 \\ \\mathrm { \\ m m } { \\times } 1 5 0 \\ \\mathrm { \\ m m }$ ，Agilent Technologies，USA） was used with an applied separation gradient having the following parameters:O to $0 . 5 \\ \\mathrm { m i n }$ ， $80 \\%$ A(de-ionized water, $0 . 1 \\%$ (v/v）acetonitrile and $0 . 0 5 \\%$ formic acid), $18 \\%$ B (acetonitrile and $0 . 0 5 \\%$ formic acid) with $2 \\%$ C (isopropanol and $0 . 0 5 \\%$ formic acid); 0.5 to $1 5 \\ \\mathrm { m i n }$ to reach $72 \\%$ （204号 $B + 8 \\%$ C.The flow rate was $2 5 0 ~ \\mathrm { m L / h }$ .Eluted compounds were detected by a 6420 Triple Quad LC/MS (Agilent Technologies, USA) mass spectrometer equipped with an electrospray ionization source in negative ionization mode. Typical instrument setings were as follows: capillary voltage $( 4 0 0 0 \\mathrm { ~ V } )$ ， dry gas temperature $( 3 0 0 0 ~ \\mathrm { C } )$ and dry gas flow (3 $\\mathrm { L } / \\mathrm { m i n } )$ .Ions were detected from15 to $2 2 0 0 ~ \\mathrm { { m / z } }$ at a repetition rate of $1 ~ \\mathrm { H z }$ .Rawdata files from the 6420 Triple Quad LC/MS were converted to mzData file format and processed using the R-package, XCMS script, and CAMERA (http://ioconductor.org/packages). Peak detection was performed using the centWave method with parameter settings: $\\mathrm { p p m } { = } 2 0$ ，snthresh $_ { = 1 0 }$ ，peak width $\\scriptstyle 1 = 5$ to $2 0 \\mathrm { ~ s ~ }$ .The metaboanalyst online software (http://www.metaboanalyst.ca) was used to analyze the XCMS output data file and to perform multivariate statistical analyses after normalization using Pareto scaling. The mass spectra of compounds were identified using the commercial mass spectral database， MASSBANK (htp://www.massbank.jp)，and the public domain mass spectra library from the Max-Planck-Institute for Plant Physiology, Golm, Germany (http://gmd.mpimp-golm.mpg.de). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Data analysis was performed using StatView (SAS Institute Inc., Cary, NC, USA) with one-way ANOVA followed by a Fisher PLSD post hoc test $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Water deficiency altered morphological traits and yield components ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Morphological traits were differently affected among the two coton cultivars under deficit irrigated conditions. Among the morphological traits,the plant height was significantly reduced in both cultivars under deficit irrigated condition (Fig. 2a1, $P { < } 0 . 0 5 { - } 0 . 0 1 \\$ ), but the higher reduction was observed in 'Tashkent-6'. Likewise,the water stress significantly reduced the numbers of internodes in both cultivars which correlated to a reduced number of sympodial branches (Fig. 2a2, $P { < } 0 . 0 5 { - } 0 . 0 0 1 { \\mathrm { ; } }$ . To the contrary, the number of monopodial branches,either under full or deficit irrigated conditions, showed no difference (Fig. 2a4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Full irrigated Deficit irrigated   \n5 ÷ 25 a 18(a3) a a+ b b soprgq gerpers b b b ouu 12 1.5 2.0 6 5 0.5 0 0 0 0.0 25 (b1) b 6 (b2) X b 2.5 (b3) b 80 (b4) 51 (b5) 1 + ac C 2.0 中 ab a 十 a + 43 1 h C sse s 40 uT 10- 1.0 2 20 5 0.5 1. 0 0 0.0 0 0 801(b6) + iig nedgareeas 4 (b7) a X b 15.01 (b8) bf 81(b9) ac ab 中 b ： ed 100j (b10) bll   \nlpq gead speas 60 ab a 6 10.0 xapu aac 40 4 1 C 7.5 uT 20 5.0 2 0 0 Ishonch Tashkent-62.5 Ishonch Tashkent-60 0 Ishonch Tashkent-6 Ishonch Tashkent-6 Ishonch Tashkent ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the water deficit stress,it can be seen that the common economic traits of both cotton cultivars were differently affected as well (Fig. 2b). For 'Tashkent- $\\cdot 6 ^ { \\prime }$ under water deficit conditions,the cotton yield( $_ { ( P < 0 . 0 0 1 }$ ; Fig.2b1O) was significantly affected through a reduction that was correlated with a lessened number of bolls,up to $4 2 . 8 \\%$ ( $P { < } 0 . 0 0 1$ ； Fig. 2b1). Accordingly, the boll mass (lint and seed) was also significantly reduced in 'Tashkent-6',but not at all affected in 'Ishonch'under deficit irrigated conditions（ $_ { ( P < 0 . 0 5 }$ ； Fig.2b2).Fiber and seed traits were also highly influenced by the water deficit stress.Additionally, there was no difference observed for the seed number per boll or fiber length in both cultivars,but there was significant reduction observed in the seed mass per boll and one hundred seed mass in 'Tashkent-6' （20 $( P { < } 0 . 0 5 { - } 0 . 0 1 \\$ ; Figs. 2b6-2b8). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Effects of water deficit stress on morphophysiological parameters ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Certain physiological parameters were determined to understand crop tolerance to water stress. It was found that while both cultivars maintained a leaf water balance, the parameters differed with content.For one, it was observed that LA significantly decreased in 'Ishonch' ( ${ \\scriptstyle \\cdot } { \\cal P } { \\scriptstyle < } 0 . 0 0 1$ ; Fig. 3a), but showed no change for 'Tashkent $\\cdot 6 ^ { \\prime }$ under deficit irrigated conditions. On the contrary, EWL showed a substantial reduction in 'Tashkent- $\\cdot 6 ^ { \\prime }$ （ $_ { ( P < 0 . 0 5 }$ ； Fig.3b)，whereas SLW significantly increased in 'Ishonch' compared to 'Tashkent- $\\cdot 6 ^ { \\prime }$ during water deficiency stress ( ${ \\it P } { < } 0 . 0 5$ ; Fig. 3c). Likewise,LDW significantly decreased in 'Ishonch'( ${ \\scriptstyle ( P < 0 . 0 1 }$ ； Fig. 3d),while no changes were observed for \"Tashkent-6'. Additionally, the transpiration rate was significantly lowered in both cultivars 'Ishonch'and 'Tashkent $\\cdot 6 ^ { \\prime }$ by $4 2 . 5 \\%$ and $6 4 . 4 \\%$ ，respectively $( P { < } 0 . 0 1$ ; Fig. 3e). Lastly, the chlorophyll content was increased in 'Ishonch',but not in 'Tashkent- $\\cdot 6 ^ { \\prime }$ 0 $_ { \\cdot } P { < } 0 . 0 5$ ; Fig. 3f),while RWC was uniform for both cultivars during deficit water stress ( $( P { < } 0 . 1 8 – 0 . 8 2 )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4f1628bb13a2fda0cdf1749b4bf0600f00c199d09879529be523b4fe38ed4af.jpg",
+        "img_caption": [
+            "Fig.3Efect of water deficiency on physiological parameters in cotton cultivars under deficit and irrigated conditions.The bars indicate standard errors for five replicates and different lowercase letters show significant differences determined by one-way ANOVA,followed by a Fisher PLSD post hoc test $( P { < } 0 . 0 5 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 Water deficitstressaltered metaboliteprofiles ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The whole metabolite profiles in both cultivars under full and deficit irigated conditions were further analyzed to study plant response to water stress. Totally,341 metabolite ions features were identified during the initial raw data processing step.Principal component analysis (PCA) demonstrated metabolites profiles under full and deficit irrigated conditions that were separated in the 'Ishonch' cultivar, but not in the 'Tashkent- $. 6 ^ { \\prime }$ cultivar (Fig. 4a). The PC1 component shows variance between different irigated conditions,while the PC2 component describes variance within the groups.The PCA plot clearly demonstrates that metabolite profiles differed in 'Ishonch' grown under full and deficit irrigated conditions compared to 'Tashkent-6'. Moreover, clustering analysis of leaf metabolites under full and deficit irigated conditions were grouped separately in 'Ishonch',whereas 'Tashkent $. 6 ^ { \\prime }$ exhibited mixed clustering of metabolites for full and deficit irrigated conditions (Fig. 4b).A heat map of selected metabolite levels in the coton cultivars under different conditions indicated various accumulation levels of metabolites in 'Ishonch' and in \"Tashkent- $\\cdot 6 ^ { \\prime }$ (Fig. 4c). Moreover, the Venn diagram in Figure 4d depicts the different patterns of the logarithmic changes of metabolites for full versus deficit irrigated conditions in the cotton cultivars.In the result,14 and 6 metabolites were up-and down-regulated in 'Ishonch',whereas only 5 and 4 metabolites up- and down-regulated in 'Tashkent-6'. And 4 and 2 metabolites were up-and down-regulated in both cultivars.Finally，a metabolite annotation ilustrates the involvement of the various metabolic pathways (Fig. 4e),while another contrasts quantitatively the cultivars (Fig. 4f). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) Ishonch Tashkent-6 (b) Fullirigated Defitikente (c) Truorra Lpasrste   \n30 Deficit irrigated 50， 40 20 30 4 0   \n10 m 20 -10 /   \n-20 -201 10 10   \n-30 Full irrigated -30Full irigated -20-10 0 10 20 -20-100 102030 0□□□□□□□□□ □□□□ 4 PC1 (26.3%) PC1 (19.5%)   \n(d) (e) Number of metabolites (f) Log2 fold change   \nIshonch Tashkent-6 0 10 2030 -2 -1 0 1 2 4 COFixation Photosynthesis Cytokinins biosynthesis 14 5 Sugar derivatives biosynthesis 6 4 Glucosinolates biosynthesis 上 Detoxification Ishonch Alkaloids biosynthesiy d Toshkent-6 Aromatic compounds biosynthesis Vitamins biosynthesis □ 4 Flavonoid phytoalexins biosynthesis 2 Aminesand polyaminesbiosynthesis Unknown P Purine □ Deficit/Full irrigated Phenolprypoanoid T Fatty acids biosynthesis Pyrimidine Amino acids biosynthesis Phospholipid biosynthesis ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 depicts the drought response from selected metabolites. Observation of the results shows proline and galactinol significantly increased in 'Ishonch' under deficit irigated conditions, whilethe levels of putrescine,tyrosine,benzoate,cyanidin significantly increased in both cultivars, but differed in accumulation. Additionally,the levels of inositol and glucosinolate were reduced only in 'Ishonch' cultivar under water deficit conditions (Fig.5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2630622d1ccc5b2c2fd1ab73ab2930fb7295aee242da361c524daf516fb28728.jpg",
+        "img_caption": [
+            "Fig.5Mass spectrometry data of measured metabolite levels in the cotton cultivars grown under fulland deficit irigation conditions.The graph charts show relative levels of selected metabolites in fulland deficit irrigated conditions.Different lowercase letters indicate significant diferences as determined by one-way ANOVA, followed by a Fisher PLSD post hoc test $( P { < } 0 . 0 5 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4Relationships among physiology, metabolite and yield under deficit irrigated condition ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Relationships among yield components and physiologic and metabolic parameters were examined by Pearson's correlation (Tables 1 and 2).The findings in Table 1 show that yield and the morphological traits differed under water stress conditions.The plant yield was highly dependent on the number of bols that had a strong positive correlation under both irrigated conditions (Table 1).However, the plant yield was not significantly correlated with the number of bolls under either full or deficit irrigated conditions. Similar results were observed between yield and the opened bolls. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fbeee1f3b3797a21d1d841d12dd718af8780da923ca4a6e9c68ebd5436c4ce88.jpg",
+        "table_caption": [
+            "Table1Correlation coeficients between common economic traits and yield of the cotoncultivars under ful and deficit irrigated conditions "
+        ],
+        "table_footnote": [
+            "Note:\\*indicates significance at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Index</td><td>Full</td><td>Deficit</td><td>Full/deficit</td><td>Deficit/full</td></tr><tr><td>Seed weight per 100</td><td>0.912*</td><td>0.689*</td><td>0.895*</td><td>0.570*</td></tr><tr><td>Seed mass</td><td>0.872*</td><td>0.697*</td><td>0.724*</td><td>0.491*</td></tr><tr><td>Boll mass</td><td>0.928*</td><td>0.802*</td><td>0.684*</td><td>0.487*</td></tr><tr><td>Lint %</td><td>0.694*</td><td>0.868*</td><td>0.701*</td><td>0.867*</td></tr><tr><td>Lint mass per boll</td><td>0.889*</td><td>0.815*</td><td>0.727*</td><td>0.177</td></tr><tr><td>Total bolls</td><td>0.859*</td><td>0.944*</td><td>0.451</td><td>-0.048</td></tr><tr><td>Opened bolls</td><td>0.935*</td><td>0.972*</td><td>0.284</td><td>0.078</td></tr><tr><td>Internodes</td><td>0.816*</td><td>0.173</td><td>0.895*</td><td>0.383</td></tr><tr><td>Sympodial branches</td><td>0.767*</td><td>-0.189</td><td>0.810*</td><td>0.014</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The relationship between number of bolls and the number of sympodial branches was positively correlated under full irrigated conditions but not under deficit irigated conditions (Table 2).A similar relationship was also observed for number of internodes. Seeds,lint traits, and boll mass were positively correlated with yield under both conditions.Water stress highly decreased the number of bolls that had an impact on plant yield,but had less influence on the correlation between yield and boll traits. Relationships amongst economic traits were strongly positive under full irrigation conditions but litle or no correlation was seen for internodes and sympodia with other traits under deficit irrigated conditions (Tables 1 and 2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/738cfb7a2dd9edad8536dcd389f962fc77044953777abcfa0c15efbb8a93956c.jpg",
+        "table_caption": [
+            "Table 2Correlation coefficients between common economic traits and yield of coton cultivars under full (lower diagonal) and deficit (upper diagonal) irrigated conditions "
+        ],
+        "table_footnote": [
+            "Note:Each genotype was analyzed as a data point $\\scriptstyle ( n = 1 0 )$ .\\* indicates significant correlation at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Y</td><td>SW</td><td>SN</td><td>SM</td><td>BM</td><td>L%</td><td>LMB</td><td>FL</td><td>FI</td><td>TB</td><td>OB</td><td>I</td><td></td><td>S</td></tr><tr><td>Yield (Y)</td><td></td><td>0.69*</td><td>0.81</td><td>0.69*</td><td>0.80*</td><td>0.87*</td><td>0.82*</td><td>0.92*</td><td>0.85*</td><td>0.94*</td><td>0.97*</td><td>0.17</td><td>-0.19</td><td>0.85*</td></tr><tr><td>Seed weight (SW)</td><td>0.91*</td><td></td><td>0.90*</td><td>0.87*</td><td>0.90*</td><td>0.92*</td><td>0.92*</td><td>0.79*</td><td>0.89*</td><td>0.77*</td><td>0.65</td><td>0.73*</td><td>0.53</td><td>0.88*</td></tr><tr><td>Seed number (SN)</td><td>0.91* 0.88*</td><td></td><td></td><td>0.94*</td><td>0.96*</td><td>0.95*</td><td>0.97*</td><td>0.89*</td><td>0.91*</td><td>0.88*</td><td>0.80*</td><td>0.51*</td><td>0.30</td><td>0.90*</td></tr><tr><td>Seed mass (SM)</td><td>0.87*</td><td>0.90*</td><td>0.86*</td><td></td><td>0.93*</td><td>0.86*</td><td>0.93*</td><td>0.81*</td><td>0.79*</td><td>0.80*</td><td>0.69*</td><td>0.51</td><td>0.36</td><td>0.81*</td></tr><tr><td>Boll mass (BM)</td><td>0.92*</td><td>0.92*</td><td>0.87*</td><td>0.88*</td><td></td><td>0.93*</td><td>0.98*</td><td>0.84*</td><td>0.86*</td><td>0.89*</td><td>0.81*</td><td>0.44</td><td>0.25</td><td>0.86*</td></tr><tr><td>Lint % (L%)</td><td>0.69*</td><td>0.86*</td><td>0.63*</td><td>0.81*</td><td>0.77*</td><td></td><td>0.96*</td><td>0.93*</td><td>0.97*</td><td>0.92*</td><td>0.85*</td><td>0.51</td><td>0.26</td><td>0.96*</td></tr><tr><td>Lint mass per boll (LMB)</td><td>0.88*</td><td>0.78*</td><td>0.91*</td><td>0.73*</td><td>0.80*</td><td>0.49</td><td></td><td>0.86*</td><td>0.89*</td><td>0.89*</td><td>0.80*</td><td>0.50</td><td>0.28</td><td>0.90*</td></tr><tr><td>Fiber length (FL)</td><td>0.58</td><td>0.73*</td><td>0.53</td><td>0.78*</td><td>0.69*</td><td>0.94*</td><td>0.36</td><td></td><td>0.92*</td><td>0.94*</td><td>0.92*</td><td>0.34</td><td>0.08</td><td>0.88*</td></tr><tr><td>Fiber index (FI)</td><td>0.91*0.84*</td><td></td><td>0.89*</td><td>0.77*</td><td>0.89*</td><td>0.54</td><td>0.85*</td><td>0.41</td><td></td><td>0.89*</td><td>0.82*</td><td>0.57</td><td>0.28</td><td>0.93*</td></tr><tr><td>Total bolls (TB)</td><td>0.85*</td><td>0.72*</td><td>0.92*</td><td>0.74*</td><td>0.79*</td><td>0.40</td><td>0.86*</td><td>0.31</td><td>0.88*</td><td></td><td>0.95*</td><td>0.25</td><td>-0.06</td><td>0.87*</td></tr><tr><td>Open bolls (OB)</td><td>0.93*</td><td>0.80*</td><td>0.89*</td><td>0.81*</td><td>0.84*</td><td>0.48</td><td>0.87*</td><td>0.35</td><td>0.94*</td><td>0.93*</td><td></td><td>0.06</td><td>-0.23</td><td>0.82*</td></tr><tr><td>Internodes (I)</td><td>0.81*0.82*</td><td></td><td>0.83</td><td>0.89*</td><td>0.82*</td><td>0.73*</td><td>0.68*</td><td>0.71*</td><td>0.72*</td><td>0.75*</td><td>0.75*</td><td></td><td>0.85*</td><td>0.52</td></tr><tr><td>Sympodiya (S)</td><td>0.76*</td><td>0.71*</td><td>0.91*</td><td>0.80*</td><td>0.75*</td><td>0.43</td><td>0.77*</td><td>0.42</td><td>0.80*</td><td>0.91*</td><td>0.81*</td><td>0.77*</td><td></td><td>0.26</td></tr><tr><td>Plant height (PH)</td><td>0.52</td><td>0.28</td><td>0.61</td><td>0.34</td><td>0.37</td><td>-0.18</td><td>0.64</td><td>-0.24</td><td>0.60</td><td>0.80*</td><td>0.72*</td><td>0.38</td><td>0.71</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This study analyzed the correlation between yield and physiological and metabolites parameters (Table 3).The relationship between proline and yield in'Ishonch' under deficit irrigated condition revealed positive and moderate correlation,but no correlation was observed for 'Tashkent- $\\cdot 6 ^ { \\prime }$ $_ { \\it P \\mathrm { < } 0 . 0 5 }$ and ${ \\cal P } { < } 0 . 1 6$ ， respectively). Correlation between putrescine and yield was negative for both 'Ishonch'and 'Tashkent $. 6 ^ { \\prime }$ 0 $\\scriptstyle \\cdot - 0 . 0 8$ and $P { < } 0 . 1 4$ ,respectively) under full irrigation. However, no correlation was observed for 'Ishonch'under deficit irrigated condition. Galactinol was negatively correlated with yield in 'Ishonch' under full irrigated condition $( P { < } 0 . 0 7 )$ . However, the relationship between these traits was strongly and positively correlated under deficit irrigated condition $( P { < } 0 . 0 1 )$ . No correlation between galactinol and yield was observed in 'Tashkent-6' under water deficiency. The anthocyanin content is expressed as cyanidin-3-glucosides belonging to phenylpropanoid compounds that commonly accumulated in coton. The relationship between cyanidin-3-glucoside and yield was positively correlated in both cultivars under water stress $( P { < } 0 . 2 3$ and $P { < } 0 . 1 4$ ， respectively). Correlation analysis amongst morphophysiological traits revealed various relationships (Table 4). LA together with SLW is one of the main morphophysiologic parameters that controls water loss (Xu and Zhou, 2O08).LA is negatively correlated with SLW under full irrigated condition $( P { < } 0 . 0 5 )$ and there was no correlation under deficit irigated condition in 'Ishonch'(Table 4). However, these traits in 'Tashkent-6' were strong negatively correlated under both conditions $( P { < } 0 . 0 1 )$ ． A negative relationship was observed between LA and water content in both genotypes under full and deficit irrigated conditions $( P { < } 0 . 0 1 { - } 0 . 0 5 )$ .However,LA weakly and negatively correlated with EWL in 'Ishonch'under both conditions $( P { < } 0 . 0 8 )$ ．Apparently，this correlation in'Tashkent- $\\cdot 6 ^ { \\prime }$ was positive under deficit irrigation (Table 4). This indicates that unchanged LA 'Tashkent-6' that assists in leaf water loss. Transpiration rate was strongly correlated with EWL in both cultivars under full irrigation （20 $( P { < } 0 . 0 1 )$ . However, it was negative in Ishonch' and positive in 'Tashkent-6' under deficit irrigated condition $_ { ( P < 0 . 0 1 }$ and $P { < } 0 . 0 5$ , respectively; Table 4). In 'Ishonch', the correlation between RWC and EWL was high positive under full irrigation，and moderate and positive under deficit $( P { < } 0 . 0 1 )$ irrigation. Apparently, these traits in 'Tashkent-6' was moderate and positive under full condition and negative under deficit irrigated condition $( P { < } 0 . 0 1 )$ . Correlation analyses revealed that yield was correlated with LA， SLW, DLW,RWC, CC，and EWL but not differed in coefficients in 'Ishonch'under both irrigated conditions.However, transpiration intensity was positively correlated under deficit irrigated condition. Apparently， 'Tashkent- $. 6 ^ { \\prime }$ resulted in different responses in relationships between yield and physiological traits for full and deficit irrigated conditions. From this paragraph,we infer that 'Ishonch' compared to 'Tashkent-6' is less sensitive to water deficiency. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a6cbfdeb16a1b4983c92c8c697a3fe97c359e5ef1b95eb1eb219b85a8a8b8a8.jpg",
+        "table_caption": [
+            "Table 3Correlation between yield and physiologic/metabolic atributes of two cotton cultivars under full and deficit irrigated conditions "
+        ],
+        "table_footnote": [
+            "Note:Each genotype was analyzed as a data point $( n { = } 1 0 )$ .\\* indicates significant correlation at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Yield or metabolite traits</td><td colspan=\"2\">Ishonch</td><td colspan=\"2\">Tashkent-6</td></tr><tr><td>Full</td><td>Deficit</td><td>Full</td><td>Deficit</td></tr><tr><td>Proline</td><td>0.122</td><td>0.380</td><td>0.092</td><td>-0.098</td></tr><tr><td>Putrescine</td><td>-0.457</td><td>-0.108</td><td>-0.843*</td><td>-0.550</td></tr><tr><td>Galactinol</td><td>-0.494</td><td>0.756*</td><td>0.641*</td><td>0.049</td></tr><tr><td>Inositol</td><td>0.478</td><td>0.140</td><td>0.424</td><td>-0.571</td></tr><tr><td>Tyrosine</td><td>-0.611</td><td>0.078</td><td>-0.126</td><td>0.557</td></tr><tr><td>Benzoic acid</td><td>-0.041</td><td>0.095</td><td>0.932*</td><td>0.898*</td></tr><tr><td>Cyanidin</td><td>0.336</td><td>0.570</td><td>-0.116</td><td>0.468</td></tr><tr><td>Glucosinolate</td><td>-0.856</td><td>0.031</td><td>-0.704*</td><td>0.578</td></tr><tr><td>Transpiration</td><td>-0.915*</td><td>-0.421</td><td>-0.724*</td><td>-1.000*</td></tr><tr><td>Leaf area</td><td>0.106</td><td>0.518</td><td>-0.789*</td><td>-0.976*</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea02e45eaf32bfaed2ea3257278ecff4f94a94713afc25fb692b45eac660cbae.jpg",
+        "table_caption": [
+            "Table 4Relationships among morphophysiologic traits in'Ishonch' (lower diagonal） and 'Tashkent- $. 6 ^ { \\prime }$ (upper diagonal) under full and irrigated conditions "
+        ],
+        "table_footnote": [
+            "Note:aindicates the fullirrigatedcondition;bindicates thedeficit irrigated condition;\"indicates significanceat $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Y</td><td>LA</td><td>SLW</td><td>DLW</td><td>RWC</td><td>EWL</td><td>TR</td><td>CC</td></tr><tr><td rowspan=\"2\">Yield (Y)</td><td></td><td>0.70*</td><td>-0.99*</td><td>0.07</td><td>-0.73*</td><td>-0.97*</td><td>-0.60*</td><td>0.86*</td></tr><tr><td></td><td>0.99*</td><td>-0.78*</td><td>0.95*</td><td>-0.98*</td><td>0.56</td><td>0.37</td><td>0.86*</td></tr><tr><td rowspan=\"2\">Leaf area (LA)</td><td>0.99*a</td><td></td><td>-0.81*</td><td>0.76*</td><td>-1.00*</td><td>-0.50</td><td>0.15</td><td>0.97*</td></tr><tr><td>0.99*b</td><td></td><td>-0.86*</td><td>0.90*</td><td>-1.00*</td><td>0.67</td><td>0.50</td><td>0.78*</td></tr><tr><td rowspan=\"2\">Specific leaf weight (SLW)</td><td>-0.62*</td><td>-0.72*</td><td></td><td>-0.23</td><td>0.80*</td><td>0.91*</td><td>0.46</td><td>-0.94*</td></tr><tr><td>-0.57</td><td>-0.44</td><td></td><td>-0.56</td><td>0.90*</td><td>-0.95*</td><td>-0.87*</td><td>-0.36</td></tr><tr><td rowspan=\"2\">Dry leaf weight (DLW)</td><td>0.85*</td><td>0.77*</td><td>-0.11</td><td></td><td>-0.70*</td><td>0.19</td><td>0.76*</td><td>0.56</td></tr><tr><td>0.64*</td><td>0.74*</td><td>0.27</td><td></td><td>-0.90*</td><td>0.29</td><td>0.08</td><td>0.97*</td></tr><tr><td rowspan=\"2\">Relative water content (RWC)</td><td>-0.81*</td><td>-0.73*</td><td>0.04</td><td>-1.00</td><td></td><td>0.54</td><td>-0.10</td><td>-0.98*</td></tr><tr><td>-1.00*</td><td>-0.98*</td><td>0.61</td><td>-0.60</td><td></td><td>-0.72*</td><td>-0.55</td><td>-0.74*</td></tr><tr><td rowspan=\"2\">Excised-leaf water loss (EWL)</td><td>-0.45</td><td>-0.33</td><td>-0.42</td><td>-0.86*</td><td>0.90*</td><td></td><td>0.78*</td><td>-0.71*</td></tr><tr><td>-0.55</td><td>-0.42</td><td>1.00*</td><td>0.29</td><td>0.60*</td><td></td><td>0.98*</td><td>0.06</td></tr><tr><td rowspan=\"2\">Transpiration rate (TR)</td><td>-0.61</td><td>-0.50</td><td>-0.24</td><td>-0.94*</td><td>1.00</td><td>0.98*</td><td></td><td>-0.11</td></tr><tr><td>0.67*</td><td>0.56</td><td>-0.99*</td><td>-0.15</td><td>-0.70*</td><td>-0.99*</td><td></td><td>-0.15</td></tr><tr><td rowspan=\"2\">Chlorophyll content (CC)</td><td>-0.27</td><td>-0.40</td><td>0.92*</td><td>0.28</td><td>-0.30</td><td>-0.73*</td><td>-0.60</td><td></td></tr><tr><td>-0.79*</td><td>-0.87*</td><td>-0.05</td><td>-0.97*</td><td>0.80*</td><td>-0.07</td><td>-0.08</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Drought, or water stress,is considered as a limiting factor in agricultural productivity (Boyer, 1982).The generation of drought-tolerant crop plants is a challenge for plant breeders due to the lack of region-specific drought-related indices. Several studies have shown that drought stress significantly influencesmorphology(Pettigrew， 2004； Jaleel et al.， 2009). However, morphological changes could vary due to different levels of water supply (Basal et al., 2O09). In this study, the usual watering scheme was modified as described above (see material and methods). Change the scheme of traditional irrigation protocol alters crop productivity. However, assigning drought indices is important in plant breeding during water deficiency. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Plant height could serve as an index for drought tolerance with respect to plant morphology, but not explicitly for plant breeding. Several studies have proven that water stress highly influences plant stems (Pace et al.,1999; Petigrew, 2004). Recently,McGarry et al. (2016) showed that dynamic changes in Single Flower Truss (SFT) and Self-Pruning protein levels guide meristems between monopodial and sympodial branching programs in upland cotton ( $\\boldsymbol { G }$ hirsutum).Further expressions of the genes were up-regulated in sympodial and monopodial stems rather than in leaves.Functional analyses of these genes show that they regulated indeterminate growth of sympodial and monopodial branches. In allikelihood, drought could alter the gene expression of these proteins that results in the change of plant stalk (Fig. 2). Moreover, Petigrew (2004) reported that branching and stem development typically attenuated in drought stress result in reduction of bolls.Most of them are retained at the first fruiting position. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Plant yield is dramatically affected by limited water supplies due to reduction boll number. Grimes et al. (1969) demonstrated a strong positive relationship between yield and boll number that is consistent with current results. However, water stress changed correlation between these traits that could be considered as an important index in order to evaluate drought tolerance. Additionally,boll mass,the numbers of seed and lint traits have also proven to influence plant yield (Basal et al.,2OO9). Onder et al. (20o9) reported that drought afects seed mass but not seed number which is consistent with our results.Evidently, drought stress reduces boll number due to theproduction of fewer flowers (Grimes，1969；Gerik et al.，1996).However, 'Ishonch' demonstrated non-significant decreases of bolls trait which suggests that flower development was not affected by water stress compared to 'Tashkent-6'. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Many studies have reported that water deficiency can dramatically affect cotton yield during boll development (Plaut et al.，1992；Radin et al.，1992；Trolinder et al.，1993)，which is considered as the most water-deficit-sensitive period for cotton.However,there is still debate over the definition of the most sensitive period for the vegetative growth of cotton. Limited water supply during pre- or post-flowering stage demonstrated the influence formation of a number of bolls which reflects on yield. Our modified watering scheme was designed to one-time irrigation during pre-flowering period that showed a significant reduction in common economic traits for 'Tashkent- $\\cdot 6 ^ { \\prime }$ compared to 'Ishonch'.The result from this study determined that flowering period was sensitive to drought. Also, fiber production，which is based on the number of ovules contained per boll and flowering stage, was a critical period for yield determination. Studies have shown that pollen development and pollen tube growth are sensitive to abiotic stresses due to the environment (Burke，2002； Snider et al.，2011). Consequently，affected flower development, during water deficit stress,influences the boll development. Results are consistent with respect to the work from McMichael et al. (1973), who demonstrated that young bolls abscise if water stress occurs during fourteen days after anthesis.All of these morphological alterations could be caused by the changes in water balance of plants. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The impact of deficit irrigation was determined for a number of interrelated physiological parameters which include celllar water content, stomatal conductance,leaf weight, transpiration intensity,and photosynthesis (Meyer et al.,2O14). High RWC in leaf tissue has been reported as a physiologic selection criterion in breeding for drought tolerance (Tahara et al.，199O). However, EWL can also be considered as the selection criterion for the characterization of plants for drought tolerance.EWL is genetically regulated which can also be applicable in breeding. The level of EWL in Ishonch' demonstrated less water loss compared to 'Taskent-6'.Dhanda and Sethi (1998）demonstrated that EWL is genetically inherited in winter bred wheat. Similarly, hybridization analysis of cotton varieties with 'Ishonch' and their offspring demonstrated less water loss and indicated genetic inheritance of this trait in second generations. Additionally, regulation of leaf area during water stress also plays an important role in water loss. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Regulation of leaf area controls transpiration intensity (Xu and Zhou, 2Oo8). Alves and Setter (2004) reported that leaf expansion under drought stress is decreased due to the reduction of transpiration rate. Decreased leaf area in Ishonch' might tend to close stomata, or reduce them, in order to avoid water loss.Moreover,Pettigrew (2Oo4) reported the reduced leaf area during water deficits, but also noted an increase in specific leaf weight (SLW). Specific leaf weight (SLW), or leaf thickness,is the integral structure of the leaf which is also known to have a correlation with the photosynthetic rate.Evidently,'Ishonch' increased leaf thickness; however it also reduced leaf area when compared to 'Tashkent-6'.Higher leaf thickness and reduced leaf area in 'Ishonch' could prevent water loss during drought stress periods which, therefore, exhibits drought tolerance. Furthermore,‘Ishonch’ could induce stomata closure during water stress.Patil at al.(2011) concluded that higher SLW might have enhanced the photosynthetic rate,thus resulting in better growth. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "It is understood that plants change their metabolome during abiotic stresses (Obata and Fernie, 2012; Witt et al., 2012; Meyer et al., 2014), which suggests that these changes could be used to characterize plants for stress tolerance (Duan et al., 2Ol2; Saxena and Cramer,2O13). Drought tolerant plants could also reorganize its metabolome profiles during water deficiency by producing or increasing the number of secondary metabolites. Metabolites，such as proline, galactinol, benzoic acid, inositol, tyrosine,cyaniding,and glucosinolates (Fig. 5) have shown to be significantly altered in plants during drought stress period (Taji et al.,2OO2; Nishizawa et al., 2008; Duan et al., 2012; Obata et al.,2015). Obata et al. (2015) showed that candidate metabolite markers significantly correlated with yield and field trials in maize during drought stress. Genetically, 'Ishonch' was originated from a hybrid between line L-27 ( $\\overleftarrow { G }$ hirsutum and $G$ barbadense) and 'Tashkent- $. 6 ^ { \\prime }$ where L-27 manifest drought tolerance (Axmedjanov et al., 2016). However, 'Tashkent-6' was originated from $G$ hirsutum ssp. mexicanum and C-4227( $\\boldsymbol { G }$ hirsutum) with subsequent backcrossing with C-4227 (Mirakhmedov，1974). Analysis of different $G$ hirsutum and $G$ barbadense accessions for drought tolerance revealed that $G$ barbadense had a greater potential for volatility and acclimatization to unusual conditions,capable of better resisting the adverse efects of salt (Tiwari et al.,2O13) and drought (Mammadova et al., 2015). This could be one of the reasons why 'Ishonch' had less water loss. Correlation between proline and yield showed positive relationship under water stress conditions with respect to drought tolerant 'Ishonch'.Early work with cotton demonstrated that proline amounts highly accumulated during drought stress (McMichael and Elmore，1977). Proline plays an important role as a regulatory mechanism of water loss by reducing cell water potential (De Fatima Fumis and Pedras, 2002).Leaf water potential was reduced under water stress conditions. However, the level of free proline depends on the genetic background of the plant. Guimaraes et al. (2Oo8) demonstrated that the amount of free proline was dependent on sugarcane genotypes. Moreover, increased level of galactinol strongly correlates to yield under stress condition.In addition, galactinol could have a novel function in protecting plant cells from oxidative damage caused by stress (Nishizawa et al., 2008).Over-expression of gene encoding galactinol synthase in Arabidopsis resulted in the accumulation of galactinol that subsequently enhanced tolerance to drought (Taji et al.,2002). These findings might validate that 'Ishonch' is genetically drought tolerant which is and able to re-program its primary metabolism to secondary metabolism. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Interestingly, the benzoic acid level had a strong positive correlation with yield in 'Tashkent- $. 6 ^ { \\prime }$ at both watering schemes. On the contrary, no correlation observed in 'Ishonch',suggesting that this phenomenon is genotype specific and hence, has no relation to watering conditions. The benzoic acid level could,however, promote an increased sensitivity to oxidative stress which is promoted by water deficit. It was shown that salicylic acid (SA) synthesized from phenylalanine via benzoic acid which is significantly associated with high levels of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ in A. thaliana,which resulted in a significant oxidative damage while the SA-deficient transgenic line showed enhanced tolerance to salt and osmotic stress in the absence of SA accumulation (Borsani et al., 2001;Mohamed-Shater et al.,2O15).Moreover, the inhibition of benzoic acid can control the endogenous response to salt stress and prevent SA accumulation in rice under oxidative stress (Sawada et al.，2Oo6). Conversely, the benzoic acid directly associated with plant yield. The application of benzoic acid showed a significantly positive effect on fruit yield of different crops (Benavides-Mendoza et al.,2Ol2; Abouziena et al.,2O16). Our results showed that 'Tashkent-6' significantly outperformed 'Ishonch' by yield components (number of bolls,boll mass,lint weight, seeds per boll, seed weight,lint index,and cotton yield) under full irigation scheme. This might be attributed to genotype-specific regulation of high benzoic acid level in Tashkent-6'. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Under deficit irrigation scheme, including strong water limited stress conditions, it is clearly seen that metabolite profiles in 'Ishonch' demonstrated significant separation from the primary metabolic state compared to \"Tashkent-6'.Results were consistent with earlier work by the study group.This study dissected experimented metabolome profiles in different conditions of water supply (1-2-1,1-1-0, 1-0-0,and 0-0-0) (Bozorov et al., 2016). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Common economic，morpo-physiologic，and metabolic traits responded differently in the selection of two cotton cultivars under deficit stress conditions compared to full irrigation. Consequently, those traits correlate each other differently as well. Correlation analyses between yield and economic traits,physiologic and also with metabolic parameters,demonstrated that 'Ishonch' is more drought tolerant than 'Tashkent-6'. Yield is a vital index in cotton breeding which must be either positively or negatively correlated to other physiologic，metabolic,and morphologic traits that define right assessment of lines in coton improvement. Our results revealed that in 'Ishonch',the correlation between yield and morphologic, metabolic, physiologic traits were not highly differed but 'Tashkent- $. 6 ^ { \\prime }$ shows varied correlation coefficients under both conditions. Uniformity，correlation coefficients amongst traits could be considered as the stress tolerant proxy, which are important indices in plant breeding. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this work,we studied morphologic, physiologic,and metabolic responses to water deficiency. Current findings demonstrated that decreasing leaf area and increasing leaf thickness prevent water loss which depends on genotype.The chlorophyll content tends to increase slightly when water stress applied in Ishonch'. Specific leaf weight and transpiration rate were significantly changed during the water stress in cotton genotypes. Correlation between yield and most of physiologic traits was uniform in 'Ishonch' compared to 'Tashkent-6'. Yield component,and number of bolls which highly depend on flower abscission was not significantly changed in 'Ishonch'. Hence,in conclusion,the flowering stage is sensitive to drought stress which reduces the rate of flower abscisson. The theory is promising to consider flowering time, physiologic,and metabolic indices in the characterization plant for drought tolerance.Mass spectrometry based fingerprinting is reliable for rapid screening cotton genotypes that can be served as a selection index for drought tolerance.Moreover,'Ishonch'can be used as a donor for drought tolerance while 'Tashkent- $. 6 ^ { \\prime }$ as a donor for high productivity in cotton breeding programs. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by Commitee of Science and Technology of Uzbekistan (F5-TO25),CAS PIFI fellowships (2017PB0051,2017VBA0017)and the High Technology Research and Development Program of Xinjiang Uygur Autonomous Region (201411104).We would like to show our gratitude to the employees of Zangi-Ata Experimental Field Station for growing and maintaining coton plants and Dr. Andrew J WOOD for language editing. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AbdelGadirAH,DoughertyM,FultonJP,etal.Ol.Effectofdiferentdeficit-igaioncapabilitoncottonieldnthe ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "tennessee vally.Irrigation & Drainage Systems Engineering,1(1):102,doi:10.4172/2168-9768.1000102.   \nAbouziena H,Amin AA,AbdEl-KaderAA,etal.2O16.Effectsof benzoicacidandthioureaon growth and productivityof wheat(Triticum aestivum L.)Plants.Ponte Academic Journal,72(4):132-149,doi: 10.21506/j.ponte.2016.4.26.   \nAgrawala S,BarlowM,Cullen H,etal.2Oo1.Thedroughtand humanitariancrisis incentralandsouthwestasia:aclimate perspective. IRI Special Report O1-11. Palisades: International Research Institute for Climate Prediction.   \nAlves ACA,SetterT.24.Responseofcassavaleaf area expansiontowaterdeficit:cellproliferation,cell expansioand delayed development. Annals of Botany, 94(4): 605-613.   \nAmidBT,MirhosseiniH,Poorazarang H,etal.2Ol3.Implicationsofpartialconjugatioofwheyproteinisolate tourianseed gum through mailard reactions: foaming properties，water holding capacity and interfacial activity. Molecules，18(12): 15110-15125.   \nBaboevSK,BuranovAK,BozorovTA,etal.2O17.Biologicalandagronomicalassessmentofwheat landracescultivatedin mountain areas of Uzbekistan. Sel'skokhozyaistvennaya Biologiya，52(3): 553-560， doi: 10.15389/agrobiology.2017.3.553eng.   \nBasal H,DagdelenN,UnayA,etal.O9.Efectsofdeficitdripiigationratiosoncotton(GossyiumhrsuumL)yieldand fibre quality. Journal of Agronomy and Crop Science,195(1):19-29.   \nBenavides-MendozaA,Burgos-Limón D,Ramirez H,etal.2012.Benzoicacid effectinthe growthandyieldof tomatoin calcareous soil. In: Prioceedings of the $2 8 ^ { \\mathrm { { t h } } }$ International Horticultural Congress on Science and Horticulture for People (IHC2010): Interational SymposiumonEnvironmental,Edaphic,andGeneticFactors Affecting Plants,Seedsanduras. Lisboa,Portugal: ISHS,938: 251-256.   \nBohnert HJ,Nelson DE,Jensen R G.1995.Adaptations toenvironmental stresss.The Plant Cell,7(7):1099-11.   \nBorsaniO,Valpuesta V,BotellMA.2Oo1.Evidenceforaroleofsalicylicacid intheoxidativedamagegeneratedbyaCland osmotic stress in Arabidopsis seedlings. Plant Physiology,126(3):1024-1030.   \nBoyer JS.1982. Plant productivity and environment. Science,218(4571): 443-448.   \nBozorovTA,UsmanovR M,Nabiev S,et al.2016.Metabolome profiling during waterdeficiency in medium-fibercoton varieties of Gossypium hirsutum L.species.Problems of Modern Science and Education,33(75):10-12.   \nBray E A.1997. Plant responses to water deficit. Trends in Plant Science,2(2): 48-54.   \nBurke JJ.2002.Moisture sensitivityofcottn pollen:anemasculation tool for hybrid production.Agronomy Journal,94(4): 883-888.   \nChen Y,LiuZH,FengL,etal.0l3.Genome-widefunctioalaaysisofottn(Gossiumhirsutum)inesponsetodrought. PLoS ONE,8(11): e80879.   \nDai A G. 2011. Drought under global warming: a review. WIREs Climate Change,2(1): 45-65.   \nDeFatimaFumis T,Pedras JF.2OO2.Proline,diamine and polyamines accumulation inwheatcultivars submited to water deficits. Pesquisa Agropecuaria Brasileira,37(4): 449-453.   \nDhanda S S,Sethi G S.1998.Inheritanceof excised-leaf water lossand relative water content in bread wheat (Triticum aestivum).Euphytica,104(1): 39-47.   \nDuanLX,ChenTL,LiM,etal.20l2.Useof themetabolomicsapproach tocharacterize Chinese medicinal material Huangqi. Molecular Plant,5(2): 376-386.   \nGarnierE,ShipleyB,Roumet C,etal.0l1.AStandardized protocol forthedeterminationof specific leafareaand leaf dry matter content.Functional Ecology,15(5): 688-695.   \nGerik TJ,FaverKL,ThaxtonPM,etal.1996.Lateseason waterstressincotton:I.plant growth,wateruseand yield.Crop Science,36(4): 914-921.   \nGrimes DW,Dickens WL,Anderson WD.1969.Functions forcotton(Gossypium hirsutumL.)production from irigationand nitrogen fertilization variables: II.yield components and qualitycharacteristics.AgronomyJournal,61(5):773-776.   \nGuimaraes ER,Muttn MA,Muton MJR,et al.2Oo8.Fre proline accumulation in sugarcane under waterrestriction and spittlebug infestation. Scientia Agricola, 65(6): 628-633.   \nJaleel CA,ManivannanP,WahidA,etal.2O09.Drought stressin plants:areviewonmorphologicalcharacteristicsand pigments composition.International Journal of Agriculture & Biology,11(1): 100-105.   \nKeinänen M,OldhamNJ,BaldwinIT.2Oo1.Rapid HPLCscreeningof jasmonate-induced increases intobaccoalkaloids, phenolics,andditerpene glycosides in Nicotiana atenuata.JouralofAgriculturalandFoodChemistry49(8):355-3558.   \nKirda C.2OO2.Deficit irigationscheduling basedon plant growth stages showing water stress tolerance.In:Deficit Irigation Practices. Rome: FAO,22: 1-3.   \nKulmatovR.2O14.Problems of sustainable useand management of water and land resources in Uzbekistan.Journal of Water Resource and Protection,6(1): 35-42.   \nLafrayD,LouguetP.1990.Stomatalresponses anddroughtresistance.Buletinde la Societé Botanique de France.Actualites Botaniques,137(1): 47-60.   \nLeidi E O,López JM,López M, et al.1993.Searching for tolerance to water stressincotton genotypes: photosynthesis, stomatal conductance and transpiration.Photosynthetica,28(3): 383-390.   \nLevi A,PatersonAH,Cakmak I, etal.20l1.Metabolite andmineralanalysesofcotonnear-isogenic lines introgesedwith QTLs for productivity and drought-related traits.Physiologia Plantarum,141(3): 265-275.   \nLokaDA,Oosterhuis D M,Pilon C.2O15.Endogenous levels of polyamines under water-deficit stressduringcotton's reproductive development. American Journal of Plant Sciences, 6(2): 344-354.   \nLu X K,Wang XGChen XG,etal.2017.Single-baseresolutionmethylomesofuplandcotton(Gossypum hrsutumL)reveal epigenome modifications in response to drought stres. BMC Genomics,18: 297.   \nMammadova A,Aliyev R,Babayeva S,et al.2Ol5.Adaptive reaction of cotton accessions of $G$ hirsutum L.and $G$ barbadense L. species to drought stress. Genetika, 47(2): 617-626.   \nManiouF,Chorianopoulou SN,Bouranis DL.2O14.Newinsights into trophicaerenchyma formationstrategy inmaize(Zea mays L.) organs during sulfate deprivation. Frontiers in Plant Science,5:581.   \nMcGarry R C,Prewit SF,Culpepper S,et al.2016.Monopodial and sympodial branching architecture incotton is diferentiallyregulated by the Gossypium hirsutum single flower truss and self-pruning orthologs.The New Phytologist, 212(1): 244-258.   \nMcMichael BL,Jordan WR,PowellRD.1973.Abscision processes incotto: inductionbyplant waterdeficit.Agronomy Journal,65(2): 202-204.   \nMcMichael BL,Elmore CD.1977.Proline accumulationin water stressed cottn leaves.Crop Science,17(6): 905-908.   \nMcMichaelBL,HeskethJD.1982.Fieldinvestigationsoftheresponseofcoton to waterdeficits.FieldCropsResearch,5: 319-333.   \nMeyerE,AspinwallMJ,LowryDB,etal.2O14.Integratingtranscriptional,metabolomic,andphysiologicalresposesto drought stress and recovery in switchgrass (Panicum virgatum L.).BMC Genomics,15:527.   \nNepomuceno AL,Oosterhuis DM,Stewart JM.1998.Physiological responses of coton leaves and rots to water deficit induced by polyethylene glycol. Environmental and Experimental Botany,40(1): 29-41.   \nNishizawaA,YabutaY,ShigeokaS.2Oo8.Galactinolandrafinoseonstituteanovelfunctiontoprotect plants fromoxidative damage.Plant Physiology,147(3):1251-1263.   \nObata T,FernieAR.2Ol.Theuseof metabolomics todissct plantresponses toabioticstresss.Celularand MolecularLife Sciences,69(19): 3225-3243.   \nObataT,WitS,LisecJ,etal.2Ol5.Metabolite profilesofmaize leavesindrought,heat,andcombinedstressfieldtrialsreveal the relationship between metabolism and grain yield.Plant Physiology,169(4): 2665-2683.   \nOnderD,Akiscan Y,Onder S,etal.2O09.Effectofdiferent irrgatio water leveloncottonyieldandyieldcomponents. African Journal of Biotechnology,8(8): 1536-1544.   \nOrgazF,Mateos L,Fereres E.1992.Season lengthand cultivar determine theoptimumevapotranspiration deficit incoton. Agronomy Journal, 84(4): 700-706.   \nPace PF,Cralle HT,El-Halawany SHM,etal.199.Drought-inducedchangesinshoot androot growthof youngcoton plants. Journal of Cotton Science,3(4): 183-187.   \nPatil MD,BiradarDP,Patil VCetal.211.Responseofcoton genotypes todrought mitigationpractices.American-Eurasian Journal of Agricultural & Environmental,11(3): 360-364.   \nPeel MF,Finlayson BL,McMahon BT.20O7. Updated world mapof the Kppen-Geigerclimate clasification.Hydrology and Earth System Sciences Discussions,4: 439-473.   \nPetigrew WT.2o4.Moisturedeficitefectsoncottonlintyield,yieldcomponents,ndbolldistribution.AgronomyJoual, 96(2): 377-383.   \nPlaut Z,Ben-HurM,Meiri A.992.Yieldandvegetative growth asrelated toplant waterpotential ofcotton irigated with a moving sprinkler system at different frequencies and wetting depths. Irrigation Science,13(1): 39-44.   \nPucholt P,SjodinP,WeihM,etal.2O15.Genome-wide transcriptionalandphysiologicalresponses todroughtstressinleaves and roots of two willow genotypes.BMC Plant Biology,15: 244.   \nRadin JW,ReavesLL,MauneyJR,etal.1992.Yieldenancement incottonbyfrequentirigations duringfruitig.Agronomy Journal, 84(4): 551-557.   \nSaini HS,Lalonde S.1997.Injuries to reproductive development under water stress,and their consequences for crop productivity. Journal of Crop Production,1(1): 223-248.   \nSampathkumar T,PandianBJ,Rangaswamy MV,etal.2013.Influenceof deficitirigationongrowth,yieldandyield parameters of coton-maize cropping sequence.Agricultural Water Management,13O: 90-102.   \nSawada H,ShimIS,Usui K.2Oo6.Inductionof benzoicacid 2-hydroxylase andsalicylicacid biosynthesis—Modulation by salt stress in rice seedlings.Plant Science,171(2):263-270.   \nSaxena A,Cramer CS.20l3.Metabolomics: a potential toolforbreeding nutraceutical vegetables.Advances in Crop Science and Technology,1:106.   \nSmartRE,Bingham GE.1974.Rapid estimates of relative water content.Plant Physiology,53(2): 258-260.   \nSnider JL,Oosterhuis DM,LokaDA,etal.2Ol1.High temperature limits invivo polentube growthrates byalteringdiunal carbohydrate balance in field-grown Gossypium hirsutum pistils.Journal of Plant Physiology,168(11):1168-1175.   \nSnowden C,Ritchie G,Thompson T0l3.Wateruseeficiencyandirigationresponseofcottoncultivarsonsubsurface dripin west texas. The Journal of Cotton Science,17(1):1-9.   \nSoomro MH,Markhand G S,Soomro BA.2O11.Screening pakistanicoton fordrought tolerance.PakistanJournalof Botany, 44(1): 383-388.   \nTaharaM,Carver BF,Johnson R C,etal.1990.Relationship betweenrelative watercontent duringreproductive development and winterwheat grain yield.Euphytica,49(3):255-262.   \nTaji T,Ohsumi C,Iuchi S,etal.2oO2.Importantrolesof drought-andcold-inducible genes forgalactinol synthase instress tolerance in Arabidopsis thaliana. The Plant Journal,29(4): 417-426.   \nTiwariRS,Picchioni GA,SteinerRL,etal.2O13.Genetic variation insalttoleranceduringseed germinationinabackcross inbred line population and advanced breeding lines derived from Upland cotonxPima cotton.Crop Science,53(5): 1974-1982.   \nTrolinderNL,McMichael BL,Upchurch DR.1993.Waterrelationsofcotton flower petalsand fruit.Plant,Cell & Environment, 16(6): 755-760.   \nUllah A,Sun H,Yang XY,et al.2017.Droughtcoping strategies incotton:increasedcropperdrop.Plant Biotechnology Journal,15(3): 271-284.   \nUllhI,Mehboob-ur-Rahman,AshrafM,etal.2Oo8.Genotypicvariationfordroughttoleranceincottn(Gossypumhrsutum L.): leaf gas exchangeand productivity.Flora-Morphology,Distribution,Functional EcologyofPlants,O3(2):105-15.   \nWitt S,Galicia L，Lisec J,et al.20l2.Metabolicand phenotypicresponsesof grenhouse-grown maize hybrids to experimentally controlled drought stress.Molecular Plant,5(2): 401-417.   \nXu Z Z,Zhou GS.2oo8.Responses of leaf stomatal densitytowater status andits relationshipwith photosynthesis inagrass. Journal of Experimental Botany,59(12): 3317-3325.   \nZhangHY,NiZY,ChenQJ,etal.2Ol6.Proteomicesponsesofdrought-tolerantanddrought-sensitivecottonarietiesto drought stress.Molecular Genetics and Genomics,291(3):1293-1303. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

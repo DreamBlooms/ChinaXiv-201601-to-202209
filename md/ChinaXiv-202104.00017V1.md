@@ -1,0 +1,182 @@
+# 青枯病与黑胫病混发烟株发病茎秆组织微生物群落结构与多样性
+
+汪汉成1\*，向立刚1,2，郑苹1，蔡刘体‘，余知和²（1．贵州省烟草科学研究院，贵阳 550081；2.长江大学 生命科学学院，湖北 荆州 434025）
+
+摘要：为了解青枯病与黑胫病混发烟株茎秆组织的微生物菌群组成，该文采用Ilumina Miseq 高通量测序技术研究了青枯病与黑胫病混发烟株发病茎秆和健康烟株未发病茎秆组织的真、细菌群落结构与多样性。结果表明：（1）发病茎秆组织中真菌群落丰富度与多样性较健康茎秆组织低，细菌群落丰富度与多样性较健康茎秆组织高；（2）健康茎秆组织中的优势真菌属为隐球菌属（Cryptococcus）、链格孢属（Alternaria)和镰刀菌属（Fusarium)，3者相对丰度之和 ${ > } 8 0 \%$ ；（3）发病茎秆组织中的优势真菌为隐球菌属、链格孢属、镰刀菌属和 unclasified_f_Davidiellaceae；（4）norank_c_Cyanobacteria 和劳尔氏菌属（Ralstonia）为发病茎秆组织的优势细菌属。综上所述，青枯病与黑胫病混发能够显著改变烟株茎秆真、细菌群落结构与多样性，破坏其微生物群落的稳定。
+
+关键词：烟草青枯病，烟草黑胫病，微生物多样性，IlluminaMiseq 高通量测序中图分类号：Q945.8 文献标识码：A
+
+# Microbial community structure and diversity of tobacco stem tissue in the mixture occurences of bacterial wilt and black shank
+
+WANG Hancheng1\*, XIANG Ligang1,2, ZHENG Ping1, CAI Liuti1, YU Zhihe² (1.GuizhouAcademyofobaccocience,Guiyang5o81,China;2.CollgeofLifeScence,YangtzeUniversityJingou 434025,Hubei, China)
+
+Abstract: In order to understand the composition of microbial flora in the stem tissue of tobacco plants mixed occurrence of bacterial wilt and black shank disease.Ilumina Miseq high-throughput sequencing technology was used to study the structure and diversity of fungal and bacterial in diseased and healthy tobacco stems.The results were as follows: (1) The richnessand diversityof the fungal community in the diseased stem tissue were lower than that in the healthy stem tissue,and the richness and diversity of the bacterial community in the diseased stem tissue were higher than that inthe healthy stem tissue. (2) Cryptococcus,Alternaria and Fusarium were the dominant fungi in the healthy stem tissue,and the sum of the relative abundances of the three genera weremorethan $80 \%$ of the fungal community. (3) Cryptococcus, Alternaria, Fusarium and unclassified_f_Davidiellaceae were the dominant fungi in the diseased stemtisses.(4) norank_c_Cyanobacteria and Ralstonia were the dominant bacteria in diseased stem tissues.The above results showed that the mixture of bacterial wilt and black shank disease could significantly change the structure and diversity of fungal and bacterial communities, and destroy the stability of microbial community in tobacco stem tissue.
+
+Keywords: bacterial wilt, black shank, microbial diversity, Ilumina Miseq high-throughput sequencing
+
+烟草是我国重要的经济作物，常年植烟面积达100万 $\mathrm { h m } ^ { 2 }$ ，烟草为我国农民增收和国家税收增长做出了巨大的贡献（李石力，2017)。烟草根茎性病害是烟草生产上面临的主要难题，目前已有报道的烟草根茎性病害有烟草青枯病、黑胫病、根黑腐病、立枯病、猝倒病、低头黑病和空茎病等（柳德普和戴永平，2015)。其中以烟草青枯病和黑胫病危害最为突出，其发生面积广，防治难度大，每年因这两种病害造成的经济损失高达数千万元。
+
+烟草青枯病是由茄科劳尔氏菌（Ralstonia solanacearum）引起的典型土传维管束病害（霍沁建等，2007），能够侵染包括烟草在内的 50多个科的450 余种植物（Wicker etal.,2007）。茄科劳尔氏菌共分为5个生理小种，同时又分为5个生化型或生化变种（谭志琼等，2006；Kumaretal.，2014)，我国报道的致病型茄科劳尔氏菌绝大多数为1型生理小种（黄福新等，1998；周泽科等，2013)。烟草黑胫病是由寄生疫霉烟草变种(Phytophthora parasitica var.nicotianae)引起（汪汉成等，2011)，能够对各个生育期的烟株造成为害，且在团棵期和开花现蕾期最为严重（王海波等，2018)。与茄科劳尔氏菌一样，寄生疫霉烟草变种也存在多个生理小种，全世界已发现的寄生疫霉烟草变种共有4个生理小种（战徊旭等，2015；Gallupetal.，2018)，而烟草上常见的为0号、1号生理小种（李斌等，2012；张超群等，2016)。因自然条件下烟草青枯病与烟草黑胫病的发病条件极其相似，所以烟草青枯病与黑胫病常常出现混发的情况（刘烈花，2018；王新等，2018）。
+
+随着高通量测序技术的快速发展与普及，越来越多的人将其应用于烟草微生态领域的研究，但大都侧重于根际土壤微生物（施河丽等，2018；张笑宇等，2019）以及烟株内生菌（林丽等，2017；李盼盼等，2018）的研究，鲜有关于烟株茎秆组织微生态研究的报道。而根际土壤中诸如青枯菌等病原菌和其他微生物均可以通过维管束等转移至烟株茎、叶等部位，造成烟株地上部分尤其是茎秆微生物群落的变化甚至失衡，因此对于发病烟株茎秆微生物群落变化的研究十分必要。为了解烟株感染根茎性病害前后茎秆中微生物群落的变化，本实验室先后对感染青枯病烟株茎秆真菌、细菌群落结构（向立刚等，2019)，感染黑胫病烟株茎秆真菌、细菌群落结构（向立刚等，2019）进行了研究，掌握了烟株感青枯病、黑胫病后茎秆中优势真、细菌群落的组成情况。但尚不清楚青枯病与黑胫病混发对烟株发病茎秆组织中真、细菌群落的影响，为此本文选取青枯病与黑胫病混发烟株茎秆和健康烟株茎秆，运用 Ilumina高通量测序技术研究同时感染青枯病和黑胫病烟株茎秆组织中真、细菌群落结构与多样性变化，以期揭示青枯病与黑胫病混发烟株茎秆组织的微生物菌群组成。
+
+# 1材料与方法
+
+# 1.1样品采集
+
+2018 年8月于贵州省福泉市烟草科学研究院种植‘云烟87’品种的试验田（ $1 0 7 ^ { \circ } 3 0 ^ { \prime } 4 1 ^ { \prime \prime } \mathrm { E }$ ， $2 6 ^ { \circ } 4 4 ^ { \prime } 4 8 ^ { \prime \prime }$ N)，随机选取3株出现明显青枯病与黑胫病混发病症的成熟期烟株，用经高温灭菌的剪刀剪取发病烟株发病茎秆组织 $5 \ \mathrm { c m }$ 长的样品，此即为发病茎秆组（BJ)，样品分别编号为AHBJ、BHBJ和CHBJ；在相同田块，随机选取肉眼观察无明显病症且长势良好的3株健壮烟株，取与发病株等高的烟株茎秆组织样品，样品编号为AHJ、BHJ和CHJ，作为健康茎秆组（J）样品。采集的组织样品立即装入无菌取样袋中，低温保藏带回实验室置于-80℃冰箱保存备用。
+
+# 1.2DNA提取及目标片段PCR扩增
+
+取冻存的茎秆组织样品，先用剪刀将其剪成小段，随后放入研钵中加入适量的液氮充分研磨成粉末状。称取 $5 0 ~ \mathrm { m g }$ 组织粉末样品，采用植物组织DNA 提取试剂盒（Qiagen，69104）提取DNA，具体操作步骤按其操作说明进行。以提取DNA为模板，分别对真菌转录间隔区的ITS1区域，细菌16S rRNA 基因的 V3-V4 区进行扩增。ITS区扩增引物为ITS1F（ $5 ^ { \prime }$ -CTTGGTCATTTAGAGGAAGTAA-3')和 ITS2R（ $5 ^ { \prime }$ -GCTGCGTTCTTCATCGATGC-3）（Whiteetal.，1990），细菌16SrRNA 基因扩增引物为338F0 $5 ^ { \prime }$ -ACTCCTACGGGAGGCAGCAG-3')和 806R（ $5 ^ { \prime }$ -GGACTACHVGGGTWTCTAAT-3'。PCR扩增体系和反应程序参数参照陈乾丽等（2019）的方法进行。最后将满足建库要求的产物纯化后送至上海美吉生物医药科技有限公司进行Miseq 文库构建和Miseq PE300 平台（Illumina 公司）高通量测序。
+
+# 1.3生物信息学分析
+
+使用 Trimmomatic 软件（Bolger et al.,2014）优化原始数据，首先根据序列首尾两端的 barcode 和引物区分样品，并调整序列方向，然后去除 50bp 以下的序列以及含N碱基的序列，去掉引物错配数大于2的序列，最后过滤掉双端 reads 之间的overlap 区长度小于 $1 0 ~ \mathrm { b p }$ 以及错配率大于0.2的序列。优化后的序列用 FLASH软件（Caporaso et al.,2011）进行序列拼接。UPARSE 软件（Edgar,2013）用于对 $9 7 \%$ 相似度序列进行操作分类单元（Operational Taxonomic Units，OTU）聚类。利用RDPclassifier（Wang et al.,2007）比对Unite 数据库（htp://unite.ut.ee/index.php），对每条 ITS 序列进行物种分类注释，比对 Silva（http://www.arb-silva.de）数据库对每条16S序列进行物种分类注释。聚类后的OTU用于物种组成及差异分析、Venn 图绘制、Alpha 多样性分析（Sobs 指数、Ace 指数、Chaol 指数、Shannon 指数、Simpson指数以及Coverage 指数）等。本实验所有生物信息学分析均在上海美吉生物医药科技有限公司I-Sanger生信云网站平台(http://www.i-sanger.com/project/index.html)操作完成。
+
+# 2结果与分析
+
+# 2.1数据质控
+
+本次试验样品真菌测序共获得 234080 条高质量序列，最大序列长度 $3 5 6 \mathrm { b p }$ ，最短序列长度 $2 0 1 \mathrm { b p }$ 平均序列长度 $2 5 7 \mathrm { b p }$ ，其中发病茎秆组获得序列116 717条，健康茎秆组获得117363条；细菌测序共获得 217446条高质量序列，最大序列长度479bp，最小序列长度 $2 5 4 \mathrm { b p }$ ，平均序列长度 $4 3 1 \mathrm { b p }$ ，发病茎秆组获得 108 023条，健康茎秆组获得109 423条。其余单个样品详细质控信息见表1。
+
+表1测序样品数据质控  
+Table1 Data quality control of sequencing samples   
+
+<html><body><table><tr><td>类型 Type</td><td>样品</td><td>序列数</td><td>平均序列长度</td><td>最小序列长度</td><td>最大序列长度</td></tr><tr><td rowspan="6">真菌</td><td>Sample</td><td>Sequence number</td><td>Mean length (bp)</td><td>Minimum length (bp)</td><td>Maximum length (bp)</td></tr><tr><td>AHBJ</td><td>40 455</td><td>299</td><td>203</td><td>343</td></tr><tr><td>BHBJ</td><td>41 852</td><td>253</td><td>203</td><td>340</td></tr><tr><td>CHBJ</td><td>34 410</td><td>245</td><td>215</td><td>339</td></tr><tr><td>AHJ</td><td>43 434</td><td>246</td><td>203</td><td>356</td></tr><tr><td>BHJ</td><td>39 271</td><td>250</td><td>201</td><td>349</td></tr><tr><td></td><td>CHJ</td><td>34 658</td><td>251</td><td>203</td><td>340</td></tr><tr><td>细菌</td><td>AHBJ</td><td>39 997</td><td>429</td><td>338</td><td>451</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="5">Bacteria</td><td>BHBJ</td><td>34 341</td><td>428</td><td>275 452</td></tr><tr><td>CHBJ</td><td>33 685</td><td>442 254</td><td>475</td></tr><tr><td>AHJ</td><td>42 345</td><td>427 281</td><td>451</td></tr><tr><td>BHJ</td><td>30 459</td><td>428 378</td><td>479</td></tr><tr><td>CHJ</td><td>36 619</td><td>433 330</td><td>461</td></tr></table></body></html>
+
+# 2.20TU聚类分析
+
+如表2所示，发病茎秆组真菌菌落种类较健康茎秆组略有降低，其中门、纲、目、科、属、种和OTU数分别减少2、3、5、11、14、17、31个；发病茎秆组的细菌菌落较健康茎秆组增加，门、纲、目、科、属、种和OTU数量分别增加4、6、17、27、61、82和93个。因此烟草青枯病和黑胫病混发降低了烟株茎秆真菌群落的物种多样性，增加了茎秆中细菌群落的多样性。
+
+Table 2 Numbers of different taxonomic groups in the fungal and bacterial communities in stem samples O tobacco plants with bacterial wilt and black shank,and healthy tobacco plants   
+
+<html><body><table><tr><td>类型 Type</td><td>样品 Sample</td><td>门 Phylum</td><td>纲 Class</td><td>目 Order</td><td>科 Family</td><td>属 Genus</td><td>种</td><td>操作分类单元</td></tr><tr><td rowspan="8">真菌 Fungi</td><td>AHBJ</td><td>3</td><td>12</td><td>24</td><td>33</td><td>54</td><td>Species 80</td><td>OTU 123</td></tr><tr><td>BHBJ</td><td>3</td><td>11</td><td>17</td><td>23</td><td>35</td><td>49</td><td>62</td></tr><tr><td>CHBJ</td><td>3</td><td>5</td><td>7</td><td>8</td><td>11</td><td>13</td><td>20</td></tr><tr><td>总数Total(BJ)</td><td>3</td><td>12</td><td>24</td><td>36</td><td>60</td><td>92</td><td>138</td></tr><tr><td>AHJ</td><td>5</td><td>13</td><td>23</td><td>39</td><td>62</td><td>85</td><td>121</td></tr><tr><td>BHJ</td><td>4</td><td>11</td><td>19</td><td>26</td><td>41</td><td>54</td><td></td></tr><tr><td>CHJ</td><td>3</td><td>10</td><td>19</td><td>26</td><td>42</td><td>60</td><td>71</td></tr><tr><td>总数 Total(J)</td><td>5</td><td>15</td><td>29</td><td>47</td><td>74</td><td>109</td><td>86 169</td></tr><tr><td rowspan="8">细菌 Bacteria</td><td>AHBJ</td><td>13</td><td>20</td><td>42</td><td>72</td><td>111</td><td>145</td><td></td></tr><tr><td>BHBJ</td><td>8</td><td>14</td><td>23</td><td>35</td><td>49</td><td></td><td>181</td></tr><tr><td>CHBJ</td><td>8</td><td>13</td><td>23</td><td>33</td><td>44</td><td>70</td><td>97</td></tr><tr><td>总数Total(BJ)</td><td>14</td><td>25</td><td>52</td><td>88</td><td>140</td><td>48 186</td><td>68</td></tr><tr><td>AHJ</td><td>7</td><td>13</td><td>24</td><td>38</td><td>46</td><td>56</td><td>231</td></tr><tr><td>BHJ</td><td>82</td><td>13</td><td>23</td><td>37</td><td>47</td><td>66</td><td>78 93</td></tr><tr><td>CHJ</td><td>9</td><td>14</td><td>19</td><td>25</td><td>28</td><td>35</td><td></td></tr><tr><td>总数 Total(J)</td><td>10</td><td>19</td><td>35</td><td>61</td><td>79</td><td>104</td><td>52 138</td></tr></table></body></html>
+
+# 2.3群落多样性、基本结构及组成分析
+
+各样品的 Alpha 多样性指数如表3所示，Ace、Chaol和 Sobs 指数用于表示群落丰富度，其数值越大表示群落丰富度越高；Shannon 和 Simpson 指数表示群落多样性，Shannon 指数值越大或 Simpson 指数值越小表示群落多样性越高。样品的真菌群落表现为健康茎秆组真菌群落丰富度与多样性均高于发病茎秆组，但不存在显著性差异。健康茎秆组细菌群落丰富度与多样性低于发病茎秆组，不存在显著性差异。本次测序所有样品的Coverage 指数均大于0.99，表明测序结果能够较为真实的反映茎秆中实际的菌群组成情况。
+
+表2发病烟株与健康烟株茎秆样品中真菌和细菌菌落各级别分类群的数量  
+表3不同样品真菌和细菌群落Alpha 多样性指数（属水平）  
+
+<html><body><table><tr><td>类型</td><td>样品</td><td>Ace指数</td><td>Chao1指数</td><td>Sobs指数</td><td>香农指数</td><td>辛普森指数</td><td>覆盖度指数</td></tr><tr><td>Type</td><td>Sample</td><td>Ace index</td><td>Chaol index</td><td>Sobs index</td><td>Shannon index</td><td>Simpson index</td><td>Coverage index</td></tr><tr><td>真菌</td><td>AHBJ</td><td>67.4</td><td>65</td><td>54</td><td>1.38</td><td>0.38</td><td>0.999 7</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="7">Fungi</td><td>BHBJ</td><td>48.6</td><td>68</td><td>35</td><td>1.30</td><td>0.30</td><td>0.999 7</td></tr><tr><td>CHBJ</td><td>11.4</td><td>11</td><td>11</td><td>0.02</td><td>0.99</td><td>0.999 9</td></tr><tr><td>平均</td><td>42.47±28.50a</td><td>48±32.08a</td><td>33.33±21.55a</td><td>0.90±0.76a</td><td>0.56±0.38a</td><td>0.999 8±0.000 1a</td></tr><tr><td>Average AHJ</td><td>122.9</td><td>81</td><td>62</td><td>1.32</td><td>0.36</td><td>0.999 5</td></tr><tr><td>BHJ</td><td>112.0</td><td>61</td><td>41</td><td>1.24</td><td>0.37</td><td>0.999 7</td></tr><tr><td>CHJ</td><td>51.5</td><td>54</td><td>42</td><td>1.51</td><td>0.30</td><td>0.999 7</td></tr><tr><td>平均</td><td>95.47±38.46a</td><td>65.33±14.01a</td><td>48.33±11.85a</td><td>1.36±0.14a</td><td>0.34±0.04a</td><td>0.999 6±0.000 1a</td></tr><tr><td></td><td>Average</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="7">细菌 Bacteria</td><td>AHBJ</td><td>250.3</td><td>222</td><td>111</td><td>0.79</td><td>0.68</td><td>0.998 7</td></tr><tr><td>BHBJ</td><td>115.5</td><td>87</td><td>49</td><td>0.48</td><td>0.82</td><td>0.999 5</td></tr><tr><td>CHBJ</td><td>76.9</td><td>55</td><td>44</td><td>0.76</td><td>0.52</td><td>0.999 6</td></tr><tr><td>平均 Average</td><td>147.57±91.04a</td><td>121.33±88.64a</td><td>68±37.32a</td><td>0.68±0.17a</td><td>0.67±0.15a</td><td>0.999 3±0.000 5a</td></tr><tr><td>AHJ</td><td>64.2</td><td>61</td><td>46</td><td>0.40</td><td>0.80</td><td>0.999 6</td></tr><tr><td>BHJ</td><td>101.2</td><td>77</td><td>47</td><td>0.69</td><td>0.70</td><td>0.999 5</td></tr><tr><td>CHJ</td><td>34.0</td><td>32</td><td>28</td><td>0.75</td><td>0.49</td><td>0.999 8</td></tr><tr><td>Average</td><td>平均</td><td>66.47±33.66a</td><td>56.67±22.81a</td><td>40.33±10.69a</td><td>0.61±0.19a</td><td>0.66±0.16a</td><td>0.999 6±0.000 2a</td></tr></table></body></html>
+
+注：真菌和细菌样品同列不同字母代表差异性显著 $( P { < } 0 . 0 5 )$ 。
+
+Note: Different leters in the same column represent significant differences in fungal and bacterial samples $( P { < } 0 . 0 5 )$
+
+图1为样品中真细菌属的相对丰度条形图，相对丰度低于 $0 . 1 \%$ 的菌属归入Others。因为样本CHBJ与其余两发病烟株样本微生物组成存在明显差异，所以群落分析时不将此样本数据作为参考。由于数据库的限制，相对丰度条形图中还存在部分未鉴定出来的菌属，其以unclasified_和 norank_开头。健康茎秆样品中优势真菌属为隐球菌属（Cryptococcus）、链格孢属（Alternaria）和镰刀菌属（Fusarium），三者的相对丰度之和大于 $80 \%$ ；发病茎秆各样品的优势真菌差异较大，AHBJ中优势真菌为unclasified_k_Fungi、隐球菌属和链格孢属，BHBJ中优势真菌为镰刀菌属、unclassified_f_Davidiellaceae和隐球菌属。norank_c_Cyanobacteria 在所有茎秆样品细菌群落中均为优势菌属，norank_f_Mitochondria在 AHBJ、BHBJ、AHJ 和 BHJ 中相对丰度较高。发病茎秆样品中均存在青枯病病原菌劳尔氏菌属（Ralstonia)，但相对丰度差异较大，AHBJ中相对丰度约为 $2 \%$ ，BHBJ中约为 $0 . 3 \%$ 。健康茎秆AHJ和CHJ也存在劳尔氏菌属相对丰度分别为 $0 . 5 \%$ 和 $4 6 . 8 \%$ 。
+
+隐球菌属Cryptococcas norank_c_Cyanobacterfa 链格胞属Alternari 劳尔氏曲属Ralstonia AHBJ 镰刀茵属Fasariam unclassified_k_Fungi AHBJ norank_f_Mitochondrla 肠杆菌属Enterobacter unclassified_Dvidielaceae 泛茵民Pantoea uclasifedoranko_Plesprales 假单胞菌属Psedmoas Gibellmlopsis Candidatus_Proffell BHBJ unclasified_o_Pleosporales BHBJ Saccharibecillas 红酵母属Rhodotorala 短小杆菌属Cartobacterim 赤霉属Gibberella unclasifed__Enterobacteriaceae 红冬孢醇母属Rhodosporidum unclasifled_k_norank_d_Bacter Peaema B   
+美 点霉民Phome 短状杆菌属Brachybacteriam 小画线克属Momographele 鞘氨醇单胞菌属Sphingomons 一 uaclassfied_f_Dothioraceae Falsirhodobacter AHJ AHJ sp Hamnaella 其他Others tDh BHJ Periconia BHJ 被霉属Mortierella 其他Otbers CHJ CHJ 0 20 40 60 80 100 0 0.2 0.40.6 0.8   
+a 属级群落丰度百分比 b 属级群落丰度百分比 Percent of community abundance on genus level (%) Percentofcommunityabundance ongenuslevel（%）
+
+a.样品真菌属相对丰度；b.样品细菌属相对丰度。
+
+a.Relative abundance of fungi genus in samples; b.Relative abundance of bacteria genus in samples.
+
+Fig. 1 Fungal and bacterial communities relative abundance of different samples at genus level
+
+Venn 图（图2）结果显示发病茎秆组与健康茎秆组样品共有的真菌属有 50个，其中隐球菌属、链格孢属、镰刀菌属、unclasified_k_Fungi 和 unclassified_f_Davidiellaceae 为主要菌属，所占百分比分别为$2 9 . 0 1 \%$ 、 $2 8 . 5 8 \%$ 、 $1 7 . 0 6 \%$ 、 $1 1 . 9 5 \%$ 和 $1 0 . 2 1 \%$ ，其余菌属占比小于 $1 \%$ ；发病茎秆组样品中独有的属有10个，分别为unclassified_f_norank_o_Sporidiobolales 占比 $4 5 . 8 3 \%$ ，Myrmecridium、绿僵菌属（Metarhizium）、unclassified_f_Psathyrellaceae 和枝孢霉属（Cladosporium）占比均为 $8 . 3 3 \%$ ，瓶霉菌属（Phialophora）、unclassified_c_Exobasidiomycetes、unclassified_o_Trechisporales、篮状菌属（Talaromyces）和外瓶霉菌属（Exophiala）占比均为 $4 . 1 7 \%$ ；健康茎秆组样品中独有的属有 24个，物种数占总数百分比大于 $1 \%$ 的属分别为被孢霉属（Mortierella） $4 2 . 9 7 \%$ ，刺盘孢属（Colletotrichum） $1 8 . 7 5 \%$ ，unclassified_c_norank_p_Zygomycota $1 1 . 7 2 \%$ ，unclassified_f_norank $5 . 4 7 \%$ ，帚枝霉属（Sarocladium） $2 . 3 4 \%$ ，unclasified_f_Chaetomiaceae、unclasified_f_norank_o_Trichosphaeriales、unclassified_o_Helotiales、Lophiostoma和Auriculibuller占比均为 $1 . 5 6 \%$ 。
+
+发病茎秆组与健康茎秆组样品共有的细菌属有61个，物种数占比大于 $1 \%$ 的属有norank_c_Cyanobacteria $7 2 . 3 4 \%$ ，劳尔氏菌属 $1 9 . 0 3 \%$ 和 norank_f_Mitochondria $5 . 8 4 \%$ ；发病茎秆组中独有的细菌属有79个，物种数占比大于 $1 \%$ 的属有拟杆菌属（Bacteroides） $3 3 . 0 8 \%$ ，Paenochrobactrum $8 . 4 0 \%$ ，unclassified_f_Alcaligenaceae $6 . 6 2 \%$ ，拟诺卡氏菌属（Nocardiopsis） $7 . 3 8 \%$ ，粪产碱菌属（Alcaligenes） $4 . 0 7 \%$ ，塔特姆菌属（Tatumella) $3 . 5 6 \%$ ， Incertae_Sedis_f_Lachnospiraceae $2 . 8 0 \%$ ，链霉菌属（Streptomyces） $2 . 2 9 \%$ ，假丁酸弧菌属（Pseudobutyrivibrio） $2 . 0 4 \%$ ，萨特氏菌属（Sutterella） $1 . 7 8 \%$ ，假黄色单胞菌属（Pseudoxanthomonas）、甲基杆菌属（Methylobacillus）、类芽孢杆菌属（Paenibacillus）、食酸菌属（Acidovorax)和分枝杆菌属(Mycobacterium）占比均为 $1 . 0 2 \%$ ；健康茎秆组中独有的属为18个,Allobaculum和Lachnoclostridium物种数占比均为 $1 2 . 5 0 \%$ ，Akkermansi和不动杆菌属（Acinetobacter）占比均为 $8 . 3 3 \%$ .瘤胃球菌属 2（Ruminococcus_2）、Rheinheimera、Clostridium_sensu_stricto_1、玫瑰单胞菌属（Roseomonas）、Sulfuritalea、norank_f_FFCH7168、Niabella、土壤芽胞杆菌属（Solibacillus）、Pelomonas、Variibacter、Citricoccus、亚硝化螺菌属（Nitrosospira）、Byssovorax 和拟普雷沃菌属（Alloprevotella）14 个菌属占比均
+
+为 $4 . 1 7 \%$ 。
+
+a．真菌群落Venn图；b.细菌群落Venn图。
+
+a. Venn diagram of fungal community; b.Venn diagram of bacterial community.
+
+![](images/3c04ddf9a27a014cd77d4478d1b69392af4fcdc42d0a9ea5408be9cefb668fac.jpg)  
+图2发病茎秆与健康茎秆样品菌群Venn图  
+图3不同样品中各真菌属的相对丰度热图
+
+Fig.2 Venn diagrams of fungal and bacterial communities at genus level in stem samples of tobacco plants with bacterial wilt and black shank,and healthy tobacco plants
+
+图3为茎秆样品中相对丰度为前30的真、细菌菌群热图，热图上方与左边分别为样品层级聚类树和物种层级聚类树，两聚类树的聚类方式均为Average。真菌菌群中6个样品共聚为两大类，AHBJ、BHBJ、CHJ、AHJ和BHJ聚为一类，CHBJ单独聚为一类，表明CHBJ样品与其余2个发病烟株茎秆样品间样本距离差异较大，健康烟株茎秆样品间样本距离较小；细菌菌群中CHBJ与CHJ两样品聚为一类，其余 4样品聚为一类，因此细菌菌群中健康茎秆组与发病茎秆组组内样本距离均存在较大差异。
+
+Gibellulopsis norank_c_Cyanobacteria 红酵母属Rhodotorula 劳尔氏菌属Ralstonia unclassified_f_norank_o_Pleosporales norank_f_Mitochondria unclassified_o_Pleosporales 肠杆菌属Enterobacter Lectera 泛菌属Pantoea 曲霉属Aspergillus Candidatus_Profftella unclassified_c_Tremellomycetes 短状杆菌属Brachybacterium unclassified_c_Dothideomyeetes Paenochrobactrum Periconia 假单胞菌属Psendomonas Stagonosporopsis 拟杆菌属Bacteroides Ti属Coleteieht unclassified_f_Sclerotiniaceae 1 SCurtobactertm 寡养单胞菌Stenotrophomonas 卸柄霉属Stemphylium 鞘氨醇杆菌属Sphingobacteriam sieorietlae 白属Ccrobact 赤霉属Gibberella 拟诺卡氏菌属Nocardiopsis 红冬孢酵母属Rhodosporidinm Lysinimonas Pseudozyma 鞘氨醇单胞菌属Sphingomonas 揶孢酵母属Sporobolomces Falsirhodobacter unclassified_k_norank_d_Bacteria unclassified_f_Dothioraceae Hannaella unclassified_f_Enterobacteriaceae 茎点霉属Phoma 杆菌属Bacillus 小画线壳属Monographella 基属Metyobcteriam 二 属agnacee 红球菌属Rhodococcus unclassified_k_Fungi 根瘤菌Rhizobium unclassified_f_Davidiellceae unclassified_f_Microbacteriaceae 隐球菌属Cryptococcus 肠杆菌属Enterococcus 链格孢属Alternaria 微杆菌属Microbacteriam C
+
+a.样品真菌属相对丰度；b.样品细菌属相对丰度。
+
+a.Relative abundance of fungi genus in samples; b.Relative abundance of bacteria genus in samples.
+
+Fig.3 Heat maps of the relative abundance of each fungal genus in different samples
+
+# 2.4Beta多样性分析
+
+通过主成分（PCA）分析健康与发病烟株茎秆中真、细菌在属水平组成上的差异。如图4：a所示，导致发病与健康烟株茎秆真菌群落产生差异的主要因素 PC1 和 PC2 分别占全部影响因素的 $6 7 . 3 6 \%$ 和
+
+$2 6 . 6 7 \%$ 。其中健康烟株3个茎秆样品真菌群落组成相似，样本距离较近，发病烟株3个茎秆样品真菌群落组成差异较大，样本距离较远，发病烟株BHBJ茎秆样品与健康烟株茎秆样品样本距离较近，真菌群落组成差异较小；图4：b表明，导致发病与健康烟株茎秆样品细菌群产生差异的主要因素 PC1和PC2分别占全部影响因素的 $5 1 . 6 6 \%$ 和 $1 7 . 4 9 \%$ 。在PC1的作用下健康烟株茎秆样品与发病茎秆CHBJ和BHBJ样品间细菌群落组成差异较小，AHBJ样品与其余5个样品间差异较大。整体而言，烟株感染青枯与黑胫病对茎秆真菌群落结构的影响较大，而对细菌群落结构的影响较小。
+
+a.样品真菌群落主成分分析；b.样品细菌群落主成分分析。
+
+![](images/611a998f4fa7d4e6c89adbed0ece3ca22efd6a6286926d7eda0b62f7b271c913.jpg)  
+图4茎秆样品真、细菌主成分分析（属水平）
+
+a. Principal component analysis of fungal community;b.Principal component analysis of bacterial community
+
+Fig.4 Principal component analysis of fungal and bacterial communities （genus level)
+
+LEfSe 多级物种差异分析可用于寻找不同分组中具有统计学差异的生物标记菌群。图5：A结果表明，当LDA 阈值为 4时，健康烟株茎秆样品中担子菌门 Basidiomycota、Tremellomycetes 纲、Tremellales 目、norank_o_Tremelales 科、Buleromyces 属和隐球菌属与发病茎秆样品存在显著性差异。图5：B所示，发病茎秆与健康茎秆中细菌群落不存在具有统计学差异的生物标记菌群。
+
+A．样品真菌群落物种差异分析；B.样品细菌群落物种差异分析。 A.LEfSe species diference analysis of fungal community; B.LEfSe species diference analysis of bacterial community
+
+![](images/e4cea8b770fab34be320ff6e471afc56a2516c1da2e7f69998eff155d2a897ba.jpg)  
+图5LEfSe物种差异分析  
+Fig.5LEfSe species difference analysis
+
+3讨论
+
+微生物群落的Alpha多样性指数用于反映微生物群落结构的复杂程度。一般而言，微生物群落结构越复杂，微生态环境越稳定，群落的多样性指数也就越高（贺纪正等，2013)。本研究中，发病茎秆样品较健康茎秆真菌群落种类降低，细菌群落种类增加；发病茎秆组样品真菌群落丰富度与多样性低于健康茎秆样品，细菌群落丰富度与多样性高于健康茎秆样品。说明健康烟株茎秆中真菌群落结构优于青枯病和黑胫病混发烟株茎秆，发病烟株茎秆细菌群落结构优于健康烟株茎秆。
+
+健康烟株茎秆中隐球菌属、链格孢属和镰刀菌属为绝对优势菌属，而在发病烟株茎秆中不同样品中真菌组成存在较大差异；除以上3中菌属外，unclasified_f_Davidiellaceae 也为部分发病烟株茎秆中的优势菌属。隐球菌属多为人类疾病病原菌，关于隐球菌导致的植物病害鲜有报道。链格孢属在不同生境中广泛存在，多数链格孢能够引起多种植物病害（黄伟等，2016；刘迪等，2018），而某些链格孢由于具备高产纤维素酶的能力而具备开发成生防制剂的潜力。镰刀菌属由于种的差异，部分镰刀菌可产生激素，促进植株的生长发育，有的可降解纤维素和有机物，而另一部分则可侵染多种植株致使植株萎蔫和根部腐烂（张向民，2005）。细菌群落中 norank_c_Cyanobacteria 为绝对优势菌，但目前没有关于蓝细菌作为植物内生真菌的报道，其主要分布于淡水、海水和土壤中（李佳霖等，2015)。此次试验在烟株茎秆中检测出了蓝细菌，可能是烟株叶绿体 DNA 造成的污染，而 norank_f_Mitochondria 则可能是烟株细胞线粒体DNA 造成的污染。此推断有待在今后的研究中进一步验证。所有茎秆中均检测到了劳尔氏菌属，但为何健康烟株未表现出明显的发病迹象，可能与劳尔氏菌属中存在不同的生理小种有关，不同的生理小种致病力不同，有的生理小种致病力强，而有的却无致病力（邹阳等，2013)。有研究报道无致病力的茄科劳尔氏菌可诱导植株产生免疫能力，从而达到抵抗青枯病的效果（陈庆河，2001)。而作为黑胫病病原菌的寄生疫霉烟草变种因为其已划分为卵菌，不在归属于真菌，所以Unite数据库中没有相应的序列信息，因此本次测序结果中未见 Phytophthora 属菌群。在本实验室前期研究结果中感青枯病烟株茎秆组织中主要细菌属为劳尔氏菌属、假单胞菌属(Pseudomonas)、芽孢杆菌属(Gemmatimonas)和肠杆菌属(Enterobacter),主要真菌包括小画线壳属(Monographella)、隐球菌属、镰刀菌属和 Coprinopsis；感黑胫病烟株茎秆组织中主要细菌属为 norank_c_Cyanobacteria，主要真菌属为隐球菌属、链格孢属、镰刀菌属和红酵母属（向立刚等，2019)。相较于青枯病和黑胫病单独发病的茎秆组织，混合的发病茎秆组织中小画线壳属、Coprinopsis 和红酵母属真菌，假单胞菌属和芽孢杆菌属细菌降为非优势菌属。因此青枯、黑胫病混发对于烟株茎秆微生物群落的影响有别于两种病害单独发生造成影响的叠加。
+
+发病烟株茎秆较健康烟株茎秆中独有的真菌属有10个，除去未鉴定到属的真菌，还有Myrmecridium、绿僵菌属、枝孢霉属、瓶霉菌属、篮状菌属和外瓶霉菌属。绿僵菌属是广谱的昆虫病原真菌（陈名君等，2018)，对植物是否存在致病作用目前尚无报道。枝孢霉属为常见的腐生真菌，部分枝孢霉属真菌为植物上的病原菌，侵染植株叶片、枝条和果实（吕靖雯等，2018)。从病株茎秆中检测到该菌属，可能是茎秆感病腐烂后环境中的枝孢霉菌定殖的结果，进而加重烟株茎秆的腐烂程度。瓶霉菌属等真菌在发病烟株茎秆中可能的作用尚不明确。发病茎秆中独有的细菌属为79个，其中拟杆菌属和粪产碱菌属主要为人类临床上常见病菌，能够寄居于人体呼吸道和肠道等部位，对烟草无致病报道。拟诺卡氏菌属是一个经典的丝状放线菌类群，能够合成酶抑制剂和抗生素等多种活性物质（李文均等，2016)，对植物无致病潜力。链霉菌属多数为腐生好气性异养菌，大部分链霉菌为非致病的污染菌或定植菌。假丁酸弧菌属、假黄色单胞菌属和类芽孢杆菌属等发病茎秆中独有的菌属均没有使植物致病的报道。
+
+青枯病与黑胫病混发能够明显导致烟株茎秆真、细菌群落结构与多样性的改变，破坏了烟株茎秆中微生物群落的稳定。发病后烟株茎秆中真菌群落丰富度与多样性降低，细菌群落丰富度与多样性增加，部分腐生真、细菌也广泛定殖于烟株茎秆上。研究结果增加了我们对青枯病与黑胫病混发烟株茎杆组织微生态的认识，但烟草青枯病菌先侵染、黑胫病菌后侵染，烟草黑胫病先侵染、青枯病菌后侵染，以及2种病原菌同时复合侵染引起的烟株病害微生态规律的研究仍有待下一步继续探索。
+
+参考文献：   
+BOLGER AM,LOHSE M, USADEL B,2014. Trimmomatic: a flexible trimmer for Ilumina sequence data [J]. Bioinformatics, 30(15): 2114-2120.   
+CAPORASO JG, LAUBER CL, WALTERS WA, et al.,2011. Global paterns of 16S rRNA diversity at a depth of millions of sequences per sample [J]. Proc Natl Acad Sci, 108 (Suppl. 1): 4516- 4522.   
+CHEN MJ,ZHANG X, HOU NS,et al.,2018. Species diversity of Metarhizium in Dabie Mountains in Anhui [J]. Chin JBiolCont,34(2):274-279.[陈名君，章西，侯因嵩，等,2018．安徽大别山区绿僵菌属物种多样性 [J]．中国生物防治学报,34(2):274-279.]   
+CHEN QL,LI Z, WANG HC,et al.,2019.Fungal composition and diversityof tobacco phyllosphere from cured tobacco leaves [J].Acta Microbiol Sin,59(12): 2401-2409.[陈乾丽，李忠，汪汉成，等,2019．烤后不同 霉变程度烟叶际真菌群落组成与多样性分析 [J]．微生物学报,59(12):2401-2409.]   
+CHEN QH. 2001. Induced resistance of tomato to Ralstonia solanacearum by avirulent strains [D]. Fuzhou: Fujian Agriculture and Forestry University.[陈庆河,2001．青枯无致病力菌株诱导番茄抗青枯病的研究 [D]．福州：福建农林大学.]   
+EDGAR RC,2013. UPARSE: Highly accurate OTU sequences from microbial amplicon reads [J]. Nat Methods, 10(10): 996-998.   
+GALLUP CA,MCCORKLE KL, IVORS KL,et al.， 2018.Characterization of the black shank pathogen, Phytophthora nicotianae,across North Carolina tobacco production areas [J]. Plant Dis,102(6): 1108-1114.   
+HE JZ,LI J, ZHENG YM. 2013.Thoughts on the microbial diversity-stability relationship in soil ecosystems [J]. Biodivers Sci,21(4):411-420.[贺纪正，李晶，郑袁明,2013．土壤生态系统微生物多样性-稳定性关系 的思考[J].生物多样性,21(4):411-420.]   
+HUANG FX, CHEN YH, HUA JY, et al.,1998. Studies on the strains and the other physiological properties of pseudomonas solanacearum of the tobacco in Guangxi [J]. JPlant Protect, 25(3): 240-244.[黄福新，陈永 惠，华静月，等，1998．广西烟草青枯菌菌系及其主要生理特性研究[J]．植物保护学报，25(3): 240-244.]   
+HUANG W,FENG ZS,BAIYJ, et al.,2016. Advances on methods to control fungal diseases of Alternaria spin postharvest[J].Food& Mach,32(3):247-252.[黄伟，冯作山，白羽嘉，等,2016.采后果实链格孢属真 菌病害防治方法研究进展 [J].食品与机械,32(3):247-252.]   
+HUO QJ, ZHANG S,WANG RY,2O07. Advance and control of tobacco bacterial wilt disease [J]. Chin Agric Sci Bull，23(8):364-368.[霍沁建，张深，王若焱，2007．烟草青枯病研究进展 [J]．中国农学通报, 23(8): 364-368.]   
+KUMAR A,PRAMEELA TP, SUSEELABHAI R,et al., 2014. Host specificity and genetic diversity of race 4 strains of Ralstonia solanacearum [J]. Plant Pathol, 63(5): 1138-1148.   
+LI B, YANG YF, GONG GS, 2012. Isolating and identifying physiological races of Phytophthora nicotianae in Sichuan [J].Tobacco Sci & Technol, (10):81-84.[李斌，杨益芬，龚国淑,2012．四川省烟草黑胫病菌生 理小种的分离鉴定 [J]．烟草科技,(10):81-84.]   
+LI JL,QIN S. 2O15. Advances in molecular ecology of marine Picocyanobacteria [J]. Adv Earth Sci, 30(4): 477-486.[李佳霖，秦松．2015．海洋微微型蓝细菌分子生态学研究进展 [J].地球科学进展，30(4): 477-486.]   
+LI PP,YUAN XL,LI JH, et al.,2018.Biodiversityand community structure of endophytic fungi isolated from Nicotiana tabacum L[J].Acta Microbiol Sin,58(10):1853-1863.[李盼盼，袁晓龙，李金海，等,2018．湖 北烟草内生真菌生物多样性和种群结构分析 [J]．微生物学报,58(10):1853-1863.]   
+LI SL.2017.The mechanism research of tobacco bacterial wilt influenced by organic acid from root exudates [D].Chongqing:Southwest University.[李石力，2017．有机酸类根系分泌物影响烟草青枯病发生的机 制研究 [D]．重庆：西南大学.]   
+LI WJ,ZHANG YG. 2016. Advances in studies on the genus Nocardiopsis [J]. Microbiol Chin, 43(5): 1123-1135. [李文均，张永光,2016．拟诺卡氏菌属放线菌研究进展 [J]．微生物学通报,43(5):1123-1135.]   
+LIN L,CHEN ZB,HE QX,et al.,2017.Diversity of endophytic bacteria in different parts of tobacco [J]. Jiangsu Agric Sci,45(22):274-278.[林丽，陈泽斌，何群香，等，2017．烟草不同部位内生细菌的多样性 [J]. 江苏农业科学,45(22): 274-278.]   
+LIU LH.2018.Control effect of four biocontrol bacteria on tobacco black shank disease [J]. Plant Doctor, 31(4): 42-44.[刘烈花,2018.4种生防菌对烟草黑腔病的防治作用 [J]．植物医生,31(4):42-44.]   
+LIU D,YUD,WU JK,et al.,2O18.Recent advance in research on medicinal plant diseases caused by Alternaria [J].Res Pract Chin Med,32(1):80-83.[刘迪，于丹，吴军凯，等,2018．药用植物链格孢属真菌病害及 其防治的研究进展 [J]．现代中药研究与实践,32(1):80-83.]   
+LIU DP,DAI YP,2015.Experiment on the control of tobacco root and stem diseases with diferent application time [J].FuJian Agric,(4):136-139.[柳德普，戴永平.2015．不同施药时间对烟草根茎性病害防治试验 [J]．福建农业,(4): 136-139.]   
+LU JW,LIU R,LI GH, et al.,2018. Identification of pathogens causing fruit spot disease on Citrus grandis [J]. J Zhejiang Univ (Agric Life Sci),44(6): 687-694.[吕靖雯，刘蕊，李国华，等,2018．柚果面枝孢菌斑点病 病原鉴定 [J]．浙江大学学报(农业与生命科学版),44(6):687-694.]   
+SHI HL,XIANG BK,TAN J, et al.,2O18. Analysis ofbacterial community in rhizosphere soil of tobacco plant infected by bacterial wilt disease[J].Acta Tab Sin,24(5):57-65.[施河丽，向必坤，谭军，等,2018．烟草 青枯病发病烟株根际土壤细菌群落分析 [J]．中国烟草学报,24(5):57-65.]   
+TAN ZQ, ZHANGRY,LI GZ,et al.,2O06. Symptoms of bacterial wilt and identification of the causal organism on Anthurium andraeanum [J]. Acta Phytopathol Sin,36(5): 392-396.[谭志琼，张荣意，李桂珍，等,2006. 红掌青枯病的症状和病原菌鉴定[J]．植物病理学报,36(5):392-396.]   
+WANG HB,SHI J,LUO Z N,et al.,2018. Resistant identification of tobacco grafted seedlings to black shank [J]. Plant Protect,44(3):168-171.[王海波，时焦，雒振宁，等,2018．烟草嫁接苗对黑胫病的抗性鉴定[J]. 植物保护,44(3):168-171.]   
+WANG HC,LI WH,FENG YG,et al.，2011. History and current status of chemical control of tobacco black shank [J].Acta Tabacaria Sin,17(5):96-102.[汪汉成，李文红，冯勇刚，等,2011．烟草黑胫病化学防治 的历史与现状 [J]．中国烟草学报,17(5):96-102.]   
+WANG Q, GARRITY GM, TIEDJE JM, et al., 2O07. Naive Bayesian clasifier for rapid assignment of rRNA sequences into the new bacterial taxonomy [J]. Appl Environ Microb,73(16): 5261-5267.   
+WANG X,WU XR,WANG WF,et al., 2018. Indoor inoculation identification of tobacco mutants resistant to bacterial wilt [J].Mol Plant Breed,16(19): 6468-6475.[王新，吴新儒，王卫锋，等,2018．烟草抗青枯病 突变体的室内接种鉴定[J].分子植物育种,16（19):6468-6475.]   
+WHITE TJ, BRUNS T,LEE S,et al.,1990. Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics [J]. PCR protocols: a guide to methods and applications,18(1): 315-322.   
+WICKER E, GRASSART L, CORANSON-BEAUDU R, et al.， 20O7. Ralstonia solanacearum strains from Martinique (French west indies) exhibiting a new pathogenic potential [J]. Appl Environ Microb,73(21): 6790-6801.   
+XIANG LG, ZHOU H, WANG HC,et al.,2019. Bacterial community structure and diversity of rhizosphere soil and stem of healthy and bacterial wilt tobacco plants [J].Acta Microbiol Sin,59(1O): 1984-1999.[向立刚, 周浩，汪汉成，等，2019．健康与感染青枯病烟株根际土壤与茎秆细菌群落结构与多样性[J].微生物 学报,59(10): 1984-1999.]   
+XIANG LG, WANG HC,GUO ZN,et al.， 2019. The influence of black shank disease infection on fungal community structure of rhizosphere soil and stem of tobacco plants [J]. Mycosystema,38(12): 2099-2111. [向立刚，汪汉成，郭珍妮，等，2019．黑胫病感染对烟草茎秆及根际土壤真菌群落结构的影响 [J]．菌 物学报,38(12): 2099-2111.]   
+ZHAN HX, WEN NN,LUO DQ, et al.， 2015. Races of Phytophthora nicotianae and their sensitivity to metalaxyl and dimethomorph in Luzhou,Sichuan [J].Plant Protect,41(6):178-184.[战徊旭，温娜娜，罗定 棋，等，2015．泸州烟草黑胫病病原生理小种组成及对甲霜灵和烯酰吗啉的敏感性[J]．植物保护, 41(6): 178-184.]   
+ZHANG CQ, ZHOU ZK, CHEN QH,et al.,2016. Preliminary report of research on Phytophthora parasitica physiological races in tobacco growing areas in Jiangxi province [J]. Acta Tab Sin,22(4):107-110.[张超群, 周泽科，陈荣华，等，2016.江西烟区烟草黑胫病菌生理小种研究初报 [J]．中国烟草学报, 22(04):107-110.]   
+ZHANG XM. 20O5. History and current research on taxonomy of the genus Fusarium [J].JFung Res,3(2): 59-62.[张向民,2005．镰刀菌属分类学研究历史与现状 [J]．菌物研究,3(2):59-62.]   
+ZHANG XY,DUANHQ,LU AQ,etal.,2O18. Variation of rhizosphere soil microbial flora in healthy and black shank-susceptible tobacco fields at different growth stages [J]. JHenan Agric Sci, 47(3): 63-69.[张笑宇, 段宏群，芦阿虔，等，2018．健康烟田与易感黑胫病烟田烟株不同生长时期根际土壤微生物区系变化 规律 [J].河南农业科学,47(3): 63-69.]   
+ZHOU ZK, ZHANG CQ, JIANG JX, et al., 2013. Identification of race and biovar of Ralstonia solanacearum from tobacco in Jiangxi Province [J].Acta Agric Univ Jiangxi,35(4): 738-742.[周泽科，张超群，蒋军喜, 等,2013．江西省烟草青枯菌生理小种及生化型鉴定 [J].江西农业大学学报,35(4):738-742.]   
+ZOU Y, XIAO CG, HU XD, et al.， 2013. Research progress on physiological specialization and pathotype identification of Ralstonia solanacearum [J]. Chin Plant Protect,36(7): 21-28.[邹阳，肖崇刚，马冠华，等, 2013．青枯菌生理分化及致病型测定研究进展[J]．中国植保导刊,36(7):21-28.]

@@ -1,0 +1,499 @@
+[
+    {
+        "type": "text",
+        "text": "Simultaneous DSC/TG analysis on the thermal behavior of PAN polymers prepared by aqueous free-radical polymerization ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qin Ouyang\\*， Xiaohong Wang, Xulan Wang, Jing Huang, Xianwen Huang, Yousi Chen ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nationliebrbbeeatiolobitefteao&gd Sciences,Ningbo 315201,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nPolyacrylonitrile   \nThermal behavior   \nThermal stabilization   \nAqueous free-radical polymerization   \nCarbon fiber ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A series of polyacrylonitrile (PAN)polymers with different content of itaconic acid (IA)as comonomer were prepared by an eficient aqueous free-radical polymerization technique.The thermal behavior of the PAN polymers Was investigated by simultaneous DSC/TG analysis.Effects of IA content, heating rate and atmosphere on the heat release and weight loss behaviors of the PAN polymers were studied for insight of the nature of the thermo-chemical reactions.A specific triple exothermic peak was observed in the DSC curves of P(AN-IA) copolymers in air atmosphere.Three individual exothermic peaks were obtained by peak fiting and assigned to the respective thermo-chemical reactions,namely,ionic cyclization reaction,free-radical cyclization reaction and oxidation reaction.The ionic cyclization reaction was significantly influenced by the IA content.The free-radical cyclization reaction was sensitive to heating rate and atmosphere.The cyclization reaction preceded the oxidation reaction and acted as a prerequisite for the oxidation reaction.The improvement of the thermal stability of PAN was mainly attributed to the oxidation reaction through dehydrogenation and formation of oxygen-bearing groups. Mechanisms of the thermo-chemical reactions were also proposed and discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polyacrylonitrile (PAN) is the most important precursor polymer for preparation of high-performance carbon fibers [1].Currently, almost $9 0 \\%$ of commercial carbon fibers are produced from PAN [2]. Producing PAN-based carbon fibers involves the following steps: polymerization,spinning,thermal stabilization,and carbonization [3].Among them,polymerization,as the first step,is of crucial importance,because the subsequent steps such as spinningand thermal stabilization,as well as the mechanical properties and production cost of final carbon fibers strongly depend on the PAN polymers [4]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Solution free-radical polymerization and aqueous free-radical polymerization are the two most commonly used techniques for production ofPAN polymers [3].The former ispreferablyadopted forpreparation of high-performance carbon fibers due to a better controlling of the quality of precursor fibers.However,a long reaction time of about $2 0 \\mathrm { h }$ is involved in this technique to achieve a higher level of reaction conversion.Thus,the productivity is not satisfied for large volume production and cost control.In contrast, theaqueous free-radical polymerization isa highly efficient technique for production of PAN polymers.This technique is most commonly used for production of textile-grade acrylic fibers [3], becausea very short reaction time of onlyabout $^ { 1 \\mathrm { ~ h ~ } }$ is needed to obtaina higher level of reaction conversion.Thus,this technique is preferably suitable for the large scale production of low cost carbon fibers [1]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Besides polymerization,the thermal stabilization is another crucial step for preparation of PAN-based carbon fibers [2.5].It is generally carried out between $2 0 0 ^ { \\circ } { \\mathsf C }$ and $3 0 0 ^ { \\circ } { \\mathsf C }$ in an oxidizing atmosphere.During this process,PAN polymers undergo complicated thermo-chemical reactions and convert into infusible structure,so as to prevent the precursor fibers from fusing at elevated temperatures [6]. Optimization of the thermal stabilization process is necessary not only for improving the performance of the final carbon fibers,but also for reducing the production cost,because it isa extremely time-consuming and energy-consuming step[6].The thermal stabilization process is highly dependent on the thermal behavior of PAN polymers [5].The thermal stabilization conditions, including temperature,time and tension,must be optimized according to the thermal behavior of PAN polymers.The thermal behavior of PAN polymers have been investigated intensively in the last few decades [7-15].However,because the thermal behavior depends closely on the nature and content of comonomers as well as the polymerization techniques of PAN polymers [5,14,16-20], there is still a lack of clarity about the thermo-chemical reactions hidden in the rear. At least three main issues remain to be studied. The first issue is what types of reactions really occur during the thermal stabilization.Generally,oxidation,dehydrogenation and cyclization are considered as the three major stabilization reactions [16,17,21,22].But in fact,dehydrogenation is just a result of the oxidation reaction,since hydrogen is eliminated in the form of $\\mathrm { H } _ { 2 } \\mathrm { O }$ by reacting with oxygen [21].Inaddition,cyclization can be further divided into ionic and free-radical two types,and both of them occur during stabilization.However,they are often confused or omitted.The second one is that the thermo-chemical reactions are carried out in what order and temperature range.A command of this knowledge is essential for optimizing the stabilization process [23].The third one is what is the effect of each thermo-chemical reaction on the thermal stabilization process.The different types ofreactions may generate different effects,such as varying degrees ofheat release and weight loss,and formation of thermal stable structures or volatile fragments.In order to study these questions,it isnecessary to separate the thermo-chemical reactions from each other.However, this is a difficult task because they are overlapped. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we prepared a series of PAN polymers with different content of itaconic acid (IA) as comonomer by an efficient aqueous free-radical polymerization technique.The thermal behavior of the PAN polymers was investigated by simultaneous differential scanning calorimetry and thermogravimetry (DSC/TG) analysis.Effects of IA content,heating rate and atmosphere on the heatrelease and weight loss behaviors of the PAN polymerswere studied.A triple exothermic peak was observed in the DSC curves of P(AN-IA） copolymers. Individual peaks were obtained by peak fitting and well assigned to the respective thermo-chemical reactions.By means of the simultaneous DSC/TG analysis technique,a deep investigation was made for insight of the nature of the thermo-chemical reactions,including defining the types of the thermo-chemical reactions,profiling their occurrence orders and corresponding temperature ranges,and clarifying their effects on the thermal stabilization process. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Acrylonitrile (AN),purchased from Zhejiang Taizhou Zhonghai Pharmaceutical & Chemical Co., Ltd (China),was purified before use by vacuum distillation to remove the inhibitor. Itaconic acid (IA), with concentration of $9 9 \\%$ ，purchased from Aldrich Chemical Co., Inc.(USA),was used without further purification.Ammonium persulfate $( ( \\mathsf { N H } _ { 4 } ) _ { 2 } \\mathsf { S } _ { 2 } \\mathsf { O } _ { 8 } )$ and ammonium sulfite $( ( \\mathrm { N H } _ { 4 } ) _ { 2 } \\mathrm { S O } _ { 3 } ) ,$ were purchased from Sinopharm Chemical Reagent Co.,Ltd(China) and used as-received. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Polymerization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PAN polymers were prepared byan aqueous free-radical polymerization technique carried out in deionized water at $6 0 ^ { \\circ } \\mathsf C$ under nitrogen atmosphere for $6 0 ~ \\mathrm { { m i n } }$ ： $( \\mathsf { N H } _ { 4 } ) _ { 2 } \\mathsf { S } _ { 2 } \\mathsf { O } _ { 8 }$ and $( \\mathsf { N H } _ { 4 } ) _ { 2 } \\mathsf { S O } _ { 3 }$ were used as initiators.IA was used as comonomer.A series of PAN polymers with different content of IA were obtained after reaction followed by filtration,washing and drying at $6 0 ^ { \\circ } \\mathsf C$ under vacuum for $2 4 \\mathrm { { h } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3. Viscometry ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The intrinsic viscosity $( [ \\boldsymbol { \\mathsf { \\eta } } ] )$ of the PAN polymers was measured at $3 0 ~ ^ { \\circ } \\mathsf { C }$ in dimethylformamide （DMF） containing $0 . 1 \\mathrm { ~ g ~ d L } ^ { - 1 }$ of lithium bromide (LiBr).The viscosity average molecular weight $( \\mathbf { M } _ { \\mathfrak { n } } )$ of the PAN polymers was calculated from[n] according to the following equation [24]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\boldsymbol { \\eta } ] = 3 . 3 5 \\times 1 0 ^ { - 4 } \\big [ \\mathrm { M } _ { \\boldsymbol { \\eta } } \\big ] ^ { 0 . 7 5 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.GPC ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The molecular weight and its distribution of the PAN polymers were determined by gel permeation chromatography (GPC) (TOSOHHLC-832oGPC)witharefractive indexdetector.The samples were dissolved in $0 . 0 1 \\mathrm { ~ m o l ~ L ^ { - 1 } }$ LiBr/DMF solution at $8 0 ^ { \\circ } C$ for $^ { 2 \\mathrm { h } }$ at a concentration of $1 \\mathrm { m g } \\mathrm { m L } ^ { - 1 }$ and filtered using $0 . 4 5 \\mu \\mathrm { m }$ PTFE syringe filter prior to analysis.The instrument was calibrated witha set of polystyrene（PS）standards which were purchased from TOSOHCORPORATION.ThePS standardsweredissolvedat $8 0 ^ { \\circ } \\mathsf { C }$ for $^ { 2 \\mathrm { ~ h ~ } }$ using $1 . 5 ~ \\mathrm { m l }$ of $0 . 0 1 ~ \\mathrm { m o l } ~ \\mathrm { L } ^ { - 1 }$ LiBr/DMF solution. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.FTIR ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FTIR spectra of the PAN polymers were recorded on a Thermo Nicolet Nexus 47O FTIR spectrometer using a thin film technique in $4 0 0 0 { - } 4 0 0 ~ \\mathrm { c m } ^ { - 1 }$ range.32 scans were acquired at a resolution of $4 ~ { \\mathrm { c m } } ^ { - 1 }$ .Thin films of PAN polymers were prepared by using a solution casting method as reported in the literature [25]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6. DSC/TG ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DSC/TG analysis of the PAN polymers was carried out using a NETZSCH STA 449 thermal analyzer underairand nitrogen atmosphere at different heating rates of 5,10,15,and $2 0 \\ { ^ \\circ } { \\mathsf { C } } \\ { \\mathsf { m i n } } ^ { - 1 }$ from room temperature to $5 0 0 ^ { \\circ } { \\mathsf { C } } .$ TheDSC parameters of the exotherms, including initiation temperature $\\mathrm { ( T _ { i } ) }$ ，peak temperature $( \\mathrm { T _ { p k } } )$ and heat evolved (△H) were obtained by the instrument software. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Characterization of the PAN polymers by viscometry and GPC ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The molecular weight and its distribution of the PAN polymers were determined by viscometry and GPC.The results are listed in Table 1.All the PAN polymers prepared by aqueous free-radical polymerization havea high molecular weight.The weightaverage molecularweight(Mw)isabove one million for most of the PAN polymers.It is attributed to the low chain transfer constant of water,which is better for the chain propagation reaction during polymerization [1].However,with the increase of IA content in feed,both the number average molecular weight (Mn） and Mw showa gradual decrease trend.The chain propagation reaction seems to be adverselyaffected by the IA comonomer,which may be due to the inhibition effect caused by its two bulky carboxylic groups.Anappropriate reduction of the molecular weight is helpful to improve the solubility of the PAN polymers,which is necessary for obtaining high-quality precursor fibers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.Characterizationof thePAN polymers by FTIR ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows the FTIR spectra of the PAN polymers.The absorption at $2 2 4 3 ~ \\mathrm { c m } ^ { - 1 }$ is assigned to $\\mathsf { C } \\equiv \\mathsf { N }$ stretching vibration in ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/12d44858e7838d395a120b56bc01e98844bee4d7639a6bb0893cb4198a4e9c7a.jpg",
+        "table_caption": [
+            "Table 1 Molecular weight of PAN polymers. "
+        ],
+        "table_footnote": [
+            "d The PAN homopolymer was not characterized by GPC due to the poor solubility. "
+        ],
+        "table_body": "<html><body><table><tr><td>Code of samples</td><td>IA content in feed (wt%)</td><td>[m] (dL g)-1</td><td>Mn (×104)</td><td>Mn (×104)</td><td>Mw(×104)</td><td>Mw/Mn</td></tr><tr><td>PAN-homoa</td><td>0</td><td>8.42</td><td>129.3</td><td>！</td><td></td><td></td></tr><tr><td>P(AN-IA)-2</td><td>2</td><td>5.24</td><td>66.9</td><td>28.8</td><td>146.7</td><td>5.10</td></tr><tr><td>P(AN-IA)-3</td><td>3</td><td>5.19</td><td>66.0</td><td>24.0</td><td>105.0</td><td>4.37</td></tr><tr><td>P(AN-IA)-4</td><td>4</td><td>4.76</td><td>58.5</td><td>23.7</td><td>101.8</td><td>4.30</td></tr><tr><td>P(AN-IA)-5</td><td>5</td><td>4.60</td><td>55.9</td><td>21.2</td><td>97.8</td><td>4.61</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/abb3cf3d508e89c77def8f76ad681bf8aef30b3a038341375114ece68666ef0f.jpg",
+        "img_caption": [
+            "Fig.1.FTIR spectra of PAN polymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AN unit, the peak at about $1 7 1 5 \\mathrm { c m } ^ { - 1 }$ is due to the $\\scriptstyle { \\mathsf { C } } = 0$ stretching vibration of -COOH in IA unit. The absorption bands of the stretchingvibrationand bendingvibration of $\\mathrm { C H } _ { 2 }$ are observed at 2939 and $1 4 5 5 ~ \\mathrm { c m } ^ { - 1 } .$ ，respectively. The assignments of other absorption bands can be found in Refs.[8.9,25].With the increase of IA content in feed, the $1 7 1 5 \\mathrm { c m } ^ { - 1 }$ band continues to increase.In the meantime, the $2 2 4 3 ~ \\mathrm { c m } ^ { - 1 }$ band gradually decreases in intensity. According to the Lambert-Beer's law, $A = \\varepsilon b c$ ，whereAis the absorbance,ε is the molarabsorption coefficient,b is the thickness of film $( \\mathrm { c m } )$ and $c$ is the mole concentration $\\mathrm { ( m o l / c m ) }$ . Since both $\\mathsf { A } _ { 1 7 1 5 \\mathrm { c m } ^ { - 1 } }$ and $\\mathsf { A } _ { 2 2 4 3 \\mathrm { c m } ^ { - 1 } }$ were determined by using the same film, namely with the same value of $b$ $( b _ { \\mathsf { C O } } = b _ { \\mathsf { C N } } ,$ ),thus,theratio of absorbance of these two bands is in proportion to the ratio of IA and AN in copolymer $( x _ { \\mathrm { I A } } / x _ { \\mathrm { A N } } )$ A formula is shown as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathsf { A } _ { 1 7 1 5 \\mathrm { c m } ^ { - 1 } } } { \\mathsf { A } _ { 2 2 4 3 \\mathrm { c m } ^ { - 1 } } } = \\frac { \\varepsilon _ { \\mathrm { C O } } \\mathsf { b } _ { \\mathrm { C O } } \\mathsf { c } _ { \\mathrm { C O } } } { \\varepsilon _ { \\mathrm { C N } } \\mathsf { b } _ { \\mathrm { C N } } \\mathsf { c } _ { \\mathrm { C N } } } = k \\frac { x _ { \\mathrm { I A } } } { x _ { \\mathrm { A N } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where, $k = \\varepsilon _ { \\mathrm { C O } } / \\varepsilon _ { \\mathrm { C N } }$ 、This method can be used for quantitatively calculating the relative IA content.But of course it only can be used in the PAN sampleswith relatively lowerIA contents [26,27].At that condition,because of excess ANand justa small quantity of IA in the feed,all the IA can enters the chains.If the IA content in feed is two high,on the one hand IA will hinder the copolymerization reaction,on the other hand the unreacted IA or the generated IA oligomer may remain in the copolymer,which will affects the accuracy of this method. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The plot of $\\mathsf { A } _ { 1 7 1 5 \\mathrm { c m } ^ { - 1 } } / \\mathsf { A } _ { 2 2 4 3 \\mathrm { c m } ^ { - 1 } }$ of P(AN-IA) copolymers versus IA/AN ratio in feed is shown in Fig.2.A good linear relationship can be found from Fig.2.The IA content in P(AN-IA) copolymers increases in direct proportion to the increase of IA content in feed. Thus,it can be inferred that the IA unit is uniformly distributed ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f45cbd1f6e93b6d34b8650eeccc8611fd49740ef456b9b83087fc0806c5cc14.jpg",
+        "img_caption": [
+            "Fig. 2. Plot of $\\mathsf { A } _ { 1 7 1 5 \\mathrm { c m } ^ { - 1 } } / \\mathsf { A } _ { 2 2 4 3 \\mathrm { c m } ^ { - 1 } }$ of P(AN-IA)copolymers versus IA/AN ratio in feed. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "along the chain. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.DSC/TG analysis at the same heating rate ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the DSC curves obtained at a heating rate of $1 0 ~ ^ { \\circ } \\mathsf { C } /$ min in air atmosphere,and the corresponding parameters are listed in Table 2.As shown in Fig.3,PAN homopolymer exhibits a sharp and narrow single exothermic peak,while the P(AN-IA) copolymers presenta wide multiple feature.Several exothermic peaks emerge in the DSC curves of the P(AN-IA）copolymers,indicating the presence of different kinds of thermo-chemical reactions.P(ANIA)-2 and P(AN-IA)-3 show a distinct triple exothermic peak, which is quite different from the P(AN-IA) copolymers prepared by solution polymerization as reported in the literature [13,25,28]. Interestingly, the exothermic peak located at about $2 5 0 ^ { \\circ } \\mathsf C$ (Peak 1) grows significantly with the increase of IA content in feed.Thus, this peak may be assigned to the cyclization reaction which is initiated by the IA comonomer.This kind of cyclization reaction is generally considered to be followed an ionic mechanismat a lower temperature [13,25,28]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4037a910f9e5d4472492f09423aeef19142ab1244eab792fd5272d5e5879572.jpg",
+        "img_caption": [
+            "Fig.3.DSC curves of PAN polymersata heating rate of $1 0 \\ { ^ { \\circ } C } / \\operatorname* { m i n }$ in air. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f9a93c1ebca10e88280c087271d0074baaadc5deee95fe532972ac3f45d370a.jpg",
+        "table_caption": [
+            "Table 2 DSC parameters of PAN polymers at a heating rate of $1 0 \\ { ^ { \\circ } C } / \\operatorname* { m i n }$ in air. "
+        ],
+        "table_footnote": [
+            "Ti:initiation temperature of exothermic peak. （204号 $\\mathrm { T _ { p k 1 } }$ $\\mathrm { T } _ { \\mathbf { p } \\mathbf { k } 2 }$ $\\mathrm { T _ { p k 3 } }$ : peak temperature of exothermic peak 1,2,3 as shown in Fig.3. △H:heat evolved. "
+        ],
+        "table_body": "<html><body><table><tr><td>PAN polymer</td><td>Ti(C)</td><td>Tpk1 (°C)</td><td>Tpk2 (°C)</td><td>Tpk3 (°C)</td><td>-△H (I/g)</td></tr><tr><td>PAN-homo</td><td>247.6</td><td>303.1</td><td></td><td></td><td>2589</td></tr><tr><td>P(AN-IA)-2</td><td>217.2</td><td>252.1</td><td>289.2</td><td>312.5</td><td>4639</td></tr><tr><td>P(AN-IA)-3</td><td>218.4</td><td>250.4</td><td>287.9</td><td>312.8</td><td>4160</td></tr><tr><td>P(AN-IA)-4</td><td>222.1</td><td>243.7</td><td></td><td>320.0</td><td>2926</td></tr><tr><td>P(AN-IA)-5</td><td>226.7</td><td>243.3</td><td></td><td>318.9</td><td>2503</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The incorporated IA comonomer plays an important role in lowering the initiation temperature $\\mathrm { ( T _ { i } ) }$ of the exothermic peak. The $\\mathrm { T _ { i } }$ of PANhomopolymer isabout $2 4 8 ^ { \\circ } C$ ,while that of the P(ANIA) copolymers decreases to about $2 2 0 ^ { \\circ } C$ Among which,P(AN-IA)- 2 presentsa lowest $\\mathrm { T _ { i } }$ at about $2 1 7 ^ { \\circ } \\mathsf C$ Compared to the PAN homopolymer, the $\\mathrm { T _ { i } }$ of P(AN-IA)-2 has decreased by more than $3 0 ^ { \\circ } \\mathsf C .$ （2 It provides a wider operation temperature range for the thermal stabilization process.When the thermal stabilization is carried out atlower temperature,it helps to avoid excessive heat eruptionand obtain a homogeneous stabilized structure.However,when the IA content in feed increases beyond $2 \\%$ ,Ti has conversely increased to some extent. It means too much IA will spoil the effect.In addition, the heat evolved $( \\Delta \\mathsf { H } )$ has decreased significantly with increasing IA content.As the IA content increases from $2 \\%$ to $5 \\%$ △Hdecreases from $4 6 3 9 \\mathrm { J / g }$ to $2 5 0 3 { \\mathrm { J } } / { \\mathrm { g } } .$ .It means that incorporation of excess IA comonomer reduces the extent of the thermo-chemical reactions. The similar phenomena have been observed by other researchers [17,28],which may be attributed to the interruption in the sequence distribution of AN units in the polymer chain by the IA units. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 shows the TG curves obtained synchronously with the DSC curves as shown in Fig.3.The TG curves corresponding to weight loss can be roughly divided into three stages.As for PAN homopolymer, the first stage is up to $3 0 0 ^ { \\circ } \\mathsf C .$ In this stage,the weight loss is quite small. The second stage is from $3 0 0 ^ { \\circ } { \\mathsf C }$ to $3 0 5 ^ { \\circ } \\mathsf C$ In this stage,PAN homopolymer takesplace a sudden and steep weight loss.The weight loss is more than $20 \\%$ .Because this stage is just corresponding to the DSC exothermic peak $( \\mathrm { T _ { p k } } = 3 0 3 \\ ^ { \\circ } \\mathrm { C } )$ ，the weight loss must be related to the violent heat release caused by the thermo-chemical reactions.In the third stage above $3 0 5 ^ { \\circ } \\mathsf C ,$ the weight losstakesplaceatarelativelysteadypace. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "P(AN-IA） copolymers show significant differences from PAN homopolymer in the weight loss,especially at the second stage. P(AN-IA)-2 and P(AN-IA)-3 start weight lossatabout $2 7 0 ^ { \\circ } \\mathsf C .$ At this stage,the weight loss is obvious,but much lower than that of PAN homopolymer. It may be attributed to the absence of violent heat release.P(AN-IA)-4and P(AN-IA)-5 firstly showa stage of sudden weight lossatabout $2 4 0 ^ { \\circ } { \\mathsf C }$ as the PAN homopolymer,and then followed by a comparatively slower weight loss as P(AN-IA)-2 and P(AN-IA)-3. Both P(AN-IA)-4 and P(AN-IA)-5 have high IA comonomer content,and more carboxyl groups are located in the side chain.The sudden weight loss at about $2 4 0 ^ { \\circ } \\mathsf C$ may be due to the dehydration reactionand decarboxylation reaction of the carboxyl groups,which results in evolution of $\\mathrm { H } _ { 2 } \\mathrm { O }$ and ${ \\mathsf { C O } } _ { 2 }$ [6,13,29]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.DSC analysis at different heating rates ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The above DSC/TG results have confirmed the content of the incorporated IA comonomer should not be too high.P(AN-IA)-2 exhibits the preferable thermal behavior,and is therefore selected formaking further research.In order to clarify the characteristics of the triple exothermic peak,a series of DSC curves of P(AN-IA)-2 were obtained by scanningat different heating rates.Fig.5 shows the DSC curves of P(AN-IA)-2at heating rates of 5,10,15,and $2 0 ^ { \\circ } \\mathsf { C } /$ min inair atmosphere,and the corresponding parameters are listed in Table 3.As shown in Fig.5,with the heating rate increasing, the exothermic peak wholly shifts to a higher temperature.As listed in Table 3,both the initial temperature(Ti)and peak temperature $( \\mathrm { T _ { p k } } )$ increase significantly with the increase of heating rate.This phenomenon has been also reported in the literature and generally attributed to the delay of heat transfer [28].The heat evolved (△H) firstly decreases with the increase of heating rate from 5 to $1 5 ~ ^ { \\circ } \\mathrm { C } /$ min,and then increased to some extent with further increasing the heatingrate to $2 0 ~ { ^ \\circ } C / \\operatorname* { m i n }$ .It is consistent with the results of previous studies [28]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f6c3021122058912b761c18d3f77116033bdce3fcf18dbb8e3e6eff748d2f6d.jpg",
+        "img_caption": [
+            "Fig.4.TG curves of PAN polymersat a heating rate of $1 0 ~ { ^ \\circ } \\mathrm { C } / \\operatorname* { m i n }$ in air. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1930c20a113c9728f83ff57b1b2c7c8cda0afb63ace6c1e8c7ec12ad832a715.jpg",
+        "img_caption": [
+            "Fig.5.DSC curves of P(AN-IA)-2 at different heating rates in air. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2dd63e67dc2931946aef11d726fe1eab5dda1c0dbc0088a9c47b4e5a5512f669.jpg",
+        "table_caption": [
+            "Table 3 DSC parameters of P(AN-IA)-2 at different heating rates in air. "
+        ],
+        "table_footnote": [
+            "$\\mathrm { T _ { i } }$ ：initiation temperature of exothermicpeak. $\\mathrm { T _ { p k 1 } }$ $\\mathrm { T } _ { \\mathbf { p } \\mathbf { k } 2 }$ $\\mathrm { T _ { p k 3 } }$ :peak temperature of exothermic peak 1,2,3 as shown in Fig.5. △H: heat evolved. "
+        ],
+        "table_body": "<html><body><table><tr><td>Heating rate (C/min)</td><td>Ti(C)</td><td>Tpk1 (°C)</td><td>Tpk2 (°C)</td><td>Tpk3 (°C)</td><td>-△H (/g)</td></tr><tr><td>5</td><td>202.7</td><td>239.0</td><td>280.5</td><td>303.0</td><td>4588</td></tr><tr><td>10</td><td>213.0</td><td>250.6</td><td>287.8</td><td>311.1</td><td>4409</td></tr><tr><td>15</td><td>227.0</td><td>255.7</td><td>287.9</td><td>333.9</td><td>3022</td></tr><tr><td>20</td><td>228.7</td><td>260.9</td><td>289.8</td><td>339.4</td><td>3630</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With the increase of heating rate,the first exothermic peak $( \\mathrm { T _ { p k 1 } } )$ ）and the second exothermic peak $( \\mathrm { T } _ { \\mathfrak { p } \\mathrm { k } 2 } )$ are gradually enhanced. In particular, $\\mathrm { T } _ { \\mathbf { p } \\mathbf { k } 2 }$ is more prominent than $\\mathrm { T _ { \\mathrm { p k } 1 } }$ At the heating rate of $5 ~ { ^ \\circ } \\mathrm { C } / \\mathrm { m i n }$ ， $\\mathrm { T } _ { \\mathbf { p } \\mathbf { k } 2 }$ is not outstanding,but when the heating rate is increased to ${ \\bar { 1 } } 0 \\ { \\mathrm { ^ circ C / m i n } }$ ,it begins to become significant. At the heating rate of $1 5 ^ { \\circ } { \\mathsf { C } } / { \\mathsf { m i n } }$ $\\mathrm { T } _ { \\mathrm { p k } 2 }$ becomes more and more strong,over the other two exothermic peaks.The cyclization reaction,asan intramolecular polymerization reaction,is commonly considered to be mainly sensitive to temperature.From the results of Fig. 3, $\\mathrm { T _ { p k 1 } }$ is assigned to the ionic cyclization reaction.Thus, $\\mathrm { T } _ { \\mathrm { p k } 2 }$ islikely to be attributed to the free-radical cyclization reaction. Generally, the former induced by the IA comonomer can be carried out at a lower temperature with a slow pace,while the latter can onlybe taken placeata higher temperature because of the higher reaction activation energy.The primary free radicals which are necessary for inducing the free-radical cyclization reaction,can be formed only in the high temperature condition. However,once the free radical cyclization reaction is initiated,it will propagates rapidly，resulting in a large amount of heat being evolved simultaneously.A higher heating rate makes the cyclization reaction,especially the free-radical cyclization reaction,more violent, and correspondingly the exothermic peaks become more sharp and recognizable. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { T } _ { \\mathrm { p k } 3 }$ may be attributed to the oxidation reaction,which is controlled by the diffusion of oxygen.Therefore,it is not so sensitive to the increase of heating rate as the other two exothermic peaks. Oxidation reaction generally follows the cyclization reaction. Cyclization is considered as a prerequisite for the oxidation reaction [30]. Oxidation reaction prefers to take place with cyclized PAN rather than uncyclized PAN chains [5]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5.DSC/TGanalysisunderdifferentatmospheres ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to further confirm the assignment of the three exothermic peaks of P(AN-IA)-2,DSC/TG analysis of PAN homopolymer and P(AN-IA)-2 in differentatmospheres has been carried out.Fig.6(a)-(d) show the DSC/TG curves of PAN homopolymer andP(AN-IA)-2 in nitrogen and air atmospheres,respectively.PAN homopolymer exhibits a single sharp and narrow exothermic peak in nitrogen. Because there are no comonomers and oxygen,this peak can be attributed to the free-radical cyclization reaction only. The exothermic peak starts at about $2 3 1 ^ { \\circ } \\mathsf C .$ It is earlier than the exothermic peak in air which starts at about $2 4 8 ^ { \\circ } \\mathsf C$ (as shown in Fig.6(b)).Thus,it can be inferred that the free-radical cyclization reaction in air may be inhibited to some extent by oxygen which is known as an inhibitor to various free-radical reactions [31].As can be seen from Fig.6(a),the most intense heat release appears at about $2 7 4 \\ ^ { \\circ } \\mathrm { C } \\ ( \\mathrm { T } _ { \\mathrm { p k } } )$ ，almost simultaneously,a severe weight loss begins to erupt.The cyclization reaction is generally considered to be not a cause of weight loss.However, here we can concluded the free-radical cyclization reaction may be a predominate cause of weight loss.The free radicals seem to not only play roles in initiating the cyclization reactions,but also act as kindling to ignite other degradation reactions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/54e7b7259037155c8e5bb06fc3b53cd0a370f110123c4a86ff17f1d0205eb995.jpg",
+        "img_caption": [
+            "Fig.6.DSC/TGcurvesofPAN-homo innitrogen (a)andair(b),andP(AN-IA)-2innitrogen(c)andair(d)at heating rateof $1 0 ~ { ^ \\circ } C / \\operatorname* { m i n }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.6(b),PAN homopolymer also exhibits a singe sharp and narrow exothermic peak in air. In the air,oxygen is involved in the oxidation reaction. It indicates the free-radical cyclization reactions has overlapped with the oxidation reaction, which leads to more intense heat release and a cliff-likeweight loss. However, the final weight residual at $4 5 0 ~ ^ { \\circ } \\mathrm { C }$ in air is much more higher than that in nitrogen.It may be mainly contributed to the oxidation reaction which is a major factor leading to weight gain through the generation of oxygen-bearing groups.The introduction of oxygen element through the oxygen uptake reactions has offset partial weight loss [28,32]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.6(c),P(AN-IA)-2 has a strong exothermic peak at about $2 7 3 ^ { \\circ } \\mathsf { C } \\left( \\mathsf { T } _ { \\mathsf { p k } 2 } \\right)$ and a weak shoulder at about $2 4 9 ^ { \\circ } \\mathsf { C } \\left( \\mathsf { T } _ { \\mathsf { p k } 1 } \\right)$ in nitrogen.The former can be assigned to the free-radical cyclization reaction since it looks like the exothermic peak of PAN homopolymer in nitrogen.The shoulder may be due to the ionic cyclization reaction which is initiated by the IA comonomer.It starts at an earlier temperature $( \\mathrm { T } _ { \\mathrm { i } } = 2 1 7 ~ ^ { \\circ } \\mathsf { C } )$ because of lower activation energy.The weight loss begins at $2 7 3 ^ { \\circ } \\mathsf C ,$ just corresponding to the $\\mathrm { T } _ { \\mathrm { p k } 2 }$ .It can be concluded that the free-radical cyclization reaction canlead to severe weight loss,while the ionic cyclization reaction does not cause weight loss. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As can be seen in Fig.6(d),P(AN-IA)-2 shows a triple exothermic peak in air.The newly appeared peak at about $3 1 2 . 5 ^ { \\circ } \\mathsf C$ is certainly caused by the oxidation reaction,since this peak is not found in the Fig. $6 ( \\mathrm { c } )$ .Inthe air atmosphere， the total heat release $\\langle \\Delta \\mathrm { H } \\ = \\ - 4 6 3 9 \\ \\mathrm { J } / \\mathrm { g } )$ is much larger than that of the nitrogen $\\langle \\Delta \\mathrm { H } = - 4 2 3 ~ \\mathrm { J } / \\mathrm { g } )$ 、It indicates the oxidation reaction is mainly responsible for the heat release.Even both in the air,the total heat release of P(AN-IA)-2 is much larger than that of the PAN homopolymer. Oxidation reaction is more likely to be carried out in the former.It is probably due to the cyclization reaction of former is more effective than that of latter.In nitrogen, the total heat release of P(AN-IA)-2 is much larger than that of the PAN homopolymer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The first two exothermic peaks at 252 and $2 8 9 . 2 ^ { \\circ } \\mathsf { C }$ belongto the ionic cyclization reaction and free-radical cyclization reaction, respectively.The first exothermic peak starts at $2 1 7 ^ { \\circ } \\mathsf C$ as the same as that in nitrogen.It implies that the initiation of the ionic cyclization reaction is not affected by oxygen.However,both the two exothermic peaks have been enhanced in air atmosphere as compared with that in nitrogen atmosphere (Fig.6(c)). It seems thatboth the ionic cyclization reactionand free-radical cyclization reactionare promoted by the oxidation reaction,which is probably due to the effect of heat release caused by the oxidation reaction. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c40ecfe93d1f050cac440fb2e6d539c946b6566b7870189fd7a71f02e49be04.jpg",
+        "img_caption": [
+            "S decomposition reaction initiated by H.(d) Oxidation reaction and successve tautomeric changes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The weight loss also starts at the point corresponding to the second peak,indicating the weight loss is mainly caused by the free-radical cyclization reaction.As the same with PAN homopolymer, the final weight residual at $4 5 0 ~ ^ { \\circ } \\mathrm { C }$ of P(AN-IA)-2 in air is much more higher than that in nitrogen.It confirms that oxidation reaction is conducive to reducing weight loss. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.6.Mechanismsof the thermo-chemical reactions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is widely accepted that inP(AN-IA) copolymer the cyclization reaction of nitrile groups can be initiated ata lower temperature through an ionic mechanism (Scheme 1(a))[2]. The hydroxyl oxygen of-COOH in IA unit makes a nucleophilic attack on the carbon atom of an adjacent nitrile group and induce it to cyclize with the other one,which leads to formation of a ladder polymer structure through oligomerization of $- C { \\equiv } \\mathbf { N }$ groups to $- C = \\Nu -$ groups [2]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In PAN homopolymer, the cyclization reaction of nitrile groups only can be initiated ata higher temperature through a free radical mechanism[13]. The initial free radicals are possibly generated by the homolytic thermal cleavage of weak bonds,such as terminal groups and side groups.A specific free-radical cyclization reaction initiatedbythecommonfreeradical $\\boldsymbol { \\cdot } \\mathrm { H }$ is shown in Scheme 1(b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Previous DSC and TG results have indicated that free-radical cyclization reaction is accompanied with thermal decomposition reaction,which leads to severe weight loss.The initial free radicals can initiate not only the cyclization reaction,but also the decomposition reaction. The latter involves the release of gaseous and volatile by-products.Suchas hydrogen cyanide(HCN),which is the main toxic by-product during the thermal stabilization process [33].A free-radical reaction pathway is proposed as shown in Scheme1(c).Whena initial free radical Hattacks the carbonatom of an isolated nitrile group,HCN is formed. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The oxidation reaction mechanism is shown in Scheme 1(d), which is proposed by Watt and Johnson [3O].They believe that formation of ladder polymer is a prerequisite to oxidation,which is consistent with the above results as shown in Fig.6(d).When the ladder polymer reacts with oxygen in air,a hydroperoxide is formed. After dehydration,the hydroperoxide changes to a pyridone.The pyridone may be converted into hydroxyl pyridine and pyridone by keto-enol tautomerism and mine-enamine tautomerism,respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The oxidation reaction plays two important roles during the thermal stabilization. One is dehydrogenation.Hydrogen,as an unnecessary heteroatom for final carbon fibers,is eliminated in the form of $\\mathrm { H } _ { 2 } \\mathrm { O }$ through reacting with oxygen,giving conjugated $\\mathsf { C } { = } \\mathsf { C }$ structures on the chain backbone.The other is formation of oxygenbearing groups,such as $\\scriptstyle > \\mathsf { C } = 0$ and $- 0 \\mathsf { H }$ ，which leads toa certain extent of weight gain [28,32]. These oxygen-bearing groups promote further intermolecular crosslinking of the ladder polymers and provide greater thermal stabilityto sustain the high temperature during carbonization treatment [4]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The specific triple DSC exothermic peak of the P(AN-IA) copolymers in air atmosphere have been resolved into three individual peaks and assigned to the respective thermo-chemical reactions.The first exothermic peak was assigned to the ionic cyclization reaction initiated by the IA comonomer at a lower temperature.Itwas significantly influenced by the IA content.The intermediate exothermic peak was attributed to the free-radical cyclization reaction. It was sensitive to heating rate and atmosphere.The free-radical cyclization reaction was accompanied with thermal decomposition reaction,which led to severe weight loss. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The final exothermic peak was caused by the oxidation reaction, which was mainly responsible for the heat release and weight gain. The cyclization reaction preceded the oxidation reaction and acted as a prerequisite for the oxidation reaction.The improvement of the thermal stability of PAN was mainly attributed to the oxidation reaction through dehydrogenation and formation of oxygenbearing groups. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This research is supported by the National Natural Science Foundation of China (No.21404111）and the Ningbo Science and Technology Bureau Project (No.2013B10040). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] X.S.Huang, Fabrication and properties of carbon fibers,Materials 2 (2009) 2369-2403. [2]M.S.A. Rahaman, A.F. Ismail, A. Mustafa, A review of heat treatment on polyacrylonitrile fiber,Polym. Degrad. Stab. 92 (2007) 1421-1432. [3] P. Morgan, Carbon Fibers and Their Composites, CRC Press, Boca Raton, 2005, pp. 121-147. [4] E. Frank,L.M. Steudle,D. Ingildeev,J.M. Sporl, M.R. Buchmeiser, Carbon fibers: precursor systems,processing， structure,and properties,Angew. Chem. 53 (2014) 5262-5298. [5] Y.D. Liu, S. Kumar, Recent progress in fabrication, structure,and properties of carbon fibers,Polym. Rev. 52(2012) 234-258. [6] E. Fitzer,W. Frohs,M. Heine, Optimization of stabilization and carbonization treatment of PAN fibers and structural characterization of the resulting carbon fibers, Carbon 24(1986) 387-395.   \n[7]R. Devasia, C.P.R. Nair, R. Sadhana, N.S. Babu, K.N. Ninan, Fourier transform infrared and wide-angle X-ray diffraction studies of the thermal cyclization reactions of high-molar-mass poly(acrylonitrile-co-itaconic acid)， J. Appl. Polym. Sci. 100 (2006) 3055-3062. [8]D.M. Jeremy, S.W. Jeffrey,Thermo-oxidative stabilization of polyacrylonitrile and its copolymers: effect of molecular weight, dispersity, and poymerization pathway, Polym. Degrad. Stab. 125 (2016) 76-86. [9] I. Shimada, T. Takahagi, M. Fukuhara, K. Morita, A. Ishitani, FT-IR study of the stabilization reaction of polyacrylonitrile in the production of carbon-fibers, J. Polym. Sci. Part A Polym. Chem.24(1986) 1989-1995.   \n[10] A. Burkanudeen, G.S. Krishnan, N. Murali, Thermal behavior of carbon fiber precursor polymers with different stereoregularities, J. Therm. Anal. Calorim. 112 (2013) 1261-1268.   \n[11] K._Sen, P. Bajaj, T.V. Sreekumar, Thermal behavior _of drawn acrylic fibers, J. Polym. Sci.Part A Polym. Phys. 41 (2003) 2949-2958.   \n[12] IF.C. Preta, S.K. Sakata, G. Garcia, J.P. Zimmermann, F. Galembeck, C. Giovedi, Thermal behavior of polyacrylonitrile polymers synthesized under different conditions and comonomer compositions, J. Therm. Anal. Calorim. 87 (2007) 657-659.   \n[13] P.Bajaj,T.V. Sreekumar, K.Sen, Thermal behaviour of acrylonitrile copolymers having methacrylic and itaconic acid comonomers，Polymer 42 (2001) 1707-1718.   \n[14] B.S. Munteanu, M. Brebu, C. Vasile, Thermal behaviour of binary and ternary copolymers containing acrylonitrile， Polym. Degrad. Stab. 98 (2013) 1889-1897.   \n[15] T. Takahagi, I. Shimada, M. Fukuhara, K. Morita, A. Ishitani, XPS studies on the chemical-structure of the stabilized polyacrylonitrile fiber in the carbon-fiber production process, J. Polym. Sci. Part A Polym. Chem. 24(1986) 3101-3107.   \n[16] A.K. Gupta, D.K. Paliwal, P.Bajaj, Efect of anacidic comonomer on thermooxidative stabilization of polyacrylonitrile, J. Appl. Polym. Sci. 58 (1995) 1161-1174.   \n[17] A.K. Gupta, D.K. Paliwal, P. Bajaj, Effect of the nature and mole fraction of acidic comonomer on the stabilization of polyacrylonitrile,J. Appl. Polym. Sci. 59 (1996) 1819-1826.   \n[18]J.D. Moskowitz， J.S. Wiggins， Thermo-oxidative stabilization ofpolyacrylonitrile and its copolymers: effect of molecular weight, dispersity,and polymerization pathway, Polym. Degrad. Stab. 125 (2016) 76-86.   \n[19] J.D.Moskowitz,J.S.Wiggins, Semibatch RAFT copolymerization of acrylonitrile and N-isopropylacrylamide: effect of comonomer distribution on cyclization and thermal stability, Polymer 84 (2016) 311-318.   \n[20] A. Ju,M. Luo,K. Zhang,M. Ge,Mechanism and kinetics of stabilization reactions ofpoly(acrylonitrile-co-3-aminocarbonyl-3-butenoic acid methyl ester), J. Therm. Anal. Calorim.117 (2014) 205-215.   \n[21] S. Arbab, A. Zeinolebadi, A procedure for precise determination of thermal stabilization reactions in carbon fiber precursors,Polym. Degrad. Stab. 98 (2013) 2537-2545.   \n[22]N. Hameed,J. Sharp,S. Nunna, C. Creighton,K. Magniez,P. Jyotishkumar, N.V. Salim, B. Fox, Structural transformation of polyacrylonitrile fibers during stabilization and low temperature carbonization, Polym. Degrad. Stab. 128 (2016) 39-45.   \n[23] S.Arbab,H.Mirbaha,A. Zeinolebadi,P.Nourpanah,Indicators for evaluation of progress in thermal stabilization reactions of polyacrylonitrile fibers,J.Appl. Polym. Sci. 131(2014) 40343,http://dx.doi.0rg/10.1002/app.40343.   \n[24] T. Shibukawa,M. Sone,A. Uchida, K. Iwahori, Light-scattering study of polyacrylonitrile solution, J. Polym. Sci. Part A Polym. Chem. 6 (1968) 147-159.   \n[25] Q. Ouyang, L. Cheng, H.J. Wang, K.X. Li, Mechanism and kinetics of the stabilization reactions of itaconic acid-modified polyacrylonitrile,Polym. Degrad. Stab. 93 (2008)1415-1421.   \n[26]P. Bajaj,D.K. Paliwal, A.K. Gupta, Acrylonitrile-acrylic acids copolymers.1. Synthesis and characterization, J. Appl. Polym. Sci. 49(1993) 823-833.   \n[27] Q. Ouyang,L. Cheng,H.J. Wang,K.X. Li, Determination of composition of poly(acrylonitrile-co-itaconic acid) by infrared spectroscopy, Polym. Mater. Sci. Eng. 25(2009) 127-129.   \n[28] Q. Ouyang,L. Cheng, H.J. Wang, K.X.Li, DSC study of stabilization reactions in poly(acrylonitrile-co-itaconic acid) with peak-resolving method, J. Therm. Anal. Calorim. 94 (2008) 85-88.   \n[29] E. Fitzer,D.J. Muller, Influence of oxygen on chemical-reactions during stabilization of PAN as carbon-fiber precursor, Carbon 13(1975) 63-69.   \n[30]W.Watt,W. Johnson,Mechanism of oxidization of polyacrylonitrile fibers, Nature 257 (1975) 210-212.   \n[31] F. Oytun, M. Kahveci, Y. Yagci, Sugar overcomes oxygen inhibition in photoinitiated free radical polymerization, J. Polym. Sci. Part A Polym. Chem. 51 (2013) 1685-1689.   \n[32] Z. Fu, Y. Gui, C. Cao,B. Liu, C. Zhou,H. Zhang,Structure evolution and mechanism of polyacrylonitrile and related copolymers during the stabilization, J. Mater. Sci. 49 (2014) 2864-2874.   \n[33] M. Surianarayanan, T. Uchida, M. Wakakura, Evolved gases by simultaneous TG-MS technique and associated thermal hazard in drying of polyacrylonitrile, J. Loss. Prev. Proc.11(1998) 99-108. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

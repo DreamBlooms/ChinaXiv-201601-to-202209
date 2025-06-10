@@ -1,0 +1,601 @@
+[
+    {
+        "type": "text",
+        "text": "基于非对称双分支交互神经网络的水下生物识别",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵力，宋威",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(江南大学 物联网工程学院，江苏 无锡 214000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对水底环境存在着可见度低、光照条件差、物种间特征差异不明显等问题，基于卷积神经网络，提出了一种新的非对称双分支水下生物分类模型。模型中交互分支利用不同的卷积神经网络中间层提取局部特征并通过交互模块对局部特征进行交互，增强分类模型的局部特征学习能力；卷积神经网络分支可以有效地学习到目标的全局特征，弥补交互分支中忽略的全局信息。在Fish4-Knowledge(F4K)、EILAT、RAMAS三个数据集上取得了 $9 8 . 9 \\%$ 、$9 8 . 3 \\%$ 、 $9 7 . 9 \\%$ 的准确率，较前人方法有显著提高；视觉解释也验证了该模型可以有效地捕捉到局部特征并消除背景影响。最终显示，该模型在水下环境具有良好的分类性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水下生物分类；非对称双分支；交互分支；交互模块；局部特征；卷积神经网络分支；全局特征 中图分类号：TP319 doi: 10.19734/j.issn.1001-3695.2020.03.0083 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Asymmetric two-branch interactive neural network for underwater image classification ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao Li, Song Wei (School of Internetof Things Engineering,Jiangnan University,WuxiJiangsu 214oo0,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Based onconvolution neural network,this paper proposed a new asymmetric two branch underwater biological classification model to solvethe problems of lowvisibility,poor iluminationconditions and noobvious diferences among species in the underwater environment.In the model,the interactive branchuseddiferentconvolution neural network to extractedlocalfeaturesandinteractedwithlocalfeatures throughthe interactivemoduletoenhancedtheclasificationmodel. Convolutional neural network branch could efectively learned the globalcharacteristicsof the targetand made up for the global information ignored in the interactive branch.Finally, this model obtains $9 8 . 9 \\%$ $9 8 . 3 \\%$ and $9 7 . 9 \\%$ of the accuracy on thethreedatasets offish4 knowledge (f4k),EilatandRAMAS,whichare significantly improvedcompared withthe previous methods.visual interpretationalsoverifiesthatthemodelcaneffectivelycapturelocalfeaturesand liminatesthebackground influence.Finally, it shows that the model has good classification performance in underwater environment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:subaqueousclasification；asymmetricbranch；interactive branch；interactive module；local feature; convolutional neural network branch; global feature ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "海洋生物在人类生活中扮演着非常重要的角色，也是人类宝贵的资源之一。经过海洋专家学者几十年的调差研究，我国管辖海域记录到的海洋生物多达20278种，其中包括5个生物界，44个生物门，占世界海洋生物总种数的 $10 \\%$ ，占总数量的 $50 \\%$ 。海洋生物识别用广泛，可用于水产、生物、海洋等环境的研究、开发、管理等。对各类生物进行建立数据库，利用人工智能的方法自动识别生物，不仅有利于海洋生物资源的开发和利用，也能在海洋渔业生产中发挥重要的作用，对学术研究和经济价值都具有重大意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "利用传统的机器学习进行物种识别过程大致为：获取图像，提取特征，构建分类器，然后将特征输入分类器中进行分类，如：Phenoix等人[1采用贝叶斯和高斯核混合模型对鱼类特征进行分层分类的方法来实现分类识别；杜伟东等人[2]提出了一种提取多方位声散射数据的小波包系数奇异值、时域质心及离散余弦变换系数特征；并进行特征融合，最后使用 SVM进行分类的识别方法；尽管这类方法在基于计算机视觉的海洋生物分类方法研究上取得了重大进展，但是依旧存在明显的不足：分类器性能的好坏很大程度上取决于人为设置的特征是否合理，然而人在选择特征时往往都是依靠经验，具有真大的盲目性和不确定性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "和传统机器学习方法相比，近年来崛起的深度学习方法能够从大量数据中通过卷积等操作自动学习特征，很好地解决了人工选择特征的问题，已经成为解决许多计算机视觉问题的首选；如：Abdelouahid等人[3]和顾正平等人[4]都提出了采用深度卷积神经网络模型进行鱼类识别的方法，虽然这些方法都在性能上取得了较好的效果，但是依然存在着明显的问题：首先，特征信息在卷积神经网络中传递时存在着信息丢失的现象，而这些模型都注重于对单个卷积层的输出进行分类，因此会丢失一些十分重要的分类信息；其次，在光照不足的水下环境中卷积神经网络容易受到背景的影响。信息丢失和背景影响都会导致分类性能的下降，因此需要在训练时加入大量的额外标注信息，才能取得较好的分类性能，而对数据进行额外标注本身是一项费时且昂贵的工作，所以在实际应用中难以满足，具有很大的局限性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文针对上述问题及任务，基于CNN提出了一种新的非对称双分支交互神经网络，具有以下结构和特点：a）交互分支：采用卷积神经网络的中间层提取图像特征，然后通过交互模块对不同中间层所学习到的局部特征进行集成，以增强交互分支对局部特征的捕捉和学习，有效弥补特征信息在传递中出现丢失的不足。b）卷积神经网络分支：能有效的捕捉到目标的全局信息，弥补交互分支过于注重局部信息而忽略全局信息的不足。c）两大分支通过融合层相结合，在光照不足的水下环境中也可以良好的捕捉和学习到目标的局部和全局特征信息，并区分目标和背景，消除背景影响；显著提高分类效果。本模型有效的解决了现有传统机器学习模型和现有深度学习模型存在的缺陷，并且在三个数据集上的都有着优于其他模型的分类性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1局部特征学习 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特征学习是图像分类过程中十分重要的部分；与基类别(如：猫和狗)之间的差异相比，同种基础类别中的不同种子类别(如：不同种类的珊瑚[18]等)生物体之间的差异非常细微，而且这些细微的差异仅存在于目标图像的局部特征(如珊瑚的冠部、叶片，鱼类的鳍、尾、腹等)；仅仅通过全连接的普通神经层很难解析到这些细微的特征信息，因此，在识别过程中，常规的神经网络模型性能往往会受到限制[5]。针对上述问题，Zhang 等[32]提出了一种能够从卷积特征中挑选出具有分辨力的局部特征的算法,利用Selectivesearch产生候选局部区域，然后利用MMP(Multi-max pooling）方法，直接从候选的局部区域中产生局部特征，对这些特征做聚类，并计算每一个聚类簇的重要性，选择重要的聚类簇作为最终的图像局部特征表示；Perronnin 等人[33利用 FV (Fisher vector)编码将目标图像的所有候选局部特征表示成一个向量，使用高斯混合模型(Gaussianmixturemodel,GMM）对候选局部特征进行聚类,并通过计算各个类的相互信息值选取重要的局部特征使网络进行学习；Simon 等[34]利用卷积网络特征产生的关键点，并基于这些关键点来提取局部特征信息。以上方法虽然能有效的提取到局部特征，但均采用Selectivesearch方法产生候选局部区域，并需要计算各聚类簇之间的重要性，因此面临巨大的计算代价问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lin 等[提出了一种对两个独立CNN的输出特征进行融合的方法，将两个cnn的输出特征向量进行外积然后产生高维特征，进入全连接层进行分类；Kong等人7在此基础上对方差矩阵采取低秩化，降低了计算复杂度；Maji等[8]提出了矩阵平方根归一化，进一步提升了在分类上的性能；Wei 等[9]认为常用的 $1 ^ { * } 1$ 卷积核对特征进行降维会导致降维后的特征多样性降低，所以采用P奇异向量降维；Gao等[29]利用TensorSketch对二阶信息进行统一并减小特征维度；Cui等[20]在此基础上使用 Tensor Sketch 将高阶信息进行汇总；Gou等[10通过对特征矩阵增广的方法得到了同时包含一阶和二阶信息的特征，并利用tensorsketch对其进行融合操作；但是，这些方法仅仅考虑对来自单个卷积层的输出特征进行处理，而在实验中发现在CNN中不同的卷积层学习到的特征并不相同，且这些特征信息在通过不同卷积层时会发生明显的信息丢失，因此单个卷积层的输出特征图并不能很好地表现局部特征之间的细微差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文方法将利用多个卷积层提取图像特征，并通过交互的形式集成各个卷积层捕捉到的局部信息，以此来增强模型对细微局部特征的捕捉和学习能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 卷积神经网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于近年来深度学习在各领域取得良好成果，CNN(卷积神经网络)已经成为各种视觉识别任务的通用特征提取器；Chatfield等人[11]以VGGnet基于图像分类对CNN的性能进行了评估，并和以前的特征编码方法进行了比对；实验表明，更深的CNN表现优于在已增强数据上训练的深度较浅的CNN模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为以水下为应用场景的分类任务，尽管水下图像存在着光照、颜色、角度等诸多因素的影响，但CNN依旧证明了它在图像分类领域的优势[12\\~14]；然而这些方法也存在着明显的缺陷：CNN在对目标的特征提取时，往往容易受到背景影响，误将背景噪声作为目标进行信息提取，因此在训练时，需要加入人工制作的诸如形状、颜色和纹理等手工特征信息，以加强模型对目标和背景的区分能力；对手工特征信息的依赖导致这些方法很难应用于大型数据集，具有一定的局限性；而本文提出的分类方法，不需要依靠任何人工特征信息便可以有效的除去背景影响，可以应用于任何水下图像数据集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 非对称双分支网络 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本章中，基于卷积神经网络，提出了一个非对称的双分支网络用于水下物种分类，不需要依赖任何人工特征信息就可以消除背景产生的影响并捕捉到细微的局部特征；适用于何种水下场景的生物识别数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 非对称双分支",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与普通的基类别识别不同，同一基类别的不同子类别之间通常具有相似的外观，各个类别间的差异更加细微，子类别识别只能通过微小的局部特征差异进行区分，因此，如何提取并有效学习到局部特征信息，成为了决定子类别识别算法成功与否的关键所在。但是绝大多数卷积神经网络模型仅仅专注于利用单卷积层进行特征学习，而完全忽略了特征信息在不同层之间传递时发生的信息损失；所以每个卷积层学习到的特征信息是不完整的，因此为了能捕捉到更多的局部特征，本方法在卷积神经网络的基础上加入了一种交互非分支；如图1所示，本模型由交互分支和CNN分支构成；其中交互分支使用3个以卷积层为主的特征提取器，对图像进行特征提取，然后将不同提取器提取的特征输入交互模块，以增进不同特征之间的信息交互；与基类别识别相比，子类别识别更加注重对局部特征的学习，图像信息的信噪比更低，因此更容易受到光照、姿态、背景等因素的影响；而CNN 分支可以有效的对目标图像的全局信息(如目标的形状、外观等进行提取，增强模型对图像中目标的定位能力，消除光照、背景等因素的影响，以弥补交互分支注重局部而忽略全局信息的不足；两大分支的输出最终通过融合层加权进行集成。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ad6f19665b7229ff69cd8afdb3e6e2ecac02daf3fc7f70d894850360b6d9c77.jpg",
+        "img_caption": [
+            "图1非对称双分支网络",
+            "Fig.1Asymmetric two-branch network "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2交互分支",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "交互分支主要由特征提取器、交互模块构成，本分支目的在于捕捉目标图像中细微的局部特征。在分类中这些细小的局部特征具有很强的代表性，因此可以有效提高模型的分类性能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1交互分支分解",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Kim 等人[16]提出了使用Hadamard乘积的因式分解，用于多模式学习的有效注意力机制。在本小节，简要介绍因式分解的基本公式；假设一个图像I通过以卷积层为主的特征提取器进行过滤，提取器的输出为高度 $H$ ， $W$ 宽度， $c$ 通道的特征映射 $X \\in R ^ { H \\times W \\times C }$ ；将 $\\boldsymbol { \\cal X }$ 中空间上的 $\\mid c \\mid$ 维描述符表示为$\\mathbf { x } { = } [ \\mathbf { x } _ { 1 } , \\mathbf { x } _ { 2 } , . . . , \\mathbf { x } _ { \\mathrm { c } } ] ^ { \\mathrm { T } }$ 。那么交互模型可以被定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { i } = x ^ { T } W _ { i } x\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $W _ { i } \\in R ^ { c \\times c }$ 是权重矩阵， $z _ { i }$ 是模型输出。根据 Rendel[17]提出的矩阵分解，式(1)可以分解为两个1维向量：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { i } = x ^ { T } W _ { i } x = x ^ { T } U _ { i } V _ { i } ^ { T } x = U _ { i } ^ { T } x \\circ V _ { i } ^ { T } x\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $U _ { i } \\in R ^ { c } , V _ { i } \\in R ^ { c }$ 。假设 $\\mathbf { \\sigma } _ { o }$ 维的交互分支输出$\\scriptstyle { \\cal Z } = [ z 1 , z 2 , \\dotsc , z 0 ]$ ，则 $z \\in R ^ { o }$ 定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz = U ^ { T } x \\circ V ^ { T } x\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $U \\ \\in R ^ { c \\times d } , V \\ \\in R ^ { c \\times d }$ 是不同交互模块的权重矩阵，。为Hadamard积，d为决定交互层性能和计算复杂度的可定义尺寸参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2交互模块 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "交互模块目的在于增进不同特征提取器所提取到的特征图之间的交互性：首先通过独立的非线性映射将来自不同提取器的特征扩展到高维空间，以便于卷积层捕捉不同目标局部的特征，然后通过hadamard积对逐元素进行集成，以达到不同的局部特征之间进行交互的目的；最后，执行求和，将高维特征压缩为紧凑特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单个交互模块中，对空间上第i维的不同特征使用hadamard积进行交互，可以定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { i } = U _ { i } ^ { T } x \\circ V _ { i } ^ { T } y\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathbf { x }$ ，y为来自于不同提取器所提取的特征， $U _ { i } ^ { T }$ 和 $V _ { i } ^ { T }$ 为映射矩阵。最后对整个空间上的特征矩阵执行求和，将高维特征压缩为紧凑的特征向量，假设空间维度为o，则写作：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = z _ { 1 } + z _ { 2 } + z _ { 3 } + . . . + z _ { o } = U ^ { T } x \\circ V ^ { T } y\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在分支中加入了多个交互模块以集成多个特征，从而进一步增强特征信息在分类中的表达能力；假设 $x , y , z$ 分别来自于不同提取器的特征，对于加入多个交互模块的分支中，交互分支输出，即提取到的局部特征 $Z _ { \\mathrm { i n t e r a c t } }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { Z _ { \\mathrm { i n t } e r a c t } = I n t e r a c t i o n ( x , y , z ) = \\phantom { - } } \\\\ { c o n c a t ( U ^ { T } x \\circ V ^ { T } y , U ^ { T } x \\circ W ^ { T } z , W ^ { T } z \\circ V ^ { T } y ) = } \\\\ { U ^ { T } x \\circ V ^ { T } y + U ^ { T } x \\circ W ^ { T } z + W ^ { T } z \\circ V ^ { T } y \\quad \\quad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $U \\ , V \\ , W \\ \\in R ^ { c \\times d }$ ，d为交互模块中神经层的尺寸参数，决定着交互模块的性能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3特征提取器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图2，因为卷积层本身具有提取特征信息的功能，所以将卷积神经网络的中间卷积层取出，加入非线性函数(Relu)和归一化(batchnormalization)，作为本模型的特征提取器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3卷积神经网络分支",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上节中的交互分支主要注重对局部特征的学习，所以容易忽略全局信息(例如目标的形状，外观等)，导致模型对目标的定位能力较弱，在识别过程中容易受到背景和光照等因素的影响，因此全局信息在子类别识别中也有着至关重要的作用。普通的卷积神经网络对于细微的局部特征提取和学习能力虽然较弱，但可以有效的捕捉到目标图像的全局信息，因此在另一分支中保留了完成的卷积层和池化层，用于提取全局信息以弥补交互分支忽略全局信息的不足；并在融合层中对两个分支的输出赋以不同的权值进行整合：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（204号 $\\begin{array} { r } { Z _ { o u t p u t } = P ^ { T } f u s i o n ( Z _ { \\mathrm { i n t e r a c t } } , Z _ { o b j e c t } ) = P ^ { T } ( w _ { 1 } \\times Z _ { \\mathrm { i n t e r a c t } } + w _ { 2 } \\times Z _ { o b j e c t } ) } \\end{array}$ (7其中: $Z _ { o b j e c t }$ 为卷积神经网络提取到的全局信息； $w _ { 1 } , \\ w _ { 2 }$ 为局部特征信息 $Z _ { \\mathrm { i n t e r a c t } }$ 与 $Z _ { o b j e c t }$ 对应的权值，总和为1，以控制局部特征信息和全局信息在分类信息中所占的比重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验在实验中，首先，采用三个最常用的数据集用来评估模型性能，并提供了与前人方法的比较；然后对本模型的各个部分单独进行了评估，最后用视觉解释直观的对模型作出解释。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 数据集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用三个水下生物领域最常用的数据集；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EILAT数据集[18]：该数据集为从同一相机拍摄的全尺寸图像中提取的图像块，包含1123张图像，均为红海EILAT岛附近的珊瑚礁调查中相机捕捉到的 $6 4 ^ { * } 6 4$ 像素全尺寸图片；并由专家标记分为8类。本数据集采用10折交叉验证方法，即其中 $90 \\%$ 的图像构成训练集，其余 $10 \\%$ 作为测试集。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e767db2be8932e7953ba2e507d3bf3c48a2c15932f98480ba48dcec646af788d.jpg",
+        "img_caption": [
+            "图2特征提取器 Fig.2Feature extractor "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rosenstiel海洋与大气科学学院在珊瑚礁调查中收集的，包含766个图像，被专家标记为14个类别，每个图像尺寸为$2 5 6 ^ { * } 2 5 6 .$ 该数据集与EILAT数据集使RAMAS数据集[18]：该数据集是迈阿密大学用相同的交叉验证方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fish4-Knowledge (F4K)[19]数据集：该数据集是台湾电力公司、台湾海洋研究所和垦丁国家公园在2010年10月1日至2013年9月30日期间，在台湾南湾兰屿和胡比胡的水下观景台收集的影像数据，其中包含23种鱼类，大小为 $2 0 ^ { * } 2 0$ 至 $2 0 0 ^ { * } 2 0 0$ ，共27370张鱼类的水下图像。该数据集的 $80 \\%$ 构成训练集，其余 $20 \\%$ 作为测试集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2实验设定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选用在ImageNet分类数据集上预训练的VGG-16作为模型中的卷积神经网络分支(非对称双分支模型亦可使用其他种类的卷积神经网络，例如Inception,Resnet等)，除去其最后三个全连接层，然后加入本文提出的交互分支；输入图像尺寸统一为 $2 2 4 ^ { * } 2 2 4$ ，为了证明本模型的性能并非依赖于高超的预处理手段，仅采用最简单的数据增强方法，如随机水平翻转，随机平移；在训练过程中使用batchsize为16的随机梯度下降(SGD)方法调整整个模型，并将 momentum(动量)设定为0.9，weightdecay(权重衰减)为 $5 ^ { * } 1 0 ^ { - 3 }$ ,learning rate(学习率)为 $1 0 ^ { - 3 }$ 并在学习停滞时减少10倍；融合层中调节局部特征信息和全局信息所在比重的权值 $\\mathbf { w } _ { 1 }$ 和 $\\mathbf { w } _ { 2 }$ 初始值均设为0.5以保证二者占比均衡，随后在实验中加以调整；所有实验均在谷歌深度学习框架tensorflow上进行实现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 中间层选取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作为特征提取器的CNN中间层决定了捕捉到的局部特征在分类中是否具有代表性；所以中间层的选取十分重要。以VGG16,VGG19为例，将每个池化层之前的神经层视为一个完整的卷积模块(每个卷积模块包含2-3个卷积层)，并将每个卷积模块的输出分别输入softmax层进行了分类，在三个数据集上的精度如图3所示；可以看出在CNN中，随着层数的加深，卷积层所提取到的特征级别也越高，在分类中也更具有代表性；所以在CNN中，深层提取到的特征比浅层所提取到的特征更加有利于分类，这也与前人研究所得结论一致[20];所以选取最后一个卷积模块中的中间层作为特征提取器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c381aa70f5f72f2be14914b476e48f797b76ce62a1d9ac8a6e9ccb67c194494d.jpg",
+        "img_caption": [
+            "图3VGG16、VGG19中不同中间层的精度"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4交互模块的映射尺寸参数及定量分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(6)中提到，交互模块中存在着决定交互性能的神经层尺寸参数d。为了选取合适的d，用不同的模块组合在EILAT数据集上进行了实验，结果如图4所示；其中 $_ { \\mathrm { I } ( 1 , 2 ) + \\mathrm { C N N } }$ 表示将提取器1,2输出交互层然后将其输出和左分支的CNN输出进行融合并进行分类；I(1,3)、I(2,3)代表同上； $\\mathrm { F + C N N }$ 代表 $\\mathrm { I } ( 1 , 2 ) \\mathrm { + } \\mathrm { I } ( 1 , 3 ) \\mathrm { + } \\mathrm { I } ( 2 , 3 ) \\mathrm { + } \\mathrm { C N N } ;$ （204号",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d89da6ad5f133f618833a7a6baa8a62395220d63747467e0cac86de08adf292.jpg",
+        "img_caption": [
+            "Fig.3Accuracy of different intermediate layers in VGG16、VGG1 ",
+            "图4各种组合在不同尺寸d时的性能"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4中可以看出：首先，在无论尺寸d取何值， $\\mathrm { F + C N N }$ 的组合性能均优于其他组合，这表明可以通过多个交互模块以增强分类性能；其次，当尺寸d从64增加到512时，所有的组合性能均有提升，但增加至1024时，性能有所下降。考虑到：过大的d值会产生更高的计算复杂度，d过小又会导致模块性能下降。因此，在接下来的实验中均选取 $\\scriptstyle \\mathrm { d } = 5 1 2$ 为最佳尺寸。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了对交互模块进行定量，分别选用了包含1-3个交互模块的组合RAMAS、EILAT两个数据集上进行了性能评估；结果如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1在不同数据集上的各数量模块的组合性能评估",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/93000db35f2b456f07623598a9dd44595bef3a155983573334b2c8652762db4b.jpg",
+        "table_caption": [
+            "Tab.1 Combined performance evaluation of each number of "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">modulesondifferentdatasets</td></tr><tr><td>组合方法</td><td>RAMAS</td><td>EILAT</td></tr><tr><td>I(1,2)+CNN</td><td>84.1</td><td>90.5</td></tr><tr><td>I(1,3)+CNN</td><td>86.3</td><td>85.9</td></tr><tr><td>I(2,3)+CNN</td><td>83.5</td><td>87.2</td></tr><tr><td>I(1,2)+I(1,3)+CNN</td><td>90.9</td><td>93.0</td></tr><tr><td>I(1,2)+I(2,3)+CNN</td><td>91.5</td><td>94.5</td></tr><tr><td>I(1,3)+I(2,3)+CNN</td><td>93.1</td><td>95.4</td></tr><tr><td>I(1,2)+I(1,3)+I(2,3)</td><td>95.5</td><td>96.1</td></tr><tr><td>I(1,2)+I(1,3)+I(2,3)+CNN</td><td>97.9</td><td>98.3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先，综合前6项和最后一项可以看出，提高交互模块数量，能明显改善分类性能；其次，最后两项中，交互分支在与CNN分支的输出融合后，性能有所提升，也证明了独立的交互分支过于注重局部信息而忽略了全局信息，而CNN分支提供的全局信息在分类中也起到了重要的作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5 中间层性能分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了证明局部特征信息的交互和集成能提高分类性能，在所有数据集均使用相同标准的分割方法情况下，将三个特征提取器(CNN中取出的3个中间层)的输出，卷积神经网络分支的输出都分别输入全连接层进行了分类测试，并与完整模型的分类(融合层)进行了比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本模型可以使用不同类别CNN的想法，在实验中使用了2中全完不同的CNN，比较结果如表2所示，值的注意的是，第三个提取器在性能上明显劣于前2个提取器，从此可以推断出：虽然更深的卷积层更能提取到有利于分类的抽象特征，但随着深度增加，层之间的信息传递中存在着明显的特征信息丢失，从而导致分类性能下降;此推断也在后文中的视觉解释实验中得到了证实。因此想要提高分类性能，对多个特征信息进行更好地学习才是关键。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2CNN分别选用VGG16、resnet的结果比较 ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/737192b96a5e134c9b2ee54344ab3938d9ad90d83083020a603db1daac2aa4e4.jpg",
+        "table_caption": [
+            "Tab.2Comparison of the results of CNN using VGGl6 and ResNe "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集 CNN 特征提取器1</td><td>特征提取器2</td><td></td><td>特征提取器3 融合层</td></tr><tr><td>EILAT 80.7</td><td>80.1</td><td>82.6</td><td>81.2 98.3</td></tr><tr><td>RAMAS 79.5</td><td>82.7</td><td>81.4</td><td>79.9 97.9</td></tr><tr><td>F4K 81.1</td><td>83.9</td><td>84.5</td><td>81.9 97.1</td></tr><tr><td>EILAT 81.2</td><td>83.3</td><td>80.1</td><td>80.0 97.2</td></tr><tr><td>RAMAS 80.1</td><td>81.7</td><td>82.6</td><td>80.9 96.8</td></tr><tr><td>F4K 81.9</td><td>82.3</td><td>80.0</td><td>81.6 96.7</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.6融合层的权值分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(7)中提到，融合层中的权值 $\\mathbf { w } _ { 1 }$ 和W2分别控制着局部信息和全局信息在最终分类信息中所占的比重，二者之和恒为1.为了选取合适的 $\\mathbf { w } _ { 1 }$ 和 $\\mathbf { w } _ { 2 }$ ，以分类精度作为衡量标准，使用不同的 $\\mathbf { w } _ { 1 }$ 值在三个数据集上进行了实验，实验结果如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5中可以看出：首先，当局部信息权值 $\\mathbf { w } _ { 1 }$ 取值在 $0 { \\sim } 0 . 7$ 之间时，分类精度随着 $\\mathbf { w } _ { 1 }$ 的增加而提升，这表明局部信息在分类过程中至关重要，加入局部信息可显著提升模型的分类性能；其次，当 $\\mathbf { w } _ { 1 }$ 取值在0.7\\~1之间时，分类精度随着全局信息权值 $\\mathbf { w } _ { 2 }$ 的减小 $\\left( \\mathbf { w } _ { 2 } { = } 1 { - } \\mathbf { w } _ { 1 } \\right)$ 而降低，这表明忽略全局信息会使模型在分类过程中受到背景和光照等因素的影响，导致分类性能下降，因此加入适当比例的全局信息可消除这些影响，进一步提升模型的分类性能。考虑到：过小的 $\\mathbf { w } _ { 1 }$ 权值会降低模型对局部信息的学习能力，而过大的 $\\mathbf { w } _ { 1 }$ 权值又会导致模型对全局信息的忽略。因此，选取0.7和0.3作为权值W1和 $\\mathbf { w } _ { 2 }$ 的最佳取值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/60e5d7b1dcd6e1395f773da6163e9e0cb813a5ba986d527bd65b7f21cd7a1d9b.jpg",
+        "img_caption": [
+            "Fig.4Performance of various combinations at different sizes d ",
+            "图5不同权值 $\\left( w _ { 1 } \\right)$ 时模型的分类性能",
+            "Fig.5The classification performance of the model with different weights (wi) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.7 分类结果对比",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本节中，在每个数据集上，都将交互双分支模型的性能与前人方法进行比较；需要说明的是，不同方法及模型的学习能力不同，因此所学习到的视觉特征也并不相同，而模型是否能达到良好的分类性能取决于该模型能否学习到关键的视觉特征。表3中显示了双分支交互网络的结果和目前在RAMAS、EILAT两个数据集上精度最高的结果;其中VGG16和Resnet-50 均为在Imagenet 进行预训练然后在数据集上进行训练的结果；值得一提的是第8项所采用的方法在训练过程中也依赖手工制作的特征；第9项为目前的最新技术，达到了目前的最高精度，但该方法仅注重局部特征，而忽略了目标图像的全局特征，因此在光照条件差的水下环境中，分类性能受到了背景的影响；表3最后一项可以看出，不依赖任何手工特征的交互双分支网络的分类性能明显优于其他方法，达到了最高的分类精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3在RAMAS，EILAT数据集上的各个方法性能评估",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dcd7ecd4f940b44e6927443922789da9f0164bca77cea233c6c0a632862b7ece.jpg",
+        "table_caption": [
+            "Tab.3Performance evaluation of each method on "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">RAMAS,EILATdataset</td></tr><tr><td>方法</td><td>RAMAS EILAT</td><td>方法</td><td>RAMAS</td><td>EILAT</td></tr><tr><td>文献[22]</td><td>69.3</td><td>87.9</td><td>文献[21]</td><td>85.4 69.1</td></tr><tr><td>文献[24]</td><td>73.9 67.3</td><td>文献[18]</td><td>96.5</td><td>96.9</td></tr><tr><td>VGG-16</td><td>79.5 80.7</td><td>文献[25]</td><td>97.1</td><td>97.5</td></tr><tr><td>Resnet-50</td><td>80.1 81.2</td><td>cResFeats[30]</td><td>98.8</td><td>99.1</td></tr><tr><td>文献[23]</td><td>82.5 75.2</td><td>交互双分支网络</td><td>99.2</td><td>99.4</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4中显示了双分支交互网络的结果和目前在F4K数据集上精度最高的结果；其中VGG16和Resnet-50 均为在Imagenet进行预训练然后在数据集上进行训练的结果；其中，Wei等人[27]以F4K中的鱼类名称为关键字，使用谷歌搜索引擎下载了更加清晰的图片，并对错误的图像以及边界区域进行了手工删除和切割，以此来构建了高质量的数据集，并在高质量的数据集中达到了 $9 7 . 3 \\%$ 的精度，而在原有的F4K数据集上精度仅有 $1 7 . 1 4 \\%$ ；张俊龙等[31]也对每种鱼类的图片按照清晰度和背景影响程度进行了划分，将数据集分为高、中、低品质的三个子数据集，并在高质量数据集上达到了 $9 7 . 0 \\%$ 的精度，而在中、低质量数据集上的精度为 $94 \\%$ 和 $90 \\%$ ；顾正平等人[4采用迁移学习的 $\\mathrm { C N N + S V M }$ 方法，达到了 $9 8 . 6 \\%$ 的精度，为本数据集上目前所达到的最高精度；对比前人的各项方法，交互双分支网络的准确度均有明显提高，并且不依赖任何人工提取和制作的特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/405fb7b985a8ff6bf04c3d2226c045bec7a2dee2914a979e7f1e7ea9146df438.jpg",
+        "table_caption": [
+            "表4在F4K数据集上的各个方法性能评估",
+            "Tab.4Performance evaluation of various methods on "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">the F4K dataset</td><td>/%</td></tr><tr><td>方法 精度</td><td>方法</td><td>精度</td></tr><tr><td>LDA+SVM[26]</td><td>80.4 文献[27](高质量数据集)</td><td>97.3</td></tr><tr><td>VLFeat Dense-SIFT[26] 93.5</td><td>文献[31]</td><td>97.0</td></tr><tr><td>VGG-16 81.1</td><td>文献[4]</td><td>98.6</td></tr><tr><td>Resnet 81.9</td><td>交互双分支网络</td><td>98.9</td></tr><tr><td>文献[15]</td><td>96.3</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.8视觉解释及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了更好的解释本模型，使用Grad-cam[28]算法对不同层的输出进行了视觉解释，如图6所示，热力部分代表着分类中模型感兴趣的区域，即模型的注意力区域；热力颜色越深的区域，则说明在分类中的贡献越大，所占比重就越大。图6表明，在光照条件较差的水下场景，普通的卷积层在提取特征时，由于色差较弱的原因，很容易收到目标背景的影响，误把背景当做目标进行特征提取。此外，还可以看出，在特征提取和学习时，卷积层对局部特征具有一定的捕捉能力，但不同的卷积层所关注区域有很大不同，并且在特征信息的传递中，存在着明显的特征信息丢失；而这些丢失的局部特征(如鱼类的头部、尾部、腹部，珊瑚的冠部、叶片等)在分类中确发挥着至关重要的作用；同时也证明了3.5中特征信息丢失而导致分类性能下降的推断。本模型通过促进不同的特征交互并对其进行集成，极大的提高了特征信息的利用率，并有效的去除了由于水下光线弱而导致的背景影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文基于深度学习研究了水下生物分类的算法，并基于卷积神经网络提出了具有交互和集成模块的非对称交互双分支网络模型。通过实验，在三个最常用的水下生物数据集上达到了最高的精度，这充分说明了本模型并不依赖任何人工方法，更不需要有关海洋生物领域的相关知识，便可以达到良好的分类性能。将来，将继续扩展研究，在环境条件更加恶劣、图像质量更差的场景中，如何更加有效的学习并集成多个图层特征以达到更佳的分类性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/75a3b84100b9e091cce9f71e7fe0354699351a0b684cb20b6bac9cf7eb541f08.jpg",
+        "img_caption": [
+            "图6不同层输出的视觉解释",
+            "Fig.6Visual interpretation of different layer outputs "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Huang PX,Bastiaan B,Fisher R.Hierarchical classification with reject option for live fish recognition.Machine Vision and Applications 2015, 26 (1): 89-102. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2] 杜伟东，李海森，魏玉阔．基于SVM 的多方位声散射数据协作融合 鱼分类与识别[J]．农业机械学报,2015,61(3):39-43.(Du Weidong， Li Haifeng，Wei Yukuo．Multi-azimuth acoutic scattering data cooperative fusion using SVM for fishclassification and identification [J]. Transactions ofThe Chinese Society ofAgricultural Machinery,2O15,61 (3): 39-43.)   \n[3]Tamou AB,Benzinou A,Nasreddine K,et al.Underwater Live Fish Recognition by Deep Learning [C]. International Conference on Image and Signal Processing. Springer, Cham,2018,171 (6):275-283.   \n[4]顾郑平，朱敏．基于深度学习的鱼类分类算法研究[J].计算机应用 与软件,2018,35(1):200-205.(Gu Zhengping,Zhu Min.Fish classifion algorithm bassed on depth learning [J].Computer Application and Software,2018,35(1):200-205)   \n[5]Yandex AB,Lempitsky V.Aggregating local deep features for image retrieval [J].IEEE International Conference on Computer Vision, Computer Science.2015:1269-1277.   \n[6]Lin Tsungyun,Roychowdhury A,Maji S.Bilinear CNN models for fine_grained visual[C]//IEEE International International Conference on Computer Vision,2015:1449-1457.   \n[7]Kong shu,Charless F.Low-rank bilinear pooling for fine-grained classification [C]//IEEE Conference on Computer Vision and Pattern Recognition,2017: 7025-7034.   \n[8]Lin Tsungyun,Maji S.Improved bilinear pooling with CNNs [C]//The British Machine Vision Conference,2017.   \n[9]Wei Xing，Zhang Yue,Gong Yihong，et al.Grassmann pooling as compact homogeneousbilinear pooling for fine-grained visual classification [C]/European Conference on Computer Vision,Computer Vision. 2018: 365-380.   \n[10] Gou Mengran,Xiong Fei,Octavia I C,et al.MoNet:Moments embedding network [C]// Conference on Computer Vision and Pattern Recognition,2018: 3175-3183.   \n[11]Ken C,Karen S,Andrea V,et al.Return of the devil in the details: Delving deep into convolutional nets [C]./The British Machine Vision Conference, Computer Science,2014.   \n[12] Khan H, Munawar H,Mohammed B,et al. Cost Sensitive Learning of Deep Feature Representations from Imbalanced Data.IEEE Transactions on Neural Networks and Learning Systems, 2017.   \n[13] Mahmood A，Bennamoun M,An Senjian，et al.Deep image representations for coral image classification [J].IEEE Journal of Oceanic Engineering,2018: 121-131   \n[14] Uzair N,Mohammed B,Ferdous S,et al.Deep Fusion Net for Coral Classification in Fluorescence and Reflectance Images [J]. Digital Image Computing: Techniques and Applications,2019.   \n[15] Rathi D,Indu S,Jain S,et al. Underwater fish species classification using convolutional neural network and deep learning [J].International Conference of Advances in Pattern Recognition, 2017.   \n[16] Kim JH,On KW,KimJ,et al.Hadamard product for low-rank bilinear pooling [J]. International Conference on Learning Representations.2017   \n[17] Rendle S.Factorization machines [J]. Interational Conference on Data Ming,2010:559-1000.   \n[18] Shihavuddin A,Gracias N,Garcia R,et al. Image-based coral reef classification and thematic mapping [J].Remote Sens,2013,5:1809- 1841.   \n[19] Boom B J,Huang P X,He Jiyin,et al.Supporting ground-truth annotation of image datasets using clustering [C]// International Conference on Pattern Recognition. IEEE,2012:1542-1545.   \n[20] Cui Yin,Zhou Feng,Wang Jiang,et al.Kernel Pooling for Convolutional Neural Networks [C]// 2017 IEEE Conference on Computer Vision and Pattern Recognition.[S.I.] : IEEE,2017.   \n[21] Oscar B,PeterJE,David IK,et al.Automated annotation of coral reef survey images [C]// IEEE Conference on Computer Vision and Pattern Recognition,[S.I.]: IEEE,2012:1170-1177.   \n[22] Marcos S,Saloma C A, Soriano M,et al. Classification of coral reef images from underwater video using neural networks [J]. Opt Express, 2005,13 (22): 8766-8771.   \n[23] Stokes M D,Deane G B.Automated prosessing of coral reef benthic images [J].Limnol Oceanogr Meth.2009.7 (2): 157-168.   \n[24] Oscar P,Paul R,Johnson-Roberson M,et al.Colquhoun Towards imagebased marine habitat classification [C]//OCEANS 2008,IEEE,2008:1- 7.   \n[25] Mary N A B,Dharma D. Coral reef image classification employing Improved LDPfor featureextraction [J].Journal of Visual Communication & Image Representation,2017,49 (nov.): 225-242.   \n[26] Qin Hongwei,Li Xiu,Liang Jian, et al. DeepFish: Accurate underwater live fish recognition with a deep architecture [J].Neurocomputing, 2016, 187: 49-58   \n[27] Wei Guanqun,Wei Zhiqiang,Huang Lei,et al. Robust Underwater Fish Classification Based on Data Augmentation by Adding Noises in Random Local Regions.[C]// Pacific Rim Conference on Multimedia 2018:509-518.   \n[28] Ramprasaath R.Selvaraju，Michael C,et al.Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization [C]// International Conference on Computer Vision, 2017: 1-24.   \n[29] Gao Yang,Beijbom O,Zhang Ning,et al. Compact bilinear pooling [C]// Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition,2016: 317-326.   \n[30] Ammar M,Mohammed B,An Senjian, et al. ResFeats: Residual network based features for underwater image classfication [J]. Image and Vision Computing,2020.1: Article ID 103811.   \n[31]张俊龙，曾国荪，覃如符．基于深度学习的海底观测视频中鱼类的 识别方法[J].计算机应用,2019,39(2)72-77.(Zhang Junlong,Zeng Guosun,Qin Rufu. Fish reconition method for submarine observation video based on deep learning [J].Journal of Computer Applications, 2019,39 (2) 72-77.   \n[32] Zhang Yu,Wei Xiushen,Wu Jianxin,et al.Weakly supervised finegrained categorization with part-based image representation [J]. IEEE Transactions on Image Processing,2016,25 (4):1713-1725.   \n[33] Perronnin F, Dance C.Fisher kernels on visual vocabularies for image categorization [C]// Proceedings of the 2007 IEEE Conference on Computer Vision and Pattern Recognition. Minneapolis,USA:IEEE, 2007.1-8.   \n[34] Simon M,Rodner E.Neural activation constellations: unsupervised part model discovery with convolutional networks $[ \\mathrm { C } ] / \\AA$ Proceedings of the 15th IEEE International Conference on Computer Vision.Santiago, Chile: IEEE,2015.1143-1151. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

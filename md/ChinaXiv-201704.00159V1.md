@@ -1,0 +1,205 @@
+# DOI: 10.5846/stxb201511112280
+
+文海燕，傅华，郭丁.黄土高原典型草原优势植物凋落物分解及养分释放对氮添加的响应.生态学报,2017,37(6)：2014-2022.WenHY,Fuieodelocated on the Loess Plateau.Acta Ecologica Sinica,2017,37(6):2014-2022.
+
+# 黄土高原典型草原优势植物调落物分解及养分释放对氮添加的响应
+
+文海燕\*，傅华，郭丁兰州大学草地农业科技学院,草地农业生态系统国家重点实验室，兰州730020摘要：利用原位分解袋法研究了黄土高原典型草原优势植物长芒草（Stipa bungeana）和阿尔泰狗娃花（Heteropappus altaicus）调落物的养分释放过程对氮添加的响应,试验周期为 $\mathrm { ~ 1 ~ a ~ } _ { \mathfrak { c } }$ 。设置6个氮添加水平,分别为 $\mathrm { N 0 ( 0 ) } \ \mathrm { J 1 } ( 1 . 1 5 \ \mathrm { g } \mathrm { ~ N ~ m } ^ { - 2 } \ \mathrm { a } ^ { - 1 } \ \cdot$ ） $\Omega ( 2 . 3 \textrm { g N }$ $\mathbf { m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ ） $. \mathrm { N } 3 ( 4 . 6 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 }$ ） $\mathrm { . N 4 } ( 9 . 2 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 } \mathrm { ~ . ~ }$ 和N5( $1 3 . 8 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 } .$ ),氮素类型为尿素 $( \ ( \ \mathrm { N H } _ { 2 } ) \ O _ { 2 } \mathrm { C O } )$ 。结果表明：(1)氮添加处理两年显著改变了长芒草和阿尔泰狗娃花凋落物的初始化学性质。随着氮梯度的增加,凋落物的N(氮)含量逐渐增加，木质素含量先增加后下降， $\mathrm { C } / \mathrm { N }$ (碳氮比)和木质素/N降低,C(碳）、P(磷)和 $\mathrm { C } / \mathrm { P }$ (碳磷比)没有显著的差异。(2)氮处理对长芒草和阿尔泰狗娃花凋落物的分解速率的影响不显著。长芒草和阿尔泰狗娃花凋落物C含量随分解时间整体为降低过程,N和P含量总体上为增加过程,且整个分解过程中N含量各处理间差异显著。（3)氮处理对长芒草和阿尔泰狗娃花凋落物C和 $\mathrm { ~ \bf ~ P ~ }$ 的分解基本无影响,两种元素都呈现释放过程。氮处理对凋落物的N残留率有显著的影响,在 $\mathrm { N 1 { - } N 3 ( 1 . 1 5 { - } 4 . 6 ~ g / m ^ { 2 } ) }$ 处理下的长芒草凋落物N残留率高于其他处理,且呈现富集过程;而阿尔泰狗娃花凋落物中的N呈现富集-释放过程。在土壤养分贫瘠的黄土高原典型草原,适量的氮输入可以促进系统的固氮。
+
+关键词：氮添加；草原;凋落物;养分释放;黄土高原
+
+# Influence of nitrogen addition on Stipa bungeana and Heteropappus altaicus litter decomposition and nutrient release in a steppe located on the Loess Plateau
+
+WEN Haiyan\*，FU Hua，GUO Ding Colegefstat
+
+Abstract：Arise in nitrogen（N）deposition can increasenet primary productivity in many terrestrial ecosystems.Liter decompositininterestrial ecosystems isanimportantcomponentof globalcarbon（C）budgetsand isgreatlyaffcted by the increase in N deposition that has been recorded worldwide.Grassland covers $4 6 \%$ of the global terrestrial area and can havean important efecton global C，and nutrient cyclingand balances.Wehypothesized that liter decompositionand nutrientreleasemayrespond toNdepositiondiferentlybasedonthequalityof thelitersubstrate.Toinvestigatetheffect of increased Ndeposition onnutrientrelease during liter decomposition，weconductedaone-year field experiment that simulated N deposition in a steppe located on the Loess Plateau. There were six $\mathrm { \Delta N }$ treatments included in the experiment. These were $0 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 }$ ， $1 . 1 5 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 }$ ， $2 . 3 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 }$ ， $4 . 6 \textrm { g N m } ^ { - 2 } \textrm { a } ^ { - 1 }$ ， $9 . 2 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 }$ ，and $1 3 . 8 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 }$ ： After 2-yearsof Ntreatment，theNcontents inthe Stipa bungeanaand Heteropappus altaicus liters increasedand the C/N andlignin/Nratiosgraduallydeclined.Furthermore，the lignin firstincreased，butthen decreased.Noneof theN treatments hadasignificanteffectonthedecompositionratesof thetwolitersafteroneyearof in-situ decomposition.Our results idicated thatthere were significantcorrelations between theliterdecompositionratesandtheNcontentand C/N ratio for Stipa bungeana litter. The C content decreased over time，but the N and $\mathrm { \Delta P }$ contents increased as the two litters decomposed.TheN treatments significantly influenced theNcontentsof the two liters during decomposition.TheN treatmentsalsoinfluencedthepercentageNremainingin thetwo liters.Afterin-situdecompositionforoneyear，the percentage N remaining in Stipa bungeana under the 1.15，2.3，and $4 . 6 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 }$ treatments were higher than for the othertreatmentsand this percentagerose astheprocess progressd.The Nrelease patern in Heteropappus altaicus showed that Naccumulated during theearlystages and was releasedduringlater stages.TheNtreatments hadno significant ffects on C and $\mathrm { P }$ decomposition，and the C and $\mathrm { P }$ release patterns were similar in the two litters.Therefore，increased N deposition could contribute to the accumulation of C in a grassland ecosystem.
+
+Key Words:nitrogen addition；steppe；litter；nutrient release；Loess Plateau
+
+工业革命以来由于化石燃料的燃烧和化肥的施用,使生态系统中氮的输入量增加了近3到5倍,且呈持续上升的趋势[1]。大多数生态系统均受氮素限制,所以氮沉降会直接影响生物圈的氮循环,并且通过氮输入的增加影响植物生产力和生态系统碳蓄积能力,从而使生态系统的结构和功能发生改变[2]。
+
+凋落物是分解者亚系统的重要组成部分，将生产者和消费者两个环节联结起来。凋落物动态影响着植物萌发、群落结构和演替,在改善生态环境及土壤理化性状、能量流动和营养循环过程中起着重要作用[3。近年来,国内外许多学者对模拟氮沉降条件下的凋落物的分解过程进行了研究,发现氮沉降增加对植物凋落物分解的影响并不一致[46]。植物凋落物的分解是形成土壤有机质的初期过程,影响着土壤的呼吸过程且凋落物分解所释放的各种养分对植物的生长具有十分关键的调控作用。因此氮沉降增加对凋落物分解过程的影响,将在一定程度上影响着土壤肥力及生态系统初级生产力。
+
+草原生态系统是陆地生态系统中最重要、分布最广的生态系统类型之一,由于草原生态系统的脆弱性及其对气候变化响应的敏感性,决定了它在陆地生态系统的元素和能量循环研究中的独特地位及重要性。然而,由于氮沉降问题的提出以及后续科学研究主要集中于欧洲和北美,因此氮沉降研究主要关注森林生态系统;对氮沉降的增加如何影响草原生态系统凋落物的分解过程仍不十分清楚。因此，本研究以在黄土高原典型草原已实施两年模拟氮沉降的样地为研究对象,研究了氮添加梯度下两种优势植物长芒草（Stipabungeana)和阿尔泰狗娃花（Heteropappus altaicus）凋落物的分解速率和元素残留率的变化规律,以期阐明氮沉降对黄土高原典型草原凋落物分解过程的影响,为该区草原生态系统的管理和氮沉降的深入研究提供基础资料。
+
+# 1材料与方法
+
+# 1.1 试验地概况
+
+研究地点位于甘肃省榆中县兰州大学黄土高原国际地面气候与环境监测站围封草地内,地处 $3 5 ^ { \circ } 5 7 ^ { \prime } \mathrm { N }$ $1 0 4 ^ { \circ } 0 9 ^ { \prime } \mathrm { E }$ ,该地区地貌为黄土高原残塬梁峁沟壑，属于大陆性半干旱气候,海拔为 $1 9 6 5 . 8 \mathrm { ~ m ~ }$ ，年均降水量为382$\mathbf { m } \mathbf { m }$ ,年均蒸发量 $1 3 4 3 ~ \mathrm { m m }$ ,年均气温 $6 . 7 \%$ ,年日照时数大约 $2 \ 6 0 0 \ \mathrm { h }$ ,无霜期90一 $1 4 0 \mathrm { ~ d ~ }$ 。土壤类型为灰钙土,植被类型为黄土高原半干旱草原,主要植物有长芒草（Stipa bungeana）、阿尔泰狗娃花（Heteropappus altaicus）、赖草(Leymus secalinus)等,各物种的重要值见表1。
+
+# 1.2 试验设计
+
+选择地势平缓地形(海拔、坡向)一致的地段,选取面积为 $4 ~ \mathrm { h m } ^ { 2 }$ 的围封草地(2005 年开始围封）。小区面积 $4 \mathrm { m } { \times } 5 \mathrm { m } , 6$ 个氮素添加处理,每处理5个重复,30个小区,完全随机区组设计。氮素梯度分别为NO(O）、N10 $\cdot 1 . 1 5 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 }$ ） ${ \mathrm { . } } \mathrm { N } 2 { \left( 2 . 3 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 } \right. }$ ） $. \mathrm { N } 3 ( 4 . 6 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 }$ ） $\mathrm { . N 4 ( 9 . 2 \ g \ N \ m ^ { - 2 } \ a ^ { - 1 } \Sigma ) }$ 和N5( $1 3 . 8 \mathrm { ~ g ~ N ~ m ~ } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 } ,$ ）
+
+于2009年开始实施氮素梯度处理,氮肥选用尿素( $( \mathrm { \ N H } _ { 2 } ) _ { 2 } \mathrm { C O } ^ { \cdot }$ ）,施加时间为每年的6月底。为减少氮素的损失,选择在下雨时进行氮添加。添加的具体方法：将尿素溶解于 $^ { 5 \mathrm { ~ L ~ } }$ 水中,用洒壶均匀喷洒在每个小区内,洒壶喷洒等量水在对照样地。
+
+表1试验地群落的物种组成及其重要值  
+Table 1Species composition and its importance value of community in experimental site   
+
+<html><body><table><tr><td>物种 Species</td><td>重要值 Importance value</td><td>物种 Species</td><td>重要值 Importance value</td></tr><tr><td>长芒草 Stipa bungeana</td><td>0.401</td><td>黄花蒿 Artemisia annua</td><td>0.073</td></tr><tr><td>阿尔泰狗娃花 Heteropappus altaicus</td><td>0.196</td><td>狭叶米口袋 Gueldenstaedtia stenophylla</td><td>0.069</td></tr><tr><td>赖草Leymus secalinus</td><td>0.181</td><td></td><td></td></tr></table></body></html>
+
+重要值 $\mathbf { \Sigma } = \mathbf { \Sigma }$ （相对密度 $^ +$ 相对高度 $^ +$ 相对盖度）/3
+
+为了保证试验材料的来源,2010年12月22日从30个处理小区内分别齐地面收集长芒草和阿尔泰狗娃花的立枯物,作为供试凋落物材料[7]。将凋落物在室温下晾至恒重后,将植物剪成 $5 \ \mathrm { c m }$ 长的片段,准确称取$2 { \mathrm { ~ g ~ } }$ ,分别装进 $1 0 \ \mathrm { c m } { \times } 1 0 \ \mathrm { c m }$ 的尼龙网袋中（网眼大小为 $1 ~ \mathrm { m m } ^ { 2 }$ )。每个小区每种凋落物制成4个分解袋,为试验准备分解袋240个。
+
+2011年1月12日,将各氮处理生产的凋落物放在各原处理的小区中用竹签固定;分别于2011年的4月12日（已分解3个月）、7月12日（已分解6个月）、10月12日（已分解9个月)和2012年1月12日（已分解12个月）,分4次每个小区每种植物取一袋。在实验室中,用手捡出混进分解网袋中的其它植物的材料、小石头和钻进网袋的小动物等。从分解网袋中取出凋落物后,将其装在信封中放于烘箱中在 $6 5 ~ \mathrm { { ^ { \circ } C } }$ 下烘 $^ { 4 8 \mathrm { ~ h ~ } }$ 称重,由此得到分解一段时间后的残留重量。称重后将凋落物粉碎用于分析其成分含量。
+
+# 1.3 样品分析
+
+碳(C）氮(N)采用元素分析仪(FlashEA1112，USA）,磷(P)采用微波消解-钼蓝比色法,木质素含量采用Detergent 法[8]。
+
+1.4 数据分析
+
+（1）凋落物干物质残留率 $( \% )$
+
+式中， $M _ { 0 }$ 为凋落物的初始干重 $\mathbf { \Psi } ( \mathbf { g } ) \mathbf { \Psi } , M _ { t }$ 是 $\mathbf { \chi } _ { t }$ 时刻凋落物分解袋中剩余样品的干重 $\mathbf { \tau } ( \mathbf { g } )$ 。
+
+（2）凋落物分解速率 $( k )$
+
+按照Olson 指数衰减模型[9]模拟凋落物分解过程,计算凋落物分解系数 $( \mathbf { k } )$ ：
+
+$$
+M _ { t } / M _ { 0 } = \mathrm { e } ^ { - 1 k t }
+$$
+
+式中， $k$ 为凋落物分解系数， $\mathbf { \chi } _ { t }$ 为分解时间。
+
+（3）元素残留率 $( R )$
+
+$$
+R = ( C _ { t } { \times } M _ { t } ) / ( C _ { 0 } { \times } M _ { 0 } ) { \times } 1 0 0 \%
+$$
+
+式中， $C _ { t }$ 为 $\mathbf { \chi } _ { t }$ 时刻凋落物元素含量 $( { \bf g } / { \bf k g } )$ ， $C _ { 0 }$ 为初始元素含量 $( { \bf g } / { \bf k g } )$ 。
+
+数据采用 SPSS 16.0软件进行统计分析,选用单因素方差分析（ANOVA)判断氮添加处理间各调落物各性状的差异，LSD 法进行多重比较。采用Excel制图。
+
+# 2结果与分析
+
+# 2.1 凋落物的初始化学性质(干基)
+
+氮添加处理2年后,长芒草和阿尔泰狗娃花凋落物的初始化学性质有明显的差异(表2）。随着氮梯度的增加,长芒草和阿尔泰狗娃花调落物的N 含量逐渐增加,木质素含量呈现先增加后下降的趋势,C、P 和C/P(碳磷比)没有显著的差异,C/N(碳氮比)和木质素/N降低。长芒草凋落物的 $_ { \textrm { N } , \textrm { P } }$ 和木质素含量低于阿尔泰
+
+http://www.ecologica.cn
+
+狗娃花凋落物。
+
+Table 2Initial chemical properties of the two litters   
+
+<html><body><table><tr><td>物种 Species</td><td>处理 Treatments</td><td>C /（g/kg)</td><td>N /（g/kg)</td><td>P /（g/kg)</td><td>木质素Lignin /（g/kg)</td><td>C/N</td><td>C/P</td><td>木质素/N Lignin/N</td></tr><tr><td>长芒草</td><td>N0</td><td>441.8±5.8 a</td><td>2.77±0.28 c</td><td>0.57±0.05 a</td><td>37.14±4.78 bc</td><td>161.54±17.70 a</td><td>765.03±60.32 a</td><td>13.42±3.62 ab</td></tr><tr><td> Stipa bungeana</td><td>N1</td><td>440.3±3.7 a</td><td>2.91±0.35 c</td><td>0.65±0.07 a</td><td>44.31±4.96 a</td><td>152.97±17.28 a</td><td>680.04±67.34 a</td><td>14.28±1.25 a</td></tr><tr><td></td><td>N2</td><td>444.6±5.4 a</td><td>3.83±0.62 b</td><td>0.56±0.07 a</td><td>43.10±2.19 ab</td><td>118.61±19.10 b</td><td>806.53±100.94 a</td><td>11.74±3.83 bc</td></tr><tr><td></td><td>N3</td><td>444.1±2.9 a</td><td>4.44±0.52 b</td><td>0.60±0.08 a</td><td>39.44±5.46 abc</td><td>101.42±12.74 c</td><td>751.07±99.10 a</td><td>9.08±2.03 c</td></tr><tr><td></td><td>N4</td><td>443.4±1.9 a</td><td>6.29±0.46 a</td><td>0.59±0.07 a</td><td>36.31±6.25 c</td><td>70.76±4.14 d</td><td>758.13±96.19 a</td><td>5.81±1.11 d</td></tr><tr><td></td><td>N5</td><td>448.5±4.5 a</td><td>5.95±0.58 a</td><td>0.63±0.10 a</td><td>33.34±5.99 c</td><td>75.89±7.18 d</td><td>732.90±143.99 a</td><td>5.58±0.71 d</td></tr><tr><td>阿尔泰狗娃花</td><td>N0</td><td>442.0±5.8 a</td><td>5.76±0.42 b</td><td>0.91±0.06 a</td><td>87.18±5.34 ab</td><td>77.11±5.82 a</td><td>487.51±24.29 a</td><td>14.59±1.14 ab</td></tr><tr><td>Heteropappus</td><td>N1</td><td>446.8±4.2 a</td><td>5.84±0.67 b</td><td>0.91±0.10 a</td><td>89.22±5.66 a</td><td>77.26±8.85 a</td><td>495.97±46.80 a</td><td>14.24±0.34 a</td></tr><tr><td>altaicus</td><td>N2</td><td>445.9±3.2 a</td><td>6.08±0.48 b</td><td>0.82±0.07 a</td><td>91.06±2.24 a</td><td>73.58±4.80 a</td><td>550.57±53.84 a</td><td>14.96±0.48 a</td></tr><tr><td></td><td>N3</td><td>446.2±3.3 a</td><td>6.17±0.68 b</td><td>0.87±0.09 a</td><td>93.30±6.39 a</td><td>73.00±8.37 a</td><td>520.62±55.97 a</td><td>14.17±0.76 a</td></tr><tr><td></td><td>N4</td><td>445.5±2.4 a</td><td>7.07±0.79 a</td><td>0.81±0.04 a</td><td>92.40±2.95 a</td><td>63.66±7.82 b</td><td>549.42±27.80 a</td><td>13.63±0.99 b</td></tr><tr><td></td><td>N5</td><td>446.0±4.1 a</td><td>7.25±0.88 a</td><td>0.86±0.04 a</td><td>81.28±5.78 b</td><td>62.19±7.90 b</td><td>522.09±9.28 a</td><td>11.26±0.75 c</td></tr></table></body></html>
+
+小写字母表示氮处理间的比较,字母不同者表示差异显著( $P { < } 0 . 0 5 )$
+
+# 2.2氮添加对凋落物干物质残留率和分解速率的影响
+
+随着分解时间延长，长芒草和阿尔泰狗娃花凋落物的干物质残留率均呈逐渐下降趋势(图1)。分解12个月后,两种凋落物的干物质残留率没有显著的差异。
+
+![](images/46242cd5f01b4e06ac234da7976b282c0a2a8f8cd6af509ec672b03fb12bacde.jpg)  
+图1氮处理对调落物干物质残留率的影响( $* \ P { < } 0 . 0 5$ ）  
+Fig.1Percentages of mass remaining in the different nitrogen（N）treatments for the two litters $\stackrel { \prime } { \ast } P { < } 0 . 0 5$ ）
+
+表2调落物的初始化学性质(干基)  
+表3氮处理对调落物年分解常数 $( k )$ 的影响  
+Table 3Effects of nitrogen（N）treatments on annual decomposition rates $( k )$ of the two litters   
+
+<html><body><table><tr><td rowspan="2">处理 Treatments</td><td colspan="2">年分解常数 k Annual decomposition rate/a-1</td></tr><tr><td>长芒草 Stipa bungeana</td><td>阿尔泰狗娃花 Heteropappus altaicus</td></tr><tr><td>N0</td><td>0.31±0.05 a</td><td>0.59±0.09 a</td></tr><tr><td>N1</td><td>0.32±0.04 a</td><td>0.60±0.04 a</td></tr><tr><td>N2</td><td>0.33±0.07 a</td><td>0.68±0.03 a</td></tr><tr><td>N3</td><td>0.32±0.03a</td><td>0.57±0.07 a</td></tr><tr><td>N4</td><td>0.39±0.04 a</td><td>0.60±0.07 a</td></tr><tr><td>N5</td><td>0.37±0.05a</td><td>0.57±0.06 a</td></tr></table></body></html>
+
+分解常数 $k$ 值的生态学意义是 $k$ 值越大,凋落物的分解速率越快[10]。从表3可以看出，阿尔泰狗娃花凋落物的年分解速率均快于长芒草凋落物的年分解速率,它们的分解过程都可以很好的用Olson的指数方程进
+
+行模拟；长芒草和阿尔泰狗娃花 $k$ 值的范围分别为0.31—0.38和0.57—0.68，各处理间两种植物凋落物都无显著的差异。
+
+表4调落物年分解常数 $( k )$ 与其初始化学性质(干基)的相关性  
+Table 4Relationships between the annual decomposition（k）rates and initial chemical properti   
+
+<html><body><table><tr><td>物种 Species</td><td>C/ （g/kg）</td><td>N/ （g/kg)</td><td>P/ （g/kg)</td><td>C/N</td><td>C/P</td><td>木质素/（g/kg) Lignin</td><td>木质素/N Lignin/N</td></tr><tr><td>k(长芒草) k( Stipa bungeana)</td><td>-0.223</td><td>0.427 *</td><td>-0.116</td><td>-0.433 *</td><td>0.081</td><td>-0.135</td><td>-0.383</td></tr><tr><td>k(阿尔泰狗娃花) k( Heteropappus altaicus）</td><td>-0.01</td><td>-0.31</td><td>0.007</td><td>0.154</td><td>-0.001</td><td>-0.335</td><td>0.052</td></tr></table></body></html>
+
+从表4可以看出,长芒草凋落物的分解速率与其初始N含量呈显著正相关关系( $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } _ { \cdot } { \cdot } _ { \cdot } { \cdot } _ { \cdot } { \cdot } _ { \cdot }$ ,与C/N呈显著负相关关系( $P { < } 0 . 0 5 )$ ;阿尔泰狗娃花凋落物的分解速率与其初始化学组成没有显著的相关关系。
+
+# 2.3氮添加对凋落物分解过程C、N、P含量的影响
+
+从图2可以看出,长芒草凋落物的C含量呈现分解前3个月增加,3—9个月急剧减少,9—12个月略有增加的趋势;N含量在整个分解过程中总体呈现上升的趋势,且分解过程中各处理间都有显著的差异( $P <$ 0.05）;P含量在0—3月各处理都降低,3—9月增加,9—12月各处理变化不一致。
+
+![](images/b3d6af12e00c687a73dbfa63831b6089ab79ed6d45ae242a3fca0ed34b427539.jpg)  
+图2氮处理对长芒草分解过程C、N、P含量的影响  
+Fig.2Effects of nitrogen（N） treatments on carbon（C），Nand phosphorus（P）contents of Stipa bungeana
+
+从图3可知,阿尔泰狗娃花凋落物的C 含量呈现上升-下降-上升的趋势;N含量0—3月各处理都增加,3—6月减少,6—12月各处理变化不一致。阿尔泰狗娃花P含量呈现“M"形状的变化规律,各处理只在分解9月和12月有显著的差异( $P { < } 0 . 0 5 )$ 。综合图2和图3可以发现,总体来看长芒草和阿尔泰狗娃花的C含量呈下降的趋势,N和 $\mathrm { ~ \bf ~ P ~ }$ 含量呈现增加的趋势。
+
+http://www.ecologica.cn
+
+![](images/8a5257753ed9808d454357bf13eb9439f9efb19283aa0f2e86f01bfff05c847e.jpg)  
+图3氮处理对阿尔泰狗娃花分解过程C、N、P含量的影响
+
+Fig.3Efects of nitrogen（N）treatments oncarbon（C），Nand phosphorus（P）contents of Heteropappus altaicus
+
+2.4氮添加对调落物分解过程 $\mathrm { ~ C ~ } , \mathrm { { N } , \mathrm { { P } } }$ 元素残留率的影响
+
+由表5可知,凋落物分解12个月后,氮处理对长芒草凋落物C和P残留率基本无显著影响;氮处理对长芒草凋落物的N残留率有显著的影响( $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ )。分解1年后，在N1—N3 处理下的凋落物N残留率高于其他处理，且呈现富集过程。
+
+表5氮处理对长芒草分解过程元素残留率的影响  
+Table5Percentagesofcarbon（C），nitrogen（N）andphosphorus（P）remaininginthediferentNtreatmentsforStipabungeana  
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td rowspan="2">处理 Treatments</td><td colspan="4">分解时间 Decomposition time/months</td></tr><tr><td>3</td><td>6</td><td>9</td><td>12</td></tr><tr><td rowspan="5">C残留率/% C remaining rate</td><td>N0</td><td>96.80±2.65 a</td><td>89.38±3.07 a</td><td>64.95±1.62 b</td><td>65.47±4.01 a</td></tr><tr><td>N1</td><td>100.45±5.01 a</td><td>87.97±3.42 ab</td><td>73.84±3.18 a</td><td>65.05±1.47 a</td></tr><tr><td>N2</td><td>102.35±1.92 a</td><td>87.69±4.20 ab</td><td>68.73±4.51 ab</td><td>65.43±3.19 a</td></tr><tr><td>N3</td><td>101.62±1.43 a</td><td>81.37±6.40 c</td><td>65.01±6.32 b</td><td>63.91±3.13 a</td></tr><tr><td>N4</td><td>99.53±2.00 a</td><td>84.92±2.73 abc</td><td>67.63±3.05 b</td><td>63.42±3.25 a</td></tr><tr><td rowspan="6">N残留率/% N remaining rate</td><td>N5</td><td>98.89±4.12 a</td><td>83.34±4.69 bc</td><td>67.81±3.51 b</td><td>62.46±2.74 a</td></tr><tr><td>NO</td><td>119.64±13.34 a</td><td>124.53±15.79 a</td><td>125.62±29.86 ab</td><td>117.13±8.14 bc</td></tr><tr><td>N1</td><td>108.88±10.36 a</td><td>124.68±17.18 a</td><td>139.12±11.20 a</td><td>150.09±30.16 a</td></tr><tr><td>N2</td><td>107.42±13.15 a</td><td>113.27±11.72 ab</td><td>121.15±13.15 abc</td><td>138.74±25.04 ab</td></tr><tr><td>N3</td><td>97.71±13.35 a</td><td>101.79±14.71 b</td><td>105.55±9.12 bc</td><td>135.91±3.62 ab</td></tr><tr><td>N4</td><td>108.23±7.44 a</td><td>96.24±9.38 b</td><td>100.71±15.06 c</td><td>100.57±12.71 c</td></tr><tr><td rowspan="6">P残留率/% P remaining rate</td><td>N5</td><td>117.20±14.73 a</td><td>114.19±12.73 ab</td><td>106.46±15.13 bc</td><td>104.09±15.70 c</td></tr><tr><td>NO</td><td>91.52±9.40 a</td><td>109.32±8.04 a</td><td>104.91±5.60 a</td><td>90.57±14.12 a</td></tr><tr><td>N1</td><td>86.12±16.98 a</td><td>79.96±12.19 b</td><td>88.15±15.08 bc</td><td>82.03±10.37 a</td></tr><tr><td>N2</td><td>93.37±5.95 a 85.93±7.32 a</td><td>106.73±9.97 a 79.19±13.33 b</td><td>93.34±12.50 ab</td><td>87.97±8.88 a</td></tr><tr><td>N3 N4</td><td></td><td>77.22±7.07 b</td><td>90.84±9.66 b</td><td>86.38±8.66 a</td></tr><tr><td>N5</td><td>86.04±9.64 a 83.95±20.71 a</td><td>81.26±13.02 b</td><td>93.48±12.79 ab 77.72±10.30 c</td><td>69.04±8.03 a 68.26±16.38 a</td></tr></table></body></html>
+
+http://www.ecologica.cn
+
+从表6可以看出,氮处理对阿尔泰狗娃花凋落物分解过程中C和P残留率基本无显著影响,分解3个月 和6个月时N3—N5处理凋落物N残留率显著高于对照( $P { < } 0 . 0 5 )$ ,且3个月时呈富集过程，分解后期各处理 间无显著差异。
+
+表6氮处理对阿尔泰狗娃花分解过程元素残留率的影响  
+Table6Percentagesofcarbon（C），itrogen（N）andphosphorus（P）remaininginthediferentNtreatmentsforHeteropappusltaicus  
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td rowspan="2">处理 Treatments</td><td colspan="4">分解时间 Decomposition time/months</td></tr><tr><td>3</td><td>6</td><td>9</td><td>12</td></tr><tr><td rowspan="5">C残留率/% C remaining rate</td><td>NO</td><td>85.53±3.94 bc</td><td>70.19±3.21 a</td><td>54.51±1.62 a</td><td>53.43±4.37 a</td></tr><tr><td>N1</td><td>90.81±3.87 a</td><td>74.56±2.73 a</td><td>52.73±4.05 a</td><td>52.67±2.60 a</td></tr><tr><td>N2</td><td>82.38±1.84 c</td><td>66.86±10.40 a</td><td>51.62±6.40 a</td><td>48.64±2.42 a</td></tr><tr><td>N3</td><td>88.89±3.94 ab</td><td>72.70±1.80 a</td><td>53.94±5.85 a</td><td>53.90±2.94 a</td></tr><tr><td>N4</td><td>86.65±2.43 ab</td><td>69.71±0.93 a</td><td>55.20±0.33 a</td><td>53.36±1.99 a</td></tr><tr><td rowspan="6">N残留率/% N remaining rate</td><td>N5</td><td>87.11±2.95 ab</td><td>75.31±3.65 a</td><td>57.51±3.18 a</td><td>54.31±2.74 a</td></tr><tr><td>N0</td><td>98.92±12.33 c</td><td>75.04±9.53 c</td><td>87.04±5.24 a</td><td>80.54±6.63 a</td></tr><tr><td>N1</td><td>111.73±18.43 abc</td><td>88.18±10.48 bc</td><td>81.66±10.36 a</td><td>77.27±11.73 a</td></tr><tr><td>N2</td><td>106.93±13.62 bc</td><td>87.60±12.30 bc</td><td>85.83±9.83 a</td><td>74.01±12.48 a</td></tr><tr><td>N3</td><td>134.28±25.69 a</td><td>94.75±12.70 ab</td><td>90.55±8.39 a</td><td>84.48±15.06 a</td></tr><tr><td>N4</td><td>124.34±19.39 ab</td><td>91.30±6.61 ab</td><td>84.47±6.68 a</td><td>84.21±4.55 a</td></tr><tr><td rowspan="7">P残留率/% P remaining rate</td><td>N5</td><td>133.68±16.70 a</td><td>104.54±14.92 a</td><td>91.47±13.92 a</td><td>76.60±10.38 a</td></tr><tr><td>N0</td><td>86.58±11.97 a</td><td>71.56±8.54 a</td><td>67.00±9.14 a</td><td>67.79±6.63 a</td></tr><tr><td>N1</td><td>97.17±25.52 a</td><td>80.62±11.83 a</td><td>64.99±9.07 a</td><td>55.36±3.94 a</td></tr><tr><td>N2</td><td>103.73±12.19 a</td><td>82.56±11.94 a</td><td>81.49±12.85 a</td><td>58.93±2.28 a</td></tr><tr><td>N3</td><td>91.79±12.96 a</td><td>68.78±9.40 a</td><td>73.72±8.32 a</td><td>59.89±14.39 a</td></tr><tr><td>N4</td><td>88.05±8.82 a</td><td>77.09±15.07 a</td><td>73.91±11.96 a</td><td>65.67±7.07 a</td></tr><tr><td>N5</td><td>95.48±20.08 a</td><td>81.24±11.01 a</td><td>70.92±6.02 a</td><td>60.60±11.52 a</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1凋落物的初始化学组成对氮添加的响应
+
+凋落物的初始化学组成对氮添加有着不同的响应,挪威云杉叶片凋落物的N 含量与N 的施用量成正比,凋落物的N 含量从对照的 $4 . 2 ~ \mathrm { m g / g }$ 加到高N 处理的 $1 8 . 3 ~ \mathrm { m g / g }$ ,木质素含量从 $3 0 0 ~ \mathrm { m g / g }$ 增加到 $4 0 7 ~ \mathrm { { m g / g ^ { [ 1 1 ] } } }$ 。但是对两个土壤养分状况有差异的草地进行了12年的施氮肥试验,发现施氮肥几乎对凋落物的化学组成没有影响[12]。也有研究发现施氮肥6个月后,3种高草草原植物叶片凋落物的木质素含量稍微下降[13]。本研究结果表明,随着氮梯度的递增,长芒草和阿尔泰狗娃花的初始N含量都显著增加( $P { < } 0 . 0 5 \mathrm { ) }$ ，C和 $\mathrm { ~ \bf ~ P ~ }$ 含量没有显著的影响（表2）。而两种凋落物的木质素含量随着氮梯度的增加呈现先增加后下降的趋势（表2）,有研究表明氮素能够影响木质素合成关键酶的活性,适量的氮会增加小麦和水稻茎的木质素含量,而过多的氮则降低了茎秆木质素合成相关酶的活性和木质素含量[14-16]。
+
+# 3.2氮处理对凋落物分解过程的影响
+
+影响凋落物分解的主要因素有内在和外在因素,内在因素是指凋落物自身的物理和化学性质;外在因素是指凋落物分解过程发生的外部环境,包括参与分解的异养微生物、土壤动物、土壤理化性质、水热条件等外界环境[17]。一般认为,氮沉降改变了凋落物的化学组成成分,进而影响凋落物的分解速率[18]。而本研究发现氮处理虽然增加了凋落物的初始N含量,改变了凋落物的C/N和木质素含量(表2),但是氮处理下只有长芒草凋落物的初始N含量，C/N与其分解速率有显著的相关关系( $P { < } 0 . 0 5 )$ ,阿尔泰狗娃花的初始化学组成和其分解速率并无显著的相关关系（表4),因此研究结果表明凋落物的分解速率与其初始化学组成之间的相关关系因研究的凋落物类型的不同而存在差异,并且氮处理引起的外在因素的改变可能会改变凋落物的分解
+
+规律。
+
+通过对黄土高原典型草原进行为期一年的模拟氮沉降试验,研究结果表明,凋落物的C含量总体呈现降低的趋势,但是氮处理对分解一年后的两种凋落物的C含量和释放过程均没有显著的影响。在一些森林、湿地和草地生态系统中发现,氮添加促进了微生物的活性[19];而其它研究发现抑制了微生物的活性[20],或者影响不明显[21]。这些结果很不一致,其部分原因可能是由于微生物群落的组成差异以及酶系统对氮增加的响应差异所引起的。Waldrop等[22」认为,氮添加对含顽拗凋落物（Recalcitrant Litter)较多、以白腐真菌为主要分解者的生态系统的影响是逆向的,而对含有易分解凋落物、维持不同真菌种群(如软腐真菌)的生态系统的影响是正向的。因此,氮处理对凋落物分解过程中C含量的影响是非常复杂的,既决定于生态系统分解者的种类和活性，也受到气候、植物种及环境条件等多种因素的影响。
+
+尽管在试验中,氮处理对长芒草凋落物的年分解速率没有显著的影响(表3）,但是N1—N3 处理(1.15—$4 . 6 ~ \mathrm { g } / \mathrm { m } ^ { 2 }$ )却显著增加了N素的固定（表5)。有研究者认为积累在凋落物中的N是一种“过度摄取”,并不是所有固定的N都是分解者微生物所必需的。在富含N的底物降解的过程中,每释放出一单位的 $\mathrm { C O } _ { 2 }$ ,微生物都需要固定更多的N,所以在分解过程中会一直表现出对N的积累,直至易分解的C被完全分解[23]。微生物所固定的N,其中一部分会被单宁沉淀,固定在木质素或酸-不溶性物质中,而不是被固定在微生物量中[24]。尽管养分的固持暂时打破了分解过程中养分的矿化,却为低养分或退化生态系统中养分的固定提供了一个重要的机制[25-26]。长芒草是黄土高原典型草原的优势种,在群落中的重要值为0.401（表1),其生物量占到总生物量的 $5 0 \%$ 以上[27],所以在该生态系统低浓度的氮沉降增加可以增加系统的固N量。
+
+# 4结论
+
+1a 的凋落物分解试验表明,氮添加对长芒草和阿尔泰狗娃花凋落物的分解速率无显著的影响。两种凋落物的C 含量随分解时间整体为降低过程,N含量都表现为增加趋势,且整个分解过程中各处理间差异显著，P含量总体上为增加过程。氮添加对两种凋落物C和P的分解过程基本无影响,两种元素呈现释放过程。但是氮处理对长芒草凋落物的N残留率有显著的影响,经过1a的分解,N1—N3处理下的长芒草凋落物中N残留率高于其他处理,且呈现富集过程。因此,在土壤养分贫瘠的黄土高原典型草原,适量的氮输入可以促进系统的固氮。氮沉降对草原生态系统的影响是一个长期的过程,本试验仅仅是对1a的数据进行分析,初步揭示了凋落物的分解过程对氮沉降的响应。因此,要确切了解氮沉降对黄土高原典型草原凋落物分解的影响还需长期的定位监测。
+
+# 参考文献（References）：
+
+[1]GalowJoweR,risJend,CiZC,reey,ieliL,eitzngerS,ut.asfofnitrogen cycle：recent trends，questions，and potential solutions.Science,2008，320(5878）：889-892.  
+[2］吕超群，田汉勤，黄耀.陆地生态系统氮沉降增加的生态效应.植物生态学报,2007,31(2):205-218.  
+［3］蒋有绪.川西亚高山冷杉林枯枝落叶层的群落学作用.植物生态学与地植物丛刊,1981,5(2)：89-98.  
+［4］莫江明，薛璟花，方运霆.鼎湖山主要森林植物凋落物分解及其对N沉降的响应.生态学报,2004，24（7)：1413-1420.  
+[5]TuLH,HuHL,HuTX,ZhangJ,LiuL,LiR,DiHZ,LuoHDecomposionoffrentliterfractosubroicalbaboecosystem as affected by experimental nitrogen deposition.Pedosphere，2011,21(6）: 685-695.  
+[6]Bragaaerbeaccadljkrgeposidecomposition of bog plant literand reduces carbon accumulation.Global Change Biology，2012,18（3）：163-1172.  
+[7]OlfoJsflitcpieaducsildlitOikos,2002,96(3):507-515.  
+[8]Goering HK,Van Soest PJ.Forage Fiber Analyses.Washington:U.S.DeptAgric Handbook,1970:379-379.  
+[9] OlsonJS.Energystorageandthebalanceof producersanddecomposers incologicalsystems.Ecology,963,44（）：3-331.  
+[10] 窦荣鹏.亚热带9种主要森林植物凋落物的分解及碳循环对全球变暖的响应[D]．杭州：浙江农林大学,2010.
+
+http://www.ecologica.cn
+
+[1]BergEpsilia(1):1-25.  
+[12]Arts,aaantoiallitpes4(12)：3198-3208.  
+[13]Kemp PR,Waldecker DG，Owensby CE，Reynolds JF，VirginiaRA.Effects of elevated $\mathrm { C O } _ { 2 }$ and nitrogen fertilization pretreatments ondecomposition on tallgrass prairie leaf litter.Plant and Soil,1994,165(1）：115-127.  
+[14] 魏凤珍,李金才，王成雨，屈会娟，沈学善.氮肥运筹模式对小麦茎秆抗倒性能的影响.作物学报,2008,34（6)：1080-1085.  
+[15] 杨世民，谢力，郑顺林，李静,袁继超.氮肥水平和栽插密度对杂交稻茎秆理化特性与抗倒伏性的影响.作物学报,2009,35（1）：93-103.  
+[16]陈晓光，石玉华，王成雨，尹燕枰,宁堂原,史春余,李勇,王振林.氮肥和多效唑对小麦茎秆木质素合成的影响及其与抗倒伏性的关系.中国农业科学,2011，44（17)：3529-3536.  
+[17] MoretoAS,istelA,Gecopdtacfafldsfrlaabledpaaabegarid grassland.Applied Soil Ecology,2001，18(1)：31-37.  
+[18] 马川，董少锋，莫江明.鼎湖山马尾松林凋落物分解对凋落物输入变化的响应.生态环境学报，2012，21（4)：647-653.  
+[9]effJdeG,SJlJaVbletsrgdslitsoil carbon.Nature,2002，419(6910):915-917.  
+20CresaghepertkslplalsosulaeoiiEcology,2000，81(9)：2359-2365.  
+[21]Hobbie SE,VitousekPM.Nutrient limitationof decompositioninHawaianforests.Ecology,20o,81（7）：867-1877.  
+[22] WaldropMP,ZakDR,SinsaaughRL，GallM,LuberC.Nitrogendepositionmodfessolrbonstoragethrouhchangesiicobialenzymatic activity.Ecological Applications,2004，14(4）：1172-177.  
+[23]FogK.Theefctofddednitrogenonherateofdecompositiooforganicater.iologicalReviews,988,63(3）：4-46.  
+24ald  
+[25]McGroddyereOlivaRtfpspovlaltosiaiasolowforest.Ecosystems,2004,7(2)：172-179.  
+[26]LiuP,HagaXGOouZirelspoofiosiertsdcontrasting grassand plant species of Inner Mongolia，China.Applied Soil Ecology,2006,34(2/3):266-275.  
+[27］程积民，贾恒义，彭祥林.施肥草地群落生物量结构的研究.草业学报,1997,6(2)：22-27.

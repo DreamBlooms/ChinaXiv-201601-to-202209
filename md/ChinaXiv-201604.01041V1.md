@@ -1,0 +1,142 @@
+# 空间反符合杯测量系统电子读出电路的设计
+
+李 肖12，张坤毅1，张伟杰1(1.中国科学院 空间科学与应用研究中心，北京100190；2.中国科学院大学 北京 100190)
+
+摘要：为消除空间粒子测量中干扰粒子对粒子探测器测量精度的影响,空间反符合杯测量技术得到广泛应用。本文介绍了空间干扰粒子的来源及反符合杯测量系统的原理，针对系统测试需求，基于A225F芯片对系统输出脉冲读出电路进行了设计，并对A225F芯片的使用做了详细介绍，实现了高计数率下准高斯波形的整形，通过仿真和实验结果，验证了电路设计的合理性。
+
+关键词：反符合；粒子探测；前置放大器；A225F
+
+中图分类号：TN72 文献标识码：A 文章编号:1674-6236(2016)01-0187-04
+
+# Design of readout circuit for Anti-coincidence detective system in space
+
+LI Xiao1,2,ZHANG Shen-yi1,ZHANG Wei-jiel (1.National Space Science Center，Chinese Academy of Science,Beijing 10o190,China; 2.Chinese Academy of Science，Beijing 100190,China)
+
+Abstract: Inthe measurementofspaceparticle,theinterference causedbytheparticles isanimportant factorof the measure acuracydeclineinthespaceparticledetection,Anti-coincidencecup technologyisan important means toeliminateparticle interfernce.The paper introduces theoriginof spatial interference particles and theory of anti-coincidence cup measuring system.Anoutput pulse readout circuit basedon A225Fisdesigned,achieving inreshaping the quasi-Gaussian waveformata high countingrate.Thedetailsof theaplicationofA225Fisdescribed inthe paper.Thesimulationand experimentalesults prove the reasonableness of the design.
+
+KeyWords:anti-Coincidence；particles detected；Pre-Amplifier；A225F
+
+DOI:10.14022/j.cnki.dzsjgc.2016.01.055
+
+空间中的粒子包括质子、电子、重离子、中子等，一般使用传感器叠层形式的望远镜探测器进行测量，通过测量粒子在各片传感器中的沉积能量，利用预设的逻辑工作方式分析粒子的种类、能量和LET等信息。如风云三号的高能粒子探测器1天宫1号的多向粒子探测器。然而，在粒子测量过程中，一些从视场内入射的干扰粒子可能会触发错误的逻辑工作方式导致系统对粒子种类、能量等信息的误判；除了视场内的粒子干扰，穿越卫星和机壳屏蔽进入探测系统的粒子也会造成影响。一般情况下，干扰粒子造成的误差可达到 $1 0 \sim$ $20 \%$ ，因此必须采取适当的技术消除干扰粒子的误差。
+
+目前消除测量中粒子干扰的方法主要有两种：一是被动屏蔽法，通过增加机壳的厚度提高屏蔽能力，消除视场外粒子的干扰，这种方法简单易行，但是会增加载荷重量，且屏蔽能力有限，对于能量较高的粒子无法屏蔽，以风三为例，即便将机壳厚度增加到 $1 0 ~ \mathrm { m m }$ ，也只能屏蔽 $5 0 ~ \mathrm { M e V }$ 以下的质子，$5 0 ~ \mathrm { M e V }$ 以上的质子同样会穿透屏蔽层入射到传感器系统中产生干扰；
+
+二是主动屏蔽法，即在探测器内部增加反符合杯探测器，在电路上以反符合的方式消除干扰粒子[3，虽然会增加额外的电路测量系统，但是反符合杯去除干扰粒子效率非常高，通过实测可达到 $9 5 \%$ 以上，在测量某些通量比较低的粒子时非常有效。
+
+图1为粒子探测器简要的结构模型，主探测通过能量-射程法（ $\scriptstyle \sum \operatorname { E x E }$ )对高能离子进行鉴别。为防止从张角外斜入射的粒子对测量精度造成干扰，在探测器的底部和周围包裹闪烁体成杯状作反符合应用。如图中S2、D7所示，后接光探测器对探测到的信号进行收集，组成反符合杯测量系统。
+
+![](images/754370a95c190e4b5ccf16f683a7187ae3923e793c1e85394754902ce9e078fd.jpg)
+
+# 1设计需求
+
+电子读出电路主要由模拟信号采集部分和数字信号采集部分组成，前端模拟电路主要是将传感器的电荷信号转化为电压信号，并通过放大整形，实现系统要求的信噪比和计数率；后端数字电路通过高速ADC将模拟信号转化成数字信号，通过FPGA或数字采集卡实现数据采集，并在上位机显示干扰粒子的计数。由于前端模拟信号的采集是电子读出系统的核心，因此本节重点分析反符合测量系统的读出电路。
+
+反符合测量系统内产生的电荷信号由前置放大器收集处理，前置放大器主要是作为探测器和后端电路系统之间的一个接口，即“预"放大器，一般在电路系统组装时将其紧靠探测器并与之构成一个整体(探头），后端通过电缆与主放大器连接。为满足低噪声的需求，电路设计时多采用电荷灵敏前置放大器，将电荷信号转换为电压信号供后端电路采集处理[4]。
+
+探测器产生的信号在时间上是随机的，输出信号一般均成一定宽度和一定形状的脉冲，因而有可能出现两个或多个信号堆叠在一起，形成信号堆积，使测量造成误差。在电路设计过程中需充分考虑计数率及脉冲堆叠问题，反符合测量杯系统用于探测 $8 { \sim } 1 0 0 \ \mathrm { M e v }$ 范围的核子，经调研可知粒子通量每秒钟约几十个，所需计数率较低， $1 0 0 ~ \mathrm { k H z }$ 的计数率足以满足计数需求。
+
+# 2总体设计
+
+本次设计选用AMPTEK公司的A225F低噪声电荷灵敏前置放大器，它是集电荷灵敏前置放大器和整形高功率放大器于一体的固态探测器，有两路脉冲输出：PIN5时间脉冲输出、PIN6整形脉冲输出，为对芯片性能充分研究，文中分别对两路输出的电子读出电路进行了设计。总结设计结构如图3所示。
+
+A225F芯片PIN6脚为整形输出，内含极零相消电路，脉冲宽度约为 $8 ~ \mu \mathrm { s }$ 。为实现 $1 0 0 ~ \mathrm { k H z }$ 的计数率，单粒子事件触发的模拟信号脉冲宽度应小于 $1 0 ~ \mu \mathrm { s }$ ，整形输出信号脉冲宽度符合电路计数率需求，同时内含整形电路，电子读出电路设计较为简便。
+
+A225F芯片PIN5脚为时间脉冲输出，未经过内部整形，脉冲宽度约为 $5 ~ \mu \mathrm { s } _ { \odot }$ 。为满足反符合测量系统后续对幅度分析的需求，并使器件可应对爆发性粒子事件时计数率需求，要求可实现 $2 0 0 ~ \mathrm { k H z }$ 的计数率，即单个粒子事件触发的模拟信号脉冲宽度应小于 $5 ~ \mu \mathrm { s }$ ，因此需要对时间脉冲进行整形。
+
+# 3整形脉冲电路实现及结果
+
+电路采用较为常用的光电探测设计电路形式，电路设计如图4，其中HV为高压输入端口，提供光电探测器件正常工作所需要的反偏电压；后端通过RC滤波电路滤除高压中的纹波；SiPM输出的电荷信号经耦合电容 $C _ { 3 }$ 进入A225F的输
+
+![](images/92a0e01a25b1f932c0ca3703ea29e02853b25a8f6cca042213139ea11c730b88.jpg)  
+图2A225F芯片封装及输出脉冲 Fig.2A225F chip package and output pulse
+
+PIN6 低计数率探测器 3 A225F 极零相消 幅度调节 低通滤波 高计数率PIN5 心
+
+入端；由于A225F芯片内部没有输入保护电路，本电路中光电探测器工作反偏所需电压幅值较高，所以加入D2、D3两二极管作输入保护。
+
+![](images/7831010c2d5bcc1014a3efcc63569d0f913281bb7345d706ffbe242dfe89d91e.jpg)  
+图3读出电路结构图  
+Fig.3Structure diagram of the readout circuit   
+图4电路设计图  
+Fig.4The schematic of circuit design
+
+TEST为测试信号输入端，A225F脉冲响应下降沿，实验选用方波作为测试信号（保持方波频率尽量低，上升沿的响应可以被忽略,类似阶跃脉冲)通过耦合电容 $C _ { 1 2 } { = } 2 \ \mathrm { p F }$ 将电压信号转化为电荷信号，由：
+
+$$
+1 \mathrm { M e V ( S i ) } { = } \frac { 1 { \times } 1 0 ^ { 6 } \mathrm { e V } { \times } 1 . 6 { \times } 1 0 ^ { - 1 9 } \mathrm { C } } { 3 . 6 \mathrm { V } } { = } 0 . 0 4 4 { \times } 1 0 ^ { - 1 2 } \mathrm { C }
+$$
+
+$$
+V { = } \frac { Q } { C _ { i } } { = } \frac { 0 . 0 4 4 { \times } 1 0 ^ { - 1 2 } \mathrm { C } } { 2 { \times } 1 0 ^ { - 1 2 } \mathrm { F } } { = } 2 2 ~ \mathrm { m V }
+$$
+
+可知， $2 2 ~ \mathrm { m V }$ 的阶跃脉冲通过 $2 \mathrm { p F }$ 的测试电容，可以模拟 $1 ~ \mathrm { M e V }$ 能量在硅探测器中的沉积。通过测试可以得到较好的波形，如图5所示。
+
+另外在电路调试过程中应当注意以下两点：PIN6管脚本身有一个约 $0 . 8 \mathrm { ~ V ~ }$ 的基线电平，电路测试过程中可以通过基线来判断器件是否正常工作； $2 \mathrm { p F }$ 测试电容太小，考虑板材电容并联，输出幅值比理论值略有偏差是正常的。
+
+# 4时间脉冲电路实现及结果
+
+在普通计数率下，输出脉冲的重要信息在上升沿，为提高计数率，同时防止产生脉冲堆叠问题，需要减小脉冲下降沿的宽度，同时为了捕获峰值信息，需要把波形整形为顶部相对平缓的准高斯波形。本文后端整形电路采用准高斯滤波器，即CR-(RC)m 滤波器。
+
+![](images/4a70ecf9c3fb7e0993e27dd8566aa7601126b89e2a435ea331b702071106cb77.jpg)  
+图5脉冲输出波形
+
+由于A225F反馈回路泄放电阻的存在，PIN5脚输出信号为指数衰减形状。在CR高通电路对时间脉冲处理时会出现脉冲尾部下冲现象，为保证微分后输出为单极性信号，采用极零相消电路通过拉普拉斯变换中整形电路传递函数上的零点消除前端电路极点的方式来消除负脉冲信号，在高计数率下改变峰形和能谱分辨率[5]。
+
+考虑到A225F输出信号较小，RC-CR滤波电路会对幅值有一定的衰减，需要对电路信号幅度进行调节，本设计采用电压串联负反馈方式对电压进行放大，采用该电路虽使得放大电路的增益有所下降，但是却提高了增益的稳定性，能够减少非线性失真、抑制反馈环内噪声。
+
+为将脉冲整形为准高斯波形需要在后端接多级积分电路，当CR-( $ { \mathrm { R C } } )  { \mathrm { m } }$ 中 $\mathrm { ~ m ~ }$ 趋近于无穷大时，输出波形趋于高斯分布函数状态，一般 $m \geqslant 4$ 时输出波形接近于高斯形，称为准高斯波形，本设计采用两阶S-K低通滤波器对后续脉冲进行整形，在较少的级数下可以得到相对较好的脉冲波形。
+
+结合上述设计分析，电路设计如图6所示，通过multisim软件产生一指数衰减信号作为A225F芯片PIN5脚脉冲输出，对A225F时间脉冲输出电子读出电路设计进行仿真，仿真结果如图7所示：经极零相消电路后脉冲宽度减小，约为$4 \mu \mathrm { s }$ ，且脉冲尾部下冲现象消失；经电压放大和两级S-K滤波后，输出信号接近准高斯波形。
+
+![](images/5bf4a52ed5589725db5e814a6fe2ea644edc3037f59ed977d4e43e6d7549c85c.jpg)  
+Fig.5The waveform of output pulse   
+图6 电路设计图  
+Fig.6The schematic of circuit design   
+图7仿真结果 Fig.7Simulation results
+
+结合以上设计电路，制板进行测试，通过信号发生器输入阶跃信号，经两级S-K滤波后输出波形如图8所示。从图中可以看出经改造后的CR-(RC)"电路，输出波形脉冲宽度小于 $5 \mu \mathrm { s }$ 的准高斯波形，且电路计数率可达 $2 0 0 ~ \mathrm { k H z }$ □
+
+# 5结束语
+
+文中介绍了空间反符合测量系统去除干扰粒子的原理极零相消输出 第一级S-K滤波输出通道A比例：20mV/Div 通道A比例：100mV/Div时间轴比例：1μs/Div 时间轴比例：1μs/Div电压放大输出 第二级S-K滤波输出通道B比例：100mV/Div 通道B比例：100mV/Div时间轴比例：1us/Div 时间轴比例：1μs/Div及结构，结合其后端系统电路采集需求，基于A225F芯片对读出电路进行了设计，对芯片的使用作了详细介绍，在满足计数率条件下，在应用较少级数低通滤波电路的条件下，实现了对A225F芯片PIN5脚时间脉冲的整形，整形后脉冲宽度小于 $5 \ \mu \mathrm { s }$ 的准高斯波形，解决了高计数率下脉冲堆叠问题，为 $\mathrm { A } 2 2 5 \mathrm { F }$ 芯片作为高计数率下幅度甄别的电路设计提供了参考。
+
+![](images/f5c4220a8805774fdc023e8282b303a151ebfb4f126bfb962f14512535312ac9.jpg)  
+图8电路板测试结果 Fig.8The results of circuit board test
+
+# 参考文献：
+
+[1]张斑毅，张贤国，王春琴，等.风云三号卫星空间高能质子探测器的几何因子计算[J].中国科学：地球科学，2014,44(11):2479-2486.  
+[2]沈国红，王世金，张斑毅，等.二期载人航天空间粒子方向探测器[J].核电子学与探测技术，2012，32(5):535-538.  
+[3]叶宗海.空间粒子辐射探测技术[M].北京：科学出版社，1986.  
+[4]王经瑾.核电子学[M].北京：原子能出版社，1985.  
+[5] GrybosP,Idzik M,Swientek K,etal. Intergrated charge sen-sitive amplifier with pole-zero cancellation circuit for highrates [C]//2OO6 IEEE International Symposium on Circuitsand Systems.New York:IEEE，2006:1997-2000.  
+[6]杨素行.模拟电子技术基础简明教程[M].北京：高等教育出版社，2006.
+
+# （上接第183页）
+
+58-64.
+
+[3]束洪春，孙向飞，司大军.基于粗糙集理论的配电网故障 诊断研究[J].中国电机工程学报，2001，2l(10):73-78.   
+[4]肖大伟，王国胤，胡峰．一种基于粗糙集理论的快速并行 属性约简算法[J].计算机科学,2009,36(3):208-211.   
+[5]CHEN De-gang,ZHAO Su-yun,ZHANG Lei,et al. Sample pair selection for attribute reduction with rough set[J].IEEE Transactions on Knowledge and Data Engineering,2O12,24 (11):2080-2093.
+
+# [6]王国胤,于洪,杨大春.基于条件信息熵的决策表约简[J]计算机学报,2002,25(7):759-766.
+
+[7] ZHU Yong-li,LU Jin-ling.Bayesian networks-based approach
+
+for power systems fault diagnosis [J].IEEE Transactions on PowerDelivery,2006,21(2):634-639.   
+[8]LIN Xiang-ning,KE Shuo-hao.A fault diagnosis method of power systems based on improved objective function and geneticalgorithm-tabu search[J].IEEE Transactions on Power Delivery,2010,25(3):1268-1274.   
+[9]刘清，刘群.粒及粒计算在逻辑推理中的应用[J].计算机 研究与发展，2004，41(4)：546-551.   
+[10]童晓阳，谢红涛，孙明蔚.计及时序信息检查的分层模糊 Petri网电网故障诊断模型[J].电力系统自动化，2013,37 (6):63-68.
+
+# （上接第186页）
+
+[4] Huang N.E,et al. The empirical mode decomposition and theHilbert spectrum for nonlinear and non -stationary timeseries analysis.Proc.R.Soc.Lond.A.1998.  
+[5]Huang N E,Shen Z,Long S.R. A new view of nonlinearwater waves:the Hilbert spectrum[M].Ann Rev Fluid Mech,1999  
+[6]Bansley MF.Fractals Everywhere(Second Edition）[M].Academic Press,1993.  
+[7]唐立春，李光熹,熊曼丽.基于分形的电力系统负荷预测[J]电力系统及其自动化学报，1999，11(4):21-24.  
+[8]金文志.基于改进BP网络的甲烷传感器温度影响试验研究[J].电子设计工程,2015(7):15-17.  
+[9]苏宇逍.基于GA的BP神经网络在多目标优化中的应用[J]电子科技，2015(6):51-53.  
+[10]李志峰，张二艳.BP神经网络在空气质量评价分级中的探索与应用[J].电子技术与软件工程，2014(5):43-44.

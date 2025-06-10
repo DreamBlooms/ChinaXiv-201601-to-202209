@@ -1,0 +1,108 @@
+# 技术方法
+
+# 胶质母细胞瘤病理取材方式-七分法取材
+
+俞磊，漆松涛，易国仲，李志勇南方医科大学南方医院神经外科，广东广州510515摘要：目的规范胶质母细胞瘤(GBM)的病理取材方式，为临床提供更为准确的病理信息。方法 我们规范GBM病理取材方式为"七分法取材”,即由术者在术中对GBM瘤块的"中心、前方、后方、内测、外侧、上方、下方"共7个位置进行取材。本研究共纳入了40例经“七分法取材"的GBM患者，我们分别对各个位置取材的肿瘤组织进行原代细胞培养，免疫组化检测7个位置取材组织的IDH1蛋白、MGMT蛋白的表达情况。结果肿瘤中心取材的肿瘤组织 $100 \%$ 培养出了肿瘤细胞，细胞呈长梭形、迁移快、增殖较块;T1增强像以外其他位置取材的肿瘤组织原代细胞培养成功率为 $60 \%$ ，细胞呈圆钝形、迁移慢、增殖慢，两种细胞在细胞形态、细胞学功能上存在明显差异。IDH1蛋白在7个位置表达情况存在差异的病例为10例，比例为 $2 5 \%$ ,差异具有统计学意义 $\scriptstyle ( P = 0 . 0 0 1 )$ )；MGMT蛋白在7个位置表达存在差异的病例为12例，占比为 $30 \%$ ，差异具有统计学意义 $\scriptstyle ( P = 0 . 0 0 4 )$ 。结论 7个位置取材的组织中均可培养出肿瘤细胞，并且IDH1及MGMT蛋白的表达也存在差异。中心取材的肿瘤组织虽能准确反映肿瘤的病理学级别，但是考虑到GBM高度异质性故需综合考虑其他位置取材的组织病理及分子病理特征，才能更准确地反应肿瘤的生物学特性。故七分法取材较传统的病理取材对GBM的病理诊断更有指导意义。
+
+关键词：胶质母细胞瘤；七分法取材；病理诊断
+
+# Molecular and histopathological differences depending on different MRI findings and tumor location in Glioblastoma
+
+YU Lei, QI Songtao, YI Guozhong,LI Zhiyong Departmentofneurosurgery,Nanfang Hospital,SouthernMedicalUniversity,Guangzhou 5o515,hina
+
+Abstract:Objective To normalize the pathologicalsampling and provide precise information forclinical doctors.Methods We normalized Seven-part sampling method as the standard method of pathological sampling.Seven samples from even differentdirioofosa(Gr(trlteeal,ral,pd by neurosurgeon during surgery.Forty glioblastoma patients which had pathological samples through Seven-partSampling Method were included.Primary tumor cells cultivation were conducted.The expressions of MGMT、IDH1 proteins were detected through IHC in these seven tumor samples. Results Tumor cels were cultivated in $1 0 0 \%$ from tumor tissue which in centerof GBM tumor successfully.The primary tumor cells were spindle-shape with a strong ability of migration and high rate of proliferation.Primary tumor cels were cultivated in other sites of GBM tumor with a successful rate of $6 0 \%$ .Thecellswere obtuse-shape with aslowerabilityof migrationandrateofproliferation.Thetwo kinds of primarycells werediferentofcel morphology and biology. The expressions of IDH1 protein IHC in 10 cases were significantly different $( P { = } 0 . 0 0 1 )$ . The expressions of MGMT protein in 12 cases were significantly different $\scriptstyle ( P = 0 . 0 0 4 )$ . Conclusion Seven sites in GBM tumor have tumor cels.The expressons of IDH1 and MGMT proteinsare diferent.The tumor tissue obtained from central site of GBM tumor canreflect the pathological grade of tumor moreaccurately.The other6 sites in peritumoralarea canreflect the molecular pathology information of these residual tumor cels which cannot be removed by surgery. Seven-part sampling method is very important for pathological diagnosis of glioblastoma.
+
+Keyword: glioblastoma; seven-part sampling method; pathological diagnosis
+
+胶质母细胞瘤(GBM)极强的侵袭性和极大的异质性是直接导致GBM患者预后差的重要原因[-2]。由于GBM具备极强的侵袭性，与周边正常脑组织不存在明显的界限，再加上多数情况下肿瘤位于功能区或者靠近功能区，故术后肿瘤细胞的残余在所难免，这就注定了肿瘤复发[3-4]。早在2011年就曾提出南方胶质瘤中心的胶质瘤手术切除的理念[5]。GBM亦是一个异质性极强的恶性肿瘤[6-7]。故传统的病理取材不可能代表肿瘤整体的生物学特性，故要求术者在术中应该多点取材，并且将取材位置在影像片上标记(甚至在导航辅助下)，而不只是将肿瘤标本切下来后交给病理科医生按经验取材。
+
+随着新版的WHO中枢神经系统肿瘤分型的推出，分子病理学诊断显得越来越重要，如异柠檬酸脱氢酶(IDH1)、O6-甲基鸟嘌呤-DNA甲基转移酶(MGMT)EGFR等蛋白的表达情况，能够提示GBM患者的预后情况，或可指导临床上的治疗选择(如靶向药物选择等)[89]。由于GBM存在的显著肿瘤异质性，到底哪一部分肿瘤组织能够为我们临床提供最为准确病理信息呢?传统的病理取材结果是否不够全面？为此，我们提出由神经外科医生在术中进行“七分法取材"的方法，旨在能够得到更为精确的肿瘤病理信息，为临床治疗提供依据以及方向。
+
+# 1资料与方法
+
+# 1.1“七分法取材"方法
+
+术中进行肿瘤组织块的切除与取材，取材主要为肿瘤中心区域以及肿瘤外周区域(图1),肿瘤中心区域取材1个点，编号：(1)肿瘤中心;肿瘤外周区域取材6个位置，分别编号为：(2)正前方；(3)正后方；(4)正内测；(5)正外侧;(6)正上方；(7)正下方。取材依据如下原则：以人体自然立位时约定前后、上下，靠近中线侧为内，反之为外;如有个别为中心性双侧占位时，以占位病变体积小者一侧为内，体积大者一侧为外；对胶质母细胞瘤的"Q、S、T、P"4种不同切除方式所切除的瘤块(切除分型：Q型切除指将MRIT1增强、T2、FLAIR异常信号区域全切除；S型切除指将MRIT1增强信号区域全切除，T2/FLAIR部分残留；T型全切除指将MRIT1增强信号区域全切除，而T2/FLAIR较术前可无明显变化；P型切除指MRIT1增强信号区域仍有明显残存["]),肿瘤中心区域取材一般为T1增强区域(若中心为坏死组织，则取坏死周边、离几何中心最近的部位，若中心为囊变，则取囊变内的实性成分)；周边区域取材尽量靠近T2/Flair像的边缘处(Q、S型切除)以及T1增强像的边缘(T/P型切除)。总共有40例胶质母细胞瘤进行了“七分法取材”，每个位置取材的组织又分为3部分：一部分用于送检病理诊断;一部分用于原代细胞培养；一部分作为冻存标本组织。病理组织应用于科学研究，患者均已知情并同意。
+
+![](images/03dc826f7b2eaa2a79e985ff3f94ec87996cd23b850c45d528bc0fc641d33263.jpg)  
+图1胶质母细胞瘤“七分法取材"示意图
+
+$A , C , D , F ;$ 肿瘤在MRI轴位Flair像、轴位T1增强像、矢状位T1增强像及冠状位T1增强像上的取材位置;B:七分法取材的简图； $E { \mathrm { : } }$ ：肿瘤整块切除后在实体标本上"七分法"取材位置.
+
+# 1.2原代细胞培养
+
+我们对40例GBM"七分法取材"的肿瘤组织进行原代细胞培养。培养过程均在超净工作台中进行，将术中“七分法取材"的肿瘤组织用PBS洗净血液、烧灼的坏死组织等，用剪刀将组织剪碎成 $1 \ \mathrm { m m } \times 1 \ \mathrm { m m } \times$ $1 ~ \mathrm { m m }$ 的组织块，用 $0 . 2 5 \%$ 的胰酶消化 $5 { \sim } 1 0 \ \mathrm { m i n }$ 后，$1 0 0 0 ~ \mathrm { r / m i n }$ 离心 $3 \mathrm { m i n }$ ，将离心沉淀用含 $10 \%$ 胎牛血清的完全培养基重悬，铺于 $1 0 \mathrm { c m }$ 培养皿中，在 $3 7 \%$ ） $5 \%$ $\mathrm { C O } _ { 2 }$ 的恒温培养箱中进行培养，每隔2\~3d更换培养基。
+
+# 1.3免疫组化
+
+利用免疫组化的方法，检测“七分法取材"的7个位置肿瘤组织的IDH1及MGMT蛋白的表达情况。免疫组化使用的抗体为：IDH1(ZM-0447，中杉金桥，稀释比例:1:50);MGMT(A0693，Abclonal,稀释比例：
+
+1:100)；二抗购自Abcam。采用DAB显色液控制显色，随机取5个高倍镜 $( 4 0 0 \times )$ 视野进行观察。依据表达强弱、阳性细胞百分比进行评分，并由此判断阳性、阴性表达。评分方法为：(1)表达强弱判断(阴性表达0分，浅黄色1分，深黄色2分，棕色3分)；(2)阳性细胞百分比( $0 \%$ 为0分； $1 \% { \sim } 1 0 \%$ 为1分； $1 1 \% { \sim } 5 0 \%$ 为2分； $5 1 \% { \sim } 8 0 \%$ 为3分；大于 $80 \%$ 为4分);最终得分为两项评分的乘积，以 $\geqslant 4$ 分为阳性表达。对“七分法取材"的7个不同位置的组化结果，若七个位置的组化结果存在不同，则记为差异病例。
+
+# 1.4 统计学分析
+
+采用SPSS21.0软件对组化数据进行统计分析，分析方法为：配对四格表资料一致性检验，Kappa系数 $> 0 . 7 5$ 为一致性良好，以 $P { < } 0 . 0 5$ 为差异有统计学差异。
+
+# 2结果
+
+# 2.1原代细胞培养结果
+
+在40例进行"七分法取材"的GBM组织中，肿瘤中心取材的组织原代培养成功40例，成功率 $100 \%$ ；肿瘤周边区域6个位置取材的肿瘤组织，只要有1个位置的组织培养出肿瘤细胞即视为成功，此组原代培养成功24例，培养成功率为 $60 \%$ 。对于“Q”、“S"型切除后的取材，肿瘤中心培养出的肿瘤细胞，细胞形态呈长梭形，具有很长的细胞伪足，能在较短的时间内从组织块中爬出，细胞迁移能力强、增殖快(图2A);从肿瘤周边区域(取材于T2/FLAIR异常区域)培养出的肿瘤细胞，细胞形态呈圆形，无明显细胞伪足，增殖明显慢于肿瘤中心区域培养出的细胞(图2B)。
+
+![](images/84a8059c9eaece3158fa1f6752beaa9295dc9d1dc767ec3730f7b23f790ea5d1.jpg)  
+图2胶质母细胞瘤不同位置取材的肿瘤组织原代培养的情况( $\cdot { \times } 4 0 0$ ）
+
+A:正中心位置，细胞呈长梭形；B：周边位置，细胞呈圆钝形，
+
+# 2.2HE染色结果
+
+肿瘤正中心取材的肿瘤组织，HE染色可以见明显的血管生成、高密度的异型肿瘤细胞、核分裂像多见，呈典型的胶质母细胞瘤的表现;取材于外周T2/FLAIR
+
+异常区域的其他6个位置的肿瘤组织，HE染色可见肿瘤细胞散在分布、基本无新生血管，呈现低级别胶质瘤的病理表现(图3)。
+
+![](images/19817c7dbab19f23197b34e9409e8bae134b5ecfd6820ae9045f090f7ea23d4f.jpg)  
+图3胶质母细胞瘤不同位置取材的肿瘤组织(HE染色， $\times 4 0 0$ ）A:正中心位置,新生血管丰富、高密度的异型肿瘤细胞、核分裂像多见;B:周边位置,肿瘤细胞散在分布、基本无新生血管.
+
+# 2.3免疫组化结果
+
+对40例进行“七分法取材"的GBM中心及外周区
+
+域共7个位置进行IDH1及MGMT蛋白的免疫组化，只要外周区域取材的6个位置中有1个与中心区域组化
+
+结果不一样，即记为差异病例。对于IDH1蛋白，差异病例数为10例，比例为 $2 5 \%$ ，一致性检验Kappa系数为0.5,差异具有统计学意义（ $\scriptstyle \overbrace { P = 0 . 0 0 1 }$ ,图4A、B)。对
+
+于MGMT蛋白，差异病例为12例，占比为 $30 \%$ ，一致性检验结果Kappa系数为0.417,差异具有统计学意义$\scriptstyle { \overbrace { P { = } 0 . 0 0 4 } }$ ,图4C、D)
+
+![](images/11718f05f22b03b6af09af8272020471c880133f09a40f2b463992c404593b08.jpg)  
+图4胶质母细胞瘤不同位置取材的肿瘤组织IDH1、MGMT免疫组化结果(DAB染色， $\times 4 0 0 \dot { . }$ ）A:正中心位置,IDH1蛋白呈阳性表达;B:周边取材位置,IDH1蛋白呈阴性表达;C:正中心位置,MGMT蛋白呈阴性表达； $\mathbf { \delta } _ { D _ { i } }$ 周边取材位置，MGMT蛋白呈阳性表达.
+
+# 3讨论
+
+GBM是由不同分化群瘤细胞组成的异质性肿瘤，在一个瘤体之内可能含有起源于多种细胞的肿瘤组织成分，同时具备极高的侵袭性，能够沿着白质纤维束、血管等迁移至离肿瘤中心很远的区域[3.4,7,11-14]。基于尸检及历史上的手术活检，肿瘤细胞可以在影像学异常范围外很远的地方出现。肿瘤基因组的不稳定性、肿瘤细胞的异质性和广泛浸润性决定了GBM的治疗充满了挑战。不可否认，手术切除程度是影响GBM患者预后的一个关键因素，统计南方医院神经外科收治的经"Q型切除"辅以术后标准放化疗的GBM患者，其中位生存期超过国际上报道的14.6个月[15]。遗憾的是，即便GBM患者进行了最为积极的治疗，虽然一小部分患者可以长期生存[16-18],但GBM患者的总体预后仍然较差。实际上肿瘤的异质性对手术后的综合治疗失败具有决定性影响。GBM不仅具有时间异质性(即不同的时间可能肿瘤的基因型差异亦不同)，还具有空间异质性。故针对某一特定区域基因突变的靶向治疗是不合适的，然而常规的病理取材(往往只是某一特定区域)并不能对肿瘤所有部位进行取材及验证突变。这就要求我们探索出一种符合肿瘤异质性的规律的病理取材方法。
+
+本研究中，我们对取材于GBM瘤体不同区域的组织进行原代培养，在肿瘤周边区域(T2/FLAIR异常区域与正常MRI影像交界区)取材的组织培养出了肿瘤细胞，培养成功率为 $60 \%$ ，这也验证了GBM细胞具有高侵袭性的特性；同时，取材于中心区域和周边区域所培养出的肿瘤细胞，无论是在细胞形态、细胞生物学功能上都存在极大的差异，这也证明了GBM所存在的肿瘤异质性。IDH1突变型蛋白的阳性表达以及MGMT蛋白的阴性表达均是GBM患者预后良好的标志，然而，我们同时对取材于不同区域的肿瘤组织进行IDH1、MGMT蛋白的免疫组化，结果发现：40例GBM患者中，有10例患者IDH1蛋白存在表达差异，12例患者MGMT蛋白表达存在差异，进一步证明了GBM瘤体存在极大的异质性。
+
+既然GBM具有极强的异质性那么到底哪部分肿瘤组织真正代表了肿瘤的生物学特性?结合文献分析，我们认为肿瘤周边区域取材的组织更加具有代表性。GBM影像学和病理组织学显示正常的区域中亦能培养出肿瘤细胞4，这一部分手术无法切除和被放疗忽视的肿瘤细胞很可能就是肿瘤复发的真正根源,应该是GBM患者治疗的靶细胞[12]。近些年来文献中一直强调的"Peritumoral Zone"[3]。从理论上讲，肿瘤组织周边区域在物理距离上离残腔周边的肿瘤细胞更近，更能代表这群残余细胞的生物学特性。这也要求外科医生在手术切除时注重完整整块手术切除方式和脑沟、脑池等重要解剖结构的辨认，必要时可以在导航下取材，只有这样才能保证肿瘤取材时在空间位置上的定位准确。
+
+选择七分法主要原因是：对七分法取材的组织进行HE染色发现，肿瘤中心取材的组织存在更为丰富的血管，肿瘤细胞密度、异型性亦甚于周边区域取材的组织，因此在肿瘤中心区域取材，用于病理判断肿瘤的组织学级别更为确切，也有利于和现有的文献结果相比较；对周边区域取材的肿瘤组织进行分子病理学的检测，其检测结果更能代表术后残存的肿瘤细胞，对判断术后GBM患者的预后及治疗选择更有科学；考虑取材的简便与可行性，我们选择在上下、前后、内外侧总共3个维度、6个位置上进行取材。结合术前影像学资料、术中神经导航、术中术者切除肿瘤时的手感等等，神经外科医生能够精确的对肿瘤的任何部位进行取材，这种优势是传统取材方法所不具备的。因此我们提出GBM的“七分法取材"的方式，通过神经外科医生在术中对GBM各个区域进行取材，从而使得术后的病理结果更为完善、真实的反应患者的情况，为神经外科医生的临床决策提供更为准确的信息。除了一部分WHOI级的胶质瘤外，所有的胶质瘤均遵循"七分法"病理取材的原则，会为我们提供更多关于肿瘤的组织和分子病理信息，对临床和科研均具有重要意义。
+
+# 参考文献：
+
+[1]Nitta RT,Li G.The invasive Nature of glioblastoma[J].World Neurosurg,2013,80(3/4):279-80.   
+[2]Gerlinger M,Rowan AJ,Horswell S,et al. Intratumor heterogeneity and branched evolution revealed by multiregion sequencing[J].N Engl JMed,2012,366(10): 883-92.   
+[3]Lemée JM,Clavreul A,Menei P.Intratumoral heterogeneity in glioblastoma:don't forget the peritumoral brain zone[J].Neuro Oncol,2015,17(10):1322-32.   
+[4]Gill BJ,Pisapia DJ,Malone HR,et al.MRI-localized biopsies reveal subtype-specific differences in molecular and celular composition at the margins of glioblastoma[J].Proc Natl Acad Sci USA,2014,111(34): 12550-5.   
+[5］李志勇，漆松涛，陈龙华，等．南方脑胶质瘤中心胶质瘤治疗路 径[J].中国微侵袭神经外科杂志,2011,16(10):433-6.   
+[6]Patel AP，Tirosh I，Trombetta JJ，et al．Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma[J]. Science,2014,344(6190): 1396-401.   
+[7] Lee DY,Gianino SM,Gutmann DH. Innate neural stem cell heterogeneity determines the patterning of glioma formation in children[J].Cancer Cell,2012,22(1):131-8.   
+[8]杜伟,陈义兵,魏新亭.2016版《WHO中枢神经系统肿瘤分类》 更新解读[J].中华神经外科杂志,2016,32(11):1095-8.   
+[9] Reifenberger G，Wirsching HG,Knobbe-Thomsen CB，et al. Advances in the molecular genetics of gliomas-implications for classification and therapy[J].Nat Rev Clin Oncol,2017,14(7): 434-52.   
+[10]陈加贝，漆松涛,欧阳辉,等.影响胶质母细胞瘤患者预后的多因 素分析[J].中华神经外科杂志,2015,31(1):48-53.   
+[11]Wang R,Chadalavada K,Wilshire J,et al. Glioblastoma stem-like cells give rise to tumour endothelium[J].Nature,2010,468(7325): 829-33.   
+[12]Glas M,Rath BH, Simon M,et al. Residual tumor cells are unique cellular targets in glioblastoma[J].Ann Neurol,2010,68(2): 264-9.   
+[13]Giese A, Bjerkvig R,Berens ME,et al. Cost of migration: invasion of malignant gliomas and implications for treatment[J].J Clin Oncol,2003,21(8): 1624-36.   
+[14]Silbergeld DL,Chicoine MR.Isolation and characterization of human malignant glioma cells from histologically normal brain[J]. JNeurosurg,1997,86(3): 525-31.   
+[15]Stupp R,Mason WP,van Bent MJ,et al. Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma[J].N Engl J Med,2005,352(10): 987-96.   
+[16]Hartmann C,Hentschel B, Simon M, et al. Long-term survival in primary glioblastoma with versus without isocitrate dehydrogenase mutations[J]. Clin Cancer Res,2013,19(18): 5146-57.   
+[17]Baur M, Preusser M, Piribauer M, et al. Frequent MGMT (O(6)- methylguanine-DNA methyltransferase） hypermethylation in longterm survivors of glioblastoma: a single institution experience[J]. Radiol Oncol,2010,44(2): 113-20.   
+[18]王 翔,刘艳辉,谢 飞,等.长生存期胶质母细胞瘤患者的临床特 点及分子表达分析[J].中华外科杂志,2013,51(2):166-70.

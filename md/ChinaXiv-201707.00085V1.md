@@ -1,0 +1,258 @@
+# DOI:10.5846/stxb201408291724
+
+周伟,牟凤云,刚成诚,官冬杰,何锦峰,李建龙.1982—2010年中国草地净初级生产力时空动态及其与气候因子的关系.生态学报,2017,37（13)：4335-4345.  
+ZhouW,uFngaJ,iatofdpracideaisifactors from 1982 to 2010 in China.Acta Ecologica Sinica,2017,37(13）:4335-4345.
+
+# 1982一2010年中国草地净初级生产力时空动态及其与气候因子的关系
+
+周伟1，\*，牟凤云}，刚成诚²，官冬杰¹，何锦峰'，李建龙³
+
+1重庆交通大学，建筑与城市规划学院，重庆400074  
+2西北农林科技大学，水土保持研究所，杨凌712100  
+3南京大学，生命科学学院，南京210093
+
+摘要:植被净初级生产力(NPP)及其与气候变化的响应研究是全球变化的核心内容之一。论文基于长时间序列遥感数据和气象数据,通过光能利用率模型(Camegie-Ames-Stanford approach，CASA 模型)模拟了1982—2010 年中国草地 NPP,进而分析其时空变化特征及其与气候水热因子的相关性。结果表明：（1)1982—2010 年中国草地年平均 NPP 为 $2 8 2 . 0 ~ \mathrm { g C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ,年总NPP的多年平均值为 $9 8 8 . 3 ~ \mathrm { T g C }$ ;空间分布上呈现东南部高西北部低的特征。（2)近30 年中国草地 NPP 增加速率为 $0 . 6 ~ \mathrm { g C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ，呈增加趋势的面积占中国草地总面积的 $6 7 . 2 \%$ ;总体上，中国草地NPP呈极显著和显著增加的比例( $3 5 . 8 \% . 8 . 0 \%$ )大于呈极显著和显著减少的比例 $( 5 . 8 \% . 4 . 8 \%$ );NPP 明显增加的区域主要包括青藏高原西部、阿拉善高原、新疆西部;明显降低的区域主要分布在内蒙古地区;不同年代际和不同草地类型的 NPP 变化趋势差异明显。（3)草地 NPP 与降水量的相关性高于与温度的相关性。不同草地类型 NPP 对气温、降水量的响应程度不同,其中温性荒漠草原、温性草原、温性草甸草原的 NPP 与降水量均达到显著正相关( $P { < } 0 . 0 5$ 。
+
+关键词：草地净初级生产力；时空动态；气温;降水量;耦合关系分析
+
+# Spatio-temporal dynamics(of grassland net primary productivity and their relationship with climatic factors from 1982 to 2010 in China
+
+ZHOU Wei1,\*，MU Fengyun'，GANG Chengcheng²，GUAN Dongjie’，HE Jinfeng1，LI Jianlong³ 1 College of Architecture and Urban Planning，Chongqing Jiaotong University，Chongqing 40oo74，China 2InstituteofSoiland Water Conseruation，NorthwestAgricultureandForestry University，Yangling7121o,China 3 School ofLife Science，Nanjing University，Nanjing 210o93,China
+
+Abstract:Global warming hasledto significant vegetationchanges in the past half century.Graslands in China are mainly located in ecologically fragileregions，which aresensitive to climate change.During recent decades，grassands have experienced prominent warming anddrying.Therefore，investigating theresponse of grassands to climatic variations is necessary forabeter understanding of thecumulative consequencesof climatechange.Grassandnetprimary productivity (NPP）is an important indicator for evaluating grassand ecosystem conditions.We used multi-source remote-sensing data and meteorological data to estimate the grassand NPP from 1982 to 2010，basedon the Carnegie-Ames-Stanfordapproach (CASA）model.The spatial pattern and change trends of grassland NPP were evaluated.The response of grassand NPP changes to climaticvariations wasalsoanalyzed.Theresultsrevealedthatthespatial distributionof grasland NPPshowed an increasing trend from the northwest to southeast across China.During the period from 1982 to 2O10,thegrassland mean NPP was $2 8 2 ~ \mathrm { g C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ，and NPP exhibited apparent spatial heterogeneity，being highest $( 7 1 0 \mathrm { \ g C \ m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ）in the dry heat savanna shrub and grass and lowest ( $\mathbf { 5 8 ~ g C ~ m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ ）in the alpine desert.The total annual NPP was $9 8 8 . 3 \mathrm { ~ T g ~ C ~ }$ . Grassland NPP has increased slightly in the past 3O years，at a rate of $0 . 6 ~ \mathrm { g C ~ m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ . Regions showing increasing NPP accounted for （204 $6 7 . 2 \%$ of the total grassland areas，within which，areas with extremely significant ( $P { < } 0 . 0 1$ ）and significant ( $\scriptstyle P < 0 . 0 5 { \mathrm { ? } }$ increases accounted for $3 5 . 8 \%$ and $8 . 0 \%$ of the total grassland area， respectively. Regions showing extremely significant and significant decreases encompassed only $5 . 8 \%$ and $4 . 8 \%$ of total grassland area，respectively. Clear increases in grassland NPP were observed inthe westof the Qinghai-Tibet Plateau,the Alxa Plateau and western area of Xinjiang.Areas with a decrease in grasslandNPP were mainlydistributed in the westernregions of Inner Mongolia.Furthermore,/the increasing rateof NPP showed temporalvariationanddiferedamong different grassand types.Thecorrelationcoefficientbetween NPP and precipitation was larger than that between NPP and temperature.Moreover，theresponse of grasland NPP to temperatureand precipitation diffredfordiffrent grassland types.There weresignificant positivecorrelationsbetween annual precipitation and NPP in temperate desert steppe，temperate steppe，and temperate meadow steppe.
+
+KeyWords：grassandnetprimaryproductivity；spatio-temporaldynamics；temperature；precipitation；the coupling relation analysis
+
+陆地生态系统对气候变化的响应是全球变化研究的焦点之一[],植被是气候变化最直观的体现和重要标志[2]。全球 $\mathrm { C O } _ { 2 }$ 浓度在1975—2011年间升高了 $4 0 \% ( 2 8 0 - 3 9 1 \mathrm { c m } ^ { 3 } / \mathrm { m } ^ { 3 } )$ ）,全球平均气温在1880—2012 年间升高了 $0 . 8 5 \mathrm { ^ \circ C }$ ,北半球在过去1400 年中1983—2012 年是最暖的30a,北半球中纬度陆地平均降水量增加,强厄尔尼诺事件导致水热条件的变化[3]。所有这些变化(气候变化、人为干扰、生态过程变化)均会对陆地植被净初级生产力（NPP）产生影响[4-5]。全球或区域尺度陆地生态系统 NPP 的研究始于19 世纪中期,气候因子对生态系统 NPP 的影响学术界存在不同认识[6]。有研究表明在1980—200 年间,全球陆地植被 NPP 呈增加趋势,然而不同区域其增加原因不同[5]。也有研究综合分析了1982—1999 年全球陆地植被 NPP 与气候数据的耦合关系,发现气候变化使气候的胁迫作用得到缓解,导致全球陆地植被 NPP 总量增加了 $6 \% ^ { [ 7 ] }$ 。在全球气候变化的大背景下,中国的气候也发生了相应变化[8-11],陆地植被 NPP表现出一定的增长趋势[12],气候变化使水热条件对植被生长的胁迫作用减弱,并且中国植被 NPP 对气候变化的响应具有明显的区域差异性[13]。
+
+草地作为陆地生态系统的重要组成部分，覆盖了陆地表面 $20 \%$ 的区域，因其巨大的覆盖面积和类型的多样性,使其在区域乃至全球碳循环研究中具有独特的地位和重要性[14-15]。中国草地主要分布在北方干旱、半干旱气候区以及青藏高原高寒气候区,这些区域位于全球气候变化的敏感地带和生态环境脆弱区。NPP 是草地生态系统固碳能力的重要表征,因此定量研究我国草地 NPP的时空变化特征及其对气候变化的响应，可为正确评价草地生态系统生产能力提供科学依据,并有助于认识全球变化对陆地生态系统碳循环的影响机制。近年来,国内外学者针对中国草地 NPP 模拟及其对气候变化的响应开展了广泛研究[16-20],由于研究时段和空间尺度的差异,以及数据来源的不同,导致 NPP 的模拟结果间可比性较差,并且不同区域草地 NPP 对气候水热因子的响应具有差异性。
+
+鉴于以上,为了更好地理解和综合分析长时间序列上中国草地NPP时空动态及其与气候变化的关系,本研究以1982—2010年中国草地生态系统为例:1)基于CASA模型,利用 NDVI数据、气象数据和土地覆盖数据,对中国草地 NPP 进行动态模拟,阐明近30 年来中国草地 NPP 的时空变化特征,2)通过中国草地 NPP 与气象数据的耦合分析,揭示不同时段和不同类型草地NPP 的变化趋势及其对气候水热因子变化的响应特征。这对全球气候变化背景下草地生态系统碳循环和碳收支研究具有重要的理论和实践意义，同时可为草地资源
+
+保护和草地生态系统的可持续发展提供科学依据。
+
+# 1材料与方法
+
+# 1.1 数据来源与预处理
+
+# 1.1.1 GIMMSNDVI数据及处理
+
+本研究采用美国国家航天航空局(NASA)全球监测与模型研究组(GIMMS)提供的NDVI半月最大合成数据作为数据源（htp://ecocast.arc.nasa.gov/）。其时间序列为1982—2010 年,空间分辨率为 $8 \mathrm { k m } \times 8 \mathrm { k m }$ 。该数据集是目前最长时间序列的NDVI数据,与其他NDVI数据相比,其误差小、精度较高,已广泛应用于全球及区域大尺度植被变化的研究中。因最大值合成法(Max Value Composite,MVC)能消除一部分云、大气、太阳高度角的干扰,本文采用 MVC 获取每月的NDVI数据,采用WGS-1984地理坐标系统和 Albers Equal-Area Conic投影。
+
+# 1.1.2 气象数据及处理
+
+本研究采用中国气象科学数据共享服务网（http://cdc.cma.gov.cn）提供的 1982—2010 年全国720个标准气象站点的月平均气温、月降水量,以及全国102个辐射站点的月太阳总辐射数据。根据各气象站点的经纬度和高程信息,利用Anuspline 软件对气象数据进行空间插补,获取与NDVI数据分辨率和投影系统相同的气象数据栅格影像。
+
+# 1.1.3 草地类型数据
+
+本文采用的草地分类数据来源于20 世纪80 年代全国草地资源调查[21]。该分类系统依据植被-生境（地形、土壤、气候)分类原则将中国草地划分为19大类,包括温性草甸草原、温性草原、温性荒漠草原、高寒草甸草原、高寒草原、高寒荒漠草原、温性草原化荒漠、温性荒漠、高寒荒漠、暖性草丛、暖性灌草丛、热性草丛、热性灌草丛、干热稀树灌草丛、低地草甸、山地草甸、高寒草甸、沼泽、改良草地。该分类系统中草地面积达 352万$ { \mathrm { k m } } ^ { 2 }$ ,占中国陆地面积的 $3 7 \%$ 。
+
+1.2净初级生产力NPP的模型模拟和精度验证
+
+# 1.2.1 CASA模型
+
+目前各国学者基于不同的理论基础、研究尺度和数据来源建立了多种植被NPP 估算模型。模型可分为3类:1)统计模型;2)参数模型;3)过程模型。CASA 模型是基于光能利用率原理的过程模型,已被全球 1900 多个实测站点校准。CASA 模型估算的植被 NPP 可以由植被吸收的光合有效辐射（APAR)和光能利用率 $( \varepsilon )$ 两个变量来确定[22],其估算公式如下：
+
+$$
+\mathrm { N P P } ( x , t ) = \mathrm { A P A R } ( x , t ) \times \varepsilon ( x , t )
+$$
+
+式中， $\mathrm { A P A R } ( \boldsymbol { x } , t )$ 表示像元 $x$ 在 $\mathbf { \chi } _ { t }$ 月份吸收的光合有效辐射( $\mathrm { \Delta M J / m } ^ { 2 }$ ）， $\boldsymbol { \varepsilon } ( \boldsymbol { x } , t )$ 表示像元 $x$ 在 $\mathbf { \chi } _ { t }$ 月份的实际光能利用率 $( \vec { \mathrm { \bf { g } } } ^ { \mathrm { { \bf { C } / M J } } } )$ 。
+
+APAR的估算
+
+光合有效辐射(PAR)是植被进行光合作用的动力,植被吸收的光合有效辐射(APAR)取决于太阳总辐射和植被对光合有效辐射的吸收比例,计算公式如下：
+
+$$
+\mathrm { A P A R } \left( x , t \right) = \mathrm { S O L } \left( x , t \right) \times \mathrm { F P A R } \left( x , t \right) \times 0 . 5
+$$
+
+式中， $\operatorname { S O L } ( x , \ t )$ 表示像元 $x$ 在 $\mathbf { \chi } _ { t }$ 月份的太阳总辐射量 $\mathrm { ( M J / m } ^ { 2 }$ );常数0.5表示植被所能利用的太阳有效辐射（ $4 0 0 { \ - } { \ - } 7 0 0 \ \mathrm { n m } )$ 占太阳总辐射的比例;FPAR表示植被层对入射的光合有效辐射(PAR)的吸收比例,在一定范围内 FPAR 与 NDVI、SR 存在较好的线性关系。FPAR 的具体计算过程参照文献[22]。
+
+最大光能利用率 $\varepsilon _ { \mathrm { m a x } }$ 的估算
+
+光能利用率 $( \varepsilon )$ 是指植被把所吸收的光合有效辐射(PAR)转化为有机碳的效率,它主要受温度和水分的影响,计算公式如下：
+
+$$
+\varepsilon ( x , t ) = T _ { \varepsilon 1 } ( x , t ) \times T _ { \varepsilon 2 } ( x , t ) \times W _ { \varepsilon } ( x , t ) \times \varepsilon _ { \mathrm { m a x } }
+$$
+
+式中， $T _ { \varepsilon 1 } ( x , t )$ 和 $T _ { \varepsilon 2 } ( x , t )$ 表示温度对光能利用率的影响， $\textstyle \ W _ { \varepsilon } ( x , t )$ 表示水分条件对光能利用率的影响， $\varepsilon _ { \mathrm { m a x } }$ 表示在理想状态下植被的最大光能利用率,其取值因植被类型不同有较大差别。传统CASA模型中所使用的全球植被最大光能利用率为 $0 . 3 8 9 \mathrm { g C / M J }$ ,在实际应用时常根据研究区具体植被类型对这一取值进行修正。Zhu 等根据误差最小原则,利用中国的 NPP 实测数据,模拟各植被类型的最大光能利用率,该研究成果在估算中国植被 NPP 时得到广泛应用,本文 $\varepsilon _ { \mathrm { m a x } }$ 的取值也参照这一成果,其中草地 $\varepsilon _ { \mathrm { m a x } }$ 为 $0 . 5 4 2 ~ \mathrm { g C / M J }$ ; $T _ { \varepsilon 1 } ( x , t )$ 和 $T _ { \varepsilon 2 } ( x , t )$ 的具体计算方法及改进参照文献[23]。
+
+# 1.2.2CASA模型模拟精度验证
+
+由于实测NPP难度比较大，通常采用生物量换算NPP的方法进行模型验证。为了验证模型精度，于2009年7、8月份草地植被生长旺盛的季节，在研究区进行草地生物量实地采样调查，共设置样地51个（图1)，每个样地面积为 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ ,在每个样地内选择地形平坦、草地分布均匀处设置 $\mathrm { 1 m } \times \mathrm { 1 m }$ 的样方共5个。在每个样方内，齐地收割植物地上部分，然后在 $7 0 \%$ 的恒温烘箱内烘干至恒重后称取干重。根据国内公开发表的关于不同类型草地地下和地上生物量的分配比例[24],根据根冠比和地上生物量计算地下生物量,然后取碳转化系数为0.475，得到NPP。51个站点的CASA模型模拟NPP值与实测NPP值的一致性比较如图2,由图可见，NPP模拟值与实测值分布在1:1线附近，同时统计分析表明相对误差（REE $\mathbf { \sigma } = \mathbf { \sigma }$ (模拟值-实测值)/实测值)在 $1 7 \%$ 1 $3 0 \%$ 之间,平均精度达到 $8 6 \%$ 。由此可见CASA模型的模拟结果较为理想，并与实测NPP值间存在极高的一致性。以上表明基于CASA模型模拟得到的中国草地NPP具有很高的模拟精度，适用于中国草地 NPP模拟。
+
+# 1.3草地 NPP 的年际变化趋势分析
+
+本研究采用一元线性回归分析方法对1982—2010年中国草地NPP的动态进行变化趋势分析，单个象元多年回归方程中趋势线斜率即为年际变化率。计算公式为：
+
+![](images/30518ed9035aa091f78717071df30d548be4e4372bd7a58cba7a29d27376a004.jpg)  
+图1调查样地和草地类型图  
+Fig.1Field survey sites and grassland types
+
+0：非草地；1;温性草甸草原;2：温性草原;3：温性荒漠草原;4：高寒草甸草原;5：高寒草原;6;高寒荒漠草原;7;温性草原化荒漠;8：温性荒漠;9：高寒荒漠;10：暖性草丛;11：暖性灌草丛;12：热性草丛;13;热性灌草丛;14;干热稀树灌草丛;15：低地草甸;16：山地草甸;17：高寒草甸；18：沼泽；19：改良草地
+
+$$
+\theta _ { \mathrm { { S l o p e } } } = \frac { n \times \displaystyle \sum _ { i = 1 } ^ { n } i \times \mathrm { N P P } _ { i } - ( \sum _ { i = 1 } ^ { n } i ) ( \sum _ { i = 1 } ^ { n } \mathrm { N P P } _ { i } ) } { n \times \displaystyle \sum _ { i } ^ { n } i ^ { 2 } - ( \sum _ { i = 1 } ^ { n } i ) ^ { 2 } }
+$$
+
+式中， $\theta _ { \mathrm { s l o p e } }$ 为趋势线斜率， $n$ 为监测时间段的年数， $\mathrm { N P P } _ { i }$ 为第 $i$ 年的草地NPP，斜率为负表示下降，反之则表示上升。
+
+变化趋势的显著性检验采用 $F$ 检验,显著性仅代表趋势性变化可置信程度的高低,与变化快慢无关。统计量计算公式为：
+
+$$
+F = U \times \frac { n - 2 } { Q }
+$$
+
+式中， $U = \sum _ { i \mathop { = } 1 } ^ { n } \left( { \hat { y } } _ { i } - { \bar { y } } \right) ^ { 2 }$ 称为回归平方和, $Q = \sum _ { i \mathop { = } 1 } ^ { n } \left( y _ { i } - \right.$ $\hat { y } _ { i } ) ^ { 2 }$ 称为剩余平方和, $y _ { i }$ 是第 $i$ 年NPP值, $\hat { \boldsymbol y } _ { i }$ 是第 $i$ 年NPP的回归值, $\bar { y }$ 是 $2 9 \mathrm { a \ N P P }$ 的平均值， $n = 2 9$ 为年数。
+
+# 1.4草地NPP与气候因子的相关系数计算
+
+本研究采用基于像元的空间分析方法对草地NPP与气候因子间的相关性进行分析，年尺度的植被NPP与年均气温或降水量的相关系数计算公式如下：
+
+$$
+R _ { x y } = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } \left[ \left( x _ { i } - { \bar { x } } \right) \left( y _ { i } - { \bar { y } } \right) \right] } { \displaystyle \sqrt { \sum _ { i = 1 } ^ { n } \left[ \left( x _ { i } - { \bar { x } } \right) \sum _ { i = 1 } ^ { n } \left[ \left( y _ { i } - { \bar { y } } \right) \right. \right. } } }
+$$
+
+式中， $R _ { x y }$ 为 $x , y$ 两个变量的相关系数， $x _ { i }$ 为第 $\mathbf { \chi } _ { i }$ 年的草地NPP, $\boldsymbol { y } _ { i }$ 为第 $i$ 年的年平均气温或降水量， $\bar { x }$ 为草地NPP的多年平均值， $\bar { y }$ 为年均气温或降水量的多年平均值， $i$ 是样本数，为 $2 9 \mathrm { a }$ O
+
+![](images/6c1b7a70e49e502ea794bbf8ca73dccc4bfa132c9f28ce02efe0189ed0dd69c9.jpg)  
+图2草地NPP模拟值与实测值的一致性检验 Fig.2The consistency test of grassland NPP field measured value and CASA model simulation value
+
+# 2结果与分析
+
+# 2.1中国草地 NPP 的空间分布特征分析
+
+1982—2010年中国草地年平均NPP为 $2 8 2 . 0 ~ \mathrm { g \vec { G } }$ $\mathbf { m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ ,空间分布上总体呈现东南部高西北部低的特征（图3）。其中平均NPP低于 $5 0 \mathrm { g C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 的区域位于阿拉善高原、新疆南部,青藏高原北部,占中国草地面积的$1 0 . 8 \%$ ;平均 NPP 介于 $1 0 0 { - } 2 0 0 \mathrm { g C } \ \mathrm { m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 的草地分布范围最广面积最大，主要位于青藏高原西部、鄂尔多斯高原、蒙古高原的内蒙古中部，面积占中国草地总面积的 $2 1 . 5 \%$ ;平均 NPP 介于 $2 0 0 { - } 3 0 0 \mathrm { { g C } ~ \ m ^ { - 2 } ~ a ^ { - 1 } }$ 、300-$4 0 0 \mathrm { g C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ） $4 0 0 {  { \stackrel { - } { - } } } 5 0 0 \mathrm { g C } \ \mathrm { m } ^ { - 2 } \ \mathrm { a } ^ { - 1 }$ 的草地沿中国西南—东北走向依次分布，其面积分别占中国草地总面积的$1 1 . 4 \% 1 0 . 2 \% 1 0 . 3 \%$ ;平均NPP介于 $6 0 0 { - } 1 1 5 0 \ \mathrm { g C \ m } ^ { - 2 }$ $\mathbf { a } ^ { - 1 }$ 的草地主要分布在南方草山草坡，面积占中国草地总面积的 $9 . 0 \%$ 。
+
+如表1所示,中国19 类草地的平均 NPP 有较大差异：干热稀树灌草丛的平均 NPP 最大,为 $7 1 0 . 2 \ \mathrm { g C } / \mathrm { m } ^ { 2 }$ ：热性草丛次之，为 $6 5 8 . 0 ~ \mathrm { g C } / \mathrm { m } ^ { 2 }$ ;热性灌草丛为602.6$\mathrm { g C } / \mathrm { m } ^ { 2 }$ ;高寒荒漠平均NPP最低，为 $5 7 . 7 \ \mathrm { g C } / \mathrm { m } ^ { 2 }$ ,高寒荒漠草原平均 NPP 为 $6 3 . 0 ~ \mathrm { g C } / \mathrm { m } ^ { 2 }$ 。中国草地年NPP 总量的多年平均值为 $9 8 8 . 3 ~ { \mathrm { T g } } ~ { \mathrm { C } } ( 1 ~ { \mathrm { T g } } = 1 0 ^ { 1 2 } { \mathrm { g } } )$ ,其中高寒草甸NPP总量最大为 $2 4 9 . 3 ~ \mathrm { T g ~ C / a }$ ，,占总量的 $2 5 . 2 \%$ ;温性草原次之为 $1 1 7 . 2 \mathrm { T g } \mathrm { C }$ ,山地草甸为 $7 5 . 2 \mathrm { ~ T g ~ C ~ }$ ，改良草地的 NPP 总量最小为 $1 \mathrm { T g } \mathrm { C }$ 。
+
+![](images/dbaad81d53fbcaa241149c90e9a463dcc10d1e9455ad815c838800f172a901fe.jpg)  
+图31982—2010年中国草地平均NPP的空间分布格局Fig.3Spatial pattern of mean grassland NPP in China during1982—2010
+
+表1不同草地类型的年平均NPP和总NPP  
+Table 1The mean and total NPP for different grassland types   
+
+<html><body><table><tr><td>草地类型 Grassland types</td><td>平均NPP Mean NPP/</td><td>NPP 总量 Total NPP/</td><td>草地类型 Grassland types</td><td>平均NPP Mean NPP/ （gC/m²）</td><td>NPP 总量 Total NPP/</td></tr><tr><td>温性草甸草原 Temperate meadow steppe</td><td>（gC/m²） 438.6</td><td>TgC 71.0</td><td>温性草原 Temperate steppe</td><td>292.4</td><td>TgC 117.2</td></tr><tr><td>温性荒漠草原 Temperate desert steppe</td><td>161.8</td><td>33.3</td><td>高寒草甸草原 Alpine meadow steppe</td><td>167.1</td><td>10.9</td></tr><tr><td>高寒草原 Alpine steppe</td><td>132.8</td><td>59.3</td><td>高寒荒漠草原 Alpine desert steppe</td><td>63.0</td><td>7.0</td></tr><tr><td>温性草原化荒漠 Temperate steppification desert</td><td>105.6</td><td>11.7</td><td>温性荒漠 Temperate desert</td><td>78.4</td><td>37.3</td></tr><tr><td>高寒荒漠 Alpine desert</td><td>57.7</td><td>3.6</td><td>暖性草丛 Warm grass</td><td>497.5</td><td>23.1</td></tr><tr><td>暖性灌草丛Warm shrub grass</td><td>549.2</td><td>34.2</td><td>热性草丛 Hot grass</td><td>658</td><td>72.5</td></tr><tr><td>热性灌草丛 Hot shrub grass</td><td>602.6</td><td>76.0</td><td>干热稀树灌草丛 Dry savanna shrub</td><td>710.2</td><td>4.4</td></tr><tr><td>低地草甸 Lowland meadow</td><td>337.1</td><td>95.0</td><td>山地草甸 Mountain meadow</td><td>535.4</td><td>75.2</td></tr><tr><td>高寒草甸 Alpine meadow</td><td>368.4</td><td>249.3</td><td>沼泽 Swamp</td><td>396.1</td><td>6.4</td></tr><tr><td>改良草地 Improved grassland</td><td>391.6</td><td>1.0</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.2中国草地NPP的时间动态分析
+
+1982—2010年间草地NPP总量的年际波动较大（图4），其中1994、1998和2002年较高，NPP总量分别为 $1 1 1 2 . 7 \mathrm { ~ T g ~ C ~ } , 1 1 0 2 . 7 \mathrm { T g ~ C ~ }$ 和 $1 0 7 7 . 3 \mathrm { ~ T g ~ C ~ }$ ,以上3a的 NPP总量分别高于多年平均值 $( 9 8 8 . 3 \mathrm { ~ T g ~ C ~ } ) 1 1 . 1 \%$ 、$1 0 . 3 \%$ 和 $8 . 2 \%$ 。1982年NPP总量仅为 $8 9 6 . 0 \mathrm { ~ T g ~ C ~ }$ ，为29 年间最低值,比多年平均值低 $1 0 . 4 \%$ ;1985、1987 年NPP 总量也较低,分别为 $9 1 5 . 7 \mathrm { ~ T g ~ C ~ }$ 和 $9 1 9 . 3 \mathrm { ~ T g ~ C ~ }$ 。
+
+1100 MMW  
+900  
+8001985 1990 1995 2000 2005 2010年份Year
+
+1982—2010年中国草地NPP年际变化趋势的空间分布格局显示：中国草地NPP呈增加趋势，增加速率为$0 . 6 ~ \mathrm { g C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ （图5）。NPP显著增加的区域主要分布在青藏高原西部、阿拉善高原、新疆西部，而NPP显著降低的区域主要分布在蒙古高原的内蒙古部分（图5）。
+
+从草地NPP变化的显著性统计可看出（表2），草
+
+地 NPP 呈增加趋势的面积占中国草地总面积的 $6 7 . 3 \%$ ;并且呈极显著增加( $3 5 . 8 \%$ ）、显著增加 $( 8 . 0 \% )$ 的比例大于呈极显著减少( $( 5 . 8 \% ) 、$ 显著减少 $( 4 . 8 \% )$ 的比例。19类草地NPP变化的显著性有明显差异，其中高寒荒漠草原 NPP 呈增加趋势的比例最大为 $9 9 . 5 \%$ ,且极显著增加的比例达到 $8 9 . 8 \%$ ;高寒荒漠、高寒草甸草原、高寒草原、温性荒漠,其NPP呈增加趋势的比例也较高,依次为 $9 8 . 7 \% . 9 6 . 8 \% . 9 5 . 4 \% . 9 1 . 2 \%$ 。而温性草甸草原NPP呈减少趋势的比例最大为 $8 5 \%$ ,且极显著减少的比例为 $3 5 . 9 \%$ ;暖性草丛、暖性灌草丛、热性灌草丛、干热稀树灌草丛,其NPP 呈减少趋势的比例也较大,分别为 $7 5 . 9 \% . 6 9 . 4 \% . 6 8 . 4 \% . 6 5 . 1 \%$ 。总体上高寒地区草地平均 NPP增加,南方草山草坡平均NPP减少,原因可能是青藏高原地区气候的暖湿化,有利于高寒地区草地植被生长;然而对于南方灌草丛,气温升高降水量减少不利于草地植被生长和生物量积累。
+
+$2 . 3 \gamma$ 草地 NPP年际变化与年均气温、降水量的相关性分析
+
+1982—2010年中国气温、降水量的变化趋势如图6所示,新疆、阿拉善高原、青藏高原的年均气温升高，且降水量增加,暖湿化趋势明显;南方草山草坡分布区暖干化趋势明显(图6)。统计分析表明,近30 年中国草地分布区气温呈增加趋势 $( 0 . 3 9 \mathrm { ^ { \circ } C } / 1 0 \mathrm { a } )$ ，且气温呈增加趋势的面积占中国草地总面积的 $8 4 \%$ ;降水量呈减少趋势( $\cdot - 3 . 9 3 \mathrm { m m } / 1 0 \mathrm { a }$ ）,其面积比例达 $56 \%$ 。
+
+![](images/274f2251892714076d0e1d7cd99d79fa5a6237295ed18e4b2d3a55ac0fdf6462.jpg)  
+图51982—2010年草地NPP变化趋势和显著性检验  
+Fig.5Grassland NPP changing trend and significance test from 1982 to 2010
+
+表2不同草地类型NPP变化的显著性统计  
+Table2Statistical analysis of significance test of different grassland type's NPP   
+
+<html><body><table><tr><td>G草地型pes</td><td>极显著减少 Eignremat</td><td>显著减少</td><td>不显著减少 Inerntieanh</td><td>不显著增加 insienfieant</td><td>显著增加 inignifieanth</td><td>极显著增加 Eigniemat</td></tr><tr><td>1</td><td>decrease/% 34.1</td><td>15</td><td>35.9</td><td>11.4</td><td>1.4</td><td>decrease/% 2.2</td></tr><tr><td>2</td><td>10.3</td><td>8.5</td><td>38.2</td><td>24.7</td><td>4.3</td><td>14</td></tr><tr><td>3</td><td>1.7</td><td>3.1</td><td>23.3</td><td>45.8</td><td>8.4</td><td>17.7</td></tr><tr><td>4</td><td>0</td><td>0.1</td><td>3.1</td><td>10.1</td><td>7.6</td><td>79.1</td></tr><tr><td>5</td><td>0.2</td><td>0.3</td><td>4.1</td><td>10.3</td><td>7.4</td><td>77.8</td></tr><tr><td>6</td><td>0</td><td>0</td><td>0.5</td><td>3.6</td><td>6</td><td>89.8</td></tr><tr><td></td><td>2.1</td><td>1.9</td><td>10.6</td><td>39.6</td><td>15.2</td><td>30.6</td></tr><tr><td>8</td><td>0.5</td><td>0.8</td><td>7.6</td><td>24.2</td><td>18</td><td>49</td></tr><tr><td>9</td><td>0.1</td><td>0.1</td><td>1.1</td><td>4</td><td>5.9</td><td>88.8</td></tr><tr><td>10</td><td>21.2</td><td>13</td><td>41.7</td><td>19.4</td><td>2.6</td><td>2</td></tr><tr><td>11</td><td>13.3</td><td>12.3</td><td>42.8</td><td>21.6</td><td>4</td><td>6</td></tr><tr><td>12</td><td>4.9</td><td>8.8</td><td>50.8</td><td>29.6</td><td>3.1</td><td>2.8</td></tr><tr><td>13</td><td>7.6</td><td>11.2</td><td>50.6</td><td>24.8</td><td>3</td><td>2.8</td></tr><tr><td>14</td><td>14.2</td><td>8.9</td><td>42</td><td>29.8</td><td>3.6</td><td>1.5</td></tr><tr><td>15</td><td>16.5</td><td>11.5</td><td>34</td><td>15.1</td><td>5.3</td><td>17.6</td></tr><tr><td>16</td><td>7.2</td><td>8</td><td>33.2</td><td>32.9</td><td>5.8</td><td>12.9</td></tr><tr><td>17</td><td>0.7</td><td>1.8</td><td>19.5</td><td>31.4</td><td>8.3</td><td>38.3</td></tr><tr><td>18</td><td>12.9</td><td>9.5</td><td>37.7</td><td>22.6</td><td>5.6</td><td>11.6</td></tr></table></body></html>
+
+http://www.ecologica.cn
+
+续表  
+
+<html><body><table><tr><td>草地类型 Grassland types</td><td>极显著减少 Extremely significant decrease/%</td><td>显著减少 Significant decrease/%</td><td>不显著减少 Insignificant decrease/%</td><td>不显著增加 Insignificant increase/%</td><td>显著增加 Significant increase/%</td><td>极显著增加 Extremely significant decrease/%</td></tr><tr><td>19</td><td>14.5</td><td>13.3</td><td>37.4</td><td>28.4</td><td>2.5</td><td>3.8</td></tr><tr><td>20</td><td>5.8</td><td>4.8</td><td>22.2</td><td>23.4</td><td>8</td><td>35.8</td></tr></table></body></html>
+
+1:温性草甸草原Temperate meadow steppe;2:温性草原Temperate steppe;3:温性荒漠草原Temperate desert steppe;4:高寒草甸草原Alpine meadowsteppe:5:高寒草原Alpine seppe:6：高寒荒漠草原Alpine desert tepe；7:温性草原化荒漠Temperatestepification desert 8：温性荒漠 Temperate desert9:高寒荒漠Apine desert;10:暖性草丛Warmgrass11:暖性灌草丛Warmshrubgrass12:热性草丛Hot grass13:热性灌草丛Hot shrubgrass;14干热稀树灌草丛Drysavanna shrub;15:低地草甸Lowland meadow;16;山地草甸Mountainmeadow;17:高寒草甸Alpinemeadow;18： 沼泽 Swamp;19:改良草地 Improved grassland;2O：中国全部草地 Total grassland of China9. ?
+
+图7是草地 NPP与年均气温、降水量的相关系数分布图。总体上草地 NPP与年均气温呈正相关( $R =$ 0.12），并且青藏高原西南部、阿拉善高原,相关系数达到显著正相关( $\scriptstyle P < 0 . 0 5 { \mathrm { ~ . ~ } }$ )；然而蒙古高原的内蒙古部分、青藏高原西部、新疆北部、南方草山草坡分布区,其NPP 与年均气温呈负相关。草地 NPP与年降水量的相关系数为0.22,空间分布上,大部分地区相关系数为正,尤其是蒙古高原的内蒙古部分 鄂尔多斯高原、青藏高原西部,相关系数达到显著正相关( $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ )。然而阿尔泰山以及青藏高原东南部等地区，其草地NPP与降水量呈负相关,与温度呈正相关;分析原因可能是该区域属于高海拔的冷湿环境,低温是植被生长的限制因子;并且近30年降水量增加明显(图6),然而降水量的增加意味着气温的降低[25],从而抑制植被生长,因此草地NPP与降水量之间负相关关系的真正作用机制是受温度的影响。
+
+![](images/61d40745736fedf1c9a3f6450213fb41c875dbe5c59cf11c0919b7aa5eb626b0.jpg)  
+图6中国1982—2010年平均温度和降水量的变化趋势空间分布图
+
+Fig.6Change trend of annual mean temperature and precipitation during1982—2010 in Chin
+
+# 3讨论与结论
+
+3.1 不同类型草地NPP的时间变化特征
+
+1980s、1990s中国草地 NPP 的增加趋势逐渐减少,2001—2010年 NPP呈减少趋势（图8）。19类草地NPP 变化趋势的年代际间差异明显，总体上表现为4种特征： $\textcircled{1}$ 高寒草甸草原、高寒荒漠草原、高寒荒漠、高寒草原、温性荒漠、温性草原化荒漠、温性荒漠草原的NPP在1982—2010 年均呈增加趋势，分析原因：一方面由于以上地区气候的暖湿化，有利于草地植被生长；另一方面国家退牧还草工程的实施,如人工种草、围栏封育和划区轮牧措施一定程度上促进草地植被生长，导致生产力提高。 $\textcircled{2}$ 山地草甸、高寒草甸、改良草地的NPP在1982—2000 年呈增加趋势，在2001—2010 年呈减少趋势。 $\textcircled{3}$ 温性草甸草原、温性草原、暖性草丛、暖性灌草丛、低地草甸、沼泽的NPP 在1980s呈增加趋势,而在1991—2010 年呈减少趋势。 $\textcircled{4}$ 热性草丛、热性灌草丛、干热稀树灌草丛的NPP在近30年均呈减少趋势，原因可能是近30年我国南方降水量减少，气温升高，暖干趋势明显（图6)，不利于草地生长和生产力提高。
+
+![](images/f8da5d8cf2e42636fd607024da135e32a12a866f59d615496f7e87c5c27fe88f.jpg)  
+Fig.7Correlation coeficient between grassland NPP and temperature，precipitation in China
+
+# 3.2气候水热因子变化对草地NPP 的影响分析
+
+气候变化是陆地植被活动年际变化的主要影响因素[26.27]。本研究发现： $\textcircled { 1 } 1 9 8 2 - 2 0 1 0$ 年我国 $8 4 \%$ 的草地分布区年均气温呈增加趋势( $( 0 . 3 9 \mathrm { ^ { \circ } C } / 1 0 \mathrm { a } )$ ，稍低于全国 $0 . 4 2 \% / 1 0 \mathrm { a } ^ { [ 2 8 ] }$ $\textcircled{2} 5 6 \%$ 的草地分布区年降水量呈减少趋势 $( - 3 . 9 \mathrm { { m m } / 1 0 a } )$ ; $\textcircled{3}$ 我国西北干旱区和青藏高原
+
+![](images/4ce10097f0ff4a3216656596d44bdd34b6103ead80adf1ed3d32f526f07dbc15.jpg)  
+图7中国草地NPP与气温和降水量的相关系数空间分布图  
+图8不同类型草地NPP的年代际变化趋势  
+Fig.8The change trend of annual NPP of different grassland types from 1980s to 2010s
+
+1：高寒草甸草原;2：高寒荒漠草原;3：高寒荒漠;4：高寒草原;5：温性荒漠;6：温性草原化荒漠；7：温性荒漠草原;8：山地草甸;9：高寒草甸;10：改良草地;11：温性草甸草原;12：沼泽；13：暖性草丛;14：暖性灌草丛；15：温性草原；16：低地草甸；17：热性草丛;18：热性灌草丛;19：干热稀树灌草从;20：全部草地
+
+地区气温升高,降水量也增加,这与前人关于中国西北地区气候变化的研究结论一致,即我国西北地区气候自1980s 以来暖湿趋势明显[8]。因为降水量的增加使得水分对草地生长的胁迫作用降低,进而促进干旱地区草地生长; $\textcircled{4}$ 我国 $6 7 . 2 \%$ 的草地分布区的 NPP 呈增加趋势,增加速率达到 $0 . 6 ~ \mathrm { g C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 。
+
+水热因子对草地 NPP 的影响方面：NPP与降水量的相关系数大于与温度的相关系数( $R = 0 . 2 2 , 0 . 1 2 ;$ ，表明草地植被的生长受降水量的影响更大,因为水分是草地生命活动和草地NPP 变化最主要的限制性因子，尤其在干旱地区[29]。由于温度的增加则意味着蒸散量的加强和可利用水分的减少,使环境更加干旱[30]。但不同类型草地NPP对温度、降水量的依赖程度存在差异(表3）,研究发现,温性荒漠草原NPP与降水量的相关系数最大( $R = 0 . 4 4 )$ ,达到极显著正相关;温性草原( $R = 0 . 4 )$ 和温性草甸草原( $R = 0 . 4 \AA .$ )次之，达到显著正相关；这是由于以上3种草地主要分布在西部干旱半干旱地区,对于干旱地区降水的增加有利于草地植被的生长[31]。殷贺等在对内蒙古荒漠化研究中也发现,降水因子和荒漠区植被恢复有着密切的联系,降水量较高的丰水年份,荒漠边缘的稀疏草地和灌丛生长状况较好,植被恢复较好[32]。暖性草丛、暖性灌草丛、热性草丛、热性灌草丛、干热稀树灌草丛的 NPP 与温度呈负相关,由于南方草山草坡分布区气候炎热,温度升高将进一步导致蒸散发量增加,不利于草地植被生长。
+
+表3不同类型草地NPP与年均气温和年总降水量的相关系数  
+Table 3Coefficient between grassand NPP and annual mean temperature and precipita   
+
+<html><body><table><tr><td>草地类型 Grassland types</td><td>与气温相关系数 Cowitien rarao</td><td>与降水量相关系数</td><td>草地类型 Grassland types</td><td>与气温相关系数 与降水量相关系数 Cowitientilgaiai</td></tr><tr><td>1</td><td>0.03</td><td>0.40 *</td><td>2</td><td>0.03 0.40 *</td></tr><tr><td>3</td><td>0.06</td><td>0.44**</td><td>4 0.25</td><td>0.05</td></tr><tr><td>5</td><td>0.19</td><td>0.19</td><td>6</td><td>0.17 0.36</td></tr><tr><td>7</td><td>0.12</td><td>0.34</td><td>8 01</td><td>0.23 0.23</td></tr><tr><td>9</td><td>0.24</td><td>0.37</td><td>10 -0.11</td><td>0.17</td></tr><tr><td>11</td><td>-0.06</td><td>0.12</td><td>12 -0.06</td><td>0.15</td></tr><tr><td>13</td><td>-0.1</td><td>0.16</td><td>14 -0.13</td><td>0.11</td></tr><tr><td>15</td><td>0.13</td><td>0.23</td><td>16</td><td>0.06 0.03</td></tr><tr><td>17</td><td>0.2</td><td>0.01 1</td><td>18</td><td>0.12 0.18</td></tr><tr><td>19</td><td>0.06</td><td>0.27</td><td>● 20</td><td>0.12 0.22</td></tr></table></body></html>
+
+1—20 意义同表2； $*$ 显著相关( $P { < } 0 . 0 5 )$ ， $\ast \ast$ 极显著相关( $P { < } 0 . 0 1 )$
+
+# 3.3结论
+
+(1)中国草地年平均NPP 为 $2 8 2 . 0 ~ \mathrm { g C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ,年总 NPP 为 $9 8 8 . 3 ~ \mathrm { T g C }$ 。在1982—2010 年间,草地 NPP 呈增加趋势 $( 0 . 6 ~ \mathrm { g C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 } \$ ),呈增加趋势的草地面积占中国草地总面积的 $6 7 . 2 \%$ 。
+
+(2)空间分布上,中国草地NPP 呈现东南部高西北部低的特征。NPP 显著增加的区域位于青藏高原西部、阿拉善高原、新疆西部,显著降低的区域位于内蒙古地区。
+
+（3)中国草地 NPP 在不同年代际和不同草地类型的变化趋势不同。1980—2000 年草地 NPP 呈增加趋势,2010年以来呈减少趋势;其中高寒地区草原和荒漠地区草原其NPP 在近30年均呈增加趋势,而热带地区灌草丛其NPP 在近30 年均呈减少趋势。
+
+(4)降水量对中国草地NPP 的影响比气温的影响更明显。不同草地类型 NPP 对年均气温、年总降水量的依赖程度不同,其中温性荒漠草原、温性草原、温性草甸草原其 NPP 与降水量间达到显著正相关( $P <$ 0.05）,而暖性草丛、暖性灌草丛、热性草丛、热性灌草丛、干热稀树灌草丛的 NPP 与温度呈负相关。
+
+# 参考文献（References）：
+
+[1]Walker B,Stefen W.IGBP Science No.1:asynthesis of GCTEand related research.Stockholm:IGBP,1997:1-24.  
+［2」张新时.研究全球变化的植被——气候分类系统.第四纪研究，1993，（2)：157-169.  
+[3]FifhAssessmenteport-Climatechange3htp://wwipc.ch/pdf/ssesmen-reporar5/g/W5SummaryVuFACHINESE.pdf  
+[4MatsushitaB，amuraMIntegraingmotelysseddataitanosysteodeltstiateetpraryproductiviinEastsiaoteSensing of Environment，2002，81(1）：58-66.
+
+http://www.ecologica.cn
+
+[5]NemaniRR,KeelingCD,HashimotoH,JllyW,iperSC,TuckerCJ,MyiRB,ngSW.Climate-ivenincreasesiglobalterrestrial net primary production from 1982 to 1999.Science，2003,300(5625）：1560-1563.  
+[6]FangJY,PiaoSL,TangZY,PegCH,JiW,KnapAK,SmthMD.InteraalvrabilityetprimarypructioandtatioScience，2001，293(5536)：1723-1723.  
+[7]RugSRR,F,Zsselieoeproduction.BioScience，2004,54(6）：547-560.  
+[8]ShiYF,ShenYP,KangES,LiDL,DingYJ,ZhangGW,HuRJ.Recentandfutureclimatechangeinnorthwest China.CliaticChange,2007,80(3/4):379-393.  
+[9］王绍武，龚道溢，叶瑾琳，陈振华.1880年以来中国东部四季降水量序列及其变率.地理学报，2000,55（3）：281-293.  
+[10] 王绍武，叶瑾琳，龚道溢，朱锦红，姚檀栋.近百年中国年气温序列的建立.应用气象学报，1998，9（4)：392-401.  
+[11] ZhaiPM,ZgXWnH,nXHdsintalpreiiatodrefiltatietreeorina.Joalate,2005，18（7)：1096-1108.  
+[12] 朴世龙，方精云，郭庆华.1982—1999年我国植被净第一性生产力及其时空变化.北京大学学报：自然科学版，2001,37（4）：563-569.  
+[13] 朱文泉，潘耀忠，阳小琼，宋国宝.气候变化对中国陆地植被净初级生产力的影响分析.科学通报，2007，52(21)：2535-2541.  
+[14] ScurlockJMO,HallDO.The global carbon sink:a grasland perspective.Global Change Biology，1998,4（2）:229-233.  
+[15] Ni J.Forage yield-based carbon storage in grasslands of China. Climatic Change，2O04,67(2/3）：237-246.  
+[16]高清竹，万运帆,李玉娥，盛文萍，江村旺扎，王宝山，李文福.藏北高寒草地NPP变化趋势及其对人类活动的响应.生态学报，2007,27(11) : 4612-4619.  
+[17]PiaoSL，FangJY，ZhouLM，TanK，TaoS.ChangesinbiomasscarbonstocksinChina'sgrassandsbetween1982and9.GlobalBiogeochemical Cycles，2007，21(2）：GB2002.  
+[18] 王玉辉，周广胜.内蒙古羊草草原植物群落地上初级生产力时间动态对降水变化的响应.生态学报，2004，24(6)：1140-1145.  
+[19] 张峰，周广胜，王玉辉.基于CASA 模型的内蒙古典型草原植被净初级生产力动态模拟.植物生态学报，2008，32（4)：786-797.  
+[20] 龙慧灵，李晓兵，王宏，魏丹丹，张程.内蒙古草原区植被净初级生产力及其与气候的关系.生态学报，2010,30(5)：1367-1378.  
+[21] 中华人民共和国农业部畜牧兽医司，全国畜牧兽医总站.中国草地资源.北京：中国科学技术出版社，1996.  
+[22]PlteCdeoCBatoieoH,lesriosproducselbased on global satelite and surface data. Global Biogeochemical Cycles，1993,7(4):811-841.  
+[23]ZhuWQ,PanYZ,HeH,YuDY，HuHB.SimulatoofmaximumlghtuseefencyforsometypicalvegetationtypesinCina.ChineScience Bulletin，2006,51(4）：457-463.  
+[24］朴世龙，方精云，贺金生，肖玉.中国草地植被生物量及其空间分布格局.植物生态学报，2004，28（4)：491-498.  
+[25］穆少杰，李建龙，陈奕兆，刚成诚，周伟，居为民.2001-2010年内蒙古植被覆盖度时空变化特征.地理学报，2012,67（9)：1255-1268.  
+[26]Keeling CD,Chin JF S,Whorf TP.Increased activity of northern vegetation inferred from atmospheric $\mathrm { C O } _ { 2 }$ measurements.Nature，1996,382(6587):146-149.  
+[27]WelzinJF,LoikME,ShwiningS,WiliamsDG,FayPA,HaddadBM,HarteJ,HuxmanTE,KnappAK,LinGH,PockmanWT,ShawR,SmallEE，SmithMD,SmithSDissueD,ZakJC.Asessngheesponseofterestrialosystmstpotenialagsinprecipitation. BioScience,2003,53（10）: 941-952.  
+[28]PiaoSFgJWHKeJoVaoitelibsvegeatiodeielatoteialfVegetation Science，2004，15(2）:219-226.  
+29]GuoR,angXKOgZY,iYatidleaisspreiourfChina. Jourmal of Environmental Sciences，2006，18（5）:1024-1030.  
+[30]ShenW,iHD,ugasfoliaandldthYugZgbRvebsofibetinar75tbaland Planetary Change，2012,86-87:37-44.  
+[31]YangY,angY，aWH,WangReltioshietweenvarablitibovegoundetpriaryprductiodprecipiatioigloblgrasslands.Geophysical Research Letters，2008,35(23）：L23710.  
+[32］殷贺，李正国，王仰麟，蔡福.基于时间序列植被特征的内蒙古荒漠化评价.地理学报，2011,66(5)：653-661.

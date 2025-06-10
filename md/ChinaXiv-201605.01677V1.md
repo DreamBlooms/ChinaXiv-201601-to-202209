@@ -1,0 +1,324 @@
+# 椭圆轨道编队构型的初始化控制研究
+
+雷博持1,2 郑建华1 李明涛1
+
+1(中国科学院空间科学与应用研究中心复杂航天系统电子信息技术重点实验室北京 100190)
+
+2(中国科学院大学北京 100049)
+
+摘要研究了椭圆参考轨道下的编队构型初始化问题，给出轨道面内绕飞构型的三种初始化策略.基于状态转移矩阵研究了构型初始化的两脉冲机动方法；基于高斯摄动方程，以降低燃料消耗为原则，研究了构型初始化的三迹向脉冲和四迹向脉冲方法，推导了速度增量的求解方程;对上述三种构型初始化策略进行了仿真分析，利用序列二次规划和遗传算法对计算结果进行优化.数值仿真表明，三种初始化策略均能完成构型初始化，三迹向脉冲初始化比两脉冲初始化节省约 $4 1 \%$ 的速度增量，四迹向脉冲初始化需要的速度增量与三迹向脉冲初始化基本相等.
+
+关键词 椭圆参考轨道，构型初始化，三迹向脉冲，四迹向脉冲中图分类号V412
+
+# Research on Formation Initialization Control for Elliptic Reference Orbit
+
+LEI Bochi $^ { 1 , 2 }$ （20 ZHENG Jianhua1 LI Mingtao1
+
+1(Key Laboratory of Electronics and Information Technology for Space Systems，Center for Space Science and Applied Research,Chinese Academy of Sciences,Beijing 100190) 2(University of Chinese Academy of Sciences,Beijing 100049)
+
+AbstractFormation initialization for eliptic reference orbit is studied in this paper,and three formation initialization strategies for planner formation configuration are derived.Firstly,two impulsive initialization strategy is derived using the state transition matrix. Secondly,three and four in-track impulsive initialization strategies are studied using the Gauss perturbation equations with the principle of minimal fuel consumption.Finally,numerical simulations of three initialization strategies are carried out,and the sequence quadratic programming and genetic algorithm are proposed to optimize the numerical results. Simulation results show that three in-track impulsive initialization strategy requires about $4 1 \%$ less velocity increment compared with two impulsive initialization strategy, and four in-track impulsive initialization strategy requires almost equal velocity increment compared with three in-track impulsive initialization strategy.
+
+Key wordsElliptic reference orbit,Formation initialization, Three in-track impulses, Four in-track impulses
+
+# 0 引言
+
+近年来小卫星编队飞行技术得到快速发展，与传统单颗星相比，编队具备很多优势.特别是随着小卫星、微小卫星以及纳卫星技术的不断进步，编队越来越受到重视，编队飞行技术已在工程实践中得到飞行验证[1-3].
+
+构型初始化是航天器编队飞行中的关键技术之一．已有很多学者对编队构型初始化策略进行了大量研究，但是大部分研究集中于圆轨道编队初始化问题，对椭圆轨道的初始化仍有待进一步研究．王兆魁[4]研究了两径向脉冲作用时，轨道面内环绕构型的初始化问题;孟云鹤[5在分析单向脉冲对编队的影响后，研究了两径向、三迹向脉冲的初始化方法；张玉琨[6]和朱彦伟[7]分别研究了圆参考轨道和椭圆参考轨道下编队构型初始化的两冲量问题
+
+本文研究椭圆参考轨道下的编队构型初始化问题.基于状态转移矩阵，对两脉冲初始化问题进行研究;基于高斯摄动方程，推导了三迹向脉冲和四迹向脉冲的构型初始化方法，给出所需脉冲速度增量的求解方程;进行了仿真验证并对计算结果进行优化，对三种构型初始化策略进行了综合比较分析.
+
+# 1构型初始化原理
+
+假设初始时刻主从星轨道根数近似相同，在编队构型已知时，根据构型设计参数可以得到从星相对主星的相对轨道根数，一般是轨道根数之差.构型初始化是通过一系列轨道机动控制，改变从星相对主星的轨道根数，产生需要的相对轨道要素差，进而形成所需的编队构型，
+
+$u _ { r }$ $r , u _ { h } , u _ { \theta }$ 分别表示从地心指向卫星方向、卫星角动量方向以及与 $u _ { r } , u _ { h }$ 构成右手正交坐标系的方向．设控制矢量 $\mathbf { \boldsymbol { u } } = ( u _ { r } ~ u _ { h } ~ u _ { \theta } ) ^ { \mathrm { T } }$ ， $\boldsymbol { u }$ 对轨道要素 $\mathbf { \Omega } _ { a }$ $e , i , \varOmega , \omega , M$ 的影响可用高斯摄动方程来描述，有
+
+$$
+\begin{array} { l } { \displaystyle \frac { \mathrm { d } a } { \mathrm { d } t } = \frac { 2 a ^ { 2 } } { h } \big ( e \sin f u _ { r } + \frac { P } { r } u _ { \theta } \big ) , } \\ { \displaystyle \frac { \mathrm { d } e } { \mathrm { d } t } = \frac { 1 } { h } \{ { P } \sin f u _ { r } + [ ( P + r ) \cos f + r e ] u _ { \theta } \} , } \\ { \displaystyle \frac { \mathrm { d } i } { \mathrm { d } t } = \frac { r \cos \theta } { h } u _ { h } , } \end{array}
+$$
+
+$$
+\begin{array} { l } { \displaystyle \frac { \mathrm { d } \varOmega } { \mathrm { d } t } = \frac { r \sin \theta } { h \sin i } u _ { h } , } \\ { \displaystyle \frac { \mathrm { d } \omega } { \mathrm { d } t } = \frac { 1 } { h e } [ - P \cos f u _ { r } + ( P + r ) \sin f u _ { \theta } ] - \cos i \frac { \mathrm { d } \varOmega } { \mathrm { d } t } , } \\ { \displaystyle \frac { \mathrm { d } M } { \mathrm { d } t } = n + \frac { \eta } { h e } [ ( P \cos f - 2 r e ) u _ { r } - ( P + r ) \sin f u _ { \theta } ] . } \end{array}
+$$
+
+式(1)中,
+
+$$
+\begin{array} { l } { { \theta = \omega + f , \eta = \sqrt { 1 - e ^ { 2 } } , P = a ( 1 - e ^ { 2 } ) , } } \\ { { n = \sqrt { \mu / a ^ { 3 } } , h = \sqrt { \mu P } . } } \end{array}
+$$
+
+从高斯摄动方程可以看出，轨道面外的构型初始化相对简单．只需要在相应位置处施加法向脉冲，改变轨道倾角或者升交点赤经，即可完成轨道面外构型的初始化.
+
+轨道面内构型的初始化比较复杂，需在保持轨道半长轴不变的同时，改变相对偏心率、相对近地点幅角和相对平近点角等.本文主要研究轨道面内绕飞编队构型的初始化方法，对经典两脉冲法，重点对椭圆参考轨道编队初始化的三迹向脉冲法和四迹向脉冲法进行了研究，
+
+# 2构型初始化策略
+
+# 2.1 两脉冲
+
+根据两脉冲机动原理，两脉冲构型初始化方法是指，给定初始时刻 $t _ { 0 }$ 及另一时刻 $t _ { 1 }$ ，以及 $t _ { 0 }$ 时刻从星相对主星的相对运动状态 $\mathbf { \boldsymbol { r } } _ { 0 }$ ， $\boldsymbol { v } _ { 0 } ^ { - }$ ，在这两个时刻施加两次脉冲，使 $t _ { 1 }$ 时刻脉冲作用后的相对运动状态为 $\mathbf { \boldsymbol { r } } _ { 1 }$ ， $\boldsymbol { v } _ { 1 } ^ { + }$ ，即期望构型所对应的运动状态．在该方法中，基于状态转移矩阵求解脉冲速度增量.其中上标 $\mathbf { \delta } - \mathbf { \delta } _ { \mathbf { \alpha } } + \mathbf { \delta }$ 分别表示脉冲施加前后，
+
+根据椭圆参考轨道相对运动动力学方程，可以推导出该动力学方程的状态转移矩阵 $\phi$ ，进而利用状态转移矩阵求出两次脉冲速度增量的大小[7]．其过程如下.
+
+由状态转移矩阵可得
+
+$$
+\begin{array} { r } { \pmb { v } _ { 0 } ^ { + } = \phi _ { 1 2 } ^ { - 1 } ( \pmb { r } _ { 1 } - \phi _ { 1 1 } \cdot \pmb { r } _ { 0 } ) , } \\ { \pmb { v } _ { 1 } ^ { - } = \phi _ { 2 1 } \cdot \pmb { r } _ { 0 } + \phi _ { 2 2 } \cdot \pmb { v } _ { 0 } ^ { + } . } \end{array}
+$$
+
+其中状态转移矩阵
+
+$$
+\phi = \left[ \begin{array} { c c } { { \phi _ { 1 1 } } } & { { \phi _ { 1 2 } } } \\ { { \phi _ { 2 1 } } } & { { \phi _ { 2 2 } } } \end{array} \right] ,
+$$
+
+进而可以得到两脉冲矢量的大小为
+
+$$
+\begin{array} { r } { \Delta \pmb { v } _ { 0 } = \pmb { v } _ { 0 } ^ { + } - \pmb { v } _ { 0 } ^ { - } , } \\ { \Delta \pmb { v } _ { 1 } = \pmb { v } _ { 1 } ^ { + } - \pmb { v } _ { 1 } ^ { - } . } \end{array}
+$$
+
+给定一个 $t _ { 1 }$ ，根据式（4）可以求出一组 $\Delta \pmb { v } _ { 0 }$ $\Delta { } v _ { 1 }$ ，对应一个两脉冲机动策略.另外，当 $t _ { 1 }$ 是未知量时，两次脉冲速度增量之和是时间 $t _ { 1 }$ 的函数，对这一非线性优化问题进行寻优，即可得到在给定时间段内两脉冲构型初始化所需要的最小速度增量，
+
+# 2.2 三迹向脉冲
+
+假设达到期望构型时，从星相对主星的相对轨道根数(轨道根数之差）为 $[ \Delta a , \Delta e , \Delta i , \Delta \varOmega , \Delta \omega , \Delta M ]$ 对于轨道面内编队， $\Delta i , \Delta \varOmega$ 均为零．在理想情况下,为保证等周期性且不考虑半长轴修正时， $\Delta a$ 一般也为零．因此考虑在三个位置处，即参考星真近点角为 $f _ { 1 }$ ， $f _ { 2 }$ ， $f _ { 3 }$ 时分别施加三次迹向脉冲以形成 $\Delta e$ $\Delta \omega , \Delta M$ ：设这三次迹向脉冲分别为 $\mathrm { d } v _ { 1 }$ ， $\mathrm { d } v _ { 2 }$ ， $\mathrm { d } v _ { 3 }$ =
+
+从式（1）可以看出，利用迹向脉冲调整 $e , \omega , M$ 时，均会引起半长轴改变．设三次迹向脉冲所引起的轨道根数改变量为 $[ \delta a , \delta e , \delta w , \delta M ]$ ．则根据式（1）可以得到
+
+$$
+\begin{array} { r l } { \sin \theta _ { 1 } } & { = \frac { \gamma \alpha _ { 2 } ^ { 2 } m _ { 1 } } { \sqrt { \pi } } , \sin \theta _ { 1 } , \sin \theta _ { 2 } , \sin \theta _ { 1 } , } \\ { \sin ^ { 2 } \theta _ { 2 } , } & { = \frac { \gamma \alpha _ { 2 } ^ { 2 } m _ { 1 } } { \sqrt { \pi } } , } \\ { \sin ^ { 2 } \theta _ { 1 } , } & { = \frac { \gamma \alpha _ { 2 } ^ { 2 } m _ { 1 } ^ { 2 } \sin ^ { 2 } \theta _ { 2 } } { \sqrt { \pi } } , } \\ & { \frac { \gamma \alpha _ { 2 } ^ { 2 } \sin ^ { 2 } \theta _ { 2 } } { \sqrt { \pi } } , } \\ & { \frac { \gamma \alpha _ { 2 } ^ { 2 } \sin ^ { 2 } \theta _ { 1 } - \sin ^ { 2 } \theta _ { 2 } \sin ^ { 2 } \theta _ { 2 } } { \sqrt { \pi } } , } \\ & { \frac { \gamma \alpha _ { 2 } ^ { 2 } \sin ^ { 2 } \theta _ { 2 } + \sin ^ { 2 } \theta _ { 1 } \sin ^ { 2 } \theta _ { 2 } } { \sqrt { \pi } } , } \\ & { \frac { \gamma \alpha _ { 2 } ^ { 2 } \sin ^ { 2 } \theta _ { 1 } + \sin ^ { 2 } \theta _ { 2 } \sin ^ { 2 } \theta _ { 2 } } { \sqrt { \pi } } , } \\ & { \frac { \gamma \alpha _ { 2 } ^ { 2 } \sin ^ { 2 } \theta _ { 2 } + \sin ^ { 2 } \theta _ { 1 } \sin ^ { 2 } \theta _ { 2 } + \cos ^ { 2 } \theta _ { 1 } \sin ^ { 2 } \theta _ { 2 } } { \sqrt { \pi } } , } \\ & { \frac { \gamma \alpha _ { 2 } ^ { 2 } \sin ^ { 2 } \theta _ { 2 } \sin ^ { 2 } \theta _ { 1 } - \sin ^ { 2 } \theta _ { 2 } \sin ^ { 2 } \theta _ { 2 } } { \sqrt { \pi } } } \\ & { \frac { \gamma \alpha _ { 2 } ^ { 2 } \sin ^ { 2 } \theta _ { 2 } \sin ^ { 2 } \theta _ { 1 } - \cos ^ { 2 } \theta _ { 2 } \sin ^ { 2 } \theta _ { 2 } } { \sqrt { \pi } } , } \end{array}
+$$
+
+式(5)中， $r _ { i }$ ， $M _ { i }$ 分别表示卫星在真近点角为 $f _ { i }$ 处的半径和平近点角，
+
+对于式(5）中的 $\delta M$ ，第一项根据高斯摄动方程得到,第二项和第三项是脉冲控制导致半长轴发生变化从而引起的平均角运动误差[8]．第三次脉冲作用
+
+完毕，半长轴误差再变为零.其推导过程如下.
+
+根据
+
+$$
+n = { \sqrt { \mu / a ^ { 3 } } } ,
+$$
+
+可得
+
+$$
+\delta n = - \frac { 3 n } { 2 a } \delta a .
+$$
+
+又由于
+
+$$
+\delta a = \frac { 2 a ^ { 2 } p } { h r } \mathrm { d } v ,
+$$
+
+则可得
+
+$$
+\delta n _ { 1 } = - \frac { 3 n a p } { h r _ { 1 } } \mathrm { d } v _ { 1 } .
+$$
+
+同理,
+
+$$
+\delta n _ { 2 } = - \frac { 3 n a p } { h r _ { 2 } } \mathrm { d } v _ { 2 } .
+$$
+
+由于
+
+$$
+\begin{array} { c } { { t _ { 3 } - t _ { 1 } = ( m _ { 3 } - m _ { 1 } ) / n , } } \\ { { \nonumber } } \\ { { t _ { 3 } - t _ { 2 } = ( m _ { 3 } - m _ { 2 } ) / n , } } \end{array}
+$$
+
+总的平均角运动误差为
+
+$$
+\begin{array} { r l } & { \delta n _ { 1 } ( t _ { 2 } - t _ { 1 } ) + ( \delta n _ { 1 } + \delta n _ { 2 } ) ( t _ { 3 } - t _ { 2 } ) = } \\ & { \qquad \delta n _ { 1 } ( t _ { 3 } - t _ { 1 } ) + \delta n _ { 2 } ( t _ { 3 } - t _ { 2 } ) = } \\ & { \qquad \quad - \frac { 3 \left( M _ { 3 } - M _ { 1 } \right) a p } { h r _ { 1 } } \mathrm { d } v _ { 1 } - \frac { 3 \left( M _ { 3 } - M _ { 2 } \right) a p } { h r _ { 2 } } \mathrm { d } v _ { 2 } . } \end{array}
+$$
+
+令脉冲引起的轨道根数变化量等于期望构型所对应的轨道根数差，则可得到如下方程：
+
+$$
+\left\{ \begin{array} { l l } { \delta a = \Delta a , } \\ { \delta e = \Delta e , } \\ { \delta \omega = \Delta \omega , } \\ { \delta M = \Delta M . } \end{array} \right.
+$$
+
+对式（13）进行简化分析，根据高斯摄动方程可以看出，在分别施加三次迹向脉冲时，采用先调整 $\omega$ 再调整 $\boldsymbol { \mathscr { e } }$ 的策略，在该调整过程中 $M$ 同时得到调整达到节省燃料的目的．另外，为保证脉冲作用的效率最高，即 $u _ { \theta }$ 前面系数的绝对值最大，可以给定端点值 $f _ { 1 } , f _ { 3 }$ 令 $f _ { 2 }$ 待定.
+
+这样式（13）中包含4个未知数及4个方程，可以通过数值方法求解．更进一步，当脉冲作用点 $f _ { 1 }$ $f _ { 3 }$ 不固定时，可以使用序列二次规划算法对 $f _ { 1 }$ ， $f _ { 3 }$ 寻优,先确定 $f _ { 1 } , f _ { 3 }$ ，再按照上述方法求解方程
+
+# 2.3 四迹向脉冲
+
+与 2.2 节类似，考虑在 4个位置即参考星 4个不同真近点角对应的位置处分别施加4次迹向脉冲，对 ${ \mathbf { \Omega } } _ { e , \omega , M }$ 进行调整,同时也要保持 $\Delta a$ 为零.
+
+根据式(1)以及2.2节内容,略去详细推导过程可得如下方程组：
+
+$$
+\delta a = \frac { 2 a ^ { 2 } p } { h r _ { 1 } } \mathrm { d } v _ { 1 } + \frac { 2 a ^ { 2 } p } { h r _ { 2 } } \mathrm { d } v _ { 2 } + \frac { 2 a ^ { 2 } p } { h r _ { 3 } } \mathrm { d } v _ { 3 } +
+$$
+
+$$
+\frac { 2 a ^ { 2 } p } { h r _ { 4 } } \mathrm { d } v _ { 4 } = 0 ,
+$$$$
+\begin{array} { r l } & { \quad \quad \forall _ { \pm } \equiv \frac { \hbar } { \hbar } ( \frac { \hbar } { 2 } - \gamma ) \alpha ( 1 - \epsilon ) ( \alpha - \epsilon ) ( \alpha - \epsilon ) } \\ & { = \hbar ( \frac { \hbar } { 2 } - \gamma ) ( \alpha - \epsilon ) ( \alpha - \epsilon ) ( \alpha - \epsilon ) } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \times - \frac { \hbar } { \hbar } ( \alpha - \epsilon ) ( \alpha - \epsilon ) ( \beta - \epsilon ) } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ &  \quad \quad \end{array}
+$$$$
+\begin{array} { r l } & { \delta ( \mu + \gamma , \mathbf { z } \cdot \mathbf { x } ) = \hat { \rho } _ { 0 } ( \mathbf { z } + \gamma , \mathbf { z } \cdot \mathbf { x } ) \hat { \rho } _ { 0 } ( \mathbf { z } + \gamma , \mathbf { z } \cdot \mathbf { x } ) } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad }  \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad }  \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad }  \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad }  \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ &  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \end{array}
+$$
+
+对于式 (14),当四次迹向脉冲的作用点都已知，即 $f _ { 1 }$ $f _ { 2 }$ $\therefore f _ { 3 } , f _ { 4 }$ 已知时，该方程是个四元线性方程组，若系数矩阵可逆，则可以求解得到 $\mathrm { d } v _ { 1 }$ ， $\mathrm { d } v _ { 2 }$ ， $\mathrm { d } v _ { 3 }$ ， $\mathrm { d } v _ { 4 }$ 的解析解.
+
+下面分析脉冲作用点对应的参考星真近点角的选取．仍采用先调整 $\omega$ 再调整 $e$ ，间接调整 $M$ 的策略，以节省燃料，同时也要保证单次脉冲的作用效率最高.综上，可以先选取一组真近点角为90270360180]，解出一组可行解
+
+进一步,利用遗传算法对4个脉冲作用点进行优化，在优化的基础上求解式 (14)，将优化结果与上述可行解进行比对
+
+# 3仿真分析
+
+根据编队构型设计方法，针对任务需求，可以得到轨道面内绕飞队形在初始时刻的主星轨道根数以及期望构型所对应的相对轨道根数，结果列于表1.
+
+下面针对第2节的理论公式推导进行仿真验证，先在MATLAB中进行数值计算，解算出脉冲速度增量，再在STK中进行可视化仿真分析.
+
+# 3.1 两脉冲
+
+基于2.1节的分析可以看出，对于两脉冲构型初始化策略，给定两个时间点，即可根据解析解的表达式直接求出两次脉冲速度增量大小．这里采用对脉冲作用点寻优的方法来研究这一问题，利用序列二次规划[9」对这一非线性优化问题进行求解
+
+在一个轨道周期内，假定初次脉冲作用点对应时刻 $t _ { 0 } ~ = ~ 0$ ，仅对第二次脉冲作用的时间 $t _ { 1 }$ 进行寻优 (单点优化)．以此得到第一次脉冲作用时间点固定时，两脉冲构型初始化所需要的最小速度增量，结果列于表2.
+
+表2中速度增量矢量在主星LVLH坐标系下（下文同)．主星LVLH坐标系即主星质心轨道坐标系，坐标系原点在飞行器质心， $X Y$ 轴在卫星轨道平面内，$X$ 轴从地心指向飞行器质心方向， $Y$ 轴垂直 $X$ 轴指向航迹方向， $Z$ 轴垂直于卫星轨道平面并满足右手螺旋定则.
+
+从表2可以看出完成构型初始化所需总的脉冲
+
+# 表1主星轨道根数与相对轨道根数
+
+Table 1 Orbital elements of main satellite and the relative orbital elements   
+
+<html><body><table><tr><td>轨道根数</td><td>主星</td><td>相对轨道根数</td></tr><tr><td>a/km</td><td>7378.137</td><td>0</td></tr><tr><td>e</td><td>0.0678</td><td>-0.000 336</td></tr><tr><td>i/()</td><td>90</td><td>0</td></tr><tr><td>Ω/(°)</td><td>112</td><td>0</td></tr><tr><td>ω/(°）</td><td>0</td><td>0.498 439</td></tr><tr><td>M/()</td><td>0</td><td>-0.498 439</td></tr></table></body></html>
+
+速度增量大小为 $4 . 5 6 8 \mathrm { { m } { \cdot } s ^ { - 1 } }$ ，且第二次脉冲作用时间 $t _ { 1 }$ 为 $3 1 1 8 . 5 4 2 \mathrm { s }$
+
+在一个轨道周期内，同时对两个脉冲作用点对应的时刻 $t _ { 0 } , t _ { 1 }$ 进行优化(两点优化),结果列于表3.从表3可以看出，两变量同时优化时，完成初始化所需速度增量大小为 $4 . 2 9 5 \mathrm { { m } \cdot \mathrm { { s } ^ { - 1 } } }$ ，两次脉冲作用时间分别为860.621s 和 5184.706 s.
+
+对比表2与表3．与单点优化相比，两点同时优化相当于主星与从星一起运行到 $t _ { 0 }$ 时刻，再进行第一次脉冲机动,开始分离．两个时间变量同时优化时，构型初始化消耗的速度增量小于单个时间变量优化的结果.
+
+利用优化所得数据，在STK中采用Propagator模块进行仿真分析．这里仅对两点优化结果进行仿真分析，结果如图 $1 { \sim } 4$ 所示．其中，图1和图2分别表示单变量优化和双变量优化的构型初始化过程图3和图4分别为上述两种情况下主从星的相对距离在半天之内的变化情况，
+
+![](images/938b0504067b4b295fd3aa3d1cf2f79104e934b92adc16073bddab8a7d645dba.jpg)  
+图1单变量优化两脉冲构型初始化过程 Fig.1Formation capture based on two impulses maneuver using single-point optimization
+
+从图 $1 { \sim } 4$ 可知，两脉冲方法能够实现椭圆参考轨道下的轨道面内构型初始化，而且构型能够稳定环绕.
+
+![](images/5b9a17e3afa11f537454677aaba88490de4e187ef22a8dfd5dc2eecba63d4e0f.jpg)  
+图2两变量优化两脉冲构型初始化过程 Fig.2Formation capture based on two impulses maneuver using two-point optimization
+
+![](images/d09a0579270314caac5033e21cd1b97f22bdc54f511123ebbdcb83ff3e49bda7.jpg)  
+图3单变量优化时半天内主从星相对距离变化 Fig.3Evolvement of the relative distance between the main satellite and fellow satellite in half a day for single-point optimization
+
+表2 两脉冲单点优化的结果  
+Table 2 Results of single-point optimization for two impulse control   
+表3两脉冲两点优化的结果  
+
+<html><body><table><tr><td>脉冲作用时刻t/s</td><td>速度增量/(m·s-1)</td><td>总速度增量/(m·s-1)</td><td>初始化所需时间/s</td></tr><tr><td>0</td><td>[-0.7247-0.61140]</td><td>4.568</td><td>3118.542</td></tr><tr><td>3118.542</td><td>[3.55430.68770]</td><td></td><td></td></tr></table></body></html>
+
+Table 3 Results of two-point optimization for two impulse control   
+
+<html><body><table><tr><td>脉冲作用时刻t/s</td><td>速度增量/(m·s-1)</td><td>总速度增量/(m·s-1)</td><td>初始化所需时间/s</td></tr><tr><td>860.621</td><td>[-3.6707 0.73680]</td><td>4.295</td><td>5184.706</td></tr><tr><td>5184.706</td><td>[-0.00392 -0.5496 0]</td><td></td><td></td></tr></table></body></html>
+
+# 3.2 三迹向脉冲
+
+当式（14）中对应的 $f _ { 1 } = \pi / 2$ ， $f _ { 3 } = 3 \pi$ ， $f _ { 2 }$ 待定时，可以用差分的方法迭代求解该方程组．结果列于表4．从表4可以明显看出，第二次脉冲作用点的真近点角为 $2 8 9 . 0 5 6 ^ { \circ }$ ，需要的总脉冲速度增量为 $3 . 0 1 2 \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ ·
+
+利用表4中的数据进行仿真分析，结果如图5和图6所示.从图5和图6可以看出，施加三次迹向脉冲的方法能够实现构型初始化，而且所得到的绕飞构型能够长期稳定.
+
+进一步利用序列二次规划算法对三脉冲初始化进行优化．先对脉冲作用的两个端点 $f _ { 1 }$ ， $f _ { 3 }$ 进行优化，再在此基础上求解方程．优化计算结果表明，当 $f _ { 1 } = 2 \pi / 3$ ， $f _ { 3 } = 8 \pi / 3$ 时，所求解出的三迹向脉冲消耗速度增量较小，为 $2 . 5 0 1 \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ ，如表5所示.
+
+对比表4与表5可知，经过端点优化后，完成三迹向构型初始化所消耗的速度增量相比端点固定时可节省约 $1 7 \%$ ；对比表3与表5可知，三迹向构型初始化策略相比两脉冲构型初始化策略可节省约 $4 1 \%$ 的速度增量.
+
+![](images/d6968fef2bb8302bb5db3b6a2eac8b7f79f2dea42573dfc821ec07457a3a85b8.jpg)  
+图4两变量优化时半天内主从星相对距离变化 Fig.4Evolvement of the relative distance between the main satellite and fellow satellite in half a day for two-point optimization
+
+# 3.3 四迹向脉冲
+
+当四迹向脉冲的作用点所对应主星真近点角依次选取为[90270 360180]时，式(14)是一个四元线性方程组，求解该方程，可得四迹向脉冲构型初始化策略所需脉冲速度增量大小，结果列于表6.
+
+从表6可以看出，在4个位置处施加4次迹向脉冲进行构型初始化，所需要的总脉冲速度增量为 $3 . 3 9 9 \mathrm { { m } { \cdot } \mathrm { { s } ^ { - 1 } } }$ ：
+
+![](images/1ed2cee23b5ea09a351c869bc8c6d2db66a43722399bc5dfce9bed06775a985a.jpg)  
+图5三迹向脉冲构型初始化 Fig.5 Formation capture based on three in-track impulses maneuver
+
+![](images/03bea3f5550f75b8b987f3a16edf71a3aafc778d42d2e03e99359f05c5dace7d.jpg)  
+图6半天内主从星相对距离变化  
+Fig.6Evolvement of the relative distance between the main satellite and fellow satellite in half a day
+
+表4 $f _ { 1 } = \pi / 2$ ， $\scriptstyle f _ { 3 } = 3 \pi$ 时求解结果  
+Table 4 Results when $f _ { 1 } = \pi / 2$ ， $f _ { 3 } = 3 \pi$   
+
+<html><body><table><tr><td>脉冲作用点f/()</td><td>速度增量/(m·s-1)</td><td>总速度增量/(m·s-1)</td><td>初始化所需时间/s</td></tr><tr><td>90</td><td>[0 0.803 0]</td><td>3.012</td><td>9469.42</td></tr><tr><td>289.056</td><td>[0 -1.465 0]</td><td></td><td></td></tr><tr><td>540</td><td>[0 0.7440]</td><td></td><td></td></tr></table></body></html>
+
+利用所计算的数据进行构型初始化仿真分析，结果如图7和图8所示.从图7和图8可以看出，通过在迹向施加四次脉冲的方法，可以实现椭圆参考轨道下的轨道面内构型初始化，而且能够稳定环绕
+
+对四迹向脉冲构型初始化的4个脉冲作用时刻进行优化，利用遗传算法求解这一问题，所得结果见图9和表7.
+
+![](images/091cdb1408425f249f9ed3d0d70b66743e4cbd6342a828f490d6d7aefb6120ea.jpg)  
+图7四迹向脉冲构型初始化
+
+从图9和表7可以看出，对脉冲作用点进行优化后，四迹向脉冲构型初始化所需速度增量大小为 $2 . 4 9 9 \mathrm { { m } \cdot \mathrm { { s } ^ { - 1 } } }$ ．仿真结果表明，该数据可以实现构型初始化，而且能够稳定环绕
+
+![](images/6e6a069daea61a8fa9c75e993c9b7ee7d055f43f2985773dc2caae4d8a5b22b1.jpg)  
+Fig.7Formation capture based on three in-track impulses maneuver   
+图8半天内主从星相对距离变化  
+Fig.8Evolvement of the relative distance between the main satellite and fellow satellite in half a day
+
+# 表5优化结果
+
+Table 5 Optimization results   
+
+<html><body><table><tr><td>脉冲作用点f/()</td><td>速度增量/(m·s-1)</td><td>总速度增量/(m·s-1)</td><td>初始化所需时间/s</td></tr><tr><td>120</td><td>[0 0.607 0]</td><td>2.501</td><td>8295.4</td></tr><tr><td>299.586</td><td>[0 -1.2080]</td><td></td><td></td></tr><tr><td>480</td><td>[0 0.6850]</td><td></td><td></td></tr></table></body></html>
+
+Table6 Solutions of four in-track impulses   
+表7四迹向脉冲优化求解结果  
+
+<html><body><table><tr><td>脉冲作用点f/()</td><td>速度增量/(m·s-1)</td><td>总速度增量/(m·s-1)</td><td>初始化所需时间/s</td></tr><tr><td>90</td><td>[0 0.8970]</td><td>3.399</td><td>9469.41</td></tr><tr><td>270</td><td>[0 -1.275 0]</td><td></td><td></td></tr><tr><td>360</td><td>[0 -0.382 0]</td><td></td><td></td></tr><tr><td>540</td><td>[0 0.844 0]</td><td></td><td></td></tr></table></body></html>
+
+表6 四迹向脉冲求解结果  
+Table 7Optimization solutions of four in-track impulses   
+
+<html><body><table><tr><td>脉冲作用点f/()</td><td>速度增量/(m·s-1)</td><td>总速度增量/(m·s-1)</td><td>初始化所需时间/s</td></tr><tr><td>297.344</td><td>[0 -0.621 0]</td><td>2.499</td><td>11 619.9</td></tr><tr><td>476.408</td><td>[0 0.110 0]</td><td></td><td></td></tr><tr><td>483.161</td><td>[0 1.182 0]</td><td></td><td></td></tr><tr><td>656.066</td><td>[0 -0.5860]</td><td></td><td></td></tr></table></body></html>
+
+# 3.4 燃耗对比
+
+表8列出了以上三种构型初始化策略需要消耗的速度增量以及所需时间的综合比较.从表8可以得出如下结论.
+
+(1)三种构型初始化策略均能完成椭圆轨道平面  
+内编队的初始化,其中两脉冲方法消耗的速度增量最  
+多，四迹向脉冲方法消耗的速度增量最少.(2)三迹向脉冲初始化策略相比两脉冲初始化策  
+略可节省约 $4 1 \%$ 的速度增量，四迹向脉冲初始化策  
+略需要的速度增量与三迹向脉冲初始化策略基本相  
+等.(3)本文给出的优化方法是有效的.对于两脉冲  
+初始化，优化后速度增量节省了约 $6 . 7 \%$ ；对于三迹向  
+脉冲初始化，优化后速度增量节省了约 $1 7 \%$ ；对于四  
+迹向脉冲初始化，优化后速度增量节省了约 $2 6 . 5 \%$ 业
+
+![](images/e5c8f7d9196f110932d69eedb4b02e391263b8d3f2af43cb8fd46544958acf1a.jpg)  
+图9四切向脉冲遗传算法优化结果 Fig.9 Optimization results of four in-track impulses using genetic algorithm
+
+# 4结论
+
+研究了椭圆参考轨道下轨道面内绕飞编队构型的初始化问题，推导了两脉冲、三迹向脉冲和四迹向脉冲的初始化方法，进行了数值仿真，并对仿真结果进行优化计算分析．结果表明，两脉冲、三迹向脉冲和四迹向脉冲方法均可以实现椭圆参考轨道平面内编队构型的初始化．对这三种构型初始化方法燃料消耗的对比分析表明，三迹向脉冲初始化策略相比两脉冲初始化策略节省约 $4 1 \%$ 的速度增量，四迹向脉冲初始化策略需要的速度增量与三迹向脉冲初始化策略基本相等.本文研究结果可为椭圆轨道编队飞行任务的初始化提供依据和参考.
+
+# 参考文献
+
+[1] D'Amico S,Ardaens J S. Spaceborne autonomous formation-flying experiment on the PRISMA mission [J]. J.Guid. Control Dyn.,2012,35(3):834-849   
+[2] D'Amico S,Montenbruck O.Proximity operations of formation-flying spacecraft using an eccentricity/ inclination vector separation[J].J.Guid.Control Dyn., 2009,29(3):554-563   
+[3] Yun Cheng. SJ9 achieves formation flying successfully [J]. Satell.Appl.,2012(6):67-68.In Chinese(云成.实践九号成 功实现编队飞行[J].卫星应用，2012(6):67-68)   
+[4] Wang Zhaokui.A control strategy for distributed satellite formation initialization[J]．J. Astron.,2004,25(3):335- 337．In Chinese（王兆魁．分布式卫星群构形初始化控制策 略[J].宇航学报，2004,25(3):335-337)   
+[5] Meng Yunhe. Research on Control and Application of LEO Spacecraft Formation Flying[D].Changsha:National University of Defense Technology， 20o6:46-51. In Chinese (孟云鹤.近地轨道航天器编队飞行控制与应用研 究[D].长沙：国防科技大学,2006:43-51)   
+[6] Zhang Yukun. Research on Dynamics and Control for Satellites Formation Flying[D].Changsha:National University of Defense Technology， 20o2．In Chinese (张玉琨. 卫星编队飞行的动力学与控制技术研究[D].长沙：国防科学技 术大学,2002)   
+[7] Yang Leping,Zhu Yanwei. Trajectory Planning and Control for Spacecraft Relative Motion [M].Beijing:National Defense Industry Press,2010   
+[8] Cao Xibin，He Donglei.Impulsive control approach for formation keeping under J2 perturbation[J].J. Syst. Simul.,2007,1(23):5447-5450   
+[9] Zheng Zhongzhun,Wu Hao,Wang Yongji. Reentry trajectory optimization using sequential quadratic programming[J]. Aerospace Control, 2009,6(27):8-18
+
+# 表8三种初始化策略所消耗的速度增量及时间
+
+Table 8Velocity increment andtime of the three approaches for formation initialization   
+
+<html><body><table><tr><td>构型初始化策略</td><td>总速度增量/ms</td><td>所需时间/s</td></tr><tr><td>两脉冲 (单变量优化)</td><td>4.568</td><td>3118.54</td></tr><tr><td>两脉冲 (双变量优化)</td><td>4.259</td><td>5184.71</td></tr><tr><td>三迹向脉冲 (端点固定)</td><td>3.012</td><td>9469.42</td></tr><tr><td>三迹向脉冲 (端点优化)</td><td>2.501</td><td>8295.4</td></tr><tr><td>四迹向脉冲 (无优化)</td><td>3.399</td><td>9469.41</td></tr><tr><td>四迹向脉冲 (优化)</td><td>2.499</td><td>11 619.9</td></tr></table></body></html>

@@ -1,0 +1,173 @@
+饲养密度与活动空间对肉鸡免疫和应激指标的影响卢营杰」苗志强1\* 李建慧」杨　鹰²杨 玉1\*\*（1.山西农业大学动物科技学院，太谷030801;2.中国农业大学动物科技学院，北京100193)
+
+摘要：本试验旨在探究饲养密度与活动空间对肉鸡免疫和应激指标的影响。试验选用1日龄爱拔益加（AA）肉鸡756只，采用 $3 { \times } 2$ 因子设计，随机分成6个处理，每个处理6个重复。活动空间分大、小2种：2.88（ $2 . 4 ~ \mathrm { m } { \times } 1 . 2 ~ \mathrm { m }$ ）和 $1 . 4 4 ~ \mathrm { m } ^ { 2 }$ （ $2 . 4 \ : \mathrm { m } { \times } 0 . 6 \ : \mathrm { m }$ ），密度分高、中、低3种：14、10、6只 $/ \mathrm { m } ^ { 2 }$ 。试验期 $4 2 { \mathrm { ~ d ~ } }$ 。结果表明：1）21日龄时，饲养密度与活动空间对平均日增重、平均体重的交互作用显著 $( P { < } 0 . 0 5 )$ ，大空间中密度组平均日增重、平均体重显著高于小空间中、高密度组 $( P { < } 0 . 0 5 )$ 。饲养密度与活动空间对血清游离脂肪酸（FFA）含量有极显著影响 $( P { < } 0 . 0 1 )$ ，中密度组显著低于高、低密度组 $( P { < } 0 . 0 5 )$ ，并且交互作用显著极显著 $( P { < } 0 . 0 1 )$ 。饲养密度对血清白细胞介素- $\cdot 1 \beta$ (IL $1 \beta$ ）和白细胞介素-6（IL-6）含量分别有极显著和显著影响 $_ { \scriptstyle P < 0 . 0 1 }$ 和 $P { < } 0 . 0 5 )$ 。饲养密度对血清总抗氧化能力（T-AOC）有显著影响 $( P { < } 0 . 0 5 )$ ；饲养密度与活动空间对血清谷胱甘肽过氧化物酶（GSH-Px）活性的交互作用显著 $( P { < } 0 . 0 5 )$ 。2)42 日龄时，饲养密度与活动空间对平均日增重、料重比、平均体重的交互作用极显著 $( P { < } 0 . 0 1 )$ 。大空间中、低密度组和小空间低密度组的平均日增重、平均体重显著高于其他各组 $( P { < } 0 . 0 5 )$ ，高密度组平均日采食量、平均日增重、平均体重显著低于中、低密度组 $( P { < } 0 . 0 5 )$ ，大空间组平均体重显著高于小空间组 $( P { < } 0 . 0 5 )$ ，大空间组平均日采食量显著低于小空间组 $( P { < } 0 . 0 5 )$ ，大空间中、高密度组料重比显著低于小空间中、高密度组 $( P { < } 0 . 0 5 )$ 。高密度组的血清葡萄糖含量显著高于中、低密度组 $( P { < } 0 . 0 5 )$ 。中密度组血清 $\mathrm { { I L } } \mathrm { { - } } 1 \beta$ 含量显著低于高、低密度组 $( P { < } 0 . 0 5 )$ 。由此可见，饲养密度与活动空间对平均日采食重、平均日增重、料重比、平均体重及血清 FFA、 $\mathrm { I L } { - } 1 \beta$ 及IL-6含量产生了一定影响，可引起肉鸡的应激免疫反应。其中，中密度大空间组（10 只 $/ \mathrm { m } ^ { 2 }$ 、 $2 . 8 8 \mathrm { m } ^ { 2 }$ ）免疫应激最小，更适宜肉鸡生长。
+
+关键词：肉鸡；饲养密度；活动空间；免疫应激；抗氧化功能中图分类号：S831 文献标识码: 文章编号:
+
+饲养密度一直是养殖业的核心问题之一，也是容易引起家禽应激的因子之一，而应激会影响机体的免疫功能和抗氧化功能。研究表明，饲养密度过大会造成家禽应激，损害其免疫性能，降低屠体品质[1；随着饲养密度的升高，肉鸡腺体重量和腺体重量/体重显著下降，这表明肉鸡在高饲养密度情况下应激增大，免疫机能减弱[2]，免疫性能受到影响[3-5]；且显著降低了其生长性能和产蛋率回。高饲养密度会加剧热应激的影响，从而影响了机体的抗氧化功能等[7-9]。
+
+研究发现，有限的活动空间造成了激烈的环境竞争，可能会造成侵略性行为和应激[10];鸡的福利主要取决于环境条件介导的鸡体健康的影响[]，不足的个体空间是造成机体不适与应激的原因[12]；家禽的福利最终是由家禽中群体间的相互作用和饲养密度这2个限制因素来决定的[13]，大群和高饲养密度会增加家禽间的斗争，进而会造成恐惧，糖皮质激素水平升高，法氏囊重量降低[14]。
+
+饲养密度与活动空间是影响肉鸡健康的2个重要因子，饲养密度对肉鸡的影响是否受活动空间的限制，目前尚未见报道。因此，本试验通过对免疫和应激指标的分析，研究不同饲养密度与活动空间是否存在一定的互作关系，旨在为合理化规模肉鸡养殖模式提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+试验选用1日龄爱拔益加（AA）肉鸡756只，采用 $3 { \times } 2$ 因子设计，随机分成6个处理，每个处理6个重复。活动空间分大、小2种：2.88（ $2 . 4 \mathrm { m } { \times } 1 . 2 \mathrm { m } \cdot$ ）和 $1 . 4 4 ~ \mathrm { m } ^ { 2 }$ （ $2 . 4 \ : \mathrm { m } { \times } 0 . 6 \ : \mathrm { m }$ ），密度分高、中、低3种：14、10、6只 $/ \mathrm { m } ^ { 2 }$ 。采用常规饲养管理，网上平养，自由饮水和采食。试验期 $4 2 \mathrm { d }$ 。试验处理及动物分组见表1。
+
+表1试验处理及动物分组  
+Table 1Experimental treatments and animal grouping   
+
+<html><body><table><tr><td>处理</td><td>饲养密度</td><td>活动空间</td><td>每重复鸡只数</td></tr><tr><td>Treatments</td><td>Breeding density/(只/m)</td><td> Space allowance/m</td><td>Numbers of broilers per replicate/只</td></tr><tr><td>1</td><td>14</td><td>2.88</td><td>40</td></tr><tr><td>2</td><td>10</td><td>2.88</td><td>28</td></tr><tr><td>3</td><td>6</td><td>2.88</td><td>16</td></tr><tr><td>4</td><td>14</td><td>1.44</td><td>20</td></tr></table></body></html>
+
+5 10 1.44 14   
+6 6 1.44 8
+
+# 1.2 试验材料
+
+XH-6020 全自动放免计数仪(automatic put free counter，西安)、7600 全自动生化仪(automatic biochemistry analyzer，日本日立)、7230-G 型分光光度计(spectrophotometer，上海)、EL $\mathbf { \sigma } \cdot \mathbf { x } 8 0 8$ 型酶标仪(ELIASA microplate reader，美国 BioTek)、DL-5M型低速离心机(low speedcentrifugal machine，长沙)。
+
+# 1.3 检测指标及方法
+
+试验第21天及第42天（提前 $1 2 \mathrm { ~ h ~ }$ 断料）称取各组的鸡体重及料重，并统计采食量，用于计算平均日采食重（ADFI）、平均日增重(ADG)、料重比(F/G)、平均体重(ABW)。
+
+试验第 21天及第 42天，每个重复随机抽取1只鸡，翅静脉采血 $1 0 ~ \mathrm { m L }$ ，于 $3 5 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，制备血清样品，分为2份。一份用于检测血清中的应激与免疫因子含量，送于北京华英生物技术研究所检测，采用放射免疫方法检测血清中的皮质酮（CORT）、白细胞介素 $\cdot 1 \beta$ （IL-1β）、白细胞介素-6（IL-6）含量；利用全自动生化分析仪检测肌酸激酶（CK）活性和游离脂肪酸（FFA）含量。另一份采用南京建成生物工程研究所的试剂盒测定血清中的总抗氧化力(T-AOC)，谷胱甘肽过氧化物酶(GSH-Px的)、超氧化物歧化酶(SOD)活性，以及丙二醛(MDA)、葡萄糖(Glu)含量。
+
+# 1.4 数据处理与统计分析
+
+试验数据以“平均值 $\pm$ 标准差"表示，采用SPSS17.0统计软件处理，按 $2 { \times } 3$ 试验设计分析活动空间、饲养密度的主效应及交互作用，当 $F$ 检验差异显著时进行多重比较， $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著。
+
+# 2结果
+
+# 2.1饲养密度与活动空间对肉鸡生产性能的影响
+
+如表2所示，21日龄时，饲养密度与活动空间对平均日增重、平均体重的交互作用显著 $( P { < } 0 . 0 5 )$ ，大空间中密度组平均日增重、平均体重显著高于小空间中、高密度组 $( P { < } 0 . 0 5 )$ 42 日龄时，饲养密度与活动空间对平均日增重、料重比、平均体重的交互作用极显著$( P { < } 0 . 0 1 )$ 。大空间中、低密度组和小空间低密度组的平均日增重、平均体重显著高于其他各组 $( P { < } 0 . 0 5 )$ ，高密度组平均日采食量、平均日增重、平均体重显著低于中、低密度组 $( P { < } 0 . 0 5 )$ 。大空间组平均体重显著高于小空间组 $( P { < } 0 . 0 5 )$ ，大空间组平均日采食量显著低于小空间组$( P { < } 0 . 0 5 )$ 。大空间中、高密度组料重比显著低于小空间中、高密度组 $_ { ( P < 0 . 0 5 ) }$ 。
+
+# 2.2饲养密度与活动空间对肉鸡血清应激指标的影响
+
+如表3所示，21日龄时，饲养密度与活动空间对血清CORT、Glu含量均无显著影响$( P { > } 0 . 0 5 )$ ，但对血清FFA含量的影响极显著 $( P { < } 0 . 0 1 )$ ；饲养密度与活动空间对血清FFA含量的交互作用极显著 $( P { < } 0 . 0 1 )$ 。大空间、高密度组血清 FFA含量显著高于其他各组 $( P { < } 0 . 0 5 )$ 。42 日龄时，活动空间对血清FFA含量有显著影响 $( P { < } 0 . 0 5 )$ ，对血清CORT、Glu 含量无显著影响 $( P { > } 0 . 0 5 )$ ；饲养密度对血清Glu含量有显著影响 $( P { < } 0 . 0 5 )$ ，但对血清CORT、FFA 含量均无显著影响 $( P 5 0 . 0 5 )$ 。
+
+# 2.3饲养密度与活动空间对肉鸡血清免疫因子含量的影响
+
+如表4所示，21日龄时，饲养密度对血清IL- $1 \beta$ 和IL-6含量分别有极显著和显著影响${ \scriptstyle \overbrace { P { < } 0 . 0 1 } }$ 和 $P { < } 0 . 0 5 )$ 。活动空间对血清IL-6含量无显著影响 $( P { > } 0 . 0 5 )$ ，但对血清 $\mathrm { { I L } } \mathrm { { - } } 1 \beta$ 含量有极显著影响 $( P { < } 0 . 0 1 )$ 。42 日龄时，饲养密度对血清 $\mathrm { { I L } \mathrm { { - } 1 \mathrm { { \beta } } } }$ 含量有显著影响 $( P { < } 0 . 0 5 )$ ，随着饲养密度增加，血清 $\mathrm { I L } { - } 1 \beta$ 含量先降低后增加，中密度组血清 $\mathbb { L } \mathrm { - } 1 \beta$ 含量显著低于低、高密度组 $( P { < } 0 . 0 5 )$ 。饲养密度对血清 IL-6含量无显著影响 $( P { > } 0 . 0 5 )$ 。活动空间对血清 $\mathrm { { I L } } \mathrm { { - } } 1 \beta$ 和 IL-6含量无显著影响 $( P { > } 0 . 0 5 )$
+
+# 2.4饲养密度与活动空间对肉鸡血清抗氧化指标的影响
+
+如表5所示，21日龄时，饲养密度与活动空间对血清GSH- $\mathbf { \cdot P x }$ 、SOD 活性及MDA含量均无显著影响 $( P { > } 0 . 0 5 )$ ，但饲养密度对血清 T-AOC 有极显著影响 $( P { < } 0 . 0 1 )$ ，随着饲养密度增加，血清T-AOC 逐渐降低。此外，饲养密度与活动空间对血清GSH $\mathbf { \nabla \cdot P X }$ 活性的交互作用极显著 $( P { < } 0 . 0 1 )$ ，在小空间下随着饲养密度的增加血清GSH- $\mathbf { \cdot P x }$ 活性的先降低后增加，中密度组血清GSH-Px 活性显著低于低、高密度组 $( P { < } 0 . 0 5 )$ ，而在大空间时各饲养密度组间血清GSH- $\mathbf { \cdot P x }$ 活性没有显著差异 $( P { > } 0 . 0 5 )$ 。42 日龄时，饲养密度与活动空间对血清GSH-Px、SOD活性和 MDA 含量及T-AOC 均无显著影响 $( P { > } 0 . 0 5 )$ 。
+
+# 表2饲养密度与活动空间对肉鸡生产性能的影响
+
+Table 2 Effects of breeding density and space allowance on growth performance of broilers   
+
+<html><body><table><tr><td colspan="4">21日龄 21days of age</td><td colspan="2"></td><td colspan="5">42 日龄 42days of age</td></tr><tr><td>活动空间</td><td>饲养密度</td><td>平均日采食量</td><td>平均日增重</td><td>料重比</td><td>平均体重</td><td>平均日采食量</td><td>平均日增重</td><td>料重比</td><td>平均体重</td><td></td></tr><tr><td>Space allowance/m2</td><td>Breeding density/(只/m²）ADFI/g</td><td></td><td>ADG/g</td><td>F/G</td><td>ABW/g</td><td>ADFI/g</td><td>ADG/g</td><td>F/G</td><td>ABW/g</td><td></td></tr><tr><td>2.88</td><td>14</td><td>59.62±2.54</td><td>42.76±2.97abc</td><td>1.39±0.07</td><td>0.93±0.08ab</td><td>171.37±5.52</td><td>89.44±2.33a</td><td>1.92±0.07a</td><td>2.81±0.09a</td><td></td></tr><tr><td rowspan="5">1.44</td><td>10</td><td>58.38±2.39</td><td>46.49±2.42c</td><td>1.26±0.05</td><td>1.02±0.05c</td><td>183.98±5.14</td><td>96.21±1.56b</td><td>1.91±0.06a</td><td>3.04±0.10b</td><td></td></tr><tr><td>6</td><td>61.27±0.43</td><td>43.88±3.15abc</td><td>1.40±0.04</td><td>0.99±0.03bc</td><td>186.63±3.02</td><td>95.33±2.28b</td><td>1.96±0.05ab</td><td>3.00±0.03b</td><td></td></tr><tr><td>14</td><td>59.20±1.97</td><td>42.38±3.66ab</td><td>1.25±0.07</td><td>0.94±0.06ab</td><td>180.53±2.04</td><td>87.83±3.81a</td><td>2.06±0.08b</td><td>2.78±0.08a</td><td></td></tr><tr><td>10</td><td>62.35±3.42</td><td>40.87±2.43a</td><td>1.53±0.01</td><td>0.90±0.05a</td><td>187.94±4.97</td><td>88.68±3.58a</td><td>2.12±0.05b</td><td>2.76±0.04a</td><td></td></tr><tr><td>6</td><td>60.64±6.31</td><td>45.46±1.38bc</td><td>1.33±0.08</td><td>0.96±0.07abc</td><td>185.39±7.01</td><td>94.64±4.84b</td><td>1.96±0.04ab</td><td>2.95±0.14b</td><td></td></tr><tr><td>主效应 Main effect</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>活动空间</td><td>2.88</td><td>59.75±2.24</td><td>42.91±3.16</td><td>1.35±0.06</td><td>0.98±0.07</td><td>180.66±8.15a</td><td>91.15±4.02</td><td>1.93±0.09</td><td>2.95±0.13a</td><td></td></tr><tr><td>Space</td><td>1.44</td><td>60.73±4.20</td><td>44.37±3.11</td><td>1.37±0.06</td><td>0.93±0.07</td><td>184.62±5.70b</td><td>92.90±5.07</td><td>2.05±0.07</td><td></td><td></td></tr><tr><td>allowance/m2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.83±0.14b</td><td></td></tr><tr><td>饲养密度</td><td>14</td><td>59.41±2.15</td><td>42.57±3.15</td><td>1.32±0.07</td><td>0.93±0.07</td><td>175.95±6.22a</td><td>88.63±3.10a</td><td>1.99±0.10</td><td>2.80±0.08a</td><td></td></tr><tr><td>Breeding</td><td>10</td><td>60.36±3.48</td><td>43.68±3.74</td><td>1.39±0.06</td><td>0.96±0.08</td><td>185.96±5.21b</td><td>92.45±4.75b</td><td>2.02±0.08</td><td>2.90±0.16b</td><td></td></tr><tr><td>density/(只/m2)</td><td>6 活动空间</td><td>60.95±4.23 Space 0.434</td><td>44.67±2.44 0.159</td><td>1.36±0.06 0.227</td><td>0.98±0.05 0.139</td><td>186.01±5.13b 0.037</td><td>94.99±3.59b 0.155</td><td>1.96±0.04 0.760</td><td>2.97±0.10b 0.045</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2">P值</td><td>饲养密度</td><td>Breeding 0.591</td><td rowspan="2">0.255</td><td rowspan="2">0.423</td><td rowspan="2">0.255</td><td rowspan="2"><0.001</td><td rowspan="2">0.001</td><td rowspan="2">0.132</td><td rowspan="2">0.001</td></tr><tr><td>density</td><td></td></tr><tr><td></td><td></td><td>饲养密度×活动空间</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Breeding</td><td>densityxspace</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P-value</td><td></td><td>0.245</td><td>0.021</td><td>0.089</td><td>0.021</td><td>0.08</td><td>0.008</td><td><0.001</td><td><0.001</td></tr><tr><td></td><td>allowance</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $( P { < } 0 . 0 5 )$ ），相同或无字母表示差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 }$ ）。下表同。1 In the same column, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ， while with the same or no letter superscripts mean no； significant difference $( P { > } 0 . 0 5 )$ ). The same as below.
+
+表3饲养密度与活动空间对肉鸡血清应激指标的影响  
+Table 3 Effects of breeding density and space allowance on serum stress index of broilers 21日龄 21 days of age 42日龄 42 days of age   
+
+<html><body><table><tr><td rowspan="2">活动空间 Space allowance/m²</td><td>饲养密度</td><td>皮质酮</td><td>游离脂肪酸</td><td>葡萄糖</td><td>皮质酮</td><td>游离脂肪酸</td><td>葡萄糖</td></tr><tr><td>Breeding density/(只/m)</td><td>CORT/(ng/mL)</td><td>FFA/(mmol/L)</td><td>Glu/(mmol/L)</td><td>CORT/(ng/mL)</td><td>FFA/(mmol/L)</td><td>Glu/(mmol/L)</td></tr><tr><td>2.88</td><td>14</td><td>5.26±0.89</td><td>0.47±0.01a</td><td>10.82±0.62</td><td>4.60±0.44</td><td>0.37±0.02</td><td>10.19±1.12</td></tr><tr><td></td><td>10</td><td>5.21±0.69</td><td>0.35±0.01c</td><td>10.83±0.26</td><td>3.88±0.29</td><td>0.39±0.04</td><td>9.47±0.85</td></tr><tr><td></td><td>6</td><td>5.33±0.69</td><td>0.36±0.02bc</td><td>10.23±0.83</td><td>4.48±0.91</td><td>0.40±0.07</td><td>9.15±0.79</td></tr><tr><td>1.44</td><td>14</td><td>4.70±0.64</td><td>0.35±0.01c</td><td>11.30±0.84</td><td>4.26±0.41</td><td>0.44±0.06</td><td>10.53±1.20</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>10</td><td>4.89±0.31</td><td>0.35±0.02c</td><td>10.95±1.21</td><td>4.50±0.89</td><td>0.45±0.06</td><td>8.09±0.77</td></tr><tr><td></td><td>6</td><td>5.73±1.19</td><td>0.38±0.01b</td><td>10.17±1.23</td><td>4.82±0.56</td><td>0.39±0.04</td><td>8.66±2.28</td></tr><tr><td>主效应 Main effect</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>活动空间</td><td>2.88</td><td>5.27±0.71</td><td>0.39±0.06</td><td>10.63±0.64</td><td>4.30±0.59</td><td>0.39±0.05</td><td>9.60±0.97</td></tr><tr><td>Space</td><td>1.44</td><td>5.11±0.91</td><td>0.36±0.02</td><td>10.80±1.14</td><td>4.53±0.62</td><td>0.43±0.06</td><td>9.16±1.83</td></tr><tr><td>allowance/m² 饲养密度</td><td>14</td><td>4.97±0.80</td><td>0.40±0.06a</td><td>11.06±0.74</td><td></td><td></td><td></td></tr><tr><td>Breeding</td><td>10</td><td>5.07±0.55</td><td>0.35±0.01c</td><td>10.89±0.83</td><td>4.43±0.44 4.16±0.67</td><td>0.40±0.06</td><td>10.36±1.11a</td></tr><tr><td>density/(只/m2)</td><td>6</td><td>5.53±0.94</td><td>0.37±0.01b</td><td>10.20±0.99</td><td>4.69±0.67</td><td>0.42±0.06 0.40±0.05</td><td>8.86±1.05b 8.91±1.63b</td></tr><tr><td></td><td>活动空间 Space allowance</td><td>0.581</td><td><0.001</td><td>0.597</td><td>0.380</td><td></td><td></td></tr><tr><td>P值</td><td>饲养密度 Breeding density</td><td>0.259</td><td><0.001</td><td>0.096</td><td></td><td>0.037</td><td>0.301</td></tr><tr><td></td><td>饲养密度×活动空间</td><td></td><td></td><td></td><td>0.300</td><td>0.616</td><td>0.023</td></tr><tr><td>P- value allowance</td><td>Breeding densityxspace</td><td>0.378</td><td><0.001</td><td>0.793</td><td>0.209</td><td>0.138</td><td>0.373</td></tr></table></body></html>
+
+Table 4 Effects of breeding density and space allowance on serum immune factors content of broilers pg/mL
+
+<html><body><table><tr><td colspan="4">21日龄 21 days of age</td><td colspan="2">42日龄 42 days of age</td></tr><tr><td>活动空间</td><td>饲养密度</td><td>白细胞介素-1β</td><td>白细胞介素-6</td><td>白细胞介素-1β</td><td>白细胞介素-6</td></tr></table></body></html>
+
+<html><body><table><tr><td>Space allowance/m²</td><td>Breeding density/(只/m²） IL-1β</td><td></td><td>IL-6</td><td>IL-1β</td><td>IL-6</td></tr><tr><td rowspan="5">2.88</td><td>14</td><td>1.88±0.13</td><td>151.14±30.59</td><td>2.44±0.39</td><td>141.07±22.30</td></tr><tr><td>10</td><td>2.17±0.30</td><td>145.42±8.53</td><td>2.39±0.47</td><td>134.53±11.80</td></tr><tr><td>6</td><td>2.82±0.05</td><td>162.85±12.31</td><td>2.67±0.62</td><td>135.79±12.64</td></tr><tr><td>14</td><td>2.52±0.40</td><td>154.79±18.24</td><td>2.77±0.19</td><td>121.19±19.10</td></tr><tr><td>10</td><td>2.44±0.24</td><td>135.79±14.21</td><td>2.03±0.50</td><td>135.70±18.05</td></tr><tr><td>主效应 Main effect</td><td>6 2.92±0.23</td><td></td><td>161.67±14.80</td><td>2.69±0.29</td><td>129.96±20.86</td></tr><tr><td>活动空间</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2.88</td><td>2.25±0.43</td><td>153.14±19.69</td><td>2.50±0.48</td><td>137.13±15.37</td></tr><tr><td> Space allowance/m²</td><td>1.44</td><td>2.63±0.35</td><td>150.75±18.54</td><td>2.50±0.47</td><td>128.95±18.97</td></tr><tr><td>饲养密度 Breeding density/（只</td><td>14</td><td>2.20±0.44b</td><td>152.96±23.82ab</td><td>2.61±0.33a</td><td>131.13±22.20</td></tr><tr><td>/m2)</td><td>10</td><td>2.30±0.30b</td><td>140.61±12.16b</td><td>2.21±0.49b</td><td>135.12±14.39</td></tr><tr><td rowspan="4">P值</td><td>6</td><td>2.87±0.17a</td><td>162.26±12.85a</td><td>2.68±0.45a</td><td>132.87±16.55</td></tr><tr><td>活动空间 Space allowance 0.002</td><td></td><td>0.718</td><td>0.960</td><td>0.223</td></tr><tr><td>饲养密度 Breeding density</td><td><0.001</td><td>0.040</td><td>0.048</td><td>0.883</td></tr><tr><td colspan="5">饲养密度×活动空间</td></tr><tr><td>P-value</td><td>Breeding allowance</td><td>densityxspace 0.078</td><td>0.705</td><td>0.220</td><td>0.421</td></tr></table></body></html>
+
+Table 5 Effects of breeding density and space allowance on serum antioxidant index of broilers
+
+<html><body><table><tr><td rowspan="2">活动空间 Space</td><td rowspan="2">饲养密度 Breeding</td><td rowspan="2">总抗氧化力</td><td colspan="3">丙二醛 谷胱甘肽过氧化物酶</td><td rowspan="2">总抗氧化力</td><td colspan="2">谷胱甘肽过氧化物 丙二醛</td><td rowspan="2">超氧化物歧化酶</td></tr><tr><td>GSH-Px/(U/mL)</td><td>MDA/(nmol/</td><td>超氧化物歧化酶</td><td>酶</td><td>MDA/(nmol/mL) SOD/(U/mL)</td></tr><tr><td>allowance/m² 2.88</td><td>density/(只/m2) 14</td><td>T-AOC/(U/mL) 6.34±6.74</td><td></td><td>mL)</td><td>SOD/(U/mL)</td><td>T-AOC/(U/mL)</td><td>GSH-Px/(U/mL)</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>1 517.3±483.83b</td><td>3.89±0.69</td><td>294.8±180.71</td><td>1.95±1.66</td><td>1 076.33±232.06</td><td>4.50±1.71</td><td>348.96±126.98</td></tr><tr><td rowspan="4">1.44</td><td>10</td><td>14.95±7.17</td><td>1 853.48±117.44ab</td><td>4.58±0.37</td><td>403.65±148.98</td><td>8.24±5.41</td><td>961.22±160.06</td><td>4.94±1.20</td><td>339.41±104.18</td></tr><tr><td>6</td><td>17.69±2.18</td><td>1 547.87±229.73b</td><td>5.10±0.82</td><td>230.28±183.32</td><td>5.55±3.07</td><td>997.96±247.83</td><td>4.37±1.35</td><td>406.69±63.51</td></tr><tr><td>14</td><td>10.73±0.86</td><td>1991.01±108.49a</td><td>4.49±0.63</td><td>320.28±258.72</td><td>4.66±3.15</td><td>785.74±164.60</td><td>3.22±0.62</td><td>331.38±158.47</td></tr><tr><td>10</td><td>16.92±4.09</td><td>1 524.49±287.89b</td><td>4.88±1.16</td><td>208.84±182.10</td><td>2.10±0.12</td><td>820.43±32.83</td><td>3.73±1.27</td><td>272.79±118.10</td></tr><tr><td>主效应 Main</td><td>6</td><td>18.06±6.71</td><td>1 955.06±33.23a</td><td>4.96±0.98</td><td>178.67±170.46</td><td>6.81±5.10</td><td>953.48±297.78</td><td>4.59±0.29</td><td>282.61±126.49</td></tr><tr><td>effect 活动空间</td><td></td><td>12.99±7.35</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Space</td><td>2.88</td><td></td><td>1 639.55±332.55</td><td>4.52±0.79</td><td>310.63±174.91</td><td>5.25±4.35</td><td>1 011.84±206.7</td><td>4.60±1.35</td><td>366.17±96.43</td></tr><tr><td> allowance/m2</td><td>1.44</td><td>15.93±5.46</td><td>1 800.52±287.49</td><td>4.78±0.91</td><td>229.90±195.66</td><td>4.90±3.93</td><td>848.03±192.47</td><td>3.85±0.97</td><td>295.60±125.43</td></tr><tr><td>饲养密度</td><td>14</td><td>7.99±5.60b</td><td>1 727.84±428.71</td><td>4.19±0.70</td><td>307.54±207.05</td><td>3.31±2.77</td><td>931.03±243.79</td><td>3.86±1.39</td><td>340.17±133.27</td></tr><tr><td>Breeding</td><td>10</td><td>15.93±5.60a</td><td>1 688.99±270.24</td><td>4.73±0.83</td><td>306.25±187.47</td><td>5.94±5.18</td><td>898.65±136.82</td><td>4.34±1.33</td><td>309.8±109.04</td></tr><tr><td>density/(只/m2)</td><td>6</td><td>17.87±4.71a</td><td>1 728.84±269.92</td><td>5.03±0.86</td><td>204.47±169.08</td><td>6.18±4.02</td><td>978.19±253.99</td><td>4.48±0.93</td><td>351.54±110.87</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="7">P值 P-value</td><td>活动空间 Space allowance</td><td>0.297</td><td>0.084</td><td>0.400</td><td>0.312</td><td>0.621</td><td>0.056</td><td>0.09</td><td>0.148</td></tr><tr><td>饲养密度 Breeding density</td><td>0.005</td><td>0.834</td><td>0.089</td><td>0.398</td><td>0.245</td><td>0.692</td><td>0.472</td><td>0.754</td></tr><tr><td>饲养密度×活动空 间</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Breeding 0.750</td><td></td><td>0.005</td><td>0.602</td><td>0.455</td><td>0.056</td><td>0.440</td><td>0.287</td><td>0.650</td></tr><tr><td>densityxspace</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+3讨论
+
+3.1饲养密度与活动空间对肉鸡生长性能的影响
+
+研究表明，随着饲养密度的增加，肉鸡的平均日增重显著降低，料重比显著增加[5,15]。汤建平[16研究表明，高饲养密度限制了肉鸡采食量，导致生长速度降低，但对料重比影响不显著。张华[17研究表明，高饲养密度显著降低了28、42日龄肉鸡的平均体重，且显著降低了后期料重比。于浩等[8]研究报道，高饲养密度显著降低了肉鸡平均日采食量、平均日增重，显著提高了料重比。本试验结果显示，中密度大空间组生长性能在21和42日龄都是最好的，可以得出中密度大空间有利于肉鸡的生长。
+
+3.2饲养密度与活动空间对肉鸡血清应激因子含量的影响
+
+研究表明，下丘脑-垂体-肾上腺皮质轴（HPA）所发生的变化是应激中最主要的内分泌变化，在维持内环境稳定的条件下，促肾上腺皮质激素释放激素和精氨酸催产素都能刺激促肾上腺皮质激素(ACTH)和糖皮质激素的释放[19]，家禽血清CORT 含量升高可作为受到应激反应的主要标志[20]。本试验中饲养密度与活动空间对21和42日龄的血清CORT 含量无显著影响，但42日龄的血清CORT含量均低于21日龄，其原因可能是应激时间过长造成肾上腺皮质功能的衰竭，使血清CORT 含量降低[21-22]，或随着肉鸡周龄的增加而降低，使动物对应激的敏感性随之降低[23]。
+
+HPA 轴中FFA被认为是神经中枢的应激反应指标[19]，应激时，机体必须动员大量能量来抵抗应激源的刺激，导致血清Glu 和FFA 含量的明显升高[24-25]。本试验中，小空间组血清FFA含量显著低于大空间组，并且在高饲养密度时更为显著，说明在21日龄时，大空间高密度饲养容易对肉鸡造成应激，而大活动空间和高饲养密度会增加家禽间的争斗，造成应激增加[14]，此外大空间中密度组与小空间中、高密度组的差异不显著。42日龄时，小空间组的血清 FFA 含量显著高于大空间组，高密度组血清Glu 含量显著高于中、低密度组，原因可能是运动空间受到限制，鸡只之间的打斗及相互影响增多，继而引起肉鸡的应激反应，随着日龄的增加，鸡只体积在增大，小空间饲养更易限制肉鸡的运动并影响其健康，从而引起肉鸡应激。结合21与42日龄数据分析，中密度大空间更有利于避免肉鸡应激。
+
+# 3.3饲养密度和活动空间对肉鸡血清免疫因子含量的影响
+
+促炎细胞因子白细胞介素-1（IL-1）、IL-6主要由单核-巨噬细胞及辅助性T细胞（Th1)产生，促炎因子的分泌可提高机体免疫机能，但产生过多又可促进炎症反应，造成组织损伤，是应激性损伤的直接介导物[26]。IL-1有白细胞介素-1α(IL-1α)、IL-1β和白细胞介素-1γ(IL-1γ)
+
+3 种活化形式，其中血清和组织液中主要是 $\mathrm { I L } { - } 1 \beta \circ \mathrm { I L } { - } 1 \beta$ 可以协同其他细胞因子促进B细胞、T 细胞活化。研究发现，在缺氧、缺血应激状态下，IL-1和IL-6被显著上调，分泌量持续性增多[27-28]。慢性应激时交感神经及肾素-血管紧张素系统的激活导致去甲肾上腺素和平滑肌细胞表达，从而引起血清IL-6含量升高，而IL-1可介导HPA轴的激活，诱导垂体细胞合成 $\scriptstyle \mathrm { { I L - 6 ^ { [ 2 6 ] } } }$ 。本试验条件下，21日龄时，小空间组的血清 $\mathbb { L } \mathrm { - } 1 \beta$ 含量显著高于大空间组，且随密度增加而降低，说明小空间低密度组免疫反应最大；同时血清IL-6 含量在低密度组最高，中密度组最低，说明大空间中密度组免疫反应最小。42 日龄时，中密度组血清 IL-1β含量低于高、低密度组，说明中密度组免疫反应最小。综合21与42日龄数据来说，大空间中密度更能避免肉鸡的免疫反应。
+
+# 3.4饲养密度与活动空间对肉鸡血清抗氧化指标的影响
+
+SOD、GSH-Px 的主要功能是清除自由基，防止生物膜和胞质成分的损伤[26]。SOD 可有效清除体内过多的超氧阴离子（ $\cdot 0 ^ { 2 \cdot }$ ），抑制氧自由基(ROS)级联反应，具有保护内皮细胞的功能[26]。GSH-Px反映的是机体分解过氧化产物的能力。T-AOC 是反映机体具有抗氧化损伤的各种物质的总和。当体内的自由基未及时清除时，自由基就会引起脂肪物质（尤其是不饱和脂肪）的脂质过氧化反应，而MDA是脂质过氧化物的主要降解产物，其含量高低能反映机体细胞受自由基攻击的严重程度[15.23,26]。本试验结果显示，21日龄，饲养密度与活动空间对血清中GSH-Px、SOD 活性和 MDA 含量均无显著影响，活动空间对 T-AOC 无显著影响，饲养密度对T-AOC有极显著影响，随着密度的增大T-AOC 显著降低，显然高密度组更易受到氧化损伤及细胞损伤。42 日龄时，饲养密度与活动空间对血清中T-AOC 和GSH-Px、SOD活性及MDA含量均无显著影响，结果与白水莉[15报道不一致，原因可能是由于其饲养期及屠宰时都处于夏季高温季节，引起了肉鸡的热应激而造成的，具体有待进一步研究。
+
+4结论
+
+本试验条件下，饲养密度与活动空间对平均日采食重、平均日增重、料重比、平均体重及血清FFA、IL- $1 \beta$ 及IL-6含量产生了一定影响，可引起肉鸡的应激免疫反应。其中，中密度大空间组（10只 $/ \mathrm { m } ^ { 2 }$ 、 $2 . 8 8 \mathrm { m } ^ { 2 }$ ）免疫应激最小，更适宜肉鸡生长。
+
+# 参考文献：
+
+[1]SORENSEN P,SU G,KESTIN S C.Effects of age and stocking density on leg weakness in broiler chickens[J].Poultry Science,2000,79(6):864-870.
+
+[2] HECKERT R A,ESTEVEZ I,RUSSEK-COHEN E,et al.Effects of density and perch availability on the immune status of broilers[J].Poultry Science,2O02,81(4):451-457.
+
+[3]GREENEJ A,MCCRAKEN R M,EVANS R T.A contact dermatitis of broilers-clinical and pathological findings[J].Avian Pathology,1985,14(1):23-38.
+
+[4]MCILROY S G,GOODALL E A,MCMURRAY C H.A contact dermatitisof broilers-epidemiological findings[J].Avian Pathology,1987,16(1):93-105.   
+[5]孙作为.饲养密度和饲粮营养影响肉鸡生长、胴体组成及腿部健康的研究[D].博士学位论 文.北京:中国农业大学,2013:131-132.   
+[6]MTILENI B J,NEPHAWE K A,NESAMVUNI A E,et al.The influence of stocking density on bodyweight,eggweight,and feedintakeofadultbroilerbreederhens[J].Poultry Science,2007,86(8):1615-1619.   
+[7]冯京海.环境高温对肉鸡线粒体功能及胸肌品质的影响[D].博士学位论文.北京:中国农 业科学院,2006.   
+[8]李军乔.高温环境对肉仔鸡血液生化指标、热应激蛋白(HsP72)转录及肉品质的影响[D]. 硕士学位论文.保定:河北农业大学,2004.   
+[9]范石军,李德发,胥学新,等.热应激对产蛋鸡自身及其后代机体组织的过氧化损伤以及抗 氧化微营养素的调控效应[J].中国兽医学报,2001,21(2):195-199.   
+[10]HUGHES B O,CARMICHAEL N L,WALKER A W,et al.Low incidence of aggression in large flocks of laying hens[J].Applied Animal Behaviour Science,1997,54(2/3):215-234.   
+[11]NEWBERRY R C,TARAZONA A M.Behavior and welfare of laying hens and broiler chickens[J].Revista Colombiana de Ciencias Pecuarias,2011,24(3):301-302.   
+[12]MORGAN K N,TROMBORG C T.Sources of stress in captivity[J].Applied Animal Behaviour Science,2007,102(3/4):262-302.   
+[13]LEONE E H,ESTEVEZ I.Space use according to the distribution of resources and level of competition[J].Poultry Science,2008,87(1):3-13.   
+[14]RAVINDRAN V,THOMAS D V,THOMAS D G,et al.Performance and welfare of broilers asaffected by stocking density and zinc bacitracin supplementation[J].Animal Science Journal,2006,77(1):110-116.   
+[15]白水莉.饲养密度和环境富集材料对肉鸡福利状况、生产性能和肉品质的影响[D].硕士 学位论文.扬州:扬州大学,2009:80-81.   
+[16]汤建平.饲养密度与饲养方式及饲粮能量对肉鸡生长的影响[D].硕士学位论文.北京:中 国农业科学院,2012:58-59.
+
+114 [17]张华.不同饲养方式和密度对白羽肉鸡生产性能及生理机能的影响[D].硕士学位论文.   
+115 北京:中国农业大学,2013:42-44.   
+116 [18]于浩,宋莎莎,丁壮.不同饲养密度和日粮生物素添加水平对肉鸡生产性能与福利状态的   
+117 影响[J].中国饲料,2014(16):18-21.   
+118 [19]杨静.不同隔离时间的急性应激对鸡血液生化指标和下丘脑CRH、AVTmRNA表达的   
+119 影响[J].广东饲料,2011,20(5):34-37.   
+120 [20]SIEGEL H S.Gordon memorial lecture:stress,strains and resistance[J].British Poultry   
+121 Science,1995,36(1):3-22   
+122 [21]王新谋.家畜应激与畜牧生产(续)[J].畜牧兽医杂志,1985(3):41-45.   
+123 [22]文杰,林济华,高宇清.维生素C对热应激状态下肉仔鸡生产性能及维生素C合成能力的   
+124 影响[J].畜牧兽医学报,2000,31(6):497-502.   
+125 [23] 刘铀,林红英,罗东君,等.热应激对肉鸡血液生化指标及内分泌机能的影响[J].湛江海洋   
+126 大学学报,1999,19(1):61-64.   
+127 [24]胡晓飞,呙于明.皮质酮应激对肉仔鸡生产性能及血液指标的影响[J].中国畜牧杂   
+128 志,2010,46(15):48-51.   
+129 [25]杨在宾,周佳萍,王景成.畜禽应激反应机理及防制措施的应用研究进展[J].饲料工   
+130 业,2007,28(15):4-8.   
+131 [26]魏凤仙.湿度和氨暴露诱导的慢性应激对肉仔鸡生长性能、肉品质、生理机能的影响   
+132 及其调控机制[D].博士学位论文.杨凌:西北农林科技大学,2012:146-147.   
+133 [27]APPELS A,BAR F W,BAR J,et al.Inflammation,depressive symptomatology,and coronary   
+134 artery disease[J].Psychosomatic Medicine,2000,62(5):601-605.   
+135 [28]HARTMANN G,TSCHOP M,FISCHER R,et al.High altitude increases circulating   
+136 interleukin-6,interleukin-1 receptor antagonist and c-reactive   
+137 protein[J].Cytokine,2000,12(3):246-252.   
+138   
+139 Influence of Breeding Density and Space Allowance on Immune and Stress Indicators of Broilers   
+140 LU Yingjie1\*MIAO Zhiqiang1\*LI Jianhui1YANG Ying²YANG $\mathrm { Y u ^ { 1 ^ { * * } } }$   
+141 (1. College of Animal Science and Technology, Shanxi Agricultural University, Taigu 030801,   
+142 China; 2. College of Animal Science and Technology, China Agricultural University, Beijing   
+143 100193, China)   
+144 Abstract: The influence of breeding density and space allowance on immune and stress indicators   
+145 of broilers were investigated in this experiment. Using a $3 { \times } 2$ factors completely randomized   
+146 design,a total of 756 one-day-old Arbor Acres (AA) broilers were randomly allotted into 6 groups
+
+with 6 replicates per group. Two kinds of space allowance were designed as 2.88 ( $( 2 . 4 ~ \mathrm { m } { \times } 1 . 2 \mathrm { m } )$ and $1 . 4 4 ~ \mathrm { m } ^ { 2 } ( 2 . 4 ~ \mathrm { m } { \times } 0 . 6 ~ \mathrm { m } )$ , three breeding densities were designed as high density(14 birds/ $/ \mathrm { m } ^ { 2 }$ ）, medium density $( 1 0 \mathrm { b i r d s } / \mathrm { m } ^ { 2 } .$ ）and low density (6 birds $/ \mathrm { m } ^ { 2 }$ ). The experiment lasted for 42 day. The results showed as follows: 1） at 21 days of age,breeding density and space allowance had a significant interaction on average daily gain (ADG) and average body weight (ABW) $( P { < } 0 . 0 5 )$ The ADG and ABW of broilers in the medium density with large space allowance group were significantly higher than those in the medium density with small space allowance group and the high density with small space allowance group $( P { < } 0 . 0 5 )$ . Breeding density and space allowance had significant effects on serum free fatty acids (FFA） content $( P { < } 0 . 0 1 )$ ,also had a significant interaction $( P { < } 0 . 0 1 )$ , the serum FFA content in medium density group was significantly lower than that of high and low density groups $( P { < } 0 . 0 5 )$ . Breeding density had significant effects on the content of interleukin- $1 \beta$ (IL $1 \beta$ ）and interleukin-6（IL-6） in serum( $_ { \scriptstyle P < 0 . 0 1 }$ and $P { < } 0 . 0 5 )$ ） Breeding density had significant effects on serum total antioxidant capacity (T-AOC) $( P { < } 0 . 0 5 )$ Breeding density and space allowance had a significant interaction on serum glutathione peroxidase (GSH-Px） activity $( P { < } 0 . 0 5 )$ . 2） At 42 days of age,breeding density and space allowance had a significant interaction on ADG, feed to gain (F/G) and ABW $( P { < } 0 . 0 5 )$ . The ADG and ABW of broilers in medium and low density with large space allowance group and low density with small space allowance group were significantly higher than those in other groups （204 $( P { < } 0 . 0 5 )$ , the average daily feed intake (ADFI),ADG and ABW of broilers in high density were significantly lower than those in medium and low density group $( P { < } 0 . 0 5 )$ , the ABW of broilers in large space allowance group was significantly higher than that in small space allowance group （204号 $( P { < } 0 . 0 5 )$ , the ADFI of broilers in large space allowance group was significantly lower than that in small space allowance group $( P { < } 0 . 0 5 )$ , the F/G of broilers in medium and high density with large space allowance group was significantly lower than that in medium and high density with small space allowance group $( P { < } 0 . 0 5 )$ . The serum glucose content in high density group was significantly higher than that in medium and low density group $( P { < } 0 . 0 5 )$ . The serum IL- $1 \beta$ content in medium density group was significantly lower than that in high and low density group $( P { < } 0 . 0 5 )$ In summary, breeding density and space alowance have a certain influence on ADFI, ADG, F/G, ABW and contents of FFA, Il- $1 \beta$ and IL-6 in serum. It causes chicken's stress and immune response. This experiment can preliminary draw the conclusion that the medium density（10
+
+birds $/ \mathrm { m } ^ { 2 }$ ） with large space allowance $( 2 . 8 8 ~ \mathrm { m } ^ { 2 } )$ ）has lowest immunological stress,which is more suitable for the growth of broilers.   
+Key words: broilers; breeding density; space allowance; immunological stress; antioxidant function1

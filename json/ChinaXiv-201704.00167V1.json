@@ -1,0 +1,719 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201511022215 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐利,邵景安,郭跃,邓华,薛沛沛.社区水平森林景观格局动态特征与驱动因素.生态学报,2017,37(6);2101-2117.TanLSoJgstadtitect37(6):2101-2117.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社区水平森林景观格局动态特征与驱动因素",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐利¹，邵景安1,2，\\*，郭跃1,²，邓华³，薛沛沛",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1重庆师范大学地理与旅游学院，重庆400047  \n2三峡库区地表过程与环境遥感重庆市重点实验室，重庆400047  \n3西南大学资源环境学院，重庆400716  \n4重庆市林业科学研究院，重庆400036",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于高分辨率 SPOT-5影像、TM影像和农户调查数据,以及相关辅助数据,选取三峡库区典型森林大县石柱县三星乡石星村为样区,利用景观格局指数与Logistic 回归分析法,对1994—2014 年间的森林景观格局的动态特征及其影响因素进行分析,旨在丰富人们对社区水平森林景观格局动态的理解和认识，为森林景观恢复和可持续经营策略的制定提供科学依据。结果表明： $\\textcircled{1}$ 样区森林景观一直占据20 年间景观基质的主导地位,空间分布上退化原始林主要集中分布在中东部低山、深丘区,次生林、退化林地和人工林呈镶嵌格局，分散于主要基质性景观中； $\\textcircled{2} 2 0$ 年间样区森林景观整体呈先减少后增加的“U”型格局，表现为1994—2004年间的退化与2004—2014年间的恢复两个截然相反的过程，且这一过程主要发生在森林景观与水田、旱地、居民点、道路等接壤区； $\\textcircled { 3 } 2 0 0 4$ -2014年间森林景观的演化趋势与1994—2004年间整体上呈反向趋势,空间格局上,这一阶段森林景观的恢复主要出现在1994—2004年间森林景观所发生退化的区域； $\\textcircled{4} 2 0$ 年间样区森林景观在斑块水平上呈明显异质性分布，3个截面年份不同森林景观破碎化程度的总排序均为退化林地 $. >$ 人工林 $: >$ 次生林 $\\cdot >$ 退化原始林，且退化原始林、次生林和退化林地的破碎度变化趋势相同，均为先增后减； $\\textcircled{5} 2 0$ 年间样区森林景观在景观水平上的破碎度呈现先增强后减弱趋势，且2014年的破碎化程度恢复至低于1994年的水平,进一步说明在退化后的森林景观恢复过程中,生态完整性的恢复速度远低于破碎速度； $\\textcircled{6}$ 社会经济因素对20年间样区森林景观变化的影响最突出,其中,最主要的影响因素是人口密度变化，先增后减的变化使生态压力随之增减,进而导致森林景观的退化与恢复。其次是农民人均纯收入变化，特别是2004—2014年农民人均纯收入的增加,促进能源结构的转型,减少了对森林景观的依赖和干扰。空间距离对森林景观的影响具有稳定的持续作用,居民对森林景观的干扰多经由距离因素而实现。自然因素控制大地貌格局,中短时期内对森林景观变化影响不大,次生林和退化林地因处于适宜开发的边缘地带，受自然环境影响较大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：社区水平；森林景观；动态演化；驱动因素；山区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Forest landscape pattern dynamic and its driving factors at the community level ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TANG Li¹，SHAO Jing'an1,2,\\*，GUO Yuel²，DENG Hua³， XUE Peipei4   \n1Collge of Geography and Tourism,Chongqing Normal University，Chongqing 4Ooo47,China   \n2KeyLaboratoryofSurfaceProcessandEnvironmentRemote SensingintheThreeGorgesReseruoirArea，Chongqing40o047,China   \n3 Colloeg of Resources and Environment，Southwest University，Chongqing 40O716,China   \n4ChongqingForestry Academy，Chongqing 40o036,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Inorder togainabeterunderstandingof the dynamiccharacteristicsofforestlandscapesand providescientific bases forforestlandscaperestorationandits sustainable developmentat thecommunity level，weanalyzed dynamic characteristicsand efect factorsofforest landscapes from1994to 2014using the methodsof landscape indicesand logistic regression analysis.The processwas based on theuseof high-resolution SPOT-5 images，TM images，household survey data，and some related auxiliarydata.Shixing vilage，Shizhu County，located in the Three Gorges Reservoir Area，was selected as the forest sampling site.Theresults revealed the folowing：Forest landscape has been the main landscape type inthe sampling area for thepast twodecades.The degradedprimary forestmainlydistributed inhilsandlowhils in the centraland east partof thestudysite，whilethesecondary forest，degraded forest land，and plantations，which were distributed inthe matrixof the majorlandscape，showedamosaicpatern.The forestdynamicscharacteristics in thesetwo decades reflected that the forestareareducedfirst，and followed byanincrease，thusconstitutinga U-shapedtrend.The dynamic evolutionof thelandscape in the period from1994 to 2O04 showedan inverse processto the period from 2004 to 2014.This processoccurred mainlyin thecontiguousareas between forest landscape and paddy fields，dryland，human settlements，androads.In termsofthespatial patern,therecoveryarea inthe period of 2004—2O14 wasalmost thesame as the degradedarea in the periodof 1994—2004.At patch level，the forestlandscape was significantly heterogeneously distributed inthe studysiteandhasbeenforthepast2Oyears.Thetotalranking offorestlandscapefragmentation inthree different years was degraded forest land $>$ plantation $>$ secondary forest $>$ degraded primary forest.In addition，the degraded primary forest，secondaryforest，and degraded forestlandhadthesame fragmentationtendencyof arising firstandreducing later.Atthelandscapelevel,the forestlandscape fragmentation tendencywas thesameas thatat the patchlevel，and the degree offragmentation in2014 waslowerthan that in1994，which indicatedthatthe speedof ecological integrityrecovery wasslowerthan the speed ofdegradation.Socio-economic factors hadasignificant influenceon forest dynamicsfrom1994 to 2014.First,the most important factorwas thechangeof residential populationdensity.Thefluctuationof thepopulation densitydirectlyaffectedecologicalpresureandledtothedegradationandrecoveryoftheforestlandscape.Thesecond critical factor wasthechange inthenetincomeoffarmers，especiallythe increase from 2O04 to2014,whichresulted in the transformationof theenergy structureandthereductionof dependenceand interferenceinthe forestlandscape.Thespatial distance factorhada steady efectonforest landscapedynamics，ashuman disturbancefactorsaffected forestlandscapevia accessibilitybasedonspatialdistance.Overall，natural factorscontroltheentire landscape paernoftheforest，butonly slightlyaffected forestlandscapeintheshortterm.Secondaryforestanddegradedforestland were influencedbythenatural environment owing to their location in the developing suburban area. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:community level； forest landscape；dynamic evolution；driving factors；mountain area ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林碳汇管理是人类应对或减缓全球气候变化的主要关注对象和关键途径[1],而要实现这一目标就必须查明或弄清现在及过去某一区域森林格局的演变及其背后驱动因素[2]。当然,为有效保护森林资源,摸清森林碳汇的现状与未来碳增汇潜力,了解森林景观格局的变化、原因及未来情景,国内外学者、政府决策者与实践层面已开展了大量研究与探索。归纳起来，国外注重将景观生态学原理运用于森林景观的格局演化、形成过程与驱动因素分析中,尤其重视模型发展,并在森林景观生态研究成果的基础上不断发展新的思想、观点和方法[3],特别是北美和欧洲学派已在相关领域取得较多科学发现[48];国内更多根据中国国情开展多尺度、多样化、多情景典型区案例研究[9-13],且在研究过程中与生态学的结合日益紧密[14-5],研究方法也更加丰富[9,11,16-17]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而,尽管在森林景观的研究过程中涉及尺度在不断丰富(呈多样化趋势),甚至部分研究在探索尺度间的转换效应与过程,但目前研究主要集中于城市森林、景区（点)森林等[13],而单纯地以农村社区为水平开展森林景观格局与过程的研究相对较少。社区水平是森林保育政策的基本实践层面,既承载着居民对散布森林景观干扰行为的直接作用,又是国家及区域森林保育政策执行的落脚点[18-19],且中观乃至宏观尺度的森林景观也是由无数微观小尺度景观累积而成。而且,在目前工业化、城镇化背景下，山区社区逐渐表现为衰败现象,如大量青壮年劳动力“析出\"进而导致对森林景观的扰动减少,有助于森林景观的恢复,这一结果与上世",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纪90年代前正好相反。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此,基于森林景观的已有研究基础和现实需求,开展社区水平森林景观格局的动态研究不仅可了解基本实践层面的森林景观格局的动态变化及背后驱动因素,而且可越发丰富关于森林景观格局研究的尺度范围,更好地服务于森林景观格局的恢复、管理与效应提升。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "重庆石柱县是三峡库区与武陵山区重要的森林大县,该县兼具生态环境脆弱、少数民族聚集、经济社会欠发达的特点,而森林景观作为其区域内的基质性景观对当地居民生产、生活和生态具有重要作用。基于此,本文选取其区内的三星乡石星村为样区,利用景观格局指数和Logistic 回归分析法,开展近20年社区水平森林景观格局的时空演变特征分析,并从自然、空间距离和社会经济三方面定量分析驱动其格局变化的影响因素，以期揭示样区森林景观格局的动态变化特征与驱动因素,为未来社区水平森林景观可持续发展策略的制定提供科学依据和理论支撑。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 区域概况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样区石星村位于重庆石柱县三星乡中东部（ $1 0 8 ^ { \\circ }$ $0 4 ^ { \\prime } 3 4 ^ { \\prime \\prime }$ 一 $1 0 8 ^ { \\circ } 0 9 ^ { \\prime } 4 3 ^ { \\prime \\prime } \\mathrm { E }$ $2 9 ^ { \\circ } 5 2 ^ { \\prime } 0 0 ^ { \\prime \\prime } { \\mathrm { - } } 2 9 ^ { \\circ } 5 4 ^ { \\prime } 0 0 ^ { \\prime \\prime } { \\mathrm { N } } { \\mathrm { ) } }$ ，幅员$1 1 7 2 . 4 6 \\mathrm { h m } ^ { 2 }$ 。地势东高西低,地貌以低山浅丘为主,兼具山地与丘陵地貌景观,海拔 $6 3 0 { - } 1 3 8 0 \\mathrm { m }$ 。气候属亚热带湿润季风气候,年均温 $1 7 . 6 \\mathrm { ^ { \\circ } C }$ ;土壤以黄壤为主;植被以亚热带常绿阔叶林和落叶阔叶林为主，2014年森林覆盖率达 $6 0 . 7 1 \\%$ 。按照国际热带木材组织（ITTO）的分类标准[19-20],样区有退化原始林 $4 5 4 . 9 7 \\mathrm { h m } ^ { 2 }$ ,次生林 $1 2 1 . 7 9 \\mathrm { h m } ^ { 2 }$ ,退化林地 $7 2 . 9 5 \\mathrm { h m } ^ { 2 }$ 和人工林 $6 2 . 0 9 \\mathrm { h m } ^ { 2 }$ O2014年底，样区辖7个村民小组，总人口3452人，其中常年外出务工劳动力1379人。乡村道路 $2 9 . 5 7 \\mathrm { k m }$ ；4条河流流经该村，均属南滨河三级支流;坑塘水库24个，面积达 $2 . 9 9 \\mathrm { h m } ^ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/091e3ee705b4513bb3587350f5b9476e89bde0819de4a195501c2d568d4d3b5a.jpg",
+        "img_caption": [
+            "图1样区地理位置和DEM",
+            "Fig.1Location and topography in the study site "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所用的数据主要涉及两部分：基础数据和调研数据。 $\\textcircled{1}$ 基础数据：样区2004年和2014年 $2 . 5 \\mathrm { m }$ 分辨率SPOT-5影像来源于重庆市林业规划院;2002年森林资源二类调查数据来源于石柱县林业局;2010年1:1万国土第二次调查数据、1:1万分幅地形图、1:1万村组级行政界线及道路分布图来源于石柱县国土资源局; $3 0 \\mathrm { m }$ 分辨率DEM来源于中国西部数据中心;1994 年 $3 0 \\mathrm { m }$ 分辨率TM影像来源于中科院地理所资源环境数据中心；样区2004—2014年农经报表来源于三星乡政府及相关职能部门。 $\\textcircled{2}$ 调研数据：作者所在课题组8人于2015年2月20日至3月5日,到样区进行实地调查和参与式农户访谈。随机抽取175户农户进行参与式访谈，问卷内容涉及人口、经济收入、人均耕地面积、荒土地面积、薪材需求量及对土地利用的意愿、对森林变化的感知等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对2004和2014年森林景观格局的提取主要过程如下：首先,对2004、2014年 SPOT-5遥感影像进行几何校正、图像镶嵌与裁剪,并在 ENVI软件的支持下进行312 波段的图像融合;其次，将其与辅助解译数据(2002 年森林资源二调数据、2010年国土二调数据、1:1万分幅地形图和行政边界矢量图)统一投影到西安 80坐标下;再次,使用ITTO 的分类标准[19-20],结合实地踏勘和农户访谈,建立样区森林景观要素分类的解译标志(表1),开展人机交互解译与小班区划;最后,参考相关文献[19]和2002年森林二类调查小班图及解译的森林景观图，以室内解译或区划的小班为底图，开展以小班为单元的实地核查和验证，对2004和2014年解译出的森林景观格局图予以修正。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/29ac91a7269698ad3cee097943328c0407d30ec9dea3ed5216813820a93c6c17.jpg",
+        "table_caption": [
+            "表1ITTO退化森林景观分类系统及样区景观要素遥感解译标准",
+            "ble1TheclasificationsystemofITTOdegraded forestLandscapeandtheirremotesensinginterpretationstandards inthe stud "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>abie 类型</td><td>描述与说明</td><td>scapeand 影像特征(312波段组合) Image feature</td><td>遥感典型影像 Typical remote sensing image</td></tr><tr><td>退化原始林 Degraded primary forest</td><td>Description and specification 起初是原始林或天然林分覆盖的地区， 由于木质和/或非木质产品的不可持续 收获,或导致森林结构、过程、功能和动 态的变化超过了生态系统的短期恢复 能力的原始林</td><td>(312 band combination) 片状集中分布,暗绿色,有斑驳 淡绿色,有绒感,纹理均一</td><td></td></tr><tr><td>次生林 Secondary forest</td><td>原有森林被大面积采伐后（低于原有森 林覆盖的10%），林地上重新生长的木 本植被,通常在废弃耕地、牧场或造林 失败地上自然发育而成,其林分组成和 外观与原始林不同,物种为喜光型</td><td>片状,不均匀,亮青色</td><td></td></tr><tr><td>退化林地 Degraded forest land</td><td>原有林地由于木质和/或非木质产品的 过度收获、不合理的经营、反复火灾、放 牧或其他损害土壤和植被的干扰或土 地利用,而受到了严重的破坏,其破坏 程度已阻碍或严重推迟森林重建工作, 表现为植被较为缺乏，可能出现小片先 锋树木或灌木</td><td>小片状,形状不规则,不均匀,泛 白的淡青色</td><td></td></tr><tr><td>人工林 Plantation</td><td>人工种植,培育和经营的森林,如：果木 林,竹林,屋旁树,退耕还林而种植的森 林等</td><td>碎片状,主要围绕村庄和房屋分 布,为亮绿色</td><td></td></tr><tr><td>旱地 Dryland</td><td>无灌溉设施，主要靠天然降水种植旱生 农作物的耕地,包括没有灌溉设施，仅 靠引洪淤灌的耕地</td><td>片状,有明显条纹,粉紫色</td><td></td></tr><tr><td>水田 Paddy field</td><td>可以经常蓄水,用于种植水稻等水生作 物的耕地</td><td>片状,有明显条纹,白色和粉色 相间</td><td></td></tr><tr><td>居住用地 Human settlements</td><td>用于建造居民住房及其附属设施所占 用的土地</td><td>若干小矩形紧密相连,成片状或 分散,较为规则并镶嵌有白色斑 点,为紫红色</td><td></td></tr><tr><td>水域 Waters</td><td>本文特指河流、水库和山坪塘</td><td>带状或片状,均匀,红色</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对1994 年森林景观格局的提取采取参与式农户访谈与TM影像验证相结合的方法进行：因为本文的研究尺度是社区水平，如果全部使用1994年 $3 0 \\mathrm { m }$ 分辨率的TM影像进行解译获得，则解译结果的相对误差定会较大,更何况本文要将森林景观格局的演化落实在具体的地块上,因此单独使用TM 影像进行1994年的数据获取粒度较粗。然而,如仅仅以2004年的解译验证后的结果为底图,在此基础上,通过参与式农户访谈让当地居民进行逐一小班的追溯,又很难把森林景观的追溯结果精确到年,具有较大的不确定性。即很难保证非遥感辅助数据来源正确性（居民回忆),这样,更不能保证所得到的1994 年森林景观格局具有较高的准确性。为此,本文使用两者相结合的方法进行1994年样区森林景观格局信息的获取，具体过程是：首先,使用通常的遥感影像处理方法对1994年TM影像进行几何校正、投影校正与432 波段合成,并将其与其他图像数据一起作为1994 年森林景观格局信息提取的辅助数据;其次,以2004年的森林景观格局图为底图让当地居民进行逐一小班的追溯反演,并参照1994年TM影像对追溯结果进行核对与验证,以提高追溯结果的正确性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对解译和追溯结果分森林景观类型随机抽取小班进行实地验证,2004和2014年的退化原始林、次生林、退化林地和人工林分别抽取13、27、19和7个小班,正确率分别为 $9 5 . 5 \\% . 8 9 . 7 \\% . 9 1 . 3 \\%$ 和 $9 3 . 9 \\%$ ,1994年的相应小班分别抽取9、21、24和5个，正确率分别 $9 1 . 6 \\%$ ） $8 8 . 3 \\%$ ） $9 5 . 1 \\%$ 和 $9 0 . 9 \\%$ 。正确率均达到本文研究的精度要求,三期森林景观格局解译结果见图2。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/97e7208ab8c5188905a81a388362ac6bd047c4cb437d30a22e3bc58a2f37ca58.jpg",
+        "img_caption": [
+            "图2样区不同年份景观要素格局与分布",
+            "Fig.2The distribution of landscape elements patterns in the study site during different years "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4 研究方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 景观格局分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "景观格局指数是反映景观空间配置特征和景观格局构成的简单量化指标,是表征景观格局特征与构成最常用的静态定量方法[2I],分为斑块水平、类型斑块水平和景观水平3个层次。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为研究样区1994—2014年间森林景观格局对自然环境、人类活动干扰及社会经济发展变化的响应,本文从类型斑块水平和景观水平两个层次上选择8个景观格局指数[2-23],分别是：斑块密度（PD）、边缘密度（ED）、平均斑块面积（MPS）、最大斑块指数（LPI）、加权平均形状指数（AWMSI）、蔓延度（CONTAG）、聚合度（AI)和 Shannon 多样性指数(SHDI)。其中,斑块密度(PD）、边缘密度（ED)值越高,且平均斑块面积（MPS）越低,表明景观越破碎化,即异质性程度越高;最大斑块指数(LPI)越大,表明该类型斑块或景观最大面积斑块所占比例越大,受干扰强度和频数越小;加权平均指数(AWMSI)与 Shannon 多样性指数(SHDI)越高,景观空间格局越复杂多样,越破碎;聚合度(AI)和蔓延度(CONTAG)越低,各种要素的密集程度越高,越破碎。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "景观格局指数计算以ARCGIS软件为数据输入平台,使用Fragstats 3.3软件实现。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 Logistic 回归分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用Logistic 回归模型进行影响样区森林景观格局演化的驱动因素识别[24-25],具体在 SPSS 17软件支持下实现回归计算,同时,对回归模型的预测能力使用最大似然估计进行评价,如回归系数、标准误差、Wald 统计量、显著性水平和发生比率。当回归系数为正时,随解释变量的增加,被解释变量发生的概率会相应增加，反之则减少。Wald统计量表示每个解释变量的相对权重,用于评价每个解释变量对事件的贡献力[26]。选择Homsmer-Lemeshow 指标(HL)进行模型拟合优度的检验[26-27],当HL 指标对应 $P$ 值 $> 0 . 0 5$ ,统计不显著,表示模型拟合度好;取显著性水平为0.05,当解释变量的显著性水平小于0.05时应保留在方程中,反之则去除。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)因变量指标构建 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为分析各类森林景观发生动态变化的影响因素,本文分别选择退化原始林、次生林、退化林地和人工林的变化情况作为因变量,用编码\"1\"或\"0\"表示各类森林景观发生变化的概率。“1\"表示森林景观发生变化，即其他景观类型转化为该类型森林景观或该类型森林景观转化为其他类型景观；“0”表示森林景观未发生变化。研究时段为1994—2004年和2004—2014年。在 ARCGIS软件支持下将相邻两时段的森林景观解译矢量图进行空间叠加，即得到样区1994—2004和2004—2014年两个时段森林景观格局动态变化矢量图,再在此基础上将其按编码值分别转换为分辨率为 $1 0 \\mathrm { m }$ 的栅格图。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）自变量指标构建 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20 年来,样区森林景观格局在自然与人文因素的共同驱动下发生较大变化,考虑数据科学性和可获取性,本文在自然本底、社会经济和空间距离3方面共选取9个与样区森林景观时空变化密切相关的影响因素（表2）,它们总体上可代表自然本底和人文因素对样区森林景观动态变化的直接和间接的影响。其中,海拔、坡度作为自然本底解释变量;常住人口密度变化、薪材需求变化、劳均耕地变化及农民纯收入变化则是考虑农村地区特点而选用的社会经济解释变量;小班距道路、居民点和水域的距离可体现空间人为活动对森林景观的空间距离影响。考虑到不同道路、居民点和水域的影响力不同,以及样区地势相对高差大的特点,参考相关研究[28]对道路影响指数的计算,对小班距道路的距离予以修正,并将修正思路推广至居民点和水域的距离计算中,公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD { = } L _ { i , j } { \\times } \\sqrt { E _ { i } ^ { 2 } { + } H _ { I } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $D$ 为小班距道路、居民点和水域的修正距离， $i = 1 , 2 , 3$ 分别代表道路、居民点和水域， $_ { \\mathrm { \\scriptsize { j = 1 , 2 , 3 } } }$ 分别表示道路、居民点和水域等级； $L$ 表示不同道路、居民点或水域等级的影响系数。因道路宽度、质量、人流量等属性与道路等级存在正相关关系,因此可用道路等级代表道路属性,其中乡道及以上为1级 $L _ { 1 , 1 } = 1$ ,村公路为2级$L _ { 1 , 2 } = 2$ ,生产便道为3级 $L _ { 1 , 3 } = 3$ 。居民点规模越大人口越多,对周围的干扰越强,根据样区居民点基本情况，设连片居住面积 $\\geqslant 0 . 5 \\mathrm { h m } ^ { 2 }$ 的为1级 $L _ { 2 , 1 } = 1$ ， $< 0 . 5$ 的设为2级 $L _ { 2 , 2 } = 2$ ,散居点设为3级 $L _ { 2 , 3 } = 3$ 。水域灌溉能力与种类有关,设河流为1级 $L _ { 3 , 1 } = 1$ ,水库为2级 $L _ { 3 , 2 } = 2$ ,坑塘为3级 $L _ { 3 , 3 } = 3$ 。 $E$ 为小班距道路、居民点或水域的最小直线距离， $H$ 为小班与道路、居民点或水域间的相对高程差。式中，修正距离 $D$ 值大于0,且值越小,表明道路、居民点或水域的等级越高或小班越靠近道路、居民点或水域,则受干扰程度越强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)数据提取与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "海拔、坡度由DEM提取;小班距居民点、道路和水域的距离使用上述公式在栅格计算器中计算,得到距离栅格图,分辨率均为 $1 0 \\mathrm { m }$ ,社会经济数据则以村民小组为单位予以空间化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "空间自相关检验,利用随机抽样方法选择均匀分布于样区的 $\\mathbf { \\Omega } _ { n }$ 个随机点以避免数据的空间自相关性。先利用ARCGIS 软件的CreateRandomPoint工具创造 $n$ 个随机点,然后利用Join和ExtractValue to Point工具分别将因变量的属性值赋值到点属性中,并在每个Logistic 回归模型中随机选取因变量为“1”和\"0”值的点各200个,将选出点的自变量值进行均值化处理,这样,既保留原始数据的信息,又消除量纲的影响。将得到的自变量和因变量数据利用 SPSS17软件进行二元 Logistic 回归分析,其中解释变量筛选按0.05 显著性水平采",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用正向逐步回归方法进行。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1022826e98e5371d575e19d8a62495f8ff483f4d7709721adedabe30a5254cde.jpg",
+        "table_caption": [
+            "表2样区驱动森林景观格局演化的因素指标体系",
+            "Table2Influence factors index systemdriving the evolution of forest landscape patterns in the study site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因素Factors</td><td>变量Variables</td><td>变量说明Variable explanations</td></tr><tr><td>自然本底</td><td>坡度</td><td>各栅格的切平面与水平面之间的夹角</td></tr><tr><td>Natural conditions</td><td>海拔</td><td>各栅格单元的高程值</td></tr><tr><td>空间距离</td><td>到道路距离</td><td>各栅格单元到最近道路的修正距离</td></tr><tr><td>Spatial distance</td><td>到居民点距离</td><td>各栅格单元到最近居住用地的修正距离</td></tr><tr><td></td><td>到水域距离</td><td>各栅格单元到最近水域的修正距离</td></tr><tr><td>社会经济</td><td>常住人口密度变化</td><td>不同年份常住人口密度的差值</td></tr><tr><td rowspan=\"3\">Social economics</td><td>薪材需求量变化</td><td>每人不同年份年均薪材需求量的差值</td></tr><tr><td>劳均耕地量变化</td><td>不同年份平均每个劳动力拥有的平均耕地(旱地和水田)数量的差值</td></tr><tr><td>农民纯收入变化</td><td>各村民小组不同年份人均纯收入的差值</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1森林景观的总体动态变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 景观格局",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3可知,样区森林景观一直占据近20年景观基质的主导地位。在1994、2004 和2014的3个截面年份中，森林景观面积均超过样区总面积的 $5 0 \\%$ ,分别为 $5 9 . 0 6 \\% . 5 2 . 0 5 \\%$ 和 $6 0 . 7 1 \\%$ 。而且，所有景观类型中,退化原始林均占据样区3个截面年份的优势景观位置，占比分别达总面积的 $4 1 . 9 0 \\%$ 1 $, 3 3 . 4 6 \\%$ 和 $3 8 . 8 0 \\%$ ,其次是旱地、水田，其累计占比与退化原始林基本相当，分别为 $3 9 . 4 8 \\%$ ） $4 5 . 9 0 \\%$ 和 $3 6 . 4 6 \\%$ 。在空间分布上，退化原始林、水田和旱地的分布较为集中,退化原始林主要分布在样区中东部低山、深丘区,而水田、旱地则大多出现在样区中西部浅丘区,其他景观类型呈镶嵌格局,分散于样区主要基质性景观中(图2)。在分布形态上,退化原始林、水田、旱地呈面状连片分布,居民点、坑塘、水库、人工林呈点状分布,河流、次生林、退化林地呈带状分布。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 转换动态 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)总体格局转换 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20 年间样区森林景观整体呈先减少后增加的“U”型格局，总体净增加 $1 9 . 3 9 \\mathrm { h m } ^ { 2 }$ 。1994—2004 年森林景观净减少 $8 2 . 1 8 \\mathrm { h m } ^ { 2 }$ ,其占样区总面积比重由1994年的 $5 9 . 0 6 \\%$ 降低为2004年的 $5 2 . 0 5 \\%$ ,而 2004—2014年的净增加 $1 0 1 . 5 7 \\mathrm { h m } ^ { 2 }$ ,结果使得2014 年的这一比重又提升为 $6 0 . 7 1 \\%$ （表3）。总体上看,20年间样区森林景观表现为前期的退化与后期的恢复两个截然相反的过程。在森林景观类型演化趋势上,不同时段退化原始林、次生林的变化趋势与森林景观的整体演化格局是一致的,而退化林地、人工林则一直呈增加趋势。而且,在变化强度上，退化原始林在20 年间净减少 $3 6 . 3 3 \\mathrm { h m } ^ { 2 }$ ,次生林、退化林地、人工林分别净增加12.31、18.25、25.16$\\mathrm { { h m } } ^ { 2 }$ 。在不同时段上,不同森林景观类型在两阶段的变化幅度均较为显著;退化原始林在1994—2004年间净减少 $9 9 . 0 2 \\mathrm { h m } ^ { 2 }$ ,在 2004—2014 年净增加 $6 2 . 6 9 \\mathrm { h m } ^ { 2 }$ ;次生林、退化林地和人工林在1994—2004 和 2004—2014年间的净变化量分别为 $( - 1 7 . 0 6 , 2 9 . 1 2 , 4 . 7 8 \\mathrm { h m } ^ { 2 } )$ 和 $( 2 9 . 3 7 , - 1 0 . 8 7 , 2 0 . 3 8 \\mathrm { h m } ^ { 2 } )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在转换的空间格局上,样区森林景观格局的演化主要发生在森林景观与人为活动可触及的区域,尤其是森林景观与水田、旱地、居民点、道路等接壤区最易受到人为活动的干扰,当然,这一区域的人为活动也常常受到区域内外经济发展环境的影响而展现为加重或减缓的态势。对比图2发现,1994—2004年样区森林景观格局的减少主要发生在中部退化原始林与水田、旱地和居民点接壤区、东部镶嵌于退化原始林内部的水田、旱地和居民点周围及中西部环样区的退化原始林区,这一区域在1994—2004年间受林区居民追求经济利益的驱动,大量森林景观被转换为旱地、次生林、退化林地或人工林。但是,在2004 年以后,伴随工业化、城镇化的快速提升及户籍制度的松动,尤其是非农务工工资的攀升和务农机会成本的不断提高,使得大量青壮年劳动力从农村“析出”,特别是山区林区的这一现象更为显著。人退的结果必然导致人为扰动程度的降低或减轻，从而有助于样区森林景观的恢复，当然,森林景观最先恢复的区域正是最后人为扰动所波及的区域。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另外,与森林景观的变化相反，样区其他景观类型在20年间净减少 $1 9 . 3 9 \\mathrm { h m } ^ { 2 }$ 。特别地，旱地在1994—2004 年间增加 $7 6 . 6 0 \\mathrm { h m } ^ { 2 }$ ,在 2004—2014年间减少 $5 2 . 1 5 \\mathrm { h m } ^ { 2 }$ ,净增加 $2 4 . 4 5 \\mathrm { h m } ^ { 2 }$ 。旱地的这一转换格局恰好与退化原始林相反,当然,这并是不说由退化原始林直接被开发为旱地,而是退化原始林大多先被扰动为次生林、退化林地,再由次生林、退化林地开发为旱地。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c1a4803949b84c6bc7566f09d181f7133c8c1f6dc84a4ea8d81664b5ad6d7b10.jpg",
+        "table_caption": [
+            "表3样区景观格局构成及其面积变化",
+            "Table 3Constitution and dynamics of landscape patterns in the study site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">景观类型 Landscape types</td><td colspan=\"3\">构成比例 Scales/%</td><td colspan=\"2\">1994—2004年</td><td colspan=\"2\">2004—2014年</td></tr><tr><td>1994</td><td>2004</td><td>2014</td><td>变化面积 Change area/hm²</td><td>变化率 Change rate/%</td><td>变化面积 Change area /hm²</td><td>变化率 Change rate/%</td></tr><tr><td>退化原始林Degraded primary forest</td><td>41.90</td><td>33.46</td><td>38.80</td><td>-99.02</td><td>-20.15</td><td>62.69</td><td>15.98</td></tr><tr><td>次生林 Secondary forest</td><td>9.34</td><td>7.88</td><td>10.39</td><td>-17.06</td><td>-15.58</td><td>29.37</td><td>31.78</td></tr><tr><td>退化林地 Degraded forest land</td><td>4.67</td><td>7.15</td><td>6.22</td><td>29.12</td><td>34.74</td><td>-10.87</td><td>-12.97</td></tr><tr><td>人工林 Plantation</td><td>3.15</td><td>3.56</td><td>5.30</td><td>4.78</td><td>12.94</td><td>20.38</td><td>48.86</td></tr><tr><td>旱地 Dryland</td><td>19.52</td><td>26.05</td><td>21.60</td><td>76.60</td><td>33.48</td><td>-52.15</td><td>-17.07</td></tr><tr><td>水田Paddy field</td><td>19.96</td><td>19.85</td><td>15.51</td><td>-1.29</td><td>-0.55</td><td>-50.89</td><td>-21.86</td></tr><tr><td>居住用地 Human settlements</td><td>1.21</td><td>1.79</td><td>1.92</td><td>6.87</td><td>48.52</td><td>1.47</td><td>6.99</td></tr><tr><td>水域Waters</td><td>0.26</td><td>0.26</td><td>0.26</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)格局转换轨迹 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4可知,1994—2004年间样区森林景观转换的主要类型体现为：退化原始林向次生林、退化林地和旱地的转换,面积分别为 $7 0 . 4 3 , 1 7 . 7 6 , 1 1 . 1 0 \\mathrm { { h m } } ^ { 2 }$ ;次生林向退化林地和旱地的转换,面积分别为 $4 8 . 0 0 \\mathrm { { h m } } ^ { 2 }$ 和$3 2 . 8 6 \\mathrm { h m } ^ { 2 }$ ;退化林地向旱地转换,面积为 $3 4 . 2 1 \\mathrm { h m } ^ { 2 }$ 。仅就退化原始林的转换看，在这一阶段主要转换为次生林,其次是转换为退化林地,仅少部分直接被开发为旱地。类似地,次生林转换为退化林地的面积也多于旱地,而退化林地则基本被开发为旱地。因此,这一阶段旱地的增加主要来源于次生林、退化林地的开发,而次生林的增加分别来源于退化原始林的进一步退化,退化林地的增加不仅来源于退化原始林的进一步退化，更主要来源于次生林生态完整性的进一步卜降。当然,倘若没有分阶段的转移矩阵,样区在这一阶段的景观格局转换表面上体现为退化原始林的减少和旱地的增加,但使用转移矩阵后样区景观格局的演化轨迹就变得较为复杂。即是说,样区旱地的增加并不是主要来源于退化原始林的开发,次生林、退化林地的净面积变化强度弱于退化原始林也并不是说次生林、退化林地的实际发生变化的小班面积小,而是次生林、退化林地一方面被开发为旱地,另一方面又有部分退化原始林被扰动退化为次生林和退化林地。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在空间格局上,退化原始林转换为次生林、退化林地、旱地主要发生在靠近居民点或已有旱地的林缘，且距居民点、道路或水域的距离越近这一转换的速度更为迅速(图2)。其中被扰动为次生林或退化林地的原因主要受林区居民生产和生活需求所驱动,如用作薪柴、制作家具和生产工具、木材出售等;被开发为旱地的原因则是受林区居民短期经济利益的驱动所影响,在农户生计来源较为单一的情况下,为获得更多的农业产出，必然会从扩大农业生产规模的角度向林业要地（由地形决定的林区人均耕地相对较少）,从而促使部分退化原始林在被取得林产品后又被开发为旱地。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "次生林转换为退化林地和旱地、退化林地转换为旱地均主要发生于中西部区的居民点或旱地、水田周围的靠近次生林或退化林地的下缘区，且也呈现与上述距离呈反向变化的态势。次生林转换为退化林地的原因也主要受林区居民生产和生活的需求所驱动,如用于薪柴、制作家具和生产工具等,促使次生林生态完整性的降低,从而退化为退化林地;次生林和退化林地被开发为旱地的原因则与上述是一致的,只是次生林和退化林地距离上述景观的距离更近(可达性好),开发难度更小,且开发后的利用效果更好,致使样区次生林和退化林地被快速开发为旱地。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9c378175e333e57cd6359e7ff5be0ec008f413b3efe934983a31b0ca6631006.jpg",
+        "table_caption": [
+            "表41994—2004年样区景观要素转移矩阵",
+            "Table 4The transfer matrix of landscape elements types between 1994 and 2004 in the study site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">Table4 Thetralsier matti types betweer 1994ald Tthestudysite 退化原始林</td></tr><tr><td></td><td></td><td>次生林 Secondary</td><td>退化林 Dregraded</td><td>人工on</td><td>d</td><td>水田 Padd</td><td>居住用地 se Htements</td><td>水</td><td>1994 年面积 194/hm²2</td></tr><tr><td>退化原始林 Degraded primary forest</td><td>392.02</td><td>70.43</td><td>17.76</td><td></td><td>11.10</td><td></td><td></td><td></td><td>491.30</td></tr><tr><td>次生林 Secondary forest</td><td>0.26</td><td>21.68</td><td>48.00</td><td>6.68</td><td>32.86</td><td></td><td></td><td></td><td>109.48</td></tr><tr><td>退化林 Degraded forest land</td><td></td><td>0.32</td><td>18.06</td><td>2.10</td><td>34.21</td><td></td><td></td><td></td><td>54.70</td></tr><tr><td>人工林 Plantation</td><td></td><td></td><td></td><td>32.92</td><td>3.27</td><td></td><td>0.74</td><td></td><td>36.93</td></tr><tr><td>旱地 Dryland</td><td></td><td></td><td></td><td></td><td>223.98</td><td></td><td>4.84</td><td></td><td>228.82</td></tr><tr><td>水田 Paddy field</td><td></td><td></td><td></td><td></td><td></td><td>232.79</td><td>1.29</td><td></td><td>234.08</td></tr><tr><td>居住用地</td><td></td><td></td><td></td><td></td><td></td><td></td><td>14.16</td><td></td><td>14.16</td></tr><tr><td>Human settlements 水域Waters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.99</td><td>2.99</td></tr><tr><td>2004 年面积 Area of 2004/hm²</td><td>392.28</td><td>92.42</td><td>83.82</td><td>41.71</td><td>305.42</td><td>232.79</td><td>21.03</td><td>2.99</td><td>1172.46</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5可知,2004—2014年间样区森林景观的演化趋势与1994—2004年间整体上呈反向趋势,主要表现为：次生林生态完整性提至退化原始林，面积为 $6 2 . 6 9 \\mathrm { h m } ^ { 2 }$ ;退化林地恢复为次生林和用作人工林,面积分别为$4 7 . 2 7 \\cdot 7 . 6 0 \\mathrm { h m } ^ { 2 }$ ;旱地被擢荒为次生林、退化林地或改用作人工林,面积分别为 $6 3 . 1 1 , 2 5 . 6 8 , 1 2 . 7 8 \\mathrm { h m } ^ { 2 }$ 。而且，与前一阶段不同的是,这一阶段还出现大量的水田改用为旱地,面积达 $5 0 . 8 9 \\mathrm { h m } ^ { 2 }$ 。在 2004—2014年间样区森林景观不再由退化格局所主导,而是朝着更为健康的方向恢复,即不仅森林景观的面积在大幅增加,且生态完整性也在强力提高。在空间格局上,如前所述,2004—2014 年间的森林景观恢复,如退化原始林、次生林、退化林地等增加也主要出现在1994—2004年间样区森林景观所发生退化的区域,即是说,森林景观退化或转换为其他景观类型常常由山下向山上、由近距离朝远距离延伸,而森林景观的恢复则相反（图2）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "样区2004—2014年间的森林景观恢复主要由山区林区居民的退缩所驱动,在工业化、城镇化快速提升的背景下,非农务工工资自 2003年起迅速攀升（路易斯拐点）,务农机会成本增加,从而导致大量山区林区劳动力从农村“析出”,当然在比较利益的驱动下,山区林区居民不但把优质劳动力配置于非农产业,而且将农业土地利用方式朝着更为省工的方向转换(如陡坡旱地用于人工林、水田改为旱地等)。这样,劳动力配置于非农产业的结果导致劳均耕地大大增加,留守劳动力的老龄化又促使农业生产的耕作半径大大缩小,致使在机械不能替代的陡坡耕地或距离居民点、道路等较远的耕地出现畧荒,而这部分耕地也正是在1994—2004 年间由样区森林景观所开发出来的。样区地处亚热带湿润气候区,水热条件较好,且林区种子资源丰富,耕地擢荒3—5年即可自行演化为退化林地乃至次生林。加之，在这一阶段,样区人口大幅减少、生计来源渠道多样等，如替代能源的出现、农业生产工具的铁器化等,都驱使样区居民对森林景观的扰动程度大大降低，进而有助于生态完整性的提高，如次生林恢复为退化原始林、退化林地恢复为次生林等。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d27b2acb9558c933e39d5d35e51df5b4b7b7555f567744c88fa11df10975085.jpg",
+        "table_caption": [
+            "表52004—2014年样区景观要素转移矩阵",
+            "Table 5The transfer matrix of landscape elements types between 2004 and 2O14 in the study site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">TableS alser yPeL</td></tr><tr><td>退化原始林</td><td></td><td></td><td></td><td>P人工n</td><td>早d</td><td>P</td><td>地</td><td>水</td><td>200</td></tr><tr><td>Degraded primary forest</td><td>392.28</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>392.28</td></tr><tr><td>次生林 Secondary forest</td><td>62.69</td><td>29.73</td><td></td><td></td><td></td><td></td><td></td><td></td><td>92.42</td></tr><tr><td>退化林地 Degraded forest land</td><td></td><td>28.95</td><td>47.27</td><td>7.60</td><td></td><td></td><td></td><td></td><td>83.82</td></tr><tr><td>人工林 Plantation</td><td></td><td></td><td></td><td>41.71</td><td></td><td></td><td></td><td></td><td>41.71</td></tr><tr><td>旱地 Dryland</td><td></td><td>63.11</td><td>25.68</td><td>12.78</td><td>202.38</td><td></td><td>1.47</td><td></td><td>305.42</td></tr><tr><td>水田 Paddy field</td><td></td><td></td><td></td><td></td><td>50.89</td><td>181.90</td><td></td><td></td><td>232.79</td></tr><tr><td>居住用地 Human settlements</td><td></td><td></td><td></td><td></td><td></td><td></td><td>21.03</td><td></td><td>21.03</td></tr><tr><td>水域Waters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.99</td><td>2.99</td></tr><tr><td>2014年面积 Area of 2014/hm²</td><td>454.97</td><td>121.79</td><td>72.95</td><td>62.09</td><td>253.27</td><td>181.90</td><td>22.50</td><td>2.99</td><td>1172.46</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2森林景观的斑块水平特征 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图2可知,样区森林景观在斑块水平上呈明显异质性分布。尽管森林景观的不同类型在3个年份均遍及整个样区,但不同类型所呈现的分布特点各异。在所有年份,退化原始林主要分布在样区的中东部地区,中西部环样区周边仅有零星分布;次生林零星分布于样区中西部区(镶嵌于水田和旱地中)和中东部区(环退化原始林下缘),拥有“大分散小聚集”的特点;退化林地的分布与退化原始林相反,其主要分布于样区中西部区，其余小部分零星“点缀\"于中东部区;人工林则主要靠近居住用地分布,便于经营与管理。从其分布的地区及连片程度看,对照图1和图2可知,退化原始林、次生林随海拔升高而增多,且森林景观的连片分布集中于海拔高且地形起伏大的中东部山地区;退化林地则集中分布在由低山向丘陵、由林向农或由地势起伏向地势平缓的过渡区;旱地、水田和居住用地则多集中连片分布于海拔较低且地势相对平缓的中西部丘陵地区。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从破碎度看,样区森林景观不同类型在斑块水平上的变化表现为;3个截面年份不同森林景观破碎化程度的总排序均为退化林地 $>$ 人工林>次生林>退化原始林(图3）。退化林地的斑块密度(PD)和边缘密度(ED)均较大,而平均斑块面积(MPS)较小且变化不显著。这表明其破碎化程度最高,受人为干扰最频繁,产生这一现象的原因与旱地呈镶嵌分布有很大关系;人工林因靠近居民点分布,破碎化严重,常呈“点状”,具有居民点的斑块水平特点;次生林在3个截面年份的斑块密度(PD) $>$ 退化原始林，而边缘密度(ED) $<$ 退化原始林,且平均斑块面积(MPS)远<退化原始林,这说明次生林的破碎化程度远 $>$ 退化原始林;退化原始林平均斑块面积(MPS)远 $>$ 其他森林景观类型,且其斑块密度(PD)与边缘密度(ED)均相对较小,表明其破碎化程度最低。此外,退化原始林的优势度(LPI)占绝对性优势,说明其受人为的干扰相对较少,分布较为集中。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从破碎度的变化趋势看,退化原始林、次生林和退化林地的破碎度变化趋势相同,均为先增后减,说明上述3类森林景观在3个截面年份受人为的干扰程度均是先增后减。1994—2004年间样区居民高强度开发退化林地和次生林为旱地以弥补其对耕地的需求,而 2004—2014年间则放弃对前一时期开发旱地的利用甚至放弃一些立地条件较差的陡坡旱地,从而使其自然恢复为退化林地或次生林,或人为恢复为人工林。退化原始林是退化林地和次生林自然演化的“源”与“汇”,人为对次生林和退化林地的干扰必然会直接或间接影响退化原始林的演化,然而,在“开发-耕种-畧荒”的土地利用方式作用下,定会使得样区上述3类森林景观的破碎度出现相似的变化趋势;人工林的变化趋势与其他森林景观相反,先减后增,表明样区居民后一时段对人工林的干扰高于前一时段。受习俗影响,村民一般不会开发“房边林”,且为满足日常生活需要及房屋安全，会种植一些人工林(如竹林,果树等),而这部分面积变化不大且这类人工林一般在原有的基础上增加,使得斑块密度(PD)和边缘密度(ED)降低,从而破碎度降低。而后一时期,劳动力减少，一些耕地种植为经济林,使人工林面积和斑块明显增多，由于山区地势崎岖,使得人工林破碎度提高。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca910b099ffe9f560a55db1065daba464ca7a957e891a719422603d338a4b923.jpg",
+        "img_caption": [
+            "图3样区森林景观格局的斑块水平指数变化图",
+            "Fig.3The index evolution of forest landscape patterns at the patch level in the study site "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3森林景观的景观水平特征 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1994—2004 年间,样区景观水平的破碎化程度呈增强趋势。表6可知,1994—2004 年,景观水平森林景观的斑块密度（PD）、边缘密度（ED）分别从58.94个) $/ 1 0 0 \\mathrm { { h m } } ^ { 2 }$ 和 $1 7 0 . 2 7 \\mathrm { m / h m } ^ { 2 }$ 增至63.29个 $/ 1 0 0 \\mathrm { { h m } } ^ { 2 }$ 和$1 7 9 . 6 2 \\mathrm { m } / \\mathrm { h m } ^ { 2 }$ ,平均斑块面积（MPS）则从 $1 . 7 0 \\mathrm { { h m } } ^ { 2 }$ 下降至 $1 . 5 8 \\mathrm { h m } ^ { 2 }$ ,说明这一时段样区景观水平森林景观的破碎程度在增加;最大斑块指数(LPI)从 $3 5 . 2 7 \\%$ 下降至 $3 2 . 0 8 \\%$ ,表明优势景观趋于破碎化,优势度下降;加权平均形状指数(AWMSI)也从4.15增加到4.63,表明景观形状复杂程度增加,景观的边缘效应增强;蔓延度（CONTAG)与集聚度(AI)则均有所下降,表明更加破碎化;Shannon 多样性指数(SHDI)有所上升,说明景观多样性有所上升。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/38539c7004cca47322e46a7c2f9d183fb631eea441b31ed9fad1b6dc681fb050.jpg",
+        "table_caption": [
+            "表61994—2014年样区森林景观格局的景观水平变化",
+            "Table 6Theevolution offorest landscape patterns at the landscape level in the study site from1994 to 2014 "
+        ],
+        "table_footnote": [
+            "PD:斑块密度,path density;ED;边缘密度,edgedensity;MPS:平均斑块面积,meanpatch size;LPI:最大斑块指数,largestpatch index;AWMSI： 加权平均形状指数area-weightedmeansapeindex;CONTAG;延度指数,contagionindex;AI聚合度,agregationindex;香浓多样性shaon s diversity index "
+        ],
+        "table_body": "<html><body><table><tr><td>年份Year</td><td>PD/（个/100hm²)</td><td>ED/(m/hm²)</td><td>MPS/hm²</td><td>LPI/%</td><td>AWMSI</td><td>CONTAG/%</td><td>AI</td><td>SHDI</td></tr><tr><td>1994</td><td>58.94</td><td>170.27</td><td>1.70</td><td>35.27</td><td>4.15</td><td>52.80</td><td>91.45</td><td>1.56</td></tr><tr><td>2004</td><td>63.29</td><td>179.62</td><td>1.58</td><td>32.08</td><td>4.63</td><td>51.64</td><td>90.98</td><td>1.59</td></tr><tr><td>2014</td><td>56.90</td><td>161.45</td><td>1.76</td><td>35.39</td><td>4.46</td><td>53.38</td><td>91.89</td><td>1.55</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2004—2014年间，样区景观水平的破碎化程度表现为减弱趋势。表6可知,2004—2014年间景观水平的斑块密度（PD）和边缘密度（ED）分别从2004年的63.29个 $\\cdot / 1 0 0 \\mathrm { h m } ^ { 2 }$ 和 $1 7 9 . 6 2 \\mathrm { m } / \\mathrm { h m } ^ { 2 }$ 分别下降到56.90个/$1 0 0 \\mathrm { { h m } } ^ { 2 }$ 和 $1 6 1 . 4 5 \\mathrm { m / h m } ^ { 2 }$ ，平均斑块面积(MPS)则有所上升 $( 1 . 7 6 \\mathrm { h m } ^ { 2 }$ )，表明景观破碎化程度降低，景观异质性下降,这一结果也可从蔓延度(CONTAG)和集聚度(AI)的上升、加权斑块形状指数(AWMSI)与 Shannon 多样",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "性指数(SHDI)的下降得到明显反映。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1994—2004年、2004—2014年两时段,样区景观水平各景观指数的不同变化趋势表明森林景观的演化轨迹为先退化后恢复,且2014 年的破碎化程度恢复至低于1994年的水平,即人为干扰程度降低。但是,因退化原始林面积仍低于1994年的水平（表3）,故样区森林景观总体上仍处于退化态势,这也进一步说明在退化后的森林景观恢复过程中,生态完整性的恢复速度远低于破碎度的恢复,要提高森林景观的生态完整性需要较长时间内减少对优质森林资源的干扰。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.4森林景观格局演化的驱动因素",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1)退化林地",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在退化林地变化Logistic 回归模型中,第一阶段(1994—2004年)和第二阶段(2004—2014年)的 HL 指标分别为10.667和7.323，对应 $P$ 值0.221和0.502均大于0.05,模拟效果较好。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "社会经济因素对退化林地的影响较为显著,但重要性降低。第一阶段(表7),进入模型的社会经济因素为人口密度变化和劳均耕地变化,其中人口密度变化为最重要的影响因素,wald统计量大于其他因素之和，回归系数为2.83，人口密度越大,退化林地发生变化的概率越大。访谈发现,拥有少数民族特性的样区地处偏远山区,受传统习俗的影响,人口自然增长率相对较高,加之,1994—2004 年样区居民机械迁移人数较少，使得人口密度在这一时段呈连续增加态势。这样,在人口密度增加的驱动下,粮食和能源需求的增加定会依托于耕地面积的扩大和薪柴的增加,而耕地面积增加主要来自于退化林地的开发,薪柴的增加主要来源于对退化林地的采伐,从而导致样区生态压力增大,退化林地的破碎化程度加重,生态完整性降低。劳均耕地变化是居于第二位的影响因素,回归系数为-0.26,劳均耕地变化与退化林地变化的发生概率呈反比关系。伴随人口的增加劳均耕地减少,而为使劳动力获得较为充分的利用,大量退化林地被开发为耕地。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/cda31bc1d841764d408961040a6ed5329c01a1c649b8d44be0bf3d412517a959.jpg",
+        "table_caption": [
+            "表7样区退化林地变化的驱动因素分析",
+            "Table7The analysis of driving factors of degraded forest land evolution in the study site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>解释变量 Explanatory variables</td><td>回归系数β</td><td>标准误差 S.E</td><td>Wald统计量 Wald x2</td><td>自由度 df</td><td>显著性水平 Sig.</td><td>发生比率 Exp(β)</td></tr><tr><td>1994—2004 年，HL=10.677,P=0.221</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>常住人口密度变化 Change of resident population density</td><td>2.38</td><td>0.33</td><td>50.98</td><td>1</td><td>0.00</td><td>10.85</td></tr><tr><td>到居民点距离 Distance to settlements</td><td>-2.13</td><td>0.40</td><td>27.72</td><td>1</td><td>0.00</td><td>0.12</td></tr><tr><td>到道路距离 Distance to roads</td><td>-0.51</td><td>0.19</td><td>7.13</td><td>1</td><td>0.01</td><td>0.60</td></tr><tr><td>劳均耕地变化 Change of cultivated land area per worker</td><td>-0.26</td><td>0.12</td><td>4.36</td><td>1</td><td>0.04</td><td>0.77</td></tr><tr><td>常量Constant</td><td>-0.20</td><td>0.54</td><td>0.13</td><td>1</td><td>0.72</td><td>0.82</td></tr><tr><td>2004—2014年，HL=7.323,P=0.502</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>海拔Altitude</td><td>-3.90</td><td>0.75</td><td>26.90</td><td>1</td><td>0.00</td><td>0.02</td></tr><tr><td>到水域距离 Distance to waters</td><td>1.13</td><td>0.25</td><td>20.11</td><td>1</td><td>0.00</td><td>3.10</td></tr><tr><td>劳均耕地变化 Change of cultivated land area per worker</td><td>1.14</td><td>0.29</td><td>15.26</td><td>1</td><td>0.00</td><td>3.12</td></tr><tr><td>常量 Constant</td><td>3.92</td><td>0.80</td><td>23.76</td><td>1</td><td>0.00</td><td>50.33</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第二阶段(表7）,社会经济因素中仅有劳均耕地变化进入模型,wald统计量最小,为15.26,回归系数为1.14,劳均耕地变化与退化林地呈正比关系。2004—2014年间劳均耕地变化量呈上升趋势,主要原因是,这一阶段受非农务工工资提升的影响,大量青壮年劳动力从农村“析出”,耕地数量相对于劳动力而言处于过饱和状态,且因为留守在村的多为老年人,妇女和儿童,耕作半径大大萎缩，致使超过留守劳动力所能承受能力之外的耕地或可及性差、立地条件差的耕地被擢荒,自然恢复为退化林地或次生林,而它们大多是前一阶段被开发为耕地的退化林地。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "空间距离因素是退化林地变化的持续重要因素。第一阶段(表7),进入模型的空间距离因素为距居民点和道路距离,回归系数分别为-2.13 和-0.51,这表明退化林地发生变化的概率与其距居民点和道路的距离成反比，其中,距居民点的距离对退化林地变化的影响大于距道路的距离。距离越短，可达性越高，处于这样距离条件下的退化林地越易受人为干扰而退化。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第二阶段(表7),进入模型的空间距离因素仅有距水域距离,回归系数为1.13,退化林地变化发生的概率随距水域距离的增加而增加,耕地擢荒与开发是一相反过程,在对耕地需求减少的情况下,离水域越远干扰越少,耕地越易恢复为退化林地,退化林地则易恢复为次生林。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "自然因素对退化林地的变化影响显著增加。自然因素(海拔)仅在第二阶段进入模型,且为第一解释变量,回归系数为-3.90,这表明退化林地变化的发生概率随海拔的降低而增加,海拔越低,立地条件和便捷性越好,这些地区的退化林地在前一阶段多易被开发为耕地。但是,在2004—2014年间因留守样区人口数量的减少、劳动力劳动强度的降低，致使森林景观受干扰的程度降低，所以被开发为耕地的退化林地又恢复为退化林地，而较低海拔处的退化林地恢复为次生林。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2)人工林",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "因人工林在1994—2004 年间发生变化的面积较小,提取不到足够的随机点,所以人工林变化的模型仅研究 2004—2014 年间的变化。在2004—2014 年间人工林变化的 Logistic 回归模型中,HL 值为14.798,对应 $P$ 值0.063大于0.05,模型估计可在接受水平上拟合。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "表8可知,在人工林变化的模型中仅有两个因素进入模型;空间距离因素中距居民点距离为人工林最重要的因素,回归系数为-1.63,人工林发生变化的概率随距居民点距离的减小而增大。为方便生活与管理，人工林的种植多分布在离居民点近的地方;社会经济因素中人口密度变化是影响人工林变化的第二位影响因素,回归系数为-0.96,人工林发生变化与人口密度呈反比，人口密度的降低导致劳动力减少,居民更愿种植劳动力需求低且具有一定经济价值的人工林。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b5d03d25e40b0c7ddd25291a52190c335ffec48ae5e328eb940933920097a90.jpg",
+        "table_caption": [
+            "表8样区人工林变化的驱动因素分析",
+            "Table 8The analysis of driving factors of plantation evolution in the study site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>解释变量 Explanatory variables</td><td>回归系数</td><td>标准误差 S.E</td><td>wald统计量 Wald X²</td><td>自由度 df</td><td>显著性水平 Sig.</td><td>发生比率 Exp(β)</td></tr><tr><td>2004—2014 年,HL= 14.798,P=0.063</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>到居民点距离 Distance to settlements</td><td>-1.63</td><td>0.32</td><td>25.62</td><td>1</td><td>0.00</td><td>0.20</td></tr><tr><td>常住人口密度变化 Change of resident population density</td><td>-0.96</td><td>0.26</td><td>13.80</td><td>1</td><td>0.00</td><td>0.38</td></tr><tr><td>常量Constant</td><td>1.92</td><td>0.39</td><td>23.65</td><td>1</td><td>0.00</td><td>6.81</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3)次生林",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在次生林的Logistic 回归模型中,第一阶段和第二阶段的HL 值分别为8.987 和7.172,对应 $P$ 值分别为0.343和0.518,均大于0.05,模型拟合效果较好（表9）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "社会经济因素对样区次生林变化的影响较为突出,两个时段的第一影响因素均为社会经济因素。第一阶段(表9),第一影响因素是常住人口密度变化,回归系数为2.90,人口密度变化与次生林变化呈正比,Wald 统计量高达60.58，解释能力约 $5 0 \\%$ 。人口密度的增加,会直接或间接地加剧对次生林的扰动,致使次生林发生退化(生态完整性降低)或类型转换(退化林地或耕地）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第二阶段(表9),第一影响因素为农民人均纯收入变化,回归系数为1.80,农民人均纯收入与次生林变化呈正比。访谈发现,样区不同村民小组农民人均纯收入在2004—2014年间呈不同幅度的增加趋势,收入的提高改善了农民的生活条件,农村能源利用从以薪柴为主逐渐转向以煤、电、气为主,这样,不仅对耕地的依赖程度降低,而且,从山场索取薪柴的需求也大大降低,进而使得人为干扰减少,其结果是部分距居民点和道路较远的耕地和退化林地恢复为次生林，现有次生林因受干扰少而自然恢复为退化原始林，所以出现收入增加越大的地方次生林变化越大。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "空间距离对次生林变化的影响具有两向性。第一阶段(表9),空间距离因素对模型的解释能力按其解释程度排序为距居民点、水域和道路的距离,回归系数分别为-1.45、-1.08和-0.73,距离越近,次生林发生变化的概率越高。距居民点的距离越近,人为干扰施加的可及性越好,次生林越易被干扰,越易退化甚至被开发为耕地。第二阶段(表9),进入模型的空间距离因素为距居民点和道路的距离,回归系数符号与前一阶段相反，分别为0.82和0.39,而这一阶段次生林的增加主要来源于退化林地或耕地的恢复,说明次生林的恢复顺序与干扰相反,由远及近。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "自然因素对次生林的影响具有明显阶段性。第一阶段自然因素未进入模型(表9）,原因在于,在1994一2004 年间,样区居民要解决吃饭和生活能源问题,不仅仅是自然条件好地方受到人为干扰,就是相对恶劣的地方也同样遭受较大程度的影响,致使自然因素在第一阶段的影响不显著。第二阶段(表9)，自然因素（坡度)进入模型,并为第三解释变量,回归系数为-0.4,坡度越小,次生林发生变化概率越大。次生林多分布于坡度陡或海拔高的困难立地条件下,坡度越小,次生林的可达性相对较大,则越易在前一阶段受到干扰而退化为退化林地或被开发为耕地,而在后一阶段则越易得到恢复。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/604796e6aaf84d84aed7f7c7acfd2a9a345a1dbb986bbb8fc993fd04d4693bcb.jpg",
+        "table_caption": [
+            "表9样区次生林变化的驱动因素分析",
+            "Table 9The analysis of driving factors of secondary forest evolution in the study site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>解释变量 Explanatory variables</td><td>回归系数 β</td><td>标准误差 S.E</td><td>wald 统计量 Wald X²</td><td>自由度 df</td><td>显著性水平 Sig.</td><td>发生比率 Exp(β)</td></tr><tr><td>1994—2004 年,HL= 8.987,P=0.343</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>常住人口密度变化 Change of resident population density</td><td>2.90</td><td>0.37</td><td>60.58</td><td>1</td><td>0.00</td><td>18.14</td></tr><tr><td>到居民点距离 Distance to settlements</td><td>-1.45</td><td>0.29</td><td>24.72</td><td>1</td><td>0.00</td><td>0.24</td></tr><tr><td>到水域距离 Distance to waters</td><td>-1.08</td><td>0.22</td><td>24.56</td><td>1</td><td>0.00</td><td>0.34</td></tr><tr><td>到道路距离 Distance to roads</td><td>-0.73</td><td>0.20</td><td>13.26</td><td>1</td><td>0.00</td><td>0.48</td></tr><tr><td>常量Constant</td><td>-0.75</td><td>0.43</td><td>2.98</td><td>1</td><td>0.08</td><td>0.47</td></tr><tr><td>1994——2004 年,HL=7.172,P=0.518</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>农民人均纯收入变化 Per capita net income change of farmers</td><td>1.80</td><td>0.24</td><td>56.25</td><td>1</td><td>0.00</td><td>6.05</td></tr><tr><td>到居民点距离 Distance to settlements</td><td>0.82</td><td>0.19</td><td>18.90</td><td>1</td><td>0.00</td><td>2.27</td></tr><tr><td>坡度 Slope</td><td>-0.40</td><td>0.11</td><td>13.00</td><td>1</td><td>0.00</td><td>0.67</td></tr><tr><td>到道路距离 Distance to roads</td><td>0.39</td><td>0.13</td><td>9.34</td><td>1</td><td>0.00</td><td>1.48</td></tr><tr><td>常量Constant</td><td>12.63</td><td>1.66</td><td>58.19</td><td>1</td><td>0.00</td><td>304140.15</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(4)退化原始林",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在退化原始林的Logistic 回归模型中,第一阶段和第二阶段的HL 值分别为6.919 和3.089,对应 $P$ 值分别为0.36 和0.378,均大于0.05,模型拟合效果较好（表10）。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "社会经济因素对退化原始林变化的影响显著,且由第一至第二阶段重要性上升。其中,常住人口密度变化是两时段最重要的解释变量,回归系数分别为6.76和1.75,这说明退化原始林发生变化的概率随样区人口密度变化的增大而增大。样区人口密度在1994—2004 年间呈现出连续增加的态势,而在 2004—2014 年间因受工业化、城镇化的影响及非农务工高收入的诱惑,大量青壮年劳动力外出务工及部分居民就近迁移至乡(镇)乃至县城,致使常住人口密度急剧减少,常住人口密度的先增后减的变化趋势,传递到对退化原始林的干扰也是先增后减。与第一阶段(表10)相比,第二阶段(表10),有且仅有社会经济因素进入模型,表明社会经济因素对退化原始林的变化影响越发显著。除常住人口密度变化外,另一个解释变量为农民村纯收入的变化,样区各村民小组在2004—2014年间的人均纯收入均有不同幅度的增加,收入的增多不仅减轻对山场的依赖,且为使用替代能源提供可能,从而驱使对退化原始林扰动的减少,有助于其生态完整性的提高和恢复。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "空间距离因素对退化原始林的影响具有明显阶段性。第一阶段(表10),进入模型的空间距离因素有距水域和居民点的距离,是影响退化原始林变化的重要因素,回归系数分别为-2.07和-1.64,退化原始林的变化概率与距离呈负相关,距居民点和水域越近的退化原始林易受干扰而发生退化。然而,第二阶段(表10),空间距离因素却被排除在模型外,原因是距居民点和水域近的退化原始林已在第一阶段开发殆尽,距离越远的退化原始林因可达性低而不易被开发。所以,空间距离因素仅对第一阶段退化原始林的变化影响较大而对第二阶段的影响不显著。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c4cd759cb9bf9cc36878ee7b508cf7c678cb4de0fe61087ef422be3d31b47c5.jpg",
+        "table_caption": [
+            "表10样区退化原始林变化的驱动因素分析",
+            "Table1oThe analysis of driving factors of degraded primary forest evolution in the study site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>解释变量 Explanatory variables</td><td>回归系数</td><td>标准误差 S.E</td><td>wald 统计量 Wald x²</td><td>自由度 df</td><td>显著性水平 Sig.</td><td>发生比率 Exp(β)</td></tr><tr><td>1994—2004 年,HL=6.919,P=0.545</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>常住人口密度变化 Change of resident population density</td><td>6.76</td><td>1.27</td><td>28.26</td><td>1</td><td>0.00</td><td>862.44</td></tr><tr><td>到水域距离 Distance to waters</td><td>-2.07</td><td>0.42</td><td>24.32</td><td>1</td><td>0.00</td><td>0.13</td></tr><tr><td>到居民点距离 Distance to settlements</td><td>-1.64</td><td>0.34</td><td>22.72</td><td>1</td><td>0.00</td><td>0.19</td></tr><tr><td>常量Constant</td><td>-1.39</td><td>0.67</td><td>4.38</td><td>1</td><td>0.04</td><td>0.25</td></tr><tr><td>2004—2014 年,HL=3.089,P=0.378</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>常住人口密度变化 Change of resident population density</td><td>1.75</td><td>0.25</td><td>48.70</td><td>1</td><td>0.00</td><td>5.75</td></tr><tr><td>农民人均纯收入变化 Per capita net income change of farmers</td><td>1.23</td><td>0.23</td><td>28.65</td><td>1</td><td>0.00</td><td>3.42</td></tr><tr><td>常量Constant</td><td>16.34</td><td>3.16</td><td>26.76</td><td>1</td><td>0.00</td><td>12440000</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3结语 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1)样区森林景观一直占据20 年间景观基质的主导地位,为主导性基质景观,且退化原始林均占据3个截面年份的绝对优势位置。空间分布上,退化原始林主要集中分布在中东部低山、深丘区,次生林、退化林地和人工林呈镶嵌格局,分散于主要基质性景观中。分布形态上,退化原始林呈面状连片分布,人工林呈点状分布，次生林、退化林地呈带状分布。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（2)20 年间样区森林景观整体呈先减少后增加的“U”型格局,表现为1994—2004 年间的退化与 2004—2014 年间的恢复两个截然相反的过程。转换的空间格局上,森林景观格局的演化主要发生在森林景观与水田、旱地、居民点、道路等接壤区,最易受到人为活动的干扰,当然,这一区域的人为活动也常常受到区域内外经济发展环境的影响而展现为加重或减缓的态势。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3)1994—2004年间样区森林景观转换的主要类型体现为：退化原始林向次生林、退化林地和旱地的转换,次生林向退化林地和旱地的转换,退化林地向旱地转换。空间格局上,森林景观的这一转换主要发生在靠近居民点或已有旱地的林缘,且距居民点、道路或水域的距离越近转换的速度越快;2004—2014年间森林景观的演化趋势与1994—2004年间整体上呈反向趋势,空间格局上,这一阶段森林景观的恢复主要出现在1994一2004年间森林景观所发生退化的区域。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(4)20 年间样区森林景观在斑块水平上呈明显异质性分布,3个截面年份不同森林景观破碎化程度的总排序均为退化林地>人工林 $>$ 次生林>退化原始林,且退化原始林、次生林和退化林地的破碎度变化趋势相同,均为先增后减，说明它们受人为的干扰程度均是先增后减。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（5)20 年间样区森林景观在景观水平上的破碎度呈先增强后减弱趋势,且2014年的破碎化程度恢复至低于1994年的水平,进一步说明在退化后的森林景观恢复过程中,生态完整性的恢复速度远低于破碎度的恢复,要提高森林景观的生态完整性需要较长时间内减少对优质森林资源的干扰。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(6)社会经济因素对 20 年间样区森林景观变化的影响最突出,其中,最主要的影响因素是常住人口密度变化,其先增后减的变化使生态压力随之增减,进而导致森林景观的退化与恢复;其次是农民人均纯收入变化,特别是2004—2014年农民人均纯收入的增加,促进能源结构的转型,减少了对森林景观的依赖和干扰；空间距离对森林景观的影响具有稳定的持续作用,居民对森林景观的干扰多经由距离因素而实现；自然因素控制大的地貌格局,中短时期内对森林景观变化的影响不大,次生林和退化林地因处于适宜开发的边缘地带,受自然环境影响较大。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "样区的上述研究结果与同时期石柱县的西北部西沱镇的森林景观格局演化较为一致[10],这不仅仅说明本文结果的正确性,而且更重要的表明自20世纪90年代中期至今,我国的重点林区的森林景观都经历 2000年之前的开发与 2000 年之后的恢复过程,驱动这一过程动因也较为相似[31-33],即 2000 年林区居民生计来源单一，人均耕地面积较少,且生活对耕地的依赖又较强,如吃饭、能源等,这样,为改善或提高家庭福祉,提高农业收入,林区居民势必要向森林景观要耕地、要林产品(木材、薪柴、林下产品等),从而促使森林景观被开发为耕地,或向退化的方向演化(退化原始林 $$ 次生林 $$ 退化林地）。然而，2000年后伴随我国工业化、城镇化的快速发展,非农务工工资显著提升（特别是2003年后）,务农机会成本的提高,在比较优势的驱使下,林区居民必然会对其所拥有的土地资源和劳动力资源予以再配置或再优化,其结果出现大量青壮年劳动力从农村“析出”农村留守劳动力的老龄化严重、生计来源多样化且以非农为主、替代能源多样等,这不仅使得林区居民对山场森林景观的扰动程度降低,有助于生态恢复或生态完整性的提高,如部分退化林地恢复为次生林,部分次生林演化为退化原始林,而且又出现2000年前被开发出的耕地因外出后劳均耕地较多、耕作半径萎缩等而导致部分不能机械替代人力的陡坡耕地被搁荒,3—5a后自然演化为退化林地或次生林,且部分耕地被用作更为省工的人工林种植。加之,留守人员的减少、替代能源的出现等也大大降低林区居民生活用能对山场的索取，也有助于森林景观的恢复。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "但是,与一些大尺度的研究结果相比[34-35],本文自然因素的影响程度相对较低,而\"以农为本”的社会经济因素的重要性较为突出,这说明林区居民福祉及区域经济的发展水平是社区水平森林景观变化的关键影响因素,也只有从社区水平才能查明林区森林景观演化的机理,也才能制定出有助于林区森林景观恢复和经营的可持续方略。当然,本文在影响因素的选取上,限于数据的可获取性与可量化性(如政策、习俗等),仅选取了易于获得和量化上述因素,这也是本文作者未来进一步深入开展研究的努力之处。另外,尽管气象因子也是影响森林景观格局演变的主要因素[36-37],但因本文的研究尺度是社区水平而非区域尺度,气象因子的影响不会展现出显著的空间一致性,即在社区水平气象因子本身的均质性较强,因此,未将气象因子纳入影响因素分析中。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1］李晓娜，贺红士，吴志伟，梁宇.大兴安岭北部森林景观对气候变化的响应.应用生态学报，2012，23(12)：3227-3235.  \n[2」姜艳，尹光天，孙冰,李荣生，杨锦昌，邹文涛.我国森林景观生态研究进展.生态科学，2008,27(4)：283-288.  \n［3］白降丽，彭道黎，庾晓红，郑小贤.森林景观生态研究现状与展望.生态学杂志，2005，24（8)：943-947.  \n[4KnightCJlissflrtoacauaas，do,(2):117-125.  \n[5]EhanJL,FanWanolhJC,outhrthJ,WelchNAnintegratedGndmelingaacforseinghersietspsefforests of the southern Great Lakes region to a doubled $\\mathrm { C O } _ { 2 }$ climate.Forest Ecology and Management,2002，155(1）：237-255.  \n[6]HedR.ComparsoofFrescosystesiDevinatureResevefter5YarsofaturalSucessoDoenelUnivesity5.  \n[7]BirgispegerAhbergerriigsfapegudictiodapeEol（）：857-868.  \n[8]CstllEMD，Garca-MartinA，ladrenLALuisD.Evaluationofforestcoverchangeusingremotesensingtchqusadladscapemetrics in Moncayo Natural Park（Spain）.Applied Geography，2015,62：247-255.  \n[9］高小莉，赵鹏祥，郝红科，杨延征.基于LANDIS-II的陕西黄龙山森林景观演变动态模拟.生态学报，2015,35（2）：254-262.  \n[10] 邵景安，郭跃，陈勇，谢德体.近20年三峡库区(重庆段)森林景观退化特征.西南大学学报：自然科学版，2014，36(11)：1-11.  \n[11］孙才志，闫晓露.基于GIS-Logistic耦合模型的下辽河平原景观格局变化驱动机制分析.生态学报，2014，34(24）：7280-7292.  \n[12］张志伟.基于3S 技术的香格里拉森林景观空间格局动态模拟[D].昆明：西南林业大学，2013.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[13］叶伟，吴荣良，赖日文，谢雪莉，汪琴，陈思雨.基于3S技术的森林城市景观结构分析.中南林业科技大学学报,2015，35（1)：56-61.  \n［14］郭晋平，张芸香.中国森林景观生态研究的进展与展望.世界林业研究，2003，16(5）：46-49.  \n[15］肖强，肖洋，欧阳志云，徐卫华，向轼，李勇志.重庆市森林生态系统服务功能价值评估.生态学报，2014，34(1)：216-223.  \n[16］苏雷，朱京海，任韶红，傅立群.景观格局变化驱动力分析的研究方法综述.资源环境与发展,2013，（1)：26-29.  \n[17］董灵波，刘兆刚，张博，袁野，孙云霞.基于RipleyL和O-ring函数的森林景观空间分布格局及其关联性.应用生态学报，2014，25(12): 3429-3436.  \n[18］邵景安，李阳兵.西南岩溶山地乡村景观格局与石漠化调控展望.地理科学进展，2008，27(1)：25-31.  \n[19] 张晓红，黄清麟.森林景观恢复研究.北京：中国林业出版社，2011：57-75.  \n[20] 国际热带木材组织(ITTO).ITTO热带退化与次生森林恢复、经营和重建指南.黄清麟，张晓红，译.北京：中国林业出版社，2008：5-17.  \n[21］刘颂，李倩，郭菲菲.景观格局定量分析方法及其应用进展.东北农业大学学报，2009,40(12)：114-119.  \n[22］阳文锐，北京城市景观格局时空变化及驱动力.生态学报，2015，35（13）：4357-5366.  \n[23］何鹏，张会儒．常用景观指数的因子分析和筛选方法研究.林业科学研究，2009，22（4）：470-574.  \n[24］许传青，徐小虎，于晓军，乔元华，曾衍钧.心瓣膜置换术远期死亡因素的Logistic回归模型与分析.北京生物医学工程，2005，24（1)：13-16,50-50.  \n[25］黄豪，马斐，马玉华.Logistic 曲线模型在区域经济长期预测中的应用.武汉理工大学学报：信息与管理工程版，2011,33（1）：94-97.  \n[26］谢花林，李波.基于logistic 回归模型的农牧交错区土地利用变化驱动力分析——以内蒙古翁牛特旗为例.地理研究，2008，27（2)：294-304.  \n[27］李洪，宫兆宁，赵文吉，宫辉力.基于Logistic 回归模型的北京市水库湿地演变驱动力分析.地理学报，2012,67(3)：357-367.  \n[28］张景华，封志明，姜鲁光，杨艳昭，刘晓娜.道路干扰对澜沧江流域景观格局的影响．自然资源学报，2013，28(6)：969-980.  \n29]SluitergSalpsielotdeadasioo559-576.  \n[30]Mileno，VasilevV，VassleaA，adovR,SamoungiV，DimirovZ，ViceNMonioingofteiskoffamlandabadontsnficienttooltoessviotaldsciooicipctofoolueIteatioalJalofpldtObservation and Geoinformation，2014，32(32）：218-227.  \n[31]WangL，YoungSS,WangW,enGP,XiaoW,LongYC,LiJS,ZuJG.CoservatonproritiesofforestcosystemswithevauatiosofconectivityandfuturethreatsimplicationsintheEastern HimalayaofChina.Biological Conservation，2O16,195(216)：18-135.  \n[32]FanQD,ingSY.LandscapepatechangesatountysaleacasestudyiFengqu,HnanProvic,Chinafrom9tCate,2016,137:152-160.  \n[33]ZhangY,WangTW,CaiCF,LiCG,LiuYJ，BaoYZ,GuanWH.LandscapepatemandtransionundernaturalandanthopogenicdisturbanceinnrdgioofortesteinaInteaioalJoualofldEarthbseiodofoatio6,4（）：1.  \n[34]QinYW,XiaoXM,DongJW,ZhangGL,ShimadaM,LiuJY,LiCG,KouWL,MooreIIB.ForestcovermapsofChinainfrommutipleappoasddataocs,dsat,,R,dSoualofotogaetrndotesing109: 1-16.  \n[35]D'Aatolaieaatioseiierauredtueresearch needs.Ecological Economics，2016，121：75-84.  \n[36]AvonCergsupoJasapectsoantsifrstsagaleoteteeilocalplantesposeLdscadUPlanning,2015，144:65-73.  \n[37]FagL,aQdeaiepaadeand fire severityin a Chinese boreal forest landscape.Forest Ecology and Management，2Ol5,356：2-12.",
+        "page_idx": 16
+    }
+]

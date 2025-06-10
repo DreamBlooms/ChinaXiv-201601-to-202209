@@ -1,0 +1,199 @@
+# DOI:10.5846/stxb201707251333
+
+黄雅丽,田琪,秦光华,安然,马风云,敬如岩,陈博杰.黄河三角洲刺槐白蜡混交对土壤细菌群落结构及多样性的影响.生态学报,2018,38（11)： 3859-3867.   
+HuangYL,iG,Fngofedobcdiuse bacterial structure and diversity in the Yelow River Delta.Acta Ecologica Sinica,2O18,38(11):3859-3867.
+
+# 黄河三角洲刺槐白蜡混交对土壤细菌群落结构及多样性的影响 C
+
+黄雅丽¹，田琪¹，秦光华²，安然¹，马风云1\*，敬如岩}，陈博杰1
+
+1山东农业大学林学院，山东农业大学生态与环境实验室，泰安271018  
+2山东省林业科学研究院，济南250014
+
+摘要：为探讨黄河三角洲刺槐白蜡混交对土壤细菌群落结构及多样性的影响,通过高通量测序技术分析比较了刺槐白蜡混交林及刺槐纯林、白蜡纯林土壤细菌群落结构及多样性。结果表明： $\textcircled{1}$ 混交林与两种纯林土壤细菌群落共36门。酸杆菌门、变形菌门、放线菌门（相对丰度大于 $1 0 \%$ )为刺槐白蜡混交林与两种纯林土壤中共有的优势菌群;硝化螺旋菌门为刺槐纯林土壤中的优势菌群。不同人工林土壤中各门细菌相对丰度差异显著。 $\textcircled{2}$ 混交改变了土壤细菌群落结构,提高了细菌多样性。刺槐白蜡混交林土壤细菌物种数、Chaol指数、Shannon 指数分别为1934.5、2629.1、9.1,显著高于两种纯林。 $\textcircled{3}$ 相关性分析表明,土壤含水量与放线菌门细菌呈显著正相关; $\mathrm { \ p H }$ 与芽单胞菌门细菌呈极显著正相关,与酸杆菌门细菌呈显著负相关。细菌多样性与土壤含水量呈显著正相关,与速效钾、有机质含量呈显著负相关。研究表明,刺槐白蜡混交林土壤细菌群落结构与两种纯林之间有一定差异,多样性差异显著,刺槐白蜡混交改变细菌群落结构,提高细菌多样性。
+
+关键词：高通量测序;黄河三角洲;混交林;土壤细菌;结构;多样性
+
+# Effects of a mixed plantation of Robinia pseudoacacia and Fraxinus velutina on soil bacterial structure and diversity in the Yellow River Delta
+
+HUANG Yali' ,TIAN $\mathrm { Q i } ^ { 1 }$ ,QIN Guanghua²,AN Ran1,MA Fengyun1\*,JING Ruyan',CHEN Bojie' 1ForestryColofdUotolUit 2 Shangdong Academy of Forestry,Ji'nan 250014,China
+
+Abstract:Inorder to investigate the effectsofa mixed plantation of Robinia pseudoacaciaandFraxinus velutina on soil bacterial structureanddiversityintheYellow River Delta,thesoilbacterialcommunitystructureanddiversityinpureand mixed plantations of Robinia pseudoacacia and Fraxinusvelutina were analyzed using high-throughput sequencing technology.Theresultsshowedthe following:there were 36phylaofbacterialcommunities inpure and mixed plantationsof R. pseudoacacidandF.velutina.Acidobacteria，Proteobacteria，andActinobacteria werethedominantbacterialtaxaforthe two pure forests and the mixed forest，each with a relative abundance of more than $10 \%$ ，and Nitrospirae was the dominant bacterial taxon for R. pseudoacacia.The relative abundance of bacteria in the mixed plantation of $R$ ：pseudoacacia and $F$ ： velutinawere significantlydiferent from those inthepureplantations.Amongthese threeplantation types，observed species （1934.5），Chao1index（2629.1），and Shannon index（9.1）were highestin the mixed forests.There wasasignificant positive correlations $( 0 . 9 9 5 ^ { \ast }$ ）between soil water content and the quantity of Actinobacteria. Soil $\mathrm { \ p H }$ had a very significant positive correlation $( 0 . 9 9 9 ^ { \ast \ast } ~ ,$ ）with the quantity of Gemmatimonadetes，and a very significant negative correlation（-0. 909）with thequantityof Acidobacteria.Soilbacterial diversityshowedaverysignificantpositivecorrelation withsoil water content,andavery significant negativecorrelation withsoil available K.Theresultsshowed diferences in structureand diversity of the soil bacterial community between the pure and mixed stands of $R$ .pseudoacacia and $F$ .velutina.Having changed the structure of bacterial community and increased bacterial diversity，the mixed plantation of $R$ .pseudoacacia and $F$ .velutina had differences in structure and diversity of the soil bacterial community from the two pure forests.
+
+Key Words: Iumina MiSeq；Yelow River Delta；mixed forest；soil bacterial；community structure；bacterial diversity
+
+土壤微生物是维护森林生态系统的重要组成部分[1],是土壤中物质转化、养分循环过程的重要参与者与推动者,在形成土壤结构、降解土壤有害物质、提高植物养分等方面发挥着重要作用[2]。细菌是土壤微生物中种类最丰富、分布最广泛的类群,在促进土壤有机残体的分解及土壤潜在养分的转化,提高土壤肥力等方面扮演着重要角色[3-4]。土壤细菌群落多样性是反映土壤质量的一项重要指标[5-6]。因此,在森林生态系统中,通过对土壤中细菌群落结构及多样性进行研究,有利于探讨土壤、植物和细菌三者之间的相互关系[7]。
+
+传统的研究土壤细菌群落结构及多样性的方法有稀释平板法、Biolog微平板法。这些技术操作步骤繁杂、实验耗费时间长、成本高、实验检测性低,不能很好的了解细菌群落结构及多样性特点。高通量测序技术又称新一代测序技术,该测序技术相对于传统的测序技术而言,具有极大的优势,主要具有测序通量高、实验过程简化、速度快、准确率高等特点,实验结果更能全面的反应环境中细菌群落结构[8-10]。近年来,随着高通量测序技术的不断发展,人们对土壤中微生物区系的研究日渐深入[],这对进一步分析且高效、全面的认识土壤微生物提供了可能。
+
+黄河三角洲地区生态系统类型独特,属于典型的盐碱化地区,生态环境脆弱,严重制约着当地经济的发展。为改善当地生态环境,促进经济发展,黄河三角洲地区20 世纪八十年代开始营建大面积的人工林[12]。该区人工林营建多选择具有耐盐性的树种,如刺槐（Robinia pseudoacacia）、白蜡（Fraxinus velutina）、榆树（Ulmus pumila）、臭椿(Ailanthus altissima)等。近年来学者对该地区人工林的碳储量、生态效应、造林技术与经营管理模式等进行了大量研究。但对人工林土壤微生物群落研究的内容仍然较少。本研究通过应用Illmina Hiseq 高通量测序技术对黄河三角洲刺槐纯林、白蜡纯林与刺槐白蜡混交林的土壤微生物群落结构与多样性等方面进行研究,对比分析刺槐白蜡混交对人工林土壤细菌群落的影响,以期为黄河三角洲人工林的栽培管理及地力维护提供参考。
+
+# 1材料与方法
+
+1.1 研究区域与样地概况
+
+研究地点位于山东省东营市河口区 $( 1 1 8 ^ { \circ } 5 3 ^ { \prime } 2 7 ^ { \prime \prime } - 1 1 8 ^ { \circ } 5 5 ^ { \prime } 4 1 ^ { \prime \prime } \mathrm { E } , 3 7 ^ { \circ } 5 9 ^ { \prime } 1 4 ^ { \prime \prime } - 3 7 ^ { \circ } 8 8 ^ { \prime } 2 3 ^ { \prime \prime } \mathrm { N } )$ 。东、北两侧临渤海，属暖温带半湿润季风气候，年均气温 $1 2 . 9 4 ^ { \circ } \mathrm { C }$ ,全年最热月7月，月均气温 $2 9 . 2 \%$ ,最冷月1月，月均气温$4 . 4 9 \mathrm { C }$ 。年均无霜期为234d,冻土期为 $4 4 { \mathrm { ~ d ~ } }$ 。全年降水分布不均,夏季降水占全年降水量的 $6 9 . 2 5 \%$ ,冬季仅占全年的 $2 . 4 6 \%$ ,年均降水量为 $6 9 0 . 6 ~ \mathrm { m m }$ 。年均日照时间约为 $2 7 2 8 . 5 \mathrm { ~ h ~ }$ ,年相对湿度平均为 $6 5 \%$ 。土壤类型主要为滨海盐土类、潮土类等[13],以 $\mathrm { { N a C l } }$ 为主，土壤表层盐分含量为 $0 . 4 \% - 3 . 0 \%$ ,土壤质地粘重,表现耕层板结,透气性差,肥力低。该区主要造林树种有刺槐、白蜡、杨树（Populs）、榆树、臭椿、国槐（Sophora japonica）等。树下植被为狗牙根（Cynodon dactylon）、飞蓬（Erigeron acer）、藜（Chenopodiumalbum）、牵牛（Pharbitisnil)等。
+
+本文人工林研究选取黄河三角洲刺槐纯林、白蜡纯林与刺槐白蜡混交林3种人工林林型样地,其基本情况见表1。
+
+# 1.2样品采集与处理
+
+# 1.2.1 取样方法
+
+试验始于2016年11月，分别设置面积为 $2 0 ~ \mathrm { m } { \times } 2 0 ~ \mathrm { m }$ 标准样地各3块。取样时在每个标准样地内呈梅花形分布设5个取样点。去除表面杂草和浮土,挖取5— $2 0 \ \mathrm { c m }$ 土层中的土壤,去除可见根后作为试验土样[14],同一样地土样充分混合。实验共取回土样9份,将每个标准地土样分为两部分，一部分土样过 $0 . 2 0 ~ \mathrm { m m }$ 筛,用于测定土壤理化性质；一部分装入已消毒的密封塑料袋中,液氮保存待测。 Y
+
+表1林木生长状况  
+Table1 Growth status of the trees   
+
+<html><body><table><tr><td>树种</td><td>林龄 Tree age /a</td><td>株行距 Planting spacing/m</td><td>胸径 DBH/cm</td><td>树高 Tree height /m</td></tr><tr><td>Tree species 刺槐 Robinia pseudoacacia platation</td><td>31</td><td>3x3</td><td>12.36 ± 0.53</td><td>9.22 ± 0.68</td></tr><tr><td>白蜡Fraxinus velutina platations</td><td>31</td><td>3x3</td><td>20.83 ± 0.52</td><td>14.13 ± 0.63</td></tr><tr><td>混交林中刺槐</td><td></td><td></td><td></td><td>11.79 ± 0.59 S</td></tr><tr><td>Robinia pseudoacacia in mixed forest</td><td>31</td><td>3x3</td><td>14.98 ± 0.44</td><td></td></tr><tr><td>混交林中白蜡 Fraxinus velutina platations in mixed forest</td><td>31</td><td>3x3</td><td>22.51 ± 0.35 D</td><td>14.63 ± 0.49</td></tr></table></body></html>
+
+# 1.2.2土壤理化性质测定
+
+土壤理化性质测定采用常规方法：土壤含水量采用环刀法;土壤pH采用电位法（水土比为1:2.5）；土壤电导率采用电导法(水土比为1:5）；有机质(organic matter，SOM)测定采用重铬酸钾氧化-外加热法;速效氮（available nitrogen，AN)测定采用碱解扩散法;速效磷（available phosphorus，AP）测定采用浸提钼锑抗比色法;速效钾(available K，AK)测定采用火焰光度法[12]。
+
+# 1.2.3 土壤微生物DNA提取、测序
+
+土壤样本基因组DNA应用CTAB 方法[15]提取,采用紫外分光光度计检测 DNA 的纯度和浓度,琼脂糖凝胶检测 DNA 样品的完整性,取适量的样品于离心管中,使用双蒸水( $\mathrm { d d H } _ { 2 } \mathrm { O }$ )稀释样品至 $1 ~ \mathrm { n g / \mu L }$ ;之后PCR扩增采用16SV4区引物 515F-806R;等浓度 PCR产物混样,用 $2 \%$ 的琼脂糖凝胶电泳检测,使用ThermoScientific 公司的GeneJET胶回收试剂盒回收产物对纯化产物进行回收。使用 New England Biolabs 公司的NEB Next?UltraTM DNA Library Prep Kit for Illumina 建库试剂盒进行文库的构建,之后经过Qubit 定量和文库检测,合格后,使用MiSeq进行上机测序。
+
+# 1.2.4数据结构处理与分析
+
+首先根据 Barcode 序列将 Illumina MiSeq/HiSeq 测序得到的下机数据(Raw Data)拆分为不同样品数据,截去 Barcode序列和PCR扩增引物序列;使用FLASH将拆分的数据对每个样品的reads 进行拼接,得到的拼接序列为原始 Tags数据(Raw Tags）,经更严格的过滤处理,得到高质量的 Tags 数据（Clean Tags）。Raw Tags 从连续低质量值（默认质量阈值为 $\leqslant 3$ )碱基数达到设定长度（默认长度值为3)的第一个低质量碱基位点截断;Tags 经过截取后得到的Tags 数据集,进一步过滤掉其中连续高质量碱基长度小于Tags 长度 $7 5 \%$ 的Tags;经过以上处理后得到的 Tags序列与数据库(Gold database)进行比对[16],检测嵌合体序列,并最终去除其中的嵌合体序列,得到最终的有效数据（Effective Tags）。
+
+# 1.2.5物种注释与丰度计算
+
+用Uparse 软件根据序列相似性进行聚类对所有样品的全部 Effective Tags 序列进行聚类,选择 $9 7 \%$ 作为相似性阀值将序列聚类成为 OTUs,得到操作分类单（operationaltaxonomic unit，OTU）。Uparse 构建OTUs 时选取代表性序列（依据其算法原则,筛选的是OTUs中出现频数最高的序列),将代表性序列集合用 RDPClassifier与GrenGene数据库进行物种注释分析,并结合物种组成信息结果,得到每个物种在该样品中的丰度[17]。
+
+# 1.2.6 多样性计算
+
+选取相似度在 $9 7 \%$ 条件下的OTU生成预期的稀释曲线,并应用软件QIIME(Version1.7.0)计算样品的多
+
+样性指标,包括物种数、Chaol指数、Shannon 指数、Simpson 指数。应用 SPSS 22.0软件采用单因素方差分析（ANOVA）[18]得到各处理间数据相关性及细菌丰度差异,Duncan 法检测差异显著性,显著差异水平 $P { < } 0 . 0 5$ ，极显著差异水平 $P { < } 0 . 0 1$ 。
+
+# 2结果与分析
+
+# 2.1 测序数据分析
+
+通过高通量测序，刺槐纯林、白蜡纯林、刺槐白蜡混交林3个样品原始序列条数分别为31281、23281、54813，过滤掉低质量的序列后，有效序列分别为30964、23146、53607。将这些序列在 $9 7 \%$ 相似度聚类为用于物种分类的OTU，通过随机抽样的方法，以抽到的序列数与它们所代表的OTU数目构建稀释性曲线。从图1可知，OTU数均随序列的增加而增大，不同林分之间表现为刺槐白蜡混交林 $>$ 刺槐纯林 $>$ 白蜡纯林,且差异显著。随OTU数的增大，3种林分细菌稀释曲线均基本趋于平缓,但仍未达到饱和，说明测序数据量渐进合理，更多的测序数据对发现新的OTU贡献率较小。
+
+# 2.2 细菌多样性分析
+
+分析表2得知，刺槐白蜡混交林土壤中细菌物种
+
+![](images/07d07f0a5d96d22dc935c1a568f730fce31237048ddde1f558581a2c7ea064c5.jpg)  
+图1细菌稀释曲线分析  
+Fig.1Rarefaction curve analysis of OTUs
+
+CH：刺槐纯林,Robinia pseudoacacia platation；BL：白蜡纯林, Fraxinus velutina platations;FBC:刺槐白蜡混交林,Mixed forest of Robinia and Fraxinus
+
+数、Chaol指数、Shannon 指数分别为1934.5、2629.1、9.1,显著高于刺槐纯林、白蜡纯林土壤,刺槐纯林土壤细菌多样性指数分别为混交林的 $9 1 . 4 8 \%$ ） $9 6 . 8 6 \% 9 5 . 8 4 \%$ ;白蜡纯林土壤细菌多样性指数分别为混交林的$8 1 . 2 3 \% , 6 8 . 6 2 \% , 9 1 . 4 6 \%$ ;混交林土壤细菌各多样性指数与刺槐纯林、白蜡纯林间均达显著差异水平( $P >$ 0.05）。
+
+表2各样地细菌群落的多样性分析  
+Table 2/Diversity index of bacterial community for different sample plots   
+
+<html><body><table><tr><td rowspan="2">指数 Index</td><td rowspan="2"></td><td colspan="3">树种 Tree species</td></tr><tr><td>CH</td><td>BL</td><td>FBC</td></tr><tr><td>物种数 Observed species</td><td rowspan="2"></td><td>1769.66±31.1 b</td><td>1571.38±11.5 c</td><td>1934.49±14.2 a</td></tr><tr><td>Chaol 指数 Chaol index</td><td>2546.61±36.98 b</td><td>1804.20±61.83 c</td><td>2629.10±24.43 a</td></tr><tr><td>Shanno 指数 Shannon index</td><td colspan="2">8.75±0.14 b</td><td>8.35±0.08 c</td><td>9.13±0.03 a</td></tr></table></body></html>
+
+CH:刺槐纯林,Robiniapseudocaciaplatation;BL;白纯林,FraxinuselutinaplatationsFBC槐白混林,MixedforestofRobniandraxinus;不同小写字母表示处理间差异显著( $\scriptstyle P < 0 . 0 5$ ）
+
+# 2.3土壤细菌群落相对丰度分析
+
+（从门水平上看,如图2所示,在刺槐白蜡混交林与两种纯林土壤中共检测 36门细菌,其中刺槐白蜡混交林、刺槐纯林、白蜡纯林土壤分别检测出 29、25、26门。酸杆菌门（Acidobacteria）、变形菌门（Proteobacteria）、放线菌门（Actinobacteria）、硝化螺旋菌门（Nitrospirae）、绿弯菌门（Chloroflexi）、浮霉菌门（Planctomycetes）、芽单胞菌门（Gemmatimonadetes）、疣微菌门（Verucomicrobia)8门细菌在刺槐白蜡混交林与两种纯林土壤中相对丰度均超过 $1 \%$ ,为主要细菌群落。其中，白蜡纯林、刺槐白蜡混交林土壤优势菌群（群落丰度 $5 1 0 \%$ 为优势菌群)分别为酸杆菌门、变形菌门、放线菌门,刺槐纯林土壤优势菌群有酸杆菌门、变形菌门、放线菌门、硝化螺旋菌门4门菌群。酸杆菌门细菌在刺槐白蜡混交林土壤中相对丰度为 $2 8 . 7 2 \%$ ,显著高于刺槐纯林土壤中相对丰度,但显著低于白蜡纯林土壤中相对丰度。变形菌门细菌在刺槐白蜡混交林土壤中相对丰度为$2 4 . 4 0 \%$ ,显著高于白蜡纯林土壤中相对丰度,但显著低于刺槐纯林土壤中相对丰度。放线菌门细菌在混交林土壤中相对丰度显著高于两个纯林。硝化螺旋菌门仅在刺槐纯林中为优势群落,相对丰度达 $1 1 . 8 5 \%$ ，在刺槐白蜡混交林与白蜡纯林土壤中相对丰度分别仅为 $4 . 7 6 \% . 8 . 6 8 \%$ 。绿弯菌门、浮霉菌门、芽单胞菌门、疣微菌门4门主要细菌在刺槐白蜡混交林及两种纯林土壤中相对丰度介于 $1 . 2 0 \%$ 一 $\cdot 7 . 7 7 \%$ ,差异显著( $_ { p > 0 . 0 5 ) }$ 。另外，刺槐白蜡混交林土壤中含有1门独特的细菌WPS-2。
+
+![](images/c59461886443d810c0f659c6938f97dec6d4bd1cea4d02ca68aac7b9163ce683.jpg)  
+图2门水平土壤细菌群落结构  
+Fig.2Soil bacterial community at the phylum levels
+
+Acidobacteria酸门roteobctera形门,tobacter门,irospirae化螺旋,loroflei绿门lae： 浮霉菌门,Gemmatioaetes单门eucomicrobia:acterodetes杆，atiodetes,Cyactera 细菌门,Crenarct古门ryaceot古菌门,cutes厚壁b绿菌门,lusiicob踪菌门ces维 杆菌门,Fusobacteria梭杆菌门,Caldithrix蓝藻门,enericutes柔膜菌门,（WS3,T7,WY,RC1,B19,Themi,109,G,, WS2,OD1,TM6,PAUC34F,NC10,WPS-2):未 定 菌,Others:其他
+
+# 2.4土壤理化性质
+
+表3中看出,刺槐白蜡混交林土壤含水量最高,刺槐纯林、白蜡纯林土壤含水量分别为混交林土壤的 $7 6 . 1 \%$ $6 8 . 1 \%$ ;电导率以刺槐白蜡混交林土壤最低,与刺槐纯林、白蜡纯林土壤差异显著,两纯林土壤之间差 异不显著。混交林与两种纯林土壤 $\mathrm { \ p H }$ 之间无显著差异且均呈碱性状态。刺槐白蜡混交林土壤有效磷含量 为 $\mathrm { 2 . 7 ~ m g / k g }$ ,显著高于白蜡纯林土壤,但显著低于刺槐纯林土壤。混交林土壤速效钾含量为 $2 0 8 ~ \mathrm { m g / k g }$ ,显著 低于白蜡纯林土壤,与刺槐纯林土壤差异不显著。碱解氮含量以刺槐白蜡混交林土壤最低，为 $3 7 . 1 ~ \mathrm { m g / k g }$ ，与 刺槐纯林、白蜡纯林土壤差异显著( $P { < } 0 . 0 5 \mathrm { ) }$ )。刺槐白蜡混交林土壤有机质含量仍最低,为 $3 3 . 6 ~ \mathrm { g / k g }$ ,显著低 于两种纯林土壤,刺槐纯林、白蜡纯林土壤有机质含量分别为混交林土壤的1.01倍和1.1倍。
+
+# 2.5细菌群落与土壤理化性质关系
+
+# 2.5.1细菌群落结构与土壤理化性质相关性
+
+分析表4得知,土壤pH值与变形菌门、硝化螺旋菌门、绿弯菌门、浮霉菌门、芽单胞菌门、疣微菌门6种主要细菌丰度相关关系显著，其中与芽单胞菌门呈极显著正相关;有效磷与酸杆菌门、浮霉菌门2种主要细菌丰度呈显著负相关;与变形菌门、硝化螺旋菌门、芽单胞菌门3种主要细菌丰度呈显著正相关。速效钾与酸杆菌门呈显著正相关。另外放线菌门与土壤含水量、电导率、碱解氮、相关关系显著,而与电导率呈极显著负相关。 ？，
+
+Table 3Physical and chemical properties of the soils under different forests   
+
+<html><body><table><tr><td>林分 Forest</td><td>含水量 content/%</td><td>C电导city /(μS/cm)</td><td>pH</td><td>A有bP /（mg/kg)</td><td>Avale K /（mg/kg)</td><td>Avaie rgcmater /（mg/kg) /（g/kg)</td></tr><tr><td>CH</td><td>7.10±0.39 b</td><td>128.7±3.0 a</td><td>8.79±0.14 a</td><td>3.46±0.03 a</td><td>227.6±20.0 b</td><td>45.1±0.46 a 34.08±0.77 b</td></tr><tr><td>BL</td><td>6.35±0.12 c</td><td>132.3±9.9 a</td><td>8.01±0.19 a</td><td>1.37±0.02 c</td><td>321.3±8.49 a</td><td>44.1±0.69 a 36.92±1.26 a</td></tr><tr><td>FBC</td><td>9.33±0.12 a</td><td>106.1±5.0 b</td><td>8.48±0.24 a</td><td>2.68±0.05 b</td><td>208.3±11.8 b</td><td>37.1±0.92 b 33.60±0.13 c</td></tr></table></body></html>
+
+表4主要细菌群落与土壤理化性质相关关系 $\scriptstyle ( n = 9 )$   
+Table 4Correlation analysis among physico-chemistry characteristics and bacteria on phylum ( ${ \bf \Pi } _ { n } = 9 { \bf \Pi } _ { \cdot }$   
+
+<html><body><table><tr><td>细菌 Bacteria</td><td>含水量 Moisture content/%</td><td>电导率 Conductivity (μS/cm)</td><td>pH</td><td>有效磷 AP/ (mg/kg)</td><td>速效钾 AK/ (mg/kg)</td><td>碱解氮 AN/ （mg/kg)</td><td>有机质 Organic matter/ （g/kg)</td></tr><tr><td>酸杆菌门 Acidobacteria</td><td>-0.590</td><td>0.524</td><td>-0.909</td><td>-0.987 *</td><td>0.955 *</td><td>0.268</td><td>0.963</td></tr><tr><td>变形菌门Proteobacteria</td><td>0.373</td><td>-0.299</td><td>0.983 *</td><td>0.996 *</td><td>-0.854</td><td>-0.023</td><td>-0.868</td></tr><tr><td>放线菌门 Actinobacteria</td><td>0.995 *</td><td>-0.999 **</td><td>0.096</td><td>0.360</td><td>-0.736</td><td>-0.968 *</td><td>-0.716</td></tr><tr><td>硝化螺旋菌门 Nitrospirae</td><td>0.302</td><td>-0.225</td><td>0.994 *</td><td>0.986 *</td><td>-0.811</td><td>0.053</td><td>-0.828</td></tr><tr><td>绿弯菌门Chloroflexi</td><td>-0.077</td><td>-0.002</td><td>-0.992 *</td><td>-0.923</td><td>0.658</td><td>-0.278</td><td>0.679</td></tr><tr><td>浮霉菌门Planctomycetes</td><td>-0.372</td><td>0.297</td><td>-0.984 *</td><td>-0.996 *</td><td>0.853</td><td>0.022</td><td>0.867</td></tr><tr><td>芽单胞菌门 Gemmatimonadetes</td><td>0.201</td><td>-0.123</td><td>0.999 **</td><td>0.964 *</td><td>-0.747</td><td>0.156</td><td>-0.765</td></tr><tr><td>疣微菌门 Verrucomicrobia</td><td>-0.057</td><td>-0.022</td><td>-0.990 *</td><td>-0.915</td><td>0.645</td><td>-0.297</td><td>0.664</td></tr></table></body></html>
+
+\*与 $* *$ 分别表示达到5%和 $1 \%$ 的显著水平
+
+# 2.5.2 细菌多样性与土壤理化性质相关性
+
+土壤细菌多样性与土壤理化性质相关性分析可以看出（表5）,各多样性指数与含水量、 $\mathrm { \ p H }$ 值、有效磷呈正相关,与电导率、速效钾、碱解氮和有机质均呈负相关;其中,Shannon 指数与土壤含水量呈现显著正相关关系,相关系数为0.957;Chao1指数与速效钾、有机质含量呈现显著负相关关系,相关系数分别为-0.997、-0.999。17
+
+表3不同林分土壤理化性质  
+表5细菌多样性与土壤理化性质相关性分析( $n = 9$ ）  
+Table 5Correlation analysis among physical-chemistry characteristics and bacteria diversity(   
+
+<html><body><table><tr><td></td><td></td><td></td><td>pH</td><td>有</td><td></td><td>Biey(r</td><td></td></tr><tr><td>物种数</td><td>0.945</td><td>-0.917</td><td>0.508</td><td>0.721</td><td>-0.953</td><td>-0.770</td><td>-0.944</td></tr><tr><td>Observed species Chao 指数 Chaol index</td><td>0.747</td><td>-0.703</td><td>0.791</td><td>0.926</td><td>-0.997 *</td><td>-0.479</td><td>-0.999 *</td></tr><tr><td>Shannon 指数 Shannon's index</td><td>0.957 *</td><td>-0.930</td><td>0.477</td><td>0.696</td><td>-0.942</td><td>-0.792</td><td>-0.931</td></tr></table></body></html>
+
+$\ast$ 表示达到 $5 \%$ 显著水平
+
+# 3讨论
+
+# 3.1树种混交对土壤细菌群落的影响
+
+很多实践和研究都表明人工营造的纯林在生物多样性、稳定性和生态功能等方面和混交林相比较都有很大的差异,所以目前人工林栽培提倡营造混交林。混交林和纯林相比较,本质上改变了植被类型。有研究表明植被类型能影响土壤中细菌群落结构及多样性[19]。本试验对林分5— $2 0 \mathrm { c m }$ 土层土壤细菌检测显示黄河三角洲刺槐白蜡混交林土壤优势菌群与纯林间存在差异,变形菌门、放线菌门、酸杆菌门细菌相对丰度超过$1 0 \%$ ,是3 种林分共有的优势菌群,硝化螺旋菌门为刺槐纯林的优势菌群。另外,混交林土壤中各门细菌相对丰度与两种纯林间也存在显著差异。邹莉[20]等报道的落叶松、樟子松纯林及混交林土壤微生物的群落分布特征有一定差异。王卫霞[21]等的研究表明不同人工林间土壤微生物结构均有明显区别。这与本研究中发现不同树种植被类型(混交林与纯林间)对土壤细菌结构有显著影响的结果一致。造成混交林与纯林土壤细菌群落结构不同的原因可能是混交林与纯林间树种和配置方式不同，引起林内凋落物成分、分解程度及土壤改良程度不同,同时其根系代谢及凋落物分解影响土壤细菌生长条件,如土壤pH、含水量、电导率、有效磷等[22-23]土壤理化性质不同,导致土壤的细菌所处的环境及获取的营养物质不同,土壤中适宜生长的细菌群落也就不同。另外，Emile Benizri等[24]通过研究发现：微生物功能多样性与林内物种多样性存在显著相关关系,且生物多样性在改善土壤环境及促进林分生态系统更加稳定发挥重要作用[25]。试验中林分混交丰富了土壤细菌群落,可能是其林下丰富的植被类型及植被不同生长习性导致的。因此,刺槐白蜡混交林与白蜡纯林、刺槐纯林间树种组成不同,土壤细菌群落不同。树种混交不仅从宏观上改变了植被类型及林内植被群落，也从微观上改变了土壤的微生物群落,这也可能是混交林较纯林稳定的微观原因之一。
+
+本研究主要涉及了刺槐白蜡混交林及刺槐和白蜡纯林对 $5 { \mathrm { - } } 2 0 ~ \mathrm { c m }$ 浅层土壤细菌群落影响,这一层次土壤细菌群落不仅受到该层林木根系的影响,也受到林分形成的小气候环境、林下草本植被及凋落物的影响,是林分综合环境影响的体现。本试验没有涉及到更深层次混交林根系对土壤细菌群落的影响,要全面反映混交林对土壤细菌群落的影响,还需要进一步深人研究混交林根系分布的不同层次对土壤细菌群落的影响。
+
+# 3.2细菌群落与土壤理化性质
+
+土壤细菌对土壤环境的变化敏感性较高,在不同的土壤环境下土壤养分的含量会直接影响土壤细菌群落[26],其中土壤酸碱程度对土壤细菌群落的影响最为显著[27]。许多研究表明在酸性土壤中,芽单胞菌门生长不良,如在徐飞[28]等对三江平原土壤细菌的研究中（土壤 $\mathrm { \ p H }$ 为5.4—5.8,呈酸性)芽单胞菌门相对丰度小于 $1 \%$ 。秦红灵[29]等对红壤坡地土壤细菌研究中（土壤 $\mathrm { \ p H }$ 为4.4—5.1,呈酸性)未检测出芽单胞菌门。高圣超[30]等对东北黑土的研究中表明芽单胞菌门与土壤 $\mathrm { \ p H }$ 呈显著正相关,芽单胞菌门细菌偏好碱性的环境,碱性土壤有利于芽单胞菌的代谢活动。本试验区地处黄河三角洲滨海盐碱地,林分土壤pH值为8.01—8.79,呈碱性。碱性土壤中芽单胞菌门细菌相对丰度达 $2 . 5 \% - 7 . 8 \%$ ,为主要菌群,与酸性环境土壤相比芽单胞菌细菌相对丰度较高。这应该是该试验区碱性的土壤环境有利于嗜碱芽单胞菌门细菌的生长而使其相对丰度增大,成为主要菌群。
+
+还有研究发现[31]酸杆菌门是嗜酸性细菌,在酸性土壤中生长较好。黄河三角洲3种林分土壤中酸杆菌细菌(丰度 $2 5 . 1 \% - 4 9 . 2 \%$ )虽仍为优势菌群,但其丰度却远低于土壤呈酸性的鼎湖山森林土壤[32]（酸杆菌门丰度 $5 3 . 3 \% - 6 7 . 8 \%$ )和三江平原土壤[33]（酸杆菌门丰度 $5 3 \%$ )。这可能是由于该试验区的碱性环境遏制部分酸杆菌门细菌的生长;同时,碱性土壤促进部分嗜碱细菌的生长,增加土壤中细菌之间的竞争压力,酸杆菌门细菌从土壤中获取的营养物质减少，因此酸杆菌门相对丰度较低。
+
+很多研究表明土壤细菌多样性与土壤盐分的关系也比较密切,土壤盐渍化会影响土壤中微生物的活动[34-35]。电导率是用来评价土壤盐分含量综合指标,土壤电导率越高表示土壤盐分含量越大。本试验刺槐白蜡混交林土壤电导率含量显著低于刺槐纯林与白蜡纯林,白蜡刺槐混交林土壤细菌多样性高于纯林,表明刺槐白蜡混交不仅能够降低土壤盐分含量,还为细菌的生长提供了良好的环境,增加了土壤细菌多样性。FuQinglin 等[36]和林学政等[37]均发现随着盐浓度的升高,微生物群落多样性逐渐降低。黄韶华[38]等对新疆荒漠区盐土的研究中也发现,土壤盐分过高会显著降低土壤微生物的数量,对土壤细菌的生长繁殖抑制最为明显;盐分含量越高,微生物的生长繁殖越弱。这与本研究中结果一致。这应该是由于盐分过高导致植物根系分泌物降低，而根系分泌物会改变根基环境，从而导致土壤中微生物的营养物质减少,对土壤微生物的多样性起到了抑制作用。黄河三角洲滨海盐渍土壤盐分含量较高,植被生长受到盐碱的抑制。为更好的实现森林可持续经营与发展,必须加强对土壤微生物的研究,在造林实践中应提倡营造混交林,特别是在土壤条件较差的滨海盐碱地。
+
+# 4结论
+
+黄河三角洲刺槐白蜡混交林土壤细菌丰度高于刺槐纯林、白蜡纯林土壤细菌。酸杆菌门、变形菌门、和放线菌门为白蜡纯林、刺槐白蜡混交林的优势菌群,酸杆菌门细菌丰度最高;变形菌门、放线菌门、酸杆菌门、硝化螺旋菌门为刺槐纯林土壤优势菌群,变形菌门细菌丰度最高。刺槐白蜡混交林和纯林相比较改善了土壤的理化性质,混交林土壤质量的改善又改变了土壤细菌的结构和提高了细菌多样性。本研究只是对纯林与混交林在同一季节小空间内土壤细菌多样性特征进行了对比研究,而有关土壤微生物数量随林分结构、林龄等方面的变化有待深入研究。 C
+
+# 参考文献（References）:
+
+[1]Wiee，fichGEstablisntofplantgohprootigacteisefubseentplantsrestofeoatdprecrops.Microbiological Research，1995，150(3）：331-336.  
+[2］李峰，周广胜，曹铭昌.兴安落叶松地理分布对气候变化响应的模拟.应用生态学报，2006，17(12)：2255-2260.  
+[3」吴建峰，林先贵.土壤微生物在促进植物生长方面的作用.土壤，2003,35(1)：18-21.  
+[4］陈国华,弭宝彬,李莹，李春月.转 mapk 双链 RNA 干扰表达载体黄瓜对根际土壤细菌多样性的影响.生态学报，2013，3（4)：1091- 1097.  
+［5］许光辉,李振高.微生物生态学.南京：东南大学出版社，1991.  
+[6］李喆，元野，马力，唐庆明，邹莉.不同轮作方式对牡丹江地区烟田土壤微生物数量及分布的影响.东北林业大学学报，2010，38（7)：96-99.  
+[7]BergG,be,oterallKUaehatcobcduureespeieFtsi,5: 148.  
+［8］秦楠，栗东芳，杨瑞馥.高通量测序技术及其在微生物学研究中的应用.微生物学报，2011,51（4)：445-457.  
+［9］张彩霞.新一代高通量测序技术研究土壤微生物群落结构对环境条件的响应[D].南京：南京农业大学，2012.  
+[10] FiererNidfeofaeStates of America，2006,103(3): 626-631.  
+[11] 段器，肖炜，王永霞，赖泳红，崔晓龙.454 测序技术在微生物生态学研究中的应用.微生物学杂志，2011，31（5）：76-81.  
+[12] 丁新景，解国磊，敬如岩，马风云，刘方春，马海林.黄河三角洲不同人工刺槐混交林调落物分解特性.水土保持学报，2016，30（4)：C 249-253, 307.  
+2.131 夏江宝，陈印平，王贵霞，任加云.黄河三角洲盐碱地不同造林模式下的土壤碳氮分布特征.生态学报，2015，35(14)：4633-4641.  
+[14] 丁新景，敬如岩，黄雅丽，陈博杰，马风云.黄河三角洲刺槐根际与非根际细菌结构及多样性.土壤学报，2017,54（05)：1293-1302.  
+[15] 刘璐，何寻阳，谢强，王克林.桂西北喀斯特常见豆科植物根瘤菌的遗传多样性.应用生态学报，2015，26(12)：3663-3669.  
+[16] Edgar RC.Search and clustering orders of magnitudefaster than BLAST.Bioinformatics，2010,26(19)：2460-2461.  
+[17]SchloDevsD,WestoSRucightsofationdeqengartfctsobasedsuO,2011,6(12):e27310.  
+[18]KepPF，erJYBactealversitinqaticdterenviroentsat6SDAlbaricantellus.EMcroboolog，2004,47(2):161-177.  
+[19］刘秉儒，张秀珍，胡天华，李文金.贺兰山不同海拔典型植被带土壤微生物多样性.生态学报，2013，33（22)：7211-7220.  
+[20］邹莉，唐庆明，王轶.落叶松、樟子松纯林及混交林土壤微生物的群落分布特征.东北林业大学学报，2010,38（11)：63-64，79.  
+[21]Ding JJ,ZhangYG,DengY,CongJ,LuH,SunX,YangCY,YuanT,van NostrandJD,LiDQ，ZhouJZ,YangYF.nteatedmetagenomicsand network analysisofsoil microbialcommunityoftheforest timberline.Scientific Reports,2Ol5,5：7994.  
+[22]Lauber C L,Hamady M,Knight R,Fierer N.Pyrosequencing-based assessment of soil $\mathrm { \ p H }$ as a predictor of soil bacterial community structure at thecontinental scale.Applied and Environmental Microbiology，2009,75(15）：5111-5120.  
+[23］戴雅婷，闫志坚，解继红，吴洪新，徐林波，侯向阳，高丽，崔艳伟.基于高通量测序的两种植被恢复类型根际土壤细菌多样性研究。土壤学报，2017,54（3）：735-748.  
+2]BE,aswsdlirtdd(11):2055-2064.  
+[25］于瑛楠，李宇光，吴双.胡桃楸、白桦纯林及其混交林土壤微生物特性研究.安徽农业科学，2015，43（19)：138-140.  
+[26] 滕嘉玲，贾荣亮，赵芸.沙埋对干旱沙区真藓结皮层细菌群落结构和多样性的影响.生态学报，2017,37（7)：2179-2187.  
+[27] 张薇，胡跃高，黄国和,等.西北黄土高原柠条种植区土壤微生物多样性分析.微生物学报，2007,47（5):751-756.  
+[28］徐飞，蔡体久，杨雪，琚存勇，唐庆明.三江平原沼泽湿地垦殖及自然恢复对土壤细菌群落多样性的影响.生态学报，2016,36（22)：7412-7421.  
+[29］秦红灵，袁红朝，张慧，朱亦君，吴敏娜，魏文学.红壤坡地利用方式对土壤细菌群落结构的影响．土壤学报，2011，48（3）：594-602.  
+[30] 高圣超，关大伟，马鸣超，张伟，李俊，沈德龙.大豆连作条件下施肥对东北黑土细菌群落的影响.中国农业科学,2017,50（7)：1271- 1281.  
+31]Sit,visKEsetfosolairfbfbfdobcegisoil.Applied and Environmental Microbiology，2006,72(3）：1852-1857.  
+[32］柳春林，左伟英，赵增阳，邱礼鸿.鼎湖山不同演替阶段森林土壤细菌多样性.微生物学报，2012，52（12)：1489-1496.  
+[33］隋心，张荣涛，钟海秀，许楠，王继丰，刘应竹，袁海峰，倪红伟.利用高通量测序对三江平原小叶章湿地土壤细菌多样性的研究.土壤，2015，47(5):919-925  
+[34］孙佳杰，尹建道，解玉红，杨永利，舒晓武，刘保东.天津滨海盐碱土壤微生物生态特性研究.南京林业大学学报：自然科学版，2010，34(3) : 57-61.  
+[35］丁新景，敬如岩，黄雅丽，陈博杰，马风云.基于高通量测序的4种不同树种人工林根际土壤细菌结构及多样性.林业科学，2018，54(01) : 81-89.  
+[36]FuQL,LiuC,DngN,LinYC,GuoB,LoJF，WgHLSlmbalounitiesadzeactitiesiledoastalilchronosequence under rice-barleycropping. Journal of Soilsand Sediments，2012,12（7）:1134-1144.  
+[37］林学政，陈靠山，何培青，沈继红，黄晓航.种植盐地碱蓬改良滨海盐渍土对土壤微生物区系的影响.生态学报，206,26(3）：801-807.  
+[38］黄韶华，王正荣，周华荣，刘建军，牛永绮．新疆荒漠区土壤微生物与土壤环境关系的初步探讨.新疆环境保护，1997,19（1）：81-84.

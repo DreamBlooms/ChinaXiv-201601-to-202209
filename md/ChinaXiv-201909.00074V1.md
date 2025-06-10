@@ -1,0 +1,226 @@
+# 基于无人机影像的荒漠地表类型信息提取
+
+彭佳忆1²，王新军1²，朱磊²， 2 赵成义³，徐晓龙1,2（1．新疆农业大学草业与环境科学学院,新疆乌鲁木齐830052;2．新疆土壤与植物生态过程实验室,新疆乌鲁木齐830052;3．中国科学院新疆生态与地理研究所,新疆乌鲁木齐830011)
+
+摘要：基于无人机可见光影像对古尔班通古特沙漠地表类型信息进行提取，运用面向对象的多尺度分割，在提取样本的光谱、形状、纹理、植被指数特征的基础上,建立规则提取地表类型信息。结果表明： $\textcircled{1}$ 荒漠地表类型不同，最佳分割尺度不同； $\textcircled{2}$ 不同荒漠化程度地表类型特征相似,无法运用单个特征进行区分,需选用多种特征组合提取地表类型； $\textcircled{3}$ 面向对象的多尺度分割方法相对于基于像元的最大似然法分类有明显提高，面向对象轻度沙漠区总体分类精度为 $9 3 . 0 0 \%$ ，中度沙漠化区为 $9 1 . 8 3 \%$ ，重度沙漠化区为 $9 3 . 5 0 \%$ ，较基于像元的最大似然方法分别提高了 $1 0 . 3 4 \% . 1 1 . 8 6 \%$ 和 $1 2 . 5 0 \%$ 。表明针对无人机可见光影像,面向对象的多尺度分割方法能高精度地提取荒漠地表类型信息。
+
+关键词：无人机影像；荒漠；地表类型；信息提取；古尔班通古特沙漠
+
+荒漠化是一个全球性的环境问题，对荒漠化遥感监测始终是国际上关注的一个热点[1-2]。我国荒漠化主要发生在内蒙古和西北地区，虽有一定的缓解,但仍然没有得到根本性的遏制[3]。为了能够快速获取荒漠化趋势，通常应用遥感技术，因它监测范围大，时间周期短，能够快速获取地面信息的特点，可以提高对荒漠化监测的效率[4]。但随着荒漠化研究的深入，发现作为荒漠化判据的植被盖度程度综合指标不仅受到关注，而且荒漠生态系统的生物多样性、地衣等空间分布特征也日益得到荒漠研究者的关注[5]。目前，已经有很多传统传感器数据（如MODIS、Landsat数据等）应用于荒漠化监测，但它们仅能捕捉像元内综合的植被覆盖信息[6，而对于荒漠化更为具体的信息却无能为力。无人机的发展改变了这一难题，相比较卫星遥感，无人机影像有着丰富的几何纹理信息[2]，具有捕捉细节信息的能力。
+
+传统的分类方法主要是基于像元的遥感解译技术，多应用于中低分辨率的影像，并取得较好的效果,而在高分辨影像中容易产生椒盐效应[7]。针对高分辨率影像特点提出一种面向对象分类的方法，它能捕捉地表的纹理、几何、颜色等信息[8]。Ke等[9运用面向对象的方法,对黑堡纪念森林和毗邻的纽约中部林地进行分类，结果表明面向对象方法分类精度高于基于像元的分类精度。Myint等[°]基于像元和面向对象方法，对亚利桑那州凤凰城的中心地区进行分类，结果表明面向对象比基于像元的分类方法好。这些研究表明，面向对象分类方法要优于基于像元分类方法。目前，无人机作为新兴技术在很多领域都得到了应用，如水污染监测[11、草原分类调查[12]、森林资源[13]与农作物识别[14]等，在细节信息获取上展现出一定优势。在土地利用方面，以无人机影像为数据源，运用面向对象的方法促使分类精度提高到 $9 1 . 3 0 \%$ [15]。在林地方面,利用无人机的优势，用面向对象的方法提取植被信息，精度达到 $9 0 . 0 0 \%$ 以上,优势突出(16]。在农田方面,无人机影像作为数据源，结合面向对象的方法，能够高效精确地识别农田[17]。但在荒漠化方面,国内外却鲜见报道，尤其是在国内。
+
+古尔班通古特沙漠属典型的温带荒漠,降水稀少,气候干燥,蒸发强烈[18]。在特殊气候影响下,地表植被盖度达到 $3 0 . 0 0 \%$ 左右，植被不仅有灌木梭梭和白梭梭等[19],林下形成了片状的草本,部分裸沙表面形成了灰褐色地衣[20],荒漠地表形成高空间异质性特征。如何获取荒漠地表空间异质性特征是研究荒漠化空间演变的关键环节。本文以古尔班通古特沙漠为研究对象，以无人机影像为数据源，运用面向对象的分类方法对古尔班通古特沙漠地表类型进行提取，为荒漠化空间演变研究提供方法参考。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+古尔班通古特沙漠地处准噶尔盆地，玛纳斯河以东及乌伦古河以南，天山经济带北麓，位于$4 4 ^ { \circ } 1 1 ^ { \prime } \sim 4 6 ^ { \circ } 2 0 ^ { \prime } \mathrm { N }$ ， $8 4 ^ { \circ } 3 1 ^ { \prime } \sim 9 0 ^ { \circ } 0 0 ^ { \prime } \mathrm { E }$ 之间，面积约$4 . 8 8 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ ,是我国面积最大的固定和半固定沙漠。年降水量 $7 0 \sim 1 5 0 ~ \mathrm { m m }$ ,蒸发量在 $2 ~ 0 0 0 ~ \mathrm { { m m } }$ 以上,年平均气温 $6 \sim 1 0 ~ \mathrm { ^ { \circ } C }$ 。土壤以固定、半固定风沙土占绝对优势。灌木植被主要有梭梭（Haloxylonammodendron）蛇麻黄（Ephedradistachys）沙拐枣(Calligonum mongolicum）、琵琶柴（Reaumuria son-garica)等。短命和类短命植物发育良好，主要植物种有尖喙牛儿苗（Erodiumoxyrrhynchum）囊果臺草（Carexphysodes）粗柄独尾草（Eremurusinderien-sis）、角果藜（Ceratocarpusarenarius）[21]等。在沙漠南缘到腹地设置3个样区，分别位于研究区南部、中部和北部，实地选择典型样地： $\textcircled{1}$ 轻度沙漠化（固定沙丘)； $\textcircled{2}$ 中度沙漠化(半固定沙丘); $\textcircled{3}$ 重度沙漠化（流动沙丘）[22]
+
+遥感解译样区：3个样区，每个样区 $1 . 5 \ \mathrm { k m } \times$ $1 . 5 ~ \mathrm { k m }$ 。如图1所示：
+
+![](images/9594f12d96bd3529766cf82d9706fe9e1e9675cb14d1808822ae8f44c9600755.jpg)  
+图1研究区地理位置图  
+Fig.1Geographical location of the study area
+
+# 1.2 数据来源和处理
+
+无人机可见光影像获取的时间为2013年7月18日，天气晴朗，无风无云，选择正午，以避免太阳高度角所引起的阴影对影像质量造成的影响。航高为$5 0 0 \mathrm { ~ m ~ }$ ,预设航向重叠度为 $6 5 \%$ ,旁向重叠度为 $40 \%$ ，相机曝光时间为 $1 / 1 \ 6 0 0 \ \mathrm { s }$ ，型号为SONYNEX-7,在设定航高下影像空间分辨率为 $0 . 1 5 \mathrm { ~ m ~ }$ 。无人机获取可见光影像，其中包括红、绿、蓝3个波段。对航摄影像进行拼接、几何校正及影像裁剪等，结合航拍无人机GPS记录坐标等参数，用SFM（structurefrommotion)算法[16]对影像进行拼接,采用多项式几何校正。选用最邻近像元法进行影像重采样，平均误差控制在0.5个像元以内，精度可靠，满足研究要求。
+
+2013年7月18—20日获取野外采样点数据，根据研究区地物分布，每个样区布设了10个涵盖研究区典型地物的 $2 0 \mathrm { ~ m ~ } { \times } 2 0 \mathrm { ~ m ~ }$ 样方,样方记录内容包括中心点GPS坐标、地物类型、灌木冠幅等。
+
+# 1.3 研究方法
+
+采用面向对象的多尺度分割方法，在分类体系的基础上，对尺度分割参数特征进行分析；基于样本的光谱、形状、纹理、植被指数特征，分析荒漠地表的可见光影像特征，并建立规则；采用面向对象的多尺度分割方法与基于像元的最大似然法分别提取荒漠地表类型信息，应用精度评价方法对两种分类方法结果进行对比分析。研究路线如图2所示。
+
+面向对象信息提取方法最优分割 影像 建立规则 分类无人机影像 尺度选择 分割 提取信息 结果 结果对比精度基于像元信息提取方法 评价最大似然 分类图像解译 分类方法 结果
+
+1.3.1多尺度影像分割影像分割采用多尺度分割，使同一空间分辨率的遥感影像信息不再只由一种尺度来表示,可由多种适宜的尺度来描述(23-24) 。在多尺度分割中，由于尺度因子、颜色因子、形状因子以及影像各波段反射率权重值均会对影像分割的结果产生影响,尤其是尺度因子[25]。因此,运用最大面积法[26和精度对比法[27]确定各类荒漠地物的尺度因子（最优分割尺度）。由于获取的影像为可见光，在3个波段范围内，地物都有相应的反射特征。因此，权重值均为1/3。而颜色因子和形状因子，根据实际地表覆盖物颜色及形状，设定为0.6和0.5。
+
+查，将研究区地表类型分为4类：裸沙、灌木、结皮、草本[19,28]（表1）。
+
+1.3.3类层次结构构建根据研究区地表分类体系，构建类层次。在轻度沙漠区，第1层次，分割尺度为15，利用植被指数归一化绿红差异指数（NGR-DI)和归一化绿蓝差异指数(NGBDI)区分植被与非植被;第2层次，对第1层次中的植被进行再分类，运用植被指数、光谱、纹理3类特征，在植被基础上提取灌木，未分类的为草本；第3层次，对第1层次中的非植被进行再分类，分割尺度为60，运用光谱和纹理特征提取结皮，未分类为裸沙。中度沙漠化区和重度沙漠化区类层次结构与轻度沙漠区相似（图3）。
+
+表1影像分类解译标志  
+Tab.1 Interpretation symbols of image classification   
+
+<html><body><table><tr><td>分类</td><td>遥感影像特征</td><td>影像显示</td></tr><tr><td>裸沙</td><td>形状规则，片状分布，边界清晰，呈 土黄色。部分地区出现风蚀沟壑</td><td></td></tr><tr><td>结皮</td><td>形状规则，条带状分布，边界清晰， 呈黑色或灰黑色</td><td></td></tr><tr><td>灌木</td><td>形状较规则，边界清晰，呈深绿色。 生长稀疏，分散分布</td><td></td></tr><tr><td>草本</td><td>形状不规则，边界不清晰，呈浅绿 色。生长稀疏，分散分布</td><td></td></tr></table></body></html>
+
+![](images/788f0a8da35924e8aa2d57ef6220490350c8ecbbfe43fdeb63228cd3044d0583.jpg)  
+图2研究路线图  
+Fig.2Diagram of the research route   
+1.3.2分类体系在前人研究基础上，通过野外调  
+图3多尺度分割分层图  
+Fig.3Layered chart of multi-scale segmentation
+
+1.3.4影像对象特征选取及信息提取采用规则分类方法对影像进行分类[29]。在前人研究基础上[30],根据研究区情况,选取以下10个指标（表2）。
+
+表2影像对象特征参数  
+Tab.2 Characteristic parameters of image objects   
+
+<html><body><table><tr><td>特征类型</td><td>影像对象特征</td><td>特征数量/个</td></tr><tr><td>光谱特征</td><td>Mean(Red)</td><td>1</td></tr><tr><td></td><td>Mean(Green)</td><td>1</td></tr><tr><td></td><td>Mean(Blue)</td><td>1</td></tr><tr><td></td><td>Brightnes</td><td>1</td></tr><tr><td></td><td>Max. diff</td><td>1</td></tr><tr><td>形状特征</td><td>Length/Width</td><td>1</td></tr><tr><td></td><td>Shape index</td><td>1</td></tr><tr><td>纹理特征</td><td>GLCMHomogeneity</td><td>1</td></tr><tr><td>植被指数</td><td>NGRDI</td><td>1</td></tr><tr><td></td><td>NGBDI</td><td>1</td></tr><tr><td colspan="2">合计</td><td>10</td></tr></table></body></html>
+
+注：Mean(Red）Mean(Green）Mean（Blue）分别为对象在波段（红、绿、蓝)光谱的均值;Brightness为对象亮度值;Max.diff为最大化差异度量；Length/Width为对象的长宽比;Shapeindex为形状指标；GL-CMHomogeneity为灰度共生矩阵-逆差矩;NGRDI为归一化绿红差异指数;NGBDI为归一化绿蓝差异指数。下同。
+
+1.3.5结果对比与精度评价通过混淆矩阵方法对面向对象多尺度分割信息提取方法与基于像元的最大似然法信息提取方法进行结果对比分析[31]。
+
+# 2 结果与分析
+
+# 2.1地表类型的分割尺度分析与选取
+
+选择 $1 0 \sim 1 0 0$ 之间的尺度对影像进行分割，以10 为1个间隔进行9次分割实验（每1次分割基于原始数进行分割)（图4）。在9次分割实验中，3波段反射率权重均为1/3，颜色因子和形状因子分别选择0.6和0.5。
+
+由图4可见，分割尺度10和20分割对象较破碎，斑块较小。分割尺度 $\geqslant 3 0$ 后，斑块较大,均出现"过分割”的现象。表明分割尺度越小，分割对象斑块越小，越破碎，斑块数量增多；分割尺度越大,分割对象斑块越大，破碎程度小，斑块数量减少。
+
+2.1.1最大面积法对于某种地物，影像分割后该类地物的影像对象都存在最大面积、最小面积及平均面积。前人研究[24,27]表明,最大面积与分割尺度有一定的规律，影像分割的对象不应大于实际地物的大小，能充分显示实体地物的面积、空间结构等特点。最优尺度不是一个点，而是一个区间范围。
+
+分割尺度设定在 $1 0 \sim 1 0 0$ 间，以5为1个区间，统计每个分割尺度下影像对象的最大面积。
+
+通过图5可知，随着分割尺度的增加，分割斑块最大面积总体呈上升趋势。在图5a中 $2 0 \sim 5 0$ 、$6 0 \sim 7 5 . 8 0 \sim 9 0$ 尺度区间斑块最大面积呈上升态势；在 $1 5 \sim 2 0 . 5 5 \sim 6 0 . 9 0 \sim 1 0 0$ 尺度区间斑块最大面积较为稳定。在图5b中 $2 0 \sim 7 0 \phantom { . 8 0 } { } . 8 0 \sim 9 0 \phantom { . 9 5 } { } . 9 5 \sim$ 100尺度区间斑块最大面积呈上升态势；在 $1 5 \sim 2 0$ 、$7 0 \sim 8 0 \ . 9 0 \sim 9 5 \$ 尺度区间斑块最大面积较为稳定。在图5c中 $2 0 \sim 6 5 \ . 7 0 \sim 7 5 \ . 8 0 \sim 8 5$ 区间尺度区间斑块最大面积呈上升态势；在 $1 5 \sim 2 0 . 6 5 \sim 7 0 . 7 5 \sim$ $8 0 \ 、 9 0 \sim 1 0 0$ 尺度区间斑块最大面积较为稳定。表明在尺度增加时，分割对象在减少，面积呈增加趋势。但在图5a中 $7 5 \sim 8 0$ 区间和图5c中 $8 5 \sim 9 0 \$ 区间呈下降趋势。由于多尺度分割是根据图中地物的形状、颜色、尺度等确定不同地物的分割边界，尺度增大时分割对象的数量在减少，但分割对象的最大面积不一定会增大。
+
+![](images/e035eba4629b2f3ae29de5332ebf3f7dbfc2ee4ca198dd11975a1d14591edb29.jpg)  
+图4不同尺度分割结果图  
+Fig.4Results of segmentation on different scales
+
+根据前人的研究[25,27-28],分割斑块面积大小不超过地物实体大小，即在一定尺度范围内，最大面积保持不变，该类地物的实际大小能较好地表现。选取最佳分割尺度区间轻度沙漠区在 $1 5 \sim 2 0 \ : . 5 5 \sim$ $6 0 \ 、 9 0 \sim 1 0 0$ ；中度沙漠化区在 $1 5 \sim 2 0 \mathit { \Omega } , 7 0 \sim 8 0 \mathit { \Omega }$ ，$9 0 \sim 9 5$ ;重度沙漠化区在 $1 5 \sim 2 0 . 6 5 \sim 7 0 . 7 5 \sim 8 0 \$ $9 0 \sim 1 0 0 \$ 。
+
+由于灌木和草本个体较小,尺度较大易于造成“欠分割”现象;裸沙和结皮个体较大，尺度较小造成“过分割”的现象。因此，轻度沙漠区中灌木和草本分割尺度区间 $1 5 \sim 2 0$ ，结皮分割尺度区间为$5 5 \sim 6 0$ ;在中度沙漠化区中灌木和草本分割尺度区间15～20，结皮分割尺度区间为70～80；在重度沙漠化区灌木和草本分割尺度区间15～20，结皮分割尺度区间为 $6 5 \sim 7 0 \_ 7 5 \sim 8 0$ 。
+
+2.1.2精度对比法每类地物各选择80 个地物样本，根据尺度区间，对比分割精度。
+
+由图6可知，在图6a中，灌木和草本在尺度15分割的精度最高，分别为 $8 5 . 7 6 \%$ 和 $8 3 . 0 4 \%$ ，结皮在尺度为60的时候达到了 $8 4 . 3 2 \%$ ;在图6b中，灌木和草本在尺度20分割的精度最高，分别为$8 2 . 9 1 \%$ 和 $8 2 . 4 3 \%$ ，结皮在尺度为70的时候达到了 $8 3 . 8 1 \%$ ;在图6c中，灌木和草本在尺度15分割的精度最高，分别为 $8 4 . 0 5 \%$ 和 $8 3 . 3 0 \%$ ,结皮在尺度为65的时候达到了 $8 4 . 8 7 \%$ 0
+
+因此，确定轻度沙漠区灌木和草本分割尺度为15,结皮为60;中度沙漠化区灌木和草本分割尺度为20，结皮为70;重度沙漠化区灌木和草本分割尺度为15，结皮为65。
+
+# 2.2地表类型的影像特征与分类规则
+
+裸沙、结皮、灌木、草本4类地物分别选取100个样本，统计样本的光谱、形状、纹理、植被指数4类特征值，对特征值进行统计，依据 $9 5 \%$ 的置信区间确定阈值，建立规则。
+
+从表3、表4和表5看出，4种地表覆盖物的光谱和形状、纹理特征相似，难以区分。植被指数可以准确区分植被与非植被，但灌木与草本的植被指数相似，无法使用植被指数区分，中度沙漠化区和重度沙漠化区存在相同的问题。单一特征无法进行准确区分，因此，同时选用多个特征进行提取（表6、表7和表8）。
+
+90000 (a)轻度沙漠化区 80000 (b)中度沙漠化区 100 000 (c)重度沙漠化区80000 70000 900007000 50000 20￥ 400000 ￥鲁 30 00 ￥ 4000010000 10000 100000 0 010 20 3040 5060708090100 1020 3040 5060708090 100 10 20 3040 5060708090100尺度 尺度 尺度
+
+![](images/c49a241a04fff827cea19c05ee39552fdc78a24a59562426fc4b0811b48dee76.jpg)  
+图5分割尺度最大面积  
+Fig.5Largest area of segmentation scale   
+图6不同分割尺度的分类精度  
+Fig.6The accuracy of classification on different scales
+
+Tab.3Statistical results of the eigenvalues of sample plots in slightly desertified area   
+
+<html><body><table><tr><td>特征值</td><td>裸沙(最小值-最大值)</td><td>结皮(最小值-最大值)</td><td>灌木(最小值-最大值)</td><td>草本(最小值-最大值)</td></tr><tr><td>Mean(Red)</td><td>(71,131)</td><td>(64，122)</td><td>(26,99)</td><td>(51,100)</td></tr><tr><td>Mean(Green)</td><td>(98,158)</td><td>(78,137)</td><td>(35,111)</td><td>(61,117)</td></tr><tr><td>Mean(Blue)</td><td>(119,181)</td><td>(88,151)</td><td>(41,124)</td><td>(69，134)</td></tr><tr><td>Brightnes</td><td>(96,154)</td><td>77,130</td><td>38,110</td><td>(61,115)</td></tr><tr><td>Max. diff</td><td>(0.2,0.5)</td><td>(0.14,0.42)</td><td>(0.14,0.6)</td><td>(0.15,0.58)</td></tr><tr><td>Length/Width</td><td>(1,4.26)</td><td>(1.02,3.9)</td><td>(1,4.32)</td><td>(1,3.9)</td></tr><tr><td>Shape index</td><td>(1.01,2.45)</td><td>(1.05,2.29)</td><td>(1,2.71)</td><td>(1.03,2.54)</td></tr><tr><td>GLCM Homogeneity</td><td>(0.009,0.5)</td><td>(0.01,0.39)</td><td>(0.005,0.17)</td><td>(0.016,0.24)</td></tr><tr><td>NGRDI</td><td>(-0.12，-0.04)</td><td>(-0.13，-0.02)</td><td>(-0.18,-0.12)</td><td>( -0.14,-0.11)</td></tr><tr><td>NGBDI</td><td>(0.07,0.17)</td><td>(0.03,0.15)</td><td>(0.19,0.25)</td><td>(0.18,0.21)</td></tr></table></body></html>
+
+表3轻度沙漠化区地类样本特征值统计  
+表5重度沙漠化区地类样本特征值统计  
+
+<html><body><table><tr><td>特征值</td><td>裸沙(最小值-最大值)</td><td>结皮(最小值-最大值)</td><td>灌木(最小值-最大值)</td><td>草本(最小值-最大值)</td></tr><tr><td>Mean(Red)</td><td>(76,133)</td><td>(69,125)</td><td>(73,109)</td><td>(60,144)</td></tr><tr><td>Mean(Green)</td><td>(94,159)</td><td>(72,141)</td><td>(76,129)</td><td>(65,142)</td></tr><tr><td>Mean( Blue)</td><td>(109,188)</td><td>(80,158)</td><td>(85,155)</td><td>(75,175)</td></tr><tr><td>Brightness</td><td>(95,158)</td><td>(74,141)</td><td>(80,128)</td><td>(71,140)</td></tr><tr><td>Max. diff</td><td>(0.14,0.47)</td><td>(0.12,0.46)</td><td>(0.15,0.49)</td><td>(0.17,0.56)</td></tr><tr><td>Length/Width</td><td>(1,5.9)</td><td>(1,4.8)</td><td>(1.01,2.28)</td><td>(1.01,3.96)</td></tr><tr><td>Shape index</td><td>(1.01,2.54)</td><td>(1.01,2.35)</td><td>(1.1,2.1)</td><td>(1.0,2.29)</td></tr><tr><td>GLCM Homogeneity</td><td>(0.04,0.08)</td><td>(0.03,0.68)</td><td>(0.04,0.58)</td><td>(0.02,0.55)</td></tr><tr><td>NGRDI</td><td>(-0.03，-0.01)</td><td>(-0.03，-0.02)</td><td>(-0.13，-0.04)</td><td>(-0.11,-0.03)</td></tr><tr><td>NGBDI</td><td>(0.02,0.17)</td><td>(0.02,0.2)</td><td>(0.007,0.013)</td><td>(0.01,0.02)</td></tr></table></body></html>
+
+Tab.4Statistical results of the eigenvalues of sample plots in moderately desertified area   
+Tab.5Statistical results of the eigenvalues of sample plots in seriusly desertified area   
+表6轻度沙漠化区分类体系与规则  
+
+<html><body><table><tr><td>特征值</td><td>裸沙(最小值-最大值)</td><td>结皮(最小值-最大值)</td><td>灌木(最小值-最大值)</td><td>草本(最小值-最大值)</td></tr><tr><td>Mean( Red)</td><td>(64,124)</td><td>(41,115)</td><td>(30,92)</td><td>(46,125)</td></tr><tr><td>Mean(Green)</td><td>(85,158)</td><td>(56,143)</td><td>(38,117)</td><td>(62,156)</td></tr><tr><td>Mean(Blue)</td><td>(103,190)</td><td>(68,171)</td><td>(49,143)</td><td>(83,187)</td></tr><tr><td>Brightness</td><td>(85,156)</td><td>(56,143)</td><td>(41,117)</td><td>(64,155)</td></tr><tr><td>Max. diff</td><td>(0.31,0.53)</td><td>(0.21,0.60)</td><td>(0.22,0.75)</td><td>(0.31,0.68)</td></tr><tr><td>Length/Width</td><td>(1.00,8)</td><td>(1.00,5.3)</td><td>(1.00,5.65)</td><td>(1.00,3.8)</td></tr><tr><td>Shape index</td><td>(1.00,5.2)</td><td>(1,2.8)</td><td>(1,2.8)</td><td>(1.00,2.6)</td></tr><tr><td>GLCM Homogeneity</td><td>(0.17,0.73)</td><td>(0.13,0.65)</td><td>(0.11,0.61</td><td>(0.16,0.66)</td></tr><tr><td>NGRDI</td><td>(-0.13，-0.05)</td><td>(-0.14，-0.04)</td><td>(-0.18,-0.14)</td><td>( -0.16,-0.14)</td></tr><tr><td>NGBDI</td><td>(0.07,0.16)</td><td>(0.05,0.16)</td><td>(0.24,0.37)</td><td>(0.16,0.26)</td></tr></table></body></html>
+
+表4中度度沙漠化区地类样本特征值统计  
+Tab.6Classification system and rules of slightly desertified area   
+
+<html><body><table><tr><td>类层次</td><td>分割尺度</td><td>地表类型</td><td>规则</td></tr><tr><td>Level 1</td><td>15</td><td>植被</td><td>-0.18<NGRDI<-0.12,0.18<NGBDI<0.25</td></tr><tr><td>Level 2</td><td>15</td><td>灌木</td><td>26 <Mean(Red）<95,38<Brightness<100，-0.18<NGRDI<-0.12,0.005<GLCM Homogeneity <0.17, 0.18<NGBDI<0.25</td></tr><tr><td>Level 3</td><td>60</td><td>结皮</td><td>78<Mean(Green）<137,88<Mean(Blue）<151,0.14 <Max.diff<0.46,0.003<GLCM Homogeneity <0.42</td></tr></table></body></html>
+
+# 表7中度沙漠化区分类体系与规则
+
+Tab.7Classification system and rules of moderately desertified area   
+表8重度沙漠化区分类体系与规则  
+
+<html><body><table><tr><td>类层次</td><td></td><td>分割尺度 地表类型</td><td>规则</td></tr><tr><td>Level 1</td><td>20</td><td>植被</td><td>-0.13<NGRDI<-0.03,0.007<NGBDI<0.22</td></tr><tr><td>Level 2</td><td>20</td><td>灌木</td><td>76 <Mean(Green）<129,80<Brightness <128,0.15<Max.diff<0.49、0.007<NGBDI<0.013</td></tr><tr><td>Level 3</td><td>70</td><td>结皮</td><td>69 <Mean(Red）<125,80<Mean(Blue）<158,74<Brightness<141,0.04<GLCM Homogeneity<0.08</td></tr></table></body></html>
+
+Tab.8 Classification system and rules of seriously desertified area   
+
+<html><body><table><tr><td>类层次</td><td>分割尺度</td><td>地表类型</td><td>规则</td></tr><tr><td>Level 1</td><td>15</td><td>植被</td><td>-0.18<NGRDI<-0.13,0.16<NGBDI<0.37</td></tr><tr><td>Level 2</td><td>15</td><td>灌木</td><td>30 <Mean(Red）<92,38<Mean(Green）<117,41<Brightness<117,0.24<NGBDI<0.37</td></tr><tr><td>Level 3</td><td>65</td><td>结皮</td><td>41 <eanCRed)<115.68 <Mean(Blue）<171,56<Brightmss<143,1.00< Length/With<5.3,</td></tr></table></body></html>
+
+# 2.3地表类型的解译精度评价与对比
+
+采用以上分类方案及其规则，分类结果见图$7 \mathrm { d } \sim 7 \mathrm { f }$ ，图8d\~8f为局部图。运用基于像元的最大似然法提取地表类型信息,分类结果见图 $\mathrm { 7 a } \sim \mathrm { 7 c }$ ，图8a\~8c为局部图。a和c为轻度沙漠化区（固定沙丘）,b和c为中度沙漠化区(半固定沙丘），d和f为重度沙漠化区（流动沙丘）。每类地物均随机选择150个地物，采用混淆矩阵(表9、表10)对结果进行精度评价与对比。
+
+可以看出轻度沙漠区总体分类精度为$9 3 . 0 0 \%$ ,较基于像元的最大似然法提高 $1 0 . 3 4 \%$ ，Kappa系数达到了0.89，较基于像元的最大似然法提高0.09；中度沙漠化区总体分类精度为 $9 1 . 8 3 \%$ ，较基于像元的最大似然法提高 $1 3 . 6 7 \%$ ,Kappa系数达到了0.84，较基于像元的最大似然法提高0.12；重度沙漠化区总体分类精度为 $9 3 . 5 0 \%$ ,较基于像元的最大似然法提高 $1 2 . 5 0 \%$ ,Kappa系数达到了0.89，较基于像元的最大似然法提高0.1。结果显示本方法分类精度高于基于像元的最大似然方法，表明本方法能较为精确地提取荒漠地表类型信息，在高分辨率遥感影像荒漠化信息提取中具有一定的优势。
+
+![](images/b9dca042938e34ba96d19965a8278a8796daa95f396272b1f03e595f08b1a0b9.jpg)  
+图7面向对象的多尺度分割方法 $( \mathrm { d } \sim \mathrm { f } )$ 和基于像元的最大似然法 $\mathrm { ~ ( ~ a ~ \sim ~ c ~ ) ~ }$ )信息提取结果
+
+![](images/664f34fbe980d1bc4eb52f45838384f014dd02191d115c3735600d601119b379.jpg)  
+Fig.7Object-oriented multi-scalesegmentationandruleclasification method（d-f）and maximum likelihood method basedon pixel information extraction results（a-c )   
+图8面向对象的多尺度分割方法 $\left( \mathrm { d } \sim \mathrm { f } \right)$ 和基于像元的最大似然法 $\mathrm { ~  ~ \omega ~ } ( \mathrm { ~ a ~ } \sim \mathrm { c } )$ 信息提取结果(局部图)  
+Fig.8Object-orientedmulti-scale segmentationandruleclassification method（d-f）andmaximum likelihood method basedon pixel information extraction results（a-c）（local diagram)
+
+Tab.9Classification accuracy evaluation of object-oriented multi-scale segmentation method   
+表10基于像元的最大似然法分类精度评价  
+
+<html><body><table><tr><td rowspan="2">精度类别</td><td colspan="4">轻度沙漠区分类精度</td><td colspan="4">中度沙漠化区分类精度</td><td colspan="4">重度沙漠化区分类精度</td></tr><tr><td>灌木</td><td>结皮</td><td>裸沙</td><td>草本</td><td>灌木</td><td>结皮</td><td>裸沙</td><td>草本</td><td>灌木</td><td>结皮</td><td>裸沙</td><td>草本</td></tr><tr><td>灌木</td><td>140</td><td>1</td><td>3</td><td>7</td><td>138</td><td>4</td><td>0</td><td>9</td><td>142</td><td>1</td><td>3</td><td>7</td></tr><tr><td>结皮</td><td>2</td><td>138</td><td>4</td><td>0</td><td>4</td><td>136</td><td>8</td><td>5</td><td>2</td><td>141</td><td>4</td><td>0</td></tr><tr><td>裸沙</td><td>0</td><td>8</td><td>143</td><td>6</td><td>0</td><td>4</td><td>142</td><td>0</td><td>0</td><td>5</td><td>143</td><td>4</td></tr><tr><td>草本</td><td>8</td><td>3</td><td>0</td><td>137</td><td>8</td><td>6</td><td>0</td><td>136</td><td>6</td><td>3</td><td>0</td><td>139</td></tr><tr><td>生产者精度/%</td><td>93.33</td><td>92</td><td>95.33</td><td>91.33</td><td>92</td><td>90.67</td><td>94.67</td><td>90</td><td>92</td><td>95.33</td><td>95.33</td><td>91.33</td></tr><tr><td>用户精度/%</td><td>86</td><td>91.33</td><td>96.67</td><td>82</td><td>91.39</td><td>86.62</td><td>97.26</td><td>86.62</td><td>90.79</td><td>91.08</td><td>99.31</td><td>87.26</td></tr><tr><td></td><td colspan="4">总体精度=93.00%</td><td colspan="4">总体精度=91.83%</td><td colspan="4">总体精度=93.50%</td></tr><tr><td></td><td colspan="4">Kappa 系数=0.89</td><td colspan="4">Kappa 系数=0.84</td><td colspan="4">Kappa系数=0.89</td></tr></table></body></html>
+
+表9面向对象的多尺度分割方法分类精度评价  
+Tab.10 Classification accuracy evaluation of maximum likelihood method   
+
+<html><body><table><tr><td rowspan="2">精度类别</td><td colspan="4">轻度沙漠区分类精度</td><td colspan="4">中度沙漠化区分类精度</td><td colspan="4">重度沙漠化区分类精度</td></tr><tr><td>灌木</td><td>结皮</td><td>裸沙</td><td>草本</td><td>灌木</td><td>结皮</td><td>裸沙</td><td>草本</td><td>灌木</td><td>结皮</td><td>裸沙</td><td>草本</td></tr><tr><td>灌木</td><td>125</td><td>4</td><td>0</td><td>22</td><td>116</td><td>11</td><td>0</td><td>22</td><td>112</td><td>12</td><td>0</td><td>10</td></tr><tr><td>结皮</td><td>1</td><td>118</td><td>14</td><td>6</td><td>7</td><td>113</td><td>16</td><td>17</td><td>13</td><td>123</td><td>8</td><td>26</td></tr><tr><td>裸沙</td><td>3</td><td>11</td><td>136</td><td>5</td><td>6</td><td>15</td><td>130</td><td>1</td><td>4</td><td>2</td><td>142</td><td>5</td></tr><tr><td>草本</td><td>21</td><td>17</td><td>0</td><td>117</td><td>21</td><td>11</td><td>4</td><td>110</td><td>21</td><td>13</td><td>0</td><td>109</td></tr><tr><td>生产者精度/%</td><td>82.78</td><td>84.89</td><td>87.74</td><td>75.48</td><td>77.85</td><td>73.86</td><td>85.53</td><td>75.34</td><td>83.58</td><td>72.35</td><td>92.81</td><td>76.22</td></tr><tr><td>用户精度/%</td><td>83.33</td><td>78.67</td><td>90.67</td><td>78</td><td>77.33</td><td>75.33</td><td>86.67</td><td>73.33</td><td>74.67</td><td>82</td><td>94.67</td><td>72.67</td></tr><tr><td></td><td colspan="4">总体精度=82.66%</td><td colspan="4">总体精度=78.16%</td><td colspan="4">总体精度=81.00%</td></tr><tr><td></td><td colspan="4">Kappa系数=0.80</td><td colspan="4">Kappa系数=0.72</td><td colspan="4">kappa 系数=0.79</td></tr></table></body></html>
+
+# 3讨论与结论
+
+# 3.1讨论
+
+该方法分类效果受到“影像分割”和“特征提取”两个过程影响较大。分割尺度决定影像对象的大小及信息提取的精度，而尺度没有明确的单位，值越大则分割的影像对象的斑块越大，反之则越小。采用最大面积法和精度对比法(26-27]确定分割尺度,在一定程度上能避免“过分割”与“欠分割”现象。由于高分遥感影像具有“同谱异物，同物异谱”的特性，因此，规则的建立能够有效地区分地物，提高分类精度，但不同荒漠化程度中地表类型特征不同，需选用多种特征组合对地物进行提取。在前人研究基础上(19.32],选取光谱、形状、纹理、植被指数4 种特征建立规则，有效地避免此现象出现，分类精度得到了明显提高，这与黄慧萍[24]的研究一致。但错分现象还是存在，如能结合地物分布区域的地形数据，完善典型地物影像特征库，选取具有客观性和代表性的特征，分类效果应该会更好，精度会更高。
+
+面向对象的多尺度分割方法分类精度高的原因： $\textcircled{1}$ 运用高分辨率影像特点，极大改善了异物同谱的问题，有效避免了椒盐效应； $\textcircled{2}$ 利用光谱、纹理及形状特征较为准确地对研究区不同地物进行描述，使易混淆区域的识别度更高。综上所述，在最优分割情况下地物特征能够得到准确描述，不同地物之间的差异性得到充分体现，降低影像中特征相似地物之间的误分现象。选取合理的分类特征，建立分类规则，能够实现信息高精度提取。本文在分类体系中存在一定的瑕疵,笼的将地表类型划为4类，不能准确地说明荒漠化演变的过程。如能将地表类型进一步细分，分析地表类型如何变动，可进一步提高精度。
+
+# 3.2结论
+
+基于无人机影像对古尔班通古特沙漠地表类型信息进行提取，运用面向对象的多尺度分割，结合最大面积法和精度对比法进行分割实验，确定最优分割尺度。在此基础上，综合样本提取的光谱、形状、纹理、植被指数特征建立规则，并采用规则分类的信
+
+息提取地表类型信息。
+
+（1）荒漠地表类型不同，最佳分割尺度不同。小尺度适用于灌木、草本小斑块荒漠地表类型；大尺度适用于裸沙、结皮大斑块荒漠地表类型。(2）不同荒漠化程度地表类型特征相似，植被指数能准确区分植被与非植被，而裸沙、结皮、灌木、草本4类地物的光谱和形状、纹理特征相似，无法运用单个特征进行区分，需选用多种特征组合提取地表类型。（3）本方法分类精度高于基于像元的最大似然法，表明针对可见光无人机影像，面向对象多尺度分割方法能高精度地提取荒漠地表类型信息。
+
+# 参考文献(References）：
+
+[1]Li Yayun,Yang Xiouchun,Shu Xiaohua,et al. The application of remote sensing technology to land desertification monitoring[J]. Progress in Geogerphy,2009,28(1) :55 -62.   
+[2]Rogan John,Chen Dongmei.Remote sensing technology for mapping and monitoring land-cover and land-use change[J]. Progress in Planning,2004,61(4）:301-325.   
+[3]郭瑞霞,管晓丹,张艳婷.我国荒漠化主要研究进展[J].干旱 气象,2015,33（3）：505-514.[Guo Ruixia,Guan Xiaodan， Zhang Yanting.Main advances in desertification research in China [J].Journal of Arid Meteorology,2015,33（3）:505-514.]   
+[4]Kundn Arnab,Patel N R,Saha SK,et al.Monitoring the extent of desertification processes in Western Rajasthan（India）using geoinformation science[J].Arabian Journal of Geosciences,2015,8 (8) :5 727 -5 737.   
+[5]Duan Cheng,Wu Ling,He Lingyun,et al. Spatio-temporal distribution pattern of vegetation coverage in Junggar Basin,Xinjiang[J]. Acta Ecologica Sinica,2016,36(2):72-76.   
+[6]Zhou Lei,Liu Aifeng.Investigating natural drivers of vegetation coverage variation using MODIS imagery in Qinghai,China[J]. Journal of Arid Land,2016,8(1):109 -124.   
+[7]Li Na,Zhou Deming,Zhao Kuiyi. Marsh classification mapping at a community scale using high-resolution imagery[J].Acta Ecologica Sinica,2011,31(22):6 717 -6 726.   
+[8]袁泽,丁建丽,牛增懿,等.基于GF-1遥感影像的艾比湖区域 田间尺度土壤盐渍化监测方法[J].中国沙漠,2016,36（4）： 1 070-1O78.[Yuan Ze,Ding Jianli,Niu Zengyi,et al.Soil salinization monitoring in the ebinur lake region at a field scale based on GF-1 image[J]. Journal of Desert Research,2016,36（4）: 1070 -1078.]   
+[9]Ke Yinghai,Quackenbush Lindi J,Im Jungho. Synergistic use of Quick Bird multispectral imagery and LIDAR data for object-based forest species classification[J].Remote Sensing of Environment, 2010,114(6):1 141-1 154.   
+[10]Myint Soe W,Gober Patricia,Brazel Anthon J,et al.Per-pixel vs. object-based classification of urban land cover extraction using high spatial resolution imagery[J].Remote Sensing of Environment, 2011,115(5):1 145 -1 161.   
+[11］康文平,刘树林.沙漠化遥感监测与定量评价研究综述[J].中 国沙漠,2014,34(5）:1 222-1 229.[Kang Wenping,Liu Shulin.A review of remote sensing monitoring and quantitative assessment of aeolian desertification[J]. Journal of Desert Research, 2014,34(5):1 222-1 229.]   
+[12]Samecka Aleksandra,Kempers Alexander. Biomonitoring of water polution with elodea canadensis.a case study of three small polish rivers with different levels of pollution[J].Water Airand Soil Pollution,2003,145(1）:139-153.   
+[13]Lu Bing,He Yuhong. Species clasification using unmanned aerial vehicle（UAV)-acquired high spatial resolution imagery in a heterogeneous grassland[J]. Isprs Journal of Photogrammetry and Remote Sensing,2017,128(3）:7-85.   
+[14]Bellvert Joaquim,Zarco-Tejada Pablo J,Girona Joan,et al. Mapping crop water stress index in a‘pinot-noir’vineyard :Comparing ground measurements with thermal remote sensing imagery from an unmanned aerial vehicle[J].Precision Agriculture,2014,15（4）： 361-376.   
+[15]He Linshao,Xu Jinghua,Zhang Shaoyi.Land use classification of object-oriented multi-scale by UAV image[J].Remote Sensing for Land Resources,2013,25(2）:107-112.   
+[16］井然,邓磊,赵文吉,等.基于可见光植被指数的面向对象湿地 水生植被提取方法[J].应用生态学报,2016,27（5)：1 427 - 1 436.[Jing Ran,Deng Lei,Zhao Wenji,et al. Object-oriented aquatic vegetation extracting approach based on visible vegetation indices[J].Chinese Journal of Applied Ecology,2016,27（5）: 1 427 -1 436.]   
+[17］韩文霆,张立元,张海鑫,等.基于无人机遥感与面向对象法的 田间渠系分布信息提取[J].农业机械学报,2017,48（3）：205 - 214.[Han Wenting,Zhang Liyuan,Zhang Haixin,et al.Extraction method of sublateral canal dietribution information based on UAV remote sensing[J]. Transactions of the Chinese Society for Agricultural Machinery,2017,48（3）:205-214.]   
+[18］陶冶,吴甘霖,刘耀斌,等.古尔班通古特沙漠典型灌木群落土 壤化学计量特征及其影响因素[J].中国沙漠,2017,37（2）： 305-314.[Tao Ye,Wu Ganlin,Liu Yaobin,et al.Soil stoichiometry and their influencing factors in typical shrub communities in the Gurbantunggut desert, China[J]. Journal of Desert Research, 2017,37(2) :305 -314.]   
+[19］石亚飞,张志山,黄磊,等.古尔班通古特沙漠半固定沙丘植物 群落物种组成和种群结构[J].应用生态学报,2016,27（4）： 1 024-1 O30.[Shi Yafei,Zhang Zhishan,Huang Lei,et al. Species composition and population structure of plant communities on semifixed dunes of the Gurbantongut desert,China[J].Chiese Journal of Applied Ecology,2016,27(4）:1 024-1030.]   
+[20］吴楠,张元明,潘惠霞.古尔班通古特沙漠地衣结皮对放牧踩 踏干扰的小尺度响应[J].干旱区研究,2012,29(6):1032－ 1 038.[Wu Nan,Zhang Yuanming,Pan Huixia. Response of fungialgae symbiotic lichen crusts to grazed livestock disturbance in the Gurbantunggut desert[J].Arid Zone Research,2012,29（6）: 1032 -1 038.]   
+[21］王红玲,张元明.古尔班通古特沙漠生物结皮中藓类植物形态 解剖特征[J].干旱区研究,2008,25（3）：363－369.[Wang Hongling,Zhang Yuanming.Study on the morphological and anatomical structuresofdesert mosses inbioticcrustintheGurbantonggut
+
+desert[J].Arid Zone Research,2008,25(3) :363-369.]
+
+[22]王新军，赵成义，杨瑞红，等.古尔班通古特沙漠南缘荒漠化过 程演变的景观格局特征分析[J].干旱区地理,2015,38（6）：   
+1 213-1 225.[Wang Xinjun,Zhao Chenyi,Yang Ruihong,et al. Landscape pattern characteristics of desertification evolution in southern Gurbantunggut desert[J].Arid Land Geography,2O15,38 (6):1 213 -1 225.) [23]买买提·沙吾提，塔西甫拉提·特依拜，丁建丽，等.面向对象 的干旱区盐渍地信息提取方法研究[J].中国沙漠,2013,33 (5）:1 586-1 592.[Mamat Sawut,Tashpolat Tiyip,Ding Jianli, et al.Object-oriented information extraction method for soil salinization in arid area[J]. Journal of Desert Research,2O13,33（5）：   
+1 586-1592.] [24]黄慧萍.面向对象影像分析中的尺度问题研究[D].北京：中 国科学院研究生院,2003.［Huang Huiping.Scale Issues in Object-oriented Image Analysis[D].Beijing:Graduate University of Chinese Academy of Sciences,2003.] [25]鲁恒,付萧,李龙国,等.最优分割尺度支持下高分遥感影像水 土资源信息分类[J].农业机械学报，2016，47（9）：327-333. [Lu Heng,Fu Xiao,Li Longguo,et al. Soil and water resources information clasification in high resolution images with optimal segmentation scale[J].Transactions of the Chinese Society for Agricultural Machinery,2016,47(9) :327-333.] [26]李晓靖，彭道黎，王海宾.基于最优尺度和规则的高分辨率影 像分类研究[J].测绘工程,2017,26(9):14-22.[Li Xiaojing, Peng Daoli,Wang Haibin.Classification of high-resolution image based on optimal scale and rule[J].Engineering of Surveying and Mapping,2017,26(9):14-22.]
+
+[27」李朝奎，方文,董小姣.面向对象和规则的高分辨率影像分类
+
+研究[J].测绘通报,2015（9）:9-13,35.[Li Chaokui,Fang Wen,Dong Xiaojiao.Research on the classification of high resolution image based on object-oriented and class rule[J].Bulletin of Surveying and Mapping,2015(9）:9-13,35.]   
+[28］庄伟伟,张元明.生物结皮对荒漠草本植物群落结构的影响 [J].干旱区研究,2017,34（6）:1-9.[ZhangWeiwei,Zhang Yuanming.Effect of soil microbiotic crust on plant community in the Gurbantunggut desert[J].Arid Zone Research,2O17,34(6）:1 -9.]   
+[29］郑毅,武法东,刘艳芳.一种面向对象分类的特征分析方法 [J].地理与地理信息科学,2010,26(2)：19-22,114.[Zhen Yi,Wu Fadong,Liu Yanfang.A feature analysis approach for object-oriented classification[J].Geography and Geo-Information Science,2010,26(2):19-22,114.]   
+[30]汪小钦，王苗苗，王绍强,等.基于可见光波段无人机遥感的植 被信息提取[J].农业工程学报，2015,31（5）：152－159. [Wang Xiaoqin,Wang Miaomiao,Wang Shaoqiang,et al.Extraction of vegetation information from visible unmanned aerialvehicle images[J].Transactions of the Chinese Society of Agricultural Engineering,2015,31（5）:152-159.]   
+[31]Peng Haitao,Ke Changqing. Study on object-oriented remote sensing image classification based on multi-levels segmentation[J]. Remote Sensing Technology and Application,2010,25（1）:149 - 154.   
+[32]张华，张改改,吴睿.基于GF-1卫星数据的面向对象的民勤 绿洲植被分类研究[J].干旱区地理，2017，40（4）：831-838. [Zhang Hua,Zhang Gaigai,Wu Rui. Object-based vegetable classification based on GF-1 imagery in Minqin oasis[J].Arid Land Geography,2017,40(4):831-838.]
+
+# Information Extraction of Desert Surface Types Based on UAV Image
+
+PENG Jia-yi $^ { 1 , 2 }$ ，WANG Xin-jun1²2，ZHU Lei $^ { 1 , 2 }$ ， ZHAO Chen-yi $^ 3$ ， XU Xiao-long $^ { 1 , 2 }$ (1. CollegeofGrassandand Environmental Sciences,Xinjiang Agricultural University,Urumqi 830o52,Xinjiang,China; 2.Xinjiang Key Laboratory of Soil and Plant Ecological Processes,Urumqi 830o52,Xinjiang,China; 3.Xinjiang Institute of Ecology and Geography,Chinese Academyof Sciences,Urumqi 830011,Xinjiang,China)
+
+Abstract：Based on the images of unmanned aerial vehicle（UAV）,in this study the surface type information of the Gurbantunggut Desert was extracted,and the object-oriented multi-scale segmentation was used to extract the information of the sample plots of surface types from the spectrum,shape,texture and vegetation index.The results showed that : $\textcircled{1}$ The best segmentation scale for the different desert surface types was different; $\textcircled{2}$ The features of surfacetypes with diffrent desertification levels were similarandcould notbedistinguished by singlecharacteristics; $\textcircled{3}$ Compared with the pixel-based maximum likelihood method,the object-oriented multi-scale segmentation method was improved significantly.The overall clasificationaccuracies of the object-oriented slightly,moderately and seriously desertified areas were $9 3 . 0 0 \%$ · $9 1 . 8 3 \%$ and $9 3 . 5 0 \%$ respectively,and they were $1 0 . 3 4 \%$ ， $1 1 . 8 6 \%$ （204号 and $1 2 . 5 0 \%$ higher than those of the pixel-based maximum likelihood method.The results revealed that the objectoriented multi-scale segmentation method could be used to extract the desert surface type information with high accuracy for the UAV visible image.
+
+Key Words:UAV image；desert；land surface type；information extraction； the Gurbantonggut desert

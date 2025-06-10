@@ -1,0 +1,424 @@
+# 脱贫内生动力机制的质性探究
+
+傅安国¹²张再生²郑剑虹’岳童林肇宏」吴娜’黄希庭4  
+(海南大学管理学院，海口570228)(天津大学管理与经济学部，天津 300072)(岭南师范学院心理学系  
+暨广东省特殊儿童发展与教育重点实验室，湛江 524048)(4西南大学，心理学与社会发展研究中心，心理学部，重庆 400715)(海南经贸职业技术学院，571127)
+
+摘要内生动力是世代贫困个体得以脱贫的核心心理资源。当前，对脱贫的内生动力仍然缺乏系统性的解释框架。文章以脱贫的内生动力为切入点，基于内生和外生融合性视角，采用基于深度访谈的扎根理论方法，运用强度抽样的策略，以海南岛某深度贫困村的成功脱贫个体(7人)、世代贫困个体(10人)及扶贫干部(4人)为研究对象，构建出世代贫困家庭的整体内生动力资源枯竭模型。研究表明：1)以消极的价值观、消极的自我观和被动脱贫的行为倾向为主体的“三因素洋葱模型”是世代贫困个体的消极内在驱动力；2)作为社会心理动力的控制感缺失是引致世代贫困个体内生动力匮乏的重要诱因，而贫困个体缺少市场理性及扶贫的运动式治理可能是导致控制感缺失的外部肇因；3)家长亲职能力在家庭内部建设能力培植子代内生动力的过程中起着中间作用，即家庭内部建设能力可促进家长亲职能力的提高，进而激发子代脱贫的内生动力。
+
+关键词脱贫内生动力；整体内生动力资源枯竭模型；精准心理扶贫；世代贫困；扎根理论
+
+分类号 B849:C91
+
+# 1问题提出
+
+贫困是人类社会一直存在的普遍现象，无论是什么年代、文化和地域都有贫困的问题。而不同年代、文化和地域都有学者和政治家致力于思考如何消除贫困。其中，对贫困生成机制的探究既有助于公众客观理性地认识贫困现象，又有助于政府与社会选择高效的扶贫政策及路径，进而既影响着公共行动的取向与公共政策的制定，亦影响着公共行动及公共政策的落实。
+
+近六十年来，西方关于贫困生成机制的研究形成了文化致贫、结构致贫及心理与行为致贫三种解释视角。文化致贫的视角认为长期处于贫困状态的群体会形成所谓的“贫困文化”(culture of poverty)(Lewis,1966)，它表现为脱离主流社会文化的习惯、风俗、生活风格、行为方式、价值观念和心理定势等非物质形式(Small,Harding,&Lamont,2010)。贫困文化不仅形塑着在贫困中长大的人的基本人格和特征，而且还会造成贫困的弱势累积和世代传递(Small et al.,2010;Evans,2016)。从本质来看，贫困文化理论持特质论的观点，忽视了穷人为摆脱贫困而付出的努力，不利于贫困治理(Bertrand,Mullainathan,& Shafir,2006；徐富明等，2017)。结构致贫的视角从经济、政治等社会结构角度看待贫困，认为贫困源于不合理的社会制度安排与社会结构失调，并非是由个人的无能与懒惰造成的，反贫困只有着眼于社会体制、社会政策、市场条件、宏观环境的调整才能取得持续性的成效(Moore,&Hossain,2005)。但显而易见的是，社会结构的调整并不能消除所有的贫困，无论何种制度都有贫穷的问题。心理与行为致贫的视角指出，注意力、认知能力和意志力等有限的心理资源损耗会诱发个体的非理性决策和行为，使其陷入贫困而难以自拔，然而涉及贫困的心理因素很难简单区分出前因或后果(Mani,Mullainathan，Shafir,& Zhao,2O13；Shah,Mullainathan,& Shafir,2012;
+
+Jachimowicz,Chafik,Munrat,Prabhu,&Weber,2017；徐富明等，2017)，如在跨期选择中贫困导致短视的选择，短视又进一步加深贫困，进而形成恶性循环(Haushofer,&Fehr,2014；傅安国，吴娜，黄希庭，2019a)。更有研究者在一篇回顾性综述中指出(Adamkovic&Martoncik,2017)，贫穷的原因和后果之间可能存在循环关系，贫穷的后果(例如，消极情绪、压力或认知功能障碍)同时又作为贫穷的触发因素，进而造成一个贫穷循环，又称为贫困陷阱。毫无疑问的是，忽视了心理因素，贫困治理往往事倍功半。
+
+纵观文献，国外不同领域的学者从三个不同的视角对贫困的生成机制做了较为深入的探究，前两个视角是从外部因素切入来探究贫困问题，倾向于将贫困看作是社会问题；后一个视角是基于贫困主体的内部因素来研究贫困问题，倾向于将贫困归结为个人问题。但本研究认为，个体的贫困既受到外部资源匮乏的限制，又受到心理资源贫乏的影响，是外部资源与心理资源共同影响的结果(傅安国，黄希庭，2018；高考，年旻，2016)。只有将外部因素和心理因素整合起来，激发贫困人口的内生动力，从系统的角度构建长效脱贫机制，扶贫才可能事半功倍(傅安国，黄希庭，2018)。将文化、结构和心理与行为完全割裂开来看待贫困是不合适的，社会文化、社会结构与个体的心理及行为三者之间是相互影响的；况且，三个视角的理论均源于西方，用来分析我国社会的贫困问题是否完全适用还有待实证检验。
+
+备受国际社会认可的是，中国改革开放40多年来，减贫事业取得了举世瞩目的阶段性成就(汪三贵，2018)，但是关于中国脱贫成就的心理学故事却鲜有文献报道；且国内学界对贫困研究大多强调制度建设、项目运行、环境改善等外力推动的作用(郭熙保，周强，2016;贾俊雪，秦聪，刘勇政，2017；李小云，徐进，于乐荣，2018)，较少关注贫困发生与治理的心理动力机制。这恰恰忽略了贫困个体积极主动的“行动者”地位，忽视了外因是通过内因起作用的。正如习近平在2015减贫与发展高层论坛上指出，扶贫要“既扶贫又扶志，调动扶贫对象的积极性，提高其发展能力，发挥其主体作用。”《2015 年世界发展报告》更是明确指出，贫困不应仅从物质资源的匮乏上找原因，还需要从贫困主体的主观思维上加以认识(世界银行，2015)。扶贫工作是一项涉及内外资源配备的系统性工程，除了关注外部资源外，还要在内部心理动力上下功夫。“扶贫不扶志，到头一场空”。因而，贫困主体内部的心理动力因素不可忽视。从过去的贫困研究与扶贫实践来看，这恰恰是国内心理学界所忽视的。
+
+与学界反应不同的是，国家政策及领导层面均非常重视贫困人口的主体地位及其心理因素，中共中央、国务院及相关部门在印发的关于脱贫攻坚与乡村振兴的政策性文件中均频繁强调“激发贫困人口内生动力”。但是“内生动力”究竟为何？如何方能激发？此类宏观层面的政策文件均未给出明确的概念界定，更无具体的激发路径落地。本研究在《中国共产党思想理论资源数据库》中以"内生动力"和"脱贫"为主题词进行检索(检索日期为 2019/07/29)，共查询到 222条文献，其中唯一对脱贫“内生动力”描述较为详细的文字为：“加大内生动力培育力度。我常讲，扶贫要同扶智、扶志结合起来。智和志就是内力、内因…现在，一些地方出现干部作用发挥有余、群众作用发挥不足现象，‘干部干，群众看’、‘干部着急，群众不急’。一些贫困群众‘等、靠、要’思想严重，‘靠着墻根晒太阳，等着别人送小康'”(习近平，2017)。据此，结合国内学者前期的研究(傅安国，黄希庭，2018；傅安国等，2019a;傅安国，吴娜，黄希庭，2019b)，本研究倾向于认为中国扶贫情境中的“内生动力(endogenouspower)”不等同于西方心理学语境中的“内在动机(intrinsic motivation)”，它可能是在核心价值观(core value system)的指引下，自我通过个人奋斗(personal striving)追求某种独特目标的行为倾向。故而，脱贫“内生动力”的概念尚未厘清，更遑论相关心理机制的探究，这就使得相关的实证研究无从谈起，并最终导致在扶贫的对策研究中忽视了心理因素。
+
+为此，本研究力图突破既有研究的成规，以某深度贫困村为研究场域，采用基于深度访谈的扎根理论，揭示导致个体贫困的内部心理因素(内生视角)和外部关键诱因(外生视角)，并以脱贫的内生动力为突破点，以期建构出家庭贫困演化的整体心理结构模型，进而为贫困的发生、发展及代际传递提供契合的命题假设及理论解释框架，为国家提高精准扶贫工作绩效并丰富减贫实践提供理论借鉴和政策参考。同时，本研究尝试回答如下两个问题：（1）世代贫困家庭的个体经由什么样的心理历程发展到当下的贫困状态？（2）匮乏的内生动力(核心心理资源)和外部资源要素是如何相互作用，形成稳定的致贫心理机制的？
+
+# 2 方法
+
+# 2.1 研究取样
+
+本研究基于我们从2017年10月至2018年10月在海南省B县N村的实地蹲点调研，在此期间，第一作者的身份是对口帮扶单位责任人，协助第一书记开展工作。本研究的访谈对象主要来自未脱贫的世代贫困家庭、已脱贫贫困家庭及村级扶贫群体(第一书记、村“两委”、帮扶责任人、扶贫工作队)。根据理论取样的原则，采用强度抽样的策略，选取信息强度和变异量大的典型个案，样本的取舍标准乃是该样本能否(或预期能否)提供新的洞见，以便促成理论的建构或深化(Flick,2002/2007；莱昂斯，考利，2007/2010)。研究之初暂不拟定访谈的人数，以资料饱和为原则，也就是访谈的数据达到类别间的稳定一致性(consistency)、理论现象的变异性(variation)与饱和性(saturation)，以及理论的深入性(depth of focus)时，便停止访谈(刘惠琴，2000)。为保证研究的信度与效度，本文选取对照案例(已脱贫个体与未脱贫个体)进行访谈，以便材料互相印证。最后研究一共抽取了21名(男10人，女11人)访谈对象，均来自不同的家庭，年龄从21岁到73岁(20\~30岁3人;31\~40岁6人;41\~50岁4人;51\~60岁 5人;60 岁以上3人)；身份类别涵盖世代贫困村民(10人)、已脱贫村民(7人)、第一书记(1人)、村干部(2人)、扶贫工作队干部(1人)等。进行访谈的研究者能熟练运用当地方言进行交流。
+
+# 2.2 资料搜集
+
+在深度访谈之前，研究者抽取了5位贫困村民进行预访谈，为正式访谈的提纲设计提供基础。预访谈围绕“脱贫内生动力”这一核心问题，邀请贫困村民根据个人的想法自由回答，报告自己对家庭脱贫的认识、家庭成员曾付出的努力，以及对他人在外力帮扶下成功脱贫的内因分析。正式访谈的时间安排在研究者进村蹲点扶贫期间，定期或不定期地进行约访，以受访者有大段空闲且愿意配合为宜，每次访谈约持续1\~3小时。为获取尽可能丰富完备的资料，每个受访者约需接受3\~5次访谈，访谈地点均为受访者家中，环境安静且不受外界干扰。正式访谈提纲主要包含四个层面：家庭致贫的原因、贫困个体或脱贫个体的特点、贫困者或脱贫者的行为、贫困对下一代的影响，典型问题如“您认为一个人要想脱贫，他应该怎么样做？”“您认为一个家庭能够脱贫(或难以脱贫)，家庭成员起到什么样的影响或作用？”“还不能脱贫的人，您认为他们要做出哪些改变？”等。在访谈过程中，当从访谈对象处所获取的信息达到饱和时便结束访谈过程。研究者在访谈结束后24小时内将所访谈的录音转化为逐字稿。
+
+# 2.3 资料分析
+
+# 2.3.1 基于扎根理论的资料分析过程
+
+本研究基于扎根研究运用理论编码来分析研究过程中搜集到的资料，以期进一步发展理论。在此过程中，资料的分析与资料的搜集或取样是分不开的，只有将资料予以分析后，方能决定哪些资料或个案该做进一步的整合、以及采用何种方法搜集资料。考虑到文本才是真正的实证材料，亦是发展理论的最终基础所在，故文本分析过程采用回旋性研究模式(有别于线性逻辑研究)进行(Flick,2002/2007)。在文本分析过程中，研究者必须随时比较并反思整个研究的过程，使某一步骤中的编码、范畴、理论均照顾到其他个案与资料的各个层面。分析过程包括开放式编码、主轴编码和选择性编码三个程序(见图1)。
+
+# 2.3.2 QSRNvivo11.0质性分析软件的应用
+
+借助QSRNvivo11.0(简称N11)质性分析软件对资料进行编辑、编码和统计构念(construct)频数等操作。该软件利用导入的中文访谈文本，将非数值性的、无结构的资料进行索引和搜寻以及理论化，进而有助于研究者编码与搜寻以及建立索引、逻辑关系和理论等(刘世闵，李志伟，2017；张秀敏，杨莉萍，2018)。需要说明的是，N11软件(任何质性分析软件均如此)与统计分析软件有着本质的不同，它无法将质性分析自动化，亦不能取代质性研究的所有过程，使用软件的质性研究者才是真正从事研究(如编码工作)的主导者。
+
+![](images/ad26bc80ec4acd8450fc29e944b81e4418b411a360ed1bfe7056aff668150b3c.jpg)  
+图1扎根理论的回旋性研究流程图
+
+# 2.3.3 登录与开放式编码
+
+对每一个受访者设置相应的编号(如PK3表示第3号贫困个体，TP5表示第5号已脱贫个体，FP2表示第2号扶贫干部)，再使用N11软件对导入资料中的各个词语、句子及段落的内容进行认真斟酌。首先，以“脱贫内生动力”为问题核心，在对比个案资料中搜索反复出现的意义单元；其次，将文本资料按意义的单元(词语、句子的部分或全部)拆解成不同的部分或节点；再次，将这些拆解过的节点进行分门别类，以使每一个节点均有相关的注解与相属的初始概念(即登录码号)，这些码号是最基础的分析单元 (Flick,2002/2007；莱昂斯，考利，2007/2010)(详见附录1)。
+
+# 2.3.4类属分析：主轴编码与选择性编码
+
+运用 N11软件对资料进行类属分析，主要进行主轴编码(二级编码)和选择性编码(三级编码)。研究者根据开放式编码所建立的编码系统，运用N11软件围绕核心问题对开放式编码中获取的各个码号再一次提炼、调整、归类，将意义相近或相似的部分进行合并，并对码号之间的内在联系进行澄清与梳理(Flick,2002/2007；莱昂斯，考利，2007/2010)。由于在开放式编码中所抽取的码号是不同意义单元的罗列，主轴编码主要是将开放式编码所分别命名的概念范畴进行聚集，顺着向度与属性的直线，将主范畴及次范畴进行相关性联结，通过比较不同范畴，使资料的各部分构成有机关联的整体(吴继霞，黄希庭,2012；张秀敏，杨莉萍，2018)。在进行相关性联结的过程中，主要通过同类比较、异类比较、横向比较和纵向比较的方法进行。
+
+选择性编码是在更抽象的层次上处理主轴编码的资料，其目的在于聚拢已发展的范畴(developed categories)，并通过连结这些副范畴(subcategories)来说明主范畴(majorcategory)，型塑各个个案的故事(story ofthe case)(Flick,2002/2007；李涛，刘礼艳，刘电芝，2015)。研究者需要同时在多个重要的现象间衡量与决定，最后生成若干主范畴及与其相属的副范畴，并使用编码范式—一因果条件、现象、语境、中间作用、互动策和结果等，来继续发展主范畴的特征与维度，并连接主范畴与其他范畴。
+
+# 2.4 理论模型构建
+
+在扎根研究的最后阶段，对主范畴的仔细核查会获得具有主要解释效力的一个核心范畴(core category)。研究者采用自下而上的方式，通过归纳分析，逐步建构出该理论模型(Flick,
+
+2002/2007；张秀敏，杨莉萍，2018)。具体经过如下四个步骤：第一，在选择性(三级)编码的基础上进一步探索核心范畴或主题。在选择性编码所建立的树状节点的基础上进一步分析不同节点(范畴)之间的关系，最终发展出个体脱贫“内生动力”及其关键外因的核心范畴。第二，根据资料的特性初步建立理论模型。根据第一步得出的结果，将选择性编码产生的各个树状节点分别还原到贫困受访者的原话中进行分析，并根据对照案例的两极表现，发展出理论模型的核心范畴。第三，将初步建立的框架再次下放到原始资料中，在理论模型与资料之间进行回旋性比较分析，以验证和修整理论模型。第四，建立具有内在一致性的理论体系。基于前三个步骤整合脱贫内生动力的内因及其关键外因，建构最终的理论体系(详见附录 2)。
+
+# 2.5 信度和效度检验
+
+# 2.5.1 信度检验
+
+根据著名质性研究学者Flick(2002/2007)的建议，本研究主要从两方面来提高资料与分析的信度：其一，在提高访谈资料信度方面，本研究加强训练访谈人员，并在预访谈或首次访谈之后，检核访谈内容和提纲。此外，通过持续比较不同来源资料(贫困者、脱贫者与扶贫干部)中的相同意义单元，形成资料的三角校正。其二，在提升资料分析的信度方面，本研究采用的做法是，检视编码所发展出来的各项范畴是否可以用来分析其他段落或受访者的资料，以及相关分析在对照案例(贫困者和脱贫者)中是否能得到正反资料的支撑，以提升分析的信度(详见附录3)。
+
+# 2.5.2效度检验
+
+主要采用参与者检验和非参与者检验。对所有检验者的反馈意见进行汇总，分别进行细致的审核与处理。若反馈与研究结果不一致或各反馈者意见不同,研究者则返回到原始资料，进行个案间的持续比较和反思。如果研究结果的生成有充分的依据，则继续保留该研究结果，若证据不足则根据建议修订原有结果。无论是否修订，均根据心理学相关理论和研究规范向检验者做出充分的解释，以期达成共识。最终，不同来源的检验者从不同的视角和层面来帮助提高研究结果的效度。另外，本研究还通过一些行之有效的方法来规避研究取样、研究者身份、资料搜集和分析过程等方面的效度风险(详见附录3)。
+
+# 3 结果
+
+# 3.1内生动力及其关键外因的构成 (各级编码的结果)
+
+首先，本研究关于贫困的心理因素共涉及698个参考点(即意义单元)，在此基础上抽取出 28 个相对独立的初始概念(即码号)。此外，本研究在对访谈资料进行多次检视的过程中发现，有若干重要的外界因素影响着世代贫困群体的内生动力，按照上述方法我们共抽象出18 个相对独立的初始概念(其中有11个初始概念是已脱贫个体所特有的,它们极有可能就是阻断贫困传递的关键因素)，涉及302个参考点。然后，区分内外因素，将每个码号依据所包含的参考点数多少依序纳入编码系统(更详尽的编码示例，见附录 1)。
+
+其次，围绕“脱贫内生动力”,通过比较将28个码号归类萃取为10个更为精炼的码号(见表1)；围绕“制约内生动力的关键外因”，通过比较将18个码号归类萃取为7个更为精炼的码号(见表2)。
+
+表1脱贫内生动力的主轴(二级)编码节点分布  
+
+<html><body><table><tr><td>序号</td><td>开放式编码节点</td><td>参考点数</td><td>主轴编码(范畴)</td><td>序号</td><td>开放式编码节点</td><td>参考点数</td><td>主轴编码(范畴)</td></tr><tr><td>1</td><td>命运观念</td><td>22</td><td rowspan="3">人生价值观</td><td>15</td><td>自我激励</td><td>22</td><td rowspan="3">自强动力</td></tr><tr><td>2</td><td>生活观念</td><td>31</td><td>16</td><td>独立自主性</td><td>30</td></tr><tr><td>3</td><td>处世态度</td><td>26</td><td>17 生活任务</td><td>18</td><td></td></tr><tr><td>4</td><td>贫富观念</td><td>22</td><td rowspan="2">劳动价值观</td><td>18</td><td>目标设定</td><td>21</td><td rowspan="2">脱贫策略</td></tr><tr><td>5</td><td>劳动观念</td><td>37</td><td>19</td><td>个人规划</td><td>24</td></tr></table></body></html>
+
+<html><body><table><tr><td>6 时间观念</td><td>18</td><td>20</td><td>投资理财</td><td>30</td></tr><tr><td>7 婚姻家庭观念</td><td>36</td><td>家庭价值观</td><td>21 文化水平</td><td>27</td></tr><tr><td>8</td><td>生育观念 23</td><td></td><td>22 劳动工作能力</td><td>36</td></tr><tr><td>9</td><td>经验开放性 18</td><td>观念开放性</td><td>23 观察学习能力</td><td>19 脱贫素质</td></tr><tr><td>10</td><td>接纳新事物 20</td><td></td><td>24 脱贫知识与技能</td><td>28</td></tr><tr><td>11</td><td>自我认知 25</td><td>自我概念</td><td>25 意志品质</td><td>27</td></tr><tr><td>12</td><td>自我评价 21</td><td></td><td>26 社会知觉</td><td>16</td></tr><tr><td>13 自我管理</td><td>20</td><td></td><td>27 社交技巧</td><td>23 获取支持</td></tr><tr><td>14 情绪调控</td><td>34</td><td>自我调节</td><td>28 人际关系</td><td>24</td></tr><tr><td>合计</td><td>353</td><td></td><td>合计</td><td>345</td></tr></table></body></html>
+
+表2关键外因的主轴(二级)编码节点分布  
+
+<html><body><table><tr><td>序号</td><td>开放式编码节点</td><td>参考点数</td><td>主轴编码(范畴)</td><td>序号</td><td>开放式编码节点</td><td>参考点数</td><td>主轴编码(范畴)</td></tr><tr><td>1</td><td>被动退缩</td><td>19</td><td rowspan="4">控制感缺失</td><td>10</td><td>父母人力资本</td><td>18 人力状况</td><td rowspan="2"></td></tr><tr><td>2</td><td>防御性</td><td>20</td><td>11</td><td>子女人力储备</td><td>11</td></tr><tr><td>3</td><td>及时行乐</td><td>16</td><td>12</td><td>家庭关系和睦</td><td>17</td><td rowspan="2">关系维护</td></tr><tr><td>4</td><td>艺术性表达</td><td>19</td><td>13</td><td>家族亲戚支持</td><td>16</td></tr><tr><td>5</td><td>精灵崇拜</td><td>14</td><td></td><td>14</td><td>生活重视</td><td>23</td><td rowspan="2">给予关注</td></tr><tr><td>6</td><td>祖先崇拜</td><td>9</td><td>神灵庇护</td><td>15</td><td>教育引导</td><td>19</td></tr><tr><td>7</td><td>求助鬼神</td><td>15</td><td></td><td>16</td><td>亲情支持</td><td>16</td><td rowspan="2"></td></tr><tr><td>8</td><td>设法减缓困境</td><td>16</td><td></td><td>17</td><td>责任担当</td><td>17</td></tr><tr><td>9</td><td>努力开源节流</td><td>17</td><td>经济能力</td><td>18</td><td>情感投入</td><td>20</td><td rowspan="2">实质陪伴</td></tr><tr><td></td><td>合计</td><td>145</td><td></td><td></td><td>合计</td><td>157</td></tr></table></body></html>
+
+最后，在本研究中，通过对照案例的比较分析，内生动力共构建出价值观、自我观、脱贫的行为倾向3个主范畴，关键外因共形成了脱贫情境中的控制感、家庭内部建设能力、家长亲职能力3个主范畴(见表3、表4)。
+
+表3内生动力选择性编码形成的主范畴及副范畴  
+
+<html><body><table><tr><td>主范畴</td><td>副范畴</td><td>关系的内涵</td></tr><tr><td rowspan="4">价值观</td><td>人生价值观</td><td>包括命运观念、生活观念、处世态度三个维度。贫困者表现为：接受命运、 安于现状、得过且过、享乐主义、畏难被动；脱贫者表现为：不认命、未来 取向、致力于改变后代的命运、勤奋进取、主动把握脱贫机会</td></tr><tr><td>劳动价值观</td><td>包括贫富观念、劳动观念、时间观念三个维度。贫困者表现：认为富恶穷善、 幻想不劳而获、懒散应付、不守时惜时；脱贫者表现：认为贫穷生万恶、投 机不能脱贫、勤快才能致富、珍惜时间</td></tr><tr><td>家庭价值观</td><td>包括婚姻家庭观念和生育观念两个维度。贫困者表现：家庭不稳定、不关注 孩子教育、早婚早育、要生儿子、缺乏育儿知识；脱贫者表现：家庭和睦、 关注孩子教育、有计划生育孩子，学习科学育儿知识、不嫌弃女孩</td></tr><tr><td>观念开放性</td><td>包括经验开放与接纳新事物两个维度。贫困者表现：因循守旧、难容异己、 安贫守贱、胆小退缩；脱贫者表现：思路开阔、头脑开放、尊重并愿意考虑 不同的意见和看法、乐于接受新的生活模式</td></tr><tr><td rowspan="2">自我观</td><td>自我概念</td><td>包括自我认知和自我评价两个维度。贫困者表现：自卑且好面子、易自我膨 胀、消极看待自己、自我效能感低下；脱贫者表现：自立、自爱、不讲死面 子、善于反省、有较强的自我效能感、能客观认识自身的优点和不足 包括自我管理与情绪调控两个维度。贫困者表现：纵欲的、贪睡的、不自律、</td></tr><tr><td>自我调节</td><td>知错不改、好勇斗狠、行为易受情绪支配；脱贫者表现：自省的、自律的、</td></tr><tr><td rowspan="2"></td><td>自强动力</td><td>早起的、冷静示弱、乐观积极、行为稳重理性 包括自我激励和独立自主性两个维度。贫困者表现：自悲的、自我消极暗示、</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2"></td><td>不敢担当、依赖他人、自暴自弃；脱贫者表现：自强的、自我积极暗示、不 等不靠、勤奋自勉、努力改善现状</td></tr><tr><td rowspan="3">脱贫的行 为倾向</td><td>脱贫策略</td><td>包括生活任务、目标设定、个人规划和投资理财四个维度。贫困者表现：懒 散安逸、没有目标、没有规划、投机盲从、关注眼前小利、不开辟创收渠道； 脱贫者表现：善于实干、积极进取、善于规划、不投机不盲从、重视关键利 益和长期利益、会投资理财</td></tr><tr><td>脱贫素质</td><td>包括文化水平、劳动工作能力、观察学习能力、脱贫知识与技能和意志品质 五个维度。贫困者表现：愚昧无知、不会普通话、劳动工作能力低下、观察 学习能力差、缺乏脱贫知识与技能、不懂投资理财、意志薄弱；脱贫者表现： 具初中以上文化水平、普通话沟通顺畅、劳动工作能力强、观察学习能力强、 掌握脱贫知识与技能、意志坚强、设法创收</td></tr><tr><td>获取支持</td><td>包括社会知觉、社交技巧与人际关系三个维度。贫困者表现：糊涂多疑、势 利嫉妒、无支持性关系、不擅沟通、人际关系不良；脱贫者表现：明白的、 信任的、寻求支持、擅长沟通、人际和谐</td></tr></table></body></html>
+
+表4关键外因选择性编码形成的主范畴及副范畴  
+
+<html><body><table><tr><td>主范畴</td><td>副范畴</td><td>关系的内涵</td></tr><tr><td rowspan="3">脱贫情 境中的 控制感</td><td>控制感缺 失</td><td>包括被动退缩、防御性、及时行乐和艺术性表达四个维度：做事不主动、不敢尝试 新事物、防卫戒备心强、对羞辱很敏感、劳动生活中总是伴随歌舞绘画等艺术形式</td></tr><tr><td>神灵庇护</td><td>包图精精拜植物菌腾和拜鬼神维度，村里的原始宗教体系包</td></tr><tr><td>经济能力</td><td>指家庭的财富或收入：设法获取资源减缓家庭生活的困境、努力开源节流增加家庭</td></tr><tr><td rowspan="3">家庭内 部建设 能力</td><td></td><td>收入 家庭主要劳力及其教育水平、健康状况等人力资本，让子女接受教育以储备人力资</td></tr><tr><td>人力状况 关系维护</td><td>本</td></tr><tr><td>给予关注</td><td>家庭和睦、各尽其责、家族亲戚强有力的帮扶 对子女生长营养上的重视、对子女学习和生活方面的教育引导、亲人为孩子提供情</td></tr><tr><td rowspan="2">家长亲 职能力</td><td></td><td>感支持</td></tr><tr><td></td><td>实质陪伴为人父母的责任担当、承担家长的教养责任、投入情感陪伴子女</td></tr></table></body></html>
+
+# 3.2世代贫困个体内生动力匮乏的心理机制：“三因素洋葱模型'
+
+本研究在对照案例(贫困者与脱贫者)比较分析的基础上，将扎根研究所建构的个体脱贫内生动力的核心范畴界定为“贫困个体所具备的价值观、自我观和脱贫行为倾向这三要素的积极方面的总和”，据此认为贫困个体内生动力贫乏是造成家庭世代贫困的一个重要成因(内因)，主要表现在以下三个方面(见图2，典型访谈文本详见附录 4):
+
+其一，价值观念问题(内生动力的核心要素)，主要包括人生价值观、劳动价值观、家庭价值观和观念开放性等4个维度。价值观作为人格的信念乃至信仰系统处于人格的最高层面，对人格起着统领作用。它不仅包含认知的范畴，还具有情感和意志的功能，并对动机有导向作用，亦即，只有那些经过价值判断且被认可的信念，才能转化为行为的动机，并以此为目标引导人们的行为(黄希庭，郑涌，2015；郭永玉，2018)。因此，价值观是贫困个体行动的动力，为其自认为正确的行为提供理由支持，决定着贫困个体选择怎样的人生理想、生活方式和自我态度来度过他们的一生；价值观浸透于整个人格之中，是在个体脱贫的过程中，支配其理想、信念、态度、观点和行为的一种内心尺度。研究发现，安于现状、因循守旧、得过且过、畏难退缩等这些价值观可能就是贫困个体动力不足、裹足不前而难以脱贫的成因。本研究认为价值观处于核心的位置，如果价值观不正确，贫困个体就很难产生积极正向的内生动力。正确的价值观是脱贫致富并获得幸福的源泉。
+
+其二，自我观念问题(内生动力的第二层次)，主要包括自我概念、自我调节和自强动力3个维度。在人格心理学中，自我可谓是人格的核心，因为个体的认知、情感、动机和意志行为都要在自我的统合下发挥作用(郭永玉，2018)。根据个体以怎样的态度来对待自己，大致可以区分出积极的自我观念和消极的自我观念。积极的自我观念是个体不断进取进而脱贫的动力，其中自立、自强、自律、自省和勤奋自勉等特质在个体脱贫的过程中扮演着重要的角色。世代贫困个体看待自己、自己与他人、自己与环境的关系时，其态度常常是负面，他们一般拥有如下消极自我观念：自卑且好面子、自暴自弃、自我膨胀、依赖他人、知错不改、不敢担当等。
+
+其三，脱贫的行为倾向(内生动力的第三层次)，主要包括脱贫策略、脱贫素质和获取支持等3个维度。脱贫的行为倾向，就是为了追求幸福生活而积极脱贫。在追求未来幸福生活的梦想之路上，贫困个体应该具有积极进取、善于规划、善于实干、善于观察学习、寻求支持并重视长期利益等行为倾向，进而成为积极主动的脱贫者。反之，若个体没有目标、没有规划、懒散安逸、投机盲从、意志薄弱、关注眼前小利、缺乏脱贫知识与技能等，就会影响其积极进取，使之成为世代贫困的家庭成员。
+
+![](images/e235eb0becdc48bfed30758d5d374bb33a5ce6538fd3481552f03832beacab78.jpg)  
+图2世代贫困个体内生动力匮乏 (三因素洋葱模型)
+
+贫困者只有具备内生动力三要素的积极方面，才能成为积极的进取者，才可能脱贫奔小康。心理扶贫就是要扶持内生动力三要素的积极方面，使贫困人口焕发积极主动的内生动力，变“要我脱贫”为“我要脱贫”。综上，本研究认为贫困个体所拥有的消极的价值观、消极的自我观和被动脱贫的行为倾向之间相互促进并加强，“三因素洋葱模型”成为家庭世代贫困的心理机制，使得世代贫困魔咒难以破解。
+
+# 3.3世代贫困家庭的整体内生动力资源枯竭模型
+
+本研究所确立的个体脱贫内生动力(个人心理动力)由价值观、自我观、脱贫行为倾向3个主范畴组成，其中价值观是个体核心的驱动力，它与自我观和脱贫行为倾向三者互相影响。本文所确定的关键外因由脱贫情境中的控制感、家庭内部建设能力和家长亲职能力3个主范畴构成，即从脱贫个体中所发现的阻断贫困心理传递的外部的关键因素为家庭内部建设能力与家长亲职能力这两项家庭心理动力，以及脱贫情境中的控制感这一社会心理动力。整合内外动力，本研究所确立的关于世代贫困家庭脱贫内生动力(整体内生动力资源)匮乏的核心范畴为“世代贫困家庭的整体内生动力资源枯竭模型”。
+
+本研究从多个渠道获取的资料中均发现，在脱贫攻坚力量的全力介入下，原有的贫困村落发生了巨大的变化，扶贫干部给他们带来了新的思想、新的生活经验与新的行为模式。已脱贫的群众一般都能较好地适应这种巨变，他们与扶贫力量形成良性的互动，促成以开放、欢迎、配合、支持、接纳为表现的顺应或同化的心路历程；难以脱贫的个体通常对这种剧变感到焦虑，他们在与环境的相互作用中持续体验到一种不可控制感，表现为控制感缺失。控制感缺失就会导致被动、退缩、抗拒等行为的出现，进而产生以封闭、冷漠、排斥、反对、拒绝为表现的抗拒或防御的心路历程，并对新注入的生产方式、公共政策、价值观念等产生强烈的抗拒，这就阻碍了个体脱贫的内生动力。世代贫困家庭尚蕴藏着从弱势累积的循环中摆脱的力量，即来自家庭内部的建设能力和亲职能力两项家庭资本，此类家庭心理动力的效能能够催生家庭内部成员尤其是子代产生积极向上的内生动力。当外部资源出现时，整体内生动力资源(个人心理动力、社会心理动力、家庭心理动力)与外部扶持资源形成合力，使得家庭能够跳出贫困的陷阱。综上，本研究整合内在心理动力和外部的心理动力，提出世代贫困家庭的整体内生动力资源枯竭模型(理论模型建构过程详见附录2)，见图3。
+
+![](images/989e73743d340a5bd3615906d541d655eea58e56dd54e8ef385addc79e583627.jpg)  
+图3世代贫困家庭的整体内生动力资源枯竭模型
+
+# 4讨论
+
+# 4.1个体内生动力的心理机制：“三因素洋葱模型”
+
+本部分回答开篇提出的第一个问题。世代贫困家庭中的个体经由什么样的心理历程发展到当下的贫困状态？基于整体内生动力资源枯竭模型的结果，本研究得出结论一：贫困个体消极的价值观导致消极的自我观，二者共同阻碍主动脱贫的行为倾向，缺乏主动脱贫的行为倾向反过来又会引致消极的自我观，进一步促成消极的价值观，从而这一循环机制形成世代贫困个体的心理机制。
+
+首先，价值观既处于内生动力的核心位置又处于人格的核心地位，是个体区分好坏、益损、美丑、正确与错误，及符合或违背自己意愿的信念系统，它不断引导着人们追求自己的理想，并为自认为正当的行为提供充分的理由，还决定着人们在生活中的各种选择(黄希庭，2014，2017)。从形成和发展的角度来看，价值观是社会文化的产物，是个体在社会化的过程中逐渐形成的具有文化特殊性(culture-specific)的价值观念，已经形成的价值观具有持久性，但也可能在特定条件下改变(黄希庭，2014)。价值观无疑是贫困个体行动的核心动力，贫困个体选择何种人生目标和生活方式都由其价值观决定(傅安国等，2019a，2019b；傅安国，邱林晚，2018)。
+
+有研究发现，父母向孩子传输“公正世界信念”“努力才能改变”的价值观，即相信个人能通过自身努力而取得成功，那么他们的孩子就更有可能摆脱家庭贫困，改变自身的命运(Armstrong,2012)。还有研究指出，在中国的文学、戏剧、影视等大众文化中，穷人一直被赋予积极正面的特征，而富人一直被刻画为消极负面的现象，即“有钱人是坏的，穷人是好的”，这种补偿性刻板印象形成的价值观念一直是根深蒂固的，且非常不利于贫困人口脱贫致富(Fuetal.,2019；傅安国，解智宇，2019)。因而，要揭示贫困个体的心理规律和机制，心理学者就必须要研究他们的价值观。树立了正确的价值观，对未来抱有信心，个体就更倾向于做长远的打算(比如，重视子女教育、看重未来收益)，也就更容易脱贫。
+
+其次，自我观是内生动力的第二层次。自我观是指一个人关于自己，以及自己与他人、与社会的关系的观念系统；它本身又是充满感情的，并以自我同一性为基础(黄希庭，郑涌，2005)。个体需按照与自我观念相一致的方式行动，且自我不仅决定着个体对各种经验的解释，而且还影响着个体对未来的期待(黄希庭，尹天子，2016)。比如，一个自认为能力有限、改变不了贫困现状的个体，他就不可能采取主动脱贫的行动，政府帮扶养的几头猪在一场猪瘟中全死后，他更倾向于解释自己能力不行、改变不了任何东西，脱不了贫正是自己“期待”的结果。自我观念引发与其相一致或自我支持性的期望，并使个体倾向于采用可以导致这种期望得以实现的行为方式(黄希庭，郑涌，2005)。因此，当个体的既有自我观念消极时，每一种经验和期望都会与消极的自我评价及行为联系在一起；若自我观念积极，每一种经验或期望就可能被赋予积极的含义。有了正确价值观的引导，才可以更好地完善个体的人格，形成自爱、自立、自省、自信及自强等积极的自我观念(黄希庭，2017)。
+
+最后，脱贫的行为倾向处于内生动力的第三层次。贫困个体脱贫的基础第一是要拥有脱贫的素质，即具有一定的文化水平、具备观察学习的能力和劳动工作能力、掌握脱贫致富的知识和技能并能持之以恒；第二是要设定脱贫的目标并制定相应的规划，还要有投资理财的眼光；第三是要整合身边的资源，获取周围的人际支持(傅安国，黄希庭，2018)。价值观和自我观就决定着脱贫行为的倾向是否表现出来。
+
+本研究所扎根出来的内生动力理论模型，是三因素(价值观、自我观及脱贫行为倾向)层层嵌套的“洋葱模型”，这一模型亦得到一些研究的支持。Verplanken 和Holland(2002)通过六项实验研究发现，只有当价值观是自我观的核心且被激活时，才会影响个体的行为。例如，当环境价值观是自我概念的核心时，个体才会选择那些对环保有利的消费行为；个体的利他价值观为自我关注的核心时，其表现出更多的捐赠行为。还有研究通过将价值观内化到个体的自我系统中，启动并突出自我，结果发现价值观对行为的影响增强(Tao&Au,2014)。新近的研究通过更系统地探究价值与自我的关系，发现包含在自我概念中的价值观比不包含在自我概念中的价值观更能预测环保行为这种大类别行为(Ehret,2019)。据此本研究初步认为，对个体的人格来说，价值观比自我观处于更内核的位置，自我观相对来说更具有统合功能。同时，从中国情境中的扶贫实践来看，相比社会文化自我模型(sociocultural self model)(尤瑾，杨蕾，商士杰，余诗景，2016)中重视文化系统，内生动力洋葱模型以个体价值观为切入点，更有利于心理扶贫的落地操作。
+
+此外，中国扶贫语境下的“内生动力(endogenous power)”，亦不等同于西方心理学语境中自我决定论(self-determination theory)(张春虎，2019)所指的“内在动机(intrinsicmotivation)”，脱贫内生动力是在核心价值观的指引下，自我通过个人奋斗主动追求脱贫目标的行为倾向。在偏僻闭塞的贫困地区，人们生活方式原始且落后，不少人从未接触外面的世界，亦不认为自身贫困，这种情况下的贫困个体很难产生自主性的动机(正如自我决定论所强调的)，亦难形成现代主流社会文化认可的独立型自我(正如社会文化自我模型所重视的)，比较高效可行的心理扶贫方式是，加强内生动力尤其是积极价值观的开发，因为贫困个体内生动力的三要素是能够培植、开发、测评与干预的。
+
+# 4.2影响个体内生动力的外部肇因及其心理机制
+
+本部分回答开篇的第二个问题：匮乏的内生动力（核心心理资源）和外部资源要素(关键外因)是如何相互作用，形成稳定的致贫心理机制的？下面重点探讨这些问题。
+
+# 4.2.1 脱贫情境中的控制感缺失对内生动力的影响
+
+当前扶贫攻坚阶段投入的巨量资源，给贫困群众的生活带来翻天覆地的变化，但贫困群众能否适应这种变化，其对新注入的价值观念、公共政策和生产方式是否具有控制感？这是研究者首先要考虑到的。控制感是指人们相信自己的选择和行为与相应的结果存在一致性的一种认知状态(蒋明，高定国，2014)，亦即人们认为事件的后果是取决于自身行为的一种信念。控制感是一项重要的心理资源，对自己所处的环境具有控制感是人类的一项基本需求(Rotter,1966)。基于整体内生动力资源枯竭模型，本研究得出结论二：缺少市场理性及脱贫情境中的运动式治理共同引致世代贫困个体控制感缺失，导致被动退缩、艺术性表达、及时行乐与寻求神灵庇护等控制感补偿行为，进而诱发消极的内生动力。
+
+属热带季风气候的海南岛雨水充沛、四季气候不变，草木生长茂盛，“土上插根棍子都能长成树”（扶贫干部语)；N贫困村更是风景如画，恍若世外桃源。长期生活在这一环境中的村民形成了“靠天吃饭”的劳动生产经验，养成顺其自然、安贫乐贱的生活模式。因而，自给自足的贫困群众适应了低收入的自然经济，他们根本就不具备商品经济的意识，在追求效率、讲究竞争的市场经济社会中，表现得非常弱势和被动；由于缺乏市场理性，导致他们毫无发展意识和竞争意识，怯于求新求变，加之沟通不畅，使其控制感受到严重威胁(典型访谈文本见附录4，下同)。
+
+此外，在当下扶贫攻坚决胜阶段的大背景下，省里的扶贫攻坚战略落地到基层政府往往演变为“运动式”扶贫，“轰轰烈烈的场面与实实在在的效果之间存在反差”(国家巡查组反馈语)。贫困的这种“运动式治理”不注重激发内生动力和建立长效机制，而侧重对上级整改目标的应急处理，在治理工作中经常采取简单的“一刀切”办法(王辉，2018)，并且往往朝令夕改，令贫困群众无所适从，丝毫没有控制感。毋庸置疑，在贫困问题普遍累积的背景下，运动式治理是完成减贫任务的高效机制。但导致贫困的根源问题在运动式治理中很难得到解决，在应急性治理结束后，一遇诱因就会出现更加严重的反弹，在下一次应急治理中政府将不得不付出更大的成本；于是反复的运动式治理就会愈演愈烈，不仅政府的能力和信用会遭到质疑(赵旭光，2017；田雄，郑家昊，2016)，而且贫困群众在与环境的相互作用中就会持续体验到一种不可控制感，这就意味着控制感缺失，进而又导致退缩被动、防御性应对、及时行乐与不计未来等行为的出现(郭响澄，郭永玉，2012)。
+
+当贫困个体处于低控制感的扶贫情境中时，情境中的无序性和不确定性使其感受到深深的焦虑，焦虑感进一步驱使个体心理系统通过其他途径来重建并恢复控制感，以重新获得结构感和秩序感，这种现象心理学上叫控制感补偿；研究发现常见的控制感补偿方式有世界观防御、艺术性表达、个体知觉偏向、社会保障与宗教信仰(郭响澄，郭永玉，2012)。N村人的能歌善舞的艺术性表达被认为是一种维护个体心理健康的积极补偿方式，人类擅长用歌舞或绘画等艺术形式来表达喜悦、焦虑或不安(孟沛欣等，2005)。而寻求神灵庇护则是一种古老的消极的宗教信仰补偿。它使个体相信有超自然的强大力量存在，任何好坏事件的发生都是神明的控制，这就使得个体的控制感降低时，会转向宗教来获取补偿(Kay，Gaucher,Mcgregor,&Nash,2010)，甚至当社会保障系统失去补偿作用的时候，个体依然会寻求神灵庇护来获得控制感补偿(Kay, Shepherd,Blatz,Chua,& Galinsky,2010)。在扶贫干部和研究者看来，毕竟生病了不找医生而求助道公娘母或拜树求石，最终会贻误病情。这与社会中上层人士信仰中国传统宗教和西方宗教等主流文化所包容的制度性宗教不同，贫困人口的宗教信仰依靠的是民间的民俗信仰，严格来说它是一种低层次的迷信。正如迷信的心理学研究所指出的(王淑娟，李朝旭，2005)，这种民间迷信有其特定的心理安慰功能，能为处于控制感缺失中的个体提供一个超然的避难所，成为贫困个体减轻心理焦虑，适应社会，求得生存的一种途径。但迷信绝不是科学，与其他控制感补偿行为相同的是，它们并不能帮助人们解决现实存在的问题，只能使人们对其产生负性的心理依赖，表现出认知功能损害、意识范围缩小
+
+的状态，更不利于激发贫困个体的内生动力。
+
+综上，不适应市场经济以及运动式扶贫使得贫困个体控制感受到威胁并降低，进而诱发出被动退缩、防御性应对、及时行乐与寻求神灵庇护等控制感补偿行为，这些补偿行为必然对贫困个体的价值观(如“人生都是命”“哪晓得明天会怎样”）、自我观(如“我什么都控制不了”“脱贫是干部的事”)和脱贫的行为倾向(如“幻想发财而不行动”“做事首先想到的是困难和麻烦”)产生消极影响，导致贫困群体长期缺乏脱贫致富的内生动力。
+
+# 4.2.2 家庭社会资本对子代内生动力的影响
+
+之所以重视家庭因素，是因为在中国农村社会层层嵌套的多层次组织结构(如村庄、生产队、家庭等)中，家庭不仅是个人社会化的最重要、最初始的环境，而且也是代际关系的重要桥梁，在世代贫困及贫困代际传递的探究中，重视家庭相关变量就显得尤为关键(谢宇，胡婧炜，张春泥，2014)。基于整体内生动力资源枯竭模型，本研究得出结论三：家长亲职能力在家庭内部建设能力培植子代内生动力的过程中起着中间作用，即家庭内部建设能力可促进家长亲职能力的提高，进而激发子代脱贫的内生动力。
+
+Coleman(1988)认为，在各种影响子代的家庭变量中，家庭内的社会资本显得尤为重要。家庭内的社会资本指的是儿童与父母及其他家庭成员的关系，父母提供的资本包括是否实质陪伴及是否给予关注两项重要指标：前者表示代际物理性、实体性的链接关系，从实体性的链接关系中，个体受到生活上实质的照顾，行为上获得正向的指引，生存的安全与成长的发展从而获得保障；后者则代表精神性、心理性的互动关系，个体的情绪得到接纳，正向思考的能量与有效应对挑战的能力被激发，积极向上提升的斗志被鼓舞，从而发展出克服困难的信心与勇气(Coleman,1987)。家庭内的社会资本使子女与父母的人力资本连结起来，为子代提供了摆脱世代贫困的契机。本研究归纳出2个存在于成功脱贫的世代家庭中的家庭资本：家庭内部建设能力与家长亲职能力。这2个因素具有向上流动的正向力量，可作为世代贫困家庭优势累积的动力。
+
+本研究在探究世代贫困家庭的负向心理动力及弱势累积的过程中，发现了明显的正向力量及脱贫趋势。这些家庭所处的现状展现出一定的内部建设能力，家庭内部建设能力的指标体现在访谈中的摘要有“感谢妈妈没有跑掉、体谅父母的辛苦、心疼爸爸辛苦挣钱、让我能够安心学习、全家一起努力、坚强的面对困难、感恩、回报社会、敞开心扉、心境改变、态度积极、要自强自立、帮助他人”等，这些都给家庭成员尤其是孩子带来了积极的家庭心理动力，帮助他们树立正向的价值观、积极的自我观，并培养主动脱贫的行为倾向。不少家庭均表示“家和万事兴，齐力才能脱贫”“砸锅卖铁捡破乱也要让孩子上学”，正是他们隐约地意识到家庭内部建设能力对未来的重要性。在N村已经脱贫的家庭中，我们则看到家庭内部建设能力在一定程度上激发出子女的内生动力。实证研究亦发现家庭内部建设能力(如主观家庭生活水平)影响子女的内生动力(如幸福感)(徐佳，赵旭东，2018)。
+
+父母亲职能力本应是较为常见的家庭能量，但在N村难以脱贫的世代家庭中，贫困代际传递的诱因均来自家长未尽为人父母的职责，其中家长婚外情、不为家计、打架斗殴、投资失败等均为常见的家长角色失范，使得贫困在代际传递。摆脱世代贫困的受访者，却能共同建构出类似的经验，父母亲职能力在其叙述中的摘要有“母亲角色、父母责任、亲子沟通、到爸爸打工的城市过暑假、休假回来带我们、和我们讨论将来的发展与出路、希望我们多读书、担心我的教养和照顾、不把脾气撒在我们身上、陪我们玩耍、给我们补身体、辅导家庭作业、为了我能上更好的学校、训练我独立、弥补我们”等。本研究发现，实质陪伴与给予关注两项亲职能力是贫困家庭子代得以摆脱贫困的重要家庭社会资本。
+
+在N村近年成功脱贫的世代家庭中，家长的人力资本与经济资本虽然不能给子女提供强有力的发展资本，但这些家长普遍表现出的亲职能力，对子女来说是一项非常重要的家庭资本。这一代家长在自身处于孩童的阶段，因缺乏家长提供的发展机会与关注陪伴，在机会剥夺与成长资源缺失的双重匮乏下成了贫困儿童。当其角色转化为贫困家长时，其弥补性、觉醒性的亲职能力自发形成，为子女的发展创造向上提升的推力，使子代形成积极的价值观、正向的自我观，具备主动脱贫的行为倾向。当外部扶贫资源出现时，这股从家庭内部涌现的推力，就会活化家庭资本并发挥适时的衔接功能，形成与社会生活重新接轨的机会。
+
+在家庭内部建设能力诱发子代脱贫内生动力的过程中，家长亲职能力起着重要的中间作用。家庭内部建设能力可促进家长亲职能力的提高，进而激发子代脱贫的内生动力。已有研究发现家庭内部建设能力(如家庭社会经济地位)影响家长亲职能力(如父母鼓励阅读)(顾红磊，刘君，夏天生，2017)。实证研究还发现，无论家庭社会经济地位水平如何，父母亲的接纳与参与能正向预测青少年当时及以后对教育和职业的探索和投入(于凤杰，赵景欣，张文新，2013)，良好的亲子关系可以减少贫困儿童的问题行为(管健，孙琪，2018)。因此，只有家庭资本的优势累积，才能使世代贫困家庭的子女进发出脱贫的内生动力，形成积极向上的价值观(如“付出就有回报”“读书才能跳出村里”）、自我观(如“困难我都能克服的”“不能辜负父母的期望”)和脱贫的行为倾向(如“刻苦学习、向比自己优秀的人学习”“假期打工赚取生活费”)，进而斩断贫困的代际传递。
+
+# 4.3 研究意义及未来研究展望
+
+本研究以脱贫的内生动力为切入点，首次厘清了内生动力的心理学概念，确立的“内生动力三因素洋葱模型”能初步解释贫困个体脱贫内生动力匮乏的原因，对国家扶贫工作巡查组关切的“内生动力”激发不够问题亦做出了一定的回应，为心理精准扶贫的开展提供了理论上的支撑，同时也为揭示个体的需求与动机提供了另外一种视角。研究还将导致世代贫困的内部心理因素与外部关键因素纳入一个整体性的研究框架，建构出的“世代贫困家庭的整体内生动力资源枯竭模型”，对中国情境下的脱贫内生动力提供了一个初步的解释框架，为构建激发内生动力的长效机制提供了一条可供借鉴的路径，亦为讲好中国的扶贫故事、总结中国的扶贫经验提供了一种心理学的可能。
+
+本研究虽然取得了一些启发性的观点，但囿于主题的复杂性及资料的限制，只能作一个概览性的考察。从研究内容来看，未来应根据心理测量学的要求，编制出具有较高信度和效度的《脱贫内生动力量表》(endogenous power scale for poverty elimination)，验证世代贫困家庭的心理机制，廓清心理动力中各因素的权重，并分析贫困群体中不同年龄群体的心理动力状况；从研究对象来看，世代贫困心理机制的研究扩展至其他省份或国家非常必要，据此可以对世代贫困的整体内生动力资源枯竭模型进行精度验证；从研究方法来看，未来应根据系统论的观点，以生命历程为线索，采取质性分析和量化研究相结合的方法，用纵向研究和横向研究结合的路径来探讨世代贫困的心理机制，系统地进行理论论证；从扶贫实践来看，未来应根据内生动力的三因素洋葱模型提出高效可行的精准心理扶贫措施，建立激发脱贫内生动力的心理干预机制，以丰富贫困治理的心理学路径。
+
+# 5 结论
+
+根据上述整体内生动力资源枯竭模型，主要结论如下：（1）以消极的价值观、消极的自我观和被动脱贫的行为倾向为主体的个体心理动力“三因素洋葱模型”是世代贫困个体的消极内在驱动力；（2）作为社会心理动力的控制感缺失是引致世代贫困个体内生动力遗乏的重要诱因，缺少市场理性及扶贫的运动式治理是造成贫困个体控制感缺失的外部肇因；（3）家长亲职能力在家庭内部建设能力培植子代内生动力的过程中起着中间作用，即家庭内部建设能力可促进家长亲职能力的提高，进而激发子代脱贫的内生动力。从上述研究我们可以看出，扶贫是一项系统性的资源配置工程，过去的扶贫工作忽视了内部的心理资源（内生动力)，当下的精准扶贫应根据系统论的观点，以心理扶贫为重点，以外部关键肇因为抓手，使整体内生动力与外部扶贫资源整合发力，形成内外共治、标本兼治的扶贫格局，是世代贫困走向
+
+彻底消弭的根本出路。
+
+致谢：感谢匿名评审专家对本文提出的建设性意见！感谢海南省人民政府办公厅和海南省扶贫工作办公室的同志对本研究工作开展的支持！
+
+#
+
+参考文献   
+Adamkovic,M.,& Martoncik, M. (20l7). A review of consequences of poverty on economic decision-making: A hypothesized model of a cognitive mechanism. Frontiers in Psychology, 8,1784.   
+Armstrong,A. (2O12).Belief in a just world and children's cognitive scores.National Institute Economic Review, 222(1), R7-R19.   
+Bertrand,M.,Mullainathan,S.,& Shafir,E.(2Oo6).Behavioral economicsand marketing in aid of decision making among the poor. Journal of Public Policy and Marketing, 25(1), 8-23.   
+Coleman, J. S. (1988). Social capital in the creation of human capital. American Journal of Sociology， 94, S95-S120.   
+Coleman, J. S. (1987). Social capital and the development of youth. Momentum, 18(4), 6-8.   
+Ehret,P.J. (2019). Inclusion of the environment in the self:Linkingvalues to pro-environmental behaviors (Unpublished doctorial dissertation). University of California, Santa Barbara.   
+Evans,G W. (2016). Childhood poverty and adult psychological wel-being. Proceedings of the National Academy of Sciences of the United States of America, 113(52),14949-14952.   
+Flick,U. (20o7). Qualitative sozialforschung (Z. X.Li,Z.H. Liao,&J.R.Lin,Trans.).Taipei, China: Wu-Nan Book Inc. (Original work published 2002)   
+[Flick,U.(2007)．质性研究导论 (李政贤，廖志恒，林静如 译).台北：五南图书出版公司.]   
+Fu,A.G，& Huang, X. T. (2018-03-05). Carry out psychological targeted poverty alleviation，solving the generations of poverty. Chinese Social Sciences Today, 6.   
+[傅安国，黄希庭.(2018-03-05).开展心理精准扶贫 破解世代贫困难题．中国社会科学报,6.]   
+Fu, A. G.,& Qiu,L. W. (2018-09-03). Psychological interpretation ofintertemporal choice in lower income groups. Chinese Social Sciences Tday, 6.   
+[傅安国，邱林晚.(2018-09-03)．较低收入群体跨期选择的心理学解释．中国社会科学报,6.]   
+Fu, A. G,Wu,N.,& Huang, X. T. (2019a). Poverty alleviation begins with ambition: Psychological research findings and queries.Journal of Southwest Minzu University (Humanities and Social Science),40(5),208- 214.   
+[傅安国，吴娜，黄希庭.(2019a).扶贫先扶志:心理学的研究结果与质疑．西南民族大学学报(人文社科版), 40(5), 208-214.]   
+Fu, A. G,Wu,N.,& Huang,X.T. (2019b). Psychological targeted povertyallviation for rural revitalization: A perspective of endogenous power.Journal of Soochow University (Educational Science Edition),7(4),85-93.   
+[傅安国，吴娜，黄希庭.(2019b).面向乡村振兴的心理精准扶贫:内生动力的视角．苏州大学学报(教育科学 版), 7(4),85-93.]   
+Fu,A.G,& Xie,Z. Y. (2019-07-08). Compensatory stereotypes affect poor individuals out of poverty. Chinese Social Sciences Today,6.   
+[傅安国，解智宇.(2019-07-08)．补偿性刻板印象影响贫困个体脱贫．中国社会科学报,6]   
+Fu,A. G, Zhang, Z. S.,He, W.M.,Lin,Z. H., Wu,N.,Hou, G H.,& Yao,T. Z. (2019). Does perceiving the poor as warm and the rich ascold enhance perceived social justice?The efcts of activating compensatory stereotypes on justice perception.Frontiers in Psychology,10,1361.   
+Gao, K.,& Nian, W. (2016-04-06). Targeted povertyallviation study on integrating psychological characteristics of poverty-stricken population. Guangming Daily, 15.   
+[高考，年旻.(2016-04-06)．融入贫困人群心理特征的精准扶贫研究．光明日报,15.]   
+Gu,H.L.,Liu, J., Xia,T.S. (2017).Effect offamily socioeconomic status on reading autonomy among elementary school students: The mediating efects of parents’ encouragement and reading motivation. Acta Psychologica Sinica, 49(8),1063-1071.   
+[顾红磊，刘君，夏天生.(2017).家庭社会经济地位对小学生阅读自主性的影响：父母鼓励和阅读动机的中 介作用．心理学报,49(8),1063-1071.]   
+Guan,J.& Sun, Q. (2018).The efect of social economic status,parent-child relationshipon poverty children's problem behavior.Journal of Psychological Science, 41(5),1145-1150.   
+[管健，孙琪.(2018)．亲子关系对贫困儿童问题行为的影响．心理科学,41(5),1145-1150.]   
+Guo,X.C., Guo, Y. Y. (20l2).Perceived control in the social context. Advances in Psychological Science,20(11), 1860-1868.   
+[郭响澄，郭永玉.(2012).社会情境中的控制感．心理科学进展,20(11),1860-1868.]   
+Guo,X. B.,& Zhou, Q. (2016). Chronic multidimensional poverty, inequality and causes of poverty. Economic Research Journal, 51(6),143-156.   
+[郭熙保，周强.(2016).长期多维贫困、不平等与致贫因素．经济研究,51(6),143-156.]   
+Guo, Y. Y. (2018). Outline of personality psychology. Beijing, China: Educational Science Press.   
+[郭永玉.(2018)．人格心理学纲要.北京:教育科学出版社.]   
+Haushofer, J.,& Fehr, E. (2014). On the psychology of poverty. Science, 344(6186),862-867.   
+Huang, X. T. (2014). Exploring the mystery of personality. Beijing, China: The Commercial Press.   
+[黄希庭.(2014).探究人格奥秘.北京:商务印书馆.]   
+Huang,X. T. (2017). Thinking on Chinanization of personality research. Journal of Psychological Science, 40(6), 1518-1523.   
+[黄希庭.(2017).人格研究中国化之我见．心理科学,40(6),1518-1523.]   
+Huang, X. T.，& Yin, T. Z. (2016). Be a happy and enterprising person. Nanjing, China: Jiangsu People's Publishing House.   
+[黄希庭，尹天子.(2016)．做幸福进取者．南京:江苏人民出版社.]   
+Huang, X. T., & Zheng, Y. (2005). Research on the values of contemporary Chinese youth. Beijing, China: People's Education Press.   
+[黄希庭，郑涌.(2005).当代中国青年价值观研究.北京:人民教育出版社.]   
+Huang,X. T.,& Zheng, Y. (2015). Introduction to psychology (3rd edition). Beijing, China: People's Education Press.   
+[黄希庭，郑涌.(2015).心理学导论(第三版).北京:人民教育出版社.]   
+Jachimowicz,J.M., Chafik,S.,Munrat,S.,Prabhu,J.C.,& Weber,E. U.(2017). Community trustreduces myopic decisions of low-income individuals.Proceedings of the National Academy of Sciences ofthe United States of America, 114(21), 5401-5406.   
+Jia, J. X., Qin, C.,& Liu, Y. Z. (2017). Policy design for the integration of “Top Down”and "Bottom Up": An empirical analysis based on poverty allviation rural development projects. Social Sciences in China,(9), 68-89.   
+[贾俊雪,秦聪，刘勇政.(2017)．“自上而下”与“自下而上”融合的政策设计——基于农村发展扶贫项目 的经验分析．中国社会科学,(9),68-89.]   
+Jiang,M.,& Gao,D. G. (2014).The factors that influence outcomes in deprivation ofcontrol. Chinese Journal of Applied Psychology,20(3),263-271.   
+[蒋明，高定国.(2014)．影响控制感剥夺的因素及其后果．应用心理学,20(3),263-271.]   
+Kay, A.C., Gaucher,D.,McGregor,I,& Nash,K. (20lo).Religious belief ascompensatorycontrol.Personality and Social Psychology Review, 14(1),37-48.   
+Kay, A. C.,Shepherd,S.,Blatz,C.W.,Chua,S.N.,& Galinsky,A.D.(2010).For God (or)country: The hydraulic relation between government instability and belief in religious sources of control. Journal of Personality and Social Psychology, 99(5), 725-739.   
+Lewis, O.(1966). The culture of poverty. Scientific American, 215(4),19-25.   
+Li,T.,Liu,L.Y.,& Liu,D.Z.(2015).Factorsanalysis and interrelations of world-class champion athletes' resilience.Journal of Sports and Science, 36(3), 98-107.   
+[李涛，刘礼艳，刘电芝.(2015).世界级水平冠军运动员的心理韧性要素分析及其相互关系．体育与科学, 36(3), 98-107.]   
+Li, X.Y.,Xu,J.,& Yu,L.R. (2016). China's 40years of povertyreduction: An exploratory account from historical and sociological perspectives. Sociological Studies, 33(6), 35-61.   
+[李小云，徐进，于乐荣.(2018).中国减贫四十年:基于历史与社会学的尝试性解释．社会学研究，33(6), 35-61.]   
+Liu, S. M., &Li, Z. W. (20l7). Essential tools for qualitative research: Ilustration and application of NVivo10. Beijing, China: Economic Daily Press.   
+[刘世闵，李志伟.(2017)．质化研究必备工具:NVivo10之图解与应用．北京:经济日报出版社.]   
+Liu, W. C.(20o0). Motherhood: Asocial constructive perspective. Research in Applied Psychology, (6),97-130.   
+[刘惠琴.(2000).母女关系的社会建构．应用心理研究，(6),97-130.]   
+Lyons,E. & Coyle,A. (2010). Analysiing qualitative data in psychology (C. Z. Bi, Trans.). Chongqing, China: Chongqing University Pres. (Original work published 2007)   
+[莱昂斯,E.，考利,A.(2010).心理学质性资料的分析 (毕重增 译).重庆：重庆大学出版社.]   
+Mani,A., Mullinathan,S., Shafir,E.,&Zhao,J. (20l3).Poverty impedescognitive function.Science,341(6149), 976-980.   
+Meng,P.X., Zheng,R.C.,Cai, Z.J.,Cao,D.H.,Ma,L.,Liu,J.，& Liu,Y.(2005). Group intervention for schizophrenia inpatient with art as medium. Acta Psychologica Sinica, 37(3),403-412.   
+[孟沛欣，郑日昌，蔡焯基，曹达宏，马良，刘军，刘羽.(2005).精神分裂症患者团体绘画艺术干预．心理学 报,37(3),403-412.]   
+Moore,M.,& Hossain,N. (2005).Elites,poverty and public policy.In E.P.Reis & M. Moore (Eds.),Elite perceptions of poverty and inequality (pp.195-197). New York: Zed Books Limited.   
+Rotter, J.B. (1966). Generalized expectancies for intermal versus external control of reinforcement.Psychological Monographs: General and Applied, 80(1),1-28.   
+Shah, A. K., Mulainathan, S.,& Shafir,E.(2012). Some consequences of having too litle.Science, 338(6107), 682-685.   
+Small,M.L.，Harding,D. J.，& Lamont, M. (2O10). Reconsidering culture and poverty. The Annals of the American Academy of Political and Social Science, 629(13), 6-27.   
+Tao,L.,& Au, W. (2014). Values,self and other-regarding behavior in the dictator game. Rationality and Society, 26(1), 46-72.   
+Tian, X.,& Zheng,J. H. (2O16). Enveloped state: The action logic of grassroots governance and rural autonomyA case study based on “Straw Burning" in Huangjiang. Journal of Public Management, 13(2),141-151.   
+[田雄，郑家昊.(2016).被裹挟的国家:基层治理的行动逻辑与乡村自主——以黄江县“秸秆禁烧”事件为例. 公共管理学报,13(2),141-151.]   
+Verplanken,B.,& Holland,R. W. (2oo2). Motivated decision making: Effcts of activationand self-centralityof values on choices and behavior. Journal of Personality and Social Psychology, 82(3),434-447.   
+Wang,H. (2O18). Research on the mechanism of institutional change of campaign-style governance transforming
+
+into long-efective governance: Taking kiling forbidden of live poultry in T district of east Sichuan as a case. Journal of Public Management,15(1),71-83. [王辉.(2018).运动式治理转向长效治理的制度变迁机制研究——以川东T区“活禽禁宰”运动为个例．公 共管理学报,15(1),71-83.] Wang,S. G. (2018). China’s large-scale poverty reduction: Main driving forces and institutional foundation. Journal of Renmin University of China, 32(6),1-11. [汪三贵.(2018).中国40年大规模减贫：推动力量与制度基础．中国人民大学学报,32(6),1-11.] Wang, S.J.,Li, Z. X. (2005). The mental mechanism of superstition and its psychological consolative functions. Journal of Gannan Normal University, (2), 41-45. [王淑娟,李朝旭.(2005).迷信的信息加工机制和心理安慰功能．赣南师范学院学报,(2),41-45.] World Bank. (2015). World development report 2015: Thinking, society and behavior (G Y. Hu, & B. Zhao, Trans.). Beijing, China: Tsinghua University Press. [世界银行.(2015).2015年世界发展报告:思维、社会与行为(胡光宇，赵冰等 译).北京:清华大学出版社.] Wu, J.X.，& Huang, X. T. (2O12).Preliminary exploration on the structure of the concept of integrity. Acta Psychologica Sinica, 44(3), 354-368. [吴继霞，黄希庭.(2012)．诚信结构初探．心理学报,44(3),354-368.] Xi, J. P. (2O17). Xi Jinping: The governance of China II. Beijing, China: Foreign Language Press. [习近平.(2017)．习近平谈治国理政(第二卷).北京：外文出版社.] Xie,Y.,Hu,J.W.,& Zhang, C.N. (2O14).The China family panel studies: Design and practice. Chinese Journalof Sociology, 34(2), 1-32. [谢宇，胡婧炜，张春泥.(2014).中国家庭追踪调查:理念与实践．社会,34(2),1-32.] Xu,F.M.， Zhang H., Ma,H. Y.，Deng,Y., Shi, Y. W.,& Li, O. (2017). The poverty problem: Based on psychological perspective.Advances in Psychological Science, 25(8),1431-1440. [徐富明，张慧，马红宇，邓颖,史燕伟,李欧.(2017).贫困问题：基于心理学的视角．心理科学进展25(8), 1431-1440.] Xu, J.& Zhao, X. D. (2018).Relation of wel-being and systemic family dynamics of junior middle school students. Chinese Mental Health Journal, 32(12),1012-1016. [徐佳，赵旭东．(2018)．初中生系统家庭动力学特征和幸福感的关系．中国心理卫生杂志，32(12), 1012-1016.] You, J.,Yang,L.， Shang,S.J.，& Yu,S.J. (2016). Socioeconomic disparities in health and its underlying mechanisms.Advances in Psychological Science, 24(07),1118-1129. [尤瑾,杨蕾,商士杰,余诗景.(2016)．健康的贫富差距及其内在机制．心理科学进展,24(07),1118-1129.] Yu,F. J., Zhao,J. X.,& Zhang, W. X. (2O13).The development of future planning and its relation with parenting behaviors during early and middle adolescence: The mediating effects of behavioral autonomy. Acta Psychologica Sinica, 45(6), 658-671. [于凤杰，赵景欣，张文新.(2013)．早中期青少年未来规划的发展及其与父母教养行为的关系：行为自主的 中介效应．心理学报,45(6),658-671.] Zhang, C.H. (2019).Streams and future directions ofresearch on work motivation based on the self-determination theory. Advances in Psychological Science, 27(8),1489-1506. [张春虎.(2019).基于自我决定理论的工作动机研究脉络及未来走向．心理科学进展,27(8),1489-1506.] Zhang,X. M.,& Yang, L. P. (2018). A qualitative research on the development of attachment to GOD by Christians through prayer. Acta Psychologica Sinica, 50(1),115-129. [张秀敏，杨莉萍.(2018).基督徒祷告过程中人神依恋关系的质性探索．心理学报,50(1),115-129.]
+
+# Qualitative research on the endogenous power mechanism for poverty elimination
+
+FU Anguo1,²; ZHANG Zaisheng²; ZHENG Jianhong?; YUE Tong4; LIN Zhaohong1; WU Na5; HUANG Xiting4
+
+('School of Management, Hainan University, Haikou 570228, China)(²College ofManagement and Economics,   
+Tianjin University, Tianjin300o72, China)(Department of Psychology & Guangdong Provincial Key Laboratory ofDevelopmentand Education for Special Needs Children,LingNan Normal University,Zhanjiang,524048) (4Research Center for Psychology and Social Development, Faculty of PsychologySouthwest University, Chongqing, 400715, China)(Hainan College of Economics and Business,Haikou 571127, China)
+
+# Abstract
+
+Poverty remains one of the most pressing and vexing issues facing the world today. Although progress has been made in alleviating poverty in China, more efforts are needed to manage the intractable generations that have been affected by poverty. Endogenous power is the core psychological resource for low-income individuals to move out of poverty. However, there is a lack of a research framework for the endogenous power of poverty elimination in the Chinese context，which may result in a scarcity of relevant empirical research and the neglect of psychological factors in the formulation of poverty alleviation policies. This study deploys qualitative research methods to explore the psychological structure and key influencing factors of endogenous power of generations of low-income individuals with a goal of providing proposals on psychologically targeted poverty alleviation.
+
+The researchers utilized an intensity sampling method to obtain study participants,and grounded theory, based on in-depth interviews, was adopted as research methodology. Participants comprised individuals who had successfully (seven people) or unsuccessfully (ten people) pulled themselves out of poverty as well as poverty alleviation cadres (four cadres） from a deeply impoverished village on Hainan Island. This study atempts to construct an integral endogenous power depletion model for intergenerational poverty from the perspectives of endogenous power for poverty elimination and the integration of endogenous and exogenous driving forces. The study followed the standard procedure of grounded theory, and we analyzed the data with Nvivo 11.0.Based on grounded theory， preliminary analysis， generic analysis，and theoretical construction of the collcted data were conducted. Inspections of the participants and non-participants were used to verify the research results' validity.
+
+The findings of the study fall into three categories.First, the “Three-factor Onion Model" with negative values, negative self-concept, and the behavioral tendencies of passive anti-poverty as the core factors was found to be the endogenous driving force of generations of low-income individuals. Second, perceived control loss as a psychosocial driving force is an important cause of the lack of endogenous power among those poverty-stricken people for generations,and the combination of a lack of market rationality and campaign-style poverty alleviation are external causes of perceived control loss.Third,under the influence of the construction of inner capacities, parenting capabilities become an important internal driving force,as they take an intermediate role during the promotion of endogenous powers to their offspring and help cultivate positive psychological resources for the family.
+
+This paper attempts to place the internal psychological factors and external key factors that lead to generational poverty into a holistic research framework. Although some enlightening views have been obtained,the results are constrained by the complexity of the theme and the limitations of the data,and only a general exploration could be made. In the future,quantitative research methods may be adopted to verify the accuracy of the Internal Motivation Depletion Model for intergenerational poverty.
+
+Key words integral endogenous power depletion model; endogenous power for poverty elimination; psychologically targeted poverty alleviation; generations of poverty; grounded theory
+
+# 附录1：开放式编码及范畴化列举
+
+下表为开放式编码取得的范畴与初始概念，囿于篇幅，附表1仅为每个初始概念报告一对积极和消极的对照参考点，附表2中每个初始概念亦只报告一个参考点。
+
+附表1内生动力的开放式编码及范畴化  
+
+<html><body><table><tr><td>范畴</td><td>原始资料</td><td>[初始概念][参考点数]</td></tr><tr><td rowspan="3">人生价值</td><td>·PK3到现在那是命啊，怪我自己的命不好啦！人生就是这样，落地八分命 OTP5其实我这个人就是不信这个邪，不能让儿子像我爸那样穷到死 ·PK6 我管不了那么多，哪晓得明天会怎样， (扶贫猪苗)先宰了吃再说</td><td>[命运观念][22]</td></tr><tr><td>OFP2别人都不要的荒5坡，他五年前就借钱承包种花梨木苗，现在转手卖300[生活观念][31] PK8(危房改造款等级)他们怎么定就怎么定吧，(兑第共有祖屋)还要写申请、</td><td></td></tr><tr><td>分户口、跑派出所，太麻烦了，还不晓得弄不弄得到 OTP2 事在人为，有政策、有扶持、有机会就要主动抓住，付出才有回报 ·PK1人一有钱就变坏，我穷但我心安，没有关系、没有外财怎么可能发财？</td><td>[处世态度][26]</td></tr><tr><td rowspan="4">劳动价值 观</td><td>OTP4贫穷生万恶，(村里)偷鸡摸狗的人为什么那么多，还不是因为穷 PK2有钱人都是“三分靠作，七分靠背景”，光靠体力活怎么可能赚”</td><td>[贫富观念][22]</td></tr><tr><td>钱？.....公家的钱不要白不要 OTP2 那些人一天到晚就研究彩票，勤劳才能致富，我是不相信天上会掉馅 饼</td><td>[劳动观念][37]</td></tr><tr><td>PK4他是“今朝有酒今朝醉，明日愁莱明日愁”，上午喝酒下午睡觉，做事 拖拉</td><td>[时间观念][18]</td></tr><tr><td>OFP1他珍惜时间，干活效率高，又有规划，有政策支持两年就脱贫了 PK5(父亲)他就是在外面乱搞(女人)，没有见他拿钱回来过，也没有关注过 我们的学习.....我妈妈就这样瘦瘦的一个，他还天天打</td><td>[婚姻家庭观念]</td></tr><tr><td rowspan="2">家庭价值 观</td><td>OTP4家庭稳定，夫妻关系和睦，才可能脱贫.....从小感受家庭温暖的小孩， 成绩大多不差 PK7快40终于生下这个几子，中间流过5次产，大安儿今年都19罗了</td><td>[36]</td></tr><tr><td>oTP3兄求孩长盛，盛里的藿动，好好培育，认真读书将来才有 出息 ·FP3就是听不进去建议，你说很多，他还是按照自己的一套来，批评一下</td><td>[生育观念][23]</td></tr><tr><td rowspan="2">观念开放 性</td><td>又伤了他自尊 OTP4不管好话歹话，别人说的我们都要能听进去，要能经常反思自己，这 样才有长进</td><td>[经验开放性] [18]</td></tr><tr><td>FP3改永、改电、改厕都遇到困难，他们就觉得首己的旧东西好，新东西 要再观望下 OTP6听说新的种植方法能增产三成，我马上第一个报名参加培训，科学的 东西，要敢于尝试</td><td>[接纳新事物] [20]</td></tr><tr><td rowspan="2">自我概念</td><td>·PK10我们和外头的人打交道老吃亏，在自己人面前又非常自大，“自我膨 胀得裤档都装不下"就是说那些认为自己比别人牛的人 OTP5其实也不是我们笨，只是我们都生活在传统里面，生活模式不适应市 场规律、不适应市场经济，肯定就穷了.</td><td>[自我认知][25]</td></tr><tr><td>·PK3 我们家无休止的动荡，生活告诉我，我什么都控制不了，我很失败 OTP4命是没有办法改变的，但是我要乐观也要努力，抓住政策支持，时来 运转</td><td>[自我评价][21]</td></tr><tr><td rowspan="2">自我调节</td><td>·PK10早上就开始喝酒，喝到快中午睡一觉，醒来继续喝酒 OTP3 坚持早睡早起，早上5点起床.....生活控制得有规律，才干得出活来</td><td>[自我管理][20]</td></tr><tr><td>·FP1每次遇到摩擦，鸡毛蒜皮的事都要跟人家干架....太多情绪化的人 OTP3丁点小事就头破血流，是非常不值得的，不能比野蛮，要比比谁能致</td><td>[情绪调控][34]</td></tr><tr><td rowspan="2"></td><td>富 ·PK3这一生我觉得很累没有办法，现在我的身体变成这样了，我还能怎 样？</td><td>[自我激励][22]</td></tr><tr><td>自强动力OFP1努力工作更重要，付出才有回报，没有努力就不要为自己的穷找借口 FP3半夜农户给我电话说“主任，你的(扶贫)猪死了”，我说这是你的猪 OTP1关键要认识到，脱贫不是干部和国家的事，而是我们自己的事</td><td>[独立自主性]</td></tr><tr><td rowspan="2"></td><td>·FP1不少年轻人重活累活不愿干，到城里找个月薪千把块的工作，一周工 脱贫策略OTP6作在过抠个脚丫、，喝、吹人意，识到天就过去的常年如此，怎</td><td>[30] [生活任务][18]</td></tr><tr><td>么可能脱贫 ·PK2 初中都没有毕业就找一份全职工作，挣到的钱就像毒品一样—会让</td><td>[目标设定][21]]</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">你短期内感觉良好，但会阻止你去做应该做的事情 OTP4今年做什么，明年做什么，近三年达到什么目标，不计划做不成事</td></tr><tr><td rowspan="2"></td><td>·PK8他经常在嘴上说努力有多么董要，不切实际的幻想发财，但从莱没有 脚踏实地的做过什么事 OTP2眼睛就放在今天的两顿饭，不考虑将来是不行的，特别是小孩的教育</td><td>[个人规划][24]</td></tr><tr><td>·PK4去年好不容易赚了5千块，我说实点鸡来养，扶贫支援单位也帮我们 卖，回本快，他非得买槟榔来种，一下子手里又没有钱了 OTP7眼光很重要，我都是把上年的收入三七开，三成用在回报慢的，像种 花梨木；另外七成用在回报快的，像种水芹、养鸡</td><td>[投资理财][30]</td></tr><tr><td rowspan="6">脱贫素质</td><td>·PK5读书太少，普通话说不好，去海口当服务员都没人要 OTP2还是感谢父母让我读完了初中，我能读懂东西，会自学技术本事</td><td>[文化水平][27]</td></tr><tr><td>·PK7三个男人就两个患病，儿子还在上小学，我们女人很多重活又干不来 OTP4传统割胶方法产胶量低，胶树寿命短，我总结的新方法，能增产不少</td><td>[劳动工作能力] [36]</td></tr><tr><td>·PK1没有办法，别人教都教不会，怪不了别人，都怪自己太笨 OTP3致富能手都有较强的学习能力，不仅从书本上学，而且还会模仿成功</td><td>[观察学习能力] [19]</td></tr><tr><td>的人 ·PK2我身体很健康，力气使不完，我就想你们帮我找个门路，让我能赚点 钱</td><td>[脱贫知识与技</td></tr><tr><td>OTP1我们晚上织黎锦挂毯，旺季再拿到旅游景区去卖 ·PK4我家男人什么事情都还没有开始做，首先想到的是一堆困难和麻烦</td><td>能］[28]</td></tr><tr><td>OTP1有钱了大家都看得到，我也遇到不少困难，打过退堂鼓，但都挺过来 了</td><td>[意志品质][27]</td></tr><tr><td rowspan="4">获取支持</td><td>·PK1干部说给我们仔猪、羊崽、鸡崽，我们养大，他们再找人来买，我之 前认为这样的好事是骗人的</td><td>[社会知觉][16]</td></tr><tr><td>OTP1学习比自己富的，帮一把比自己穷的，团结志同道合的搞出规模 ·PK8遇到事情不会讲道理，就是斗狼，要不就是撒泼，我都不晓得怎么说</td><td></td></tr><tr><td>好 OTP2邻里都很团结，平时度过难关都是靠他们，活忙不过来也是相互帮把</td><td>[社交技巧][23]</td></tr><tr><td>手 ·PK6女人就是爱挑拨是非，弄得我们兄弟都像仇人，搞得鸡飞狗跳 OTP7人脉也是本钱，我讲信用讲感情......当初没有本钱，是大家帮我集资 [人际关系][24]</td><td></td></tr></table></body></html>
+
+注：“”后对应的为消极心理资料，“o”后对应的是积极心理资料；表中的字母分别代表PK（世代贫困个体）、TP（脱贫个体）、FP（扶贫干部)，字母后面的数字为访谈对象代码；每两类相对的“原始资料”中标出据资料抽取出的“初始概念”，“参考点数”指初始概念（积极或消极的）在访谈资料中呈现的总频次。下表同。
+
+附表2关键外因的开放式编码及范畴化  
+
+<html><body><table><tr><td>范畴</td><td>原始资料[初始概念][参考点数]</td></tr><tr><td>控制感缺失</td><td>FP3 作物要护理了也要我们扶贫干部提醒，通知他们到村里去上扶贫电视夜校却说天黑看 不清路[被动退缩][19] PK5 我们现在都晓得，跟外面商人打交道要小心，他们很狡猾经常欺骗了我们，还侮 辱我们蠢[防御性][20] PK2一切都有上天安排，还是顺其自然的好，该喝酒就喝酒，该唱歌就唱歌[及时行乐][16] PK6 我们就是喜欢唱歌跳舞，结婚唱歌跳舞，亲人离世也唱歌跳舞，连驱鬼请神也要唱唱 跳跳[艺术性表达][19]</td></tr><tr><td>神灵庇护</td><td>PK3 那棵树传说有几千年了，成仙了，生病了去拜很灵[精灵崇拜][14] TP4祖山、祖水、祖地、祖祠，都是祖先流传下来的东西，是不能侵犯的，祖灵我们都要 拜[祖先崇拜][9] FP2 生病时求助道公、娘母来捉鬼，宰牛杀猪拜神祭鬼，小问题就求助我们黎族草药医生[求 助鬼神][15]</td></tr><tr><td>经济能力</td><td>TP2要去镇里上初中，妈妈把结婚时穿过的漂亮衣服，就是黎锦做的，拿来给我改了一套 衣服，多余的布还做了个漂亮书包[设法减缓困境][16] TP4阿嬷总是很能干，她总能想法子变出钱来，养母鸡卖蛋，采草药卖，做粑粑到镇上卖， 有点积蓄后又买了两头母猪[努力开源节流][17]</td></tr><tr><td>人力状况</td><td>TP1我爸爸在政府的帮助下治好了病，他又是初中毕业，很爱学习，很快就在镇农技站的 帮助下把家里的橡胶、槟榔种起来了[父母人力资本][18] TP3 别的孩子都打工去了，爸妈一直要求我和妹妹一定要上完大学，我实在读不下去书，</td></tr><tr><td>关系维护</td><td>他们还是鼓励我上高职、学技术[子女人力储备][11] TP2父母都很相爱，也很孝敬老人，一家人和睦团结，大家都努力的干活挣钱，日子就越 过越好了[家庭关系和睦][17] TP4 在我最困难的时候，几个哥嫂都来帮助我们，出钱出力，就这一口气上来了，日子就</td></tr></table></body></html>
+
+<html><body><table><tr><td>给予关注</td><td>TP5 小孩子正长身体，要弄点鸡呀鱼虾什么的补补身体，不要亏欠了[生活重视][23] TP3 我读小学的时候，他每天晚上教我算术，后来读初中他也不会了，但是他会经常告诉 我成绩好的同学要多交往[教育引导][19]</td></tr><tr><td>实质陪伴</td><td>TP5 孩子成绩不好，家长就要多鼓励，发现他身上别人没有的优点[亲情支持][16] TP1把孩子扔给老人带不行，所以我和老公决定等他上初中了，我们再出远门干活，现在 就在周边找点事做[责任担当][17] TP2 我晓得读书重要，儿子晚上学习到几点我就陪到几点，我在一旁给他扇风赶蚊子[情感 投入][20]</td></tr></table></body></html>
+
+此外，在各级编码的萃取和聚拢过程中，主要通过同类比较、异类比较、横向比较和纵向比较的原则进行。譬如，研究者进行异类比较，发现开放式编码中“投资理财”“个人规划”“目标设定”“生活任务”4个码号与“劳动工作能力”等4个码号具有资料的差异性，因此将前者归类萃取到另一个类属，即“脱贫策略"；研究者进行同类比较，发现开放式编码中“生活观念”“处世态度”“命运观念”3个码号具有资料统一性，于是将这3个码号归类萃取到同一个类属“人生价值观”中；研究者对配对(脱贫与未脱贫)受访者呈现的资料进行横向比较，对同一受访者呈现的资料按照故事发展脉络进行纵向比较，发现“自我认知”“自我激励”“自我管理”等3个码号体现出主观自我的三个层面，故而将这3个码号分别依次归类于“自我概念”“自强动力”“自我调节”这3个不同的类属。
+
+# 附录2：理论模型的构建过程
+
+本研究所确立的关于贫困个体脱贫内生动力(整体内生动力资源)匮乏的核心范畴为“世代贫困家庭的整体内生动力资源枯竭模型”。
+
+具体经过如下四个步骤：
+
+其一，在选择性(三级)编码的基础上进一步探索核心范畴或主题。在选择性编码所建立的树状节点的基础上进一步分析不同节点(范畴)之间的关系，发现贫困个体的“消极的价值观”“消极的自我观”“被动脱贫的行为倾向”此三个树状节点均可以由“内生动力(个人心理动力)”这一节点所囊括或涵盖；“家庭内部建设能力不足”“家长亲职能力缺位”这两个树状节点可以由“家庭心理动力”这一节点所囊括；“脱贫情境中的控制感缺失”可以由“社会心理动力”所涵盖。根据这三者最终发展出核心范畴“整体内生动力资源”（见图2)。
+
+其二，根据资料的特性初步建立理论模型。根据第一步得出的结果，将选择性编码产生的六个树状节点分别还原到贫困受访者的原话中进行分析，发现消极价值观是个体核心的内驱力，它与消极自我观和被动脱贫的行为倾向三者互相影响，形成代际传递的贫困心理；从已脱贫受访者中所发现的阻断贫困心理传递的外部的关键因素为家庭内部建设能力与家长亲职能力这两项家庭心理动力，以及脱贫情境中的控制感这一社会心理动力。根据对照案例的两极表现，发展出理论模型的核心范畴为“世代贫困家庭的整体内生动力资源枯竭模型” (见图2)。
+
+其三，将初步建立的框架再次下放到原始资料中，在理论模型与资料之间进行回旋性比较分析。从多个渠道获取的资料中我们均发现，在脱贫攻坚力量的全力介入下，原有的贫困村落发生了巨大的变化，扶贫干部给他们带来了新的思想、新的生活经验与新的行为模式。已脱贫的群众一般都能较好地适应这种巨变，他们与扶贫力量形成良性的互动，促成以开放、欢迎、配合、支持、接纳为表现的顺应或同化的心路历程；难以脱贫的个体通常对这种剧变感到焦虑，他们在与环境的相互作用中持续体验到一种不可控制感，表现为控制感缺失。控制感缺失就会导致被动、退缩、抗拒等行为的出现，进而产生以封闭、冷漠、排斥、反对、拒绝为表现的抗拒或防御的心路历程，并对新注入的生产方式、公共政策、价值观念等产生强烈的抗拒，这就阻碍了个体脱贫的内生动力。世代贫困家庭尚蕴藏着从弱势累积的循环中摆脱的力量，即来自家庭内部的建设能力和亲职能力两项家庭资本，此类家庭心理动力的效能能够催生家庭内部成员尤其是子代产生积极向上的内生动力。当外部资源出现时，整体内生动力资源(个人心理动力、社会心理动力、家庭心理动力)与外部扶持资源形成合力，使得家庭能够跳出世代贫困的陷阱。
+
+其四，建立具有内在一致性的理论体系(见图2)。具体来说，基于前三个步骤将消极的价值观、消极的自我观、被动脱贫的行为倾向、家庭内部建设能力不足、家长亲职能力缺位、脱贫情境中的控制感缺失等进行整合，建构理论模型：以消极的价值观、消极的自我观和被动脱贫的行为倾向为主体的个人心理动力是世代贫困个体的消极内在驱动力；作为社会心理动力的控制感缺失是引致世代贫困个体内生动力遗乏的重要诱因，而贫困个体缺少市场理性及扶贫的运动式治理可能是导致控制感缺失的外部肇因；家长亲职能力在家庭内部建设能力培植子代内生动力的过程中起着中间作用，即家庭内部建设能力可促进家长亲职能力的提高，进而激发子代脱贫的内生动力。综上，我们整理内在心理动力和外部的心理动力，提出世代贫困家庭的整体内生动力资源枯竭模型。
+
+# 附录3：信度和效度检验
+
+# 3.1 信度检验
+
+严格来说，质性研究的信度很难用一种通用的量化标准来衡量。在质性研究中，不能将信度理解为多次重复资料搜集能否获得相同资料与结果的程度(Flick,2002/2007)。本研究主要从两方面来提高资料与分析的信度：其一，培训访谈人员，检核访谈内容和提纲。比如提问“您觉得邻居张 $\times \times$ 要做出哪些改变才能脱贫？”因指向性太强，后修改为“还不能脱贫的人，您认为他们要做出哪些改变？”其二，提升资料分析的信度。本研究采用的做法是，检视编码所发展出来的各项范畴是否可以用来分析其他段落或受访者的资料，以及相关分析在对照案例(贫困者和脱贫者)中是否能得到正反资料的支撑，以提升分析的信度。
+
+# 3.2效度检验
+
+# 3.2.1参与者与非参与者检验
+
+首先，参与者检验。为了避免资料的过度解读及扎根过程的主观武断，研究者在得出初步研究结果后，将编码和结论反馈给访谈对象，从资料的描述效度、分析效度两方面接受检验。研究者选取了4名被访谈对象(均为高中以上学历)对编码以及结论进行反馈，其中1名是扶贫干部，2名已脱贫个体，1名为未脱贫家庭大学生。主要是检验研究有无曲解受访者的语言。
+
+其次，非参与者检验。除了本研究的参与者，一是邀请2名具有心理学研究生学历的人对编码及结果进行反馈，其中1位是驻某村扶贫第一书记，另1位是贫困家庭出身的心理系教师；二是邀请3位人格心理学教授对编码及结果进行审核，其中1位为著名人格心理学家、资深教授。主要检验研究是否符合心理学专业研究的要求。
+
+最后，对9位检验者的反馈意见进行汇总，分别进行细致的审核与处理(见附表3)。研究者主要从以下四个方面审核原始资料：1）资料在搜集、转录与编码过程中的可靠度；2)资料分析和综合过程的可靠性；3）建构的范畴结构是否适宜；4）研究者有无偏见。
+
+附表3检验者的反馈意见及其处理  
+
+<html><body><table><tr><td>原有的研究结果</td><td>检验者反馈意见</td><td>对反馈意见的处理</td></tr><tr><td>“家长亲职能力”包括 “给予关注”“父母陪 伴”两个副范畴。</td><td>贫困者：小时候我爸爸带我就是自 已打麻将，扔我自己到一边玩。 心理学教授：应注意父母陪伴的质 量。</td><td>回到原始资料，从文本中搜索反应父母互动 促进子女成长的访谈内容，斟酌后修改为"实 质陪伴”。</td></tr><tr><td>为“黎-汉双元文化冲 突”，副范畴为“文化</td><td>将社会的关键原因归纳扶贫干部：其他贫困地区的群众应 该有类似的表现，不能简单说是民 族文化冲突。</td><td>回到原始资料，没有发现明显指向民族文化 冲突的内容，认真分析并请教研究督导后纠 正为“控制感缺失”。</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">冲尖 学教授：是否是难以适应脱贫 带来的生活方式变化？</td></tr><tr><td>“脱贫策略”的第一个 副范畴为“工作动力”。</td><td>脱贫者：讲到工作我们就想到城里 的上班族，我们就是干活挣钱，哪</td><td>重新分析相关原始资料，查阅人格心理学文 献，修改为“生活任务(life tasks)”，即贫困</td></tr><tr><td>“意志品质”萃取到主 范畴“脱贫行动力”中。 自强动力的内容。</td><td>里有什么工作动力。 心理学教授：是否考虑意志品质为</td><td>个体在人生特定时间所追求的家庭目标。 分析原始资料发现，意志品质不强是诸多贫 困者难以脱贫的一个关键原因，反馈给检验 者后商量决定，副范畴不变，将主范畴修订</td></tr></table></body></html>
+
+# 3.2.2 研究过程中的其他效度风险规避
+
+其一，取样带来的效度风险。
+
+对于访谈对象，研究者倾向于尽可能多地选取各种不同性质的个案，以便能够呈现足够的证据，来描述各种观点与经验的分布状态。研究者还有意选取典型的贫困者和脱贫者以及熟悉他们的扶贫干部来进行访谈，以便不同来源的资料相互佐证。深度访谈研究不一定适合所有的受访者，特别是那些文化程度非常低的贫困个体。故而，研究者在取样时，考虑的主要取样指标为言语理解能力、语言表达能力及观察思考能力，以确保受访者所提供的信息强度和密度最大化(张秀敏，杨莉萍，2018)。研究之初并不限定样本结构，而是随着取样、个案或资料的搜集、分析等步骤，从而使样本结构逐渐发展并进一步分化，最终得以成型。
+
+其二，研究者的身份带来的风险。
+
+在质性研究中，承担研究工作的人具有一种特殊的重要性。研究者及其沟通能力，乃是搜集资料与进行认知的重要工具。因而，研究者对于研究的场域，以及接触、观察或访谈研究对象，都不可能采取中立的角色(Flick,2002/2007)。相反地，研究者必须采取某些合适的角色或立场，以获得接触信息的权限。然而贫困群体所处的情境当中，存在着两套关于这一群体的真相：一套是呈现给外人(比如，扶贫干部、扶贫补助的竞争者)看的真相，另一套则是只保留给自己人的真相。质性研究者的兴趣在于，不会仅满足于贫困群体对外呈现的面貌，而是要进入亚文化，从该群体的各种行动当中，尽可能深入了解其背后的引导理念。从这一背景来说，知识的一个来源就是采取“圈内人”的视角，以贫困者眼光来理解贫困个体或群体的心理与行为。为理解贫困个体的观念，在长达一年的驻村扶贫过程中，研究者与部分受访者共同劳动、一起娱乐，建立了非常良好的关系。
+
+另一方面，研究者意识到以“圈内人”立场过于深入地卷入，反而难以看到被研究对象呈现给“外人”的真相，研究者过度与其共情也会带来效度风险。因此，研究者并没有对场域中的所有成员持“圈内人”的角色，有时候“局外人”的角色除了便于客位研究之外，还便于在一种尽可能公开而无保留的情境下，充分获取有助于洞悉问题症结的重要信息。总的来说，研究者持双重身份，在整个研究历程中不断反思个人的身份，澄清个人的价值，即自身是否有贫困经历、对贫困者和贫困研究持什么样的价值观，以明晰自身的立场。此外，研究还邀请了1位著名的人格心理学家对研究全程进行督导，以避免研究者身份模糊带来的效度风险。如同一贫困个体对局外人(扶贫干部)表明的态度是“脱贫是自己的事，一定要带领家人摆脱贫困”，对圈内人(亲朋好友)表明的态度为“人人争当贫困户要资助，傻子才会脱贫"。在督导的启发下，研究者分析前者为外在价值观(extermal value system)(与社会赞许度密切联系)，而将后者分析为核心价值观(core value system)(与经济利益关联)，从贫困个体的立场出发，这无疑是一种“理性”观念。
+
+其三，资料搜集和分析过程中的效度风险。
+
+在资料的搜集过程中，为避免效度威胁，除了严格遵循深度访谈的原则和程序外，研究者还采用渐进取样的策略对资料进行搜集和筛选，并对以下三个关键阶段的资料取样予以反复斟酌：一是材料之间的取样，即要决定从各项访谈结果中抽取哪些部分，来进行哪些不同的处理；二是材料内部的取样，即要确定哪些部分的材料只需一般性的分析，哪些部分的材料需要详尽的分析；三是研究成果呈现的取样，在研究成果成文阶段，要决定哪些部分的文本最适合用来展示研究的成果发现。研究的基本原则是尽力确保扎根研究搜集的资料实用且典型，并能丰富或扩充理论的发展；渐进取样亦不限定量化标准，以理论饱和①（例如，类型或范畴等的理论饱和)作为终止取样程序的标准(Flick,2002/2007)，尽力使搜集和呈现的资料能够代表研究场域丰富的多样性。
+
+在资料分析的过程中，研究者持开放的价值观和批判的态度，不受成见的影响，时不时地反思，以避免形成研究的预设。研究历程的回旋性比较是本研究的核心，研究者完全沉浸在原始资料的情境中，自下而上地将资料不断进行归纳和萃取，并随时反思整体的研究历程，考量某一具体步骤时，还同时关注到其他步骤的交互关联影响，以确保各个步骤之间的连贯而避免前后冲突。这种回旋性的程序避免了传统线性分析方式的限制，能够妥善地处理在资料的搜集、分析及实证材料选择之间的紧密联系，从而使分析过程中的概念、范畴、理论均能恰如其分地呈现研究对象主体与资料的所有层面。
+
+此外，研究者在整个研究过程均使用备忘录进行记录，研究者的印象、联想、观点与编码等都记录在备忘录中，赋予理论的渐进生成以活力，并促进理论敏感性，引导研究者从不同的角度考察资料而不仅仅关注直接明显的方面，以提升整个研究的效度。
+
+# 附录4：访谈内容例举
+
+1）价值观的访谈例举如下：
+
+PK3：到现在那都是命啊，怪我自己的命不好啦！....人生就是这样，落地八分命，不管你接受不接受.....我现.在觉得活着最快活的事就是每天喝两杯.(酒).....哪有精力去管政府给的扶贫牛崽。
+
+TP5：其实我这个人就是不信这个邪，不能让儿子像我爸那样穷到死.....我最反感别人以“我不会”为借口，我就是笨鸟先飞的人....规划好，得马上动起来，眼光很重要。
+
+PK2：有钱人都是“三分靠作弊，七分靠背景”，光靠体力活怎么可能赚钱？.....公家的钱不要白不要，谁捞得到谁有本事，就怕你捞不到。
+
+TP2：不付出就想有回报是最要不得的，那些人一天到晚就研究彩票，勤劳才能致富，我是不相信天上会掉馅饼的。
+
+FP3：好多贫困户就是听不进去建议，你说很多，他还是按照自己的一套来，批评一下又伤了他自尊。
+
+TP4：不管好话歹话，别人说的我们都要能听进去，要能经常反思自己，这样才有长进。
+
+2）自我观的访谈例举如下：
+
+PK3：都是打肿脸充胖子，死要面子活受罪，其实自己又没有多大本事我们家无休止的动荡，生活告诉我，我什么都控制不了，我很失败，我印象中就从来没有做过令家人满意的事情。
+
+TP4：好多事都是事在人为，自己要有信心，你觉得你行没准就真的行，命是没有办法改变的，但是我要乐观也要努力，抓住政策支持，时来运转。
+
+FPI：每次遇到摩擦，鸡毛蒜皮的事都要跟人家干架，喜欢斗勇逞狠，无非就是张家长李家短......太多情绪化的人。
+
+TP3：越穷越没有见识，丁点小事就头破血流，是非常不值得的，不能比野蛮，要比比谁能致富…我过去也是这样，现在想想，人穷了命真不值钱，酒壮傻胆，做事情根本不考虑后果。
+
+FP3：半夜农户给我电话说“主任，你的(扶贫)猪死了”，我说这是你的猪。他要觉得
+
+脱贫是干部的事，是永远不可能脱贫的。
+
+TP1：关键要认识到，脱贫不是干部和国家的事，而是我们自己的事，靠天靠地，靠爹靠娘，最终还是得靠自己，别人只能提供帮助，但是不能代替你发家致富。
+
+3）脱贫行为倾向的访谈例举如下：
+
+FP1：不少年轻人重活、累活不愿干，到城里找个月薪千把块的工作，1周工作不超过20个小时，但却没一个人意识到自己身上的懒惰宁愿睡懒觉也不去改变贫困现状。
+
+TP6：坐在那里抠抠脚丫、喝喝茶、吹吹牛，一天就过去了，常年如此，怎么可能脱贫？
+
+PK4：我家男人什么事情都还没有开始做，首先想到的是一堆困难和麻烦，从来不敢去试一试、努努力，我这辈子跟着他不知吃了多少苦。
+
+TP1：有钱了大家都看得到，我也遇到不少困难，打过退堂鼓，但都挺过来了。人嘛，有时候要改变下自己，挑战下自己，还是能做成一些事的。
+
+PK6：看到老大家里赚了点钱，其他几个弟媳就眼红了。女人就是爱挑拨是非，弄得我们兄弟都像仇人，搞得鸡飞狗跳。
+
+TP7：人脉也是本钱，我讲信用讲感情当初没有本钱，是大家帮我集资的。
+
+3）缺乏市场理性与运动式扶贫的访谈例举如下：
+
+FP4：自古以来岛上黎民自给自足，商品意识淡薄，当年江浙人忙着鸡毛换糖时，N村人提到做生意还都是很难为情的样子。不得已，拿着水果、鸡蛋到村头榕树下卖，都要远远地躲在一旁，等着买主把钱压在篮筐下，拿了东西走远后他们才会跑出来把钱收走。直到今天，海南偏僻地区群众的表现有过之而无不及。
+
+PK1：以前就有外头的商人用一包方便面来换我们一头猪或者一头牛。他们还用一些我们没有见过的便宜货，换走我们的药材、黄花梨之类的贵重东西做过的买卖要有收据或者欠条才认账，嘴巴说的话经常是不能算数的。现在我们不会轻易相信外面的人了。
+
+FP3：我们在产业扶贫上下了不少功夫，但效果并不理想，大路走对了，小路走了不少弯路。现在面临的一个突出问题就是“一哄而上”，养鸡、养鸭、养鹅、养羊、养牛等“短平快”项目比较多。养鸡价格低了改养鸭、养鸭价格低了又改养鹅，换来换去也没真正赚到多少钱，有的甚至还亏本。养殖停止后，用扶贫资金建设的鸡舍、鸭舍、羊圈等荒废闲置，造成扶贫资金浪费。
+
+PK6：前年县农业局的领导来了说，把山坡的水稻梯田改成种槟榔，槟榔树下套种益智，还可以养土鸡。今年一个旅游局的领导又说，全岛唯一的金灿灿的稻田点缀绿山，破坏了真可惜，很多游客跑来就是为了看这个，让我们改过来。

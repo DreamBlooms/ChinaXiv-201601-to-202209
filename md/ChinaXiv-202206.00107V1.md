@@ -1,0 +1,219 @@
+# 关中平原城市群“交通-产业-环境"耦合协调发展的动态演化特征分析
+
+达成¹，张富涛²，钱勇生²，曾俊伟²，广晓平²（1.甘肃省交通规划勘察设计院股份有限公司,甘肃 兰州730030;2.兰州交通大学交通运输学院，甘肃 兰州730070)
+
+摘要：关中平原城市群是丝绸之路经济带的重要城市群。运用耦合协调度模型定量分析了关中平原城市群2008—2019年交通、产业和环境三系统耦合协调发展关系的变化规律和时空分布特征。结果表明：(1)城市群交通、产业和环境各子系统发展评价指数差异化提升，交通系统发展增长率远超过其他两系统，产业和环境发展与交通系统的矛盾较为突出。(2)三系统综合发展指数空间分布单极态势明显,城间发展水平差异加剧，其中西安市和咸阳市作为极热点城市存在，其余城市为外围受辐射冷点区。(3)城市群耦合协调发展水平整体上趋于优化提升态势，但仍处于濒临失调状态。其中，西安市一直处于高耦合协调的单极态势，但耦合协调度的城间差距逐渐缩小，耦合协调度等级为协调等级的城市逐渐增多，趋于集中连片式分布。研究结果可以明确关中平原城市群交通、产业和环境三系统耦合协调发展存在的问题，为高质量发展相关政策的制定提供一定的参考依据。
+
+关键词：关中平原城市群；交通系统；产业系统；环境系统；耦合协调
+
+# 文章编号：
+
+交通、产业和环境作为城市经济高质量发展的重要内容，三系统之间具有密不可分的内在发展联系。经济活动对生态环境具有胁迫和建设双层次作用，生态环境的优劣则决定了产业发展的方向和动能。生态环境是产业活动的基础，不仅可以为产业活动提供生产要素资源，而且可以吸收产业活动所排放的污染物，但是生态环境对产业经济的承载力则是有限的[1]。生态环境对产业活动具有一定的支撑作用，区域经济的发展可以反哺生态问题，两者呈现出明显的“倒U"型规律。当前我国产业结构不合理问题凸显，低水平产业产能过剩、高端新兴产业发展落后。在产业发展面临生态瓶颈的新形势下，协调发展、绿色发展和可持续发展成为了经济发展新常态下的主旋律。交通系统则是产业发展的重要载体，是决定产业发展水平和发展速度的重要条件[2]。交通系统的完善程度直接影响着生产要素流动成本、企业的区位选择以及人口流动的空间壁垒。便利的交通系统可以改善区域可达性，打破城市间的物理界限，促进区域集聚，由此导致了经济活动的空间分布依赖于劳动资源空间的流动，进而影响着城市的产业发展。基于以上分析，交通、产业和环境三者的耦合协调发展对于城市高质量发展具有重要的意义。
+
+近年来，众多学者运用耦合协调度模型就系统间的协调发展关系进行了深人探索，所研究评价的系统涉及较为广泛。诸如,孙平军等[3]、赵雪雁等[4]、高林安等5范擎宇等和李恒吉等采用耦合协调度模型就北京市人口-经济-空间城市化、黄河中游城镇化与生态系统服务、经济发展与生态环境2个系统、三角地区城镇化进程中人口-土地-经济子系
+
+# 干旱区地理
+
+统以及甘肃省人口-经济-社会-资源-环境系统的耦合关系及其时空变化特征进行了深入剖析。针对关于交通、产业和环境三系统的协调研究，则主要集中在两系统的单向协调研究方面。首先,针对交通与产业的关系研究，刘育红等[8利用"关中天水经济区”的数据，发现滞后性的交通网络会对第三产业的快速发展起到一定的抑制作用;张雪薇等[9]则对高铁开通与劳动生产率间的作用关系进行了实证分析和稳健性检验;唐永超等[0]利用交通基础设施、网络密度、区域邻近度和区域可达性,构建交通优势度评价模型,发现黄河流域交通优势度与经济发展水平存在空间差异，出现了团-轴式的空间关联格局。其次，针对交通与环境的关系研究，王晓宁等["通过构建分层评价指标体系，研究发现高速公路的建设会对生态环境产生不利影响;王兆峰等[12]借助在险价值(VAR)模型以及耦合协调模型，发现长江中游城市群交通-旅游产业-生态环境存在长期均衡关系。此外,针对产业与环境的关系研究,黄磊[13]梳理了产业集聚对城市工业绿色发展效率影响的作用机理;常明[14]通过分析我国产业结构服务化与空气质量间的影响机理,发现城市产业结构向服务化方向发展对空气质量具有改善作用；唐志强等[15]利用耦合协调度模型,对张掖市新型城镇化与生态安全耦合协调发展水平进行了评价;黄金川等[16]、任祁荣等[17]分别就生态环境与城市化以及生态环境与社会经济系统耦合协调发展的机理作了分析，并得出城市化与生态环境间存在胁迫与约束的耦合机制的研究结论。
+
+综上所述，既有的关于交通、产业和环境三者的耦和协调研究大多集中于两者之间的单向关系，鲜有研究将这三者放在一个系统框架下进行研究。此外，国务院印发《关中平原城市群发展规划》，指出关中平原城市群聚力高质量发展需强化交通枢纽、优化产业布局、守护绿水青山。接着，在2020年5月20日，陕西省又印发了《2020年推动关中平原城市群和新型城镇化发展重点工作任务》，要求推动重大交通基础设施建设，推进产业互动和协同创新以及推动生态共治、服务共享，促进城市协调高质量发展。以上文件均体现出了关中平原城市群的高质量发展离不开交通、产业和环境三系统耦合协调发展的核心要义。因此，为科学测度关中平原城市群高质量发展状况，本文将交通、产业和环境置于同一有机整体下，对其耦合协调程度进行分析，具有较相符的地域政策背景，为关中平原城市群高质量发展相关政策的制定提供参考依据。
+
+# 1研究区概况
+
+关中平原城市群是国家特大型城市群之一。为进一步纵深推进“一带一路"建设和全方位开放格局，规划范围地跨陕西省、甘肃省和山西省3个省份，共涉及90个县域单元。本文以地级市为研究单元，选取西安、宝鸡、咸阳、铜川、渭南、商洛、运城、临汾、大水、平凉和庆阳共计11个市作为研究单元。以西安为中心的关中平原城市群具有“一圈一轴三带”的空间规划布局。关中平原城市群地处我国内陆中心，在以西安市为中心的"米"字型高速铁路网、国际枢纽机场和互联网骨干直联点加快建设的加持下，全国综合交通物流枢纽地位更加凸显。在产业发展方面，关中平原城市群现代产业体系完备，是全国重要的装备制造业基地、高新技术产业基地和国防科技工业基地。近年来，当地大力推进生态共建环境共治，优化生态安全格局，强化生态保护与修复，以期为城市群高质量发展增添绿色动力。
+
+# 2数据与方法
+
+# 2.1数据来源
+
+本文选取的各指标数据涉及交通、产业、环境三大系统，各数据主要来源于2008—2019年的《中国城市统计年鉴》《甘肃省统计年鉴》《陕西省统计年鉴》《山西省统计年鉴》以及各省份统计公报等。
+
+# 2.2 研究方法
+
+# 2.2.1交通、产业与环境系统耦合协调度模型
+
+（1）发展评估模型
+
+由于原始数据中各指标单位存在差异，指标评价值无法进行横向及纵向的比较，因此需对各指标原始参数值进行标准化处理，以获得各指标对应得功效绩效，详见式(1)。接着，按照式(2)，对综合指标体系内的各项指标值进行加权平均，最终确定计算各子系统的发展评价指数[2]
+
+$x _ { i j } = ( X _ { i j } - \operatorname* { m i n } X _ { i j } ) / ( \operatorname* { m a x } X _ { i j } - \operatorname* { m i n } X _ { i j } ) ; x _ { i j }$ 具有正向功效${ x _ { i j } = \operatorname ( \operatorname* { m a x } { X _ { i j } - X _ { i j } } ) / ( \operatorname* { m a x } { X _ { i j } } - \operatorname* { m i n } { X _ { i j } } ) }$ $x _ { i j }$ 具有逆向功效
+
+$$
+U _ { i } = \sum _ { j = 1 } ^ { n } w _ { i j } x _ { i j } , \sum _ { j = 1 } ^ { n } w _ { i j } = 1 , i = 1 , 2 , 3
+$$
+
+式中： $X _ { i j } ( \ i = 1 , 2 , 3 ; \ j = 1 , 2 , 3 , \cdots , n )$ 表示子系统i中的第 $j$ 个指标真实数据,其中 $i = 1 , 2 , 3$ 分别表示交通子系统、产业子系统和环境子系统； $U _ { i }$ 表示系统$i$ 的发展评价指数； $x _ { i j }$ 为指标 $j$ 对系统 $i$ 的功效绩效;$w _ { i j }$ 为系统 $i$ 中指标 $j$ 对应的权重，各指标的权重值利用熵值法进行计算。
+
+# (2）综合发展指数
+
+综合发展指数 $( T )$ 反映的是关中平原城市群各城市交通子系统、产业子系统和环境子系统三者的综合发展水平，由3个子系统各自的发展评价指数加权而来，计算公式如下：
+
+$$
+{ T } = \alpha { U _ { 1 } } + \beta { U _ { 2 } } + \gamma { U _ { 3 } }
+$$
+
+式中： $T$ 表示交通、产业和环境3个子系统的综合发展水平； $U _ { 1 } , U _ { 2 }$ 和 $U _ { 3 }$ 分别表示交通、产业与环境3个子系统的发展评价指数； $\alpha \mathrm { ~ , ~ } \beta$ 和 $\gamma$ 为待定系数，分别表示产业、交通和环境各子系统相对于总系统的重要性，本文将3个子系统视为同等重要，因此取$\alpha = \beta = \gamma = \frac { 1 } { 3 } \mathrm { ~ c ~ }$
+
+# (3）耦合度模型
+
+耦合度 $( C )$ 用于分析2个或2个以上系统或运动形态之间通过相互作用进而产生影响的现象和程度。在本研究中，耦合度反映各城市交通系统、产业系统与环境系统之间的耦合关系，计算公式[2]如下：
+
+$$
+C = \Big \{ \big ( U _ { 1 } \times U _ { 2 } \times U _ { 3 } \big ) \Big / \Big [ \big ( U _ { 1 } + U _ { 2 } + U _ { 3 } \big ) \big / 3 \Big ] ^ { 3 } \Big \} ^ { \frac { 1 } { 3 } }
+$$
+
+式中： $U _ { 1 } , U _ { 2 }$ 和 $U _ { 3 }$ 分别表示交通、产业与环境3个子系统的发展评价指数，上述3个指标均通过发展评估模型计算。耦合度越大表示系统间的发展协调状况越好。
+
+# (4）耦合协调度模型
+
+耦合协调度是耦合度和发展水平的综合性指标，它既能反映产业、交通与环境的协调性又能体现三者的整体发展水平，模型计算公式如下：
+
+$$
+D = { \sqrt { C \times T } }
+$$
+
+式中： $T$ 表示交通、产业和环境3个子系统的综合发展水平；耦合度 $( C )$ 和耦合协调度 $( D )$ 的取值范围在0\~1之间。其中，耦合协调度的评价值划分等级标准参考周京奎等2的研究成果，如表1所示。
+
+2.2.2评价指标的选择及指标权重确定交通系统的发展可加强地区间的空间联系，降低物流成本，是各地区产业系统发展的基础。产业发展则是地区经济增长的主要增长极，对交通系统和生态环境既有紧密的依赖性又对其有着反哺作用。与此同时，在产业经济快速发展的过程中，生态环境对产业发展的承载力是有限的，在一定程度上往往决定着产业结构的次序和规模。因此，为科学测度关中平原城市群可持续高质量发展状况，本文基于同类参考文献[2的研究，构建"交通-产业-环境"系统耦合协调发展的评价指标体系，并且利用熵值法对各指标权重值进行计算，结果如表2所示。
+
+表1耦合协调度等级和分类  
+Tab.1 Classification of coupling coordination degree   
+
+<html><body><table><tr><td>耦合协调度(D) 区间</td><td>分类</td><td colspan="2">耦合协调度耦合协调等级</td></tr><tr><td>0≤D<0.4</td><td>失调衰退类型 (不可接受区间)</td><td>0.0~0.1</td><td>极度失调</td></tr><tr><td rowspan="6">0.4≤D<0.6 0.6≤D<1.0</td><td rowspan="3"></td><td>0.1~0.2</td><td>严重失调</td></tr><tr><td>0.2~0.3</td><td>中度失调</td></tr><tr><td>0.3~0.4</td><td>轻度失调</td></tr><tr><td rowspan="2">中间过渡类型 (颌顽区间)</td><td>0.4~0.5</td><td>濒临失调</td></tr><tr><td>0.5~0.6</td><td>勉强协调</td></tr><tr><td rowspan="2">协调提升类型 （可接受区间）</td><td>0.6~0.7</td><td>初级协调</td></tr><tr><td>0.7~0.8</td><td>中级协调</td></tr><tr><td colspan="2"></td><td>0.8~0.9</td><td>良好协调 优质协调</td></tr></table></body></html>
+
+# 3结果与分析
+
+# 3.1交通、产业与环境系统发展时空演变特征
+
+3.1.1城市群各系统发展评价指数时间演变特征根据交通、产业和环境各系统的评价指标体系，运用式(2)和式(3)计算关中平原城市群2008—2019年各系统的发展评价指数以及综合发展指数，结果如图1所示，各系统发展评价指数差异化提升，交通滞后性特点突出。随着关中平原城市群强化交通枢纽、优化产业布局以及“两屏、一带、多廊、多点”生态工程的持续实施，城市群三系统综合发展指数及各系统发展评价指数均呈现出持续逐步上升的变化趋势。2008一2019年，交通、产业与环境系统年平均增长率分别为 $6 . 4 3 \% . 4 . 0 5 \%$ 和 $3 . 0 4 \%$ 。交通系统的增长率远远超过其两系统，这在一定程度上说明交通系统成为制约经济发展的关键因素，发展动力日益增强。从各子系统的发展评价指数来看，关中平原城市群的环境子系统评价值最高，产业系
+
+# 干辛区地理
+
+表2城市群交通、产业与环境发展水平综合评价指标体系及权重  
+Tab.2Comprehensive evaluation index system and weight of development level of urban agglomeration transportation, industry and environment   
+
+<html><body><table><tr><td>目标层</td><td>准则指标(权重)</td><td>指标层</td><td>属性</td><td>综合权重</td></tr><tr><td rowspan="5">产业系统</td><td>资源耗用(0.21)</td><td>万元国内生产总值(GDP)能耗</td><td>负指标</td><td>0.21</td></tr><tr><td>产业发展(0.58)</td><td>地区生产总值</td><td>正指标</td><td>0.20</td></tr><tr><td></td><td>固定资产</td><td>正指标</td><td>0.18</td></tr><tr><td></td><td>规模以上工企业数</td><td>正指标</td><td>0.20</td></tr><tr><td>产业结构(0.21)</td><td>第三产业与第二产业比重</td><td>正指标</td><td>0.21</td></tr><tr><td rowspan="5">交通系统</td><td>基础设施(0.28)</td><td>城市道路面积</td><td>正指标</td><td>0.15</td></tr><tr><td rowspan="5">运输能力(0.72)</td><td>民用汽车拥有量</td><td>正指标</td><td>0.13</td></tr><tr><td>公路货运量</td><td>正指标</td><td>0.15</td></tr><tr><td>公路客运量</td><td>正指标</td><td>0.12</td></tr><tr><td>铁路客运量</td><td>正指标</td><td>0.15</td></tr><tr><td>铁路货运量</td><td></td><td>正指标</td><td>0.15</td></tr><tr><td rowspan="8">环境系统</td><td rowspan="2">环境污染(0.29)</td><td>等级公路里程</td><td>正指标</td><td>0.15</td></tr><tr><td>废水排放量</td><td>负指标</td><td>0.14</td></tr><tr><td rowspan="5">环境治理(0.71)</td><td>工业废气排放量</td><td>负指标</td><td>0.15</td></tr><tr><td>人均公园绿地面积</td><td>正指标</td><td>0.14</td></tr><tr><td>建成区绿化率</td><td>正指标</td><td>0.15</td></tr><tr><td>固体废物利用率</td><td>正指标</td><td>0.14</td></tr><tr><td>污水集中处理率</td><td>正指标</td><td>0.14</td></tr><tr><td></td><td>垃圾无害处理率</td><td></td><td>正指标</td><td>0.14</td></tr></table></body></html>
+
+![](images/0fc803bb6f377ddd70cd182212a5699b8b0f33d3e32f1e101e4e6e6204654b8a.jpg)  
+图1关中平原城市群交通、产业与环境各系统发展评价指数 Fig.1 Development evaluation index values of transportation,industry and environment systems in Guanzhong Plain urban agglomeration
+
+统次之，交通系统发展最为落后，整体发展属于交通系统滞后性。产业、环境发展与交通系统的矛盾较为突出，交通系统对城市群的整体发展存在明显的掣肘作用。
+
+3.1.2 城市群系统综合发展指数空间分布特征为进一步探究城市群交通、产业和环境三系统综合发展指数的空间演化特征，本文选取2008、2013年和2019年3个时间节点，对关中平原城市群各城市的三系统综合发展指数进行插值计算分析，结果如图
+
+2所示。
+
+三系统综合发展指数单极态势突出，城间发展水平差异加剧。2008—2013年，关中平原城市群域内三系统综合发展指数呈现出逐渐优化的态势。在城市群发育初期，系统综合发展指数热点地域主要集中于西安市、商洛市和咸阳市等陕西省中部城市，相对冷点区域较少，这表明此时城市群内系统综合发展指数的水平差异相对较小。2013年后，西安市作为核心交通枢纽，在系统综合发展指数空间格局分布上仍旧作为极热点存在，但域内相对冷点的城市有所增多，表明在城市群系统综合发展水平逐渐优化的情况下，域内各城市相对差异变大。截至2019年，域内各城市的系统综合发展水平差异进一步加剧，前期的相对高热点城市如铜川市和渭南市已经转变为冷点城市。系统综合发展水平中高梯度地区趋向于城市群中南部地域集聚，主要集中在西安市、宝鸡市、商洛市和咸阳市。以上愈发严重的区域空间分布异质性表明，城市群发展目前处于极化发展期，区域中心西安市发展虹吸效应明显，周边城市未能充分利用区域中心城市带来的发展机遇，区域次中心发育严重不足。这是由于城市群的发展整体上属于交通滞后性，不发达的交通网络不利于资源和人口等生产要素在全区范围内均衡的快速流动，区域经济发展不均衡问题凸显。
+
+![](images/9f3ec9540ce775cb26afa6a6c067bdb9187ad30102788e648a3b14a6bee99dfa.jpg)
+
+三系统综合发展指数地区分布指向明确，政策导向作用清晰。对比3个时间断面下系统综合发展指数的空间格局分布可知，随着关中平原城市群“一圈一轴三带"空间布局规划的深入实施,西安市和咸阳市作为大西安都市圈的核心城市，综合发展指数始终处于前列。宝鸡市和渭南市依托于陇海铁路和连霍高速主轴线，致力于形成现代化的产业带和城镇集聚带。截止2019年底，宝鸡市和渭南市分别以0.56和0.47的综合发展指数值，排名前列。包茂发展带、京昆发展带和福银发展带等沿线城市系统综合发展指数也保持稳定增长的态势。
+
+3.1.3各地区各系统发展评价指数时间演化分布特征选取2008、2013年和2019年3个时间断面，可视化表示关中平原城市群各城市交通、产业和环境各系统的发展水平(图3)。各城市各系统发展存在
+
+![](images/81b83b9fe88a2b594653c065adf30cf780ff03951d633d592219c98c8693466f.jpg)  
+注：该图基于陕西省自然资源厅标准地图服务网站下载的审图号为陕S(2021)023号的标准地图制作，底图边界无修改。下同。图22008—2019年各城市交通-产业-环境系统综合发展指数空间分布及演化Fig.2Spatial distribution and evolution of comprehensive development index oftransportation-industry-environment system in each city from 20o8 to 2019  
+图32008—2019年不同时间点的各城市各系统发展水平Fig.3Development level of each system in each city from 2oo8 to 2019
+
+# 干旱区地理
+
+一定的失衡现象。（1）在交通系统方面，除临汾市外，其余各市交通系统评价值提升率均在 $6 0 \%$ 以上，其中庆阳市、平凉市、铜川市、商洛市和运城市是交通系统发展进步最明显的5个城市。其关键原因在于民用汽车拥有量、公路客货运量和铁路客货运量的快速增长，民用汽车拥有量是共有的前三甲助力因素。庆阳市交通系统发展的第一和第三影响要素分别是铁路客运量和货运量的增长。铜川市、商洛市和运城市交通发展的第一影响要素是公路货运量的增长。公路客运量和城市道路面积的增长对平凉和运城交通系统的快速发展同样发挥了重要作用。（2）在产业系统方面，2008年以来，各城市产业系统均有所增长，但体现出明显的区域差异。天水市经济发展最为迅速，西安市、临汾市、运城市和平凉市发展速度居中。这是由于国务院在2009年批复建立“关中-天水经济区”后，天水市作为重要的核心城市，在新型区域合作机制下，在医药食品、现代农业及商贸旅游等产业方面进步明显。（3）在环境系统方面，党中央将生态文明建设纳入“五位一体”的总体布局以后，各城市生态环境质量均明显提高，进步最明显的5个城市别是临汾市、咸阳市、宝鸡市、运城市和西安市。天水市作为产业系统发展提升程度最大的城市，其环境评价值提高程度仅排名第8位，这也从侧面反映了在天水市经济发展的过程中，对生态环境的保护意识还需增强。
+
+3.1.4各地区各系统发展评价指数空间演化分布特征图4、图5和图6分别为关中平原城市群区域内各城市交通、产业和环境各系统发展评价指数空间分布图。在评价年份内，交通和产业系统发展评价指数空间分布均存在西安市作为单极核心的特征。交通系统发展评价指数较高的城市主要位于
+
+![](images/a1fd872077398831b2c95c5d40f9c15e8adc3e0b8397f7e3ed3af30cf8ccd4a7.jpg)  
+图42008—2019年各城市交通系统发展水平空间分布  
+Fig.4Spatial distribution of development level of transportation system in each city from 2Oo8 to 2019   
+图52008—2019年各城市产业系统发展水平空间分布  
+Fig.5Spatial distribution of development level of industry system in each city from 2Oo8 to 2019
+
+(a)2008年 NA (b)2013年 NA (c)2019年 NΛ庆阳市 临汾市 庆阳市 临汾市 庆阳市 临汾市平凉市 桐川市 运城市 平凉市铜川市 运城市 平凉市铜川市 运城市  
+天水市宝鸡市 咸阳市渭南市 西安市洛市 二界 关水市 宝鸡市西安市 广安市 界 关水市 安 二界发展评价指数 发展评价指数 发展评价指数0100km 0.12 0100km 0.29 0100km 0.330.61 0.73 0.97
+
+![](images/3f2d4566a561d61757a0e2e9509ddf0371c2120a082719786e8ac2cc7d2a4dc0.jpg)  
+图62008—2019年各城市环境系统发展水平空间分布  
+Fig.6Spatial distribution of development level of environment system in each city from 2O08 to 2019
+
+陕西省中部城市以及山西省的运城市和临汾市。甘肃省的天水市、平凉市和庆阳市由于不良的地形条件以及地区财政投入的不足，交通系统的发展水平始终处在下游水平。产业系统发展评价指数的分布格局与交通系统发展评价指数的分布类似，这也一定程度上反映了交通系统的发展是产业经济发展的重要纽带，是决定产业发展水平和发展速度的重要条件。环境系统发展评价指数的分布特征则与之不同。2008年，环境系统发展水平较高的是西安市、铜川市、商洛市和甘肃省东部城市，而经济发展水平较高的陕西省中部城市咸阳市和宝鸡市环境发展水平等级较低。这说明在此期间城市经济发展仍然维持一个粗犷式发展的状态，以环境破坏作为代价来进行发展，对可持续发展的理念认识不到位。在此之后，宝鸡市和咸阳市等经济发展较好的城市，逐步认识到可持续发展的重要性，生态环境质量得到明显提高。关中平原城市群环境系统发展评价指数的空间格局由最初的东西两翼高态势向区域中心高态势转变，这说明区域中心城市正在各个方面发挥中心城市的辐射带动作用
+
+# 3.2交通、产业与环境系统耦合协调发展时空演变特征
+
+3.2.1 耦合协调度的时间演变特征交通系统是产业发展的重要载体，产业系统对交通网络的演化产生反馈效应，二者之间存在着某种程度的耦合协调关系。与此同时，社会经济活动直接或间接地破坏了生态平衡。因此，测度城市交通、产业和环境三者的协调发展关系对推动城市高质量发展和可持续发展具有重要的意义。2008—2019年关中平原城市群“交通-产业-环境"三者间的耦合度和耦合协调度，如表3所示。
+
+2008—2019年，关中平原城市群"交通-产业-环境”三者综合发展水平耦合协调度逐渐优化，耦合协调等级由轻度失调(0.33)向濒临失调(0.45)转变，但年均提升率仅为 $3 . 3 1 \%$ 。这说明城市群交通、产业与环境三者协同发展的耦合效应由弱变强，但三系统间的耦合协调度绝对水平仍较低。基于耦合协调度的划分等级，关中平原城市群“交通-产
+
+表3关中平原城市群交通、产业与环境发展水平耦合协调度及等级划分  
+Tab.3 Coupling coordination degree and grade division of transportation,industry and environment development level in Guanzhong Plain urban agglomeration   
+
+<html><body><table><tr><td>年份</td><td>耦合度</td><td>耦合协调度</td><td>协调等级类型</td><td>年份</td><td>耦合度</td><td>耦合协调度</td><td>协调等级类型</td></tr><tr><td>2008</td><td>0.28</td><td>0.33</td><td>轻度失调</td><td>2014</td><td>0.37</td><td>0.40</td><td>濒临失调</td></tr><tr><td>2009</td><td>0.32</td><td>0.34</td><td>轻度失调</td><td>2015</td><td>0.38</td><td>0.42</td><td>濒临失调</td></tr><tr><td>2010</td><td>0.34</td><td>0.36</td><td>轻度失调</td><td>2016</td><td>0.39</td><td>0.43</td><td>濒临失调</td></tr><tr><td>2011</td><td>0.34</td><td>0.36</td><td>轻度失调</td><td>2017</td><td>0.40</td><td>0.44</td><td>濒临失调</td></tr><tr><td>2012</td><td>0.36</td><td>0.39</td><td>轻度失调</td><td>2018</td><td>0.40</td><td>0.45</td><td>濒临失调</td></tr><tr><td>2013</td><td>0.37</td><td>0.40</td><td>濒临失调</td><td>2019</td><td>0.41</td><td>0.45</td><td>濒临失调</td></tr></table></body></html>
+
+# 干旱区地理
+
+业-环境”三者的耦合协调发展状况一直处于失调阶段。耦合协调度从轻度失调过渡到濒临失调，但失调类型可分为两类，具体为：失调衰退类型（2008—2012年），耦合协调度处于0.33\~0.39之间，协调等级类型为轻度失调；中间过渡类型(2013—2019年），耦合协调度处于0.40\~0.45之间，协调等级类型为濒临失调。这主要是由于近年来关中平原城市群以西安咸阳国际机场、西安北客站和西安国际港务区为依托，加快将西安市和宝鸡市分别建设成为具有更大辐射范围和集聚能力的国际性综合交通枢纽和全国性综合交通枢纽，并且积极推进渭南市、商洛市、运城市、临汾市、天水市和平凉市等一批区域性交通枢纽的建设。随着关中平原城市群"四纵四横"的对外运输大通道、城市群内畅通的快速交通网络的构建，城市群交通系统滞后性发展的特点得到缓解。
+
+3.2.2耦合协调度的空间分布特征为进一步探索关中平原城市群“交通-产业-环境”三系统间的耦合协调度，选取2008、2013年和2019年3个时间节点，借助ArcGIS软件对各城市三系统发展的耦合协调度进行空间上的演化规律分析(图7)。
+
+2008年，关中平原城市群域内各城市的耦合协调度隶属于3个梯度，其中西安市处于勉强协调梯度，宝鸡市、咸阳市、渭南市、铜川市、临汾市、运城市和商洛市属于轻度失调梯度，庆阳市、平凉市和天水市属于中度失调梯度。由此，可以分析得出这一时间点上各城市三系统之间的耦合协调度均较低，交通、产业与环境在发展上存在显著差异性。2013年，各城市的耦合协调度均有所提升。其中，西安市耦合协调度由0.50增加至0.61，协调等级由勉强协调提升至初级协调。这可能是由于陕西省以西安市为中心的“米"字形高速铁路网以及高速公路网和航空站点设施的加快完善，既有的交通系统滞后性经济发展特点得到缓解。临汾市、运城市、宝鸡市、咸阳市、渭南市和商洛市“交通-产业-环境"耦合协调发展逐渐优化，协调等级已由轻度失调提升至濒临失调。关中平原城市群全域耦合协调等级较之前增加一个梯度，共计4个梯度。截至2019年，关中平原城市群域内各城市耦合协调度均在转型过渡阶段及以上。其中，西安市耦合协调度上升至中级协调阶段，宝鸡市耦合协调度上升至0.50,达到勉强协调梯度，这表明城市群区域交通、产业与环境三系统间的良性协同互动发展态势即将形成。关中平原城市群耦合协调度较好的城市主要在城市群中东部地区集聚，三系统耦合协调发展较差的城市主要是天水市和庆阳市。对比3个时间断面下关中平原城市群耦合协调度的空间差异可知，评价期内西安市一直处于高耦合协调的单极态势，整体空间格局基本呈现出以中心城市西安市为单核心，以宝鸡市、商洛市为两翼的协调发展区域形态。这可能与西安市确立了打造“三中心两高地一枢纽"的发展定位有关。各城市“交通-产业-环境"的耦合协调度差距逐渐缩小，耦合协调度等级为协调等级的城市逐渐增多，趋于集中连片分布。
+
+# 4结论
+
+本文基于城市群交通、产业和环境三系统特征
+
+(a)2008年 N (b)2013年 N (c)2019年 N人 A A庆阳市 临汾市 庆阳市 临汾市 庆阳市 临汾市凉市 铜川市 运城市 平凉市 铜川市 运城 平凉市 铜川市 运城市  
+天水市 咸阳市渭南市 天水市 咸阳市渭南市 天水市 咸阳市渭南市宝鸡市 西安市 图例 省界 宝鸡市西安市 图例 省界 宝鸡市西安市 图例 省界商洛市 市界 商洛市 市界 商洛市 市界耦合协调度 耦合协调度 耦合协调度0.21\~0.29(中度失调) 1 0.29(中度失调) 0.34(轻度失调)0.30\~0.39(轻度失调) 0.30\~0.39(轻度失调) 0.35\~0.39(轻度失调)0 100km ■0.50\~0.59(勉强协调) 0 100 km ■0.40\~0.49(濒临失调) 0 100km 0.40\~0.49(濒临失调)■0.60\~0.69(初级失调) ■0.50\~0.59(勉强协调)■0.70\~0.79(中级协调)
+
+构建耦合评价指标体系，利用熵权法和耦合协调度模型等方法，对2008一2019年关中平原城市群三系统发展指数以及三者间的耦合协调度时空演化特征进行研究。该研究弥补了既有研究大多针对“关中-天水经济区"这一区域性城市群，而对改革开放新高地、新定位下的关中平原城市群这一国家级城市群研究较少的缺陷。此外，将交通、产业和环境三系统放在同一体系内进行分析，突破了两系统间的单向关系研究。分析得出如下结论：
+
+(1）城市群交通、产业和环境三系统的综合发展指数逐渐上升，三者的演化趋势基本趋同，均呈现出稳定的协同上升趋势。城市群整体发展呈现交通系统滞后性特点，产业、环境发展与交通系统的矛盾较为突出。
+
+（2）评价年份内的三系统综合发展水平空间分布格局具有一致性，均体现出以大西安都市圈为核心，以西安市和咸阳市作为极热点城市，其余城市为外围受辐射冷点区的空间格局特征。在城市群系统综合发展水平逐渐优化的情况下，域内相对冷点的城市有所增多，域内各城市相对差异变大。
+
+(3）城市群交通、产业和环境三系统耦合协调发展水平趋于优化提升。耦合协调等级由中度失调向濒临失调转变，但就绝对水平来看，三系统间的耦合协调度仍较低。在空间分布上，西安市一直处于高耦合协调的单极态势，各城市“交通-产业-环境"的耦合协调度差距逐渐缩小，耦合协调度等级为协调等级的城市逐渐增多，趋于集中连片式分布。
+
+# 5建议
+
+(1）鉴于关中平原城市群交通、产业和环境各子系统发展水平总体表现为交通滞后性，产业及环境系统与交通系统矛盾较为突出，交通发展水平严重制约了城市群高质量发展。因此，城市群需要积极构建“一圈一轴三带"的空间发展格局，依托现有包茂高速、包海高铁、京昆高速、大西-西成高铁、福银高速和银西-西武高铁等对外通道，推动高速铁路建设，构建快速交通网络，充分利用“两型社会”建设的区域政策导向，推动城市群经济高质量发展。
+
+(2）鉴于关中平原城市群交通、产业和环境三系统综合发展水平空间格局基本形成系统发展单极态势突出，城间发展水平差异显著的特征。极点城市西安市需要充分发挥辐射作用，与周边城市签订区域发展战略合作协议，对口帮扶，打造区域性的特色经济带。耦合协调度低的城市如天水市、平凉市及庆阳市等城市需要充分考虑自身特点，紧紧依托包茂发展带、京昆发展带和福银发展带等产业带和城镇集聚发展轴的便利性，积极融入城市群协同发展。此外，强化中心城市辐射带动作用，逐步缩小区域间交通、产业和环境三系统耦合协调发展水平的差异。
+
+(3）鉴于关中平原城市群"交通-产业-环境"耦合协调发展水平趋于优化提升态势，耦合协调等级为协调的城市趋于集中连片式分布。各城市需要持续贯彻可持续发展理念，转变高能耗、高污染的粗狂式经济发展模式，重点倾斜发展低碳、绿色、环保产业，加强科技创新力度，大力节能减排，站在产品供应链顶端，致力于实现碳达峰、碳中和。各级政府应将节能减排效纳入政绩考核内容，建立政府年度新型考核机制。同时，加大交通基础设施的建设，一方面可以扩大内需，建立内循环体系，为产业发展注人强劲动力；另一方面可以促使生产要素在全区范围内均衡有效的流动，促进产业聚集。
+
+# 参考文献(References)
+
+[1]李永平.旅游产业、区域经济与生态环境协调发展研究[J].经济 问题,2020(8):122-129.[Li Yongping. Study on the coordinated development of tourism industry,regional economy and ecological environment[J]. On Economic Problems,2020(8): 122-129.]   
+[2] 周京奎,王文波，张彦彦.“产业-交通-环境"耦合协调发展的 时空演变——以京津冀城市群为例[J].华东师范大学学报(哲 学社会科学版),2019,51(5):118-134,240.[Zhou Jingkui,Wang Wenbo,Zhang Yanyan. The spatial-temporal evolution of coordinated development of industry-transportation-environment:A case study of the Beijing-Tianjin-Hebei urban agglomeration[J]. Journal ofEast China Normal University (Humanities and Social Sciences), 2019,51(5): 118-134,240.]   
+[3]孙平军,丁四保,修春亮.北京市人口-经济-空间城市化耦合 协调性分析[J].城市规划,2012,36(5):38-45.[Sun Pingjun, Ding Sibao,Xiu Chunliang.Analysis of the coordination of population-economy-space in Beijing[J]. City Planning Review,2012,36 (5): 38-45.]   
+[4]赵雪雁,杜昱璇,李花,等.黄河中游城镇化与生态系统服务耦 合关系的时空变化[J].自然资源学报,2021,36(1):131-147.
+
+# 干旱区地理
+
+[Zhao Xueyan,Du Yuxuan,Li Hua,et al. Spatio-temporal changes of the coupling relationship between urbanization and ecosystem services in the middle Yellow River[J]. Journal of Natural Resources,2021,36(1): 131-147.]
+
+[5]高林安.经济发展与生态环境耦合协调性识别与优化路径研究 以东北地区为例[J].统计与信息论坛，2020,35(1):74-81. [Gao Lin'an. Research on judgement and optimizing path of coupling and coordination between economy and eco-environment in northeast China[J]. Statistics & Information Forum,2020,35(1): 74-81.]
+
+[6]范擎宇,杨山,胡信.耦合视角下长三角地区城镇化协调度的时 空特征及交互机制[J].地理研究,2020,39(2):289-302.[Fan Qingyu,Yang Shan,Hu Xin. Temporal and spatial characteristics and interaction process of urbanization coordination in the Yangtze River Delta region from the perspective of coupling[J].Geographical Research,2020,39(2): 289-302.]
+
+[7]李恒吉,曲建升,庞家幸,等.甘肃省人口-经济-社会-资源-环 境系统耦合协调及可持续发展时空综合测度研究[J]J.干旱区 地理,2020,43(6): 1622-1634.[Li Hengji, Qu Jiansheng,Pang Jiaxing,et al. Spatial-temporal synthetic measurement of coupling coordination and sustainable development of population-economysociety-resource-environment system in Gansu Province[J].Arid Land Geography,2020,43(6): 1622-1634.]
+
+[8] 刘育红,尹晓娟.“关中-天水经济区"交通运输业与产业结构 关系研究[J].西安财经学院学报,2016,29(4):28-32.[Liu Yuhong,Yin Xiaojuan.Research on the relationship between the transportation industry and industrial structure in“GuanzhongTianshui economic zone"[J].Journal of Xi'an University of Finance and Economics,2016,29(4): 28-32.]
+
+[9]张雪薇,宗刚,朱慧珂.高铁开通对劳动生产率的影响研究- 基于生产性服务业集聚和产业结构变迁视角[J].软科学,2021, 35(2):38-45.[Zhang Xuewei, Zong Gang, Zhu Huike. Study on the impact of high-speed railway on labor productivity: From the perspective of producer service industry agglomeration and industrial structure change[J]. Soft Science,2021,35(2): 38-45.]
+
+[10]唐永超,王成新,王瑞莉,等.黄河流域区域交通与经济发展的 空间关联研究[J/OL].经济地理.[2022-04-06].http://kns.cnki.net/ kcms/detail/43.1126.k.20201014.1342.002.html.[Tang Yongchao, Wang Chengxin,WangRuili,et al.Study on the spatial correlation of regional transportation and economic development in the
+
+Yellow River Basin[J/OL]. Economic Geography.[2022-04-06] http://kns.cnki.net/kcms/detail/43.1126.k.20201014.1342.002.html.]   
+[11] 王晓宁,张宏智,付亚君.高速公路环境影响评价指标及标准探 讨[J].环境工程,2016,34(2):143-146.[Wang Xiaoning,Zhang Hongzhi,Fu Yajun.Discussion on freeway environmental impact assessment index and standard[J]. Environmental Engineering, 2016,34(2): 143-146.]   
+[12] 王兆峰,杜瑶瑶.长江中游城市群交通-旅游产业-生态环境的 耦合协调评价研究[J].长江流域资源与环境,2020,29(9): 1910-1921.[Wang Zhaofeng,Du Yaoyao.A study on the coupling of traffic-tourism industry-ecological environment in the middle of the Yangtze River[J]. Resources and Environment in the Yangtze Basin,2020,29(9): 1910-1921.]   
+[13] 黄磊.产业集聚提升了长江经济带城市工业绿色发展效率吗? [J].湖北大学学报(哲学社会科学版),2021,48(1):115-125. [Huang Lei. Does industrial agglomeration improve the fficiency of industrial green development in cities in the Yangtze River Economic Belt?[J]. Journal of Hubei University (Philosophy and Social Science),2021,48(1): 115-125.]   
+[14] 常明.产业结构服务化对空气质量的影响研究—基于我国 74个城市的经验证据[J].调研世界,2021(1):32-38.[Chang Ming. Study on the impact of service-oriented industrial structure on air quality: Based on the empirical evidence of 74 cities in China[J]. The World of Survey and Research,2021(1): 32-38.]   
+[15] 唐志强,秦娜.张掖市新型城镇化与生态安全耦合协调发展研 究[J].干旱区地理,2020,43(3):786-795.[Tang Zhiqiang, Qin Na. Coupling development of new type urbanization and ecological security in Zhangye City[J].Arid Land Geography,2020,43(3): 786-795.]   
+[16] 黄金川,方创琳.城市化与生态环境交互耦合机制与规律性分 析[J].地理研究,2003,22(2):211-220.[Huang Jinchuan,Fang Chuanglin.Analysis of coupling mechanism and rules between urbanization and eco-environment[J]. Geographical Research, 2003, 22(2): 211-220.]   
+[17] 任祁荣,于恩逸.甘肃省生态环境与社会经济系统协调发展的 耦合分析[J].生态学报,2021,41(8): 2944-2953.[Ren Qirong, Yu Enyi. Coupling analysis on coordinated development of ecological environment and social economic system in Gansu Province[J]. Acta Ecologica Sinica,2021,41(8): 2944-2953.]
+
+# Dynamic evolution characteristics of coordinated development of transportation-industry-environment in Guanzhong Plain urban agglomeration
+
+DA Cheng'， ZHANG Futao²， QIAN Yongsheng²， ZENG Junwei²， GUANG Xiaoping² (1.GansuProvinceTransportationPlang,urey&DesignInstituteCo.,td,Lanzhou33,GansuChina；2.hlf Transportation,Lanzhou Jiaotong University,Lanzhou 73oo7o,Gansu, China)
+
+Abstract:This study uses the entropy weight method and coupling coordination model to explore the change law and temporal and spatial distribution characteristics of the coupling and coordinated development relationshipof transportation,industry,and the environment in Guanzhong Plain urban agglomeration of China from 2008 to 2019.This studyuses paneldata of the transportation,industrial,and environmental systems of1l central cities in Guanzhong Plain urban agglomeration and proposes a theoretical reference for further improving the highquality development of Guanzhong Plain urban agglomeration.The results show that (1） the development evaluation indexes of transportation，industry，and environment subsystems of urban agglomeration are differentiated,the development growth rate of the transportation system is much higher than thatof the other two systems,and the contradiction between industrial and environmental development and the transportation system is more prominent. (2) The spatial distribution of the comprehensive development index of the three systems has an obvious unipolar trend,and the difference in the development level between cities has intensified.Xi'an and Xianyang City exist as extremely hot cities,and the other cities are peripheral radiation cold spots.(3）The coupling and coordinated development level of urban agglomeration tends to be optimized and improved overall, but tending toward imbalance.Among them, Xi'an City has been in a unipolar situation of high coupling and coordination,butthe gap between the cities in coupling and coordination has gradually narrowed,and the number of cities with coupling and coordination has gradually increased,tending to be concentrated and distributed. Therefore,to realize the high-quality development of Guanzhong Plain urban agglomeration,it is necessary to first actively build a spatial development pattern of“one circle，one axis,and three belts,” promote the construction of a high-speed railway,build a rapid transportation network,and change the current development characteristics of traffic lag.Second,it is necessary to strengthen the radiation driving role of central cities and gradually reduce the differences in the coupling and coordinated development level of regional transportation, industry，and environment.This study plugs the gap in existing research on Guanzhong Plain urban agglomeration,a national urban agglomeration under the new orientation of reform and opening up,and places transportation,industry,and environment inthesame system,breaking through theresearch ontheone-wayrelationship between each two systems.
+
+Key words: Guanzhong Plain urban agglomeration; transportation system； industry system； environment sys-tem； coupling coordination

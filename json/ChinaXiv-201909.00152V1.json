@@ -1,0 +1,524 @@
+[
+    {
+        "type": "text",
+        "text": "2000一2015年柴达木盆地植被覆盖度时空变化及其与环境因子的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张斯琦¹，陈辉¹，宋明华²，付阳¹，牛慧慧¹，杨祎¹，张博雄¹（1河北师范大学资源与环境科学学院,河北省环境演变与生态建设实验室,河北石家庄050024;2中国科学院地理科学与资源研究所,生态系统网络观测与模拟重点实验室,北京100101)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于MODIS-NDVI、DEM和气象数据,分析柴达木盆地2000—2015年植被覆盖度（FVC）时空变化特征，并与降水、温度、日照时数、相对湿度、蒸散量和海拔进行相关、偏相关或叠加分析，探讨 $F V C$ 与各环境因子的关系。结果表明： $F V C$ 整体自东南向西北内陆呈半环状递减，FVC集中在$20 \\%$ 以下，人类活动及径流等打破植被地带性规律;2000—2015年FVC 明显改善,广泛分布于盆地中西部地区，2001—2002年年际变化最显著； $F V C$ 与降水、相对湿度以正相关为主，与温度关系不显著，与日照时数和蒸散量主要为负相关，降水对FVC贡献最大，温度通过影响蒸散量等间接影响$F V C$ ，而土壤蒸发对蒸散量的影响大于植物蒸腾； $F V C$ 与等高线空间分布较吻合，FVC在 $2 ~ 8 0 0 \\sim$ $2 ~ 9 0 0 ~ \\mathrm { m }$ 和 $4 ~ 6 0 0 \\sim 4 ~ 7 0 0 \\mathrm { ~ m ~ }$ 出现两个峰值， $4 \\ 7 0 0 \\ \\mathrm { m }$ 以上FVC 迅速降低。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：植被覆盖度；年际变化；环境因子；相关分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "气候变化对植被结构和功能的影响是全球变化与陆地生态系统（GCTE)研究的重要内容，受到国内外学者高度重视[1]。植被作为生态系统最活跃因素之一，对地表能量交换过程、生物地球化学循环过程和碳循环过程起重要作用[2],是气候变化的指示器。植被覆盖度（fractionalvegetationcover，FVC）是衡量植被变化的重要指标，一定程度上反映植被生长状态和结构[3」，特别在全球气候变暖背景下，环境因子的变化必然在植被覆盖方面有所响应，继而为植被一气候变化交互过程研究和生态环境治理提供重要依据。FVC与气候的关系已成为当前全球变化研究的重点[4]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "遥感具有时效性强、覆盖范围广等特点[5],是FVC获取的主要手段。NDVI能够较好的反映植被生长状况,广泛用于植被与气候关系研究[6-7],主要包括FVC 时空分布及其对温度和降水的响应[8-9]徐兴奎等[10]根据 NOAA-AVHRR的NDVI数据分析青藏高原FVC时空变化特征，揭示温度升高对高原北部FVC退化影响更为突出;穆少杰等[1]通过 MO-DIS-NDVI数据研究表明2001—2010年内蒙古FVC整体呈上升趋势，且与降雨量相关性更高；张戈丽等[4]基于GIMMS-NDVI数据从不同时段对呼伦贝尔草地与气候进行研究，结果显示年际尺度草原覆盖与降水关系更为密切，而5月受温度影响更大。由于数据、尺度等原因，不同学者对FVC与温度和降水关系的观点不同。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地位于青藏高原北部，地处季风区和西风区的过渡地带[6],生态环境脆弱。高寒干旱的气候和复杂的地形使盆地内分布高山裸岩、戈壁荒漠等景观，人类活动影响较小，是研究自然状态下植被与环境因子关系较为理想区域。柴达木盆地也是全球气候变化最敏感的区域之一[1],盆地内 FVC变化能综合反映区域甚至全国气候与环境变化。目前有关柴达木盆地FVC及其与环境因子关系研究较少，多数集中于对青藏高原FVC的相关研究[12-13],盆地内部植被覆盖细节特征在以往研究中常被忽略，同一地区FVC变化尚有较大争议[10,14-15]。因此,阐明柴达木盆地 FVC 和环境因子的关系对于干旱半干旱地区生态系统研究有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地植被覆盖变化及其对温度和降水响应的研究结论不—[4,8-10,1]。此外, $F V C$ 与地形、日照时数等多种因素有关。基于此，本文选取2000一2015年MODIS-NDVI数据，结合同期周边35个站点气象数据和DEM数据，揭示柴达木盆地FVC时空分布特征及其与降水、温度、相对湿度、日照时数、蒸散量和海拔的关系，以期得到柴达木盆地FVC与多个环境因子更为详细的关系，为干旱区生态环境和气候变化研究提供一定参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地位于青海省西北部,是由阿尔金山脉、昆仑山脉和祁连山脉围绕的山间盆地[11（图1)。盆地海拔 $2 ~ 6 5 1 \\sim 6 ~ 1 5 1 ~ \\mathrm { m }$ ,垂直分异明显。年降水量 $1 5 \\sim 2 0 0 ~ \\mathrm { m m }$ ,年均温在 $5 \\ \\mathrm { { ^ circ C } }$ 以下,相对湿度$3 0 \\% \\sim 4 0 \\%$ ，干旱少雨，蒸发旺盛，属典型的高原大陆性气候。盆地内河网密布，湖泊众多，有大哈勒腾河、那仁郭勒河、苏干湖等。柴达木盆地植被较为稀疏，植被结构简单，以具有高度抗旱能力的灌木、半灌木为主，主要植被类型有驼绒藜（Ceratoideslat-ens）盐爪爪（Kalidiumfoliatum）合头草（Sympegmaregelii)等。城镇主要分布在中部和东南绿洲区，其",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/85e3a773f2aefcc7683929bb4cb01d4934273cde746762163977024553b77222.jpg",
+        "img_caption": [
+            "图1柴达木盆地位置和植被类型分布",
+            "Fig.1Location and vegetation type distribution in the Qaidam Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "他区域人类活动稀少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源与预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遥感数据源于美国国家航空航天局（NASA）的MODIS数据。本文选取2000—2015年5～9月的MODIS13Q1产品,空间分辨率 $2 5 0 \\mathrm { ~ m ~ } \\times 2 5 0 \\mathrm { ~ m ~ }$ ,时间分辨率16d,该产品经过几何粗校正、大气校正等预处理，在此基础上,通过MRT对 MODIS-NDVI进行拼接和重投影。MODIS16天合成产品会受到太阳高度角、气溶胶等因素影响，利用最大值合成法（MVC）对各月NDVI数据进行异常值处理，得到2000—2015年柴达木盆地生长季的NDVI数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气象数据采用中国气象科学数据共享服务网(data.cma.cn)2000—2015年柴达木盆地及周边35个气象站点逐日数据集。对气象数据进行异常值处理，利用Matlab-R2011b计算16a逐日蒸散量，对其进行累计统计，得到每个气象站点生长季的总蒸散量。根据ArcGIS10.2对气象数据进行Kriging插值处理，得到同期分辨率一致的降水、温度、相对湿度、日照时数和蒸散量的栅格气象数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被类型数据为寒区旱区科学数据中心的$1 \\colon 1 \\ 0 0 0 \\ 0 0 0$ 中国植被图（westdc.westgis.ac.cn），土地利用数据由中科院数据中心提供，包括林地、建筑用地等6类（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数字高程数据采用地理空间数据云（www.gscloud.cn） STRM $9 0 \\mathrm { ~ m ~ }$ 的DEM数据,将该数据经拼接、投影变换，重采样为 $2 5 0 \\mathrm { ~ m ~ }$ 分辨率DEM影像，得到柴达木盆地高程分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1植被覆盖度的计算像元分解模型法是间接估算 $F V C$ 的一种常用方法,通常利用NDVI直接提取植被覆盖信息[16]。它假设像元由植被信息和裸土信息组成，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN D V I = F _ { \\mathrm { { \\it i } } } \\times N D V I _ { \\mathrm { { \\it v } } } + \\left( 1 - F _ { \\mathrm { { \\it i } } } \\right) \\times N D V I _ { \\mathrm { { \\it s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { i } = \\frac { N D V I - N D V I _ { s } } { N D V I _ { v } - N D V I _ { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { F } _ { i }$ 为第 $i$ 年的植被覆盖度； $i$ 为年份； $N D W _ { s }$ 为裸土像元贡献的信息； $N D W _ { v }$ 为纯植被像元贡献的信息；NDVI为像元植被覆盖部分和非植被覆盖部分的加权平均。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 植被覆盖度变化超势计算 对2000—2015年植被覆盖度进行一元线性回归分析，利用最小二乘法计算 $1 6 \\ a$ 柴达木盆地 $F V C$ 的变化趋势，公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb ~ = ~ { \\frac { n ~ { \\times } ~ \\sum _ { i = 1 } ^ { n } i ~ { \\times } ~ F _ { i } ~ - ~ \\sum _ { i = 1 } ^ { n } i \\sum _ { i = 1 } ^ { n } F _ { i } } { n ~ { \\times } ~ \\sum _ { i = 1 } ^ { n } i ^ { 2 } ~ - ~ ( ~ \\sum _ { i = 1 } ^ { n } i ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $b$ 为拟合方程斜率； $n$ 为监测时段年数; $\\boldsymbol { F } _ { i }$ 为第 $i$ 年的植被覆盖度； $i$ 为年份。采用 $F$ 检验对方程进行显著性检验，共分为极显著增加( $\\mathit { \\Omega } _ { \\left. b > 0 , P < \\right. }$ 0.01），显著增加( $\\because b > 0 , 0 . 0 1 \\leqslant P < 0 . 0 5 )$ ,无显著变化（ $\\scriptstyle P \\geqslant 0 . 0 5 )$ ，显著减少( $b < 0 , 0 . 0 1 \\leqslant P < 0 . 0 5 .$ 和极显著减少( $\\because b < 0 , P < 0 . 0 1$ ）5级。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3蒸散量的计算潜在蒸散量 $( E T _ { 0 }$ )是假设作物高度为 $0 . 1 2 \\mathrm { ~ m ~ }$ ,反照率和冠层阻力分别为0.23和 $7 0 \\mathrm { ~ s ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 1 }$ 的冠层蒸散,通常为土壤蒸发和植物蒸腾的总耗水量[17],它在一定程度上综合反映植被覆盖状况及其与温度、海拔、日照时数等环境因子的复杂关系。联合国粮农组织（FAO)推荐的Penman-Monteith公式结合了水分循环与能量平衡，广泛适用于全球范围蒸散量的研究[18],本文选用Penman-Monteith公式计算蒸散量，即：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE T _ { 0 } = \\frac { 0 . 4 0 8 \\Delta ( R _ { n } - G ) + \\gamma \\frac { 9 0 0 } { T + 2 7 3 } u ( e _ { s } - e ) } { \\Delta + \\gamma ( 1 + 0 . 3 4 u ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { n } = 0 . 7 7 \\times ( a + b \\frac { n } { N } ) R _ { s o } - R _ { n l }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\Delta$ 为饱和水气压一温度斜率( $\\mathrm { \\ k P a \\ \\cdot \\ ^ { \\circ } C \\ ^ { - 1 } }$ ）； $R _ { n }$ 为植被表面净辐射 $( \\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 } ,$ ; $G$ 为土壤热通量 $( \\mathbf { M } \\mathbf { J } \\cdot \\mathbf { m } ^ { - 2 } \\cdot \\mathbf { d } ^ { - 1 }$ ） $\\gamma$ 为干湿常数 $\\left( \\mathrm { k P a } \\cdot \\mathcal { C } ^ { - 1 } \\right) ; T$ （204号为日均温 $( { \\mathcal { \\mathbf { C } } } ) _ { } { \\mathbf { ; } } u$ 为 $2 \\mathrm { ~ m ~ }$ 高风速 $( \\mathbf { \\nabla } \\mathbf { m } \\cdot \\mathbf { \\nabla } _ { \\mathbf { s } } ^ { - 1 } ) ; e _ { s }$ 为饱和水气压( $\\left. \\mathrm { k P a } \\right.$ ： $e$ 为实际水气压 $( \\mathrm { k P a } ) ; a , b$ 为经验系数； $n$ 为实际日照时数 $( \\mathbf { h } ) { : } N$ 为最大可能日照时数 $( \\mathbf { h } ) { \\mathbf { \\Omega } } _ { ; { R _ { s o } } }$ 为晴天辐射 $( \\mathrm {  ~ M J ~ } \\cdot \\mathrm {  ~ m ~ } ^ { - 2 } \\cdot \\mathrm {  ~ d ~ } ^ { - 1 }$ ） $R _ { n l }$ 为净长波辐射 $( \\mathbf { M } \\mathbf { J } \\cdot \\mathbf { m } ^ { - 2 } \\cdot \\mathbf { d } ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型中经验系数选取直接决定 $\\boldsymbol { R } _ { n }$ 的准确性，区域不同经验系数差异较大，FAO推荐的模型系数( $\\boldsymbol { a }$ $= 0 . 2 5 , b = 0 . 5 )$ 并不适用于我国区域研究。本文选取校正的Penman-Monteith模型参数( $\\stackrel { \\prime } { a } = 0 . 1 9 8 , b =$ 0.787)用于蒸散量的计算[19]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.4植被覆盖度与环境因子相关性计算为研究 $F V C$ 与各环境因子间关系的密切程度，运用相关分析对其进行定量描述，相关系数计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { x y } \\ = \\ { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( x _ { i } \\ - { \\bar { x } } \\right) \\left( y _ { i } \\ - { \\bar { y } } \\right) } { \\displaystyle { \\sqrt { \\sum _ { i = 1 } ^ { n } \\left( x _ { i } \\ - { \\bar { x } } \\right) ^ { 2 } } } { \\sqrt { \\sum _ { i = 1 } ^ { n } \\left( y _ { i } \\ - { \\bar { y } } \\right) ^ { 2 } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $r _ { x y }$ 为变量 $x , y$ 的相关系数； $x _ { i }$ 为第 $i$ 年植被覆盖度； $y _ { i }$ 为第 $i$ 年环境因子； $\\bar { x }$ 为16a平均 $F V C ; { \\bar { y } }$ 为16a各环境因子的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FVC受多个因素综合影响。通常单独研究两个变量间的相互关系，暂不考虑第3个变量的影响，即利用偏相关系数进行分析：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { 1 2 3 } = \\frac { r _ { 1 2 } - r _ { 1 3 } r _ { 2 3 } } { \\sqrt { \\left( 1 - r _ { 1 3 } ^ { 2 } \\right) + \\left( 1 - r _ { 2 3 } ^ { 2 } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $r _ { 1 2 3 }$ 为控制第3个变量时变量1和2的偏相关系数； $r _ { 1 2 } \\ 、 r _ { 1 3 } 、 r _ { 2 3 }$ 分别为1与2、1与3、2与3之间的相关系数，并利用 $\\mathbf { \\chi } _ { t }$ 检验对其显著性进行检验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1柴达木盆地多年平均植被覆盖度空间分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2000—2015年FVC整体呈现自东南向西北内陆呈半环状递减趋势，平均植被覆盖 $1 0 . 2 3 \\%$ （图2)。其中 $4 \\%$ 区域 $F V C$ 在 $5 \\%$ 以下，零星分布于昆仑山区和部分西北内陆地区，昆仑山顶常年积雪覆盖，高反射率影响了FVC反演效果。盆地东南低山区紫花针茅草原区、中部格尔木一诺木洪一带绿洲核心区前缘芦苇一野麻一怪柳草甸区、苏干湖东部冲积平原芦苇一赖草草甸区约 $5 . 9 \\%$ 区域 $F V C$ 在$40 \\%$ 以上，该区域湖泊和径流等水文条件较好，利于植被生长，打破了FVC 地带性分布规律。昆仑山区、巴音郭勒河和霍兰郭勒河周边水源相对充足，FVC多集中在 $2 0 \\% \\sim 4 0 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e9d01ce25636dec2a5e8ce96e024dd4c79253ea6c2f9f83dedf34c0b994c8d8.jpg",
+        "img_caption": [
+            "图22000—2015年柴达木盆地植被覆盖度空间分布 Fig.2Spatial distribution of fractional vegetation cover in the Qaidam Basin during 2OoO—2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2柴达木盆地植被覆盖度年际变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地2000—2015年年均FVC总体呈波动增长趋势，平均改善面积 $2 1 . 2 5 \\%$ （图3a），森林、草原和草甸改善趋势较为明显（图3b）。其中2002—2006 年平均FVC 持续增长，2001—2002 年增速最为显著，平均年际变化率达0.15。格尔木一昆仑山脉之间山间平原、尕斯库勒湖和苏干湖以南的中西部地区以及乌兰周边祁连圆柏、嵩草草甸区$F V C$ 极显著增加，占区域面积 $9 . 4 \\%$ 。显著增加面积达 $14 \\%$ ,广泛分布在盆地中西部荒漠地区、东部山区及那仁郭勒河下游河谷地区。 $F V C$ 极显著减少和显著减少的区域分别为 $1 . 0 6 \\%$ 和 $1 . 0 9 \\%$ ,主要位于那仁郭勒河、台吉乃尔河之间芦苇草甸区，台吉乃尔湖等湖泊周边盐沼地区、香日德河芦苇一野麻一怪柳草甸区和沙蒿荒漠区以及霍兰郭勒河下游紫花针茅草原区。由于河湖沿岸冲积平原多城镇分布，人类活动较强，常被改造为盐场等建设用地，故FVC退化趋势明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ZHOU 等[20]曾指出全球气候变暖背景下北半球中纬度植被活动增强,FANG 等[21]发现我国大部分地区植被活动也在增强。本研究发现2000—2015年柴达木盆地FVC总体呈上升趋势，与前人研究结果一致，但是不同类型植被变化有较大差异，特别是2013—2015年荒漠和湿地等分布区FVC明显降低,主要受人类活动影响[22]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3柴达木盆地植被覆盖度与环境因子的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1植被覆盖度与气象要素的关系图4a显示FVC对降水量响应较为敏感，正相关面积达$1 8 . 8 7 \\%$ ,主要分布在盆地东南山区、大柴旦一德令哈一线以北及尕斯库勒湖以南地区，其中 $7 . 5 7 \\%$ 极显著正相关区域集中在东南低山区，该区域临近印度洋水汽源地，生长季多在迎风坡形成降水，且海拔较低，温度对植被生长限制性较小，促进植被活动的增强。 $0 . 7 3 \\%$ 的负相关区域位于中部绿洲核心区前缘，该地区多分布盐碱湿地，平坦的地形和相对密集的径流弥补了降水不足的缺陷[23],生长了茂密的盐生植被，负相关关系显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FVC与温度关系并不明显（图4b），仅 $2 . 4 9 \\%$ 的区域通过显著性检验,这与张学珍等[24]的结论一致。FVC与温度 $1 . 3 \\%$ 显著正相关区域零星分布在盆地南部和祁连山南部山区，主要植被类型为小嵩草和风毛菊，德令哈一都兰一线以东部分山前冲积平原温度较低，雨水多在此汇集，水分较为充足，使该地区FVC 略高于其他荒漠地区，呈现显著负相关。罗玲等[8]表明东北地区植被与温度的相关性明显高于降水。柴达木盆地是典型的干旱半干旱生态系统，降水是植被生长主要限制因子，与FVC相关性远高于温度，以致出现相反的结论。但大范围内FVC对温度的响应尚有待进一步研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FVC与相对湿度 $9 . 4 1 \\%$ 区域关系显著（图4c）。 $7 . 7 \\%$ 的正相关区域分布在都兰一香日德一线以东低山区和昆仑山以北山间盆地，其中都兰以东紫花针茅草原地区相关性最为显著，与降水极显著正相关区域有较好重叠性。都兰以东低山区降水充足且温度较低，空气流动慢，蒸发相对较弱，相对湿度较高，植被覆盖高。中部绿洲核心区前缘近内陆，相对湿度低，但该地区河湖众多，地下径流丰富，植被生长茂盛，且相比于其他内陆地区人类活动频繁,人工植被和农田分布集中，因此负相关关系显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fea2d091c53298089e1b0ddefa64d6b34c63037894f904b61b9e6314601ac1b.jpg",
+        "img_caption": [
+            "图32000—2015年柴达木盆地植被覆盖度变化趋势",
+            "Fig.3Change trend of fractional vegetation cover in the Qaidam Basin during 2Ooo—2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6505513980ad254088020865574692ad3ece50bb4aeec2b51f39ef0d17e5098d.jpg",
+        "img_caption": [
+            "图4植被覆盖度与降水(a)、温度(b)、相对湿度(c)、日照时数(d)相关分析结果Fig.4Correlation analysis between fractional vegetation cover and precipitation（a），temperature（b）,relative humidity(c）and sunshine hours（d)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "格尔木一诺木洪以南、西南昆仑山区、大柴旦以东 $7 . 8 1 \\%$ 区域 $F V C$ 与日照时数呈负相关（图4d)，其中 $1 . 6 6 \\%$ 为极显著负相关。负相关区域日照时数少，生长季多降水，植被较为茂盛。苏干湖一大哈勒腾河等区域周边 $0 . 9 9 \\%$ 区域呈正相关，该地区是柴达木盆地日照时数最为充足的地区，也是西北内陆水分相对充足的区域，与盆地内其他沙漠地区相比能够生长驼绒藜和芦苇等植被，正相关关系显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FVC与主要气候因子关系差异较大（表1），其",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1植被覆盖度与气候因子的相关区域面积百分比／%",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c74d9c342c5e3cea46b8adc78dd66601a7a11fc679cb7b92f8c9be0311b763f8.jpg",
+        "table_caption": [
+            "Tab.1Percentage of relevant areas of fractional vegetation cover and climatic factors /% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>降水</td><td>温度</td><td>相对湿度</td><td>日照时数</td></tr><tr><td>极显著负相关</td><td>0.09</td><td>0.16</td><td>0.39</td><td>1.66</td></tr><tr><td>显著负相关</td><td>0.64</td><td>1.03</td><td>1.32</td><td>6.25</td></tr><tr><td>显著正相关</td><td>11.30</td><td>0.85</td><td>5.25</td><td>0.85</td></tr><tr><td>极显著正相关</td><td>7.57</td><td>0.45</td><td>2.45</td><td>0.14</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中显著相关区域面积为降水 $>$ 相对湿度 $>$ 日照时数$>$ 温度，即降水对盆地内FVC贡献高于其他因子，而温度对FVC直接贡献最小。但多种气候因子对FVC 综合影响有待进一步探讨。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.2植被覆盖度与蒸散量的关系蒸散量是土壤蒸发和植物蒸腾的综合反映，FVC与蒸散量呈明显负相关关系（图5），集中分布在大柴旦一德令哈以北森林草原区、都兰以东芨芨草草原区以及西南昆仑山荒漠草原区等植被覆盖较高区域。一方面高植被覆盖区域地表温度较低且植物需水量大，消耗土壤水分多，降低了土壤蒸发;另一方面区域内分布的紫花针茅、猪毛菜等植被叶片多呈针状或丝状，叶片面积小，植物蒸腾作用较弱，总体蒸散量偏低，相对充足的降水使FVC较高，间接说明盆地内植物蒸腾小于土壤蒸发对蒸散量的影响，这与盆地中西部干旱少雨、降水集中在盆地外围山区的背景相一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ade2743fbe7caf644502d2a07cf78a8f915306cfeb3ec30bd04e3cec08e494b0.jpg",
+        "img_caption": [
+            "图5植被覆盖度与蒸散量相关分析结果 Fig.5Correlation analysis between fractional vegetation cover and evapotranspiration "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "温度和降水的变化必然影响土壤湿度、植被的变化。为了更清楚了解FVC与蒸散量的关系，选取温度、降水为代表性因子与FVC和蒸散量进行偏相关分析。控制降水和温度因子得到蒸散量与FVC显著性区域面积均有大幅提高，图6a中FVC与蒸散量 $3 7 . 3 \\%$ 区域通过显著性检验，图6b西南昆仑山区等 $4 9 . 2 \\%$ 的区域通过显著性检验，高于FVC与降水的显著性面积。温度、降水很大程度影响了蒸散量与FVC关系，其中温度对蒸散量的贡献大于降水，即温度可能通过影响蒸散量等因素而间接影响FVC。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.3植被覆盖度与海拔的关系柴达木盆地海拔从盆地周边向西北内陆递减，与 $F V C$ 空间分布具有较好的一致性（图 $7 a$ ）。 $F V C < 1 0 \\%$ 区域与$3 ~ 5 0 0 ~ \\mathrm { m }$ 和 $4 ~ 6 0 0 \\mathrm { ~ m ~ }$ 等高线基本吻合，多分布荒漠植被和湿地;海拔 $3 ~ 5 0 0 \\sim 4 ~ 0 0 0 ~ \\mathrm { m }$ 区域内 $F V C$ 集中在$10 \\% \\sim 2 0 \\%$ ,分布有驼绒藜、白刺等荒漠植被和芨芨草等草原; $F V C > 2 0 \\%$ 的区域海拔基本在 $4 ~ 0 0 0 ~ \\sim$ $4 \\ 6 0 0 \\ \\mathrm { m }$ ,发育小嵩草、紫花针茅等高寒草原和草甸。海拔对 $F V C$ 的分布有较大的影响，使植被具有明显垂直分异特性。 $F V C$ 与海拔也具有良好的线性关系（图7b） $, 2 \\ 8 0 0 \\sim 2 \\ 9 0 0 \\ \\mathrm { m }$ 和 $4 \\ 6 0 0 \\sim 4 \\ 7 0 0 \\ \\mathrm { m }$ 处出现两个波峰。海拔在 $2 \\ 8 0 0 \\sim 2 \\ 9 0 0 \\ \\mathrm { m }$ 盆地中部绿洲区由于河湖以及地下水出流等原因[多形成芦苇、白刺、大花野麻等非地带性植被。随着海拔升高,温度逐渐代替降水成为植被生长的主要限制因子，使",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/eeee8486b317ee4ad0c489518637966cd655f6715d14376677bb6daaae49554a.jpg",
+        "img_caption": [
+            "Fig.6Partial correlationanalysisof fractional vegetationcover,evapotranspiration,precipitation（a）and temperature（b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/33b95038d553a9d570fc452a9b403d4fc72e587ba6542843de7a23bc0f56e382.jpg",
+        "img_caption": [
+            "图6植被覆盖度、蒸散量与降水(a)和温度(b)的偏相关分析",
+            "图7植被覆盖度(a)及其与海拔的关系(b)",
+            "Fig.7Vegetation cover(a）and its relationship with elevation（b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FVC在 $4 7 0 0 \\mathrm { ~ m ~ }$ 以上迅速降低。此外，高海拔区域山顶分布多年积雪，也在一定程度上影响了 $F V C$ C",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）柴达木盆地FVC总体自东南向西北内陆呈半环状递减趋势，平均植被覆盖 $10 \\%$ 。高植被覆盖区域分布在盆地外围山区和中部绿洲地区，由于人类活动和地下水出流等因素影响，打破了植被地带性分布规律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）2000—2015年柴达木盆地FVC 呈波动上升趋势，其中 2002—2006 年FVC 持续改善，格尔木一昆仑山脉之间山间平原、尕斯库勒湖和苏干湖以南的中西部地区以及乌兰周边区域植被极显著增加，盆地中西部荒漠、东部山区等区域改善趋势较为明显，人类活动频繁的河湖周边地区FVC呈下降趋势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）FVC与各环境因子关系不同，主要表现为FVC与降水、相对湿度多呈正相关且相关区域有较好重叠性，包括都兰以东低山区和西南昆仑山区等植被覆盖相对较高的地区;FVC与温度关系不明显;FVC与日照时数以负相关为主，主要分布在西南昆仑山区、大柴旦以东等日照相对较少的区域;其中降水因子对FVC贡献高于其他气候因子。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）FVC与蒸散量以负相关为主，集中在大柴旦一德令哈以北森林草原区、都兰以东草原区以及西南昆仑山荒漠草原区，温度、降水很大程度影响蒸散量与FVC关系，其中温度对蒸散量的影响大于降水，它们综合影响的土壤蒸发对蒸散量的影响远大于植物蒸腾。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（5）FVC与海拔的空间分布有较好的吻合性，$F V C < 1 0 \\%$ 区域基本与 $3 ~ 5 0 0 \\mathrm { ~ m ~ }$ 和 $4 ~ 6 0 0 \\mathrm { ~ m ~ }$ 等高线重合， $3 ~ 5 0 0 \\sim 4 ~ 0 0 0 ~ \\mathrm { ~ m ~ }$ 区域内 $F V C$ 在 $10 \\% \\sim 2 0 \\%$ ，植被垂直分异明显；并且二者具有较好的线性关系，海拔在 $2 8 0 0 \\sim 2 9 0 0 \\mathrm { ~ m }$ 和 $4 6 0 0 \\sim 4 7 0 0 \\mathrm { ~ m }$ 处出现两个峰值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］穆少杰,李建龙,陈奕兆,等.2001—2010 年内蒙古植被覆盖度时空变化特征[J].地理学报，2012，67（9）：1255-1268.［MUShaojie,LI Jianlong,CHEN Yizhao,etal. Spatial differences of var-iations of vegetation coverage in Inner Mongolia during 2O01—",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2010[J].Acta Geographica Sinica,2012,67(9）:1255-1268.] [2]陈效逑,王恒.1982—2003 年内蒙古植被带和植被覆盖度的时 空变化[J].地理学报,2009,64（1）:84-94.[CHEN Xiaoqiu, WANG Heng. Spatial and temporal variations of vegetation belts and vegetation cover degrees in Inner Mongolia from 1982 to 2003 [J].Acta Geographica Sinica,2009,64(1）:84-94.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[3］朱会利,杨改河,韩磊.延安市退耕过程植被覆盖度变化及其 影响因子分析[J].农业机械学报，2015，46（8）：272-280. [ZHUHuili,YANG Gaihe,HANLei.Analysis of fractional vegeta tion coverage changes and its influence factors during farmland returned to forest period in Yan'an City[J].Transactions of the Chinese Society for Agricultural Machinery,2015,46（8）:272- 280.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4］张戈丽,徐兴良,周才平,等.近30 年来呼伦贝尔地区草地植被变化对气候变化的响应[J].地理学报，2011,66（1)：47-58.[ZHANG Geli,XU Xingliang,ZHOU Caiping,et al.Responsesof vegetation changes to climatic variations in Hulun Buir Grass-land in past 3O years[J].Acta Geographica Sinica,2011,66（1）:47 -58.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5］贾坤,姚云军,魏香琴,等.植被覆盖度遥感估算研究进展[J].地球科学进展,2013,28（7）：774-782.［JIAKun，YAOYun-jun,WEI Xiangqin,et al.A review on fractional vegetation coverestimation using remote sensing[J].Advances in Earth Science,2013,28(7) :774-782.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6］徐浩杰,杨太保.柴达木盆地植被生长时空变化特征及其对气 候要素的响应[J].自然资源学报，2014，29（3）：398－409. [XUHaojie,YANG Taibao.Spatial-temporal variations of vegetationactivities and its responses to climatic factors in the Qaidam Basin[J]. Journal of Natural Resources,2014,29（3）:398 - 409.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7］王顺利,王荣新,敬文茂,等.祁连山干旱山地草地生物量对水分条件的响应[J].干旱区地理，2017，40（4）：772-779.[WANG Shunli,WANGRongxin,JINGWenmao,et al.Biomass ofgrassland and response to soil moisture on arid mountain land inthe Qilian Mountains[J].Arid Land Geography,2017,40（4）：772 - 779.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8］罗玲,王宗明,宋开山,等.1982—2003 年中国东北地区不同类型植被NDVI与气候因子的关系研究［J].西北植物学报，2009,29（4）:800-808.［LUO Ling，WANG Zongming,SONGKaishan,et al.Research on the correlation between NDVI and cli-matic factors of different vegetation in the Northeast China[J].Ac-ta Botanica Boreali-Occidentalia Sinica,20O9,29（4）:800-808.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9］崔林丽,史军,杨引明,等.中国东部植被 NDVI对温度和降水的旬响应特征[J].地理学报，2009，64（7）：850－860.［CUILinli,SHI Jun,YANG Yinming,etal. Ten-day response of vegetation NDVI to the variations of temperature and precipitation inEastern China[J].Acta Geographica Sinica,2009,64（7）:850 -860.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10］徐兴奎，陈红，LEVYJK.气候变暖背景下青藏高原植被覆盖 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "特征的时空变化及其成因分析[J].科学通报,2008,53（4）： 456-462.[XU Xingkui,CHEN Hong,LEVY JK.Spatiotemporal vegetation cover variations in the Qinghai-Tibet Plateau under global climate change[J].Chinese Science Bulletin,20o8,53（6）： 915 -922. ]   \n[11]FU Y,CHEN H,NIU HH,et al. Spatial and temporal variation of vegetation phenology and its response to climate changes in Qaidam Basin from 2000 to 2015[J]. Journal of Geographical Sciences, 2018,28(4):400-414.   \n[12］杨元合,朴世龙.青藏高原草地植被覆盖变化及其与气候因子 的关系［J].植物生态学报,2006,30（1):1-8.［YANGYuanhe,PIAO Shilong.Variations in grassand vegetation cover in relation to climatic factors on the Tibetan Plateau[J].Journal of Plant Ecology,2006,30(1):1 -8.]   \n[13］刘纪远,徐新良,邵全琴.近30年来青海三江源地区草地退化 的时空特征［J].地理学报,2008,18（4）：364－376.［LIU Jiyuan,XU Xinliang,SHAO Quanqin. The spatial and temporal characteristics of grassland degradation in the Three-River headwaters region in Qinghai Province[J].Acta Geographica Sinica, 2008,63(4) :364-376.]   \n[14］丁明军,张镜锂,刘林山,等.1982—2009 年青藏高原草地覆盖 度时空变化特征[J].自然资源学报,2010,25（12)：2114- 2122.[DING Mingjun,ZHANG Yili,LIU Linshan,et al. Temporal and spatial distribution of grassland coverage change in Tibetan Plateau since 1982[J]. Journal of Natural Resources,2010,25 （12）:2114-2122.]   \n[15］梁四海,陈江,金晓媚,等.近21年青藏高原植被覆盖变化规 律[J].地球科学进展,2007,22（1）:33－40.［LIANG Sihai, CHEN Jiang,JIN Xiaomei,et al. Regularityof vegetationcoverage changes in the Tibetan Plateau over the last 21 years[J].Advances in Earth Science,2007,22(1) :33-40.]   \n[16]JIAPAER G,CHEN X,BAO A M.A comparison of methods for estimating fractional vegetation cover in arid regions[J].Agricultural & Forest Meteorology,2011,151(12）:1698-1710.   \n[17］刘园,王颖,杨晓光.华北平原参考作物蒸散量变化特征及气 候影响因素［J].生态学报，2010，30（4）：923-932.［LIU Yuan,WANG Ying,YANG Xiaoguang. Trends in reference crop evapotranspiration and possible climatic factors in the North China Plain[J].Acta Ecologica Sinica,2010,30(4）:923-932.] [18］高歌，陈德亮,任国玉，等.1956—2000 年中国潜在蒸散量变化 趋势［J].地理研究,2006,25（3）:378-387.[GAO Ge,CHEN Deliang,REN Guoyu,et al.Trend of potential evapotranspiration over China during 1956 to 2000[J]Geographical Research,2006,   \n25(3) :378 -387.] [19]YIN Y H,WU S H,ZHENG D,et al.Radiation calibration of FAO56 Penman-Monteith model to estimate reference crop evapotranspiration in China[J].Agricultural Water Management,2008,   \n95(1) :77 -84. [20]ZHOUL M,TUCKERCJ,KAUFMANR K,etal.Variations in northern vegetation activity inferred from satelite data of vegetation index during 1981 to 199[J]. Journal of Geophysical Research Atmospheres,2001,106（D17）:20069 -20084. [21]FANG JY,PIAO S L,HE JS,et al. Increasing terrestrial vegetation activity in China,1982—1999[J].Science in China Series C Life Sciences,2004,47(3）:229-240. [22］高清竹,李玉娥,林而达,等.藏北地区草地退化的时空分布特 征[J].地理学报,2005,60(6）:965-973.[GAO Qingzhu,LI Yu'e,LIN Er'da,etal.Temporal and spatial distributionof grassland degradation in Northern Tibet[J].Acta Geographica Sinica,   \n2005,60(6) :965 -973.] [23］朱文彬,吕爱锋,贾绍凤.基于 NDVI的柴达木盆地植被空间分 异规律及影响因素[J].干旱区研究,2010,27（5)：691-698. [ZHU Wenbin,LYU Aifeng,JIA Shaofeng.Study on spatial distribution of vegetation coverage and its affecting factors in the Qaidam Basin based on NDVI[J]. Arid Zone Research,2010,27（5）:   \n691 -698.] [24］张学珍,戴君虎,葛全胜.1982—2006 年中国东部春季植被变 化的区域差异[J].地理学报,2012,67（1）：53-61.［ZHANG Xuezhen,DAI Junhu,GE Quansheng. Spatial differences of changes in spring vegetation activities across Eastern China during ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1982—2006[J].Acta Geographica Sinica,2012,67（1）：53 -  \n61.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Spatial and temporal variation of fractional vegetation cover and its relationship with environmental factors in the Qaidam Basin during 20o0—2015 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Si-qi1，CHEN Hui1，SONG Ming-hua²，FU Yang¹，NIU Hui-hui1, YANG Yi1，ZHANG Bo-xiong   \n(1CollgeofResourcesndEnironmentSiences,HebeiNormalUniversity,HebeiKeyaboratoryofEnironmentalCangeand   \nEcologicalConstruction,hijizhuangO5o24,HebeiChina；KeyLaboratoryfEcosystemNetworkObserationandModeling， Institute ofGeographic Sciences andNatural Resources Research,ChineseAcademyof Siences,Beijing1Oolo1,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Therelationship between fractional vegetation coverand environmental factors is one of the important contents for the studyofthe ecosystem inaridregions.Inthis paper,we analyzed the temporal and spatial variation characteristics of fractional vegetationcoverfrom 2O to 2O15 in the Qaidam Basin,Qinghai Province,China based on MODIS-NDVI.Combined with DEMdataand meteorological dataof the basin,thecorelationanalysis,partial corelationanalysis oroverlay analysis between fractional vegetation cover and precipitation,temperature,sunshine duration,relativehumidity,evapotranspiration,and altitude were calculated to explore theresponse characteristicsof fractional vegetation cover to major environmental factors.The results showed that the fractional vegetation cover in the Qaidam Basin displayed asemi-annular decreasing trend from the southeast to the northwest.The overalfractional vegetation cover was below $20 \\%$ .The human activities and the distribution of runoff broke the regularity of vegetation zonal distributionandthusafected fractional vegetation cover significantly.In thecontextof global warming,the fractional vegetation cover was increased significantlyduring the time period from 2OOO to 2O15,with most of the regions being widely distributed in thecentral and western and parts of the eastern mountainous region of the basin.Furthermore,the most obvious inter-annual variation occurred from 2O01 to 2OO2.Especially the improvement trend of forest,grasland and meadow vegetation was particularly obvious.Therelationshipbetween fractional vegetation cover and different meteorological elements was different.The fractional vegetation cover was positively correlated with precipitation and relative humidity,and negatively correlated with sunshine hours and evapotranspiration. The relationship between fractional vegetation cover and temperature was not significant.Among them,the precipitationcontributedthe most tothe fractional vegetation cover and was the major limiting factor to affctthe growth of vegetation inthe basin.Temperature indirectly affcted fractional vegetationcover by affecting evapotranspiration, and contributed more to evapotranspiration than precipitation.Meanwhile,the influence of soil evaporation to evapotranspiration was much higher than thatof vegetation transpiration.There was consistencyof thespatial distribution between fractional vegetation cover and altitude,which meant that fractional vegetation cover had a good consistency withthe spatial distributionofcontour lines.Vegetationvertical differentiation was evident.Twopeak valuesoccurred in the areas of $2 \\ 8 0 0 - 2 \\ 9 0 0 \\ \\mathrm { m }$ and $4 \\ 6 0 0 - 4 \\ 7 0 0 \\ \\mathrm { m }$ respectively due to the influence of water source and temperature,while fractional vegetation cover was decreased rapidly above $4 7 0 0 \\mathrm { ~ m ~ }$ . This paper clarifies the relationship between multiple environmental factors and fractional vegetation cover,and makes clear theresponse characteristics of vegetation to major environmental factors under the background of global warmingand drying,which has a great significance for the study of other ecological environment and climate change in arid regions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words：fractional vegetation cover；inter-annual variation；environmental factor；correlation analysis ",
+        "page_idx": 8
+    }
+]

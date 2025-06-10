@@ -1,0 +1,119 @@
+基础研究
+
+# 肿瘤坏死因子-α对骨髓源性肥大细胞表达MMP-3、MMP-9、IL-17的影响
+
+陈玉姣,欧阳晴晴，王然，毋静，赵进军，杨敏南方医科大学南方医院风湿免疫科，广东广州510515摘要：自的肿瘤坏死因子 ${ \bf \sigma } \cdot { \bf { { a } } } ( \mathrm { T N F - } { \bf { { a } } } )$ 对骨髓源性肥大细胞(BMMCs)分泌MMP-3、MMP-9、IL-17的影响。方法原代培养小鼠BMMCs,将培养8周的BMMCs种植于12孔板中。细胞分为4个组： $\mathrm { B M M C s + P B S }$ 组(对照组） $\mathrm { B M M C s } + 2 \mathrm { n g } / \mathrm { m L }$ TNF-α组$\mathrm { \Omega } ^ { 2 } \mathrm { n g / m L }$ 组) $\mathrm { \cdot B M M C s } + 1 0 ~ \mathrm { n g / m L }$ TNF-α组( $\mathrm { | 1 0 \ n g / m L }$ 组）BI $\mathrm { \sf M M C s } + 5 0 ~ \mathrm { \mathrm { n g / m L } }$ TNF- $\cdot \mathbf { \vec { \alpha } } ^ { \mathrm { ~ ~ } }$ 组 $\mathrm { 5 0 ~ n g / m L }$ 组),不同浓度TNF- $\mathbf { \sigma } \cdot \mathbf { a }$ 与BMMCs作用后,在 $1 2 . 2 4 \mathrm { { h } }$ 收集细胞,用实时荧光定量逆转录聚合酶链式反应(real-time polymerase chain reaction,real-time PCR）,在mRNA水平检测MMP-3、MMP-9、IL-17的表达。结果培养12h后， $2 ~ \mathrm { n g / m L }$ 组 $\mathrm { \Omega } . 1 0 ~ \mathrm { { n g / m L } }$ 组 $ { 5 0 }  { \mathrm { n g / m L } }$ 组MMP-3、MMP-9、IL-17mRNA的表达均高于对照组 $( P { < } 0 . 0 5 )$ ，并且随着TNF-α浓度的上升mRNA的表达显著升高 $( P { < } 0 . 0 5 ) \$ 。 $2 4 \mathrm { h }$ 结果与12h结果一致， $2 4 \mathrm { ~ h ~ }$ 与 $1 2 \mathrm { ~ h ~ }$ 之间比较，除 $5 0 ~ \mathrm { n g / m L }$ 组MMP-3mRNA的表达无差异（ $P { > } 0 . 0 5 )$ ，其余各组之间MMP-3、MMP-9、IL-17mRNA的表达显著升高 $( P { < } 0 . 0 5 )$ 。结论TNF-α可以上调BMMCS表达MMP-3、MMP-9、IL-17,且具有浓度依赖性和时间依赖性。关键词：骨髓源性肥大细胞;肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ ;MMP-3;MMP-9;IL-17
+
+# Effects of tumor necrosis factor- $\pmb { \alpha }$ on release of MMP-3, MMP-9,and interleukin-17 in mouse bone marrow-derived mast cells in vitro
+
+CHEN Yujiao,OUYANG Qingqing,WANGRan,WU Jing,ZHAO Jinjun,YANG Min DepartmentofRheumatology,Nanfang Hospital, Southern Medical University,Guangzhou 51o515,China
+
+Abstract: Objective To investigate the effect of tumor necrosis factor $\alpha$ (TNF- $\cdot \alpha$ ) on the release of matrix metalloproteinase-3 (MMP-3),MMP-9,andinterleukin-17(IL-17)inculturedmousebone marrow-derivedmastcels (BMMCs)initro.Methods Primarily cultured mouse BMMCs at 8 weeks were exposed PBS (control) or TNF- $\cdot \alpha$ at the concentrations of 2, 10, or $5 0 ~ \mathrm { n g / m L }$ for 12 or $2 4 \mathrm { ~ h ~ }$ . Real-time PCR was performed to detect the mRNA expressions of MMP-3,MMP-9,and IL-17 in the exposed cells. Results A 12-hour exposure of the BMMCs to TNF- $\cdot \alpha$ caused significantly increased expressions of MMP-3, MMP-9, and IL-17 in a concentration-dependent manner $_ { ( P < 0 . 0 5 ) }$ . Prolonged exposures of the cells to 2 and 10 TNF- $\alpha$ for $2 4 \mathrm { ~ h ~ }$ further increased MMP-3, MMP-9,and IL-17 mRNA expressions, but exposure to $5 0 ~ \mathrm { n g / m L }$ TNF- $\alpha$ for $2 4 \mathrm { h }$ increased only MMP-3 and MMP-9 expressions but not IL-17 mRNA expression. Conclusions TNF- $\alpha$ treatment of primarily cultured BMMCs can significantly increasethe cellular expresionsof MMP-3,MMP-9,andIL-17 mRNAin atime- anddose-dependentmanner.
+
+Key words: bone marrow-derived mast cells; tumor necrosis factor- $\alpha _ { , } ^ { \cdot }$ matrix metalloproteinase-3; matrix metalloproteinase-9; interleukin-17
+
+类风湿关节炎(rheumatoidarthritis,RA）是以持续性炎性滑膜炎、软骨破坏、骨侵蚀、关节完整性改变为主要临床表现的一种自身免疫性疾病[。尽管RA的发病机制不明确，但TNF-a在介导RA的组织破坏和炎症进展中起着关键性作用2。研究表明，正常的滑膜中肥大细胞只占极少数，而在RA患者的滑膜中，肥大细胞占滑膜总细胞数的 $5 \%$ 或更多，主要分布在血管周围、软骨侵蚀处和关节液中，参与RA患者滑膜的急慢性炎症、骨和软骨的破坏[3]
+
+在RA中，高水平的MMPs活动与软骨和骨的降解相关[4],RA患者的滑膜、血清和滑液中MMP-3、MMP-9的表达升高[5]。IL-17可以介导RA患者软骨的降解和骨的侵蚀,在RA患者的滑液中IL-17表达也是升高的[6]。研究表明MMP-3、MMP-9和IL-17主要来源于肥大细胞[7-1],但其调节机制并不明确。本研究建立TNF-α诱导骨髓源性肥大细胞的培养体系，通过观察TNF-α对肥大细胞表达MMP-3、MMP-9、IL-17的影响，探讨肥大细胞在RA致病机制中的作用，为寻找RA治疗的新靶点提供一定的实验依据。
+
+# 1材料和方法
+
+# 1.1主要试剂
+
+RPMI1640培养基、青-链霉素购自GIBCO公司，胎牛血清(FBS)购自Hyclone公司，SCF、TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 购自PEPROTECH公司，12孔板购自Corning公司，内参引物GAPDH由上海GENEray公司合成，其余引物由上海invitrogen合成，Trizol、反转录试剂盒TaKaRaPrimeScriptTMRTMasterMix及实时荧光定量试剂盒TaKaRaSYBRPremixEx TaqTM购自大连TaKaRa公司，其余均为国产分析纯。
+
+# 1.2实验动物
+
+原代培养BMMCs均来自5周龄C57BL/6雄性小鼠，购于南方医科大学动物实验中心。
+
+# 1.3BMMCs的培养
+
+剪断股骨、胫骨两端，置于含RPMI1640的培养平皿中，用注射器冲洗骨髓腔到白色，后接种于RPMI1640完全培养基(RPMI1640含2.5mmol/LL-谷氨酰胺， $1 0 \% \ \mathrm { F B S } , 1 \%$ 青-链霉素)，再加入重组IL-3,使其终浓度为 $1 0 ~ \mathrm { { n g / m L } }$ ,每3d换1次液,2周后追加SCF,使其终浓度为 $2 0 ~ \mathrm { n g / m L }$ ,每1周换1次液。
+
+# 1.4BMMCs的甲苯胺蓝染色
+
+收集培养8周的BMMCs, $1 5 0 0 ~ \mathrm { r / m i n }$ 离心 $4 ~ \mathrm { m i n }$ PBS洗涤2次，细胞涂片，自然风干， $1 \%$ 甲苯胺蓝染色$1 \mathrm { m i n }$ ,迅速用去离子水漂洗1次，显微镜下观察细胞染色情况。
+
+# 1.5BMMCs的激发
+
+BMMCs培养8周后，以 $1 \times 1 0 ^ { 6 } \$ 孔铺板，设3个复孔。分别加入 $2 , 1 0 , 5 0 ~ \mathrm { n g / m L }$ 的TNF- $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { a } ~ } }$ ,对照组加入PBS,作用 $1 2 . 2 4 \ : \mathrm { h _ { \mathrm { o } } }$ 收集细胞, $1 5 0 0 ~ \mathrm { r / m i n }$ 离心 $4 ~ \mathrm { m i n }$ 细胞用于下一步总RNA的提取和实时荧光定量PCR检测MMP-3、MMP-9、IL-17表达的变化。
+
+# 1.6Real-timePCR法检测
+
+利用TaKaRa公司生产的Trizol试剂提取BMMCs总RNA，并溶于无Rnase水中，紫外分光光度计测定$\mathrm { D } _ { 2 6 0 } / \mathrm { D } _ { 2 8 0 }$ 的比值在1.8\~2.0之间。按TaKaRaPrimeScriptTMRTMasterMix试剂盒说明进行cDNA合成。MMP-3、MMP-9、IL-17引物序列由Invitrogen合成,内参GAPDH引物序列由上海GENEray公司合成，引物序列见表1。待测cDNA加入到 $2 0 \mu \mathrm { l }$ 反应体系中，按照TaKaRaSYBRPremix Ex TaqTM 试剂盒说明在LightCycler $^ { \textregistered } 4 8 0$ 型荧光定量PCR扩增仪进行定量检测。PCR反应条件 $9 5 ^ { \circ } \mathrm { C } 3 0 ~ \mathrm { s }$ 变性， $9 5 ^ { \circ } \mathrm { C } 5 \mathrm { s } , 6 0 ^ { \circ } \mathrm { C } 3 0 \mathrm { s }$ 循环40次， $9 5 ^ { \circ } \mathrm { C } \ 5 \ \mathrm { s } , 6 0 ^ { \circ } \mathrm { C } \ 6 0 \ \mathrm { s }$ 融解， $5 0 \ \mathrm { ^ { \circ } C } \ 3 0 \ \mathrm { s }$ 降温融解曲线分析表明PCR反应产物为单独的双链DNA。每一个样品目的基因扩增的循环数(thresholdcycle,Ct)都依据GAPDH做校正，得出 $\Delta \mathrm { C t }$ (Ct样品目的基因-Ct样品的GAPDH)。目标基因表达差异以经过处理的样本相对于未经处理的样本的倍数表示，即检测基因的差异 $\scriptstyle : = 2 ^ { - \Delta \Delta \mathrm { C t } } ( \Delta \Delta \mathrm { C t } = \Delta \mathrm { C t }$ 处理样品 $\mathrm { ~ - ~ } \Delta \mathrm { C t }$ 未处理样品)。
+
+# 表1MMP-3、MMP-9、IL-17及GAPDH引物序列
+
+Tab.1Primer sequence of MMP-3,MMP-9,IL-17,GAPDH,and β-actin   
+
+<html><body><table><tr><td colspan="2">Gene</td><td>Primer sequence</td></tr><tr><td rowspan="2">GAPDH</td><td>Upstream</td><td>5'-AGAAGGTGGTGAAGCAGGCATC-3'</td></tr><tr><td>Downstream</td><td>5'-CGAAGGTGGAAGAGTGGGAGTTG-3'</td></tr><tr><td rowspan="2">MMP-3</td><td>Upstream</td><td>5-GGCCTGGAACAGTCTTGGC-3</td></tr><tr><td>Downstream</td><td>5'-TGTCCATCGTTCATCATCGTCA-3'</td></tr><tr><td rowspan="2">MMP-9</td><td>Upstream</td><td>5'-GCAGAGGCATACTTGTACCG-3'</td></tr><tr><td>Downstream</td><td>5'-TGATGTTATGATGGTCCCACTTG-3'</td></tr><tr><td rowspan="2">IL-17</td><td>Upstream</td><td>5'-TCAGCGTGTCCAAACACTGAG-3'</td></tr><tr><td>Downstream</td><td>5'-CGCCAAGGGAGTTAAAGACTT-3'</td></tr></table></body></html>
+
+# 1.7统计学处理
+
+所有数据采用均数 $\pm$ 标准差表示，用SPSS13.0软件处理，两个样本均数间比较采用t检验，多个样本间均数比较采用单因素方差分析，均数间两两比较，方差齐性时用LSD法，方差不齐是用Dunnett's法分析，以 $P <$ 0.05时认为差异有统计学意义。
+
+# 2结果
+
+2.1原代培养8周BMMCs形态学观察以及BMMCs甲苯胺蓝染色
+
+光镜下的BMMCs,培养 $2 4 \mathrm { h }$ 出现贴壁细胞，为不规则形，视野中可见大小不一的悬浮细胞，随着换液次数增多，贴壁细胞越来越少，悬浮细胞变为大小形态均一的细胞。甲苯胺蓝染色液呈蓝色,由于肥大细胞碱性颗粒的异染性，其所显示的颗粒颜色与染料颜色存在差异，肥大细胞颗粒被染成紫红色，而各种细胞核若被着色则呈现蓝色[12]。实验中发现甲苯胺蓝染色后，可见细胞胞浆中的颗粒被染成紫红色(图1)。
+
+# 2.2BMMCs经不同浓度TNF- $\mathfrak { a }$ 诱导后MMP-3、MMP-9和IL-17mRNA的表达
+
+结果显示，随着TNF-α诱导浓度的增加,MMP-3、MMP-9和IL-17基因mRNA的表达均显著增高，差异均具有统计学意义( $_ { P < 0 . 0 5 }$ ，图2）。
+
+# 2.3BMMCs 经 TNF- $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { ~ a ~ } ~ } }$ 诱导后不同时间MMP-3、MMP-9和IL-17mRNA的表达
+
+结果显示，随着TNF-a诱导时间的增加，MMP-9和IL-17基因的mRNA表达均呈显著增高，差异均具有统计学意义 $\left( P { < } 0 . 0 5 \right)$ 。随着TNF-α诱导时间的增加，在$2 ~ \mathrm { n g / m L }$ 和 $1 0 \mathrm { n g / m L }$ 组，MMP-3基因的mRNA表达显著增高,差异具有统计学意义 $( P { < } 0 . 0 5 )$ ；在 $5 0 ~ \mathrm { n g / m L }$ 组，MMP-3基因的mRNA表达没有显著变化，差异没有统计学意义( $\mathrm { \ P { > } 0 . 0 5 }$ ，图3）。
+
+![](images/24760fa794afb42f79008ac51cf938343a2f7ee7f74aac2da600f1013c4b8b11.jpg)  
+图1倒置显微镜下观察培养8周的BMMCs以及BMMCs的甲苯胺蓝染色 Fig.1 Observation of BMMCs under inverted microscope $( A , \ B )$ and with toluidine blue staining (C,D). A, C: original magnification: $\times 1 0 0 .$ B,D:original magnification: $\times 2 0 0$
+
+![](images/3a3890d47c00b773b4b52899c276051aa7d36fd9ee6aa41a44280379fe715192.jpg)  
+图2real-timePCR检测BMMCs经不同浓度TNF-α诱导后MMP-3、MMP-9、IL-17mRNA的表达 Fig.2Expression of MMP-3,MMP-9and IL-17 mRNA detected by real-time PCR in BMMCs induced with TNF- $\cdot \alpha$ for $^ { 1 2 \mathrm { ~ h ~ } }$ （20 $( A )$ and $2 4 \mathrm { ~ h ~ }$ (B).a: $P { < } 0 . 0 5$ Us control; b: $P { < } 0 . 0 5$ UsTNF- $\cdot \alpha$ $2 ~ \mathrm { n g / m L } ;$ c $P { < } 0 . 0 5$ Us TNF- $\alpha 1 0 \mathrm { n g / m L }$
+
+# 3讨论
+
+TNF- $\mathfrak { a }$ 是RA发病机制中关键的细胞因子[13],而本实验研究结果显示，TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 可以上调BMMCs表达MMP-3、MMP-9 和IL-17。BMMCs经 $2 \ \mathrm { n g / m L }$ 组TNF-α诱导后，MMP-3、MMP-9和IL-17mRNA的表达与对照组相比均显著升高，并且随着TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 浓度的升高,mRNA的表达逐渐升高，在 $5 0 ~ \mathrm { n g / m L }$ 组达到最高;BMMCs经TNF-α秀导 $2 4 \mathrm { h }$ 后,MMP-3、MMP-9和IL-17mRNA的表达与经TNF-α诱导12h后的相比均显著升高。
+
+RA的一个重要的临床病理特征是关节软骨的破坏，其细胞学基础是软骨细胞外基质的降解，MMPs是降解细胞外基质(ECM)的主要组成部分[14]。MMP-3主要由软骨细胞和滑膜成纤维细胞产生，在RA患者的血清中高表达，是介导软骨破坏和骨吸收的关键介质。活化后的MMP-3可以激活pro-MMP-9,而MMP-9通过释放血管内皮生长因子(VEGF),募集中性粒细胞、单核细胞、T细胞和破骨细胞，介导RA的血管生成和疾病进展[15]。在参与RA发病机制的细胞因子中,IL-17的研究近来受到重视。IL-17通过促进其它促炎因子如IL-6、IL-1、TNF、MMPs的表达,进一步介导RA患者软骨的降解和骨的侵蚀[16-17]
+
+我们的研究结果表明，TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 可以促进BMMCs表达MMP-3、MMP-9。肥大细胞是免疫系统中的多功能细胞，近来的研究显示肥大细胞参与了RA的慢性炎症和基质的降解[。RA患者关节液中一些趋化因子可以募集肥大细胞3，肥大细胞活化后分泌的糜蛋白酶和类胰蛋白酶可以激活MMPs[18],如MMP-3[19-20]和 $\mathbf { M M P - } 9 ^ { [ 7 ] }$ 而肥大细胞活化后分泌的TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 也可以上调MMP- $3 ^ { [ 1 5 ] }$ （20和MMP $\cdot 9 ^ { [ 2 1 ] }$ 的表达。Kanbe等[研究发现MMP-9主要来源于肥大细胞，Baram等21推测，无活性的MMP-9与组胺、类胰蛋白酶一起分布在肥大细胞的特异性分泌颗粒中。Kotani等[5研究显示RA患者经过抗TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 治疗后，血清中MMP-3和MMP-9的水平明显下降。
+
+![](images/5e0c2e23337ab8dcfa1e19e7be283044f77ed3b3f16a79b727843023452741ac.jpg)  
+图3real-timePCR检测BMMCs经TNF-α诱导,不同时间后MMP-3、MMP-9、IL-17mRNA的表达Fig.3Expression of MMP-3 (A)，MMP-9 (B)andIL-17(C) mRNAin BMMCs induced with TNF- $\alpha$ for12 and $2 4 \ \mathrm { h } .$ a: $P { < } 0 . 0 5$ Us $^ { 1 2 \mathrm { ~ h ~ } }$ TNF- $\cdot \alpha 2 \ \mathrm { n g / m L } ;$ b: $P <$ 0.05 us $^ { 1 2 \mathrm { { h } } }$ TNF- $\alpha$ $\mathrm { 1 0 ~ n g / m L }$ C: $P { < } 0 . 0 5$ Us $^ { 1 2 \mathrm { { h } } }$ TNF- $\alpha$ （202$5 0 \mathrm { n g / m L }$ ：
+
+![](images/91231d76f50abcf24229232fe35ceef82e16becb28e326f5dae1a8e2e017fd30.jpg)
+
+我们的研究结果证实，TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 可以促进BMMCs表达IL-17。Hueber等[研究发现,RA患者的肥大细胞是表达IL-17的主要细胞，而体外培养的肥大细胞也可以表达IL-17。Suurmond等研究发现,RA患者滑液中的IL-17阳性细胞主要来自肥大细胞，而不是T细胞或是巨噬细胞。ACPA阳性RA患者的滑液中IL-17水平升高，由于RA患者滑液中IL-17的水平与肥大细胞的数量密切相关，而且ACPA阳性RA患者滑膜中脱颗粒的肥大细胞数量增加，由此推测ACPA阳性RA患者肥大细胞活性的增强导致了ACPA阳性RA患者滑液中IL-17水平的上升。在动物关节炎模型中，疾病早期IL-17的效果依赖于TNF- $\mathfrak { a }$ ，而疾病后期主要由IL-17驱动[22]。Zheng等[2]研究表明RA中TNF-α通过单核细胞产生的IL-6和IL-1β来促进Th17细胞的分化,在Th17细胞的分化中起着关键性作用。抗TNF-α治疗后，RA患者滑液中的IL-17急剧减少。
+
+本实验研究证实用TNF-a诱导BMMCs后，其表达MMP-3、MMP-9、IL-17的量均上调，且呈浓度依赖性和时间依赖性。由此可以推测,抑制肥大细胞的活性，可以减少MMP-3、MMP-9、IL-17的表达，从而减少软骨降解和骨破坏，发挥治疗RA的作用，为RA的治疗提供一个新的靶点。但目前TNF $\mathbf { \nabla } \cdot \mathbf { a }$ 促进肥大细胞表达
+
+MMP-3、MMP-9、IL-17的机制尚未完全阐明，有研究表明TNF-α通过激活NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 通路而具有一个广谱的促炎能力，而树突状细胞和巨噬细胞通过IL-6和JAK/STAT-3信号通路促进Th17细胞的分化[2,下一步可以从细胞通路和动物实验角度进一步研究其分子机制。
+
+# 参考文献：
+
+[1]Kobayashi Y,Okunishi H.Mast cells as a target of rheumatoid arthritis treatment[J]. Jpn JPharmacol,2002,90(1): 7-11.   
+[2]Zheng Y,Sun L,Jiang T,et al． TNFα promotes Th17 cell differentiation through IL-6 and IL $1 \beta$ produced by monocytes in rheumatoid arthritis[J].JImmunol Res,2014: 385352.   
+[3]Maruotti N,Crivellato E,Cantatore FP,et al．Mast cells in rheumatoid arthritis[J]. Clin Rheumatol, 2007,26(1):1-4.   
+[4]Martel-Pelletier J,Mccollum R,Fujimoto N,et al.Excess of metalloproteases over tissue inhibitor of metalloprotease May contribute to cartilage degradation in osteoarthritis and rheumatoid arthritis[J].Lab Invest,1994,70(6): 807-15.   
+[5]Kotani T,Takeuchi T,Takai S,et al.Serum levels of matrix metallproteinase(MMP）9,a risk factor for acute coronary syndrome，are reduced independently of serum MMP-3by anti-TNF- $\mathfrak { a }$ antibody(infliximab）therapyinpatientswith rheumatoid arthritis[J].JPharmacol Sci,2012,120(1): 50-3.   
+[6]Suurmond J,Dorjée AL,Boon MR,et al.Mast cells are the main interleukin 17-positive cells in anticitrullinated protein antibodypositive and -negative rheumatoid arthritisand osteoarthritis synovium[J].Arthritis Res Ther,2011,13(5):R150.   
+[7]Fang KC,Raymond WW,Lazarus SC,et al. Dog mastocytoma cells secrete a 92-kD gelatinase activated extracellularly by mast cell chymase[J].JClin Invest,1996,97(7):1589-96.   
+[8]Kanbe N,Tanaka A,Kanbe M,et al.Human mast cells produce matrix metalloproteinase 9[J].Eur JImmunol, 1999,29(8): 2645-9.   
+[9]Tanaka A,Arai K,Kitamura Y,et al. Matrix metalloproteinase-9 production,a newly identified function of mast cell progenitors,is downregulated by c-kit receptor activation[J].Blood,1999,94(7): 2390-5.   
+[10]Hueber AJ,Asquith DL,Miller AM,et al.Mast cells Express IL-17A in rheumatoid arthritis synovium[J].J Immunol, 2010,184 (7):3336-40.   
+[11]Brownell E,Fiorentino L,Jolly G,et al.Immunolocalization of stromelysin-related protein in murine mast cell granules[J]. Int Arch Allergy Immunol,1995,107(1/3):333-5.   
+[12]吴敏，胡天寒,周鸿铭,等.甲苯胺蓝快速显示肥大细胞的制作方法探 讨[J].四川解剖学杂志,2013,21(1):11-2,15.   
+[13]Lee DM,Weinblatt ME.Rheumatoid arthritis[J].Lancet,2O01,358 (9285):903-11.   
+[14]Sternlicht MD,Werb Z.How matrix metalloproteinases regulate cell behavior[J].Annu Rev Cell Dev Biol,2001,17: 463-516.   
+[15]Ally MM,Hodkinson B，Meyer PW,et al.Serum matrix metalloproteinase-3 in comparison with acute phase proteins as a marker of disease activity and radiographic damage in early rheumatoid arthritis[J].Mediators Inflamm,2013:183653.   
+[16]Korn T,BettelliE,Oukka M,et al.IL-17 and Th17 cells[J].Annu Rev Immunol, 2009,27: 485-517.   
+[17]Miossec P, Korn T,Kuchroo VK.Interleukin-17 and type 17 helper T cells[J].N EnglJMed,2009,361(9): 888-98.   
+[18]Tetlow LC,Woolley DE.Mast cells,cytokines,and metalloproteinases at the rheumatoid lesion: dual immunolocalisation studies[J].Ann Rheum Dis,1995,54(11): 896-903.   
+[19] Suzuki K,Lees M,Newlands GF,et al.Activation of precursors for matrix metalloproteinases1 (interstitial collagenase） and 3 (stromelysin) by rat mast-cell proteinases I and II[J].Biochem J, 1995,305(Pt 1):301-6.   
+[20]Bonassar LJ,Frank EH,Murray JC,et al. Changes in cartilage composition and physical properties due to stromelysin degradation [J].Arthritis Rheum,1995,38(2): 173-83.   
+[21]Baram D,Vaday GG,Salamon P,et al. Human mast cells release metalloproteinase-9 on contact with activated T cells:juxtacrine regulation by TNF-alpha[J].JImmunol,2001,167(7): 4008-16.   
+[22]Moran EM,Mullan R,Mccormick J,et al.Human rheumatoid arthritis tissue production of IL-17A drives matrix and cartilage degradation: synergy with tumour necrosis factor-alpha, Oncostatin Mand response to biologic therapies[J].Arthritis Res Ther,2009,11 (4): R113.
+
+(编辑：吴锦雅）

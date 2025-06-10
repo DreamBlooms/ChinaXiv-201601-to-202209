@@ -1,0 +1,160 @@
+饲料中胆汁酸添加水平对齐口裂腹鱼幼鱼生长性能、形体指标及体成分的影响
+
+2 曾本和向枭\*周兴华 陈　建　吕光俊　朱成科李代金（西南大学荣昌校区水产系，淡水鱼类资源与生殖发育教育部重点实验室，水产科学重庆市市级重点实验室，重庆402460)
+
+5 摘要：本试验旨在探索饲料中胆汁酸添加水平对齐口裂腹鱼幼鱼生长性能、形体指标及体6 成分的影响。以360 尾健康、平均体重为（ $1 2 . 7 4 { \scriptstyle \pm 0 . 1 4 }$ ） $\mathrm { \bf ~ g }$ 的齐口裂腹鱼幼鱼为试验对象，7 随机分为4组，每组3个重复，每个重复30尾。4组试验鱼分别投喂添加0（对照组）、75、8號 150、 $3 0 0 \mathrm { m g / k g }$ 胆汁酸的试验饲料，养殖时间为 $7 0 \mathrm { d }$ 。结果表明：随着胆汁酸添加水平的增9 加，齐口裂腹鱼幼鱼的增重率(WGR)、特定生长率（SGR）、饲料蛋白效率（PER）均呈先L0 升高后趋于稳定的变化趋势，饲料系数（FCR）则呈先降低后趋于稳定的变化趋势。各胆汁l1 酸添加组的 WGR、SGR、PER 均显著高于对照组（ $P { < } 0 . 0 5 \mathrm { ~ }$ )，而FCR 则显著低于对照组L2 （ $P { < } 0 . 0 5 )$ )。当胆汁酸添加水平为 $1 5 0 \mathrm { m g / k g }$ 时，WGR、SGR 均达到最大值，分别为 $2 2 6 . 6 3 \%$ l3 和 $1 . 6 9 \% / \mathrm { d }$ ；当胆汁酸添加水平为 $3 0 0 ~ \mathrm { m g / k g }$ 时，PER达到最大值，为 $1 . 6 4 \%$ ; $F C R$ 则在胆l4 汁酸添加水平为 $7 5 \mathrm { m g / k g }$ 时有最小值，为1.56。通过二次回归分析可知，WGR、SGR、PERL5 和 FCR 最佳时的胆汁酸添加水平分别为186.83、192.86、166.67和 $1 8 3 . 3 3 \mathrm { m g / k g }$ 。随着胆汁L6 酸添加水平的增加，齐口裂腹鱼幼鱼的肥满度（CF）呈先升高后趋于稳定的变化趋势，脏体L7 比（VSI)、肝体比（HSI）则呈先降低后趋于稳定的变化趋势。各胆汁酸添加组的CF 显著L8 高于对照组（ $\scriptstyle \cdot < 0 . 0 5 .$ )，而VSI、HSI 则显著低于对照组（ $P { < } 0 . 0 5 \rangle$ )。随着胆汁酸添加水平的L9 增加，齐口裂腹鱼全鱼及肌肉粗蛋白质含量呈先升高后趋于稳定的变化趋势，全鱼、肌肉及20 肝胰脏中粗脂肪含量则呈先降低后趋于稳定的变化趋势，但全鱼及肌肉中水分、粗灰分含量21 则无显著变化（ $\cdot P { > } 0 . 0 5 )$ )。由此得出，饲料中添加胆汁酸能有效地提高齐口裂腹鱼幼鱼的饲22 料利用率，促进其生长，改善其形体指标，减少其肌肉及肝脏中脂肪的沉积。综合考虑，齐23 口裂腹鱼饲料中胆汁酸适宜的添加水平为 $1 6 6 . 6 7 { \sim } 1 9 2 . 8 6 \mathrm { m g / k g } \circ$
+
+关键词：齐口裂腹鱼；胆汁酸；生长性能；形体指标；体成分中图分类号：S963文献标识码：A 文章编号：
+
+齐口裂腹鱼（Schizothoraxprenanti）是长江上游的一种底层冷水性鱼类，肉质细嫩，、营养价值丰富，、味道鲜美[1，深受消费者喜爱，是我国重要的经济鱼类。近年来，国内齐口裂腹鱼养殖业发展迅猛，养殖产量逐年增加，然而，在集约化养殖条件下，为加快齐口裂腹鱼生长速度，养殖者多使用高脂配合饲料，导致其体脂肪含量偏高。这不仅降低了其齐口裂腹鱼的肉质品质和可食部分比例，也导致饲料营养物质的浪费，增加了养殖成本。因此，如何促进齐口裂腹鱼脂肪分解代谢，提高体蛋白质沉积成为亟待解决的问题。胆汁酸是胆汁的主要成分之一，在动物脂肪代谢中起着重要作用。其分子结构一端具有亲油的烷基，一端具有亲水的羟基和羧基，这种结构使胆汁酸具有较强的表面活力，可以降低油和水两相间的表面张力，促进脂肪乳化，形成可以悬浮在水中的脂肪酸乳糜微粒，扩大脂肪与脂肪酶的接触面积，从而加速脂肪的消化吸收，提高脂肪的消化率。乳化作用能不同程度地改善动物对其他营养物质，特别是脂溶性维生素、类胡萝卜素及其他微量元素的吸收利用[2]，同时具有提高动物的生长性能、杀菌消炎、提高机体免疫力[3]等作用。Reinhart等[4研究发现胆汁酸能显著提高断奶仔猪采食量、增重率、脂肪摄入量和氮保留率。Pullen 等[5研究表明胆汁酸能提高肉鸡对脂肪的消化吸收。胆汁酸对鱼类也具有促进生长、降低机体脂肪沉积、提高可食部分比例等作用[6-8]，但相关的研究报道还较少。本试验旨在探讨饲料中添加不同水平的胆汁酸对齐口裂腹鱼生长性能、形体指标和体成分的影响，以期为胆汁酸在齐口裂腹鱼配合饲料中的应用提供理论参考。
+
+1材料与方法
+
+1.1 试验饲料
+
+以鱼粉、豆粕、菜籽粕等为蛋白质源，以大豆油为脂肪源， $\mathfrak { a }$ -淀粉和次粉为糖源，设计齐口裂腹鱼的基础饲料配方。在基础饲料中分别添加0、75、150、 $3 0 0 \mathrm { m g / k g }$ 的胆汁酸（由广州信豚水产技术有限公司提供，其有效成分的质量分数为 $1 5 \%$ ，主要成分为猪熊去氧胆酸和石胆酸等)，配制成4种等氮等脂的试验饲料。各原料均粉碎过60目筛，称重后混匀，量少的组分采用逐级扩大法混合，用试验室小型绞肉机制成粒径为 $1 \mathrm { m m }$ 的颗粒饲料，自然晾干后于 ${ } _ { - 2 0 \mathrm { ~ } ^ { \circ } C }$ 冰柜中保存备用。基础饲料组成及营养成分见表1。
+
+表1基础饲料组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>42.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>豆粕 Soybean meal</td><td>20.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>10.00</td></tr><tr><td>α-淀粉α-starch</td><td>14.00</td></tr><tr><td>次粉Wheat middling</td><td>4.00</td></tr><tr><td>大豆油 Soybean oil</td><td>5.00</td></tr><tr><td>预混料 Premixl)</td><td>1.00</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>1.00</td></tr><tr><td>磷酸二氢钙 Ca(H2PO4)2</td><td>1.00</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>1.00</td></tr><tr><td>L-赖氨酸L-Lys</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>38.96</td></tr><tr><td>粗脂肪 Crude lipid</td><td>7.04</td></tr><tr><td>粗灰分 Ash</td><td>10.03</td></tr></table></body></html>
+
+1)预混料为每千克饲料提供 The premix provided the following per $\mathrm { k g }$ of the diet:VA 30 000 IU，VC 200  
+mg，VD 325 000 IU, $\mathrm { V E 6 0 0 ~ m g }$ ， $\mathrm { V K 1 0 0 ~ m g }$ ， $\mathrm { V B } _ { 1 } 5 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 0 ~ \mathrm { m g }$ ，尼克酸nicotinic acid $1 0 0 \mathrm { m g }$ ，泛  
+酸钙 calcium pantothenate $1 2 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 2 \ : \mathrm { m g }$ ，生物素 biotin $7 \ : \mathrm { m g }$ ，叶酸 folic acid $2 0 ~ \mathrm { m g }$ ，  
+肌醇 inositol $2 5 0 ~ \mathrm { m g }$ ， $\mathrm { F e S O _ { 4 } } { \cdot } 7 \mathrm { H _ { 2 } O } \ 1 2 2 . 0 \ \mathrm { g }$ ， $\mathrm { C u S O 4 ^ { \cdot } 5 H _ { 2 } O 7 . 2 0 \ g }$ ， $\mathrm { M n S O _ { 4 } { \cdot } H _ { 2 } O } 5 . 1 6 \ \mathrm { g }$ ， $\mathrm { Z n S O _ { 4 } { \cdot } 7 H _ { 2 } O \ 1 5 . 5 6 \  g }$   
+（20 $\mathrm { K I } 6 . 5 8 \ \mathrm { g }$ ， $\mathrm { N a S e O } _ { 3 } 2 . 1 0 \mathrm { g } .$ 02）实测值 Measured values 。
+
+1.2试验设计及饲养管理
+
+试验用齐口裂腹鱼购自雅安冷水鱼养殖场，为同一批繁殖的幼鱼。购回后先用 $4 \%$ 的食盐水消毒后放入暂养池中暂养，以基础饲料饱食投喂，使其逐渐适应试验饲料及养殖环境。暂养7d后，选择个体大小均匀，健康、无伤病，体重为（ $1 2 . 7 4 { \scriptstyle \pm 0 . 1 4 }$ ） $\mathrm { \bf ~ g }$ 的齐口裂腹鱼360尾，随机分为4组，设1个对照组和3个试验组，每组设3个重复，每个重复30尾鱼，以重复为单位随机放入12个试验水族箱（ $\cdot 1 . 0 6 \mathrm { m } { \times } 0 . 4 1 \mathrm { m } { \times } 0 . 3 8 \mathrm { m }$ ）中。对照组投喂不添加胆汁酸的试验饲料，3个试验组分别投喂添加75、150、 $3 0 0 ~ \mathrm { m g / k g }$ 胆汁酸的试验饲料，养殖时间为70d。试验期间，每天表观饱食投喂3次（08:00、13:00、16:00)，养殖池保持微流水，各养殖池水体每天的交换量为 $30 \%$ 。每日监测水温、试验鱼的摄食行为和死亡数量等。水温维持在 $1 5 { \sim } 2 0 ~ \mathrm { ^ circ C }$ ，溶氧浓度高于 $6 . 0 \mathrm { m g / L }$ ， $\mathrm { p H } 7 . 0 { \sim } 7 . 5$ 。
+
+1.3样品采集
+
+试验结束后对试验鱼饥饿 $2 4 \mathrm { ~ h ~ }$ ，然后对每个重复进行计数、称重。在各组中随机取 5尾试验鱼用 $5 0 \mathrm { m g / L }$ 的 MS-222溶液麻醉，分别测定其体长和体重后解剖取内脏、肝胰脏及脂肪团，分别称重后用于计算肝体比、脏体比及分析肝胰脏营养成分；取背鳍以下侧线以上的肌肉，自封袋密封，保存于 $- 2 0 \ \mathrm { { ^ \circ C } }$ 冰箱，用于测定肌肉营养成分。另外从每个重复中随机取5尾鱼，保存于 ${ \cdot 2 0 \ \mathrm { { ^ \circ C } } }$ 冰箱，用于测定全鱼营养成分。
+
+# 1.4指标测定
+
+饲料及全鱼、肌肉及肝胰脏中水分、粗蛋白质、粗脂肪和粗灰分的含量的测定参照AOAC（1995）[9的方法。其中，粗蛋白质含量采用凯氏定氮法测定；粗脂肪含量采用索氏抽提法(乙醚为溶剂)测定；水分含量采用 $1 0 5 \ \mathrm { ^ \circ C }$ 常压干燥法测定；粗灰分含量采用 $5 5 0 \mathrm { ~ \textdegree C }$ 灼烧法测定。
+
+1.5 计算公式
+
+增重率（weight gain rate，WGR， $\%$ ） $= 1 0 0 \times$ ( $W _ { \mathrm { t } } – W _ { 0 }$ ） $/ W _ { 0 }$ 特定生长率（specific growth rate，SGR，%/d） $\mathsf { \Pi } _ { = 1 0 0 \times }$ （ln Wt-ln Wo） It; 蛋白质效率（protein efficiency ratio，PER， $\% ) ~ = ~ ( ~ W _ { \mathrm { t } } { - } W _ { 0 } ) ~ / F { \times } P$ 饲料系数（feed conversion ratio，FCR） $\scriptstyle = F / \ C \ W _ { \mathrm { t } } - W _ { 0 } )$ ; 成活率(survival rate，SR， $\% ) { = } 1 0 0 { \times } N _ { \mathrm { f } } / N _ { \mathrm { i } }$ 肥满度（condition factor，CF， $\mathrm { g } / \mathrm { c m } ^ { 3 } ) \ = W _ { \mathrm { t } } / L ^ { 3 }$ 脏体比（viscerasomatic index，VSI， $\% ) \ = 1 0 0 \times W _ { \mathrm { v } } / W _ { \mathrm { t } }$ 肝体比（hepaticsomatic index，HSI， $\% ) \ { = } 1 0 0 { \times } W _ { \mathrm { h } } / W _ { \mathrm { t } } .$ 0 式中： $W _ { 0 }$ 为试验鱼的初始体重（g)； $W _ { \mathrm { t } }$ 为试验鱼的初始体重和终末体重（g)； $F$ 为饲 料摄入量（g)； $P$ 为饲料粗蛋白质含量‘ $( \%$ ； $N _ { \mathrm { i } }$ 为试验开始时试验鱼的尾数； $N _ { \mathrm { f } }$ 为试验结 束时试验鱼的尾数； $\mathbf { \Phi } _ { t }$ 为养殖试验天数（d)； $L$ 为试验鱼体长（ $\mathrm { c m }$ ； $W _ { \mathrm { v } }$ 为试验鱼内脏团重 (g）； $W _ { \mathrm { h } }$ 为试验鱼肝胰脏重（g)。
+
+# 1.6 数据统计
+
+试验结果采用"平均值 $\pm$ 标准差”（mean $\pm \mathrm { S D }$ ）表示。采用 SPSS19.0 统计软件中单因素方差分析（one-wayANOVA）进行统计分析，若差异显著，则采用Duncan氏法进行多重比较，差异显著水平为 $P { < } 0 . 0 5$ 。以二次多项式来拟合WGR、SGR、PER和FCR与胆汁酸添加水平之间的相关关系。
+
+2结果与分析
+
+2.1饲料中胆汁酸添加水平对齐口裂腹鱼幼鱼生长性能的影响
+
+由表2可知，随着胆汁酸添加水平的增加，齐口裂腹鱼幼鱼的WGR、SGR、PER 呈先升高后趋于稳定的变化趋势。当胆汁酸添加水平为 $1 5 0 \mathrm { m g / k g }$ 时，齐口裂腹鱼幼鱼的WGR、SGR 均达到最大值，分别为 $2 2 6 . 6 3 \%$ 和 $1 . 6 9 \% / \mathrm { d }$ ，较对照组分别提高了 $2 9 . 9 5 \%$ （ $P { < } 0 . 0 5$ ）和$1 7 . 3 6 \%$ ( $P { < } 0 . 0 5 )$ ；而 PER 则在胆汁酸添加水平为75和 $3 0 0 ~ \mathrm { m g / k g }$ 时共同达到最大值，为$1 . 6 4 \%$ ，较对照组提高了 $8 . 4 4 \%$ （ $P { < } 0 . 0 5 )$ 。当胆汁酸添加水平 $\mathrm { \geqslant } 7 5 \ \mathrm { m g / k g }$ 时，试验鱼的WGR、SGR、PER各组间均无显著差异（ $P { > } 0 . 0 5 )$ ，但均显著高于对照组（ $\scriptstyle \cdot < 0 . 0 5 ,$ 。齐口裂腹鱼幼鱼的 FCR 则随胆汁酸添加水平的增加呈先降低后趋于稳定的变化趋势，且在 $3 0 0 ~ \mathrm { m g / k g }$ 组有最小值，为1.56，较对照组降低了 $6 . 5 9 \%$ （ $_ { \cdot } P { < } 0 . 0 5 { \mathrm { : } }$ )。当胆汁酸添加水平 $\mathrm { \geqslant } 7 5 \ \mathrm { m g / k g }$ 时,试验鱼的FCR 各组间差异不显著（ $\cdot  { P } { > } 0 . 0 5 ) .$ )，但均显著低于对照组（ $\scriptstyle \cdot < 0 . 0 5$ )。以二次多项式来拟合WGR、SGR、PER及FCR 与胆汁酸添加水平间的相关关系（图1\~4)，通过抛物线回归可知，齐口裂腹鱼幼鱼WGR $( y _ { 1 } )$ 、SGR $( y _ { 2 } )$ 、PER $( y _ { 3 }$ ）与胆汁酸添加水平 $( x )$ （204号的回归方程分别为： $y _ { 1 } { = } { - } 0 . 0 0 1 5 x ^ { 2 } { + } 0 . 5 6 0 5 x { + } 1 7 3 . 2$ （ $R ^ { 2 } { = } 0 . 9 8 7 4$ ； $y _ { 2 } = - 7 \mathrm { E } { - } 0 6 x ^ { 2 } { + } 0 . 0 0 2 \ 7 x { + } 1 . 4 3 6$ 5 ( $R ^ { 2 } { = } 0 . 9 9 5 \ 3 \ \mathrm { ; }$ ； $y _ { 3 } = - 0 . 0 0 0 3 x ^ { 2 } + 0 . 1 0 5 8 x + 1 5 4 . 9 1$ ( $R ^ { 2 } { = } 0 . 8 3 3 ~ 5 \$ )，则在抛物线的最高点分别获得齐口裂腹鱼幼鱼WGR、SGR、PER 的最大值，此时对应的胆汁酸添加水平分别为186.83、192.86 和 $1 6 6 . 6 7 ~ \mathrm { m g / k g }$ ；FCR（ $\cdot y _ { 4 } )$ 与胆汁酸添加水平 $( x )$ 的回归方程为： $y _ { 4 } { = } 3 \mathrm { E } { \mathrm { - } } 0 6 x ^ { 2 } { - } 0 . 0 ($ 1$1 x + 1 . 6 6 1 5$ （ $R ^ { 2 } { = } 0 . 8 9 1 ~ 8 )$ ，则PCR最小时胆汁酸添加水平为 $1 8 3 . 3 3 \mathrm { m g / k g }$ 此外，胆汁酸的添加水平对试验鱼的成活率无显著影响（ $\cdot P { > } 0 . 0 5 )$ 。
+
+表2饲料中胆汁酸添加水平对齐口裂腹鱼生长性能的影响  
+Tab.2Effects of bile acid supplemental level on growth performance of juvenile Schizothorax prenanti   
+
+<html><body><table><tr><td>项目Items</td><td colspan="4">胆汁酸添加水平 Bile acid supplemental level/(mg/kg)</td></tr><tr><td></td><td>0</td><td>75</td><td>150</td><td>300</td></tr><tr><td>初始体重 IBW/g</td><td>12.77±0.13</td><td>12.86±0.09</td><td>12.74±0.19</td><td>12.59±0.09</td></tr><tr><td>终末体重 FBW/g</td><td>35.04±0.75a</td><td>39.04±2.06b</td><td>41.60±2.10b</td><td>38.89±1.82b</td></tr><tr><td>增重率WGR/%</td><td>174.40±5.15a</td><td>203.76±17.31b</td><td>226.63±18.41b</td><td>208.76±12.56b</td></tr><tr><td>特定生长率SGR/（%/d)</td><td>1.44±0.03a</td><td>1.59±0.08b</td><td>1.69±0.08b</td><td>1.61±0.06b</td></tr><tr><td>蛋白质效率PER/%</td><td>1.54±0.02a</td><td>1.64±0.01b</td><td>1.63±0.02b</td><td>1.64±0.04b</td></tr><tr><td>饲料系数 FCR</td><td>1.67±0.02b</td><td>1.57±0.01a</td><td>1.57±0.01a</td><td>1.56±0.03a</td></tr><tr><td>成活率 SR/%</td><td>90.23±2.67</td><td>89.18±3.05</td><td>92.46±2.42</td><td>90.84±3.38</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference( $_ { _ { P < 0 . 0 5 } ) }$ ,while 22 with the same or no letter superscripts mean no significant difference( $P { > } 0 . 0 5$ ）.The same as below.
+
+![](images/8dd13d33b53e934a1afb3d0a79bf542ea56ea24e954fcca4862a31c77f42cf3f.jpg)  
+图1胆汁酸添加水平与齐口裂腹鱼幼鱼增重率的关系
+
+Fig.1Relationship between bile acid supplemental level and WGR of juvenile Schizothorax prenani
+
+![](images/d12dd2eddb9ae4e1cb87b64d0954cafc74e36a53669b82e5063a9e54b505dace.jpg)  
+图2胆汁酸添加水平与齐口裂腹鱼幼鱼特定生长率的关系
+
+Fig.2Relationship between bile acid supplemental level and SGR of juvenile Schizothorax prenanti
+
+![](images/add32dad4b85932a262bedf1ed5fa8a18844a9971c575c3c9dfb5eebc778b0b7.jpg)  
+胆汁酸水平 $( \mathrm { m g / k g } )$ ） dietary bile acids levels
+
+![](images/b23bb23af2f98b06d0041380e08acac0d73eafa240d277429743ffe42b454e61.jpg)  
+图3胆汁酸添加水平与齐口裂腹鱼幼鱼蛋白质效率的关系  
+Fig.3Relationship between bile acid supplemental level and PER of juvenile Schizothorax prenanti   
+图4胆汁酸添加水平与齐口裂腹鱼幼鱼饲料系数的关系  
+Fig.4Relationship between bile acid supplemental level and FCR of juvenile Schizothorax prenanti
+
+2.2饲料中胆汁酸添加水平对齐口裂腹鱼幼鱼形体指标的影响
+
+由表3可知，随着胆汁酸添加水平的增加，齐口裂腹鱼幼鱼的CF呈先升高后趋于稳定的变化趋势，且在 $1 5 0 \mathrm { m g / k g }$ 组有最大值 $\mathrm { \langle 0 . 9 2 \ g / c m ^ { 3 } \rangle }$ ，与75和 $3 0 0 \mathrm { m g / k g }$ 组的差异不显著（ $P { > } 0 . 0 5 )$ ，但显著高于对照组（ $\scriptstyle P < 0 . 0 5 ,$ ；齐口裂腹鱼幼鱼的VSI、HSI均随胆汁酸添加水平的增加而呈先降低后趋于稳定的变化趋势，胆汁酸添加水平为 $7 5 { \sim } 3 0 0 ~ \mathrm { m g / k g }$ 时，口裂腹鱼幼鱼的VSI、HSI各组间差异不显著（ $P { > } 0 . 0 5 )$ ，但均显著低于对照组（ $\cdot P { < } 0 . 0 5 \rangle$ ）
+
+表3饲料中胆汁酸添加水平对齐口裂腹鱼形体指标的影响  
+Tab.3Effect of bile acid supplemental level on physical indices of juvenile Schizothorax prenanti   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">胆汁酸添加水平 Bile acid supplemental level/(mg/kg)</td></tr><tr><td>0</td><td>75</td><td>150</td><td>300</td></tr><tr><td>肥满度CF/（g/cm³）</td><td>0.82±0.02a</td><td>0.86±0.01b</td><td>0.92±0.08b</td><td>0.88±0.05b</td></tr><tr><td>脏体比VSI/%</td><td>9.10±0.16b</td><td>8.27±0.06a</td><td>8.34±0.13a</td><td>8.08±0.20a</td></tr><tr><td>肝体比HSI/%</td><td>1.78±0.14b</td><td>1.46±0.11a</td><td>1.52±0.12a</td><td>1.47±0.09a</td></tr></table></body></html>
+
+177 2.3饲料中胆汁酸添加水平对齐口裂腹鱼体成分的影响
+
+由表2可知，随着胆汁酸添加水平的增加，齐口裂腹鱼幼鱼全鱼及肌肉中粗蛋白质含量呈先升高后趋于稳定的变化趋势，且均在 $1 5 0 \mathrm { \ m g / k g }$ 组达到最高值（分别为 $1 2 . 6 8 \%$ 和$1 5 . 4 4 \%$ )，且胆汁酸添加水平在 $7 5 { \sim } 3 0 0 \mathrm { m g / k g }$ 时各组间差异不显著（ $\cdot P { > } 0 . 0 5 )$ ，但均显著高于对照组 ( $\cdot P { < } 0 . 0 5 \rangle$ ；肝胰脏中粗蛋白质含量则与胆汁酸的添加水平无明显的相关关系，各组间差异不显著（ $( P { > } 0 . 0 5 )$ ；全鱼、肌肉及肝胰脏中粗脂肪含量随胆汁酸添加水平的增加呈先降低后趋于稳定的变化趋势，且在胆汁酸添加水平为 $7 5 { \sim } 1 5 0 \ \mathrm { m g / k g }$ 时各组间差异不显著L $. P { > } 0 . 0 5 )$ ，但均显著低于对照组（ $\scriptstyle \cdot < 0 . 0 5$ )。全鱼、肌肉中水分、粗灰分含量和肝胰脏中水分含量各组间差异不显著（ $\mathrm { \Phi } _ { \cdot } P { > } 0 . 0 5 \mathrm { \ ' }$ ）°
+
+表4饲料中胆汁酸添加水平对齐口裂腹鱼幼鱼体成分的影响   
+Tab.4Effects of bile acid supplemental level on body,composition of juvenile Schizothorax prenan   
+
+<html><body><table><tr><td rowspan="2">指标 Parameter</td><td colspan="4">胆汁酸添加水平 Bile acids levels (mg/kg)</td></tr><tr><td>0</td><td>75</td><td>150</td><td>300</td></tr><tr><td>全鱼 Whole body</td><td></td><td></td><td></td><td></td></tr><tr><td>水分 Moisture</td><td>69.48±0.54</td><td>69.12±0.37</td><td>70.21±0.43</td><td>69.49±0.71</td></tr><tr><td>粗蛋白质 Crude protein</td><td>11.44±0.71a</td><td>11.97±0.42b</td><td>12.68±0.35b</td><td>12.33±0.82b</td></tr><tr><td>粗脂肪 Crude lipid</td><td>8.06±0.21b</td><td>7.65±0.24a</td><td>7.37±0.16a</td><td>7.49±0.20a</td></tr><tr><td>粗灰分Ash</td><td>9.39±0.36</td><td>9.57±0.21</td><td>10.12±0.44</td><td>9.88±0.67</td></tr><tr><td>肌肉Muscle</td><td></td><td></td><td></td><td></td></tr><tr><td>水分Moisture</td><td>76.55±0.27</td><td>76.09±0.62</td><td>75.71±0.87</td><td>76.49±0.30</td></tr><tr><td>粗蛋白质 Crude protein</td><td>13.20±0.62a</td><td>14.88±0.72b</td><td>15.44±1.01b</td><td>14.60±0.41b</td></tr><tr><td>粗脂肪 Crude lipid</td><td>5.40±0.33b</td><td>4.76±0.30a</td><td>4.75±0.08a</td><td>4.80±0.26a</td></tr><tr><td>粗灰分Ash</td><td>4.90±0.41</td><td>4.74±0.37</td><td>5.02±0.72</td><td>4.87±0.63</td></tr><tr><td>肝胰脏 Hepatopancreas</td><td></td><td></td><td></td><td></td></tr><tr><td>水分Moisture</td><td>71.01±1.22</td><td>70.76±0.94</td><td>70.99±1.03</td><td>70.34±0.82</td></tr><tr><td>粗蛋白质 Crude protein</td><td>11.64±0.50</td><td>11.79±0.38</td><td>12.38±0.94</td><td>11.82±0.75</td></tr><tr><td>粗脂肪Crude lipid</td><td>16.37±0.81b</td><td>15.94±0.73ab</td><td>15.52±0.49a</td><td>14.91±0.58a</td></tr></table></body></html>
+
+3讨论
+
+3.1饲料中胆汁酸添加水平对齐口裂腹鱼生长性能的影响
+
+胆汁酸能乳化脂肪，扩大脂肪与脂肪酶的接触面积，促进鱼类对脂肪的消化吸收，提高饲料脂肪利用率[10]。研究发现，饲料中添加一定量的胆汁酸能有效地提高牛蛙（Ranacatesbeiana）的生长，且胆汁酸添加水平为 $2 0 0 \mathrm { m g / k g }$ 其WGR、SGR、饲料效率、PER和氮保留率达到最高[1]；胆汁酸添加水平大于 $0 . 0 3 \%$ 时能显著提高军曹鱼(Rachycentron canadum)的WGR和饲料利用率[8]；饲料中添加熊去氧胆酸能显著提高黄尾(Seriola quinqueradiata)的WGR和饲料效率[12]；胆汁酸能显著提高大菱鲆(Scophthalmus maximus)幼鱼的SGR和PER,显著降低其FCR[13]。本试验中，添加胆汁酸能够提高齐口裂腹鱼幼鱼的WGR、SGR和PER降低其FCR，且WGR、SGR、PER、FCR均与胆汁酸添加水平呈二次曲线关系。通过二次回归模型分析可知，当胆汁酸添加水平在166.67\~192.86 mg/kg时，可促进齐口裂腹鱼幼鱼的生长，并提高饲料效率和蛋白质的沉积。该结果与在日本鳗(Anguilla japonica)[14]、虹鳟(Oncorhynchus mykiss)[15]、异育银鲫(Carassius auratus gibelio)[16-17]等上得出的结果相一致。胆汁酸可促进鱼类生长的可能原因如下：1）胆汁酸有利于脂类物质的乳化，加速了脂肪的消化利用，从而促进了鱼类的生长。2）胆汁酸能提高消化酶的活性，并能将小肠内无活性的脂肪酶原激活为有活性的脂肪酶而发挥作用[18]。研究表明，胆汁酸可显著提高牙鲆(Paralichthys olivaceus)[19]、日本鳗[14]、牛蛙[11]等消化道中脂肪酶活性，从而促进其对饲料中脂肪的消化、吸收和代谢。同时，一定量的胆汁酸能显著提高牛蛙肠道蛋白酶活性，提高饲料干物质、粗蛋白质和粗脂肪的表观消化率，进而提高饲料的转化利用率，促进鱼类生长[]。3）胆汁酸具有杀菌抑菌的作用[18]，可改善肠道健康，利于肠道中各种消化酶的分泌，促进饲料中各种营养物质的消化吸收，提高鱼类的生长速度和饲料效率。王恒研究发现，饲料中添加胆汁酸可显著降低罗氏沼虾(Macrobrachium rosenbergi的FCR，但对其WGR无显著影响。这说明胆汁酸对鱼类的影响因试验鱼的种类、生长阶段、试验饲料的组成不同而有差异。
+
+# 3.2饲料中胆汁酸添加水平对齐口裂腹鱼幼鱼形体指标的影响
+
+VSI主要受鱼类的种类及摄食情况等的影响，而肝脏是鱼类的代谢器官和主要的营养储藏器官，一定发育阶段鱼类HSI的大小反映了其肝脏的健康程度。向枭等[20]认为，鱼类的VSI和 HSI会随着鱼体的生长而相对降低，此时鱼体主要通过提高对饲料的转化利用来满足自身生长发育所需的能量。胆汁酸还可促进动物对干物质、蛋白质的转化利用率[]，并通过胆汁酸调控脂肪代谢酶活性而促进机体对脂肪的利用[211，减少能量在内脏中的沉积，增加其可食部分的比例。黄炳山等[22研究发现，胆汁酸显著提高了大菱鲆肝脂酶及脂蛋白脂酶的活性，提高肝脏对脂肪的分解和利用，起到保肝的作用。本试验中，各胆汁酸添加组齐口裂腹鱼幼鱼的VSI、HSI均显著低于对照组，但各胆汁酸添加组间无显著差异。但周书耘等8研究发现，胆汁酸可显著提高军曹鱼的 HSI及VSI；胡田恩等[研究发现；胆汁酸可显著降低牛蛙的VSI，但对其HSI的影响不显著；孙建珍等[13]研究发现，大菱鲆幼鱼的VSI及肠体比均随胆汁酸添加水平的增加而呈先上升后平稳的趋势，而其VSI则呈逐渐升高的变化趋势。上述结果与本研究的结果有一定的差异，其具体原因还需要进一步的研究。CF 是一个粗略的衡量鱼类的能源储备和鱼类的健康指标[23]，其变化情况可以反映鱼类的营养状况[24]。研究发现，军曹鱼[8]、大菱鲆[22]的CF 随胆汁酸添加水平的增加而呈微弱的升高趋势。本试验中，各胆汁酸添加组齐口裂腹鱼幼鱼的CF 显著高于对照组，但各胆汁酸添加组间无显著差异，与上述研究结果基本一致，说明胆汁酸能增加齐口裂腹鱼幼鱼对饲料的利用率，促进营养物质在鱼体中的贮存。
+
+3.3饲料中胆汁酸添加水平与齐口裂腹鱼幼鱼体成分的影响
+
+本试验中，胆汁酸能有效地降低齐口裂腹鱼幼鱼全鱼、肌肉及肝胰脏中粗脂肪含量，提高其全鱼及肌肉中粗蛋白质的含量，与对军曹鱼[8]、大菱鲆[13,22]、罗氏沼虾[7]等的研究所得结果基本一致。这说明胆汁酸能促进动物体内脂肪的分解，提高多不饱和脂肪酸（PUFA）在鱼体内的吸收和利用[7]，为养殖动物的生命活动提供能量。此外，有研究发现，胆汁酸能使脂肪酶结合到甘油三酯的脂滴表面，提高脂肪酶活性，促进脂肪消化[13]。Watanabe 等[25]研究表明，胆汁酸可激活小鼠褐色脂肪细胞表面G 蛋白偶联胆汁酸受体（TGR5)，从而提高胞内环腺苷酸(cAMP)和甲状腺激素水平，加快机体的基础代谢，提高机体中脂肪组织的代谢强度，改善脂肪在动物体内的转运，降低鱼体粗脂肪的含量；胡田恩等[研究表明，胆汁酸能显著提高牛蛙对饲料氮的保留率，因此，胆汁酸可通过促进动物脂肪分解代谢而节约饲料蛋白质，提高养殖动物体内蛋白质的沉积。同时，胆汁酸降低了脂肪在肝脏中的沉积，减少了养殖鱼类脂肪肝发生的可能性。上述结果说明胆汁酸可有效地改善鱼类机体营养成分，减少肝脏中脂肪的沉积，预防脂肪肝的发生。
+
+4结论
+
+本试验条件下，饲料中添加胆汁酸能有效地提高齐口裂腹鱼幼鱼的饲料利用率，促进其生长，改善其形体指标，减少肌肉及肝胰脏中脂肪的沉积。齐口裂腹鱼幼鱼的WGR、SGR、PER、FCR均与胆汁酸添加水平呈二次曲线关系，经二次回归分析可知，齐口裂腹鱼幼鱼饲料中胆汁酸的适宜添加水平为166.67\~192.86 mg/kg。
+
+参考文献：
+
+[1] 温安祥,曾静康,何涛.齐口裂腹鱼肌肉的营养成分分析[J].水利渔业,2003,23(1):13-15.   
+[2] 王纪亭,宋憬愚,李海涛,等.乳化剂对建鲤生长及血液生化指标的影响[J].大连水产学院学 报,2009,24(3):257-260.   
+[3] 刘兆阳,王建平,刘宁.乳化剂对肉鸡肠道菌群及免疫功能的影响[J].中国畜牧兽 医,2013,40(8):60-63.   
+[4] REINHART G A,MAHAN D C,CERA K R.Effect of group size and feding regimen on nutrientdigestibility studies with weanlingpigs[J].Journal of Animal Science,1989,67(10):2684-2691.   
+[5]PULLEN D L,POLIN D.Effect of bile acids and diet composition on lipid absorption in chickens with cannulated bile ducts[J].Poultry Science,1984,63(1O):2020-2026.   
+[6] 汪军涛.饲料中食盐、DL-肉碱复合物、胆汁酸对斑点叉尾生长和部分生理机能、体色 因子的影响[D].硕士学位论文.苏州:苏州大学,2008.   
+[7]王恒.不同脂肪源及胆汁酸对罗氏沼虾生长性能及脂肪酸组成的影响[D].硕士学位论文. 扬州:扬州大学,2010.   
+[8]周书耘,刘永坚,梁海鸥,等.饲料中添加胆汁酸对军曹鱼生长及体组成的影响[J].南方水 产,2010,6(4):20-25.   
+[9] AOAC.OfficialmethodsofanalysisofAOACInternational[M].16th ed.Arlington,VA:Association of Analytical Communities,1995:1094.   
+[10]CHOU B S,SHIAU S Y.Optimal dietary lipid level for growth of juvenile hybrid tilapia,Oreochromis niloticus $\times$ Oreochromis aureus[J].Aquaculture,1996,143(2):185-195.   
+[11]胡田恩,王玲,张春晓,等.饲料中添加胆汁酸对牛蛙生长性能、体组成和营养物质表观消 化率的影响[J].水生生物学报,2015,39(4):677-685.   
+[12]DESHIMARU O,KUROKI K,YONE Y.Suitable levels of lipids and ursodesoxycholic acid indietforyellowtail[J].BulletinoftheJapaneseSocietyofScientific Fisheries,1982,48(9):1265-1270.   
+[13]孙建珍,王际英,马晶晶,等.不同脂肪水平下添加胆汁酸对大菱鲆(Scophthalmus maximus) 幼鱼生长、体组成和脂肪代谢的影响[J].海洋与湖沼,2014,45(3):617-625.   
+[14]MAITA M,TACHIKI H,KAIBARA A,et al.Pharmacological effect of ursodeoxycholic acid in juvenile eel[J].Nippon Suisan Gakkaishi,1996,62(1):129-130.   
+[15]颌志刚,牛翠娟.可利康对虹鳟生长的影响[J].饲料研究,2002(10):22-25.   
+[16]林仕梅,叶元土,罗莉.胆汁酸添加剂对异育银鲫生长的影响[J].广东饲 料,2003,12(3):14-15.   
+[17]　谭永刚,魏文志,曾党胜.饲料中添加胆汁酸对异育银鲫生长性能的影响[J].广东饲 料,2008,17(1):25-26.   
+[18]刘敬盛,杨玉芝,王君荣,等.胆汁酸营养功能及作用机制的研究进展[J].中国饲 料,2010(6):35-37,43.   
+[19]KIM S K,MATSUNARI H,TAKEUCHI T,et al.Effect of different dietary taurine levels on the conjugated bile acid composition and growth performance of juvenile and fingerling Japanese flounder Paralichthys olivaceus[J].Aquaculture,2007,273(4):595-601.
+
+[20]向枭,周兴华,陈建,等.乳酸对鲫鱼的生长及饲料利用率的影响[J].中国饲料,2009(11):40-41.
+
+[21]孙逊,杨刚毅.胆汁酸对糖脂代谢影响的研究现状[J]).国际内分泌代谢杂志,2008,28(5):323-325.
+
+[22]黄炳山,李宝山,张利民,等.胆汁酸对大菱鲆幼鱼生长、脂肪代谢酶及血清生化的影响[J]. 上海海洋大学学报,2015,24(5):737-744.
+
+[23]向枭,周兴华,陈建,等.饲料脂肪水平对白甲鱼幼鱼生长性能、体组成和血清生化指标的影响[J].动物营养学报,2013,25(8):1805-1816.
+
+[24]CHATZIFOTIS S,PANAGIOTIDOU M,PAPAIOANNOU N,et al.Effect of dietary lipid levels on growth,feed utilization,body composition and serum metabolites of meagre (Argyrosomus regius) juveniles[J].Aquaculture,2010,307(1/2):65- 70.
+
+[25]WATANABE M,HOUTEN S M,MATAKI C,et al.Bile acids induce energy expenditure by promoting intracellular thyroid hormone activation[J].Nature,2006,439(7075):484-489.
+
+Effects of Bile Acid Supplemental Level on Growth Performance,Physical Indices and Body Composition of Juvenile Schizothorax prenanti
+
+ZENG Benhe XIANG Xiao\*ZHOU Xinghua CHEN Jian LYU Guangjun ZHU Chengke LI Daijin   
+(Key Laboratory of Freshwater Fish Reproduction and Development, Ministry of Education, Key   
+Laboratory of Aqucatic Science of Chongqing, Department of Fisheries in Rongchang Compust, Southwest University, Chongqing 402460, China)
+
+Abstract: This experiment was conducted to study the effects of bile acid supplemental level on the growth performance， physical indices and body composition of juvenile Schizothorax prenanti. A total of 360 healthy juvenile Schizothorax prenanti with the average body weight of( $1 2 . 7 4 { \scriptstyle \pm 0 . 1 4 } ;$ g were randomly divided into four groups with three replicates of 30 fish. Each group was fed a experimental diet containing either O (control group),75,150 or $3 0 0 ~ \mathrm { m g / k g }$ bile acid for 7O days. The results showed as follows: with bile acid supplemental level raising, the weight gain rate (WGR),specific growth rate(SGR), protein efciency ratio (PER) had a trend of going up first and then leveled off Conversely, the feed conversation ratio (FCR) first decreased and then increased to stabilization. The WGR, SGR and PER in bile acid supplemental groups were significantly higher than those in control group $( P { < } 0 . 0 5 )$ ，while the FCR in bile acid supplemental groups was significantly lower than that in control group $( P { < } 0 . 0 5 )$ . The WGR and SGR were all the highest（ $2 2 6 . 6 3 \%$ and $1 . 6 9 \% / \mathrm { d }$ ,respectively） when the bile acid supplemental level was $1 5 0 ~ \mathrm { m g / k g }$ ,and the PER was the highest $( 1 . 6 4 \% )$ ）when the bile acid supplemental level was $3 0 0 \mathrm { m g / k g }$ ,while the FCR was the lowest （1.56） when the bile acid supplemental level was $7 5 ~ \mathrm { m g / k g }$ .Based on square regression analysis, the suitable bile acid supplemental level was 186.83,192.86,166.67 and $1 8 3 . 3 3 ~ \mathrm { m g / k g }$ ， respectively， when WGR, SGR, PER and FCR of juvenile Schizothorax prenanti were optimum. With bile acid supplemental level raising， the condition factor (CF) was initially increased and then leveled off,the viscerasomatic index (VSI) and hepaticsomatic index (HSI) initially increased and then decreased. The CF in bile acid supplemental groups was significantly higher than that in control group $( P { < } 0 . 0 5 )$ ，while the VSI and HSI in bile acid supplemental groups were significantly lower than those in control group （2 $( P { < } 0 . 0 5 )$ . The crude protein content of whole body and muscle initially increased and then to stabilization with bile acid supplemental level raising,while the crude lipid content of whole body, muscle and hepatopancreas initially decreased and then leveled off. There were no significant differences in moisture and crude ash contents in whole body and muscle bile acid supplemental level raising（ $P { > } 0 . 0 5$ ） . Results of above show that bile acid supplementation can improve feed efficiency ,promote growth, improve physical indices and reduce fat deposition in muscle and liver of juvenile Schizothorax prenanti. After comprehensive consideration, the suitable bile acid supplemental level in juvenile Schizothorax prenanti diet is 166.67 to $1 9 2 . 8 6 \mathrm { m g / k g }$ Key words: Schizothorax prenanti; bile acid; growth performance; physical indices; body

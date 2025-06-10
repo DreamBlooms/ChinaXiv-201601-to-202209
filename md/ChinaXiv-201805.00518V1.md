@@ -1,0 +1,237 @@
+# DOI:10.5846/stxb201703310559
+
+贾国栋,陈立欣,李瀚之，刘自强,余新晓.北方土石山区典型树种耗水特征及环境影响因子.生态学报,2018,38(10);3441-3452. JiaGD,CenX,LiHZ,iuZQ，uXXeetfvioetalfactosoplatwaterosutiochaacteristisioc mountainous area.Acta Ecologica Sinica,2018,38(10):3441-3452.
+
+# 北方土石山区典型树种耗水特征及环境影响因子
+
+贾国栋1,2,3，陈立欣1,2,3，李瀚之³，刘自强³，余新晓1,2,3，\*
+
+1北京林业大学，水土保持国家林业局重点实验室，北京100083  
+2北京林业大学，北京市水土保持工程技术研究中心，北京100083  
+3北京林业大学，水土保持学院，北京100083
+
+摘要;研究北方土石山区植物耗水特征和环境影响因子对于构建稳定的植被生态系统具有重要意义,能够为当地植被恢复策略提供科学指导。在北京林业大学西山试验林场于2016年7月至10月利用热扩散探针的方法,结合同步观测的土壤含水率和气象因子,对刺槐和油松人工混交林进行蒸腾观测和分析。结果表明：(1)尽管刺槐和油松蒸腾的日变化规律相近,但二者蒸腾的季节变化规律不同;(2)两个树种蒸腾与VPD(饱和水汽压差)成顺时针时滞。刺槐蒸腾与太阳辐射成顺时针时滞,油松则成逆时针时滞;(3)二者与大气环境的耦合程度均较高( $\cdot \varOmega { < } 0 . 1 \dot { | }$ ),其气孔活动能够有效地控制蒸腾;(4)影响植物蒸腾的主要环境因子为太阳辐射( ${ \cal P } { < } 0 . 0 1$ ）、VPD( $P { < } 0 . 0 1$ )和风速( ${ \cdot } P { < } 0 . 0 1$ ),其中由VPD 引起的蒸腾量高于太阳辐射；（5)浅层土壤(0—50cm)的水分条件可能并不是影响植物蒸腾的重要因素。研究表明,在实际管理中可以采取调控气孔导度的手段来减少刺槐和油松人工林的耗水量,来降低水分这一人工林成活的限制因子，从而提高造林成活率。
+
+关键词：北方土石山区;蒸腾特征;环境影响因子;耦合程度
+
+# The effect of environmental factors on plant water consumption characteristics in a northern rocky mountainous area
+
+JIA Guodong1,2.3， CHEN Lixin1,2.3， LI Hanzhi³， LIU Ziqiang³， YU Xinxiao1,2,3 \*
+
+1KeyLaboratoryftateFrestrydmnistratiooSoildWateronseatioeijingForestrUniersityeijingin   
+2BeijingEngineeringResearch CenterofSoiland WaterConservation,BeijingForestry University，Beijing10o083,China   
+3School of Soil and Water Conservation，Beijing Forestry University，Beijing 1OOO83,China
+
+Abstract:Knowledge onthetranspirationand environmentalfactors offorests facilitates themanagementofself-sustainable vegetation ecosystems in northern rocky mountainousareas，and provides scientific vegetation construction strategies.We surveyed foresttranspirationand environmental factors inamixed standof Robinia pseudoacaciaand Pinus tabulaeformis fromJuly11toOctober31,2O16 inthe experimental forestof theBeijingForestry University，West Mountain.Athermal dissipatin probe(TDP）system wasappliedto monitorthe transpiration.To studythe efects of theenvironmentalfactors on transpiration,volumetricsoil water content，andmeteorological variableswere also monitored simultaneously，including solar radiation $\left( R _ { n } \right)$ ，air temperature（T），relative humidity（RH），wind speed（W），and precipitation（P). This study aimed to（1）analyze forest transpiration processesand thetranspiration responses to environmental factors，and（2） determinethecanopycouplingoftheforestandquantifythecontributionof diferentfactors totranspiration.Resultsshowed that（1）thetwospeciesexhibited diferentseasonal transpiration trends despite their similar diurmal paterns.The transpiration of $R$ ，pseudoacacia decreased in autumn.By contrast，the transpiration of $P$ .tabulaeformis was maintained throughout the growing season.The two species demonstrated similar transpiration paterns，but the transpirationof $P$ ： tabulaeformis was higher than that of $R$ ：pseudoacacia;(2）Both species demonstrated hysteresis between transpiration and $R _ { n }$ . But $R$ ，pseudoacacia had a clockwise hysteresis loop，whereas $P$ 、tabulaeformis had an anti-clockwise loop.Hysteresis wasalsoobserved between transpiration and VPD(vapor pressre deficit).Both species showed clock-wise hysteresis loops with much higher transpiration ratesin themorning thanafternoon；（3）Themainenvironmental factors influencing transpiration included $R _ { n } ( P < 0 . 0 1 )$ ，VPD( $P \ < \ 0 . 0 1$ ），and $\mathrm { ~ W ~ } ( \mathrm { ~ \ / ~ } P \mathrm { ~ \textless ~ } 0 . 0 1$ )．Among them，VPD induced higher transpiration than $R _ { n } ; ( 4 )$ the two species were well coupled to the ambient environment( $\varOmega < 0 . 1 \rangle$ ；thus，their stomatal control over transpiration was eficient，and the effect of $R _ { n }$ was highest before noon. The sap flow was observed to start earlierunderhigh VPDconditions toavoid xylem cavitationorembolismowing tointense transpiration;(5）Thesoil water condition of shallow layers ( $0 { \ - } 5 0 \ \mathrm { c m }$ ）was not a major influencing factor on plant transpiration.Therefore，further study should include monitoring deeper soillayers tolocate the soil water supply source.Based onour results，the transpirationof this mixed stand could bereduced through the abatement of canopy conductance.Thus，waterrestrictions would be alleviatedandthesurvival rate wouldbe increased.Both speciescouldeficientlyphysiologically control transpiration. Therefore，in practice，the water consumption of this forestcould be managed byreducing the canopy conductance.This could becariedout by pruning，or selecting a species with alow canopy conductance to inerease the survival rateof the forest under limited water conditions. C
+
+Key Words: northern rocky mountainous area； plant transpiration； environmental variables； coupling
+
+树木蒸腾作用是树木耗水的主要部分,也是水分生理生态学研究的核心[1]。在森林生态系统中,树木蒸腾是多种环境因子共同作用的结果[2],而太阳辐射、水汽压亏缺(VPD)和土壤水分因子是影响植物蒸腾的主要环境因子。太阳辐射主要通过诱导气孔开张来影响蒸腾,而VPD 与树木液流呈线性相关[3],但在高水平条件下,会导致液流下降[4]。土壤水分则通过限制根部吸水影响蒸腾[5]。此外,环境因子对植物蒸腾的影响还与气孔活动有关,衡量树木与大气环境的耦合程度,可通过参数 $\Omega$ 来量化表达[6]。贾国栋等[7]通过研究北京山区刺槐、栓皮栎蒸腾特性,发现二者蒸腾速率均与太阳辐射强度和VPD呈正相关,而与土壤水分呈负相关;张璇等8通过研究缙云山典型树种树干液流日际变化特征,发现杉木、马尾松、四川山矾的蒸腾主要受太阳辐射和 VPD 的影响,而土壤水分对树木夜间液流的影响最大;孙林等[9]通过研究华北落叶松冠层平均气孔导度,发现气孔导度对太阳辐射、VPD、土壤水分等环境因子量化响应关系各异,并表现为非线性特征。
+
+北方土石山区土层瘠薄、气候易旱,随着植被的恢复重建,其蒸腾特性逐渐受到广泛关注[10-11],不仅成为生态水文学的关注热点，也对植被建设和管理具有重要意义。本文旨在通过对北京山区典型人工林耗水特性的研究,探讨环境因子对蒸腾的作用方式和作用程度,最终为北京山区生态植被建设与管理提供科学依据。因此,本研究以北方土石山区常见造林树种刺槐（Robinia pseudoacacia）和油松（Pinus tabulaeformis）人工混交林为研究对象,通过研究其蒸腾特征及对环境因子的响应，(1)阐明林分蒸腾过程的变化规律，（2)环境因子对林分蒸腾的影响机理,(3)通过林分冠层蒸腾与大气环境的耦合程度的分析,量化不同大气环境因子对蒸腾的贡献率，以期为该地区植被建设和经营管理措施提供理论依据。
+
+# 1材料和方法
+
+# 1.1研究区自然概况和研究材料
+
+研究区位于北京林业大学西山试验林场，地理坐标为 $1 1 6 ^ { \circ } 5 ^ { \prime } 4 5 ^ { \prime \prime }$ E、 $4 0 ^ { \circ } 3 ^ { \prime } 4 6 ^ { \prime \prime } \mathrm { ~ N ~ }$ 。该区域属暖温带亚湿润区燕山山地落叶阔叶林及油松侧柏林区,多年平均降水量 $6 1 0 . 1 \ \mathrm { m m }$ ,其中6—9月份降水一般占全年的 $70 \%$ 左右。年平均气温 $8 . 5 { \mathrm { - } } 9 . 5 { \mathrm { ~ } } ^ { } \mathrm { ~ C }$ ,光照充足,多年平均光照时数为 $2 5 6 5 . 8 \mathrm { ~ h ~ }$ ,无霜期平均为151d左右。年平均
+
+风速 $2 ~ \mathrm { m / s }$ 。地处低山半阳坡,土壤为坡积褐土。土层瘠薄,厚度小于 $3 0 \ \mathrm { c m }$ 土地约占本区面积的一半[7]实验样地为油松刺槐人工混交林,林龄为 $5 6 \mathrm { ~ a ~ }$ ,郁闭度0.6。林地为水平阶整地,坡向为北坡,坡度18°。
+
+# 1.2树木液流测定与计算
+
+在各径阶随机选取一定数量生长发育良好、无病虫害的树木作为液流监测样木(表1),树干液流测定采用热扩散探针技术(TDP)[12]。探针长度的选择需根据边材宽度确定,保证探针全部位于边材中,不接触心材。用定制钻头在树干胸径处( $\mathrm { D B H } = 1 . 3 0 \mathrm { ~ m ~ }$ )沿垂直方向间隔 $3 \ \mathrm { c m }$ 打两个孔，安装热扩散式边材液流测定探针（TDP,Dynamax Inc.,Houston,USA）,注意加热端探针应位于上方。探针安装好后,用硅酮胶对探针与树干结合部位进行密封,防止雨水侵入。由于热扩散探针对环境热辐射较为敏感,因此用铝箔包裹探针部位的树干,探针尾端由电缆与数据采集器（CR1000,CampbellScientific,Logan,USA）相连接,数据采集器每 10 s采集1次数据,每 $3 0 ~ \mathrm { m i n }$ 计算平均值并记录。整套数据采集系统连接 $1 2 { \mathrm { ~ V ~ } }$ 外接电源,并由太阳能供电,保证 24h 不间断运行。由于春季树木液流相对较弱,且在夏季由于降雨间隔期蒸发散较大,同样会出现一定的干旱期,亦可实现对土壤干旱期和湿润期耗水规律的考察。此外,在生长旺季,林分蒸腾需求大,如果存在干旱胁迫,则林分蒸腾的响应规律更有代表性。因此,本研究集中在生长旺季(7月11日至10月31日)进行液流和环境因子同步监测。
+
+表1样木特征值(均值±标准误)  
+Table 1 Characteristics of sampled trees (mean ± S.E.)   
+
+<html><body><table><tr><td>树种 Species</td><td>样本量 Sample size</td><td>胸径 Diame a breast</td><td>边材面积 Sapwood area/cm²</td><td>冠幅 Crown area/m²</td><td>树高 Tree height/m</td></tr><tr><td>油松Pinus tabulaeformis</td><td>11</td><td>7.87±0.65</td><td>43.103±6.68</td><td>9.85±1.6</td><td>4.15±0.26</td></tr><tr><td>刺槐 Robinia pseudoacacia</td><td>6</td><td>7.89±1.35</td><td>18.50±3.67</td><td>12.67±2.67</td><td>4.12±1.07</td></tr></table></body></html>
+
+树干液流密度计算经验公式如下：
+
+式中， $J _ { s }$ 为液流密度( $\mathrm { ~ g ~ c m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 }$ ） $\Delta \overline { { { T _ { M } } } }$ 为上下探针之间的昼夜最大温差; $\Delta T$ 为瞬时温差。整树每小时蒸腾量$\operatorname { E } { \big ( } \mathbf { g } / \mathbf { h } { \big ) }$ 计算公式如下： 0/n
+
+$$
+E = J _ { s } \times A _ { s } \times 3 6 0 0
+$$
+
+式中， $A _ { s } ( \mathrm { c m } ^ { 2 } )$ 为边材面积。3600为将瞬时液流密度扩展到每小时液流量的时间换算系数,通过累加即可得到单日整树蒸腾总量。
+
+获得了单株样木的液流量后,即可通过边材面积通过尺度扩展,得到林分蒸腾量 $E _ { c }$ ：
+
+$$
+\begin{array} { r } { E _ { c } = \sum _ { i = 1 } ^ { n } ( J _ { s , i } \times A _ { s , i } ) } \end{array}
+$$
+
+式中 $\mathcal { A } _ { s , i } ^ { \vee }$ 表示该i径阶所有样木的液流速率均值， $\boldsymbol { \cdot } \boldsymbol { A } _ { s , i }$ 是第 $i$ 树种和径阶的总边材面积。样木的边材面积由生长锥钻孔得到。油松和刺槐边材与心材的颜色有明显差异,因此可测得单株生长锥获取的树芯上边材的厚度,进而计算树干胸径处截面的边材面积。在样地中随机选取12 株样木,逐一提取树芯,建立胸径(DBH)与边材面积 $( A _ { s } )$ 的回归关系,由此计算样地中不同树种不同径阶边材面积。
+
+# 1.3冠层导度 $G _ { c }$ 的计算
+
+冠层导度 $G _ { c }$ 根据Penman-Monteith方程(公式（4))推导获得：
+
+$$
+G _ { c } = \frac { G _ { a } \lambda E \gamma } { \lambda R _ { n } + 3 6 0 0 \rho C _ { p } \mathrm { V P D G } _ { a } - \lambda E ( \Delta + \gamma ) }
+$$
+
+式中， $\lambda$ 为水的气化潜热( $2 4 6 5 ~ \mathrm { J / g } ^ { \cdot }$ ; $E$ 为蒸腾量( $\mathrm { ~ k g ~ m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 }$ : $R _ { n }$ 为冠层上方净辐射( $\mathrm { ( ~ W / m } ^ { 2 }$ ） $_ { \cdot \rho }$ 为恒定气压下空气密度( $1 2 2 5 \ \mathrm { g } / \mathrm { m } ^ { 3 }$ ）； $C _ { p }$ 为恒定气压比热 $( 1 . 0 1 \mathrm { ~ J ~ g ~ } ^ { - 1 } \mathrm { ~ k ~ } ^ { - 1 }$ )；VPD为水汽压亏缺 $\left( \mathrm { P a } \right) ; \Delta$ 为饱和水汽压与温度
+
+的斜率( $\mathrm { \Delta P a / k }$ );y为干湿球常数 $( 6 5 . 5 \ \mathrm { P a } / \mathrm { k }$ ）； $G _ { c }$ 为冠层导度 $ { { \left( { \mathrm { ~ m ~ s } } ^ { - 1 } \right. } }$ ）； $G _ { a }$ 为空气动力学导度( $( \mathrm { m / s } )$ ，可以通过公式(5)算出：
+
+$$
+G _ { a } = \frac { k ^ { 2 } * u } { \left[ \ln ( \displaystyle \frac { Z - Z _ { h } } { Z _ { 0 } } ) \right] ^ { 2 } }
+$$
+
+式中， $k$ 为 von Karman 常数,通常取 $0 . 4 1 , u$ 为风速( $\mathrm { ~ m ~ s ^ { - 1 } ~ }$ ）； $Z$ 为冠层高度（m）； $\boldsymbol { Z } _ { 0 }$ 为粗糙高度（m）,通常取$0 . 1 Z ; Z _ { h }$ 为位移高度 $\mathbf { \chi } ( \mathbf { m } )$ ,通常取 $0 . 6 7 \mathrm { Z }$ 。 2
+
+# 1.4脱耦系数 $( { \varOmega } )$ 计算
+
+衡量树木与大气环境的耦合程度的参数 $\varOmega$ 通过公式(6)[13]求出：
+
+$$
+\varOmega = \frac { 1 + \varDelta / \gamma } { 1 + \varDelta / \gamma + \varDelta _ { a } / G _ { c } }
+$$
+
+根据 $\varOmega$ ,利用公式（7）[13],可量化太阳辐射与VPD 对植物蒸腾的相对贡献：
+
+$$
+E = \varOmega E _ { \mathrm { e q u } } \ + \ ( \ 1 \ - \varOmega ) E _ { \mathrm { i m p } }
+$$
+
+式中， $E _ { \mathrm { e q u } }$ 为太阳辐射引起的蒸腾量， $E _ { \mathrm { i m p } }$ 为VPD引起的蒸腾量。
+
+# 1.5 环境因子观测
+
+由于林地为水平阶整地,因此根据不同地形条件,利用土壤含水量测定仪,分别监测土壤平面和土壤坡面位置的土壤体积含水量(VWC),土壤平面设置3个重复监测,土壤坡面设置2个重复监测。仪器记录时间设为 $3 0 ~ \mathrm { m i n } /$ 次。 2C
+
+使用温湿度传感器监测并直接获得温度 $( T )$ 、湿度 $( R H ) 、$ 风速 $( \textcircled { W } )$ 、太阳辐射( $\textstyle { \left| { R _ { n } } \right\| }$ )和降雨量 $( P )$ 数据。VPD用下式求出：
+
+式中,T为大气温度( $\mathcal { C }$ ),RH为相对湿度 $( \%$ ）
+
+# 1.6 统计分析
+
+数据采用SPSS16.0进行统计分析。样本间的显著性差异通过配对T检验和单因素方差分析判断。树木液流的影响因子判定主要通过相关分析及回归拟合完成。
+
+# 2结果与分析
+
+2.1生长季林分环境因子及蒸腾变化
+
+图1和2给出了观测期间(2016年7月11日至10月31日)环境因子的动态变化趋势。从图中可以看出该地区气候季节性明显,太阳辐射和VPD呈递减趋势。夏季(7—8月)和秋季(9—10月)气象因子差异显著,而相同季节内各月份不同因子差异的显著度不同（表2)。降雨主要集中在8、9月份,两月的总降雨量可达199.5mm，是其余两月总降雨量的8.9倍。不同地形的表层土壤含水量（0一 ${ \cdot } 5 0 \ \mathrm { c m }$ )表明,土壤水分状况
+
+表2观测期间气象因子波动各月份间单因素方差分析  
+
+<html><body><table><tr><td colspan="5">Table 2 One-way fluctuationamongmonths</td></tr><tr><td>月份</td><td>太阳辐射 Radiation/(W/m²)</td><td>空气温度</td><td>相对湿度 Relative humidity/%</td><td>风速</td></tr><tr><td>Month</td><td></td><td>Air temperature/C</td><td></td><td>Wind speed/(m/s)</td></tr><tr><td>7</td><td>204.67 a(0.116)</td><td>22.48 a</td><td>68.60 a</td><td>1.71 a</td></tr><tr><td>8</td><td>181.56 a</td><td>19.48 b</td><td>73.31 b(0.273)</td><td>1.61 ac(0.069)</td></tr><tr><td>9</td><td>120.19 b(0.280)</td><td>15.42 c</td><td>78.77 b</td><td>1.48 b</td></tr><tr><td>10</td><td>136.04 b</td><td>11.90 d</td><td>71.91 c</td><td>1.77 ad(0.234)</td></tr></table></body></html>
+
+表中数据为当月均值。 $\stackrel { \prime } { n } = 2 0 1 0 , P = 0 . 0 5$ ),以LSD检验进行两两比较，不存在显著差异的月份间其显著度水平标注于均值括号内
+
+http://www.ecologica.cn
+
+因地形不同其范围和波动程度存在显著差异（图1）( $P { = } 0 . 0 0$ ， $n = 1 0 8 4 7$ ),并且随着季节推移，土壤含水量下降速率开始放缓。
+
+由图2可知,两种树木日间蒸腾特征差异明显,且对于季节变化响应方式不同。刺槐的蒸腾强度随夏季逐渐结束明显下降，且在逐步进入秋季后蒸腾量持续不断下降。而油松在渐入秋季(9月)后的蒸腾量较之夏季略高，随后才表现出与刺槐相似的下降趋势。
+
+![](images/5cb3e85c05ea44eea3d26c3d29d64899528d15e81a8ab1601df6932c5ca0c0c6.jpg)  
+图1观测期间太阳辐射、饱和水汽压差及同步降雨与土壤水分变化
+
+ig.1Changing paterns of solarradiation，vapor pressre deficit,precipitation and volumetric watercontent sta
+
+2.2不同树种林分蒸腾的日变化规律及对环境因子的响应
+
+林分冠层蒸腾 $( E _ { c } )$ ，冠层导度( $\textit { G } _ { c }$ )和脱耦系数$( { \varOmega } )$ 的日变化规律相似（图3），但太阳辐射( $\mathbf { \partial } \cdot R _ { n }$ ）和VPD对林分蒸腾活动的作用并不相同。上午时， $\varOmega$ 值较高，林分蒸腾与大气耦合程度较低，这一阶段太阳辐射是影响林分蒸腾的主导因子，气孔在其诱导下迅速张开，引起 $G _ { c }$ 和 $E _ { c }$ 升高,不同树种 $E _ { c }$ 上升速度有所差异。此时VPD对林分蒸腾活动的影响有限，主要表现为VPD增长速率远低于 $E _ { c }$ 增长速率。但随着VPD不断升高， $\varOmega$ 开始降低，林分蒸腾与大气的耦合程度改善，树木对蒸腾进行的生理控制也逐渐加强， $G _ { c }$ 随 $\varOmega$ 下降而降低。这一阶段，VPD成为林分蒸腾主要影响因子。$G _ { c }$ 与 $E _ { c }$ 在VPD到达 $1 . 1 \ \mathrm { k P a }$ （图3)后降低，表明树木加强对蒸腾的气孔控制,从而避免在高VPD 条件下过度失水。因此,尽管VPD 起主导影响,但其11:00 至16:00间的增长并没有带来 $E _ { c }$ 的升高。
+
+![](images/f8dff5744f91483374bd791115ddde9a32e51a4b1e687061a9f58f8414da3e08.jpg)  
+图2观测期间林分中刺槐和油松组分的蒸腾变化 Fig.2Patterns for respective stand transpiration by Robinia pseudoacaciaandPinustabulaeformis
+
+除了趋势上的相似外（图3）， $G _ { c }$ 和 $E _ { c }$ 间也存在密切的量化关系(图4)，说明被测样木能够有效地利用气孔活动控制蒸腾，刺槐和油松的 $\varOmega$ 值均在0.1以下,说明被测样木能够根据环境变化进行有效的生理调控。
+
+# 2.3不同树种液流与环境因子的响应
+
+对液流和环境因子间的时滞关系进行分析(图5),可以看出,在相似VPD 条件下,油松和刺槐在上午的液流速率远高于下午,即二者的蒸腾均与VPD呈现显著的顺时针时滞关系,同时时滞圈随着日均VPD 增大而增大。两个树种蒸腾随太阳辐射变化而产生的时滞相对较小(图6)。值得注意的一点是,刺槐蒸腾与太阳辐射间的时滞关系与油松并不相同,前者为顺时针时滞,而后者为逆时针时滞。由于林分的蒸腾活动与环境因子存在显著的时滞圈,为量化林分蒸腾相对于环境因子的日进程变化规律,本研究选取8月20个典型晴天天气条件下10:00、12:00、16:00的液流值与同步的VPD及太阳辐射进行对比（图7）。结果表明植物液流活动对VPD的敏感度在一天内随时间推迟逐渐降低。10:00时液流与VPD 成显著的线性相关,表明林分蒸腾能够快速对VPD增长做出响应,两者可保持稳定的同步增长关系,然而随着时间的推移和VPD的继续升高，树木液流出现饱和趋势(12:00)继而逐渐丧失维持较大蒸腾的能力,并在16:00时开始下降同样的动态变化也存在于液流与太阳辐射的日变化过程中（图7）。
+
+对两个树种液流与环境因子进行相关分析,发现在各环境因子中,太阳辐射、VPD 和风速与液流显著相关（表3）,因此,利用7月11日—31日的环境因子数据,得出回归关系式可对液流进行较为准确地量化预测（表4）。利用回归方程对8月份各天蒸腾进行理论估计,并与当月实际值进行配对样本 $\mathbf { \chi } _ { t }$ 检验,结果显示拟合值与实际值不存在显著差异( $P { > } 0 . 0 5$ ,表5）。回归方程能够较理想地对该地区刺槐和油松的蒸腾量进行估计。
+
+表3不同树种液流与环境因子的相关关系  
+Table 3Correlation between sap flow and environment variables for different species   
+
+<html><body><table><tr><td rowspan="2">sp种i</td><td colspan="3">相关系数 Correlation coefficient</td><td rowspan="2">S样pze</td><td rowspan="2">Sig.</td></tr><tr><td>VPD/kPa</td><td>太阳辐射 Radiation/(W/m²)</td><td>风速</td></tr><tr><td>刺槐 Robinia pseudoacacia</td><td>0.505 ** ±0.0242</td><td>0.571** ±0.0132</td><td>Wind speed/(m/s) 0.139 ** ±0.046</td><td>706</td><td>0.000</td></tr><tr><td>油松Pinus tabulaeformis</td><td>0.759 ** ±0.010</td><td>0.785 ** ±0.019</td><td>0.243 ** ±0.005</td><td>706</td><td>0.000</td></tr></table></body></html>
+
+\*\* P=0.01
+
+![](images/8d1eaa15985bc36b70bf63dec2d03023e550ffeffa769d4b1914d59d1b67588d.jpg)  
+图38月林分蒸腾、冠层导度及脱耦系数与同步太阳辐射及饱和水汽压差各时刻均值日进程变化 Fig.3Diuralpattrsoferagedcaopytransprationanopyonducancendecouplingoefcetielationtosolaradaiad vapor pressure deficit at respective time from all day in August 图中分界线指示11：00时各值数量
+
+![](images/e62c581656873e782b180244d34073848f95ab6fb036a28ee2ec44bfbac6bb9f.jpg)  
+图48月油松和刺槐日均冠层导度与冠层蒸腾间的关系
+
+Fig4Relationshipbetweeaverageddailycanopyconductanceandstand transpiratiobyRobiniapseudoacaciaandPinustabulaeforis during August 5
+
+![](images/ffe93735ff9cf2325a77f86d5bd230db9169add9d8735a7ba0445000bee41f4a.jpg)  
+图5刺槐和油松液流密度与饱和水汽压差及太阳辐射变化的时滞关系（图中数据点为8月份31天的均值  
+Fig.5Hysteresis between sap flow and vapor pressure deficit as well as $\pmb { R _ { n } }$
+
+表4不同树种液流与环境因子的线性回归关系  
+Table 4Linear regression between sap flow and environmental variables for different species   
+
+<html><body><table><tr><td>树种</td><td>径阶 Diameter at breast height class/cm</td><td>线性回归方程 Linear regression model</td><td>R²</td></tr><tr><td>Species</td><td>6-10</td><td>J=2.406+1.112VPD+0.012R</td><td>0.770</td></tr><tr><td></td><td>4-6</td><td>J=0.218+0.413VPD+0.22R</td><td>0.939</td></tr><tr><td>刺槐 Robinia pseudoacacia</td><td>6-10</td><td>J=0.107+0.302VPD+0.014R</td><td>0.908</td></tr><tr><td>油松Pinus tabulaeformis</td><td>10-12</td><td>J=0.209+1.465VPD+0.026R</td><td>0.850</td></tr></table></body></html>
+
+置信区间为 $9 5 \%$
+
+![](images/ba941b1342965c76788773c33bf79fac8830061a46105e3dc82671063889d1c8.jpg)  
+图6不同饱和水汽压差条件下刺槐和油松液流的时滞响应
+
+Fig.6Hysteresis variation between sap flow and vapor pressure deficit by Robinia pseudoacacia and Pinus tabulaefor
+
+表5不同树种冠层蒸腾实测值与拟合值的配对样本 $\mathbf { \Psi } _ { t }$ 检验  
+Table 5Paired samples T-test between observed and simulated values of canopy transpiration of different specie   
+
+<html><body><table><tr><td>树种 Species</td><td>均值 Mean</td><td>标准差 S.D.</td><td>标准误 S.E.</td><td>t</td><td>自由度 df</td><td>显著度 Sig.(2-tailed)</td></tr><tr><td>Digete a hrest 6- -10</td><td>-0.140</td><td>2.786</td><td>0.156</td><td>-0.892</td><td>316</td><td>0.373</td></tr><tr><td>4 6</td><td>-0.197</td><td>2.121</td><td>0.119</td><td>-1.657</td><td>316</td><td>0.099</td></tr><tr><td>刺槐 Robinia pseudoacacia 6-10</td><td>-0.144</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>油松Pinus tabulaeformis 10-</td><td>-0.218</td><td>1.497 2.577</td><td>0.098 0.145</td><td>-1.465 -1.505</td><td>316 316</td><td>0.144 0.133</td></tr></table></body></html>
+
+# 3讨论
+
+3.1液流与环境因子间的时滞效应
+
+许多研究都发现液流与 VPD存在时滞的现象[14-15],导致这一现象的原因也较为复杂。首要原因是树干储水[16],许多研究结果表明树木在夜间仍存在液流活动,其目的是补充白天大强度的蒸腾所造成的树干水分缺失[17-18]。在第二天,树木在开始蒸腾活动时会优先使用这部分补充的水分,因此液流会随太阳辐射出现逆时针时滞圈的现象[15]。本研究中仅油松出现上述现象（图6),这可能是树木利用自身储水来缓冲强烈的蒸腾作用所造成的。同时,本研究还发现,两个树种的时滞均随VPD 的逐渐增大而加剧（图6)。Murakami等[19]认为这是由于土壤到叶片整条水力通路上的阻力变大。 $0 ^ { \prime }$ Grady 等[20]对生长于澳大利亚北部稀树草原的桉树的研究也得到相同结论,其研究地点环境条件也是旱季VPD升高,土壤水分下降,这与北方土石山区夏季旱期较为类似,因此 SPAC系统水力导度降低可能是导致该地区植物林分液流存在时滞的原因。此外，本研究并不排除水力限制的因素。在日尺度条件下,即使在水分充足的条件下,蒸腾造成的水分丧失和叶水势下降都会导致叶片气孔导度的显著下降,说明蒸腾和VPD间的时滞现象很可能是由于气孔导度对VPD敏感性发生变化所导致[15.20]。
+
+![](images/f9fee7fe445ac53a729a4daa0415d71fd38d1b0937efbf5f08f025063ea69c8d.jpg)  
+图7树木液流对10:00,12:00和16:00时饱和水汽压差及太阳辐射的响应 Fig.7Response of $J _ { s }$ to vapor pressure deficit and solar radiation at 10:00,12:00 and 16:00
+
+# 3.2环境因子对林分蒸腾的影响机理
+
+研究表明多年生植物具有强大的根系系统,能够获得深层土壤水分，是植物在旱季可能的主要的可利用水分来源[11.14]。本研究中土壤水分监测深度并未超过 $5 0 ~ \mathrm { c m }$ ,有两个原因(1)研究区平均土壤深度在 $6 0 ~ \mathrm { c m }$ 左右[13,21]，,(2)由于实际操作中,研究区深层土壤的土石介质非常容易造成因土壤水分传感器和土壤介质接触不良而产生的不准确的监测结果,（3)林分根系密布,及土石掺杂的质地造成下挖深度受限。由于本研究并未对深层土壤进行监测,因此无法得到深层土壤含水量对林分蒸腾的影响,但基于本研究对浅层土壤水分3 $0 { \stackrel { \textstyle \equiv } { - } } 5 0 ~ \mathrm { c m } ,$ )和液流的同步的监测结果,刺槐和油松蒸腾对浅层土壤水分均未表现出明显响应。类似现象在其他研究中也有报道[13,22],原因可能是由于浅层土壤并非根系分布的主要区域,深层土壤水分是林分重要的水分来源。这一点在本研究中蒸腾和降雨的关系中也有体现,在降雨较少的时段（如7月11日至8月15日）,浅层土壤水分维持在较低水平(图1),但树木蒸腾强度仍可保持降雨较多时段(如8月17至9月29日)的水平（图2）。因此,在该地区深层水源很可能是保障植物旱季蒸腾活动的重要水分来源。未来研究应采取其他手段获得深层土壤水分数据,从而明晰土壤水分与树木蒸腾的关系。
+
+在以小时或天为单位的较小时间尺度上,太阳辐射是调节气孔活动的主要环境因子,而VPD 则是林分蒸腾的主要驱动力[1]。目前,VPD在一定范围内不断升高对于气孔的影响机制尚不确定[1,22]。当 VPD 处于一个较低范围内时,随着 $G _ { c }$ 的增大,气孔对VPD 的敏感度成比例增加[20,23],但也有研究发现当VPD 达到一定临界值时,VPD增大会导致蒸腾下降[24]。本研究中当环境的蒸腾需求过高(VPD 过高)时,气孔会逐渐关闭（图3),从而保证树木能够维持恒定的蒸腾或使自身水势保持在安全范围内,避免木质部出现致命的气穴和栓塞。这种机制增加了土壤到叶片这条水流通路上的导水阻力,最终决定了树体所能维持的最大蒸腾速率，并能够通过有效的生理调控保证自身水分安全。 2
+
+气孔的开度能够很好的控制通过单个气孔所释放的水汽流,但如果叶表面的空气与大气间被界面层所隔离,叶表面空气的水汽压亏缺总是接近局部平衡状态,气孔的开度无法影响整树蒸腾,此时,树木与大气环境的耦合程度较差( $\varOmega$ 较高,其值接近1)， $E _ { c }$ 主要受太阳辐射的影响,而不是冠层气孔导度[6,9]。因此,在早上$\varOmega$ 处于当天较高水平时,太阳辐射影响引起的蒸腾对树木总蒸腾的贡献量是一天中最高的（图3)。相比之下,与大气耦合良好( $\varOmega$ 接近0)的树木,其叶表面不断发生气流交换,从而使叶表面一直暴露于大气VPD下,此时,蒸腾主要受 $G _ { c }$ 和 VPD 的控制,树木能够更敏感的对大气环境的变化做出响应。本研究中两个树种的$\varOmega$ 值均较低,表明在北方土石山区环境下,刺槐和油松能够通过对气孔导度进行有效生理调控,将蒸腾强度维持在较稳定的范围内(图4),以保证自身的正常生理活动。这一点可从 $\big ( \boldsymbol { E } _ { c } ^ { \big ) }$ 和 $G _ { c }$ 的接近线性的关系也可以得到体现[16]。此外,有效的气孔调控能够保证树体根据土壤湿度调节蒸腾量[9,25]。在易发生干旱的北方土石山区,可供林分蒸腾的水源无法得到保证。所以如果大气蒸腾需求超过土壤可供水量,刺槐和油松就可以通过降低冠层导度的方式,使蒸腾量控制在土壤供水的允许范围内。由于刺槐和油松均对蒸腾表现出有效的生理控制,因此在实际管理中可以采取调控冠层导度的手段来减少这两个树种的耗水量,最直接的方法就是通过修剪的方式减少叶片总面积。而对于该地区植被恢复来说,可以采取的另一种策略就是挑选气孔导度较小的树种,来降低水分这一人工林成活的限制因子,从而提高造林成活率。
+
+# 4结论
+
+(1)由于物候特征差异,刺槐和油松的蒸腾具有不同的季节变化特征,前者随秋季到来耗水逐步减少,后者则在初秋时蒸腾有一定程度的增长。在日变化规律上,两个树种类似,但变幅不同,油松的蒸腾强度高于刺槐。
+
+(2)两个树种与大气环境的耦合程度均非常理想， $\varOmega$ 保持在0.1以下，表明其能通过气孔活动对蒸腾进行有效的生理控制,蒸腾量与气孔变化保持近线性关系。在环境因子方面,太阳辐射对蒸腾的影响主要集中在上午,VPD引起的蒸腾对总量的贡献更大。并且,随大气蒸腾需求(VPD)增高,树木液流启动提前,以避开大强度蒸腾造成木质部出现气穴和栓塞。土壤表层水分对蒸腾没有产生显著影响，因此，未来应对较深层土壤（ $5 0 ~ \mathrm { c m }$ 以下)水分进行监测,探究该地油松刺槐人工林的主要水分供给层。
+
+# 参考文献（References）:
+
+[1］张雷，孙鹏森，刘世荣.树干液流对环境变化响应研究进展.生态学报，2009，29（10)：5600-5610.  
+[2］黄德卫，张德强，周国逸，刘世忠，DenisO,李跃林.鼎湖山针阔叶混交林优势种树干液流特征及其与环境因子的关系.应用生态学报，2012，23(5)：1159-1166.  
+[3] 张涵丹，卫伟，陈利顶，于洋，杨磊，贾福岩.典型黄土区油松树干液流变化特征分析.环境科学，2015，36(1)：349-356.  
+[4] 刘鑫，张金池，庄家尧，顾哲衍，韩诚，吴雁雯.杉木幼树树干液流影响因子及其对杉木林蒸腾量的贡献.水土保持通报，2014，34(6)：73-78.  
+[5]WulscgeSasoJsitifoaspatedreiaiiadkforstvidefrfemanipulation study.Global Change Biology，2006,12(1）：97-109.  
+[6］高冠龙，张小由，常宗强，鱼腾飞，赵虹.植物气孔导度的环境响应模拟及其尺度扩展.生态学报，2016,36(6)：1491-1500.  
+[7］贾国栋，余新晓，朱建刚，樊登星.北京山区刺槐、栓皮栎生长旺季液流特性及影响因子.水土保持通报，2010,30（5）：50-56.  
+［8］张璇，张会兰，王玉杰，王云琦，刘春霞，杨坪坪.缙云山典型树种树干液流径向变化及单株日蒸腾量估算.水土保持学报，2016，30(3):337-343.  
+[9］孙林，管伟，王彦辉，徐丽宏，熊伟.华北落叶松冠层平均气孔导度模拟及其对环境因子的响应.生态学杂志，2011，30（10)：2122-2128.  
+[10] 陈丽华，杨新兵，鲁绍伟，孙庆艳，肖洋，王宇.华北土石山区油松人工林耗水分配规律.北京林业大学学报，2008，30（S2）：182-187.  
+[11] 刘自强，余新晓，贾国栋，贾剑波，娄源海，张坤.北京山区侧柏和栓皮栎的水分利用特征.林业科学，2016,52（9）：22-30.  
+[12］陈立欣，张志强，李湛东，张文娟，张晓放，董克宇，王国玉.大连4种城市绿化乔木树种夜间液流活动特征.植物生态学报，2010,34(5):535-546.  
+[13]ChenLX,ZangZQ,LZDangJWCaldwell,ZangWJiophsicalcotrolofolereeranspiratiouderaurbantnorthern China.Journal of Hydrology，2011，402(3-4)：388-400.  
+[14］邓文平，余新晓，贾国栋,李亚军，刘玉洁，白艳婧.利用稳定氢氧同位素定量区分栓皮栎旱季水分来源的方法比较.应用基础与工程科学学报，2013，21(3)：412-422.  
+[15]CermkJueaJuerlW,Phillpsnclewateroagdsualdicsrelaflavolume in old-growth Douglas-fir trees.Tree Physiology，2007,27(2）：181-198.  
+[16］梅婷婷，赵平，倪广艳，王权，曾小平，周翠鸣，蔡锡安，余孟好，曹庆平.树木胸径大小对树干液流变化格局的偏度和时滞效应.生态学报，2012，32(22)：7018-7026.  
+17]KuagiTiStsuiKUsYcofateoagostiateoflrsatdoocarsap flow measurements in Japanesecedar and Japanese cypresstres. Hydrological Processes，2009，23(16):2335-2344.  
+[18］赵晓伟，赵平，朱丽薇，倪广艳，曾小平，牛俊峰.木荷树干夜间水分补充的季节动态及其与树形特征和叶片生物量的关系.植物生态学报，2013，37(3)：239-247.  
+[19]MurakamiY,ii,YangL,ZangG,WangLHosikawaK.WatertrasportprperisofevenoodyspeciefrteaiduUsSandy Land,China.Landscape and Ecological Engineering,2016,12(2）:209-220.  
+[20]O'GradWgeagliarintsotraspiatioofuclptusglobulusiutTsanusralAraldForest Meteorology，2008，148(3）：453-465.  
+2]SalEEellaflseees：205-214.  
+[22] 陈立欣.树木/林分蒸腾环境响应及其生理控制[D].北京：北京林业大学，2013.  
+[23] 司建华，冯起，张小由，常宗强，席海洋.热脉冲技术测定树干液流研究进展.冰川冻土，2007，29（3）：475-481.  
+[24] 韩路，王海珍，徐雅丽，牛建龙.灰胡杨蒸腾速率对气孔导度和水汽压差的响应.干旱区资源与环境，2016，30(8)：193-197.  
+[25] 倪广艳，赵平，朱丽薇，牛俊峰，赵秀华，曾小平.荷木整树蒸腾对干湿季土壤水分的水力响应.生态学报，2015，35（3)：652-662.

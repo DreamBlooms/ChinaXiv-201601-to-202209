@@ -1,0 +1,377 @@
+[
+    {
+        "type": "text",
+        "text": "中性原子成像仪地检电子系统的研制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "明晨曦1²，余庆龙」，梁金宝‘，张焕新1，荆 涛」(1.中国科学院空间科学与应用研究中心北京100190；2.中国科学院大学北京100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文介绍了MIT卫星计划中性原子成像仪(NAIS-H)的基本结构以及工作原理，通过分析MIT卫星NAIS-H的工作原理及测试需求，设计并实现了基于该成像仪的地面检测,包括硬件电路系统及上位机软件系统。本文分别从通讯、数据处理等方面,描述了地检系统的主要结构设计以及工作流程,并详述了上位机系统中串口通讯、数据解包、图像处理等各软件模块设计以及java代码编写。最后,对地检系统进行测试,得到的结果显示该系统具有良好的性能，达到了设计要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：能量中性原子；地面检测；Java通信；图像算法",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TN4 文献标识码：A 文章编号：1674-6236(2016)04-0190-04",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ground test equipment for neutral atom imaging system-high ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MING Chen-xi1,2,YU Qing-longl,LIANG Jin-baol,ZHANG Huan-xin1，JING Tao1 (1. CSSAR,CAS,Beijing 100190,China;2. University of Chinese Academy of Sciences，Beijing 100190,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper introduces the structureand working principleof the Neutral AtomImaging System-High (NAIS-H) which is inthe MITproject.Basedonthetesting needs ofthe instrument,wehavedesigned ground testequipment,including thecircuit systemandthe hostcomputersystem.Inthis paper,weshowthestructureand working principleof the ground test for NAIS-H,andtell structureand java programmingof thesub modulesof the hostcomputersystem indetail，such as API communicating system,data analyzing systemanddata saving system.Atlast,we test heequipment,andtheresult shows the ground test system has good performance and achieves the design requirement. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "tey words:energy neutral atoms；ground test；java program；image algorithn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI:10.14022/j.cnki.dzsjgc.2016.04.058 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MIT计划是我国首个磁层、电离层和热层耦合星座探测计划，主要目标是对近地磁层中MIT耦合关键区域进行探测，揭示太阳活动影响地球空间环境的机制和规律。在卫星探测环境中，环电流区域由能量带电粒子在径向范围2到7个地球半径内绕地球漂移而形成，是磁层中最重要的中性原子源区之一。环电流区内的能量中性粒子在产生后，由于其电中性的特性，运动方向不受磁场影响，在空间中传播收到扰动很小2。因此，可以采用遥感技术对环电流源区进行高时空分辨率遥感成像观测，从而反演得到源区带电粒子分布及其在磁暴期间的时空演化规律[3-7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "空间中心自前正在研制的高能中性原子成像仪（NAIS-H)是先导专项MIT卫星计划中最重要的载荷之一。NAIS-H采用高压偏转加准直调制技术，通过30个方向探头，将$1 8 0 ^ { \\circ }$ 空间分成30个等分视场，利用卫星的自旋，可实现空间 $4 \\pi$ 立体角全覆盖成像。NAIS-H具有在不同磁层环境下探测高时空分辨环电流区的中性原子（其能量分布在 $4 0 \\sim$ $3 0 0 ~ \\mathrm { K e V }$ 图像的能力。探测器的组成包括准直器、高压偏转板和硅半导体探测器。在仪器对中性原子聚集区域进行探测时，中性原子粒子入射到探测器中，打在探测器内的传感器上，产生电信号。电信号通过电子学处理及采集，在数据处理单元(DPU）中形成图象并下行到卫星平台[8]。本文基于MIT计划中高能中性原子成像仪(NAIS-H)，设计了其地面检测系统电路，以及上位机软件系统，并对NAIS-H进行了测试，得到实验结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1NAIS-H系统结构与工作原理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如图1所示是NAIS-H仪器外观，如图2所示为NAIS-H系统结构示意图。整个NAIS-H系统是MIT卫星上的载荷，系统由卫星平台进行统一供电。在NAIS-H系统前端，有30个中性原子探头，将空间视角分成30个等分视场，通过卫星的自旋，实现全面观测空间 $4 \\pi$ 立体角。中性原子通过高压偏转板进入探测器内，打在传感器上。传感器接收到中性原子探测信号后，通过前向放大器、主放大器、尖峰保持系统、模数转换等信号处理模块后，数据被传送至以FPGA为核心的数据处理中心。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "数据处理中心的主要任务是处理传感器探头探测到的数据，以及与卫星总体之间的数据通讯。在接收到传感器上的探测数据后，数据处理中心会将数据统一打包，经由RS422总线发送至卫星平台。另外，FPGA的工作状态还受到卫星平台发送的太阳脉冲信号的控制，当卫星进入地影区时，卫星平台无法向NAIS-H发送太阳脉冲，这时则需要NAIS-H自行产生太阳脉冲信号控制自身的工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3b7881405bbc6cb9a8fb354c720a23b61e6ae8c19f7b52b5a9b833ce91551a9.jpg",
+        "img_caption": [
+            "图1中性原子成像仪外观Fig.1Appearance of NAIS-H"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于NAIS-H在研制及测试过程中不具备与卫星平台联调条件，因此需要根据NAIS-H的研制一套地检设备。本文即描述了针对NAIS-H的地检系统设备与软件的研制方案与测试结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2地检系统功能需求",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1地检系统总体结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地检系统的主要目的是模拟NAIS-H系统在太空正常工作时，卫星平台与NAIS-H的交互与数据处理。根据图2中对NAIS-H工作原理的描述，我们对地检系统设定了3个主要功能需求：1)电源配电功能，2)数据通讯功能，3)模拟太阳脉冲。根据这3大功能需求，我们对地检系统进行了总体结构方案设计。NAIS-H地检系统结构如图3所示，地检系统中的配电模块，通过数控开关，向NAIS-H的各模块提供 $2 8 ~ \\mathrm { V }$ 的一次电源；科学数据模块通过RS422总线与NAIS-H相连，用于对NAIS-H探头所采集到的数据包与相应的查询指令进行统一的收发、转存；太阳脉冲模块则向NAIS-H提供模拟的6s一周期的脉冲信号，并且模拟卫星进入地影区时，中断发送太阳脉冲的行为。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上位机软件模块负责接收、显示分析与存储NAIS-H发送而来的探测数据。上位机通过RS422总线转USB接口与科学数据模块相连，实现了硬件系统与上位机之间的通讯。上位机的串口通讯模块负责实现控制信号的发送、数据包的接收；数据解包模块负责解析数据，将数据存储在缓存中；存储显示模块负责对缓存中的数据进行作图显示与本地存储，并且可随时读取本地数据并作图显示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/550d0d394e9bf16c88cdc5b0449f4b064854a3251ec38d6d052509da100d6c57.jpg",
+        "img_caption": [
+            "图2中性原子成像仪系统结构示意图Fig.2Structure diagram of NAIS-H system",
+            "图4软件系统设计结构图",
+            "Fig.4Schematic diagram of the software test system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7720133a7a40559627df33ae06344318d781986da8b219c3d43483a300af883d.jpg",
+        "img_caption": [
+            "图3中性原子成像仪地检系统结构图",
+            "Fig.3Structure diagram of the ground test equipment for NAIS-H "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 软件需求分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本项目中的上位机软件的主要任务是接收来自NAIS-H的探测数据以及工程参数，并对接收到的数据实现实时分析、作图显示、同步存储、读取等基本功能。所以，软件系统必须以NAIS-H的科学数据接口，即数据包结构以及通讯协议为前提，为中性原子探测所需功能提供相应支持。经过分析，对于NAIS-H所探测到的数据，该上位机软件系统主要需具备以下几个功能：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1)串口通讯，以波特率115200的速率接收NAIS-H发送来的数据包;2)数据解包，提取出工程参数，以及8个能道、30个探头所探测到的数据；3)实时显示工程参数，并将探测数据转换成RGB图像，精确显示在界面中，并实现在图像界面中快速查看数据值；4)将接收到的数据以txt文件存储在目标文件夹中，以及从计算机中导入数据文件作图显示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据对软件功能的需求分析，上位机将程序设计分为API通讯模块、数据解包模块、显示模块、存储模块，如图4所示。软件的详细设计流程如图5所示，当打开程序主界面，系统经过初始化后，打开串口，上位机则向NAIS-H发送通讯指令，NAIS-H收到指令后则返回当前探测数据包。当上位机的串口检测到有数据输入时，软件系统则检验所接收到的数据是否是正确的数据包。若为正确数据包，则将数据包中的每一字节的数据存入缓存的对应位置，并将原数据包存储在目标路径下，最后进行解包分析，以及作图显示等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上位机软件系统+ 1 1通讯模块 数据解包模块 显示模块 存储模块",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3软件模块设计与实现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 串口通讯 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该上位机软件系统中采用javaAPI技术，经由RS422转USB接口，将NAIS-H所采集的数据包暂存于上位机缓存中。地检系统中的硬件模块通过RS422总线转USB接口，使PC端对系统数据的获取可直接通过USB模块实现。接口芯片为",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1f588476d173cd60fd0fb23fe67a4953f6e2ce3f6a037014f6c4f970f9f01c8.jpg",
+        "img_caption": [
+            "图5软件设计的流程图Fig.5Flow chart the software design"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CH341H，串口收发数据包定义：1位起始位，8位数据，1位停止位,波特率 $1 1 5 2 0 0 _ { \\circ }$ 以30775Byte/包的数据包发送给上位机。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上位机与NAIS-H设定了通讯协议，上位机向NAIS-H发送控制信号，NAIS-H收到信号后当上位机则向上位机发送探测结果数据包。上位机接收到数据后，按照约定的格式及校验方式对数据包进行校验，若判断为正确的数据包，则将其存入缓存中，等待数据解包等后续操作，否则进行丢包处理。此外，在串口通讯中，程序通过调用不同功能函数，函数分别实现了单次实时接收以及持续接收功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 数据解包 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上位机接收到正确的数据包后，将数据存储在缓存数组(buffer)中，原数据包直接完整地存储至本地，数据解包的执行对象为缓存中的数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "发送的数据包结构及内容如表1所示。表1中的第一列是数据包中的主要结构内容，包括了包头、工程参数、探测数据、包尾4个部分。其中，包头与包尾用来识别及操作完整、正确的数据包；工程参数包括两个部分——NAIS-H中16个监测点的监测值，以及30个探头通道的传感器噪声；探测到的结果信息包括8个能道,对于每能道,30个探头分别有128Byte的探测数据，共3840Byte数据，每一个字节存储一次探测数据，为NAIS-H所探测到的空间环境里中性原子通量，以8位无符号16进制整型数表示，范围为0\\~FF(255）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 界面显示",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据显示功能的需求，在界面设计上，主界面共有3个部分组成：1)工具栏，2)工程参数显示，3)8个能道数据作图。上位机主界面如图6所示，其中工具栏在界面的最上方，其中分别有“打开串口”“接收数据”“读取数据\"等按钮，图中的小窗口即为数据包中的工程参数，以16进制数据的字符串格式显示。界面中央为NAIS-H探测结果显示图，在一个数据包内，探测数据包括8个能道的数据，每能道包括30个探头的数据，每个探头包括卫星自旋一周时扫描采样的128个数据。显示模块以能道为单位，分别做出8幅数据图，即每图中有 $3 0 ^ { * } 1 2 8 { = } 3 8 4 0$ 个数据。每个数据均由比特数值映射到RGB颜色值，最终以RGB图显示出来。除了直接以颜色显示数据之外，主界面上还实现了直接显示当前数据值的功能。当鼠标悬停在图片中的某一像素上时，工具栏的最右边即可显示当前所在的具体坐标，以及该点的具体探测数值。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/859bd8c95119ff73b059d57035357c990b03accdf050ec21d3ab7d0b03476ff4.jpg",
+        "table_caption": [
+            "表1中性原子成像仪数据包格式",
+            "Tab.1 Data package format of NAIS-H "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>包内容</td><td>字节数/byte</td><td>含义</td></tr><tr><td>同步头</td><td>2</td><td>包头同步码FF</td></tr><tr><td>识别码</td><td>1</td><td>识别数据包类型</td></tr><tr><td>包序号</td><td>1</td><td>标识数据包序号</td></tr><tr><td>时间码</td><td>3</td><td>标识数据包生成时刻</td></tr><tr><td>工参-状态参数</td><td>16</td><td>各模块电压、电流等参数值</td></tr><tr><td>工参-噪声参数</td><td>30</td><td>30个探头的噪声参数监测值</td></tr><tr><td>能道数据1</td><td>30*128=3 840</td><td>能道1探测数据</td></tr><tr><td>能道数据2</td><td>3840</td><td>能道2探测数据</td></tr><tr><td></td><td></td><td></td></tr><tr><td>能道数据8</td><td>3840</td><td>能道8探测数据</td></tr><tr><td>校验和</td><td>1</td><td>包数据校验信息</td></tr><tr><td>包尾</td><td>1</td><td>包尾识别码FE</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/23dbebd54d900636091ebc6b89d3e1fa87b2cd3f6be1da73cdb143b0e62e8e69.jpg",
+        "img_caption": [
+            "图6上位机界面图",
+            "Fig.6Interface chart of the PC system "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4 色彩映射算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据包中的探测结果数据范围在0\\~255之间，上位机数据处理系统将其转化成RGB图。由于上位机中对颜色的定义采用RGB值方式，即调用 ${ \\mathrm { C o l o r } } ( { \\mathrm { i n t ~ r , i n t ~ g , i n t ~ b } } )$ 函数，使用 ${ \\mathrm { { r , g , b } } }$ 三维向量来唯一表示一个颜色,其中 $\\mathrm { r . g . b }$ 取值范围均为0\\~255。对于色彩映射的算法，本项目中采用了灰度图算法和彩色图算法两种方式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)灰度图算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灰度图中各颜色值的 $\\mathrm { ~ r ~ } , \\mathrm { g } , \\mathrm { b }$ 分量相等，均为接收到的探测结果值，即探测结果值result(0\\~255)对应颜色值Color(result,result,result）。该算法的RGB色彩值取值范围为Color$( 0 , 0 , 0 ) , \\operatorname { C o l o r } \\left( 1 , 1 , 1 \\right) , \\cdots \\operatorname { C o l o r } \\left( 2 5 5 , 2 5 5 , 2 5 5 \\right)$ ，颜色由白色至黑色依次变深，所以，可以直接根据灰度的深浅来直观看出图中各点值的大小关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)彩色图算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灰度图虽然可以直观地表示各数据之间的大小关系，却不易看出某个数据所处的数据段。由于人眼对灰度深浅的敏感度不及对彩色色调的敏感度强，所以除了灰度图外，我们还采用了RGB彩色图算法来表示数据。在普通RGB彩色图中， $\\mathrm { ~ r ~ } , \\mathrm { g } , \\mathrm { b }$ 分别表示红、绿、蓝3种颜色通道的强度，通过对3个通道颜色的叠加来得到整体颜色。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上位机软件采用如下算法，使得由探测值映射的RGB值在颜色空间中均匀分布：将整个颜色空间按色调分成5个部分，每个部分之间的视觉区分度较大。并将探测值的结果域分成5个部分，对于每一个探测值，先根据数据值判断其属于颜色空间中的哪一部分，再根据其在该部分的偏移量来确定RGB颜色的精确值。该算法将颜色空间所分成的5个部分，每个部分的色调不同，分别为黄、橙、红、紫、蓝色。整体颜色变化在视觉更加容易分辨，也可根据颜色直接判断该值所处的数据段，该功能对于宏观观测数据分布有很大帮助。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4测试结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行测试前，按正确方式连接好仪器硬件电路及上位机。启动上位机程序后，点击界面中的接收数据按钮，并选择接收数据方式，即可测试NAIS-H探测结果。我们在实验室中对仪器进行测试，采用了灰度图算法来显示数据，测试结果如图7和图8所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6f9eb9bd159bec52ca8dd7d15ef499577da3629c18734b736ab38d8f8617833.jpg",
+        "img_caption": [
+            "Fig.7Result picture of the single probe "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图7所示，结果图像为实验室中对NAIS-H单个探头给予放射源照射时地检系统所得到的数据结果。实验人员对NAIS-H仪器上的第25探头进行了测试，NAIS-H根据一个探测周期6s内的图像，生成了128个时分像素，每个像素等效于探头扫过 $2 . 8 1 ^ { \\circ }$ 的探测结果。图7中图像在纵坐标为26处成一条直线，即第26探头在一个探测周期6s内持续有探测结果，且探测数据一致。该结果符合预期。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6bb110718d4d4add3b19f4b026b7308eac590ab7feca199fe16967fa2bae32b.jpg",
+        "img_caption": [
+            "图7单一探头探测结果图",
+            "图8圆形光斑模拟数据显示图Fig.8The simulated picture of"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图8所示，为实验室模拟的完整中性原子探测数据。模拟目标源为球形放射源，放射源中心亮度大、边缘亮度小。当探头扫过放射源时，探测到放射源边缘数据，随着探头扫向放射源中心，探测数据不断变大，之后随着探头离开放射源，探测数据变小。且位置高度与放射源越接近的探头，所得到的整体探测数据越大。图8所示的结果中，以(18，80)处的探测数据值最大，图像数据整体呈椭圆形，且越接近边缘的数据越小，符合预期结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过了对单个探头对平行放射源的测试结果与整个NAIS-H对球形放射源模拟探测结果数据的成像，我们所得到的实验结果符合要求，进而验证了地检软件系统对图像处理的能力。另外，每张图都有灰度图与彩色图两种显示方式，且图上有刻度标记，并且当鼠标悬停在某一像素点上时，主界面中会显示出该点的探测数据值。所以，该上位机软件系统，既能实现从色彩上宏观进行数据分析，又能实现对任意具体数据实时查询。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该地检系统采用FPGA作为数据通讯硬件基础，软件设计采用模块化设计思想，基于Java语言，提高了系统的可靠性、可维护性以及可移植性，并且为下一步将上位机移植至Android系统提供了良好的结构及代码基础。目前该测试系统已应用于NAIS-H地面检测，在实际应用中表明该系统具有测试准确、稳定可靠、界面友好、操作方便等特点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]DaglisIA,ThorneRM,Baumjohann W,etal.The terrestrial ring current:Origin,formation,and decay[J].Reviews of Geophysics,1999,37(4):407-438.   \n[2]RoelofEC,Mitchell DG,Williams DJ.Energetic neutral atoms( $\\mathrm { E } { \\sim } 5 0 \\ \\mathrm { k e V }$ )fromthe ring current:IMP7/8 andISEE1 [J].Journal of Geophysical Research:Space Physics(1978- 2012)，1985,90(A11):10991-11008.   \n[3] Lui ATY,Williams DJ,Roelof EC,et al.First composition measurements of energetic neutral atoms[J]. Geophysical Research Letters，1996，23(19):2641-2644.   \n[4]LeG,Russell C T,Takahashi K.Morphology of the ring current derived from magnetic field observations[C]//Annales Geophysicae,2004:1267-1295.   \n[5]陈志青，沈超，路立，等.基于中性原子通量数据的磁暴期 间环电流研究[J].地球物理学报，2012，55(3)：727-737.   \n[6]沈超,刘振兴.环电流区中性原子观测特性模拟研究[J].地 球物理学报,2003,46(1):1-10.   \n[7]王馨悦，刘振兴，沈超，等.代数重建法反演环电流分布的 初步结果[J].空间科学学报,2007,27(2):104-109.   \n[8]Mitchell D G,Jaskulek SE,Schlemm CE,et al.High energy neutral atom (HENA)imagerfor theIMAGE mission[C]//The IMAGE Mission. Springer Netherlands,2000:67-112. ",
+        "page_idx": 3
+    }
+]

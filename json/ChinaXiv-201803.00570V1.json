@@ -1,0 +1,499 @@
+[
+    {
+        "type": "text",
+        "text": "Dynamics Analysis of Cycloid Drive with Epicycloidal Wheel and Hypocycloidal Wheel Design ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "He Mao $1 , 2 , \\mathrm { a }$ ,Guanyi Liu1,b, \\*Kai Hel,,Hao Yu1,d, Yukun Wang1, e ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { I }$ Shenzhen Institutes ofAdvanced Technology, Chinese AcademyofSciences,Shenzhen,China   \n²Shenzhen Key Lab of Precision Engineering, Shenzhen, China   \n{he.mao,bgy.liu, kai.he,dhao.yu & eyk.wang2}@siat.ac.cn \\*Corresponding author ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ruxu Du3, f ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3Institute of Precision Engineering The Chinese University of Hong Kong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shatin. N.T., Hong Kong frdu@ mae.cuhk.edu.hk ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract- The cycloid drive usually has a cycloidal wheel meshing with pins to achieve transmission.The profile of the cycloidal wheel is generallya curve derived from an epitrochoid. Thispaper presents two design types of cycloid drive，the cycloidal wheel profile of one is internal offset of epicycloid and the otheris external offsetof hypocycloid.Parametric 3-D models of the two design types are constructed in AutoCAD.Dynamics simulation is carried out using machinery system dynamics simulation technology,and the correctness of the dynamics model is verified by the motion curve.The dynamic meshing force between the cycloidal wheel and the pins of the two design types issolved,and transmission characteristics are compared.The results show that the hypocycloidal drive design produces more stable output speed,and can improve meshing force. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms - Cycloidal planetary drive；Speed reducer; Meshingforce;Dynamicssimulation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Precision speed reducers with cycloid tooth profiles, which enable high precision control are widely applied to manipulate robot systems [1].The cycloid drive usually has a cycloidal wheel meshing with pins to achieve transmission. The profile of cycloidal wheel in typical cycloidal drive is internal offset ofan epicycloid and this kind of cycloidal drive is called epicycloidal drive.Hypocycloidal drive, the cycloidal wheel profile of which is external offset of a hypocycloid,is another type of cycloidal planetary drive，and it can also achieve compact structure and high efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There is much research mainly focused on generation of the profile of the cycloidal wheel and the analytical calculation of the forces on cycloid drives.C.Hsieh [2] developed a system dynamics analysis model of a cycloidal speed reducer and compared the effects of the pin and nonpin design. Simulation results demonstrate the nonpin design would be superior to the pin design and could improve vibration and stress fluctuation.W.Nam and S.Oh [3] proposed a speed reducerwith atrapezoidaltoothprofile. Theydid mechanically study to analyze the trapezoidal tooth profiles, and then measured its performance by various tests using a prototype manufactured. X.Li, et al. [4] introduced a patented double crank ring-plate-type cycloid drive. The new drive requires no output unit and places no limit on the size of the tumbler bearing.It also preserves the standard advantages of planetarypin-cycloiddrives.Itsworkingprinciples, advantages and design issues were discussed. Prototype testing presented promising results.M.Blagojevic,et al. [5] presented a new design of two-stage cycloidal speed reducer,which has one cycloid disc for each stage.The reducerhas good load distribution and dynamic balance.W. Lin,Y. Shih,J.Lee [6] presented the design of a new twostage cycloidal speed reducer with tooth modifications.H. Terada [7] developed three types of no-backlash reducers especially for the robot joints. C.Gorla, et al.[8] presented an innovative cycloidal speed reducer, which hasan external ring gear, the transverse profile of which is the external offset of an epitrochoid and engages with the planet wheel by meansof cylindrical rollers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Based on the generation principle of epicycloidal profile and hypocycloidal profile,this paper proposes two design types of cycloidal planetary drive,and constructs the parametric models in AutoCAD.The dynamics analysis models of the two design types are developed using virtual prototype technology.Under the comparison conditions of the same pin numbers, the same pin diameter and the same pindistributioncirclediameter, thedifferenceof transmission characteristics of the two design types are compared. The motion state of cycloidal wheel and the pins as well as the pin meshing force are solved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II.CYCLOID GENERATION PRINCIPLE AND PROTOTYPE DESIGN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A.Generation Principle of Cycloid Profile ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1）Epicycloidal Wheel and Pin Profile: Epicycloidal planetary drive is a kind of small tooth difference planetary drive.The profile of its planetary gear with external tooth is equidistant curve of curtate epicycloid and internal gears are pins.Usually, the number of pins $Z _ { \\mathrm { { b } } }$ is more than the cycloidal wheel tooth number $Z _ { \\mathrm { a } }$ by1.As shown in Fig.1,when a rolling circle with radius r performs pure rolling outside the basic circle $\\mathrm { { O } _ { a ; } }$ ，the trace of a point $\\mathbf { M }$ inner the rolling circle generate the curtate epicycloid.Meanwhile, the rotate angle of rolling circle around circle $\\mathrm { { O } _ { a } }$ is $\\Psi$ ,and the rotate angle of the rolling circle around its own center is $\\boldsymbol { \\theta }$ As Ochanges from 0 to $3 6 0 ^ { \\circ }$ ，the trace of point $\\mathbf { M }$ generate a whole tooth profile. The shape of the curtate epicycloid depends on the basic circle radius $\\mathrm { ~ R ~ }$ ，the rolling circle radius r,and the curtate ratio $\\mathbf { K } _ { 1 }$ = The pin centers are points $\\mathrm { ~ \\bf ~ M ~ } ^ { \\mathrm { ~ \\bf ~ , ~ } } \\mathrm { ~ \\bf ~ M ~ } _ { 1 } ^ { \\mathrm { ~ \\bf ~ , ~ } } \\mathrm { ~ \\bf ~ M ~ } _ { 2 } ^ { \\mathrm { ~ \\bf ~ , ~ } } . . .$ on the epicycloid, which uniformly distributed on a circle with radius $\\mathrm { R } _ { \\mathrm { z } }$ ,and the pin profiles are circles with radius $\\mathbf { r } _ { z }$ .The cycloidal wheel tooth profile is inner equidistant curve of curtate epicycloid, and equidistant distance is the radius of pin $\\mathbf { r } _ { \\mathrm { z } }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Generally,when the pins are fixed,the cycloidal wheel rotate around its center $\\mathrm { { O } _ { a } }$ ，at the same time,revolves around the center of pin distribution circle $\\mathrm { { O } _ { \\mathrm { { b } } } }$ ，and its meshing characteristics don't change. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theoretical epicycloid tooth profile parameter equation is as follows. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { x _ { \\circ } = \\displaystyle \\frac { Z _ { _ { b } } } { K _ { _ 1 } } A \\cos \\psi \\cdot A \\cos Z _ { _ { b } } \\psi } } \\\\ { { \\mathrm { } } } \\\\ { { y _ { \\circ } = \\displaystyle \\frac { Z _ { _ { b } } } { K _ { _ 1 } } A \\sin \\psi \\cdot A \\sin Z _ { _ { b } } \\psi } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Actual epicycloid tooth profile parameter equation is as follows. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { x = \\displaystyle \\cos \\psi ( \\frac { \\mathrm { A } Z _ { b } } { K _ { 1 } } - \\frac { r _ { z } } { A _ { 1 } } ) - \\displaystyle \\cos \\mathrm { A } \\psi ( \\mathrm { A } { - } \\frac { K _ { 1 } r _ { z } } { A _ { 1 } } ) } } \\\\ { { \\displaystyle y = \\sin \\psi ( \\frac { \\mathrm { A } Z _ { b } } { K _ { 1 } } { - } \\frac { r _ { z } } { A _ { 1 } } ) - \\sin \\mathrm { A } \\psi ( \\mathrm { A } { - } \\frac { K _ { 1 } r _ { z } } { A _ { 1 } } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where $\\begin{array} { r } { A _ { \\mathrm { 1 } } = \\sqrt { 1 + K _ { \\mathrm { 1 } } ^ { 2 } - 2 K _ { \\mathrm { 1 } } \\cos ( Z _ { \\flat } - 1 ) \\psi } \\ . } \\end{array}$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e79e148ae10e9a732bd81e1177de1db0b6cd9bf385281002f01c9eb6cc00e9c.jpg",
+        "img_caption": [
+            "Fig.1The generation principle of epicycloid tooth profile and pins "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2)Hypocycloidal Wheel and Pin Profile: Hypocycloidal planetary drive is also a kind of small tooth difference planetary transmission. But its planetary gear with external tooth are pins and the tooth profile of internal gear is equidistant curve of curtate hypocycloid.Usually, the number of pins $Z _ { \\mathrm { { b } } }$ is less than the cycloidal wheel tooth number $Z _ { \\mathrm { a } }$ by 1. The generation principle of curtate hypocycloid is like the curtate epicycloid.As shown in Fig.2,when a rolling circle with radius r performs pure rolling inside the basic circle $\\mathrm { \\Delta O _ { a } , }$ the trace of a point M inner the rolling circle generate the curtate hypocycloid. Similarly， the pin centers are points $\\mathrm { ~ \\bf ~ M ~ } \\mathrm { ~ \\bf ~ , ~ } \\mathrm { ~ \\bf ~ M _ { 1 } ~ } \\mathrm { ~ \\bf ~ , ~ } \\mathrm { ~ \\bf ~ M _ { 2 } . . . }$ ：on the hypocycloid,which uniformly distributed on a circle with radius ${ \\mathrm { R } } _ { z } ,$ and the pin profiles are circles with radius $\\mathbf { r } _ { \\mathrm { z } }$ .The cycloidal wheel tooth profile is outer equidistant curve of curtate hypocycloid, and equidistant distance is radius of pin $\\mathbf { r } _ { \\mathrm { z } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a86cd6c79dca410f2f89fd03651becc35e1b208bd9c6afd133e93fb11558500c.jpg",
+        "img_caption": [
+            "Fig.2 The generation principle of hypocycloid tooth profile and pins Generally,when the hypocycloidal wheel is fixed,the pins rotate around their distribution circle center $\\mathrm { O } _ { \\mathrm { b } }$ ，atthe same time,revolves around the center of cycloidal wheel $\\mathrm { { O } _ { a } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theoretical hypocycloid tooth profile parameter equation is as follows. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle x = \\frac { Z _ { _ b } } { K _ { _ 1 } } A \\cos \\psi + A \\cos Z _ { _ b } \\psi } } \\\\ { { \\displaystyle y = \\frac { Z _ { _ b } } { K _ { _ 1 } } A \\sin \\psi - A \\sin Z _ { _ b } \\psi } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Actual hypocycloid tooth profile parameter equation is as follows. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { x = \\cos \\psi ( \\frac { \\mathrm { A } Z _ { b } } { K _ { 1 } } + \\frac { r _ { z } } { A _ { 1 } ^ { | | } } ) + \\cosh \\psi ( \\mathrm { A } - \\frac { K _ { 1 } r _ { z } } { A _ { 1 } } ) } } \\\\ { \\displaystyle { y = \\sin \\psi ( \\frac { \\mathrm { A } Z _ { b } } { K _ { 1 } } + \\frac { r _ { z } } { A _ { 1 } ^ { | | } } ) - \\sinh \\psi ( \\mathrm { A } - \\frac { K _ { 1 } r _ { z } } { A _ { 1 } } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where $\\begin{array} { r l } { A _ { 1 } } & { { } = \\sqrt { 1 + K _ { 1 } ^ { 2 } - 2 K _ { \\mathrm { _ 1 } } \\cos ( Z _ { \\mathit { b } } + 1 ) \\psi } } \\end{array}$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B. Design of Two Types of Cycloidal Planetary Drive For the convenience of research,we make the structure as simple as possible. The prototype design of each type of cycloidal planetary drive uses only one piece of cycloidal wheel. For comparison purpose, the two types of cycloidal drive are designed under following conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The same pin numbers. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The same pin diameter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The same pin distribution circle diameter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the parameter equation of the cycloidal wheel and pin tooth profile,build the tooth profile using spline command then establish 3-D model of the transmission pairs in AutoCAD. The 3-D model of the two prototypes are shown in Fig. 3,and main parameters are listed in Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b2af096a090b092d463882f8020d46822bc30529d526a8dc243098539b3d83c.jpg",
+        "img_caption": [
+            "Fig.3 3-D model of the two prototypes "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III.DYNAMICSANALYSIS OF THE CYCLOIDALPLANETARYDRIVE ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to the transmission principle of the cycloidal planetary drive， build the virtual prototype modelsin dynamics analysis software and add constraints and loads to the models such as fixed joint,rotation joint, contact, input angular velocity and input torque load. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the epicycloidal drive virtual prototype,the pins are fixed and rotates around their own centers.To simulate the rotation and revolution of the cycloidal wheel, a link $\\mathrm { { O _ { a } O _ { b } } }$ is established between the center of the epicycloidal wheel and the center of the pin distribution circle $\\mathrm { O } _ { \\mathrm { b } }$ .So that the cycloidal wheel can rotates around the link at the point $\\mathrm { { O } _ { a } }$ ，and the link can rotate around point $\\mathrm { O } _ { \\mathrm { b } }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the hypocycloidal planetary drive,the hypocycloidal wheelis fixed.To simulate therotationandrevolution of the pins,a plate is defined at the center of the pin distribution center $\\mathrm { O } _ { \\mathrm { b } }$ .Rotation joints are defined between the pins and the plate,so that the pins are fixed to the plate,and can rotate around their own centers on the plate.Set up a link $\\mathrm { { O _ { a } O _ { b } } }$ between the center of the hypocycloidal wheel and the center of the plate,so that the link can rotates around the center of the cycloidal wheel $\\mathrm { { O } _ { a } }$ and the plate can rotate around the link at point $\\mathrm { O } _ { \\mathrm { b } }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The input speed of the motor is $1 5 0 0 ~ \\mathrm { r / m i n }$ , so the driving speed of the virtual prototype model is $9 0 0 0 ~ \\mathrm { { } ^ { \\circ } / s }$ And set the load torque to $5 { \\times } 1 0 ^ { 4 } \\mathrm { N } { \\cdot } \\mathrm { m m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d84589d25e8525cdea1e02840558dfa8b9b587cffb7ad61267fbfe8bee45ea0.jpg",
+        "table_caption": [
+            "TABLEI MAINPARAMETERSOFTWODESIGNTYPES "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Parameters Type</td><td>Epicycloidal drive</td><td>Hypocycloidal drive</td></tr><tr><td>Number of cycloidal wheel tooth Za</td><td>11</td><td>13</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/409719df2626fb0d969ebc9ec00eced4f6fc80bb42db796116912cbac08dc14e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"6\">Number of pins Zb Radius of pin rz Eccentric distance A Radius of pin distribution circle Rz Curtate ratio K=A Zb/Rz Reduction ratio i</td><td>12</td><td>12</td></tr><tr><td>10mm</td><td>10mm</td></tr><tr><td>4.5 mm</td><td>4.5 mm</td></tr><tr><td>90 mm</td><td>90 mm</td></tr><tr><td>0.6</td><td>0.6</td></tr><tr><td>11 : -1</td><td>12:-1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The input rotation speed of the epicycloidal planetary transmission is the revolving speed of the cycloidal wheel which is added to the rotation joint of the link at $\\mathrm { O } _ { \\mathrm { b } }$ .The load torque is applied to the rotation center $\\mathrm { { O } _ { a } }$ of the cycloidal wheel. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The input speed of the hypocycloidal planetary drive is the revolving speed of the pins,which is added to the rotation joint of the link at $\\mathrm { { O } _ { a } }$ . The load torque is applied to the rotation center of the plate $\\mathrm { O } _ { \\mathrm { b } }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Input speeds and load torques all used step function loading,to avoid the speed mutation and load mutation.And duration of the step function is $0 . 5 \\mathrm { ~ s ~ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Add solid to solid contact between the pins and cycloidal wheel. In the cycloidal planetary drive,pure rolling exists between the pins and the cycloidal wheel,and cycloidal wheel and pins through continuous collision to achieve transmission. Therefore,in the dynamic simulation analysis,the setting of the collision contact parameter is especially critical. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two different contact force analysis models are available in the dynamics analysis software, they are Impact model and Restitution model. Impact model is suitable for unilateral collisions,while the Restitution model is suitable for multiside collisions.The collisions between the cycloidal and pins studied in this paper are unilateral collisions,so they are calculated using the Impact model. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IV.RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A.Epicycloidal Planetary Drive ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The rotational speed of the input shaft is $9 0 0 0 \\ { } ^ { \\circ } / \\mathrm { s }$ ,and the rotational speed of the theoretical output shaft (i.e.,the rotational angular velocity of the cycloidal wheel) is -818.18 $\\mathrm { { } ^ { \\circ } / \\mathrm { { s } } }$ .The negative sign indicates opposite direction to the input shaft.The simulation results are consistent with the theoretical value which verifies that the reduction ratio of the epicycloidal planetary drive is -11,as shown in Fig.4 and Fig. 5. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 and Fig.7 show displacement curve in the X and Y direction of the cycloidal wheel during $0 . 5 { \\sim } 1 \\mathrm { s }$ respectively. The two figures indicate when the movement becomes smooth, the cycloidal wheel center displays reciprocating movement with the maximum displacement of $4 . 5 ~ \\mathrm { m m }$ in the X and Y direction,which is equal to the eccentricity,which proves the movement of cycloidal wheel meets the cycloid movement law in the simulation process. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f152c74c2f916f250897e707b92966a4081a8fcc58bd0a7885c4092318a043a.jpg",
+        "img_caption": [
+            "Fig.4The input shaft speed of epicycloidal drive "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cf2d256ff9b02fa532e1d6a615308712f3745e86f2470280164960723e87f06.jpg",
+        "img_caption": [
+            "Fig.5 The output shaft speed of epicycloidal drive "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8712fa50e7bdf639f3df2fddc85a2c05b15755c5912d190206eea30a8349962.jpg",
+        "img_caption": [
+            "Fig.6 Cycloidal wheel X direction displacement curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When input shaft turns around from $0 { \\sim } 3 6 0 ^ { \\circ }$ ，each pin undergoes a meshing process,i.e.，gradually engaged with a tooth of the cycloidal wheel to a fully engaged state,at the same time,a maximum value of the engaging force occurs. Then the pin gradually separates from the teeth of the cycloidal gear,until completely separates,finally it continues to engage with the next tooth of the cycloidal wheel. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/760bbac177a4ad61ecf1a75c5d70dc7c747eb43227f48c54369161ff79a5f792.jpg",
+        "img_caption": [
+            "Fig.7Cycloidal wheel X direction displacement curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/72225490ac4bdb4fdae0fc2af1a3d069241e4ae814214e6035c0642528dd15fe.jpg",
+        "img_caption": [
+            "Fig.8 Contact force of a pin during 1\\~1.5s "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d38fdeba59e167ab252afbd8af7d0c7dfad12b8f7796fefe0f5526e6f7a156bc.jpg",
+        "img_caption": [
+            "Fig.9 Contact force distribution curve at $1 . 5 \\mathrm { ~ s ~ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When the input shaft speed is stable at $9 0 0 0 ~ \\mathrm { { } ^ { \\circ } / s }$ and the simulation time is $1 { \\sim } 1 . 5 \\mathrm { s }$ ，the theoretical meshing process should be 25 times.As shown in Fig.8,within 1 s of $0 . 5 \\substack { - 1 . 5 \\mathrm { ~ s ~ } }$ the curve reflects the 25 meshing processes of a pin,which is consistent with the theory. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Inthe cycloidal planetarydrive,theoretically, there should be half of the pins to participate in the engagement.In the simulation process,half of the pins are engaged,which is consistent with the theory. The distribution of the meshing force is shown in Fig. 9. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B.Hypocycloidal Planetary Drive ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The rotational speed of the input shaft is also $9 0 0 0 ~ ^ { \\circ } / \\mathrm { s }$ in hypocycloidal drive dynamics model as shown in Fig.1O.The angular velocity of the output shaft of the hypocycloidal wheel is $7 5 0 ~ \\mathrm { ~ \\textdegree }$ ，which is in accordance with the theoretical calculation and verifies the reduction ratio is -12 as shown in Fig.11.Comparing the two output speed curves of the hypocycloidalandepicycloidplanetarydrive,the hypocycloidal design effectively reduces speed fluctuation, and the output shaft speed is relatively more stable. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d92a00afe891dd1a1a3adc42c23c082620c0f5784a50c0c369698bb48ad9a356.jpg",
+        "img_caption": [
+            "Fig.10 The input shaft speed of hypocycloidal drive "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fcfcc4c568cc6c2717c191c18670a90b3921d1cc4587840c7db99fc55ff9b26.jpg",
+        "img_caption": [
+            "Fig.11 The output shaft speed of hypocycloidal drive Fig.12 and Fig.13 show displacement curves in the X and $\\mathrm { \\Delta Y }$ direction of the cycloidal wheel during $0 . 5 { \\sim } 1$ s, respectively. When the movement becomes smooth， the cycloidal wheel center displays reciprocating movement with the maximum displacement of $4 . 5 ~ \\mathrm { \\ m m }$ in the $\\mathrm { \\Delta } \\mathrm { X }$ and $\\mathrm { Y }$ direction,which is equal to the eccentricity.So,it is sure that thecycloidalwheel ofmovementmeets the cycloid movement law in the simulation process. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9b691922ad17657f15c685291ddd62a1843d18a5da7ff3ebae21f25d04a9f68.jpg",
+        "img_caption": [
+            "Fig.12 Cycloidal wheel X direction displacement curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d548fb42e5fa410fbd37a01a729e8a5d3c1fe305d814be732d5dcf7be2e3dbd.jpg",
+        "img_caption": [
+            "Fig.13 Cycloidal wheel Y direction displacement curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebf93ac0b6551d68b1b5c4dfac38cb8798f85face692d5e5f31def5f79a5f0f5.jpg",
+        "img_caption": [
+            "Fig.14 Contact force of a pin during1\\~1.5s "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.14,when the input shaft speed is stable at $9 0 0 0 ~ ^ { \\circ } / \\mathrm { s }$ and the simulation time is 1\\~1.5s,the number of meshing processes are 27 times in hypocycloidal dynamics simulation which is more than the epicycloidal design. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3cff97ea76639ea215d0b5744c05cad344cd4d40ef2edc6d8b25868cc778663.jpg",
+        "img_caption": [
+            "Fig.15 Contact force distribution curve at $1 . 5 \\mathrm { ~ s ~ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[7]H. Terada,“The Development of gearless reducers with rolling balls,” Journal of Mechanical Science and Technology,vol.24,pp. 189-195,   \n2010. [8]C.Gorla,etal.,“Theoretical and Experimental Analysis of a Cycloidal Speed Reducer,”Journal ofMechanical Design,vol.133:1l2604-1,   \n2008. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.15 shows the contact force distribution of the hypocycloidal design，and the results also agree well with theoretical distribution.Half of the pins involve in the meshing at the same time,and meshing force exists between the pins and cycloidal wheel. Compared with the epicycloidal design， the hypocycloidal design shows smaller meshing force. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "V.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study,two types of cycloid drive were designed, based on the same pin number, the same pin diameter,and the same pin distribution center.Dynamics analysis model of cycloidal planetary drive was developed and then,the effects of the epicycloidal design and hypocycloidal design on the speed reducer's dynamics were compared. The dynamics analysis demonstrated that the hypocycloidal design produces more stable output speed, and can reduce the meshing force. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENT ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the Shenzhen Basic Research Project(JCYJ20150925163026555)andStateJoint EngineeringLaboratoryforRoboticsandIntelligent Manufacturing funded by National Development and Reform Commission (NO.2015581). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Y.Li,Y.Wu,“Design ofa cycloid reducer:Planetary stage design,shaft design，bearing design，bearing selection,and design of shaft related parts,\"2012.   \n[2] C.Hsieh,“Dynamics analysis of cycloidal speed reducers with pinwheel and nonpinwheel designs,”Journal ofMechanical Design,vol.136,no.9: 091008,2014.   \n[3]W.Nam and S.Oh,“A design of speed reducer with trapezoidal tooth profile for robot manipulator,’Journal of Mechanical Science and Technology,vol.25,no.1,pp.171-176,2011.   \n[4]X.Li,W.He,L.Li,L.Schmidt,“A new cycloid drive with high-load capacity and high efficiency,”Journal of Mechanical Design,vol.126, no.4,pp.683-686,2004.   \n[5]M.Blagojevic,N.Marjanovic,Z.Djordjevic,B.Stojanovic,A.Disic,“A New Design of a Two-Stage Cycloidal Speed Reducer,”Journal of Mechanical Design,vol.133: 085001-1,2011.   \n[6]W.Lin,Y.Shih,J.Lee,“Design of a two-stage cycloidal gear reducer with tooth modifications,”Mechanism and Machine Theory,vol.79,pp. 184-197,2014. ",
+        "page_idx": 5
+    }
+]

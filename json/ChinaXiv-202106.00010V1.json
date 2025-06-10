@@ -1,0 +1,568 @@
+[
+    {
+        "type": "text",
+        "text": "Potential responses of vegetation to atmospheric aerosols in arid and semi-arid regions of Asia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIAO Linlin1,2.3, WANG Xunming2,3\\*, CAI Diwen2,3, HUA Ting4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Mining Engineering,North China University of Science and Technology,Tangshan O63210,China;   \n2 Key Laboratoryof Water Cycle and Related Land Surface Processes,Institute of Geographic Sciencesand Natural Resources Research,ChineseAcademyofSciences,Beijing1oo1O1,China;   \n3 University of Chinese Academy of Sciences,Beijing 10oo49, China;   \n4 Shaanxi KeyLaboratoryofEarth Surface SystemandEnvironmentalCarryingCapacityCollegeof UrbanandEnvironmental Sciences,NorthwestUniversity,Xi'an7127,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Changes in atmospheric aerosols have profound effects on ecosystem productivity vegetation growth and activity by directly and indirectly influencing climate and environment conditions. However, few studies have focused on the effects of atmospheric aerosols on vegetation growth and activity in the vulnerable arid and semi-arid regions, which are also the source areas of aerosols. Using the datasets of aerosol optical depth (AOD)， normalized difference vegetation index (NDVI) and multiple climatic variables including photosynthetically active radiation (PAR)， surface solar radiation (SSR)， surface air temperature (TEM) and total precipitation (PRE), we analyzed the potential responses of vegetation activity to atmospheric aerosols and their associated climatic factors in arid and semi-arid regions of Asia from 2005 to 2015. Our results suggested that areas with decreasing growing-season NDVI were mainly observed in regions with relatively sparse vegetation coverage, while AOD tended to increase as NDVI decreased in these regions. Upon further analysis, we found that aerosols might exert a negative influence on vegetation activity by reducing SSR, PAR and TEM, as well as suppressing PRE in most arid and semi-arid regions of Asia. Moreover, the responses of atmospheric aerosols on vegetation activity varied among different growing stages. At the early growing stage， higher concentration of aerosol was accompanied with suppressed vegetation growth by enhancing cooling effects and reducing SSR and PAR. At the middle growing stage, aerosols tended to alter microphysical properties of clouds with suppresed PRE, thereby restricting vegetation growth. At the late growing stage, aerosols exerted significantly positive influences on vegetation activity by increasing SSR， PAR and TEM in regions with high anthropogenic aerosols. Overall,at diferent growing stages, aerosols could influence vegetation activity by changing different climatic factors including SSR, PAR,TEM and PRE in arid and semi-arid regions of Asia. This study not only clarifies the impacts of aerosols on vegetation activity in source areas, but also explains the roles of aerosols in climate. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: aerosol optical depth; climatic factors； normalized difference vegetation index; spatiotemporal distribution; indirect effect ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Drylands, including arid and semi-arid regions, cover about $41 \\%$ of the world's land surface area (Huang et al., 2O17). Over the past centuries, drylands have dramatically transformed in response to frequent human activities and climate changes (IPCC, 2O13). Vegetation growth is vulnerable to harsh environments in drylands (Peng et al., 2011; Pauli et al., 2012; Zhang et al., 2014; Wang et al., 2017), and climatic factors including solar radiation, temperature and precipitation may have profound impacts on the vegetation dynamics in drylands (Nemani et al., 2OO3; Park and Sohn, 2010; Mohammat et al., 2013; Kim et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Drylands are also regarded as the potential sources of aerosols (Shao et al., 2O11). Since the 2000s,atmospheric aerosols have increased rapidly, which would have remarkable influences on the surface energy budget of the Earth (Yoon et al., 2014; Hsu et al., 2017). On the one hand, aerosols could modify the shortwave radiation that the Earth receives by scattering and absorbing solar radiation (Chameides et al.,1999; Steiner et al., 2005; Wang et al., 2018). On the other hand, aerosols could interact with cloud droplets by serving as cloud condensation nuclei (CCN) or ice nuclei (IN), which would change the physical and radiative properties of cloud, and eventually alter the Earth's radiation balance (Chameides et al., 1999; Steiner et al., 2O05; Wang et al., 2018). Not only that, interactions between aerosols-induced radiation changes and microphysical processes of clouds could further produce complex effects on climatic factors (Gu et al., 2016; Ezhova et al., 2O18). For instance, aerosols have been reported to cool the Earth surface with a particular reduction in night-time temperature (Nair et al., 2O11). Moreover, since aerosols are involved in the microphysical processes of clouds (Rosenfeld et al., 2O14; Dong et al., 2019), they would substantially affect regional precipitation, but their effects on precipitation difer among situations with various types of aerosols and cloud (Hui et al., 2O08; Min et al., 2OO9; Yan et al., 2014). Among all the types of aerosols, dust aerosols are found to change the number of cloud droplets and cloud water path, thereby affecting low cloud cover, high cloud cover and water vapor contents, which ultimately alter the precipitation rate (Huang et al., 2OO6). In addition, dust aerosols may reduce the cloud particle sizes and even 'burn' the clouds (i.e., the heating effect; Yin and Chen, 2O07), thus suppressing warm rain formation (Rosenfeld et al., 2OO1; Huang et al., 2009; Qian et al., 2009). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Radiative effects of aerosols could indirectly influence ecosystem productivity and $\\mathrm { C O } _ { 2 }$ exchange through multiple mechanisms (Tie et al., 2016; Yue et al., 2017; Wang et al., 2018), which are found to vary among different ecosystems (Yue et al., 2O17). Generally, the response of net ecosystem $\\mathrm { C O } _ { 2 }$ exchange to aerosol loading is negative in grasslands (including semi-arid grasslands), but positive in forests and croplands, possibly due to their different canopy structures (Roderick et al., 2001; Niyogi et al., 2004, Xie et al., 2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Arid and semi-arid regions of Asia is considered as one of the major source areas of dust aerosols, which has emitted a total of $> 3 0 \\%$ of global dust aerosols (Zhang et al., 1997; Ginoux et al., 2012). This region covers an area of $1 . 3 { \\times } 1 0 ^ { 7 } ~ \\mathrm { k m } ^ { 2 }$ stretching from central and western to northeastern Asia, and receives an annual mean precipitation of ${ < } 5 0 0 \\ \\mathrm { m m }$ (Fig. 1), which makes it extremely sensitive to climatic and environmental changes. For instance, Gessner et al. (2013) found that changes in the seasonal precipitation of arid and semi-arid regions in Asia, especially in Central Asia with an annual precipitation of $1 0 0 { - } 4 0 0 ~ \\mathrm { m m }$ , were closely related to the evolution of vegetation. In addition, Zhang et al. (2O16) found that increases in winter precipitation and summer temperature may be beneficial for vegetation greening in eastern areas of Asia. Mohammat et al. (2O13) found that drought and spring cooling may reduce vegetation growth in the extremely arid regions. However, potential effects of aerosols on vegetation activity in arid and semi-arid regions of Asia are still poorly understood. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to understand the direct effect of aerosols on climatic factors and their indirect effects on vegetation activity in arid and semi-arid regions of Asia, we used datasets of aerosol optical depth (AOD)， normalized difference vegetation index (NDVI)， and major climatic factors including photosynthetically active radiation (PAR) (surface visible solar radiation with a spectral range of $4 0 0 { \\mathrm { - } } 7 0 0 \\ \\mathrm { n m }$ ),surface solar radiation (SSR)， surface air temperature (TEM) and total precipitation (PRE) to analyze the spatiotemporal variations in the correlations between vegetation activity and major climatic factors that are potentially influenced by aerosols. In this study, we aimed not only to identify the ecological effects of aerosols in their source areas, but also to clarify the roles of aerosols in climate and ecosystem. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "50E 60°E 70E 80°E 90°E 100°E 110E 120E   \n50N KazakhskiyMelkosopochnik 50N Caspian Coastal Plaizakhstan Mongolia MongolianPlateatr Juggar Basin   \n40N Caspian Tarim Basin China Ine Mosgla eateau 40N Iran Afghanistan   \n30N 30N Parkistan Indus lain Approved No. GS(2021)1992 0 750 1500 km 50E 60E 70E 80°E 90E 100E 110E 120E ·Ground measurement sites from AERONET 一 Forest Shrubland Woodland and grassland Woodland Grassland Waterbody Bare ground Permanent wetland Cropland Uran and built Natural vegetation/Cropland mosaic Snow and ice National boundary Study area boundary ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Data sources and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Data sources ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NDVI data from 2005 to 2015 were obtained from MODIS (moderate-resolution imaging spectroradiometer)/Terra collction 5.0 Vegetation Index Products (MOD13C1-NDVI)， which were downloaded from LAADS (level 1 and atmosphere archive and distribution system) web (https://ladsweb.nascom.nasa.gov/). This gridded dataset (with a temporal resolution of 16-d and a spatial resolution of $0 . 0 5 ^ { \\circ } { \\times } 0 . 0 5 ^ { \\circ } ,$ ） was predominantly designed to provide a globally consistent assessment of vegetation condition (Running et al., 1994; Justice et al., 1998; Salano et al., 2010). To improve the accuracy of the analysis results, we defined those pixels with a mean growing-season (81-304 d) NDVI of $> 0 . 1$ as vegetated areas (Zhou et al., 2001). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AOD has been widely used to develop global aerosol pattern as it comprehensively describes the optical properties of aerosols and quantitatively describes aerosol radiative forcing (Levy et al., 2013; Yu et al., 2013). In this study, we used the daily AOD data from 2005 to 2015, with a spatial resolution of $1 0 ~ \\mathrm { k m } { \\times } 1 0 ~ \\mathrm { k m }$ ，from the MODIS Aqua collection 6.O Aerosol Product (MYD04).In the datasetsofMYD04 products, thescientificdataset 'Dark_Target_Deep_Blue_Optical_55O_Combined' was used for further analysis, which could select one type of retrievals (if any) or an average of the two retrievals that applied the dark target or deep blue algorithm. The ground-observation AOD was obtained from aerosol robotic network (AERONET) of NASA (National Aeronautics and Space Administration). CE318 sunphotometer was deployed in the AERONET for detecting the bands at wavelengths of 380, 440, 500, 675,870 and $1 0 2 0 ~ \\mathrm { { n m } }$ AERONET measurement was generally used to validate the satellite-retrieved AOD since it contained the spectral data on solar radiation， from which various aerosol optical properties could be retrieved using an inversion algorithm (Dubovik et al., 2Oo0). The four AERONET measurement sites of AOD data in arid and semi-arid regions of Asia (including ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dushanbe $( 3 8 . 5 5 ^ { \\circ } \\mathrm { N }$ ， $6 8 . 8 6 ^ { \\circ } \\mathrm { E } )$ ，Issyk-Kul $( 4 2 . 6 2 ^ { \\circ } \\mathrm { N }$ ， $7 6 . 9 8 ^ { \\circ } \\mathrm { E } )$ ， Semi-Arid Climateand Environment Observatory of Lanzhou University (SACOL) $( 3 5 . 9 5 ^ { \\circ } \\mathrm { N }$ ， $1 0 4 . 1 4 ^ { \\circ } \\mathrm { E } )$ ，and Dalanzadgad $( 4 3 . 5 6 ^ { \\circ } \\mathrm { N }$ $1 0 4 . 4 2 ^ { \\circ } \\mathrm { E } )$ ） were used to validate the MYD04-AOD data from 2005 to 2015 (Fig. 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since the atmospheric aerosols have affected vegetation growth primarily by altering the quantities and qualities of PAR or by changing climatic factors (surface temperature and precipitation) (Mike, 2O02), the relationship between NDVI and parameters such as TEM, PRE, SSR and PAR were analyzed in this study. All the climatic factor data were obtained from the ERA-Interim reanalysis from the European Center for Medium-Range Weather Forecasts (ECMWF; Simmons et al., 2006). All the variables (TEM, PRE, SSR and PAR) had a spatial resolution of $0 . 1 2 5 ^ { \\circ } \\times 0 . 1 2 5 ^ { \\circ }$ and a temporal resolution of $1 2 \\mathrm { ~ h ~ }$ (except for TEM with a $^ { 3 \\mathrm { - h } }$ resolution). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 AOD at $5 5 0 \\mathrm { n m }$ wavelength ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To compare satellite-retrieved AOD with that from ground observation, it is necessary to obtain AOD at the same wavelength by interpolating AOD from ground observation. In this study, AOD and Angstrom exponents of 440 and $6 7 5 ~ \\mathrm { { n m } }$ channels in the level 2.O products were interpolated to a wavelength of $5 5 0 ~ \\mathrm { n m }$ after cloud screening and quality control with the AERONET. The interpolation method can be expressed as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau \\left( \\lambda \\right) = \\beta \\lambda ^ { - \\alpha _ { \\lambda _ { a } - b } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\tau ( \\lambda )$ is the AOD of the $\\lambda$ channel; $\\beta$ is the Angstrom turbidity coefficient; and $\\boldsymbol { a } _ { \\lambda _ { a - b } }$ is the Angstrom exponent between wavelengths of $a$ and $b \\ \\mathrm { n m }$ (here the wavelength range is 440-675 nm). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the measurements at all sites collected from 2005 to 2015, we extracted the AERONET data at 13:30 (LST) with a $^ { 3 \\mathrm { - h } }$ time window (i.e., between 12:00 and 15:00)，which just corresponded to the passing time of the MODIS data (Ginoux et al., 2012). AOD $( 5 5 0 \\mathrm { n m } )$ values from the AERONET network were then averaged during the satellite overpass time, which could be compared with the regional mean of MODIS retrievals within a $0 . 5 ^ { \\circ }$ radius around each ground station (Mi et al., 2007). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Linear trend in NDVI and AOD at growing stages ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AOD and NDVI at growing stages were obtained by averaging the values from 81 to $3 0 4 \\mathrm { d }$ every year. Then, linear trends in NDVI and AOD at growing stages were calculated in each pixel using ordinary least square (OLS) regression method: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\alpha + \\beta x + \\varepsilon ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $y$ is the annual mean NDVI or AOD; $a$ is the intercept; $\\beta$ is the slope; $x$ is the monitored year; and $\\varepsilon$ is the error term. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The slope was interpreted as a measure of linear trends in NDVI and AOD over time, and $t$ test was used to determine the significance of linear trends in NDVI and AOD for each pixel. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3Partial correlation between NDVI and climatic factors ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To examine the potential impact of atmospheric aerosols on vegetation activity, we estimated the partial correlation between NDVI and climatic factors. Partial correlation is used to measure the linear dependence between two variables when the influence of possible controlling variables is excluded (Engstrom and Ekman, 2010). In the case of $k$ variables $( x _ { 1 } , \\ x _ { 2 } , \\ . . . . , \\ x _ { k } )$ ， the partial correlation is defined as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { i j . l _ { 1 } l _ { 2 } \\ldots l _ { g } } = \\frac { r _ { i j . l _ { 1 } l _ { 2 } \\ldots l _ { g - 1 } } - r _ { i l _ { g } . l _ { 1 } l _ { 2 } \\ldots l _ { g - 1 } } r _ { j l _ { g } . l _ { 1 } l _ { 2 } \\ldots l _ { g - 1 } } } { \\sqrt { \\left( 1 - r ^ { 2 } { } _ { i l _ { g } . l _ { 1 } l _ { 2 } \\ldots l _ { g - 1 } } \\right) } \\sqrt { \\left( 1 - r ^ { 2 } { } _ { j l _ { g } . l _ { 1 } l _ { 2 } \\ldots l _ { g - 1 } } \\right) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $r _ { i j . l _ { 1 } l _ { 2 } . . . l _ { g - 1 } } , r _ { i l _ { g } . l _ { 1 } l _ { 2 } . . . l _ { g - 1 } }$ and $r _ { j l _ { g } . l _ { 1 } l _ { 2 } . . . l _ { g - 1 } }$ are the remain correlations between $x _ { i }$ and $x _ { j }$ between $x _ { i }$ and $x _ { l g }$ ，and between $x _ { j }$ and $x _ { l g }$ ， respectively， assuming no $g { - } 1$ controlling variables; and $r _ { i j . l _ { 1 } l _ { 2 } . . . l _ { g } }$ is the remain correlation between $x _ { i }$ and $x _ { j }$ , assuming no $g$ controlling variables. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study, al the datasets (AOD, NDVI and climatic factors) were preprocessed to have the same resolution (temporal resolution of 16-d and spatial resolution of $0 . \\bar { 1 } 2 \\bar { 5 } ^ { \\circ } \\times 0 . 1 2 5 ^ { \\circ } )$ . Then,we calculated the partial correlation between NDVI and climatic factors in two different scenarios: (1) the scenario a was used to calculate the partial correlation between NDVI and each climatic factor with the other three factors as controlling variables; and (2) the scenario b was used to get the partial correlation between NDVI and each climatic factor with both the other climatic factors and AOD as controlling variables. Significance of partial correlation could be given using a two-tailed $t$ test. Finally, we compared the spatial patterns of inter-annual partial correlation between NDVI and four climatic factors for each 16-d period in different scenarios. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further explore the influence of aerosols on the correlation between NDVI and climatic factors at different growing stages (including early (81-144 d), middle (145-240 d) and late growing stage (241-3O4 d)), we selected five typical regions with significant NDVI change trends at growing stages, including the Caspian Coastal Plain (region A1), the Indus River Plain (region A2)，eastern Mongolian Plateau (region A3)， the Ordos Plateau (region A4) and eastern Kazakhskiy Melkosopochnik (region A5) (Fig. 1). In addition, percentages of entire region and five typical regions showing significantly positive correlations were also calculated for each 16-d period to represent the evolutions of partial correlation at different growing stages. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Comparison of AERONET AOD and MODIS AOD ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In arid and semi-arid regions of Asia, comparison of AOD values from AERONET observations and MODIS retrievals showed general agreements at four sites ( $_ { \\it P < 0 . 0 5 }$ ; Fig. 2), especially for the Dushanbe site， which had a correlation coefficient as high as O.79. Compared with in situ observation， MODIS AOD values at SACOL， Dushanbe and Dalanzadgad siteswere underestimated, but it was slightly overestimated at Issyk-Kul site. Although there were some MODIS-retrieved AOD values that lay beyond the error range of AERONET observation, the MODIS AOD values could stil represent the regional AOD characteristics in arid and semi-arid regions of Asia. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8226fbb1b3f4254ed07e61904dad1d3991cb216a41d3314f6cf336a65b139a9.jpg",
+        "img_caption": [
+            "Fig. 2Scatter plot of MODIS (moderate-resolution imaging spectroradiometer) retrieved AOD (aerosol optical depth) against AERONET(aerosol robotic network) AOD "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Temporal variations of NDVI and AOD at growing stages ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NDVI climatology at growing stages from 2005 to 2015 showed that across arid and semi-arid regions of Asia, higher NDVI $( > 0 . 4 )$ at growing stages was primarily found in eastern Inner Mongolian Plateau, northern Mongolian Plateau and eastern Kazakhskiy Melkosopochnik (Fig. 3a), which were mainly covered by forests, croplands and grassands (Fig. 1), whereas NDVI at growing stages ranging between O.1 and O.2 mainly scattered in the Caspian Sea Plain, Turan and Indus River Plains with a relatively sparse vegetation. From 2O05 to 2O15, about $1 3 . 2 \\%$ of arid and semi-arid regions of Asia showed significantly NDVI increasing trends at growing stages (Fig. 3b)，which were mainly distributed in northeastern Mongolia and the Ordos Plateau, with a maximum increasing rate of ${ \\succ } 0 . 0 2 / \\mathrm { a }$ . By comparison, only $4 . 5 \\%$ of arid and semi-arid regions of Asia showed significantly NDVI decreasing trends at growing stages ( $( P { < } 0 . 0 5 )$ , with a decreasing rate of $> 0 . 0 1 / \\mathrm { a }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8156046e1b11af1f5e3d6d43744ebb04e6a8e53101c4e6b880922c88993bb804.jpg",
+        "img_caption": [
+            "Fig. 3 Spatial pattern (a) and linear trend (b) of NDVI (normalized difference vegetation index) at growing stages from 2O05 to 2O15 in arid and semi-arid regions of Asia. Areas passing the significance test $( P { < } 0 . 0 5 )$ are shown in a gray square grid in Figure 3b. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Average AOD at growing stages from 2005 to 2015 showed that in arid and semi-arid regions of Asia, region with a higher AOD was mainly located in the Indus River Plain, Tarim Basin and the Caspian Coastal Plain, whereas a lower AOD was mainly found in northern Mongolian Plateau and eastern Kazakhskiy Melkosopochnik (Fig. 4a). In arid and semi-arid regions of Asia, regions with a higher AOD basically corresponded to those areas with a lower NDVI, except for few regions such as northern Mongolian and northeastern Inner Mongolian Plateau. From 2005 to 2015,about $5 0 . 0 \\%$ of the entire study area showed increases in AOD (Fig. 4b), but only $6 . 8 \\%$ of those regions were significant $( P { < } 0 . 0 5 )$ and were mainly located in lower-elevation regions such as the Caspian Coastal Plain (with an increasing rate of ${ > } 0 . 0 5 / \\mathrm { a } )$ ). On the other hand, there were $7 . 0 \\%$ of total areas experiencing significantly $( P { < } 0 . 0 5 )$ AOD decreasing trends at growing stages, which were mainly located at higher-elevation regions, particularly in parts of eastern Mongolian Plateau, with a maximum decreasing rate of ${ > } 0 . 0 5 / \\mathrm { a }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4cd1f5b2b2f782afe3f316e840483a2f414156bd868baaf5a548fecadb48010.jpg",
+        "img_caption": [
+            "Fig. 4Spatial patern (a) and linear trend (b) of AOD (aerosol optical depth) at growing stages from 2005 to 2015 in arid and semi-arid regions of Asia. Areas passing the significance test $_ { ( P < 0 . 0 5 ) }$ are shown in a gray square grid in Figure 4b. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Linkage between NDVI and climatic factors under the influence of aerosols ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 Effect of PAR on vegetation activity ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Partial correlation between PAR and NDVI in scenario b (i.e., taking AOD, PRE, TEM and SSR as the controling variables) showed that when excluding the influence of AOD in addition to the other three climatic factors, area percentages with significantly positive correlation were much larger than those in scenario a (i.e., merely excluding the influence of PRE, TEM and SSR). This phenomenon was more obvious at the early growing stage than in any other stages (Table 1). Moreover, five typical regions were selected to show the detailed differences in partial correlation between scenarios a and b. For instance, at both early and late growing stages, area percentage with significantly positive correlation of all regions was larger in scenario b than in scenario a, indicating that when excluding the influence of AOD, partial correlation between PAR and NDVI had increased in arid and semi-arid regions of Asia. By comparison, at the middle growing stage, there was little change in area percentage between two scenarios. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/48f0e3cfc05d11982907bd71c7d853c8ef3da3b3fa7fce181e847db17ab92535.jpg",
+        "table_caption": [
+            "Table 1 Area percentage $( \\% )$ with significantly positive correlations from two scenarios of partial correlation between PAR (photosynthetically active radiation) and NDVI (normalized difference vegetation index） in different regions at growing stages "
+        ],
+        "table_footnote": [
+            "Notes:Areferstoaridandsem-aridregionsofAsia;A1-A5aretheCaspianCoastalPlain,theIndusRiverPlainasteogolan Plateau,theOrdosPlateauadasteKazakhskielkosoponikspectielysenari(ora)eferstoOrosolticalth) is (or not)considered as the control variables in partial correlation between PAR and NDVI;and scenario $\\mathbf { a - b }$ is the percentage difference between scenarioaandb.Abbreviationsare the sameasin Tables 2-4. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Region</td><td colspan=\"3\">Early growing stage</td><td colspan=\"3\">Middle growing stage</td><td colspan=\"3\">Late growing stage</td></tr><tr><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td></tr><tr><td>A</td><td>46.3</td><td>71.1</td><td>-24.8</td><td>82.0</td><td>87.6</td><td>-5.6</td><td>57.6</td><td>70.1</td><td>-12.5</td></tr><tr><td>A1</td><td>69.5</td><td>85.3</td><td>-15.9</td><td>95.5</td><td>91.2</td><td>4.3</td><td>55.9</td><td>80.6</td><td>-24.7</td></tr><tr><td>A2</td><td>68.8</td><td>93.8</td><td>-25.0</td><td>49.3</td><td>92.0</td><td>-42.7</td><td>67.0</td><td>87.7</td><td>-20.7</td></tr><tr><td>A3</td><td>19.3</td><td>49.8</td><td>-30.5</td><td>65.7</td><td>95.0</td><td>-29.3</td><td>47.1</td><td>63.0</td><td>-15.9</td></tr><tr><td>A4</td><td>36.3</td><td>46.4</td><td>-10.1</td><td>61.1</td><td>89.4</td><td>-28.3</td><td>48.6</td><td>57.6</td><td>-9.0</td></tr><tr><td>A5</td><td>32.2</td><td>58.4</td><td>-26.3</td><td>93.9</td><td>92.0</td><td>1.9</td><td>48.3</td><td>57.4</td><td>-9.1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The evolution of partial correlation between PAR and NDVI at different growing stages (Figs. 5 and S1) showed that when excluding the influence of AOD (scenario b), area percentage with significantly positive correlation was found in the Caspian Coastal Plain and Turan Plain at the early growing stage, in eastern Kazakhskiy Melkosopochnik and southeastern Mongolian ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5b8470008473a01cf5b62cffcf750bbe14bfb044fb6375ebaf17fadf0bec4b2.jpg",
+        "img_caption": [
+            "Fig.5Spatial patern of partial correlation between NDVI (normalized diference vegetation index) at growing stages and PAR (photosynthetically active radiation) when considering AOD (aerosol optical depth) as the control variable (right panel) or not (left panel) in arid and semi-arid regions of Asia during threeselected 16-d periods of growing stages: 97-112 d (a and b),193-208 d (c and d),and 209-224 d (e and f). Areas with insignificant $( P { > } 0 . 0 5 )$ correlations and those with missing AOD values are not shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plateau at the middle growing stage, and southern Mongolian Plateau at the late growing stage. This phenomenon might be due to the obvious different responses of vegetation with different canopy structures on PAR at three growing stages. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 Effect of PRE on vegetation activity ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Partial correlation between PRE and NDVI in scenario b (i.., excluding the influence of both AOD and other three climatic factors) showed that area percentage with significantly positive correlation was larger than that in scenario a (i.e., excluding the influence of other three climatic factors), especially at the middle growing stage (Table 2), implying the adverse impact of AOD on NDVI. Although five typical regions (A1-A5) showed similar changes, there were much notable negative effects of atmospheric aerosols on vegetation growth over the Ordos Plateau (A4) at the early growing stage and over eastern Mongolian Plateau (A3) at the late growing stage， which is probably because atmospheric aerosols inhibited vegetation growth by suppressing precipitation via \"burning' the cloud droplets (Table 2; Figs. 6 and S2). Among five typical regions, there were still spatial differences in the response of vegetation activity at growing stages on precipitation when the effect of atmospheric aerosols was eliminated (i.e., changes from scenario a to scenario b). For instance, at the early growing stage, there was an evident increase in area percentage with a significant correlation (PRE vs. NDVI) over the Ordos Plateau when influence of AOD was excluded, whereas there was little change between two scenarios over eastern Mongolian Plateau. This difference at the early growing stage was possibly because of their diferent ways of water supply to vegetation growth, i.e., plants over the Ordos Plateau were strongly constrained by precipitation, and atmospheric aerosols could influence local vegetation by altering precipitation; while area percentage on eastern Mongolian Plateau was more afected by spring snow-melt water, thus leading the role of precipitation in vegetation activity less important so that the influence of AOD was diminished. By comparison, from the middle to late growing stage, there was an evident increase in areas with significant correlations over eastern Mongolian Plateau rather than the Ordos Plateau from scenarios a to b. During these stages， precipitation became the dominant factor limiting vegetation growth over eastern Mongolian Plateau due to its continental arid climate, whereas the Ordos Plateau was under the control of summer monsoon with relatively ample precipitation, making local vegetation less vulnerable to precipitation variations so that the influence of AOD on NDVI was relatively less important. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4b3fb2360a8e7e5826bd6c0a8b2e791f4d0951f257634791d5c5910438b51ea.jpg",
+        "table_caption": [
+            "Table 2 Area percentage $( \\% )$ with significantly positive correlations from two scenarios of partial correlation between PRE (total precipitation) and NDVI (normalized diference vegetation index) in diffrent regions at growing stages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Region</td><td colspan=\"3\">Early growing stage</td><td colspan=\"3\">Middle growing stage</td><td colspan=\"3\">Late growing stage</td></tr><tr><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td></tr><tr><td>A</td><td>62.5</td><td>91.9</td><td>-29.4</td><td>50.9</td><td>86.3</td><td>-35.4</td><td>60.3</td><td>82.3</td><td>-22.0</td></tr><tr><td>A1</td><td>50.3</td><td>87.8</td><td>-37.5</td><td>36.2</td><td>80.6</td><td>-44.5</td><td>87.3</td><td>92.1</td><td>-4.8</td></tr><tr><td>A2</td><td>65.9</td><td>70.4</td><td>-4.5</td><td>0.7</td><td>91.3</td><td>-90.5</td><td>40.6</td><td>58.8</td><td>-18.2</td></tr><tr><td>A3</td><td>63.7</td><td>93.6</td><td>-29.9</td><td>50.3</td><td>90.3</td><td>-40.0</td><td>40.2</td><td>85.2</td><td>-45.0</td></tr><tr><td>A4</td><td>26.7</td><td>76.7</td><td>-50.0</td><td>65.0</td><td>95.6</td><td>-30.6</td><td>76.6</td><td>92.6</td><td>-16.0</td></tr><tr><td>A5</td><td>82.6</td><td>92.6</td><td>-10.0</td><td>37.3</td><td>81.7</td><td>-44.4</td><td>40.6</td><td>61.1</td><td>-20.6</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 1 Effect of SSR on vegetation activity ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Partial correlation between SSR and NDVI showed that area percentage of the entire study area with significantly positive correlation was larger in scenario b than in scenario a, particularly at the early and middle growing stages (Table 3), indicating that the relationship between SSR and NDVI was closer without the influence of AOD. This was basically true for five typical regions, with the only exception of the Indus River Plain (A2). When AOD was used as the control variable (scenario b), NDVI was significantly and positively correlated with SSR over eastern Turan Plain and eastern Kazakhskiy Melkosopochnik at the early growing stage, and eastern and central Mongolian Plateau at the late growing stage (Figs. 7 and S3). However, area percentage with a significantly positive correlation was smaller over the Indus River Plain (A2) and the Ordos Plateau (A3) at the early growing stage. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bd18a5091facecdf2e37b4f5d7e32bd607ba638a716780e5b101ee9ea066803.jpg",
+        "img_caption": [
+            "Fig. 6Spatial patern of partial correlation between NDVI (normalized diference vegetation index) at growing stages and PRE (total precipitation) when considering AOD (aerosol optical depth)as the control variable (right panel) or not (left panel) in arid and semi-arid regions of Asia during three selected 16-d periods of growing stages: 97-12 d (a and b),193-208 d (c and d),and 209-224 d (e and f). Areas with insignificant $( P { > } 0 . 0 5 )$ correlations and those with missing AOD values are not shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2190fd7b9f61f8fbb57a816dd66e359a870f1637bb55f2ac73bc9e08e8dd9232.jpg",
+        "table_caption": [
+            "Table 3 Area percentage $( \\% )$ of significantly positive correlations from two scenarios of partial correlation between SSR (surface solar radiation)and NDVI (normalized diference vegetation index) in diffrent regions at growing stages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Region</td><td colspan=\"3\">Early growing stage</td><td colspan=\"3\">Middle growing stage</td><td colspan=\"3\">Late growing stage</td></tr><tr><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td></tr><tr><td>A</td><td>50.2</td><td>76.1</td><td>-26.0</td><td>17.9</td><td>44.9</td><td>-27.0</td><td>43.7</td><td>53.7</td><td>-10.0</td></tr><tr><td>A1</td><td>48.1</td><td>82.5</td><td>-34.4</td><td>4.7</td><td>42.6</td><td>-37.9</td><td>43.6</td><td>48.5</td><td>-4.9</td></tr><tr><td>A2</td><td>35.3</td><td>22.4</td><td>13.0</td><td>51.3</td><td>85.4</td><td>-34.1</td><td>36.4</td><td>57.4</td><td>-21.0</td></tr><tr><td>A3</td><td>70.3</td><td>79.0</td><td>-8.7</td><td>22.2</td><td>85.5</td><td>-63.3</td><td>14.3</td><td>53.6</td><td>-39.3</td></tr><tr><td>A4</td><td>41.6</td><td>54.4</td><td>-12.8</td><td>35.6</td><td>84.3</td><td>-48.7</td><td>60.8</td><td>79.4</td><td>-18.7</td></tr><tr><td>A5</td><td>53.4</td><td>70.0</td><td>-16.6</td><td>5.6</td><td>23.4</td><td>-17.8</td><td>46.1</td><td>46.8</td><td>-0.7</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.4 1 Effect of TEM on vegetationactivity ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "When the influence of aerosols was eliminated in partial correlation, area percentage with a significantly positive correlation between TEM and NDVI generally increased (i.e., from scenario a to b), which was more pronounced at the middle growing stage than at the other growing stages (Table 4). A similar change pattern was also found in five typical regions (Table 4). When AOD was used as the control variable that was eliminated in partial correlation, there were significantly positive correlations over the Turan Plain, eastern Kazakhskiy Melkosopochnik and the Caspian Coastal Plain at the early growing stage; over northern Kazakhskiy Melkosopochnik and the Indus River Plain at the late growing stage (Figs. 8 and S4). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f0ab74f4694c8ecbac71ecc3fcd7d30e11ae80d9608da0ea83e69bc5b9be407.jpg",
+        "img_caption": [
+            "Fig.7Spatial pattrn of partial correlation between NDVI (normalized diference vegetation index) and SSR (surface solar radiation) when considering AOD (aerosol optical depth)as the control variable (right panel) or not (left panel) in arid and semi-arid regions of Asia during three selected 16-d periods of growing stages: 97-112 d (a and b), 193-208 d (c and d),and 209-224 d (e and f). Areas with insignificant $( P { > } 0 . 0 5 )$ correlations and those with missing AOD values are not shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c40f8ae1d27aa89b2f7f6ce1284b8e50f8430224388936ecf0867880284d1b1.jpg",
+        "table_caption": [
+            "Table 4 Area percentage $( \\% )$ of significantly positive correlations from two scenarios of partial correlation between TEM (surface air temperature)and NDVI (normalized difference vegetation index) in different regions at growing stages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Region</td><td colspan=\"3\">Early growing stage</td><td colspan=\"3\">Middle growing stage</td><td colspan=\"3\"> Late growing stage</td></tr><tr><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td><td>Scenario a</td><td>Scenario b</td><td>Scenario a-b</td></tr><tr><td>A</td><td>71.8</td><td>73.9</td><td>-2.1</td><td>19.0</td><td>40.3</td><td>-21.2</td><td>35.7</td><td>54.9</td><td>-19.3</td></tr><tr><td>A1</td><td>49.9</td><td>80.5</td><td>-30.6</td><td>4.3</td><td>40.0</td><td>-35.6</td><td>51.7</td><td>64.6</td><td>-12.9</td></tr><tr><td>A2</td><td>0.0</td><td>13.1</td><td>-13.1</td><td>19.8</td><td>49.2</td><td>-29.4</td><td>0.0</td><td>24.9</td><td>-24.9</td></tr><tr><td>A3</td><td>75.6</td><td>91.9</td><td>-16.4</td><td>16.7</td><td>75.9</td><td>-59.3</td><td>29.8</td><td>65.0</td><td>-35.1</td></tr><tr><td>A4</td><td>79.0</td><td>75.3</td><td>3.7</td><td>10.4</td><td>69.7</td><td>-59.3</td><td>4.1</td><td>30.2</td><td>-26.1</td></tr><tr><td>A5</td><td>80.5</td><td>84.1</td><td>-3.6</td><td>4.0</td><td>14.4</td><td>-10.5</td><td>68.8</td><td>73.7</td><td>-4.9</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Atmospheric aerosols affect terrestrial vegetation activity indirectly via changing climate systems and ecosystems, including enhancing the scatering and absorption of solar radiation, changing atmospheric temperature, altering the probability and quantity of precipitation and providing nutrients to some extent (Ramanathan et al., 2001; Steiner et al., 20O5; Wild, 2009). In addition, atmospheric aerosols may influence vegetation production and activity through the modulation of their photosynthesis, respiration, metabolism and water utilization (Tie et al.， 2O16). In the present study, our results showed that atmospheric aerosols had clear effects on the vegetation activity by influencing SSR, PAR, TEM and PRE in arid and semi-arid regions of Asia. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9d0ffd08592cde84faa631853a0601898e98fbb433dd9efdbd0a5e3927aa58d.jpg",
+        "img_caption": [
+            "Fig.8Spatial patterns of partial correlation between NDVI (normalized difference vegetation index) at growing stages and TEM (surface air temperature) whenconsidering AOD (aerosol optical depth)as the control variable (right panel) or not (left panel) in arid and semi-arid regions of Asia of three selected16-d periods at growing stages: 97-112 d (a and b),193-208 d (c and d),and 209-224 d (e and f). Areas with insignificant $( P { > } 0 . 0 5 )$ correlations and those with missing AOD values are not shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1 Relationship between major climatic factors and vegetation activity when excluding the influence of aerosols ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Over the arid and semi-arid regions of Asia, a large proportion of areas exhibited significantly positive correlations between major climatic factors and NDVI when the influence of AOD was excluded. Firstly, area percentage with a significantly positive correlation between vegetation activity and PAR became higher when the influence of AOD was excluded, which could be attributable to the decreases in total PAR that could have facilitated vegetation growth. There were two plausible mechanisms behind the decreased PAR: (1) One explanation was that in the majority of study area, the regions with sparsely covered vegetation had emitted relatively higher amount of dust aerosols and resultant decreasing PAR, which inhibited vegetation growth. And (2) the other explanation was that total PAR was still decreasing in areas with dense vegetation (such as northeastern Inner Mongolia) due to the high concentration of aerosols from their source areas and consequently the decreasing PAR reduced the areas in which PAR facilitates vegetation growth (Xie et al., 2010). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Secondly, area percentage with a significantly positive correlation between SSR and NDVI became smaller when the influence of AOD was considered, which was possibly because of the negative forcing of higher aerosol emissions on SSR in arid and semi-arid regions of Asia with sparse vegetation coverage (Lau et al., 2006; Zhang et al., 2O09; Huang et al., 2014). Generally, the surface cooling effects of aerosols (Du et al., 2014; Huang et al., 2014) would delay the onset of vegetation phenology in spring with reduced material accumulation of vegetation, and would trigger a higher risk of frost with restrained vegetation growth and decreased nutrient availability at the entire growing stage (Bokhorst et al., 20O8; Bennie et al., 201O; He et al., 2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Thirdly, area percentage with a significantly positive correlation between PRE and NDVI was larger when eliminating the effects of AOD, possibly because aerosols may suppress precipitation by altering the cloud particle size and cloud temperature (Yin and Chen, 2OO7; Rosenfeld et al., 2014; Huang et al., 2016), thus restraining vegetation activity in arid and semi-arid regions (Schimel et al., 2001; Fang et al., 2004; Chuai et al.， 2013). Moreover, enhanced aerosol emissions from potential source areas were generally accompanied by reduced TEM and suppressed precipitation (Piao et al., 2O06; Gessner et al., 2013), which would be unfavorable for vegetation activity. It should be noted that the Inner Mongolian Plateau did not show significantly positive correlation between NDVI and major climatic factors when AOD was used as a control variable, which was possibly because vegetation of this region might be more attributable to anthropogenic activities than to atmospheric aerosols. For instance, the afforestation program has been proven to promote vegetation restoration in recent years in China (He et al., 2O15; Liu et al., 2015). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2Spatiotemporal variation in the relationship between major climatic factors and vegetation activity ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "There were obvious spatial and temporal differences in responses of vegetation to climatic factors under the influence of aerosols. For instance, at the early growing stage, there were significantly positive correlations between NDVI and climatic factors including PAR, SSR and TEM over the Caspian Coastal Plain and the Turan Plain when the influence of aerosols was excluded, which were all correlated with the higher concentration of spring aerosols that had substantially reduced PAR, SSR and TEM via altering the incident (diffuse and direct) solar radiation (Cheng et al., 2015), leading to decreased contributions of these factors to vegetation growth (Mohammat et al., 2013; Huang et al., 2014; He et al., 2015; Bi et al., 2017). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "At the middle growing stage, area percentages with significantly positive correlations of NDVI with PAR, SSR and TEM were only found in central and western Kazakhskiy Melkosopochnik and southeastern Mongolian Plateau when the influence of aerosols was not considered, which could be atributed to the following reasons: firstly， photosynthesis of vegetation over these regions with a simple canopy structure would easily reach its saturation points in summer, even though dramatic reduction of aerosol concentrations in these regions could increase both PAR and SSR (Niyogi et al., 2O04; Strada et al., 2O15); secondly, the increased surface temperature resulted from descending aerosol concentrations was not any more the key climatic factor influencing vegetation growth in hot summers (Gessner et al., 2013; Mohammat et al.,2013). However, there was still a significantly positive correlation between PRE and NDVI with an extra exclusion the influence of aerosols in most regions because dust aerosols (the main type of atmospheric aerosols) remained an important factor in suppressing PRE in summer that dust aerosols embed in the cloud layer would reduce cloud cover (especially the lower cloud) and water vapor content, and would increase the evaporation of cloud droplets, thus eventually constraining vegetation growth (Huang et al., 2006; Huang et al., 2014; Li et al., 2018). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "At the late growing stage, area percentages with significantly positive correlations between NDVI and PAR as well as SSR evidently increased over the Indus River Plain when excluding the influence of aerosols, possibly because the aerosols emited from this region were primarily generated by anthropogenic activities, which would absorb SSR and PAR more easily than other types of aerosols (Dey et al., 2Oo4). In addition, area percentage with a significantly positive correlation between TEM and NDVI also increased on the Indus River Plain probably due to the enhanced soil evapotranspiration driven by increased temperature, which was associated with an increased proportion of anthropogenic activities (Latha et al.， 2O18). By comparison，a significantly positive correlation between PRE and NDVI was observed in most of study area with the only exception of the Indus River Plain, possbly due to the suppressed precipitation that excessive inorganic (dust) aerosol nuclei could reduce the volume of droplets (Qian et al., 2009; Li et al., 2011; Rosenfeld et al., 2014). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "From 2005 to 2015, there were decreasing trends in NDVI over the regions with sparse vegetation coverage, such as the Caspian Coastal Plain, which had a maximum decreasing rate of $> 1 \\bar { \\times } 1 0 ^ { - 2 } / \\mathrm { a }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "However, AOD tended to increase as NDVI decreased in most regions. When there was an extra exclusion of the influence of aerosols, the responses of vegetation to climatic factors showed clear spatiotemporal differences. Generally， at different growing stages， aerosols could influence vegetation activity by changing different climatic factors. At the early growing stage, the higher concentration of aerosols would reduce PAR, SSR and TEM, thereby constraining vegetation activity, which was obvious over northern Kazakhskiy Melkosopochnik. At the middle growing stage, decreased concentration of aerosols had little effects on PAR, SSR and TEM, but greatly suppressed precipitation and eventually regulated vegetation activity. At the late growing stage, the potential effects of aerosols on vegetation activity were evident in areas with high anthropogenic activities, such as in the Indus River Plain. Different responses of vegetation activity to aerosols and their related climatic factors would be due to differences in the vegetation canopy structures, their light utility efficiency, as well as regional environmental and climatic conditions. Our studies on the impact of aerosols on vegetation activity in arid and semi-arid regions of Asia would not only clarify the ecological effects of the aerosols in the source areas, but also explain the roles of aerosols in climate systems and ecosystems. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Key Research and Development Program of China (2O16YFA0601900), the Key Frontier Program of the Chinese Academy of Sciences (QYZDJ-SSW-DQC043), the National Natural Science Foundation of China (41771012) and the Applied and Basic Research Program from Tangshan Science and Technology Bureau, China (20130202b). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Bennie JJ,WiltshireAJ,JoyceAN,etal.2Ol0.Characterizing inter-annualvariationinthespatial paternof thermal microclimate inaUKupland usingacombined empirical-physical model.AgriculturalandForest Meteorology,150(1): 12-19.   \nBiJR,HuangJP,ShiJS,etalOl7.MeasurementofscateringandabsorptionpropertiesofustaerosolinaGobifarland regionof northwestern China-a potentialanthropogenic influence.Atmospheric ChemistryandPhysics,17:775-7792.   \nBokhorst S,BjerkeJW,Bowles,FW,et al.2O08.Impacts of extreme winter warming in the sub-Arctic: growing season responses of dwarf shrub heathland. Global Change Biology,14(11): 2603-2612.   \nChameides WL,YuH,LiuSC,etal.1999.Casestudyof theeectsofatmosphericaerosolsandregionalhazeonagriculture: Anopportunity toenhance crop yieldsin China through emisson controls.Procedingsof the National Academyof Sciences of the United States of America, 96(24): 13626-13633.   \nCheng SJ,Bohrer G,Steiner AL,etal.2O15.Variations inthe influenceof difuse lightongrossprimary productivityin temperate ecosystems. Agricultural and Forest Meteorology, 201: 98-110.   \nChuai X W, Huang X J, Wang WJ,et al.2O13.NDVI, temperature and precipitationchanges and their relationships with differentvegetation typesduring1998-2007in Inner Mongolia,China.International Journalof Climatology，33(7): 1696-1706.   \nDey S,Tripathi SN,SinghRP.2O04.Influence ofdust storms ontheaerosoloptical properties overthe Indo-Gangetic Basin. Journal of Geophysical Research,1O9:D20211.   \nDongB,WilcoxLJHighwoodEJ,etal.2O19.ImpactsofrecentdecadalchangesinAsianaerosolsontheEastsiansmer monsoon: roles of aerosol-radiation and aerosol-cloud interactions.Climate Dynamics,53(5): 3235-3256.   \nDu J, He Z B, Yang JJ,etal.2014. Detecting the effects of climatechangeoncanopy phenology inconiferous forests in semi-arid mountain regions of China. International Journal of Remote Sensing,35(17): 6490-6507.   \nDubovik O,King MD.20o.A flexible inversion algorithm for retrieval of aerosol optical properties from sun and sky radiance measurements. Journal of Geophysical Research, 105(D16): 20673-20696.   \nEngstromA,EkmanAML.20l0.Impactofmeteorologicalfactorsonthecorrelationbetweenaerosoloticaldepthadcloud fraction. Geophysical Research Letters,37(18): 1480-1493.   \nEzhovaE,YlvinkkaI,KuskJ,etal.2018.Directefectoferosolsonsolarradiationand grosprimaryproductioninboreal and hemiboreal forests. Atmospheric Chemistry and Physics,18: 17863-17881.   \nFang JY,PiaoSL,HeJS,etal.2O4.Inreasingterestrialvegetationactiviyinina,198299.SienceCinariesC 47(3): 229-240.   \nGessnerU,Neimi V,KlenI,etal.2O13.Therelationshipetwenprecipitationanomaliesndsatelite-derivedgetation activity in Central Asia. Global Planetary Change, 11O: 74-87.   \nGinouxP,ProsperoJM,GillTE,etal.2012.Global-scaleatributionofanthropogenicndnaturaldustsoucesandtheir   \nGuL,PallrdySG,Hosman KP,etal.26.Impactsofprecpitation varabilityonplatspeciesandcommunty waterstrss in a temperate deciduous forest in the central US. Agricultural and Forest Meteorology, 217: 120-136.   \nHe B,ChenAFWangHLetal.2015.Dynamicresponseofsatelitederivedvegetationgrowthtoclimatecangeinteee North Shelter Forest Region in China. Remote Sensing,7(8): 9998-10016.   \nHsu NC, Gautam R,Sayer A M,et al. 2017.Global and regional trends of aerosol optical depth over land and ocean using SeaWiFS measurements from 1997 to 2010. Atmospheric Chemistry and Physics,17: 8037-8053.   \nHuangJP,Minns B,Lin T,et al.2006.Possble influences ofAsiandust aerosols oncloud properties andradiative forcing observed from MODIS and CERES. Geophysical Research Letters,33(6): L06824.   \nHuang JP,Fu Q,Su J,et al. 2009. Taklimakan dust aerosol radiative heating derived fromCALIPSO observations using the Fu-Liou radiation model with CERES constraints. Atmospheric Chemistry and Physics, 9: 4011-4021.   \nHuang JP, Wang TH,Wang WC,et al. 2014.Climate efects ofdust aerosols over East Asian arid andsemiarid regions. Journal of Geophysical Research, 119: 11398-11416.   \nHuang JP,Li Y,Fu C,etal. 2O17. Dryland climate change: Recent progressand chalenges.Review of Geophysics,55(3): 719-778.   \nHui WJ,Cook BI,Ravi S,et al. 2O08. Dustrainfallfeedbacks intheWest African Sahel. Water Resources Research44(5): W05202.   \nIPCC.2013. Climate Change 2013: The Physical Science Basis.Contribution of Working Group Ito the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. New York: Cambridge University Pres,1-12.   \nJustice CO, Vermote E,Townshend JRG, et al.1998.The moderate resolution imaging spectroradiometer (MODIS): Land remote sensing for global change research.IEEE Transactions on Geoscience and Remote Sensing,36(4): 1228-1249.   \nKim Y,KimballJS,DidanK,etal.2O14.Responseof vegetationgrowthand productivitytospringcateindicatos the conterminous United States derived from satelite remote sensing data fusion. Agricultural and Forest Meteorology,194: 132-143.   \nLatha R, Vinayak B, Murthy B S.2018.Response of heterogeneous vegetation to aerosolradiative forcing over a northeast Indian station. Journal of Environmental Management, 206: 1224-1232.   \nLauKM,KimMK,KimKM,206.Asiansummer monsoonanomalies inducedbyaerosoldirectforcing:Theroleof the Tibetan Plateau. Climate Dynamics, 26: 855-864.   \nLevy R C,Matoo S,Munchak LA, et al.2013.Thecollection 6MODIS aerosol products over land and ocean.Atmospheric Measurement Techniques,6: 2989-3034.   \nLi X Q,Ting MF,Lee DE.2018.Fast adjustmentsof the Asiansummer monsoon toanthropogenic aerosols.Geophyscial Research Letters, 45(2): 1001- 1010.   \nLi Z Q,NiuF,FanJW,et al.2011.Long-termimpacts ofaerosolsonthe vertical developmentof clouds and precipitation. Natural Geoscience, 4: 888-894.   \nLiu XF,Zhu XF,Li SS,etal.2015.Changes in growing seasonvegetationandtheir associated driving forces inChina during 2001-2012. Remote Sensing, 7(11): 15517-15535.   \nMiW，LiZ, ia XG,etal.2Oo7.Evaluationof the Moderate Resolution Imaging Spectroradiometeraerosol products at two aerosolrobotie networ Kstations in China.Journal of Geophysical Research,112: D22S08.   \nMikeB. ce of Aerosols on Plant Growth. Honolulu: Georgia Institute of Technology,5-10.   \nMinQ tal. 2009.Evidence of mineral dust altering cloud microphysics and precipitation. Atmospheric Chemis s,9(9):3223-3231   \nMohammat A,Wang X H, Xu X T,et al.2O13.Drought and spring cooling inducedrecent decrease invegetation growth in Inner Asia. Agricultural and Forest Meteorology, 178-179: 21-30.   \nNair US,McniderRT,PatadiaF,etal.2Ol1.Sensitivityof nocturnal boundarylayer temperature totroposphericaerosol surface radiative forcing under clear-sky conditions. Journal of Geophysical Research,116(D2): D02205.   \nNemani RR, KeelingCD,Hashmoto H,etal.2Oo3.Climate-driven increases inlobal terestrialnetprimary productionfrom 1982 to 1999. Science,300(5625): 1560-1563.   \nNiyogi D,Chang HI,Saxena VK,etal.2O04.Directobservations of theeffectsofaerosol loadingon netecosystem $\\mathrm { C O } _ { 2 }$ exchanges over different landscapes. Geophysical Research Letters,31(2O): L20506.   \nPark H S,Sohn B J.2010.Recent trends in changes of vegetation over East Asiacoupled with temperature and rainfall variations. Journal of Geophysical Research,115: D14101.   \nPauli H,Gotfried M,DulingerS,et al.2012.Recent plant diversity changeson Europe'smountain summits.Science, 336(6079): 353-355.   \nPeng S,Chen A, XuL,etal.20l1.Recentchangeof vegetationgrowth trendinChina.EnvironmentalResearchLettrs,6(4): 044027.   \nPiao $\\mathrm { ~ s ~ L ~ }$ ,Mohammat A,Fang J Y, et al. 20o6.NDVI-based increase in growth of temperate grassands and its responses to climate changes in China. Global Environmental Change,16: 340-348.   \nQianY,GongDYFanJW,etal.9.Heavoutiosuessslghrininina: Obseaiosadmodeing.Joualof Geophysical Research,114: D00K02.   \nRamanathan V,Crutzen P,KiehlJ,etal.201.Aerosols,climate,and the hydrologicalcycle.Science,294(5549):21192124.   \nRoderick ML,FarquharG D,Berry SL,etal.2001.On the direct effctof clouds and atmospheric particleson the productivity and structure of vegetation. Oecologia, 129(1): 21-30.   \nRosenfeldD,RudichY,LahavR,etal.2o1.Desertdustuppresing precipitation: Aposible desertificationfebacloop. Proceedings of the National Academy of Sciences of the United States of America,98(11): 5975-5980.   \nRosenfeldD, WoodR,DonnerLJ,etal.20l3.Aerosolcloud-mediatedradiativeforcing:Highlyuncertainandoppositeeffects from shallow and deep clouds. New York: Springer Science $^ +$ Business Media, 105-149.   \nRosenfeld D,Andreae MO,Asmi A,et al.2014. Globalobservationsofaerosol-cloud-precipitation-climate interactions. Reviews of Geophysics,52(4): 750-808.   \nRunning S W,Justice C O, Salomonson V,etal.1994. Terestrial remote sensing scienceandalgorithms planned for EOS/MODIS. International Journal of Remote Sensing, 15(17): 3587-3620.   \nSchimelD S,House JI,Hibbard K A,et al.2O01.Recent paterns and mechanisms of carbon exchange bytrrestrial ecosystems. Nature,414: 169-172.   \nShao YP, Wyrwoll K H, Chappell A,et al. 2011. Dust cycle: An emerging core theme in Earth system science. Aeolian Research, 2(4): 181-204.   \nSolano R, Didan K, Jacobson A,et al 2010. MODIS Vegetation Index Users' Guide (MOD13 Series)Colection 5.Tucsn: University of Arizona, 35-42.   \nSimmonsA, Uppala S,Dee D,et al.2006.ERA-interim: NewECMWFreanalysis products from1989 onwards,ECMWFNews. 110: 25-35.   \nSteinerAL,Chameides WL.2005.Aerosol-induced thermal efectsincrease modelledterestrial photosynthesisand transpiration. Tellus Series B: Chemical and Physical Meteorology, 57(5): 404-411.   \nStrada S,Unger N,Yue X.2015.Observedaerosol-inducedradiative effectonplantproductivityin theeastern United States. Atmospheric Environment, 122: 463-476.   \nTie X,Huang RJ,Dai W,etal.2016.Efectofheavy haze and aerosol polution onriceand wheat productions in China. Scientific Reports, 6(1): 29612.   \nWang X,WuJ,ChenM,etal.2018.Fieldevidences forthepositive efects ofaerosolsontree growth.GlobalChange Biology 24: 498-499.   \nWang XM,Ma WY,HuaT,etal.2O17.Variation invegetation greennessalong China'slandborder.SienceChinaEarth Sciences, 60: 1-8.   \nWild M. 2009. Global dimming and brightening: A review. Journal of Geophysical Research,114: D00D16.   \nXie J,Huang JB,Wang G Y, et al. 2O10. The effects of clouds and aerosols on net ecosystem $\\mathrm { C O } _ { 2 }$ exchange over semi-arid Loess Plateau of Northwest China. Atmospheric Chemistry and Physics,10: 8205-8218.   \nYan Z B,Lin ZH,Zhang H.2014.Therelationship between the East Asiansubtropical westerly jet and summer precipitation over East Asia as simulated by the IAP AGCM4.0. Atmospheric Oceanic Science Letters,7(6): 487-492.   \nYin Y,Chen L.2Oo7.Theeffects of heatingby transporteddust layers on cloudand precipitation: A numerical study. Atmospheric Chemistry and Physics, 7: 3497-3505.   \nYoon J,BurrowsJP, Vountas M,etal.2O14.Changes inatmospheric aerosolloadingretrieved fromspace-based measurements during the past decade. Atmospheric Chemistry and Physics,14: 26001-26041.   \nYu HB,ChinM, WestJJ,etal.2013.Amulti-modelassssmentofteinfuenceofregonalanthropogenicemisionductis onaerosol direct radiative forcingand the roleof intercontinental transport.Journal of Geophysical Research,118(2): 700-720.   \nYue X,Unger N, Harper K,et al.2O17. Ozoneand haze polution weakens net primary productivity in China. Atmospheric Chemistry and Physics,17(9): 6073-6089.   \nZhang DF, Zakey A S,Gao XJ,et al. 2Oo9.Simulationof dust aerosol and itsregional feedbacks over East Asia using a regional climate model. Atmospheric Chemistry and Physics, 9: 1095-1110.   \nZhang R,OuyangZT, Xie X,et al.2016 Impactofclimatechange onvegetation growth inarid Northwestof China from1982 to 2011. Remote Sensing, 8(5): 364.   \nZhang X Q,Lei YC,Pang Y,etal.2O14.Tree mortality inresponse toclimatechange induceddrought across Beijing,China Climatic Change,124(1): 179-190.   \nZhang X Y,ArimotoR,An Z S.1997.Dust emision from Chinese desert sources inkedtovariations inatmosphericcrculation Journal of Geophysical Research, 102: 28-41.   \nZhou LM,TuckerCJ,KaufmannRK,etal.Oo1.Variationsinnorthernvegetationactivityinferredfromsatelltedataof vegetation index during 1981 to 1999. Journal of Geophysical Research,106: 20069-20083. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/1da67c6e88bf1d7925106b1523d4c8afe4542a3588bc70cdd1f4a0ccb25a2479.jpg",
+        "img_caption": [
+            "Fig. S1 Spatial pattrn in the number of 16-d period with a significantly positive correlation between NDVI (normalized difference vegetation index)and PAR (photosynthetically active radiation) when considering AOD (aerosol optical depth)as the control variable (right panel)or not (left panel) over the arid and semi-arid regions of Asia during growing stages (each having four or six 16-d periods). Areas with insignificant $( P { > } 0 . 0 5 )$ correlations and those with missng AOD values are not shown. Abbreviations are the same as in Figures S2-S4. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a894ffef6d106eced0d69f9441daffefcd3e9914198212ec8c112d9ab9a534a.jpg",
+        "img_caption": [
+            "Fig.S2Spatial pattrn in the number of 16-d period with a significantly positive correlation between NDVI and PRE (total precipitation) when considering AOD as the control variable (right panel) or not (left panel) over the arid and semi-arid regions of Asia during growing stages (each having four or six 16-d periods). Areas with insignificant $( P { > } 0 . 0 5 )$ correlations and those with missing AOD values are not shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb12a0ed85c37bff7b25a4b45ed91976e935e5063ef8ba40f8376a890da6b5a2.jpg",
+        "img_caption": [
+            "Fig.S3Spatial pattern in the number of 16-d period with a significantly positive correlation between NDVI and SSR (surface solar radiation) when considering AOD as the control variable (right panel) or not (left panel) over the arid and semi-arid regions of Asia during growing stages (each having four or six 16-d periods). Areas with insignificant $( P { > } 0 . 0 5 )$ correlations and those with missing AOD values are not shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b7621e1737a63c034a727945fcb5fe98cfc23ad2579e5d3c098078f279d9ee1.jpg",
+        "img_caption": [
+            "Fig.S4Spatial pattern in the number of 16-d period with a significantly positive correlation between NDVI and TEM (surface air temperature) when considering AOD as the control variable (right panel) or not (left panel) over the arid and semi-arid regions of Asia during growing stages (each having four or six 16-d periods). Areas with insignificant $( P { > } 0 . 0 5 )$ correlations and those with missing AOD values are not shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    }
+]

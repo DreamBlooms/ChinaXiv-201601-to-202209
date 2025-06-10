@@ -1,0 +1,258 @@
+# 不同草地类型净初级生产力(NPP)模拟及其敏感性分析
+
+张美玲'，陈全功²，蒋文兰3.4
+
+甘肃农业大学理学院/数量生物学研究中心,甘肃 兰州730070；2.兰州大学草地农业科技学院，甘肃 兰州730020；3.甘肃农业大学草业学院,甘肃 兰州730070；4.中国科学院寒区旱区环境与工程研究所，甘肃 兰州730000)
+
+摘要：气候变化问题作为人类社会可持续发展面临的重大挑战，受到国际社会越来越强烈的关注。全球气候变化深刻影响着草地生态系统，定量评估区域和不同类型草地生态系统的生产力，研究其对气候变化的敏感性可以为草地生态系统适应未来气候变化提供基础数据和理论依据。草原综合顺序分类系统(CSCS)将天然草原分为42类(其中中国包含41类)，并将其聚合为10个类组。研究利用改进Carmegie-Ames-Stanford Approach（CASA)模型模拟分析中国天然草地2004—2008年的净初级生产力(NPP)并进行系统聚类，分析了草地NPP与影响因子的相关性和敏感程度。结果表明:2004—2008年中国10个草地类组年均NPP均呈现增长趋势，其中亚热带森林草地增长最快，增长率达 $3 8 . 2 \%$ 。温带湿润草地增长最慢，增长率为 $1 4 . 3 \%$ 。通过聚类分析将中国41类草原的年均NPP分为3类：第1类NPP值较小,其湿润度级较低，而热量级较高;第2类NPP值较大，其热量级和湿润度级均较高，水热比适宜植被的生长;其余为第3类,其NPP值介于上述两者之间。可见，不同草地类型NPP分布规律与CSCS划分草地类型的湿润度级和热量级密切相关。草地年均NPP与 ${ > } 0 \mathrm { ~ } \mathrm { \% }$ 年积温 $( \Sigma \theta )$ 、降水量、湿润度 $( K )$ 和NDVI的相关性强，与太阳辐射的相关性弱。草地类组NPP平均值对NDVI最敏感，其次为 $\Sigma \theta , K$ 和降水量，敏感性最弱的为太阳辐射。草地NPP对CSCS量化分类的标准∑0和 $K$ 较为敏感，改进CASA模型在一定程度上实现了CSCS与草地生产力的耦合。
+
+关键词：净初级生产力(NPP)；改进CASA模型；草地类型；聚类分析；敏感性分析
+
+# 文章编号：
+
+草地是陆地生态系统的重要组成部分和人类畜牧业的重要基地[1。世界草地总面积约占陆地总面积的 $1 7 \%$ 。作为地表碳循环的重要组成部分，草地净初级生产力(NPP)是调节生态过程和判定草地生态系统碳汇的主要因子[2]。利用模型估算草地NPP已被广泛接受。Carnegie-Ames-Stanford Approach(CASA)模型是陆地植被NPP估算模型之一[3]。基于遥感监测和气象数据，利用CASA模型或其改进模型，众研究已估算了北美、南美、大洋洲、澳大利亚[4]、印度次大陆[5]、东北亚[6和藏北[7]等地的草地NPP值。
+
+草原综合顺序分类系统(CSCS)是用定量化指标湿润度 $( K )$ 和 ${ > } 0 \mathrm { ~ \% ~ }$ 年积温 $( \Sigma \theta )$ 对植被进行分类的方法，可以利用计算机进行定量检索[8-9]。光照、水分和土壤等外界环境条件共同决定了草地NPP，是草地在自然条件下生产能力的直接体现[9。用CSCS的分类指标 $K$ 和∑0作为因子来估算草地NPP，能揭示草地类型与NPP的内在联系，为探讨草地NPP的分布和草地类型的生产潜力提供了可能[9-10]。CSCS将全球天然草原分为42类，其中中国包含41类[8]。为了便于记忆和运用,将其分为10个类组[8]
+
+将草地NPP与CSCS相结合是草地生产力研究方法的创新，也是对CSCS的补充和发展。前期的研究已将CASA模型中的气候因子降水量和温度转
+
+# 干辛区地理
+
+换为参数 $K$ 和∑0估算NPP,实现了模型的改进[]本研究运用改进CASA模型模拟了2004—2008年中国10个天然草地类组和41类草地的NPP值，结合CSCS分析不同草地类组的NPP变化趋势，明确了草地NPP和CSCS中草地类型的关系。进一步分析中国草地NPP对NDVI、太阳辐射 $\mathbf { \Omega } , K$ 值、 $\scriptstyle \sum \theta$ 和降水量的敏感性，以期为天然草地生产力评价和相关政策的制定提供参考依据。
+
+# 材料与方法
+
+# 1.1 研究区概况
+
+中国地处太平洋西岸和欧亚大陆东部，其陆地面积为 $9 6 0 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ 。温度带划分为寒温、中温、暖温、亚热、热带以及青藏高原区。从气候类型上来看，西北部属温带大陆性气候，东部属季风气候，青藏高原属高寒气候。从干湿地区划分来看，有干旱和半干旱地区、湿润和半湿润地区。中国草地面积约为 $4 0 0 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,主要位于北部和西部地区。全球天然草原分为42类，其中中国包含41类8，并将其分为10个类组8(表1)。
+
+# 1.2改进CASA模型
+
+CASA模型中NPP的估算依赖于植被吸收的光合有效辐射(FAPAR）、最大光能利用率（ $\varepsilon _ { \mathrm { m a x } }$ ）温度胁迫系数( $T _ { \varepsilon 1 } \setminus T _ { \varepsilon 2 }$ )和水分胁迫系数( $\boldsymbol { W } _ { \varepsilon }$ ）:
+
+$$
+\mathrm { N P P } ( x , t ) = \mathrm { F A P A R } ( x , t ) \times \varepsilon _ { \mathrm { m a x } } ( x , t ) \times
+$$
+
+$$
+T _ { \varepsilon 1 } ( x , t ) \times T _ { \varepsilon 2 } ( x , t ) \times W _ { \varepsilon } ( x , t )
+$$
+
+式中： $x$ 表示空间位置； $\mathbf { \Phi } _ { t }$ 表示时间。
+
+本研究利用改进CASA模型["估算草地 $\mathrm { { N P P } }$ 。模型对 $\boldsymbol { W } _ { \varepsilon }$ 和 $\varepsilon _ { \operatorname* { m a x } 2 }$ 个参数进行了改进，改进后 $\boldsymbol { W } _ { \varepsilon }$ 用以下公式计算：
+
+$$
+W _ { \varepsilon } ( x , t ) = 0 . 5 + 0 . 5 \times
+$$
+
+$$
+\frac { \Big ( 0 . 2 9 K ^ { \frac { 1 } { 2 } } + 0 . 6 \Big ) \Big [ K \times L ( K ) + 0 . 4 6 9 K ^ { \frac { 3 } { 2 } } + 9 . 3 3 ( \sum \theta ) ^ { - 1 } \Big ] } { \Big ( K + 0 . 4 6 9 K ^ { \frac { 1 } { 2 } } + 0 . 9 6 6 \Big ) \big [ L ( K ) + 0 . 9 3 3 K ^ { - 1 } \big ] }
+$$
+
+$$
+L ( K ) { = } K { + } 0 . 9 0 6 K ^ { ^ { - { \frac { 1 } { 2 } } } } { + } 0 . 2 2
+$$
+
+式中： $K$ 为湿润度指标； $\Sigma \theta$ 表示 ${ \mathrm { > } } 0 ~ \mathrm { \% }$ 年积温
+
+在CASA模型中,植被的εmax取固定值0.389 g$\mathrm { C } { \cdot } \mathrm { M J ^ { - 1 } }$ ,忽略了植被类型的差异[3]。改进模型中 $\varepsilon _ { \mathrm { m a x } }$ 采用基于CSCS改进CASA模型模拟的结果，不同草地类型采用不同的 $\varepsilon _ { \mathrm { m a x } }$ [12]。模型改进的具体描述参见文献[11]。
+
+# 1.3数据与处理
+
+1.3.1气象数据数据下载于“中国气象科学数据共享网”，选取2004—2008年756个气象站点的月降水量、月平均温度、日平均温度。精度验证后，其中682个站点的数据被使用。96个站点的月太阳辐射观测数据被使用。利用Arcmap9.3将矢量数据插值成栅格数据，数据投影均为GCS-WGS-1984。
+
+表1 CSCS草地类型和类组[8-9]  
+Tab.1 Grassland classesand super-classeswithin the CSCS   
+
+<html><body><table><tr><td>类组号</td><td colspan="2">草地类组</td><td>草地类型</td></tr><tr><td>1</td><td>冻原高山草地</td><td>雨冻原-高山草甸类(IF36)</td><td>寒冷极干寒带荒漠-高山荒漠类(IA1),寒冷干旱寒带半荒漠-高山半荒漠类(IB8),寒冷微干干燥冻原-高山 草原类(IC15),寒冷微润少雨冻原-高山草原草甸类(ID22),寒冷湿润冻原-高山草甸类(IE29),寒冷潮湿多</td></tr><tr><td>2</td><td>冷荒漠草地</td><td></td><td>寒温极干山地荒漠类(IIA2),微温极干温性荒漠类(IIIA3),温暖极干暖温带荒漠类(IVA4)</td></tr><tr><td>3</td><td></td><td>热荒漠带草地</td><td>暖热极干亚热带荒漠类(VA5),亚热极干亚热带荒漠类(VIA6),炎热极干热带荒漠类(VIIA7)</td></tr><tr><td>4</td><td>半荒漠草地</td><td></td><td>寒温干旱山地半荒漠类(IIB9),微温干旱湿带半荒漠类(IIB10),暖温干旱暖温带半荒漠类(IVB11),暖热干 旱亚热带半荒漠类(VB12)</td></tr><tr><td>5</td><td></td><td>斯太普草地</td><td>寒温微干山地草原类(IIC16),微温微干温带典型草原类(IIC17),暖温微干暖温带典型草原类(IVC18),暖 热微干亚热带禾草-灌木草原类(VC19)</td></tr><tr><td>6</td><td></td><td>萨王纳草地</td><td>亚热干旱亚热带荒漠灌丛类(VIB13),炎热干旱热带荒漠灌丛类(VIB14),亚热微干亚热带禾草-灌木草原 类(VIC20),炎热微干稀树草原类(VIIC21)，炎热微润干旱森林类(VIID28)</td></tr><tr><td>7</td><td></td><td>温带湿润草地</td><td>寒温微润山地草甸草原类(IID23),微温微润草甸草原类(ID24),寒温湿润山地草甸类(IIE30),微温湿润 森林草原-落叶阔叶林类(IIIE31)</td></tr><tr><td>8</td><td></td><td>温带森林草地</td><td>暖温微润森林草原类(IVD25),暖温湿润落叶阔叶林类(IVE32),寒温潮湿寒温性针叶林类(IIF37),微温潮 湿针叶阔叶混交林类(IIIF38)，暖温潮湿落叶阔叶林类(IVF39)</td></tr><tr><td>9</td><td></td><td></td><td>亚热带森林草地暖热微润落叶阔叶林类(VD26),亚热微润硬叶类和灌丛类(VID27),暖热湿润常绿-落叶阔叶林类(VE33)， 亚热湿润常绿阔叶林类(VIE34),暖热潮湿落叶-常绿阔叶林类(VF40),亚热潮湿常绿阔叶林类(VIF41)</td></tr><tr><td>10</td><td></td><td>热带森林草地</td><td>炎热湿润季雨林类(VIE35)，炎热潮湿雨林类(VIIF42)</td></tr></table></body></html>
+
+1.3.2遥感数据数据从“美国国家航空航天局"网站获取，采用2004—2008年的MODISNDVI,其空间分辨率为 $1 ~ \mathrm { k m } { \times } 1 ~ \mathrm { k m }$ ，时间分辨率为 $1 6 \textup { d }$ 。对数据进行了相应的大气和辐射校正，并运用最大值合成法合成月NDVI数据[13]。在Erdas Imagine中进行拼接，并在Arcmap中进行裁剪得到中国区域的影像。
+
+# 1.4相关性分析
+
+研究通过将草地NPP估算值与各影响因子分别作简单和滞后相关分析，从而明确草地NPP与影响因子之间的关系。
+
+1.4.1 简单相关分析将2004—2008年草地年均NPP与影响因子∑0、降水量 $. K$ 值、太阳辐射、NDVI进行相关性分析，并采用 $\mathbf { \chi } _ { t }$ 检验方法进行显著性检验。
+
+1.4.2滞后相关分析为了研究草地NPP对各因子响应的时滞效应，采用2006年月NPP值与对应的影响因子作滞后相关分析。相关系数运用以下公式计算[14]：
+
+$$
+R ^ { \prime } { = } \operatorname* { m a x } \left\{ R _ { 0 } , R _ { 1 } , R _ { 2 } , { \cdots } , R _ { n } \right\}
+$$
+
+式中： $R ^ { \prime }$ 表示滞后相关系数； $\boldsymbol { R } _ { n }$ 表示当月的NPP值与前推第 $n$ 个月影响因子之间的相关系数。
+
+${ \cal R } ^ { \prime } = { \cal R } _ { n }$ 即表示NPP对该因子的滞后期是 $n$ 个月，其中 $\scriptstyle n = 0 , 1 , 2 , 3 , 4$ 。
+
+# 1.5 敏感性分析
+
+从以下3个不同角度，运用2006年的数据计算比较草地NPP对 $\Sigma \theta$ 、降水量 $\mathbf { \Omega } _ { \mathcal { K } }$ 值、太阳辐射和NDVI的敏感性大小。
+
+1.5.1 草地NPP的相对变化率 $\Sigma \theta$ 、降水量 $. K$ 值、太阳辐射和NDVI分别增加和减小 $. 5 \% . 1 0 \% . 2 0 \% ,$ 后模拟估算中国区域的草地NPP值，其他参数保持恒定。采用以下公式计算各参数变化后草地NPP的相对变化率：
+
+$$
+p _ { f \pm \Delta } { = } \frac { ( \mathrm { N P P } _ { f \pm \Delta } - \mathrm { N P P } ) } { \mathrm { N P P } } { \times } 1 0 0 \%
+$$
+
+式中： $p _ { f \pm \Delta }$ 为某个参数 $f$ 增加或减少 $\Delta$ 后NPP的相对变化率; $N P P _ { f \pm \Delta }$ 为参数 $f$ 增加或减少 $\Delta$ 后的模拟NPP值、 $\Delta$ 分别取 $5 \%$ ） $10 \%$ 和 $20 \%$ ,f分别取 $\Sigma \theta$ 、降水量 $\mathbf { \nabla } \cdot K$ 值、太阳辐射和NDVI。
+
+1.5.2敏感度为了在同一尺度下比较NPP对各参数的敏感程度，采用Privette[15]定义的参数敏感度来计算：
+
+$$
+S ( b ) { = } \frac { \mathrm { r m s } } { E ( \mathrm { N P P } ) }
+$$
+
+式中： $E ( \mathrm { N P P } )$ 表示期待值处各方向的平均值; $\mathrm { r m s }$ 是某一参数偏离期待值 $1 0 \%$ 后NPP在各方向上变化值的平方和。
+
+1.5.3草地类组对影响因子的敏感性将太阳辐射、降水量 $\mathbf { \Omega } , K$ 值和 $\textstyle \sum \theta$ 分别增加 $1 0 \%$ ,通过比较10个草地类组NPP的变化大小来研究不同草地类组对各影响因子的敏感性。
+
+# 2结果与分析
+
+# 2.1不同草地NPP模拟与变化分析
+
+利用改进CASA模型，模拟2004—2008年不同草地类组NPP的结果表明，热带森林草地年均值最高，为 $8 9 8 . 0 8 \textrm { g C } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ ;其次为亚热带森林草地，年均值为 $7 8 4 . 2 6 \textrm { g C } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ ;冷荒漠草地年均值最低，仅为 $1 4 1 . 2 6 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ (表2）。
+
+表2草地类组年均NPP  
+Tab.2 Annual average NPP of10 super-classes   
+
+<html><body><table><tr><td>类组号</td><td>草地类组</td><td>年均NPP/g C·m²·a1</td></tr><tr><td>1</td><td>冻原高山草地</td><td>261.63</td></tr><tr><td>2</td><td>冷荒漠草地</td><td>141.26</td></tr><tr><td>3</td><td>热荒漠带草地</td><td>310.37</td></tr><tr><td>4</td><td>半荒漠草地</td><td>316.92</td></tr><tr><td>5</td><td>斯太普草地</td><td>424.67</td></tr><tr><td>6</td><td>萨王纳草地</td><td>640.29</td></tr><tr><td>7</td><td>温带湿润草地</td><td>452.88</td></tr><tr><td>8</td><td>温带森林草地</td><td>612.27</td></tr><tr><td>9</td><td>亚热带森林草地</td><td>784.26</td></tr><tr><td>10</td><td>热带森林草地</td><td>898.08</td></tr></table></body></html>
+
+5a来，10个草地类组NPP值均呈上升趋势（图1)。第9类组(亚热带森林草地)增幅最大,增长率达 $3 8 . 2 \%$ 。其次为第5类组(斯太普草地）,增长率为 $3 3 . 8 \%$ 。由于第6类组(萨王纳草地)和第8类组(温带森林草地)气候环境接近，其增长幅度接近，均为 $2 8 \%$ 左右。增长幅度最小的为第7类组（温带湿润草地），增长率仅为 $1 4 . 3 \%$ （图1)。亚热带森林草地的湿润度级 $K$ 大于1.2，属于微润、湿润和潮湿，热量级处于V、VI级的暖热和亚热，其水热比适宜植被的增长，因而草地NPP增长较快。温带湿润草地的湿润度级 $K$ 虽然属于微润和湿润，但热量级处于ⅡI、II级的干旱和微干，植被生长环境较差，导致其
+
+y=5.6743.x+244.6 0 (b)类组2(a)类组1y=7.479x+118.8270 170 R²=0.50838 260 210 0500 13 110200 1002004 2005 2006 2007 2008 2004 2005 2006 2007 2008年份 年份(c)类组3 2 (d)类组4320300280 y=14.075x+268.15 200 y=9.1474x+289.482402202002004 2005 2006 2007 2008 2004 2005 2006 2007 2008年份 年份(e)类组5 (f)类组6y=32.6340x+542.39 Ay=19.743x+365.44 650350 R²=0.421 600300 550250 5002004 2005 2006 2007 2008 2004 2005 2006 2007 2008年份 年份/ 470 490 (g)类组7 A 18/ 700 (h)类组8650430 600410 y=9.1049x+425.57 550 y=26.46x+532.89390 R²=0.238 R²=0.579370 500350 4502004 2005 2006 2007 2008 2004 2005 2006 2007 2008年份 年份(i)类组9 (i)类组102 950850 900 A800 850y=30.718x+805.93600 y=49.480x+635.79 300 □ R²=0.472550 7002004 2005 2006 2007 2008 2004 2005 2006 2007 2008年份 年份
+
+NPP增长的幅度较小。
+
+# 2.2 聚类分析
+
+通过最小距离法对CSCS草地类型的年均NPP进行系统聚类，划分为以下3类(图2)。第1类有寒冷极干寒带荒漠-高山荒漠类(IA1)寒温微干山地草原类(IIC16）、微温干旱湿带半荒漠类(IIIB10）、暖温干旱暖温带半荒漠类(IVB11）寒冷干旱寒带半荒漠-高山半荒漠类(IB8)、寒冷微干十燥冻原-高山草原类(IC15)、寒冷微润少雨冻原-高山草原草甸类(ID22）寒冷湿润冻原-高山草甸类(IE29）、寒温极干山地荒漠类(IIA2)、微温极干温性荒漠类(II-IA3）、温暖极干暖温带荒漠类(IVA4）、寒温干旱山地半荒漠类(IIB9）、暖热极干亚热带荒漠类(VA5)和寒温微润山地草甸草原类(ID23)，年均NPP最小；第2类有亚热潮湿常绿阔叶林类(VIF41)和炎热潮湿雨林类（VIIF42），年均NPP最大；其余为第3类，年均NPP居于第1类和第2类之间。可见，湿润度级较低的第1类具较高的热量级，导致其NPP值较小;第2类湿润度级和热量级都较高，水热比适宜于草地植被的生长，故其NPP值也较高。可见，草地NPP与CSCS草地类之间耦合较好，说明CSCS用$K$ 和∑0来划分草地类型的科学性和实用性。
+
+![](images/b5776e4b09cc9132cdbba86a9cfe62baed06b51e2b49a78fb8aee76373814330.jpg)  
+注：IA1至VIIF42草地类型,参见表1。 图2不同草地类型NPP年均值系统聚类 Fig.2 Cluster of annual average NPP of different grassland type in China
+
+# 2.3相关性分析
+
+2.3.1 简单相关分析2004—2008年草地年均NPP与∑0呈显著负相关(图3)。草地年均NPP与年均降水量 $_ { ( r = 0 . 7 6 ) }$ 和 $K$ 值 $_ { ( r = 0 . 7 8 ) }$ 显著正相关，与太阳辐射亦呈正相关，但相关性较小( $\scriptstyle \left. \begin{array} { r l } { r = 0 . 2 3 } \end{array} \right)$ ，可见太阳辐射对草地NPP的影响较小。此外,4种影响因子中，草地NPP与 $K$ 值的相关性最大(图3)，湿润度 $K$ 对中国草地NPP的影响最为显著。
+
+注：£0为 年积恤;A为血悯度拍协。同。 图3草地年均NPP与气候因子的相关性散点图 Fig.3 Correlation scatter diagram between annual mean grassland NPP and climate factors   
+![](images/82de01c3de234cc18eecd8621d086e2e475ea90cd080b11f63baa697e404d6bc.jpg)  
+${ \mathrm { > } } 0$
+
+2.3.2滞后相关分析根据草地NPP的月均值可知，7月的NPP值最高，从而取 $n { = } 7$ 。将7月的NPP分别与当月及前4个月的降水量、 $\Sigma \theta , K .$ 太阳辐射和NDVI进行相关性分析，判断草地NPP对影响因子的滞后效应。从表3可以看出，NPP对降水量、 $. K$ 和NDVI在当月的相关系数最高，均不存在滞后期。对太阳辐射和 $\Sigma \theta$ 存在滞后，NPP对太阳辐射和£0的响应分别滞后1个月、2个月。
+
+# 2.4敏感性分析
+
+2.4.1 各参数变化后草地NPP的相对变化率图4 显示，草地NPP与降水量 $. K$ 值、太阳辐射和NDVI均
+
+# 表3草地NPP与前推月份影响因子的相关系数
+
+Tab.3 Correlation coefficientbetween grassland NPP and pre-pushing month impact factor   
+
+<html><body><table><tr><td>月份</td><td>降水量</td><td></td><td>K值</td><td>太阳辐射</td><td>NDVI</td></tr><tr><td>n</td><td>0.699*</td><td>0.100*</td><td>0.697**</td><td>-0.103*</td><td>0.472**</td></tr><tr><td>n-1</td><td>0.423*</td><td>0.068</td><td>0.353**</td><td>-0.327**</td><td>0.269**</td></tr><tr><td>n-2</td><td>0.391*</td><td>0.195**</td><td>0.290**</td><td>-0.313**</td><td>0.231**</td></tr><tr><td>n-3</td><td>0.323*</td><td>0.129**</td><td>0.066</td><td>-0.248**</td><td>0.228**</td></tr><tr><td>n-4</td><td>0.230*</td><td>0.073</td><td>0.062</td><td>0.022</td><td>-0.021</td></tr></table></body></html>
+
+注： $n \ 、 n - 1 \ 、 n - 2 \ 、 n - 3$ 和 $n { - } 4$ 分别表示当月、前推1个月、2个月、3个月和4个月；注： $\Sigma \theta$ 为 ${ \mathrm { 5 0 ~ } } \mathrm { \% }$ 年积温； $K$ 表示温润度指标;\*和\*\*分别表示 $P < 0 . 0 5$ 和 $P < 0 . 0 1$ 。下同。
+
+![](images/d6ebb386a30272277918ce8740c6ad8369d140670bd20cbd372702fbf7505460.jpg)  
+图4草地NPP随影响因子的相对变化率Fig.4 Relative change rate of grassland NPPwith impact factor
+
+正相关，与≥0呈现负相关。由于改进CASA模型中降水量是通过 $K$ 值来反映其对草地NPP的影响，故NPP值对降水量和K值的相对变化率一致。
+
+可见，当其他参数恒定时，增加∑0会导致NPP下降;相反，∑0减少会引起NPP增加(图4)。在良好的水热搭配下草地NPP和∑0才呈线性增长关系。
+
+2.4.2敏感度通过敏感度来比较草地NPP对∑0、 降水量 $\mathbf { \Omega } , K$ 值、太阳辐射和NDVI的敏感程度(表4)， 从而在同一尺度下比较草地NPP对各参数的敏感 性大小。结果显示草地NPP对各参数敏感性由强 至弱依次为： $\mathrm { N D V I } { > } \Sigma \theta { > } K$ 值和降水量 $>$ 太阳辐射。
+
+2.4.310个草地类组对影响因子的敏感性图5为  
+10个天然草地类组对太阳辐射、降水量( $K$ 值)和≥0
+
+表4草地NPP对影响因子的敏感度  
+Tab.4 Sensitivity of grassland NPP to its impact factors   
+
+<html><body><table><tr><td>£0</td><td>降水量</td><td>K值</td><td>太阳辐射</td><td>NDVI</td></tr><tr><td>50.067</td><td>47.348</td><td>47.348</td><td>18.398</td><td>52.529</td></tr></table></body></html>
+
+![](images/91fd87062429aa8e86d4fd7064f4885da86be35c9336824c1f4fa95aabf9a128.jpg)  
+图5不同类组草地NPP对气候因子的敏感性 Fig.5 Grassland NPP sensitivity to climate factors in different super-classes of grassland
+
+的敏感性。年太阳辐射增加 $10 \%$ ，草地NPP会相应 的增加 $4 0 . 0 8 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 。年降水量( $K$ 值)增加 $10 \%$ 会使得草地NPP增加 $5 8 . 7 3 \mathrm { \ g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } ,$ $\Sigma \theta$ 增加 $10 \%$ 会使得草地NPP减少 $5 4 . 1 4 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } .$ 0
+
+太阳辐射敏感性最高和最低的分别是温带森林草地和半荒漠草地，当太阳辐射增加 $10 \%$ ,NPP各自增加 $4 4 . 5 1 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 和 $8 . 0 7 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 。对降水量（ $K$ 值)最敏感的是温带森林草地，降水量增加$1 0 \%$ 后其NPP值增加 $\left( 7 6 3 . 1 \ \mathrm { g } \mathrm { C } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 } \right)$ 。其次是冻原高山草地 $\left( 6 9 2 . 7 \mathrm { g } \mathrm { C } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 } \right)$ ,最不敏感的是半荒漠草地 $( 6 6 . 4 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } )$ 。温带森林草地对积温的变化也最敏感，积温增加 $10 \%$ ，相应的NPP减少$6 8 . 5 2 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 。 $\Sigma \theta$ 增加 $10 \%$ ,冻原高山草地、冷荒漠草地、热荒漠带草地、半荒漠草地、斯太普草地和温带湿润草地的NPP分别减少62.26、29.85、$2 0 . 3 9 \ 、 6 . 3 3 、 2 4 . 8 4 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 和 $3 8 . 5 3 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ （图
+
+5)。因此，与降水量 $. K$ 值和 $\Sigma \theta$ 相比，不同类组的草地NPP对太阳辐射的敏感性最小。
+
+# 3讨论
+
+本研究利用基于CSCS改进CASA模型重建了2004—2008年草地类型和不同类组年均NPP的变化，能为中国草地类型、草地生产力及其对气候的响应等相关研究提供参考。草地类组的NPP变化因其分布地域和气候的不同呈现出不同的特点,5a来10个草地类组的NPP均呈增长趋势。近年来大量研究均指出草地产量呈增长趋势。利用地面气象观测资料、卫星遥感资料和遥感模型，侯英雨等"的估算结果表明我国主要植被类型(草地和森林)的年均NPP在1982—2000年基本呈上升趋势,这与本文结果相一致。通过改进CASA模型模拟内蒙古草地生态系统2001—2010年NPP时空变化的研究，同样发现近10a该地区草地NPP总体呈上升趋势[17]。许洁等[18研究表明近15a来，青藏高原NPP整体呈增加趋势，与气温趋势变化一致。2001一2016年来新疆植被NPP亦呈上升趋势[19]。进一步的研究发现,2004—2008年增长幅度最大的草地类组为亚热带森林草地(第9类组);增长幅度最小的是温带湿润草地(第7类组）。从2004—2008年中国41类草地年均NPP聚类分析结果看，第1类湿润度级较低，热量级较高，故其NPP值较低;第2类湿润度级和热量级均较高，水热比适宜植被生长，其NPP值也较高。可见,在降水量变化不大的条件下,平均温度升高对植被生产力会产生负面影响，这与赵东升等[20]的研究结果一致。草地NPP无论从草地类组的变化,还是从聚类分析的结果都表明，湿润度级和热量级越高，其NPP值越大。可见，水热的良好搭配在NPP的形成中起关键作用。本研究采用的改进CASA模型使用了CSCS中的草原分类气候指标 $K$ 和$\Sigma \theta$ ，揭示了草地NPP与CSCS草地类型的内在联系，证明了CSCS的科学性和实用性。
+
+本研究中温带森林草地的年均NPP为 $6 1 2 . 2 7 \ \mathrm { g }$ $\mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ,与陶波等[21]对落叶阔叶林的估算值 $6 2 4 { \mathrm { ~ g ~ } }$ $\mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 、Prince等[22]估算的林草地NPP年均值、张海龙[23]和刘广[24]对针阔混交林的估算值都较为接近。萨王纳草地的年均值为 $6 4 0 . 2 9 \textrm { g C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ，与陶波等[21]估算的灌丛类年均值 $6 4 8 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 较为接近。而本文估算的冷荒漠类草地年均值为$1 4 1 . 2 6 \textrm { g C } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ 高于李贵才[25]估算的结果,热荒漠带草地年均值也高于其他研究者的模拟值。就与其他研究者的NPP估算结果比较来看，不同草地类型之间均存在一定的差异。究其原因，可能是不同研究采用的分类体系、估算模型和研究时间段均不一样。在本研究中，基于CSCS分类参数估算草地植被NPP的方法能为草地NPP的深入探讨提供新的思路。
+
+目前，大量的研究聚焦于草地类型的划分[8-9]但是，各地的生态和经济条件、生产力水平、以及对草地分类认知的不同导致草地生态系统的分类原则和方法存在较大差异。CSCS是对理想条件下的潜在草地类的划分，涵盖了草原、森林、冻原和荒漠等所有陆地景观的植被分类系统[8]。同时模型中数据种类和精度的限制为模型的精确估算带来了困难[26]。如气象数据只能利用研究地点附近气象站的常规监测数据、遥感数据分辨率较低，缺乏与实测数据的比较验证等。为了克服气象站点不足的困扰，空间插值方法常被用于将点状分布的观测数据拓展成参数层面[27]。然而，空间插值法会造成估计值和实际值的误差。建立算法由遥感数据反演得到相应的输入参数可一定程度减小这种误差[28]。同样，为了提高模型估算的精度，需要利用相同分辨率的遥感数据处理尺度转换带来的误差。
+
+本研究的敏感性分析表明，降水量和 $K$ 值对NPP的影响程度相同。草地NPP对NDVI最敏感，其次为Σθ、K和降水量，最不敏感的为太阳辐射。目前国内外对草地NPP的敏感性研究较少见。研究进行中国陆地植被NPP对各影响因子的敏感性试验过程中发现，温度是对植被生长产生显著影响的气候因子，降水量是对植被NPP变化起主导作用的气候因子[29]。在气候变化对中国半干旱草原生产力影响机理的研究当中，季劲钧等3发现温度升高或降低 $2 ^ { \circ } \mathrm { C }$ ，内蒙古半干旱草地年均NPP变化约$20 \%$ ；降水量变化 $5 0 \%$ ,草地年NPP改变 $3 7 \%$ 。韩其飞等[31研究同样表明干旱地区降水量是影响NPP的主要因子。本研究表明，中国草地年均NPP与太阳辐射相关性弱，与NDVI、 $\Sigma \theta , K$ 和降水量相关性强。草地NPP虽受水、热和NDVI这3个主导因子的综合影响,但其主导地位因时因地而不同[32]
+
+敏感性研究分析了草地NPP值对各影响因子
+
+# 干吴区地理
+
+变化的敏感程度，为未来草地NPP对气候变化的响应机制研究提供了参考依据。本研究敏感性分析是单参数变动下所做的分析，但实际中多个参数会同时发生变化。为更准确的分析草地NPP对各因子的敏感程度，可将几个因子同时发生相同幅度的变动后进行敏感性分析，比如要探讨草地NPP对温度的敏感性，降水量和NDVI2个参数可同时发生变化；探讨NPP对NDVI的敏感性时， $\Sigma \theta$ 、降水量、太阳辐射和NDVI等参数可同时增减相同的比率。CSCS以∑0和 $K$ 值为指标进行量化分类，而≥0和 $K$ 值对NPP值较为敏感，不同草地类型之间的NPP值当≥θ和 $K$ 值差异越大时其差异也越大。气候变化会导致草地∑0和 $K$ 值以及NPP值的变化，从而使草地类型发生改变。可见，草地NPP与草地类型的演替存在天然的内在关联。此外，本研究也使得草地产量的估算和草地分类实现了耦合。
+
+# 4结论
+
+（1）研究表明2004—2008年热带森林草地NPP年均值最高，为 $8 9 8 . 0 8 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ;其次为亚热带森林草地,年均值为 $7 8 4 . 2 6 \textrm { g C } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ ;冷荒漠草地年均值最低,仅为 $1 4 1 . 2 6 \textrm { g C } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ 。5a来，10个草地类组NPP值均呈上升趋势。第9类组（亚热带森林草地)增幅最大,增长率达 $3 8 . 2 \%$ 。其次第5类组(斯太普草地)增长率为 $3 3 . 8 \%$ ;第6类组(萨王纳草地)和第8类组(温带森林草地)气候环境接近，其增长幅度接近，均为 $2 8 \%$ 左右;增长幅度最小的为第7类组(温带湿润草地),增长率仅为 $1 4 . 3 \%$ 。
+
+（2）对CSCS草地类型的年均NPP进行系统聚类后可划分为3类。其中第1类NPP值较小，湿润度级较低但具有较高的热量级；第2类NPP值较高，因其湿润度级和热量级都较高，水热比适宜于草地植被的生长。结果表明CSCS用 $K$ 和∑0来划分草地类型的科学性和实用性。
+
+（3）相关性分析显示2004—2008年草地年均NPP与∑θ呈显著负相关，与年均降水量和 $K$ 值显著正相关，与太阳辐射亦呈正相关，但相关性较小。其中草地NPP与 $K$ 值的相关性最大，即表明湿润度$K$ 对中国草地NPP的影响最为显著。NPP对降水量 $\mathbf { \Omega } _ { \setminus K }$ 和NDVI均不存在滞后期，对太阳辐射和∑0存在滞后，NPP对太阳辐射和 $\Sigma \theta$ 的响应分别滞后1个
+
+月、2个月。
+
+（4）通过敏感性分析得出草地类组NPP平均值对NDVI最敏感，其次为 $\Sigma \theta , K$ 和降水量，敏感性最弱的为太阳辐射。而对太阳辐射敏感性最高和最低的草地类组分别是温带森林草地和半荒漠草地，对降水量( $K$ 值)最敏感的是温带森林草地，其次是冻原高山草地，最不敏感的是半荒漠草地。温带森林草地对积温的变化也最敏感。与降水量( $K$ 值)和∑0相比，不同类组的草地NPP对太阳辐射的敏感性最小。草地NPP对CSCS量化分类的标准∑0和 $K$ 较为敏感，表明改进CASA模型在一定程度上实现了CSCS与草地生产力的耦合。
+
+# 参考文献(References)
+
+[1]Hicke JA,Asner G P,Randerson JT,et al.Trends in north American net primary productivity derived from satellite observations,   
+1982—1998[J].Global Biogeochemical Cycles，2002,16(2):   
+1019-1040. [2]Guid A, Varela R D, Baldassni P,et al. Spatial and temporal variability in aboveground net primary production of Uruguayan grasslands[J]. Rangeland Ecology & Management, 2O14,67: 30-38. [3]Potter C,Klooster S, Genovese V.Net primary production of terrestrial ecosystems from 2000 to 2009[J]. Climatic Change,2012,   
+115: 365-378. [4]Haverd V,Raupach MR,Briggs PR,et al. Multiple observation types reduce uncertainty in Australia's terrestrial carbon and water cycles[J]. Biogeosciences,2013,10: 2011-2040. [5]Foley JA.Numerical models of the terrestrial biosphere[J]. Journal of Biogeography,1995,22: 837-842. [6] Xing X,Xu X, Zhang X. Simulating net primary production of grasslands in northeastern Asia using MODIS data from 2000 to   
+2005[J]. Journal of Geography Science,2010,20(2): 193-204. [7]高清竹,万运帆,李玉娥,等.基于CASA模型的藏北地区草地 植被净第一性生产力及其时空格局[J].应用生态学报,2007,   
+18(11): 2526-2532.[Gao Qingzhu,Wan Yunfan,Li Yu'e,et al. Grassland net primary productivity and its spatiotemporal distribution in northern Tibet:A study with CASA model[J].Chinese Journal of Applied Ecology,2007,18(11): 2526-2532.] [8]Ren J Z,Hu Z Z, Zhao J,et al.A grassland classification system and its application in China[J]. The Rangeland Journal,2O08,30:   
+199-209. [9]任继周.分类、聚类与草原类型[J].草地学报,2008,16(1):4-   
+10.[Ren Jizhou. Classfication and cluster applicable for grassland type[J].Acta Agrestia Sinica,2008,16(1): 4-10.] [10] 梁天刚,冯琦胜,黄晓东,等.草原综合顺序分类系统研究进展 [J].草业学报,2011,20(5):252-258.[Liang Tiangang,Feng Qisheng,Huang Xiaodong, et al. Review in the study of comprehensive sequential classification system of grassland[J]. Acta Agrestia Sinica,2011,20(5): 252-258.]   
+[11] 张美玲,陈全功,蒋文兰,等.基于草原综合顺序分类的改进 CASA 模型[J].中国草地学报,2011,33(4):5-11.[Zhang Meiling,Chen Quangong,Jiang Wenlan,et al.An improved CASA model basedoncompreensiveandsequentialclassicationsystem of grassands[J]. Chinese Journal of Grassland, 2011,33(4): 5- 11.]   
+[12] 张美玲,蒋文兰,陈全功,等.基于改进的CASA模型模拟草原 综合顺序分类体系各类的最大光能利用率[J].草原与草坪, 2012,32(4): 6O-66. [Zhang Meiling,Jiang Wenlan, Chen Quangong, et al.Use improved CASA model to estimate the maximum light use efficiency of class in grassland comprehensive and sequential classification system[J]. Grassland and Turf,2012,32(4): 60-66.]   
+[13] Stow D, Hope A,Mcguire D,et al. Remote sensing of vegetation andland-cover change in Arctic Tundra Ecosystems[J].Remote Sens ing of Environment,2004,89: 281-308.   
+[14] Cenk D,Suha B,Paul JC. Modelling the current and future spatial distribution of NPP in a Mediterranean watershed[J]. International Journal of Applied Earth Observation and Geoinformation,2011, 13: 336-345.   
+[15]PrivetteJL,MyneniRB,Emery WJ,etal.Optimalsamplingonditions for estimating grassland parameters via reflectance model inversions[J]. IEEE Transactions on Geoscience and Remote Sensing, 1996,34(1): 272-284.   
+[16] 侯英雨,柳钦火,延昊,等.我国陆地植被净初级生产力变化规 律及其对气候的响应[J].应用生态学报,2007,18(7):1546- 1553.[Hou Yingyu, Liu Qinhuo,Yan Hao,et al.Variation trends of China terrestrial vegetation net primary productivity and itsresponses to climate factors in 1982—2000[J]. Chinese Journal of Applied Ecology,2007,18(7): 1546-1553.]   
+[17] 穆少杰,李建龙,陈奕兆,等.2001—2010年内蒙古植被覆盖度 时空变化特征[J].地理学报,2012,67(9):1255-1268.[Mu Shaojie,Li Jianlong,Chen Yizhao,et al.Spatial differences of variations of vegetation coverage[J]. Acta Geographica Sinica,2012, 67 (9): 1255-1268.]   
+[18] 许洁,陈惠玲,商沙沙,等.2000—2014年青藏高原植被净初级 生产力时空变化及对气候变化的响应[J].干旱区地理,2020, 43(3): 592-601.[Xu Jie, Chen Huiling,Shang Shasha,et al. Response of net primary productivity of Tibetan Plateau vegetation to climate change based on CEVSA model[J].Arid Land Geography, 2020,43(3): 592-601.]   
+[19] 秦景秀,郝兴明,张颖,等.气候变化和人类活动对干旱区植被 生产力的影响[J].干旱区地理,2020,43(1):117-125.[Qin Jingxiu,Hao Xingming,Zhang Ying,et al.Effects of climate change and human activities on vegetation productivity in arid areas[J]. Arid Land Geography,2020,43(1): 117-125.]   
+[20] 赵东升,吴绍洪,尹云鹤.气候变化情景下中国自然植被净初级 生产力分布[J].应用生态学报,2011,22(4):897-904.[Zhao Dongsheng,Wu Shaohong,Yi Yunhe.Variation trends of natural vegetation net primary productivity in China under climate change scenario[J]. Chinese Journal of Applied Ecology,2011,22(4): 897- 904.]   
+[21] 陶波,曹明奎,李克让,等.1981—2000年中国陆地净生态系统 生产力空间格局及其变化[J].中国科学.D辑:地球科学,2006, 36(12): 1131-1139.[Tao Bo, Cao Mingkui,Li Kerang,et al. Spatial pattern and it change of net ecosystem production in China from 1981 to 2000[J]. Science China Earth Sciences,2006,36 (12): 1131-1139.]   
+[22]Prince S D,Goward S N. Global primary production: A remote sensing approach[J]. Journal of Biogeography,1995,22: 815-835.   
+[23] 张海龙.近五年来中国陆地植被净第一性生产力时空变化特征 分析[D].南京:南京师范大学,2006.[Zhang Hailong.The feature analysis on China's terrestrial NPP spatial-temporal change in recent five years[D].Nanjing: Nanjing Normal University,2006.]   
+[24] 刘广.京津冀地区森林植被净初级生产力遥感估算研究[D].北 京:北京林业大学,2008.[Liu Guang.Estimation of forest net primaryproductionof Jing-Jin-Ji region based onremote sensing [D]. Beijing: Beijing Forestry University,2008.]   
+[25] 李贵才.基于MQDIS 数据和光能利用率模型的中国陆地净初 级生产力估算研究[D].北京:中国科学院遥感应用研究所， 2004.[Li Guicai.Estimationofchieseterestrialnet primarproduction using LUE model and MODIS data[D]. Beijing: Institute of Remote Sensing Applications,Chinese Academy of Sciences, 2004.]   
+[26] 王松,耿元波,母悦.典型草原净初级生产力对气候变化响应的 模拟[J].草业学报,2016,25(12): 4-13.[Wang Song,Geng Yuanbo,Mu Yue.Responses of aboveground net primary productivity of the typical steppe to climate change: A simulation based on the CENTURY model[J]. Acta Agrestia Sinica,2016,25(12): 4-13.]   
+[27]Eisfelder C,Klein I,Niklaus M,et al.Net primary productivity in Kazakhstan,its spatio-temporal patterns and relation to meteorological variables[J]. Journal of Arid Environments,2014,103:17-30.   
+[28] Zhang ML,Lal R,Zhao Y Y,et al.Estimating net primary production of natural grassland and its spatio-temporal distribution in China[J]. Science of the Total Environment,2016,553:184-195.   
+[29] 黄珪.中国陆地植被NPP对气候变化响应及其敏感性分析[D]. 南京:南京信息工程大学,2011.[Huang Yu.Response of vegetation net primary (NPP) to climate change in China and sensitivity experiments[D]. Nanjing: Nanjing University of Information Science & Technology,2011.]   
+[30] 季劲钧,黄玫,刘青.气候变化对中国中纬度半干旱草原生产力 影响机理的模拟研究[J].气象学报,2005,63(3):257-266.[Ji Jinjun,Huang Mei,Liu Qing. Modeling studies of response mechanism of steppe productivity to climate change in middle latitude semiarid regions in China[J]. Acta Meteorologica Sinica,2005,63 (3): 257-266.]
+
+# 干旱区地理
+
+[31]韩其飞,陆研,李超凡.气候变化对中亚草地生态系统碳循环的影响研究[J].干旱区地理,2018,41(6):1351-1357.[HanQifei,Lu Yan,Li Chaofan.Impact of climate change on grassland carboncycling in Central Asia[J].Arid Land Geography,2O18,41(6):
+
+1351-1357.]
+
+[32]Lagergren F,Grelle A,Lankreijer H,etal.Current carbon balance of the forested area in Sweden and its sensitivity to global change as simulated by Biome-BGC[J]. Ecosystems,2006,9: 894-908.
+
+# Simulation and sensitivity analysis of net primary productivity(NPP) of different grassland types
+
+ZHANG Meiling'， CHEN Quangong²， JIANG Wenlan34
+
+(1.CenterforQuantitativeiologyCollgeofiene,GansuAgriculturalUniversityLanzhou30,Gansu,China;.e   
+ofPastoralAgricultureienceandchnology,LanzhouUniversityLanzhou3OoO,Gansu,China;3.Collgeofrataculre Gansu Agricultural University,Lanzhou 73oo7o,Gansu, China;4.Cold and Arid Regions Environmentsand Engineering Research Institute,Chinese Academy of Sciences,Lanzhou 73oooo,Gansu, China）
+
+Abstract: As a major chalenge to the sustainable development of human society,climate change has attracted increasing attntion from the international community.Global climate change significantly affects grassland ecosystems. Quantitative asessment of regional and grassland ecosystem productivity and its sensitivity to climate change could provide basic data on and a theoretical basis for grassland ecosystems adapting to future climate change. The grassland integrated comprehensive sequential classification system (CSCS） divides the natural grassland into 42 classs and aggregates them into 10 super-classes. Using the improved Carnegie-AmesStanford Approach (CASA) model, we simulated the net primary productivity (NPP) of natural grassands in China from 2004 to 2008.A system clustering analysis was also conducted based on the annual average NPP of grassland classes to analyze NPPcorelationand sensitivity and its influencing factors.The results show that the NPP showed an increase from 2004 to 2008 for all grassand super-classes.The subtropical forest rapidly increased by $3 8 . 2 \%$ . The temperate humid grassland slowly increased by $14 . 3 \%$ . The 41 grassland classes of China were clustered into three groups.The NPPof group 1 was low for its low wetness level and high heat level. Group 2 had high NPP for its high wetness and heat level and a suitable moisture and temperature ratio. Others were in group 3.The results indicate that the grassand NPP distribution pattern is related to the wetness and heat level in CSCS.There exists a significant correlation between the annual NPP and annual accumulated temperature greater than zero $( \Sigma \theta )$ ，annual precipitation，wetness $( K )$ ，and normalized difference vegetation index (NDVI). The correlation between annual NPP and solar radiation was the weakest. NDVI was the most sensitive variable to grassland NPP in China, simulated by the improved CASA model in this study, followed by $\Sigma \theta$ $K \cdot$ values, precipitation, and solar radiation. $K$ -values and $\Sigma \theta$ were used for quantitative classfication in CsCS,and these two parameters were sensitive to NPP.This study completed the coupling of CSCS and grassland NPP to a certain extent.
+
+Key Words: net primary productivity (NPP)； improved CASA model; grassland types; clustering analysis； sen-sitivity analysis

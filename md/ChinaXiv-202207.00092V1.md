@@ -1,0 +1,144 @@
+# 社区老年人运动认知风险综合征现状及影响因素分析
+
+杨存美la舒刚明la胡亦新la'd 马虹颖la 李佳黛la张天一1b毛鑫²吴冰lc闫瑾lc李天志ld
+
+作者单位：1解放军总医院：a第二医学中心保健四科；b医院管理研究所；c研究生队；d第二医学中心，国家老年疾病临床医学研究中心北京，100853；2北京大学第三医院放射科 北京，100191)
+
+通信作者：舒刚明，E-mail，13520013003@139.com
+
+【摘要】目的了解社区老年人运动认知风险综合征(MCR)发生情况并分析其影响因素。方法 采用便利抽样法，选择 2019 年1月—2022 年1月对北京市某社区老年人1054 例进行调查，经纳入及排除标准筛选后选择459例老年人为研究对象，根据主观认知下降及步速下降评估标准，将研究对象分为MCR组、非MCR组。采用自设问卷收集患者人口学资料、生理因素、心理因素、生活方式、营养及疾病史、用药史状况；采用Barthel指数评定量表评估日常生活能力、Lawton-IADL量表评估工具性日常生活能力、简版老年抑郁量表(GDS-15)评估抑郁状态、广泛焦虑自评量表(GAD-7）评估焦虑状态、微型营养评定简表(MNA-SF)评定营养状态。采用单因素分析、多因素二项Logistic 回归分析对发生MCR 的影响因素进行探讨。结果459例社区老年人发生MCR125例 $( 2 7 . 2 \%$ ），非MCR334例 $( 7 2 . 8 \% )$ 。二项Logistic 回归分析结果显示，年龄、日常生活能力、工具性日常生活能力、高体力活动、高血压、卒中/TIA、焦虑情况是社区老年人发生MCR 的影响因素 $( \mathbf { P } { < } 0 . 0 5 )$ 。结论社区老年人MCR发生率较高，社区医护人员应对社区老年人进行MCR筛查并分析影响因素，协助控制慢性病并建立健康的生活方式，从而改善患者认知情况。
+
+【关键词】老年人；运动认知风险综合征基金项目：军队保健专项课题（20BJZ30）
+
+# Analysis on the current situation and influencing factors of motoric cognitive risk syndrome in the elderly in community
+
+Yang Cunmei laShu Gangming laHu Yixinla' d Ma Hongyingla Li Jiadai la Zhang
+
+TianyilbMao Xin² Wu Bing lc Yan jinlcLi Tianzhild
+
+Author seting: 1. PLA General Hospital: a The Fourth Department of health care of the second medical center; b Institute of hospital management; c Postgraduate team; d The second medical center,National Clinical Research Center for geriatric diseases, Beijing,1Oo853; 2 Department of Radiology, the Third Hospital of Peking University, Beijing,100191)
+
+[Abstract] ObjectiveTo understand the occurrence of motoric cognitive risk syndrome (MCR) among the elderly in community and analyze its influencing factors.MethodsUsing the convenient sampling method,1054 elderly people in a community in Beijing were investigated from January 2O19 to January 2O22，after screening by inclusion and exclusion criteria, 459 elderly people were selected as the research objects， according to the evaluation criteria of subjective cognitive decline and gait decline, the research objects were divided into MCR group and non MCR group.A self-designed questionnaire was used to collect the demographic data,
+
+physiological factors,psychological factors,lifestyle, nutrition,disease history and medication history of patients; Barthel index rating scale was used to evaluate the ability of daily living, Lawton IADL scale was used to evaluate the instrumental ability of daily living, simplified Geriatric Depression Scale (GDS-15) was used to evaluate the state of depression, GAD-7 was used to evaluate the state of anxiety,and MNA-SF was used to evaluate the state of nutrition. Univariate analysis and multivariate binomial logistic regression analysis were used to explore the influencing factors of MCR. ResultsThere were 25 cases $( 2 7 . 2 \% )$ of MCR and 334 cases $( 7 2 . 8 \% )$ of non MCR in 459 community elderly. The results of binomial logistic regression analysis showed that age, ADL,instrumental ADL, high physical activity, hypertension, stroke / TIA and anxiety were the influencing factors of MCR in the elderly in the community $( \mathbf { P } < 0 . 0 5 )$ ： ConclusionThe incidence of MCR in the elderly in the community is high. Community medical staff should screen the elderly in the community and analyze the influencing factors,so as to help control chronic diseases and establish a healthy lifestyle, so as to improve the cognition of patients.
+
+[Keywords] The elderly;Motor cognitive risk syndrome Fund Project: Special project of military health care (2Objz30)
+
+随着老龄化社会的不断加速，痴呆成为严重威胁老年人生活质量的疾病之一，目前尚无特效药和特殊治疗方案，早期诊断、早期预防尤为重要[1-3]。近年来，较多的研究也表明在痴呆前期表现和早期干预中主观认知下降和步态异常均为重要的筛查及干预窗口[4-6]。运动认知功能减退综合征(Motoric Cognitive Risksyndrome，MCR)是指在没有行动障碍或痴呆的老年人中同时存在主观认知下降和步态缓慢，是一种高风险的临床综合征，可导致老年人跌倒[7]、住院[8]、残疾[9]、死亡[10]等不良事件的风险增加，能有效预测老年人痴呆的发生[1]。早期对老年人群进行MCR 筛查，确定危险因素，对控制老年人群痴呆及相关不良健康事件的发生具有重要意义[12]。目前我国对于MCR 领域的研究尚处于起步阶段，大规模的流行病学研究较少，关于MCR的干预研究也尚处于空白。因此，本研究对社区老年人进行MCR 筛查，从人口学资料、生理、心理、生活方式、营养、疾病史、用药史等角度综合对影响因素进行分析，以期明确此类老年人发生MCR的危险因素，为提供有效的早期干预策略提供参考。
+
+# 1.对象与方法
+
+1.1研究对象本研究为横断面研究，数据来源于一项对社区老年人的长期队列研究，于 2019 年1月—2022年1月期间对北京市某社区1042 例老年人进行调查，经纳入及排除标准筛选后最终纳入符合本研究患者459例。
+
+纳入标准：（1）年龄 $\scriptstyle \sum 6 0$ 岁，可以与调查者进行正常沟通，在调查者告知本调查目的后自愿加入者；（2）主观认知下降评估：使用简版老年抑郁量表(GDS-15)中的有关记忆的问题的筛选[13]：“你是否觉得记忆力比大多数人差?”，肯定回答“是”，同时使用蒙特利尔认知评估基础量表中文版(MontrealCognitiveAssessment-Basic，MoCA-B)对老年人进行认知评估， $6 0 \sim 7 9$ 岁、 $8 0 \sim 8 9$ 岁、90 岁及以上主观认知下降与认知障碍界值分别为25分、24分、23分，高于界值者视为存在主观认知下降[14]；（3）步速下降评估：采用 $6 \mathrm { m }$ 步速测定法进行评估，共测量2次，以耗时较短1次记录，步速 ${ \leq } 0 . 8 \mathrm { m / s }$ 为步速下降[15]。同时存在主观认知下降和步速缓慢的研究对象为MCR组，其余为非MCR 组。
+
+排除标准：（1）MoCA评分怀疑存在AD及轻度认知障碍者；（2）失去自理能力长期需要护理或陪护依赖者；（3）既往髋部骨折或曾做过髋关节假体置换术者；（4）同时合并其他可引发认知功能受损的急性或慢性神经系统退行性疾病，如：急性脑血管病事件者、癫痫、帕金森病、额颞叶痴呆者；（5）既往患有严重的焦虑症、抑郁症或其他精神疾病及严重精神症状者；（6）听力、视力严重下降者及严重失语者。本研究获得所有研究对象知情同意并签署知情同意书，经中国人民解放军总医院研究伦理委员会批准(伦理编号:S2018-102-02），并已在中国临床试验注册中心登记(CHCTR；注册号:ChiCTR900022576）。
+
+# 1.2研究方法
+
+1.2.1研究工具本研究自行设计问卷。内容包括（1）人口学资料：年龄、性别、文化程度、婚姻状况。（2）生理因素：体重指数（BMI）、视力、听力是否下降、日常生活能力（Activity ofDailyLiving，ADL）：使用Barthel指数评定量表，该量表是目前应用最广泛的评定患者日常生活能力的工具[16,包括排便控制、排尿控制、修饰、如厕、进食、洗澡、穿衣、床椅转移、平地行走、上下楼梯10个条目，总分为100分，分值越高老年人独立性越好，量表Cronbach's $\mathfrak { a }$ 系数为0.946；工具性日常生活活动能力（Instrumental activities of daily living scale,IADLs）[17]：使用 Lawton-IADL 量表，该量表包括打电话、购物、食物烹调、做家务、洗衣服、外出、服药、处理财务8项，总分为8分，分值越高，老年人独立性越强。（3）心理因素：使用简版老年抑郁量表（Short form geriatric depressionscale,GDS-15)评估老年人抑郁情况：该量表共15个条目回答均由"是/否”组成，得分为 $0 \mathord { \sim } 1 5$ 分， $\geqslant 5$ 分为有抑郁症状[18]；使用广泛焦虑自评量表（GeneralizedAnxietyDisorderQuestionnaire,GAD-7）评估焦虑情况，该量表共包含7个条目，$\geqslant 5$ 分为有焦虑症状[9。（4）生活方式：是否饮酒（从不饮酒为不饮酒，过去半年内每个月至少饮酒1次为饮酒）、是否吸烟（吸烟半年以上且过去30d吸过烟为吸烟人群）、运动种类、每周运动时长（女性每周运动时长 $< 1 2 0 \mathrm { m i n }$ 、男性每周运动时长 $< 1 5 0 \mathrm { m i n }$ 为低体力活动）[20]。（5）营养评估：使用微型营养评定简表(Mini Nutritional Assessment Short Form,MNA-SF)，该量表共包含 6 个条目,总分14 分，得分越高，营养状况越好[21]。（6）疾病史：统计老年人患慢性病总数及单病种情况（高血压、冠心病、慢性心力衰竭、心律失常、高脂血症、脑卒中、多发腔隙性脑梗死/TIA短暂脑缺血发作、慢性肺病、消化系统疾病、2型糖尿病、外周动脉病、慢性肾脏病、结缔组织病/风湿病、肿瘤、膝部关节炎、近2年骨折史、眼部疾病、口腔疾病）。（7）用药史；统计老年人目前服用药物种类，同时使用5种及以上药物者视为多重用药[22]。
+
+1.2.2质量控制方法为保证本研究结果的准确及有效性，实施质量控制措施包括：（1）调查前充分解释本研究的目的、方法、意义，确保老年人知情同意;（2）调查者经过统一培训及考核，充分掌握量表内容、测评和实施方法；（3）测评后双人复核调查问卷及录入数据，保证数据录入的准确无误。
+
+1.2.3 统计学方法采用 SPSS 26.0 统计软件进行数据处理。正态分布的计量资料采用均数 $\pm$ 标准差（ $\overline { { x } } \pm s )$ 表示，计数资料用频数和百分比 $( \% )$ ）表示。将人群按照是否发生MCR分为MCR与非MCR组，计量资料组间比较用 $t$ 检验，计数资料组间比较采用 $\chi ^ { 2 }$ 检验。采用二项Logistic回归分析与MCR发生相关的影响因素， $\mathrm { ~ P ~ } { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2.结果
+
+2.1基本情况本研究共纳入老年人459 例，年龄61\~99 岁,平均 $\left( 8 2 . 2 5 { \pm } 7 . 6 0 \right)$ 岁；MoCA总分23\~30分，平均（ $2 6 . 2 4 { \scriptstyle \pm 1 . 8 7 }$ ）分；男254例 $( 5 5 . 3 \% )$ 、女205例（204号 $( 4 4 . 7 \%$ )；文化程度：初中及以下61例 $( 1 3 . 3 \%$ ），高中/中专112 例 $( 2 4 . 4 \%$ ），大专110例 $( 2 4 . 0 \%$ )，大学及以上176（ $3 8 . 8 \%$ ）；有配偶339例 $( 7 3 . 9 \% )$ ，无配偶120例 $( 2 6 . 1 \% )$ 。
+
+2.2社区老年人MCR现状459例老年人中MCR患者125例 $( 2 7 . 2 \%$ ), MoCA得分平均 （ $2 5 . 7 9 { \scriptstyle \pm 2 . 0 1 }$ ）分，平均步速（ $\mathrm { 0 . 6 2 { \pm } 0 . 1 4 \ ) \ m / s }$ ；非 MCR 患者 334 例,MoCA得分平均（ $2 6 . 4 0 { \scriptstyle \pm 1 . 7 9 } _ { \scriptstyle }$ ）分；平均步速（ $1 . 0 9 { \pm } 0 . 1 9 \ \mathrm { m } /$ S。
+
+2.3 MCR 影响因素单因素分析年龄、日常生活能力（Barthel指数-ADL）、工具性日常生活活动能力（Lawton-IADL）、每周运动时长、焦虑、营养、高血压、心衰、心律失常、卒中/TIA、多发性腔梗、糖尿病、周围血管病、肿瘤、骨关节炎、骨折史、眼病、口腔疾病、多重用药是否发生MCR的影响因素（ $\cdot \mathbf { P } <$ 0.05）。见表1。
+
+表1运动认知风险综合征影响因素单因素分析  
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="2">否</td><td colspan="2">是</td><td rowspan="2">T/X²</td><td rowspan="2">P</td></tr><tr><td>人数</td><td>构成比</td><td>人数</td><td>构成比</td></tr><tr><td>年龄 (岁)</td><td></td><td>(%） 80.71+7.83</td><td></td><td>(%） 86.36+5.14</td><td>0.950</td><td><0.001</td></tr><tr><td>性别</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>男</td><td>183</td><td>72.0</td><td>71</td><td>28.0</td><td rowspan="2">0.149</td><td rowspan="2">0.700</td></tr><tr><td>女</td><td>151</td><td>73.7</td><td>54</td><td>26.3</td></tr><tr><td>文化程度</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>大学及以上</td><td>137</td><td>77.8</td><td>39</td><td>22.2</td><td></td><td></td></tr><tr><td>专科</td><td>73</td><td>66.4</td><td>37</td><td>33.6</td><td>5.329</td><td>0.149</td></tr><tr><td>高中或中专</td><td>78</td><td>69.6</td><td>34</td><td>30.4</td><td></td><td></td></tr><tr><td>初中及以下</td><td>46</td><td>75.4</td><td>15</td><td>24.6</td><td></td><td></td></tr><tr><td>婚姻状况</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>有配偶</td><td>254</td><td>74.9</td><td>85</td><td>25.1</td><td>3.051</td><td>0.081</td></tr><tr><td>无配偶</td><td>80</td><td>66.7</td><td>40</td><td>33.3</td><td></td><td></td></tr><tr><td>视力下降</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>否</td><td>91</td><td>68.90</td><td>41</td><td>31.10</td><td>1.370</td><td>0.242</td></tr><tr><td>是</td><td>243</td><td>74.30</td><td>84</td><td>25.70</td><td></td><td></td></tr><tr><td>听力下降</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>否</td><td>119</td><td>68.40</td><td>55</td><td>31.60</td><td>2.708</td><td>0.100</td></tr><tr><td>是</td><td>215</td><td>75.40</td><td>70</td><td>24.60</td><td></td><td></td></tr><tr><td>BMI</td><td></td><td>24.13±3.98</td><td>24.12±3.44</td><td></td><td>0.025</td><td>0.972</td></tr><tr><td>Barthel指数-</td><td></td><td>97.10±6.86</td><td>90.80±9.16</td><td></td><td>7.949</td><td><0.001</td></tr><tr><td>ADL</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lawton-IADL</td><td></td><td>7.78±0.75</td><td></td><td>6.60 ±1.89</td><td>0.95</td><td><0.001</td></tr></table></body></html>
+
+<html><body><table><tr><td>是否吸烟</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>香 是</td><td>321</td><td>72.3</td><td>123</td><td>27.2</td><td>0.874</td><td>0.350</td></tr><tr><td></td><td>13</td><td>86.7</td><td>2</td><td>13.3</td><td></td><td></td></tr><tr><td>是否饮酒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>香</td><td>203</td><td>74.9</td><td>68</td><td>25.1</td><td>1.530</td><td>0.216</td></tr><tr><td>是</td><td>131</td><td>69.7</td><td>57</td><td>30.3</td><td></td><td></td></tr><tr><td>每周运动时长</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>低体力活动</td><td>69</td><td>56.6</td><td>53</td><td>43.4</td><td>22.032</td><td><0.001</td></tr><tr><td>高体力活动</td><td>256</td><td>78.6</td><td>72</td><td>21.4</td><td></td><td></td></tr><tr><td>运动种类</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0</td><td>57</td><td>65.5</td><td>30</td><td>23.7</td><td></td><td></td></tr><tr><td>1-2种</td><td>254</td><td>73.6</td><td>91</td><td>26.4</td><td>4.536</td><td>0.104</td></tr><tr><td>≥3种</td><td>23</td><td>85.2</td><td>4</td><td>14.8</td><td></td><td></td></tr><tr><td>抑郁</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>316</td><td>73.5</td><td>114</td><td>26.5</td><td></td><td>0.181</td></tr><tr><td>有</td><td>18</td><td>62.1</td><td>11</td><td>37.9</td><td>1.788</td><td></td></tr><tr><td>焦虑</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>294</td><td>74.4</td><td>101</td><td>25.6</td><td></td><td></td></tr><tr><td>有</td><td>40</td><td>62.5</td><td>24</td><td>37.5</td><td>3.956</td><td>0.047</td></tr><tr><td>营养</td><td colspan="2">13.19+1.27</td><td colspan="2">12.78+1.56</td><td>2.627</td><td>0.009</td></tr><tr><td>疾病总数</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>16</td><td>84.2</td><td>3</td><td>15.8</td><td></td><td></td></tr><tr><td>3-4</td><td>19</td><td>76.0</td><td>6</td><td>24.0</td><td>1.514</td><td>0.469</td></tr><tr><td>≥5</td><td>298</td><td>72.0</td><td>116</td><td>28.0</td><td></td><td></td></tr><tr><td>高血压</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>120</td><td>80.5</td><td>29</td><td>19.5</td><td>6.721</td><td>0.010</td></tr><tr><td>有</td><td>214</td><td>69.0</td><td>96</td><td>31.0</td><td></td><td></td></tr><tr><td>冠心病</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>201</td><td>74.2</td><td>70</td><td>25.8</td><td>0.657</td><td>0.418</td></tr><tr><td>有</td><td>133</td><td>70.7</td><td>55</td><td>29.3</td><td></td><td></td></tr><tr><td>心衰</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>330</td><td>74.0</td><td>116</td><td>26.0</td><td>11.908</td><td>0.001</td></tr><tr><td>有</td><td>4</td><td>30.8</td><td>9</td><td>69.2</td><td></td><td></td></tr><tr><td>心律失常</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>243</td><td>76.4</td><td>75</td><td>23.6</td><td>6.953</td><td>0.008</td></tr><tr><td>有</td><td>91</td><td>64.5</td><td>50</td><td>35.5</td><td></td><td></td></tr><tr><td>高脂血症</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>146</td><td>73.4</td><td>53</td><td>26.6</td><td>0.064</td><td>0.801</td></tr><tr><td>有</td><td>188</td><td>72.3</td><td>72</td><td>27.7</td><td></td><td></td></tr><tr><td>卒中/TIA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>300</td><td>77.3</td><td>88</td><td>22.7</td><td>26.236</td><td><0.001</td></tr><tr><td>有</td><td>34</td><td>47.9</td><td>37</td><td>52.1</td><td></td><td></td></tr><tr><td>多发性腔梗</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>312</td><td>74.1</td><td>109</td><td>25.9</td><td>4.624</td><td>0.032</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td>16</td><td>42.1</td><td></td><td></td></tr><tr><td>有 慢性肺病</td><td>22</td><td>57.9</td><td></td><td></td><td></td><td></td></tr><tr><td>否</td><td>286</td><td>73.70%</td><td>102</td><td>26.30%</td><td></td><td></td></tr><tr><td>是</td><td>48</td><td>67.60%</td><td>23</td><td>32.40%</td><td>1.129a</td><td>0.288</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>哮喘</td><td>328</td><td>73.40%</td><td>119</td><td>26.60%</td><td></td><td></td></tr><tr><td>否</td><td>6</td><td></td><td></td><td></td><td>2.151</td><td>0.142</td></tr><tr><td>是</td><td></td><td>50.00%</td><td>6</td><td>50.00%</td><td></td><td></td></tr><tr><td>消化病</td><td>223</td><td></td><td></td><td>25.20%</td><td></td><td></td></tr><tr><td>香</td><td>111</td><td>74.80%</td><td>75 50</td><td>31.10%</td><td>1.829</td><td>0.176</td></tr><tr><td>是</td><td></td><td>68.90%</td><td></td><td></td><td></td><td></td></tr><tr><td>糖尿病</td><td>258</td><td></td><td></td><td>24.30%</td><td></td><td></td></tr><tr><td>香</td><td>76</td><td>75.70%</td><td>83 42</td><td>35.60%</td><td>5.602</td><td>0.018</td></tr><tr><td>是</td><td></td><td>64.40%</td><td></td><td></td><td></td><td></td></tr><tr><td>周围血管病</td><td>325</td><td></td><td>111</td><td>25.50%</td><td></td><td></td></tr><tr><td>否</td><td>9</td><td>74.50%</td><td>14</td><td>60.90%</td><td>13.824</td><td><0.001</td></tr><tr><td>是</td><td></td><td>39.10%</td><td></td><td></td><td></td><td></td></tr><tr><td>肝脏疾病</td><td>313</td><td></td><td></td><td>26.90%</td><td></td><td></td></tr><tr><td>香</td><td>21</td><td>73.10%</td><td>115 10</td><td>32.30%</td><td>0.424a</td><td>0.515</td></tr><tr><td>是 肾脏疾病</td><td></td><td>67.70%</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>302</td><td></td><td>113</td><td>27.20%</td><td></td><td></td></tr><tr><td>香</td><td>32</td><td>72.80%</td><td>12</td><td>27.30%</td><td>0.000</td><td>0.995</td></tr><tr><td>是 前列腺增生</td><td></td><td>72.70%</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>273</td><td></td><td>103</td><td>27.40%</td><td></td><td></td></tr><tr><td>香</td><td>61</td><td>72.60%</td><td>22</td><td>26.50%</td><td>0.027</td><td>0.869</td></tr><tr><td>是 结缔组织病</td><td></td><td>73.50%</td><td></td><td></td><td></td><td></td></tr><tr><td>香</td><td>325</td><td></td><td>118</td><td>26.60%</td><td></td><td></td></tr><tr><td>是</td><td>9</td><td>73.40%</td><td>7</td><td>43.80%</td><td>2.282</td><td>0.131</td></tr><tr><td>肿瘤</td><td></td><td>56.30%</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>294</td><td></td><td>100</td><td>25.40%</td><td></td><td></td></tr><tr><td>香 是</td><td>40</td><td>74.60%</td><td>25</td><td>38.50%</td><td>4.818</td><td>0.028</td></tr><tr><td>骨关节炎</td><td></td><td>61.50%</td><td></td><td></td><td></td><td></td></tr><tr><td>香</td><td>243</td><td>76.20%</td><td>76</td><td>23.80%</td><td></td><td></td></tr><tr><td>是</td><td>91</td><td>65.00%</td><td>49</td><td>35.00%</td><td>6.132a</td><td>0.013</td></tr><tr><td>腰椎病</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>香</td><td>289</td><td>73.20%</td><td>106</td><td>26.80%</td><td></td><td></td></tr><tr><td>是</td><td>45</td><td>70.30%</td><td>19</td><td>29.70%</td><td>0.226a</td><td>0.634</td></tr><tr><td>颈椎病</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>香</td><td>315</td><td>73.60%</td><td>113</td><td>26.40%</td><td>2.210a</td><td>0.137</td></tr><tr><td>是</td><td>19</td><td>61.30%</td><td>12</td><td>38.70%</td><td></td><td></td></tr><tr><td>骨折史</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>否</td><td>312</td><td>74.10%</td><td>109</td><td>25.90%</td><td>4.624a</td><td>0.032</td></tr><tr><td>是</td><td>22</td><td>57.90%</td><td>16</td><td>42.10%</td><td></td><td></td></tr></table></body></html>
+
+骨质疏松  
+
+<html><body><table><tr><td>否</td><td>209</td><td>74.90%</td><td>70</td><td>25.10%</td><td rowspan="2">1.650a</td><td rowspan="2">0.199</td></tr><tr><td>是</td><td>125</td><td>69.40%</td><td>55</td><td>30.60%</td></tr><tr><td>痛风</td><td></td><td></td><td></td><td></td><td rowspan="2">0.413</td><td rowspan="2"></td></tr><tr><td>香</td><td>320</td><td>73.10%</td><td>118</td><td>26.90%</td></tr><tr><td>是</td><td>14</td><td>66.70%</td><td>7</td><td>33.30%</td><td></td><td>0.52</td></tr><tr><td>眼病</td><td></td><td></td><td></td><td></td><td rowspan="3">9.729</td><td rowspan="3">0.002</td></tr><tr><td>否</td><td>108</td><td>83.10%</td><td>22</td><td>16.90%</td></tr><tr><td>是</td><td>226</td><td>68.70%</td><td>103</td><td>31.30%</td></tr><tr><td>口腔疾病</td><td></td><td></td><td></td><td></td><td rowspan="3">3.872</td><td rowspan="3">0.049</td></tr><tr><td>否</td><td>322</td><td>73.70%</td><td>115</td><td>26.30%</td></tr><tr><td>是</td><td>12</td><td>54.50%</td><td>10</td><td>45.50%</td></tr><tr><td>多重用药</td><td></td><td></td><td></td><td></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>否（<5种）</td><td>332</td><td>73.30%</td><td>121</td><td>26.70%</td></tr><tr><td>是（≥5种）</td><td></td><td>33.30%</td><td>4</td><td>66.70%</td><td rowspan="2">4.771</td><td>0.029</td></tr><tr><td></td><td>2</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+4.MCR 影响因素的二项Logistic回归分析以是否发生MCR（非 $\scriptstyle \mathbf { M C R = 0 }$ $\mathbf { M C R = 1 } )$ )为因变量，将单因素分析结果有统计学意义的因素(计量资料原值输入，分类资料进行赋值，赋值情况见表2)作为自变量，同时将文化程度、婚姻状况、BMI、抑郁、吸烟史、饮酒史作为控制变量进行二项Logistic回归分析，结果显示，年龄、日常生活能力（Barthel指数-ADL）、工具性日常生活活动能力（Lawton-IADL）、每周运动时长、高血压、卒中/TIA、焦虑是发生MCR的独立影响因素（ $\scriptstyle \mathbf { P } < 0 . 0 5 .$ ），见表3。
+
+表2MCR老年人影响因素二项Logistic 回归分析自变量赋值  
+
+<html><body><table><tr><td>变量</td><td>赋值方式</td></tr><tr><td>每周运动时长</td><td>低体力活动=0高体力活动=1</td></tr><tr><td>焦虑</td><td>无=0，有=1</td></tr><tr><td>高血压</td><td>无=0，有=1</td></tr><tr><td>心衰</td><td>无=0，有=1</td></tr><tr><td>心律失常</td><td>无=0， 有=1</td></tr><tr><td>卒中/TIA</td><td>无=0, 有=1</td></tr><tr><td>多发性腔梗</td><td>无=0, 有=1</td></tr><tr><td>糖尿病</td><td>无=0，有=1</td></tr><tr><td>周围血管病</td><td>无=0，有=1</td></tr><tr><td>肿瘤</td><td>无=0，有=1</td></tr><tr><td>骨关节病</td><td>无=0, 有=1</td></tr><tr><td>骨折史</td><td>无=0，有=1</td></tr><tr><td>眼病</td><td>无=0，有=1</td></tr><tr><td>口腔疾病</td><td>无=0，有=1</td></tr><tr><td>多重用药</td><td>否=0, 是=1</td></tr></table></body></html>
+
+表3MCR 老年人影响因素二项Logistic 回归分析  
+
+<html><body><table><tr><td></td><td>回归系数</td><td>标准误差</td><td>Wald x2值</td><td>P值</td><td>OR值</td><td>95%置信区间</td></tr><tr><td>常量</td><td>0.164</td><td>3.187</td><td>0.003</td><td>0.959</td><td>1.178</td><td></td></tr><tr><td>年龄</td><td>0.08</td><td>0.024</td><td>11.44</td><td>0.001</td><td>1.083</td><td>1.034~1.134</td></tr><tr><td>Barthel指数-ADL</td><td>-0.049</td><td>0.02</td><td>5.889</td><td>0.015</td><td>0.952</td><td>0.914~0.991</td></tr><tr><td>Lawton-IADL</td><td>-0.474</td><td>0.127</td><td>13.985</td><td><0.001</td><td>0.623</td><td>0.486~0.798</td></tr><tr><td>高体力活动</td><td>-0.683</td><td>0.274</td><td>6.228</td><td>0.013</td><td>0.505</td><td>0.295~0.864</td></tr><tr><td>高血压</td><td>0.667</td><td>0.298</td><td>4.995</td><td>0.025</td><td>1.948</td><td>1.086~3.497</td></tr><tr><td>卒中/TIA</td><td>1.149</td><td>0.302</td><td>14.472</td><td><0.001</td><td>3.154</td><td>1.745~5.699</td></tr><tr><td>焦虑</td><td>0.893</td><td>0.352</td><td>6.439</td><td>0.011</td><td>2.442</td><td>1.225~4.866</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1社区老年人MCR发生率较高
+
+MCR作为一种新型的痴呆前期有效预测综合征，其相关研究在我国仍处于探索阶段，因评估标准及评估工具的不同，关于MCR发生率研究的结果也存在差异。本研究显示社区老年人MCR发生率为 $2 7 . 2 \%$ ，高于既往我国老年人群MCR发病率约为 $9 . 6 \% . . 1 2 . 7 \%$ 的研究 $[ 2 3 - 2 4 ]$ ，可能与本研究在筛选纳入人群时除老年人本身的主观认知下降主诉外，同时使用MoCA量表对老年人认知状况进行筛查，剔除了老年人群中怀疑为轻度认知障碍者，筛选条件更为严格及本研究纳入老年人年龄偏大有关。这也提示社区医务人员应加大对痴呆症及早期预防重要性的宣传工作，积极筛查MCR人群，积极制订针对性干预措施，预防MCR的发生。
+
+# 3.2社区老年人MCR影响因素分析
+
+在人口学资料方面，本研究显示年龄是社区老年人发生 MCR 的危险因素，此结果与先前国内外大部分研究结果相一致[25-26]。主要原因可能与年龄的增长会引发大脑神经元连接改变、海马体萎缩、脑血管硬化狭窄、引发大脑供血供氧不足、导致认知功能下降[27]。而步态和认知有许多共同的领域，不同的定量步态参数反映了与不同的认知领域的联系，具有步态、平衡或运动功能障碍的患者跌倒和转为 AD 的风险更大[28]。因此，年龄越大越应给予更多的关注，针对认知评估结果早期给予认知功能及步态功能训练，提高认知水平。
+
+自理能力方面，本研究显示不论日常生活能力（Barthel指数-ADL）还是工具性日常生活活动能力（Lawton-IADL)均与MCR的发生有关。既往研究也显示，日常生活能力、特别是工具性日常生活能力均是社区老年人主观认知下降的保护因素[29]，一项对德国1467 名老年人为期10 年的队列研究显示，日常生活能力与认知功能呈正相关，IADL得分下降的老年人患痴呆症风险增加6倍[30]。而步速与平衡功能及运动功能等均呈高度相关性，步速下降会导致身体活动减少和身体机能退化，影响老年人的独立生活能力[31]。这提示社区医务人员和照顾者需多关注老年人的日常生活表现，鼓励老年人坚持从事力所能及的劳动，以减缓MCR的发生。
+
+在体力活动方面，既往研究显示久坐和缺乏运动是MCR的危险因素[32]。Semba等认为MCR与低体力活动和肥胖呈正相关[33]，而与MCR组相比，健康组受试者体育活动锻炼次数更加频繁[34]。体育活动对MCR的保护机制可能是降低了高血压、胰岛素抵抗等心血管疾病相关危险因素的不利影响，并能抗炎和增强免疫力[35-36]。因此，鼓励老年人增加体育活动、锻炼肌肉可能有助于提高MCR老年人认知功能。
+
+在疾病史方面，慢性病是影响老年人健康的重要因素，慢性病合并病种数、严重程度、疾病类型、发作频次等均在老年MCR发生发展中发挥作用[37]。本研究显示高血压、脑卒中/TIA与 MCR 的发生有关。高血压患者由于长期血压偏高会导致动脉粥样硬化，使血管内膜发生改变，大脑供血不足，影响脑室周围白质的脑供血，而白质与执行功能密切相关，在控制步态和认知过程中起着重要作用[38]。脑血管疾病是影响老年人认知的重要因素，危害性不容忽视。一项来自法国步态研究的系统评价指出，有脑卒中史的成年人患MCR的风险是健康人的2倍[39]。Wang等[40]对印度139名老年人脑成像结果进行研究发现，MCR的发生与前额腔隙性脑梗死有关。因此，鼓励老年人积极控制高血压、脑卒中等慢性病，可以延缓 MCR 的发生。
+
+在心理因素方面，本研究显示，焦虑与MCR的发生有关，与既往研究结果相一致。一项17年的随访研究发现焦虑症状是发生认知功能损害及痴呆的危险因素[41]；加拿大一项老龄化纵向研究结果显示，抑郁、焦虑和抗抑郁/焦虑药与MCR 密切相关[42]。而随着焦虑程度的不断加重，老年人也会出现疲乏无力，全身疼痛，自主神经功能紊乱等躯体症状，导致身体功能下降，出现步速减退等，导致MCR的发生。因此，早期识别老年人焦虑情况，使老年人维持良好的心境、保持心理上积极、乐观，有利于提高认知水平。
+
+综上所述，社区老年人MCR发生率较高，同时MCR的发生受年龄、日常生活能力、体育活动、疾病史及心理因素的影响。因此，社区医护人员应对老年人进行筛查尽早发现MCR人群，对高龄、日常生活能力下降、缺乏体育锻炼及合并高血压、脑卒中及焦虑情绪的老年人给予重点关注，协助其控制慢性病、促进其养成良好的生活方式，延缓其向痴呆症的进展。本研究也存在一定不足，研究方法采用横断面研究，无法评估暴露影响因素与MCR 结局之间的时间顺序。未来会扩大样本量，对老年人进行跟踪随访，以期取得更有效的研究成果。
+
+利益冲突 所有作者均声明不存在利益冲突
+
+杨存美：文章构思与设计、数据收集、数据整理、数据解释、统计学分析、论文撰写、论文修订；舒刚明：文章构思与设计；胡亦新：研究组织协调、数据分析指导；李佳黛：数据收集；马虹颖、张天一：论文修订；吴冰、闫瑾、毛鑫：数据汇总及整理；李天志：研究组织协调。
+
+# 参考文献
+
+[1]世界卫生组织.痴呆症 [EB/OL].[2020G10G31].https://www
+
+whoi.nt/zh/newsGroom/factGshets/detail/dementia.   
+[2]中国疾病预防控制中心.世界阿尔茨海默病日丨关爱老人,请注意阿尔茨海默病 [EB/O L].[2020G10G31].http :// www .chinacdc .cn/yyrdgz/201909/t20190921_205709.html.   
+[3]中华人民共和国国家卫生健康委员会疾病预防控制局国家卫生健康委办公厅关于探索开 展抑郁症、老年痴呆防治特色服务工作的通知[S/OL.][2020-10-31]. http:/www.nhc.gov,cn/kis7914/202009/a63d8f82eb53451f197217bef0962b98f.shtm.   
+[4]Lin Y,ShanP Y,Jiang W J,et al.Subjective cognitive decline:preclinical manifestation of Alzheimer's disease[J].NeurolSci,2019,4O(1):41-49.   
+[5]杨清，王雨欣，田翀，等.主观认知减退问卷汉化及信效度研究[J].护理学杂志，2021, 36(2）: 68-71.   
+[6]潘利妞，张伟宏，余珍，等．认知障碍老年人握力和步速与认知功能的关系[J].护理研 究，2019，33（6）：956-959.   
+[7] Callisaya ML, Ayers E,Barzilai N, et al. Motoric cog-nitive risk syndrome and falls risk: a multi-center study [J]. JAlzheimers Dis,2016,53(3):1043-1052.   
+[8]袁景林，赵瑞雪，李晓东，等．运动认知风险综合征增加老年人住院风险[J].基础医学 与临床，2021，41（8）：1169-1173.   
+[9] Doi T, Shimada H, Makizako H, et al. Motoric cognitive risk syndrome: association with incident dementia and disability[J].JAlzheimers Dis，2017， 59（1）： 77-84.   
+[10] Beauchet O, Sekhon H, Launay C P, et al. Motoric cog-nitive risk syndrome and mortality: results from the EPI-DOS cohort[J].Eur JNeurol, 2019, 26(5):794.   
+[11]Verghese J，Wang C，Lipton R B， et al. Motoric cognitive risk syndrome and the risk of dementia[J]. JGeron—tol A Biol Sci Med Sci，2013，68(4): 412—418.   
+[12]韦萍萍，孙建萍．老年人运动认知功能减退综合征研究进展[J].护理研究，2021，36 (15）: 94-98.   
+[13]Lau H，Mat Ludin A F， Shahar S， et aI.Factors associated with motor cognitive risk syndrome among low-income ol— der adults in Malaysia[J].BMC public health， 2019, 19(4):1-7.   
+[14]周滢，甘珊，李峥.社区老年人主观认知下降现状及影响因素分析J.解放军护理杂 志.2021，38（4）：21-24.   
+[15]杨艳芳，徐红.肌少症、骨质疏松的关系及研究进展[J]．世界最新医学信息文 摘.2019,19(98):144-145.   
+[16]郭飚，王丽娟，付雪莲，等.社区失能老人健康管理现状调查[J］.护理学杂志， 2014， 29(7):73-75.   
+[17] Bier N，Belchior Pda C， Paquete G，et al. The instrumental activity of daily living profile in aging: a feasibility study[J].JAlzheimers Dis，2016， 52(4) : 1361-1371. DOI: 10. 3233 / JAD- 150957.   
+[18] 刘硕，朱鸣雷，刘晓红．老年住院患者衰弱和抑郁的相关性[J]．中华老年多器官疾病杂 志,2020, 19(6):419-423.   
+[19] Spitzer RL，Kroenke K，Wiliams JB.Validation and utility of a self-report version of PRIME-MD: the PHQ primary care study.Primary CareEvaluation of Mental Disorders.Patient Health Questionnaire [J] .JAMA，1999，282(18):1737- 1744.DO1:10.1001/jama282.18.1737.   
+[20］郝秋奎，李峻，董碧蓉，等．老年患者衰弱评估与干预中国专家共识[J]．中华老年 医学杂志，2017，36(3): 251-256.   
+[21] Rubenstein LZ， Harker JO， Salva A，et al.Screening for under nutrition in geritric practice: developing the Short-Form Mini Nutritional Assessment(MNA-SF) [J] .J Gerontology: Medica Science，2001，56 （6） :366-372.DO1: 10.1093/gerona/56.6.m366.   
+[22］王佳，贾音，王慧丽.老年慢性病患者多重用药及用药安全性的研究现状［J］.继续 医学教育,2021,35(11):157-159.   
+[23] Zhang L， Feng B L， Wang C Y， et a1.Prevalence and factors associated with motoric cognitive risk syndrome in community-dwelling older Chinese:a cross—sectional study[J].Eur JNeurol，2020，27(7):1137—1145.   
+[24] Chhetri JK,Han C.Dan X,et al. Motoric cognitive risk syndrome in a Chinese older adult population:Prevalence and sssociated factors [J]. Jam Med Dir Assoc,2020,21(1):136-137.   
+[25] Ayers E. Diagnosing motoric cognitive risk syndrome to predict progression to dementia[J]. Neurodegener Dis Manag,2014,4(5):339-342.   
+[26]Chhetri JK, Han C,Dan X,.Motoric Cognitive Risk Syndrome in a Chinese Older Adult Population: Prevalence and Associated Factors [J]. J Am Med Dir Assoc,2020，21 (1):136- 137.   
+[27] NavakkodeS， ChaoL， SoongTW.Alteredfunctionofneuronal L-type calcium channels in ageing and neuroinflammation: Implications in age-related synaptic dysfunction and cognitive decline[J]. Ageing Research Reviews， 2018(42):86-89. DOI: 10.1016/j.arr.2018.01.001.   
+[28] Ayers E, Joe Verghese. Gait dysfunction in motoric cognitive risk syndrome[J]. J Alzheimer: Dis,2019,71(s1):95-103.   
+[29]周滢，甘珊，李峥．社区老年人主观认知下降现状及影响因素分析[J]．解放军护理杂志, 2021, 38(4):21-24.   
+[30]ROEHR S，RIEDEL-HELLER S G，KADUSZKIEWICZH，et al.Is function in instrumental activities of daily living a useful fea- ture in predicting Alzheimer's disease dementia in subjective cog- nitive decline?[J].Int JGeriatr Psychiatry， 2019，34(1):193- 203.   
+[31]张守冬，赵来安.老年人步速与跌倒风险的研究进展.中国老年学杂志, 2021,41(23):5434-5438.   
+[32]MAGUIRE FJ，KILLANE I， CREAGH A P，et al. Base - line association of motoric cognitive risk syndrome with sus - tained attention， memory， and global cognition [J]. J Am Med Dir Ass0c，2017，19（1）:53 - 58.   
+[33] Semba RD, Tian Q, Carlson MC,. Motoric cognitive risk syndrome:Integration of two early harbingers of dementia in older adults [J]. Ageing Res Rev,2020， 58: 101022.   
+[34] SHIMADA H，MAKIZAKO H，DOI T， et al. Combined prevalence of frailty and mild cognitive impairment in a popu - lation of elderly Japane people [J].JAm Med Dir Ass0c，2013，14（7）：518 - 524.   
+[35] Valenzuela PL, Castillo-Garcia A, Morales JS,. Exercise benefits on Alzheimer's disease: State-of-the-science [J]. Ageing Res Rev, 2020, 62: 101108.   
+[36]杨艳，何兴萍，汪薇，等．有氧运动联合抗阻运动在老年脑卒中后非痴呆认知障碍患者 中临床应用研究[J]．老年医学与保健,2018，24(3):265-268.   
+[37]晋聪聪，商临萍．老年人运动认知功能减退综合征的研究进展[J]．护理研究,2021, 35(6):1046-1051.   
+[38]桂青，倪秀石．运动认知风险综合征的研究进展[J]．老年医学与保健,2021,27(2):427- 430.   
+[39] Claudene JG, Joe V. Motoric cognitive risk syndrome in polypharmacy. J Am Geriatr Soc, 2020,68(5):1072-1077.   
+[40] WANG N, ALLALIG, KESAVADAS C, et al. Cerebral small vessel disease and motoric cognitive risk syndrome:results from theKerala-Einstein study[J].J Alzheimers Dis,2016,50(3):699-707.   
+[41] Gallacher J，Bayer A，Fish M，et al.Does anxiety affect risk of dementia? Findings from the Caerphilly Prospective Study [J]. Psychosom Med， 2009，71(6):659-666. DOI:10.1097/PSY.0b013e3181a6177c.   
+[42] SEKHON H, ALLALI G, BEAUCHET O. The association of anxio-depressive disorders and depression with motoric cognitive risk syndrome: results from the baseline assessment of the Canadian longitudinal study on aging[J]. Geroscience, 2O19,41(4):409-418.

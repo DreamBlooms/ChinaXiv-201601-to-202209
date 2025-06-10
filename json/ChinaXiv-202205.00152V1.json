@@ -1,0 +1,228 @@
+[
+    {
+        "type": "text",
+        "text": "茎花山柚叶的化学成分研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱成豪¹，邹蓉²，唐健民²，韦霄²，孙志蓉¹，史艳财（1．北京中医药大学 中药学院，北京102488；2.广西壮族自治区中国科学院广西植物研究所，广西 桂林 541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为研究特色植物茎花山柚（Champereia manillana var.longistaminea）叶中的化学成分，该文采用硅胶柱层析（CC）、薄层色谱（TLC）、葡聚糖凝胶柱层析（SephadexLH-20）、反相硅胶（RP-18）柱层析与高效液相色谱（HPLC）等方法，对茎花山柚叶乙醇浸提物的乙酸乙酯萃取部进行了分离纯化，得到了6个单体化合物。通过核磁共振波谱（NMR）和高分辨质谱（HR-ESI-MS）数据，并结合文献数据对比鉴定了这些化合物的结构。6个化合物分别被鉴定为蒲公英赛醇（1），吲哚-3-甲酸（2），(24R)-环菠萝蜜烷-3β,24,25-三萜（3），(24R,S)-3β-24,31-环氧-24-甲基环烷(4),1-O-亚麻酰基-3-O- $\\cdot \\beta$ -D-吡喃半乳糖基-sn-丙三醇(5),长烷基链甘油单酯（6），其中化合物1-6均为首次从该植物中分离得到。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：茎花山柚，提取分离，纯化，化学成分，结构鉴定中图分类号：Q946.8 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chemical constituents from the leaves of Champereia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "manillana var. longistaminea ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHU Chenghao1, ZOU Rong²,TANG Jianmin², WEI Xiao², SUN Zhirong1, SHI Yancai² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. School of Chinese Materia, Beijing University of Chinese Medicine,Beijing 102488, China; 2. Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences, Guilin 541006, Guangxi, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to study the chemical constituents in the leaves of Champereia manillana var. longistaminea, the chemical composition was analyzed by the silica gel column chromatography (CC), thin-layer chromatography (TLC), dextran gel column chromatography (Sephadex LH-20), reversed-phase silica (RP-18） gel column chromatography and high performance liquid chromatography (HPLC).The ethyl acetate extraction part of the ethanol extraction was separated and 6 monomer compounds were obtained. The structures of these compounds were identified using nuclear magnetic resonance spectroscopy (NMR)， high resolution mass spectrometry (HR-ESI-MS） and the data of the literature. Six compounds were elucidated as Taraxerol (1), 1H-indole-3-carboxylic acid (2), (24R)-cycloartane-3β,24,25-triol (3), (24R,S)-3β-24,31-Epoxy-24-methylcycloartane(4),1-O-linolenoyl-3-O- $\\cdot \\beta$ -D-galactospyranosyl-sng lycerol (5),and Hyloglyceride (6).All compounds 1-6 were isolated from this plant for the first time. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Champereia manillana var. longistaminea, extraction and separation, purification, chemical composition, structure identification ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "茎花山柚（Champereia manillana var. longistaminea）系山柚子科（Opiliaceae）台湾山柚属（Champereia Griff.）灌木或常绿小乔木植物，因茎上开花结果而得名，又名鳞尾木（覃海宁等，2010），别名甜菜树（云南富宁）、味精树或雷公菜（广西田林）、龙须菜（广西田东），是一种喀斯特地区特色木本经济植物（魏秋兰等，2020）。中国主要分布在云南东南部和广西西南部，多生长在河谷密林或石缝间隙中（杜凌等，2018）。据报道茎花山柚嫩茎叶中含有丰富的营养成分和活性物质，如维生素、锌、钙、铁和各种药效氨基酸，民间多采其嫩叶来饮食，以预防心脑血管疾病、高血压和糖尿病等症，具有良好的食用和药用价值（朱昌叁等，2018）。目前，已有研究工作者对茎花山柚的野生资源、育苗及栽培技术、生物学特性、果实特征、营养成分等进行了探讨（杨超本，2008；韦堂灵等，2019；魏秋兰等，2020），初步阐明了可将其作为一种优良经济植物来开发应用，而茎花山柚味道鲜美的原因也源于其谷氨酸和天冬氨酸的高含量（Tang et al.,2020），茎花山柚嫩茎叶中的甜味功能因子艾杜醇也可作为合成中间体应用于食品业和医药业（刘锡葵等，2009），开发前景广阔，但是该植物的化学成分和药理作用研究依旧空白，严重限制了茎花山柚进一步的开发利用。因此，为了深入认识该植物的药效物质基础，挖掘其更大的药用功效，该研究开展了茎花山柚叶 $9 5 \\%$ 乙醇提取物的化学成分研究，从中分离鉴定出了6个单体化合物，化学结构式见图1，其中化合物1-6均为首次从该植物中分离得到。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7c35ecafe18fa4da16c6baab219adb65a166dfb9f4602f28713e74553493a51.jpg",
+        "img_caption": [
+            "图1化合物1-6结构",
+            "Fig.1 Structures of compounds 1-6 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 仪器与材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "仪器：核磁共振波谱仪（Bruker Avance-500，内标为TMS，瑞士）；旋转蒸发仪（EyelaN-1100，上海爱朗仪器有限公司，中国）；水浴锅（Eyela SB-1100，上海爱朗仪器有限公司，中国）；循环水真空泵（EyelaN-1100，上海爱朗仪器有限公司，中国）；高分辨电喷雾电离质谱仪（Thermo MAT95XP,Thermo Fisher Scientific 公司，德国）；高效液相色谱仪（Hitachi Primaide,Hitachi 分公司，中国）；红外光谱仪（Shimadzu IR Affinity-1, Shimadzu公司，日本）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试剂：柱层析硅胶（ $6 0 \\sim 1 0 0$ 目、 $1 0 0 { \\sim } 2 0 0$ 目、 $2 0 0 { \\sim } 3 0 0$ 目、 $3 0 0 { \\sim } 4 0 0$ 目）、薄层层析硅胶板（TLC）购自中国青岛海洋化工厂，柱层析反相硅胶RP-18为DevelosilODS， $5 0 \\sim$ $7 0 \\mu \\mathrm { m }$ 规格。柱层析葡聚糖凝胶（Sephadex LH-20）由瑞典 Amersham Biosciences 公司生产。制备型色谱柱型号为YMC ODS $\\mathbf { C } _ { 1 8 }$ （ $2 0 \\mathrm { m m } { \\times } 2 5 0 \\mathrm { m m }$ ， $5 \\mu \\mathrm { m }$ ）。正己烷、乙酸乙酯、丙酮、氯仿、甲醇、无水乙醇、浓硫酸等，采购自广州化学试剂厂和天津富宇试剂公司；HPLC 制备的色谱纯试剂（甲醇、乙腈）由美国剑桥公司（CIL）生产。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "材料：研究材料茎花山柚叶采自广西壮族自治区百色市田林县（ $\\langle { 1 0 5 ^ { \\circ } 5 0 ^ { \\prime } 7 ^ { \\prime \\prime } { \\mathrm { E } } }$ ， $2 4 ^ { \\circ } 2 2 ^ { \\prime } 3 9 ^ { \\prime \\prime }$ N，海拔 $3 9 9 . 1 \\mathrm { { m } } \\mathrm { { . } }$ ），由中国科学院广西植物研究所韦霄研究员鉴定为茎花山柚（Champereiamanillanavar.longistaminea），其植物生境见图2，材料于室内阴干。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a98381f0b186c336cc0c83cdca9b1d7cfea5f613f191fe51108918575cf2553.jpg",
+        "img_caption": [
+            "图2茎花山柚生境和样品处理"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 The habitat and sample handling of Champereia manillana var.longistaminea ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 提取与分离",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "茎花山柚叶 $1 0 \\mathrm { k g }$ ，阴干后用 $9 5 \\%$ 的工业乙醇在室温下浸提3次，合并浓缩后得棕褐色总浸膏 $1 . 6 ~ \\mathrm { k g }$ 。将浸膏混悬在 $5 \\mathrm { ~ L ~ }$ 的纯水中，分别用正己烷、乙酸乙酯萃取到有明显分层，得到正己烷部（ $\\mathsf { 6 0 0 } \\ \\mathrm { g } \\mathrm { , }$ ），乙酸乙酯部（ $8 0 0 ~ \\mathrm { g }$ ）。对乙酸乙酯部浸膏用 $6 0 \\sim 1 0 0$ 目硅胶等量拌样，溶剂挥发后，经正相硅胶柱层析，以体积比正己烷/乙酸乙酯（v/v $1 0 0 { : } 0 {  } 0 { : } 1 \\ \\cdot$ ）梯度洗脱，合并得到8个组分（Fra-Frh）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "组分 $\\textrm { \\textbf { g } } ( 6 \\textrm { \\textbf { g } } )$ 经反相硅胶 ${ \\mathsf { R P C } } _ { 1 8 }$ ，洗脱比例为 $\\mathrm { M e O H / H _ { 2 } O }$ （ $70 \\% \\sim 1 0 0 \\%$ ），得到9个组分（ $\\mathrm { \\bf { g } } 1 \\mathrm { - \\bf { g } } 9$ ）， $^ { \\mathrm { g 9 } }$ 经正相硅胶（ $\\mathrm { C C } 2 0 0 { \\sim } 3 0 0$ 目 正己烷/乙酸乙酯 $\\mathrm { v } / \\mathrm { v } 2 0 { : } 1 { \\sim } 1 { : } 1 \\ \\cdot$ ）得到化合物1( $2 2 1 . 4 \\mathrm { m g }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "组分e（ $1 . 4 \\ : \\mathrm { g }$ ）经反相硅胶 ${ \\mathsf { R P C } } _ { 1 8 }$ ，洗脱比例为 $\\mathrm { M e O H / H _ { 2 } O }$ （ $70 \\% \\sim 1 0 0 \\%$ ），得到3个组分（e1-e3），e1（ $6 3 1 ~ \\mathrm { m g }$ ）经凝胶柱 SephadexLH-20（氯仿：甲醇，1:3）得到化合物2（ $1 3 . 2 \\mathrm { m g }$ ）。e3( $2 6 1 ~ \\mathrm { m g }$ ）经凝胶柱 SephadexLH-20（氯仿：甲醇，1:3）得到3个次级组分（e3-1，e3-2，e3-3），e3-1（ $1 2 5 . 1 \\ \\mathrm { m g }$ ）经正相硅胶（ $\\mathrm { C C } 2 0 0 { \\sim } 3 0 0$ 目正己烷/乙酸乙酯$\\mathrm { v } / \\mathrm { v } 1 0 { : } 1 \\sim 1 { : } 1$ ）得到化合物3（ $4 3 . 4 \\mathrm { m g }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "组分d( $1 . 4 \\ \\mathrm { g }$ ）经反相硅胶 $\\mathrm { R P C } _ { 1 8 }$ ，洗脱比例为 $\\mathrm { M e O H / H _ { 2 } O }$ （ $70 \\% \\sim 1 0 0 \\%$ ），得到4个组分（d1-d4），d2（ $8 7 . 3 ~ \\mathrm { m g }$ ）经凝胶柱SephadexLH-20（氯仿：甲醇，1:3）得到2个次级组分（d2-1，d2-2），d2-1（ $4 8 . 9 \\mathrm { m g }$ ）经正相硅胶（ $\\mathrm { C C } 2 0 0 { \\sim } 3 0 0$ 目正己烷/乙酸乙酯 v/v$5 { : } 1 \\sim 1 { : } 1 )$ 得到化合物4（ $1 0 . 5 \\mathrm { m g }$ ）。d3( $5 2 . 7 \\mathrm { m g }$ ）经凝胶柱 SephadexLH-20（氯仿：甲醇，1:3）得到2个次级组分（d3-1，d3-2），d3-1（ $3 4 . 3 ~ \\mathrm { m g }$ ）经正相硅胶（ $\\mathrm { C C } 2 0 0 { \\sim } 3 0 0$ 目正己烷/乙酸乙酯 $\\mathrm { v } / \\mathrm { v } 5 { : } 1 \\mathrm { \\sim } 1 { : } 1 \\dot { \\cdot }$ ）得到化合物4（ $1 0 . 5 \\mathrm { m g }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "组分h( $\\langle 3 . 3 \\mathrm { ~ g ~ } \\rangle$ ）经反相硅胶 ${ \\mathsf { R P C } } _ { 1 8 }$ ，洗脱比例为 $\\mathrm { M e O H / H _ { 2 } O }$ 0 $( 7 0 \\% \\sim 1 0 0 \\%$ ），得到8个组分（h1-h8），h4（ $5 4 2 . 5 ~ \\mathrm { m g }$ ）经凝胶柱 SephadexLH-20（氯仿：甲醇，1:3）得到3个次级组分（h4-1，h4-2，h4-3），h4-1（ $8 7 . 9 \\mathrm { m g }$ ）经正相硅胶（ $\\mathrm { C C } 2 0 0 { \\sim } 3 0 0$ 目 正己烷/乙酸乙酯 $\\mathrm { v } / \\mathrm { v } 1 0 { : } 1 \\sim 1 { : } 1$ ）得到化合物5（ $4 3 . 2 \\mathrm { m g }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "组分f $( 3 . 2 \\mathrm { g }$ ）经反相硅胶 ${ \\mathrm { R P C } } _ { 1 8 }$ ，洗脱比例为 $\\mathrm { M e O H / H _ { 2 } O }$ 0 $7 0 \\% \\sim 1 0 0 \\%$ ），得到4个组分（f1-f4），f2（ $1 6 9 . 6 \\mathrm { m g }$ ）经凝胶柱 SephadexLH-20（氯仿：甲醇，1:3）得到3个次级组分（f2-1，f2-2，f2-3），f2-1（ $3 9 . 5 \\mathrm { m g } \\cdotp$ )经正相硅胶（ $\\mathrm { C C } 2 0 0 { \\sim } 3 0 0$ 目正己烷/乙酸乙酯 v/v$5 { : } 1 { \\sim } 1 { : } 1 \\$ ）得到f2-1-1（ $\\lvert 3 2 \\ \\mathrm { m g }$ ），再经反相硅胶RP-HPLC（YMC-Pack $\\mathbf { C } _ { 1 8 }$ ） $5 5 \\%$ 乙腈梯度洗脱得到化合物6（ $6 . 2 \\mathrm { m g }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结构鉴定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物1白色针状结晶（氯仿）。ESI-MSm/z:425.3[M-H]' $\\mathrm { C _ { 3 0 } H _ { 5 0 } O }$ ： $\\mathrm { ^ { 1 } H }$ -NMR (500 $\\mathbf { M H z } , \\mathbf { C D C l } _ { 3 }$ )8: 5.51(1H, dd, $J = 8 . 3$ ,3.1 Hz, H-15), 3.17(1H, dd, $J = 1 1 . 3$ ,4.1 Hz, H-3), 2.01 (1H, dt, $J = 1 2 . 7 , 3 . 1 \\ \\mathrm { H z }$ ,H-19),1.91 (1H, dd, $J = 1 4 . 4$ $2 . 8 \\ : \\mathrm { H z }$ ,H-18),1.07 (3H, s,H-27),1.00 (3H, s,H-26), 0.93 (3H, s,H-25),0.92 (3H,s,H-29),0.91 (6H,s,H-23,30), 0.82(3H,s,H-28), 0.80 (3H,s,H-24); ${ } ^ { 1 3 } \\mathrm { C } .$ -NMR (125MHz, $\\mathrm { C D C l } _ { 3 }$ ）8:158.08 (C-14)， 116.87 (C-15), 79.07(C-3), 55.53(C-5), 49.28 (C-18), 44.3 (C-9), 41.32(C-19), 40.0 (C-4),38.76 (C-8), 37.74 (C-10, 17), 37.57(C-13), 36.67 (C-16),35.78 (C-12),35.12 (C-7),33.70(C-1,21),33.35 (C-29),33.09(C-22), 30.0 (C-26), 29.82(C-28), 28.80 (C-20), 27.99 (C-23), 27.14 (C-2), 25.90(C-27),21.31 (C-30), 18.80(C-6),17.50 (C-11),15.45(C-24,25)。以上数据与文献报道基本一致(Corbett et al.,1972)， 故鉴定化合物1为蒲公英赛醇 Taraxerol。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物2红褐色针晶(乙酸乙酯)。薄层色谱用 $10 \\%$ 香草醛硫酸显色为橘红色。ESI-MSm/z:160.1[M-H],115.9[M-COO] $\\mathrm { C } _ { 9 } \\mathrm { H } _ { 7 } \\mathrm { N O } _ { 2 }$ ：， $\\mathrm { ^ { 1 } H }$ -NMR(DMSO- ${ \\bf \\cdot d } _ { 6 }$ ,500MHz) 8:7.17(2H,m,H-6,7), 7.42(1H, brd, $J { = } 7 . 5 ~ \\mathrm { H z }$ , H-8), 7.99(1H, brd, $J { = } 7 . 5 ~ \\mathrm { H z }$ ,H-5 ), 8.01 (1H, s,H-2), 10.9(1H, s,COOH); $^ { 1 3 } \\mathrm { C } \\mathrm { - N M R } ( \\mathrm { D M S O } \\mathrm { - } \\mathrm { d } _ { 6 } , 1 2 5 \\mathrm { M H z } ) \\delta \\mathrm { : } 1 3 2 . 6 9 ( \\mathrm { C } \\mathrm { - } 2 ) ,$ 107.76(C-3), 121.40(C-4)， 122.55(C-5),112.67(C-6),121.01(C-7),126.45(C-8),136.88 (C-9),166.38(COOH)。参考文献（张朝凤等，2009）确定该化合物2为吲哚-3-甲酸1H-indole-3-carboxylic acid。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物3无色结晶（氯仿）。ESI-MS $m / z$ ： $4 6 1 [ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ ， $\\mathrm { C } _ { 3 0 } \\mathrm { H } _ { 5 2 } \\mathrm { O } _ { 3 }$ ， $\\mathrm { ^ { 1 } H }$ -NMR $( 5 0 0 ~ \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ )8: 3.34(1H, m,H-24α),3.27 (1H, dd, $J = 1 0 . 5$ $3 . 5 \\mathrm { H z }$ ,H-3α),1.21,1.15 (each 3H, s,H-26, 27), 0.95 (3H,s,H-18),0.95 (3H, s,H-28),0.88 (3H,s,H-30),0.80 (3H, s,H-29),0.54 (1H, d,J= $4 . 0 ~ \\mathrm { H z }$ ,H-19), 0.32 (1H, d, $J = 4 . 1 ~ \\mathrm { H z }$ ,H-19); $^ { 1 3 } \\mathrm { C } \\mathrm { - N M R } ( \\mathrm { C D C l } _ { 3 }$ ,125MHz) 8: 31.9 (C-1), 30.3 (C-2), 78.8 (C-3),40.5 (C-4),47.1 (C-5),21.1 (C-6),28.1 (C-7),48.0 (C-8),19.9 (C-9),26.1 (C-10), 26.0 (C-11), 35.9 (C-12), 45.3(C-13), 48.8 (C-14), 32.9 (C-15), 26.4 (C-16), 52.4 (C-17),18.1 (C-18),29.9 (C-19), 36.4 (C-20), 18.4 (C-21),33.1(C-22),28.7 (C-23), 78.8 (C-24), 73.2 (C-25), 23.2 (C-26),26.5 (C-27),25.4 (C-28),14.0 (C-29),19.3 (C-30)。以上数据与文献报道基本一致 （周劲松等，2009），故鉴定该化合物3为(24R)-环菠萝蜜烷-3β,24,25-三萜 (24R)-cycloartane $\\cdot 3 \\beta$ ,24,25-triol。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物4无色固体（氯仿）。ESI-MSm/z:439.3[M+H]+; $\\mathrm { C } _ { 3 1 } \\mathrm { H } _ { 5 2 } \\mathrm { O } _ { 2 }$ $\\mathrm { ^ 1 H }$ -NMR(500 MHz,",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CDCl) δ:3.26(1H,dd,J=11.3，4.4Hz,H-3)，1.48(1H, dd, $J { = } 1 2 . 0$ ， $4 . 9 \\mathrm { H z }$ ，H-8)，1.24(1H,dd, J=11.3,4.4Hz, H-5), 0.93,0.90(3H, d, H-26,27), 0.84(1H, d, $\\scriptstyle J = 6 . 6 \\mathrm { H z }$ ,H-21); $^ { 1 3 } \\mathrm { C }$ -NMR(CDCl3, 125 MHz) δ: 32.0 (C-1),30.4 (C-2), 78.8 (C-3),40.5 (C-4),47.1 (C-5),21.1 (C-6),26.0 (C-7), 48.0 (C-8), 20.0 (C-9),26.1 (C-10),26.4 (C-11), 32.9 (C-12), 45.3(C-13), 48.8 (C-14),32.9 (C-15), 28.5 (C-16), 52.3 (C-17),18.1 (C-18), 29.9 (C-19), 36.3 (C-20),17.9 (C-21),30.7(C-22), 28.1 (C-23), 62.8 (C-24),32.06 (C-25),19.4 (C-26),18.3 (C-27),25.4 (C-28),14.0 (C-29),19.3 (C-30), 50.5(C-31)。以上数据与文献报道基本一致（Kuangetal.，2014），故鉴定该化合物4为 (24R,S)-3β-24,31-环氧-24-甲基环烷 (24R,S) $\\cdot 3 \\beta$ -24,31-epoxy-24-methylcycloartane。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物5油状固体（氯仿）。ESI-MSm/z: $5 1 3 . 3 [ \\mathrm { M + H } ] ^ { + }$ $\\mathrm { C _ { 2 7 } H _ { 4 5 } O _ { 9 } }$ $\\mathrm { ^ { 1 } H }$ -NMR(500 MHz, $\\mathrm { C D C l } _ { 3 }$ )8: 4.04 (1H, m,Ha-1),4.10 (1H, m,H-1), 5.33 (1H,s,H-2),3.86 (1H,m,Ha-3),3.90 (1H, m,Hb-3); linolenoyl-2.35 (2H, q, $J { = } 8 . 4$ ,Hz),1.63 (2H,m,H-3),1.31 (6H, s,H-4, 5,6),1.37 (2H, d, $J { = } 7 . 8 \\ \\mathrm { H z }$ ，H-7)，2.08 (2H,m,H-8)，5.36,5.43 (5H,H-9,10,12,13,15)，5.34 (1H,m, H-16),2.83 (4H, t, H-11,14),2.11 (2H, m,H-17),1.00(3H, t, $J { = } 7 . 8 ~ \\mathrm { H z }$ ,H-18); D-galactose- 4.31 (1H, d, $J { = } 7 . 8 ~ \\mathrm { H z }$ ,H-1),3.62 (1H,t,H-2),3.60 (1H, dd,H-3), 4.02 (1H,s,H-4),3.57 (1H,t,H-5), 3.88(1H, dd, Ha-6)，3.98 (1H, dd, Hb-6); $^ { 1 3 } \\mathrm { C }$ -NMR(125 MHz, $\\mathrm { C D C l } _ { 3 }$ ）8: 62.8 (C-1),69.6 (C-2),69.7 (C-3); linolenoyl-173.4 (C-1),34.1 (C-2), 24.9 (C-3), 29.0,29.1, 29.2 (C-4,5, 6,7), 27.2 (C-8),127.9 (C-9),128.2 (C-10),25.6 (C-11),131.9 (C-12),130.2 (C-13),25.2 (C-14),128.3 (C-15),127.8 (C-16),20.5 (C-17),14.3 (C-18); D-galact0se-101.1 (C-1), 71.9 (C-2),73.3 (C-3), 69.6(C-4),74.6(C-4),62.6(C-6)。对比数据库发现，以上数据与文献报道基本一致(Kim et al., 2019），故鉴定该化合物5为1-O-亚麻酰基-3-O- $\\cdot \\beta$ -D-吡喃半乳糖基-sn-丙三醇 1-O-linolenoyl-3-O- $\\beta$ -D-galactospyranosyl-sn-glycerol。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物6无色粉末（氯仿）。ESI-MS $m / z$ ： $5 4 0 . 5 [ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ $\\mathrm { C _ { 3 4 } H _ { 6 8 } O _ { 4 } }$ $\\mathrm { ^ 1 H }$ -NMR ${ 5 0 0 } \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 } .$ ): 8 0.85 (3H, t, $J = 6 . 4 ~ \\mathrm { H z , H } { - 3 1 } ^ { \\circ }$ ), 1.27 (54H, s, $_ { \\mathrm { H } - 4 } ,$ to H-30'),1.60 (2H, m,H-3'), 2.33(2H, t, $J = 7 . 5 ~ \\mathrm { H z }$ ，H-2')，3.60 (1H,dd, $J = 1 1 . 2$ ， $3 . 5 ~ \\mathrm { H z }$ ,H-3a),3.70 (1H, dd, $J = 1 1 . 2$ ，3.5${ \\mathrm { H z } } , { \\mathrm { H } } { - 3 } { \\mathrm { b } }$ ),3.92(1H,m,H-2),4.37(1H,dd, $J = 1 1 . 2$ ， $5 . 5 ~ \\mathrm { H z }$ ),4.40(1H, dd, $J = 1 1 . 2 , 3 . 5 \\ \\mathrm { H z }$ ）。${ } ^ { 1 3 } \\mathrm { C } .$ -NMR ( $1 2 5 ~ \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ ): 8 14.0 (C-31'), 22.6(C-29), 24.8 (C-3)), 29.2 (C-4' to C-28'), 32.8(C-30'),34.1(C-2'),63.4(C-3),65.1(C-1),70.3 (C-2),174.3 (C,C-1')。以上数据与文献报道基本一致（Nyongha et al.,2010），故鉴定该化合物6为长烷基链甘油单酯Hyloglyceride。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4讨论与结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该研究通过硅胶柱层析、葡聚糖凝胶柱层析、薄层色谱和高效液相色谱等方法从茎花山柚叶中共分离纯化到6个单体化合物，根据其理化常数和波谱（质谱、碳谱和氢谱）数据将它们鉴定为蒲公英赛醇 Taraxerol(1），吲哚-3-甲酸1H-indole-3-carboxylic acid（2），(24R)-环菠萝蜜烷-3β,24,25-三萜 (24R)-cycloartane-3β,24,25-triol (3），(24R,S) $3 \\beta$ -24,31-环氧-24-甲基环烷(24R,S)-3β-24,31-epoxy-24-methylcycloartane（4），1-O-亚麻酰基-3-O- $\\cdot \\beta$ -D-吡喃半乳糖基-sn-丙三醇 1-O-linolenoyl-3-O- $\\beta$ -D-galactospyranosyl-sn-glycerol（5），长烷基链甘油单酯Hyloglyceride（6），均为首次从该植物中分离得到，结构涉及萜类、脂肪酸类、羧酸类等类型，初步解析了该植物的化学成分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "现代药理学研究表明，萜类化合物具有抗肿瘤、抗菌、抗病毒、抗炎、降血压、防止血栓形成等作用（海广范等，2015），而脂肪酸类化合物具有抗癌、抗炎、保肝、降血糖、免疫调节等作用（马立红等，2006），这与之前报道的茎花山柚可预防高血压等心血管疾病相呼应（朱昌叁等，2018），表明茎花山柚有进一步开发成药品的潜力，但具体的药效基础和活性机制还需进一步探讨。未来也可从活性跟踪法入手，筛选到具有降血压、降血糖的活性萃取部位后，再进行细分以寻求更多具有活性的单体化合物。此外化合物2（吲哚-3-甲酸）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "是一种重要的有机中间体，被广泛应用于医药与农药的合成（姜凡伟等，2015），有研究报道茎花山柚中还含有艾杜醇（刘锡葵等，2009），同样可作为一种医药中间体，应用于化学工业、化妆品、医药等领域。因此，通过对茎花山柚叶的化学成分研究，可逐步丰富该植物的物质基础，并可为今后的进一步开发利用提供科学依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CORBETT RE，GUMMING SD，WHITEHEAD EV，1972.Lichens and fungi. Part X. $1 4 \\alpha \\cdot$ -Taraxerane[J].J Chem Soc Perkin Trans,1: 2877-2829.   \nDU L,WEI TL, BAN QM, et al.,2018.Preliminary study on the fruit of Champereia manillana[J]. Guizhou For Sci Technol,46(3):25-28[杜凌，韦堂灵，班启明，等，2018．茎花山柚果实 的初步研究[J]．贵州林业科技，46(3):25-28.]   \nHAI GF, ZHANG H，GUO LQ，2O15.Research progress of pharmacological effects of diterpenoids[J].JXinxiang Med Coll,32(1):77-80.[海广范，张慧，郭兰青，2015．二萜类 化合物药理学作用研究进展[J]．新乡医学院学报，32(1):77-80.]   \nJIANG FW, KANG CM, 2015. Synthesis of substituted indole-3-carboxylic acid compounds[J]. Chemistry,78(4)：378-380.[姜凡伟，康从民，2015．取代吲哚-3-甲酸类化合物的合成[J]. 化学通报，78(4):378-380.]   \nKIM D,LEE SK, PARK HJ,2019. Isolation of the constituents with cancer cell growth inhibition and anti-inflammatory activity from Persicaria nepalensis[J]. Korean J Pharm, 50(4): 245-252.   \nKUANG X,LI W， KANNO Y, et al.， 2014. Cycloartane-type triterpenes from Euphorbia fischeriana stimulate human CYP3A4 promoter activity[J]. Biol Med Chem Lett, 24(23), 5423-5427.   \nLIU XK, XIAO JQ, 2O09. Isolation and identification of a sweet function factor from the endemic wild vegetable of Yunnanopilia longistaminata[J]. Food Sci and Technol, 34(5): 2O7-208.[刘 锡葵，肖建青，2009．特有野菜甜菜树甜味功能因子的分离与鉴定[J]．食品科技，34(5): 207-208.]   \nMA LH, WANG XM, 2006. Study on the pharmacological efects of polyunsaturated fatty acids[J]. Jilin Tradit Chin Med,26(12):69-70.[马立红，王晓梅，2006．多不饱和脂肪酸药理作用研 究[J]．吉林中医药，26(12): 69-70.]   \nNYONGHA AT, HUSSAIN H, DONGO E, et al., 2010. Hyloglyceride and hylodiglyceride: Two new glyceride derivatives from Hylodendron gabunensis[J]. Nat Prod Commun, 5(12): 1936-1940.   \nQIN HN, LIU Y, 2O10. A checklist of vascular plants of Guangxi[M]. Beijing: Science Press: 252.[覃海宁，刘演，2010．广西植物名录[M]．北京：科学出版社：252.]   \nTANG JM, ZHU CH, ZOU R, et al., 2O20. Comparison and evaluation of nutritional components in stems, leaves and fruits of the Champereia manillana BL.[J]. Fresen Environ Bull, 29(12):10560-10566.   \nWEI QL, ZHU CC, CHEN R, et al., 2020. Resources survey of wild Champereia manillana var. longistaminea in Guangxi[J]. Guangxi For Sci,49(3): 385-390.[魏秋兰，朱昌叁，陈荣，等, 2020．广西野生鳞尾木资源调查研究[J]．广西林业科学，49(3):385-390.]   \nWEI TL，BAN QM,DAI XY,et al., 2019. One new distribution family of seed plants in Guizhou[J].Guizhou For Sci Technol,47(1): 27-29.[韦堂灵，班启明，戴晓勇，等，2019．贵 州种子植物的一个新分布科[J]．贵州林业科技，47(1):27-29.]   \nYANG CB，2Oo8. Study on techniques for raising seedlings and cultivation of Urobotrya latisquema[J].For Invent Plan,33(1):116-118.[杨超本,2008．鳞尾木育苗及栽培技术研究 [J]．林业调查规划，33(1):116-118.]   \nZHANG CF, ZHOU AC, ZHANG M, 2009. Chemical constituents of Alisma orientalis and their immunosuppressive function[J].Chin JChin Mat Med,34(8): 994-998.[张朝凤，周爱存，张 勉，2009．泽泻的化学成分及其免疫抑制活性筛选[J]．中国中药杂志，34(8):994-998.]   \nZHOU JS, ZHANG TT, CHEN JJ，et al.， 2009.Chemical constituents from the roots of Streptocaulon griffithi[J].ChinJNat Med,7(2):108-110.[周劲松，张婷婷，陈纪军，等， 2009.藤苦参的化学成分(英文)[J].中国天然药物，7(2):108-110.]   \nZHU CS,LIANG WH, ZHAO ZH, et al., 2018. Analysis and evaluation of nutritional component in Champereia manillana var. longistaminea[J]. Food Ind,39(9): 313-317.[朱昌叁，梁文汇, 赵志珩，等，2018．森林蔬菜鳞尾木营养分析与评价[J]．食品工业，39(9):313-317.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

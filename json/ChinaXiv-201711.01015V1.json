@@ -1,0 +1,331 @@
+[
+    {
+        "type": "text",
+        "text": "1 育成期崂山奶山羊能量需要量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 宋晓雯」张广凤」 王慧敏」程　明²　戴正浩²林英庭1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 (1.青岛农业大学动物科技学院，青岛 266109；2.青岛市畜牧兽医研究所，青岛 266109)  \n4 摘要：本试验旨在研究饲粮能量水平对育成期崂山奶山羊能量利用率的影响。选择体重为  \n5 （204号 $( 1 8 . 4 3 { \\scriptstyle \\pm 0 . 7 6 ) } \\mathrm { k g }$ 的崂山奶山羊育成母羊30只，采用单因素随机分组设计分成3组，每组10个重复，  \n6 每重复1只羊。分别饲喂粗蛋白质、钙及磷水平基本一致，消化能水平分别为10.40、11.47及12.51  \n7 MJ/kg的3种全混合日粮。预试期 $1 0 \\mathrm { d }$ ，正试期 $9 0 \\mathrm { d }$ 。结果表明，1）试验后期3组试羊随着饲粮能  \n8 量水平的提高，总能消化率依次提高， $1 2 . 5 1 \\mathrm { M J / k g }$ 组试羊的总能消化率、总能代谢率及消化能代谢  \n9 率显著高于 $1 0 . 4 0 \\mathrm { M J / k g }$ 组（ $. P { < } 0 . 0 5$ ）;3 组试羊的总能、粪能及尿能间呈显著差异（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ），10.40  \n10 MJ/kg 组 $\\mathrm { < 1 1 . 4 7 \\ M J / k g }$ 组 $< 1 2 . 5 1 \\ \\mathrm { M J / k g }$ 组； $1 0 . 4 0 \\mathrm { M J / k g }$ 组试羊的甲烷能显著低于11.47及12.51MJ/kg  \n11 组（ $. P { < } 0 . 0 5$ ）。2）10.40 MJ/kg 组试羊末重及平均日增重显著低于11.47及12.51MJ/kg 组 $( P { < } 0 . 0 5 )$ ，  \n12 但 $1 1 . 4 7 \\mathrm { M J / k g }$ 组与 $1 2 . 5 1 \\mathrm { M J / k g }$ 组间无显著差异（ $_ { \\cdot \\cdot P > 0 . 0 5 }$ ）。3）育成期崂山奶山羊消化能和代谢能  \n13 需要量与代谢体重和平均日增重关系的回归公式： $D E { = } 0 . 6 7 5 W ^ { 0 . 7 5 } { + } 0 . 1 1 0 A D G$ （ $P { = } 0 . 0 0 6$ ， $R ^ { 2 } { = } 0 . 9 8 2 \\ '$ ）；  \n14 ME=0.526W0.75+0.076ADG （ $_ { P = 0 . 0 2 7 }$ ， $R ^ { 2 } { = } 0 . 8 7 3$ [式中 $D E$ 为消化能（MJ/d），ME为代谢能（MJ/d），  \n15 $W ^ { 0 . 7 5 }$ 为代谢体重（kg），ADG为平均日增重（g）]。综合得出，育成期崂山奶山羊母羊饲粮中消化  \n16 能以 $1 1 . 4 7 { \\sim } 1 2 . 5 1 \\mathrm { M J / k g }$ （干物质基础）较为适宜。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：育成期；崂山奶山羊；能量；需要量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "崂山奶山羊是我国著名的地方品种，具有耐粗饲、生长发育快、产奶量高、体格健硕、抗病力强和遗传性能稳定等诸多优点，研究崂山奶山羊的营养需要，并对其进行科学饲养，充分发挥品种生产潜力具有重要意义。国内有关山羊能量需要量及饲粮能量适宜水平的研究只有零星报道[1-4]，其中尚无有关崂山奶山羊饲粮适宜能量水平的研究，从而严重影响了其生产性能的发挥及养殖的经济效益。本试验以育成期崂山奶山羊为研究对象，研究了其饲粮适宜能量水平。旨在为奶山羊饲养标准的制订及科学饲养提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验动物及试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用健康无病、170日龄左右、体重 $( 1 8 . 4 3 { \\scriptstyle \\pm 0 . 7 6 } )$ ）kg 的崂山奶山羊育成母羊30只，采用单因素随机分组设计，按体重均衡原则随机分成A、B、C3组，每组10个重复，每个重复1只羊。试验在青岛奥特种羊场进行，试验期为 $1 0 0 \\mathrm { d }$ ，其中预试期 $1 0 \\mathrm { d }$ ，正试期 $9 0 \\mathrm { d }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验饲粮及营养水平",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以美国NRC（2007）山羊饲养标准建议的消化能水平，且饲粮钙、磷和蛋白质水平基本一致原则，配制消化能水平分别为10.40、11.47及12.51MJ/kg的3种全混合日粮（TMR）。试验饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c33ce9c548bdb5c5a4b499c03e12edfe04de54e90cbb42eec0561612030f1299.jpg",
+        "table_caption": [
+            "表1试验饲粮组成及营养水平(干物质基础)",
+            "Table1 Composition and nutrient levels of experimental diets (DM basis) % "
+        ],
+        "table_footnote": [
+            "1预混料为每千克饲粮提供 Premix provided the following per kilogram of diets:VA17 500 IU,VE43 mg，VD3 500 IU， $\\mathrm { V B } 5 2 5 . 7 4 ~ \\mathrm { m g }$ ，Mn(as manganese sulfate $1 3 1 ~ \\mathrm { m g }$ ，Zn(as zinc sulfate) $9 2 . 5 ~ \\mathrm { m g }$ ，Cu(as copper sulfate) $3 0 ~ \\mathrm { m g }$ ，Co(as cobaltous sulfate) $1 0 . 7 2 \\mathrm { m g }$ ，I(as potassium iodide) $1 . 2 5 \\mathrm { m g }$ ，Se(as sodium selenite) $1 . 0 0 \\mathrm { m g }$ 。 "
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>A 组Group A</td><td>B 组Group B</td><td>C 组Group C</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td></tr><tr><td>青贮玉米 Silage corn</td><td>40.00</td><td>40.00</td><td>40.00</td></tr><tr><td>花生秧 Peanut vine</td><td>30.00</td><td>20.00</td><td>10.00</td></tr><tr><td>玉米Corn</td><td>8.70</td><td>16.40</td><td>30.00</td></tr><tr><td>豆粕 Soybean meal</td><td>13.00</td><td>15.00</td><td>15.50</td></tr><tr><td>小麦麸Wheat bran</td><td>6.80</td><td>7.15</td><td>3.00</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.20</td><td>0.25</td><td>0.20</td></tr><tr><td>石粉 Limestone</td><td>0.00</td><td>0.10</td><td>0.00</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>10.40</td><td>11.47</td><td>12.51</td></tr><tr><td>粗蛋白质CP</td><td>16.47</td><td>16.52</td><td>16.49</td></tr><tr><td>中性洗涤纤维NDF</td><td>35.47</td><td>36.12</td><td>36.28</td></tr><tr><td>酸性洗涤纤维ADF</td><td>20.47</td><td>20.33</td><td>20.81</td></tr><tr><td>钙Ca</td><td>0.57</td><td>0.56</td><td>0.57</td></tr><tr><td>磷P</td><td>0.28</td><td>0.27</td><td>0.27</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 营养水平为实测值。Nutrient levels were measured values. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试羊单栏饲养，每天于06:30、12:00、18:00 定量饲喂，固定时间段赶入运动场活动，供给充足洁净饮水，保持试验场地清洁，试验羊的驱虫免疫严格按照羊场程序进行。各组间饲养管理条件完全一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4消化代谢试验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "饲养试验的第10(前期)及90天（后期），每组选取接近平均体重的供试羊3只，饲养于专用消化代谢笼内，采用全部收粪、尿法进行为期 $1 0 \\mathrm { d }$ 的消化代谢试验，预试验期7d，正试期 $3 \\mathrm { d }$ 。试验饲粮及饲喂方法与饲养试验相同，记录投料量及剩料量，并收集剩料， $6 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烘干制成风干样后保存。每期消化代谢试验连续3d全收粪尿。粪样取1d粪量的 $10 \\%$ ，加入1/4粪重的 $10 \\%$ 盐酸溶液，混匀后 65℃烘箱内烘干至恒重，制成风干样保存，做好标记并记录数据；每天试验羊全部尿液经8层纱布过滤后加入 $1 0 \\% \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ ( $1 0 0 ~ \\mathrm { { m L } }$ 尿液加 $1 0 ~ \\mathrm { m L }$ ），最后将3d尿样混匀取 $5 \\%$ 保存，做好标记。保存在-20℃冰箱中备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 测定指标及方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 平均日增重",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试母羊分别于试验开始第1天及试验结束后第1天08:00空腹称重，并依据称重结果计算各组试验羊在试验期的平均日增重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 饲粮及粪、尿中常规成分",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "饲粮常规成分按照常规方法进行测定，粪和尿中的干物质含量和能量参考贺建华[5介绍的方法进行测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.3总能消化率、总能代谢率和消化能代谢率计算 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据对3种饲粮及其粪、尿中能量测定结果，并结合甲烷能估算结果，按照下列公式进行计算能量代谢指标：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "62 总能消化率 $( \\mathcal { \\% } ) { = } 1 0 0 { \\times } ( G E { - } F E ) / G E$   \n63 总能代谢率 $( \\% ) { = } 1 0 0 { \\times } ( G E { - } F E { - } U E { - } E _ { \\mathrm { C H 4 } } ) / G E ;$   \n64 消化能代谢率 $( \\% ) { = } 1 0 0 { \\times } ( G E { - } F E { - } U E { - } E _ { \\mathrm { C H 4 } } ) / ( G E { - } F E ) ^ { [ 6 ] } \\circ$ （204号  \n65 式中： $G E$ 为总能； $F E$ 为粪能；UE为尿能； $D E$ 为消化能； $M E$ 为代谢能； $E _ { \\mathrm { C H 4 } }$ 为甲烷能。  \n66 在本研究中，甲烷能采用Blaxter[7的方法推算求得，公式如下：  \n67 $E _ { \\mathrm { C H 4 } } ( \\% \\mathrm { ~ G E } ) { = } 3 . 6 7 { + } 0 . 0 6 2 D \\mathfrak { c }$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $D$ 为试验母羊摄入饲粮总能的表观消化率。经估算，本试验3组试羊甲烷能平均值为 $7 . 1 5 \\%$ GE。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.4消化能和代谢能采食量",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "消化能和代谢能采食量根据试验记录和实验室分析结果，按照下式进行计算：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { D E I _ { i } ~ ( { \\bf { M } } { \\bf { J } } { ' } { \\bf { d } } ) ~ } = \\sum _ { j = 1 } ^ { n } F _ { _ { i j } \\times C _ { j } \\times D _ { i } ; } } } \\\\ { { \\displaystyle { \\cal { M } } E I _ { i } ~ ( { \\bf { M } } { \\bf { J } } { ' } { \\bf { d } } ) ~ \\sum _ { j = 1 } ^ { n } F _ { _ { i j } \\times C _ { j } \\times M _ { i } \\circ } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $D E I _ { i }$ 和 $M E I _ { i }$ 分别为 $i$ 组母羊消化能和代谢能采食量； $F _ { i j }$ 为 $i$ 组母羊每天对饲粮 $j$ 的实际采食量； $C _ { j }$ 为饲粮中饲粮 $j$ 的总能， $D _ { i }$ 和 $M _ { i }$ 分别为 $i$ 组母羊对饲粮的总能消化率和总能代谢率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据统计与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用Excel软件整理，用 SPSS20.0.0软件进行方差分析，用LSD法进行组间差异显著性检验。试验数据以\"平均值±标准误\"表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮能量水平对崂山奶山羊能量消化代谢的影响 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，试验前期A组试羊总能及粪能显著低于B、C2组（ $. P { < } 0 . 0 5 \\$ ），B、C组间无显著差异（ $_ { \\cdot \\cdot P > 0 . 0 5 }$ ）；尿能、总能消化率、总能代谢率及消化能代谢率组间无显著差异（ $. P { > } 0 . 0 5$ ）。试验后期3组试羊的总能消化率在 $5 9 . 3 0 \\% { \\sim } 6 3 . 1 3 \\%$ 之间，且随着饲粮能量水平的提高，总能消化率依次提高；C组试羊的总能消化率、总能代谢率及消化能代谢率显著高于A组（ $P { < } 0 . 0 5$ ），但与B组试羊无显著差异（ $. P { > } 0 . 0 5 .$ ）；3组试羊的总能、粪能及尿能间呈显著差异（ $P { < } 0 . 0 5$ ），A组<B组<C86 组；A组试羊的甲烷能显著低于B、C2组（ $. P { < } 0 . 0 5$ ），但B、C组间无显著差异（ $_ { \\cdot \\cdot P > 0 . 0 5 }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e7478c5ce275e86fc5192c96ef9abf9b453541c8468cd08d8f8da4ec2536290.jpg",
+        "table_caption": [
+            "表2饲粮能量水平对崂山奶山羊能量消化代谢的影响",
+            "Table 2Effects of dietary energy level on digestion and metabolism of Laoshan dairy goats "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"3\">前期Prophase</td><td colspan=\"3\">后期Anaphase</td></tr><tr><td>A组 Group A</td><td>B组 Group B</td><td>C组 Group C</td><td>A组 Group A</td><td>B组 Group B</td><td>C组 Group C</td></tr><tr><td>总能 GE/(MJ/d)</td><td>8.11±0.40a</td><td>9.31±0.38b</td><td>10.00±0.45b</td><td>14.25±0.15a</td><td>16.20±0.10b</td><td>17.07±0.19c</td></tr><tr><td>粪能 FE/(MJ/d)</td><td>3.08±0.10a</td><td>3.45±0.14b</td><td>3.59±0.11b</td><td>5.80±0.34a</td><td>6.14±0.2b</td><td>6.31±0.33c</td></tr><tr><td>尿能 UE/(MJ/d)</td><td>0.34±0.06</td><td>0.35±0.05</td><td>0.37±0.06</td><td>0.41±0.06a</td><td>0.44±0.05b</td><td>0.47±0.07c</td></tr><tr><td>甲烷能 EcH4/(MJ/d)</td><td>0.58±0.02a</td><td>0.67±0.04b</td><td>0.71±0.01c</td><td>1.01±0.02a</td><td>1.16±0.02b</td><td>1.20±0.02b</td></tr><tr><td>总能消化率 GE digestibility/%</td><td>62.02±1.32</td><td>62.94±1.63</td><td>63.90±2.00</td><td>59.30±2.35a</td><td>62.34±2.71ab</td><td>63.13±1.90b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/03bb69863a28fd3fe6b1ebf12087912c8ec94f6dc4bd8453a0172dc57498c363.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>总能代谢率GE metabolic rate/%</td><td>51.18±2.13</td><td>52.10±1.93</td><td>52.94±1.74</td><td>49.33±2.34a</td><td>52.22±1.43ab</td><td>53.24±2.11b</td></tr><tr><td>消化能代谢率DE metabolic rate/%</td><td>82.52±0.65</td><td>82.75±1.00</td><td>82.84±0.81</td><td>81.18±0.49a</td><td>83.76±0.55ab</td><td>84.31±0.61b</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with no letter or the same lettr superscripts mean no significant difference ( ${ \\cdot } P { > } 0 . 0 5 )$ ,while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ .The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮能量水平对崂山奶山羊体重的影响 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，3组试羊的初重无显著差异（ $_ { \\cdot \\cdot P > 0 . 0 5 }$ ），由于A、B、C3组试羊的总能采食量、消化能采食量及代谢能采食量依次增加，试羊末重也依次增加，A 组试羊末重及平均日增重显著低于B、C2组 $( P { < } 0 . 0 5 )$ ，但B、C间无显著差异（ $. P { > } 0 . 0 5$ ）。上述结果表明，在饲粮粗蛋白质采食量相同且可满足正常生长需要条件下，母羊平均日增重随能量采食量增加而增加，但是能量达到一定的阈值后再增加对试羊无显著影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/662e2284e5b588124e79d62baa5685e429f8acc4d3ea7242513e08943dce2c39.jpg",
+        "table_caption": [
+            "表3饲粮能量水平对崂山奶山羊体重的影响 ",
+            "Table 3Effects of dietary energy level on body weight of Laoshan dairy goats "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>A组Group A</td><td>B 组 Group B</td><td>C 组 Group C</td></tr><tr><td>总能采食量 GEI/(MJ/d)</td><td>14.25±0.15a</td><td>16.20±0.10b</td><td>17.07±0.19c</td></tr><tr><td>消化能采食量 DEI/(MJ/d)</td><td>8.83±0.18a</td><td>10.05±0.24b</td><td>11.20±0.20c</td></tr><tr><td>代谢能采食量 MEI/(MJ/d)</td><td>7.41±0.12a</td><td>8.47±0.15b</td><td>9.39±0.12c</td></tr><tr><td>初重 Initial weight/kg</td><td>18.10 ±0.67</td><td>18.85±0.55</td><td>18.35±0.71</td></tr><tr><td>末重 Final weight/kg</td><td>25.56±0.56a</td><td>29.67±1.00b</td><td>29.01±1.15b</td></tr><tr><td>平均日增重 ADG/g</td><td>63.43±5.67a</td><td>87.96±8.55b</td><td>86.25±7.76b</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3育成期崂山奶山羊能量需要量与代谢体重和平均日增重的回归分析根据营养学原理，育成期崂山奶山羊的能量需要量可用以下公式表示：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN R { = } { \\bf a } _ { 1 } { \\times } W ^ { 0 . 7 5 } { + } { \\bf a } _ { 2 } { \\times } A D G .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：NR为消化能或代谢能的需要量（MJ/d）， $\\mathbf { a } _ { 1 }$ 为维持需要常数， ${ \\bf a } _ { 2 }$ 为生长需要常数， $\\mathbf { W } ^ { 0 . 7 5 }$ 为代谢体重 $( \\mathrm { k g } )$ ）， $A D G$ 为平均日增重（g）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当平均日增重为0时， $N R { = } { \\bf a } _ { 1 } { \\times } { \\bf W } ^ { 0 . 7 5 }$ ，即为为维持需要代谢能（ $M E _ { \\mathrm { { m } } }$ ）；根据试验羊体重可转化为单位代谢体重基础，即 $M E _ { \\mathrm { { m } } } { = } \\mathrm { { a } } _ { 1 } { \\times } { \\bf { W } } ^ { 0 . 7 5 }$ ；根据上式可求得每克活体增重需要 ${ \\bf { a } } _ { 2 } \\ { \\bf { M J } }$ 的代谢能［增重需要代谢能 $\\mathrm { ( M E _ { g } ) }$ 」，即 $M E _ { \\mathrm { g } } { = } { \\bf a } _ { 2 } \\ \\bf M J / \\bf g$ 。根据上述原理，通过对相关数据的回归分析，可建立表示育成期崂山奶山羊消化能和代谢能需要量与代谢体重和平均日增重关系的回归公式：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "111 DE=0.675W0.75+0.110ADG（ $P { = } 0 . 0 0 6$ ， $R ^ { 2 } { = } 0 . 9 8 2$ ）；  \n112 ME=0.526W0.75+0.076ADG（ $_ { P = 0 . 0 2 7 }$ ， $R ^ { 2 } { = } 0 . 8 7 3$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中：DE为消化能（MJ/d），ME为代谢能（MJ/d）， $W ^ { 0 . 7 5 }$ 为代谢体重（ $\\mathbf { \\nabla } \\cdot \\mathbf { k g } ^ { \\cdot }$ ），ADG为平均日增重（g）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "115 3讨论",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1育成期崂山奶山羊对饲粮中能量的利用率 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "能量是动物体内一切代谢活动和生产活动的基础，反刍动物从饲料中摄取的能量有 $20 \\% { \\sim } 5 0 \\%$ 是以粪的形式损失，有 $4 \\% \\sim 5 \\%$ 以尿的形式损失。近年来，国内对于不同品种羊饲粮中能量利用率进行了大量的研究[8-9]。据孙玉贤等[10]报道，饲喂蛋白质水平为 $1 3 \\%$ 的饲粮发现青山羊生长阶段饲粮总能消化率和总能代谢率分别为 $6 3 . 5 \\%$ 和 $5 2 . 3 \\%$ ；金公亮等[I研究发现，莎能奶山羊对饲粮总能消化率和总能代谢率分别为 $6 6 . 8 \\%$ 和 $5 4 . 4 \\%$ ；Sutter 等[12]和Moorby 等[13]曾报道，提高饲粮能量水平并不能显著增加尿能排出量，这与本试验的结果不一致，其原因有待于进一步研究。在本试验条件下，育成期崂山奶山羊总能消化率和总能代谢率分别为 $5 9 . 3 0 \\% { \\sim } 6 3 . 1 3 \\%$ 和 $4 9 . 3 3 \\% \\sim 5 3 . 2 4 \\%$ ，其低能量水平对育成期奶山羊的总能消化率、总能代谢率及消化能代谢率显著低于中、高能量水平，这与王惠[14]在研究空怀期陕北绒山羊的能量需要量时的结果一致，随饲粮中能量水平的提高，粪能以及尿能都有不同程度的提高，如何进一步提高崂山奶山羊对能量的利用效率尚有待于进一步的研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2育成期崂山奶山羊与其他品种羊能量需要量比较",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "育成期母羊的品种特征和生长的环境条件是影响其能量需求的主要因素，充足的能量供应是其他营养素被充分利用的基础，因此育成期母羊的能量需要量的确定对生产至关重要。由本试验的结果可知，崂山奶山羊育成期的维持需要代谢能为 $0 . 5 2 6 \\mathrm { M J / k g } \\mathrm { W } ^ { 0 . 7 5 }$ ，日增重每增加1g需要能量0.076MJ。其维持需要代谢能与国内关于生长期莎能羊（0.4061MJ/kgW0.75）、60\\~90 日龄的关中奶山羊（0.487 MJ/kgW0.7）的相关研究结果基本一致[15-16]，比较而言，本试验结果要稍高一些，这可能与品种差异以及环境因素有关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3育成期崂山奶山羊饲粮中适宜能量水平的确定 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲粮能量水平决定着饲料的消耗量以及蛋白质和其他营养物质的供给量，从而影响动物的生产性能及体内营养物质的吸收利用，进一步影响生长发育及健康水平，因此确定崂山奶山羊的能量需要量具有重要意义。一般来讲，动物的品种特征和所处的环境条件是影响其能量需要量的重要因素。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据以上相关参数，结合本试验获得的能量需要量研究结果以及NRC标准，经估算，正常生产条件 下育成期崂山奶山羊母羊饲粮中消化能以 $1 1 . 4 7 { \\sim } 1 2 . 5 1 \\mathrm { M J / k g }$ （干物质基础）较为适宜。   \n4结论   \n$\\textcircled{1}$ 本试验条件下，育成期崂山奶山羊总能消化率和总能代谢率分别为 $6 1 . 5 \\%$ 和 $5 1 . 5 \\%$ 。育成 期崂山奶山羊母羊饲粮中消化能以 $1 1 . 4 7 { \\sim } 1 2 . 5 1 \\mathrm { M J / k g }$ （干物质基础）较为适宜。   \n$\\textcircled{2}$ 育成期崂山奶山羊消化能和代谢能需要量与代谢体重和平均日增重关系的回归公式： $D E { = } 0 . 6 7 5 W ^ { 0 . 7 5 } { + } 0 . 1 1 0 A D G$ （ $_ { \\cdot \\cdot P = 0 . 0 0 6 }$ ， $R ^ { 2 } { = } 0 . 9 8 2$ ）； $M E { = } 0 . 5 2 6 W ^ { 0 . 7 5 } { + } 0 . 0 7 6 A D G$ （ $\\scriptstyle P = 0 . 0 2 7$ ， $R ^ { 2 } { = } 0 . 8 7 3$ ） [式中 $D E$ 为消化能（MJ/d），ME为代谢能（MJ/d）， $W ^ { 0 . 7 5 }$ 为代谢体重（kg）， $A D G$ 为平均日增重 (g）]。   \n参考文献:   \n[1]赵孟敏,杨在宾,杨维仁,等.杜泊羊生长期能量的代谢规律和需要量[J].动物营养学 报,2013,25(6):1243-1250.   \n[2]周汉林,李茂,字学娟,等.海南黑山羊生长期的能量与蛋白质需要量[J].热带作物学 报,2009,30(8):1210-1214.   \n[3]AGNEW R E,YAN T,MURPHY J J,et al.Development of maintenance energy requirement and energetic efciency for lactation from production data of dairy cows[J].Livestock Production Science,2003,82(2/3):151-162.   \n[4]杨在宾,杨维仁,张崇玉,等.大尾寒羊能量和蛋白质需要量及析因模型研究[J].中国畜牧兽 医,2004,31(12):8-10.   \n[5]贺建华.饲料分析与检测[M].北京:中国农业出版社,2008.   \n[6]杨凤.动物营养学[M].2版.北京:中国农业出版社,2000.   \n[7]BLAXTER K L,CLAPPERTON JL.Prediction of the amount of methane produced by   \nruminants[J].The British Journal of Nutrition,1965,19(4):511-522.   \n[8]臧彦全.生长期波杂肉羊能量和蛋白质营养需要的研究[D].硕士学位论文.北京:中国农业科学 院,2003.   \n[9]何仁春,吴柱月,卢玉发,等.黑山羊的能量利用效率及对生长性能的影响[J].饲料工   \n业,2010,31(13):38-40. [10]孙玉贤,方国玺,李凤双.生长青山羊能量需要的研究[J].山东农业大学学报,1987,18(1):9-18. [11]金功亮,齐侃虎,李晓清,等.西农莎能羊泌乳期的维持代谢能需要[J].西北农学院学   \n报,1983(1):89-105.   \n[12]SUTTER F,BEEVER D E.Energy and nitrogen metabolism in Holstein-Friesian cows during early lactation[J].Animal Science,2000,70(3):503-514.   \n[13]MOORBY J M,DEWHURST R J,MARSDEN S.Effect of increasing digestible undegraded protein supply to dairy cows in late gestation on the yield and composition of milk during the subsequent lactation[J].Animal Science,1996,63(2):201-213.   \n[14]王惠,王永军,周利勇,等.空怀期陕北白绒山羊的能量需要量[J].动物营养学   \n报,2012,24(9):1694-1700.   \n[15]陈喜斌,金公亮.生长期莎能奶山羊能量代谢研究IV.应用比较屠宰试验与饲养试验结合法研究 生长期莎能奶山羊的能量代谢[J].动物营养学报,1998,10(1):54-59.   \n[16]白成斌 $. 1 \\mathrm { \\sim } 9 0 \\mathrm { d }$ 关中奶山羊能量营养需要研究[D].硕士学位论文.杨凌:西北农林科技大学,2010. Energy Requirement of Laoshan Dairy Goats at Fattning Period   \nSONG XiaowenlZHANG Guangfeng1WANG Huimin1 CHENG Ming² DAI Zhenghao²LIN Yingting1\\*   \n(1. College of Animal Science and Technology, Qingdao Agricultural University, Qingdao 266109, China; 2. Institute of Husbandry and Veterinary of Qingdao City, Qingdao 266109, China)   \nAbstract: This experiment was conducted to investigate the effcts of dietary energy level on energy utilization of Laoshan dairy goat at fattening period. Thirty female Laoshan dairy goats with an average weight of $( 1 8 . 4 3 { \\pm } 0 . 7 6 ) \\mathrm { ~ k ~ }$ g were used in a single-factor randomized design and divided into 3 groups with 10 replicates in each group and 1 goat per replicate. Goats in three groups were fed diets with consistent crude protein, calcium and phosphorus levels, but with different digestive energy levels (10.40,11.47 and 12.51 MJ/kg, respectively). The pretrial lasted for $1 0 \\mathrm { d }$ ,and the trial lasted for 9O d. The results showed as follows,1) with the increase of dietary energy level, gross energy increased,and gross energy digestibility, gross energy metabolic rate and digestive energy metabolic rate in l2.51 MJ/kg group were significantly ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "higher than that in 10.40 MJ/kg group $( P { < } 0 . 0 5 )$ ； there were significant differences among 3 groups in gross energy, fecal energy and urinary energy $( P { < } 0 . 0 5 )$ ，and 10.40 MJ/kg group<11.47 MJ/kg group<12.51 $\\bf { M J / k g }$ group; methane energy in $1 0 . 4 0 \\ \\mathrm { M J / k g }$ group was significantly lower than that in 11.47 and 12.51 MJ/kg groups $( P { < } 0 . 0 5 )$ . 2） Final weight and average daily gain of goats in 10.40 MJ/kg group was significantly lower than those in 11.47 and 12.51 MJ/kg groups $( P { < } 0 . 0 5 )$ ,and there were no significant differences between 11.47 MJ/kg group and 12.51MJ/kg group $( P { > } 0 . 0 5 )$ . 3）The regression formulas between digestible energy or metabolizable energy requirements and average daily gain of Laoshan dairy goats at fattening period were as follow: $D E { = } 0 . 6 7 5 W ^ { 0 . 7 5 } { + } 0 . 1 1 0 A D G$ ? ${ ( P \\mathrm { { = } } 0 . 0 0 6 }$ ， $R ^ { 2 } { = } 0 . 9 8 2 \\ '$ ； （204 $M E { = } 0 . 5 2 6 W ^ { 0 . 7 5 } { + } 0 . 0 7 6 A D G$ 0 $\\scriptstyle { \\mathrm { \\cdot } } P = 0 . 0 2 7$ ， $R ^ { 2 } { = } 0 . 8 7 3$ ） $[ D E$ was digestive energy（MJ/d）， ME was metabolizable energy（MJ/d）， $W ^ { 0 . 7 5 }$ was metabolic weight $( \\mathbf { k g } )$ ，and $A D G$ was average daily gain (g）J. In conclusion, the optimal dietary digestive energy level for female Laoshan dairy goats at fattening period is 11.47 to 12.51 MJ/kg (dry matter basis).   \nKey words: fatting period; Laoshan dairy goat; energy; requirement ",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,101 @@
+临床研究
+
+# 宫颈癌与癌前病变组织中HPV-16的整合感染状态
+
+魏文斐,苏桂栋,吴兰芳,何丽娜,陆 琳,周静,刘国炳,刘 萍,陈春林,余艳红,王薇南方医科大学南方医院妇产科，广东广州 510515
+
+摘要：目的 探讨宫颈癌及宫颈癌前病变中人类乳头瘤病毒16型(HPV-16)整合人宿主基因组的发生情况。方法 选取252例宫颈病变组织,其中宫颈癌48例,宫颈上皮内瘤样病变(CIN)204例,包括CINI125例、CINⅡI 46例 $\phantom { + } \cdot \phantom { + } \mathrm { C I N } \| \boldsymbol { \mathbb { I } } 3 3 \$ 例,另取因子宫肌瘤行全子宫切除术的正常宫颈上皮20例为对照,采用重叠定量PCR检测HPV-16感染标本中病毒整合状态。结果宫颈癌中HPV-16阳性感染31例，占宫颈癌患者总数的 $6 5 . 6 \% \big ( 3 1 / 4 8 \big )$ ，其中HPV-16整合感染18例，占HPV-16阳性宫颈癌患者的 $5 8 . 1 \%$ (18/31);在CINI、CINⅡI、CINII中,HPV-16阳性感染率分别为 $1 9 . 2 \% ( 2 4 / 1 2 5 ) . 3 4 . 8 \% ( 1 6 / 4 6 ) . 4 2 . 4 \% ( 1 4 / 3 3 )$ ，整合感染率分别为 $1 6 . 7 \% ( 4 / 2 4 )$ $1 8 . 8 \%$ (3/16) $, 3 5 . 7 \% ( 5 / 1 4 )$ ;与不同级别CIN病变相比,宫颈癌患者的HPV-16整合感染率明显增加,差异具有统计学意义。结论 HPV-16整合感染状态与宫颈病变严重程度呈正相关,在HPVDNA检测基础上联合应用高危HPV感染状态的检测有利于提高宫颈癌筛查的靶向性并早期预测宫颈病变的转归。
+
+关键词：宫颈肿瘤;人乳头瘤病毒;整合
+
+# Study of integrated state of HPV-16 infection in cervical cancer and precancerous tissues
+
+WEI Wenfei,GuidongWLanfang,HELina,LLinZHOUJing,Guobing,Ling,CHENChunlin,YYanhong,WANG Wei DepartmentofGynecologyandObstetrics,NanFang Hospital,Southern Medical UniversityGuangdong50515,hina
+
+Abstract: ObjectiveTo investigatethe prevalenceof physical stateof HPV-16DNAincervical cancerand cervical precancerous carcinoma. Methods Multiplex PCR was adopted to detect the physical stateof HPV in samples from 252 patients with cervicalcarcinoma,incuding48samplesofcrvicalcancer,204cervicalintraepithelialneoplasia(I）(125CII46I and 33 CINIl)and 20normal samplesfromthesubjects withhysteromyomaundergoing hysterectomyrespectively.Results Among 48 patients with cervical cancer, 31 $( 6 5 . 6 \% )$ were infected with HPV-16. Eighteen among 31 $( 5 8 . 1 \% )$ HPV-16 infected patients withcervicalcancer were found tohave integrated infectionof HPV-16.The positiverates of HPV-16 infection in the patients with CIN I, CIN II and CIN III were $1 9 . 2 \%$ $3 4 . 8 \%$ and $4 2 . 4 \%$ and the integrated infection rates of HPV-16 were $1 6 . 7 \%$ $1 8 . 8 \%$ and $3 5 . 7 \%$ , respectively. Compared with patients withdifferent gradesof CIN,the integrated rateofHPV-16 infection in those with cervical cancer was significantly elevated.Conclusion Among the patients with HPV-16 infection,the integrated stateofHPV-16is positivelycorrelated withthe severityofcervical lesions.Combined HPVtyping testanddetectionof integrated viralstatecontribute topredicting the prognosisof patients withcervical precancerous lesions and increasing the accuracy of screening cervical cancer on the basis of HPV DNA detection.
+
+Key words: cervical malignancy; human papillomavirus; integration
+
+生殖道人乳头状瘤病毒(human papillomavirus,HPV)感染是宫颈癌发生的首要因素，但流行病学调查显示仅有HPV感染并不足以导致宫颈癌的发生，高危型HPV(HR-HPV)的持续存在及病毒DNA整合入宿主细胞才是导致宫颈上皮细胞恶性转化的关键环节[-2]
+
+HPV整合可以发生在不同的DNA开放读码框架处(ORF)，E2基因铰链区因其不稳定性而成为高危HPV整合入宿主细胞最常见的缺失或断裂部位。我们采用重叠定量PCR技术，对第二代捕获杂交法(HC-II)检测到的高危HPV患者进行HPV-16分流，并初步探讨以HPV-16E2基因缺失判断HPV整合在宫颈癌发生、发展中的作用及其临床意义。
+
+# 1 材料与方法
+
+1.1 材料
+
+1.1.1临床标本 选取2009年1月\~2011年12月在南方医科大学南方医院经活检、宫颈锥切术及广泛性全子宫切除术后获得的宫颈病变组织存档蜡块共252例，根据WHO女性生殖道肿瘤组织学分型(1994)标准，其中宫颈癌48例，宫颈上皮内瘤样病变(CIN)204例，包括125例CINI、46例CINⅡI、33例CINII，另取来源于因子宫肌瘤行子宫全切的正常宫颈上皮20例作为对照。本组患者年龄28\~68岁，中位年龄46岁，均为已婚妇女。标本组织取检前均未行化疗或放射治疗。蜡块常规切片、HE染色后显微镜下观察，确定该组织无自溶、坏死和大片出血等异常后进行下一步实验。
+
+1.1.2细胞系人宫颈癌细胞株SiHa、CasKi购自美国典型生物物种保藏中心,分别置于含 $10 \%$ 胎牛血清的DMEM和RPMI1640培养液中，于3 $7 \%$ $\mathrm { C O } _ { 2 }$ 饱和湿度条件下培养。
+
+1.1.3随访病例选取2011年1月\~12月在南方医科大学南方医院经活检和HPV检测确诊为低危HPV感染、HPV-16游离感染、HPV-16整合感染的CINI病例各4例，患者确诊后自愿临床随诊18个月，宫颈细胞学和HC-Ⅱ检测每4\~6个月进行1次。病情进展或持续存在采取LEEP手术治疗。
+
+# 1.2 方法
+
+1.2.1 石蜡切片的DNA提取 所有蜡块标本切取 $1 0 ~ \mu \mathrm { m }$ 厚切片3片，组织脱蜡后分别加入TES溶液 ${ 5 0 0 \mu \mathrm { l } } .$ 蛋白酶K溶液 $3 0 \mu 1 . 2 0 \%$ SDS $3 0 ~ \mu \mathrm { l }$ ， $5 6 ~ \mathrm { { ^ circ C } }$ 水浴 $7 2 \mathrm { { h } }$ ；酚：氯仿：异戊醇( $2 5 \colon 2 4 \colon 1 )$ 抽提2次，离心取上清;加入1/10体积 $3 \mathrm { m o l / L }$ 乙酸钠和2倍体积无水乙醇，离心弃上清并真空泵干燥沉淀，加入适量TE缓冲液溶解沉淀。
+
+1.2.2DNA提取质量的测定PCR扩增-actin和GAPDH鉴定DNA提取质量： $\beta$ -actin( $\mathsf { 4 9 8 ~ b p }$ )上游引物5'-AGCCATGTACGTTGCTATCC-3'，下游引物 $5 ^ { \prime }$ -TTGGCGTACAGGTCTTTGC-3';GAPDH(230bp)上游引物：5'-ACGGATTTGGTCGTATTGGG-3',下游引物:5'-TGATTTTGGAGGGATCTCGC-3'。样本DNA经PCR扩增 $\beta$ -actin和GAPDH均能得到清晰明显的目的条带者视为合格。
+
+1.2.3高危HPV(HR-HPV)感染的检测 按照Digene公司的HC-ⅡI高危型HPV检测试剂盒操作步骤进行。
+
+1.2.4HPV-16感染的确定以下两项检查均为阳性时确定为HPV-16感染
+
+(1)DNA水平确定HPV-16感染：计算机软件辅助设计HPV-16E7基因上游引物5'-AGAAACCCAGCTGTATCAT-3'；下游引物5'-TTATGGTTTCTGAGAACAGA-3',PCR检测HPV-16E7基因以确定HPV-16感染；(2)蛋白水平确定HPV-16感染免疫组化SP法检测石蜡切片组织中HV-16E7表达，具体步骤参照文献所述[3]。
+
+1.2.5 确定HPV-16整合 针对HPV-16感染病例,通过重叠PCR分别扩增HPV-16E2基因三个相互间有序列交叉的小片段4来确定是否存在病毒整合，引物序列如下：片段 $\mathrm { A ( 4 7 5 ~ b p ) }$ ：上游引物5'-AGGACGAGGACAAGGAAAA-3'，下游引物 $5 ^ { \prime }$ -ACTTGACCCTCTACCACAGTTACT-3';片段B $( 4 7 7 \mathrm { b p } )$ ：上游引物5'-TTGTGAAGAAGCATCAGTAACT-3'，下游引物5'-TAAAGTATTAGCATCACCTT-3';片段 $\mathbf { C } \left( 2 7 6 \ \mathrm { b p } \right)$ ：上游引物5'-GTAATAGTAACACTACACCCATA-3'，下游引物$5 ^ { \prime }$ -GGATGCAGTATCAAGATTTGTT-3'。当A、B、C三个片段不能同时阳性扩增时，提示HPV-16E2基因存在缺失，代表HPV-16整合状态。HPV-16游离和整合感染状态分别以Caski和SiHa细胞株的DNA为阳性对照，前者能扩增出A、B、C三个片段，而后者仅能扩增出片段C(图2)。
+
+1.2.6 统计学处理应用SPSS10.0统计软件进行。根据不同类型数据，采用卡方检验 $\mathbf { \Omega } _ { , t }$ 检验、Fisher检验等对结果进行比较，以 $P { < } 0 . 0 5$ 为有显著性差异。
+
+# 2结果
+
+# 2.1HR-HPV的检测与分型
+
+2.1.1 HR-HPV的检测 HC-II检测发现,HR-HPVDNA的总体阳性率为 $5 0 . 4 \%$ 。在正常宫颈、CINI、CINⅡ、CINⅢI、宫颈癌中,HR-HPV的阳性检出率分别为 $1 5 . 0 \% \left( 3 / 2 0 \right) . 3 2 . 8 \% \left( 4 1 / 1 2 5 \right) . 5 4 . 3 \% \left( 2 5 / 4 6 \right) . 6 9 . 7 \%$ (23/33) $9 3 . 8 \% ( 4 5 / 4 8 )$ ，两两之间比较均有显著的统计学差异( $\scriptstyle \sum \sum ( 0 . 0 5$ ，表1)。
+
+2.1.2HPV-16感染的确定以石蜡标本DNA为模版，PCR扩增HPV-16E7基因。结果显示HPV-16阳性感染的正常宫颈、CINI、CINI、CINⅢI、宫颈癌样本分别有1、29、19、17和33例;免疫组化(图1)检测HPV-16E7蛋白，结果显示HPV-16阳性感染的正常宫颈、CINI、CINII、CINⅡI、宫颈癌样本分别有2、27、18、15和32例，两者均为阳性的样本分别为1、24、16、14和31例。在HR-HPV感染的所有病例中,HPV-16总感染率为 $6 2 . 8 \%$ 在正常宫颈、CINI、CINII、CINⅢ和宫颈癌样本中，HPV-16阳性率分别为 $5 . 0 \%$ (1/20）、 $1 9 . 2 \%$ (24/125）、$3 4 . 8 \%$ (16/46) $. 4 2 . 4 \%$ (14/33)和 $6 5 . 6 \% \big ( 3 1 / 4 8 \big )$ (表1)。
+
+Y
+
+表1不同宫颈组织中HPV感染及HPV-16整合状态的比较 Tab.1HPV infection and its integration state in different cervical tissues   
+
+<html><body><table><tr><td rowspan="2">Type</td><td rowspan="2">n</td><td colspan="2">HPV</td><td colspan="2">HPV-16</td><td colspan="2">Integration of HPV-16</td></tr><tr><td>n</td><td>%</td><td>n</td><td>%</td><td>n</td><td>%</td></tr><tr><td>Normal</td><td>20</td><td>3</td><td>15.0</td><td>1</td><td>5.0</td><td>0</td><td>0</td></tr><tr><td>CINI</td><td>125</td><td>41</td><td>32.8</td><td>24</td><td>19.2</td><td>4</td><td>16.7</td></tr><tr><td>CIN II</td><td>46</td><td>25</td><td>54.3</td><td>16</td><td>34.8</td><td>3</td><td>18.8</td></tr><tr><td>CINⅢI</td><td>33</td><td>23</td><td>69.7</td><td>14</td><td>42.4</td><td>5</td><td>35.7</td></tr><tr><td>Cervical carcinoma</td><td>48</td><td>45</td><td>93.8</td><td>31</td><td>65.6</td><td>18</td><td>58.1</td></tr></table></body></html>
+
+# 2.2HPV-16整合的确定
+
+HPV-16阳性的一例正常组织表现为游离感染;HPV16阳性的CINI、CINⅡ、CINⅢI样本中存在整合感染的分别为4例、3例和5例。与CINI（4/24,$1 6 . 7 \%$ )、CINI $( 3 / 1 6 , 1 8 . 8 \% )$ 相比,CINI中HPV-16总体整合感染率 $( 5 / 1 4 , 3 5 . 7 \%$ )明显升高，差异有显著性意义 $( P { < } 0 . 0 5 )$ ;而在宫颈癌中，HPV-16整合感染的病例超过半数，阳性率达到 $5 8 . 1 \% ( 1 8 / 3 1 )$ ，与不同级别的CIN病变相比均有显著性差异(表1)。HPV16整合状态检测如图2所示。
+
+![](images/5bf6399fc3583460e0499f8b7d86da47d1f87d7f41ee521a6b4f8fd007aab780.jpg)  
+图2重叠PCR扩增HPV-16E2不同片段判断HPV-16整合状态 Fig.2 HPV16 integration state determined by multiplex PCR amplifying different HPV16 E2 gene segments.M: marker; 1: Caski; 2: SiHa; 3: CIN I; 4: CIN II (integrated); 5、6: Cervical Carcinoma (integrated); 7: control.
+
+# 2.3HPV16整合状态与宫颈病变进程的关系
+
+经临床随诊观察，低危HPV感染的CINI病例病毒感染全部自然转阴,其中2例发生病变消退;HPV-16游离感染的CINI病例中，3例病毒感染自然转阴，其中1例病变消退;而在HPV-16整合感染病例中，病毒感染及病变状态均持续存在。
+
+# 3讨论
+
+宫颈癌是常见的女性恶性肿瘤。据资料显示，在最近10年中，全世界每年有大于30万例子宫颈浸润癌新病例，占整个妇女癌症的 $10 \%$ 左右。每年全世界约有190000人死于宫颈癌，而其中大于3/4的死亡发生在发展中国家。我国近数十年积极开展了宫颈癌的防治工作，但由于人口众多，中国每年的宫颈癌新发病例仍约占世界总发病数的1/3,宫颈癌的防治仍是不容忽视的大问题。
+
+大量流行病学资料和实验室的证据都强有力地支持HPV感染与宫颈癌之间的因果关系[5-6],HPV感染是宫颈癌发生的必要条件和主要危险因素并已为人们所认识。本研究结果显示HR-HPV在正常宫颈、CINI、CINI、CINⅢI、宫颈癌中的阳性率随宫颈病变级别的加重而呈逐渐上升的趋势，说明HR-HPV感染与宫颈病变程度成正相关；采用PCR和免疫组化分别从DNA和蛋白水平确定HPV-16感染，结果显示HPV-16在HR-HPV感染病例中的总体占有率为 $6 2 . 8 \%$ ，提示HPV-16是最常见的高危型HPV,进一步支持了前期分子流行病学研究结论[]。大部分HPV感染是一过性的，一般在感染后6\~12个月内消退。但当病毒或宿主的基因发生突变或宿主的防御机制发生缺陷时，可诱导HPV基因片段整合到宿主细胞的DNA上，使得相应基因调控失调[7-8]。HPV繁殖停止在复制周期的某一时相，从而导致HPV持续感染，这种持续性或者反复性的HPV(特别是高危型)感染可能导致细胞向恶性表型转化,使宫颈癌变的危险性大大增加[9-10]。多数学者推测HPV整合是宫颈癌变进程中的一个早期事件，然而有关其具体发生时相的研究结论目前尚不统一。宫颈癌组织中HR-HPV感染的存在状态与病毒分型密切相关，如HPV-18、31等型就总是以整合状态存在[12]。而有报道认为HPV-16并不单纯以整合状态存在于宫颈癌变组织中[13]。因此,整合与HPV-16感染相关宫颈癌变的内在相关性目前仍不确定，需要进一步的研究。本研究结果显示HPV-16在宫颈癌患者多表现为整合感染，其整合率达到 $5 8 . 1 \%$ ;并且,随着宫颈病变级别的升高,整合状态检出比例明显升高，提示HPV-16感染整合状态的存在是宫颈病变恶性转化过程中的高危因素。另外，我们选取相关病例进行随访，结果提示低危型HPV感染以及HPV-16游离感染的病例在18个月随访观察后全部自然转阴，而HPV-16整合感染病例病毒感染持续存在，其中有 $2 5 \% ( 1 / 4 )$ 出现病变进展，进一步提示高危型HPV整合状态的检测还可能对宫颈癌前病变的转归起到一定的预测作用。
+
+近年来，随着高危型HPV与宫颈癌发生发展因果关系的确定，将HPVDNA检测与细胞学检查联合进行宫颈癌及宫颈上皮内瘤变的筛查逐渐得到人们的肯定，并广泛应用于临床。HC-Ⅱ在世界范围内的广泛应用成为宫颈癌筛查的一大进步，对于指导细胞学异常，尤其是ASCUS和LSIL的处理具有重要意义[14]。但HC-Ⅱ仅检测是否有高危HPV感染存在，不能提供病毒是否整合入宿主细胞的信息。多数研究认为在湿疣病变和绝大多数低度CIN病变中HPV整合入宿主基因组是稀有事件,在癌变的组织中才会普遍出现[15]。但本研究结果却显示，在HPV-16感染的CIN病例中平均有$2 2 . 2 \%$ 出现整合感染，即使CINI，亦有 $1 6 . 7 \%$ 的整合率，提示高危HPV整合在早期的宫颈病变中就已经出现，并贯穿整个癌变进程。同时我们观察到，相对于低危HPV感染和HPV游离感染的CINI患者而言，HPV-16整合或混合感染的CINI患者的HPV感染将持续存在，且宫颈病变更易于进展而不易消退，提示整合可能是HPV持续存在、宫颈病变快速进展恶变的标志之一。因此,在HC-Ⅱ的基础上联合应用高危HPV感染状态的检测,将有利于提高宫颈癌筛查的靶向性并早期预测宫颈病变的转归，对宫颈癌的预防和早诊早治具有重要意义。
+
+# 参考文献：
+
+[1]Pett M, Coleman N.Integration of high-risk human papillomavirus: a key event in cervical carcinogenesis[J].J Pathol, 2OO7,212(4): 356-67.
+
+[2]Li W, Wang W,Si M,et al. The physical state of HPV16 infection and its clinical significance in Cancer precursor lesion and cervical carcinoma[J].JCancer Res Clin Oncol,2008,134(12):1355-61.   
+[3]Wang W, Xia X, Wang S,et al. Oncolytic adenovirus armed with human papillomavirus E2 gene in combination with radiation demonstrates synergistic enhancements of antitumor efficacy [J]. Cancer Gene Ther,2011,18(11): 825-36.   
+[4]Collins SI, Constandinou-Williams C,Wen K,et al. Disruption of the E2 gene is a common and early event in the natural history of cervical human papillomavirus infection: alongitudinal cohort study [J]. Cancer Res,2009,69(9): 3828-32.   
+[5]Trimble CL,Clark RA,Thoburn C,et al. Human papillomavirus 16-associated cervical intraepithelial neoplasia in humans excludes CD8 T cels from dysplastic epithelium[J]. J Immunol, 2010,185 (11): 7107-14.   
+[6]郑 莹,彭芝兰,楼江燕,等.宫颈癌及癌前病变HPV-16存在状态检测 的研究[J].中国肿瘤临床,2006,33(17):961-5.   
+[7]Kafali H. HPV16 and increased risk of recurrence after treatment for CIN[J].Gynecol Oncol,2008,109(2):309-10；author reply 310-1.   
+[8]Liao SJ,Deng DR,Zhang WN,et al. Human papillomavirus 16/18 E5promotes cervical Cancer cell proliferation，migration and invasion in vitro and accelerates tumor growth in vivo[J]. Oncol Rep,2013,29(1): 95-102.   
+[9]Lace MJ,Anson JR,Klussmann JP,et al.Human papillomavirus type l6 (HPV-16) genomes integrated in head and neck cancers and in HPV-16-immortalized human keratinocyte clones Express chimeric virus-cell mRNAs similar to those found in cervical cancers[J]. JVirol,2011,85(4): 1645-54.   
+[10] Wang W, Xia X,Wang S,et al. Oncolytic adenovirus armed with human papillomavirus E2 gene in combination with radiation demonstrates synergistic enhancements of antitumor efficacy [J]. Cancer Gene Ther,2011,18(11): 825-36.   
+[11]Demeret CG,Thierry F. Transcription-independent triggering of the extrinsic pathway of apoptosis by human papillomavirus 18 E2 protein[J]. Oncogene,2003,22(2): 168-75.   
+[12]刘霞.人乳头瘤病毒感染型别及整合状态与宫颈癌发生的相关性研 究[D].沈阳:中国医科大学,2010.   
+[13]Sathish N,Abraham P, Peedicayil A,et al. E2 sequence variations of HPV16 among patients with cervical neoplasia seen in the Indian subcontinent[J]. Gynecol Oncol,2004,95(2): 363-9.   
+[14]李 杨,尚玉敏,杨 阳.HPV DNA检测(HC2)用于宫颈癌筛查价值的 Meta分析[J].现代妇产科进展,2013,7(7):561-4.   
+[15]Gallo G,Bibbo M,Bagella L,et al. Study of viral integration of HPV-16 in young patients with LSIL[J]. JClin Pathol,2003,56(7): 532-6.
+
+(编辑：孙昌朋)

@@ -1,0 +1,258 @@
+外源脂肪酶对花鲈生长性能、体组成、血清生化指标、消化酶活性及营养物质表观消化率的影响
+
+王国霞1,²王 敏孙育平1,2 胡俊茹1,² 黄文庆 陈晓瑛1,2 邱世殿 黄燕华 1,2\*(1.广东省农业科学院动物科学研究所，广州510640；2.广东省畜禽育种与营养研究重点实验室，广州 510640；3.广州飞禧特水产科技有限公司，广州510640)
+
+摘要：本试验旨在研究低蛋白质高脂肪饲料中添加外源脂肪酶对花鲈生长性能、体组成、血清生化指标、消化酶活性及营养物质表观消化率的影响。试验选取初始体重为( $6 . 2 6 { \pm } 0 . 0 2 \rangle$ g 的花鲈600尾，随机分成6组，每组4个重复，每个重复25尾。正对照组（ $\mathrm { G } +$ 组）饲喂高蛋白质低脂肪（ $4 1 . 7 6 \%$ 粗蛋白质和 $8 . 3 4 \%$ 粗脂肪）的正常饲料，对照组（G0 组）饲喂低蛋白质高脂肪（ $3 7 . 6 4 \%$ 粗蛋白质和 $1 1 . 1 5 \%$ 粗脂肪）饲料，试验组（G100、G200、G400 和G800 组）分别饲喂在低蛋白质高脂肪饲料中添加100、200、400 和 $8 0 0 \ \mathrm { m g / k g }$ 脂肪酶的试验饲料。试验期为8周。结果表明：1）与 $\mathrm { \Delta G } +$ 组相比， $\mathrm { \bf G 0 }$ 组花鲈的终末体重、增重率、摄食量和肝体比均升高（ $( P { > } 0 . 0 5 )$ ，脏体比和脂体比显著升高（ $_ { ( P < 0 . 0 5 ) }$ ，血清总抗氧化能力显著下降（ $P { < } 0 . 0 5 \rangle$ ，干物质、粗蛋白质、粗脂肪和总能的表观消化率下降（ $. P { > } 0 . 0 5 \$ ，脂肪酸C16:1-n9 和C18:3-n3的表观消化率显著升高（ $. P { < } 0 . 0 5$ )。2）与G0组相比，试验组的终末体重和增重率降低；其中G800 组终末体重、增重率显著降低（ $\scriptstyle \cdot { P < 0 . 0 5 }$ )，饲料系数显著增加$P { < } 0 . 0 5 )$ ，存活率显著下降（ $_ { . } P { < } 0 . 0 5 )$ ，脏体比和脂体比降低（ $P { > } 0 . 0 5 )$ ，中肠脂肪酶和肝脏蛋白酶活性降低（ $P { > } 0 . 0 5 )$ ，血清胆固醇、高密度脂蛋白胆固醇、甘油三酯含量下降（ $. P { > } 0 . 0 5 )$ ；G200 组血清谷丙转氨酶活性和丙二醛含量显著下降（ $. P { < } 0 . 0 5 )$ 。由此可见，饲料脂肪可以节约部分蛋白质，低蛋白质高脂肪饲料对花鲈生长性能、体组成和消化酶活性等没有显著影响，但显著提高脏体比和脂体比。在低蛋白质高脂肪饲料中添加脂肪酶，花鲈生长性能有所降低，对消化酶活性及血清生化指标无显著影响，粗脂肪和部分脂肪酸表观消化率下降，但脏体比和脂体比一定程度上降低，机体抗氧化能力增强。
+
+关键词：花鲈；低蛋白质高脂肪饲料；外源脂肪酶；生长性能；血清生化指标；消化酶活性；表观消化率  
+中图分类号： $5 9 6 3 . 7 3 ^ { + } 2$
+
+随着水产养殖业的迅猛发展，饲料原料蛋白质资源紧缺的问题日益突出[1]。而鱼类蛋白质代谢的最终产物为氨，能够导致水质恶化进而引发鱼病[2]。据报道，饲料脂肪对蛋白质具有节约作用，从而维持水体质量和减少鱼发病概率[3-4]。花鲈(Lateolabraxjaponicus)饲料蛋白质含量高，随着鱼粉的供需矛盾，导致其价格不断上升，饲料成本上升，而适当降低饲料蛋白质水平、增加脂肪水平是降低饲料成本和缓解蛋白质资源短缺的一种方式。但高脂肪水平饲料能引起炎症反应进而影响大鼠的肠道健康[5]。这些负面的影响可能是因为过高水平的脂肪不能被动物肠道完全消化。脂肪酶具有油-水界面的亲和力，能在油-水界面上高速率的催化水解不溶于水的脂类物质，作用在体系的亲水-疏水界面层。来源不同的脂肪酶，在氨基酸序列上存在差异，活性也就不同。补充外源脂肪酶能够提高肉仔鸡对脂肪的消化和黄羽肉鸡对脂质的代谢[7]。在高脂肪水平饲料中添加适量的外源脂肪酶可以提高草鱼的生长性能和改善肠道健康[8]。因此，外源脂肪酶可能通过提高脂肪消化改善鱼类的生长，有待进一步探讨。体外试验证明，脂肪酶可以催化多不饱和脂肪转化成多不饱和脂肪酸，如二十碳五烯酸（EPA）和二十二碳六烯酸（DHA）[9-10]。与禽类和哺乳动物相比，鱼类的内源脂肪酶活性是极低的，这也许是变温动物的代谢活动低的原因[]。前期研究发现，鲈鱼幼鱼对饲料粗脂肪的表观消化率（ $80 \%$ 以上）相比罗非鱼幼鱼和对虾（ $9 5 \%$ 以上）的要低，这与内源酶限制影响有关，在幼年或应激状态下内源酶匮乏。那么补充外源脂肪酶是否会通过水解脂肪而进一步影响生长？且目前未见脂肪酶应用于花鲈饲料的相关报道。花鲈隶属鲈形目(Perciformes)，鮨科(Serranidae)，花鲈属，俗称海鲈、花寨、板鲈等，属肉食性凶猛鱼类，其肉质细嫩、味道鲜美，深受人们的喜爱，且生长速度快，对盐度和温度的适应范围较广，是我国海水养殖的主要种类之一。本试验通过在低蛋白质高脂肪饲料中添加脂肪酶，研究其对花鲈生长性能、体组成、血清生化指标、消化酶活性及营养物质表观消化率的影响，为脂肪酶在花鲈实用饲料中的应用提供参考。
+
+# 1．材料与方法
+
+# 1.1试验材料
+
+脂肪酶（来自黑曲霉）由国内某企业提供，参照GBT23535-2009 测定的活性为20000U/g。试验用花鲈购自福建诏安县高仕钦水产养殖专业合作社。
+
+# 1.2试验设计及试验饲料
+
+试验选取初始体重为（ $6 . 2 6 { \pm } 0 . 0 2$ ） $\mathrm { \bf ~ g }$ 的花鲈600尾，随机分成6组，每组4个重复，每个重复25尾。正对照组（ $\mathrm { G } +$ 组）饲喂高蛋白质低脂肪（ $4 1 . 7 6 \%$ 粗蛋白质和 $8 . 3 4 \%$ 粗脂肪）的正常饲料，对照组（G0 组）饲喂低蛋白质高脂肪（ $3 7 . 6 4 \%$ 粗蛋白质和 $1 1 . 1 5 \%$ 粗脂肪）饲料，试验组（G100、G200、G400 和G800 组）分别饲喂在低蛋白质高脂肪饲料中添加100、200、400 和 $8 0 0 \mathrm { m g / k g }$ 脂肪酶的试验饲料。试验期为8周。试验饲料组成及营养水平见表1。原料经粉碎过40 目筛，称好各组所需原料，然后采用逐级放大方法混匀，再用V形混合机进一步混合均匀，然后用双螺杆挤压机（SLX-80型）制成颗粒饲料（ $2 . 0 0 \mathrm { { m m } } ^ { \cdot }$ )，空调房阴干后放入塑料自封袋中，于-20℃冰箱中保存备用。
+
+表1试验饲料组成及营养水平(风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basis) 9   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="6">组别 Groups</td></tr><tr><td>G+</td><td>G0</td><td>G100</td><td>G200</td><td>G400</td><td>G800</td></tr><tr><td>原料 Ingredients</td></tr><tr><td>豆粕 Soybean meal 21.00</td><td>15.50</td><td>15.50</td><td>15.50</td><td>15.50</td><td>15.50</td></tr><tr><td>白鱼粉 White-fish meal</td><td>23.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td></tr><tr><td>花生麸 Peanut meal</td><td>13.00</td><td>13.00</td><td>13.00</td><td>13.00</td><td>13.00</td><td>13.00</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td></tr><tr><td>鱼油Fish oil</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>大豆磷脂油 Soybean phospholipid</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>oil 猪油 Lard oil</td><td></td><td>5.00</td><td>5.00</td><td></td><td></td><td>5.00</td></tr><tr><td>L-蛋氨酸L-Met</td><td>2.00 0.45</td><td>0.46</td><td>0.46</td><td>5.00 0.46</td><td>5.00 0.46</td><td>0.46</td></tr><tr><td>L-赖氨酸盐酸盐</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>L-Lys.HC1</td><td>0.00</td><td>0.06</td><td>0.06</td><td>0.06</td><td>0.06</td><td>0.06</td></tr><tr><td>高精面粉 High quality flour</td><td>19.51</td><td>21.50</td><td>21.50</td><td>21.50</td><td>21.50</td><td>21.50</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>维生素C磷酸酯</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vitamin Cphosphate ester</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr></table></body></html>
+
+<html><body><table><tr><td>氯化胆碱 Choline chloride</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>复合微量元素 Compound</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>microelementl)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>复合维生素 Compound vitamin2)</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>微晶纤维素</td><td></td><td>3.44</td><td>3.43</td><td>3.42</td><td>3.40</td><td>3.36</td></tr><tr><td>Microcrystalline cellulose</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>海藻酸钠 Sodium alginate</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>甜菜碱 Betaine</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>脂肪酶Lipase</td><td></td><td></td><td>0.01</td><td>0.02</td><td>0.04</td><td>0.08</td></tr><tr><td>三氧化二钇 Y2O3</td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.04</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>41.76</td><td>37.64</td><td>38.14</td><td>38.10</td><td>37.75</td><td></td></tr><tr><td>粗脂肪 Ether extract</td><td>8.34</td><td>11.15</td><td>11.10</td><td>11.03</td><td>11.19</td><td>37.36</td></tr><tr><td>水分Moisture</td><td>7.81</td><td>7.58</td><td>7.30</td><td>7.60</td><td></td><td>11.24</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>7.29</td><td>7.39</td></tr><tr><td>粗灰分 Crude ash 总能Gross energy/(MJ/kg)</td><td>8.36 18.85</td><td>7.76 19.42</td><td>7.67 19.28</td><td>7.70 19.26</td><td>7.77 19.17</td><td>7.78 19.28</td></tr></table></body></html>
+
+1’每千克复合微量元素含 One kilogram of compound microelement contained the following:$\mathrm { M g S O _ { 4 } \bullet H _ { 2 } O \ } .$ 12 g，Ca( $\mathrm { I O } _ { 3 }$ ） $_ { 2 } 9 \mathrm { \ g }$ ， $\operatorname { K C l } 3 6 \ \mathrm { g }$ ，蛋氨酸铜Met-Cu $\mathrm { 1 . 5 ~ g }$ ， $\mathrm { Z n S O _ { 4 } \bullet H _ { 2 } O }$ 10 g,$\mathrm { F e S O _ { 4 } { \bullet } H _ { 2 } O \ 1 \ g }$ ，Met-Co 250 mg， $\mathrm { N a S e O _ { 3 } 0 . 0 0 3 6 g _ { \circ } }$ （204号
+
+2每千克复合维生素含 One kilogram ofcompound vitamin contained the following：VA 3 200000 IU, $\mathrm { V B } _ { 1 } 4 \mathrm { g }$ ， $\mathrm { V B } _ { 2 } 8 \ \mathrm { g }$ ， $\mathrm { V B } _ { 6 } 4 . 8 \ \mathrm { g }$ ， $\mathrm { V B } _ { 1 2 } 1 6 \mathrm { m g }$ ，VD3 1 600 000 IU，VE $1 6 \mathrm { g }$ ， $\mathrm { V K } 4 \mathrm { g }$ 泛酸钙 calcium pantothenate $\boldsymbol { 1 6 \mathrm { ~ g ~ } }$ ，叶酸 folic acid $ { 1 . 2 8 \mathrm { ~ g ~ } }$ ，烟酸 nicotinic acid $2 8 \mathrm { ~ g ~ }$ ，肌醇inositol $4 0 \ \mathrm { g }$ ，生物素biotin $6 4 ~ \mathrm { m g }$ ，水分moisture $\leq 1 0 \%$ 。
+
+3’营养水平为实测值。Nutrient levels were measured values.
+
+# 1.3 饲养管理
+
+养殖试验在广东省农业科学院动物科学研究所水产研究室室内循环水养殖系统（水体容积为 $3 0 0 \mathrm { L }$ ）中进行。试验鱼在室内循环系统中饲喂，投喂花鲈暂养饲料淡化暂养。分别在08:30 和18:00进行投喂，投喂量为体重的 $6 \% \sim 7 \%$ 。每天观察花鲈的健康状况和采食情况，记录摄食量、死亡尾数并称重。试验期间为自然光照，水温为 $2 6 . 6 { \sim } 3 1 . 6 \mathrm { ~ \textdegree ~ }$ ，溶氧含量≥6
+
+mg/L， $\mathrm { p H } 7 . 7 { \sim } 7 . 9 \$ ，氨氮含量 $\mathrm { \leq 0 . 2 5 \ m g / L }$ 。
+
+# 1.4 测定指标及方法
+
+# 1.4.1 生长性能
+
+饲养试验结束前停食 $2 4 \mathrm { ~ h ~ }$ ，每尾鱼进行称重，测量体长。计算增重率（weight gainratio,WGR）、特定生长率（specific growth rate，SGR）、饲料系数（feed conversion rate,FCR）、摄食量（feed intake,FI）、存活率（survival rate,SR）、肥满度（condition factor,CF）、脏体比（viscerosomatic index,VSI）、肝体比（hepatopanceas index,HSI）、脂体比（intraperitioneal fatindex,IPF)。计算公式如下：
+
+增重率 $( \% ) =$ {[终末体重（g）-初始体重（g）]/初始体重 $( \textrm { g } ) \ \} \times 1 0 0 \$ 特定生长率 $_ { \cdot = 1 0 0 \times | }$ [终末体重（g）-初始体重（g）]/养殖天数；  
+饲料系数 $\varXi$ 总投喂量[终末体重（g) $+$ 死亡鱼体重（g）-初始体重（g）];摄食量（g/条） $\ c =$ 摄食饲料干重 $( \mathbf { g } ) \mathbf { \xi } / [ \mathbf { \xi }$ （初始尾数 $\cdot +$ 终末尾数） $/ 2 ]$   
+肝体比（%） $\scriptstyle = [$ 肝脏重（g）/体重 $( \mathbf { g } ) \mathbf { \sigma } ] \times 1 0 0 \$   
+脏体比（%）=[内脏团重（g）/体重（g） $\mathrm { \Delta } ] \times 1 0 0$   
+肥满度（ $\mathrm { g } / \mathrm { c m } ^ { 3 }$ ） $\scriptstyle = [$ 体重（g）/体长（cm） $^ 3 ] \times 1 0 0$   
+脂体比 $( \% ) = [$ 肠系膜脂肪重(g)/体重 $( \mathrm { g } ) ] \times 1 0 0$   
+存活率 $( \% ) =$ （试验结束时花鲈尾数/试验开始时花鲈尾数） $\times 1 0 0$ 。
+
+1.4.2体组成和营养物质表观消化率
+
+鱼体和粪便成分分析，每个重复随机取2尾鱼分析全鱼体成分，粗蛋白质含量采用凯氏定氮法（GB/T6432-1994)，粗脂肪含量采用索氏抽提法（GB/T6433-1994)，粗灰分含量采用 $5 5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 灼烧法（GB/T6438-1992)，水分含量采用105 $\mathrm { { } ^ { \circ } C }$ 烘箱干燥法（GB/T6435-1986)进行测定。采用氧弹热量计（IKA-C2000）测定总能。
+
+粪便样品收集：投喂1h后先用虹吸法将残饵捞出，之后用捞网收集粪便，将所有收集的粪便用6mol/L 盐酸固氮，然后置于烘箱 $1 0 3 ^ { \circ } \mathrm { C }$ 烘干 $1 5 ~ \mathrm { m i n }$ ，在 $6 5 \ \mathrm { ^ \circ C }$ 烘干过夜后，用微型粉碎机将其粉碎，过40目筛，混合均匀，密封于封口袋，置于 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱保存备用。委托广州分析测试中心用等离子体光谱仪对饲料和粪便中三氧化二钇（ ${ \bf Y } _ { 2 } { \bf O } _ { 3 }$ ）含量进行测定。脂肪酸含量采用气相色谱检测分析。
+
+饲料中干物质、营养物质的表观消化率计算公式：
+
+干物质表观消化率 $( \% ) = [ 1$ 一饲料中 ${ \bf Y } _ { 2 } { \bf O } _ { 3 }$ 含量/粪便中 ${ \bf Y } _ { 2 } { \bf O } _ { 3 }$ 含量 $] { \times } 1 0 0$ 营养物质表观消化率 $( \% ) = [ 1$ 一（饲料中 ${ \bf Y } _ { 2 } { \bf O } _ { 3 }$ 含量 $\times$ 粪便中营养物质含量)/（粪便中 $\mathrm { Y } _ { 2 } \mathrm { O } _ { 3 }$
+
+含量 $\times$ 饲料中营养物质含量） $] \times 1 0 0$ 。
+
+# 1.4.3 消化酶活性
+
+从每个缸中随机选取花鲈3尾，在冰上进行常规解剖，取出花鲈肠道和肝脏，去除肠道内容物及脂肪。用 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 预冷的生理盐水冲洗，用吸水纸吸掉表层水后，按1：4（mV）比例加入 $0 . 8 6 \%$ 生理盐水，冰水浴条件下机械匀浆，制备成 $20 \%$ 的组织匀浆液，离心后取上清液，置于-80℃保存，用于脂肪酶和淀粉酶活性的测定。准确称量肠道或肝脏，按1：9（m/V)比例加入匀浆介质，制备组织匀浆液， $2 5 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液检测蛋白酶活性。中肠和肝脏蛋白酶、脂肪酶、淀粉酶活性均采用南京建成生物工程研究所的试剂盒进行测定，测定方法按照试剂盒说明书进行。
+
+# 1.4.4 血清生化指标
+
+每个重复随机取10尾鱼采血，从尾静脉采血后迅速将血液注入采血管中，室温静置 $3 \sim$ 4h，待血液凝固后，用高速冷冻离心机 $3 5 0 0 ~ \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，取血清分装，然后将血清置于-80C冰箱保存待测。总蛋白（TP）、葡萄糖（GLU）、尿素氮（UN）、胆固醇（CHO）、高密度脂蛋白胆固醇（HDL-C）、低密度脂蛋白胆固醇（LDL-C）、甘油三酯（TG）含量及乳酸脱氢酶（LDH)、谷草转氨酶（GOT）、谷丙转氨酶（GPT）活性的测定委托广州市金域医学检验中心进行检测。总抗氧化能力（T-AOC）、丙二醛（MDA)含量及酸性磷酸酶（ACP）、碱性磷酸酶（AKP）活性采用南京建成生物工程研究所的试剂盒进行测定，测定方法按照试剂盒说明书进行。
+
+# 1.5 统计分析
+
+试验结果用平均值±标准误表示，采用 SPSS 20.0软件进行数据分析和统计，先对组间平均值数据作单因素方差分析（one-way ANOVA)，若组间有显著差异，再作 Duncan 氏法多重比较， $P { < } 0 . 0 5$ 表示差异显著。
+
+# 2结果
+
+# 2.1脂肪节约蛋白质的结果
+
+饲料蛋白质和脂肪水平对花鲈生长性能、体组成、消化酶活性、血清生化指标和营养物质表观消化率影响的结果分别见表2、表3、表4、表5和表6。饲喂低蛋白质高脂肪饲料（G0组）的终末体重、增重率和摄食量均高于饲喂高蛋白质低脂肪饲料的正常饲料（ $\mathrm { { G } + }$ 组)，但差异不显著（ $P { > } 0 . 0 5 \$ ；G0 组的肝体比、脏体比和脂体比均高于 $\mathrm { { G } + }$ 组，其中脏体比和脂体比达到显著水平 ( $. P { < } 0 . 0 5 ^ { \cdot }$ 。G0组与 $\mathbf { G } +$ 组之间肥满度、成活率没有显著差异（ $. P { > } 0 . 0 5 \$ 。G0组与 $\mathrm { \Delta G } +$ 组之间肝脏和中肠蛋白酶、淀粉酶和脂肪酶活性以及体组成、血清生化指标（除总抗氧化能力)没有显著差异( $( P { > } 0 . 0 5 )$ ，仅G0 组的血清总抗氧化能力显著低于 $\mathrm { \Delta G } +$ 组 $. P { < } 0 . 0 5 \mathrm { ~ }$ ）°与 $\mathbf { G } +$ 组相比，G0组的干物质、粗蛋白质、粗脂肪、总能的表观消化率略有下降，但没有显著差异 $( P { > } 0 . 0 5 )$ ；而G0 组的脂肪酸C16:1-n9 和C18:3-n3的表观消化率显著升高（ $. P { < } 0 . 0 5 )$ 。
+
+2.2外源脂肪酶对花鲈生长性能和体组成的影响
+
+由表2可知，与G0组相比，各试验组的终末体重和增重率均降低，其中G100和G800组终末体重显著降低（ $P { < } 0 . 0 5 )$ ，G800组增重率显著降低（ $_ { _ { P < 0 . 0 5 ) } }$ ；各试验组的饲料系数均增加，除G200 组外均显著高于G0 组（ $P { < } 0 . 0 5 \$ )。各试验组的摄食量、脏体比、肝体比和肥满度与G0组没有显著差异（ $P { > } 0 . 0 5 )$ ，各试验组的脂体比均低于G0 组（ $( P { > } 0 . 0 5 )$ ；各试验组的存活率均显著低于G0 组（ $. P { < } 0 . 0 5 )$ ）°
+
+# 表2外源脂肪酶对花鲈生长性能和形体指标的影响
+
+Table 2Effects of exogenous lipase on growth performance and physical indicators of Lateolabrax japonicus   
+
+<html><body><table><tr><td colspan="6">组别 Groups</td></tr><tr><td>G+</td><td>G0</td><td>G100</td><td>G200</td><td>G400</td><td>G800</td></tr><tr><td>6.25±0.01</td><td>6.26±0.03</td><td>6.24±0.02</td><td>6.27±0.01</td><td>6.25±0.02</td><td>6.30±0.02</td></tr><tr><td>52.96±0.30ab</td><td>54.46±0.89a</td><td>48.45±2.79b</td><td>51.87±1.31ab</td><td>49.14±1.21ab</td><td>48.59±2.91b</td></tr><tr><td>748.25±4.38ab</td><td>770.78±16.79a</td><td>677.34±47.42ab</td><td>726.80±19.83ab</td><td>687.02±20.70ab</td><td>672.31±46.62b</td></tr><tr><td>49.85±0.70</td><td>50.45±0.87</td><td>46.58±1.79</td><td>49.13±1.46</td><td>47.69±1.00</td><td>46.92±1.62</td></tr><tr><td>1.07±0.04bc</td><td>1.05±0.01c</td><td>1.18±0.02a</td><td>1.12±0.01abc</td><td>1.15±0.01ab</td><td>1.18±0.04a</td></tr><tr><td>10.07±0.22b</td><td>11.16±0.34a</td><td>11.03±0.18a</td><td>10.9±0.11ab</td><td>11.00±0.36a</td><td>10.8±0.31ab</td></tr><tr><td>1.16±0.04b</td><td>1.28±0.07ab</td><td>1.31±0.07ab</td><td>1.36±0.08ab</td><td>1.33±0.04ab</td><td>1.37±0.05a</td></tr><tr><td>4.85±0.14b</td><td>5.87±0.25a</td><td>5.73±0.23a</td><td>5.31±0.11ab</td><td>5.27±0.33ab</td><td>5.35±0.25ab</td></tr><tr><td>97.00±1.91a</td><td>97.00±3.00a</td><td>85.00±3.53b</td><td>88.00±1.63b</td><td>87.00±1.91b</td><td>85.00±2.52b</td></tr><tr><td>1.85±0.02</td><td>1.85±0.04</td><td>1.78±0.03</td><td>1.76±0.02</td><td>1.85±0.04</td><td>1.82±0.02</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \ )$ ，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5 \$ )。下表同。
+
+In the same row, values with different small leter superscripts mean significant difference （204号 $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ： The same as below.
+
+由表3可知，与G0组相比，各试验组全鱼的水分、粗蛋白质、粗脂肪和粗灰分含量均差异不显著（ $. P { > } 0 . 0 5 )$ ，其中各试验组全鱼的粗脂肪含量均有所降低。
+
+# 表3外源脂肪酶对花鲈体组成的影响 (湿物质基础)
+
+Table 3Effects of exogenous lipase on body composition of Lateolabrax japonicas (wet   
+
+<html><body><table><tr><td colspan="4">matter basis) %</td><td colspan="3"></td></tr><tr><td>项目</td><td colspan="3"></td><td colspan="3">组别 Groups</td></tr><tr><td>Items</td><td>G+</td><td>G0</td><td>G100</td><td>G200</td><td>G400</td><td>G800</td></tr><tr><td>水分</td><td>69.00±0.63</td><td>68.43±0.54</td><td>69.27±0.38</td><td>68.86±0.51</td><td>68.76±0.40</td><td>69.48±0.58</td></tr><tr><td>Moisture 粗蛋白质</td><td>16.98±0.15</td><td>16.56±0.28</td><td>16.88±0.33</td><td>16.74±0.12</td><td>16.47±0.20</td><td>16.57±0.32</td></tr><tr><td>Crude protein 粗脂肪</td><td>8.29±0.51</td><td>9.51±0.46</td><td>8.58±0.27</td><td>8.81±0.41</td><td>9.34±0.40</td><td>8.65±0.59</td></tr><tr><td>Ether extract 粗灰分</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Crude ash</td><td>4.10±0.15</td><td>4.17±0.10</td><td>4.13±0.06</td><td>4.23±0.08</td><td>4.08±0.07</td><td>3.96±0.05</td></tr></table></body></html>
+
+2.3外源脂肪酶对花鲈血清生化指标的影响
+
+由表4可知，与G0组相比，各试验组的血清尿素氮含量均升高，但差异不显著( $. P { > } 0 . 0 5 )$ ，G100 和G400 组的血清尿素氮含量比G0 组提高了 $1 6 . 1 3 \%$ 和 $2 1 . 5 1 \%$ 。与G0组相比，各试验组的血清总蛋白、胆固醇、高密度脂蛋白胆固醇、甘油三酯含量及谷丙转氨酶活性均降低，其中G200 和G800 组的血清谷丙转氨酶活性显著低于G0 组（ $. P { < } 0 . 0 5 \$ )。各试验组的血清乳酸脱氢酶活性与G0 组相比无显著差异（ $. P { > } 0 . 0 5 )$ 。各试验组的血清总抗氧化能力均增加，但与G0 组相比没有显著差异（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ )。除G100 组外，各试验组的血清丙二醛含量与G0组相比均有所降低，G200 组最低，显著低于G0组（ $_ { ( P < 0 . 0 5 ) }$ 。各试验组的血清酸性磷酸酶和碱性磷酸酶活性与G0 组相比无显著差异（ $( P { > } 0 . 0 5 )$ ）。
+
+表4外源脂肪酶对花鲈血清生化指标的影响  
+Table 4Effects of exogenous lipase on serum biochemical indices of Lateolabrax japonicus   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">组别 Groups</td></tr><tr><td>G+</td><td>G0</td><td>G100</td><td>G200</td><td>G400</td><td>G800</td></tr><tr><td>总蛋白 TP/ (g/L)</td><td>40.78±1.40</td><td>41.05±3.13</td><td>39.13±1.37</td><td>37.38±1.38</td><td>40.23±1.13</td><td>37.15±1.79</td></tr><tr><td>葡萄糖 GLU （mmol/L)</td><td>12.79±1.05</td><td>16.08±2.15</td><td>16.41±0.93</td><td>17.28±1.31</td><td>13.10±1.28</td><td>16.54±2.19</td></tr><tr><td>尿素氮 UN/（mmol/L)</td><td>1.13±0.03</td><td>0.93±0.08</td><td>1.08±0.09</td><td>1.00±0.06</td><td>1.13±0.09</td><td>1.00±0.14</td></tr><tr><td>胆固醇 CHO/</td><td>4.55±0.16</td><td>5.18±0.28</td><td>4.89±0.34</td><td>4.55±0.27</td><td>5.12±0.26</td><td>4.42±0.23</td></tr><tr><td>（mmol/L) 高密度脂蛋白 胆固醇</td><td>1.33±0.07</td><td>1.25±0.06</td><td>1.18±0.05</td><td>1.06±0.06</td><td>1.12±0.07</td><td>0.98±0.04</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="8">HDL-C （mmol/L)</td></tr><tr><td>低密度脂蛋白 胆固醇 LDL-C /（mmol/L)</td><td>0.12±0.01ab</td><td>0.12±0.02ab</td><td>0.18±0.03a</td><td>0.12±0.02ab</td><td>0.16±0.03a</td><td></td><td>0.09±0.00b</td></tr><tr><td>甘油三酯 TG/（mmol/L）</td><td>4.42±0.34</td><td>5.26±0.32</td><td>4.25±0.22</td><td>4.66±0.48</td><td>4.78±0.33</td><td></td><td>4.36±0.45</td></tr><tr><td>乳酸脱氢酶 LDH/ (U/L)</td><td>426.50±36.81ab</td><td>469.00±81.73ab</td><td>636.50±81.14a</td><td>359.00±52.54b</td><td>655.50±100.92a</td><td></td><td>426.00±70.86ab</td></tr><tr><td>谷草转氨酶 GOT/ (U/L)</td><td>20.00±4.49</td><td>22.75±3.94</td><td>24.00±4.78</td><td>14.50±2.25</td><td>18.25±2.17</td><td></td><td>19.75±6.50</td></tr><tr><td>谷丙转氨酶 GPT/(U/L)</td><td>52.75±5.74abc</td><td>66.25±5.90a</td><td>56.50±6.86ab</td><td>43.00±2.16bc</td><td>55.25±4.77abc</td><td></td><td>39.25±4.27c</td></tr><tr><td>总抗氧化能力 T-AOC/</td><td>24.76±4.41a</td><td>7.52±3.21b</td><td>11.61±1.26b</td><td>15.15±3.64b</td><td>10.68±2.72b</td><td></td><td>11.98±2.72b</td></tr><tr><td>（U/mL) 丙二醛 MDA</td><td>15.18±1.05ab</td><td>14.59±0.69abc</td><td>16.07±1.70a</td><td>10.95±0.46d</td><td>11.79±0.52cd</td><td></td><td>12.49±0.64bcd</td></tr><tr><td>（nmol/mL) 酸性磷酸酶</td><td>6.92±0.23</td><td>7.15±0.35</td><td>7.50±0.19</td><td>7.58±0.30</td><td>6.91±0.32</td><td></td><td></td></tr><tr><td>ACP/ (U/dL) 碱性磷酸酶</td><td></td><td></td><td></td><td></td><td></td><td></td><td>7.40±0.49</td></tr><tr><td>AKP （金氏单位</td><td>5.86±0.24</td><td>6.26±0.27</td><td>5.95±0.21</td><td>6.22±0.22</td><td>6.09±0.38</td><td></td><td>5.81±0.23</td></tr></table></body></html>
+
+# 2.4外源脂肪酶对花鲈消化酶活性的影响
+
+由表5可知，与G0组相比，各试验组的中肠和肝脏的蛋白酶活性均降低，但差异不显著（ $P { > } 0 . 0 5 )$ ；各试验组的中肠和肝脏的脂肪酶和淀粉酶均没有显著差异（ $( P { > } 0 . 0 5 )$ 。
+
+# 表5外源脂肪酶对花鲈消化酶活性的影响
+
+Table 5Effects of exogenous lipase on digestive enzyme activity of Lateolabrax japonicas   
+
+<html><body><table><tr><td colspan="8">U/mg prot</td></tr><tr><td>项目</td><td></td><td colspan="6">组别 Groups</td></tr><tr><td></td><td>Items 蛋白酶</td><td>G+</td><td>G0</td><td>G100</td><td>G200</td><td>G400</td><td>G800</td></tr><tr><td>中 肠 Mid</td><td>Protease 淀粉酶</td><td>31.15±4.13a</td><td>24.24±2.30ab</td><td>17.27±3.05b</td><td>21.86±4.90ab</td><td>16.17±1.49b</td><td>21.05±4.18ab</td></tr><tr><td>-inte stine</td><td>Amylase 脂肪酶</td><td>16.23±1.65ab</td><td>15.15±1.98ab</td><td>11.82±2.73b</td><td>20.56±1.83a</td><td>18.27±4.13ab</td><td>22.43±2.61a</td></tr><tr><td>肝</td><td>Lipase</td><td>11.73±2.68</td><td>14.25±2.66</td><td>12.03±2.31</td><td>12.91±2.23</td><td>13.67±2.70</td><td>12.71±1.97</td></tr><tr><td>脏</td><td>蛋白酶 Protease</td><td>22.24±3.39</td><td>22.90±3.66</td><td>12.08±1.72</td><td>15.86±4.82</td><td>11.10±3.20</td><td>11.30±3.05</td></tr><tr><td>Live r</td><td>淀粉酶 Amylase</td><td>10.82±1.96</td><td>10.68±1.25</td><td>11.44±1.25</td><td>9.51±0.54</td><td>10.27±1.30</td><td>12.23±2.25</td></tr><tr><td></td><td>脂肪酶 Lipase</td><td>18.60±0.99</td><td>18.09±3.17</td><td>19.93±2.27</td><td>17.43±1.39</td><td>15.73±2.47</td><td>17.42±1.77</td></tr></table></body></html>
+
+# 2.5外源脂肪酶对花鲈营养物质表观消化率的影响
+
+由表6可知，与G0 组相比，G100、G400 和G800 组的粗脂肪表观消化率显著下降$P { < } 0 . 0 5 \mathrm { ) }$ ，总能表观消化率有所下降，但差异不显著（ $. P { > } 0 . 0 5 \ '$ )。各试验组的干物质、粗蛋白质、磷表观消化率与G0 组相比均无显著差异（ $. P { > } 0 . 0 5 .$ )。G400和G800 组的脂肪酸C14:0表观消化率显著低于GO 组（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 )$ ，G200 和G800 组的脂肪酸C15:0表观消化率显著低于G0组( $. P { < } 0 . 0 5$ ),G400 组的脂肪酸C20:0和C18:3-n3表观消化率显著低于G0 组( $P { < } 0 . 0 5 )$ 。各试验组的脂肪酸 C18:0、C24:0、C16:1-n9、C18:1-n9、C18:2-n6、C20:1-n9 和C22:6-n3 表观消化率与G0组相比均无显著差异（ $_ { . P > 0 . 0 5 ) }$ ，但C20:1-n9表观消化率与G0 组相比均有所降低。
+
+表6外源脂肪酶对花鲈营养物质表观消化率的影响 (干物质基础)  
+Table 6Effects of exogenous lipase on nutrient apparent digestibilities of Lateolabrax   
+
+<html><body><table><tr><td colspan="7">japonicus (DM basis) %</td></tr><tr><td colspan="7">项目 组别 Groups</td></tr><tr><td>Items</td><td>G+</td><td>G0</td><td>G100</td><td>G200</td><td>G400</td><td>G800</td></tr><tr><td>干物质 DM</td><td>69.65±1.34</td><td>68.79±0.79</td><td>67.65±1.05</td><td>68.66±1.96</td><td>67.48±0.55</td><td>67.05±0.80</td></tr><tr><td>粗蛋白质CP</td><td>92.20±0.24ab</td><td>92.01±0.27ab</td><td>92.25±0.52ab</td><td>92.82±0.38a</td><td>92.19±0.24ab</td><td>91.35±0.33b</td></tr><tr><td>粗脂肪 EE</td><td>84.10±1.59a</td><td>83.51±1.83ab</td><td>77.55±1.92c</td><td>78.26±2.80bc</td><td>77.00±1.31c</td><td>77.47±1.20c</td></tr><tr><td>磷P</td><td>58.03±2.82</td><td>56.72±1.22</td><td>57.30±1.37</td><td>57.38±1.71</td><td>55.82±2.03</td><td>58.51±1.00</td></tr><tr><td>总能GE</td><td>77.48±1.28a</td><td>75.73±0.49ab</td><td>74.11±1.00b</td><td>74.80±1.12ab</td><td>73.88±0.28b</td><td>73.58±0.79b</td></tr><tr><td>脂肪酸Fatty acids</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C14:0</td><td>70.84±1.22a</td><td>70.04±1.08a</td><td>68.12±1.70ab</td><td>68.71±1.61ab</td><td>63.64±1.00c</td><td>65.72±0.74bc</td></tr><tr><td>C15:0</td><td>47.28±2.40a</td><td>45.04±0.62a</td><td>41.37±3.39ab</td><td>37.64±3.42b</td><td>40.97±1.12ab</td><td>35.47±1.11b</td></tr><tr><td>C18:0</td><td>28.04±4.17</td><td>19.28±1.75</td><td>19.98±3.84</td><td>19.94±4.32</td><td>17.71±1.93</td><td>17.66±1.78</td></tr><tr><td>C20:0</td><td>42.21±4.00a</td><td>34.23±2.26a</td><td>33.9±3.64a</td><td>33.00±3.58a</td><td>9.51±3.31b</td><td>32.7±1.98a</td></tr><tr><td>C24:0</td><td>32.48±5.75</td><td>24.69±0.81</td><td>27.36±6.83</td><td>37.42±1.92</td><td>32.33±3.33</td><td>31.31±4.73</td></tr><tr><td>C16:1-n9</td><td>64.98±1.89b</td><td>75.61±3.88a</td><td>79.74±2.00a</td><td>77.32±3.03a</td><td>73.49±2.16a</td><td>79.78±1.17a</td></tr><tr><td>C18:1-n9</td><td>78.92±1.36b</td><td>80.57±0.69ab</td><td>80.67±0.23ab</td><td>83.22±1.35a</td><td>82.83±0.41a</td><td>81.69±0.85ab</td></tr><tr><td>C18:2-n6</td><td>87.6±0.38</td><td>88.26±0.54</td><td>88.22±0.43</td><td>89.24±0.77</td><td>89.42±0.23</td><td>87.21±2.53</td></tr><tr><td>C18:3-n3</td><td>92.75±0.40c</td><td>94.47±0.32a</td><td>94.27±0.43ab</td><td>94.40±0.55a</td><td>93.13±0.14bc</td><td>93.34±0.40a</td></tr><tr><td>C20:1-n9</td><td>91.54±4.89</td><td>90.12±5.71</td><td>81.07±1.76</td><td>80.43±1.80</td><td>83.90±5.61</td><td>85.71±7.16</td></tr></table></body></html>
+
+3讨论
+
+# 3.1脂肪节约蛋白质的效果
+
+本试验结果中，饲喂低蛋白质高脂肪饲料花鲈的终末体重、增重率、摄食量及肝脏、中肠消化酶活性与饲喂高蛋白质低脂肪饲料的正常饲料差异不显著，这与Liu等8报道的草鱼饲喂低蛋白质和高脂肪饲料（ $2 6 \%$ 粗蛋白质和 $6 \%$ 粗脂肪，没有添加脂肪酶）的终末体重、增重率、摄食量及肝脏和肠道消化酶活性显著高于饲喂正常饲料组（ $2 8 \%$ 粗蛋白质和 $5 \%$ 粗脂肪)的结果不一致，可能原因是本试验中粗蛋白质水平降低、粗脂肪水平增加幅度过大（本试验中是降低 $4 \%$ 粗蛋白质水平，增加 $3 \%$ 粗脂肪水平；而Liu等8是降低 $2 \%$ 粗蛋白质水平，增加 $1 \%$ 粗脂肪水平）或鱼品种的不同造成的差异，有待进一步探讨研究。本试验中饲喂低蛋白质高脂肪饲料花鲈的肝体比、脏体比和脂体比都高于饲喂正常饲料，其中脏体比和脂体比达到显著水平。陆国君等[12]报道花鲈幼鱼饲料中适宜的脂肪水平为 $10 \%$ 左右，说明本试验中花鲈饲料中的脂肪水平合适，但高脂肪饲料更容易导致肝脏负荷和内脏脂肪沉积。
+
+本试验中，饲喂低蛋白质高脂肪饲料的花鲈血清总抗氧化能力显著低于饲喂正常饲料，高脂肪饲料能引起大鼠的炎症反应[5]，而Liu等8认为高脂肪饲料能够改善草鱼的肠道免疫和抗氧化能力，这种差异是因为血液和肠道的途径或鱼品种的差异等造成的，有待进一步探讨。与正常饲料组相比，饲喂低蛋白质高脂肪饲料组的干物质、粗蛋白质、粗脂肪、总能等的表观消化率略有下降，但没有显著差异，而脂肪酸C16:1-n9 和C18:3-n3 的表观消化率较正常饲料组显著升高，可能是低蛋白质高脂肪饲料中增加油脂主要是猪油，而猪油中C16:1-n9 含量较高，由于底物含量高而促进了消化。综合本试验结果表明，饲料脂肪可以部分节约蛋白质，但饲料配方中降低蛋白质、增加脂肪水平幅度要适宜。
+
+# 3.2外源脂肪酶对花鲈生长性能、体组成的影响
+
+研究表明，在肉鸡[7,13-16]、猪[17-19]、鸭[20]饲料中添加脂肪酶可以改善畜禽生长性能，水产动物中也有类似的报道，同时作用效果与脂肪酶的菌种来源有关[7,15]，叶慧等[7]在研究不同真菌来源的脂肪酶的作用效果时，发现来自黑曲霉的脂肪酶效果优于来自假丝酵母的，而高映红等[15]对比不同来源的脂肪酶时发现真菌来源的脂肪酶优于细菌来源的，也就是来自真菌的黑曲霉发酵得到的脂肪酶效果好。谷金皇等[21]在黄颡鱼幼鱼基础饲料中添加 300mg/kg 脂肪酶可以显著提高其增重率和降低饲料系数；杨新文等[22]在南方鲇饲料中添加脂肪酶显著降低了饲料系数；Liu等8在低蛋白质高脂肪饲料中添加适量的脂肪酶（1193、2560
+
+U/kg)可以提高草鱼的生长性能和肠道免疫力，分析是由于添加脂肪酶提高了肠道抗炎因子、降低促炎症因子含量而提高肠道免疫力，同时提高了肠道抗氧化酶活性和改善了肠道物理屏障，最终改善了肠道健康状况进而促进生长。本试验结果与上述报道不太一致，可能是由于外源脂肪酶的添加量（2000\~16000 U/kg）过高导致内源酶活性降低或者是由于脂肪酶的主要水解产物游离脂肪酸过多[23]而影响脂肪酸的消化吸收，或两者兼有造成的，因为本试验所用脂肪酶来源于黑曲霉，属于1，3-位特异性水解脂肪酶，其水解终产物为2-甘油单酯和游离脂肪酸[24]。饲喂高水平的n-3多不饱和脂肪酸降低大黄鱼的非特异免疫力和免疫相关的基因表达[25]。过多的饱和脂肪酸和 n-6多不饱和脂肪酸会通过激活炎症调控因子核转录因子-kB（NF-kB）加重人体的炎症反应[26]。也有报道称高水平脂肪酸能够引起大西洋鲑鱼的氧化损伤[27]。Luo 等[28]报道，建鲤肠道黏膜受损会导致其生长性能下降。本试验结果为添加脂肪酶组花鲈的成活率显著低于对照组，可能是由于添加脂肪酶组的游离脂肪酸过多导致机体免疫力下降引起的。Liu等8的研究也发现，添加高水平外源脂肪酶 $( 3 7 3 0 \mathrm { U / k g }$ ）降低了草鱼的生长性能、肠道免疫力和抗氧化能力。饲喂外源脂肪酶导致花鲈生长性能降低可能跟其消化酶活性、脂肪和脂肪酸表观消化率下降及氧化损伤有关。
+
+叶慧等7研究发现，添加不同脂肪酶（分别来自黑曲霉和假丝酵母）不同程度地影响了黄羽肉公鸡胸肌干物质中蛋白质和脂肪的含量，说明脂肪酶可以改变机体部位脂肪的沉积。龚俊勇等[14]的研究表明，添加脂肪酶可降低肉鸡腹脂率。本试验中，添加脂肪酶使花鲈脂体比呈现下降的趋势，也就是对腹部内脂肪沉积量有影响，与上述结果基本一致。杨新文等[22研究发现，南方鲇幼鱼饲料中添加脂肪酶显著提高了其肥满度，对内脏指数、肝脏指数和肠脂指数没有显著影响，与本文中的饲料添加脂肪酶脏体比有下降但不显著的结果基本一致。
+
+本试验研究结果同王国霞等[29]、黄燕华等[30]研究结果一致，在动物饲料中添加酶制剂对其体组成无显著影响，这可能与养殖动物的种类、添加酶制剂的种类和活性有关。
+
+# 3.2外源脂肪酶对花鲈血清生化指标的影响
+
+鱼类血清生化指标被广泛地用来评价鱼类的健康状况、营养状况及对环境的适应状况，是重要的生理、病理和毒理学指标[31]。影响鱼类血清生化指标的因素有很多，主要有性别、生长、运动、饱食、健康状况等[321，但这些指标依然能够很好的反映养殖动物的生理状况和健康状况。叶慧等[7的研究发现，饲粮添加脂肪酶可以降低后期黄羽肉公鸡血清中总胆固醇、高密度脂蛋白和低密度脂蛋白的含量，并提高高密度脂蛋白与低密度脂蛋白比值。在仔猪饲粮中添加 $2 0 0 0 \mathrm { U / k g }$ 脂肪酶，发现添加脂肪酶显著或极显著降低了血清总胆固醇、甘油三酯、高密度脂蛋白胆固醇和低密度脂蛋白胆固醇含量[]。在鱼中也有类似的报道，谷金皇等[21]在饲料中添加脂肪酶发现其可以显著降低黄颡鱼血清甘油三酯、低密度脂蛋白和总胆固醇含量，这些结果可能与脂肪酶水解特异性有关。但也有不同的报道，饲粮添加脂肪酶对断奶仔猪血清游离脂肪酸、高密度脂蛋白、低密度脂蛋白和高密度脂蛋白与低密度脂蛋白比值没有显著影响[18]；在南方鲇饲料中添加0.1和 $0 . 3 ~ \mathrm { g / k g }$ 脂肪酶对其血清中总胆固醇、甘油三酯、高密度脂蛋白和低密度脂蛋白含量无显著影响[22]。本试验研究发现，在花鲈饲料中添加脂肪酶降低了血清总蛋白、胆固醇、高密度脂蛋白胆固醇、甘油三酯含量，但没有显著差异，跟前人研究结果[18,22]一致。
+
+本试验结果表明，花鲈饲料添加脂肪酶后血清谷丙转氨酶活性显著降低，并且血清总抗氧化能力升高，血清丙二醛含量显著降低，结合生长性能和成活率下降，表明脂肪酶的添加可能因为水解脂肪导致机体过多的游离脂肪酸而引起了鱼体的炎症反应，进而引起抗氧化指标升高，脂肪消化在哺乳动物和鱼类肠道中可产生脂肪酸[33]，适宜的脂肪酸水平有助于鱼的生长和机体健康，然而过高的脂肪酸水平会产生负面影响。Zuo 等[25]报道饲喂高水平的n-3 多不饱和脂肪酸可降低大黄鱼的非特异免疫力和免疫相关的基因表达，Wood 等[26]研究表明，过多的饱和脂肪酸和n-6 多不饱和脂肪酸会通过激活炎症调控因子 NF-kB 加重人体的炎症反应。也有报道称高水平脂肪酸能够引起大西洋鲑鱼的氧化损伤[27]。
+
+3.3外源脂肪酶对花鲈消化酶活性和营养物质表观消化率的影响
+
+肠道是食物消化的重要场所[34]，而肠道消化酶的活性对食物消化率的高低有着主要的影响[35]。谷金皇等[21]在黄颡鱼中的研究发现，脂肪酶的添加均可以显著提高胰蛋白酶和肠淀粉酶活性， $1 0 0 \mathrm { m g / k g }$ 脂肪酶组还显著提高了胰脂肪酶和胰淀粉酶活性。Liu 等8报道，在草鱼饲料中添加脂肪酶可以显著提高肝脏和肠道蛋白酶、脂肪酶和淀粉酶活性。本试验结果表明，在花鲈低蛋白质高脂肪饲料中添加脂肪酶，可降低中肠蛋白酶、脂肪酶及肝脏蛋白酶活性，提高中肠淀粉酶活性，但未达显著水平，脂肪酶的添加通过降低消化酶活性而使生长性能略微降低。这与上述报道结果不一致，可能跟脂肪酶的来源和试验动物不同有关。
+
+马卿山等[13]研究发现，在肉鸡低能量饲料中添加1000 U/kg脂肪酶能够提高干物质表观利用率，显著提高了粗脂肪表观利用率。高映红等[15]在白羽肉仔鸡饲粮中分别添加细菌源脂肪酶、真菌源脂肪酶 $2 0 0 0 \mathrm { U / k g }$ ，结果表明，仅真菌源脂肪酶组肉鸡对粗脂肪和能量的表观代谢率显著大于对照组，说明作用效果跟脂肪酶的菌种来源有关。而在仔猪饲粮中添加脂肪酶可提高干物质、粗蛋白质和总能的表观消化率[17]，断奶仔猪饲粮中添加脂肪酶可改善饲料中干物质、粗脂肪和总能表观消化率[18]，不同于鸡的研究结果，说明脂肪酶对营养物质消化率的影响与试验动物品种有关。杨新文等[22]在南方鲇饲料中添加脂肪酶，显著提高了粗脂肪消化率。本试验结果表明，添加脂肪酶的G100、G400 和G800 组的粗脂肪表观消化率显著下降，总能量表观消化率有所下降，且脂肪酸C14:0、C15:0、C20:0、C18:3-n3的表观消化率降低，因此在花鲈饲料中添加脂肪酶使部分消化酶活性降低进而使脂肪酸表观消化率降低，从而降低了鱼体对脂肪的消化吸收。这与上述报道结果不一致，可能是由于脂肪酶的添加量过高或菌种来源不同造成的，在鲤鱼中的研究表明，过量添加酶制剂，反而使动物对营养物质的吸收下降[36]。
+
+4结论
+
+$\textcircled{1}$ 饲料脂肪可以部分节约蛋白质，低蛋白质高脂肪饲料对花鲈生长性能、体组成和消化酶活性等没有显著影响，但显著提高了脏体比和脂体比。  
+$\textcircled{2}$ 在低蛋白质高脂肪饲料中添加脂肪酶对花鲈终末体重、增重率、摄食量等没有显著影响，甚至略有下降，粗脂肪和部分脂肪酸表观消化率下降，但脏体比和脂体比一定程度上降低，机体抗氧化能力增强。
+
+# 参考文献:
+
+[1]LIU Y Z,HE G,WANG Q C.et al.Hydroxyproline supplementation on the performances of high plant protein source based diets in turbot (Scophthalmus maximus   
+L.)[J].Aquaculture,2014,433:476-480. [2]BENLI A C K,KOKSAL G,OZKUL A.Sublethal ammonia exposure of Nile tilapia (Oreochromis niloticus L.):effects on gill,liver and kidney   
+histology[J].Chemosphere,2008,72(9):1355-1358.
+
+[3]Du Z Y,LIU Y J,TIAN L X,et al.Effect of dietary lipid level on growth,feed utilization and body composition by juvenile grass carp (Ctenopharyngodon idella)[J].Aquaculture Nutrition,2005,11(2):139-146.
+
+[4]LI D L,FU Z T,DUAN Y Q.Fish-expert:a web-based expert system for fish disease diagnosis[J].Expert Systems with Applications,2002,23(3):311-320.
+
+[5]KIM K A,GU W,LEE I A,et al.High fat diet-induced gut microbiota exacerbates inflammation and obesity in mice via the TLR4 signaling pathway[J].PLoS One,2012,7(10):e47713.
+
+[6]Al-MARZOOQI W,LEESON S.Effect of dietary lipase enzyme on gut morphology,gastric motility,and long-term performance of broiler chicks[J].Poultry Science,20oo,79(7):956-960.
+
+[7]叶慧,雷建平,冯定远,等.不同微生物脂肪酶对黄羽肉鸡生长性能、血清生化指标和胸肌脂肪含量的影响[J].华南农业大学学报,2013,34(3):399-404.
+
+[8]LIU S,FENG L,JIANG W D,et al.Impact of exogenous lipase supplementation on growth,intestinal function,mucosal immune and physical barrier,and related signaling molecules mRNA expression of young grass carp (Ctenopharyngodon idella)[J].Fish & Shellfish Immunology,2016,55:88-105.
+
+[9]KAHVECI D,XU X B.Repeated hydrolysis process is effective for enrichment of omega 3 polyunsaturated fatty acids in salmon oil by Candida rugosa lipase[J].Food Chemistry,2011,129(4):1552-1558.
+
+[10]OKADA T,MORRISSEY M T.Production of n-3 polyunsaturated fatty acid concentrate from sardine oil by lipase-catalyzed hydrolysis[J].Food Chemistry,2007,103(4):1411-1419.
+
+[11]LINDBERG A,OLIVECRONA G.Lipase evolution:trout,Xenopus and chicken have lipoprotein lipase and apolipoprotein C- II -like activity but lack hepatic lipase-like activity[J].Biochimica et Biophysica Acta (BBA): Lipids and Lipid Metabolism,1995,1255(2):205-211.
+
+[12]陆国君,罗红宇,钟明杰.鲈鱼Lateolabrax japonicus(Cuvier)幼鱼对饵料中蛋白质、脂肪、碳水化合物需求量的研究[J].现代渔业信息,2005,20(11):22-23.
+
+[13]马卿山,丁雪梅,白世平,等.饲粮添加脂肪酶对肉鸡生长性能及养分利用率的影响[J].动物营养学报，2013,25(10):2447-2458.
+
+[14]龚俊勇,李芳林,单安山,等.日粮中添加脂肪酶对白羽肉鸡生长性能、血液生化指标、腹脂率的影响[J].饲料工业,2015,36(14):41-45.
+
+[15]高映红,白华毅,王桂瑛,等.脂肪酶对白羽肉鸡生长性能与养分利用的影响[J].饲料工业,2016,37(23):37-41.
+
+[16]李路胜,徐志祥,冯定远,等.脂肪酶前处理油脂的效果及其对肉鸡生长性能的影响[J].饲料工业,2016,37(14):36-41.
+
+[17]张丽娜,陈代文,余冰,等.不同能量水平饲粮中添加脂肪酶对断奶仔猪生长性能、养分表观消化率和血清生化指标的影响[J].动物营养学报,2015,27(12):3854-3860.
+
+[18]郑荣辉,左建军,龚俊勇.脂肪酶对断奶仔猪生长性能、养分利用率及血清生化指标的影响[J].
+
+饲料工业,2016,37(6):21-25.
+
+[19]周俊华,刘桂武,何若钢,等.脂肪酶、脂肪粉对断奶仔猪生长性能、免疫、酶活及激素水平的影响[J].饲料工业,2014,35(S1):77-80.
+
+[20]戴朝洲,邹伟雄,翁晓辉.脂肪酶在肉鸭上的应用研究[J].饲料与畜牧,2014(5):17-19.
+
+[21]谷金皇,杨毅,冷向军,等.添加外源脂肪酶对瓦氏黄颡鱼的生长、消化酶及血清生化指标的影响[J].上海海洋大学学报,2010,19(6):798-804.
+
+[22]杨新文,杨毅,冷向军,等.脂肪酶对南方鲇生长性能、消化酶活性及血液生化指标的影响 [J].淡水渔业,2010,40(3):23-27.
+
+[23]DIERICK N A,DECUYPERE JA.Endogenous lipolysis in feedstuffs and compound feeds for pigs:effects of storage time and conditions and lipase and/or emulsifier addition[J].Animal Feed Science and Technology,2002,102(1/2/3/4):53-70.
+
+[24]GUPTA R,GUPTA N,RATHI P.Bacterial lipases:an overview of production,purification and biochemical properties[J].Applied Microbiology and Biotechnology,2004,64(6):763-781.
+
+[25]ZUO R T,AI Q H,MAI K S,et al.Effects of dietary n-3 highly unsaturated fatty acids on growth,nonspecific immunity,expression of some immune related genes and disease resistance of large yellow croaker (Larmichthys crocea) followingnatural infestation of parasites (Cryptocaryon irritans)[J].Fish & Shellfish Immunology,2012,32(2):249-258.
+
+[26]WOOD L G,SCOTTH A,GARGM L,et al.Innate immune mechanisms linking non-esterified faty acids and respiratory disease[J].Progress in Lipid Research,2009,48(1):27-43. [27]TODORCEVIC M,KJER M A,DJAKOVIC N,et al.N-3 HUFAs affect fat deposition,susceptibility to oxidative stress,and apoptosis in Atlantic salmon visceral adipose tissue[J].Comparative Biochemistry and Physiology part B:Biochemistry&Molecular Biology,2009,152(2):135-143.
+
+[28]LUO JB,FENG L,JIANG W D,et al.The impaired intestinal mucosal immune system by valine deficiency for young grass carp (Ctenopharyngodon idella) is associated with decreasing immune status and regulating tight junction proteins transcript abundance in the intestine[J].Fish & Shellfish Immunology,2014,40(1):197-207.
+
+[29]王国霞,刘群芳,黄文庆,等.复合酶制剂对黄颡鱼生长性能、血清生化和免疫指标的影响[J].南方水产科学,2013,9(6):84-90.
+
+[30]黄燕华,王国霞,黄文庆,等.酶制剂对南美白对虾幼虾生长、体组成及非特异免疫的影响[C]//第六届饲料安全与生物技术专业委员会大会暨第三届全国酶制剂在饲料工业中的应用学术与技术研讨会.广州:中国畜牧兽医学会,2009
+
+[31]周玉,郭文场,杨振国,等.鱼类血液学指标研究的进展[J].上海水产大学学报,2001,10(2):163-165.
+
+[32]朱心玲,贾丽珠,张明瑛.草鱼血液学的研究I.九项血液常数的周年变化[J].水生生物学报,1985,9(3):248-257.
+
+[33]KURTOVIC 1,MARSHALL S N,ZHAO X,et al.Lipases from mammals and fishes[J].Reviews in Fisheries Science,2009,17(1):18-40.
+
+[34]李爱杰.水产动物营养与饲料学[M].北京:中国农业出版社,1994.
+
+[35]施培松.复合酶制剂对草鱼鱼种生长性能及消化酶的影响[D].硕士学位论文.武汉:华中农业大学,2005.
+
+[36]周小秋.复合酶制剂在鲤鱼饵料中适宜添加量研究[J].水利渔业,2001,21(6):7-8.
+
+Effects of Exogenous Lipase on Growth Performance, Body Composition, Serum Biochemical Index,Digestive Enzyme Activity and Nutrient Apparent Digestibility of Lateolabrax Japonicas'
+
+WANG Guoxia1.2WANG Min³SUN Yuping1.2 HU Junru1.2HUANG Wenqing3
+
+CHENG Xiaoying1,2 QIU Shidian3 HUANG Yanhual1,2\* (1. Institute of Animal Science, Guangdong Academy of Agricultural Sciences, Guangzhou 510640,
+
+China; 2. Guangdong Key Laboratory of Animal Breeding and Nutrition, Guangzhou 510642,
+
+China; 3. Guangzhou Fishtech Co., Ltd.,Guangzhou 510640, China)
+
+Abstract: This study was conducted to investigate the effect of exogenous lipase supplementation in low-protein and high-fat diets on growth performance, body composition,serum biochemical index,digestive enzyme activity and nutrient apparent digestibility of Lateolabrax japonicus. A total of 6Oo Lateolabrax japonicas with the average body weight of $( 6 . 2 6 \substack { + 0 . 0 2 } )$ ）gwere randomly allocated into 6 groups with 4 replicates per group and 25 fish per replicate. Fish in the positive control group ( $\mathrm { \Delta G } +$ group) were fed a normal diet with high-protein and low-lipid $( 4 1 . 7 6 \%$ （204号 crude protein and $8 . 3 4 \%$ ether extract)，fish in the control group (GO group） were fed a low-protein and high-fat diet ( $3 7 . 6 4 \%$ crude protein and $1 1 . 1 5 \%$ ether extract),and others in the experimental groups (G100, G200, G400 and G800 groups） were fed the low-protein and high-fat diet supplemented with 100，200,400 and $8 0 0 \ \mathrm { \ m g / k g }$ exogenous lipase，respectively. The experiment lasted for 8 weeks. The results showed as follows: 1) compared with the $\mathbf { G } +$ group, the final body weight, weight gain rate, feed intake and hepatopanceas index of GO group were increased $( P { > } 0 . 0 5 )$ ，the viscerosomatic index and intraperitioneal fat index of GO group were significantly increased $( P { < } 0 . 0 5 )$ ， the serum total antioxidant capacity of GO group was significantly decreased $( P { < } 0 . 0 5 )$ ，the apparent digestibilities of dry matter, crude protein,ether extract and gross energy of GO group were significantly decreased $( P { < } 0 . 0 5 )$ ，the apparent digestibilities of ${ \mathrm { C l } } 6 { : } 1 { - } \mathrm { n } 9 \$ and C18:3-n3 fatty acids of GO group were significantly increased （204号 $( P { < } 0 . 0 5 )$ . 2） Compared with the GO group，the final body weight and weight gain rate of experimental groups were decreased $( P { > } 0 . 0 5 )$ ; the final body weight and weight gain rate of G800 group were significantly decreased $( P { < } 0 . 0 5 )$ ，the feed conversion rate of G8OO group was significantly increased $( P { < } 0 . 0 5 )$ , the viscerosomatic index and intraperitioneal fat index of G800 group were decreased $( P { > } 0 . 0 5 )$ ,the activities of lipase in mid-intestine and protease in liver of G800 group were decreased $( P { > } 0 . 0 5 )$ ，the contents of cholesterol， high density lipoprotein cholesterol and triglyceride in serum of G8OO group were decreased $( P { > } 0 . 0 5 )$ ； the glutamic pyruvic transaminase activity and malondialdehyde content in serum of G2OO group were significantly decreased $( P { < } 0 . 0 5 )$ . In conclusion，dietary lipid can partially spare protein，the low-protein and high-lipid diet significantly increased viscerosomatic index and intraperitioneal fat index, but has no significant effect on growth performance, body composition and digestive enzyme activity of Lateolabrax japonicas. Meanwhile, exogenous lipase supplementation in low-protein and high-fat diets made growth performance of Lateolabrax japonicas declined, had no obvious effects on digestive enzyme activity and serum biochemical index,the digestibilities of ether extract and partial fatty acids are decreased,but the viscerosomatic index and intraperitioneal fat index are decreased to a certain extent, and improve the antioxidant capacity.
+
+Key words: Lateolabrax japonicas; low-protein and high-fat diets; exogenous lipase; growth performance; serum biochemical index; digestive enzyme activity; apparent digestibility

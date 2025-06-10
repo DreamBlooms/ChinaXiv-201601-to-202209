@@ -1,0 +1,229 @@
+# A Novel Voice Coil Motor Used in Nano-positioning Device
+
+Liang Dong $^ { 1 , 2 }$ , Jinhua Chen², Chi Zhang\*2, Senior Member,IEEE, Dingbing $\mathrm { W u } ^ { 1 , 2 }$ ,Guangwei $\mathrm { \Delta Y u } ^ { 1 }$ 1Shanghai University,149 Yanchang Road, Shanghai, China ²Ningbo Institute of Materials Technology & Engineering , Chinese Academy of Sciences. Zhejiang Key Laboratory of Robotics and Intelligent Manufacturing Equipment Technology Ningbo,315201,China Email: zhangchi@nimte.ac.cn
+
+Abstract —This paper proposes a novel moving-coil voice coil motor(VCM) used for driving nano-positioning device. This VCM implements bilateral Halbach array permanent magnet as the stator and three separated coils with the slotted coil skeleton as the mover..The VCM can achieve large stroke and nano-level positioning accuracy with the support of the compliant mechanism.Equivalent magnetic circuit method and the finite element analysis (FEA） are used in this paper to analyze the performance of the VCM.The analysis results show that the VCM can achieve a force-current ratio of ${ \bf 9 0 N / A }$ and force ripple of $\pm { \bf 0 . 1 9 } { \bf N } ,$ ,which are superior than the previous designs in the literatures.
+
+Keywords-VCM; Halbach Array; equivalent magnetic circuit;FEM
+
+# I．INTRODUCTION
+
+Nano-positioning device are widely used in sophisticated manufacturing, micromanipulation, andultra-precision measurement. Currently,most nano-positioning devices are driven by piezoelectric actuators with the advantages of compact body，small size and high resolution.However, piezoelectric actuator has some drawbacks such as hysteresis, nonlinear and temperature sensitive characteristics, creep properties and small output force and stroke[2]. Compared with piezoelectric actuator, VCM can meet the requirements oflarge stroke with the range from a few microns to several hundred millimeters； the linear relationship between output force and current of the VCM not only provides a foundation for precise positioning，but also reduces the difficulty of control; the cost of micro-nano positioning stage in full life cycle can be reduced by long life cycle and stable performance of $\mathrm { V C M } ^ { [ 3 ] }$ ：
+
+With the development of precision engineering,more and more applications require nano-positioning device to meet the large stroke and nanometer positioning accuracy simultaneously. But this request is quite hard to realize because these two properties areusually contrary [4lLarge output force is the determinantto realize big stroke. Meanwhile, small force ripple can make the control much easier for nanometer level positioning
+
+Tat Joo Teo has proposed a new structure of the VCM with the force-current ratio of $6 0 \mathrm { { N / A } }$ and force ripple of $\pm 0 . 3$ $\mathrm { ~  ~ N ~ }$ [1]．BEI Technologies INC produced linear VCM with stroke $0 . 5 \mathrm { m m } \sim 5 0 \mathrm { m m }$ ，output force range $0 . 3 4 \mathrm { N } \sim 3 0 0 \mathrm { N } ^ { [ 5 ] }$ H.Yajima researched the relationship between the size of moving coils and the resistance of coils [6].These works make contributions for the development of the VCM.However, the force-current ratio of the VCMs can still be improved to make the motor compact or to achieve larger stroke.
+
+To ensure the VCM generating a large output force, bilateral Halbach arrayand parallel structures are used in this design. Such design can greatly increase the flux density in the air gap and hence generate large output force accordingly. Coil skeleton generates eddy current when the motor is in the operation.Eddy current can improve the stability of the system by increasing the damping of whole system.But large eddy current has negative effects on the output force. Therefore,slotted coil skeleton which can reduce eddy current is implemented in this paper to attain satisfactory performance of the VCM.
+
+Equivalent circuit method and FEA are used in this paper to analyze the motor performance.The results show that the proposed design has superior force-current ratio and force ripple compared with previous VCM design in the literatures.
+
+# ⅡI.DESIGN OF THEPROPOSEDVCM
+
+The proposed VCM implements bilateral Halbach array instead of the traditional monolithic permanent magnet which functions as the stator. This structure can improve the flux density and increase the output force greatly. Furthermore, parallel structure is applied which can effectively reduce the volume of the motor and provide greater output force.Thirdly, the thermal performance of the motor is effectively improved by less winding turns.Meanwhile,coils fixed on the coil skeleton in subsection can enlarge cooling area.
+
+Fig.1 shows the basic structure of a moving coil-type VCM.The VCM is composed of 1-yokes，2-permanent magnets， 3-coil1， 4-coil2， 5-coil3， 6-coil skeleton and
+
+7-flexure-supporting bearings. Its operating principle can be described as follows: the permanent magnets are fixed on yoke and the whole component works as a stator. The coils and coil skeleton constitute motor mover. Winding direction of coill is same as coil3，and is opposite to coil2.This structure and Halbach array ensure the directions ofLorentz forces generated by these three coils are identical,when single-phase DC current flows through the coils.When the direction of DC current is changed, the direction of Lorentz force is changed as well. With the change of the current direction, the motor mover can reciprocate in the air gap magnetic field. Flexure-based support structure includes rectangular flexible hinge and reinforcing plate. When Lorentz force generated by coils is transmitted through the coil skeleton to flexible support structure as shown in Fig.1, the rectangular flexible hinge yields elastic deformation.Then. the mobile platform fixed on mover is driven by VCM.The output force of VCM is proportional to the value of current, meanwhile elastic deformation of the rectangular flexible hinge is proportional to the applied force.Thus,elastic deformation of the rectangular flexible hinge is proportional to the value of current. Therefore，we can control the displacement of mobile platform by controlling the value of current.Based on micro deformation of rectangular flexible hinge,nanometer-level positioning of mobile platform can be achieved.
+
+![](images/b7f6e14a0158bd866431441c3ec45ebef904f71333fc385e85d1a34d6b4a4fe0.jpg)  
+6-coilskeleton,7- flexure-supporting bearings Fig.1Basic structure of a moving coil-type VCM
+
+# III.DYNAMICAL MODEL OF THE PROPOSED VCM
+
+# A. Lorentz force
+
+The thrust force of the VCM is equivalent to the Lorentz force generated by coils. The value of thrust forceis proportional to the value of input current, $I ,$ magnetic flux density of air gap field, $B$ ，the length of coil treading air gap field,l,and the number turns of coils,n. The thrust force can be expressed by
+
+$$
+F = n B I l
+$$
+
+$K$ is defined as force -current constant of VCM, it can be represented by
+
+$$
+K = n B l
+$$
+
+So $F$ can be rewritten as
+
+$$
+F = K I
+$$
+
+From (3),it is known that the thrust is proportional to the current
+
+# B.Mechanical model of the flexure-based support
+
+The mover is supported by flexure-based in this paper. Based on the elastic deformation of the flexible support structure，positioning of VCM can be achieved.Flexible support uses rectangular flexure hinge and dual-complex parallel four-bar mechanism.Flexible support includes eight branches.And, each branch consists of two flexure hinges and one arm. When dual-complex parallel four-bar mechanism shifts in the direction of movement, flexure hinge and arm generate bending deflection and stretcher strain independently. Since the displacement of the moving stage is much larger than the length of branch and the influence of stretcher strain is very small, the influence of stretcher strain can be ignored when calculating the stiffness of flexible support[7].
+
+![](images/79eef0bc44b1f960be508e454edf327d9715e74d90fd0dd73501026745ecd484.jpg)  
+Fig.2Equivalent mechanical model ofVCM
+
+Moving voice coil structure is used in the proposed design.Lorentz force generated by coils acts on the flexible support structure through interconnecting piece.Under the action of Lorentz force， flexible support structure will generateelasticdeformation. Fig.2showsequivalent mechanical model ofVCM.If we define stiffness of flexible support,displacement of mover as $G$ and $x$ independently, displacement of mover can be represented by
+
+$$
+x = { \frac { F } { G } }
+$$
+
+![](images/75e6dc583950140f08926866c480feb77bfc2f290df503d35768954846652cee.jpg)  
+Fig.3 Equivalent model of flexible support structure
+
+Integral method is used to calculate the stiffness of the flexible support. The parameters $( L _ { I } , L _ { 2 } , T , t )$ of (5) are depicted in Fig.3.The stiffness of the flexure-based support can be described as[8]:
+
+$$
+\begin{array} { r } { G = \frac { 4 E } { \frac { { L _ { 1 } } ^ { 3 } } { b T ^ { 3 } } + \frac { 1 } { b t ^ { 3 } } ( 6 { L _ { 1 } } ^ { 2 } l + 1 2 { L _ { 1 } } { L _ { 2 } ^ { 2 } } + 8 { L _ { 2 } ^ { 3 } } ) } } \end{array}
+$$
+
+where, $E$ and $b$ are Young modulus of elasticity of spring steels and the width of flexible support structure respectively
+
+# IV.MAGNETIC CIRCUITANALYSIS
+
+Equivalent magnetic circuit method is employed to analyze design parameters of the VCM.Then,we will assess the rationality and reliability of these parameters.Due to the symmetrical structure of the VCM, only one magnetic pole is analyzed by Equivalent magnetic circuit method. Fig.4 shows the diagram of equivalent magnetic circuit.
+
+![](images/fe023dae4a36ad57693b35374ab382bd719f362231faa92f224a9e27828bbf03.jpg)  
+Fig.4Diagram of equivalent magnetic circuit
+
+Computational process of magnetomotive force $F _ { i }$ as follows:
+
+$$
+\left\{ \begin{array} { l } { F _ { 1 } = H l _ { m 1 } = \frac { B _ { r } l _ { m 1 } } { \mu _ { 0 } \mu _ { r m } } } \\ { F _ { 5 } = H l _ { m 5 } = \frac { B _ { r } l _ { m 5 } } { \mu _ { 0 } \mu _ { r m } } } \\ { F _ { 1 } = F _ { 2 } = F _ { 3 } = F _ { 4 } } \\ { \qquad F _ { 5 } = F _ { 6 } } \end{array} \right.
+$$
+
+where, $F _ { i }$ is the magnetomotive force, $B _ { r }$ isresidual magnetism, $l _ { m i }$ is the length of permanent magnet in magnetic circuit, $\mu _ { 0 }$ is magnetic conductance of vacuum, $\mu _ { r m }$ is relative permeability of permanent magnet.
+
+Magnetic resistances of permanent magnet $R _ { p m i }$ as follows:
+
+$$
+\left\{ \begin{array} { c } { { R _ { p m 1 } = \frac { l _ { m 1 } } { \mu A _ { m 1 } } = \frac { l _ { m 1 } } { \mu _ { 0 } \mu _ { r m } A _ { m 1 } } } } \\ { { R _ { p m 5 } = \frac { l _ { m 5 } } { \mu A _ { m 5 } } = \frac { l _ { m 5 } } { \mu _ { 0 } \mu _ { r m } A _ { m 5 } } } } \\ { { R _ { p m 1 } = R _ { p m 2 } = R _ { p m 3 } = R _ { p m 4 } } } \\ { { R _ { p m 5 } = R _ { p m 6 } } } \end{array} \right.
+$$
+
+where, $l _ { m i }$ is the length of permanent magnet in magnetic circuit, $\mu _ { 0 }$ is magnetic conductance of vacuum, $\mu _ { r m }$ is relative permeability of permanent magnet, $A _ { m i }$ is effective area of permanent magnet in magnetic field.
+
+Magnetic resistance of air gap $R _ { A i } \mathrm { c a n }$ be derived as follows:
+
+$$
+\left\{ { { R } _ { A 1 } } = \frac { { { l } _ { a 1 } } } { { { \mu } _ { 0 } } { { A } _ { 1 } } } \right.
+$$
+
+where, $l _ { a i }$ is the width of air gap in magnetic circuit, $\mu _ { 0 }$ is magnetic conductance of vacuum, $A _ { i }$ is effective area of air gap in magnetic field.
+
+Magnetic resistance of coil $R _ { C i }$ as follows:
+
+$$
+\left\{ \begin{array} { c } { R _ { c 1 } = \frac { l _ { c 1 } } { \mu _ { 0 } \mu _ { r c } A _ { c 1 } } } \\ { R _ { c 1 } = R _ { c 2 } } \end{array} \right.
+$$
+
+where, $l _ { c i }$ is the length of coil in magnetic circuit, $\mu _ { 0 }$ is magnetic conductance of vacuum, $\mu _ { r c }$ is relative permeability of coil, $A _ { c i }$ is effective area of coil in magnetic field.
+
+Magnetic resistance of yoke $R _ { I i }$ as follows:
+
+$$
+\left\{ \begin{array} { c } { R _ { I 1 } = \frac { l _ { I 1 } } { \mu A _ { I 1 } } = \frac { l _ { I 1 } } { \mu _ { 0 } \mu _ { r I } A _ { I 1 } } } \\ { R _ { I 1 } = R _ { I 2 } } \end{array} \right.
+$$
+
+where, $l _ { I i }$ is the length of yoke in magnetic circuit, $\mu _ { 0 }$ is magnetic conductance of vacuum, $\mu _ { r i }$ is relative permeability of steel, $A _ { I i }$ is effective area of yoke in magnetic field.
+
+For loop 1:
+
+$$
+\left\{ \begin{array} { c } { F ^ { c 1 } = \sum _ { i = 1 } ^ { 4 } F _ { i } = \frac { 4 R _ { \mathrm { F } } ! } { \mu _ { 0 } \mu _ { \mathrm { F } } } } \\ { R ^ { c 1 } = \sum _ { i = 1 } ^ { 4 } R _ { \mathrm { F } \mathrm { m } } + \sum _ { i = 1 } ^ { 4 } R _ { A { i } } + \sum _ { i = 1 } ^ { 2 } R _ { C i } } \\ { = \frac { 4 I _ { \mathrm { m } 3 } } { \mu _ { 0 } \mu _ { \mathrm { F } } \mathrm { m } A _ { \mathrm { m } } } + \frac { 2 I _ { \mathrm { m } 1 } } { \mu _ { 0 } \lambda _ { 1 } } + \frac { 2 I _ { \mathrm { m } 2 } } { \mu _ { 0 } \mu _ { \mathrm { F } } \mathrm { c } A _ { \mathrm { m } } } + \frac { 2 I _ { \mathrm { c } 1 } } { \mu _ { 0 } \mu _ { \mathrm { F } } \mathrm { c } A _ { \mathrm { m } } } } \\ { \qquad \quad \widehat { \mu } _ { 1 } = \frac { F ^ { c 1 } } { F ^ { c 1 } } } \\ { F ^ { c 4 } = \sum _ { i = 5 } ^ { 6 } F _ { i } = \frac { 2 I _ { \mathrm { F } } ! } { \mu _ { 0 } \mu _ { \mathrm { F } } \mathrm { m } } } \\ { R ^ { c 4 } = \sum _ { i = 5 } ^ { 4 } R _ { \mathrm { F } \mathrm { m } i } + \sum _ { i = 1 } ^ { 4 } R _ { A { i } } + \sum _ { i = 1 } ^ { 4 } R _ { C i } } \\ { = \frac { 2 I _ { \mathrm { m } 5 } } { \mu _ { 0 } \mu _ { \mathrm { F } } \mathrm { m } A _ { \mathrm { m } } } + \frac { 2 I _ { \mathrm { m } 1 } } { \mu _ { 0 } \mu _ { \mathrm { m } } } + \frac { 2 I _ { \mathrm { m } 2 } } { \mu _ { 0 } \mu _ { \mathrm { F } } \mathrm { c } A _ { \mathrm { m } } } } \\ { \qquad \widehat { \mu } _ { 4 } = \frac { F ^ { c 4 } } { F ^ { c 4 } } } \end{array} \right.
+$$
+
+where, $F ^ { c 1 }$ is the sum of magnetomotive force of 4 big
+
+permanent magnets, $F ^ { c 4 }$ is the sum of magnetomotive force of 2 big permanent magnets, $R ^ { c i }$ is the sum of magnetic resistance, $\varnothing _ { i }$ is magnetic flux.
+
+For loop 2:
+
+$$
+\left\{ \begin{array} { l l } { { \displaystyle F ^ { c 2 } = F _ { 5 } = \frac { B _ { r } l _ { m 5 } } { \mu _ { 0 } \mu _ { r m } } } } \\ { { \displaystyle R ^ { c 2 } = R _ { I 1 } + R _ { p m 5 } } } \\ { { = \frac { l _ { I 1 } } { \mu _ { 0 } \mu _ { r I } A _ { I 1 } } + \frac { l _ { m 5 } } { \mu _ { 0 } \mu _ { r m } A _ { m 5 } } } } \\ { { \displaystyle \qquad \oplus _ { 2 } = \frac { F ^ { c 2 } } { R ^ { c 2 } } } } \end{array} \right.
+$$
+
+where, ${ \boldsymbol { F } } ^ { c 2 }$ is the sum of magnetomotive force of loop2, $\boldsymbol { R } ^ { c i }$ is the sum of magnetic resistance, $\varnothing _ { i }$ is magnetic flux.
+
+For loop 3:
+
+$$
+\varnothing _ { 3 } = \varnothing _ { 2 }
+$$
+
+The leakage magnetic flux as follows:
+
+$$
+\emptyset _ { L } = \emptyset _ { 1 } - \emptyset _ { 2 }
+$$
+
+The total magnetic flux through the main air gap as follows:
+
+$$
+\varnothing _ { z } = \varnothing _ { 1 } + \varnothing _ { 4 }
+$$
+
+The average magnetic flux density of air gap as follows:
+
+$$
+\begin{array} { r } { B _ { Z } = \frac { \varnothing _ { Z } } { A _ { Z } } } \end{array}
+$$
+
+# V.FINITEELEMENTANALYSIS OF THEVCM
+
+Based on calculation and analysis,initial parameters such as number of magnets (28),gap width (5mm), yoke size (thickness $5 \mathrm { m m }$ ）are identified.Toachieveoptimal performance of VCM,FEM is used to verify the rationality of these parameters and to optimize them.Fig.5 shows the simulation diagram of magnetic field line.
+
+![](images/2a3c800e301aa4931bdabf45cd2a3df224e59eb850a17c702db5e641aeda94ce.jpg)  
+Fig.5 Simulation diagram of magnetic line of force
+
+# A Simulation of the impact of the air gap length
+
+To determine the impact of air gap length in the magnetic field,simulation model is built for different gaplengths based on preliminary parameters of permanent magnet. The distribution of the air gap flux densityis shown in Fig.6, where (a), (b) and (c) show the flux density when the air gap length is $3 \mathrm { m m }$ ，6mm and $8 \mathrm { m m }$ respectively. To show the impact of gap width on flux density more clearly, the average magnetic flux density curve of different air-gaplengths are shown as Fig.7 (the air-gap length is from $3 \mathrm { m m }$ to $8 \mathrm { m m }$ ）
+
+![](images/cc8eb7d18dd30b35f6dd5c1fc0ecb4ea658caa0c4c9395233f1840294eb15df3.jpg)  
+Fig.6 Air gap flux density cloud map
+
+Based on numerous simulation results，we can find that when the air-gap length increases, the flux density will decrease, the impact of ending effect becomes more obvious and the fluctuation of flux density becomes biger. Ending effect and the fluctuation of flux density will have negative effect on the reliability of output force. Small air-gap length could generate stabilized force,but the value of force will be smaller. On the contrary, large air-gap length could generate bigger force,but the stability of force becomes worse.After considering these factors,air gap width 6mm is selected in this design. Subsequent simulation analysis is carried out basedon thisresult.
+
+![](images/aac94cc96ab353996803c4c4f58f958b777acea4af245af60a0981c6182f6b0a.jpg)  
+Fig.7 The average magnetic flux density curve of air gap field in different widths
+
+BSimulation of the impact of permanent magnet thickness
+
+To clarify the impact of permanent magnet thickness on air-gap magnetic field, permanent magnet simulation model is built for different permanent magnet thickness (the thickness from $5 \mathrm { m m }$ to $1 2 \mathrm { m m } )$ . The average magnetic flux density curve in different thickness and magnetic flux density curve obtained by equivalent magnetic circuit method are shown as Fig.8.
+
+![](images/9be386001c4087f1b5787d21773879b5a6f6f3a89cb560f5e4536db22d32749d.jpg)  
+Fig.8The curve of average magnetic flux density
+
+Based on the simulation results，we can find that when the thickness of the permanent magnet increases,the flux density increases.But with the increased thickness per $1 \mathrm { m m }$ corresponding increment of magnetic flux density becomes smaller.
+
+# C Simulation of force
+
+After completing the calculation and analysis of the magnetic field, simulation model is built for analyzing the output force of the VCM.The difference value between the thrust force generated by coils in each position and the average value of the force is defined as force ripple in this paper. When the current is constant, the thrust force of the VCM at each location within stroke and thrust accuracy are important performance for the VCM which will be used for driving nano-positioning device. Stroke is determined by the value of force，meanwhile，force ripple affects positional accuracy. When the current is O.5A, the curve of average output force is shown in Fig.9.And the curve of force ripple is shown in Fig.1O. The volume of permanent magnets is the same with which in references [1].From these two figures, we can observe that the force-current ratio can reach $9 0 \mathrm { \Delta N / A }$ ,and the force ripple is within the scope of $\pm 0 . 1 9 \ : \mathrm { N }$ ,which is about $10 . 4 2 \%$ of the average output force.
+
+# VI.CONCLUSIONS
+
+A novel moving-coil VCM based on the bilateral Halbach array of permanent magnets has been proposed in this paper. The VCM implements bilateral Halbach array instead of the traditional monolithic permanent magnet as the stator. Three separated coils with the slotted coil skeleton function as the mover. Equivalent magnetic circuit method and the finite element analysis (FEA） are implemented to analyze the performance of the VCM. The analysis results show that the VCM can achieve a force-current ratio of 90 N/A and the force ripple of $\pm 0 . 1 9 \mathrm { N }$ ，
+
+![](images/aec064b6bf2aa86c91b9e86db9aa8e73f9b4d1789cdd7d5e92972e10fbcd7eab.jpg)  
+Fig.9 Thrust force when O.5A current is applied
+
+In the future work, the three coils of the VCM will be operated separately to achieve high positioning accuracy with the concept of novel macro-micro dual stage control scheme. Specifically, these 3 sets of coils can be organized as 2 sets of coils in parallel which is used to generate the big force for macro-positioning，and the middle coil isemployed to generate a small force for micro-positioning.
+
+![](images/b24141cd20dd1c1a78b3e2353bdce3053b25fd47d40a93b8e5ba13d6c341c1e5.jpg)  
+Fig.10 Force ripple of the proposed VCM
+
+# ACKNOWLEDGMENT
+
+Thispaper is supported by, the Natural Science Foundation of Ningbo ( 2015A610154)，the Science and Technology Innovation Group of Ningbo(2012B82005）,One Hundred Talents Program of the Chinese Academy of Sciences and Ningbo Key Technology R&D Projects (2013B10042and2013B10043） andZhejiangKey Laboratory of Roboticsand Intelligent Manufacturing Equipment Technology.
+
+# REFERENCES
+
+[1]. Tat Joo Teo,I-Ming Chen,Guilin Yang.A flexure-based electromagnetic linear Actuator. Nanotechnology 2oo8(19).   
+[2].Yao He,Hysteresis Nonlinear Modeling and Control of Micro-nano Positioning Stage.Hangzhou: Doctoral Thesis of
+
+Zhejiang University, 2013.
+
+[3]． Xia Ruiyang,Design and optimization of the structure of cylindrical voice coil motor Hangzhou: Master Thesis Zhejiang University, 2013.   
+[4]．G.Jager，T. Hausotte，E. Manske，H.J.Büchner,et al. Nanomeasuring and nanopositioningengineering[J], Measurement 2010,43:1099-1105.   
+[5]. Cao Shuiliang， A Dissertation Submitted to Guangdong University ofTechnology for the Degree of Master.Guangzhou: SchoolofElectromechanicalEngineering， Guangdong University of Technology, 2013.   
+[6]．H.Yajima,H.Wakiwaka,K.Minegishi, et al.Design of Linear DC Motor for High-speed Positioning. Sensors and Actuators A:Physical, 2000,81(1 - 3) : 281 - 284   
+[7]. G.Alici,B.Shirinzadeh,Kinematics and stiffness analyses of a flexure-jointed planarmicromanipulationsystemfora decoupled compliant motion.International Conference on Intelligent Robots and Systems．Las Vegas，USA， 2003.3282-3287.   
+[8]．Nian Longsheng，Analysis of Feasible Design Region for Right-AngleFlexure-HingeBasedonStiffness Error. Nanotechnology and Precision Engineering.2014.

@@ -1,0 +1,581 @@
+[
+    {
+        "type": "text",
+        "text": "Review article Challenges and opportunities for hydrogen production from microalgae ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Melanie Oey¹,Anne Linda Sawyer²,lan Lawrence Ross1 and Ben Hankamer1, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Institute for Molecular Bioscience,The Universityof Queensland,St Lucia,Qld,Australia   \n2Ruhr-University Bochum, Bochum,Germany ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received15 June2015;   \nrevised 12 November2015;   \naccepted 16 November2015.   \n\\*Correspondence (Tel +61 7 334 62012;   \nfax +617 334 2101;   \nemail b.hankamer@imb.uq.edu.au) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The global population is predicted to increase from ${ \\sim } 7 . 3$ billion to over 9 billion people by 2050. Together with rising economic growth,this is forecast to result in a $50 \\%$ increase in fuel demand,which will have to be met while reducing carbon dioxide $( \\mathsf { C O } _ { 2 } )$ emissions by $5 0 \\mathrm { - } 8 0 \\%$ to maintainsocial,political,energyand climate security.This tension between rising fuel demand and the requirement for rapid global decarbonization highlights the need to fast-track the coordinated development and deployment of efficient cost-effective renewable technologies for the production of ${ \\mathsf { C O } } _ { 2 }$ neutral energy. Currently,only $20 \\%$ of global energy is provided as electricity,while $80 \\%$ is provided as fuel.Hydrogen $( \\mathsf { H } _ { 2 } )$ is the most advanced ${ \\mathsf { C O } } _ { 2 }$ -free fuel and provides a ‘common' energy currency as it can be produced via a range of renewable technologies,including photovoltaic $( \\mathsf { P V } )$ ,wind,wave and biological systems such as microalgae, to power the next generation of ${ \\sf H } _ { 2 }$ fuel cells.Microalgae production systems for carbon-based fuel (oil and ethanol) are now at the demonstration scale.This review focuses on evaluating the potential of microalgal technologies for the commercial production of solar-driven ${ \\sf H } _ { 2 }$ from water.It summarizes key global technology drivers,the potential and theoretical limits of microalgal ${ \\sf H } _ { 2 }$ production systems,emerging strategies to engineer next-generation systems and how these fit into an evolving ${ \\sf H } _ { 2 }$ economy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:algae,solar,hydrogen, water,renewable energy,fuel. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The global economy is valued at $- \\mathsf { U S } \\$ 100$ Tn pa (CIA,2014) and is powered by the $\\$ 6$ Tn pa energy sector (Dittrick and Izundu, 2008),with $\\sim 8 0 \\%$ provided in the form of fuel and ${ \\sim } 2 0 \\%$ as electricity (IEA，2oo9).While renewable electricity generation systemsare being deployed rapidly,renewable fuel technologies are ${ \\sim } 1 0 { - } 2 0$ years behind on the development curve.This is due to the challenges of reducing fuel production costs towards $\\mathord { \\sim } \\$ 100$ per barrel of oil equivalent to compete with fossil fuels,and the need to improve ‘Energy Return on Energy Invested' (ERoEl -a measure of process efficiency) and reduce greenhouse gas (GHG) emissions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Additionally，by 2050 the human population is forecast to increase from 7.3 billion to over 9 billion people (USCB,2013), and together with continued global economic growth，this is projected to require $50 \\%$ more fuel (IEA，2010), $70 \\%$ more food (FAO，2009), $50 \\%$ more fresh water (OECD，2014) and cuts in ${ \\mathsf { C O } } _ { 2 }$ emissions of $80 \\%$ (IPCC，2007；Stocker，2013）to maintain political,social, fuel and climate security. It is therefore critical to fast-track the development of‘commercially-ready ${ \\mathsf { C O } } _ { 2 }$ neutral fuel systems that do not compete with food and Water needs.The importance of this challenge is highlighted by the common vision of the Group of 7 (G7) nations to achieve GHG reductions of $70 \\%$ by 2050 based on 2010 figures (G7, 2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Solarfuel options ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The production of clean fuels at a globally significant level requires a renewable energy source sufficiently large to drive this process.Solar energy is by far the largest energy source available to us,with 5500 ZJ（1 $Z \\mathsf { J } = 1 0 ^ { 1 5 }$ J)(Smil，2008) reaching the Earth'satmosphere every year. Of this,130o ZJ is photosynthetically active radiation (PAR) available at the Earth's surface (Oey et al.，2013).This annual irradiance level (130O ZJ/year） is $\\mathord { \\sim } 2 3 0 0 \\times$ the total global energy demand (O.56 ZJ/year) (BP, 2011)and dwarfs the combined energy from all reported oil,coal, gas and uranium reserves (Stephens et al.，2010b).Photosyntheticorganisms have over3billion years，evolved intricate photosynthetic systems capable of tapping into this abundant solar resource for the production of food,fuel and atmospheric oxygen $( \\mathsf { O } _ { 2 } )$ and not only support life on Earth,but provide a basis for next-generation solar fuel production. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "First and second generation crop-based biofuels include sugar and corn ethanol,as well as lignocellulosic ethanol from woody biomass and agricultural residues.However,these technologies require arable land and fresh water,and so ultimately result in 'foodvs fuel' or‘forest vs fuel' competition (e.g.palm oil).To achievea transition from'food/forestvs fuel'scenarios toa‘food and fuel' future，next-generation biofuel systems will need to expand photosynthetic capacity into urban areas,onto nonarable land $( \\sim 2 5 \\%$ of the Earth's surface),or into the oceans to utilize alternative water sourcesand conserve arable land $( \\sim 3 \\%$ of the Earth'ssurface) (Stephens et al.， 2012). Microalgaeand cyanobacteria systems can be located on nonarable land (and potentially in urban areas and oceans),cultivated at least in part in saline and/or waste water, facilitating increased nutrient and water recycling,and achieve higher yields than crop plants due to the ability to optimize light distribution, ${ \\mathsf { C O } } _ { 2 }$ supply and production conditions and thus offer advantages over crop-based biofuel feed stocks (Pulz and Gross,2004). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It can be calculated that at a $2 \\%$ solar to biomass conversion efficiency,which is already achievable at demonstration scale for biomass production in microalgal systems, ${ \\sim } 2 . 1 5 \\%$ of the Earth's surface would be required to supply the current global energy demand in the form of biomass at average illumination levels (0.56 ZJ/year/1300 ZJ/year $\\times 1 0 0 / 2 = 2 . 1 5 \\%$ .Subsequent production of fuels (e.g.oil,bio-diesel,ethanol,methane and $\\mathsf { H } _ { 2 } \\rangle$ （2号 reduces this efficiency,but this is offset,at least in part,by the fact that natural photosynthesis can attain theoretical efficiencies of ${ \\sim } 6 \\%$ (Melis and Happe,2001; Zhu et al.,2008,2010). Engineered microalgae and artificial systems,particularly those capable of ${ \\sf H } _ { 2 }$ production,can theoreticallyachieve higher efficiencies,butrequire further development(Blankenshipet al.,2011;Kruse et al.,2005b; Melis,2oo9).Thisarticle reviews advances in the development of microalgae-based solar-driven $H _ { 2 }$ production processes from water, witha particular focus on the challenges that mustbe overcome to deliver them and potential solutions that they offer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Microalgal $H _ { 2 }$ production ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The increasing requirement for carbon emission reduction makes ${ \\sf H } _ { 2 }$ more attractive as a fuel as its combustion yields only $H _ { 2 } O$ Furthermore,H2 has a 2.7-3.09 higher energy density(\\~120 (LHV) $- 1 4 0 ( \\mathsf { H H V } ) \\mathsf { k J } / \\mathsf { g } )$ than other hydrocarbon fuels(Gupta et al.,2013). Conventional,fossil fuel-based ${ \\sf H } _ { 2 }$ production methods (e.g.steam reformation of natural gas $( 5 0 \\% )$ ，industrial oil and naphtha reforming $( 3 0 \\% )$ ，coal gasification $( 1 8 \\% )$ and fossil fuel driven water electrolysis $( 3 . 9 \\% )$ (Gupta et al.，2013; Kalamaras and Efstathiou,2013))are costly,energy intensive and emit high levels of ${ \\mathsf { C O } } _ { 2 }$ .Incomparison,renewable bio ${ \\bf \\cdot H } _ { 2 }$ production systems (such asmicroalgae and cyanobacteria systems) have the potential to be carbon negative and less energy intensive，as they operate at ambient temperature and pressure (Karthic and Joseph,2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hydrogen production using oxygen evolving photosynthesis (oxygenic photosynthesis） is the most advanced biological ${ \\sf H } _ { 2 }$ production approach and the focus of this article. It uses solar energy to split water into protons $\\left( \\mathsf { H } ^ { + } \\right)$ ，electrons $( \\mathsf { e } ^ { - } )$ and $\\mathsf { O } _ { 2 }$ (Figure 1a)and recombines the derived $\\mathsf { H } ^ { + }$ and $\\mathrm { e } ^ { - }$ byeither hydrogenase (Figure 1b) or nitrogenase enzymes to produce ${ \\sf H } _ { 2 }$ The utilization of $\\mathsf { H } ^ { + }$ and $\\mathrm { e } ^ { - }$ derived from Water photolysis for $H _ { 2 }$ production has only been reported in green algae and cyanobacteria,and provides the basis for the development of bio-inspired artificial photosynthetic systems (Blankenship et al.，2011).The water photolysis process can be divided into indirect and direct pathways. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Indirect water photolysis ${ \\sf H } _ { 2 }$ production process ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The indirect process can take place in both microalgae and cyanobacteria (Kruse et al.，20o5a;Mathews and Wang,2009; Melis and Happe,2001;Melis et al.，20oO；Rathore and Singh, 2013).Solar energy is first converted into chemical energy in the form of carbohydrates,which are then used as substrates for ${ \\sf H } _ { 2 }$ production.Cyanobacteria，depending on the species，utilize both nitrogenases and hydrogenases for ${ \\sf H } _ { 2 }$ production (Dutta etal.，2oo5)，whereas microalgae rely solely on hydrogenases (Oncel et al.，2O15).Nitrogenases have the advantage that they actunidirectionally，whereashydrogenasesarebidirectional (Melnicki et al.，2012). However,the high $\\mathsf { O } _ { 2 }$ sensitivity of both enzymes requires the separation of $H _ { 2 }$ evolution and ${ \\mathsf { C O } } _ { 2 }$ fixation. Incyanobacteria,the reactionsare either temporally separated during light and dark periods,or physically separated，with $H _ { 2 }$ production occurring in heterocysts and ${ \\mathsf { C O } } _ { 2 }$ fixation in the vegetative cells (Dutta et al.,2oo5).The low ratio of heterocysts to vegetative cells (about 1:10） limits ${ \\sf H } _ { 2 }$ production levels (Bandyopadhyay et al.，2010).High ${ \\sf H } _ { 2 }$ production rates have been reported using cyanobacteria as catalysts (i.e. through the inhibitionofcell replication） (Bandyopadhyay et al.，2010; Melnicki et al.,2012).However, the energy requirement for the nitrogenase reaction (4 ATP per ${ \\sf H } _ { 2 } ^ { \\mathrm { ~ ~ } }$ ）reduces ${ \\sf H } _ { 2 }$ production and conversion efficiencies to less than half of the efficiencies expectedfromhydrogenase-basedindirectphotolysis (LaurentPilon and Halil，2014)． In algal systems， the most common,but not ideal practice，is the temporal separation of the $\\mathsf { O } _ { 2 }$ and ${ \\sf H } _ { 2 }$ production phase (aerobic and anaerobic phase, Figure 1) to circumvent oxygenic inactivation of the hydrogenase (further described below) (Kruse et al.,20o5a;Melis and Happe, 2001;Melis et al.,2000). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Direct water photolysis ${ \\sf H } _ { 2 }$ production process ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Direct photolysis has only been reported in microalgae，and involves the funnellingof $\\mathrm { e } ^ { - }$ derived from the light-driven water splitting reaction of photosystem Il (Figure 1c) directly to a ${ \\sf H } _ { 2 }$ 1 producing hydrogenase (Melis and Happe，2oo1；Meliset $a I .$ 1 2000).While direct solar-driven ${ \\sf H } _ { 2 }$ production from Water offers the highest theoretical photon conversion efficiency，achieving this is technically challenging due to the high $\\mathsf { O } _ { 2 }$ sensitivity of the hydrogenase.It requires customized cell lines and production systems which allow the simultaneous production of ${ \\sf H } _ { 2 }$ and $\\mathsf { O } _ { 2 }$ as this co-production is tightly down-regulated in native strains (Melis et al.,2000). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To date, the highest bio $\\cdot \\mathsf { H } _ { 2 }$ production efficiencies have been reported for microalgae (Scoma et al.,2012;Volgusheva et al., 2013).In microalgae，the first step of photosynthesis is the capture of solar energy by the light-harvesting complex (LHC) proteins (Figure 1a).The LHC proteins are classified as LHCl or LHCIl types depending on their predominant interaction with either photosystemI (PSl)or Il (PSll)， respectively.The LHC proteins belong to a large gene family,which in the greenalga, Chlamydomonasreinhardtii， consists ofover 20members (Dittami et al.，201O).The excitation energy transferred to PSll by LHCll (Figure 1a) drives the photosynthetic water splitting reaction which converts $H _ { 2 } O$ into ${ \\mathsf { H } } ^ { + }$ $\\mathrm { e } ^ { - }$ and $\\mathsf { O } _ { 2 }$ (Eq. 1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The photons captured by LHCl and LHCl excite $\\mathrm { e } ^ { - }$ derived from ${ \\mathsf { H } } _ { 2 } { \\mathsf { O } } ,$ and drive their transfer along the photosynthetic electron transport chain $\\mathrm { ~ ( e ^ { - } ~ }$ flow is indicated by solid black linesin Figure 1a) from the PSll-LHCl supercomplex via plastoquinone $( P Q )$ ，cytochrome $\\mathsf { b } _ { 6 } \\mathsf { f }$ (Cyt)，the PSl-LHCl supercomplex and ferredoxin $( F O )$ (via the ferredoxin ${ \\cdot } { \\mathsf { N A D P } } ^ { + }$ oxido-reductase; FNR) to finally reduce ${ \\mathsf { N A D P } } ^ { + }$ to NADPH.NADPH, together with ATP, is used in the Calvin-Benson cycle and subsequent biochemical pathways to fix (i.e.reduce) ${ \\mathsf { C O } } _ { 2 }$ to the sugars,starch,oils and other bio-molecules which collectively form biomass. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Simultaneously, $\\mathsf { H } ^ { + }$ are released into the thylakoid lumen by PSIl and the $P Q / P Q H _ { 2 }$ cycle $\\langle \\mathsf { H } ^ { + }$ flow is indicated by black dashed lines in Figure 1).These $\\mathsf { H } ^ { + }$ generate an electrochemical $\\mathsf { H } ^ { + }$ gradient across the thylakoid membrane，which drives ATP production via the flow of $\\mathsf { H } ^ { + }$ back to the stroma through the ATP synthase. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/32da636928fedce1f831e553503a8535bab9fb313aaba7c5fa0b6cb45d3986a9.jpg",
+        "img_caption": [
+            "Fig.1 Overview of the photosynthetic microalgal H2 production from water.Aerobic (a) and anaerobic (b) stages of the two phase H2 production and Micro-oxic continuous H2 production (c).Proton $\\left( \\mathsf { H } ^ { + } \\right)$ flow is marked with dashed lines,electron flow with continuous lines. Potential engineering targets for improved ${ \\sf H } _ { 2 }$ 1 production are marked in red (labels #1-5)and described in detail in section ‘Biological challenges andbottlenecks formicroalgal H2-production'. LHCIl: light-harvesting antenna proteins of photosystem II; PSll:photosystem I reaction centre; $P Q$ ：plastoquinone pool; $\\mathsf { C y t } b _ { 6 } f \\colon$ （204 cytochrome $\\mathsf { b } _ { 6 } \\mathsf { f }$ complex; PC: plastocyanin; PGRL1:proton gradient regulation like1 protein; LHCI: light-harvesting antenna proteins of photosystem I; HydA:hydrogenase A; PETF: ferredoxin;FNR:ferredoxin (flavodoxin)-NADP(H) reductase; NDH: NADPH-dehydrogenase. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Under normal aerobic conditions (Figure 1a)，photosynthesis produces the carbohydrates that fuel mitochondrial respiration and cell growth．However，under anaerobic light conditions (Figure 1b)，mitochondrial oxidative phosphorylation is largely inhibited by the lack of oxygen，leading to chloroplast overreduction and a slowing of the electron transport chain,which can ultimately result in photo-damage and reduced ATP generation．Under these conditions,the $\\mathsf { H } ^ { + }$ and $\\mathrm { e } ^ { - }$ extracted from water by the remainingPSll or starch can be fed to the hydrogenase (HYDA)via the electron transport chain，which recombines the $\\mathsf { H } ^ { + }$ and $\\mathrm { e } ^ { - }$ to produce ${ \\sf H } _ { 2 }$ (Eq.2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Overall therefore,Eqs1and 2 describe solar-driven ${ \\sf H } _ { 2 }$ production from $H _ { 2 } O$ .The hydrogenase essentially acts as a ${ \\mathsf { H } } ^ { + } / { \\mathsf { e } } ^ { - }$ release valve by recombining $\\mathsf { H } ^ { + }$ (from the medium) and $\\mathrm { e } ^ { - }$ (from reduced ferredoxin) to produce ${ \\sf H } _ { 2 }$ gas that is excreted from the cell. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 { \\mathsf { H } } _ { 2 } { \\mathsf { O } } \\to 4 { \\mathsf { H } } ^ { + } + 4 { \\mathsf { e } } ^ { - } + { \\mathsf { O } } _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 { \\mathsf { H } } ^ { + } + 4 { \\mathsf { e } } ^ { - }  2 { \\mathsf { H } } _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The high ${ \\sf H } _ { 2 }$ production efficiency of microalgae is partly due to thehigh efficiency of the algal [FeFe]-hydrogenase，whichis 100-fold higher than that of other hydrogenases (turnover rate of up to $1 0 ^ { 4 } \\mathsf { H } _ { 2 }$ molecules/s) (Lubitz et al.,2014; Volgusheva et al., 2013,2o15).The overall process is also attractive for sustainable applicationsas it occurs at ambient temperature and pressure. Thevolatilityof ${ \\sf H } _ { 2 }$ has the advantage that it prevents feedback inhibition and its separation into the gas phase assists harvesting, although there are technical challenges in terms of ${ \\sf H } _ { 2 }$ containment and its separation from contaminating oxygen. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chlamydomonas reinhardtii is one of the best studied microalgae species with respect to ${ \\sf H } _ { 2 }$ production processes,availability ofgenetic tools and structural biology knowledge of the photosynthetic machinery (Nield et al.,2oo4; Posten and Walter, 2012;Tokutsu et al.,2012). It is not only able to produce ${ \\sf H } _ { 2 }$ via oxygenic photolysis (direct and indirect)，but also via dark fermentation (see below),in a process similar to that of other micro-organisms (Eroglu and Melis，2011；Stripp and Happe, 2009;Tolleteretal.,2011;Volgusheva etal.,2013;Wecker and Ghirardi,2014). Of these pathways,light-dependent $H _ { 2 }$ productionis the most direct photon-to-fuel conversion process. However,the natural hydrogenase is only expressed and active under micro-oxic or anaerobic conditions (Ghirardi et al.，1997) and is rapidly inactivated by the gradual accumulationof photosynthetically produced $\\mathsf { O } _ { 2 }$ .While this provides the basis for a ${ \\sim } 9 5 \\%$ pure ${ \\sf H } _ { 2 }$ stream (Kruse et al.，2005a) and potentially protects against the formation of explosive $\\mathsf { O } _ { 2 } / \\mathsf { H } _ { 2 }$ mixtures,under natural conditions it only allows for transient ${ \\sf H } _ { 2 }$ production. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Currently,most algal systems are based on a simple process of temporal separation to circumvent the oxygenic inactivation of the hydrogenase (Melis et al.，20oo).This involves first growing algaeaerobicallyforbiomassaccumulation，ideallyby ${ \\mathsf { C O } } _ { 2 }$ fixation,during which oxygen is released and the reducing power stored,typicallyas carbohydrates (Figure 1a).This step is followed bysulphur (S) starvation.Among other changes,S deprivation reduces the rate of repair of a PSll reaction centre protein (D1), which contains the S-containing amino acid methionine.Photodamage then reduces PSll to $\\sim 2 5 \\%$ of the original level (Volgusheva et al.，2013). This drops the $\\mathsf { O } _ { 2 }$ production below the rate of mitochondrial respiration and achieves the anaerobic/ micro-oxic conditions which induce the expression of an active hydrogenase (Figure 1b).While anaerobiosis initially blocks the $\\mathsf { e } ^ { - }$ transport from the remaining PSll in the phase preceding ${ \\sf H } _ { 2 }$ production，the block is subsequently released and direct $\\mathrm { e } ^ { - }$ transport to the hydrogenase occurs,with ${ \\sim } 8 0 \\%$ of the ${ \\sf H } _ { 2 }$ being derived directly from PSll activity(Volgusheva et al.,2013).Under these conditions,the reactions described in Eqs 1 and 2are effectively coupled,resulting in the overall process described in Eq.3.However，they also limit the overall efficiency of the process. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To overcome the limitations of S deprivation,other approaches aim to develop $\\mathsf { O } _ { 2 }$ -tolerant hydrogenasesor balance $\\mathsf { O } _ { 2 }$ production with metabolic $\\mathsf { O } _ { 2 }$ utilization (Oey et al.,2013).A further approach is the use of S microdosing (Figure 1c) (Kosourov et al., 2005） to allow PSll repair，the production of $\\mathsf { H } ^ { + }$ and $\\mathrm { e } ^ { - }$ from water and to balance $\\mathsf { O } _ { 2 }$ evolution with $\\mathsf { O } _ { 2 }$ utilization through mitochondrial respiration (Kruse et al.，2oo5a).This micro-oxic approach has the advantage of being more efficient and can providea basis fora continuous ${ \\sf H } _ { 2 }$ production process.Another, recently published strategy is magnesium deprivation，which results in a decreased photosynthetic activity but increased respiration and starch accumulation allowing a prolonged ${ \\sf H } _ { 2 }$ production period $( > 7$ days).Under these conditions,functional PSIl,which appears to be crucial for $H _ { 2 }$ production，was only reduced by $20 \\%$ ，implyingahigher $\\mathrm { e } ^ { - }$ availability to the hydrogenase(Volgushevaet al.， 2015)． Furthermore， the co-cultivation of algae and bacteria has been presented asa newapproachtoachieve algal anaerobiosisvia increased bacterial respiration (Lakatos et al.,2014). It is also of note that two algae strains are reported to be able to produce low levels of ${ \\sf H } _ { 2 }$ under aerobic conditions (Hwang et al.,2014). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$2 H _ { 2 } O  2 H _ { 2 ( 9 \\bar { a } 5 ) } + O _ { 2 ( }$ extractedyrespratin)(TyicallyHgis $\\sim 9 5 \\%$ pure(Kruse et al.,2005a)) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Biological challenges and bottlenecks for microalgal $\\mathsf { H } _ { 2 }$ production ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Inaddition to Chlamydomonas，several other algal species, including species of Chlorella (Rashid etal.,2011),Scenedesmus (Schulz et al.，1998)and Tetraselmis (D'Adamo et al.，2014), have also been reported to produce ${ \\sf H } _ { 2 }$ but at lower levels.The C.reinhardtii system has the advantage that all three genomes (nuclear，chloroplast and mitochondrial） have been sequenced and transformed,and much more detailed informationis available on the organization of photosynthetic complexes during ${ \\sf H } _ { 2 }$ production (Hemschemeier and Happe,2011;Tolleter et al., 2011).Transformation techniques are well established and include particle bombardment (Debuchy et al.，1989；Kindle et al.，1989;Mayfield and Kindle，1990)，glass bead or siliconcarbide whisker methods (Dunahay，1993；Kindle，1990),electroporation(Shimogawara et al.，1998) and Agrobacterium tumefaciens-mediated gene transfer (Kumar et al.， 2004). Chlamydomonas thereforeremainsthe bestcharacterized model organism for microalgal ${ \\sf H } _ { 2 }$ production，associated genetic engineering and the identification of molecular bottlenecks. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Optimizing light capture efficiency ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The LHC antennae systems have a dual role: to capture photons and dissipate excess light energy to provide photoprotection (Niyogi，1999； Pascal et al.，2005；Takahashi et al.，2006). Biomass production efficiency,at least in the laboratory,can be improved through LHC antenna reduction (Figure 1-label #1),as this enhances light distribution through the bioreactors,enables the use of increased operational cell concentrationsand can yield improved overall photosynthetic efficiencies of these systems (Beckmann et al.，2009;Melis et al.，1999；Mussgnug et al., 2007;Oey et al.,2013;Polle et al.,2003).Furthermore,C.reinhardtii antenna mutants have also been reported to exhibit an earlier onset of ${ \\sf H } _ { 2 }$ production under S deprivation conditions (Oey et al.,2o13),which is likely due to three factors: (i) improved light distribution leading to higher photon conversion efficiencies of the overall culture，(ii) the ability to lower the dissolved $\\mathsf { O } _ { 2 }$ concentration through the use of higher cell densities，which balance $\\mathsf { O } _ { 2 }$ production with metabolic load，and (iii) altered photo-inhibition and stabilization of PSll required for subsequent ${ \\sf H } _ { 2 }$ production (Volgusheva et al.，2013)． Collectively these properties resulted in cultures exhibiting higher ${ \\sf H } _ { 2 }$ production rates under the conditions tested (Oey et al.,2013). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The precise engineering of the LHC antenna requiresa detailed understanding of the structural complexity and dynamic response of algae to light in larger scale production systems (de Mooij et al.，2015).To date,the engineering of the nuclear encoded antenna genes has utilized chemical or random insertion mutagenesis (Polle et al.，2002,2003),the manipulation of antenna regulation proteins (e.g.NAB1 (Beckmann et al.,20o9)) or RNAi knock-down approaches (Mussgnug et al.，20o7；Oey et al., 2013). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The least specific method of engineering antenna mutants involves the introduction of foreign DNA into the nuclear genome viarandom insertion (Zhang et al.，2014).As clear phenotypes are needed for the rapid screening of mutants,the expected light green phenotypes of putative antenna mutants seemsan attractive selection criteria.However,while this approach identifies mutants impaired in antenna or chlorophyll synthesis,it does not select for specific multiple mutations likely required for optimal ${ \\sf H } _ { 2 }$ production. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A more targeted approach to engineer antenna cell lines is via the indirect route of manipulating antenna regulation proteins An example of this is the over-expression of the translational repressor NAB1,which results in the specific down-regulation of specific LHC proteins (Beckmann et al.，20o9)．This approach relies on cellular regulatory mechanisms and is therefore limited in its target scope.Anotherapproach is RNAi mediated knock-down (De Riso et al.，2009;Moellering and Benning，2010；Molnar et al.,2007,2009;Rohr et al.,2004; Schmollinger et al.,2010; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sun et al.,2008; Zhao et al.,2007,2009)of specific target genes such as LHC genes,or genes involved in chlorophyll biosynthesis. A challenge for precise antenna engineering is that the coding regions of the LHC genes are highly homologous (Natali and Croce,2015),which complicates the specific down-regulation of target LHC genes.Additionally, the need to maintain the RNAi expressing mutants,typically through ongoing selective pressure, makes this approach less than ideal for industrial scale up.RNAi is therefore best suited for proof-of-principle studies to identify target genes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The most elegant technologies facilitate precise and permanent genome editing enabling the fine tuning of antenna genes and adjustments to the pigment content，expanding the available solar spectrum (Blankenship and Chen,2013;Chen and Blankenship，2011). Several genome editing systems have been developed in recent years,including zinc finger nucleases (ZFN) (Sizova et al.，2013)， transcription activator-like effectornucleases (TALENs) (Gao et al.，2014) and the CRISPR/Cas systems (Cho et al.，2013;Mali et al.，2013),all of which rely on nuclease induced DNA strand breaks and endogenous cell repair mechanisms to obtain mutants with specifically edited genomes.This allows processes such as photosynthesis to be fine-tuned for biotechnological applications.Another attraction of these techniques is the potential to develop mutants which are nongenetically modified organisms due to the transient introduction of the required nucleases.This would bea significant advance for largescale applications such as biofuel production，particularly given current legislative limitations on the use of GMO strains. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "While ZFN (Sizova etal.,2013) and TALENs (Gao et al.,2014) have been used for genome editing in Chlamydomonas, they still involve labour-intensive cloning steps.In contrast, the CRiSPR/Cas system (Cho et al.，2013;Mali et al.，2013)promises to be a simpler technique only requiring the expression of an RNA guided nuclease,Cas9,to introduce strand breaks.The template for the guideRNA is fairly short $( \\sim 2 3 \\ \\mathsf { b p } )$ ，assisting with the targeted engineering of specific antenna genes given their high level of homology.Although successful CRISPR/Cas usage in Chlamydomonas isyet to be reported,it isanticipated that this technique will be possible in Chlamydomonas in the near future (Jiang et al., 2014)，having already been successfully demonstrated in mammalian cells (Cong et al.，2013;Mali et al.，2013；Park et al., 2014)，plants (Fauser et al.，2014;Feng et al.，2013；Xie and Yang，2013)and zebra fish (Hwang et al.，2013)．A patent application for its usage in the algal genus Nannochloropsis is also encouraging (Patent US 20140220638 A1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Electron supply to the hydrogenase and availability of reduced PETF ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Limited electron flow to the hydrogenase is another potential bottleneck for sustainable ${ \\sf H } _ { 2 }$ production (Hallenbeck and Benemann，20o2) (Figure 1 - label #2).This can occur due to the limited availability of reduced ferredoxin (PETF) asa result of other competing pathways (Winkler et al.，2011）(e.g.ferredoxin${ \\mathsf { N A D P } } ^ { + }$ reductase (FNR)，sulphite reductase，nitrate reductase, glutamate synthase and fatty acid desaturases (reviewed in Hemschemeier and Happe,2011)).The hydrogenase (HYDA)can accept $\\mathrm { e } ^ { - }$ viaa direct (PSll-dependent;2 photons per electron to HYDA)or indirect (PSll-independent from starch;3 photons per electron to HYDA) route (Chochois et al.,2oo9;Fouchard et al., 2005).To improve electron flow,PETF, FNR and the hydrogenase haveall been engineered (Long etal.,2oo9;Lubneretal.,2011; Rumpel et al.,2014;Sun et al.，2013;Wittenberg et al.,2013; ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yacoby et al.,2011),with a particular focus on the improvement of the affinity of the hydrogenase to PETF,the reduction of the affinity of PETF for FNR and the fusion of PETF and PSl with the hydrogenase.However, the identified candidates have so far only been tested in vitro and are yet to be assessed for their performance in vivo.Photosynthetic, $H _ { 2 }$ producing algal cells supply an excellent scaffold to carry out such proof of principle studies.While most engineering efforts have focused on the chloroplast-localized nuclear encoded genes,recent efforts have been made towards the in situ overexpression of the hydrogenase in the plastid to uncouple it from its native control system (Reifschneider-Wegneret al.， 2014). Engineeringhasalso focused on indirect targets,including electron competitors such asRuBisCo (Pinto et al.,2013),cyclic electron flow (Kruse et al., 2005a;Tolleter et al.,2011),starch degradation (Chochois et al., 2009) and respiration (Ruehle et al.,2oo8),with mutants inall of thesepathwaysreportedlyyieldingincreased ${ \\sf H } _ { 2 }$ production levels.Finally，additional components have been added to the electron transfer pathway,includinga plastid-expressed ${ \\mathsf { N A D } } ( { \\mathsf { P } } ) { \\mathsf { H } }$ dehydrogenase (Baltz et al.,2014),a hexose transporter (Doebbe et al.,2oo7) and exogenous hydrogenases (Chien et al.,2012). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Alteration of the thylakoid proton gradient ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proton supply to the hydrogenase is another potential bottleneck (Figure 1-label #3).The transport of $\\mathrm { e } ^ { - }$ fromwater to PETF via the photosynthetic electron transport chain is involved in establishing a proton gradient across the thylakoid membrane which drives ATP synthesis.While ATP production is essential during ${ \\mathsf { C O } } _ { 2 }$ fixation,the ATP requirement drops during ${ \\sf H } _ { 2 }$ production (Das et al.，2014)and electron transport is reduced at the point of $C y t b _ { 6 } f$ (Antal et al.，2009;Burgess et al.，2011), leading to an impaired dissipation of the proton gradient and therefore decreased proton availability for the hydrogenase and reduced ${ \\sf H } _ { 2 }$ production.One strategy to improve ${ \\sf H } _ { 2 }$ production is to artificially dissipate the proton gradient to increase ${ \\sf H } _ { 2 }$ production transiently in the presence of the chemical uncoupler carbonyl cyanide $m$ -chlorophenyl hydrazine (CCCP),which causes an efflux of $\\mathsf { H } ^ { + }$ from the thylakoid lumen into the stroma (Kruse et al., 2005a; Lee,2013;Lee and Greenbaum,2003).This suggests that the integration of a proton channel into the thylakoid membrane could more permanently restore proton and electron flow to the hydrogenase.Such a proton channel,however,would need to be inducibly expressed,as the addition of the uncoupler prior to anaerobiosis was found to abolish hydrogenase activity,suggesting that the proton gradient is important for initial hydrogenase expression (Lee，2013)and aerobic growth.A similar strategy involves the development of a leaky ATPase to increase proton flow and reduce ATP production (Das et al.，2014;Robertson et al.,199O).Reduced ATP production caused by the introduction ofa proton channel or mutated ATPase may additionally reduce reactions competing for reducing equivalents and therefore increase electron supply to the hydrogenase (Kumar and Das, 2013). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Oxygen sensitivityof the hydrogenase ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sustained ${ \\sf H } _ { 2 }$ production under standard growth conditions remainsa major challenge,as $\\mathsf { O } _ { 2 }$ sensitivity of the hydrogenase is a multifaceted problem.This is because $\\mathsf { O } _ { 2 }$ oxygen inhibits not just hydrogenase enzyme function，but also transcription and protein maturation (Cohen et al.,20o5). Interestingly, two algae strains were recently reported to be able to express the hydrogenase in the presence of more than $2 1 \\%$ $\\mathsf { O } _ { 2 }$ and to produce low levels of ${ \\sf H } _ { 2 }$ at $1 5 \\%$ atmospheric $\\mathsf { O } _ { 2 }$ (Hwang et al., 2014).Several genetic engineering approaches have also been tested to reduce the $\\mathsf { O } _ { 2 }$ sensitivity of the hydrogenase (Figure $1 \\mathrm { ~ - ~ }$ label #4),including random mutagenesis (Flynn et al.,2oo2)and targeted mutagenesis of the catalytic site to restrict $\\mathsf { O } _ { 2 }$ access (Stiebritz and Reiher,2012).While engineering approaches have been successful for a bacterial [NiFe] hydrogenase (Dementin et al.,2oo9),this has so far not been the case with the microalgal [FeFe] hydrogenase.Despite this,the identification of hydrogenases with reduced $\\mathsf { O } _ { 2 }$ sensitivities will increase the scope for genetic engineering.A hydrogenase with a reduced $\\mathrm { O } _ { 2 }$ sensitivity Would open up a direct path to $H _ { 2 }$ production from oxygenic water splitting,but would also lead to the co-production of $\\mathsf { O } _ { 2 }$ which then requires subsequent gas separation.However，this approach would overcome the need for a two phase aerobic/ anaerobic process,potentially enabling a continuous ${ \\sf H } _ { 2 }$ production process and eliminating the need for ATP and NADPH,which arerequired to produce starch- and oil-based feed stocks for alternative fuels.Achievingthis inthermophileswouldbe expected to further improve reaction kinetics. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Oxygen evolution and removal ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A different approach used to alter $\\mathsf { O } _ { 2 }$ sensitivity and extend ${ \\sf H } _ { 2 }$ production is to control the $\\mathsf { O } _ { 2 }$ concentration of the culture. Increasing the cell density and respiratory load can result in an earlier onset of anaerobiosis and ${ \\sf H } _ { 2 }$ production (Oey et al.,2013; Schonfeld et al.,20o4).Furthermore, the down-regulation of PSll (Surzycki et al.，2oo7) and engineering of $\\mathsf { O } _ { 2 }$ evolution activity (Makarova et al.,2007;Scoma etal.,2012;Torzillo et al.,2009) have been exploited (Figure 1-label #5).Leghemoglobins,which are able to sequester $\\mathsf { O } _ { 2 } ,$ have also been expressed in C.reinhardtii (Wu et al.,2010,2011),and in a different approach，a sulphate permease mutantwas developed,which allowed greater control of S deprivation (Chen et al.,2005). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "${ \\sf H } _ { 2 }$ -production improvement strategies-Supportive targets ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Despite the obvious benefit of manipulating targets directly involved in ${ \\sf H } _ { 2 }$ production,engineering more indirect targets to simplifycultivation,analysisand $H _ { 2 }$ production is also important. The ability to easily report lumen pH (Bencina,2013;Demaurex, 2002),hydrogenase expression and key metabolic pathways such as sulphur,starch and lipid metabolism,combined with external control of gene expression levels and physiological mechanisms via the supply of stimuli such as hormones or light,would enable the rapid dissection of the changes in cell state occurring during ${ \\sf H } _ { 2 }$ production.New genome editing tools (Cong et al.，2013; Fauser etal.,2014;Feng et al.,2013;Hwang et al.,2013;Mali et al.,2013;Park et al.,2014;Xie and Yang,2013) will provide scope for sophisticated gene regulation and diagnosis similar to those used in mammalian systems including inducible promoters and self-altering genes (Cre-lox (floxed) systems) (Hajdukiewicz et al.，2001;Oey et al.，2009)，highly specific reporter systems and further tools for improving research and industrial use. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "High-throughput screening methods ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The development of new ${ \\sf H } _ { 2 }$ screening methods can also accelerate the engineering of enhanced $H _ { 2 }$ -producingalgal strains. To date, ${ \\sf H } _ { 2 }$ mutants have been detected through a chemo-chromic sensing assay，which utilizes a palladium/tung sten oxide film (Seibert et al.，1998) or in screens specific to the created mutants (Kruse et al.，20o5a; Ruehle et al.，2008; ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Stapleton and Swartz，2010;Tolleter et al.，2011).A recent ${ \\sf H } _ { 2 }$ -detection screen developed (Wecker and Ghirardi，2014), which uses Rhodobacter capsulatus expressing an emerald green fluorescent protein (emGFP)driven by the hupR ${ \\sf H } _ { 2 }$ -sensing promoter asareporter for ${ \\sf H } _ { 2 }$ production，offersa simple, inexpensive and semi-quantitative screening method.The development of a chlorophyll fluorescence assay (Godaux et al.,2013) and an inorganic hydrogenase active site mimic will also allow for quicker screening of hydrogenase mutants (Berggren et al.,2013; Esselborn et al.,2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Microalgae: a blueprint and evaluation platform for bio-inspired hydrogen production ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Natural microalgae-based light-driven ${ \\sf H } _ { 2 }$ production processes serve as a blueprint and testing platform for the development of bio-inspired artificial solar ${ \\sf H } _ { 2 }$ production systems.For example,at the level of component development, the atomic structure of the light-harvesting antenna systems provides valuable insights into the design of engineered and artificial light capturing pigments and systems (Qin et al.,2015).Another example is the design of new water splitting catalysts based on the manganese cluster of PSIl (Brimblecombe et al.,2010;Tsui et al.,2013;Zhang et al., 2015).The arrangement of the redox-active components of the photosystems has also been studied extensively，and other research has led to the development of self-assembling synthetic scaffolds able to optimize the coordination and spacing of the components of artificial photosynthetic systems (Farid et al., 2013；Mancini et al.，2013；Weingarten et al.，2014).In this context,it is notable that the hydrogenase of C. reinhardtii can be prepared in large quantities as an apo-protein and be readily reconstituted with its iron sulphur clusters to form an active hydrogenase (Esselborn et al.，2013).Through the use of such components,it is therefore theoretically possible to build lightdriven redox-active systems which split water and use the $\\mathsf { H } ^ { + }$ and $\\mathrm { e } ^ { - }$ for ${ \\sf H } _ { 2 }$ production.However,the economic viability and ERoEl of both algae and bio-inspired artificial systems will have to be determined later in the development cycle. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Challenges of scale up ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Coordinated biological engineering ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The selection and engineering of high-efficiency microalgae cell lines is central to this process. Lessons learnt from the optimizationof microalgal ${ \\sf H } _ { 2 }$ production suggest that the highest efficiency strains will require not single mutations,but significant re-engineering of the ${ \\sf H } _ { 2 }$ production process.For example,downregulating the light-harvesting proteins has benefitsas light green cell lines enable higher cell densities to be used,resulting in more rapid $\\mathsf { O } _ { 2 }$ scavenging,the early onset of ${ \\sf H } _ { 2 }$ production and an overall higher ${ \\sf H } _ { 2 }$ yield (Oey etal.,2013).The yield of ${ \\sf H } _ { 2 }$ can also be increased by locking the photosynthetic electron transport chain into the State 2 configuration and by reducing cyclic electron transport,which competes with the hydrogenase for $\\mathrm { e } ^ { - }$ (Kruse et al.,2005a; Tolleter et al.,2011).Additionally, lessening the competition between the hydrogenase and FNR for electrons forexample，by re-engineering the electron donors of the hydrogenase could further improve $H _ { 2 }$ production (Rumpel et al., 2014).The ultimate goal would be the combination of all of these targeted mutations into a single production strain for continuous ${ \\sf H } _ { 2 }$ production. It would essentially allow the microalgae cells to act as catalysts under micro-oxic conditions where $\\mathrm { O } _ { 2 }$ production and consumption are in balance (Figure 1c)，and the water splitting reaction is active at the same time as the hydrogenase This would enable a 2 photon vs 3 photon electron transfer steps from water to ${ \\sf H } _ { 2 }$ ，which representsa $3 3 \\%$ improvement in process efficiency. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Next-generation photobioreactor development ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The scale up of microalgae systems from the laboratory to commercial facilities theoretically offers the potential to couple ${ \\sf H } _ { 2 }$ fuel production to ${ \\mathsf { C O } } _ { 2 }$ sequestration (e.g.the residual biomass to biochar) or other co-products.To establish the viability of a given process,rigorous techno-economic (TEA)and life cycle analyses (LCA),as well as pilot and demonstration scale trials,are required to confirm positive economic returns and ERoEl，as well as reduced GHG emissions.Achieving these targets will not only involve the engineering of next-generation cell lines as described above，but the design of photobioreactors able to deliver optimized production conditions for the chosen production strains and specific geographic locations (Franz et al.，2012; Slegers,2014; Slegers etal.,2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Otherartificial and naturallyderived renewable ${ \\sf H } _ { 2 }$ -production strategies ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Toreplace fossil fuel-based ${ \\sf H } _ { 2 }$ production processes，several renewable ${ \\sf H } _ { 2 }$ production strategies are being explored. In addition to biological systems such as algae，these include biologically based or biologically inspired systems as well as physical systems such as $\\mathsf { P V } ,$ wind and wave power. The ability touse electrolysis at peak electricity production times to generate ${ \\sf H } _ { 2 }$ for energy storage is already being employed by current European demonstration projects such as HyUnder, INGRID， MYRTE and GRHYD (AREVA，2013； D'ErricO and Screnci，2012；Darras et al.，2012；ENGIE；HyUnder，2012; INGRID;Poggi et al.，2014). Coupling such energy capture and electrolysis processes is more environmentally friendly than using fossil fuels，and could technically provide workable solutions which can reportedly achieve photon-to-electron conversion efficiencies of $20 \\%$ (Bonke et al.，2015). Nevertheless，challenges to the scale up of these technologies remain.These include the following: (i) driving down the capital costs of production,(ii) eliminating rare earth metals (Kapdan and Kargi, 2006)，(ii increasing the catalyst longevity and (iv)improving the ERoEl towards a value of 10:1 required to support a civilized society (Hall et al.，2009). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Microalgae systems currently only have photon conversion efficiencies of $3 \\%$ (Scoma et al.,2012;Volgusheva etal.,2013) and a theoretical maximum of ${ \\sim } 1 2 { - } 1 4 \\%$ (Melis,2009;calculated based on the Z-scheme of electron transport and mean energy of PAR),which is lower than that of artificial systems (Bonke et al., 2015).However, they are self-replicating and repairing,have water splitting complexes and hydrogenases based on manganese, calcium and iron (not rare Earth metals) and have been proven to be able to support ${ \\sf H } _ { 2 }$ production over long periods (Laurinavichene et al.,2006).Furthermore, ${ \\sf H } _ { 2 }$ -producing microalgae can be usedin co-production strategies which theoretically have the potential to improve economic performance (Stephens et al.，2010a).More detailed TEA and LCA are required to establish the prosand cons of each technology and which system is more competitive economically in terms of ERoEl and GHG emissions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Biological ${ \\sf H } _ { 2 }$ production can,apart from the above discussed oxygenic photosynthesis，further be achieved via microbial electrolysis cells， dark fermentation and photo-fermentation (nonoxygenic photosynthesis) (Chandrasekhar et al.，2015). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Microbial electrolysis cells ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "are designed to produce ${ \\sf H } _ { 2 }$ from electrogenic micro-organisms which consume and release $\\mathrm { e } ^ { - }$ 1 $\\mathsf { H } ^ { + }$ and ${ \\mathsf { C O } } _ { 2 }$ ．An externally supplied voltage allows the formation of ${ \\sf H } _ { 2 }$ gas from the released $\\mathsf { H } ^ { + }$ .As the $H _ { 2 }$ production process itself does not occur inside the cell，microbial electrolysis cells are strictly speaking not $b i _ { 0 } \\mathbf { - } H _ { 2 }$ production platforms.Additionally,due to the requirement of the external supply of an electric current and carbon-based feed stocks,the economic viability of scaling up this ${ \\sf H } _ { 2 }$ production strategy must be carefully considered (Heidrich et al.,2014). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dark fermentation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "involves the production of ${ \\sf H } _ { 2 }$ using facultative or obligate anaerobic bacteria which also consume organic material. However,this is a chemical energy conversion process rather than a renewable energy process.Furthermore,while the process occurs at a higher rate compared to photo-fermentation or photolysis,it hasa low ${ \\sf H } _ { 2 }$ yield: substrate use ratio,mainly because of the formation of various volatile by-products including ethanol,acetic acid,propionic acid and butyric acid (Jones et al.,2015),from which ${ \\sf H } _ { 2 }$ must be purified(Chandrasekharetal.,2015).Production factors such as tight control of the pH,carbon/nitrogen ratio of the substrate and high temperature requirements add additional challengesand operating costs (Jones etal.,2015;Wang et al.,2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Anoxygenic photo-fermentation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "is performed by purple nonsulphur photosynthetic bacteria under anaerobic and anoxic conditions.These organisms use solar energy to convert organic compounds such as organic acids, sugars and glycerol into ${ \\sf H } _ { 2 }$ and ${ \\mathsf { C O } } _ { 2 }$ .While $\\mathsf { O } _ { 2 }$ sensitivity of the keyenzyme，nitrogenase，is not of concern as these bacteria conduct nonoxygenic photosynthesis, the conversion of organic substrates to ${ \\sf H } _ { 2 }$ appears unlikely to be economical or scalable and the abstraction of these substrates (e.g.sugars) from the food chain isundesirable.Furthermore, ${ \\sf H } _ { 2 }$ production occurs in the absence of $N H _ { 4 }$ due to the high sensitivity of the nitrogenase to nitrogen in the medium.The main challenges of this process are bacterial contamination，substrate type and carbon/nitrogen ratio,synthesis of competing by-products such as polyhydroxybutyrate,sensitivity to temperature and light fluctuations,the low catalytic activity of thenitrogenase，expression suppression by $N H _ { 4 }$ (and thus required dilution of waste asa substrate) and lower photochemical efficacy，which collectively lead to low ${ \\sf H } _ { 2 }$ production levels (Chandrasekhar et al.,2015;Hay et al.,2013). The bio- ${ \\bf \\cdot H } _ { 2 }$ production routes described above have the advantage of being able to utilize carbon sources which would otherwisebe lost，for example from wastewater，while assisting in waste water management.However， these processes can still be regarded as chemical energy conversion technologies and are not strictly speaking net solarfuel technologies in which the energy from light is captured and stored in the form of fuel. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Microalgae $\\mathsf { H } _ { 2 }$ systems within a global context ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is also important to understand the global context into which this technology fits,as hydrogen sits at the nexus of several global challenges.In 2010，the G20 nations accounted for $8 3 \\%$ of global energy demand and similar levels of ${ \\mathsf { C O } } _ { 2 }$ emissions (BP, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2013).The highest national ${ \\mathsf { C O } } _ { 2 }$ emissions levels were reported in China (8 205.9 Mt $C O _ { 2 } \\rangle$ ,theUS (5 074.1 Mt $C \\mathsf { O } _ { 2 } ^ { \\cdot }$ ）and India(1 $9 5 4 . 0$ Mt $C 0 _ { 2 } )$ (IEA,2014). Per capita, ${ \\mathsf { C O } } _ { 2 }$ emissions of each of these G20 nations (2013) range from the highest in Saudi Arabia $( \\sim 1 7 . 2$ tCO2/year/person） to the lowest in the high ‘national emission country'India ( $1 . 8 ~ \\mathrm { t C O } _ { 2 } /$ year/person) (GCP,2013;PRB, 2013).Not surprisingly， this has resulted in a debate between high (e.g. the US,Saudi Arabia and Australia) and low (such as China and India) per capita ${ \\mathsf { C O } } _ { 2 }$ emitters,all of whom are seeking to limit their emission liabilities.Hydrogen as stored chemical energy offers the potential to provide the required per capita energy demand without the ${ \\mathsf { C O } } _ { 2 }$ emissions associated with carbon-based fuels.It also offers significant advantages in terms of the development of global distributed systems and networks, as it can be produced using a broad range of technologies making it an important energy currency.However,significant challenges remain.Some of the greatest include market penetration given the dominance of fossil fuels,the high cost of replacing existing carbon-based fuel infrastructure and the technical difficulty of capturing，storing，purifying and compressing ${ \\sf H } _ { 2 }$ (Bimbo et al., 2013；Hruzewicz-Kotodziejczyk et al.,2012). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In terms of the photosynthetic ${ \\sf H } _ { 2 }$ production component of thisinfrastructure，considerable lessons can be learnt from demonstration scale systems for nearer market volatile fuels,for example ethanol，which are reportedly close to commercial production using cyanobacteria for less than $\\$ 2$ per gallon (Perkins,2o14). Insights can be gained in terms of capital costs and their potential reduction,strategies to optimize light delivery, as well as methods to capture volatile products as part of a strategy to minimize feedback inhibition. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In terms of ${ \\sf H } _ { 2 }$ storage and distribution systems,there is as yet no global infrastructure enabling the use of $H _ { 2 }$ asa‘drop-in'fuel. Nevertheless, ${ \\sf H } _ { 2 }$ is widely used in industry and this provides a solid knowledge base to build on (Ramachandran and Menon, 1998).Additionally，during the early stages of deployment, storage and distribution are not critical for the productive use of ${ \\sf H } _ { 2 } ,$ as ${ \\sf H } _ { 2 }$ can be used to reduce ${ \\mathsf { C O } } _ { 2 }$ to yield a range of ${ \\mathsf { C O } } _ { 2 }$ neutral carbon-based drop-in fuels (Centi and Perathoner,2009; Wang et al.，2011) compatible with existing storage and distribution systems.Notably,forecasts indicate that by 2025, ${ \\sf H } _ { 2 }$ may contribute $8 { - } 1 0 \\%$ to the energy market (Gupta et al.,2013), which provides a development driver for ${ \\sf H } _ { 2 }$ production,storage, distribution and conversion technologies,and these are actively beingdeveloped and deployed internationally (seebelow). Policies such as tax incentives are also gradually being established (FCHEA，2014)．Consequently，an international movement is beginning to connect solar ${ \\sf H } _ { 2 }$ -producing technologieswith advancements in storage,distribution and fuel cell technologies. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a400 Hydrogenbudget uesed Hydrogen $^ +$ energy   \n200   \n150   \n100   \n50   \nPpmrjii 0 1s1aji P   \n（prshorn Jngged 2 Hydrogen $^ +$ production (+Renewable) (d) Hydrogen $^ +$ storage   \n1614121086420 = 4 85 puesou ge   \n87 201   \nPi 1   \n(e) Hydrogen $^ +$ fuelcell (f) Hydrogen $^ +$ transport   \n9 9   \npusnonged 0 1 pesoee 0 1   \n111 g fet Il ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The patent landscape ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the global ${ \\sf H } _ { 2 }$ patent landscape provides valuable insights fora developing microalgal ${ \\sf H } _ { 2 }$ biotechnology industry,in terms of both challenges and opportunities.National expenditure levels on $H _ { 2 }$ technologies by the G20 nations are shown in Figure 2a,with Japan,the US and the EU supporting the largest number of developments.Current patent submissions in the G20 countries in the areas of ${ \\sf H } _ { 2 }$ energy (Figure 2b)and ${ \\sf H } _ { 2 }$ production (Figure 2c)，as well as renewable ${ \\sf H } _ { 2 }$ production (Figure 1c) absolutepatentnumbersgivenabovebar)， ${ \\sf H } _ { 2 }$ storage (Figure2d), ${ \\sf H } _ { 2 }$ fuel cells (Figure 2e)and ${ \\sf H } _ { 2 }$ -driven transport (Figure 2f)， highlight the advancesin thedelivery of these components of a future ${ \\sf H } _ { 2 }$ economy. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The majority of patents related to ${ \\sf H } _ { 2 }$ as a renewable energy source were filed in the US and China (Figure 2c;87 and 85 patents,respectively),countries which are among the highest national ${ \\mathsf { C O } } _ { 2 }$ emitters.Japan reported the highest ${ \\sf H } _ { 2 }$ fuel cell patent submissions (Figure 2e),consistent with its stated aim of transitioning to a ${ \\sf H } _ { 2 }$ fuel future (GoJ,2014).These international patenting patterns may be an indicator of early technology adopter hotspots and highlight the potential of developing renewable ${ \\sf H } _ { 2 }$ production platforms to supply emerging global $H _ { 2 }$ markets and distribution networks. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Solar-driven microalgal ${ \\sf H } _ { 2 }$ production is both a promising and challenging biotechnology,and will likely play an important role inthe global drive to reduce GHG emissions.Advancesin molecular engineering,TEA/LCA and pilot scale test facilities and predictive design are providing critical tools for the development of the solar fuel systems required to tap into the huge solar resource available to us and which could be used to drive a sustainable energy economy.Using these tools to develop 'deployment ready'microalgae orartificial solar fuel systems in the next 10 years is of critical importance for climate stabilization, but this can only be achieved within a framework of political leadership which will enable up to $70 \\%$ emission reductions within the next 10-20 year time window. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Wegratefully acknowledge the funding of the Australian Research Council via grants DP110101699 and DP150100740 and Go8Australia via grant'Protein engineering to increase lightto-hydrogen production in algae'.We have no known conflict of interest to disclose in regard to the presented work. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Antal,T.K.,Volgusheva,A.A., Kukarskih,G.P., Krendeleva,T.E.and Rubin,A.B. (2009）Relationships between $H _ { 2 }$ photoproduction and different electron transport pathways in sulfur-deprived Chlamydomonas reinhardtii. Int.J. Hydrogen Energy,34,9087-9094.   \nAREVA (2013) Renewable energies:AREVA inauguratesan energy storage platform in Corsica.http://www.areva.com/EN/news-9153/renewable-energiesareva-inaugurates-an-energy-storage-platform-in-corsica.html (accessed 29 October 2015). Baltz,A.， Kieu-Van,D.， Beyly，A.，Auroy,P.，Richaud,P.,Cournac,L.and Peltier,G.(2014) Plastidial expression of type Il NAD(P)H dehydrogenase increasesthereducingstateofplastoquinonesandhydrogen photoproduction rate by the indirect pathway in Chlamydomonas reinhardti.Plant Physiol.165,1344-1352.   \nBandyopadhyay,A.,Stockel,J.,Min,H.,Sherman,L.A.and Pakrasi, H.B.(2010) High rates of photobiological $H _ { 2 }$ production by a cyanobacterium under aerobic conditions. Nat. Commun.1,139.   \nBeckmann,J., Lehr,F.,Finazzi,G.,Hankamer,B.,，Posten,C.,Wobbe,L.and Kruse，O.(2oo9) Improvement of light to biomass conversion by deregulation of light-harvesting protein translationinChlamydomonas reinhardtii.J. Biotechnol.142,70-77.   \nBencina，M.(2013) Illumination of the spatial order of intracelular pH by genetically encoded pH-sensitive sensors.Sensors (Basel，Switzerland)，13, 16736-16758.   \nBerggren,G.,Adamska,A.,Lambertz, C.,Simmons,T.R.,Esselborn,J.Atta, M., Gambarelli, S.et al. (2013) Biomimetic assembly and activation of [FeFe]- hydrogenases.Nature,499,66-69.   \nBimbo,N.,Ting,V.P.,Sharpe, J.E.and Mays,T.J.(2013)Analysis of optimal conditions for adsorptive hydrogen storage in microporous solids.Col/oids Surf. A 437,113-119.   \nBlankenship，R.E.and Chen，M. (2013） Spectral expansion and antenna reduction can enhance photosynthesis for energy production.Cur. Opin. Chem. Biol.17,457-461.   \nBlankenship,R.E.,Tiede,D.M.,Barber,J., Brudvig,G.W.,Fleming,G.,Ghirardi, M., Gunner, M.R.et al. (2011) Comparing photosynthetic and photovoltaic eficiencies and recognizing the potential for improvement. Science，332, 805-809.   \nBonke,S.A., Wiechen,M.,MacFarlane,D.R.and Spiccia,L.(2015) Renewable fuelsfromconcentrated solarpower:towardspracticalartificial photosynthesis. Energ Environ. Sci.8,2791-2796.   \nBP(2011）Statistical Review of WorldEnergy 2011．htp://www.bp. com/sectionbodycopy.do?categoryld=7500&contentld=7068481 (accessed 29 October 2015).   \nBP(2013)StatisticalReviewofWorldEnergy2013.http:/www.bp. com/content/dam/bp/pdf/statistical-review/ statistical_review_of_world_energy_2013.pdf (accessed 29 October 2015).   \nBrimblecombe,R.， Koo,A.，Dismukes,G.C.，Swiegers，G.F.and Spiccia,L. (2010) Solar driven water oxidation by a bioinspired manganese molecular catalyst.J.Am. Chem.Soc.132,2892-2894.   \nBurges, S.J.,Tamburic,B.,Zemichael,F.,Hellgardt,K.and Nixon,P.J.(2011) Solar-driven hydrogen production in green algae. In Advances in Applied MicrobiologyVol.75(askin,A.l.ariaslani,S.andGaddG.ds). 71-110. Academic Press: Waltham, USA.   \nCenti,G.and Perathoner,S. (20o9) Opportunities and prospects in the chemical recycling of carbon dioxide to fuels. Catal. Today,148,191-205.   \nChandrasekhar,K.,Lee,Y.-J.and Lee,D.-W.(2015) Biohydrogen production: strategies to improve process efficiency through microbial routes.Int.J. Mol. Sci. 16, 8266.   \nChen,M.and Blankenship,R.E.(2011) Expanding the solar spectrum used by photosynthesis.Trends Plant Sci.16,427-431.   \nChen,H.C., Newton,A.J.and Melis,A.(2005) Role of SulP,a nuclear-encoded chloroplast sulfate permease，in sulfate transport and $H _ { 2 }$ evolutionin Chlamydomonas reinhardtii.Photosynth. Res.84,289-296.   \nChien,L.-F.，Kuo,T.-T.,Liu,B.-H.，Lin,H.-D.，Feng,T.-Y.and Huang，C.-C. (2012) Solar-to-bioHz production enhanced by homologous overexpression of hydrogenase in green alga Chlorell sp.DT.Int.J.Hydrogen Energy,37, 17738-17748.   \nCho，S.W.，Kim，S.，Kim，J.M.and Kim，J.-S.(2013)Targeted genome engineering in human cels with the Cas9 RNA-guided endonuclease.Nat. Biotech. 31, 230-232.   \nChochois,V., Dauville,D., Beyly,A.,Tolleter,D., Cuine,S., Timpano,H.,Ball, S.et al. (2009) Hydrogen production in Chlamydomonas: photosystem Ildependent and -independent pathways differ in their requirement for starch metabolism.Plant Physiol.151,631-640.   \nCIA Central Intelligence Agency. (2014) CIA World Factbook 2015. New York, NY: Skyhorse Publishing.   \nCohen,I.，Knopf,J.A.,Irihimovitch,V.and Shapira,M.(2005)A proposed mechanism for the inhibitory effects of oxidative stress on rubisco assembly and its subunit expression. Plant Physiol.137,738-746.   \nCong,L.，Ran,F.A.,Cox,D.,Lin,S., Baretto,R., Habib,N., Hsu,P.D.et al. (2013)Multiplex genome engineering using CRISPR/Cas systems.Science, 339,819-823.   \nD'Adamo,S.,Jinkerson,R.E.,Boyd,E.S.,Brown,S.L.,Baxter,B.K.,Peters,J.W. and Posewitz,M.C.(2014) Evolutionary and biotechnological implications of robust hydrogenase activity in halophilic strains of Tetraselmis.PLoS ONE,9, e85812.   \nDarras,C.,Museli,M.,Poggi,P.,Voyant,C., Hoguet,J.C.and Montignac,F. (2012）PV output power fluctuations smoothing:The MYRTE platform experience.Int.J.Hydrogen Energy,37,14015-14025.   \nDas,D.，Khanna，N.and Dasgupta，C.N.(2014) Biohydrogen Production: Fundamentals and Technology Advances. Boca Raton, USA:CRC Press.   \nDe Riso,V.,Raniello,R., Maumus,F.,Rogato,A.,Bowler,C.and Falciatore,A. (2009)Gene silencing in the marine diatom Phaeodactylum tricornutum. Nucleic Acids Res.37, e96.   \nDebuchy，R.,Purton,S.and Rochaix,J.D.(1989) The argininosucinate lyase geneof Chlamydomonas reinhardtii:an important tool fornuclear transformation and for correlating the genetic and molecular maps of the ARG7 locus.EMBO J.8,2803-2809.   \nDemaurex，N.(2002） pHhomeostasisof celularorganeles.Physiology，17, 1-5.   \nDementin,S.,Leroux,F.,Cournac,L.,de lacey,A.L.,Volbeda,A.,Leger,C., Burlat,B.et al. (2oo9) Introduction of methionines in the gas channel makes NiFe hydrogenase aero-tolerant.J.Am.Chem.Soc.131，10156- 10164.   \nD'Erico,F.and Screnci,A. (2012)High-capacityhydrogen-based green-energy storage solutions for the grid balancing.In Magnesium Technology 2012 (S. N., Mathaudhu, W. H.,Sillekens, N. R.,Neelameggham and N., Hort eds), pp.483-488.Hoboken: John Wiley & Sons, Inc.   \nOECD (2014) The Organisation for Economic Co-operation and Development OECDEnvironmentalOutlookto2050.http://www.oecd.org/env/ indicators-modeling-outlooks/oecdenvironmentaloutlookto2050theconsequence sofinaction.htm (accessed 08.12.2015).   \nDittami，S.M.，Michel，G.，Collen，J.，Boyen，C．and Tonon，T.(2010) Chlorophyll-bindingproteins revisited-a multigenic familyof lightharvesting and stress proteins from a brown algal perspective.BMC Evol. Biol. 10, 365.   \nDittrick,P.and Izundu,U.(2008) OTC speakers highlight offshore industry's future. Oil Gas J.106,20.   \nDoebbe，A.，Rupprecht,J.，Beckmann，J.，Mussgnug，J.H.，Hallmann，A. Hankamer，B.and Kruse,O.(2oo7） Functional integration of the HUP1 hexose symporter gene into the genome of C.reinhardtii:impacts on biological $H _ { 2 }$ production.J. Biotechnol.131,27-33.   \nDunahay，T.G.(1993) Transformation of Chlamydomonas reinhardti with silicon carbide whiskers.Biotechniques,15,452-455,457-458,460.   \nDutta，D.，De,D.，Chaudhuri，S.and Bhattacharya，S.K.(2005）Hydrogen production by cyanobacteria.Microb. Cell Fact.4,36-36.   \nENGIEThe GRHYD demonstration project.http:/www.gdfsuez.com/en/ innovation-energy-transition/smart-energy-managementpower-to-gas/the-grhyddemonstration-project/ (accessed 29 October 2015).   \nEroglu,E.and Melis,A. (2011) Photobiological hydrogen production: recent advances and state of the art. Bioresour.Technol.102,8403-8413.   \nEsselborn,J.,Lambertz, C.,Adamska-Venkatesh,A., Simmons,T., Berggren,G.. Noth，J.，Siebel，J.et al.(2013）Spontaneousactivation of [FeFe]- hydrogenases by an inorganic [2Fe] active site mimic. Nat. Chem. Biol.9, 607-609.   \nFAO Food and Agriculture Organization of the United Nations (2009) How to Feed the World2050.http://www.fao.org/fileadmin/templates/wsfs/docs/ expert_paper/How_to_Feed_the_World_in_2050.pdf (accessed 08.12.2015).   \nFarid,T.A.,Kodali，G.,Solomon,L.A.,Lichtenstein,B.R.,Sheehan,M.M.,Fry, B.A.,Bialas, C.et al. (2013) Elementary tetrahelical protein design for diverse oxidoreductase functions. Nat. Chem. Biol.9,826-833.   \nFauser,F., Schiml, S.and Puchta,H. (2014) Both CRISPR/Cas-based nucleases and nickases can be used eficiently for genome engineering in Arabidopsis thaliana.Plant J.79,348-359.   \nFCHEA Fuel Cell and Hydrogen Energy Association (2014) International Developments.http://ftp.fchea.org/index.php?id=25 (accessed 29 October 2015).   \nreliy,∠.,∠Ialy (dl.(∠UI)) Efficient genome editing in plants using a CRISPR/Cas system.Cel Res.23, 1229-1232.   \nFlynn,T.,Ghirardi,M.L.and Seibert,M.(20O2) Accumulation of $\\mathsf { O } _ { 2 }$ -tolerant phenotypes in ${ \\sf H } _ { 2 }$ -producing strainsof Chlamydomonas reinhardtii by sequential applications of chemical mutagenesis and selection. Int.J. Hydrogen Energy,27,1421-1430.   \nFouchard,S.mhemeier，A.raaAuvst,K.grnd, T.，Peltier，G．etal.(20o5）Autotrophic and mixotrophic hydrogen photoproduction in sulfur-deprived Chlamydomonas cells.Appl. Environ. Microbiol. 71,6199-6205.   \nFranz,A.,Lehr,F.， Posten,C.and Schaub,G.(2012) Modeling microalgae cultivation productivities in different geographic locations- estimation method for idealized photobioreactors. Biotechnol.J.7,546-557.   \nG7 Group of 7 (2015) Leaders' Declaration G7 Summit - Think Ahead.Act Together.   \nGao,H.,Wright, D.A.,Li,T.,Wang,Y., Horken,K.,Weeks,D.P.and Yang,B. (2014) TALE activation of endogenous genes in Chlamydomonas reinhardtii. Algal Res.1,52-60.   \nGCPGlobal CarbonProject(2013) Global Carbon Atlas.http:// www.globalcarbonatlas.org/?q=en/emissions (accessed 29 October 2015).   \nGhirardi, M.L.,Togasaki,R.K.and Seibert, M.(1997)Oxygen sensitivityof algal ${ \\sf H } _ { 2 }$ -production.Appl. Biochem. Biotechnol.63-5,141-151.   \nGodaux,D.,Emoncls-Alt,B.,Berne,N.,Ghysels,B.,Alric,J.，Remacle,C.and Cardol，P.(2013）A novel screening method for hydrogenase-deficient mutantsin Chlamydomonasreinhardtiibased oninvivo chlorophyll fluorescence and photosystem Il quantum yield.Int.J.Hydrogen Energy 38,1826-1836.   \nGoJ Government of Japan (2O14) The 4th Strategic Energy Plan of Japan - Provisional Translation.   \nGupta,S.K.，Kumari, S.，Reddy,K.and Bux,F.(2013) Trends in biohydrogen production:major challnges and state-of-the-art developments. Environ. Technol.34,1653-1670.   \nHajdukiewicz,P.T.J.，Gilbertson,L.and Staub,J.M.(2001) Multiple pathways for Cre/lox-mediated recombination in plastids.Plant J.27,161-170.   \nHall,C.A.S., Balogh,S.and Murphy, D.J.R.(2009)What is the minimum EROI that a sustainable society must have? Energies,2,25-47.   \nHallenbeck,P.C.and Benemann,J.R.(2002) Biological hydrogen production; fundamentals and limiting processes.Int.J. Hydrogen Energy 27,1185-1193.   \nHay，J.X.W.，Wu,T.Y.，Juan，J.C.and Md.Jahim,J.(2013） Biohydrogen production through photo fermentation or dark fermentation using waste as a substrate: Overview,economics,and future prospects of hydrogen usage. Biofuels Bioprod. Bior7,334-352.   \nHeidrich,E.S.,Edwards,S.R.,Dolfing,J.,Cotterill,S..and Curtis,T.P. (2014) Performance of a pilot scale microbial electrolysis cell fed on domestic wastewater at ambient temperatures for a 12 month period. Bioresour. Technol. 173,87-95.   \nHemschemeier,A.and Happe,T.(2011)Alternative photosynthetic electron transport pathways during anaerobiosis in the green alga Chlamydomonas reinhardti.Biochim. Biophys.Acta,1807,919-926.   \nHruzewicz-Kotodziejczyk，A.，Ting，V.P.，Bimbo，N.and Mays，T.J.(2012) Improving comparability of hydrogen storage capacities of nanoporous materials.Int.J.Hydrogen Energy,37,2728-2736.   \nHwang，W.Y.，Fu,Y.，Reyon，D.，Maeder，M.L.，Tsai，S.Q.，Sander，J.D., Peterson，R.T.et al. (2013) Eficient genome editing in zebrafish using a CRISPR-Cas system.Nat. Biotech.31,227-229.   \nHwang,J.-H.，Kim,H.-C.,Choi,J.-A.,Abou-Shanab,R.A.I.，Dempsey，B.A., Regan,J.M.,Kim,JR.etal. (2014) Photoautotrophic hydrogen production by eukaryotic microalgae under aerobic conditions.Nat. Commun.5,3234.   \nHyUnder (2012) HyUnder Project.htp://www.hyunder.eu/ (accessed 29 October 2015).   \nIEA International Energy Agency (2009)World Energy Outlook 2009.http:// www.iea.org/weo/2009.asp (accessed 29 Otober 2015).   \nIEA International Energy Agency (2010) World Energy Outlook 2010.http:/ Www.worldenergyoutlook.org/publications/weo-2010/ (accessed 29 October 2015).   \nIEA International Energy Agency (2014)World Energy Outlook 2014.http:/ www.worldenergyoutlook.org/weo2014/(accessed 08.12.2015)   \nINGRID INGRID Project.http://www.ingridproject.eu/ (accessed 29 October 2015).   \nJiang,W.，Brueggeman,A.J., Horken, K.M.,，Plucinak,T.M.and Weeks,D.P. (2014)Successful transient expression of Cas9 and single guide RNA genes in Chlamydomonas reinhardtii.Eukaryot. Cell,13,1465-1469.   \nJones,R.J.,Massanet-Nicolau,J.,Guwy,A.,Premier,G.C., Dinsdale,R.M.and Reilly,M.(2015) Removal and recovery of inhibitory volatile fatty acids from mixed acid fermentations by conventional electrodialysis. Bioresour.Technol. 189,279-284.   \nKalamaras，C.M.and Efstathiou，A.M.(2013) Hydrogen production technologies: Current state and future developments.Conf.Pap.Energy, 2013, 9.   \nKapdan，I.K．and Kargi，F.(2006) Bio-hydrogen production from waste materials.Enzyme Microb.Technol.38,569-582.   \nKarthic,P.and Joseph,S.(2012) Comparison and limitations of biohydrogen production Processes. Res J. Biotechnol.7,59-71.   \nKindle,K.L.(199o) High-frequency nuclear transformation of Chlamydomonas reinhardti.Proc. Natl Acad.Sci. USA,87,1228-1232.   \nKindle，K.L, Schnell，R.A.，Fernandez,E.and Lefebvre，P.A.（1989)Stable nuclear transformation of Chlamydomonas using the Chlamydomonas gene for nitrate reductase.J. Cell Biol.109,2589-2601.   \nKosOurov,S.，Makarova，V.，Fedorov,A.S.，Tsygankov,A.，Seibert，M.and Ghirardi,M.L. (2oo5) The effect of sulfur re-addition on ${ \\sf H } _ { 2 }$ photoproduction by sulfur-deprived green algae.Photosynth. Res.85,295-305.   \nKruse,O., Rupprecht,J., Bader, K.P.,Thomas-Hall,S., Schenk, P.M., Finazzi,G. and Hankamer，B.(2005a) Improved photobiological ${ \\sf H } _ { 2 }$ production in engineered green algal cels.J. Biol. Chem.280,34170-34177.   \nKruse,O.，Rupprecht, J.，Mussgnug,J.H.,Dismukes,G.C.and Hankamer,B. (2005b)Photosynthesis:a blueprint for solar energy capture and biohydrogen production technologies. Photochem. Photobiol. Sci.4, 957-970.   \nKumar,K.and Das,D. (2013) ${ \\mathsf { C O } } _ { 2 }$ sequestration and hydrogen production using cyanobacteria and green algae.In Natural and Artificial Photosynthesis (Reza,R.,ed.),pp.173-215.Hoboken: John Wiley & Sons Inc.   \nKumar，S.V.,Misquita,R.W.,Reddy,V.S.,Rao,B.J.and Rajam,M.V.(2004) Genetic transformation of the green alga - Chlamydomonas reinhardti by Agrobacterium tumefaciens. Plant Sci.166,731-738.   \nLakatos,G., Deak,Z., Vass,I.,Retfalvi,T., Rozgonyi, S.,Rakhely, G., Ordog,V. et al.(2014) Bacterial symbionts enhance photo-fermentative hydrogen evolution of Chlamydomonas algae. Green Chem.16,4716-4727.   \nLaurinavichene,T.V., Fedorov,A.S., Ghirardi, M.L., Seibert,M.and Tsygankov, A.A.(2006） Demonstration of sustained hydrogen photoproduction by immobilized，sulfur-deprived Chlamydomonasreinhardtiicells. Int.J. Hydrogen Energy,31,659-667.   \nLee，J.(2O13) Designer transgenic algae for photobiological production of hydrogen from water.InAdvanced Biofuels and Bioproducts (Lee,J.W.,ed.), pp.371-404. New York: Springer US.   \nLee,J.W.and Greenbaum,E. (2oo3)A new oxygen sensitivity and its potential application in photosynthetic Hz production.Appl. Biochem. Biotechnol.105, 303-313.   \nLong,H., King,P.W.,Ghirardi, M.L.and Kim,K.(2009) Hydrogenase/Ferredoxin charge-transfer complexes: Effect of hydrogenase mutations on the complex association.J.Phys.Chem.A 113,4060-4067.   \nLubitz，W.，Ogata，H.，Ruediger，O.and Reijerse，E.(2014) Hydrogenases. Chem. Rev.114,4081-4148.   \nLubner,C.,Applegate,A.M., Knorzer,P.,Ganago,A., Bryant,D.A., Happe,T. andGolbeck， J.H.(2011） Solarhydrogen-producingbionanodevice Outperforms natural photosynthesis. Proc.Natl Acad.Sci. USA，108, 20988-20991.   \nMakarova,V.V.,Kosourov,S.,Krendeleva,T.E.,Semin,B.K.,Kukarskikh,G.P., Rubin,A.B.,Sayre,R.T.et al. (2oo7) Photoproduction of hydrogen by sulfurdeprived C.reinhardtii mutants with impaired photosystem Il photochemical activity.Photosynth.Res.94,79-89.   \nMali,P.,Yang,L.,Esvelt,K.M.,Aach,J.,Guell，M.,DiCarlo,J.E.,Norvile,J.E. et al.(2013) RNA-guided human genome engineering via Cas9. Science, 339, 823-826.   \nMancini,J.A,KodaliG.Solomon,L.A.,Roach,N.,Anderson,J.L.R.sipva, T.V.Vinogradov,S.A.et al. (2013) Light harvesting and light activatable protein maquettes designed from scratch. Biophys.J.104,531a-531a.   \nMathews，J.and Wang，G.(ZUuy) Metabolic patnway engineering tor enhanced biohydrogen production.Int.J. Hydrogen Energy 34,7404-7416.   \nMayfield，S.P.andKindle，K.L.(199O) Stable nuclear transformation of Chlamydomonas reinhardtii by using a C.reinhardtii gene as the selectable marker.Proc.Natl Acad.Sci.USA,87,2087-2091.   \nMelis，A.(2oo9) Solar energy conversion efficiencies in photosynthesis: minimizing the chlorophyll antennae to maximize efficiency.Plant Sci. 177, 272-280.   \nMelis,A.and Happe,T.(20o01) Hydrogen production.Green algae as a source of energy.Plant Physiol. 127,740-748.   \nMelis,A.,Neidhardt,J.and Benemann,J.(1999) Dunaliell salina (Chlorophyta) withsmallchlorophyll antenna sizesexhibit higherphotosynthetic productivities and photon use eficiencies than normall pigmented cells.J. Appl.Phycol.10,515-525.   \nMelis，A.，Zhang,L.P.，Forestier，M.，Ghirardi,M.L.and Seibert,M.(2000) Sustainedphotobiological hydrogengasproductionuponreversible inactivation of oxygenevolution inthegreenalga Chlamydomonas reinhardtiiPlant Physiol.122,127-135.   \nMelnicki, M.R.,Pinchuk,G.E.,Hill,E.A., Kucek,L.A.,Fredrickson,J.K., Konopka, A.and Beliaev,A.S.(2012) Sustained H2 production driven by photosynthetic Water splitting in a unicellular cyanobacterium.mBio,3,eOo197-00112.   \nMoellering,E.R.and Benning,C.(2010) RNA interference silencing of a major lipid droplet protein affects lipid droplet size in Chlamydomonas reinhardtii. Eukaryot. Cell,9,97-106.   \nMolnar,A.,Schwach,F., Studholme,D.J.,Thuenemann,E.C.and Baulcombe, D.C.(2007）miRNAs control gene expression in the single-cell alga Chlamydomonas reinhardtii.Nature,447,1126-U1115.   \nMolnar,A.,Bassett,A.,Thuenemann,E., Schwach,F., Karkare,S., Ossowski,S., Weigel,D.et al.(2oo9) Highly specific gene silencing by artificial microRNAs in the unicellularalga Chlamydomonas reinhardtii.Plant J.58,165-174.   \nde Mooij，T.，Janssen，M.，Cerezo-Chinarro，O.，Mussgnug，J.,，Kruse，O., Ballottari,M., Bassi,R.et al. (2015)Antenna size reduction as a strategy to increase biomass productivity:a great potential not yet realized.J.Appl. Phycol. 27, 1063-1077.   \nMussgnug，J.H.，Thomas-Hall，S.R.，Rupprecht，J.，Foo，A.，Klassen，V., McDowall,A.，Schenk,P.M.et al.(20o7) Engineering photosynthetic light capture:Impacts on improved solar energy to biomass conversion.Plant Biotechnol.J.5,802-814.   \nNatali,A.and Croce，R.(2015)Characterizationof the majorlight-harvesting complexes (LHCBM) of the green alga Chlamydomonas reinhardtii.PLoS ONE, 10,e0119211.   \nNield,J.，Redding，K.andHipper，M.(2004)Remodelingoflight-arvesting protein complexes in Chlamydomonas in response to environmental changes. Eukaryot.Cell3,1370-1380.   \nNiyogi，K.K.(1999) Photoprotection revisited:Genetic and molecular approaches.Annu Rev. Plant Phys.50,333-359.   \nOey,M.,Lohse,M.,Scharf,L.B.,Kreikemeyer,B.and Bock,R.(20o9) Plastid production of protein antibiotics against pneumonia via a new strategy for high-level expresson of antimicrobial proteins.Proc. Natl Acad.Sci.USA, 106,6579-6584.   \nOey,M.,Ro,I.L.,Stephens,E.,Steinbeck,J.,Wolf,J.,Radzun,K.A.,Kugler,J. et al.(2013) RNAi knock-down ofLHCBM1，2 and3 increases photosynthetic $H _ { 2 }$ production efficiency of the green alga Chlamydomonas reinhardtii.PLoS ONE,8,e61375.   \nOncel,S.S.,Kose,A.and Faraloni, C. (2015) Chapter 25- Genetic optimization of microalgae for biohydrogen production. In Handbook of Marine Microalgae (Kim,S.-K.,ed.),pp.383-404.Boston: Academic Press.   \nPark,A.,Won,S.T.,Pentecost,M., Bartkowski, W.and Lee,B. (2014) CRISPR/ Cas9 allows efficient and complete knock-in of a destabilization domaintagged essential protein in a human celline,allowing rapid knock-down of protein function. PLoS ONE,9,e95101.   \nPascal,A.A.,Liu,Z., Broess,K.,van Oort,B.,van Amerongen,H., Wang,C., Horton,P.et al. (2oo5) Molecular basis of photoprotection and control of photosynthetic light-harvesting.Nature,436,134-137.   \nPerkins,J. (2014) Going commercial.BioFuels J.12, 60-61.   \nPilon，L.and Halil，B.l.(2014）Photobiological hydrogen production.In Handbook of Hydrogen Energy (Sherif,S.A.,Yogi Goswami,D.,Stefanakos, E.K.(Lee). Steinfeld.A.eds).nn.369-418.Boca Raton: CRC Press.   \nPinto,I.S., Malcata,F.X.,Arrabaca,J.D.,Silva,J.M.,Spreitzer, K.J.and Esquivel, M.G.(2013) Rubisco mutants of Chlamydomonas reinhardtii enhance photosynthetic hydrogenproduction.Appl.Microbiol. Biotechnol.97, 5635-5643.   \nPoggi，P.，Darras,C.，Muselli，M.and Pigelet,G.(2014) The PV-hydrogen MYRTE platform - PV output power fluctuations smoothing. Energy Procedia 57, 607-616.   \nPolle,J.E.W.,Kanakagiri, S.,Jin,E.,Masuda,T.and Melis,A.(2OO2) Truncated chlorophyll antenna size of the photosystems - a practical method to improve microalgal productivity and hydrogen production in mass culture.Int.J. Hydrogen Energy,27,1257-1264.   \nPole,J.E.W.，Kanakagiri，S.D.and Melis,A.(2003) Tla1,a DNA insertional transformant of the green alga Chlamydomonas reinhardtii with a truncated light-harvesting chlorophyllantenna size.Planta,217,49-59.   \nPosten,C.and Walter，C.(2012)Microalgal Biotechnology: Integration and Economy.Walter de Gruyter: Berlin.   \nPRB Population Reference Bureau (2013) 2013 World Population Data Sheet. http://www.prb.org/pdf13/2013-population-data-sheet_eng.pdf(accessed 29 October 2015).   \nPulz,O．and Gross，W.(2oo4)Valuable products from biotechnology of microalgae.Appl. Microbiol. Biotechnol.65,635-648.   \nQin,X.,Suga,M.,Kuang,T.and Shen,J.-R.(2O15) Structural basis for energy transfer pathways in the plant PSl-LHCl supercomplex.Science,348,989- 995.   \nRamachandran,R.and Menon,R.K.(1998)An overview of industrial uses of hydrogen.Int.J. Hydrogen Energy 23,593-598.   \nRashid，N.，Lee，K．and Mahmood,Q.(2011） Bio-hydrogen production by Chlorella vulgaris under diverse photoperiods.Bioresour.Technol.102,2101- 2104.   \nRathore,D.and Singh,A.(2013) Biohydrogen production from microalgae.In Biofuel Technologies- Recent Developments (Gupta,V.K.and Tuohy,M.G., eds),pp.317-333.Berlin: Springer,Berlin Heidelberg.   \nReifschneider-Wegner,K., Kanygin,A.and Redding,K.E.(2014) Expression of the[FeFe] hydrogenase in the chloroplast of Chlamydomonas reinhardtii. Int. J.Hydrogen Energy,39,3657-3665.   \nRobertson,D., Boynton,J.E.and Gillham,N.W.(1990) Cotranscription of the wild-type chloroplast atpE gene encoding the ${ \\mathsf { C F } } _ { 1 } / { \\mathsf { C F } } _ { 0 }$ epsilon subunit with the $3 ^ { \\prime }$ half of the rps7 gene in Chlamydomonas reinhardtii and characterization of frameshift mutations in atpE.Mol. Gen. Genet. 221, 155-163.   \nRohr,J.,Sarkar,N.，Balenger,S.,Jeong,B.-R.and Ceruti, H.(2O04) Tandem inverted repeat system for selection of effective transgenic RNAi strains in Chlamydomonas.Plant J.40,611-621.   \nRuehle,T., Hemschemeier,A.,Melis,A.and Happe,T.(2oo8)A novel screening protocol for the isolation of hydrogen producing Chlamydomonas reinhardti strains.BMC Plant Biol.8,107. Rumpel,S.,Siebel,J.F.,Fares,C.,Duan,J.,Reijerse,E.,Happe,T.,Lubitz,W. et al.(2014) Enhancing hydrogen production of microalgae by redirecting electrons from photosystem Ito hydrogenase.Energ Environ.Sci.73296- 3301.   \nSchmollinger,S.，Strenkert,D.and Schroda,M.(2010)An inducible artificial microRNA system for Chlamydomonas reinhardtii confirms a key role for heat shock factor 1in regulating thermotolerance. Curr. Genet. 56,383- 389.   \nSchonfeld, C.,Wobbe,L., Borgstädt,R., Kienast,A., Nixon,P.J.and Kruse,O. (2004)The nucleus-encoded protein MOC1 is essentialfor mitochondriallight acclimation in Chlamydomonas reinhardti.J.Biol. Chem.279,50366-50374.   \nSchulz,R.,Schnackenberg,J., Stangier,K.,Wünschiers, R., Zinn,T.and Senger, H.(1998) Light-dependent hydrogen production of the green alga Scenedesmusobliquus.InBioHydrogen (Zaborsky，O.， Benemann，J., Matsunaga,T.，Miyake,J.and San Pietro，A.，eds)，pp.243-251.New York: Springer US.   \nScoma,A., Krawietz,D.,Faraloni, C.,Gianneli,L.,Happe,T.and Torzillo,G. (2012) Sustained $H _ { 2 }$ production in a Chlamydomonas reinhardtii D1 protein mutant.J. Biotechnol.157,613-619.   \nSeibert，M.，Flynn，T.，Benson，D.，Tracy，E.and Ghirardi，M.(1998) Development of selection and screening procedures for rapid identification (Zaborsky,O.R.,ed.),pp.227-234. New York: Springer US.   \nShimogawara，K.，Fujiwara，S.，Grossman，A.and Usuda,H.(1998)Higheficiency transformation of Chlamydomonas reinhardtiiby electroporation. Genetics,148,1821-1828.   \nSizova,I.,Greiner，A.，Awasthi,M.，Kateriya,S.and Hegemann,P.(2013) Nuclear gene targeting in Chlamydomonas using engineered zinc-finger nucleases.Plant J.73,873-882.   \nSlegers，P.M. (2014) Scenario Studies for Algae Production.Wageningen: Wageningen University.   \nSlegers，P.M.，Wijffels,R.H.，van Straten,G.and van Boxtel,A.J.B.(2011)   \nDesign scenariosforflatpanel photobioreactors.Appl.Energy，883342 3353.   \nSmil,V.(2Oo8) Energy in Nature and Society:General Energeticsof Complex Systems,pp.480.Cambridge,MA: MIT Press.   \nStapleton,J.A.and Swartz，J.R.(2010） Development of an invitro compartmentalization screen for high-throughput directed evolution of FeFe hydrogenases.PLoS ONE,5,e15275.   \nStephens，E.，Ross，I.L.，King，Z.，Mussgnug，J.H.，Kruse，O.，Posten，C., Borowitzka,M.A.et al. (2010a) An economic and technical evaluation of microalgal biofuels.Nat. Biotech.28,126-128.   \nStephens，E.，Ross,I.L.，Mussgnug，J.H.，Wagner，L.D.，Borowitzka，M.A., Posten,C.,Kruse,O.et al. (2010b) Future prospects of microalgal biofuel production systems.Trends Plant Sci.15,554-564.   \nStephens，E.，Wagner,L.，Ross,I.L.and Hankamer，B.(2012） Microalgal production systems- Global impact of industry scale up.In Microalgal Biotechnology: Integration and Economy (Posten,C.and Walter,C.,eds),pp. 267-301. Berlin/Boston:De Gruyter.   \nStiebritz, M.T.and Reiher,M.(2012) Hydrogenases and oxygen. Chem. Sci.3, 1739-1751.   \nStocker,T.F.(2013)The closing doorof climate targets.Science,339,280-282.   \nStripp,S.T.and Happe,T.(2009) How algae produce hydrogen - news from the photosynthetic hydrogenase.Dalton Trans.45,9960-9969.   \nSun,G.，Zhang，X.，Sui,Z.and Mao,Y. (2008) Inhibition of pds gene expression via the RNA interference approachin Dunaliella salina (Chlorophyta).Mar. Biotechnol.10,219-226.   \nSun,Y.，Chen,M.，Yang,H.，Zhang,J.，Kuang,T.and Huang,F.(2013) Enhanced H-2 photoproduction by down-regulation of ferredoxin-NADP $\\left( + \\right)$ reductase (FNR) in the green alga Chlamydomonas reinhardtii. Int.J.   \nHydrogen Energy,38,16029-16037.   \nSurzycki，R.,Cournac,L.,Peltiert,G.and Rochaix,J.-D.(2OO7） Potential for hydrogen production with inducible chloroplast gene expressionin Chlamydomonas.Proc.Natl Acad.Sci. USA,104,17548-17553.   \nTakahashi,H.,Iwai,M.,Takahashi,Y.and Minagawa, J.(2oo6) Identification of the mobile light-harvesting complex Il polypeptides for state transitions inChlamydomonas reinhardtii.Proc.Natl Acad.Sci.USA，103，477- 482.   \nThe Intergovernmental Panel on Climate Change (IPCC) (2OO7) IPCC Fourth Assessment Report (AR4). In.Climate Change 2007:Synthesis Report Contribution of Working Groups I，Il and Ill to the Fourth Assessment   \nReportof the Intergovernmental Panel on Climate Change (Core Writing Team，Pachauri，R.K.and Reisinger，A.eds.)，pp.104.IPCC，Geneva, Switzerland.   \nTokutsu,R.,Kato,N.,Bui,K.H.,Ishikawa,T.and Minagawa,J. (2O12)Revisiting the supramolecular organization of photosystem Il in Chlamydomonas reinhardtii.J.Biol. Chem.287,31574-31581.   \nToleter，D.，Ghysels，B.，Alric,J.，Petroutsos,D.，Tolstygina,I.，Krawietz,D., Happe,T.et al.(2011) Control of hydrogen photoproduction by the proton gradient generated by cyclicelectron flow in Chlamydomonas reinhardti. Plant Cell,23,2619-2630.   \nTorzillo,G.，Scoma,A.,Faraloni, C.,Ena,A.and Johanningmeier,U.(2009) Increased hydrogen photoproduction by means ofa sulfur-deprived Chlamydomonas reinhardtii D1 protein mutant. Int.J.Hydrogen Energy, 34,4529-4536.   \nTsui,E.Y.，Kanady,J.S.and Agapie，T. (2013) Synthetic cluster models of biological and heterogeneous manganese catalysts for $\\mathrm { O } _ { 2 }$ evolution. Inorg. 7h>m  150 10040   \nUSCB United States Census Bureau (2013) Total midyear population for the world:1950-2050.http://www.census.gov/population/international/data/ idb/worldpoptotal.php (accessed 29 October 2015). Volgusheva,A.,Styring, S.and Mamedov,F. (2013) Increased photosystem Il stabilitypromotes ${ \\sf H } _ { 2 }$ production insulfur-deprived Chlamydomonas reinhardtii.Proc.Natl Acad.Sci.USA,110,7223-7228.   \nVolgusheva,A.，Kukarskikh,G.,，Krendeleva,T.，Rubin,A.and Mamedov,F. (2015) Hydrogen photoproduction in green algae Chlamydomonas reinhardti under magnesium deprivation. RSC Adv.5,5633-5637.   \nWang,W.,Wang,S.,Ma, $\\mathsf { X } .$ and Gong, J. (2011) Recent advances in catalytic hydrogenation of carbon dioxide. Chem. Soc. Rev. 40,3703-3727.   \nWang,A.-J.,Cao,G.-L.and Liu,W.-Z. (2012) Biohydrogen production from anaerobic fermentation.In Biotechnology in China Il: Biofuelsand Bioenergy (Bai,F.-W.,Liu,C.-G.,Huang,H.and Tsao,G.T.,eds),pp.143-163.Berlin Heidelberg: Springer.   \nWecker，M.S.A.and Ghirardi，M.L. (2014） High-throughput biosensor discriminatesbetweendifferentalgal ${ \\sf H } _ { 2 }$ -photoproducingstrains. Biotechnol. Bioeng.111, 1332-1340.   \nWeingarten,A.S.,Kazantsev,R.V.,Palmer,L.C.,McClendon,M.,Koltonow,A.R., SamuelAmanda,P.S.，Kiebala,D.J.etal. (2014) Self-assembling hydrogel scaffolds for photocatalytic hydrogen production. Nat. Chem.6,964-970.   \nWinkler，M.，Kawelke，S．and Happe，T.(2011） Light driven hydrogen production in protein based semi-artificial systems. Bioresour. Technol.102, 8493-8500.   \nWittenberg，G.，Sheffler，W.，Darchi，D.，Baker，D.and Noy，D. (2013) Accelerated electron transport from photosystem 丨 to redox partners by covalently linked ferredoxin.Phys. Chem.Chem.Phys.15,19608-19614.   \nWu,S.,Huang,R.,Xu,L.,Yan,G.and Wang,Q. (201O) Improved hydrogen production with expression of hemH and Iba genes in chloroplast of Chlamydomonasreinhardtii.J.Biotechnol.146,120-125.   \nWu，S.，Xu,L.，Huang，R．and Wang，Q.(2011） Improved biohydrogen production with an expression of codon-optimized hemH and Iba genes in thechloroplast of Chlamydomonas reinhardtii.Bioresour.Technol.102, 2610-2616.   \nXie,K.and Yang,Y. (2013) RNA-guided genome editing in plants using a CRISPR-Cas system.Mol. Plant,6,1975-1983.   \nYacoby,I.,Pochekailov,S.,Toporik,H.,Ghirardi, M.L., King,P.W.and Zhang,S. (2011) Photosynthetic electron partitioning between FeFe -hydrogenase and ferredoxin:NADP(+)-oxidoreductase (FNR) enzymes in vitro.Proc. Natl Acad. Sci. USA,108,9396-9401.   \nZhang,R.,Patena,W.,Armbruster, U., Gang,S.S., Blum,S.R.and Jonikas, M.C. (2014) High-throughput genotyping of green algal mutants reveals random distribution of mutagenic insertion sites and endonucleolytic cleavage of transforming DNA.Plant Cel,26,1398-1409.   \nZhang,C.,Chen,C.,Dong,H.,Shen,J.-R.,Dau,H.and Zhao,J.(2015)A syntheticMn4Ca-clustermimickingtheoxygen-evolvingcenterof photosynthesis.Science,348,690-693.   \nZhao,T.,Li,G.,Mi,S.,Li,S.,Hannon,G.J.,Wang,X.-J.and Qi,Y. (2007)A complex system of small RNAs in the unicellular green alga Chlamydomonas reinhardtii. Gene Dev.21,1190-1203.   \nZhao，T.，Wang,W.，Bai,X.and Qi,Y.(2Oo9)Gene silencing by artificial microRNAs in Chlamydomonas.Plant J.58,157-164.   \nZhu,X.-G.,Long,S.P.and Ort, D.R.(2008) What is the maximum efficiency with which photosynthesis can convert solar energy into biomass? Curr. Opin. Biotechnol. 19,153-159.   \nZhu,X.G.,Long,S.P.and Ort, D.R.(2010) Improving photosynthetic efficiency for greater yield.Annu. Rev.Plant Biol.61,235-261. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,371 @@
+[
+    {
+        "type": "text",
+        "text": "基于肖特基二极管的450GHz二次谐波混频器",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵鑫\\*，蒋长宏，张德海，孟进¹²，姚常飞³(1．中国科学院空间科学与应用研究中心中国科学院微波遥感技术重点实验室北京100190;2．中国科学院大学,北京100190;3．南京电子器件研究所 微波毫米波单片集成和模块电路重点实验室 ,江苏 南京210016)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了在亚毫米波波段进行遥感探测研制了 $4 5 0 \\ : \\mathrm { G H z }$ 的二次谐波混频器.混频器的核心部件是一对反向并联的肖特基二极管长度为 $7 4 ~ \\mu \\mathrm { m }$ 截止频率高达 $8 \\ \\mathrm { T H z }$ 在石英基片上搭建悬置微带的匹配电路并采用一分为二的金属腔体.在二极管的仿真中获得二极管管芯的输入阻抗,然后考虑二极管的封装、匹配电路，仿真得到混频器的单边带变频损耗为8.0dB所需本振功率为 $4 \\mathrm { m W }$ 测试表明，本混频器的单边带变频损耗的最佳值为14.0dB，$4 3 3 \\sim 4 5 1 ~ \\mathrm { G H z }$ 之间的损耗小于 $1 7 . 0 ~ \\mathrm { d B } ~ 3 ~ \\mathrm { d B }$ 带宽为 $1 8 ~ \\mathrm { G H z }$ 所需的本振功率为 $5 ~ \\mathrm { m W }$ #",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:谐波混频器；变频损耗；肖特基二极管；石英基片；亚毫米波中图分类号：TN454 文献标识码:A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design of the 450 GHz sub-harmonic mixer based on Schottky diode ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO $\\mathrm { { X i n } ^ { 1 \\ast } }$ ， JIANG Chang-Hong1，ZHANG De-Hai'， Meng $\\operatorname { J i n } ^ { 1 2 }$ ，YAO Chang-Fei³ (1.CAS Key Laboratory of Microwave Remote Sensing,Center for Space Science and Applied Research， Chinese Academy of Sciences,Beijing100190 ,China; 2.University of Chinese Academy of Sciences,Beijing1Oo19O,China; 3.Science and Technology on Monolithic Integrated Circuits and Modules Laboratory， Nanjing Electronic Devices Institute ,Nanjing210o16,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To realize remote sensing at sub-millimeter wavelengths,a $4 5 0 ~ \\mathrm { G H z }$ sub-harmonic mixer was studied.An anti-parallel pair of Schotky diodes is the key component in the mixer.The length of the diodes is $7 4 ~ { \\mu \\mathrm { m } }$ ,and the cutoff frequency of diodes is up to $8 \\ \\mathrm { T H z }$ . The suspended microstrip matching circuit was built on quartz,and the metal block was cut into two halves.The diode embeddng impedance was calculated.The diode package and the matching circuit were integrated in the mixer model.The predicted single side band(SSB）conversion lossis 8.O dB,with $4 { \\mathrm { ~ m } } \\mathrm { W }$ of local oscillator power.Measured results indicate that the lowest measured SSB conversion loss is 14.0 dB， with $5 \\mathrm { m W }$ of local oscillator power.The loss is below $1 7 . 0 { \\mathrm { d B } }$ in the band from $4 3 3 \\sim 4 5 1 ~ \\mathrm { G H z }$ ,with a3dB bandwidth of $1 8 ~ \\mathrm { G H z }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:sub-harmonic mixer,conversion loss,Schottky diode,quartz,sub-millimeter wave PACS: 07.57. Kp ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在大气遥感中，毫米波亚毫米波波段包含有丰富的气象信息.随着气象卫星的深入应用探测频率在不断攀升，已经高达 $3 0 0 ~ \\mathrm { G H z }$ 以上.毫米波亚毫米波技术由此快速发展，该波段的辐射源和检测器等器件成为制约系统应用的瓶颈.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "混频器是接收机前端中的关键部件，它将接收到的射频信号转移到中频信号，它的性能直接影响着接收机的检测性能.由于技术水平的限制国内对固态混频器的研究大部分都集中在 $3 0 0 ~ \\mathrm { G H z }$ 以下的波段[16].国外的工艺水平较高,除了采用基片转移技术还可以采用全GaAs集成的薄膜电路，因此混频器的频率能做到 $3 0 0 ~ \\mathrm { G H z }$ 以上[7-9].我们为解决$4 5 0 ~ \\mathrm { G H z }$ 辐射计的应用问题立足国内的工艺水平，采用分立二极管和石英基片，研制了 $4 5 0 ~ \\mathrm { G H z }$ 的二",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "次谐波混频器，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于频率 $4 5 0 ~ \\mathrm { G H z }$ 的波长约为 $0 . 6 7 \\ \\mathrm { m m }$ ,该波段器件具有尺寸小、寄生参数多、性能不易调试等特点.针对这些特点，设计时选用了高性能的二极管、石英基片上搭建悬置微带电路、将金属腔体一分为二；仿真中首先计算二极管管芯的特性阻抗、管芯的理想性能再引入二极管的封装、匹配电路，计算混频器的仿真性能；加工时关注了腔体和微带的尺寸精度、石英基片和二极管的安装精度.本文首先按照以上内容介绍设计和加工过程然后给出测试结果，并对结果进行分析，为后续的研制提供指导，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 总体设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，二次谐波混频器由二极管和无源电路组成，它的设计过程就是设计射频RF、本振LO、中频IF端口到非线性器件二极管的匹配网络，从而实现信号的高效转换[10].二极管采用一对反向并联的肖特基二极管对管在电路中通过合理接地，无需外加直流偏置因此整个电路的形式简单、结构紧凑.对管的输出只含射频 $f _ { \\mathrm { R F } }$ 和本振 $f _ { \\mathrm { L 0 } }$ 合成后的奇次分量[1]通过合理设置滤波器和探针，让中频端口输出所需的频率分量 $| 2 f _ { \\mathrm { L O } } - f _ { \\mathrm { R F } } |$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e50e77776e657e4e1d918c0d1b822f7ac2aff131a5a21d50c8a40c7f5bfd056.jpg",
+        "img_caption": [
+            "图1二次谐波混频器的原理图Fig.1Schematic diagram of the sub-harmonic mixer"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具体电路的搭建见图2射频信号从RF波导输入由RF探针耦合到达二极管.本振信号从LO波导输入由LO探针耦合通过LO滤波器最后到达二极管.中频信号在二极管中产生，经过LO 滤波器、IF滤波器最后由同轴接头输出，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了便于装配并减少对电路的影响，金属腔体采用从波导E面中间一分为二的形式.在中间沟道搭建悬置微带的电路并采用减薄到 $5 0 ~ { \\mu \\mathrm { m } }$ 厚度的石英基片这样就减少了电路的损耗并扩宽了电路中可用的特性阻抗范围.为了扩宽本振信号的带宽，LO探针处采用宽度减至一半的波导.为了让石英基片尽量短IF滤波器采用H型.考虑到石英基片在腔体中的安装IF滤波器采用微带形式、DC接地处留出台阶，从而在石英基片的两端形成可靠的支撑，",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0dbb92cd4f0aacfa4a06106d8983fe7df3d79dcf10d80dc8f5bc1f03f36494d.jpg",
+        "img_caption": [
+            "图2二次谐波混频器的模型(a)电路模型(b)腔体模型 Fig.2Model of the sub-harmonic mixer,(a)Circuit model and（b）Cavity model "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 二极管的模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "混频器的理想性能取决于二极管，通常采用串联电阻 $R _ { s }$ 、零偏置结电容 $C _ { j 0 }$ 、饱和电流 $I _ { s }$ 、理想因子$n$ 、零偏置电势 $V _ { j 0 }$ 这5个参数来描述二极管的管芯[12].在电路仿真中根据管芯参数,计算管芯对射频频率、本振频率呈现的阻抗同时得到管芯的理想性能.在亚毫米波波段，二极管的封装会产生各种寄生参数封装的影响可以通过电磁场仿真来考虑.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文选用的二极管型号是2MAF1p5,这种反向并联的肖特基二极管，尺寸为 $7 4 \\times 4 0 \\times 6 ~ { \\mu \\mathrm { m } }$ 截止频率高达 $8 \\ \\mathrm { T H z }$ .管芯参数可以通过测量二极管的 $\\mathrm { I - }$ V曲线得到表1中列出管芯的出厂参数.按照图1在电路仿真软件ADS中建立管芯的模型，并搭建LO网络、RF网络、IF网络的理想电路.通过检测频率为 $4 5 0 ~ \\mathrm { G H z } \\cdot 2 2 4 ~ \\mathrm { G H z }$ 时管芯的输出电压和电流，分别得到管芯对射频频率、本振频率呈现的阻抗为$Z \\_ R F = 3 9 - 4 1 \\ \\mathrm { j }$ $Z \\_ L O = 6 8 - 1 1 0 \\mathrm { ~ j ~ }$ 在此基础上在ADS电路中查看变频损耗随本振功率变化.如图3所示，当本振功率加大到 $2 . 0 \\ \\mathrm { m W }$ 时单边带变频损",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4b7eacfca350d34c386c39f59e3878727b9275443aa8075c506313b8e38a08d.jpg",
+        "table_caption": [
+            "表1二极管管芯的参数Table1 Parameters of the diode chip"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>R/Ω</td><td>Cj0/fF</td><td>1/A</td><td>n</td><td>Vj0/V</td></tr><tr><td>10.5</td><td>2.0</td><td>3 ×10 -17</td><td>1.2</td><td>0.74</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/821a6f15db03b329b3022dcf1c981cb14b957c37039324ffe85db840a99e9f8b.jpg",
+        "img_caption": [
+            "图3二极管管芯的理想性能单边带变频损耗随本振功率的变化 $\\dot { \\cdot } f _ { \\mathrm { R F } } = 4 5 0 ~ \\mathrm { G H z }$ （ $, f _ { \\mathrm { L 0 } } = 2 2 4 ~ \\mathrm { G H z } )$ Fig.3Ideal performance of the diode chip.SSB con-version loss versus power of local oscillator $( f _ { \\mathrm { R F } } = 4 5 0$ GHz $, f _ { \\mathrm { L O } } = 2 2 4 ~ \\mathrm { G H z }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "耗减小到6.0dB. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照文献[5]中所述对二极管的材料进行设置在电磁场仿真软件HFSS中对封装建模.如图4(a)所示 将二极管放置在一段悬置微带中 把两个肖特基结设置成集总端口（端口3和4），传输线上的两个端口(端口1和2)被嵌入设置到焊盘处的参考面处（由虚线标示）于是封装构成一个四端口网络.将该网络的四端口S参数代入到电路设计中使得封装的影响得到考虑，二极管的建模才会准确.二极管带封装的S参数见图4(b).",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 无源电路的设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2(a)无源电路从二极管的参考面处(由虚线标示)分割，可以将其划分为射频的RF二端口网络和本振的LO三端口网络.前者包括RF波导、RF探针、接地端、与二极管的连接电路,后者包括LO波导、LO探针、LO低通滤波器、IF低通滤波器.这两部分可以独立设计分别达到一个初步性能.无源电路连接二极管之后再微调影响匹配的尺寸从而进行整体优化.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在HFSS中经过初步设计，RF二端口网络的模型和仿真性能见图5RF端口1在 $4 5 0 ~ \\mathrm { G H z }$ 时向端□2的传输系数大于-0.1dB，反射系数小于-25dB.LO三端口网络的模型和仿真性能见图6，LO端口1在 $2 2 4 ~ \\mathrm { G H z }$ 时向端口3的传输系数大于-0.2dB,反射系数小于-13 dB.IF端口2在$1 0 ~ \\mathrm { G H z }$ 以内向端口3的传输系数大于-0.3dB，反射系数小于-12dB.",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/67db2925da0092c8d7d4c793565efa0e3914c8b34ebdb1c56dd347f2eb16c583.jpg",
+        "img_caption": [
+            "图4二极管封装(a)电磁场模型(b) $S _ { 2 1 }$ 与 $S _ { 1 1 }$ Fig.4（a）Electromagnetic model and（b) $S _ { 2 1 }$ and $S _ { 1 1 }$ for the diode package "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/64bb418a8a920b628a021fb42d44d7ae43bef14dca32850d885960d728bf877f.jpg",
+        "img_caption": [
+            "图5射频的 RF二端口网络(a)电磁场模型(b) $S _ { 2 1 }$ 与 $S _ { 1 1 }$ Fig.5(a) Electromagnetic model and（b) $S _ { 2 1 }$ and $S _ { 1 1 }$ for theRF two-port network"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 混频器的整体优化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "无源电路连接二极管封装，得到一个五端口网络的整体电路.该网络如图7(a)所示，五端口分别是RF端口、LO端口、IF端口、连接管芯的两个集总端口.对无源电路而言，RF二端口网络或LO三端口网络的端口负载发生了变化，端口性能也随之发生了变化.为使整体电路中的RF和LO信号重新达到所需的传输或隔离，需要在设计时继续调整那些对匹配敏感的尺寸.如图5(a)中标示的探针到二极管的长度R1、探针到RF波导底部的长度R2和探针到接地端的长度R3以及图6(a)中的LO滤波器到二极管的长度L1、探针到LO减高波导底部的长度L2和探针到LO减高波导连接处的长度L3.",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c422b1c6ea96a612ef12a79cdad0a3042839263ed38731e2d69c0ef628be0f7.jpg",
+        "img_caption": [
+            "图6本振的LO 三端口网络(a)电磁场模型(b) $S _ { 3 1 }$ 与 $S _ { 1 1 }$ (c) $S _ { 3 2 }$ 与 $S _ { 2 2 }$ Fig.6(a)Electromagnetic model,(b) $S _ { 3 1 }$ and $S _ { 1 1 }$ ,and (c) $S _ { 3 2 }$ and $S _ { 2 2 }$ for the LO three-port network "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在HFSS中对整体电路的五端口网络建模，得到整体电路的S参数如图7(b)所示.在ADS中引入管芯参数、整体电路的五端口S参数运用谐波平衡仿真得到混频器的仿真性能.如图7(c)所示，当本振功率为 $4 \\mathrm { \\ m W }$ 时单边带变频损耗为8.0dB，3dB变频损耗的带宽为 $3 0 ~ \\mathrm { G H z }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb1ae6a429f79541857437166f1b75bb37203fb0e3f588f87db9d30fd2077a87.jpg",
+        "img_caption": [
+            "图7混频器的仿真性能(a)原理图(b) $S _ { 2 2 }$ 与 $S _ { 1 1 }$ (c)单边带变频损耗随射频频率的变化( $f _ { \\mathrm { L 0 } } ^ { } ~ = ~ \\$ $2 2 4 ~ \\mathrm { G H z }$ （204 $\\begin{array} { r } { { P } _ { \\mathrm { L 0 } } = 4 \\ \\mathrm { m W } } \\end{array}$ ） Fig.7 Simulated performance of the mixer. (a)Schematic diagram;（b) $S _ { 2 2 }$ and $S _ { 1 1 }$ ;（c）SSB conversion loss versus RF frequency $( f _ { \\mathrm { L O } } = 2 2 4 ~ \\mathrm { G H z }$ 1 $P _ { \\mathrm { L 0 } } = 4 ~ \\mathrm { m W }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 加工",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图8所示，混频器模块的外部接口是射频波导WR3、射频波导WR-5、中频接口K接头.模块由两个从波导E面一分为二的腔体组成，，通过销钉紧配合外形尺寸为 $2 0 \\times 2 0 \\times 2 0 ~ \\mathrm { m m }$ .腔体以铝为材料，表面镀金，内部沟道的尺寸精度要求控制在",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$5 ~ { \\mu \\mathrm { m } }$ 以内.电路板采用低正切损耗的熔融石英，相对介电常数3.78.基片上的微带由光刻得到精度在 $2 ~ { \\mu \\mathrm { m } }$ 以内.基片通过减薄、划片尺寸为 $2 . 0 0 \\ \\mathrm { m m }$ $\\times 0 . 2 4 ~ \\mathrm { m m } \\times 0 . 0 5 ~ \\mathrm { m m }$ 基片的两端通过导电银胶固定在中间沟道的台阶上构成悬置微带.二极管由导电银胶固定在基片的焊盘上，基片和二极管的安装精度都要求在 $5 ~ { \\mu \\mathrm { m } }$ 以内.",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0d236ec032a306f44125512a3a05b830a1d4b221ef799349dbb4c8f583d4c25.jpg",
+        "img_caption": [
+            "图8混频器的实物照片(a)模块外形(b)石英基片的电路Fig.8Photos of the mixer,（a）the module and（b）Quartz-based circuit"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3测试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "混频器变频损耗的测试如图9(a)所示射频信号来自RPG公司的发射模块，在 $4 3 0 \\sim 4 6 0 ~ \\mathrm { G H z }$ 之间输出约 $- 2 0 ~ \\mathrm { d B m }$ 的功率.本振信号来自VDI的三次倍频器，通过衰减器的控制，在 $2 2 0 \\sim 2 2 8 ~ \\mathrm { G H z }$ 之间稳定输出 $5 ~ \\mathrm { m W }$ 的功率.中频信号从K接头由同轴电缆输出到频谱仪.单边带的变频损耗",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI L \\ = \\ P _ { _ { R F } } - P _ { _ { I F } } - L _ { _ { c a b l e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\boldsymbol { P } _ { \\scriptscriptstyle R F }$ 为输入的射频功率 $\\boldsymbol { \\mathcal { P } } _ { I F }$ 为输出的中频功率，$L _ { c a b l e }$ 为同轴电缆的损耗.测试结果见图9（b），单边带变频损耗的最佳值为 $4 4 0 ~ \\mathrm { G H z }$ 的14.0dB $A 3 3 \\sim$ $4 5 1 ~ \\mathrm { G H z }$ 损耗小于17.0dB $_ 3$ dB 带宽为 $1 8 ~ \\mathrm { { G H z } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "测试结果与仿真相比，单边带变频损耗的最低值由8.0dB增大至14.0dB,最佳性能的频点也由$4 5 0 ~ \\mathrm { G H z }$ 偏离至440GHz3dB带宽由 $3 0 ~ \\mathrm { G H z }$ 缩小为 $1 8 ~ \\mathrm { { G H z } }$ 注意到在实际加工中存在不理想因素，比如导电银胶并不是理想导体、石英的相对介电常数可能有偏差、沟道表面并不足够光滑、尺寸和位置可能有偏差.这些因素在 $4 5 0 \\ : \\mathrm { G H z }$ 波段都值得考虑，它们都能导致变频损耗偏大.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经过检查，发现腔体的中间沟道的宽度偏大了 $2 0 ~ \\mu \\mathrm { m }$ 、石英基片的安装位置偏离了 $1 0 ~ { \\mu \\mathrm { m } }$ .将以上因素代入混频器的仿真模型中，观察变频损耗的变化.结果如图10所示，尺寸的偏差导致了损耗的偏大，位置的偏差导致了频率的偏移.在尺寸和位置偏差的共同影响下，显著导致损耗偏大、3dB带宽减小.仿真结果说明了加工中的尺寸偏差、安装偏差对 $4 5 0 ~ \\mathrm { G H z }$ 混频器性能的影响非常明显.在下一次的加工中,如果能提高沟道尺寸的精度、基片和二极管安装的精度将能进一步降低混频器的变频损耗.",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f749619259172191d6cfb55ed5416ba8734450a1bbd8d33c6987f045c6c7c099.jpg",
+        "img_caption": [
+            "图9混频器的测试结果(a)测试场景(b)单边带变频损耗随射频频率的变化 $( f _ { \\mathrm { L 0 } } = 2 2 4 ~ \\mathrm { G H z }$ “ $P _ { \\mathrm { L 0 } } = 5$ $\\mathbf { m } \\mathbb { W }$ ）Fig.9Measured results of the mixer,(a)View ofthe set-up and(b) SSB conversion loss versus RF fre-quency $( f _ { \\mathrm { L 0 } } = 2 2 4 ~ \\mathrm { G H z }$ “ $P _ { \\mathrm { L 0 } } = 5 ~ \\mathrm { m W }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/84804e439897598fc78dc67a1d55dc1ad6a194b1643ebb04bf83d5a3f9675879.jpg",
+        "img_caption": [
+            "图10混频器受到加工误差影响的仿真性能单边带 变频损耗随射频频率的变化( $( f _ { \\mathrm { L 0 } } = 2 2 4 ~ \\mathrm { G H z }$ “ $P _ { \\mathrm { L 0 } } = 4$ $\\mathrm { ~ m ~ W ~ }$ ） Fig.10Simulated performance of the mixer suffered from errors. SSB conversion loss versus RF frequency ( $( f _ { \\mathrm { L 0 } } = 2 2 4 ~ \\mathrm { G H z }$ “ $P _ { \\mathrm { L 0 } } = 4 ~ \\mathrm { m W }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文基于一对反向并联的肖特基二极管，采用电路和电磁场结合分析的方法研制了 $4 5 0 ~ \\mathrm { G H z }$ 的二次谐波混频器.首先得到二极管管芯的理想的单边带变频损耗为6.0dB，然后考虑二极管封装、设计匹配电路得到混频器的仿真损耗为8.0dB.最后通过加工和测试混频器的测试损耗为14.0dB.加工中出现了一些不理想因素，它们都能导致变频损耗偏大.通过分析这些影响因素，为下一次的研制提供了指导.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]XU Zheng-Bin,QIAN Cheng,DOU Wen-Bin,etal.Design of a W-band sub-harmonic mixer by employing microstrip technology[J].J.InfraredMillim.Wave(许正彬,钱澄， 窦文斌等.基于微带线的W波段二次分谐波混频器设 计.红外与毫米波学报)2013,32(3)：242-247.   \n[2]ANDa-Wei,YUWei-Hua,LV Xin.Design and fabrication of a 2 mm-band sub-harmonic mixer based on quartz [J]. J.InfraredMillim.Wave(安大伟，于伟华吕昕.基于石 英基片的二毫米波段二次谐波混频器设计和研制.红外 与毫米波学报)2011,30(1)：33-37.   \n[3]WANG Cheng,DENG Xian-Jin,XIAO Shi-Wei.140 GHz sub-harmonic mixer based on Schottky diode[J].INFORMATIONANDELECTRONICENGINEERING（王成，邓贤 进肖仕伟.基于肖特基二极管的140GHz次谐波混频 器.信息与电子工程)2011，9(6)：713-717.   \n[4]Yao Chang-Fei,Zhou Ming,Luo Yun-Sheng，et al.Millimeter-wave fixed-tuned subharmonic mixers with planar Schottky diodes [J].Journal of semiconductors,2012,33 (11):115007.   \n[5]Yao Chang-Fei,Zhou Ming,Luo Yun-Sheng,et al.Development of terahertz frequency solid state multiply sources and sensors with Schottky barrier diodes[J]．ACTA ELECTRONICASINICA(姚常飞周明罗运生等.基于肖特基 势垒二极管的太赫兹固态倍频源和检测器研制.电子学 报)2013,41(3):438-443.   \n[6] ZHANG Bo,CHEN Zhe,FAN Yong. 22O GHz sub-harmonic mixer[J].Journal ofUniversity of Electronic Science and Technology of China(张波陈哲樊勇.220 GHz分谐 波混频器研究.电子科技大学学报)2012，41(3)：397- 400.   \n[7]WALIWANDER T,CROWLEY M,FEHILLY M,et al. Sub-millimeter wave 183 GHz and 366 GHz MMIC membrane sub-harmonic mixers [C]. Microwave Symposium Digest(MTT）,2011 IEEE MTT-S International,Baltimore , MD,USA,2011,1-4.   \n[8]TREUTTELJ，THOMAS B，MAESTRINI A，et al．A 380 GHz sub-harmonic mixer using MMIC foundry based schottky diodes transferred onto quartz substrate[C].Proceedings of the 2Oth International Symposium on Space Terahertz Technology.Charlottesville,VA,USA,2009,251- 254.   \n[9]THOMAS B,MAESTRINI A,MATHESON D.Design of an 874GHz biasable sub-harmonic mixer based on MMIC membrane planar schottky diodes[C].Infrared,Millimeter and Terahertz Waves（IRMMW-THz），33rd International Conference on,Pasadena ,CA,USA,2008．140-144.   \n[10]MADJAR A. A novel general approach for the optimum design of microwave and millimeter wave subharmonic mixers [J].Microwave Theory and Techniques,IEEE Transactions on.1996,44(11):1997-2000.   \n[11]COHN M，DEGENFORD，JAMESE，et al.Harmonic mixing with an antiparallel diode pair[J].Microwave Theory and Techniques,IEEE Transactions on.1975,23(8): 667-673.   \n[12]MASS S A. Microwave mixers [M].London:Artech House,1993:11-24. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,497 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201704180694 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李胜利,易茂红,陈凯,丁宁,王备新,姚花荣.渭河底栖动物性状和功能对空间尺度环境变量响应的生态区差异性.生态学报,2018,38（7)：2566-2578.LiSL,YgseeaiatdifferentspatialscalesbetweencoregionsintheWeiRiverbasin,China.ActaEcologicaSnica,2O18,8（7):2566-2578.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "渭河底栖动物性状和功能对空间尺度环境变量响应的生态区差异性 C",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李胜利}，易茂红²,陈凯1,3，\\*,丁宁},王备新',姚花荣4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1南京农业大学植物保护学院，南京210095  \n2贵州习水国家级自然保护区管理局，遵义564600  \n3南京水利科学研究院生态环境研究中心，南京210034  \n4太原市成成中学校，太原030002",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以我国中部渭河南部流域山区和平原生态区的底栖动物为研究对象,通过计算29个生物性状类别和7个功能多样性指数,比较了不同生态区的生物性状组成和功能与性状多样性指数差异性;应用综合RLQ和fourth-comer方法探索底栖动物生物性状组成与土地利用和理化变量的关系;通过广义线性模型(GLM)比较不同空间尺度环境变量对底栖动物功能与性状多样性指数影响的生态区差异性。研究发现,共18个底栖动物性状组成在山区和平原间存在显著差异性,其中具有无庇护所和以叶片为庇护所材料、外骨骼轻微骨化和骨化良好、草食性、捕食性等生物性状的底栖动物栖息于栖境状况较好的山区,体壁呼吸、虫体柔软、集食者等生物性状更多的集中在人类活动较严重的平原区。除了功能均匀度指数外,山区的性状和功能多样性指数均显著高于平原,说明平原环境干扰显著降低了底栖动物性状和功能多样性。综合RLQ和 fourth-comer方法表明底栖动物生物性状对环境胁迫的响应存在可预测性。GLM模型结果表明,山区和平原生物性状和功能多样性指数受到不同空间尺度土地利用和理化环境变量的影响:流域尺度城镇用地、水温和TN 含量是影响山区功能和性状多样性指数模型的重要环境变量,但平原区河段尺度农业用地面积百分比和平均水深是影响功能和性状多样性的主要因子。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生物性状；功能多样性；RLQ；fourth-corner；GLM；空间尺度；环境变量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Differences in responses of macroinvertebrate traits and functional diversity to environmental variables at different spatial scales between ecoregions in the Wei River basin，China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Shengli1 ,YI Maohong²,CHEN Kai1,3,\\* ,DING Ning' ,WANG Beixin1 ,YAO Huarong4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Plant Protection，Nanjing Agricultural University，Nanjing 210o95，China   \n2 Bureau of Guizhou Xishui National Nature Reserve，Zunyi 5646OO,China   \n3Centerfor Eco-environmental Sciences Research，Nanjing Hydraulic Research Institute，Nanjing 21Oo34，China   \n4Taiyuan Chengcheng SeniorMiddle School，Taiyuan O3OoO2，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Using the macroinvertebrates colected from mountain and lowland ecoregions in the southern basin of Wei River asindicators，wecomparedthediferences inthecompositionof 29 macroinvertebratetraitcategoriesandseventraitsand functional diversity indices between the two ecoregions.Thecombinationof the joint analysisof R（environmental $\\times$ sites）, L（species $\\times$ sites），and Q（trait $\\times$ species）（RLQ）and fourth-corner analysis methods was conducted to explore the relationships between macroinvertebrate trait compositionand landuseand physicaland chemical variables.Wethenuseda generalized linearmodel（GLM）tocompare diferences intheresponsesof macroinvertebrate traitsandfunctional diversity to environmental variablesatdiferent spatial scales between thetwo ecoregions.Ourresultsshowed that18of the 29 biologicaltraitsand6ofthe7traitsandfunctionaldiversityindicessignificantlydiferedbetween thetwoecoregions. Macroinvertebrates with biological traitssuchasnoneand sheltersofleaf partsor woodrefuge，lightly sclerotized，well protectedexoskeletonor external protection，herbivores，and predators preferredhabitats inthe mountain ecoregion，while biologicaltraitswith integumentaryrespiration，softbody，andcollctor-gatherers tendedtofrequentlyoccurinthelowland ecoregionunderhigher intensityof humanactivities.Alltraitsand functional diversity indices，exceptfunctionaleveess weresignificantly higher inthe mountainecoregionthan inthe lowland ecoregion，whichdemonstratedthatenvironmental stressorssignificantlydecreasedthebiological traitsandfunctionaldiversityinlowlandareas.ThecombinationofRLQand fourth-corner methods revealedthatthetraits demonstrated apredictableresponseof trait pattersalongthe environmental gradient.TheGLM model predicted thatthe functionalandtrait diversityin mountainandlowlandecoregionscouldbe explained bydiferent environmentalvariablesat diferentspatialscales，withcatchmenturbanlanduse，water temperature, andtotal nitrogen explaining mostvariations within thebiological traitsandfunctionaldiversityinthemountainecoregion; but with reach scaleagriculture landuseandaverage water depth mainlyexplaining thedecrease of the functional diversity in the lowland ecoregion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:biological traits；functionaldiversity；RLQ analysis；fourth-cormer；GLManalysis；spatial scales; environmental variables ！ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "底栖动物生物性状和功能多样性指数对环境胁迫的响应具有敏感且可预测的特点,近年来已经被逐渐应用于水生态系统健康评价和水环境退化原因分析研究[1-2]。与简单记录底栖动物数量减少和群落变化相比,底栖动物群落功能性状(如庇护所结构、化性 取食功能团等)可以对胁迫因子变化（如土地利用改变和生物栖境退化)做出特定响应[3-4];因此可以通过确定对环境干扰较敏感的性状特征,分析生态系统结构和功能退化的可能原因。借鉴植物性状和功能多样性研究[5-6],底栖动物从生物性状特征及其分布研究开始,逐渐发展到性状和功能多样性指数的研究7]。性状和功能多样性以生物性状为基础,与物种多度相结合,考虑了群落中生物性状的分布和差异,表征生态系统功能及物种间资源利用的互补程度[8-9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "已有部分研究建立了底栖动物性状组成和空间分布对单一和多重空间尺度环境梯度的响应关系[7,10],例如:Doledec 等[11]发现,温带气候类型下不同生态区生物性状组成差异性较低,生物性状主要受大尺度农业土地利用的影响,受较小空间尺度环境胁迫的影响较小;Zuelling 等[2]发现,底栖动物生活史策略和生态学性状在美国不同生态区之间存在显著差异性,但性状组成和结构对城镇用地和农业用地的响应程度和响应方向在不同生态区之间存在一致性。但极少研究比较了不同生态区生物性状和功能多样性对不同空间尺度环境胁迫因子响应的差异性[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（本研究以我国中部渭河南部流域山区和平原生态区的底栖动物为研究对象,比较不同生态区的生物性状组成和功能与性状多样性指数,探索影响底栖动物生物性状组成和功能与性状多样性指数的关键土地利用和理化变量,比较不同空间尺度环境变量对底栖动物生物学性状和功能与性状多样性指数影响的生态区差异性。研究结果以期为基于底栖动物性状的水生态健康评价提供数据积累,为深人探讨底栖动物性状和功能多样性研究奠定一定的理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区域概况和采样点位",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "渭河发源于甘肃省渭源县鸟鼠山,流经甘肃、宁夏、陕西三省后,由陕西省潼关汇入黄河,流域总面积 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 3 4 7 6 6 \\mathrm { k m } ^ { 2 }$ ,为黄河的最大支流。渭河流域属暖温带半湿润大陆性季风气候,多年平均降雨量介于 522—$7 1 9 \\mathrm { m m }$ ,年平均气温介于 $1 3 . 0 { - } 1 3 . 7 \\mathrm { { ^ { \\circ } C } ^ { [ 1 3 ] } }$ 。渭河贯穿陕甘的秦岭山脉和关中冲积平原,流域地貌复杂,流域内大部分为深厚的黄土覆盖,易被水蚀[14];过去30年,渭河受到土地利用改变、点源和面源污染物输入、地表径流改变、泥沙沉积等人类活动干扰持续加剧[15]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2013年6月在渭河流域的西安市南部溪流通过随机选点的方法选取48个采样点（图1),采样点位土地利用覆盖森林、农田和城镇3种类型。依据刘胤汉等[16],研究河流流经秦巴山地常绿-落叶阔叶林(山区)生态区和水土流失敏感的平原生态区;所有点位中,25个分布于山区生态区,23个分布于平原生态区。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa1bbad66c05e95b3da7c6ffd503cc7eaae213f37b1470e5faa30da188db1f15.jpg",
+        "img_caption": [
+            "图1渭河流域西安市南部流域溪流采样点位分布",
+            "Fig.1Locations of the sampling sites in southern basin of Wei River,Xi'an City "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集与测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 底栖动物采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每个采样点在 $1 0 0 \\mathrm { { m } }$ 长河段范围内，使用采样面积为 $0 . 0 9 \\mathrm { m } ^ { 2 }$ 的索伯网(60 目孔径)采集3个急流和2个缓流生境的底栖动物样品[7]。混合所有样方,将样品洗净后加入 $7 \\%$ 福尔马林溶液保存。实验室内挑拣、计数、并鉴定所有个体至可信的最低分类单元(通常为属级,其中双翅目到科级,寡毛纲到目级）[18-19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 水体理化指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现场使用GPS（Magellan eXplorist 200)记录采样点经纬度和海拔,使用HANNA 多参数水质仪（HI93752）测定水温(WT）、溶解氧（DO）、酸碱度( $\\mathrm { ( p H ) }$ 和总溶解性固体（TDS）。使用HANNA 钙、镁离子浓度比色计测定水体的钙(Ca）、镁离子( $\\mathbf { \\nabla } ( \\mathbf { M g } )$ 浓度。在每个采样河段选择10个断面,测定河宽、水宽、水深、平均流速和最大流速。参照Kondolf［20]测量底质粒径组成,计算淤泥和沙粒( $< 2 \\mathrm { m m }$ ）、碎石(2- ${ \\cdot } 6 4 \\mathrm { m m }$ ）、鹅卵石(65—256mm）、巨石( $> 2 5 6 \\mathrm { m m }$ )组成百分比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在每个采样点位的流水生境采集 $6 0 0 \\mathrm { m L }$ 水样,于 $4 ^ { \\circ } \\mathrm { C }$ 便携式冰箱黑暗冷藏保存。实验室内严格按照《水和废水监测分析方法》[2I],测定总氮（TN）、硝氮（ $\\mathrm { N O } _ { 3 }$ ）、亚硝氮( $\\mathrm { N O } _ { 2 }$ ）、氨氮( $\\mathrm { N H } _ { 4 }$ ）、总磷（TP）、磷酸盐（ $\\mathrm { P O } _ { 4 }$ ）、二氧化硅( $\\mathrm { S i O } _ { 2 }$ )和高锰酸盐指数( $\\mathrm { C O D } _ { \\mathrm { M n } }$ )浓度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3流域提取和土地利用计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从中国科学院国际科学数据服务平台下载精度为 $3 0 \\mathrm { m }$ 的数字高程模型(DEM)数据，利用地理信息系统（Geographic Information System,GIS)提取河网,利用多流域描绘工具（Multi-Watershed Delineation Tool）22]对每个点位对应的流域进行分割。参照刘东晓等[23]的方法解译研究区域的土地利用数据;使用GME（Geospatial ModelingEnvironment）工具提取流域尺度和河段（长 $1 0 0 0 \\mathrm { m }$ ，宽 $2 0 0 \\mathrm { m }$ )尺度的森林用地、农业用地和城镇用地面积百分比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4生物性状和功能多样性指数 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生物学性状信息主要通过直接测量(如最大体长）、野外观察和实验室培养观察(运动方式和呼吸方式)、文献资料[19,24-26]和网络资源（http://pubs.usgs.gov/ds/ds187/，http://www.freshwaterecology.info/index.php）获取。所有生物性状中,反映底栖动物群落生态系统功能的性状包括：生物学性状如“庇护所材料”“外骨骼保护性结构\"等,生态学性状如“底质选择”、“运动习性”等（表1)[27]。由于目前可利用的幼虫体长数据有限,本研究使用成虫的最大体长代替。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究共选取8个生物性状,共划分为29个类别（表1)。参照 Colzani等[28]的方法,使用离散型数字1、2、3对生物性状的每个类别进行赋值。 D02",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed43e0a6d5328b3425dc15ebe4c2be5f3f8b81b79a023d9cb45c430248fff62b.jpg",
+        "table_caption": [
+            "表1底栖动物生物性状、性状类别及赋值",
+            "Table1Functional traits，categories，scores and codes of benthic macroinvertebrates "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>性状 Traits</td><td>性状序号 Trait number</td><td>Categories</td><td>性状代码 Trait code</td></tr><tr><td rowspan=\"4\">庇护所材料 Refuge</td><td rowspan=\"4\">t1</td><td>无庇护所</td><td>tl1</td></tr><tr><td>复合网状、织网</td><td>t12</td></tr><tr><td>砂、细颗粒和木头</td><td>t13</td></tr><tr><td></td><td>t14</td></tr><tr><td>外骨骼保护性结构</td><td>叶片 t2 虫体柔软</td><td></td><td>t21</td></tr><tr><td>Exoskeleton or external protection</td><td></td><td></td><td>t22</td></tr><tr><td rowspan=\"4\">呼吸方式 Respiration</td><td rowspan=\"4\">骨化良好 体壁</td><td>2 3</td><td>t23</td></tr><tr><td>1</td><td>t31</td></tr><tr><td></td><td>t32</td></tr><tr><td></td><td>t33</td></tr><tr><td rowspan=\"4\">体长 Body size</td><td>小(<9mm) 气氧呼吸(呼吸管、气泡、气盾)</td><td>3 1</td><td>t41</td></tr><tr><td>中等(9—16mm)</td><td>2</td><td>t42</td></tr><tr><td>大(>16mm)</td><td>3</td><td>t43</td></tr><tr><td>流线型(扁平、呈梭形)</td><td>1</td><td>t51</td></tr><tr><td>底质选择 Rheophily</td><td>非流线型(管状、呈圆形)</td><td></td><td>t52</td></tr><tr><td>t6</td><td>只在沉积性底质</td><td>2 1</td><td>t61</td></tr><tr><td></td><td>沉积型和冲涮型底质</td><td>2</td><td>t62</td></tr><tr><td></td><td>冲刷型底质</td><td>3</td><td>t63</td></tr><tr><td>运动习性Habit</td><td>掘穴者</td><td>1</td><td>t71</td></tr><tr><td></td><td>攀爬者</td><td>2</td><td>t72</td></tr><tr><td></td><td>匍匐者</td><td>3</td><td>t73</td></tr><tr><td></td><td>附着者</td><td>4</td><td>t74</td></tr><tr><td></td><td>游泳者</td><td>5</td><td>t75</td></tr><tr><td></td><td>滑行者</td><td>6 1</td><td>t76</td></tr><tr><td>取食类型</td><td>集食者</td><td></td><td>t81</td></tr><tr><td>Functional feeding groups</td><td>滤食者</td><td></td><td>t82</td></tr><tr><td></td><td>刮食者(草食性 卷叶)</td><td></td><td>t83</td></tr><tr><td></td><td>捕食者</td><td></td><td>t84</td></tr><tr><td></td><td>撕食者</td><td></td><td>t85</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用每个性状类别的物种相对多度计算性状和功能多样性指数。性状多样性指数包括：性状丰富度指数（Trait richness，TR）和性状多样性指数（Trait diversity，TD）。功能多样性指数包括：功能丰富度指数（Functional richness，FRic）、功能均匀度指数（Functional evenness，FEve）、功能分散度指数（Functionaldispersion，FDis）、功能离散度指数（Functional divergence，FDiv）和 Rao 的二次熵指数（Rao's QuadraticEntropy，RaoQ)。TR 是每个点位所有生物性状类别的数量[29];TD基于生物性状的丰富度和相对多度计算生物性状的多样性[30]。FRic 代表了群落中底栖动物生物性状丰富度的总体分布[31],FRic 值越大说明该生物性状占据的对应生态位越多;FEve 是占据性状空间内物种性状分布的均匀度,较低FEve 值说明生态系统的生态位并没有得到充分利用[32]};FDis 计算了物种性状在性状空间的分散程度[33];FDiv 指在性状空间内物种性状及其多度分布的离散程度,FDiv值越大表明物种可以利用的生态位资源越多,物种对资源的竞争就越少[32]。RaoQ结合了物种的相对丰度和物种间的成对功能差异性,表达两个随机选择个体间的性状平均差异性[34-35] Cy",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用非参数 Kruskal-Walls 检验比较山区和平原生态区的环境变量、生物性状类别物种出现频率、性状和功能多样性指数的差异性。综合RLQ(R:环境因子矩阵,L:物种群落矩阵,Q:生物性状矩阵)和 fourth-cormer方法分析环境胁迫、物种组成和生物性状的关系[36],综合RLQ和 fourth-cormer 方法能够克服各自的缺点[37]，既考虑生物性状或环境因子的共变影响,又能确定影响生物性状变化的主要环境因子。首先,根据 Dray等[36]的方法对 fourth-cormer 中模型2（model2）和模型4（model4)进行置换检验(置换99 次）,合并两种模型的检验结果后,重新计算两种模型的统计学显著水平,以降低第一类误差(TypeI)的概率。R和Q矩阵通过L矩阵连接,模型2的原假设 $\\mathrm { H } _ { 1 }$ 为R和 $\\mathrm { ~ L ~ }$ 矩阵没有相关性,模型4的原假设 $\\overline { { \\mathrm { ~ H ~ } _ { 2 } } }$ 为 $\\mathrm { ~ L ~ }$ 和Q矩阵没有相关性;R和Q矩阵相关性检验的原假设 $\\mathrm { ~ H } _ { 0 }$ 为模型2和模型4至少有一个不成立,其备择假设是环境因子与生物性状具有显著相关性,即只有模型2和模型4的 $\\scriptstyle \\mathbf { \\alpha } _ { 1 }$ 和 $ { \\alpha } _ { 2 }$ 同时达到显著水才能拒绝 $\\mathrm { H } _ { 0 } \\big ( \\mathbf { \\boldsymbol { \\alpha } } _ { 0 } = \\mathbf { \\boldsymbol { \\alpha } } _ { 1 } \\mathbf { \\boldsymbol { \\alpha } } _ { 2 } \\big )$ 。一般取 $\\mathbf { \\alpha } _ { \\alpha _ { 0 } } =$ 0.05为显著水平,则 $\\alpha _ { 1 } = \\alpha _ { 2 } = \\ \\sqrt { \\alpha _ { 0 } } \\ = \\ \\sqrt { 0 . 0 5 } \\ \\approx 0 . 2 2$ ；本研究中共有13个环境变量须进行 Bonferroni 矫正,即显著水平 $\\alpha _ { 0 } = 0 . 0 5 / 1 3 = 0 . 0 0 3 8 5$ ;因此,拒绝 $\\widetilde { \\mathbf { H } } _ { 1 } ^ { - }$ 和 $\\mathrm { H } _ { 2 } ^ { - }$ 的显著水平为 $\\alpha _ { 1 } = \\alpha _ { 2 } = \\sqrt { 0 . 0 0 0 3 8 5 } \\ = 0 . 0 6 2 0 5 ,$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用广义线性模型(Generalized Linear Models,GLM)拟合不同空间尺度环境变量对性状和功能多样性指数的影响,比较环境变量在山区和平原生态区的相对重要性。GLM 模型利用最小赤池系数（Akaikeinformationcriterion,AICc)选择最佳模型,利用最大的修正后解释量(adjust $\\mathrm { R } ^ { 2 }$ )确定解释量最高的环境变量组合,利用赤池权重(Akaike weight)排序环境变量的重要性[38]。使用负二项分布拟合计数型变量 TR,使用高斯分布拟合剩余性状和功能多样性指数。为降低环境变量共线性对GLM模型的影响,首先剔除相关性较高的环境因子（Pearson 相关系数 $\\vert r \\vert > = 0 . 6$ ）,然后使用主成分分析法（Principal Component Analysis，PCA）选择对前两轴贡献最高最具有代表性的环境变量（环境变量得分 $| \\operatorname { s c o r e s } | > = 0 . 6 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所有分析前,对环境变量数据为百分比类型的数据(例如：土地利用和底质组成)进行反正弦平方根转换,对物种相对多度(L矩阵)和其他理化环境变量( $\\mathrm { \\ p H }$ 除外)进行 $\\log ( x { + } 1 )$ 转换[39]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所有数据分析通过R3.1.3进行,通过FD功能包的dbFD功能计算性状和功能多样性指数,利用ade4数据包进行RLQ 和 fourth-corner分析,利用Vegan 数据包进行PCA 和 Pearson 分析,使用 $\\mathrm { M u M I n }$ 程序包计算AICc值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 环境变量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "共有15个理化变量在山区和平原生态区存在显著差异( $\\scriptstyle P < 0 . 0 5$ ,表2）,山区点位的海拔、DO、最大流速、鹅卵石含百分比和大石块百分比显著高于平原区,但平原点位的WT、Ca、 $\\mathbf { M } \\mathbf { g }$ 、泥沙含量、TN、亚硝氮、氨氮、TP、磷酸盐和 $\\mathrm { S i O } _ { 2 }$ 含量显著高于山区点位。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "山区河段和流域尺度森林用地百分比均显著高于平原区,而平原区的农业用地和城镇用地百分比显著更高（表2）。山区以森林用地为主,其次是农业用地,城镇占地面积最小;而平原农业用地占据最大面积,森林面积其次,城镇用地面积最小。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b5124b77541059668355dc31090bee58e4a4628ef5dd51ee607be04850c0143c.jpg",
+        "table_caption": [
+            "表2渭河南部流域山区和平原区采样点位环境因子概况",
+            "Table2Summaryof environmental variablesamong samplingsitesatmountainandlowlandecoregionsinsouthernbasinof Wei River Xi'an Citv W "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">XranCity 变量 Variables</td><td colspan=\"3\">山区 Mountain</td><td colspan=\"3\">平原Lowland</td></tr><tr><td>缩写 Abbreviation</td><td>平均值±标准差 Mean±SD</td><td>最小值一最大值 Min—Max</td><td>平均值±标准差 Mean±SD</td><td>最小值一最大值</td><td>P</td></tr><tr><td>理化变量 Physicochemical variables</td><td></td><td></td><td></td><td></td><td>Min—Max</td><td></td></tr><tr><td>河段尺度 Reach scale</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>海拔 Elevation</td><td>Elev/m</td><td>920.72±270.77</td><td>495.00—1369.00</td><td>609.17±215.41</td><td>357.00—1236.00</td><td><0.001</td></tr><tr><td>水温Water temperature</td><td>WT/(C)</td><td>16.46±2.46</td><td>12.40—22.70</td><td>21.29±3.11</td><td>17.20—27.60</td><td><0.001</td></tr><tr><td>酸碱度pH</td><td>pH</td><td>7.71±0.41</td><td>6.39-8.36</td><td>7.83±0.36</td><td>7.15-8.32</td><td>0.235</td></tr><tr><td>溶解氧Dissolved oxygen</td><td>DO/(mg/L)</td><td>9.19±0.55</td><td>8.37—10.49</td><td>8.05±2.56</td><td>0.10—12.55</td><td>0.040</td></tr><tr><td>总溶解颗粒物 Total dissolved solids</td><td>TDS/(mg/L)</td><td>443.81±587.11</td><td>0.22—2180.00</td><td>380.41±653.33</td><td>0.48—2020.00</td><td>0.765</td></tr><tr><td>钙离子Calcium</td><td>Ca/(mg/L)</td><td>74.72±42.23</td><td>13.00—172.00</td><td>136.44±51.60</td><td>1.00—228.00</td><td><0.001</td></tr><tr><td>镁离子Magnesium</td><td>Mg/(mg/L)</td><td>7.08±4.60</td><td>1.00—22.00</td><td>17.65±10.29</td><td>7.00—45.00</td><td><0.001</td></tr><tr><td>平均水宽 Average water width</td><td>AWW/m</td><td>10.58±9.31</td><td>1.12—45.67</td><td>10.05±9.91</td><td>1.03—35.20</td><td>0.337</td></tr><tr><td>平均河宽 Average river width</td><td>AW/m</td><td>16.29±12.18</td><td>4.72—52.60</td><td>21.96±20.73</td><td>1.60—70.74</td><td>0.893</td></tr><tr><td>平均水深 Average depth</td><td>AD/m</td><td>34.18±21.75</td><td>5.00—86.67</td><td>31.88±17.72</td><td>6.80—95.00</td><td>0.926</td></tr><tr><td>平均流速 Average velocity</td><td>AV/(m/s)</td><td>0.51±0.29</td><td>0.14-1.37</td><td>0.38±0.20</td><td>0.00—0.79</td><td>0.180</td></tr><tr><td>最大流速 Max velocity</td><td>MV/(m/s)</td><td>1.03±0.52</td><td>0.40—2.20</td><td>0.66±0.35</td><td></td><td></td></tr><tr><td>泥沙含量百分比%Silt</td><td>%Silt/%</td><td>20.88±21.59</td><td>5.00—86.00</td><td>63.26±31.59</td><td>0.02—1.70</td><td>0.018</td></tr><tr><td>碎石含量百分比%Gravel</td><td>%Gravel/%</td><td>16.20±12.68</td><td>0.00—48.00</td><td>12.35±14.85</td><td>8.00—100.00</td><td><0.001</td></tr><tr><td>鹅卵石含量百分比%Cobble</td><td>%Cobble/%</td><td>36.68± 17.65</td><td>4.00—75.00</td><td>20.78±23.12</td><td>0.00—55.00</td><td>0.144</td></tr><tr><td>大石块含量百分比%Boulder</td><td>% Boulder/%</td><td>26.24±23.71</td><td>0.00—77.00</td><td>3.61±10.40</td><td>0.00—82.00</td><td>0.004</td></tr><tr><td>总氮 Total nitrogen</td><td>TN/(mg/L)</td><td>2.00±1.21</td><td></td><td></td><td>0.00—45.00</td><td><0.001</td></tr><tr><td>硝氮 Nitrate nitrogen</td><td>NO3/(mg/L)</td><td>1.88±1.15</td><td>0.68—4.60</td><td>2.98±1.31</td><td>0.83—5.14</td><td>0.018</td></tr><tr><td></td><td></td><td></td><td>0.63—4.41</td><td>2.59±1.65</td><td>0.17—6.37</td><td>0.283</td></tr><tr><td>亚硝氮 Nitrite nitrogen</td><td>NO2/(mg/L)</td><td>0.02±0.01</td><td>0.01—0.04</td><td>0.08±0.09</td><td>0.02—0.44</td><td><0.001</td></tr><tr><td>氨氮 Ammonia nitrogen</td><td>NH4/( mg/L)</td><td>0.12±0.15</td><td>0.00—0.65</td><td>0.72±1.13</td><td>0.00—4.94</td><td>0.001</td></tr><tr><td>总磷 Total phosphorus</td><td>TP/(mg/L)</td><td>0.07±0.05</td><td>0.02—0.15</td><td>0.26±0.56</td><td>0.012—2.68</td><td>0.012</td></tr><tr><td>磷酸盐 Phosphate</td><td>P04/( mg/L)</td><td>0.02±0.03</td><td>0.00—0.16</td><td>0.19±0.50</td><td>0.00—2.34</td><td><0.001</td></tr><tr><td>二氧化硅 SiO2</td><td>SiO/(mg/L)</td><td>8.33±3.64</td><td>3.96—19.31</td><td>11.34±4.14</td><td>4.88—21.57</td><td>0.005</td></tr><tr><td>高锰酸盐指数Permanganate index 土地利用 Land use</td><td>CODMn/( mg/L)</td><td>2.15±0.88</td><td>0.82-3.92</td><td>3.23±3.59</td><td>0.88—18.25</td><td>0.445</td></tr><tr><td>河段尺度 Reach scale</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>农业用地百分比 %Agricultural</td><td>RA/%</td><td>9.90±18.57</td><td>0.00—90.69</td><td>83.05±15.71</td><td>46.52-99.47</td><td><0.001</td></tr><tr><td>森林用地百分比%Forest</td><td>RF/%</td><td>88.91±19.37</td><td>7.35—100.00</td><td>6.02±8.56</td><td>0.00—31.48</td><td><0.001</td></tr><tr><td>城镇用地百分比%Urban</td><td>RU/%</td><td>1.14±2.70</td><td>0.00—12.78</td><td>9.35±10.99</td><td>0.24—50.98</td><td><0.001</td></tr><tr><td>流域尺度 Catchment scale</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>农业用地百分比 %Agricultural</td><td>CA/%</td><td>31.36±10.35</td><td>0.00—52.26</td><td>49.71±32.17</td><td></td><td></td></tr><tr><td>森林用地百分比 %Forest</td><td>CF/%</td><td>96.78±10.44</td><td>47.28-99.99</td><td>46.55±34.12</td><td>2.57-92.46 0.12—97.09</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><0.001</td></tr><tr><td>城镇用地百分比%Urban</td><td>CU/%</td><td>0.08±0.13</td><td>0.00—0.46</td><td>3.51±4.81</td><td>0.12—17.75</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2底栖动物群落、生物性状和功能多样性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究共鉴定127个底栖动物分类单元,其中山区分类单元104个,优势物种为四节蜉属 Baetis sp.,蜉蝣目个体数百分比达到 $4 4 . 6 \\%$ ;平原区分类单元50个,优势物种为颤蚓属 Tubifex sp.,寡毛纲个体数百分比为",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$1 7 . 7 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "山区和平原区的性状类别在所有个体中的出现频率差异性结果表明,共18个性状类别的出现频率在山区和平原生态区之间存在显著差异性( $\\scriptstyle P < 0 . 0 5$ ,图2）。山区底栖动物的性状更趋向于无庇护所(t11)和以叶片为庇护所(t14）;外骨骼轻微骨化(t22)和骨化良好(t23）；通过枝状鳃(t32)和气氧呼吸方式(t33）呼吸；体长小（t41)和中等(t42）;体型多呈流线型(t51);栖息于沉积(t62)和冲刷型(t63)的底质;掘穴者、攀爬者和附着者更多(t71,t72,t74）;草食性、捕食者和撕食者(t83,t84,t85）。平原区底栖动物游泳者的个体发生频率更高(t75）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "除了FEve外的其他性状和功能多样性指数在山区和平原生态区间存在显著差异( $\\scriptstyle P < 0 . 0 5$ ,图3)，山区的功能多样性指数 FDis、FDiv、FRic、RaoQ 和性状多样性指数 TR、TD 显著高于平原溪流点位。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e4ccaf05dc20334ac3e410c4d1fc0e34869fd6a877aa83288c71958e622aeaf.jpg",
+        "img_caption": [
+            "图2山区(实线)和平原区(虚线)底栖动物群落生物性状出现频率箱线图",
+            "Fig.2Box plotsof therelative frequencyof macroinvertebrate traitsatmountain（solidline）and lowland（dash line）生物性状代码参见表1, $^ *$ 表示显著差异性( $\\scriptstyle P < 0 . 0 5$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0ef7b5b2d6c2b6e2d8b6de0e898e1220734c4b015cdc9b708ac3666ab6b1f42.jpg",
+        "img_caption": [
+            "图3山区和平原的底栖动物群落性状和功能多样性指数箱线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Box plots of trait and functional diversity distributed between mountain and lowland ecoregions ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3环境变量与生物性状和功能多样性指数的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综合RLQ和Fourth-corner 结果表明（图4），体型(t5)主要与代表严重人为干扰的环境变量（如：淤泥含量百分比、TP、流域尺度城镇用地百分比等)显著正相关;庇护所材料(t1)和体长（t4)与 TP显著正相关；外骨骼保护性结构(t2）、呼吸方式（t3）、底质选择（t6）和取食类型(t8)与河段尺度和流域尺度森林面积显著正相关，但与水温、淤泥含量百分比、TP、流域尺度城镇面积百分比等代表严重人类干扰梯度的环境变量显著负相关；运动习性(t7)与TP显著负相关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GLM模型结果表明，山区土地利用和理化变量对功能和性状多样性指数的解释量高于平原区。山区环境变量对FRic和FDiv 解释量最高，分别为 $7 5 \\%$ 和 $62 \\%$ （表3）,对RaoQ和FDis的解释量分别为 $6 1 \\%$ 和 $5 9 \\%$ ：流域尺度城镇用地百分比是除FEve外所有模型的重要解释变量，水温和TN在所有GLM模型中共被选择3次。环境变量对FRic和FDiv的解释量在平原区同样为最高,但解释量分别只有 $5 7 \\%$ 和 $1 7 \\%$ ,FDis 和 RaoQ$\\mathrm { ~ R ~ }$ ：环境变量，Environmental variables;L：物种组成,Species;Q:生物性状，Traits; $\\boldsymbol { \\underline { { \\underline { { \\xi } } } } } _ { \\mathrm { T } }$ 蓝线分别代表环境变量和生物性状的正/负相关性；环境变量和生物性状代码分别见表1和表2",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/acc0ba8a761c751e5674aa35b64d55ff4ade333966be8a8e59fae081cf9ff214.jpg",
+        "img_caption": [
+            "图4综合RLQ和 fourth-corner分析结果",
+            "Fig.4Results of combining RLQ and Fourth-corner analysis alongtheRLQaxis "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "的解释量分别仅有 $1 3 \\%$ 和 $1 1 \\%$ ;河段尺度农业用地在所有模型中被选择3次,其他预测因子均仅出现在一个模型中。山区和平原区的FEve以及平原区的TR和TD的最优GLM模型缺失。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "解释山区和平原区性状和功能多样性指数变异的重要环境变量存在差异性(表3、表4）。在山区,TN 是解释FDiv和TD变异最重要的环境变量,水温是解释FDis、RaoQ和TR变异最重要的环境变量,河段尺度农业用地面积百分比是解释 FRic的最重要环境变量;其中,虽然流域尺度城镇用地和泥沙含量百分比不是所有模型中Akaikeweights 值最高的环境变量(表4）,但却是几乎所有功能和性状多样性模型的重要环境变量之一。在平原区,河段尺度农业用地面积百分比是解释FDis 和 RaoQ指数最重要的环境变量,TN 是解释 FDiv指数的重要环境变量，平均水深是解释FRic指数最重要的环境变量;其中,河段尺度农业用地面积百分比和平均水深是GLM中最频繁的解释功能和性状多样性指数模型的重要环境变量。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/53d03116bb210f8aa6f0a77e83e6cc70eb3c72c2e45b1ba6c91ad4752cf4d053.jpg",
+        "table_caption": [
+            "表3山区和平原生态区最优广义线性模型(GLM)"
+        ],
+        "table_footnote": [
+            "“NA\"代表没有选择重要环境变量,环境变量缩写见表2;AICc:最小赤池系数 Akaike information criterion;Adj $\\mathrm { R } ^ { 2 }$ :修正后解释量 Adjusted R-squares"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">Table3 Thebestgeneralized linearmodels MI aitandfunctionaldiversityindicesat mountainandlowlandecoregions</td></tr><tr><td>性状和功能多样性指数</td><td></td><td>CF</td><td>CU</td><td>RA</td><td>RF</td><td>RU</td><td>WT</td><td>%Silt</td><td>TN</td><td>Elev TP</td><td>AICc</td><td>Adj R²</td></tr><tr><td>Traitsand functional diversity</td><td></td><td>CA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>山区 Mountain ecoregion</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>功能分散度指数FDis</td><td>0.20</td><td></td><td></td><td></td><td>-3.17</td><td></td><td></td><td>0.80</td><td></td><td>12.5</td><td>0.59</td><td></td></tr><tr><td>功能离散度指数 FDiv</td><td></td><td></td><td>0.03</td><td></td><td></td><td></td><td></td><td>-0.54</td><td>-0.29</td><td></td><td>-70.0</td><td>0.62</td></tr><tr><td>功能均匀度指数FEve</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>NA</td><td>NA</td></tr><tr><td>功能丰富度指数FRic</td><td>59.83</td><td>60.67</td><td>14.77</td><td>-9.22</td><td>-9.60</td><td>-3.38</td><td></td><td></td><td></td><td>-133.65</td><td>170.5</td><td>0.75</td></tr><tr><td>Rao 的二次熵指数 RaoQ</td><td></td><td></td><td>0.73</td><td></td><td></td><td></td><td>-10.76</td><td></td><td></td><td>3.05</td><td>74.4</td><td>0.61</td></tr><tr><td>性状丰富度指数TR</td><td></td><td></td><td>0.11</td><td></td><td></td><td></td><td>-1.61</td><td></td><td>-0.51</td><td></td><td>149.8</td><td>0.48</td></tr><tr><td>性状多样性指数 TD</td><td></td><td></td><td>0.01</td><td></td><td></td><td></td><td></td><td>-0.13</td><td>-0.07</td><td></td><td>-131.7</td><td>0.57</td></tr><tr><td>平原 Lowland ecoregion</td><td></td><td>CA</td><td>RA TN</td><td>AD</td><td>Ca</td><td></td><td></td><td></td><td></td><td></td><td>AICc</td><td>Adj R²</td></tr><tr><td>功能分散度指数FDis</td><td></td><td></td><td>-0.01</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.0</td><td>0.13</td></tr><tr><td>功能离散度指数FDiv</td><td></td><td></td><td>0.12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-71.6</td><td>0.17</td></tr><tr><td>功能均匀度指数FEve</td><td>-0.09</td><td></td><td></td><td></td><td>-19.83-9.36</td><td></td><td></td><td></td><td></td><td></td><td></td><td>NA</td></tr><tr><td>功能丰富度指数FRic</td><td></td><td></td><td>-0.26</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>144.1</td><td>0.57</td></tr><tr><td>Rao 的二次熵指数 RaoQ</td><td></td><td></td><td>-0.03</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>71.3</td><td>0.11</td></tr><tr><td>性状丰富度指数TR</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>NA</td></tr><tr><td>性状多样性指数TD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>NA</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0109a12836e4d506d4645625e5d09af0de7494a17dc75503df477e9545de459.jpg",
+        "table_caption": [
+            "表4最优广义线性模型环境变量重要性的赤池权重排序"
+        ],
+        "table_footnote": [
+            "\\*代表在模型中前三重要的环境变量，环境变量的简称见表2"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Table 4 Akaike weight in GLMmodels torank the importance of environmental variablesat mountainand lowland ecoregion</td></tr><tr><td>性状和功能多样性指数 Traits and functional diversity</td><td>CU RA</td><td></td><td>RF</td><td>WT</td><td>%Silt</td><td>TN</td><td>TP</td></tr><tr><td>山区 Mountain ecoregion</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>功能分散度指数FDis</td><td>0.73*</td><td>0.30</td><td>0.34</td><td>0.95 *</td><td>0.50 *</td><td>0.19</td><td>0.30</td></tr><tr><td>功能离散度指数 FDiv</td><td>0.63</td><td>0.16</td><td>0.17</td><td>0.19</td><td>0.85 *</td><td>0.97 *</td><td>0.17</td></tr><tr><td>功能均匀度指数FEve</td><td>NA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>功能丰富度指数FRic</td><td>0.58 *</td><td>0.64 *</td><td>0.61 *</td><td>0.11</td><td>0.14</td><td>0.18</td><td>0.35</td></tr><tr><td>Rao 的二次熵指数RaoQ</td><td>0.80 *</td><td>0.28</td><td>0.29</td><td>0.94*</td><td>0.26</td><td>0.21</td><td>0.43 *</td></tr><tr><td>性状丰富度指数 TR</td><td>0.59 *</td><td>0.23</td><td>0.25</td><td>0.60 *</td><td>0.31</td><td>0.47 *</td><td>0.17</td></tr><tr><td>性状多样性指数TD</td><td>0.77 *</td><td>0.18</td><td>0.21</td><td>0.26</td><td>0.69 *</td><td>0.81 *</td><td>0.14</td></tr><tr><td>平原 Lowland ecoregion</td><td></td><td>RA</td><td>TN</td><td>AD</td><td>Ca</td><td></td><td></td></tr><tr><td>功能分散度指数 FDis</td><td>CA</td><td>0.44 *</td><td>0.19</td><td>0.28 *</td><td>0.27</td><td></td><td></td></tr><tr><td>功能离散度指数 FDiv</td><td>0.28 *</td><td>0.17</td><td>0.39 *</td><td>0.17</td><td>0.29</td><td></td><td></td></tr><tr><td>功能均匀度指数FEve</td><td>0.30*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>功能丰富度指数 FRic</td><td>NA 0.33</td><td>0.70 *</td><td>0.19</td><td>0.87 *</td><td>0.87 *</td><td></td><td></td></tr><tr><td>Rao 的二次熵指数 RaoQ</td><td>0.23</td><td>0.42 *</td><td>0.18</td><td>0.28 *</td><td>0.27 *</td><td></td><td></td></tr><tr><td>性状丰富度指数TR</td><td>NA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性状多样性指数 TD</td><td>NA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1 底栖动物性状",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "渭河流域南部山区和平原生态区的底栖动物性状组成和结构具有显著差异,说明渭河流域两个生态区的底栖动物群落性状组成和功能不同。土地利用类型对多种底栖动物性状均有显著影响,外骨骼保护结构、呼吸方式、体型等与不同空间尺度的土地利用、理化变量和物理生境显著相关,庇护所材料、体长和运动习性与总磷显著负相关,说明底栖动物性状组成受不同空间尺度环境变量调控,以适应山区和平原区的环境特征（图4）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "体型和底质选择与底质组成紧密相关[11],随着人类干扰程度的增加,平原区以沉积型底质为主,因此以拥有圆柱形或圆形体型且柔软虫体的底栖动物为主,以钻进底质中抵抗底质的不稳定性（图2、图4）;相反，在较小人类干扰的山区点位,溪流流速较大,底质以大颗粒卵石为主,因此以骨化良好且拥有流线型（扁平、梭形的)体型的底栖动物为主，以适应流速的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "呼吸方式是对溶解氧含量响应较敏感的生物性状。本研究中底栖动物呼吸方式与流域和河段尺度森林面积呈正比,与水温、淤泥含量、总氮、城镇面积呈反比(图4);以鳃呼吸为主的底栖动物主要生活在溶解氧较高的山区溪流[40];但是,随着人类干扰的增加,水温和有机物浓度的增加导致水中溶解氧下降,以体壁呼吸为主的底栖动物类群更易定居在平原区溪流[41]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明体长对环境梯度具有较强的预测作用;随着环境胁迫增加,以K策略（体型大,世代周期长但是食性专一,繁殖力弱,所处环境较稳定)为主的群落组成向由以r策略(体长较小,死亡率高,世代周期短，但繁殖力大、恢复力较强,可以适应严峻的环境)为主的群落组成转变[42]。但在本研究中,平原区底栖动物体长大于山区点位,体长与环境胁迫因子(TP)呈正比的关系与预期结果相反(图4);主要原因可能是一些非昆虫纲但体长较大的物种(如软体动物和寡毛纲等)主要出现平原区点位，它们对较严重的污染有较强的抵抗力,常见于干扰严重的富营养化溪流[39,43]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "山区底栖动物的运动习性主要为滑行者、游泳者、附着者,随着人类干扰的增加,平原区以掘穴者（水丝蚓,摇蚊等)等为主要的运动习性类型(图2)。运动习性主要受到水文地貌变量(如流速等)的影响[4],山区溪流流速较大，底栖动物运动能力普遍较强,可以迅速逃离不良环境;而平原区溪流有机污染物含量高且富营养化较重(图4),溪流生境异质性降低,沉积物增加,以掘穴者等运动能力弱但耐受能力较强的底栖动物性状为主[45",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "与Diaz 等[43]的结果类似,山区的刮食者、捕食性和撕食者个体相对百分比远高于平原区,而集食者和滤食者则多出现在平原区;这是因为随着人类干扰程度的增加,以撕食者和刮食者为主的性状功能无法适应流速减缓、有机物沉积大量沉积的平原区溪流点位生境,平原区溪流以取食沉积物为主的集食者和滤食者性状为主。但Ding 等[39]的研究结果表明干扰点和参照点的取食类型或取食功能团没有显著差异,且与环境变量没有任何相关性,可能原因是取食类型性状对胁迫因子的响应多变,也有可能是受到其他自然因子（如溪流等级、宽度或生物互作)的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究结果证明多数生物性状与环境胁迫都有较好的相关性,其出现频率在参照点和干扰点之间存在显著差异;说明除了生物群落性状结构外,单个性状类别也可以广泛应用于生物监测中。本研究中性状对环境胁迫的响应关系与已有研究一致[4,10],不同生物性状类别对农业影响[46]、底质类型[47]、水体理化性质[48]等环",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "境胁迫做出特定响应。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2功能和性状多样性指数",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明,功能和性状多样性指数是区分渭河流域山区和平原区干扰梯度的有效生物指数。除FEve 外,平原区的功能和性状多样性指数显著低于山区（图3）,河段尺度农业用地百分比和物理栖境是平原区解释功能和性状多样性指数变异的重要环境因子（表3、表4）,严重的环境干扰显著降低了平原区的底栖动物群落的性状和功能多样性[12,39]。同时,TR、TD、FDis 和FRic 与物种丰富度存在正相关关系[49],由于干扰程度增加导致物种丰富度的降低也是导致TR、TD、FDis 和FRic下降的可能原因之一。然而,FEve与物种丰富度呈正交关系[3],且对环境变量没有任何响应性（表3、表4）,可能是导致其在山区和平原区差异不显著的主要原因之一。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究结果发现,平原区河段尺度农业用地面积百分比和物理栖境是解释功能和性状多样性的主要因子。用于本研究中计算功能和性状多样性指数的底栖动物性状主要包括生活史策略和行为选择功能性状等，Richards 等[47]的结果发现,河段尺度的物理栖境变化对底栖动物的生活史策略和行为选择等性状的影响较大,农业用地比例的增加可能导致沉积物增加等物理栖境的改变;同时,农业用地是影响底栖动物生活史策略的重要变量[2]。但流域尺度城镇用地、水温和TN 含量是影响山区功能和性状多样性指数模型的重要环境变量;流域尺度特征(例如城镇用地等)显著改变河流形态和水文特征[4],同时不透水表面积的增加可能会导致水温升高和水体营养盐浓度的改变[17,27],从而影响底栖动物的生物学和生态学性状;Zuellig 等[2]的研究表明,城镇土地利用是影响大部分底栖动物性状分布的重要因子。空间尺度环境变量从较大的流域尺度到较小的河段尺度通过环境过滤作用[50]共同影响底栖动物性状和功能组成及其多样性,因此应加强对不同空间尺度环境变量对底栖动物群落的功能结构的影响研究[51],揭示不同空间尺度环境变量对物种性状和功能影响的机理。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "渭河流域山区和平原生态区的溪流环境变量、底栖动物群落性状组成和功能和性状多样性存在显著差异。山区的高森林覆盖面积和较好的物理栖境和水化学状况,导致以具有无庇护所和以叶片为庇护所材料、外骨骼轻微骨化和骨化良好、草食性、捕食性等生物性状的底栖动物定殖;而具有体壁呼吸、虫体柔软和集食者等生物性状的底栖动物主要在平原区定殖。除了功能均匀度指数外,山区的功能分散度、功能离散度、功能丰富度、Rao二次熵指数、性状多样性和性状丰富度6个指数显著高于平原区,说明山区的生态条件适合维持较高的物种功能多样性。综合RLQ和Fourth-comer 结果表明,体型主要与代表严重人为干扰的环境变量显著正相关;庇护所材料和体长与TP 显著正相关;外骨骼保护性结构、呼吸方式、底质选择和取食类型与河段尺度和流域尺度森林面积显著正相关,但与水温、淤泥含量百分比、TP、流域尺度城镇面积百分比等代表严重人类干扰梯度的环境变量显著负相关;运动习性与TP 显著负相关。GLM模型结果表明,山区和平原生物性状和功能多样性指数受到不同空间尺度土地利用和理化环境变量的影响：流域尺度城镇用地、水温和 TN 含量是影响山区功能和性状多样性指数模型的重要环境变量,但平原区河段尺度农业用地面积百分比和平均水深是影响功能和性状多样性的主要因子。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢南京农业大学水生昆虫分类和水生昆虫实验室的老师和同学在野外采样、底栖动物鉴定和数据分析中提供的帮助。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1]rcalltetbenthic macroinvertebrates.Freshwater Biology，2010,55（7）：1430-1446.2]ZuelgEaceeiblofoUSood",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Freshwater Science，2012,31(4）：1042-1056.[3]Chaalaoolitsoaceebteifamanagement.Fundamental and Applied Limnology/Archiv fur Hydrobiologie，1998,142(4）：415-43.[4]DoledecSaterBouadSpecsatsforfreigcosespaeslogn-pctediveateBiology，1999,42(4): 737-758.[5］张金屯，范丽宏.物种功能多样性及其研究方法.山地学报，2011,29(5）：513-519.[6] 薛倩妮，闫明，毕润成.山西五鹿山森林群落木本植物功能多样性.生态学报，2015，35(21)：7023-7032.[7］蒋万祥，何逢志，蔡庆华.香溪河水生昆虫功能性状及功能多样性空间格局.生态学报，2017，37(6)：1861-1870.[8]DiazS,LavorelS,deBelloF,QuetierF,GrigulisK,RobsonTM.Incorporatingplantfunctionaldiversityffects ineosysteProceedings of the National Academy of Sciences of the United States of America,2007,104(52）：20684-20689.[9］江小雷，张卫国.功能多样性及其研究方法.生态学报，2010，30（10)：2766-2773.[10]StatzerBisleeUselaeersetifooingataespatialales：measecalcomposition of invertebratecommunities in European running waters.Basicand Applied Ecology，20o1,2(1)：73-85.[11]Doledec S,PhilipsN,Townsend C.Invertebratecommunityresponses tolanduseat abroad spatial scale：traitandtax comparedin New Zealand rivers.Freshwater Biology，2011,56(8）：1670-1688.[12］蒋万祥，蔡庆华，唐涛，吴乃成，傅小城，李凤清，刘瑞秋.香溪河大型底栖无脊椎动物空间分布.应用生态学报，208，19（11)：2443-2448.[13］粟晓玲，康绍忠，魏晓妹，邢大韦，曹红霞.气候变化和人类活动对渭河流域入黄径流的影响.西北农林科技大学学报：自然科学版，2007,35(2):153-159.[14]Song JX, Xu Z X,Hui YH, Li HE,LiQ. Instream flow requirements for ower Weihe River. Hydrological Processes,2010,24(24): 3547-3557.[15]Song J X, Xu Z X, Liu C M, Li HE. Ecological and environmental instream flow requirem the Wei River-the largest tributaryof the YellowRiver.Hydrological Processs，2007,21(8）：1066-1073.[16]刘胤汉，管海晏，李厚地，王永，刘晓靖.西北五省(区)生态环境综合分区及其建设对策．地理科学进展，2002，21(5）：403-409.[17] Wang B X,Liu D X,Liu SR, Zhang Y,Lu D Q,Wang L Z. Impacts 0 nization on stream habitats and macroinvertebrate communities in thetributaries of Qiangtang River，China.Hydrobiologia,2012,680(1)：39-51.［18］蔡如星，黄惟灏.浙江动物志 软体动物.杭州：浙江科学技术出版社，1991.[19] MorseJC,YangLF,TianLX.Aquatic InsectsofChinaUsefulforMonitoring WaterQuality.Nanjing:HohaiUniverstyPress，1994.[20] KondolfGM.OE：ungyater：etsofdgravelingoiverhelsEviroentalaagnt9971（4)51.[21］国家环境保护总局《水和废水监测分析方法》编委会 水和废水监测分析方法(第四版).北京：中国环境科学出版社，2002.22]ChiaaaallK,rbC,HllabDGOso,aisCeulatersdelieatiolsetfregional watershed analyses.Logan：Utah Stat University，2006.［23］刘东晓，于海燕，刘朔孺，胡尊英，俞建，王备新.城镇化对钱塘江中游支流水质和底栖动物群落结构的影响.应用生态学报，2012，23(5): 1370-1376.[24segolaeeedefinition of groups with similar traits.Freshwater Biology，200,43（2):175-205.[25]StatzerBppesKresFcoeproductierits，biaedeplettsisfodidaqaticinsects.Freshwater Biology，1997,38(1): 109-135.26 TomanovaS，Useliateraaesofnticcomuityraitsineotopicalreams：elatioshipesosalespatialilityFundamental and Applied Limnology/Archiv fur Hydrobiologie,2007,170(3):243-255.张瀲波，刘东晓，刘朔孺，张勇，童晓立，王备新.钱塘江中游水生昆虫群落功能多样性对土地利用变化的响应.应用生态学报，2013，24(10) : 2947-2954.ColzaniE，SiqueiraurianoMRoqueFOResponsesofaquaticinsectfunctioaldiversitytlandscapechangesinAtaticForest.Biotropica，2013，45（3）：343-350.[29]BecheLA，StaterBichsgradientsofreaivertebratesosseUSAaxoondraiasedaproachodiversityndConservation，2009，18（14）：3909-3930.[30]LarsenSceGedSJExperetalsfditeposioucuedfuncofacoertebatebtemperate streams.River Research and Applications,2011,27(2）：257-267.[31]CorwellWK,SchikDW,AckerlDDAraitbasedstforabiatflering：coexllvoe.Ecolog,876)：4-47.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[32] MasonNWH,ouilotDeeWGilsouctioalss,fuctioaleveessdfuctioaldivergencepriaotsffunctional diversity.Oikos，2005,111(1)：112-118.  \n[33] LaliberteE,egdre.acbsedfraeokforeasigfuctioaldesitfroultipleraitscolo,9）：3.  \n[34] Bota-DukatZosadatictoeasueoffucalstsdoulietitsJoualVegeatic：533-540.  \n[35] MouchetMA，VilegerS，MasonNWH，MouilltD.Functionaldiversitymeasures：anoverviewoftheirredundancyandtheirablittdiscriminate community assembly rules.Functional Ecology，2010,24(4）：867-876.  \n[6]Drade.  \n[37]DrayS,CholerP,DoledecS,Peres-NetoPR,TilerW,PavoineS,terBraak CJF.CombiningthefourthcoerandtheRQetodsforassessing trait responses to environmental variation.Ecology，2014,95(1）：14-21.  \n[38]Leps $\\mathrm { M }$ ,TonkinJD,DahmVHaseP,SundermannA.Disentanglingnvironentaldriversofbenthicinvertebrateassemblages：herolefspatialscalenderscapeheterogeneityiultiplestreoreviroentSienceoftheTotalEnvroent015,536：46-6.  \n[39]DingN,Yang WF,ZhouYL,Gonzlz-BergonznIZhangJ，ChenK,VidalN,JeppesenE,LiuZW,WangBX.Diferentresposesoffunctionaltraitsanddiversityofstreammacroinvertebrates toenvironmentalandspatialfactorsintheXishuangbannawatershec of the upper MekongRiver Basin，China.Science of the Total Environment,2017,574：288-299.  \n[40] Chadwick MA. Stream ecology:structureand function of running waters.Freshwater Biology，2Oo8，53（9）：1914.  \n[41] ChessmanBC.Relatoshipseeeloticacrovertebratetitsdresposestetreedought.Freshatero15,）：-6.  \n[42] MenezesS，BaidJaresVeodoveofacoetebaterdouiteptosasfoterbiomonitoring.Journal of Applied Ecology，2010,47(4）：711-719.  \n[43]Diaz AlosoS,GutiaRValtraisofstreamacrovertebatesfr-aridcatcentpaesoplxenvironmental gradients.Freshwater Biology，2008,53(1）：1-21.  \n[44] FeldCK，Herinouitystrucueofuncotsofontaltrsoentacrovertebatestfetsatalale.Freshwater Biology，2007,52(7）：1380-1399.  \n4]Usselesealsiceessetcchange.River Research and Applications,2002,18(2）:197-211.  \n[46]Dlededaaeongrassland stream invertebratecommunities.Journal of the North American Benthological Society，2O06,25(1）:4-60.  \n[47] RichardsC，HaroR,JohnsonL，HostG.Catchmentandrach-scalepropertiesasindicatorsofmacroinvertebratespeciestraits.FresaterBiology，1997，37(1)：219-230.  \n[48] GayraudS,tad,bllFUeataceebaeaforogfrivers：an initial assessment of alternative metrics Freshwater Biology，2003，48（11）：2045-2064.  \n[49]SchmeraD，HeinoJ，PodaniJ，ErosT，DledecS.Functionaldiversity：areviewofmethodologyandcurrntknowledgeinfreshwatermacroinvertebrate research. Hydrobiologia，2017,787(1）: 27-44.  \n[50] PoffNL.LandapefisndseisritsowadsecansticuderstadingdproirolJoualofteAicanBenthological Society，1997,16(2): 391-409.  \n[51]OldenJD,RooneyTP.Ondefiingandquantifyingbiotichomogenzatio.GlobalEcologyandBiogegahy6,15（2）：10.A",
+        "page_idx": 12
+    }
+]

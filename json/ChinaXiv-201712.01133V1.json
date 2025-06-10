@@ -1,0 +1,421 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于边缘检测算子的Huber正则化阈值选择方法在低剂量CT重建中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张善立，张华，胡德斌，曾栋,边兆英,路利军，马建华，黄静南方医科大学生物医学工程学院，广东广州510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的研究两种不同的Huber正则化阈值自适应选取方法及其在低剂量CT送代重建中的应用。方法针对低剂量CT重建采用基于Huber正则化的迭代重建技术,Huber正则化阈值的选取分别基于全局和局部边缘保持算子。结果仿真数据的实验结果表明，两类Huber正则化阈值自适应选取方法均能较好地抑制重建图像中的噪声和伪影。结论两类Huber正则化阈值自适应选择方法均可实现低剂量CT优质重建。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：低剂量CT;迭代重建；Huber正则化；阀值选择 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Edge-detecting operator-based selection of Huber regularization threshold for low-dose computed tomography imaging ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Shanli, ZHANGHua,HUDebin, ZENG Dong, BIAN Zhaoying,LULijun, MA Jianhua, HUANG Jing School ofBiomedical Engineering,Southern Medical University,Guangzhou,51o515,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Objective Tocompare two methods for threshold selection in Huber regularizationfor low-dosecomputed tomography imaging. Methods Huber regularization-based iterative reconstruction (IR)approach was adopted for low-dose CTimage reconstruction and the threshold of Huber regularization was selected based on global versus local edge-detecting operators.Results Theexperimental resultson the simulation data demonstrated that bothof the two threshold selection methods in Huber regularizationcould yield remarkable gains in terms of noisesuppressonand artifact removal. Conclusion Both of the two methodsfor threshold selectionin Huber regularizationcan yield high-quality images inlow-dose CT image iterative reconstruction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: low-dose CT; iterative reconstruction; Huber regularization; threshold choice ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "临床X射线CT检查中的高剂量X射线照射会引发白血病、癌症和其他多种遗传性疾病[。如何在不影响临床诊断信息的条件下，最大限度地降低CT放射剂量已成为近年来CT领域亟待解决的关键性课题。当前，诸多策略相继被提出以实现低剂量CT成像[2-3],其中降低管电流和(或者)减少曝光时间(mAs)是最为简单的操作方法[4]。然而，该方法虽可以一定程度上降低辐射剂量，但是将导致相应投影数据中的量子噪声急剧增加,表现为重建图像中的大量噪声和伪影[5]。针对此问题,迭代重建方法(iterative reconstruction,IR)被引入至CT图像重建中,以实现优质的低剂量成像[6]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了有效地消除噪声并保持图像的结构和边缘信息，IR图像重建模型中需要引入先验信息加以约束，数学上此约束亦称为正则化(也称为惩罚函数)。通常，正则化多设计成一个二次惩罚函数，来惩罚图像某一局部区域中不同像素点间的灰度差值，其效果是噪声得到抑制而部分边缘细节也会丢失[8。为了克服二次函数的上述缺点,多种边缘保持正则化被提出[9],其中Huber正则化最具有代表性[10]。Huber正则化采用一个非二次的惩罚函数代替原来的二次惩罚函数，且满足凸性和对称性，使得它能在减少噪声的同时有效地保持图像边缘信息。然而，Huber正则化的一个主要缺点是阈值需要依据具体重建目标人工选定，大大限制了其更为广泛的实际应用。针对此问题，许多文献讨论了Huber正则化值选取方法[1-5]。例如，Yang等[12]在Huber函数中引入了另一个阈值以便区分图像的边缘与伪影;Rousseeuw等[13]利用鲁棒性统计方法来检测奇异值，再利用全局边缘检测算子实现阀值选择；Black和Sapio[14利用图像的局部统计特性，提出了用局部边缘检测算子进行阈值选择;He等5定义了一个比例因子，用拉普拉斯卷积核作为离散平滑算子对阈值进行限制。鉴于上述，本文重点研究基于全局和局部边缘检测算子的两种不同的",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huber正则化阈值自适应选取方法，并将其应用于基于投影数据统计特征的惩罚加权最小二乘(penalizedweightedleastsquares,PWLS)低剂量CT图像迭代重建中，其算法性能通过数值仿真进行验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1惩罚加权最小二乘CT重建算法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在不考虑散射噪声的情况下，CT的测量可以表示为一个离散的线性系统：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\scriptstyle { y = H \\mu }$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\boldsymbol { \\mu } = \\left( \\mu _ { 1 } , \\mu _ { 2 } , \\ldots , \\mu _ { n } \\right) ^ { T }$ 为待重建图像的衰减系数。 $y { = } ( y _ { I } , y _ { 2 } { , } { \\ldots } y _ { M } ) ^ { T }$ 表示测量得到的弦图数据(经过系统校正和对数变换之后的投影数据),其中 $\\mathbf { \\nabla } ^ { \\bullet } T ^ { \\bullet }$ 代表矩阵的转置， $H$ 表示大小为 $\\mathbf { M } { \\times } \\mathbf { N }$ 的系统矩阵，元素 $H _ { i , }$ 代表像素对投影射线的权值。CT图像重建的目的是从测量数据 $y$ 中估计出衰减系数 $\\mu _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据CT的测量模型(1)和最大后验(maximumaposteriori,MAP)估计方法，带有正则化项 $R \\left( \\mu \\right)$ 的PWLS图像重建能量方程可表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu ^ { * } = \\underset { \\mu \\geqslant 0 } { \\arg \\operatorname* { m i n } } \\Bigl \\{ \\left( y - H \\mu \\right) ^ { \\prime } \\sum ^ { - 1 } \\bigl ( y - H \\mu \\bigr ) + \\beta R \\left( \\mu \\right) \\Bigr \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\displaystyle \\sum$ 表示元素为 $\\cdot \\delta _ { i } ^ { 2 }$ 对角矩阵， $\\delta _ { i } ^ { 2 }$ 为弦图数据 $y _ { i }$ 的方差， $\\beta .$ 为一个用来控制正则化强度的超参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们可以利用多种方法[816来确定公式(2)中的参数 $\\cdot \\delta _ { i } ^ { 2 }$ ,在本文中,我们使用 $\\mathbf { M } \\mathrm { { a } }$ 等[1提出的均值方差理论：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { i } ^ { 2 } = \\frac { 1 } { I _ { 0 } } \\mathrm { e x p } \\big ( \\bar { p } _ { i } \\big ) \\bigg ( 1 + \\frac { 1 } { I _ { 0 } } \\mathrm { e x p } \\big ( \\bar { p } _ { i } \\big ) \\big ( \\delta _ { e } ^ { 2 } - 1 . 2 5 \\big ) \\bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $I _ { 0 }$ 为入射X线强度， $\\bar { \\phi } _ { i }$ 为在像素处弦图数据的均值， $\\delta _ { e } ^ { 2 . }$ 为背景电子噪声的方差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 Huber正则化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统上,式(2)中的正则化项 $R { \\big ( } \\mu { \\big ) } .$ 通过对图像中相邻像素间灰度的差值进行加权求和计算求得[8，可以描述为如下形式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR \\left( \\mu \\right) = \\sum _ { j } R \\left( \\mu \\right) = \\sum _ { j } \\sum _ { k \\in S _ { j } } \\omega \\left( k , j \\right) \\varphi \\left( \\mu _ { j } - \\mu _ { k } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $j$ 为图像域中所有像素的索引， $S _ { j }$ 表示二维空间第 $j$ 个像素点的邻域。权重 $\\omega ( k , j )$ 表示像素k和像素 $j$ 相互关系的正常数,为正值并且是对称的,即 $\\omega \\big ( k , j \\big ) \\geqslant 0$ 且 $\\omega ( k , j ) = \\omega ( j , k ) _ { \\circ }$ $\\omega ( k , j )$ 通常被设定为邻域S内像素k和j之间距离的反比。 $\\varphi$ 表示一个凸的正势函数并且满足 $\\varphi ( 0 ) = 0 _ { \\circ }$ $\\varphi ( t )$ 的选择方法有许多种，本文使用Huber正则化 $\\varphi _ { H u b e r }$ ,其定义为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi _ { H u b e r } ( t ) = \\left\\{ \\begin{array} { l l } { t ^ { 2 } / 2 , } & { | t | \\leqslant \\delta } \\\\ { \\delta | t | - \\delta ^ { 2 } / 2 , } & { | t | > \\delta } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，Huber正则化为一个凸函数，且满足对称性，它可以根据图像当前像素点与其邻域内其他像素点间的灰度差值来调整对不连续区域的惩罚，这一作用由其阈值 $\\overleftarrow { \\partial }$ 实现。阈值δ把Huber正则化分为3个部分，当图像梯度满足 $t \\left| \\leqslant \\delta \\right.$ 时，正则化的二次项部分对图像连续区域进行较重的惩罚；当梯度 $t \\left| > \\delta \\right|$ 时，正则化的线性部分对图像进行较轻的惩罚来保持图像的锐利特性，比如图像的边缘。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在CT图像重建中带有Huber正则化的PWLS算法(PWLS-Huber)的目标函数可以写成以下形式：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d94bd5d97b9c39e50670c5d6c081131a19d8ca2f5b2da72fcc9ab58f37063157.jpg",
+        "img_caption": [
+            "图1Huber正则化 Fig.1 Example of Huber regularization with different thresholds. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu ^ { * } = \\underset { \\mu > 0 } { \\arg \\operatorname* { m i n } } \\biggr \\{ \\big ( y - H \\mu \\big ) \\sum ^ { - 1 } \\bigl ( y - H \\mu \\bigr ) + \\int \\displaylimits _ { \\mu \\ u { H } _ { H u b e r } } \\bigl ( \\mu \\bigr ) \\biggr \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中Huber正则化项为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { H u b e r } ( \\mu ) = \\sum _ { j } \\sum _ { k \\in S _ { j } } \\omega ( k , j ) \\varphi _ { H u b e r } \\big ( \\mu _ { j } - \\mu _ { k } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在实际运用中，我们用一种改进的共轭梯度法来优化此目标函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3Huber正则化阈值选择方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Huber正则化的主要优点是它能根据图像当前像素点与其相邻像素点间的灰度差值来调节对不连续区域的惩罚,这一作用由其阈值δ实现。因此,对Huber函数来说选择一个合理的阈值是非常重要的。针对此问题，本文主要研究基于全局和局部边缘保持算子的Huber正则化阈值选取方法以及其在低剂量CT图像重建中的应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1全局边缘检测方法各向异性扩散被视为一个稳健统计学过程，它能从含有噪声的数据中估算出分段平滑的图像，已经在图像边缘保持中得到了广泛应用。根据Perona和Malik[的传统公式，具有较大梯度幅值的像素点被视为奇异点，又被视为图像的边缘。这一解释可用来定义和检测图像分段平滑区域的边界。当一个像素点的梯度幅值小于阈值 $\\delta$ 时，我们认为该像素点不属于奇异点；否则，该像素点属于奇异点。全局边缘检测方法的主要思想是阈值δ应该描述整幅图像数据的主要方差特性[13],即阀值应该描述图像中除边缘外其他像素点梯度的变化。根据这一思想，我们用稳健统计学方式计算出图像所有像素点梯度的方差，然后利用各向异性扩散方法确定空间变化的边缘阈值。因此，对于阈值 $\\delta$ 的鲁棒性测量可通过如下方法：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\hat { \\sigma } _ { G } = 1 . 4 8 2 6 M A D ( \\nabla I ) } } \\\\ { { = 1 . 4 8 2 6 m e d i a n \\Big ( \\Big \\| \\bigtriangledown I - m e d i a n _ { I } ( \\big \\| \\bigtriangledown I \\| ) \\Big \\| \\Big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $M A D$ 表示中位数绝对偏差。鉴于均值为0方差为1的标准正态分布的中位数绝对偏差是 $0 . 6 7 4 5 =$ 1/1.4826，故将常数项设为1.4826。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2局部边缘检测方法基于全局边缘检测算子的Huber正则化阈值对于整幅图像来说是相同的，然而我们也可以根据图像的局部统计特性来构造一个可变化的阈值：对平滑的区域，选择较大的阈值以提高去除噪声和伪影的能力；对纹理较重的区域，选择较小的阈值，以保持图像的边缘。局部边缘检测方法描述的是相对于局部图像而言怎样通过图像的梯度信息确定某一模块内的阈值 $\\dot { \\langle \\delta _ { L } ( \\ b { \\mathscr { p } } , \\ b { q } ) ^ { [ 1 4 ] } }$ ,其主要思想是 $\\cdot \\delta _ { L } \\big ( \\rho , q \\big )$ 应该描述图像中某局部区域数据的方差特性。 $\\delta _ { L } \\big ( \\rho , q \\big )$ 在整个图像数据中是变化的，某一点是否属于图像边缘由局部图像梯度的变化特性决定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "局部边缘检测方法和全局边缘检测方法有相同的稳健统计学理论基础。特别地，我们考虑在图像的一个大小为n $\\iota \\times$ n的模块内(这里的模块是一个图像像素的空间位置函数，这种模块覆盖整个图像),计算其对应的局部阈值 $\\dot { \\delta } _ { L } \\big ( \\rho , q \\big )$ ，公式可以写为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\delta _ { L } \\big ( \\boldsymbol { p } , \\boldsymbol { q } \\big ) = 1 . 4 8 2 6 M A D _ { - \\frac { n } { 2 } < i , j < \\frac { n } { 2 } } \\big ( \\nabla I _ { \\boldsymbol { p } + i , \\boldsymbol { q } + j } \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2实验与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用XCAT体模[18生成仿真CT投影数据，并用上述两种方法对该投影数据分别进行重建。实验中，标准剂量数据剂量为 $5 8 0 \\mathrm { m A s }$ ，低剂量为 $2 3 . 2 \\mathrm { m A s } ,$ 。投影数据采用文献[16]中所述方法生成，其中，仿真CT扫描的成像参数如下：管电压为 $1 2 0  { \\mathrm { k V } }  { \\mathrm { p } }$ ，旋转1周采样值为1160;探测器单元的个数为672,大小为 $0 . 8 4 4 8 ~ \\mathrm { m m }$ X射线源到探测器和旋转中心的距离分别为 $1 3 6 1 ~ \\mathrm { m m }$ 和 $7 4 6 ~ \\mathrm { m m }$ ；体模大小为 $5 1 2 \\times 5 1 2$ ；层厚为 $3 ~ \\mathrm { m m }$ 。实验平台为 $\\mathrm { I n t e l ( R ) P e n t i u m ( R ) C P U ~ G 6 2 0 ~ \\textcircled { \\omega } ~ 2 . 6 0 ~ G H z }$ 四核处理器,3GB内存的PC机,程序采用Matlab实现。基于本文研究的两类Huber正则化阈值自适应选取方法的PWLS-Huber算法迭代设定为50次,耗时大约为 $4 0 \\mathrm { { m i n } _ { \\circ } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用以下两种图像质量测度来评价重建图像质量：局部信噪比(local signal-to-noise ratio,lSNR)和相对均方根误差(relative root mean square error,rRMSE),其计算公式分别如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { l S N R } = \\frac { \\displaystyle \\frac { \\frac { 1 } { Q } { \\sum _ { m = 1 } ^ { Q } \\mu _ { m } } } { \\left[ \\displaystyle \\frac { 1 } { Q } { \\sum _ { m = 1 } ^ { Q } \\left( \\mu _ { m } - \\frac { 1 } { Q } { \\sum _ { m = 1 } ^ { Q } \\mu _ { m } } \\right) ^ { 2 } } \\right] } } { \\displaystyle \\sqrt { \\frac { 1 } { Q } { \\sum _ { m = 1 } ^ { Q } \\left( \\mu _ { m } - \\frac { 1 } { Q } { \\sum _ { m = 1 } ^ { Q } \\mu _ { m } } \\right) ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr R M S E = \\sqrt { \\frac { \\displaystyle { \\sum _ { m = 1 } ^ { Q } \\left| \\mu _ { m } - \\mu _ { G , m } \\right| ^ { 2 } } } { \\displaystyle { \\sum _ { m = 1 } ^ { Q } \\left| \\mu _ { G , m } \\right| ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mu$ 表示低剂量投影数据重建出的图像， $\\mu _ { G }$ 表示标准图像， $m$ 是感兴趣区域(RegionofInterest,ROI)内像素的索引， $Q$ 是ROI内像素点的数量。在实验中，标准图像由在 $1 2 0 \\mathrm { k V p } . 5 8 0 \\mathrm { m A s }$ 条件下获得的投影数据采用基于hann窗的FBP算法重建得到。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2显示了采用仿真数据重建得到的XCAT体模图像和低剂量CT图像。图2A为标准剂量图像，结构清晰，几乎不含任何噪声和伪影，作为参照图像。图2B为在$2 3 . 2 \\mathrm { m A s }$ 条件下(除标准图像外，其余图像的投影数据均在 $2 3 . 2 \\mathrm { m A s }$ 条件下获得)获得的投影数据采用FBP重建得到的图像。和图2A相比，图2B中含有严重的噪声和伪影。图2C为采用基于全局边缘检测算子的PWLS-Huber算法重建得到的图像。从图2C可以看出图像中条形伪影明显减少，噪声水平大为降低，图像质量得到显著提高。图2C为采用基于局部边缘检测算子的PWLS-Huber算法重建得到的图像。在图2D中我们得到了与图2C相似的结果。由此可以看出，这两种自适应Huber正则化阈值选择方法，均可得到比较理想的结果一一大部分噪声和伪影得到了较好的抑制。进一步观察可以发现，虽然图2C和2D中伪影均得到了较好的抑制，但是仍有部分伪影存在，图像边缘的锐利度在一定程度上降低。相比之下，图2C对图像边缘保持的相对较好，看起来较为清晰；图2D则对的噪声的抑制效果较好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了定量分析这两种Huber正则化阈值选择方法的差异，我们计算了对应于图2A中感兴趣区域的ISNR和rRMSE,结果如表1所示。可以看出，相对于FBP重建图像，采用基于全局和局部边缘检测算子的PWLS-Huber算法重建得到的图像1SNR显著提高、rRMSE明显减小,具有更高的增益。此外,局部边缘检测算子在对连续区域的噪声抑制方面的表现优于全局边缘检测算子。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef4a7a8ce70eea11bf2699ced91ecee2d09230c6aef893bc3ba250fb66adf05b.jpg",
+        "img_caption": [
+            "图2仿真投影数据重建出的XCAT体模图像和低剂量CT图像 Fig.2 XCAT phantom image and low-dose images reconstructed from the simulated projection data.A:Image reconstructed by the FBP method with optimal hanning filter from the projection data acquired with 580 mAs;B:Image reconstructed by the FBP method with ramp filter from the projection data acquired with 23.2 mAs; C: Image reconstructed by the PWLS-Huber algorithm with the global-edge-detecting operator from the projection data acquired with 23.2 mAs $( \\beta ^ { = 1 . 0 \\times 1 0 ^ { 3 } } )$ ;D: Image reconstructed by thePWLS-Huberalgorithm with the.local-edge-detecting operator from theprojection data acquired with $2 3 . 2 ~ \\mathrm { \\ m A s }$ （20 $( \\stackrel { \\bullet } { \\boldsymbol { n } } = 9 \\times 9$ $\\beta ^ { = 1 . 0 \\times 1 0 ^ { 3 } }$ .The display option is [0, 0.03]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3中绘出了对应于图2中各重建图像的垂直剖面线，鉴于剖面线中含有512个像素点，若全部显示则难以区分各重建方法，故仅截取其中一段(即图2A中红色线段所示)显示，区间为[330,360]。由图3可以看出，在目标区域基于两种不同Huber正则化阈值选择方法的PWLS-Huber方法的重建值和标准值都较为接近，但局部边缘检测算子比全局边缘检测算子损失了更多的图像分辨率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于全局边缘检测方法，Huber正则化的阈值计算出来就固定不变了。但是，对于局部边缘检测方法，每个小模块内的阈值是不同的。为了证明模块大小对重建图像质量的影响，我们对局部边缘检测方法的做了进一步的实验。图4展示了在不同模块大小情况下局部边缘检测方法对 $\\cdot \\delta _ { L } \\big ( \\rho , q \\big )$ 的估计值。亮的区域对应图像中纹理重的区域,具有更高的 $\\displaystyle | \\delta _ { L } \\bigl ( \\rho , q \\bigr )$ 值。可以看出，当所选模块较小时，不连续区域中不同模块间阈值的差异比较明显;随着模块的增大，不同模块间阈值的差异也逐渐减小。图5展示了在不同模块大小情况下，采用基于局部边缘检测算子的PWLS-Huber算法重建得到的图像。可以看出 $\\cdot \\delta _ { L } \\big ( \\rho , q \\big )$ 大小变化对重建图像的质量影响不明显。为了进一步量化分析，表2给出了对应图5所示图像的不同ROI的ISNR和rRMSE。可以看出，模块大小从 $5 { \\times } 5$ 到 $1 7 \\times 1 7$ 变化的过程中重建图像的质量变化很小。当模块大小为 $9 { \\times } 9$ 时，我们可以得到一幅质量",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ae1d375ddb38896997bcbd59dac7f26980684417354fc0dbbe02676f2530846.jpg",
+        "table_caption": [
+            "表1对应于图2A中所示3个ROI的1SNR和rRMSE Tab.1 LSNR and rRMSE measured on the ROIs as indicated by the squares in Fig.2A "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Method</td><td colspan=\"2\">ROI1</td><td colspan=\"2\">ROI2</td><td colspan=\"2\">ROI3</td></tr><tr><td>ISNR</td><td>rRMSE</td><td>ISNR</td><td>rRMSE</td><td>ISNR</td><td>rRMSE</td></tr><tr><td>FBP</td><td>14.78</td><td>0.0674</td><td>12.90</td><td>0.0803</td><td>3.59</td><td>0.2761</td></tr><tr><td>PWLS-Huber (Global)</td><td>64.02</td><td>0.0187</td><td>66.78</td><td>0.0217</td><td>17.59</td><td>0.0683</td></tr><tr><td>PWLS-Huber (Local)</td><td>64.64</td><td>0.0186</td><td>67.48</td><td>0.0216</td><td>17.64</td><td>0.0680</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/86e14379868a3c69700366c7795eb93e9579a7742cc71b7ff7fc28a396a875c6.jpg",
+        "img_caption": [
+            "图3对应于图2A中红色线段 $\\scriptstyle \\left( \\mathrm { x } = 4 0 8 , \\mathrm { y } = \\left[ 3 3 0 , 3 6 0 \\right] \\right)$ 的垂 直剖面曲线 Fig.3 Vertical profiles located at the pixel position $\\scriptstyle x = 4 0 8$ and y from 330 to 360 as indicated by the red line in Fig.2A. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1648a31cda934c96cf57753fe702d24e50965496d53cb000d2c0d5334c35d91a.jpg",
+        "img_caption": [
+            "图4局部边缘检测方法对应的 $\\delta _ { L } \\big ( \\rho , q \\big )$ 值的估计，亮的区域对应较大的 $\\vert \\delta _ { L } \\left( \\rho , q \\right)$ 值"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Local estimate of scale $\\delta _ { L } \\big ( \\rho , q \\big ) .$ Bright areas correspond to larger values of $\\delta _ { L } \\big ( \\rho , q \\big ) . A$ $n = 5 \\times 5 .$ B: $n { = } 9 { \\times } 9 .$ $c$ $n { = } 1 3 { \\times } 1 3$ $D$ $\\scriptstyle n = 1 7 \\times 1 7$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2308838031b408d09ed78ae7bdedb18772c91e46c9ac2f85521b23a00a46369.jpg",
+        "img_caption": [
+            "图5采用基于局部边缘检测算子的PWLS-Huber算法重建得到 的图像 Fig.5Images reconstructed by the PWLS-Huber algorithm with the local-edge-detecting method of different patch size.A: $n { = } 5 { \\times } 5 ;$ B: $scriptstyle n = 9 \\times 9$ ;C: $_ { n = 1 3 \\times 1 3 }$ ；D: $n { = } 1 7 { \\times } 1 7$ The display option is [0, 0.03]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "相对较高的图像。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对Huber正则化的阈值需要依据具体重建目标人工选定的问题，本文主要研究了基于全局和局部边缘保持算子的Huber正则化阀值选取方法以及其在低剂量CT图像重建中的应用，并且对他们做了定性和定量的测量与分析。实验结果表明局部边缘检测方法在对连续区域的噪声抑制方面的表现优于全局边缘检测方法。这可能是由于由噪声引起的条形伪影区域和高衰减区域的 $\\lbrack \\delta _ { L } \\big ( \\boldsymbol { \\rho } , \\boldsymbol { q } \\big )$ 值相对较大。但另一方面，从图像过度平滑的边缘可以看出，局部边缘检测方法比全局边缘检测方法牺牲了更多的图像分辨率。综上所述，这两种基于稳健统计学的Huber正则化阈值选取方法对噪声和伪影的抑制效果较好，各有优点，在使用时，可以根据对重建图像质量的具体要求加以选择。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/312db48b88d1b920300f88d142cc0f970ce3f927c341a16d6e7b886e2013c94c.jpg",
+        "table_caption": [
+            "表2对应图5所示图像不同ROI的1SNR和rRMSE Tab.2 LSNR and rRMSE measures on the ROIs in Fig.5 with different local patch size "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Patch size</td><td colspan=\"2\">ROI1</td><td colspan=\"2\">ROI2</td><td colspan=\"2\">ROI3</td></tr><tr><td>ISNR</td><td>rRMSE</td><td>ISNR</td><td>rRMSE</td><td>ISNR</td><td>rRMSE</td></tr><tr><td>5×5</td><td>64.90</td><td>0.0185</td><td>67.44</td><td>0.0216</td><td>17.61</td><td>0.0679</td></tr><tr><td>9×9</td><td>64.64</td><td>0.0186</td><td>67.48</td><td>0.0216</td><td>17.64</td><td>0.0680</td></tr><tr><td>13×13</td><td>64.32</td><td>0.0186</td><td>67.39</td><td>0.0217</td><td>17.63</td><td>0.0680</td></tr><tr><td>17×17</td><td>64.20</td><td>0.0186</td><td>67.31</td><td>0.0217</td><td>17.61</td><td>0.0681</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Brenner DJ,Hall EJ.Computed tomography--an increasing source of radiation exposure[J].N Engl JMed,2007,357(22): 2277-84.   \n[2]Yu L,Liu X,Leng S,et al. Radiation dose reduction in computed tomography: techniques and future perspective[J]. Imaging Med, 2009,1(1): 65-84.   \n[3]Kalender WA,Wolf H, Suess C,et al.Dose reduction in CT by on-line tube current control: principles and validation on phantoms and cadavers[J].Eur Radiol,1999,9(2): 323-8.   \n[4]Yazdi M, Beaulieu L.Artifacts in spiral x-ray CT scanners:problems and solutions[J].Int JBiol Med Sci,2009,4(3): 135-9.   \n[5]Li TF,Xiang L,Jing W,et al. Nonlinear sinogram smoothing for low-dose X-ray CT[J].IEEE Trans Nuclear Sci,20O4,51(5): 2505-13.   \n[6]Elbakri IA，Fessler JA.Statistical image Reconstruction for polyenergetic X-ray computed tomography[J].IEEE Trans Med Imaging,2002,21(2): 89-99.   \n[7]Wang J,Li T, Xing L. Iterative image Reconstruction for CBCT using edge-preserving prior[J].Med Phys,2009,36(1):252-60.   \n[8]Wang J,Li T,Lu H,et al. Penalized weighted least-squares approach to sinogram noise reduction and image Reconstruction for low-dose X-ray computed tomography [J]. IEEE Trans Med Imaging,2006,25(10): 1272-83.   \n[9]Yu DF,Fessler JA. Edge-preserving tomographic Reconstruction with nonlocal regularization[J].IEEE Trans Med Imaging,2002,21 (2): 159-73.   \n[10]Shulman D,Herve JY.Regularization of discontinuous flow fields [C].Proc Workshop on Visual Motion,1989:81-86.   \n[11]Shi M, Yi Q, Gong J.A New deblocking algorithm based on wavelet transform and MRF for DCT-coded images [C].Conference on Electricaland Computer Engineering,2006.   \n[12]Yang J,Wu H.An improved Huber-MAP post filtering method. International Symposium on Communications [C].Control and Signal Processing,2008.   \n[13]Rousseeuw PJ,Leroy AM. Robust regression and outlier detection [M].New York: Wiley,1987.   \n[14]Black MJ, Sapiro G.Edges as outliers: anisotropic smoothing using local image statistics [C].Proc Scale-Space Theories in Computer Vision,1999: 259-70.   \n[15]Hu H, Kondi LP.Choice of threshold of the Huber-Markov prior in MAP-based video resolution enhancement [C].Conference on Electrical and Computer Engineering,2004.   \n[16]Ma JH,Liang ZR,Fan Y,et al. Variance analysis of $\\mathbf { \\boldsymbol { x } }$ -ray CT sinograms in the presence of electronic noise background[J].Med Phys,2012,39(7):4051-65.   \n[17]Perona P,Malik J. Scale-space and edge detection using anisotropic diffusion[J].IEEE Trans Pattern Ana Mach Intell,1990,12(7): 629-39.   \n[18]Segars WP, Sturgeon G,Mendonca S,et al.4D XCAT phantom for multimodality imaging research [J].Med Phys,2010,37(9): 4902-15. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(编辑：黄开颜）",
+        "page_idx": 4
+    }
+]

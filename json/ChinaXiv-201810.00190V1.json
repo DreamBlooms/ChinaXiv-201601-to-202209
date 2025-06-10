@@ -1,0 +1,402 @@
+[
+    {
+        "type": "text",
+        "text": "Stable isotope analysis of water sources for Tamarix laxa in the mega-dunes of the Badain Jaran Desert, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Jinhu1,²，WANG Nai'angl\\*，NIU Zhenmin¹， SUN Jie1,DONG Chunyu’, ZHANG LyuLyu1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lCollege of Earth and Environmental Sciences,Lanzhou University,Lanzhou 73oooo,China;   \n2 State Key Laboratory Breeding Baseof Gansu Desertificationand Aeolian Sand Disaster Combating,Gansu Desert Control Research Institute,Lanzhou 730070, China;   \n3Department of Geography, University of California,California 90095,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The complex interactions in desert ecosystems between functional types and environmental conditions could be reflected by plant water use paterns. However,the mechanisms underlying the water use patterns as well as the water sources of Tamarix laxa in the mega-dunes of the Badain Jaran Desert, China,remain unclear. This study investigated the water sources and water use patterns of $T .$ laxa using the stable oxygen isotope method. The $\\delta ^ { 1 8 } \\mathrm { O }$ values of xylem water, soil water in different layers (0-200 cm),rainwater,snow water,lake water,atmospheric water vapor, condensate water,and groundwater were measured.The sources of water used by $T .$ laxa were determined using the IsoSource model. The results indicate that $T .$ laxa mainly relies on soil water. At the beginning of the growing season (in May),the species is primarily dependent on water from the middle soil layer $( 6 0 - 1 2 0 \\ \\mathrm { c m } )$ and deep soil layer $( 1 2 0 - 2 0 0 ~ \\mathrm { c m } )$ . However, it mainly absorbs water from the shallow soil layer $\\left( 0 { - } 6 0 ~ \\mathrm { c m } \\right)$ as the rainy season commences. In September, water use of $T .$ laxa reverts to the deep soil layer $( 1 2 0 - 2 0 0 ~ \\mathrm { c m } )$ ). The water use patterns of $T .$ laxa are closely linked with heavy precipitation events and soil water content. These findings reveal the drought resistance mechanisms of $T .$ laxa and are of significance for screening species for ecological restoration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: stable oxygen isotope; water source; water use patern; soil water; stem water; mega-dune; Tamarix laxa ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tamarix laxa,an important shrub with the height of $1 . 5 { - } 3 . 0 \\ \\mathrm { m }$ in arid and semi-arid regions,is widely distributed on desertified and salinized land (Wu et al.,199O). Globally,there are more than 90 species in the genus Tamarix, which are mainly distributed in western Europe,Asia, and southwestern Africa.In China,T. laxa is widely distributed in the northern part, including the Hexi Corridor, Tengger Desert and Badain Jaran Desert. T. laxa has a well-developed root system, a strong germination ability and also a high ecological adaptability, and possesses adaptations for wind defense,sand fixing,water and soil retention,and feed value (Yin,1995; Horton and Clark, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2001;Wu et al.,2OO9; Polacik and Maricle,2O13). Thus,this species has a great potential for desertification control and ecological restoration in arid and semi-arid regions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "T. laxa is a shrub with excellent wind and sand fixation functions, growing in saline sandy lands,lakeshores,canal sides,river terraces,and river floodplains.It is well known that in desert environments,water is the main factor limiting the distribution，growth,and development of vegetation. Surprisingly, we discovered that in the southeast of the Badain Jaran Desert,T. laxa plants with the height approximately up to $3 . 0 { - } 4 . 0 \\ \\mathrm { m }$ and a ground diameter of up to $6 . 3 ~ \\mathrm { c m }$ are distributed in the upper and middle sections of 14 mega-dunes near the Dashazao Lake,Hulai Jaran and Zhalate Lake. These plants are generally located on the leeward slopes. T. laxa is assumed to be a typical groundwater-dependent plant species, with a well-developed root system relying on groundwater to survive (Gries et al., 2O03; Yu et al., 2O17). However, the mega-dunes of the Badain Jaran Desert where $T .$ laxa distributed have a relative height of $1 0 1 { - } 2 4 4 \\mathrm { m }$ ,making access to groundwater difficult (Yang et al.,2O14).Thus, it is interesting to explore the sources of water used by T. laxa in this region,and to understand water use patterns of T. laxa. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous studies on Tamarix have mainly focused on their physiological and ecological characteristics, community structures and leaf functions (Peng et al.,2O1O; Ma et al.,2O13; Zhao et al.,2017).The water sources of Tamarix have been explored in the Heihe River Basin, Junggar Basin,Qaidam Basin and Dunhuang oasis by many researches (Zhao et al., 2Oo8; Zhou et al., 2011; Yin et al., 2012; Zhou et al.,2013; Xing et al.,2014; Cui et al., 2017). To date,no water isotope study has been conducted to explore the water sources and water use patterns of T. laxa in desert environments, especially for mega-dunes. As a consequence of global climate change, significant groundwater depletion has occurred in the transition zone between deserts and oases, resulting in vegetation losses (Xu, 2OO8; Qin and Stocker, 2O14). Thus, investigation into water sources and water use patterns of desert plants is essential to ecosystem protection and restoration. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Generally, isotopic signatures for both $^ { 1 8 } \\mathrm { O } / ^ { 1 6 } \\mathrm { O }$ （204号 $( \\delta ^ { 1 8 } \\mathrm { O } )$ and deuterium/hydrogen ratio (δD） vary in different types of water resources (Dansgaard,1964). Xylem water can reflect the isotopic composition of the water used by plant species (Dawson,1993; Dawson and Ehleringer,1998). Hence,stable isotope analysis is considered as a powerful method to investigate plant-water relationships (Flanagan et al.，1992; Dawson,1996). This method has been widely applied in many fields, such as forestry, ecology and hydrology (Gazis and Feng,2OO4). Researches have shown that in arid and semi-arid regions, water sources of plants differ among plant species, water environments and growing seasons (Cao et al.,2002; Dai et al.,2015; Wu et al.,2016). Moreover, the atmospheric water vapor may also be an important water source for desert plant species (Xiao et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The objective of this study was to investigate the water sources and water use patterns of $T .$ （204号 laxa on the leeward slopes of mega-dunes in the Badain Jaran Desert. It should be noted that we used oxygen isotopes instead of hydrogen isotopes to determine the water sources of $T .$ laxa species,because some previous studies have suggested that the fractionation of hydrogen isotopes occurs as water enters the root tissue (Sternberg et al.,1991; Lin and Sternberg,1992; Elsworth and Williams,2Oo7). The results of this study can reveal the drought resistance mechanisms of $T .$ （204号 laxa in desert ecosystems and have a great significance for ecological restoration in the Badain Jaran Desert as well as some other similar regions in the world. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This study was conducted in the southeast of the Badain Jaran Desert $( 3 9 ^ { \\circ } 2 0 ^ { \\circ } - 4 2 ^ { \\circ } 0 0 ^ { \\circ } \\mathrm { N }$ $9 9 ^ { \\circ } 4 8 ^ { \\prime } - 1 0 4 ^ { \\circ } 1 4 ^ { \\prime } \\mathrm { E }$ ; Fig.1),which is located in the northwestern Alagxa Plateau of western Inner Mongolia, China.The area of the Badain Jaran Desert is $5 . 2 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ (Zhu et al., 2010).A number of mega-dunes are distributed in the southeastern part of the desert, with relative heights ranging from 200 to $3 0 0 \\mathrm { ~ m ~ }$ (Dong et al., 2Oo4). Some springs and groundwater exist near the desert lakes, with a total dissolved solid content of less than $1 \\ \\mathrm { g / L }$ . The region is dominated by an arid continental climate,with mean winter and summer temperatures of $- 9 . 1 ^ { \\circ } \\mathrm { C }$ and $2 5 . 3 ^ { \\circ } \\mathrm { C } ,$ respectively. Mean annual precipitation is approximately $7 6 . 9 \\ \\mathrm { m m }$ ，increasing from 35.2-42.9 mm in the north to $9 0 . 1 \\mathrm { - } 1 1 5 . 4 ~ \\mathrm { m m }$ in the south (Ma et al., 2O11). Potential evaporation exceeds $2 0 0 0 . 0 \\ \\mathrm { m m }$ ，which is 2O times of the mean annual precipitation (Dong et al., 2016). Annual mean wind speed increases northward from 2.8 to $4 . 6 ~ \\mathrm { m / s }$ ，with the strongest winds occurring in April and May. Soil bulk density is $1 . 6 1 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ .Plant species richness is low,with the dominate species of shrubs (Artemisia arenaria, Calligonum mongolicum, Nitraria tangutorum and Sarcozygium xanthoxylon） and herbs (Psammochloa villosa， Corispermum patelliforme and Agriophyllum squarrosum). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7452b1328f056dde125dcc3579de21621c82693ff058f0be5000bf76a02ddb81.jpg",
+        "img_caption": [
+            "Fig.1Overview of the Badain Jaran Desertand locations of the four sampling plots in the Badain Jaran Desert. $\\mathbf { P } _ { 1 }$ ,Dashazao Lake; ${ \\bf P } _ { 2 }$ ,Hulai Jaran; ${ \\bf P } _ { 3 }$ ,Zhalate Lake; ${ \\mathrm { P } } _ { 4 }$ ,Chaxingtaoletu. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Sampling and data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study was conducted in 2O15.Four mega-dunes (relative height of about $2 0 0 \\mathrm { m } )$ ）with $T .$ laxa growing on the leeward slopes were chosen as sampling plots (Fig. 1; Table 1). T. laxa has a well-developed root system (Fig.2). We found that the vertical root length of T. laxa can reach up to $1 3 0 { - } 1 8 0 ~ \\mathrm { c m }$ ， and the root biomass is concentrated at the $3 0 { \\mathrm { - } } 1 2 0 ~ { \\mathrm { c m } }$ soil depths. At greater depths, the roots are rotting and have no ability to absorb water. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1408dacdde40e86ecc1a40399e58cf8cc1df6f8f37777fdbd8558b16a7898c51.jpg",
+        "table_caption": [
+            "Table 1Geographical information of the four sampling plots "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Plot name</td><td>Plot number</td><td colspan=\"2\">Geographical coordinate</td><td>Altitude (m)</td><td>Slope (°)</td></tr><tr><td>Dashazao Lake</td><td>P1</td><td>39°46'15\"N</td><td>102°08'20\"E</td><td>1344</td><td>20-23</td></tr><tr><td>Hulai Jaran</td><td>P</td><td>39°36'04\"N</td><td>102°02'32\"E</td><td>1409</td><td>18-15</td></tr><tr><td>Zhalate Lake</td><td>P</td><td>39°48'54\"N</td><td>102°23'36\"E</td><td>1398</td><td>25-27</td></tr><tr><td>Chaxingtaoletu</td><td>P4</td><td>39°46'28\"N</td><td>102°23'27\"E</td><td>1436</td><td>23-25</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The rainfall sample was collected using a rain gauge，which is constructed with a $1 0 \\mathrm { - c m }$ diameter funnel connecting to a measuring bottle. Rainfall samples were collected immediately as soon as the rainfall events ended to avoid evaporation. Totally,18 event-based rainfall samples were collected from May to September,2O15 at Dashazao Lake $( { \\bf P } _ { 1 } )$ and Chaxingtaoletu $\\mathrm { ( P _ { 4 } ) }$ Twenty-three atmospheric water vapor samples were collcted using aluminum foil gas bags with volume of $^ \\textrm { \\scriptsize 1 L }$ from May to September, 2O15 around the sampling plots. The specific collection process was as follows: (1) closing the valve and connecting the rubber ball;(2) opening the valve and pinching the ball; (3) collcting the water vapor samples; (4) closing the valve; and (5) removing the rubber ball. Snow samples were collected on 17 January, 2O15 at Alagxa Right Banner and sealed in plastic botles.They were kept at room temperature until completely melted and then transferred into clean polyethylene bottles $( 5 0 ~ \\mathrm { m L } )$ .Moreover, 14 groundwater and 33 lake water samples were respectively collected from nearby wells and lakes using polyethylene bottes. Six atmospheric condensation water samples were collected using a homemade equipment (Patent No.: ZL201620375043.2). All these water samples were sealed with parafilm and stored in a fridge at $4 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8f8a9821e4408cb895c7223155a53c525e38f5bdecab01ccbce8f575ef2dbbf.jpg",
+        "img_caption": [
+            "Fig.2Tamarix laxa growing in the Badain Jaran Desert (a), vertical root distribution (b)and rot roots (c) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The growth characteristics of T. laxa in the four mega-dunes are provided in Table 2. Plant and soil samples were simultaneously collected during 26-29 May,10-12 July, 20-22 August and 21-24 September,2O15.It should be noted that no precipitation events occurred during the sampling periods. On each sampling date, we chose three sampling plants in each plot to collect suberized twigs (diameter of $6 { - } 1 0 ~ \\mathrm { m m }$ and length of $5 0 { \\mathrm { - } } 6 0 ~ \\mathrm { m m } ,$ ). As soon as sampling,the green tissues,including all leaves and green bark，were removed quickly from the stems to avoid isotopic fractionation of the xylem water. Then, they were immediately put into screw-cap glass vials (volume of $8 ~ \\mathrm { m L }$ )，sealed with parafilm,and stored in a freezer at $- 2 0 ^ { \\circ } \\mathrm { C }$ until water extraction (Dawson,1996; Liu et al.,2O14).Soil samples were collected using a hand auger close to the sampled plants at the same time the suberized twigs were sampled. The soil sampling depth was $0 { - } 2 0 0 ~ \\mathrm { c m }$ and the sampling interval was $2 0 \\mathrm { c m }$ .Four replicates were collected from each soil layer and then they were mixed. Soil sample for each layer was divided into two portions. One was sealed in a glass vial and frozen with the plant sample for isotope analysis,and the other was stored in an aluminum box for soil water content measurement by the oven drying method. Cryogenic vacuum distillation method was used to extract water from plant and soil samples. Soil particle size fractions were measured using a laser particle sizer (Mastersizer 2OOo, Malvern Instruments,Worcestershire, UK). Soil particle size composition shows no significant variations with depth $( P { > } 0 . 0 5 )$ . Soil is mainly composed of fine sand $( 5 0 . 6 3 \\% )$ and medium sand $( 4 4 . 4 8 \\% )$ （204号 according to the USDA (United States Department of Agriculture) classification (Table 3). Meteorological variables, such as daily precipitation, were measured by an automatic weather station (Vaisala,MAWS3O1,USA) located at Cherigele Lake ( $3 9 ^ { \\circ } 5 3 ^ { \\prime } 0 0 ^ { \\prime \\prime } \\mathrm { N }$ ， $1 0 2 ^ { \\circ } 1 5 ^ { \\prime } 4 0 ^ { \\prime \\prime } \\mathrm { E }$ ！ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/760d92c618f4596ceff023f80b88c5881a45df5a1abdc50191822f1e7ae4096d.jpg",
+        "table_caption": [
+            "Table2 Growth characteristics of Tamarix laxa in the four sampling plots "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Plot number</td><td rowspan=\"2\">Height (m)</td><td rowspan=\"2\">Crown area (mxm)</td><td colspan=\"3\">Ground diameter (cm)</td></tr><tr><td>Maximum</td><td>Minimum</td><td>Average</td></tr><tr><td>P1</td><td>3.2</td><td>9.0x9.5</td><td>5.65</td><td>3.45</td><td>4.58</td></tr><tr><td>P</td><td>3.5</td><td>12.0x15.0</td><td>6.57</td><td>3.53</td><td>5.16</td></tr><tr><td>P</td><td>3.5</td><td>8.0x10.0</td><td>4.85</td><td>3.20</td><td>4.20</td></tr><tr><td>P4</td><td>3.3</td><td>12.5×10.8</td><td>6.91</td><td>4.15</td><td>5.82</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ee96ea66707eaf0ffb01efd4ea3c8a0b230769a3b1818dd2e661e26034c227c.jpg",
+        "table_caption": [
+            "Table 3Composition of soil particle size at different depths "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Soil depth (cm)</td><td>Silt (0.005-0.05 mm)</td><td>Very fine sand (0.05-0.10 mm)</td><td>Fine sand (0.10-0.25 mm)</td><td>Medium sand (0.25-0.50 mm)</td><td>Coarse sand (0.50-1.00 mm)</td></tr><tr><td colspan=\"3\">(%)</td><td></td><td></td></tr><tr><td>20</td><td>0.00</td><td>3.54</td><td>60.56</td><td>34.56</td><td>1.34</td></tr><tr><td>40</td><td>0.20</td><td>2.21</td><td>54.86</td><td>40.55</td><td>2.18</td></tr><tr><td>60</td><td>0.37</td><td>2.21</td><td>51.73</td><td>44.84</td><td>0.85</td></tr><tr><td>80</td><td>0.00</td><td>1.29</td><td>52.16</td><td>44.87</td><td>1.69</td></tr><tr><td>100</td><td>0.00</td><td>2.91</td><td>48.83</td><td>45.64</td><td>2.61</td></tr><tr><td>120</td><td>0.21</td><td>2.48</td><td>43.79</td><td>48.95</td><td>4.57</td></tr><tr><td>140</td><td>0.00</td><td>2.07</td><td>48.84</td><td>45.17</td><td>3.91</td></tr><tr><td>160</td><td>0.00</td><td>1.68</td><td>46.03</td><td>49.33</td><td>2.96</td></tr><tr><td>180</td><td>0.00</td><td>2.04</td><td>53.38</td><td>41.71</td><td>2.88</td></tr><tr><td>200</td><td>0.00</td><td>1.51</td><td>46.17</td><td>49.22</td><td>3.10</td></tr><tr><td>Mean</td><td>0.08</td><td>2.19</td><td>50.63</td><td>44.48</td><td>2.61</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Date analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The δD and $\\mathbf { \\delta } ^ { 8 } \\mathbf { O }$ of the extracted water from all plant and soil samples were analyzed by a water vapor isotope analyzer (PicarroL212O-I, USA) at the State Key Laboratory of Desertification and Aeolian Sand Disaster Combating，Gansu Desert Control Research Institute,China. All precipitation and other water samples were filtered using $0 . 2 2 \\mathrm { - } \\mu \\mathrm { m }$ pore size filters prior to measurements. Isotope measurements were calibrated using the international standard, Vienna Standard Mean Ocean Water (V-SMOW). The final measurement accuracies for SD and $\\delta ^ { 1 8 } \\mathrm { O }$ were $0 . 1 \\text{‰}$ and $0 . 5 \\text{‰}$ ，respectively. The oxygen isotopic composition can be expressed as Equation 1: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta ^ { 1 8 } \\mathrm { O } ( \\% ) = \\left( \\frac { R _ { \\mathrm { s a m p l e } } } { R _ { \\mathrm { s t a n d a r d } } } - 1 \\right) \\times 1 0 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { \\mathrm { s a m p l e } }$ and $R _ { \\mathrm { s t a n d a r d } }$ are the oxygen isotopic compositions ( ${ } ^ { \\prime 1 8 } \\mathrm { O } / { } ^ { 1 6 } \\mathrm { O }$ molar ratio） of the sample and standard water (Standard Mean Ocean Water, SMOW), respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The isotopic values of xylem water were compared with those of potential water sources using the IsoSource model to obtain a feasible range of different water sources used by $T .$ laxa at each sampling time (Phillips and Gregg,2OO3). We identified three potential soil water sources (i.e., layers of 0-60,60-120 and $1 2 0 { - } 2 0 0 ~ \\mathrm { c m }$ depth) based on the similarities of $\\delta ^ { 1 8 } \\mathrm { O }$ value for each soil depth.Three soil layers were classified as follows:(1） shallow soil layer $\\left( 0 { - } 6 0 ~ \\mathrm { c m } \\right)$ :the isotopic composition and soil water content were highly unstable with time and depth due to precipitation inputs and evaporation; (2) middle soil layer ( $( 6 0 - 1 2 0 \\ \\mathrm { c m } )$ : variations of the isotopic composition and soil water content were milder than those in the shallow soil layer; (3) deep soil layer ( $( 1 2 0 - 2 0 0 ~ \\mathrm { c m } )$ : the isotopic composition and soil water content were relatively stable over time and depth.Source increment was defined as $1 \\%$ and mass balance tolerance was defined as $0 . 1 \\text{‰}$ . Our calculated results are reported as the distribution of feasible solutions and the mean on each sampling date. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis was performed using SPSS 19.O software (SPSS Inc., Chicago, USA). One-way ANOVA was used to assess the temporal patterns of $\\delta ^ { 1 8 } \\mathrm { O }$ values and soil water contents in different soil layers by analyzing each sampling plot individually across the sampling periods at each soil depth $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Precipitation distribution and isotopic variations ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The total precipitation was $8 6 . 9 \\mathrm { m m }$ from October 2014 to September 2015 (Fig.3).Less than 5.0 mm of rain fell during most $( 9 1 \\% )$ of the precipitation events.Precipitation mainly occurred in April,July,and September. There were three heavy precipitation events with the amount $> 1 0 . 0$ （20 mm occurred during the sampling period. Specifically,the first one occurred on 17 January 2015, with a snowfall of $1 0 . 2 \\ \\mathrm { m m }$ 0 $\\mathrm { \\Delta \\ B D } { = } - 2 5 6 . 5 1 \\%$ ， $\\delta ^ { 1 8 } \\mathrm { O } = - 3 2 . 8 8 \\%$ $n { = } 1 3$ ); the second one occurred on 1 April 2015,with a rainfall of $1 0 . 8 \\ \\mathrm { m m }$ ； and the third one occurred on 8 July 2O15,with a rainfall of $1 4 . 2 ~ \\mathrm { m m }$ 1 $\\mathrm { \\langle \\delta D = - 2 7 . 7 6 \\% o }$ ， $\\delta ^ { 1 8 } \\mathrm { O } = - 6 . 7 7 \\%$ ， $n { = } 1 3$ ). The SD and $\\delta ^ { 1 8 } \\mathrm { O }$ values experienced large fluctuations during the sampling period. The SD values of rainfall ranged from $- 6 3 . 3 9 \\text{‰}$ to $- 1 5 . 0 4 \\text{‰}$ (with the mean value of $- 3 1 . 3 3 \\text{‰}$ ,and the $\\delta ^ { 1 8 } \\mathrm { O }$ values ranged from $- 8 . 0 \\text{‰}$ to $- 3 . 3 4 \\text{‰}$ （204号 (with the mean value of $- 6 . 4 2 \\text{‰}$ ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3862ebcd266de8a8543adda2fbb60645740a9a46ab2802146ffcc6b300c20b12.jpg",
+        "img_caption": [
+            "Fig.3Temporal variations in precipitation and isotopic composition from October 2014 to September 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Soil water content distribution and isotopic variations ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure $4 \\mathrm { a }$ ， soil water content changed with sampling time and soil depth. In the shallow soil layer $\\left( 0 { - } 6 0 ~ \\mathrm { c m } \\right)$ ，soil water content was highest in July $( 2 . 3 3 \\% )$ and then dropped dramatically to $1 . 2 7 \\%$ and $1 . 4 0 \\%$ in August and September, respectively. Soil water content changed little during May,August and September. In the middle soil layer $( 6 0 - 1 2 0 ~ \\mathrm { c m } )$ ，soil water content displayed relatively mild monthly fluctuations,decreasing from $1 . 2 2 \\%$ in July to $0 . 9 1 \\%$ in September. Soil water content was relatively stable in the deep soil layer ( $( 1 2 0 - 2 0 0 \\ \\mathrm { c m } )$ ， varying from $0 . 9 2 \\%$ to $1 . 1 6 \\%$ . Generally speaking,soil water content in the shallow layer varied markedly and was significantly different with those in the middle and deep soil layers $( P { < } 0 . 0 5 )$ ： The mean soil water content decreased with depth and the values were $1 . 6 3 \\%$ ， $1 . 0 7 \\%$ ，and $1 . 0 2 \\%$ for the shallow, middle,and deep soil layers, respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd09ada70800540274a32bf14d1b16790087bd75acba83fba60031cecfcf8e08.jpg",
+        "img_caption": [
+            "Fig.4Mean soil water content (a) and $\\delta ^ { 1 8 } \\mathrm { O }$ (b） in the vertical soil profile $\\mathrm { ( 0 { - } 2 0 0 ~ c m ) }$ in different sampling months in 2O15.Error bars represent standard errors $( n { = } 4 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water showed obvious variations with sampling time and soil depth (Fig. 4b). In the shallow soil layer, the $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water were lowest in August $( - 3 . 1 3 \\text{ textperthousand}$ and highest in May $( 3 . 7 2 \\text{‰}$ . At depths of $6 0 { - } 1 2 0 ~ \\mathrm { c m }$ (middle soil layer)，the $\\delta ^ { 1 8 } \\mathrm { O }$ values fluctuated moderately over time, increasing from $- 0 . 8 4 \\text{‰}$ to $3 . 1 8 \\text{‰}$ The $\\delta ^ { 1 8 } \\mathrm { O }$ was relatively stable at depths of $1 2 0 { - } 2 0 0 ~ \\mathrm { c m }$ (deep soil layer),with the values ranging from $- 0 . 9 5 \\text{‰}$ to $2 . 6 1 \\text{‰}$ Generally, the $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water did not differ significantly ${ \\it P } { = } 0 . 0 9 7 { \\it \\cdot }$ ）among different soil layers. The mean $\\delta ^ { 1 8 } \\mathrm { O }$ decreased with soil depth and the values were $1 . 4 3 \\text{‰}$ ， $0 . 9 9 \\text{‰}$ ，and $0 . 7 8 \\text{‰}$ for the shallow, middle,and deep soil layers,respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Isotopic composition of plant xylem water and water source analysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $\\delta ^ { 1 8 } \\mathrm { O }$ values of xylem water for $T .$ laxa were lowest in September $( - 1 . 9 9 \\text{‰}$ ; Fig. 5). Xylem water was enriched in $\\delta ^ { 1 8 } \\mathrm { O }$ in July $( - 0 . 3 9 \\text{‰}$ . The $\\delta ^ { 1 8 } \\mathrm { O }$ values of xylem water in July differed significantly as compared to those in May,August and September $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 6， the local meteoric water line (LMWL） was expressed as: $\\mathrm { \\delta \\Phi 8 D = 6 . 9 0 8 ^ { 1 8 } O + 5 . 4 3 }$ 0 $R ^ { 2 } { = } 0 . 8 4$ ， $n { = } 1 8$ ). The slope and intercept of the LMWL were lower than those of the global meteoric water line (GMWL; $\\mathrm { \\delta \\Delta \\delta D = } 8 \\delta ^ { 1 8 } \\mathrm { O } + 1 0$ ；Graig，1961).However,most $\\delta ^ { 1 8 } \\mathrm { O }$ values of rainfall samples were distributed around the GMWL， indicating a slight evaporative enrichment during precipitation. Moreover, the $\\delta ^ { 1 8 } \\mathrm { O }$ values of condensate water samples were distributed on the GMWL, indicating that the condensate water samples had the same water vapor source as precipitation and that no evaporative enrichment occurred during condensation $\\mathrm { ( \\delta D = } \\mathrm { \\_ } { 6 7 . 5 5 \\% o }$ ， $\\delta ^ { 1 8 } \\mathrm { O } = \\mathrm { \\_ } 9 . 4 3 \\%$ . However， the isotopic compositionsof groundwater, soil water and lake water appeared to be subject to severe evaporative enrichment, all of which were below the LMWL with a regression line of $\\mathrm  \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta \\delta$ $( R ^ { 2 } { = } 0 . 8 7$ $\\scriptstyle n = 1 8 5$ ).The mean value of $\\delta ^ { 1 8 } \\mathrm { O }$ was highest in lake water $( 6 . 9 1 \\text{‰}$ ，followed by soil water $( 0 . 6 1 \\text{‰}$ and groundwater $( - 5 . 3 7 \\text{‰}$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8bc04663b7f0c2f4355df98ac246ff3323646c72d85e3954456814faa9a61ab.jpg",
+        "img_caption": [
+            "Fig.5Variations in $\\delta ^ { 1 8 } \\mathrm { O }$ of plant xylem water in different sampling months.Error bars represent standard errors $( n { = } 4 )$ .Different lowercase letters represent significant differences in $\\delta ^ { 1 8 } \\mathrm { O }$ among different sampling months at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/14f4b59248b38b38165a9a17ef205b5c995c3b2b27b5a8944b56c985108906ba.jpg",
+        "img_caption": [
+            "Fig.6Linear regression relationships between δD and $\\delta ^ { 1 8 } \\mathrm { O }$ of rainfall,soil water, xylem water,lake water, groundwater,condensate water,atmospheric water vapor and snow water relative to the local meteoric water line (LMWL), global meteoric water line (GMWL) and evaporation line (EL) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From Figure 6 we can see that the $\\delta ^ { 1 8 } \\mathrm { O }$ values of xylem water (mean $\\delta ^ { 1 8 } \\mathrm { O }$ of $- 1 . 4 6 \\text{‰}$ ）were distributed close to the $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water (mean $\\delta ^ { 1 8 } \\mathrm { O }$ of $1 . 0 2 \\text{‰}$ )，while they were significantly different from those of lake water (mean $\\delta ^ { 1 8 } \\mathrm { O }$ of $6 . 9 1 \\text{‰}$ ), snow water (mean $\\delta ^ { 1 8 } \\mathrm { O }$ of $- 3 2 . 8 8 \\text{‰}$ ,atmospheric water vapor (mean $\\delta ^ { 1 8 } \\mathrm { O }$ of $- 4 3 . 2 8 \\mathrm { ‰ }$ ),condensate water (mean $\\delta ^ { 1 8 } \\mathrm { O }$ of $- 9 . 4 3 \\text{‰}$ and groundwater (mean $\\delta ^ { 1 8 } \\mathrm { O }$ of $- 5 . 3 7 \\text{‰}$ ), indicating that T. laxa mainly absorb water from the soil. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The uptake fraction of soil water from the three potential soil water sources (depths of O-60, 60-120 and $1 2 0 { - } 2 0 0 \\ \\mathrm { c m }$ ,corresponding to the shallow,middle,and deep soil layers,respectively) varied during the sampling period (Fig.7). In May, the mean uptake fraction of soil water from the middle and deep soil layers was $4 6 . 7 0 \\%$ and $4 3 . 9 6 \\%$ ,respectively,while it was only $9 . 3 5 \\%$ for the shallow soil layer. However,in July and August, the mean uptake fraction of soil water from the shallow soil layer increased dramatically while that from the middle and deep soil layers decreased,compared with the situation in May. The mean uptake fraction of soil water from the shallow soil layer was $4 4 . 5 0 \\%$ and $4 0 . 9 0 \\%$ in July and August, respectively. During September, the deep soil layer was the main water source for soil $( 4 3 . 3 3 \\% )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6896b790fdaf28132efe665a43e27144664e85e08225bcde67018cb693508e58.jpg",
+        "img_caption": [
+            "Fig.7Variations in uptake fraction of soil water from the three potential soil water sources (depths of 0-60, 60-120 and $1 2 0 { - } 2 0 0 ~ \\mathrm { c m }$ ，corresponding to the shallow,middle and deep soil layers,respectively）in different sampling months.Error bars represent standard errors $( n { = } 4 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1Variations in isotopic compositions of precipitation and soil water source ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The differences in the isotopic composition of precipitation may result from the varied water vapor origins, atmospheric flow paths of vapor trajectories， temperatures， and precipitation amounts (Dansgaard, 1964; Tian et al., 2001; Liu et al.,2014). In our study area, the $\\delta ^ { 1 8 } \\mathrm { O }$ values of precipitation were closely linked with local precipitation amount, especially during heavy precipitation events. The $\\delta ^ { 1 8 } \\mathrm { O }$ of precipitation was enriched in June and August when precipitation was scarce, while it was depleted in July and September when precipitation was abundant (Fig.3). This result is consistent with the findings of $\\mathrm { w } _ { \\mathrm { u } }$ et al. (2016). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Soil water content in the shallow soil layer $( 0 { - } 6 0 \\mathrm { c m } )$ varied greatly, indicating the influence of precipitation recharge, especially the heavy precipitation events, on soil moisture (Allison,1982). The influence of a heavy precipitation event on soil water content was generally greatest in the shallow soil layer and was decreased with soil depth.As shown in Figure 4,soil water content in the middle and deep soil layers (below $6 0 \\ \\mathrm { c m }$ depth） showed no significant $( P { > } 0 . 0 5 )$ monthly variation,indicating that precipitation had litle influence on soil moisture in these layers.The $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water also showed marked variations in the shallow soil layer and were more positive than those in the middle and deep soil layers due to strong evaporation (Gazis and Feng, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2004;Li and Zhou, 2O04). This suggests that the shallow soil layer exhibited positive isotopic values when soil water content was elevated.However, the middle soil layer displayed less variations in soil water content and isotopic composition than the shallow soil layer (Fig. 4),as the influence of soil evaporation and precipitation infiltration gradually diminished with soil depth.The variations of soil water content and isotopic composition were closely linked with the amount of precipitation,antecedent soil water,and soil evaporation. In July,soil water content in the shallow soil layer increased dramatically due to a heavy rainfall event ( $\\cdot 1 4 . 2 \\ \\mathrm { m m } )$ on 8 July. However, the isotopic composition was more positive in the shallow soil layer because of the effect of strong evaporation (Ma et al., 2012). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In desert environments, precipitation is extremely scarce and cannot form runoff,and soil water is mainly recharged by precipitation and groundwater. Figure 6 shows that the SD and $\\delta ^ { 1 8 } \\mathrm { O }$ values of some soil water samples were distributed close to the LMWL,indicating that precipitation could recharge soil water on occasions.However, the depth of precipitation infiltration was limited,and the maximum depth cannot exceed $5 0 \\mathrm { c m }$ (Yang et al.,2O14). Therefore,precipitation can be a water source only for the shallow soil layer. Groundwater can recharge the deep soil layer due to capillary action. Generally, the height of capillary water rise is very limited in the desert $( < 6 0 \\mathrm { c m } )$ because of the presence of coarse soil particles (Zhao et al., 2O1O). However, the SD and $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water and groundwater clustered along the evaporation line (EL; Fig. 6).Moreover, the isotopic values of groundwater $\\mathrm { \\Delta \\langle \\delta D = - 5 5 . 6 3 \\% o }$ ， $\\ 8 ^ { 1 8 } \\mathrm { O } = - 5 . 3 7 \\% )$ were lower than those of soil water $\\mathrm { ( \\delta D = ~ - 2 8 . 9 6 \\% o _ { 0 } ^ { \\prime } }$ ， $8 ^ { 1 8 } \\mathrm { O } { = } 0 . 6 1 \\% \\mathrm { O }$ . This suggests that soil water may be replenished by groundwater in the form of gaseous water or film water, and that the isotopic values of groundwater are enriched during the water vaporization process (Chen, 2004). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 Water use patterns of Tamarix laxa ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The isotopic composition of xylem water exhibited seasonal variations, suggesting that the water absorbed by T. laxa species from May to September originates from different soil layers (Fig. 7). In July,the xylem water had less negative isotopic values as compared with the soil water in the middle and deep soil layers,while these values were similar to those in the shallow soil layer. This implies that T. laxa species mainly absorbs water from the shallow soil layer after heavy precipitation events.During the study period,a heavy precipitation event ( $1 4 . 2 ~ \\mathrm { m m }$ on 8 July) occurred before sampling (Fig. 3),and soil water content largely increased in the shallow soil layer (mean value increasing from $1 . 5 3 \\%$ to $2 . 3 3 \\%$ ） while exhibited no apparent variations in the middle and deep soil layers (Fig. 4). In addition, $T .$ laxa species has a developed root system in the shallow soil layer (Fig. 2). Therefore,we conclude that $T .$ laxa mainly absorbs water from the shallow soil layer. In contrast, xylem water of $T .$ laxa showed more negative isotopic values during other months (May,August and September).At the beginning of the growing season, xylem water displayed more negative isotopic values, similar to soil water in the middle and deep soil layers.A heavy precipitation event $( 1 0 . 8 ~ \\mathrm { m m } )$ occurred on 1 April, during which soil water content in the shallow soil layer was replenished; however, this event was not as striking as that （20 $( 1 4 . 2 ~ \\mathrm { m m } )$ in July and soil water content was far from the field water capacity. Additionally, due to the low temperature and water consumption at the beginning of the growing season,T. laxa did not utilize water from the shallow soil layer and instead depended on water from the middle and deep soil layers.There was litle precipitation from mid-July to the end of August. Moreover, evaporation was severe during this period.Thus,soil water content of the overall soil profile decreased markedly.However, the shallow soil layer could remain wet for a short period after an exceptional precipitation event, because of a dry surface sand layer preventing evaporation loss (Liu et al.,2006). Consequently, $T .$ laxa could continue to utilize water from the shallow soil layer in August. Although there were many precipitation events in September, the recorded value for each event was less than $5 . 0 ~ \\mathrm { m m }$ (except for one on 3 September, with a recorded value of 5.5 mm),which is generally not sufficient to infiltrate into the soil. Consequently, soil water content in the shallow and middle soil layers did not demonstrate any recharge at this time,but instead decreased gradually due to strong evaporation. During this stage, T. laxa mainly absorbed soil water from the deep soil layer. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Stable isotopic techniques were used to explore the water sources and water use pattrns of $T .$ （204号 laxa in the mega-dunes of the Badain Jaran Desert. Due to strong evaporation, the isotopic composition of soil water was more enrichment in the shallow soil layer $\\left( 0 { - } 6 0 ~ \\mathrm { c m } \\right)$ than in the deep soil layer ( $1 2 0 { - } 2 0 0 ~ \\mathrm { c m } )$ .Precipitation amounts,especially from heavy precipitation events, strongly afected the vertical distribution of soil water content and isotopic composition. We found that the values of isotopic composition in snow water, atmospheric water vapor and groundwater were more negative,while those in lake water were more positive. The isotopic compositions of all these water sources difered from the isotopic composition of xylem water in T. laxa. The major water source of $T .$ laxa is soil water, although soil water content varies throughout the year along the depth. The water use patterns of $T .$ laxa reflect its ability to absorb water from different soil layers according to soil water content. Precipitation could infiltrate into the shallow soil layer but cannot contribute to groundwater recharge. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Natural Science Foundation of China (41530745,41371114,41361004). The authors are grateful to the State Key Laboratory Breeding Base of Desertificationand Aeolian Sand Disaster Combating, Gansu Desert Control Research Institute for providing support for sample testing. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Allison G B.1982.The relationship between $^ { 1 8 } \\mathrm { O }$ and deuterium in water in sand columns undergoing evaporation. Journal of Hydrology,55(1-4): 163-169.   \nCaoLY,Lu Q,LinGH.2O02.Reviewand perspectiveonhydrogen stable isotopes technique in tracingplant waterources researches.Acta Ecoloica Sinica,22(1):111-117.(in Chinese)   \nCuiYQ,MaJY,FengQ,etalOl7.Watersourcesand wateruseefficiencyofdesertplantsindiferenthabitatsinDunuang, NW China. Ecological Research,32(2):1-16.   \nDaiY,Zheng XJ,TangLS,etal.20l5.StableoxygenisotopesrevealdistinctwaterusepaternsoftwoHaloxylonspecies in the Gurbantonggut Desert. Plant and Soil, 389(1-2): 73-87.   \nDansgaard W.1964. Stable isotopes in precipitation. Tellus,16(4): 436-468.   \nDawson TE.1993.Water sourcesof plants as determined from xylem-water isotopic composition: perspectives on plant competition,distribution,and waterrelations.In:EhleringerJR,HallAE,FarquharGD.Stable Isotopesand Plant Carbon-Water Relations. San Diego: Academic Press,465-496.   \nDawson TE.1996.Determining waterusebytresand forests fromisotopic,energy balanceand transpiration analyses:the roles of tree size and hydraulic lift. Tree Physiology,l6(1-2): 263-272.   \nDawsonTE,EhleringerJR.998.Plants,sotopes,and wateruse:acatchment-levelperspective.In:KendallC,McDoelJJ. Isotope Tracers in Catchment Hydrology.Amsterdam:Elsevier Science,165-202.   \nDongCY,WangNA,ChenJS,etal.2O16.Newobservationaland experimental evidencefor therecharge mechanismofthe lake group in the Alxa Desert,north-central China. Journal of Arid Environments,124: 48-61.   \nDong ZB,WangT,WangXM.2O04.Geomorphologyof themegadunesinthe Badain Jaran Desert.Geomorphology,60(1-2): 191-203.   \nEllsworth PZ,Williams DG.2OO7.Hydrogen isotope fractionation during wateruptake by woodyxerophytes.Plantand Soil, 291(1-2): 93-107.   \nFlanaganLB,EhleringerJR,MarshallJD.1992.Differentialuptakeofsummerprecipitation amongcooccurringtreesand shrubs in a pinyon-juniper woodland.Plant Cell & Environment,15(7): 831-836.   \nGazis C,Feng X.2004.Astable isotope studyof soil water:evidence for mixing and preferential flow paths.Geoderma, 119(1-2): 97-111.   \nGraig,H.1961.Isotopic variations in meteoric waters.Science,133(3465):1702-1703.   \nGriesD,ZengF,Foetzki A,et al.2003.Growth and water relationsof TamarixramosisimaandPopulus euphraticaon Taklamakan desert dunes inrelation todepth toa permanent water table.Plant Cell&Environment,26(5):725-736.   \nHortonJL,ClarkJL.2oo1.WatertabledeclinealtersgrowthandsurvivalofSalixgooddingii andTamarixchinensisseedlings. Forest Ecology and Management,140(2-3): 239-247.   \nLiH,Zhou HF.2Oo6.Applicationcharacteristicsand mechanismof stable isotope techniques inthe studyof eco-hydrological U waui upiane auu puviusyuucui ga CAHaige vutwin siuu auu Hgu red mangrove, Rhizophora mangle L. Oecologia, 90(3): 399-403.   \nLiu J,Song X,Yuan G,etal.2014.Stable isotopiccompositions of precipitation in China.Tellus B: Chemical and Physical Meteorology, 66(1): 39-44.   \nLiu XP,ZhangTH,Zhao HL,et al.2Oo6.Influenceof drysandbed thicknessonsoil moisture evaporation in mobiledune. Arid Land Geography,29(4): 523-526.(in Chinese)   \nMa N,WangNA,ZhuJF,et al.2O11. Climate change aroundthe Badain Jaran Desert inrecent 5O years.Journalof Desert Research,31(6): 1541-1547.(in Chinese)   \nMa XD,Wang MH,LiHW,etal.20l3.ThemorphologicalandphysiologicalresponsesofTamarix ramosissimaseedlingto different irrgation methods in the extremely arid area.Acta Ecologica Sinica,33(19): 6081-6087.(in Chinese)   \nMa XN,Zhang MJ,LiYJ,etal.2012.Research advances onstable isotopes in soil water.Soils,44(4):554-561.   \nPeng S Z,Zhao CY,Peng HH,etal.2010.Spatial distributionof Tamarixramosissimaaboveground biomass and water consumption inthe lower reaches of HeiheRiver,Northwest China.Chinese Journalof Applied Ecology,21(8):1940-1946. (in Chinese)   \nPhilipsDL, Gregg JW.2003.Source partitioning using stable isotopes: coping with too many sources.Oecologia,136(2): 261-269.   \nPolacikKA,MaricleBR.2l3.Effectsoffloodingonphotosynthesisandrotrespirationinsaltcedar(Tamarixramosissima), an invasive riparian shrub.Environmental & Experimental Botany,89:19-27.   \nQin D H,Stocker T.2014.Highlightsof the IPCC workinggroupIfth assssment report.Progress Inquisitiones de Mutatione Climatis,10(l):1-6.(in Chinese)   \nSternberg $\\mathrm { ~ L ~ S ~ L ~ }$ ，Ish-Shalom-Gordon N,Ross M,et al.1991.Water relations of coastal plant communities near the ocean/freshwater boundary. Oecologia, 88(3): 305-310.   \nTianL,YaoT,NumagutiA,etal.2Oo1.Stable isotope variations inmonsoonprecipitationonthe Tibetan Plateau.Journalof the Meteorological Society of Japan,79(5): 959-966.   \nWu D,Liu J,ZhangG,etal.O9.Incorporating spatialutocorelationintocelularutomata model:Anappicatiotohe dynamics of Chinese tamarisk (Tamarix chinensis Lour.). Ecological Modeling,220(24): 3490-3498.   \nWu H W,Li X Y,Jiang Z Y,etal.2O16.Contrasting water use patern of introduced andnative plants inanalpine desert ecosystem,Northeast Qinghai-Tibet Plateau, China. Science of the Total Environment,542:182-191.   \nXiao HL,Li S,ChenYB,et al.2O14.Atmospheric water vapor absorption-animportant source of water for desert plants. Geography Education,(7): 4-7.(in Chinese ）   \nXing X,Chen H,ZhuJJ,etal.2014.Watersourcesoffivedominantdesertplantspecies inNuomuhongareaof QaidamBasin. Acta Ecologica Sinica,34(21): 6277-6286.(in Chinese)   \nXuXY.2008.Eco-hydrologicalresponsesondominatedsand-fixing vegetations inthetransitional zone fromoasis todesertin the lower reaches of Shiyang River.PhD Dissertation. Beijing: Beijing Forestry University. (in Chinese)   \nYang WB,TangJN,Liang HR,etal.2Ol4.Deepsoil waterinfitrationand itsdynamicvariationintheshiftingsandylandof typical deserts in China. Science China Earth Sciences,57(8):1816-1824.   \nYin KL.1995.Tamarix spp.—The key species in thedesert ecosystem.Arid Zone Research,12(3): 43-47.(in Chinese)   \nYinL,ZhaoLJ,RuanYF,etal.2O12.Studyofthereplenishment sourcesof typicalecosystems waterand dominant plant waterinthe lower reachesof the Heihe,China.Journalof Glaciologyand Geocryology,34(6):1478-1486.(in Chinese)   \nYu TF,Feng Q,SiJH,etal.20l7.Thecontributionof hydrauliclift toevapotranspirationbyTamarixramosissma Ledeb.in the lower Heihe River.Acta Ecologica Sinica,37(18):1-9.(in Chinese)   \nZhao JB,MaYD,Xing SH,etal.2O10.Studyonmoisturecontentinsand layersofTengger Desert in Zhongwei,Ningxia. Journal of Mountain Science,28(6): 653-659.(in Chinese)   \nZhaoLJ, Xiao HL,Chen GD,etal.2O08.A preliminary studyof water sources ofriparian plants inthe lower reaches of the Heihe Basin.Acta Geoscientia Sinica,29(6): 709-718.(in Chinese)   \nZhao YF,KongFK,XuZH,etal.2O17.Floristicanalysisonvegetationof Tamarix ustromongolicacommunityin Qinghai Province. Journal of Plant Resources & Environment,26(2): 90-96.(in Chinese)   \nZhou C X, Sun ZY, Yu S W,et al. 2011. Using D and $^ { 1 8 } \\mathrm { O }$ stable isotopes to determine the water sources of sand dune plants in Linze,middle reachesof Heihe River.Geological Science and Technology Information,30(5):103-109. (inChinese)   \nZhouH,ZhengXJ,TangLS,etal.20l3.DierencesandsimlaritiesbetweenwatersourcesofTamarixramosissima,itraria sibiricaand Reaumuriasoongoricain thesoutheastern JunggarBasin.Chinese JournalofPlantEcology,37(7):65-673.(in Chinese)   \nZhu JF,Wang NA,Chen HB,etal.2010.Studyonthe boundary and the area of Badain Jaran Desert based on remote sensing imagery.Progress in Geography,29(9):1087-1094. (in Chinese) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

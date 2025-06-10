@@ -1,0 +1,83 @@
+# 加速器的百年历程
+
+朱雄伟中国科学院高能物理研究所
+
+【摘要】本文分析讨论了加速器的百年历史，从思想的萌芽、理论的突破与准备、技术的准备与储存、实验的成功、加速器的未来与展望等几个方面进行了论述。
+
+关键词： 加速器， 电子， 质子， 重离子。
+
+# 1．思想的萌芽
+
+加速器的历史可以追溯到上世纪二十年代【1,2】，带电粒子加速这一思想与概念来自于原子散射，加速器科学与技术历经百年沧桑。大约1918年，英国卢瑟福实验室的Rutherford运用氘氙粒子轰击原子核，从而研究原子结构，他需要有更高能量的带电粒子去产生原子反应。这是加速带电粒子的最早的思想萌芽。从那时起，诞生了一门学科，这就是加速器学科。十九世纪麦克斯韦高度、系统总结了电磁理论，麦克斯韦方程组成为电磁理论的基础，电磁场的源头就是带电粒子。而带电粒子在电磁场中感受到洛伦兹力的作用，所以很自然的，人们想到用电磁场来加速带电粒子。这就是加速器的思想萌芽。
+
+![](images/ffc666b6c64eab9501a09071215fedc4abc14bedc5ed7df6a7cc6396c3fb2d31.jpg)  
+图一、粒子加速器的Livingston
+
+从上世纪二十年代至今已达百年，如今加速器在全世界范围内广泛存在。高能加速器从最初的桌面实验装置发展为大型的科学工程，占地面积高达上千平方公里。各种加速器思想相互碰撞有力地推动了加速器科学的发展。图一为最近的高能加速器的 Livingston 图表。
+
+# 2．理论的突破、准备
+
+带电粒子的加速依赖于电磁场，带电粒子在电磁场中感受到洛仑兹$\mathbf { \boldsymbol { F } } = \mathbf { \boldsymbol { q } } ( \mathbf { \boldsymbol { E } } + \mathbf { \boldsymbol { V } } \times \mathbf { \boldsymbol { B } } )$ 。因此带电粒子能量的改变为 d= qE·V，所以带电粒子与电场有能量交换，而与磁场没有能量交换。由麦克斯韦方程可知，加速器最终运用电场来直接加速带电粒子，静电场与射频电场都能用来加速带电粒子，这对应于静电加速器与射频加速器。静电加速器属于早期的加速器，而现代加速器基本属于射频加速器，我们只讨论射频加速器。电磁场满足基本的麦克斯韦方程。各种加速结构中电磁场属于闭合场理论。目前常用或研究的加速结构有金属结构、介质结构、等离子体腔体。电磁波的一个主要特性是它的色散关系，电磁波的色散关系是它的频率和波数之间的函数关系 $\operatorname { f } ( \omega , \mathbf { k } ) = 0$ ，电磁波的相速$\begin{array} { r } { \mathbf { v _ { \mathrm { p } } } = \frac { \omega } { \mathbf { k } } } \end{array}$ 群速 $\mathbf { v _ { g } } = { \frac { \mathrm { d } \omega } { \mathrm { d } \mathbf { k } } }$ d。相速大于光速的电磁波属于快波，而相速小于光速的电 木磁波属于慢波。加速结构中电磁波的色散关系。
+
+考虑一个带电粒子在电磁场中运动（ $\displaystyle \mathbf { v } = \beta \mathbf { c } \mathbf { \sigma } )$ ，而电磁场由麦克斯韦方程所描述，如果
+
+（1）忽略运动电荷的辐射， $\mathrm { \ P _ { r a d } } \approx 0$ 。  
+（2）带电粒子以近光速运动， $\beta \approx 1$ 。  
+（3）带电粒子运动区域没有其他自由电荷， ${ \sf q } = 0$ 。  
+(4)带电粒子以近似直线运动，没有其他的静电场、静磁场 $\mathrm { E } _ { \mathrm { s t a t i c } } = 0 , \mathrm { B } _ { \mathrm { s t a t i c } } = 0$ 。  
+（5）带电粒子运动介质没有折射率， ${ \sf N } = 1$ 。  
+（6）带电粒子在远场区域运动，远离其他场源， $\mathrm { \Delta r } / \lambda \gg 1$ 。  
+那么粒子没有获得加速。这就是普遍的加速定理。由以上普遍的加速定理，可以演化出各种加速方法以及相应的加速器。
+
+从最早的静电加速器到现代的共振加速器，加速器的种类有静电加速器、回旋加速器、射频直线加速器、感应加速器、同步加速器、对撞机。静电加速器由于高压技术的限制，难以向高能方向发展。回旋加速器属于弱聚焦加速器，也难以向高能发展。稳相原理、强聚焦原理的出现，使得射频直线加速器、同步加速器应运而生。稳相原理使得粒子束团在相稳区振荡运动从而被捕获在相稳区。强聚焦原理使得束团的横向捕获聚焦得以实现，解决了设备庞大的问题。不需要大型的磁铁技术。
+
+# 3．技术的准备与储存
+
+加速器的发展伴随着技术的进步，现代加速器集众多的高技术于一体。笔者认为电磁波的开发极大推动了人类物质文明与精神文明的进步。静场属于频率为零的电磁波。加速器是一门主要研究带电粒子与电磁场的相互作用的学问。人类已经开发的电磁波波谱从千米波到伽马射线【3】。太赫兹波段在电磁波谱中占有特殊地位，太赫兹波段处于微波与红外光之间。无论是经典力学向短波长逼近，还是量子力学向长波长逼近，在太赫兹尺度都遇到了困难，笔者认为在太赫兹尺度可能需要诞生一门新的力学，进而研究太赫兹波段的物理现象。至今太赫兹波段的物理现象我们主要采用经典力学来分析解决问题。加速器技术主要涉及高频技术、磁铁技术、电源技术、真空技术、束流测量技术、控制技术。
+
+# 4．实验的成功
+
+加速器是一门实验科学，强调的是 hands on 经验。加速器理论的成功与否最终看加速器能否建造成功。下面一连串的记录记载了加速器的辉煌的历史进程（部分统计）：
+
+1918 年, Rutherford原子核散射实验.  
+1924年, Ising，时变场加速。  
+1930年, Cockcroft,Walton,Vande Graaff,高压倍增静电加速器.  
+1931年, Lawrence，回旋加速器。  
+1945年, McMillan，Veksler，论述稳相原理。  
+1946年, W.Walkinshaw，第一台电子直线加速器。  
+1947年, SLAC,MarkI，电子直线加速器。  
+1949年, SLAC,MarkII，电子直线加速器。  
+1950年, E.Courant,M.Livingston，强聚焦原理。  
+1951年, SLAC,MarkIII，电子直线加速器。  
+1961年, AdA，正负电子对撞机,Frascati,Italy.,  
+1969 年, ISR，质子-质子对撞机，CERN，瑞士。  
+1988年, 北京正负电子对撞机，BEPC.。  
+2000 年, FLASH,DESY， 德国。  
+2010年, LCLS,SLAC， 美国。  
+2011年, SACLA,Spring 8，日本。  
+2015年, LHC，西欧核子中心，瑞士。，  
+2018 年, LHCb,CERN，瑞士。
+
+# 5．加速器的未来与展望
+
+常规加速器的发展前沿有高能量和高亮度两个发展方向。高能加速器是高能物理的有力工具。物质的尺度越小，所需要的粒子能量越高。加速器的两个重要领域是未来光源（FLS）和未来对撞机（FCC）。未来光源包括自由电子激光和衍射极限环，ERL（能量回收型直线加速器)概念目前已修正为具有返航加速功能的直线加速器，同时兼具光源功能。未来对撞机主要包括强子对撞机、轻子对撞机、轻子强子对撞机、伽马对撞机等几个方面。需要强调的是在质子加速器领域，有质子加速器驱动的次临界反应堆和散裂中子源等。
+
+在先进加速器概念（Advanced Accelerator Concept）领域，新概念与新方法层出不穷。因为常规加速器有高压击穿问题，笔者认为基于等离子体的加速器最具竞争力【4】。加速结构应工作在真空状态下。在金属加速结构中，由于存在打火击穿问题，破坏了真空条件，所以难以建立很高的加速电场。在等离子体加速器中，加速电场建立存在于等离子体中，而等离子体本身处于离化状态，不存在打火击穿问题，所以可以建立高于常规金属加速结构几个数量级的加速电场。
+
+# 参考文献：
+
+1.S.Y.Lee, Accelerator Physics,World Scientific..
+
+2.H.Wiedermann， Particle Accelerator Physics,World Scientific, 2016.   
+3.朱雄伟，张闯，王书鸿，陈森玉，第四代光源-相干光源，现代物理知识，   
+2009。   
+4.E.Esarey, Physics of laser-driven plasma-based electron accelerators,Review of   
+Modern Physics, 81, 2009.
+
+# 100th Anniversary of Accelerator
+
+Xiongwei Zhu Institute of High Energy Physics, Chinese Academy of Sciences,Beijing
+
+[Abstract] In this paper,we analyze and disccuss the 1OO years of history for the accelerators.From the several differential vision angles: the thought seeds，the theoretical breakthrough and preparation， technical preparation， experimental experiences and the future accelerator, we expound the 1OO years of history for the accelerators systemly and completely.
+
+Key words: Accelerator, electron, proton, heavy ion.

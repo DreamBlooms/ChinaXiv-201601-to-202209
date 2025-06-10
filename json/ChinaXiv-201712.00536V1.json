@@ -1,0 +1,204 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高精度腹腔灌注化疗患者血清中miR-409-3p表达水平与胃癌预后的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨素冰'，张相良²  \n广州医科大学附属肿瘤医院1检验科，腹部综合科，广东广州510095",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨高精度腹腔灌注化疗(HIPEC)治疗后血清miR-409-3P表达水平与胃癌预后的关系。方法采用实时荧光定量聚合酶链反应检测高精度腹腔灌注化疗后血清miR-409-3p表达水平，并分析其胃癌预后的关系。结果高精度腹腔灌注化疗后血清miR-409-3p低表达量组中位生存期低于高表达量组中位生存期,差异认为有统计学意义。结论 血清miR-409-3p可能成为评估预后的生物标志物。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：miR-409-3p;胃癌；预后",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Relationship between expression levels of serum miR-409-3p after hyperthemic Intraperitoneal chemotherapy and the prognosis of gastric cancer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Subing1, ZHANG Xiangliang   \nDepartmentoflboatorymedcie,bdominaleneraldepartmentCancerCenterfGuangzouMedicalUiesityuangzou,   \nChina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Objective To investigate therelationship between expression levelsof serummiR-409-3Pafter Hyperthemic Intraperitoneal Chemotherapy (HIPEC)and prognosis of gastriccancer. Methods The serum expresion levels of miR-409-3p after HIPEC was examined using real-time reverse transcription polymerase chain reaction and analyze the relationship between levels and prognosis of gastriccancer. Results The high expresion group tended to have longer median survival time, compared with the low expression group, $P { = } 0 . 0 0 3$ .Conclusion The expression levels of serum miR-409-3P after HIPEC may become biomarkers of evaluate prognostic of gastric cancer. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: miR-409-3p; gastric cancer; prognostic ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胃癌是我国常见的恶性肿瘤之一[],腹膜转移是胃癌最常见的转移方式[2，高精度腹腔灌注化疗(HIPEC)在胃癌[、结直肠癌4治疗中提高患者的近期生存率。但病人仍会发生肿瘤复发，甚至远处转移，最重要的原因是因为胃癌细胞对化疗药物产生了多药耐药5。新近研究表明微小RNA(miRNA)在肿瘤发生中发挥癌基因或抑癌基因的重要作用，是调节多药耐药性的关键上游分子之一。在前期研究中通过筛选HIPEC治疗前后血清miRNA表达谱发现有169个miRNA表达较化疗前上调，其中miR-409-3P上调最为明显。本次研究为了探讨HIPEC治疗后miR-409-3P表达水平与胃癌预后的关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1一般资料收集我院2010年12月\\~2014年12月收治的胃癌患者行HIPEC治疗98例，其中男性52例，女性46例，男女比例1.13。年龄44\\~71岁，中位年龄55岁。对每位患者化疗后采用未添加抗凝剂的干燥管分别进行外周静脉血采血 $5 \\mathrm { m L }$ ，于室温下保存，凝血后进行血清分离。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通过电话随访、门诊随访、查阅病历等方式获得随访数据，最终随访时间为2015年12月，随访12\\~60个月，中位随访时间为28个月。其中4例失访，随访率为$9 5 . 9 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2RNA提取及miR-409-3p的实时荧光定量聚合酶链反应",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应用RNA提取试剂盒提取血清中的RNA。通过PrimeScriptRT试剂盒(Takara)合成首条cDNA链，miR-409-3p定量采用实时荧光定量RT-PCR法，以U6miRNA作为内参。扩增的特异性采用溶解曲线和PCR产物的琼脂糖电泳进行分析。miR-409-3p在血清中的表达水平采用相对于内参U6的 $2 ^ { - \\triangle \\mathrm { c t } }$ 公式进行计算， $\\triangle { \\bf C t } = \\triangle { \\bf C } _ { \\mathrm { t m i R - 4 0 9 - 3 p } } - \\triangle { \\bf C t } _ { \\mathrm { R N U 6 0 } }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.3统计学方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HIPEC后miR-409-3p表达水平以平均值为界分为两组，小于平均值为低表达组，大于平均值为高表达组。miR-409-3p表达水平高低与病理因素的关系比较采用x检验。高、低表达组与临床病理因素的风险比和$9 5 \\% C \\mathrm { I }$ 采用Logistic二项回归分析,Kaplan-Meier最小乘积法评价总生存率，miR-409-3p高表达组与低表达组生存率的差异采用Log-rank检验。 $P { < } 0 . 0 5$ 表示差异有统计学意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1miR-409-3p表达与临床病理特征的关系",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "98例胃癌患者接受HIPEC治疗后血清中miR-409-3p相对表达量均值为6.76,标准差为0.15。根据血清中miR-409-3p表达水平以平均值为界分为两组，小于平均值为低表达组，大于平均值为高表达组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "血清miR-409-3p表达与临床病理特征关系，血清miR-409-3p表达量与性别、年龄、肿瘤直径、分化程度、有无远处转移、手术性质以及TNM分期均无关 $( P >$ 0.05)。但在淋巴有无转移的表达量分布不一致，差异有统计学意义( $\\scriptstyle \\left. P < 0 . 0 5 \\right.$ ，表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/36810a8d3e76b5674ada6fb4b32a7954d52d0a01b241f9266762586717d80a4d.jpg",
+        "table_caption": [
+            "表1血清miR-409-3p表达与临床病理特征关系"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">临床病理特征</td><td colspan=\"2\">miR-409-3p表达水平</td><td rowspan=\"2\">P</td></tr><tr><td>低于平均值</td><td>高于平均值</td></tr><tr><td>性别</td><td></td><td></td><td>0.153</td></tr><tr><td>男</td><td>23</td><td>29</td><td></td></tr><tr><td>女</td><td>27</td><td>19</td><td></td></tr><tr><td>年龄(岁)</td><td></td><td></td><td>0.181</td></tr><tr><td><50</td><td>13</td><td>14</td><td></td></tr><tr><td>50~60</td><td>22</td><td>27</td><td></td></tr><tr><td>>60</td><td>15</td><td>7</td><td></td></tr><tr><td>肿瘤最大径(cm)</td><td></td><td></td><td>0.800</td></tr><tr><td><4.5</td><td>20</td><td>18</td><td></td></tr><tr><td>≥4.5</td><td>30</td><td>30</td><td></td></tr><tr><td>分化程度</td><td></td><td></td><td>0.200</td></tr><tr><td>低</td><td>8</td><td>14</td><td></td></tr><tr><td>中</td><td>31</td><td>28</td><td></td></tr><tr><td>高</td><td>11</td><td>6</td><td></td></tr><tr><td>淋巴转移</td><td></td><td></td><td>0.034</td></tr><tr><td>无</td><td>10</td><td>19</td><td></td></tr><tr><td>有</td><td>40</td><td>29</td><td></td></tr><tr><td>远处转移</td><td></td><td></td><td>0.567</td></tr><tr><td>无</td><td>36</td><td>32</td><td></td></tr><tr><td>有</td><td>14</td><td>16</td><td></td></tr><tr><td>手术性质</td><td></td><td></td><td>0.568</td></tr><tr><td>姑息/未切除</td><td>15</td><td>17</td><td></td></tr><tr><td>根治性</td><td>35</td><td>31</td><td></td></tr><tr><td>TNM分期</td><td></td><td></td><td>0.567</td></tr><tr><td>Ⅲ期</td><td>34</td><td>30</td><td></td></tr><tr><td>V期</td><td>16</td><td>18</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2单因素Logistic回归分析血清miR-409-3p表达与临床病理特征关系",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单因素Logistic回归分析血清miR-409-3p低表达量和高表达量与临床病理特征关系如表2所示，淋巴转移可能影响HIPEC治疗后血清中miR-409-3p表达。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6017072c45ed87d4638312d5f2e45a2e17189c1cd790eea519b451d483904ec.jpg",
+        "table_caption": [
+            "表2单因素Logistic回归分析血清miR-409-3p表达与临床病理特征关系"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>临床病理因素</td><td>OR</td><td>95% CI</td><td>P</td></tr><tr><td>性别</td><td></td><td></td><td></td></tr><tr><td>男</td><td>1.000</td><td></td><td></td></tr><tr><td>女</td><td>0.558</td><td>0.250~1.245</td><td>0.154</td></tr><tr><td>年龄(岁)</td><td></td><td></td><td></td></tr><tr><td><50</td><td>1.000</td><td></td><td></td></tr><tr><td>50~60</td><td>3.117</td><td>0.957~10.151</td><td>0.059</td></tr><tr><td>>60</td><td>2.232</td><td>0.775~6.428</td><td>0.137</td></tr><tr><td>肿瘤最大径(cm)</td><td></td><td></td><td></td></tr><tr><td><4.5</td><td>1.000</td><td></td><td></td></tr><tr><td>≥4.5</td><td>0.280</td><td>0.692~3.567</td><td>0.280</td></tr><tr><td>分化程度</td><td></td><td></td><td></td></tr><tr><td>低</td><td>1.000</td><td></td><td></td></tr><tr><td>中</td><td>0.516</td><td>0.188~1.414</td><td>0.198</td></tr><tr><td>高</td><td>4.889</td><td>0.083~1.168</td><td>0.084</td></tr><tr><td>淋巴转移</td><td></td><td></td><td></td></tr><tr><td>无</td><td>1.000</td><td></td><td></td></tr><tr><td>有</td><td>2.621</td><td>1.063~6.463</td><td>0.036</td></tr><tr><td>远处转移</td><td></td><td></td><td></td></tr><tr><td>无</td><td>1.000</td><td></td><td></td></tr><tr><td>有</td><td>1.286</td><td>0.544~3.041</td><td>0.567</td></tr><tr><td>手术性质</td><td></td><td></td><td></td></tr><tr><td>姑息/未切除</td><td>1.000</td><td></td><td></td></tr><tr><td>根治性</td><td>0.782</td><td>0.335~1.821</td><td>0.568</td></tr><tr><td>TNM分期</td><td></td><td></td><td></td></tr><tr><td>Ⅲ期</td><td>1.000</td><td></td><td></td></tr><tr><td>IV期</td><td>0.258</td><td>0.554~2.934</td><td>0.568</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3血清miR-409-3p低表达与高表达组胃癌患者Kaplan-Meier生存期",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HIPEC治疗后血清miR-409-3p低表达量组中位生存期为26个月， $9 5 \\%$ CI:24.020\\~27.980；血清miR-409-3p高表达量组中位生存期为30个月， $9 5 \\% C \\mathrm { I } =$ 25.972\\~34.028,两组比较log-rank值为 $8 . 6 7 3 , P { = } 0 . 0 0 3$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "miRNA是一类长度在19\\~23nt的内源性非编码单链小RNA,因其片段较小,且耐RNA酶降解，因此能在血清样本中稳定存在,是一类理想的肿瘤分子标志,这为检测血清中miRNA应用于评估肿瘤的预后提供了可能。miRNA的靶向作用于大约 $30 \\%$ 的人类基因，越来越多的证据表明miRNA的在基因表达中的重要性[8]多药耐药性常造成胃癌化疗失败，影响患者的预后。热疗能够有效逆转恶性肿瘤多药耐药性，但具体机制并未清楚。同时研究[]发现某些miRNA在胃癌多药耐药性中发挥作用,并有报道[1l-14]显示miR-409-3p与肿瘤的增殖、侵袭以及细胞凋亡有关,提示miR-409-3p可能与胃癌多药耐药性有关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "体外研究中表明胃癌细胞SGC-7901中miR-409-3p的表达显著抑制细胞的增殖以及诱导细胞的凋亡[15]。Ma等[13]发现乳腺癌组织中miR-409-3p的表达水平相比于癌旁组织明显下调，并与乳腺癌的不良预后显著相关，可能的作用机制是miR-409-3p的表达降低了ZEB1蛋白质的水平。ZEB1蛋白质与肿瘤细胞的侵袭力、分化程度有密切关系[8。研究发现与比邻非肿瘤组相比，骨肉瘤细胞中miR-409-3p表达呈下降，表达水平与骨肉瘤的迁移相关[1。在肺癌组织中亦发现相同的表达下调[1]，相比miR-409-3p高表达，低miR-409-3p表达患者肿瘤分化程度低，淋巴结转移的发生率较高，可能的机制是通过靶向c-Met抑制Akt的信号通路减少肺癌细胞迁移和侵袭。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次研究结果表明患者有淋巴结转移，HPEC治疗后血清中miR-409-3p更倾向于低表达。有研究证实血清中miRNA可作为胃癌诊断的生物标志物[17]。本研究结果表明miR-409-3p在HIPEC治疗后高表达有更长的中位生存时间，且与低表达组相比有统计学意义。那么HIPEC治疗后血清中miR-409-3p有可能成为评估胃癌预后的生物标志物。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]邹文斌,李兆申.中国胃癌发病率及死亡率研究进展[J].中国实用内 科杂志,2014,34(4):408-15.   \n[2]秦新裕，刘凤林.胃肠癌术后复发的外科治疗[J].中华胃肠外科杂志 2006,9(3):193-6.   \n[3]胡明,詹高房,雷建,等.腹腔热灌注化疗治疗不可切除胃癌恶性腹 水的临床研究[J].消化肿瘤杂志：电子版,2014,06(1):19-22.   \n[4」李晶晶，魏志刚,段雪飞,等.T_4期结直肠癌根治术后早期腹腔热灌 注化疗的临床研究[J].中国普通外科杂志,2016,25(4):470-4.   \n[5] Zhang D,Fan D.New insights into the mechanisms of gastric cancer multidrug resistance and future perspectives [J].Future Oncol,2010,6(4): 527-37.   \n[6]Husted S,Spkilde R,Rask L,et al. MicroRNA expression profiles associated with development of drug resistance in Ehrlich ascites tumor cells[J].Mol Pharm,2011,8(6): 2055-62.   \n[7]Wang M,Gu HB,Wang S,et al. Circulating miR-17-5p and miR-2Oa: molecular markers for gastric cancer[J].Mol Med Rep, 2012,5(6): 1514-20.   \n[8]Dou J,He X,Liu Y, et al.Effect of downregulation of ZEB1 on vimentin expression,tumour migration and tumourigenicity of melanoma B16F10 cells and CSCs[J]. Cell Biol Int,2014,38(4): 452-61.   \n[9]Krawczyk PM,Eppink B,Essers J,et al.Mild hyperthermia inhibits homologous recombination，induces BRCA2 degradation，and sensitizes cancer cels to poly (ADP-ribose) polymerase-1 inhibition [J].Proc Natl Acad Sci USA,2011,108(24): 9851-6.   \n[10]李 勇,檀碧波,范立侨,等.胃癌耐药细胞株 SGC7901/阿霉素中 miR-185的表达及对细胞多药耐药性的影响[J].中国全科医学, 2015,18(17): 2101-4.   \n[11]Wan L, Zhu L,Xu J, et al. MicroRNA-409-3p functions as a tumor suppressor in human lung adenocarcinoma by targeting c-Met[J]. Cell Physiol Biochem,2014,34(4):1273-90.   \n[12]Xu X, Chen H,Lin Y,et al. MicroRNA-409-3p inhibits migration and invasion of bladder cancer cells via targeting c-Met[J]. Mol Cells,2013,36(1): 62-8.   \n[13]Ma Z,Li Y, Xu J,et al. MicroRNA-409-3p regulates cell invasion and metastasis by targeting ZEB1 in breast cancer[J].Iubmb Life, 2016,68(5): 394-402.   \n[14] Bai R，Weng C, Dong H,et al. MicroRNA-409-3p suppresses colorectal cancer invasion and metastasis partly by targeting GAB1 expression[J]. Internatl J Cancer,2015,137(10): 2310-22.   \n[15]Li C,Nie H,Wang M,et al. MicroRNA-409-3p regulates cell proliferation and apoptosis by targeting PHF1O in gastric cancer[J]. Cancer Lett,2012,320(2):189-97.   \n[16]Wu S,Du X,Wu M,et al. MicroRNA-409-3p inhibits osteosarcoma cell migration and invasion by targeting catenin-δ1 [J]. Gene,2016,584(1): 83-9.   \n[17]齐京鹏,史阿娉,丰帆,等.血清中microRNA-210表达水平对胃癌的 诊断价值[J].现代肿瘤医学,2016,24(4):597-9. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    }
+]

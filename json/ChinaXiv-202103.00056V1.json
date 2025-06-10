@@ -1,0 +1,466 @@
+[
+    {
+        "type": "text",
+        "text": "高寒草甸退化对土壤电导率变化影响的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王英成¹，芦光新'，赵丽蓉¹，邓晔²，王军邦³(1.青海大学,青海 西宁810016；2.中国科学院生态环境研究中心，北京100085;3.中国科学院地理科学与资源研究所,生态系统网络观测与模拟重点实验室，生态系统大数据与模拟中心，北京 100101)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：土壤电导率是表征土壤水溶性盐的一个重要指标,可反映土壤盐渍化程度。为了研究高寒草甸退化对土壤电导率的影响,以三江源区未退化高寒草甸和退化高寒草甸为研究对象,系统分析了退化高寒草甸的植被特征和土壤特征与土壤电导率的相互关系。结果表明:高寒草甸退化会对土壤电导率产生显著负影响，且土壤电导率与评价高寒草甸的退化指标植被盖度、地上生物量、土壤有机质、土壤全氮含量表现出一致的变化趋势。因而,认为高寒草甸的退化是会引起土壤电导率的变化，土壤电导率作为土壤盐渍化程度的衡量指标,亦可作为评价草甸退化的客观指标之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：退化高寒草甸；土壤电导率；植被特征；土壤特征 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "草地生态系统是陆地上分布最广的植被类型之一，是陆地上面积仅次于森林的第二个绿色植被层，约占陆地生态系统总面积的1/3，陆地面积的$2 4 \\% ^ { [ 1 ] }$ 。高寒草甸生态系统是青藏高原的主体生态系统，覆盖面积约占 $5 0 . 9 \\% ^ { [ 2 ] }$ ,同时高寒草甸生态系统在亚洲中部高寒环境及世界高寒地区也极具代表性。高寒草甸具有涵养水源、保护生物多样性、固定碳素等重要的生态功能，对于全球生物圈具有不可替代的生态屏障作用。然而，近几十年来，高寒草甸由于气候暖干化[3-4]、人类活动干扰[5-7或二者之间的耦合效应8导致日渐退化，使得高寒草甸生态系统的结构和功能发生了严重退化，导致草地生产力、质量衰退，生态环境恶化，生物多样性及其复杂程度降低，生态系统的自我恢复功能减弱甚至丧失，经济潜力和生态服务功能下降。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "草地退化是一个复杂而长期的过程,草地退化最明显的标志是植被退化，包括植被群落组成，生产力以及空间结构等的改变，同时土壤理化性质也发生改变，使得土壤朝着贫瘠化和干旱化方向发展，并伴随着鼠害等动物群落的变化和放牧家畜生产力的变化[9。因此，国内外草地学家从不同角度阐述了草地退化对草地植被和土壤特征的影响，诸多研究[10-15]结果表明，随着草地退化程度的加剧,草地生产力、质量都会呈明显的下降趋势，同时土壤的贫瘠化和干旱化也越加严重，到了极度退化阶段便呈现“黑土滩\"地貌。刘玉等[通过样方法对祁连山山区大通河上游不同退化程度高寒草甸植物群落进行调查，结果表明，随着退化程度的加剧，草甸总盖度下降，优良牧草生物量明显下降，杂类草和毒草生物量上升，草甸质量和生物量也明显降低。周华坤[17]等通过对黄河源区紫花针茅高寒草原在不同退化程度下植被与土壤特征研究，结果表明，随着高寒草原退化程度的加大，植被高度、草地质量指数，草地间的相似性指数都降低，而土壤湿度、土壤有机质和土壤紧实度等土壤属性也随之减小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "草地退化过程中，高寒草甸土壤理化性质会发生实质性的改变。而土壤电导率(EC)在一定程度上可以指示土壤中 ${ \\mathrm { C a } } ^ { 2 + } , { \\mathrm { M g } } ^ { 2 + } , { \\mathrm { K } } ^ { + }$ 等主要盐基离子的含量变化，是表征土壤水溶性盐的一个重要指标，影响土壤有效性养分、微生物组成与结构等肥力因素，亦可反映土壤盐渍化程度[8]。在以往对于高寒草甸退化过程研究中涉及土壤电导率变化，及其对于植被群落和土壤特性影响的相关报道较少。且在高寒草甸退化过程中，随着草甸退化程度的加大，地上植被和土壤特征都会发生显著的变化，土壤电导率作为表征土壤盐渍化的指标，在草甸退化过程会如何变化？是否会跟土壤理化性质一样呈现一种下降的趋势？为此，我们提出假设：（1）草甸退化对土壤电导率有一定的影响。(2）土壤电导率跟地上植被、土壤理化性质之间具有一定的相关关系且在草甸退化后呈现出一致的变化趋势。本研究以青海省玉树州珍秦乡未退化高寒草甸和退化高寒草甸为研究对象，探究高寒草甸退化过程中植被群落、土壤理化性质、土壤电导率变化规律，以期揭示高寒草甸退化过程中植被-土壤-土壤电导率特点，丰富退化高寒草甸评价指标，为退化高寒草甸的预警与恢复治理提供科学依据",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于青海省玉树州称多县珍秦乡，地理位置 $3 3 ^ { \\circ } 2 1 ^ { \\prime } 3 5 . 0 4 ^ { \\prime \\prime } \\mathrm { N } , 9 7 ^ { \\circ } 2 0 ^ { \\prime } 3 7 . 3 8 ^ { \\prime \\prime } \\mathrm { E }$ ，平均海拔4500$\\mathrm { ~ m ~ }$ ,属寒温大陆性季风气候，冷季长，暖季短，年均温 $- 1 . 6 ~ \\mathrm { { \\mathcal { C } } }$ ,无霜期较短，在93\\~126d左右。草地植被主要以高寒草甸为主，原生植被的主要优势种有高山嵩草（Kobresiapygmaea）、矮嵩草（Kobresia hu-milis）、紫花针茅(Stipa purpurea)等,土壤为高寒草甸土。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样地设置于2019年8月，在称多县珍秦乡分别选择 $1 0 0 0 \\mathrm { m } { \\times } 1 0 0 0 \\mathrm { m }$ 的一块未退化高寒草甸和一块退化高寒草甸作为研究样地，两块样地之间的间距大于 $1 0 0 0 \\mathrm { m }$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2实验设计与取样方法针对研究样地，即$1 0 0 0 \\ \\mathrm { m } { \\times } 1 0 0 0 \\ \\mathrm { m }$ 的未退化高寒草甸与退化高寒草甸，在样地内按对角线设置2条 $1 4 1 4 \\mathrm { ~ m ~ }$ 长的样带，且分别于每条样带上相隔 $1 7 5 \\mathrm { ~ m ~ }$ 设置1个 $0 . 5 0 ~ \\mathrm { m } \\times \\$ $0 . 5 0 \\mathrm { ~ m ~ }$ 的样方，两条样带共获得15个样方(图1）。植被群落调查采用样方法，对每个样方中的植物种类、物种数、物种分盖度、群落总盖度和物种自然高度进行测定。植被盖度采用针刺法进行测定，生物量测定采用刘割法，齐地面剪取植物地上部分，装在信封袋中带回实验室，在 $6 5 ~ \\mathrm { { ^ { \\circ } C } }$ 下烘至质量恒定，测定干质量，作为地上生物量的指标。土样采样点以草地样方为中心，在所选取的样方中随机用土钻钻取表层土壤( $0 { \\sim } 1 5 ~ \\mathrm { c m }$ )二钻，将可见植物残体及土壤动物去除，封装于带有样品编号的样品袋中，带回实验室用于土壤特性分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5225805c4b46414f8e695df9235dec7ffba0e264ea8edf4bd6533af600d43289.jpg",
+        "img_caption": [
+            "图1样地设计示意图",
+            "Fig.1 The sample design plot "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3指标测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）物种多样性计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "物种多样性采用物种丰富度 $( S )$ ,Shannon-Winter指数 $( H )$ ,Simpson指数 $( D )$ ,Pielou指数 $( E )$ 来表示,计算公式如下[19-20]：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 重要值： $I V { = } ( C { + } H ) / 2$ 。式中 $I V$ 为重要值， $C$ 为相对盖度， $H$ 为相对高度;$\\textcircled{2}$ 植物物种丰富度( $S ) : S { = } N _ { \\circ } { } ^ {  } N ^ {  }$ 为每个样地的物种总数;$\\textcircled{3}$ 植物Simpson优势度指数 $( D )$ $\\scriptstyle : D = 1 - \\sum P _ { i } ^ { 2 }$ 。式中， $P _ { i }$ 为物种 $i$ 的重要值;$\\textcircled{4}$ 植物 Shannon-Wiener多样性指数 $\\mathit { \\Omega } ^ { \\prime } H ) : H = \\mathit { \\Omega } - \\$ $\\Sigma P _ { i } \\mathrm { l n } P _ { i }$ $\\textcircled{5}$ 植物Pielou均匀度指数 $( E )$ ： $E { = } H / \\mathrm { l n } S$ 。式中， $H$ 为多样性指数， $s$ 为植物物种丰富度指数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）土壤电导率测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用TDR350测定土壤环境参数(土壤温度、土壤水分、土壤电导率)。具体测定为在每个样方中使用 $7 . 5 0 \\mathrm { c m }$ 的探针测定，重复三次，记录数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）土壤理化性质测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测定土样中的土壤全氮、土壤有机质含量和土壤 $\\mathrm { \\ p H }$ 。土壤pH用显酸度计(PHS-3C)测得，水土比2.5:1。土壤全氮含量使用元素分析仪测得。土壤有机质含量使用重铬酸钾氧化滴定法测得。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用Excel2010整理，利用SPSS20.0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对数据进行 $T -$ 检验分析和回归分析，利用Origin2018制图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1草地植被特征比较 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 群落特征比较草甸退化最明显的特征是地上植被的变化，草甸退化越严重地上植被生物量、物种数和生产力越低[21]。通过对未退化草甸和退化草甸植被盖度比较，未退化草甸植被盖度为$9 3 \\%$ ,退化草甸植被盖度为 $5 7 \\%$ (表1)。另对未退化草甸与退化草甸物种数和地上生物量进行 $T -$ 检验分析后发现,未退化草甸与退化草甸物种数和地上生物量存在显著差异( $_ { ( P < 0 . 0 5 ) }$ ,退化草甸物种数比未退化草甸降低了 $1 3 . 5 6 \\%$ ,地上生物量鲜重降低了$5 7 . 5 1 \\%$ ,地上生物量干重降低了 $5 1 . 5 4 \\%$ （表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6c12cb9c8c52b03f8e631599630df125473307516d18433bea63971f66d0f2b2.jpg",
+        "table_caption": [
+            "表1植被群落特征比较"
+        ],
+        "table_footnote": [
+            "注：不同小写字母表示存在显著差异 $( P { < } 0 . 0 5 )$ 。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">样地</td><td rowspan=\"2\">植被 盖度</td><td rowspan=\"2\">物种数</td><td colspan=\"2\">地上生物量/(g·m2)</td></tr><tr><td>地上生物量鲜重地上生物量干重</td><td></td></tr><tr><td>未退化草甸</td><td>93%</td><td>6.87±1.06a</td><td>156.55±52.90a</td><td>84.73±33.95a</td></tr><tr><td>退化草甸</td><td>57%</td><td>5.93±1.16b</td><td>66.51±21.73b</td><td>41.07±12.48b</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2植被群落结构分析根据调查统计表明，在试验样地共有草本植物14科22属23种，其中种类最多的是菊科（Compositae），其次依次为禾本科（Gramineae）,莎草科（Cyperaceae）,蔷薇科（Rosace-ae）,龙胆科（Gentianaceae）,石竹科（Caryophyllace-ae）,唇形科（Labiatae）,玄参科（Scrophulariaceae），豆科(Leguminosae)等(表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）未退化草甸 植物群落以高山嵩草(Kobre-siapygmaea）,优势度为 $0 . 5 3 \\%$ 。次优势种为紫花针茅（Stipapurpurea）重冠紫菀(Asterdiplostephioides）、细叶亚菊（Ajania tenuifolia）,优势度分别为 $0 . 2 4 \\%$ 、$0 . 1 4 \\% . 0 . 0 9 \\%$ (表2)。主要伴生种有麻花苏(Gentia-nastraminea）美丽风毛菊(Saussureasuperba）赖草(Leymus secalinus)等。以科属的重要值计算，依次为莎草科(0.53)>菊科(0.51)>禾本科 $( 0 . 3 3 ) \\mathrm { > }$ 唇形科$( 0 . 0 9 ) >$ 豆科 $\\left( 0 . 0 8 \\right) >$ 龙胆科 $( 0 . 0 8 ) >$ 蔷薇科 $( 0 . 0 5 ) >$ 大戟科 $( 0 . 0 5 ) >$ 玄参科 $( 0 . 0 5 ) >$ 石竹科(0.04)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）退化草甸群落优势种以高山嵩草为优势 种，优势度为 $0 . 4 2 \\%$ 。次优势种为高山唐松草(Thal",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2不同退化高寒草甸植物群落组成及其重要值(平均值+标准差)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/664eec3562051e4977d3aa28c5e94bb797452a46359aac4d92d7271804e82806.jpg",
+        "table_caption": [
+            "Tab.1 Comparison of vegetation community characters ",
+            "Tab.2 Community composition and important value of different degraded meadow(Mean $\\mathbf { \\sigma } _ { \\mathrm { i \\pm S D } }$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>物种</td><td>退化草甸</td><td>未退化草甸</td></tr><tr><td>麻花苏(Gentiana straminea)</td><td>0.16±0.00</td><td>0.08±0.01</td></tr><tr><td>多裂委陵菜(Potentilla multifida)</td><td>0.06±0.02</td><td>0.05±0.02</td></tr><tr><td>雪灵芝(Arenaria kansuensis)</td><td>0.09±0.09</td><td>0.04±0.01</td></tr><tr><td>高山嵩草(Kobresia pygmaea)</td><td>0.42±0.09</td><td>0.53±0.13</td></tr><tr><td>美丽风毛菊(Saussurea superba)</td><td>0.08±0.00</td><td>0.09±0.01</td></tr><tr><td>火绒草(Leontopodium leontopodioides)</td><td>0.07±0.03</td><td>0.06±0.02</td></tr><tr><td>赖草(Leymus secalinus)</td><td>0.08±0.00</td><td>0.09±0.00</td></tr><tr><td>黄花棘豆(Oxytropis ochrocephala)</td><td>0.08±0.00</td><td>0.08±0.02</td></tr><tr><td>细叶亚菊(Ajania tenuifolia)</td><td>0.18±0.18</td><td>0.09±0.09</td></tr><tr><td>兔耳草(Lagotis brevituba)</td><td>一</td><td>0.05±0.00</td></tr><tr><td>独一味(Lamiophlomis rotata)</td><td>1</td><td>0.09±0.04</td></tr><tr><td>重冠紫菀(Aster diplostephioides)</td><td>0.06±0.01</td><td>0.13±0.08</td></tr><tr><td>蒲公英(Taraxacum mongolicum)</td><td>0.03±0.01</td><td>0.05±0.00</td></tr><tr><td>甘青大戟(Euphorbia micractina)</td><td>0.10±0.06</td><td>0.05±0.00</td></tr><tr><td>紫花针茅(Stipa purpurea)</td><td>0.19±0.03</td><td>0.24±0.07</td></tr><tr><td>矮生忍冬(Lanicera minuta)</td><td>0.19±0.03</td><td>一</td></tr><tr><td>兰石草(Lancea tibetica)</td><td>0.14±0.08</td><td>一</td></tr><tr><td>高山唐松草(Thalictrum alpinum)</td><td>0.19±0.15</td><td>一</td></tr><tr><td>苔草(Carex)</td><td>0.11±0.00</td><td>一</td></tr><tr><td>独活(Heracleum millefolium)</td><td>0.13±0.07</td><td>1</td></tr><tr><td>黄芪(Astragalus tanguticus)</td><td>0.17±0.00</td><td>一</td></tr><tr><td>车前草(Plantago major)</td><td>0.06±0.00</td><td>1</td></tr><tr><td>星状风毛菊(Saussurea stella)</td><td>1</td><td>0.09±0.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ictrumalpinum）、紫花针茅、麻花苏，优势度分别为$0 . 1 9 \\%$ ） $0 . 1 9 \\%$ ） $0 . 1 8 \\%$ 。主要伴生种有多裂委陵菜(Potentillamultifida）兰石草(Lanceatibetica）独活(Heracleummillefolium)等。以科属的重要值计算，依次为莎草科 $( 0 . 5 3 ) \\mathrm { > }$ 菊科 $( 0 . 4 2 ) >$ 禾本科 $( 0 . 2 7 ) \\succ$ 豆科 $( 0 . 2 5 ) >$ 毛茛科 $( 0 . 1 9 ) >$ 忍冬科 $( 0 . 1 9 ) >$ 龙胆科$\\left( 0 . 1 6 \\right) >$ 玄参科 $( 0 . 1 4 ) >$ 伞形科 $( 0 . 1 3 ) >$ 大戟科$\\left( 0 . 1 0 \\right) >$ 石竹科 $( 0 . 0 9 ) >$ 车前科 $\\left( 0 . 0 6 \\right) >$ 蔷薇科(0.06)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对高寒退化草甸的植被群落特征的研究分析，结果表明，草甸退化后高寒草甸的优势种高山嵩草及紫花针茅的优势度都会降低，同时豆科植物的重要值相比未退化草甸有所提高，这主要是因为高寒草甸退化指示类植物黄花棘豆的重要值提高。因此，认为草甸退化会使得草甸植被群落结构发生变化，主要体现在优势物种的变化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3植物群落物种多样性分析 $\\alpha$ 多样性是一个测量群落内物种分布均匀程度和数量的指标，反映了物种在群落中对于环境的适应能力和对群落资源的利用能力。从图2可以看出，退化草甸与未退化草甸的多样性指数存在显著差异（ $( P { < } 0 . 0 5 )$ ，退化草甸的 Simpson指数、Shannon-Wiener指数、Pielous指数比未退化草甸分别增加了 $1 0 . 1 2 \\%$ ） $5 2 . 5 7 \\%$ 、$5 6 . 1 9 \\%$ 。物种多样性能够反映系统中物种间的相互关系和作用。本研究中，草甸退化后，物种多样性都呈增加的趋势主要是因为群落种类数目和种类之间个体分配的均匀性，草甸退化抑制了群落中优势物种的竞争力，为处于竞争弱势的物种人侵提供可能，因此弱势物种的重要值增加，导致群落多样性的提高。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa10c84a74873fcf3a13bc747f379bd0dae95702aa7756048f4c48483daae7c0.jpg",
+        "img_caption": [
+            "注：不同小写字母表示不同退化程度草甸的差异性显著 $( P { < } 0 . 0 5 )$ 0图2不同退化高寒草甸群落α多样性指数",
+            "Fig.2 $\\mathfrak { a }$ -diversityindexofdifferentdegradedalpinemeadow "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤特征比较 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1土壤理化性质分析表3结果表明，未退化草甸与退化草甸的土壤全氮含量、土壤有机质、土壤pH存在显著差异( $( P { < } 0 . 0 5 )$ 。退化草甸的土壤全氮含量和有机质比未退化草甸分别降低了 $2 3 . 2 0 \\%$ 和 $3 8 . 7 1 \\%$ ;而土壤pH比未退化草甸增加了 $1 7 . 9 1 \\%$ ，这主要是因为草甸退化后地表植被覆盖面积减小，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3不同退化高寒草甸土壤化学成分",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc30ea8002ee5b0aae943da2d0bc7188385c41f9b365c7686103f14ac1c8430d.jpg",
+        "table_caption": [
+            "Tab.3 Soil chemical composition in different degraded alpine meadow ",
+            "表4不同退化高寒草甸土壤参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地</td><td>总氮含量/%</td><td>有机质含量/%</td><td>pH</td></tr><tr><td>未退化草甸</td><td>72.64±8.23a</td><td>10.67±1.98a</td><td>6.31±0.12b</td></tr><tr><td>退化草甸</td><td>55.79±16.90b</td><td>6.54±1.71b</td><td>7.44±0.37a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "导致水分蒸腾作用加强，而土壤盐碱无法随着水分蒸发，故被蓄积在地表，进而导致土壤向碱性化过渡。2.2.2土壤参数比较在本试验中，我们通过三参数仪对样方内 $0 { \\sim } 1 5 \\mathrm { c m }$ 处的土壤进行了土壤温度、土壤水分、土壤电导率的测定。从表4中可知，未退化草甸和退化草甸的土壤温度、土壤水分和土壤电导率存在显著差异( $_ { ( P < 0 . 0 5 ) }$ ,退化草甸的土壤温度比未退化草甸降低了 $5 5 . 1 2 \\%$ ,土壤电导率则降低了 $7 0 . 3 7 \\%$ 土壤水分则增加了 $1 7 . 1 1 \\%$ 。由此可知，高寒草甸退化对土壤温度、电导率和水分会产生一定的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2624de6d9d5bc08bf4c53929f6aa5d25209517d5c0a72b6e09385b2f49d888a3.jpg",
+        "table_caption": [
+            "Tab.4Soil values in different degraded alpine meadow "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地</td><td>土壤温度/℃</td><td>土壤水分/%</td><td>土壤电导率/(μS·cm1)</td></tr><tr><td>未退化草甸</td><td>20.29±2.16a</td><td>20.40±6.29b</td><td>0.27±0.10a</td></tr><tr><td>退化草甸</td><td>13.08±4.39b</td><td>24.61±4.00a</td><td>0.08±0.08b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3高寒退化草甸土壤电导率与植被特征、土壤特 征的相关性分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1土壤电导率与植被特征的相关性分析为进一步研究退化高寒草甸土壤电导率与植被群落的关系，将退化高寒草甸的土壤电导率与植被群落进行了回归分析。退化高寒草甸土壤电导率均与植被盖度、物种数、生物量鲜重、生物量干重呈线性关系。退化高寒草甸土壤电导率与植被特征的相关性表明，土壤电导率与植被盖度呈极显著正相关1 $\\scriptstyle - { P < 0 . 0 0 1 }$ （图3a），与物种数呈正相关关系(图3b），与地上生物量鲜重和干重呈极显著正相关关系( $\\scriptstyle P <$ $0 . 0 1 , P { < } 0 . 0 5 )$ （图3c，图3d）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2土壤电导率与土壤特征的相关性分析为研究退化高寒草甸土壤电导率与土壤特征的关系，将退化高寒草甸土壤电导率与土壤理化性质进行了回归分析。退化高寒草甸土壤电导率均与土壤总氮含量、有机质含量、 $\\cdot \\mathrm { p H }$ 值、土壤温度、土壤水分呈线性关系。其中土壤电导率与土壤总氮含量、有机质含量、土壤温度呈极显著正相关关系( $( P { < } 0 . 0 1 )$ 图4b，图4d);与pH和土壤水分呈极显著负相关关系中 $\\scriptstyle - { P < 0 . 0 0 1 }$ （图4c，图4e）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1高寒退化草甸植被特征对土壤电导率的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高寒草甸草地退化不仅是植被的退化，亦是土壤的退化，最终导致整个生态系统的退化，破坏草地生态系统平衡，使整个生态系统逆向演替。草地退化越严重，其群落结构就越简单、植被生产力越低、草场质量越差、优良牧草数量减少、植被盖度降低,群落多样性、丰富度和均匀度都会降低[22-23]。表明草地退化后植被盖度降低，地上生物量降低，这与前人研究结果一致[24-25]",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/167bf27877c794d67bbef79d008284d25171868f180645fbd9cdcc4c05068570.jpg",
+        "img_caption": [
+            "图3高寒退化草甸土壤电导率与植被特征的相关性",
+            "Fig.3Relationship between soil conductivity and vegetation characteristics in degraded alpine meadow "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "电导率是衡量土壤盐渍化程度的一个重要评价指标，而土壤盐渍化也是草地退化的主要特征之_[26]。本研究退化草甸的土壤电导率和植被特征的相关性表明，土壤电导率与植被特征具有较强的相关性且表现出一致的变化趋势，说明草甸退化不仅会导致植被覆盖度、地上植被生物量的降低，同时也会降低土壤电导率的含量，即草甸退化会对土壤电导率产生一定的负影响。李天才等的研究结果表明，随着草地退化，退化草地植被对矿质元素会有蓄积增加的趋势，这是草地退化的结果，也是加速草地退化的原因。而退化草地植物中矿质元素营养的蓄积增加必然会引起土壤中矿质元素含量的变化，进而导致土壤的退化[28]。高寒草甸退化后土壤电导率呈下降趋势，土壤电导率的变化在一定程度上会引起土壤质地的变化，而地上植被的生长需要有良好的土壤质地作为保证，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2高寒退化草甸土壤特征对土壤电导率的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤作为草地生态系统生物生命活动的主要场所，其因子直接影响草地生物的生长发育和演替过程。随着草甸的退化，土壤全氮和有机质呈下降趋势，这与孙长宏[29]、魏卫东等[30]的研究结果一致。这是因为在草地退化过程中，由于植被的减少，土壤中的固氮作用就会减弱甚至是停止，同时退化加速了生物残体的分解，有机氮转化为无机氮,伴随着水土流失过程将其损耗[31]。而退化导致土壤有机质减少主要是因为退化后草地地上生物",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfa7620de93dc3358fb35a813a8ca31ad192fda254b48ed315bc424f1eda24f3.jpg",
+        "img_caption": [
+            "图4高寒退化草甸土壤电导率与土壤理化性质的相关性"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Relationshipbetweensoil electricalconductivityandsoilphysicalandchemicalproperties indegradedalpine meadow量减少，植物枯落物也随之减少，使得土壤有机碳的输入量减少[32]。随着草地的退化，土壤会不断的干旱化和盐碱化，主要是因为草地退化后地表植被覆盖面积减小，导致水分蒸腾作用加强，而土壤盐碱无法随着水分蒸发，故被蓄积在地表，进而导致土壤向盐碱化过渡，这与本研究结果一致。土壤水分与植被变化有着密切的关系，植被退化会影响土壤地表特征，同时也影响土壤水分的供给、运输和蒸发过程，在本研究中，随着草地退化，土壤水分呈上升趋势,这与前人研究结果不一致[33-34],出现差异的主要原因一方面是本研究区退化草甸杂类草较多且草毡层较厚，另一方面是当时采样的时间是玉树雨季最多的一个时间段，所以导致这种误差的出现。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤电导率可以作为衡量土壤盐分积累状况的量化指标[35]。Zhang等[3研究结果表明，土壤的无机氮含量与土壤电导率呈极显著正相关关系，在本研究中，通过测定土壤全氮含量，分析发现土壤全氮含量与土壤电导率呈正相关关系，但并不显著,可能是由于土壤全氮含量中土壤有机氮含量占比较大所造成。韩跃等3通过对黄河三角洲盐碱地混交林土壤电导率在旱季与雨季的分布特征，发现土壤电导率在雨季低于旱季，说明水分与电导率之间是有显著关系的。本研究中土壤电导率与土壤特征的相关性结果表明，土壤电导率与土壤水分之间是存在显著负相关关系。主要是因为土壤水分的增加会使土壤中可溶性盐离子的浓度含量低，进而导致土壤电导率降低。土壤电导率与土壤温度的相关性结果表明，土壤温度与土壤电导率呈极显著正相关,这与姚世庭等[38]的研究结果相符，土壤温度的降低，导致土壤中离子的迁移变得缓慢，最终导致土壤电导率的降低。本研究结果中土壤电导率与土壤pH呈极显著负相关关系，这与王维维等[39]在研究焉耆盆地农田耕层土壤盐分的空间变异及分布格局中土壤电导率与土壤pH相关关系时，发现土壤电导率与土壤 $\\mathrm { \\ p H }$ 呈负相关关系结果一致。本研究结果表明，土壤电导率与土壤有机质含量呈极显著正相关关系，即随着草地退化，土壤有机质含量和土壤电导率呈下降趋势。张冈等[40]利用不同方式对盐渍化土壤有机质与盐分的影响进行了研究,结果表明,在种植农作物后，土壤有机质含量下降，土壤中的盐分离子 $\\mathrm { M g ^ { 2 + } , C a ^ { 2 + } } ,$ $\\mathrm { K ^ { + } }$ 等含量也相应下降，这与本研究结果相符。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过高寒草甸退化对土壤电导率变化影响的研究，结果表明高寒草甸退化会对土壤电导率产生显著的负影响。对高寒退化草甸土壤电导率及其与草甸植被和土壤特征相互关系的研究，发现土壤电导率与植被盖度、地上生物量、土壤有机质含量、土壤全氮含量、土壤温度之间都存在较强的相关性。植被盖度、地上生物量、土壤有机质、土壤全氮含量作为评价高寒草甸退化的指标与土壤电导率表现出一致的变化趋势，这表明土壤电导率是可以表征高寒草甸退化，进而认为土壤电导率可以作为草甸退化的评价指标之一。研究结果对丰富草地退化评价指标提供了数据支撑。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]冯超,古松,赵亮,等.青藏高原三江源区退化草地生态系统的 地表反照率特征[J].高原气象,2010,29(1):70-77.[Feng Chao, Gu Song,Zhao Liang,et al.Albedo characteristics of degraded grassland ecosystem in the source region of Three Rivers in Qinghai-Tibetan Plateau[J]. Plateau Meteorology,2010,29(1): 70-77.] [2]王建兵,张德罡,曹广民,等.青藏高原高寒草甸退化演替的分 区特征[J].草业学报,2013,22(2): 1-10.[Wang Jianbing,Zhang Degang,Cao Guangmin,et al. Regional characteristics of the alpine meadow degradation succession on the Qinhai- Tibetan Plateau[J]. Acta Prataculturae Sinica,2013,22(2): 1-10.] [3]曹文炳,万力,曾亦键,等.气候变暖对黄河源区生态环境的影 响[J].地学前缘,2006,13(1):40-47.[Cao Wenbing,Wan Li, Zeng Yijian,et al.Impacts of global warming on the eco-environment in the headwater region of the Yellow River[J]. Earth Science Frontiers,2006,13(1): 40-47.] [4]张森琦,王永贵,赵永真,等.黄河源区多年冻土退化及其环境 反映[J].冰川冻土,2004,26(1):1-6.[Zhang Senqi,Wang Yonggui, Zhao Yongzhen,etal.Permafrost degradation and its environmental sequent in the source regions of the Yellow River[J]. Journal of Glaciology and Geocryology,2004,26(1): 1-6.] [5]Huakun Zhou, Xinquan Zhao, Yanhong Tang,et al. Alpine grassland degradation and its control in the source region of the Yangtze and Yellow Rivers, China[J]. Grassland Science,2005,51(3):   \n191-203. [6]薛艳庆.囊谦县\"黑土滩\"退化草地现状及治理对策[J].草业与 畜牧,2007(8): 56-57.[Xue Yanqing. Current situation and countermeasures of degraded grassandof“blacksoiltype”inangqian county[J]. Prataculture and Animal Husbandry,2OO7(8): 56-   \n57.] [7]尚占环,龙瑞军.青藏高原\"黑土型\"退化草地成因与恢复[J].生 态学杂志,2005,24(6): 652-656.[Shang Zhanhuan,Long Ruijun. Formation reason and recovering problem of the‘black soil type' degraded alpine grassland in Qinghai-Tibetan Plateau[J]. Chinese Journal of Ecology,2005,24(6): 652-656.] [8]周华坤,赵新全,周立,等.青藏高原高寒嵩草草甸的植被退化 与土壤退化特征研究[J].草业学报,2005,14(3):31-40.[Zhou Huakun, Zhao Xinquan, Zhou Li, et al.A study on correlations between vegetation degradation and soil degradation in the‘Alpine Meadow'of the Qinghai-Tibetan Plateau[J].Acta Prataculturae Sinica,2005,14(3): 31-40.]   \n[9]杨利民,韩海,阎志坚,等.松嫩平原主要草地群落放牧退化阶 段的划分[J].草地学报,1996,6(4):31-36.[Yang Limin,Han Hai, Yan Zhijian,et al. Division on degenerate successional stages of main grassland communities for giazing in the Songnen Plain of China[J]. Acta Agrestia Sinca,1996,6(4): 31-36.]   \n[10] 李以康,林丽,张法伟,等.嵩草草甸退化和恢复过程中主要牧 草演替和地表特征变化[J].草业学报,2010,19(5):179-185. [Li Yikang,Lin Li, Zhang Fawei, etal. The main forage succession and ground surface characteristic changes during degradation and restoration of alpine Kobresia meadow[J]. Acta Prataculturae Sinica, 2010,19(5): 179-185.]   \n[11] 侯扶江,南志标,肖金玉,等.重牧退化草地的植被、土壤及其耦 合特征[J].应用生态学报,2002,13(8):915-922.[Hou Fujiang, Nan Zhibiao,Xiao Jinyu,et al. Characteristics of vegetation,soil, and their coupling of degraded grasslands[J]. Chinese Journal of Applied Ecology,2002,13(8): 915-922.]   \n[12] 陈乐乐,施建军,王彦龙,等.高寒地区不同退化程度草地群落 结构特征研究[J].草地学报,2016,24(1):210-213.[Chen Lele, Shi Jianjun,Wang Yanlong,et al. Study on diferent degraded degrees grassland community structure characteristics of the alpine area[J].Acta Agrestia Sinica,2016,24(1): 210-213.]   \n[13] 张静,李希来,王金山,等.三江源地区不同退化程度草地群落 结构特征的变化[J].湖北农业科学,2009,48(9):2125-2129. [Zhang Jing,Li Xilai,Wang Jinshan,etal.Analysis on plant community structure in different degradation grassland in the Sanjiangyuan Region[J].Hubei Agricultural Sciences,2009,48(9): 2125-2129.]   \n[14]左小安,赵学勇,赵哈林,等.科尔沁沙质草地群落物种多样性、 生产力与土壤特性的关系[J].环境科学,2007,28(5):945-951. [Zuo Xiao’an, Zhao Xueyong,Zhao Halin,et al. Changesofspecies diversity and productivity in relation to soil properties in Sandy Grasslandin Horqin Sand Land[J].EnvironmentalScience, 2007, 28(5): 945-951. ]   \n[15]孙海群,林冠军,李希来,等.三江源地区高寒草甸不同退化草 地植被群落结构及生产力分析[J].黑龙江畜牧兽医,2013,56 (19): 1-3.[Sun Haiqun,Lin Guanjun,Li Xilai,et al.Analysis of vegetation community structure and productivity of different degraded grasslands of alpine meadows in the Sanjiangyuan area[J]. Heilongjiang Journal of Animal Husbandry and Veterinary Medicine,2013,56(19): 1-3.]   \n[16] 刘玉,马玉寿,施建军,等.大通河上游高寒草甸植物群落的退 化特征[J].草业科学,2013,30(7):1082-1088.[Liu Yu,Ma Yushou,Shi Jianjun,et al. Communitycharacteristicsof alpine meadow under diferent degresof degradation intheupperarea of Datong River[J].Pratacultural Science,2013,30(7):1082- 1088.]   \n[17] 周华坤,赵新全,温军,等.黄河源区高寒草原的植被退化与土 壤退化特征[J].草业学报,2012,21(5):1-11.[Zhou Huakun, Zhao Xinquan,Wen Jun,et al.Thecharacteristics of soil vegetation of degenerated alpine steppe in the Yellow River Source Region[J]. Acta Prataculturae Sinica,2012,21(5): 1-11.]   \n[18] 刘广明,杨劲松.土壤含盐量与土壤电导率及水分含量关系的 试验研究[J].土壤通报,2001,32(1):85-87.[Liu Guangming, Yang Jinsong. Study on the correlation of soil content with electric conductivity and soil water content[J]. Chinese Journal of Soil Science,2001,32(1): 85-87.]   \n[19] 吴红宝,水宏伟,胡国铮,等.海拔对藏北高寒草地物种多样性 和生物量的影响[J].生态环境学报,2019,28(6):1071-1079. [Wu Hongbao,Shui Hongwei, Hu Guozheng,et al. Species diversity and biomass distribution patterns of alpine grassland along an elevation gradient intheNorthern Tibetan Plateau[J]. Ecology and Environmental Sciences,2019,28(6):1071-1079.]   \n[20] 刘燕,李世雄,尹亚丽,等.基于Biolog指纹解析黑土滩退化草 地土壤微生物群落特征[J].生态环境学报,2019,28(7):1394- 1403.[Liu Yan,Li Shixiong,Yin Yali,et al.Analysis on soil microbial community characteristics of black soil beach degraded grassland based on biolog fingerprint[J]. Ecology and Environmental Sciences,2019,28(7): 1394-1403.]   \n[21] 董全民,周华坤,施建军,等.高寒草地健康定量评价及生产— 生态功能提升技术集成与示范[J].青海科技,2018,25 (1):15- 24.[Dong Quanmin, Zhou Huakun, Shi Jianjun, et al. Quantitative health evaluationand production of alpine grassland integration and demonstration of ecological function improvement technology [J]. Qinghai Science and Technology,2018,25(1): 15-24.]   \n[22] 罗亚勇,孟庆涛,张静辉,等.青藏高原东缘高寒草甸退化过程 中植物群落物种多样性、生产力与土壤特性的关系[J].冰川冻 土,2014,36(5): 1298-1305.[Luo Yayong, Meng Qingtao, Zhang Jinghui,et al. Species diversity and biomass in relation to soil properties of alpine meadows in the eastern Tibetan-Plateau in different degradation stages[J]. Journal of Glaciology and Geocryology,2014,36(5): 1298-1305.]   \n[23] 祁彪,张德罡,丁玲玲,等.退化高寒干旱草地植物群落多样性 特征[J].甘肃农业大学学报,2005,47(5):50-55.[Qi Biao, Zhang Degang,Ding Lingling,et al.Properties of plant community diversity of degraded alpine arid g rassands[J]. Journal of Gansu Agricultural University,2005,47(5): 50-55.]   \n[24] 李里,刘伟.退化草地植物功能群和物种丰富度与群落生产力 关系的研究[J].草地学报,2011,19(6):917-921.[LiLi,Liu Wei.Relationship between plant functional groups,species richness and community's productivity in degraded grassland[J].Acta Agrestia Sinica,2011,19(6): 917-921.]   \n[25]仁青吉,崔现亮,赵彬彬.放牧对高寒草甸植物群落结构及生产 力的影响[J].草业学报,2008,17(6):134-140.[Ren Qingji, Cui Xianliang, Zhao Binbin.Effects of grazing impact on community structure and productivity in an alpine meadow[J].Acta Prataculturae Sinica,2008,17(6): 134-140.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[26]田安红,赵俊三,张顺吉,等.基于分数阶微分的盐渍土电导率 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "高光谱估算研究[J].中国生态农业学报,2020,28(4):599-607. [Tian Anhong, Zhao Junsan, Zhang Shunji, et al. Hyperspectral estimation of saline soil electrical conductivity based on fractional derivative[J]. Chinese Journal of Eco-Agriculture,2020,28(4): 599-607.]   \n[27] 李天才,陈桂琛,曹广民,等.青海湖北岸草地土壤和植物钠、 锶、锂矿质元素含量与草地植被特征的关系[J.草原与草坪, 2012,32(6): 17-22.[Li Tiancai, Chen Guichen, Cao Guangmin, et al.Correlation between mineral elements Na, Sr,Li contents and plant characteristics in grassland on the north bank of Qinghai Lake[J]. Grassland and Turf,2012,32(6): 17-22.]   \n[28] 李天才,陈桂琛,曹广民,等.青海湖北岸退化草地和封育草地 中钾、钙、镁等矿质常量元素特征[JJ.草地学报,2011,19(5): 752-759.[Li Tiancai, Chen Guichen, Cao Guangmin,etal. Characteristics of mineral elements K,Ca, $\\mathrm { M g }$ in degraded grassland and enclosure grassland on the North Bank of Qinghai Lake[J].Acta Agresia Sinica,2011,19(5): 752-759.]   \n[29]孙长宏.玉树典型嵩草草甸植物及土壤特性初探[J].草业科学， 2013,30(8): 1161-1166.[Sun Changhong.Comparison of plant and soil characters between healthy and degraded Kobresia meadows in Yushu,Qinghai[J]. Pratacultural Science,2013,30(8): 1161-1166. ]   \n[30] 魏卫东,刘育红,马辉.高寒草甸退化草地土壤有机碳含量Meta 分析研究[J].环境科学与管理,2018,43(10):53-58.[Wei Weidong,Liu Yuhong,Ma Hui.Meta-analysis forsoil organic carbon content of degraded grassland on alpine meadow[J]. Environmental Science and Management, 2018,43(10): 53-58.]   \n[31] 袁知洋,邓邦良,郭晓敏,等.武功山山地草甸土壤全量氮磷钾 分布格局及对不同退化程度的响应[J].西北林学院学报, 2015,30(3):14-20.[Yuan Zhiyang,Deng Bangliang,Guo Xiaomin,et al.Soil total NPK's distribution pattern and response to diffrent degradation degrees in Wugong Mountain meadow[J]. Journal of Northeast Forestry University,2015,30(3):14-20.]   \n[32] 高海宁,张勇,秦嘉海,等.祁连山黑河上游不同退化草地有机 碳和酶活性分布特征[J].草地学报,2014,22(2):283-290.[Gao Haining,Zhang Yong,Qin Jiahai,et al. Organiccarbon distribution andenzyme activites of diferent degraded meadows soil in upstream of Heihe of Qilian Mountains[J].Acta Agestia Sinica, 2014,22(2): 283-290.]   \n[33] 陈玫妃,曾辉,王钧.青藏高原高寒草地土壤水分生态特征研究 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "现状[J].中国草地学报,2015,37(2): 94-101.[Chen Meifei, Zeng Hui,Wang Jun. Research progress in the ecological charactewistics of soil water in Alpine Grasslands on the Qinhai-Tibetan Plateau[J]. Chinese Journal of Grassland,2015,37(2): 94-101.]   \n[34] 杨永胜,张莉,未亚西,等.退化程度对三江源泽库高寒草甸土 壤理化性质及持水能力的影响[J].中国草地学报,2017,39 (5): 54-61.[Yang Yongsheng,Zhang Li,Wei Yaxi, et al.Effects of degradation degree on soil physicochemical properties and soil water-holding capacity in Zeku alpine meadow in the headwater region of Three Rivers in China[J]. Chinese Journal of Grassland, 2017,39(5): 54-61.]   \n[35]Jiang Y,Hao W, Zhang YG,et al. Geostatistical analyses of soil electrical conductivity in a vegetable greenhouse field with differentdata sets[J].JoualofnvironmentalReseach,8,2:130.   \n[36] Zhang R,Wienhold B J. The effect of soil moisture on mineral nitrogen,soil electrical conductivity,and pH[J]. Nutrient cycling in Agroecosystems,2002,63:251-254.   \n[37] 韩跃,马风云,解国磊,等.黄河三角洲盐碱地混交林土壤电导 率的空间异质性[J].中国水土保持科学,2014,12(5):84-89. [Han Yue,Ma Fengyun,Xie Guolei,et al.Spatial heterogeneityof soil electrical conductivity in a mixed plantation of the Yellow River Delta saline land[J]. Science of Soil and Water Conservation, 2014,12(5): 84-89.]   \n[38] 姚世庭,芦光新,王军邦,等.模拟增温对土壤电导率的影响[J]. 干旱区研究,2020,37(3): 598-606.[Yao Shiting,Lu Guangxin, Wang Junbang,et al.Efect of simulated warming on soil conductivity[J].Arid Zone Research,2020,37(3): 598-606.]   \n[39]王维维,麦麦提吐尔逊·艾则孜,艾提业古丽·热西提,等.焉耆 盆地农田耕层土壤盐分的空间变异及分布格局[J].干旱地区 农业研究,2019,37(2):195-201.[Wang Weiwei,Mamattursun Eziz,AtiyagulRixitr,etal.Spatial variabilityand distribution pattern of soil salinity factors in topsoil of farmland in Yanqi Basin, Xinjiang[J].Agricultural Research in the Arid Areas,2019,37(2): 195-201.]   \n[40] 张冈,周志宇,张彩萍.利用方式对盐渍化土壤中有机质和盐分 的影响[J].草业学报,2007,16(4):15-20.[Zhang Gang, Zhou Zhiyu,Zhang Caiping.The effect of land use on the levels of salt and organic matter in saline soil[J].Acta Prataculturae Sinica, 2007,16(4): 15-20.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The influence of alpine meadow degradation on soil conductivity change ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WANG Yingcheng'， LU Guangxin'， ZHAO Lirong'， DENG Ye²， WANG Junbang³ (1. Qinghai University, Xining 810016,Qinghai, China; 2.Research Center for Eco-Environmental Sciences, Chinese Academyof Sciences,Beijing10oo85,China; 3.National Ecosystem Science Data Center,KeyLaboratory of Ecosystem Network Observation and Modeling,Institute ofGeographic Sciencesand Natural Resoures Research, Chinese Academy of Sciences,Beijing 100101, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Grassand degradation is a complex and long-term process,and the most apparent sign of its occurrence is vegetation degradation (e.g., vegetation community composition, productivity,and spatial structure). During this proces,soil physical-chemical properties change,impoverishing the soil and making itarider. Soil electric conductivity is an index for measuring the water-soluble salinity,reflecting soil salinization.To explore how the soil conductivity changes during the degradation of alpine meadow,whether the soil conductivity presents a regular change with the degradation of alpine meadow, just like the physical-chemical characteristics of vegetation and soil. Therefore,to analyze the influence of alpine meadow degradation on soil conductivity, we studied the undergraded and degraded alpine meadows in the Three River Source Region. We adopted a statistical test method to systematically analyze the relationship between vegetationand soil characteristics and the degraded alpine meadow's soil conductivity.The degradation of alpine meadow significantly affected the vegetation coverage and biomass,causing the reduction of total soil nitrogen,organic matter,and moisture,turning it more infertile. We found that alpine meadow's degradation negatively impacted soil conductivity.The soil conductivity showed a consistent trend with alpine meadow’s degradation indexes，including vegetation coverage,aboveground biomas,soil organic mater,and total nitrogen content.Therefore,we believe that alpine meadow's degradation will change soil conductivity,and that these parameters can be used as an index of the degree of soil salinization and meadow degradation. Our study aims to reveal the characteristics of vegetation-soil conductivity during the alpine meadow's degradation process, enrich the evaluation indexes of degraded alpine meadow,and provide a scientific basis for the early warning and restoration management of degraded alpine meadow. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: alpine degraded meadow; soil electrical conductivity； vegetation characters； soil characters ",
+        "page_idx": 9
+    }
+]

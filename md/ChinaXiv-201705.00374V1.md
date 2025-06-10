@@ -1,0 +1,255 @@
+# Rheological and optical investigation of the gelation with and without phase separation in PAN/DMSO/ $/ \mathrm { H } _ { 2 } \mathrm { O }$ ternary blends
+
+Gaoming Mo a, Ruoyu Zhang b,\*, Yanfei Wang a, Qing Yan .\*\*
+
+NatiodEbobfedf   
+Sciences,Ningbo,Zhejiang 315201,PRChina   
+bDiisionee   
+315201,PR China   
+‘ Bureau of Science & Technology for Development,Chinese Academy of Sciences,Beijing 100864,PR China
+
+# ARTICLEINFO
+
+# ABSTRACT
+
+Keywords:   
+Gelation   
+Phase separation   
+Rheology
+
+Thermal-induced gelation and phase separation was investigated in $\mathrm { P A N / D M S O / H _ { 2 } O }$ semidilute solutions utilizing rheological and optical methods.The incipient precipitation temperature,where a distinct decrease in relative light transmittance occurred,was considered as the cloud point (CP).Phase separation mechanism of nucleation and growth was confirmed by various ramp rates experiments and viscoelastic evolution pattern.On the other hand,the validity of Chambon-Winter model was evaluated in these blends and used to measure the critical gel point (GP).It was found that in the accessible temperature regions CP was always higher than GP,and phase boundaries were constructed accordingly. What's more,the absolute complex viscosity $\boldsymbol { \eta } ^ { \prime }$ at a low frequency also showed transition points during temperature decreasing experiments,which mostly located between CPs and GPs.The gelation mechanisms with and without phase separation were proposed and the effect of the two transitions on the structures of the ternary blends were shown by SEM pictures.
+
+# 1.Introduction
+
+Polymer gels can be regarded as three-dimensional networks of flexible molecule chains,crosslinked by chemical or physical bonds, which are termed as chemical or physical gels,respectively.Contrary to covalent bonds in chemical gels,the energy level of physical bonds in physical gels is low enough to be created and destroyed by changing temperature [1] and the gelation mechanism could be physical entanglements between the macromolecular,vitrification, phase separationand crystallization,etc [2].
+
+Rheology is a powerful tool to detect the sol-gel transition in polymer solutions [3],because the viscoelastic functions such as dynamic storage modulus $ { \mathbf { G } } ^ { \prime }$ ,loss modulus $G ^ { \prime \prime }$ ,loss tangent tanδ and absolute complex viscosity ${ \mathfrak { n } } ^ { * }$ are very sensitive to the structural changes during the gelation process [4,5].The critical gel point (GP) is considered as the turning point at which either the weight average molecular weight diverges to infinity (infinite sample size)
+
+ora first macromolecular cluster extends across the entire sample (finite sample size) [6,7],and the sampleat GP is knownasa critical gel.The apparent gel point,determined by the crossover point of dynamic storage modulus $ { \mathbf { G } } ^ { \prime }$ and loss modulus $ { \mathbf { G } } ^ { \prime \prime }$ ，isalways dependent on test frequencyand such method is only theoretically feasible in the case of the stoichiometrically balanced end-linking network of polymer gels [2,6,9].A more general method is based on the criteria that loss tangent tanδ is independent of frequency at GP,which was proposed by Winter's group [2,6-14]. They found experimentally the shear relaxation modulus exhibited power law relaxationat GP:
+
+$$
+\mathbf { G } ( \mathbf { t } ) = \mathbf { S } \mathbf { t } ^ { - \mathrm { n } } \quad \lambda _ { 0 } < t < \infty \quad 0 < n < 1
+$$
+
+where Sis generally called the gel stiffness and n is the critical relaxation exponent. The lower limit $\lambda _ { 0 }$ is relaxation time that characterizes the intersection toa differentrelaxation mechanism, which is commonly glass transition,entanglement effect[14] or phase separation [15].n is named the critical relaxation exponent which determines the stress relaxation rate at the gel point.If excluded volume is completely screened for a polydisperse system, n can take values between O and1[16].The dynamic mechanical behavior for the critical gel can be characterized by a power between dynamic moduli and frequency:
+
+$$
+\mathbf { G } ^ { \prime } = \mathbf { G } ^ { \prime \prime } \Big / \mathrm { t a n } \mathfrak { d } = \mathsf { S } \Gamma ( 1 - \mathfrak { n } ) \omega ^ { \mathrm { n } } \mathrm { c o s } \delta \quad 0 < \omega < 1 / \lambda _ { 0 } \quad 0 < n < 1
+$$
+
+where $\Gamma ( 1 - \boldsymbol { \mathrm { n } } )$ isthe gamma function,w is the frequencyand δ is the loss angle.Thus the dynamicbehavior for the critical gel can be conveniently expressed as
+
+$$
+\mathbf { G } ^ { \prime } ( \omega ) \sim \mathbf { G } ^ { \prime \prime } ( \omega ) \sim \mathfrak { w } ^ { \mathrm { n } }
+$$
+
+the loss tangent tanδ is independent of frequency and the phase angle δ is proportional to the relaxation exponent:
+
+$$
+\mathbf { t a n } \ S = \mathbf { G } ^ { \prime \prime } \Big / \mathbf { G } ^ { \prime } = \mathbf { t a n } ( \mathbf { n } \pi / 2 ) \quad \mathbf { o r } \quad \tilde { \mathbf { \alpha } } \tilde { \mathbf { \alpha } } = \mathbf { n } \pi / 2
+$$
+
+Sometimes the study of the gelation process is complicated by the accompanied occurrence of phase separation.Theoretically, Tanaka [17,18] predicted such phenomenon and proposed a tricritical pointbyassuming that the free energy of the system consistsofthecrosslinkingpartandFlory-Hugginstype. Experimentally,the gelation accompanied with phase separation has been found and investigated in some polymer blends,for instance,polyurethane [4],poly(vinyl alcohol)[19],ultrahigh molecular weight polyethylene (UHMWPE）[2O],and cellulose derivatives [21-25].In these studies,the gelation temperature might be detected by abrupt changes in viscoelastic parameters [4,21,24], the frequency-independent loss tangents [19,20,25],or DSC curves [23]. On the other hand,the clouding temperature might be detected by optical micrograph [4,19,20,24], visual method [21,23], X-ray scattering [23],or change in light transmittance [25-28]. The methods for detecting the gelation and clouding temperatures are diverse,and often lack of intercomparison,however, tracing the evolution of the viscoelastic behavior and the light transmittance with the same heat treatment to probe the process of gelation with phase separation could give us a clear physical image on a complicated system and the corresponding structure.
+
+$\mathrm { P A N / D M S O / H _ { 2 } O }$ blend is such a complicated system that has appealed to manyresearch workers.Polyacrylonitrile(PAN）can exhibit thermoreversible gelation in various solutions [29]. The main characteristic of the PAN molecule is the presence of a permanent dipole in every monomer unit caused by the strongly polar CN group [1]. Recently, Tan and Pan [5,3O-32] have investigated the gelation process of PAN in DMSO and $\mathrm { D M S O / H _ { 2 } O }$ solution, they found that either reduction in temperature or addition of a poor solvent into a good solvent could give rise to the gelation of PAN solutions,temperature alone was not enough to cause crystallization in the gel,and they speculated that gelation might be resulted from liquid-liquid phase separation.The researches nevertheless were limited to the range of PAN concentrated solutions (usually from 15 to $2 3 \%$ ). Actually in the early time Labudzinska et al.[33,34] have found that the structure of PAN system at the gel point was not constant but depended on thermal history, the composition and gelation conditions，and that in some systems the structural changes were not specific for the gelation itself but associated with some side-processeswhich resulted from phase separation.These studies suggested that the gelation process of some PAN systems might be accompanied with phase separation,but the detailed relationship between them were not elucidated and the gelation mechanism with phase separation needed to be clearly confirmed experimentallyand discussed further.
+
+In this work,we investigated the process of gelation with and without phase separation in $\mathrm { P A N / D M S O / H _ { 2 } O }$ blends with PAN concentrations in semidilute range by rheological and optical measurements.The rheological behavior of a typical blend where gelation with phase separation occurred was analyzed and the applicability of Chambon-Winter criterion was discussed. In addition,phase boundaries of $\mathrm { P A N / D M S O / H _ { 2 } O }$ blends were constructed according to gel points and cloud points to preferably understand the relationship between gelation and phase separationin the system.Futhermore,different gelation mechanisms with and without phase separation were discussed and the corresponding structures were examined by SEM.
+
+# 2.Experimental section
+
+# 2.1.Materials
+
+The PAN homopolymer was synthesized in Dimethyl Sulphoxide (DMSO)medium usingazobisisobutyronitrile(AIBN)as initiatorat $6 0 ^ { \circ } \mathsf C$ in a jacketed glass reactor under an inert atmosphere of nitrogen.DMSO and AIBN were purchased from Sinopharm Chemical Reagent Co.,Ltd,with analytically and chemically pure grade, respectively.Beforepolymerization,theacrylonitrile(AN）monomer and AIBN were purified by distillation and recrystallization, separately.Afterabout $7 . 5 \mathrm { ~ h ~ }$ of polymerization the polymer was precipitated with deionized water.It was further washed by excess of boilingwater and then dried at $1 0 0 ^ { \circ } \mathsf C$ in the oven for $^ { 2 \mathrm { ~ h ~ } }$
+
+Molecular weight characteristic of the obtained PAN homopolymer was measured by the GPC method,which was carried out at $4 0 ^ { \circ } \mathsf C$ using a TOSOHHLC-8320 instrument,DMF/LiBr solution was usedasa solventand polystyrenes witha narrow molecularweight distribution were employed as standards for calibration.The polymerhasthefollowingmolecularcharacteristics: $\mathrm { \bar { M } _ { w } } = 3 7 . 9 \times 1 0 ^ { 4 } ~ \mathrm { g / m o l }$ ，witha polydispersityindex $( \mathsf { M } _ { \mathrm { W } } / \mathsf { M } _ { \mathrm { n } } )$ of about 2.75.The intrinsic viscosity ${ \displaystyle \left[ \eta \right] }$ for PAN solution in DMF/LiBr, measured on a standard Ubbelohde viscometer at $3 0 ^ { \circ } \mathsf C$ ,equaled to $1 . 8 1 \mathrm { d L } / \mathrm { g }$ the overlapping concentration $\boldsymbol { \mathrm { c } } ^ { * }$ would then be estimated according to [25].
+
+$$
+\mathrm { c } ^ { * } \approx 1 / [ \eta ] { \approx } 0 . 5 5 \mathrm { g / d l }
+$$
+
+The entanglement concentration $c _ { \mathrm { e } }$ ,which suggests the transition from semidilute to concentrated solution behavior,is about $_ { 5 - 1 0 \mathrm { c } ^ { * } }$ [35].Therefore, the PAN concentrations $( 3 - 6 ~ \mathrm { w t \% } )$ studied in this work are expected to be in the semidilute range.
+
+# 2.2.Preparationof PAN/DMSO/ $\cdot H _ { 2 } O$ solutions
+
+Calculated amount of the PAN homopolymer was added into the mixture of DMSO and $\mathrm { H } _ { 2 } \mathrm { O }$ in a sealed glass bottle.The resulting mixtureswere left swollenat $5 0 ^ { \circ } \mathsf { C }$ in the oven for $2 4 \mathrm { h }$ ,andthen theywere dissolved at $9 0 { - } 1 1 0 ^ { \circ } { \mathsf C }$ in the oven for $^ { 1 \mathrm { ~ h ~ } }$ to assure a transparent homogeneous solution.Several solutions with diverse compositions were prepared using this method,and the information of specimens was listed in Table 1.
+
+Table 1 Specimen compositions.   
+
+<html><body><table><tr><td>Specimen</td><td>PAN wt%</td><td>DMSO wt%</td><td>H2O wt%</td></tr><tr><td>P3H8</td><td>3</td><td>89</td><td>8</td></tr><tr><td>P4H8</td><td>4</td><td>88</td><td>8</td></tr><tr><td>P5H8</td><td>5</td><td>87</td><td>8</td></tr><tr><td>P6H8</td><td>6</td><td>86</td><td>8</td></tr><tr><td>P5H6</td><td>5</td><td>89</td><td>6</td></tr><tr><td>P5H7</td><td>5</td><td>88</td><td>7</td></tr><tr><td>P5H9</td><td>5</td><td>86</td><td>9</td></tr></table></body></html>
+
+# 2.3.Rheological characterization
+
+The rheological measurements were carried out on a Harkke MARS II rheometer fitted with a couette geometry with an outer and an inner diameter of $2 7 ~ \mathrm { { m m } }$ and $2 5 ~ \mathrm { m m }$ ，respectively. The temperature control was using Peltire,and a maximum strain amplitude of $1 0 \%$ was adopted,which ensured that all measurements were conducted within the linear viscoelastic regime. To inhibit dehydration or evaporation of the solutions,a thin layer of low-viscosity parafin oil was floated over the top of the solution. The dynamic rheological material functions such as storage modulus $G ^ { \prime }$ ,loss modulus $ { \mathbf { G } } ^ { \prime \prime }$ ,absolute complex viscosity $\boldsymbol { \mathfrak { n } } ^ { * }$ ,were measured as functions of temperature and frequency as following methods. The freshly prepared solution was transferred from a sealed glass bottle to the rheometer,and maintained customarilyat a high temperature of $9 0 ~ ^ { \circ } \mathsf { C }$ or $1 0 0 ~ ^ { \circ } \mathsf { C }$ for $3 0 \ \mathrm { m i n }$ to clean up thermal history. After that, the sample was subjected to temperature step experiment,down to a minimum of $0 ^ { \circ } \mathsf C$ at a cooling rate of $1 ~ { ^ { \circ } C } / { \operatorname* { m i n } }$ under oscillation mode with a frequency of $1 { \mathrm { ~ r a d } } / s$ After maintaining at each constant temperature for $3 0 \ \mathrm { m i n }$ ,frequency sweep experiment was performed between O.1 and $1 0 0 \ \mathrm { r a d } / s$ .To illustrate this process more evidently,a typically thermal procedure applied to P6H8 is presented in Fig.2a.
+
+# 2.4.Optical microscopy and cloud point measurements
+
+Optical microscopy measurements were carried out using an Olympus BX53 microscope with a magnification of $\times 2 0 0$ and equipped witha Micro-shot MC5O digital CCD camera.The sample cell was made by two glass slides which were stuck together with UV glue,and a hole of $1 0 \mathrm { m m }$ in diameter throughout the center of the top slide is used for holding the specimen of about $0 . 0 8 ~ \mathrm { m l }$ To prevent evaporation or dehydration,a little paraffin oil wasadded on the periphery of the hole and a piece of cover glass was put on.A Linkam LTS42O thermal stage was used to control the temperature. For each sample,the thermal history was exactly the same as what they experienced in rheological measurement.Micrographs were recorded by the cameraand the graylevels of these micrographs were calculated by image analytical system from Micro-shot Technology Co.,Ltd.All the parameters that could affect the gray levels were set unchanged to ensure that only the transmittance of the sample worked.
+
+The gray level of a digital micrograph,which takes values from O to 255,is proportional to the transmitted light intensity. So the light transmittance of a sample can be related to the gray level of a digital micrograph as:
+
+$$
+\mathrm { T r a n s m i t t a n c e } = \mathrm { I _ { t } } / \mathrm { I _ { 0 } } = \mathrm { G L _ { t } } / \mathrm { G L }
+$$
+
+where $\mathrm { I _ { t } }$ and $\mathrm { I } _ { 0 }$ are the transmitted light intensity and the incident intensity,respectively. $\mathsf { G L } _ { \mathsf { t } }$ is the gray level of the digital micrograph fora sample and GL is the gray level of the digital micrograph for the incident light,which is supposed to take the value of 255.
+
+Forconvenience,we define the relative light transmittance (RT) of a sample as follows:
+
+$$
+\mathsf { R T } = \mathsf { G L } _ { \mathrm { f } } / \mathsf { G L } _ { 0 }
+$$
+
+where $\mathsf { G L } _ { \mathsf { t } }$ is the gray level of the digital micrograph for a sample at time tand ${ \sf G L } _ { 0 }$ is the gray level of the digital micrograph for the sample at the initial time $\mathrm { t } _ { 0 }$ .For the system investigated in this work, ${ \sf G L } _ { 0 }$ corresponds to the gray level of the digital micrograph for the specimen at the high temperature which is of transparent homogeneous state.In this work,the cloud point(CP) was determined as the incipient temperature,wherea distinct decrease in relative light transmittance occurred.
+
+# 2.5.Scanning electron microscopy
+
+The morphology of the critical gel was examined using a FEI Sirion 2Oo scanning electron microscope at an accelerating potential of $1 0 ~ \mathrm { k V }$ or $1 5 { \mathrm { ~ k V . } }$ The thermal treatment of the specimen was the same as that in the optical microscopy measurement. When the sample reached its critical gel point, it was directly quenched in liquid nitrogen,along with the sample cell for about $2 0 ~ \mathrm { { m i n } }$ .Then it was taken out and further subjected to lyophilization ina freezing dryeratabout $- 2 0 ^ { \circ } C$ for more than $^ { 4 8 \mathrm { ~ h ~ } }$ to remove the solvent while maintaining the microstructure of the critical gel.The freeze-dried specimen was fractured,and the fracture surface was sputtered with gold using an Quorum Q150T ion sputtering before observing under the scanning electron microscope.
+
+# 2.6.Temperature calibration forthe rheometer and the thermal stage
+
+In this work we compare characteristic temperatures measured with two different techniques during cooling.In such a case the temperature calibrationand comparability is essential.
+
+The temperature of the couette in rheometer was calibrated by temperature sensitive resistor (Heraeus Pt1oo,Germany).The resistance value of the resistor was determined byvoltage froma voltmeter(Agilent 3442oA）and current from a constant current power supply(Keithley 6221） using four-wire method.During the calibration,we set temperature of the rheometer and waited for the temperature of paraffin oil to be stable in couette,and then recorded voltage and current. The resistance was calculated and recorded at last.The plot of the calibrated temperature vs rheometer display temperature was presented in Fig. S3 in the Supporting Information. The data could be well described by linear fitting. According to this linear relationship,we could evaluate the systematic error for the gel points and the transition points Ttr(which would be explicated in the Results and Discussion section),and they were presented in Tables S1-2 in the Supporting Information.
+
+The temperature of thermal stage was calibrated by two standard samples: p-nitrotoluene and N-Phenylacetamide,which were supplied from TianJin Institute of Metrological Supervision and Testing. These two calibration and display temperatures of the thermal stage were presented in Fig. S4 in the Supporting Information,and this was applied for the calibration of the cloud points (which would be explicated in the Results and Discussion section).
+
+# 3.Results and discussion
+
+# 3.1.Detectionofthermal-induced gelation andphaseseparation
+
+A simple way to detect phase separation in the $\mathrm { P A N / D M S O / H _ { 2 } O }$ system is to monitor the variation of light transmittance.The relative light transmittance (RT) of each experimental sample,obtained from Eq.(7),asa function of temperature was depicted in Fig.1a-b.Solutions with different PAN concentrations in Fig.1a were transparent in the high temperature range,exhibiting $100 \%$ relative transmittance.As the blend was cooled down to a certain temperature,a sharp drop in RT wasdetected,and after that RT decreased continually with lowering temperature.The drop in RT is anindication of poorer thermodynamic conditions,leading to large-scale heterogeneities in the sample [36],i.e. phase separation. In this work we could exclude the gelation induced RT drop,which will be shown in the next paragraph.Therefore we could consider the temperature at whicha sharp decrease in RT occurred as the cloud point (CP).As can be seen evidently from Fig.1a,the temperature of CP increased with higher PAN concentration. Similar results were found in the blends with different water contents in Fig.1b with the exception of P5H6 and P5H7.RT remained unchanged during cooling process in these two blends,indicating no phase separation occurred under test conditions.It was possible that phase separation and gelation occurred together during the RT tests,as would be analyzed in the following part,and the occurrence of “pinning phenomenon"could be expected [24,37]. It was mentionable that the cloud points were calibrated by temperature calibration， the calibration cloud points were presented in Fig. $7 a - b$ ：
+
+![](images/70262b9c9b2fa5a7f9aa4996642ffcd12e18a8ce9f1aeafe5a79f6dbf92ac659.jpg)  
+Fig.1.Relative light transmittance (RT)as a function of temperature for various $\mathrm { P A N / D M S O / H _ { 2 } O }$ blends.(a) Blends of different PAN concentrations with certain $\mathrm { H } _ { 2 } 0$ content. (b) Bledf
+
+In this section,we took three samples that were P6H8,P5H7 and P5H6 to illustrate how we distinguished sol-gel transition and phase separation by combining rheological and optical methods. Fig.2b-d presented the storage modulus $ { \mathbf { G } } ^ { \prime }$ ,loss modulus $ { \mathbf { G } } ^ { \prime \prime }$ ,and the correspondingrelative light transmittance (RT) for these $\mathsf { P A N } /$ $\mathrm { D M S O / H _ { 2 } O }$ blends.As could be seen in P6H8 from Fig.2b, $ { \mathbf { G } } ^ { \prime }$ and $\mathbf { { { G } ^ { \prime \prime } } }$ slightly increased as the temperature decreased from $9 0 ^ { \circ } \mathsf C ,$ showing typical“viscosity-temperature correlation”[38,39].In this temperature region, $ { \mathbf { G } } ^ { \prime \prime }$ was ten more times greater than $ { \mathbf { G } } ^ { \prime }$ indicating a viscous component dominated state (liquid behavior). In the meantime,the corresponding RT maintained unchanged, demonstrating a homogeneous solution state in the system.As the temperature was lower than $4 0 \ ^ { \circ } \mathsf C ,$ （ $G ^ { \prime }$ rapidly increased,and RT started to decrease distinctly,suggesting the occurrence of phase separation. When the temperature was below $2 5 ^ { \circ } C$ $ { \mathbf { G } } ^ { \prime }$ became greater than $ { \mathbf { G } } ^ { \prime \prime }$ ，indicating the system involved into an elastic component dominated state (solid behavior).On the other hand, RT continuously decreased with the temperature,which meant that the system evolved from a transparent solution state into a turbid gel state during the cooling process.The optical and rheological evidences indicated that thermal-induced gelation accompanied with phase separation occurred in P6H8.Compared to Fig.2b,the dynamic shear moduli in Fig.2c for P5H7 followed a similar trend on cooling with a sharp increase in $ { \mathbf { G } } ^ { \prime }$ lower than $1 5 ^ { \circ } \mathsf C ,$ and below $5 ^ { \circ } \mathsf { C } \mathsf { G } ^ { \prime }$ became greater than $ { \mathbf { G } } ^ { \prime \prime }$ .The RT data did not showa distinct decrease in the whole experimental temperature range,suggesting the P5H7 blend underwent a sol-gel transition without phase separation under the test conditions.The blend directly changed from a homogeneous solution into a transparent gel. In the third sample of P5H6 in Fig.2d, the moduli only exhibited a mild increase,and loss modulus $ { \mathbf { G } } ^ { \prime \prime }$ wasalways ten more times greater than $ { \mathbf { G } } ^ { \prime }$ during the test.Inaddition,RT remained almost unchanged. It could be concluded that the blend of P5H6 maintained a homogeneous solution state from the beginning until the end.The interesting phenomena of the $\mathrm { P A N / D M S O / H _ { 2 } O }$ blends will be analyzed and discussed in the following sections.
+
+Temperature sweep experiments of both rheological and optical measurements on the typical P3H8,P6H8 and P5H9 blends which represented extreme composition of $\mathrm { P A N / D M S O / H _ { 2 } O }$ blend in this work were carried out to test the phase separation mechanism. Temperature sweep tests with different cooling rates were conducted on the rheometer at strain amplitude of $10 \%$ and an angular frequency of1 rad/s. Correspondingly, the temperature dependence of RT with the same cooling rates was recorded by digital camera. Unfortunately, the refractive index difference was too small to be tell by phase contrast microscopy and we could not observe any characteristic morphology after phase separation.Asa result,we have to use other evidence to confirm the phase separation mechanism.The cooling rate dependence of the onset of $ { \mathbf { G } } ^ { \prime }$ increasement and the crossover of $G ^ { \prime }$ and $ { \mathbf { G } } ^ { \prime \prime }$ and the onset of RT decrement in Fig.3a-f was obvious,and therefore the phase separation mechanism was probably nucleation and growth [25].Besides,the rapid increase of the storage modulus in all frequencies (demonstrated in Fig.4a）also implied the nucleation process [40,41]. Although Yu et al. reported modulus increase in spinodal decomposition, such phenomenon depends on the frequency [42]. What's more,the storage modulus also gradually increased with phase separation,which was also another feature of nucleation phase separation.For spinodal decomposition，the parameters should be almost cooling rate independent. Viscoelastic phase separation(VPS) mechanism could also be ruled out,because the critical features of VPS,such as the phase inversion of a polymer in solution [43] or the drop in modulus beyond the gelation temperature in dynamic rheological measurements [25],was not been observed in the optical and rheological measurements. Similar experimental results were found in other blends that experienced distinct RT decrement. Thus,we could conclude that the phase separation mechanism in this work was nucleation and growth.
+
+# 3.2.Dynamic viscoelastic properties through the sol-gel transition with phase separation
+
+Both phase separation and gelation process could alter the internal structure and consequently affect the viscoelastic behavior of the samples.Oscillatory modulus,like ${ \bf { { G } } } ^ { \prime }$ $ { \mathbf { G } } ^ { \prime \prime }$ and $\boldsymbol { \mathfrak { \mathfrak { n } } } ^ { * }$ ,areoftenadopt to discern the structural change.In this section, the evolution of these viscoelastic parameters during the sol-gel transition with or without phase separation were analyzed and tried to find out the structural transition points.
+
+![](images/a8ad413b9eefff99a550257a4c84f58b5c8d220fa335e3f4948e5151afe3a97f.jpg)  
+ig2. fr rheological and optical measurements were identical.
+
+Viscoelastic behavior of P6H8,as an example,was illustrated in Fig. $\mathtt { 4 a \mathrm { - b } }$ to show how a $\mathrm { P A N / D M S O / H _ { 2 } O }$ blend changed from the liquid state to the gel state through the sol-gel transition accompanied with phase separation process. Fig. $\mathtt { 4 a \mathrm { - b } }$ exhibited the frequency sweep results of $ { \mathbf { G } } ^ { \prime }$ and $G ^ { \prime \prime }$ of P6H8 at various temperaturesand the data in the frequencies greater than $1 0 \ \mathrm { r a d } / s$ were excluded since the effect of instrument inertia[44] would dominate here (an example of this inertia effect was showed in the Fig.S1 in the Supporting Information). When the temperature was higher than $4 0 ^ { \circ } \mathsf C$ the system was in solution state,and the $G ^ { \prime }$ data were in disorderbelow $0 . 3 2 \ \mathrm { r a d } / s$ What ismore, $ { \mathbf { G } } ^ { \prime }$ and $ { \mathbf { G } } ^ { \prime \prime }$ were scaled approximately with ω by $G ^ { \prime } \sim \omega ^ { 1 . 5 }$ and $G ^ { \prime \prime } \sim \omega$ at terminal regions, which were slightly deviated from the terminal region of concentrated polymer solutions and bulk systems, $\mathbf { { G } ^ { \prime } } { \widetilde { \mathbf { \Gamma } } } { \boldsymbol { \omega } } ^ { 2 }$ and $G ^ { \prime \prime } \sim \omega$ [39]. Such phenomenon might due to the thixotropic supramolecular structure of PAN in DMSO solution [45] or the molecular weight dispersity.As the temperature decreased below $2 5 ~ ^ { \circ } \mathsf { C } ,$ $G ^ { \prime }$ and $ { \mathbf { G } } ^ { \prime \prime }$ increased by1-3 orders of magnitude compared with the ones above $2 5 ~ ^ { \circ } C$ and gradually became frequency independent.The slopes of $ { \boldsymbol { G } } ^ { \prime }$ and $\mathbf { { { G } ^ { \prime \prime } } }$ Vs w curves on the log-log scale got more and more smaller and finally reached nearly zero,indicating the entranceofanelastic gelstate.
+
+Another rheological method to detect the viscoelastic property transition is monitoring absolute complex viscosity $\boldsymbol { \mathfrak { \mathfrak { n } } } ^ { * }$ .Fig. 5a gave the frequency dependence of absolute complex viscosity $\boldsymbol { \eta } ^ { \ast }$ at various temperatures for the P6H8 blend.At temperatures higher than $3 0 ~ ^ { \circ } \mathsf C$ ，the viscosity increased mildly with decreasing temperature and was frequency independent, showing a quasiNewtonian behavior.As the temperature decreased to lower than $2 5 ^ { \circ } \mathsf C ,$ theviscosity increased vigorously by1-4 orders of magnitude compared to the corresponding valuesat higher temperatures and became frequency dependent,exhibiting a non-Newtonian behavior with shear thinning. The temperature dependence of the absolute complex viscosity $\boldsymbol { \eta } ^ { \prime }$ of $0 . 6 8 \ \mathrm { r a d } / s$ was exhibited in Fig. 5b. The evolution of $\boldsymbol { \eta } ^ { \prime }$ might reflect the temperature behavior of the zero-shear viscosity no and this was caused by the structural changes in the blend.Obviously, $\boldsymbol { \eta } ^ { \prime }$ followed the same trend as $\boldsymbol { \eta } ^ { \ast }$ witha gradual increaseabove $3 0 ^ { \circ } \mathsf C$ and a sudden shift below $2 5 ^ { \circ } \mathsf { C }$ We used linear extrapolation to obtain the transition point.In the limited temperature range (actually near the gel point which would be illustrated in the next section), the $\mathsf { l o g n ^ { \prime } }$ vs temperature data could be fitted by linear lines.The two fitting linear lines intersectedata temperature pointof $2 9 . 7 ^ { \circ } \mathsf C ,$ which was considered as the transition temperature $\mathrm { T _ { t r } }$ in this work. Using this method, the valuesof $\mathrm { T _ { t r } }$ for other systems were obtained and presented in Fig. S2 in the Supporting Information. The transition temperatures were also calibrated and the calibration transition temperatures were presented in Fig.7a-b.Inaddition,The error could be induced by the extrapolation method and the fitting uncertainty,we depicted the error bar in Fig. $_ { 7 a - b }$
+
+# 3.3.The applicability of Chambon-Wintercriteria in the PANDMSO- $_ { H _ { 2 } O }$ blends
+
+The Chambon-Winter definition of the critical gel point,which is well known as the frequency-independence of tanδ as indicated from Eqs.(2)-(4), has been extensively employed to determine the critical gelation temperature,time or concentration,depending on the variables that govern the gelation process [5-14,19,25,31,32,46].
+
+Fig.6a-f showed the plots of loss tangent tanδ as a function of temperature at frequency space of $0 . 1 { - } 1 0 ~ \mathrm { r a d } / s$ for different $\mathsf { P A N } /$ $\mathrm { D M S O / H _ { 2 } O }$ blends.It could be easily seen that all curves in each figure passed through a common point at a certain temperature $\mathrm { T _ { g e l } }$ asmarked by the arrow,which was defined as the critical gel point (GP).It was also noted in Fig.6f that the $ { \mathbf { G } } ^ { \prime }$ curve of $1 0 \ \mathrm { r a d } / s$ could not cross the common point, suggesting smaller size limit in selfsimilar structure [7,14,15,47].With these results,it seemed that the Chambon-Winter criteria was still applicable in the gelation with phase separation blends.Afterall,the mathematical basis of Chambon-Winter model determines the applicability scope.The limited self-similarity can still be revealed as the common cross point in tanδ in limited frequency space.The gel points was calibrated by temperature calibration and the calibration gel points were presented in Fig. $7 a - b$
+
+![](images/b73007ad157ca2ec30522d04435fa883d302b5dcfbab010d25991f2ed449e9a8.jpg)  
+Fig.3. (a) Storage modulus $ { \mathbf { G } } ^ { \prime }$ for P3H8 and (c) for P6H8 and (e) for P5H9 measured at $1 0 \%$ strain and 1 rad/s.(b) Relative light transmittance (RT) for P3H8 and(d) for P6H8 and (f) forP5H9asafunctionof temperatureatseveralcontinuous coolingrates measuredbyrheologicalandopticalmethods.Thecr overof $ { \mathbf { G } } ^ { \prime }$ and $ { \mathbf { G } } ^ { \prime \prime }$ at each cooling rate was noted by the arrow.
+
+![](images/517545c3504859f181c95a6e988a48cbe6badcdd0bd9fab5e6c605d877e27470.jpg)  
+Fig.4.(a) Storage modulus $ { \boldsymbol { G } } ^ { \prime }$ and (b) loss modulus $ { \boldsymbol { G } } ^ { \prime \prime }$ asa function of angular frequency ω at various temperatures.
+
+![](images/8e182f4aba647771e784ef32ea97e6ab208947161eb29c45d7edfa42bf81c023.jpg)  
+Fig.5.(a) Absolute complex viscosity $\boldsymbol { \eta } ^ { * }$ asafunctionofangular frequency ωatvarious temperatures. (b)Temperaturedependence of the absolutecomplex viscosity $\boldsymbol { \mathfrak { n } } ^ { * }$ of 0.68 rad s for the P6H8 blend.
+
+# 3.4.Phase boundaries
+
+Using the calibration gel points (termed as gel points or GP conveniently in the following cases）and calibration cloud points (termed as cloud points or CP conveniently in the following cases), phaseregions of the $\mathrm { P A N / D M S O / H _ { 2 } O }$ system could be constructed, as shown in Fig. $\mathsf { 7 a - b }$ ，the calibration transition temperatures (termed as transition temperatures conveniently in the following cases) were also added in the phase regions.Because the transition points were obtained with rheological model, the temperature uncertainty (error bar,although small compared to the temperature range of the phase regions） was based on the extrapolation uncertainty with rheological models,and the temperature uncertainty of the gel points and cloud points was based on determination methods for the measuremental data.In Fig.7a,the cloud point curve and the sol-gel transition curve divided the diagram into three regions: the region (i) that the system wasa homogeneous sol, the region (ii) that phase separation occurred,resulting in existence of PAN-rich phase and PAN-lean phase and the region (iii) that gelation with phase separation took place,and the blend evolved into a turbid gel with heterogeneity. In Fig.7b,we extrapolated the curve of cloud points and found it intersected with the GP line,at which the water content was about 7.8wt%and might be considered as the apparent tricritical point as Tanaka [17,18] predicted previously. Thus the cloud point curve and the sol-gel transition curve divided the diagram into four regions: the regions (i)-(iii)were similar to that in Fig.7a,and the region (iv) that gelation occurred without phase separation and the system turned into a transparent gel with homogeneity. It seemed that P5H6 and P5H7 would undergo gelation and then phase separation as long as we could reach temperatures sufficiently low.Unfortunately,such phenomenon could not be observed due to the freezing of DMSO
+
+and $\mathrm { H } _ { 2 } \mathrm { O }$
+
+It was found that both CP and GP temperatures increased with PAN concentration or Water content. Except for P5H6 and P5H7, CP temperatures were always higher than GP temperatures in our study.While for P5H6 and P5H7,CP temperatures Were too low to be detected and only gelation phenomenon was observed in P5H7. The transition temperatures $\mathrm { T _ { t r } }$ were mainly laid between CP and GP temperatures.These transition temperatures were determined on the assumption that the structure evolution had affected their own viscoelastic properties considerably.Therefore,both gelation and phase separation could be possibly detected.Fora particular example,in P5H7 the transition temperature was higher than GP, which meant that the pre-gel structure had already significantly affected the viscoelastic properties.
+
+# 3.5.Possible mechanisms of gelation with and without phase separation
+
+Although the gelation behavior of PAN solutions has been the subject of many investigations,the mechanism of such physical gelation is not unified and sometimes remains controversial.The question that whether the gelation point is composed of PAN crystals remains unsolved.However, it was gradually accepted that the initiation of the gelation was due to the polarity interactions between nitrile groups[1,33]. In this work,we just considered the possible kinetic route of gelation and did not focus on the possibility of the crystallization after gelation.
+
+Dimethlysulfonate (DMSO) is a highly polar and water miscible organic liquid,and it is one of the limited amount of solvents that can dissolve PAN,stemming from the dipole-dipole interaction between the polar groups of the solvent and the nitrile groups of PAN.Theoretical calculation results [48] showed that the PAN repeat unit could interact with DMSO through dipole-dipole interaction and formed PAN-DMSO complex,which displayed an antiparallel alignment of interacting pair between the $\mathsf { C } \equiv \mathsf { N }$ group of PAN and the $\scriptstyle { \mathsf { S } } = 0$ group of DMSO.On the other side,water is miscible with DMSO in any proportion due to the formation of hydrogen bonds between OH and $s { = } 0$ groups.At high temperatures,the dipole-dipole interaction between the electropositive sulfur atoms in $s { = } 0$ groups of DMSO and the electronegative nitrogen atoms in CN groups of PAN was strong，and PAN could dissolve in the mixed solvent of $\mathrm { D M S O / H _ { 2 } O }$ .As the temperature decreased, the interaction between the PAN molecular chains becomes stronger than that between PAN and solvent[49],and the interaction of hydrogen bonds between $\mathrm { H } _ { 2 } \mathrm { O }$ and DMsO molecules was enhanced.Therefore,PAN segments tended to gather together at low temperatures and gelation process could occur. If the attraction between PAN was too strong and induced large scale instability, then condensation or phase separation would appear. The process for the formation of gel junction points could be schematically illustrated in Scheme 1.The detailed dynamic equilibrium of formation of junction points was depicted elsewhere [47].
+
+![](images/2ca1c3a0719e3031a81b216b53f00e9c422807544d30c4242551d96d9f93facf.jpg)  
+Fig.6.Mulifretofstagtscioftpeaefsds:(a)8b)4H8c)Hd)H8(e)(f
+
+The gelation process for the P5H7 blend may be interpreted bya “pure gelation"mechanismproposed by Labudzinskaand Ziabicki [33].The blend was preliminarily of a solution state at high temperatures， herein the coiled macromolecular chainsinterpenetrated with each other and the chain segments were distributed homogeneously (Fig.8a),a typical characteristic of a semidilute solution.As the temperature decreased，the interpenetrating macromolecules partially bound together due to the formation of loose junction points (Fig. 8b),and the number of these connections gradually increased.The critical gel point,where a first macromolecular cluster extended across the entire sample (Fig.8c)would appear,and finally the junction points spread over thesample leading to the formation of an infinite network,i.e. formation of an elastic gel (Fig.8d). In particular, the conformation and mass distribution in the junction points did not differ from that in original macromolecules [33]. As a result, the P5H7 blend transformed from a solution into a transparent gel with homogeneity.
+
+The mechanism of gelation with phase separation for the other blends should be different from P5H7,and the gelation pathway was induced by phase separation. As shown in Fig.8a, the blends were preliminarily homogeneous solutions at high temperatures as P5H7.As the temperature decreased, the solution became thermodynamically unstable and tended to undergo phase separation, leading to the formation of rich phase and lean phase of PAN
+
+![](images/04e508761dbc4074be4ace29df80018ac39a93a07f948424bfef7431fd98a67a.jpg)  
+Fig.7.Phase boundaries of the $\mathrm { P A N / D M S O / H _ { 2 } O }$ blends including thecloud pointcurves (black)and the sol-gel ines(red)plotted basedon thecalibration cloud points an calibration gel points,respectively.The calibration transition temperatures $\mathrm { T _ { t r } }$ were also presented here.(a) Effect of PAN concentration.(b) Effect of water content.(For inter pretationof thereferences tocolorinthisfigure legend,thereaderisreferred to the web versionof this article.)
+
+H H 。 H S-N C N-S - H-O + 欢 HOH coalingH2O +n 2 S H H + =S N 川 N 川 =S HO + H
+
+![](images/943957f2e43d98910f07c6dbd2daef96ddf0932aaa8107625eacaf57b217e59d.jpg)  
+Scheme1.Schematicdiagram for the formationof junction points between thePAN molecular chains inaPAN/DMSO $/ \mathrm { H } _ { 2 } 0$ blend.   
+Fig.8.Gelation mechanisms for P5H7 (a,b-d)and other blends $\scriptstyle ( { \mathsf { a } } , { \mathsf { e } } - { \mathsf { g } } )$ (a) Interpenetrating macromolecules in the original solution,(b)formation of loose junction points,(c) cit formation of a heterogeneous network.
+
+(Fig.8e).The junction points were expected to arise first in the PAN rich phase,resulting in the formation of aggregates of PAN with limited scales.As such combination went on,the concentration difference at the two phase interface diminished,leading to decrement or even vanishment of the interfacial tension (Fig. 8f). Moreover, the continual decrease of temperature triggered the junction points to appear in the PAN lean phases as well.Then, the PAN aggregates from different phases were interconnected to spread over the system and forma gel.However,the“inherited" difference in PAN concentration could not be changed and led to the formation of a heterogeneous network (Fig.8g),which might restrain the further development of phase separation.As a result, these blends transformed from solutions into turbid gels with heterogeneity. Similar to nucleation and growth process，the gelation with phase separation can be divided into two steps.The first one is the gelation inside the separated phases,and the second step is to connect these small gel regions.Ideally, there should be rheological reflection of these small gels.But the limited size of these gels need to exhibit them in high frequency regions,which could be easily covered by bulk information.
+
+# 3.6. Structure at gel point
+
+The structures of different critical gels were examined with a scanning electron microscope as illustrated in the Experimental Section.The SEM micrographs of P5H7,P5H8 and P5H9 critical gels were presented in Fig. 9a-c.In Fig.9a,the three dimensional porous structure could hardly be recognized,which might due to the tiny size of the holes.In contrary,in Fig.9b and c,the porous structure of the critical gel could be easily observed in which the structure became looser as the water content increased and the size of the hole became more and more large.Remember that the P5H7 blend underwent gelation without phase separation while the other two samples were subjected to gelation with phase separation,the obvious inhomogeneity in P5H8 and P5H9 could be induced by the effect of phase separation.
+
+![](images/b4117a8b148d638ac46e01171d0c7b4af1d5d4a036698374546c30b101082214.jpg)  
+Fig.9.SEM macrographs of gels at the gel points for various $\mathrm { P A N / D M S O / H _ { 2 } O }$ blends: (a) P5H7 at $7 . 5 ~ ^ { \circ } C$ (b) P5H8 at $2 2 . 3 ^ { \circ } \mathsf C$ (c) P5H9 at $4 3 . 5 ~ ^ { \circ } \mathsf C .$ The thermal treatment for each samplewas the sameas the correspondingrheological measurement.
+
+# 4. Conclusions
+
+In this work,the phase separation and gelation in PAN/DMSO/ $\mathrm { H } _ { 2 } \mathrm { O }$ systems were examined by rheological and optical methods. With the help of the optical microscope,the clouding temperature could be detected from the variation of the relative light transmittance and nucleation phase separation process couldbe confirmed.The validity of Chambon-Winter criteria was examined in the gelation with phase separation systems and was used to measure the critical gelation temperature.Except for the sample P5H7,phase separation always happened before the appearance of a critical gel state in this work.The crossover of the two linear fitting line from the $\mathsf { l o g } \mathsf { n } ^ { \prime }$ vs temperature data in the limited temperature range near the gel point was considered as the transition temperature $\mathrm { T } _ { \mathrm { t r } } .$ It showed that most of the transition temperatures located between cloud points and critical gelation points,which meant that the viscoelastic properties changed significantly only before the occurrence of a critical gel.
+
+The gel points,cloud points,and transition temperatures were calibrated by temperature calibration,with these calibrated gel points,cloud points,and transition temperatures,phase boundaries during cooling process could be drawn.When PAN concentration changed, three regions,which were solution,phase separation and gelation with phase separation,could be found. On contrary,when water content was used as a variable,the fourth region,which was homogeneous gel state,could be extrapolated.We proposed two different mechanisms for the formation of homogeneous gel and turbid gel.When homogeneous gel was formed in solution, the density of physical links was uniform.However,in phase separated condition,the density of physical junctions was heterogeneous and, therefore, the resulted gel was inhomogeneous.SEM results showed the structural difference between homogeneous gel from solution and heterogeneous gel with phase separation.
+
+With the above research,we could conclude that the gelation couldhappen after phase separation.Probably,if the structural inhomogeneity was limited in small scales,the Chambon-Winter criteria could be applied.Such result also revealed that the critical gel ina phase separated system possessed self-similar structure regardless of turbid morphology.The real space result from SEM proved that the gel structure became very porous and heterogeneous when it was accompanied with phase separation.Therefore, the solution spinning of PAN fiber needs to avoid such phenomenon,while in membrane productions this is probably required.
+
+# Acknowledgment
+
+The authors thank the financial support from the National Natural Science Foundation of China 212O4O96 and the National Basic Research Program of China (973 Program) 2011CB605602.
+
+# Appendix A. Supplementary data
+
+Supplementary data related to this article can be found at http:// dx.doi.0rg/10.1016/j.p0lymer.2016.01.002.
+
+# References
+
+[1]J. Beckmann, D. Zenke, Colloid Polym. Sci. 271(1993) 436-445.
+
+[2]H.H. Winter,F. Chambon, J. Rheol.30 (1986) 367-382. [3]S.A. Madbouly, J.U. Otaigbe,Macromolecules 38 (2005) 10178-10184. [4] S.A.Madbouly， J.U. Otaigbe,A.K. Nanda,D.A.Wicks，Polymer 46(2005) 10897-10907. [5]L. Tan,D. Pan,N. Pan,Polymer 49 (2008) 5676-5682. [6]F. Chambon, H.H. Winter, J. Rheol. 31(1987) 683-697. [7]T.A. Vilgis,H.H. Winter, Colloid Polym. Sci. 266(1988) 494-500. [8]N. Sarkar,J. Appl.Polym. Sci. 24(1979) 1073-1087.   
+[9]F. Chambon, Z.S.Petrovic,W.J. Macknight, H.H. Winter, Macromolecules 19 (1986) 2146-2149.   
+[10]F. Chambon,H.H.Winter,Polym. Bull.13(1985) 499-503.   
+[11]K.Nijenhuis,H.H.Winter,Macromolecules 22(1989)411-414.   
+[12]J.C. Scanlan,H.H. Winter,Macromolecules 24(1991) 47-54.   
+[13] A. Izuka, H.H.Winter,T. Hashimoto,Macromolecules 25 (1992) 2422-2428.   
+[14] M.E.De Rosa,H.H.Winter,Rheol. Acta 33(1994) 220-237.   
+[15] A. Azuka, H.H. Winter, T. Hashimoto,Macromolecules 30 (1997) 6158-6165.   
+[16] M.Muthukumar,Macromolecules22(1989) 4656-4658.   
+[17] F.Tanaka,A. Matsuyama,Phys. Rev. Lett. 62(1989) 2759-2762.   
+[18]F. Tanaka, Adv. Colloid Interface Sci. 63 (1996) 23-40.   
+[19] J.H. Choi, S.W. Ko, B.C. Kim,J. Blackwell, W.S.Lyoo,Mcaromolucules 34 (2001) 2964-2972.   
+[20] S. Liu,W. Yu, C. Zhou, Mcaromolucules 46 (2013) 6309-6318.   
+[21]S.Hussain, C. Keary, D.Q.M. Craig,Polymer 43(2002) 5623-5628.   
+[22] R. Kita, T. Kaku, H. Ohashi, T. Kurosu, M. lida, S. Yagihara, T. Dobashi, Phys. A 319 (2003)56-64.   
+[23]M.Takahashi,M. Shimazaki,J.J. Yamamoto,Polym. Sci.Polym.Phys.39 (2001) 91-100.   
+[24] J.P.A. Fairclough, H. Yu, O. Kelly, A.J. Ryan, R.L. Sammler, M. Radler, Langmuir 28 (2012) 10551-10557.   
+[25]S.A. Arvidson，J.R.Lott, J.W. McAllister,J. Zhang，F.S. Bates，T.P.Lodge, R.L.Sammler,Y.Li, Macromolecules 46 (2013) 300-309.   
+[26]N. Sarkar,N.C.Walker, Carbohydr.Polym.27(1995) 177-185.   
+[27] J. Desbriere,M. Hirrien, S.B. Ross-Murphy, Polymer 41 (2000) 2451-2461.   
+[28]K. Sakakibara, T. Takano, F. Nakatsubo, Cellulose 18(2011) 105-115.   
+[29] K.T. Nijenhuis,Adv. Polym. Sci.130(1997) 96-105.   
+[30] L.Tan, S.Liu,D. Pan,N.Pan,SoftMatter5(2009) 4297-4304.   
+[31] L. Tan,H. Chen, D. Pan,N. Pan, Eur. Polym. J. 45 (2009) 1617-1624.   
+[32]L. Tan, S. Liu,D. Pan, Colloids Surf.A 340(2009)168-173.   
+[33]A. Labudzinska, A. Ziabicki,Kolloid Z. Z. Polym. 243(1971) 21-27.   
+[34] A. Labudzinska, A. Wasiak, A. Ziabicki, J. Pol. Sci. C16 (1967) 2835-2844.   
+[35] M. Rubinstein, R.H. Colby, Polymer Physics, Oxford University Press, Oxford, 2003.   
+[36]S.G.Baldursdóttir,A.L.KjOniksen，Eur. J. Pharm.Biopharm.59(2005) 501-510.   
+[37]R.Kita, T. Kaku, K. Kubota, T. Dobasi, Phys. Lett. A 259(1999) 302-307.   
+[38] C.J. Seeton, Tribol. Lett. 22 (2006) 67-78.   
+[39] J.D.Ferry,Viscoelastic Properties of Polymers,third ed., John Wiley& Sons, NewYork,1980.   
+[40] Z.L. Zhang，H.D. Zhang,Y.L. Yang, I. Vinckier,H.M. Laun，Macromolecules (2001) 1416-1429.   
+[41]Y.H. Niu, Z.G. Wang, Macromolecules 39 (2006) 4175-4183.   
+[42] Y.F. Xu, C.W. Huang,W. Yu, C.X. Zhou, Polymer 67 (2015) 101-110.   
+[43]H. Tanaka,J.Phys. Condens.Matter12(2000) R207-R264.   
+[44]A.J. Frank,Understanding Instrument Inertia Corrections in Oscillation, Application Note available from TA Instrument, 2005.   
+[45] A. Malkin, S.Ilyin,T. Roumyantseva, V. Kulichikhin,Macromolecules 46 (2013) 257-266.   
+[46]L. Li, Y. Aoki, Macr0molecules 30(1997) 7835-7841.   
+[47]Y.Wang,W. Liu,G.Mo,R. Zhang,Polymer 73 (2015) 149-155.   
+[48]Q.Wu, X. Chen,L.Wan,Z. Xu,J. Phys. Chem.B 116 (2012) 8321-8330.   
+[49]V. Lachat,V. Varshney，A. Dhinojwala,M.S. Yeganeh，Macromolecules 42 (2009) 7103-7107.

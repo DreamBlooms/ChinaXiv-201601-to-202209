@@ -1,0 +1,167 @@
+# 2013—2018年塔里木河下游植被动态变化及其对生态输水的响应
+
+李均力 $^ { 1 , 2 * }$ ，肖昊1,3，沈占锋24，白洁1,2
+
+(1中国科学院新疆生态与地理研究所，荒漠与绿洲生态国家重点实验室，新疆 乌鲁木齐 830011;2 新疆遥感与地理信息系统应用重点实验室，新疆 乌鲁木齐 830011;3中国科学院大学，北京 100049;4中国科学院遥感与数字地球研究所，北京 100101)摘要：荒漠河岸带植被在维护极端干旱区生态稳定起着极其重要的作用，研究干旱区荒漠河岸带植被对生态输水的响应及其变化过程，对生态保育恢复及输水政策制定具有重要意义。本文以塔里木河下游流域内的荒漠河岸带植被为研究对象，利用 Landsat8OLI、Sentinel-2A 等数据构建植被覆被数据与典型监测断面植被指数时序数据，分析 2013—2018年荒漠河岸带植被时空变化特征，并结合地下水位数据分析荒漠河岸带植被对生态输水的响应。结果表明：2013—2018年间，塔里木河下游植被面积呈持续的增加趋势，其中灌木面积恢复最大。胡杨和草本距离河岸较近，沿河岸带植被恢复的区域分布位于距离河道 $1 . 0 \mathrm { k m }$ 和 $2 . 5 \mathrm { k m }$ 的范围，而灌木林恢复区域在双通道输水措施和地下水上升的影响下，沿河岸11km范围内的灌木均呈现不同程度增加。通过对不同生态断面的3种主要植被的长势分析表明，当地下水埋深大于 $- 5 . 7 5 \mathrm { m }$ 时，塔里木河下游植被出现明显改善。
+
+关键词：植被；时空分布；动态变化；生态输水；响应；塔里木河下游
+
+从大西海子水库至台特玛湖的塔里木河下游地区是中国西部典型的极端干旱区之一，生态环境极为脆弱。以胡杨、怪柳灌丛和湿地草本为主的荒漠河岸带植被是极端干旱环境下的生态廊道，在防风固沙、维持干旱区生态系统平衡等方面具有重要作用。塔里木河下游在20 世纪90年代一度断流，植被退化严重。自 2000年塔里木河下游生态输水工程实施以来，特别是2011年以后，区域内植被得到了有效的恢复[-2]。了解和掌握塔里木河下游荒漠河岸带植被的生态变化、定量评估输水工程的生态效应，对于干旱区荒漠的保育恢复治理、生态水资源管理提供重要的科学依据。
+
+目前，针对荒漠河岸带植被变化分析的主要手段包括遥感监测、生态样点观测等。其中，遥感手段主要利用多时相分类对比法[3-5]和变化轨迹分析法[6-8]对荒漠河岸带不同植被在生态输水实施后的变化进行监测，大多学者利用LandsatTM等中分辨率遥感数据，分析自 2000 年以来塔里木河下游植被生态输水前后的变化[9-10]。研究表明，在实施生态输水后，塔里木河下游的植被得到了有效的恢复，植被覆盖度与盖度均有明显的提高[1]。但是受荒漠河岸带植被稀疏分布的特性与影像空间分辨率的限制，很少学者开展不同植被生态输水效应的对比与分析。生态样点观测方法主要研究荒漠植被的生态特征（如植株树高、胸径、叶片面积）的变化[12-14]，进而定量评估植被对生态输水的响应，然而由于数据采集困难、观测时段有限，生态学的方法难以分析区域尺度的时空变化过程。
+
+为此，本文利用Landsat8 OLI、Sentinel-2A、国产高分1号（GF-1）数据，结合现有资料和遥感信息提取方法，获取2013—2018年主要地表类型和荒漠植被类型变化图，在此基础上分析2013—2018年塔里木河下游荒漠河岸带植被变化的时空特征，并结合不同荒漠植被的长势变化分析荒漠植被对生态输水的响应，从而为评估塔里木河下游生态输水效果和生态修复提供科学依据。
+
+# 1研究区数据及研究方法
+
+# 1.1研究区及数据
+
+研究区位于塔里木河下游大西海子水库至库尔干，是塔里木河生态环境最为脆弱的区域，20世纪70年代至21 世纪初一直处于断流状态，胡杨、怪柳、罗布麻和骆驼刺[17]等荒漠植被大片枯死、面积萎缩、生态系统退化严重。自2000 年生态输水工程实施以来，地下水位逐年上升，塔里木河沿岸的植被及生态环境有所恢复，其主要植被类型包括以胡杨为主的乔木，怪柳为主的灌木和以芦苇、胀果干草、罗布麻、骆驼刺等为主的草本植物。受植被生理特性与用水策略的影响，胡杨分布于沿河两岸的狭长区域，怪柳灌丛与胡杨交叉分布，大多分布于胡杨的外围，草本植物主要分布于河道两岸的湿地区域[18]。
+
+![](images/554e49c4b120480c23f07908f7595d6d3181d335271036729f4066d28bf074fb.jpg)  
+图1研究区示意图  
+Fig.1 The Sketch map of the study area
+
+为了分析塔里木河下游河岸带荒漠植被的时空变化，首先采用 2013—2018年9月份的Landsat 8数据提取研究区内的荒漠植被和水体变化的年度变化信息（表1)；同时，采用2013年9月24日、2018年9月28日的国产高分数据GF- $1 2 \mathrm { m } / 8 \mathrm { m }$ 提取林地、灌木和草地信息;最后,针对植被变化的典型区域,采用 2013—2018年Landsat8监测生态输水前后不同类型植被的月度长势变化（表1)。为了避开云或沙尘的影响，主要选择处于植被生长季的6、7、8、9月份[19-20]。经过辐射和几何、拼接、裁剪等影像预处理后，获得每年生长季的影像数据集。在分析植被变化与生态输水和地下水变化的关系时，还整理了2013—2018年大西海子向塔里木河下游输水数据（表2）以及塔里木河下游生态断面监测的英苏和阿拉干生态断面的月平均地下水位变化数据。
+
+表1Landsat8OLI影像列表  
+Tab.1 Images list of Landsat8 OLI   
+
+<html><body><table><tr><td>年份</td><td>6月</td><td>7月</td><td>8月</td><td>9月</td></tr></table></body></html>
+
+表22013-2018年生态输水数据汇总  
+
+<html><body><table><tr><td>2013</td><td>2013-06-11</td><td>2013-07-29</td><td>2013-08-30</td><td>2013-09-15</td></tr><tr><td>2014</td><td>2014-06-14</td><td>2014-07-16</td><td>2014-08-17</td><td>2014-09-18</td></tr><tr><td>2015</td><td>2015-06-18</td><td>2015-07-10</td><td>2015-08-20</td><td>2015-09-21</td></tr><tr><td>2016</td><td>2016-06-03</td><td>2016-07-05</td><td>2016-08-13</td><td>2016-09-23</td></tr><tr><td>2017</td><td>2017-06-06</td><td>2017-07-08</td><td>2017-08-09</td><td>2017-09-10</td></tr><tr><td>2018</td><td>2018-06-25</td><td>2018-07-17</td><td>2018-08-12</td><td>2018-09-29</td></tr></table></body></html>
+
+Tab.2 Summary of water conveyance to lower reaches of Tarim River from 2O13 to 2018   
+
+<html><body><table><tr><td rowspan="2">输水时间</td><td rowspan="2">输水阶段</td><td rowspan="2">各阶段输水方式</td><td rowspan="2"></td><td rowspan="2">下泄水量 -108m3</td></tr><tr><td>输水时间</td></tr><tr><td>2013-04-25—05-29</td><td>第一阶段</td><td>单通道输水</td><td>2013-04-25—05-29</td><td>0.14</td></tr><tr><td>2013-08-06—11-05</td><td>第二阶段</td><td>双通道、汊河输水</td><td>2013-08-06—11-05</td><td>4.74</td></tr><tr><td>2014-06-17-06-26</td><td></td><td>单通道输水</td><td>2014-06-17—06-26</td><td>0.07</td></tr><tr><td>2015-08-18—11-05</td><td></td><td>双通道、 汊河、面状 型输水</td><td>2015-08-18—11-05</td><td>4.61</td></tr><tr><td>2016-08-11—10-31</td><td></td><td>双通道、 汊河、面状 型输水</td><td>2016-08-11—10-31</td><td>6.76</td></tr><tr><td>2017-04-27—05-09</td><td>第一阶段</td><td>单通道输水</td><td>2017-04-27-05-09</td><td>0.16</td></tr><tr><td>2017-05-27—11-30</td><td>第二阶段</td><td>双通道、汊河、面状 型输水</td><td>2017-05-27—11-30</td><td>11.72</td></tr><tr><td>2017-12-20—2018-01-04</td><td>第三阶段</td><td>单通道输水</td><td>2017-12-20—2018-01-04</td><td>0.26</td></tr><tr><td>2018-02-27—03-14</td><td>第一阶段</td><td>单通道输水</td><td>2018-02-27—03-14</td><td>0.42</td></tr><tr><td>2018-08-06—09-25</td><td>第二阶段</td><td>双通道、汊河、面状 型输水</td><td>2018-08-06—09-25</td><td>3.08</td></tr></table></body></html>
+
+# 1.2 研究方法
+
+为了获取 2013年和 2018年塔里木河下游河岸带植被分布及变化情况，采用 2013年9月和 2018年9月的GF-1 $2 \mathrm { m }$ 融合数据，结合野外采集的胡杨、灌丛和草本共1672个样本点，基于多变量决策树的荒漠植被分类方法[20]提取胡杨、灌丛和草本植被分类图（图1)，并在此基础上结合Go0gle 高分影像底图进行手工编辑和精度检验，分类精度达 $9 2 . 7 \%$ ，满足变化分析需要。
+
+对于荒漠河岸带植被和水体的信息制图，本文采用"全域-局部"动态阈值法提取水体信息[211，采用土壤调节植被指数（soil adjusted vegetation index，SAVI）提取荒漠稀疏植被信息[2]，SAVI具体计算方法为:
+
+$$
+\mathrm { S A V I } { = } \left( \frac { \rho _ { \mathrm { N I R } } - \rho _ { \mathrm { R } } } { \rho _ { \mathrm { N I R } } + \rho _ { \mathrm { R } } + L } \right) \times \left( 1 + L \right)
+$$
+
+式中， $\rho _ { N L R }$ 为近红外波段的天顶反射率； $\rho _ { R }$ 为红光波段的天顶反射率； $L$ 为土壤调节系数，其值介于[0,1]之间。对于稀疏生长的低密度分布植被，SAVI引入调节土壤的因子 $L$ ，通过 $L$ 可以减小土壤对植被信息反演的干扰，植被生长越稀疏， $L$ 取值越大。根据刘桂林等[23]在塔里木河下游的荒漠植被试验结果表明，当 $L$ 选择0.5时对荒漠植被提取的效果最好，本文也采用此值。在此基础上，利用Landsat 8 2013—2018年9月的6期数据，提取河岸带植被和水体，获取6a 植被和水体变化的总体趋势。
+
+为了评价和比较塔里木河下游英苏至库尔干的6个生态断面典型植被的长势变化，利用 2013—2018年6—9月的Landsat8月度时序数据，分别在每个生态断面选择胡杨、怪柳和芦苇等典型植被斑块单元，提取其 24个月SAVI的时序曲线，通过对3类典型植被 SAVI的时序构建，比较不同植被、不同生态断面植被长势的变化趋势，并与生态输水量与地下水埋深对比，分析不同空间位置植被对生态输水的响应。
+
+# 2塔里木河下游植被时空变化特征
+
+# 2.1塔里木河下游植被面积变化分析
+
+从大西海子水库至库尔干的塔里木河下游河段的地表覆盖类型以植被、水体和裸地为主。为了分析下游河岸带的植被变化，从 2013—2018年Landsat 数据中分别提取塔里木河下游的植被和水体信息，其面积变化信息如图 2a)所示。从中可以看出，塔里木河下游植被在近5a内均呈现增加的趋势，其中 2018年植被面积与 2013 年相比增加了近 $2 4 9 . 7 4 \mathrm { k m } ^ { 2 }$ 。除了2014 年以外，植被呈现持续的增长变化，而对应时段的水体面积变动较大。结合表2的生态输水可以发现，在生态输水量较大的年份，对应时段内的水体面积也比较大，塔里木河下游水体面积的增加有利于植被的生长和恢复。从2013—2018年累计生态输水量和植被面积变化的关系可以看出，6a 的累积生态输水量与植被面积变化呈显著的线性关系，其 Pearson 相关系数为0.949。在空间上，水体增加的区域主要分布于下游河道、以及英苏至阿拉干断面新增的湿地水域，而植被沿塔里木河两岸向外扩张，其中以英苏至阿拉干断面间植被扩张最为明显，特别是英苏至阿拉干之间的湿地恢复良好。
+
+![](images/b9fe0b3c19ecea92299f539151ac4ae35c13314f37294b607ee6c8a276ad7628.jpg)  
+图2.2013—2018年塔里木河下游植被的变化，  
+Figure 2.Vegetation and Water Changes in the low reaches of the Tarimriver
+
+# 2.2不同植被类型变化的空间分布
+
+塔里木河下游主要植被类型包括胡杨、怪柳等灌木和荒漠草本植被，以塔里木河河道中心线为基线，每隔$0 . 5 \mathrm { k m }$ 统计 2018年不同植被类型沿河道的分布面积（图3)。从中可知，胡杨沿河岸分布集中度最高，草本次之，灌木最小。绝大多数胡杨分布于距河道 $1 . 5 \ \mathrm { k m }$ 的范围内。占总面积 $9 0 \%$ 的胡杨、草本和灌木沿河道分布的空间距离分别为 $2 . 5 \mathrm { k m }$ 、 $7 . 0 \mathrm { k m }$ 和 $8 . 5 \mathrm { k m }$ 。这也表明灌木能够沿河道中心分布的距离最远，草本次之、胡杨最近。3种植被面积距河道中心距离呈幂指数关系（图3)，具体如下：
+
+$\begin{array} { r } { \begin{array} { r l r l } { A _ { H } = } & { 8 6 . 6 5 6 L ^ { - 1 . 7 5 } } & & { ( R ^ { 2 } = 0 . 8 8 ) } \\ & { } & \\ { A _ { G } = } & { 1 0 9 . 0 5 L ^ { - 0 . 9 5 3 } } & & { ( R ^ { 2 } = 0 . 9 1 ) } \\ & { } & \\ { A _ { C } = } & { 4 1 . 2 9 0 L ^ { - 1 . 1 8 5 } } & & { ( R ^ { 2 } = 0 . 8 2 ) } \end{array} } \end{array}$ (2)(3）(4）
+
+式中： $L$ 为离河道中心的距离（ $\mathbf { \chi } _ { \mathrm { k m } } )$ ； $A _ { H }$ 、 $A _ { G }$ 和 $A { { c } }$ 分别为胡杨、灌木和草本在 $L$ 处的面积（ $\mathrm { k m } ^ { 2 }$ ）。
+
+![](images/4b1e0ce49fb113acc56a9c1831c3839d9cb17b59cab8682406de3e1ebb729e27.jpg)  
+图3不同河道距离植被面积分布图
+
+Fig.3 Map of Relationship between Vegetation Distribution Area and River Distance
+
+为了分析 2013—2018年3种主要植被的空间变化，结合2013年和2018年高分解译的3种主要植被类型的面积变化图（图4)，并沿河道中心，每隔 $0 . 5 \mathrm { k m }$ 统计不同植被的面积变化率（图5)。统计结果显示：
+
+![](images/4a8d1185b4a7c21ad6d123eafe2af3c548dac4c2fed8e089806956536613a27d.jpg)
+
+（1）2018 年胡杨、灌木和草本植被恢复的面积分别为 $0 . 8 9 \mathrm { ~ k m } ^ { 2 }$ 、 $2 2 8 . 5 6 ~ \mathrm { k m } ^ { 2 }$ 和 $7 . 1 5 ~ \mathrm { k m } ^ { 2 }$ ，其中灌木净恢复面积最为显著，草本次之，胡杨最小。
+
+（2）胡杨恢复的区域主要分布在英苏以东、阿拉干以西和依干不及麻以北区域，这些区域主要分布距河道$0 { \sim } 1 . 0 \mathrm { k m }$ 与 $4 . 5 { \sim } 6 . 0 \mathrm { k m }$ 的范围内，区域内胡杨恢复的面积分别占总恢复面积的 $56 \%$ 和 $3 9 \%$ ，其中，在 $4 . 5 { \sim } 6 . 0 \mathrm { k m }$ 的范围主要发生在英苏和阿拉干之间的区域。相对灌木与草本植被，胡杨恢复面积最小，河道不同距离的面积变化率曲线也最平稳。
+
+（3）灌木面积恢复的区域最大，从大西海子至库尔干灌木恢复和面积增加的区域沿河道两岸广泛分布，其中面积增加的主要区域沿河道中心 $1 . 0 { \sim } 1 1 . 0 \mathrm { k m }$ 内，且在距离河道 $2 . 0 \ \mathrm { k m }$ 处面积增加率也最大，这个区域恢复的灌木面积占灌木总恢复面积的 $51 \%$ 。
+
+（4）草本植被面积恢复的区域主要分布于距河道 $2 . 5 \mathrm { k m }$ 的范围内。从图4可知，草本增加的区域主要出现于英苏北侧、其文库勒湖与老塔里木河下段，分别位于河道中心线 $2 \mathrm { k m }$ 和 $1 0 . 5 \mathrm { k m }$ 处的湿地与积水区，增加面积分别为 $4 . 8 8 \mathrm { k m } ^ { 2 }$ 和 $4 . 9 3 \mathrm { k m } ^ { 2 }$ ，主要草本类型为河区湿地草本。从草本随河道距离面积变化曲线图（图5）发现，$1 . 0 \mathrm { k m }$ 内的植被减少与该区域胡杨增加有关，胡杨冠层面积的恢复遮挡了大量的草本植被，使得遥感解译的草本植被面积减少。
+
+（5）从大西海子向下河道的双通道输水极大地扩展了下游植被恢复的区域。除了2014年，2013—2018 年均开展了双通道、汉河、面状型等输水方式[10]，增加了上游段输水受益面积，双河道附近增加了大量的灌木和湿地草本植被。从图4可知，双河道输水区域对植被的恢复效果明显优于阿拉干以下地区，其影响距离是单通道的2倍以上。
+
+![](images/913b52001af2b8cf58ac7a4d4d0ea4ebb4a38ceaec1b0e4b02b5bf8b6d022d01.jpg)  
+图42013一2018年不同植被面积变化的空间分布Fig.4 Vegetation area growth map of the study area  
+图53种植被随河道距离变化的面积变化比较
+
+Fig.5 Comparisions of area changes of 3 vegetation types with different river channel distance
+
+# 3不同植被类型对塔里木河下游生态输水的响应
+
+# 3.1不同断面植被类型的长势对比
+
+2013—2018年6—9月英苏、博孜库勒（无胡杨分布）、阿拉干、依干不及麻（无胡杨分布）和库尔干5个断面附近选择典型的胡杨、灌木和草本等植被样点的月度长势变化曲线（图6)，结果表明：
+
+![](images/c6d4cb31ef218d968bbef8e499f8f589639bc1a58c78ddd4c23190a0d7056bf2.jpg)  
+图6不同断面植被长势曲线对比图
+
+Fig.6 Comparisions of different vegetation growth curves of different ecological section sites
+
+在英苏、博孜库勒、阿拉干、依干不及麻和库尔干5个生态观测断面内，胡杨、灌木和草本均呈现稳定的增长状态，同一种植被在不同断面上的变化趋势呈现较好的一致性，但在变化幅度上呈现一定的差异。其中，灌木的长势在不同生态断面上差异不大，而胡杨和草本从上游到下游逐渐变好。不同植被距离河道中心距离的不同是这种差异的主要原因。从图4可知，胡杨和草本样本分布在离河岸较近的河岸带湿地区域，生态输水后可以直接影响胡杨和草本的长势，且越往下游地下水位越浅，特别是处于河岸带湿地的草本植被长势也越好。而灌木主要分布的区域离河道较远，且地下水位变化对生态输水的响应更迟缓，因而长势变化不及胡杨和草本。
+
+从植被的生长习性来看，草本植被的季节性对生态输水量的响应更为敏感，草本植被的根系较浅，且属于一年生植物，输水量的大小直接影响年内长势的变化幅度。2016 年前输水量较小，草本的年内变化幅度较小，但仍高于胡杨和灌木；2016 年后水量充裕的情况下，草本的季节性变化幅度最大，灌木其次，胡杨最小。这与干旱区灌木、草本在水分充足和欠缺条件下迅速生长和凋零的习性是对应的；而胡杨属于乔木，根系更深，且地下水埋深处于胡杨的适宜生长水位。在这种情况下，胡杨受水分胁迫的程度不及草本和灌木，其季节性变化也较小。
+
+不同植被的长势变化与生态输水量存在显著的相关性，长势曲线在 2016年后呈现一个显著的抬升。结合表2 可知，2013—2015年生态输水量较小，且在 2014 年输水量和持续时间达到最小。这一期间，植被的 SAVI指数都在0.2以下浮动，其长势曲线平缓，或仅有微弱的抬升。而2016年以后，生态输水一直维持在较高的水平，特别是2017年生态输水量超过 $1 2 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ，这个时段的胡杨、灌木和草本的SAVI指数从2016—2017年的0.2\~0.3迅速抬升到2017年的0.3\~0.5，曲线抬升明显。
+
+# 3.2植被长势对地下水埋深的响应
+
+比较 2013—2017 年英苏和阿拉干断面的胡杨、灌木和草本植被的长势变化曲线与月平均地下水变化曲线，分析塔里木河下游植被长势对地下水埋深的响应（图7)。从中可知，同一个断面内不同植被的变化趋势也是相同的，且植被长势均呈现改善的状态。其中，2016年是植被显著改善的时间节点。2013—2015年，植被长势的变化较为平缓，而 2016年以后植被长势曲线明显抬升，其中灌木长势改善最为明显。
+
+结合地下水埋深变化曲线分析，植被显著改善的时间节点为2016年7月，2016年7月以后对应的最小地下水埋深为2016年8月的 $. 5 . 7 5 \mathrm { m }$ 。此后地下水埋深一直维持在 $. 5 . 7 5 \mathrm { m }$ 以上，而英苏和阿拉干生态断面的植被均出现了明显的改善。而在2016年7月之前，地下水位除了2013年9月以外均低于此值，在此期间植被指数变化缓慢，仅仅在季节上有较大波动。虽然在2013年9月地下水埋深一度上涨到 $. 5 . 5 6 \mathrm { m }$ ，但植被在此期间处于凋零期，随后地下水位又迅速下降，植被长势并未出现明显的改善。这表明， $- 5 . 7 5 \mathrm { m }$ 是地下水埋深的一个转折点，地下水埋深高于这个值后植被就呈现明显改善。结合图4分析发现，地下水升高后，塔里木河下游的灌木改善最为明显。从2013—2018年，灌木面积恢复了 $2 2 8 . 5 6 \mathrm { k m } ^ { 2 }$ ，几乎覆盖沿塔里木河河岸的所有地带，这表明地下水位的恢复到适宜灌木生长的生态水位，作为塔里木河下游最主要的植被类型——灌木林就能极大改善当地的生态环境。
+
+![](images/00936373f5faec40323a7a2a3eb5703ce3eb899ff3ddbebfa0e6fda13f4d3b48.jpg)  
+图7生态断面植被指数与地下水位关系
+
+Fig.7Relations between Vegetation Index and GroundwaterLevel in Monitoring Section
+
+结合以上分析可知，生态输水和地下水埋深都对塔里木河下游植被有显著的影响。最近6a植被改善的时间过程表明了持续生态输水的重要性。2013—2015 年也开展了生态输水，然而 2014年生态输水量仅为 $0 . 0 7 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 地下水在 2014年没有延续 2013 年上升的趋势，反而持续下降，直至2015 年输水后转为上升的状态。而 2016年以后超过 $6 . 0 { \times } 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 年生态输水量使得地下水迅速上升到 ${ \cdot 6 . 0 } \mathrm { m }$ 以上，植被状态也随之出现了极大的改善。因此，每年持续的生态输水对维持地下水位至关重要。为了能够持续改善塔里木河下游河岸带植被，需要每年持续的、一定规模的生态输水，维持适合河岸带植被生长的地下水位。
+
+# 4结论
+
+（1）2013—2018 年间，塔里木河下游植被呈持续增加的趋势，植被面积的增加与6a内的累积生态输水量呈显著的线性关系。（2）从2013年和2018年2期高分遥感解译结果可知，塔里木河下游3种主要植被类型胡杨、草本和灌木植物沿河道中心分布的距离分布为 $2 . 5 \mathrm { k m }$ 、 $7 . 0 \mathrm { k m }$ 和 $8 . 5 \ \mathrm { k m }$ ，2018年三者的面积恢复的主要区域分别距离河道$1 . 0 \mathrm { k m }$ 、 $2 . 5 \mathrm { k m }$ 和 $1 1 . 0 \mathrm { k m }$ ，灌木林在双通道输水措施和地下水上升的影响下，沿河道两岸恢复最为明显。（3）塔里木河下游从上到下的6个生态断面的植被长势与每年的生态输水量呈现显著的相关性，2016年以后生态输水显著增加，其不同生态断面的植被长势曲线也在 2016 年显著抬升。胡杨和草本越往下游长势越好，而灌木在不同断面内的长势基本一致。（4）2016年前后地下水位和植被长势的变化表明，持续的生态输水能够维持适宜河岸带植被生长的地下水位。2016年7月以后地下水埋深一直维持在 ${ \cdot } 5 . 7 5 \mathrm { m }$ ，植被面积持续增加，长势持续改善。
+
+参考文献（References）：
+
+[1]王希义，徐海量,凌红波,等.生态输水对塔里木河下游植被恢复价值的影响[J].干旱地区农业研究， 2017,35(4):166-172. [Wang Xiyi, Xu Hailiang,Ling Hongbo,et al. Effects of ecological water conveyance on recovery value of vegetation in the lower reaches of Tarim river[J].Agricultural Research in the Arid Areas,2017,35(4):166-172.]   
+[2]陈亚宁,李卫红,陈亚鹏,等.科技支撑新疆塔里木河流域生态修复及可持续管理[J].干旱区地理，2018, 41(5):3-9.[Chen Yaning,Li Weihong,Chen Yapeng,et al. Science in supporting the ecological restoration and sustainable development of the Tarim river basin[J]. Arid Land Geography, 2O18, 41(5):3-9.]   
+[3]刘娇,黄显峰,方国华,等.基于GIS 缓冲区功能的塔里木河中游植被指数时空变化分析[J].干旱区研究， 2018,35(1):171-180.[Li Jiao,Huang Xianfeng,Fang Guohua,et al. Spatiotemporal variation of NDVI in the middle reaches of the Tarim River based on GIS buffer function[J]. Arid Zone Research,2O18,35(1):171-180.]   
+[4]赵军，杨建霞，朱国锋．生态输水对青土湖周边区域植被覆盖度的影响[J].干旱区研究，2018,35(6): 1251-1261.[Zhao Jun, Yang Jianxia, ZHU Guofeng. Effect of ecological water conveyance on vegetation coverage in surrounding area of the Qingtu Lake[J]. 2018, 35(6): 1251-1261.]   
+[5]任媛，刘普幸.基于 EVI 和 MNDWI 指数的石羊河流域水体、植被时空变化特征[J]．冰川冻 土,2018,40(4):217-225.[Ren Yuan, Liu Puxing. Temporal and spatial variations of water and vegetation in Shiyang river basin based on EVI and MNDWI[J]. Journal of Glaciology and Geocryology,2018,40(4):217-225.]   
+[6]杨怡，吴世新，庄庆威，等．2000-2018年古尔班通古特沙漠EVI时空变化特征[J].干旱区研究，2019,36(6): 1512-1520.[Yang Yi, Wu Shi-xin, Zhuang Qingwei,etal. Spatiotemporal change of EVI in the Gurbantunggut Desert from 2000 to 2018[J]. Arid Zone Research, 2019,36(6): 1512-1520.]   
+[7]Coppin P.,Jonckheere I.,Nackaerts K.et al.Digital change detection methods in ecosystem monitoring: Areview. International Journal of Remote Sensing, 2004,25(9): 1565-1596.   
+[8]史浩伯，陈亚宁，李卫红，等．塔里木河下游植被种间关系与稳定性分析[J].干旱区研究，2020,37(1):
+
+220-226.[Shi Haobo,Chen Yaning,Li Weihong,et al. Interspecific association and stability of Vegetation in the
+
+Lower Reaches of the Tarim River[J]. Arid Zone Research,2020, 37(1): 220-226.]   
+[9]朱长明,李均力,沈占锋,等.塔里木河下游生态环境变化时序监测与对比分析[J]．地球信息科学学报，2019, 21(3):437-44.[Zhu Changming,Li Junli, Shen Zhanfeng, et al. Time series monitoring and comparative analysis on eco-environment change in the lower reaches of the Tarim river[J]. Journal of Geo-Information Science,2019, 21(3):437-444.]   
+[10]李丽君,张小清,陈长清,等.近20 a塔里木河下游输水对生态环境的影响[J].干旱区地理,2018,41(2):21-30.[Li Lijun,Zhang Xiaoqing,Chen Changqin,etal.Ecological effects of water conveyance on the lower reaches of Tarim River in recent twenty years[J].Arid Land Geography,2018,41(2):21-30.]   
+[11]陈亚宁,李卫红,陈亚鹏,等.荒漠河岸林建群植物的水分利用过程分析[J].干旱区研究，2018,35(1):130-136. [Chen Yaning,Li Weihong,Chen Yapeng,et al. Water use process of constructive plants in desert riparian forest[J].Arid Zone Research,2018,35(1):130-136.]   
+[12] 徐海量,邓晓雅,赵新风.河道断流对胡杨(Populus euphratica)径向生长量的影响[J].中国沙 漠,2013,33(3):731-736. [Xu Hailiang,Deng Xiaoya, Zhao Xinfeng. Comparison of tree-ring growth of Populus euphratica under long-term zero flow condition in the lower reaches of the Tarim river[J].Journal of Desert Research,2013,33(3):731-736.]   
+[13]龚君君,叶茂,禹朴家,等.生态输水对塔里木河下游胡杨主干径向生长量影响研究——以依干不及麻断面为例 [J].干旱区资源与环境,2011,25(2):162-166.[Gong Junjun，Ye Mao,Yu Piaojia,et al.Influence of ecological irrigation onthe trunk growth of Populus euphratica in the lower reaches of the Tarim River:Acase of Yiganbujima Section[J].Journal of Arid Land Resources and Environment,2011, 25(2):162-166.]   
+[14] 刘博，刘红玲，穆雨迪，李桂芳，贺亚玲，庄丽．塔里木河下游怪柳沙包稳定同位素碳与灌丛的相关性[J]. 干旱区研究,2018,35(3): 735-742.[Liu Bo,Liu Hongling,Mu Yudi, et al. Correlation between the stable carbon isotopes in annual layers of Tamarix ramosissima sand-hillcks in the lower reachesof the Tarim River[J],2018, 35(3): 735-742.]   
+[15]叶茂，徐海量，任铭．塔里木河下游生态输水的合理时间初探[J].干旱区研究,2012,29(5):907-912.[Ye Mao, Xu Hailiang, Ren Ming. Primary Study on the Rational Time of Ecological Water Conveyance to Lower Reaches of the Tarim River[J]. 2012, 29(5): 907-912.]   
+[16]陈亚宁,叶朝霞,毛晓辉,等.新疆塔里木河断流趋势分析与减缓对策[J].干旱区地理,2009,32(6):813-820.[Chen Yaning，Ye Chaoxia，Mao Xiaohui,et al.Dried-up trend of Tarim river and the counter measures for mitigation[J].Arid Land Geography, 2009,32(6):813-820.]   
+[17]古力米热·哈那提,王光焰,张音,等.干旱区间歇性生态输水对地下水位与植被的影响机理研究[J].干旱区地 理,2018,41(4):50-57.[Gulimire Hanati，Wang Guangyan, Zhang Yin,et al. Influence mechanism of intermitent ecological water conveyance on groundwater level and vegetation in arid land[J]. Arid Land Geography, 2018, 41(4):50-57.]   
+[18] 朱绪超，袁国富，邵明安，等．塔里木河下游河岸带植被的空间结构特征[J]．植物生态学报，2015, 39(11):1053-1061.[Zhu Xuchao, Yuan Guofu,Shao Mingan, etal. Spatial patern of riparian vegetation in desert of the lower Tarim River basin[J].Chinese Journal of Plant Ecology,2015,39(11):1053-1061.]   
+[19]刘桂林,张落成,李广宇,等.极端干旱区稀疏荒漠植被信息遥感探测研究[J].干旱区资源与环 境,2013,27(4):37-40.[Liu Guilin,Zhang Luochen,Li Guangyu,etal. Sparsedesert vegetation extraction in extreme arid region based on remote sensing imagery[J].Journal of Arid Land Resourcesand Environment,2013, 27(4):37-40.]   
+[20] 古丽·加帕尔,陈曦,马忠国,等.极端干旱区荒漠稀疏河岸林遥感分类研究[J].中国沙漠， 2009,29(6):1153-1161.[Guli Jiapaer, Chen Xi,Ma Zhongguo,etal. Classification of sparse desert riparian forest in extreme arid region[J].Journal of Desert Research,2009, 29(6):1153-1161.]   
+[21]李均力,盛永伟,骆剑承．喜马拉雅山地区冰湖信息的遥感自动化提取[J].遥感学报，2011，15(1):36－43.[Li Junli,Sheng Yongwei,Luo Jiancheng. Automatic Extraction of Himalayan Glacial Lakes with Remote Sensing[J]. Journal of Remote Sensing, 2011, 15(1):36 - 43.]   
+[22] Huete AR. A soil adjusted vegetation index (SAVI) [J]. Remote Sensing of Environment,1988,25: 295-309.
+
+# Vegetation change during 2013-2018 and its response to ecological water conveyance in the lower reaches of the Tarim River
+
+(1 StateKeyLboratorofesertandOasisEologyIstituteofXinjangecologyndgeogaphyCinescademyfiencesUri 830011,Xinngina;Keyboratoryof&plcatioXnjangUygurtonomousReionUrill,ign; 3UniversityofCinesecademyfienceseiingo49,ina4IstituteofmoteSsingandDgitalEarth,Cnesecademyf Sciences, Beijing l00101, China)
+
+Abstract:Desertriparianvegetationplaysanextremelyimportantroleinmaintainingecologicalstabilityinextremearidregions. Understandingtheresponseofdesertparianvegetationtocologcalwatertrasportinaridegionsanditschangingprocesisofgreat significancefortheformulationofecologicalconservationrestorationandwatertransportpolicyformulation.Takingthedesertriparian vegetationinthlwereachsoftheTariRverasthersearchbjetusingulti-souedataincudingLandsat8OLItiel-to constructvegetationcoverdataandtypicalmonitoringsctionvegetationindextimeseriesdataandanalyzethetemporaladspatial variationcharacteristsofvegetationintedesertriparanzoefrom2O13toO18.Andcombiedwithgroundwatelveldatatoaalye theresponseofsertiparanvegetationadeologicalwatertransferprojectsTeesultssowedtatespatialandtmpoalangesof diferenttypesofvegetationweresignificantlydiferentduetotheinflueneofwaterransport.Theareaandspatialdistributionofew shrubswere significantly higherthan thatother vegetation types.ThenewPopuluseuphraticaare mainlydistributed withinO\~kmand $4 . 5 \mathrm { \sim } 6 \mathrm { k m }$ of the river channel,the new shrubs are mainly distributed within $1 { \sim } 4 \mathrm { k m }$ from the river channel,and the new herbs plants are mainly distributed within $2 . 5 \mathrm { k m }$ from the river channel; different types of vegetation are affected by ecological water transport mode and monitoringsectionspace.Theinfluenceoflocationhasdiferentresponsestoecological watertransport.Atthesametime,withthe advancementofcologicalwatertransferprojets,thgroundwaterlevelintelowreachsofthTariiverisgneralluplifd,ad vegetation growth is generally improved.
+
+Keywords:lowerreachesof teTarimRiver;Changeofvegetationstructure; Vegetationgrowth monitoring;Ecological waterconveyance;   
+Multi-source remote sensing data;

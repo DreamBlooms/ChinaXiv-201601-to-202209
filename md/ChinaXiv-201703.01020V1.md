@@ -1,0 +1,121 @@
+# Selective and recyclable palladium porphyrins-catalyzed oligomerization of tert-butyl acetylene in environment-friendly ionic liquids
+
+JIN-SHENG CHENG 1,2,\*, GUO-FENG WEI1, JIN ZHAO 1, SHI-WEN HUANG1 and ZU-LIANG HUANG 1
+
+1 School of Basic Medical Science, Youjiang Medical College for Nationalities, Baise 5330o0, China 2Guangzhou Institute of Biomedicine and Health, Chinese Academyof Sciences, Guangzhou 510650, China
+
+Abstract—Eficient and selective palldium porphyrins-catalyzed olimerization of tert-butyl acetylene to form (3Z,5Z)-2,2,7,7-tetramethyl-3,6-dihalo-3,5-octadiene has been developed inenvironmentfriendly ionic liquids. The reaction proceeded readily with effective recycling of the ionic liquids and easy isolation of the products.
+
+Keywords: Palladium porphyrins; ionic liquids;oligomerization; environment friendly.
+
+# INTRODUCTION
+
+Conjugated 1,3-dienes are useful as building blocks in organic and pharmaceutical synthesis and are found in many natural and synthetic products that display a wide range of biological activities [1]. For these reasons,the development of efficient and selective methods for the synthesis of conjugated 1,3-dienes remains an area of current interest [2-10].
+
+We have recently developed a selective approach,using palladium-catalyzed dimerization transformations of alkynes,to selectively construct a functionalized 1,3-diene,i.e., (3Z,5Z)-2,2,7,7-tetramethyl-3,6-dichloro-3,5-octadiene. Traditional solvents were found to play an important role in controlling the chemoselectivity of palladium-chloride-catalyzed oligomerization reactions [11]. In the benzene/nBuOH binary solvent system,1,3,5-tri-tert-butylbenzene,(3Z,5Z)-2,2,7,7-tetramethyl-3,6-dichloro-3,5-octadiene and 2,2,7,7-tetramethyl-3,5-octadiyne were obtained, respectively,by regulating the solvent. For example, when the reaction was done
+
+![](images/59bca269a5baf61efa028b312d86e69c01ad0b5359a6289a76c4815314be95e7.jpg)
+
+# Scheme 1.
+
+in benzener $' n$ -BuOH with a volume ratio of 1O:O.6, the reaction gave exclusively cyclotrimerization product 2 (1,3,5-tert-butyl benzene, Scheme 1). It is interesting that a higher $n$ -BuOH content in the binary solvent system leads to the higher tendency of forming3(Scheme 1, the reaction yielded $93 \%$ 3 when the benzene/n$\mathtt { B u O H }$ volume ratio is 3:7.6).
+
+Note that $100 \%$ polar protic $n$ -BuOH did not lead to higher yields of 3,since only $78 \%$ 3 was obtained. Thus,a small portion of apolar unprotic benzene was in favor of the dimerization process to form 3. However, noteworthy is that toxicity characteristics of co-solvent benzene limited the palladium-catalyzed dimerization transformations of tert-butyl acetylene to selectively construct functionalized 1,3- diene 3; besides,both benzene and $n$ -BuOHare flammable and volatile.Thus,when seeking an alternative, environment-friendly reaction medium for synthesizing (3Z,5Z)-2,2,7,7-tetramethyl-3,6-dichloro-3,5-octadiene (a typical 1,3-diene),it is desirable if the product could be easily isolated from the reaction medium or if the reaction medium has the potential to be recycled several times.
+
+Ionic liquids (ILs),molten organic salts at or near room temperature,are more and increasingly applied as alternative reaction media for separations and organic transformations [12-17]. They represent an innovation in the way chemistry is carried out. This was enhanced by environmental and health considerations. In addition, ILs have desirable properties: negligible vapor pressure，non-volatile, non-flammable,high thermal, chemical and electrochemical stability, liquid over a wide temperature range, dissolution of many organic and inorganic compounds, etc. Their physicochemical properties can be tuned by the composition, so they are specially promising solvents for catalysis processes where selectivity, activity and stability of the catalysts are enhanced. Obviously, ILs meet our expectation: green media, easy isolation of products and potential for recycling.
+
+![](images/e8782dfe6213889b24a03abd6c590f4b0ee3c89a5357dc8d054363401e6dd4e9.jpg)  
+51-Butyl-2,3-dimethyl-imidazoliumchloride {[BDiMIM]Cl}
+
+6 1-Butyl-3-methyl-imidazolium bromide {[BMIM]Br}
+
+# Scheme 2.
+
+It is surprising that only few reports on the palladium-catalyzed dimerization transformations of alkynes, selectively constructing functionalized conjugated 1,3- diene,have been described.Recently，we have carried out detailed work in developing palladium-catalyzed dimerization transformations of tert-butyl acetylene to selectively construct (3Z,5Z)-2,2,7,7-tetramethyl-3,6-dichloro-3,5-octadiene in environment-friendly ILs. Experimental results encouraged us to synthesize, besides (3Z,5Z)-2,2,7,7-tetramethyl-3,6-dichloro-3,5-octadiene (3, Scheme 2)，a novel product with similar structure. (3Z,5Z)-2,2,7,7-tetramethyl-3,6-dibromo-3,5- octadiene(4, Scheme 2, $\mathrm { C u B r } _ { 2 }$ Wasused as co-catalyst),was also isolated in our ILs-palladium porphyrins catalyst system. We noticed that there are two halides at the 3- and 6-positions of 3 and 4,which provides an attractive and useful route to introduce new groups for synthesizing natural products. Herein，we report some results in this program.
+
+# EXPERIMENTAL
+
+$^ 1 \mathrm { H } \mathrm { - }$ and $^ { 1 3 } \mathrm { C }$ -NMR spectra were recorded on a Bruker AC 40O spectrometer in CDCl3 with TMS as an internal standard. IR spectra were obtained using a WQF410 FT-IR spectrometer. GC-MS spectra were recorded on a HP 6890-5937 mass spectrometer. Elemental Analyses were performed on a Heraeus CHN-O Rapid elemental analyzer intrument. $\mathrm { H F } _ { 2 5 4 }$ plates were used for analytical thin-layer chromatography. tert-Butyl acetylene，porphine palladium, $\mathrm { C u C l } _ { 2 }$ ， $\mathrm { C u B r } _ { 2 }$ ，ILs (BDiMIM)Cl) and ((BMIM)Br) were purchased from commercial sources.
+
+# General procedure for the palladium porphyrins-catalyzed oligomerization of tert-butyl acetylene in ionic liquids
+
+The reaction proceeded smoothly in ILs 5 or 6 in the presence of palladiumporphyrins and $\mathrm { C u X } _ { 2 }$ in a nitrogen atmosphere at $1 4 0 ^ { \circ } \mathrm { C }$ for $2 6 \mathrm { ~ h ~ }$ .Before any experiment, the ionic liquids were dried under high vacuum at $8 0 ^ { \circ } \mathrm { C }$ for at least $8 \mathrm { ~ h ~ }$ to avoid water absorption. After completion,dry nitrogen was used for the reaction. After cooling,the reaction products were extracted with diethyl ether, leaving the catalyst in the ionic liquids ready for further reaction. The GC analysis of the product showed that reaction selectivity depends on the ILs and $\mathrm { C u X } _ { 2 }$ ：
+
+# 1,3,5-Tri-tert-butylbenzene (2) [18]
+
+Hexane/EtOAc (9:1） was used as the eluent. Solid, mp ${ 7 0 } { - } 7 3 ^ { \circ } \mathrm { C }$ (lit. mp $7 3 ^ { \circ } \mathrm { C } )$ · ${ } ^ { 1 } \mathrm { H } .$ -NMR 8: 1.207 (s, 27H),6.523 (s,3H); $^ { 1 3 } \mathrm { C }$ -NMR $\delta$ : 28.9, 39.2, 117.9,148.0; MS: $m / z ~ 2 4 6 ~ ( M ^ { + } )$ ,219,202,199,183,163,157,143,123,107,91,77,65,57, 41, 29.
+
+(3Z,5Z)-2,2,7,7-tetramethyl-3,6-dichloro-3,5-dienes (3)[11]
+
+Hexane/EtOAc (3:7) was used as the eluent: white crystal, mp $6 7 { - } 6 8 ^ { \circ } \mathrm { C }$ · $^ 1 \mathrm { H }$ -NMR （204号 $( 4 0 0 ~ \mathrm { { M H z } ) }$ 8:1.208 (s, 18H),6.524 (s, 2H); $^ { 1 3 } \mathrm { C }$ -NMR(75 MHz) δ: 28.8,39.2, 76.7, 77.0, 77.3, 117.9, 148.0; 1 $\mathrm { R } ( { \mathrm { C H } _ { 2 } } { \mathrm { C l } _ { 2 } } )$ ): 1589,1421, 896, $7 3 8 ~ \mathrm { c m } ^ { - 1 }$ ; MS $m / z$ ： 236 $( M ^ { + } ( ^ { 3 7 } { \bf C l } ) )$ 234 $( M ^ { + } ( ^ { 3 5 } { \mathrm { C l } } ) ) ,$ ,219,199,177,163,150,143,123,107,91,77, 57, 41,28. Found: C, 61.56;H, 9.01; Cl, 29.42.
+
+# Crystal data of 3 (Scheme 3)
+
+$\mathrm { { C _ { 6 } H _ { 1 0 } C l } }$ ? $\langle M = 1 1 7 . 5 9 \rangle$ ）crystals were grown from petroleum ether, monoclinic, space group: $\mathrm { P } 2 ( 1 ) / n$ ， $a = 6 . 2 7 8 0 ( 8 )$ _， $b = 1 0 . 3 4 3 2 ($ 14), $c = 1 0 . 6 9 2 7 ( 1 5 ) \mathring { \mathrm { A } } , \alpha =$ 90, $\beta = 1 0 5 . 3 0 0 ( 3 )$ ， $\gamma = 9 0 ^ { \circ }$ ， $V = 6 6 9 . 7 2$ (16) $\mathring { \mathbf { A } } ^ { 3 }$ ， $Z = 4$ ， $D _ { \mathrm { c } } = 1 . 1 6 4 ~ \mathrm { g } \mathrm { c m } ^ { - 3 }$
+
+![](images/c18ef9dcc37301d4101dc2a19bf590b7c375a8e9def16a17bb3a62de61c75fc3.jpg)  
+Scheme 3.Crystal structure of 3[11].
+
+$\lambda = 0 . 7 1 0 7 3 \mathrm { ~ \AA ~ }$ ， $T = 2 9 3 ( 2 )$ ,K, $\mu = 0 . 4 5 0 \mathrm { m m } ^ { - 1 }$ , 4037 reflection measured,1582 unique $( R _ { \mathrm { i n t . } } ~ = ~ 0 . 0 7 5 0 )$ were used in all calculations. Final $R = 0 . 0 4 5 4 ( \mathrm { o b s } . ) .$ 0.0670(all); $w R ( F ^ { 2 } ) = 0 . 1 1 4 0$ (obs.),0.1222(all).
+
+# (3Z,5Z)-2,2,7,7-tetramethyl-3,6-dibromo-3,5-dienes (4)
+
+Hexane:EtOAc (3:7) was used as the eluent: white crystal, mp $7 4 - 7 5 ^ { \circ } \mathrm { C }$ $^ 1 \mathrm { H }$ -NMR $( 4 0 0 ~ \mathrm { { M H z } ) }$ δ:1.230 (s, 18H),6.590 (s,2H); $^ { 1 3 } \mathrm { C }$ -NMR( $7 5 ~ \mathrm { { M H z } }$ ）8: 29.2,29.6, 31.6, 40.3, 119.4, 123.6, 144.7; $\mathrm { I R } ( \mathrm { C H } _ { 2 } \mathrm { C l } _ { 2 } )$ : 1605,1552, 1422, 896, $7 6 3 ~ \mathrm { c m } ^ { - 1 }$ · MS m/z: 324 $( M ^ { 1 } + { \ l } ^ { 8 1 } \mathrm { B r } ) ,$ ,322 $( M ^ { 1 } + ( ^ { 7 9 } \mathrm { B r } ) )$ ,309,245,230,213,201,187,173, 164,149,133,121,107,91,77,57,41,29. Found: C,44.41,H, 6.21; Br,49.36.
+
+# RESULTSANDDISCUSSION
+
+In developing the palladium-catalyzed dimerization of tert-butyl acetylene for selective synthesis of (3Z,5Z)-2,2,7,7-tetramethyl-3,6-dihalo-3,5-octadiene in environment friendly ILs, we chose palladium porphyrins (2,3,7,8,12,13,17,18-octaethyl$2 1 H$ $2 3 H$ -porphine palladium(II), Scheme 4) as the catalyst, because of their excellent catalytic efficiency.
+
+In Table 1,the detailed results of the palladium porphyrins-catalyzed oligomerization of tert-butyl acetylene in ionic liquids and, for comparison,in a traditional binarysolventsystem (benzene/ $' n$ -BuOH) are reported.
+
+Catalyzed by palladium porphyrins， the reaction proceeded smoothlyin 1-butyl-2,3-dimethyl-imidazolium chloride,((BDiMIM)Cl) (5),or 1-butyl-3-methylimidazolium bromide ((BMIM)Br)(6) in the presence of the co-catalyst $\mathrm { C u X } _ { 2 }$ (Scheme 2).When $\mathrm { C u C l } _ { 2 }$ wasused as co-catalyst, (3Z,5Z)-2,2,7,7-tetramethyl3,6-dichloro-3,5-octadiene (3) was obtained (when the reaction was carried out in 5 at $1 4 0 ^ { \circ } \mathrm { C }$ for $2 6 \mathrm { h }$ $8 6 \%$ yield of 3 was obtained, together with a trace of 2; entry 1 in Table 1),whereas,when $\mathrm { C u B r } _ { 2 }$ was chosen as co-catalyst, (3Z,5Z)-2,2,7,7- tetramethyl-3,6-dibromo-3,5-octadiene (4) instead of 3 was obtained (in ILs 6 at 140 for $2 6 \mathrm { ~ h ~ }$ ， $89 \%$ yield of 4, as well as a trace of 2 was obtained; entry 7 in Table 1). It is interesting that,when ${ \mathrm { Y b } } ( { \mathrm { O T f } } ) _ { 3 }$ (or ${ \mathrm { C e } } _ { 2 } ( { \mathrm { C O } } _ { 3 } ) _ { 3 } )$ instead of $\mathrm { C u X } _ { 2 }$ was
+
+![](images/3868a90dbf837df2a89496ec7b7f0a8ca3e42ae90c0b238fa1e9cb45090f24cf.jpg)
+
+Scheme 4. The structure of palladium porphyrins.
+
+Table 1. Porphine palladium-catalyzed dimerization of tert-butyl acetylene in $\mathrm { I L } s ^ { a }$   
+
+<html><body><table><tr><td>Entry</td><td>IL</td><td>Co-catalyst</td><td>Time (h)</td><td>T (C)</td><td colspan="3">Yield (%)b</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>3</td><td>4</td><td>2</td></tr><tr><td>1</td><td>5</td><td>CuCl2</td><td>26</td><td>140</td><td>86</td><td>0</td><td>Trace</td></tr><tr><td>2</td><td>5</td><td>CuCl2</td><td>15</td><td>140</td><td>55</td><td>0</td><td>2</td></tr><tr><td>3</td><td>5</td><td>CuCl2</td><td>32</td><td>140</td><td>79</td><td>0</td><td>Trace</td></tr><tr><td>4</td><td>5</td><td>CuCl2</td><td>26</td><td>125</td><td>46</td><td>0</td><td>8</td></tr><tr><td>5</td><td>5</td><td>CuCl2</td><td>26</td><td>150</td><td>81</td><td>0</td><td>0</td></tr><tr><td>6</td><td>6</td><td>CuCl2</td><td>26</td><td>140</td><td>72</td><td>4</td><td>3</td></tr><tr><td>7</td><td>6</td><td>CuBr2</td><td>26</td><td>140</td><td>0</td><td>89</td><td>Trace</td></tr><tr><td>8</td><td>6</td><td>CuBr2</td><td>16</td><td>140</td><td>0</td><td>52</td><td>2</td></tr><tr><td>9</td><td>5</td><td>CuBr2</td><td>26</td><td>140</td><td>6</td><td>68</td><td>0</td></tr><tr><td>10</td><td>5</td><td>Ce2(CO3)3</td><td>26</td><td>140</td><td>5</td><td>0</td><td>75</td></tr><tr><td>11</td><td>6</td><td>Ce2(CO3)3</td><td>26</td><td>140</td><td>0</td><td>6</td><td>79</td></tr><tr><td>12</td><td>5</td><td>Yb(OTf)3</td><td>26</td><td>140</td><td>4</td><td>0</td><td>65</td></tr><tr><td>13</td><td>6</td><td>Yb(OTf)3</td><td>26</td><td>140</td><td>0</td><td>7</td><td>63</td></tr><tr><td>14</td><td>5</td><td></td><td>26</td><td>140</td><td>5</td><td>0</td><td>51</td></tr><tr><td>15</td><td>6</td><td>_</td><td>26</td><td>140</td><td>0</td><td>6</td><td>56</td></tr><tr><td>16</td><td></td><td>_d</td><td>12</td><td>40</td><td>93</td><td>0</td><td>0</td></tr><tr><td>18</td><td></td><td>_d</td><td>12</td><td>40</td><td>0</td><td>92</td><td>0</td></tr></table></body></html>
+
+b Yields determined by GC analysis. C In the absence of co-catalyst. d In benzene $\prime _ { n }$ -BuOH( $1 0 . 6 \mathrm { m l }$ , volume ratio 3:7.6) instead of ILs 5 or 6.
+
+ä Reaction conditions: the mixture of tert-butyl acetylene 1(1 mmol) and porphyrins palladium 7 $( 1 3 3 . 1 6 ~ \mathrm { m g } ~ \$ ，substrate/porphyrin molar ratio $= 4 8 0 0 { : } 1 \dot { \mathrm { ~ } }$ ）was stirred at desired temperature with $\mathrm { I L }$ 5 or 6 (substrate/ionic liquids volume ratio $= 1 { : } 3$ ）in the presence of co-catalyste $2 \ \mathrm { m m o l }$ ， $\mathrm { C u } X _ { 2 }$ ， ${ \mathrm { C e } } _ { 2 } ( { \mathrm { C O } } _ { 3 } ) _ { 3 }$ or $\mathrm { Y b } ( \mathrm { O T f } ) _ { 3 } \mathrm { , }$ ）
+
+used as co-catalyst, the reaction proceeded readily to give the major cyclotrimerization product 2, together with low yields of 3 or 4 as by-product (entries 10-13 in Table 1). The yield of 3 and 4 declined to $51 \%$ and $56 \%$ ,respectively,in the absence of co-catalyst (entries 14 and 15 and Table 1).
+
+In benzene/n-BuOH (volume ratio 3:7.6), $93 \%$ yield of 3 $\mathrm { ( C u C l } _ { 2 }$ as co-catalyst) and $90 \%$ yield of 4 $\mathrm { \ C u B r } _ { 2 }$ as co-catalyst) was obtained instead of 2.
+
+The above-mentioned results show that both reaction media and co-catalysts affect the reaction. Besides,reaction temperature and reaction time also have a slight influence on the reaction. After a series of attempts (entries 1-5,7 and 8 in Table 1), $1 4 0 ^ { \circ } \mathrm { C }$ was found to be the optimum temperature, together with $2 6 \mathrm { h }$ as the optimum reaction time.
+
+Note that different ILs affect the results slightly. For example, the reaction was carried out smoothly in $\textrm { I L } 5$ at $1 4 0 ^ { \circ } \mathrm { C }$ for $2 6 \mathrm { ~ h ~ }$ with $8 6 \%$ yield of 3 (entry1in Table1),whereas,when IL 6 was used to replace 5, $4 \%$ yield of 4wasalso observed together with $72 \%$ yield of 3 (entry 6 in Table 1). Similarly, $6 \%$ yield of 3 was isolated together with $68 \%$ major product 4 when IL 5 was used to replace 6 (entry
+
+9 in Table 1). The reason for these results lies in anions difference between ILs 5 (Cl) and 6 (Br).
+
+Table 1 shows that the results obtained by using IL 5 in the process of synthesizing 3 are superior to IL 6, while the results obtained in IL 6 are superior to 5 when the synthesis of product 4is considered.
+
+In this reaction system, the products are easier to isolate from the reaction mixture, compared to traditional solvents.
+
+Reactivity and selectivity found with the title reaction are important per se. However, we feel that the recycling of the ILs is even more important: improper disposal of IL, though non-volatile,non-flammable as it is,would still lead to new pollution of the environment (because of the minimal degradation in the environment),and at the same time ILs are also expensive reagents； thus,much attention needs to be paid to re-use of the ILs. Although the yields obtained in ILs did not seem to be superior to those obtained with traditional solvents,we feel that the recycling possibility and environment-friendly characteristics of ILs are two biggest light spots attracting us. With the porphyrins palladium- $\mathrm { . c u X } _ { 2 }$ (or $\mathrm { C e } _ { 2 } ( \mathrm { C O } _ { 3 } ) _ { 3 }$ ,etc.） catalyst system we still need to ascertain the disposal for further recycling. Further recycling investigations and application of this reaction and these products in organic synthesis are currently under progress in our laboratory.
+
+Table 2 shows the efficiency of the reaction in IL 6 after 5 runs with tert-butyl acetylene as substrate. As reported in Table 2, it is clear that recycling of the ILs slightly affects the conversion and the yields of the product.
+
+Water content of the $\mathrm { I L }$ might also influence the reaction slightly, which could be stabilized by vacuum pumping.
+
+Based on our previous work [19-22],we feel that ILs are superior to supercritical carbon dioxide $\scriptstyle ( \mathrm { s c C O } _ { 2 } )$ ); use of a co-solvent (e.g.,methanol) in the reaction process limited the advantages of $\operatorname { s c C O } _ { 2 }$ as a green reaction medium, from a viewpoint of environmental as well as recycling efficiency.
+
+Table 2. Conversion of 1 with subsequent use of recycling ionic lquidsa   
+
+<html><body><table><tr><td>Run</td><td>Conversion (%)b</td><td>Yield of 4(%)</td><td>Yield of 2 (%)</td></tr><tr><td>1</td><td>100</td><td>89</td><td>Trace</td></tr><tr><td>2</td><td>99</td><td>83</td><td>Trace</td></tr><tr><td>3</td><td>99</td><td>84</td><td>Trace</td></tr><tr><td>4</td><td>96</td><td>77</td><td>Trace</td></tr><tr><td>5</td><td>97</td><td>73</td><td>Trace</td></tr></table></body></html>
+
+ä Ionic liquid 6 was used,the reaction was conducted at $1 4 0 ^ { \circ } \mathrm { C }$ for $2 6 \mathrm { h }$ .After each run,the residue of porphyrins palladium- $\mathrm { . c } _ { \mathrm { u } \mathrm { B r } _ { 2 } }$ catalyst was filtered (for further disposal for recycling)and new active porphyrins palladium $\mathrm { . c } _ { \mathrm { u } \mathrm { B r } _ { 2 } }$ catalyst was added. b Detected by GC.
+
+In conclusion, the properties of the ILs-porphyrins palladium system makes the oligomerization of tert-butyl acetylene to form (3Z,5Z)-2,2,7,7-tetramethyl-3,6- dihalo-3,5-octadiene very appealing.
+
+# Acknowledgements
+
+We are grateful to Guangxi Zhuang Autonomous Region Department of Education (NO. 200508193)，NSFC (NO.20172053） and Youjiang Medical College for Nationalities (Grant 2Oo5Oo5),for financial support, and thanks to Prof. Huan-Feng Jiang for helpful discussions.
+
+# REFERENCES
+
+1. Z.Rappoport,Z.The Chemistry of Dinenes and Polyenes,Volume 2.Wiley,Chichester (2001). 2.A.A.Vasil'ev andE.P.Sterebryakov,Russ.Chem.Rev.70,735 (2001). 3.N.Miyaura, Cross-Coupling Reaction.Springer,Berlin (2002). 4.E.Negishi， Handbook of Organo-palladium Chemistry for Organic Synthesis.WileyInterscience,New York,NY (2002). 5.X.Zeng,Q.Hu,M. Qian and E.Negishi,J. Am. Chem. Soc.125,13636 (2003). 6.X.Zeng,M. Qian,Q.Hu and E.Negishi,Angew. Chem. Int.Edn. 43,2259 (2004). 7. M. Qian,Z. Huang and E. Negishi, Org. Lett 6,1531 (2004). 8. Z.Wang,X.Lu,A.Lei and Z. Zhang,J. Org. Chem. 63,3806 (1998). 9.T.Uno,S.Wakayanagi,Y. Sonoda and K. Yamamoto, Synlett,1997 (2003). 10.G.A.Molander and Y. Yokoyama,J. Org. Chem.71,2493 (2006). 11.J. Cheng,J.Li,H. Jiang and X. Ouyang, Chin. Chem. Lett.14,966 (2003). 12. T.Welton, Chem.Rev.99,2071 (1999). 13.P.Wasserscheid,P.Wassercheid and T.Welton (Eds),in: Ionic Liquids in Synthesis,p.213. Wiley-VCH, Weinheim (2002). 14.J.Mo,J. Xu and J. Xiao,J. Am. Chem. Soc.127,751 (2005). 15.M.Earle,S.P.Katare and K.R. Seddon,Org.Lett.6,707(2004). 16.A.Vidis,C.A. Ohlin,G.Laurenczy,E. Küsters,G. Sedelmeier and P.J.Dyson,Adv. Synth. Catal.347,266 (2005). 17.P.Wasserscheid and W. Keim, Angew. Chem. Int. Edn. 39,3772 (2000). 18.J.Li,H. Jiang and M. Chen,J. Org. Chem. 66,3627 (2001). 19.J.Cheng and H.Jiang,Eur J. Org. Chem.3,643 (2004). 20.J.Cheng and H. Jiang,in: 5th International Symposium on Green Chemistry,Hefei-Huanshan, p. 14 (2002). 21.J.Cheng,Green Chem.,in press (2006). 22.J.Cheng,J.Li and H. Jiang,Synth. Commun.33,3303 (2003).

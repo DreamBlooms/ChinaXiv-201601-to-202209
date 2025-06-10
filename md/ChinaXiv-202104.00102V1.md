@@ -1,0 +1,211 @@
+# 1982—2015年科尔沁沙地植被时空变化及气候响应
+
+崔珍珍¹，马超¹²，陈登魁(1.河南理工大学测绘与国土信息工程学院,河南 焦作454003；2.河南理工大学自然资源部矿山时空信息与生态修复重点实验室,河南 焦作454003；3.河南昆仑能源天然气有限公司,河南 焦作454000)
+
+摘要：基于1982—2015年GIMMS NDVI3g.v1数据,结合站点气象数据,采用趋势分析、变异系数、Hurst指数及偏相关分析等方法，探讨了科尔沁沙地植被覆盖的时空特征、气候响应及未来趋势。结果表明：(1)科尔沁沙地34a植被覆盖呈缓慢增加趋势，每10a增速为 $0 . 2 3 \%$ 。植被覆盖变化整体上可分为"三升"（1982—1999年、2000—2004年、2008—2012年)和"三降"(1999—2000年、2004—2007年、2012—2015年)的趋势,其中最大值出现在1999年,最小值出现在2009年。（2）科尔沁沙地植被覆盖格局呈"南北高,中间低"的分布特征。以"西拉木伦河—新开河"为界线,北部地区植被变化趋势以退化为主,南部地区以改善为主。（3）科尔沁沙地变异系数西高东低,地域性差异明显。低波动变化区域主要分布在北部海拔较高地区（占 $5 . 5 2 \%$ ),其植被类型主要为针阔混交林。(4)科尔沁沙地植被变化的同向特征强于反向特征，持续退化和持续改善区域分别占 $6 1 . 4 8 \%$ 和 $3 7 . 0 3 \%$ 。降水是影响研究区植被变化的主要因素。
+
+关键词：科尔沁沙地；NDVI3g.v1；时空变化；气候响应；Hurst指数；偏相关分析
+
+荒漠化是中国北方最主要的生态环境与社会经济问题之一[]。科尔沁沙地在历史上曾是水草丰美、植被茂盛的草原2],但受气候变化和人类活动的影响，逐渐演变成了中国面积最大的荒漠沙地，并成为中国北方沙尘暴的主要物源之一[3]。植被是判断生态系统走向的一个重要指示因子，陆地植被具有涵养水源、保持水土的作用，是生态系统存在的基础，因此研究生态脆弱区植被的动态变化规律，对于荒漠化地区的植物管护具有重要意义[4]
+
+植被指数是衡量地表植被状况、指示生态环境变化的一个重要指标。在众多植被指数中，归一化植被指数（Normalized Difference Vegetation Index,NDVI)是应用最广泛的植被指数，利用NDVI不仅能客观反映地表植被覆盖状况，也能大范围长时间地监测地表植被覆盖的变化[5-7]。植被覆盖受气候变化和人类活动共同影响,利用三大类植被指数产品(AVHRR，MODIS,SPOTNDVI)开展不同尺度上的植被覆盖研究[8-10],已成为探究全球生态系统变化的一个重要手段[]
+
+而沙地被公认为是响应全球变化最敏感的地区之一，土地沙化及其生态环境的日趋恶化对生态安全和社会、经济持续发展构成严重威胁[12]。科尔沁沙地是中国北方半干旱农牧交错带的典型区域，也是沙漠化比较严重的地区之一[13],分析响应全球气候背景下科尔沁沙地的植被覆盖时空变化具有现实意义。Huang等[10]采用1998—2006年SPOTVEGETATIONNDVI数据研究了科尔沁沙地过去9a的植被覆盖变化，发现研究区植被活动整体呈增加趋势，且增加幅度较大。马龙等4基于2000—2012年MODISNDVI数据对科尔沁沙地气候与植被变化特征及其定性与定量响应关系进行了分析，结果表明研究区植被长势自东向西逐渐变差；多年植被长势呈变好趋势，降水呈微弱增加趋势，气温变化趋势不明显。王思如等[5基于自主开发的水文过程与植被生长耦合的生态水文模型(WaVEM)研究了气候变化下科尔沁沙地植被变化的响应规律，发现降水的年际变化是导致植被变化的主要因素；短期的干旱会导致植被锐减，而干旱结束后植被能够迅速恢复；多年连续干旱是导致科尔沁植被显著退化的主要因素。魏丰良等1基于2000—2009年MODIS地表反射率产品数据分析了科尔沁沙地植被覆盖变化及其与气候因子的关系，结果表明研究区内植被的生长状况为东部好于西部，南部好于北部，植被时空变异性不大。李生勇等基于2004—2013年的MODISNDVI数据，发现近10a间科尔沁地区植被整体呈增加趋势,每年增速为 $3 . 3 \%$ 。
+
+然而，针对科尔沁沙地植被覆盖长期变化及其与气候响应的研究仍显不足，主要表现在：（1）以往的研究目标过于单一，大多数学者只针对草地这一单一覆盖类型开展研究，容易导致“只见树木不见森林"的片面认识；(2）以往的研究在气候响应分析时，更多将气候变量与地表覆被变量两两相关分析，然而气候变量之间是相互作用的，多变量相关分析才能更好揭示地一气相互作用机制。鉴于此，本文选用最新的长时间序列1982—2015年GIMMSNDVI3g.v1数据和温度、降水数据，辅以趋势分析、变异系数、Hurst指数及偏相关分析等方法，对科尔沁沙地地区的沙地、草地、森林和灌丛等多种类型的植被覆盖变化进行时空特征、趋势特征、地一气耦合特征、可持续性及未来变化趋势等全面分析，旨在揭示全球变化背景下科尔沁沙地植被覆盖变化以及气候对干旱半干旱区植被生长的影响规律，进而为科尔沁沙地荒漠化演化趋势评价及荒漠化防治工作提供理论依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+科尔沁沙地位于内蒙古高原向东北平原的过渡地带，地理位置介于 $\begin{array}{c} 1 1 7 ^ { \circ } 4 9 ^ { \prime } { \sim } 1 2 3 ^ { \circ } 4 2 ^ { \prime } \mathrm { E } \end{array} , 4 1 ^ { \circ } 4 1 ^ { \prime } { \sim }$ ）$4 6 ^ { \circ } 0 5 ^ { \prime } \mathrm { N }$ 之间，西起燕山山系的七老图山，东至松辽平原西部，南以努鲁儿虎山为界，北接大兴安岭山地南缘[13],总面积为 $1 2 . 5 1 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ （图1）。研究区位于科尔沁沙地腹地，海拔 $1 2 0 { \sim } 8 0 0 \mathrm { m }$ ,地势西高东低。该区属于温带半干旱大陆性季风气候,年均气温 $5 . 4 { \sim } 6 . 8 ~ \mathrm { ^ { \circ } C }$ ,年均降水量 $3 4 3 { \sim } 4 5 1 ~ \mathrm { m m }$ ,年均风速$3 . 4 { \sim } 4 . 4 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 。目前科尔沁沙地地区分布最广、面积最大的土壤类型为风沙质土壤，其次是草甸土和栗钙土。科尔沁沙地的原生植被是以榆树（Umuspumila)和蒙古栎(Quercusmongolica)为主的稀树草
+
+118°E 120°E 122E 124°E 黑龙江省   
+N94 霍林河 N94 霍林郭勒市 内蒙古自治区 科尔沁右翼中旗 吉林省 A 扎鲁特旗   
+N 巴林左旗阿鲁科尔沁区 科尔沁左翼中旗 No 你吉木伦河 新开河 开鲁县科尔沁区西道河 巴林右旗 拉木伦河 奈曼旗 科尔沁左翼后旗 翁牛特旗 老哈河 库伦旗 敖汉旗   
+4 A 气象站点高程2021 4 河北省 辽宁省 0 ▲ 150 km □边界 84 118°E 120E 122°E 124°E
+
+原，但由于人为破坏和沙漠化的影响，这些天然植被大部分已经退化为沙生植被和温带草原沙漠。科尔沁沙地处在中国北方农牧交错地带，生态环境比较脆弱，频繁的风沙灾害加之不合理的人为活动导致科尔沁沙地成为中国北方地区沙漠化最典型的地区之-[18]
+
+# 1.2数据来源
+
+遥感数据集GIMMSNDVI3g.v1来源于美国国家航空航天局(NASA)戈达德航天中心，时间跨度为1981—2015年，空间分辨率为 $0 . 0 8 3 ^ { \circ } \times 0 . 0 8 3 ^ { \circ }$ ，时间分辨率为 $1 5 \mathrm { d }$ 。该数据集的制作经过了严格的辐射校正、几何校正、去云及除坏线处理，确保了数据质量[9]；相比其他NDVI数据集，该数据集具有时间序列长、精度高、误差小的优点，在全球及区域植被变化研究中具有很好的适用性[20]。本研究采用最大合成法（MaximumValue Composite，MVC）获取1982—2015年逐月NDVI数据，有效地去除云、大气和太阳高度角等产生的影响[2],并进一步采用最大合成法得到年最大NDVI数据集。
+
+植被类型数据为地球系统科学数据共享平台提供的 Globalland3o(https://www.webmap.cn/commres.do?method=globeIndex）1:1000000中国植被类型图(2010年版）。1982—2015年全国平均气温和降水站点等气象数据来源于中国气象科学数据共享网(http://data.cma.cn），本研究利用ArcGIS对研究区及附近 $1 0 0 \mathrm { k m }$ 范围内共22个站点数据进行克里金(kriging)插值，从而获得1982—2015年科尔沁沙地逐年的年均气温和降水分布的分辨率为 $1 ~ \mathrm { k m }$ 的栅
+
+格数据。
+
+# 1.3 研究方法
+
+1.3.1趋势分析一元线性回归趋势分析法能模拟每个栅格的变化趋势，反映不同时期NDVI变化趋势的空间特征。利用所有年份的数据进行拟合，避免了研究结果的随机性和偶发性，其结果可以更加准确的反映植被的生长状况和变化趋势[22-23]。计算公式为：
+
+$$
+\theta _ { s l o p e } = \frac { n \times \displaystyle { \sum _ { i = 1 } ^ { n } } \big ( i \times \mathrm { N D V I _ { \ m a x } ^ { \boldsymbol { i } } } \big ) - \left( \displaystyle { \sum _ { i = 1 } ^ { n } } i \right) \left( \displaystyle { \sum _ { i = 1 } ^ { n } } \mathrm { N D V I _ { \ m a x } ^ { \boldsymbol { i } } } \right) } { n \times \displaystyle { \sum _ { i = 1 } ^ { n } } i ^ { 2 } - \left( \displaystyle { \sum _ { i = 1 } ^ { n } } i \right) ^ { 2 } }
+$$
+
+式中： $\theta _ { s l o p e }$ 为像元NDVI回归方程的斜率; $n$ 为监测年数； $\mathrm { N D V } _ { \operatorname* { m a x } } ^ { i }$ 为第 $i$ 年的年最大NDVI值;当 $\theta _ { s l o p e } >$ 0时，表示随时间变化所在像元植被指数上升，植被覆盖度呈增加趋势；反之，植被指数呈下降趋势。
+
+1.3.2变异系数变异系数表示地理数据的相对变化(波动)程度，本文采用变异系数来分析植被变化的稳定性[24]。计算公式为：
+
+$$
+C v = \frac { 1 } { \mathrm { \overline { { N D V I _ { m a x } } } } } \sqrt { \frac { \sum _ { i = 1 } ^ { n } \bigl ( \mathrm { N D V I _ { m a x } ^ { \it i } - \overline { { N D V I _ { m a x } } } } \bigr ) ^ { 2 } } } { n - 1 } 
+$$
+
+式中： $\boldsymbol { C v }$ 表示 $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 的变异系数; $n$ 为监测年数;$\mathrm { N D V I } _ { \operatorname* { m a x } } ^ { i }$ 为第 $i$ 年的年最大NDVI值; $\overline { { \mathrm { N D V I } _ { \operatorname* { m a x } } } }$ 表示1982—2015年年最大NDVI的平均值； $\boldsymbol { C v }$ 值越大,表明NDVI波动程度越大； $\boldsymbol { C v }$ 值越小，则NDVI波动程度就越小。
+
+1.3.3Hurst指数 基于重标极差 $( R / S )$ 分析方法的Hurst指数是一种定量描述时间序列信息长期依赖性的有效方法，其能够有效预测时间序列数据相对于过去的未来发展趋势[25]。其计算原理如下：
+
+给定一时间序列 $\{ \xi ( t ) \}$ $, t = 1 , 2 , \cdots$ ,对于任意正整数 $\tau \geqslant 1$ ,定义均值序列：
+
+$$
+\left. \xi \right. _ { \tau } = \frac { 1 } { \tau } \sum _ { t = 1 } ^ { \tau } \xi ( t ) \quad \tau = 1 , 2 , \cdots
+$$
+
+累积离差：
+
+$$
+X ( t , \tau ) = \sum _ { u = 1 } ^ { t } \Bigl ( \xi ( u ) - \bigl \langle \xi \bigr \rangle _ { \tau } \Bigr ) \quad 1 \leqslant t \leqslant \tau
+$$
+
+极差：
+
+$$
+R ( \tau ) = \operatorname* { m a x } _ { 1 \leqslant t \leqslant \tau } X ( t , \tau ) - \operatorname* { m i n } _ { 1 \leqslant t \leqslant \tau } ( t , \tau ) \quad \tau = 1 , 2 , \cdots
+$$
+
+标准差：
+
+$$
+S ( \tau ) = \left[ \frac { 1 } { \tau } \sum _ { t = 1 } ^ { \tau } \Bigl ( \xi ( t ) - \bigl < \xi \bigr > _ { \tau } \Bigr ) ^ { 2 } \right] ^ { \frac { 1 } { 2 } } \quad \tau = 1 , 2 , \cdots
+$$
+
+考虑比值 $R ( \tau ) / S ( \tau ) \cong R / S$ ,若存在 $R / S \propto \tau ^ { H }$ ，则说明时间序列 $\{ \xi ( t ) \}$ 存在Hurst现象， $H$ 值称为 $\mathrm { H u r s t }$ 指数，其值可在双对数坐标系 $( \ln \tau , \ln R / S )$ 中用最小二乘法拟合得到。
+
+1.3.4偏相关分析偏相关分析用于研究两个特定变量之间的相互作用关系，即当两个变量均与第三个变量存在相关关系时，剔除其影响，而只分析另外两个变量之间的相关程度[26-27]。在计算偏相关系数前，要先计算两要素之间的相关系数。相关系数计算公式为：
+
+$$
+r _ { x y } = \frac { \displaystyle \sum _ { i = 1 } ^ { n } \bigl ( \mathrm { N D V I } _ { \operatorname* { m a x } } ^ { i } - \overline { { \mathrm { N D V I } _ { \operatorname* { m a x } } } } \bigr ) ( y _ { i } - \bar { y } ) } { \sqrt { \displaystyle \sum _ { i = 1 } ^ { n } \bigl ( \mathrm { N D V I } _ { \operatorname* { m a x } } ^ { i } - \overline { { \mathrm { N D V I } _ { \operatorname* { m a x } } } } \bigr ) ^ { 2 } \sum _ { i = 1 } ^ { n } \bigl ( y _ { i } - \bar { y } \bigr ) ^ { 2 } } }
+$$
+
+式中： $r _ { x y }$ 为变量 $x$ 与 $y$ 的相关系数; $n$ 为样本数;$\mathrm { N D V I } _ { \operatorname* { m a x } } ^ { i }$ 、 $y _ { i }$ 分别为第 $i$ 年年最大NDVI和年均气温或降水量; $\overline { { \mathrm { N D V I } _ { \operatorname* { m a x } } } }$ 为1982—2015年年最大NDVI平均值; $\bar { y }$ 为相应的时间段平均气温或平均降水量。
+
+偏相关系数计算公式为：
+
+$$
+r _ { x y , z } = \frac { r _ { x y } - r _ { x z } r _ { y z } } { \sqrt { \Big ( 1 - { r _ { x z } } ^ { 2 } \Big ) \Big ( 1 - { r _ { y z } } ^ { 2 } \Big ) } }
+$$
+
+式中： $r _ { x y , z }$ 表示变量 $z$ 固定后变量 $x$ 和 $y$ 的偏相关系数。
+
+# 2结果与分析
+
+# 2.1植被覆盖时间变化特征
+
+1982—2015年科尔沁沙地的 $\mathrm { \Delta N D V I _ { \mathrm { { m a x } } } }$ 在 $0 . 5 0 \sim$ 0.61间波动(图2)，总体呈缓慢增加趋势，与前人的研究结果基本一致[10.14,16],每10 a增速为 $0 . 2 3 \%$ ,略高于1982—2012年中国植被覆盖度，平均每 $1 0 \mathrm { ~ a ~ }$ 增速为 $0 . 2 \% ^ { [ 2 8 ] }$ ,但远低于2000—2012年科尔沁沙地ND-VI每10a整体增速为 $3 . 4 \% ^ { [ 1 4 ] }$ 和2004—2013年科尔沁区植被覆盖每10a整体增速为 $3 3 \% ^ { [ 1 7 ] }$ 。植被覆盖变化整体上可分为“三升"（1982—1999年、2000—2004年、2008—2012年)和"三降"（1999—2000年、2004—2007年、2012—2015年），其中最大值出现在1999年，最小值出现在2009年，这与王娟等8的结论“1983—1999年和2000—2009年两个时段，科尔沁沙地以南植被状况两个时期均持续好转"以及魏丰良等"的结论“科尔沁沙地植被覆盖时空变异性在时间上以2000年最大，2005年最小"基本一致。1999—2015年间，“三降"现象的产生与同期出现的干旱事件较为吻合[29]。
+
+![](images/c0961d02e4c37e3c484b6e977099591e488d025d5e67e554b4bcf6969b294685.jpg)  
+图21982—2015年科尔沁沙地植被覆盖时间变化趋势Fig.2 Trend of vegetation coverage in Horqin SandyLand during 1982-2015
+
+# 2.2植被覆盖空间变化特征
+
+2.2.1 空间分布特征利用1982—2015年的逐年$\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 数据，计算得到研究区34a的 $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 平均值范围在 $0 . 1 8 \sim 0 . 8 8$ 之间，其空间分布整体表现为：“南北高，中间低”（图3a)。参考已有研究[30],将科尔沁沙地植被覆盖度分为5个等级：极低覆盖度(0\~0.2）低覆盖度(0.2\~0.4）、中覆盖度(0.4\~0.6）、高覆盖度（0.6\~0.8）、极高覆盖度（0.8\~1）。研究区$\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 的平均值为0.56,其中高值区占 $3 5 . 4 9 \%$ ，主要分布在科尔沁沙地北部海拔 $4 5 0 \mathrm { m }$ 以上的区域，其主要植被类型为阔叶林、针叶林和灌丛，植被长势较好，此外，还有一部分分布在科尔沁南部海拔较低、地势较平坦的区域，主要被森林和农田所覆盖；中等覆盖区域占 $5 7 . 6 0 \%$ ，呈大面积连接成片分布于研究区的中部和南部大部分地区，这些区域主要被草地和农田所覆盖;低值区占 $6 . 9 1 \%$ ,集中分布在翁牛特旗东部以及奈曼旗西北部，这些地区主要为荒漠草地及裸地。
+
+2.2.2空间变化趋势为检测科尔沁沙地植被覆盖的变化趋势，根据公式(1)逐像元计算了1982—2015年植被 $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 的斜率 $\theta _ { s l o p e }$ ,并对其进行显著性检验(图4)。结果表明：(1)研究区植被覆盖的变化趋势具有明显的空间差异性，以“西拉木伦河一新开河”为界线，北部地区主要分布有农田、草地和森林，其植被覆盖变化以退化为主，可能与近几十年来气候变异(气温升高、夏季降水量减少[2]),呈现出暖干化趋势[18]有关;南部地区虽然也分布有大量的农田和草地，但其植被覆盖变化却以改善为主，受人类活动因素影响明显，其中政府实施的退耕还林还草、禁牧禁伐及"三北"防护林工程等[13]一系列防沙治沙工程，以及对作物的科学种植"、耕地的科学管理、化肥及农药的科学使用等4多种田间管理措施在这一过程中发挥了重要作用。(2）极显著改善区域占研究区面积的 $2 6 . 4 9 \%$ ，主要分布在"西拉木伦河一新开河"以南的地区，其主要植被类型为农田和草地。(3）极显著退化和显著退化区域占研究区的 $2 3 . 4 5 \%$ ,主要分布在"西拉木伦河一新开河”以北的地区，其主要植被类型为农田、草地、和森林。
+
+![](images/f271a93197055f98a50037ef72df035a1835ff8976a18e6cc341ab5e1633c314.jpg)  
+图31982—2015年科尔沁沙地平均NDVI空间分布及2010年(Globalland30)地表覆盖类型Fig.3Spatial distributionof mean NDVIin Horqin SandyLand during 1982-2015and its land cover types in 2010
+
+![](images/5b385bd7603c4cc0ad2dc0ed83faa75416a7cf5db8e19e6263f3725a470e351c.jpg)  
+Fig.4 Trend and significance of NDVI in the Horqin Sandy Land during 1982-2015
+
+2.2.3空间变化稳定性根据公式(2)计算得出1982—2015年科尔沁沙地植被 $\mathrm { \Delta N D V I _ { \operatorname* { m a x } } }$ 的变异系数 $\boldsymbol { C v }$ 介于 $0 . 0 1 9 \sim 0 . 1 9 8$ 之间(图5a)，参照已有的研究[31-32],并结合 $\boldsymbol { C v }$ 的大小以及本研究区的实际情况将其分为5个变化等级：低波动变化（ $( 0 . 0 1 9 \sim$ 0.05）、较低波动变化 $( 0 . 0 5 \sim 0 . 0 8 )$ 、中等波动变化$( 0 . 0 8 \sim 0 . 1 0 ) \$ 、较高波动变化 $( 0 . 1 0 \sim 0 . 1 3 )$ 和高波动变化 $\left( 0 . 1 3 \sim 0 . 1 9 8 \right)$ 。可以看出研究区整体呈现出“西高东低，高低波动并存，较低波动居多，地域性差异明显"的空间分布特征(图5b)。空间格局表现为：较低波动变化区域最多，占比为 $4 3 . 6 9 \%$ ,连接成片分布于研究区的东北部和东南部；中等波动变化区域占 $2 7 . 9 8 \%$ ,围绕着较高波动区域，主要分布在西拉木伦河、老哈河、新开河以及教来河的两侧；高波动变化区域最少，占比为 $3 . 8 3 \%$ ,主要分布在巴林右旗中东部、奈曼旗及库伦旗南部，其植被覆盖类型主要为草地和农田(图5b)。进一步统计，各类变化中，草地、农田，裸地波动性增强占比在增加，森林波动性减弱占比在减少，灌丛波动性变化占比不明显。
+
+# 2.3植被覆盖变化对气候的响应
+
+在空间尺度上，采用偏相关分析方法对科尔沁沙地植被生长与气候变化之间的响应进行分析(图6,图7)，结果表明， $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 与降水、气温的偏相关系数 $r _ { { _ { x y , z } } }$ 分别为 $- 0 . 5 5 \sim 0 . 6 5 \ . - 0 . 4 8 \sim 0 . 5 0 \$ 0
+
+研究区 $\mathrm { \Delta N D V I _ { \mathrm { { m a x } } } }$ 与降水呈正相关的区域占研究区总面积的 $9 1 . 8 5 \%$ ,其中具有显著( $_ { ( P < 0 . 0 5 ) }$ 和极显著（ $\scriptstyle { \overrightarrow { P } } < 0 . 0 1 { \textrm { ) } }$ 正相关的区域占 $2 5 . 6 5 \%$ ，主要分布在“西拉木伦河一新开河"以北的地区; $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 与降水呈负相关的区域占 $8 . 1 5 \%$ ，主要分布在翁牛特旗东南部以及奈曼旗等地，其中具有显著和极显著负相关的区域仅占 $0 . 1 0 \%$ (图6）。
+
+![](images/4cf16b20d3b15419b72beade4353ed831b3b8f5a23df4801831e109f922d099d.jpg)  
+图41982—2015年科尔沁沙地NDVI变化趋势及显著性  
+图51982—2015年科尔沁沙地NDVI变化稳定性  
+Fig.5Stability changes ofNDVI in the Horqin SandyLand during1982-2015
+
+![](images/cbf444aa8c4cf901835122a07df272985f6542686c2298b51dba9591bab7a5cb.jpg)  
+图61982—2015年科尔沁沙地NDVI与降水偏相关系数(a)及其显著性(b)
+
+![](images/a9b3c06c4996b88e74c6bdfc0a8492f2b8189eea246945f3fb70039e7b81b3a4.jpg)  
+Fig. 6Partial correlation coeficient and significance between NDVI and annual average precipitation in Horqin Sandy Land during 1982-2015   
+图71982—2015年科尔沁沙地NDVI与气温偏相关系数(a)及其显著性(b) Fig.7Partial correlation coeficient and significance between NDVI and annual average temperature in Horqin Sandy Land during 1982-2015
+
+研究区 $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 与气温的相关性整体呈现出以“西拉木伦河一新开河为界线，北负南正"的特征，具有明显的地域性差异(图7)。NDVI与气温呈正相关的区域占 $5 6 . 3 6 \%$ ,具有显著和极显著正相关的区域占 $4 . 3 2 \%$ ，主要分布在西辽河与新开河流经的开鲁县、科尔沁区等地，该区域水资源丰富，受降水的影响小于气温; $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 与气温呈负相关的区域占 $4 3 . 6 4 \%$ ,大多分布在研究区北部,该地区蒸发量大，年均气温较高而降水较少，从而加速了地表的蒸散发过程。
+
+进一步将受温度影响和受降水影响主导的像元区分开，其中只受降水影响的像元约占 $2 4 . 5 0 \%$ ，只受气温影响的像元约占 $4 . 0 8 \%$ ，同时受气温和降水影响的像元仅占 $1 . 2 4 \%$ ,并且分布零散。
+
+# 2.4植被覆盖未来变化趋势
+
+科尔沁沙地植被 $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 的Hurst指数平均值为0.82，其中大于0.5的区域占 $9 8 . 1 1 \%$ ，说明科尔沁沙地植被变化的同向特征强于反向特征(图8a）。Hurst指数的高值区( $\scriptstyle { \overbrace { H > 0 . 6 5 } } )$ 主要分布在科尔沁沙地的南部和北部，说明该区域植被的未来变化趋势与过去变化趋势具有很强的一致性;Hurst指数的中值区（ $0 . 3 5 { < } H { \leqslant } 0 . 6 5 ,$ 主要分布在西拉木伦河与乌尔吉木伦河的两侧部分地区，其植被的未来变化趋势具有弱同向和弱反向特征。
+
+将 $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 变化趋势与Hurst指数进行叠加耦合分析，进一步揭示植被覆盖的未来变化趋势（图8b)。整体上看，科尔沁沙地以“西拉木伦河一新开河”为界，北部主要呈持续退化趋势，南部呈持续改善趋势。持续退化、持续改善、由改善到退化及由退化到改善的区域分别占 $6 1 . 4 8 \% . 3 7 . 0 3 \% . 0 . 3 0 \%$ 及$1 . 1 9 \%$ 。结合图3b可知，科尔沁沙地的南部区域其土地覆盖类型以农田和人工种植业为主，而北部多为草地和林地。
+
+![](images/0941b5f3751e662413c2cae8e349b8b3c379dea08e3778a5228edecbd3733e9f.jpg)  
+图8科尔沁沙地NDVI未来趋势  
+Fig.8Future trend of NDVI in the Horqin Sandy Land
+
+# 3结论
+
+（1）1982—2015年科尔沁沙地植被覆盖变化总体上呈缓慢增加趋势，每10a增速为 $0 . 2 3 \%$ ,表明科尔沁沙地植被生长发展状况较好。植被覆盖变化整体上可分为“三升"（1982—1999年、2000—2004年、2008—2012年）和“三降”（1999—2000年、2004—2007年、2012—2015年），其中最大值出现在1999年，最小值出现在2009年。
+
+(2）科尔沁沙地植被覆盖格局呈现出“南北高，中间低”的空间分布特征，其中低值区占 $6 . 9 1 \%$ ，该区域主要为荒漠草地和裸地;Hurst指数分析表明科尔沁沙地植被变化的同向特征强于反向特征。以“西拉木伦河一新开河"为界，北部地区植被持续退化，南部地区持续改善，且持续退化和持续改善区域分别占 $6 1 . 4 8 \%$ 和 $3 7 . 0 3 \%$ 。
+
+(3）科尔沁沙地植被变异系数介于 $0 . 0 1 9 \sim$ 0.198之间，整体呈现出“西高东低，高低波动并存，较低波动居多，地域性差异明显"的特征。其中低波动变化区域主要分布在北部海拔较高地区( $5 . 5 2 \%$ ），其植被类型多为针叶林和落叶阔叶林;高波动变化区域最少 $( 3 . 8 3 \%$ ),该区域主要为草地和农田。
+
+(4） $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 与降水和气温的平均偏相关系数分别为0.23和0.03，表明降水对科尔沁沙地植被覆盖的影响强于气温。
+
+# 参考文献(References):
+
+[1] Zhou D J, Zhao X,Hu HF,et al. Long-term vegetation changes in the four mega-sandy lands in Inner Mongolia, China[J]. Landscape Ecology,2015,30(9):1613-1626. [2] 王静茹,马龙,刘廷玺.1951—2012年科尔沁沙地气温、降水变 化特征[J].干旱区研究,2016,33(1):49-58.[Wang Jingru,Ma Long,Liu Tingxi.Variation of temperature and precipitation in Horqin Sandy Land from 1951 to 2012[J].Arid Zone Research,   
+2016,33(1): 49-58.] [3] Li JY,Xu B, Yang X C,et al. Historical grassland desertification changes in the Horqin Sandy Land,Northern China (1985-2013) [J]. Scientific Reports,2017,7(1): 847-851. [4] 张勃,王东,王桂钢,等.西南地区近14a植被覆盖变化及其与 气候因子的关系[J].长江流域资源与环境,2015,24(6):956-   
+964.[Zhang Bo,Wang Dong,Wang Guigang,et al.Vegetation cover change over the Southwest China and its relationship to climatic factors[J]. Resources and Environment in the Yangtza Basin,   
+2015,24(6): 956-964.] [5] Wang H,Liu GH,Li Z S,et al.Driving force and changing trends of vegetation phenology in the Loess Plateau of China from 2000 to 2010[J]. Journal of Mountain Science,2016,13(5): 844-856. [6] Liu YL,Lei H M. Responses of natural vegetation dynamics to climate drivers in China from 1982 to 201l[J].Remote Sensing,   
+2015,7(8): 10243-10268. [7]QuB,Zhu WB,JiaSF,et al. Spatio-temporal changes in vegetation activity and its driving factors during the growing season in China from 1982 to 2011[J]. Remote Sensing,2015,7(10): 13729-13752.   
+[8]王娟,李宝林,余万里.近30年内蒙古自治区植被变化趋势及 影响因素分析[J].干旱区资源与环境,2012,26(2):132-138. [Wang Juan,Li Baolin,Yu Wanli.Analysis of vegetation trend and their causes during recent 3O years in Inner Mongolia Autonomous Region[J]. Journal of Arid Land Resources and Environment,2012,26(2): 132-138.]   
+[9]奚砚涛,徐勇,刘欣婷.2000-2013年江苏省不同植被类型 NDVI时空变化特征[J].水土保持研究,2016,23(1):86-91,2.[Xi Yantao,Xu Yong,Liu Xinting.Spatiotemporal change of diferent vegetation coverage in Jiangsu Province in the period from 200O to 2013[J].Research of Soil and Water Conservation,2016,23(1): 86-91,2.]   
+[10]Huang F,Wang P,Liu X N. Monitoring vegetation dynamic in Horqin Sandy Land from spot vegetation time series imagery[J]. Journal of Earth System Science,2008,37,915-920.   
+[11] 胡砚霞,黄进良,杜耘,等.2000～2015年丹江口库区植被覆盖 时空变化趋势及其成因分析[J].长江流域资源与环境,2018, 27(4): 862-872.[Hu Yanxia, Huang Jinliang,Du Yun, et al. Spatio-temporal trends of vegetation coverage and their causes in the Danjiangkou Reservoir Region during 2000 to 2015[J]. Resources and Environment in the Yangtza Basin,2018,27(4): 862-872.]   
+[12] 乌兰吐雅,哈斯础鲁,吉木色,等.内蒙古四大沙地植被 NDVI 变化及气候响应研究[J].安徽农业科学,2013,41(25):10457- 10459,1O466.[Wulan Tuya,Hasi Chulu,Jimuse,et al. Research of climate response and NDVI changes of vegetation of Four Sandy in Inner Mongolia[J].Journal of Anhui Agricultural Sciences, 2013,41(25): 10457-10459, 10466.]   
+[13] 段翰晨,王涛,薛娴,等.基于RS与GIS 的科尔沁沙地沙漠化时 空演变[J].中国沙漠,2013,33(2):470-477.[Duan Hanchen, Wang Tao,Xue Xian,et al. Spatial-temporal evolution of aeolian desertification in the Horqin Sandy Land based on RS and GIS[J]. Journal of Desert Research,2013,33(2): 470-477.]   
+[14]马龙,王静茹,刘廷玺,等.2000—2012年科尔沁沙地植被与气 候因子间的响应关系[J].农业机械学报,2016,47(4):162-172. [Ma Long,Wang Jingru,Liu Tingxi,et al.Response relationship between vegetation and climate factors in Horqin Sandy Land from 2000 to 2O12[J]. Transactions of the Chinese Society of Agricultural Machinery,2016,47(4): 162-172.]   
+[15] 王思如,雷慧闽,段利民,等.气候变化对科尔沁沙地蒸散发和 植被的影响[J].水利学报,2017,48(5):535-544,550.[Wang Siru,Lei Huimin,Duan Limin, et al. Simulated impacts of climate change on evapotranspiration and vegetation in Horqin Sandy Land [J]. Journal of Hydraulic Engineering,2017,48(5): 535-544, 550.]   
+[16] 魏丰良,刘廷玺,张圣微,等.科尔沁沙地植被覆盖变化及其与 气候因子的关系研究[J].水土保持研究,2012,19(3):254-258. [Wei Fengliang, Liu Tingxi, Zhang Shengwei, et al. Research for vegetation cover change of Horqin Sandy Land and its relationship with the climate factors[J].Research of Soil and Water Conservation,2012,19(3): 254-258.]   
+[17] 李生甬王晓卿 李彪 其干MnIS数摒的科尔沁区植被覆盖
+
+时空变化分析[J].长江科学院院报,2016,33(2):118-122,127. [Li Shengyong,Wang Xiaoqing,Li Biao.Spatio-temporal analysis of vegetation cover change based on MODIS data in Horqin District[J].Journal of Yangtze River Scientific Research Institute, 2016,33(2): 118-122, 127.]   
+[18] 王永芳,张继权,马齐云,等.21世纪初科尔沁沙地沙漠化对区 域气候变化的响应[J].农业工程学报,2016,32(增刊2):177- 185.[Wang Yongfang,Zhang Jiquan,Ma Qiyun,et al. Response of aeolian desertification to regional climate change in Horqin sandy land at beginning of 21st century[J]. Transactions of the Chiese Society of Agricultural Engineering,2016,32(Suppl.2): 177-185.]   
+[19]Ana M Maria U,Pérez-Goya Unai. Stochastic spatio-temporal models for analysing NDVI distribution of GIMMS NDVI3g images[J]. Remote Sensing,2017,9(1): 76.   
+[20]Scott JGoetz, Gregory JFiske,Andrew G Bunn.Using satellite time-series data sets to analyze fire disturbance and forest recovery across Canada[J]. Remote Sensing of Environment,2006,101 (3): 352-365.   
+[21] Zhang YL, Gao JG,LiuLS,et al.NDVI-based vegetationchanges and their responses to climate change from 1982 to 2011: A case study in the Koshi River Basin in the middle Himalayas[J]. Global and Planetary Change,2013,108:139-148.   
+[22] 吕洋,董国涛,杨胜天,等.雅鲁藏布江流域NDVI时空变化及 其与降水和高程的关系[J].资源科学,2014,36(3):603-611. [Lyu Yang,Dong Guotao,Yang Shengtian,et al. Spatio-temporal variation in NDVIin the Yarlung Zangbo River Basin and its relationship with precipitation and elevation[J]. Resources Science, 2014,36(3): 603-611.]   
+[23]Hou X Y,Li MJ,Gao M,et al. Spatial-temporal dynamics of NDVI and Chl-a concentration from 1998 to 2009 in the East coastal Zone of China: Integrating terrestrial and oceanic components[J]. Environmental Monitoring and Assessment,2013,185(1): 267-277.   
+[24] 刘宪锋,潘耀忠,朱秀芳,等.2000-2014年秦巴山区植被覆盖 时空变化特征及其归因[J].地理学报,2015,70(5):705-716. [Liu Xianfeng,Pan Yaozhong,Zhu Xiufang,et al. Spatiotemporal variation of vegetation coverage in Qinling-Daba Mountains in relation to environmental factors[J].Acta Geographica Sinica,2015, 70(5): 705-716.]   
+[25] 赵安周,张安兵,刘海新,等.退耕还林(草)工程实施前后黄土 高原植被覆盖时空变化分析[J].自然资源学报,2017,32(3): 449-460.[Zhao Anzhou, Zhang Anbing,Liu Haixin,et al. Spatiotemporal variation of vegetation coverage before and after implementation of Grain for Green Project in the LoessPlateau[J]. Journal of Natural Resources,2017,32(3): 449-460.]   
+[26] 穆少杰,李建龙,陈奕兆,等.2001-2010年内蒙古植被覆盖度 时空变化特征[J].地理学报,2012,67(9):1255-1268.[Mu Shaojie,Li Jianlong,Chen Yizhao,et al. Spatial differences of variations of vegetation coverage in Inner Mongolia during 2O01-2010 [J]. Acta Geographica Sinica,2012,67(9): 1255-1268.]   
+[27]LiuXF,ZhangJS,ZhuXF,etal.Spatiotemporalchanges inegetation coverage and its driving factors in the Three-River Headwa
+
+ters Region during 20OO-2011[J]. Acta Geographica Sinica,2014,
+
+24(2):288-302. [28]刘宪锋,朱秀芳,潘耀忠,等.1982—2012年中国植被覆盖时空 变化特征[J].生态学报,2015,35(16):5331-5342.[Liu Xianfeng,Zhu Xiufang,Pan Yaozhong,et al. Spatiotemporal changes in vegetation coverage in China during 1982-2012[J].Acta Ecologica Sinica,2015,35(16): 5331-534.] [29]Wang YF,ZhangJQ,Guo EL,et al.Estimation of variability characteristics of regional drought during 1964-2O13 in Horqin Sandy Land, China[J].Water,2016,8(11): 543. [30]赵明伟,王妮,施慧慧，等.2001—2015年间我国陆地植被覆盖 度时空变化及驱动力分析[J].干旱区地理,2019,42(2):324-   
+331.[Zhao Mingwei,Wang Ni, Shi Huihui,et al. Spatial-temporal variation and its driving forces of vegetation coverage in China from 2001 to 2015[J]. Arid Land Geography,2019,42(2): 324-331.]   
+[31]刘洋,李诚志,刘志辉,等.1982—2013年基于GIMMS-NDVI的 新疆植被覆盖时空变化[J].生态学报，2016,36(19):6198- 6208.[Liu Yang,Li Chengzhi,Liu Zhihui,et al.Assessment of spatio- temporal variations in vegetation cover in Xinjiang from 1982 to 2013 based on GIMMS-NDVI[J]. Acta Ecologica Sinica, 2016,36(19):6198-6208.]   
+[32]陈登魁,马超,王夏冰,等.1982—2015年可可西里NDVI变化 特征及其气候响应[J].干旱区研究,2018,35(6):1410-1417. [ChenDengkui,Ma Chao,Wang Xiabing,etal.Variationof NDVI and its response to climate change in Hoh Xil during the period of 1982-2015[J].Arid Zone Research,2018,35(6): 1410-1417.]
+
+# Spatiotemporal variation of vegetation in the Horqin Sandy Land and its response to climate change from 1982-2015
+
+CUI Zhenzhen'，MA Chao'²， CHEN Dengkui³
+
+(1.School of Surveying and Land Information Engineering,Henan Polytechnic University,Jiaozuo 454003,   
+Henan, China; 2.Key Laboratory of Spatio-temporal Information and Ecological Restoration of Mines (MNR), Henan Polytechnic University,Jiaozuo 454OO3,Henan, China; 3.Henan Kunlun Energy and Natural Gas Co. Ltd., Jiaozuo 45400o, Henan, China)
+
+Abstract: Based on the latest GIMMS NDVI3g.vl data, temperature and precipitation data from 1982 to 2015, combined with trend analysis,variation coeffcient，Hurst index and partial correlation analysis,this paper analyzes the spatiotemporal variation characteristics,trend characteristics,sustainability and future change trend of vegetation coverage in Horqin Sandy Land.The results show that: (1) the vegetation coverage of Horqin Sandy Land revealed a slow increasing trend during 1982-2015 (linear tendency $0 . 2 3 \%$ per 10 year). The change of vegetation coverage can be divided into“three ascendings”(1982-1999,2000-2004,2008-2012)and“three descendings”(1999-2000,2004-2007,2012-2015)on the whole,of which the maximum occurs in 1999 and the minimum in 2O09.(2)In terms of spatial distribution characteristic,the vegetation coverage of Horqin Sandy Land showed a“high in the north and south and low in the middle”pattern.The low value areas accounted for $6 . 9 1 \%$ ,which were concentrated in the east of Ongniud Banner and the Northwest of Naiman Banner,and these areas were mainly desert grassland and bare land.(3） Taking the“Xar Moron River-Xinkai River”as the boundary,the vegetation in the northern area is continuously degraded,while the southernarea is continuously improved. The areas of significant improvement accounted for $3 3 . 0 5 \%$ ，which were mainly distributed in the south of“Xar Moron River-Xinkai River".(4) Hurst index analysis showed that the same characteristics of vegetation coverage change were stronger than the reverse characteristics in the Horqin Sandy Land.The areas of continuous degradation and continuous improvement accounted for $6 1 . 4 8 \%$ and $3 7 . 0 3 \%$ ，respectively.(5） The average partial correlation coefficients between $\mathrm { \Delta N D V I _ { \mathrm { { m a x } } } }$ and precipitation and temperature were 0.23 and 0.03, respectively, indicating that the influence of precipitation on vegetation coverage was stronger than temperature. NDVI was positively correlated with precipitation, which accounted for $91 . 8 5 \%$ of the total area.
+
+Keywords: Horqin Sandy Land; NDVI3g.vl;spatio-temporal variation;climate response; Hurst index； partial correlation analysis

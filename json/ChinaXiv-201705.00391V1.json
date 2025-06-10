@@ -1,0 +1,436 @@
+[
+    {
+        "type": "text",
+        "text": "Tough and Fatigue Resistant Biomimetic Hydrogels of Interlaced Self-Assembled Conjugated Polymer Belts with a Polyelectrolyte Network ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gaolai Du, Guorong Gao,Ruixia Hou, Yajun Cheng, Tao Chen, and Jun Fu\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PolymersandComposites Division,Ningbo InstituteofMaterialsTechnologyandEngineering,ChineseAcademyofSciences Zhongguan West Road 1219, Zhenhai District, Ningbo,315201,People's Republic of China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bin Fei ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "nstitute ofTexiles&ClothingHongKongPoltechnicUiversity,Hunghom,Kowloon,ongKong,eople'sepublicfina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Supertough biomimetic hydrogels have been fabricated through in situ synthesis and guided assembling of positively charged conjugated polymer belts by using a parent poly(2-acrylamido-2-methylpropanesulfonic acid)/poly(acrylamide) double network (PAMPS/PAAm DN) gel template. The interpenetrating structures of the poly(3,4-ethylenedioxythiophene) (PEDOT) belt mesh and PAMPS/PAAm host network have been confirmed by SEM, CLSM, and Raman spectroscopy. The presence of PEDOT belts improves the Young's modulus, compressive strength， and toughness of the biomimetic (BM) hydrogels，in comparison to the parent DN gels. Cyclic tensile ( $3 0 0 \\%$ strain） and compressive (even $90 \\%$ strain) loadings demonstrate extraordinary fatigue resistance of these BM gels. Upon ten cycles, the compressive toughness remained about $1 0 0 0 { \\mathrm { J ~ m } } ^ { - 2 } ; $ which is comparable to that of articular cartilage.The internal fracture behavior and fatigue resistance of these biomimetic interpenetrating hydrogels are further investigated. These extremely tough and fatigue resistant BM hydrogels may find applications as promising substitutes for load-bearing tissues. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf7f017e2bf4178c82df4b28bafeb42779e74cd47ee4ecc43eea84c6faefd310.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Strong and tough polymer hydrogels have been pursued for decades as candidate materials for tissue replacement and/or repair due to their structural,mechanical, and biochemical similarities to biotissues.1-4 However, it remains a challenge for natural or synthetic polymer hydrogels to ideally meet the demand in properties and functionalities from natural tissues. For load-bearing biotissues,the well-organized structures have animportant role in their high strength，toughness,fatigue resistance，ductility，and/or lubricity，etc.5For example, articular cartilage sustains daily cyclic loading of about $4 \\mathrm { M P a }$ as well as mechanical friction.The extracellular matrix (ECM) is composed of a well-organized collagen fibril network and an interlacing proteoglycan mesh. The proteoglycans are composed of a long backbone of hyaluronan noncovalently bonded with brushlike aggrecan molecules (e.g., chondroitin sulfate and keratan sulfate） through link proteins,making supramolecular polyelectrolytes with an overall molecular weight of $5 0 { - } 1 0 0 \\times$ $\\mathrm { \\dot { 1 } 0 ^ { 6 } ~ D a } ^ { 6 }$ The negative charges of aggrecans are critical for fluid uptake and immobilization in the ECM. The swelling is balanced against the elastic restraint from the collagen network. Such strong immobilization of fluids in the collagen matrix enables fluid pressurization upon compressive loading, which is a major mechanism for cartilage to withstand repeated compression over several decades. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Current strategies to create strong and tough hydrogels are largely based on sacrificial bonds that break upon crack propagation to disipate energy.7 Either covalent78 or noncovalent bonding9-1ihas beenintroduced into hydrogelsas sacrificial moieties,leading to the fabrication of novel hydrogels with superior strength and toughness.For example,double network (DN） hydrogels，pioneered by Gong and Osada, containa rigid sacrificial network interpenetrated with an elastic and loosesecond network78,12Such DN gelsshow high strength and toughness but are immediately softened due to permanent damage of covalent bonds under loading.Recently, such a double network concept has been advanced by introducing noncovalent or dynamic interactions including electrostatc bonding15orsupramolecularassmbling10,15,16assacrificial moieties to hydrogels，which are proposed to break upon loading to avoid permanent damage of covalent bonds.As a result，novel hydrogels with extraordinary strength and toughness have been reported. The broken noncovalent bonds could be recovered under appropriately controlled $\\mathrm { p H } ^ { 1 3 }$ or elevated temperatures,10 leading to therecovery of hydrogel properties after a certain waiting time.9-1 However, the inherent unstable nature of dynamic association inevitably leads to weak mechanical strength after the internal fracture.8,95Iadditionmostofthedamicbos ecay under cyclic loading. Thus，as the noncovalent bonds are temporarily damaged, the remaining network of the DN gels appears very weak. Their recovery usually takes hours to days between cyclic tests11 and requires properly controlled external stimulus,which is usually not practical for biotissue substitutes. Therefore,it is desirable to develop hydrogels with adequate strength, toughness,and fatigue resistance to withstand cyclic loading. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Numerous efforts have developed biomimetic self-assembled nanofibrils and their 3D gels that favorably_support cell adhesion,proiferaionandderentiaion17,tthe mechanical strength is far below that of load-bearing tissues. It is difficult to further toughen such nanofibrils gels by interpenetratinga second polyelectrolyte network.In this work, a novel strategy is designed and demonstrated to fabricate biomimetic hydrogels composed of a rigid belt network interpenetrated with an elastic polyelectrolyte network. The rigid belt network is proposed to mimic the collagen matrix, which serves as a skeleton for the interlacing elastic polyelectrolyte network. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,we develop a reverse strategy to prepare the polyelectrolyte network first,which is subsequently employed as the template to prepare the interpenetrating rigid belt mesh. For this purpose，a well-established double network (DN) hydrogel with negatively charged polyelectrolytes8,19,20 is used as the template for in situ polymerization of a self-assembling conjugated polymer.It is critical that the conjugated polymer is positively charged so that the self-assembling conjugated polymer chains are confined and guided to form long belts within interconnecting channels of the DN gel template.On the other hand,similar to the proteoglycans in the collagen matrix， the negatively charged polymers in the DN gel, particularly after fracturing， provide strong osmotic pressure that favors fluid uptake.Meanwhile，the rigid conjugated polymer belt skeleton providesstrong restraint to the interlacing (fractured） polyelectrolyte network.As a result, the hydrogels exhibit extraordinary compressive strength, toughness,and fatigue resistance against cyclic loadings. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.EXPERIMENTALSECTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials.2-Acrylamido-2-methylpropanesulfonic acid (AMPS, $9 8 \\%$ ）was purchased from A Johnson Matthey Company. $\\mathbf { \\Lambda } _ { N , N ^ { \\prime } }$ methylenebis(acrylamide）（MBAA, $9 9 . 0 \\%$ )，potassium persulfate (KPS,A.R.）and acrylamide(AAm,A.R.）were supplied by Aladdin Chemistry Co, Ltd. $^ { 3 , 4 }$ -Ethylenedioxythiophene(EDOT, $9 9 \\%$ )，ferric nitrate $\\big ( \\mathrm { F e } ( \\mathrm { N O } _ { 3 } ) _ { 3 } { \\cdot } 9 \\mathrm { H } _ { 2 } \\mathrm { O } ,$ A.R）and ethanol(EtOH,A.R.）were bought from Sinopharm Chemical Reagent Co.Ltd.Poly(sodium 4- styrenesulfonate）(NaPSS, $M _ { \\mathrm { w } } = 7 0 { , } 0 0 \\dot { 0 } \\mathrm { ^ { \\circ } }$ ）were obtained from Acros Organics.FITC-Phalloidin $( 9 0 \\% )$ were purchased from Sigma-Aldrich. All the chemicals were used as received. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experiment.DN Gel Synthesis.The parent double network hydrogels were synthesized through sequential free-radical polymerization as reported before.21 Briefly,an aqueous solution of 1 MAMPS monomer containing $4 \\mathrm { m o l } \\%$ cross-linking agent MBAA and $0 . 1 \\mathrm { m o l }$ $\\%$ initiator KPS with respect to AMPS was bubbled and injected into a mold composed of a pair of glass plates with a $1 . 2 ~ \\mathrm { m m }$ thick silicon rubber spacer.The mold was heated at $6 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 1 0 \\mathrm { h } }$ to form the first PAMPS network. Subsequently, the PAMPS hydrogel was immersed in the aqueous solution of $3 \\textbf { M }$ AAm monomer,containing $0 . 0 1 \\%$ MBAA and $0 . 0 1 \\%$ KPS to AAm, for $2 4 \\mathrm { ~ h ~ }$ TheAAm-swollen PAMPS gel was polymerizedat $6 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 \\mathrm { { h } } .$ .TheDN gel was then immersed ina large amount of deionized water for 1 week to remove residual monomers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PreparationoftheEDOT/NaPSSEmulsions.TheEDOT/NaPSS emulsion was prepared by quickly adding the EDOT solution in ethanol (volume ratio $= 1 { : } 1 0$ )into a 0.05 MNaPSS aqueous solution under vigorous stirring at ambient temperature.Herein, the EDOT concentration was varied from 0.03,0.059,0.078,0.094, 0.111 to 0.135 M while the NaPSS concentration was constant in the emulsions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synthesisof PEDOT/PAMPS/PAAm BM Hydrogel.The parentDN hydrogels were first swollen in the EDOT/NaPSS emulsion under constant stirring for $2 4 \\mathrm { h }$ to ensure the absorption of emulsions.Then, the EDOT/NaPSS emulsion-swollen DN gels were immersed in an excess amount of 1.78 M $\\mathrm { F e } ( \\mathrm { N O } _ { 3 } ) _ { 3 }$ solutions at $2 5 ~ ^ { \\circ } \\mathrm { C }$ to redox polymerize the EDOT,leading to the formationof a black hydrogel in $3 0 \\mathrm { m i n }$ .Finally,the resulted gels were immersed in distilled water for 1 week,with the water being changed every $2 4 \\mathrm { ~ h ~ }$ to remove the free substances. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Characterization.Raman Spectroscopy.The hydrogels as well as the PEDOT belt particles were freeze-dried and compressed into smooth sheets for scanning by using a Renishaw inVia Reflex microspectrometer with an excitation wavelength of $5 3 2 ~ \\mathrm { { \\ n m } }$ in dynamic mode from O to $3 2 0 0 ~ \\mathrm { { c m } ^ { - 1 } }$ at a resolution of $1 ~ { \\mathrm { c m } } ^ { - 1 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Scanning Electron Microscopy. The freeze-dried aerogels were plunged into liquid nitrogen and ruptured. The fresh cross sections were sputter coated with a thin layer of platinum for scanning with a Hitachi S48o0 scanning electron microscope(Tokyo,Japan） at $1 5 \\mathrm { k V }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Confocal Laser Scanning Microscopy.The as-synthesized BM and DN gels were cut into $2 0 \\times 1 0 ~ \\mathrm { m m } ^ { 2 }$ sheets,rinsed with PBS buffer solution for three times,and stained with $4 0 ~ \\mu \\mathrm { L }$ of phalloidin (FITCPhalloidin, $\\mathsf { \\Omega } _ { \\mathsf { S } \\mu \\mathrm { g } / \\mathrm { m L } }$ ）forhalf an hour,followed by PBS rinse for three times.The sampleswere carefully protected fromlight throughout the whole staining process. Then the stained hydrogels were imaged by usinga confocal laser scanning microscope (CLSM,Leica TCS SP5, Germany) with an exciting wavelength of $4 8 8 ~ \\mathrm { n m }$ in the single tunnel mode. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tensile Tests.The BM and DN gels were cut into dumbbell-shaped specimens according to ASTM D638 (overall length: $6 4 \\mathrm { m m } ,$ width: 6 mm， gauge width: $1 . 6 9 \\ \\mathrm { m m } ,$ gauge length: $2 5 . 4 ~ \\mathrm { m m }$ ，thickness: $_ { 4 - 6 }$ mm） for uniaxial tensile tests at a crosshead speed of $1 0 0 \\ \\mathrm { m m \\ m i n ^ { - 1 } }$ with an Instron S567 machine (Instron Corporation，MA).Cyclic tensile tests with a maximum strain of $30 0 \\%$ were recorded on the specimens at the same crosshead speed.The nominal tensile stress was calculated as ${ \\sigma } _ { \\mathrm { t } } = L o a d / t { \\cdot } w$ (t and $w$ represent the initial thickness and inner width of the dumbbell samples,respectively).The tensile strain $\\left( \\varepsilon _ { \\mathrm { t } } \\right)$ is defined as the change in the elongation length relative to the initial gauge length while the fracture tensile strain $\\left( \\varepsilon _ { \\mathrm { t , b } } \\right)$ and stress $( \\sigma _ { \\mathrm { t , b } } )$ are the corresponding values of the point at which the sample breaks.Three samples were tested for each hydrogel. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Compression Tests.Cylindrical specimens ( $\\mathrm { i } \\mathrm { - } 6 \\mathrm { m m }$ height and 9 mm diameter) equilibrated in distilled water were compression tested at $1 0 \\%$ strain/min with the Instron SS67 machine to predetermined maximum strains.Moreover， cyclic loadings with a progressive strain increment of $1 5 \\%$ from $3 0 \\%$ to $9 0 \\%$ were conducted at a constant crosshead speed of $1 0 \\% / \\mathrm { m i n }$ in a consecutive mode without intervals to reveal the hysteresis feature of the hydrogels.Specimens were first compressed to $3 0 \\%$ strain and then immediately unloaded with no intermission.Then，consecutive loading-unloading cycles with a progressive gradient strain increment of $1 5 \\%$ were conducted to the same sample until the maximum $9 0 \\%$ strain.To further study their hysteresis behavior，hydrogel specimens were loaded to series of predefined maximum strain for multiple successive cycles( $_ { ( 4 - 1 0 }$ cycles).The predefined maximum strains were $3 0 \\%$ P $45 \\%$ $6 0 \\%$ ， $7 5 \\%$ and $90 \\%$ .All hydrogel samples were blotted witha filter paper before testing,and three specimens per hydrogel were tested. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/31ec2031d56d3e8f5f6b57c2daa21a68344b9b0c0207587425d2e757fa0f1de4.jpg",
+        "img_caption": [
+            "Scheme1.Schematic Ilustrationofthe SynthesisofBiomimetic Hydrogels with Self-Assembled PEDOTBeltsthrough in Situ Polymerization in the Double Network Matrixa ",
+            "ä(a)A parent PAMPS double network hydrogel is used to host the emulsion of $^ { 3 , 4 }$ -ethylenedioxythiophene (EDOT),which is redox polymerized withintheDNgelanels,eadingtotefoationofntangledEDOeltetwork().UponloaingteMetworkfacturesinto fragmentslinkedythuralongPAAmcseldingpolelectrolytentwrkinterlacigithteidDOTbeltsh(c).TeOT belts are composed of self-assemblies of PEDOT chains through $\\pi { - } \\pi$ stacking (d). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The engineering compressive stress $\\left( \\sigma _ { c } \\right)$ was calculated as $\\sigma _ { \\mathrm { c } } = $ $L o a d / \\pi R ^ { 2 } ;$ where $R$ is the original radius of the cylindrical specimen. The engineering strain $( \\varepsilon _ { c } )$ under compression is defined as the change in height $( h )$ relative to the original height $\\left( h _ { 0 } \\right)$ of the freestanding specimen, $\\varepsilon _ { c } = 1 0 0 \\% \\times ( h _ { 0 } \\breve { - } h ) / h _ { 0 } .$ Stress and strain between $\\varepsilon _ { \\mathrm { c } } ~ = ~ 0$ and O.1 were used to calculate the initial elastic modulus.The compressive toughness $( U _ { \\mathrm { C T } } )$ is defined as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { \\mathrm { { C T } } } = \\frac { \\int _ { 0 } ^ { 0 . 9 8 } F ~ \\mathrm { d } s } { \\pi R ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $F$ is the compressive load and $s$ is the compressive displacement to the corresponding strain. The hysteresis energy $( U _ { \\mathrm { h y s t } } )$ is defined as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { \\mathrm { h y s t } } = \\frac { \\int _ { 0 } ^ { S _ { \\mathrm { l o a d i n g } } } F \\mathrm { ~ d } s - \\int _ { 0 } ^ { S _ { \\mathrm { u n l o a d i n g } } } F \\mathrm { ~ d } s } { \\pi R ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $F$ is the compressive load and $s$ is the compressive displacement to the corresponding strain. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Swelling Measurements. Cylindrical specimens were precompressed along their axis to a maximum $6 0 \\%$ strain at $1 0 \\%$ strain per min for $0 , 1 ,$ or2cycles.Then the samples were vacuum-dried at 60 $^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ .The dried gels were immersed in DI water at ambient temperature to reach equilibrium. The swelling ratio (SR）was calculated as, $S R = \\left( W _ { \\mathrm { s } } - \\boldsymbol { \\tilde { W } } _ { \\mathrm { d } } \\right) \\times 1 0 0 \\% / W _ { \\mathrm { d } } ,$ where $W _ { s }$ and $W _ { \\mathrm { d } }$ denote the weights of the swollen hydrogels and the corresponding dried hydrogels, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Preparation of the BM Hydrogel. To create the biomimetic hydrogel,a parent PAMPS/PAAm DN hydrogel was first synthesized through a sequential free radical polymerization of aqueoussolution of AMPS，KPS，and MBAA,followed by polymerization of AAm in the obtained PAMPS network.8,21 The DN hydrogel was then immersed in an emulsion of $^ { 3 , 4 }$ -ethylenedioxythiophene (EDOT) in ethanol in the presence of sodium polystyrenesulfonate (NaPSS) under stirring.After $2 4 \\mathrm { h } ,$ ,the emulsion was thoroughly dispersed into the DN gel (Scheme la). Subsequent redox polymerization of EDOT was initiated by the addition of $\\mathrm { F e } ^ { 3 + }$ into the emulsion (Scheme 1b),leading to the formation of conjugated poly(3,4- ethylenedioxythiophene）(PEDOT）within the DN hydrogel. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The in situ formation of PEDOT inside the hydrogel led to a volume shrinkage,with the water content decreasing from 90.9 $\\pm \\ 0 . 9 \\%$ (DN）to $8 8 ~ \\pm ~ 0 . 4 \\%$ $\\left( \\mathrm { B M } \\mathrm { - } 1 1 1 \\ \\mathrm { \\ m M } \\right)$ .Usually，the conjugated PEDOT chains self-assemble into lamellae via $\\pi { - } \\pi$ stacking (Scheme 1d).2² These self-assembled lamellae from PEDOT-NaPSS solutions are irregular (Figure la) and carry positive charges due to the redox polymerization and doping. In contrast,with the presence of DN gel, the electrostatic interactions between the negatively charged PAMPS chains and the PEDOT chains (Scheme ic） may regulate the selfassembling of PEDOT chains along the interconnecting channels inside the porous PAMPS/PAAm network,leading to the formation of PEDOT belts (Scheme 1b).It is evident that millimeter long PEDOT belts were obtained on top of the PAMPS/PAAm DN gel (Figure 1b). In order to reveal the formation and distribution of the PEDOT belts inside the DN gel，the PEDOT/PAMPS/PAAm hydrogel was stained with FITC-phalloidin that selectively stains the PEDOT chains (Supporting Information (SI)，Figure Sla） rather than the PAMPS/PAAm network (Supporting Information，Figure S1b),for observation with a confocal laser scanning microscope (CLSM). Entangling green PEDOT belts at a millimeter length scaleare evidently recognized to be interpenetrating throughout the host PAMPS/PAAm network (Figure lc).We have further freeze-fractured such hydrogels and observed extensive adhesion of the porous PAMPS/PAAm networks (SI Figure S2a)onto the surface of PEDOT belts (Figure 1d, SI Figure S2b).There are dense adsorbed layers within about S0-100 $\\mu \\mathrm { m }$ from the PEDOT belt surface.The pore size is much smaller than those in bulk and gradually increases toward the bulk. Such gradient structures may enable synergistic transfer of load and energy between the PAMPS/PAAm network and the PEDOT belt network under loading. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb4148d98d4b364998857d6ccff9fe4019294ebd2d5ac8699afd32922ad8869c.jpg",
+        "img_caption": [
+            "Figure 1.SEM images of PEDOT lamellae (a）and belts (b) synthesized without and with the presence of double network hydrogels.(c) CLSM image of a PEDOT network in situ synthesized within the double network hydrogel, where the PEDOT belts were selectively stained with FITC-phalloidin (green).(d) SEM image of the cross section of the freeze fractured PEDOT/PAMPS/PAAm hydrogel. The EDOT feeding concentration was $1 1 1 \\ \\mathrm { \\ m M }$ for all samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Raman Spectra. Raman spectroscopy was used to investigate the synthesis of PEDOT belts and BM gels.From the Raman spectrum of the double network gel (black line, Figure 2),the band intensities are very weak compared with specimens containing PEDOT.The band at $4 7 \\dot { 6 } ~ \\mathrm { c m } ^ { - 1 }$ is assigned to the $S \\mathrm { O } _ { 2 }$ bending24 of the PAMPS network while the broadbands at1327and $\\mathsf { \\bar { 1 4 5 7 } c m ^ { - 1 } }$ arerelated to the $\\mathrm { C - N }$ stretching and $\\mathrm { N H } _ { 2 }$ bending of the PAAm.25 As for the BM samples，characteristic bands of PEDOT are evidently recognized according to the spectrum of pure PEDOT belts (red line,Figure2),while the band intensities of PEDOT in the BM gel are largely enhanced (blue line,Figure 2). Specifically, the split bands at l436 and $1 4 5 6 ~ \\mathrm { { c m } ^ { - 1 } }$ correspond to the symmetric stretching mode of the aromatic $\\mathrm { C } _ { \\alpha } = \\mathrm { C } _ { \\beta } ,$ and the asymmetric Cα = Cβ stretching band is located at 1570 cm-1.26 Bands at 1523 and $1 2 5 3 ~ \\mathrm { c m ^ { - 1 } }$ are related to the antisymmetric $\\displaystyle \\mathrm { C } _ { \\beta } \\mathrm { - } \\mathrm { C } _ { \\beta }$ stretching deformation and antisymmetric $\\displaystyle \\mathrm { C } _ { \\alpha } \\mathrm { - } \\mathrm { C } _ { \\alpha }$ stretching deformation.27 The bands at 1368 and $1 3 1 2 ~ \\mathrm { c m } ^ { - 1 }$ represent the antisymmetric Cα-Ca stretching deformation.28 Those bands at 990 and $5 7 6 ~ \\mathrm { { \\ c m } ^ { - 1 } }$ may be ascribed to oxyethylene ring deformation,26 while the other two bands at 702 and $4 3 9 ~ \\mathrm { { c m } ^ { - 1 } }$ may be assigned to the symmetric $\\scriptstyle { \\mathrm { C - S - C } }$ deformation and SO, bending. 24 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/88b760799f5dfa7185723a998dbc778e146b82ff28dd5624ecbb0498913ae615.jpg",
+        "img_caption": [
+            "Figure 2.Raman spectrum of the double network gels,PEDOT belts, and BM gels (from the bottom to the top).The EDOT feeding concentration was $1 1 1 \\ \\mathrm { m M }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tensile Property of the BM Hydrogel. We have systematically performed tensile and compression tests on the hydrogels with different EDOT concentrations.Here, for the synthesis of parent DN gels,the contents of initiator KPS and cross-linking agent MBAA were about $0 . 0 1 \\mathrm { ~ m o l ~ } \\%$ of AAm monomer so that the chains are sparsely cross-linked according to the literature.29 Upon uniaxial tensile tests, it is important that necking, yielding,and strain hardening are observed on the stress-strain curves for the BM and DN gels.The BM gels showed higher Young's moduli $\\left( E _ { \\mathrm { t } } \\right)$ than those for DN gels. The fracture strain was reduced from ${ \\sim } 1 0 0 0 \\%$ for DN gels to $\\sim 6 0 0 \\%$ and ${ \\sim } 4 0 0 \\%$ for BM gels with increasing PEDOT content (Figure 3a),while the fracture stress remained almost constant $( \\sim 7 0 0 ~ \\mathrm { k P a } )$ .The outstanding ductility of DN gels roots from the high elasticity of the PAAm chains after the fracture of the rigid PAMPS skeleton.In the BM gels，in contrast, the PAMPS/PAAm network was adhered onto the rigid PEDOT belt mesh (Figure 1d),which strongly restrained the fractured PAMPS/PAAm network and dominated the tensile deformation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cyclic uniaxial tensile tests were further performed to examine the energy dissipation of the PEDOT/PAMPS/ PAAm (BM) gels. The hysteresis loop of BM gels at the first cycle at a maximum strain of $30 \\text{‰}$ (Figure 3b) is much larger than those for the DN gel (Figure 3c).However, subsequent loading and unloading curves overlapped for both BM and DN gels,indicating no energy dissipation after the damage of the PAMPS network. There are no additional sacrificial bonds to dissipate energy upon cyclic loadings. The BM gels with internal fracture appear rubbery with increased modulus and immediate full recovery to its initial shape.The latter indicates the excellent elasticity of the PEDOT belt network skeleton that defines the recovery property of the BM hydrogel although the PAMPS network has fractured. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e134255a407e66349078b67176413bcb5f05f0a3a000d887d64fb1c9e8395774.jpg",
+        "img_caption": [
+            "Figure3.(a)Representativeuniaxialtesilestress-straincurvesofAMS/PAmDNndEDOT/PAMP/PAABMhydrogelsRepretative cyclictensile tressstraincurvesof(b)EDOT/PAMS/PAAmbomietic(BM)hydrogelsand(c)theparentdoublenetwork (D)ydrogels at a maximum strain of $300 \\%$ .The EDOT feeding concentrations were $7 8 ~ \\mathrm { m M }$ and $1 3 5 ~ \\mathrm { m M }$ in (a)and $1 3 5 ~ \\mathrm { m M }$ in (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3244c8bf1a65c0eada2541c350078356eb99f63c78da62294c0fdc7d18aa2a9.jpg",
+        "img_caption": [
+            "Figure4.(a)RepreentatiecompresiveladinnlodingcuesofndBwithdferentforulatios.(）Tefectofding concentration on the compressive stress at $9 8 \\%$ strain $( \\sigma _ { 0 . 9 8 } )$ and Young's modulus. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9164d288e102de4994d0221f340dd382fcd5ddb0a4e428b65efffe73343b9590.jpg",
+        "table_caption": [
+            "Table 1.Compressive Properties of the Hydrogels Prepared with Different Formulations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td> sample code</td><td>EDOT feed conc (mol/L)</td><td>Young's modulus (kPa)</td><td>0.95 (MPa)</td><td>0.98 (MPa)</td><td>compressive tougness (J m-2)</td></tr><tr><td>DN gel</td><td>0</td><td>114 ± 37</td><td>15.8 ± 0.87</td><td>48.6 ± 5.50</td><td>9655 ± 1192</td></tr><tr><td>BMI</td><td>0.030</td><td>161 ± 18</td><td>40.1 ± 1.75</td><td>81.6 ± 0.93</td><td>16836 ± 370</td></tr><tr><td>BM II</td><td>0.059</td><td>162 ± 23</td><td>42.3 ± 3.09</td><td>80.5 ± 0.22</td><td>17980 ± 868</td></tr><tr><td>BM III</td><td>0.078</td><td>306±8</td><td>25.3 ± 0.15</td><td>57.6 ± 3.79</td><td>11211 ± 585</td></tr><tr><td>BM IV</td><td>0.094</td><td>292 ± 37</td><td>26.7 ± 0.75</td><td>59.8 ± 2.85</td><td>12352 ± 423</td></tr><tr><td>BMV</td><td>0.111</td><td>313 ± 11</td><td>32.7 ± 0.50</td><td>71.3 ± 1.64</td><td>12986 ± 573</td></tr><tr><td>BMVI</td><td>0.135</td><td>335± 21</td><td>35.3 ± 0.45</td><td>76.1 ± 2.22</td><td>14559 ± 1042</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fbaa6f5ce9cdc5d958b11c7c4d49007dc07320c92860e5c96f6e22df9ffe180.jpg",
+        "img_caption": [
+            "Figure 5.(a,b） Typical consecutive loading-unloading curves with gradient increases in maximum strainon DN(a)and $\\mathrm { B M } \\mathrm { - } 1 1 1 \\ \\mathrm { m M }$ (V) (b) hydrogels. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compressive Properties of the BM Hydrogel.Unconfined compression tests demonstrated superior strength and toughness of BM gels beyond those for the parent DN gels. No fractures were observed up to a compressive strain $\\left( \\varepsilon _ { \\mathrm { c } } \\right)$ of $9 8 \\%$ and a stress $( \\sigma _ { 0 . 9 8 } )$ up to above $8 0 ~ \\mathrm { M P a }$ ，in contrast to the fracture strain $\\left( \\varepsilon _ { \\mathrm { f } } \\right)$ of $9 7 \\%$ and stress $\\left( \\sigma _ { \\mathrm { f } } \\right)$ of $3 7 ~ \\mathrm { M P a }$ for the ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) (b) 非F   \ne/ssssscon 108 BM T BN gel BM,4 cycle 3000 6 4 BM,3cycle 2500 2 DN 2000 。 88 89 90 BM,1My2 cycle 1000 1 DN,2d loading 500 DN,1\" loading 1 unloading 0 ? ? ? 0 1020\"60 70 80 90 1 2 3 4 Compressive strain/% Compressive cycle   \neer/sssss enisssidter 8 1.2 =30% y= 0.836e0.0789x BM gel D ε=45% R²= 0.995 6 0.8 ε=60% 900 V ε=90% 700 4 0.4 DN gel 500 y= 0.4193e0.0595x 2 0.0 1 300 R²=0.9753 0 20 40 60 80 O 100 ? 日 0 G 中 -100 0 20 40 60 80 20 30 40 50 60 70 80 9010 Compressive strain/% Compressive strain/% ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "parent DN gels (Figure 4a).With increasing EDOT feed concentration, the $\\sigma _ { 0 . 9 8 }$ value was increased to above $7 0 \\ \\mathrm { M P a } ,$ and the Young's modulus $\\left( E _ { \\mathrm { c } } \\right)$ was almost monotonically increased from $1 1 4 \\ \\mathrm { k P a }$ for DN gel to $3 3 5 ~ \\mathrm { k P a }$ for BM gel (Figure 4b). The $\\sigma _ { 0 . 9 8 }$ values are much higher than the fracture stress of cartilage,while the Young's moduli are similar to that of articular cartilage $\\left( 3 1 0 { - } 8 5 0 ~ \\mathrm { ~ k P a } \\right)$ .30 Moreover，the compressive toughness of the BM gels at $9 8 \\%$ strain was ranging from $1 1 \\bar { 2 } 1 1 \\pm 5 8 5 \\mathrm { ~ J ~ m } ^ { - 2 }$ to $1 7 9 8 0 ~ \\pm ~ 8 6 8 ~ \\mathrm { J } ~ \\mathrm { m } ^ { - 2 } ,$ depending on the EDOT feed concentration,which is higher than $9 6 5 \\bar { 5 } \\pm 1 1 9 2 \\mathrm { ~ J ~ m } ^ { - 2 }$ for DN gel (Table 1.). These values are more than ten times the fracture toughness of cartilage $\\left( \\sim 1 0 0 0 \\mathrm { J } \\ \\mathrm { m } ^ { - 2 } \\right)$ .31 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fatigue Resistance of the BM-111 mM (V) Hydrogel. We first investigated the recovery or fatigue resistant behavior of the BM gels, in comparison to that of the parent DN gel, by consecutive loading-unloading tests with gradually increasing compressive strain from $3 0 \\%$ to $45 \\%$ ， $6 0 \\%$ ， $7 5 \\%$ ，and $90 \\%$ (Figure Sa and b). For the parent DN gels subject to loading, the PAMPS network experiences gradual internal damage upon cyclic loading-unloading curves with increasing maximum strain $\\left( \\varepsilon _ { \\mathrm { m } } \\right)$ . Asa result，the immediate consecutive loading curves with increasing strain overlap the previous unloading curves (Figure Sa and SI Figure S3）as $\\varepsilon ~ < ~ \\varepsilon _ { \\mathrm { { m } } }$ Further deformation with $\\varepsilon > \\varepsilon _ { \\mathrm { m } }$ led to an abrupt increase in stress due to the deformation and fracture of the residual PAMPS network.All these loading-unloading curves overlap to the hysteresis loop at $\\varepsilon = 9 0 \\%$ (Figure Sa).In contrast, for the BM hydrogel experiencing two sequential loading-unloading cycles,the second loading curves toward a higher strain deviate beyond the previous unloading curves (Figure Sb,SI Figure S4),although the PAMPS network was damaged in the BM gel. Therefore,the first loading curve is a sum of the fracturing PAMPS network and the interlacing PEDOT mesh.Upon the second loading， the electrostatic interaction between the PEDOT belts and the fractured PAMPS fragments linked with elastic PAAm chains may enable synergistic energy dissipation.Upon unloading, the BM gels immediately recover theirinitial length，indicating excellent elasticity and no significant detachment of the PAMPS/PAAm network from the PEDOT belt mesh. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The fatigue resistance of the BM hydrogels was then systematically investigated by performing cyclic loadingunloading compressive tests at a constant strain.Figure 6a compares four immediate consecutive loading-unloading curves of BM and DN gels. The BM gel shows a larger hysteresis loop than DN upon the first loading to $90 \\%$ strain. In subsequent loading cycles，the hysteresis loop of BM gel becomes smaller (Figure 6a),while those for the DN gel appear negligible，due to the permanent damage of the PAMPS network.Upon subsequent loadings,the stress at $9 0 \\%$ strain $( \\sigma _ { 0 . 9 0 } )$ ofBM gels slightly decays from $1 0 . 6 ~ \\mathrm { M P a }$ for the first loading to 9.8,9.3，and $9 . 0 \\ \\mathrm { M P a }$ for the second,third,and fourth runs (Figure 6a inset).With up to ten loading cycles, the BM gels still show compressive stress of about $9 \\ \\mathrm { M P a }$ at $90 \\%$ strain. The hysteresis energy，or the loop area, decreases from about $3 7 0 0 \\mathrm { J }  { \\mathrm { m } } ^ { - 2 }$ for the first run to about $1 2 5 0 \\mathrm { J }  { \\mathrm { m } } ^ { - 2 }$ for the second cycle at $90 \\%$ strain (Figure $6  { \\mathrm { b } }$ ).With more cycles, the loop area remains a plateau value of around $1 0 0 0 { \\mathrm { J ~ m } } ^ { - 2 }$ (Figure 6b),in contrast to the negligible values of DN gels (less than $1 0 0 \\mathrm { J } \\mathrm { m } ^ { - 2 } ;$ ,Figure 6b).According to the tensile test results, the BM gels become rubbery with the PAMPS damage (Figure 3b) and no detachment of PAMPS/PAAm from PEDOT belts occurs according to the full and immediate recovery of the BM gels upon unloading. The energy dissipation upon compressive cyclic loadings is likely attributed to the pressurization of fluid imbibed and immobilized in the restrained polyelectrolyte network. The constant high hysteresis energy upon cyclic loadings demonstrates the excellent fatigue resistance32,33 of the BM hydrogels.To the best of our knowledge,this is the first hydrogel showing such a high fatigue resistance without a need to restore its chemical or physical structures under appropriately controlled conditions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9be0d389b4388765fddc31263df03005df35ffc716c85dea93cc683c5c1ce97a.jpg",
+        "table_caption": [
+            "Table 2.Hysteresis Energy of the Hydrogels Undergoing Cyclic Loadings with Series of Predefined Maximum Strains $( 3 0 \\%$ $45 \\%$ ， $60 \\%$ ， $7 5 \\%$ ，and $9 0 \\%$ ）for4 Cycles "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Ehyst(J m-2)</td><td>cycle</td><td>30%</td><td>45%</td><td>60%</td><td>75%</td><td>90%</td></tr><tr><td>DN gel</td><td>1</td><td>7.8 ± 4.6</td><td>58.1 ± 9.1</td><td>279.8 ± 13.1</td><td>780.1 ± 53.0</td><td>2141.3 ± 131.6</td></tr><tr><td rowspan=\"7\">BM (V) gel</td><td>2</td><td>2.9 ± 0.9</td><td>9.5 ± 1.0</td><td>22.0 ± 1.1</td><td>35.4 ± 5.6</td><td>135.1 ± 9.6</td></tr><tr><td>3</td><td>2.6 ± 0.9</td><td>7.9 ± 0.2</td><td>17.9 ± 1.3</td><td>28.1 ± 3.8</td><td>110.9 ± 20.7</td></tr><tr><td>4</td><td>2.3 ± 0.5</td><td>7.3 ± 0.9</td><td>16.0 ± 1.1</td><td>25.6 ± 3.9</td><td>106.7 ± 22.8</td></tr><tr><td>1</td><td>14.2 ± 3.5</td><td>106.2 ± 19.1</td><td>396.8 ± 17.6</td><td>1124.3 ± 35.9</td><td>3726.3 ± 27.4</td></tr><tr><td>2</td><td>10.2 ± 2.2</td><td>40.4 ± 7.5</td><td>121.6 ± 12.7</td><td>302.7 ± 15.5</td><td>1310.5 ± 153.3</td></tr><tr><td>3</td><td>9.2 ± 2.2</td><td>35.9 ± 7.2</td><td>108.3 ± 10.7</td><td>272 ± 17.8</td><td>1143.3 ± 144.9</td></tr><tr><td>4</td><td>8.3 ± 2.1</td><td>33.0 ± 6.7</td><td>99.9 ± 9.9</td><td>254.4 ± 19.3</td><td>1108.3 ± 131.6</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,cyclic loading tests were performed at a series of predefined maximum strains of 30,45,60,75,and $90 \\%$ .With more cycles，the stress and loop area at these predefined maximum strains (Figure 6a, SI Figure SS) all decay to plateau values.Figure 6c shows the representative fourth cycle loops with different maximum strains $\\left( 3 0 - 9 0 \\% \\right)$ . The loop areas are evidently recognized to increase with the increment of strain (Figure 6c). The loop areas or hysteresis energy values are summarized in Table 2. Interestingly， these plateau values showed an exponential dependence upon strain with an $R ^ { 2 }$ value of O.995,indicating a self-toughening behavior of the synergistic network at high strain,which is not seen in the DN case (Figure 6d).Most importantly, this self-toughening effect almost remains unchanged during cyclic loadings. This phenomenon has never been reported before for any strong and tough hydrogels based on energy dissipation via the decomposition of covalent or noncovalent sacrificial bonds.We believe that the fluid pressurization should account for this behavior，which has been playing a critical role in cartilages. This is important to applications for replacement of loadbearing tissues. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Swelling Property of the BM-111 mM (V) Hydrogels. The internal fracture and fluid pressurization behavior of those BM hydrogels were further investigated by the reswelling experiments of compression-tested gels.All the hydrogels show a steady increment in swelling ratio over time until equilibrium (Figure 7).In DN gels, the fractured PAMPS fragments linked with ultralong PAAm chains provide a strong osmotic pressure to swell the once damaged DN gel, leading to an increase of the equilibrium swelling ratios from $1 1 . 7 \\pm 1 . 4 ,$ to $1 3 . 3 \\pm 0 . 5 ,$ and ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7a6973cfba8026a5f2190c7eee4694b270928902b8b505d1e4ef902a06e78ca.jpg",
+        "img_caption": [
+            "Figure 7. Reswelling of DN and $\\mathrm { B M } { \\cdot } 1 1 1 \\ \\mathrm { m M }$ (V) hydrogels after 0,1, and2 cycles of compressive loading-unloading tests at a strain of $6 0 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$1 6 . 3 \\pm 0 . 8$ with more compressive cycles (Figure 7).For the BM gels after cyclic loadings，the rigid PEDOT belt mesh is interlaced with PAMPS fragments that are connected with elastic ultralong PAAm chains $( \\sim 1 0 ^ { 6 } ~ \\mathrm { \\ D a } ) .$ 7,29 Since the PAMPS/PAAm network is strongly attached on the PEDOT belts (Figure ld),the PEDOT belt mesh strongly restrains the swelling of the internal fractured hydrogel,as driven by the osmotic pressure from the fractured PAMPS polyelectrolyte.As a result, the BM gels show much smaller swelling ratios $( 6 . 0 -$ 6.3）and shorter swelling time than the DN gels (Figure 7).In addition, no significant changes (within $5 \\%$ ）in the equilibrium swelling ratio are observed after cyclic compressive tests (Figure 7).This restraining effect，similar to the collagen network of cartilage ECM,may offer strong immobilization of imbibed fluid.No excluded water was observed under cyclic compressive tests.Moreover，this structure is similar to the entangled collagen fiber networks with ultralong supramolecular proteoglycans $\\left( \\sim 5 0 { - } 1 0 0 ~ \\times ~ 1 0 ^ { 6 } ~ \\mathrm { D a } \\right)$ in cartilage ECM，which plays a critical role in fluid pressurization of articular cartilage to provide mechanical support. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Noncovalent interactions have been demonstrated to be effective in creating tough and resilient hydrogels.In particular, the combination of double network hydrogels with strong electrostatic interactions11 or supramolecular assemblingl has led to novel tough hydrogels recoverable after internal damage. The presence of polyelectrolytes (particularly biopolyelectrolytes）has been demonstrated to be critical for the high water content and toughness of polymer hydrogels.34 Moreover, the recovery of hydrogels is important for applications to replacement of load-bearing tissues.In most cases,however, the recovery from mechanical or structural damages is slow and requires strict control of conditions such as $\\mathrm { \\ p H } ^ { 1 3 }$ or temperature91Most load-bearingtissues (e.g,lamntsand articular cartilage） work under continuous loading-unloading conditions. It is thus important to create tough hydrogels with extraordinary fatigue resistance and immediate recovery. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The hydrogels with an interpenetrating resilient PEDOT belt network exhibited extraordinary fatigue resistance，together withhigh strength and toughness.The electrostatic adsorption of polymer chains onto the PEDOT belts enables effective energy transfer between the belt network and the fractured PAMPS/PAAm network. Although a complete mechanism scenario in such BM gels still needs more detailed investigation, the physical PEDOT belts are carefully designed to serve as a highlyresilient but rigid skeleton interlaced and connected with the fractured PAMPS fragments.Such a structure is highly similar to the cartilage ECM composed of a well-organized collagen fibril network interpenetrated with negatively charged polyglycans.The balanced swelling and constraint from such a biomimetic structure may be a major cause of the fluid pressurization of the hydrogels created in this work.Upon compressive loading, the pressurization of imbibed water offers the mechanical strength,while the strain recovers rapidly with negligible delay upon unloading. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In summary,novel biomimetic hydrogels have been fabricated through in situ synthesis and guided assembling of positively charged PEDOT belts by using a parent DN _gel as the template.The electrostatic interaction of PEDOT belts with a negatively charged PAMPS host network may account for the formation of an interpenetrating network in the wellestablished PAMPS/PAAm network.Moreover, such BM gels are able to recover adequately during cyclic loading-unloading tests. The strong adhesion of PAMPS/PAAm chains, even after fracturing,to the PEDOT belt surface is critical for the uptake and pressurization of fluid,which offers extraordinary resilience and fatigue resistance with the hydrogels. These novel tough and fatigue resistant hydrogels may serve as substitutes for loadbearing tissues. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATED CONTENT ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\otimes$ Supporting Information ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Additional figures and information.This material is available free of charge via the Internet at http://pubs.acs.org. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR INFORMATION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Author ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$^ { * } \\mathrm { E }$ mail: fujun@nimte.ac.cn.   \nNotes   \nThe authors declare no competing financial interest. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work was funded by the Natural Science Foundation of China (21004074，51103172，212101064)， the Hundred Talents Program of the Chinese Academy of Sciences (J.F.), the Zhejiang Natural Science Foundation of China (LR13B040001，LQ13E030005)，the Zhejiang Nonprofit Technology Applied Research Program (2013C33190)，the Program forNingbo Innovative Research Team (2012B82019), and the Scientific Research Foundation for the Returned Overseas Chinese Scholars,State Education Ministry. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)Abidian,M.R.; Martin,D.C.Adv.Funct.Mater.2009,19,573- 585.   \n(2）Mawad,D.； Stewart,E.； Oficer,D.L.;Romeo,T.; Wagner,P.; Wagner,K.;Wallace,G.G.Adv.Funct.Mater.2012,22,2692-2699. (3） Seliktar,D. Science 2012,336,1124-1128.   \n(4) Zhu,J.Biomaterials 2010,31,4639-4656.   \n(5)Hench,L.L.; Jones,J.R.Biomaterials,artificial organs and tissue engineering;Woodhead Publishing Limited: Cambridge,2OoS；pp 201- 214.   \n(6)Athanasiou, K.A.；Darling,E.M.； Hu,J. C.Articular Cartilage Tissue Engineering;Morgan and Claypool Publishers:201O；pp 1-13. (7) Gong, J. P. Soft Matter 2010,6,2583-2590.   \n(8) Gong,J.P.; Katsuyama,Y.; Kurokawa,T.;Osada, Y.Adv.Mater. 2003,15,1155-1158.   \n(9) Sun, J.-Y.; Zhao,X.; Illeperuma,W.RK.; Chaudhuri, O.; Oh,K H.； Mooney,D.J.;Vlassak,J.J.; Suo,Z. Nature 2012,489,133-136. (10)Chen, $\\mathrm { Q . ; }$ Zhu,L.; Zhao, C.； Wang, $\\mathrm { Q . ; }$ Zheng, J.Adv.Mater. 2013,25, 4171-4176. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(11) Sun, T.L.; Kurokawa, T.; Kuroda, S.; Ihsan,A.B.; Akasaki, T.;Sato,K.; Haque,M.A.; Nakajima, T.; Gong,J. P.Nat.Mater.2013,12,932-937.(12)Myung,D.; Koh, W.; Ko,J.; Hu,Y.;Carrasco,M.; Noolandi,J;Ta,C.N.; Frank, C.W.Polymer 2007,48, 5376-5387.(13)Barrett,D.G.; Fullenkamp,D.E.; He,L.; Holten-Andersen, N.;Lee,K.Y.; Messersmith,P.B.Adv.Funct.Mater.2013,23,1111-1119.(14）Henderson，K.J.；Zhou,T.C.；Otim，K.J.；Shull,K.R.Macromolecules 2010,43, 6193-6201.(15）Haque，M.A.；Kurokawa，T.；Kamita，G.；Gong, J.P.Macromolecules 2011,44, 8916-8924.(16) Yue, Y.F.; Haque, M.A.; Kurokawa,T.; Nakajima, T.; Gong, J.P.Adv.Mater.2013,25,3106-3110.(17) Zhang,S.; Greenfield,M.A.; Mata,A.; Palmer,L.C.; Bitton,R;Mantei, J.R;Aparicio, C.; de la Cruz,M. O.； Stupp, S.I. Nat.Mater.2010,9, 594-601.(18） Silva, G.A.; Czeisler, C.; Niece,K.L.; Beniash,E.; Harrington,D.A.;Kessler, J. A.； Stupp,S.I. Science 2004,303,1352-1355.(19)Nakayama,A.；Kakugo,A.； Gong, J. P.; Osada,Y.； Takai, M;Erata, T.; Kawano,S.Adv.Funct. Mater.2004,14,1124-1128.(20) Kurokawa, T.; Furukawa, H.; Wang, W.; Tanaka, Y.; Gong,J.P.Acta Biomater.2010,6, 1353-1359.(21) Wang, $\\mathrm { Q . ; }$ Hou, R; Cheng, Y.; Fu,J. Soft Matter 2012,8,6048-6056.(22)Martin,D.C.; Wu,J.； Shaw,C.M.; King, Z.; Spanninga, S.A.;Richardson-Burns,S.；Hendricks,J.；Yang, J. Polym.Rev.2010,50,340-384.(23) Groenendal,L.;Jonas,F.; Freitag,D.; Pielartzik,H.；Reynolds,J.R. Adv.Mater.2000,12,481-494.(24) Zhang, X.; Li, C.; Luo, Y. Langmuir 2011, 27,1915-1923.(25)Suh,J.S.; Michaelian,K.H.J. Raman Spectrosc.1987,18,409-414.(26) Garreau, S.；Louarn, G.； Buisson, J. P.;Froyer,G.; Lefrant, S.Macromolecules 1999,32, 6807-6812.(27)Lapkowski,M.; Pron,A. Synth.Met.2000,110,79-83.(28) Chiu, W.W.; Travas-Sejdic, J.; Cooney,R P.; Bowmaker, G.A.Synth.Met.2005,155,80-88.(29)Nakajima,T.；Furukawa,H.; Tanaka,Y.;Kurokawa,T.； Osada,Y.; Gong J. P. Macromolecules 2009,42, 2184-2189.(30) Baker,M.I.; Walsh, S.P.; Schwartz, Z.; Boyan,B.D.J.Biomed.Mater.Res.B 2012,100B,1451-1457.(31） Simha,N.K； Carlson, C. S.; Lewis,J.L.J.Mater. Sci.:Mater.Med. 2004,15, 631-639.(32）Webber，R.E.；Creton，C.；Brown，H. R；Gong， J.P.Macromolecules 2007,40,2919-2927.(33)Bakarich, S.E.;Pidcock,G.C.; Balding,P.; Stevens,L.; Calvert,P.;Panhuis,M.I.H. Soft Matter 2012,8,9985-9988.(34) Zhao,Y.; Nakajima,T.; Yang,J.J.;Kurokawa,T.; Liu,J; Lu,J;Mizumoto,S.； Sugahara,K.； Kitamura,N.; Yasuda,K.； Daniels,A.U.D.; Gong, J. P.Adv. Mater.2014,26,436-442.",
+        "page_idx": 7
+    }
+]

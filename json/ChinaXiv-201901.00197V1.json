@@ -1,0 +1,648 @@
+[
+    {
+        "type": "text",
+        "text": "基于句法结构和依存关系的评价对象提取",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邱云飞，周双月",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(辽宁工程技术大学 软件学院，辽宁 葫芦岛 125105)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对现有基于监督学习模型的评价对象提取方法中，多评价对象和复合词评价对象提取精度不高的问题，提出基于句法结构和依存关系的评价对象提取方法。首先，根据评价对象、情感词在句法结构中充当的不同成分，分析评价对象和情感词之间的依存关系；然后，根据不同的依存关系定义特征；最后，在条件随机场模型中，通过贪婪式特征选择方法选取最优的特征组合，进而完成评价对象提取。在COAE2011任务三的评测数据中进行实验，结果显示，与现有的评价对象提取方法相比，F1值高出 $3 \\% { \\sim } 6 \\%$ ，能够有效地识别评价对象。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：评价对象提取；句法结构；依存关系 中图分类号：TP311 doi: 10.19734/j.issn.1001-3695.2018.10.0731 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Opinion target extraction with syntactic structures and dependency relationships ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qiu Yunfei, Zhou Shuangyue (College of Software,Liaoning Technical University,Huludao Liaoning l251o5,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Present methods ofopinion target extractionfail to extract multi-targetsandcompound targetbasedonsupervised learning model.This paper proposes an opinion method to deal with this issue based on syntactic structure and dependency relation.Firstly,itanalysedthedependencyrelationshipsbetweenopiniontargetsandopinion words basedonthedierent syntacticconstituentsofopinion targetsandopiion words.Then,it defined features according todifferent dependencies. Finaly,itselectedtheoptimalfeaturecombinationbythegreedyfeatureselectionmethodtoextractopiniontargets withthe conditionalrandomfield model.Itconducted experiments in the evaluation dataof task 3of COAE20l1.Theresults show that the value of F1 is $3 \\% - 6 \\%$ higher than that of the present method of opinion target extraction and the method can identify the opinion targets effectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: opinion target extraction; syntactic structures; dependency relationships ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "细粒度情感分析[是近年来情感分析研究的热门，而评价对象提取则是其任务之一。评价对象是指某段评论中所讨论的主题，是有情感词所修饰的对象。例如电影评论的人物演技、特效、音效等都可以作为评论电影的某一具体对象。评价对象提取[2]可以应用在观点问答系统、推荐系统和意见摘要中，识别系统所需的观点评价对象。如何有效地提取评价句子中的对象一直是研究的难点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前，主流的评价对象提取方法有基于非监督学习的提取方法和基于监督学习的提取方法两种。基于非监督学习的提取方法主要通过词性标注、句法分析、语义分析等构建规则来提取评价对象。现有的方法有关联规则[3]、句法分析[4-6]、依存关系[7,8]、词对齐模型[9,10]、语义分析[11\\~13]等。非监督学习的提取方法不受语料领域影响，领域适应性强，但非监督学习方法使用的规则建立比较复杂，且需要大量后续步骤才能得到好的提取结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于监督学习的评价提取方法通过已标注数据集训练统计模型，对评价对象进行抽取。主要模型有隐马尔可夫模型(hidden Markov model，HMM)[14]、最大熵模型(maximumentropymodel，MEM)[15]、条件随机场模型（conditionalrandom fields，CRFs)[2]、支持向量机等[16]。其中条件随机场模型是一种序列化标注模型，并可以灵活地引入各种特征，在评价对象提取中应用广泛。而使用条件随机场模型进行评价对象提取的难点是如何选择有效的特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jakob 等人[2]首次将CRFs模型应用到评价对象提取，使用了词、词性、最短依存路径、词距离、是否是主观句等五个特征，表明了CRFs模型在评价对象提取上的优势。张莉等人[17]利用规则抽取句子的核心句，确定10 种句法结构作特征，结合词、词性用CRFs模型提取评价对象。戴敏等人[18]在 CRFs 模型基础上，引入句法分析捕捉评价对象和情感词之间的句法信息，适用于中文句子结构相对简单的情况。句法分析可以反映出句子各成分之间的结构关系，但现阶段研究只针对了主谓结构和定中关系，其他关系未作具体分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王荣洋等人[19]在Jakob的基础上，将特征归纳为词法、语法、相对位置、语义四个类别，证明了语义角色标注特征对评价对象提取的重要作用。郑敏洁等人[20]等提出一种基于层叠CRFs的中文句子评价对象提取方法，首先利用低层模型获得候选评价对象；再通过降噪模型对噪声进行过滤，补充模型对缺失的候选评价对象进行补充，合并模型对复合短语候选进行合并；最后由高层模型进行抽取评价对象。刘全超等人[21]发掘微博中评价对象和情感词间的多种特征，改进CRFs模型的特征模板，结合微博转发关系特性进行句子级的评价对象与情感词语联合抽取。在条件随机场模型中引入评价对象与情感词之间的依存关系，能够很好地提取评价对象，但没有对评价对象内部和情感词内部的关系进行进一步",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，目前国内外在评价对象提取方法研究上取得了很好的成果，但对于中文评价对象提取还存在着一些问题：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）中文评论句的句式比较复杂，含有多个子句或复合句式，导致在一个评论句中会出现多个情感词、评价对象，如“昨天买了一部手机，价格便宜，大小和颜色都很喜欢”一句中“价格”“大小”和“颜色”都是评价对象，且有“便宜”“喜欢”两个情感词。前人研究中使用情感词典对情感词进行标注，很可能丢失一部分情感词，而导致评价对象提取精度下降。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）中文评论句中存在复合词型评价对象。复合词型评价对象中经常嵌套多个名词或者动词，如“手机/n拍照/v能力n不错/a”中“手机拍照能力”是要提取的评价对象。如果只考虑评价对象和情感词之间的关系，就不能提取出语义完整的评价对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，本文从中文句法分析入手，深入探讨评价对象和情感词在句法中充当的不同成分。根据评价对象和情感词的不同成分组合，总结评价对象与情感词、评价对象与评价对象、情感词与情感词之间的句法结构，用句法结构指导依存关系的分析，定义本文的特征；并根据词性和情感词内部关系自动标记出情感词。最终，在条件随机场模型中，各个特征在评价对象提取中的表现，并使用贪婪式特征选择方法选择出效果最好的特征组合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1评价对象和情感词的句法结构分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "句法结构能够反映出评价对象和情感词在句子中的句法位置，与其在句子中的物理意义无关，因为评价对象和情感词之间在句法中是有关系的，且这些关系是可以总结的[19]，所以可根据情感词和评价对象之间的句法结构提取评价对象。在现有基于监督学习方法中只研究了句法结构中的主谓结构SBV和定中结构ATT在评价对象提取中的作用，但评价对象和情感词间的句法结构不只如此，还需加入对评价对象间结构、情感词间结构的分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1评价对象和情感词的句法成分分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[22]指出，评论中的情感词大多是形容词、动词、副词，评价对象多为名词或名词短语。根据以下词性分析评价对象和情感词在句法中所充当的成分：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)形容词情感词在句法中充当谓语或定语，其中谓语可以使整个句子的核心谓语，也可以是子句的谓语，定语可以修饰主语，也可以修饰宾语。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）动词情感词在句法中充当谓语或宾语。“这个数字能证明很受欢迎”中，动词情感词“受欢迎”是“证明”的宾语，但是这种情况出现几率较小，在标注情感词时一般不考虑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）副词情感词出现在形容词或动词之前或之后，起到改变形容词或动词的情感程度的问题，在句法中充当状语或补语。在中文评论语料中，副词情感词不能独立发挥作用，需与修饰的形容词或动词一起，才能起到修饰评价对象的作用。因此在标注情感词时，不考虑副词情感词这一部分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)评价对象一般为名词或名词短语，在句法中充当主语或宾语。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2评价对象和情感词之间的句法结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据情感词和评价对象在句中充当的句法成分，分析两者所在的句法结构：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)情感词作谓语时，其修饰的评价对象作谓语的主语或宾语，它们之间的句法结构是主谓结构或动宾结构。“价格很实惠”一句中，形容词情感词“实惠”作句子的谓语，评价对象“价格”作主语，两者处于主谓结构中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）情感词作定语，评价对象为定语所修饰的成分，它们之间的句法结构为定中结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "只分析评价对象和情感词之间的句法结构，只能分析出单词语型评价对象（只有一个词语)，造成多评价对象中的部分丢失，或多词语构成的复合词型评价对象的语义不完整。对于复合型评价对象的提取则，需要分析评价对象内部结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）单词语评价对象作主语或宾语，且有非情感词作定语修饰，则单词语评价对象和非情感词定语组合构成复合词型评价对象。“整体成像质量不错”中，评价对象为“整体成像质量”，其中情感词“不错”与“质量”之间是主谓结构，“整体”“成像”与“质量”均是定中结构。复合词型评价对象内部之间存在着定中结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)句中存在多个评价对象，每个评价对象对应的情感词都是同一个，且句法成分相同时，评价对象之间存在并列结构。“硬件配置、娱乐功能都很给力”一句中，情感词“给力”与“配置”是主谓结构，“硬件”与“配置”为定中结构，“功能”与“配置”为并列结构，“娱乐”与“功能”为定中结构，因此评价对象为“硬件配置”和“娱乐功能”。评价对象之间存在着并列结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "并列结构不只出现在评价对象之间，情感词之间也存在并列结构，句法成分相同，对应的评价对象可能相同或不同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 评价对象和情感词之间的依存关系分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依存语法通过分析语言单位内成分之间的依存关系揭示句中词语在语法上的搭配关系，即主谓关系（SBV）、定中关系（ATT）、并列关系（COO）等。一个依存关系连接两个词，分别是核心词（head）和依存词（dependent)。顾名思义，依存词是依存于核心词的，在依存关系图中，由核心词作箭尾指向依存词。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在现有的基于监督学习的评价对象提取方法中，对于依存关系的使用，涉及到了依存父类、依存关系、词语是否与情感词有直接依存关系，并没有对与情感词的依存关系具体展开说明；没有考虑评价对象内部的依存关系，降低了复合词类评价对象的提取精度。由于依存关系和句法结构之间是相互对应的，本文根据评价对象和情感词之间的句法结构，对评价对象与情感词之间的依存关系做详细的分析，并总结出五类依存关系。下面对五类依存关系进行说明。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依存关系1当情感词作谓语，评价对象作主语或宾语，它们之间的句法结构主谓结构或动宾结构在依存关系中表示为主谓关系SBV，动宾关系VOB，前置宾语FOB，间接宾语IOB，后两种情况出现较少。如例1“鼠标底下的蓝光很舒服。”词性标注和依存关系标注如图1所示。句中形容词情感词“舒服”作句中的谓语，与它产生主谓关系的“蓝光”则为需要提取的评价对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HED AIT SBV AII RAD ADy WP Root鼠标底下的蓝光很 舒服。 n nd u n d a wp ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依存关系2情感词与评价对象存在定中结构时，则定中关系ATT中的核心词为评价对象。如例2“精美的画面带来更好的视觉体验。”词性标注和依存关系标注如图2所示。句中形容词情感词“精美”是主语“画面”的定语，根据定中关系可得，“画面”是所要提取的评价对象；形容词情感词“好”作宾语“体验”的定语，根据定中关系得“体验”是评价对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HED ATT ATT VOB WPRAD DV RADAH↓ ? SBV Y L ? 2 公 Y ?  \nRoot精美的 画面 带来 更 好的视觉 体验 。a u n V d a u n V wp",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依存关系3复合词型评价对象内部存在定中结构，对应的依存关系为ATT。由定中关系中核心词和非情感词的依存词组成复合词性评价对象。如例3“手机销量大幅上升，人们对它的评价也提高了。”词性标注和依存关系标注如图3所示。有主谓关系得到动词情感词“上升”的评价对象为“销量”，名词“手机”作定语修饰“销量”，由定中关系可以获得复合词型评价对象“手机销量”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WP HED COQ AT ABy WP ADY RAD Root手机 销量大幅 上升 ， 评价 也 提高 了 0 n n d V wp n d V u wp ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依存关系4评价对象存在多个并列，则并列关系COO得到的核心词和依存词均为评价对象。如例4“她从小就非常喜欢糖果和巧克力。\"词性标注和依存关系标注如图4所示。由动宾关系得到动词情感词“喜欢”的评价对象是“糖果”；“巧克力”并列依存于“糖果”，由并列关系可知，“巧克力”也是评价对象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依存关系5情感词之间存在并列结构，并列关系COO的核心词和依存词中的一个是情感词，其余均为情感词。如例5“手机销量大幅上升，评价也提高了。”词性标注和依存关系标注如图5所示。句中“上升”为情感词，与它并列依存的“提高”亦为情感词，分别对应不同的评价对象“手机",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "销量”和“评价”。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/af7366dea639b7796ae4b7c4f3db57e453c5b4384a9ab3a9e7aceff2a00224d0.jpg",
+        "img_caption": [
+            "Fig.2Part-of-speech and dependencies of sample 2 ",
+            "图4例4的词性和依存关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/898370fdd5affb30ffea0daf83be5d3f7d8a30b93b30cc4335d6751d520fba60.jpg",
+        "img_caption": [
+            "图2例2的词性和依存关系",
+            "Fig.4Part-of-speech and dependencies of sample 4 ",
+            "图5例5的词性和依存关系",
+            "Fig.5Part-of-speech and dependencies of sample 5 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 基于条件随机场模型的评价对象提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "条件随机场模型是由Lafferty 等人[23]于2001年在MEM和 HMM基础上提出的一种无向图模型，可以用于标注和切分序列化数据。与隐马尔可夫模型的“给定当前状态的条件下，定义下一个状态的分布”不同，CRFs模型是在给定需要标记的观测序列的条件下，计算整个标记序列的联合概率。CRFs模型无须严格的独立性假设，能够灵活地引入多种特征。可以对整个观测序列进行全局归一化，求得全局最优解，解决标记偏置问题。因此，CRFs可以应用在多种自然语言处理任务中，且表现良好。本文将评价对象提取过程看做序列化标注问题，利用条件随机场进行评价对象标注。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1评价对象提取过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用条件随机场模型进行评价对象提取的具体过程如图6所示。原始语料处理阶段，经过分词、词性标注、依存关系分析、情感词标注，转换为CRFs识别的文本格式，按一定比例分为训练语料和测试语料。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在训练阶段，CRFs利用特征模板，在训练语料上进行训练，得到模型。在测试阶段，用得到的模型对测试语料进行标注，得到标注结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e2c2574069c3d3a3a67c0d9b76ef70d98ad9ce26e60caed7871633ca5432755.jpg",
+        "img_caption": [
+            "图3例3的词性和依存关系",
+            "Fig.3Part-of-speech and dependencies of sample 3 ",
+            "图6评价对象提取过程",
+            "Fig.6Process of opinion target extraction "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2特征定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在第2章中分析了评价对象内部、情感词内部、评价对象和情感词之间的关系情况。根据与情感词的依存关系可以得到评价对象，并由评价对象内部的依存关系，补充丢失的评价对象。为验证本文提出的由句法结构得到的依存关系能够充分捕捉评价对象和情感词之间的关系，第2章中前四种与评价对象相关的依存关系作四种词语特征，加入词、词性、依存核心词和依存类型共同作条件随机场模型的特征。本文使用到的具体特征描述见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A1词特征，词汇是自然语言中表达语义的最小单位，在处理中文信息时具有十分重要的作用。评价对象就是单个或多个词语构成的，所以在评价对象抽取过程中，将词汇作为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CRFs模型的特征，能够为其他特征做铺垫。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A2 词性特征，一个词的词性特征能够表明词在句子中的作用，评价对象通常为名词和名词短语，而情感词为形容词或动词，所以词性标注对评价对象提取起到很重要作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B1依存核心词，当前词语所在依存关系中的核心词。依存关系连接两个词核心词和依存词。在中文句中，除了核心动词，其余部分均依存于句中某一成分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B2依存类型，当前词语与核心词之间的依存类型，本文主要基于依存关系展开进行评价对象提取的，依存类型对后面特征的提取有重要指导作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/989d183ae2821da750b2cbd609126cee02284f0ec81b3dae70cbf808d6c541a9.jpg",
+        "table_caption": [
+            "Table1 Description of features "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征</td><td>特征描述</td><td>取值</td></tr><tr><td>A1</td><td>词特征</td><td>所有可能的词</td></tr><tr><td>A2</td><td>词性特征</td><td>所有可能的词性</td></tr><tr><td>B1</td><td>依存核心词</td><td>依存关系中的核心词</td></tr><tr><td>B2</td><td>依存类型</td><td>依存关系类型</td></tr><tr><td>C1</td><td>主谓、动宾关系等</td><td>数值型：1,2,3,4,0</td></tr><tr><td>C2</td><td>形容词情感词ATT</td><td>布尔型：0,1</td></tr><tr><td>C3</td><td>名词ATT</td><td>布尔型：0,1</td></tr><tr><td>C4</td><td>名词COO</td><td>布尔型：0,1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C1-C4为根据第2章中依存关系1\\~4得到。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C1主谓、动宾关系由依存关系1得来，数值型，表示当前词语是否与谓语情感词有主谓、动宾、间宾或前置宾语等依存关系，分别对应数值1、2、3、4，不符合为0。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C2 形容词情感词ATT有依存关系2得来，表示当前词语是否与情感词有定中关系，是为1，不是为0。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C3 名词ATT由依存关系3得来，表示当前词语(名词或动词)是否以ATT依存于名词或动词，是为1，不是为0。核心词为评价对象时，当前词语可能与依存词构成复合词组作为评价对象。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C4名词COO由依存关系4得来，表示当前词语是否以COO关系依存于名词，是为1，不是为0。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C1\\~C4为四种依存关系得来的布尔（数值）型特征，是对词语是否与情感词有之间的依存关系的展开。使用这四种特征进行评价对象提取，可以分析哪些特征能够捕捉评价对象和情感词之间的关系，以及复合评价对象内部词语的关系，提高评价对象提取效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 特征模板的设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模板能够反映出句子中词语之间的上下文信息，模板选取的好坏对评价对象提取起着重要作用。为较为充分地考虑上下文信息，本文模板如式（1) $\\sim$ （4）所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { A l } } _ { n } , { \\mathrm { A } } 2 _ { n } ; n \\in \\{ - 1 , 0 , 1 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A l } _ { n - 1 } \\mathrm { A l } _ { n } , \\mathrm { A } 2 _ { n - 1 } \\mathrm { A } 2 _ { n } ; n \\in \\{ 0 , 1 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { { A l } } _ { n - 1 } \\mathrm { { A l } } _ { n } \\mathrm { { A l } } _ { n } , \\mathrm { { A 2 } } _ { n - 1 } \\mathrm { { A 2 } } _ { n } \\mathrm { { A 2 } } _ { n } ; n = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { B } } 1 _ { n } , { \\mathrm { B } } 2 _ { n } , { \\mathrm { C } } 1 _ { n } , { \\mathrm { C } } 2 _ { n } , { \\mathrm { C } } 3 _ { n } , { \\mathrm { C } } 4 _ { n } ; n = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "词特征（A1）和词性特征（A2）的窗口大小设置为3，包括原子型如式（1）、复合型如式（2)（3)；有其余特征B1，B2，C1-C4使用当前窗口如式（4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验与结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本章主要介绍本文使用的语料、实验设置，给出实验结果，得出相应的分析结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过三个裁判员进行标注，选取至少两个给出相同标注的结果作为评价对象。表2中为实验使用的digital和entertainment领域的数据集中的句子总数和人工标记的评价",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对象总数。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2cc0cb90b142f81063b9188818f48c66ead6274ecf090eb4d6451dde1e499866.jpg",
+        "table_caption": [
+            "表1特征描述",
+            "表2数据集统计",
+            "Table 2Statistics of data sets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>句子总数</td><td>评价对象总数</td></tr><tr><td>digital</td><td>2516</td><td>3705</td></tr><tr><td>entertainment</td><td>1091</td><td>1558</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1语料概述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据集选取 COAE2011(http://ir.sdu.edu.cn/ccir2011/coae2011_register.htm）task3 所用的评测数据集的digital 和entertainment领域的数据集。人工进行评价对象标注，引入三类标记符号{B,I,O}用于评价对象的识别，原始语料进行分词、词性标注、依存句法分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于情感词的标注，本文未使用外部情感词典，标记所有形容词、在句中充当谓语的动词为情感词。在依存句法中，主张句子中核心谓语词是支配其他成分的中心成分，而且评价对象作为句子的评论主题，直接或间接地依存于核心动词，所以标记句中的核心谓语词为情感词。再加入上文分析的与上述两种情感词为并列关系的形容词、动词亦标记为情感词。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用CRF $^ { + + }$ (http://crfpp.sourceforge.net/)线性条件随机场，使用默认参数。本实验采用精确评价。精确评价是系统抽取的结果和答案完全匹配。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了得到更可信的结果，使用10倍交叉验证的方法。将符合CRFs格式的语料按9:1分为训练语料和测试语料进行实验，最终结果采用10次结果的平均值。为选取对评价对象提取最为有效的特征组合，使用贪婪式特征选择方法[18](每次选择评测结果最好的特征，直至加入任何特征都导致实验结果下降为止)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为测试方法的有效性，使用精确率、召回率和F1值三个指标进行评测，计算公式如式（5）～（7）所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文首先使用词特征(A1)和词性特征(A2)做基准实验，然后分别单独加入其他特征。实验序号用exp_1表示。实验结果如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表2中可以看出，无论是digital还是entertainment领域，加入C2后，F1值最高，其中digital提高约2个百分点，entertainment提高了 $6 \\%$ 。说明形容词情感词修饰的评价对象在总数中占比例较大，说明这个语言特征对评价对象有作用。而B1、C1、C3、C4在单独加入后，提取结果有所下降，说明这三个特征单独与基本特征一起时，影响了提取效果。在引入C1(主谓)的特征时，该特征的加入，引入了没有情感倾向的叙述性词语，导致准确率下降；引入C4后，由于使用词和词性的系统本身效果不佳，引入并列词语，会加入更多非评价对象，导致实验结果下降。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4为在digital领域使用贪婪式特征选择方法选择的实验结果。贪婪式特征选择方法是选择每次对评测结果提升贡献最大的特征，所以特征的加入是有顺序的。实验序号exp_2表示，实验结果如表3所示。由表3可知，加入复合特征后，相对单个语言特征，评测结果有了较明显地提升。尤其是召回率提升效果明显。最终得到的特这组合为{C2，B2，C1，C3}，其他特征在加入后对结果没有正面效果，在entertainment领域得到的最终特征组合一致。虽然在上表加入单个特征时，C1、C3对于评测结果有负面的影响，当时与其他语言特征结合在一起时，则可以起到正面作用，说明本文所提出的特征在组合时能够发挥更好的效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6fddb4306f2901fe09b314f8c5720860ac4a6f717769c8b7a87eee59a7db8c6.jpg",
+        "table_caption": [
+            "Table 3Result of exp_1 ",
+            "表4exp_2的结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">digital</td><td colspan=\"3\">entertainment</td></tr><tr><td>特征</td><td>P(%)</td><td>R(%)</td><td>F1 (%)</td><td>P(%)</td><td>R(%)</td><td>F1(%)</td></tr><tr><td>A1+A2</td><td>70.30</td><td>42.31</td><td>52.68</td><td>65.65</td><td>32.07</td><td>42.98</td></tr><tr><td>..+B1</td><td>69.31</td><td>42.41</td><td>52.41</td><td>64.28</td><td>30.68</td><td>41.48</td></tr><tr><td>..+B2</td><td>69.47</td><td>44.22</td><td>53.77</td><td>62.94</td><td>34.81</td><td>44.77</td></tr><tr><td>..+C1</td><td>69.01</td><td>41.95</td><td>51.99</td><td>62.14</td><td>32.71</td><td>42.79</td></tr><tr><td>..+C2</td><td>71.21</td><td>44.07</td><td>54.27</td><td>68.98</td><td>37.74</td><td>48.68</td></tr><tr><td>..+C3</td><td>69.85</td><td>42.14</td><td>52.39</td><td>65.15</td><td>31.91</td><td>42.74</td></tr><tr><td>..+C4</td><td>69.57</td><td>41.77</td><td>52.04</td><td>65.08</td><td>31.76</td><td>42.69</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e15a95f55393cc124993a79351f94a70917904acf30d3d993dd70595b54019b8.jpg",
+        "table_caption": [
+            "表3exp_1的结果",
+            "Table 4Result of exp_2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征</td><td>P(%)</td><td>R(%)</td><td>F1(%)</td></tr><tr><td>..+C2</td><td>71.21</td><td>44.07</td><td>54.27</td></tr><tr><td>..+C2+B2</td><td>71.30</td><td>46.23</td><td>55.86</td></tr><tr><td>..+C2+B2+C1</td><td>70.40</td><td>47.26</td><td>56.33</td></tr><tr><td>..+C2+B2+C1+C3</td><td>70.42</td><td>47.24</td><td>56.56</td></tr><tr><td>..+C2+B2+C1+C3+C4</td><td>70.34</td><td>47.08</td><td>56.18</td></tr><tr><td>..+C2+B2+C1+C3+C4+B1</td><td>68.60</td><td>46.61</td><td>55.31</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为验证本文提出方法的有效性，与文献[24]进行对比。对比实验分别使用三种监督学习模型LC_CRF(线性链)，SK_CRF(跳跃链)，CCRF(层叠条件随机场)采用词、词性、语法依赖、最近名词特征四种特征。语法依赖是词语是否是直接依存于情感词的代词或名词，最近名词是当前词语是否是离情感词最近的代词或名词。根据使用模型的不同，简称三种对比方法为LC_CRF、SK_CRF、CCRF。在digital和entertainment两个领域的数据集上的实验结果如图7和8所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图7可知，在digital领域，本文方法的准确率和F1值比三种方法有显著提高，高出 $3 \\% { \\sim } 6 \\%$ 。主要原因在于：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a）在digital领域中，复合词型评价对象，特别是中心词为名词的复合词型评价对象较多，例如“手机/n外壳/n很/d闪/a。”中“闪”是形容词在句中是核心动词，所以是情感词，“外壳”以SBV依存于“闪”，“手机”是名词以ATT依存于“外壳”，所以提取的评价对象为“手机外壳”。本文的目的是解决复合词型，这也验证了本文方法在提取复合评价对象上是有效的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b）评价对象和情感词的句法结构明显，依存关系也多为直接依存关系，本文方法能够有效地反映出评价对象和情感词之间的关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7022522f6a7696bf63ca25fad7c4abf951f61f5435bbacdc1590b7fb9ea2b01.jpg",
+        "img_caption": [
+            "图7digital 领域对比结果",
+            "Fig.7Comparison result in digital "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图8可知，在entertainment领域，本文方法的召回率较低，本文方法的F1值只比LC_CRF 略高。在digital领域的实验中，召回率也比CCRF方法的召回率低。主要原因有两点：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a）一些与评价对象对应的情感词，尤其是动词情感词，未能识别出来。entertainment领域动词情感词较多。本文方法中使用的动词情感词是自动标注的中心谓语词和与它并列的动词，会丢失一部分在句中作宾语的动词情感词，导致与之对应的评价对象不能识别而丢失。例如“我/r要/v说/v的/u 是/v 索尼/nz手机/n 更加/d适合/v。”中“是”是句子的核心动词，被标记为情感词，没有与之产生直接关系的名词，所以整句中没有提取出评价对象；但实际“适合”应该为情感词而它以VOB依存于“是”没有被标记为情感词，与“适合”有SBV依存关系的“手机”也无法被标记为评价对象。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b）entertain-ment领域句式较复杂，评价对象和情感词之间存在较多间接关系，使得无法正确依存关系。由于这两点，正确识别的评价对象较少，使得整体的召回率较低，且会对准确率造成一定程度的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a34bb500fa0121103367246d0549f6dc8c2c4bff537cc8d84c1212df8381845.jpg",
+        "img_caption": [
+            "图8entertainment领域对比结果 Fig.8Comparison result in entertainment "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "整体来说，本文方法提取效果不错，说明本文基于句法结构和依存关系提出的特征能够反映情感词与评价对象之间的关系，对评价对象提取有重要作用；但对于动词情感词的识别存在不足之处，需要继续改进。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对中文评论句中存在多评价对象和复合词型评价对象的现象，提出了基于句法结构和依存关系的评价对象提取方法。句法结构和依存关系能够反映情感词与评价对象之间的对应关系；对于句中存在多评价对象和复合词型评价对象的情况，也可以捕捉评价对象与情感词、评价对象内部的关系。根据词性和情感词内部关系自动标注情感词而未使用外部情感词典，能够较充分地标注出评价句中的情感词。实验采用条件随机场模型，引入四种依存关系特征，在COAE2011任务三语料中进行测试。本文方法的F1值较基准方法高出 $4 \\%$ 较对比方法高出 $3 \\%$ 。但本文存在动词情感词丢失的问题，这也将是未来研究的重点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Titov I,McDonald R.Modeling online reviews with multi-grain topic models [C]//Proc of the 17th International Conference on World Wide Web.NewYork:ACMPress,2008:111-120.   \n[2]Jakob N,Gurevych I.Extracting opinion targets in a single and cross-domain setting with conditional random fields [C]// Proc of Conference on Empirical Methods in Natural Language Processing. Stroudsburg:Association for Computational Linguistics Press,2010: 1035-1045.   \n[3] Xu Ruifeng,Kit C. Incorporating feature-based and similarity-based opinion mining-CTL in NTCIR-8 MOAT [C]// Proc of NTCIR-8 Workshop Meeting.2010: 276-281.   \n[4]赵妍妍，秦兵，车万翔，等．基于句法路径的情感评价单元识别[J]. 软件学报，2011,22 (5):887-898.(Zhao Yanyan，Qin Bing，Che Wanxiang,et al.Appraial expression recognition based on syntactic path[J]. Journal of software,2011,22 (5): 887-898.)   \n[5]顾正甲，姚天昉．评价对象及其倾向性的抽取和判别[J].中文信息 学报,2012,26 (4): 91-97.(Gu Zhengjia, Yao Tianfang. Extraction and discrimination of the evaluated object and its orientation [J]. Journal of Chinese Information Processing,2012,26 (4): 91-97.）   \n[6] 张建华，翁鸣，李晓乐，等．基于依存句法和二叉树模型的评价对象 抽取[J].计算机技术与发展,2016,26(2):52-55,60.(Zhang Jiahua, Weng Ming,Li Xiaole,et al. Extraction of evaluation object based on dependency parsing and binary tree [J]. Computer Technology and Development, 2016,26 (2): 52-55,60.)   \n[7]Yang Xiaoyan,Xu Ge,Zhang Fuyuan,et al. Opinion target extraction for the Chinese formal text based on dependency relations [Cl// Proc of InternationalConferenceonSmartVehicularTechnology, Transportation, Communication and Applications. Cham Press: Springer,2018:321-328.   \n[8] 王娟，曹树金，谢建国．基于短语句法结构和依存句法分析的情感 评价单元抽取[J].信息系统,2017,40(3):107-113.(Wang Juan,Cao Shujin,Xie jianguo.Emotional evaluation unit extraction based on short sentence structure and dependency syntax analysis[J]. Information System,2017,40 (3): 107-113.)   \n[9] 陈兴俊，魏晶晶，廖祥文，等．基于词对齐模型的中文评价对象与评 价词抽取[J].山东大学学报：理学版，2016,51(1):58-64，70. (Chen Xingjun,Wei Jingjing,Liao Xiangwen，et al. Extraction of opinion targets and opinion words form Chinese sentence based on word alignment model[J]. Journal of Shangdong University：Natural Science ,2016,51(1): 58-64,70.)   \n[10]廖祥文，陈兴俊，魏晶晶，等．基于多层关系图模型的中文评价对象 与评价词抽取方法[J]．自动化学报，2017，43(3)：462-471.(Liao Xiangwen,Chen Xingjun,Wei Jingjing,et al.A multi-player relation graph model for extracting opinion targets and opinion words [J]. Acta Automatica Sinica,2017,43 (3): 462-471.)   \n[11]周红照，候明午，颜彭莉，等．语义特征在评价对象抽取与极性判定 中的作用[J].北京大学学报：自然科学版，2014,50(1):93-99. (Zhou Hongzhao,Hou Mingwu, Yan Pengli,et al.Function of semantic features in opinion target extraction and its polarity identification [J]. Acta Scientiarum Naturalium Universitatis Pekinensis,2014,50 (1): 93-99.)   \n[12] 江腾蛟，万常选，刘德喜，等．基于语义分析的评价对象-情感词对 抽取[J]．计算机学报，2017,40(3):618-633.(Jiang Tengjiao,Wan Changxuan, Liu Dexi,et al. Extracting target-opinion pairs based on semantic analysis [J]. Chinese Journal of Computers，2017,40 (3): 618-633.)   \n[13] Min Qingkai,Zhang Jing.Opinion Target ex-traction in Chinese microblog posts based on candidate classification [Cl//Proc of the 4th International Conference on Information Science and Control Engineering.New York: IEEE Press,2017: 514-519.   \n[14] Jin W,Ho H, Srihari R.A novel lexicalized HMM-based learning frame work for Web opinion mining [C]// Proc of the 26th International Conference on Machine Learning. New York: ACM Press,2009: 465-472.   \n[15]方明，刘培玉．基于最大熵模型的评价对象搭配识别[J].计算机应 用研究，2011，28(10):3714-3716.(Fang Ming，Liu Peiyu. Identification of evaluation collocation based on maximum entropy model [J].Application Research of Computers,2011，28(10): 3714-3716. )   \n[16] Wu Yuanbin,Zhang Qi, Huang Xuanjing,et al.Phrase dependency parsing for opinion mining [C]// Proc of Conference on Empirical Methods in Natural Language Processing:Volume 3. Stroudsburg: Association for Computational Linguistics Press,2009:1533-1541.   \n[17]张莉，钱玲飞，许鑫．基于核心句及句法关系的评价对象抽取[J]. 中文信息学报,2011,25(3):23-29.(Zhang Li,Qian Lingfei,Xu Xin. Comment target extraction based on nuclear sentences and syntactic Relations [J].Journal of Chinese Information Processing,2011,25 (3): 23-29.)   \n[18] 戴敏，王荣洋，李寿山，等．基于句法特征的评价对象抽取方法研究 [J]．中文信息学报,2014,28(4): 92-97.(Dai Min,Wang Rongyang,Li Shoushan,et al. Opinion target extraction with syntactic features [J]. Journal of Chinese Information Processing,2014,28 (4): 92-97.)   \n[19]王荣洋，鞠久朋，李寿山，等．基于CRFs 的评价对象抽取特征研究 [J]．中文信息学报,2012,26 (2):56-61.(Wang Rongyang,Ju Jiupeng, Li Shoushan,et al. Feature enginering for CRFs based opinion target extraction [J]. Journal of Chinese Information Processing,2012,26 (2): 56-61.)   \n[20]郑敏洁，雷志城，廖祥文，等．基于层叠CRFs的中文句子评价对象 抽取[J].中文信息学报，2013,27(3):69-76.(Zheng Minjie,Lei Zhicheng，Liao Xiangwen,et al.Identify sentiment-objects form Chinese sentences based on cascaded conditional rand-om Fields [J]. Journal of Chinese Information Processing,2013,27 (3): 69-76.)   \n[21]刘全超，黄河燕，冯冲．面向中文微博的评价对象与评价词语联合 抽取[J]．电子学报,2016,44（7):1662-1670.(Liu Quanchao,Huang Heyan，FengChong.Con-extractingopiniontargetsand opinion-bearing words in Chinese micro-blog texts [J]. Acta electronica sinica,2016,44 (7): 1662-1670. )   \n[22]王治敏，朱学锋，俞士汶．基于现代汉语语法信息词典的词语情感 评价研究[J]．中文计算语言学期刊，2005，10(4):581-592.(Wang Zhimin，Zhu Xuefeng,Yu Shiwen.Research on lexical emotional evaluation based on the grammatical knowledge-base of contemporary Chinese [J]. International Journal of Computational Linguistics and Chinese Language Processing,2005,10 (4): 581-592.)   \n[23] Lafferty JD,Mccallum A,Pereira F C N.Conditional random fields: probabilistic models for segmenting and labeling sequence data [C]/ Proc of the 18th International Conference on Machine Learning.New York:ACM Press.2001: 282-289.   \n[24]雷志城，廖祥文．结合领域知识的中文句子评价对象抽取[J].福州 大学学报 :自然科学版,2013,41(3):297-304.(Lei Zhicheng,Liao Xiangwen.Integrate domain knowledge to extract opinion targets from Chinese sentences [J]. Journal of Fuzhou University :Natural Science Edition,2013,41 (3): 297-304.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

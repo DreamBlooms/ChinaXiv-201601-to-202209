@@ -1,0 +1,489 @@
+# 反驳文本对患方信任和道德判断的影响与机制
+
+吕小康’付春野² 汪新建1
+
+# 南开大学周恩来政府管理学院社会心理学系 天津 3003502天津师范大学心理与行为研究院　天津 天津300074
+
+摘 要：采用反驳文本范式对患方进行知识修正，提升患方对医方的信任和道德判断。预实验编制反驳文本并验证其有效性，实验1验证反驳文本可以显著提高患方的对医信任和道德判断，并发现医疗结果是影响患方信任和对医道德判断的重要因素。实验2和实验3探究了反驳文本有效性的作用机制及适用普遍性，发现不确定性容忍度和宽容度在反驳文本和患方信任及道德判断之间呈链式中介作用，且反驳文本可脱离医学情境提升普遍患方信任。
+
+关键词：反驳文本；医患关系；患方信任；道德判断；不确定性容忍度
+
+# 1问题提出
+
+医患信任缺失是兼具世界范围内的普遍性和中国社会下的特异性的难题。患者虽然可能高度信任现代医学的治疗能力，但对医生个体的道德水平和诊断水平却可能持有普遍性的怀疑态度（罗森伯格，2007/2016，p.7）。患者在接受医生给出的诊疗信息时，是同时进行专业判断（技术信任）和道德判断（道德信任）的双重信任判断过程：既想确定医生给出的意见是否足够专业，又在判定医生是否存在可能损害患者利益的非治疗性动机，如过度治疗（Heather etal.，2017）或防御性治疗（defensive medicine），即为避免医疗风险与医疗诉讼而开具不必要的检查和药物、进行不必要的治疗、回避收治高危病人或高危治疗方案等（He,2014；谭亚，2011）。但由于医患之间天然存在的知识鸿沟与认知差异，患方对医方可信度的判断，往往倾向于看重医德而非医技，因为后者通常超过其医学知识范畴，而道德判断却可脱离知识背景，从医患互动的细节，如医生的表情、语气等直观线索中加以推断。例如，在医患沟通中，医方更倾向采用逻辑判断、更重视客观证据与信息传递，而患方更倾向采用情感判断，更重视主观感受与和谐气氛（Clack,Allen,Cooper,&Head，2004）；患方易从消极角度理解医方的某些中立的、无特定指向的言语（吕小康，赵晓繁，2019），并倾向于将医方的防御性医疗行为归因为个别医生或个别医院的“利益熏心”，而医方则可能认为这只是医学诊断的不确定性和疾病治疗过程固有的多变性所必然导致的结果（吕小康，2019）。这些都会造成医患之间的深层隔阂，不打破这种隔阂，医患沟通就无法顺畅地进行。
+
+但目前致力于改善医患沟通、提升医患信任的心理学研究中，多重视提升医方个体的道德水平、服务态度和沟通技能等内容，进而改善患方的就医体验并提升患方的对医信任（Dang,Westbrook,Njue,&Giordano,2017；王敏，兰迎春，赵敏，2015；王廷婷，阎英，吕东阳，闫硕，林杰，2016）。这是一种着重改善医方对患方的信息沟通方式、重视医德培育和监管的“医方导向”策略。但是，单纯要求医方的技能提升或德性改善，甚至可能过分拔高患方的就医期待，形成患者心中的医方有义务为自身健康负责的“无限责任意识”，与医方群体自我保护式的“有限责任意识”之间的思维方式形成差异（孙祺媛，董才生，2015），从而在实质上恶化医患关系。为此，还需要有从患方导向的研究与实践加以弥补，才能更有效地改善医患之间的认知偏差与行为差异。
+
+其实，医方群体的认知模式也非天然形成，而是后天长期培训的结果。严格的医学执业资格考试与长期的医疗实践，又使医方有更多机会接触到普通患者较少接触到的反常识、反直觉的医学知识，以及一些医疗中的意外与罕见病例。此外，潜在的医疗纠纷风险，也会使医方尽可能地按照医疗规范行事，避免出现个体化、情绪化的决策。因此，医方总体上会呈现偏重逻辑证据、熟稔“冷门”医学知识、容忍医疗结果不确定性并对可能的治疗风险和患方投诉风险进行提前规避等高度理性化的认知模式和行为倾向（Kim& Lee,2018；王鹏飞，尚鹤睿，曾诗慧，2018）。若能找到特定的方式进行有效的患者教育，使患方的认知模式向医方的认知方式靠拢，就可在执行医方导向策略的同时，增加患方导向的策略，从而形成提升医患信任的合力。
+
+早期研究发现，引导被试思考“相反的可能性”或者是任何合理的替代结果，都可以达到降低认知偏差的效果（Lord,Lepper,&Preston,1984;Hirt&Markman,1995）。近期的研究成果表明简单的干预也可以降低认知偏差并实现态度转变，如 Broockman 和 Kalla（2016）发现采用十分钟的鼓励性谈话就能持久减少人们对变性人的歧视。这为降低患方认知偏差提供启发：能否通过特定的方式，提醒患方其先前知识和主观直觉可能是错误的，从而促进自我反省和监控，在接受新的医学知识的过程中降低认知偏差，从而更加认同和理解医方的诊断与治疗意见，进而提升对医方的信任度？实际上，已有研究通过知识修正（knowledgerevision）对个体先前获得的错误知识进行修正，其方式是提供反驳文本（refutation texts），即声明先前获得的知识是不正确的，然后直接反驳并同时提供正确的知识（Kendeou,Walsh,Smith,&O'Brien,2014）。能够产生说服作用的反驳文本包含三个主要成分：明确的声明错误知识或信念；明确的反驳错误知识或信念（Guzzetti,2000）；对正确知识或信念的解释（Kendeou,Smith,&O'Brien，2013）。反驳文本有助于个体去学习反直觉的信息，促进批判性地思考（Hynd,2001）；同时，它还能够自发地促进新情境下的知识修正，在转换文本中能够激活之前学习到的正确知识（Beker,Kim,Boeke,van denBroeka,&Kendeoub,2019）。
+
+现实中人们虽普遍关注医学和健康的常识性知识，但往往无法保证所得知识的正确性。可设想通过使用反驳文本，使个体意识到自身已有的医学健康知识可能是错误的或匮乏的，并激发其对相关知识的兴趣，进而促使患方更为积极地看待医方的专业判断以及医学过程的一些例外情形，从而有意识地避免对医方一些负面的揣测与判断。当然，使个体接受违反直觉经验的观念是一个微妙且需要具有说服力的过程（Pyysiainen,2003），明显的带有价值观的信息灌输，结果可能事倍功半、甚至适得其反。为此，在修正患方已有知识的过程中，需要加以审慎地选择，先暂时避开涉及过多情感和价值观负荷的知识成分，而专注于相对客观、但又较少为患方认知到的医学与健康知识，以降低其对信念修正的心理阻抗，加速认知模式的转变。
+
+基于上述思考，预实验拟编制反驳文本干预材料，文本内容为患者通常不了解、经常出错、但又不涉及个体核心的价值体验与医学信念的医学和健康知识，并采用问答的形式来呈现文本。在被试对相应题目进行回答之后，再提供正确答案及相应解析进行知识修正。通过分析被试的错答率及反馈，可估计一般意义上的被试对同样内容的错答率与知识修正信念。若能成功验证反驳文本材料的有效性，则可进一步验证反驳文本能否改变在具有医患群体认知差异的相关情境下对医生决策的道德判断模式，同时提升对其决策的信任水平。
+
+实验1假设反驳文本能够促使患方产生认同医方决策的判断并提升患方信任水平。以“小孩反复发烧是否需要做骨髓穿刺检查”为主题材料，该主题在儿童发烧就诊事件中具有一定的普遍性。某些家长可能认为做骨髓穿刺是医生想借此增加医院或个人的收入，而医生可能认为这是为了做出更准确的医学判断，因为未明原因的反复发烧确实可能是白血病的征兆（缪晓娟，邓锐，范方毅，何光翠，苏毅，2017）。将被试随机分组至提供反驳文本组和未提供反驳文本组（空白对照组），然后提供情境材料。在医生给出进行骨髓穿刺建议后，首先让被试预测材料中的患方是否会听从医生的建议，以验证反驳本文对被试的行为倾向的影响；然后让被试对医生的意图进行道德评价。再操纵材料中患方的不同行为反应（做检查vs不做检查）及不同结果（后续未检出异常vs后续检出白血病），验证反驳文本情境下的患方信任水平是否得到提升。
+
+实验2在实验1的基础上探究反驳文本影响患方信任和道德判断的中介机制。医学实践的结果并非总是精确，医患双方均需在不确定性的医疗情境下做出判断和决策(Luther&Crandall,2011），同时需要双方共同的智慧去协调处理治疗现实中的诸多不完善之处。但是，无法忍受不确定性的个体，往往倾向于对刺激做出负性的评价（Koerner& Dugas,2008）。多数患方因为缺乏医学专业教育，其洞察自身医学知识、求医信念的局限性的能力水平可能较低，不易容忍特定事物的不确定性而总是期待理想化结果，尽管这种结果出现的可能性并不一定如个体所愿。相反，若能通过反驳文本促进患方提升其认知层面的反思，从而意识到一些貌似不可能发生的医学事实是客观存在，可假定其能提高对意外结果的容忍度；在此基础上，患方也有可能更合理宽容地看待医方未能在不确定情境中做出完全精准的判断，从而不失去对医方决策的信任。由此，实验2以不确定性容忍度和对医宽容度作为影响患方信任和道德判断的中介变量，假设不确定性容忍度和宽容度在反驳文本对患方信任的提升和对医方道德判断的转变中起到链式中介作用，以进一步明确反驳文本促进和谐医患关系的作用机制。
+
+实验3采用与实验2相同的患方信任问卷，要求被试根据自身就医或陪同就医体验来回答，以探究反驳文本的有效性是否具有脱离情境材料的普遍性。
+
+# 2预实验：反驳文本材料的编制及有效性检验
+
+# 2. 1 研究方法
+
+# 2.1.1 被试
+
+采用方便抽样法招募103名非生物医药类大学生参与实验。其中男生56人，女生47人，被试平均年龄为21岁（ $S D { = } 1 . 1 3$ ）。以班级为单位在课间进行现场填写并回收，全部作答完即视为有效。103份问卷全部有效。
+
+# 2.1.2 实验材料
+
+浏览医学专业书籍和文献，按如下标准搜集题目：问题简短且易懂；属于生理、医学、健康领域的知识；可以通过直觉或常识进行判断。比如：“肾移植是指用健康肾源替换患者体内不健康的肾”（正确答案是错。肾移植是指将健康肾源移植到患者体内，一般不取出患者原有的不健康的肾，所以通常做了肾移植手术的患者体内会比正常人多一个肾）、“直系亲属之间不宜相互输血”（正确答案是对，直系亲属间输血后发生移植物抗宿主病的概率比非亲属间输血要大的多，且这种并发症通常是致命的）。预期干预效果为，被试看到题目，直觉上认为自己会做对，但实际做完之后参考正确答案，却发现自己做错了。同时预期该过程可提醒被试反思自身的直觉判断是不准确的，进而启发其审慎思维。
+
+基于以上标准，搜集10个条目。请1位内科主治医师、1位外科主治医师和2位临床医学研究生对上述10个条目进行评定，根据其建议保留5个条目作为预实验的反驳文本的问题材料。正式反驳文本材料分为4个部分：问题、答案及解析、干预有效性自评和正确答案来源。其中，问题的回答形式为判断对错；反驳文本干预有效性的检验采取主观评分，让被试对“通过做题和阅读，我发现自己原有的认识不一定是对的”进行李克特5点计分。完整的反驳文本材料参见附录1。
+
+# 2.1.3 实验程序
+
+在班级进行集体施测，由主试发放问题试卷，标题为"医学健康知识测试”。在被试作答完毕后发放正确答案及解析，要求被试仔细阅读并回答干预有效性自评题目。收回问卷后，对所有被试公布答案来源。
+
+# 2.2 结果与讨论
+
+预实验的结果描述见表1。至少答错1题的总比率为 $9 4 . 2 \%$ 。整体而言错答率较高，说明题目选取有效。错答情况只是从一个维度证明题目选取的有效性，即被试先前获得的知识以及直觉推断的知识是错误的。同时，由于题目为二元判断题，被试即使胡乱猜测也可以命中正确答案，故答案的分布存在一定的随机性。实验预期的结果是被试在完成题目及参看答案后，能够积极地认识到自己的原有看法并不一定是对的。因此还需对文本是否改变其之前的信念进行检验。干预有效性的检验采用“非常不同意”到“非常同意”的李克特5点计分，分数越高表示越认同；选择“同意”和“非常同意”的被试视为干预有效。结果发现，干预有效性百分比为 $7 8 . 6 \%$ 。据此预计，在后续实验中有超过$70 \%$ 的被试能够成功应用此反驳文本。
+
+表1预实验错答情况和干预有效性自评   
+
+<html><body><table><tr><td>类别</td><td>条件</td><td>人数</td><td>比率(%)</td></tr><tr><td rowspan="6">错答情况</td><td>全部正确</td><td>6</td><td>5.8</td></tr><tr><td>错1题</td><td>16</td><td>15.5</td></tr><tr><td>错2题</td><td>20</td><td>19.4</td></tr><tr><td>错3题</td><td>25</td><td>24.3</td></tr><tr><td>错4题</td><td>30</td><td>28.6</td></tr><tr><td>全部错误</td><td>6</td><td>5.8</td></tr><tr><td rowspan="5">干预有效性自评</td><td>非常不同意</td><td>2</td><td>1.9</td></tr><tr><td>不同意</td><td>4</td><td>3.9</td></tr><tr><td>一般</td><td>16</td><td>15.5</td></tr><tr><td>同意</td><td>48</td><td>46.6</td></tr><tr><td>非常同意</td><td>33</td><td>32.0</td></tr></table></body></html>
+
+# 3实验1：反驳文本对患方信任和道德判断的影响
+
+# 3.1 研究方法
+
+# 3.1.1 实验设计
+
+实验1采用2（反驳文本：干预组/控制组） $\times 2$ （遵医嘱行为：做检查/不做检查） $\times$ 2（检查结果：普通发烧/淋巴细胞白血病）的被试间设计。其中，反驳文本的控制组采用空白对照方式进行。因变量包括被试在不同实验阶段对材料中医生的道德判断以及最后对医生的信任水平。控制变量为性别、年龄、婚姻状况（已婚/未婚）和生育状况（已育/未育）。
+
+# 3.1.2 被试
+
+实验对象为正在就医的医院患者及陪伴家属，以及最近6个月内有真实就医体验的18 周岁以上被试，并排除有医学背景的被试。被试来自在上海、西安、宁波、长春、天津五地的医院或社区，以“健康知识小测验”的名义在医院候诊区或住院病房，以及小区休闲场所进行测试。情境材料中包含关键的医疗信息和变量信息，在不同环节设置了相应的操纵检验题目，未能通过操纵检验的被试数据在后期予以删除。预设每个实验组的有效被试数为35人，考虑到预实验中 $7 8 . 6 \%$ 的反驳文本成功率，并考虑被试不认真做答等情形，按 $20 \%$ 估计无效被试率，因此计划每实验组的被试人数为45人。共发放实验问卷360（45$\times 8 )$ ）份，回收360份。其中51名被试未通过操作检查，将数据视为无效予以删除。得到有效被试309人，有效率为 $8 5 . 8 3 \%$ 。其中男性137人，女性172人；平均年龄为31岁（ $. S D { = } 8 . 9 1$ ）。
+
+# 3.1.3 实验材料
+
+实验1的材料包含两部分：第一部分为预实验中编制并验证的反驳文本材料；第二部分为自编的医患互动情境材料，要求被试仔细阅读并根据情境材料作答，测量被试对材料中医生的道德判断和信任等。
+
+情境材料以"小孩发烧，医生建议做骨髓穿刺检查"为主题进行编制，并以简易漫画形式呈现，以提高可读性（图1）。
+
+材料的背景设置为王先生因孩子反复发烧，带孩子来医院做检查。在做完血常规检查后，还不能确诊病情，医生建议做骨髓穿刺检查。面对此情境，王先生无法进行有效的决策，并要求医生对此做出解释。医生对王先生的疑问做出了简单的回应。现实中，医生做出这一建议具备医学理由，因为血常规检查不能确诊病情且血象异常、患者是儿童且反复发烧，医生确实需要通过骨髓穿刺来排除恶性疾病的可能性。材料语句呈现力求简洁、中性。例如医生在面对王先生的疑问时说：“一两句话很难解释清楚”，这句话如果用不同的语气，就会体现出完全不同的态度。既可以是平和的，也可以是不耐烦的，留待被试做出主观理解。而不同的主观理解，会引导被试对医生的道德判断和信任水平做出不同的判断。实验初始材料编制完成后，请预实验中的专家对材料设计的合理性以及医学知识的准确性做出评估，修改后正式定稿。
+
+![](images/2c665b306fc61deef1aa7cc7576c6d4db5151bd49b4040a45114ae188ea70727.jpg)  
+图1医患对白情境
+
+在要求被试对王先生是否配合医生建议进行检查做出预测以及对医生进行道德判断后，随机给出以下4种情境之一（做了检查，最后结果为普通发烧；做了检查，最后检出淋巴细胞白血病；不做检查，最后结果为普通发烧；不做检查，最后检出淋巴细胞白血病）。具体表述见附录2。呈现情境材料后再测量被试对材料中医生的道德判断和信任程度。
+
+# 3.1.4 测量工具
+
+道德判断测量：鉴于意图推断在道德判断中具有重要作用（Youngetal.,2007），实验1采用意图推断对道德判断进行操作性定义。要求被试对下面两句话进行李克特5点记分：“医生建议做骨髓穿刺的目的是为了多赚钱”（反向记分）和"医生建议做骨髓穿刺的目的是为了更明确的诊断”。分数越高，被试对材料中医生的道德判断越高，反之越低。
+
+患方信任测量：采用吕小康、弥明迪、余华冉、王晖和何非（印刷中）编制的《中国医患信任量表》患方量表的B部分，用于测量患者对医生个体的人际信任水平，共13个条目，采用李克特5点计分，其中第8题反向计分。总分分数越高，代表对医生的信任度越高。该部分量表内容与实验中情境材料的设置具有较高的契合度，专家评定肯德尔和谐系数为0.81；同质性系数 $\mathfrak { a }$ 为0.95，2周重测信度为0.91（见附录3）。
+
+# 3.1.5 实验程序
+
+为尽量丰富被试的地域分布，在学校统一培训心理学研究生为调查员，后赴上海、西安、宁波、长春、天津这5个城市的提前建立合作关系的三级甲等医院（各2所），以及自行选择的城市社区（各2个)作为调查点。本实验采用现场一对一的形式进行问卷填写，先获得其知情同意，然后将被试随机地分配至反驳文本材料干预组和控制组。在干预组被试作答完题目后，提供正确答案和解析，然后对被试提供医患情境材料，并要求其回答后续问题；对控制组被试直接提供情境材料，并要求其回答后续提问。具体步骤如下：
+
+步骤一：呈现情境描述和医患对白，情境描述内容如下：
+
+王先生的孩子今年六岁，近两个星期反复发烧，于是王先生带孩子来到当地的一家综合门诊。医生询问完基本症状后，要求做完血常规检查再来问诊。王先生带着孩子做完血常规后，与医生进行了如下对话。
+
+医患白部分为使被试更好的进入医患互动情境以及减轻阅读负担，采用漫画和文字组合的形式，见图1。
+
+步骤二：填写操作检验题目。要求被试回答医生建议做的检查项目和骨髓穿刺检查的费用，两道题目全部做对的数据作为有效数据，答错1题即视为无效数据，在后续分析过程中予以删除。
+
+步骤三：要求被试预测材料中王先生是否会听从医生的建议，回答“是"或"否”；要求被试对医生的建议进行意图判断（道德判断前测）。
+
+步骤四：对被试随机呈现4种情境之一。每个调查员提供给被试一个装着四支外观完全一致的中性笔笔筒，但每支笔底部标有编码（分别为a、b、c、d）。要求被试随机从中选择1支笔，之后以"检验笔是否好用"为由查看笔底部编码。根据编码数字，对被试提供不同的情境材料（a为做检查/普通发烧，b为做检查/淋巴细胞白血病，c为不做检查/普通发烧，d为不做检查/淋巴细胞白血病）。
+
+步骤五：要求被试对医生的建议进行意图判断（道德判断后测），并填写患方信任量表。
+
+步骤六：填写性别、年龄、婚育状况等基本信息后收回问卷，检查作答完整性，发放实验礼品，并解释实验目的。
+
+# 3.2 结果与讨论
+
+# 3.2.1 反驳文本干预的有效性检验
+
+与预实验结果一致，数据结果显示被试误答百分比为 $9 7 . 4 \%$ ，干预有效百分比为$8 0 . 6 \%$ 。实验1的反驳文本干预有效。
+
+# 3.2.2 控制变量
+
+各自以道德判断前测、道德判断后测和患方信任为因变量，以性别（ $0 =$ 男， $1 =$ 女）、年龄（连续变量）、婚姻状况（ $0 =$ 未婚， $1 =$ 已婚）、生育状况（ $0 =$ 未育， $1 =$ 已育）为控制变量，分别建立因变量与控制变量的回归方程；再加入反驳文本干预、遵医嘱行为和检查结果3个自变量，联合前述控制变量对因变量建立多元线性回归方程。结果发现，在两组方程中，性别、年龄、婚姻和生育状况对道德判断前后测和患方信任的预测作用均不显著（详见附录6中的表1），故在后续分析中不作为控制变量。
+
+# 3.2.3反驳文本对道德判断前测的影响
+
+反驳文本组（ $\overset { \cdot } { n } = 1 5 5 )$ 道德判断前测的平均分为7.52（ $S D = 1 . 6 9 \$ ），控制组（ ${ \bf \tilde { \rho } } _ { n } = 1 5 4 )$ ，道德判断前测的平均分为6.32（ $S D = 1 . 9 9$ ）。以干预措施为自变量，道德判断前测为因变量，做独立样本 $t$ 检验。结果显示，反驳文本干预对道德判断前测的影响显著， $t ( 3 0 7 ) \ =$ 5.74， $p { < } 0 . 0 0 1$ ， $d = 0 . 6 5$ 。实验组的被试更倾向于判断医生建议做骨髓穿刺检查是为了明确的诊断，对医生的道德水平判断较高。
+
+# 3.2.4反驳文本对被试预测患方行为的影响
+
+反驳文本组（ $\ \cdot \ n = 1 5 5$ ）预测王先生会带孩子做检查的人数为104人（ $6 7 . 1 \%$ ），控制组（ $n = 1 5 4 { \mathrm { ; } }$ ）预测王先生会带孩子做检查的人数为83人（ $5 3 . 9 \%$ ），反驳文本组预测做检查的概率显著高于控制组，双样本比例差检验的 $p = 0 . 0 1 2$ （单侧检验）。说明反驳文本可以显著提升被试预测情境材料中王先生听从医生建议的可能性，据此可推论接受反驳文本可提升患方的医嘱依丛性。
+
+# 3.2.5反驳文本干预对道德判断后测和信任的影响
+
+反驳文本干预实验组和控制组中不同行为方式和检查结果条件下道德判断和患方信任得分的结果描述见表2。
+
+表2反驳文本干预、行为方式及检查结果条件下道德判断和患方信任得分  
+
+<html><body><table><tr><td rowspan="2">反驳文本</td><td rowspan="2">遵医嘱行为</td><td rowspan="2">检查结果</td><td rowspan="2">n</td><td>道德判断 (后测)</td><td>患方信任</td></tr><tr><td>M±SD</td><td>M±SD</td></tr><tr><td rowspan="4">实验组</td><td rowspan="2">做检查</td><td>普通发烧</td><td>40</td><td>7.63±1.72</td><td>44.85±8.01</td></tr><tr><td>淋巴细胞白血病</td><td>41</td><td>8.39±1.26</td><td>49.10±5.83</td></tr><tr><td rowspan="2">不做检查</td><td>普通发烧</td><td>36</td><td>6.92±1.61</td><td>43.17±9.48</td></tr><tr><td>淋巴细胞白血病</td><td>38</td><td>8.82±1.14</td><td>47.18±8.06</td></tr><tr><td rowspan="4">控制组</td><td>做检查</td><td>普通发烧</td><td>42</td><td>5.95±2.32</td><td>35.40±10.97</td></tr><tr><td rowspan="2"></td><td>淋巴细胞白血病</td><td>38</td><td>7.13±1.61</td><td>41.05±9.41</td></tr><tr><td>普通发烧</td><td>38</td><td>5.21±2.04</td><td>34.39±8.31</td></tr><tr><td>不做检查</td><td>淋巴细胞白血病</td><td>36</td><td>7.78±1.40</td><td>45.64±8.22</td></tr></table></body></html>
+
+以道德判断（后测）和患方信任为因变量，对数据进行2（反驳文本：实验组/控制组）$\times 2$ （遵医嘱行为：做检查/不做检查） $\times 2$ （检查结果：普通发烧/淋巴细胞白血病）的三因素方差分析。结果显示，反驳文本干预对道德判断影响显著， $F$ (1， $3 0 1 ) \ = \ 5 4 . 5 1$ ， $p$ （204号${ < } 0 . 0 0 1$ ， $\eta ^ { 2 } = 0 . 1 5$ ，反驳文本组被试更倾向于认为医生建议做骨髓穿刺检查是为了明确的诊断；检查结果对道德判断的影响显著， $F \ ( 1 , \ 3 0 1 ) = 6 9 . 5 5$ ， $p { < } 0 . 0 0 1$ ， $\eta ^ { 2 } = 0 . 1 9$ 当检查结果为淋巴细胞白血病时，被试更倾向于认为医生建议做骨髓穿刺检查是为了明确的诊断；遵医嘱行为和检查结果的交互作用显著（图2）， $F \left( 1 , 3 0 1 \right) = 1 0 . 7 6$ ， $p = 0 . 0 0 1$ ，$\eta ^ { 2 } = 0 . 0 4$ ；遵医嘱行为对被试道德判断的影响不显著。
+
+简单效应分析结果发现，遵医嘱行为在检查结果的两个水平上的效应方向相反。在检查结果为普通发烧的情况下，做检查组的被试更倾向于认为医生建议做骨髓穿刺检查是为了明确的诊断，而不做检查组的被试更倾向于认为医生是为了经济利益， $F$ (1，154)$= 7 . 1 8$ ， $p = 0 . 0 0 8$ ， $\boldsymbol { \eta } ^ { 2 } = 0 . 0 2$ ；在检查结果为淋巴细胞白血病的条件下情况刚好相反，不做检查组被试更倾向于认为医生建议做骨髓穿刺是为了明确的诊断（边缘显著）， $F ( 1 , 1 5 1 )$ ）$= 3 . 6 9$ ， $p = 0 . 0 5 1$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 0 1$ 。
+
+![](images/943c60e4ddc8ea83d71168d9a138b06fc8ee659d739b0c96b9a10ad254e990f0.jpg)  
+图2不同检查结果条件下遵医嘱行为对道德判断的影响
+
+同时，反驳文本干预对信任的影响显著， $F$ (1， $3 0 1 ) = 5 0 . 0 8$ ， $p { < } 0 . 0 0 1$ ， $\eta ^ { 2 } = 0 . 1 4$ 反驳文本组被试对医生的信任得分显著高于控制组；检查结果对信任的影响显著， $F$ （1，$3 0 1 ) = 4 0 . 9 9$ ， $p { < } 0 . 0 0 1$ ， $\boldsymbol { \eta } ^ { 2 } = 0 . 1 2$ ，检查结果为淋巴细胞白血病组的信任得分显著高于普通发烧组；反驳文本干预和检查结果的交互作用显著， $F \left( 1 , 3 0 1 \right) = 4 . 8 2$ ， $p = 0 . 0 2 9$ ， $\boldsymbol { \eta } ^ { 2 } =$ 0.02（图3）。
+
+简单效应分析结果发现，反驳文本干预的实验组和控制组的两个水平上，检查结果从一个水平到另外一个水平的变化引起的因变量的变化趋势一致，但是变化幅度不一致。反驳文本干预的有效性在检查结果为普通发烧的水平上的变化幅度大于其在淋巴细胞白血病上的变化幅度。也就是说，在检查结果为普通发烧时，反驳文本对信任的影响效果更加明显。检查结果本身是影响被试是否信任医生的关键因素，即在检查结果为淋巴细胞白血病的情境下，控制组的被试也会倾向于认为医生的建议是合理的，对医生的信任度较高。被试以最终的结果作为对信任的主要评价标准。
+
+![](images/dab6afdd7094d3865552a85c123149e3ede770c2387a1d6a176cc8584a75dcad.jpg)  
+图3不同检查结果条件下反驳文本对患方信任的影响
+
+实验1的情境材料在呈现最终的检查结果之前，设置了相应的题目，以考察被试对材料中医生的道德判断以及对王先生的行为预测。这实际上是引导被试在结果呈现之前先思考医生的意图。可进一步思考：如果直接将检查结果呈现给被试，反驳文本是否仍然有效，其作用机制是什么？为此，实验2采用直接将医疗结果呈现给被试的方式，探讨反驳文本干预和检查结果对患方信任及道德判断的影响。此外，加入不确定性容忍度和对医宽容度两个变量作为探究作用机制的中介变量。
+
+# 4实验2：反驳文本和检查结果对患方信任和道德判断的影响及机制
+
+# 4.1 研究方法
+
+# 4.1.1 实验设计
+
+实验2采用2（反驳文本：干预组/控制组） $\times 2$ （检查结果：普通发烧/淋巴细胞白血病）的被试间设计。其中，反驳本文控制组采用空白对照。因变量包括被试对材料中医生的道德判断以及信任水平。加入不确定性容忍度和对医宽容度作为中介变量，控制变量为性别、年龄、婚姻状况和生育状况。
+
+# 4.1.2 被试
+
+实验2被试的选取标准与实验一相同。共发放实验问卷180（ $4 5 \times 4$ ）份，回收180份，其中15 名被试未通过操作检查，将数据视为无效予以删除。得到有效被试165人，
+
+有效率为 $9 1 . 6 7 \%$ 。其中男性86人，女性79人，平均年龄为33岁（ $_ { \scriptstyle S D = 9 . 0 8 }$ ）。
+
+# 4.1.3 实验材料
+
+实验2的材料包含两部分：第一部分为预实验中编制并验证的反驳文本材料，对于实验组被试呈现反驳文本材料后测量被试的不确定性容忍度和对医宽容度，控制组被试直接测量不确定容忍度和对医宽容度；第二部分为自编的医患互动情境材料，材料中的情境描述部分和医患对白部分与实验一相同，在被试阅读完对白后直接向被试提供检查结果。随机给出以下2种情境之一（普通发烧vs淋巴细胞白血病）。呈现情境后再测量被试对材料中医生的道德判断和信任程度。
+
+# 4.1.4 测量工具
+
+不确定性容忍度测量：采用张亚娟等（2017）翻译的不确定性容忍度量表简版，内部一致性信度为 $0 . 7 0 { \sim } 0 . 8 8$ ，重测信度为 $0 . 7 0 { \sim } 0 . 7 8$ 。具有较好的结构效度，验证性因素分析结果显示拟合指标良好（见附录4）。此量表共有12个条目，采用李克特5点计分。使用反向计分方式，总分分数越高，不确定性容忍度越高。
+
+对医宽容度测量：采用吕小康、汪新建、张慧娟、刘颖、张曜和王骥（2019）编制的患方医患社会心态问卷（患方卷）中的医患宽容度分问卷的对医宽容条目。问卷内部一致性系数在 $0 . 7 5 7 \sim 0 . 9 3 2$ 之间，两周重测信度在0.632\~0.759之间，专家评定效度良好（见附录5)。使用医患宽容分问卷中对医宽容的6个题目，采用李克特5点计分。其中第1、2、4、5题反向计分，总分分数越高，对医宽容度越高。
+
+道德判断和患方信任的测量工具同实验1。
+
+# 4.1.5 实验程序
+
+实验2的实验对象、抽样方法、实验流程和随机分组方法与实验1一致，不同之处在于将被试随机分为反驳文本干预组和控制组后，再将每组被试随机分成两组，分别为普通发烧组和淋巴细胞白血病组。具体步骤如下：
+
+步骤一：测量被试的不确定性容忍度和对医宽容度。
+
+步骤二：呈现情境描述和医患对白后对被试随机呈现普通发烧和淋巴细胞白血病两种情境之一。
+
+步骤三：填写操作检验题目。要求被试回答医生建议做的检查项目、骨髓穿刺检查的费用和最终的检查结果，三道题目全部做对的数据作为有效数据，答错1题即视为无效数据，在后续分析过程中予以删除。
+
+步骤四：要求被试对医生的建议进行意图判断，并填写医患信任量表。
+
+步骤五：填写性别、年龄、婚育状况等基本信息后收回问卷，检查作答完整性，发放实验礼品，并解释实验目的。
+
+# 4.2 结果与讨论
+
+# 4.2.1反驳文本干预的有效性检验
+
+数据结果显示被试误答百分比为 $100 \%$ ，干预有效百分比为 $7 2 . 3 \%$ 。实验2的反驳文本干预有效。
+
+# 4.2.2 控制变量
+
+与实验一的统计方法一致，对控制变量（性别、年龄、婚姻状况、生育状况）和自变量（反驳文本干预、检查结果）对不确定性容忍度、对医宽容度、道德判断和患方信任各自建立两组多元线性回归方程。结果发现，只有生育状况对道德判断的预测作用显著，t(4,$1 5 4 ) = 2 . 0 1$ ， $p = 0 . 0 4 7$ ， $B = 0 . 7 9$ ，在后续对以道德判断为因变量的分析中将生育状况作为协变量纳入（详见附录6表2）。
+
+# 4.2.3反驳文本干预和检查结果的两因素方差分析结果
+
+反驳文本干预实验组和控制组中不同检查结果条件下道德判断和患方信任得分的描述性统计结果见表3。
+
+表3反驳文本干预和不同检查结果条件下道德判断和信任得分  
+
+<html><body><table><tr><td rowspan="2">反驳文本</td><td rowspan="2">检查结果</td><td rowspan="2">n</td><td>道德判断得分</td><td>患方信任</td></tr><tr><td>M±SD</td><td>M±SD</td></tr><tr><td rowspan="2">实验组</td><td>普通发烧</td><td>44</td><td>7.20±1.49</td><td>41.57±8.72</td></tr><tr><td>淋巴细胞白血病</td><td>39</td><td>8.44±0.88</td><td>45.25±7.58</td></tr><tr><td rowspan="2">控制组</td><td>普通发烧</td><td>42</td><td>6.62±1.67</td><td>40.71±7.26</td></tr><tr><td>淋巴细胞白血病</td><td>40</td><td>7.76±1.25</td><td>45.17±8.41</td></tr></table></body></html>
+
+以道德判断为因变量，生育状况为协变量，对数据进行2（反驳文本：实验组/控制组）$\times 2$ （检查结果：普通发烧/淋巴细胞白血病）的双因素方差分析；以患方信任为因变量，对数据进行2（反驳文本：实验组/控制组） $\times 2$ (检查结果：普通发烧/淋巴细胞白血病)的双因素方差分析。结果显示，反驳文本干预对道德判断的影响显著， $F \left( 3 , \ 1 6 1 \right) = 7 . 0 4 \$ $p = 0 . 0 0 9$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 0 4$ ，实验组被试的道德判断得分显著高于控制组，即实验组被试更倾向于认为医生的建议是为了明确的诊断;检查结果对道德判断的影响显著， $F ( 3 , 1 6 1 ) { = } 3 1 . 4 7$ $p { < } 0 . 0 0 1$ ， $\eta ^ { 2 } = 0 . 1 6$ ，检查结果为淋巴细胞白血病组的道德判断得分显著高于普通发烧组;反驳文本干预和检查结果的交互作用不显著。
+
+同时，反驳文本干预对信任的影响不显著， $F$ （1，161）= 0.148， $p = 0 . 7 0$ ；检查结果对信任的影响显著， $F$ (1， $1 6 1 ) = 1 0 . 6 8$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 0 6$ ，检查结果为淋巴细胞白血病组被试对医生的信任得分显著高于普通发烧组；反驳文本干预和检查结果的交互作用
+
+不显著。
+
+上述分析表明，在直接将检查结果呈现给被试的条件下，反驳本文的干预效果对道德判断仍然有效（与实验1结果一致），但对信任的影响不显著。该结果表明道德判断和信任虽然存在诸多相关之处，但又存在一定的差异。信任是整合认知、情绪和行为的社会心理结构，兼具稳定性和情境性；而在意图和结果对于道德判断的共同作用中，意图加工占有更大的优势（Young etal.,2007）。也就是说道德判断和信任可能存在的区别是，道德判断更容易受到主观上对意图推断的影响，而信任更容易受到客观结果的影响。
+
+# 4.2.4反驳文本影响道德判断的中介机制
+
+使用 SPSS 中的 Process 插件，采用 Preacher 和 Hayes（2004）提出的 Bootstrap 方法进行中介效应检验。在自变量反驳文本和因变量道德判断之间，不确定性容忍度和对医宽容度作为两个次序中介，包含三条路径，路径1：反驳文本 $$ 不确定性容忍度 $$ 道德判断；路径2：反驳文本 $$ 不确定性容忍度 $$ 对医宽容度 $$ 道德判断；路径3：反驳文本→对医宽容度 $$ 道德判断。
+
+按照 Zhao，Lynch 和Chen（2010）提出的中介效应分析程序，参照Hayes（2013）提出的多步中介变量的检验方法，将反驳文本干预作为自变量 $X$ ，道德判断作为输出变量$Y _ { 1 }$ ，不确定性容忍度和对医宽容度依次作为中介变量 $M _ { 1 }$ 和 $M _ { 2 }$ 输入。加入检查结果及基本信息作为协变量纳入分析中。结果如表3所示。
+
+表4反驳文本影响道德判断的链式多重中介效应检验  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="3">不确定性容忍度 (Mi)</td><td colspan="3">对医宽容度 (M2)</td><td colspan="3">道德判断 (Yi)</td></tr><tr><td>回归系数</td><td>SE</td><td>p</td><td>回归系数</td><td>SE</td><td>p</td><td>回归系数</td><td>SE</td><td>p</td></tr><tr><td>反驳文本(X)</td><td>0.76</td><td>0.15</td><td><0.001</td><td>0.09</td><td>0.15</td><td>0.583</td><td>0.26</td><td>0.17</td><td>0.113</td></tr><tr><td>不确定性容忍度(Mi)</td><td></td><td></td><td></td><td>0.37</td><td>0.08</td><td><0.001</td><td>0.37</td><td>0.09</td><td>0.676</td></tr><tr><td>对医宽容度（M2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.20</td><td>0.08</td><td>0.018</td></tr><tr><td>常量</td><td>1.27</td><td>0.26</td><td><0.001</td><td>0.10</td><td>0.27</td><td>0.712</td><td>0.35</td><td>0.28</td><td>0.221</td></tr><tr><td colspan="4">R²=0.143</td><td colspan="4">R²=0.199</td><td colspan="2">R²= 0.089</td></tr><tr><td colspan="4">F（2，162）=13.50</td><td colspan="4">F（3，161）=13.34</td><td colspan="2">F（4，160）=3.93</td></tr><tr><td colspan="4">p<0.001</td><td colspan="4">p<0.001</td><td colspan="2">p = 0.005</td></tr></table></body></html>
+
+模型总效应的参数值为： $F$ （4， $1 6 0 ) = 3 . 9 3$ ， $p = 0 . 0 0 5$ ， $R ^ { 2 } = 0 . 0 8 9$ 。路径2的置信区间为（ $\cdot - 0 . 1 2 , \ - 0 . 0 1 )$ ，中介路径显著，效应量大小为0.06；路径1和路径3的中介路径不显著（图4）。与假设一致，反驳文本干预通过提升患者的不确定性容忍度后，再影响其对医宽容度，最后提高对医生的道德判断水平。因为在实验2的条件下，反驳文本对患方信任的影响不显著，所以不能判断不确定性容忍度和对医宽容度的中介作用是否也存在于反驳文本干预和患方信任之间。为解答这一问题，实验3去掉医患情境材料，请被试根据自身就医或陪同就医体验来回答相同的患方信任量表，同时加入不确定性容忍度和对医宽容度作为探究中介机制的变量。
+
+图4反驳文本影响道德判断的中介效应检验路径系数图  
+![](images/eb912e1a5bc1dc56168863c5dfd408c68bfc5425e22302758f227ce52aa5c7ed.jpg)  
+注：\*： $p < 0 . 0 5$ . $\boldsymbol { * } \boldsymbol { * } \boldsymbol { * } \boldsymbol { * }$ ： $p < 0 . 0 0 1$
+
+# 5实验3：无情境材料下反驳文本对患方信任的影响及机制
+
+# 5.1 研究方法
+
+# 5.1.1 实验设计
+
+实验3采用单因素被试间设计，自变量分为反驳文本实验组和控制组两个水平。其中，控制组采用空白对照组。因变量为被试对医生的信任水平。加入不确定性容忍度和对医宽容度作为中介变量，控制变量为性别、年龄、婚姻状况和生育状况。
+
+# 5.1.2 被试
+
+实验3被试的选取标准与实验1和实验2相同。共发放实验问卷90（ $4 5 \times 2$ ）份，回收 90 份，其中7名被试未通过操作检查，将数据视为无效予以删除。得到有效被试 83人，有效率为 $9 2 . 2 \%$ 。其中男性27人，女性56人，平均年龄为34岁（ $S D { = } 7 . 7 0 \$ ）。
+
+# 5.1.3 实验材料
+
+实验3的材料为预实验中编制的反驳文本材料。
+
+# 5.1.4 测量工具
+
+实验3中对不确定性容忍度、对医宽容度和患方信任的测量方式与实验2相同，对患方信任的测量更改了指导语，请被试根据自身的就医或陪同就医体验回答。
+
+# 5.1.5 实验程序
+
+实验3的实验对象、抽样方法和实验流程与实验1和实验2一致，将被试随机分为反
+
+驳文本干预实验组和控制组。具体步骤除去掉医患互动情境材料外，同实验2。
+
+# 5.2 结果与讨论
+
+# 5.2.1 反驳文本干预的有效性检验
+
+数据结果显示被试误答百分比为 $100 \%$ ，干预有效百分比为 $7 9 . 5 \%$ 。实验三的反驳文本干预有效。
+
+# 5.2.2 控制变量
+
+分别以性别、婚姻状况和生育状况为自变量，以不确定性容忍度、对医宽容度和患方信任为因变量，做独立样本t检验，结果均不显著；分别以年龄单独作为自变量，以及以年龄和反驳文本干预同时作为自变量对不确定性容忍度、对医宽容度和患方信任各自建立两组回归方程。结果发现，年龄对宽容度预测作用显著， $t ( 8 1 ) = 3 . 3 1 , p = 0 . 0 0 1 , B = 0 . 1 6 ;$ 在后续的链式中介分析中将年龄作为协变量纳入（详见附录6表3）。
+
+# 5.2.3 反驳文本干预对患方信任的影响
+
+无情境材料组中，反驳文本干预组被试39人，患方信任得分的的平均数为 $4 5 . 0 8 \pm$ 7.23；控制组44人，患方信任得分的平均数为 $3 8 . 6 1 \pm 6 . 1 9$ 。独立样本 $\mathbf { \chi } _ { t }$ 检验结果发现，反驳文本对患信任的影响显著， $t ( 8 1 ) = 4 . 3 9$ ， $p { < } 0 . 0 0 1$ ， $d = 0 . 9 6$ 。
+
+# 5.2.4反驳文本影响患方信任的中介机制
+
+中介分析方法同实验2。以患方信任作为输出变量 $Y _ { 2 }$ ，包含三条路径：路径1：反驳文本 $$ 不确定性容忍度 $$ 患方信任；路径2：反驳文本 $$ 不确定性容忍度 $$ 对医宽容度→患方信任；路径3：反驳文本 $$ 对医宽容度 $$ 患方信任。数据分析结果见表4。
+
+表5反驳文本影响患方信任的链式多重中介效应检验  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="3">不确定性容忍度 (Mi)</td><td colspan="3">对医宽容度 (M2)</td><td colspan="3">患方信任 (Y2)</td></tr><tr><td>回归系数</td><td>SE</td><td>p</td><td>回归系数</td><td>SE</td><td>P</td><td>回归系数</td><td>SE</td><td>P</td></tr><tr><td>反驳文本(X)</td><td>0.68</td><td>0.23</td><td>0.004</td><td>0.56</td><td>0.20</td><td>0.583</td><td>0.41</td><td>0.21</td><td>0.056</td></tr><tr><td>不确定性容忍度(Mi)</td><td></td><td></td><td></td><td>0.41</td><td>0.09</td><td><0.001</td><td>0.01</td><td>0.10</td><td>0.918</td></tr><tr><td>对医宽容度（Mz)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.55</td><td>0.11</td><td><0.001</td></tr><tr><td>常量</td><td>0.09</td><td>0.56</td><td>0.876</td><td>0.37</td><td>0.47</td><td>0.712</td><td>0.61</td><td>0.47</td><td>0.201</td></tr><tr><td colspan="4">R²=0.133</td><td colspan="4">R²=0.410</td><td colspan="2">R²= 0.420</td></tr><tr><td colspan="4">F（2，80）=6.15</td><td colspan="4">F（3，79）=18.30</td><td colspan="2">F（4，78）=14.09</td></tr><tr><td colspan="4">p=0.003</td><td colspan="3">p<0.001</td><td colspan="3">p<0.001</td></tr></table></body></html>
+
+模型总效应的参数值为： $F \ ( 4 , \ 7 8 ) = 1 4 . 0 9$ ， $p { < } 0 . 0 0 1$ ， $R ^ { 2 } = 0 . 4 2 0$ 。路径2的置信区间为（0.034，0.34），中介路径显著，效应量大小为0.15；路径3的置信区间为（0.09，0.59），中介路径显著，效应量大小为0.31；路径1的中介路径不显著。相比于道德判断作为因变量的中介效性检验结果，患方信任作为因变量时中介路径3也显著，即反驳文本可以直接提高被试的对医宽容度，进而提高患方信任（图5）。
+
+图5反驳文本影响患方信任的中介效应检验路径系数图  
+![](images/c2bb386816321b79b6c3016e390c134007eaf6099abd31587cd9e2112925d32e.jpg)  
+注： $^ { * * }$ . $p < 0 . 0 1$ . $* * *$ $p < 0 . 0 0 1$
+
+# 6总讨论
+
+# 6.1 结果讨论
+
+# 6.1.1反驳文本干预对道德判断和患方信任的影响
+
+实验1和实验2的结果均表明，给被试思考时间后再将检查结果呈现给被试和将检查结果直接呈现给被试两种条件下，反驳文本干预都能够显著提升被试对医生的道德判断；但是以信任作为因变量，只有给被试思考时间的情况下，反驳文本干预才显著影响被试对医生的信任得分。根据该实验数据，可以推测检查结果是影响被试对医生信任的主要因素，而道德判断与信任相比较而言，更容易受到直觉的影响。同样的，实验1中反驳文本干预和检查结果的交互作用也可以间接证明该推论。在检查结果为常规发烧时，反驳文本对信任的影响效果更加显著；而在检查结果为淋巴细胞白血病的实验条件下，控制组的被试也倾向于认为医生的建议是合理的，对医生的信任度较高。
+
+值得注意的一点是，对比实验1和实验2的研究结果可以发现，思考时间可能是一个重要的调节变量。实验1中在呈现检查结果之前，首先引导被试对材料中的患方是否听从医生的建议进行预测，以及对材料中医生的意图进行推断，该过程在提供思考时间的同时，也可能促进了被试更加深思熟虑的思考。有研究发现，对于提升智慧推理状态的被试，在更长时间的思考后更可能选择双赢合作；而降低智慧推理状态的被试，在更长时间思考后，反而比原来更加不信任对方（Grossmann,Brienza,&Bobocel,2017）。所以，实验2中反驳文本干预对患方信任的影响不显著可能存在以下原因：首先，实验2在呈现医疗结果之前没有提供给被试一定的思考时间；其次，在实验1中，控制组虽然未使用与实验组相反效果的干预措施，但是提供思考时间也存在使被试更加不信任医生的可能性，所以思考时间造成的反差致使两种条件下的医患信任差异更加显著。
+
+除此之外，实验3的数据结果还表明反驳文本干预的有效性具有脱离情境材料的稳定性，可以作为提升医患信任的通用策略。
+
+# 6.1.2检查结果对道德判断和患方信任的影响
+
+实验1和实验2均表明，检查结果是影响被试对医生的道德判断和信任水平的重要且稳定的因素。据此结果可以推论，患方在就医之前对医方的态度和信任水平至关重要，根据医生的治疗结果的有效或无效而相应的产生的信任或不信任都是不稳固的，这与日常生活中的体验相同。通常而言，患方对于医学检查和治疗结果的感受，是高度“结果导向”而非“过程导向”，即容易根据诊疗结果来反推医生的建议与处理是否恰当，而不去考虑结果出来之前医生其实也无法预知结果为何；而医生更倾向于“过程导向”而非“结果导向”，即根据医学知识和医院的具体操作流程开具标准化的处方与建议，而无法预知这种处理的结果是否能够让患者满意。这就使得医患之间的信任缔结总是存在松动的可能，要筑牢两者之间的信任联结，还需要不依赖于具体结果的、强有力的其他信任渠道。
+
+# 6.1.3检查结果和遵医嘱行为之间的交互作用
+
+实验1简单效应分析结果发现，在检查结果为普通发烧的情况下，做检查组的被试更倾向于认为医生建议做骨髓穿刺检查是为了明确的诊断，而不做检查组的被试更倾向于认为医生是为了经济利益；在检查结果为淋巴细胞白血病的条件下情况刚好相反。可能的原因是：在检查结果是普通发烧的情况下，材料中的王先生选择了听取医生建议，王先生的行为也影响了被试的判断，觉得医生的建议可能是合理的；而当王先生没有听从医生建议，回家后也发现只是普通发烧时，被试也同样会受到王先生这一行为的影响，进而对医生的道德判断较低。在检查结果为淋巴细胞白血病的情况下刚好相反，因为在这种情况下不听取医生建议的后果严重，而这可能会启动被试的反事实思维。引起的反事实思维越多后悔越强烈（Roese,1997；Zeelenberg,Kees,VanDijk,&Pieters,2002），而后悔具有反思性认知的特点（Turman,2005；Sevdalis&Kokkinaki,2006），会促使被试在对医生进行道德判断时更加理性的思考，所以对医生的道德判断较高。
+
+# 6.1.4不确定容忍度和宽容度的中介作用机制
+
+实验2和实验3发现，不确定性容忍度和宽容度在反驳文本干预和道德判断及信任之间起到链式中介作用；宽容度在反驳文本干预和信任之间起到中介作用。而对不确定性的理解与管理是智慧的元成分（Baltes& Staudinger,2000；陈浩彬，汪凤炎,2013），作为一种知识系统，智慧包括对复杂的、不确定的情境的洞察和判断。从实验2和实验3对中介机制的探究结果可以推想，反驳文本干预是提升个体智慧思维的简单高效的途径，促进相对科学、理性的思考。同时，不确定容忍度和宽容度作为影响道德判断和患方信任的近端因素，后续的研究可以从该方向着手思考如何提高患方的不确定性容忍度，使患方客观意识到现代医学的局限、医生诊断的不确定性以及临床疾病的复杂多变性，为探求和谐的医患关系建立新的途径。
+
+# 6.2研究创新与实践建议
+
+本研究从前人改变认知偏差的策略得到启发，通过反驳文本来实现提升患方对医方的道德判断和信任水平的具体路径，并用实验验证了反驳文本对道德判断和患方信任的显著影响，为实现良性的医患关系提供了崭新的视角。同时，实验通过干预材料和虚拟案例的设置，整合了三个自变量，选择具有真实就医体验的被试参与实验、施测环境真实，生态效度较高。
+
+研究发现，反驳文本材料的干预是一种客观有效且简便易行的患者教育（patienteducation）方式。医院可根据不同疾病的具体特征，设置患方需要了解的基本医学知识、尤其是不为人所知的带有意外性的疾病知识，并借助电子设备在医院的公共场所循环播放，从而加强患者对医学知识的掌握和对例外情境的容忍。其次，鉴于患方对医方的道德判断和信任的“结果导向”思维，医患双方要充分认知到差异存在的客观性和普遍性，据此寻求患方的主观感受和医生的客观判断之间的平衡点。医生应该更多地了解非专业人群的求诊习惯和求助思维，也可以采用提问的方式引导患者深入的思考，从而引导患者的思维向医学专业思维趋近。最后，医院要充分宣传关于合理检查的相关知识，使大众意识到做检查除诊断的作用外，也以排查其他严重疾病可能性为目的，从而使患者对检查的作用与局限性有更合理的预期，而不形成“每检必中”的刻板化思维，提升对检验误差率、假阳性等情况的接受度，引导形成更有利于正常的医学检验、医生诊断和后续治疗有序开展的良好医患心态。
+
+# 6.3不足与展望
+
+首先，研究使用的反驳文本材料是精心编制的反直觉和反常识的医学健康知识，预期通过这种知识修正过程来使被试意识到自身直觉判断所产生的偏差，进行元认知提醒。这些知识的意外性可能使患方形成惊奇、有趣的情绪体验，较少存在因“情感税”而造成的认知负荷（Thunstrom,2019），从而增加对此类知识的接受度。但对普通的、通常是枯燥的医学知识是否会产生同样的效果，还需要进一步验证。
+
+第二，如引言中说明的，为了避免患者之间的医学价值观与所提供的医学知识的冲突，反驳文本材料有意避开了一些可能具有根深蒂固的价值体验冲突的内容。如果加入存在医学理念冲突的成分，反驳文本是否还会有效？例如，“生完孩子之后可以立即洗头洗澡”、“吃阿胶不补血”之类的题目，可能就涉及现代医学与传统医学的理念之争，患方可能并不愿意接受反驳文本中提供的信息，转而从自身已有知识、信念和经验中寻求支撑，反而可能加剧对反驳文本的疏离和批判，引发不同甚至相反的情绪体验。已有研究发现，知识修正在引发消极情绪的条件下反而会引起相反的学习结果（Trevors,Muis,Pekrun,Sinatra,&Winne，2016）而产生逆火效应（backfire effect），即强化了对试图纠正的错误信息的原始信念（Lewandowsky,Ecker,Seifert,Schwarz,& Cook，2012）。与此相反，产生惊奇等积极情绪则会促使被试的观念发生改变（Trevors,Kendeou,&Butterfuss,2017）。但医学理念之争又在很大程度上影响着医患之间的信任危机，对此种情形下的反驳文本适用性及患者教育方式应如何展开，还需要进一步的论证。
+
+第三，中介机制的探究需要继续深入。首先，本文主要探究了反驳文本提升道德判断和患方信任的中介机制，而医疗结果作为一个更重要的影响因素，其作用机制尚不明确。医疗结果对被试的情绪可能产生重要影响，当最终的检查结果为淋巴细胞白血病时，可能诱导被试产生悲伤的情绪；而检查结果只是普通发烧时，更可能诱导被试产生愉悦情绪。研究表明，相比于愉悦情绪，悲伤情绪的被试会更能够接受不确定性，从而更接近中立态度（Baillon,Koellinger,&Treffers,2014）。所以，情绪的中介作用是值得继续深入探究的方向。同时，个体洞察自身想法局限性的能力，通常被称为“智性谦逊”（intellectual humility，McElroy etal.,2014），而对不确定性的识别和管理是智慧的重要标准（Baltes& Staudinger,2000）。若智性谦逊较低，则可能对不确定性的容忍度较低，在检查、治疗结果出现意外时更容易产生负性情绪，并做出偏于极端的道德判断和信任决定。因此，智性谦逊可能是一个重要的中介变量，应当在后续研究中加以验证。此外，以反驳文本为自变量，不确定性容忍度和宽容度作为影响道德判断的中介机制的探讨因素，与患方信任作为因变量相比较而言，效应量较小。反驳文本作为一种提升道德判断之有效措施的中介机制尚缺乏可靠的实证研究。
+
+第四，本研究的目标是降低医患之间的认知差异，促使患方向医生思维靠拢。那么在中国文化背景下探究患方所不具备的医学认知信念，也是后续研究的重要方向。比如关于疾病的多因素信念(multifactorialbeliefs)，多因素信念是指许多常见的疾病（癌症、糖尿病、心脏病和高血压等）本质上都是多因素的，也就是说，它们是由遗传、行为和环境因素共同造成的(Collins,Green,Guttmacher,& Guyer,2003)。由于不支持多因素信念，普通人和专家之间对风险的概念化缺乏一致性，可能会导致对健康传播者的不信任和对科学结果的怀疑(Levy,Weinstein,Kidney,Scheld,&Guarnaccia,2008)。最后，为获得具有真实就医体验被试，本研究采用现场实验的方式，未能后续对被试进行跟踪调查，以探究干预效果的纵向稳定性。通过一次干预是否能够得到持久的影响，或者需要几次干预才可以达到比较稳定的态度转变，也是值得继续探究的问题。
+
+# 7结论
+
+反驳文本干预能够显著提高被试的患方信任和道德判断；医疗结果是影响被试的患方信任和道德判断的重要因素；不确定性容忍度和对医宽容度在反驳文本干预和患方信任及道德判断之间呈链式中介作用。
+
+# 参考文献
+
+Baillon,A.,Koellnger,P,&effrs,T.(4).dderutiser:tecsofivetatedweahromigute. Journal of Economic Psychology,53(1),67-82.   
+Baltes,P.B.,&Staudinger,U.M.(2Oo).Wisdom:ametaheuristic(pragmatic）toorchestratemindandvirtuetowardexcelence. American Psychologist,55(1),122-136.   
+Beker,K.,Ki,e,.Vanroa,Kdoub,.(l)efutatiotescesoaustraerfdg ContemporaryEducationalPsychology,56,67-78   
+Broockman,D,&Kaa,(6).rablyducingrasobia:feldxperimentdotdoravassingenc(6), 220-224.   
+Chen,H.B.& Wang,FY.(2O13).Wisdom:structure,categorymeasurementandrelationships torelatedvariables.Advancesin Psychological Science,21(1),108-117.   
+[陈浩彬，汪凤炎.(2013).智慧:结构、类型、测量及与相关变量的关系．心理科学进展,21(1),108-117.]   
+Chen,X.P.& Wang,J.P.(Eds.). (2013).Surgery.Beijing,China: People's Medical Publishing House.   
+[陈孝平，汪建平 (编).(2013)．外科学.北京：人民卫生出版社.]   
+Clack,GB.,noHed).oaiteeseosdietsse teaching of communication skills.Medical Education,38(2),177-186.   
+Colins,FS.,nE.Dutmacer.E,&Guy..).isionforefutureofgosesechNature(694), 835-847.   
+Dang,B.N.,Westbrook,R.A.,Njue,S.M.,&Giordano,T.P.(2O17).Buildingtrustandrapportearlyinthenewdoctor-patient relationship:a longitudinal qualitative study.BMC Medical Education,17(1),32-41.   
+Grossman,rieaJ.P,bocel,D.)Wiseelbratiostaisoopatioturemviour,()6.   
+Levy,A.G,seidacatese Analysis,28(6),1531-1538.   
+Guzzeti,&Barbara,J.(2Oo).Learingcounter-intuitivescienceconcepts:whathavewelearedfromoveradecadeofsearch? Reading & Writing Quarterly,l6(2),89-98.   
+Hayes,A.F.(3)tructiotdaoderatioditioalproessalys:geioasdpoachJoalf EducationalMeasurement,51(3),335-337.   
+He,J.W.(2O4).Thedoctor-patientrelatioshipdefensiemedicinendover-prescriptoninChinesepublicospitals:evidenefroma cross-sectional survey in Shenzhen city.Social Science & Medicine,l23,64-71.   
+Heather,L,,,el,dn.col,CchelDrti).Oereamiheida   
+Hirt,E.R.，&Markman,K.D.(995).Mutipleexplanation:aconsider-an-alterativestrategyfordebiasingjudgments.Joualof Personality&Social Psychology,69(6),1069-1086.   
+Huang,W.J.&ZhouX.Z(214).Identifying“antibiotic”“antibacteraldrug”and“anti-inflammatoryDug.ChineseTechnicalTerms, (3),36-38.   
+[黄维佳，周晓洲.(2014).“抗生素"抗菌药"消炎药"辨析．中国科技术语,(3),36-38]   
+Hynd,C.R().etatiaedgeoctoalalouctialh)4   
+Kendeou,P.,Smith,E.R.&O'Brien,E.J.(2O13).Updatingduringreadingcomprehension:whycausalitymaters.Journalof Experimental Psychology:Learning,Memory,and Cognition,39(3),854-865.   
+Kendeou,P,as.Ki.,O,E.).odgvsirosutatiotsoue 51(5-6),374-397.   
+Kim,K.&Lee,Y. 18).Uderadguertaintyiicine:oeptsdiplicatios inedicaleucatioKoreanJoualof Medical Education,30(3),181-188   
+Koermer,N,&gs,.J.).Aigatiofaalsiialseblereoleeof uncertainty. Cognitive Therapy and Research,32(5),619-638.   
+LewandowskyeU..efertC.,NoJ.).ifiodoecoi and successful debiasing.Psychological Science inthe Public Interest,l3(3),106-131.   
+Lord,C.G.,eppr,.rston.84).seingeosite:ectivsrategooialjdgmntJolof Personality&SocialPsychology,47(6),1231-1243.   
+Luther,V.P.,& Crandall, S.J.(2011).Commenta ambiguity and uncertainty: neglected elements of medical education curricula? Academic Medicine Journal of theAssociation of American Medical Colleges,86(7),799-800.   
+Lyu,X.K.(219).Paradoxofsesofgainetweedoctorandpatiegrousanditsmedytestudyofdoctorpantelatiosipas social psychological issue.Journal ofNanjing Normal University (Social Sciences),(1),76-86.   
+[吕小康.(2019).医患“获得感悖论"及其破局—兼论作为社会心理学议题的医患关系研究．南京师大学报(社会科学版),(1), 76-86.]   
+Lyu,X.K,MiM.D,Yu,H.R,Wang,H,&He,F.(inpress.PreliinarypreparationofthereliabilityandvaliditytestofCinese Doctor-patient Trust Scale.Chinese Social Psychological Review   
+[吕小康，弥明迪，余华冉，王晖，何非.（印刷中）.中国医患信任量表的初步编制与信效度检验．社会心理学评论]   
+Lyu,X.K.,ZaoX.F9).eifueceofsbecieoalsdativemotosoedatioodelJoualoft Normal University (SocialSciences),(2),2.   
+[吕小康，赵晓繁.(2019).主观社会阶层和负性情绪对医患信任的影响：一个有调节的中介模型．西北师大学报(社会科学版),(2), 127-132.]   
+Lyu,X.K.,Wang,X.J.,ZangH.JuYZang,YagJ.9).Preiiaryestablsentofinsedoctortitoal mentality questionnaire (DPSMQ)and itsreliabilityandvalidity.Psychological Exploration,39(1),57-63.   
+[吕小康，汪新建，张慧娟，刘颖，张曜，王骥.(2019).中国医患社会心态问卷的初步编制与信效度检验．心理学探新，39(1), 57-63]   
+MElroy.eKsg.)ee developmentandtheoreticalelaborationsinthecontextofreligiousladershp.JouralofPsychologyandTheology42,19-30.   
+Miu,X.JDenganGC).calisofsgoegoistsil acute leukemia.Clinical Misdiagnosis&Mistherapy,30(6),12-14   
+[缪晓娟，邓锐，范方毅，何光翠，苏毅.(2017).非典型急性白血病九例误漏诊临床分析．临床误诊误治,30(6),12-14]   
+Preacher,K.,&Hayes,A.O).Spssandsproceduresforestimating indiectefectsinsimplemediatioodels.Behvior ResearchMethods,Instrum &Computers,36(4),717-731   
+Pysiainen,Io3.Truefiction:plosophyandpsychologyofreligiousbelief.PilosopicalPsychology,6(1),09125.   
+Roese,N.J. (997).Counterfactualthinking.PsychologicalBuletin,21(1),314   
+Rosenberg,C.E. (2O16).Our presentComplaint:Americanmedicine,thenandnow (Zhang,D.Q.Trans.)，Bejing,China:Peking University medical press.(Original work published 2007)   
+[罗森伯格.(2016).当代医学的困境 (张大庆 译)，北京：北京大学医学出版社]   
+Sevdalis，N.，&Kokkinaki,F(O6).ThediferentialeectofrealisticandunrealisticcounterfactualinkingoregretActa Psychologica,122(2),111-128.   
+Shen,Q.Q.&Zhang,GM.(0l1).RepeatedbilingefectsondrinkingwaterqualityEnvironmentalScience&Technology34(5), 128-130.   
+[沈倩青，张光明.(2011).饮用水反复烧开对水质的影响．环境科学与技术,34(5),128-130.]   
+Sun,Q.Y&ongC..(O5).Respoibiltonsiousess”aalysisofdctor-patienttrustcrsis:aasesudyoftheFstHpial of Jilin university. Changbai Journal,(4),115-119.   
+[孙祺媛，董才生.(2015).医患信任危机的"责任意识"分析—以吉林大学第一医院为例．长白学刊,(4),115-119.]   
+Tan,Y.（2011）.Analysisofcausesofdefensive medicalbehaviorandcountermeasures.ChineseMedicalEtics,24(2)60-161.   
+[谭亚.(2011).防御性医疗行为成因分析及应对策略．中国医学伦理学,24(2),160-161.]   
+Thunstrom,L.(2O19).Welfareefectsofudges:Theemotionaltaxofcaloriemenulabeling.JudgmentndDecisionMaking,14() 11-25   
+Trevors,G.JKdu,,ueuss,.).irosssoedgeiuees4   
+Trevors,GJ.,usKeatraGe,P.6).dentitdeistecosgoedgio potential account for the backfire effect.Discourse Processes,53(5-6),339-370.   
+Turman,P.D.Oo5).Coaches’useofanticipatoryandcounterfactualregretmessgesduringcompetition.Jouralofpied Communication Research,33(2),116-138.   
+Wang,M.L,a,YC,&Zao5).sussooprespposdmustofpatietsndrustrisisetendctorsdait. Medicine and Philosoghy,(5),47-50   
+[王敏,兰迎春，赵敏.(2015)．患者预设性不信任与医患信任危机．医学与哲学,(5),47-50.]   
+Wang,P.F,Shang,H.R,&ZengS.H. (O18).Cognitivediferencendjustmentinmedicaldecision-makingprocs.Medicinend Philosophy(A),39(4),6.   
+[王鹏飞，尚鹤睿，曾诗慧.(2018).医疗决策过程中的认知差异与调适．医学与哲学(A),39(4),16-20.]   
+Wang,T..an,L,a.,LinJ6aaodbractmuidideihoco doctor-patient trust. Chinese Medical Ethics,29(1),142-144.   
+[王廷婷，阎英，吕东阳，闫硕，林杰.(2016).重建医患信任中的"加减乘除”．中国医学伦理学,29(1),142-144]   
+Ye,L.W.(O15).Progressinhepreventiooftrasfusion-associatedgraft-versus-ostdisease.LabeledImmunoassays&Clinical Medicine,22(12),1297-1299   
+[叶立文.(2015)．预防输血相关性移植物抗宿主病发生的研究进展．标记免疫分析与临床,22(12),1297-1299.]   
+Zelenberg.M.Kees.VD.B.VanDik.E.&ieters.R.().Theinactionefectinthesvchologvofregret.Journalfersonalitv and Social Psychology, 82,314-327.   
+Zhang,Y.J.,ong,JBGao,Y.T,Wu,S.Jong,L,&MaoD..(7)eliabilityadalidityofthtoleranceofuity scale-short form in university students.Chinese Journal of Clinical Psychology,25(2),285-288.   
+[张亚娟，宋继波，高云涛，武圣君，宋蕾，苗丹民.(2017).无法忍受不确定性量表(简版)在中国大学生中的信效度检验.中国临 床心理学杂志,25(2),285-288.]   
+Zhao,K.X.& Yang,P.Z.(Eds.). (2013).Ophthalmology.Beijing,China: People's Medical Publishing House.   
+[赵堪兴，杨培增 (编).(2013).眼科学.北京：人民卫生出版社.]   
+Zhao,X.,Lynch,J.G.,&Chen,Q.(2Ol0).Reconsidering BaronandKenny:mythandtruthaboutmediation.JournalofConsumer Research,37(2),197-206.
+
+# Refutation texts’ effect on patients’ trust and moral judgment and underlying mechanism
+
+LYU Xiaokang 1; FU Chunye ²; WANG Xinjian 1
+
+(DepartmentofSocialPsychology,ZhouEnlaiSchoolofGovernment,Nankai Unversity,Tianjin3Oo30,China) (AcademyofPsychologyand Behavior,TianjinNormal University,Tianjin3ooo74,China)
+
+# Abstract
+
+Mistrust between doctors and patients has caused worldwide concern, especially in China. Among all possible driving forces, the knowledge gap between the two groups plays a key role in the formation of disparity of cognitive styles of professional medical workers and laymen. If patients could be educated in an effective way and prompted to think like experts, it may be hypothesized that they could become more compliant during medical treatment and more tolerant of unexpected diagnosis or treatment results, thus maintaining trust in doctors. One possible effective way to get patients to think like doctors is to make knowledge revision in health and medicine that is usually counterintuitive to ordinary people but familiar for doctors. It has been proved that this process can be facilitated by the adoption of refutation texts,which state previously acquired but incorrect knowledge and then directly refutes it while also providing the correct knowledge.
+
+In the present set of experiments,we systematically examined the effect and underlying mechanism of refutation texts under medical situations.Refutation texts were constructed in the pilot study that consists of five items that are quite familiar to doctors but peculiar and interesting to laymen. After asking 1O3 college students to guess True or False on each question, correct answers were provided for participants and they were asked to assess if these answers prompted them to reflect that their previous beliefs were incorrect. 97 participants $( 9 4 . 2 \% )$ made at least one error in the test and 81 participants $( 7 8 . 6 \% )$ admitted that this process prompted a reflection on their previous beliefs,which proved the effectiveness of the refutation texts.
+
+Study 1 was designed to test the effect of refutation texts constructed in the pilot study on patient's trust and moral judgment on doctors using a 2 (intervention: with or without refutation texts) $\times 2$ (compliance: following doctors’ instruction or not) $\times 2$ (check result: common fever or leukemia) between-subject design.Participants were randomly assigned those 8 conditions. First, they were required to read a scenario of doctor-patient dialogue discussing whether bone marrow puncture (BMP) should be applied to the child in this scenario. Then participants were required to guess the compliance of the child's father before they were given the different combination of the father's decision and medical results. Participants are also required to judge the intention of the doctor's suggestion of BMP and assess how much trusts they have in doctors.Results confirmed the significant effect of refutation texts on participants' trust and moral judgment in that those who were provided refutation texts had higher trust scores and were more likely to judge the doctor's intention in a positive and unselfish way. The medical inspection results also influenced the participants' judgment style and trust level. When the inspection showed a minor symptom, participants tended to show lower trust in the doctor and had a negative attitude toward the doctor's suggestion.
+
+Study 2 tested the chain mediating role of intolerance of uncertainty and tolerance on medical workers. The same procedure as study 1 was used except that we collect participants’ scores on the Intolerance of Uncertainty Scale and Tolerance on Medical Worker's Questionnaire. Data were analyzed to use Process Plugin and results showed there was a chain mediation effect on the moral judgment but it failed to confirm the same effect on trust.Besides, study 3 confirmed the effectiveness of refutation texts under non-medical related situations and the chain mediating role of intolerance of uncertainty and tolerance on medical workers' trust.
+
+Our findings demonstrated refutation texts were effective in prompting laymen's knowledge revision and reflection on their existing health beliefs. This will further improve the tolerance on the unexpected treatment consequences and the doctors' possible misdiagnosis, thus sustaining his or her trust in the doctor. Based on our results，we recommend that odd but interesting knowledge of the human body and counter-intuitive medical facts can be employed as a routine material in patient education to foster a reflexive atttude on possible unsatisfactory diagnose or treatment results. Future research may construct more useful refutation texts items and further explore the possible hinder effect of previous health beliefs and negative emotions of medical refutation texts.
+
+Key words refutation texts； doctor-patient relationship; patient's trust; moral judgment; tolerance of uncertainty
+
+# 附录1
+
+# 反驳文本干预材料
+
+条目1：肾移植是指用健康肾源替换患者体内不健康的肾 （对/错)
+
+答案：错。肾移植是指将健康肾源移植到患者体内，一般不取出患者原有的不健康的肾，所以通常做了肾移植手术的患者体内会比正常人多一个肾（陈孝平，汪建平，2013，p.174）。
+
+条目2：直系亲属之间不宜相互输血 （对/错）
+
+答案：对，直系亲属间输血后发生移植物抗宿主病的概率比非亲属间输血要大的多，且这种并发症通常是致命的（叶立文，2015）。
+
+条目3：引用反复烧开的水会对健康产生影响 （对/错）
+
+答案：错。虽然久炖的高汤也属于反复烧开的"饮用水”，且其嘌呤含量通常过高、对健康不利，但人们往往并未怀疑其健康性；对反复烧开的白开水，很多人却怀疑其不利健康。其实，实验研究证明，饮用水反复烧开不会对水质产生影响（沈倩青，张光明，2011）。
+
+条目4：消炎药就是抗生素 （对/错)
+
+答案：错。消炎药不等于抗生素。抗生素对细菌、真菌、支原体等多种致病微生物有良好的抑制或杀灭作用，而消炎药主要针对红、肿、热、痛等症状，对导致症状的各种病源无直接作用（黄维佳，周晓洲，2014）。
+
+条目5：人的眼球感知不到冷和热。
+
+答案：对。人的眼球没有冷热感受器，而构成眼球的角膜和巩膜又几乎没有散热作用，此外眼球不断转动，从而产生热量。所以眼球感知不到外界冷热变化（赵堪兴，杨培增，2013，p.5）。
+
+# 参考文献：
+
+陈孝平，汪建平 (编).(2013).外科学.北京：人民卫生出版社黄维佳，周晓洲.(2014).“抗生素"抗菌药"消炎药"辨析．中国科技术语,(3),36-38.  
+沈倩青，张光明.(2011).饮用水反复烧开对水质的影响．环境科学与技术,34(5),128-130.  
+叶立文.(2015).预防输血相关性移植物抗宿主病发生的研究进展．标记免疫分析与临床,22(12),1297-1299.  
+赵堪兴，杨培增 (编).(2013).眼科学.北京：人民卫生出版社.
+
+# 附录2
+
+# 情境材料的四种场景描述：
+
+a 王先生听从了医生的建议，带孩子做了骨髓穿刺检查，检查结果显示正常。医生开了治疗发烧的药物，回家按时服药，孩子没两天就痊愈了。b 王先生听从了医生的建议，带孩子做了骨髓穿刺检查，检查结果显示是淋巴细胞白血病。由于得到了及时的诊断和治疗，有效阻止了病情的恶化。C 王先生没有听从医生的建议，坚持让医生开了治疗发烧的药物。回家按时服药，孩子没两天就痊愈了。d 王先生没有听从医生的建议，坚持让医生开了治疗发烧的药物。回家按时服药，但孩子病情不见好转。王先生又带孩子来医院做了骨髓穿刺检查，检查结果显示是淋巴细胞白血病。由于没有及时的诊断和治疗，导致病情加重。
+
+# 附录3
+
+中国医患信任量表（患方卷，B部分）  
+
+<html><body><table><tr><td colspan="2" rowspan="2">序号 题目</td><td rowspan="2">1</td><td colspan="4">2</td><td rowspan="2">4 5</td></tr><tr><td>非常不同意</td><td></td><td>3</td><td></td></tr><tr><td>1</td><td>医生能够及时询问患者的病情</td><td></td><td></td><td></td><td></td><td>>非常同意</td><td></td></tr><tr><td>2</td><td>我觉得医生是真的关心患者</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>医生的治疗效果比我预想的要好</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>这所医院的流程是高效的</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>我相信医生对所有的患者都是一视同仁的</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>医生能够及时回答我的疑问</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>我以后还会找这位医生看病</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>我觉得医生即使有时间，也不会与我耐心沟通</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>医生的治疗过程跟我想的差不多</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>我会介绍我的朋友、家人找这位医生看病</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td>我相信医生会在我需要时为我提供个性化服务</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td>我对为患者治疗的医生还是满意的</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td>医生能够为患者的治疗尽心尽力</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 附录4
+
+不确定性容忍度量表  
+
+<html><body><table><tr><td rowspan="2">序号</td><td rowspan="2">题目</td><td colspan="4">2 3</td></tr><tr><td></td><td>非常不同意</td><td></td><td>4</td></tr><tr><td>1</td><td>不可预知的事件会让我感到严重不安。</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>如果得不到所需要的全部信息，我会感到沮丧。</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>不确定性让我的生活存在缺憾。</td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>为避免出现意外，人总是应该提前思考未来。</td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>哪怕计划再周全，一个小意外也会毁掉一切。</td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>该采取行动时，我会因为不确定性而徘徊不前。</td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>当感到不确定的时候，我就会表现不好。</td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>我总想知道未来有什么在等着我。</td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>我经受不起意外。</td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td>再小的疑虑也会阻碍我行动。</td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td>我应该能够提前安排好一切事情。</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 附录5
+
+医患宽容度分问卷  
+
+<html><body><table><tr><td rowspan="2">序号</td><td rowspan="2">题目</td><td colspan="4">2 3</td><td rowspan="2"></td></tr><tr><td>1</td><td>非常不同意</td><td></td><td>4</td></tr><tr><td>1</td><td>医务人员很少体谅患者的难处</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>只要出现医疗事故，相关医务人员应该受到最严厉的制裁</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>即便没有达到预期治疗效果，医务人员的努力仍值得肯定</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>医务人员的过错对患者造成的伤害是不能原谅的</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>如果发生医疗过错，主治医生事后应向患者及家属道</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>患者应该有治疗结果不能达到预期的心理准备</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 附录6
+
+表1实验1控制变量对道德判断前后测及患方信任的预测作用  
+
+<html><body><table><tr><td rowspan="3">变量</td><td colspan="4">道德判断</td><td rowspan="2" colspan="2">患方信任</td></tr><tr><td colspan="2">前测</td><td colspan="2">后测</td></tr><tr><td>方程1.1</td><td>方程1.2</td><td>方程2.1</td><td>方程2.2</td><td>方程3.1</td><td>方程3.2</td></tr><tr><td>性别</td><td>0.17 (p = 0.462)</td><td>0.23（p = 0.303）</td><td>0.39 (p = 0.108)</td><td>0.26 (p = 0.213)</td><td>0.75 (p = 0.540)</td><td>0.29 (p = 0.795)</td></tr><tr><td>年龄</td><td>0.01 (p=0.641)</td><td>0.01 (p = 0.538)</td><td>0.002 (p = 0.889)</td><td>0.01 (p =0.512)</td><td>0.06 (p = 0.504)</td><td>0.03 (p =0.746)</td></tr><tr><td>婚姻状况</td><td>0.34 (p=0.306)</td><td>0.33 (p=0.297)</td><td>0.54 (p = 0.115)</td><td>0.30 (p =0.301)</td><td>1.48 (p = 0.387)</td><td>0.50 (p = 0.741)</td></tr><tr><td>生育状况</td><td>0.48 (p =0.170)</td><td>0.30 (p = 0.370)</td><td>0.24 (p = 0.506)</td><td>0.14 (p =0.654)</td><td>0.45（p =0.808)</td><td>0.19 (p =0.907)</td></tr><tr><td>反驳文本干预</td><td>1</td><td>1.14 (p<0.001)</td><td>1</td><td>1.38(p<0.001)</td><td>1</td><td>6.98(p<0.001)</td></tr><tr><td>患方行为方式</td><td>1</td><td>1</td><td></td><td>0.16 (p = 0.417)</td><td>1</td><td>0.56 (p = 0.596)</td></tr><tr><td>检查结果</td><td>1</td><td>1</td><td>一</td><td>1.54（p<0.001)</td><td>1</td><td>6.28(p<0.001)</td></tr><tr><td></td><td>R ²=0.050</td><td>R ²=0.133</td><td>R²=0.047</td><td>R²=0.313</td><td>R ²=0.007</td><td>R ² =0.235</td></tr><tr><td></td><td>F（4，284）=3.77</td><td>F（5，283）=8.66</td><td>F（4，284）=3.53</td><td>F（7，281） =18.25</td><td>F（4，284）=0.48</td><td>F（7，281） =12.30</td></tr><tr><td></td><td>p = 0.005</td><td>p<0.001</td><td>p = 0.008</td><td>p<0.001</td><td>p = 0.751</td><td>p<0.001</td></tr></table></body></html>
+
+表2实验2控制变量对不确定性容忍度、对医宽容度、道德判断及患方信任的预测作用  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="2">不确定性容忍度</td><td colspan="2">对医宽容度</td><td colspan="2">道德判断</td><td colspan="2">患方信任</td></tr><tr><td>方程1.1</td><td>方程1.2</td><td>方程2.1</td><td>方程2.2</td><td>方程3.1</td><td>方程3.2</td><td>方程4.1</td><td>方程4.2</td></tr><tr><td>性别</td><td>1.06 (p = 0.332）</td><td>0.28 (p= 0.788)</td><td>0.44 (p = 0.440)</td><td>0.63 (p = 0.265)</td><td>0.19 (p = 0.425)</td><td>0.28 （p =0.237）</td><td>0.04 (p = 0.974)</td><td>0.10 (p=0.939)</td></tr><tr><td>年龄</td><td>0.04 (p = 0.548)</td><td>0.04 (p =0.506)</td><td>0.03（p= 0.403)</td><td>0.03 (p = 0.392)</td><td>0.02 (p =0.163)</td><td>0.02 (p =0.153）</td><td>0.01 (p = 0.921)</td><td>0.04(p=0.669)</td></tr><tr><td>婚姻状况</td><td>0.71 (p = 0.704)</td><td>1.13 (p = 0.519)</td><td>0.71 (p = 0.456)</td><td>0.60 (p = 0.528)</td><td>0.35 (p = 0.386)</td><td>0.40 （p = 0.317)</td><td>1.28 (p = 0.572)</td><td>0.92 (p=0.680)</td></tr><tr><td>生育状况</td><td>0.11 (p = 0.951)</td><td>0.75 (p =0.660)</td><td>1.33 (p = 0.157)</td><td>1.12 (p = 0.232)</td><td>0.79 (p =0.047)</td><td>0.69 (p = 0.079）</td><td>2.71 (p = 0.217)</td><td>2.21 (p = 0.310)</td></tr><tr><td>反驳文本干预</td><td></td><td>5.06 (p <0.001)</td><td></td><td>1.26 (p = 0.030)</td><td></td><td>0.59 (p = 0.016)</td><td></td><td>0.11 (p = 0.934)</td></tr><tr><td>检查结果</td><td></td><td></td><td></td><td>／</td><td></td><td></td><td></td><td>3.71 (p =0.005)</td></tr><tr><td></td><td>R²=0.013</td><td>R²=0.143</td><td>R²=0.070</td><td>R ²=0.099</td><td>R²=0.041</td><td>R²=0.077</td><td>R²=0.013</td><td>R²=0.063</td></tr><tr><td></td><td>F（4，154）=0.49</td><td>F（5，153）=5.10</td><td>F（4，154） =2.91</td><td>F（5，153） =3.35</td><td>F（4，284） =1.65</td><td>F（5，153）=2.56</td><td>F（4，154）=0.50</td><td>F（6，152）=1.70</td></tr><tr><td></td><td>p = 0.744</td><td>p <0.001</td><td>p = 0.023</td><td>p= 0.007</td><td>p = 0.165</td><td>p = 0.030</td><td>p = 0.733</td><td>p = 0.124</td></tr></table></body></html>
+
+表3实验3控制变量对不确定性容忍度、对医宽容度及患方信任的预测作用  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="2">不确定性容忍度</td><td colspan="2">对医宽容度</td><td colspan="2">患方信任</td></tr><tr><td>方程1.1</td><td>方程1.2</td><td>方程2.1</td><td>方程2.2</td><td>方程3.1</td><td>方程3.2</td></tr><tr><td>年龄</td><td>1.81 (p = 0.074)</td><td>0.46 (p = 0.648)</td><td>3.31 (p = 0.001)</td><td>1.57 (p =0.121)</td><td>0.22 (p = 0.096)</td><td>0.03 (p=0.978)</td></tr><tr><td>反驳文本干预</td><td></td><td>2.95 (p = 0.004)</td><td></td><td>3.97 (p<0.001)</td><td></td><td>3.96 (p<0.001)</td></tr><tr><td rowspan="3"></td><td>R²=0.039</td><td>R ²=0.133</td><td>R²=0.119</td><td>R ²=0.264</td><td>R ²=0.034</td><td>R ²=0.192</td></tr><tr><td>F（1，81） =3.27</td><td>F（2，80）=6.15</td><td>F（1，81）=10.94</td><td>F（2，80）=14.34</td><td>F（1，81） =2.83</td><td>F（2，80）=9.51</td></tr><tr><td>p = 0.074</td><td>p = 0.003</td><td>p = 0.001</td><td>p<0.001</td><td>p = 0.096</td><td>p<0.001</td></tr></table></body></html>

@@ -1,0 +1,743 @@
+# Warped AdS $3$ Black Holes
+
+Dionysios Anninos, Wei Li, Megha Padi, Wei Song\* and Andrew Strominger
+
+Center for the Fundamental Laws of Nature Jefferson Physical Laboratory, Harvard University, Cambridge,MA, USA
+
+# Abstract
+
+Three dimensional topologically massive gravity (TMG） with a negative cosmological constant $- \ell ^ { - 2 }$ and positive Newton constant $G$ admits an AdS vacuum $^ 3$ solution for any value of the graviton mass $\mu$ . These are all known to be perturbatively unstable except at the recently explored chiral point $\mu \ell = 1$ . However we show herein that for every value of $\mu \ell \neq 3$ there are two other (potentially stable） vacuum solutions given by $S L ( 2 , \mathbb { R } ) \times U ( 1 )$ -invariant warped AdS $^ 3$ geometries,with a timelike or spacelike $U ( 1 )$ isometry. Critical behavior occurs at $\mu \ell = 3$ ，where the warping transitions from a stretching to a squashing,and there are a pair of warped solutions with a null $U ( 1 )$ isometry. For $\mu \ell > 3$ there are known warped black hole solutions which are asymptotic to warped AdS $^ 3$ .We show that these black holes are discrete quotients of warped AdS $^ 3$ （204号 just as BTZ black holes are discrete quotients of ordinary $\mathrm { A d S _ { 3 } }$ .Moreover new solutions of this type,relevant to any theory with warped AdS $^ 3$ solutions,are exhibited. Finally we note that the black hole thermodynamics is consistent with the hypothesis that,for $\mu \ell > 3$ , the warped AdS $^ 3$ ground state of TMG is holographicallydual toa 2Dboundary CFTwith centralchargesCR=()+7 and cL = G(μe)²+27)·
+
+（204号 $^ *$ On leave from the Institute of Theoretical Physics,Academia Sinica， Beijing, China
+
+# Contents
+
+1 Introduction and summary 2
+
+2Framework 4
+
+， （204号 $S L ( 2 , \mathbb { R } ) \times U ( 1 )$ -invariant TMG vacua 5   
+3.1 Spacelike 5   
+3.2 Timelike 6   
+3.3 Null 6
+
+4Spacelike stretched black holes 7
+
+# 5Warped black holes as quotients 8
+
+5.1 Curvature invariants 8   
+5.2 Coordinate transformations 9   
+5.3 Warped AdS $^ 3$ quotients 9
+
+# 6More general quotients 10
+
+# 6.1Spacelike Warped . 11
+
+6.1.1 Stretched 11   
+6.1.2 Squashed 13   
+6.2 Timelike Warped 13   
+6.2.1 Stretched 13   
+6.2.2 Squashed 13   
+6.3 Null Warped 14   
+6.3.1 Minus Sign 14   
+6.3.2 Plus Sign 14
+
+# 7Thermodynamics 15
+
+7.1 Entropy 16   
+7.2 First law . 17   
+7.3 A conjecture 18
+
+# A Isometries 19
+
+A.1 Classification of $S L ( 2 , \mathbb { R } ) \times U ( 1 )$ Subgroups 20   
+A.1.1 Spacelike Warped anti-de Sitter Space 20   
+A.1.2 Timelike Warped anti-de Sitter Space 21   
+A.1.3 Null Warped anti-de Sitter Space . 21
+
+# BExtremal Black Holes 22
+
+# :BC Coordinates
+
+# 23
+
+C.1 Metric 23   
+C.2 Schwarzschild to BC Coordinate Transformation 24
+
+# 1Introduction and summary
+
+Topologically massive gravity [1,2] is described by the action
+
+$$
+I _ { T M G } = \frac { 1 } { 1 6 \pi G } \left[ \int d ^ { 3 } x \sqrt { - g } ( R + 2 / \ell ^ { 2 } ) + \frac { 1 } { \mu } I _ { C S } \right]
+$$
+
+where $I _ { C S }$ is the gravitational Chern-Simons action (given explicitly below） and we take both $G$ and $\mu$ positive1.For every value of the coupling $\mu$ TMG has a classical AdS solution with radius $\ell$ .For large $\ell$ (and positive $G$ ）the linearized excitations $^ 3$ about AdS $^ 3$ describe a propagating graviton with positive mass $\mu$ , but negative energy (as well as the usual massless positive-energy gravitons). Hence the AdS $_ 3$ vacua are generically expected to be unstable and the quantum theory appears ill-defined. However at the critical value $\mu \ell = 1$ the Compton wavelength of the massive graviton reaches the AdS $_ 3$ radius and the linearized energy spectrum of asymptotically AdS $^ 3$ excitations is non-negative.² Accordingly it was conjectured [1O] that a consistent quantum theory of so-called chiral gravity can be defined at $\mu \ell = 1$
+
+In this paper we shall focus on non-chiral values of $\mu \ell$ . The fact that for $\mu \ell \neq 1$ the AdS $_ 3$ vacua are all unstable does not preclude the possibility that these theories have other stable ground states around which they can be consistently expanded. With this in mind we look for other vacua and find that there are in fact two warped AdS $^ 3$ vacua (some of which were known already in [11, 12]） for every value of $\mu$ Ordinary AdS $_ 3$ can be viewed as a fibration of the real line over AdS $^ 2$ . Warped AdS $_ 3$ （204号 is similar but with a constant warp factor multiplying the fiber metric. This breaks the $S L ( 2 , \mathbb { R } ) _ { L } \times S L ( 2 , \mathbb { R } ) _ { R }$ isometry group of AdS $_ 3$ down to $S L ( 2 , \mathbb { R } ) \times U ( 1 )$ .The fiber is stretched (squashed） for $\mu \ell > 3$ ( $\mu \ell < 3$ ） and there are solutions with both timelike and spacelike $U ( 1 )$ isometries.At the critical value $\mu \ell = 3$ there are still two warped solutions, but both have a null $U ( 1 )$ isometry.
+
+The curvature of the warped solutions is of order $\mu ^ { 2 }$ . Hence the Compton wavelength of the massive graviton is always of order the radius of curvature and it cannot be decoupled from that of the background by taking $\mu \to \infty$ as in the ordinary AdS $^ 3$ （20 case. Therefore it is not a priori obvious whether or not the massive gravitons lead to instabilities of the warped vacua. The first (as yet untaken) steps are to understand the boundary conditions for warped AdS $_ 3$ ,and to solve for the linearized spectrum. The reduced isometry group makes these tasks substantially more difficult than for ordinary AdS $_ 3$ . At present we do not know whether or when the warped vacua are perturbatively stable. This is a key issue and we hope to return to it at a later point.
+
+For $\mu \ell > 3$ , there are known regular black hole solutions [13,14,15] which are asymptotic to warped AdS $_ 3$ with a spacelike $U ( 1 )$ . We show herein that these warped black holes are discrete quotients by an element of $S L ( 2 , \mathbb { R } ) \times U ( 1 )$ of warped AdS $_ 3$ just as BTZ black holes are discrete quotients of AdS $^ 3$ [16,17,18]. We further describe a fascinating zoo of other solutions of this type for other values of $\mu$
+
+It is important to note that warped AdS $_ 3$ arises in a number of contexts besides TMG,see e.g.[14,19,20,21，22,23,24,25,26]. It follows from our quotient construction that the warped black holes are solutions of al these theories as well. In addition warped AdS $^ 3$ is a submanifold (at fixed polar angle) of the near horizon geometry of extremal Kerr [27, 23]. We will report elsewhere on the application of our results to Kerr [28].
+
+In AdS $^ 3$ the group of elements defining the quotient selects a left and right temperature $T _ { L }$ and $T _ { R }$ of the boundary CFT. Using $c _ { L , R } = 3 \ell / 2 G$ (and assuming unitarity), the density of states of the boundary CFT exactly matches the Bekenstein-Hawking entropy of the corresponding black hole [29],thereby explaining the latter. A similar exact match is found for warped black holes in warped AdS $^ 3$ provided the central charges are
+
+$$
+\begin{array} { c } { { c _ { R } = \displaystyle \frac { 1 5 ( \mu \ell ) ^ { 2 } + 8 1 } { G \mu ( ( \mu \ell ) ^ { 2 } + 2 7 ) } } } \\ { { } } \\ { { c _ { L } = \displaystyle \frac { 1 2 \mu \ell ^ { 2 } } { G ( ( \mu \ell ) ^ { 2 } + 2 7 ) } . } } \end{array}
+$$
+
+As this picture fits together rather nicely we cannot resist conjecturing that $\mu \ell > 3$ （20 TMG defined with suitable asymptotically warped boundary conditions exists and is dual to a 2D boundary CFT with central charges 1.2 and 1.3.’ Some non-trivial - but far from definitive - evidence for the conjecture is given herein.
+
+In the next section we define the theory and our conventions. In section 3 we find the classical warped AdS $^ 3$ vacua for all $\mu$ . In section 4 we review the known warped black hole solutions. In section 5 we show that they are quotients of warped AdS $_ 3$ Section 6 describes the general quotient solution. In section 7 we describe the black hole thermodynamics and formulate a conjecture on the existence of a boundary CFT dual to warped AdS $^ 3$
+
+After this work was completed several works appeared [30, 31] which overlap with section 3 as well as [32,33,34] which finds the null black holes of section 6.3 in the context of cold atoms.
+
+# 2 Framework
+
+Our story begins with the action for three dimensional topologically massive gravity with a negative cosmological constant,
+
+$$
+\begin{array} { c } { { I _ { T M G } = \displaystyle \frac { 1 } { 1 6 \pi G } \int _ { \mathcal { M } } d ^ { 3 } x \sqrt { - g } \left( R + 2 / \ell ^ { 2 } \right) } } \\ { { + \displaystyle \frac { \ell } { 9 6 \pi G \nu } \int _ { \mathcal { M } } d ^ { 3 } x \sqrt { - g } \varepsilon ^ { \lambda \mu \nu } \Gamma _ { \lambda \sigma } ^ { r } \left( \partial _ { \mu } \Gamma _ { r \nu } ^ { \sigma } + \frac { 2 } { 3 } \Gamma _ { \mu \tau } ^ { \sigma } \Gamma _ { \nu r } ^ { \tau } \right) } } \end{array}
+$$
+
+where $\varepsilon ^ { \tau \sigma u } = + 1 / \sqrt { - g }$ is the Levi-Civita tensor and $G$ has the conventional positive sign. The coeffcient of the Chern-Simons action involves the dimensionless coupling $\nu$ which is related to the graviton mass $\mu$ by
+
+$$
+\nu = { \frac { \mu \ell } { 3 } }
+$$
+
+For asymptotically AdS $^ 3$ spacetimes there is a critical chiral gravity theory at $\mu \ell = 1$ or $\begin{array} { r } { \nu = \frac { 1 } { 3 } } \end{array}$ [10]. However our main interest in this paper are the warped AdS $^ 3$ vacua. These exhibit critical behavior at $\nu = 1$ or $\mu \ell = 3$ . At the risk of confusion we use （20 $\nu$ rather than $\mu$ as the formulae are significantly simpler. Since the Chern-Simons is parity odd without loss of generality we may take $\nu$ to be positive.
+
+Upon varying the above action with respect to the metric we obtain the bulk equation of motion,
+
+$$
+G _ { \mu \nu } - \frac { 1 } { \ell ^ { 2 } } g _ { \mu \nu } + \frac { \ell } { 3 \nu } C _ { \mu \nu } = 0
+$$
+
+where $G _ { \mu \nu }$ is the Einstein tensor and $C _ { \mu \nu }$ is the Cotton tensor:
+
+$$
+C _ { \mu \nu } = \varepsilon _ { \mu } ^ { \alpha \beta } \nabla _ { \alpha } \left( R _ { \beta \nu } - \frac { 1 } { 4 } g _ { \beta \nu } R \right)
+$$
+
+From the equations of motion we see that any Einstein vacuum solution is also a solution of TMG since $G _ { \mu \nu } = g _ { \mu \nu } / \ell ^ { 2 }$ . There are also non-Einstein solutions that solve these equations of motion which we now proceed to explore.
+
+# 3 $S L ( 2 , \mathbb { R } ) \times U ( 1 )$ -invariant TMG vacua
+
+The simplest non-Einstein solution to TMG will be referred to as warped $A d S _ { 3 }$ ，as it involves a warped fibration. For every value of $\nu$ there are two such solutions, and the structure changes qualitatively at $\nu = 1$ . The timelike warped case was previously discovered as a solution of TMG by Nutku and Girses [13,14]. It has also been studied in various other contexts [19, 20, 21,35, 22,36,23, 24,37]. To find the general solution we begin by recalling that AdS $^ 3$ can be written as a kind of Hopf fibration over Lorentzian (or Euclidean） AdS $^ 2$ where the fiber is the real line [20,38, 23]. The metric can be written as a spacelike (or timelike) fibration with fiber coordinate $u$ (or $\tau$ ）
+
+$$
+\begin{array} { l l l } { { d s ^ { 2 } } } & { { = } } & { { \displaystyle \frac { \ell ^ { 2 } } { 4 } \left[ - \cosh ^ { 2 } \sigma d \tau ^ { 2 } + d \sigma ^ { 2 } + ( d u + \sinh \sigma d \tau ) ^ { 2 } \right] } } \\ { { } } & { { = } } & { { \displaystyle \frac { \ell ^ { 2 } } { 4 } \left[ \cosh ^ { 2 } \sigma d u ^ { 2 } + d \sigma ^ { 2 } - ( d \tau + \sinh \sigma d u ) ^ { 2 } \right] } } \end{array}
+$$
+
+with $\{ u , \tau , \sigma \} \in [ - \infty , \infty ]$ and we have replaced $u$ with $- u$ in 3.2. The $S L ( 2 , \mathbb { R } ) _ { L } \times$ $S L ( 2 , \mathbb { R } ) _ { R }$ isometries are given in appendix A. In order to obtain warped AdS $^ 3$ we must multiply the fiber by a warp factor, which breaks the isometry group to $S L ( 2 , \mathbb { R } ) \times U ( 1 )$ ，where the $U ( 1 )$ is noncompact. Solutions of this type fall into six different classes.
+
+# 3.1 Spacelike
+
+A spacelike (or hyperbolic) warped anti-de Sitter solution is given by warping 3.1 in the form
+
+$$
+d s ^ { 2 } = \frac { \ell ^ { 2 } } { \left( \nu ^ { 2 } + 3 \right) } \left[ - \cosh ^ { 2 } \sigma d \tau ^ { 2 } + d \sigma ^ { 2 } + \frac { 4 \nu ^ { 2 } } { \nu ^ { 2 } + 3 } \left( d u + \sinh \sigma d \tau \right) ^ { 2 } \right]
+$$
+
+For $\nu ^ { 2 } > 1$ , the warp factor is greater than unity, so we have spacelike stretched AdS $_ 3$ If $\nu ^ { 2 } < 1$ we have spacelike squashed AdS $_ 3$ . The isometries preserved by 3.3 are given by $U ( 1 ) _ { L } \times S L ( 2 , \mathbb { R } ) _ { R }$ . Note that the solution is not warped at $\nu = 1$ ：
+
+# 3.2 Timelike
+
+A timelike (or elliptic) warped anti-de Sitter solution is given by a warping of 3.2.
+
+$$
+d s ^ { 2 } = \frac { \ell ^ { 2 } } { ( \nu ^ { 2 } + 3 ) } \left[ \cosh ^ { 2 } \sigma d u ^ { 2 } + d \sigma ^ { 2 } - \frac { 4 \nu ^ { 2 } } { \nu ^ { 2 } + 3 } ( d \tau + \sinh \sigma d u ) ^ { 2 } \right]
+$$
+
+Once again if $\nu ^ { 2 } > 1$ we have timelike stretched AdS .If $\nu ^ { 2 } < 1$ we have timelike $_ 3$   
+squashed AdS $_ 3$ . As explored in [19,23] timelike stretched AdS $^ 3$ has closed timelike curves and is essentially the Godel spacetime. While such spacetimes are quite interesting in their own right，we are limiting the scope of this paper to spacetimes without naked CTCs.
+
+We may also write the squashed metric in the global coordinates4
+
+$$
+\begin{array} { r c l } { \displaystyle \frac { d s ^ { 2 } } { \ell ^ { 2 } } } & { = } & { \displaystyle - d t ^ { 2 } + \frac { d r ^ { 2 } } { r \left( ( \nu ^ { 2 } + 3 ) r + 4 \right) } + 2 \nu r d t d \theta + \frac { r } { 4 } \left( 3 ( 1 - \nu ^ { 2 } ) r + 4 \right) d \theta ^ { 2 } } \end{array}
+$$
+
+The origin is at $r ~ = ~ 0$ where the $( t , \theta )$ metric determinant vanishes. Regularity requires the identification
+
+$$
+\theta \sim \theta + 2 \pi .
+$$
+
+The coordinate transformation relating the two metrics is a special case of equations 5.3-5.5 below.
+
+# 3.3 Null
+
+Null (or parabolic) warped AdS $^ 3$ s [36] are given by the metrics,
+
+$$
+d s ^ { 2 } = \ell ^ { 2 } \left[ \frac { d u ^ { 2 } } { u ^ { 2 } } + \frac { d x ^ { + } d x ^ { - } } { u ^ { 2 } } \pm \left( \frac { d x ^ { - } } { u ^ { 2 } } \right) ^ { 2 } \right]
+$$
+
+with coordinate range $x ^ { \pm } \in [ - \infty , \infty ]$ and $u \in \lbrack 0 , \infty ]$ . The above metrics are a solution to TMG only for $\nu ^ { 2 } = 1$ ，and can be obtained as a kind of pp-wave limit in which （20 $\nu \longrightarrow 1$ of the $\nu \neq 1$ warped vacua. Pure AdS is retrieved by dropping the last $( d x ^ { - } ) ^ { 2 }$ $_ 3$ term. The isometry group is $S L ( 2 , \mathbb { R } ) \times U ( 1 ) _ { n u l l }$ where the $U ( 1 ) _ { n u l l }$ is in the null direction. Null warped AdS $^ 3$ has recently appeared in a completely different context in the search for a dual theory for cold atoms [25, 26]. It would be interesting to see whether the rest of the warped anti-de Sitter metrics,or the null black hole solutions
+
+discussed below, are related to this story.
+
+In summary, for $\nu ^ { 2 } < 1$ there are timelike and spacelike squashed vacua, while for   
+（204号 $\nu ^ { 2 } > 1$ there are timelike and spacelike stretched vacua. At $\nu = 1$ there are two null   
+warped vacua. All of these vacua have an $S L ( 2 , \mathbb { R } ) \times U ( 1 )$ isometry. In addition for   
+every $\nu$ there is the usual $S L ( 2 , \mathbb { R } ) _ { L } \times S L ( 2 , \mathbb { R } ) _ { R }$ -invariant AdS vacuum. $^ 3$
+
+# 4Spacelike stretched black holes
+
+We now switch gears and study the black hole solutions which are asymptotic to warped AdS $_ 3$ .Solutions which are free of naked CTCs or other pathologies are until now known only for the asymptotically spacelike stretched (i.e. $\nu ^ { 2 } > 1$ ）case [15].5 These will be reviewed in this section. Closely related black objects were first discussed in [13,14] and further studied in [39,15] where their conserved ADT charges [40,41,42, 43] and some of their thermodynamic properties were computed.
+
+The metric describing the spacelike stretched black holes for $\nu ^ { 2 } > 1$ is given in Schwarzschild coordinates by
+
+$$
+\begin{array} { c } { { \displaystyle { \frac { d s ^ { 2 } } { \ell ^ { 2 } } = d t ^ { 2 } + \frac { d r ^ { 2 } } { ( \nu ^ { 2 } + 3 ) ( r - r _ { + } ) ( r - r _ { - } ) } + \left( 2 \nu r - \sqrt { r _ { + } r _ { - } ( \nu ^ { 2 } + 3 ) } \right) d t d \theta } } } \\ { { + \displaystyle { \frac { r } { 4 } \left( 3 ( \nu ^ { 2 } - 1 ) r + ( \nu ^ { 2 } + 3 ) ( r _ { + } + r _ { - } ) - 4 \nu \sqrt { r _ { + } r _ { - } ( \nu ^ { 2 } + 3 ) } \right) d \theta ^ { 2 } } } } \end{array}
+$$
+
+where $r \in [ 0 , \infty ]$ ， $t \in [ - \infty , \infty ]$ and $\theta \sim \theta + 2 \pi$ . In the ADM form the above metric becomes,
+
+$$
+d s ^ { 2 } = - N ( r ) ^ { 2 } d t ^ { 2 } + \ell ^ { 2 } R ( r ) ^ { 2 } ( d \theta + N ^ { \theta } ( r ) d t ) ^ { 2 } + \frac { \ell ^ { 4 } d r ^ { 2 } } { 4 R ( r ) ^ { 2 } N ( r ) ^ { 2 } }
+$$
+
+where we have defined,
+
+$$
+\begin{array} { l c l } { { R ( r ) ^ { 2 } } } & { { \equiv } } & { { \displaystyle \frac { r } { 4 } \left( 3 ( \nu ^ { 2 } - 1 ) r + ( \nu ^ { 2 } + 3 ) ( r _ { + } + r _ { - } ) - 4 \nu \sqrt { r _ { + } r _ { - } \left( \nu ^ { 2 } + 3 \right) } \right) } } \\ { { } } & { { N ( r ) ^ { 2 } } } & { { \equiv } } & { { \displaystyle \frac { \ell ^ { 2 } ( \nu ^ { 2 } + 3 ) ( r - r _ { + } ) ( r - r _ { - } ) } { 4 R ( r ) ^ { 2 } } } } \\ { { } } & { { N ^ { \theta } ( r ) } } & { { \equiv } } & { { \displaystyle \frac { 2 \nu r - \sqrt { r _ { + } r _ { - } \left( \nu ^ { 2 } + 3 \right) } } { 2 R ( r ) ^ { 2 } } } } \end{array}
+$$
+
+The horizons are located at $r _ { + }$ and $r _ { - }$ where $1 / g _ { r r }$ as well as the determinant of the $( t , \theta )$ metric vanishes. The vacuum solution for the black holes is given by $r _ { + } = r _ { - } = 0$ （204号 and, like $M = J = 0$ BTZ,is singular at the origin $r = 0$ . We also note that the above metric reduces to the metric of the BTZ black hole in a rotating frame when $\nu ^ { 2 } = 1$ . In the parameter region given by $\nu ^ { 2 } > 1$ we have physical black holes so long as $r _ { + }$ and $r _ { - }$ are non-negative. For $\nu ^ { 2 } < 1$ we always encounter closed timelike curves at large values of $r$ when $\theta$ is identified. Such geometries will not be considered in this paper.
+
+Finally we mention that the spacelike stretched black hole was studied in a slightly different coordinate system in [15] and we give the details of this metric in appendix C. At this point we have finished describing the basic geometry of the previously known non-Einstein black hole solutions of TMG.
+
+# 5Warped black holes as quotients
+
+In this section we will show that the known warped black holes are quotients of warped AdS $^ 3$ under a discrete subgroup $\Gamma$ of the isometry group,much as BTZ black holes are quotients of AdS $^ 3$ [16, 17].
+
+# 5.1 Curvature invariants
+
+A first hint that warped black holes are locally equivalent to warped AdS $^ 3$ comes from looking at the coordinate invariant quantities. In three dimensions these are built from the Ricci tensor and its derivatives. It turns out that warped AdS $_ 3$ and the warped black hole solutions have the same values for these curvature invariants. The invariants built out of the Ricci tensor are given by,
+
+$$
+\left\{ R , R _ { \mu \nu } R ^ { \mu \nu } , R _ { \mu \nu } R ^ { \mu \beta } R _ { \beta } ^ { \nu } \right\} = \frac { 6 } { \ell ^ { 2 } } \left\{ - 1 , \frac { 3 - 2 \nu ^ { 2 } + \nu ^ { 4 } } { \ell ^ { 2 } } , \frac { - 9 + 9 \nu ^ { 2 } - 3 \nu ^ { 4 } - \nu ^ { 6 } } { \ell ^ { 4 } } \right\}
+$$
+
+The derivatives of the Ricci tensor give rise to the following invariant,
+
+$$
+\nabla _ { \mu } R ^ { \beta \alpha } \nabla _ { \alpha } R _ { \beta } ^ { \mu } = \frac { 1 8 \nu ^ { 2 } ( \nu ^ { 2 } - 1 ) ^ { 2 } } { \ell ^ { 6 } }
+$$
+
+The above agreement between the coordinate invariant quantities of the warped AdS $_ 3$ and the warped black holes suggests that they are in fact locally equivalent (see [44] for a rigorous discussion of local equivalence in three dimensions） as we will now demonstrate directly.
+
+# 5.2 Coordinate transformations
+
+In this subsection we exhibit a local coordinate transformation from warped AdS $^ 3$ to the warped black hole metric and thus establish the claim that known warped black holes are locally equivalent to warped AdS $_ 3$ . When we are in the parameter range （20 $\nu ^ { 2 } > 1$ the transformation between 3.3 and 4.1 is,
+
+$$
+\tau ~ = ~ \tan ^ { - 1 } \left[ \frac { 2 \sqrt { ( r - r _ { + } ) ( r - r _ { - } ) } } { 2 r - r _ { + } - r _ { - } } \sinh \left( \frac { 1 } { 4 } ( r _ { + } - r _ { - } ) ( \nu ^ { 2 } + 3 ) \theta \right) \right]
+$$
+
+$$
+\begin{array} { c c l } { { u } } & { { = } } & { { \displaystyle \frac { \nu ^ { 2 } + 3 } { 4 \nu } \left[ 2 t + \left( \nu ( r _ { + } + r _ { - } ) - \sqrt { r _ { + } r _ { - } ( \nu ^ { 2 } + 3 ) } \right) \theta \right] } } \\ { { } } & { { } } & { { \displaystyle - \operatorname { t a n h } ^ { - 1 } \left[ \displaystyle \frac { r _ { + } + r _ { - } - 2 r } { r _ { + } - r _ { - } } \coth \left( \frac { 1 } { 4 } ( r _ { + } - r _ { - } ) ( \nu ^ { 2 } + 3 ) \theta \right) \right] } } \end{array}
+$$
+
+$$
+\sigma ~ = ~ \sinh ^ { - 1 } \left[ \frac { 2 \sqrt { ( r - r _ { + } ) ( r - r _ { - } ) } } { r _ { + } - r _ { - } } \cosh \left( \frac { 1 } { 4 } ( r _ { + } - r _ { - } ) ( \nu ^ { 2 } + 3 ) \theta \right) \right]
+$$
+
+A similar transformation takes us from 3.4 to 4.1 when we are in the parameter range $\nu ^ { 2 } ~ < ~ 1$ although the solutions are not regular in that region. The above transformation breaks down for extremal black holes and we present instead the coordinate transformation in appendix B.
+
+# 5.3 Warped AdS $^ 3$ quotients
+
+Since the warped black holes are locally warped AdS $^ 3$ , they must be a quotient of the latter by a discrete subgroup $\Gamma$ of the $S L ( 2 , \mathbb { R } ) \times U ( 1 )$ isometries - in direct analogy with the case of the BTZ black hole [17]. In this section we find $\Gamma$ . Let us identify points $\mathcal { P }$ in warped AdS $^ 3$ under the action of a Killing vector $\xi$ defining a one parameter subgroup of the full isometry group as follows [17],
+
+$$
+\mathcal { P } \sim e ^ { 2 \pi k \xi } \mathcal { P } , \qquad k = 0 , 1 , 2 \dots .
+$$
+
+The isometries of the various types of warped AdS $^ 3$ are given in appendix A. From 5.4 we see that in order for the coordinate transformation to reproduce the black hole we must identify points along the $\partial _ { \theta }$ direction such that $\theta \sim \theta + 2 \pi$ . Expressing the $\partial _ { \theta }$ Killing vector in terms of the original warped anti-de Sitter coordinates,we
+
+discretely quotient along the isometry
+
+$$
+2 \pi \xi = \partial _ { \theta } = \frac { \nu ^ { 2 } + 3 } { 8 } \left[ \left( r _ { + } + r _ { - } - \frac { \sqrt { ( \nu ^ { 2 } + 3 ) r _ { + } r _ { - } } } { \nu } \right) J _ { 2 } - ( r _ { + } - r _ { - } ) \tilde { J } _ { 2 } \right]
+$$
+
+where the Killing vectors $J _ { 2 } \in U ( 1 ) _ { L }$ and $\ddot { J } _ { 2 } \in S L ( 2 , \mathbb { R } ) _ { R }$ are given in the appendix. Defining the left and right moving temperatures
+
+$$
+\begin{array} { r c l } { { T _ { R } } } & { { \equiv } } & { { \frac { ( \nu ^ { 2 } + 3 ) ( r _ { + } - r _ { - } ) } { 8 \pi \ell } } } \\ { { T _ { L } } } & { { \equiv } } & { { \frac { ( \nu ^ { 2 } + 3 ) } { 8 \pi \ell } \left( r _ { + } + r _ { - } - \frac { \sqrt { ( \nu ^ { 2 } + 3 ) r _ { + } r _ { - } } } { \nu } \right) } } \end{array}
+$$
+
+we have
+
+$$
+\partial _ { \theta } = \pi \ell ( T _ { L } J _ { 2 } - T _ { R } \tilde { J } _ { 2 } )
+$$
+
+$T _ { L }$ and $T _ { R }$ are referred to as temperatures in analogy with the BTZ case where it is known [45] that the coefficients of the shifts are the temperatures of the dual 2d CFT.In the coordinates 3.3 the norm is
+
+$$
+\begin{array} { r c l } { { | T _ { L } J _ { 2 } - T _ { R } \tilde { J } _ { 2 } | ^ { 2 } } } & { { = } } & { { \displaystyle \frac { 1 2 \ell ^ { 2 } ( \nu ^ { 2 } - 1 ) } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } \left[ T _ { R } \cos ( \tau ) \cosh ( \sigma ) \right] ^ { 2 } } } \\ { { } } & { { + } } & { { \displaystyle \frac { 3 2 \nu ^ { 2 } \ell ^ { 2 } } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } T _ { L } T _ { R } \cos ( \tau ) \cosh ( \sigma ) } } \\ { { } } & { { + } } & { { \displaystyle \frac { 4 \ell ^ { 2 } } { \nu ^ { 2 } + 3 } T _ { R } ^ { 2 } + \displaystyle \frac { 1 6 \nu ^ { 2 } \ell ^ { 2 } } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } T _ { L } ^ { 2 } } } \end{array}
+$$
+
+Note that for the squashed case the norm is negative at the boundary so a $\theta$ quotient would produce CTCs.
+
+In summary the spacelike stretched black hole solution 4.1 is a quotient of spacelike stretched AdS 3.3 by a $2 \pi$ shift generated by the isometry 5.7. $_ 3$
+
+# 6 More general quotients
+
+In this section we consider more general quotients of warped AdS3 by discrete subgroups of the isometry group which preserves at least $U ( 1 ) \times U ( 1 )$ . In appendix A the classification of such discrete subroups is extracted from [17]. There are a rich variety of possible structures and they difer for the six possible warpings as discussed below.
+
+Of particular interest are quotients that correspond to regular black holes. By this we mean a geometry with a geometric or causal singularity hidden by an event horizon. Geometric singularities arise when the discrete subgroup has a fixed point. Causal singularities arise when the identification produces null or timelike closed curves. In either case the norm of the quotient-generating isometry has a zero. This singularity should be shielded from infinity by an event horizon,i.e. a place where the $N ^ { 2 }$ multiplying $d t ^ { 2 }$ in the ADM form of the metric vanishes.
+
+We note that this might not be the only type of geometry which should be thought of as a black hole. For example the boundary of the Poincare patch of AdS $^ 2$ or AdS $_ 3$ （20 is an event horizon when these spaces arise as near-horizon limits of extremal black holes or strings [46]. There is a Killing horizon associated to time translations but no singularity behind it. These spaces, though free of singularities, can be thought of as black holes. Also one may consider black hole geometries - such as the black holes in a Godel universe - which have a regular region outside the horizon but CTCs at infinity. Hence the following discussion is a beginning and does not exhaust all interesting possibilities for black holes.
+
+# 6.1 Spacelike Warped
+
+We begin with the spacelike warped case. The three types of one-parameter subgroups are generated by
+
+$$
+\begin{array} { r l } & { \eta _ { a } : \qquad \beta _ { 2 } J _ { 2 } + \alpha _ { 0 } \tilde { J } _ { 0 } } \\ & { \eta _ { b } : \qquad \beta _ { 2 } J _ { 2 } + \alpha _ { 2 } \tilde { J } _ { 2 } } \\ & { \eta _ { c } : \qquad \beta _ { 2 } J _ { 2 } + \tilde { J } _ { 0 } + \tilde { J } _ { 2 } } \end{array}
+$$
+
+The norms of the Killing vectors generating the subgroups $\eta _ { a }$ ， $r / b$ and $\eta _ { c }$ are given in A.15,A.16, A.17. The $\eta _ { c }$ type identifications can be thought of as extremal limits of the previous two cases.
+
+# 6.1.1 Stretched
+
+We begin with the stretched case. If we quotient along $r / b$ with $\alpha _ { 2 } \neq 0$ we obtain the warped black hole solution 4.1, as we already discussed. In order to locate the horizon, we go to the coordinate system where $\partial _ { \phi } = \eta _ { b }$ ， $\partial _ { t } = J _ { 2 }$ and $\begin{array} { r } { r = - { \frac { \alpha _ { 2 } } { \beta _ { 2 } } } \cosh \sigma \cos \tau } \end{array}$ .
+
+Then, $N ^ { 2 }$ in the ADM decomposition is given by
+
+$$
+N ^ { 2 } = \frac { ( J _ { 2 } \cdot \eta _ { b } ) ^ { 2 } } { | \eta _ { b } | ^ { 2 } } - | J _ { 2 } | ^ { 2 }
+$$
+
+The zeroes of $( N ^ { 2 } | \eta _ { b } | ^ { 2 } )$ give the locations of the horizons,and the zeroes of $| \eta _ { b } | ^ { 2 }$ determine the location of the causal singularities. Explicitly these are located at
+
+$$
+r _ { \pm } \equiv \pm | \frac { \alpha _ { 2 } } { \beta _ { 2 } } | , \quad \mathrm { a n d } , \quad r _ { s \pm } \equiv \frac { - 4 \nu ^ { 2 } \pm \sqrt { ( \nu ^ { 2 } + 3 ) ( 4 \nu ^ { 2 } - 3 ( \nu ^ { 2 } - 1 ) \frac { \alpha _ { 2 } ^ { 2 } } { \beta _ { 2 } ^ { 2 } } ) } } { 3 ( \nu ^ { 2 } - 1 ) }
+$$
+
+where $r _ { \pm }$ denote the horizons and $r _ { s + }$ denotes the location of the causal singularity. The causal singularity exists only when $\beta _ { 2 } ^ { 2 } > 3 ( \nu ^ { 2 } - 1 ) \alpha _ { 2 } ^ { 2 } / 4 \nu ^ { 2 }$ and is hidden by the inner horizon for all $\alpha _ { 2 }$ and $\beta _ { 2 }$ except when $| \alpha _ { 2 } | = | \beta _ { 2 } |$ for which $r _ { - }$ and $r _ { s + }$ coincide. When $\beta _ { 2 } ^ { 2 } \le 3 ( \nu ^ { 2 } - 1 ) \alpha _ { 2 } ^ { 2 } / 4 \nu ^ { 2 }$ one finds no CTCs upon identification along $r / b$ and there are no singular regions of the spacetime.
+
+Identifying along $\eta _ { c }$ with $\beta _ { 2 } > 0$ gives us the extremal black hole solutions of 4.1 whereas with $\beta _ { 2 } < 0$ there are CTCs close to the boundary. Identifying along $\eta _ { a }$ with $\alpha _ { 0 } \neq 0$ gives us naked causal singularities. Finally, identifying along $\eta _ { a }$ with （204号 $\alpha _ { 0 } = 0$ gives us no CTCs,and we obtain the self-dual type solutions which we will now describe.
+
+# Self-Dual Solutions
+
+When we identify along $J _ { 2 }$ we find no CTCs and one could call the quotients selfdual solutions in analogy to those quotients of AdS $^ 3$ studied in [18]. In Schwarzschild coordinates this corresponds to identifying $t$ ,i.e. $t \sim t + 2 \pi \alpha$ . Thus we can define a left moving temperature $T _ { L } = ( \nu ^ { 2 } + 3 ) \alpha / ( 4 \pi \nu \ell )$ in the same spirit as 5.9. The right moving temperature vanishes. The entropy of the Killing horizon can be computed using the techniques in [47, 48,49] and we get:6
+
+$$
+S = S _ { E } + S _ { C S } = { \frac { \pi \alpha \ell } { 3 G } } = { \frac { \pi ^ { 2 } T _ { L } \ell } { 3 } } { \frac { 4 \nu \ell } { ( \nu ^ { 2 } + 3 ) G } } \equiv { \frac { \pi ^ { 2 } \ell } { 3 } } c _ { L } T _ { L }
+$$
+
+Notice that in Schwarzschild coordinates 4.1, the self-dual solution has a Killing horizon at the value of $r$ where $g ^ { r r }$ vanishes. Thus,even though these objects don't fall strictly under the category of regular black holes as defined above, they are in many ways like black holes including their thermodynamic behavior. A similar situation holds for all the self-dual black holes we uncover in what follows. These ones, along with their $\nu < 1$ squashed counterparts, are however of particular interest as they appear as the near horizon region of extremal Kerr at fixed polar angle [27, 23].
+
+# 6.1.2 Squashed
+
+In the squashed case with $\nu < 1$ the norms of the Killing vectors are negative at the boundary unless we identify along $\eta _ { a }$ with $\alpha _ { 0 } = 0$ or along $r / b$ with $\alpha _ { 2 } = 0$ . Then the quotients become the self-dual type solutions we mentioned.
+
+The entropy of the squashed self-dual solutions is again given by 6.6. Notice that since we are identifying the $\partial _ { u }$ direction,which is always spacelike for spacelike warped AdS, there is no pathology associated with the self-dual solution, even for （20 $\nu < 1$ . As we saw in 6.6, such self-dual solutions have an entropy obeying the Cardy formula. Furthermore, they have a Kiling horizon in the Schwarzschild coordinates. All these facts suggest that they should be regarded as black holes.
+
+# 6.2 Timelike Warped
+
+The one-parameter subgroups are given by
+
+$$
+\begin{array} { r l } { \xi _ { a } : } & { { } \quad \alpha _ { 0 } \tilde { J } _ { 0 } + \beta _ { 2 } J _ { 2 } } \\ { \xi _ { b } : } & { { } \quad \alpha _ { 0 } \tilde { J } _ { 0 } + \beta _ { 0 } J _ { 0 } } \\ { \xi _ { c } : } & { { } \quad \alpha _ { 0 } \tilde { J } _ { 0 } + J _ { 0 } + J _ { 2 } } \end{array}
+$$
+
+The norms of the Killing vectors generating the subgroups are given in A.22,A.23 and A.24.
+
+# 6.2.1 Stretched
+
+In the stretched case we already encountered CTCs at infinity for the vacuum solution without any quotienting. Hence there are no regular black holes.
+
+# 6.2.2 Squashed
+
+For the squashed case, identifying along $\xi _ { a }$ we find no horizons. When $\alpha _ { 0 } ^ { 2 } < 3 ( 1 -$ $\nu ^ { 2 } ) \beta _ { 2 } ^ { 2 } / 4 \nu ^ { 2 }$ we find no CTCs either. Identifying along $\xi _ { b }$ always gives rise to CTCs
+
+outside the horizon. Identifying along $\xi _ { c }$ always gives rise to CTCs outside the horizon unless $\alpha _ { 0 }$ vanishes in which case we have no CTCs and we have a self-dual type solution.
+
+# 6.3 Null Warped
+
+The one-parameter subgroups are given by
+
+$$
+\begin{array} { l c l } { { n _ { a } } } & { { = } } & { { \alpha _ { 0 } N _ { 0 } + N } } \\ { { } } & { { } } & { { } } \\ { { n _ { b } } } & { { = } } & { { \alpha _ { 1 } N _ { 1 } + N } } \\ { { } } & { { } } & { { } } \\ { { n _ { c } } } & { { = } } & { { \alpha _ { 1 } ( N _ { 1 } + N _ { 0 } ) + N } } \end{array}
+$$
+
+The norms of the Kiling vectors generating the subgroups are given in A.29,A.30 and A.31.
+
+# 6.3.1 Minus Sign
+
+For null warped AdS $^ 3$ with a minus sign we encounter CTCs at the boundary unless （20 $\alpha _ { 0 } = 0$ in which case we have a singularity-free solution.
+
+# 6.3.2 Plus Sign
+
+For null warped AdS $^ 3$ with a plus sign, identifying along $n _ { b }$ gives no causal singularity when $\alpha _ { a }$ is positive and gives CTCs outside the horizon when $\alpha _ { 1 }$ is negative.
+
+Identifyingalong $n _ { a }$ we encounter a horizon and causal singularity located at
+
+$$
+r _ { h } = 0 , \quad r _ { s } = \frac { - 1 \pm \sqrt { 1 - \alpha _ { 0 } ^ { 2 } } } { 2 }
+$$
+
+The horizon, $r _ { h }$ , lies outside the causal singularity, $r _ { s }$ ，whenever $0 < \alpha _ { 0 } < 1$ . One can obtain a real coordinate transformation taking the quotiented null warped metric to the following metric
+
+$$
+\frac { d s ^ { 2 } } { \ell ^ { 2 } } = - \frac { r ^ { 2 } } { r ^ { 2 } + r + \tilde { \alpha } _ { 0 } ^ { 2 } } d t ^ { 2 } + \left( r ^ { 2 } + r + \tilde { \alpha } _ { 0 } ^ { 2 } \right) \left( d \phi - \frac { r d t } { r ^ { 2 } + r + \tilde { \alpha } _ { 0 } ^ { 2 } } \right) ^ { 2 } + \frac { d r ^ { 2 } } { 4 r ^ { 2 } }
+$$
+
+where $r \in [ r _ { s } , \infty ]$ ， $u \in [ - \infty , \infty ]$ and $\phi \sim \phi + 2 \pi$ and we have defined $\tilde { \alpha } _ { 0 } \equiv \alpha _ { 0 } / 2$ . The coordinate transformation is given by
+
+$$
+\begin{array} { l c l } { { x ^ { - } } } & { { = } } & { { { e ^ { \alpha _ { 0 } \phi } } } } \\ { { } } & { { } } & { { { x ^ { + } } } } \\ { { } } & { { } } & { { } } \\ { { u } } & { { = } } & { { \displaystyle \sqrt { \frac { \alpha _ { 0 } e ^ { \alpha _ { 0 } \phi } } { r } } } } \end{array}
+$$
+
+We can recognize the above solution as the extremal BC black hole C.1 for the special value $\Omega = \textstyle { \frac { 1 } { 2 } }$ and $\rho _ { 0 } = 3 ( \nu ^ { 2 } - 1 ) \alpha _ { 0 } ^ { 2 } / 4 ( \nu ^ { 2 } + 3 )$ in the limit $\nu \longrightarrow 1$ . The conserved ADT charges [15] of this black hole with respect to the $\partial _ { t }$ and $\partial _ { \phi }$ Killing vectors are given by
+
+$$
+\mathcal { M } ^ { A D T } = 0 , \quad \mathcal { T } ^ { A D T } = - \frac { \alpha _ { 0 } ^ { 2 } \ell } { 1 2 G }
+$$
+
+The temperature and angular momentum at the horizon as defined in 7.12 and 7.13 vanish for the above solution. However the right moving temperature is non-zero:
+
+$$
+T _ { R } = { \frac { \alpha _ { 0 } } { 2 \pi \ell } }
+$$
+
+and the thermodynamic entropy is given by
+
+$$
+S = { \frac { \pi \alpha _ { 0 } \ell } { 3 G } } = { \frac { \pi ^ { 2 } \ell T _ { R } } { 3 } } { \frac { ( 5 \nu ^ { 2 } + 3 ) \ell } { G \nu ( \nu ^ { 2 } + 3 ) } } \left| _ { \nu \to 1 } \right.
+$$
+
+The term $( 5 \nu ^ { 2 } + 3 ) \ell / G \nu ( \nu ^ { 2 } + 3 )$ will be recognized as the right moving central charge in the following section. A similar situation to $n _ { a }$ holds if we identify along $n _ { c }$
+
+# 7Thermodynamics
+
+The thermodynamics of spacelike stretched black holes was studied in [15] where it was shown that， after accounting for the effects of the Chern-Simons term on the various thermodynamic quanitities, they obey the first law. In this section we reorganize the formulae in a suggestive manner to motivate the conjecture of the concluding section.
+
+# 7.1 Entropy
+
+The entropy of the warped black hole is composed of two terms. There is the usual term stemming from the Einstein action and a term coming from the Chern-Simons part of the action [47, 48, 49]. The total entropy of the warped black hole is given by
+
+$$
+S = \frac { \pi \ell } { 2 4 \nu G } \left[ ( 9 \nu ^ { 2 } + 3 ) r _ { + } - ( \nu ^ { 2 } + 3 ) r _ { - } - 4 \nu \sqrt { ( \nu ^ { 2 } + 3 ) r _ { + } r _ { - } } \right]
+$$
+
+It is instructive to rewrite this in terms of the temperatures $T _ { L }$ and $T _ { R }$ appearing in 5.9.Defining right and left moving “central charges",
+
+$$
+\begin{array}{c} \begin{array} { l } { { c _ { R } } } \end{array} { \equiv } \begin{array} { l } { { \displaystyle \frac { ( 5 \nu ^ { 2 } + 3 ) \ell } { G \nu ( \nu ^ { 2 } + 3 ) } } } \\ { { \mathrm { } } } \\ { { c _ { L } } } \end{array}   \\ { { c _ { L } } } \end{array} { \equiv } \begin{array} { l } { { \displaystyle \frac { 4 \nu \ell } { G ( \nu ^ { 2 } + 3 ) } } } \end{array}
+$$
+
+allows us to express the entropy of the warped black hole in the following suggestive manner
+
+$$
+S = { \frac { \pi ^ { 2 } \ell } { 3 } } \left( c _ { L } T _ { L } + c _ { R } T _ { R } \right) .
+$$
+
+This is precisely the formula for the entropy of a 2d CFT with central charges $c _ { L }$ （204号 and $c _ { R }$ at temperatures $T _ { L }$ and $T _ { R }$ . Of course the central charges were defined so that this relation holds: a nontrivial observation is that so defined they depend only on the coupling constant $\nu$ and not $r _ { \pm }$ .A further nontrivial fact is that the left and right moving central charges, $c _ { L }$ and $c _ { R }$ ,are equal to the left and right moving central charges of TMG in AdS when $\nu = 1$ ．A final nontrivial check is that the $_ 3$   
+difference between the left and right moving central charges matches the coefficient of the diffeomorphism anomaly [50]
+
+$$
+c _ { L } - c _ { R } = - \frac { \ell } { G \nu }
+$$
+
+One can also define the following left and right moving energies,
+
+$$
+\begin{array} { r c l } { { E _ { L } } } & { { \equiv } } & { { { \displaystyle { \frac { \pi ^ { 2 } \ell } { 6 } } c _ { L } T _ { L } ^ { 2 } } } } \\ { { } } & { { } } & { { } } \\ { { E _ { R } } } & { { \equiv } } & { { { \displaystyle { \frac { \pi ^ { 2 } \ell } { 6 } } c _ { R } T _ { R } ^ { 2 } } } } \end{array}
+$$
+
+Which by construction obey
+
+$$
+\begin{array} { r c l } { { \displaystyle \frac { d S } { d E _ { L } } } } & { { = } } & { { \displaystyle \frac { 1 } { T _ { L } } } } \\ { { \displaystyle \frac { d S } { d E _ { R } } } } & { { = } } & { { \displaystyle \frac { 1 } { T _ { R } } . } } \end{array}
+$$
+
+# 7.2 First law
+
+A black hole is characterized by conserved charges such as the energy or angular momentum, as well as conjugate variables such as temperature or angular potential. It is a nontrivial test of black hole dynamics that these quantities are related by the first law. The spacelike stretched black holes were shown to pass this test in [15]. They compute the so-called ADT mass $\mathcal { M } ^ { A D T }$ and angular momentum $\mathcal { J } ^ { A D T }$ , using the surface integral expressions derived in [40, 41,42, 43] for the conserved charges associated to the asymptotic Killing vectors $\partial _ { t }$ and $\partial _ { \theta }$ of 4.1 and find
+
+$$
+\mathcal { M } ^ { A D T } = \frac { ( \nu ^ { 2 } + 3 ) } { 2 4 G } \left( r _ { + } + r _ { - } - \frac { 1 } { \nu } \sqrt { r _ { + } r _ { - } ( \nu ^ { 2 } + 3 ) } \right)
+$$
+
+$$
+\begin{array} { r } { \mathcal { I } ^ { A D T } = \frac { \nu \ell ( \nu ^ { 2 } + 3 ) } { 9 6 G } \left[ \left( r _ { + } + r _ { - } - \frac { 1 } { \nu } \sqrt { r _ { + } r _ { - } ( \nu ^ { 2 } + 3 ) } \right) ^ { 2 } \right. } \\ { \left. - \frac { ( 5 \nu ^ { 2 } + 3 ) } { 4 \nu ^ { 2 } } ( r _ { + } - r _ { - } ) ^ { 2 } \right] } \end{array}
+$$
+
+They further compute the Hawking temperature $T _ { H }$ ， defined as the surface gravity of the horizon divided by $2 \pi$ , and the angular velocity of the horizon $\Omega _ { H }$ as
+
+$$
+\begin{array} { l l l } { { T _ { H } } } & { { \equiv } } & { { \displaystyle \frac { 1 } { 2 \pi \ell } \sqrt { g ^ { r r } } \partial _ { r } N = \frac { \left( \nu ^ { 2 } + 3 \right) } { 4 \pi \ell } \frac { \left( r _ { + } - r _ { - } \right) } { \left( 2 \nu r _ { + } - \sqrt { \left( \nu ^ { 2 } + 3 \right) r _ { + } r _ { - } } \right) } } } \\ { { \Omega _ { H } } } & { { \equiv } } & { { \displaystyle \frac { N ^ { \theta } } { \ell } = \frac { 2 } { \left( 2 \nu r _ { + } - \sqrt { \left( \nu ^ { 2 } + 3 \right) r _ { + } r _ { - } } \right) \ell } } } \end{array}
+$$
+
+They then explicitly check that these are related to the entropy via the first law:
+
+$$
+T _ { H } = \left( { \frac { \partial S } { \partial { \mathcal { M } } ^ { A D T } } } \right) ^ { - 1 } , \quad \Omega _ { H } = T _ { H } \left( { \frac { \partial S } { \partial { \mathcal { I } } ^ { A D T } } } \right) .
+$$
+
+In the preceding subsection we propose that the conserved charges $( E _ { L } , E _ { R } )$ and potentials $( T _ { L } , T _ { R } )$ are more natural for this system than $( \mathcal { M } ^ { A D T } , \mathcal { T } ^ { A D T } )$ and
+
+$T _ { H } , \Omega _ { H }$ . Since this is just a change of variables - albeit an illuminating one - the first law will still hold for the new charges/potentials. To see this explicitly one can express the conserved ADT charges in terms of the left and right moving temperatures and energies as follows,
+
+$$
+\begin{array} { r c l } { \displaystyle \mathcal { M } ^ { A D T } } & { = } & { \displaystyle \frac { 1 } { G } \sqrt { \frac { 2 \ell E _ { L } } { 3 c _ { L } } } } \\ { \displaystyle \mathcal { I } ^ { A D T } } & { = } & { \displaystyle \ell ( E _ { L } - E _ { R } ) . } \end{array}
+$$
+
+The potentials are related by
+
+$$
+\begin{array} { l l l } { { { \displaystyle \frac { 1 } { T _ { H } } } } } & { { = } } & { { { \displaystyle \frac { 4 \pi \nu \ell } { \nu ^ { 2 } + 3 } \frac { T _ { L } + T _ { R } } { T _ { R } } } } } \\ { { { \displaystyle \frac { \Omega _ { H } } { T _ { H } } } } } & { { = } } & { { { \displaystyle \frac { 1 } { T _ { R } \ell } } . } } \end{array}
+$$
+
+One may then readily use these relations to verify that 7.14 is equivalent to the first law 7.9 in the new variables.7
+
+# 7.3A conjecture
+
+Topologically massive gravity with $\nu > 1$ ( $\mu \ell > 3$ ）admits an $U ( 1 ) _ { L } \times S L ( 2 , \mathbb { R } ) _ { R ^ { - } }$ （20 invariant candidiate ground state referred to as spacelike stretched (warped) AdS $_ 3$ ，as well as regular black hole solutions. We conjecture that with suitable asymptotically stretched AdS $_ 3$ boundary conditions $\nu > 1$ quantum TMG is holographically dual to a 2D boundary CFT with $\begin{array} { r } { c _ { R } = \frac { ( 5 \nu ^ { 2 } + 3 ) \ell } { G \nu ( \nu ^ { 2 } + 3 ) } } \end{array}$ and $\begin{array} { r } { c _ { L } = \frac { 4 \nu \ell } { G ( \nu ^ { 2 } + 3 ) } } \end{array}$ .
+
+The primary motivations for this conjecture are that application of the Cardy formula to the CFT density of states reproduces the black hole entropy， and that as far as we understand the conjecture does not contradict any known properties of the theory. The conjecture passed some weak tests in section 7. Further tests of the conjecture are possible. After understanding the boundary conditions, perturbative stability must be demonstrated. These boundary conditions will also determine the asymptotic symmetry group, and perhaps enable a check of the formulae 7.2 and 7.3 for the central charges [51] along the lines of [37]. Finally, it might be possible to engineer TMG on warped AdS $^ 3$ in a decoupling limit of string theory and find the dual CFT.
+
+# Acknowledgements
+
+This work was partially funded by an DOE grant DE-FG02-91ER40654. We wish to thank M. Guica and T. Hartman for useful comments on the draft. W. S. thanks the High Energy Group at Harvard for their kind hospitality. M. P. is supported by an NSF fellowship.
+
+# AIsometries
+
+We write down the relevant Killing vectors for the various warped AdS $_ 3$ metrics.The $S L ( 2 , \mathbb { R } ) _ { L }$ isometries are given by
+
+$$
+\begin{array} { r c l } { { J _ { 1 } } } & { { = } } & { { \displaystyle \frac { 2 \sinh u } { \cosh \sigma } \partial _ { \tau } - 2 \cosh u \partial _ { \sigma } + 2 \operatorname { t a n h } \sigma \sinh u \partial _ { u } } } \\ { { J _ { 2 } } } & { { = } } & { { 2 \partial _ { u } } } \\ { { J _ { 0 } } } & { { = } } & { { \displaystyle - \frac { 2 \cosh u } { \cosh \sigma } \partial _ { \tau } + 2 \sinh u \partial _ { \sigma } - 2 \operatorname { t a n h } \sigma \cosh u \partial _ { u } } } \end{array}
+$$
+
+These satisfy the algebra $[ J _ { 1 } , J _ { 2 } ] = 2 J _ { 0 }$ ， $[ J _ { 0 } , J _ { 1 } ] = - 2 J _ { 2 }$ and $[ J _ { 0 } , J _ { 2 } ] = 2 J _ { 1 }$ .The $S L ( 2 , \mathbb { R } ) _ { R }$ isometries are given by
+
+$$
+\begin{array} { r c l } { { \tilde { J } _ { 1 } } } & { { = } } & { { 2 \sin \tau \operatorname { t a n h } \sigma \partial _ { \tau } - 2 \cos \tau \partial _ { \sigma } + \displaystyle \frac { 2 \sin \tau } { \cosh \sigma } \partial _ { u } } } \\ { { } } & { { } } & { { } } \\ { { \tilde { J } _ { 2 } } } & { { = } } & { { - 2 \cos \tau \operatorname { t a n h } \sigma \partial _ { \tau } - 2 \sin \tau \partial _ { \sigma } - \displaystyle \frac { 2 \cos \tau } { \cosh \sigma } \partial _ { u } } } \\ { { \tilde { J } _ { 0 } } } & { { = } } & { { 2 \partial _ { \tau } } } \end{array}
+$$
+
+These satisfy the algebra $[ \tilde { J } _ { 1 } , \tilde { J } _ { 2 } ] = 2 \tilde { J } _ { 0 }$ ， $[ \tilde { J } _ { 0 } , \tilde { J } _ { 1 } ] = - 2 \tilde { J } _ { 2 }$ and $[ \tilde { J } _ { 0 } , \tilde { J } _ { 2 } ] = 2 \tilde { J } _ { 1 }$
+
+As mentioned in the text the Killing vectors preserved by spacelike warped antide Sitter space are given by the $S L ( 2 , \mathbb { R } ) _ { R }$ and $J _ { 2 }$ . The Killing vectors preserved by timelike warped anti-de Sitter space are given by the $S L ( 2 , \mathbb { R } ) _ { L }$ and ${ \ddot { J } } _ { 0 }$
+
+The Killing vectors for null warped anti-de Sitter space are given by
+
+$$
+\begin{array} { r c l } { { N _ { 1 } } } & { { = } } & { { \partial _ { - } , } } \\ { { N _ { 0 } } } & { { = } } & { { x ^ { - } \partial _ { - } + \displaystyle \frac { u } { 2 } \partial _ { u } , } } \\ { { N _ { - 1 } } } & { { = } } & { { ( x ^ { - } ) ^ { 2 } \partial _ { - } - u ^ { 2 } \partial _ { + } + x ^ { - } u \partial _ { u } } } \\ { { N } } & { { = } } & { { \partial _ { + } } } \end{array}
+$$
+
+where the $U ( 1 ) _ { n u l l }$ is spanned by $N$ . These satisfy the algebra $[ N _ { 1 } , N _ { 0 } ] ~ = ~ N _ { 1 }$ $\left\lfloor N _ { - 1 } , N _ { 0 } \right\rfloor = - N _ { - 1 }$ and $[ N _ { 1 } , N _ { - 1 } ] = 2 N _ { 0 }$
+
+# A.1 Classification of $S L ( 2 , \mathbb { R } ) \times U ( 1 )$ Subgroups
+
+In this section we classify the various one-parameter subgroups of the isometries for the three types of warped anti-de Sitter space. Our classification is based on the classification of the one-parameter subgroups of $S L ( 2 , \mathbb { R } ) _ { L } \times S L ( 2 , \mathbb { R } ) _ { R }$ given in [17].
+
+# A.1.1 Spacelike Warped anti-de Sitter Space
+
+Spacelike warped AdS has isometry group $U ( 1 ) _ { L } \times S L ( 2 , \mathbb { R } ) _ { R }$ . The most general form of the Killing vector along which we can quotient is
+
+$$
+\beta _ { 2 } J _ { 2 } + \alpha _ { 2 } \tilde { J } _ { 2 } + \alpha _ { 0 } \tilde { J } _ { 0 } + \alpha _ { 1 } \tilde { J } _ { 1 } .
+$$
+
+We can always get rid of the $\alpha _ { 1 }$ via a $U ( 1 ) _ { L } \times S L ( 2 , \mathbb { R } ) _ { R }$ transformation. There are three types of one parameter subgroups generated by
+
+$$
+\begin{array} { r l } & { \eta _ { a } : \qquad \beta _ { 2 } J _ { 2 } + \alpha _ { 0 } \tilde { J } _ { 0 } } \\ & { \eta _ { b } : \qquad \beta _ { 2 } J _ { 2 } + \alpha _ { 2 } \tilde { J } _ { 2 } } \\ & { \eta _ { c } : \qquad \beta _ { 2 } J _ { 2 } + \tilde { J } _ { 0 } + \tilde { J } _ { 2 } } \end{array}
+$$
+
+In terms of the classification in [17], these correspond to $I _ { a } , \ I _ { b }$ ，and $I I _ { a }$ (the first form） respectively. The norms of the above generators are
+
+$$
+{ \begin{array} { r l r } { \eta _ { \alpha } ^ { 2 } } & { = } & { { \cfrac { 1 2 L ^ { 2 \ell } } { ( v ^ { 2 } + 3 ) ^ { 2 } } } \left( v _ { \alpha } \sinh ( \sigma ) \right) ^ { 2 } + { \cfrac { 3 2 L ^ { 2 \ell } } { ( v ^ { 2 } + 3 ) ^ { 2 } } } \beta _ { 2 } \left| \cosh ( \sigma ) \right| } \\ & { - } & { { \cfrac { 4 L ^ { 2 \ell } } { v ^ { 2 } + 3 } } \alpha _ { 0 } ^ { 2 } - { \cfrac { 1 6 L ^ { 6 } r ^ { 2 } \ell ^ { 2 } } { ( v ^ { 2 } + 3 ) ^ { 2 } } } \beta _ { 2 } ^ { 2 } } & { ( v ) } \\ { \eta _ { \alpha } ^ { 2 } } & { = } & { { \cfrac { 1 2 L ^ { 2 \ell } } { ( v ^ { 2 } + 3 ) ^ { 2 } } } \left( v _ { 2 } \cos ( \tau ) \cosh ( \sigma ) \right) ^ { 2 } - { \cfrac { 3 2 v ^ { 2 } \ell ^ { 2 } } { ( v ^ { 2 } + 3 ) ^ { 2 } } } \beta _ { 2 } \left[ \cosh ( \sigma ) \right] } \\ & { + } & { { \cfrac { 4 L ^ { 2 \ell } } { v ^ { 2 } + 3 } } ( \sigma _ { 2 } ^ { 2 } ) + { \cfrac { 1 6 L ^ { 6 } r ^ { 2 } \ell ^ { 2 } } { ( v ^ { 2 } + 3 ) ^ { 2 } } } \beta _ { 2 } ^ { 2 } } & { ( v ) } \\ { \eta _ { \alpha } ^ { 2 } } & { = } & { { \cfrac { 1 2 L ^ { 2 \ell } } { ( v ^ { 2 } + 3 ) ^ { 2 } } } \left( \sinh ( \sigma ) - \cosh ( \tau ) \cosh ( \sigma ) \right) ^ { 2 } + { \cfrac { 3 2 v ^ { 2 } \ell ^ { 2 } } { ( v ^ { 2 } + 3 ) ^ { 2 } } } \beta _ { 2 } \left[ \sinh ( \sigma ) - \cosh ( \tau ) \cosh ( \sigma ) \right] } \\ & { + } & { { \cfrac { 1 6 L ^ { 2 \ell } } { ( v ^ { 2 } + 3 ) ^ { 2 } } } \beta _ { 2 } ^ { 2 } } \end{array} }
+$$
+
+# A.1.2 Timelike Warped anti-de Sitter Space
+
+For timelike warped, the most general form of the Killing vector is
+
+$$
+\alpha _ { 0 } \tilde { J } _ { 0 } + \beta _ { 2 } J _ { 2 } + \beta _ { 0 } J _ { 0 } + \beta _ { 1 } J _ { 1 } .
+$$
+
+We can always eliminate $\beta _ { 1 }$ via an $S L ( 2 , \mathbb { R } ) _ { L } \times U ( 1 ) _ { R }$ transformation. There are three types of one parameter subgroups generated by
+
+$$
+\begin{array} { r l } { \xi _ { a } : } & { { } \quad \alpha _ { 0 } \tilde { J } _ { 0 } + \beta _ { 2 } J _ { 2 } } \\ { \xi _ { b } : } & { { } \quad \alpha _ { 0 } \tilde { J } _ { 0 } + \beta _ { 0 } J _ { 0 } } \\ { \xi _ { c } : } & { { } \quad \alpha _ { 0 } \tilde { J } _ { 0 } + J _ { 0 } + J _ { 2 } } \end{array}
+$$
+
+In terms of the classification in [17], these correspond to $I _ { a } , \ I _ { b }$ ，and $I I _ { a }$ (the first form）respectively. The norms are
+
+$$
+\begin{array} { r l } { \xi _ { \alpha } ^ { 2 } } & { = - \frac { 1 2 \ell ^ { 2 } \ell ^ { 2 } \nu ^ { 2 } - 1 } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } \left[ \beta _ { 2 } \sinh ( \sigma ) \right] ^ { 2 } - \frac { 3 2 \nu ^ { 2 } \ell ^ { 2 } } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } \alpha _ { 0 } \left[ \beta _ { 2 } \sinh ( \sigma ) \right] } \\ & { + \ \frac { 4 \ell ^ { 2 } } { \nu ^ { 2 } + 3 } ( \beta _ { 2 } ^ { 2 } ) - \frac { 1 6 \nu \ell ^ { 2 } \ell ^ { 2 } } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } \sigma _ { 0 } ^ { 2 } } \\ { \xi _ { \alpha } ^ { 2 } } & { = - \ \frac { 1 2 \ell ^ { 2 } \left( \nu ^ { 2 } - 1 \right) } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } \left[ \beta _ { 0 } \cosh ( \tilde { \nu } ) \cosh ( \sigma ) \right] ^ { 2 } + \frac { 3 2 \nu ^ { 2 } \ell ^ { 2 } } { \left\{ \nu ^ { 2 } + 3 \right\} ^ { 2 } } \alpha _ { 0 } \left[ \beta _ { 1 } \cosh ( \tilde { \nu } ) \cosh ( \sigma ) \right] } \\ & { - \ \frac { 4 \ell ^ { 2 } } { \nu ^ { 2 } + 3 } ( \beta _ { 0 } ^ { 2 } ) - \frac { 1 6 \nu \ell ^ { 2 } \ell ^ { 2 } } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } \sigma _ { 0 } ^ { 2 } } \\ { \xi _ { c } ^ { 2 } } & { = \ - \frac { 1 2 \ell ^ { 2 } \left( \nu ^ { 2 } - 1 \right) } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } \left[ \sin ( \sigma ) - \cosh ( \tilde { \nu } ) \cosh ( \sigma ) \right] ^ { 2 } - \frac { 8 2 \nu \ell ^ { 2 } \ell ^ { 2 } } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } \alpha _ { 0 } \left[ \sinh ( \sigma ) - \cosh ( \tilde { \nu } ) \right] } \\ & { - \ \frac { 1 6 \nu ^ { 2 } \ell ^ { 2 } } { ( \nu ^ { 2 } + 3 ) ^ { 2 } } \alpha _ { 0 } ^ { 2 } } \end{array}
+$$
+
+# A.1.3 Null Warped anti-de Sitter Space
+
+The most general linear combination of Killing vectors is
+
+$$
+\xi = N + \alpha _ { 1 } N _ { 1 } + \alpha _ { 0 } N _ { 0 } + \alpha _ { - 1 } N _ { - 1 }
+$$
+
+By a shift of $x ^ { - }$ ，we can eliminate the term with $N _ { - 1 }$ . Then the distinct subgroups are generated by
+
+$$
+\begin{array} { r c l } { n _ { a } } & { = } & { \alpha _ { 0 } N _ { 0 } + N } \end{array}
+$$
+
+$$
+\begin{array} { l c l } { { n _ { b } } } & { { = } } & { { \alpha _ { 1 } N _ { 1 } + N } } \\ { { n _ { c } } } & { { = } } & { { \alpha _ { 1 } ( N _ { 1 } + N _ { 0 } ) + N } } \end{array}
+$$
+
+We have not included a coefficient in front of the $N$ because it is null. The norm is
+
+$$
+\begin{array} { r c l } { { n _ { a } ^ { 2 } } } & { { = } } & { { \ell ^ { 2 } \left( \pm \displaystyle \frac { \alpha _ { 0 } ^ { 2 } ( x ^ { - } ) ^ { 2 } } { u ^ { 4 } } + \displaystyle \frac { \alpha _ { 0 } } { u ^ { 2 } } ( x ^ { - } ) + \displaystyle \frac { \alpha _ { 0 } ^ { 2 } } { 4 } \right) } } \\ { { n _ { b } ^ { 2 } } } & { { = } } & { { \ell ^ { 2 } \left( \pm \displaystyle \frac { \alpha _ { 1 } ^ { 2 } } { u ^ { 4 } } + \displaystyle \frac { \alpha _ { 1 } } { u ^ { 2 } } \right) } } \\ { { n _ { c } ^ { 2 } } } & { { = } } & { { \ell ^ { 2 } \left( \pm \displaystyle \frac { \alpha _ { 1 } ^ { 2 } } { u ^ { 4 } } ( 1 + x ^ { - } ) ^ { 2 } + \displaystyle \frac { \alpha _ { 1 } } { u ^ { 2 } } ( 1 + x ^ { - } ) + \displaystyle \frac { \alpha _ { 1 } ^ { 2 } } { 4 } \right) } } \end{array}
+$$
+
+where the plus sign corresponds to the null warped metric with a plus sign and vice versa.
+
+# B ExtremalBlack Holes
+
+It is convenient to introduce spacelike warped AdS $_ 3$ in Poincare coordinates
+
+$$
+\frac { d s ^ { 2 } } { \ell ^ { 2 } } = \frac { 1 } { \nu ^ { 2 } + 3 } \left( - x ^ { 2 } d \psi ^ { 2 } + \frac { d x ^ { 2 } } { x ^ { 2 } } + \frac { 4 \nu ^ { 2 } } { \nu ^ { 2 } + 3 } ( d \phi + x d \psi ) ^ { 2 } \right)
+$$
+
+and note that the coordinate transformation from Poincare coordinates to the global coordinate in 3.3 is:
+
+$$
+\begin{array} { r c l } { { \psi } } & { { = } } & { { \displaystyle - \frac { \sin ( \tau ) } { 2 ( \operatorname { t a n h } ( \sigma ) - \cos ( \tau ) ) } } } \\ { { \phi } } & { { = } } & { { \displaystyle u + 2 \operatorname { t a n h } ^ { - 1 } \left( e ^ { \sigma } \tan ( \frac { \tau } { 2 } ) \right) } } \\ { { x } } & { { = } } & { { 2 ( \sinh ( \sigma ) - \cos ( \tau ) \cosh ( \sigma ) ) } } \end{array}
+$$
+
+The metric of extremal warped black hole is obtained by setting $\prime { + } = \prime { - } = \prime \prime _ { h }$ in 4.1 to obtain
+
+$$
+\begin{array} { r c l } { { \displaystyle \frac { d s ^ { 2 } } { \ell ^ { 2 } } } } & { { = } } & { { d t ^ { 2 } + \displaystyle \frac { d r ^ { 2 } } { ( \nu ^ { 2 } + 3 ) ( r - r _ { h } ) ^ { 2 } } + \left( 2 \nu r - \sqrt { \nu ^ { 2 } + 3 } r _ { h } \right) d t d \theta } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { + \displaystyle \frac { r } { 4 } \left( 3 ( \nu ^ { 2 } - 1 ) r + 2 ( \nu ^ { 2 } + 3 ) r _ { h } - 4 \nu r _ { h } \sqrt { \nu ^ { 2 } + 3 } \right) d \theta ^ { 2 } } } \end{array}
+$$
+
+Then the coordinate transformation from the Poincare coordinate to the extremal black hole is
+
+$$
+\begin{array} { l c l } { { t } } & { { = } } & { { \displaystyle \frac { 2 \nu } { ( \nu ^ { 2 } + 3 ) } \phi + \frac { r _ { h } ( - 2 \nu + \sqrt { \nu ^ { 2 } + 3 } ) \psi } { ( \nu ^ { 2 } + 3 ) } } } \\ { { \theta } } & { { = } } & { { \displaystyle \frac { 2 \psi } { \nu ^ { 2 } + 3 } } } \\ { { r } } & { { = } } & { { x + r _ { h } } } \end{array}
+$$
+
+Combining the above coordinate transformations gives the coordinate transformation between warped AdS $_ 3$ and the extremal warped black hole,
+
+$$
+\begin{array} { r c l } { t } & { = } & { \displaystyle \frac { 2 \nu } { ( \nu ^ { 2 } + 3 ) } \left( u + 2 \operatorname { t a n h } ^ { - 1 } \left( e ^ { \sigma } \tan ( \frac { \tau } { 2 } ) \right) \right) - \frac { r _ { h } ( - 2 \nu + \sqrt { \nu ^ { 2 } + 3 } ) \sin ( \tau ) _ { \left( \mathrm { B } \right) } } { 2 ( \nu ^ { 2 } + 3 ) \left( \operatorname { t a n h } ( \sigma ) - \cos ( \tau ) \right) ^ { 3 } } } \\ { \theta } & { = } & { \displaystyle - \frac { \sin ( \tau ) } { ( \nu ^ { 2 } + 3 ) ( \operatorname { t a n h } ( \sigma ) - \cos ( \tau ) ) } } \\ { r } & { = } & { 2 ( \sinh ( \sigma ) - \cos ( \tau ) \cosh ( \sigma ) ) + r _ { h } \medskip ( \mathrm { B } ^ { 2 } + 2 \sigma ) \arctan ( \sigma ) - \cos ( \tau ) ) } \end{array} \mathrm { B }
+$$
+
+# C BC Coordinates
+
+# C.1 Metric
+
+In [15] a warped black hole closely related to the Schwarzschild solution in 4.1 was obtained by a simple transformation which we describe below. We wil refer to these coordinates as BC coordinates for which the metric is given by
+
+$$
+\frac { _ { \overline { { { B C } } } } ^ { 2 } } { _ { 2 } ^ { 2 } } = - \frac { \left( \nu ^ { 2 } + 3 \right) } { 4 \nu ^ { 2 } } \frac { \rho ^ { 2 } - \rho _ { 0 } ^ { 2 } } { R ( \rho ) ^ { 2 } } d T ^ { 2 } + \frac { 1 } { ( \nu ^ { 2 } + 3 ) } \frac { d \rho ^ { 2 } } { \rho ^ { 2 } - \rho _ { 0 } ^ { 2 } } + R ( \rho ) ^ { 2 } \left[ d \phi - \frac { 4 \nu ^ { 2 } \rho + 3 ( \nu ^ { 2 } - 1 ) \Omega } { 4 \nu ^ { 2 } R ( \rho ) ^ { 2 } } d T \right] ^ { 2 }
+$$
+
+where $\rho \in [ \rho _ { s } , \infty ]$ ， $T \in [ - \infty , \infty ]$ and $\phi \sim \phi + 2 \pi$ . We have defined
+
+$$
+R ( \rho ) ^ { 2 } ~ \equiv ~ \rho ^ { 2 } + 2 \Omega \rho + \frac { 3 \Omega ^ { 2 } ( \nu ^ { 2 } - 1 ) } { 4 \nu ^ { 2 } } + \frac { ( \nu ^ { 2 } + 3 ) } { 3 ( \nu ^ { 2 } - 1 ) } \rho _ { 0 } ^ { 2 }
+$$
+
+such that $R ( \rho _ { s } ) = 0$ . There is a vacuum solution analogous to the massless BTZ or Poincare anti-de Sitter space for the BC black hole which is given by setting $\rho _ { 0 } = \Omega = 0$ . The horizons of the BC black hole are located at $\rho = \pm \rho _ { 0 }$ where $\rho _ { 0 } > 0$ （ and the (causal) singularities are located at $\rho = \rho _ { s }$ . We would like to emphasize that these are singularities in the causal structure [17] and not spacetime singularities that appear in the coordinate invariants. The metric C.1 contains such causal singularities
+
+in the parameter range
+
+$$
+\Omega ^ { 2 } > \frac { 4 \nu ^ { 2 } \rho _ { 0 } ^ { 2 } } { 3 ( \nu ^ { 2 } - 1 ) }
+$$
+
+In order to avoid naked singularities we require that $\rho _ { 0 } > \rho _ { s }$ which gives us the bound
+
+$$
+\frac { 3 ( \nu ^ { 2 } - 1 ) } { 4 \nu ^ { 2 } } \left[ \Omega + \frac { 4 \nu ^ { 2 } \rho _ { 0 } } { 3 ( \nu ^ { 2 } - 1 ) } \right] ^ { 2 } > 0
+$$
+
+This condition is satisfied for $\nu ^ { 2 } > 1$ and thus the physical black holes for both the Schwarzschild and BC coordinates are in the same parameter region. The location of the horizon and singularity coincide whenever $\Omega = - 4 \nu ^ { 2 } \rho _ { 0 } / 3 ( \nu ^ { 2 } - 1 )$ ：
+
+# C.2 Schwarzschild to BC Coordinate Transformation
+
+The coordinate transformation relating the solution in Schwarzschild coordinates 4.1 to the BC solution C.1 is given by
+
+$$
+\begin{array} { l l l } { { t } } & { { = } } & { { \displaystyle \frac { 1 } { \nu } \left( \frac { 3 ( \nu ^ { 2 } - 1 ) } { 4 } \right) ^ { 1 / 2 } T } } \\ { { \theta } } & { { = } } & { { \displaystyle - \left( \frac { 4 } { 3 ( \nu ^ { 2 } - 1 ) } \right) ^ { 1 / 2 } \phi } } \\ { { r } } & { { = } } & { { \displaystyle \rho + \frac { 1 } { 2 } ( r _ { + } + r _ { - } ) } } \end{array}
+$$
+
+We note that the transformation is singular when $\nu ^ { 2 } = 1$ . When $\nu ^ { 2 } < 1$ the transformation becomes imaginary. This corresponds to the parameter space containing unphysical black holes. The relation between the parameters of the Schwarzschild solution and the parameters of the BC solution can also be obtained quite simply and is given by
+
+$$
+\begin{array} { r c l } { \displaystyle \rho _ { 0 } ^ { 2 } } & { = } & { \displaystyle \frac { 1 } { 4 } ( r _ { + } - r _ { - } ) ^ { 2 } } \\ { \Omega } & { = } & { \displaystyle \frac { 2 \nu ^ { 2 } } { 3 ( \nu ^ { 2 } - 1 ) } \left( r _ { + } + r _ { - } - \frac { \sqrt { r _ { + } r _ { - } ( \nu ^ { 2 } + 3 ) } } { \nu } \right) } \end{array}
+$$
+
+such that $\rho _ { s } = - ( r _ { + } + r _ { - } ) / 2$
+
+# References
+
+[1] S.Deser， R. Jackiw and S. Templeton,“Topologically massive gauge theories," Annals Phys.140,372 (1982) [Erratum-ibid. 185，406.1988 APNYA,281,409 (1988 APNYA,281,409-449.2000)].   
+[2] S.Deser,R. Jackiw and S. Templeton，“Three-Dimensional Massive Gauge Theories,” Phys. Rev. Lett. 48, 975 (1982).   
+[3] S.Carlip,S. Deser，A. Waldron and D.K. Wise，“Cosmological Topologically Massive Gravitons and Photons,” arXiv:0803.3998 [hep-th].   
+[4] W. Li， W. Song and A. Strominger， “Comment on 'Cosmological Topological Massive Gravitons and Photons',” arXiv:0805.3101 [hep-th].   
+[5] J. D. Brown and M. Henneaux,“Central Charges in the Canonical Realization of Asymptotic Symmetries: An Example from Three-Dimensional Gravity,” Commun. Math. Phys.104, 207 (1986).   
+[6] C.Fefferman and C.R. Graham,"Conformal Invariants” Elie Cartan et les Mathematiques d'Aujordhui (Asterique, 1985) 95.   
+[7] K. Hotta, Y. Hyakutake, T. Kubota and H. Tanida, “Brown-Henneaux's Canonical Approach to Topologically Massive Gravity,” arXiv:0805.2005 [hep-th].   
+[8] I. R. Klebanov and E. Witten,“AdS/CFT correspondence and symmetry breaking,” Nucl. Phys.B 556,89 (1999) [arXiv:hep-th/9905104].   
+[9] D.Grumiller and N. Johansson,“Instability in cosmological topologically massive gravity at the chiral point,” arXiv:0805.2610 [hep-th].   
+[10] W. Li, W. Song and A. Strominger,“Chiral Gravity in Three Dimensions,” JHEP 0804,082 (2008） [arXiv:0801.4566 [hep-th].   
+[11] I. Vuorio,“Topologically Massive Planar Universe,” Phys. Lett.B 163，91 (1985).   
+[12] R. Percacci, P. Sodano and I. Vuorio,“Topologically Massive Planar Universes With Constant Twist,” Annals Phys. 176, 344 (1987).   
+[13] Y. Nutku, “Exact solutions of topologically massive gravity with a cosmological constant,” Class. Quant. Grav. 10, 2657 (1993).   
+[14] M. Girses,“Perfect fluid sources in 2+1 dimensions,” Class. Quant. Grav. 11, 2585 (1994).   
+[15] A. Bouchareb and G. Clement,“Black hole mass and angular momentum in topologically massive gravity,” Class. Quant. Grav. 24, 5581 (2007) [arXiv:0706.0263 [gr-qc]].   
+[16] M. Banados, C. Teitelboim and J. Zanelli,“The Black hole in three-dimensional space-time,” Phys.Rev. Lett.69,1849 (1992) [arXiv:hep-th/9204099].   
+[17] M. Banados, M. Henneaux, C. Teitelboim and J. Zanelli,“Geometry of the (2+1) black hole,” Phys.Rev. D 48,1506 (1993) [arXiv:gr-qc/9302012].   
+[18] O. Coussaert and M. Henneaux, “Self-dual solutions of 2+1 Einstein gravity with a negative cosmological constant,” arXiv:hep-th/9407181.   
+[19] M. Rooman and P. Spindel, “Goedel metric as a squashed anti-de Sitter geometry,” Class Quant. Grav. 15, 3241 (1998) [arXiv:gr-qc/9804027].   
+[20] M. J. Duff, H. Lu and C. N. Pope, “AdS(3) x S\*\*3 (un)twisted and squashed, and an O(2,2,Z) multiplet of dyonic strings,” Nucl. Phys. B 544， 145 (1999) [arXiv:hep-th/9807173].   
+[21] D. Israel， C. Kounnas and M. P. Petropoulos， “Superstrings on NS5 backgrounds， deformed AdS(3） and holography,” JHEP O310， O28 (2003) [arXiv:hep-th/0306053].   
+[22] T.Andrade,M. Banados,R. Benguria and A. Gomberoff,“The 2+1 charged black hole in topologically massive electrodynamics,” Phys. Rev. Lett. 95, 021102 (2005）[arXiv:hep-th/0503095].   
+[23] I. Bengtsson and P. Sandin，“Anti-de Sitter space, squashed and stretched,” Class. Quant. Grav. 23, 971 (2006) [arXiv:gr-qc/0509076].   
+[24] M. Banados, G. Barnich,G. Compere and A. Gomberoff, “Three dimensional origin of Goedel spacetimes and black holes,” Phys. Rev. D 73, 044006 (2006) [arXiv:hep-th/0512105].   
+[25] D. T. Son,“Toward an AdS/cold atoms correspondence: a geometric realization of the Schroedinger symmetry,” arXiv:0804.3972 [hep-th].   
+[26] K. Balasubramanian and J. McGreevy， “Gravity duals for non-relativistic CFTs,” arXiv:0804.4053 [hep-th].   
+[27] J. M. Bardeen and G. T. Horowitz， “The extreme Kerr throat geometry: A vacuum analog of AdS(2) x S(2),” Phys. Rev. D 60, 104030 (1999) [arXiv:hep-th/9905099].   
+[28] M. Guica, T. Hartman and A. Strominger, in progress.   
+[29] A. Strominger,“Black hole entropy from near-horizon microstates,” JHEP 9802, 009 (1998)[arXiv:hep-th/9712251].   
+[30] S. Carlip, S. Deser， A. Waldron and D. K. Wise,“Topologically Massive AdS Gravity,” arXiv:0807.0486 [hep-th].   
+[31] G. W. Gibbons, C.N. Pope and E. Sezgin,“The General Supersymmetric Solution of Topologically Massive Supergravity,” arXiv:0807.2613 [hep-th].   
+[32] A. Adams,K. Balasubramanian and J. McGreevy, “Hot Spacetimes for Cold Atoms,” arXiv:0807.1111 [hep-th].   
+[33] C. P. Herzog, M. Rangamani and S. F. Ross,“Heating up Galilean holography," arXiv:0807.1099 [hep-th].   
+[34] J. Maldacena, D. Martelli and Y. Tachikawa,“Comments on string theory backgrounds with non-relativistic conformal arXiv:0807.1100 [hep-th].   
+[35] D. Israel, C. Kounnas, D. Orlando and P. M. Petropoulos,“Electric / magnetic deformations of S\*\*3 and AdS(3)，and geometric cosets,” Fortsch. Phys. 53, 73 (2005）[arXiv:hep-th/0405213].   
+[36] S. Detournay， D. Orlando， P. M. Petropoulos and P. Spindel， “Threedimensional black holes from deformed anti de Sitter,” JHEP O507, 072 (2005) [arXiv:hep-th/0504231].   
+[37] G. Compere and S. Detournay,“Centrally extended symmetry algebra of asymptotically Goedel spacetimes,” JHEP 0703, 098 (2007） [arXiv:hep-th/0701039].   
+[38] A. Strominger,“AdS(2) quantum gravity and string theory,” JHEP 9901, 007 (1999）[arXiv:hep-th/9809027].   
+[39] K. A. Moussa, G. Clement and C. Leygnac,“The black holes of topologically massive gravity,” Class. Quant. Grav. 20, L277 (2003) [arXiv:gr-qc/0303042].   
+[40] L.F.Abbott and S. Deser,“Charge Definition In Nonabelian Gauge Theories,” Phys. Lett.B 116, 259 (1982).   
+[41] S. Deser and B. Tekin, “Gravitational energy in quadratic curvature gravities,"” Phys. Rev.Lett.89,101101 (2002) [arXiv:hep-th/0205318].   
+[42] S. Deser and B. Tekin，“Energy in generic higher curvature gravity theories," Phys. Rev. D 67, 084009 (2003) [arXiv:hep-th/0212292].   
+[43] S. Deser and B. Tekin, “Energy in topologically massive gravity,” Class. Quant. Grav. 20,L259 (2003)[arXiv:gr-qc/0307073].   
+[44] F. C. Sousa, J.B. Fonseca, and C. Romero,“Equivalence of three-dimensional spacetimes,” Class. Quant. Grav. 25,035007(2008)   
+[45] J. M. Maldacena and A. Strominger,“AdS(3) black holes and a stringy exclusion principle,” JHEP 9812,005 (1998) [arXiv:hep-th/9804085].   
+[46] M. Spradlin and A. Strominger,“Vacuum states for AdS(2) black holes,” JHEP 9911,021 (1999) [arXiv:hep-th/9904143].   
+[47] P. Kraus and F. Larsen,“Microscopic black hole entropy in theories with higher derivatives,” JHEP 0509, 034 (2005）[arXiv:hep-th/0506176].   
+[48] Y. Tachikawa， “Black hole entropy in the presence of Chern-Simons terms," Class.Quant. Grav. 24, 737 (2007) [arXiv:hep-th/0611141].   
+[49] S.N. Solodukhin,“Holography with gravitational Chern-Simons,” Phys. Rev. D 74,024015 (2006) [arXiv:hep-th/0509148].   
+[50] P. Kraus and F. Larsen,“Holographic gravitational anomalies,” JHEP 0601, 022(2006) [arXiv:hep-th/0508218].   
+[51] T. Hartman and A. Strominger, in progress.   
+[52] S. Carlip and C. Teitelboim，“Aspects Of Black Hole Quantum Mechanics And Thermodynamics In (2+1)-Dimensions,” Phys. Rev.D 51，622 (1995) [arXiv:gr-qc/9405070].

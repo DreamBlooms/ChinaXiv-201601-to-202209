@@ -1,0 +1,77 @@
+# Clinical Research
+
+# Reasons to seek orthodontic treatment affecting patients' satisfaction
+
+Vongphachanh Xayasone,XUHuiong,LinghuiSuNengyang,LZiyun,ANHua,ZOUYaguang,ANXiaoting,inghu   
+WU Buling   
+DepartmentofStomatology,Nanfang Hospital,Southern Medical UniversityGuangzhou 51o51,ina
+
+Abstract: Objective To assess patients'satisfaction level with orthodontic treatment and to identify it there was any association between patient'sreason to seek orthodontic treatment and theirsatisfaction level with the treatmentoutcome. Methods This study was conducted among asample of 80 patients.Aquestionnaire was formulated including Dental Impact on Daily Living questionnaire (to assess the efect ofthe treatment on daily living and satisfaction with the dentition). Descriptive statistics,Chi-square test were used to analyze the data. Results and Conclusion Patients'reason to seek orthodontic treatmentadnosignificantasociationwithpatients'satisfaction withtheirdentitionafterorthodontictreatment. Patients with aesthetic need were found to experience more pain $( P { = } 0 . 0 3 4 )$ . There was statistical significant association between age and total satisfaction $( P { = } 0 . 0 3 5 )$ . Gender had no effect on patient's satisfaction.
+
+Keyword: satisfaction; orthodontic treatment; motivation
+
+# INTRODUCTION
+
+Patients' satisfaction with treatment is the primary goal of any health facility. Improved understanding of satisfaction dynamics will help us improve overall patients'satisfaction level.Pascoe et al[] concluded that patient satisfaction information can provide a dependent measure of service quality and serves as a predictor of health-related behavior.
+
+Dental appearance and aesthetics is the prime reason for seeking orthodontic treatment[2-4]. Gender and age has been correlated with patients' satisfaction withorthodontictreatment.Advancingageis associated with decrease in satisfaction level[5-7]. Males and femalesshowequal satisfaction with their orthodontic treatment[8, 9]. However some have stated that females are more dissatisfied with their appearance than males[5], and on other occasion an opposite result was obtained[10]. This study attempts to find satisfaction level of patients and its correlation with age,sex and reason to seek orthodontic treatment.
+
+# PATIENTSANDMETHODS
+
+This cross-sectional study was conducted among a sample of 8O patients from Orthodontic Department of Southern Medical University Hospital at Guangzhou consisting of 26 males and 54 females(1:2 ratio) with a mean age 2O.8 years who had successfully finished their fixed orthodontic treatment.Average duration for all subjects was 27.113 months (minimum 6, maximum 72,range 66) and were in retention stage (6-12 months). A pretested study was done among a group of
+
+20 patients in order to ensure the level of validity and degree of repeatability(Cronbach's $\scriptstyle \mathtt { q = 0 . 8 4 }$ ）
+
+DIDL was used to assess patients' satisfaction with orthodontic treatment.It is a reliable， validand comprehensive test to assess patients' satisfaction and effect of dental disease on daily life developed by Leao and Sheiham[1, 12]. The DIDL Scores for answers were given according to whether the impact was positive $( + 1 )$ , neutral (O) or negative $( - 1 )$ . The single total score ranged from 10 to $- 1 0$ . The DIDL responses were then grouped into three response categories that are,not at all satisfied (scores below O),relatively satisfied (scores 0-7),and very much satisfied (scores above 7).
+
+Data was collected on Excel sheet and was analyzed by IBM SPSS version 20.Descriptive statistics were obtained and comparison between groups was made using Chi-square test.
+
+# RESULTS
+
+A total of 80 questionnaires were returned (response rate was $100 \%$ ）
+
+# Totalsatisfaction
+
+Total DIDL satisfaction scores ranged from lowest total satisfaction score of $- 6 . 9 7$ to highest total satisfaction score of 9.13 with mean total satisfaction score of 3.3629.A total of $1 8 . 8 \%$ of the patients were very satisfied and scored above 7, $65 \%$ of the patients scored between O and 7 representing relatively satisfied and $1 6 . 3 \%$ scored below O were Unsatisfied.
+
+# Dimensional distribution
+
+Patients expressed complete satisfaction with Appearance $( 8 4 \% )$ ，General Performance $( 7 5 \% )$ and Pain $( 7 5 \% )$ dimensions.Comparatively low satisfaction was shown in Eating & Chewing $( 6 6 \% )$ and Oral comfort $( 6 0 \% )$ ．Dissatisfaction was high inoral discomfort $( 2 9 \% )$ followed by General performance $( 2 1 \% )$ and eating and chewing $( 1 5 \% )$ dimensions.
+
+Gender, age and reason to seek orthodontic treatment
+
+There were no statistical significant differences between gender and among age groups. Age groups had significant association in overall satisfaction level $( P { = } 0 . 0 3 4 )$ and oral comfort $\scriptstyle ( P = 0 . 0 2 8 )$ .Adultsshowed higher dissatisfaction as compared adolescents.Patients opting orthodontic treatment due to dental problems and aesthetic reasons were found statistically different in their satisfaction with Pain (O.O34） dimension. Patients with aesthetic reasons experienced more pain
+
+# Reasons/Priorities to seek orthodontic treatment
+
+The majority of the patients (44, $5 5 \%$ ）undertook orthodontic treatment to fix and correct dental problems. Improving Facial profile (32, $40 \%$ ）was second leading reason for opting orthodontic treatment. A very few participants $( 4 , 5 \% )$ opted for orthodontic treatment due to their eating and speaking problems.
+
+# DISCUSSION
+
+In our conducted study majority of the patients were undergoing orthodontic treatment to correct their dental problems $( 5 5 \% )$ followed by dental appearance $( 4 0 \% )$ . Our results are in agreement with the study done by Farishta et al[13]. $1 8 . 8 \%$ of the patients were very satisfied after orthodontic treatment and $1 6 . 3 \%$ were totally unsatisfied. However a relatively large number of patients $( 6 5 \% )$ were relatively satisfied.Al-Omiri et $\mathrm { { a l } ^ { [ 8 ] } }$ reported quite the same results proportionally except for the unsatisfied patients.
+
+Significant association was observed between age and overall satisfaction level $( P { = } 0 . 0 3 5 )$ .This findings are in agreement to previous studies who reported that advancing age is associated with decrease in satisfaction level[5-7].Adults also showed higher dissatisfaction in oral comfort dimension and association among age groups for oral comfort was statistically significant （ $\scriptstyle ( P = 0 . 0 2 8 )$ ）
+
+Both gender showed even response in each category and showed no differences as it was found in the study done by Al-Omiri et al[8] and Amado et al[9]. Although two other opinion also exists in gender comparison. Shaw identified that boys were more satisfied with their treatment results than girls and contrast results were obtained in Bos et al[10] study in which girls show more satisfaction than boys.
+
+Patients with aesthetic reasonsshowed more dissatisfaction with pain as compared to patients with dental problems.Previous studies have shown that patients opting orthodontic treatment for improving appearance shows more dissatisfaction with treatment. However our results suggest that there was no difference in overall satisfaction level but it was observed that patients with aesthetic reasons experience more pain.
+
+# Conclusion
+
+There is no statistically significant association between patients’ reason to seek orthodontic treatment andoverall satisfaction but it does affect the dimensional satisfaction. Patients’ satisfaction with pain dimension is significantly associated with the patients' reason to seek orthodontic treatment. Significant association exists between age and the overall satisfactionlevelwithadultsshowing more dissatisfaction. Gender has no statistically significant effect on patients' satisfaction.
+
+# REFERENCES
+
+[1]Pascoe GC.Patient satisfaction in primary health care: a literature review and analysis[J].Eval Prog Plan,1983,6:185-210.   
+[2]Fleming PS.I want braces: factors motivating patients and their parents to seek orthodontic treatment[J].Community Dent Health, 2008,25(3): 166-9.   
+[3]Lew KK.Attitudes and perceptions of adults towards orthodontic treatment in an Asian community[J].Community Dent Oral Epidemiol,1993,21(1): 31-5.   
+[4] Capelloza Filho L,Braga SA, Cavassan AO,et al. Trat amento ortodontico em adultos:Uma abordagem direcionada[J].Rev Dent Press Ortod Ortop Fac,2001,6(5): 63-80.   
+[5]Shaw WC.Factorsinfluencing the desire for orthodontic treatment[J].Eur JOrthod,1981,3:151-62.   
+[6] Cunningham SJ, Gilthorpe MS,Hunt NP.Are orthognathic patients different?[J].Eur J Orthod,2000,22:195-202.   
+[7] Larsson BW, Bergsrom K.Adolescents'perception of the quality of orthodontic treatment[J]. Scand JCaring Sci, 2005,19(2): 95-101.   
+[8]Al-Omiri MK,Alhaija ES.Factors affecting patient satisfaction after orthodontic treatment[J].Angle Orthod,2006,76(3): 422-31.   
+[9]Amado J,Sierra AM,Gallón A，et al.Relationship between personality traits and cooperation of adolescent orthodontic patients[J].Angle Orthod,2008,78(4): 688-91.   
+[10]Bos A，Hoogstraten J，Prahl-Andersen B．Atudes towards orthodontic treatment:a comparison of treated and untreated subjects[J].Eur JOrthod,2005,27(2): 148-54.   
+[11]Leao A,Sheiham A.Relation between clinical dental status and subjective impacts on daily living[J].JDent Res,1995,74:1408- 13.   
+[12]Leao A. The Development of measures of dental impacts on daily living [D].London, UK: London University,1993.   
+[13]Farishta S.Patient's perceptions regarding orthodontic needs and satisfactory level with the procedure[J].J Int Oral Health,2015, 7(9): 79-82.

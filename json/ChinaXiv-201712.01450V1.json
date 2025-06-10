@@ -1,0 +1,407 @@
+[
+    {
+        "type": "text",
+        "text": "宁波梅山春晓大桥 BIM应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨京鹏 袁胜强 顾民杰（上海市政工程设计研究总院（集团)有限公司，上海200092)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】宁波梅山春晓大桥是国内第一座双层纵移开启式全焊钢桥。本文介绍了通过自主开发专业BIM软件进行大桥三维正向设计的过程,通过平台统一管理多专业的设计数据信息，并集成多个应用软件对 BIM设计成果进行了各项优化，其中无人机地形勘测、虚拟现实、数字化扫描预拼装等新技术的成功运用为类似工程的 BIM拓展打下了良好的基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】大型钢桥；BIM技术；设计；施工  \n【中图分类号】TU17【文献标识码】A 【文章编号】1674-7461(2017)01-0014-07  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.01.03",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 梅山春晓大桥工程起点位于宁波北仑区春晓洋沙山东六路与春晓东八路交叉口，以桥梁形式跨越梅山湾,接梅山岛盐湖路,全长约 $2 \\mathrm { k m }$ ,总投资约12亿元,是连接宁波梅山岛与北仑区的特大型跨海桥梁工程，如图1所示。大桥主跨为 $3 3 6 \\mathrm { m }$ 的中承式双层桁架拱桥，主拱为全焊桁架拱，主梁分上下两层,上层为机动车道,下层为人行及非机动车道，下层中间 $1 0 8 \\mathrm { m }$ 范围内设置纵移桥架，通过两侧伸缩的方式实现开启与闭合，纵移打开后可满足500t级海轮通航要求，为国内首座双层纵移开启式桥梁，如图2所示。技术标准如下：道路等级为一级公路,双向六车道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "梅山春晓大桥为特大型全焊钢桥，钢结构复杂、空间定位难度大、加工精度要求高，下层桥架纵移开启闭合施工风险高，传统二维设计在大桥空间相互关系上难以考虑周全，很容易导致实际施工过程中出现施工成本增加、施工周期增大等问题[1]。从设计到施工阶段应用BIM技术建立面向后期运维的三维可视化信息模型，在协同工作的环境中使各专业的模型与信息快速有效的共享交接，然后通过多种专业BIM应用来优化大桥设计、保证施工质量、节省施工周期。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c460c8b2ea948dcd9da23a94895e1508d1dd7449990f6c3fcb285b5a6e97f5fe.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6fd08ad70d93b5138b0e9d48840d741e3c45c99157dfec42c767eb137030897.jpg",
+        "img_caption": [
+            "图1 梅山春晓大桥",
+            "图2 下层开启状态"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 BIM总体思路",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 1 总体构架",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工程方案阶段设计基于三维地形，应用交通仿真、虚拟现实等技术对方案进行比选，帮助快速决策；详细设计阶段的模型从方案阶段深化而来，并通过有限元分析计算保证结构安全，成果输出为二维图纸、工程量统计校核；施工阶段模型进一步深化，主要应用为钢结构数字化扫描预拼装、施工工艺模拟、4D施工工序模拟等，成果反馈优化设计，如图3。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工程由总工牵头专门组建BIM团队，设计负责人与BIM负责人制定BIM技术路线，在软件、技术、开发、平台管理等多方支持下，由道路、桥梁、管线、机电等专业设计工程师应用BIM技术协同完成BIM设计及施工。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "厂前期根据设计经验确定大桥模型组成，主要包括：地形、岸上引桥、水中引桥、主桥、机电系统以及周边道路、景观等。方案阶段模型等级为LOD100、LOD200，属于轻量化模型，能做到快速修改与变更，迅速制定工程方案；详细设计阶段的模型等级为LOD300，模型较为精细，参数、尺寸、材质等属性更加丰富；施工阶段的模型等级为LOD400，构件添加施工属性信息如时间、场地、施工操作等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 实施措施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工程通过设计方、施工方以及业主方的协调沟通，明确了BIM应用目标，制定了专门的BIM设计标准[2],统一规范BIM参与各方行为，保证BIM模型及信息的广泛交互与共享。标准主要分为：总则、基本规定、协同设计标准、模型命名规则、模型应用标准、模型等级标准、以及模型交付标准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大桥协同设计是应用基于WEB的ENOVIA平台,各个专业设计管理一体化[3],在统一的数据库中共享设计模型及数据,实时检查工作进度，在线发起问题流程，落实到位，及时修改，节省了大量沟通协调时间，如图4所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/012b23ac6e9fd19348c5a86f09d1d20e783b7cbed15295705877629cf3eb30c2.jpg",
+        "img_caption": [
+            "图3梅山春晓大桥实施方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b488e001dc407780ceae821de1112e47cdd9cc8a84c79159bf555e20d823f82c.jpg",
+        "img_caption": [
+            "图4ENOVIA协同管理平台"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3软硬件环境等",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前主流BIM软件在桥梁设计专业性上稍有欠缺，为完成大桥BIM专业设计，本工程基于达索3DExperience平台自主研发BIM设计软件,通过CATIA $2 0 1 5 \\mathrm { x }$ 模块底层CAA开发了道路交通BIM系统进行大桥BIM正向设计；通过DELMIA模块对模型进行仿真应用，优化设计。此外，开发集成多个专业对口软件对模型进行各项专业BIM应用，最终顺利完成整个工程的BIM应用目标，如图5所示。硬件方面则采用了大内存和高性能显卡的图形级工作站，同时配备了专业级服务器来存储设计数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e84caca06fee04b615d635eb8517e247091ac63da7ff6007d0ea03a65b23f025.jpg",
+        "img_caption": [
+            "图5梅山春晓大桥软件平台"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3BIM研发及应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)方案设计阶段",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从CATIA2015x底层CAA自主开发道路交通BIM系统,快速进行专业道路交通及市政管线方案阶段的三维设计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "开发了基于CATIA的地形模块，支持包括无人机测量、激光扫描以及等高线散点等多种来源的地形数据，如图6。本工程使用了正射测量型无人机（旋鹰HY-6X(A)无人机)进行地形勘测，收集的点云数据经过地形模块处理[4],生成满足方案设计要求的数字地面模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "开发了具有交互功能的线形及道路设计模块，能自动进行规范复核，高效支撑道路方案设计；开发了参数化上部结构设计及三维布墩的桥梁模块，实现了桥梁专业三维可视化设计；开发了直接读取管线勘测及设计数据，快速生成三维模型的管线模块，可以实时修改调整，大幅提高建模效率，如图7。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，为保证设计合理，还开发了专业交通仿真软件VISSIM的数据接口，CATIA模型直接导入到VISSIM中，对上层车行、下层人行及非机动车进行了交通仿真分析，如图8所示，快速利用反馈指标优化设计方案。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将BIM模型与虚拟现实技术结合，动态模拟车行、人行、飞行视角、沉浸式体验(如图9），优化了满撑与集中撑比选、大桥尾端建筑处理等方案,帮助业主快速决策。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)详细设计阶段",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据IFC标准拓展结构类型，后台添加属性，为BIM 模型跨平台交互提供了基础。在初设阶段的模型基础上深化参数，使结构信息更完整，参数化驱动模型使修改更加便捷[5]。添加钢筋设计,钢筋类型及型号模板化，直接从构件库调用快速生成钢筋模型。钢结构模型精细到了横隔板、过焊孔、人孔、加劲、机电等细节，同时利用EKL语言开发批量实例化工具及批量修改参数工具，完成繁杂的钢结构建模，如图10。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "详细设计阶段为保证结构设计安全，对设计模型进行有限元分析：混凝土结构模型导入ANSYS中，实现BIM模型与计算模型的联动，修改参数快速找到最优结构设计；应用CATIA钢结构模块，将轻量化面片模型（SFG模型)导入到ANSYS中计算分析，满足设计要求后再生成实体模型（SDG模型），如图11所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5324a11e8b97103dbf6c849afc09e0c99eb6e75969b67d53c9b7a8683c91ccde.jpg",
+        "img_caption": [
+            "图6自主开发地形模块及无人机地形勘测"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/af99fbad8ac94cd2ea05e1ce14ec56117393a05f75b8b3fe8f736861373a17e4.jpg",
+        "img_caption": [
+            "图7自主开发道路、桥梁、管线设计模块"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cf99d59a36c786cc66093513668ba99182387ae9d8a10180cca099002b764e1.jpg",
+        "img_caption": [
+            "图8 VISSIM交通仿真"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d4053e93daf7a3b6881b15f4cda8f8a80f2dbb617b61b262c83c1821b0ee8ad.jpg",
+        "img_caption": [
+            "图9大桥虚拟现实体验"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccc4a791fd2179542f72ff994aa8ab57a6ca2fc4fd377a1f7ef1de1603795e3c.jpg",
+        "img_caption": [
+            "图10梅山春晓大桥详细设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe17f89c700bb3c59c1096f2efc79e17cc3d6b3cf1eb926915d5bacd2bebb8b3.jpg",
+        "img_caption": [
+            "图11 钢结构有限元分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "二维出图是采用基于AutoCAD自主开发出的道路出图软件RADS和桥梁混凝土结构出图软件",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Para3D，读取CATIA中的后台三维设计数据进行专业出图。钢结构出图则采用CATIA中的AITAC出图模块，定制钢结构出图模板，完成钢结构标准出图，如图12。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "工程量统计得益于规范化的结构命名、详细的参数制定以及IFC标准的结构分类，采用CATIA报表功能，定制各种工程量统计表格，快捷精确统计校核工程量，如图13所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3)施工阶段",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用激光扫描技术，现场对桥梁钢结构进行三维扫描，将点云数据模型化后预拼装，并与BIM模型对比分析，检查拼接偏差，不受场地影响，拼装速度快，有效控制关键构件的制造精度，如图14。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/11c6860b3a1c804210949dfdc4ebebba70814ea0a4f5138e5e23f3cc2df3990e.jpg",
+        "img_caption": [
+            "图12二维出图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1da43d1d6d26432d6a73e7a6e5b743fb948161651a549ed0613c4d5a77127642.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">钢筋表</td></tr><tr><td>编号</td><td>直径</td><td>单长度</td><td>根数</td><td></td><td></td></tr><tr><td>1</td><td>32</td><td>8954</td><td>80</td><td>716.3</td><td>4522.4</td></tr><tr><td>2</td><td>32</td><td>9254</td><td>8</td><td>74.0</td><td>467.4</td></tr><tr><td>3</td><td>28</td><td>9064</td><td>20</td><td>181.3</td><td>876.2</td></tr><tr><td>4</td><td>28</td><td>9064</td><td>20</td><td>181.3</td><td>876.2</td></tr><tr><td>5</td><td>16</td><td>6516</td><td>90</td><td>586.4</td><td>925.6</td></tr><tr><td>6</td><td>16</td><td>7016</td><td>62</td><td>435.0</td><td>686.6</td></tr><tr><td>7</td><td>16</td><td>4144</td><td>92</td><td>381.2</td><td>601.7</td></tr><tr><td>8</td><td>16</td><td>4268</td><td>56</td><td>239.0</td><td>377.2</td></tr><tr><td>9</td><td>16</td><td>4144</td><td>92</td><td>381.2</td><td>601.7</td></tr><tr><td>10</td><td>16</td><td>4644</td><td>56</td><td>260.1</td><td>410.5</td></tr><tr><td>11</td><td>16</td><td>2340</td><td>22</td><td>51.5</td><td>81.3</td></tr><tr><td>12</td><td>16</td><td>1840</td><td>26</td><td>47.8</td><td>75.5</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9464c7d3e054fe3b4c8b0adf601fd7418d0698add0b027ec24ffc20d3ac0cab.jpg",
+        "img_caption": [
+            "图13 工程量统计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "点云 福扫描名字长度（Delta XDeltYDelta点（） 点2（） 成果输出 番1标770.032 0.0040.032 提前处理 对比BIM模型标790.035 0.035 012.946214.69718.07612.944 214.732.18.076 检查问题标800.031 0.031 013.483.214.70118.07813.483214.73218.078810.032 0.032 13.168214.69818.07713.167214.7318.0771标820.034 0.033 13.733214.69918.07713.739214.73318.07730.035 0.013 0.033 013.968214.69918.07813.982214.73118.078标840.015 L02 0.036 14.83214.69518.07714.857214.73118.077目标850.041 0.022 0.034 014.388214.69818.07814.41214.73318.078",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/29be220c0f4a87999aa00137dab50ddce30b58a219e5fa33cf129b7eb9ed4f18.jpg",
+        "img_caption": [
+            "图14钢结构数字化扫描预拼装"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b110114b582c155ab2d7ef18e47c1875ac5db65fa8056d615d0eff37e5d649e8.jpg",
+        "img_caption": [
+            "图15大桥施工工艺模拟",
+            "图16DELMIA施工工序模拟"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将春晓大桥BIM模型轻量化处理后导入3DMax中进行施工方案工艺模拟（如图15），优化了施工场地布置、空间需求以及施工安排,提高施工安全性。此外还模拟大桥下层桥架纵移开启关闭，明确机电安装要点以及操作顺序。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在DELMIA中直接拆分CATIA模型进行4D施工工序模拟，根据现场情况实时调整时间节点，统筹布置各项施工工作，实现工程三维可视化管理，达到资源优化配置的目的[6],如图16所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4总结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在宁波梅山春晓大桥方案设计阶段，通过自主开发专业的BIM设计软件，实现了道路交通及市政管线方案阶段的正向设计，并与多个专业软件的集成应用使设计人员能快速展示、优化设计方案，表达设计意图，帮助业主迅速决策。在详细设计阶段，精细的三维深化设计能够有效减少错漏碰缺，通过结构分析提高设计质量。开发的专业二维出图软件，出图不依靠模型而是后台设计数据，设计数据导入专业出图软件完成出图，更加专业快捷。施工阶段通过钢结构数字化扫描预拼装，省时省力做好钢结构预加工，施工工艺和4D施工工序的模拟做到了精细施工和管理，统筹安排，保证施工安全及质量，节省施工工期。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，无人机地形测量、虚拟现实方案比选、钢结构数字化扫描预拼装等技术在本工程中也得到了应用，使得BIM技术在类似工程中的适用性更强。BIM技术的成功应用也提高了设计单位的核心竞争力和影响力，后续将参考buildingSMART的IFC准则研究市政行业结构信息标准化，争取推广形成市政领域各软件间统一遵循的交互准则。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "［1］杨会强．基于BIM的桥梁工程设计与施工优化研究[J].建筑设计，2016，43（5)：21-26.  \n[2］邹阳．桥梁信息模型(BIM)在设计与施工阶段的实施框架研究[D].重庆：重庆交通大学，2014.  \n[3」吴军伟，徐晓宇.基于达索V6平台的三维协同设计管理的研究[M].广州：第十六届全国工程设计计算机应用学术会议论文集，2012：206-213.  \n［4］闫阳阳，李永强，王英杰,李立雪，吴珍珍.三维激光点云联合无人机影像的三维场景重建研究[J」.测绘通报，2016,1:84-87.  \n[5］刘钊，袁胜强，黄虹.上海沿江通道越江隧道工程中的BIM技术应用[J].土木建筑工程信息技术，2016，8(3):20-25.  \n［6］李红学，郭红领,高岩,刘文平，韦笑美.基于BIM的桥梁工程设计与施工优化研究[J].工程管理学报，2012,26(6): 48-52.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BIM Technology Application in Ningbo Meishan Chunxiao Bridge ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Yang Jingpeng,Yuan Shengqiang,Gu Minjie (Shanghai Municipal Engineering Design Institute( Group) Co.， Ltd.， Shanghai 2O0O92， China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Ningbo Meishan Chunxiao Bridge is thefirstallwelded steel bridge with vertical shift type of double layer.This article introduces the processof making three-dimensional forwarddesign of the bridge by independently developed BIM software,shares multiple specialtydata information through unified management of platform.It also combines several applications to optimize BIM technology.Among them,the successful use of new technology such as unmanned aerial vehicle terrain survey,virtual reality,test assmbling of digital scan also laida good foundation for the BIM development of the similar projects. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Large Steel Bridge；BIM Technology；Design；Construction ",
+        "page_idx": 6
+    }
+]

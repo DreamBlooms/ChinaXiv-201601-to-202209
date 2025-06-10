@@ -1,0 +1,512 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.161141 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "薛思嘉，杨再强，李军．高温对小白菜品质的影响及模拟研究[J].中国生态农业学报,2017,25(7):1042-1051Xue SJ,Yang ZQ,LiJ.Efectof high-temperatureonthequalityof pakchoiand itssimulation[J].ChineseJournalofEco-Agriculture,2017,25(7): 1042-1051",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高温对小白菜品质的影响及模拟研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "薛思嘉¹，杨再强1\\*\\*，李军²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．南京信息工程大学气象灾害预报预警与评估协同创新中心南京210044;2.上海市气候中心上海200030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了研究高温胁迫对小白菜品质指标的影响，以‘华王'为试材，于2015年10月—2016年5月进行分批播种试验，设置昼温/夜温为 $3 2 \\textrm { C } / 2 2 \\textrm { C }$ 、 $3 5 \\mathrm { ~ \\textbar { ~ } C ~ } / 2 5 \\mathrm { ~ \\textbar { ~ } C ~ }$ 、 $3 8 \\mathrm { ~ \\textbar { ~ } C ~ } / 2 8 \\mathrm { ~ \\textbar { ~ } C ~ }$ 共3个梯度，持续处理时间分别为3d、6d、9 d、12d,以 $2 5 \\ \\mathrm { { ^ C } / 1 8 \\ \\mathrm { { ^ \\circ C } } }$ 为对照(CK)。各处理结束2d后测定小白菜外观形态、SPAD值、单株干鲜重和粗纤维、可溶性糖、可溶性蛋白、维C的含量，建立小白菜卷叶率和单位面积产量与最高气温、最低气温、平均气温及持续时间的回归模型，并用实测数据检验模型的模拟效果。结果表明：小白菜单株干重、鲜重、叶片鲜重、叶片长度、叶片宽度、叶柄宽度、SPAD 和单位面积产量均随高温胁迫的加剧和胁迫时间的延长而呈降低趋势。随温度的升高和持续时间的延长，叶片内叶柄长度、卷叶率逐渐增加。高温胁迫使小白菜粗纤维含量升高。短期高温胁迫下可溶性糖、可溶性蛋白、维C含量变化不明显，随胁迫时间的延长、胁迫温度升高逐渐降低。通过多元回归方法，分别构建了小白菜卷叶率和单位面积产量与最高处理气温、最低处理气温、平均处理气温及各处理所对应持续时间的关系模型。对模型的检验结果表明，小白菜卷叶率与最低处理温度和最低温度持续时间构建模型模拟效果最好，回归估计标准误差和相对误差分别为 $7 . 5 9 \\%$ 和 $0 . 1 8 9 4 ^ { }$ ；单位面积产量与最高处理温度和最高温度持续时间构建模型模拟效果最好，回归估计标准误差和相对误差分别为 $2 7 4 . 0 2 \\ \\mathrm { g } { \\cdot } \\mathrm { m } ^ { - 2 }$ 和$0 . 0 7 3 \\%$ 。研究认为随高温胁迫强度加剧、胁迫时间延长，小白菜产量降低，口感变差，营养物质含量减少，说明高温胁迫使小白菜品质变差。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高温胁迫；小白菜；品质；生育期；模拟模型中图分类号：S16 文献标识码：A 文章编号：1671-3990(2017)07-1042-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of high-temperature on the quality of pakchoi and its simulation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XUE Sijial, YANG Zaiqiang1\\*\\*, LI Jun2 (1.CollaborativeInnovation CenterforForecastandEvaluationofMeteorologicalDisasters,Nanjing UniversityofInformation Science& Technology,Nanjing 210044,China; 2.Shanghai Climate Center, Shanghai 20o030, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To explore the effectsof high-temperature stress on yield and qualityof greenhouse pakchoi,a study was conducted from October 2015 to May 2016.In the study,we set three gradients of daytime/nightime temperatures of $3 2 ~ \\mathrm { { ^ { \\circ } C } / }$ $2 2 \\ \\mathrm { { ^ \\circ C } }$ ， $3 5 ^ { \\circ } \\mathrm { C } / 2 5 ^ { \\circ } \\mathrm { C }$ ， $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ ,with $2 5 ~ \\mathrm { ^ { \\circ } C } / 1 8 ~ \\mathrm { ^ { \\circ } C }$ as the control,and the duration of each treatment was 3 d,6 d, 9 d and $1 2 { \\mathrm { ~ d ~ } }$ respectively.Theresultsshowedthat:(1)thedryweight,freshweight,leaffresh weight,leaf length,leaf width,petiole width, SPAD and per unit area yielddecreased with increased high-temperature stres.Furthermore,the decline aggravated with increasing treatment duration. (2)Petiolelength and roledleafrate increased gradually with increased temperatureandduration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "High-temperaturestress increasedthecontentofcrudefiber.Undershort-term high-temperature stresscondition,thecontents ofsolublesugar,solubleproteinandvitaminCdidnotchangeobviously,but gradualldecreaseddue to increasedtemperature degree and stressduration.(3)Amathematical modelofroledleafrateandperunitareayieldofpakchoi was establishedandvalidated by independent experimentaldata.Therot mean square erorandrelative erorofmodelofrolled leafrate with minimum temperature and treatment time were small - respectively $7 . 5 9 \\%$ and O.189 4. The model for yield per unit area with maximum temperature and treatment time were smaller — also respectively $2 7 4 . 0 2 \\ \\mathrm { g } { \\cdot } \\mathrm { m } ^ { - 2 }$ and $0 . 0 7 3 \\%$ . Our study suggests that high-temperature stress downgraded pakchoi appearancequalityand internalquality with increasing stresstimeand degree.Besides，wedefied high-temperature stressindexanddeterminedhigh-temperaturestressdegree forgrenhousepakchi.Theresultsprovidedscientific basis for the determination of meteorological indicators and for disaster prevention. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:High-temperature stress; Pakchoi; Quality; Growth period; Simulation model ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小白菜(Brassica campestris L. Chinesis L.)属十字花科芸耋属芸种白菜亚种，又称不结球白菜、普通白菜、青菜、油菜等，是以绿叶为产品的一、二年生草本作物，原产于我国，是目前我国南方地区最大众化的蔬菜，约占长江中下游大中城市蔬菜年总产量的 $3 0 \\% { \\sim } 4 0 \\% ^ { [ 1 - 4 ] }$ 。高温热害是南方小白菜生产中最常见的逆境因子，由于南方地区夏季高温导致小白菜品质下降、口干苦涩、植株黄化、老化现象严重，其产量和经济效益明显下降[6-7]。王鑫等[8]指出，辣椒(Capsicum annuum L.)在温度高于$3 5 \\ \\mathrm { { ^ \\circ C } }$ 时，会出现叶片颜色变淡，地上地下干重、鲜重和果实质量均降低等问题。高温影响叶色。有报道指出，无论在苗期还是在抽穗期，高温都能降低水稻(OryzasativaL.)的SPAD值，叶绿素相对含量降低[9]。高温胁迫可引起植物细胞膜透性增大而导致电解质渗漏，为防止电解质过多外渗，植物可通过调节体内渗透调节物质的种类和含量以适应逆境环境，可溶性糖、可溶性蛋白均是植物细胞内重要的渗透物质，在高温胁迫下会伴随着在植物体内产生水分胁迫。水分胁迫时植物体内积累各种有机和无机物质，以改变细胞液浓度，从而改变渗透势[10-11]。目前，研究作物品质指标主要是基于作物内在品质指标积累所受环境条件影响，通过数学回归方法建立的预测果实内在品质的生态模型[12]。Stenzel 等[13]模拟柑橘(Citrusspp.L.)发育过程中可溶性糖、有机酸和糖酸比的积累，并建立柑橘果实成熟度曲线，果实成熟度是基于计算果实脱氧酸品质来预测的。Slaughter[14]建立了芒果(MangiferaindicaL.)无损成熟度的方法，成熟度通过颜色、香味来判定。国内外的专家学者根据现有的作物生长发育模型理论和技术对温室作物进行研究，并取得了重要的进展，其实质是对作物生长发育过程及其与环境的关系进行定量描述和预测。一个崭新的作物模型研究领域由此开启，同时作物模型的研究内容也得到了极大的丰富，进一步深化了作物模型研究的发展[15-18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，高温对小白菜品质的影响和相关模拟研究较少。本试验设置不同的高温水平和持续时间，研究高温对小白菜产量和品质的影响，分别构建小白菜单位面积产量和卷叶率与日最低温、日最高温、日平均温度的回归模型，并比较模型模拟效果。本文定义了高温胁迫指数并根据指数划分胁迫等级，为小白菜产量和外观品质预测提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2015年6月在南京信息工程大学Venlo可控试验温室内的人工气候箱(TPG-2009,Australian)进行，并分期进行6次播种试验。以小白菜品种‘华王'为试验材料，定植于直径为 $1 2 \\ \\mathrm { c m }$ 的营养盆中,当小白菜长到8\\~9片叶时开始处理，试验设置昼温/夜温分别为 $3 2 \\ \\mathrm { ^ { \\circ } C } / 2 2 \\ \\mathrm { ^ { \\circ } C }$ 、 $3 5 \\ \\mathrm { ^ circ C } / 2 5 \\ \\mathrm { ^ \\circ C }$ 1 $3 8 \\ ^ { \\circ } \\mathrm { C } / 2 8 \\ ^ { \\circ } \\mathrm { C } \\ 3$ （204号个高温处理，处理时间为 $3 \\mathrm { ~ d ~ } , \\mathrm { ~ } 6 \\mathrm { ~ d ~ } , \\mathrm { ~ } 9 \\mathrm { ~ d ~ } , \\mathrm { ~ } 1 2 \\mathrm { ~ d ~ } _ { \\circ }$ 每个处理16株，设置3个重复，每个处理水肥均控制在正常范围。试验期间，控制人工气候箱相对湿度为$7 5 \\%$ ，光合有效辐射为 $8 0 0 \\ \\mu \\mathrm { m o l { \\cdot } m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 。以小白菜置于适宜气候条件下正常生长作为对照组CK(昼温$2 4 ^ { \\circ } \\mathrm { C }$ ，夜温 $1 8 \\ { } ^ { \\circ } \\mathrm { C } ^ { [ 1 9 ] } \\backslash$ 。在每个处理持续时间结束的第2d分别测定不同处理的单株干鲜重、含水率、外观品质和营养物质含量，统计卷叶率和单位面积产量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 测定项目与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 卷叶率的测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分别测量一个处理下所有叶片平展时的最大宽度和卷叶后自然状态下的最大宽度，并参考乔志霞等[20]设定卷叶标准为：叶片宽度/叶片卷曲后投影宽度 $\\geqslant 1$ ，并计算出卷叶率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 SPAD的测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "各处理随机抽取3棵小白菜，用SPAD叶绿素仪测定叶片的SPAD值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 叶片形态和单株干、鲜重的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采取破坏性取样的方法称鲜重。将叶柄与叶片用干净刀片分开，测定叶片重、叶片长宽、叶柄长宽、叶片内叶柄长度[21]。然后放于 $1 0 5 \\mathrm { ~ } \\mathrm { { ^ \\circ C } }$ 烘箱中杀青 $2 \\mathrm { h } , 8 0 ^ { \\circ } \\mathrm { C }$ 烘至恒重，测定叶片的干重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 单位面积产量的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将营养盆按每平方米5盆排列，各处理随机选取3组 $1 \\mathrm { ~ m } ^ { 2 }$ 面积上的小白菜用蒸馏水洗净，吸干表面水分，用千分之一电子天平称量每平方米投影面积上生产小白菜的质量，为小白菜单位面积产量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 小白菜品质的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随机选取3株小白菜作为重复。粗纤维采用葱铜比色法测定[22]，可溶性糖采用葱铜比色法测定[23]，维生素C采用2,6-二氯酚靛酚法测定[24]，可溶性蛋白采用考马斯亮蓝比色法测定[25]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 确定胁迫等级",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高温胁迫指数 $( I _ { \\mathrm { H T } } )$ 由卷叶率(A)和减产率 $( R )$ 确定[26]，按以下公式计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { H T } } { = } ( A { + } R ) / 2 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$I _ { \\mathrm { H T } } { < } 3$ ，为轻度胁迫(I级); $I _ { \\mathrm { H T } } = 3 { \\sim } 6$ 为中度胁迫(Ⅱ级); $I _ { \\mathrm { H T } } { > } 6$ 为重度胁迫(Ⅲ级)[27]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理与统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用MicrosoftExcel2010 和 SPSS 22.0 对数据进行整理和分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1高温对小白菜单株干、鲜重和叶片鲜重的影响 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1为不同高温胁迫下小白菜单株干重、鲜重、叶片鲜重的变化。从表1可知，在相同的处理时段，CK的单株干鲜重、叶片鲜重均高于其他温度处理。随着温度升高，单株干、鲜重和叶片鲜重呈减小趋势，且随着持续时间的增加，与CK的差异逐渐增大。 $3 2 \\ \\mathrm { ^ { \\circ } C } / 2 2 \\ \\mathrm { ^ { \\circ } C }$ 处理3d时，单株干重、鲜重和叶片鲜重与CK差异不显著。 $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理12d与CK相比，单株干重、鲜重和叶片鲜重分别减少 $6 4 . 2 3 \\% .$ $8 4 . 3 2 \\%$ 和 $8 2 . 8 9 \\%$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f29723e8d331c17c079fa36667d30e4b3b4cafaeb7d4699ae40ab9ee7167fd1e.jpg",
+        "table_caption": [
+            "表1不同高温处理对小白菜单株干、鲜重和叶片鲜重的影响 Table1Efectofdifferent high-temperature stresstreatmentson fresh weight,dry weightandleafblade weight of pakchoi "
+        ],
+        "table_footnote": [
+            "不同小写字母表示在 $P { < } 0 . 0 5$ 水平同一处理时间不同温度间差异显著。Different lowercase letters mean significant differences among treatnents at the same stress time at 0.05 level."
+        ],
+        "table_body": "<html><body><table><tr><td>胁迫时间 Stress time (d)</td><td>昼/夜温度 Day/night temperature（℃)</td><td>单株干重 Dry weight (g)</td><td>单株鲜重 Fresh weight (g)</td><td>叶片重 Leaf blade weight (g)</td></tr><tr><td>3</td><td>CK (25/18)</td><td>1.73±0.02a</td><td>19.71±0.78a</td><td>9.34±0.30a</td></tr><tr><td rowspan=\"4\"></td><td>32/22</td><td>1.71±0.01a</td><td>19.48±0.41a</td><td>9.28±0.33a</td></tr><tr><td>35/25</td><td>1.64±0.08a</td><td>18.47±0.82ab</td><td>8.96±0.29b</td></tr><tr><td>38/28</td><td>1.55±0.06b</td><td>17.33±0.43b</td><td>8.32±0.29b</td></tr><tr><td>CK (25/18)</td><td>2.17±0.05a</td><td>25.64±0.71a</td><td>13.16±0.15a</td></tr><tr><td rowspan=\"4\"></td><td>32/22</td><td>2.10±0.11a</td><td>24.51±0.42a</td><td>11.82±0.12b</td></tr><tr><td>35/25</td><td>2.03±0.07a</td><td>22.95±0.82b</td><td>10.42±0.08c</td></tr><tr><td>38/28</td><td>1.85±0.05b</td><td>18.32±0.29c</td><td>9.22±0.17d</td></tr><tr><td>CK (25/18)</td><td>2.72±0.05a</td><td>32.94±0.04a</td><td>15.88±0.71a</td></tr><tr><td rowspan=\"5\">12</td><td>32/22</td><td>2.64±0.06a</td><td>31.11±0.34a</td><td>14.34±0.29b</td></tr><tr><td>35/25</td><td>2.21±0.07b</td><td>24.54±0.78b</td><td>12.31±0.27c</td></tr><tr><td>38/28</td><td>1.58±0.04c</td><td>12.11±0.35c</td><td>6.27±0.34d</td></tr><tr><td>CK (25/18)</td><td>2.96±0.03a</td><td>36.42±0.36a</td><td>18.23±0.26a</td></tr><tr><td>32/22</td><td>2.85±0.05b</td><td>33.42±0.88b</td><td>16.33±0.15b</td></tr><tr><td></td><td>35/25</td><td>2.64±0.04c</td><td>28.42±0.39c</td><td>14.22±0.33c</td></tr><tr><td></td><td>38/28</td><td>1.06±0.1d</td><td>5.71±0.63d</td><td>3.12±0.4d</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 高温对小白菜叶片形态的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从表2可以看出，小白菜叶片长度、宽度和叶柄宽度均以CK最大，随着温度升高，叶片长、宽度和叶柄宽度呈逐渐减小的趋势，且随着持续时间的增加，减少幅度增大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理 $1 2 {  { \\mathrm { ~ d ~ } } }$ 对小白菜叶片形态的影响最显著，叶片的长度、宽度分别较CK减少 $5 0 . 1 \\%$ 和$45 . 8 \\%$ 。叶片长度的变化幅度更大，受高温胁迫表现更为明显。 $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理9d叶柄长度开始显著降低, $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理 $9 \\mathrm { d } , 1 2 \\mathrm { d }$ 分别比CK减少 $1 4 . 6 \\% .$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$3 0 . 7 \\% 3 8 ^ { \\circ } C / 2 8 ^ { \\circ } C$ 处理持续9d之后，部分叶片出现变黄甚至干枯死亡，导致叶柄长度减小。昼温 $2 5 \\sim$ $3 5 \\ \\mathrm { { ^ \\circ C } }$ 范围内，随温度的升高，叶片内叶柄长度逐渐增加，并随持续时间的延长增加的趋势越加明显，与 $3 5 ^ { \\circ } \\mathrm { C } / 2 5 ^ { \\circ } \\mathrm { C }$ 处理12d相比， $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理12 d叶柄长度减小 $6 . 5 8 \\text{‰}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a7ac8840a8330fdbddd58000250945e40c5c3ada3c97c6a220b0ffa6a600720.jpg",
+        "table_caption": [
+            "表2不同高温处理对小白菜叶片形态的影响 Table2Efectofdiferenthigh-temperaturestress reatmentsonleaflngth,eafwidth,petiolelength,petiole widthadpetiole length within the blade of pakchoi "
+        ],
+        "table_footnote": [
+            "不同小写字母表示在 $P { < } 0 . 0 5$ 水平同一处理时间不同温度间差异显著。Different lowercase letters mean significant diferences among treatments at the same stress time at O.05 level."
+        ],
+        "table_body": "<html><body><table><tr><td>胁迫时间 Stress time (d)</td><td>昼/夜温度 Day/night temperature (℃)</td><td>叶片长 Leaf length (cm)</td><td>叶片宽 Leaf width (cm)</td><td>叶柄长 Petiole length (cm)</td><td>叶柄宽 Petiole width (cm)</td><td>叶片内叶柄长度 Petiole length within the blade (cm)</td></tr><tr><td>3</td><td>CK (25/18)</td><td>8.06±0.25a</td><td>4.59±0.27a</td><td>4.76±0.23a</td><td>1.72±0.06a</td><td>1.73±0.02b</td></tr><tr><td rowspan=\"6\">6</td><td>32/22</td><td>8.02±0.56a</td><td>4.56±0.21a</td><td>4.75±0.07a</td><td>1.71±0.03a</td><td>1.75±0.04b</td></tr><tr><td>35/25</td><td>7.85±0.07a</td><td>4.44±0.26a</td><td>4.79±0.09a</td><td>1.70±0.02a</td><td>1.88±0.02a</td></tr><tr><td>38/28</td><td>7.49±0.31a</td><td>4.36±0.12a</td><td>4.78±0.12a</td><td>1.68±0.02a</td><td>1.97±0.04a</td></tr><tr><td>CK (25/18)</td><td>9.24±0.31a</td><td>5.13±0.41a</td><td>5.07±0.09a</td><td>1.76±0.05a</td><td>1.87±0.01c</td></tr><tr><td>32/22</td><td>9.13±0.23a</td><td>5.02±0.14ab</td><td>5.09±0.04a</td><td>1.74±0.02a</td><td>1.86±0.02c</td></tr><tr><td>35/25</td><td>8.59±0.37b</td><td>4.86±0.26b</td><td>5.23±0.08a</td><td>1.73±0.01a</td><td>2.04±0.03b</td></tr><tr><td rowspan=\"4\">9號</td><td>38/28</td><td>8.12±0.26b</td><td>4.58±0.24b</td><td>5.24±0.16a</td><td>1.70±0.03a</td><td>2.29±0.01a</td></tr><tr><td>CK (25/18)</td><td>10.34±0.54a</td><td>5.72±0.39a</td><td>5.49±0.1a</td><td>1.82±0.02a</td><td>1.93±0.02c</td></tr><tr><td>32/22</td><td>10.28±0.31a</td><td>5.58±0.25ab</td><td>5.53±0.09a</td><td>1.79±0.02a</td><td>1.99±0.06c</td></tr><tr><td>35/25</td><td>9.63±0.17a</td><td>5.31±0.09ab</td><td>5.68±0.17a</td><td>1.73±0.01b</td><td>2.26±0.04b</td></tr><tr><td rowspan=\"5\">12</td><td>38/28</td><td>7.34±0.14b</td><td>4.02±0.10a</td><td>4.69±0.19b</td><td>1.43±0.04c</td><td>2.37±0.01a</td></tr><tr><td>CK (25/18)</td><td>11.59±0.31a</td><td>6.16±0.14a</td><td>5.86±0.42c</td><td>1.93±0.05a</td><td>2.01±0.04b</td></tr><tr><td>32/22</td><td>11.19±0.36a</td><td>5.83±0.05ab</td><td>5.94±0.06b</td><td>1.87±0.01a</td><td>2.08±0.44b</td></tr><tr><td>35/25</td><td>10.09±0.40b</td><td>5.53±0.13b</td><td>6.08±0.08a</td><td>1.78±0.04b</td><td>2.43±0.49a</td></tr><tr><td>38/28</td><td>5.78±0.62c</td><td>3.34±0.14c</td><td>4.06±0.14d</td><td>1.12±0.04c</td><td>2.27±0.01b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 高温对小白菜卷叶率、SPAD和单位面积产量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3为不同温度下小白菜卷叶率、SPAD和单位面积产量的变化。随着温度的升高，卷叶率呈增大的趋势，且随着持续时间的增加，与CK的差异逐渐增大。 $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理持续9d开始，卷叶率达到$100 \\%$ 。小白菜SPAD值在各处理天数下均符合CK最大的规律，随着温度的升高，SPAD呈减小的趋势，且随着持续时间的延长，与CK的差异逐渐增大，与CK相比， $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理 $3 \\mathrm { d } , 6 \\mathrm { d } , 9 \\mathrm { d } , 1 2 \\mathrm { d }$ 的SPAD值分别减少 $1 9 . 9 5 \\%$ 、 $3 1 . 0 9 \\%$ 、 $4 0 . 2 8 \\%$ 、 $5 3 . 8 2 \\%$ 。随着处理温度的升高，单位面积产量逐渐降低，且随着胁迫时间的延长，与CK的差异逐渐增大， $3 2 ~ \\mathrm { ^ { \\circ } C } /$ $2 2 \\ \\mathrm { { ^ \\circ C } }$ 、 $3 5 ^ { \\circ } \\mathrm { C } / 2 5 ^ { \\circ } \\mathrm { C }$ 、 $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理12d的单位面积产量分别较CK减少 $5 2 . 3 1 \\%$ 、 $6 8 . 9 \\%$ 、 $8 6 . 3 8 \\text{‰}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4高温对小白菜品质的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4为不同温度处理下小白菜内在品质的变化情况。从表中可以看出 $3 2 \\ \\mathrm { ^ { \\circ } C } / 2 2 \\ \\mathrm { ^ { \\circ } C }$ 、 $3 5 ^ { \\circ } \\mathrm { C } / 2 5 ^ { \\circ } \\mathrm { C }$ 和$3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理下，小白菜粗纤维含量随胁迫程度的增加而呈现出增加的趋势。并且随着胁迫时间的延长，其增加的幅度呈现增大的趋势。粗纤维含量以CK最少，且均低于其他温度处理。其中， $3 8 ~ \\mathrm { { ^ circ C } / }$ $2 8 \\ \\mathrm { { ^ \\circ C } }$ 处理与CK差异最显著，与CK相比， $3 8 ~ \\mathrm { { ^ circ C } / }$ $2 8 \\ \\mathrm { { ^ \\circ C } }$ 处理 $3 \\mathrm { ~ d ~ } , \\ 6 \\mathrm { ~ d ~ } , \\ 9 \\mathrm { ~ d ~ } , \\ 1 2 \\mathrm { ~ d ~ }$ 的粗纤维含量分别增加 $1 4 . 4 7 \\%$ 、 $2 1 . 5 1 \\%$ 、 $2 2 . 8 8 \\%$ 、 $1 8 . 7 5 \\text{‰}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各个持续处理天数下可溶性糖含量均以 $3 8 ~ \\ { ^ { \\circ } C } / { }$ $2 8 \\ \\mathrm { { ^ \\circ C } }$ 处理最低，处理 $3 \\mathrm { d } , \\ 6 \\mathrm { d } , \\ 9 \\mathrm { d }$ 随着胁迫温度的升高，可溶性糖含量呈现出先增加后减少的趋势， $3 8 ~ \\ { ^ { \\circ } C } / { }$ $2 8 \\ \\mathrm { { ^ \\circ C } }$ 处理与CK差异显著，与CK相比， $3 8 ~ \\mathrm { ^ circ C } / 2 8 ~ \\mathrm { ^ \\circ C }$ 处理可溶性糖含量分别减少 $0 . 1 6 \\%$ 、 $7 . 7 9 \\%$ 、 $32 . 6 9 \\text{‰}$ 持续处理12d时，随着温度的升高，可溶性糖含量呈现出降低的趋势， $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理与CK差异显著，其含量比CK降低 $6 1 . 3 3 \\%$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "维生素C含量随胁迫温度的升高呈现出降低的趋势，在各个处理天数下维生素C含量均以CK最高，且均高于其他温度处理。在各处理时段当中,9d、12d维生素C含量随胁迫温度的变化显著。 $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理与CK的差异最显著，与CK相比， $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理3d、6d、9d、 $1 2 { \\mathrm { ~ d ~ } }$ 的维生素C含量分别减少$1 1 . 5 4 \\%$ 、 $10 . 9 7 \\%$ 、 $3 2 . 2 2 \\%$ 、 $60 . 8 4 \\%$ 。各高温处理后可溶性蛋白含量随温度胁迫的变化均显著。高温处理3d随胁迫温度的升高，可溶性蛋白含量呈增加的趋势，与CK相比, $3 2 { \\mathrm { ~ \\sc ~ C ~ / 2 2 ~ ^ { \\circ } C ~ . 3 5 ~ ^ { \\circ } C ~ / 2 5 ^ { \\circ } C ~ . 3 8 ~ ^ { \\circ } C ~ / ~ 2 8 ~ ^ { \\circ } C ~ } }$ 处理下可溶性蛋白含量分别增加 $2 . 8 3 \\%$ 、 $4 . 9 2 \\%$ /$56 3 \\%$ 。高温处理6d、9d、12d可溶性蛋白含量随处理温度的升高呈现出减少的趋势，与CK相比，",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/461ee68346d1a20229f232b5032818763367995d1253dc30004549035facabd6.jpg",
+        "table_caption": [
+            "表3不同高温处理对小白菜卷叶率、叶色和单位面积产量的影响fect of different high-temperature stress treatments on leaf curl index, SPAD and per unit are"
+        ],
+        "table_footnote": [
+            "不同小写字母表示在 $P { < } 0 . 0 5$ 水平同一处理时间不同温度间差异显著。Different lowercase letters mean significant differences among treatents at the same stress time at 0.05 level."
+        ],
+        "table_body": "<html><body><table><tr><td>胁迫时间 Stress time (d)</td><td>昼/夜温度 Day/night temperature（℃)</td><td>卷叶率 Rolled leaf rate (%)</td><td>SPAD</td><td>单位面积产量 Per unit area yield (g·m-2)</td></tr><tr><td>3</td><td>CK (25/18)</td><td>0±0d</td><td>53.44±0.53a</td><td>5 463±64.72a</td></tr><tr><td rowspan=\"5\"></td><td>32/22</td><td>3±0.82c</td><td>52.37±0.29b</td><td>5 013±69.88b</td></tr><tr><td>35/25</td><td>19±1.25b</td><td>49.73±0.26c</td><td>4 666.5±77.41c</td></tr><tr><td>38/28</td><td>40±0.94a</td><td>42.78±0.3d</td><td>4 263±56.79d</td></tr><tr><td>CK (25/18)</td><td>0±0d</td><td>53.65±0.43a</td><td>5 339±62.47a</td></tr><tr><td>32/22</td><td>19±3.27c</td><td>50.46±0.33b</td><td>3 681±57.8b</td></tr><tr><td rowspan=\"5\">9</td><td>35/25</td><td>35±0.47b</td><td>47.83±0.32c</td><td>3 676.5±62.21b</td></tr><tr><td>38/28</td><td>76±2.49a</td><td>36.97±0.13d</td><td>3 442.5±59.81c</td></tr><tr><td>CK (25/18)</td><td>0±0.47d</td><td>52.98±0.1a</td><td>5 269±60.1a</td></tr><tr><td>32/22</td><td>38±4.11c</td><td>48.73±0.4b</td><td>2 922±34.63b</td></tr><tr><td>35/25</td><td>69±3.56b</td><td>44.51±0.21c</td><td>2 770.5±33.26c</td></tr><tr><td rowspan=\"5\">12</td><td>38/28</td><td>100±0.94a</td><td>31.64±0.59d</td><td>2 748±45.22c</td></tr><tr><td>CK (25/18)</td><td>3±0.94d</td><td>54.92±0.41a</td><td>5 451±42.56a</td></tr><tr><td>32/22</td><td>53±2.87c</td><td>46.24±0.44b</td><td>2 599.5±67.77b</td></tr><tr><td>35/25</td><td>86±0.49b</td><td>42.77±0.42c</td><td>1 695.4±33.42c</td></tr><tr><td>38/28</td><td>100±0.47a</td><td>25.36±0.74d</td><td>742.3±48.41d</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd20fa2b505e5562a9e9401aaacc570033039ecb0b01ab2672dab70d8d1ddf1d.jpg",
+        "table_caption": [
+            "表4不同高温处理对小白菜内在品质的影响 'able 4Efectofdierenthightemperature treatmentsocotentsofcellose,solublesugaiaminC,solubleproteinofpakchoi "
+        ],
+        "table_footnote": [
+            "不同小写字母表示在 $P { < } 0 . 0 5$ 水平同一处理时间不同温度间差异显著。Different lowercase letters mean significant differences among treatnents at the same stress time at O.O5 level."
+        ],
+        "table_body": "<html><body><table><tr><td>胁迫时间 Stress time (d)</td><td>昼/夜温度 Day/night temperature（℃)</td><td>粗纤维 Cellulose (%)</td><td>可溶性糖 Sgublog)</td><td>维生素C Vc [mg:(100g)-1]</td><td>可溶性蛋白 Soluble orgtei</td></tr><tr><td>3</td><td>CK (25/18)</td><td>9.33±0.19c</td><td>20.18±0.55ab</td><td>20.88±0.48a</td><td>46.92±0.99c</td></tr><tr><td rowspan=\"7\">6</td><td>32/22</td><td>9.42±0.32c</td><td>20.95±0.46a</td><td>20.47±0.89a</td><td>48.25±1.12b</td></tr><tr><td>35/25</td><td>9.98±0.27b</td><td>21.02±0.82a</td><td>20.01±0.67a</td><td>49.23±0.85a</td></tr><tr><td>38/28</td><td>10.67±0.44a</td><td>20.13±0.59b</td><td>18.47±0.82b</td><td>49.56±0.89a</td></tr><tr><td>CK (25/18)</td><td>9.78±0.11c</td><td>20.94±0.46c</td><td>21.34±0.37a</td><td>49.82±1.23a</td></tr><tr><td>32/22</td><td>9.86±0.42c</td><td>21.47±0.85b</td><td>20.84±0.57a</td><td>49.95±0.77a</td></tr><tr><td>35/25</td><td>10.28±0.26b</td><td>21.86±0.92a</td><td>20.48±0.47b</td><td>48.67±0.71b</td></tr><tr><td>38/28</td><td>11.89±0.39a</td><td>19.31±0.23d</td><td>19.00±0.78b</td><td>45.27±0.9c</td></tr><tr><td rowspan=\"4\">9</td><td>CK (25/18)</td><td>10.16±0.57d</td><td>21.58±0.47b</td><td>22.75±0.84a</td><td>52.48±0.88a</td></tr><tr><td>32/22</td><td>10.35±0.18c</td><td>21.85±0.65a</td><td>21.63±0.63b</td><td>48.58±0.63b</td></tr><tr><td>35/25</td><td>11.08±0.36b</td><td>21.47±0.38b</td><td>21.17±0.77b</td><td>47.52±0.72b</td></tr><tr><td>38/28</td><td>12.48±0.32a</td><td>14.53±0.37c</td><td>15.42±0.60c</td><td>30.47±1.28c</td></tr><tr><td rowspan=\"5\">12</td><td>CK (25/18)</td><td>10.69±0.20c</td><td>22.17±0.74a</td><td>23.52±0.83a</td><td>55.24±0.93a</td></tr><tr><td>32/22</td><td>10.94±0.41c</td><td>21.64±0.59ab</td><td>22.03±0.79b</td><td>47.21±0.38a</td></tr><tr><td>35/25</td><td>11.88±0.33b</td><td>21.05±0.37b</td><td>21.85±0.84b</td><td>45.21±0.74ab</td></tr><tr><td>38/28</td><td>12.69±0.17a</td><td>8.57±0.21c</td><td>9.21±0.85c</td><td>10.76±0.56c</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理6d、9d、12d可溶性蛋白含量分别减少 $9 . 1 3 \\%$ 、 $41 . 9 4 \\%$ 、 $8 0 . 5 2 \\%$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5小白菜卷叶率和产量与温度和持续时间的关系通过多元回归方法，利用前3批试验数据分别构建了小白菜卷叶率和单位面积产量与最高处理气温、最低处理气温、平均处理气温及持续时间的关系模型。利用另外3批实测数据对模型预测效果进行检验。并找出最优模型。拟合方程与检验结果见表5。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/09b8099ad1a43388ee155e3a2927c56bafd256c2d1cc562d28d5da60a63b58ef.jpg",
+        "table_caption": [
+            "表5小白菜卷叶率 $( Y _ { 1 } )$ 、单位面积产量 $( Y _ { 2 } )$ 与最高处理温度 $( T _ { \\mathrm { m a x } } )$ 、最低处理温度 $( T _ { \\mathrm { m i n } } )$ 、平均处理温度 $\\left( T _ { \\mathrm { m e a n } } \\right)$ （204 及各温度处理对应的持续天数(t)间的关系模型 Table 5Relation models between pakchoi leaf curl index $( Y _ { 1 } )$ ,yield $( Y _ { 2 } )$ and daily highest temperature ( $( T _ { \\mathrm { m a x } } )$ ,daily minimum temperature $( T _ { \\mathrm { m i n } } )$ ,daily mean temperature $( T _ { \\mathrm { m e a n } } )$ and treatment time (t) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型Model</td><td>Corea系数R²cient</td><td>标准（S.E.)</td><td>相对i差re)</td><td>回归概率(Fprob) probability</td></tr><tr><td></td><td>卷叶率Leaf curl index</td><td></td><td></td><td></td></tr><tr><td>Y1=-45.652+1.462×Tmax-11.69×t+0.522×Tmax×t</td><td>0.930</td><td>9.35%</td><td>0.233 0</td><td><0.005</td></tr><tr><td>Y1=-60.925+2.685×Tmin-10.737×t+0.683×Tmin×t</td><td>0.959</td><td>7.59%</td><td>0.189 4</td><td><0.005</td></tr><tr><td>Y1=-52.414+1.943×Tmean-11.447×t +0.598×Tmean×t</td><td>0.948</td><td>8.51%</td><td>0.212 4</td><td><0.005</td></tr><tr><td colspan=\"3\">单位面积产量 Per unit area yield</td><td></td><td></td></tr><tr><td>Y2=5 164.255+12.635×Tmax+644.678×t-27.503×Tmax×t</td><td>0.962</td><td>274.02 g·m-2</td><td>0.0730</td><td><0.005</td></tr><tr><td>Y2=5 172.919+17.153×Tmin+616.267×t-36.927×Tmin×t</td><td>0.903</td><td>438.17 g·m-2</td><td>0.116 7</td><td><0.005</td></tr><tr><td>Y2=5 164.169+14.687×Tmean+640.9×t-31.827×Tmean×t</td><td>0.943</td><td>336.94 g·m-2</td><td>0.089 7</td><td><0.005</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可以看出，小白菜卷叶率与最低处理温度和最低温度持续时间构建的模型模拟效果最好，模拟模型的回归估计标准误差(S.E.)和相对误差(re)最小，分别为 $7 . 5 9 \\%$ 和0.1894；卷叶率与最高处理温度和最高温度持续时间构建的模型模拟效果最差，模拟模型的回归估计标准误差(S.E.)和相对误差(re)最大，分别为 $9 . 3 5 \\%$ 和0.233，是卷叶率与最低处理温度和最低温度持续时间构建模型的1.23倍和1.23倍。小白菜卷叶率与平均处理温度和平均气温持续时间构建模型模拟效果介于二者之间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "小白菜单位面积产量与最高处理温度和最高温度持续时间构建的模型模拟效果最好，模拟模型的回归估计标准误差(S.E.)和相对误差(re)最小，分别为$2 7 4 . 0 2 \\ \\mathrm { g } { \\cdot } \\mathrm { m } ^ { - 2 }$ 和0.073；单位面积产量与最低处理温度和最低温度持续时间构建的模型模拟效果最差，模拟模型的回归估计标准误差(S.E.)和相对误差(re)最大，分别为 $4 3 8 . 1 7 \\ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ 和0.1167，是单位面积产量与最高处理温度和最高温度持续时间构建模型的1.6倍和1.6倍。小白菜单位面积产量与平均处理气温和平均气温持续时间构建模型模拟效果介于二者之间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.6小白菜高温胁迫等级的确定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "高温影响小白菜品质和产量[28]。卷叶率(A)是评价外观品质的主要指标[29]，而高温胁迫的减产率 $( R )$ （204号是评价影响程度的主要指标[30]，因此由卷叶率和减产率定义高温胁迫指数，并根据指数划分小白菜受害等级。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表6可以看出，随着温度升高和胁迫时间延长，小白菜减产率逐渐增大。高温受害等级在各温度从胁迫第9d开始均为Ⅱ级或Ⅲ级，此时小白菜开始受到中度高温胁迫，减产率分别为 $44 . 5 4 \\%$ /$4 7 . 4 2 \\%$ 、 $47 . 8 5 \\%$ 、 $5 2 . 3 1 \\%$ 、 $6 8 . 9 0 \\%$ 、 $8 6 . 3 8 \\%$ ，高温胁迫指数也达到5以上(9d时 $3 2 ^ { \\circ } \\mathrm { C } / 2 2 ^ { \\circ } \\mathrm { C }$ 除外)。从整体上看小白菜受Ⅱ级高温胁迫最多。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究发现随着温度的升高，小白菜叶片长、宽度、单株干鲜重和叶片鲜重呈减小趋势，且随着持续时间的延长，其减小量逐渐增大。这与有关报道结果一致[31]，如在高温胁迫下，植物叶片吸水量降低，蒸腾量大于吸水量造成植物叶片萎蔫[32]，随着高温胁迫的持续，叶片出现灼伤的症状[3-35]。并且生育周期变长，短缩茎易伸长，叶片变窄、变薄，植株早衰，品质降低极快[36-37]。随着温度的升高和持续时间的延长，小白菜SPAD逐渐减小。这与陶志强等[38]发现不论强耐热性或弱耐热性春玉米(ZeamaysL.)品种，SPAD值均随胁迫时间的延长而降低，且胁迫时间越长，降幅越大的结果一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d8c9da983353de8c12162dbba5cb14bd25c9c37fbcd270afd37f1faee49ab1c.jpg",
+        "table_caption": [
+            "表6小白菜不同高温热害下减产率以及高温受害等级ble 6Pakchoi yield reduction rates under different high temperature treatme"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>胁迫时间 Stress time (d)</td><td>昼/夜温度 Day/night temperature（℃）</td><td>减产率 Yield reduction rate (%)</td><td>高温胁迫指数 High temperature stress index (IHT)</td><td>高温受害等级 Thermal suffer level</td></tr><tr><td>3</td><td>CK (25/18)</td><td>0</td><td>0</td><td></td></tr><tr><td rowspan=\"5\"></td><td>32/22</td><td>8.24</td><td>0.56</td><td>I</td></tr><tr><td>35/25</td><td>14.58</td><td>1.68</td><td>I</td></tr><tr><td>38/28</td><td>21.97</td><td>3.10</td><td>Ⅱ</td></tr><tr><td>CK (25/18)</td><td>0</td><td>0</td><td></td></tr><tr><td>32/22</td><td>31.05</td><td>2.50</td><td>I</td></tr><tr><td rowspan=\"5\">9</td><td>35/25</td><td>31.14</td><td>3.31</td><td>Ⅱ</td></tr><tr><td>38/28</td><td>35.52</td><td>5.58</td><td>Ⅱ</td></tr><tr><td>CK (25/18)</td><td>0</td><td>0</td><td></td></tr><tr><td>32/22</td><td>44.54</td><td>4.13</td><td>Ⅱ</td></tr><tr><td>35/25</td><td>47.42</td><td>5.82</td><td>Ⅱ</td></tr><tr><td rowspan=\"5\">12</td><td>38/28</td><td>47.85</td><td>7.39</td><td>Ⅱ</td></tr><tr><td>CK (25/18)</td><td>0</td><td>0.15</td><td></td></tr><tr><td>32/22</td><td>52.31</td><td>5.27</td><td>Ⅱ</td></tr><tr><td>35/25</td><td>68.90</td><td>7.75</td><td>Ⅲ</td></tr><tr><td>38/28</td><td>86.38</td><td>9.32</td><td>Ⅱ</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "植物在发生逆境时通过调节体内渗透物质适应胁迫[39]。其中可溶性糖和可溶性蛋白为植物细胞内主要渗透调节物质[40]。高温能促使蛋白质的分解,耐热品种的蛋白质分解速度较慢[41]。本研究发现短期高温胁迫可使叶片内可溶性蛋白含量增加，可溶性蛋白含量随胁迫温度的升高有一个逐渐增加的过程，这可能是逆境下新蛋白质合成的热激蛋白已参与抗热反应[42]。随着胁迫的加重，小白菜叶片内的可溶性蛋白含量的减少可能由于高温影响膜系统等的正常工作，从膜上或其他结合形式中降解释放的蛋白质减少。在胁迫过程中，与对照相比蛋白质含量有规律的减少，这证明了可溶性蛋白含量的减少与抗逆性也有着密切关系[13]。植物细胞内可溶性糖不仅可以调节植物细胞内的渗透平衡以适应高温，还可保持蛋白质的水合度，防止原生质脱水[43]。本研究发现可溶性糖含量在高温胁迫下的变化趋势与可溶性蛋白类似，短期高温胁迫下可溶性糖含量随温度的升高而增加，随胁迫时间的延长，温度越高，可溶性糖含量越少，这与有关研究结果一致[44]。如李艳艳等[45]研究指出，热敏系品种茄子(SolanummelongenaL.)在高温胁迫初期可溶性糖含量显著增加，随胁迫时间的延长可溶性糖含量出现显著下降的趋势，高温胁迫导致叶片中可溶性糖在胁迫初期显著升高，可能与淀粉的分解有关，而在胁迫后期则显著下降，这可能与高温影响了叶片的光合能力，导致光合产物急剧减少有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究根据小白菜产量和卷叶率定义了高温胁迫指数并划分了受害等级。发现高温胁迫9d开始受害等级达Ⅱ级以上，相对于减产率，卷叶率更易受高温胁迫的影响， $3 8 ~ \\mathrm { ^ { \\circ } C } / 2 8 ~ \\mathrm { ^ { \\circ } C }$ 处理卷叶率在各时段均达 $40 \\%$ 以上。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过研究发现高温胁迫使小白菜外观品质变差，营养含量降低，随着胁迫的加剧，减产严重。小白菜卷叶率、单位面积产量分别与最低处理温度和最低温度持续时间、最高处理温度和最高温度持续时间构建模型模拟效果最好，模拟模型可为开展黄瓜生产管理提供决策性意见。本研究未区分不同作物基因型在高温下产量和品质的不同响应，试验设置的温度处理也具有一定的局限性。因此研究不同高温梯度对不同耐热型小白菜品种的影响还有待进一步研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]高丽红，李式军．生菜再生苗耐高温生理基础[J]．南京农 业大学学报，1994,17(2):23-27 Gao L H,Li SJ.Physiological basis of heat tolerance in regenerated lettuce[J]. Journal of Nanjing Agricultural University,1994,17(2): 23-27   \n[2]侯喜林，曹寿椿，管晓春，等．抗热白菜新品种‘矮抗6 号'[J].园艺学报,2003,30(6):762 HouXL,Cao S C,Guan X C,et al.A new heat-resistant ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "non-heading Chinese cabbage variety‘Dwarf Resistant 6'[J]. ActaHorticulturae Sinica,2003,30(6):762 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "56-61   \n[4]张宏彦．蔬菜养分调控与品质[J]．中国蔬菜,2005,(S):23-26 Zhang H Y. Nutrient regulation and vegetable quality[J]. China Vegetables,2005,(S): 23-26   \n[5]赵晓东．小白菜耐热生理生化指标及遗传多样性的研究[D]. 南昌：江西农业大学,2013 Zhao X D.Studies on physiological& biochemical indexes in thermotolerance and genetic diversity of Brassica campestris ssp.chinensis L.[D]. Nanchang: Jiangxi Agricultural University,2013   \n[6]赵索，陈丽，周传余，等．小白菜品系的耐热性鉴定[J]．黑 龙江农业科学,2014,(7): 86-91 Zhao S,Chen L, Zhou C Y,et al. Identification of heat resistance of Brassica rapa L.[J]. Heilongjiang Agricultural Sciences,2014,(7): 86-91   \n[7] Zhao X D, Zhang JY,Fan S Y,et al. Research progress of heat-tolerance of Brassica campestris ssp.chinensis[J].Agricultural Science & Technology,2013,14(2): 248-253   \n[8]王鑫，徐乃林，赵尊练，等．花期高温胁迫对线辣椒形态指 标及生理特性的影响[J]．辣椒杂志,2016,14(2):18-21 Wang X,Xu NL,Zhao ZL,et al. Effects of high temperature stress during flowering on morphological and physiological characters in linear hot pepper[J]. Journal of China Capsicum, 2016,14(2): 18-21   \n[9]周伟辉，薛大伟，张国平．高温胁迫下水稻叶片的蛋白响 应及其基因型和生育期差异[J]．作物学报，2011，37(5): 820-831 Zhou W H, Xue D W, Zhang G P. Protein response of rice leaves to high temperature stress and its difference of genotypes at different growth stage[J].Acta Agronomica Sinica, 2011,37(5): 820-831   \n[10]Patton A J,Cunningham S M,Volenec JJ,et al.Differences in freeze tolerance of Zoysia grasses:I.Carbohydrate and proline accumulation[J].Crop Science,2007,47(5):2170-2181   \n[11]崔璇．高温胁迫对蓝百合幼苗生理特征的影响[D]．哈尔滨: 东北林业大学,2007 Cui X. Studies on physiological characteristics efects of Agapanthusafricanusseedlingsunderhigh temperature stress[D].Harbin: Northeast Forestry University,2007   \n[12]Wu B H,Génard M,Lobit P,et al.Analysis of citrate accumulation during peach fruit development via a model approach[J]. Journal of Experimental Botany,20o7,58(10):   \n[13] Stenzel N M C,Neves C S V J,Marur C J,et al. Maturation curves and degree-days accumulation for fruits of‘Folha Murcha' orange trees[J]. Scientia Agricola,2006,63(3): 219-225   \n[14]Slaughter D C.Nondestructive maturity assessment methods for mango:A review of literature and identification of future research needs[D].Davis,California,USA:University of California,2009:1-18   \n[15] Marcelis L F M.A simulation model for dry mater partitioning in cucumber[J].Annals of Botany,1994,74(1): 43-52   \n[16] de Koning A N M. Development and dry matter distribution in glasshouse tomato: A quantitative approach[D]. Wageningen: Wageningen Agricultural University,1994   \n[17] Tap R F,van Straten G,van Willigenburg L G.A dynamic model for the optimal control of greenhouse tomato crop production[D]. Wageningen:Wageningen Agricultural University, 2000   \n[18] Dayan E,Presnov E,Fuchs M. Prediction and calculation of morphological characteristics and distribution of assimilates in the ROSGRO model[J].Mathematics and Computers in Simulation,2004,65(1/2):101-116   \n[19]陈丹，刘云，卢明．南宁市大棚早春越夏种植水果黄瓜的 小气候评价与调控[J]．长江蔬菜,2011,(4):47-50 Chen D,Liu Y,Lu M. Microclimate evaluation and regulation on greenhouse fruit cucumber planted in early spring over summering in Nanning[J]. Journal of Changjiang Vegetables, 2011,(4): 47-50   \n[20]乔志霞，沈火林，安岩．番茄耐高温胁迫能力鉴定方法的 研究[J]．西北农业学报,2001,15(6):114-120 Qiao Z X, Shen H L,An Y. The research on identifying methods in tolerance to high temperature of tomato[J].Acta AgriculturaeBoreali-occidentalisSinica, 2006, 15(6): 114-120   \n[21]苑玮琦，胡迪．利用矩实现植物叶片长宽的测量[J]．计算 机工程与应用,2013,49(16):188-191 Yuan W Q,Hu D.Measurement of leaf blade length and width based on moment[J]. Computer Engineering and Applications,2013,49(16): 188-191   \n[22]岳翔.不结球白菜膳食纤维含量分析及理化特性研究[D]. 南京：南京农业大学,2009 Yue X.Studies on the analysis of dietary fiber content and physiology and biochemistry characteristics in non-heading Chinese cabbage (Brassica campestris ssp.chinensis Makino)[D]. Nanjing: Nanjing Agricultural University,2009   \n[23]郭玉华，杨伟华，郁有祝，等．蒽酮比色法测定棉花成熟 纤维中水溶性总糖含量[J]．中国棉花，2011，38(12): 23-26 Guo Y H, Yang W H, Yu Y Z,et al. Determination of total sugar contents in mature cotton fiber using anthrone col",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24]庄学平，张雯，郑彩霞，等．3种物质对番茄果实中番茄红 素合成量的影响[J].安徽农业科学，2007，35(19): 5664-5665 Zhuang X P, Zhang W, Zheng C X,et al. Effect of glucose, sodium glutamate and ethephon on synthetic quantity of lycopene in tomato fruits[J]. Journal of Anhui Agricultural Sciences,2007,35(19): 5664-5665 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[25]曹建康，姜微波，赵玉梅．果蔬采后生理生化实验指导[M]. 北京：中国轻工业出版社,2007 Cao JK,Jiang W B, Zhao Y M. Physiological and Biochemical Experimental Guidance of Postharvest Fruits and Vegetables[M].Beijing:China Light Industry Press,2007   \n[26]金千瑜，欧阳由男，禹盛苗，等．土壤干旱胁迫对不同水稻品 种叶片卷曲的影响[J].中国水稻科学,2013,17(4):349-354 Jin QY,Ouyang YN,Yu S M,et al.Influence of soil drought stress on leaf rolling index in different rice varieties[J]. Chinese Journal of Rice Science,2003,17(4):349-354   \n[27] 许凯，徐翔宇，李爱花，等．基于概率统计方法的承德市农 业旱灾风险评估[J]．农业工程学报,2013,29(14):139-146 Xu K,Xu X Y, Li A H, et al. Assessing agricultural drought disaster risk in Chengde City using stochastic method[J]. Transactions of the CSAE,2013,29(14):139-146   \n[28]刘静静．气候因子和肥料结构对小白菜生长和品质的影 响[D]．上海：上海交通大学,2013 Liu JJ.Influence of cultivation environment and fertilizer on pakchoi growth and quality[D]. Shanghai: Shanghai Jiao Tong University,2013   \n[29]秦仁昌．中国植物志：第二卷[M]．北京：科学出版社,1959 Qin R C.Flora Reipublicae Popularis Sinicae: Book Ⅱ[M]. Beijing: Science Press,1959   \n[30]李卫国．水稻生长模拟与决策支持系统的研究[D]．南京: 南京农业大学,2005 Li W G. Study on rice growth simulation and decision support system[D]. Nanjing: Nanjing Agricultural University,2005   \n[31]窦全琴，隋德宗，何旭东，等．高温对20个鸡爪槭品种叶片形 态和光合特性的影响[J].江苏林业科技,2014,41(4):1-6 Dou Q Q, Sui D Z,He XD,et al. Effects of heat stress on leaf morphology and photosynthetic characteristics of twenty Acer palmatum Thunb.cultivars[J]. Journal of Jiangsu Forestry Science & Technology,2014,41(4): 1-6   \n[32]李伶俐．夏玉米水分胁迫敏感性及水分适宜度研究[D]．南 京：南京信息工程大学,2015 LiLL.A study over the water stress sensitivity and water ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "suitability of summer maize[D].Nanjing:Nanjing University of Information Science & Technology,2015 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[33]张巨明，解新明，董朝霞．高温胁迫下冷季型草坪草的耐 热性评价[J].草业学报，2007,24(2):105-109 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Zhang JM,Xie X M,Dong Z X.An evaluation on the heat tolerance of cool-season turf grasses under field heat stress[J]. Pratacultural Science,2007,24(2):105-109 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[34]金不换．干旱胁迫对不同品种早熟禾形态和生理特性影响的研究[D]．哈尔滨：东北农业大学,2009",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Jin B H.Research on drought stress affect morphological and ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "physiological characteristic of different cultivars of bluegrass[D]. Harbin: Northeast Agricultural University,2009   \n[35]刘维信，曹寿椿．夏季自然高温条件下不结球白菜品种评价 及相关性状的研究[J]．山东农业大学学报，1993，24(2): 176-182 Liu W X,Cao S C.A study on evaluation and related characteristics of nonheading Chinese cabbage under summer high temperature[J]. Journal of Shandong Agricultural University, 1993, 24(2): 176-182   \n[36] Zhao X D, Zhang JY, Fan S Y,et al. Research progress of heat-tolerance of Brassica campestris ssp.chinensis[J].Agricultural Science & Technology,2013,14(2): 248-253   \n[37]王新忠，赵玉国，吴沿友，等．高温胁迫对水稻拔节期净光 合速率·SPAD·叶绿素荧光动力学的影响[J].安徽农业科学， 2011,39(33): 20337-20339 Wang X Z, Zhao Y G, Wu Y Y,et al. Efects of high temperature stress on the chlorophyll fluorescence kinetics, SPAD and net photosynthesis rate of rice (Oryza satva L.) in jointing stage[J]. Journal of Anhui Agricultural Sciences, 2011,39(33): 20337-20339   \n[38]陶志强，陈源泉，邹娟秀，等．不同耐热型春玉米品种对高 温的光谱特征响应[J]．光谱学与光谱分析，2016,36(2): 520-526 Tao Z Q, Chen Y Q, Zou JX,et al. Spectral characteristics of spring maize varieties with diffrent heat tolerance to high temperature[J]. Spectroscopy and Spectral Analysis,2016, 36(2): 520-526   \n[39]吴兆洪，秦仁昌．中国蕨类植物科属志[M]．北京：科学出 版社,1991:47-565 Wu ZH,Qin R C.Genera of Pteridophytes in China[M]. Beijing: Science Press,1991: 47-565   \n[40] 韩蕊莲，李丽霞，梁宗锁.干旱胁迫下沙棘叶片细胞膜透性与 渗透调节物质研究[J].西北植物学报,2003,23(1):23-27 Han RL,Li L X, Liang Z S.Seabuckthorn relative membrane conductivity and osmotic adjustment under drought stress[J]. Acta Botanica Boreali-occidentalia Sinica,2003,23(1): 23-27   \n[41]宋晓玲，韩锋溪，胡景江．干旱-高温交叉逆境对小麦叶 片蛋白质表达的影响[J]．西北农业学报，2012，21(10): 22-27 Song X L,Han F X,Hu JJ. Effect of drought and heat cross-stress on protein expression in wheat leaves[J]. Acta Agriculturae Boreali-occidentalis Sinica,2012,21(10): 22-27   \n[42]沈丹婷．菠菜耐热性的初步研究[D]．上海：上海交通大 学,2012 Shen D T. Preliminary study on heat tolerance of spinach (Spinacia oleracea L.)[D]. Shanghai: Shanghai Jiao Tong University,2012 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[43]《福建植物志》编写组．福建植物志：第一卷修订版[M].福州：福建科学出版社，1982:1-265Compiling Group ofFloraof Fujian.Floraof Fujian:FirstVolume Revised Edition[M]. Fuzhou: Fujian Science Press,1982:1-265",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[44]涂三思，秦天才．高温胁迫对黄姜叶片脯氨酸、可溶性糖 和丙二醛含量的影响[J]．湖北农业科学，2004，37(4): 98-100 TuS S,Qin TC.Effect of heat stress on the contents of free proline,soluble sugar and malondiadehyde in Dioscorea zingiberensis leaves[J].Hubei Agricultural Sciences,2004, 37(4): 98-100 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[45]李艳艳，王俊青，李植良，等．短期高温胁迫对茄子主要生 理指标及叶片解剖结构的影响[J]．热带作物学报，2016, 37(9): 1774-1780 LiYY,WangJQ,LiZL,et al.Effects of short period of high temperature on the main physiological index and anatomical structure of leaves in eggplants with different thermo-tolerance[J].Chinese Journal of Tropical Crops,2016, 37(9):1774-1780 ",
+        "page_idx": 9
+    }
+]

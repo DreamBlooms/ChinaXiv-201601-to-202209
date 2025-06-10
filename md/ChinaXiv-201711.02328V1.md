@@ -1,0 +1,185 @@
+DOI:10.13930/j.cnki.cjea.170153
+
+刘强，张婉秋，周贵宇，梁雷，白晓亮，陈杨．辽河干流坝间耕地土壤重金属污染特征研究[J].中国生态农业学报,2017, 25(10):1545-1553 Liu Q,Zhang WQ,Zhou GY,Liang L,Bai XL,ChenY.Characteristics ofsoil heavy metals pollution incultivatedland in Zones between ipsilateral dams ofLiaohe River[J].Chinese Journal ofEco-Agriculture,2017,25(10):1545-1553
+
+# 辽河干流坝间耕地土壤重金属污染特征研究
+
+刘强ʰ，张婉秋，周贵宇¹，梁雷l\*\*，白晓亮²，陈杨l(1．辽宁大学环境学院沈阳110036;2．东北煤田地质局物探测量队 沈阳 110101)
+
+摘要：通过对辽河干流坝间10个断面耕地土壤 $0 { \sim } 5 \mathrm { c m }$ 、 $5 { \mathord { \sim } } 1 5 ~ { \mathrm { c m } }$ 、 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 沉积层重金属铜、镉、锌、铅含量测定，评价了该区土壤重金属污染程度，并采用地质累积指数法评价单一重金属污染状况与潜在生态危害指数，综合评价重金属生态危害程度。研究结果表明，该区土壤铜、铅、锌与镉含量均值分别为 $3 2 . 4 2 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ， $3 8 . 2 3 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 、$4 7 . 3 5 \mathrm { m g } \mathrm { \cdot k g } ^ { - 1 }$ 和 $1 . 6 2 5 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ；铅、锌含量均值在达牛渡口最大，分别为 $5 5 . 5 4 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 和 $8 0 . 5 1 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ；铜、镉含量均值在通江口处最大，分别为 $5 0 . 2 4 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 和 $3 . 1 0 3 ~ \mathrm { { m g } \cdot \mathrm { { k g } ^ { - 1 } } }$ 。除镉外，铅、铜、锌含量各断面不同深度浓度均低于全国土壤环境质量Ⅱ级标准，镉含量均值是全国土壤环境质量Ⅱ级标准的1.70倍，最大值为 $3 . 4 0 2 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 辽河大桥上游干流镉含量是下游镉含量的6.47倍。镉的地质累积指数值在坝间均显污染，其中，辽河大桥以上各断面显强污染。通江口至毓宝台特大桥重金属潜在生态风险指数值最强。各断面镉对多种金属潜在生态风险指数值的贡献达 $7 8 . 7 7 \% { \sim } 9 8 . 2 3 \%$ ，贡献率与潜在生态危害指数(RI)呈正相关。多种重金属潜在生态风险指数值变化趋势与镉地质积累指数分布趋势相同，最大值出现于通江口断面。
+
+关键词：重金属污染；辽河干流坝间；耕地土壤；地质累积指数；潜在生态风险指数中图分类号：X502 文献标识码：A 文章编号:1671-3990(2017)10-1545-09
+
+# Characteristics of soil heavy metals pollution in cultivated land in zones between ipsilateral dams ofLiaohe River
+
+LIU Qiang', ZHANG Wanqiu', ZHOU Guiyu1,LIANG Lei1\*\*, BAI Xiaoliang², CHEN Yangl (1.College ofEnvironment,Liaoning University,Shenyang l10o36,China;2.GeophysicalProspectionandSurveyTeamof Northeast Coalfield Geological Bureau, Shenyang l101O1, China)
+
+Abstract: The heavy metals [zinc $( Z \boldsymbol { \mathrm { n } } )$ ,lead $\mathrm { ( P b ) }$ ,copper (Cu) and cadmium (Cd)] contents in the $0 { - } 5 ~ \mathrm { c m }$ $5 \mathrm { - } 1 5 ~ \mathrm { c m }$ and 15-30 cmsoil depths of zonesbetween ipsilateraldams inten sections along LiaoheRiver were detectedand the polution situation of single heavy metal was evaluated using the geological acumulation indexmethod.The potentialdegreeof ecological damage by heavy metals was comprehensively evaluated using potential ecological risk index.The aims of the study were to evaluate the polution degreeof heavy metals,and explore theagricultural safety inzones between ipsilateraldamsofLiaohe River. The results showed that the average contents of Cu, Pb and $Z \mathrm { n }$ were $3 2 . 4 2 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ $3 8 . 2 3 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ and $4 7 . 3 5 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ respectively.Thecontentsofheavy metals in different sectionsandatvarious soil depths were lower than the GradeIstandard of the National Soil Environmental Quality Standard. The average content of Cd was $1 . 6 2 5 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，which was 1.70 times higherthan the GradeIstandardof the NationalSoilEnvironmental Quality Standard.While from ZhuerMountain to YubaoTai Grand Bridge,thetrendof soilCdcontentincreased,itdecreased from Yubaotai Grand Bridge tothe estuary.Then usingthe Liaohe Bridgeas the divide,the averagecontentofCd intheupper streamregion was6.47 times thatin the lower reaches. The geological accumulation indexes of $\mathrm { P b }$ , Cu and $Z \mathrm { n }$ in each sample section were all lower than 1.0, but the geological accumulation indexofCdobviouslyreflectedapollution trend inthe studyarea.Strong polltion in excess of Grade V standardmainlyocured in the upperreachesofLiaohe River.From Tongjiang portto Yubaotai Bridge,potential ecological risk indexof various heavy metals was very strong.Hudedian,Daniudukou,on to Liaohe Bridge wasanarea with a strong ecologicalhazard.Thenthedawnbridgeareahadamediumecologicalhazard.FinalyLengdongBridge,ZhaoquanRiverand LiaoheRiver estuaryconstituted thearea with slight ecologicalhazard.ThecontributionofCdinvarioussections topotential ecological risk of multi-metal was $7 8 . 7 7 \% - 9 8 . 2 3 \%$ ，which was positively correlated with the potential ecological risk index. Theperformance trendofvarious heavy metals intermsof potential ecologicalrisk index wassimilartothedistributiontrend in geological accumulation index of Cd, with the maximum value in Tongjiang estuary.
+
+Keywords:Heavy metal polution; Zone between ipsilateral damofLiaohe River; Cultivated soil; Geologicalaccumulation index;Potential ecological risk index
+
+坝间指大型河流内坝与外坝之间的区域，是河岸带的一部分，通常几百米宽，主要作用为二次缓冲，使河水按照原来形成的河道流行，保护周边居民与农田安全。丰水期，进入坝间的河水夹带大量的泥沙，沉积的泥沙含有丰富的养分，同时含有一定量的污染物质。重金属是流域污染物中的主要成分，流域土壤重金属元素含量的分布能够反映流域土壤环境的健康状况，对流域土壤重金属元素含量的分析研究是评价流域土壤环境质量的重要组成部分[1]。随着土壤重金属负荷的提高，土壤中交换态重金属的比例增大，残余态比例下降，有效性提高，对环境威胁增大，最终通过食物链进入人体，诱发疾病[2]。目前，河流坝间土壤中重金属污染及辽河干流坝间土质安全研究尚鲜见报道，但对辽河流域水系的研究已表明辽河干流流域污染物沉积量超过辽宁省背景值与全国土壤质量标准(Ⅱ级标准)[3-4]；辽河流域居民头发中重金属含量的调查也表明部分河段附近居民头发中重金属含量明显高于乡村居民平均水平[5]。
+
+实地调查发现，辽河干流坝间通常被居民种植农作物，而居民对河流是否受污染及污染物质是否危害人体健康等问题非常关注。日本发生的水俣事件与富山事件均由重金属污染物质通过食物链富集于人体导致疾病。所以，有必要对辽河干流坝间耕地区土壤进行调查与评估。本研究通过采集辽河干流坝间 $0 { \sim } 5 ~ \mathrm { c m }$ / $5 { \sim } 1 5 ~ \mathrm { c m }$ 、 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 深土壤,测定重金属铅、锌、铜、镉含量，评价重金属污染程度，旨在揭示辽河干流坝间土壤农业生产的安全性。
+
+# 1研究地区概况与研究方法
+
+# 1.1 采样时间与地点
+
+研究对象辽河干流流域起于东、西辽河辽宁省昌图县福德店汇合处，止于辽河入海口，长约 $5 1 6 \mathrm { k m } ^ { [ 3 ] }$ 。采样点从上游到下游分别为上游：辽河干流福德店(A)、通江口(B)、朱尔山(C)、马虎山大桥(D)、毓宝台大桥(E)；中游：达牛渡口(F)和张荒地辽河大桥(G);下游：盘锦冷东大桥(H)、曙光大桥(I)和赵圈河辽河入海口(J)。其中，福德店(A)至辽河大桥(G)地貌为未耕玉米地，冷东大桥(H)至入海口(J)地貌为未耕水稻田，各样点均用GPS进行定位。于2011年5月共采集30组土壤样品，具体采样点位置见图1。
+
+# 1.2 样品采集及预处理
+
+坝间耕地土壤样品采集采用5点混合取样法利用样品铲采集不同深度土样，将同一深度5个样品混匀后用四分法缩分至 $3 { \sim } 5 \mathrm { k g }$ 装入样品袋。在室温下干燥，研磨，过 $2 ~ \mathrm { m m }$ 尼龙筛，备测。土样重金属测定前处理采用 $\mathrm { H N O } _ { 3 } – \mathrm { H C l O } _ { 4 } – \mathrm { H F }$ 三酸消解法[]。
+
+# 1.3样品测定与数据处理
+
+利用火焰原子吸收分光光度计(北京普析通用TAS-990)测定土样中铜、镉、锌、铅的含量。以辽宁省土壤背景值[7](简称背景值)与辽河水系沉积物平均值[(简称水系沉积值)为参考，解析坝间重金属污染状况；以全国土壤环境质量标准GB15618-$1 9 9 5 ^ { [ 9 ] }$ 中的Ⅱ级土壤标准(以下简称"Ⅱ级")为参考，评价重金属含量是否超过保障农作物正常生长与维护人体健康的限制值。单样本t检验，铜、镉、锌、铅间秩相关分析采用SPSS18.0；采用Origin7.0软件作图。
+
+![](images/9edd0216e1a8cbff0c20056200accd8c6ce066f41bda734b689a40c380d72cc9.jpg)  
+图1辽河干流坝间耕地土壤采样断面示意图  
+Fig.1Distributionofsamplingsectionofcultivatedlandsoils inzonesbetweenipsilateraldams intensectionsoftheLiaoheRive
+
+# 1.4 样品评价方法
+
+本研究采用地质累积指数法(geoaccumulationindex，简称 $\mathrm { I _ { g e o } } ) ^ { [ 1 0 ] }$ 分析坝间单一重金属污染状况；采用潜在生态危害指数(potential ecologicalrisk index，简称RI)法[11分析重金属对坝间耕地土壤生态危害程度。
+
+# 2 结果与分析
+
+# 2.1辽河干流坝间重金属污染程度
+
+由表1可知，辽河坝间耕地土壤铜、铅、锌含量均值分别为 $3 2 . 4 2 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ $3 8 . 2 3 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 和 $4 7 . 3 5 \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，远低于Ⅱ级土壤标准，差异均极显著 $( P { < } 0 . 0 1 )$ ；整个流域中的变异系数分别为 $3 6 . 1 5 \% .$ 银 $3 8 . 7 9 \%$ 和 $5 1 . 0 5 \%$ ，推断单一铜、铅、锌未超出Ⅱ级土壤标准值。其中，铜的含量均值高于背景值，低于水系沉积值，但差异均不显著 $( P { > } 0 . 0 5 )$ ，变异系数仅为 $3 6 . 1 5 \%$ ，说明辽河流域铜产生轻污染，分布趋势相对稳定；铅的含量均值大于背景值 $( P { < } 0 . 0 5 )$ ，小于水系沉积值 $( P { > } 0 . 0 5 )$ ，可能是河水携带的铅污染物沉积于此；锌含量均值均小于背景值$( P { > } 0 . 0 5 )$ 与水系沉积值 $( P { < } 0 . 0 1 )$ ，变异系数为 $5 1 . 0 5 \%$ 但最高值达 $1 3 5 . 3 5 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，表明干流坝间受锌污染较小，分布不均。镉含量均值为 $1 . 6 2 5 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，分别高于背景值13倍、Ⅱ级土壤标准1.7倍、水系沉积值0.47倍，变异系数 $6 5 . 5 4 \%$ ，最大值达 $3 . 4 0 2 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，说明坝间受镉污染非常严重。
+
+表1辽河干流坝间耕地土壤重金属含量统计结果 TablelStatistical summaryofheavy metals contents incultivated land soils in zones between ipsilateral dams in ten sections ofLiaohe River   
+
+<html><body><table><tr><td colspan="2">项目</td><td>铅Pb</td><td>铜Cu</td><td>锌Zn</td><td>镉Cd</td></tr><tr><td>Item 坝间</td><td>最大值Maximum value (mg·kg-1)</td><td>74.95</td><td>84.25</td><td>135.35</td><td>3.402</td></tr><tr><td rowspan="4">Between ipsilateral dams (n=10)</td><td>最小值 Minimum value (mg·kg-1)</td><td>14.51</td><td>15.92</td><td>9.58</td><td>0.128</td></tr><tr><td>均值 Mean (mg.kg-1)</td><td>38.23</td><td>32.42</td><td>47.35</td><td>1.625</td></tr><tr><td>标准差 Standard deviation (mg·kg-1)</td><td>14.83</td><td>11.72</td><td>24.17</td><td>1.065</td></tr><tr><td>变异系数 Coefficient of variation (%)</td><td>38.79</td><td>36.15</td><td>51.05</td><td>65.54</td></tr><tr><td rowspan="3">Ⅱ级土壤环境质量标准GB15618—1995 Environmental Quality Standard for Soils GB15618-1995 Grade II (mg·kg-1) 辽宁省土壤背景值</td><td>6.5≤pH≤7.5</td><td>300</td><td>100</td><td>250</td><td>0.3</td></tr><tr><td>pH>7.5</td><td>350</td><td>100</td><td>300</td><td>0.6</td></tr><tr><td></td><td>21.40</td><td>19.80</td><td>63.50</td><td>0.11</td></tr><tr><td colspan="2">Soil background value of Liaoning Province (mg·kg-1) 辽河水系沉积物重金属平均值 Mean value of heavy metal in sediments ofLiao River (mg·kg-1)</td><td>51.00</td><td>39.00</td><td>172.00</td><td>1.10</td></tr></table></body></html>
+
+表中铅、铜、锌、镉浓度的最大值、最小值、平均值来源于不同断面、不同深度的所有检测数据。The maximum,minimum,and average valucofcontentsofPb,Cu,Zn,andCdinthe tableare fromall the test dataofdifferent sections and diferentdepths.
+
+# 2.2辽河干流坝间耕地土壤重金属纵向分布
+
+采用Spearman秩相关分析，以福德店为起始断面，对辽河干流从上游至下游坝间耕地土壤中重金属的含量进行趋势变化计算，统计结果表明：各断面铅变化趋势不明显；锌与铜 $1 1 \%$ 呈上升趋势， $89 \%$ 变化不明显；镉 $3 3 \%$ 呈上升趋势， $1 1 \%$ 呈下降趋势，变化不明显断面占 $56 \%$ (表2)。
+
+由图2可见，各断面铅、锌含量在达牛渡口(F)处达最大，分别为 $5 5 . 5 4 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 和 $8 0 . 5 1 \mathrm { m g { \cdot } k g ^ { - 1 } }$ ；铜、镉含量在通江口(B)处最大，分别为 $5 0 . 2 4 ~ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ 和$3 . 1 0 3 ~ \mathrm { { m g } \cdot \mathrm { { k g } ^ { - 1 } } }$ 。4种元素在通江口(B)至朱耳山(C)有下探趋势，其中，铅、铜、镉两断面间差异达极显著$( P { < } 0 . 0 1 )$ ，锌差异显著 $( P { < } 0 . 0 5 )$ ，此区域受重金属污染影响有所减少。铅、铜、锌从朱耳山(C)至达牛渡口(F)呈上升趋势，在达牛渡口(F)达峰点，从达牛渡口(F)至冷东大桥(H)间均呈下降趋势，且两断面间各元素差异均极显著 $( P { < } 0 . 0 1 )$ 。从冷东大桥(H)至曙光大桥(I)，铅无显著变化 $( P { > } 0 . 0 5 )$ ，铜含量微上升$( P { < } 0 . 0 5 )$ ，锌含量显著上升 $( P { < } 0 . 0 1 )$ 。而曙光大桥(I)至入海口(J)段，铅、铜、锌含量均无显著性变化。镐从朱耳山(C)至毓宝台特大桥(E)呈上升趋势$( P { < } 0 . 0 1 )$ ，从毓宝台特大桥(E)至入海口呈减少趋势（204号 $( P { < } 0 . 0 1 )$ ，浓度从 $2 . 7 7 8 \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ 降至 $0 . 1 9 5 \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ ，相差14倍之多。镉含量在下游较低，可能与土壤种植水稻和海水倒灌有一定的关系。
+
+坝间各断面铅、铜、锌含量均值均低于Ⅱ级土壤标准 $( P { < } 0 . 0 1 )$ ；镉在上游污染程度相对下游严重，坝间辽河大桥(G)以上流域镉含量均值为 $2 . 1 7 7 \ \mathrm { m g { \cdot } k g ^ { - 1 } }$ 是冷东大桥 $\mathrm { ( H ) }$ 以下流域镉含量均值 $0 . 3 3 6 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 的6.47倍，表明镉污染程度受区域限制。在通江口(B)至朱耳山(C)间、达牛渡口(F)至冷东大桥(H)有新污染源的可能性较小；在福德店(A)上游、朱耳山(C)至达牛渡口(F)间、冷东大桥(H)至曙光大桥(I)间可能有新的污染源。
+
+表2辽河干流上游至下游坝间农田土壤重金属断面序列 Spearman秩相关分析结果 Table2Spearman’sanalysisresultsofthesampling sectionseriesofheavy metalscontents incultivatedlandsoilsizonesbetween ipsilateral dams from upstream to downstream of the Liaohe River   
+
+<html><body><table><tr><td>重金属 Heavy metal</td><td>相关系数 Correlation coef-</td><td>相关性 Correlation</td><td>升降趋势 Rising or declining trend</td><td>断面数 Seotion</td><td>总计 Total</td><td>百分数 Percentage (%)</td></tr><tr><td>铅Pb</td><td>0.000~0.350</td><td>不显著Not significant</td><td>不明显 Not obvious</td><td>9</td><td>9</td><td>100</td></tr><tr><td>锌Zn</td><td>-0.583~0.617</td><td>不显著Not significant</td><td>不明显 Not obvious</td><td>8</td><td>9</td><td>89</td></tr><tr><td></td><td>0.767</td><td>显著 Significant</td><td>上升Rise</td><td>1</td><td></td><td>11</td></tr><tr><td>铜Cu</td><td>-0.433~0.617</td><td>不显著 Not significant</td><td>不明显 Not obvious</td><td>8</td><td>9</td><td>89</td></tr><tr><td></td><td>0.917</td><td>显著Significant</td><td>上升Rise</td><td>1</td><td></td><td>11</td></tr><tr><td>镉Cd</td><td>-0.233~0.517</td><td>不显著Not significant</td><td>不明显 Not obvious</td><td>5</td><td>9</td><td>56</td></tr><tr><td></td><td>0.833~0.967</td><td>显著Significant</td><td>上升Rise</td><td>3</td><td></td><td>33</td></tr><tr><td></td><td>-0.717</td><td>显著 Significant</td><td>下降Decline</td><td>1</td><td></td><td>11</td></tr></table></body></html>
+
+# 2.3 辽河干流坝间耕地土壤重金属剖面分布
+
+重金属在土壤中的沉积量记录了重金属在空间与时间上的历史记录[8]，可通过研究重金属在土壤中沉积量的垂直分布了解土壤中重金属的污染历史。辽河干流坝间耕地土壤重金属剖面分布见图3。
+
+# 2.3.1 铅剖面分布
+
+铅在各断面 $5 { \sim } 1 5 ~ \mathrm { c m }$ 深平均含量 $4 0 . 2 6 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，高于 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 深平均含量 $3 7 . 3 7 ~ \mathrm { m g \cdot k g ^ { - 1 } } ( P { < } 0 . 0 5 )$ 和$0 { \sim } 5 ~ \mathrm { c m }$ 深平均含量 $3 7 . 0 5 ~ \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 } ( P { < } 0 . 0 5 )$ ，表明辽河干流坝间历史至今铅含量总体呈先增加后减轻趋势，现较历史污染轻。
+
+铅在各断面不同深度的含量均未超过Ⅱ级标准值。铅在朱耳山(C)不同深度含量最低，均达到背景值 $2 1 . 4 0 \mathrm { \ m g cdot k g ^ { - 1 } }$ 以下；在达牛渡口 $( \mathrm { F } ) 0 { \sim } 5 ~ \ \mathrm { c m }$ 深与$1 5 { \sim } 3 0 ~ \mathrm { c m }$ 深、马虎山大桥 $( \mathrm { D } ) 5 { \sim } 1 5 ~ \mathrm { c m }$ 深为整个干流坝间不同断面相同深度的最大值，分别为59.91$\mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ 、 $7 0 . 7 1 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 、 $5 4 . 7 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，高于水系沉积值 $5 1 . 0 0 \mathrm { m g } \mathrm { \cdot k g } ^ { - 1 }$ ，差异均达极显著 $( P { < } 0 . 0 1 )$ 。铅在不同断面随着深度的增加并无一定规律，这可能与地域相差太大有关。在通江口(B)、辽河大桥(G)至入海口(J)间，各断面不同深度铅含量无显著差异$( P { > } 0 . 0 5 )$ ；而从朱耳山(C)至达牛渡口(F)间，各断面不同深度间铅含量差异均显著，表明铅在辽河干流坝间下游影响稳定，在中上游有一定的历史变化，可能是中上游为玉米地，而中下游为水稻田，地势平坦，坝间土中的铅在水的带动下均匀分布于土壤表层中所致。
+
+![](images/ab33b4710c6b4bfefc2ceb82e519985bf3d0b6d4e974bf95580554558d29527f.jpg)  
+图2辽河干流坝间耕地土壤重金属延河流不同断面的变化趋势
+
+Fig.2Techange trendsofheavymetalscontentsincultivatedlandsoilsinzonesbetweenipsilateraldamsinensectionsalong the Liaohe River A:福德店;B:通江口;C:朱尔山;D:马虎山大桥;E:毓宝台大桥;F:达牛渡口;G:张荒地辽河大桥;H:盘锦冷东大桥;I:曙光   
+大桥;J:赵圈河辽河入海口。A:Fudedian;B:Tongjiangkou; C:Zhu’ershan;D:MahushanBridge;E:Yubaotai Bridge;F:DaniuFery;G:   
+Zhanghuangdi Liaohe River Bridge; H: Panjin Lengdong Bridge;I: Shuguang Bridge; J: Zhaoquanhe EstuaryofLiaohe River.
+
+# 2.3.2 铜剖面分布
+
+铜在各断面 $0 { \sim } 5 ~ \mathrm { c m }$ 深平均含量 $3 4 . 6 3 ~ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ ，高于 $5 { \sim } 1 5 ~ \mathrm { c m }$ 深平均含量 $3 1 . 3 8 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ 和 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 深平均含量 $3 1 . 2 6 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，表明辽河干流坝间历史至今铜含量总体呈增加趋势。
+
+铜在各断面不同深度浓度主要趋于背景值与水系沉积值之间，且各断面不同深度间无规律可寻，可能与地域相差太大有关。坝间不同深度铜最大值分别出现在通江口 $( \mathrm { B } ) 0 { \sim } 5 \ \mathrm { c m }$ 深, $7 9 . 4 8 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 、达牛渡口 $| ( \mathrm { F } ) 5 { \sim } 1 5 ~ \ \mathrm { c m }$ 深， $5 0 . 2 0 ~ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ 、福德店(A)$1 5 { \sim } 3 0 ~ \mathrm { c m }$ 深, $4 0 . 5 2 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 。铜含量在马虎山大桥(D)不同深度相对于朱耳山(C)与毓宝台特大桥(E)高，除C与D间 $5 { \mathord { \sim } } 1 5 ~ { \mathrm { c m } }$ 深度差异不显著 $( P { > } 0 . 0 5 )$ 外，其他对比均达极显著差异 $( P { < } 0 . 0 1 )$ ，在达牛渡口(F)不同深度相对于毓宝台特大桥(E)与辽河大桥(G)高，且均达极显著差异 $( P { < } 0 . 0 1 )$ ，可推断朱耳山(C)至马虎山大桥(D)间与毓宝台特大桥(E)至达牛渡口(F)间可能有排放污染源。
+
+# 2.3.3 锌剖面分布
+
+锌在各断面 $0 { \sim } 5 ~ \mathrm { c m }$ 深平均含量 $4 9 . 9 7 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，高于 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 深平均含量 $4 8 . 3 8 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 和 $5 { \sim } 1 5 ~ \mathrm { c m }$ 深平均含量 $4 3 . 7 0 \ \mathrm { \ m g { \cdot k g } ^ { - 1 } }$ ，表明辽河干流坝间历史至今锌含量总体呈先减轻后增加趋势，现较历史含量重。
+
+坝间不同深度锌含量几乎都低于背景值，只有福德店(A)与达牛渡口(F) $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 深处明显高于背景值 $( P { < } 0 . 0 1 )$ ，可能是历史上受过锌污染影响。综合看来，锌在坝间几乎未产生污染影响。
+
+# 2.3.4 镉剖面分布
+
+镉在各断面 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 深平均含量 $1 . 7 1 3 \ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，高于 $0 { \sim } 5 ~ \mathrm { c m }$ 深平均含量 $1 . 5 9 6 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 和 $5 { \sim } 1 5 ~ \mathrm { c m }$ 深平均含量 $1 . 5 6 6 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，表明辽河干流坝间历史至今镐含量总体呈先减轻后增加趋势，现较历史污染轻。
+
+镉在整个坝间变化趋势较明显，除福德店(A $\mathrm { _ { 1 0 \sim 5 \ c m } }$ 、达牛渡口 $( \mathrm { F } ) 5 { \sim } 1 5 ~ \mathrm { c m }$ 深外，辽河大桥(G)以上流域各深度镉含量均高于下游 $( P { < } 0 . 0 1 )$ ，且高于Ⅱ级土壤限制值 $( P { < } 0 . 0 1 )$ 、水系沉积值 $( P { < } 0 . 0 1 )$ 和背景值 $( P { < } 0 . 0 1 )$ ；坝间不同深度镉含量均源自通江□(B)，浓度分别为 $0 { \sim } 5 ~ \mathrm { c m }$ 深 $3 . 0 0 3 ~ \mathrm { m g { \cdot } k g ^ { - 1 } } .$ 人 $5 { \sim } 1 5 \mathrm { c m }$
+
+铅浓度PD concentrauon（mg'kg） 铜浓度Cu concentrauon(mgkg）0 102030405060 70 300350 0 10 20 30 40 50.80 1001 1 1斤 T T T [HaA①1 HaA①1 1A aA②2 FaA①1HaA②2 HaA②2 1： HbB①1 HbB@B baBA①1 bB②2FbB①1 HbB③3Hcc①12 HcC①1C cC②1 HcaCA②2cC③2 HcbCB③3HdD①1 HidD①1D dabDAB②2 HdacDAC②2HdcDC③3 HdDB②12HeE①1 HeaEA①1E HebEB②2 HeEC②2！FeE③3 HecEC②2HfF①1 HifdFD①1F HfF②21 fF③3 F faFAOfF②2gbGB①1 HgGE①1G gabdeGABDE①1 geGE②2gbGB①1 gG③3HhdHD①1 HhcHC①1H hH①1 hacdHACD②2hH①1 HhbdHBD②2HiaIA①1！ iID①1一 ihIH①1 HidhIDHA②2ieIEH①1 FibdhIBDH②2wes rdres H jbhJDHI①i HjegJEG①1J jhiJHI①1 HigJG②2FjhJHEI①1 HjdJDAF③3锌浓度 Zn concentration $\left( \mathbf { m g \cdot k g } ^ { - 1 } \right)$ ） 镉浓度 Cd concentration $\left( \mathbf { m g \cdot k g } ^ { - 1 } \right)$ 0 20 4060 80100 120140 160 250 300 0 0.5 1.0 1.5 2.0 2.5 3.0T T 斤 1 1 T X T XaA①1A aA①1 HaA②2 aA①1 HaA②2FaA②2HbaBA①1 bB①1B baBA①1 ： 工FbB②2 FbBO1C cS1 cC②2: HcaCA①1 caCA①1 cC①1DE ·eEC③3 FecEC①1F fEDFO12 F22 HfeFEO1HfF③3H geGEAC①1 ： HgG①1G gG②2 HgG①1gGC③3 FgG①1hH①1 EhH①1H hH②2 hHE①1hHG①1 hgHG②2iflF①1 ： iaIA①1HiI①1 iIF①1iBD②2 ibdhIBDH②2HjfiJFI①1 EiHJH①1J jiJI①1 jfhJFH②2jJCE②2 jeJEI②2
+
+Fig.3Thechange trendsofheavymetalscontentsincultivatedlandsoils invarious depths in zones betweenipsilateraldams in different sections of theLiaohe River
+
+A：福德店;B:通江口;C:朱尔山;D:马虎山大桥;E:毓宝台大桥;F:达牛渡口;G:张荒地辽河大桥；H:盘锦冷东大桥;I:曙 光大桥;J：赵圈河辽河入海口。不同大、小写字母分别同样深度不同采样断面间差异达 $P { < } 0 . 0 1$ 和 $P { < } 0 . 0 5$ 显著水平;不同数字圈和不同 数字分别表示同一采样断面不同深度间差异 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 达显著水平。A: Fudedian; B: Tongjiangkou; C: Zhu'ershan; D: Mahushan Bridge;E:YubaotaiBridge;F:DaniuFerr;G:ZhanghuangdiLiaoheRiverBridge;H:PanjinLengdongBridge;I:ShuguangBridge;J: ZhaoquanheEstuaryofiaoheRiverDieretcapitalandlowecaseletersmeansiificantdiferencesmongdiferentsectiosatteae depth at $P < 0 . 0 1$ and $P < 0 . 0 5$ levels,respectively. Arabic numerals and arabic numerals with circles show significant differences among different soil depths for the section at $P < 0 . 0 1$ and $P < 0 . 0 5$ levels,respectively.
+
+深 $3 . 2 0 9 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ 、 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 深 $3 . 0 9 7 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ 。从通江□(B)至毓宝台特大桥(E)间，除马虎山大桥 $\mathrm { \langle D \rangle 0 { \sim } 1 5 ~ \ c m }$ 深与 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 深镉含量差异显著外 $( P { < } 0 . 0 1 )$ ，各断面不同深度镉含量无显著变化 $( P { > } 0 . 0 5 )$ 。说明辽河大桥(G)以上流域近期受镉污染影响严重，其污染程度远远高于保障农业生产与人体健康安全限制值。福德店(A)各深度至通江口(B)呈增加趋势 $( P { < } 0 . 0 1 )$ ，且福德店 $( \mathrm { A } ) 0 { \sim } 5 ~ \mathrm { c m }$ 深镉含量 $0 . 4 7 2 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ 远低于 $5 { \sim } 1 5 ~ \mathrm { c m }$ 深2.193，可推断福德店(A)至通江口(B)间可能有镉污染源，福德店(A)受镐历史污染严重。从冷东大桥(H)至入海口(J)间，各深度镉含量均显著低于水系沉积值 $( P { < } 0 . 0 1 )$ ，但均高于背景值，说明辽河大桥(G)以下干流镉污染相对于辽河大桥(G)以上干流小。
+
+# 2.4辽河干流坝间耕地土壤重金属污染评价
+
+# 2.4.1 坝间重金属污染地质累积指数评价
+
+本研究以辽宁省土壤背景值(表1)作为 $I _ { \mathrm { g e o } }$ 评价参比值。由图4可看出各采样断面镉的 $\boldsymbol { I } _ { \mathrm { g e o } }$ 均显著高于铅、铜、锌3种元素，在通江口(B)处达最高为4.23，达6级强污染至极强污染；辽河大桥(G)以上流域污染级别主要在5级以上，曙光大桥(I)达3级中度污染，冷东大桥(H)与赵圈河辽河入海口(J)为 2级无污染至中度污染；表明辽河流域坝间几乎均受镉污染，辽河大桥(G)以上干流污染程度明显高于下游。铅与铜的 $\boldsymbol { I } _ { \mathrm { g e o } }$ 均低于1，位于中度污染以下，锌的 $\boldsymbol { I _ { \mathrm { g e o } } }$ 均为负值，表明在坝间铅、铜污染不明显，锌无污染。
+
+![](images/23b5639fe88593df236bedb5d9d6c7d72cea90d3125f5cac1a8a4ddbcf721016.jpg)  
+图4辽河干流坝间不同断面耕地土壤重金属地质累积指数
+
+Fig.4Geo-accumulation indexes ofheavy metals incultivated land soils in zones between ipsilateral dams indifferent sectionsof theLiaoheRiver A:福德店;B:通江口;C:朱尔山;D:马虎山大桥;E:毓宝台大桥;F:达牛渡口;G:张荒地辽河大桥;H:盘锦冷东大桥;I:曙光 大桥;J:赵圈河辽河入海口。A:Fudedian;B:Tongjiangkou; C:Zhu’ershan;D:Mahushan Bridge;E:Yubaotai Bridge;F:DaniuFery;G: Zhanghuangdi Liaohe River Bridge; H: Panjin Lengdong Bridge;I Shuguang Bridge; J: Zhaoquanhe EstuaryofLiaohe River.
+
+# 2.4.2坝间重金属污染潜在生态危害指数评价
+
+采用辽宁省土壤背景值(表 1)作为参比值进行生态危害指标(RI)评价。评价结果(表3)表明通江口(B)至毓宝台特大桥(E)重金属潜在生态危害程度达很强；福德店(A)、达牛渡口(F)至辽河大桥(G)区域属强生态危害范围；曙光大桥(I)属中等生态危害程度；冷东大桥(H)与赵圈河辽河入海口(J)则属于轻微生态危害。辽河大桥(G)以上干流 RI高于下游干流，在通江口(B)与毓宝台特大桥(E)表现尤为突出，RI值分别为871.59、774.56。各断面RI的表现趋势与镉元素地质积累指数(图4)分布趋势一致，表明镉对RI的贡献最大，铅、铜、锌3种元素的贡献极小;单种重金属潜在生态危害系数 $E _ { r } { } ^ { i } ($ 表3)验证了这一推断，不同断面镉对RI的贡献高达 $7 8 . 7 7 \% { \sim } 9 8 . 2 3 \%$ 且RI值越大，镉贡献率越高。
+
+# 2.5 重金属来源相关性分析
+
+本研究相关性分析结果(表4)可以看出，项间耕地土壤中铅、铜与锌间含量具有极显著正相关性
+
+$( P { < } 0 . 0 1 )$ ，显著性达 $0 . 9 3 1 { \sim } 0 . 9 7 7$ ，可能有相同的污染来源；镉与铅、铜、锌间不显著，表明镉有单独的污染来源。
+
+# 3 讨论与结论
+
+调查发现，辽河干流坝间主要为耕地、树木与空阔的草地。辽河大桥以上流域坝间种植的耕地主要为玉米和水稻，因坝间土壤肥沃和丰水期时可能受到河水冲击的影响，耕地基本不施肥与喷洒农药，收获的玉米被视为绿色产品食用，忽视其安全性。本研究发现坝间耕地土壤被锌污染较小，部分河段被铜或铅轻污染，但被镉污染普遍存在，且部分河段耕地土壤中镉的含量非常严重，远远超过保障农作物正常生长与维护人体健康的限制值，已不宜种植农作物。单婷[12]对辽河口湿地重金属污染研究、邓保乐[13]对辽河流域沉积物重金属污染研究、綦巍等[14]对辽河流域土壤多自标地球化学分析结果均表明镉污染程度在所研究重金属中表现最突出，达中度至重度污染;近年统计资料[15]也表明，辽河流域工业排放重金属污染物主要以镉为主，整个流域均受镉严重污染，不宜种植农作物。全国土壤污染状况调查公报显示[16],全国土壤总超标率 $1 6 . 1 \%$ ，耕地点位超标率 $1 9 . 4 \%$ 土壤镉超标率 $7 . 0 \%$ ，镉重度污染点位比例为 $0 . 5 \text{‰}$ 可见，镉污染已成为当今安全隐患之一，辽河流域已普遍被隔污染，需及时对污染的土壤进行修复治理。
+
+表3辽河干流坝间不同断面耕地土壤重金属潜在生态危害系数与生态危害指数 Table3Potentialecologicalriskcoeficientsandriskindexesofheavymetalsincultivatedlandsoils inzonesbetweenipsilatral dams in different sections of the Liaohe River   
+
+<html><body><table><tr><td rowspan="2">采样断面 Sampling section</td><td colspan="4">潜在生态危害系数Potential ecological risk coefficient (Ei)</td><td rowspan="2">生态危害指数 Ecological risk index (RI)</td><td rowspan="2">Cd-E,'/RI (%)</td></tr><tr><td>铅Pb</td><td>铜Cu</td><td>锌Zn</td><td>镉Cd</td></tr><tr><td>A</td><td>11.50</td><td>8.70</td><td>1.04</td><td>424.43</td><td>445.67</td><td>95.23</td></tr><tr><td>B</td><td>11.82</td><td>12.69</td><td>0.80</td><td>846.28</td><td>871.59</td><td>97.10</td></tr><tr><td>C</td><td>4.15</td><td>6.02</td><td>0.52</td><td>592.48</td><td>603.17</td><td>98.23</td></tr><tr><td>D</td><td>7.69</td><td>8.58</td><td>0.81</td><td>617.77</td><td>634.85</td><td>97.31</td></tr><tr><td>E</td><td>9.58</td><td>6.79</td><td>0.60</td><td>757.59</td><td>774.56</td><td>97.81</td></tr><tr><td>F</td><td>12.98</td><td>10.68</td><td>1.27</td><td>501.69</td><td>526.62</td><td>95.27</td></tr><tr><td>G</td><td>11.99</td><td>5.60</td><td>0.44</td><td>416.08</td><td>434.11</td><td>95.85</td></tr><tr><td>H</td><td>6.06</td><td>6.77</td><td>0.19</td><td>76.22</td><td>89.24</td><td>85.41</td></tr><tr><td>I</td><td>7.12</td><td>9.03</td><td>0.96</td><td>145.99</td><td>163.1</td><td>89.51</td></tr><tr><td>J</td><td>6.43</td><td>7.02</td><td>0.85</td><td>53.06</td><td>67.36</td><td>78.77</td></tr></table></body></html>
+
+A:福德店;B:通江口;C:朱尔山;D:马虎山大桥;E:毓宝台大桥;F:达牛渡口;G:张荒地辽河大桥;H:盘锦冷东大桥;I:曙光大桥；;J: 赵圈河辽河入海口。A:Fudedian;B:Tongjiangkou;C:Zhuershan;D:MahushanBridge;E:YubaotaiBridge;F:DaniuFerry;G:Zhanghuangdi Liaohe River Bridge; H: Panjin Lengdong Bridge; I: Shuguang Bridge; J: Zhaoquanhe Estuary of Liaohe River.
+
+表4辽河干流坝间耕地土壤重金属间相关系数 Table 4Pearson correlation coefficients of heavy metals contents in cultivated land soils in zones between ipsilateral dams of theLiaohe River   
+
+<html><body><table><tr><td></td><td>铅Pb</td><td>铜Cu</td><td>锌Zn</td><td>镉Cd</td></tr><tr><td>铅Pb</td><td>1.000</td><td>0.977**</td><td>0.940**</td><td>-0.005</td></tr><tr><td>铜Cu</td><td></td><td>1.000</td><td>0.931**</td><td>-0.053</td></tr><tr><td>锌Zn</td><td></td><td></td><td>1.000</td><td>-0.060</td></tr><tr><td>镉Cd</td><td></td><td></td><td></td><td>1.000</td></tr></table></body></html>
+
+$\ast \ast P < 0 . 0 1$ ， $^ { * } P < 0 . 0 5$ ：
+
+辽河坝间耕地土壤铜、铅、锌含量均值，及各断面铅、铜、锌含量均值均低于Ⅱ级，而几乎所有采样点镉的含量均高于Ⅱ级，这可能与镉被广泛用于工业生产密切相关。镐在中上游污染程度相对中下游更严重，其污染变化趋势与辽河干流同断面消落区和淹水区沉积物中镉污染变化趋势非常相似[3,8]。其中，辽河大桥以上流域镉的 $I _ { \mathrm { g e o } }$ 值显5级强污染以上级别，通江口至毓宝台特大桥重金属RI值达很强而对应断面消落区和淹水区均达4级中度污染至高度污染，中上游受潜在危害威胁程度相对于中下游更高，说明辽河河岸带同断面不同区域镉污染来源相同。
+
+本研究表明铅、铜与锌可能有相同的污染源，镉有单独的污染源。自前，关于沉积物中重金属污染来源的文章较多，根据来源不同可总结为采矿与矿物加工、工业、污水处理厂、市区、侵蚀、地下水、大气沉降、渠灌、径流等。辽河干流自北向南缓倾，地势较平坦，主要为防护林与耕地。本研究通过实地考察总结坝间重金属可能主要来源以下几方面： $\textcircled{1}$ 受重金属污染的辽河河水侵蚀[4，洪水期间，进入坝间的河水冲击力非常大，会带来大量的底泥;河流入海口附近重金属的含量和分布主要受径流量、潮汐作用以及风浪扰动的影响[17]。 $\textcircled{2}$ 耕地施肥,其中镉和锌主要来源于耕地中的磷肥，铅来源于刹虫剂与化肥[18]；因坝间土质肥沃，通常种植后不施肥，但不排除个别村民盲目追肥。 $\textcircled{3}$ 交通，河坝既可以防水，也可能行驶汽车，而汽车尾气与轮胎可排放包括铅、锌、铜、镉等重金属元素[19]。 $\textcircled{4}$ 工业生产，许多工业生产广依靠辽河生存，而冶炼和化工生产等工业生产极大影响流域内重金属的分布。 $\textcircled{5}$ 沉降[20]，辽河流域春秋季节风大，附近农田沙土在被风带至坝间，另外大气中漂浮的重金属随雨、雪、雾或自降至坝间。 $\textcircled{6}$ 生活废物排放[21]，辽河两岸坐落着许多的村庄，电器等生活垃圾中可能含有大量的重金属，如废旧电池。 $\textcircled{7}$ 污水灌溉[22]等。
+
+# 参考文献References
+
+[1]程辉，吴胜军，王小晓，等．三峡库区生态环境效应研究进展[J]．中国生态农业学报,2015,23(2):127-140
+
+Cheng H,Wu SJ,Wang X X,et al.Research progress on the effects of the Three Gorges Reservoir on the ecological envi
+
+ronment[J]. Chinese Journal of Eco-Agriculture,2015,23(2): 127-140   
+[2] 方利平，章明奎，陈美娜，等．长三角和珠三角农业土壤 中铅、铜、镉的化学形态与转化[J].中国生态农业学报, 2007,15(4): 39-41 Fang L P, Zhang MK,Chen MN,et al. Chemical forms and transformations of Pb,Cu and Cd in agricultural soils of Changjiang and Zhujiang deltas[J]. Chinese Journal of Eco-Agriculture,2007,15(4): 39-41   
+[3] 刘强，梁雷，王峰源，等．辽河干流河岸带沉积物重金属 污染评价[J].辽宁农业科学,2013,(4):1-6 Liu Q,Liang L,Wang F Y,et al. Assessment of heavy metals polltion in sediments of riparian along the Liao River[J]. Liaoning Agricultural Sciences,2013,(4): 1-6   
+[4]张婧，王淑秋，谢琰，等．辽河水系表层沉积物中重金属 分布及污染特征研究[J]．环境科学，2008，29(9): 2413-2418 Zhang J,Wang S Q, Xie Y,et al. Distribution and pollution character of heavy metals in the surface sediments of Liao River[J]. Environmental Science,2008,29(9): 2413-2418   
+[5]乌爱军，杨晓波，马力，等．辽河流域人发中重金属元素 分布特征[J].岩矿测试,2007,26(4):305-308 Wu A J,Yang XB,Ma L,et al.Distribution characteristics of heavy metal elements in human hair from Liaohe Drainage Area[J]. Rock and Mineral Analysis,2007,26(4): 305-308   
+[6] Li R Z,Shu K,Luo Y Y,et al. Assessment of heavy metal pollution in estuarine surface sediments of Tangxi River in Chaohu Lake Basin[J]. Chinese Geographical Science,2010, 20(1): 9-17   
+[7]中国环境监测总站．中国土壤元素背景值[M]．北京：中国 环境科学出版社,1990:329-380 China Environmental Monitoring Central Station. China's Soil Element Background Values[M]. Beijing: China Environmental Science Press,1990:329-380   
+[8]刘强，梁雷 王峰源，等．辽河干流消落区沉积物重金属污 染特征研究[J]．中国环境科学,2013,33(12):2220-2227 Liu Q,Liang L,Wang F Y,et al.Characteristics of heavy metals pollution in sediments of the hydro-fluctuation belt in the Liao River of Liaoning Province,Northeast China[J]. China Environmental Science,2013,33(12): 2220-2227   
+[9]国家环境保护总局.GB 15618—1995 土壤环境质量标准[S]. 北京：中国标准出版社,2006 National Environmental Protection Agency. GB 15618—1995 Environmental Quality Standardfor Soils[S].Beijing: China Standard Publishing House, 2006   
+10] Muller G. Index of geoaccumulation in sediments of the Rhine River[J]. GeoJournal,1969,2(3):108-118   
+11] Hakanson L.An ecological risk index for aquatic pollution control.A sedimentological approach[J]. Water Research, 1980,14(8): 975-1001   
+[12]单婷．辽河口湿地及荣成湾环境中重金属赋存研究[D].青 岛：中国海洋大学,2010:56 Shan T.A study on the occurrence of heavy metals in Liaohe Estuary wetland and Rongcheng Bay[D].Qingdao: Ocean Universitv of China.2010:56
+
+[13]邓保乐．太湖及辽河流域沉积物重金属质量基准的研究[D].
+
+天津：南开大学,2010:59 Deng B L. Sediment quality criteria study for heavy metals in Tai Lake and Liao River[D]. Tianjin: Nankai University,2010: 59   
+[14]綦巍，王恩德．辽河流域土壤的多目标地球化学分区研究[J]. 辽宁工程技术大学学报:自然科学版,2012,31(2):222-226 QiW,Wang E D.Study of soil geochemical partition based on multi-purpose geochemical data in Liaohe watershed[J]. Journal of Liaoning Technical University: Natural Science, 2012, 31(2): 222–226   
+[15] 苏丹，王彤，刘兰岚，等．辽河流域工业废水污染物排放 的时空变化规律研究[J]．生态环境学报，2010，19(12): 2953-2959 Su D,Wang T, Liu L L,et al. Research on the spatio-temporal variation of pollutant discharged from industrial wastewater in the Liaohe River Basin[J]. Ecology and Environmental Sciences,2010,19(12): 2953-2959   
+[16]环境保护部，国土资源部．全国土壤污染状况调查公报[R]. 北京,2014 Ministry of Environmental Protection of the People's Republic of China,Ministry of Land and Resources of the People's Republic of China.National Bulletin on Soil Pollution Status[R]. Beijing, 2014   
+[17]王小静，张帅，简慧敏，等．大辽河口溶解态重金属的变 化特征及影响因素研究[J]．中国海洋大学学报，2011, 41(10): 79-86 Wang XJ, Zhang S,Jian H M, et al.Variation characteristics of dissolved heavy metals in the Daliaohe Estuary[J].Periodical of Ocean University of China,2011,41(10): 79-86   
+[18] Luo W,Lu Y L, Giesy JP,et al. Effects of land use on concentrations of metals in surface soils and ecological risk around Guanting Reservoir, China[J].Environmental Geochemistry and Health,2007,29(6): 459-471   
+[19]蒋磊，张菊，罗庆芳，等．徒骇河聊城城区段河岸带土壤 重金属含量及污染评价[J]．湖北农业科学，2017，56(3): 441-445 Jiang L, Zhang J,Luo Q F,et al. Heavy metal content and pollution assessment of riparian soils in Liaocheng urban section of Tuhai River[J]. Hubei Agricultural Sciences, 2017, 56(3): 441-445   
+[20] 张乃明．大气沉降对土壤重金属累积的影响[J].土壤与环 境,2001,10(2): 91-93 Zhang N M. Effects of air settlement on heavy metal accumulation in soil[J]. Soil and Environmental Sciences,2001, 10(2): 91-93   
+[21] 王鑫，孙丽娜，孙铁珩，等．细河流域土壤中 Hg、Cd、Pb 和 Zn含量的空间分布特征[J]．辽宁工程技术大学学报：自 然科学版,2009,28(4):633-636 Wang X, Sun L N, Sun T H,et al. Spatial distribution of Hg, Cd,Pb and Zn contents in the soil of Xihe watershed[J]. Journal of Liaoning Technical University: Natural Science, 2009,28(4): 633-636   
+[22]姜勇，梁文举，张玉革，等．污灌对土壤重金属环境容量 及水稻生长的影响研究[J]．中国生态农业学报,2004,12(3): 124-127 Jiang Y,Liang W J, Zhang Y G,et al. Influence of wastewater irrigation on environmental capacity of soil heavy metals and rice growth[J]. Chinese Journal of Eco-Agriculture, 2004, 12(3): 124-127

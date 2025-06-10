@@ -1,0 +1,715 @@
+[
+    {
+        "type": "text",
+        "text": "民间信仰载体的地域格局及其影响因素一以兰州市榆中县祠庙文化为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋周莺²，虞洋1²，梁龙武}²，马振邦",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院地理科学与资源研究所 中国科学院区域可持续发展分析与模拟重点实验室,北京100101;2中国科学院大学,北京100049；3兰州大学资源环境学院，兰州730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以祠庙祭祀为主体且祠庙保存良好的民间信仰是甘肃陇中地区民间文化的重要组成。甘肃陇中地区的民间信仰具有很强的趋同性。以陇中地区的榆中县为例,以各村的祠庙为民间文化载体,通过核密度分析、Logistic回归等方法探讨榆中县民间文化载体的空间分布及其影响因素对于探讨陇中地区人地关系，保护和弘扬民俗文化有着重要意义。研究结果表明：(1)根据已有研究将榆中县民间信仰归纳为山神信仰、水神信仰、天地信仰、女性信仰、英雄崇拜和祖先崇拜,祖先崇拜的祠庙数量占有重要地位。(2)榆中县祠庙主要分布在西北黄河南岸、中部陇海铁路沿线及南部风景名胜集聚区，村级层面空间差异不显著、乡镇空间差异相对较大。通过核密度分析,不同类别民间信仰空间分布热点各有不同。（3)榆中县民间信仰空间分布受到区位条件限制，民间信仰的祠庙多位于海拔高度较低、人口密度较大、交通可达性较好的地区,坡度和到水源的距离成为山神信仰和水神信仰祠庙空间分布显著的影响因子，榆中县祠庙呈现出山神信仰类祠庙“依山”，水神信仰类祠庙“傍水”的空间特点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：榆中县；祠庙；民间信仰；空间分布；影响因素；核密度分析；Logisitc 回归文章编号： 1000 -6060(2019)02-0363-13(0363\\~0375)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地理环境是孕育地区文化的基础[1],而民间信仰则是中国传统历史文化体系的重要组成部分，也是文化地理学的重要研究内容之一[2]。民间信仰指民众自发地对具有超自然力量的信奉与敬仰，是一种独特的民间文化现象[3],相比于制度化宗教,民间信仰主要指民间普遍的俗信与一般的迷信，思想观念较为松散，信奉对象较为庞杂且具有任意性；同时，民间信仰与人们生活密切相关，一般以村落或家族为单位，通过庙宇、祠堂等场所进行祭祀、庆典等活动，易受地区自然环境、社会文化的影响，具有很强的地域性[2]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内早期以民间信仰进行的地理学研究主要有以下两个角度：一是从文化生态的角度，通过民间文化与地理环境之间的关系进行分析，强调地理环境对于地区内部民间信仰的塑造[4]；二是从文化区的角度入手，强调民间信仰的空间分布和空间差异[5-6]。随着时间的发展,民间信仰的研究由定性走向定量，由宏观走向微观。一方面，研究区域由跨方言、大尺度的区域转向无方言差异的小尺度区域[];另一方面,随着计算机技术的普及,以GIS 为代表的新技术被开始应用于文化地理[8-1]的分析过程，核密度分析、最邻近点指数、生态位分析等量化分析的方式也开始被应用于衡量民间信仰的空间分布。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着新文化地理学的转向，以文化景观为代表的文化物质形态表征得到了地理学者的重视[12 -16] O现阶段关于文化景观的研究已经较为完备[16],但关于民间文化载体特别是民间信仰的载体的研究相对较少。考虑到民间信仰大多需围绕固定场所及其组成的各种仪式活动，周尚意等1990年最早认为可以从祠庙入手，研究民间信仰或崇拜的分布、沿革以及所反映的人地关系[17]。已有研究大多通过祠庙作为民间文化和民间信仰的载体探讨其地域分异[18-20]、时空演变及对社会文化空间的整合[1]以及民间信仰的地方认同形成和结构[21];或进一步明确民间信仰对地理环境的依赖[18,22-24] 0",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总体而言，国内关于民间文化载体和民间信仰的地理学研究主要集中于21世纪之后，且研究相对较少；研究内容趋于探讨民间信仰的地域格局，研究手段趋于定性，研究对象以沿海、沿江地区居多，对于内地干旱区的研究还比较鲜见。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "陇中地区位于甘肃中部、黄土高原北部，自然地理环境相近，生产方式相对类似，文化变迁速度相对较慢，是西北地区汉族灿烂的民间文化的缩影，充分体现了我国传统农耕文化的特点，具有很强的趋同性,属于一个独立的文化板块[25],也是秦陇文化的重要组成部分。重要的是，祠堂与寺庙在甘肃陇中地区是村落生活的代码，在民间文化中占有重要地位[26],地域祠庙覆盖面积大、种类多,具有很好的研究价值。榆中县位于陇中地区西北部，当地祠堂、庙宇保留得比较完整，以兴隆山道教文化、青城黄河民间文化和苑川丝路古道文化为主体，榆中县灿烂的民间文化是陇中地区文化的宝贵缩影。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在此背景下，本文以甘肃省榆中县为例，以研究区内不同种类的祠庙个数作为村落民间信仰的载体，分析不同类别民间信仰的空间分布特征和集聚水平，并运用Logistic回归方法探析陇中地区不同民间信仰地域格局形成的机制，并对不同类别的民间信仰的保护提供建议，以期丰富文化地理相关研究，为乡村振兴中传统文化的保护提供借鉴",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究方法与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "榆中县位于甘肃中部、黄土高原北部，陇中地区西北部，为兰州市下辖县，下辖8个镇、15个乡，267个行政村;全县总面积 $3 \\ 3 0 1 \\ \\mathrm { k m } ^ { 2 }$ ,整体呈现南高北低的地势，中部凹，呈马鞍形;南部为石质高寒山区，北部为黄土丘陵区，南北两山之间是川塬丘陵沟壑区，海拔 $1 ~ 5 0 0 \\sim 2 ~ 0 0 0 ~ \\mathrm { m }$ ,地形由西南、东南和东北三面向西北倾斜。榆中县海拔范围为 $1 \\ 3 5 8 \\sim 3 \\ 6 7 0$ $\\mathrm { ~ m ~ }$ ,境内有兴隆山、青城古镇等旅游风景名胜区，祠庙种类众多且保存良好（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "陇中地区民间信仰种类繁多且十分复杂，且不同的分类方式会得到不同的分类结果。通过已有文献[26-28]及实地调查数据并尽可能避免分类对象的交叉，本文按照民间信仰的信奉对象和来源将当地民间信仰归纳为自然神信仰、仙灵信仰和人格神信仰三大类6个亚类。归纳各类信仰的特征及与地区的文化联系，并对该类信仰所属的祠庙进行归类，如表1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/50ee5b68c4a8250b71a99ec788aa43496750a624093eb89e65f82418213d90ad.jpg",
+        "img_caption": [
+            "图1研究区概况",
+            "Fig.1Location of study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区各类祠庙的数据来自于《2013年榆中县乡镇村概览》，并通过作者在2016年对榆中县长时间的实地考察加以修正;行政村人口数、性别比例（男性人口比重）老年人口比重、贫困人口百分比、农民平均纯收入等来自《2013年榆中县乡镇村概览》等相关年鉴。村平均坡度、高程等数据通过数字高程DEM进行提取；空间距离因子通过将榆中县村界图、榆中县行政区划图栅格数据在ArcGIS中矢量化后，运用软件的空间分析（SpatialAnalyst）模块下计算得到。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1核密度估计法核密度估计法（KernelDensityEstimation，KDE)是衡量地区某要素空间格局及其集聚—扩散态势的研究模型[29]。通过行政村的点数据以及各村所含各类信仰祠庙个数可以通过核密度估计法探究其集聚态势以及集聚位置。具体公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( x ) = \\frac { 1 } { n h ^ { d } } \\sum _ { i = 1 } ^ { n } K ( \\frac { x - x _ { i } } { h } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $F ( x )$ 是为核密度方程； $h$ 是带宽，通常不同地域最佳带宽不同，带宽的数值由低到高在图中反映为点密度变化的由突兀不平到光滑，具体的实践中 $h$ 的最佳取值需测试。运用ArcGIS软件中空间分析模块中的核密度分析（KernelDensity）功能，得到不同信仰类型的空间分布密度图和空间集聚热点。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6697d9fea653379aa122f2ac04bf16a616cd8dc656bdcfa90dca357566e2d259.jpg",
+        "table_caption": [
+            "表1榆中县民间信仰与祠庙分类与归纳",
+            "Tab.1Summary of the folk & its temples in Yuzhong County "
+        ],
+        "table_footnote": [
+            "注： $*$ 部分祠庙通过实地考察及相关文献[27]进行分类"
+        ],
+        "table_body": "<html><body><table><tr><td>大类</td><td>信仰亚类</td><td>信仰对象特征</td><td>与当地文化的联系</td><td>祠庙</td></tr><tr><td rowspan=\"2\">A 自然神信仰</td><td>AA山神信仰</td><td>山岳崇拜，以山岳镇守平安的神祇区，农耕文化使得各个村寨通 为主，主要是各山山神[27」。</td><td>陇中地区以及榆中县地处山 过\"闸山”仪式，达到禳解雹 灾和驱除虫害的愿望[26,28]。</td><td>山神庙、泰山庙、白花山庙宇、雁子 山庙宇、向宝山庙、峦山庙、舜禹宝 山庙、回龙山庙 等</td></tr><tr><td></td><td>对水的敬仰与崇拜。包括龙王、雷 AB水神信仰祖,和一些具有降水功能的神 祇[27]。</td><td>榆中县干旱少雨的气候条件 和农耕文化。“龙王求雨”成 为陇中地区的重要习 俗[26,28]。</td><td>金龙庙、雷祖庙、龙王庙、四龙庙、 九龙庙、九龙殿、妈祖庙*、金花娘 娘庙*、平西龙王庙 等</td></tr><tr><td rowspan=\"2\">B仙灵信仰</td><td></td><td>信仰对象以所祀神灵虽被纳入道 教神仙体系的神仙为主，但其在民 间信仰程度很高，其庙宇在民间村 BA 天地信仰落长期存在。同时其来源大多为 神话传说，不是历史上真实存在。 人们信仰目的以日常生活、农业生 产为主[27]。</td><td>兴隆山道教最早在东汉时期 传入，构成了榆中县浓厚道教 文化的重要历史背景，同陇中 影响着当地人们的民俗和生 活[27]。 地区的农业生产相结合[26]</td><td>杨二郎塔、观音庙、药王庙、文昌宫 （殿、祠、楼）祖师庙、白衣菩萨庙、 二郎庙、玉皇庙、牛王殿、盘古庙、 真武宫、菩萨殿、魁星阁、玉皇阁、 阎王殿、三清殿、宗神殿、大圣庙、 火神庙、三圣庙、城隍庙、八腊</td></tr><tr><td>BB 女性信仰</td><td>信仰对象的共同特征为信仰为女 性。既包括全国普遍祭祀的菩萨， 也包括陇中地区特有的金花娘娘 和圣母，诉求以祈福求子、保平安 为主[26]。</td><td>尽管女性在古时村寨生活中 地位相对低下，可是人类的繁 衍和种族的延续离不开女性， 这种观念是秦陇文化和儒家母殿、百子宫 等 文化的的缩影[26」。</td><td>庙*、白马庙*等 金花娘娘庙*、九天圣母庙、九天 圣母殿、娘娘庙、祖圣母殿、三霄圣</td></tr><tr><td rowspan=\"2\">C人格神信仰</td><td>CA英雄崇拜</td><td>对具有卓越的历史地位、功绩或品 德先祖的崇敬，如大禹、关公、诸葛 亮等人，以及为地区发展做出最重</td><td>中国传统祭祀的重要内容，是 中国古代传统文化的组成部 分[28]。</td><td>关帝庙、将军庙、禹王庙、武侯殿、 显圣庙 等</td></tr><tr><td>CB祖先崇拜</td><td>信仰对象为本族先祖。对先人的属于中华传统文化与儒家文 缅怀与祭奠,属于俗信[27]。</td><td>化的组成部分[28]。</td><td>方神庙*、景家庄庙宇、克涝庙、堡 子台、白家庙、郭家寺及及各宗族 牌坊,祠堂</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 Logistic 回归模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）民间信仰载体空间分布影响因子指标体系的构建",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "民间信仰以对自然环境的敬畏和崇拜以及带有功利色彩的对个人利益的诉求为主，是对地区社会文化习俗的传承，对于地区的自然环境和社会综合发展具有较强的根植性和依附性，因此区域内部的区位因子对于民间信仰的空间分布亦有所响应。通过构建民间信仰载体空间分布的影响因子指标体系，分析区位因子对于民间信仰的影响因子的数据表征可以更好地挖掘二者之间的关系。目前，国内对于民间信仰载体的影响因素多是以定性分析为主，而通过模型定量探讨民间信仰对于其区域内各条件响应的研究还比较鲜见。祠庙本身作为一种文化景观，是民间信仰的物质文化载体，因此，本研究考虑民间信仰的历史性、鲜活性，以及所选指标在一定时间尺度上的代表性，主要借鉴国内已有对民间信仰[17-18,20,24,.3]以及文化景观[10,23,3-35]影响因素的研究，初步构建影响因素评价指标体系。分别从自然环境、人口发展、经济水平、交通条件等方面选取坡度、海拔高度、人口密度、性别比例、农民人均收入、贫困人口比例、可达性和相对水源的距离等8个影响指标，分析其对榆中县267个行政村中民间信仰载体的空间分布的响应（图2）。其中，性别比例为男性人口数同女性人口数的比例；可达性分析参考文献[10]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）回归模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于榆中县大部分行政村祠庙数量偏少的现状,将此变量设置为二值变量。即若某村含有某类信仰的祠庙，则赋值为1，反之则为0。通过因变量为二分类变量的多元logistic回归进行分析。模型主要是通过建立各自变量的回归系数，来确定模型中因变量与自变量的关系。设 $p$ 为事件发生概率，取值范围为0-1，则 $1 - p$ 为该事件不发生的概率，这种概率可以用logistic函数计算，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np = { \\frac { \\exp \\left( { \\boldsymbol { \\beta } } _ { 0 } + { \\boldsymbol { \\beta } } _ { 1 } { \\boldsymbol { x } } _ { 1 } + { \\boldsymbol { \\beta } } _ { 2 } { \\boldsymbol { x } } _ { 2 } + \\cdots + { \\boldsymbol { \\beta } } _ { k } { \\boldsymbol { x } } _ { k } \\right) } { 1 + \\exp \\left( { \\boldsymbol { \\beta } } _ { 0 } + { \\boldsymbol { \\beta } } _ { 1 } { \\boldsymbol { x } } _ { 1 } + { \\boldsymbol { \\beta } } _ { 2 } { \\boldsymbol { x } } _ { 2 } + \\cdots + { \\boldsymbol { \\beta } } _ { k } { \\boldsymbol { x } } _ { k } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该方程可进一步转化为线性函数的回归形式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log ( { \\frac { p } { 1 - p } } ) = { \\big ( } \\beta _ { 0 } + \\beta _ { 1 } x _ { 1 } + \\beta _ { 2 } x _ { 2 } + \\dots + \\beta _ { k } x _ { k } { \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： ${ } _ { ; x _ { 1 } , x _ { 2 } , \\cdots \\ , x _ { k } }$ 为上述8个影响因子,通过祠庙建筑的有无来反映村域内是否有这种信仰。 $p$ 为行政村含有某类信仰的概率,参数 $\\beta _ { 0 } , \\beta _ { 1 } , \\cdots , \\beta _ { k }$ 为回归系数，反应当所选取的自变量变化一个单位时，因变量即信仰的变化。在学术研究中一般也通过发生比率OR（ $\\exp ( \\beta )$ 更清晰的反应自变量与因变量之间的关系。当统计显著时，OR的正值（负值）分别表示自变量与因变量呈正（负)相关。 $W a l d x ^ { 2 }$ 是回归系数的显著性检验统计量，反映自变量对因变量的解释程度，即自变量导致因变量的发生与否的关联程度大小[36]",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f45eab6abdccd4301faab9430878b1b7f4253577d98f703533af17c0b7a42eee.jpg",
+        "img_caption": [
+            "图2民间信仰空间分布的影响因子指标体系构建",
+            "Fig.2Impact factors variables of folk belief spatial distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）回归模型的检验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Logistic回归模型的检验需要检验其拟合优度，即检验回归预测与实际观测一致程度的大小。考虑到选取的自变量多为连续性且数量偏多，采用Homsmer-Lemeshow检验其拟合优度。其计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH L = \\sum _ { g = 1 } ^ { G } \\frac { \\big ( y _ { g } - n _ { g } p _ { g } \\big ) } { n _ { g } p _ { g } \\big ( 1 - p _ { g } \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $G$ 为分组数,在H-L 检验中,通常 $G \\leqslant 1 0 \\ : { \\mathfrak { n } } _ { g }$ 为 第 $\\boldsymbol { g }$ 组中的案例数， $\\boldsymbol { y } _ { g }$ 为第 $g$ 组事件的观测数量; $p _ { g }$ 为第 $g$ 组预测事件概率； $n _ { g } p _ { g }$ 为事件的预测数。H-L 检验的数值如果不显著则反映模型的拟合优度较 好,反之,模型的拟合优度不好[37] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2榆中县祠庙的空间格局分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1祠庙类型以水神信仰和祖先崇拜为主，祠庙 乡镇层面空间差异较大 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2013年榆中县民间信仰的祠庙共有203座，其中，祖先崇拜类祠庙68座，数量最多;天地信仰、水神信仰祠庙分别为52座、41座;女性信仰、山神信仰祠庙、英雄崇拜类祠庙25座、16座和13座。如图3所示，在榆中县23个乡镇中，9个乡镇以祖先类信仰祠庙数量最多或并列为最多；6个乡镇以水神信仰为主，7个乡镇以天地类信仰为主;山神类信仰祠庙最多的乡镇有3个，女性信仰祠庙数量最多的乡镇有2个。可见，榆中县域的祠庙仍以祖先崇拜为主，以兴隆山道教文化、陇中地区特有的气候条件以及农耕文化对整个地区的文化信仰和文化载体的分布有强烈影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在行政村层面，以祠庙作为载体，榆中县各村之间民间信仰差异相对不明显。榆中县267个行政村中，大部分行政村没有或只有1个祠庙分布，村内祠庙个数大于3个的行政村非常少。具体表现为156个行政村没有祠庙，57个行政村的祠庙数量为1个，32个行政村的祠庙为2个，22个行政村的祠庙数量达到3个及以上。在乡镇层面，榆中县祠庙等民间信仰建筑集中分布在青城镇、马坡乡、新营镇、城关镇、和平镇、夏官营镇等地，而三角城、上花岔、园子岔、韦营乡、贡井乡等乡镇没有或几乎没有祠庙分布。可见，祠庙数量较多的行政村主要集中在西北、东南乡镇，乡镇之间信仰差异较明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同类型祠庙的空间集聚态势存在差异",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过核密度分析以及最邻近分析进一步分析榆中县民间信仰的集聚态势。利用核密度分析法，选择带宽 $5 0 \\mathrm { ~ m ~ }$ 为半径进行搜索。具体而言：(1)山神信仰高密度集聚区分布地形多为山地，包括榆中县北部哈岘乡的柳树村、中连川乡的高家渠，及南部城关镇、马坡乡。(2)水神信仰祠庙的空间集聚基本位于榆中县南侧，而榆中县北部几乎没有水神信仰，祠庙的主要集聚位置位于马坡乡和榆中县西侧来紫堡乡、和平镇的西坪村；即县南侧的银山乡、马坡乡、",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "□山神信仰 水神信仰 天地信仰45 ■女性信仰 英雄崇拜 祖先崇拜4035 YYYYYYYYY/ 20 30251510 R50 日 □ 国 图 网 E □ 图 □ 图 5 湖 喜 四 国 四 国 日三中 幂乐 异 异道 异牛 三 县 新 有有 米 王 本 会 # 具 限限",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "104°0'E 104°20'E 104°0'E 104°20'E 104°0'E 104°20'E(a)山神信仰 (b)水神信仰 (c)天地信仰  \n30090 N 青城镇 园子岔 300.7N N 青城镇 园子岔 300.90 N 城镇 园子岔 30090花岔 花盆岚 上花盆冷哈岘 哈岘乡 哈岘乡  \n2090 紫堡乡金崖镇 贡井乡中连川 1.0.99 特 金崖镇贡井乡中连川 20.98 紫 金崖镇贡井乡中连川 N.0.99夏官营镇 官营镇 夏官营镇和平镇 比 和平镇 2r 和平镇角城 2 韦营乡 韦营乡 伟营乡银山乡 清水驿戌 根山乡马坡 关镇 康营 清水驿成 银山乡 # 水驿  \n3050 20520 33520 马坡乡 3.0500 15 30 高：1132 0 15 30 高：1581 0 15 30 高：2239日 km 低：0 ！ km 二 低：0 ！ km 低：0104°0'E 104°20'E 104°0'E 104°20'E 104°0'E 104°20'E(d)女性信仰 (e)英雄崇拜 (f)祖先崇拜  \n307.90 N 2.O N 30090 N 5 30090行城 子岔 58 成镇 子岔 青城镇 子岔上花岔岸 花岔 上花岔岸哈岘乡 哈岘乡 哈岘乡  \n2.0.90 紫堡乡金崖镇广贡井乡中连川 3.099 紫堡乡金崖镇 贡井乡 虫连川 1.0.90 紫堡 金崖镇贡井乡中连川 10.90M S夏官营镇 复官营镇 夏官营镇2 和平镇定选 和平镇韦营乡 伟营乡 营背水驿戌 水驿银山乡 银山乡 草店 银山乡 草店镇康营 L  \n30520 新营镇 高崖 20420 新营镇 高崖镇 3050 坡 新营镇高崖镇 □ 305560龙泉镇 □村界 龙泉镇 村界 龙泉镇 村界0 15 30 高：1199 0 15 30 高：860 0 15 30 高：4470日 km 低：0 中 km 低：0 日 km 低：0104°0'E 104°20'E 104°0'E 104°20'E 104°0'E 104°20'E",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "新营镇以及龙泉镇呈现出一条比较清晰的聚集带(3)天地信仰祠庙高密度集聚区主要位于青城镇及城关镇的东湾村；中密度区主要分布在榆中县南部的马寒山，并在中部呈带状分布在来紫堡乡、马坡乡，夏官营镇等地。(4)女性信仰祠庙的几个显著的空间集聚区分别位于夏官营镇、青城镇及甘草店镇。(5)英雄信仰空间分布集中在青城镇和马坡乡。 (6)祖先信仰空间分布显著集中在青城镇，和县中部的金崖镇，远离县区中心干道。可见，不同类型民间信仰的集聚位置虽有差异，但整体趋向于集聚，集聚区主要位于西北黄河南岸、中南部陇海铁路、国道和风景名胜集聚区（图4）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3榆中县祠庙空间格局的影响因素分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文先排除自变量之间的共线性，其中，自变量的方差膨胀因子（VIF)小于2.518，容差(tolerance）的范围为 $0 . 3 8 7 \\sim 0 . 9 4 4$ ,这说明自变量之间的相关性非常弱，几乎不存在共线性，选取的指标适合该模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Logistic模型回归结果显示，除女性信仰祠庙回归模型中，各自变量的显著性水平均大于0.05，模型未能建立外，其他各类信仰祠庙的模型HL值为$4 . 5 8 5 \\sim 1 2 . 1 0 2$ ,即各模型的拟合优度较好，模型能",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "建立。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如表2所示，以祠庙作为民间信仰的空间载体，对榆中县祠庙空间分布表征为显著的各类影响因子中，人口密度和交通可达性是最为重要的，且出现的频率最为频繁，而性别比例和经济发展等3个因素对于信仰的空间分布影响不显著。对祠庙总体进行分析，影响因子表征为显著的分别为高程、人口密度和可达性，祠庙分布与村人口密度呈正相关，与可达性、高程呈负相关，当村内人口密度越高、村平均高程越低、村可达性越好时，村内含有祠庙的概率越高；山神信仰祠庙分布与村平均坡度和人口密度呈显著正相关;水神信仰祠庙分布与人口密度呈正相关，与据河流的距离呈负相关;天地信仰祠庙与村平均坡度呈负相关，与河流的最近距离呈负相关；英雄崇拜类祠庙分布与据河流的最近距离呈负相关；祖先崇拜类祠庙分布与人口密度呈正相关，与高程、可达性呈负相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1高程",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过 $3 0 ~ \\mathrm { m } \\times 3 0 ~ \\mathrm { m }$ 分辨率的DEM数据分析高程对于榆中县民间祠庙空间分布的塑造。由图5可以发现,榆中县祠庙大多位于海拔相对较低的位置，在县北侧的青城镇以及县中部平均海拔相对较低的部分存在较多的集聚，在县南侧马寒山山区也偏向于存在于村平均坡度相对较低的位置。在村平均海拔在 $1 \\ 4 0 0 \\sim 2 \\ 2 0 0 \\ \\mathrm { m }$ 的范围内,村内共有祠庙137座;当村平均海拔继续升高时，村内含有民间信仰的祠庙建筑数量明显减少。这可以从两个方面揭示高程对于民间信仰的影响：一是在民间信仰从外界传入时，高程相对较低的地区更便于接收到思想观念形成意识文化形态进而修建祠庙；二是民间信仰在县域内部交流时，高程相对较低的地方更适宜人类开展相应的文化活动，也更容易孕育出多样的民间信仰。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2坡度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据Logistic回归模型，坡度这一因子仅对山神信仰的空间分布影响显著，山神信仰的祠庙倾向于分布在平均坡度较大的村庄，基本与人们的正常认知相吻合。山神信仰主要分布在榆中县中部丘陵沟壑区及南部兴隆山一带平均坡度较大的地带，山神信仰也呈现出“依山”的空间特点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "山岳作为山神信仰寄托的载体和物质形态在山神信仰中起到核心地位，而山神庙作为人们对于山神敬拜和朝奉的场所，更多被选择在山岳旁进行建造，山岳对于山岳信仰的形成和空间分布具有重要意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/49f0a4732b0430afe6e0ab73e43f2534624f782cf85f930bcce8e37b439e9fe1.jpg",
+        "table_caption": [
+            "表2各类信仰影响因子模型相关系数",
+            "Tab.2Parameters of logistic regression model of folk belief "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>信仰类别</td><td>解释变量</td><td>回归系数(β)</td><td>标准误差(S.E)</td><td>Wald统计量</td><td>自由度(df)</td><td>显著性水平(sig)</td><td>发生比率(OR)</td></tr><tr><td rowspan=\"4\">信仰总体 (HL=11.233， p =0.189)</td><td>高程</td><td>-1. 950</td><td>0.836</td><td>5.440</td><td>1</td><td>0.020</td><td>7.031</td></tr><tr><td>人口密度</td><td>1.408</td><td>1.056</td><td>1.776</td><td>1</td><td>0.018</td><td>4.086</td></tr><tr><td>可达性</td><td>- 1.170</td><td>0.985</td><td>1.412</td><td>1</td><td>0.023</td><td>0.310</td></tr><tr><td>常量</td><td>-1.392</td><td>0.733</td><td>3.608</td><td>1</td><td>0.057</td><td>0.248</td></tr><tr><td rowspan=\"2\">山神信仰 (HL =4.585, p=0.801)</td><td>村平均坡度</td><td>0.632</td><td>0.271</td><td>5.425</td><td>1</td><td>0.020</td><td>1.881</td></tr><tr><td>人口密度</td><td>0.006</td><td>0.002</td><td>6.517</td><td>1</td><td>0.010</td><td>1.006</td></tr><tr><td rowspan=\"2\">水神信仰 (HL =5.238,</td><td>常量</td><td>-3.967</td><td>5.840</td><td>0.401</td><td>1</td><td>0.527</td><td>0.025</td></tr><tr><td>人口密度</td><td>0.353</td><td>0.159</td><td>4.940</td><td>1</td><td>0.026</td><td>1.423</td></tr><tr><td rowspan=\"2\">p =0.665)</td><td>距河流最近距离</td><td>-0.263</td><td>0.125</td><td>4.409</td><td>1</td><td>0.036</td><td>0.079</td></tr><tr><td>常量</td><td>-2.504</td><td>3.343</td><td>0.378</td><td>1</td><td>0.539</td><td>0.128</td></tr><tr><td rowspan=\"2\">天地信仰 (HL=6.317, p =0.612)</td><td>村平均坡度</td><td>0.330</td><td>0.147</td><td>5.012</td><td>1</td><td>0.025</td><td>1.391</td></tr><tr><td>距河流的最近距离</td><td>-0.232</td><td>0.102</td><td>5.165</td><td>1</td><td>0.023</td><td>0.793</td></tr><tr><td>女性信仰</td><td>常量 1</td><td>-4.702</td><td>2.950</td><td>2.540</td><td>1</td><td>0.111</td><td>0.009</td></tr><tr><td>英雄崇拜 (HL =5.554,</td><td>据河流的</td><td>-0.100</td><td></td><td></td><td></td><td>1</td><td></td></tr><tr><td rowspan=\"2\">p=0.208) 祖先崇拜</td><td>最近距离</td><td></td><td>0.038</td><td>0.184</td><td>1</td><td>0.028</td><td>0.959</td></tr><tr><td>常量</td><td>-7.451</td><td>5.090</td><td>2.140</td><td>1</td><td>1.430</td><td>0.001</td></tr><tr><td rowspan=\"4\">(HL=6.230, p =0.514)</td><td>高程</td><td>-0.812</td><td>0.010</td><td>5.700</td><td>1</td><td>0.017</td><td>0.998</td></tr><tr><td>人口密度</td><td>0.002</td><td>0.001</td><td>2. 111</td><td>1</td><td>0.014</td><td>1.002</td></tr><tr><td>可达性</td><td>-0.097</td><td>1.270</td><td>0.006</td><td>1</td><td>0.039</td><td>0.907</td></tr><tr><td>常量</td><td>-6.883</td><td>2.823</td><td>5.943</td><td>1</td><td>0.015</td><td>0.001</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8e74fafd5df5d104c61d915601513a2638c35acd8461ecdca04ea7e6ffe051a.jpg",
+        "img_caption": [
+            "图5行政村内祠庙个数与高程之间的关系 Fig.5Relationship between the villages’altitude and the number of the temples "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 人口密度",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "榆中县人口密度相对较高的地区主要集中在县中心的城关镇以及县北侧的青城镇,而由图7可以发现，榆中县祠庙大多在县中心区域以及青城镇有着显著的集聚。村内含有民间信仰的祠庙数量随村人口密度增大有增加的趋势，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "相对而言，人作为信仰的载体，是民间信仰形成、传播、交流的最重要因素；人口密度较高，往往更有利于文化的交流；另外，从历时性过程和文化传承的角度来看，人口密度相对较高的地区往往自然环境相对较好，利于人类的生存和发展，容易形成稳定的聚落，便于思想观念和民间信仰的传承。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a25aa93e3f2e7f53a8d5e52065368ec3e37e9e59d330a56f3fcbc7f11ebc368.jpg",
+        "img_caption": [
+            "图6行政村内山神类信仰祠庙个数与坡度之间的关系 Fig.6Relationship between the villages’slope and the number of the mountain god belief temples "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4 可达性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过ArcGIS计算榆中县各村的可达性，其结果表明(图8）：榆中县的村可达性在7（上坪）～181min(武家窑)之间。在 $0 \\sim 2 0 \\ \\mathrm { m i n }$ 这个区间段祠庙数量较少仅有26个，主要是因为可达性在这一区间段的村落相对较少，当村平均可达性在高于 $2 0 ~ \\mathrm { m i n }$ 区间段内，村内含有祠庙数量基本呈现出随可达性时间上升而减少的态势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "祠庙作为民间信仰祭祀和仪式的活动场所，需要考虑到个体前往朝拜或举行活动的便利性，相对于人们来说易于到达的地区有利于陇中县域特有的庙会、打醮和接神等祭祀仪式活动的开展，便于人们的参与。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0f273251ed05380c487bb68f153809f4146ee2e4485231227a799af74637c85.jpg",
+        "img_caption": [
+            "图7行政村内祠庙个数与人口密度之间的关系 Fig.7Relationship between the villages‘population density and the number of the temples "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5水源",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "水源是文化发源的必要元素，也对于祠庙的空间分布产生影响。通过Logistic测算，水源对于水神信仰的祠庙空间分布的影响表征显著。进一步进行统计分析，榆中县各村落距河道和水域的范围在$2 1 . 6 ~ \\mathrm { k m }$ 之内，但是当村落距河流的距离超过5.5$\\mathrm { k m }$ 时，已经没有村落内部含有水神信仰的祠庙了，水神信仰呈现出显著的“傍水\"特点（图9）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "水源是限制人类活动、保障人类生存的重要自然条件，而陇中地区干旱少雨，也没有大型河流与湖泊，地区严酷自然环境和生产生活方式使之有了“十年九旱，靠天吃饭”的说法，榆中地区的人们出于对旱灾恐惧以及对水的自然崇拜，形成了向龙王“求雨”的过会、还愿、抬龙王等一系列习俗，以便在河道缺水时向龙王祈雨。因此，水神信仰的意识形态一定程度上揭示了水源对于榆中县水神信仰的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e778e1637bf191d6d9a1460ba09d77b624f019db43a0d0a5b345869fc26de1b.jpg",
+        "img_caption": [
+            "图8行政村内祠庙个数与可达性之间的关系 Fig.8Relationship between the villages’accessibility and the number of the temples "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "榆中县民间信仰在漫长的社会发展历史长河中，根植于一个具有地域性和时间性的社会形态里面，形成一种内容丰富、形式多样的文化形式并流传至今，祠庙是甘肃村落社会和民俗文化的重要符号，是陇中地区灿烂文化的缩影。民间信仰是历时性多重因素综合作用的产物，区位因素通过影响人们生活和思想观念的传播对民间祠庙的空间分布产生重要影响.本文以甘肃省榆中县为例，以期填补十旱区民间信仰的地理学研究空白，梳理榆中县祠庙并采取定量方法分析其的空间分布及其集聚特征和影响因子。得到研究结果显示：",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d31915cb8f3e3d57dfa488dd79116b94479c5e1515ff25edd5e9f73dc6846d78.jpg",
+        "img_caption": [
+            "Fig.9Relationship between the distance to the river and the number of the river god belief temples "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图9行政村内水神类信仰祠庙个数与村距河流距离之间的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）榆中县民间信仰的祠庙可细分为山神信仰、水神信仰、天地信仰、女性信仰、英雄崇拜和祖先崇拜六大类。以祖先崇拜为主的家族祠堂数量最多，水神信仰、天地信仰的祠庙数量较多，兴隆山道教文化、陇中农耕文化对于榆中县地区文化的形成有着重要的作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）榆中县祠庙主要分布在西北黄河南岸、中部陇海铁路沿线及南部风景名胜集聚区，村级层面空间差异不显著、乡镇空间差异相对较大。通过核密度分析，不同类别民间信仰的空间分布比较分散，各信仰空间分布热点各有不同。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）榆中县民间祠庙空间分布受到区位条件限制，高程、人口密度和交通可达性成为榆中县祠庙空间分布的最主要影响条件，而经济类因子以及性别比例在Logistic回归模型中对各类信仰的影响均表征为不显著。民间信仰的祠庙多位于海拔高度较低、人口密度较大、交通可达性较好的地区，区位条件较好的地区便于接收思想观念和意识文化形态以及开展相应的文化活动，也更容易孕育出多样的民间信仰。另外，坡度和到水源的距离成为山神信仰和水神信仰祠庙空间分布显著的影响因子，榆中县祠庙呈现出山神信仰\"依山”，水神信仰“傍水”的空间特点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "因此，在随着经济的发展和城镇化的快速建设，现代城市文化向乡土社会渗透，民众的价值观念和思想观念也发生着巨大变化，一些宝贵的民间文化濒临消失的大背景下，在区域小尺度范围内对以祠庙为载体对民间信仰进行保护的过程中，应该在空间范围内正视地理环境对于祠庙分布之间的交互关系；在保护祠庙的过程中，整理挖掘区域民间信仰的地理特征以挽救与保护区域内部民间信仰和民俗文化活动，通过制定相关的保护政策使其在非物质文化遗产保护视域下得以有效传承与发展。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文通过祠庙这一文化景观作为村级尺度民间信仰的重要参考指标，以祠庙等实体建筑为主、辅以问卷等实地调研，以期能通过祠庙反应地区民间信仰的空间分布，这一方法的优势是所得到的村级尺度民间信仰现状的准确度相对较高。然而民间信仰是一个相对宽泛的研究概念，在地理学研究中，其表征载体、分类和影响因素均具有系统性和复杂性。其分类方式，学术界尚未达成共识，不同的分类方式可能会得到不同的结果。以祠庙为载体衡量民间信仰亦须考虑到祭祀圈与信仰圈的溢出性[38]以及二元Logistic模型的局限性对于神祇权重的确定以民间信仰的载体的选取是今后相关研究需要进一步探索的方向。此外，民间信仰是历时性多重因素综合作用的产物，再进一步选取民间信仰载体及其影响因子指标体系的过程中需考虑到其在时间尺度上的代表性。运用表层数据虽能一定程度上论证民间信仰受到地理环境的影响，但民间信仰根本上源于个体的意识行为和文化传承，如何对影响因子指标体系进行深层次挖掘与完善以及从人地关系视角深入探讨文化生态的可持续发展都需要进一步探讨。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "奓考乂（Keierences）",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]STEWARD HJ. Theory of culture change[M].Illinois:University of Illinois Press,1955:401 -402.   \n［2］王健.近年来民间信仰问题研究的回顾与思考：社会史角度的 考察[J].史学月刊,2005,81（1）:123-128.[WANG Jian.Review and reflection on the research of folk belief in recent years : from the perspective of social history[J].Journal of Historical Science,2005,81(1) :123-128.]   \n[3］林国平.关于中国民间信仰研究的几个问题[J].民俗研究, 2007,128(1）:5-15.[LIN Guoping.Some problems on the study of Chinese folk beliefs[J].Folklore Studies,2007,128（1）:5- 15.]   \n［4］王振忠.历史自然灾害与民间信仰—以近600 年来福州瘟 神\"五帝\"信仰为例[J].复旦学报（社会科学版），1996，120 (2）:77 -82.[WANG Zhenzhong.Historical natural disasters and folk beliefs:A case study of the“five emperors”belief in Fuzhou [J].Fudan Journal（Social Sciences Edition）,1996,120（2）: 77 -82.]   \n[5］张伟然.湖南古代的民间信仰及其区域差异［J].中国历史地 理论丛,1995,10(4）:229-240.[ZHANG Weiran.Ancient folk beliefs and regional differences in Hunan[J].Collections of Essays on Chinese Historical Geography,1995,10(4）:229 -240.]   \n[6］张晓虹.明清时期陕西民间信仰的区域差异[J].中国历史地 理论丛,2000,15（1）:185-214.[ZHANG Xiaohong.Folk beliefs and their regional differences in Hunan in the Ming and Qing Dynasties[J]. Collections of Essays on Chinese Historical Geography, 2000,15(1):185-214.]   \n[7］郑衡泌,陈文龙.民间信仰地域分异的微观分析—泉州三个 村庄神祇生态位宽度测量和比较[J].地理研究,2010,29（4）： 757-766.[ZHENG Hengmi,CHEN Wenlong. Micro-analysis of regional differentiation of folk beliefs:The measure and comparison of gods'niche breadth of Quanzhou three villages[J].Geographical Research,2010,29(4):757-766.]   \n[8]BARTKOWSKI JP,HOWELL F M,LAI S C. Spatial variations in church burnings:The social ecology of victimized communities in the South[J].Rural Sociology,2002,67(4）:578-602.   \n「9]DIAMOND F. RODFNHAMER DI Race and the decline nf main. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "line Protestantism in American cities:A GIS analysis of Indianapolis in the 1950s[J].History and Computing,2001,13（1）:25- 44. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10］朱鹤，刘家明，桑子文，等.民族文化资源的类型特征及成因分 析——以格萨尔(果洛)文化生态保护实验区为例[J].地理学 报,2017,72(6):1118-1132.[ZHU He,LIU Jiaming,SANG Ziwen,etal. Characteristic and contribution factors of diferent types of ethnic cultural resources:A case study of Gesar cultural and ecological protection experiment area[J].Acta Geographica Sinica, 2017,72(6):1118 -1132.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[11］李凡,司徒尚纪.民间信仰文化景观的时空演变及对社会文化 空间的整合—以明至民国初期佛山神庙为视角［J].地理研 究,2009,28（6）:1550-1561.[LIFan,SITU Shangji.Temporalspatial evolution of the cultural landscape of Foshan folk religions and its role in integrating socio-cultural spaces from the Ming Dynasty to early stage of the Republic of China: The perspective of temple[J].Geographical Research,2009,28(6）:1550 -1561.]   \n[12］冯健,张小林,金其铭.文化景观结构的地域整合与旅游开 发——以徐州汉文化景观为例[J].人文地理,2000,15（1)： 23-27.[FENG Jian,ZHANG Xiaolin,JIN Qiming.The regional integrated process of cultural landscape structure and tourism development:Taking Xuzhou's Han culturallandscape for an example [J].Human Geography,2000,15（1） :23 -27.]   \n[13］李悦铮,俞金国,付鸿志.我国区域宗教文化景观及其旅游开 发[J].人文地理,2003,18(3）:60-63.[LI Yuezheng,YU Jinguo,FU Hongzhi. On the tourism development and regional religions landscape of China[J]. Human Geography,2003,18（3）: 60-63.]   \n[14］许桂灵,司徒尚纪.广东华侨文化景观及其地域分异[J].地理 研究,2004,23（3）:411-421.[XU Guiling,SITU Shangji. Cultural landscape of overseas Chinese in Guangdong and its teritorial distribution[J]. Geographical Research,2004,23（3）: 411- 421.]   \n[15］苏黎杰.明中晚期以来北京长河文化景观演变—以广源闸 到西直门段为例[J].水土保持研究,2005,12（4）：122－123. [SU Lijie.The evolvement of Changhe River cultural landscape in Beijing:In case of the reach from Guanyuanzha to Xizhimen[J]. Research of Soil and Water Conservation,2005,12（4）:122- 123.]   \n[16］吴俊范.上海老城厢:一个江南城市的景观演变史及其动力机 制[J].中国历史地理论丛,2008,23（1）:5-15.[WUJunfan. The old city area in Shanghai;The history of the landscape evolution of a city in the south of the Yangtze River and its dynamic mechanism[J]. Collections of Essays on Chinese Historical Geography,2008,23（1） :5-15.]   \n[17］周尚意,赵世瑜.中国民间寺庙：一种文化景观的研究[J].江 汉论坛,1990,8(8）:44-51.[ZHOU Shangyi,ZHAO Shiyu. Chinese folk temples:A study of a cultural landscape[J]. Jianghan Tribune,1990,8（8）:44-51.]   \n[18］周晓薇.宋元明时期真武庙的地域分布中心及其历史因素 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[J].中国历史地理论丛,2004,19（3）：48-56.[ZH0U Xiaowei.The center of distribution and historical factors of Zhenwu Temple from Song to Ming Dynasties[J].Collections of Essays on Chinese Historical Geography,2004,19(3）:48-56.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[19］岳辉，李凡，王彬.广东佛教文化景观及其地域分异初探[J].人文地理，2011，122（6）:45-50.[YUEHui，LIFan，WANGBin.A preliminary studyof the Buddhistcultural landscapeand itsregional differences in Guangdong Province[J].Human Geogra-phy,2011,122(6):45-50.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[20］王庚.宋至民国时期陕北民间水神信仰的时空特征研究[D]. 西安：陕西师范大学,2016.［WANGGeng.Research on temporal and spatial characteristicsabout Water God belief in the Northern Shaanxi from Song Dynasty to the Republic of China[D].Xi'an: Shaanxi Normal University,2016.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[21］郑衡泌.民间祠神视角下的地方认同形成和结构——以宁波广德湖区为例[J].地理研究，2012，31（12）：2209－2219.[ZHENG Hengmi.Formation and structure of place identity in per-spective of folk deity belief:A case study on the Guangde Lakelandin Ningbo[J].Geographical Research,2012,31（12）:2209-2219.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[22］宋德剑.庙宇的地理空间分布与社会功能——粤东梅州天后信仰的宗教地理学研究[J].江西师范大学学报（哲学社会科学版）,2013,46（4）：127-132.［SONGDejian.The geospatialdistribution and social functions of temples:A study of religious ge-ography on devotion to the Queen of Heaven in Meizhou County,Guangdong Province[J].Sichuan Building Science,2O13,46（4）：127 -132.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[23］朱向东，陈康.宋金山西庙会建筑布局与祭祀空间营造分析 [J].四川建筑科学研究,2014,40(4）:282-285.[ZHU Xiangdong,CHEN Kang.Analysis on the building layout of temple fair and the building of the sacrificial space in Shanxi in Song and Jin Dynasties［J].Sichuan Building Science,2014,40（4）:282- 258.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[24］李剑海.明清以降广西郁江流域多元共生的民间信仰探析 [D].桂林：广西师范大学,2012.［LIJianhai.Theresearchon folk belief of diversity symbiosis in Guangxi since the Ming and Qing Dynasty in area of Yujiang［D].Guilin:Guangxi Normal University,2012.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[25］连振波，効天庆.陇中文化的特点及研究对策[J].湖南工业大 学学报（社会科学版）,2012,17(5）:112-116.［LIAN Zhenbo, XIAO Tianqing.The features and research strategies of Longzhong culture[J].Journal of Hunan University of Technology Social ScienceEdition.2012,17(5):112-116.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[26］李建宗.文化人类学视野下的甘肃陇中汉族民间信仰[J].青海民族学院学报（社会科学版），2009，35（3）：43－47.［LIJianzong.Ritual and symbol;A studyon folk belief Gansu in Long-zhong area from the perspective of cultural anthropology［J].Journal of Qinghai Nationalities Institute(Social Sciences）,2OO9,35(3):43 -47.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[27］王晓向.清代甘肃陇中地区民间信仰祠庙研究［D].兰州：西 北师范大学,2016.［WANGXiaoxiang.A study on the folk belief temple in the central part of Gansu Province in Qing dynasty[D]. Lanzhou:Northwest Normal University,2016.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[28］効天庆,杨齐.文化人类学视域下的陇中文化研究思考[J].甘肃高师学报，2012，17(6）:53-56.[XIAOTianqing，YANGQi.A study of middle Gansu culture from the perspective of culturalanthropology[J]. Journal of Gansu Normal Colleges,2012,17（6）：53 -56.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[29］刘锐，胡伟平，王红亮，等.基于核密度估计的广佛都市区路网 演变分析[J].地理学报,2011,31（1)：81-86.［LIURui，HU Weiping,WANG Hongliang,et al.The road network evolution of Guangzhou-Foshan metropolitan area based on Kernel density estimation[J].Acta Geographica Sinica,2011,31(1）:81-86.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[30］李慧.武当山道教宫观环境空间研究[D].北京：北京林业大学,2014.［LI Hui.The landscape of Wudang Mountains’Taoisttemple[D].Beijing:Beijing Forestry University,2014.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[31］何韶颖，汤众.基于GIS的历史城市形态研究——以清代广州寺院分布影响因素分析为例[J].西安建筑科技大学学报（自然科学版）,2012,44（5）：672－678.［HEShaoying，TANGZhong.Research on historical urban morphology based on GIS:Case study of analysis on distribution and influence factors of tem-ples in Guangzhou in the Qing Dynasty[J]. Journal of Xi'an Uni-versity of Architecture & Technology（Natural Science Edition）,2012,44(5) :672 -678.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[32］程乾，凌素培.中国非物质文化遗产的空间分布特征及影响因素分析［J].地理科学，2013,33（10）：1166-1172.［CHENGQian,LING Supei. Geographical distribution and affecting factors oftheintangible cultural heritage in China[J].Scientia GeographicaSinica,2013,33（10):1166-1172.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[33］陈晨，修春亮，陈伟，等.基于GIS的北京地名文化景观空间分 布特征及其成因［J].地理科学，2014，34（4）：420－429. [CHENChen,XIU Chunliang,CHENWei,etal.Spatial distribution characteristics of place-name landscape based on GIS approach inBeijing and its reasons for the formation[J].Scientia Geographica Sinica,2014,34（4）:420-429.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[34］黄松，李燕林，李如友.桂西地区地质遗迹与民族文化资源的空间关系及成因机理[J].地理学报，2015，70（9）：1434-1448.［HUANG Song,LI Yanlin,LI Ruyou.Spatial relationshipand formation mechanism of geological relics and ethnic culturalresources in western Guangxi,China[J].Acta Geographica Sinica,2015，70(9):1434-1448.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[35］阮浩波，王乃昂，牛震敏，等.毛乌素沙地汉代古城遗址空间格局及驱动力分析[J].地理学报，2016，71（5）：873-882.［RU-AN Haobo,WANG Nai'ang,NIU Zhenmin,et al. Spatial pattern ofancient citysitesand itsdriving forces in MuUs SandyLand dur-ing Han Dynasty［J].Acta Geographica Sinica,2016,71（5）：873 -882.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[36］徐嘉兴，李钢，陈国良.基于logistic回归模型的矿区土地利用 演变驱动力分析[J」.农业工程学报，2012，28（20）：247-255. [XUJiaxing,LI Gang,CHEN Guoliang.Driving force analysisof land use change based on Logistic regression model in mining area [J].Transactions of the Chinese Society of Agricultural Engineering,2012,28(20):247-255.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[37］李洪，宫兆宁，赵文吉，等.基于Logistic 回归模型的北京市水 库湿地演变驱动力分析[J」.地理学报，2012，67（3）：357- 367.［LI Hong,GONG Zhaoning,ZHAO Wenji,et al.Driving forces analysis of reservoir wetland evolution in Beijing based on logistic regression model[J].Acta Geographica Sinica,2O12,67 (3),357 -367.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[38］张宏明.民间宗教祭祀中的义务性和自愿性—祭祀圈和信仰圈辨析[J].民俗研究，2002，108（1）：54-62.［ZHANGHongming.A study on the obligation and voluntary folklore in thefolk religious sacrifice:An analysis of the circle and circle of wor-ship[J].Folklore Studies,2002,108（1）:54-62.]",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Spatial distribution of the carriev of the folk religion and its influencing factors :A case of temples in Yuzhong County ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "SONG Zhou-ying¹，YU Yang1,²，LIANG Long-wu1,²，MA Zhen-bang³ (1.Institute of Geographic Sciences and Natural Resources Research,Key Laboratoryof Regional Sustainable Development Modeling,CAS,Beijing0o01,China；2.UniversityofhineseAcademyofSciences,Bejing100049,Cina; 3.Collegeof Earth and Environment Sciences,Lanzhou University,Lanzhou 73oooo,Gansu,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Geographical environment has a strong influenceon the formation of regional culture.The temples in Yuzhong were taken as the research objectconsidering the similarities of culture and folk religion inLongzhong area,Gansu Provinces,China inorder to enrich the studyof cultural geography.This paper discusses the spatial distributionof folk templesand its influencing factors.Theresearch data were obtained through literature collection and field investigation,and the temple types were clasifiedaccording tothe types of beliefs.Kernel densityanalysis and logistic regresion were used to analyze the spatial distributionand influencingfactors of temples.The main findings are listedas folows:（1）Folk religion in Yuzhong County couldbe divided into natural belief,fairy belief and personality belief.The main types of the temple in Yuzhong were the water and ancestor worship belief.（2）Temples were mainly agglomerated at northwest area（along the banks of Yellow River）,central area（on both sides of he Long-Hai Railway）and south scenic regions.The distribution of temples was greatly influenced byregional culture. (3）The spatial distribution of temples was also limited bythe geographical conditions.The temples in Yuzhong County were mostly located inareaswithlow altitude,high population densityand good traffc accessibility.The temples of the mountain god belief were near the mountain,while the temples of water godbelief were close to he river.The influencing factors onthe distribution of temples were discussd quantitatively by mathematical method on the basis of thecollcteddata of temples.This paper hopes to provide some suggestions forthe protectionof traditional culture by revealing the characteristics of folk beliefs in the study area. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Yuzhong County；temple；folk belief；spatial distribution;impact factors；KDE；Logisticregression ",
+        "page_idx": 12
+    }
+]

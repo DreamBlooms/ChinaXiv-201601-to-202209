@@ -1,0 +1,120 @@
+# 基础研究
+
+# 氯化锂复合磷酸钙骨水泥可促进大鼠胫骨骨缺损修复
+
+李 理,覃永保,马 刚,李 兵广西医科大学第四附属医院//柳州市工人医院骨科，广西 柳州545005摘要：目的观察磷酸钙骨水泥(CPC)与氯化锂复合磷酸钙骨水泥(Li/CPC)对SD大鼠骨折愈合的影响。方法取20只6月龄雌性SD大鼠，设立Li/CPC实验组（ $_ { n = 1 0 } )$ 及CPC对照组 $\scriptstyle ( n = 1 0 )$ ，分别行双侧胫骨骨缺损填充术，术后1、2月每组分别处死5只大鼠,取腔骨标本行显微CT(Micro-CT)检测及组织学切片HE染色，进行比较分析。结果 Micro-CT扫描显示,Li/CPC组骨缺损修复效果比CPC组好,Li/CPC组材料周围新骨体积分数（BV/TV)较CPC组高,骨小梁分离度(Tb.Sp)较小,差异有统计学意义0 $( P { < } 0 . 0 5 )$ ;组织学HE染色显示,Li/CPC组纤维骨痂及骨样骨痂出现较早,且数量较多,骨愈合质量明显高于CPC组。结论 Li/CPC具有较好的骨传导性能，能明显促进骨缺损修复。
+
+关键词：磷酸钙骨水泥；氯化锂；显微CT；HE染色；骨缺损修复
+
+# Effect of a lithium-doped calcium phosphate cement in promoting tibial bone defect repair in rats
+
+LI Li, QIN Yongbao,MA Gang,LI Bing Departmentoededialiiclitor'sialu
+
+Abstract: ObjectiveToevaluate theefectsalithiumchloride-dopedcalcium phosphatecement (Li/CPC)onpromotingtibial defect repair in rats. Methods Twenty 6-month-old female SD rats randomized into Li/CPC ( $( n { = } 1 0 )$ and CPC control $( n { = } 1 0 )$ groups.Surgery wasperformed to createbonedefects atthe bilateraltibia, which werefiled with eitherof thecement.Five rats fromeach group were sacrificed at1 and 2 months after the surgery for micro-CT examination and HE staining of the tibia. Results Micro-CT showed beter repair of bone defects in Li/CPC group,which had a significantly higher new bone volume fraction (BV/TV) and a lower trabecular separation/spacing (Tb.Sp) than the control group $_ { ( P < 0 . 0 5 ) }$ . HE staining showed an earlier appearanceoffiber and osteoid calus inLi/CPC group than CPCcontrol group.Thenumberand qualityof bone healing was significantly higher in Li/CPC group than in CPC group. Conclusion Li/CPC possessed beter osteoinductivity and can significantly promote bone defect repair in rats.
+
+Key words: calcium phosphate cement; lithium chloride; micro-CT; bone defects repair
+
+创伤及肿瘤等疾患引起的骨缺损修复问题一直是骨科医生面临的难题之一，随着组织工程学迅速发展，利用组织工程学的方法修复骨缺损成为一种全新的治疗模式,具有广阔的应用前景[-2]。目前,研究各种类型具有生物学活性的骨生物学材料用于骨质缺损修复成为国内外热点研究课题之一，磷酸钙骨水泥(calciumphosphatecement,CPC)具有良好的生物相容性和生物活性，但其无骨诱导活性，因此如何赋予CPC促成骨活性成为一个值得研究的方向。氯化锂(LiCI)是目前广泛应用的GSK-3β无机离子抑制剂，可通过与GSK-3β结合，阻止Axin-APC-GSK-3β降解复合体的形成，促使$\beta$ -catenin在细胞质内大量聚集从而激活经典 $\mathbf { W } \mathbf { n } \mathrm { t } / \mathbf { \Sigma }$ $\beta$ -catenin通道，通道的激活会促进人骨髓间充质干细胞、成骨细胞的增殖，同时抑制破骨细胞增殖，全面对骨代谢进行调节,在骨修复与与重建中发挥积极的作用[3-4]。因此，本实验将LiCI掺入CPC骨水泥制备新型的氯化锂复合磷酸钙骨水泥(lithium doped calcium phosphatecement,Li/CPC),填充至SD大鼠胫骨骨缺损，通过对不同时间点骨缺损处Micro-CT分析及组织病理学观察,研究Li/CPC对SD大鼠骨折愈合的影响。
+
+# 1 材料和方法
+
+# 1.1 动物分组
+
+雌性6月龄SpragueDawley大鼠(广西医科大学实
+
+验动物中心提供)20只，体质量： $3 2 0 { \sim } 3 4 0 ~ \mathrm { g } _ { \circ }$ 随机分为氯化锂复合磷酸钙骨水泥(Li/CPC)实验组及磷酸钙骨水泥(CPC)对照组，每组10只。
+
+# 1.2 材料制作
+
+采用固液相混合自凝固方式制备骨水泥材料。磷酸四钙(TTCP)与无水磷酸氢钙(DCPA)以摩尔质量比1：1制成混合粉末作为骨水泥反应固相，固化液为含LiCl(100mmol/L)的 $20 \%$ 的柠檬酸溶液，固液相以液固比(L/P)为 $0 . 3 0 ~ \mathrm { m L / g }$ 混合，持续搅拌调成糊状，制备Li/CPC复合骨水泥浆体，将其置入相应模具固化成型后即为骨水泥材料。CPC骨水泥制备使用的固化液为 $20 \%$ 的柠檬酸溶液，余方法同上。动物骨缺损填充实验的骨水泥样本制作为直径 $2 . 5 \mathrm { m m }$ ，高 $4 \mathrm { m m }$ 的骨水泥材料。
+
+# 1.3体外生物活性和降解性
+
+按照上述方法制备骨水泥材料，达到终凝后将其取出用SBF浸泡，持续放置于温度为 $3 7 ~ \mathrm { ^ { \circ } C }$ 的恒温箱中。SBF体积根据以下公式计算： $\scriptstyle \mathrm { V = S } / 1 0$ ，其中V是SBF的体积(mL),S是样本的体表面积 $( \mathrm { m m } ^ { 2 } )$ ,SBF每隔1d换1次。分别于1、14d取出样本，用去离子水洗净，然后用
+
+$30 \%$ 、 $5 0 \%$ ） $70 \%$ ） $80 \%$ ） $90 \%$ ） $9 5 \%$ 和 $100 \%$ 酒精脱水，脱水后将样本放置于 $- 8 0 \ \mathrm { { ^ circ C } }$ 冰箱冷冻后用真空冷冻干燥机（Christ Alpha $2 \cdot 4 \ \mathrm { \ L D }$ plus，Germany）于温度为 $- 8 0 \mathrm { { ^ { \circ } C } }$ 下干燥 $4 8 \mathrm { h }$ 。用扫描电子显微镜观察材料的微观形貌，将充分干燥好的骨水泥样本涂上一层 $2 0 \mathrm { n m }$ 厚的铂金，分别观察侵泡于SBF1、14d的骨水泥表面微观形貌随侵泡时间的变化。
+
+# 1.4 骨缺损填充术
+
+麻醉前大鼠禁食 $6 \textup { h }$ ，用 $2 \%$ 戊巴比妥钠注射液$\left( 0 . 0 2 \mathrm { m L } / 1 0 0 \mathrm { g } \right)$ 对大鼠进行腹腔麻醉， $3 { \sim } 5 \ \mathrm { m i n }$ 后麻醉成功。取仰卧位，于一侧胫骨干端内侧备皮，分别用碘伏和酒精于术部消毒，覆盖无菌孔单，以胫骨干端内侧往下 $0 . 5 \mathrm { c m }$ 处为切口，纵向切开皮肤 $0 . 5 { \sim } 1 ~ \mathrm { c m }$ ,钝性分离皮下组织,暴露骨膜,于骨面平整处用克氏针钻一直径为 $2 . 5 \mathrm { c m }$ 的骨缺损,将各组骨水泥材料植入骨缺损内，碘伏消毒后间断缝合肌层，最后缝合皮肤，另外一侧手术方法同上(图1)。术后大鼠分笼饲养，自由摄食水，连续3d于大鼠大腿肌肉内注射青霉素G钠盐 $4 0 0 0 0 \mathrm { U } ,$ □
+
+![](images/06dfe81ce2333a6069578b572c09fdb8954baa101d68b3bff620436c17476e18.jpg)  
+图1胫骨骨缺损填充术  
+Fig.1Tibialbonedefectsfillingsurgery.A:Surgicalincision;B:Tibialdrilling;C,D:Filingbonedefectwithbonecement.
+
+# 1.5Micro-CT
+
+参照以往的研究，采用Micro-CT分析方法来评价圆柱形骨植入材料周围新生骨量的恢复情况[5]。首先使用Micro-CT(Skyscan 1176,Kontich,Belgium)扫描大鼠腔骨(扫描分辨率： $1 8 ~ { \mu \mathrm { m } }$ ，旋转角度： $3 6 0 ^ { \circ }$ ,转角度增： $0 . 7 2 ^ { \circ }$ ，电压： $8 8  { \mathrm { \ k V } }$ ，功率： $4 0 \mathrm { w }$ ，电流： $8 0 ~ \mu \mathrm { A }$ ,帧平均数：6,像素组合： $1 \times 1$ )，然后采用Nrecon软件对扫描图片进行三维重建，将重建好的图片用软件CTAn进行数据分析，感兴趣区域为胫骨植入材料周围10pixels(1pixel ${ \approx } 1 8 ~ { \mu } \mathrm { m } )$ 范围内的松质骨骨量，计算出该区域新生骨组织相对骨体积(BV/TV)和骨小梁分离度(Tb.Sp)，最后采用软件CTVol输出重建材料及感兴趣区域骨量的三维图片。
+
+# 1.6 HE染色
+
+术后取大鼠腔骨，剔除周围肌肉组织后用 $10 \%$ 中性甲醛固定3d,然后 $10 \%$ 乙二胺四乙酸(EDTA, $\mathrm { p H } { = } 7 . 2$ ）脱钙1个月，脱水、石蜡包埋后切成 $5 ~ { \mu \mathrm { m } }$ ，行苏木素-伊红(HE)染色，光镜下观察材料周围新骨的生成情况。
+
+# 1.7统计学分析
+
+实验数据建立Excel数据库，所得数据以均数 $\stackrel { \cdot } { \pm }$ 标准差表示，应用软件SPSS21.0处理数据，T检验比较两组间的差异，以 $P { < } 0 . 0 5$ 表示差异具有统计学意义。
+
+# 2结果
+
+# 2.1材料体外生物活性
+
+将骨水泥样本侵泡在模拟体液中，侵泡第1天，通过SEM观察材料表面的微观结构，发现加入Li+后未影响骨水泥的内部结构，材料具有比较紧密的连接。浸泡1d后，材料表面可观察到还未发生明显反应的原料颗粒相互混杂在一起(图2A、B)，浸泡14d后原料逐渐反应，绝大部分区域原料已转化为羟基磷灰石(hydroxyapatite,HA),电镜下可观察到典型的花丛状HA形貌，说明随着侵泡时间的增加原料物质间发生了化学反应逐渐生成了HA(图2C、D)。新型Li/CPC并没有改变CPC的体外生物学活性，其能够随时间的增加逐转化为跟骨组织相似的HA。
+
+![](images/17fb16c196f5f3033257a0a89a19263f3be8bd53caaaf3d7bb004116bfaa12c0.jpg)  
+图2骨水泥体外生物学活性
+
+![](images/465c8b9a30851eff1ff0c5837862f9543f9d465aad1f8b9c53c0ec2e527ce72a.jpg)  
+Fig.2 Biological activity of bone cement in vitro.CPC and Li/CPC exhibited similar biological properties after immersion in SBF for1 and 14 day, gradually forming hydroxyapatite (HA);A,B: Immersion in SBF for1 day; C,D: Immersion in SBF for 14 day.A: CPC; B: Li/CPC; C: CPC; D: Li/CPC.
+
+# 2.2Micro-CT
+
+用植入材料周围新骨的相对骨体积(BV/TV）、骨小梁分离度(Tb.Sp)来反映不同材料对周围骨组织修复的影响，距离材料周围 $1 8 0 ~ { \mu \mathrm { m } }$ 区域，术后1月和2月Li/CPC实验组较CPC对照组骨质更密集（图 $3 \mathrm { A } , \mathrm { B } , \mathrm { C } , \mathrm { D } )$ ，Li/CPC实验组BV/TV较CPC对照组均增加,Tb.Sp较小，差异有统计学意义(图3E、F)。
+
+# 2.3 HE染色
+
+HE染色切片显示，Li/CPC实验组能加速骨折的修复进程，术后1月时植入材料周围新骨细胞生成较CPC组活跃，有大量骨细胞形成，而CPC组仅表现为界面处纤维组织的增生，术后2月，实验组可见少许新骨细胞已少量侵入材料表面，CPC组仅在界限处出现新骨细胞，说明Li/CPC实验组能够加速骨细胞的修复，有更好的骨整合性(图4)。
+
+# 3讨论
+
+骨修复是一个复杂的动态变化，其修复过程起关键作用的是破骨细胞(OC)和成骨细胞(OB),即破骨细胞分泌蛋白酶消化骨基质，成骨细胞分泌骨基质形成新骨,破骨与成骨过程的平衡是维持正常骨量的关键。研究证实Wnt信号途径既通过促进OB的增殖分化促进新骨形成，又通过抑制OB程序性死亡和OC形成抑制骨吸收[7。锂盐(GSK-3β抑制剂),可通过与GSK- $\cdot 3 \beta$ 结合，阻止Axin-APC-GSK-3β降解复合体的形成,促使$\beta$ -catenin在细胞质内大量聚集从而激活经典Wnt/$\beta$ -catenin通道[8-9]。在临床上较早被应用于治疗双相性精神障碍，Vestergaard等在对使用锂盐治疗双相性精神障碍的患者与健康个体进行比较后发现,使用锂盐者骨折的相对危险度较健康个体偏低[1]。Arioka[1通过一定浓度LiC1与成骨及破骨前体细胞共培养，从分子作用机制方面证实了LiC1能促进成骨细胞生成同时抑制破骨细胞分化,进而增加骨细胞修复能力[]。
+
+磷酸钙骨水泥是一种新型的自固化型骨水泥，其具有与骨相似的无机盐成分，有很好的生物相容性；可以在室温或体温下等温自固化,微产热;具有传导性成骨作用，可与骨形成真正的连接;固化后形成大量的微孔结构，可以作为药物的缓释载体。已经有大量的实验研究证实，载药磷酸钙骨水泥的药物释放特性符合描述多孔缓释载体释放的Higuchi方程,是一种良好的可降解的缓释载体[13]。本实验将LiC1加入骨水泥反应液相中,固液混合将Li+成功掺入CPC,制备新型的氯化锂复合磷酸钙骨水泥(Li/CPC)材料，体外模拟人体内环境浸泡实验，发现新型材料保持了CPC第二代生物材料优良的体外生物活性，随时间的增加，两种材料中的原料逐渐转变为跟骨组织成分相似的HA(图2)。HA是一类具有良好生物相容性的生物活性物质，其化学组成和结晶结构类似于人体骨骼中的磷灰石，钙磷摩尔比为1.67,与天然骨接近，HA分子中的 $\mathrm { C a } ^ { 2 + }$ 可与含有羧基的氨基酸、蛋白质、有机酸等发生交换反应，新骨可以从HA与原骨结合处沿着植入材料表面或内部贯通性孔隙攀附生长，与组织在界面上形成牢固的化学键合，为体内骨细胞提供良好界面，使骨组织形成牢固的骨性结合促进骨骼生长，具有良好的骨传导性能，并且相态比较稳定，无毒性、发炎性，是公认的性能良好的骨修复替代材料[1415]。另外,刘文龙等[1研究发现,碱性条件下，骨髓基质干细胞在体外实验中更容易向成骨细胞转化，动物实验证实体内碱性环境下可抑制破骨细胞活性,更有利于成骨,而HA呈弱碱性( $\mathrm { \Delta p H }$ 值为7\~9),对邻近骨组织的修复有着积极的意义。Li/CPC体外生物活性表明,Li/CPC能够随着时间的增加逐渐转变为HA,具有良好的体外生物活性,为其优良的骨整合性提供良好的生物学基础。
+
+早期已有多种金属离子应用于CPC骨水泥的改性研究，锶(Sr)是人体的必需微量元素，作为一种添加物混入CPC骨水泥可以与 $\mathrm { C a } ^ { 2 + }$ 发生螯合反应，增强机械强度，还能促进成骨细胞的分化再生，将掺Sr磷酸钙骨水泥(Sr-CPC)植入SD大鼠股骨远端骨缺损内，组织学和影像学可观测到其刺激骨再生和重建松质骨效果要优于 $\mathrm { C P C ^ { [ 1 7 - 1 8 ] } }$ 。而锂(Li)作为GSK-3β无机离子抑制剂,其促进成骨细胞增殖分化同时抑制破骨细胞活性，拥有良好的骨修复性能，近年来也逐渐应用于骨生物材料的基础研究。Han等[19将LiCI加入多孔生物玻璃支架中,证实了通过释放材料中的 $\mathrm { L i ^ { + } }$ ,激活经典的 $\mathrm { { W n t / \beta } }$ -catenin信号通路,从而促进牙周韧带细胞增殖分化。Geng等[20]将钛合金植入小鼠颅盖骨建立植入材料周围引起的骨质溶解性疾病模型，通过口服LiC1的方法研究其对骨质溶解性疾病的治疗效果，结果证明LiCI可以增加骨质溶解性疾病模型动物的成骨细胞数量及相关成骨标记物的表达，同时抑制破骨细胞的分化来缓解骨质溶解。本实验首次将LiCI加入到CPC中制备Li/CPC,前期研究表明Li/CPC对成骨细胞MG63的增殖及分化有促进作用[2]。为了进一步研究Li/CPC对动物骨折的修复是否有促进作用，将Li/CPC植入SD大鼠胫骨骨缺损内，研究Li的掺杂是否赋予新材料一定的骨诱导性能。Micro-CT结果显示Li/CPC实验组骨折处骨量恢复明显比对照组好(图3)，同样的，组织学HE染色结果也证明Li/CPC实验组较CPC对照组骨折愈合过程中成骨细胞出现较早，数量较多，纤维骨痂及骨样骨痂出现也较早，骨折的修复进程较快(图4)，与之前局部应用 $\mathrm { L i ^ { + } }$ 促进骨折愈合的报道相符合[]。我们认为,通过CPC自身机械性能提供一定的力学支撑作用，同时，以CPC为良好释放载体,Li+从Li/CPC释放并作用于外周,促进成骨细胞增殖、分化、矿化，有效促进材料的骨爬行替代，可加速骨的修复进程。
+
+![](images/1bd9d60344e86301b83d2d4831160f004f1fa936791211d8b46386c5c14e78de.jpg)
+
+![](images/bae983198319022abad1b4e20853e5ed3ff553002985992ef0dd4db29998e6bd.jpg)  
+图3Micro-CT分析 Fig.3 Micro-CT results showing that $\mathrm { L i / C P C }$ could increase bone mass around materials.A-D: 3D reconstructed images by micro-CT imaging of the area surrounding the cement implants, showing newly formed bone at $1 8 0 ~ { \mu \mathrm { m } }$ from the edge of the cement after implantation for 1 month (1 M) and 2 months (2 M) in rats' tibial defects;E: BV/TV at $1 8 0 ~ { \mu \mathrm { m } }$ from the edge of the cement; $F ;$ Tb.Sp at $1 8 0 ~ { \mu \mathrm { m } }$ from the edge of the cement.A: CPC-1M; B: Li/CPC-1M; C: CPC-2M; $D { : } \mathrm { L i / C P C { - } 2 M }$
+
+![](images/3664eabfa971fe9e4697354305f4a2eebc5fc1add08c0731b0cb20b33908140e.jpg)  
+图4胫骨骨缺损组织切片HE染色  
+Fig.4 HE staining of tibial bone defects showing that Li/CPC accelerated the healing of fractures (Original magnification: $\times 1 0 ^ { \cdot }$ ).A: CPC group at1 month; B: Li/CPC group at 1 month; C: CPC group at 2 months; D: Li/CPC group at 2 months.A: CPC; B: Li/CPC; C: CPC; D: Li/CPC.
+
+综上所述，将LiC1与CPC相复合，其中LiCI起促成骨作用，赋予了新材料更好的骨传导性和骨整合性，这种CPC的改进或许为骨组织工程修复材料的研究提供一个新的方向。
+
+# 参考文献：
+
+[1]Soledad Belluzo M,Medina LF,Cortizo AM,et al.Ultrasonic compatibilizationofpolyelectrolytecomplexbased on polysaccharidesforbiomedicalapplications[J].Ultrason Sonochem,2016,30:1-8.   
+[2]Hollister SJ.Porous scaffold design for tissue engineering[J]. Nat Mater,2005,4(7): 518-24.   
+[3] Tang L，Chen Y,Pei F,et al．Lithium chloride modulates adipogenesis and osteogenesis of human bone marrow-derived mesenchymal stem cells [J].Cell Physiol Biochem,2015,37(1): 143-52.   
+[4]Galli C,Piemontese M,Lumetti S,et al.GSK3b-inhibitor Lithium chloride enhances activation of Wnt canonical signaling and osteoblast differentiation on hydrophilic Titanium surfaces[J].Clin Oral Implants Res,2013,24(8): 921-7.   
+[5]Zhang YD,Cui X,Zhao SC,et al.Evaluation of injectable Strontium-Containing borate bioactive glass cement with enhanced osteogenic capacity in a critical-sized rabbit femoral condyle defect model[J].ACS Appl Mater Interfaces,2015,7(4): 2393-403.   
+[6]Holmen SL,Zylstra CR,Mukherjee A,et al.Essential role of beta-catenin in postnatal bone acquisition[J].J Biol Chem,2005, 280(22): 21162-8.   
+[7]Lerner UH, Ohlsson C.The WNT system: background and its role in bone[J].JIntern Med,2015,277(6): 630-49.   
+[8]Iwata M,Aikawa T,Hakozaki T,et al. Enhancement of Runx2 expression is potentially linked to $\beta$ catenin accumulation in canine intervertebral disc degeneration[J].J Cell Physiol,2015,230(1): 180-90.   
+[9]Kishimoto KN,ItoiE.Lithium chloride enhances cathepsin H expression and BMP-4 degradation in C3H10T1/2 cells[J]. Biomed Res Int,2013,14372.   
+[10] Vestergaard P,Rejnmark L, Mosekilde L. Reduced relative risk of fractures among users of lithium[J]. Calcif Tissue Int,2Oo5,77(1): 1-8.   
+[11]Arioka M,Takahashi F, Sasaki M,et al. Acceleration of bone regeneration by topical application of GSK-3 inhibitor[J].J Pharmacol Sci,2014,124(1): 95P.   
+[12]Ginebra MP,Canal C,Espanol MA,et al. Calcium phosphate cements as drug delivery materials[J].Adv Drug Deliv Rev,2012, 64(12): 1090-110.   
+[13]姜晓鑫,屈树新,林孙忠,等.骨碎补载入对磷酸钙骨水泥性能的影响 及体外生物学评价[J].无机材料学报,2011,26(1):29-37.   
+[14]Hui JF, Wang X. Hydroxyapatite nanocrystals: colloidal chemistry, assembly and their biological applications［J]. Inorg Chem Front, 2014, 1(3): 215-25.   
+[15]Yu CC, Chang JJ,Lee YH, et al. Electrospun scaffolds composing of alginate,chitosan,collagen and hydroxyapatite for appying in bone tissue engineering[J]. Mater Lett,2013,93: 133-6.   
+[16]Liu W,Wang T, Yang C,et al.Alkaline biodegradable implants for osteoporotic bone defects-importance of microenvironment $\mathrm { p H } \mathrm { [ J ] }$ Osteoporosis Int,2016,27(1): 93-104.   
+[17]Kuang GM, Yau WP,Wu J,et al. Strontium exerts dual effects on Calcium phosphate cement: Accelerating the degradation and enhancing the osteoconductivity both in vitro and in vivo [J].J Biomed Mater Res A,2015,103(5):1613-21.   
+[18] Kuang GM, Yau WP,Lam WM, et al. An effective approach by a chelate reaction in optimizing the setting process of strontiumincorporated Calcium phosphate bone cement[J].J Biomed Mater Res B Appl Biomater, 2012,100B(3): 778-87.   
+[19] Han PP, Wu CT, Chang J,et al. Thecementogenic diferentiationof periodontal ligament cells via the activation of Wnt/beta-catenin signalling pathway by $\operatorname { L i } ^ { + }$ ions released from bioactive scaffolds[J]. Biomaterials,2012,33(27): 6370-9.   
+[20]Geng DC,Wu J,Shao HG,et al. Pharmaceutical inhibition of glycogen synthetase kinase 3 beta suppresses wear debris-induced Osteolysis[J]. Biomaterials,2015,69:12-21.   
+[21]Li L,Wang R,Li B,et al. Lithium doped Calcium phosphate cement maintains physical mechanical properties and promotes Osteoblast proliferation and differentiation[J].JBiomed Mater Res B Appl Biomater,2016,Feb 9.doi:10.1002/jbm.b.33625.[Epub ahead of print].
+
+(编辑：吴锦雅）

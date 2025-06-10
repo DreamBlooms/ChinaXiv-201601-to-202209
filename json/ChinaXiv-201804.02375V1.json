@@ -1,0 +1,827 @@
+[
+    {
+        "type": "text",
+        "text": "稀疏正则化逆向神经网络在双陷波超宽带天线设计中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "南敬昌，王梓琦，高明明(辽宁工程技术大学 电子与信息工程学院，辽宁 葫芦岛市 125105)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对直接逆向神经网络模型精度较低，BP逆向神经网络泛化能力较差以及单独使用 HFSS 仿真软件需要不断优化天线各参数增加了设计时间的问题，提出一种将HFSS与稀疏正则化逆向神经网络联合的方法对双陷波超宽带天线进行设计。该方法在逆向神经网络性能函数中增加L1/2范数和L2范数，L1/2范数引入了新的权系数，扩充了输入样本向量，使网络更易得到稀疏性解，逆模型精度更高，L2范数能有效避免过拟合现象，使网络泛化能力更强。应用于双陷波超宽带天线设计中，采用在辐射贴片上开弧形槽的方式产生陷波特性，根据天线目标电压驻波比逆向求解对应的开槽尺寸。仿真实验结果表明，与BP 逆向神经网络方法相比，求得的与天线电压驻波比对应的开槽角度相对误差减小了 $6 9 . 3 \\%$ ，开槽半径相对误差减小了 $8 8 . 7 \\%$ ，网络运行时间减少了 $1 5 . 9 \\%$ ；最终设计的天线带宽为 $2 . 4 { \\sim } 1 1 \\mathrm { G H z }$ 实现了 $3 . 3 1 { \\sim } 3 . 8 \\mathrm { G H z }$ 和 $4 . 9 8 { \\sim } 6 . 0 5 \\ \\mathrm { G H z }$ 的良好陷波特性，缩短了整个天线的设计周期。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：逆向神经网络；HFSS；L1/2范数；L2范数；双陷波超宽带天线 中图分类号：TP183 doi: 10.3969/j.issn.1001-3695.2018.02.0109 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of sparse regularized inverse neural network in design of dual-notch UWB antenna ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nan Jingchang, Wang Ziqi, Gao Mingming (CollegeofElectrics&InformationEngineringLiaoningTechnicalUniversityHuludaoLiaoningProvince25o5,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming atthe low acuracyof direct inverse neural network model, the poor generalizationabilityofBP neural network,andthe increaseddesigntimeduetothefactthatantennaparameters needtobeoptimizedcontinuouslyusing HFSS simulation software individualy,this paper proposedanew method,whichcombined HFSS with sparse regularizationnverse neural networktodesign thedualband-notched ultra-wideband antenna.This method addedL1/2normandL2 norm in the performance functionof the inverse neural network.TheLl/2 norm introduced anew weightcoeficient, expandedthe input sample vector,made the network to obtain the sparsity solution more easily，and the inverse model got higher accuracy. Meanwhile,theL2 norm avoided theover-fiting phenomenon efectively and made the network generalizationabilitystronger. It appliedtothedesignofdual band-notchedultra-widebandantenna,usingofarc grooves onradiating patches generated notch characteristics,andaccordingtotheantenna target voltage standing waveratio(VsWR)solved inverselythecorrespondingslot size.Simulationresults show that therelative errorofslotangle which correspondingto VSWRofthe antennareduced by $6 9 . 3 \\%$ and the relative error of slot radius lessened by $8 8 . 7 \\%$ ,and the network running time decreased by $1 5 . 9 \\%$ compared with BP neural network method. The final designed antenna bandwidth is $2 . 4 { \\sim } 1 1 ~ \\mathrm { G H z }$ ，achieves the good notch characteristics in 3.31\\~3.8 GHz and $4 . 9 8 { \\sim } 6 . 0 5 ~ \\mathrm { G H z }$ ,and shortens the entire antenna design cycle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Inverse neural network; HFSS; L1/2 norm; L2 norm; dual band-notched UWB antenna; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着无线通信技术的快速发展，天线发挥着不可或缺的作用，它是承载发射和接收无线电磁波、完成电磁转换的核心部件[1]。其中，超宽带通信系统占用的频段范围很广，其间覆盖了许多窄带通信标准，如IEEE802.16全球微波接入(worldwide interoperability for microwave access，WIMAX,$3 . 3 { \\sim } 3 . 7 ~ \\mathrm { G H z } \\mathrm { , }$ ，IEEE 802.1la 无线局域网(wirelesslocal areanetwork，WLAN，5.15-5.35GHz/5.725\\~5.825GHz)等。而超宽带系统的发射功率相对较低，很容易与这些窄带通信系统之间形成串扰，因此具有陷波特性的超宽带天线被提出，其陷波特性可以通过改变谐振结构的尺寸和位置，或通过改变辐射贴片上缝隙的长度、宽度等尺寸来改变[2.3]。传统的陷波天线设计与分析方法采用基于计算机的辅助设计方法（computer aideddesign,CAD），如高频结构仿真器HFSS等。在设计过程中，若天线的目标参量发生改变，则需要重新优化仿真，增加了设计时间，加大了设计难度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "神经网络以其并行计算能力，对于大型复杂非线性问题能快速建模求解等优点在射频微波天线建模与设计中得到了广泛应用。正向神经网络建模方法通过选择一个适当的神经网络模型来逼近或替代实际的器件[4I；逆向神经网络建模方法被训练用来设计器件，它可以通过给定的目标电参量综合出对应的模型参量[5。对于直接逆向神经网络，可以通过交换网络的输入输出数据来获得，其优点是建模速度快，但是由于输入与输出参量之间的多值映射关系，难以保证其收敛性和唯一性7]；Vai等人错误!未找到引用源·提出了双向 BP 神经网络建模方法，将正向建模与逆向设计方法联合，根据异质结双极晶体管放大器的频率响应对其电容电感进行逆向求解，这种方法使得解搜索过程变快，但对设计参数偏差不敏感；Mareddy 等人错误!未找到引用源。提出了对于多输入模型建立一系列候选逆模型的梯度逆向神经网络建模方法,将具有最小误差的候选逆模型作为理想逆模型与原始模型互补得到精确模型，并应用于传输线和螺旋电感的建模中，但这种方法的模型输出仅有一个，降低了建模效率；Kabir等人[7]提出在逆向神经网络训练前对数据进行分组处理的设计方法，根据分组规则消除多解问题，将各子逆模型的输出作为正向模型的输入，再选出满足要求的子逆模型按照一定规则合并，应用于波导滤波器三个关键参数设计中，这种方法过程复杂，精度易受子模型精度影响；Gosal等人[10]基于此分组逆向神经网络分别利用PSO（particle swarmoptimization）算法和GA（geneticalgorithm）算法[]优化的神经网络逆向建模技术，根据天线相位角逆向求解导体元件尺寸，用于传输阵列天线的设计中，但这种优化方法需要建立多个子模型较为复杂且耗时。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述直接逆向建模方法模型精度不高，其他逆向神经网络方法过程复杂，整个逆模型精度易受子模型精度影响以及单独使用HFSS软件设计天线，需要不断优化仿真十分耗时的问题，提出一种将稀疏正则化逆向神经网络与HFSS仿真软件联合设计的方法，通过改进的神经网络逆向求解方法取代了连续搜索的程序优化方法，在逆向神经网络性能函数中引入LI/2范数和 $\\mathrm { L } _ { 2 }$ 范数， $\\mathrm { L } _ { 1 / 2 }$ 范数扩充了输入样本向量，使得逆模型更易得到稀疏性解，且精度更高，而 $\\mathbf { L } _ { 2 }$ 范数能够有效避免过拟合现象，使得网络泛化能力更强，模型输出更加平滑。结合HFSS仿真软件，对双陷波超宽带天线进行设计，根据天线目标电压驻波比确定开槽尺寸，最终实现了良好的双陷波特性，成功滤除了WIMAX和WLAN 频段的干扰。此方法不需要建立单独的逆模型，在正模型的基础上实现了逆设计功能，在保证设计精度的同时，提高了设计速度，为天线的智能化设计提供了有效的解决方案。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 稀疏正则化逆向神经网络算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 逆向神经网络 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用具有一个输入层，两个隐含层和一个输出层的逆向神经网络结构，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2afb8ddf012b8d2ca8feab9752e1709ec2bdbfdcb1efaf4cdef5f8b4d51d2747.jpg",
+        "img_caption": [
+            "图1逆向神经网络结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\alpha = \\left( \\alpha _ { 1 } , \\cdots , \\alpha _ { l } , \\cdots , \\alpha _ { n } \\right)$ 是输入向量， $\\beta = ( \\beta _ { 1 } , \\cdots , \\beta _ { k } , \\cdots , \\beta _ { m } )$ 是输出向量， $\\mu _ { i l }$ 是输入层第 $\\mathbf { \\xi } _ { l }$ 个神经元和隐含层第 $i$ 个神经元之间的权值， $\\omega _ { j i }$ 是隐含层第i个神经元到隐含层第 $j$ 个神经元的权值，$\\boldsymbol { \\nu } _ { \\boldsymbol { k } \\boldsymbol { j } }$ 是隐含层第 $j$ 个神经元到输出层第 $k$ 个神经元之间的权值；$\\varphi _ { i q }$ 为第一个隐含层第 $i$ 个神经元输出， $h _ { j q }$ 为第二个隐含层第 $j$ 个神经元输出， $E$ 是目标输出向量 $t$ 与实际输出向量 $\\beta$ 之间的误差函数。传递函数采用tansig函数 $T ( \\bullet ) \\ , T ( \\bullet )$ 的导数为$T ^ { \\prime } { = } 1 { - } T ^ { 2 }$ 。此神经网络输出 $\\beta _ { k }$ 可以被计算为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { k } \\left( r l \\right) = 2 / \\left( 1 + e x p \\left( - 2 \\ast \\left( r l \\right) \\right) \\right) - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $r l$ 是加权输入。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同于正向建模中网络权值的改变，逆向神经网络的误差是由输入参量引起的，因此需要不断修正输入参量的值。更新公式如式（2）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\alpha _ { l q } } ^ { ( n + 1 ) } = { \\alpha _ { l q } } ^ { ( n ) } - \\eta \\frac { \\partial E } { \\partial { \\alpha _ { l q } } ^ { ( n ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $q$ 表示第 $q$ 组测试数据， $\\alpha _ { l q } ^ { ( n + 1 ) }$ 为更新后的第 $^ { n + 1 }$ 个参数，$\\alpha _ { l q } ^ { ( n ) }$ 为更新前的第 $n$ 个参数， $\\eta$ 为学习速率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2逆向神经网络建模过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于正向神经网络建模方法，可以通过已知器件的输入几何参数和输出电参数建立相应的器件模型。本文的逆向神经网络建模过程则是在正向模型的基础上通过逆向迭代算法实现逆设计功能，效率更高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具体方法如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)根据器件已知的输入几何参数和输出电参数建立器件正向模型;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）提取正向模型的权值参数；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）保持权值参数不变，根据逆模型目标输出电参数，利用稀疏正则化逆向神经网络学习算法更新逆模型输入几何参数，使误差函数 $E$ 最小或满足最大迭代次数；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)通过实际输出几何参数和目标几何参数之间的偏差来描述模型性能好坏。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3稀疏正则化逆向神经网络学习算法及其理论性能",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "直接逆向神经网络建模方法通过直接交换输入输出数据来获得逆模型，其精度难以保证，基于BP神经网络的逆向迭代算法存在泛化能力较差的缺点，而分组逆向神经网络建模方法过程复杂、整个模型精度易受子模型精度影响，因此，提出一种稀疏正则化逆向神经网络学习算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "正则化方法可以通过在最小化误差性能函数中加入约束项的方式[12]，实现对模型参数的约束，达到简化模型，获得稀疏平滑解的目的。其中， $\\mathrm { L } _ { 2 }$ 范数是常用的正则化方法，在其误差性能函数中引入L2范数可以得到：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = E _ { 0 } + \\lambda _ { 2 } * \\sum _ { q = 1 } ^ { q } \\bigl \\| \\omega \\bigr \\| _ { 2 } = E _ { 0 } + \\lambda _ { 2 } * \\sum _ { q = 1 } ^ { q } \\bigl | \\omega \\bigr | ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $E _ { 0 }$ 代表初始误差性能函数，第二项为 $\\mathrm { L _ { 2 } }$ 惩罚项， $\\lambda _ { 2 }$ 是惩罚项系数，对误差函数求导可得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } E } { \\hat { \\sigma } \\omega } = \\frac { \\hat { \\sigma } E _ { 0 } } { \\hat { \\sigma } \\omega } + 2 \\lambda _ { 2 } \\omega\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，权值更新为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\omega = \\omega - \\eta \\displaystyle \\frac { \\partial E _ { 0 } } { \\partial \\omega } - 2 \\lambda _ { 2 } \\omega } \\\\ { = \\big ( 1 - 2 \\lambda _ { 2 } \\big ) \\omega - \\eta \\displaystyle \\frac { \\partial E _ { 0 } } { \\partial \\omega } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "未引入 $\\mathrm { L } _ { 2 }$ 惩罚项时，权值参量 $\\omega$ 前系数为1，引入 $\\mathrm { L } _ { 2 }$ 惩罚项后，系数变为 $1 - 2 \\lambda _ { 2 }$ ，其中 $0 < \\lambda _ { 2 } < 1$ ，则有 $1 - 2 \\lambda _ { 2 } < 1$ ，具有权重衰减效果，由此可知引入 $\\mathbf { L } _ { 2 }$ 范数的意义在于限制了模型参量的值，使得模型输出更加平滑，避免了过拟合现象，对测试数据的拟合效果更好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而作为具有稀疏化效果的 $\\mathrm { L } _ { 0 }$ 范数是指向量中非0元素的个数，利用L范数来约束权值参数，简化了模型结构，但 $\\mathrm { L } _ { 0 }$ 范数存在难以优化求解的问题。 $\\mathrm { L } _ { 1 }$ 范数是L范数的最优凸近似，从模型空间的角度出发， $\\mathrm { L } _ { 1 }$ 范数的约束区域如图2(a)所示为一个正方形，约束区域与误差函数等高线首次相交的地方就是最优解，当相交点汇聚在坐标轴时有 $\\scriptstyle { \\omega = 0 }$ ，产生一个零系数解，具有稀疏性。徐宗本等人提出在稀疏意义下， $\\mathbf { L } _ { 1 / 2 }$ 范数能对网络进行有效的剪枝[13][14]，与Li范数相比，Li/2范数的约束区域与等高线存在明显的交点，如图2(b)所示，更易得到具有稀疏性的解。但对于L2范数，如前所述，在训练过程中能大大改善过拟合现象，提高网络泛化能力，然而由图2(c)可以看出没有存在与坐标轴明显的交点，即在首次相交处出现具有稀疏性解的概率非常小，稀疏化能力稍显不足。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0587648e7e8caaf290977f0a77df3a6a5c663be3ac319dfdbf04468165111246.jpg",
+        "img_caption": [
+            "图2三种范数的稀疏性解"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于上述两种范数的性能，在BP逆向神经网络误差性能函数中同时引入 $\\mathrm { L } _ { 1 / 2 }$ 范数和 $\\mathrm { L _ { 2 } }$ 范数作为惩罚约束项，令L范数最小，即模型各元素更接近于零，使得输出更加平滑，避免了过拟合现象，但它使得算法的计算复杂度增加，因此引入 $\\mathrm { L } _ { 1 / 2 }$ 范数，新增的 $\\mathrm { L _ { 1 / 2 } }$ 范数使得模型部分参数等于零，减少了非零参数的数量，具有稀疏意义，使得模型在较少的参数作用下更易得到稀疏性解。然而， $\\mathrm { L } _ { 1 / 2 }$ 范数在追求稀疏性的同时，是以牺牲对于局部特征的描述为代价的，而L2范数的作用是当 $\\lambda _ { 2 }$ 充分大时，可以收缩待估计参数，产生平滑的输出向量，提高了网络的泛化能力，补偿了这一不足。由于逆向神经网络迭代算法的误差 $E$ 是由输入参量 $\\alpha _ { l q }$ 引起的，因此其误差性能函数 $E$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\sum _ { q = 1 } ^ { q } E _ { q } = \\frac { 1 } { 2 } \\sum _ { q = 1 } ^ { q } \\sum _ { k = 1 } ^ { m } \\bigl ( \\beta _ { k q } - t _ { k q } \\bigr ) ^ { 2 } + \\lambda _ { 1 / 2 } * \\sum _ { q = 1 } ^ { q } \\mathopen { } \\mathclose \\bgroup \\left\\| \\alpha _ { k q } \\aftergroup \\egroup \\right\\| _ { 1 / 2 } + \\lambda _ { 2 } * \\sum _ { q = 1 } ^ { q } \\mathopen { } \\mathclose \\bgroup \\left\\| \\alpha _ { l q } \\aftergroup \\egroup \\right\\| _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\| \\cdot \\| _ { 1 / 2 } ^ { 1 / 2 }$ 表示 $\\mathrm { L _ { 1 / 2 } }$ 范数， $\\left. \\alpha _ { l q } \\right. _ { 1 / 2 } = \\sum _ { q = 1 } ^ { q } \\bigl | \\alpha _ { l q } \\bigr | ^ { 1 / 2 }$ ， $\\left\\| \\cdot \\right\\| _ { 2 }$ 表示 $\\mathrm { L _ { 2 } }$ 范数，$\\left. \\alpha _ { l q } \\right. _ { 2 } = \\sum _ { q = 1 } ^ { q } \\bigl | \\alpha _ { l q } \\bigr | ^ { 2 }$ ， $\\lambda _ { 1 / 2 } , \\lambda _ { 2 } > 0$ 是惩罚项系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了求得稀疏正则化逆向神经网络的迭代算法公式，需要求解式（6）性能函数关于输入参量 $\\alpha _ { l q }$ 的导数，将其分解为以下三个独立的优化问题：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { x } = \\frac { 1 } { 2 } \\sum _ { q = 1 } ^ { q } \\sum _ { k = 1 } ^ { m } \\left( \\beta _ { k q } - t _ { k q } \\right) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { y } = \\lambda _ { 1 / 2 } * \\sum _ { q = 1 } ^ { q } \\left\\| \\alpha _ { l q } \\right\\| _ { 1 / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { z } = \\lambda _ { 2 } * \\sum _ { q = 1 } ^ { q } \\Bigl \\| \\alpha _ { l q } \\Bigr \\| _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一个隐含层输出 $\\varphi _ { i q }$ 可由下式计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi _ { i q } = T \\Biggl ( \\sum _ { l = 1 } ^ { n } \\mu _ { i l } \\mathrm { \\mathrm { \\scriptsize ~ ^ { * } ~ } } \\alpha _ { l q } \\Biggr )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出值 $\\varphi _ { i q }$ 对第 $l$ 个输入值 $\\alpha _ { l q }$ 的偏导为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial { \\varphi _ { i q } } } { \\partial { \\alpha _ { l q } } } = { \\mu _ { i l } } ^ { * } ( 1 - { \\varphi _ { i q } } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二个隐含层输出 $h _ { j q }$ 可由下式计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { j q } = T \\left( \\sum _ { i = 1 } ^ { x } \\omega _ { j i } \\mathrm { \\mathrm { ^ * } } \\varphi _ { i q } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出值 $h _ { j q }$ 对输入值 $\\varphi _ { i q }$ 的偏导为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } h _ { j q } } { \\hat { \\sigma } \\varphi _ { i q } } = { \\omega _ { j i } } ^ { * } ( 1 - { h _ { j q } } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "隐含层输出 $h _ { j q }$ 对输入值 $\\alpha _ { l q }$ 的偏导为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } h _ { j q } } { \\hat { \\sigma } \\alpha _ { l q } } = \\frac { \\hat { \\sigma } h _ { j q } } { \\hat { \\sigma } \\varphi _ { i q } } \\ast \\frac { \\hat { \\sigma } \\varphi _ { i q } } { \\hat { \\sigma } \\alpha _ { l q } } = { \\omega _ { j i } } ^ { \\ast } ( 1 - { h _ { j q } } ^ { 2 } ) \\ast { \\mu _ { i l } } ^ { \\ast } ( 1 - { \\varphi _ { i q } } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此网络第 $k$ 个输出值 $\\beta _ { k q }$ 可以被计算为： ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { k q } = T \\left( \\sum _ { j = 1 } ^ { y } \\nu _ { k j } \\ast h _ { j q } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第 $k$ 个输出值 $\\beta _ { k q }$ 对输出值 $h _ { j q }$ 的偏导为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } \\beta _ { k q } } { \\hat { \\sigma } h _ { j q } } = \\nu _ { k j } \\ : ^ { * } ( 1 - { \\beta _ { k q } } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "那么，式（6）中性能函数 $\\boldsymbol { \\mathbf { \\mathit { E } } }$ 对于输入向量 $\\alpha _ { l q }$ 的偏导为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial E } { \\partial \\alpha _ { l q } } = \\sum _ { q = 1 } ^ { q } { \\left[ \\frac { \\partial E _ { x q } } { \\partial \\alpha _ { l q } } + \\frac { \\partial E _ { y q } } { \\partial \\alpha _ { l q } } + \\frac { \\partial E _ { z q } } { \\partial \\alpha _ { l q } } \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "误差函数 $E _ { x q }$ 对于输入参量 $\\alpha _ { l q }$ 的偏导为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } E _ { x q } } { \\hat { \\sigma } \\alpha _ { l q } } = \\frac { \\hat { \\sigma } E _ { x q } } { \\hat { \\sigma } h _ { j q } } \\cdot \\frac { \\hat { \\sigma } h _ { j q } } { \\hat { \\sigma } \\alpha _ { l q } } = \\left( \\frac { \\hat { \\sigma } E _ { x q } } { \\hat { \\sigma } \\beta _ { k q } } \\cdot \\frac { \\hat { \\sigma } \\beta _ { k q } } { \\hat { \\sigma } h _ { j q } } \\cdot \\frac { \\hat { \\sigma } h _ { j q } } { \\hat { \\sigma } \\alpha _ { l q } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设式（18）中的第一个因子如式（19）所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { c } E _ { x q } } { \\hat { \\sigma } \\beta _ { k q } } = \\frac { \\hat { \\sigma } \\Bigg [ \\frac { 1 } { 2 } \\sum _ { k = 1 } ^ { m } \\big ( \\beta _ { k q } - t _ { k q } \\big ) ^ { 2 } \\Bigg ] } { \\hat { \\sigma } \\beta _ { k q } } = \\sum _ { k = 1 } ^ { m } \\big ( \\beta _ { k q } - t _ { k q } \\big ) \\quad\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将式（19） （16）（14）代入式（18）可得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } E _ { x q } } { \\hat { \\sigma } \\alpha _ { l q } } = \\sum _ { k = 1 } ^ { m } \\mathopen { } \\mathclose \\bgroup \\left( \\beta _ { k q } - t _ { k q } \\aftergroup \\egroup \\right) \\triangleq \\nu _ { k j } \\mathclose { } ^ { * } \\mathclose \\bgroup \\left( 1 - \\beta _ { k q } ^ { 2 } \\aftergroup \\egroup \\right) \\ast \\omega _ { j i } \\mathclose { } ^ { * } \\mathclose \\bgroup \\left( 1 - h _ { j q } ^ { 2 } \\aftergroup \\egroup \\right) \\ast \\mu _ { i l } \\mathclose { } ^ { * } \\mathclose \\bgroup \\left( 1 - \\varphi _ { i q } ^ { 2 } \\aftergroup \\egroup \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "误差函数 $E _ { y q }$ 关于输入参量 $\\alpha _ { l q }$ 的偏导为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial E _ { y q } } { \\partial \\alpha _ { l q } } = \\lambda _ { 1 / 2 } * \\frac { s g n \\big ( \\alpha _ { l q } \\big ) } { 2 \\big | \\alpha _ { l q } \\big | ^ { 1 / 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $s g n \\left( \\cdot \\right)$ 为符号函数。误差函数 $E _ { z q }$ 关于输入参量 $\\alpha _ { l q }$ 的偏导为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } E _ { z q } } { \\hat { \\sigma } \\alpha _ { l q } } = 2 \\lambda _ { 2 } ^ { * } \\alpha _ { l q }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，将式（20）～（22）代入到式（17）中可得 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\frac { \\hat { \\sigma } E } { \\hat { \\sigma } \\alpha _ { l q } } = \\sum _ { q = 1 } ^ { q } \\biggl [ \\frac { \\hat { \\sigma } E _ { x q } } { \\hat { \\sigma } \\alpha _ { l q } } + \\frac { \\hat { \\sigma } E _ { y q } } { \\hat { \\sigma } \\alpha _ { l q } } + \\frac { \\hat { \\sigma } E _ { z q } } { \\hat { \\sigma } \\alpha _ { l q } } \\biggr ] = } } \\\\ { { \\displaystyle \\quad \\quad \\sum _ { q = 1 } ^ { q } \\biggl [ \\sum _ { k = 1 } ^ { m } \\sum _ { j = 1 } ^ { y } \\sum _ { i = 1 } ^ { x } ( \\beta _ { k q } - t _ { k q } ) ^ { * } \\nu _ { k j } ^ { \\phantom { * } } ( 1 - \\beta _ { k q } ^ { 2 } ) ^ { * } } } \\\\ { { \\displaystyle \\qquad \\sum _ { q = 1 } ^ { q } \\biggl [ \\sum _ { k = 1 } ^ { m } \\sum _ { j = 1 } ^ { y } \\sum _ { i = 1 } ^ { x } ( \\sigma _ { j i } ^ { \\phantom { * } } \\ast ( 1 - h _ { j q } ^ { 2 } ) ^ { * } \\mu _ { i i } ^ { \\phantom { * } } \\ast ( 1 - \\varphi _ { i q } ^ { 2 } ) ^ { \\vphantom { * } } + \\lambda _ { 1 j 2 } ^ { \\prime } \\ast \\frac { s g n ( \\alpha _ { l q } ^ { \\phantom { * } } ) } { 2 | \\alpha _ { l q } ^ { \\phantom { * } } | ^ { 1 / 2 } } + 2 \\lambda _ { 2 } ^ { \\ast } \\ast \\alpha _ { l q } ^ { \\vphantom { * } } \\biggr ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将式（23）代入式（2）中，对输入几何参量迭代更新，实现逆向求解过程。在网络训练过程中调整正则化系数 $\\lambda _ { 1 / 2 }$ 和 $\\lambda _ { 2 }$ 的大小，调节了 $\\mathrm { L } _ { 1 / 2 }$ 范数和L2范数的比重来平衡稀疏和平滑两个问题，使其目标误差函数达到最小，网络性能最优。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 天线结构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用本文提出的稀疏正则化逆向神经网络对双陷波超宽带天线的陷波特性进行设计。其双陷波超宽带天线结构如图3所示。该天线采用厚度为 $1 . 6 ~ \\mathrm { \\ m m }$ ，长度为 $4 4 ~ \\mathrm { \\ m m }$ ，宽度为 $3 8 ~ \\mathrm { \\ m m }$ 的介质基板；该天线的辐射贴片由两个半圆形贴片组成，大半圆半径 $R$ 为 $1 1 \\ \\mathrm { m m }$ ；小半圆半径 $\\boldsymbol { r }$ 为 $7 . 5 \\ \\mathrm { m m }$ ；馈线宽度 $W _ { f }$ 为3.2mm；接地板高度 $L _ { f }$ 为 $1 8 ~ \\mathrm { m m }$ ；馈线距离接地板缝隙宽度 $s$ 为0.15mm；大半圆辐射贴片与接地板之间的高度 $g$ 为 $0 . 2 \\mathrm { m m }$ ；两个弧形槽的开槽角度 $A _ { 1 }$ ， $A _ { 2 }$ ；开槽的半径 $R _ { \\mathrm { { \\scriptscriptstyle 1 } } }$ ， $R _ { 2 }$ ；以及槽的宽度 $s _ { 1 }$ ，$s _ { 2 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/08376b807cb69c62da050415529e42d5818067730afd26330d4eaf0e1b56e71a.jpg",
+        "img_caption": [
+            "图3天线结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 逆向神经网络确定天线关键设计参数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将神经网络逆向建模技术应用到天线的设计中可以加快设计速度。在确定天线设计参数与响应值之间的关系后，只需将目标响应输入给神经网络逆模型，它就可以快速地求解天线各个设计参数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用本文提出的逆向神经网络对此超宽带天线进行设计，为解决窄带频段WIMAX和WLAN的干扰问题，此天线通过在辐射贴片上开两个弧形槽的方法产生双陷波特性，因此，该天线的关键设计参数是两个弧形槽的开槽角度 $A _ { 1 }$ ， $A _ { 2 }$ ，半径 $R _ { \\mathrm { { \\scriptscriptstyle 1 } } }$ ，$R _ { 2 }$ ，在HFSS软件仿真的基础上，使用神经网络逆设计方法求解双陷波超宽带天线的关键尺寸。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "具体逆建模流程如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "确定参数。网络输入参数一一A， $R _ { 1 }$ 和 $f _ { 1 }$ （或 $A _ { 2 }$ ， $R _ { 2 }$ 和 $f _ { 2 }$ ），输出参数—一电压驻波比VSWR（或 $V S W R _ { 2 }$ ）；使用HFSS 软件提取天线训练数据。在低频 $f _ { 1 }$ 范围为 $3 \\mathrm { G H z } { \\sim } 4 \\mathrm { G H z }$ 处，当A从110deg\\~120deg, $R _ { 1 }$ 从 $5 \\mathrm { m m } { \\sim } 7 \\mathrm { m m }$ ，对应的VSWR 范围为 $2 . 4 { \\sim } 5 . 4$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "训练神经网络正向模型。将2）中提取的数据分为训练集和测试集，获得神经网络正向模型，提取权值并保存；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "神经网络逆向求解。保持正向神经网络的权值不变，通过使模型的输出（电压驻波比VSWR）与目标电压驻波比VSWR'相等或保持在一定的误差范围内，逆向迭代求解网络的输入（几何参数），以此来实现逆向求解超宽带天线几何参数的目的。该神经网络逆模型一旦训练好就意味着低频处参数 $A _ { 1 }$ ， $R _ { \\mathrm { i } }$ 和VSWR之间的关系已经确定；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用神经网络逆模型求出当 $f _ { 1 }$ 为 $3 . 4 \\mathrm { G H z }$ ，VSWR最大值时的A和 $R _ { \\mathrm { { _ 1 } } }$ 值。此时的A和 $R _ { \\mathrm { { 1 } } }$ 值就是当天线在 $3 . 4 \\mathrm { G H z }$ 处产生最佳陷波特性时的A和 $R _ { 1 }$ 值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同理，在高频 $f _ { 2 }$ 范围为5GHz\\~7GHz处，当 $A _ { 2 }$ 从",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "50deg\\~60deg， $R _ { 2 }$ 从 $\\mathrm { 8 m m } { \\sim } 1 0 \\mathrm { m m }$ ，对应的 $V S W R _ { 2 }$ 范围为 $3 . 1 { \\sim } 8 . 8$ 。得到了高频处输入 $A _ { 2 }$ ， $R _ { 2 }$ 参数与输出 $V S W R _ { 2 }$ 之间的关系后，将这些数据输入到神经网络逆模型中；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "建立神经网络逆模型。网络输入为 $A _ { 2 }$ ， $R _ { 2 }$ ，输出为 $V S W R _ { 2 }$ ;逆向求解出当 $f _ { 2 }$ 为 ${ 5 . 6 \\mathrm { G H z } }$ ， $V S W R _ { 2 }$ 最大值时对应的 $A _ { 2 }$ 和 $R _ { 2 }$ 值。此时的 $A _ { 2 }$ 和 $R _ { 2 }$ 值就是当天线在 ${ 5 . 6 } \\mathrm { G H z }$ 处产生最佳陷波特性时的 $A _ { 2 }$ 和 $R _ { 2 }$ 值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最后，将得到的A， $A _ { 2 }$ ， $R _ { \\mathrm { { 1 } } }$ ， $R _ { 2 }$ 参数值代入到HFSS软件中仿真，若仍存在误差则在HFSS中进行微调。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 稀疏正则化逆向神经网络天线仿真结果及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用传统的基于高频结构仿真器HFSS的搜索优化方法，一旦天线的任意一个参数值改变，都需要重新仿真，增加了设计代价。而基于逆向神经网络的器件模型一旦建好，其求解速度快于HFSS软件方法，不需要已知器件的先验知识，提高了设计效率。这里，将本文提出的稀疏正则化逆向神经网络建模方法与BP逆向神经网络建模方法、直接逆向建模方法和HFSS软件仿真方法进行比较。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1超宽带天线双陷波特性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此双陷波超宽带天线开槽角度A和半径 $R _ { \\mathrm { { l } } }$ 值对天线VSWR的影响曲线如图4和5所示。在低频处随着A和R值的增大，陷波中心频率向左移动，VSWR也不断增大。而在高频附近，VSWR 曲线陷波中心频率几乎没有偏移。因此从图4、5中可以知道，第一处陷波是A、 $R _ { \\mathrm { { _ 1 } } }$ 对应的弧形槽产生的，VSWR 值及陷波中心频率会随着A和R值的变化而变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3d564c8be49bf27e10e051869aa7b886f85290ef66585ff19cbc2ec72314419.jpg",
+        "img_caption": [
+            "图4A不同值对VSWR的影响曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6358a40640663dffb1d99462f609e366b247710bf1e19b020a27abbd0e5851ad.jpg",
+        "img_caption": [
+            "图5 $R _ { \\mathrm { { l } } }$ 不同值对VSWR的影响曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "角度 $A _ { 2 }$ 和半径 $R _ { 2 }$ 的值对 $V S W R _ { _ 2 }$ 的影响曲线如图6和7所示。在高频处，随着 $A _ { 2 }$ 和 $R _ { 2 }$ 值的增大陷波中心频率依次左移， $V S W R _ { 2 }$ 值也不断增大。而在低频附近，陷波中心频率几乎没有变化。这说明第二处陷波是 $A _ { 2 }$ 、 $R _ { 2 }$ 对应的弧形槽产生的， $V S W R _ { 2 }$ 值和陷波中心率会随着 $A _ { 2 }$ 和 $R _ { 2 }$ 值的变化而变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb9b5a4a96eadbb03b1bfaa023702d9e2852f52f6e36086f10c0caaa7bcca101.jpg",
+        "img_caption": [
+            "图6 $R _ { \\mathrm { 1 } }$ 不同值对 $V S W R _ { 2 }$ 的影响曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1396c37807e3c61601ddf57fb1a97f48f7165e1c784f3dd27c211013d4d86ef.jpg",
+        "img_caption": [
+            "图7 $R _ { 2 }$ 不同值对的 $V S W R _ { 2 }$ 影响曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "天线的 $s _ { 1 }$ 参数对天线陷波中心频率的影响曲线如图8所示。$s _ { \\mathrm { 1 } }$ 参数变化时，天线的陷波中心频率基本不变，它主要影响此天线的陷波处带宽。这里，当 $s _ { 1 }$ 取一个固定值时，此天线高频和低频处的陷波中心频率主要受开槽角度和半径的影响。同理，可知 $s _ { 2 }$ 参数对天线陷波中心频率的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e16edfe50ee315ad1c92bc6a6e309790eb5f8ddb2db3feff01fa8a19d0b99169.jpg",
+        "img_caption": [
+            "图8 $s _ { \\mathrm { 1 } }$ 对天线陷波中心频率的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2逆向神经网络天线仿真结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这里，以低频 $f _ { 1 }$ 范围为 $3 \\mathrm { G H z } { \\sim } 4 \\mathrm { G H z }$ 处角度A、半径 $R _ { \\mathrm { { \\scriptscriptstyle 1 } } }$ 与VSWR 的关系为例，比较本文逆向神经网络建模方法、BP 逆向神经网络建模方法、直接逆向建模方法和HFSS软件仿真方法的仿真结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用HFSS软件中的天线模型提取1000 组数据，在低频处，角度A 取值范围为110deg\\~120deg，间隔为1deg，半径 $R _ { \\mathrm { { l } } }$ 取值范围为 $5 \\mathrm { { m m } \\mathrm { { \\sim } 7 \\mathrm { { m m } } } }$ ，间隔为 $0 . 2 \\mathrm { m m }$ ，相应的VSWR范围为$2 . 4 { \\sim } 5 . 4$ 。为使量纲保持一致，首先，对数据进行归一化处理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别取920组训练数据和50组测试数据，根据实验情况，本文逆向建模方法隐含层神经元个数第一层取10，第二层取12，学习速率取为0.17，误差限设为1e-5，最大迭代次数设为1000，惩罚项系数 $\\lambda _ { 1 / 2 }$ 取0.15， $\\lambda _ { 2 }$ 取0.2。惩罚项系数变化时，逆模型50组A、 $R _ { \\mathrm { { _ 1 } } }$ 测试输出与实际输出误差比较如表1所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd1b63dc5745ae7c296b7d5b6a939846472ace74e7f0beb8b76e1875fbb7b550.jpg",
+        "table_caption": [
+            "表1惩罚项系数变化时误差比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1/2</td><td></td><td>A误差</td><td>R误差</td><td>/2</td><td></td><td>A误差</td><td>R误差</td></tr><tr><td rowspan=\"5\">0.05</td><td>0.05</td><td>0.373</td><td>0.0398</td><td></td><td>0.05</td><td>0.201</td><td>0.0267</td></tr><tr><td>0.10</td><td>0.381</td><td>0.0357</td><td></td><td>0.1</td><td>0.198</td><td>0.0376</td></tr><tr><td>0.15</td><td>0.232</td><td>0.0372</td><td>0.15</td><td>0.15</td><td>0.173</td><td>0.0201</td></tr><tr><td>0.2</td><td>0.252</td><td>0.0401</td><td></td><td>0.2</td><td>0.101</td><td>0.0104</td></tr><tr><td>0.25</td><td>0.271</td><td>0.0474</td><td></td><td>0.25</td><td>0.135</td><td>0.0203</td></tr><tr><td rowspan=\"5\">0.1</td><td>0.05</td><td>0.223</td><td>0.0365</td><td></td><td>0.05</td><td>0.259</td><td>0.0139</td></tr><tr><td>0.10</td><td>0.274</td><td>0.0387</td><td></td><td>0.1</td><td>0.176</td><td>0.0346</td></tr><tr><td>0.15</td><td>0.259</td><td>0.0253</td><td>0.2</td><td>0.15</td><td>0.225</td><td>0.0228</td></tr><tr><td>0.20</td><td>0.296</td><td>0.0281</td><td></td><td>0.2</td><td>0.269</td><td>0.0241</td></tr><tr><td>0.25</td><td>0.283</td><td>0.0211</td><td></td><td>0.25</td><td>0.247</td><td>0.0308</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将三种逆建模方法求得的角度A、半径 $R _ { \\mathrm { { _ 1 } } }$ 与HFSS 软件仿真结果进行对比，对比结果及测试误差如图9、10、11、12所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/12ac9c3c9a3fdf6a02e548fe534b58130c9c50fda2b66595cec0f3d544e5b568.jpg",
+        "img_caption": [
+            "图9角度A拟合曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/278fce6622a8300700fb2812ab3e565b5e033511f6acd5ce681c32b12c143d43.jpg",
+        "img_caption": [
+            "图10角度A测试误差对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a745720ea19318ad39b80705392ce50638f4937e51e01a63f2ddd82408702d7c.jpg",
+        "img_caption": [
+            "图11半径 $R _ { \\mathrm { { l } } }$ 拟合图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e116232d6f95246c941d831f6fa9ab90d3f88bd333bd11acea233a2e8ff01b6b.jpg",
+        "img_caption": [
+            "图12半径 $R _ { \\mathrm { { \\scriptscriptstyle 1 } } }$ 测试误差对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于直接逆向建模方法，其输入输出关系存在一对多的多解问题，导致模型精度不高。BP逆向建模方法与本文逆建模方法相比，测试误差偏大，其主要原因是训练过度造成的过拟合现象。由于本文采用将 $\\mathrm { L } _ { 2 }$ 范数与 $\\mathrm { L } _ { 1 / 2 }$ 范数相结合的逆向迭代算法，逆模型精度更高，网络泛化能力更强。对比结果如表2所示，与BP逆建模方法相比，网络运行时间减少了 $1 5 . 9 \\%$ ， $A _ { 1 }$ 相对误差减小了 $6 9 . 3 \\%$ ， $R _ { \\mathrm { { \\scriptscriptstyle 1 } } }$ 相对误差减小了 $8 8 . 7 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/dced22b9be0cb88f955a9f0d38cd990d91e0ad96181b9ec88838e1e206e8775a.jpg",
+        "table_caption": [
+            "表2三种逆建模方法结果对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>运行时间/s</td><td>A 平均误差/deg</td><td>R平均误差/mm</td></tr><tr><td>直接逆建模方法</td><td>13.37</td><td>1.065</td><td>0.3422</td></tr><tr><td>BP 逆建模方法</td><td>10.39</td><td>0.329</td><td>0.0928</td></tr><tr><td>本文方法</td><td>8.742</td><td>0.101</td><td>0.0104</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 天线设计结果及分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最终，采用本文逆向建模方法所设计的双陷波超宽带天线的各个参量的数值如表3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d760ddeb28c6465a9485a37397b2c9d0357d2120cce8baaa616e4686427d5889.jpg",
+        "table_caption": [
+            "表3天线各尺寸参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参量</td><td>数值</td><td>参量</td><td>数值</td></tr><tr><td>W</td><td>38.0mm</td><td></td><td>0.2mm</td></tr><tr><td>L</td><td>44.0mm</td><td>S1</td><td>0.2mm</td></tr><tr><td>R</td><td>11.0mm</td><td>S</td><td>0.2mm</td></tr><tr><td>r</td><td>7.5mm</td><td>A</td><td>117.2deg</td></tr><tr><td>W,</td><td>3.2mm</td><td>A</td><td>55deg</td></tr><tr><td>L</td><td>18mm</td><td>R</td><td>6.4mm</td></tr><tr><td>s</td><td>0.15mm</td><td>R</td><td>8.7mm</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "天线阻抗的实部和虚部如图13所示，实线为天线阻抗的实部近似为 $5 0 0 \\mathrm { { h m } }$ ，虚线为天线阻抗的虚部近似为 $0 0 \\mathrm { { h m } }$ ，阻抗匹配效果较好。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9fd430c697aca94f537f428bc6be8b3f2af72c0c97c1985085878a1d0a1e9259.jpg",
+        "img_caption": [
+            "图13天线阻抗曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "天线在低频3.4GHz处的H面和E面辐射方向图如图14所示，在高频 $5 . 6 \\mathrm { G H z }$ 处的H面E面辐射方向图如图15所示，天线的全向性良好。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1e7352dc016373cc12f150144d14123cba4519e4b02ccc4c2b01f47a570fa9e.jpg",
+        "img_caption": [
+            "图 $1 4 ~ 3 . 4 \\mathrm { G H z }$ 处天线H面和E面方向图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f67dd296d37495a5b5fb2809d920c7861767659b927fa873ac8672acae8b8807.jpg",
+        "img_caption": [
+            "图 $1 5 ~ 5 . 6 \\mathrm { G H z }$ 处天线H面和E面方向图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "天线电压驻波比VSWR仿真曲线如图16所示。此天线除陷波频段外，在 $2 . 4 \\mathrm { G H z } ^ { \\sim } 1 1 \\mathrm { G H z }$ 的范围内VSWR均小于2，并在$3 . 4 \\mathrm { G H z }$ 和 $5 . 6 \\mathrm { G H z }$ 处产生了良好的陷波特性。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/10f6342b74abbee51f63d044b369c189171248b4fb45238ae48aa0756741607d.jpg",
+        "img_caption": [
+            "图16天线VSWR曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "天线的实物图如图17所示。天线实际尺寸为 $3 8 \\mathrm { m m } \\times 4 4 \\mathrm { m m }$ $\\times 1 . 6 \\mathrm { { m m } . }$ 0 ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f40d17454d530e23a03a5a43f480a8366a3f6f37c7a71440eeb7be21a7ffb70d.jpg",
+        "img_caption": [
+            "图17双陷波超宽带天线实物图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文将稀疏正则化逆向神经网络与HFSS联合的方法应用到双陷波超宽带天线的设计中，该逆向设计方法不需要建立单独的逆模型，在正模型的基础上实现逆向设计功能，逆模型精度更高，网络泛化能力更强；联合HFSS仿真软件，根据天线目标电参数逆向求解对应的几何参数，提高了设计效率；该超宽带天线可以滤除WIMAX和WLAN频段的干扰，实现了良好的双陷波特性。下一步计划提出更加高效的神经网络逆向建模方法，使用神经网络和HFSS联合优化的方法设计出多款性能更好的天线及天线阵。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]李桐.认知无线电中超宽带与频率可重构天线的研究[D].西安：西安 电子科技大学,2014.(Li Tong. Study on ultra-wideband and frequency reconfigurable antennas for cognitive radio systems [D].Xi,an:Xidian University, 2014.)   \n[2] 孙荣辉，高卫东，刘汉，等．一种新颖的双陷波超宽带天线设计[J]. 微波学报,2012,28 (2): 63-66.(Sun Ronghui,Gao Weidong,Liu Han,et al. Design of a novel dual band-notched ultra-wideband antenna [J]. Journal of Microwaves,2012,28 (2): 63-66.)   \n[3]Ojaroudi M, Ojaroudi N, Ghadimi N. Dual band-notched smal monopole antenna with novel coupled inverted U-Ring strip and novel Fork-Shaped slit for UWB applications [J]. IEEE Antennas and Wireless Propagation Letters,2013,12(1): 182-185.   \n[4]Kabir H, Yu Ming, Zhang Qijun. Recent advances of neural network-based EM-CAD[J]. International Journal of RF and Microwave Computer-Aided Engineering,2010,20(5): 502-511.   \n[5]Zhang Qijun, Gupta K C,Devabhaktuni V K.Artificial neural networks for RF and microwave design-from theory to practice [J].IEEE Trans on Microwave Theory and Techniques,2003,51 (4): 1339-1350.   \n[6]南敬昌，桑百行，高明明．基于高频结构仿真器和神经网络的双面双频 宽带偶极子天线设计 [J]．计算机应用,2014,34(10):3044-3047.(Nan Jingchang,Sang Baihang, Gao Mingming. Design of dual-band wideband dipole antenna based on HFSSand NN [J]. Journal of Computer Applications,2014,34(10): 3044-3047.)   \n[7]Kabir H,Wang Ying,Yu Ming,et al. Neural network inverse modeling and applications to microwave filter design [J].IEEE Trans on Microwave Theory and Techniques,2008,56 (4): 867-879.   \n[8]Vai MM, Wu Shuichi,LiBin,et al. Reverse modleing of microwavecircuits with bidirectional neural network models [J].IEEE Trans on Microwave Theory and Techniques,1998,46 (10): 1492-1494.   \n[9]Mareddy L,Almkawi M,Devabhaktuni V,et al. Gradient based reverse ANN modeling approach for RF//microwave computer aided design [C]/ Proc of the 7th European Microwave Integrated Circuits Conference.2012: 246-249.   \n[10] Gosal G, Mcnamara DA, Yagoub MCE.The use ofinverse neural networks in transmitarray antenna Design [C]// Proc of IEEE Antennas and Propagation Society International Symposium.2014:1272-1273. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11] Gosal G,Almajali E,DMcnamara,et al. Transmitarray antenna design using forward and inverse neural network modeling [J]. IEEE Antennas and Wireless Propagation Letters,2016,15:1483-1486. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12]孔繁锵，王丹丹，沈秋.L1-L2范数联合约束的鲁棒目标跟踪[J].仪器 仪表学报,2016,3 (37): 690-696.(Kong Fanqiang,Wang Dandan,Shen Qiu Robust object tracking via L1-L2 norm simultaneous constraint [J].Chinese Journal of Scientific Instrument,2016,3(37): 690-696.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13]Xu Zongben,Zhang Hai,Wang Yao,et al.L1//2 regularization [J]. Scienc( ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "China-Information Sciences,2010,53 (6):1159-1169. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14]黄炳家，王健，温艳青，等．带光滑L1//2正则化项的神经网络逆向迭 代算法收敛性分析[J]．中国石油大学学报：自然科学版,2015,39(2): 164-170.(Huang Bingjia,Wang Jian,Wen Yanqing,et al.Convergence analysis of inverse iterative algorithms for neural networks with L1//2 penalty [J]. Journal of China University of Petroleum: y: Natural Science, 2015,39 (2): 164-170.) ",
+        "page_idx": 7
+    }
+]

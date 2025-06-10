@@ -1,0 +1,390 @@
+[
+    {
+        "type": "text",
+        "text": "梓醇全丙酰化产物的微波合成及其神经保护作用初探\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程晓东」 张秋霞1,2李振兴」 董春红\\*蒋士卿³孙雨安」 王国庆1\\*1（郑州轻工业大学材料与化学工程学院 郑州450000）²（平顶山学院化学与环境工程学院 平顶山 467000）3（河南中医药大学 郑州 450002）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[目的］微波辅助合成具有潜在神经保护作用的梓醇全丙酰化产物（CP-6）。[方法］以梓醇、丙酰酐为原料，吡啶为溶剂和缚酸剂，微波辅助合成梓醇全丙酰化衍生物。CP-6 经FT-IR、HRMS、NMR 表征，采用MTT法筛查其神经保护活性。[结果］当丙酸酐与梓醇摩尔比为18，微波反应器反应温度 $8 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ，反应时间 $6 \\mathrm { ~ h ~ }$ ，梓醇在吡啶中浓度 $2 5 ~ \\mathrm { g / L }$ 时梓醇全丙酰化产物产率可达 $9 8 . 5 1 \\%$ 。 $\\mathrm { C P - 6 }$ 具有潜在的神经保护活性。[结论］CP-6 可经微波合成制得，其具有神经保护作用，是一种潜在的神经保护作用药物。关键词：微波辅助合成正交设计法梓醇全丙酰化产物神经保护剂分类号：TP393",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Microwave-Assisted Synthesis of Catalpol Perpropionylated ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Derivative and Its Neuroprotective Effect ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cheng Xiaodong' Zhang Qiuxia'²Li Zhenxing' Dong Chunhong?\\*Jiang Shiqing Sun Yu-an'Wang Guoqingl\\*   \n1(School of Materials and Chemical Engineering， Zhengzhou University of Light Industry， Zhengzhou 450000， China) (School of Chemical and Environmental Engineering, Pingdingshan University, Pingdingshan 467000, China) 3 (Henan University of Chinese Medicine, Zhengzhou 450o02， China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Objective] Synthesis of potential neroprotective agent catalpol perpropionylated derivative (CP-6)，and determination of the optimal microwav-assisted synthesis conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Methods] CP-6 was synthesized by microwave-assisted synthesis (MCAS) using catalpol and propionyl anhydride as raw materials and pyridine as solvent and acid-binding agent. It was characterized by FT-IR， HRMS, NMR and assayed for neuroprotective activity by MTT method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Results] When the molar ratio of propionic anhydride to catalpol is 18, the concentration of catalol in pyridine is $2 5 \\ \\mathrm { g / L }$ ，the reaction temperature of microwave reactor is $8 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ，and the reaction time is $6 \\mathrm { ~ h ~ }$ ，the yield of $\\mathrm { C P - 6 }$ can reach $9 8 . 5 1 \\%$ 元 CP-6 has potential neroprotective activity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Conclusions] CP-6 can be synthesized by microwave assisted synthesis,and it has neuroprotective effect and can be used as a potential neuroprotective drug.. Keywords: Microwave assisted synthesis (CCAS) Orthogonal design method Catalpol perpropionylated derivative Neroprotective agent ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "梓醇（catalpol）是从玄参科植物地黄新鲜或干燥块根中提取的小分子环烯醚萜苷类化合物[1l，在心脑血管系统、中枢神经系统、抗肿瘤、抗骨质疏松、抗炎、提高免疫等均有较强的药理活性[2-8]。随着全球人口老龄化趋势的加剧，人们对抗衰老药物的需求增加，而梓醇独特的药理活性，得到越来越多的关注。但是研究结果发现，梓醇作为一种小分子药物，水溶性较高，易口服，但由于其存在脂溶性较低、不易透过血脑屏障、半衰期较短等缺陷[9]，需要对梓醇进行结构修饰以提高其药理活性。我们前期利用分子对接技术对梓醇全丙酰化产物的抗衰老效果进行了预测，发现其可能具有抗衰老效果，采用常规合成反应合成了梓醇丙酰化衍生物[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但是在文献10报道的常规反应条件合成方法，存在反应时间长、合成效率低等缺点。微波合成法作为一种快速、简单和高效的加热技术运用于有机化学反应和材料的合成，具有快速、均匀、环保的优点[,12]。本研究拟选择梓醇与丙酸酐为原料，吡啶为溶剂和催化剂，通过微波辅助合成具有潜在神经保护剂的梓醇全丙酰化产物，采用电喷雾离子化－高分辨质谱（ESI-HRMS）法监控梓醇丙酰化过程，利用傅利叶红外变换光谱、高分辨质谱、核磁共振波谱法对其进行表征，并对梓醇全丙酰化产物的合成条件进行优化，以期得到合成效率高且环保的梓醇全丙酰化产物的合成条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 1 试剂与仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试剂材料：梓醇为实验室自地黄中提取，纯度为 $98 \\%$ ；丙酸酐、吡啶、碳酸氢钠、乙酸乙酯、无水硫酸钠、二氯甲烷为上海阿尔法化工有限公司生产分析纯级产品；乙腈为天津四友精细化学品有限公司生产的色谱纯级试剂；甲基硅油为常州龙城有机硅有限公司生产；超纯水由MiLL-QAdvantageA10 型超纯水仪（美国MiLLipore公司）制备。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "仪器设备：Thermo Fisher -Exactive Obitrap 型质谱仪、Nicolet iS5 型傅利叶红外变换光谱仪购自美国赛默飞世尔科技有限公司；核磁共振波谱仪购自美国安捷伦科技有限公司;RE-2000B 型旋转蒸发器、DLSB-5/20型低温冷却液循环泵、SHB－II型真空泵、MCR-3型常压微波反应器均购自郑州凯鹏实验仪器有限公司；AR224CN型电子天平（精度0.0001g）购自奥豪斯仪器公司；KQ－500DE型数控超声波清洗仪购自昆山舒美公司；10-100，20－200， $1 0 0 - 1 0 0 0 \\mu \\mathrm { L }$ 规格的移液枪购自德国艾本德 Eppendorf 公司；MiLL-QAdvantage A10 型超纯水仪购自美国Millipore公司；2XZ-2（120L）型真空泵购自上海五龙真空泵厂。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 实验部分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）梓醇全丙酰化产物的合成与纯化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在反应容器中加入一定量的梓醇，用一定量吡啶充分溶解，然后按照物质的量丙酸酐：梓醇 $= 1 2 { : } 1$ 的投料比加入丙酸酐。打开微波化学合成反应器电源，温度设为 $7 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，调节微波反应器的输出功率为 $100 \\%$ (900W)，合理调节搅拌速率，开启微波反应器。反应过程中，每隔一段时间用微量进样针从反应液中抽取 $1 0 \\mu \\mathrm { L }$ 反应液至进样瓶中，电喷雾离子化-高分辨质谱（ESI-HRMS）法对其进行检测[13,14]。反应终止后，用二氯甲烷 $3 0 ~ \\mathrm { m L }$ （分3次，每次 $1 0 ~ \\mathrm { m L }$ ）将三口圆底烧瓶中的反应液转入 $5 0 ~ \\mathrm { m L }$ 圆底烧瓶中，在旋转蒸发仪上蒸出吡啶（真空度0.1，温度 $5 0 \\mathrm { ~ ~ } ^ { \\circ } \\mathrm { C }$ ，冷凝酒精温度 $- 2 0 ^ { \\circ } \\mathrm { C }$ ）。然后依次用 $3 0 ~ \\mathrm { m L }$ 、 $2 0 \\mathrm { m L }$ 、 $1 0 ~ \\mathrm { m L }$ 乙酸乙酯将产品转移到 $2 0 0 ~ \\mathrm { m L }$ 分液漏斗中，然后加入 $4 0 ~ \\mathrm { m L }$ 饱和碳酸氢钠溶液以除去体系中的丙酸，静置分层，弃下层水相（此步骤重复3次），将收集的乙酸乙酯层加入适量无水硫酸钠进行干燥处理，静置分层，抽滤后得梓醇丙酰化产物粗品，然后用柱层析（填料：中性 ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ ，洗脱剂二氯甲烷:甲醇 $( \\mathrm { V } / \\mathrm { V } ) = 5 { : } 1 \\ \\mathrm { \\Omega }$ 纯化得到淡黄色固体梓醇全丙酰化产物。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）基于ESI-HRMS法的合成过程分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "合成过程中梓醇上的6个羟基可部分或全部生成丙酰化产物。将所取样品通过高分辨质谱仪的自动进样器进入到质谱仪中，根据梓醇及不同产物在正、负离子扫描模式下电离后的离子质荷比不同，对梓醇及丙酰化产物进行定性分析。ESI-HRMS方法：流动相比例，乙腈: $1 \\%$ 的甲酸水溶液 $\\stackrel { } { = } 9 0 { : } 1 0$ （V/V）;流速， $2 0 0 ~ \\mathrm { ~ \\textmu ~ L / m i n }$ ；毛细管温度 $2 5 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ；毛细管电压 $6 0 \\mathrm { V }$ ；tube 电压 $1 2 0 { \\mathrm { V } }$ 进样量 $0 . 1 \\mu \\mathrm { L }$ ；辅助气为氮气！ $( 1 0 \\mathrm { L / m i n } )$ ；鞘气 $4 0 \\mathrm { L } / \\operatorname* { m i n }$ ；skimmer 电压 $2 2 \\mathrm { V }$ ：扫描时间 $2 \\mathrm { m i n }$ ；扫描范围： $\\mathrm { m / z } = 3 6 0 - 8 0 0$ 。电子传输管温度 $2 7 5 \\ \\mathrm { ~ \\textdegree C }$ ；扫描模式：分别采用正、负离子扫描模式对反应液中梓醇丙酰化产物的电离方式进行确认，考察正、负离子扫描模式下梓醇丙酰化产物的定性分析结果的差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）合成条件优化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以丙酸酐和梓醇的摩尔比（A）、反应温度（B）、反应时间（C）、梓醇浓度（梓醇在吡啶中的浓度）（D），以梓醇全丙酰化衍生物的产率为考察指标，按照L9 $( 3 ^ { 4 } )$ 正交试验表进行工艺条件优化，正交设计因素水平如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8332157d37803bc78b330cb434eca0c20c345ccb8aa397d7b4906f1925ff4a64.jpg",
+        "table_caption": [
+            "表1正交试验方案因素水平表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">水平</td><td colspan=\"4\">因素</td></tr><tr><td>A(mmol/mmol)</td><td>B(C)</td><td>C (h)</td><td>D(g/L)</td></tr><tr><td>1</td><td>6:1</td><td>60</td><td>5</td><td>15</td></tr><tr><td>2</td><td>12:1</td><td>70</td><td>6</td><td>20</td></tr><tr><td>3</td><td>18:1</td><td>80</td><td>7</td><td>25</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4）合成产物表征与MTT筛查神经保护活性",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对产物进行 FT-IR、HRMS、 $\\mathrm { { } ^ { 1 } H N M R }$ 、 $^ { 1 3 } { \\mathrm { C N M R } }$ 表征，以确认合成产物为梓醇全丙酰化产物。采用MTT 筛查法测试CP-6神经保护活性[10]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1梓醇丙酰化产物电离模式的确认 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用高分辨质谱对混合物体系的质量分离优势，可避免利用传统色谱-质谱定性定量的不足[14]。本方法中选择正离子和负离子模式同时扫描，图1 和图 2是分别是在正、负离子扫描模式下梓醇与丙酸酐反应 $0 . 5 \\mathrm { h }$ 的质谱图。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f261a3930c8c088a5dd6ce1eb7e88e9e288236139ca1ef3bbdab2dc89629db3.jpg",
+        "img_caption": [
+            "图1正离子模式梓醇与丙酸酐反应 $0 . 5 \\mathrm { h }$ 的质谱图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b7fd9a535240e4730eee1e5d87ab354932b3465aa731a925891d3d6118a553e.jpg",
+        "img_caption": [
+            "图2负离子模式梓醇与丙酸酐反应 $0 . 5 \\mathrm { h }$ 的质谱图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以看出，在正离子扫描的模式下可以比较全面的看到梓醇0\\~6个羟基参与反应后的梓醇丙酰化产物的信息，其中 $\\mathrm { m } / \\mathrm { z } ~ 3 8 1 . 3 3$ 为梓醇的 $\\mathrm { [ M + N H _ { 4 } ] ^ { + } }$ 峰， $\\mathrm { m } / \\mathrm { z }$ 441.13为梓醇1个羟基参与反应 $\\mathrm { C P - } _ { 1 }$ 产物的 $\\mathrm { [ M + N a ] ^ { + } }$ 峰， $\\mathrm { m } / z { \\ } 4 9 7 . 5 0 \\$ 为梓醇2个羟基参与反应 $\\mathrm { C P - } _ { 2 }$ 产物的 $\\mathrm { [ M + N a ] ^ { + } }$ 峰， $\\mathrm { m } / z 5 3 3 . 5 0$ 为梓醇3个羟基参与反应 $\\mathrm { C P - } _ { 3 }$ 产物的 $\\scriptstyle { [ \\mathrm { M } + \\mathrm { H } ] } ^ { + }$ 峰， $\\mathrm { m } / \\mathrm { z } \\ 6 1 0 . 2 3$ 为梓醇4个羟基参与反应的 $\\mathrm { C P - } _ { 4 }$ 产物的 $\\left[ \\mathrm { M } \\mathrm { + N } \\mathrm { a } \\right] ^ { + }$ 峰， $\\mathrm { m } / z \\ 6 6 3 . 5 1$ 为5个羟基参与反应 $\\mathrm { C P - } _ { 5 }$ 产物的 $\\mathrm { [ M + N a ] ^ { + } }$ 峰， $\\mathrm { m / z } = 7 1 5 . 9 2$ 为全丙酰化CP-6产物的 $\\mathrm { [ M + N H _ { 4 } ] ^ { + } }$ 峰。因此，选择正离子模式作为质量扫描离子模式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2梓醇丙酰化产物的半定量分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "样品中不同化合物的含量与其质谱峰的强度和质谱峰的面积与含量成正比。合成过程中梓醇上的6个羟基可部分或全部生成丙酰化衍生物，利用特定产物积分面积占全部产物积分面积的比例计算特定酯化产物的相对含量。表2为梓醇0\\~6 个羟基丙酰化衍生物的化学式和相应离子的质谱数据。图3为正离子模式下反应 $0 . 5 \\mathrm { ~ h ~ }$ 梓醇丙酰化产物质谱峰积分图，该扫描方式下 $\\mathrm { C } _ { 0 } { \\sim } \\mathrm { C } _ { 6 }$ 的相对含量分别为 $6 . 5 2 \\%$ 、 $1 1 . 8 1 \\%$ 、 $2 6 . 2 1 \\%$ 、 $2 5 . 1 4 \\%$ 、 $12 . 4 0 \\%$ 、 $9 . 7 4 \\%$ 和 $8 . 1 8 \\%$ 。因此，可以利用电喷雾离子化－高分辨质谱（ESI-HRMS）跟踪分析梓醇丙酰化反应过程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b91f8126178b8b90c94a2b49296d0ace4bb6d626e3e05718f53a896aedb90fa5.jpg",
+        "table_caption": [
+            "表2梓醇0\\~6个羟基丙酰化产物的质荷比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>产物M [M+H]+</td><td>[M+NH4]+</td><td>[M+Na]+</td><td>[M+K]+</td></tr><tr><td>CP-0 363.13</td><td>380.15</td><td>385.11</td><td>401.22</td></tr><tr><td>CP-1</td><td>419.16 436.18</td><td>441.14</td><td>457.25</td></tr><tr><td>CP-2</td><td>475.18 492.20</td><td>497.16</td><td>513.28</td></tr><tr><td>CP-3</td><td>531.21 548.23</td><td>553.19</td><td>569.30</td></tr><tr><td>CP-4</td><td>587.24 604.26</td><td>609.22</td><td>625.33</td></tr><tr><td>CP-5</td><td>643.26 660.28</td><td>665.24</td><td>681.35</td></tr><tr><td>CP-6</td><td>699.29 716.31</td><td>721.27</td><td>737.38</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注： $\\mathrm { C P \\mathrm { - } _ { 0 } \\mathrm { - } C P \\mathrm { - } _ { 6 } }$ 分别为梓醇中0-6个羟基丙酰化产物，下同 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/559dbbdace0b1cb841a6d7e9a83c8a4b965511339b6f8f635ab3c54869e9463b.jpg",
+        "img_caption": [
+            "图3正离子模式下反应 $0 . 5 \\mathrm { h }$ 梓醇丙酰化产物质谱峰积分图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3梓醇全丙酰化产物的表征确认 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将纯化后的CP-6分别进行FT-IR、HRMS、 $^ 1 \\mathrm { H }$ NMR、 $^ { 1 3 } \\mathrm { C }$ NMR 测试，结果分别如图4、图5、图6和图7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/153a4cfe1272cbbcee13a02f475b1d44abc7e9f9676d21aff344e562c74f9234.jpg",
+        "img_caption": [
+            "图4CP $^ { \\cdot } 6$ 的红外光谱图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/51488bb650114d91446db4a3651acabe8cb69e08b937d5062da9c75c66fabcfa.jpg",
+        "img_caption": [
+            "图5CP-6的高分辨质谱图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1eef30aba72a686d375fea471b18d41fd648d14895b2f472864e1a5e224fa97b.jpg",
+        "img_caption": [
+            "图 $6 { \\mathrm { C P } } { \\mathrm { - } } _ { 6 } { } ^ { 1 } { \\mathrm { H N M R } }$ 谱图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/208b69e7458e1346c22df191d2e37c346a197dd47b6a1b056d3ec6212ee4ca2f.jpg",
+        "img_caption": [
+            "图7CP ${ } _ { 6 } { } ^ { 1 3 } \\mathrm { C }$ NMR谱图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图4所示FT-IR中 $1 7 4 0 . 8 \\mathrm { c m } ^ { - 1 }$ 为羰基的伸缩振动， $1 6 5 5 . 2 \\mathrm { c m } ^ { - 1 }$ 为 $\\scriptstyle { \\mathrm { C = C } }$ 伸缩振动， $1 4 6 0 ~ \\mathrm { c m ^ { - 1 } }$ ， $1 3 7 7 . 5 ~ \\mathrm { c m } ^ { - 1 }$ 为饱和C-H弯曲振动， $1 4 2 0 . 7 ~ \\mathrm { c m } ^ { - 1 }$ 为C-H变形振动， $1 1 5 9 . 9 \\mathrm { c m } ^ { - 1 }$ 为C-O 伸缩振动；图5中， $\\mathrm { m / z 6 9 9 . 2 8 0 6 }$ 为 $\\left[ \\mathrm { M + H } \\right] ^ { + }$ ， $\\mathrm { m } / \\mathrm { z } 7 1 6 . 3 0 6 0$ 为 $\\mathrm { [ M + N H _ { 4 } ] } ^ { + }$ ；图 $6 \\ { } ^ { 1 } \\mathrm { H } \\ \\mathrm { N M R }$ ，8:6.30(1H，dd， $J { = } 1 . 7$ ， $6 . 0 \\mathrm { H z }$ ，H-3)，5.25(1H,m，H-3')，5.16(1H，t， $\\mathrm { J } { = } 9 . 7 \\mathrm { H z }$ ，H-4')，4.95-5.00(2H，m，H-1'，2')，4.93(1H,dd， $\\scriptstyle \\mathbf { J = } 4 . 5$ ， $6 . 0 ~ \\mathrm { H z }$ ，H-4)，4.81-4.86(2H，m，H-10a，6)，4.80(1H，d， $\\scriptstyle { \\mathrm { J } = 4 . 5 }$ ，$6 . 0 \\ : \\mathrm { H z }$ ，H-4)， 4.81-4.86 (2H, m, H-10a,6), 4.80 (1H, d, $\\mathrm { J } { = } 5 . 6 ~ \\mathrm { H z }$ ,H-1), 4.10-4.26(2H, m, H-6'), 4.07 (1H, d, $\\mathrm { J } { = } 1 2 . 8 \\ \\mathrm { H z }$ ,H-10b),3.73 (1H,m,H-5'),3.65 (1H, s,H-7),2.61 (1H, dd, $\\scriptstyle { \\mathrm { J } = 7 . 8 }$ ， $9 . 4 ~ \\mathrm { H z }$ ，H-9),2.54 (1H,m,H-5),2.23-2.44 (12H,m, $\\mathrm { C H } _ { 2 } { \\times } 6 \\$ ),1.02-1.21 (18H, m, $\\mathrm { C H } _ { 3 } { \\times } 6 \\$ 。图 $7 ~ ^ { 1 3 } \\mathrm { C }$ NMR,8 174.54, 174.04,173.71, 173.62, 172.71,172.52, 141.00, 101.97, 96.60, 94.12, 79.34, 77.31, 77.20, 77.00, 76.68, 70.47, 67.94,62.71,61.60, 61.23, 58.62, 41.65, 34.86, 27.44, 27.42, 27.41, 27.33, 27.32, 27.16,9.15,9.07,8.99,8.97。表征结果表明，合成的梓醇全丙酰化产物为目标产物。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4合成条件的优化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "按照 $\\mathrm { L } _ { 9 } \\left( 3 ^ { 4 } \\right)$ 正交试验表安排试验，结果如表3所示。由极差 $R$ 值的大小可以判断各种因素对试验结果的影响，极差越大则表明因素对实验结果影响越大[15]。从表3正交试验处理结果可以看出，影响梓醇丙酰化反应影响的因素顺序是$A { > } \\mathrm { D > } \\mathrm { B > C }$ ，即丙酸酐和梓醇的摩尔比（A） $>$ 梓醇浓度（梓醇在吡啶中的浓度）(D） $>$ 反应温度（B） $>$ 反应时间（C））；优选的最佳合成条件为 $\\mathrm { A } _ { 3 } \\mathrm { B } _ { 3 } \\mathrm { C } _ { 2 } \\mathrm { D } _ { 3 }$ ，即 n(丙酸酐):n(梓醇 $) = 1 8 { : } 1$ ，微波反应器反应温度 $8 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ，反应时间 $6 \\mathrm { h }$ ，梓醇在吡啶中浓度 $2 5 \\mathrm { g / L }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4为最佳合成条件验证结果。从表4可以看出，优化的合成条件下，CP-6相对含量达到 $9 8 . 5 1 \\%$ ，说明正交试验得到的合成条件是比较合适的合成反应条件；同时可以，3组试验条件下梓醇全丙酰化的产率和其他衍生物的相对含量变化不大，说明合成条件较为稳定。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3491d42825067ff564e0ce26f65f5176fa96e652e193caf7a590ce30469936d.jpg",
+        "table_caption": [
+            "表3合成条件优化的正交试验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Number</td><td>A(mmol/mmol)</td><td>B(℃)</td><td>C(h)</td><td>D(g/L)</td><td>产率/%</td></tr><tr><td>1</td><td>6:1</td><td>60</td><td>5</td><td>15</td><td>15.19</td></tr><tr><td>2</td><td>6:1</td><td>70</td><td>6</td><td>20</td><td>21.16</td></tr><tr><td>3</td><td>6:1</td><td>80</td><td>7</td><td>25</td><td>34.26</td></tr><tr><td>4</td><td>12:1</td><td>60</td><td>6</td><td>25</td><td>83.24</td></tr><tr><td>5</td><td>12:1</td><td>70</td><td>7</td><td>15</td><td>71.89</td></tr><tr><td>6</td><td>12:1</td><td>80</td><td>5</td><td>20</td><td>92.54</td></tr><tr><td>7</td><td>18:1</td><td>60</td><td>7</td><td>20</td><td>90.20</td></tr><tr><td>8</td><td>18:1</td><td>70</td><td>5</td><td>25</td><td>97.00</td></tr><tr><td>9</td><td>18:1</td><td>80</td><td>6</td><td>15</td><td>90.02</td></tr><tr><td>K1</td><td>70.61</td><td>188.6</td><td>194.4</td><td>177.1</td><td></td></tr><tr><td>K2</td><td>247.67</td><td>190.1</td><td>204.7</td><td>203.9</td><td></td></tr><tr><td>K3</td><td>277.22</td><td>216.8</td><td>196.3</td><td>214.5</td><td></td></tr><tr><td>R</td><td>206.61</td><td>28.1</td><td>10.3</td><td>37.4</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/78ab8744821e0792ab45f5e02a441ad0a389fbf8ddb58ae49eb76ff88feb9a70.jpg",
+        "table_caption": [
+            "表4优选实验条件下的实验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>No.</td><td>CP-0/%</td><td>CP-1/%</td><td>CP-2/%</td><td>CP-3/%</td><td>CP-4/%</td><td>CP-5/%</td><td>CP-6/%</td></tr><tr><td>1</td><td>0.36</td><td>0.06</td><td>0.17</td><td>0.00</td><td>0.39</td><td>0.47</td><td>98.55</td></tr><tr><td>2</td><td>0.30</td><td>0.08</td><td>0.47</td><td>0.01</td><td>0.36</td><td>0.19</td><td>98.59</td></tr><tr><td>3</td><td>0.44</td><td>0.20</td><td>0.09</td><td>0.00</td><td>0.37</td><td>0.51</td><td>98.38</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5CP-6神经保护活性初步筛查 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在研究中采用MTT筛查法评价CP-6的抗神经细胞调亡活性。实验中采用链脲佐菌素(STZ)在体外诱导细胞损伤，该法广泛应用于通过氧化损伤诱导糖代谢、神经元凋亡和相互作用。如图8所示， $0 . 8 \\mathrm { m M } \\mathrm { S T } Z$ 可诱导 SH-SY5Y细胞活力下降 $2 9 . 9 4 \\% \\pm 1 . 4 8 \\%$ ，而与 $2 0 \\mu \\mathrm { M } \\mathrm { C P - } 6$ 共同孵育可有效逆转STZ诱导的细胞活力下降。结果表明，CP-6对神经元具有保护作用，是潜在的神经保护剂。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/af9ab5f703e94e4da0d351b951d5ae123f5e62df6537825a5564177f0f940880.jpg",
+        "img_caption": [
+            "图8MTT法筛查CP-6细胞活性"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以梓醇与丙酸酐为原料，吡啶为溶剂和催化剂，通过微波法合成梓醇全丙酰化产物。丙酸酐与梓醇摩尔比为18，微波反应器反应温度 $8 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ，反应时间 $6 \\mathrm { { h } }$ 梓醇在吡啶中浓度 $2 5 \\mathrm { g / L }$ 时梓醇全丙酰化产物相对含量达到 $9 8 . 5 1 \\%$ 。未经混合物体系分离的 ESI-HRMS 法可以作为梓醇丙酰化产物的合成过程分析方法，避免混合物体系分离分析缺点，为此类梓醇衍生物的合成分析提供新途径。CP-6具有神经保护活性，是一种潜在的神经保护剂。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］吉雪琪，孙鹏，祁建军，等．地黄生长期根叶中梓醇及总环烯醚萜苷含量变化[J].中国中药杂志，2014， 39(3)：466-470.(Ji Xueqi，Sun Peng，Qi Jianjun，et al． Changes of Catalpol and total iridoid glycosides in roots and leaves of Rehmannia glutinosa L.[J].China Journal of Chinese Materia Medica,2014,39(03) :466-470.)   \n[2] Huang Chaolian， Cui Yongliang，JiLele，etal． Catalpol decreases peroxynitrite formation and consequently exerts cardioprotective effects against ischemia/reperfusion insult[J]. Pharmaceutical Biology，2013， 51(4)：463-473. 30(01)：44-48.(Tan Lingli.，Cui Dandan,et al． Effects of Catalpol on the construction of neurovascular units after cerebral ischemia[J].Chinese Pharmacological Bulletin， 2014， 30 (01) :44-48.)   \n[4] Leong Pou K，Chen Jihang，Ko KamM. Chapter 4- Development of Chinese Herbal Health Products for the Prevention of Aging-Associated Diseases[J]. Natural Products and Drug Discovery，2018: 73-104.   \n[5] Wan Dong,Yang Xian， Wang Yuan，etal. Catalpol stimulates VEGF production via the JAK2/STAT3 pathway to improve angiogenesis in rats’stroke model[J]. Journal of Ethnopharmacology， 2016, 191:169-179.   \n[6] Liu Lan, Gao Hongwei, Wang Hongbo,et al. Catalpol promotes cellular apoptosis in human HCT116 colorectal cancer cells via microRNA-200 and the down regulation of PI3K-Akt signaling pathway[J]. Oncology Letters,2017,14(3)： 1168-1177.   \n[7] Lin Chao， Lu Ying， Yan Xiaojing，et al. Catalpol protects glucose-deprived rat embryonic cardiac cells by inducing mitophagy and modulating estrogen receptor[J]. Biomedicine and Pharmacotherapy，2017，89:973-982.   \n[8] Wang Jinhong， Xie Hai， Zhao Tingkun， et al. Catalpol regulates cholinergic nerve system function through effect on choline acetyl-transferase not M receptor affinity[J]. Biomedicine and Pharmacotherapy，2015，69:291-296.   \n[9] Carlos R. Pungitore,LeticiaG. Leo'n, Celina Garcl'a,et al. Novel antiprolifterative anlogs of the Taq DNA polymerase inhibitor catalpol[J]. Bioorganic and Medicinal Chemistry Letters 2007, 17（5）:1332-1335.   \n[10] Dong Chunhong，Liu Shuanglin，Cheng Xiaodong，et al. Design， synthesis,and preliminary biological evaluation of catalpol propionates as antiaging drugs[J]. BMC Chemistry, 2019,13(109) : 1-11.   \n[11] Gan Sinyee, Zakaria Sarani, Chia Chinhua,et al. Synthesis of kenaf cellulose carbamate using microwave irradiation for preparation of cellu-lose membrane［J]. Carbohydrate Polymers,2014, 106(15) :160-165   \n[12] Zhang Wensi,Lu Ping, Wang Zhiming,et al. Microw ave assisted SuZuki coupling reaction for rapid synthesis of conjugated polymer poly(9，9-dihexylfluorene)s as an example[J]. Journal of Polymer Science Part A:Polymer Chemistry，2013,51(9):1950-1955.   \n[13］董春红，王强，王国庆，等．一种丙酰化的梓醇衍生物及其制备方法和应用[P]．CN107739398A， 2018-02-07. (Dong Chunhong，Wang Qiang，Wang Guoqing，et al. Propionylated Catalpol derivative and preparation method and application thereof[P]． China: CN107739398A, 2018-02-07.）   \n[14］王国庆，褚铭林，李振兴，等．ESI-HRMS 法在梓醇丙酰化产物合成过程分析中的应用［J]．轻工学报， 2018，33(3)：1-7. (Wang Guoqing，Chu Minglin,Li Zhenxing，et al. Application of ESI-HRMS method in the analysis of the synthesis process of Catalpol propionylation products[J]. Journal of Light Industry，2018，33(3):1-7.）   \n[15］谢勇涛，尹静波，赵长稳，等．聚谷氨酸苄酯脱保护制备聚L-谷氨酸的正交实验研究［J].高等学校 化学学报，2008，129(1)：197-200.(Xie Yongtao，Yin Jingbo，Zhao Changwen，et al．0rthogonal Experimental Study on Deprotection of Poly(L-glutamic Acid) by Poly(benzyl glutamate)[J]. Chemical Journal of Chinese Universities,2008,29(1):197-200.）   \n（通讯作老，工国庄 蒂春红 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明\\*：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "董春红，王国庆：提出研究思路，设计研究方案;  \n程晓东，张秋霞：进行实验；  \n李振兴，孙雨安，蒋士卿：采集、清洗和分析数据；  \n程晓东，董春红，王国庆：论文起草；  \n王国庆：论文最终版本修订。",
+        "page_idx": 9
+    }
+]

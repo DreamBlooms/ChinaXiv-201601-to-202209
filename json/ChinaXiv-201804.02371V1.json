@@ -1,0 +1,507 @@
+[
+    {
+        "type": "text",
+        "text": "Femtocell中基于负载预测的基站休眠节能方案",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "代红英1，孙霞1，周朋光²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.重庆工程学院电子与物联网学院，重庆 400056;2 重庆邮电大学 通信与信息工程学院，重庆 400065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为达到 5G 中绿色节能通信的目标，在 Femtocell网络下提出一种基于负载预测的基站节能方案。首先收集Femtocell 基站（Femtocellbase station，FBS）下的吞吐量数据，根据小数据量法证明其存在混沌特性，并对 FBS 的负载进行学习和预测；然后在负载预测的基础上定义吞吐量率，根据吞吐量率设计一种用户终端切换流程，以保证用户终端的通信服务质量和能效；最后，计算 FBS 的实时发射功率，并对FBS 的发射功率做了预测和控制。仿真结果显示,该方案可以较为准确地预测FBS 的吞吐量变化态势，并在此基础上的休眠节能方案也可以很好地提升系统的能效，减小整体能耗。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Femtocell；混沌特性；负载预测；休眠策略 中图分类号：TN929.5 doi:10.3969/j.issn.1001-3695.2018.03.0113 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Energy-saving base station sleep strategy based on load prediction in Femtocell ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dai Hongying1, Sun Xia', Zhou Pengguang² (1 SchoolofElectronics&InternetOfhings,ChongqingInstituteofEngineering,Chonging456,China;2choolof Communication& Information Engineering,Chongqing UniversityofPosts &Telecom,Chongqing 40oo65,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In order toachieve the goal of green energy-savingcommunication in5G,aFemtocell energy-saving sleep strategy basednload prediction is proposedundertheFemtocellnetwork.Firstly,te throughputdataofFBS (FemtocellBase Station) is collectedandchaoticcharacteristicofthedatais verifiedaccording tothesmall-atamethod.Inaddition,theloadofFBSis leamed and predicted.Secondly,the throughput rate is defined on the basis of load prediction and user equipment switching processisdesignedaccording tothe troughputratetoensure thecommunicationservicequalityandenergyeficiency.Finally, thereal-time transmit powerofFBS iscalculatedandthe transmitpowerofFBS ispredictedandcontrolled.Thesimulation results showthatour schemecan predict the throughput changingtrend ofFBSaccurately,and the energy-saving sleepstrategy can also improve the energy efficiency of the system and reduce the overall energy consumption. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Femtocell; chaotic characteristics; load prediction; sleep strategy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5G移动通信系统备受全世界的关注，她的实现将为全世界的终端用户带来无与伦比的极致体验[1]。现研究阶段，衍生出多种重要的关键技术来支撑5G的运营，其中超密集网络技术在提升系统容量中作出的重大贡献而备受青睐[2]。超密集网络是一种通过大量部署低功率小基站实现提升系统吞吐量的目的，而Femtocell是超密集网络中必要的一类小功率基站。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在现有的研究探索中，多数专家学者关注了提升超密集网络下用户数据速率和能源效率等指标。但在能源效率这个指标下，并没有专家利用Femtocell的负载预测对其做出相应的休眠策略。大多集中在Femtocell的资源分配等节能领域，而极少涉及到负载预测。文献[3]中在LTE-A系统中的自组织网络下提出了一种基于虚拟小区呼吸的负载预测（loadprediction basedvirtualcellbreathing，LPVCB）方案，该方案通过对系统负载的预测来减小新负载接入和控制切换参数对系统的影响，从而更准确地实现负载的均衡。文献[4]中对传统云计算负载预测中存在的低预测精度和满收敛速度等缺点进行了分析解决，提出了一种基于正余混沌双弦的鲸鱼优化（chaotic sine cosine operatorwhale optimization，CSCWO）算法，用于优化多层感知神经网络（multilayer perceptronneural network，MLP）的云计算系统负载预测。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "若对系统的负载做出预测，可以预知其系统工作量，通过关闭相关服务器就可以实现减小能耗的目的。另外，通过关闭相关的服务器也可以节省系统的资源，尤其是在移动通信系统中，在当今频谱资源匮乏的情况下，资源的节省将有利于对未来技术的发展。在密集部署Femtocell后，必将导致小区间的干扰增加，如果Femtocell的负载得到预测，那么Femtocell就可以根据其预测的负载做出减小发射功率或关闭等策略，如此一来，小区间的干扰也自然会得到控制。当然，Femtocell的负载预测也可以实现对小区间的负载均衡和数据流量做相应的监控。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另外，也有很多专家对绿色通信的相关技术做了深入的探讨。文献[5]提出了一种基于POMDP业务感知的微基站休眠周期时长确定策略，将休眠周期分成深度休眠和轻度休眠两类，基站首先进入深度休眠，当深度休眠持续时间结束时则转换到轻度休眠。但文章的算法计算中，仅仅得出了最优的深度睡眠时长，且忽视了浅度睡眠的时长计算，未达到文章的原定目标。文献[6]提出了基于集中式和非集中式算法来决定基站关断的算法，能够根据网络低负载的时候动态关断一些低负载基站，但是作者并没有实现对业务的预测。文献[7]提出了一种基于门限值的关断策略：基站当没有用户的时候处于关断状态，当有N个用户到达或者在一段时间后再开启基站。作者在此基础上权衡了功耗和时延对能效的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对当前对绿色5G超密集网络的研究现状进行分析后，提出一种基于负载预测的绿色基站休眠（load-prediction-based greenbase-station sleep，LGBS）策略，该策略分为两部分，第一部分中提取运营商下真实的吞吐量数据进行相关分析和预测；第二部分根据负载的预测结果进行基于门限值的基站休眠策略，另外也对激活状态下的Femtocell进行了功率的预测和控制。第一部分中首先确定了吞吐量的时间序列，通过算法的计算检验该时间序列具有混沌特性，在微观层面发现其发展态势的混沌特征；然后对吞吐量的时间序列进行相空间重构，在高维重构相空间中恢复系统的演化规律和特征；最后采用粒子群算法[8]对预测参数进行优化，再利用改进RBF模型对时间序列进行学习、预测。第二部分中，根据第一部分的负载预测结果设定一个阈值，并根据阈值的大小预先判定Femtocell是否进入休眠状态，在考虑Femtocell休眠对造成用户终端的掉话，还考虑了一个Femtocell与Macrocell间的切换算法，并在最后对激活状态的下的Femtocell做了功率的预测和控制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 吞吐量的混沌特性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1样本数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5G 的发展历程中，海量用户终端所产生的数据量将决定着Femtocell的吞吐量，而且无法直接预测用户的数量和数据速率。因而致使Femtocell吞吐量具有混沌特性，本文也将采用混沌理论思想对Femtocell吞吐量做出预测并加以运用，使得Femtocell网络在5G中更加绿色节能[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Femtocell现已应用到国内LTE的运营中去，并为特定的区域下海量用户终端提供了高速且稳定的通信服务。为了做出相关的验证工作，区别与文献[8]中的数据，我们选取了中国某地区繁华街区某Femtocell在2017/8/16到2017/8/25共计10天的吞吐量数据。整体数据可见图1（a)，8月16日当天的数据吞吐量可见图1（b)。把某运营商现有的Femtocell吞吐量的时间序列数据作为对系统吞吐量的历史数据进行分析是比较可靠、合理和准确的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcfff336234e36ec491961dca06a5d51a7cd385dd7a4926c0212dba2ba31cf99.jpg",
+        "img_caption": [
+            "（b）8月16日的Femtocell数据吞吐量"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2混沌特性分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文判断某系统的混沌特性将采用定量法，该方法中包含的主要算法有Lyapunov指数和关联维度等[9]。在使用该方法去查验系统的混沌特性时，因为Lyapunov 指数方法实现简单且能够在一定程度上反应系统的混沌特性，所以本文将采用Lyapunov指数的方法判定Femtocell吞吐量的时间序列数据是否具有混沌特性[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过C-C方法和G-P方法[10]求得的延迟时间5和嵌入维数5。对Femtocell吞吐量时间序列进行相空间重构，并利用小数据量法的原理，求各个变量的最大Lyapunov 指数，用于混沌特性的判别，如图2所示。其中，红线为最小二乘法拟合出的回归直线，直线的斜率即为所求最大Lyapunov 指数。 $D$ 时间序列对应的最大Lyapunov 指数分别为0.0063。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac33ca8fa3c2731637de6d0c6fcc693ba09243fb53a400674969bdb90d0559c9.jpg",
+        "img_caption": [
+            "图1Femtocell吞吐量的分布图。",
+            "图2小数据法求Lyapunov 指数"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3PSO 优化的 RBF算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "改进径向基函数（radialbasisfunction，RBF）神经网络[1]的架构能够划分为三层，第一层输入层、第二层隐含层及第三层输出层。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "粒子群优化（particle swarm optimization，PSO）算法的主要思想是每个粒子表示需优化问题的其中一个解，粒子按照适应函数的结果相继进行位置和速度的迭代更新，最后在空间运动过程中将优化问题的最优解计算出来[8,12]。PSO 算法的优点主要包括收敛速度快，实现较为简单。由于PSO算法对RBF的优化效果较好，受到众多专家和学者的青睐。如果定义RBF为一个预测函数，那么PSO算法就可以充当优化方法，其主要思想是对RBF中的相关预测参数进行优化，而经过PSO优化的RBF的预测效果和性能也得到了很大的提升。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的 Femtocell 吞吐量预测方案将以我们之前的研究成果为基础[8l：a)通过K-means聚类算法[13计算得出吞吐量时间序列的聚类中心和聚类结果，即分别得到吞吐量时间序列的中心值和其方差；b）将中心值和方差带入RBF高斯径向函数，能够确认RBF的神经网络架构；c）将需要得到优化的参数初始值进行整合，最后用RBF神经网络对吞吐量时间序列数据进行学习、预测。至此就得到Femtocell的吞吐量预测结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 绿色基站休眠策略 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1基站休眠方案",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在传统的基站休眠策略中，大多数的专家考虑的是根据基站接入的用户终端数量来判断基站是否进入休眠状态。参考文献[14]中提到了一种基于用户数量N的一种基站休眠策略，该策略中定义无用户连接的基站便进入休眠状态，当有N个用户分配到该基站时将唤醒这个基站。文章搭建了较为高效的$\\mathbf { M } / \\mathbf { G } / 1$ processor-sharing(PS)[15]模型，然后在该模型下考虑了功率资源的控制，并采用博朗W函数对最优功率进行优化计算，最后得出了传输速率和休眠时长的最优解。但是该方法中存在着一个较普遍的问题，就是当考虑用户接入数量的时候，并没有考虑用户当前的业务类型，即没有考虑每个用户和整体网络的吞吐量。综上所述，如果考虑用户终端的个数来匹配基站休眠的话，会出现一种情况：用户数量接入量很小，但每一个用户终端的数据速率很大，便会导致整体系统的吞吐量提升，若此时再对基站休眠，必将导致较差用户的用户体验和巨大的掉话率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过以上的分析，本文提出一种基于负载预测的绿色基站休眠策略。由本文第一章中通过混沌系统和改进RBF神经网络的学习和预测得出小基站在 $T$ 时刻的实际吞吐量 $\\boldsymbol { T } \\boldsymbol { H } _ { f } ^ { T }$ ，然后我们定义一个小基站吞吐量率 $T H _ { f }$ ，其定义是当前 $T$ 时刻的实际吞吐量 $\\boldsymbol { T } \\boldsymbol { H } _ { \\mathrm { \\ell \\ell } } ^ { T }$ 与其额定最大的系统容量 $C _ { f }$ 的比值：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT H _ { f } = \\frac { T H _ { f } ^ { T } } { C _ { f } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $C _ { f }$ 的大小由系统分配给Femtocell的最大带宽所决定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文定义了一个Femtocell 吞吐率的阈值 $\\beta$ [16]，其作用是预先判定是否将Femtocell置于休眠状态。那么本文的基站休眠策略可以定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { T H _ { f } \\leq \\beta , \\ \\mathrm { S L E E P M O D E } } \\\\ { T H _ { f } > \\beta , \\ \\mathrm { A C T I V E M O D E } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\beta$ 是用来判定Femtocell进入睡眠或者激活状态的阈值，若 Femtocell 吞吐率 $T H _ { f }$ 大于该阈值 $\\beta$ ，那么 Femtocell 便处于激活状态，否则，Femtocell将进入休眠状态。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Femtocell 的吞吐率 $T H _ { f }$ 小于一定的阈值，定义是将其休眠，则会出现一个问题：此时连接Femtocell的用户终端如何处置，这里我们设计了一种Femtocell与Macrocell的无缝预切换机制，保证用户终端不会发生掉话等情况，具体流程如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e97faf32ea2ea42d626b8d6fc5a0e41f47176d0b21aad6527895afd79f31e788.jpg",
+        "img_caption": [
+            "图3用户终端切换流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了降低由于Femtocell的关闭而导致的用户终端掉话率，采用将Femtocell接入的用户切换至Macrocell，由Macrocell为其继续提供服务。首先根据吞吐量的预测情况，进行子信道的预分配，然后判断用户终端是否为新用户，如果为新用户则按照正常的接入程序接入Femtocell；如果当前用户不是新用户，那么就注册到Macrocell，然后进行信干噪比的判断，如果高于门限值，那么就由Macrocell来服务，保证用户终端的速率体验和掉话率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基站功率控制方案",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在第一章节中预测了Femtocell的吞吐量，并通过一定的基站休眠和切换方案保证其较低的能耗，在本小节提出一种基于Femtocell负载预测的绿色功率控制方案。该方案根据预测出来的Femtocell吞吐量通过对香农公式的转换，可以得出激活状态Femtocell发射功率的计算方式，然后通过第一章的结果来对相关发射功率进行调整。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "吞吐量 $\\boldsymbol { T } \\boldsymbol { H } _ { f } ^ { T }$ 与发射功率 $P _ { f }$ 的关系式可以表达为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT H _ { f } ^ { T } = B \\cdot \\log _ { 2 } ( 1 + \\frac { G } { N _ { 0 } \\cdot B } \\cdot P _ { f } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $B$ 表示系统带宽， $G$ 表示信道增益， $N _ { 0 }$ 表示噪声功率。那么发射功率 $P _ { f }$ 的关系式可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { f } = \\frac { \\left( 2 ^ { \\frac { T H _ { f } ^ { T } } { B } } - 1 \\right) \\cdot N _ { 0 } \\cdot B } { G }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用文献[17]中的休眠和激活功率模型：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { _ { B S } } = { \\left\\{ \\begin{array} { l l } { P _ { 0 } + \\Delta _ { _ { P } } \\cdot P _ { _ { f } } , { \\mathrm { ~ A C T I V E ~ M O D E } } } \\\\ { P _ { _ { S L P } } , } & { { \\mathrm { ~ S L E E P ~ M O D E } } } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { 0 }$ 和 $P _ { { s L P } }$ 分别是激活模式和休眠模式的静态功率， $\\Delta _ { { \\scriptscriptstyle P } }$ 是激活模式下功率增加的斜率， $P _ { f }$ 是由式（4）计算得出。那么系统整体的功耗 $W _ { B S } ^ { t o t a l }$ 可以表达为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { B S } ^ { t o t a l } = \\left( P _ { 0 } + \\Delta _ { { P } } \\cdot P _ { { f } } \\right) \\cdot t _ { a } + P _ { S L P } \\cdot t _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $t _ { a }$ 和 $t _ { s }$ 分别表示处于休眠模式和激活模式下的时间[15]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以第1章的预测为基础计算了实时的Femtocell发射功率，并由模拟的数值转换为数字数值，详见图4。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea085ec4b84be8b633cca5ec56bb786c492d389c136c26f64c0d9ffdcc3d0c98.jpg",
+        "img_caption": [
+            "图4Femtocell发射功率"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1负载预测性能验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文的仿真场景基于MATLAB2014a。本文时间序列数据来源于某运营商的实际部署的Femtocell下吞吐量的统计结果，然后编写文中的相关算法对采样的数据进行预测试验，最后对预测结果做出了公平、客观的总结和定性。在对比实验时采取了绝对误差（Err）的概念，具体定义如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Err：用来直观的检测预测值与真实值的差值。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E r r } = x _ { i } - \\hat { x } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2500 Original value MMPredict value  \n2000  \n000  \n50015 20 25Time  \n（a）本文方法的负载预测对比图  \n300  \nMMww  \n-400  \n-500  \n60C10 15 20 25",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "（b）本文方法绝对误差图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5预测结果图",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文将某运营商部署下Femtocell共10天240个吞吐量时间序列数据分为两部分，第一部分168个数据用于神经网络的训练和预测，另一部分72个数据用于对比预测。如图5所示，图中显示了本文方法的负载预测结果及绝对误差。图5（a）中可以在本文方法下预测的负载与实际负载的变化趋势，而图5（b）中就可以清晰地看到本文方法在预测结果上的绝对误差，更好地控制了在预测结果出现的一些较为极端的峰值。通过以上分析，可以证明本文第二章的负载预测可以应用到基站休眠策略内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2整体绿色节能方案性能验证",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本小节内介绍了基于负载预测的节能方案的节能效果仿真结果。为了说明本文节能方案的性能，我们加入了对比算法，包括未添加节能方案的算法和文献[5,7]的算法，并且在性能对比的时候考虑了掉话率、系统能耗和能源效率等指标。主要的仿真参数如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/54e5d5e34daf30b4f48156821d19c09de97f56472d5afc6e18a72ff336aee102.jpg",
+        "table_caption": [
+            "表1仿真参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>parameters</td><td>value</td></tr><tr><td>system bandwidth</td><td>20 MHz</td></tr><tr><td>MBS carrier frequency</td><td>2 GHz</td></tr><tr><td>MBS transmission power</td><td>43 dBm</td></tr><tr><td>max FBS transmission power</td><td>30 dBm</td></tr><tr><td>noise power density</td><td>-174 dBm/Hz</td></tr><tr><td>radius of FBS</td><td>20 m</td></tr><tr><td>number ofFUE ina FBS</td><td>1~10</td></tr><tr><td>number ofFBS ina MBS</td><td>5~25</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9d257c78886e5d5780de94467110cdd41e9ecb0a0b6d34f4c4810de5a52a71f.jpg",
+        "img_caption": [
+            "图6掉话率对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在图6中，展示了两种方案在掉话率方面的性能对比，由于未加入休眠模式的掉话率太低，所以就未加入到本文的对比中。从图中可以看到随着FBS密度的增加，三种方案的用户终端掉话率都呈现上升趋势，文献[7]中考虑了用户连接的问题，掉话率上升较为平缓，但其忽略了用户切换的关键点。本文的LGBS方案上升趋势缓慢，有得到控制的趋势，而POMDP方案的掉话率的上升率很大。这是由于本文在考虑FBS休眠的过程中，加入了对用户终端切换的程序，可以使用户终端在保证服务质量的前提下关闭FBS，接入MBS。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54374221ae9d1806cd782031aa665743ea530b4f5a7e61fb18b9a85fbb3746d8.jpg",
+        "img_caption": [
+            "图7能效对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7显示的四种方案在不同FBS密度情况下的能效对比。图7中明显的看出未加入休眠模式的节能方案在能效方面的性能很差，不足以满足5G移动通信系统对绿色节能的要求。而相比之下，采用了LGBS与POMDP方案后的系统能效均得以提升，在FBS 数量约为10个的时候达到最优能效。文献[7]中仅提供基站开关的策略，并未提供整体的节能方案，未能达到较好的节能效果。LGBS方案比POMDP算法的能效要好的原因在于LGBS方案做了基于吞吐量预测的休眠模式，而该模式可以防止少量用户导致大吞吐量的极端现象，另外，还做了相应的功率控制及预测。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/16ab203902c68c2132fe3a031095b668c85975856fa986f2101c9fcbe7388393.jpg",
+        "img_caption": [
+            "图8系统损耗"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同FBS数量下四种方案的系统损耗显示在图8中。在图8中，未有休眠模式的系统能耗呈现直线上升趋势，LGBS与POMDP方案则呈现交叉上升趋势，但趋势缓慢。LGBS 与POMDP方案中采用的是几乎相同的功率模型，其主要是通过马尔科夫链得到了一个理论上的睡眠时间，缺少了对FBS发射功率的控制策略，也缺乏小区间的切换和预测。LGBS方案中首先是对系统吞吐量做出了预测，得到未来某时间段的预测值，本文采用该预测值对FBS的功率控制帮助极大，很好地控制了系统的整体能耗。文献[7]中的基站开关策略在FBS数量增加的时候性能较好，在后期的研究工作中也将针对本文算法的缺陷做出改进。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FBS将在未来5G移动通信系统中占据重要的地位，大量部署FBS必然会造成能源的损耗，所以绿色通信也必然成为大趋势。第一部分针对FBS负载的真实时间序列，分析其具有混沌特性，然后利用相空间重构为FBS负载的预测搭建模型，最后用PSO 算法对RBF神经网络做出优化、学习和预测。第二部分根据预测结果设计FBS的门限值休眠方案，再给出了FBS和MBS间的切换流程，最后由预测的负载计算FBS的发射功率，进一步优化系统的能效。经过仿真验证，本文的方案可以在保证负载预测精度的情况下，较好地提升系统的能效并控制系统的能耗，为实现绿色通信做出了相关的贡献。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]KamelM,Hamouda W, YoussefA. Ultra-dense networks: a survey[J]. IEEE Communications Surveys & Tutorials,2016,18 (4): 2522-2545.   \n[2]王纲，段红光，谭博文．超密集网络中基于干扰协调的资源分配算法 [J/OL].计算机应用研究，2018,35(6).(2017-06-14)[2018-02-18]. http://www.arocmag.com/article/02-2018-06-064. html.(Wang Gang, Duan Hongguang,Tan Bowen. Interference coordination-based resource allocation algorithm in ultra-dense network [J/OL].Application Research of Computers,2018,35 (6).)   \n[3]Zhao Xinsheng,Zhang Wei,Wang Chao.A Load prediction based virtual cell breathing scheme for LTE-A system [C]// Proc of Military Communications Conference.New York: IEEE Press,2014: 1296-1301.   \n[4] 谢建群，刘怡俊，李生．改进鲸鱼算法在云计算资源负载预测中的应用 [J]．计算机工程与应用,2017,33(11):66-75.(Xie Jianqun,Liu Yijun,Li Sheng.Application of improved whale algorithm in load forecasting of cloud computing resources [J].Computer Engineering and Applications, 2017,33 (11): 66-75.)   \n[5] 陈前斌，何小强，吴攀，等．基于部分可测马尔科夫决策过程业务感知 的微基站休眠时长确定策略[J].电子与信息学报，2018,1(12):130- 136.(Chen Qianbin,He Xiaoqiang,Wu Pan,et al.Micro base station sleeping cycle determination strategy based on partially cbserved markov decision process traffic aware [J].Journal of Electronics & Information Technology. 2018,1(12): 130-136.)   \n[6]Gong Jie,Zhou Sheng, Yang Zexi,et al. Green mobile access network with dynamic base station energy saving [J]. IEICE Technical Report Internet Architecture,2009,109 (262): 25-29.   \n[7]Son K,Kim H,Yi Y,et al.Base station operation and user association mechanisms for energy-delay tradeoffs in green cellular networks [J]. IEEE Journal on Selected Areas in Communications,2011,29 (8): 1525-1536.   \n[8]夏军，周朋光，谢小秋，等．一种 Femtocell 网络中的负载预测方法述 [J].重庆邮电大学学报：自然科学版,2018,30(4):101-111.(Xia Jun, Zhou Pengguang,Xie Xiaoqiu,et al.Aload prediction method for Femtocell network[J].Journal of ChongqingUniversityof Postsand Telecommunication: Natural Science,2018,30 (4): 101-111. )   \n[9] Wang Ziping,Wu Huaining. On fuzzy sampled-data control of chaotic systems viaa time-dependent lyapunov functional approach [J].IEEE Trans on Cybernetics,2015,45 (4): 819-829.   \n[10] Zhang Yong.New prediction of chaotic time series based on local lyapunov ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "exponent[J].Chinese PhysicsB,2013,22(5):191-197. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[11]于岩，陈鸿昶，于洪涛．基于RBF 神经网络的微博用户兴趣预测模型[J].计算机应用研究，2015，32（12):3555-3559.（YuYan,ChenHongchang,Yu Hongtao.Prediction model of microblog users profile basedon RBF neural network [J].Application Research of Computers,2015,32(12): 3555-3559.)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[12]魏德志，陈福集，郑小雪．基于混沌理论和改进径向基函数神经网络的 网络舆情预测方法[J].物理学报，2015,64(11):44-51.(WeiDezhi, Chen Jifu, Zheng Xiaoxue.Internet public opinion chaotic prediction based on chaos theory and the improved radial basis function in neural networks [J].Acta Physica Sinica,2015,64 (11): 44-51.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[13]张晓琳，崔宁宁，杨涛，等．一种分层自适应快速K-means算法[J].计 算机应用研究,2016,33(2): 421-423.(Zhang Xiaolin,Cui Ningning,Yang Tao,et al.Hierarchical adaptive fast K-means algorithm [J].Application Research ofComputers,2016,33 (2):421-423.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[14] Wu Jian, Zhou Sheng,Niu Zhisheng. Traffic-aware base station sleeping control and power matching for energy-delay tradeoffs in green cellular networks [J].IEEE Trans on Wireless Communications,2013,12(8):4196- 4209. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[15]WuJian,Wu Yu,Zhou Sheng,et al.Traffic-aware power adaptation and base station sleep control for energy-delay tradeoffs in green cellular networks [C]//Proc of Symposium on Selected Areas in Communications.London: IEEEPress,2012:3171-3176. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[16]PhaiwitthayaphornP,BoonsrimuangP,ReangsunteaP,et al.Cellthroughput based sleep control scheme for heterogeneous cellular networks [C]//Proc ofInternational Conference on Electrical Engineering//Electronics, Computer, Telecommunications and Information Technology.[S.l.] : IEEE Press,2017: 584-587. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[17]Auer G,Blume O,Giannini V.Energy efficiency analysis of the reference systems,areas of improvements and target breakdown [R/OL].(2010-08-12) [2018-02-18]. https://www. ict-earth. eu/publications/deliverables/deliverables.html. ",
+        "page_idx": 5
+    }
+]

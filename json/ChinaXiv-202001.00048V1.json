@@ -1,0 +1,649 @@
+[
+    {
+        "type": "text",
+        "text": "甘肃省土地利用空间协调度时空分异及态势分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王全喜'，孙鹏举1,2.3，刘学录²，任君4，刘永康'(1甘肃农业大学管理学院,甘肃兰州730070；2 甘肃农业大学资源与环境学院,甘肃兰州730070;3甘肃省自然资源规划研究院,甘肃兰州73000；4 青海大学研究生院,青海西宁 810016)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以甘肃省土地开发强度与土地供给能力的协调关系为研究对象，运用指数计算模型、协调度模型和R/S分析方法研究了2001—2016年甘肃省土地利用空间协调度时空格局分异及态势，以期对国土开发利用、社会经济、资源环境相互协调推进提供参考依据。结果表明：(1）甘肃省土地开发强度呈现上升趋势，土地供给能力变化幅度较小，基本保持在0.4左右。（2）土地利用空间协调度时间上呈现上升一下降趋势,空间上呈现从河西走廊地区向陇东、陇南地区递增的空间格局，且河西地区土地利用空间协调状态不稳定，协调等级较低。（3）各地区土地利用空间协调度的Hurst指数均大于0.5,在未来一段时间内土地利用空间协调度仍然会以延续过去变化态势为主，其中张掖市具有较强持续性，而其余地区持续性相对较弱。整体上，甘肃省土地利用空间协调度时空分异特征仍十分明显。为了满足将来土地开发利用的需求，各市州要明确发展定位，在资源环境约束下合理调控土地开发利用强度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关 键 词：土地开发强度；土地供给能力；空间协调度；时空分异；甘肃省",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土地开发强度为区域土地利用程度及其累积承载密度的综合反映，开发条件与技术、开发强度、开发效益、资源反馈效应和生态环境治理力度是评价的主要内容[1]。随着中国区域土地空间开发利用规模的不断扩大，资源环境约束问题凸显，出现了区域土地利用不协调及开发失衡的情况[2-3],当土地开发程度和开发规模超过一定限度，与土地资源供给能力不相匹配时，会引起土地利用空间失配问题[4]。明确国土空间开发与社会经济发展、资源环境的关系,有利于协调推进区域均衡发展[5],而土地开发强度与土地供给能力的相关性和协调性能够反映一个地区土地利用空间均衡程度[6]。因此,基于土地开发强度和土地供给能力的协调关系研究尤为重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前针对土地利用协调性研究主要集中在以下方面：（1）关于土地利用效益的协调性研究，主要是研究城市土地利用经济一社会一环境的协调度和潜力度[7-8],明确土地利用社会、经济和环境效益的协调关系。（2）土地开发强度与土地供给能力关系。已有研究关注了全国建设用地开发均衡[9]、单一年份或将连续多年份时间和空间二维数据结合起来研究省域土地利用空间均衡度[6.10]、全国层面揭示土地利用空间均衡度省际差异[1]、城市土地开发均衡度及限度[12]、城市土地开发约束与支持的协调度[13]以及空间均衡配置[14-15]等方面,这些研究对两者关系研究有指标体系和方法借鉴意义。（3）关于土地开发强度与资源环境水平关系研究。刘艳军等研究了中国区域开发强度与资源环境水平的耦合关系演化[2]；卫思夷等研究了沈阳经济区国土开发强度与资源环境承载力时空耦合关系[3]；另外，有从土地开发强度对土地承载力的影响[16]、对生态服务功能的影响[17],与生物多样性的相互关系[18]等方面研究土地开发强度与生态环境的关系。此外，也有研究关注土地开发强度的影响因子[19-21]。上述研究从不同角度对土地利用协调性进行了研究，关于土地利用、经济发展、资源环境关系的研究在不断深入，但需要进一步的研究与讨论。现有研究针对土地开发强度与土地供给能力协调性方面的研究较少，多年份连续时间序列数据揭示土地利用空间协调度时空格局分异仍然相对较弱。在评价指标上，土地开发强度多考虑建设用地规模，对表征农用地利用方面的指标缺乏，土地供给能力尚未考虑科技投入方面指标。研究方法单一，以土地开发强度与土地供给能力两者之商以及聚类分析、Markov等进行研究的较多。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甘肃省位于中国西北部，地理位置特殊，各地区之间资源禀赋、社会经济发展、人口状况等有较大的差异，其土地开发强度变化对生态环境的负影响要显著[4]。基于上述分析,以甘肃省14 个地市州为研究对象，采用指数计算模型评价2001—2016年各市(州)土地开发强度和土地供给能力，尝试采用协调度模型研究两者的协调性，探究土地利用空间协调度时空差异特征，并采用R/S分析方法判断土地利用空间协调度未来分异态势，为相关研究提供方法借鉴，对合理开发利用和促进全省土地利用均衡发展具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甘肃省位于西北内陆黄河上游地区。介于$9 3 ^ { \\circ } 1 3 ^ { \\prime } \\sim 1 0 8 ^ { \\circ } 4 6 ^ { \\prime } \\mathrm { E } , 3 2 ^ { \\circ } 1 1 ^ { \\prime } \\sim 4 2 ^ { \\circ } 5 7 ^ { \\prime } \\mathrm { N }$ 之间，地势自西南向东北倾斜，全省生态环境相对脆弱，地形以山地和高原为主。辖兰州、天水、白银、金昌、嘉峪关、武威、庆阳、平凉、张掖、酒泉、定西、陇南12个市，临夏、甘南2个州。全省水资源总量为 $2 0 9 . 5 6 \\times 1 0 ^ { 8 }$ $\\mathbf { m } ^ { 3 }$ ,甘南、陇南水资源多,土地条件差,河西地区土地条件好，水资源缺乏。根据2017年甘肃省国土资源公报，2016年全省土地总面积为 $4 ~ 2 5 8 . 8 9 \\times 1 0 ^ { 4 }$ $\\mathrm { { h m } } ^ { 2 }$ ,耕地面积为 $5 3 7 . 2 2 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,城镇村及工矿用地面积为 $7 8 . 6 5 \\times 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ,交通运输用地为 $2 6 . 4 6 \\times$ $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 评价指标体系的构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "就土地开发和社会、经济、资源保障水平而言，各地区的差异会影响区域土地利用协调程度，可以从土地开发强度和土地供给能力之间是否协调来衡量。土地开发强度能够反映一个地区国土空间的开发利用程度,2010年《全国主体功能区规划》中将土地开发强度定义为一个区域建设空间占该区域总面积的比例,赵亚莉等[19]、赵小风等[21]依据此内涵对区域土地开发强度进行了研究,而严金明等[22]提出了狭义国土开发强度的内涵，即区域建设用地规模与自然条件适宜建设国土面积的比例。土地开发强度为区域土地利用程度及其人口社会经济累积承载强度的综合反映[1],其受到建设用地密度增加、用地产出强度提高、人口承载强度综合变动影响[23]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的土地开发强度指标从土地利用程度、人口规模扩张、用地产出强度3个方面构建，建设用地开发规模最直接表征土地开发强度，而土地利用程度是开发强度的主要内涵，用土地垦殖率和复种指数表征；人口增长会直接影响土地开发利用，可以表征土地开发强度;用地产出强度可以反映土地开发所带来效益，考虑选取地均GDP和第二、三产业产值比重代表经济发展规模和水平。借鉴已有研究成果[10-11],依据本文对土地开发强度内涵的理解构建了土地开发强度评价指标(表1）。土地供给能力是指根据土地的自然条件和社会环境状况，是在一定的期限内某一区域的土地所能提供的有效开发和使用的限度[12.24]。参考已有研究成果[11-13],从资源供给能力、经济支持能力、社会支持能力3个方面构建土地供给能力评价指标体系。资源保障主要是对水土等资源的数量的要求，比如耕地资源越多，耕地保护压力就越小，对区域开发建设的供给能力越强。依据甘肃省实际情况，综合考虑甘肃省各市(州)数据资料的可获取性和评价指标选取的代表性原则，最后构建了土地利用空间协调度评价指标体系(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d3f65e60f9b3de15c3a0e14209956b77df22a99b174b92343a1e99647c058523.jpg",
+        "table_caption": [
+            "表1土地利用空间协调度评价指标体系",
+            "Tab.1Evaluation index system of spatial coordination degree of land use "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标层</td><td>准则层</td><td>指标层</td><td>单位</td></tr><tr><td>土地开</td><td>土地利</td><td>城市建设用地比重</td><td>%</td></tr><tr><td>发强度</td><td>用程度</td><td>土地垦殖率</td><td>%</td></tr><tr><td rowspan=\"8\">土地供</td><td></td><td>复种指数</td><td>%</td></tr><tr><td>人口规</td><td>人口密度</td><td>人·hm-2</td></tr><tr><td>模扩张</td><td>城镇化率</td><td>%</td></tr><tr><td>用地产</td><td>地均GDP</td><td>104元·hm−²</td></tr><tr><td>出强度</td><td>第二三产业产值比重</td><td>%</td></tr><tr><td>资源保</td><td>土地总面积</td><td>hm²</td></tr><tr><td>障能力</td><td>耕地资源</td><td>hm²</td></tr><tr><td></td><td>水资源总量</td><td>m</td></tr><tr><td></td><td>经济支</td><td>地均固定资产投资额</td><td>104元·hm-²</td></tr><tr><td></td><td>持能力</td><td>地均财政支出</td><td>104元·hm-2</td></tr><tr><td></td><td>社会支</td><td>R&D经费支出</td><td>104元</td></tr><tr><td></td><td>持能力</td><td>科技活动人员</td><td>104人</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基于指数计算模型测度土地开发强度与土地供给能力",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在对各项指标采用极差标准化处理的基础上，采用算术平均法和几何平均法相结合的方式[1],分别计算土地开发强度指数和土地供给能力指数，具体公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL D = \\frac { 1 } { 2 } \\left( \\frac { L + P + D } { 3 } + \\sqrt [ 3 ] { L \\times P \\times D } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL S = { \\frac { 1 } { 2 } } \\left( { \\frac { R + E + S } { 3 } } + \\sqrt [ 3 ] { R \\times E \\times S } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $L D$ 为土地开发强度指数; $L$ 为土地利用程度指数； $P$ 为人口规模扩张指数; $D$ 为用地产出强度指数； $L S$ 为土地供给能力指数； $R$ 为资源供给力指数；$E$ 为经济支持力指数;S为社会支持力指数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3基于协调度模型测度土地利用空间协调度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用协调度模型测度土地开发强度与土地供给能力之间的协调关系，其公式[25为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\left\\{ \\frac { L D \\times L S } { \\left[ ( L D + L S ) / 2 \\right] ^ { 2 } } \\right\\} ^ { \\tau }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 为土地利用空间协调度，且 $C = \\left[ 0 , 1 \\right] , C$ 越大则表明土地开发强度与土地供给能力的协调性越高，反之则越低； $\\tau$ 为调节系数( $\\scriptstyle \\tau \\geq 2 ^ { \\cdot }$ ）， $\\tau = 2$ ,根据对土地利用空间协调度的理解并借鉴参考文献[3],将土地利用空间协调度划分为4个等级类型：高度协调 $( 0 . 9 \\leqslant C < 1$ 、中度协调（ $\\ : 0 . 7 \\leqslant C < 0 . 9 \\ :$ 、基本协调 $( 0 . 5 \\leqslant C < 0 . 7$ )和不协调( $0 \\leqslant C < 0 . 5$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4基于 $\\pmb { R } / s$ 分析方法模拟土地利用空间协调度分异态势",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$R / S$ 分析方法是定量描述时间序列信息长期依赖性的有效方法[26],目前 $R / S$ 分析方法在城市化对气候影响[27]、耕地利用效率[28]、土地利用绩效[29]等方面得到了应用。本研究应用 $R / S$ 分析方法定量模拟未来土地利用协调度分异态势，具体分析过程为[26]：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）给定一个长度为 $N$ 时间序列 $x _ { i }$ ,以长度为$n$ 均分这个序列为 $A$ 个相邻的子区间。任一子区间表示为 $I _ { a } , a = 1 , 2 \\cdots , A _ { \\circ } I _ { a }$ 的均值为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { a } = \\frac { 1 } { h } \\sum _ { k = 1 } ^ { h } N _ { k , a }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2） $I _ { \\phantom { } _ { a } }$ 对于均值的累积截距定义为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { k , a } = \\ \\sum _ { i = 1 } ^ { k } \\ \\left( { \\cal N } _ { i , a } - { \\cal E } _ { a } \\right) \\qquad k = 1 , 2 , \\cdots , n\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）极差序列定义为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { a } = \\operatorname* { m a x } ( X _ { k , a } ) - \\operatorname* { m i n } ( X _ { k , a } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4） $I _ { \\phantom { } _ { a } }$ 的标准差为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { I } \\ = \\ \\sqrt { \\sum _ { k \\ = 1 } ^ { n } \\left( N _ { k , a } \\ - \\ E _ { a } \\right) ^ { 2 } / n }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5）每一个 ${ \\mathbf { } } R _ { a }$ 均由对应的 $S _ { a }$ 进行标准化。则$R / S$ 定义为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( R / S \\right) _ { n } = \\frac { 1 } { A } \\sum _ { a = 1 } ^ { A } \\frac { R _ { a } } { S _ { a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(6）针对 $( R / S ) _ { n } = k n ^ { H }$ 关系,两边取对数后，以$\\log ( n )$ 为解释变量， $\\log ( R / S )$ 为被解释变量进行线性回归：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log ( R / S ) = \\log ( k ) + H \\log ( n )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于2001—2016年各地区土地利用空间协调度，依据线性回归方程估计得出 $H$ 值,将 $H$ 值称为Hurst指数。根据 $H$ 值可判断时间序列趋势是表现为持续性或反持续性特征： $H = 0 . 5$ 说明时间序列演变具有随机独立性的； $0 < H < 0 . 5$ 说明时间序列演变具有反持续性，即将来演化趋势与过去相反；0.5$< H <$ 说明时间序列演变具有持续性。根据已有研究[30],进一步将持续性和反持续性定义为：强( $( 0 . 8 <$ $H { \\leqslant } 1$ ）、较强（ $( 0 . 6 5 < H \\leqslant 0 . \\ 8 )$ 、较弱（ $( 0 . \\ 5 5 \\textless H \\leqslant$ 0.65）弱（ $\\mathrm { ( 0 . 5 < } H { \\leqslant } 0 . 5 5 \\mathrm { ) }$ ；强（ $0 < H \\leqslant 0 . 2 5$ ）、较强( $0 . 2 5 < H \\leqslant 0 . \\ 3 5$ 、较弱（ $0 . ~ 3 5 < H \\leqslant 0 . ~ 4 5$ ）、弱1 $0 . 4 5 < H { \\leqslant } 0 . 5 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究以2001—2016年为研究时期，相关数据来源于《甘肃发展年鉴》（2002—2017）。其中，城市建设用地面积数据来源于《中国城市建设统计年鉴》（2001—2016），水资源总量来源于2001—2016年甘肃省水资源统计公报;各市(州)土地总面积来源于甘肃省国土资源公报。为保证数据的连续性，对于部分年份缺失数据采用SPSS19.0插补得到。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1甘肃省土地开发强度与土地供给能力分析基于指数计算模型,测度甘肃省14个市(州)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土地开发强度指数和土地供给能力指数，将其平均值作为甘肃省整体土地开发强度和土地供给能力的表征值(图1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）土地开发强度特征。2001—2016 年甘肃省土地开发强度指数呈现上升趋势，由2001年的0.3294上升为2016年的0.4621，增加了0.1327。分析研究期内各项指数：土地利用程度指数呈现上升趋势,但2008—2012 年变化幅度较小;人口规模扩张指数呈现上升一下降的趋势，由2001年的0.4396上升为2016年的0.4613；用地产出强度指数不断波动，整体上呈上升趋势，由2001年的0.3824上升为2016年的0.4597。主要是研究期内各市州城市建设用地不断增加，人口的增减使得人口密度跟随变化，加上城镇化和经济发展速度加快，最终使得甘肃省土地开发强度增加。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）土地供给能力特征。2001—2016 年甘肃省土地供给能力小幅度变化，由2001年的0.3978变为2016年的0.4015，但是基本保持在0.4左右。分析研究期内各项指数：资源保障能力指数由于地区的差异，整体上在2005—2011年间呈下降趋势，2011—2016年变化幅度较小;经济供给能力指数总体在上升，由2001年的0.3409上升为2016年的0.4293；社会支持能力指数变化幅度较大，其中2005年为最低。主要是由于各市州建设不断占用耕地资源，致使耕地非农化进程加剧，资源保障能力有所下降，加之社会经济支持能力差异的影响，这些方面的作用使研究期内土地供给能力的变化幅度较小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2甘肃省土地利用空间协调度时空分异",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1甘肃省土地利用空间协调度总体特征通过计算土地利用空间协调度的平均值来反映甘肃省整体水平，分析其发展趋势。由图2可知，甘肃省土地利用空间协调度由 2001年的0.8353上升为2008年的0.9545，到2016年下降为0.8752，呈现上升一下降趋势。这是由于随着甘肃省社会经济的发展，城市建设用地规模不断增加，土地开发强度持续增大，土地供给能力变化幅度较小，加之各市(州)发展水平存在较大差异，使得土地开发强度和",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ff7d8c9aec74e0687f332ba617407793c2fdfdd807558782205f682d8a92ba6.jpg",
+        "img_caption": [
+            "Fig.1Change trendof land development intensityand land supply capacityin Gansu Province from 2001 to 201 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/20d3e8d8736ac3b35cf8269d1df4177f83d3a625d18dde856d8a24ba1e64624f.jpg",
+        "img_caption": [
+            "图12001—2016 年甘肃省土地开发强度与土地供给能力变化趋势",
+            "图22001—2016 年甘肃省土地利用空间协调度变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Change trend of spatial coordination degree of land use in Gansu Province from 2OO1 to 2016 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土地供给能力的协调关系发生变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2甘肃省土地利用空间协调度空间分异由图3可知：（1）土地利用空间协调状态总体不稳定。图3a显示：2001年处于高度协调的有8个市（州），占 $5 7 . 1 4 \\%$ ,白银市、平凉市属于中度协调,嘉峪关市、武威市和甘南州属于基本协调,酒泉处于不协调状态;图3b显示：2006年处于高度协调的有8个市(州)，嘉峪关市、白银市、张掖市和定西市为中度协调，甘南州和酒泉市为基本协调，未出现不协调的地区；图3c显示：2011年处于高度协调的有10个市(州），嘉峪关市、张掖市和甘南州属于中度协调，酒泉市属于基本协调;图3d显示：2016年处于高度协调城市在减少，变为中度协调状态。总体上，河西地区土地利用空间协调状态变化较大，其中武威市在不同的年份变化最大，主要是2001—2006 年城市建设用地扩张缓慢，2006年以后城市建设用地增加较快，随着土地开发强度的增大，该区域生态保护压力也加大，且城镇化和产业发展受水资源约束增强，变为中度协调状态，而河西走廊其余地区由于对城市发展定位的不同，比如金昌市和嘉峪关市为工业型城市，张掖市主要以发展绿洲灌溉农业为主，其对水资源消耗量大，这些地区资源禀赋和社会经济的差异导致土地利用空间协调程度出现不同程度的变化。陇南、甘南和临夏地区受自然条件的影响，城市扩张速度较慢，土地利用空间协调度较为稳定。陇东和甘肃中部地区属于黄土高原区域,水土流失严重，生态环境脆弱，降雨量较少，虽然这些区域整体情况较差，但区域土地供给能力相对土地开发强度而言，基本满足土地开发利用情况，表现为土地利用空间协调度在中度协调状态与高度协调状态之间变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）土地利用空间均衡度空间分布不均匀，地区差异明显。河西走廊地区土地利用空间协调度较低，差异明显，总体在基本协调状态和中度协调状态之间变化；河东地区土地利用空间协调度较高，大部分处于中度协调以上状态。主要是由于河西走廊地区依靠祁连山冰雪融水发展绿洲灌溉农业，经济发展相对较快,城镇化率高于陇东、陇南地区，而城市的发展导致土地开发强度增加，使得河西走廊地区和河东地区土地开发强差异不断扩大。总体来看，甘肃省土地利用空间协调度呈现从河西走廊地区向陇东、陇南地区递增的空间格局。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/15ebb93b18cbf1083ab5fe3ee2068cb8c1028a3c29be41bf8bf8f9c33ad7c10f.jpg",
+        "img_caption": [
+            "图32001—2016年甘肃省土地利用空间协调度时空格局",
+            "Fig.3Spatial-temporal pattern of land use coordination degree in Gansu Province from 2OO1 to 201( "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3甘肃省土地利用空间协调度分异态势",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过R/S分析法定量模拟未来土地利用空间协调度时空分异演化规律。基于2001—2016 年甘肃省14个市(州)连续时间序列的土地利用空间协调度值计算Hurst指数，并绘制甘肃省14个市（州)土地利用空间协调度R/S分析图（图4）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图4可知：（1）总体特征方面，甘肃省14个市(州)土地利用空间协调度的 Hurst指数均大于0.5，说明协调性具有一段时间的分形特征，未来甘肃省各地区土地开发强度与土地供给能力间协调关系具有持续性，即在未来一段时间内土地利用空间协调度仍然会表现出继续保持的态势，以延续过去变化态势为主；（2）差异特征方面，张掖(0.6662)具有较强持续性，这与张掖市土地开发强度和土地供给能力的综合作用结果有关；兰州（0.5950）、天水（0.5832）、武威(0.6386）酒泉(0.5965）、定西(0.6170）、陇南(0.6033）、甘南(0.6269)这些地区介于0.55到0.65之间，呈现出较弱持续地态势；其余地区Hurst指数略微大于0.5，表现出弱持续性特征。受各地区土地开发强度与土地供给能力差异的影响，土地利用空间协调度差异也在增大，整体上甘肃省土地利用空间协调度时空分异特征仍十分明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed62d7d122d0749571212c8192f7a3dba2c50eaf9ea717465a0ed1e4f3de5b48.jpg",
+        "img_caption": [
+            "图4甘肃省土地利用空间协调度的R/S分析Fig.4R/S analysis of spatial coordination degreeof land use in Gansu Province"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土地利用程度及其人口、社会经济累积承载强度的综合变化体现了土地开发强度的大小[1]。但是，由于各地区开发供给能力和生态保护要求的差异，区域土地供给能力受限于自然条件和社会环境状况,使得可供开发的土地有限[12]。随着土地开发规模扩大，在土地开发利用程度超过一定限度时，会出现与土地供给能力不匹配情况[4]。关注土地开发强度与土地供给能力之间的协调程度，可以全面掌握区域土地开发利用的水平与质量，对土地资源可持续利用具有重要的实践指导意义。本研究在对土地开发强度和土地供给能力内涵理解的基础上，应用协调度模型探究土地利用空间协调状况，来衡量土地系统内部因子间的关系，以反映一个具有“内生性、综合性”系统的整体情况[13],依据两者的协调关系分析土地利用空间协调度存在一定合理性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "甘肃省地处中国西北地区，生态环境脆弱，土地开发强度对生态环境的负面影响较大[4],通过构建评价指标体系分析了甘肃省土地利用空间协调度时空分异特征及态势。在评价指标方面，增加表征土地利用程度的土地垦殖率等重要表征指标，以及增加表征科技投入的指标，使更加全面地反映土地开发强度与土地供给能力；从研究结果来看，甘肃省土地利用空间协调度属于中度协调状态，这与谭术魁等[11]从全国层面研究的结果基本一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另外，土地开发强度整体呈现上升趋势，土地供给能力变化幅度较小,这与唐怡等[10]的结果相符,但是在一定时期内表现出前者大于后者,存在土地供给能力不足的情况，这主要是由于表征指标中除资源保障等非弹性指标外，还存在社会经济等弹性指标所致。然而，由于甘肃省不同时期资源环境、社会经济状况存在差异，土地利用空间协调度时空演变特征较为复杂，仍需要对其空间分异机制进行深入探讨，以期更清晰地揭示甘肃省土地利用空间协调度变化的内在机制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）甘肃省土地开发强度整体呈现上升趋势，土地利用程度指数呈现上升趋势，人口规模扩张指数呈现上升一下降的趋势，用地产出强度指数不断波动，整体上在上升。各市州城市建设用地不断增加，人口的增减，加上城镇化水平和经济发展速度加快,最终使得甘肃省土地开发强度的增加。土地供给能力变化幅度较小，基本保持在0.4左右，资源保障能力指数整体上在下降，经济支持能力指数总体在上升，社会支持能力指数变化幅度较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）整体上，甘肃省土地利用空间协调度呈现上升一下降趋势，主要是土地开发强度持续增加与土地供给能力变化幅度较小双重演进的结果。空间上，土地利用空间协调度呈现从河西走廊地区向陇东、陇南地区递增的空间格局，空间差异明显;河西走廊地区土地利用空间协调状态变化较大，协调等级较低，总体在基本协调和中度协调之间变化；陇东地区土地利用空间协调度略高，大部分处于中度协调以上状态。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）依据时间序列信息结果，在未来分异态势总体特征方面，甘肃省14个市（州)土地利用空间协调度的Hurst指数均大于0.5，说明在未来一段时间内土地利用空间协调度仍然会表现出继续保持的态势，以延续过去变化态势为主;差异特征方面，张掖具有较强持续性，兰州、天水、武威、酒泉、定西、陇南、甘南这些地区呈现出较弱持续地态势，其余地区表现出弱持续性特征。由于各地区土地利用空间协调度差异的增大，整体上甘肃省土地利用空间协调度时空分异特征仍十分明显，具体为河西地区高于陇东、陇南地区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）甘肃省河西走廊地区、陇中地区、南部地区以及陇东地区间的区域差异性，使得各市州土地利用空间协调度时空格局不尽相同，说明各地区域土地开发利用方式有着较大的差异。为了满足将来土地开发利用的需求，要明确各市(州)发展定位，以资源环境要素为基础，经济要素为发展动力，社会要素为主导作用，适当增加社会经济支持能力，在资源环境约束下合理调控土地开发利用强度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］周炳中,包浩生,彭补拙.长江三角洲地区土地资源开发强度 评价研究[J].地理科学,2000,20(3）:218-223.［ZHOU Bingzhong,BAO Haosheng,PENG Buzhou.Evaluation on exploitative intensity of land resources in the Yangtze River Delta Region[J]. Scientia Geographica Sinica,2000,20(3）:218-223.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2]刘艳军,刘静，何翠，等.中国区域开发强度与资源环境水平的耦合关系演化［J].地理研究，2013，32（3）：507-517.［LIU",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Yanjun,LIUJing,HE Cui,etal.Evolution of the couplingrelationship between regional development strength and resource environmentlevel in China[J].Geographical Research,2013,32（3）： 507 -517.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[3］卫思夷,居祥,荀文会.区域国土开发强度与资源环境承载力 时空耦合关系研究——以沈阳经济区为例[J].中国土地科 学,2018,32(7）:58-65.[WEI Siyi,JU Xiang,XUNWenhui. Spatial-temporal coupling relationship between land development intensity and carrying capacity of regional resources and environment:A case study in Shenyang economic region[J].China Land Science,2018,32(7) :58-65.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4]赵亚莉,刘友兆,龙开胜.城市土地开发强度变化的生态环境效应[J].中国人口·资源与环境，2014，24（7)：23－29.[ZHAO Yali,LIU Youzhao,LONG Kaisheng.Eco-environmentaleffects of urban land development intensity change across capitalcities in China[J].China Population,Resources and Environment,2014,24(7):23-29.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5]刘艳军,刘德刚,付占辉,等.哈大巨型城市带空间开发一经济 发展一环境演变的耦合分异机制[J].地理科学,2018,38（5）： 662-671.[LIU Yanjun,LIU Degang,FU Zhanhui,et al. The differentiation mechanism of coupling degree among space exploitation,economy development and environment evolution in HarbinDalian Giant Urban Belt[J].Scientia Geographica Sinica,2018,38 (5):662 -671.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]卞凤鸣,刘彦彤,赵玲.吉林省土地利用空间均衡度评价研究 [J].中国土地科学,2015,29（12）:74-80.［BIANFengming, LIU Yantong,ZHAO Ling.The spatial balance degree evaluation onland use in Jilin Province[J].China Land Science,2O15,29 (12):74-80.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7］刘凤朝,张博,刘源远,等.城市土地利用协调度评定一以大连市为例[J].中国土地科学，2008，22（12）：25－30.［LIUFengchao,ZHANG Bo,LIU Yuanyuan,et al.Coordinating degreeassessment on urban land use system:A case of Dalian City[J].China Land Science,2008,22(12）:25-30.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8］赵凯,赵强军.西安市土地利用协调性动态变化特征分析[J]. 中国农业资源与区划,2013,34（3）:49-54.[ZHAO Kai, ZHAO Qiangjun.Analysis on the dynamic change characteristics of land use coordination in Xi'an City[J].Chinese Journal of Agricultural Resources and Regional Planning,2013,34（3）:49- 54.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]陈逸,黄贤金,陈志刚,等.中国各省域建设用地开发空间均衡度评价研究[J].地理科学，2012，32（12）：1424-1429.［CHENYi,HUANG Xianjin,CHEN Zhigang,et al. The spatial balance de-gree evaluation of construction land in China[J].Scientia Geo-graphica Sinica,2012,32(12）:1424-1429.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10］唐怡,韦仕川,王湃.基于GIS 的区域土地利用均衡度时空差 异研究——以海南省为例[J].中国农业资源与区划，2017,38 (5）:41-47.[TANG Yi,WEI Shichuan,WANG Pai. Spatial-temporal differences of regional balance degree on land use based on GIS:A case study in Hainan Province[J].Chinese Journal of Agricultural Resources and Regional Planning,2017,38（5）:41 - ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "47.]   \n[11］谭术魁,刘琦,李雅楠.中国土地利用空间均衡度时空特征分 析[J].中国土地科学,2017,31（11）:74－ 80.[TAN Shukui, LIU Qi,LI Yanan.Spatial-temporal characteristics of spatial balance degrees on land use in China[J]. China Land Science,2017, 31(11) :74-80.]   \n[12］张竞珂,陈逸,黄贤金.长江经济带土地开发均衡度及限度评 价研究[J].长江流域资源与环境,2017,26（12）：1945-1953. [ZHANG Jingke,CHEN Yi,HUANG Xianjin.Assessment of the equilibrium degree and limitation degree of Yangtze River economic belt's land development[J]. Resources and Environment in the Yangtze Basin,2017,26(12）:1945 -1953.]   \n[13］徐晖,冯秀丽,范园园.城市土地开发约束与支持的协调度评 价——以浙江省为例[J].中国土地科学,2018,32(6）:68- 74.[XU Hui,FENG Xiuli,FAN Yuanyuan.Evaluation of urban land development coordination degree between constraint and support：Taking Zhejiang Province as an example[J].China Land Science,2018,32(6) :68 -74.]   \n[14] CHALISE S,NARANPANAWA A. Climate change adaptation in agriculture:A computable general equilibrium analysis of land-use change in Nepal[J].Land Use Policy,2016,59(11):241 -250.   \n[15]LOSSAU S,FISCHER G,TRAMBEREND S,et al. Brazil's current and future land balances:Is there residual land for bioenergy production？[J]. Biomass and Bioenergy,2015,81(4）:452-461.   \n[16]YANHM,LIUF,LIUJY,et al.Status of land use intensity in China and its impacts on land carrying capacity[J]. Journalof Geographical Sciences,2017,27(4）:387-402.   \n[17]XU Y,TANG HP,WANG B J,et al. Effects of land-use intensity on ecosystem services and human well-being:A case study in Huailai County,China[J].EnvironmentalEarthSiences,2016,75 (5) :416.   \n[18]VAN MEERBEEK K,HELSEN K,HERMY M. Impact of land-use intensity on the conservation of functional and phylogenetic diversity in temperate semi-natural plant communities[J]. Biodiversity & Conservation,2014,23(9):2259-2272.   \n[19］赵亚莉,刘友兆.城市土地开发强度差异及影响因素研究一 基于 222 个地级及以上城市面板数据[J].资源科学,2013,35 (2）:380 -387.[ZHAO Yali,LIU Youzhao.Diffidence and influencing factors of urban land development intensity across 222 cities in China[J]. Resources Science,2013,35(2):380 -387.]   \n[20]LIU MH,WANG Y X,DAI Z Z,et al. GIS-Based urban land development intensity impact factorsanalysis[J].Artificial Inteligence and Computational Intelligence,2012,7530:341 -348.   \n[21］赵小风,李娅娅,赵雲泰,等.基于地理探测器的土地开发度时 空差异及其驱动因素［J].长江流域资源与环境,2018,27 （11）:2425-2433.[ZHAO Xiaofeng,LI Yaya,ZHAO Yuntai,et al.Spatiotemporal diffrencesand driving factors of land development degree in China based on geographical detector[J]. Resources and Environment in the Yangtze Basin,2018,27（11）: 2425 - 2433. ]   \n[22］严金明,迪力沙提·亚库甫,夏方舟.基于协同发展的省域狭 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "义国土开发强度内涵界定与阈值测度[J].农业工程学报， 2019,35(4）:255-264.[YANJinming,YAKUFUDilishati,XIA Fangzhou.Definition and threshold measurement of narrow land development intensity in province scale based on coordinated development[J].Transactions of the Chinese Society of Agricultural Engineering（Transactions of the CSAE）,2019,35(4）:255-264.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23］刘艳军,于会胜,刘德刚,等.东北地区建设用地开发强度格局 演变的空间分异机制[J].地理学报,2018,73（5）:818 -831. [LIU Yanjun,YU Huisheng,LIU Degang,etal.Spatial diferentiation mechanisms of the pattern evolution of construction land development intensity in northeast China[J].Acta Geographica Sinica, 2018,73(5) :818 -831.]   \n[24］陈雯,孙伟,赵海霞.区域发展的空间失衡模式与状态评 估——以江苏省为例[J].地理学报,2010,65（10)：1209- 1217.[CHEN Wen,SUN Wei,ZHAO Haixia.The spatial imbalanced pattern and state assessment of regional development[J]. Acta Geographica Sinica,2010,65(10）:1209-1217.]   \n[25］杨清可,段学军,李平星,等.江苏省土地开发度与利用效益的 空间特征及协调分析［J].地理科学,2017,37（11）：1696- 1704.[YANG Qingke,DUAN Xuejun,LI Pingxing,et al.The spatial pattern and coordination analysis between degree of land development and use benefit in Jiangsu[J].Scientia Geographica Sinica,2017,37(11) :1696-1704.]   \n[26］郑志勇.金融数量分析：基于MATLAB 编程[M].3版.北京： 北京航空航天大学出版社,2015:270-275.[ZHENG Zhiyong. Financial quantitative analysis:Programming based on MATLAB （20 $\\left[ \\mathrm { M } \\right] . 3 ^ { \\mathrm { r d } }$ ed.Beijing:Beijing Universityof Aeronauticsand Astronautics Press,2015:270 -275.]   \n[27］车慧正，张小电,李杨，等.近50年来城市化对西安局地气候 影响的研究［J].干旱区地理,2006,29（1）：53－58.[CHE Huizheng,ZHANG Xiaoye,LI Yang,et al. Effect of urbanization on local climate in Xi'an City in recent 5O years[J].Arid Land Geography,2006,29(1）:53-58.]   \n[28］张荣天,焦华富.中国省际耕地利用效率时空格局分异与机制 分析[J].农业工程学报,2015,31（2）:277－287.[ZHANG Rongtian,JIAO Huafu. Spatial-temporal pattern differentiation and its mechanism analysis of using efficiency for provincial cultivated land in China[J].Transactions of the Chinese Society of Agricultural Engineering（Transactions of the CSAE）,2015,31（2）: 277 -287.]   \n[29］张荣天,焦华富.转型期省际城镇土地利用绩效格局演变与机 理[J].地理研究,2014,33（12）:2251-2262.[ZHANG Rongtian,JIAO Huafu.Performance of urban land use pattern evolution and mechanism in China during the transformation period[J].Geographical Research,2014,33（12） :2251-2262.]   \n[30］冯新灵,冯自立,罗隆诚,等.青藏高原冷暖气候变化趋势的 R/S 分析及Hurst 指数试验研究［J].干旱区地理,2008,31 (2）:175-181.[FENG Xinling,FENG Zili,LUO Longcheng,et al.Fractal analysis of climate change and Hurst index experiment in Tibetan Plateau in future[J].Arid Land Geography,2008,31 (2) :175 -181.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Spatial-temporal differentiation and situation of spatial coordination degree on land use in Gansu Province ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WANG Quan-xi1，SUN Peng-ju1,23，LIU Xue-lu²，REN Jun4，LIU Yong-kang' (1College of Management,Gansu Agricultural University,Lanzhou 73o07o,Gansu,China ; 2College of Resources and Environmental Sciences,Gansu Agricultural University,Lanzhou 73oo7o,Gansu,Chind; 3Nature Resources Planning and Research Institute of Gansu Province,Lanzhou 73oooo,Gansu,China; 4Postgraduate School,Qinghai University,Xining 810016,Qinghai,China ) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Taking the harmonious relationship between the land development intensity and land supply capacity in Gansu Province,China as the research object,the spatial-temporal patern diferentiation and the situation of spatial coordination degree of land use of Gansu Province from 2O0l to 2O16 were studied inorder to provide reference frame to thecoordinated promotion of land development and utilization,social economyand resources and environment.The index calculation model,coordination degree model and $R / S$ analysis method were used in this study. The results showed as follows:（1）The land development intensity of Gansu Province shows an upward trend,and he changerange of land supplycapacity issmall which isbasically kept ataroundO.4.（2）The spatialcoordination degree of land use shows a rise and then decline trend from time perspective,and there is an increasing spatial distribution from the Hexi Corridor to theeastern and southern Gansu Province.Moreover,the spatial coordination degree of land use in Hexi region is unstableand thecoordination levelislow.（3）The Hurst index of spatial coordination degreeof landuse inallregions is greaterthanO.5.In thefuture,thespatialcoordination degreeof landuse will continue with the change paterns in thepast.Among them,the sustainability is stronger in Zhangye Citybut relativelyweak inother regions.Onthewhole,the spatial-temporal differentiation of spatial coodination degreeof landuse in Gansu Province is stillobvious.It is necessary toclarify the development orientation of the cities inorder to mee the needs of land developmentandutilization inthe future,andto controlthe intensityof land use development under the constraints of resources and environment. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:land development intensity；land supply capability；spatial coordination degree；spatial-temporal differentiation；Gansu Province ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "《干旱区地理》投稿须知",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "投稿前请自行逐一严格核对最后文稿的总体格式,确认与我刊最新发文格式完全相同后再行投稿。(1)稿件格式(标题结构、图表标题、三线表要求、参考文献、英文摘要排版等)请逐一严格参照本刊最新发文格式修改!!!(2)为提高稿件处理效率,请各位投稿人在网站的\"采编系统”下点击\"作者投稿查稿\"菜单进行网上投稿！",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "一、图件要求(请作者一定按编辑部要求提供图件)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（一)彩图、黑白图文件格式要求",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)请务必单独提供每一幅图件的 Tiff/JPG 格式文件,分辨率为 $6 0 0 ~ \\mathrm { d p i }$ (分辨率)以上。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)图幅的宽度设置;通栏图最大宽度为 $1 6 \\mathrm { c m }$ ,半栏图最大应宽度为 $8 \\mathrm { c m }$ ,图件内、图外围的字体为5号宋黑字体。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3)图里的线条清晰( $\\mathrm { : 0 . 5 m m }$ 粗细），文字设为6号宋黑体（即7.5磅），数字及英文为TimesNew Ro-man,如果在图中标的是英文,需要全部改中文。同时,数字与图框距离不宜太近,应留点空隙。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4)图中经纬度是内刻度，四周都必须加上经纬度（而不是只标注单边）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（5)彩色图、黑白图的色彩必须选为CMYK颜色,在Photoshop 里的路径应显示为：图像一模式—CMYK颜色。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(二)折线、柱状图件的要求",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如果采用 Excel软件制作的图件,请提供图的.xls/xlsx格式的原始文件,设置为有Execl的数据链接，如果采用其他制图软件做的图,需要提供原始图对应的扩展名文件,及另存为Tiff/JPG 格式的文件。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "二、参考文献要求",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.参考文献应在论文中引用近2～3年的主要相关文献。按照GB/T7714-2005《文后参考文献著录规则》的有关规定，一般需列出正文中引用的公开出版的文献,按文中出现的先后顺序编码。对文中注释或未正式发表的文献可作为脚注处理,用数字加圆圈标注。引用文献资料和数据要认真核实,注明出处。文献作者一般只列前三名,其中用\"，”隔开,三人以上后加“,等”或“,etal”。英文文献中作者姓在前,名在后。如P.E.JAMES的文献著录为JAMESPE。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.文责自负。文稿中的所有文献、资料与数据等应认真核对,准确无误,不得泄露国家机密。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.参考文献类型及其标识代码根据GB/T7714－2005《文后参考文献著录规则》的规定，以字母方式标识：普通图书[M]、会议录[C]、汇编[G]、报纸[N]、期刊[J]、学位论文[D]、报告［R]、标准[S]、专利[P]、其他[Z];联机网上数据库［DB/OL]、磁带［DB/MT]、光盘图书[M/CD]、网上期刊[J/OL]、网上电子公告[EB/OL]、网上图书[M/OL].",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了便于国外数据库的检索,文后所列参考文献，如果是中文文献，在其后按照著录格式给出对应的英文信息.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1）期刊：[序号」作者.文献题名[J」.刊名，出版年,卷(期)：起止页码.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如：[1」谢婷,杨兆萍.干旱区农业生态园策划、规划、设计理念初探——以新疆尉犁县生态园为例[J]. 干旱区地理,2003,26(1）:73-77.[XIE Ting,YANG Zhaoping.Study on programming eco-orchard in arid area [J].Arid Land Geography,2003,26(1） :73 -77.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）专著：序号」作者.文献题名[M」.出版地：出版者，出版年：起止页码",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如：[2]左其亭,陈曦.面向可持续发展的水资源规划与管理［M],北京：水利电力出版社,2003：84- 120.[ZUO Qiting,CHEN Xi.Sustainable-oriented water resources plan and management[M].Beijing: Water Resources and Hydropower Press,2003 :84 -120.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）文集：[序号]作者.文献题名[M或C]//编著者.书名.出版地:出版者,出版年:起止页码（4）学位论文：[序号］作者.文献题名[D].保存地点：授予单位,写作日期.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（5）电子文献：[序号]作者．文题名[文献类型标志/文献载体标志].出版地：出版者，出版年（更新或修改日期)[引用日期].获取和访问路径.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "编辑部地址：中国科学院新疆生态与地理研究所《干旱区地理》编辑部 乌鲁木齐市北京南路818 号",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "邮编：830011 电话：0991-7827350",
+        "page_idx": 9
+    }
+]

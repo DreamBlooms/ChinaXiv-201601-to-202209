@@ -1,0 +1,197 @@
+# Inflationary Attractor from Tachyonic Matter
+
+Zong-Kuan Guo,\* Yun-Song Piao,† and Rong-Gen Cai Institute of Theoretical Physics， Chinese Academy of Sciences，P.O.Box 2735，Beijing 100080，China.
+
+Yuan-Zhong Zhang CCAST (World Lab.)，P.O.Box 8730,Beijing 100080,China. Institute of Theoretical Physics，Chinese Academy of Sciences, P.O.Box 2735， Beijing 100080, China. (Dated:November 16,2016)
+
+We study the complete evolution of a flat and homogeneous universe dominated by tachyonic matter.We demonstrate the attractor behaviour of the tachyonic inflation using the HamiltonJacobi formalism.We else obtain analytical approximations to the trajectories of the tachyon field in different regions.The numerical calculation shows that an initial non-vanishing momentum does not prevent the onset of inflation.The slow-rolling solution is an attractor.
+
+PACS numbers:98.80.Cq, 04.50.+h
+
+# I.INTRODUCTION
+
+The study of non-BPS objects such as non-BPS branes, brane-antibrane configurations and spacelike branes has recently attracted great attention given its implications for string/M-theory and cosmology. The tachyon field associated with unstable D-branes,might be responsible for cosmological inflation at early epochs due to tachyon condensation near the top of the effective potential [1]. and could contribute to some new form of cosmological dark matter at late times [2]. Several authors have investigated the process of rolling of the tachyon in the cosmological background [3,4]. In the slow roll limit in FRW cosmology, the exact solution of tachyonic inflation with exponential potential is found [5].
+
+A question which has not yet been addressed in the literature on tachyonic inflation is the issue of constraints on the phase space of initial conditions for inflation which arise when one takes into account the fact that in the context of cosmology the momenta of the tachyon field cannot be neglected in the early universe.For models of the type of chaotic inflation，the work of [6] shows that most of the energetically accessible field value space give rise to a sufficiently long period of slow roll inflation.However, for models of the type of new inflation, allowing for non-vanishing initial field momenta may dramatically reduce the phase space of initial conditions for which successfulinflationresults,andthe attractor is the slow rolling solution [7].
+
+In this paper we investigate the constrains on the initial conditions of inflation with tachyon rolling down an exponential potential in phase space required for successful inflation. We demonstrate the attractor behaviour of the tachyonic inflation using the Hamilton-Jacobi formalism. We else use an explicitly numerical computation of the phase space trajectories and obtain analytical approximations to the trajectories of the tachyon in different regions.We find that in phase space there exists a curve that attracts most of the solutions.
+
+# II. TACHYONICMATTERCOSMOLOGY
+
+According to Sen [2], the effective action of the tachyon field in the Born-Infeld form can be written as
+
+$$
+S = \int d ^ { 4 } x \sqrt { - g } \left( \frac { 1 } { 2 \kappa ^ { 2 } } R + V ( T ) \sqrt { 1 + g ^ { \mu \nu } \partial _ { \mu } T \partial _ { \nu } T } \right)
+$$
+
+where T is the tachyon field minimally coupled to gravity. The rolling tachyon in a spatially flat FRW cosmological model can be described by a fluid with a positive energy density $\rho$ and a negative pressure $P$ given by
+
+$$
+\begin{array} { l } { \rho = \displaystyle \frac { V ( T ) } { \sqrt { 1 - \dot { T } ^ { 2 } } } , } \\ { P = - V ( T ) \sqrt { 1 - \dot { T } ^ { 2 } } , } \end{array}
+$$
+
+Thus
+
+$$
+\omega = { \frac { P } { \rho } } = - ( 1 - { \dot { T } } ^ { 2 } )
+$$
+
+Note that $- 1 \leq \omega \leq 0$ ，and a universe dominated by this rolling tachyonic matter will smoothly evolve from a phase of accelerating expansion to a phase dominated by a non-relativistic fluid [3]. The evolution equation of the tachyon field minimally coupled to gravity,and the Friedmann equation are
+
+$$
+\begin{array} { r } { \displaystyle { \frac { \dot { \Pi } } { 1 - \Pi ^ { 2 } } + 3 H \Pi + \frac { V ^ { \prime } ( T ) } { V ( T ) } = 0 , } } \\ { \displaystyle { H ^ { 2 } = \frac { \kappa ^ { 2 } } { 3 } \frac { V ( T ) } { \sqrt { 1 - \Pi ^ { 2 } } } } , } \end{array}
+$$
+
+where $\Pi \equiv \dot { T }$ denotes the velocity of tachyon.A universe dominated by tachyon feld would go under accelerating expansion as long as $\Pi ^ { 2 } < 2 / 3$ which is very different from the condition of inflation for non-tachyonic field, $\displaystyle \dot { \phi } ^ { 2 } < V ( \phi )$ . The tachyon potential $V ( T ) \to 0$ as $T $ $\infty$ ，but its exact form is not known at present [8].Sen has argued that the qualitative dynamics of string theory tachyons can be described by（1）with the exponential potential [9]
+
+$$
+V ( T ) = V _ { 0 } e ^ { - \alpha T } ,
+$$
+
+where $\alpha$ is the tachyon mass.The cosmological aspects of rolling tachyon with exponential potential are investigated [5]. In what follows we will consider (1） with exponential potential in purely phenomenological context without claiming any identification of $T$ with the string tachyon field.
+
+# III. INFLATIONARYATTRACTOR
+
+The Hamilton-Jacobi formulation [1o] is a powerful way of rewriting the equations of motion,which allows an easier derivation of many inflation results. We concentrate here on the homogeneous situation as applied to spatially flat cosmologies,and demonstrate the attractor behaviour of the tachyonic inflation using the HamiltonJacobi formalism [11].
+
+Differentiating Eq.(6) with respect to $t$ and substituting in Eq.(5) gives
+
+$$
+\dot { T } = - \frac { 2 } { 3 } { \frac { H ^ { \prime } ( T ) } { H ^ { 2 } ( T ) } }
+$$
+
+where primes denote derivatives with respect to the tachyon field $T$ ，which gives the relation between $T$ and （204号 $t$ . This allows us to write the Friedmann equation in the first-order form
+
+$$
+[ H ^ { \prime } ( T ) ] ^ { 2 } - \frac { 9 } { 4 } H ^ { 4 } ( T ) = - \frac { \kappa ^ { 4 } } { 4 } V ^ { 2 } ( T )
+$$
+
+Eq.(9) is the Hamilton-Jacobi equation. It allows us to consider $H ( T )$ ，rather than $V ( T )$ ，as the fundamental quantity to be specified. Suppose $H _ { 0 } ( T )$ is any solution to Eq.(9)，which can be either inflationary or noninflationary. Add to this a linear homogeneous perturbation $\delta H ( T )$ ； the attractor condition will be satisfied if it becomes small as $T$ increases. Substituting $H ( T ) = H _ { 0 } ( T ) + \delta H ( T )$ into Eq.(9）and linearizing,we find that the perturbation obeys
+
+$$
+H _ { 0 } ^ { \prime } \delta H ^ { \prime } \simeq \frac { 9 } { 2 } H _ { 0 } ^ { 3 } \delta H
+$$
+
+which has the general solution
+
+$$
+\delta H ( T ) = \delta H ( T _ { i } ) \exp \left( \frac { 9 } { 2 } \int _ { T _ { i } } ^ { T } \frac { H _ { 0 } ^ { 3 } ( T ) } { H _ { 0 } ^ { \prime } ( T ) } d T \right)
+$$
+
+where $\delta H ( T _ { i } )$ is the value at some initial point $T _ { i }$ .Because $H _ { 0 } ^ { \prime }$ and $d T$ have opposing signs,the integrand within the exponential term is negative definite,and hence all linear perturbations do indeed die away.If there is an inflationary solution,all linear perturbations approach it at least exponentially fast as the tachyon field rolls.
+
+# IV.PHASEPORTRAIT AND COSMOLOGICAL EVOLUTION
+
+We choose different initial conditions $T$ , in the range $T \geq 0$ ，and $\mathrm { I I }$ in the range $0 \leq \Pi \leq 1$ and we obtain the phase portrait in the $( T , \Pi )$ plane.Figure 1 shows that there exists a curve that attracts most of the trajectories,in the $( x , y )$ plane where $x = \alpha T$ and $y = \Pi$ are dimensionless coordinates. The initial kinetic term decays rapidly and does not prevent the onset of inflation.
+
+![](images/7e2337aa5376ea4fe56fa896fa4e2629120cb82bce764a9302324c43338d617e.jpg)  
+FIG.1: Phase portrait for tachyonic cosmology.
+
+The behavior of the trajectories can be also analyzed analytically. To understand the evolution of the tachyon field we define two regions $P$ and $K$ in the $( T , \Pi )$ plane as indicated in Figure 2. The region $P$ is the region where the potential dominates over the energy density, and the region $K$ is the region where the kinetic energy dominates.
+
+Curve $\Gamma$ .This curve describes the slow rolling solution where the evolution Eq. (5) and the Friedman Eq.(6) in expanding universe can be approximated by
+
+$$
+3 H \Pi + \frac { V ^ { \prime } ( T ) } { V ( T ) } = 0 ,
+$$
+
+$$
+H ^ { 2 } = \frac { \kappa ^ { 2 } } { 3 } V ( T ) ,
+$$
+
+from which it follows that
+
+$$
+\begin{array} { l } { \displaystyle \Pi = \frac { \alpha } { 3 \beta } e ^ { \frac { \alpha } { 2 } T } } \\ { \displaystyle T = \frac { 2 } { \alpha } \ln \left( \frac { 3 \beta } { \alpha } \Pi \right) } \end{array}
+$$
+
+![](images/7f0d20e299465c9ff291c06f2df028b68091570c5c04250125f014cdd7b57985.jpg)  
+FIG.2:Sketch of the different regions in the $( T , \Pi )$ phase plane.
+
+where $\beta \equiv \sqrt { \kappa ^ { 2 } V _ { 0 } / 3 }$ . The expression for the number $N$ of e-foldings of inflation can be written as
+
+$$
+N = \ln \frac { a _ { e } } { a _ { b } } = \kappa ^ { 2 } \int _ { T _ { e } } ^ { T _ { b } } \frac { V ^ { 2 } } { V ^ { \prime \prime } } d T = \left. \frac { \kappa ^ { 2 } } { \alpha ^ { 2 } } V ( T ) \right| _ { T _ { e } } ^ { T _ { b } } ,
+$$
+
+where $T _ { b }$ is the value of the field at the point where it reaches curve $\Gamma$ and $T _ { e }$ is the value of the field at the end of the slow rolling phase.In order to obtain enough e-foldings of slow roll inflation the value of $T _ { b }$ for such a trajectory must satisfy
+
+$$
+0 \leq T _ { b } < T _ { b } ^ { 6 0 }
+$$
+
+where $T _ { b } ^ { 6 0 }$ is calculated from Eq.(16) with $N = 6 0$
+
+Region $P$ .In this region,the potential dominates over the energy density. The potential force $V ^ { \prime } ( T )$ is negligible compared to the friction term since the friction coefficient is proportional to the potential. The evolution Eq.(5) and Friedman Eq.(6) are approximately
+
+$$
+\begin{array} { c } { { \dot { \Pi } + 3 H \Pi = 0 } } \\ { { H ^ { 2 } = { \displaystyle \frac { \kappa ^ { 2 } } { 3 } } V ( T ) } } \end{array}
+$$
+
+so that
+
+$$
+\begin{array} { l } { { \Pi \ = \ \Pi _ { p k } - { \displaystyle \frac { 6 \beta } { \alpha } } \left( e ^ { - { \frac { \alpha } { 2 } } T _ { p k } } - e ^ { - { \frac { \alpha } { 2 } } T } \right) } } \\ { { T \ = \ - { \displaystyle \frac { 2 } { \alpha } } \ln \left[ e ^ { - { \frac { \alpha } { 2 } } T _ { p k } } - { \frac { \alpha } { 6 \beta } } ( \Pi _ { p k } - \Pi ) \right] } } \end{array}
+$$
+
+where we have neglected $\Pi _ { b }$ since it is exponentially smaller than $\Pi _ { p k }$ .In general the unconventional forms of the tachyonic energy density and pressure make the cosmology with tachyon field differ from that with a normal scalar field, and make it diffcult to separate kinetic term from potential term. We assume that $V ( T )$ and $\begin{array} { r } { V ( T ) ( \frac { 1 } { \sqrt { ( 1 - \dot { T } ^ { 2 } ) } } - 1 ) } \end{array}$ areregardedasotetialadki netic term respectively. Therefore,the boundary value between region $P$ and region $S$ is $\begin{array} { r } { \Pi _ { p k } = \frac { \sqrt { 3 } } { 2 } } \end{array}$ . So
+
+where $T _ { p k }$ and $\Pi _ { p k }$ are the values at the boundary between region $P$ and region $K$ ．Let us now denote by $T _ { b }$ and $\Pi _ { b }$ the values of the inflaton and its momentum when the trajectory reaches the slow roll curve.
+
+$$
+T _ { b } = - \frac { 2 } { \alpha } \ln { \left[ e ^ { - \frac { \alpha } { 2 } T _ { p k } } - \frac { \alpha } { 4 \sqrt { 3 } \beta } \right] }
+$$
+
+$$
+- \frac { 2 } { \alpha } \ln { \left[ e ^ { - \frac { \alpha } { 2 } T _ { p k } } - \frac { \alpha } { 4 \sqrt { 3 } \beta } \right] } < T _ { b } ^ { 6 0 }
+$$
+
+To lead to sufficient inflation,from(17) such initial conditions must satisfy
+
+Region $K$ .It is the region of kinetic energy domination where $V ^ { \prime } ( T )$ is negligible compared to the friction term and(5)and(6) become
+
+$$
+\begin{array} { r } { \dot { \overline { { 1 } } } - \Pi ^ { 2 } + 3 H \Pi = 0 } \\ { H ^ { 2 } = \cfrac { \kappa ^ { 2 } } { 3 } \cfrac { V ( T ) } { \sqrt { 1 - \Pi ^ { 2 } } } } \end{array}
+$$
+
+$$
+T _ { b } = - \frac { 2 } { \alpha } \ln { \left[ e ^ { - \frac { \alpha } { 2 } T _ { p k } } - \frac { \alpha } { 6 \beta } \Pi _ { p k } \right] }
+$$
+
+These can be integrated and we find:
+
+$$
+\begin{array} { l } { { \displaystyle \Pi _ { 2 } F _ { 1 } \left( \frac { 1 } { 2 } , \frac { 3 } { 4 } , \frac { 3 } { 2 } , \Pi ^ { 2 } \right) ~ = ~ \Pi _ { p k 2 } F _ { 1 } \left( \frac { 1 } { 2 } , \frac { 3 } { 4 } , \frac { 3 } { 2 } , \Pi _ { p k } ^ { 2 } \right) } } \\ { { ~ - \frac { 6 \beta } { \alpha } e ^ { - \frac { \alpha } { 2 } T } \biggl | _ { T } ^ { T _ { p k } } } } \end{array}
+$$
+
+$$
+T = - \frac { 2 } { \alpha } \ln { [ e ^ { - \frac { \alpha } { 2 } T _ { p k } } - \frac { \alpha } { 6 \beta } \Pi _ { 2 } F _ { 1 } ( \frac { 1 } { 2 } , \frac { 3 } { 4 } , \frac { 3 } { 2 } , \Pi ^ { 2 } ) | _ { \Pi } ^ { \Pi _ { p k } } ] } (
+$$
+
+where ${ } _ { 2 } F _ { 1 } \left( { \textstyle { \frac { 1 } { 2 } } } , { \textstyle { \frac { 3 } { 4 } } } , { \textstyle { \frac { 3 } { 2 } } } , \Pi ^ { 2 } \right)$ is Gauss hypergeometric function.
+
+# V.CONCLUSIONS AND DISCUSSIONS
+
+To demonstrate the attractor behaviour of the tachyonic inflation，We use the Hamilton-Jacobi formalism which greatly simplifies the analysis.Adding to any solution to Eq.(9)a linear homogeneous perturbation,we find the perturbation die away exponentially. The attractor behaviour indicates that,regardless of initial conditions, the late-time solutions are the same up to a time shift, which cannot be measured [12]. We else use an explicitly numerical computation of the phase space trajectories and obtain analytical approximations to the trajectories of the tachyon in different regions. One can easily verify from Figure 1 and Figure 2 that these approximations are in very good agreement with the numerical results, and that the slow rolling solution is the late-time attractor.Although the initial kinetic term decays rapidly and does not prevent the onset of inflation,allowing for non-vanishing initial field momenta around $T = 0$ may dramatically reduce the phase space of initial conditions for which successful inflation results.
+
+According to the picture of tachyonic inflation，the homogeneous tachyon field near the top of the potential rolls down towards the minimum of the potential at $T \to \infty$ . Tachyonic matter behaves at late time as a pressureless gas of massive particles.In most versions of the theory of reheating，production of particles occurs only when the inflaton field oscillates near the minimum of its effective potential. However, the effective potential of the rolling tachyon does not have any minimum at finite $T$ so this mechanism does not work.It is unclear how the universe could be reheated in the framework of tachyon cosmology. Recently, some studies pointed out that as the tachyon evolves into the late-time,the coupling to the closed string becomes more and more large [13]. These results motivate us to expect that the tachyon could emit closed string radiation [14,15],such as graviton and dilation,into the bulk and eventually settles in the finite minimum.
+
+# Acknowledgments
+
+It is a pleasure to acknowledge helpful discussions with G.N.Felder and R.S.Tung.This project was in part supported by NNSFC under Grant Nos. 10175070 and 10047004 as well as also by NKBRSF G19990754.
+
+[1] D.Choudhury，D.Ghoshal, D.P.Jatkar and S.Panda, hep-th/0204204; M.Fairbairn and M.H.Tytgat,hep-th/0204070.   
+[2] A.Sen,hep-th/0203211; A.Sen,hep-th/0203265.   
+[3] G.W.Gibbons,hep-th/0204008.   
+[4] G.Shiu and I.Wasserman,hep-th/0205003; A.Frolove, L.Kofman and A.Starobinsky, hep-th/0204187; L.Kofman and A.Linde,hep-th/0205121; M.C.Bento,O.Bertolami and A.A.Sen,hep-th/0208124; A.Mazumdar，S.Panda and A.Perez-Lorenzana, Nucl.Phys.B614(2001）101,hep-ph/0107058; Y.Piao,R.Cai, X.Zhang and Y.Zhang,hep-ph/0207143; Y.Piao, Q.Huang, X.Zhang and Y.Zhang, hep-ph/0212219.   
+[5] M.Sami, P.Chingangbam and T.Qureshi, hep-th/0205179; M.Sami,hep-th/0301140.   
+[6] H.A.Feldman and R.H.Brandenberger, Phys.Lett.B227 (1989) 359; G.N.Felder,A.Frolov,L.Kofman and A.Linde,Phys.Rev. D66(2002)023507.   
+[7] D.S.Goldwirth, Phys.Lett.B243(1990) 41; D.S.Goldwirth and T.Piran,Phys.Rept.214 (1992) 214.   
+[8] A.A.Gerasimov, S.L.Shatashvili, JHEP 0010 (2000) 034, hep-th/0009103; A.Minahan and B.Zwiebach，JHEP O103（2001）038, hep-th/0009246; D.Kutasov,A.Tseytlin,J.Math.Phys.42(2001） 2854.   
+[9]A.Sen,hep-th/0204143.   
+[10] D.S.Salopek and J.R.Bond,Phys.Rev. D42(1990) 3936; A.G.Muslimov, Class.Quant.Grav.7(1990) 231; J.E.Lidsey, Phys.Lett.B273(1991) 42.   
+[11]A.R.Liddle,P.Parsons and J.D.Barrow, Phys.Rev.D50 (1994) 7222, astro-ph/9408015; A.R.Liddle and D.H.Lyth，Cosmological Inflation and Large-Scale Structure,(20oO) Cambridge,UK.   
+[12]A.R.Liddle,A.Mazumdar and F.E.Schunck,Phys.Rev. D58 (1998) 061301,astro-ph/9804177; E.J.Copeland,A.Mazumdar and N.J.Nunes,Phys.Rev. D60（1999)083506,astr0-ph/9904309.   
+[13]G.Gibbons,K.Hashimoto and P.Yi,JHEP 0209 (2002) 061,hep-th/0209034; T.Okuda and S.Sugimoto,hep-th/0208196; N.D.Lambert and I.Sachs,hep-th/0208217.   
+[14] M.Gutperle and A.Strominger, JHEP 0204 (2002) 018, hep-th/0202210; H.Liu,G.Moore and N.Seiberg,JHEP 0210 (2002) 031, hep-th/0206182; P.Mukhopadhyay and A.Sen,hep-th/0208142; A.Strominger,hep-th/0209090; B.Chen,M.Li and F.L.Lin,hep-th/0209222.   
+[15] K.Ohta and T.Yokono,hep-th/0207004; S.Mukohyama,hep-th/0208187; M.Alishahiha and S.Parvizi， JHEP O210 (2002）047, hep-th/0208187; G.Dvali and A.Vilenkin,hep-th/0209217; E.J.Martinec,hep-th/0210231.

@@ -1,0 +1,242 @@
+李雪玲1,2　柴建民² 张乃锋²张 蓉²王 杰² 王世琴²陶大勇1\* 刁其玉²\*（1．塔里木大学动物科学学院，阿拉尔843300；2．中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，北京100081)
+
+摘要：本试验旨在采用氨基酸部分扣除法研究断奶羔羊的4种必需氨基酸的限制性顺序和需要模型。选取50日龄断奶湖羊公羊100只随机分为5组，每组4个重复，每个重复5只羊。对照组为氨基酸平衡（PC）组，饲喂氨基酸平衡的开食料，4个试验组开食料在PC组的基础上分别扣除赖氨酸（PD-Lys组）、蛋氨酸（PD-Met组）、苏氨酸（PD-Thr组）和色氨酸（PD-Trp组)，其余氨基酸含量保持一致。预试期为 $1 0 \mathrm { d }$ ，正试期为 $6 0 \textup d$ 。于羔羊60、90和120日龄称量体重，在120日龄每组随机选取6只羔羊进行屠宰。结果表明：1）60\~120日龄和90\~120日龄，PD-Met组羔羊平均日增重（ADG）显著低于其他各组（ $\scriptstyle \cdot < 0 . 0 5$ )，饲料转化率（F/G）显著高于其他各组（ $\scriptstyle P < 0 . 0 5 .$ )；120日龄时，PD-Met组宰前活重、空体重、胴体重、眼肌面积、头重、蹄重及皮毛重均显著低于PC、PD-Thr和PD-Trp组（ $\scriptstyle \cdot < 0 . 0 5 .$ )，但是5组间屠宰率（DP）、GR值和血液重差异不显著（ $\mathrm { \Phi } _ { P > 0 . 0 5 } )$ ）。2）以最大ADG和F/G为评价指标时，60\~90日龄和90\~120日龄氨基酸限制性顺序为Met、Lys、Thr和Trp；而以最大DP为评价指标时，120日龄氨基酸的限制性顺序为Trp、Thr、Lys、Met。3）以最大ADG作为评价指标时，60\~90日龄和90\~120日龄Lys、Met、Thr和Trp的适宜比例分别为100:44:44:8和100:42:38:12；以最大F/G作为评价指标时，60\~90日龄和90\~120日龄Lys、Met、Thr和Trp的适宜比例分别为100:54:45:7和100:47:39:12；以最大DP为评价指标时，60\~120日龄Lys、Met、Thr和Trp的适宜比例为100:34:38:8。总之，饲粮必需氨基酸（Lys、Met、Thr和Trp）缺乏严重影响湖羊断奶羔羊的生长性能、屠宰性能和器官指数，特别是Met影响最为明显，其次是Lys，Thr和Trp影响较弱；不同评价指标（ADG、F/G和DP）和不同生长阶段得出的Lys、Met、Thr和Trp的限制性顺序和需要模型是不同的。
+
+关键词：湖羊；断奶羔羊；开食料；氨基酸模型；赖氨酸；蛋氨酸；色氨酸
+
+# 中图分类号：S826
+
+必需氨基酸（essential amino acids，EAA）是动物自身不能合成，构成动物机体蛋白质骨架所必需的营养物质[]。氨基酸平衡有利于动物生长相关生物活性物质的合成，对动物生长和发育具有重要意义[2]。目前，对于断奶后羔羊氨基酸平衡模式的研究处于空白阶段，通过确立此阶段羔羊氨基酸平衡模式对提高生产性能、机体免疫机能、饲料利用效率和减轻养殖废弃物对环境造成的污染都有重要意义[3]。张乃锋等[4]和王建红等[5]通过氨基酸部分扣除法获得了不同生长阶段犊牛赖氨酸、蛋氨酸和苏氨酸平衡模式，获得了较好的结果。Ker等6和 Zhang 等7研究表明，适宜的饲粮赖氨酸、蛋氨酸、苏氨酸和色氨酸含量可提高生长猪的生长性能。早在 20世纪50年代，限制性氨基酸顺序已在猪、禽配合饲粮中得到广泛的研究。王建红等5发现在犊牛上赖氨酸、蛋氨酸和苏氨酸分别为第一、第二和第三限制性氨基酸[]，但NRC（2012）和研究者们并未给出羔羊限制性氨基酸顺序[9]。随着氨基酸营养研究的不断深入，限制性氨基酸的研究可揭示不同生理阶段氨基酸的顺序，及进一步确定氨基酸对羔羊生长的限制性程度。目前，有关于断奶羔羊需要量的研究鲜见报道，饲粮氨基酸组成及比例，即理想氨基酸模式的研究还处于空白，有必要对氨基酸需要量及其理想氨基酸模式开展研究，制定适合羔羊生长发育的营养需要标准，用来指导羔羊的生产，提高养殖户的经济效益和改善生态环境[10]。为此，本试验主要目标是采用氨基酸部分扣除法对 60\~120 日龄湖羊羔羊开食料中必需氨基酸限制性顺序和适宜的氨基酸模式进行研究，利用饲养试验和屠宰试验，确立断奶后羔羊获得最大平均日增重（ADG)、饲料转化率（F/G）和屠宰率（dressing percentage,DP)时开食料中适宜的氨基酸模型，为科学饲养提供一定的理论依据。
+
+1材料与方法
+
+1.1试验时间和地点试验于2015年10月7日至2015年12月7日在江苏省泰州市海伦羊业有限公司进行，营养水平分析在中国农业科学院饲料研究所家畜营养与饲料研究室进行。
+
+# 1.2 试验设计
+
+本试验参照Wang 等[1的氨基酸部分扣除法，采用单因素完全随机试验设计，选取100只 50日龄断奶体重 $1 1 ~ \mathrm { k g }$ 左右湖羊公羔羊，按体重相近、日龄相同原则分为5组，每组4个重复，每个重复5只。并根据部分扣除法，将羔羊分为氨基酸平衡（PC）组、 $30 \%$ 扣除
+
+Lys（PD-Lys）组、 $30 \%$ 扣除 Met（PD-Met）组、 $30 \%$ 扣除 Thr（PD-Thr）组和 $30 \%$ 扣除Trp（PD-Trp）组。
+
+1.3 试验饲粮
+
+根据本实验室研究成果[12]，设计PC组开食料的蛋白质水平为 $1 5 . 0 \%$ 。羔羊氨基酸平衡模式的 Met 需要量为 $0 . 3 8 \%$ （Met为CP的 $6 . 4 \%$ ）[13]，根据 Storm 等[14]提出的 Lys:Met 为3.1:1.0，计算 Lys 需要量，再应用刁其玉[提出羔羊的氨基酸平衡模型（Lys:Thr:Trp 为100.0:50.5:14.3)计算 Thr、Trp 需要量。PC 组开食料Lys、Met、Thr 和 Trp 含量分别为 $1 . 1 6 \%$ 、$0 . 3 8 \%$ 、 $0 . 5 8 \%$ 和 $0 . 1 6 \%$ 。各组开食料通过调整过瘤胃保护氨基酸添加量而形成。试验用过瘤胃保护赖氨酸由德固赛有限公司提供，过瘤胃保护蛋氨酸由希杰有限公司提供，过瘤胃保护苏氨酸和过瘤胃保护色氨酸由康德权科技有限公司提供，其中各含赖氨酸盐酸盐、蛋氨酸盐酸盐、苏氨酸盐酸盐和色氨酸盐酸盐 $6 5 \%$ 左右，过瘤胃率 ${ \geqslant } 8 0 \%$ 。开食料氨基酸含量、开食料组成及营养水平分别见表1和表2。
+
+%
+
+Table 1Amino acid designing contents of starters (DM basis)   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">组别 Groups</td></tr><tr><td>PC</td><td>PD-Lys</td><td>PD-Met</td><td>PD-Thr</td><td>PD-Trp</td></tr><tr><td>赖氨酸Lys</td><td>1.16</td><td>0.81</td><td>1.16</td><td>1.16</td><td>1.16</td></tr><tr><td>蛋氨酸Met</td><td>0.38</td><td>0.38</td><td>0.27</td><td>0.38</td><td>0.38</td></tr><tr><td>苏氨酸Thr</td><td>0.58</td><td>0.58</td><td>0.58</td><td>0.41</td><td>0.58</td></tr><tr><td>色氨酸Trp</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.11</td></tr></table></body></html>
+
+计算值 Calculated values。
+
+表1开食料氨基酸设定含量(干物质基础）  
+表2开食料组成及营养水平(干物质基础)  
+Table 2Composition and nutrient levels of starters (DM basis)   
+%   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td></tr><tr><td>PC</td><td>PD-Lys</td><td>PD-Met</td><td>PD-Thr</td><td>PD-Trp</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>56.86</td><td>57.20</td><td>56.98</td><td>57.11</td><td>56.94</td></tr><tr><td>小麦麸 Wheat bran</td><td>8.00</td><td>8.00</td><td>8.00</td><td>8.00</td><td>8.00</td></tr><tr><td>大豆粕 Soybean meal</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>苜蓿草粉 Alfalfa meal</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td></tr><tr><td>预混料 Premix1)</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td></tr><tr><td>瘤胃保护赖氨酸 RP-Lys</td><td>0.55</td><td>0.21</td><td>0.55</td><td>0.55</td><td>0.55</td></tr><tr><td>瘤胃保护蛋氨酸RP-Met</td><td>0.18</td><td>0.18</td><td>0.06</td><td>0.18</td><td>0.18</td></tr><tr><td>瘤胃保护苏氨酸RP-Thr</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.08</td><td>0.33</td></tr></table></body></html>
+
+<html><body><table><tr><td>瘤胃保护色氨酸 RP-Trp</td><td>0.08</td><td>0.08</td><td>0.08</td><td>0.08</td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>90.60</td><td>90.53</td><td>89.22</td><td>90.80</td><td>89.61</td></tr><tr><td>粗蛋白质 CP</td><td>15.94</td><td>15.58</td><td>15.38</td><td>15.58</td><td>15.34</td></tr><tr><td>代谢能 ME/（MJ/kg)</td><td>12.35</td><td>12.40</td><td>12.37</td><td>12.39</td><td>12.36</td></tr><tr><td>粗脂肪 EE</td><td>3.41</td><td>3.04</td><td>3.69</td><td>3.42</td><td>3.70</td></tr><tr><td>粗灰分 Ash</td><td>8.65</td><td>8.85</td><td>8.57</td><td>8.70</td><td>8.33</td></tr><tr><td>中性洗涤纤维 NDF</td><td>26.35</td><td>25.92</td><td>28.96</td><td>24.92</td><td>26.14</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>11.48</td><td>11.36</td><td>11.25</td><td>11.09</td><td>11.05</td></tr><tr><td>钙Ca</td><td>0.85</td><td>0.84</td><td>0.81</td><td>0.85</td><td>0.80</td></tr><tr><td>总磷TP</td><td>0.36</td><td>0.32</td><td>0.31</td><td>0.34</td><td>0.38</td></tr><tr><td>必需氨基酸 EAA</td><td>5.22</td><td>4.90</td><td>5.07</td><td>5.10</td><td>5.18</td></tr><tr><td>赖氨酸Lys</td><td>1.17</td><td>0.81</td><td>1.16</td><td>1.15</td><td>1.18</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.65</td><td>0.67</td><td>0.64</td><td>0.66</td><td>0.65</td></tr><tr><td>蛋氨酸 Met</td><td>0.39</td><td>0.37</td><td>0.27</td><td>0.38</td><td>0.36</td></tr><tr><td>苏氨酸Thr</td><td>0.54</td><td>0.59</td><td>0.56</td><td>0.41</td><td>0.58</td></tr><tr><td>亮氨酸Leu</td><td>1.16</td><td>1.10</td><td>1.12</td><td>1.14</td><td>1.16</td></tr><tr><td>异亮氨酸 Ile</td><td>0.51</td><td>0.53</td><td>0.52</td><td>0.54</td><td>0.52</td></tr><tr><td>氨酸Val</td><td>0.63</td><td>0.65</td><td>0.64</td><td>0.67</td><td>0.62</td></tr><tr><td>色氨酸Trp</td><td>0.17</td><td>0.18</td><td>0.16</td><td>0.15</td><td>0.11</td></tr><tr><td>非必需氨基酸 NEAA</td><td>9.55</td><td>9.64</td><td>9.52</td><td>9.57</td><td>9.47</td></tr><tr><td>组氨酸His</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.34</td><td>0.31</td></tr><tr><td>半胱氨酸 Cys</td><td>0.21</td><td>0.25</td><td>0.21</td><td>0.23</td><td>0.21</td></tr><tr><td>精氨酸Arg</td><td>0.77</td><td>0.79</td><td>0.77</td><td>0.78</td><td>0.75</td></tr><tr><td>酪氨酸Tyr</td><td>0.46</td><td>0.42</td><td>0.46</td><td>0.43</td><td>0.48</td></tr><tr><td>甘氨酸 Gly</td><td>0.84</td><td>0.89</td><td>0.84</td><td>0.85</td><td>0.82</td></tr><tr><td>丝氨酸 Ser</td><td>0.85</td><td>0.88</td><td>0.85</td><td>0.86</td><td>0.83</td></tr><tr><td>谷氨酸Glu</td><td>2.56</td><td>2.57</td><td>2.56</td><td>2.57</td><td>2.55</td></tr><tr><td>脯氨酸Pro</td><td>1.25</td><td>1.26</td><td>1.25</td><td>1.27</td><td>1.22</td></tr><tr><td>天冬氨酸 Asp</td><td>1.46</td><td>1.42</td><td>1.45</td><td>1.43</td><td>1.46</td></tr><tr><td>丙氨酸 Ala</td><td>0.82</td><td>0.83</td><td>0.80</td><td>0.81</td><td>0.84</td></tr><tr><td>总氨基酸TAA</td><td>14.77</td><td>14.54</td><td>14.59</td><td>14.67</td><td>14.65</td></tr></table></body></html>
+
+1)预混料为每千克开食料提供 Premix provided the following per $\mathrm { k g }$ of starters:VA 15 000 IU,VD 5 000
+
+U,VE 90 IU,Cu 12 mg,Fe 90 mg,Mn 56 mg,Zn 100 mg,I 0.8 mg,Se 0.3 mg,Co 0.5 mg。
+
+2)除代谢能为计算值外，其余均为实测值。营养水平测定参考《饲料分析及饲料质量检测技术》[15]。 ME was a calculated value, while the rest nutrient levels were measured values.Nutrient levels were determined in reference to Feed Analysis and Feed Quality Analysis Technics[15].
+
+# 1.4饲养管理
+
+试验羔羊每圈（ $2 0 0 \ \mathrm { c m } \times 3 7 5 \ \mathrm { c m } )$ 5只，50日龄开始训练采食开食料，60\~120日龄开食料日饲喂量根据McMillan[16提出的按羔羊体重的 $4 \%$ 进行饲喂。开食料每日饲喂2 次(08:00和16:00)，自由饮水。每只羊活动空间约为 $1 . 5 0 \mathrm { m } ^ { 2 }$ ，每半个月对所有栏位进行消毒1次（轮流使用 $2 . 0 \%$ 火碱溶液、 $0 . 5 \%$ 聚维酮碘溶液、 $0 . 2 \%$ 氯异氰脲酸溶液)。所有试验羔羊均按羊场正常的免疫程序进行免疫。
+
+1.5样品采集及测定指标和方法
+
+# 1.5.1 开食料营养水平
+
+总能使用Parr-6400氧弹量热仪测定；粗蛋白质含量采用KDY-9830全自动凯氏定氮仪测定；干物质、粗脂肪、粗灰分、钙、磷含量参考《饲料分析及饲料质量检测技术》[15]测定。开食料氨基酸含量采用氨基酸自动分析仪（L-8800，日本日立公司）进行测定（样品粉碎过60目，在水解管内加6mol/LHCl10mL，真空泵抽真空，（ $1 1 0 \pm 1$ ）℃恒温干燥箱内水解 $2 4 \mathrm { h }$ ，冷却、过滤，干燥器中蒸干，再加入 $1 ~ \mathrm { m L }$ 的0.02mol/LHCl溶解，在空气中放置 $3 0 \mathrm { m i n }$ 测定氨基酸含量;测定色氨酸含量时用 $5 \mathrm { m o l / L }$ 的NaOH溶液水解，测定其含量[17]。
+
+# 1.5.2 生长性能
+
+ADG:准确称量并记录60、90及120日龄晨饲前羔羊体重，计算出60\~90 日龄和90\~120日龄ADG。
+
+采食量：每天准确记录每圈开食料的饲喂量及剩料量，开食料的饲喂量根据体重在 60日龄及之后的每 $3 0 \mathrm { d }$ 进行1次调整。
+
+F/G：根据ADG及采食量计算各阶段的F/G。
+
+# 1.5.3 屠宰性能及器官指数
+
+于120日龄时每组选取健康、接近平均体重的6只羔羊，禁食、禁水 $1 6 \mathrm { h }$ 后进行屠宰，并在屠宰当天O8：00 称量宰前活重（live weight before slaughter,LWBS)。羔羊进行放血屠宰，之后剥皮，去头、蹄、内脏后称量胴体重。按照《家畜解剖学及组织胚胎学》进行解剖，分离羔羊内脏，称量心脏、肝脏、肺脏、脾脏、肾脏各内脏器官鲜重，并计算各器官占宰前活重比例；消化道清除内容物并清洗干净，分别称取瘤胃、网胃、瓣胃、皱胃以及大肠和小肠的重量，计算每个胃占宰前活重比例及占复胃总重（total stomachus compositusweight,TCSW）比例[18]，准确记录相关的数据。
+
+空体重（empty body weight,EBW,kg） $\ c =$ 宰前活重-胃肠道内容物总重;
+
+胴体重（carcass weight $\mathbf { C W , k g }$ ） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 宰前活重-皮毛、头、蹄、生殖器官及周围脂肪、内脏（保留肾脏及周围脂肪）的重量；
+
+DP $( \% ) = 1 0 0 \times$ 胴体重/宰前活重；
+
+器官重占宰前活重比例 $( \% ) = 1 0 0 \times$ 器官重/宰前活重；
+
+单个胃室重占复胃总重比例 $( \% ) \ = 1 0 0 \times$ 单个胃室重/4个胃室总重。
+
+屠宰后，使用硫酸纸描绘倒数第1和第2根肋骨之间背最长肌的轮廓，并用求积仪（CS-I，江苏省无锡测绘仪器厂）求出轮廓面积，即眼肌面积。使用游标卡尺测量第12 和 13根肋骨之间距离背脊中线 $1 1 \mathrm { { c m } }$ 处组织的厚度，每只羊重复测量3次，取其平均值即为GR值。
+
+眼肌面积（ribeye area,RA,cm²） $\ c =$ 读数差值 $\times 2 0 / 1 0 0$ 。
+
+1.5.4氨基酸顺序和比例计算
+
+氨基酸限制性顺序和最优比例的计算参考王建红等[5]和Wang 等[的方法。
+
+# 1.6 数据处理
+
+试验数据经过Excel2013初步整理后，使用SAS9.2统计软件进行单因素方差分析(one-way ANOVA)，以 $P { < } 0 . 0 5$ 作为判断差异显著性的标准。
+
+# 2结果与分析
+
+2.1开食料氨基酸部分扣除对断奶湖羊羔羊生长性能的影响
+
+由表3 可知，在 60\~90 日龄期间 PD-Lys 和PD-Met 组 ADG 显著低于PD-Trp 组（ $P <$ 0.05)；90\~120 日龄 PD-Met 组羔羊 ADG 显著低于PC、PD-Lys、PD-Thr 和 PD-Trp 组（ $P$ $< 0 . 0 5 )$ ；在 60\~120 日龄试验全期 PD-Met 组羔羊 ADG 最低，显著低于PC、PD-Lys、PD-Thr和 PD-Trp 组（ $\scriptstyle \left. { \begin{array} { r l } { P < 0 . 0 5 } \end{array} } \right.$ ），PD-Lys 组显著低于PC 和 PD-Trp 组（ $\scriptstyle \cdot < 0 . 0 5$ ）。对于羔羊ADG氨基酸重要性的顺序为：Met>Lys>Thr>Trp。60\~90 日龄、90\~120 日龄和 60\~120 日龄各组采食量差异不显著（ $\mathrm { ( } P { > } 0 . 0 5 \$ )。60\~90日龄各组的F/G差异不显著（ $P { > } 0 . 0 5 )$ ；90\~120日龄PD-Met 组羔羊F/G 显著高于PC、PD-Thr、PD-Trp 组（ $\scriptstyle \left. { \begin{array} { r l } { P < 0 . 0 5 } \end{array} } \right)$ ；60\~120 日龄 PD-Met组F/G 显著高于其他各组（ $\scriptstyle P < 0 . 0 5 .$ )。对于F/G 的氨基酸重要性顺序为：Met>Lys>Thr>Trp
+
+表3开食料氨基酸部分扣除对断奶湖羊羔羊生长性能的影响  
+Table 3Effects of amino acids partial deduction in starter on growth performance of $H u$ weaned lambs   
+
+<html><body><table><tr><td>组别Groups SEM</td></tr></table></body></html>
+
+<html><body><table><tr><td>Items</td><td>PC</td><td>PD-Lys</td><td>PD-Met</td><td>PD-Thr</td><td>PD-Trp</td><td></td><td>P-value</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>60~90 日龄 60 to 90 days of age</td><td>176.06ab</td><td>164.04b</td><td>149.98b</td><td>169.57ab</td><td>180.12a</td><td>4.73</td><td>0.029 0</td></tr><tr><td>90~120 日龄 90 to 120 days of age</td><td>215.50a</td><td>182.77a</td><td>152.08b</td><td>209.36a</td><td>203.98a</td><td>6.44</td><td><0.000 1</td></tr><tr><td>60~120 日龄 60 to 120 days of age</td><td>195.78a</td><td>173.41b</td><td>151.14c</td><td>189.47ab</td><td>192.05a</td><td>7.46</td><td><0.000 1</td></tr><tr><td>采食量Feed intake/（g/d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>60~90 日龄 60 to 90 days of age</td><td>602.40</td><td>593.83</td><td>583.66</td><td>600.64</td><td>597.67</td><td>3.33</td><td>0.639 7</td></tr><tr><td>90~120 日龄 90 to 120 days of age</td><td>994.58</td><td>990.92</td><td>986.99</td><td>994.22</td><td>985.47</td><td>1.79</td><td>0.073 2</td></tr><tr><td>60~120 日龄 60 to 120 days of age</td><td>798.49</td><td>772.87</td><td>785.30</td><td>797.93</td><td>791.77</td><td>2.33</td><td>0.062 2</td></tr><tr><td>饲料转化率F/G/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>60~90 日龄 60 to 90 days of age</td><td>3.46</td><td>3.65</td><td>4.07</td><td>3.58</td><td>3.35</td><td>0.13</td><td>0.479 1</td></tr><tr><td>90~120 日龄 90 to 120 days of age</td><td>4.69b</td><td>5.42b</td><td>6.49a</td><td>4.86b</td><td>4.83b</td><td>0.32</td><td>0.040 1</td></tr><tr><td>60~120 日龄 60 to 120 days of age</td><td>4.10b</td><td>4.52b</td><td>5.47a</td><td>4.23b</td><td>4.12b</td><td>0.18</td><td>0.047 7</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2开食料氨基酸部分扣除对断奶湖羊羔羊屠宰性能的影响
+
+由表4 可知，120日龄时，各组的DP、背膘厚、GR值及血液重差异不显著（ $( P { > } 0 . 0 5 ) .$ ）°PD-Met组宰前活重、空体重、胴体重、眼肌面积、头重、蹄重及皮毛重均显著低于PC、PD-Thr和 PD-Trp 组( $\cdot P { < } 0 . 0 5 )$ ，但PD-Met 组与PD-Lys 组差异不显著（ $\mathrm { ( } P { > } 0 . 0 5 \mathrm { ) }$ ),PC 组与 PD-Thr、PD-Trp 组差异不显著（ $\mathrm { ( } P { > } 0 . 0 5 \mathrm { ) }$ )。DP 的氨基酸重要性顺序趋势为：Trp>Thr>Lys>Met。
+
+表4开食料氨基酸部分扣除对断奶湖羊羔羊屠宰性能的影响  
+Table 4Effects of amino acids partial deduction in starter on slaughter performance of $H u$ weaned lambs   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td><td rowspan="2">SEM</td><td>P值</td></tr><tr><td>PC</td><td>PD-Lys</td><td>PD-Met</td><td>PD-Thr</td><td>PD-Trp</td><td>P-value</td></tr><tr><td>宰前活重LWBS/kg</td><td>26.09a</td><td>23.74bc</td><td>23.03c</td><td>25.96ab</td><td>25.15ab</td><td>0.33</td><td>0.001 9</td></tr><tr><td>空体重 EBW/kg</td><td>20.84a</td><td>18.08bc</td><td>17.23℃</td><td>19.54ab</td><td>18.86b</td><td>0.31</td><td>0.000 5</td></tr><tr><td>胴体重 CW/kg</td><td>13.51a</td><td>11.92b</td><td>11.61b</td><td>12.77ab</td><td>12.08b</td><td>0.20</td><td>0.020 0</td></tr><tr><td>屠宰率DP/%</td><td>48.94</td><td>50.22</td><td>50.42</td><td>49.18</td><td>47.94</td><td>0.38</td><td>0.223 8</td></tr><tr><td>眼肌面积RA/cm²</td><td>15.20a</td><td>11.72ab</td><td>8.38b</td><td>14.86a</td><td>15.20a</td><td>0.87</td><td>0.008 6</td></tr><tr><td>GR 值 GR value/mm</td><td>3.11</td><td>2.79</td><td>2.95</td><td>3.03</td><td>2.85</td><td>0.08</td><td>0.771 7</td></tr><tr><td>背膘厚Backfat thickness/mm</td><td>1.44</td><td>1.20</td><td>1.73</td><td>1.41</td><td>1.35</td><td>0.08</td><td>0.417 5</td></tr><tr><td>血液重 Blood weight/g</td><td>1 016.67</td><td>1093.33</td><td>1 056.67</td><td>976.67</td><td>960.00</td><td>20.08</td><td>0.193 2</td></tr><tr><td>头重 Head weight/g</td><td>1 483.33ab</td><td>1 356.67b</td><td>1 383.33b</td><td>1553.33a</td><td>1 453.33ab</td><td>22.65</td><td>0.032 0</td></tr><tr><td>蹄重 Feet weight/g</td><td>771.67a</td><td>691.67b</td><td>700.00b</td><td>706.67b</td><td>750.00ab</td><td>9.88</td><td>0.027 2</td></tr><tr><td>皮毛重 Skin and wool weight/g</td><td>3 303.30a</td><td>2 753.30bc</td><td>2 636.70c</td><td>3 010.00ab</td><td>2 980.00ab</td><td>62.85</td><td>0.0028</td></tr></table></body></html>
+
+140 2.3开食料氨基酸扣除对断奶湖羊羔羊内脏器官指数的影响
+
+由表5可知，120 日龄 PD-Lys、PD-Met、PD-Thr及PD-Trp 组心脏和肝脏重量均显著低于PC组（ $\cdot P { < } 0 . 0 5 \$ )，PD-Met、PD-Thr及PD-Trp 组肝脏重量占宰前活重比例显著低于PC组（ $\scriptstyle P < 0 . 0 5 ,$ )。PD-Lys、PD-Met 组的肾脏重量显著低于PC 组（ $\scriptstyle P < 0 . 0 5$ )。试验组与PC 组脾脏和肺脏重量、脾脏和肺脏重量占宰前活重比例、肾脏重量占宰前活重比例无显著性差异（204号 $( P { > } 0 . 0 5 )$ 。
+
+Table 5Effects of amino acids partial deduction in starter on internal organ indices of $H u$ weaned lambs   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2"></td><td colspan="5">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>PC</td><td>PD-Lys</td><td>PD-Met</td><td>PD-Thr</td><td>PD-Trp</td></tr><tr><td>心脏</td><td>重量Weight/g</td><td>135.23a</td><td>115.65b</td><td>117.15b</td><td>119.32b</td><td>121.00b</td><td>2.35</td><td>0.043 4</td></tr><tr><td>Heart</td><td>占宰前活重比例 Percentage of LWBS/%</td><td>0.51</td><td>0.50</td><td>0.50</td><td>0.46</td><td>0.48</td><td>0.02</td><td>0.405 1</td></tr><tr><td>肝脏</td><td>重量Weight/g</td><td>549.52a</td><td>478.00b</td><td>443.87b</td><td>480.78b</td><td>458.02b</td><td>8.80</td><td>0.000 1</td></tr><tr><td>Liver</td><td>占宰前活重比例 Percentage of LWBS/%</td><td>2.08a</td><td>2.08a</td><td>1.87b</td><td>1.86b</td><td>1.82b</td><td>0.03</td><td>0.001 2</td></tr><tr><td>脾脏</td><td>重量Weight/g</td><td>36.65</td><td>33.65</td><td>33.42</td><td>32.00</td><td>35.87</td><td>0.95</td><td>0.552 6</td></tr><tr><td>Spleen</td><td>占宰前活重比例 Percentage of LWBS/%</td><td>0.14</td><td>0.15</td><td>0.14</td><td>0.12</td><td>0.14</td><td>0.01</td><td>0.518 6</td></tr><tr><td>肺脏</td><td>重量Weight/g</td><td>355.32</td><td>351.75</td><td>324.08</td><td>339.35</td><td>334.27</td><td>8.62</td><td>0.804 0</td></tr><tr><td>Lung</td><td>占宰前活重比例 Percentage of LWBS/%</td><td>1.35</td><td>1.54</td><td>1.37</td><td>1.31</td><td>1.33</td><td>0.04</td><td>0.381 7</td></tr><tr><td>肾脏</td><td>重量Weight/g</td><td>46.82a</td><td>36.10b</td><td>38.03b</td><td>41.32ab</td><td>40.17ab</td><td>1.11</td><td>0.017 2</td></tr><tr><td>Kidney</td><td>占宰前活重比例 Percentage of LWBS/%</td><td>0.18</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.01</td><td>0.452 7</td></tr></table></body></html>
+
+82.4开食料氨基酸部分扣除对断奶湖羊羔羊胃肠道发育的影响
+
+由表6可知,120日龄PD-Lys和PD-Trp组皱胃重量占复胃总重比例显著低于PC、PD-Met和 PD-Thr 组（ $\scriptstyle P < 0 . 0 5 .$ )，PC、PD-Lys、PD-Met、PD-Thr 和 PD-Trp 组瘤胃、网胃、瓣胃、皱胃和小肠重量差异不显著（ $\mathrm { ( } P { > } 0 . 0 5 \mathrm { ) }$ ，瘤胃、网胃、瓣胃重量占复胃总重比例和占宰前活重比例差异均不显著 （ $\mathrm { ( } P { > } 0 . 0 5 \mathrm { ) }$ )，小肠重量占占宰前活重比例差异均不显著（ $P { > } 0 . 0 5 )$ 。
+
+表5开食料氨基酸扣除对断奶湖羊羔羊内脏器官指数的影响  
+表6开食料氨基酸部分扣除对断奶湖羊羔羊胃肠道发育的影响  
+Table 6Effects of amino acids partial deduction on gastrointestinal tract development of $H u$ weaned lambs   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2"></td><td colspan="5">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>PC</td><td>PD-Lys</td><td>PD-Met</td><td>PD-Thr</td><td>PD-Trp</td></tr><tr><td>瘤胃</td><td>重量Weight/g</td><td>478.37</td><td>487.8</td><td>478.95</td><td>446.63</td><td>477.00</td><td>10.42</td><td>0.792 5</td></tr><tr><td>Rumen</td><td>占复胃总重比例Percentage of TCSW/%</td><td>8.38</td><td>7.70</td><td>8.27</td><td>7.11</td><td>7.10</td><td>0.19</td><td>0.070 7</td></tr><tr><td></td><td>占宰前活重比例 Percentage of LWBS/%</td><td>1.81</td><td>2.12</td><td>2.03</td><td>1.73</td><td>1.91</td><td>0.05</td><td>0.152 6</td></tr><tr><td>网胃</td><td>重量Weight/g</td><td>65.12</td><td>69.12</td><td>74.32</td><td>72.13</td><td>73.65</td><td>1.95</td><td>0.583 8</td></tr><tr><td rowspan="2">Reticulum</td><td>占复胃总重比例 Percentage of TCSW/%</td><td>1.14</td><td>1.08</td><td>1.29</td><td>1.15</td><td>1.09</td><td>0.03</td><td>0.217 0</td></tr><tr><td>占宰前活重比例 Percentage of LWBS/%</td><td>0.25</td><td>0.30</td><td>0.31</td><td>0.28</td><td>0.29</td><td>0.01</td><td>0.141 7</td></tr><tr><td>瓣胃</td><td>重量Weight/g</td><td>56.25</td><td>58.92</td><td>56.10</td><td>54.10</td><td>55.53</td><td>1.28</td><td>0.847 9</td></tr><tr><td>Omasum</td><td>占复胃总重比例 Percentage of TCSW/%</td><td>0.99</td><td>0.93</td><td>0.97</td><td>0.86</td><td>0.82</td><td>0.02</td><td>0.102 3</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td></td><td>占宰前活重比例 Percentage ofLWBS/%</td><td></td><td>0.21</td><td>0.26</td><td>0.24</td><td>0.21</td><td>0.22</td><td>0.01</td><td>0.145 8</td></tr><tr><td>皱胃</td><td>重量Weight/g</td><td></td><td>98.25</td><td>91.52</td><td>97.08</td><td>94.48</td><td>91.95</td><td>2.40</td><td>0.887 1</td></tr><tr><td>Abomasum</td><td>占复胃总重比例 Percentage of TCSW/%</td><td></td><td>1.71a</td><td>1.44b</td><td>1.68a</td><td>1.50a</td><td>1.37b</td><td>0.04</td><td>0.011 7</td></tr><tr><td></td><td>占宰前活重比例 Percentage of LWBS/%</td><td></td><td>0.37</td><td>0.40</td><td>0.41</td><td>0.37</td><td>0.37</td><td>0.01</td><td>0.592 6</td></tr><tr><td>小肠</td><td>重量Weight/g</td><td></td><td>360.18</td><td>349.90</td><td>321.27</td><td>334.20</td><td>332.80</td><td>8.01</td><td>0.596 9</td></tr><tr><td>Small intestine</td><td>占宰前活重比例 Percentage of LWBS/%</td><td></td><td>1.36</td><td>1.52</td><td>1.35</td><td>1.29</td><td>1.33</td><td>0.03</td><td>0.286 9</td></tr><tr><td>大肠</td><td>重量Weight/g</td><td></td><td>522.73a</td><td>449.60b</td><td>439.93b</td><td>434.67b</td><td>408.85b</td><td>9.65</td><td>0.000 5</td></tr><tr><td>Large intestine</td><td></td><td>占宰前活重比例 Percentage of LWBS/%</td><td>1.98a</td><td>1.95a</td><td>1.86ab</td><td>1.68bc</td><td>1.63c</td><td>0.04</td><td>0.002 0</td></tr></table></body></html>
+
+2.5不同阶段羔羊获得最大ADG、F/G 和DP的氨基酸顺序和比例
+
+5 不同阶段羔羊获得的最大 ADG 和 F/G 时 Lys、Met、Thr、Trp 顺序和比例计算结果见7 表7。以最大 ADG 作为评定指标时，60\~90 日龄 PD-Lys、PD-Met、PD-Thr 和 PD-Trp 组的3 斜率（S）分别为0.230、0.490、0.128和0.220，90\~120日龄分别为0.498、0.958、0.098 和3 0.745。这 2 阶段Lys、Met、Thr 和 Trp 的适宜比例分别为100:44:44:8 和 100:42:38:12。以） 最大 F/G 作为评定指标时，60\~90 日龄和 90\~120 日龄 PD-Lys、PD-Met、PD-Thr、PD-Trp1 组的斜率分别为-0.185、-0.584、-0.120、-0.177 和-0.510、-1.263、-0.125、-0.764，这2阶段≥ 羔羊达到最大F/G时Lys、Met、Thr 和 Trp 的适宜比例分别为100:54:45:7 和100:47:39:12。
+
+表7不同阶段羔羊获得最大平均日增重、饲料转化率的氨基酸顺序和比例  
+i4 Table 7Sequence and proportion of amino acids to reach maximum ADG and F/G of lambs at diffrent stages   
+
+<html><body><table><tr><td rowspan="2">组别Groups</td><td colspan="4">平均日增重 ADG</td><td colspan="4">料重比F/G</td></tr><tr><td>S</td><td>P</td><td>C</td><td>R</td><td>S</td><td>P</td><td>C</td><td>R</td></tr><tr><td>60~90 日龄 60 to 90 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PD1-Lys</td><td>0.230</td><td>1.000</td><td>747.000</td><td>100</td><td>-0.185</td><td>1.000</td><td>747.000</td><td>100</td></tr><tr><td>PD1-Met</td><td>0.490</td><td>1.343</td><td>328.980</td><td>44</td><td>-0.584</td><td>1.652</td><td>404.762</td><td>54</td></tr><tr><td>PD1-Thr</td><td>0.128</td><td>0.872</td><td>326.013</td><td>44</td><td>-0.120</td><td>0.899</td><td>336.199</td><td>45</td></tr><tr><td>PD1-Trp</td><td>0.220</td><td>0.589</td><td>60.661</td><td>8</td><td>-0.177</td><td>0.517</td><td>53.278</td><td>7</td></tr><tr><td>90~120 日龄 90 to 120 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PD2-Lys</td><td>0.498</td><td>1.000</td><td>1 136.000</td><td>100</td><td>-0.510</td><td>1.000</td><td>1 136.000</td><td>100</td></tr><tr><td>PD2-Met</td><td>0.958</td><td>1.281</td><td>476.365</td><td>42</td><td>-1.263</td><td>1.448</td><td>538.781</td><td>47</td></tr><tr><td>PD2-Thr</td><td>0.098</td><td>0.767</td><td>435.501</td><td>38</td><td>-0.125</td><td>0.781</td><td>443.346</td><td>39</td></tr><tr><td>PD2-Trp</td><td>0.745</td><td>0.904</td><td>141.855</td><td>12</td><td>-0.764</td><td>0.835</td><td>131.137</td><td>12</td></tr></table></body></html>
+
+S：斜率，数值代表限制性氨基酸采食量对 ADG、F/G 和DP的影响。P：试验组维持与PC 组同样的ADG、F/G 和DP所需的氨基酸含量，与PC 组的比例。C：试验组维持与PC 组同样的ADG、F/G 和 DP所需的氨基酸含量 $\mathrm { [ m g / ( k g \mathbf { B } W ^ { 0 . 7 5 } \bullet \ d ) ] }$ 。R：所有氨基酸相对于Lys 的比例。下表同。
+
+S: slope,the value indicated the effects of limited amino acid intake on ADG,F/G and DP.P:amino acid content in experimental groups required to maintain the same ADG,F/G and DP as PC group,calculated as the proportion of PC group. C: amino acid content $\mathrm { [ m g / ( k g B W ^ { 0 . 7 5 } \bullet \ d ) ] }$ required to maintain the same ADG,F/G and DP as PC group.R:all amino acid proportions of lysine.The same as below.
+
+不同阶段羔羊获得的最大DP时Lys、Met、Thr、Trp 顺序和比例计算结果见表8。以最大 DP 作为评定指标时,60\~120 日龄 PD-Lys、PD-Met、PD-Thr、PD-Trp 组斜率分别为-0.087、-0.100、-0.017 和-0.106，Lys、Met、Thr 和 Trp 的适宜比例为100:34:38:8。
+
+表8不同阶段羔羊获得最大屠宰率的氨基酸顺序和比例  
+Table 8Sequence and proportion of amino acids to reach maximum DP of lambs at different stages   
+
+<html><body><table><tr><td rowspan="2">组别 Groups</td><td colspan="4">屠宰率 DP</td></tr><tr><td>S</td><td>P</td><td>C</td><td>R</td></tr><tr><td>PD1-Lys</td><td>-0.087</td><td>1.000</td><td>941.500</td><td>100</td></tr><tr><td>PD1-Met</td><td>-0.100</td><td>1.046</td><td>322.693</td><td>34</td></tr><tr><td>PD1-Thr</td><td>-0.017</td><td>0.767</td><td>361.163</td><td>38</td></tr><tr><td>PD1-Trp</td><td>-0.106</td><td>0.562</td><td>73.000</td><td>8</td></tr></table></body></html>
+
+3讨论
+
+3.1开食料氨基酸部分扣除对断奶湖羊羔羊生长性能的影响
+
+氨基酸是构成体蛋白质的基础，通过添加氨基酸平衡的开食料有助于体蛋白质的增加，特别是在断奶羔羊低蛋白质饲粮中添加平衡的必需氨基酸对羔羊生长性能具有显著的影响。王建红等[19]的研究结果表明，2\~4 周龄 Lys 扣除对犊牛 ADG 具有较大影响，Lys 扣除组特牛的 ADG 分别比对照组及Met和 Thr 扣除组低了 $6 5 . 2 5 \%$ 、 $5 . 4 1 \%$ 和 $2 8 . 1 9 \%$ 。本试验发现，在断奶羔羊 60\~90 日龄和 90\~120 日龄开食料 Met 扣除显著影响羔羊 ADG，60\~120 日龄PC-Met 分别比PC、PD-Lys、PD-Thr 和PD-Trp 组的 ADG 显著降低了 $2 9 . 5 4 \% 1 4 . 7 4 \% . 2 5 . 3 6 \%$ 和 $2 7 . 0 7 \%$ ，这与王建红等[19]的结果不一致，可能说明在羔羊上Met 缺乏会导致生长减缓、影响发育，虽然Lys 也具有促进动物发育作用，但在此阶段羔羊上可能不是第一必需的氨基酸。El-Tahawy 等[20]在饲喂浓缩混合饲料中加入3.30 g/kg Met，与对照组（没添加Met）相比，对照组ADG 显著降低了 $7 . 8 0 \%$ ，明显影响其生长性能，这与本试验结果相同。研究表明，动物在不同生长阶段对氨基酸的缺乏程度不同，我们将动物缺乏最严重的称为第一限制性氨基酸。王建红等[5]发现特牛Lys 为第一限制性氨基酸，第二、第三限制性氨基酸分别为Met 和 Thr。本试验以 ADG 为指标时，羔羊第一限制性氨基酸为Met，Lys、Thr 和 Trp 分别为第二、第三和第四限制性氨基酸。这与王建红等[5研究结果不一致，说明不同种动物氨基酸的限制性也不相同。
+
+F/G 是衡量动物蛋白质转化效率的重要工具，是衡量生产效率的重要指标。在保证羔羊生长的情况下，提高F/G，可相应降低粪便的排放，从而对环境保护也具有重要的作用。从本试验结果来看，Met 扣除对 F/G 影响最大，其次为 Lys、Thr 和 Trp。同样 El-Tahawy 等[20]和 Nolte 等[21]在羔羊上的研究结果显示，Met是生长羔羊的第一限制性氨基酸，与本试验研究结果一致。但Nolte 等[22]认为Lys 不是羔羊限制性氨基酸，这可能与其试验方法和瘤胃灌注氨基酸不平衡有关。本试验在前期 60\~90日龄时F/G 差异不显著，随着日龄的增长，F/G有了显著变化。这表明在试验的前期可能是开食料适应阶段，且胃肠道的变化可能使其生长发育变化比较慢。王建红等[5]研究发现，在0\~2月龄Lys 始终是犊牛的第一限制性氨基酸。本试验结果与王建红等[5]不一致，羔羊 PD-Met组F/G 最低，分别比 PC、PD-Lys、PD-Thr、PD-Trp 低 $2 5 . 0 5 \%$ 、 $1 7 . 3 7 \%$ 、 $2 2 . 6 7 \%$ 和 $2 4 . 6 8 \%$ 。因而，添加羔羊第一限制性氨基酸可充分发挥开食料在胃内蛋白质营养的全面吸收，减轻机体负担，提高其生长速度，达到提高饲料的利用效率的目的。
+
+# 3.2开食料氨基酸部分扣除对断奶湖羊羔羊屠宰性能的影响
+
+屠宰性能测定便于检验羔羊不同阶段的生长发育状况，深入研究羔羊生长性能，对改善羔羊肉品质具有重要意义。本试验发现氨基酸扣除组除了DP、背膘厚、GR 值和血液重差异不显著外，其余的屠宰性能指标都低于PC 组。Storm 等[14]研究发现2月龄羔羊灌注Lys、Met、Thr 和 Trp 为 $9 . 0 \%$ 、 $4 . 1 \%$ 、 $5 . 6 \%$ 和 $2 . 0 \%$ 时，充足的营养物质则可以较快地达到屠宰体重要求。同样，Ferreira 等[23]对 $3 0 { \sim } 4 5 \mathrm { k g }$ 美利奴羊必需氨基酸组成研究发现，随着动物的生长，血液重不会发生显著变化，这与本试验结果相似。本试验部分扣除 Lys 和 Met 对血液重无显著影响，但对胴体重、头重、蹄重和皮毛重有显著影响。这可能因为Met 为羊毛角质蛋白合成的第一限制性氨基酸，在绵羊饲粮中添加Met对羊毛生长具有很好的促进作用，进而影响羔羊发育状况[24]。本试验研究发现,Trp 是羔羊获得最大DP 的第一限制性氨基酸，这与本试验获得最大ADG 和F/G 所发现的氨基酸顺序也不相同，前人也没对这方面进行研究，这可能是因为没有利用氮平衡试验进行深入探讨，导致氨基酸限制性的研究不够准确。因此，对于断代乳粉后降低湖羊羔羊饲粮蛋白质同时，添加过瘤胃保护氨基酸并使之添加量与利用量比例达到平衡，不仅对胴体重和皮毛生长有促进作用，还能加快湖羊达到屠宰体重的时间。从本试验结果来看，对断奶羔羊屠宰性能等还要通过结合氮平衡试验进行深入的研
+
+究和探讨。
+
+# 3.3开食料氨基酸部分扣除对断奶湖羊羔羊器官指数的影响
+
+羔羊器官的发育直接影响湖羊后期的生长和免疫状况，测定器官指数对羔羊发育状况具有重要的意义。Ferreira 等[23]通过屠宰后发现随着动物的生长，肺脏、肾脏和脾脏的重量没有发生显著变化，这与本试验结果相似，说明部分扣除氨基酸不会对组织器官产生较大影响。Bouyeh[25]同样发现，相对于NRC（1994）的基础上添加 $1 . 1 0 \%$ Lys 和 $0 . 5 0 \%$ Met 会使21\~42日龄肉仔鸡心脏和肝脏重量高于不添加组，且高水平的Lys 和 Met 能够减少饲粮饲喂量，降低鸡脂肪含量，使经济效益得到显著增加。张乃锋等[26]经试验分析，Lys、Met 和 Thr 部分扣除对犊牛免疫器官重量和免疫器官指数影响均不显著。但各试验组免疫器官重量均低于PC 组，且发现Thr 部分扣除对犊牛免疫功能存在影响。从本试验结果来看，PC组心脏、肝脏和肾脏重量显著高于氨基酸扣除组，各氨基酸扣除组脾脏重量虽然差异不显著，但PD-Thr组免疫器官指数有下降的趋势，可能是Thr的扣除量还不足以对免疫器官产生显著影响。除了PD-Thr 组免疫器官指数较低以外，其他各试验组的免疫器官指数则与PC 组相近。说明Thr 在一定水平上可以增强机体免疫功能和病原感染抵御能力[27]，在开食料中添加适宜的Thr可保障动物健康生长。
+
+# 3.4开食料氨基酸部分扣除对断奶湖羊羔羊胃肠道发育的影响
+
+羔羊复胃的发育直接影响羔羊后期的消化吸收能力，瘤胃和皱胃的发育尤为重要，其发育状况直接影响湖羊羔羊的消化吸收和生长性能[1]。随着羔羊生长，8周龄时瘤胃生长可达到成年大小。Lv等[28]研究发现，当饲粮蛋白质水平为 $1 5 . 0 1 \%$ ，Lys/Met为3.1时，复胃和瘤胃的增重效果最好，并能有效促进胃肠道的生长发育。从本试验结果来看，PD-Trp 和PD-Lys 组皱胃重量占复胃总重显比例著低于其他各组，但PC 组复胃和瘤胃重量都有高于其他组的趋势，小肠重量变化规律为PC 组 $>$ PD-Lys组 $>$ PD-Met组 $>$ PD-Thr 组 $>$ PD-Trp 组。这与李辉[29]研究提高代乳粉Lys 含量能提高胃肠道发育的结果相一致，可能说明Lys 含量对瘤胃等的发育具有影响。小肠是断奶羔羊营养物质消化吸收的主要器官，其正常发育是保证藏羔羊对营养物质进行良好消化吸收的关键。本试验结果显示，各组小肠重量差异不显著，但PC 组小肠增长效果依次比PD-Lys、PD-Met、PD-Thr 和 PD-Trp 增加 $2 . 8 5 \% , 1 0 . 8 0 \% , 7 . 2 1 \%$ 和 $7 . 6 0 \%$ 。本试验中，降低饲粮蛋白质添加氨基酸有利于机体消化器官的发育，有利于羔羊
+
+发挥生长潜能。
+
+3.5不同阶段羔羊获得最大ADG、F/G 和DP的氨基酸顺序和比例
+
+研究氨基酸适宜比例源于经典的“木桶理论”，要使得动物获得最优的生长发育条件，必须使每种 EAA 量达到动物需要，也就是达到最大生产性能的最适氨基酸量。Goodband等[30]提出 $2 0 ~ \mathrm { k g }$ 左右仔猪理想氨基酸模式为Lys:Met:Thr:Trp=100:（27\~28）:62:18。同时，Lv 等[28]研究发现藏羔羊早期断奶饲粮Lys/Met为3.1时可获得最大ADG，且复胃的发育效果最好。Ferreira 等[23]通过屠体氨基酸研究得出，生长南非美利奴羊屠体 Lys、Met 和 Thr适宜模式为100:55:72。从本试验结果来看，利用扣除法研究羔羊在60\~90 日龄和90\~120 日龄Lys、Met、Thr和 Trp的适宜平均比例分别为100:44:44:8和100:42:38:12时获得最大 ADG,且羔羊的Met 和 Trp 添加量小于仔猪添加量，Lys/Met为2.27\~2.38 时获得最大ADG。在获得最大F/G 方面尚无报道，本试验 60\~90 日龄和90\~120 日龄羔羊Lys、Met、Thr 和 Trp 的适宜比例分别为100:54:45:7 和 100:47:39:12。羔羊获得最大DP 所需 Lys、Met、Thr 和 Trp比例为100:34:38:8。虽然没有研究者对DP 的氨基酸模型进行研究，但从此结果可以看出当获得最大DP 时，Met 的添加量小于获得最大ADG 和F/G 的添加量。这说明反刍动物消化系统虽然在初期是与单胃动物相似，但在后期生长阶段对营养物质的消化吸收还是存在较大的不同，这可能与不同品种、试验环境和饲粮相关。利用屠体氨基酸组成来配制饲粮不够准确，会使得氨基酸摄入过多造成不必要的浪费。以上都进一步说明不同种动物遗传特性不同，氨基酸的比例将存在较大差异。
+
+4结论
+
+$\textcircled{1}$ 在断奶羔羊饲粮中，不同评价指标（最大ADG、F/G）和羔羊不同日龄生长阶段羔羊  
+氨基酸的限制性顺序为Met>Lys>Thr>Trp。以DP 得出限制性顺序为 Trp>Thr>Lys>Met。$\textcircled{2}$ 氨基酸的平衡供给直接影响羔羊的生长发育、屠宰性能；氨基酸扣除可以影响内脏器  
+官的发育。$\textcircled{3}$ 不同评价指标对断奶羔羊60\~120日龄4种氨基酸的适宜比例不同，以最大ADG为评价  
+指标时，60\~90日龄和90\~120日龄Lys、Met、Thr和Trp的适宜比例分别为100:44:44:8和  
+100:42:38:12；以最大F/G为评价指标时，Lys、Met、Thr和Trp的适宜比例分别为100:54:45:7  
+和100:47:39:12;以最大DP为指标时,60\~120日龄Lys、Met、Thr和Trp的适宜比例为100:34:38:8。
+
+参考文献：
+
+1]刁其玉.动物氨基酸营养与饲料[M].北京:化学工业出版社,2007.
+
+[2]印遇龙.氨基酸新功能及其对脂质代谢和能量平衡的调控[J].饲料与畜牧·规模养 猪,2016(6):17-21.   
+[3]李华伟,祝倩,吴灵英,等.色氨酸的生理功能及其在畜禽饲粮中的应用[J].动物营养学 报,2016,28(3):659-664.   
+[4] 张乃锋,李辉,屠焰,等.氨基酸对早期断奶犊牛生长性能及氮代谢的影响[C]//中国畜牧兽医学 会动物营养学分会第十一次全国动物营养学术研讨会论文集.北京:中国畜牧兽医学会动物营养学 分会,2012.   
+[5] 王建红,刁其玉,许先查,等.日粮Lys、Met和Thr添加模式对0\~2月龄犊牛生长性能、消化代谢与 血清学生化指标的影响[J].中国农业科学,2011,44(9):1898-1907.   
+[6] KERR B J,YEN J T,NIENABER J A,et al.Influences of dietary protein level,amino acid supplementation and environmental temperature on performance,body composition,organ weights and total heat production of growing pigs[J].Journal of Animal Science,2003,81(8):1998-2007.   
+[7] ZHANG G J,XIE C Y,THACKER P A,et al.Estimation of the ideal ratio of standardized ileal digestible threonine to lysine for growing pigs $( 2 2 - 5 0 ~ \mathrm { k g } )$ fed low crude protein diets supplemented with crystaline amino acids[J].Animal Feed Science and Technology,2013,180(1/2/3/4):83-91. [8]王建红 $. 0 { \sim } 2$ 月龄犊牛代乳品中赖氨酸、蛋氨酸和苏氨酸适宜模式的研究[D].硕士学位论文. 北京:中国农业科学院,2011.   
+[9] TIEMANN T T,LASCANO C E,WETTSTEIN H R,et al.Effect of the tropical tannin-rich shrub legumes Calliandra calothyrsus and Flemingia macrophylla on methane emission and nitrogen and energy balance in growing lambs[J].Animal,2008,2(5):790-799.   
+[10] TEDESCHI L O,FOX D G,FONSECA M A,et al.Models of protein and amino acid requirements for cattle[J].Revista Brasileira de Zootecnia,2015,44(3):109-132.   
+[11] WANG T C,FULLER M F.The effect of the plane of nutrition on the optimum dietary amino acid pattern for growing pigs[J].Animal Production,1990,50(1):155-164.   
+[12] MABJEESH S J,GUY D,SKLAN D.Na+/glucose co-transporter abundance and activity in the small intestine of lambs:enhancement by abomasal infusion of casein[J].British Journal of Nutrition,2003,89(5):573-580.   
+[13] OBEIDAT B S,ABDULLAH A Y,AWAWDEH M S,et al.Efect of methionine supplementation onperformanceandcarcasscharacteristicsofAwassiramlambsfedfinishing diets[J].Asian-Australasian Journal of Animal Sciences,2008,21(6):831-837.   
+[14] STORM E,ORSKOV E R.The nutritive value of rumen micro-organisms in ruminants.4.The limiting amino acids of microbial protein in growing sheep determined by a new approach[J].British Journal of Nutrition,1984,52(3):613-620.   
+[15]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007.   
+[16] MCMILLAN M L.The effects of bermudagrass-clipping pellets as an alternative forage source in the diets of sheep[D].Ph.D.Thesis.Texas:Texas Tech University,2004.   
+[17] UNNIKRISHNAN U,PAULRAJ R.Dietary protein requirement of giant mud crab Scylla serrata juvenilesfediso-energeticformulated dietshavinggradedprotein levels[J].Aquaculture Research,2010,41(2):278-294.   
+[18] 祁敏丽,柴建民,王波,等.饲粮营养限制对早期断奶湖羊羔羊生长性能以及内脏器官发育的影 响[J].动物营养学报,2016,28(2):444-454.   
+[19] 王建红,刁其玉,许先查,等.赖氨酸、蛋氨酸和苏氨酸对犊牛生长性能和血清生化指标的影响 [J].动物营养学报,2011,23(2):226-233.   
+[20] EL-TAHAWY A S,ISMAEIL A M,AHMED H A.Effects of dietary methionine-supplementation on the general performance and economic value of rahmani lambs[J].Journal of Animal Science Advances,2015,5(10):1457-1466.   
+[21] NOLTE JV E,LOEST C A,FERREIRA A V,et al.Methionine,and at least one branchedchain amino acid,are limiting in lambs[J].Journal of Animalence,2004,82(1):130-131.   
+[22] NOLTE J V E,LOEST C A,FERREIRA A V,et al.Limiting amino acids for growing lambs fed a diet low in ruminally undegradable protein[J].Journal of Animal Science,2Oo8,86(10):2627-2641. [23] FERREIRA A V,VAN DER MERWE H J,FAIR M D.Nitrogen retention response to the abomasal infusion of amino acids in South African Mutton Merino lambs[J].South African Journal of Animal   
+Science,2002,32(2):106-112.   
+[24] WANG J H,HUNG C H,YOUNG T H.Proliferation and differentiation of neural stem cells on   
+lysine-alanine sequential polymer substrates[J].Biomaterials,2006,27(18):3441-3450.   
+[25] BOUYEH M.Effects of excess dietary lysine and methionine on performance and economical   
+efficiency of broiler chicks[J].Annals of Biological Research,2013,4(5):241-246.   
+[26] 张乃锋,李辉,屠焰,等.氨基酸对早期断奶犊牛生长性能及氮代谢的影响[C]//中国畜牧兽医学   
+会动物营养学分会第十一次全国动物营养学术研讨会论文集.长沙:中国畜牧兽医学会动物营养学   
+分会,2012.   
+[27] 冯杰,许梓荣.苏氨酸与赖氨酸不同比例对猪生长性能和胴体组成的影响[J].浙江大学学报:农   
+业与生命科学版,2003,29(1):14-17.   
+[28] LV K,HOU S Z,WANG Z Y,et al.Dietary Protein level and Lys/Met affect growth performance   
+and gastrointestinal morphology of early-weaner Tibetan lambs[J].Chinese Journal of Animal   
+Nutrition,2013,25(4):743-751.   
+[29] 李辉.蛋白水平与来源对早期断奶犊牛消化代谢及胃肠道结构的影响[D].博士学位论文.北   
+京:中国农业科学院,2008.   
+[30] GOODBAND B,TOKACH M,DRITZ S,et al.Practical starter pig amino acid requirements in   
+relation to immunity,gut health and growth performance[J].Journal of Animal Science and   
+Biotechnology,2014,5(1):12. Exploration of Requirement Models and Limiting Sequence of Four Kinds of Essential Amino Acids of Weaned Lambs LI Xueling1,2 CHAI Jianmin² ZHANG Naifeng² ZHANG Rong² WANG Jie² WANG Shiqin² TAO Dayong1\* DIAO Qiyu2\* (1. College of Animal Science, Tarim University, Alar 843300, China; 2. Feed Research Institute,   
+Chinese Academy of Agricultural Sciences, Key Laboratory of Feed Biotechnology of Ministry of Agriculture, Beijing 100081, China)   
+Abstract: This study was conducted to investigate the requirement models and sequence of 4 kinds
+
+in weaned lambs by partial deduction method. One hundred male Hu lambs weaned at 5O days of age were randomly divided into five groups,and each group had four replicates with five lambs per replicate. Control group was fed starter with balanced amino acid (PC group)，while 4 experimental groups were fed the starter deducting Lys (PD-Lys group), Met (PD-Met group）, Thr（PD-Thr group） and Trp (PD-Trp group) on the basis of PC group,respectively. The pretrial lasted for 1O days,and the formal trial lasted for 6O days.All the lambs were weighed at 60, 90 and 120 days of age,and six lambs selected from each group were slaughtered at 12O days of age. The results showed as follows: 1) at 60 to 120 days of age and 90 to 120 days of age,average daily gain (ADG) was significantly lower than that in the other groups $( P { < } 0 . 0 5 )$ , and feed to gain ratio（F/G） in PD-Met group was significantly higher than that in the other groups $( P { < } 0 . 0 5 )$ ; at 120 days of age, PD-Met group had significantly lower live weight before slaughter, empty body weight, carcass weight, ribeye area, head weight, feet weight, and skin and wool weight compared with PC,PD-Thr and PD-Trp groups $( P { < } 0 . 0 5 )$ , however, no significant differences of dressing percentage (DP), GR value and blood weight among five groups at 120 days of age were found （2号 $( P { > } 0 . 0 5 )$ .2）Using maximum ADG and F/G as the evaluation indexes,limited amino acid sequence was Met,Lys,Thr and Trp of lambs at 60 to 90 days of age and 90 to 12O days of age; using maximum DP as the evaluation index，limited amino acid sequence was Trp,Thr,Lys and Met of lambs at 12O days of age.3) Using maximum ADG as the evaluation index, the proper proportion of Lys, Met, Thr and Trp was 100:44:44:8 at 60 to 90 days of age and 100:42:38:12 at 90 to 120 days of age; using maximum F/G as the evaluation index, the proper proportion of Lys, Met, Thr and Trp was 100:54:45:7 at 60 to 90 days of age and 100:47:39:12 at 90 to 120 days of age; using maximum DP as the evaluation index，the proper proportion of Lys, Met, Thr and Trp was 100:34:38:8 at 60 to 120 days of age. In conclusion, dietary lack of essential amino acids, such as Lys,Met,Thr and Trp,can decrease growth performance, slaughter performance and organ indexes of lambs,the lack of Met is most negative and the next is Lys,however the effects of Thr and Trp were weak; the limited sequences and proper proportions of Lys, Met, Thr and Trp are different when evaluated using different indexes (ADG,F/G and DP) at different growth stages. Key words: Hu sheep; weaned lamb; starter; amino acid model; lysine; methionine; tryptophan

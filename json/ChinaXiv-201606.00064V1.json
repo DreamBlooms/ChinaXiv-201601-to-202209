@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "创建与使用型人",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一对非正式信息交流行为的实证研究与服务建议",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾立平 张晓林",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要在全面了解用户非正式信息行为的基础上,以中国科学院国家科学图书馆所服务的研究生为调查对象，采用问卷调查和访谈调查的方法，定量研究与定性研究相结合，引入“型人”的概念，建立四类虚构人物，并且针对六种新型服务提出二十四项建议。研究表明，创建与使用具有行为特征的型人，对于图书馆服务和数字图书馆系统设计具有重要意义。表4。参考文献21。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 型人非正式信息交流行为信息服务信息系统分类号 G250",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTBasedona fullinvestigationofuser informal information behavior，and with thegraduatestudents receivingtheservicesfromthe National ScienceLibraryofChinese Academyof Sciencesas interviewees，this studyuses the methods of questionnaireand interview，and thecombinationof quantitative research and qualitativeresearch to introducethe ideaof“persona”and establish four typical fictional persons.Italsoprovides six kinds of new services with 24suggestions.This study showsthatitisof significance to createand use personas with behavior characters for library services and the design of digital library system.4 tabs.21 refs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDSPersona. Informal information communication behavior. Information service. Information system. CLASSNUMBERG250 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "in:ai110 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "背景与研究现况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一掌握用户信息行为，是设计有效的信息系统和开展高效的信息服务的前提。目前,对传统信息环境下的信息行为，人们已经有比较充分的研究与了解。比如：Wilson在1982年提出信息行为模型（ModelofInformationBehavior）的循环模式，强调了信息需求、信息使用与满意对信息检索的影响[1]；Kuhlthau在1991年提出信息搜索过程模型的六个步骤和用户的行为、感觉、思考，将图书馆学与教育学、心理学和哲学相结合，强调人的思考与行为才是信息搜索的主要因素[2];Saracevie 在1997 年提出了参与双方(用户和电脑)通过介面对话的信息搜寻交互模型，强调交互设计可以提高信息获取的效率[3];Loeber 和Cristea 在2003 年提出了网络信息搜寻过程模型，认为用户的动机、能力和机会主导着信息搜寻，强调信息行为研究不应只在计算机或图书馆环境下进行[4]。然而,目前越来越多的用户处于新的信息环境中，其信息行为与传统环境下有所不同。国外几项大型研究的共同研究结论是：Google和类似的资源已经在用户的行为、态度与工作流程上，改变了“游戏”规则，如表1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内的几项研究也说明了中国与国外类似的\"信息行为变化”现象。理论研究方面有刘畅、屈鹏和李璐的《人类信息行为研究进展》[13]；实证研究方面有王益明等人[14]对电子资源、搜索引擎、学位论文撰写过程以及图书馆参考资源等的调查，赖茂生等人[15]对网络用户信息搜索的语言特征、语言使用行为和影响因素的研究，孟连生等人[16]对网络信息获取行为的调查等。",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/cbb9a0dd993e54e22a5549c9b10fb69c2058554176449dd9f874a4a5926e6386.jpg",
+        "table_caption": [
+            "表1近期国外网络用户行为研究"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>单位/时间</td><td>主要观点与结论(节录)</td><td>对图书馆的意义</td></tr><tr><td>OCLC,2006[5]</td><td>①图书馆网使用率下降，搜索引擎使用率上升；②用户 对图书馆改变形象持肯定态度；③使用电子资源者越来 越多。</td><td>颠覆性的预示：搜索引擎取代图 书馆，或者图书馆必须改变服务 模式。</td></tr><tr><td>RIN,2007[6]</td><td>①多数利用内容聚合推送服务；②使用博客情况不明 显；③不认为缺乏用户培训，多数人宁愿自我学习。</td><td>对一系列“新形态”图书馆服务， 提出是否“没人用、没人理会”的 质疑。</td></tr><tr><td>网络世代,2007[7]</td><td>①网络课程是一种教育模式进化；②下一代学习者喜欢 图像更甚文字；③互动性技术比较符合经验化学习； ④讲课、教科书、测验（Talk，Text，Test)教学模式对多 数学生没有吸引力和影响力。</td><td>学生们获得信息非常容易，关键 是如何让他们更有效地相合、开 拓与创造知识。</td></tr><tr><td>M ocLC, 2008[8-9]</td><td>①受访国家中的多数人有长期使用网络的经验；②浏 览/购物行为增加；③有20%的人通过网络与其他人交 流；④有17%的人写过博客或在线日记/日志；⑤图书馆 利用率不变，搜索引擎使用率上升。</td><td>社会媒体（SocialMedia)和社会 网络软件（Social Network Soft- ware)是有潜力、待开发，而且需 要进一步法制规范的领域。</td></tr><tr><td>000 ,2008[10]</td><td>①学生认为：找优秀论文要在图书馆里面，写优秀论文 要在图书馆外面；②学生的学习时间是图书馆的正常下 班时间。</td><td>如果不局限于图书馆的时间和 空间限制，图书馆服务可以做得 更多。</td></tr><tr><td>2008[11]</td><td>①很多学生首先进Google，虽然无法进一步查寻，但是 方便；②学生往往时间有限，远离校园，这会影响他们的 行为；③学生要花费好几个步骤找资料，而且若发现没 有全文访问权限会更加失望。</td><td>图书馆没有合乎学生期望的、学 习风格、学习环境、生活方式；人 们不考虑图书馆的概念和流程， 只希望快速得到结果。</td></tr><tr><td>JISC 2008[12]</td><td>Google影响：①对于界面的感觉、效率和最终使用时间 的经验；②对学术行为的破坏性冲击一从研究方法到 权威判断。</td><td>考虑工作流程、软件工具和团体 合作，会产生新的交互设计的 需求。</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在国内外研究和作者的实证研究[17-19]基础上,网络环境变迁、信息行为变化与新兴图书情报服务的研究可以总结为：图书馆在越来越多的用户大量使用\"非正式\"信息交流途径进行信息查找、交流、应用等的环境下，应该思考如何开发和优化相应的服务内容和方法。所谓“非正式信息交流途径”是指有别于“在传统信息环境下的信息行为模式”的“那些改变了的游戏规则”，并随着网络技术的发展而不断扩大，简言之为：用户的2.0行为。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这类行为可以从“差异化用户模型”的角度进行研究，这是因为在传统信息环境中用户的差异性并不十分明显，然而在新的世界里（World2.0)[20]这种差异性被网络技术的应用革命不断放大而特别突显。在与笔者同一时间不同地点进行研究的Jack M.Maness、Tomasz Mi-askiewicz 和 Tamara Sumner 所发表的论文中[21],他们的观点和笔者的结论并无差别：“型人”(Personas)理论提出的一种可操作的研究与工程方法，有助于理解复杂环境下的复杂行为，并将这些行为归纳为一定的结构和规律。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在对上文研究背景、研究现状与研究方向了解的基础上，本文的操作化定义如下： $\\textcircled{1}$ 网络信息行为：用户在网络上进行信息查找、交流和应用的行为；不同于传统信息检索系统获取信息方式的\"非正式”信息行为，即用户自我驱动方式的信息行为。 $\\textcircled{2}$ 网络信息交流工具： $\\mathrm { B l o g }$ 、播客、 $_ \\mathrm { I M , P 2 P }$ 、社会标签、SNS、Email、BBS、聊天室等。 $\\textcircled{3}$ 本研究中图书馆用户为中国科学院国家科学图书馆所服务的研究生。 $\\textcircled{4}$ 本研究中“型人\"是指用虚拟人物（FactionalPerson）描绘用户行为与特征，成为一组多个（不同特点、相互区别)而非一个大众化用户模型的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据以上操作化定义设立研究问题如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\cdot$ 用户在这些网络环境下的信息查找、交流与应用的行为是什么样的？$\\cdot$ 用户的这些行为是否因为用户的年龄、专业、性别等而有所不同？·用户的这些行为可否被归纳成若干有区别的 有规律的、较为显著的类型?",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6 图书馆可否根据这些类型来改造和发展自己的服务？",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3研究设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一 为解决上述问题，本研究采取定量与定性相结合的研究方法。首先,采用问卷调查,建立起基本的和较为全面的事实，为选择访谈对象和问题打下基础;其次,采用访谈方法,深入考察用户行为结构和行为原因,有助于将问卷调查事实进行归纳和结构化;再次，构造型人以及统计分析，同时确定型人特点及其行为规律；最后，根据归纳出来的型人的行为特点，对信息服务的发展提出建议。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究过程包括四个阶段： $\\textcircled{1}$ 分层随机抽样后，在2008年6月9日至7月20日邮寄发放与回收问卷，有效样本497件； $\\textcircled{2}$ 问卷调查结果形成目的抽样，在2008年11月15日至25日进行面访，有效访谈36件； $\\textcircled{3}$ 根据问卷调查与访谈调查结果，在2009年3月8日至4月7日间，建立用户行为模型； $\\textcircled{4}$ 根据模型，在2009年4月和5月期间，对图书馆的服务提出若干建议。定量研究部分采用SPSS第12版统计软件，利用其中的描述统计、方差分析与单样本T检验功能；定性研究部分采用2007年版的MAXQDA混合研究软件，利用其中的文本检索、文本链接和Teamwork功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4研究结果与发现",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从样本推论总体的统计推论成立主要基于以下结果： $\\textcircled{1}$ 样本反映母体，调查对象的平均年龄为27岁，标准差为4.358，抽样误差在 $9 5 \\%$ 置信区间内； $\\textcircled{2}$ 问卷信度检验合格，信度检验项目数为98,Cronbach'sAlpha为0.883，大于最低检验数值0.5； $\\textcircled{3}$ 建构效度与内部效度检验合格，问卷回收率 $1 6 . 4 \\%$ ,虽然偏低，但是专业、性别和每周上网频率分布等变量数值与母体呈等比例，而且有效回答率 $9 9 . 2 \\%$ ，可据此判断样本与母体无偏差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从用户使用网络信息交流工具的频率分布，可获得如下发现： $\\textcircled{1}$ 多数学生使用Email、BBS、IM和P2P; $\\textcircled { 2 } \\mathrm { B l o g }$ 使用频率呈现平均分布；$\\textcircled{3}$ 少数学生使用聊天室、播客、SNS、社会标签、内容聚合。因此,根据问卷调查结果可以针对BBS、Email和Blog，进行卡方分析与访谈调查。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据卡方分析结果，可获得如下发现： $\\textcircled{1}$ 使用BBS频率越高，对BBS的学术用途就越认同（卡方值为18.78，显著性水平小于0.001）； $\\textcircled{2}$ 多数人使用Email，并且同意它的学术功能（卡方值为46.11，显著性水平小于0.001）； $\\textcircled{3}$ 多数人并不经常使用Blog，却同意它的学术功能（卡方值为34.57，显著性水平小于0.001）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据上述发现结合访谈调查结果获得进一步发现如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用BBS频率越高，对其学术用途就越认同，按照使用程度由低到高划分为四等后进行调查发现： $\\textcircled{1}$ 对于BBS内容过于杂乱表示不满意，更倾向于搜索引擎的使用； $\\textcircled{2}$ 长久未曾注意BBS，对其学术功能持保留态度； $\\textcircled{3}$ 将BBS视为一项新增加的信息来源； $\\textcircled{4}$ 充分利用BBS讨论研究工作经验、交换信息和下载档案的功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多数人使用Email,并且同意它的学术功能，按照满意程度由低到高划分为四等后进行调查发现： $\\textcircled{1}$ 常常感到Email垃圾邮件太多，杂乱而多余，虽然经常使用，但是不十分满意；$\\textcircled{2}$ 习惯运用Email作为传输文档的用途，但是对Email的其他学术功能持保留态度； $\\textcircled{3}$ 将Email视为一项增加的消息来源； $\\textcircled{4}$ 用Email来保存文档、与国外学者联系、投稿，同时期待更多可能服务。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "多数并不经常使用Blog的人却同意其具有学术功能，本研究按照使用程度与满意程度从低到高划分为四等，经调查后发现： $\\textcircled{1}$ 倾向信息含量更为丰富的大型门户网站使用的用户，对Blog还很陌生； $\\textcircled{2}$ 将 $\\mathbf { B l o g }$ 视为一项增加的信息交流渠道； $\\textcircled{3}$ 没有发现令人满意的学术Blog 社群,但是可以与具有某一专业能力的人物交流;$\\textcircled{4}$ 具有使用Blog的经验，认为Blog可以充实基础知识，用于了解其他不熟悉的人、事、物。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从以上研究结果可验证信息行为的差异性。为得到更多角度不同的解释，本研究的访谈调查还包括信息搜寻的目的、需求和使用，以及组织行为与个人决策等两部分，调查结果如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "言息搜寻的目的、需求和使用方面的用户差异性可归类为四种： $\\textcircled{1}$ 对某一关键技术的关注，针对少量而准确的信息，进行消化吸收和理解的跟踪需要； $\\textcircled{2}$ 对某一社会问题的关注，针对少量的相关信息，提出更多结合其他改进方式的整合需要； $\\textcircled{3}$ 对某一基础知识的关注，针对大量可能相关的信息，进行筛选少量有用信息的提炼需要； $\\textcircled{4}$ 对某一未知领域的关注，针对大量搜集信息，进行大量批判的探索需要。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将组织行为与个人决策方面的差异性归为四种： $\\textcircled{1}$ 跟随导师，遵循着一定的研究方式和相同的研究思维； $\\textcircled{2}$ 与同事相处，需要非理性的情感激励，从而加强学习和生活的信心； $\\textcircled{3}$ 按照组织规定，避免重复研究，有来自组织内和组织外学术竞争的双重压力； $\\textcircled{4}$ 观察外在环境的变化，忍受回报延误直到重大问题的出现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据问卷调查的卡方分析、目的抽样，以及访谈分析的结果，初步将用户行为类型划分为以下几种（见表2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/725072a547b94365705ba847f9c02ab86b248af5350aa7ce706060b1290cdd30.jpg",
+        "table_caption": [
+            "表2访谈分析与差异化用户模型(初步划分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>2 差异化用户 观察项目</td><td>工匠型</td><td>商人型</td><td>学者型</td><td>冒险家型</td></tr><tr><td>信息搜寻行为</td><td>跟踪型</td><td>整合型</td><td>提炼型</td><td>探索型</td></tr><tr><td>BBS X</td><td>拒绝BBS型</td><td>休闲BBS型</td><td>潜在BBS型</td><td>学术BBS型</td></tr><tr><td>a Email</td><td>拒绝Email型</td><td>休闲Email型</td><td>潜在Email型</td><td>学术Email 型</td></tr><tr><td>Blog</td><td>拒绝Blog型</td><td>休闲Blog型</td><td>潜在Blog型</td><td>学术Blog型</td></tr><tr><td>组织行为者</td><td>无组织型</td><td>弱组织型</td><td>强组织型</td><td>逆组织型</td></tr><tr><td>C 科学氛围</td><td>正面作用</td><td>消极作用</td><td>负面作用</td><td>积极作用</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从以上若干指标角度可以归纳出差异化用户在如下方面的特点： $\\textcircled{1}$ 各类型人在使用上述网络交流工具时的基本行为规律; $\\textcircled{2}$ 各类型人在使用上述网络交流工具用于学术交流的主要行为特点； $\\textcircled{3}$ 各类型人在心理上的不同是什么。透过观察用户所反映的主要行为与心理倾向，第二次划分用户行为类型（见表3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "现实中的个体(某一访谈对象），根据其行为特点而被归为“相似”某个型人，是因为他具有这种型人属性中的某些重要特性，而这些属性与其他型人属性相区别。总结归纳心理与行为的集合，如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "·查找信息的主要种类：专精与应用；开放与封闭;仿制(直接利用)与参考(间接利用）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "·查找信息的心理趋力：别人主导与自我驱动。·查找信息的方式：自我与团体;单一与多元；特定与随意。·交流传播的种类：自我主义与群体主义。$\\cdot$ 网络交流的工具使用：潜水(被动性)与交互(主动性）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对差异性个体的理解来自于对典型用户的理解，因为很多个体都属于某类用户，但是他们的行为并不见得完全相似。他们相似的部分(并集)是他们行为和判断的主要因素，而这些相同的特性又是这种类型所特有的，表4是四种差异化用户不同的行为与特征表现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0ff8ca210ad4af90b5e4eb23fa5ee48b6d3a2a9c18848ed7a6e09694af29c1d.jpg",
+        "table_caption": [
+            "表3访谈分析与差异化用户模型(二次划分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>用户类型</td><td rowspan=\"2\">工匠型</td><td rowspan=\"2\">商人型</td><td rowspan=\"2\">学者型</td><td rowspan=\"2\">冒险家型</td></tr><tr><td>观察面向</td></tr><tr><td>信息搜寻目的</td><td>追踪技术</td><td>解决社会问题</td><td>整合知识</td><td>创新研究的新领域</td></tr><tr><td>BBS行为</td><td>学习</td><td>娱乐</td><td>不明显</td><td>学习</td></tr><tr><td>Email行为</td><td>学习</td><td>娱乐</td><td>学习</td><td>学习</td></tr><tr><td>Blog行为</td><td>不明显</td><td>学习</td><td>不明显</td><td>学习</td></tr><tr><td>组织影响</td><td>跟随老师</td><td>配合公司</td><td>听命组织</td><td>遵循组织外学术团体</td></tr><tr><td>科学氛围</td><td>正面</td><td>被动</td><td>负面</td><td>主动</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "49 ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/999cb881bef4b67934c13718666d9c50be8673039dbd5d2438432b700b20e24a.jpg",
+        "table_caption": [
+            "表4四种差异化用户的行为与特征"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>0</td><td>服务</td><td>BBS (娱乐)</td><td>BBS （学习）</td><td>Email (娱乐）</td><td>Email （学习）</td><td>Blog (娱乐)</td><td>Blog （学习）</td><td>其他 服务</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">A</td><td>否！</td><td>是！</td><td>否！</td><td>是！</td><td>是！</td><td>是！</td><td>是！</td></tr><tr><td colspan=\"7\">几乎喜欢所有的服务，常常给我们带来新的挑战和善意的建议。这类同学接受新技术应用非常 快速和良好。</td></tr><tr><td rowspan=\"3\">0 909102</td><td rowspan=\"3\">B</td><td>否！ 是！</td><td>否！</td><td></td><td>是！</td><td>否！</td><td>否！</td><td>否！</td></tr><tr><td colspan=\"7\">反应最多数的读者，期望数字图书馆能够更快速、容易和简单。这类同学希望数字图书馆变成 搜索引擎一样。</td></tr><tr><td rowspan=\"2\">C 是！ 喜欢使用个性化Web2.0服务，如即时通讯、点对点传输、博客和播客。这类同学想要更多用户</td><td colspan=\"6\">否！ 是！ 否！ 是！ 是！ 否！</td></tr><tr><td colspan=\"6\">空间，他们期待图书馆2.0或更多线上参考咨询服务。</td></tr><tr><td rowspan=\"2\"></td><td>D 否！</td><td>否！</td><td>是！</td><td>是！</td><td>否！</td><td>否！</td><td>否！</td></tr><tr><td colspan=\"7\">一个传统图书馆读者。偏好在图书馆建筑内阅读书籍或期刊，更甚于使用网络来获得信息。这 类同学需要信息素养教育。</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合上述研究结果与发现可以得出以下结论： $\\textcircled{1}$ 非正式交流（InformalCommunication）的数字化、网络化、群体交互化等对用户行为已产生影响： $\\textcircled{2}$ 当前的即时学术信息已经开始以新的方式出现，而且逐渐成为新一代科研教育者和学习者熟悉甚至依赖的方式，图书馆如果不积极参与，就有可能被边缘化。所以，作为“学术信息提供者\"的图书馆，需要在发现新的信息行为方式后，采取相应的服务。本文建议将“从模型推导信息服务\"作为战略规划，以“进入到用户空间”、“嵌入用户交流模式和过程”、“收集与组织用户的交流信息”、“整理与分析用户的交流信息”、“灵活地进行参考服务”和\"投资具有潜在市场的信息系统”作为策略来执行，下面将详细论述。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "策略一：进入到用户空间。可细分步骤为：$\\textcircled{1}$ Blog、BBS、Email等现在已越来越突出地成为重要的前沿学术交流渠道，提供“即时”信息，图书馆可以积极参与讨论； $\\textcircled{2}$ 在Blog里建立图书馆服务社群，即时提供信息，并且反馈用户评论与意见； $\\textcircled{3}$ 在BBS建立图书馆服务的板块，及时掌握用户的需求； $\\textcircled{4}$ 通过Email搭建虚拟社群等链接到图书馆网页，将“非正式”信息行为的用户邀请到图书馆。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "策略二：嵌入用户交流模式和过程。可细分步骤为： $\\textcircled{1}$ 对技术倾向的A型人，搜集并提供最新国内外科技报告名录，以实现科技信息的简报速递； $\\textcircled{2}$ 对贸易倾向的B型人，针对其领域特征，着重从实验、仪器、分析方法多角度提供情报研究； $\\textcircled{3}$ 对理论倾向的C型人，提供领域专家对情报的简述和评论，以期在使用型人后,更加直接、准确地达成其目标，提高信息服务的效果； $\\textcircled{4}$ 对D型人梳理出简单直接的表格,报告最新的观点、发展中的概念以及跨学科发展的状态。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "策略三：收集与组织用户的交流信息。可细分步骤为： $\\textcircled{1}$ 可以依靠B型人的积极参与和D型人的批评,建立一种用户驱动、群体支持、动态过滤的非正式学术信息； $\\textcircled{2}$ 对Email信息的收集，可以针对特殊组织，比如收集专业RSS信息，以及用户对图书馆服务产生疑问或要求的询问信息； $\\textcircled{3}$ 对 Blog 的信息收集，可以针对特殊Blg用户,比如收集各个领域重点 Blog 的内容和反馈等； $\\textcircled{4}$ 对BBS的信息收集，可以针对特殊社群，特别是网络上已具有品牌的BBS板块。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "策略四：整理与分析用户的交流信息。可细分步骤为： $\\textcircled{1}$ 图书馆可以采用一定的科学方法有系统地、有策略地收集与应用这些信息，转化为高附加值产品，为图书馆创造价值； $\\textcircled{2}$ 分析Email上的虚拟社群活动,这些信息往往比期刊文献、电子书、会议报告等信息更早出现,并且是导致后者出现的“科学氛围”; $\\textcircled{3}$ 分析Blog之间或Blog与非Blog之间的关联度、响应度等，有助于图书馆掌握研究者的人际关系网络，为“图书馆推荐人而不只是推荐书”的创新服务打下基础; $\\textcircled{4}$ 分析BBS的正负评价，掌握某类人群的实践经验、常见疑惑、共同需求等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "策略五；灵活地进行参考服务。可细分步骤为： $\\textcircled{1}$ 针对希望能够快速得到答案的A型人，多馆员联合服务，提供高效的虚拟参考咨询;$\\textcircled{2}$ 对需要多种选项以供参考的B型人，及时提供多种解决途径，并后续以邮件形式补充内容；$\\textcircled{3}$ 对需要专业内容的C型人，提供专家预约服务，通过多种形式的参考咨询，较好地满足用户较为急迫或者专业方面的咨询需求； $\\textcircled{4}$ 尽量观察D型人的变化和需求，促使其给予更多批评意见，从而转化为改进下一阶段服务的动力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "策略六：投资具有潜在市场的信息系统。可细分步骤为： $\\textcircled{1}$ 通过型人探测潜在需求，以投资技术来创造供给，其中投资对象为目前没有但是未来具有潜在市场的信息技术； $\\textcircled{2}$ 方便用户利用Email或BBS等来下载、传递、交流或组织所需要的信息，并且在用户空间中，提供下载位置，直接识别用户ID位置提供服务； $\\textcircled{3}$ 在交互交流空间中方便地使用数字图书馆系统，图书馆板块的提问，可以直接传递到网上咨询系统中，进行过滤、分析和解答； $\\textcircled{4}$ 探索“用户自建数字图书馆系统”，根据用户选择或根据用户行为习惯自组织数字图书馆系统。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，创建与使用型人可以有以下方式： $\\textcircled{1}$ 使用型人去分类来自BBS、Blog、内容聚合等渠道的资源，获得用户在那些空间里的经验交流内容； $\\textcircled{2}$ 使用型人去识别用户行为和特征，以更好地参与他们的网络互动空间（BBS、Blog社群与Email所构建的虚拟社群）； $\\textcircled{3}$ 使用型人去发展新的图书馆服务； $\\textcircled{4}$ 使用型人去讨论和调查用户需求，以设计新的系统功能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用户信息行为研究对于数字图书馆建设与发展具有至关重要的意义。一方面，数字图书馆从根本上是一种用户服务系统，它们能否吸引用户、满足用户需要、提高用户行为效率，取决于它们是否适应和支持用户的行为习惯；另一方面，更重要的是，当用户行为发生转折性变化的时候(例如，用户信息环境和信息行为大大超越传统的图书馆范围和传统的数字图书馆服务范围时），不了解用户新的行为趋向与模式，仅仅停留在不断完善现有系统的功能与效率的话，就可能与用户的需求背道而驰，出现双方行为与心理的认知落差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前，本研究工作的进展主要有：在本研究结果基础上，在中国科学院研究生院（GUCAS）创建四种型人，并且用来在中国科学院国家科学图书馆描述用户行为与特征;进入到下一个阶段研究，也就是探索如何将数字图书馆服务和网络用户行为模型相结合。未来的研究应着重于使创建型人的技术升级，朝向结构方程式、因子与聚类分析、卡方分析的结合；以实验方法去证明或证伪用户行为的因果关系；同时比较不同文化和地区所产生的不同型人（差异化用户模型），以及在其他类型图书馆和用户中创建和使用型人。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（致谢：感谢Dr.Edmund Balnaves、Dr.Reinhard Altenhoener、Prof.Antony Ferguson、梁战平教授、卢小宾教授、景祥祜教授、孟连生教授、初景利教授与孙坦教授。)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 Generation,2006[OL]．［2008-12-01]http:// www.educause.edu/ir/library/pdf/pub7101.pdf. 8] OCLC.Sharing，privacy and trust in our networked world［OL]．［2008-12-01]http:// www.oclc.org/reports/sharing/default. htm. 9］清华大学图书馆OCLC-2007年报告翻译小组. 网络世界的共享、隐私与信任：OCLC 2007全球信 息报告[J]．数字图书馆论坛,2008(3):46. 10] Foster NF,Gibbons S.Studying students：The undergraduate research project at the University of Rochester［OL].AmericanLibrary Association (ALA)．2008.［2008-04-07]．http://docushare. lib.rochester.edu/docushare/dsweb/Get/Document27275/Fost-Gibbons_cmpd.phf. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11］JISC & SCONUL library management systems study[EB/OL].[2008-09-22].http://www.jisc.ac.uk/media/documents/programmes/resourcediscovery/lms_section_2_summary_report.doc.  \n[12]Google Generation[EB/OL]．[2008-03-08]．ht-tp://www. jisc.ac.uk/whatwedo/programmes/re-sourcedis covery/googlegen. aspx.  \n[13］刘畅，屈鹏，李璐．人类信息行为研究进展[J]．图书情报工作，2009,53(2）：24-24.  \n[14］王益民．北京地区高校学生完成学位论文期间信息查询行为的调查与研究报告［R]//中国人搜索行为研究实验室年度报告2006．北京：北京大学，2006:49-84.  \n[15］赖茂生，屈鹏，李璐，等．互联网用户搜索行为中检索语言与语言现象研究[R]//中国人搜索行为研究实验室2007年度报告.北京：北京大学，2008.  \n[16］孟连生，顾立平，钟华,李忠霞．网络学术信息获取行为调查//中国科学院文献情报中心研究生科研项目报告书[C]．［2008-12-01].http://ir.las.ac.cn/handle/12502/1170.2007.  \n[17］顾立平．Web2.0用户行为调查研究：以中科院学生使用社会软件为例[J]．图书情报工作，2007,51(9):100-104.  \n[18］顾立平.基于Web2.0型人的数字图书馆交互界面设计[J]．图书情报工作，2008，52（9)：130 -134.  \n[19］顾立平．基于Web2.0用户信息检索行为的交互设计：后设分析与问卷调查研究[J].图书情报知识，2009，3（5)：26-34.  \n[20]Christopherson R.Accessibility in a Web 2.0 World[EB/OL].[2009-07-07]．http://www.web2expo.com/webexsf20o9/public/schedule/detail/6018.  \n[21]Maness JM,Miaskiewicz T,Sumner T.Using Personas to Understand the Needs and Goals of Institu-tional Repository Users[J/OL]．D-Lib Magazine,2008（9/10）:14[2008-10-13].http://www.dlib.org/dlib/septemberO8/maness/09maness.html.顾立平香港城市大学图书馆 SeniorResearchAssociate（高级副研究员）。通讯地址：香港九龙达之路。  \n张晓林中国科学院国家科学图书馆常务副馆长,教授，博士生导师。通讯地址：北京。邮编100190。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（收稿日期：2009-07-12）",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "type": "text",
+        "text": "高梁幼穗分化与叶龄指数的关联研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周瑜，黄娟，张亚勤，吴毓，李泽碧（重庆市农业科学院特色作物研究所，重庆永川402160）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：观察高梁幼穗分化过程，分析各阶段与叶龄及叶龄指数的对应关系，明确高粱穗分化进程的简易叶龄诊断方法，为高粱栽培管理指标化提供参考。以杂交种晋渝糯3号和常规种国窖红1号为供试材料，设置3个播期，观察幼穗分化进程及对应的叶龄。结果表明：高梁幼穗分化过程可划分为5个时期（营养生长期、生长锥伸长期、枝梗分化期、小穗小花分化期和雌雄蕊分化期)，不育的有柄小花可发育到雌雄蕊分化期。随着播期的推迟，幼穗分化开始日期提前，持续时间缩短，穗分化各时期的叶龄和叶龄指数减小，但品种间存在差异。高粱幼穗分化各时期与对应的叶龄指数存在直线回归关系，依方程通式为 $Y _ { \\mathrm { i } } { = } \\mathrm { b } X _ { \\mathrm { i } } { + } \\mathrm { a }$ ( $Y _ { \\mathrm { i } }$ ：幼穗分化期， $X _ { \\mathrm { i } }$ ：叶龄指数)。随着播期的推迟，晋渝糯3号的b和la值逐渐增大，而国窖红1号的b和a值则逐渐减小。根据叶龄指数可推测高粱幼穗分化进程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高梁，幼穗分化，叶龄指数，播期中图分类号：Q944 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Relation between young panicle differentiation and leaf number index of sorghum ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Yu,HUANG Juan, ZHANG Yaqin,WU Yu,LI Zebi (Institute ofCharacteristic Crops Research,Chongqing Academy ofAgricultural Sciences, Yongchuan 402160, Chongqing, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to determine an easy diagnostic method by measuring leaf number and to provide theoretical basis for sorghum cultivation index management, the panicle differentiation of sorghum and the relationship between diferentiation stage and leaf number (LN) and leaf number index (LNI) were investigated. Hybrid cultivar Jinyunuo 3 and conventional cultivar Guojiaohong 1 were used as materials planted in 3 sowing dates,the young panicle differentiation stage and corresponding leaf number of which were recorded. The results showed that the young panicle differentiation could be divided into five stages: vegetative stage, elongation stage, panicle branch differentiation stage,spikelet and floret differentiation stag，gynoecium and stamen formation stage. The sterile floret with stalk could develop to gynoecium and stamen formation stage. With the sowing date delayed,the starting date of panicle differentiation was advanced,and the growth duration shorted,and LN and LNI of each stage of young panicle differentiation were decreased, but there were diferences among varieties. The relationship between the panicle differentiation stage and LNI conformed to linear regression correlation，with a formula of young panicle differentiation stage （Yi） to LNI $( X \\mathrm { i } )$ of $Y _ { \\mathrm { l = } } \\mathrm { b } X _ { \\mathrm { i + a } }$ .With the detention of sowing date，the parameter b and $\\lvert \\mathrm { a } \\rvert$ in formula of Jinyunuo 3 were increased, while those of Guojiaohong 1 were decreased. It is viable to infer panicle differentiation stage applying LNI. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: sorghum, panicle differentiation, leaf number index, sowing date ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高梁（Sorghumbicolor）抗逆性强、粮饲酿能源兼用、经济价值高，适应性广，能在干旱贫瘠坡地等边际土壤种植并获得稳定产量，大力发展高梁生产对保障粮食安全、提高农民收入具有积极作用。穗分化是作物生长发育的关键时期，自此植株由营养生长转向生殖生长，库源关系转变，光合产物分配至穗部和籽粒（Streck etal.,2009)。穗分化对穗粒数和产量形成至关重要，而穗分化过程极易受环境影响（Wang etal.,2009)，因此穗分化阶段肥水管理对高产稳产起关键性作用。判断穗分化进程往往通过分解植株直接进行观察，会对植株造成毁灭性伤害，而通过其他器官形态推断穗分化进程简便易行，其中叶片出生和穗分化的对应关系，是形态诊断的核心内容，对栽培指标化管理具有重要作用（李存东等，2000)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "郭仲琛（1959）对高梁生长锥的发育过程进行详细观察，根据库别尔曼（1958）的方法，将高梁穗分化划分为8个阶段；李淮滨等（1999）将穗分化过程与外部形态、栽培技术结合，将穗分化过程修改为6个阶段。幼穗分化进程与外部器官发育关系密切，大麦幼穗分化各阶段与叶龄、叶龄余数、叶枕距均存在不同程度的对应关系（吴兴如等，2000)，对应关系依品种类型而不同，春性品种在小花原基分化期节间开始伸长，拔节期基本与药隔期同步，冬性品种在三联期节间开始伸长，拔节期处于雌雄蕊分化期；随品种冬性程度增加，穗分化各时期叶龄随之增大（钟代彬和李正玮，1995)。郑国清等（2003）根据玉米叶龄与雌雄穗的同伸关系，建立了雌雄穗建成模型，模型具有合理的数学与生物学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "穗分化与外部器官发育的相关性在水稻（凌启鸿等，1980，1983）、玉米（董红芬等，2010；宋碧等，2011）、小麦（李文雄和曾寒冰，1979；李存东等，2001）、谷子（王绍滨，2001）等作物上的研究较多，而高梁几乎未涉及，且不同基因型和播期对穗分化的影响亦未见报道。本研究对不同播期下不同品种高梁幼穗分化的过程进行观察，研究高梁穗分化与叶龄及叶龄指数的对应关系，探索幼穗分化的叶龄诊断方法，为高梁生产栽培管理指标化提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1供试材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "杂交种晋渝糯3号和常规种国窖红1号，分别由重庆市农业科学院特色作物研究所和四川省农业科学院水稻高梁研究所提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2018年在重庆市农业科学院渝西作物试验站（重庆市永川区卫星湖街道南华村，$1 0 7 . 6 4 ^ { \\circ }$ E、 $2 9 . 5 2 ^ { \\circ } \\mathrm { ~ N ~ }$ ，海拔 $2 9 8 { \\mathrm { ~ m } }$ ）实施，供试土壤为紫色土，耕层土壤 $\\mathsf { p H }$ 为5.6，有机质含量 $2 2 . 3 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ ，全氮 $1 . 3 1 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ，速效氮 $1 1 9 . 0 \\mathrm { m g \\cdot k g ^ { - 1 } }$ ，速效磷 $2 5 . 0 \\mathrm { m g \\cdot k g ^ { - 1 } }$ ，速效钾 $7 4 . 7 \\mathrm { m g \\cdot k g ^ { - 1 } }$ 。试验地前茬休闲，栽培管理同高产示范田。试验设置4月4日（1)、4月24日（2）和5月16日（3）3个播期，行长 $5 \\mathrm { m }$ ，行距 $0 . 5 \\mathrm { m }$ ，小区面积 $5 0 \\mathrm { m } ^ { 2 }$ （ $5 \\mathrm { m } \\times 1 0 \\mathrm { m } )$ ，种植密度为7000株· $6 6 7 \\mathrm { m } ^ { - 2 }$ 。穴播，3\\~4叶期间苗，5\\~6叶期定苗，每穴留苗2株。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 测定方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高梁5叶期时每小区选取具有代表性的植株80株进行标记，用红色油漆笔在同侧叶片上划线代表叶龄，每隔2d选3株进行解剖观察，并记录对应的叶龄。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "幼穗分化观察：植株逐层剥去叶鞘和苞叶至露出幼穗，在江南NSZ-608T体视显微镜下观察并拍照。幼穗分化时期参照段胜军等（1998）方法划分，发育后期以中上部的小穗、小花所处阶段来代表分化进程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叶龄（leaf number，LN)：已出叶片数，未全展开叶按照与上一张全展叶比值估算（杨从党等，2013)。总叶片数（total leaf number，TLN)：叶片全部展开后，以20株的总叶片数平均值表示。叶龄指数（leaf number index，LNI)：叶龄与总叶片数的百分比，即LNI( $( \\%$ ）$\\scriptstyle = \\mathrm { L N } / \\mathrm { T L N } \\times 1 0 0 .$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2007进行数据整理、回归分析和作图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1高梁幼穗分化过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高梁幼穗分化可分为5个时期：营养生长期、生长锥伸长期、枝梗分化期、小穗小花分化期和雌雄蕊分化期，不同品种不同播期幼穗开始分化的时期和各阶段持续时间存在差异，但分化的方式和形态基本一致。以晋渝糯3号幼穗发育为例，描述高梁幼穗分化过程（图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1营养生长期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生长锥在胚胎时期就存在，高粱幼苗出土后至幼穗分化前，生长锥呈光滑的半球体（图1：A)。营养生长期生长锥随着植株生长略为膨大，基部产生半圆形互生突起，即为叶原基（图1：B)。叶原基膨大覆盖整个生长锥，分化展开形成幼叶。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2生长锥伸长期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶原基停止分化，叶片和茎节数确定，生长锥开始伸长，基部膨大，顶端逐渐变尖，生长锥由半球形变成圆锥形（图1：C)，表明植株进入幼穗分化阶段，开始进行生殖生长。茎基部第一节间开始伸长，进入拔节期。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 枝梗分化期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高梁生长锥伸长期很短，生长锥没有显著抽长的状态，顶端稍微变尖基部就产生突起，形成一级枝梗原基（图1：D，E)，分化自下而上进行，呈向顶式生长。当顶部一级枝梗即将分化完成时，基部一级枝梗底部两侧开始突起，分化出二级枝梗，二级枝梗也是向顶式分化，因此一级枝梗整体上呈三角形（图1：F)。顶部二级枝梗尚在分化时，中部二级枝梗两侧开始进行三级枝梗分化（图1：G)。生长锥中下部二、三级枝梗分化较早，因此可产生三、四级枝梗原基，小穗原基从三、四级枝梗原基上产生，而顶端枝梗分化较慢，只产生二级枝梗原基，直接在二级枝梗原基上产生小穗原基。枝梗分化期是决定枝梗数和小穗数的关键时期，影响结实粒数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.4小穗小花分化期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三级枝梗分化完成后，从穗上部开始逐渐向下，三级枝梗上产生乳头状突起（图1：H)，即为小穗原基，小穗原基继续分化，也产生乳头状突起，即为小花原基（图1：I)，顶端小穗原基上排列有3个小花原基，以下均为2个小花原基（图1：J)。小花原基顶部钝圆，基部产生类似叶原基形式的环状突起，自下往上层叠互生，分别为外颖、内颖、外稃和内稃。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.5 雌雄蕊分化期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小花原基继续膨大伸长，顶端分化出3个圆形突起，即为雄蕊原基，3个雄蕊原基中央隆起1个较大的圆形突起，即为雌蕊原基（图1：K)。枝梗顶部小穗（图1：L）有3朵小花，1朵无柄小花，无柄小花背后有2朵有柄小花，其他小穗均2朵小花，1朵无柄小花，1朵有柄小花。小花内外颖、内外稃继续伸长增大，将雌雄蕊包裹其中（图1：M)。雄蕊原基伸长增大，呈透明四棱状，同时雌蕊原基体积增大，顶端形成2个角状突起并伸长（图1:N)。有柄小花雌雄蕊停止分化，仅内外颖和内外稃伸长增大。无柄小花雌雄蕊继续生长，花药变黄，子房膨大，柱头出现羽毛状突起（图1：O）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9cf06307c654f3ae746e9f6c38093bbfc0447756870b5ae1df61323f7b2553f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A-B.营养生长期；C.生长锥伸长期；D-E.一级枝梗分化期；F.二级枝梗分化期；G.三级枝梗分化期；   \nH-J.小穗小花分化期；K-O.雌雄蕊分化期。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A-B. Vegetative stage; C.Elongation stage; D-E. Primary panicle branch differentiation stage; F. Secondary panicle branch differentiation; G.Third panicle branch diferentiation stage; H-J. Spikelet and floret differentiation stage; K-O. Gynoecium and stamen formation stage. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1晋渝糯3号的幼穗分化过程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2播期对高粱幼穗分化进程的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1结果显示，随着播期的推迟，幼穗分化起始日期逐渐提前，分化持续时间缩短，抽穗至成熟天数减少，生育期缩短。比较变异系数可知，3个播期间晋渝糯3号幼穗分化起始时间变化幅度较大，而幼穗分化持续时间和抽穗至成熟天数的变化幅度均较小；国窖红1号幼穗分化起始时间和幼穗分化持续时间变化幅度均较大，而抽穗至成熟天数变化幅度较小。播期对国窖红1号生育期的影响较大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着播期的推迟，拔节到生长锥伸长（II）期、枝梗分化（II）期和雌雄蕊分化（V)期逐渐缩短，生长锥伸长（II）期和小穗小花分化（IV）期在播期间均无差异。通过比较变异系数发现，国窖红1号均比晋渝糯3号变异幅度大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3播期对高粱叶龄及叶龄指数的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2、图2可知，随着播期推迟，晋渝糯3号在拔节期、生长锥伸长（II）期和雌雄蕊分化（V）期叶龄逐渐减小，其他时期叶龄在3个播期间差异不明显；国窖红1号的叶龄在各个时期均随播期推迟而减小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随播期的推迟，叶片生长速率逐渐提高，晋渝糯3号在3个播期的出叶速度分别为每天0.28、0.30和0.35片，国窖红1号分别为每天0.25、0.29和0.34片。其中，出苗至拔节阶段，2个品种出叶速度差异不明显，播期1在每天0.25片左右，播期2与播期3在0.27-0.29之间，晋渝糯3号略低于国窖红1号。拔节至抽穗，叶片生长速率随播期推迟而增加，晋渝糯3号3个播期分别为每天0.31、0.33和0.42片，国窖红1号分别为每天0.25、0.28和0.39片，播期1与播期2之间出叶速度相近，明显低于播期3。晋渝糯3号在幼穗分化各个时期的叶龄均低于国窖红1号。成熟期总叶片数随着播期推迟而减少，通过比较变异系数可知，晋渝糯3号的总叶片数受播期的影响较国窖红1号小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "叶龄指数在高梁各个生育时期随播期的变化趋势与叶龄类似。随着播期的推迟，晋渝糯3 号在拔节期、生长锥伸长（II）期和雌雄蕊分化（V）期叶龄指数逐渐减小，其他时期叶龄指数在3个播期间差异不明显；国窖红1号在生长锥伸长（II）期和枝梗分化（III）期叶龄指数逐渐减小，拔节期和小穗小花分化（IV）期叶龄指数在播期2最小，雌雄蕊分化（V)期叶龄指数逐渐增加。晋渝糯3号在幼穗分化各个时期的叶龄指数均低于国窖红1号。同一幼穗分化阶段不同播期间叶龄指数的CV值较小，表明幼穗分化阶段与叶龄指数的对应关系更为稳定，受环境影响较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1不同播期下高梁各幼穗分化时期的开始日期及持续天数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 1 The starting date and lasting time of each panicle differentiation stage in different sowing date ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0b617f0c6eef6390445ef2973bf417f25266ad7dbbb04536e57de7a5c8d7585.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：II.生长锥伸长期；III-1.一级枝梗分化期；II-2 二级枝梗分化期；II-3 三级枝梗分化期；IV.小穗小花分化期；V.雌雄蕊分化期；CV.变异系数 $( \\%$ )。日期格式为\"月/日”。下同。 V. Gynoecium and stamen formation stage. CV. Coeficient of variation $( \\% )$ . The date format: “Month/Day”. The same as below. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"5\">品种</td><td rowspan=\"5\">处理</td><td colspan=\"2\">出苗期</td><td colspan=\"2\">拔节期</td><td rowspan=\"2\" colspan=\"2\"></td><td rowspan=\"2\"></td><td colspan=\"4\">Ⅲ</td><td rowspan=\"2\" colspan=\"2\">IV</td><td rowspan=\"2\" colspan=\"2\">V</td><td rowspan=\"2\" colspan=\"2\">抽穗期 Heading stage</td><td colspan=\"2\">成熟期 Mature stage</td></tr><tr><td colspan=\"2\"> Seeding stage</td><td colspan=\"2\"> Jointing stage</td><td colspan=\"2\">II-1 ⅢI-2</td><td colspan=\"2\">Ⅲ-3</td><td colspan=\"2\"></td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">日期</td><td colspan=\"2\">日期</td><td colspan=\"2\">日期</td><td colspan=\"2\">日期</td><td colspan=\"2\">日期 天数</td><td colspan=\"2\">天数</td><td colspan=\"2\">天数</td><td colspan=\"2\">天数</td><td colspan=\"2\">日期 天数</td></tr><tr><td>Treatment</td><td>Date</td><td>天数 Days(d)</td><td>Date</td><td>天数 Days(d)</td><td>Date</td><td>天数 Days(d)</td><td>日期 Date</td><td>Date</td><td>Date</td><td>Days(d)</td><td>日期 Date</td><td>Days(d)</td><td>日期 Date</td><td>Days(d)</td><td>日期 Date</td><td>Days(d)</td><td>Date</td><td>Days(d)</td></tr><tr><td>晋渝糯3号</td><td>1</td><td>4/11</td><td>32</td><td>5/13</td><td>6</td><td>5/19</td><td>3</td><td>5/22</td><td>5/25</td><td>5/29</td><td>10</td><td>6/1</td><td>4</td><td>6/5</td><td></td><td></td><td></td><td></td><td></td><td>112</td></tr><tr><td></td><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>6/19</td><td>8 8</td><td>6/13 6/27</td><td>42 39</td><td>7/25</td><td></td></tr><tr><td></td><td></td><td>5/1</td><td>27</td><td>5/28</td><td>6</td><td>6/3</td><td>3</td><td>6/6</td><td>6/7</td><td>6/13</td><td>9 7</td><td>6/15</td><td></td><td></td><td></td><td></td><td></td><td></td><td>8/5</td><td>103</td></tr><tr><td>000</td><td>3</td><td>5/22</td><td>24</td><td>6/15</td><td>4</td><td>6/19</td><td>3</td><td>6/22</td><td>6/25</td><td>6/27</td><td></td><td>6/29</td><td></td><td></td><td>7/3</td><td>7</td><td>7/10</td><td>35</td><td>8/14</td><td>90</td></tr><tr><td>国窖红1号</td><td>CV (%)</td><td></td><td>14.61</td><td></td><td>21.65</td><td></td><td>0</td><td></td><td></td><td></td><td>17.63</td><td></td><td></td><td></td><td></td><td>7.53 11</td><td>6/26</td><td>9.08 36</td><td></td><td>10.88 119</td></tr><tr><td>Guojiaohong 1</td><td>1</td><td>4/12</td><td>34</td><td>5/16</td><td>10</td><td>5/26</td><td>3</td><td>5/29</td><td>6/1</td><td>6/5</td><td>13</td><td>6/11</td><td></td><td></td><td>6/15 6/22</td><td>9</td><td>7/1</td><td>36</td><td>8/1 8/6</td><td>104</td></tr><tr><td>200Z</td><td>2</td><td>5/1</td><td>26</td><td>5/27</td><td>7</td><td>6/3</td><td>3</td><td>6/6</td><td>6/7</td><td>6/13</td><td>12</td><td>6/18</td><td></td><td></td><td></td><td>6</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3 CV (%)</td><td>5/22</td><td>26 16.11</td><td>6/17</td><td>4 42.86</td><td>6/21</td><td>3 0</td><td>6/24</td><td>6/25</td><td>6/29</td><td>8 24.05</td><td>7/2</td><td></td><td></td><td>7/6</td><td>29.04</td><td>7/12</td><td>35 1.62</td><td>8/16</td><td>92 12.88</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d25664eb6ffe5013844c0404b6d0ac336f28ab7933e8f3fd83227b5272153fe0.jpg",
+        "table_caption": [
+            "表2不同播期下高粱幼穗各分化时期的叶龄和叶龄指数",
+            "ble 2 Leaf number (LN) and leaf number index (LNI) of each panicle differentiation stage in different sowin; "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>C品r</td><td>T处理t</td><td colspan=\"2\">拔节期 Jointing stage</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">Ⅲ-1</td><td rowspan=\"2\">IⅢ-2</td><td rowspan=\"2\"></td><td rowspan=\"2\">Ⅲ-3</td><td rowspan=\"2\"></td><td rowspan=\"2\">IV</td><td rowspan=\"2\"></td><td rowspan=\"2\">V</td><td>成熟期</td></tr><tr><td></td><td></td><td></td><td></td><td>Mature stage TLN</td></tr><tr><td></td><td></td><td>LN</td><td>LNI</td><td>LN</td><td>LNI</td><td>LN</td><td>LNI</td><td>LN</td><td>LNI</td><td>LN</td><td>LNI</td><td>LN</td><td>LNI 73.71</td><td>LN</td><td>LNI</td></tr><tr><td>晋渝糯3号</td><td>1</td><td>7.8</td><td>44.57</td><td>9.4</td><td>53.71</td><td>9.6</td><td>54.86</td><td>10.7</td><td>61.14</td><td>11.8 11.9</td><td>67.43</td><td>12.9</td><td>15.8</td><td>90.29</td><td>17.5</td></tr><tr><td> Jinyunuo 3</td><td>2</td><td>7.5</td><td>43.19</td><td>8.9</td><td>51.26</td><td>9.4</td><td>54.14</td><td>10.8</td><td>62.20</td><td>68.53</td><td>12.8</td><td>73.72</td><td>14.8</td><td>85.24</td><td>17.36</td></tr><tr><td></td><td>3</td><td>6.9</td><td>39.74</td><td>8.7</td><td>50.10</td><td>9.5 9.5</td><td>54.71</td><td>10.8 62.20</td><td>11.8</td><td>67.96</td><td>12.7</td><td>73.14</td><td>13.8</td><td>79.48</td><td>17.36</td></tr><tr><td></td><td>均值 Average</td><td>7.4</td><td>42.50</td><td>9</td><td>51.69</td><td></td><td>54.57</td><td>10.77 61.85</td><td>11.83</td><td>67.97</td><td>12.8</td><td>73.52</td><td>14.8</td><td>85.00</td><td>17.41</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d260d2f6bc22bbdd3395e764ad623975743a8dcb95008d10a4575a91a155db3.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：LN．叶龄；LNI．叶龄指数 $( \\% )$ ；TLN.总叶片数。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>CV (%)</td><td>6.19</td><td>5.86</td><td>4.01</td><td>3.57</td><td>1.05</td><td>0.70</td><td>0.54</td><td>0.99</td><td>0.49</td><td>0.81</td><td>0.78</td><td>0.45</td><td>6.76</td><td>6.36</td><td>0.45</td></tr><tr><td>国窖红1号</td><td>1</td><td>8.7</td><td>45.59</td><td>10.5</td><td>55.02</td><td>11.6</td><td>60.79</td><td>12.8</td><td>67.07</td><td>13.8</td><td>72.31</td><td>14.8</td><td>77.55</td><td>15.8</td><td>82.79</td><td>19.08</td></tr><tr><td>uojiaohong 1</td><td>2</td><td>7.5</td><td>42.68</td><td>9.5</td><td>54.07</td><td>10.6</td><td>60.33</td><td>11.5</td><td>65.45</td><td>12.6</td><td>71.71</td><td>13.6</td><td>77.40</td><td>14.9</td><td>84.80</td><td>17.57</td></tr><tr><td></td><td>3</td><td>7.4</td><td>43.02</td><td>8.8</td><td>51.16</td><td>9.6</td><td>55.81</td><td>10.8</td><td>62.79</td><td>11.8</td><td>68.60</td><td>13.5</td><td>78.49</td><td>14.7</td><td>85.47</td><td>17.20</td></tr><tr><td></td><td>均值 Average</td><td>7.87</td><td>43.77</td><td>9.6</td><td>53.42</td><td>10.6</td><td>58.98</td><td>11.7</td><td>65.10</td><td>12.73</td><td>70.88</td><td>13.97</td><td>77.81</td><td>15.13</td><td>84.35</td><td>17.95</td></tr><tr><td></td><td>CV (%)</td><td>9.20</td><td>3.63</td><td>8.90</td><td>3.76</td><td>9.43</td><td>4.66</td><td>8.67</td><td>3.32</td><td>7.91</td><td>2.81</td><td>5.18</td><td>0.76</td><td>3.87</td><td>1.65</td><td>5.56</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:LN.Leaf number;LNI.Leaf number index $( \\% )$ ; TLN.Total leaf number. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/221ddfb9c53fa4f037b72b256a44761689756cac56eff1b640000307cec36dae.jpg",
+        "img_caption": [
+            "图2高梁不同生育时期的叶龄和叶龄指数"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "JS拔节期；II.生长锥伸长期；II-1.一级枝梗分化期；III-2 二级枝梗分化期；II-3 三级枝梗分化期；IV.小穗小花分化期；V.雌雄蕊分化期。   \ndifferentiation stage; V. Gynoecium and stamen formation stage. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Leaf number and leaf number index of sorghum in different growth period ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4高梁幼穗分化与叶龄指数的关联 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "回归分析分析发现，不同播期下幼穗分化阶段与叶龄指数的关系均为线性相关，可用直线回归方程 $Y _ { \\mathrm { i } } { = } \\mathrm { b } X _ { \\mathrm { i } } { + } \\mathrm { a }$ （ $Y _ { \\mathrm { i } }$ 为幼穗分化阶段， $X _ { \\mathrm { i } }$ 为叶龄指数，a、b表示系数）表示， $R ^ { 2 }$ 在0.937$3 { \\sim } 0 . 9 9 3 \\ 1$ ，表现出极显著正相关(表3)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "随着播期的推迟，晋渝糯3号的b和a值逐渐增大，而国窖红1号则逐渐减小。对晋渝糯3号和国窖红1号的系数 $\\mathbf { b } \\cdot \\mathbf { a }$ 进行差异显著性 $t$ 检验， $t _ { \\mathrm { b J 3 } } { = } 2 9 . 6 6 1$ ， $t _ { \\mathrm { a J 3 } } { = } { - } 2 5 . 7 1 7$ $t _ { \\mathrm { b G 1 } } { = } 2 3 . 5 2 5$ ，$t _ { \\mathrm { a G 1 } } { = } { - } 1 1 . 4 5 1$ （ $t _ { 0 . 0 1 } { = } 5 . 8 4 1$ ， $\\scriptstyle n = 3$ )，各系数间的差异达极显著水平，表明2个品种在3个播期条件下的直线回归方程之间存在极显著性差异，无法拟合出一个通用的直线回归方程来表示高梁幼穗分化时期与叶龄指数之间的关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "公式 $\\scriptstyle { X = ( 2 - a ) / 6 }$ 表示高梁幼穗分化起始期，即生长锥伸长（II）期的理论叶龄指数，由表3可知，2个品种的理论叶龄指数均随着播期的推迟而下降，与田间表现一致，表明播期对高梁开始幼穗分化时的叶龄指数存在显著影响；公式 $\\scriptstyle Y = 5 / { \\mathrm { b } }$ 表示理论上高梁幼穗分化起始和终止时叶龄指数差值，品种之间存在差异，晋渝糯3号的值随播期推迟逐渐减小，国窖红1号的值随播期推迟而逐渐增大，而两个品种的幼穗分化持续时间均随播期逐渐缩短，表明晋渝糯3号在穗分化阶段的出叶速度在播期间较为稳定，而国窖红1号受播期影响较大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3幼穗分化与叶龄指数的线性回归分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3fcbdcec5b8947440f448a3617e58cdd5e49c6ce0b6c0a3c2f87f5a0214f978b.jpg",
+        "table_caption": [
+            "Table 3 Liner regression analysis of panicle differentiation and leaf number index "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示在0.01水平上差异显著。 Note: \\*\\* indicates significant differences at O.O1 level. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>处理Treatment</td><td>b</td><td>X</td><td>a</td><td>R</td><td>F</td><td>(2-a)/b</td><td>5/b</td></tr><tr><td>晋渝糯3号</td><td>Y</td><td>0.138 3</td><td>X1</td><td>-4.808 8</td><td>0.937 3</td><td>74.799</td><td>49.232 1</td><td>36.153 3</td></tr><tr><td> Jinyunuo 3</td><td>Y</td><td>0.148 6</td><td>X</td><td>-5.301 6</td><td>0.983 9</td><td>306.395</td><td>49.135 9</td><td>33.647 4</td></tr><tr><td></td><td>Y</td><td>0.155 4</td><td>X</td><td>-5.486 1</td><td>0.990 8</td><td>538.677</td><td>48.173 1</td><td>32.175 0</td></tr><tr><td></td><td>t-test</td><td>29.661**</td><td></td><td>25.717**</td><td></td><td></td><td>144.469**</td><td>29.271**</td></tr><tr><td>国窖红1号</td><td>Y</td><td>0.164 8</td><td>X</td><td>-6.855 4</td><td>0.989 9</td><td>492.077</td><td>53.734 2</td><td>30.339 8</td></tr><tr><td>Guojiaohong 1</td><td>Y</td><td>0.149 9</td><td>X2</td><td>-5.774 6</td><td>0.987 2</td><td>385.941</td><td>51.865 2</td><td>33.355 6</td></tr><tr><td></td><td>Y</td><td>0.142 8</td><td>X</td><td>-5.083 5</td><td>0.993 1</td><td>724.032</td><td>49.604 3</td><td>35.014 0</td></tr><tr><td></td><td>t-test</td><td>23.525**</td><td></td><td>11.451**</td><td></td><td></td><td>43.329**</td><td>24.049**</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1高粱幼穗分化过程",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "高梁的花序是圆锥花序，穗轴上着生一级枝梗，一级枝梗上着生二级枝梗，二级枝梗上着生三级枝梗（李涛，2001)。枝梗末端着生小穗，小穗由无柄小花和有柄小花构成，无柄小花结实，有柄小花不结实。李淮滨等（1999）观察了不同高梁品种穗分化过程，发现在小穗小花分化期，由三级枝梗基部分化第一颖、第二颖，接着是退化花外稃、退化花原基分化，但不久便退化消失，然后可育花的外稃、小花原基及内稃分化。而本研究发现，不育的有柄小花可发育到雌雄蕊分化期，雄蕊原基呈透明四棱状，雌蕊原基顶端形成2个角状突起，而后才停止分化。笔者在其他高粱材料中发现，无柄小花去雄后，次日有柄小花花药依旧伸出，可推断出有柄小花的雌雄蕊并未退化消失，确切原因有待进一步研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2播期对高粱幼穗分化的影响 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "播期变化，使高粱各生育阶段所处的温度、光照和水分条件不同，从而影响高粱生育进程。随播期推迟，高梁全生育期显著变短，主要由于出苗至抽穗的时间缩短（张恩艳，2015;",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "周瑜等，2019)。玉米全生育期随播期推迟而缩短，雄穗分化期亦缩短，而雌穗分化期受播期影响不大（刘昌继，1996)。本研究中，随着播期的推迟，幼穗分化开始日期逐渐提前，幼穗分化持续时间逐渐缩短。播期对小麦幼穗分化阶段的伸长期、单棱期、二棱期影响较大，品种春性越强，幼穗分化进程越快（郜庆炉等，2003)。本试验中，播期仅对晋渝糯3号幼穗分化起始时期影响较大，对国窖红1号幼穗分化起始时期和持续时间影响均较大。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3播期对高粱的叶龄及叶龄指数的影响 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "穗分化起始期的叶龄在基因型和播期间存在差异。穗分化时水稻的叶片数目在品种间差异明显，但Yin&Kropff（1998）认为穗分化时未展开叶片数目是稳定的，平均为3片叶。而 Strecketal.（2009）认为该结论不适用于所有水稻品种，因为总叶片数不同，穗分化时未展开叶片数目可从1到5或6。大麦同一品种不同播期幼穗分化各阶段对应的叶龄基本一致，同一播期不同品种幼穗分化各阶段对应的叶龄差异明显（吴兴如等，2000)。本试验中，随着播期的推迟，晋渝糯3号在拔节期、生长锥伸长（II）期和雌雄蕊分化（V）期叶龄逐渐减少，国窖红1号的叶龄在各个时期均随播期推迟而减少。温度对出叶有促进作用，在小麦上表现为春播小麦穗分化各期的叶龄均比秋播大（钟代彬和李正玮，1995)。本研究结果显示，叶龄指数在高梁各个生育时期随播期的变化趋势与叶龄类似，但幼穗分化阶段与叶龄指数的对应关系更为稳定，在播期间变化较小，这与李国瑜等（2017）在夏谷上的研究基本一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4高粱幼穗分化与叶龄指数关联 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "幼穗分化各阶段与叶龄指数存在显著的相关关系，通过建立回归方程，用叶龄指数推断穗分化进程，已在小麦（李存东等，2000）、玉米（曹彬等，2005）、谷子（李国瑜等，2017；卢海博等，2012）等作物上得到广泛应用。然而，应用叶龄指数描述高梁发育进程的研究较少。本研究结果显示，高梁幼穗分化阶段与叶龄指数符合直线回归关系，直线回归方程$Y _ { \\mathrm { i } } { = } \\mathrm { b } X _ { \\mathrm { i } } { + } \\mathrm { a }$ ，随着播期的推迟，晋渝糯3号的b和a值逐渐增大，而国窖红1号的b和lal值则逐渐减小，不同品种和播期的回归方程各系数间存在极显著差异，用直线回归方程来表示不同播期下高粱幼穗分化时期与叶龄指数的关系需要进一步研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "高梁幼穗分化可划分为5个时期：营养生长期、生长锥伸长期、枝梗分化期、小穗小花分化期和雌雄蕊分化期，不育的有柄小花可发育到雌雄蕊分化期。随着播期的推迟，幼穗分化开始日期提前，幼穗分化持续时间缩短，穗分化各时期的叶龄减小，但品种间存在差异。高梁幼穗分化阶段与叶龄指数符合直线回归关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CAO B, ZHANG SJ, SUN ZY, et al.， 2005. Research report of regresson relationship between leaf number index and spike differentiation in maize[J]. J Maize Sci,13(1): 86-88.[曹彬，张 世杰，孙占育，等，2005．玉米叶龄指数与穗分化回归关系的研究初报[J]．玉米科学, 13(1): 86-88.]   \nDONG HF,LI H, LI AJ, et al., 2010. Relationships between spike and stem growth and female spike differentiation under different densities[J].JMaize Sci,18(5): 65-71.[董红芬，李洪, 李爱军，等，2010，不同密度下玉米穗茎生长与雌穗分化的关系[J]．玉米科学，18(5): 65-71.]   \nDUAN SJ, DIAO XM, ZHAO LY,1998.Electronic scanning observation of developmental morphology of inflorescence in foxtail millet[J]. Acta Bot Boreal-Occident Sin,18(3): ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "406-410.[段胜军，刁现民，赵连元，1998．谷子穗分化的扫描电镜观察[J]．西北植物学",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "报,18(3):406-410.] GAO QL, XUE X,WU YE, et al., 2003. Effects of sowing times on the spike differentiation of different wheat varieties under the climate of warm winter[J]. Chin JAppl Ecol,14(10):   \n1627-1631.[郜庆炉，薛香，吴玉娥，等，2003．暖冬条件下播期对不同类型小麦幼穗分 化的影响[J]．应用生态学报,14(10):1627-1631.] KOU JS,1959. Developmental morphology of the inflorescence of Sorghum vulgare Pers[J]. J Integr Plant Biol,(3):215-220.[郭仲琛，1959．高梁花序的发育形态[J]．植物学报，(3):   \n215-220.] LI CD,CAO WX,DAI TB,et al.， 2001.Effects of different varieties and sowing dates on development stages of wheat[J]. Chin J Appl Ecol,12(2): 218-222.[李存东，曹卫星，戴廷 波，等，2001．小麦不同品种和播期对发育阶段的效应[J]．应用生态学报，12(2):   \n218-222.] LI CD, CAO WX, LUO WH, et al., 2000. Relationship between leaf emergence on main stem and spike differentiation stages in wheat[J]. Sci Agric Sin,33(1): 33-38.[李存东，曹卫星，罗卫 红，等,2000．小麦叶片出生与穗分化关系的研究[J]．中国农业科学,33(1):33-38.] LI GY,CONG XJ, QIN L, et al. 2017. Effects of sowing dates on panicle differentiation and leaf number index of summer-sowing foxtail millet [Setaria italica (L.) Beauv.][J]. Sci Agric Sin,   \n50(4):612-624.[李国瑜，丛新军，秦岭，等,2017．播期对夏谷幼穗分化及叶龄指数的影 响[J]．中国农业科学,50(4): 612-624.] LI HB,LI WY, HOU LB,et al.，1999.Panicle differentiation and top-dressing in sorghum[J]. Liaoning Agric Sci,(2):5-8.[李淮滨,李文跃，侯立白，等,1999.高梁穗分化与追肥[J]. 辽宁农业科学,(2): 5-8.] LI T, 2001. Study on the ear structure of sorghum[J]. Hortic & Seed,21(3):18-20.[李涛,2001. 高梁穗结构的研究[J]．园艺与种苗,21(3):18-20.] LI WH, TSENG HB,1979.The characteristics of spike differentiation and its relationship to high-yielding culture in spring wheat[J]. Sci Agric Sin,(1): 1-9.[李文雄，曾寒冰,1979.春 小麦穗分化的特点及其与高产栽培的关系[J].中国农业科学,(1):1-9.] LING CH, CAI JZ, SU ZF. 1980. The practical value of using the“leaf index” and “leaf remainder” in determining the stages of panicle-differentiation in rice plant[J]. Sci Agric Sin, (4):1-11.[凌启鸿，蔡建中，苏祖芳.1980．叶龄余数在稻穗分化进程鉴定中的应用价值 [J]．中国农业科学,(4): 1-11.] LING CH, SU ZF, CHANG HC, et al.，1983. The leaf-age-model of development process in differnet varieties of rice[J].Sci Agric Sin,(1): 9-18.[凌启鸿，苏祖芳，张洪程，等,1983. 水稻品种不同生育类型的叶龄模式[J]．中国农业科学,(1):9-18.] LIU CJ,1996.Efects of different sowing dates on the ear diferentiation and yield of maize[J]. Cult Plant,(5):37-38.[刘昌继,1996.不同播期对玉米穗分化及产量的影响[J]．耕作与栽 培,(5): 37-38.] LU HB, LI HQ, GONG XC, et al., 2012. Research on relationship between spike differentiationer stages and leaf number index in Zhangzagu (Setaria italica)[J]. Guangdong Agric Sci, 39(19):   \n42-43.[卢海博，李鸿强，龚学臣，等，2012.张杂谷穗分化时期与叶龄指数关系的研究 [J]．广东农业科学,39(19): 42-43.]   \nSONG B,AN W, YUAN CL, et al., 2011. Study on relationship between the leaf born and spike differentiation for both spring and summer sowed maize varieties[J]. Hubei Agric Sci, 50(21): 4343-4347.[宋碧，安伟，袁朝兰，等，2011．玉米品种春播与夏播叶片出生与穗分化的 关系[J]．湖北农业科学,50(21):4343-4347.]   \nSTRECK NA, LAGO I, BOSCO LC, et al., 2009. Relationship between panicle differentiation and main stem leaf number in rice genotypes and red rice biotypes[J]. Sci Agric,66(2): 195-203.   \nWANG SB，2O01. Relationship between leaf growth young panicle differentiation and morphological characters in millet[J]. Heilongjiang Agric Sci,(6): 23-24.[王绍滨,2001．谷 子叶片生长及幼穗分化与外部形态的关系[J]．黑龙江农业科学,(6):23-24.]   \nWANG YM, CHEN SY, SUN HY, et al., 20O9. Effects of different cultivation practices on soil temperature and wheat spike differentiation[J]. Cereal Res Comm, 37(4): 575-584.   \nWU XR, LI HL， ZHAO JX, 20O0. Studies on young panicle differentiation and phenotype diagnoses of barley[J]. JYunnan Agric Univ,15(1): 42-45.[吴兴如，李怀莉，赵俊秀,2000. 大麦不同品种不同播期幼穗分化时期形态诊断研究[J]．云南农业大学学报，15(1): 42-45.]   \nYANG CD, LI GH,LI GY, et al.， 2013. Establishment of leaf age model of rice varieties at different altitude environments in Yunnan Province， China[J]. SW China J Agric Sci, 26(4):1372-1377.[杨从党，李刚华，李贵勇，等，2013．云南省立体生态稻区水稻叶龄模 式建立[J]．西南农业学报,26(4):1372-1377.]   \nYIN XY, KROPFF MJ,1998. The effect of photoperiod on interval between panicle initiation and flowering in rice[J]. Field Crop Res,57(3): 301-307.   \nZHANG DB,LI ZW,1995. Studies on the homologous relation of ear-diferentiation and morphological characteristics with long daylenth and vernalization treatment in barley[J]. J Zhejiang Agric Univ,21(3):289-292.[钟代彬，李正玮,1995．长日和春化条件下大麦幼穗 分化与外部形态的对应关系[J]．浙江农业大学学报,21(3):289-292.]   \nZHANG EY, 2015. Effects of sowing period and density on summer sorhum growth and yield[D]. Jinzhong:Shanxi Agricultural University:16.[张恩艳,2015．播期、密度对夏播高梁生长 发育及产量的影响[D]．晋中：山西农业大学:16.]   \nZHENG GQ, DUAN SF, YAN SB, et al., 2003. Simulation models of the development of leaf age and organs in maize[J].JMaize Sci,11(4): 63-66.[郑国清，段韶芬，阎书波，等,2003．玉 米叶龄与器官发育模拟模型[J].玉米科学,11(4): 63-66.]   \nZHOU Y, HUANG J, WU Y, et al., 2019. Effects of sowing date on the growth and yield of direct seeding sorghum of different varieties[J]. J Yunnan Agric Univ (Nat Sci Ed), 34(3): 384-392. [周瑜，黄娟，吴毓，等，2019．播期对直播高梁生长发育及产量的影响[J]．云南农业大 学学报(自然科学),34(3):384-392.]   \nKyIEPMAH ΦM,1958. The formation stage of grain in Gramineae[M]. Beijing: Science Press [库别尔曼ΦM,1958．禾本科植物结实器官的形成阶段[M]．北京：科学出版社.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

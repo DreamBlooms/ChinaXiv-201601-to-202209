@@ -1,0 +1,161 @@
+# 黄花蒿在动物生产中的应用研究
+
+郭世伟 徐元庆 张鹏飞 邢媛媛 史彬林\*（内蒙古农业大学动物科学学院，呼和浩特010018）
+
+摘要：黄花蒿是一种草本植物，在我国传统医学中被广泛应用，具有抗炎、抗氧化、抗疟疾、驱虫和免疫调节等多种生物活性。此外，黄花蒿无毒无害、无耐药性，在动物生产方面具有极高的利用价值。本文综述了黄花蒿中生物活性物质的生理功能及其在动物生产中的具体应用，为黄花蒿的进一步研究提供参考。
+
+关键词：黄花蒿；生物活性；动物生产；应用研究中图分类号：S816.7 文献标识码：A 文章编号：
+
+黄花蒿（ArtemisiaannuaL.）为一年生菊科蒿属草本植物，又名青蒿、香蒿、草青蒿、臭青蒿和黄蒿，其适应性极强，广泛分布于北美洲、欧洲、非洲和亚洲，其中 $70 \%$ 集中在中国。黄花蒿地上部分可以入药，性寒，味苦、辛，有清热解毒、除蒸截疟之功效，在我国主要用作传统的抗疟药物[1]。可用于治疗暑邪发热、阴虚发热、夜热早凉、骨蒸劳热、疟疾寒热和湿热黄疸等症状，其次外用治蚊虫咬伤、疮肿和烫伤等[2]。黄花蒿的这些特性主要归因于其所含的生物活性成分，如倍半萜类（青蒿素）、黄酮类、多糖类、香豆素类、挥发油类及酚类等。这些生物活性物质有抗疟疾[3-4]、抗癌[5]、抗炎[6]、抗菌[7-9]、抗肿瘤[10]和抗氧化[11-14]等作用以及较强的免疫活性[15]。基于黄花蒿的多种生物学功能，迄今已有大量的研究探讨了饲粮中添加黄花蒿及其提取物对动物的影响。
+
+1黄花蒿在啮齿动物中的应用研究
+
+以啮齿类动物为模型对黄花蒿进行的研究比较广泛，一些毒理试验发现[16]，黄花蒿在-定剂量范围内是无毒无害的。通过昆明小鼠和Wistar大鼠的毒理学试验，分别用黄花蒿浸膏以10100、8000、6000、5000和 $4 ~ 1 2 0 ~ \mathrm { m g / k g }$ 的剂量灌胃给药，观察到小鼠未出现明显的中毒症状，小鼠生命活动表征正常。而给大鼠攻毒后毒性症状随着黄花蒿浸膏的剂量增加而逐渐加重，且当黄花蒿浸膏的剂量为 $1 0 ~ 1 0 0 ~ \mathrm { { m g / k g } }$ 时大鼠出现震颤、强制性-阵挛性抽收稿日期：2018-05-15作者简介：郭世伟（1993—)，男，陕西府谷人，硕士研究生，研究方向为动物环境与营养。E-mail:
+
+搐、角弓反张以及死亡等症状。Wistar大鼠的半数致死量（ $\mathrm { L D } _ { 5 0 }$ ）为 $7 ~ 3 6 0 ~ \mathrm { m g / k g }$ ， $9 5 \%$ 的可信限为 $6 2 5 6 . 3 8 { \sim } 8 6 5 8 . 8 2 \mathrm { m g } / \mathrm { k g } .$
+
+在家兔饲粮中使用黄花蒿粉代替部分普通草粉的试验中，发现黄花蒿粉可以提高家兔的生长性能和饲料报酬[17]。黄花蒿提取物也可以促进獭兔幼兔的生长，显著提高平均日增重，降低料重比，并降低獭兔脾脏指数[18]。此外，研究发现黄花蒿提取物通过阻断L型钙离子通道电流，抑制高钾和乙酰胆碱（ACh）引起的胞外钙离子内流和细胞内钙释放。由于钙离子通道和ACh激活的其他离子通道抑制外钙内流，从而使小鼠气管平滑肌舒张，起到治疗哮喘的作用[19]。
+
+黄花蒿多糖有较强的抗炎活性[20]，对小鼠血清白介素1、白介素2、白介素6和干扰素等4种细胞因子有调节作用[21]。此外，黄花蒿多糖能在一定程度上缓解环磷酰胺（CTX)所致免疫功能的抑制[22]，且缓解由CTX引起的脾脏萎缩和溶菌酶水平下降，增大脾小结，提高淋巴细胞数量，增加胸腺内的淋巴细胞数量[6]。
+
+利用大鼠进行的试验发现，黄花蒿活性成分青蒿素的衍生物青蒿琥酯可通过降低大鼠脑水肿指数和血脑屏障通透性，阻碍内皮细胞紧密连接蛋白Occludin和ZO-1蛋白表达的下调，从而减轻蛛网膜下出血后模型大鼠早期脑损伤，提高神经功能[23]。此外，还发现青蒿琥酯通过降低鼠血清甘油三酯、总胆固醇含量和丙氨酸氨基转移酶活性，减轻肝脏脂肪变性程度及肝组织Toll样受体4（TLR4）、髓样分化因子88（MyD88）及磷脂酰肌醇－3激酶的表达量，从而减轻非酒精性脂肪肝病（NAFLD）小鼠肝脏脂肪变性程度，降低血脂，改善肝功能指标[24]。
+
+目前，对于黄花蒿及其衍生物在啮齿类动物中作用机制的研究还处于初级阶段，尚待进一步探究。白纪红等[24]研究发现，TLR4是天然免疫作用的重要因子，在免疫和非免疫细胞中分布较广，在NAFLD小鼠的试验中TLR4表达升高，活化后的TLR4通过激活与调节核因子-κB（NF-κB)，促进肿瘤坏死因子-α（TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ )、白介素6等多种炎症因子释放，引发强烈的炎症反应，提示 TLR4 炎症通路参与NAFLD 发生；此外，在 TLR4/MyD88信号通路介导的巨噬细胞炎症反应过程中，下游通路的磷脂酰肌醇-3激酶/丝氨酸－苏氨酸蛋白激酶信号途径的参与也发挥着重要作用[25]。黄花蒿青蒿素衍生物青蒿琥酯可以降低 NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ 和TNF-α的产生，从而起到抗炎效果，缓解NAFLD对小鼠肝组织造成的损伤[24]。
+
+综上得出，黄花蒿及其衍生物在一定剂量范围内是无毒的，黄花蒿粉可促进家兔生长。
+
+黄花蒿提取物可以舒张小鼠平滑肌，有治疗哮喘的潜力；亦可促进幼兔生长，降低獭兔脾脏指数。黄花蒿多糖对小鼠和大鼠有较强的抗炎活性，调节机体免疫功能，减轻肝脏脂肪变性程度，降低血脂，促进神经功能。
+
+# 2黄花蒿在家禽生产中的应用研究
+
+黄花蒿在家禽生产中的应用主要集中在肉仔鸡的生长性能、血清生化指标、肝脏功能、肠道黏膜形态、肠道消化酶活性、免疫、抗氧化、抗球虫功能及肉品质方面。研究发现，在饲粮中添加酶处理的黄花蒿，可缓解热应激对肉仔鸡生长性能的抑制[26-27]，提高肉仔鸡对饲粮中粗脂肪、粗蛋白质和有机质的表观利用率[28]。此外，添加酶处理的黄花蒿可提高肉鸡空肠黏膜中胰蛋白酶和淀粉酶活性[29]和空肠、回肠黏膜中麦芽糖酶和蔗糖酶及回肠黏膜中乳糖酶活性[28]，进而缓解热应激对肉鸡饲粮养分表观利用率和肠黏膜中二糖酶活性造成的不良影响，改善肠道黏膜形态[26]。
+
+在饲粮中添加黄花蒿叶粉和提取物均可显著提高肉鸡细胞和体液免疫功能[26]及胸腺和法氏囊重量[27]。Wan 等[30]发现，在肉仔鸡饲粮中添加酶解黄花蒿提高了热应激下肉仔鸡的肉品质、抗氧化活性和胸肌能量状态，且发现可能与改变相关蛋白肌动蛋白、热休克蛋白70、热休克蛋白90、禽解耦联蛋白 $( a \nu U C P )$ 、去乙酰化酶1等]的mRNA表达有关。此外，饲粮中添加酶解黄花蒿 （ $0 . 7 5 { \sim } 1 . 2 5 ~ \mathrm { g / k g }$ ）对热应激下肉鸡的神经内分泌系统、肝脏功能和抗氧化能力有促进作用[31]，且能缓解肝脏氧化损伤[32]，还可以改善肉鸡的质量和胸肌、腿肌的氧化稳定性[33]。
+
+在黄羽肉鸡感染柔嫩艾美耳球虫的试验中发现，与对照组相比，各黄花蒿粉组的表观病变、组织病理学检查均有所减轻，黄花蒿粉缓解了病鸡盲肠的肿胀和出血等不良症状，且病鸡精神状态也有所改善。由此反映出黄花蒿粉能减轻柔嫩艾美耳球虫侵染鸡所致的盲肠病理症状和组织病变，减少卵囊排出，有较好的抗球虫效果[34]。以鸡的临床表现、粪便中卵囊数量、体重、盲肠病变评分、血球(填充细胞体积)和血红蛋白值等指标来综合评价发现，黄花蒿叶提取物的治疗是最有效的，减少了粪便的卵囊(减少 $7 4 . 1 8 \%$ )，黄花蒿叶提取物和黄花蒿活性成分青蒿素均可显著减少盲肠的病变评分[35]。此外，郭红斌等[36]为评价青蒿素和黄花蒿水提液抗球虫的效果，分别在肉鸡饮水中添加黄花蒿水提液、饲粮中添加青蒿素，发现黄花蒿水提液和青蒿素能够降低血清中一氧化氮和一氧化氮合酶含量，说明黄花蒿水提液和青蒿素抗柔嫩艾美耳球虫效果显著[37]。
+
+国内外关于黄花蒿及其衍生物在肉仔鸡方面的作用机制报道较少，学者们只进行了初步的探讨。核因子E2相关因子2（Nrf2）是一种碱性亮氨酸拉链转录因子，通过抗氧化反应元件介导ⅡI型酶，如血红素氧合酶-1（HO-1）、谷胱甘肽过氧化物酶（GSH-Px）、谷氨酰半胱氨酸合成酶催化亚基（γ-GCLc）、谷氨酰半胱氨酸连接酶调节亚基（γ-GCLm）和超氧化物歧化酶（SOD)，从而保护细胞免受氧化应激，改善细胞的抗氧化防御系统[38]。研究发现，细胞中HO-1活性的上调可以保护细胞免受氧化损伤[39]。谷氨酰半胱氨酸连接酶催化谷胱甘肽（GSH）生物合成中的限速步骤，是由催化亚基 $\gamma$ GCLc及其调节亚基 $\gamma$ -GCLm组成的异源二聚体[40]。添加黄花蒿提取物使肉鸡 Nrf2、HO-1、GSH-Px、SOD1、 $\gamma$ GCLc 和γ-GCLm的基因表达增加；通过拮抗Nrf2抗氧化系统的mRNA表达起到缓解氧化损伤的重要作用[26]。
+
+综上所述，黄花蒿及其提取物可改善肠道黏膜形态，提高肠道消化酶活性，从而提高肉鸡表观代谢率，促进机体生长。此外，在免疫、抗氧化、抗球虫和改善肉品质[30]方面有较强的促进作用。
+
+# 3黄花蒿在猪生产中的应用研究
+
+黄花蒿在猪生产中的应用研究较少，主要包括黄花蒿对种公猪的采精量、断奶仔猪和生长猪的生长性能及腹泻率等方面的影响。在种公猪饲粮中添加黄花蒿粉，可增加种公猪的采精量，提高精子成活率，并发现最佳添加量为每头每天 $2 0 \ \mathrm { g } ^ { [ 4 1 ] }$ 。此外，黄花蒿活性成分对断奶仔猪和生长猪生产性能和免疫性能也有积极影响。研究发现，在断奶仔猪饲粮中添加黄花蒿提取物可提高断奶仔猪平均日增重和平均日采食量，降低料重比和腹泻率。将2种黄花蒿活性提取物作为饲料添加剂饲喂生长猪，也有同样的效果。由此可知，黄花蒿活性提取物能够促进断奶仔猪和生长猪生长，减少疾病的发生，提高生产性能和饲料转化率，并可提高断奶仔猪免疫功能和血清胰岛素、尿素氮、血清游离三碘甲腺原氨酸和四碘甲腺原氨酸水平等[42]。研究还发现，黄花蒿提取物对猪繁殖与呼吸综合征病毒具有阻断、抑制与直接杀灭作用[43]。通过给长白猪口服黄花蒿提取物的临床治疗试验发现，黄花蒿提取物使猪附红细胞体感染率明显下降（由 $81 \%$ 下降至 $2 \%$ )，表明黄花蒿提取物对猪附红细胞体病具有较好治疗效果[44]。
+
+前人对黄花蒿在猪生产中的作用机制研究表明，在高温环境中公猪阴囊和睾丸组织温度升高，对精子的生存非常不利，辜丸机能减退，下丘脑－垂体－辜丸系统的正向反馈调节受到影响[45]，精子发生受阻，精液量减少，从而使精液品质下降；黄花蒿有清热解暑功效[]，使公猪在高温条件下的不良机能反应得以缓解，从而改善精液品质[41]。关于黄花蒿提取物促进仔猪和生长猪生长性能的机制尚不明确，但从已有报道看，黄花蒿提取物降低了猪的腹泻，改善了肠道环境，从而促进生长[42]，究其原因，可能是由于黄花蒿提取物具有抗菌和抑菌作用所致[7.9]。此外，黄花蒿这种天然植物含有多种氨基酸、矿物质、维生素及其他未知的促生长因子[46]，从而促进机体生长。
+
+总之，黄花蒿可以提高断奶仔猪、生长猪的生长性能和饲料转化率，降低腹泻率等，并对疾病的治疗有积极作用。
+
+# 4黄花蒿在反刍动物生产中的应用研究
+
+黄花蒿对于反刍动物的研究主要集中在瘤胃发酵和产奶性能等方面。研究发现，黄花蒿乙醇提取物不影响奶牛产奶性能[47]，但能提高其乳脂中共轭亚油酸（CLA）含量，从而优化乳脂中脂肪酸的组成结构[48]。在奶山羊试验中发现，黄花蒿提取物能使乳腺阴外动脉和乳静脉血中t11C18:1、CLA和 $c 9 \mathrm { C l } 8 { : } 1$ 的含量提高，降低C18:2 的含量[49]。通过运用体外培养的方法研究黄花蒿提取物对山羊瘤胃发酵和甲烷产量的影响，发现添加 $5 ~ \mathrm { g / k g }$ 黄花蒿提取物可以减小乙酸/丙酸值，并可以替代 $1 5 \mathrm { m g / k g }$ 莫能菌素来降低瘤胃发酵过程中甲烷的产量[50]。
+
+关于黄花蒿提取物对奶山羊乳脂中CLA生成的作用机制有2种解释：一种解释是底物效应，菊科植物含有高水平的亚油酸，亚油酸在瘤胃内经生物氢化生成CLA和t11C18:1脂肪酸，生成的脂肪酸到达乳腺进一步通过去饱和作用而生成CLA，从而增加乳中CLA 的含量[51]；另一种解释是抑菌作用，即菊科植物中所含的活性成分抑制瘤胃内生物氢化的B组细菌，B组细菌是负责不饱和脂肪酸向饱和脂肪酸转化的一组菌。抑制了B组菌进而会抑制 CLA 和脂肪酸向硬脂酸的转化，从而使乳中CLA的含量增加[52]。
+
+总得来说，黄花蒿对奶牛和山羊产奶性能的影响并不明显，但在其乳脂方面有积极作用，此外可以降低瘤胃内甲烷的产生。
+
+# 5黄花蒿在水产养殖中的应用研究
+
+水产养殖中主要的应用研究是黄花蒿及其提取物对鱼肠道消化酶、血液生化指标及体表寄生虫的影响。用黄花蒿乙醇提取物、青蒿素和青蒿素衍生物对鱼体表和鳃上附着的1周龄单殖吸虫长丝异鳃鲶进行去除试验，发现黄花蒿提取物、青蒿素及青蒿素衍生物均能够使寄生虫从幼鱼上脱落，甚至死亡，且与浓度及时间呈正相关性[53]。在黄鳝基础饲料中添加黄花蒿提取物，可提高鱼体肠道消化酶、血液谷草转氨酶与谷丙转氨酶的活性以及血清总蛋白的含量，降低血液葡萄糖和甘油三酯的含量[54]。
+
+前人对于黄花蒿在水产动物中的作用机制也进行了初步探究。在鱼的基础饲料中添加黄花蒿提取物，降低了血清总胆固醇和甘油三酯含量[54]，其原因可能是由于黄花蒿提取物具有保护肝脏、增强肝功能的作用，加速机体排泄，减少对脂类的吸收；也可能是由于提取物提高了卵磷脂胆固醇酰基转移酶活力，从而加速胆固醇的分解与转运。黄花蒿提取物在鱼类生产中的具体作用机制还需进一步深入探究。
+
+综上所述，黄花蒿提取物作为水产动物饲料添加剂能显著提高黄鳝肠道消化酶活性，调节鱼体血液生化指标，具有促进消化、代谢和生长的作用[54]。
+
+# 6小结
+
+黄花蒿作为天然植物，富含多种生物活性成分，且安全、无污染，因此对于黄花蒿的研究已成为国内外相关领域的研究热点。黄花蒿在啮齿类模型动物、家禽、猪、反刍动物及水产动物生产中的应用研究表明，在饲粮（料)中添加适量的黄花蒿提取物可以促进动物生长，调节机体免疫功能，改善机体抗氧化能力，提高肠道消化酶活性，增强机体抗病能力；同时，可以缓解肝脏损伤，发挥抗炎作用，提高动物生产性能。目前对于黄花蒿在动物生产中的作用机制研究尚处于初级阶段，具体的作用途径尚不明确，有待进一步深入研究。此外，基于黄花蒿含有特有的生物学活性物质，相关的研究内容涉及较多领域，在动物生产方面的应用前景广阔。
+
+参考文献：
+
+[1] 宋春竹,陈昕雯,陈东红.药用植物黄花蒿内生菌的研究进展[J].生物技术通报,2016,32(1):1-7.  
+[2] 王鸿博,肖皖,华会明,等.黄花蒿的化学成分研究进展[J].现代药物与临床,2011,26(6):430-433.
+
+[3] FERREIRA J F S,LUTHRIA D,SASAKI T,et al.Flavonoids from Artemisia annua L. as antioxidantsand theirpotentialsynergismwithartemisinin againstmalariaand cancer[J].Molecules,2010,15(5):3135-3170.
+
+[4] MAGBOOL F A R,HUSSEIN S E O.Pharmacological aspect of artemisinin and aresunate as potent anti malarial agents-overview[J].European Journal of Pharmaceutical and Medical
+
+Research,2018,5(2):101-108.
+
+[5] KONSTATKORZENNY E,ASCENCIOARAGON J A,NIEZENLUGO S,et al.Artemisinin and its synthetic derivatives as a possible therapy for cancer[J].Medical Sciences,2018,6(1):19.
+
+[6] 施君.青蒿多糖药理作用的研究[D].硕士学位论文.南宁:广西大学,2014.  
+[7] KIM W S,CHOI W J,LEE S,et al.Anti-inflammatory,antioxidant and antimicrobial effectsof artemisinin extracts from Artemisia annua L.[J].The Korean Journal of Physiology andPharmacology,2015,19(1):21-27.  
+[8] 徐杰,邓龙兴,胡国元,等.青蒿素衍生物抗菌机理研究[J].天然产物研究与开发,2018,30(5):725-730.  
+[9] BILIA A R,SANTOMAURO F,SACCO C,et al.Essential oil of Artemisia annua L.:anextraordinarycomponentwithnumerousantimicrobialproperties[J].Evidence-BasedComplementary and Alternative Medicine,2014,2014:159819.  
+[10]薛明,田丽娟.青蒿多糖的抗肿瘤作用实验研究[J].时珍国医国药,2008,19(4):937-938.[11]熊利芝,李子唯,欧阳文,等.超声醇提黄花蒿残渣总黄酮的工艺优化及抗氧化活性[J].精细化工,2013,30(11):1223-1228.  
+[12]熊利芝,欧阳文,李春,等.大孔吸附树脂纯化黄花蒿黄酮及其抗氧化活性[J].精细化工,2013,30(4):451-455.  
+[13]江晓波,王萌,张丽,等.黄花蒿残膏的挥发性成分分析及其抑菌和抗氧化活性研究[J].食品工业科技,2015,36(14):103-106.  
+[14]杨国恩,宝丽,张晓琦,等.黄花蒿中的黄酮化合物及其抗氧化活性研究[J].中药材,2009,32(11):1683-1686.  
+[15]　姜晓东.青蒿多糖的超声提取及其免疫活性的研究[D].硕士学位论文.长春:吉林大学,2010.  
+[16]南旭梅,张敬,金小雪,等.青蒿浸膏对昆明小鼠和 Wistar 大鼠的急性毒性试验[J].中国兽医科学,2018,48(2):247-255.  
+[17]李文海,马旭平,孟万明,等.青蒿对家兔增重影响的研究[J].中国养兔,2005(2):7-8.[18]　潘存霞,刘卢生,张敏,等.青蒿提取物对獭兔的生长性能和免疫功能的影响[J].饲料博览(技术版),2007(6):9-12.
+
+[19]沈金花,黄俊.青蒿提取物舒张小鼠气管平滑肌的作用机理[J].中南民族大学学报(自然科学版),2017,36(1):37-42.
+
+[20]帅学宏,陈吉轩,施君,等.青蒿多糖的制备及体内抗炎作用的研究[J].西南大学学报(自 然科学版),2016,38(9):102-106.   
+[21]帅学宏,陈吉轩,施君,等.青蒿多糖对小鼠血清中 IL-1β,IL-2,IL-6,IFN-γ水平的影响[J].西 南大学学报(自然科学版),2017,39(7):11-16.   
+[22]帅学宏,施君,陈吉轩,等.青蒿多糖对免疫抑制小鼠免疫器官的影响[J].动物医学进 展,2015,36(11):59-62.   
+[23]唐荣锐,颜如冰.青蒿琥酯对大鼠蛛网膜下腔出血后早期脑损伤的保护作用[J].四川中 医,2017,35(3):50-52.   
+[24]白纪红,梁志清,赵日红,等.青蒿琥酯对非酒精性脂肪肝小鼠肝脏 TLR4及MyD88 表达 的影响[J].安徽医科大学学报,2017,52(10):1468-1471.   
+[25]LEE J Y,YE J P,GAO Z G,et al.Reciprocal modulation of Tol-like receptor-4 signaling pathways involving MyD88 and phosphatidylinositol 3-kinase/AKT by saturated and polyunsaturated fatty acids[J].Journal of Biological Chemistry,2003,278(39):37041-37051. [26]SONG Z H,CHENG K,ZHENG X C,et al.Efects of dietary supplementation with enzymatically treated Artemisia annua on growth performance,intestinal morphology,digestive enzyme activities,immunity,and antioxidant capacityofheat-stressed broilers[J].Poultry Science,2018,97(2):430-437.   
+[27]GHOLAMREZAIE SANI L,MOHAMMADI M,JALALI SENDI J,et al.Extract and leaf powder effect of Artemisia annua on performance,cellular and humoral immunity in broilers[J].Iranian Journal of Veterinary Research,2013,14(1):15-20.   
+[28]宋志华,程康,张婧菲,等.酶解青蒿对热应激肉鸡消化功能的影响[J].南京农业大学学 报,2018,41(1):126-131.   
+[29]宋志华,程康,万晓莉,等.青蒿叶对肉鸡生产性能和血清生化指标及消化酶活性的影响 [J].中国畜牧杂志,2016,52(21):45-49.   
+[30]WAN X L,AHMAD H,ZHANG L L,et al.Dietary enzymatically treated Artemisia annua L. improves meat quality,antioxidant capacity and energy status of breast muscle in heat-stressed
+
+broilers[J].Journal of the Science of Food and Agriculture,2018,98(10):3715-3721.
+
+[31]WAN X L,JIANG L Y,ZHONG H R,et al.Effects of enzymatically treated Artemisia annua L. on growth performance and some blood parameters of broilers exposed to heat stress[J].Animal Science Journal,2017,88(8):1239-1246.
+
+[32]WAN X L,ZHANG J F,HE J T,et al.Dietary enzymatically treated Artemisia annua L. supplementation alleviates liver oxidative injury of broilers reared under high ambient temperature[J].International Journal of Biometeorology,2017,61(9):1629-1636.
+
+[33] WAN X L,SONG Z H,NIU Y,et al.Evaluation of enzymatically treated Artemisia annua L. on growth performance,meat quality,and oxidative stability of breast and thigh muscles in broilers[J].Poultry Science,2016,96(4):844-850.
+
+[34]黄鑫.青蒿粉抗鸡球虫的药效研究[D].硕士学位论文.北京:中国农业科学院,2017.
+
+[35] WIEDOSARI E,WARDHANA A H.Anticoccidial activity of Artemisinin and extract of Artemesia annua leaves in chicken infected by Eimeria tenella[J].Journal Ilmu Ternak dan Veteriner,2018,22(4):196-204.
+
+[36]郭红斌,弓素梅.青蒿素与青蒿水提液对感染柔嫩艾美耳球虫肉鸡的疗效评价[J].动物医学进展,2011,32(3):82-85.
+
+[37] DRAGAN L,GYORKE A,FERREIRA J F S,et al.Effects of Artemisia annua and Foeniculum vulgare on chickens highly infected with Eimeria tenella (phylum Apicomplexa)[J].Acta Veterinaria Scandinavica,2014,56:22.
+
+[38] FENG Z H,LIU Z B,LI X, Set al.α-Tocopherol is an effective Phase II enzyme inducer:protective effects on acrolein-induced oxidative stress and mitochondrial dysfunction in human retinal pigment epithelial cells[J].The Journal of Nutritional Biochemistry,2010,21(12):1222-1231.
+
+[39] BAUER M,BAUER I.Heme oxygenase-1:redox regulation and role in the hepatic response to oxidative stress[J].Antioxidants & Redox Signaling,2002,4(5):749-758.
+
+[40]SEELIG G F,MEISTER A.Glutathione biosynthesis; $\gamma$ -glutamylcysteine synthetase from rat kidney[J].Methods in Enzymology,1985,113:379-390.
+
+[41] 刘仕碧,田东升,范才良.青蒿对夏季公猪精液品质的影响[J].中兽医医药杂
+
+志,2013,32(5):34-36.
+
+[42]康红军.青蒿活性成分对断奶仔猪和生长猪生产性能和免疫性能的影响[D].硕士学位论文.重庆：西南大学，2009
+
+[43]刘樱,丁度伟,高求炜,等.3种中药及其提取物体外抗猪繁殖与呼吸综合征病毒作用的研究[J].中国畜牧兽医,2016,43(10):2730-2735
+
+[44]宋霜.青蒿素和血呼平对猪附红细胞体病的疗效观察[D].硕士学位论文.延吉:延边大 学,2014.
+
+[45] KNOL B W.Stressand the endocrine hypothalamus-pituitary-testissystem:a review[J].Veterinary Quarterly,1991,13(2):104-114.
+
+[46]方热军,汤少勋,李铁军.复方中草药添加剂对地方肉鸡生长和物质代谢的影响[J].中国饲料,2000(7):9-11.
+
+[47]任波.饲粮中添加黄花蒿乙醇提取物对奶牛产奶性能的影响[J].乡村科技,2017(22):76-77.
+
+[48]斯琴毕力格,王丽芳,丁赫,等.饲粮中添加黄花蒿乙醇提取物对奶牛产奶性能及乳脂中共轭亚油酸含量的影响[J].动物营养学报,2017,29(11):4137-4142.
+
+[49] 王丽芳,卢德勋,高民,等.黄花蒿提取物对奶山羊乳腺动静脉血脂肪酸组成的影响[J].动 物营养学报,2011,23(11):1932-1937.
+
+[50]王小晶,董国忠,刘智波.青蒿提取物和大黄对山羊瘤胃发酵和甲烷产量的影响[J].畜禽业,2009(4):52-55.
+
+[51]CABIDDU A,ADDIS M,PINNA G,et al.The inclusion of a daisy plant (Chrysanthemum coronarium) in dairy sheep diet.1:effect on milk and cheese fatty acid composition with particular reference to C18:2 cis-9,trans-11[J].Livestock Science,2006,101(1/2/3):57-67.
+
+[52]KHIAOSAARD R,BRYNER S F,SCHEEDER M R L,et al.Evidence for the inhibition of the terminal step of ruminal $\mathfrak { a }$ -linolenic acid biohydrogenation by condensed tannins[J].Journal of Dairy Science,2009,92(1):177-188.
+
+[53]EKANEM A P,BRISIBE E A.Effects of ethanol extract of Artemisia annua L. against monogenean parasites of Heterobranchus longifilis[J].Parasitology Research,2010,106(5):1135-1139.
+
+[54]黄光中,胡辉,肖克宇,等.葡萄籽与青蒿提取物对黄鳝肠道消化酶活性及血液生化指标的影响[J].南方水产科学,2013,9(2):70-75.
+
+Study on Application of Artemisia annua L. in Animal Production GUO Shiwei XU Yuanqin ZHANG Pengfei XING Yuanyuan SHI Binlin\* (College ofAnimal Science, Inner Mongolia Agricultural University, Hohhot O1o018, China) Abstract: Artemisia annua L. is an herbaceous plant that has been widely used in traditional Chinese medicine and has many biological activities such as anti-inflammation, anti-oxidation, anti-malarial, anthelmintic and immune regulation. In addition, due to its non-toxic, harmless and non-drug resistant, it has extremely high utilization value in animal production. This review summarized the biological functions of Artemisia annua L. and its application in different animals’ production, aimed to provide references for the further application.
+
+Key words: Artemisia annua L.; biological activity; animal production; application research

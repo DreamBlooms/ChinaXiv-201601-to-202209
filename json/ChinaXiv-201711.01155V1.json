@@ -1,0 +1,689 @@
+[
+    {
+        "type": "text",
+        "text": "河北平原中低产区小麦与玉米生产现状及增产潜力分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "罗建美1,2,3 靳根会4　罗仲朋王红营 齐永青」　刘兴冉」 沈彦俊1\\*\\*(1.中国科学院遗传与发育生物学研究所农业资源研究中心/中国科学院农业水资源重点实验室石家庄050022;2.中国科学院大学北京100049;3.河北地质大学土地资源与城乡规划学院石家庄050031;4.石家庄幼师专科学校石家庄050228;5．青海师范大学生命与地理科学学院西宁81008;6.河北师范大学资源与环境科学学院石家庄050024)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本文基于2000—2013年MODIS/NDVI遥感信息与主要粮食作物的统计数据，分析了河北平原中低产区冬小麦和玉米生产的时空格局，并利用各县粮食作物主要生育期累积NDVI的逐年值、14年的最大值及单产统计数据，采用最小二乘法原理，进行数值曲线拟合，构建了单产遥感估测模型，估算了河北平原中低产区冬小麦和玉米的增产潜力。结果表明：1)冬小麦在邯郸和衡水的最大生产力水平较高，在沧州、廊坊及邢台中部的最大生产力水平较低，即后者挖掘增产潜力之后也很难达到前者的最大生产力水平；玉米的最大生产力水平普遍较高，挖掘增产潜力后均可达到较高的生产力水平。2)冬小麦和玉米总产增产潜力在沧州和邯郸较大；冬小麦单产增产潜力多低于 $10 \\%$ ，平均增产 $3 5 6 \\ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 } ( 5 . 8 7 \\% )$ ；玉米单产增产潜力多高于 $10 \\%$ ，平均增产 $7 9 8 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } ( 1 2 { \\cdot } 3 3 \\% )$ ；单产增产潜力区域分布不同，冬小麦为廊坊 $\\mathrm { \\Delta } >$ 保定 $>$ 沧州 $>$ 邯郸 $>$ 邢台 $>$ 衡水，玉米为邢合 $>$ 邯郸 $>$ 保定 $. >$ 沧州 $>$ 衡水 $. >$ 廊坊。3)以河北平原近14年来作物累积NDVI的最大值估算的全区冬小麦增产潜力为3.90亿kg，玉米增产潜力为9.62亿kg，二者合计可增产13.52亿kg，约相当于区域冬小麦和玉米理论可达增产潜力的1/5。本文估测粮食作物增产潜力的方法可以应用于估测多尺度范围、不同作物的增产潜力，研究结果可为相关部门的决策和管理提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词　冬小麦　玉米　增产潜力　NDVI　单产估测模型　河北平原中低产区　渤海粮仓中图分类号：S51 文献标识码：A 文章编号:1671-3990(2016)08-1123-12",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Production state and yield potential of wheat and maize in low-medium yield farmlands in Hebei Plain ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LUOJaJG ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.CenterforAgriculturalResources Research,InstituteofGeneticsandDevelopmentalBiology,ChineseAcademyofSciences/ KeyLaboratoryofAgriculturalWaterResourcs,ChineseAcademyofSciences,Shijiazhuang5oo2,China;2.UnversityofCinse AcademyofSciences,Beijing 10049,China; 3.CollegeofLandResources and Rural-UrbanPlanning,Hebei GEO University Shijiazhuang 050031,China;4.Shijiazhuang PreschoolTeachers Collge,Shijiazhuang050228,China;5.SchoolofLifeand Geographic Science,Qinghai Normal University,Xining 810o8,China; 6.CollgeofResourcesand Environmental Sciences, Hebei Normal University, Shijiazhuang O5o024, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractAsarable lands are highly limitedand intensively exploited inChina,ithas become important to increasecrop yield inlow-to-medium yield farmlands inorder to improve grain output.Forecasting cropyield fewmonths before harvest usingremote sensing technique hasoftenbeen usedin most cropyield estimation.Inviewof theaboveresearch condition,the potential productivities ofmaincrops wereestimated inlow-to-medium yieldfarmlands intheLowland Plainsof Hebei,where is the area of scientific and technological demonstration of the Bohai Granary project. Using MODIS/NDVIremote sensing data (with $2 5 0 \\mathrm { ~ m ~ }$ resolution) and crop statistical data from 20o0 to 2013 of different regions of the area,the spatiotemporal characteristics ofthe production areas of winter wheat and summer maize were estimated.A crop yield model was fited using the least squares theory basedon yield statistical data,acumulative annual NDVIandaccumulative maxium NDVI for the period of14 years.Thecrop yield estimation model used to estimate the potential yields of wheat and maize was a quadratic function.Theresultsshowedthat:1)the productivityof winter wheat was higher in Handanand Hengshuiregionsandlowerin otherregions of the studyarea.Even under improved production practices,productivityin the later regions was always less thanintheformerregions.The productivityofmaize was high in most of thestudyarea even where potential productivity was dificult toattain.2)The highest yield potentialforboth winter wheatand maize was in Handanregion.Theyield gap(the difference between potential yield and actual yield) for winter wheat was generally less than $10 \\%$ ，with an average of 356 $\\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } \\ ( 5 . 8 7 \\% )$ . Then the yield gap for maize was generally more than $10 \\%$ , with an average of $7 9 8 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } \\left( 1 2 . 3 3 \\% \\right)$ . Yield gaps were diferent for different regions inthe studyarea.Theranked order for winter wheat interms of yield gapbyregion was Langfang $>$ Baoding $>$ Cangzh ${ \\mathrm { \\ o u } } > { \\mathrm { H a n } }$ dan $>$ Xingtai $>$ Hengshui. Then that for maize was Xingtai $> { \\mathrm { H a n d a n } } > { \\mathrm { B a o d i n g } } >$ Cangzhou $>$ Hengshui $>$ Langfang. 3) Based on the 14-year maximum accumulative NDVI, the maximum production gap (the diferenceof potential productivityand actual productivity）for both wheatandmaizeoccurred in Cangzhou.In the low-to-medium yield farmlands in the Lowland Plains of Hebei, yield-increasing potential was $3 . 9 0 \\times 1 0 ^ { 8 } \\mathrm { k g }$ for winter wheat and $9 . 6 2 \\times 1 0 ^ { 8 } ~ \\mathrm { k g }$ for maize. The total yield-increasing potential of both wheat and maize $( 1 3 . 5 2 \\times 1 0 ^ { 8 } \\mathrm { k g } )$ was approximately 1/5of the theoreticalproduction gapofthetwocrops.In general,yield gapand productiongap were both lower for winter wheat than for summer maize.Thus maize was the most important crop in terms of increasing future grain production in the studyarea.The methodused inthis study wasapplicable to various other crops at different scales,whose results were useful for decision-making and management policies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsWinter wheat; Maize;Yield-increasing potential; NDVI; Yieldestimationmodel;Low-to-mediumyieldfarmland; Bohai Granary project ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国的粮食安全问题一直倍受政府和国内外学者的关注[1-5]。从2004 年到2014年我国粮食实现了“十一连增”，但中国的粮食进口也从过去的调剂余缺向大规模进口转变[5]。随着社会发展、人口增加和居民膳食结构的改善，中国的粮食需求将继续加大[。在此形势下，粮食增产对粮食安全的保障意义尤为重大。目前粮食增产的基本途径是提高单产水平和扩大播种面积[7-8]。由于我国耕地资源有限、开发利用强度高，因而中低产田改造已成为我国增强粮食生产能力、增加粮食产量的重要手段[9]。中低产田生产力水平的时空格局分析和增产潜力评估，将为政府粮食贸易策略与农业政策的制定提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "学者们通过“机制法”、均衡增产法、模型模拟法及田间实验法等，研究了粮食作物的增产潜力，并证实当前粮食产量有较大的增产空间。封志明等[7]利用农业生态区模型(AEZ)，按照\"机制法\"的原理,研究了粮食作物的增产潜力，发现光温、水资源和土地资源均具有较大的增产空间；刘玉等[10和柏林川等[1]将历年粮食最高单产设定为研究类型区的目标单产，分析了河南省和山东省的粮食均衡增产潜力，并划分了不同的粮食增长潜力区；陈丽等[12]以粮食作物较高产区的平均单产作为较低产区的目标产量，研究了黄淮海平原中低产区的均衡增产潜力;辛红敏[13]运用作物生产模型(APSIM)模拟了河北平原小麦和玉米的产量潜力，并根据作物的实际产量计算了增产潜力；黄明斌等[14]通过田间试验，证实黄土塬区旱作冬小麦实际产量仅达到了光温潜力的$4 1 . 6 \\%$ ，增产潜力巨大。现有的研究多从区域的光、温、水、土等要素入手，对粮食进行增产潜力估算，其计算过程复杂、涉及的数据量大，主要反映的是理论增产潜力；而仅以单产估算的均衡增产潜力虽能反映作物近期的增产能力，但由于估算过程进行了较大区域的均衡化处理，所反映的是较大类型区的平均状况，不能体现县域及更小尺度增产潜力的多样性特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遥感具有覆盖范围大、快速和客观等优势，被认为是作物估产最行之有效的技术方法之一[15-16]。归一化植被指数(NDVI)不仅是反映植被生长状态及植被覆盖度的最佳因子，还可部分消除与太阳高度角、地形、云/阴影和大气条件有关的辐照度条件变化等的影响[17]，被广泛应用于产量预测的研究之中,但自前主要是在作物收获前1\\~2个月进行产量或单产预测[18-21]，对粮食作物增产潜力的研究不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于 Terra/MODIS 遥感信息，以 2000—2013年粮食作物主要生育期累积NDVI的最大值表征产量潜力，结合单产遥感估测模型，对河北平原中低产区主要粮食作物的增产潜力进行估算。该方法简单易行，能够揭示通过田间管理措施消除产量波动的现实增产潜力，反映县域尺度与像元尺度$( 2 5 0 ~ \\mathrm { m } { \\times } 2 5 0 ~ \\mathrm { m }$ 的作物生产力水平和增产潜力。此外，本文参考APSIM模拟的产量潜力结果[13]，对比了区域现实增产潜力与理论增产潜力的差异。研究成果可为作物增产潜力的研究提供思路和参考，为区域增粮战略和农业政策的制定提供基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "河北平原中低产区位于东经 $1 1 4 ^ { \\circ } 2 9 ^ { \\prime } { \\sim } 1 1 7 ^ { \\circ } 5 2 ^ { \\prime }$ ，北纬 $3 6 ^ { \\circ } 0 3 ^ { \\prime } { \\sim } 3 9 ^ { \\circ } 2 8 ^ { \\prime }$ ，包括河北省沧州、衡水全部及保定、廊坊、邢台和邯郸的部分区域，共49个县(市、区)(图1)。该区域属暖温带大陆性季风气候，年均气温 $1 2 . 5 { \\sim } 1 3 . 6 ~ \\mathrm { ~ \\textdegree ~ }$ ，年降水量 $4 5 0 { \\sim } 5 5 0 ~ \\mathrm { m m } _ { \\mathrm { { s } } }$ 。地形平坦，海拔多在 $2 0 \\mathrm { ~ m ~ }$ 以下，淡水资源匮乏，人均水资源量为 $1 9 0 ~ \\mathrm { m } ^ { 3 }$ ，仅为全国的1/12。农作物以冬小麦-夏玉米一年两熟的粮食作物和耐盐碱性较强的棉花和梨枣树等经济作物为主，土壤瘠薄，存在大面积的中低产区和盐碱荒地，是我国重要的耕地后备资源[22-23],也是“渤海粮仓\"科技示范工程的河北项自区，随着“渤海粮仓\"科技示范工程的推进，对其增产潜力的评估将受到越来越多的关注。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d0582d8d6f124b6d292023e0859022c9a3d16c641dea1ede190df5a05f985a5.jpg",
+        "img_caption": [
+            "图1河北平原中低产区(LMYHP)地理位置 Fig.1Location map of the low-medium yield farmland of Hebei Plain (LMYHP) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主要粮食作物产量、播种面积等数据源于《河北农村统计年鉴(1995—2014年)》，主要为近20 年的统计数据；遥感数据主要为Terra/MODIS卫星近14年(2000—2013年)的NDVI数据，空间分辨率$2 5 0 ~ \\mathrm { m }$ ，为16d最大值合成数据，主要用于对粮食作物分布范围、增产比率、单产估测模型及增产潜力等的研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 粮食作物分布范围的提取与生产力水平等级的划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 粮食作物分布范围的提取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冬小麦分布范围选取3月底至4月初，冬小麦已经返青生长，而其他作物(如棉花、春玉米等)尚未播种，果树及其他乔木类植物尚未展叶之时的NDVI图像提取空间分布信息[24]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米分布范围选取6月初，冬小麦已收获，夏玉米刚播种，春玉米尚处于初始生长期，而果树及其他农作物和乔木类生长比较旺盛之时的NDVI图像提取空间分布信息。玉米包括研究区中的夏玉米和春玉米。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以2000—2013年的NDVI遥感信息为数据源，利用ArcGIS软件的空间分析功能，采用像元二分模型[25]计算植被覆盖度的方法，计算像元尺度上冬小麦和玉米的分布比例[24]。公式如下:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$f \\mathrm { { c _ { c r o p } } = ( N D V I - N D V I _ { s o i l } ) / ( N D V I _ { c r o p } - N D V I _ { s o i l } ) }$ (1)式中: $f \\mathrm { \\hat { c } _ { c r o p } }$ 代表某种作物的分布比例，NDVI代表像元中作物实际的NDVI值， $\\mathrm { \\Delta N D V I _ { s o i l } }$ 代表作物未覆盖像元时的NDVI值, $\\mathrm { \\Delta N D V I _ { c r o p } }$ 代表作物完全覆盖像元时的 NDVI值, $\\mathrm { \\Delta N D V I _ { s o i l } }$ 和 $\\mathrm { \\Delta N D V I _ { c r o p } }$ 分别根据该时期NDVI图像的统计特征值来确定。作物的分布比例$f \\mathrm { \\hat { c } _ { c r o p } }$ 介于 $_ { 0 \\sim 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 累积NDVI最大值的提取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以2000—2013年的NDVI遥感数据为基础，利用ArcGIS软件计算不同粮食作物在其分布范围内的NDVI值，在此基础上计算每一年每个栅格单元中粮食作物主要生育期的累积NDVI值及14年中作物主要生育期累积NDVI的最大值，其中，冬小麦利用的是3—5月的NDVI数据，玉米利用的是7—9月的NDVI数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 粮食作物生产力水平等级的划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于NDVI与植被生物量及粮食产量呈良好的正相关关系[17]，因此利用粮食作物主要生育期累积NDVI值的大小来表征作物生产力水平的高低，根据累积NDVI值的大小将生产力水平划分为4级。为了便于比较，累积NDVI的最大值和2013年的值均以2013年的划分标准进行分级。具体方法是：以2013年粮食作物NDVI的栅格数据为基础，根据作物生育期栅格单元累积NDVI的累积曲线图进行分级[26]，按累积频率0.25、0.50、0.75所对应的累积NDVI值将生产力水平划分为4级(表1)，I级代表最高生产力水平，IV级代表最低生产力水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/116762400862c640939fb4887439601a495ca52444466d42c0ce366ef1ee5566.jpg",
+        "table_caption": [
+            "表1河北平原中低产区粮食作物生产力(累积 NDVI)水平等级划分 Table1Cropproductivity grading standard according to accumulated NDVIinthe low-medium yield farmlandof Hebei Plain "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粮食作物生产力等级 Crop productivity grade</td><td>I级 Grade I</td><td>Ⅱ级 Grade I</td><td>Ⅲ级 Grade Ⅲ</td><td>IV级 Grade IV</td></tr><tr><td>冬小麦累积 NDVI值 Accumulated NDVI of wheat</td><td>>3.45</td><td>2.83~3.45</td><td>2.12~2.82</td><td><2.12</td></tr><tr><td>玉米累积 NDVI值 Accumulated NDVI of maize</td><td>>3.73</td><td>3.48~3.73</td><td>3.07~3.47</td><td><3.07</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2基于NDVI的粮食增产潜力估算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 计算原理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在作物播种面积稳定的情况下，通常可以将作物产量水平的最大值作为增产潜力的目标产量[10-11]。本文在像元尺度上将2000—2013年主要粮食作物主要生育期累积NDVI的最大值作为增产潜力的目标NDVI值，利用播种面积、产量、单产等数据，结合单产遥感估测模型，计算粮食作物增产潜力。公式如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\mathfrak { p } } = \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\left( Y _ { { \\mathfrak { p } } i j } - Y _ { { \\mathrm { a } } i j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $Y _ { \\mathfrak { p } }$ 为增产潜力, $Y _ { \\mathrm { p } i j }$ 和 $Y _ { a i j }$ 分别为第 $i$ 种粮食作物在第 $j$ 个县(市)的增产潜力目标产量和实际产量,$\\mathbf { \\nabla } _ { m }$ 为粮食作物的种类数， $n$ 为研究区县(市)个数。其中， $Y _ { \\mathbf { p } i j }$ 是通过粮食作物的播种面积、产量、单产及主要生育期累积NDVI实际值与目标值相比较的增加比率，并结合单产遥感估测模型求得。主要公式如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\mathrm { p } i j } = F \\big ( \\boldsymbol { X } _ { \\mathrm { p } i j } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中: $Y _ { \\mathrm { p } i j }$ 含义同上, $X _ { \\mathsf { p } i j }$ 为第 $i$ 种粮食作物在第 $j$ 个县(市)中作物主要生育期累积NDVI增产潜力的目标值， $X _ { a i j }$ 为第 $i$ 种粮食作物在第 $j$ 个县(市)中作物主要生育期累积NDVI的实际值, $\\boldsymbol { r }$ 为累积NDVI实际值与目标值相比较的增产比率, $F ( X _ { \\mathfrak { p } i j } )$ 为以 $X _ { \\mathfrak { p } i j }$ 为自变量的函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "需要说明的是，本文在利用单产遥感估测模型估算自标单产时，并未利用粮食作物主要生育期累积NDVI的目标值，而是利用粮食作物主要生育期累积NDVI的实际值及增产比率 $\\boldsymbol { r }$ 进行估算。主要原因是自标值无法计算其单产遥感拟合关系的误差，因此无法进行误差校正。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 粮食作物增产比率 $( r )$ 的估算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以粮食作物主要生育期累积 NDVI的最大值与实际值的差与累积NDVI实际值的比值表征粮食作物增产比率 $( r )$ 。通过ArcGIS软件，利用粮食作物主要生育期累积NDVI的最大值和2013年的实际值，对栅格数据进行计算。公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = ( \\mathrm { N D V I _ { m a x } - N D V I _ { 2 0 1 3 } } ) / \\mathrm { N D V I _ { 2 0 1 3 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { r }$ 为粮食作物的增产比率， $\\mathrm { \\Delta N D V I _ { \\mathrm { { m a x } } } }$ 为2000—2013年粮食作物主要生育期累积NDVI的最大值，$\\mathrm { N D V I } _ { 2 0 1 3 }$ 为 2013 年粮食作物生育期的累积 NDVI值。由于作物主要生育期累积NDVI的增产比率并不等同于产量或单产的增加比率，因而需要将作物主要生育期累积NDVI的值与真实的产量水平进行拟合，进而计算出作物的实际增产潜力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 基于累积NDVI的单产遥感估测模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文选取2000—2012年的数据进行模拟，2013年的数据进行验证。模拟过程剔除了原始数据中的异常值。利用河北平原中低产区小麦生育期(选取3—5月)和玉米生育期(选取7—9月)MODIS卫星的累积NDVI数据，与研究区县域的单产统计数据通过最小二乘法进行数值曲线拟合，得到作物生产函数，其数学表达式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i , j } { = } a _ { i , j } X ^ { 2 } { _ { i , j } } { + } b _ { i , j } X _ { i , j } { + } c _ { i , j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中: $Y _ { i , j }$ 表示第 $i$ 种粮食作物在第 $j$ 个县的单产, $X _ { i , j }$ 表示第 $i$ 种粮食作物在第 $j$ 个县的 NDVI值, $\\left. a _ { i , j } \\right.$ $b _ { i , j }$ 和 $c _ { i , j }$ 表示第 $i$ 种粮食作物在第 $j$ 个县的回归系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3单产遥感估测模型的精度验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 模拟结果精度的评价指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用决定系数 $( R ^ { 2 } )$ 、相对误差(RE)和均方根误差(RMSE)等作为反映模拟值和实测值拟合程度的指标，对区域作物单产估测结果进行精度评价[16]。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = \\left[ { \\frac { \\sum _ { i = 1 } ^ { n } \\bigl ( A _ { i } - { \\overline { { A } } } \\bigr ) \\bigl ( P _ { i } - { \\overline { { P } } } \\bigr ) } { \\sqrt { \\sum _ { i = 1 } ^ { n } \\bigl ( A _ { i } - { \\overline { { A } } } \\bigr ) ^ { 2 } \\sqrt { \\sum _ { i = 1 } ^ { n } \\bigl ( A _ { i } - { \\overline { { A } } } \\bigr ) ^ { 2 } } } } } \\right] ^ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R E } = \\frac { P _ { i } - A _ { i } } { A _ { i } } { \\times } 1 0 0 \\% \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R M S E } } = { \\sqrt { \\frac { \\sum _ { i = 1 } ^ { n } \\left( P _ { i } - A _ { i } \\right) ^ { 2 } } { n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $i$ 表示第 $\\mathrm { ~ i ~ }$ 个样本数据， $A _ { i }$ 为统计数据中实际的粮食作物单产值， $P _ { i }$ 为模型估测的粮食作物单产值，$\\overline { { A } }$ 为实际统计数据中粮食作物的平均单产值， $\\overline { P }$ 为模型估测的粮食作物平均单产值， $n$ 为样本数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 精度验证 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用粮食作物主要生育期累积NDVI县域的平均值 $( x )$ 与县域单产 $( \\boldsymbol { y } )$ 拟合的模型为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（20 $y _ { \\mathrm { w h e a t } } { = } - 1 ~ 7 3 9 . 8 x _ { \\mathrm { ~ w h e a t } } ^ { 2 } + 1 0 ~ 2 0 6 x _ { \\mathrm { w h e a t } } { - 9 ~ 0 5 6 . 6 }$ （ (10)$y _ { \\mathrm { m a i z e } } = - 2 ~ 3 9 3 . 8 x _ { \\mathrm { ~ m a i z e } } ^ { 2 } + 1 8 ~ 9 5 2 x _ { \\mathrm { m a i z e } } - 3 1 ~ 0 5 9$ （20 (11)式中：冬小麦拟合样本数 $\\scriptstyle n = 5 6 5$ ，决定系数 $R ^ { 2 } { = } 0 . 5 6 9$ 相关系数 $\\scriptstyle R = 0 . 7 5 4$ ；玉米拟合样本数 $n { = } 5 6 5$ ，决定系数 $R ^ { 2 } { = } 0 . 5 0 8$ ，相关系数 $\\scriptstyle R = 0 . 7 1 3$ ，均为0.001水平上显著相关关系(图2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "河北平原中低产区冬小麦单产遥感模型拟合关系的相对误差RE为 $- 7 . 0 4 \\%$ ，均方根误差RMSE为$8 9 9 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；玉米单产遥感拟合关系的相对误差RE为 $- 1 2 . 9 4 \\%$ ,RMSE为 $1 3 4 8 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。2013年统计数据中冬小麦单产平均值为 $5 ~ 9 7 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，相应的模拟结果为 $5 ~ 4 0 7 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；玉米单产平均值为 $6 \\ 5 7 1 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 相应的模拟结果为 $5 6 1 3 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。总体来看，玉米相对于小麦拟合效果较差，主要原因是在玉米生育期其他农作物及乔木、灌木生长都比较旺盛，导致利用NDVI提取的玉米分布范围的误差较大，从而影响了主要生育期累积NDVI与单产的拟合效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c93c88cf192ed8ff4f5f47e1416b1922d17f4f774825007398ad5364cff48a14.jpg",
+        "img_caption": [
+            "图2河北平原中低产区冬小麦(a)和玉米(b)单产的遥感估测模型(2000—2012) Fig.2Yield models of winterwheat (a)and maize (b)fromremote sensing in the low-medium yield farmlandof Hebei Plain (2000-2012) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "任建强等[17]利用NOAA/AVHRR NDVI数据研究了石家庄、邢台和邯郸冬小麦生长关键期NDVI和与小麦产量的相关性，其中3—5月NDVI之和与总产量的线性模拟结果中决定系数 $\\textstyle R ^ { 2 }$ 为0.299，相对误差值为 $- 8 . 2 0 \\%$ ，样本数567，未计算均方根误差。从以上指标来看，本研究中样本数与之相近，但模拟精度更高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以粮食作物生产现状为基础，分析小麦和玉米现实增产潜力和理论增产潜力。其中，现实增产潜力是以2000—2013年粮食作物主要生育期累积NDVI的最大值为目标值计算的增产潜力；理论增产潜力是在参考辛红敏[13]利用APSIM模型预测的产量潜力的基础上，结合河北平原中低产区的单产、播种面积等数据，计算的区域特定自然条件下的增产潜力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1小麦和玉米生产现状",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于2000—2013年的遥感信息，以14年粮食作物的平均分布比例，代表冬小麦和玉米的空间分布特征。冬小麦在研究区南部和中部分布比例较高，玉米在研究区北部和中部分布比例较高。由于水分条件是区域冬小麦生长的主要限制因子，因而水源条件较好的南部地区和中部地区是冬小麦的主要分布区，冬小麦分布比例可高达0.8以上；而在研究区北部和邢台市的中部地区，由于水分、土壤等因素的制约，冬小麦的分布比例较低，多低于0.4(图3)。玉米分布范围广泛，在研究区北部分布比例较高，部分区域可达0.8以上；在邯郸北部、邢台中部和衡水西部形成了集中连片的低比例分布区，分布比例多小于0.2(图3)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近20年来，河北平原中低产区冬小麦和玉米的产量均呈增长态势(图4)。小麦产量的增加主要源于单产的提高，玉米产量的增加则是单产提高和播种面积扩大共同的结果。从1994年到2013年，小麦和玉米的产量分别从38.6亿 $\\mathbf { k g }$ 和27.9亿 $\\mathbf { k g }$ 提高到了66.5和77.9亿 $\\mathbf { k g }$ ，增长率为 $72 \\%$ 和 $1 8 0 \\%$ ；二者的单产水平也分别从 $3 6 1 4 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $4 \\ 3 7 1 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，提高到 $6 \\ 0 5 9 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $6 \\ 4 7 1 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。近20年来,玉米播种面积从1994年的64万 $\\mathrm { h m } ^ { 2 }$ 增加至2013年的120万 $\\mathrm { h m } ^ { 2 }$ ，扩大了近一倍；小麦播种面积变化不大，1994年为107万 $\\mathrm { h m } ^ { 2 }$ ，2013年为110万 $\\mathrm { h m } ^ { 2 }$ ，仅",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7a0bcc99efe930620f140614e0e2e28711a781abb5d57bfd7a5e853f76f364d.jpg",
+        "img_caption": [
+            "图32000—2013年河北平原中低产区冬小麦(a)和玉米(b)平均分布比例Fig.3Spatial patterns ofwinter wheat (a)and maize (b)averagecoverages inthelow-medium yield farmlandofHebei Plainfrom 2000 to 2013"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/256a1e41a6f219426c217195ed58f8cd3a04fd8d5122f887049760320b878968.jpg",
+        "img_caption": [
+            "图41994—2013年河北平原中低产区冬小麦、玉米播种面积和产量变化图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "增加 $2 . 8 \\text{‰}$ （204号",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "单产能够反映粮食作物的实际生产力水平。2013年冬小麦单产在衡水和邯郸较高，多大于 $6 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 在沧州东部和廊坊南部较低，均小于 $5 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，玉米单产水平在邯郸较高，多大于 $7 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，在衡水、沧州西部次之，沧州东部较低，小于 $6 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ （204号(图5a,b)。近20年来小麦和玉米的生产力水平都显著提高 $( P { < } 0 . 0 0 1 )$ ，其中在邯郸地区提高较大，部分区域单产提高量达 $3 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 以上(图5c,d)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2小麦和玉米的现实增产潜力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 基于生育期累积NDVI最大值的增产潜力分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Fig.4Productions and sowing areas of winter wheat and maize inthelow-mediumyieldfarmlandofHebeiPlainfrom 1994 to 2013 $\\mathrm { \\Delta P _ { w h } }$ ：小麦产量； $\\mathrm { \\Delta P _ { m z } }$ ：玉米产量； $\\mathrm { \\Delta S _ { w h } }$ ：小麦播种面积； $\\mathrm { \\Delta S _ { m z } }$ ：： 玉米播种面积。 $\\mathrm { \\Delta P _ { w h } }$ :winter wheat yield; $ { \\mathrm { ~ \\mathbf ~ { ~ P ~ } ~ } } _ { \\mathrm { m z } }$ :maize yield; $\\mathrm { \\Delta S _ { w h } }$ ： winter wheat sown area; $\\mathrm { \\Delta S _ { m z } }$ :maize sown area. ",
+            "图5河北平原中低产区冬小麦(a,c)和玉米(b,d)单产现状与变化图 Fig.5Yieldsand their changesfroml994 to2013ofwinter wheat (a,c)and maize(b,d)inthelow-mediumyieldfarmlandof Hebei Plain "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "冬小麦和夏玉米均具备较大的增产潜力，且玉米潜在高产区范围大于小麦的潜在高产区范围(图5a,c)。冬小麦在邯郸和衡水的最大生产力水平较高，在邢台、沧州、廊坊及邢台中部的最大生产力水平较低，即后者挖掘增产潜力之后也很难达到前者的最大生产力水平。主要是由于冬小麦在邯郸和衡水地区由于灌溉条件较好，积温较高，水肥土热及管",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "N b C 廊坊 d Ea uig Langfang ingfang 沧州 沧州 沧州 Cangzhou angzhou Cangzhe 邢 Wheam) 冶 m 邢台 Hengshui Hengshui 小麦 邢 Hengshui 玉米产加量 Maizeyield Xingtai Ningtai increment(kg·hm-2) <5000 1<6000 <2.000 <2000 5km 5 000\\~6000 5m 1600\\~7000 0 50 2.003000 1 0 50m 12.0003000 Hane Handan km ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "理投入配合较适宜，因而最大生产力水平较高；在沧州和廊坊地区由于浅层地下水矿化度较高、盐碱土分布比例较大、管理投入少，加之廊坊积温较低等因素的限制，最大生产力水平较低；邢台中部地区土壤、水分等生产条件较差，管理投入少，因而最大生产力水平也较低。玉米的最大生产力水平普遍较高，挖掘增产潜力后均可达到较高的生产力水平。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "粮食作物生产力水平的分级结果表明，冬小麦生产力水平较高的I、Ⅱ级区仍有继续增产的空间，生产力水平较低的IV级水平区可提升为Ⅲ级水平，甚至是I、Ⅱ级水平(图6a,b)；玉米相对于小麦来说，生产力水平的提升空间较大，除沧州的枣林周围及沧州东部的部分地区外，其他区域的玉米生产力水平均可以提升为I级水平(图6c,d)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用公式(5)计算生产力水平的潜在增产比率 $r$ 结果如图7所示。大部分地区冬小麦生产力水平的增产比率小于 $10 \\%$ ，沧州西部生产力的潜在增产比率较高，局部地区可达 $50 \\%$ 以上(图 7a)；玉米生产力水平的潜在增产比率多高于 $10 \\%$ ，潜在增产比率较大的区域分布于邯郸、沧州东部及邢台的部分地区(图 7b)。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/936ba21116432339821c5a8608fe01760f37ee514b55c8be7f9fb99b66e4215a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ffb03b4b741efd9bacfe2dbec6783005b95f4f5471011c7f0bcc90179fdc7ff.jpg",
+        "img_caption": [
+            "图6以作物主要生育期累积NDVI表征的河北平原中低产区冬小麦(a,b)和玉米(c,d)的2000—2013年间的最大 生产力(a,c)和2013年生产力水平(b,d) Fig.6Maxiumuproductivities during 200 to 2013 (a,c)and productivities in 2013 (b,d)ofwinterwheat (a,b)and maize (c,d) based onaccumulated NDVI during their main growing periods in the low-medium yield farmland of Hebei Plain ",
+            "图7累积 NDVI表征的河北平原中低产区冬小麦(a)和玉米(b)增产比率空间分布图 Fig.7Increaseratesofwinterwheatyield (a)and maizeyield(b)basedonaccumulatedNDVIinthelow-mediumyieldfarmlandof Hebei Plain "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 基于生育期累积NDVI最大值估算的单产增产潜力",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从冬小麦和玉米的单产增产潜力来看，县域尺度上冬小麦单产的增产潜力为 $2 0 { \\sim } 8 6 4 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，多小于实际单产的 $10 \\%$ ，玉米单产的增产潜力为 $4 5 6 \\sim$ $1 \\ 7 4 7 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，多大于实际单产的 $10 \\text{‰}$ 河北平原中低产区冬小麦的平均单产可从 $6 \\ 0 5 9 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 的当前产量水平提升为 $6 \\ 4 1 5 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 的潜力产量水平，增产量为 $3 5 6 ~ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，增产率为 $5 . 8 7 \\%$ ；玉米的平均单产可从 $6 ~ 4 7 2 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 提升为 $7 ~ 2 7 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，增产量为 $7 9 8 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，增产率为 $12 . 3 3 \\%$ (表2)。从单产潜力的空间格局看，单产潜力和单产增产潜力在空间上不一致，冬小麦和玉米单产潜力最大的区域均为邯郸地区(图 8a，b)，冬小麦单产增产潜力较大的地区主要位于研究区北部，玉米单产增产潜力较大的地区主要位于研究区南部(图8c，d)。冬小麦单产增产潜力在廊坊最大，为 $6 0 5 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；在衡水最小,为 $2 0 0 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。玉米单产增产潜力在邢台最大，为",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$1 \\ 1 0 9 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；在廊坊最小，为 $3 4 4 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ (表2)。按照单产增产潜力进行排序，冬小麦为：廊坊 $\\mathsf { i } >$ 保定 $\\cdot >$ 沧州 $>$ 邯郸 $\\mathrm { > }$ 邢台 $\\mathrm { > }$ 衡水；玉米为：邢台 $\\cdot >$ 邯郸 $\\mathrm { > }$ 保定 $>$ 沧州 $\\lvert >$ 衡水 $>$ 廊坊(表2)。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5523e2d8c739bae4da6edca03cf1074427d34d173e4455c3f3a09b77a29ee4e2.jpg",
+        "img_caption": [
+            "图8基于作物主要生育期累积NDVI计算的河北平原中低产区冬小麦(a,c)和玉米(b,d)的单产潜力(a,b)与单产增产潜力(c,d)"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.8Potentialyields (a,b)andyieldgaps (diferencebetwenpotentialyieldandactualyield)(c,d)of winter wheat (ac)and maize (b,d)basedonthe acumulated NDVIduring its main growing period inthe low-medium yield farmlandof Hebei Plain ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d3866e433ec52980b7f09610ef4147e3056e725dac1d5dc0cf4f6e485b316d5c.jpg",
+        "table_caption": [
+            "表2河北平原中低产区冬小麦和玉米的增产潜力 Table 2Yield increasing potentials of winter wheat and maize in the low-medium yield farmland of Hebei Plain "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作物</td><td>区</td><td></td><td>Pr</td><td></td><td>Yilapg</td><td>力</td><td></td><td></td></tr><tr><td>冬小麦 Winter wheat</td><td>邯郸 Handan</td><td>19.32</td><td>13.69</td><td>7085</td><td>7 494</td><td>409</td><td>5.77</td><td>0.79</td></tr><tr><td rowspan=\"7\"></td><td>邢台 Xingtai</td><td>17.80</td><td>11.30</td><td>6347</td><td>6639</td><td>292</td><td>4.60</td><td>0.52</td></tr><tr><td>衡水 Hengshui</td><td>27.66</td><td>17.65</td><td>6379</td><td>6580</td><td>200</td><td>3.14</td><td>0.55</td></tr><tr><td>沧州 Cangzhou</td><td>37.69</td><td>19.61</td><td>5202</td><td>5636</td><td>433</td><td>8.32</td><td>1.63</td></tr><tr><td>廊坊 Langfang</td><td>2.49</td><td>1.30</td><td>5224</td><td>5830</td><td>605</td><td>11.59</td><td>0.15</td></tr><tr><td>保定Baoding 河北平原中低产区</td><td>4.81</td><td>2.97</td><td>6178</td><td>6714</td><td>536</td><td>8.67</td><td>0.26</td></tr><tr><td>Larwlandiof Hebed Plain</td><td>109.77</td><td>66.51</td><td>6059</td><td>6415</td><td>356</td><td>5.87</td><td>3.90</td></tr><tr><td>邯郸 Handan</td><td>15.73</td><td>13.05</td><td>8294</td><td>9265</td><td>971</td><td>11.70</td><td>1.53</td></tr><tr><td rowspan=\"6\">Summer maize</td><td>邢台Xingtai</td><td>15.93</td><td>10.89</td><td>6834</td><td>7943</td><td>1109</td><td>16.23</td><td>1.77</td></tr><tr><td>衡水 Hengshui</td><td>27.69</td><td>17.71</td><td>6394</td><td>7128</td><td>734</td><td>11.47</td><td>2.03</td></tr><tr><td>沧州 Cangzhou</td><td>44.19</td><td>25.68</td><td>5812</td><td>6588</td><td>776</td><td>13.34</td><td>3.43</td></tr><tr><td>廊坊 Langfang</td><td>11.45</td><td>7.13</td><td>6224</td><td>6568</td><td>344</td><td>5.53</td><td>0.39</td></tr><tr><td>保定Baoding</td><td>5.51</td><td>3.53</td><td>6 413</td><td>7265</td><td>852</td><td>13.28</td><td>0.47</td></tr><tr><td>河北平原中低产区 Low-medium yield farmland of Hebei Plain</td><td>120.49</td><td>77.98</td><td>6472</td><td>7 270</td><td>798</td><td>12.33</td><td>9.62</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 基于生育期累积NDVI最大值估算的总产增产潜力",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从冬小麦和玉米总产量的增产潜力来看，河北平原中低产区冬小麦的增产潜力可达 $3 . 9 0 ~ 1 \\mathrm { Z } ~ \\mathrm { k g }$ ，玉米的增产潜力可达9.62亿kg，二者合计增产潜力为13.52亿kg(表2)。县域尺度上冬小麦和玉米的增产潜力较大的区域主要位于研究区的北部。沧州是今后冬小麦和玉米增产的关键地区，部分县(市)冬小麦总产增产潜力高于0.10亿 $\\mathbf { k g } .$ ，玉米总产增产潜力高于",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "0.25亿kg；邯郸各县(市)冬小麦和玉米总产增产潜力也较大，部分县(市)冬小麦和玉米的增产潜力也分别达0.10亿 $\\mathrm { k g }$ 和0.25亿 $\\mathrm { k g }$ 以上；衡水和邢台冬小麦和玉米总产增产潜力较小，多数县(市)冬小麦低于$0 . 0 5 \\ : 1 \\mathrm { { Z } \\ : k g }$ ，玉米低于0.25亿kg(图9)。近14年来，衡水地区冬小麦和玉米的产量一直较高，总产增产潜力有限；而邢台地区冬小麦的产量一直较低，玉米虽然具备高产出能力，但受播种面积的限制，总产增产潜力不大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8793b88445aa34022b1b296174e9cf87c435686e1eb7caa10fbe5c53fc36aaa0.jpg",
+        "img_caption": [
+            "图9河北平原中低产区冬小麦(a)和玉米(b)总产量增产潜力 Fig.9Production gaps (diferenceof potential production and actual production)of winter wheat (a)and maize (b in th low-medium yield farmland ofHebeiPlain "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3小麦和玉米的理论增产潜力",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "上文利用近14 年粮食作物主要生育期累积NDVI的最大值所估测的增产潜力，是以实际发生过的最大生产力水平确定的增产潜力，该潜力通过合理的农业投入、良好的经营管理及高新技术的应用等方式，能够在较短时期内转变为现实的增产量。为了进一步探明研究区特定自然环境下，主要粮食作物的理论最大增产潜力，本文引入产量潜力和理论可达产量的概念与上文的现实增产潜力进行区分。产量潜力是在特定气候和土壤等环境条件下，在没有水分和养分胁迫及任何影响产量的因素(病虫草害、倒伏、缺苗断垄等)发生的情况下，作物品种所能达到的产量[27]，它是一定区域内理想化生产条件下产量的最大值。理论可达产量潜力是在最好的管理水平和较小的胁迫下，区域可以达到的最大产量。研究表明，主要作物(如小麦、玉米和水稻等)的产量一般在达到产量潜力的 $70 \\% { \\sim } 8 5 \\%$ 时便趋于平稳[28-29]，即认为达到了理论可达产量潜力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文参考辛红敏[13利用APSIM 模型预测的河北平原主要作物的产量潜力结果，以产量潜力的$70 \\%$ 作为理论可达产量潜力的临界值，以2013年研究区各县(市)所在地级市粮食作物单产的平均值作为实际产量水平，结合相应的播种面积、产量等数据，计算了河北平原中低产区的理论可达增产潜力。结果表明，河北平原中低产区理论可达增产潜力巨大。冬小麦、玉米的实际产量仅为产量潜力的$4 8 \\% { \\sim } 6 3 \\%$ 和 $34 \\% { \\sim } 5 2 \\%$ (表3)。以河北平原中低产区2013年小麦、玉米的播种面积进行计算，小麦的理论可达增产潜力为17.6亿kg，玉米的理论可达增产潜力为58.1亿 $\\mathbf { k g }$ ，二者合计的增产潜力为76.0亿kg(表3)。即本文利用粮食作物主要生育期累积NDVI的最大值所计算的冬小麦的增产潜力为其理论可达增产潜力的 $22 \\%$ ，玉米增产潜力为其理论可达增产潜力的 $1 7 \\%$ 、冬小麦与玉米总增产潜力为其理论可达增产潜力的 $1 8 \\%$ 。基于粮食作物主要生育期累积NDVI计算的增产潜力通过技术和管理的提高是可以实现的，比理论增产潜力具有更强的现实指导意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文以粮食作物主要生育期累积NDVI的最大值结合单产估测模型估算增产潜力，发现河北平原中低产区冬小麦增产潜力为3.90亿 $\\mathrm { k g }$ ，玉米的增产潜力为9.62亿kg，合计增产潜力为 $1 3 . 5 2 \\ 1 \\mathrm { Z } \\ \\mathrm { k g }$ ，相当于区域理论可达增产潜力的 $1 8 \\%$ 。总体来看，不论是总产还是单产，冬小麦的增产潜力均小于玉米的增产潜力。冬小麦和玉米总产增产潜力较大的地区均位于研究区的北部；冬小麦和玉米单产增产潜力较大的区域分别位于研究区的北部和南部。本文所估算的增产潜力以实际生产力的最高水平为依据，具有很强的现实意义。但产量潜力转变为现实产量还存在诸多限制因素。在土壤瘠薄的地区，可以通过土壤培肥与水肥药的精细化管理技术促进增产；在淡水资源短缺的微咸水区，微咸水补灌与雨水资源利用是增产的重点；在盐碱区则可以通过暗管排盐、雨水淋盐和盐碱地咸水结冰灌溉改良技术等方式促进粮食增产；在旱作雨养区可以通过节水灌溉技术和雨水资源化等方式来保障粮食增产。此外，经济收益是保障粮食增产的直接动力，可以通过土地经营管理、粮食补贴、激励政策等多种措施保障农民收益；同时可以增加“增粮专项补贴”、“咸水利用专项补贴\"与“节水技术应用专项补贴\"等专项补贴，扩大补贴的力度和覆盖面，逐步建立长效稳定的粮食生产激励机制，促进粮食增产。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/aed208d17db04a4f8be3c24c6871a5aab5d07961bc401c6c4f16694321c11de8.jpg",
+        "table_caption": [
+            "表3基于APSIM模拟的产量潜力的理论可达增产潜力 Table 3Potential productions of winter wheatand maizebased on yield potential estimated bythe APSIM model in the low-medium yield farmland ofHebeiPlain "
+        ],
+        "table_footnote": [
+            "1)表中“产量潜力\"数据引自辛红敏[13]的研究结果。The dataof“Yieldpotential”in Table3is cited from theresultsreported by Xin Hongmin[13]. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td>保定 Baoding</td><td>沧州 Cangzhou</td><td>邯郸 Handan</td><td>衡水 Hengshui</td><td>廊坊 Langfang</td><td>邢台 Xingtai</td></tr><tr><td colspan=\"2\">冬小麦 产量潜力 1 Yield potential (kg·hm-2)</td><td>10 557</td><td>10 865</td><td>10 990</td><td>11 168</td><td>11 163</td><td>10 889</td></tr><tr><td rowspan=\"6\">Winter wheat</td><td>实际产量 Actual yield (kg·hm-2)</td><td>6353</td><td>5226</td><td>6930</td><td>6379</td><td>5660</td><td>6401</td></tr><tr><td>实际产量/产量潜力 Actual yield/yield potential (kg·hm-2)</td><td>0.60</td><td>0.48</td><td>0.63</td><td>0.57</td><td>0.51</td><td>0.59</td></tr><tr><td>理论可达增产潜力 Theoretical yield gap (kg·hm-2)</td><td>1037</td><td>2379</td><td>763</td><td>1438</td><td>2 155</td><td>1 222</td></tr><tr><td>播种面积 Sown area (hm²)</td><td>48 080</td><td>376 915</td><td>193 227</td><td>276 607</td><td>24870</td><td>177 978</td></tr><tr><td>理论可达增产量 Theoretical production gap (10kg)</td><td>0.50</td><td>8.97</td><td>1.47</td><td>3.98</td><td>0.54</td><td>2.17</td></tr><tr><td>产量潜力 1 Yield potential (kg:hm-2)</td><td>15594</td><td>17 022</td><td>15 630</td><td>15 495</td><td>15 600</td><td>15246</td></tr><tr><td rowspan=\"6\">Summer maize</td><td>实际产量 Actual yield (kg·hm-2)</td><td>6856</td><td>5812</td><td>8140</td><td>6394</td><td>6171</td><td>6434</td></tr><tr><td>实际产量/产量潜力 Actual yield/ Yield potential (kg:hm-2)</td><td>0.44</td><td>0.34</td><td>0.52</td><td>0.41</td><td>0.40</td><td>0.42</td></tr><tr><td>理论可达增产潜力 Theoretical yield gap (kg·hm-2)</td><td>4060</td><td>6103</td><td>2800</td><td>4452</td><td>4 749</td><td>4238</td></tr><tr><td>播种面积 Sown area (hm2)</td><td>55 086</td><td>441 861</td><td>157 295</td><td>276 895</td><td>114 509</td><td>159 296</td></tr><tr><td>Theoretical pred产量gap (10kg)</td><td>2.24</td><td>26.97</td><td>4.41</td><td>12.33</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>5.44</td><td>6.75</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文在粮食增产潜力研究方面进行了新的探索研究方法简单易行，数据容易获取，能够较好地估算粮食作物的增产潜力。但研究中还存在一些不确定性：1)在单产遥感估算模型方面，由于样本数量大以及不同区域在农田水分、肥力、土壤和管理等方面的差异性，导致了模型精度的局限性，均方根误差RMSE值较大。本文以各县(市)的相对误差为标准对单产遥感模拟结果进行了误差校正，以期提高增产潜力的估测精度；2)在土地利用方面，由于缺少农用地的土地利用类型数据，采用粮食作物生育期的NDVI值提取了冬小麦和玉米的分布范围，数据在作物分布范围较少的区域误差较大，导致作物主要生育期累积NDVI与单产的拟合数据出现了异常值，同时，由于玉米生育期内其他植被多处于生长旺盛期，导致玉米提取范围及其增产潜力估算的误差相对较大，有待于进一步改进；3)从研究基期看，由于相关数据同时存在趋势性变化和年际性波动的双重特征，在研究时段内冬小麦和玉米的单产与总产均呈持续增长的趋势，因而未采用历年的平均值来代表实际产量。由于无法选取能够完全代表区域粮食生产特征的典型年份，因而本文选取2013年的数据来代表当前生产力水平的最新状况。4)从研究的假设看，本文在估算增产潜力时假设作物播种面积保持稳定，但在实际生产中粮食作物的播种面积是变化的。如在邢台地区2015年棉花播种面积较2013年有明显的减少(遥感解译结果)，该区域近14年来玉米的最大生产力水平较高(可达一级水平，见图6c)，如果减少的棉花转变为玉米则会较大程度地影响到该区域粮食增产潜力估测的准确性。此外，作物品种对产量有着较大的影响，本文在估算增产潜力时没有考虑作物品种的更替，这也会影响到估产的准确性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "致谢感谢中国科学院遗传与发育生物学研究所农业资源研究中心的闵雷雷老师和邵立威老师在论文思路和语言表达方面的启示与建议，感谢肖登攀博士和裴宏伟博士在论文结构和图表等方面提出的宝贵意见，感谢吴喜芳在遥感数据处理方面的贡献,感谢评审专家和编委老师为论文的进一步完善提出的宝贵意见！",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]BrownLR.Who Will Feed China?:Wake-Up Call fora Small Planet[M].Washington,DC:W.W.Norton& Company,1995: 145-146   \n[2]Yang H,Li X B.Cultivated land and food supply in China[J]. [」Lincnucig Dig sessg mmanu piotcuuun policy in China[J]. Land Use Policy,2008,25(1): 59-68 [4] 张正斌，徐萍，段子渊．粮食安全应成为中国农业现代化 发展的终极目标[J]．中国生态农业学报，2015，23(10): 1215-1219 Zhang Z B, Xu P, Duan Z Y. Food security should be the ultimate goal of agricultural modernization in China[J]. Chinese Journal of Eco-Agriculture,2015,23(10): 1215-1219 [5]毛学峰，刘靖，朱信凯．中国粮食结构与粮食安全：基于粮 食流通贸易的视角[J].管理世界,2015(3):76-85 Mao XF,Liu J, Zhu X K.Grain structure and food security in China: under thescope of food circulation trade[J]. Management World,2015(3): 76-85 [6] 孟春红，路振广．粮食安全与玉米增产潜力的研究[J]．中 国农村水利水电,2012(9):19-23 Meng C H,Lu Z G. Research on food security and potential of maize yield increase[J]. China Rural Water and Hydropower, 2012(9): 19-23 [7]封志明，杨艳昭，张晶，等．从栅格到县域：中国粮食生产 的资源潜力区域差异分析[J]．自然资源学报，2007，22(5): 747-755 Feng Z M, Yang Y Z, Zhang J, et al. A GIS based study on the grain productivity and potential yield increase at multi-levels in China[J]. Journal of Natural Resources，2007,22(5): 747-755   \n[8] 李新旺，王树涛，门明新，等．基于 EMD 的河北省粮食产 量波动及其成因的时空多尺度分析[J]．自然资源学报, 2009,24(11): 1994-2004 Li X W,Wang S T,Men M X,et al．Analysis on the fluctuation of grain output in Hebei province and its causes at multi-time and space scale based on empirical mode decomposition method[J]. Journal of Natural Resources,2009, 24(11): 1994-2004 [9]张琳，张凤荣，姜广辉，等．我国中低产田改造的粮食增产 潜力与食物安全保障[J]．农业现代化研究，2005，26(1): 22-25 Zhang L, Zhang FR,Jiang G H,et al. Potential improvement of medium low yielded farmland and guarantee of food safety in China[J]. Research of Agricultural Modernization,2005, 26(1): 22-25   \n[10]刘玉，郜允兵，高秉博，等.1980—2012年河南省县域粮食 单产时空分异及增产潜力研究[J]．北京大学学报：自然科 学版,2014,50(6): 1106-1114 Liu Y, Gao YB,Gao B B,et al. Spatial-temporal difference of grain yield per hectare during l980-2012 at county level and its balanced increasing potential in Henan Province[J].Acta Scientiarum Naturalium Universitatis Pekinensis,2014,50(6): 1106-1114   \n[11]柏林川，武兰芳，宋小青．1995—2010 年山东省粮食单产 变化空间分异及均衡增产潜力[J]．地理科学进展，2013, 32(8): 1257-1265 Bai L C,Wu L F, Song X Q. Spatial difference of grain yield changes during l995-2010 and balanced potential output to increase in Shandong Province[J]. Progress in Geography, 空间分异[J]．农业工程学报,2015,31(2):288-297 Chen L,Hao JM,Ai D,et al. Balanced yield increasing potential of grain and its spatial differentiation in HuangHuai-Hai Plain[J]. Transactions of the Chinese Society of Agricultural Engineering,2015,31(2): 288-297   \n[13] 辛红敏．基于 APSIM 模拟与GIS 分析的小麦-玉米增产潜 力及其地域差异研究[D]．保定：河北农业大学,2013 Xin H M.A APSIM simulation and GIS analysis based study on yield increase potential and its spatial variation of the wheat-maize system[D]. Baoding:Agricultural University of Hebei,2013   \n[14] 黄明斌，李玉山．黄土塬区旱作冬小麦增产潜力研究[J]. 自然资源学报,2000,15(2):143-148 Huang M B,Li Y S.On potential yield increase of dryland winter wheat on the loess tableland[J]. Journal of Natural Resources,2000,15(2): 143-148   \n[15] 钱永兰，侯英雨，延昊，等．基于遥感的国外作物长势监测 与产量趋势估计[J].农业工程学报,2012,28(13):166-171 Qian Y L,Hou Y Y, Yan H,et al. Global crop growth condition monitoring and yield trend prediction with remote sensing[J]. TransactionsoftheChineseSocietyof Agricultural Engineering,2012,28(13): 166-171   \n[16]任建强，陈仲新，周清波，等．MODIS 植被指数的美国玉 米单产遥感估测[J]．遥感学报,2015,19(4):568-577 Ren J Q, Chen Z X, Zhou Q B,et al. MODIS vegetation index data used for estimating corn yield in USA[J]. Journal of Remote Sensing,2015,19(4): 568-577   \n[17]任建强，陈仲新，唐华俊，等．长时间序列NOAA-NDVI数 据在冬小麦区域估产中的应用[J]．遥感技术与应用，2007, 22(3): 326-332 Ren JQ,Chen Z X,Tang H J,et al.Yield estimation for winter wheat at regional scale using long-time series NOAA-NDVI data[J]. Remote Sensing Technology and Application,2007,22(3): 326-332   \n[18] Mika J,Kerényi J,Rimóczi-Paal A,et al. On correlation of maize and wheat yield with NDVI: Example of Hungary (1985-1998)[J].Advances in Space Research,2002,30(11): 2399-2404   \n[19] Mkhabela M S,Mkhabela M S, Mashinini N N. Early maize yield forecasting in the four agro-ecological regions of Swaziland using NDVI data derived from NOAA'sAVHRR[J]. Agricultural and Forest Meteorology， 2005, 129(1/2): 1-9   \n[20] Ren JQ，Chen Z X,Zhou Q B，et al.Regional yield estimation for winter wheat with MODIS-NDVI data in Shandong,China[J]. International Journal of Applied Earth Observation and Geoinformation,2008,10(4): 403-413   \n[21]Becker-Reshef I，Vermote E,Lindeman M,et al．A generalized regresson-based model for forecasting winter wheat yields in Kansas and Ukraine using MODIS data[J]. Remote Sensing of Environment,2010,114(6): 1312-1323   \n[22] 李振声，欧阳竹，刘小京，等．建设“渤海粮仓\"的科学 依据——需求、潜力和途径[J]．中国科学院院刊，2011(4): 371-374 LiZ S,Ouyang Z,Liu X J,et al.Scientific basis for constructing the“Bohai Sea Granary\":Demands,potential and approches[J].Bulletin of Chinese Academy of Sciences, 2011(4): 371-374   \n[23]Tang XM,Chen B M, ZhangL N,et al.Analysis of cultivated land consolidation potential in China[J]. Transactions of the CSAE,2012,28(1):219-224   \n[24]吴喜芳，沈彦俊，张丛，等．基于植被遥感信息的作物蒸散 量估算模型—以华北平原冬小麦为例[J]．中国生态农业 学报,2014,22(8):920-927 Wu X F，Shen Y J,Zhang C，et al.Modeling crop evapotranspiration using remotely sensed vegetation data:A case study of winter wheat in the North China Plain[J]. Chinese Journal ofEco-Agriculture,2014,22(8):920-927   \n[25]李苗苗，吴炳方，颜长珍，等．密云水库上游植被覆盖度的 遥感估算[J].资源科学,2004,26(4):153-159 Li M M,Wu BF,Yan C Z,et al.Estimation of vegetation fraction in the upper basin of Miyun Reservoir by remote sensing[J].Resources Science,2004,26(4):153-159   \n[26]盛艳，姚云峰，秦富仓，等．基于GIS的耕地地力等级划分 研究[J]．干旱区资源与环境,2014,28(6):27-32 Sheng Y,Yao YF,QinFC,etal. Gradation of the cropland productivity based on GIS technique[J]. Journal of Arid Land Resources and Environment,2014,28(6):27-32   \n[27]Evans L T. Crop Evolution，Adaptation and Yield[M]. Cambridge:Cambridge University Press,1996   \n[28] Cassman K G. Ecological intensification of cereal production systems:Yield potential, soil quality,and precision agriculture[J].Proceedings of the National Academy of Sciences of theUnited Statesof America,1999,96(11):5952-5959   \n[29]Brisson N,Gate P,Gouache D,et al.Why are wheat yields stagnating in Europe? A comprehensive data analysis for France[J].Field Crops Research,2010,119(1):201-212 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

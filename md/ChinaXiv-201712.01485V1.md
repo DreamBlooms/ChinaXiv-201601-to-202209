@@ -1,0 +1,165 @@
+# DOI:10.5846/stxb201609211901
+
+周洪华,李卫红,李玉朋,王玉阳,黄湘.基于树木年轮技术的塔里木河下游河岸胡杨林生态需水量研究.生态学报,2017,37（22):7576-7584.ZhouHH,LigYagtalleafeorutheLower TarimRiver.Acta Ecologica Sinica,2017,37(22）:7576-7584.
+
+# 基于树木年轮技术的塔里木河下游河岸胡杨林生态需水量研究
+
+周洪华\*，李卫红，李玉朋,王玉阳,黄湘中国科学院新疆生态与地理研究所，荒漠与绿洲生态国家重点实验室，乌鲁木齐830011摘要;生态需水量计算是干旱脆弱生态区恢复重建的一个关键问题。分析了塔里木河下游荒漠河岸林关键种-胡杨树木年轮近90年来的变化特征及对气候水文过程的响应,并基于树木年轮技术提出了维系荒漠河岸林不同恢复状态的生态需水量。研究结果表明,塔里木河下游胡杨树木年轮主要承载的是区域水文历史变化信息,可以作为定量评估生态输水工程的生态恢复效应和定量计算植被生态需水量的新指标;胡杨标准年轮宽度指数与生长年生态输水量呈显著正相关( $\scriptstyle ( P < 0 . 0 5 )$ ,近15年生态输水对胡杨年轮宽度指数增加的平均贡献率为 $4 2 . 9 6 \%$ ;若要维持塔里木河下游英苏段垂直河道 $3 0 0 \mathrm { ~ m ~ }$ 范围内的胡杨达到近 90年来的平均生长水平,则需在生长年下泄生态需水量 $0 . 8 4 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,若要达到断流前(1933—1974 年)的平均径向生长,则每个生长年内生态需水量应达到 $0 . 9 1 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。 ?
+
+关键词：胡杨;树木年轮；生态输水工程;生态需水量
+
+# Estimation of ecological water demand of a desert riparian forest using tree rings of Populus euphratica in the Lower Tarim River
+
+ZHOU Honghua\*,LI Weihong, LI Yupeng，WANG Yuyang，HUANG Xiang StateKeyLboatorfeisoigstteodaesecefecsUi
+
+Abstract:Estimationof theecological waterdemand of natural plants isakeyissuefortherestorationandreconstructionof afragileecological region inaridareas.Treerings ofPopulus euphratica in theYingsu sectionof the lowerreaches of the Tarim River and their responses toclimate change and hydrological conditions were analyzed using the nonparametric MaKendalltrend test，Mann-Kendal-Sneyers test，moving t-test，one-wayANOVA，andPearsoncorrelation.Theecological water demandofadesertriparian forest intheYingsu section was then estimated basedonthetreering characteristics using regression and stepwise regression models.The resultsshowed that theabrupt temporal changes of temperature and precipitation were different from that of the standard chronology of $P$ . euphratica in the lower reaches of the Tarim River. Moreover,there was no significant relationship between temperature and standard chronology of $P$ .euphratica or between precipitation and standard chronology of $P$ . euphratica in the lower reaches of the Tarim River. The Pearson correlation analysis also revealed no significantrelationship between temperature and groundwater depthor between precipitation and groundwater depth in the lower reaches of the Tarim River. However，the width indexes of tree rings of $P$ . euphratica were significantlyandnegativelyrelatedtothegroundwaterdepth，andtheyweresignificantlyandpositivelyrelatedtotheamount of ecologicallyconveyed waterfrom AugusttoJulyin theYingsusectionof thelowerreachesof the Tarim River.These resultsproved that historical informationregarding waterconditionscouldbeaccuratelyreproducedbythetreeringsof
+
+P.euphratica in the lower reaches of the Tarim River. Therefore，the tree rings of $P$ .euphratica could be used for quantitativelyassessngtherestorationeffectsofecological waterconveyance todesertriparian forestsandcalculatingthe ecologicalwaterdemandfornaturalvegetationinthelowerreachesoftheTarimRiver.Theaveragecontributionof ecological water conveyance to the increased tree ring width index was $4 2 . 9 6 \%$ in the Yingsu section of the lower reaches of the Tarim River.Estimated from the equation of the tree rings of $P$ . euphratica and the amount of ecologically conveyed water，an annual ecological water conveyance of $0 . 8 4 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 }$ was expected to maintain the average growth (i.e.， average tree ring index of 0.997 during 1933—2015）of $P$ . euphratica in the Yingsu section within a distance of $3 0 0 \mathrm { ~ m ~ }$ to the river channel in the lower reaches of the Tarim River. Furthermore，an annual water conveyance of $0 . 9 1 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ was estimated to keep P. euphraticaatanaverage radial growthrateofO.972during theperiodof 1933—1974（i.e.，before the mainchannel of the Tarim river near Yingsu section dried up).
+
+Key Words: Populus euphratica ；chronology；ecological water conveyance； ecological water demand
+
+生态需水量系指为了维持某一环境功能或环境目标所需的水资源量[1]。生态需水量是水资源开发利用过程中必须考虑的一个重要水资源需求组分,尤其是在水资源极端匮乏的中国西北内陆河流域,它是脆弱生态区恢复重建的一个关键问题[2-3],但实际水资源配置中这部分水资源的供给往往被政府部门所忽视[4]。近年来,随着可持续发展和生态文明建设的倡议,天然植被生态需水研究也成为了当前生态学、环境保护和水资源管理的热点问题[5-6]。目前生态需水量模型主要基于水量平衡、水热平衡、水盐平衡或水沙平衡,没有涉及生态系统和水文系统的互作机制,也未考虑水分与物种生产力之间的关系,同时这些水文模型采用的数据来源是相互独立的,由于观测和实验数据的时间序列有限,这些水平衡模型无法诠释水文过程和生态过程的交互作用[4,造成很多研究结果相互悖论。由此可见,寻找长时期、易获取、可重复、同时承载植物生理过程与水文过程信息的代用资料或材料则成为了天然植被生态需水量精准计算的关键。树木是记录区域生态环境变化的绝佳档案[7-8],树木年轮以定年准确、连续性强、分辨率高和易于获取复本等独特优点,已成为研究环境变化的重要代用资料[9]。塔里木河流域由于过去几十年来生产用水大量挤占生态用水，下游河道长期断流,荒漠河岸林极度衰败,具有战略意义的绿色走廊岌岌可危[10]。荒漠河岸林的主体是胡杨,它是荒漠河岸林的唯一乔木和关键建群种,且胡杨根系具有显著的水力提升能力,群落中草本植物或浅根灌木生长发育的水分来源也主要依赖于胡杨根系提升的水分再分配[11],因而胡杨的存亡决定着荒漠河岸林的存亡。由此可见,在塔里木河下游要估算维持荒漠河岸林的生态需水量,关键在于正确计算保证胡杨正常生长发育的生态需水量。基于此,本文通过分析塔里木河下游唯一乔木——胡杨树木年轮长期生长特征,明确生态输水量与胡杨木质部生长发育的量化关系,试图采用树木年轮技术来定量评估生态输水对木质部形成的贡献率并计算维系塔里木河下游荒漠河岸林不同生长状态的生态需水量,旨在为计算干旱区内陆河流域天然植物生态需水量提供新方法。
+
+# 1研究区概况
+
+塔里木河下游为大陆性暖温带荒漠干旱气候,降水稀少,蒸发强烈,年太阳总辐射 5692—6360 MJ/m²,年日照时数 $2 7 8 0 { - } 2 9 8 0 ~ \mathrm { h } , \geqslant 1 0 ^ { \circ } \mathrm { C }$ 的年积温为 $4 0 4 0 { \mathrm { - } } 4 3 0 0 { \mathrm { ~ } } ^ { \circ } { \mathrm { C } }$ ,平均日差 $1 3 - 1 7 \ \mathrm { ^ { \circ } C }$ 左右;平均年降水量在17.4—$4 2 . { \overset { \prime } { 0 } } \ \mathrm { m m }$ 之间,平均年蒸发量(潜势)达 $2 5 0 0 { - } 3 0 0 0 ~ \mathrm { m m } ^ { [ 1 2 ] }$ 。沿河两岸以胡杨为主的荒漠河岸林是驰名中外的"绿色走廊”,对阻止沙漠化进程、降低土壤盐渍化、保护河岸林生态系统的健康发展、维护绿洲的生态安全和持续稳定发展具有举足轻重的作用[13]。然而,由于水资源利用不合理,尾闾湖泊-罗布泊和台特玛湖分别于1970和1972年干涸，下游从大西海子以下至台特玛湖共 $3 2 1 ~ \mathrm { k m }$ 河道于1972年彻底长期断流。河道断流使得地下水位大幅下降,由地下水维系的荒漠河岸林大面积退化[13],天然胡杨林面积从20 世纪 50年代的$5 . 4 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ 减至目前的不足 $0 . 6 7 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ ,减幅高达 $8 8 \%$ ,使得林间沙地活化、风蚀沙化作用加强,土地荒漠化过程加剧,至2000 年,该区流沙地和盐碱地面积已分别高达 $5 2 . 7 1 \%$ 和 $1 2 . 3 5 \%$ ,导致塔克拉玛干和库鲁克两大沙漠有合拢趋势,具有战略意义的绿色走廊岌岌可危[1]。塔里木河下游已成为了中国西部生态环境最脆弱的区域,由此相继引发的严重生态问题在中国乃至世界范围都是十分典型的,该区生态恢复与生态安全问题已引起了世界各地和社会各界及政府的高度关注。为拯救绿色走廊,恢复生态和保护环境,中国政府于2000 年始斥资107亿元组织实施了生态输水工程。
+
+# 2材料与方法
+
+# 2.1胡杨树木年轮样芯采集
+
+本研究的取样区域位于英苏,地处塔里木河下游中段（图1),2000 年始在此断面垂直于河道布设了7眼地下水监测井,距河道的距离分别为 $5 0 , 1 5 0 , 2 5 0 , 3 5 0 , 4 5 0 , 7 5 0 , 1 0 5 0 \ \mathrm { m }$ 。由于生态输水对地下水抬升的影响效应随距河道距离的增加而减小[14-15],地下水响应最敏感的是距离河道 $3 5 0 \mathrm { ~ m ~ }$ 以内[14]。同时,野外调查发现,距河道 $3 0 0 \mathrm { ~ m ~ }$ 内是胡杨分布密度最高的区域。因此,2015 年9月采用生长锥（Haglof increment borers,HaglofInc.,Sweden)钻取以垂直河道 $3 0 0 \mathrm { ~ m ~ }$ 为直径的圆形取样区内所有胡杨树木年轮样芯,每一样株在离树干基部1- $1 . 5 \mathrm { ~ m ~ }$ 处取2个树芯样品,取样时避开树结、分叉及虫蛀点,两次取样相互垂直。由于胡杨木质部腐朽严重,对于胸径超过 $5 0 ~ \mathrm { c m }$ 而木质部腐烂后仅余 $\leqslant 5 \ \mathrm { c m }$ 的过短树芯视为无效取样,共采集有效树木年轮样株 29 棵,合计58个样芯。
+
+![](images/3bc08f7fbb4a4ca193b48ca454f662341d712167625a822fa2cc5b071cdb3466.jpg)  
+图1 研究区示意图  
+Fig.1The sketch map of study area
+
+# 2.2 胡杨树木年轮标准年表建立
+
+样芯经干燥、固定和打磨,采用骨架法(Skeleton)进行交叉定年,经树木年轮分析仪（LintabT"6,Germany）测量样芯年轮宽度,精度为 $0 . 0 0 1 \ \mathrm { m m }$ 。用Cofecha交叉定年质量控制程序进行交叉定年检验和生长量的订正。年表的建立采用Arstan软件完成。采用负指数函数或线性回归进行去趋势分析,对于去趋势后与其他序列去趋势后的趋势差别很大的个别序列,则采用步长大于总序列长度2/3的样条函数进行去趋势,剔除相关性差、序列过短或奇异点过多的个别序列构建塔里木河下游英苏断面胡杨标准年表。利用 SS 指数（Subsample Signal Strength)大于0.85来确定年表的起始年代和年表序列的可靠性。
+
+# $2 . 3$ 气候水文数据收集
+
+气温和降水数据(1958年建站以来至2010年)来自于塔里木河下游中下段的唯一气象站-铁干里克气象站（距离英苏断面约 $3 0 ~ \mathrm { k m }$ ),2000—2015年生态输水数据来自于塔里木河流域管理局,地下水埋深数据取自2000 始布设的地下水监测井(每2—3个月测量一次),将取样区内的三眼地下水监测井测得的埋深平均值视为英苏断面地下水埋深。鉴于环境因素对树木年轮宽度指数可能有一定的滞后作用,本文在计算气温、降水量和生态输水量时将前一年8月至当年7月的平均值/累计值记为年均值/年累计量,将胡杨年内主要生长期
+
+4—7月的平均值/累计值记为生长季平均值/累计值。
+
+2.4生态输水对胡杨木质部形成的贡献率及生态需水量计算生态输水对胡杨树木年轮宽度指数的贡献率计算采用以下公式：
+
+$$
+y = \left( x _ { 1 } - \overline { { x _ { 2 } } } \right) / \overline { { x _ { 2 } } } \times 1 0 0 \%
+$$
+
+其中, $y$ 为生态输水对胡杨年轮宽度指数的贡献率， $x _ { 1 }$ 为生态输水期间胡杨年轮宽度指数， $\overline { { x _ { 2 } } }$ 为断流期间胡杨多年平均年轮宽度指数， $\left( x _ { 1 } - \overline { { x _ { 2 } } } \right)$ 为生态输水下胡杨宽度指数的增加量。式中的 $x$ 是指去趋势后的标准年表宽度指数。 （）
+
+基于树木年轮的植被生态需水量估算方法：将 2000—2015年间每年去趋势后胡杨标准年表宽度指数与断流期间去趋势后标准年表多年平均宽度指数之差作为因变量,表征胡杨年轮宽度指数对生态输水响应的生态效应量,将生长年内有效输水量作为自变量进行曲线拟合,建立如下回归方程：
+
+$$
+\gamma = 0 . 2 3 2 x ^ { 2 } - 0 . 0 1 9 x + 0 . 0 1 4 \quad ( s i g . = 0 . 0 0 4 , R ^ { 2 } = 0 . 5 7 5 )
+$$
+
+其中， $y$ 表征生态输水对胡杨年轮宽度指数的影响量， $x$ 为生长年内的生态需水量 $( \times 1 0 ^ { 8 } \ \mathrm m ^ { 3 }$ ）。
+
+# 2.5 统计分析方法
+
+采用非参数 Mann-Kendall单调趋势和Mann-Kandall突变检验方法检验降水和气温序列变化趋势和突变时间;采用滑动 $\mathbf { \chi } _ { t }$ -检验确定胡杨年轮宽度指数序列的突变时间。采用 SPSS13.0软件的单因素方差分析、相关性分析、回归分析、逐步回归分析统计胡杨年轮宽度指数与区域气温、降水、地下水埋深和生态输水量的量化关系。
+
+# 3结果与分析
+
+# 3.1胡杨树木年轮年表特征
+
+剔除相关性差、序列过短或奇异点过多的10个序列构建了塔里木河下游英苏断面胡杨标准年表（图2A）。年表统计特征显示(表1),胡杨标准年表的相关系数、平均敏感度和EPS都比较高,表明胡杨对外界环境的敏感度较高,年表序列包含丰富的低频和高频环境信息。胡杨标准年表的生长趋势显示,1940s胡杨树木年轮生长较快,1950s 树木年轮宽度呈下降趋势,1960s呈上升趋势,1970s—1990s呈下降趋势,2000 后胡杨年轮宽度增加（图2A）。对胡杨标准年表进行滑动 $\mathbf { \chi } _ { t }$ 检验,子序列长度为10a时,胡杨年表有4个突变点,突变时间分别为1957年、1967年、1975年和2000年（图2B),表明1957—1966的10年间,区域生态环境不利于胡杨生长,1967—1974年间生态环境有好转趋势,而1975—1999 年之间生态环境再度恶化,2000 年生态环境有所改善。
+
+![](images/40437bbe26f77ed0b65be3a01b06402a0c9bf9a8b6dc9a7dc55a0348d95c5d82.jpg)  
+图2塔里木河下游英苏断面胡杨标准年表(A)和标准年表滑动t检验(B)  
+Fig.2StandardchronologyofPopuluseuphratica（A）andMovingt-testechniqueoftandardchronologyofPopuluseuphratica（B）in Yingsu of theLower TarimRiver
+
+表1塔里木河下游英苏胡杨标准年表统计特征  
+Table1Statistical informationonthestandardchronologiesofPopuluseuphraticaintheYingsusectionofLowerTarimRiver   
+
+<html><body><table><tr><td>年表特征 Characteristics</td><td>胡杨标准年表 Standard chronologies of Populus euphratica (SCP)</td><td>年表特征 Characteristics</td><td>胡杨标准年表 Standard chronologies of Populus euphratica</td></tr><tr><td>样本量 Sampling cores in chronologies</td><td>48芯/24树</td><td>自相关系数 First-order autocorrelation</td><td>(SCP) 0.520</td></tr><tr><td>时段 Time span</td><td>1933—2015</td><td>公共区间 Common period</td><td>1955—2015</td></tr><tr><td>相关系数 Seriers intercorrelation</td><td>0.643</td><td>信噪比 Signal-to-noise ratio（SNR)</td><td>1.19</td></tr><tr><td>平均敏感度 Mean sensitivity</td><td>0.364</td><td>总体代表性 Expressed population signal （EPS)</td><td>0.945</td></tr><tr><td>标准误 Standard deviation</td><td>0.241</td><td></td><td>.</td></tr></table></body></html>
+
+样本数为最终用于年表建立的胡杨样芯样本量;时段、公共区间为样本统计值;敏感度、相关系数、自相关系数、标准误为去趋势序列的统计值;EPS、SNR为去趋势序列在公共区间内的平均统计值。SCP表示英苏断面垂直河道0一 ${ \cdot 3 0 0 } \mathrm { ~ m ~ }$ 胡杨标准年表;表中字母含义下同
+
+# 3.2胡杨年轮生长与区域环境因素关系
+
+影响树木生长的生态环境主要为气候因素和水文过程。在气候方面,塔里木河下游1958—2010 年生长季气温有显著增加趋势，突变时间为1991年（图3A);生长季降水在 $1 9 5 8 { \ - } { - } 2 0 1 0$ 年间并未表现出明显的突变（图3B),温度和降水的突变时间与胡杨标准年表的突变时间并不吻合。Pearson 相关分析表明,生长年气温、生长季气温、生长年降水量和生长季降水量对胡杨年轮宽度指数的影响都不显著(图4);同时,气温和降水对地下水埋深的影响也未达到显著水平(图4)。这些结果表明,塔里木河下游气候因素对地下水埋深和胡杨生长均没有显著影响。
+
+![](images/d1c4f8578a89eefe3ada3370c33f20f7cbc360125fec85503544e1c210a75dca.jpg)  
+图3塔里木河下游温度(A)和降水(B)突变点检验  
+Fig.3Mann-Kendall-Sneyers test( $\scriptstyle P > 0 . 0 5 \}$ ）of temperature（A）and precipitation（B）in Lower Tarim RiverUf，UB为原时间序列和反序列变化趋势曲线，IUf，UB！ $> 1 . 9 6$ 表示上升趋势明显，IUf, $\mathrm { U B } | < 1 . 9 6$ 表示下降趋势明显
+
+1972 年后塔里木河下游 $3 2 1 ~ \mathrm { k m }$ 全面断流,河岸胡杨林生存发育主要依赖于地下水,相关分析也证实,地下水埋深与胡杨年轮宽度指数呈显著负相关（图4）。然而英苏断面胡杨年轮宽度指数在1975年才开始下降,表明胡杨生长对河道断流有3年的响应滞后期,这证实地下水位在断流期间是逐渐下降的,经过3年时间英苏断面的地下水位就已下降到抑制胡杨生长的水位之下。2000开始,中国政府启动了拯救塔里木河下游荒漠河岸林的应急生态输水工程,每年为下游人工泄水,以抬升地下水位。200至2015年间共实施了 22 次以拯救塔里木河下游胡杨林为目标的应急生态输水,其中2000、2001、2003、20052010、2011和 2013 年年内分别实施了2次输水，16年间累计实现生态输水 $5 1 . 0 9 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,年内最大输水量 $8 . 2 3 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 、最小输水量为$0 . 1 1 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,14 次将水输送到了-尾闾湖泊-台特玛湖。生长年生态输水量与英苏年均地下水埋深具有显著的负相关性(图4),表明生长年生态输水有效地促进了地下水埋深的抬升,显著地改善了塔里木河下游的水环境。然而值得提出的是,自然年生态输水量与自然年地下水埋深没有显著关系,而与滞后1年的地下水埋深呈现极显著负相关（图4）,表明生态输水的实施与地下水埋深的抬升之间存在1年的滞后效应。但胡杨标准年轮表仅与当年的地下水埋深呈显著负相关,与生长年有效生态输水量呈显著正相关（图 $4 , P { < } 0 . 0 5 )$ ，表明生长年有效生态输水量通过拾升地下水埋深对胡杨木质部径向增加起着显著的正向促进效应。
+
+![](images/d9c99f6ca0265c48de3283cbcfcc96da7a47f1d66d6f42989f288e710364a265.jpg)
+
+由此可见,塔里木河下游胡杨的生长与区域水环境变化过程密切相关,树木年轮主要承载的是区域水文环境的历史变化信息,可以作为定量评估生态输水工程的生态恢复效应和定量计算植被生态需水量的新指标。
+
+# 3.3生态输水对胡杨年轮宽度指数的贡献率及胡杨林 生态需水量计算
+
+为定量辨别生态输水量对胡杨木质部生长的贡献率,分别统计了2000—2015 年生长年生态输水量（图5），生态输水期间(2000—2015年)多年平均年轮宽度指数(1.158)和断流期间（1975—1999年)多年平均年轮宽度指数(0.810），经方程(1)计算显示，生态输水后胡杨年轮宽度指数较断流期间平均增加了0.348，即生态输水对塔里木河下游英苏断面胡杨树木年轮宽度增加的平均贡献率为 $4 2 . 9 6 \%$ ;以断流期间多年平均年轮宽度指数为未实施生态输水的基准值，则2000一2015年间生态输水对胡杨木质部形成的贡献率范围在 $- 5 . 5 6 \%$ 一 $1 4 2 . 9 6 \%$ 之间(表2），其中，负值意味着生态输水的持续中断可能会导致胡杨加速衰败,造成生长速率快速下降,甚至低于1975—1999 年断流期间的平均水平。结合图5和表2可知,如遇到特大洪水季或连续洪水年、丰水年,可根据地下水埋深抬升的滞后效应和树木年轮对河道断流的滞后效应,采取某些生长年内进行1次或连续特大量的生态输水,在接下来的一个干旱或枯水生长年内不再进行生态输水,已抬升的地下水埋深足够满足次年的植物生长发育,如2012年的生长年内共输入生态水 $1 1 . 1 5 { \times } 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 后，尽管2013年生长年输水并不多（仅 $0 . 1 4 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ),但胡杨年轮宽度指数仍保持较高;再如2015年生长年内并未进行生态输水( $0 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } \cdot$ ），但因2014年生长年有较大量的水量下泄$( 4 . 7 8 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ),胡杨在2015年仍保持着较快的径向生长。然而,2008—2010 年连续中断生态输水后,使得2009 年和 2010 年胡杨树木径向生长重归缓慢,甚至低于断流期间的平均生长速率,表明即使在某一次或连续输水使得地下水埋深得到了较大提升,后期生态输水的中断期也不能连续超过2年,否则植被生长又将严重受抑。 ：
+
+![](images/2f70e3c442ba7c13c41e9fe2eefce5dd6e91ae478afd54d952302402c1d23194.jpg)  
+图4胡杨年表与生态环境指标(A)、地下水埋深与生态环境指标(B)及地下水埋深滞后1年与生态环境指标(C)的相关性分析Fig.4Pearsoncorrelationsbetweenecological-environmental factorsandstandardchronologyof Populuseuphraticain（A），andgrondwater depths $\left( \mathbf { B } \right)$ as well as grondwater depths on 1-year time lag（C）in Yingsu Section of Lower Tarim Rive1:生长季气温Averagetemperatureofgrowthseason；2生长年气温Averagetemperaturefgrowthyear；3:生长季降水Averageprecipiatonofgrowthseason；4:生长年降水Averageprecipiationofgrowthyear;5地下水埋深Averagegroundwaterdepth；6：地下水埋深滞后1年Averagegroundwaterdepthonal-yeartimelag;7:自然年生态输水量Ecologicalwaterconveyance；8:生长年生态输水量Ecological waterconveyanceofgrowth year. ?  
+图52000—2015塔河下游生长年生态输水量  
+Fig.5Ecological water conveyance of growth year from 2000- 2015intheLower Tarim River
+
+表2生态输水对塔里木河下游胡杨木质部形成的贡献率  
+
+<html><body><table><tr><td colspan="5">Table 2 Contributionofecologicalwaterconveyancetoring wiut seuphraticainthelowerreachesoftheTarimRiver</td></tr><tr><td>年份 Year</td><td>生态输水后与断流期间 平均年轮宽度指数差值y between ecological water delivery and dried up periods</td><td>生态输水的对木质部 形成的贡献率/%f ecological water conveyance to xylem development</td><td>生态输水后与断流期间 年份 Di平均年轮宽度指数差值 Year between ecological water delivery and dried up periods</td><td>生态输水的对木质部 形成的贡献率/%f ecological water conveyance to xylem development</td></tr><tr><td>2000</td><td>0.219</td><td>27.04</td><td>2008 0.101</td><td>12.47</td></tr><tr><td>2001</td><td>0.607</td><td>74.94</td><td>2009 -0.045</td><td>-5.56</td></tr><tr><td>2002</td><td>0.873</td><td>107.78</td><td>2010 -0.010</td><td>-1.23</td></tr><tr><td>2003</td><td>1.158</td><td>142.96</td><td>2011 0.688</td><td>84.94</td></tr><tr><td>2004 2005</td><td>0.791 0.185</td><td>97.65 22.84</td><td>2012 0.189</td><td>23.33</td></tr><tr><td>2006</td><td>0.309</td><td>38.15</td><td>2013 0.079</td><td>9.75 1.48</td></tr><tr><td>2007</td><td>0.309</td><td>38.15</td><td>2014 0.012</td><td>13.21</td></tr><tr><td></td><td></td><td></td><td>2015 0.107</td><td></td></tr></table></body></html>
+
+以上分析结果表明生长年内有效输水量是保证胡杨木质部生长的关键影响因素。那么,为维持胡杨正常的生长,每一生长年内需要从大西海子下泄多少生态水量呢？通过方程(2)计算,如果要保证塔里木河下游英苏断面胡杨维持多年( $1 9 3 3 { \ - - } 2 0 1 5$ 年)平均径向生长（树木年轮宽度指数0.972）,则每年需下泄生态水量$0 . 8 4 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ;如果要保证塔里木河下游英苏断面胡杨达到断流前(1933—1974年)的平均径向生长（树木年轮宽度指数0.997），则每年需下泄生态水量 $0 . 9 1 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 。
+
+# 4讨论与结论
+
+4.1塔里木河下游胡杨树木年轮承载的环境信息
+
+胡杨作为塔里木河下游荒漠河岸林的唯一乔木,见证了塔里木河下游生态环境变迁的全过程,是记录生态环境变化的绝佳"档案”,其生长发育更能直接反应区域生态恢复的效应[16-7]。王振锡等[16]提出塔里木河下游胡杨树木年轮承载着区域水环境历史变迁信息;徐海量等[12]、安红燕等[18] 、刘海兰等[19]及 $\mathrm { Y } \mathrm { u }$ 等[20]发现生态输水与胡杨木质部径向生长有密切关系;Schilling 等[17]也指出胡杨树木年轮宽度可以作为构建地下水-地表水-植物互作模型的有效参数。本文通过突变分析和相关性分析发现,塔里木河下游温度和降水突变时间与胡杨标准年表突变时间不一致(图2,图3）,气温和降水与年轮宽度指数相关性并不显著(图4）,且气温和降水与地下水埋深相关性也并不显著(图4),但地下水埋深和生态输水量与胡杨年轮年表均呈显著相关（图4）,这进一步证实塔里木河下游胡杨树木年轮并不适宜于重建和反演长时期的气温和降水,胡杨木质部最主要承载的是区域水文环境的历史变化信息,因而,胡杨树木年轮可以作为评估塔里木河下游长时期内地下水埋深变化和生态输水对植被恢复的生态效应的新指标。
+
+# 4.2塔里木河下游胡杨年轮对生态输水的量化响应
+
+生态输水对塔里木河下游胡杨树木年轮宽度增加有积极的促进作用[20-22],本文研究结果也证实了这一结论。滑动t检验显示，塔里木河下游英苏断面胡杨年轮标准年表在2000年开始实施生态输水工程后发生了突变,2000 年后年轮宽度指数显著增加。生态输水主要是通过抬升地下水埋深、改善区域水环境来促进胡杨木质部生长的,但生态输水与地下水抬升存在时滞性[1415],本文也发现自然年生态输水与地下水埋深的抬升有1年的滞后效应(图4),且胡杨当年年轮宽度与当年自然年生态输水量关系不显著,仅与生长年有效生态输水量呈显著正相关(图4),这与 Hao 等[23]研究提出的塔里木河下游植被 NDVI对地下水埋深的响应有1年滞后结论是基本一致的。因此,研究认为在分析生态输水的植被恢复生态效应评估时不能用自然年的生态输水量,而要用生长年有效生态输水量。生长年有效生态输水的实施使得塔里木河下游英苏断面胡杨木质部年均宽度指数较断流区间增加了0.348,生长年有效生态输水对胡杨年轮宽度指数增加的平均贡献率为$4 2 . 9 6 \%$ 。
+
+# 4.3塔里木河下游英苏荒漠河岸林生态输水量的确定
+
+西北干旱区荒漠植被生态需水量的确定一直是荒漠植被生态系统研究的热点[4]。 $\mathrm { \Delta \mathcal { F } u }$ 等[24]用地下水储量、水平衡法结合遥感解译的自然植被面积,计算得出黑河下游自然植被的生态需水量是 $3 . 9 1 \times { 1 0 ^ { 8 } } { \mathrm { - } } 4 . 0 5 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ;Zhang[25 用潜水蒸散发模型和地下水平衡模型计算提出为维持黑河下游哨马营断面的自然植被恢复和稳定的地下水埋深,在 2020 和 2030 年每年需要生态需水量 $6 . 3 5 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ;在塔里木河下游,Ye等[26-27]通过潜水蒸发模型,认为2005 年塔里木河下游荒漠河岸林自然植被的生态需水量是 $2 . 4 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,同时 $\mathrm { Y e }$ 等[28]通过模拟塔里木河下游生态输水后地下水埋深的变化,提出维持距河道 $5 0 0 , 1 0 0 0 , 1 5 0 0 , 2 0 0 0 \mathrm { ~ m ~ }$ 受损生态系统恢复的需水量分别为 $1 . 6 1 \times 1 0 ^ { 8 } \phantom { . } 2 . 4 8 \times 1 0 ^ { 8 } \phantom { . } 3 . 1 9 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } \phantom { . } 3 . 8 2 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 。这些生态需水的计算方法主要采用水量平衡模型,没有涉及生态系统和水文系统的互制机制,没有考虑水分与物种生产力之间的关系,缺乏兼顾植物生理、生态和水文物理过程的系统的定量分析方法[4]。另外,这些生态模型、水文模型或土壤水分模型采用的数据来源是相互独立的,由于观测和实验数据的有限,这些水平衡模型无法诠释水文过程和生态过程的交互作用。树木年轮同时承载着植物生理过程与水文过程信息,为正确计算植物生态需水量提供了新的指标。胡杨是荒漠河岸林的唯一乔木和关键建群种,胡杨林生态需水量基本能代表荒漠河岸林的生态需水量。通过对胡杨树木年轮在生态输水前后的生长差异与输水量关系的建模,计算发现如果要保证塔里木河下游英苏断面垂直河道 $3 0 0 \mathrm { ~ m ~ }$ 范围内胡杨平均径向生长达到近90 年的(1933—2015 年)生长速率,每一生长年需从大西海子为下游下泄生态需水量 $0 . 8 4 \times 1 0 ^ { 8 } \mathrm { ~ m ~ } ^ { 3 }$ ;如果要保证垂直河道 $3 0 0 \mathrm { ~ m ~ }$ 范围内胡杨达到断流前（1933—1974年)的平均径向生长,则每一生长年下泄生态需水量 $0 . 9 1 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 。这个数值比Ye等[28]的计算结果小，除计算方法差异外,其可能原因还包括前者计算的是维持整个下游荒漠河岸林的生态需水,而我们的结果仅是维持大西海子到英苏断面荒漠河岸林的生态需水。
+
+研究显示,胡杨具有显著的根系水力提升能力,能通过主根和侧根将深层土壤水和地下水提升释放在离胡杨主干 $4 ~ \mathrm { m }$ 范围内的 $6 0 { - } 1 2 0 ~ \mathrm { c m }$ 浅土层[1],这些浅土层的土壤水分正好可以供给草本植物或浅根灌木生长发育。一般而言,在塔里木河下游,胡杨生长的适宜生态水位是2一 ${ \bf \cdot } 4 { \bf \delta m }$ ,胁迫水位是 $6 \mathrm { ~ m ~ }$ ,限制胡杨生长的极限地下水埋深 ${ > } 8 \mathrm { ~ m } ^ { [ 2 9 - 3 1 ] }$ ,而胡杨根系在垂直方向上主要集中在120— $1 7 0 ~ \mathrm { c m }$ [32],野外调查发现其主根系甚至可深达 $6 \mathrm { ~ m ~ }$ 以上。同位素研究还显示,胡杨根系吸水主要来源于 $3 7 5 \ \mathrm { c m }$ 以下的地下水[33]。因而,根据胡杨根系分布特征和水分吸收特点，研究建议在地下水埋深降至4— ${ \cdot 6 \mathrm { ~ m ~ } }$ 时应及时进行生态输水，以抬升地下水埋深保证胡杨根系能正常吸收到水分。
+
+综上所述,本文提出了采用胡杨树木年轮作为定量评估生态输水的植被恢复效应和生态需水量计算的新指标,为定量计算干旱区断流河道天然植被生态需水量和未来研究植被生理——生态过程与水文过程互作机制提供了一个技术方法。但本文计算结果是基于仅保护大西海子水库到英苏断面距河道 $3 0 0 \mathrm { ~ m ~ }$ 范围内胡杨林,并不是涵括整个塔里木河下游区域,因此今后还需进一步扩大研究区域范围,为塔里木河流域水资源管理和生态输水工程的科学实施提供更为详尽和科学的数据支撑。
+
+# 参考文献（References）：
+
+1 王根绪，程国栋.干旱内陆流域生态需水量及其估算一 以黑河流域为例.中国沙漠，2002，22（2)：129-134.  
+[2] ChenYN,LiWH,DengHJ,FangGH,LiZ.ChangesinentralAsia'swatertower：Pastpresentandfuture.ScientificReports，016,6: 35458.  
+[3] Chen YN,LiBI Li Z,LiWH.Waterresource formationand conversionand watersecurityinaridregionof Northwest China.Joumal ofGeographical Sciences 2016，26(7):939-952.  
+[4] ChenYN,XuCC,ChenYP,LuYB,LiWHProgress，hallngesandprospetsfeco-hydrologicalstudiesinteTarimRverBsifXinjiang，China.Environmental Management，2013，51(1)：138-153.  
+[5] LingHB,ZhangP,XuH,ZangGDeteiingteologalwaterlcationinyer-aridatchentwithiceasingompeitioforwaterre es.Global and Planetary Change，2016,145：143-152.  
+[6] AmrI,KaelS，lGoharyGamaberJ.Waterascologicalfactorforasustaiableampusndsaperocedia-oalandhaalSciences，2016,6：181-193.  
+[7] FarrerEC,AshtoWasoecJuozalJdngKresfglaccateeatiibut not ecosystem function in alpine tundra. Journal of Ecology，2015，103(2）：351-360.  
+[8] FarrerEC,AshtoIW,KnaeJ，dingKNeparatingdiandindirettsof balhageopuaodaicodelingacusing readily available field data.Global Change Biology，2014,20(4）：1238-1250.  
+[9] LinderholmHW,NiklasonM，Molin.SummermoisturevarabilityineastcentralSwedensincethemid-eightenthcenturyrecoedintreerings.Geografiska Annaler，Series A:Physical Geography,2004，86(3）:277-287.  
+[10] 李卫红，郝兴明，覃新闻，陈亚宁，黄湘.干旱区内陆河流域荒漠河岸林群落生态过程与水文机制研究.中国沙漠，2008，28（6)：1113-1117.  
+[11] HaoXM,ChenY,LiWH,uoB,ZaoRFHydrlicliftinopuluseuaticaOlvfrotedesertiparanvegetatioofthriierBasin.Journal of Arid Environments，2010，74(8）：905-911.  
+[12] 徐海量，邓晓雅，赵新风.河道断流对胡杨(Populus euphratica)径向生长量的影响.中国沙漠，2013,33（3)：731-736.  
+[13] ChenYN,LiWH,XuCC,YeZX,ChenYP.Desertriparianvegeationand groundwaterinthelowerreachesof theTrimRiverbasin.Environmental Earth Sciences，2015,73(2）：547-558.  
+[14] 邓正波.塔里木河下游应急输水的地下水响应与生态需水研究[D].南京：河海大学，2005.  
+[15] 白元，徐海量，张青青，叶茂.基于地下水恢复的塔里木河下游生态需水量估算.生态学报，2015，35（3)：630-640.  
+[16] 王振锡，潘存德，石鑫鑫.胡杨年轮记录的塔里木河下游54年来区域水环境历史变迁.生态环境学报，2010,19（3)：637-645.  
+[17] SchilingOS,DhertyJKinzelbachW,WangHYangruerP.Usingtreingdataasaproyfortraspirationteduceprdictieuncertaintyofamodelsimulatinggroundwater-sufacewater-vegetationinteractions.JouralofHydrology，2O14,519:2258-2271.  
+[18] 安红燕，徐海量，叶茂，禹朴家，龚君君.塔里木河下游生态输水后胡杨径向生长量的时空变化.应用生态学报，2011,2(1)：29-34.  
+[19] 刘海兰.塔里木河不同断面胡杨径向生长对水分响应的研究[D].乌鲁木齐：新疆师范大学，2015.  
+[20] YuPJ,XuH,Ye,LiuSWgJJAHuJectsfollwateroyaoegiceentsofusicain the lower reaches of Tarim River.Journal of Forest Research,2012,17(5）:413-420.  
+[21] 孙卫，侯平，李霞.胡杨枝直径生长对塔里木河下游应急输水的响应.生态学报，2006，26(9)：2913-2917.  
+[22] DengXY,XuH,Ye,LiBuJ,YangZF.Ipactoflog-tezeroflowndolcalwateroeyaeothalitfPopuluseuphraticainthelowerreachesoftheTarimRiver，Xinjiang，China.RegionalEnvironmentalChange,2O15,15（1)：3-23.  
+[23] HaoXM,LiWpactoflalateoeceoatedasdgeateyineosoftierin northwest China.Environmental Monitoring and Assessment，2014，186(11）：7605-7616.  
+[24] FuXF,HeHM,angXH,YangST,WangGQaturalologicalwaterdmandintelowerHeieRiver.FrontiersofEnvirotaliece& Engineering in China,2008，2（1）: 63-68.  
+[25] Zhang ZH.Tre-rings，akeycologicalindicatorof environmentandclimatechange.Ecological Indicators，2015,51:10-116.  
+[26] YeZX,ChenY,LiW.EologalwaterdeadfaturalvegeatioinhelowerTariiverJoalfgacalSieces,(2) : 261-272.  
+[27]YeZX，henY,LWH,YanY，WanJH.GoundaterfuctuatiosinducedbycologicalwatercoveyanceintelowerTariiveXinjiang，China.Journal of Arid Environments，2009,73(2）:726-732.  
+[28] YeZX，ChenYiWYanYfofeolgcalwatveeprjetoontineLerTrive，Xigha.Environmental Monitoring and Assessment,2009,149(1/4）：9-17.  
+[29] ChenYN,WangQ,LiWH,uanX,ChenYP,ZhangLH.Ratioalgroundwatertableindicatedbyeeco-physiologicalparaesftevegetation；acasesudyofecologicalrestorationinthelowerreachsof teTarimRiver.ChineseSienceBuletin,O6,51（）：8-15.  
+[30] ChenYP,CenY,XuCC,LiWHGoudwaterdepthftsthedilursefgasechangeprametersofopuusupaicaiideas.Environmental Earth Sciences，2012，66(2)：433-440.  
+[31] 郝兴明，李卫红，陈亚宁.新疆塔里木河下游荒漠河岸（林)植被合理生态水位.植物生态学报，2008，32(4)：838-847.  
+[32] 叶茂，徐海量，王晓峰，申瑞新.塔里木河下游阿拉干断面胡杨根系空间分布规律研究.西北植物学报，2011,31（4)：801-807.  
+[33] ChenYP,ChenYN,XuCC,LiWHTheefectsofgroundwaterdepthonwateruptakeofPopuluseuphaticaandTmarixramossimaihehyperarid region of Northwestern China.Environmental Scienceand Pollution Research,2016,23（17）：17404-17412.

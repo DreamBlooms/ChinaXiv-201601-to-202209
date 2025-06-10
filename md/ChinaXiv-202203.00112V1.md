@@ -1,0 +1,249 @@
+# 黄河源区不同退化程度高寒草地理化性质及复合体抗剪强度研究
+
+杨馥铖¹，刘昌义'，胡夏嵩'，李希来²，付江涛，卢海静²，申紫雁¹，许桐¹，闫聪¹，何伟鹏1
+
+(1.青海大学地质工程系,青海 西宁 810016；2.青海大学 农牧学院,青海 西宁 810016;3.青海大学 农林科学院,青海 西宁 810016)
+
+摘要：为研究黄河源区高寒草地退化对土体理化性质及根-土复合体抗剪强度影响,本研究以位于黄河源区青海河南县地区高寒草地为研究对象,通过开展不同退化程度草地野外取样及室内试验,获得土体密度、含水率、颗粒级配、土壤营养元素和植物根-土复合体抗剪强度指标及变化特征。结果表明：(1)在相同退化程度和取样深度下,南旗村试验区土体平均密度为启龙牧场的1.02\~1.29倍，土体含水率表现出随着草地退化程度加剧而降低；2个试验区土壤有机质、全氮、全磷等随着草地退化程度加剧而降低。(2）区内根-土复合体抗剪强度随草地退化程度加剧而降低，启龙牧场与南旗村试验区其上层（ $( 0 { \sim } 1 0 ~ \mathrm { c m } )$ 、下层（ $1 0 { \sim } 2 0 ~ \mathrm { c m } ,$ 降低幅度分别为 $7 2 . 0 5 \%$ / $4 8 . 7 7 \%$ 和$7 7 . 2 6 \% . 8 1 . 3 7 \%$ ;进一步研究表明，根-土复合体所含根系数量和根系干重表现出随着草地退化程度加剧呈逐渐降低,启龙牧场与南旗村试验区其上层和下层的根-土复合体所含根系数量降低幅度分别为 $7 9 . 2 8 \%$ ） $7 5 . 9 3 \%$ 和$9 2 . 4 8 \% . 3 9 . 5 9 \%$ （3）根据WWM模型和Pearson相关性分析结果可知,根系数量和营养元素含量减少对根-土复合体抗剪强度具有显著降低作用。本研究结果对于黄河源区高寒草地合理防治草地退化，以及水土流失、浅层滑坡等灾害具有实际指导意义。
+
+关键词：黄河源区；草地退化；理化性质；根-土复合体；抗剪强度；相关性分析
+
+黄河源区位于青藏高原东北部，涉及青海、四川、甘肃3省的6个州、18个县，总面积约 $1 2 . 2 \times 1 0 ^ { 4 }$ $\mathrm { k m } ^ { 2 [ 1 ] }$ 。近50a来，由于受到人为和自然因素等影响，源区高寒草地出现不同程度退化现象，其结果影响到源区生态平衡，直至目前，区内草地退化现象仍在不同程度地发生[2-4]。李旭谦等[5]研究结果表明，青海境内退化草地面积占天然草地总面积的$7 4 . 7 0 \%$ ，其中，轻度退化草地面积占天然草地总面积的 $3 1 . 4 5 \%$ ,中度退化草地面积占 $1 9 . 1 4 \%$ ，重度退化草地面积占 $2 4 . 1 1 \%$ 。进一步研究表明，区内草地退化还引发一系列生态问题，表现在地表植物群落物种组成发生变化、牧草品质和产量降低、草畜矛盾突出，以及草地碳储量降低、温室气体排放增加、物种多样性失衡和减少、灾害天气频发等现象[6]因此，科学有效地开展黄河源区草地退化防治是一项非常紧迫的任务。
+
+针对黄河源区草地退化的实际问题，国内外诸多学者开展了不同方面的研究，并取得了较为丰富的研究成果[7-13]。有关高寒草地土壤基本理化性质及草地退化治理方面，亦取得大量研究成果[14-20]Sun等2研究了青海玛沁大武乡高寒草甸退化对草地植被类型、土壤理化性质及微生物群落影响，结果表明由未退化至重度退化等不同退化程度草地，其植被覆盖度由 $9 8 \%$ 降低至 $4 8 \%$ ，土壤总氮等营养元素呈降低趋势，且土壤密度增加 $1 6 . 6 7 \%$ 。王婷等[22]研究了黄河源区玛多地区高寒草原退化过程中植物群落特征和土壤理化特性，结果表明随着草地退化程度加剧，区内植物物种丰富度降低 $5 0 \%$ ）多样性降低 $3 9 . 6 6 \%$ 、地上生物量降低 $4 0 . 5 8 \%$ ;进一步分析表明，在未退化至重度退化等不同退化程度草地，其植物优势种由紫花针茅(Stipa purpurea）和矮嵩草(Kobresiahumilis)演替为杂类草，最后为以沙生植物为主。
+
+有关黄河源区高寒草地根-土复合体力学机理研究方面，亦开展了一定程度研究[23-27]。申紫雁等[28]研究了黄河上游青海河南县高寒草地不同深度土体理化性质和抗剪强度特征，结果表明随着深度增加草地和退化裸地其土体含水率呈降低趋势，降低幅度分别为 $4 2 . 8 8 \% , 2 2 . 2 3 \%$ ;而土体密度则呈增加趋势且增加幅度分别为 $1 8 . 3 1 \% . 2 0 . 6 6 \%$ ;草地根-土复合体抗剪强度则随深度增加而降低，其降低幅度为 $5 9 . 5 5 \%$ 。刘昌义等29研究了黄河源区河南县地区高寒草地由未退化至重度退化等不同退化程度的植物根-土复合体抗剪强度特征，结果表明随着草地退化程度加剧，其复合体抗剪强度与根系含量呈降低趋势，黏聚力 $\boldsymbol { \mathbf { \mathit { c } } }$ 值由未退化至重度退化降低$7 3 . 5 2 \%$ ,而根系含量则由 $1 8 . 8 6 \%$ 降低至 $0 . 7 4 \%$ 。
+
+综合以上分析可知，有关黄河源区高寒草地退化方面的研究，主要表现在对退化草地其生态结构、草地退化成因、植物组合，以及草地植物演替过程等方面；与此同时，有关黄河源区高寒草地退化与根-土复合体力学强度方面的研究成果还相对较少，尤其是关于黄河源区不同退化程度高寒草地土壤力学强度特征，及其与草地退化之间的相互作用关系等方面研究尚处于起步阶段。基于此，本项研究将黄河源区高寒草地土壤基本理化性质与根-土复合体抗剪强度相结合，进一步探讨了区内高寒草地退化规律，其研究结果为科学有效防治黄河源区草地退化及其引起的水土流失、浅层滑坡等灾害现象发生，提供理论支撑和实际指导。
+
+# 1 研究区概况
+
+研究区位于青海黄南藏族自治州河南蒙古族自治县境内，包括区内南旗村、启龙牧场2个试验区（图1）。其中，启龙牧场试验区地理坐标为$1 0 1 ^ { \circ } 5 0 ^ { \prime } 0 8 ^ { \prime \prime } \mathrm { E } , 3 4 ^ { \circ } 3 5 ^ { \prime } 1 2 ^ { \prime \prime } \mathrm { N }$ ，平均海拔为 $3 6 0 0 \mathrm { ~ m ~ }$ ;南旗村试验区地理坐标为 $1 0 1 ^ { \circ } 2 7 ^ { \prime } 5 4 ^ { \prime \prime } \mathrm { E }$ $3 4 ^ { \circ } 5 1 ^ { \prime } 3 2 ^ { \prime \prime } \mathrm { N }$ ，平均海拔为 $3 5 8 0 \mathrm { m } , 2$ 处试验区相隔距离为 $4 5 \mathrm { k m }$ 。区内为高原亚寒带湿润气候区，地形条件复杂且受季风影响，属于高原大陆性气候[30]。河南县地区年平均气温为 $9 . 2 { \sim } 1 4 . 6 ~ \mathrm { ^ { \circ } C }$ ,年降雨量为 $5 9 7 . 1 { \sim } 6 1 5 . 5 \ \mathrm { m m }$ ，相对湿度为 $6 2 \% { \sim } 6 6 \%$ ,年蒸发量为 $1 3 4 9 . 7 0 \mathrm { m m } ^ { [ 2 3 ] }$ 。
+
+![](images/4e5c1b59c4fb502a1f61367849901e26921d60dd018760109f9520cb8acbcf2a.jpg)  
+图1研究区位置示意图  
+Fig.1 Location diagram of study area
+
+区内植物分布类型与海拔、坡向之间关系密切，前者表现在雪线以下至海拔高度为 $4 2 0 0 \mathrm { ~ m ~ }$ 处分布苔藓和垫状低等植被，海拔 $3 6 0 0 { \sim } 4 2 0 0 ~ \mathrm { m }$ 为高山嵩草（Kobresiapygmaea）、矮生嵩草（Kobresia humi-lis）及线叶嵩草（Kobresiacapillifolia）,海拔 $3 5 0 0 \sim$ $3 6 5 0 \mathrm { ~ m ~ }$ 以嵩草属(Kobresia)为主，并伴生细叶苔草(Carexrigescens）早熟禾(Poaannua)等植被类型[31]
+
+# 2 试验材料与方法
+
+# 2.1野外调查与取样
+
+本研究选取南旗村、启龙牧场作为试验区，根据区内草本植物生长状况、地表植被覆盖度等条件，将区内草地依次划分为：未退化、轻度退化、中度退化和重度退化4种不同退化程度[32]；在此基础上，采用样方调查法得到草地地上生物量，然后分别对4种不同退化程度草地原位制取试样，进行室内营养元素测试、含水率、密度、颗粒级配分析及根-土复合体剪切试验，具体为：在区内每种不同退化程度草地设置3\~4个取样点，采用分层制取试样的方法，分别在地表以下上层( $[ 0 { \sim } 1 0 ~ \mathrm { c m } ]$ 和下层一 ${ 1 0 { \sim } 2 0 } ~ \mathrm { c m } ,$ 2个位置处制取试样。在制取试样过程中，每个取样位置处相应制取土体含水率试样每层
+
+2个、土壤营养元素试样每层 $2 0 0 ~ \mathrm { g }$ 、颗粒级配试样$5 0 0 ~ \mathrm { g }$ ,根-土复合体直剪试样按照每层制取4个试样作为1组(同时用于土体密度试验）。
+
+# 2.2草本植物类型与生长特征调查
+
+对野外2个试验区草本植物生物量调查采用样方法进行，即在每种不同退化程度草地依次布置3个样方，并统计样方框内草地优势草本植物种类、植被盖度等生物量指标。区内4种不同退化程度草地及植物生长情况如图2所示。
+
+# 2.3土体物理性质
+
+2个试验区草地其土体密度、土体含水率和土体颗粒分析测试，分别采用环刀法、烘干法和筛分法进行。
+
+# 2.4土壤营养元素
+
+分别对南旗村、启龙牧场2个试验区，其不同退化程度草地土壤营养元素进行试验测试。测试指标主要包括全氮、全磷、全钾、碱解氮、速效磷、速效钾、有机质 $\mathrm { \nabla \cdot ^ { p H } }$ 值等8种。具体试验测试方法如表1所示。
+
+# 2.5根-土复合体直剪试验
+
+对区内草地制取的根-土复合体试样，采用ZJ型应变控制式直剪仪进行室内直剪试验。试验时，首先将取样位置处的植物修剪至与地表土体平行，并在地表土体垂直向下 $0 { \sim } 1 0 \ \mathrm { c m } , 1 0 { \sim } 2 0 \ \mathrm { c m }$ 处，将内径 $6 . 1 8 ~ \mathrm { c m }$ 高 $2 \mathrm { c m }$ 环刀垂直压入土体中，直至试样完全压入环刀为止，使用剪刀修整环刀两侧土体，待两侧土体平整后立即装入环刀盒中，贴上标签，
+
+(b)南旗村试验区
+
+![](images/ea306330a42803f518cfc81970609691df9196fa48b2c36400356de588208f84.jpg)  
+(a)启龙牧场试验区   
+图24种不同退化程度草地及其草本植物生长情况
+
+Fig.2 Four different degradation degrees grasslands and herbaceous growth situation
+
+# 表14种不同退化程度草地土壤营养元素测定指标及测试方法
+
+Tab.1 Soil nutrient elements of four different degraded grassland and measurement methods   
+
+<html><body><table><tr><td>序号</td><td>测试项目</td><td>测试方法</td></tr><tr><td>1</td><td>全氮</td><td>凯氏定氮法</td></tr><tr><td>2</td><td>全磷</td><td>酸溶—钼锑抗比色法</td></tr><tr><td>3</td><td>全钾</td><td>氢氟酸高氯酸消煮法</td></tr><tr><td>4</td><td>碱解氮</td><td>碱解一扩散法</td></tr><tr><td>5</td><td>速效磷</td><td>碳酸氢钠浸提一钼锑抗比色法</td></tr><tr><td>6</td><td>速效钾</td><td>乙酸铵浸提一火焰光度法</td></tr><tr><td>7</td><td>有机质</td><td>高温外加热重铬酸钾氧化容量法</td></tr><tr><td>8</td><td>pH值</td><td>电位法</td></tr></table></body></html>
+
+并用胶带将环刀盒封口，防止水分蒸发[33]。按照上述制样方法，通过室内直剪试验得到根-土复合体抗剪强度指标黏聚力 $\boldsymbol { \mathbf { \mathit { c } } }$ 值和内摩擦角 $\varphi$ 值；与此同时，待直剪试验结束后，将每组4个环刀试样中根-土复合体采用水洗法，洗去复合体中的土颗粒而保留其根系，然后烘干根系表面水分并统计根系数量、干重和根径等相关指标[23]
+
+# 3结果与分析
+
+# 3.14种不同类型退化区草本植物分布特征
+
+由表2可知，2个试验区4种草本其覆盖度随着草地退化程度加剧而降低，尤其在重度退化区其覆盖度呈显著性降低，表现在启龙牧场试验区植被覆盖度由 $9 8 . 2 0 \%$ 降低至 $2 0 . 0 \%$ ,植物株高由 $1 1 . 0 2 \ \mathrm { c m }$ 降至 $4 . 0 0 \ \mathrm { c m }$ ;南旗村试验区植物覆盖度由 $1 0 0 . 0 0 \%$ 降至 $3 6 . 6 7 \%$ ,植物株高由 $2 9 . 2 0 \mathrm { c m }$ 降至 $6 . 6 0 \mathrm { c m }$ 。进一步分析可知，区内4种不同退化程度草地演替过程表现为，2个试验区草地植物由原生植物矮嵩草（Kobresia humilis）、紫花针茅（Stipa purpurea）早熟禾(Poaannua)逐渐向次生植物密花香薷(Elsholtziadensa）、青海风毛菊（Saussureapulchra）、麻花苏(Gentianastraminea)演替，该结果说明随着草地退化程度加剧，区内草地杂草类植物其生物量呈增加的变化趋势。
+
+表24种不同退化程度草地样方调查结果  
+Tab.2Surveyresultsof fourdifferent degraded grassland   
+
+<html><body><table><tr><td>试验区</td><td>草地退化程度</td><td>优势草本植物类型</td><td>平均株高/cm</td><td>植被覆盖度/%</td></tr><tr><td rowspan="3">启龙牧场</td><td>未退化</td><td>矮嵩草</td><td>11.02±4.16</td><td>98.20</td></tr><tr><td>轻度退化</td><td>矮嵩草</td><td>11.73±0.46</td><td>80.00</td></tr><tr><td>中度退化</td><td>矮嵩草+细叶亚菊组合</td><td>12.90±3.65</td><td>63.33</td></tr><tr><td rowspan="5">南旗村</td><td>重度退化</td><td>密花香薷</td><td>4.00±1.35</td><td>20.00</td></tr><tr><td>未退化</td><td>矮嵩草+垂穗披碱草组合</td><td>29.20±20.97</td><td>100.00</td></tr><tr><td>轻度退化</td><td>矮嵩草</td><td>7.27±1.76</td><td>100.00</td></tr><tr><td>中度退化</td><td>矮嵩草+垂穗披碱草组合</td><td>20.33±5.34</td><td>76.67</td></tr><tr><td>重度退化</td><td>密花香薷为主且大部分退化为裸地</td><td>6.60±1.58</td><td>36.67</td></tr></table></body></html>
+
+启龙牧场试验区未退化区以矮嵩草(Kobresiahumilis)为主要类型,含部分紫花针茅（Stipa pur-purea）、早熟禾（Poaannua）,次生植物种则以黄花苜蓿（Medicago falcata）页蒿(Carumcarvi)为主,并伴有少量麻花苏（Gentianastraminea）、翻白委陵菜(Potentilla discolor）、青海风毛菊(Saussurea pulchra)等种类;轻度退化区以矮嵩草(Kobresiahumilis）为主要类型,紫花针茅（Stipa purpurea)和早熟禾(Poaannua)数量呈减少趋势，垂穗披碱草(Elymusnu-tans)数量相对增加，次生植物以黄花苜蓿(Medica-go falcata)为主,且细叶亚菊(Ajania tenuifolia）青海风毛菊(Saussurea pulchra)等种类呈逐渐增加趋势;中度退化区主要为矮嵩草(Kobresiahumilis） $^ +$ 细叶亚菊(Ajaniatenuifolia)组合类型，原生草本种类显著性减少，且以次生植物为主要组成，原生植物以矮嵩草(Kobresiahumilis）和早熟禾（Poaannua）为主,次生植物以细叶亚菊(Ajania tenuifolia)为主,伴生密花香薷（Elsholtziadensa）、翻白委陵菜(Potentil-ladiscolor）、黄花苜蓿（Medicago falcata)等种类,该区表现出草本植物多样性呈显著性降低趋势;重度退化区草本其多样性亦表现出呈显著性降低且以次生植物为主，其中主要以密花香薷(Elsholtziaden-sa)为主要类型,且伴生露蕊乌头(Aconitum gymnan-drum）西藏微孔草(Microulatibetica）臭蒿(Artemisia hedinii)等次生草本种。
+
+相应地，南旗村试验区未退化区主要以矮嵩草(Kobresiahumilis) $^ +$ 垂穗披碱草(Elymusnutans)组合类型为主，并含部分原生草本早熟禾（Poaannua）、紫花针茅（Stipa purpurea）,次生植物主要为青海风毛菊（Saussurea pulchra）、蒲公英(Taraxacum mongo-licum）黄帚橐吾(Ligularia virgaurea）麻花苏（Gen-tianastraminea)等类型;轻度退化区以矮嵩草(Kobresiahumilis)为主要类型,其中,垂穗披碱草(Ely-musnutans)数量增加较为显著，而早熟禾(Poaan-nua）、紫花针茅(Stipa purpurea)其数量则呈逐渐减少趋势，次生植物种类和数量均表现出减少的特征；中度退化区主要为矮嵩草(Kobresiahumilis） $+$ 垂穗披碱草(Elymusnutans)组合类型,其中鹅绒委陵菜(Potentillaanserina)数量增加且为主要类型，早熟禾（Poa annua）紫花针茅（Stipa purpurea)等数量呈逐渐减少，次生种还包括黄帚橐吾(Ligulariavir-gaurea）青海风毛菊(Saussureapulchra）湿生扁蕾（Gentianopsispaludosa）密花香薷（Elsholtziadensa）等类型;重度退化区则以密花香薷(Elsholtziadensa）为主要类型，其中除少量毛湿地繁缕(Stellariaalas-chanica)以外，大部分区域退化为裸地。
+
+# 3.24种不同退化草地区土体物理性质特征
+
+3.2.1土体密度及其变化特征由表3可知，区内启龙牧场和南旗村2个试验区，草地土体密度总体表现出下层大于上层，且2个试验区相同退化程度下草地土体密度增加幅度分别为 $3 . 8 8 \% \sim 1 6 . 8 2 \%$ 和$3 . 5 0 \% { \sim } 1 4 . 0 4 \%$ 。进一步分析可知，南旗村试验区草地土体密度大于相同位置启龙牧场试验区，且南旗村试验区未退化草地其土体密度相对最大，相比较启龙牧场试验区其上层、下层增加幅度分别为$1 0 . 8 5 \%$ 和 $1 0 . 4 5 \%$ 。与此同时，随着草地退化程度加剧，2个试验区其土体密度呈先减小后增大的变化规律。
+
+3.2.2土体含水率及其变化特征由表3可知，相同位置处2个试验区其上层土体含水率大于下层（除南旗村试验区未退化区上层外），且启龙牧场试验区土体含水率大于南旗村相同退化程度草地。
+
+表34种不同退化程度草地土体物理性质  
+Tab.3Experimental results of physical property of four grassland soils with different degradation degrees   
+
+<html><body><table><tr><td rowspan="2">试验区</td><td rowspan="2">退化程度</td><td colspan="2">土体密度/(gcm)</td><td colspan="2">土体含水率/%</td></tr><tr><td>上层</td><td>下层</td><td>上层</td><td>下层</td></tr><tr><td>启龙牧场</td><td>未退化</td><td>1.29±0.29</td><td>1.34±0.13</td><td>57.79±4.82</td><td>53.08±16.53</td></tr><tr><td></td><td>轻度退化</td><td>1.07±0.04</td><td>1.25±0.05</td><td>56.82±5.25</td><td>44.39±12.50</td></tr><tr><td></td><td>中度退化</td><td>1.20±0.17</td><td>1.27±0.13</td><td>41.80±5.11</td><td>38.68±9.82</td></tr><tr><td></td><td>重度退化</td><td>1.19±0.10</td><td>1.35±0.17</td><td>39.41±3.58</td><td>33.79±18.69</td></tr><tr><td>南旗村</td><td>未退化</td><td>1.43±0.09</td><td>1.48±0.15</td><td>45.53±8.45</td><td>48.04±3.20</td></tr><tr><td></td><td>轻度退化</td><td>1.38±0.10</td><td>1.45±0.12</td><td>38.85±4.17</td><td>32.64±1.33</td></tr><tr><td></td><td>中度退化</td><td>1.14±0.01</td><td>1.30±0.15</td><td>33.96±7.26</td><td>27.96±8.37</td></tr><tr><td></td><td>重度退化</td><td>1.21±0.15</td><td>1.35±0.10</td><td>29.87±1.04</td><td>28.55±1.64</td></tr></table></body></html>
+
+其中，草地上层和下层含水率差异最为显著的是启龙牧场和南旗村试验区的轻度退化区，降低幅度分别为 $2 1 . 8 8 \%$ 和 $1 5 . 9 8 \%$ ；进一步分析可知，2个试验区草地土体含水率均表现出随退化程度加剧而逐渐降低(除南旗村试验区重度退化区下层土体外），且南旗村试验区降低幅度相对较大为 $4 1 . 8 0 \%$ ，启龙牧场试验区则相对较小为 $3 6 . 3 4 \%$ 。
+
+3.2.3土体颗粒级配及其变化特征由图3可知，区内草地土体颗粒粒径主要为 $5 { \sim } 0 . 1 ~ \mathrm { m m }$ ，且多数分布在 $2 { \sim } 0 . 1 ~ \mathrm { m m }$ ,在土体颗粒粒径大于 $0 . 1 \ \mathrm { m m }$ 时，启龙牧场试验区相同粒径土体颗粒其含量表现出随草地退化程度加剧呈降低变化规律；相应地，南旗村试验区中度退化程度条件下，草地其土体颗粒粒径为 $1 { \sim } 0 . 2 \ \mathrm { m m }$ 时含量相对最多，为 $7 6 . 0 1 \%$ ○
+
+由表4可知，启龙牧场试验区土体不均匀系数$C _ { \mathrm { u } }$ 呈先减小后增大的变化规律，其值为 $0 . 9 0 { \sim } 1 . 1 5$ 反映出启龙牧场试验区上层土体为不良级配砂类土;南旗村试验区土体不均匀系数 $C _ { \mathrm { u } }$ 则呈先增大后减小再增大的变化规律，其值为 $0 . 7 1 { \sim } 1 . 1 0$ ，亦为不良级配砂类土。而启龙牧场试验区土体 $d _ { 6 0 }$ 和 $d _ { 3 0 }$ 整体表现出随着草地退化程度加剧而增大，且其增加幅度分别为 $4 4 . 3 3 \%$ 和 $6 1 . 6 3 \%$ ,反映出土体细颗粒含量随着草地退化程度加剧而减小;相应地，南旗村试验区草地土体 $d _ { 6 0 }$ 随着草地退化程度加剧呈先减小后增大，且其 $d _ { 3 0 }$ 变化规律与启龙牧场试验区基本相一致，表明随着区内草地退化程度加剧，4种不同退化程度草地其上层土体细颗粒含量呈逐渐减小。
+
+# 3.3土壤营养元素特征
+
+如表5、表6所示为研究区不同退化程度草地土壤营养元素含量测试结果。由该表可知，启龙牧场试验区草地上、下层土壤其平均 $\mathrm { \ p H }$ 为7.11\~7.45，南旗村试验区为7.22\~7.42，均呈中性至弱碱性，2个试验区其pH随退化程度加剧而逐渐增强，且2个试验区同种退化程度下土壤 $\mathrm { \ p H }$ 均表现为其下层大于上层(除南旗村试验区轻度退化区例外）。在同一试验区同种退化条件下，其上层土壤有机质、全氮和全磷含量均显著大于下层。2处试验区其土体7种土壤营养元素中以土壤有机质含量相对较大，且表现出随退化程度加剧而降低，即启龙牧场试验区由未退化草地至重度退化草地其上层土壤有机质平均含量降低幅度为 $1 2 . 4 1 \%$ ,其下层土壤有机质平均含量降低幅度为 $5 . 9 5 \%$ ;相应地，南旗村试验区其上、下层土壤有机质降低幅度分别为 $3 5 . 5 6 \%$ 、$3 0 . 4 6 \%$ 。
+
+草地全氮含量测试结果表明，启龙牧场试验区其轻度退化区上层土壤全氮含量相对最高为7.00$\mathrm { g \cdot k g ^ { - 1 } }$ ,而南旗村试验区其重度退化区上层相对最低为 $3 . 8 3 ~ \mathrm { g \cdot k g ^ { - 1 } }$ ，土壤全氮含量总体表现出随着草地退化程度加剧呈逐渐降低。此外，2处试验区土壤中全氮、全钾、全磷3种元素含量均大于 $1 . 0 0 \ \mathrm { g \cdot k g ^ { - 1 } }$ ，而土壤碱解氮、速效钾和速效磷等3种营养元素含量相对较低且均小于 $1 . 0 0 \ \mathrm { g \cdot k g ^ { - 1 } }$ 。在同一试验区相同退化条件下，上层土壤碱解氮和速效钾含量亦显著大于下层(除启龙牧场试验区重度退化区例外）。
+
+# 3.4植物根-土复合体抗剪强度特征
+
+由表7可知，区内根-土复合体黏聚力 $\boldsymbol { c }$ 值，表现出随着草地退化程度加剧而逐渐降低，而其内摩擦角 $\varphi$ 值则随着草地退化程度加剧而增大。启龙牧场试验区内，与未退化区相比较，上层根-土复合体平均黏聚力 $\boldsymbol { c }$ 值在轻度、中度和重度退化条件下分别
+
+![](images/869678b42badb2503bb8b2d60636d559dfc373fd00c56f2c9034ff285720e7f5.jpg)  
+图34种不同退化程度草地上层土体颗粒级配曲线
+
+Fig.3The accumulation of the upper soil particle size of four grasslands with different degradation degrees降低 $5 1 . 4 8 \%$ 、 $5 0 . 1 9 \%$ 、 $7 2 . 0 5 \%$ ，下层则分别降低$6 8 . 6 4 \% . 7 8 . 1 2 \% . 7 7 . 2 6 \%$ ;相应地，在南旗村试验区内，与未退化区相比较，各退化区其上层根-土复合体分别降低 $2 5 . 3 5 \% . 7 4 . 1 6 \% . 4 8 . 7 7 \%$ ，下层分别降低$5 0 . 7 1 \% . 7 9 . 3 8 \% . 8 1 . 3 7 \%$ □
+
+表44种不同退化程度草地上层土体颗粒分析  
+Tab.4 Particle analysis of upper soil on four grasslands with different degradation degrees   
+
+<html><body><table><tr><td>试验区</td><td>退化程度</td><td>do/mm</td><td>d30/mm</td><td>d10/mm</td><td>不均匀系数Cu</td><td>曲率系数Cc</td><td>级配类型</td><td>土体类型</td></tr><tr><td rowspan="4">启龙牧场</td><td>未退化</td><td>0.19</td><td>0.09</td><td>0.04</td><td>4.97</td><td>0.98</td><td>不良级配</td><td>砂类土</td></tr><tr><td>轻度退化</td><td>0.23</td><td>0.10</td><td>0.04</td><td>5.27</td><td>0.90</td><td>不良级配</td><td>砂类土</td></tr><tr><td>中度退化</td><td>0.25</td><td>0.15</td><td>0.08</td><td>3.23</td><td>1.10</td><td>不良级配</td><td>砂类土</td></tr><tr><td>重度退化</td><td>0.38</td><td>0.19</td><td>0.10</td><td>3.80</td><td>0.91</td><td>不良级配</td><td>砂类土</td></tr><tr><td rowspan="4">南旗村</td><td>未退化</td><td>0.38</td><td>0.16</td><td>0.08</td><td>4.57</td><td>0.74</td><td>不良级配</td><td>砂类土</td></tr><tr><td>轻度退化</td><td>0.27</td><td>0.10</td><td>0.05</td><td>5.27</td><td>0.71</td><td>不良级配</td><td>砂类土</td></tr><tr><td>中度退化</td><td>0.25</td><td>0.15</td><td>0.08</td><td>3.23</td><td>1.10</td><td>不良级配</td><td>砂类土</td></tr><tr><td>重度退化</td><td>0.38</td><td>0.19</td><td>0.10</td><td>3.80</td><td>0.91</td><td>不良级配</td><td>砂类土</td></tr></table></body></html>
+
+由表8可知,根-土复合体试样中根系数量、根系干重和平均根径均表现出与复合体黏聚力 $\boldsymbol { \mathbf { \mathit { c } } }$ 值相一致的变化特征(南旗村试验区下层除外)，即表现出随着区内草地退化程度加剧而逐渐降低，其中，启龙牧场试验区上层植物根-土复合体试样中根系数量、干重及平均根径均大于下层。结合黏聚力 $\boldsymbol { \mathbf { \mathit { c } } }$ 值变化规律，上述结果一定程度上反映出随着区内草地退化程度不断加剧，植物根系数量显著减少对根-土复合体抗剪强度起到降低作用。
+
+Tab.5Nutrient elementcontent in the uppersoil belowthe surfaceoffour grasslands withdiferent degradationdegrees   
+表64种不同退化程度草地下层土壤营养元素含量  
+
+<html><body><table><tr><td>试验区</td><td>草地退化 程度</td><td>pH</td><td>有机质 /(g·kg-1)</td><td>全N /（(g·kg-1)</td><td>全PO5 /(g·kg-1)</td><td>全K0 /（g·kg-1)</td><td>碱解N /(mg·kg-1)</td><td>速效P /(mg·kg-1)</td><td>速效K /(mg·kg-1)</td></tr><tr><td>启龙牧场</td><td>未退化</td><td>7.11±0.25</td><td>119.54±38.23</td><td>6.96±1.90</td><td>1.67±0.10</td><td>20.47±2.45</td><td>381.67±70.23</td><td>4.40±3.50</td><td>147.33±71.50</td></tr><tr><td></td><td>轻度退化</td><td>7.37±0.56</td><td>115.80±26.42</td><td>7.00±1.31</td><td>1.60±0.11</td><td>20.55±1.42</td><td>339.67±89.53</td><td>1.97±0.35</td><td>325.33±85.01</td></tr><tr><td></td><td>中度退化</td><td>7.37±1.18</td><td>106.08±46.95</td><td>6.69±2.06</td><td>1.81±0.35</td><td>19.69±1.96</td><td>341.67±62.52</td><td>2.30±0.26</td><td>206.00±38.69</td></tr><tr><td></td><td>重度退化</td><td>7.97±0.39</td><td>104.17±46.16</td><td>6.68±2.24</td><td>1.78±0.23</td><td>20.30±1.41</td><td>295.00±31.95</td><td>2.30±0.26</td><td>197.00±41.07</td></tr><tr><td>南旗村</td><td>未退化</td><td>7.22±0.41</td><td>93.22±20.09</td><td>5.79±0.76</td><td>1.72±0.16</td><td>25.01±2.37</td><td>333.33±55.37</td><td>2.20±0.52</td><td>262.33±101.15</td></tr><tr><td></td><td>轻度退化</td><td>7.90±0.52</td><td>59.16±4.09</td><td>4.27±0.24</td><td>1.52±0.13</td><td>24.70±2.52</td><td>252.00±6.93</td><td>2.67±0.97</td><td>199.00±31.58</td></tr><tr><td></td><td>中度退化</td><td>8.00±0.36</td><td>64.36±9.35</td><td>4.34±0.68</td><td>1.51±0.10</td><td>26.22±4.72</td><td>217.00±70.06</td><td>2.47±0.15</td><td>172.00±35.04</td></tr><tr><td></td><td>重度退化</td><td>7.75±0.10</td><td>60.08±6.59</td><td>3.83±0.14</td><td>1.40±0.08</td><td>25.01±1.04</td><td>214.33±30.53</td><td>1.93±0.38</td><td>150.33±38.11</td></tr></table></body></html>
+
+表54种不同退化程度草地上层土壤营养元素含量  
+
+<html><body><table><tr><td>试验区</td><td>草地退化程度</td><td>pH</td><td>有机质 /（g·kg-1)</td><td>全N /（g·kg-1)</td><td>全PO5 /（g·kg1)</td><td>全K0 /（g·kg-1)</td><td>碱解N /(mg·kg-1)</td><td>速效P /(mg·kg-1)</td><td>速效K /(mg·kg-1)</td></tr><tr><td>启龙牧场</td><td>未退化</td><td>7.45±0.25</td><td>73.99±10.32</td><td>5.13±0.58</td><td>1.58±0.32</td><td>22.64±1.30</td><td>238.67±16.17</td><td>3.40±1.42</td><td>147.33±89.27</td></tr><tr><td></td><td>轻度退化</td><td>7.95±0.2</td><td>70.68±15.61</td><td>5.45±1.73</td><td>1.41±0.19</td><td>20.91±0.90</td><td>263.67±81.82</td><td>2.10±0.10</td><td>289.33±106.8</td></tr><tr><td></td><td>中度退化</td><td>7.55±1.06</td><td>70.87±13.39</td><td>4.91±1.16</td><td>1.53±0.16</td><td>20.90±1.89</td><td>241.00±75.72</td><td>2.27±0.06</td><td>177.33±95.93</td></tr><tr><td></td><td>重度退化</td><td>8.17±0.09</td><td>69.59±11.43</td><td>5.00±1.00</td><td>1.47±0.18</td><td>20.54±0.49</td><td>259.00±48.54</td><td>1.97±0.40</td><td>245.67±87.05</td></tr><tr><td>南旗村</td><td>未退化</td><td>7.42±0.41</td><td>83.16±35.95</td><td>5.05±1.61</td><td>1.68±0.33</td><td>23.75±4.30</td><td>279.67±109.16</td><td>2.10±0.62</td><td>99.33±6.35</td></tr><tr><td></td><td>轻度退化</td><td>7.87±0.51</td><td>55.89±4.05</td><td>3.98±0.26</td><td>1.40±0.11</td><td>24.38±2.18</td><td>220.67±11.72</td><td>1.83±0.31</td><td>145.00±50.23</td></tr><tr><td></td><td>中度退化</td><td>8.12±0.33</td><td>58.99±10.78</td><td>4.06±0.57</td><td>1.46±0.13</td><td>21.84±1.87</td><td>203.67±62.68</td><td>3.07±2.20</td><td>122.67±53.12</td></tr><tr><td></td><td>重度退化</td><td>8.19±0.17</td><td>57.83±6.64</td><td>3.86±0.33</td><td>1.38±0.04</td><td>25.62±0.95</td><td>212.67±19.76</td><td>1.87±0.15</td><td>97.67±14.36</td></tr></table></body></html>
+
+Tab.6Nutrient elementcontent inthe lowersoil below thesurfaceoffour grasslands withdiferentdegradationdegrees   
+表74种不同退化程度草地根-土复合体抗剪强度  
+Tab.7Shear strength of four different degraded grassland root-soil composite system   
+
+<html><body><table><tr><td rowspan="2">试验区</td><td rowspan="2">草地退化程度</td><td colspan="2">平均黏聚力c值/kPa</td><td colspan="2">平均内摩擦角值/()</td></tr><tr><td>上层</td><td>下层</td><td>上层</td><td>下层</td></tr><tr><td>启龙牧场</td><td>未退化</td><td>26.94±3.31</td><td>39.45±14.10</td><td>20.52±1.87</td><td>17.60±4.98</td></tr><tr><td></td><td>轻度退化</td><td>13.07±11.24</td><td>12.37±7.13</td><td>22.10±0.74</td><td>23.44±1.84</td></tr><tr><td></td><td>中度退化</td><td>13.42±2.39</td><td>8.63±4.15</td><td>21.35±2.75</td><td>23.29±0.80</td></tr><tr><td></td><td>重度退化</td><td>7.53±3.53</td><td>8.97±6.57</td><td>24.81±0.91</td><td>23.92±2.94</td></tr><tr><td>南旗村</td><td>未退化</td><td>26.43±4.51</td><td>24.69±4.91</td><td>21.92±2.23</td><td>20.79±0.68</td></tr><tr><td></td><td>轻度退化</td><td>19.73±10.29</td><td>12.17±8.19</td><td>22.82±1.91</td><td>22.58±1.61</td></tr><tr><td></td><td>中度退化</td><td>6.83±6.79</td><td>5.09±3.25</td><td>24.69±1.05</td><td>26.06±1.40</td></tr><tr><td></td><td>重度退化</td><td>13.54±8.79</td><td>4.60±0.51</td><td>23.42±1.71</td><td>24.61±0.23</td></tr></table></body></html>
+
+# 3.5植物根系对根-土复合体抗剪强度影响的理论分析与评价
+
+为了进一步说明根系对根-土复合体抗剪强度显著性影响的理论解释和评价，在此采用 $\mathbb { W } \mathrm { u } - \mathbb { W } \mathrm { a l }$ dron-Model(WWM)模型，评价区内植物根系对根-土复合体抗剪强度的增强作用。根据已有相关研究所采用计算非饱和根-土复合体强度公式[34],即$S = c ^ { ' } + \big ( \mu _ { a } - \mu _ { w } \big ) \mathrm { t a n } \varphi ^ { b } + \big ( \sigma - \mu _ { a } \big ) \mathrm { t a n } \varphi ^ { ' } + \Delta S$ ，式中： $s$ 为土体抗剪强度 $\left( \mathrm { { k P a } } \right) ; c ^ { \prime }$ 为土体有效黏聚力 $\left( \mathrm { { k P a } } \right) { ; \mu _ { \mathrm { { a } } } }$ 为孔隙内部空气压力 $\left( \mathrm { { k P a } } \right) ; \mu _ { w }$ 为孔隙水压力 $\left( \mathrm { { k P a } } \right)$ $\varphi ^ { b }$ 为基质吸力增加值所产生的抗剪强度增加角 $\big ( \mathrm { \textdegree } \big )$ $\sigma$ 为作用于剪切面正应力 $\left( \mathrm { k P a } \right) ; \varphi ^ { \prime }$ 为有效土体内摩擦角（）； $\Delta S$ 为由植物根系提供的剪切强度增加值（204号 $\left( \mathrm { { k P a } } \right)$ 。在此基础上,Waldron[35] $\mathbb { W } \mathbf { u }$ 等[36]认为植物根系对土体抗剪强度增强作用表现为根系加筋和锚固作用，提出植物根系提供的根-土复合体强度增加值 $( \Delta S _ { r } , \mathrm { k P a } )$ 计算公式为：
+
+Tab.8 Root content of four grassland plants with different degradation degrees   
+
+<html><body><table><tr><td rowspan="2">试验区</td><td rowspan="2">草地退化程度</td><td colspan="2">根数/根</td><td colspan="2">干重/(g·cm-3)</td><td colspan="2">平均根径/mm</td></tr><tr><td>上层</td><td>下层</td><td>上层</td><td>下层</td><td>上层</td><td>下层</td></tr><tr><td>启龙牧场</td><td>未退化</td><td>253.33±70.24</td><td>90.00±17.32</td><td>11.31±4.47</td><td>2.57±0.46</td><td>0.37±0.12</td><td>0.27±0.06</td></tr><tr><td></td><td>轻度退化</td><td>307.50±239.91</td><td>102.50±40.31</td><td>9.42±6.32</td><td>2.26±2.52</td><td>0.26±0.13</td><td>0.22±0.05</td></tr><tr><td></td><td>中度退化</td><td>133.75±56.48</td><td>57.50±28.72</td><td>4.42±3.07</td><td>0.92±0.48</td><td>0.33±0.08</td><td>0.17±0.07</td></tr><tr><td></td><td>重度退化</td><td>52.50±17.08</td><td>40.00±14.14</td><td>0.85±0.17</td><td>0.50±0.16</td><td>0.33±0.10</td><td>0.19±0.03</td></tr><tr><td>南旗村</td><td>未退化</td><td>180.00±138.92</td><td>130.00±45.83</td><td>5.62±5.08</td><td>3.97±3.37</td><td>0.31±0.02</td><td>0.24±0.08</td></tr><tr><td></td><td>轻度退化</td><td>140.00±62.72</td><td>63.33±37.86</td><td>4.30±2.37</td><td>1.05±0.51</td><td>0.23±0.10</td><td>0.20±0.02</td></tr><tr><td></td><td>中度退化</td><td>91.67±40.72</td><td>48.33±27.54</td><td>2.20±1.40</td><td>0.67±0.53</td><td>0.28±0.07</td><td>0.20±0.02</td></tr><tr><td></td><td>重度退化</td><td>43.33±27.54</td><td>67.67±75.08</td><td>0.36±0.19</td><td>1.58±2.57</td><td>0.37±0.09</td><td>0.36±0.34</td></tr></table></body></html>
+
+注：“根数"数据为1组根-土复合体试样所测得(体积为 $2 4 0 ~ \mathrm { c m } ^ { 3 }$ ）。
+
+$$
+\Delta S _ { r } = \big ( \cos \theta \tan \varphi ^ { \prime } + \sin \theta \big ) \sum _ { n = 1 } ^ { N } t _ { r n } \bigg ( \frac { A _ { { r n } } } { A } \bigg )
+$$
+
+式中： $\theta$ 和 $\varphi ^ { \prime }$ 分别为土体剪切变形角 $( ^ { \circ } )$ 和内摩擦角$( \circ ) : t _ { r n }$ 为单位面积内土体中根系平均抗拉强度$\left. \mathrm { k P a } \right.$ ； $A _ { r n } / A$ 为根系面积与土体横截面面积比；同时， ${ { \mathbb { W } } _ { \mathrm { } } } \mathrm { { u } }$ 等[36]指出当 $\theta$ 和 $\varphi ^ { \prime }$ 变化范围分别为 $4 0 ^ { \circ } { \sim } 7 0 ^ { \circ }$ 和$2 5 ^ { \circ } { \sim } 4 0 ^ { \circ }$ 时， $\Delta S _ { r }$ 变化区间为(0.92,1.31)，因此将上式修正为：
+
+$$
+\Delta S _ { _ { r } } = 1 . 2 { \sum _ { n = 1 } ^ { N } } t _ { { n } } { \Bigg ( } { \frac { A _ { { _ { r n } } } } { A } } { \Bigg ) }
+$$
+
+由此式可知，植物根系提供的根-土复合体强度增加值与根系平均抗拉强度及根面积比呈正比，即根系数量愈多其根面积比值则愈大，其结果提高了根-土复合体抗剪强度增加值;反之，如果根系数量减少则会降低根-土复合体抗剪强度增加值，进而使得根-土复合体抗剪强度表现出显著降低
+
+与此同时，本研究采用SPSS19.0软件Pearson相关性分析法，以南旗村试验区为例，对区内根系数量、根系干重等4项指标对根-土复合体黏聚力的影响程度进行相关性分析。表9所示为南旗村试验区地表以下上层( $[ 0 { \sim } 1 0 ~ \mathrm { c m } ]$ 根-土复合体黏聚力与根系数量等4项指标间的相关性分析结果。由该表可知，黏聚力与根系数量、根系干重、有机质均呈正相关关系，与密度呈显著正相关关系（ $R ^ { 2 } { = } 0 . 9 7 4$ ）。
+
+# 表9黏聚力与根系数量等不同指标之间的相关系数
+
+表84种不同退化程度草地植物根-土复合体试样根系含量  
+Tab.9 Correlation coefficients between cohesion and root amount   
+
+<html><body><table><tr><td></td><td>黏聚力</td><td>根系数量</td><td>根系干重</td><td>密度</td><td>有机质</td></tr><tr><td>黏聚力</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>根系数量</td><td>0.781</td><td>1</td><td></td><td></td><td></td></tr><tr><td>根系干重</td><td>0.784</td><td>0.999**</td><td>1</td><td></td><td></td></tr><tr><td>密度</td><td>0.974*</td><td>0.843</td><td>0.854</td><td>1</td><td></td></tr><tr><td>有机质</td><td>0.688</td><td>0.723</td><td>0.692</td><td>0.588</td><td>1</td></tr></table></body></html>
+
+注：\*表示显著相关( $_ { \scriptstyle P < 0 . 0 5 } )$ ,\*\*表示极显著相关 $( P { < } 0 . 0 1 \$ ）
+
+# 4讨论
+
+目前，国内外学者有关草地退化方面的研究，主要集中在土壤基本性质诸如密度、含水率和营养元素分布等方面[37-43]。本项研究中，随着区内草地退化程度的不断加剧，植物类型由原生草本逐渐演替为以次生植物为主且土壤中根系含量显著降低。由本研究结果可知，2处试验区草地土体含水率均表现出随着草地退化程度加剧而逐渐降低，且在相同深度条件下，通过重度退化区与未退化区土体含水率对比结果可知，含水率降低幅度相对较为显著。该结论与王婷等[44]、慕军鹏等[45]通过对青海玛多县和四川红原县不同退化程度高寒草地土体理化性质比较分析后，所得出的随着草地退化程度加剧，其土壤含水率表现出呈显著降低的结论相一致；另外，2处试验区4种不同退化程度其土体密度表现出先减小后增大的变化规律，这主要归因于区内4种不同退化程度草地根系影响土壤养分分布，并进一步影响到土壤的性质和结构[23]
+
+此外，区内2处试验区土壤均呈弱碱性，且土壤$\mathrm { \ p H }$ 随草地退化程度加剧而增大，有机质、全氮和全磷等含量均表现出随草地退化程度加剧而呈降低变化规律。该结论与张振超[46对四川红原县高寒草甸和西藏申扎县高寒草原草地退化演替过程研究得出氮、磷等土壤营养元素含量，随着草地退化程度加剧而表现出降低的结论基本相一致。另外，2处试验区在相同草地退化程度条件下，其地表以下上层土体有机质、全氮等营养元素含量均显著大于下层，反映出土壤中营养元素含量随着深度增加而呈逐渐减小的变化趋势，说明区内草地其土壤养分具有表聚现象[28],即这种聚集作用主要表现形式为氮、磷、钾等营养元素富集在草地地表以下根系含量较多处，而土壤营养元素含量随着草地退化程度加剧呈逐渐降低的变化趋势，主要是区内因受风蚀、水蚀等自然和人为因素影响所诱发的水土流失现象所致。
+
+研究区不同退化程度草地植物根-土复合体抗剪强度指标，其整体表现出随草地退化程度加剧而逐渐降低，且在相同退化程度下（除启龙牧场试验区未退化草地例外)，上层根-土复合体平均黏聚力$\mid c \mid$ 值均显著性大于下层，其主要原因在于随着区内草地退化程度的加剧，根-土复合体试样中所含根系数量逐渐减少，表明根系对根-土复合体抗剪强度的增强作用。该结果与刘昌义等[29]通过对黄河源区河南县地区高寒草地植被不同退化程度条件下，随着草地退化程度加剧其根-土复合体抗剪强度逐渐降低，以及土体含根量降低对复合体抗剪强度具有显著降低作用的结论一致。
+
+综上所述，研究区高寒草地在4种不同退化程度下土体基本理化性质与根-土复合体抗剪强度之间存在相关性。通过本研究可知，区内4种不同退化程度草地植物根-土复合体抗剪强度与营养元素、含根量表现出正相关性，即随着区内草地退化程度加剧而呈逐渐降低，这在一定程度上说明根-土复合体抗剪强度与营养元素含量间呈正相关关系。其主要原因在于土壤营养元素含量影响植物生长发育，表现在营养元素含量愈高、植物生长发育相对愈快且根系愈发达，其结果对根-土复合体抗剪强度的增强作用亦愈为显著[23]；与此同时，区内因受风蚀、水蚀自然因素及鼠类、放牧等因素的综合影响，所造成的草地退化现象其结果导致区内多种不同类型土壤营养元素流失，且在一定程度影响和改变了土体理化性质和植物根系分布，其结果造成区内4种不同退化程度草地根-土复合体抗剪强度呈降低变化趋势；相应地，由于区内4种不同退化草地其土体抗剪强度的降低,结果进一步导致水土流失、土壤侵蚀和浅层滑坡等灾害现象发生的概率增加，这也是本研究后续需要进一步研究的内容
+
+# 5结论
+
+（1）在相同位置下，南旗村试验区草地土体密度总体大于启龙牧场试验区，且在同一试验区其下层土体密度大于上层土体;2处试验区上层土体细颗粒含量径表现出随着退化程度加剧呈逐渐降低的变化趋势。
+
+(2）2处试验区4种不同退化程度草地土体其pH随着草地退化程度加剧呈增加的变化规律，而土壤有机质、全氮、全磷等则表现出随着草地退化程度加剧而降低，其中南旗村试验区在相同草地退化条件下，其上层土体营养元素含量总体大于下层。
+
+(3)2处试验区植物根-土复合体抗剪强度指标随着草地退化程度加剧而逐渐降低，且其降低幅度最大为 $8 1 . 3 7 \%$ ,根-土复合体所含根系数量、根系干重和平均根径等指标均表现出与抗剪强度相类似的变化规律，这反映出区内植物根系在其最优含根量内愈发达其对复合体抗剪强度的增强作用则愈为显著。
+
+（4）区内启龙牧场和南旗村试验区上层土体黏聚力与根系数量、根系干重、密度、有机质均呈正相关关系，其中南旗村试验区土体黏聚力与密度呈显著正相关关系（ $R ^ { 2 } { = } 0 . 9 7 4$ 。
+
+# 参考文献(References）：
+
+[1]徐田伟,赵新全,耿远月,等.黄河源区生态保护与草牧业发展 关键技术及优化模式[J].资源科学,2020,42(3):508-516.[Xu Tianwei,Zhao Xinquan,Geng Yuanyue,et al.Key technologies and optimization model for ecological protection and grass-based livestock husbandry in the source region of the Yellow River[J]. Resources Science,2020,42(3): 508-516.]   
+[2]索南江才.青海省高原高寒草场退化机理及生态重建[J].农业 工程技术,2017,37(29): 36.[Suonan Jiangcai. Degradation mechanism and ecological reconstruction of alpine grassland in Qinghai Province[J]. Agricultural Engineering Technology,2017,37(29): 36.]   
+[3]辛玉春.浅议青海天然草地退化[J].青海草业,2014,23(2):46- 53.[Xin Yuchun.The degradation trend of natural grassland in Qinghai Province[J]. Qinghai Prataculture,2014,23(2): 46-53.]   
+[4]Liu Jiyuan,Xu Xinliang,Shao Quanqin. Grassand degradation in the“Three-River Headwaters”region, Qinghai Province[J]. Journal of Geographical Sciences,2008,18(3): 259-273.   
+[5]李旭谦.青海省退化草地治理与恢复的技术措施[J].青海科技, 2018,25(6): 34-39.[Li Xuqian. Technical measures for the management and restoration of degraded grassland in Qinghai Province [J]. Qinghai Science and Technology,2018,25(6): 34-39.]   
+[6]宋明华,刘丽萍,陈锦,等.草地生态系统生物和功能多样性及 其优化管理[J].生态环境学报,2018,27(6):179-1188. [Song Minghua,Liu Liping,Chen Jin,et al.Biology,multi-function and optimized management in grassland ecosystem[J]. Ecology and Environmental Sciences,2018,27(6): 1179-1188.]   
+[7]李世雄,王玉琴,王彦龙,等.黄河源区不同退化阶段高寒草甸 植被特征[J].青海畜牧兽医杂志,2020,50(2):27-34.[Li Shixiong,Wang Yuqin,Wang Yanlong,et al.Vegetation characteristics of alpine meadowin different degraded stages in Yellow River source region[J]. Chinese Qinghai Journal of Animal and Veterinary Sciences,2020, 50(2): 27-34.]   
+[8]李旭谦,杜铁瑛.青海天然草地的不同退化程度[J].青海草业, 2015,24(3): 49-52.[Li Xuqian,Du Tieying.Difference natural grassland degradation types in Qinghai Province[J]. Qinghai Prataculture,2015,24(3): 49-52.]   
+[9]张骞,马丽,张中华,等.青藏高寒区退化草地生态恢复:退化现 状、恢复措施、效应与展望[J].生态学报,2019,39(20):7441- 7451.[Zhang Qian,Ma Li, Zhang Zhonghua,et al.Ecolgical res toration of degraded grassland in Qinghai-Tibet alpine region: Degradation status,restoration measures,effects and prospects[J]. Acta Ecologica Sinica,2019,39(20): 7441-7451.]   
+[10]Yang Pu,Werne Josef P,Meyers Philip A,et al. Organic matter geochemical signatures of sediments of Lake Ngoring (Qinghai-Tibetan Plateau): A record of environmental and climatic changes in the source area of the Yellow River for the last 15OO years[J].Palaeogeography,Palaeoclimatology,Palaeoecology,2020,551: 1-12.   
+[11]Wang Rui, Dong Zhibao,Zhou Zhengchao.Different responses of vegetation to frozen ground degradation in the source region of the Yellow River from 1980 to 2018[J]. Chinese Geographical Science,2020,30(4): 557-571.   
+[12] 付江涛,李晓康,刘昌义,等.基于统计理论的青海河南县地区 5种草本植物根系力学特性研究[J].工程地质学报,2020,28 (6):1147-1159.[Fu Jiangtao,Li Xiaokang,Liu Changyi,etal. Statistics of mechanical characteristics of five herb roots standing in Henan region of Qinghai Province[J].Journal of Engineering Geology,2020,28(6): 1147-1159.]   
+[13] 李国荣,李希来,陈文婷,等.黄河源区退化草地水土流失规律 [J].水土保持学报,2017,31(5): 51-55,63.[Li Guorong,Li Xilai, Chen Wenting,et al. Experimental study on soil erosion rule of degraded grassland in source areaof the Yellow River[J]. Journal of Soil and Water Conservation,2017,31(5): 51-5, 63.]   
+[14]郝爱华,薛娴,彭飞,等.青藏高原典型草地植被退化与土壤退 化研究[J].生态学报,2020,40(3):964-975.[Hao Aihua,Xue Xian,Peng Fei,et al.Different vegetation and soil degradation characteristics of a typical grassland in the Qinghai-Tibetan Plateau[J].Acta Ecologica Sinica, 2020,40(3): 964-975.]   
+[15] 张光茹,李红琴,杨永胜,等.基于主成分分析对退化高寒草甸 不同恢复方式下草地质量的综合评价[J.中国草地学报, 2020,42(2): 76-82. [Zhang Guangru, Li Hongqin, Yang Yongsheng,et al. Comprehensive evaluation of grassland quality under diferent restoration methods in degraded alpine meadow based on principal component analysis[J]. Chinese Journal of Grassland, 2020, 42(2): 76-82.]   
+[16] 高露,张圣微,赵鸿彬,等.退化草原土壤理化性质空间异质性 及其对土壤水分的影响[J].干旱区研究,2020,37(3):607-617. [Gao Lu, Zhang Shengwei, Zhao Hongbin,et al. Spatial heterogeneity of soil physical and chemical properties in degraded grassland and their effct on soil moisture[J].Arid Zone Research,2020,37 (3): 607-617.]   
+[17] 马俊梅,郭春秀,肖斌,等.民勤黑果枸杞形态学特征与土壤因 子的关系[J].干旱区研究,2020,37(2):444-451.[Ma Junmei, Guo Chunxiu, Xiao Bin,et al. Relationship between morphological characteristics of Lycium ruthenicum and soil factors in Minqin, Gansu,Northwest China[J].Arid Zone Research,2O20,37(2): 444-451.]   
+[18]Yuan Ziqiang, Jiang Xiaojin,Liu Guojun,et al. Responses of soil organic carbon and nutrient stocks to human- induced grassland degradation in a Tibetan alpine meadow[J]. Catena, 2019,178: 40-48.   
+[19]Liu Chenli,Li Wenlong,XuJing,et al. Responseof soilnutrients and stoichiometry to grazing management in alpine grassand on the Qinghai- Tibet Plateau[J].Soil and Tillage Research,2021, 206: 1-10.   
+[20]MaLi, Wang Qing,ShenSongtao.Responseofsoilaggregatestability and distribution of organic carbon to alpine grassland degradation in Northwest Sichuan[J]. Geoderma Regional,202o,22: 1-7.   
+[21]Sun Jinjin,Wang Pengbin,Wang Haibo,et al. Changes in plant communities,soil characteristics,and microbial communities in alpine meadows degraded to different degrees by pika on the Qinghai- Tibetan Plateau[J].Global Ecology and Conservation,2021, 27: 1-16.   
+[22]王婷,花蕊,楚彬,等.高寒草原退化对植物群落及土壤理化性 质的影响[J].草原与草坪,2019,39(4):65-71.[Wang Ting,Hua Rui, Chu Bin, etal. Effects of alpine steppe degradationon plant communitiesandsoil physicalandchemical properties[J].Grassland and Turf,2019,39(4): 65-71.]   
+[23] 刘昌义,胡夏嵩,李希来,等.黄河源区高寒草地根-土复合体 抗剪强度与土壤营养元素分布关系[J].山地学报,2020,38(3): 349-359.[Liu Changyi,Hu Xiasong,Li Xilai,et al. Relationship between shear strength of root- soil composite systems of alpine grassland and distribution of soil nutrient elements in the source region of the Yellow River, China[J]. Mountain Research,2020,38 (3): 349-359.] [24] 周林虎,杨幼清,胡夏嵩,等.高寒矿区排土场边坡土体抗剪强 度特征[J].煤田地质与勘探,2019,47(6):144-152.[Zhou Linhu,Yang Youqing,Hu Xiasong,et al. Shear strength characteristics of slope soil in dumping site in high-cold mining area[J]. Coal Geology & Exploration,2019,47(6): 144-152.] [25] 刘昌义,窦增宁,胡夏嵩,等.黄河源区高寒草地植物组合对 根-土复合体抗剪强度的影响[J].草地学报,2019,27(1):43-   
+52.[Liu Changyi, Dou Zengning,Hu Xiasong,et al. Research on the effect of plant combination types on the shear strength of the root-soil composite system of alpine grassland in the source region of the Yellow River[J]. Acta Agrestia Sinica,2019,27(1): 43-2.] [26] 杨幼清,胡夏嵩,李希来,等.高寒矿区草本植物根系增强排土 场边坡土体抗剪强度试验研究[J].水文地质工程地质,2018,   
+45(6): 105-113.[Yang Youqing,Hu Xiasong,Li Xilai,et al.An experimental study of the soil shear strength reinforcement of a mine dump slope by herbaceous root systems in alpine regions[J]. Hydrogeology and Engineering Geology,2018,45(6): 105-113.] [27]Li Guorong,Li Xilai, Chen Wenting,et al.Effects of degradation severity on the physical, chemical and mechanical properties of topsoil in alpine meadow on the Qinghai-Tibet Plateau,West China[J]. Catena,2020,187: 1-9. [28] 申紫雁,刘昌义,胡夏嵩,等.黄河源区高寒草地不同深度土壤 理化性质与抗剪强度关系研究[J].干旱区研究,2021,38(2):   
+392-401.Shen Ziyan,Liu Changyi,Hu Xiasong,etal.Relationships between the physical and chemical properties of soil and the shear strength of root-soil composite systems at different soil depths in alpine grassand in the source region of the Yellow River[J]. Arid Zone Research,2021,38(2): 392-401.] [29] 刘昌义,胡夏嵩,窦增宁,等.黄河源区高寒草地植被根-土复 合体抗剪强度试验及退化程度阈值确定[J.草业学报,2017,   
+26(9): 14- 26.[Liu Changyi,Hu Xiasong,Dou Zengning,et al. Shear strength tests of the root-soil composite system of alpine grassland vegetation at different stages of degradation and the determination of thresholds in the Yellow River source region[J]. Acta Prataculturae Sinica,2017,26(9): 14-26.] [30] 王伟,郭倩,康海军,等.线叶嵩草草地群落构成及种间关联分 析[J].西北植物学报,2015,35(10): 2096-2102.[Wang Wei, Guo Qian,Kang Haijun,et al. Community composition and interspecific association analysis of Kobresia capillifolia grassland[J].Acta Botanica Boreali-Occidentalia Sinica,2015,35(10): 2096-2102.] [31]才让措.河南县林业资源保护和森林防火管理措施探讨[J].农 业灾害研究,2020,10(6): 173-174,191.[Cai Rangcuo.Discussion on forest resources protection and forest fire prevention management measures in Henan County[J]. Journal of Agricultural Catastrophology,2020,10(6): 173-174,191.] [32] 刘兴波,格根图,孙林,等.不同退化梯度上草甸草原植物群落 养分的对应分析[J].畜牧兽医学报,2014,45(9):1467-1473. [Liu Xingbo, Ge Gentu,Sun Lin,et al. Correspondence analysis of plant community nutrient content of meadow grassland on the different degradation gradient[J].Acta Veterinaria Et Zootechnica Si
+
+nica,2014,45(9): 1467-1473.]
+
+[33] 许桐,刘昌义,胡夏嵩,等.柴达木盆地4种盐生植物根系力学 特性及根-土复合体抗剪强度研究[J].水土保持研究,2021,28 (3): 101-110.[Xu Tong,Liu Changyi,Hu Xiasong,et al. Study on the mechanical properties of roots and the shear strengths of four halophytic plants in Qaidam Basin[J].Research of Soil and Water Conservation,2021,28(3): 101-110.]   
+[34]Fredlund D G, Morgensterm N R, Widger R A.The shear strength of unsaturated soils[J]. Canadian Geotechnical Journal,1978,15 (3): 313-321.   
+[35]Waldron L J. The shear resistance of root permeated homogeneous sands tratified[J]. Soil Science Society of America Journal,1977, 41(5): 843-849.   
+[36]Wu TH, Mckinnell WP,Swanston D N. Strength of tree roots and landslides on prince of Wales Island,Alaska[J]. Canadian Geotechnical Journal,1979,16(1): 19-33.   
+[37] 徐宗恒,黄丽苹,杨正辉,等.不同根系含量对山原红壤抗剪强 度的影响[J].水土保持通报,2019,39(5):54-59,66.[Xu Zongheng,Huang Liping,Yang Zhenghui,et al. Influence of different root contents on shear strength of mountain red earth[J].Bulletin of Soil and Water Conservation,2019,39(5): 54-59,66.]   
+[38]Murielle Ghestem,Guillaume Veylon,Alain Bernard,et al. Influence of plant root system morphology and architectural traits on soil shear resistance[J].Plant & Soil,2014,377(1-2): 43-61.   
+[39] 潘天辉,杜峰,王月.陕北黄土区护坡植物根系分布和抗剪增强 分析[J].水土保持研究,2020,27(3):357-363,371.[Pan Tianhui,Du Feng,Wang Yue.Analysis of root distributions and shear strengths of slope protection plants in the loess region of northern Shaanxi[J].Research of Soil and Water Conservation,2020,27(3): 357-363,371.]   
+[40] 李佳,汪霞,贾海霞,等.浅层滑坡多发区典型灌木根系对边坡 土体抗剪强度的影响[J].生态学报,2019,39(14):5117-5126. [LiJia,Wang Xia,Jia Haixia,et al.Ecological restoration with shrub roots for slope reinforcement in a shallow landslide-prone region[J].Acta Ecologica Sinica, 2019,39(14): 5117-5126.]   
+[41] 樊博,林丽,曹广民,等.不同演替状态下高寒草甸土壤物理性 质与植物根系的相互关系[J].生态学报,2020,40(7):2300- 2309.[Fan Bo,Lin Li,Cao Guangming,et al.Relationship between plant roots and physical soil properties in alpine meadows at dierent degradation stages[J].Acta Ecologica Sinica,20,40 (7): 2300-2309.]   
+[42] 范燕敏,朱进忠,武红旗,等.北疆蒿类荒漠草地退化对土壤理 化特性的影响[J].土壤通报,2009,40(4):917-920.[Fan Yanmin,Zhu Jinzhong,Wu Hongqi,et al.Influence of Seriphidium transillense desert grassland degradation on soil physicochemical properties in northern Xinjiang[J].Chinese Journal of Soil Science,2009,40(4): 917-920.]   
+[43] 秦嘉海,张勇,赵芸晨,等.祁连山黑河上游不同退化草地土壤 理化性质及养分和酶活性的变化规律[J].冰川冻土,2014,36 (2): 335-346.[Qin Jiahai,Zhang Yong, Zhao Yuncheng,et al. Soil
+
+physicochemical properties and variations of nutrients and enzyme activity in the degrading grasslands in the upper reaches of the Heihe River,Qilian Mountains[J]. Journal of Glaciology and Geocryology,2014,36(2): 335-346.]
+
+[44]王婷,张永超,赵之重.青藏高原退化高寒湿地植被群落结构和 土壤养分变化特征[J].草业学报,2020,29(4):9-18.[Wang Ting,Zhang Yongchao,Zhao Zhizhong.Characteristics of the vegetation community and soil nutrient status in a degraded alpine wetland of Qinghai-TibetPlateau[J].Acta Prataculturae Sinica,2020, 29(4): 9-18.]
+
+[45]慕军鹏,付荣华,谭露.不同退化演替阶段高寒草甸土壤理化性 质对功能群植物地上生物量的影响[J].草学,2018(2):41-47. [Mu Junpeng,Fu Ronghua,Tan Lu.Effects of soil physical and chemical properties on above-ground biomass of functional groups at different degradation successional stages of alpine meadows[J]. Journal of Grassland and Forage Science,2O18(2): 41-47.]
+
+[46] 张振超.青藏高原典型高寒草地地上-地下的退化过程和禁牧 恢复效果研究[D].北京：北京林业大学,2020.[Zhang Zhenchao. The Above-and Below-Ground Processes of Degradation and Restoring Efficiency of Grazing Exclusion in Typical Alpine Grasslands on the TibetanPlateau[D].Beijing:Beijing Forestry University,2020.]
+
+# Study on physical and chemical properties and shear strength characteristics of root-soil composite system with different degradation degrees of alpine grassland in the source region of the Yellow River
+
+YANG Fucheng'，LIU Changyi'，HU Xiasong'，LI Xilai²，FU Jiangtao³，LU Haijing², SHEN Ziyan'， XU Tong'， YAN Cong'， HE Weipeng' (1.Department of Geological Engineering, Qinghai University,Xining 81O0l6, Qinghai, China; 2.Agriculture and Animal Husbandry, Qinghai University, Xining 81oo16, Qinghai, China; 3.Academy of Agriculture and Forestry Sciences,Qinghai University, Xining 81OO16, Qinghai, China)
+
+Abstract: This study was to exhibit the eects of alpine grassland degradation on the physical and chemical properties of the soil and the shear strength of the root-soil composite system in the source region ofthe Yellow River.The alpine grassland in Henan County, Qinghai Province,was selected as the study site.The variation in characteristics of soil density,water content,soil nutrient element content,and shear strength of plant root-soil composite system at diferent stages of deterioration of grassland was obtained through laboratory experiments. The test results showed that under the same degradation status and sampling depth,the average soil density in the test area of Nanqi Vilage was 1.02-1.29 times that of Qilong Pasture.The soil water content showed a decreasing trend with the deterioration worsening. Soil $\mathfrak { p H }$ value increased with increasing deterioration,and soil organic mater content,total nitrogen content,and total phosphorus content decreased.As a result, the shear strength of the root-soil composite system decreased with worsening damage.In Qilong Pasture and Nanqi Vilage,shear strength in the upper layer ( $\mathrm { ( 0 - 1 0 ~ c m ) }$ and lower layer ( $1 0 - 2 0 ~ \mathrm { c m } )$ ）were reduced by $7 2 . 0 5 \%$ and $4 8 . 7 7 \%$ ，and $7 7 . 2 6 \%$ and $8 1 . 3 7 \%$ ,respectively. The amount and dry weight of roots in the root-soil composite system decreased gradually with grassland degradation rising. In Qilong Pasture and Nanqi Vilage,the root amount in the upper and lower layers decreased by $7 9 . 2 8 \%$ ， $7 5 . 9 3 \%$ ，and $9 2 . 4 8 \%$ ， $3 9 . 5 9 \%$ ，respectively. Finally, according to the WWM model and Pearson correlation analysis,the reduction of roots and nutrient element content significantly reduced the shear strength of the root-soil composite system. Therefore,the study results provide practical guiding significance for the rational prevention and control of grassland degradation,soil erosion,and shalow landslides in the source region of the Yellow River.
+
+Keywords:the source region of the Yelow River;grassland degradation；physical and chemical properties: root-soil composite system; shear strength; correlation analysis

@@ -1,0 +1,185 @@
+# 近20a塔里木河生态输水对植被总初级生产力变化的影响
+
+张雪琪1²，夏倩倩34，陈亚宁}，夏振华¹，朱成刚¹，李京龙45，郝海超1²，向燕芸1.2
+
+(1.中国科学院新疆生态与地理研究,所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011；2.中国科学院大学,北京 100049；3.伊犁师范大学生物与地理科学学院,新疆 伊宁835000；4.新疆大学资源与环境科学学院,新疆 乌鲁木齐830046；5.中国气象局乌鲁木齐沙漠气象研究所,新疆 乌鲁木齐830017)
+
+摘要：植被总初级生产力(Gross primary productivity,GPP)是陆地生态系统碳循环的关键环节,对维持全球碳平衡至关重要。基于Google EarthEngine平台，利用NASALPDAAC发布的MOD17A2H产品，研究分析了塔里木河生态输水期间陆地生态系统生长季的GPP变化。结果表明：(1）生态输水后，塔里木河生态环境整体得到改善。输水前期，塔里木河生长季GPP平均为$3 6 7 5 . 5 1 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-1，输水中期，生长季GPP增加到 $4 0 2 4 . 0 9 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-1,输水后期，该值跃升为$4 8 9 6 . 6 1 \ \mathrm { g \ C \cdot m ^ { - 2 } }$ ·季-。2000—2020年塔里木河生长季GPP表现出明显的增加趋势，增长幅度约为每个生长季增加 $9 0 . 2 5 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 }$ 。2010年后，上、中、下游日GPP增加幅度亦更明显，分别为每10a增加 $2 . 5 4 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 } , 2 . 1 7 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ 和 $1 . 7 4 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ 。(2）塔里木河陆地生态系统生长季(5—10月)的日GPP变化在不同区域存在明显差异。上游区日GPP变化总体上表现出先增加后减小的单峰趋势，下游区则以双峰变化趋势为主。(3)塔里木河生态输水工程有益于生长季GPP的变化，其中对6、8月的GPP变化影响更显著。
+
+关键词：植被总初级生产力(GPP)；生态输水工程；时空分布；胡杨林重点保护区；塔里木河文章编号：
+
+植被总初级生产力（Gross primaryproductivity,GPP)是指绿色植被单位时间单位面积上通过光合作用固定的能量或生产的有机物质数量[2],是陆地与大气之间碳交换的重要环节，掌握GPP的动态变化对维持全球碳平衡、理解全球气候变化对陆地植被的影响机制至关重要。最早估算GPP的方法主要有生物量调查法、叶绿素测定法、同位素标记法以及原料消耗测定法，如 $\mathrm { O } _ { 2 }$ 测定法、 $\mathrm { . C O } _ { 2 }$ 测定法等[3-5]，然而以上方法多受众多因素限制，不利于在大区域开展相关研究[46]。随后越来越多的学者开始利用通量观测网数据反映区域GPP的变化规律[2.7],然而该方法并不能直接获取GPP数据，且只能代表站点尺度地碳通量观测[7-9]。随着遥感技术的不断发展，较好地弥补了上述不足，给大区域GPP研究带来了较大发展[6.10-12]。目前使用较为广泛的模型包括经验模型、CASA模型、VPM模型等[7,9-10.13-14]。祝景彬等9利用涡度相关法分析了2004—2016年青藏高原湿地生长季的日GPP、月季GPP和整个生长季GPP的变化，发现全球变暖提高了植被的光合生产能力。Sun等[13]基于BEPSd(The daily boreal ecosystemproductivity simulator)模型评估了全球2000—2015年的GPP变化，发现陆地生态系统GPP总体上随大气 $\mathrm { C O } _ { 2 }$ 浓度的增加而增加。不同地区的气候因子对NPP(Net primary production）GPP的影响不尽相同。长江流域生长季GPP对极端气温指标的响应程度较极端降水指标更敏感[1]。影响内蒙古草地实际
+
+NPP的主要因子是降水，温度对其影响不显著[6]目前针对西北干旱区的研究较少，有关塔里木河流域GPP的研究更是鲜有。
+
+新疆塔里木河流域是中国西北干旱区生态环境脆弱区的典型代表[15-16]。自20世纪70年代以来，以水资源开发利用为核心的大规模生产生活活动加剧了塔里木河的脆弱性，尤其是大西海子水库建成后，致使下游300多公里的河道断流，台特玛湖也于1974年干涸[15]。流域生态环境发生了显著的变化，土地沙化和沙尘暴等环境问题频发，不断引起国家和地区人民政府的关注[16-17]。为了治理和恢复流域生态环境，国家启动并实施了塔里木河流域近期综合治理规划。诸多研究表明，生态输水后，区域生态环境明显好转。地下水位明显抬升，地表水域面积增加，下游植被面积亦呈持续增加趋势，曾经干涸的台特玛湖水域面积达到 $1 4 7 . 8 7 ~ \mathrm { k m } ^ { 2 } ( 2 0 1 7 \$ 年8月)[15.18]。然而有关区域植被初级生产力的研究还不曾见报道。2020年正值塔里木河生态输水20周年，区域GPP在生态输水期间经历了怎样的变化过程？这是一个值得研究的科学问题。为此，我们基于GoogleEarthEngine平台利用NASALPDAAC发布的MOD17A2H产品分析了2000—2020年塔里木河陆地生态系统生长季的GPP变化，以期填补该区域有关GPP研究的空白，亦为更好的回答塔里木河生态输水对生态环境的影响提供科学依据。
+
+# 1研究区、数据与方法
+
+# 1.1 研究区概况
+
+塔里木盆地是我国“丝绸之路经济带"建设的核心区，地理位置优越[19]。同时，该区域生态环境极其脆弱，年均降水量约为 $5 1 . 2 \mathrm { m m }$ ，年蒸发量高达$2 3 0 0 { \sim } 3 0 0 0 ~ \mathrm { m m } ^ { [ 2 0 ] }$ ,水资源主要由高山区冰雪融水、中山带森林降水和低山带基岩裂隙水组成[19]。塔里木河流域主要由环塔里木盆地的九大水系、144条河流组成，流域总面积 $1 0 2 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,地表总径流约 $3 9 8 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 [ 1 9 , 2 1 ] }$ 。塔里木河的干流系从肖夹克起(三河源流汇合口)至台特玛湖止，全长 $1 3 2 1 \ \mathrm { k m }$ ，干流又可分成上、中、下游3部分[22]。上游：肖夹克—英巴扎；中游：英巴扎一大西海子水库；下游：大西海子水库一台特玛湖(图1)。其中下游由3个断面组成，第一段面：大西海子水库至英苏，第二段面：英苏至阿拉干，第三段面：阿拉干至台特玛湖。本文研究区域包括塔里木河上游（肖夹克一英巴扎）、中游(英巴扎一大西海子水库）、下游(大西海子水库一英苏，即第一段面)以及分别隶属上、中游的2个胡杨林重点保护区(沙雅胡杨林保护区和轮台胡杨林保护区）。
+
+# 1.2数据来源与处理
+
+1.2.1MODISGPP数据集本研究使用的植被总初级生产力（GPP)数据由NASALPDAAC发布的MOD17A2H 产品提供（https://lpdaac.usgs.gov/prod-$\mathrm { u c t s / m o d 1 7 a 2 h v 0 0 6 / } /$ 。该套产品基于辐射利用效率模型，使用 $5 0 0 \mathrm { ~ m ~ }$ 分辨率、8d合成的中分辨率成像光谱仪(MODIS)计算叶面积指数(LAI)和光合有效辐射吸收比例(FPAR)，同时利用最新的生物群属性查询表和日尺度的全球模拟同化气象数据计算了全球2000—2020年的GPP变化。经过严格的质量控制，该套产品可直接用于模型输入，并在计算陆地能量、碳、水循环过程和植被的生物地球化学方面得到广泛应用[,2.510]
+
+本文基于Google EarthEngine平台,经过辐射定标、大气校正、空间投影、数据转换、影像裁剪、统计分析等前期预处理工作，得到塔里木河干流区2000一2020年逐月GPP数据。根据研究区植被生长特性，结合已有研究和每次生态输水的起止时间，将生长季定义为5—10月，划分为3个季节：春季（5—6月）、夏季(7—8月）、秋季(9—10月）[7.9.12.23]。1.2.2生态输水数据本研究使用2000年5月一2019年12月的生态输水数据(包括输水次数、输水方式、输水时间和输水量)由中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室提供。
+
+# 1.3研究方法
+
+1.3.1GPP年际变化特征分析基于 $8 \textup { d } . 5 0 0 \textup { m }$ 分辨率的MODISGPP数据提取计算研究区2000—2020年逐年生长季的GPP总量。同时采用相对变化率指标，分别计算塔里木河干流、塔里木河上、中、下游逐年生长季GPP的变化量及其相对变化率。计算公式如下：
+
+$$
+\delta = \frac { \Delta \mathrm { G P P } _ { i , m } } { \overline { { \mathrm { G P P } } } } = \frac { \mathrm { G P P } _ { i , m } - \overline { { \mathrm { G P P } } } } { \overline { { \mathrm { G P P } } } }
+$$
+
+式中： $\delta$ 为相对变化率 $( \% )$ ; $i$ 表示年份，本研究时间序列为2000—2020年，即 $\mathbf { \chi } _ { i }$ 的取值范围为1\~21;$\Delta \mathrm { G P P } _ { i , m }$ 为第 $\mathbf { \Omega } _ { m }$ 个子区域(塔里木河上、中、下游)第
+
+# 干吴区地理
+
+注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2019)333号的标准地图制作，底图无修改。
+
+![](images/b17dd7994bf5838726b0b0b947cdb582248f16011bffb44f15dc7387c970ff6c.jpg)  
+图1研究区概况图  
+Fig.1 Overview of the study area
+
+$i$ 年(1\~21)生长季GPP的相对变化量( $\mathbf { \vec { g } } \mathbf { C } \mathbf { \cdot m } ^ { - 2 }$ ·季-1)；$\mathrm { G P P } _ { i , m }$ 为第 $\mathbf { \Omega } _ { m }$ 个子区域(塔里木河上、中、下游)第 $i$ 年(1\~21)生长季的GPP总量( $\cdot \mathbf { g } \mathbf { \Lambda } \mathrm { C } \cdot \mathbf { m } ^ { - 2 }$ ·季 $^ { - 1 }$ ）； $\overline { { \mathrm { G P P } } }$ 为塔里木河干流多年平均的生长季GPP总量（ $\mathrm { { \underline { { g } } C \cdot m } ^ { - 2 } }$ ·季-1)。
+
+1.3.2GPP季节变化特征分析根据已获取的研究区2000—2020年逐年生长季的GPP数据，结合生长季中的季节划分依据，分别计算塔里木河GPP的季节变化特征。其中，趋势分析方法同上。不同季节GPP计算公式如下：
+
+$$
+\mathrm { G P P } _ { s } = \sum _ { i = 1 } ^ { n } ( \mathrm { G P P } _ { i , m } ) / n
+$$
+
+式中： $\mathrm { G P P } _ { s }$ 表示特定季节(春、夏、秋季)的GPP总量 $\left( \mathbf { g } \mathbf { \Lambda } \mathrm { C } \cdot \mathbf { m } ^ { - 2 } \right)$ ,其中 $s$ 表示特定季节（春、夏、秋季）;$\mathrm { G P P } _ { i , m }$ 表示第 $i$ 年与 $\mathrm { G P P } _ { s }$ 相对应的月份的GPP总量 $\left( \mathbf { g } \mathbf { \Lambda } \mathrm { C } \cdot \mathbf { m } ^ { - 2 } \right)$ ; $i$ 表示年份，本研究时间序列为2000—2020年，即 $i$ 的取值范围为1\~21; $m$ 表示与指定季节相对应的月份（如，计算春季GPP总量时， $\mathbf { \Omega } _ { m }$ 取值为5\~6); $n$ 表示累计年数，即 $n = 2 1$ O
+
+1.3.3生态输水工程对GPP的影响分析Pearson相关系数法用于度量2个变量之间的相关性， $\boldsymbol { r }$ 值越大，表示二者相关性程度越高。考虑到生态输水与GPP响应之间的时滞性，本文分别分析生态输水和生长季GPP及其滞后1、2、3个月的相关性。相关系数计算公式如下：
+
+$$
+r = \sum _ { i = 1 } ^ { n } [ ( x _ { i } - { \bar { x } } ) - ( y _ { i } - { \bar { y } } ) ] { \Bigg / } { \sqrt { \sum _ { i = 1 } ^ { n } ( x _ { i } - { \bar { x } } ) ^ { 2 } \sum _ { i = 1 } ^ { n } ( y _ { i } - { \bar { y } } ) ^ { 2 } } }
+$$
+
+式中： $\boldsymbol { r }$ 表示生态输水和GPP之间的相关性，一定程度上可反映生态输水工程对GPP的影响; $x _ { i }$ 为第 $i$ 年的生态输水量 $( 1 0 ^ { 8 } \mathrm m ^ { 3 } )$ ; $y _ { i }$ 为第 $i$ 年生长季(5—10月）的GPP总量 $( \mathbf { g } \mathbf { \cdot } \mathbf { m } ^ { - 2 }$ ·月 $^ { - 1 }$ ； $\bar { x }$ 为多年内生态输水的平均值; $\bar { y }$ 为多年内GPP的月平均值。同时本研究还考虑到GPP对生态输水的时滞性，分别考虑了GPP滞后1、2、3个月的情景
+
+# 2结果与分析
+
+# 2.1塔里木河陆地生态系统的日GPP变化特征
+
+塔里木河陆地生态系统生长季(5一10月)的日GPP在不同区域的变化趋势存在明显差异（图 $2 \mathrm { a }$ ）c)。塔里木河上游区日GPP变化总体上表现出先增加后减小的单峰趋势，其中2006年、2010—2012年、2019—2020年日GPP变化表现为先增加再减小再增加的双峰趋势（图 $2 \mathrm { a } { \sim } \mathrm { b }$ )。然而塔里木河下游区日GPP变化总体上以双峰变化趋势为主(图2b、d)。
+
+随着生态输水工程的持续，生长季的日GPP在不同年份里亦表现出明显差异。本研究将近20a的生态输水划分为3个阶段：生态输水前期（2000—2006年）、生态输水中期(2007—2013年)和生态输水后期(2014—2020年)。在生态输水前期，上游区日GPP的峰值集中在7一8月，该时段日GPP的最大值出现在2003年7月（ $( 1 3 . 0 0 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ 。随着生态输水工程的推进，上游区日GPP的峰值在输水中、后期均集中在8—9月，输水中期，日GPP的最大值出现在2007年9月（ $( 1 3 . 4 9 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ ，输水后期，日GPP的最大值出现在2020年9月（ $2 1 . 3 9 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ (图2a)。在塔里木河下游，2个峰值出现的月份分别集中在6—7月和8—9月。随着生态输水工程的影响，第一个峰值的最大值由输水前期的 $8 . 0 7 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } ( 2 0 0 4$ 年6月)增加到输水后期的 $1 0 . 5 7 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } ( 2 0 1 5 \$ 年6月），第二个峰值的最大值由输水前期的 $1 2 . 6 9 \textrm { g C } { \cdot } \mathbf { m } ^ { - 2 } { \cdot } \mathbf { d } ^ { - 1 } ( 2 0 0 3$ 年9月)增加到输水后期的 $1 7 . 4 7 \ \mathrm { g \ C \cdot m ^ { - 2 } \cdot d ^ { - 1 } ( 2 0 2 0 }$ 年9月）。从以上结果可以看出，国家启动并实施的塔里木河流域近期综合治理工程对区域生态环境产生了积极的影响，植被日总初级生产力的最大值不断提高。
+
+为进一步查看2000—2020年塔里木河陆地生态系统生长季的日GPP变化规律，我们分析了塔里木河上、中、下游多年的日GPP变化，同时选取了2个塔里木河胡杨林重点保护区（上游的沙雅胡杨林保护区、中游的轮台胡杨林保护区)加以重点分析。从图3a中可以看出，塔里木河生态环境整体得到改善，上、中、下游日GPP表现出增加趋势。上游日 GPP的增长幅度最大,每10 a增加 $2 . 3 5 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ ，
+
+25 (a)上游 25 (b)上游_双峰(2006年)  
+P.d 20 P20 2015 1510 105 507 -01 -01 0  
+2000- 2002 S0 20 1 2005- 05 2006-05-01 2007-05- 2008- -05-时间(年-月-日) 时间(年-月-日)201816411086 (c)下游 201816 (d)下游_双峰  
+P.d -P-./dd 14H 121086 广心 √//4 42029 0 0 0 -01 01 书 3 2020- 3 2002- -05- 2003- 3-05- 2004-05- 2005- -05- 2006-05-01 2007-05-01时间(年-月-日) 时间(年-月-日)
+
+Fig.2VariationcharacteristicsofdailyGPPpakduringthegrowthseasonofTarimRiverterrstrialecosystemfrom2to2020
+
+14「(a)塔河上、中、下游 ys=0.2345.x-462.28 10「(b)胡杨林保护区 ysv2=02573x-510.622m 上游→中游-下游 9P2 ysvr=0.102-209.87 YLr2=0.2511x-498.69R²=0.4928yx=0.0901x-173.67 yLrI= 0.1482x-291.9842 yz=0.1687x-332.62 R²=0.2407 R²=0.3394 沙雅→轮台---平均值年份 年份
+
+Fig.3Diurnal GPP variation trend in the growing seasonofTarim River terrestrial ecosystem from 2000 to 202(其中日GPP最大值出现在2018年 $( 1 2 . 2 6 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { d } ^ { - 1 } )$ ，中、下游日GPP最大值均出现在2016年，分别为$8 . 7 1 \mathrm { ~ g ~ C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ 和 $9 . 2 2 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ ,增长幅度分别为每 $1 0 \mathrm { ~ a ~ }$ 增加 $1 . 6 9 \ \mathrm { g \ C \cdot m ^ { - 2 } , 0 . 9 0 \ g \ C \cdot m ^ { - 2 } }$ 。2个胡杨林保护区的日GPP变化呈现出高度的一致性，日最大GPP均出现在2018年，且2010年后，日最大GPP的多年均值明显高于2000—2010年，增长幅度也表现出相同的趋势。2010年后，沙雅、轮台胡杨林保护区的日GPP增长幅度约为2000—2010年增长幅度的2.36倍和1.67倍(图3b)。该现象的产生与生态输水密切相关。2010年前，塔里木河共进行了10次生态输水，输水方式多以单通道输水为主，累计输水量 $2 2 . 7 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 } ; 2 0 1 0$ 年后，输水方式主要为双通道输水，累计输水量 $5 5 . 3 0 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ○
+
+# 2.2塔里木河陆地生态系统的生长季GPP变化特征
+
+2000—2018年，塔里木河陆地生态系统多年平均的生长季GPP为 $4 1 9 8 . 7 4 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季,最大值出现在2018年 $( 5 4 7 9 . 7 2 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ ·季 $^ { - 1 }$ ),最小值出现在2001年（ $2 9 5 0 . 3 2 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-1)。输水20a间，生长季GPP表现出明显的增加趋势，增长幅度约为每个生长季增加 $9 0 . 2 5 \ \mathrm { g } \ \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 } ( R ^ { 2 } { = } 0 . 6 1 )$ （图 $4 \mathrm { a }$ )。生态输水前期(2000—2006年），塔里木河陆地生态系统多
+
+6000 (a)塔河·春季·夏季·秋季 2500 (b)塔河上游·春季·夏季·秋季  
+zdg 5000 C/ 200015003000100020001000 500089200 0 0 02222222 222 22 2年份 年份1800，(c)塔河中游 ·春季·夏季·秋季 1800「(d)塔河下游·春季·夏季·秋季1600 1600  
+z 1400 14001200 12001000 1000800 800600 600400 400200 2000 0o 0 0 12134415167 0 0 0 0 0 0 188 0000 0 o 0 0 0 21 0 0 00 0 0 0 O 022 22 22 2 2 2222 2 2 2 222 222 22 2222 2年份 年份
+
+年平均的生长季GPP为 $3 6 7 5 . 5 1 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ ·季-1，最大值出现在2005年 $( 4 4 9 7 . 7 9 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ ·季 $^ { - 1 }$ ）；输水中期（2007—2013年），多年平均的生长季GPP为 $4 0 2 4 . 0 9 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ ·季-1,最大值出现在2013年（ $4 6 0 6 . 9 3 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季 $^ { - 1 }$ );输水后期,多年平均的生长季GPP跃升为 $4 8 9 6 . 6 1 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-1,最大值出现在2018年（ $5 4 7 9 . 7 2 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-)。这可以清楚的看出，塔里木河生态输水工程对区域植被产生了积极影响，输水 $2 0 \textrm { a }$ 间，植被生长季的GPP约增加了$1 2 2 1 . 1 0 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-。从塔里木河不同区段看，生长季的GPP变化同整体的变化一致，即输水后期GPP明显大于输水前、中期。上游生长季GPP从输水前期的 $1 3 7 3 . 1 9 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ ·季-增加到输水中、后期的$1 6 3 2 . 7 6 \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ ·季-和 $1 9 5 7 . 3 7 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-1;中、下游生长季GPP分别从输水前期的 $1 0 0 7 . 4 8 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-1和 $1 2 9 4 . 8 5 \mathrm { ~ g ~ C ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ·季-增加到输水后期的$1 4 3 0 . 4 8 \mathrm { ~ g ~ C ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ·季 $^ { - 1 }$ 和 $1 5 0 8 . 7 7 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ ·季-1（图4b\~d）。
+
+2000一2020年春、夏、秋季GPP对生长季GPP的贡献率分别为 $3 0 . 4 9 \% . 3 4 . 1 7 \% . 3 5 . 3 3 \%$ ，这与生态输水带来的积极影响密不可分。输水前期，生长季GPP峰值多集中在7月，输水中、后期时，生长季GPP峰值后延1\~2个月，多集中在8—9月（图4a）。从塔里木河不同子区域看，不同季节对生长季(5—
+
+10月)GPP的贡献亦存在明显差异。塔里木河上游夏季GPP对生长季GPP的贡献度最大 $3 8 . 1 0 \%$ ，春季次之 $( 3 1 . 4 2 \%$ )，秋季最小( $3 0 . 4 8 \%$ )。然而，塔里木河中、下游情况与其恰恰相反，秋季GPP对生长季GPP的贡献度最大（分别为 $3 6 . 8 4 \%$ 和 $3 9 . 6 4 \%$ ，夏季次之（分别为 $3 2 . 4 2 \%$ 和 $3 1 . 0 0 \%$ ),春季贡献度最小（分别为 $3 0 . 7 4 \%$ 和 $2 9 . 3 7 \%$ （图4b\~d）。
+
+为更清晰的展示不同输水时期塔里木河陆地生态系统的生长季GPP变化，我们分别选择了2000、2010、2020年作为输水前、中、后期的代表年份展开分析。从图5中可以看出，2020年的生长季GPP明显高于2000、2010年。2000年塔里木河上游平均生长季的GPP为 $1 0 7 4 . 5 4 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-1,2010年增加到 $1 3 8 2 . 7 3 \mathrm { ~ g ~ C ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ·季-1,2020 年高达$2 0 4 0 . 3 7 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 }$ ·季,增加明显的区域主要集中在紧邻河岸的两侧地区（图 $5 \mathrm { a } \mathrm { \sim } \mathrm { c }$ )。中游区域GPP也表现出增加趋势，区域平均值从2000年的 $8 3 5 . 3 3 \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ ·季-增加到2020年的 $1 5 5 2 . 7 6 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季 $^ { - 1 }$ ,GPP高值区集中分布在中游下部(图5d\~f)。下游平均GPP也从$1 1 0 1 . 7 8 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季 $^ { - 1 }$ 增加到 $1 5 8 3 . 7 1 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ ·季-1（图 $5 \mathrm { g } \mathrm { \sim } \dot { 1 }$ ）。
+
+# 2.3塔里木河胡杨林重点保护区的生长季GPP变化特征
+
+本文以沙雅胡杨林保护区为例，对其2000—
+
+(a)上游—2000年 N (d)中游—2000年 NA (g)下游—2000年 NA0 8km生长季GPP/gC·m-2季-1 生长季GPP/gC·m-2-季-10 50km 04841300 1300\~1800 2800\~2400 ■3200\~4300 0 L 50km 300\~7500 1200\~1700 ■2700\~3705 1700\~-2300 生长季GP/gCm2500\~1800 700\~1100 11800\~25001100\~1500 ■2500\~3092  
+(b)上游—2010年 N (e)中游—2010年 NA (h)下游 -2010年 NA08km生长季GPP/gC·m-2季-1 生长季GPP/gC·m-2季-1 生长季GPP/g C·m-2.季-10 50km 0\~8\~1300 24800\~2400 0 50 km 300\~7500 1700\~2300 300\~1100 1500\~18001300\~18003200\~4300 1200\~1700 ■2700\~3705 1100\~1500 ■2500\~3092  
+(c)上游—2020年 (f)中游—2020年 NA (i)下游—2020年 NA08km生长季GPP/gC·m-2.季-1 生长季GP/gCm21700-2300 生长季GPP/gC·m-2季-10 50km 048\~1300 2800\~2400 0 50km 750\~12000 2300\~2700 300\~100 1500\~258001300\~1800 ■3200\~4300 1100\~1500 ■2500\~3092
+
+Fig.5Spatial changes of GPP in the growing season of Tarim River terrestrial ecosystem from 2000 to 2020
+
+# 干旱区地理
+
+2020年生长季及生长季内不同季节的GPP进行了分析。结果表明，2000—2020年，沙雅胡杨林保护区的生长季GPP不断提高，由2000年的$7 4 7 . 5 0 \mathrm { g C } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-增加到2020年的 $1 1 3 2 . 7 2 \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ ·季-（图 $6 \mathrm { a \sim c } )$ ),春、夏、秋季的GPP也有所增加，其中秋季GPP增加最多,由 $4 . 1 4 \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ 迅速增加到 $7 . 1 7 \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ ，夏季次之，由 $3 . 5 1 ~ \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ 增加到 $5 . 6 9 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ ,春季增加最小,由 $4 . 6 1 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ 增加到 $5 . 6 7 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ （图
+
+6d\~1)，且GPP高值区多分布在河流沿岸。随着生态输水工程的影响，沙雅胡杨林保护区生长季内的GPP也逐渐表现出秋季的GPP高于春、夏季GPP。2000年，沙雅胡杨林保护区春季GPP最大$( 4 . 6 1 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 } )$ ，秋季次之 $( 4 . 1 4 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } )$ ,夏季最小0 $3 . 5 1 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } )$ （图 $6 \mathrm { d } \mathbf { \nabla } \cdot \mathbf { g } \cdot \mathbf { j }$ )；输水中期(2010年），秋季GPP最大，为 $5 . 1 6 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ ,春、夏季GPP次之，分别为 $4 . 2 4 \mathrm { \ g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ 和 $3 . 0 9 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ （图 $6 \mathrm { e } , \mathrm { h } , \mathrm { k } )$ 。输水
+
+(a)2000年生长季GPP (d)2000年春季GPPN N生长季GPP/gC·m-2季-1 春季GPP/gC·m-2186-500 1100\~1400 0 20km 1.2-3.03.0-11.00 10km800\~1100 ■1900\~2700 5.0\~7.011.0\~14.0  
+(b)2010年生长季GPP (e)2010年春季GPPNN生长季GPP/gC·m-2季-1 春季GPP/g C·m-20 10km 186\~500 1100\~1400 OL 20km 1.\~3.07.0-11.0800\~1100 ■1900\~2700 5.0\~7.0 11.0\~14.0  
+(c)2020年生长季GPP (f)2020年春季GPPN N生长季GPP/gC·m-2季-1 春季GPP/g C·m-2186-500 1100\~1900 OL 20 km 1.2-3.070-1100 10km800\~1100 ■1900\~2700 5.0\~7.011.0\~14.0  
+(g)2000年夏季GPP (i)2000年秋季GPPNA NA夏季GPP/gC·m-2 秋季GPP/g C·m-20.2\~3.0 □ 6.0\~9.0 1.6\~3.58.0\~10.50 L 20km 3.0\~5.0 5.0\~6.0 9.0\~11.0 11.0\~15.5 0 L 20km □ 3.5\~5.0 5.0\~8.0 10.5\~13.0 ■13.0\~17.5  
+(h)2010年夏季GPP (k)2010年秋季GPPN N夏季GPP/g C·m-2 秋季GPP/gC·m-20 20km 3.2-3.0 6.0\~11.0 0 20 km 1.6\~3.0 10\~13.05.0\~6.0 11.0\~15.5 5.0\~8.0 13.0\~17.5  
+(i)2020年夏季GPP (l)2020年秋季GPPNA N夏季GPP/g C·m-2 秋季GPP/g C·m-20 20 km 3.2-3.0 9.0\~11.0 0 20 km 1.6-3.0 10\~13.05.0\~6.0 11.0\~15.5 5.0\~8.0 13.0\~17.5
+
+Fig.6Seasonal GPP changes of Populus euphratica key conservation areas in Xayar County from 20o0 to 2020后期（2020年），秋季GPP最大 $( 7 . 1 7 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } )$ ，夏季次之 $( 5 . 6 9 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } )$ ,春季最小 $( 5 . 6 7 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 } )$ （图6f、i、1)。
+
+# 2.4塔里木河生态输水工程对GPP变化的影响
+
+从图7中可以看出，塔里木河生态输水工程与生长季GPP的变化总体上表现出正相关关系，且5a累计输水与生长季GPP之间的相关系数明显大于1a累计输水与生长季GPP之间的相关系数。就生长季的不同月份而言，塔里木河生态输水工程对6、8月的GPP变化影响最显著，均通过 $9 5 \%$ 置信度检验。考虑到GPP对降水变化的响应存在一定的滞后性，我们添加了1、2、3、5a累计输水量与生长季滞后1、2、3个月的GPP之间的相关性分析(即1、2、3、5a累计输水量与同年11、12、翌年1月的GPP之间的相关性分析)。从结果中可以看出，生态输水与生长季滞后1、3个月的GPP之间多表现为负相关关系(图7)。卢娜等5在分析南疆GPP对区域降水的响应规律时发现，在和田、喀什两地，降水与GPP滞后1、2、3个月之间表现出负相关关系。然而在阿克苏地区，无论GPP滞后1个月还是2、3个月，降水与其之间均表现为正相关关系。这说明虽然降水是影响区域GPP变化的一个重要因素，但特定地区独特的地形地貌、水热组合等小气候差异及植被类型等可能对GPP变化的影响更关键，更不可忽视。
+
+# 3结论
+
+本文基于Google EarthEngine平台,利用NASA
+
+CW_1 CW_1(a)塔河 (b)塔河上游CW_1 CW_2 CW_1 CW_2CW_2 cw_3 CW_2 Cw_3CW_3 DCW_5 CW_3 CW_5CW_5 DX5Q CW_5 X X5SX5QX6Q X5S x6sX6Q DOOO00 x7Q X6S oOOo x7SX7Q X X8Q X7S 火 \*\*\* X8SX8Q DODOO& T X9Q X8S 00000? X9SX9Q ?0 X10Q X9S X X10SX10Q 卤 X11Q X10S ? X11SX11Q X12Q \*\* OxX1QNEXT ? 一 X12Q X11S X12S \* 光 火 \*\* XO ? X1SNEXT X12S  
+X1QNEXT × GS_Q X1SNEXT 火 \* x& GS_SGS_Q&OOOOOOO&&O。 GS_SOOOOOOOO@00-1.0-0.8-0.6-0.4-0.2 0.0 0.2 0.4 0.6 0.8 1.0 1.0-0.8-0.6-0.4-0.2 0.0 0.2 0.40.6 0.8 1.0相关系数 相关系数CW_1 (c)塔河中游 CW_1 (d)塔河下游CW_1 CW_2 CW_1 CW_2CW_2 4 CW_3 CW_2 2 cw_3CW_3 CW_5 CW_3 DOCw_5CW_5 5 X5Z CW_5 O00 X5XX5Z X6Z x5xx6XX6Z 一 X7Z X6X X X7XX7Z X8Z X7X X8XX8Z OOOO X9Z X8X X火 X X9XX9Z の &の。 X10Z X9X K X10XX10Z X11Z X10X \* X11XX11Z x\*\*×\*\* X12Z X11X K X12XX12Z X1ZNEXT X12X X1XNEXT  
+X1ZNEXT & GS_Z X1XNEXT \*\*×\*\*\* GS_XGS_Z OO55as0545 \*\* GS_X&OOOOOOO×&-1.0-0.8-0.6-0.4-0.20.00.20.40.60.81.0 -1.0-0.8-0.6-0.4-0.20.00.20.40.60.81.0相关系数 相关系数
+
+# 干吴区地理
+
+LPDAAC发布的MOD17A2H产品，经过辐射定标、大气校正、空间投影、数据转换、影像裁剪、统计分析等前期预处理，核算了塔里木河生态输水期间陆地生态系统生长季的植被总初级生产力(GPP)变化。结果表明：
+
+（1）塔里木河陆地生态系统生长季(5—10月）的日GPP在不同区域的变化趋势存在明显差异。塔里木河上游日GPP变化总体上表现出先增加后减小的单峰趋势，塔里木河下游日GPP变化总体上以双峰变化趋势为主。随着生态输水工程的推进，塔里木河陆地生态系统生长季的日GPP峰值普遍后延，且日GPP的最大值有所提高。
+
+(2）生态输水后，塔里木河生态环境整体得到改善。上、中、下游日GPP表现出明显增加趋势，每10a增加幅度分别为 $2 . 3 5 ~ \mathrm { g } \mathrm { ~ C } \cdot \mathrm { m } ^ { - 2 } , 1 . 6 9 ~ \mathrm { g } \mathrm { ~ C } \cdot \mathrm { m } ^ { - 2 }$ 和$0 . 9 0 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ 。2010年后,增加幅度更明显,每 $1 0 \mathrm { ~ a ~ }$ 分别为 $2 . 5 4 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 } , 2 . 1 7 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ 和 $1 . 7 4 \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ 。
+
+（3）2000一2018年塔里木河陆地生态系统多年平均的生长季GPP为 $4 1 9 8 . 7 4 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-1。输水20a间，生长季GPP表现出明显的增加趋势，增长幅度约为每个生长季增加 $9 0 . 2 5 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ 。不同季节对生长季(5—10月)GPP的贡献存在明显差异。塔里木河上游夏季GPP对生长季GPP的贡献度最大（2 $( 3 8 . 1 0 \% )$ ），春季次之 $( 3 1 . 4 2 \% )$ )，秋季最小 $( 3 0 . 4 8 \% )$ O然而，塔里木河中、下游情况与其相反。
+
+(4）塔里木河生态输水工程与生长季GPP的变化总体上表现出正相关关系，其中对6、8月的GPP影响程度最大(通过 $9 5 \%$ 置信度检验）。生态输水与生长季滞后1、3个月的GPP之间多表现为负相关关系。
+
+陆地生态系统的变化是一个复杂的过程，须全面考虑人类活动和气候变化的综合作用。本文仅考虑了生态输水对GPP的影响，然而同时期的气温、降水等气候变化过程，以及地形、土壤有机质含量等自然因素都会对GPP的变化产生影响，这有待进一步研究。
+
+# 参考文献(References)
+
+[1] WuC,MungerJW,Niu Z,etal.Comparison of multiple models for estimating gross primary production using MODIS and eddy covariance data in Harvard Forest[J].Remote Sensing of Environment,2010,114(12): 2925-2939.
+
+[2] Xiao J, Zhuang Q,Law B E,et al.A continuous measure of gross primary production for the conterminous United States derived from MODIS and AmeriFlux data[J]. Remote Sensing of Environ ment, 2010,114(3): 576-591.
+
+[3]方精云,柯金虎,唐志尧,等.生物生产力的"4P"概念、估算及 其相互关系[J].植物生态学报,2001,25(4):414-419.[Fang Jingyun,Ke Jinhu, Tang Zhiyao,et al. Impaction and estimations of four terrestrial productivity parameters[J]. Chinese Journal of Plant Ecology,2001,25(4): 414-419.] [4]刘旻霞,焦骄,潘竟虎,等.青海省植被净初级生产力(NPP)时空 格局变化及其驱动因素[J].生态学报,2020,40(15):5306-   
+5317.[Liu Wenxia,Jiao Jiao,Pan Jinghu, etal.Spatial and temporal patterns of planting NPP and itsdriving factors in Qinghai Province[J]. Acta Ecologica Sinica,2020,40(15): 5306-5317.] [5]卢娜,牛俊.南疆植被总初级生产力对区域降水的响应规律[J] 中国农业大学学报,2020,25(7):103-110.[Lu Na,Niu Jun.Response of gross primary production in southern Xinjiang to regional precipitation[J]. Journal of China Agricultural University,2020,   
+25(7): 103-110.] [6]李辉,红英,邓国荣,等.1982—2015年气候变化和人类活动对 内蒙古草地净初级生产力的影响[J].应用生态学报,2021,32 (2): 415-424.[Li Hui, Hong Ying, Deng Guorong,et al. Impact of climate change and human activities on net primary productivity of grasslands in Inner Mongolia, China during 1982—2015[J]. Chinese Journal of Applied Ecology,2021,32(2): 415-44.] [7]张娜.黑河流域植被总初级生产力遥感估算及驱动因素分析 [D].西安:西安科技大学,2020.[Zhang Na.Estimation of gross primary priductiity in Heihe River Basin by remote sensing and analysis of driving factors[D].Xi'an: Xi'an Universityof Science and Technology, 2020.] [8]Yuan M,Zhu Q,Zhang J,etal. Globalresponse of terrestrial gross primary productivity to climate extremes[J]. Science of the Total Environment,2021,750:142337,doi:10.1016/j.scitotenv.2020.   
+142337. [9]祝景彬,贺慧丹,李红琴,等.青藏高原高寒湿地GPP变化特征 及对生长季积温的响应[J].生态学报,2020,40(24):8958-   
+8965.[ZhuJingbin,HeHuidan,LiHongqin,etal.Effectof growing season degree days on gross primary productivity and its variation characteristics inalpine wetland of the Qinhai-Tibetan Plateau [J].Acta Ecologica Sinica,2020,40(24): 8958-8965.] [10] 刘洁,孟宝平,葛静,等.基于CASA模型和MODIS数据的甘南 草地 NPP时空动态变化研究[J].草业学报,2019,28(6):19-32. [Liu Jie,Meng Baoping, Ge Jing,et al. Spatio-temporal dynamic changes of grassland NPP in Gannan Prefecture,as determined by the CASA model[J]. Acta Prataculturae Sinica, 2019,28(6): 19-32.] [11]贾怡童,林爱文,朱弘纪.长江流域不同气候分区生长季植被总 初级生产力对极端气候变化的时空响应研究[J.国土与自然 资源研究,2020(1):38-42.[Jia Yitong,Lin Aiwen, Zhu Hongji. Study on spatio-temporal response of total primary productivity of vegetation to extreme climate change in diferent climatic growing seasons in the Yangtze River Basin[J].Territory and Natural Resources Study,2020(1): 38-42.]   
+[12]王林林.柴达木盆地GPP时空变化特征及其影响因素分析[D]. 西北师范大学,2016.[Wang Linlin.Analysis of spatial-temporal variation characteristics and its influencing factors of GPP in Qaidam Basin[D].Lanzhou: Northwest Normal University,2016.]   
+[13] Sun Z, Wang X, Yamamoto H,et al. The effcts of spatiotemporal patterns of atmospheric CO $2$ concentration on terrestrial gross primary productivity estimation[J]. Climatic Change,2020,163(2): 913-930.   
+[14] 秦景秀,郝兴明,张颖,等.气候变化和人类活动对干旱区植被 生产力的影响[J].干旱区地理,2020,43(1):117-125.[Qin Jingxiu,Hao Xingming,Zhang Ying,et al.Effects of climate change and human activities on vegetation productivity in arid areas[J].Arid Land Geography,2020,43(1): 117-125.]   
+[15]朱长明,李均力,沈占锋,等.塔里木河下游生态环境变化时序 监测与对比分析[J].地球信息科学学报,2019,21(3):437-444. [Zhu Changming,Li Junli, Shen Zhanfeng,et al. Time series monitoring and comparative analysis on eco-environment change in the lower reaches of the Tarim River[J]. Journal of Geo-information Science,2019,21(3): 437-444.]   
+[16] 陈亚宁,李卫红,陈亚鹏,等.塔里木河下游断流河道输水的生 态响应与生态修复[J].干旱区研究,2006,23(4):521-530. [Chen Yaning,Li Weihong,Chen Yapeng,et al. Ecological response and ecological regeneration of transfusing stream water along the dried-up watercourse in the lower reaches of the Tarim River,Xinjiang[J].Arid Zone Research,2006,23(4): 521-530.]   
+[17] 高前兆,屈建军,王润,等.塔里木河下游绿色走廊生态输水对 沙漠化逆转的影响[J].中国沙漠,2007,27(1):52-58.[Gao Qianzhao,Qu Jianjun,Wang Run,et al.Impact of ecological water transport to green corridor on desertification reversion at lower reaches of Tarim River[J]. Journal of Desert Research,2O07,27 (1): 52-58.]   
+[18] 李均力,肖昊,沈占锋,等.2013—2018年塔里木河下游植被动 态变化及其对生态输水的响应[J].干旱区研究,2020,37(4): 985-992.[Li Junli, Xiao Hao, Shen Zhanfeng,et al.Vegetation changes during the 2013—2018 period and its response to ecological water transport in the lower reaches of the Tarim River[J].Arid Zone Research,2020,37(4): 985-992.]   
+[19] 陈亚宁,郝兴明,陈亚鹏,等.新疆塔里木河流域水系连通与生 态保护对策研究[J].中国科学院院刊,2019,34(10):1156- 1164.[Chen Yaning,Hao Xingming, Chen Yapeng, et al. Study on water system connectivity and ecological protection countermeasures of Tarim River Basin in Xinjiang[J]. Bulletin of Chinese Academy of Sciences,2019,34(10): 1156-1164.]   
+[20] 牛建龙,柳维扬,王家强,等.塔里木河干流流域气候变化特征 及其突变分析[J].灌溉排水学报,2017,36(2):106-112.[Niu Jianlong,Liu Weiyang,Wang Jiaqiang,et al.Analysis of change characteristics and mutation on climate in the main stream of Tarim River[J].Journal of Irrigation and Drainage,2017,36(2): 106-112.]   
+[21] 李丽君,张小清,陈长清,等.近20a塔里木河下游输水对生态 环境的影响[J].干旱区地理,2018,41(2):238-247.[Li Lijun, Zhang Xiaoqing, Chen Changqing, et al. Ecological effects of water conveyance on the lower reaches of Tarim River in recent twenty years[J]. Arid Land Geography,2018,41(2): 238-247.]   
+[22] 陈海燕,陈亚宁.新疆塔里木河干流荒漠河岸林植被带变化[J]. 生态学杂志,2015,34(11):3166-3173.[Chen Haiyan,Chen Yaning. Changes of desert riparian vegetation along the main stream of Tarim River,Xinjiang[J].Chinese Journal of Ecology,2O15,34 (11): 3166-3173.]   
+[23]LiP,Hu Z,Liu Y. Shift in the trend of browning in southwestern Tibetan Plateau in the past two decades[J].Agricultural and Forest Meteorology，2020,287:107950,doi:101016/j.agrformet.2020. 107950.
+
+# Effects of ecological water conveyance on gross primary productivity of vegetation in Tarim River in recent 2O years
+
+ZHANG Xueqi'²， XIA Qianqian³4， CHEN Yaning'， XIA Zhenhua'， ZHU Chengang',LI Jinglong45， HAO Haichao'²， XIANG Yanyun1,2
+
+(1.StateKeyLaboratoryof DesertandOasis EcologyXinjiangInstituteofEcologyand Geography,ChineseAcademyof Sciences,Urumqi 8300l1,Xinjiang,China;2.Universityof Chinese Academy ofSciences,Beijing 10o049,China; 3.College ofBiologyandGeographyYiliNormalUniversity,Yining350oo,Xinjiang,China;4.ColegeofResourcsand Environmental Sciences,Xinjiang University,Urumqi 83oo46,Xinjiang,China;5.Institute of Desert Meteorology,China Meteorological Administration, Urumqi 83OO17, Xinjiang, China)
+
+Abstract: Gross primary productivity(GPP)is a key link in the carbon cycle of terrestrial ecosystems and is very important for maintaining global carbon balance.This paper studied and analyzed the GPP changes of terrestrial ecosystem water conveyance of the Tarim River, Xinjiang,China based on the Google Earth Engine platform; by using MOD17A2H products released by NASA LP DAAC.The results showed that: (1) the ecological environment ofthe Tarim River has significantly improved after ecological water conveyance.In the early stage of water conveyance, the average GPP of Tarim River growing season was $3 6 7 5 . 5 1 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ per season in the middle stage, GPP increased to $4 0 2 4 . 0 9 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 }$ per season in the growing season, and raised to $4 8 9 6 . 6 1 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 }$ per season in the later stage.From 2000 to 2020,GPP showed an obvious increasing trend in the growing season, with an increased rate of about $9 0 . 2 5 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ in each growing season.After 2010, the daily GPP increased more in the upper, middle, and lower reaches, increasing by $2 . 5 4 ~ \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ $2 . 1 7 \ \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ ,and $1 . 7 4 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ per 10 years, respectively. (2) During the growing season (May-October),the diurnal GPP changes of the Tarim River terestrial ecosystem were significantly different in different regions. Overall, the daily GPP change in the upstream region showed a single peak trend that first increases and then decreases, whereas the downstream region showed a bimodaltrend. (3)The ecological water conveyance project of Tarim River is beneficial to the change of GPP in the growing season, especially the change of GPP in June and August.
+
+Key words: gross primary productivity (GPP)；ecological water conveyance project; spatiotemporal distribution;Populus euphratica key conservation areas; Tarim River

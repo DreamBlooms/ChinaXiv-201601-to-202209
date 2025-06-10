@@ -1,0 +1,175 @@
+牛奶体细胞生成与乳品质量和安全汪悦苏汉书 黄清 郭 琪　蒋林树\* 王炳\*(北京农学院动物科学技术学院，奶牛营养学北京市重点实验室，北京 102206)
+
+摘要：牛奶体细胞数是反映奶牛乳房健康状况的重要指标之一，该指标偏高意味着奶牛可能处于亚健康或疾病状态。在奶牛正常生理状态下，牛奶体细胞的组成和数量都是基本稳定的，而当乳房外伤或疾病（如乳房炎等）发生时，牛奶体细胞数增多，产奶量降低，乳品质量下降。牛奶的品质关系到消费者的健康，因此，确保生鲜乳的质量安全是奶牛养殖工作者必须着手解决的首要问题。因此，本文围绕牛奶体细胞生成与产奶量和乳品质之间的关系展开综述，为提高乳品质量安全提供理论指导。
+
+关键词：奶牛；体细胞；产奶量；乳品质量和安全中图分类号：S852.2 文献标识码：A 文章编号：
+
+牛奶中的体细胞是指源于奶牛身体的细胞，其主要成分是乳腺腺泡脱落的上皮细胞和参与机体免疫的免疫细胞。牛奶体细胞数（somatic cell count,SCC）是指每毫升牛奶中体细胞总数，SCC 是反映奶牛乳房健康状况的重要指标之一。该指标偏高意味着奶牛可能处于亚健康或疾病状态，如乳房出现外伤或致病菌入侵感染（如乳房炎等）时，或者动物机体出现代谢紊乱（如酸中毒或者酮病）时，容易导致牛奶 SCC 增多，并且降低产奶量以及乳品质。而安全、可靠、优质的生鲜乳关系到每一个消费者的饮食安全与健康。到目前为止，有研究发现奶牛牛奶中 SCC 的变化与产奶量以及其他乳成分密切相关[1]。Dos Reis 等[2]研究发现，与低 SCC 乳相比，高 SCC奶中乳脂率、乳蛋白率、乳糖率显著下降。这可能是由于奶牛感染乳房炎后，导致食欲不振，日摄入营养不足，血液葡萄糖含量较低。Ma 等[3指出，随着牛奶 SCC 的增高，产奶量逐渐下降。产奶量与 SCC 呈显著线性负相关，SCC 线性分值上升，则奶牛产奶量下降；该分值每上升1分，产奶量约下降（奶损失） $0 . 8 ~ \mathrm { k g }$ 。奶牛在患乳房炎
+
+收稿日期：2016-01-01
+
+时，乳腺细胞受到损伤或破坏，从而引起分泌机能障碍，进而导致牛奶 SCC 升高以及产奶量减少。因此，本文旨在对牛奶体细胞的生成及其与产奶量以及乳成分之间的关系进行综述，为奶牛养殖管理、调控奶牛机体健康、降低牛奶SCC以及提高乳品质提供理论指导。
+
+1牛奶体细胞的来源、检测方法及监测意义
+
+1.1来源
+
+体细胞主要是由乳腺腺泡脱落的上皮细胞和参与机体免疫反应的免疫细胞(包括巨噬细胞、淋巴细胞、多形核嗜中性白细胞）组成[4]。正常情况下，牛奶中的少数白细胞能够抵御外来微生物的感染。当外源致病菌入侵时，机体会向乳腺释放大量的白细胞，以起到抗炎作用，从而导致牛奶 SCC 激增[5]。
+
+牛奶 SCC是衡量乳房健康的重要指标之一。正常情况下，牛奶SCC为20万 ${ \sim } 3 0$ 万个 $/ \mathrm { m L }$ 。该指标偏高，意味着奶牛可能处于亚健康或疾病状态。乳区感染的牛乳汁中大约 $90 \%$ 以上的细胞是白细胞，其余为乳房组织的分泌细胞和脱落的上皮细胞。牛奶 SCC与乳房炎的关系见表1。
+
+表1牛奶 SCC 范围与乳房炎的关系  
+Table 1The relationship between milk SCC and mastitis[6]   
+
+<html><body><table><tr><td>编号 No.</td><td>SCC 范围 SCC range/（万个/mL）</td><td>乳房炎诊断 Mammitis diagnosis</td></tr><tr><td>1</td><td>0~20</td><td>健康</td></tr><tr><td>2</td><td>20~40</td><td>疑似乳房炎</td></tr><tr><td>3</td><td>40~120</td><td>轻度乳房炎</td></tr><tr><td>4</td><td>120~500</td><td>较严重乳房炎</td></tr><tr><td>5</td><td>>500</td><td>严重乳房炎</td></tr></table></body></html>
+
+# 1.2 检测方法
+
+牛奶 SCC 的主要检测方法基于牛奶 SCC 的不同理化特性，大体分为直接检测法和间接  
+检测法。直接检测法包括人工镜检法和计算机视觉检测法。前者主要采用显微镜观察载玻片  
+上牛奶样品并由人工对体细胞进行计数。后者是通过计算机视觉对 SCC 进行检测[7]。间接检测牛奶SCC 的方法较多，包括加利福尼亚乳房炎检测（CMT）法、威斯康辛乳
+
+房炎试验（WMT）法、DNA 法、ATP 法、电导率（EC）法、pH法还有黏度法等[8]。而目前最常用的是近红外法测 SCC，利用近红外光谱测定牛奶中的成分从而对SCC 进行定性鉴别。
+
+# 1.3 监测意义
+
+牛奶 SCC往往随着奶牛机体发生炎症程度的加剧而增多，当炎症减轻，SCC 会随之减少，主要作用是抗炎和修复受损组织。因此，通过对不同来源的牛奶进行 SCC 的测定，可以作为衡量奶牛健康以及乳腺感染程度的方法之一[9]。对牛奶 SCC 检测的重要作用还包括以下几点：1）监测牛群隐形乳房炎的流行率；2）判断每头牛感染的严重程度和持续时间;3）对比 SCC变化，确定牛群乳房炎发展趋势；4）确定感染牛，通过DHI报表即可找出 SCC高的个体牛并与现场CMT 法检查相结合来确定感染牛及感染乳区；5）确定健康牛和感染牛的挤奶次序；6）避免 SCC 高的牛奶混入原料奶，保证原料奶质量；7）确定淘汰牛标准。
+
+# 2影响牛奶体细胞生成的关键因素
+
+Jagielski 等[10]指出，因为奶牛奶中 SCC 的升高是对乳腺损伤的反映并且由炎症介质调节，所以影响 SCC 的主要因素是乳腺受到感染。在乳腺未感染时，管理、年龄、季节等其他因素对牛奶 SCC 的影响并不显著。但是，近年来有研究发现，奶牛的不同干奶期长度对泌乳阶段牛奶 SCC 会有一定影响[I]。此外，通过研究高 SCC 奶中蛋白质组分的变化，发现前列腺素与 SCC 也存在一定的关联性[12]。
+
+# 2.1 乳房炎
+
+乳腺内部感染容易诱发奶牛乳房炎的发生，进而引起牛奶 SCC 的升高。奶牛隐性乳房炎的发病率较高，约在 $4 6 . 4 { \sim } 8 5 . 7 \% ^ { [ 1 3 ] }$ 。虽然隐性乳房炎没有临床症状，却可以引起产奶量的急剧减少[14]。到目前为止，对引起乳房炎的致病菌已有大量研究。Baumert等[15]研究发现牛棒状杆菌（Corynebacterium bovis）、无乳链球菌（Streptococcus agalactiae）以及凝固酶阴性葡萄球菌（coagulase-negative Staphylococcus）是造成隐性乳房炎的主要病原菌。引起乳房炎的病原菌，根据其传播特点，大体可分为2类：一类是接触传染性病原微生物，它定植于乳腺并通过挤奶传播，包括无乳链球菌、停乳链球菌（Streptococcus dysgalactiae）、金黄色葡萄球菌（Staphylococcus aureus）和支原体（mycoplasma）；另一类为环境性病原体，包括大肠杆菌（Escherichiacoli）、肺炎克雷伯菌（Klebsiellapneumoniae）、产气肠杆菌
+
+（Enterobacter aerogenes）、沙雷氏菌（Serratia）、变形杆菌(Proteus）、假单胞菌(Pseudomonas）等。Awale 等[1]研究表明，奶牛乳腺受到链球菌感染后的牛奶 SCC 最高，其次是凝固酶阴性葡萄球菌。而 Kano 等[17]在试验中发现，奶牛乳腺分别受到链球菌、凝固酶阴性葡萄球菌、金黄色葡萄球菌、大肠杆菌、假单胞菌和酵母菌（Yeast）感染后，所产出的牛奶中 SCC 差异不显著。Aslantas 等[18]研究发现，大肠杆菌诱导的乳腺感染会导致奶牛直肠温度持续升高、白细胞循环水平降低、牛奶中 SCC 升高以及产奶量减少，并且引起牛奶体细胞中的 Toll 样受体2以及血细胞中的细胞因子[肿瘤坏死因子 $\mathfrak { a }$ （TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ）、白细胞介素 $1 \beta$ （IL-1β）、白细胞介素6（IL-6）和白细胞介素8（IL-8）]的 mRNA 表达增加。这些细胞因子以及 Toll样受体的mRNA丰度变化，可以和牛奶 SCC一起作为乳房炎的生物标记物。Cortinhas 等[19]研究大肠杆菌脂多糖（LPS）诱导乳房炎对牛乳腺和肝转录组的影响，结果发现，在乳腺组织中,LPS 攻击组和正常奶牛组相比有189 个差异表达基因,其中 20 个下调和 169 个上调。在肝组织中,LPS攻击组和正常奶牛组相比有107个差异表达基因,其中42下调和65上调。在乳腺中，通过生物信息学分析发现LPS攻击乳腺后导致 NOD 样受体信号、Toll样受体信号以及视黄酸诱导基因蛋白I（RIG-I）样受体信号传导和凋亡途径的活化。Ferreira 等[20]研究发现，与哺乳期LPS 攻击相比，在产后早期进行LPS 攻击的乳腺中循环多形核白细胞的数目较少并且发育不成熟，功能上较弱，对感染区域的渗透能力也有所受损。Jrgensen等[21]观察到 LPS攻击乳腺 $2 . 5 \mathrm { h }$ 可导致牛奶 SCC 增加（对感染的局部反应）。Svensson 等[22]在 LPS 攻击后2\~6h内检测到体温升高（对感染的全身反应）。另外，有研究发现患有乳房炎奶牛牛奶中的乳酸脱氢酶、 $\beta$ -N-乙酰氨基葡萄糖苷酶和酸性磷酸酶活性与 SCC 也存在着一定的相关性。乳酸脱氢酶主要来自损伤的上皮细胞以及乳汁白细胞，乳汁中乳酸脱氢酶活性的增加反映了白细胞大量聚集的炎症过程和乳腺组织的损害程度[23]。并且，有研究发现，奶牛乳腺受到金黄色葡萄球菌和链球菌感染后，乳酸脱氢酶活性显著升高，说明金黄色葡萄球菌和链球菌感染可引起乳腺损伤[24-25]。β-N-乙酰氨基葡萄糖苷酶是一种溶菌酶，产生于乳腺组织，存在于牛奶中，是乳腺上皮细胞破坏的标志。Aitken 等[26]认为，根据牛奶中 β-N-乙酰氨基葡萄糖苷酶的活性可以预测乳腺的感染，其研究证明，乳腺受到细菌感染后，牛奶中 $\beta$ -N-乙酰氨基葡萄糖苷酶活性显著升高。酸性磷酸酶来自胞浆、线粒体、核质和微粒体中，由半胱氨酸和二硫苏糖醇刺激释放进乳汁所形成。
+
+Mallard 等[27]研究发现，金黄色葡萄球菌感染后，牛奶中酸性磷酸酶活性有明显的升高。Piepers 等[28]研究发现，乳酸脱氢酶活性与牛奶 SCC有显著的相关性 $\scriptstyle ( r = 0 . 7 9 3$ 6)，并且乳酸脱氢酶与 $\beta$ -N-乙酰氨基葡萄糖苷酶和酸性磷酸酶都有显著的相关性。另外， $\beta$ -N-乙酰氨基葡萄糖苷酶活性与 SCC 呈正相关，并且 $\beta$ -N-乙酰氨基葡萄糖苷酶活性与不同细菌的感染相关性不同。具体为：当乳腺受到金黄色葡萄球菌 $\scriptstyle ( r = 0 . 9 4 1 )$ 、凝固酶阴性葡萄球菌 $\scriptstyle ( r = 0 . 7 6 1 )$ 、链球菌 $\left( r { = } 0 . 8 0 8 \right)$ 和大肠杆菌 $\left( r = 0 . 7 3 3 \right)$ 感染时， $\beta$ -N-乙酰氨基葡萄糖苷酶活性与 SCC 都有较强的相关性。此外，酸性磷酸酶活性与 SCC 以及其他2个酶活性都有极显著的相关性。综上所述，牛奶中乳酸脱氢酶、 $\beta$ -N-乙酰氨基葡萄糖苷酶和酸性磷酸酶的活性是反映乳腺感染的有效指标。
+
+# 2.2干奶期
+
+缩短或省略奶牛干奶期会影响其能量平衡和代谢状况。Van Hoeij 等[12]对不同干奶期长度对乳房炎的发病率、产特前牛奶 SCC以及产特后哺乳期临床乳房炎发病率的影响进行了研究。结果发现，与干奶30和60d的奶牛相比，无干奶期（0d）的奶牛在产特前出现了慢性乳腺内感染并且治愈率很低，同时产后哺乳期牛奶 SCC 显著升高。总结发现，干奶期长度和胎次与产后牛奶SCC 密切相关。另外，在进行60d干奶的奶牛中发现，干奶前牛奶中的SCC高低与产特后奶牛出现临床乳房炎的几率有较大正相关性。
+
+# 2.3 前列腺素
+
+前列腺素 E2(PGE2)是一种极其重要的脂质代谢产物，在受到生理或病理的各种刺激，尤其是有害刺激时被释放，在发热、炎症和血压调节中均发挥着重要作用。管又飞[29]通过研究 PGE2对免疫细胞的调控影响，发现在抗CD3 和抗CD28单克隆抗体的刺激下，随着PGE2 的浓度增加，T 细胞增殖的抑制率明显增加，T细胞增殖抑制率与PGE2 浓度之间呈显著的正相关。PGE2预处理降低巨噬细胞表面白细胞介素12（IL-12）受体的表达并抑制TNF-α、白细胞介素1（IL-1）、IL-8 和IL-12的表达。Minuti 等[30]采用酵母聚糖诱导腹腔巨噬细胞生成，试验发现PGE2可通过前列腺素E2受体亚型EP2和EP4受体抑制巨噬细胞产生TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 的能力，但同时刺激IL-10表达。这些研究表明，PGE2具有刺激2型免疫反应的能力。Hulbert 等[31]在具有高 SCC 的奶中发现前列腺素-H2 $D$ -异构酶的增加，推测牛奶中前列腺素-H2 $D$ -异构酶的上调可能是由乳房炎引起的过度表达或血乳屏障的损害的结果。此外，前列腺素可以诱导趋化因子，导致炎性细胞如嗜中性粒细胞、嗜酸性粒细胞和巨噬细胞的浸润[32]。这反映了上皮细胞可以在乳房炎期间产生前列腺素-H2 $D .$ -异构酶，通过将前列腺素H2 转化为前列腺素D2来募集必要的免疫细胞（图1），导致牛奶 SCC 增加。虽然已经报道导管素是乳房炎或亚临床乳房炎的生物标志物，但是导管素和 SCC之间的相关性低于前列腺素-H2 $D$ -异构酶和 SCC 之间的相关性[33]。Scherpenzeel等[34]指出前列腺素-H2 $D .$ 异构酶和 SCC之间的较高相关性，表明前列腺素-H2 $D _ { \mathbf { \alpha } }$ -异构酶可能是牛奶中SCC的指示剂。Kuhn等[35]指出，如果将前列腺素-H2 $D _ { \mathbf { \alpha } }$ -异构酶与乳房炎阶段相关的其他信号结合，前列腺素-H2$D$ -异构酶可以在乳腺感染期间提供乳腺防御机制的额外信息。这表明，与牛奶 SCC 相比，前列腺素-H2 $D$ -异构酶在预测奶牛乳房炎方面有更大的优势。
+
+![](images/d3f5d2618aeb824257f52669dd7ae1eda06b2cbfa40d40e7f093a34e29c04240.jpg)  
+图1前列腺素-H2 $D$ -异构酶在来自乳房炎乳牛的乳腺中募集SCC的作用
+
+PTGDS：前列腺素-H2D-异构酶；PGH2：前列腺素H2；PGD2：前列腺素D2。
+
+Fig.1The role of prostaglandin-H2 $D$ -isomerase in the recruitment of SCC in the mammary gland from cows with mastitis inflammation[36]
+
+3牛奶SCC与产奶量和乳品质间的关系
+
+3.1产奶量
+
+奶牛一旦患有临床乳房炎，则产奶量损失会达到 $20 \% { \sim } 7 0 \%$ ，甚至会导致个别奶牛无法泌乳[37]。因此，牛奶 SCC 与产奶量呈反比关系。但是，隐性乳房炎所造成的乳量损失在数值上有很大差异，每个乳区或每头牛损失乳量的比例大概在 $5 \% { \sim } 2 8 \% ^ { [ 3 8 ] }$ 。
+
+甘宗辉等[39]选择上海某奶牛场 2009 年7月至2012年6月的DHI记录作为分析数据来源，同时监测该牧场隐性乳房炎病原菌种类。从体细胞计数得分(SCS)和 SCC2个角度来分析产奶量与 SCC之间的关系，并对比隐性乳房炎病原菌种类和 SCC 的上升幅度，从而了解不同种病原菌的危害性。研究结果显示，SCS 能很好地反映出随着 SCC 的大量上升，产奶量下降的情况。从全群来看，体细胞线性平均分值与产奶量呈二次曲线关系。平均下来线性分值每上升1分，产奶量下降 $0 . 5 6 \mathrm { k g / d }$ 。从 SCC 角度分析可知，当 SCC 在5万个/mL 以内时，产奶量最高，超过5万个 $/ \mathrm { m L }$ 即产奶量开始下降。在10万\~200万个/mL，产奶量变化幅度较小，直到 SCC 超过 200 万个 $/ \mathrm { m L }$ 以后，产奶量才出现较大幅度的下降。同时研究表明，牛奶 SCC 升高对产奶量的影响主要是在泌乳高峰期开始以后，泌乳后期差异不大。
+
+# 3.2 乳品质
+
+与健康奶牛相比，患有亚临床乳房炎的奶牛所分泌的牛奶虽然在表观上没有明显差异，除了SCC的变化，牛奶中的乳脂肪、乳蛋白、乳糖等乳成分也发生变化，进而影响牛奶的品质和风味[40]。
+
+# 3.2.1 常规乳成分的变化
+
+当牛奶中SCC的含量达到10万个 $/ \mathrm { m L }$ ,乳脂率减少 $0 . 0 1 \%$ ，无脂固形物含量减少 $0 . 0 1 9 \%$ 乳蛋白率减少 $0 . 0 0 1 \%$ ，乳糖率也会损失 $1 0 \% { \sim } 2 0 \% ^ { [ 4 1 ] }$ 。由于感染血管的通透性增强，由血液流入奶中的盐类增加，导致奶产生咸味[42]。无脂固形物的一半是乳糖，所以，乳糖的减少导致无脂固形物的降低[43]。Schrick 等[44]研究发现，牛奶中 SCC 与乳蛋白率和乳糖率存在较大的相关性。这可能是因为乳房炎会增加乳房毛细血管的通透性，使得牛奶中的乳清蛋白含量增加，同时奶牛在患乳房炎后，较多分泌的纤维蛋白溶解酶会分解牛奶中的 $\mathrm { \bf { a } } .$ 酪蛋白和 $\beta$ （24酪蛋白，使得酪蛋白的含量下降。
+
+# 3.2.2 其他乳成分的变化
+
+Yang 等[45]通过研究高 SCC 牛奶中蛋白质组分的改变，发现单乳头患乳房炎的奶牛所分泌的牛奶中钠、氮化合物、白蛋白含量以及乳酸脱氢酶的活性都有所升高，而免疫球蛋白、α-乳清蛋白、 $\beta$ -乳球蛋白、钙、钾及无机磷的含量有所下降。Wisniewski等[46]对比健康奶牛与患有乳房炎的奶牛牛奶的蛋白质组分，结果发现，患有乳房炎的奶牛奶中血红蛋白、 ${ \mathfrak { \beta } }$ 酪蛋白、 $\kappa .$ -酪蛋白含量以及色氨酰-tRNA-合成酶活性等降低，但细胞色素C氧化酶以及膜联蛋白V含量升高。当奶牛注射了葡萄球菌的脂磷壁酸后，引起SCC 升高，另外牛奶中可以检测到蛋白酶，包括血纤维蛋白溶晦、组织蛋白酶B和组织蛋白酶D以及弹性蛋白酶等物质[47]。给奶牛乳腺注射大肠杆菌诱导乳房炎发生，检测乳成分发现除了SCC 的升高，低含量的炎症标志例如血清铁传递蛋白、纤维蛋白原 $\beta$ 链、S100钙结合蛋白A12以及抗菌肽等含量在牛奶中显著升高[48]。Safi 等[49]发现与健康奶牛相比，患有亚临床乳房炎的奶牛在炎症的急性阶段，在高SCC 牛奶中，结合珠蛋白、淀粉样蛋白A含量会有所增加，丝氨酸蛋白酶抑制剂A3-1、类玻连蛋白以及补体H含量都有所升高。另外，高 SCC 奶中，钙和磷含量减少，钠和氯含量增加，导致 pH 波动，电导率增加[50]。根据这一特性，研究出一种SCC 的检测方法，即电导率法[9]。它的基本原理是奶牛乳房发生炎症时，所分泌乳汁的钠、氯、碳酸氢根（ $\mathrm { H C O } _ { 3 } ^ { - }$ ）等离子含量增加，引起电导率的增加，而电导率与 SCC之间存在着正相关性。
+
+# 3.3牛奶 SCC 对乳制品加工的影响
+
+高 SCC 的生鲜乳可导致巴氏杀菌奶、超高温瞬时灭菌奶（UHT)以及酸奶中产生异味。这是由于奶中广泛的蛋白质水解作用可以产生更疏水的肽，最终导致乳制品出现苦味和涩味。并且，奶中高 SCC 可缩短乳制品的保质期。另外，牛奶中 SCC 的升高还影响其凝固性质，导致水分含量增加并降低干酪产量，造成巨大经济损失[13]。患有乳房炎的奶牛牛奶中无脂固形物含量降低，凝聚力减退，热稳定性在浓缩加工过程随着乳干物质含量的增加而降低[5]。高 SCC 牛奶对生鲜乳加工的影响主要有以下几方面：1）乳脂率低，影响黄油产量和味道，而且保存时间越长，影响越显著；2）酪蛋白含量低，影响奶酪品质；3）高 SCC 奶中产生免疫球蛋白等抑菌因子，影响酸奶发酵；4）高 SCC 奶中含有过氧化氢酶，它可催化奶中不饱和脂肪酸过氧化物裂解，使乳制品产生不良风味；5）高 SCC 奶中钠和氯离子含量增加，钙和钾离子含量减少，使得pH波动，影响菌种繁殖，凝乳酶凝固时间延长，使得奶制品变苦变咸[52]。  
+DiMarzo 等[38]通过研究不同 SCC 牛奶对喷雾干燥奶粉的影响，研究发现，奶粉样品的蛋白质和灰分含量与 SCC 增加相关。脱脂奶粉(SMP)的羟甲基糠醛含量高于全脂奶粉(WMP)。随着 SCC 的增加，SMP 和WMP 的溶解度指数受到不利影响。并且，SMP 和WMP 的焦烧颗粒增加。不同水平 SCC 牛奶所制备的奶粉的粒度分布也存在显著差异。虽然WMP 具有更均匀和更大颗粒结构，但SMP具有更大的比表面积。因此，牛奶 SCC 增加对奶粉质量有
+
+负面影响。
+
+# 4控制和降低牛奶体细胞数措施
+
+牛奶 SCC的高低直接反映了一个牧场的总体管理水平。保证牛群健康，降低 SCC，提高产奶量和质量，以获得最佳经济效益，应该从多方面着手。包括加强牛场卫生环境管理、规范挤奶操作程序以及实施有效的控制和治疗措施等[40]。对于已患有亚临床或临床乳房炎的奶牛来说，可以选择采用替代抗生素的绿色、安全、在机体内无残留且不会导致机体产生抗药性的替代治疗品进行治疗，例如，在饲粮中添加天然植物提取物、皂甙类、橘柑类等物质以提高奶牛免疫力[53]；还可以补充微量元素和维生素，以减少乳房炎的发生[54]。Stelwagen等[55]研究发现，糖皮质激素例如泼尼松龙能够用增加LPS攻击的奶中血—乳屏障的完整性，减少牛奶体细胞的生成以及炎症发生。丁昕颖等[5发现，利用以嗜乳酸杆菌和枯草芽孢杆菌为主要菌种的新型微生态制剂，并配以适当比例的延胡索酸、柠檬酸和乙酸等短链有机酸能够对隐性乳房炎有一定的治疗作用，同时还可以降低牛奶 SCC以及改善乳品质。另外，在研究中，从营养基因组学这一角度出发，推进现有技术在营养与疾病对牛奶体细胞生成以及乳成分合成影响的应用研究。例如，从牛奶中提取RNA的技术进行营养基因组研究可以解决以往通常依赖于活体采样或屠宰所取得的乳腺组织样本，并提高动物福利和减少经济和时间成本[57]。这为研究奶牛乳腺健康、营养代谢以及调控奶牛牛奶 SCC 提供了新的思路。
+
+# 5小结与展望
+
+牛奶 SCC 是反映奶牛乳腺健康的重要指标之一。牛奶 SCC 的升高会对产奶量和乳品质造成一定的负面影响。外源致病菌感染乳腺，诱发奶牛乳房炎，导致牛奶 SCC 升高，不仅会影响奶牛健康，也会对牛奶乳成分、产奶量、乳品质以及乳制品风味等产生不利影响。近年来，国内外对牛奶 SCC 的检测、临床及亚临床乳房炎发生的生物标记物的研究以及乳房炎的防治措施等做了大量工作。但是，内源性代谢疾病与产奶量和乳品质之间的关系仍不清晰，不同外源性致病菌种对乳腺感染的机制仍需要进一步揭示。而分子生物学特别是组学技术的发展可能为我们提供一种更加快速的识别病因，有针对性的进行预防和治疗的有效方法。总之，需要更多的研究来探究牛奶 SCC 与产奶量及乳品质之间的关系，最终为实现奶牛健康养殖、高效生产、优质奶源提供理论指导。
+
+参考文献：
+
+[1]STEVENS M,PIEPERS S,SUPRE K,et al.Quantification of antimicrobial consumption in adult cattle on dairy herds in Flanders,Belgium,and associations with udder health,milk quality,and production performance[J].Journal of Dairy Science,2016,99(3):2118-2130.   
+[2]DOS REIS C B M,BARREIRO JR,MORENO JF G,et al.Evaluation of somatic cell count thresholds to detect subclinical mastitis in Gyr cows[J].Journal of Dairy Science,2011,94(9):4406- 12.   
+[3]MA Y,RYAN C,BARBANOD M,et al.Efects ofsomaticcellcount on quality and shelf-life of pasteurized fluid milk[J].Journal of Dairy Science,2000,83(2):264-274.   
+[4]田树清,范艳平.乳体细胞数(SCC)在奶牛养殖业中的应用[J].中国奶牛,2009(7):46-47. [5]于洪远,黄继卓,沈新丽,等.奶牛乳体细胞数变化及影响因素调查[J].黑龙江八一农垦大学 学报,2014,26(1):46-49.   
+[6]陈连民,陈前岭,王梦芝.牛奶体细胞数的影响因素及其调控技术[J].饲料工业 ,2015,36(7):15-19.   
+[7]田树清,范艳平.原料乳体细胞的检测方法[J].中国乳业,2009(1):66-67.   
+[8]张春江.降低牛奶体细胞数的综合技术措施[J].天津农业科学,2010,16(4):86-88.   
+[9]URBANOVA E,SEDINOVA VSKARDA J,et al.Use of the Synpor membrane filter for the separation and determination of the number of somatic cells in the milk of dairy cows using the indole DNA filtration method[J].Veterinarni Medicina,2011,30(7):409-418.   
+[10]JAGIELSKI T,LASSA H,AHRHOLDT J,et al.Genotyping of bovine Prototheca mastitis isolates from Poland[J].Veterinary Microbiology,2010,149(1/2):283-287.   
+[11] XU M,DU S,WANG J,et al.Influence of rumen escape starch on pancreatic exocrine secretion of goats[J].Journal of Animal Physiology and Animal Nutrition,2009,93(1):122-129. [12]VAN HOEIJ R J,LAM T J G M,DE KONING D B,et al.Cow characteristics and their association with udder health after different dryperiod lengths[J].Journal of Dairy Science,2016,99(10):8330-8340.   
+[13]HINZ K,LARSEN L B,WELLNITZ O,et al.Proteolytic and proteomic changes in milk at quarter level folowing infusion with Escherichia coli lipopolysaccharide[J].Journal of Dairy
+
+Science,2012,95(4):1655-1666.
+
+[14]BARKEMA H W,SCHUKKEN Y H,LAM T JG M,et al.Incidence of clinical mastitis in dairy herds grouped in three categories by bulk milk somatic cell counts[J].Journal of Dairy Science,1998,81(2):411-419.
+
+[15]BAUMERT A,BRUCKMAIER R M,WELLNITZ O.Cel population,viability,and some key immunomodulatory molecules in different milk somatic cell samples in dairy cows[J].Journal of Dairy Research,2009,76(3):356-364.   
+[16] AWALE M M,DUDHATRA G,KUMAR A,et al.Bovine Mastitis:A Threat to Economy[J].Bovine Mastitis:A Threat to Economy,2012,1: 295.   
+[17]KANO R,SATO A,SOBUKAWA H,et al.Short communication:ELISA system for screening of bovine mastitis caused by Prototheca zopfi[J].Journal of Dairy Science,2016,99(8):6590-6593. [18]ASLANTAS O,DEMIR C.Investigation of the antibiotic resistance and biofilm-forming ability of Staphylococcus aureus from subclinical bovine mastitis cases[J].Journal of Dairy Science,2016,99(11):8607-8613.   
+[19] CORTINHAS C S,TOMAZI T,ZONI M S F,et al.Randomized clinical trial comparing ceftiofur hydrochloride with a positive control protocol for intramammary treatment of nonsevere clinical mastitis in dairy cows[J].Journal of Dairy Science,2016,99(7):5619-5628.   
+[20]FERREIRA M A,BERNARDO L G,NEVES L S,et al.Virulence profile and genetic variability of Staphylococcus aureus isolated from artisanal cheese[J].Journal of Dairy Science,2016,99(11):8589-8597.   
+[21] JORGENSEN C H,KRISTENSEN A R,OSTERGAARD S,et al.Use of online measures of L-lactate dehydrogenase for classfication of postreatment mammary Staphylococcus aureus infection status in dairy cows[J].Journal ofDairy Science,2016,99(10):8375-8383.   
+[22]SVENSSON C,NYMAN A K,WALLER K P,et al.Efects of housing,management,and health of dairy heifers on first-lactation udder health in southwest Sweden[J].Journal of Dairy Science,2006,89(6):1990-1999.   
+[23]NYMAN A K,EMANUELSON U,WALLER K P.Diagnostic test performance of somatic 11 /15
+
+cell count,lactate dehydrogenase,and N-acetyl- $\cdot \beta$ 2 $D$ -glucosaminidase for detecting dairy cows with uaaIary iecuon[JJ.JourIai 01 DaIry Science,∠U15,yy(∠):144U-1440.
+
+[24]GONGGRIJP M A,SANTMAN-BERENDS I M G A,HEUVELINK A E,et al.Prevalence and risk factors for extended-spectrum $\beta$ -lactamase- and AmpC-producing Escherichia coli in dairy farms[J].Journal of Dairy Science,2016,99(11):9001-9013.   
+[25]DOLL K,SICKINGER M,SEEGER T.New aspects in the pathogenesis of abomasal displacement[J].The Veterinary Journal,2009,181(2):90-96.   
+[26]AITKEN S L,CORL C M,SORDILLO L M.Immunopathology of mastitis:insights into diseaserecognitionandresolution[J].JournalofMammaryGlandBiologyand Neoplasia,2011,16(4):291-304.   
+[27]MALLARD B A,DEKKERS JC,IRELAND M J,et al.Alteration in immune responsiveness during the peripartum period and its ramification on dairy cow and calf health[J].Journal of Dairy Science,2013,81(2):585-595.   
+[28]PIEPERS S,OPSOMER G,BARKEMA H W,et al.Heifers infected with coagulase-negative staphylococci in early lactation have fewer cases of clinical mastitis and higher milk production in their first lactation than noninfected heifers[J].Journal of Dairy Science,2010,93(5):2014-2024. [29]管又飞.前列腺素 E2的生理功能[C]//中国生理学会第23届全国会员代表大会暨生理学 学术大会论文摘要文集.西安:中国生理学会,2010.   
+[30]MINUTI A,ZHOU Z,GRAUGNARD D E,et al.Acute mammary and liver transcriptome responses after an intramammary Escherichia coli lipopolysaccharide challnge in postpartal dairy cows[J].Physiological Reports,2015,3(4):e12388.   
+[31]HULBERT L E,MOISA S J.Stress,immunityand the management of calves[J]J.Journal of Dairy Science,2016,99(4):3199-3216.   
+[32] LACASSEP,BLOCK E,TURNERJ,etal.Evolutionofinsulin-likegrowth factor-1,prostaglandin E2,and mitogenic activity of bovine mammary primary lymph during the dry period and lactogenesis[J].Journal of Dairy Science,1996,79(10):1746-1753.   
+[33]KOWSAR R,MAREY M A,SHIMIZU T,et al.Short communication:urea induces T helper 2
+
+(Th2) type environment at transcriptional level and prostaglandin $\mathrm { E } _ { 2 }$ secretion in bovine oviduct epithelial cells in culture.[J].Journal of Dairy Science,2016,99(7):5844-5850
+
+[34]SCHERPENZEEL C G M,DEN UIJL I E M,VAN S G,et al.Evaluation of the use of dry cow antibiotics in low somatic cell count cows[J].Journal of Dairy Science,2014,97(6):3606- 3614.   
+[35]KUHN M T,HUTCHISON JL,NORMAN H D.Effects of length of dry period on yields of milk fat and protein,fertility and milk somatic cell score in the subsequent lactation of dairy cows[J].Journal of Dairy Research,2006,73(2):154-162.   
+[36]ZHANG L,BOEREN S,VAN HOOIJDONK A C M,et al.A proteomic perspective on the changesinmilkproteinsduetohighsomaticcell count[J].JournalofDairy Science,2015,98(8):5339-5351.   
+[37]杨光锐,陈丽红,张晓燕,等.小鼠膜结合型前列腺素 $\mathrm { E } _ { 2 }$ 合酶-2在泌尿生殖道的表达[C]//中 华医学会肾脏病学分会2006年学术年会论文集.厦门：中华医学会,2006.   
+[38]DI MARZO L,WOJCIECHOWSKI K L,BARBANO D M.Preparation and stability of milk somatic cel reference materials[J].Journal of Dairy Science,2016,99(9):7679-7689.   
+[39]甘宗辉,杨章平,李云龙,等.奶牛乳房炎的细菌感染与奶中体细胞数及乳成分的关系[J] 畜牧兽医学报,2013,44(6):972-979.   
+[40]SERT D,MERCAN E,AYDEMIR S,et al.Effects of milk somatic cell counts on some physicochemical and functional characteristics of skim and whole milk powders[J].Journal of Dairy Science,2016,99(7):5254-5264.   
+[41]PASSCHYN P,PIEPERS S,DE VLIEGHER S.Systemic prepartum treatment of end-term dairy heifers with penethamate hydriodide:effect on udder health,milk yield,and culling until 120 days in milk[J].Journal of Dairy Science,2013,96(10):6324-6335.   
+[42]CHIARADIA E,VALIANI A,TARTAGLIA M,et al.Ovine subclinical mastitis:proteomic analysis of whey and milk fat globules unveils putative diagnostic biomarkers in milk[J].Journal of Proteomics,2013,83:144-159.   
+[43]MITTERHUEMER S,PETZL W,KREBS S,et al.Escherichia coli infection induces distinct localandsystemictranscriptomeresponses inthemammarygland[J].BMC Genomics,2010,11(1):138.   
+[44]SCHRICK F N,HOCKETT M E,SAXTON A M,et al.Influence of subclinical mastitis during early lactation on reproductive parameters[J].Journal of Dairy Science,2001,84(6):1407- 1412.   
+[45]YANG Y X,ZHAO X X,YONG Z.Proteomic analysis of mammary tissues from healthy cows and clinical mastitic cows for identification of disease-related proteins[J].Veterinary Research Communications,2009,33(4):295-303.   
+[46]WISNIEWSKI J R,ZOUGMAN A,NAGARAJ N,et al.Universal sample preparation method for proteome analysis[J].Nature Methods,2009,6(5):359-362.   
+[47]RANKIN S A,CHRISTIANSEN A,LEE W,et al.Invited review:The application of alkaline phosphatase assays for the validation of milk product pasteurization[J].Journal of Dairy Science,2010,93(12):5538-5551.   
+[48]TECLE T,TRIPATHI S,HARTSHORN K L.Defensinsand cathelicidins in lung immunity[J].Innate Immunity,2010,16(3):151-159.   
+[49]SAFI S,KHOSHVAGHTI A,JAFARZADEH S R,et al.Acute phase proteins in the diagnosis of bovine subclinical mastitis[J].Veterinary Clinical Pathology,2009,38(4):471-476.   
+[50]SMOLENSKI G A,WIELICZKO R J,PRYOR S M,et al.The abundance of milk cathelicidin proteins during bovine mastitis[J].Veterinary Immunology and Immunopathology,2011,143(1/2):125-130.   
+[51]魏光河,熊涛.4种方法检测奶牛隐性乳房炎的结果比较及分析[J].中国兽医学报 ,2010,30(8):1103-1106.   
+[52]BERTONI G,TREVISI E,PICCIOLI-CAPPELLI F.Effects of acetyl-salicylate used in post-calving of dairy cows[J].Veterinary Research Communications,2004,28 （Suppl.1） :217-219. [53]ANDERSSON L,EMANUELSON U.An epidemiological study of hyperketonaemia in Swedish dairy cows;determinantsand therelation to fertility[J].Preventive Veterinary Medicine,1985,3(5):449-462.
+
+[54]TURK R,PIRAS C,KOVACIC M,et al.Proteomics of inflammatory and oxidative stress response in cows with subclinical and clinical mastitis[J].Journal of Proteomics,2012,75(14):4412-4428.
+
+[55] STELWAGEN K,FARR V C,MCFADDEN H A,et al.Time course ofmilk accumulation-induced opening of mammary tight junctions,and blood clearance of milk components[J].American Journal of Physiology,1997,273(1):R379-R386.
+
+[56]丁昕颖,佟桂芝,张淑芬,等.微生态制剂对奶牛乳成分和体细胞数的影响[J].饲料研究,2016(13):28-30.
+
+[57]ALBENZIO M,CAROPRESE M.Differential leucocyte count for ewe milk with low and high somatic cell count[J].Journal of Dairy Research,2011,78(1):43-48.
+
+# Milk Somatic Cell Formation and Milk Quality and Safety
+
+WANG Yue SU Hanshu HUANG Qingyun GUO Qi JIANG Linshu\* WANG Bing\* (Key Laboratory of Dairy Nutrition in Beijing, College of Animal Science and Technology, Beijing Agricultural College, Beijing 102206, China)
+
+Abstract: Milk somatic cell count (SCC) is one of the most important index of the health of mammary gland in dairy cows. High milk SCC indicates a subclinical health or disease status for dairy cows. Composition and count of somatic cells are basically stable under healthy state of animals. When the mammary gland is injured or infected (such as mastitis),milk SCC will increase,and folows decreases of milk yield and quality. Milk quality is important for the health of human being. Improving the quality of raw milk has become a key objective for dairy farming industry. Therefore,this paper focused on the relationship between somatic cell formation and milk production and quality, and from which to provide theoretical guidance for improving milk quality and safety.
+
+Key words: dairy cow; somatic cell; milk yield; milk quality and safety

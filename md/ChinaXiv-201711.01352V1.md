@@ -1,0 +1,212 @@
+1霉菌毒素吸附剂对产蛋鸡生产性能、蛋黄中微量元素含量、血清抗氧化和生化指标的影响陈继发」罗　玲」曲湘勇1\* 欧淑琪」王庆桥²
+
+（1.湖南农业大学动物科学技术学院，湖南畜禽安全生产协同创新中心，长沙 410128；2．湖南天心黄鸡育种有限公司，长沙 410143）
+
+摘要：本试验旨在研究霉菌毒素吸附剂[利百灵-Z(CZ）、赛弗(SF)]对产蛋鸡生产性能、蛋黄中微量元素含量、血清抗氧化和生化指标的影响。选取216只38 周龄健康的罗曼蛋鸡，随机分成3个组，每组6个重复，每个重复12只。对照组饲喂基础饲粮，试验组（CZ组、SF 组）分别在基础饲粮中添加 $0 . 5 ~ \mathrm { g / k g }$ 的2 种霉菌毒素吸附剂。预试期为10d，正试期为35 d。结果表明：1)与对照组相比， $\mathrm { C Z }$ 组产蛋鸡试验3\~5周产蛋率、日产蛋量显著提高（ $P { < } 0 . 0 5 \mathrm { ) }$ ）；饲粮中添加霉菌毒素吸附剂对产蛋鸡的平均蛋重、平均日采食量、料蛋比和死淘率均无显著影响 （ $. P { > } 0 . 0 5$ ）。2)与对照组相比，各试验组产蛋鸡第14天和第35 天蛋黄铜、锰含量均无显著差异（ $( P { > } 0 . 0 5 )$ ）； $\scriptstyle { \mathbf { C } } Z$ 组第14天蛋黄锌含量显著提高（ $\scriptstyle P < 0 . 0 5 .$ ）。3)饲粮中添加霉菌毒素吸附剂对第14天和第35天产蛋鸡血清谷胱甘肽过氧化酶活性和丙二醛含量无显著影响 （ $P { > } 0 . 0 5$ ）。与对照组相比，各试验组产蛋鸡第14天血清总抗氧化能力均显著提高（ $. P { < } 0 . 0 5 \rangle$ ）；SF组第35天血清总超氧化物歧化酶活性显著提高（ $P { < } 0 . 0 5$ ）。4)与对照组相比，CZ组产蛋鸡血清碱性磷酸酶活性、葡萄糖含量显著降低（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { } \ .$ ）；SF组血清总胆固醇含量显著降低（ $_ { . P < 0 . 0 5 }$ ）。由此可见，饲粮中霉菌毒素添加吸附剂CZ 明显提高了产蛋鸡产蛋性能，2种吸附剂都增强了产蛋鸡血清抗氧化功能，改善了血清生化指标。
+
+关键词：产蛋鸡；吸附剂；生产性能；微量元素；抗氧化；生化指标
+
+中图分类号：S831
+
+霉菌毒素是霉菌生长繁殖过程中产生的次级代谢产物，具有很强的毒性，不仅影响动物生产性能，还会危害人类健康。商品饲料及其原料很容易受到霉菌毒素污染，联合国粮农组织调查表明，全世界每年大约有 $2 5 \%$ 的谷物不同程度上受到霉菌毒素污染[1]，其对畜牧业、饲料加工企业的危害越来越受到人们重视，霉菌毒素不仅影响畜禽的生产性能，还会危害其机体抗氧化及免疫功能。当前，在饲料中添加霉菌毒素吸附剂是全球控制霉菌毒素污染采取的主要措施之一，天然硅铝酸盐（HSCAS）是常见的一类吸附剂，其对黄曲霉毒素（aflatoxin,AF）、玉米赤霉烯酮（zearalenone，ZEN）具有很好的吸附作用。Philips 等[2试验表明，饲粮中添加 $0 . 5 \%$ 的 HSCAS 能够减轻黄曲霉毒素 $\mathbf { B } _ { 1 }$ （aflatoxin $\mathbf { B } _ { 1 }$ ， $\mathbf { A F B } _ { 1 }$ ）对来航鸡和肉仔鸡的毒害作用；Afriyie-gyawu 等[]研究发现，蒙脱黏土和锂蒙脱石均可以有效吸附霉变饲料中的 ZEN，但此类吸附剂对呕吐毒素（deoxynivalenol,DON）、T-2 毒素等吸附能力不强。许多研究人员对HSCAS 类吸附剂进行改性，并探讨了改性后其对畜禽生产性能的影响。马玉龙等[4和杨荣芳等[5]的研究分别表明，纳米载铜蒙脱石可显著提高肉鸡的平均日增重（average daily gain，ADG），降低料重比（feed to gain，F/G），显著提高仔猪平均日采食量（average daily feed intake，ADFI），增加肥育猪 ADG，显著降低猪各生产阶段的 F/G;史明雷等[]的研究表明，载铜硅酸盐纳米微粒（copper-loaded silicate nanoparticles，CSN)有降低肉鸡 F/G 的趋势；而夏明亮等[7研究指出，添加 $0 . 5 \%$ 的铜改性蒙脱石后肉鸡 F/G 升高。可见，有关改性后HSCAS 对畜禽生产影响的研究结果并不一致，有待进一步探讨。目前，HSCAS 类吸附剂在猪、肉鸡和奶牛上的应用研究较多，而在产蛋鸡及蛋用禽生产中的应用研究还很少，且尚未有关于其对畜禽产品中微量元素含量影响的研究报道。本试验在产蛋鸡饲粮中添加2种改性HSCAS 类吸附剂，探讨其对产蛋鸡生产性能、蛋黄中微量元素含量、血清抗氧化和生化指标的影响，为霉菌毒素吸附剂的进一步研究及其在蛋用禽生产中的应用提供参考。
+
+1材料与方法
+
+# 1.1 试验材料
+
+试验所用霉菌毒素吸附剂分别为加利百灵-Z(Calibrin-Z，CZ）、赛弗(Saifu，SF)，均为市售产品。CZ主要成分为钙质蒙脱石，SF主要成分为钠质蒙脱石。
+
+# 1.2试验设计与饲养管理
+
+试验于2015年6月12日至2015年7月26日在湖南天心黄鸡育种有限公司进行，选取216只38周龄、体重相近、健康和采食正常的罗曼蛋鸡，随机分成3个组，每组6个重复，每个重复12只。对照组饲喂基础饲粮，试验组（CZ组、SF组）分别在基础饲粮中添加0.5g/kg 的2种霉菌毒素吸附剂。预试期各组统一饲喂基础饲粮，每天对鸡群进行观察，并及时调整鸡群，使各组产蛋鸡的饲料消耗量、产蛋率和蛋重差异不显著（ $\cdot P { > } 0 . 0 5$ ）。预试期10d，正试期 $3 5 \mathrm { d }$ 。基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table1Composition and nutrient levels of the basal diet（air-dry basis ）   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>64.00</td></tr><tr><td>豆粕 Soybean meal</td><td>24.00</td></tr><tr><td>石粉 Limestone</td><td>7.00</td></tr><tr><td>预混料 Premixl</td><td>5.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels²</td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>11.53</td></tr><tr><td>粗蛋白质 CP</td><td>16.54</td></tr><tr><td>赖氨酸Lys</td><td>0.80</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.54</td></tr><tr><td>钙Ca</td><td>3.50</td></tr><tr><td>有效磷 AP</td><td>0.36</td></tr></table></body></html>
+
+%
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: VA 6 000IU，VD3 2 500 IU，VE 25 IU, $\mathrm { V K } _ { 3 } 2 . 2 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 1 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 5 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 1 . 7 5$ mg，泛酸 pantothenate $1 2 \mathrm { m g }$ ，生物素biotin $0 . 1 4 \mathrm { m g }$ ，烟酸 nicotinic acid $3 4 ~ \mathrm { m g }$ ，叶酸 folicacid $0 . 8 ~ \mathrm { m g }$ ，胆碱chloride $3 5 0 \mathrm { m g }$ ，Fe $7 5 \mathrm { m g }$ ， $\mathrm { C u } 7 . 5 \mathrm { m g }$ ，Se $0 . 1 5 \mathrm { m g }$ ， $\mathrm { Z n 6 0 ~ m g }$ ， $\mathrm { M n } 6 0 \mathrm { m g }$ I 1.25 mg.
+
+2)营养水平均为计算值。Nutrient levels were calculated values.
+
+试验产蛋鸡采用上、中、下3层阶梯式笼养，每笼3只，每4笼1个重复，每日喂料2次（09:00、15:00），收蛋2次（11:30、16:30）。各组饲养管理条件相同，鸡舍温度为 $2 6 { \sim } 3 2 ^ { \circ } \mathrm { C }$ 相对湿度为 $7 5 \% { \sim } 8 5 \%$ ，自由采食、饮水，每日光照时间为 $1 6 \mathrm { ~ h ~ }$ ，自然光照和人工光照相结合，每日清扫鸡舍1次、每周对鸡舍带鸡喷雾消毒1次。
+
+# 1.3测定指标与方法
+
+# 1.3.1饲粮中霉菌毒素含量的检测
+
+试验第1天和第35天分别检测了饲粮中常见霉菌毒素的含量（表2）。其中，第1天饲粮中DON含量超标（限量标准为 $1 0 0 0 \mu \mathrm { g / k g }$ ）。采用高效液相色谱串联质谱法（HPLC-MS/MS），使用液相层析串联质谱仪（Agilent G6410 TtipleQuad LC/MS）测定饲粮中 AF、ZEN、DON、T-2毒素、伏马菌素（fumonisin，FB）和赭曲霉毒素（ochratoxin，OT）含量。饲粮中霉菌毒素含量的检测步骤为：样品萃取、萃液过滤、毒素纯化、定量分析。AF、ZEN、DON、T-2毒素、FB 和OT的最低检测限分别为1.0、4.5、4.5、2.0、3.5、 $1 . 0 \mu \mathrm { g / k g }$ 。
+
+表2饲粮中霉菌毒素含量实测值  
+Table 2The measured values of mycotoxin content in diets μg/kg   
+
+<html><body><table><tr><td>霉菌毒素</td><td>第1天 The 1st days</td><td>第35天 The 35th days</td></tr><tr><td>Mycotoxins 黄曲霉毒素 Aflatoxin</td><td>2.4</td><td>2.4</td></tr><tr><td>玉米赤霉烯酮 Zearalenone</td><td>193.7</td><td>31.9</td></tr><tr><td>伏马菌素 Fumonisin</td><td>708.8</td><td>623.3</td></tr><tr><td>呕吐毒素Deoxynivalenol</td><td>1 113.7</td><td>504.0</td></tr><tr><td>T-2 毒素 T-2 toxin</td><td></td><td></td></tr><tr><td>赭曲霉毒素 Ochratoxin</td><td>一</td><td>一</td></tr></table></body></html>
+
+一表示未检测到。 meantundetected.
+
+# 1.3.2生产性能
+
+正式饲养期内，每日记录各组（以重复为单位）日采食量、产蛋数、蛋重、软破壳蛋数及存活鸡数，并计算统计试验期内的平均日采食量、产蛋率、平均蛋重、料蛋比、日产蛋量及死淘率。
+
+# 1.3.3蛋黄中微量元素含量
+
+试验第14天和第35天，分别从每组选取12个鸡蛋置于 $4 ^ { \circ } \mathrm { C }$ 冰箱保存，参照GB/T5009.90—2003、GB/T9695.20—2008、张星海等[8]火焰原子吸收光谱法测定蛋黄中铁（Fe）、锌（Zn）、铜（Cu）、镁（Mg）、锰（Mn）含量。蛋黄预处理采用湿消化法：取 $\mathrm { 1 . 0 { \sim } 1 . 5 ~ g }$ 均匀蛋黄样于锥形瓶，加入 $1 5 ~ \mathrm { m L }$ 混酸（ $\mathrm { V H N O } _ { 3 }$ ：VHCLO4=9：1），盖上培养皿，消化过夜。第2天将锥形瓶至于加热板加热消化至溶液澄清、透明，体积约为 $2 { \mathrm { ~ m L ~ } }$ ，取下冷却。消化过程中如果酸过少要补加混酸，防止碳化。加 $5 ~ \mathrm { m L }$ 浓盐酸，过滤，定容至 $1 0 0 ~ \mathrm { { m L } }$ 容量瓶。在测定微量元素含量前，按照火焰原子吸收仪器（SP-AA3800)操作先进行标准液配制和操作，用于绘制标准曲线。测Mn、Mg含量时加入 $1 { \sim } 2 \ \mathrm { m L } \ 1 0 \%$ 的氯化锶溶液以消除干扰。
+
+# 1.3.4血清抗氧化和生化指标
+
+试验第14天和第35天，分别从每个重复随机选取2只产蛋鸡静脉采血 $5 ~ \mathrm { m L }$ ，倾斜采血管，静置 $3 0 \mathrm { m i n }$ 后，于 $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，吸取上清液 $1 . 0 { \sim } 1 . 5 ~ \mathrm { m L }$ ，注入 $1 . 5 ~ \mathrm { m L }$ 离心管中，标记组别日期，置于 ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 冰箱保存，用于测定血清抗氧化和生化指标。血清中的谷胱甘肽过氧化酶（GSH-Px）、总超氧化物歧化酶（T-SOD）活性及总抗氧化能力（T-AOC）和丙二醛（MDA）含量使用南京建成生物工程研究所的试剂盒测定。采用迈瑞 BS-200 全自动生化分析仪、迈瑞生物公司生产的配套试剂盒进行血清生化指标检测，检测第35 天产蛋鸡血清中碱性磷酸酶（ALP）活性和甘油三酯（TG）、总胆固醇（TC）、葡萄糖（Glu）、尿酸（UA）、钙（Ca）、磷（P）、Fe含量。
+
+# 1.4数据统计与分析
+
+应用 SAS9.2软件进行单因素方差分析，然后通过Duncan氏法进行多重比较。试验结果采用"平均值 $\pm$ 标准差（Mean±SD）"表示，用 $P { < } 0 . 0 5$ 表示差异显著， $0 . 0 5 { < } P { < } 0 . 1 0$ 表示有提高或降低趋势。
+
+# 2结果
+
+# 2.1霉菌毒素吸附剂对产蛋鸡生产性能的影响
+
+由表2可知，饲粮中添加霉菌毒素吸附剂对产蛋鸡平均蛋重、料蛋比、ADFI和死淘率均无显著影响 $( P { > } 0 . 0 5 )$ 。与对照组相比，试验3\~5周，CZ组产蛋率提高了 $1 0 . 2 1 \% ( P { < } 0 . 0 5 )$ ，日产蛋量提高了 $1 1 . 4 3 \%$ （ $P { < } 0 . 0 5$ ），料蛋比有降低的趋势，但差异不显著（ $\scriptstyle P = 0 . 0 7 9$ ）；SF组产蛋率提高了 $4 . 0 5 \%$ ( $P { > } 0 . 0 5$ ）；试验1\~5周，CZ 组产蛋率提高了 $7 . 3 7 \%$ （ $\cdot P { > } 0 . 0 5 \$ ），日产蛋量有提高的趋势，但差异不显著（ $\scriptstyle { \cdot } { P = 0 . 0 9 7 }$ ）。
+
+表2　霉菌毒素吸附剂对产蛋鸡生产性能的影响  
+Table 2Effects of mycotoxin adsorbents on performance of laying hens   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">时间 Time/周</td><td colspan="3">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照Control</td><td>CZ</td><td>SF</td></tr><tr><td>平均蛋重</td><td>1~2</td><td>61.51±0.58</td><td>61.54±0.58</td><td>61.08±1.51</td><td>0.726</td></tr><tr><td>Average egg</td><td>3~5</td><td>61.98±0.94</td><td>62.69±0.35</td><td>62.20±1.33</td><td>0.507</td></tr><tr><td>weigh/g</td><td>1~5</td><td>61.75±0.79</td><td>62.22±0.28</td><td>61.73±1.27</td><td>0.684</td></tr><tr><td>产蛋率</td><td>1~2</td><td>92.54±5.16</td><td>95.71±1.20</td><td>89.52±7.48</td><td>0.223</td></tr><tr><td>Laying</td><td>3~5</td><td>87.92±4.90b</td><td>96.90±1.82a</td><td>91.48±7.09ab</td><td>0.048</td></tr><tr><td>rate/%</td><td>1~5</td><td>89.79±4.62</td><td>96.41±1.21</td><td>90.66±7.19</td><td>0.115</td></tr></table></body></html>
+
+<html><body><table><tr><td>料蛋比</td><td>1~2</td><td>2.00±0.12</td><td>1.99±0.05</td><td>2.08±0.11</td><td>0.283</td></tr><tr><td>Feed to egg ratio</td><td>3~5</td><td>2.13±0.10</td><td>2.01±0.48</td><td>2.14±0.13</td><td>0.079</td></tr><tr><td></td><td>1~5</td><td>2.08±0.10</td><td>2.00±0.05</td><td>2.12±0.11</td><td>0.141</td></tr><tr><td>平均日采食量</td><td>1~2</td><td>114.22±3.07</td><td>117.05±2.58</td><td>113.43±5.10</td><td>0.309</td></tr><tr><td>Average daily</td><td>3~5</td><td>116.14±3.56</td><td>121.80±3.38</td><td>121.38±5.19</td><td>0.092</td></tr><tr><td>feed intake/g</td><td>1~5</td><td>115.38±2.63</td><td>119.85±2.35</td><td>118.05±4.60</td><td>0.148</td></tr><tr><td>日产蛋量</td><td>1~2</td><td>57.29±3.32</td><td>58.89±1.00</td><td>54.64±4.21</td><td>0.140</td></tr><tr><td>Daily egg</td><td>3~5</td><td>54.52±3.66b</td><td>60.75±1.19a</td><td>56.91±4.71ab</td><td>0.047</td></tr><tr><td>production/g</td><td>1~5</td><td>55.64±3.28</td><td>60.00±0.99</td><td>55.95±4.40</td><td>0.097</td></tr><tr><td>死淘率</td><td>1~2</td><td>0.00±0.00</td><td>1.39±3.40</td><td>0.00±0.00</td><td>0.391</td></tr><tr><td>Mortality and</td><td>3~5</td><td>1.39±3.40</td><td>1.39±3.40</td><td>4.17±6.97</td><td>0.538</td></tr><tr><td>cull rate/%</td><td>1~5</td><td>1.39±3.40</td><td>2.78±4.30</td><td>4.17±6.97</td><td>0.651</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ ）。
+
+In the same row, values with different small lettr superscripts mean significant difference （ $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$
+
+2.2霉菌毒素吸附剂对产蛋鸡蛋黄中微量元素含量的影响
+
+由表3可知，试验第14天，与对照组相比，CZ 组蛋黄 $Z \mathrm { n }$ 含量提高了 $2 4 . 0 7 \% ( P { < } 0 . 0 5 )$ ，蛋黄Mn含量有提高的趋势，但差异不显著( $\scriptstyle P = 0 . 0 9 3 { \mathrm { ~ , ~ } }$ ，蛋黄 $\mathbf { M g }$ 含量降低了 $3 3 . 5 0 \% ( P { < } 0 . 0 5 )$ ，蛋黄 $\mathbf { M g }$ 含量较 SF组降低了 $2 8 \%$ ( $P { < } 0 . 0 5$ ）；SF组蛋黄 $Z \mathrm { n }$ 含量提高了 $8 . 0 4 \%$ ( $. P { > } 0 . 0 5 \ '$ ），蛋黄Fe含量降低了 $9 . 4 4 \%$ ( $P { < } 0 . 0 5$ ）。
+
+试验第35天，与对照组相比，SF组蛋黄 $Z \mathrm { n }$ 含量降低了 $2 1 . 1 7 \%$ （ $. P { < } 0 . 0 5$ ），较CZ组降低了 $2 1 . 1 3 \%$ ( $P { < } 0 . 0 5$ ）；蛋黄Fe、Cu、 $\mathbf { M g }$ 、Mn含量均无显著差异（ $. P { > } 0 . 0 5$ ）。
+
+表3霉菌毒素吸附剂对产蛋鸡蛋黄中微量元素含量的影响 (湿重)
+
+Table 3Effects of mycotoxin adsorbents on yolk trace elements content of laying hens (wet
+
+weight) mg/kg
+
+<html><body><table><tr><td>组别 Groups</td><td>铁Fe</td><td>锌Zn</td><td>铜Cu</td><td>镁Mg</td><td>锰Mn</td></tr><tr><td colspan="6">第14天 The 14th days</td></tr><tr><td>对照Control</td><td>66.53±1.64a</td><td>41.04±7.41b</td><td>3.16±0.64</td><td>84.11±8.50a</td><td>8.48±2.07</td></tr><tr><td>CZ</td><td>62.13±2.13ab</td><td>50.92±6.67a</td><td>3.23±0.61</td><td>55.93±6.17b</td><td>10.59±1.48</td></tr><tr><td>SF</td><td>60.25±5.57b</td><td>44.34±8.61ab</td><td>2.12±1.32</td><td>77.68±7.25a</td><td>7.96±0.30</td></tr><tr><td>P值P-value</td><td>0.055</td><td>0.088</td><td>0.310</td><td><0.001</td><td>0.093</td></tr><tr><td colspan="6">第35天 The 35th days</td></tr><tr><td>对照 Control</td><td>66.43±4.44</td><td>45.78±5.65a</td><td>2.82±0.59</td><td>84.42±7.52</td><td>9.53±2.98</td></tr><tr><td>CZ</td><td>60.34±3.74</td><td>45.76±2.77a</td><td>3.35±0.78</td><td>79.35±5.95</td><td>10.98±2.30</td></tr><tr><td>SF</td><td>64.52±4.16</td><td>36.09±5.73b</td><td>3.59±0.29</td><td>87.08±7.15</td><td>9.37±2.51</td></tr><tr><td>P值 P-value</td><td>0.118</td><td>0.011</td><td>0.409</td><td>0.367</td><td>0.352</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $. P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ ）。下表同。
+
+In the same column,values with different small letter superscripts mean significant difference （20 $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ： The same as below.
+
+2.4霉菌毒素吸附剂对产蛋鸡血清抗氧化指标的影响
+
+由表4可知，与对照组相比，试验第14天，各试验组产蛋鸡血清 T-AOC 分别提高了$100 \%$ （ $P { < } 0 . 0 5$ ）、 $8 4 . 0 4 \%$ ( $P { < } 0 . 0 5$ ），血清GSH-Px 活性分别提高了 $1 3 . 0 3 \%$ （ $P { > } 0 . 0 5$ ）、$8 . 3 7 \%$ ( $P { > } 0 . 0 5$ ）。
+
+试验第35天，与对照组相比，各试验组产蛋鸡血清T-AOC分别提高了 $3 9 . 0 6 \% ( P { > } 0 . 0 5 )$ 、$4 7 . 9 2 \%$ （ $P { > } 0 . 0 5$ ），SF组血清T-SOD活性提高了 $6 4 . 0 1 \%$ （ $P { < } 0 . 0 5$ ）。
+
+# 表4霉菌毒素吸附剂对产蛋鸡血清抗氧化性的影响
+
+Table 4Effects of mycotoxin adsorbents on serum antioxidant indices of laying hens
+
+<html><body><table><tr><td>组别</td><td>谷胱甘肽过氧化酶</td><td>总抗氧化能力</td><td>总超氧化物歧化酶</td><td>丙二醛</td></tr><tr><td>Groups</td><td>GSH-Px/(mU/mL)</td><td>T-AOC/(mmol/mL)</td><td>T-SOD/(U/mL)</td><td>MDA/(mmol/mL)</td></tr><tr><td colspan="5">第14天 The 14th days</td></tr><tr><td>对照 Control</td><td>216.06±60.23</td><td>7.77±2.32b</td><td>21.54±4.32</td><td>2.06±0.25</td></tr><tr><td>CZ</td><td>244.21±65.60</td><td>15.54±4.37a</td><td>21.18±0.06</td><td>2.03±0.30</td></tr><tr><td>SF</td><td>234.15±59.19</td><td>14.30±3.20a</td><td>23.04±7.60</td><td>1.85±0.27</td></tr><tr><td>P值P-value</td><td>0.729</td><td><0.001</td><td>0.873</td><td>0.876</td></tr><tr><td colspan="5">第 35天 The 35th days</td></tr><tr><td>对照 Control</td><td>190.24±79.01</td><td>9.60±3.26</td><td>16.59±2.03b</td><td>2.09±0.36</td></tr><tr><td>CZ</td><td>192.37±63.17</td><td>13.35±0.85</td><td>21.49±6.20ab</td><td>1.87±0.28</td></tr><tr><td>SF</td><td>198.60±37.34</td><td>14.20±5.71</td><td>27.21±4.67a</td><td>1.90±0.22</td></tr><tr><td>P值P-value</td><td>0.953</td><td>0.323</td><td>0.012</td><td>0.810</td></tr></table></body></html>
+
+2.5霉菌毒素吸附剂对产蛋鸡血清生化指标的影响
+
+由表5可知，与对照组相比,CZ组血清ALP活性、Glu含量分别降低了 $4 5 . 0 7 \% ( P { < } 0 . 0 5 )$ 、$1 8 . 2 1 \%$ （ $P { < } 0 . 0 5$ ），血清Ca、Fe含量分别提高了 $1 7 . 7 1 \%$ （ $. P { > } 0 . 0 5$ ）、 $3 5 . 2 9 \%$ ( $P { > } 0 . 0 5 \$ ）；SF 组血清TC 含量降低了 $2 7 . 7 8 \%$ ( $P { < } 0 . 0 5$ ），相对于CZ组降低了 $2 8 . 0 6 \%$ （ $. P { < } 0 . 0 5 \ '$ ）；各试验组血清UA含量分别降低了 $2 2 . 5 6 \%$ 、 $2 6 . 2 5 \%$ ，均差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 }$ ），血清TG、P含量无显著差异（ $. P { > } 0 . 0 5$ ）。
+
+表5霉菌毒素吸附剂对产蛋鸡血清生化指标的影响  
+Table 5Effects of mycotoxin adsorbents on serum biochemical indices of laying hens   
+
+<html><body><table><tr><td></td><td>碱性磷酸酶</td><td></td><td>甘油三酯</td><td>尿酸</td><td>葡萄糖</td><td>钙</td><td>磷</td><td>铁</td></tr><tr><td>组别</td><td>ALP/ （10²</td><td>总胆固醇</td><td>TG/</td><td>UA/</td><td>Glu/</td><td>Ca/</td><td>P/</td><td></td></tr><tr><td>Groups</td><td>U/L)</td><td>TC/ （mmol/L)</td><td>（mmol/L)</td><td>(μ mol/L)</td><td>（mmol/L)</td><td>（mmol/L）</td><td>(mmol/L)</td><td>Fe/ (mg/L)</td></tr><tr><td>对照</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Control</td><td>5.88±2.08a</td><td>2.52±0.74a</td><td>7.55±3.21</td><td>124.40±49.63</td><td>11.86±1.09a</td><td>4.01±1.05</td><td>2.41±0.74</td><td>11.93±4.93</td></tr><tr><td>CZ</td><td>3.23±0.91b</td><td>2.53±0.56a</td><td>9.60±3.19</td><td>96.33±55.37</td><td>9.70±2.71b</td><td>4.72±0.69</td><td>2.40±0.85</td><td>16.14±7.59</td></tr><tr><td>SF</td><td>4.75±2.32ab</td><td>1.82±0.57b</td><td>6.22±3.12</td><td>91.74±30.73</td><td>11.33±1.28ab</td><td>4.19±0.62</td><td>2.41±1.16</td><td>12.06±7.36</td></tr><tr><td>P值P-value</td><td>0.026</td><td>0.041</td><td>0.665</td><td>0.171</td><td>0.046</td><td>0.140</td><td>0.934</td><td>0.311</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1霉菌毒素吸附剂对产蛋鸡生产性能的影响
+
+目前，关于HSCAS 类吸附剂对家禽影响的研究，大部分的结论表明其能提高家禽的生产性能。史明雷等的研究表明，CSN具有降低黄羽肉鸡1\~50 日龄F/G 的趋势；Incharoen等[9报道，天然沸石能促进肉仔鸡肠道发育的完整性，提高饲料报酬。但也有研究报道，添加 $0 . 2 \%$ 、 $0 . 5 \%$ 的季铵盐改性蒙脱石对肉鸡F/G无影响；添加 $0 . 5 \%$ 的铜改性蒙脱石F/G升高[8]。可见，HSCAS 类吸附剂的不同改性处理，其对畜禽生产性能的影响不一致。CSN 孔径和比表面积大且容易分散，对阳离子有极强的吸附力[10]，能够杀灭肠道有害菌，有利于养分吸收[6]；锌离子（ $\mathrm { Z n ^ { + } }$ ）有抑菌、杀菌作用，载锌纳米蒙脱石不仅具有吸附和离子交换作用，还具备层间抑菌、杀菌功能，能促进养分消化和吸收[]。李俊营等[的研究表明，饲粮中添加 $1 . 5 ~ \mathrm { g / k g }$ 的载锌纳米蒙脱石，产蛋鸡产蛋率提高了 $8 . 5 4 \%$ ，料蛋比降低了 $2 . 1 9 \%$ 。Berto 等[12]报道，天然沸石有提高产蛋鸡ADFI和饲料转化率的趋势。张军民等[13]研究表明，饲粮中添加 $0 . 2 \%$ 的 HSCAS，产蛋鸡产蛋率显著提高 $1 1 . 2 2 \%$ 。本试验也得出，饲粮中添加钙质蒙脱石产蛋鸡产蛋率显著提高了 $1 0 . 2 1 \%$ ，日产蛋量显著提高了 $1 1 . 4 3 \%$ ，料蛋比有降低趋势，与以上研究结论基本一致。HSCAS 类吸附剂含有多种矿物元素，在畜禽体内被吸收利用，促进机体代谢；且具有较大的比表面积和吸附能力，使饲料在消化道内的停留时间延长，提高机体合成代谢及蛋白质等养分的吸收率[14]；此外，也能吸附畜禽肠道内有害物质，改善机体消化道内微生态环境及机能[2]。综上所述，饲粮中添加霉菌毒素吸附剂一定程度上可减轻霉菌毒素对畜禽生产性能的负面影响，提高生产效益。
+
+3.2霉菌毒素吸附剂对产蛋鸡蛋黄中微量元素含量的影响
+
+目前，有关霉菌毒素吸附剂对禽蛋中微量元素含量影响的研究非常少。本研究表明，2种 HSCAS 类吸附剂对蛋鸡蛋黄中Cu、Mn的含量无显著影响；钙质蒙脱石组（CZ 组）第14天蛋黄 Zn含量显著提高；钠质蒙脱石组（SF组）第14天蛋黄Fe 含量显著降低，第35天蛋黄Zn含量显著降低。造成以上结果差异的原因可能是2种吸附剂的物理特性不同，因钠离子（ $\mathrm { \Delta N a ^ { + } }$ ）的水合性很高，相比钙质蒙脱石，钠质蒙脱石与水接触后更容易被水膨胀，吸水膨胀过程中可能会吸去部分养分，此外，膨胀后蒙脱石的吸附效果可能也会受到影响，综合本试验的结果也可以得出，钙质蒙脱石的脱毒效果更好。吸附剂在吸附饲料中霉菌毒素的同时还可能吸附矿物质、维生素等营养成分，进而降低饲料利用率[14][19]；但作者认为，吸附剂也可能吸附肠道中病原微生物，改善肠道环境，有利于饲料营养成分的吸收，或许也能促进矿物质、维生素等在畜禽产品中沉积。本试验结果提示，吸附剂可提高鸡蛋蛋黄中部分微量元素的含量，但还有待进一步研究或延长试验期来验证。今后，需要开展吸附剂对畜禽矿物元素、维生素等代谢影响的研究，探讨其对畜禽产品中营养成分的影响，对科学评价吸附剂的脱毒效果以及进一步开展研究具有重要意义。
+
+3.3霉菌毒素吸附剂对产蛋鸡血清抗氧化指标的影响
+
+氧化损害是霉菌毒素危害动物健康的毒性机理之一。GSH-Px、SOD 和 MDA是反映机体抗氧化能力的重要指标。Abel等[20]指出， $\mathbf { A F B } _ { 1 }$ 能够诱导细胞产生自由基，对机体造成氧化损害；Kouadio 等[21l报道，ZEN 和 DON 会阻断鞘磷脂代谢，使细胞产生大量 MDA，引起脂质过氧化。许多研究人员探讨了吸附剂缓解霉菌毒素对动物机体造成氧化损害的效果，吕明斌等[22]的研究表明，霉变玉米中添加 $\mathrm { ~ \ u ~ } _ { \mathrm { g / k g } }$ 的 HSCAS 类吸附剂降低了肉鸡血清中GSH-Px 活性，而添加 $2 ~ \mathrm { g / k g }$ 的HSCAS其活性提高；Jiang等[23]和蔡娟等[24]分别报道，酵母细胞壁、蒙脱石可提高肉仔鸡、产蛋鸡血清中 SOD 活性；张瑞星等[25]报道，饲粮中添加复合型毒素吸附剂可提高肉鸡血清中 SOD 活性和T-AOC，显著降低MDA含量。本研究发现，饲粮中添加 $0 . 5 ~ \mathrm { g / k g }$ 的2种HSCAS 类吸附剂产蛋鸡血清中GSH-Px、T-SOD 活性和 T-AOC均得到提高，其中第14天，各试验组血清T-AOC 显著提高，第35 天血清 T-SOD 活性显著提高；同时也发现试验组产蛋鸡血清中MDA含量略有降低，本试验结果与以上研究人员的结论基本一致。由此可见，吸附剂能够提高产蛋鸡血清抗氧化酶活性，降低自由基含量，扭转霉菌毒素造成的氧化损害。
+
+# 3.4霉菌毒素吸附剂对产蛋鸡血清生化指标的影响
+
+ALP 是反映机体肝脏功能好坏的重要指标，温子瑜等[26]报道，HSCAS与酵母细胞壁的混合物可以降低肉鸭血清中谷丙转氨酶、谷草转氨酶和ALP 活性，一定程度上缓解毒素对肉鸡肝脏的毒害作用；本试验中各试验组血清 ALP 活性均有降低，其中CZ 组较对照组显著降低了 $4 5 . 0 7 \%$ 。血脂主要包括胆固醇和TG，血清TC 和TG含量反映了机体脂质代谢水平，本试验中CZ 组产蛋鸡血清TG 和 TC 含量略有提高，与张勇等[14]的研究结论基本一致;而 SF 组血清 TC、TG 含量均降低，可能是其含有的干酵母细胞等成分促进了肠道蠕动，改善肠道环境，进而促进脂肪的新陈代谢，减少脂肪积存。由此可见，不同吸附剂因其成分不同对产蛋鸡脂类代谢的影响也不一致。
+
+UA 是禽类氨基酸氨基排泄的主要形式，能够反映体内蛋白质代谢情况，本试验中各试验组产蛋鸡血清UA含量均有降低，与付双喜等[27的报道一致，说明吸附剂可以减少含氮物质的排出，提高饲粮粗蛋白质的利用率。Glu是反映体内能量代谢的重要指标，本试验中各试验组血清Glu含量较对照组均有降低，CZ组显著降低了 $1 8 . 2 1 \%$ ，血清生化指标为禁食$1 2 \mathrm { h }$ 后采集测定，表明霉菌毒素吸附剂降低了产蛋鸡空腹时血清Glu 含量，提示其可能影响机体糖类代谢；另外，畜禽应激时会使体内储存的糖原分解，大大提高血清Glu的含量，表明霉菌毒素吸附剂可能增强机体的抗应激能力。产蛋鸡对Ca等矿物元素需求较大，除用于调节正常的机体代谢外，还是形成蛋壳的主要原料，蛋壳形成过程中若饲粮中的Ca不能满足时，将动用部分血清Ca作为补充；本试验中各试验组血清Ca、Fe 含量较对照组均有提高，CZ组血清Ca、Fe 含量分别提高了 $1 7 . 7 1 \%$ 、 $3 5 . 2 9 \%$ 。HSCAS类吸附剂含有多种矿物元素，也能改善肠道环境，一定程度上提高了 $\mathrm { C a }$ 、Fe 等的利用率，提高了血清Ca、Fe含量，有益于机体矿物质代谢。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加 $0 . 5 ~ \mathrm { g / k g ~ C Z }$ 可提高罗曼蛋鸡产蛋性能，有降低F/G 的趋势；饲粮中添加 $0 . 5 ~ \mathrm { g / k g }$ SF 对产蛋鸡生产性能无显著影响;
+
+$\textcircled{2}$ CZ 有促进鸡蛋蛋黄中Zn、Mn沉积的可能，而 SF可能会减少蛋黄中Fe、Zn的沉积;
+
+$\textcircled{3}$ 2种吸附剂均能一定程度上增强机体的抗氧化功能，提高机体代谢水平；
+
+$\textcircled{4}$ 综合来看，吸附剂CZ减轻霉菌毒素对产蛋鸡造成负面影响的效果更好。参考文献:
+
+[1]计成.霉菌毒素与饲料食品安全[M].北京:化学工业出版社,2007:1-5.
+
+[2]PHILLIPS TD,KUBENAL F,HARVEYRB,et al.Hydrated sodium calcium aluminosilicate:a high affinity sorbent for aflatoxin[J].Poultry Science,1988,67(2):243-247.
+
+[3]AFRIYIE-GYAWU E,WILES M C,HUEBNER HJ,et al.Prevention of zearalenone-induced hyperestrogenism in prepubertal mice[J].Journal of Toxicology and Environmental Health,2005,68(5):353-368.
+
+[4]马玉龙,许梓荣.纳米载铜蒙脱石对肉鸡生长、肠黏膜形态和消化酶活性的影响[J].中国兽医学报，2006,26(3):333-336,346.
+
+[5]杨荣芳,郝生宏,王敏奇,等.纳米载铜蒙脱石对猪生产性能的影响[J].畜牧与兽 医,2010,42(5):48-50.
+
+[6]史明雷,郑兰,郭孝烨,等.载铜硅酸盐纳米微粒对黄羽肉鸡肠道菌群、氮代谢和排泄物氨逸失的影响[J].动物营养学报,2013,25(8):1843-1850.
+
+[7]夏明亮,刘婕,齐德生,等.改性蒙脱石对肉鸡生产性能的影响[J].饲料工业,2012,33(10):55-59.
+
+[8]张星海,周晓红.火焰原子吸收光谱法测定奶粉中金属元素[J].理化检验-化学分册,2009,45(5):512-513.
+
+[9]INCHAROEN T,KHAMBUALAI O,YAMAUCHI K.Morphological assessment of the small intestine of broilers fed dietary natural zeolite including plant extract[J].Journal of Agricultural Science and Technology A,2011,1(8):1284-1287.
+
+[10]马玉龙.载铜硅酸盐纳米微粒的表征及其对肉鸡应用效果的机理研究[D].博士学位论文.杭州：浙江大学，2004：73-85，
+
+[11]李俊营,詹凯,陈旭伍,等.日粮添加霉菌毒素吸附剂对蛋鸡生产性能和蛋品质的影响[J].  
+西北农业学报,2012,21(10):7-11.
+
+[12]BERTO D A,GARCIA E A,PELICIA K,et al.Effects of dietary clinoptilolite and calcium levels on the performance and egg quality of commercial layers[J].Revista Brasileira de Ciencia Avicola,2013,15(3):263-268.
+
+[13]张军民,李桂甫,韩怀动,等.霉菌毒素吸附剂对蛋鸡生产性能的影响[J].饲料广角,2006(5):35-36.
+
+[14]张勇,李红梅.铝硅酸盐霉菌吸附剂对肉仔鸡生产性能、血清生化指标及小肠绒毛形态 的影响[J].饲料广角,2009(16):29-31.
+
+[15]SILOTO E V,SARTORI D R S,OLIVEIRA E F A,et al.Performance and egg quality of laying hens fed diets containing aflatoxin,fumonisin and adsorbent[J].Revista Brasileira de Ciencia Avicola,2011,13(1):21-28.
+
+[16]NABER E C.The effect of nutrition on the composition of eggs[J].Poultry Science,1979,58(3):518-528.
+
+[17]RIZZI L,SIMIOLI M,RONCADA P,et al.Aflatoxin $\mathbf { B } _ { 1 }$ and clinoptilolite in feed for laying hens:effects on egg quality,mycotoxin residues in livers,and hepatic mixed-function oxygenase activities[J].Journal of Food Protection,2003,66(5):860-865 [18]窦文洁.镰刀菌毒素污染的玉米日粮添加脱毒剂对蛋鸡生产性能及玉米赤霉烯酮残留 的影响[J].饲料广角，2010(2):33-37,39.
+
+[19]陈光明,刘建军,刘桂兰,等.霉菌毒素脱毒剂的研究进展[J].畜牧与饲料科学,2015,36(2):44-46.
+
+[20]ABEL S,GELDERBLOM W C A.Oxidative damage and fumonisin $\mathbf { B } _ { 1 }$ -induced toxicity in primary rat hepatocytes and rat liver in vivo[J].Toxicology,1998,131(2/3):121-131.
+
+[21]KOUADIO JH,MOBIO T A,BAUDRIMONT I,et al.Comparative study of cytotoxicity and oxidative stress induced by deoxynivalenol,zearalenone or fumonisin ${ \bf B } _ { 1 }$ in human intestinal cell line Caco-2[J].Toxicolony,2005,213(1/2):56-65.
+
+[22]吕明斌,郭吉原,安沙,等.不同霉菌毒素吸附剂对肉鸡生长性能、屠宰性能和抗氧化指标的影响[J].饲料工业,2014,35(14):41-46.
+
+[23]JIANG S Z,LI Z,WANG G Y,et al.Effects of fusarium mycotoxins with yeast cell wall absorbent on hematology,serum biochemistry,and oxidative stress in broiler chickens[J].The Journal of Applied Poultry Research,2014,23(2):165-173.
+
+[24]蔡娟,王强,童海兵,等.不同吸附剂对饲喂霉变日粮蛋鸡生产性能及血液生化指标的影响[CJ]//中国畜牧兽医学会家禽学分会第九次代表会议暨第十六次全国家禽学术讨论会论文集.扬州：中国畜牧兽医学会家禽学分会，2013:1.
+
+[25]张瑞星,黄凯,宋明明,等.霉变饲料中添加复合霉菌毒素吸附剂对肉鸡抗氧化和免疫功能的影响[J].饲料工业,2015,36(9):32-35.
+
+[26]温子瑜,郑萍,张克英,等.黄曲霉毒素污染的玉米及吸附剂对樱桃谷肉鸭生产性能、血清生化指标及器官指数的影响[J].中国畜牧杂志,2013,49(3):49-55.
+
+[27]付双喜,冯定远,苗朝华,等.霉菌毒素吸附剂对肉鸡血液生化指标的影响[J].中国家禽,2005,27(11):30-31,34.
+
+Effects of Mycotoxin Adsorbents on Performance, Yolk Trace Element Contents and Serum Antioxidant and Biochemical Indices of Laying Hens
+
+CHEN JifalLUO Ling1QU Xiangyong1\* OU Shuqi1WANG Qinqiao² (1. Collaborative Innovation Center of Hunan Province Livestock and Poultry Safety Production, Collge ofAnimal Science and Technology, Hunan Agricultural University, Changsha 410128, China; 2. Hunan Tanxin Breeding of Yellow Broilers Limited Liability Company, Changsha
+
+410143, China)
+
+Abstract: This experiment was conducted to study the effects of mycotoxin adsorbents [(Calibrin-Z，CZ）and (Saifu， SF)] on performance,yolk trace element contents and serum antioxidant and biochemical indices of laying hens.A total of 216 healthy 38-week-old laying hens were randomly divided into 3 groups with 6 replicates per group and 12 hens per replicate. Hens in the control group were fed a basal diet, and hens in experimental groups (group CZ and group SF) were fed the basal diets supplemented with $0 . 5 ~ \mathrm { g / k g }$ two kinds of adsorbents, respectively.The adjustment period lasted for 1O days,and the experimental period lasted for 35 days.The results showed as follows: 1) compared with the control group,the laying rate and daily egg production of group CZ were significantly increased during 3 to 5 week of experiment $( P { < } 0 . 0 5 )$ . Dietary mycotoxin adsorbents had no effect on the average egg weigh, average daily feed intake, feed to egg ratio and mortality and cull rate $( P { > } 0 . 0 5 )$ .2) Compared with the control group, the contents of copper and manganese in yolk of experimental groups at the $1 4 ^ { \mathrm { t h } }$ and $3 5 ^ { \mathrm { t h } }$ （204号 days had no significant difference ( $( P { > } 0 . 0 5 )$ , the content of zinc in yolk of group CZ at the $1 4 ^ { \mathrm { t h } }$ days was significantly increased ( $( P { < } 0 . 0 5 )$ .3) Dietary mycotoxin adsorbents had no effect on serum glutathione peroxidase activity and malonaldehyde content of laying hens at the $1 4 ^ { \mathrm { t h } }$ and $3 5 ^ { \mathrm { t h } }$ days $( P { > } 0 . 0 5 )$ . Compared with the control group,the serum total antioxidant capacity of experimental groups at the $1 4 ^ { \mathrm { t h } }$ days was significantly increased $( P { < } 0 . 0 5 )$ , the serum total superoxide dismutase activity of group SF at the $3 5 ^ { \mathrm { t h } }$ days was significantly increased $( P { < } 0 . 0 5 )$ .4) Compared with the control group,the serum alkaline phosphatase activity and glucose content of laying hens of group CZ were significantly decreased $( P { < } 0 . 0 5 )$ , the serum total cholesterol content of group SF was significantly decreased $( P { < } 0 . 0 5 )$ . In conclusion, dietary supplemented with the mycotoxin adsorbent CZ improves the egg production of laying hens; both adsorbents enhance serum antioxidant capability and improve serum biochemical indices.
+
+Key words: laying hens； mycotoxin adsorbents； performance； trace elements; antioxidant;biochemical indices

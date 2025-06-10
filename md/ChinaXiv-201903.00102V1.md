@@ -1,0 +1,112 @@
+# 船舶岸电电源多机并联的并网无缝切换技术的研究
+
+陈枫男1970年生，高级工程师，主要从事电力需求侧管理、电能替代等方面的工作。
+
+陈　枫应鸿徐鲲鹏² 张海波 胡晓玥2(1.国网浙江省电力公司 杭州 3100072.北京智芯微电子科技有限公司北京102200)
+
+![](images/b789cca6671ad417cf77d9acfac26c46f1812b7cf644a1311ea139ab1f6733b3.jpg)
+
+应鸿男1972年生，高级工程师，主要从事电力系统自动化、配网自动化、智能电网方面的工作。
+
+摘要：常规变频电源能实现独立供电功能，但无法达到无缝并网供电的要求。在变频电源为船舶提供供电前，必须先停止船舶主发电机组的供电。反之，也必须先停止变频电源系统的供电，然后才能恢复船舶发电机组的供电。本文重点讨论岸电系统的多机并联技术，采用微电网应用技术设计变频岸电电源系统，模拟船舶发电机的工作原理，通过电源检测传感器实时检测船舶电网的电压和频率，实时调整系统输出电源的电压和频率，以达到两者的同步，从而实现变频岸电电源系统的无缝并网供电功能。
+
+关键词：船舶岸电 多机并联并网无缝切换中图分类号：TM762
+
+# Research on Grid Connected Seamless Switching Technology of Multi-Level Parallel Connection of Ship's Shore Power Supply
+
+![](images/c2df34dffc62461b099a705e1101598e5fc1d625d8b4444b9106c4b018402c67.jpg)
+
+Chen FenglYing Hong'Xu Kunpeng² Zhang Haibo²Hu Xiaoyue² (1. State Grid Zhejiang Electric Power CompanyHangzhou310o07China 2.Beijing Smartchip Microelectronics Technology Company Limited Beijing102200 China)
+
+Abstract: Conventional frequency conversion power supply can achieve independent power supply function, but cannot meet the requirements of seamless power supply. Before the frequency conversion power supply for the ship to provide power, the ship's main power generation unit must be stoped firstly. On the contrary, it is necessary to stop the power supply system of variable frequency power supply, and then to restore the power supply of the ship generator. In this paper the multi-level parallel shore power technology system is focused on,and by using the micro-grid application design of variable-frequency shore power system, simulating the working principle of ship generator, the voltage and frequency of power grid real-time detection of ship detection sensor,real-time adjustment of system output voltage and frequency of power source, to achieve the synchronization, so as to realize the seamless grid power supply functions of frequency and shore power supply system.
+
+Keywords: Ship shore power,multi-level parallel connection,grid connection, ;eamless switching
+
+# 1 引言
+
+装有特殊设备的船舶在停泊期间，常接入到岸地的电源，从其中获得其水泵、照明、通风和其他需求的电力供应。此时，船舶关闭自身的柴油发电机，不仅可以消除自身机组运行带来的噪声，也能在一定程度上减少废气的排放，无论对港口的可持续发展还是节能减排都具有很重要的意义。并且，船舶在泊位期间使用港口陆地上的电源能够具有良好的经济效益，不仅大大降低靠港船舶供电系统的运行和维护成本，还能大大提高能源利用效率。但常规变频电源虽能实现独立供电功能，但无法达到无缝并网供电的要求[1-4]。在变频电源为船舶提供供电前，必须先停止船舶主发电机组的供电。反之，也必须先停止变频电源系统的供电，然后才能恢复船舶发电机组的供电[5-6]。
+
+综上所述，研究一种适合于船舶岸电电源多机并联的并网无缝切换技术非常必要。在陆地电网中，采用微电网方式解决分布式电源的大规模接入已经在各国家和地区有着较大的认同度，并且相关的项目也在开展实施[7-9]。微电网是电力产业可持续发展的有效途径。同时，注意到船舶电力系统是一种强非线性、强耦合、紧凑型系统，从整个电网结构的顶层设计、安装工艺，系统运行稳定性理论，系统的保护与重构技术，电力系统运行模式等方面都具有区别于陆地电力系统的独特特点[10-13]。因此，本文重点讨论岸电系统的多机并联技术，并应用微电网技术设计变频岸电电源系统，模拟船舶发电机的工作原理，以期实现变频岸电电源系统的无缝并网供电功能。
+
+# 2基于微电网原理的并离网无缝切换控制
+
+# 2.1两种运行方式
+
+变频电源属于整个岸电系统中关键的核心部件，随着超大容量岸电系统的建设，岸电系统的多机并联技术引起关注，岸电系统的并联运行技术不仅能够扩大电源的容量，还具有使用灵活、互为冗余等多个优势，如故障冗余和岸电微网等。
+
+如图1所示，三台变频电源系统并机运行，三台变频电源既可以作为一个整体运行，也可以选择其中一台或者两台运行，具体可根据靠港的船舶类型及用电量进行选择。
+
+冗余功能是指在运行过程中如果单个变频系统故障，可自动从系统中切出，在容量满足要求的情
+
+10kV高压母线火 1#进 进线柜 线柜罔罔罔 讲变频电源系统 福 图图图 阱变频电源系统H = = HH =圖圈圈 圖圈圈电抗 电流 电流+隔离变压器6.6kV 6.6kV母线：出线柜 母线 含并网柜1#泊 2#泊位接 位接 负载电箱 电箱电缆 辅机发电机绞车 2#船舶岸基部分 - 船上部分
+
+况下，不影响整套系统的运行。冗余功能可保证船侧不断电，提高了系统的可靠性。
+
+除上述运行方案外，还可以采取如图2所示的运行模式，除组合使用外，能够单独使用。
+
+此运行方案的特点是将整个港口的岸电进行组网控制，形成类似岸电微网的概念，变频器的运行方式模拟了发电机的并机运行特性，灵活组网，且单个变频电源可单独使用，也可组合使用，在组合并网的过程中，后并网的变频电源将采集岸电输出母线的电压信息，然后进行输出电压的调整，锁频锁相成功后自动投切，形成岸电的微网状态。船舶岸电的微网运行方式必将成为未来港口岸电的一种趋势，即大容量、组网运行，本文正是基于此研究并离网无缝切换控制技术。
+
+# 2.2并离网无缝切换控制
+
+船舶岸电微网的交流母线与公共电网之间，通过一个受微网控制系统控制的公共连接点开关PCC-$\mathbf { S } _ { 0 }$ 相连，如图3所示。为实现船舶岸电微网系统并网与离网状态之间的无缝切换功能，需船舶岸电微网控制系统对系统内多台并联的微网用变流器进行协调控制和能量调度。
+
+利用电压传感器，微网控制系统能够同时检测公共电网电压 $U _ { \mathrm { U V } }$ 、 $U _ { \mathrm { v w } }$ 和微网交流母线电压 $U _ { \mathrm { A B } }$ 、$U _ { \mathrm { B C } }$ ，并通过锁相环PLL计算得到公共电网电压的角频率 $\omega _ { \mathrm { n } }$ 、相角 $\theta _ { \mathrm { n } }$ 以及船舶岸电微网交流母线电压的角频率 $\omega _ { \mathrm { m } }$ 、相角 $\theta _ { \mathrm { { m } } }$ ，最终计算得到公共电网电压 $U _ { \mathrm { n } }$ 和微网交流母线电压 $U _ { \mathrm { m } }$
+
+![](images/acde3771ff6a22349e028e3f2afc7abe8fe6113fe78e99ced0f76100cf020c19.jpg)  
+图2船舶岸电微网结构示意图
+
+当岸电微网控制系统检测到公共电网故障，如电网失电、电网欠电压等故障时，将控制公共连接点开关 $\mathrm { P C C - S } _ { 0 }$ 断开，完成微网系统从并网状态到离网状态的切换。切换过程中，由于岸电微网用变流器具有电压源的输出特性，能够为微网系统内部负荷提供稳定的频率和电压支撑。因此，在容量允许的范围内，微网用变流器能够支持微网系统实现并网状态到离网状态的无缝切换，并在离网状态下通过一次调频和一次调压进行自动的负荷分配，保证多台并联稳定运行。
+
+当岸电微网控制系统检测到电网故障恢复时，微网系统需要重新并网运行。此时，为实现离网到并网状态的无缝切换，抑制在PCC- ${ \bf \cdot S } _ { 0 }$ 闭合过程中产生的冲击电流，在闭合开关之前，微网交流母线电压必须先实现与公共电网电压的二次同步，即实现两者同频同相同幅。为实现上述功能，微网控制系统需使用通信对微网变流器进行二次调压和二次调频控制 (见图3)。岸电微网控制系统对微网变流器的二次调压和二次调频控制分别通过对变流器下垂特性曲线中的空载频率 $\omega _ { 0 }$ 和空载电压 $U _ { 0 }$ 的控制调节完成。
+
+![](images/1e1267049575204bd37e234fbeb2280cde9dfcda4d5ab119c07c3325e0cbd982.jpg)  
+Fig.2Schematic diagram of ship shore power network structure   
+图3船舶岸电微网系统控制系统示意图  
+Fig.3Schematic diagram of control system of ship shore
+
+当岸电微网系统需要对系统进行电压或频率调整时，微网系统可通过对少数主力调压或调频电源的控制，来实现对微网系统电压或频率的调整，从而大大简化系统的控制。
+
+岸电微网控制系统在对微网内变流器进行上述二次调压和二次调频控制的同时，还在对微网系统电压与电网电压的同步状态进行实时判断：
+
+（1）微网系统电压频率已进入新的稳态，且与电网频率相同。(2）微网系统电压幅值已经入新的稳态，且与电网电压幅值相同。
+
+(3）微网系统电压相位与电网电压相位相同。
+
+当微网系统电压同时满足上述三个条件，即与电网电压同频率同相位同幅值时，微网控制系统将控制公共连接点开关 $\mathrm { P C C - S } _ { 0 }$ 重新闭合，完成岸电微网系统从离网状态到并网状态的切换。由于在开关闭合前，岸电微网系统电压与电网电压同步，开关两端电压差为零，因此在离网状态到并网状态的切换过程中，公共连接点处不会产生过大的冲击电流，从而使得岸电微网系统能够完成离网到并网状态的无缝切换。
+
+# 3 实际工程验证
+
+因变频电源的负载有别于变频器的电机类负载，船上单相负载的使用，导致其三相间负载分配不可能绝对平衡，从而每相之间的压降可能会有所不同。基于本文思路设计的变频电源具有三相输出独立控制技术，对电压实行闭环控制，三相负载不平衡度达 $2 5 \%$ ，依然保持三相线电压对称输出；现场测试波形记录如图4、图5所示。启动时三相负载并不平衡，两相间电流相差别很大，但对比观察下方电压波形，依然稳定对称。本文以中远非洲连船时的数据为工程实例进行验证。配电屏支持手动并网模式和自动并网模式，岸电并网时，两种模式现场均进行了试验，并网瞬间的波形如图4所示。需要说明的是图中波形通道分别为：1为变频电源U相输出电流；2为变频电源W相输出电流；3为隔离变压器输出U相输出电压；4为隔离变压器输出V相输出电压；5为隔离变压器输出W相输出电压。
+
+由图4可以看出并网瞬间隔离变压器输出电流最大峰值为 $3 2 0 \mathrm { A }$ ，变频电源输出电流最大峰值为377A，现场过电流点 $1 6 0 \%$ （峰值852A）。
+
+图5为第一次手动并网时的三相输出电压和两相输出电流波形。可以看出，并网后的一段时间（约 $5 0 0 \mathrm { { m s } }$ )，三相输出电流波形出现较大畸变，变频电源的三相输出电压依然保持对称输出。综合上述实验结果可以看出，基于本文方法设计能够完成船舶离网到并网状态的无缝切换。
+
+![](images/8b1f188158e10ad7eb2c16565fef1d0d298d3cd7fa53dcba29ba32f80033fa56.jpg)  
+图4并网瞬间最大峰值波形图
+
+![](images/e21c6dd43d1a2d3c6801853a1b437721ec7d28087ec484d4dd4827ec1095066e.jpg)  
+Fig.4Grid connected instantaneous maximum peak waveform   
+图5第一次手动并网时的三相输出波形图Fig.5The three phase output waveform of the first manualgrid connected
+
+# 4 结束语
+
+本文提出了一种船舶岸电微网电源变流器控制方法，使得微网用变流器具有电压源的输出特性，而非传统并网变流器的电流源输出特性。这种电压源的输出特性使得变流器能够在离网运行时，为微网负荷提供稳定的电压和频率支撑，并完成并网状态到离网状态的不停机切换。通过中远非洲连船时的数据，验证了其有效性。
+
+本文采用微电网应用技术模拟船舶发电机的工作原理，通过电源检测传感器实时检测船舶电网的电压和频率，实时调整系统输出电源的电压和频率，从而实现变频岸电电源系统的无缝并网供电功能，对实际工程具有一定的参考价值。
+
+# 参考文献
+
+[1] 张彦，宋昕，张天．船用微网发电系统的构建研究[J]．中国修船，2014，27(5)：16-18.Zhang Yan, Song Xin, Zhang Tian. Study on theconstruction of micro grid power system for ship[J].Chinese Shiprepairing, 2014, 27(5): 16-18.  
+[2] 刘汉宇，牟龙华．构建船舶微电网的研究[J]．船电技术，2014，34(2)：74-80.Liu Hanyu,Mou Longhua. Research on theconstruction of the ship micro grid [J]. Ship ElectricPower Technology,2014,34(2): 74-80.  
+[3] 王成山，武震，李鹏．微电网关键技术研究[J].电工技术学报，2014，29(2)：1-12.Wang Chengshan,Wu Zhen,Li Peng. Study on thekey technology of micro grid [J]. Transactions ofChina Electrotechnical Society, 2014, 29(2): 1-12.  
+[4] 李峰，刘霞，罗海荣．基于下垂特性的微电网逆变电源控制方法研究[J]．宁夏电力，2015(1):23-28.Li Feng,Liu Xia, Luo Hairong. The droopcharacteristics of micro grid inverter control methodbased on the droop characteristic [J].NingxiaElectric Power,2015(1): 23-28.  
+[5] 苏勇，章广春，陈钢．一个接口大容量的码头岸电技术及应用[J]．港口科技，2012(8)：1-5.Su Yong, Zhang Guangchun, Chen Gang. Researchof a large capacity interface shore connectiontechnology and application[J]. Port Technology,2012(8): 1-5.  
+[6] 陈汝昌，陈飞，张帆，等．新能源电网中微电源并网控制策略研究[J]．电力系统保护与控制，2015,43(12): 55-60.Chen Ruchang, Chen Fei, Zhang Fan, et al. Researchof new energy grid in micro power grid connectedcontrol strategy [J]. Power System Protection andControl,2015, 43(12): 55-60.  
+[7]刘辉，钟诚，李春辉，等．一种适用于微电网的微电源控制策略研究[J]．湖北工业大学学报，2011,26(2): 9-12.Liu Hui, Zhong Cheng,Li Chunhui, et al. Researchof a strategy on micro source used in microgrid control [J]. Journal of Hubei University ofTechnology, 2011, 26(2): 9-12.  
+[8] 黄杏，金新民．微网用分布式电源变流器下垂特性控制策略[J]．电工技术学报，2012，27(8)：93-100.Huang Xing, Jin Xinmin. Research of the droopcontrol strategy of microgrid with distributed powerconverter [J]. Transactions of China ElectrotechnicalSociety,2012,27(8): 93-100.  
+[9] 王冠群，张雪敏，刘锋，等．船舶电力系统重构的博弈算法[J]．中国电机工程学报，2012，32(13):69-76.Wang Guanqun, Zhang Xuemin, Liu Feng, et al. Agame algorithm on ship power system reconstruction[J]. Proceedings of The Chinese Society forElectrical Engineering,2012,32(13): 69-76.  
+[10]侯重远，江汉红，芮万智，等．基于Lognormal-GMM 模型的船舶电力监测网络流量建模方法[J].电网技术，2012，36(6)：188-194.Hou Zhongyuan, Jiang Hanhong,Rui Wanzhi, et al.A modeling method of Lognormal-GMM model onthe ship power monitoring network traffic [J].PowerSystemTechnology,2012, 36(6): 188-194.  
+[11]孙玉伟，严新平，袁成清，等．基于多层面同构的船舶智能电网理论体系研究[J]．船舶工程,2013(1): 52-56.Sun Yuwei, Yan Xinping, Yuan Chengqing, et al.Research of the multi level isomorphic ship smartgrid theory system [J]. Ship Engineering, 2013(1):52-56.  
+[12]李圣清，唐琪，白建祥，等．负载不平衡下链式STATCOM的控制方法[J].电气应用,2016,35(15)：60-65.  
+[13]李树鹏，徐振宇，孙刚．MMC直流配电网的最优潮流控制策略[J]．电气应用，2016，35(19)：18-23.

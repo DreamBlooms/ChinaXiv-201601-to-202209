@@ -1,0 +1,333 @@
+[
+    {
+        "type": "text",
+        "text": "酞酸酯在土壤中的环境行为与健康风险研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨杉1 吕圣红」汪　军1,2\\*\\* 刘坤」　陈刚才1张勇」张晟滕应²",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．重庆市环境科学研究院重庆401147;2.中国科学院南京土壤研究所/中国科学院土壤环境与污染修复重点实验室南京210008)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要酞酸酯(PAEs)又称邻苯二甲酸酯，是环境激素类有机化合物，作为增塑剂在塑料、树脂和橡胶制品中的添加量一般为 $20 \\% { \\sim } 6 0 \\%$ 。土壤中PAEs 的主要来源有农用化学品、污水灌溉和大气沉降。PAEs在土壤中有较强的富集作用，并能通过一系列的环境地球化学过程进入不同的环境介质，引起环境污染和人类健康风险。本文结合国内外土壤PAEs的相关研究成果，综述了我国土壤PAEs的污染现状，分析了PAEs在土壤-大气界面(挥发、沉降)、土壤-植物系统(植物吸收、植物修复)、土壤-水界面下的环境行为(吸附-解吸)及土壤 PAEs污染的环境健康风险，并指出国内土壤PAEs研究中存在的不足。研究结果显示，我国土壤环境总体上已遭受不同程度的PAEs污染；同时，土壤PAEs通过不同界面之间的迁移转化过程，也面临较高的生态环境健康风险。提出今后土壤PAEs研究应以区域土壤污染与环境行为为重点，深入研究土壤PAEs的时空传输与演变规律、多介质迁移转化机制和风险削减与修复措施，为保障土壤生态环境与健康提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词酞酸酯环境行为健康风险土壤环境迁移转化 中图分类号：X502 文献标识码：A 文章编号:1671-3990(2016)06-0695-09 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "'nvironmental fate and health risks of phthalate acid esters in soils: A review ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Shan',LYU Shenghong', WANG $\\mathrm { J u n } ^ { 1 , 2 ^ { * * } }$ ,LIU $\\mathrm { K u n } ^ { 1 }$ , CHEN Gangcai', ZHANG Yong1, ZHANG Sheng', TENG Ying² (1.Chongqing ResearchAcademyofEnvironmental Sciences,Chongqing 401147,China; 2.KeyLaboratoryofSoilEnvironment and Pollution Remediation,Institute of Soil Science, Chinese Academy of Sciences,Nanjing 210o08, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractPhthalic acid esters (PAEs)are classified as environmental hormone organiccompounds,commonlycontained in plastic,resin and rubber,accounting for $20 \\% { - } 6 0 \\%$ ,as plasticizers with potentially hazardous impacts on the environment and human health.In soils,the main anthropogenic sources of PAEsareagricultural chemicals，sewage water irigation and atmospheric precipitation.PAEscanabundantlyaccumulatein the soiland be transported to different environmental systems viaaseriesofnvronmental,geohemical processesuchasvolatilzation,leaching,dsoption,iodegradation,planttake and foodchain.Thisarticlecombined theresultsof domestic and international studies to summarize the stateof soil PAEs polution in China.Anthropogenic activities and land usechanges were the main factorsresponsible forseasonal and spatial distributionsofPAEs.Thecontents ofAEs insoils inmostregions ofChina reached dozens millgram per kilogram,which obviouslyexceededthestandards forthe USandtheEuropeancountries.Di-n-butylphthalate(DnBP)anddi (2-ethylhexyl) phthalate(DEHP)were thedominantPAEs in soils，similar to those observed inother countries.Alsotheenvironmental behaviorofPAEs insoil-gas interface (volatilizationandatmospheric precipitation),soil-plant system(phytoremediationand plantuptake)andsoil-water interface(sediment adsorptionand desorption)were analyzedtodetermine thecausesofsoil PAEs transferbetwenair, water,sedimentsand plants.There were significant differences inthecharacteristicsofPAEsabsorption, accumulation,distributionand transformation among the different interfaces.Becauseof the widespread applicationof PAEs and its occurrence in most common dailychemicals,humans are exposed to PAEs through foods contaminated during crop growth in soil or during packaging.Humans arealsoat risk through exposure toair(forbreathing or absorption by skin), causing severely ecologicalandhealthrisksinmanyregions ofChina.It wasrecommendedthatfuture soilPAEsresearch hould focusonregional soil polutionand environmental behavior,PAEstransmisionand evolutionregularityin spaceandtime, medium migration mechanisms,risk reduction andremediation measure research.There was need touse knowledge about the environmentalfateand healthrisksofPAEsinsoilstoimprove theregulationoforganicpolutiontransformationin soils.This knowledge wasalso necessary for providing theoreticalbasis forthe protectionofecological environments and soil health. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsPhthalate acid ester;Environmental fate; Health risk; Soil environment; Migration and transformation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "酞酸酯(phthalic acid esters,PAEs)，又称邻苯二甲酸酯，是一类环境激素有机化合物[1]，能提高产品的可塑性和柔韧性[1-2]，广泛用于各类塑料制品、包装材料、医疗用品及化妆品，占全国增塑剂年消费量的 $9 0 \\% ^ { [ 2 - 3 ] }$ ，其在部分产品中的添加量高达$2 0 \\% { \\sim } 6 0 \\% ^ { [ 4 - 5 ] }$ 。塑料产品的生产、使用、丢弃和处置过程伴随着PAEs的大量释放，从而导致大气、水体和土壤环境污染[2,6]。自然条件下,PAEs具有较强的反应活性，较易被降解，水溶性低，脂溶性高[1,7-8],但由于土壤理化性质的差异导致PAEs在土壤中呈现特殊的环境行为[2.9]。土壤独特的结构体系，导致PAEs在其中大量富集，并影响到土壤环境质量和农产品质量，威胁环境安全[10-11]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤圈处于大气圈、水圈及生物圈的交接地带，富集在土壤中的PAEs与各圈层间发生着强烈的生物地球化学过程，这将对生态环境和人体健康产生强烈影响。一方面，土壤中的PAEs通过挥发、淋溶、植物吸收等途径进入大气、水体、植物等自然介质中[12-13]，对不同生态系统的结构和功能稳定性构成潜在危害，引发全球性环境污染和人类健康风险[3]。另一方面，土壤PAEs通过食物链延伸或生产生活中的直接接触进入人体[7,14-15]，干扰人体正常内分泌,扰乱生殖系统和生长发育功能[16-18]。此外，长时间暴露于某些PAEs化合物将会影响机体免疫功能，产生\"致突、致畸和致癌效应\"[19]。因此，开展区域土壤PAEs污染调查、环境行为与健康风险研究，不仅有利于制定PAEs污染土壤的修复治理措施，而且对保障生态环境与人类健康具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，国内外学者针对土壤PAEs 的分析方法[20-21]区域污染特征[11,22-23]、毒害效应[16,24-25]、环境行为[1,18]风险评价[4,11,26]、污染土壤修复[27-28]等方面已开展大量研究。本文在这些研究成果的基础上综述了我国土壤PAEs的污染现状，归纳总结了土壤PAEs在土壤-大气界面、土壤-植物系统、土壤-水界面下的主要环境行为和健康风险，旨在明确我国土壤PAEs的污染特征、迁移转化过程及风险程度，加深对土壤PAEs迁移转化过程的认识，为更加客观地评价PAEs的生态环境风险，制定污染治理修复和风险削减措施提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1我国土壤PAEs污染现状 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 土壤中PAEs的来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤PAEs的主要来源有农用化学品、污水灌溉和大气沉降。农用薄膜[14,29]、肥料和农药[30-32]、污泥堆肥[31,33]等农业生产资料是我国农田土壤PAEs的重要来源。PAEs在农膜中的稳定性较差，易从本体渗出[2.34]，农膜的材质、颜色、厚度、使用强度、覆盖模式等与土壤PAEs的累积有较强的相关性[11,14,30]。研究表明，我国肥料中PAEs平均含量为 $0 . 2 5 \\mathrm { m g \\cdot k g ^ { - 1 [ 3 5 ] } }$ ，施用后土壤中PAEs的污染程度将提高1\\~2倍[36]，不同方式污泥堆肥的使用均能造成土壤中PAEs浓度明显提高[9.31,37]。长期应用污水灌溉，使得污水中的PAEs与土壤有机质相结合，导致大量的PAEs滞留富集于土壤，加剧了土壤 PAEs 污染[36]。PAEs 附着于大气颗粒物质后通过沉降作用进入土壤，这也是导致我国城郊和工业区土壤PAEs污染的重要原因之—[31,38-39]。由此可见，土壤中 PAEs 的来源具有一定的复杂性和广泛性，区分土壤中PAEs的来源以及各种来源的贡献率，是研究土壤PAEs污染与控制措施的重要内容。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2土壤PAEs污染特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国土壤环境总体上已遭受不同程度的PAEs污染，总浓度达几十毫克每千克[1123.40]。土壤 PAEs污染的时空变异性大，地域分异明显，并与土地利用方式、耕作模式、污染源远近等密切相关[41-42]。纵向上，土壤PAEs多分布在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤深度，浓度随深度的增加而递减[36,43]；横向上，经济发达、人口密度大的城市(如广东、北京、上海)[11,15]、工业区和污水灌溉区[7,33,44]土壤 PAEs 浓度相对较高；受农膜使用的影响，北方地区农田土壤PAEs含量也较高[15,23]。受气候条件的影响，土壤PAEs浓度呈现冬季含量高、夏季含量低的规律[45]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与世界其他地区相比，我国土壤PAEs的污染程度是西方发达国家的几倍到几十倍[11,23]；以农田土壤为例，高出荷兰 $1 0 { \\sim } 1 0 0$ 倍[23]。此外，根据美国土壤PAEs控制标准，我国大部分地区土壤PAEs均已超标[11,23]，部分地区甚至超标 $3 7 . 6 \\% { \\sim } 6 1 0 . 0 \\% ^ { [ 2 9 ] }$ ，但绝大多数低于治理标准[44]。这主要是由于我国农膜使用不科学、耕作方式不合理，导致PAEs在土壤中大量积累，并制约了农田生态系统的生产力[42]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 土壤PAEs的组分特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，商业化使用的PAEs约有14种[1,42]，但研究多集中在美国环境保护署(USEPA)、欧盟(EU)和中国等列为优先控制类污染物的邻苯二甲酸二甲酯(DMP)、邻苯二甲酸二乙酯(DEP)、邻苯二甲酸二正丁酯(DnBP)、邻苯二甲酸丁基苄基酯(BBP)、邻苯二甲酸二(2-乙基)己酯(DEHP)和邻苯二甲酸二正辛酯(DnOP)等6种化合物[21.23.42.46]。土壤 PAEs化合物的检出性具有一定的规律，通常以高分子DEHP和DnBP的检出率和浓度最高[11,1,22-23,30,47](表 1)，这是因为二者是我国塑料制品生产中的主要增塑物质[19,23.41]，占土壤 PAEs总量的 $6 5 . 3 \\% { \\sim } 7 5 . 4 \\% ^ { [ 1 1 , 2 3 ] }$ 。土壤PAEs组分的空间分布规律与∑PAEs的地域分异性表现一致[8,15],与南方地区相比，北方地区农业土壤中DEHP和DnBP含量为南方地区土壤的3\\~4倍，这可能与北方地区温度低，地表覆膜时间长，土壤残膜难降解有较大关系[23]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从全球范围来看，土壤PAEs组分的污染特征大致相同,DEHP和DnBP是最主要的PAEs污染物[6.22.55],其他PAEs化合物含量相对较低[31]。研究表明，我国部分农田土壤中DEHP的含量高达 $2 9 . 3 7 \\ \\mathrm { m g \\cdot k g ^ { - 1 [ 3 8 ] } }$ ，远超过荷兰 $( 0 . 0 3 1 { \\sim } 0 . 0 4 1 \\ \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } } ) ^ { [ 5 5 ] }$ 、丹麦 $( 0 . 0 1 2 \\sim$ $1 . 9 0 0 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 } ) ^  [ \\$ 31]、捷克 $( 0 . 0 3 0 { \\sim } 0 . 7 3 0 ~ \\mathrm { m g { \\cdot } k g ^ { - 1 } } ) \\nonumber$ [36]等国家。这可能与我国长期大量使用低标准的农用薄膜导致大量农膜破碎残留于土壤密切相关[14,29]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 PAEs的土壤环境行为",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤是PAEs累积、迁移和转化的重要媒介，其在土壤中的环境行为是指在土壤及其他环境介质间的动态平衡过程，包括挥发[50]、淋洗[2]、吸附[56]、生物降解[46,50]、非生物降解(光解和氧化作用)[1,31]和植物吸收[18,24]等，经由这些过程，PAEs滞留于土壤/植物体内[14,18,57]，或转移进入大气/水体中(图1)[13]。主导PAEs在土壤中的环境行为的因素众多，交互作用复杂，不同生境下土壤类型[33]、土壤理化性质[1,30,50,58]与环境界面条件[59]的差异影响较大。研究表明，土壤有机质对PAEs有较强的吸附作用，有机质含量越多，对 PAEs 的吸附作用越大[38,41]；土壤有机质含量不同，势必会影响PAEs在土壤中的残留和转化过程[30.41]；土壤结构、水分含量的改变也将对PAEs在土壤中的迁移转化产生一定的影响[31,37]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1PAEs的土壤-大气界面过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PAEs在土-气界面的交换过程是其土壤环境行为的关键环节，会影响污染物在不同区域尺度上的传输、分布和归趋[12.60-61]，并可能改变 PAEs 的暴露途径[12.62]。主要的交换途径包括空气向土壤界面的干/湿沉降[1,13,47,60]，土壤向空气界面的挥发[12.22,.62]，但挥发速率缓慢，以空气相向土壤相的沉降为主[59]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PAEs容易被大气中的气溶胶、颗粒物吸附，随干/湿沉降到达土壤表层，且与颗粒物沉积量显著相关[13.60,63]。由于 PAEs 具备较强的疏水性和吸附性,大气颗粒物附着的PAEs被土壤表层吸附后大量累积，不易向底层土壤淋溶，累积浓度随土壤深度的增加而递减[12.62]；相比干沉降，通过湿沉降到达土壤中的 PAEs 含量会高出1倍[13.60]。沉降至土壤中的PAEs或又随水气蒸发/扩散、土壤扰动等挥发方式重新返回大气中[13]，在一定的排放条件下，形成了土-气界面PAEs各过程的动态平衡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PAEs在土-气界面间的迁移和分配过程通常采用逸度 $( f )$ 模型来描述，从而估算其迁移通量及方向[55,59,61-62]。计算土壤逸度系数 $( f _ { \\mathrm { S } } )$ 与空气逸度系数$( f _ { \\mathrm { A } } )$ 的比值，若 $f _ { \\mathrm { { S } } } / f _ { \\mathrm { { A } } } { = } 1$ 时，为平衡状态，不发生迁移行为；若 $f _ { \\mathrm { s } } / f _ { \\mathrm { A } } { \\neq } 1$ ，则为非平衡状态,PAEs则从 $f$ 大的环境介质向 $f$ 较小的环境介质迁移[12.61-62]，因而土壤表现出“汇\"和“源\"的双重特性[42.47]。一般来说，蒸汽压 $( P _ { \\mathrm { V } } )$ 高、辛醇-水分配系数 $( K _ { \\mathrm { o w } } ) / \\rfloor \\backslash$ 、浓度 $( C _ { \\mathrm { w } } )$ 大的PAEs(DMP)较易从土壤向空气迁移；而 $P _ { \\mathrm { V } }$ 低、 $K _ { \\mathrm { o w } }$ 大、Cw小的PAEs(DEHP)较易从空气向土壤迁移[12.62]。局地污染水平[12.44]、土壤理化性质[59.61]、环境条件(风速、气温、植被覆盖)[13.60-61]、农耕活动[60]、降解[12]等均能打破PAEs在土壤-空气间的动态平衡,导致PAEs在空间上的再分配。因此，要明确PAEs在土-气界面的环境行为，应加强PAEs在区域土壤、大气中的分布状况和影响研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2PAEs土壤-植物系统转化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物吸收是PAEs在食物链中传递与富集的源头[17,39,42]。一般来说，分子量小、 $K _ { \\mathrm { o w } } ( \\log K \\geqslant 5 )$ 大的PAEs(DEP/DEHP)更易被植物吸收[36.39]，吸收量与土壤污染程度成正比[24,57,64]。植物吸收土壤 PAEs 的途径包括：1)植物根系直接吸收土壤水溶液中的PAEs，再沿木质部在蒸腾流的驱动下，向上转运至地上茎叶部分，并累积在植物体内的有机组分中[25,57],代表植物类型有大豆(Glycinemax)、玉米(Zea mays)等[1,18,24]。2)植物地上部分(叶、茎)吸收土壤表层空气中的PAEs，并在植物体内的有机组分中累积，代表植物类型有菜心(Brassica campestris)等[64]。哪种传输方式占据优势，需根据作物品种、环境条件和PAEs自身性质决定。在同样的土壤环境下，同一植物对各 PAEs 化合物的吸收程度不同。 $\\log { K _ { \\mathrm { o w } } } { > } 3 . 5$ 的PAEs化合物(DEHP)降解速率小且有很强的亲脂性，能强烈吸附在植物根表面，仅有少量转移到叶片中[24,65]；而 $1 { < } \\mathrm { l o g } K _ { \\mathrm { o w } } { < } 3 . 5$ 的 PAEs 化合物(DEP)被根系吸收后，由根系向植物体内的传输过程更为明显[24]。但是，植物对PAEs 的吸收速率会受植物品种[,64]性状指标(叶片形状、根系类型等)[36.64]、种植方式[39.66]等因素的影响。一般来说，PAEs含量与叶片表面积呈正相关关系[64]，根系越发达，对PAEs的吸收能力越强[18]。部分水溶性较低的PAEs化合物(DnBP/DEHP)较难被植物降解或代谢，累积在植物根系或茎叶部位[64]，干扰植物正常的生理代谢活动[1,65],降低蔬菜维生素C含量，严重危害植物生长发育及",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/93acd3c836a245d2ea6f4a395eddca43863c5d507ac369b2cc0fb285e9d7c586.jpg",
+        "table_caption": [
+            "t [Tqe "
+        ],
+        "table_footnote": [
+            "武"
+        ],
+        "table_body": "<html><body><table><tr><td>区</td><td></td><td>∑6PAEs1)</td><td>DMP</td><td>DEP</td><td>DnBP</td><td>BBP</td><td>DEHP</td><td>DnOP</td></tr><tr><td>全国China</td><td>农业土壤 Agricultural soil</td><td>0.032~6.290</td><td>0.001~0.055</td><td>0.236×10-~0.024</td><td>0.004~0.457</td><td>ND~0.276×10-</td><td>ND~6.218</td><td>ND~0.298</td></tr><tr><td>东北黑土地区</td><td>设施菜地</td><td>春 Spring 1.002~3.202</td><td>0.121~0.378</td><td>0.063~0.472</td><td>0.276~0.676</td><td>0.017~0.139</td><td>0.517~1.386</td><td>0.008~0.151</td></tr><tr><td>Black soil in Northeast China</td><td>Intensive vegetable soil</td><td>夏 Summer 1.339~4.652</td><td>0.071~0.453</td><td>0.150~0.851</td><td>0.376~0.957</td><td>0.017~0.083</td><td>0.719~2.121</td><td>0.006~0.097</td></tr><tr><td></td><td>Intensiv vegstblesil</td><td>0.129~10.288</td><td>0.021~0.823</td><td>ND~0.067</td><td>0.037~6.313</td><td>ND~0.222</td><td>ND~3.871</td><td>ND~0.763</td></tr><tr><td>Shandg半eninsula</td><td>Intensivestble sol</td><td>1.180~23.350</td><td>ND~1.245</td><td>0.002~1.051</td><td>0.016~15.722</td><td>ND~5.691</td><td>0.073~5.323</td><td>ND~14.397</td></tr><tr><td>NanjingProvince</td><td>Irnensigeable sol</td><td>0.148~9.676</td><td>ND~0.016</td><td>ND~0.018</td><td>ND~1.235</td><td>ND~0.041</td><td>0.034~9.031</td><td>ND~1.732</td></tr><tr><td>天津Tianjin</td><td>设施菜地 Intensive vegetable soil</td><td>0.050~10.400</td><td>0.002~0.101</td><td>0.002~0.114</td><td>0.013~0.285</td><td>0~0.358</td><td>0.028~4.17</td><td>0~9.780</td></tr><tr><td>浙江杭州 Hangzhou, Zhejiang Province</td><td>设施菜地 Intensive vegetable soil</td><td>1.140~3.750</td><td>ND</td><td>0.060~1.490</td><td>0.140~0.350</td><td>0.030~0.160</td><td>0.810~2.200</td><td>0.100~0.250</td></tr><tr><td>天津Tianjin</td><td>农业土壤 Agricultural soil</td><td>0.091~2.740</td><td>0.003~0.088</td><td>0.003~0.081</td><td>0.007~0.189</td><td>0~0.179</td><td>0.039~2.370</td><td>ND~0.647</td></tr><tr><td>Sub广东城gong</td><td>农业土壤 Agricultural soil</td><td>0.118~34.025</td><td>0.001~0.157</td><td>0.001~0.178</td><td>0.009~2.740</td><td>ND~1.580</td><td>0.107~29.370</td><td>ND ~0.084</td></tr><tr><td>东部地区 East China</td><td>农业土壤 Agricultural soil</td><td>1.340~7.140</td><td>ND</td><td>ND~1.290</td><td>0.210~1.380</td><td>1</td><td>0.200~5.980</td><td></td></tr><tr><td>西南地区 Southwest China</td><td>农业土壤 Agricultural soil</td><td>1.850~2.960</td><td>ND</td><td>0.170~0.370</td><td>0.510~0.640</td><td>1</td><td>1.020~2.080</td><td>1</td></tr><tr><td>新疆南疆地区 South of Xinjiang</td><td>棉花田 Cotton fields soil</td><td>123.925~1232.0761)</td><td>ND~3.010</td><td>ND~2.415</td><td>11.150~57.500</td><td>1</td><td>103.500~149.000</td><td>1 1</td></tr><tr><td>北京Beijing</td><td>城市土壤 Urban soil (150~180 cm)</td><td>ND~1.190</td><td>ND~0.060</td><td>ND~0.410</td><td>ND~0.340</td><td>ND~0.270</td><td>ND~0.800</td><td>ND~0.180</td></tr><tr><td>北京 Beijing</td><td>城市土壤 Urban soil(0~20 cm)</td><td>0.508~7.959</td><td>ND~0.067</td><td>ND~0.252</td><td>0.279~3.817</td><td>ND~0.060</td><td>0.170~6.491</td><td>ND~0.172</td></tr><tr><td>广州Guangzhou</td><td>Res居ti  oil</td><td>1.618~105.166</td><td>0.009~0.127</td><td>0.003~0.102</td><td>0.206~7.490</td><td>ND~0.163</td><td>1.400~97.200</td><td>ND~0.084</td></tr><tr><td></td><td>公路边土壤 Road side soil</td><td>1.729~298.593</td><td>0.019~0.348</td><td>0.009~0.198</td><td>0.291~30.100</td><td>ND~1.580</td><td>1.410~264.000</td><td>ND~2.313</td></tr><tr><td>黄河三角洲 Yellow River Delta</td><td>农村土壤 Rural soil</td><td>0.716~3.251</td><td>0.001~0.005</td><td>ND~0.001</td><td>0.136~1.039</td><td>ND</td><td>0.431~2.449</td><td>ND~0.068</td></tr><tr><td>河北省 Hebei Province</td><td>污水灌溉土壤 Sewage irrigation soil</td><td>0.191~0.457</td><td>ND~0.034</td><td>0.023~0.034</td><td>0.035~0.054</td><td>ND~0.116</td><td>0.066~0.263</td><td>ND~0.069</td></tr><tr><td>辽宁、天津地区</td><td>工业区土壤</td><td>0.211~1.893</td><td>ND~0.009</td><td>ND~0.015</td><td>ND~1.021</td><td>ND~0.014</td><td>0.211~0.834</td><td>ND~0.025</td></tr><tr><td>Liaoning Province and Tianjin City 湖北武汉 Wuhan, Hubei Province</td><td>Industrial soil 垃圾填埋区土壤 Landfill soil</td><td>0.208~0.922</td><td>ND~0.109</td><td>ND~0.035</td><td>ND~0.258</td><td>ND~0.061</td><td>0.208~0.459</td><td></td></tr><tr><td>天津城郊区 Suburban in Tianjin</td><td>荒地土壤 Wasteland soil</td><td>0.106~1.360</td><td>0.003~0.073</td><td>0.005~0.059</td><td>0.009~0.147</td><td>0~0.471</td><td>0.051~0.494</td><td>ND ND~1.000</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/042a97e4fc0deb21dcf09ee91c7cc12b159ecece3235a9233117836c1a75e22a.jpg",
+        "img_caption": [
+            "图1土壤中酞酸酯的来源及其土壤环境行为",
+            "Fig.1Sources of phthalic acid esters (PAEs) in soils and their environmental fate "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "品质[39,67]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物修复是利用植物固有的生理过程或联合土壤-植物-微生物复合体系原位地吸收、转化、转移污染物[25,28,66]，以达到降低污染的目的。研究表明,土壤PAEs的植物修复机制主要包括：1)通过种植修复植物如紫花苜蓿(Medicago sativa)[28,39]吸收土壤中的PAEs，而后在植物组织中累积非植物毒性的代谢物，是一种植物直接吸收去除污染物的修复方式[18.39];但植物吸收作用有限，其吸收量不到初始污染浓度的 $2 \\% ^ { [ 2 0 , 2 5 , 2 8 ] }$ 。2)在适宜的范围内，植物释放的根际分泌物或酶能增加微生物利用的有效碳源和能量，进而改变根际微生物的群落结构和数量，增强微生物活性[18]；或诱导能与PAEs一同代谢的化合物分泌出过氧化物酶、漆酶等 PAEs 降解酶[65]，利用分泌物或降解酶修复污染土壤，是植物修复的主要途径[25]。但随着分泌物含量的增多，可能转而成为PAEs微生物降解的竞争性碳源，在一定程度上抑制对PAEs 的消减作用，尤其是对DEHP 的消减作用[18,65]。3)接种菌根真菌(AM)，其菌丝在加速PAEs降解、削减植物 PAEs残留量中能起到重要作用[18,27,57]；与不接种的土壤相比，接种AM后，土壤中PAEs含量减少$2 1 . 7 \\% \\sim 6 6 . 4 \\% ^ { [ 2 7 , 5 7 ] } ,$ 。此外，污染物的生物可利用性[25.65]、修复植物的组合选择[6也会影响到植物修复的效果。因此，应加强植物根系分泌与土壤PAEs的交互作用、植物-微生物联合修复PAEs、植物对PAEs的吸收与转化机理方面的研究，为明确PAEs在土壤-植物系统的传输和潜在风险提供科学支撑。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3PAEs的土壤-水界面过程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤中的PAEs能通过淋失、径流、浸润等途径进入水体，后经沉淀、吸附和交换等作用在沉积物中累积[68-69]，从而影响 PAEs 在土壤中的分布和迁移[23,32]。土壤中的PAEs进入水体后，从土壤颗粒上解吸到水中的释放过程，随淹水时长的增加，释放量加大[70]。整个过程分为快释放过程和慢释放过程两步，其中慢释放占整个过程释放量的99.12%[70]。随释放过程的持续，水体中PAEs浓度达到最大值后，多余的PAEs又会被沉积物吸附[69]。最终，土壤-水间的PAEs含量达到平衡，实现PAEs在土壤-水-沉积物之间的迁移交换。水体离子强度、有机质含量等水体条件[70]、温度、光照等环境条件[71]和微生物活性[70]的改变会打破PAEs在土壤与水体之间的浓度平衡。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "部分 $K _ { \\mathrm { o w } }$ 大、溶解度小、侧链较长的PAEs化合物，如DEHP更倾向于从水相向有机质含量丰富的沉积物中转移 $; [ 1 , 2 6 , 6 9 ]$ ，浓度为 $0 . 1 { \\sim } 3 3 1 . 7 ~ \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 [ 3 2 , 6 9 , 7 2 - 7 3 ] }$ 故沉积物也被称之为 PAEs 的最终储库[33.5,72]。与土壤PAEs的分布规律类似，靠近人口密度大的工业区、商业区周边河湖沉积物的PAEs浓度高于农田土壤区[32],DEHP是沉积物中污染程度最高的PAEs化合物，占总量的 $4 9 . 2 6 \\% { \\sim } 9 8 . 1 \\% ^ { [ 3 2 , 6 9 , 7 3 ] }$ ，可在深层沉积物中富集[45]。不同 PAEs 化合物的吸附速率和吸附能力有差异，当DnBP在沉积物-水两相间接近平衡时,DMP、DEP有由沉积物向水相迁移的趋势，而此时，DEHP则由水相向沉积物迁移。在水流和水生动/植物的扰动下，沉积物也可能悬浮于水体中，对土-水界面 PAEs 的迁移释放产生一定影响[47.74]。为此，应该深入研究水体环境条件对PAEs在沉积物中的转化过程的影响和PAEs在沉积物表面的作用过程和转化机制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3土壤PAEs的环境健康风险",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤PAEs的环境健康风险是表征人类或其他受体暴露于环境危害导致的潜在不良效应的可能性[14]，依据风险受体的不同，分为生态风险和健康风险[15,75]。针对土壤 PAEs 对生态系统(环境)的潜在危害，通过生态环境风险评价能定量预测土壤PAEs对生态环境结构和功能产生风险的可接受程度[76]。目前，在我国基于水生生态系统的PAEs生态环境风险评价较为常见[32,72,77]，而对于土壤系统的生态环境风险鲜有报道。结果显示，部分地区水生生态系统的PAEs生态环境风险高出国外相关标准以及我国地表水环境质量标准(GHZB 1—1999)[32.77]，存在极大的负面生态环境效应。沉积物或水体中的PAEs能通过施肥或灌溉进入土壤，使土壤环境面临较高的生态风险。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤PAEs的健康风险是假设土壤PAEs在呼吸、饮水、接触、皮肤吸收、摄入食物等各种暴露途径下[3,7,41]，对人体产生的危害效应，根据暴露剂量风险临界值来判断健康风险的等级[1139.67]。土壤PAEs的健康风险包括致癌风险和非致癌风险，又以致癌风险为主[11,67]。有研究表明，我国大部分农田土壤中PAEs化合物的致癌风险和非致癌风险均小于健康风险规定的可接受上限，处于相对安全状态[3,41]。但南京、新疆、广东等地区部分农田土壤DEHP存在较高的致癌风险，风险值为 $7 . 3 7 { \\times } 1 0 ^ { - 6 } { \\sim } 3 . 9 4 { \\times } 1 0 ^ { - 5 } { > }$ $1 \\times 1 0 ^ { - 6 [ 1 1 , 6 7 ] }$ 。这与这些地区农业发展高度集约化，普遍使用农膜有关[8.67]，DEHP已成为潜在危害最大的PAEs化合物[15]。其次，饮食摄入被认为是中国成年人群最主要的暴露途径，占总摄入量的90%以上[15,17,47]。不同暴露途径的健康风险因PAEs化合物理化性质的差异而不同，小分子量PAEs的致癌风险大小依次为皮肤接触 $| >$ 呼吸摄入 $. >$ □腔摄入，高分子量PAEs则表现为皮肤接触 $\\lvert >$ 口腔摄入 $>$ 呼吸摄入[67]。综上所述，农用品的合理使用以及暴露途径的防护是控制土壤PAEs环境健康风险的有效途径。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4研究展望",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PAEs已成为全球性的土壤环境有机污染物，国内外研究者对土壤PAEs的污染行为已开展大量研究，但仍缺少对PAEs在土壤环境中迁移转化过程和机理的深入探讨，从维护环境安全与人类健康的角度出发，今后亟需加强以下几个方面的研究：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1)加强土壤PAEs污染的时空尺度演变特征研究。了解不同区域尺度土壤PAEs的污染特征，是正确评估区域风险的基础。现有土壤PAEs污染调查多集中在东部地区、城市或城郊土壤[38,41,50]，而中、西部地区、农村地区的报道相对较少；土地利用方面，多集中于设施菜地[58.67]，对于种植粮食作物的农田研究较少；化合物方面，局限在一种或少数几种PAEs 化合物[3364.6,68-78]，这些均不能代表区域士壤PAEs污染的整体状况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2)加强土壤PAEs在多介质间迁移转化机理研究。研究PAEs在不同介质间的环境行为，能有效地追踪PAEs的代谢过程。目前，多介质间的单一环境行为的研究还不足，且大多停留在对现象的描述或机理过程的猜测，缺乏对机理的深入探讨；PAEs与其他有机污染物在各环境介质中的转化机理及联合毒效尚不清楚。应加强探讨PAEs在土壤中的残留动态及在整个生态系统中的运转机制和限制因子，定量估算环境各介质中PAEs的分配行为及贡献率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3)加强土壤PAEs污染与人体健康风险研究。风险评价是进行环境风险管理及保障环境安全和人体健康的重要手段。当前，土壤PAEs污染的风险评价对象还多停留于生态环境[32,78]或人体健康[11,23]，很少考虑土壤PAEs的环境健康风险综合效应。其次，现有评价过程中多局限对现存单一污染源的识别，而在多种风险源或历史污染源下，如何计算复合污染造成的风险尚不清楚，可能低估实际风险。同时，我国尚未制定土壤PAEs污染评价和治理的相关标准，实际研究中多参照国外的相关标准来鉴定污染程度[11,23]，可能会出现界定PAEs 污染水平的偏差。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4)加强土壤PAEs削减与修复技术研究。土壤削减和修复技术能有效地减少或消除污染物对环境或人体的危害，是保护土壤环境的根本措施。相比单一的植物修复或微生物修复技术，微生物-植物联合修复技术能有效地提高PAEs的修复效率[25,28]，但研究还比较少。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Stales C A，Peterson D R,Parkerton T F,et al．The environmental fate of phthalate esters:Aliterature review[J]. Chemosphere,1997,35(4): 667-749   \n[2]He L Z,Gielen G, Bolan N S,et al.Contamination and remediation of phthalic acid esters in agricultural soils in China:A review[J].Agronomy for Sustainable Development, 2015,35(2):519-534   \n[3]Guo Y,Wu Q,Kannan K.Phthalate metabolites in urine from China,and implications for human exposures[J].Environment International,2011,37(5): 893-898   \n[4]van Wezel A P,van Vlaardingen P,Posthumus R,et al. Environmental risk limits for two phthalates,with special emphasis on endocrine disruptive properties[J]. Ecotoxicologyand Environmental Safety,2000,46(3):305-321   \n[5]Sathyanarayana S.Phthalates and children's health[J].Current Problems in Pediatric and Adolescent Health Care,2008, 38(2): 34-49   \n[6]Wormuth M,Scheringer M,Vollenweider M,et al.What are the sources of exposure to eight frequently used phthalic acid esters in Europeans?[J].Risk Analysis,2006,26(3):803-824   \n[7] Schettler T.Human exposure to phthalates via consumer products[J]. International Journal of Andrology,2oo6,29(1): 134-139   \n[8]Mo C H,Cai Q Y,Tang S R,et al.Polycyclic aromatic hydrocarbons and phthalic acid esters in vegetables from nine Environmental Contamination and Toxicology, 20o9,56(2): 181-189   \n[9] Cai Q Y, Mo C H, Wu Q T,et al. Quantitative determination of organic priority pollutants in the composts of sewage sludge with rice straw by gas chromatography coupled with mass spectrometry[J]. Journal of Chromatography A,2007, 1143(1/2): 207-214   \n[10]Cai Q Y,Mo C H,Wu Q T,et al.The status of soil contamination by semivolatile organic chemicals (SVOCs） in China:A review[J]. Science of the Total Environment, 2008, 389(2/3): 209-224   \n[11] Niu L L,Xu Y, Xu C,et al. Status of phthalate esters contamination in agricultural soilsacrossChinaand associated health risks[J].Environmental Pollution,2014,195: 16-23   \n[12] Cousins I T, Jones K C.Air-soil exchange of semi-volatile organic compounds (SOCs） in the UK[J]. Environmental Pollution,1998,102(1): 105-118   \n[13] Zeng F,Lin Y J,Cui K Y,et al. Atmospheric deposition of phthalateesters in a subtropical city[J].Atmospheric Environment, 2010,44(6): 834-840   \n[14] Wang J,Luo Y M, Teng Y,et al. Soil contamination by phthalate esters in Chinese intensive vegetable production systems with different modes of use of plastic film[J]. Environmental Pollution,2013,180:265-273   \n[15] Chen L, Zhao Y,Li L X,et al. Exposure assessment of phthalates in non-occupational populations in China[J]. Science of the Total Environment,2012,427/428: 60-69   \n[16] Kapanen A， Stephen J R,Brüggemann J,et al. Diethyl phthalate in compost: Ecotoxicological effects and response of the microbial community[J]. Chemosphere,20o7,67(11): 2201-2209   \n[17] Jarosova A.Phthalic acid esters (PAEs) in the food chain[J]. Czech Journal of Food Sciences,2006,24(5): 223-231   \n[18] Sun TR, Cang L,Wang Q Y, et al.Roles of abiotic losses, microbes,plant roots,and root exudates on phytoremediation of PAHs in a barren soil[J].Journal of Hazardous Materials, 2010,176(1/3): 919-925   \n[19] Latini G. Monitoring phthalate exposure in humans[J]. Clinica Chimica Acta,2005,361(1/2): 20-29   \n[20] Sablayrolles C,Montréjaud-Vignoles M,Benanou D,et al. Development and validation of methods for the trace determination of phthalates in sludge and vegetables[J]. Journal of Chromatography A,2005,1072(2): 233-242   \n[21] Net S,Delmont A, Sempéré R,et al. Reliable quantification of phthalates in environmental matrices (air,water, sludge, sediment and soil):A review[J].Science of the Total Environment,2015,515/516:162-180   \n[22] Li XH,Ma L L,Liu X F,et al.Phthalate ester pollution in urban soil of Beijing,People's Republic of China[J].Bulletin of Environmental Contamination and Toxicology,2006,77(2): 252-259   \n[23] Hu X Y,Wen B,Shan XQ. Survey of phthalate polltion in arable soils in China[J]. Journal of Environmental Monitoring, Jall and accumulation in plants[J]. Environmental Science,1996, 17(5): 87-88   \n[25] Cai Q Y,Mo C H, Zeng Q Y,et al. Potential of Ipomoea aquatica cultivars in phytoremediation of soils contaminated with di $\\cdot n$ -butyl phthalate[J]. Environmental and Experimental Botany,2008,62(3): 205-211   \n[26] Sirivithayapakorn S,Thuyviang K. Dispersion and ecological risk assessment of di (2-ethylhexyl) phthalate (DEHP) in the surface waters of Thailand[J].Bulletin of Environmental Contamination and Toxicology,2010,84(5): 503-506   \n[27]王曙光，林先贵，尹睿．接种丛枝菌根(AM)真菌对植物 DBP 污染的影响[J]．应用生态学报,2003,14(4):589-592 Wang S G, Lin X G,Yin R.Effect of inoculation with AM fungi on DBP-pollution of plant[J]. Chinese Journal of Applied Ecology,2003,14(4): 589-592   \n[28] Ma TT,Luo YM, Christie P,et al. Removal of phthalic esters from contaminated soil using different cropping systems:A field study[J]. European Journal of Soil Biology,2012,50: 76-82   \n[29] 郭冬梅，吴瑛．南疆棉田土壤中邻苯二甲酸酯(PAEs)的测 定[J]．干旱环境监测,2011,25(2):76-79 Guo D M,Wu Y.Detemination of phthalic acid esters of soil in south of Xinjiang coton fields[J].Arid Environmental Monitoring,2011,25(2): 76-79   \n[30] 陈永山，骆永明，章海波，等．设施菜地土壤酞酸酯污染的 初步研究[J].±壤学报,2011,48(3):516-523 Chen Y S,Luo Y M, Zhang HB,et al. Preliminary study on PAEs pollution of greenhouse soils[J]. Acta Pedologica Sinica, 2011,48(3): 516-523   \n[31]Vikelsoe J，Thomsen M，Carlsen L. Phthalatesand nonylphenols in profilesof diferently dressed soils[J]. Science of the Total Environment,2002,296(1/3):105-116   \n[32] Wang J,Bo L J,Li L N,et al. Occurrence of phthalate esters in river sediments in areas with different land use patterns[J]. Science of the Total Environment,2014,500/501: 113-119   \n[33]Magdouli S,Daghrir R,Brar S K,et al.Di 2-ethylhexylphtalate in the aquatic and terrestrial environment: A critical review[J]. Journal of Environmental Management, 2013,127: 36-49   \n[34] Guo Y,Kannan K. Comparative assessment of human exposure to phthalate esters from house dust in China and the United States[J].Environmental Science & Technology,2011, 45(8): 3788-3794   \n[35] Mo C H,Cai Q Y,Li Y H,et al.Occurrence of priority organic pollutants in the fertilizers,China[J].Journal of Hazardous Materials,2008,152(3): 1208-1213   \n[36] Zornikovä G, Jarosova A,Hrivna L.Distribution of phthalic acid esters in agricultural plants and soil[J].Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis,2011, 59(3): 233-238   \n[37] Yuan S Y,Lin Y Y,Chang B V. Biodegradation of phthalate esters in polluted soil by using organic amendment[J]. Journal 419-425   \n[38] Zeng F, Cui K Y, Xie Z Y,et al.Phthalate esters (PAEs): Emerging organic contaminants in agricultural soilsin peri-urban areas around Guangzhou, China[J]. Environmental Pollution,2008,156(2): 425-434   \n[39] Ma T T,Christie P,Luo Y M,et al.Phthalate esters contamination in soil and plants on agricultural land near an electronic waste recycling site[J].Environmental Geochemistry and Health,2013,35(4): 465-476   \n[40] Chai C,Cheng H Z,Ge W,et al. Phthalic acid esters in soils from vegetable greenhouses in Shandong Peninsula,East China[J]. PLOS One,2014,9(4): e95701   \n[41] Xia X H, Yang L Y,Bu Q W, et al. Levels,distribution,and health risk of phthalate esters in urban soils of Beijing, China[J].Journal of Environmental Quality，201，40(5): 1643-1651   \n[42] Kong SF,JiYQ,Liu L L,et al. Diversities of phthalate esters in suburban agricultural soils and wasteland soil appeared with urbanization in China[J]. Environmental Pollution,2012, 170: 161-168   \n[43] Gao J, Zhou H F. Influence of land use types on levels and compositions of PAEs in soils from the area around Hongze Lake[J].Advanced Materials Research，2013，610/613: 2916-2924   \n[44]朱媛媛，田靖，景立新，等．不同城市功能区土壤中酞酸酯 污染特征[J]．环境科学与技术,2012,35(5):42-46 Zhu Y Y,Tian J,Jing L X,et al.Pollution features of phthalatesin soilswith different urban functions[J]. Environmental Science &Technology,2012,35(5): 42-46   \n[45] Liu H, Liang H C,Liang Y,et al. Distribution of phthalate esters in aluvial sediment:A case study at Jianghan Plain, Central China[J]. Chemosphere,2010,78(4): 382-388   \n[46] Xie H J,Shi YJ,Zhang J,et al.Degradation of phthalate esters (PAEs） in soil and the efects of PAEs on soil microcosm activity[J]. Journal of Chemical Technology and Biotechnol0gy,2010, 85(8): 1108-1116   \n[47] Net S， Sempéré R，Delmont A，et al. Occurrence，fate, behavior and ecotoxicological state of phthalates in different environmentalmatrices[J].EnvironmentalScience& Technology,2015,49(7): 4019-4035   \n[48] Zhang Y,Wang PJ,Wang L,et al.The influence of facility agriculture production on phthalate esters distribution in black soils of northeast China[J]. Science of the Total Environment, 2015,506/517: 118-125   \n[49] Wang L J,Xu X,Lu X W. Phthalic acid esters (PAEs） in vegetable soil from the suburbs of Xianyang City,Northwest China[J]. Environmental Earth Sciences，2015,74(2): 1487-1496   \n[50] Cheng X M, Ma L L,Xu D D,et al.Mapping of phthalate esters in suburban surface and deep soils around a metropolisBeijing, China[J]. Journal of Geochemical Exploration,2015, 155:56-61   \n[51] Zeng F, Cui K Y, Xie Z Y,et al. Distribution of phthalate esters in urban soils of subtropical city, Guangzhou,China[J]. Journal of Hazardous Materials,2009,164(2/3): 1171-1178   \n[52] Yang H J,Xie W J,Liu Q,et al. Distribution of phthalate esters in topsoil: A case study in the Yellow River Delta, China[J].Environmental Monitoring and Assessment, 2013, 185(10): 8489-8500   \n[53] Zhang Y,Liang Q,Gao R T,et al. Contamination of phthalate esters (PAEs) in typical wastewater-irrigated agricultural soils in Hebei,North China[J].PLoS One,2015,10(9): e0137998   \n[54] Liu H,Liang Y, Zhang D,et al. Impact of MSW landfill on the environmental contamination of phthalate esters[J].Waste Management,2010,30(8/9): 1569-1576   \n[55]Peijnenburg W JG M,Struijs J.Occurrence of phthalate esters in the environment of the Netherlands[J].Ecotoxicology and Environmental Safety,2006,63(2): 204-215   \n[56] Pignatello JJ,Xing B S.Mechanisms of slow sorption of organic chemicals to natural particles[J]. Environmental Science & Technology,1995,30(1): 1-11   \n[57] Chen R R,Yin R,Lin X G, et al. Effect of arbuscular mycorrhizal inoculation on plant growth and phthalic ester degradation in two contaminated soils[J]. Pedosphere,2005, 15(2): 263-269   \n[58]蔡全英，莫测辉，李云辉，等．广州、深圳地区蔬菜生产基 地土壤中邻苯二甲酸酯(PAEs)研究[J]．生态学报，2005, 25(2): 283-288 Cai Q Y, Mo C H,Li YH,et al. The study of PAEs in soils from typical vegetable fields in areas of Guangzhou and Shenzhen, South China[J].Acta Ecologica Sinica,2005,25(2): 283-288   \n[59]朱媛媛，田靖，吴国平，等．酞酸酯在空气和土壤两相间迁 移情况的初步研究[J]．环境化学,2012,31(10):1535-1541 Zhu Y Y,Tian J,Wu G P,et al.Estimation of the air-soil exchange of phthalates[J].Environmental Chemistry,2012, 31(10): 1535-1541   \n[60] Cousins I T, Beck A J, Jones K C.A review of the processes involved in the exchange of semi-volatile organic compounds (SVOC) across the air-soil interface[J]. Science of the Total Environment,1999,228(1): 5-24   \n[61] Bozlaker A，Muezzinoglu A，Odabasi M.Atmospheric concentrations,dry deposition and air-soil exchange of polycyclic aromatic hydrocarbons (PAHs） in an industrial region in Turkey[J]. Journal of Hazardous Materials,2008, 153(3): 1093-1102   \n[62] Wang D G, Yang M,Jia $\\texttt { H L }$ ，et al. Seasonal variation of polycyclic aromatic hydrocarbons in soil and air of Dalian areas,China: An assessment of soil-air exchange[J]. Journal of Environmental Monitoring,2008,10(9):1076-1083   \n[63] Mandalakis M, Stephanou E G. Atmospheric concentration characteristics and gas-particle partitioning of PCBs in a rural area of eastern Germany[J]. Environmental Pollution,2007, 147(1): 211-221   \n[64]曾巧云，莫测辉，蔡全英，等．邻苯二甲酸二丁酯在不同品 种菜心-土壤系统的累积[J]．中国环境科学，2006,26(3): 333-336 Zeng Q Y, Mo C H, Cai Q Y, et al. Accumulation of di-n-butyl phthalate in different genotypes of Brassica campestris-soil systems[J]. China Environmental Science,2006,26(3): 333-336   \n[65]王爱丽．酞酸酯在湿地植物根际环境中的消减行为[D]．天 WangAL.Dissipation behaviors of phthalic acid esters in the rhizosphere of wetland plants[D]. Tianjin: Tianjin University, 2011   \n[66]Wu ZY,Zhang XL,Wu XL,et al.Uptake of di(2-ethylhexyl) phthalate (DEHP) by the plant Benincasa hispida and its use for lowering DEHP content of intercropped vegetables[J]. Journal of Agricultural and Food Chemistry,2013,61(22): 5220-5225   \n[67]Wang J,Chen G C,Christie P,et al.Occurrence and risk assessment of phthalate esters (PAEs) in vegetables and soils of suburban plastic film greenhouses[J].Science of the Total Environment,2015,523:129-137   \n[68]Liu Y,Chen Z L，Shen J M.Occurrence and removal characteristics of phthalate esters from typical water sources in northeast China[J].Journal of Analytical Methods in Chemistry,2013,2013:419349   \n[69]Srivastava A,Sharma VP,Tripathi R,et al.Occurrence of phthalic acid esters in Gomti River sediment,India[J]. Environmental Monitoring and Assessment,2010,169(1/4): 397-406   \n[70]杨志丹．三峡库区消落带邻苯二甲酸二丁酯迁移释放的静 态模拟[D].重庆：西南大学,2014 Yang Z D. The static simulation of dibutyl-phthalate migration and release in the fluctuating zone of Three Gorges Reservoir[D].Chongqing: Southwest University, 2014   \n[71]Huang PC,Tien CJ,Sun Y M,et al.Occurrence of phthalates in sediment and biota:Relationship to aquatic factors and the biota-sediment accumulation factor[J].Chemosphere,2008, 73(4): 539-544   \n[72] Yuan S Y,Liu C,Liao C S,et al. Occurrence and microbial degradation of phthalate esters in Taiwan river sediments[J]. Chemosphere,2002,49(10): 1295-1299   \n[73]ShaYJ,Xia XH,Yang ZF,et al.Distribution of PAEs in the middle and lower reaches of the Yellow River, China[J]. Environmental Monitoring and Assessment, 2007,124(1/3): 277-287   \n[74]Naito W,Gamo Y,Yoshida K.Screening-level risk assessment of di (2-ethylhexyl） phthalate for aquatic organisms using monitoring data in Japan[J].Environmental Monitoring and Assessment,2006,115(1/3):451-471   \n[75]陈辉，刘劲松，曹宇，等．生态风险评价研究进展[J]．生态 学报,2006,26(5):1558-1566 Chen H,Liu J S,Cao Y,et al．Progresses of ecological risk assessment[J]. Acta Ecologica Sinica,2006,26(5): 1558-1566   \n[76] De Lange HJ,Sala S, Vighi M, etal. Ecological vulnerability in risk assessment-a review and perspectives[J]. Science of the Total Environment,2010,408(18):3871-3879   \n[77] Wang H,Wang C X，Wu W Z,et al. Persistent organic pollutants in water and surface sediments of Taihu Lake, China and risk assessment[J]. Chemosphere,2003,50(4): 557-562   \n[78] Jager T,den Hollander H A,van der Poel P,et al. Probabilistic environmental risk assessment for dibutylphthalate (DBP)[J].Human and Ecological Risk Assessment, 2001, 7(6): 1681-1697 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,603 @@
+[
+    {
+        "type": "text",
+        "text": "关联数据在数字图书馆移动视觉搜索系统中的应用研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "齐云飞1.赵宇翔²朱庆华」1(南京大学信息管理学院南京 210093)2(南京理工大学经济管理学院南京 210094)3(河南财政金融学院教务处 郑州 451464)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】提出一种具有语义发现功能的移动视觉搜索方法，实现数字图书馆视觉资源内容和语义信息的全搜索。【方法】采用BIBFRAME、关联数据和图像处理技术获取视觉资源的语义信息和特征信息，通过关联数据对特征信息和语义信息进行关联，实现移动视觉搜索和语义搜索的融合。【结果】实验结果表明，系统较好地实现了对视觉资源内容和语义的搜索，弥补了传统移动视觉搜索在语义方面的不足。【局限】系统在检索效率上还存在不足，特征处理算法和 SPARQL检索过程还需要进一步优化。【结论】本文提出的移动视觉搜索系统能够较好地实现视觉资源内容和语义的关联与搜索，为数字图书馆语义信息发掘和服务模式创新提供了一种新的方式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：关联数据数字图书馆移动视觉搜索 语义搜索 BIBFRAME",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：G350",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着移动互联网的快速发展，便携化、智能化移动设备的迅速普及，互联网用户开始加速从PC端向移动端迁移。根据CNNIC发布的第38次《中国互联网络发展状况统计报告》1]，中国手机网民规模达6.56亿， $9 2 . 5 \\%$ 的网民选择通过手机上网。移动互联网的崛起极大改变了信息获取与分享方式，对整个互联网生态系统产生了重大的影响。数字图书馆作为互联网的知识存储、组织和传播中心，受移动环境影响，在资源类型和获取方式上发生了显著的变化。一方面，受用户需求影响，视觉资源数量不断增加，成为数字图书馆资源的重要组成部分。另一方面，传统基于关键词的检索方式已经无法适应不断增加的视觉资源类型，迫切需要一种更有效的资源检索方式。移动视觉搜索(MobileVisualSearch,MVS)是采用移动设备传感器提取视觉对象，通过移动网络进行视觉资源库检索的信息获取方式[2]。作为一种数据驱动和任务导向的创新型互联网服务模式，移动视觉搜索优化了视觉资源的建设、组织和呈现方式，为图书馆知识服务带来了巨大的创新与变革[3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "受互联网环境影响，现有的移动视觉搜索更多关注的是视觉处理技术，而忽视了对视觉资源语义信息的研究。与互联网碎片化的信息不同，数字图书馆在资源语义描述和结构化组织方面有巨大的优势。专业人员编辑的书目数据为视觉资源提供了丰富的语义信息，这些信息在揭示视觉资源内涵，发现视觉资源关联方面发挥着重要的作用。对数字图书馆而言，视觉搜索不能仅仅是简单的以图搜图，更应该通过搜索发现视觉资源背后丰富的语义知识。语义搜索一直是图书情报界研究的热点，本体和关联数据是目前较为成熟的解决方案，在资源的概念化描述、关联数据编码和语义检索方面有许多标准、技术和研究案例可供借鉴。鉴于此，本文研究首先对移动视觉搜索、关联数据的发展和应用进行梳理。在此基础上提出一种视觉搜索和语义搜索相结合的数字图书馆移动视觉搜索方法。该方法融合了关联数据、本体和图像处理技术，支持以视觉资源为对象进行语义信息和相关资源的搜索。最后，通过搭建实验系统对本文所提方法进行检验。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2相关研究概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 移动视觉搜索概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "移动视觉搜索作为一种新兴的知识获取和呈现方式，其产生和发展得益于移动网络、设备的普及和视觉搜索、移动搜索等相关技术的成熟[4]。移动设备高性能的摄像头和传感器，能够实时捕捉各种视觉对象，随时接人泛在的无线网络，为移动视觉搜索提供了最佳的运行环境[2]。另外，随着图像处理、人工智能等技术的成熟，视觉资源的处理不再是难以逾越的鸿沟，先进的视觉特征处理和识别技术为移动视觉搜索的发展提供了坚实的基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "移动视觉搜索作为传统视觉搜索在移动网络的延伸，其继承了已有的视觉特征处理方法，同时也面临一些新的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)搜索效率问题。传统视觉搜索需要复杂的特征处理和检索过程，然而移动设备有限的处理和传输能力极大限制了视觉资源的搜索效率。对此，研究者主要从系统结构和特征处理两个方面进行研究。系统结构方面，移动视觉搜索普遍采用C-S 的运行模式[5],研究者通过合理分配处理流程减少网络传输消耗的时间。在特征处理方面，针对常用的SIFT、PCA-SIFT、SURF 等算法[6-9]，研究者提出了视觉特征压缩[10-12]、自适应网络带宽[13]和视觉词袋库分解[14]等多种改进方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)语义搜索问题。由于\"语义鸿沟\"的存在，视觉资源的语义搜索一直是困扰研究者的难题。对此，微软等提出通过深度学习的方式训练机器对图像特征进行识别[2]。这种方式虽然能够较好地识别图像内容，但仍然无法解决图像深层语义的发现问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "移动视觉搜索具有广阔的发展前景[3,15-16]，许多研究者从视觉资源建设、视觉搜索机制和视觉搜索框架等视角出发探索了其在数字图书馆知识服务中的应用。张兴旺等4从内涵、分类和架构等方面分析了移动视觉搜索的构建和运行机制,提出若干重要问题的解决方案。张亭亭等[17将众包模式应用于数字图书馆移动视觉资源库建设，从任务设计、激励机制设计和质量控制等方面提出了数字图书馆移动视觉搜索众包模式的建设方法。刘木林等[18]结合关联数据技术提出数字图书馆移动视觉搜索的MVSMVC框架。除上述研究主题外，笔者认为面对抽象的数字图书馆视觉资源，深层语义的识别和搜索同样是移动视觉搜索迫切需要解决的难题。目前，基于本体、关联数据的语义描述、组织和搜索是图书馆领域研究的热点，如果能够引人这些技术则可以有效弥补移动视觉搜索在语义方面的不足，从而更好地满足数字图书馆知识服务的需要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 关联数据概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据蒂姆·伯纳斯·李对语义网的构想，关联数据将为所有资源分配唯一的URI，资源之间通过三元组进行关联，互联网被整合成为一个巨大的关联数据库，通过语义搜索进行资源检索和知识发现[18]。关联数据作为语义网的核心构件，其与本体技术的结合可以有效解决资源的语义描述和组织问题，是语义搜索的基础。关联数据已经成为W3C推荐的信息发布、共享和连接规范[19]，在电子商务、新闻传播、搜索引擎等领域得到广泛的应用。例如：百思买(BestBuy)公司采用GoodRelation 标注电子商务页面；BBC采用RDF发布网页信息以提高内容的重用；美国政府网站采用RDF和本体发布机构数据集;Google等公司提出的Schema.org标准支持使用RDFa1.1对网页进行语义标记。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在图书馆领域关联数据也得到广泛的应用，许多受控词表和本体模型已经通过关联数据进行发布。如：美国国会图书馆采用关联数据的方式发布了《美国国会图书馆标题表》(LCSH)[20]，德国国家经济图书馆发布了经济学词表STW。此外,DC、FOAF、EVENT和SKOS等常用的元数据和本体词汇集也已经通过RDF进行发布。书目框架(BIBFRAME)是美国国会图书馆发布的新一代编目格式[21]，其与关联数据的结合将可以有效解决图书馆资源的语义描述和组织问题，推动图书馆知识服务向语义化和关联化的方向发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "国内图书馆领域对关联数据的研究主要集中在理论探讨、应用梳理和技术探索三个方面。刘炜等[19,22]从概念、内涵和技术现状出发，分析了关联数据在图书馆领域的应用，揭示了关联数据对开放书目数据和规范控制的重要意义，推动了关联数据在国内的发展;曹月珍等[23通过梳理国内外关联数据研究的最新成果，提出了关联数据在图书馆应用的发展方向；欧石燕等[24-27]结合语义网技术提出了关联数据在图书馆资源聚合、语义数字图书馆构建和自动问答系统设计等方面的应用；夏翠娟等[28-31]分析了传统数据存储方式向关联数据迁移的路径和方法，提出基于关联数据的家谱服务平台构建方法；陈涛等[32提出关联数据的可视化技术实现方法；赵夷平等[33结合语义分析方法提出基于关联数据的相似文献发现方法。目前，数字图书馆领域对关联数据的研究主要集中在资源语义描述和聚合方面，将其应用于移动视觉搜索的研究还很少，尤其是在系统构建方面还没有实际的研究案例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3基于关联数据的数字图书馆移动视觉搜索 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 系统框架",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视觉资源分为静态图像(图片)和动态图像(视频)两种类型，由于移动环境下很难对动态图像进行搜索，所以现有的移动视觉搜索研究普遍以静态图像为检索对象，对于动态图像可以将其分散为多张静态图像进行检索，本研究提出的移动视觉搜索系统也以静态图像为检索对象。该框架主要包括8个核心模块，实线箭头显示资源的构建过程，虚线箭头显示资源的检索过程，如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ee461564a43639418bdfa795f1c684db8a1a6b60a95f1286cc11ca84ce47708.jpg",
+        "img_caption": [
+            "图1数字图书馆移动视觉搜索框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）资源构建过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视觉资源构建主要包括：视觉特征构建和语义信息构建两个部分。视觉特征构建涉及预处理、特征抽取和特征存储三个模块。首先，预处理模块对不同类型的馆藏视觉资源进行处理，生成适合特征抽取的格式；然后，特征抽取模块对预处理后的视觉资源进行特征抽取；最后，特征存储模块生成该视觉资源的特征文件，并进行统一管理。语义信息构建主要涉及语义信息构建、关联数据编码和语义信息存储三个模块。首先，语义信息构建模块根据图书馆领域最新的本体模型对视觉资源进行语义描述；然后，关联数据编码模块对生成的语义信息进行序列化，生成机器可识别的RDF文件；最后，语义信息存储模块对生成的RDF文件进行存储，并提供必要的数据管理服务。上述内容主要分析了视觉特征和语义信息的构建过程，然而要实现二者的关联还必须构建视觉资源的URI索引。URI索引指定了视觉特征和语义信息之间的关联，是视觉搜索和语义搜索融合的关键。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)资源搜索过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视觉资源的搜索过程主要包括视觉搜索和语义搜索两个环节，涉及特征匹配和SPARQL检索等模块。在视觉搜索环节，系统首先采用与馆藏视觉资源相同的预处理和特征抽取方法对检索对象进行特征提取;其次，特征匹配模块将提取到的检索特征与特征库进行匹配，确定相似度最高的视觉资源；再次，特征匹配模块对URI索引数据库进行检索，获取相似度最高资源的URI，随后进入语义搜索环节,SPARQL检索模块根据获取的URI构建语义检索式，并对三元组数据库进行检索；最后，系统将检索结果以可视化的方式返回用户。上述内容分析了视觉资源的发现过程，在实际应用中其可以与手机、谷歌眼镜等移动设备传感器结合，通过感知用户检索意愿，自动捕捉用户眼前场景并进行搜索，搜索结果最终通过视觉、文字等方式呈现给用户。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 系统模块",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）预处理模块 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "预处理模块主要分为移动端和服务器端两个部分。移动端预处理模块主要负责对检索图像的像素、纹理、灰度等进行调整，以适应特征抽取的需要。服务器端预处理模块则需要面对更加丰富的馆藏视觉资源类型，如：照片、电影、插图等。对于图像的处理可以按照与移动端相同的方式进行，而对于视频资源的处理则可以将其看作静态图像的集合进行处理。然而，在移动网络环境下，逐帧的检索方式会消耗大量的处理时间，所以本研究的方法是从视频中提取有代表性的图像进行预处理，从而将对视频资源的搜索转化为对少数图像的搜索。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）特征抽取模块 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "特征抽取模块同样分为移动端和服务器端两个部分，虽然其功能都是对视觉资源特征进行描述和抽取，但移动端主要负责对检索图像进行处理，抽取的特征需要上传服务器进行特征匹配；服务器主要负责对馆藏视觉资源进行处理，抽取的特征交由特征存储模块构建特征库。目前，视觉资源存在多种不同的特征描述和抽取方法，如：基于颜色、纹理等的全局特征和基于关键点的局部特征等。对此，系统需要结合资源的类型选取合适的一种或多种特征进行抽取。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）特征存储模块 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "特征存储模块主要负责生成检索需要的视觉特征文件，并对这些文件构成的特征库进行管理。受特征匹配方式的影响，特征库的构建方法存在较大差异。SIFT算法是一种局部特征抽取和匹配方法，其采用128维的特征向量对关键点进行描述，并通过计算欧式距离进行匹配。对此，特征存储模块需要为每一个视觉资源生成由关键点描述信息构成的特征文件，并进行统一的命名和管理。此外，基于视觉词袋模型的匹配方法除了需要提取视觉特征，还需要对特征进行聚类生成视觉词汇，并通过视觉特征直方图对资源进行匹配。对此，视觉特征存储模块除了需要存储视觉特征，还需要在此基础上构建视觉词典，并生成每个资源的视觉直方图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4）特征匹配模块 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "特征匹配模块主要负责特征匹配和URI提取两项功能。针对不同的特征描述方法，特征匹配可以采用欧式距离、汉明距离、视觉直方图等多种方法，相似度最高的图像即为视觉搜索环节的结果。URI是关联数据为馆藏资源分配的唯一标识，是实现视觉搜索向语义搜索转移的关键。为了获取视觉搜索结果的URI,需要构建指定视觉特征和语义信息关联的URI索引。URI索引表记录了每一个视觉特征对应的馆藏实体，通过对特征名检索可以获得对应的实体URI名称。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5）语义信息构建模块",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "语义信息构建模块负责对馆藏视觉资源进行语义描述和组织。为适应数字图书馆领域需要，本研究基于BIBFRAME进行概念模型的构建[34-35]。BIBFRAME是美国国会图书馆发布的新一代书目本体，提出了由作品、实例和单件构成的概念模型，以及丰富的类和属性定义[36，如图2所示。此外，本研究还复用了EVENT[37]、FOAF[38]、SKOS[39]等常用本体词汇集。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/91488d26f442a9e3f743ffbbee40b489e65257344682089827d02ac6ea68520d.jpg",
+        "img_caption": [
+            "图2 BIBFRAME层次概念模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "概念模型构建主要包括类、实体和属性三个方面的定义。类的定义除了名称、描述外还包括类的层次、约束和关系。实体主要依托类进行定义，并通过属性进行关联。属性分为数值属性和对象属性，数值属性的定义包括属性的定义域、值域和层次，对象属性除此外还包括对特性的定义。主要的类和属性定义如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/05961616d6e90cc39b85202a5c78ccffda8f7ca5ba36e94736836acd150f8b10.jpg",
+        "table_caption": [
+            "表1概念模型主要的类和属性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>层次</td><td>名称</td></tr><tr><td></td><td>相关的类:Agent(Person、Organization、Meeting、Jurisdiction、Family)、Colect、Event、GenreForm、Identifier、 Notation(MovementNotation、Script)、Place(OriginPlace)、WorkTitle、Topic、type、Contribution、Source</td></tr><tr><td rowspan=\"3\"></td><td>Work相关的对象属性:genreForm、notation、place、subject、summary、tableOfContents、title、type、hasInstance、hasPart、reference、 referenceBy、isPartOf</td></tr><tr><td>相关的数值属性:awards、date、identifieBy、place</td></tr><tr><td>相关的类:Identifier、Carrier、Contribution、GenreForm、Identifier、IntendedAudience、TableOfContents 相关的对象属性:carrier、genreForm、intendedAudience、notation、place、subject、summary、tableOfContents、title、</td></tr><tr><td rowspan=\"2\">Instance</td><td>publisher、type、copyRightOwner、instanceOf、hasItem、hasReproduction、reproductionOf、hasDerivative、 derivativeOf</td></tr><tr><td>相关的数值属性:awards、date、editionStatement、identifieBy、place、imageType、textCoding、textLanguage、trackCoding、 trackLanguage</td></tr><tr><td rowspan=\"2\">Item</td><td>相关的类:Barcode、Identifier、ShelfMark 相关的对象属性:barcode、contirbution、electronicLocator、genreForm、heldBy、place、shelfMark、subject、title、itemOf</td></tr><tr><td>相关的数值属性:custodiaHistory、date</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(6)关联数据编码模块 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关联数据编码模块主要负责对概念模型进行序列化，生成机器可识别的RDF文件。编码过程主要包括两个方面:",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ URI分配。URI是关联数据为每个类、属性和实体分配的唯一标识，能够对资源进行全局定位，是构建URI 索引、实现视觉搜索和语义搜索融合的关键。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ RDF编码。RDF是W3C发布的语义网资源描述框架，是关联数据主要的编码格式。RDF采用三元组的方式对类、属性和实体进行描述，生成的编码文件需要上传语义信息存储模块。此外，本研究还构建了owl:sameAs 属性的 4个子属性：sameEventAs、sameSubjectAs、sameAgentAs 和sameCollectAs，分别用于相同事件、主题、作者和集合的实体关系描述。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(7）语义信息存储模块",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "语义信息存储模块主要负责对关联数据编码的语义信息进行存储和管理。由于关联数据采用特殊的RDF格式，所以需要专门的三元组数据库进行存储。区别于传统的关系型数据库，RDF采用XML的语法规则，用户可以方便地对数据结构和内容进行调整，具有更好的灵活性。为了对三元组数据库进行管理，W3C组织提出SPARQL语言用于对RDF数据进行添加、删除和查询等管理操作。目前，常用的三元组数据库是Apache公司发布的Jena TDB。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(8) SPARQL检索模块SPARQL检索模块主要负责对视觉搜索的结果进行语义搜索，获取视觉资源的语义信息，进行基于主题、作者等关系的扩展搜索。搜索过程主要包括两个环节:",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 构建SPARQL检索式。将URI嵌入事先制定的SPARQL检索规则，并提交SPARQL引擎。根据用户不同需要，知识管理员可以设定多条检索规则，如：主题检索、事件检索、时间检索等;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 进行语义检索。SPARQL语言具有灵活的语法结构,用户可以对三元组(主语、谓语、客体)中的任何部分进行检索。区别于传统的数据库检索方式，SPARQL搜索引擎采用图模式匹配的方式进行检索，具有更高的关系检索效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4数字图书馆移动视觉搜索系统的实现",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证上述移动视觉搜索框架，笔者搭建了具有视觉特征处理和语义信息搜索功能的验证系统，并选取一定的视觉资源构建样本库、特征库和语义信息库，对系统的运行效果进行检验。验证系统架构如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1 验证系统的搭建 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）样本图像库的构建 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选取20个系列，122本图书的封面作为图像库样本。首先，对选中的122本图书封面进行数字化；然后，对生成的数字图像进行规范化处理，调整图像的格式、分辨率等；最后，对每一张图片进行编码，分配唯一的图像号。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）特征库构建和图像特征匹配 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用OpenCV-2.4.13开发特征提取和特征匹配模块，通过 MySQL5.7 存储图像的URI索引。OpenCV针对Java 环境提供了专门的JAR，导入项目并设置DLL库的引用路径即可以进行调用。SIFT特征的提取主要包括：特征点检测和特征点抽取两个环节。特征点检测主要通过调用FeatureDetector对象的detect函数，特征点抽取通过调用DescriptorExtractor 对象的compute函数。服务器端图像库特征抽取后存入特征文件库，移动端检索图像特征抽取后上传服务器进行图像匹配。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "特征匹配主要包括：特征点匹配和特征点筛选两个环节。通过调用DescriptorMatcher 对象的 match 函数进行匹配，匹配结果保存在MatOfDMatch对象中。针对匹配结果通过设置距离阈值，筛选出较好的匹配点。具体的特征匹配代码如图4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/918fe84f55c8957aa06bb404bdd5acaa839538521545666ee1c931a6f852a176.jpg",
+        "img_caption": [
+            "图3移动视觉搜索系统架构",
+            "图4特征抽取和匹配过程",
+            "图5 URI提取过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "--a.特征抽取过程--Mat image_matl $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Highgui.imread(\"image1_lib.pgm\")://读取视觉资源库图像Matdesc1=newMat(://建立MAT对象以存储图像特征描述FeatureDetector fdl $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ FeatureDetector.create(FeatureDetector.SIFT)://建立特征检测对象MatOfKeyPoint mkp1 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ newMatOfKeyPoint(://建立关键点对象Fd1.detect(image_mat1,mkpl)://进行特征检测DescriptorExtractor del $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ DescriptorExtractor.create(DescriptorExtractor.SIFT)://建立特征抽取对象del.compute(image_matl,mkpl,descl)://提取 SIFT特征--b.特征匹配过程--Mat image_matl $\\ L =$ Highgui.imread(\"imagel_search.pgm\")://读取视觉资源库图像Mat desc1 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ newMat(://建立MAT对象以存储检索图像特征描述DescriptorMatcher match1 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ DescriptorMatcher.create(DescriptorMatcher.FLANNBASED)://建立匹配对象MatOfDMatch matchs $\\mathbf { \\Psi } = \\mathbf { \\Psi }$ new MatOfDMatch()://建立匹配结果对象match1.match(desc1,desc2,matchs):/进行匹配，匹配结果保存在matchs对象中",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据匹配结果选择匹配点数量最多的特征文件，通过特征名检索获取该资源的URI，如图5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "--URI提取-- public static final String url=\" jdbc:mysql://localhost:33o6/example_db\"; public static final String name=\"com.mysql.jdbc.Driver”; public DBHelper(String sql){ Class.forName(name)://指定连接类型 conn $\\ c =$ DriverManager.getConnection(url,user,password)://获取连接 pst =conn.prepareStatement(sql):/准备执行语句 $\\mathbf { \\hat { s q l } } =$ “select uri from uri where uri=\"http://www.semanticweb.org/visualsearch/ontologies#imag e1\"://SQL语句 db1 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ new DBHelper(sql)://创建DBHelper 对象 ret $\\ L =$ db1.pst.executeQueryO://执行语句，得到结果集 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）概念模型的序列化 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用Protegé5.0 进行概念模型的构建。概念模型序列化主要包括4个过程：构建概念类和类之间的层次关系；构建对象属性和数值属性，设置Domain、Ranges 和Characteristics；添加Instance，构建类的实例；构建实例之间的关联。序列化结果如图6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4）检索平台搭建 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用JenaTDB+Fuseki+Tomcat的架构模式，搭建过程包括4个步骤：配置Tomcat 服务器；在Tomcat中导人Fuseki的WAR文件，将其发布为Web服务；开发检索界面和SPARQL检索模块；SPARQL根据匹配图像URI进行语义信息检索和扩展检索。扩展检索语句如表2所示，调用过程如图7所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 实验测试 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "选取一张含有图书封面的图片作为检索对象提交系统。图像匹配后，排序前10位的匹配结果如图8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://../visualsearch/image20005 dc:type http://.../Type/书籍dcterms:ispartOfbf:subjectbf:languagebf:hasInstance √ http://./Collect/万卷方法统计学 Chinese汉语bf:contributor  \nhttp://../visualsearch/in stance20005 http://./A4gent/沈崇麟1 bf:contributorvr:classification bf:summary http://...Ageni威尔逊√ 摘要：本书旨在为用模型法对因变量做智能分析提供必须的工具。首先介  \nhttp://../Classification/中图分类:0212.1 绍了基本的统计方法，其目的在于为线性模型的应用，进而为以后的简单线性和多元回归方法的理论和方法的学习打下良好的基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f96f942b6d21054f1c306a1e010f54c11b821ac5a20622d1a4cf39afb93814d8.jpg",
+        "table_caption": [
+            "表2SPARQL 扩展检索式"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">类型 检索式</td></tr><tr><td>前缀</td><td>PREFIXvr:<http://www.semanticweb.org/visualsearch/ ontologies#></td></tr><tr><td>语义信息</td><td>SELECT?oWHERE{vr:image00001 ?p ?instace. ?instace vr:title ?o.}</td></tr><tr><td>相同事件</td><td>SELECT ?oWHERE{vr:image00001 vr:same EventAs ?event. ?event vr:title ?o.}</td></tr><tr><td>相同主题</td><td>SELECT?oWHERE{vr:image00001 vr:sameSubjectAs ?subject.?subject vr:title ?o.}</td></tr><tr><td>相同作者</td><td>SELECT?oWHERE{vr:image00001 vr:sameAgentAs ?agent.}</td></tr><tr><td>相同集合</td><td>SELECT?oWHERE{vr:image00001 vr:sameCollectAs ?Collective. ?collectivevr:collectiveTitle ?o.}</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d5854b69958d88d370dcdec0991ef70125c7d40c4dc388b92a538bc73bbebf0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>--SPARQL检索-- String service=“http:/ocalhost:8o80/fuseki/visualsearch/query\"://定义 fuseki查询接口</td></tr><tr><td>StringqueryString=“select？where{?work?p?o}\";//定义检索式</td></tr><tr><td>try(QueryExecution qexec = QueryExecutionFactory.sparqlService(service,queryString)){</td></tr><tr><td>ResultSet results=qexec.execSelect()://获得查询结果 results=ResultSetFactory.copyResults(results);</td></tr><tr><td>ResultSetFormatter.out(System.out.results);}</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据匹配结果可以发现排名靠前的图像均为同一系列的图书，在封面设计上具有较高的相似性，而相似度最高的图像与检索图像为同一本图书，匹配结果准确。系统提取相似度最高图像的URI进行语义信息检索和扩展检索。如图9所示，检索结果显示了图像完整的语义信息，而基于系列、主题和作者的检索则显示了与图像相似的书籍信息，扩展了资源检索的范围。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/21356ba0494a2bc0972b6378cc074a7d9df870911bc3aeaeec74ce974b69733a.jpg",
+        "img_caption": [
+            "图6概念模型RDF图",
+            "图7SPARQL检索过程",
+            "图8图像匹配结果",
+            "图9语义信息和扩展搜索结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://localhost:8080/fuseki/example.html?tab=upload&ids=/visualsearch ☆百度一下。Chinese汉语 (1）语义信息搜索结果 bf:倾向值分析：统计方法与应用 (2）相同系列搜索结果bf:书籍 bf.如同做综述性研究bf:弗洛伊德 bf.问卷统计分析实务-SPSS操作与应用br:SBN_978-7-5624-6976-6 bf.质性研究中的资料分析b：重庆大学出版社 bf.里化研究与统计分析摘要本书旨在为用模型法对因安量做智能分析提供必须的工具。首先介绍了基本的统 bf.混合方法论：定性方法和定里方法的结合计方法，其目的在于为线性模型的应用，进而为以后的简单线性和多元回归方法的理 bf：结构方程模型—Amos实务进阶论和方法的学习打下良好的基础。在此基础上，不仅对国归分析中经常遇到的许多实际问题进行了比较深入的讨论，而且还对这些问题的补款办法提出了一些建议。最后 bf：社会调查设计与数据分析主要介绍回归模型的其他用法，这些用法包括多项式模型，自变量和因安量经过变换的模型、非线性模型和含有定类应变量的模型等。 bf:AMOS与研究方法（第2版）chttp://ww.semanticweb.org/visualsearch/ontologies#Stillmage> Showing1to9of9entriesbf:中图分费__0212.1 。bf:沈崇额 bf.线性回归分析导论 (3）相同主题搜索结果上基本原理1均值分析：基础知识复习和续性模型导言2单线性回归分 bf.SPSS田归分析析：单自安量线性回归3多元线性回归4观察间题5多重共线性6型存在的bf.应用回归分析（第四版）问题7曲线合8丰线性模型导论9指示变量10定类因变量11广义线性模型附录A bf：例解回归分析（原书第5版）bt:重庆 b:实用数据再分析法 (4）相同作者搜索结果 bl：近代线性回归分析方法统计学 bf：实用抽样方法 bf：统计回归分析——回方程引论owl:Namedb：祥调查设计导论 bt.高级回归分析2012年 Showing1to3of3entries Showing 1to7 of 7 entries",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验表明，研究搭建的数字图书馆移动视觉搜索系统达到预期的视觉 $^ +$ 语义的搜索效果，具有较高的",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "视觉特征匹配精度和语义搜索能力。同时，也反映出  \n系统在检索效率上存在不足，这主要有两方面原因:(1）本研究提出的移动视觉搜索过程较传统的关  \n键词检索、视觉搜索更为复杂，从而消耗了更多的处  \n理时间;(2）特征处理、匹配算法和语义信息搜索过程还  \n需要进一步优化。在视觉特征处理方面，可以通过对  \n视觉特征进行压缩，建立视觉特征索引以提高视觉资  \n源的匹配效率；在语义信息搜索方面，可以采用Lucene  \n建立语义信息索引，提高 SPARQL 检索的效率。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为满足移动网络用户对数字图书馆资源和服务的需求，本研究提出一种视觉搜索和语义搜索相结合的移动视觉搜索方法。该方法融合关联数据、本体和视觉处理技术，支持以视觉资源为对象进行语义信息和相关资源的搜索。并基于该方法搭建实验系统，对系统的视觉和语义搜索效果进行检验。实验结果表明，研究提出的移动视觉搜索方法弥补传统视觉搜索在语义方面的不足，具有较好的视觉资源处理和语义检索功能，实现了数字图书馆视觉资源从内容到语义的全搜索。研究主要存在两方面的不足：主要采用SIFT和欧氏距离计算进行视觉特征的描述和匹配，在图像检索效率和精度上存在不足；主要针对图像和视频设计概念模型，在资源描述的深度和广度上存在不足。后续研究中，将对特征描述和匹配方法进行改进，以提高系统的运行效率。同时，进一步完善现有的概念模型，提高系统的语义描述能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] 中国互联网络信息中心.第38次中国互联网络发展状况统 计报告[R/OL]. [2016-09-10]．http://www.cnnic.cn/gywm/ xwzx/rdxw/2016/201608/t20160803_54389.htm.(China Internet Network Information Center. Statistical Report of the 38th Chinese Internet Development [R/OL].[2016-09-10]. http:// www.cnnic.cn/gywm/xwzx/rdxw/2016/201608/t20160803_ 54389. htm.)   \n[2] GirodB,ChandrasekharV,ChenD M,etal.MobileVisual Search [J]. IEEE Signal Processing Magazine,2011,28(4): 61-76.   \n[3] 赵宇翔，朱庆华．大数据环境下移动视觉搜索的游戏化机 制设计[J]．情报资料工作，2016，37(4):19-25.(Zhao Yuxiang， Zhu Qinghua.On Mobile Visual Search Game Mechanism Design in the Big Data Environment [J]. Information and Documentation Services，2016,37(4): 19-25.)   \n[4]张兴旺，李晨晖．数字图书馆移动视觉搜索机制建设的若 干关键问题[J]．图书情报工作,2015,59(15):42-48.(Zhang Xingwang,Li Chenhui. Critical Issues on the Construction of Digital Library Mobile Visual Search Mechanism[J]. Library and Information Service,2015,59(15): 42-48.)   \n[5]Du YG, Li Z Y,Qu W Y,et al. MVSS: Mobile Visual Search Basedon Saliency [C]//Proceedingsof IEEE10th International Conference on High Performance Computing and Communications & 2013 IEEE International Conference On Embedded and Ubiquitous Computing. IEEE, 2013: 922-928.   \n[6]Alzu'bi A,Amira A, Ramzan N. Semantic Content-based Image Retrieval: A Comprehensive Study [J]. Journal of Visual Communication & Image Representation, 2015,32: 20-54.   \n[7]Ke Y， Sukthankar R.PCA-SIFT: A More Distinctive Representation for Local Image Descriptors [C]//Proceedings of IEEE Computer Society Conference on Computer Vision and Pattern Recognition. New York: IEEE,2004: 506-513.   \n[8]Bay H, Tuytelaars T, Gool L V. SURF: Speeded Up Robust Features [J].Computer Vision & Image Understanding,2006, 110(3): 404-417.   \n[9]Tsai S S,Chen H,Chen D,et al．Word-HOGs:Word Histogram of Oriented Gradients for Mobile Visual Search [C] /Proceedings of IEEE International Conference on Image Processing. IEEE,2014: 3968-3972.   \n[10] Zhang G, Zeng Z, Zhang S,et al. Transmitting Informative Components of Fisher Codes for Mobile Visual Search [C]/Proceedingsof IEEE International Conferenceon Acoustics， Speech and Signal Processing. IEEE，2015: 1136-1140.   \n[11] Zhang Q,Li Z,Du Y,et al.A Novel Progressive Transmission in Mobile Visual Search [C]//Proceedings of IEEE 12th International Conference on Dependable，Autonomic and Secure Computing.IEEE,2014: 259-264.   \n[12] Zhao B,Zhao H W,Liu P P,et al.A New Mobile Visual Search System Based on the Human Visual System[J]. Applied Mechanics & Materials,2013,461: 792-800.   \n[13]Yang X,Liu L,Qian X,et al. Mobile Visual Search via Hievarchical Sparse Coding [Cl//Proceedingsof IEEE International Conference on Multimedia and Expo.IEEE, 2014: 1-6.   \n[14]Qi H,Stojmenovic M,Li K,et al．A Low Transmission Overhead Framework of Mobile Visual Search Based on Vocabulary Decomposition [J].IEEE Transactionson Multimedia,2014,16(7): 1963-1972.   \n[15] Zhang D,Yap K H,Subbhuraam S.Mobile Product Recognition with Efficient Bag-of-Phrase Visual Search [C]// Proceedings of International Symposium on Communications, Control and Signal Processing. IEEE, 2014: 65-68.   \n[16] Chen D M,Girod B.Memory-Efficient Image Databases for Mobile Visual Search [J].IEEE Multimedia,2014,21(1): 14-23.   \n[17]张亭亭，赵宇翔，朱庆华．数字图书馆移动视觉搜索的众 包模式初探[J]．情报资料工作，2016,37(4):11-18.(Zhang Tingting，Zhao Yuxiang，Zhu Qinghua．A Probe into Crowdsourcing Model of Digital Library Mobile Visual Search [J]. Information and Documentation Services,2016, 37(4): 11-18.)   \n[18]刘木林，朱庆华，赵宇翔．基于关联数据的数字图书馆移 动视觉搜索框架研究[J]．情报资料工作，2016,37（4)： 6-10.(Liu Mulin, Zhu Qinghua,Zhao Yuxiang.Research on Linked Data-based Digital Library Mobile Visual Search Framework [J].Information and Documentation Services, 2016,37(4): 6-10.)   \n[19]刘炜．关联数据：概念、技术及应用展望[J].大学图书馆学 报,2011,29(2): 5-12.(Liu Wei. Overview on Linked Data: Concept，Technology and Implementation [J]. Journal of Academic Libraries,2011,29(2):5-12.)   \n[20] Library of Congress.Library of Congress Subject Headings [EB/OL].[2016-09-10]. http://id.loc.gov/authoRities/subjects. html.   \n[21]Library of Congress.BIBFRAME Model & Vocabulary [EB/OL]. [2016-09-10]. Http://www.loc.gov/Bibframe/docs/ index.html.   \n[22] 刘炜，夏翠娟，张春景．大数据与关联数据：正在到来的 数据技术革命[J].现代图书情报技术，2013(4):2-9.(Liu Wei, Xia Cuijuan,Zhang Chunjing.Big Data and Linked Data: The Emerging Data Technology for the Future of Librarianship[J].NewTechnologyofLibraryand Information Service,2013(4): 2-9.)   \n[23]曹月珍，马建玲．关联数据在图书馆的最新发展[J].图书 馆学研究,2014(14):6-12.(Cao Yuezhen,Ma Jianling.The Latest Development of Linked Data in the Library [J]. Researches in Library Science,2014(14): 6-12.) (Ou Shiyan.Design and Implementation of a Linked DataorientedFrameworkforResourceDescriptionand Organization in Semantic Digital Libraries [J]. Journal of Library Science in China,2012,38(6): 58-71.)   \n[25]欧石燕，胡珊，张帅．本体与关联数据驱动的图书馆信息 资源语义整合方法及其测评[J].图书情报工作，2014, 58(2):5-13.(Ou Shiyan,Hu Shan,Zhang Shuai. An Ontology & Linked Data Driven Semantic Integration Method of Library Information Resources and Its Evaluation [J]. Library and Information Service,2014,58(2): 5-13.)   \n[26]欧石燕，唐振贵．面向图书馆关联数据的自动问答技术研 究[J]．中国图书馆学报，2015，41(6):44-60.(Ou Shiyan, Tang Zhengui. A Question Answering Method over Library Linked Data [J].Journal of Library Science in China,2015, 41(6): 44-60.)   \n[27]周宇，欧石燕．面向关联数据的高校机构知识库构建方法 研究[J].图书情报工作,2016,60(1):105-113.(Zhou Yu,Ou Shiyan.Reasearch on Linked Data-oriented Construction Method of Academic Institutional Repositories [J]. Library and Information Service,2016,60(1):105-113.)   \n[28]夏翠娟，刘炜，赵亮，等．关联数据发布技术及其实现-以 Drupal为例[J]．中国图书馆学报，2012,38(1):49-57.(Xia Cuijuan，LiuWei，Zhao Liang，et al．The Current Technologies and Tools for Linked Data:A Case of Drupal [J].Journal of Library Science in China,2012,38(1): 49-57.)   \n[29]夏翠娟，刘炜．关联数据的消费技术及实现[J].大学图书 馆学报，2013，31(3):29-37．(Xia Cuijuan，Liu Wei. Technologies and Implementation of Consuming Linked Data [J]. Journal of Academic Libraries,2013,31(3): 29-37.)   \n[30]夏翠娟，金家琴．从关系数据库到关联数据：W3C 标准应 用探析[J].图书馆杂志,2015,34(5):85-94.(Xia Cuijuan, Jin Jiaqin.On the Application of W3C's RDB2RDFS Standards [J].Library Journal,2015,34(5): 85-94.)   \n[31]夏翠娟，刘炜，陈涛，等．家谱关联数据服务平台的开发 实践[J].中国图书馆学报,2016,42(3):27-38.(Xia Cuijuan, Liu Wei,Chen Tao,et al.A Genealogy Data Service Platform Implemented with Linked Data Technology [J]. Journal of Library Science in China,2016,42(3): 27-38.)   \n[32] 陈涛，夏翠娟，刘炜，等．关联数据的可视化技术研究与 实现[J]．图书情报工作,2015,59(17):113-119.(Chen Tao, Xia Cuijuan,Liu Wei, et al. Research and Implementation of Visualization Technology for Linked Data [J].Library and Information Service,2015,59(17):113-119.)   \n[33]赵夷平，毕强．关联数据在学术资源网相似文献发现中的 应用研究[J]．现代图书情报技术，2016(3):41-49.(Zhao Yiping,Bi Qiang.Using Linked Data to Retrieve Similar Documents from the Academic Resource Websites [J].New Technology of Library and Information Service,2016(3): 41-49.)   \n[34]刘炜，夏翠娟．书目数据新格式 BIBFRAME 及其应用[J]. 大学图书馆学报,2014,32(1):5-13.(Liu Wei,Xia Cuijuan. Introduction to BIBFRAME as a Successor to MARC [J]. Journal ofAcademic Libraries,2014,32(1):5-13.)   \n[35]夏翠娟，刘炜，张磊，等．基于书目框架(BIBFRAME)的家 谱本体设计[J]．图书馆论坛,2014(11):5-19.(Xia Cuijuan, Liu Wei,Zhang Lei,et al.A Genealogical Ontology in the Form of BIBFRAME Model [J].Library Tribune,2014(11): 5-19.)   \n[36]胡小菁.BIBFRAME 核心类演变分析[J]．中国图书馆学报, 2016,42(3):20-26.(Hu Xiaojing.Evolution of BIBFRAME Core Classes[J].Journal ofLibrary Science in China,2016, 42(3): 20-26.)   \n[37]University of London Centre for Digital Music in Queen Mary.The Event Ontology [EB/OL].[2016-09-10].http:// motools.sourceforge.net/event/event.html.   \n[38]Friend of a Friend (FOAF)Project [EB/OL].[2016-09-10]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "http://www.foaf-project.org/. [39] Semantic Web Deployment Working Group of W3C.SKOS Simple Knowledge Organization System [EB/OL].[2016-09- 10].http://www.w3.org/2009/08/skos-reference/skos.html. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "齐云飞：构建系统框架，设计研究方案，论文撰写定稿;  \n赵宇翔：提出研究思路,整理相关文献，辅助研究实验;  \n朱庆华：辅助论文框架设计，定稿审校。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:yfqi2015@qq.com。  \n[1]齐云飞.visualsearch.owl.视觉资源关联数据.  \n[2]齐云飞.visualFeatures.txt.视觉资源特征匹配结果.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2016-09-12   \n收修改稿日期:2016-11-14 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Linked Data for Mobile Visual Search System of Digital Library ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Qi Yunfei13Zhao Yuxiang²Zhu Qinghual 1(School of Information Management, Nanjing University, Nanjing 210093, China) 2(School of Economics & Management, Nanjing University of Science & Technology, Nanjing 210094, China) 3(Dean’s Ofice, Henan University of Finance and Economics, Zhengzhou 451464, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This paper proposes a new method for the mobile visual search, which retrieves the visual and semantic information from the digital library simultaneously.[Methods]First,weused the BIBFRAME,linked data and image procesing techniques to extract the semantic and characteristics information from the visual resources. Second,we combined the visual andsemantic search with the help of linked data.[Results]The proposed method improved the performance of visual and semantic information retrieval.[Limitations] The system effciency,the algorithm for feature identification,and the SPARQLretrieval procedure needed tobeoptimized.[Conclusions]The proposed method could successfully search visual and semantic information，which might create more innovative services for the digital library. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Linked DataDigital Library Mobile Visual SearchSemantic SearchBIBFRAME ",
+        "page_idx": 9
+    }
+]

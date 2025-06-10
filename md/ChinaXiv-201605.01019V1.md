@@ -1,0 +1,158 @@
+# General Clique Percolation in Network Evolution
+
+Jingfang $\mathrm { F a n } ^ { 1 }$ and Xiaosong Chen1,\* l State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics,Chinese Academy of Sciences,P.O.Box 2735,Beijing 100190,China
+
+We introduce a general $( k , l )$ clique community,which consists of adjacent $k$ -cliques sharing at least $l$ vertices with $k - 1 \geq l \geq 1$ .The emergence of a giant $( k , l )$ clique community indicates a $( k , l )$ clique percolation，which is studied by the largest size gap $\Delta$ of the largest clique community during network evolution and the corresponding evolution step ${ T _ { c } }$ .For a clique percolation,the averages of $\Delta$ and ${ T _ { c } }$ and the root-mean-squares of their fluctuations have power law finite-size effects whose exponents are related to the critical exponents. The fluctuation distribution functions of $\Delta$ and ${ T _ { c } }$ follow a finite-size scaling form.In the evolution of the Erdós-Rényi network,there are a series of $( k , l )$ clique percolation with $( k , l ) = ( 2 , 1 ) , ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 1 ) , ( 4 , 2 ) , ( 5 , 1 ) , ( 4 , 3 ) .$ ,and so on. The critical exponents of clique percolation depend on $l$ ,but are independent of $k$ .The universality class of a $( k , l )$ clique percolation is characterized alone by $l$
+
+PACS numbers:02.10.Ox,89.75.Hc,05.70.Fh,64.60.-i Keywords:
+
+Community structure is of great interest in the studies of networks[1,2]. The term network community is defined as a group of vertices that are more densely connected each other than other vertices in a network. The clique [3] and core [4] are the two examples of network community. To analyze the overlapping community structure of networks,Palla et al.[5] proposed the clique percolation method(CMP) to build up the communities from $k$ -cliques,whichisa fullyconnected subset of $k$ vertices. Two $k$ -cliques are considered to be adjacent if they share $k - 1$ vertices.A clique community is defined as the maximal union of $k$ -cliques that can be reached from each through a series of adjacent $k$ -cliques.
+
+When the size of a clique community is comparable to network size $N$ , a giant clique community emerges and there is a clique percolation.Derényi et al. [6] studied the clique percolation of the Erdós-Rényi(ER) model[7]. The $k$ -cliques percolation takes place when the probability of connecting two vertices in the network reaches the threshold $p _ { \mathrm { c } } ( k ) \ =$ （204 $[ ( k - 1 ) N ] ^ { - 1 / ( k - 1 ) }$ [6].The normal percolation transition of ER model corresponds to the $k = 2$ clique percolation.
+
+In this Letter, we introduce a general $( k , l )$ clique community,where any two adjacent $k$ -cliquesshareatleast $l$ vertices with $k - 1 \geq l \geq 1$ .For the same network, the clique communities of different $( k , l )$ are different.As an illustration, $( 3 , 1 )$ and $( 3 , 2 )$ clique communities in a network are shown in Fig.1 and they are different.A $( k , l )$ clique percolation appears with the emergence of a giant $( k , l )$ clique community. The previous clique percolation discussed in Ref.[6] corresponds to the special case $\textit { l } = \textit { k } - 1$ of general $( k , l )$ clique percolation. The normal percolation transition corresponds to a $( 2 , 1 )$ clique percolation. Here we study the general $( k , l )$ clique percolation of the ER model by analyzing the finite-size effects of network evolution. From the power law exponents of finite-size effects,we can obtain the critical exponents of $( k , l )$ clique percolation.
+
+At first, we calculate the threshold of the $( k , l )$ clique percolation using the approach developed by Newman，Watts, and Strogatz[9].From the probability distribution $p _ { k }$ of vertex degrees,we define the generating functions $G _ { 0 } ( x ) \ =$ $\scriptstyle \sum _ { k = 0 } ^ { \infty } p _ { k } x ^ { k }$ and $\begin{array} { r } { G _ { 1 } ( x ) = \sum _ { k = 0 } ^ { \infty } q _ { k } x ^ { k } } \end{array}$ , where $q _ { k } = p _ { k + 1 } ( k +$ $1 ) / < k >$ is the excess degree distribution of network[10].
+
+The generating function $H _ { 1 } ( x )$ of the probability distribution for the sizes of the components reached from a randomly chosen edge satisfies a self-consistent equation
+
+$$
+H _ { 1 } ( x ) = x G _ { 1 } ( H _ { 1 } ( x ) ) .
+$$
+
+When its first derivative $H _ { 1 } ^ { \prime } ( 1 )$ becomes infinite,a giant component appears and there is a percolation.This corresponds to $z ^ { \prime } = G _ { 1 } ^ { \prime } ( 1 ) = 1$
+
+After taking $k$ -clique as the new unit and considering two cliques to be adjacentif theyshareatleast $l$ vertices,the average degree of a $k$ -cliquesis
+
+$$
+z = \sum _ { k ^ { \prime } = l } ^ { k - 1 } { \binom { N - k } { k - k ^ { \prime } } } { \binom { k } { k ^ { \prime } } } p ^ { { \binom { k } { 2 } } - { \binom { k ^ { \prime } } { 2 } } } ,
+$$
+
+where $p$ is the probability to connect two vertices with an edge. Correspondingly, the average excess degree of the $k$
+
+![](images/613c158474062ff4ff5b4410416eda41a8ff98b88817520556fa3622f8b599b6.jpg)  
+FIG.1:(color online) Sketches of different clique communities in a network. The vertices belonging to a clique community are marked with red color. The largest $( 3 , 2 )$ clique community is shown on the left and the largest $( 3 , 1 )$ clique community on the right.
+
+![](images/670fb1bab54816fbd7f3f1f48e1922b858c6c3040ca6306d81da4008834b5e5e.jpg)  
+FIG.2:(color online) Log-log plot of the average size gap $\bar { \Delta }$ and the root-mean-square of its fluctuation $\chi _ { \Delta }$ versus $N$ for different $( k , l )$ clique percolation.Power law behaviors of $\bar { \Delta }$ and $\chi _ { \Delta }$ are confirmed by simulation data.From the slopes of fitting lines, $\beta _ { 1 }$ and $\beta _ { 2 }$ can be obtainedandaresummarizedin TableI.
+
+cliques is
+
+$$
+z ^ { \prime } = \sum _ { k ^ { \prime } = l } ^ { k - 1 } { \binom { N - k } { k - k ^ { \prime } } } \left[ { \binom { k } { k ^ { \prime } } } - 1 \right] p _ { \textsc { ( 2 ) } } ^ { ( { k } ) - { \binom { k ^ { \prime } } { 2 } } } .
+$$
+
+The threshold $\mathit { p _ { c } ( k , l ) }$ of $( k , l )$ clique percolation can be determined from the equation
+
+$$
+\sum _ { k ^ { \prime } = l } ^ { k - 1 } \frac { { \binom { k } { k ^ { \prime } } } - 1 } { ( k - k ^ { \prime } ) ! } \left[ 1 + O ( N ^ { - 1 } ) \right] \left[ N p _ { c } ^ { \frac { k + k ^ { \prime } - 1 } { 2 } } \right] ^ { k - k ^ { \prime } } = 1 ,
+$$
+
+which gives
+
+$$
+\begin{array} { l } { { p _ { c } ( k , l ) ~ = ~ a ( k , l ) N ^ { - { \frac { 2 } { k + l - 1 } } } \left[ 1 + O ( N ^ { - { \frac { k - l - 1 } { k + l - 1 } } } ) \right] , } } \\ { { a ( k , l ) ~ = ~ \left[ { \frac { { \binom { k } { l } } ~ - 1 } { ( k - l ) ! } } \right] ^ { - { \frac { 2 } { ( k - l ) ( k + l - 1 ) } } } ~ . } } \end{array}
+$$
+
+For $\textit { l } = \textit { k } - 1$ ，the correction term in Eq.5 vanishes and $p _ { \mathrm { c } } ( k , k - 1 ) = [ ( k - 1 ) N ] ^ { - \frac { 1 } { k - 1 } }$ ,which is in agreement with the result of Derényi et al [6,11]. For $l < k - 1$ ，the correction term $O ( N ^ { - \frac { k - l - 1 } { k + l - 1 } } )$ exists. For general $( k , l )$ ，only $p _ { c } ( k , l ) \sim N ^ { - \frac { 2 } { k + l - 1 } }$ is obtained by Bollobäs and Riordan[8].
+
+In the following,we study $( k , l )$ clique percolation of ER model with Monte Carlo simulation and finite-size effects of network evolution [14]. During an evolution process,the largest $( k , l )$ clique community has a size gap $S _ { 1 } ( T ) - S _ { 1 } ( T -$ 1）at an evolution step $T$ . The largest reduced size gap during the whole evolution process is
+
+$$
+\Delta \equiv \frac { 1 } { N } m a x \left( \left\{ S _ { 1 } ( T ) - S _ { 1 } ( T - 1 ) \right\} \right) ,
+$$
+
+which could be related to a percolation transition at the corresponding evolution step $T _ { c }$ .From the results of $\Delta$ and $T _ { c }$ in many Monte Carlo simulations,we can calculate the average size gap $\bar { \Delta }$ and the average transition point $\hat { T } _ { c }$ . Since $T =$ $p \times N ( N - 1 ) / 2$ and therefore $\hat { T } _ { c } \propto N ^ { 2 - \frac { 2 } { k + l - 1 } }$ , it is convenient to introduce a reduced evolution step $r = T / N ^ { 2 - \frac { 2 } { k + l - 1 } }$ （204号 and the reduced transition point $r _ { c } \equiv T _ { c } / N ^ { 2 - \frac { 2 } { k + l - 1 } }$ . We anticipate that $\bar { \Delta }$ and $\bar { r } _ { c }$ have the power law finite-size effects as
+
+$$
+\begin{array} { r l r } { \bar { \Delta } ( N ) } & { { } \sim } & { N ^ { - \beta _ { 1 } } , } \\ { \bar { r } _ { c } ( N ) - r _ { c } ( \infty ) } & { { } \sim } & { N ^ { - 1 / \nu _ { 1 } } . } \end{array}
+$$
+
+Using $\mathit { p _ { c } ( k , l ) }$ in Eq. 5, we get
+
+$$
+r _ { c } ^ { T } ( \infty ) = \frac { 1 } { 2 } a ( k , l ) .
+$$
+
+The character of clique percolation is determined by the exponent $\beta _ { 1 }$ . The clique percolation is continuous when $0 < \beta _ { 1 } <$ 1 and discontinuous when $\beta _ { 1 } = 0$ [15].
+
+The fluctuations $\delta \Delta = \Delta - \bar { \Delta } ( N )$ and $\delta r _ { c } = r _ { c } - \bar { r } _ { c } ( N )$ are investigated also.Their root-mean-squares are defined as
+
+$$
+\begin{array} { r } { \chi _ { \Delta } ~ = ~ \sqrt { \langle [ \delta \Delta ] ^ { 2 } \rangle } , } \\ { \chi _ { r } ~ = ~ \sqrt { \langle [ \delta r _ { c } ] ^ { 2 } \rangle } , } \end{array}
+$$
+
+which decay algebraically as
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { \chi _ { \Delta } ~ \sim ~ N ^ { - \beta _ { 2 } } , } } \\ { { } } & { { } } & { { \chi _ { r } ~ \sim ~ N ^ { - 1 / \nu _ { 2 } } . } } \end{array}
+$$
+
+We anticipate a finite-size scaling form of fluctuation distribution functions as
+
+$$
+\begin{array} { r } { P _ { \Delta } ( \delta \Delta , N ) = N ^ { \beta _ { 2 } } f _ { 1 } ( \delta \Delta N ^ { \beta _ { 2 } } ) , \phantom { x x x x x x x x x x x x x x x x x x x x x x x x x x x x } } \\ { P _ { r } ( \delta r _ { c } , N ) = N ^ { 1 / \nu _ { 2 } } f _ { 2 } ( \delta r _ { c } N ^ { 1 / \nu _ { 2 } } ) . } \end{array}
+$$
+
+The universality class of continuous clique percolation is characterized by the critical exponents $\beta _ { 1 } , \beta _ { 2 } ,$ $\beta _ { 2 } , \nu _ { 1 }$ and $\nu _ { 2 }$ . Different clique percolation with the same critical exponents belong to the same universality class.
+
+In Fig.2(a), the average $\bar { \Delta }$ is plotted with respect to network size $N$ for $( k , l ) = ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 1 ) , ( 4 , 2 )$ ,and $( 4 , 3 )$ . The log-log plot of $\bar { \Delta }$ versus $N$ show that $\hat { \Delta } \propto N ^ { - \beta _ { 1 } }$ .From the slope of fitting line,we can get the exponent $\beta _ { 1 }$ .It has been obtained that $\beta _ { 1 } = 0 . 3 3 1 ( 5 )$ for $( 2 , 1 )$ ， $\beta _ { 1 } = 0 . 3 2 ( 2 )$ for $( 3 , 1 )$ ， $\beta _ { 1 } = 0 . 3 3 ( 1 )$ for $( 4 , 1 )$ ,and $\beta _ { 1 } = 0 . 3 3 ( 3 )$ for $( 5 , 1 )$ Within error bars, $\beta _ { 1 }$ for $l = 1$ and different $k$ are equal. At $l = 2$ ,we get $\beta _ { 1 } = 0 . 0 5 ( 2 )$ for $( 3 , 2 )$ and $\beta _ { 1 } = 0 . 0 4 ( 2 )$ for $( 4 , 2 )$ . The exponents $\beta _ { 1 }$ of $l = 2$ are different from that of $l = 1$ .At $l = 3$ ， $\beta _ { 1 } = 0 . 0 1 ( 1 )$ for $( 4 , 3 )$ and is different from that of $l = 1$ and $l = 2$ ．So the universality class of $( k , l )$ clique percolation is characterized by $l$ . In Fig.2(b), the log-log plot of $\chi _ { \Delta }$ versus $N$ is shown for different $( k , l )$ . The slope of curve gives the exponent $\beta _ { 2 }$ ．It is found that $\beta _ { 2 }$ is equal to the corresponding $\beta _ { 1 }$ within error bars.
+
+The finite-size effects of $\bar { r } _ { c } ( N ) \mathrm { ~ - ~ } r _ { c } ( \infty )$ are shown in Fig. 3(a) for $l < k - 1$ and Fig.3(b) for $l = k - 1$ . From the Monte Carlo data, the values of $r _ { c } ( \infty )$ and $\nu _ { 1 }$ are determined simultaneously. For $l = k - 1$ , we get $1 / \nu _ { 1 } = 0 . 4 6 ( 2 )$ for $( 3 , 2 )$ and $1 / \nu _ { 1 } = 0 . 4 9 ( 4 )$ for $( 4 , 3 )$ .For $\textit { l } < \textit { k } - 1$ we obtain $1 / \nu _ { 1 } = 0 . 3 7 ( 2 )$ for $( 3 , 1 )$ ， $1 / \nu _ { 1 } = 0 . 3 8 ( 2 )$ for $( 4 , 1 )$ ， and $1 / \nu _ { 1 } = 0 . 6 7 ( 2 0 )$ for $( 4 , 2 )$ . The $\bar { r } _ { c } ( N )$ of $( 4 , 2 )$ clique percolation shows deviation from a simple power law of $N$ .This deviation could be resulted by additional finitesize terms. $1 / \nu _ { 1 }$ of different $k$ and the same $l$ are equal within error bars.We summarize $r _ { c } ( \infty )$ and $1 / \nu _ { 1 }$ of different $( k , l )$ clique percolation in Table I.
+
+![](images/f581a383ed5e048cf7bdd16316a72ea4d2af2540a0c2f5e20a5c35c1865f92a7.jpg)  
+FIG.3:(color online) Log-log plot of $\bar { r } _ { c } - r _ { c } ( \infty )$ versus $N$ .The results of $l < k - 1$ is shown in (a) and $l = k - 1$ in (b). The slopes of fitting lines give $1 / \nu _ { 1 }$ ,which is defined in Eq.9 and summarized in Table I.
+
+![](images/5ba9979304d15ab0db90c56df7e87a41d01f68e92be5d34f1333e9f170c2c3a9.jpg)  
+FIG. 4:(color online) Log-log plot of $\chi _ { r }$ versus $N$ . The slopes of fitting lines give $1 / \nu _ { 2 }$ ,which is defined in Eq.12 and summarized in Table I.
+
+The root-mean-square of $\delta r _ { c }$ is shown in Fig.4. Our results of simulations confirm the power-law behavior of $\chi _ { r }$ .For $k =$ 3, we get $1 / \nu _ { 2 } = 0 . 3 3 ( 5 )$ for $l = 1$ and $1 / \nu _ { 2 } = 0 . 5 0 ( 2 ) \$ for $l = 2$ .At $k = 4$ ,we obtain $1 / \nu _ { 2 } = 0 . 3 5 ( 3 )$ for $l = 1$ $1 / \nu _ { 2 } =$ 0.52(4) for $l = 2$ ,and $1 / \nu _ { 2 } = 0 . 6 0 ( 3 )$ for $l = 3$ . Other results of $1 / \nu _ { 2 }$ are given in Table I. $1 / \nu _ { 2 }$ of different $k$ and the same $l$ are equal within error bars. This confirms further that the universality of $( k , l )$ clique percolation is characterized alone by $l$ .The exponent $\nu _ { 2 }$ agrees with $\nu _ { 1 }$ at $l = 1 , 2$ ,but differs from $\nu _ { 1 }$ at $l = 3$ ：
+
+For a network with size $N$ ，we simulate its evolution for many times.At each simulation,we can get the largest reduced size gap $\Delta$ and the corresponding transition point $r _ { c }$ .From the results of many simulations,the fluctuation distribution functions $P _ { \Delta } ( \delta \Delta , N )$ and $P _ { r } ( \delta r _ { c } , N )$ can be obtained.Five different network sizes $\begin{array} { r l } { N } & { { } = } \end{array}$ 100,600,1000,6000,10000 are chosen.Each fluctuation distribution function has five different curves. Using the finitesize scaling forms of Eq.15 and 16, five curves of each distribution function collapse into one curve of finite-size scaling function.The scaling variables are defined with the exponents $\beta _ { 2 }$ and $\nu _ { 2 }$ obtained from $\chi _ { \Delta }$ and $\chi _ { r }$ . In Fig. 5, the finite-size scaling functions $f _ { 1 } ( \delta \Delta N ^ { \beta _ { 2 } } )$ and $f _ { 2 } \big ( \delta r _ { c } N ^ { 1 / \nu _ { 2 } } \big )$ are shown for $( 4 , 1 )$ clique percolation. $f _ { 1 }$ and $f _ { 2 }$ of other $( k , l )$ clique percolation have similar behavior.
+
+![](images/4b464464e9209814bbbf5b056c16d689408b115fbc719c498bd80a1243ccdcf0.jpg)  
+FIG.5:(color online） Finite-size scaling functions of fluctuation distribution functions (a) $P _ { \Delta } ( \delta \Delta , N )$ and (b) $P _ { r } ( \delta r _ { c } , N )$ for $( 4 , 1 )$ clique percolation.
+
+In the evolution process of the ER model beginning from $N$ isolated nodes to being fully connected with $N ( N \mathrm { ~ - ~ }$ $1 ) / 2$ vertices，there are a series of $( k , l )$ clique percolation. The transition point of a $( k , l )$ clique percolation is $\begin{array} { r } { T _ { c } = \frac 1 2 a ( k , l ) N ^ { 2 - \frac { 2 } { k + l - 1 } } } \end{array}$ ，which is of the same order of $N$ for different clique percolation with equal $k + 1$ . The sequence of clique percolation in the ER model is as following: a) $( 2 , 1 )$ clique percolation at $T _ { c } ~ = ~ 0 . 5 N$ b) $( 3 , 1 )$ clique percolation at $\hat { T _ { c } } = 0 . 5 N ^ { 4 / 3 }$ C $( 3 , 2 )$ clique percolation at $\bar { T } _ { c } = 2 ^ { - 3 / 2 } N ^ { 3 / 2 } \simeq 0 . 3 5 4 N ^ { 3 / 2 }$ d $( 4 , 1 )$ clique percolation at $T _ { c } = 2 ^ { - 5 / 6 } N ^ { 3 / 2 } \simeq 0 . 5 6 1 N ^ { 3 / 2 }$ ，e) $( 4 , 2 )$ clique percolation at $T _ { c } = 2 ^ { - 1 } 2 . 5 ^ { - 1 / 5 } N ^ { 8 / 5 } \simeq 0 . 4 1 6 N ^ { 8 / 5 } ,$ f $( 5 , 1 )$ clique percolation at $T _ { c } = 2 ^ { - 1 } 6 ^ { 1 / 1 0 } N ^ { 8 / 5 } \simeq 0 . 5 9 8 N ^ { 8 / 5 }$ g $( 4 , 3 )$ clique percolation at $T _ { c } = 2 ^ { - 1 } 3 ^ { - 1 / 3 } N ^ { 5 / 3 } \simeq 0 . 3 4 7 \bar { N ^ { 5 / 3 } }$ ,and so on.
+
+For comparison with the investigations above,we investigate directly the size of the largest $( k , l )$ clique community in a network to study general clique percolation.For a network with $N$ vertices and $T$ edges,the reduced size of the largest $( k , l )$ clique community is denoted as $s _ { 1 } ( T , N )$ . Near the transition point $T _ { c }$ ofa $( k , l )$ clique percolation,we anticipate a finite-size scaling form
+
+TABLE I: Summary of reduced transitionpoints $\begin{array} { r l } { r _ { c } } & { { } = } \end{array}$ $\begin{array} { r l } { T _ { c } / N ^ { 2 - \frac { 2 } { k + l - 1 } } } & { { } } \end{array}$ and critical exponents of $( k , l )$ clique percolation. $r _ { c } ( \infty )$ is obtained fromEq.9 and the analytic result $\hat { r } _ { c } ^ { T } ( \infty )$ is given in Eq. 10. The results of $( 2 , 1 )$ clique percolation are taken from[14].   
+
+<html><body><table><tr><td>(k,1)</td><td>rc(∞)</td><td>rT（）</td><td>β1</td><td>β</td><td>1/v1</td><td>1/v2</td></tr><tr><td>(2,1) (3,1) (3,2) (4,1) (4,2) (4,3) (5,1)</td><td>0.5006(7) 0.50(1) 0.34(2) 0.56(1) 0.40(1) 0.34(2) 0.60(1)</td><td>2-1 2-1 2-3/2 2-12.5-1/5 2-5/6 2-13-1/3 2-161/10</td><td>0.331(5) 0.32(2) 0.05(2) 0.33(1) 0.04(2) 0.01(1) 0.33(3)</td><td>0.334(2) 0.36(4) 0.03(2) 0.35(2) 0.03(2) 0.01(1)</td><td>0.331(7) 0.37(2) 0.46(2) 0.38(2) 0.67(20) 0.49(4)</td><td>0.334(3) 0.33(5) 0.50(2) 0.35(3) 0.52(4) 0.60(3)</td></tr></table></body></html>
+
+![](images/8d7266e056610f0dd568a796d2338d40e160d40fc7623d1e38f5912afd2b9c84.jpg)  
+FIG.6:(color online) Scaling size of the largest $( 4 , 1 )$ clique community $s _ { 1 } N ^ { \beta / \nu }$ versus the reduced edge number $r = T / N ^ { 3 / 2 }$ We take $\beta / \nu = 0 . 3 3$ . There is a fixed point at $r _ { c } = 0 . 5 5 9 ( 4 )$ ：
+
+$$
+s _ { 1 } ( T , N ) = N ^ { - \beta / \nu } \widetilde { s } _ { 1 } ( t N ^ { 1 / \nu } ) ,
+$$
+
+where $t = ( T - T _ { c } ) / T _ { c }$ and $\nu$ is the critical exponent of correlation length. In the limit $N  \infty$ ， $s _ { 1 } ( T , \infty ) = 0$ at $T < T _ { c }$ and $s _ { 1 } ( T , \infty ) = A _ { 1 } t ^ { \beta }$ at $T > T _ { c }$ . Our previous investigations [12,13] has confirmed the finite-size scaling form Eq.17 for $( 2 , 1 )$ clique percolation.
+
+At the transition point $T _ { c }$ ， $s _ { 1 } ( T , N ) N ^ { \beta / \nu } | _ { T = T _ { c } } = \widetilde { s } _ { 1 } ( 0 )$ and is independent of network size $N$ . Using this property, we can determine the transition point ${ T _ { c } }$ of $( k , l )$ clique percolation from the fixed point of $s _ { 1 } ( T , N ) N ^ { \beta / \nu }$ ：
+
+In Fig. 6, we plot $s _ { 1 } ( T , N ) N ^ { \beta / \nu }$ of $( 4 , 1 )$ clique communityasafunction of $r$ for different $N$ ： $\beta / \nu = 0 . 3 3$ has been taken. We find a fixed point at $r _ { c } = 0 . 5 5 9 ( 4 )$ ，which agrees with $r _ { c } ( \infty ) = 0 . 5 6 ( 1 )$ obtained from network evolution. We expect that $\beta / \nu$ is equal to $\beta _ { 2 }$ [14].
+
+In summary,we introduce a $( k , l )$ clique community consisting of adjacent $k$ -cliques sharingat least $l$ vertices with $k - 1 \geq l \geq 1$ .There is a $( k , l )$ clique percolation with the emergence of a giant $( k , l )$ clique community. We study the $( k , l )$ clique percolation by investigating the largest reduced size gap $\Delta$ of the largest clique community during network evolution and the corresponding evolution step $T _ { c }$ If the average size gap $\bar { \Delta } ~ \sim ~ N ^ { - \beta _ { 1 } }$ ， there is a continuous clique percolation for $0 ~ < ~ \beta _ { 1 } ~ < ~ 1$ and a discontinuous clique percolation when ${ { \beta } _ { 1 } } ~ = ~ 0$ .The reduced transition point $\bar { r } _ { c }$ obtained from $T _ { c }$ has the finite-size effect $\bar { r } _ { c } - r _ { c } ( \infty ) \sim N ^ { - 1 / \nu _ { 1 } }$ . The values of $r _ { c } ( \infty )$ obtained from Monte Carlo data agree with the analytic result of Eq.5,which is derived using generating function method. The sequence of $( k , l )$ clique percolation in the ER model is as following: $( 2 , 1 ) , ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 1 ) , ( 4 , 2 ) , ( 5 , 1 ) , ( 4 , 3 )$ ,and so on. The root-mean-squares of fluctuations $\delta \Delta$ and $\delta r _ { c }$ are found to decay algebraically as $\chi _ { \Delta } \sim N ^ { - \beta _ { 2 } }$ and $\chi _ { r } \sim N ^ { - 1 / \nu _ { 2 } }$ .The fluctuation distribution functions follow the finite-size scaling forms $P _ { \Delta } ( \delta \Delta , N ) = N ^ { \beta _ { 2 } } f _ { 1 } ( \delta \Delta N ^ { \beta _ { 2 } } )$ and $P _ { r } ( \delta r _ { c } , N ) =$ $N ^ { 1 / \nu _ { 2 } } f _ { 2 } ( \delta r _ { c } \dot { N } ^ { 1 / \nu _ { 2 } } )$ , respectively.
+
+The universality of $( k , l )$ clique percolation is characterized by the critical exponents $\beta _ { 1 }$ ， $\beta _ { 2 }$ ， $\nu _ { 1 }$ and $\nu _ { 2 }$ . It has been found that the critical exponents of $( k , l )$ clique percolation are independent of $k$ ,but dependent on $l$ . The universality class of $( k , l )$ clique percolation is characterized alone by $l$ ：
+
+This work is supported by the National Natural Science Foundation of China under grant 11121403.
+
+\* Electronic address: chenxs @itp.ac.cn   
+[1]M.Girvan and M.E.J.Newman,Proc.Natl.Acad.Sci.USA 99,7821 (2002).   
+[2] S.Fortunato,Phys.Rep.486,75 (2010).   
+[3] B.Bollobas,Random graphs,2nd ed.(Cambridge University Press,Cambridge,2001).   
+[4]S.N.Dorogovtsev,A.V.Goltsev,and J.F.F.Mendes,Phys. Rev.Lett.96,040601 (2006).   
+[5] G.Palla,I. Derényi,I. Farkas,and T.Vicsek,Nature (London) 435,814 (2005).   
+[6]I.Derényi,G.Palla,and T. Vicsek,Phys.Rev.Lett.94,160202 (2005).   
+[7]P.Erdós and A.Rényi,Publ.Math.Inst.Hung. Acad. Sci.5,17 (1960).   
+[8]B.Bollobas and O.Riordan,Random Structures & Algorithms. 35,3 (2009)   
+[9]M.E.J.Newman, S.H. Strogatz,and D.J.Watts,Phys.Rev.E 64,026118 (2001).   
+10]M.E.J.Newman,Networks:an introduction,(Oxford University Press,2010),p. 445.   
+11]G,Palla,I.Derényi,andT.Vicsek,J.Stat.Phys,128,1(2007).   
+[12] J.F. Fan, M.X.Liu,L.S.Li,and X.S. Chen, Phys.Rev.E 85, 061110 (2012).   
+13]M.X.Liu,J.F.Fan,L.S.Li,and X.S.Chen,Eur.Phys.J.B 85 132 (2012).   
+14] Jingfang Fan，Maoxin Liu,Yong Zhu,and Xiaosong Chen, Finite-size Scaling in Phase Transition of Network Evolution, to be submitted.   
+15]J.Nagler，A.Levina，and MTimme，Nature Phys.7,265 (2011).

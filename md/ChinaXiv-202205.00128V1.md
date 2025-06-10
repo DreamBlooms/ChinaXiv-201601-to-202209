@@ -1,0 +1,402 @@
+# 格上基于身份的可链接环签名方案
+
+刘梦情ab，汪学明 b\*
+
+(贵州大学 a.公共大数据国家重点实验室;b.计算机科学与技术学院，贵阳 550025)
+
+摘要：为了抵抗量子算法的攻击和应对恶意签名者利用环签名技术的完全匿名性输出多个签名从而进行双重开销攻击这一缺陷，同时为了解决不必要的系统开销浪费问题，提出了一种新的格上基于身份的可链接环签名方案。该方案以格上近似最短向量问题为安全基础，将该问题的求解规约于碰撞问题的求解，利用矩阵向量间的线性运算生成签名，同时结合了基于身份的密码技术。解决了系统开销浪费问题，不涉及陷门生成和高斯采样等复杂算法，提高了签名效率，降低了存储开销，并在随机预言模型下验证了方案满足完全匿名性和强存在不可伪造性。经分析，该方案是一个安全高效的环签名方案。
+
+关键词：可链接环签名；格；基于身份的密码体制；随机预言模型 中图分类号：TP309 doi:10.19734/j.issn.1001-3695.2022.03.0103
+
+Identity-based linkable ring signature scheme from lattice
+
+Liu Mengqinga, b, Wang Xuemingbt (a.State Key Laboratoryof Public Big Data,b.CollegeofComputer Science& Technology,Guizou UniversityGuiyang 550025,China)
+
+Abstract:Inordertoresist theattckofquantum algorithmanddeal withthe defecthat malicious signers canoutput multiple signatures using thecomplete anonymityofring signature technology tocarryout doubleoverhead attck,and to solve the unecessary wasteof systemoverhead,this paper proposed anew identity-basedlinkable ring signature scheme formlatice. The scheme takes the approximate shortest vector problemon the latice as the security basis,reduces the solution of the problemto the solutionof thecolision problem,generates the signature byusing the linearoperationbetween matrix vectors, andcombines the identity-based cryptographytechnology.Itsolvedthe problemof systemoverhead waste,does no involve complex algorithms such as trapdor generation and Gausian sampling,improves thesignature efficiencyand reduces the storage overhead.Itisverifiedthatescheme mets therequirementsofcompleteanonymityand strongunforgeabilityunder the random oracle model. After analysis,the scheme is a secure and efficient ring signature scheme.
+
+Key words: linkable ring signature; lattice; identity-based cryptography; random oracle model
+
+# 0 引言
+
+电子交易方式已经成为不可阻挡的趋势，其中少不了数字签名[的踪影，不过签名者的身份隐私在普通的数字签名不能得到保证。针对这一问题，环签名[2]被提出并得到发展。然而，在区块链机制中，由于环签名的强匿名性，恶意签名者在相同事件上可输出两个及以上的不同签名，从而遭受双重开销攻击[3]。于是，Liu 等人[4]在2004 年提出了具有可链接性的可链接环签名(LRS)。可链接性可以检测两个签名是否由同一用户签名。目前，LRS已经有了很多应用，如文献[5\~9]中的电子商务活动。基于身份的密码体制可以减小系统开销的浪费，首个基于身份的可链接环签名(IBLRS)[10]在2006 年被提出。早期提出的方案[1随后被证明有安全缺陷。目前多数传统环签名方案在量子算法出现后都有被攻破的风险，研究后量子密码学已经成为密码学的学术前沿方向。在各类后量子密码技术中，基于格的密码学以其自身的优势脱颖而出，已成为最受关注的后量子密码学技术。
+
+基于格的密码学是由Ajtai[12]提出的，格上的困难假设的求解对于量子计算机也是困难的[13]。2008 年，Gentry 等人[14]基于格上的难题提出了一种“hash-and-sign”签名方案，这一签名机制被广泛应用[15\~18]。但是，“hash-and-sign”签名机制的存储开销和计算效率都不是很理想。除了使用“hash-and-sign”机制构造格上的环签名外，Lyubashevsky[19]给出了一个利用Fiat-Shamir变换基于近似最短向量问题的签名方案，此外，还提出了拒绝采样[20]技术。2018年，Torres等人[6第一个后量子一次性可链接环签名。该方案基于格上困难假设Ring-SIS，采用拒绝采样技术，提高了签名私钥的独立性，并应用在区块链交易中。同年，Baum 等人[21]提出了一种更简单、更高效的格上LRS方案。2019年，Torres等人[5]扩展了文献[6]的方案，2.0版本的LRS方案诞生，并使用基于格的零知识证明实现了对超范围攻击的安全性。在2021年，汤永利等人[22]提出了一种采用陷门生成算法和原像采样算法的IBLRS方案，该方案使用的算法计算复杂，会导致时间开销增加，同时陷门尺寸较大，也会增大存储开销。
+
+本文将构造新的格上基于身份的可链接环签名(IBLRS)方案。方案将格上近似最短向量问题的求解规约为碰撞问题的求解，不使用高斯采样或陷门技术，所有计算都是建立在矩阵向量间的简单乘法运算使其具有更高的计算效率。在随机预言机模型下验证该方案的安全性并对方案的效率进行仿真分析。
+
+# 1 预备知识
+
+# 1.1符号说明
+
+表1为本文中即将用到的符号的简单说明。
+
+表1符号说明Tab.1Notations  
+
+<html><body><table><tr><td>符号</td><td>说明</td></tr><tr><td>R(Z)</td><td>实数集(整数集)</td></tr><tr><td>[d]</td><td>集合{,2,.,d}</td></tr><tr><td>P</td><td>素数</td></tr><tr><td>n</td><td>2的次幂</td></tr><tr><td>m,d</td><td>整数</td></tr><tr><td>Z</td><td>商环Z/pZ</td></tr><tr><td>x"+1</td><td>不可约多项式</td></tr><tr><td>a,y...</td><td>多项式</td></tr><tr><td>a,b...</td><td>多项式向量</td></tr><tr><td>A,B,C...</td><td>矩阵</td></tr><tr><td>x↑S</td><td>x 是从S中选择的均匀随机样本</td></tr><tr><td>I-l</td><td>无穷范数</td></tr><tr><td>H</td><td>哈希函数族</td></tr><tr><td>H</td><td>哈希函数</td></tr><tr><td>μ</td><td>消息</td></tr></table></body></html>
+
+# 1.2格理论
+
+定义1格。设 $V \in \mathbb { R } ^ { n \times m }$ 是由 $\{ \pmb { \nu } _ { 1 } , . . . , \pmb { \nu } _ { m } \}$ 构成的矩阵，其中$\{ \pmb { \nu } _ { 1 } , . . . , \pmb { \nu } _ { m } \}$ 是 $\mid m$ 个线性无关的向量。格 $\angle C$ 由 $\boldsymbol { V }$ 生成，是指系数为 ${ \boldsymbol { x } } _ { m } \in  { \mathbb { Z } } ^ { m }$ 的向量 $\pmb { \nu } _ { 1 } , . . . , \pmb { \nu } _ { m }$ 的线性集合，即：
+
+$$
+\mathcal { L } ( V ) = \{ x _ { 1 } \pmb { \nu } _ { 1 } + x _ { 2 } \pmb { \nu } _ { 2 } + \cdots + x _ { m } \pmb { \nu } _ { m } : x _ { 1 } , x _ { 2 } , \cdots , x _ { m } \in \mathbb { Z } ^ { m } \}
+$$
+
+设 $\mathbf { \Omega } _ { A }$ 是一个 $( x ^ { n } + 1 )$ -循环格[21]，如果有 $( a _ { 1 } , a _ { 2 } , \cdots , a _ { n } ) \in A$ ，则$( a _ { n } , a _ { 1 } , a _ { 2 } , \cdots , a _ { n - 1 } )$ ）也在 $\mathbf { \Omega } _ { A }$ 中。
+
+定义2最短向量问题 SVP。SVP的目标是在给定的任意格 $^ { \small 1 }$ 中求解欧几里德范数最小的非零向量。简单来说，就是在给定的任意格 $^ { A }$ 中，对于任意的格向量 $\pmb { u } \in \pmb { \mathcal { A } }$ ，存在这样的非零向量 $\pmb { \nu } \in \pmb { \mathcal { A } }$ ，使 $\| \pmb { \nu } \| \leq \| \pmb { u } \|$ 成立。
+
+定义3近似最短向量问题。 $S V P _ { \gamma }$ 给定一个 $n$ 维任意格$\mathbf { \Omega } _ { A }$ ，近似最短向量问题的目标是找到一个非零向量 $\pmb { \nu } \in \pmb { A }$ 能使$\| \pmb { \nu } \| \leq \gamma \| \pmb { u } \|$ 成立，其中 $\pmb { u } \in \pmb { \mathcal { A } }$ ， $\gamma$ 是有理数。
+
+# 1.3抗碰撞哈希函数族
+
+定义 $4 ^ { [ 2 3 ] }$ 抗碰撞 Hash 函数族。对于 $D \subset R$ 和整数 $m$ ，${ \mathcal { H } } ( R , D , m ) = \left\{ h _ { \hat { a } } : h _ { \hat { a } } \left( \hat { z } \right) = \hat { a } \bullet \hat { z } , \hat { a } \in R ^ { m } , \hat { z } \in D ^ { m } \right\}$ 是 Hash 函数族。等式$h _ { \hat { a } } \left( \hat { z } \right) = \hat { a } \bullet \hat { z } = \sum \tilde { a } _ { i } \tilde { z } _ { i }$ 成立，其中 $\hat { \pmb { a } } = ( \widetilde { a } _ { 1 } , \cdots , \widetilde { a } _ { m } ) , \hat { z } = ( \widetilde { z } _ { 1 } , \cdots , \widetilde { z } _ { m } )$ 且全部的计算均为环 $R = \mathbb { Z } _ { p } \left[ x \right] / \langle x ^ { n } + 1 \rangle$ 中的运算。
+
+此时，给定抗碰撞 Hash 函数族 ${ \mathcal { H } } ( R , D , m )$ 中的一个Hash函数 $h$ ，对于任意的 $\hat { \mathbf { y } } , \hat { z } \in R ^ { m }$ 和 ${ \tilde { c } } \in R$ ，函数 $h$ 满足以下两个性质：
+
+$$
+\begin{array} { c } { { h ( \hat { y } + \hat { z } ) = h ( \hat { y } ) + h ( \hat { z } ) } } \\ { { h ( \hat { y } \tilde { c } ) = h ( \hat { y } ) \tilde { c } } } \end{array}
+$$
+
+成立。
+
+定义5碰撞问题 $\mathrm { C o l } ( h , D )$ 。对于 $D \subset R$ 和一个给定的哈希函数 $h \in \mathcal { H } ( R , D , m )$ ，碰撞问题的目标是找到两个满足$h ( \hat { z } _ { 1 } ) = h ( \hat { z } _ { 2 } )$ 的不同向量 $\hat { z } _ { 1 } , \hat { z } _ { 2 } \in D ^ { m }$ 。
+
+对于任意的 $( x ^ { n } + 1 )$ -循环格，碰撞问题 $\mathbf { C o l } ( h , D )$ 与 $S V P _ { \gamma }$ 的是一样困难的。
+
+对于整数 $\textit { d }$ ，定义 $D = \left\{ \tilde { g } \in R : \| \tilde { g } \| _ { \infty } \leq d \right\}$ 。 ${ \mathcal { H } } ( R , D , m )$ 如上所述，且 $m > { \frac { \log p } { \log 2 d } }$ ， $p \geq 4 d m n ^ { 1 . 5 } \log n$ ，有如下定理：
+
+定理1[19] 给定某个随机的哈希函数 $h \in \mathcal { H } ( R , D , m )$ ，若是存在一个算法能以不可忽略的概率破解碰撞问题 $\mathrm { C o l } ( h , D )$ ，则必定存在一个算法能够破解任意 $\left( x ^ { n } + 1 \right)$ -循环格 $^ { \small } A$ 上的$S V P _ { \gamma } \left( A \right)$ ，其中 $\gamma = 1 6 d m n \log ^ { 2 } n$ 。
+
+# 1.4统计距离
+
+定义6可忽略函数。若有这样的整数 $N$ ，给定所有的常数 $\vert c \vert$ 以及 $\scriptstyle n > N$ ,均有 $f ( n ) < n ^ { - c }$ 成立，则函数 $f$ 是可忽略的。通常用negl $( n )$ 表示可忽略函数。
+
+定义7统计距离。设 $X$ 和 $Y$ 是有限域S中的两个随机
+
+变量，则变量 $X$ 和 $Y$ 之间的统计距离可被定义为
+
+$$
+\Delta ( X , Y ) { = } { \frac { 1 } { 2 } } { \sum } _ { x \in S } \vert { \mathrm { P r } } [ X = x ] { - } { \mathrm { P r } } [ Y = x ] \vert
+$$
+
+若 $X$ 和 $Y$ 两者间的统计距离 $\Delta ( X , Y ) < \mathrm { n e g l } ( n )$ ，则称 $X$ 与Y之间统计不可区分。
+
+# 2 基于身份的可链接环签名
+
+# 2.1一般性定义
+
+一个基于身份的可链接环签名方案在一般情况下都是由五个多项式时间算法(Setup、Extract、RingSign、Verify 和Link)构成：
+
+a)系统设置Setup $( n )$ ：随机化算法，由密钥生成器KGC执行。该算法输入安全参数 $n$ ，得到公共参数 $P P$ 、和主私钥 $M S K ,$ 0
+
+b）私钥提取 $\mathbf { E x t r a c t } ( P P , I D , M S K )$ ：随机化算法，由KGC执行。该算法输入 $P P$ 、用户身份信息 $I D$ 和 $M S K$ ，得到用户$I D$ 对应的私钥 $S K _ { I D }$ 。
+
+环签名 $\mathrm { \bf R i n g S i g n } ( P P , ~ \mu ~ , ~ I D , ~ U , ~ S K _ { I D } )$ ：随机化算法，执行者是签名用户。该算法输入 $P P$ 、待签名消息 $\mu$ 、环 $U$ 签名者 $I D \in U$ 以及对应的 $S K _ { I D }$ ，得到 $\mu$ 对应的环签名 $S i g$ 。
+
+验证算法Verify $( P P , U , \mu , S i g )$ ：确定性算法，由验证用户执行。该算法输入公共参数 $P P$ 、环 $U$ 、消息 $\mu$ 及对应的环签名 $S i g$ ，验证通过返回“1”，不通过返回“0”。
+
+链接算法 $\mathbf { L i n k } ( ( \mathbf { \nabla } \mu _ { 1 } , S i g _ { 1 } ) , ( \mathbf { \nabla } \mu _ { 2 } , S i g _ { 2 } \mathbf { \nabla } ) )$ ：由验证者执行，该算法输入两组消息-签名对 $\cdot \mu _ { 1 } , S i g _ { 1 }$ 和（ $\cdot _ { \mu _ { 2 } , S i g _ { 2 } } )$ ，如果它们是由同一签名者在同一事件上生成的，则输出“link”；否则输出“unlink”。
+
+正确性：可链接环签名的正确性表现为签名正确性和链接正确性。
+
+签名正确性是指如果输出的是合法的签名 $S i g$ ，验证算法Verify输出“ $0 ^ { \prime \prime }$ 的概率是可忽略的，也就是：
+
+$$
+\mathrm { P r } \Bigg [ { ^ { n } \mathrm { 0 } ^ { \mathfrak { n } } } \gets \mathrm { V e r i f y } \big ( P P , U , \mu , S i g \big ) \Bigg | _ { S i D } \xleftarrow { P P , M S K } \xleftarrow { S e t u p ( n ) }  \Bigg ] \le \mathrm { n e g l } ( n )
+$$
+
+链接正确性是指对于元组 $\left( \mu _ { 1 } , S i g _ { 1 } \right)$ 和 $\left( \begin{array} { l } { \mu _ { 2 } , S i g _ { 2 } } \end{array} \right)$ ，如果它们是由同一签名者在同一事件上生成的，则链接算法Link 输出“unlink”的概率是可忽略的，也就是：
+
+$$
+\begin{array} { r } { \mathrm { P } _ { \mathrm { T } } [ \begin{array} { c } { P P , M S K  \mathrm { S e t u p } ( n ) } \\ { S K _ { l D }  \mathrm { E x t r a c t } ( P P , I D , M S K ) } \\ { S t \alpha _ { 1 }  \mathrm { R i n g S i g n } ( P P , \mu _ { 1 } , I D , U _ { 1 } , S K _ { l D } ) } \\ { S i g _ { 2 }  \mathrm { R i n g S i g n } ( P P , \mu _ { 2 } , I D , U _ { 2 } , S K _ { l D } ) } \end{array} ] \leq \mathrm { n e g l } ( n ) } \end{array}
+$$
+
+# 2.2 安全模型
+
+安全的IBLRS方案的需满足以下性质[24]。
+
+定义8匿名性。考虑以下敌手 $\mathcal { A }$ 和挑战者 $\boldsymbol { \mathscr { c } }$ 之间的游戏模拟：
+
+初始化(Setup):输入 $n$ ， $\boldsymbol { \mathscr { c } }$ 执行Setup 算法以获取 $P P$ ，MPK和 $M S K$ 并将 $P P$ 和 $M P K$ 发送给 $\mathcal { A }$ 。
+
+询问 $( Q u e r y )$ ： $\mathcal { A }$ 可以进行以下询问：
+
+私钥询问(Extract query): $\mathcal { A }$ 向 $\boldsymbol { \mathscr { c } }$ 递交一个用户身份信息 $I D$ ， $\boldsymbol { \mathscr { c } }$ 运行算法Extract返回与 $I D$ 相应的私钥 $S K _ { I D }$ 。
+
+签名询问（Sign query）： $\mathcal { A }$ 向 $\boldsymbol { \mathscr { c } }$ 提交一个环$U = \{ I D _ { 1 } , I D _ { 2 } , \cdots , I D _ { l } \}$ ，用户身份信息 $I D _ { i } \subset U$ ，待签名消息 $\mu$ ， $\scriptstyle { \mathcal { C } }$ 调用RingSign算法对消息进行签名并返回对应的签名 $\mathit { s i g }$ 给敌手 $\mathcal { A }$ 。
+
+挑战(Challenge)：完成以上查询过程之后， $\mathcal { A }$ 递交消息$\mu ^ { * }$ ，环 $U ^ { * }$ 以及两个用户身份信息 $I D _ { 0 }$ 和 $I D _ { 1 }$ ，其中 $I D _ { 0 } , I D _ { 1 } \subset U ^ { \circ }$ ，$\boldsymbol { \mathscr { C } }$ 随机选择 $b \in \{ 0 , 1 \}$ ，执行算法RingSign，用 $\boldsymbol { I D _ { b } }$ 对应的私钥签名消息 $\mu$ 和环 $U$ ，输出一个环签名 $S i g ^ { * }$ 给 $\mathcal { A }$ 0
+
+猜测 $( G u e s s )$ ： $b ^ { * } \in \{ 0 , 1 \}$ 是 $\mathcal { A }$ 得到的对随机数 $b$ 的推测，若 $b ^ { * } = b$ ，则 $\mathcal { A }$ 取得游戏的胜利。
+
+敌手 $\mathcal { A }$ 在上述游戏模型中的优势定义为
+
+$A d \nu _ { \mathcal { A } } ^ { a n o n } \left( n \right) = \left| \operatorname* { P r } \left[ b ^ { * } = b \right] - 1 / 2 \right|$ ，若是这个优势对于任意多项式时间的 $\mathcal { A }$ 来说都是可忽略的，那么这个基于身份的可链接环签名方案满足匿名性。
+
+定义9强存在性不可伪造性。考虑以下敌手 $\mathcal { A }$ 和挑战者 $\boldsymbol { \mathscr { c } }$ 之间的游戏模拟：
+
+初始化 $( S e t u p )$ ：输入 $n$ ， $\scriptstyle { \mathcal { C } }$ 运行 Setup 算法以获取 $P P$ ，MPK和MSK并将 $P P$ 和 $M P K$ 发送给敌手 $\mathcal { A }$ 0
+
+询问(Query): $\mathcal { A }$ 可以进行以下询问：
+
+哈希询问(hash query):敌手 $\mathcal { A }$ 向挑战者 $\boldsymbol { \mathscr { c } }$ 提交消息 $\mu$ 和环 $U$ ， $\scriptstyle { \mathcal { C } }$ 返回相应的哈希值。
+
+私钥询问(Extract query):敌手 $\mathcal { A }$ 向挑战者 $\boldsymbol { \mathscr { c } }$ 提交消息用户身份信息 $I D$ ， $\scriptstyle { \mathcal { C } }$ 运行算法Extract返回 $I D$ 相应的私钥 $S K _ { I D }$ 。
+
+签名询问(Sign query)：敌手 $\mathcal { A }$ 向挑战者 $\boldsymbol { \mathscr { c } }$ 提交一个环$U = \{ I D _ { 1 } , I D _ { 2 } , \cdots , I D _ { l } \}$ ，用户身份信息 $I D _ { i } \subset U$ 和待签名消息 $\mu$ ， $\boldsymbol { \mathscr { c } }$ 调用环签名算法RingSign对消息进行签名并返回对应的签名 $\mathit { s i g }$ 给敌手 $\mathcal { A }$ 。
+
+伪造(Forge):敌手 $\mathcal { A }$ 输出 $( \mu ^ { * } , U ^ { * } , S i g ^ { * } )$ ，如果满足以下条件：
+
+a) $\mathcal { A }$ 之前未发起过对 $\left( \mu ^ { * } , U ^ { * } \right)$ 的签名查询;
+
+b) $U ^ { * }$ 中任一成员的私钥未被 $\mathcal { A }$ 查询过;
+
+c)Verify( $P P , \mu ^ { * } , U ^ { * } , S i g ^ { * } \left) = 1 \right.$ 。
+
+则 $\mathcal { A }$ 成功伪造签名并赢得游戏。
+
+$\mathcal { A }$ 在上述模拟游戏中的优势定义为$A d \nu \mathcal { A } ^ { f o r g e } _ { \mathcal { A } } \left( n \right) = \operatorname* { P r } \left[ \mathrm { V e r i f y } \left( P P , \mu ^ { * } , U ^ { * } , S i g ^ { * } \right) = 1 \right]$ ，若是这个优势对于任意 $\mathcal { A }$ 来说都是可忽略的，则称这个基于身份的可链接环签名方案满足强存在性不可伪造性。
+
+定义10可链接性。考虑以下敌手 $\mathcal { A }$ 和挑战者 $\boldsymbol { \mathscr { c } }$ 之间的游戏模拟：
+
+初始化(Setup):输入 $n$ ， $\boldsymbol { \mathscr { c } }$ 运行 Setup 算法以获取 $P P$ 、MPK和MSK并将 $P P$ 和 $M P K$ 发送给敌手 $\mathcal { A }$ 0
+
+询问(Query)： $\mathcal { A }$ 可以进行以下询问：
+
+哈希询问(hashquery):敌手 $\mathcal { A }$ 向挑战者 $\boldsymbol { \mathscr { c } }$ 提交消息 $\mu$ 和环 $U$ ， $\boldsymbol { \mathscr { c } }$ 返回相应的哈希值。
+
+私钥询问(Extract query):敌手 $\mathcal { A }$ 向挑战者 $\boldsymbol { \mathscr { c } }$ 提交消息用户身份信息 $I D$ ， $\scriptstyle { \mathcal { C } }$ 运行算法Extract返回 $I D$ 相应的私钥 $S K _ { I D }$ 。
+
+签名询问 $( S i g n \ q u e r y )$ ：敌手 $\mathcal { A }$ 向挑战者 $\boldsymbol { \mathscr { c } }$ 提交一个环$U = \{ I D _ { 1 } , I D _ { 2 } , \cdots , I D _ { l } \}$ ，用户身份信息 $I D _ { i } \subset U$ 和待签名消息 $\mu$ ， $\scriptstyle { \mathcal { C } }$ 调用环签名算法RingSign对消息进行签名并返回对应的签名 $\mathit { s i g }$ 给敌手 $\mathcal { A }$ 。
+
+伪造 $( F o r g e )$ ：最后，敌手 $\mathcal { A }$ 输出元组 $\left( \mu _ { 1 } ^ { * } , U _ { 1 } ^ { * } , S i g _ { 1 } ^ { * } \right)$ 和（204 $( \mu _ { 2 } ^ { \circ } , { U _ { 2 } } ^ { \ast } , S i g _ { 2 } ^ { \ast } \ )$ ，如果满足以下条件：
+
+$\mathcal { A }$ 之前未发起过对( $\mathbf { \mu } _ { \mu _ { 1 } ^ { * } , U _ { 1 } ^ { * } } .$ 和 $( { \mu } _ { 2 } ^ { * } , { U } _ { 2 } ^ { * }$ )的签名查询；
+
+$U ^ { * }$ 中任一成员的私钥未被 $\mathcal { A }$ 查询过;
+
+$\mathcal { A }$ 至多拥有一个用户的私钥;
+
+Verify( $P P , \mu _ { i } ^ { * } , U _ { i } ^ { * } , S i g _ { i } ^ { * } \ ) { = } 1$ $i \in \{ 1 , 2 \}$ ·$\mathbf { L i n k } ( \mathbf { \nabla } S i g _ { 1 } , S i g _ { 2 } \ ) { = }$ "unlink”。
+
+则 $\mathcal { A }$ 赢得游戏。
+
+$\mathcal { A }$ 在上述模拟游戏中的优势定义为$A d \nu _ { \mathcal { A } } ^ { l i n k } \left( n \right) = \operatorname* { P r } \left[ \mathcal { A } \right.$ wins the game]，若是这个优势对于任意 $\mathcal { A }$ 来说都是可忽略的，则称这个基于身份的可链接环签名方案满足可链接性。
+
+# 3 格上基于身份的可链接环签名方案
+
+本节将构造格上IBLRS方案，并对方案进行分析。在构造方案之前，本文对一些变量进行说明，如表2所示。
+
+# 3.1方案构造
+
+Setup $( n )$ ：给定安全参数 $n$ ， $n$ 是2的次幂， $\scriptstyle { m = \log n }$ ，$d = m n ^ { 1 . 5 } \log n$ ， $p > 4 d ^ { 2 }$ 且满足 $p = 3 { \bmod { 8 } }$ 为素数。当 $n > 4$ 时，可以验证不等式 $m > ^ { \log p } \% \mathrm { g } 2 d$ 和 $p \geq 4 d m n ^ { 1 . 5 } \log n$ 成立。从 ${ \mathcal { H } } ( R , D , m )$ （204号
+
+中随机选择一个Hash 函数 $h$ 。选择一个随机预言函数$H : \{ 0 , 1 \} ^ { * }  D _ { h }$ 。从 $D _ { s } ^ { m }$ 随机选取 $\hat { s }$ ， $c \gets R$ ，计算 $\widetilde { S } = h \left( \widehat { s } \right)$ 。输出$P P = \{ n , m , p , C , D , D _ { h } , D _ { s } , D _ { z } , h , H \}$ 、 $M P K { = } \tilde { s }$ 和 $\boldsymbol { M } \boldsymbol { S } \boldsymbol { K } \mathrm { = } \boldsymbol { \hat { s } }$ 。
+
+Extract $( P P , I D , M S K )$ ：输入 $P P$ 、MSK和用户身份信息$I D \in \left\{ 0 , 1 \right\} ^ { * }$ ，进行如下计算：
+
+随机选取 $\hat { r } _ { { I D } } \gets D ^ { { m } }$ 并计算 $\tilde { Q } _ { I D } = h \big ( \hat { r } _ { I D } \big )$ ;
+
+计算 $\tilde { e } = H \big ( I D , \tilde { Q } _ { I D } \big )$ 和 $\hat { s } _ { I D } = \hat { s } \tilde { e } + \hat { r } _ { I D }$ ；
+
+如果 $\hat { s } _ { I D } \notin D _ { z } ^ { m }$ ，返回步骤1);
+
+输出满足 $\hat { s } _ { I D } \in D _ { z } ^ { m }$ 和 $h \big ( \hat { s } _ { I D } \big ) = \tilde { S } \tilde { e } + \tilde { Q } _ { I D }$ (其中 $\tilde { e } = H \big ( I D , \tilde { Q } _ { I D } \big )$ )的 $\hat { s } _ { \scriptscriptstyle I D }$ ，用户身份信息 $I D$ 对应的私钥是 $s k _ { I D } = \hat { s } _ { I D }$ 。
+
+RingSign ( $\cdot P P , \mu , I D , s k _ { I D } , U \smash { \bigr ) }$ ：设环 $U = \{ I D _ { 1 } , I D _ { 2 } , \cdots , I D _ { l } \}$ 。输入$P P$ ，待签名消息 $\mu \in \left\{ 0 , 1 \right\} ^ { * }$ ，签名者身份信息 $I D _ { j } \left( j \in [ l ] \right)$ 以及对应的签名私钥 $s k _ { l D _ { j } }$ 。签名过程如下：
+
+计算链接标签 $I = H \big ( C , s k _ { I D _ { j } } \big )$ ：
+
+随机选取 $\hat { \pmb { y } } _ { j } \gets D _ { s } ^ { m }$ (其中 $j \in \left[ l \right]$ )并计算 $\tilde { Y } = h \big ( \hat { \mathbf { y } } _ { j } \big )$ ：
+
+计算 $\widetilde { c } = H \left( \mu , U , \widetilde { Y } , I D _ { j } \right)$ 和 $\hat { z } _ { j } = \hat { \mathbf { y } } _ { j } \tilde { c } + s k _ { I D _ { j } }$ ;
+
+如果 $\hat { z } _ { j } \notin D _ { z } ^ { m }$ ，则返回步骤1);
+
+输出签名 $\boldsymbol { S } i g = \left( \hat { z } _ { 1 } , \hat { z } _ { 2 } , \cdots , \hat { z } _ { l } , I , \tilde { Y } \right)$ 。
+
+Verify( $P P , U , \mu , S i g ~ )$ ：给定 $P P$ ， $\boldsymbol { S } i g = \left( \hat { z } _ { 1 } , \hat { z } _ { 2 } , \cdots , \hat { z } _ { l } , I , \tilde { Y } \right)$ ， $\mu$ 和$U = \{ I D _ { 1 } , I D _ { 2 } , \cdots , I D _ { l } \}$ 。当且仅当 $\hat { z } _ { j } \in D _ { z } ^ { m }$ 且 $h \left( \hat { z } _ { j } \right) = \tilde { Y } \tilde { c } + \tilde { S } \tilde { e } + \tilde { Q } _ { I D }$ (其中$\tilde { c } = H \left( \mu , U , \tilde { Y } , I D \right)$ ， $\tilde { e } = H \big ( I D , \tilde { Q } _ { I D } \big )$ )成立时，返回"1"；否则，返回"0”。
+
+Link( $\sigma _ { U _ { 1 } } ( \mu _ { 1 } )$ ， $\sigma _ { U _ { 2 } } ( \mu _ { 2 } )$ ）：输入两个环签名$\sigma _ { U _ { 1 } } \left( \mu _ { 1 } \right) = \left( \hat { z } _ { 1 } , \hat { z } _ { 2 } , \cdots , \hat { z } _ { l } , I _ { 1 } , \tilde { Y } \right)$ 和 $\sigma _ { U _ { 2 } } \left( \mu _ { 2 } \right) = \left( \hat { z } _ { 1 } , \hat { z } _ { 2 } , \cdots , \hat { z } _ { l } , I _ { 2 } , \tilde { Y } \right)$ 。如果签名 $\sigma _ { U _ { 1 } } ( \mu _ { 1 } )$ 和$\sigma _ { U _ { 2 } } ( \mu _ { 2 } )$ 都是有效的并且 $I _ { 1 } = I _ { 2 }$ ，则输出“link”；否则输出“unlink”。
+
+表2变量说明  
+Tab.2 Variables   
+
+<html><body><table><tr><td>变量</td><td>说明</td></tr><tr><td>R</td><td>Z,[x]/(x" +1)</td></tr><tr><td>D</td><td>{g∈R:|/gll≤d}</td></tr><tr><td>Dh</td><td>{g ∈R:gl ≤1}</td></tr><tr><td>Ds</td><td>{g ∈R:|gll ≤n0.5 logn}</td></tr><tr><td>Dz</td><td>{g∈R:|gl ≤d-n0 logn}</td></tr><tr><td>H (R,D,m)</td><td>哈希函数族</td></tr></table></body></html>
+
+# 3.2 正确性
+
+下面将从签名正确性和链接正确性两个方面证明以上方案的正确性。
+
+签名正确性：由文献[25]中的推论6.2可知，任意 $\hat { s } \in D _ { z } ^ { m }$ ，有 $\operatorname* { P r } _ { \hat { c } \neq - D _ { b } } \left[ \hat { s } \tilde { c } + \hat { y } \in D _ { z } ^ { m } \right] = \frac { 1 } { e } - o ( 1 )$ 成立，在之前的参数设定中，有 $D _ { z } \subset D$ ，所以 $\hat { s } _ { I D } \in D$ 。由 $\hat { \pmb { y } } _ { j } \gets D _ { s } ^ { m }$ 和 $\tilde { c } \in D _ { h }$ 可知， $\hat { z } _ { j } = \hat { \mathbf { y } } _ { j } \tilde { c } + s k _ { I D _ { j } }$ 的概率为 $\frac { 1 } { e } - o ( 1 )$ 。
+
+由此可知， $\hat { z } _ { j } \in D _ { z } ^ { m }$ 成立的概率是不可忽略的。签名的正确性可由以下等式验证：
+
+$$
+h \big ( \hat { z } _ { j } \big ) = h \big ( \hat { y } _ { j } \tilde { c } + s k _ { I D } \big ) = h \big ( \hat { y } _ { j } \tilde { c } + \hat { s } \tilde { e } + \hat { r } _ { I D } \big ) =
+$$
+
+$$
+h \big ( \hat { { \bf y } } _ { j } \tilde { c } \big ) + h \big ( \hat { s } \tilde { e } \big ) + h \big ( \hat { r } _ { I D } \big ) = h \big ( \hat { { \bf y } } _ { j } \big ) \tilde { c } + h \big ( \hat { s } \big ) \tilde { e } + h \big ( \hat { r } _ { I D } \big ) =
+$$
+
+$$
+\tilde { Y } \tilde { c } + \tilde { S } \tilde { e } + \tilde { Q } _ { I D }
+$$
+
+链接正确性：本文考虑两个签名 $\sigma _ { U _ { 2 } } \left( \mu _ { 2 } \right) = \left( \hat { z } _ { 1 } , \hat { z } _ { 2 } , \cdots , \hat { z } _ { l } , I _ { 2 } , \tilde { Y } \right)$ 和$\sigma _ { U _ { 2 } } \left( \mu _ { 2 } \right) = \left( \hat { z } _ { 1 } , \hat { z } _ { 2 } , \cdots , \hat { z } _ { l ^ { \prime } } , I _ { 2 } , \tilde { Y } \right)$ ,其中身份信息为 $I D _ { i } \in U _ { 1 } \cap U _ { 2 }$ 对两条消息$\mu _ { \mathrm { i } }$ 和 $\mu _ { 2 }$ 签名的诚实用户是真正的签名者，那么算法Link在验证的过程中一定会输出"link”。也就是说， $\begin{array} { r } { \operatorname* { P r } \big [ I _ { 1 } = I _ { 2 } \big ] = \operatorname* { P r } \big [ H \big ( \boldsymbol { C } , \boldsymbol { s } k _ { I D _ { 1 } } \big ) = H \big ( \boldsymbol { C } , \boldsymbol { s } k _ { I D _ { 2 } } \big ) \big ] } \end{array}$ ，其中 $s k _ { I D _ { 1 } } = s k _ { I D _ { 2 } }$ ，意味着 $\mathrm { P r } \left[ I _ { 1 } = I _ { 2 } \right] = 1$ 。
+
+综上所述，该方案满足正确性。
+
+# 3.3 安全性
+
+下面将证明该格上IBLRS方案的安全性。
+
+引理1在随机预言模型下，该基于格的环签名方案满足完全匿名性。
+
+证明根据匿名性的定义，如果存在多项式时间敌手 $\mathcal { A }$ 能以不可忽略的优势 $\varepsilon$ 赢得定义8中的匿名性游戏，则可构造出挑战者 $\scriptstyle { \mathcal { C } }$ 调用 $\mathcal { A }$ 作为子程序以不可忽略的概率解决
+
+$S V P _ { \gamma }$ 。 $\mathcal { A }$ 与 $\boldsymbol { \mathscr { c } }$ 之间的交互如下：
+
+Setup：挑战者 $\scriptstyle { \mathcal { C } }$ 进行如下操作：
+
+确定一个最大环用户集 $U ^ { \prime } { = } \{ U _ { 1 } , U _ { 2 } , { \cdots } , U _ { \mathrm { m a x } } \}$ ，其中 max 表示最大用户数。
+
+挑战者 $\scriptstyle { \mathcal { C } }$ 运行Setup 算法产生公开参数 $P P$ 、主公钥MPK和主私钥 $M S K$ ，并将 $P P$ 和 $M P K$ 发送给敌手 $\mathcal { A }$ 。
+
+Query:敌手 $\mathcal { A }$ 可以向挑战者 $\scriptstyle { \mathcal { C } }$ 发起私钥提取询问和签名询问，假设敌手 $\mathcal { A }$ 没有重复询问， $\scriptstyle { \mathcal { C } }$ 的回答如下：
+
+Extractquery:敌手 $\mathcal { A }$ 向挑战者 $\boldsymbol { \mathscr { c } }$ 提交用户 $I D _ { i } \subset U ^ { \prime }$ ，挑战者 $\scriptstyle { \mathcal { C } }$ 运行私钥提取算法 Extract 返回 $I D _ { i }$ 对应的私钥 $\mathrm { s k } _ { I D _ { i } }$ 。
+
+Sign query：敌手 $\mathcal { A }$ 向挑战者 $\scriptstyle { \mathcal { C } }$ 提交一个环$U = \{ I D _ { 1 } , I D _ { 2 } , \cdots , I D _ { l } \} \subset U ^ { \prime }$ 、用户 $I D _ { i } \subset U$ 、待签名消息 $\mu$ 以及对应的私钥 $\mathbf { s k } _ { I D _ { i } }$ 。挑战者 $\scriptstyle { \mathcal { C } }$ 调用环签名算法RingSign对消息进行签名并返回签名 $\mathit { s i g }$ 给 $\mathcal { A }$ 。
+
+Challenge：完成查询后， $\mathcal { A }$ 向 $\boldsymbol { \mathscr { c } }$ 提交一个消息 $\mu ^ { * }$ 、环$U ^ { * } = \{ I D _ { 1 } , I D _ { 2 } , \cdots , I D _ { l } \}$ 以及两个用户 $I D _ { i _ { 0 } } , I D _ { i _ { 1 } } \subset U ^ { * }$ ，挑战者 $\scriptstyle { \mathcal { C } }$ 随机选择 $b \in \{ 0 , 1 \}$ ，运行签名算法RingSign用 $I D _ { i _ { b } }$ 对应的私钥对$\left( \begin{array} { l } { \mu ^ { * } , U ^ { * } } \end{array} \right)$ 进行环签名并返回签名 $S i g ^ { * }$ 给敌手 $\mathcal { A }$ 。
+
+Guess:敌手 $\mathcal { A }$ 输出对 $b$ 的猜测 $b ^ { * } \in \{ 0 , 1 \}$ 。
+
+下面说明可以忽略敌手 $\mathcal { A }$ 赢得此游戏的优势$A d \nu _ { \mathcal { A } } ^ { a n o n } \left( n \right) = \left| \operatorname* { P r } \left[ b ^ { * } = b \right] - 1 / 2 \right| = \varepsilon$ 。只需要证明挑战者 $\boldsymbol { \mathscr { C } }$ 用 $I D _ { i _ { b } }$ 的私钥$\mathbf { S K } _ { i _ { b } }$ 计算的环签名 $S i g ^ { * } = \left( \hat { z } _ { 1 } ^ { \ * } , \hat { z } _ { 2 } ^ { \ * } , \cdots , \hat { z } _ { l } ^ { \ * } , I ^ { * } , \tilde { Y } ^ { * } \right)$ 与用 $\left. I D _ { i _ { 1 - b } } \right.$ 的私钥 $\mathbf { S K } _ { i _ { 1 - b } }$ 计算的环签名 $\begin{array} { r } { S i g ^ { * } = \left( \hat { z } _ { 1 } ^ { \prime } , \hat { z } _ { 2 } ^ { \prime } , \cdots , \hat { z } _ { i } ^ { \prime } , I ^ { \prime } , \tilde { Y } ^ { \prime } \right) } \end{array}$ 是统计不可区分的即可。
+
+定理2[25]如果从 $D _ { s } ^ { m }$ 均匀随机选取一个 $\hat { s }$ ，则存在另一个 $\hat { s } ^ { \prime } \in D _ { s } ^ { m }$ ，有概率 $1 - 2 ^ { - \Omega ( n \log n ) }$ 满足等式 $h ( \hat { s } ) = h ( \hat { s } ^ { \prime } )$ 。对于任意$h \in \mathcal { H } ( R , D , m )$ 、消息 $\mu$ 和任意 $\hat { s } , \hat { s } ^ { \prime } \in D _ { s } ^ { m }$ 使得 $h ( \hat { s } ) = h ( \hat { s } ^ { \prime } )$ ，本文有
+
+$$
+\Delta ( ( \hat { z } , \tilde { c } ) , ( \hat { z } ^ { \prime } , \tilde { c } ^ { \prime } ) ) = n ^ { - \omega ( 1 ) }
+$$
+
+由定义7和定理2可知 $S i g ^ { * }$ 且 $s i g$ 是不可区分的，所以该方案满足完全匿名性。
+
+引理2如果存在一个多项式时间敌手 $\mathcal { A }$ 能够以不可忽略的概率 $\varepsilon$ 输出一个本方案的有效伪造签名，那么利用 $\mathcal { A }$ 的能力，可以构造出一个挑战者 $\scriptstyle { \mathcal { C } }$ ，能够以至少 $( 1 - e ^ { - 1 } { \Big / } _ { 2 t } ) \ \varepsilon$ 的概率获得 $\mathbf { C o l } ( h , D )$ 问题的一个解。其中， $e$ 是自然对数， $t$ 是允许敌手进行Hash询问的最大次数。
+
+证明根据强存在性不可伪造性的定义，假设存在多项式时间敌手 $\mathcal { A }$ 能以不可忽略的优势 $\varepsilon$ 输出本方案的一个有效伪造签名，那么本文可以构造出挑战者 $\boldsymbol { \mathscr { c } }$ 能够以不可忽略的概率求解 $\mathbf { C o l } ( h , D )$ 问题。 $\mathcal { A }$ 与 $\boldsymbol { \mathscr { c } }$ 之间的交互如下：
+
+Setup：挑战者 $\boldsymbol { \mathscr { c } }$ 进行如下操作：
+
+确定一个最大环用户集 $U ^ { \prime } { = } \{ U _ { 1 } , U _ { 2 } , { , } ^ { \dots } , U _ { \mathrm { m a x } } \}$ ，其中 max 表示最大用户数。
+
+挑战者 $\boldsymbol { \mathscr { c } }$ 运行 Setup 算法产生公开参数 $P P$ 、主公钥MPK和主私钥 $M S K$ ，并将 $P P$ 和 $M P K$ 发送给敌手 $\mathcal { A }$ 0
+
+Query:敌手 $\mathcal { A }$ 可以向挑战者 $\boldsymbol { \mathscr { c } }$ 发起一系列的哈希询问和签名询问，假设敌手 $\mathcal { A }$ 没有重复询问， $\boldsymbol { \mathscr { c } }$ 的回答如下：
+
+Hashquery：挑战者 $\boldsymbol { \mathscr { c } }$ 维护两个初始均为空的列表 $L _ { 1 }$ 和$L _ { 2 }$ ，列表 $L _ { 1 }$ 的元组为 $\left( I D _ { i } , \tilde { Q } _ { I D _ { i } } , \tilde { e } _ { i } \right)$ ，列表 $L _ { 2 }$ 的元组为 $\left( \mu _ { i } , I D _ { i } , U , \tilde { Y } _ { i } , \tilde { c } _ { i } \right)$ □敌手 $\mathcal { A }$ 随机选取 $l$ 个向量 $\hat { \bf y } _ { i } \gets D _ { s } ^ { m }$ ， $i \in [ l ]$ ，随后向挑战者 $\boldsymbol { \mathscr { c } }$ 提交一个消息 $\mu _ { i }$ 、环 $U = \{ I D _ { 1 } , I D _ { 2 } , \cdots , I D _ { l } \}$ 和身份信息 $I D _ { i }$ 进行询问。当敌手 $\mathcal { A }$ 对 $\left( I D _ { i } , \tilde { Q } _ { I D _ { i } } \right)$ 进行哈希询问时， $\boldsymbol { \mathscr { c } }$ 检查列表 $L _ { 1 }$ ，假如$\left( I D _ { i } , \tilde { Q } _ { I D _ { i } } , \tilde { e } _ { i } \right)$ 存在，则直接将 $\tilde { e } _ { i }$ 返回给 $\mathcal { A }$ ；否则， $\boldsymbol { \mathscr { c } }$ 随机返回 $\tilde { e } _ { i }$ 给 $\mathcal { A }$ ，并在列表 $L _ { 1 }$ 中添加 $\left( I D _ { i } , \tilde { Q } _ { I D _ { i } } , \tilde { e } _ { i } \right)$ 。当敌手 $\mathcal { A }$ 对 $\left( \mu _ { i } , I D _ { i } , \tilde { Y } _ { i } \right)$ 进行哈希询问时， $\boldsymbol { \mathscr { c } }$ 检查列表 $L _ { 2 }$ ，假如 $\left( \mu _ { i } , I D _ { i } , U , \tilde { Y } _ { i } , \tilde { c } _ { i } \right)$ 存在，则直接将 $\tilde { c } _ { i }$ 返回给 $\mathcal { A }$ ；否则， $\boldsymbol { \mathscr { c } }$ 随机返回 $\tilde { c } _ { i }$ 给 $\mathcal { A }$ ，并在列表 $L _ { 2 }$ 中添加 $\left( \mu _ { i } , I D _ { i } , U , \tilde { Y } _ { i } , \tilde { c } _ { i } \right)$ 0
+
+Extractquery:挑战者 $\boldsymbol { \mathscr { c } }$ 维护初始为空的列表 $\mathbf { { \mathcal { L } } } _ { 3 }$ ，列表$L _ { 3 }$ 的元组为 $\left( I D _ { i } , s k _ { I D _ { i } } , \tilde { Q } _ { I D _ { i } } , \tilde { e } _ { i } \right)$ 。当敌手 $\mathcal { A }$ 对 $\left( I D _ { i } , \tilde { Q } _ { I D _ { i } } , \tilde { e } _ { i } \right)$ 进行私钥提取询问时， $\scriptstyle { \mathcal { C } }$ 检查列表 $L _ { 3 }$ ，假如 $\left( I D _ { i } , s k _ { I D _ { i } } , \tilde { Q } _ { I D _ { i } } , \tilde { e } _ { i } \right)$ 存在，则直接将$\left( s k _ { m } , \tilde { Q } _ { m } \right)$ 返回给 $\mathcal { A }$ ；否则， $\scriptstyle { \mathcal { C } }$ 随机选择 $s k _ { I D _ { i } } \in D _ { z } ^ { m }$ 并计算$\tilde { Q } _ { I D _ { i } } = h \big ( s k _ { I D _ { i } } \big ) - \tilde { S } \tilde { e } _ { i }$ ，其中 $\tilde { e } _ { i }$ 从哈希询问中获得，返回 $\left( s k _ { \ I D _ { i } } , \tilde { Q } _ { \ I D _ { i } } \right)$ 给 $\mathcal { A }$ ，并在列表 $L _ { 1 }$ 和列表 $L _ { 3 }$ 中分别添加 $\left( I D _ { i } , \tilde { Q } _ { I D _ { i } } , \tilde { e } _ { i } \right)$ 和 $\left( I D _ { i } , s k _ { I D _ { i } } , \tilde { Q } _ { I D _ { i } } , \tilde { e } _ { i } \right)$ 。
+
+Signquery:挑战者 $\boldsymbol { \mathscr { c } }$ 维护初始为空的列表 $L _ { 4 }$ ，列表 $L _ { 4 }$ 的元组为 $\left( { \mu _ { i } , I D _ { i } , U , \tilde { Y _ { i } } , \tilde { c } _ { i } , I , \hat { z } _ { i } } \right)$ 。敌手 $\mathcal { A }$ 随机选取 $l$ 个向量 $\hat { \bf y } _ { i } \gets D _ { s } ^ { m }$ ，$i \in [ l ]$ ，随后向挑战者 $\scriptstyle { \mathcal { C } }$ 提交一个消息 $\mu _ { i }$ 、环 $U = \{ I D _ { 1 } , I D _ { 2 } , \cdots , I D _ { l } \}$ 和身份信息 $I D _ { i } \subset U$ 进行询问。当敌手 $\mathcal { A }$ 对 $( \mu _ { i } , I D _ { i } , U )$ 进行签名询问时， $\boldsymbol { \mathscr { c } }$ 检查列表 $L _ { 4 }$ ，假如 $\left( \mu _ { i } , I D _ { i } , U , \tilde { Y _ { i } } , \tilde { c _ { i } } , I , \hat { z } _ { i } \right)$ 存在，则直接将$\left( \tilde { Y _ { i } } , \hat { z } _ { i } \right)$ 返回给 $\mathcal { A }$ ；否则， $\boldsymbol { \mathscr { c } }$ 检查列表 $L _ { 3 }$ ，如果 $\left( I D _ { i } , s k _ { I D _ { i } } , \tilde { Q } _ { I D _ { i } } , \tilde { e } _ { i } \right)$ 不存在，则对 $\left( I D _ { i } , \tilde { Q } _ { I D _ { i } } , \tilde { e } _ { i } \right)$ 进行私钥提取询问以获得与 $m _ { i }$ 对应的$\left( s k _ { \ I D _ { i } } , \tilde { Q } _ { I D _ { i } } \right)$ 。接下来， $\scriptstyle { \mathcal { C } }$ 随机选择 $\hat { \pmb { y } } _ { i } \gets D _ { s } ^ { m } \left( i \in [ l ] \right)$ ，并计算 $\tilde { Y } _ { i } = h \big ( \hat { \mathbf { y } } _ { i } \big )$ 和 $\hat { z } _ { i } = \hat { y } _ { i } \tilde { c } _ { i } + s k _ { I D _ { i } }$ ，其中 $\tilde { c } _ { i }$ 从哈希询问中获得。最后， $\scriptstyle { \mathcal { C } }$ 返回$( \mu _ { i } , I D _ { i } , U , \hat { z } _ { i } )$ 给 $\mathcal { A }$ ，并在列表 $L _ { 2 }$ 和列表 $L _ { 4 }$ 中分别添加$\left( \mu _ { i } , I D _ { i } , U , \tilde { Y } _ { i } , \tilde { c } _ { i } \right)$ 和 $\left( \mu _ { i } , I D _ { i } , U , \tilde { Y _ { i } } , \tilde { c _ { i } } , I , \hat { z } _ { i } \right)$ 。
+
+Forge:敌手 $\mathcal { A }$ 完成上述询问后以不可忽略的概率 $\varepsilon$ 输出 $( \mu ^ { * } , U ^ { * } , \hat { z } ^ { * } , \widetilde { e } ^ { * } )$ 这样一个有效伪造签名。其中，敌手 $\mathcal { A }$ 从未发起过对 $( \mu ^ { * } , U ^ { * } , I D ^ { * } , s { k _ { I D } } ^ { * } )$ 的签名查询，也未查询过 $U ^ { * }$ 中任一用户的私钥。
+
+文献[26,27]中的分叉引理表明， $\mathcal { A }$ 能输出两个有效伪造签名 $( \mu ^ { \circ } , U ^ { \circ } , \hat { z } _ { 1 } ^ { \circ } , \tilde { e } _ { 1 } ^ { \circ } )$ 瑪和 $( \mu ^ { \circ } , U ^ { * } , \hat { z } _ { 2 } ^ { \circ } , \tilde { e } _ { 2 } ^ { \circ } )$ 的概率 $\varepsilon ^ { * } \geq \frac { 1 - e ^ { - 1 } } { 2 t } \varepsilon$ 不可忽略，且满足 $\tilde { e } _ { 1 } ^ { * } \neq \tilde { e } _ { 2 } ^ { * }$ 。
+
+在这样的情况下， $h ( \hat { z } _ { 1 } ^ { \mathrm { ~ * ~ } } ) = \tilde { Y } ^ { * } \tilde { c } ^ { \mathrm { ~ * ~ } } + \tilde { S } \tilde { e } _ { 1 } ^ { \mathrm { ~ * ~ } } + \tilde { Q } _ { I D ^ { * } }$ 且$h \big ( \hat { z } _ { 2 } ^ { \mathrm { ~ * ~ } } \big ) = \tilde { Y } ^ { * } \tilde { c } ^ { \mathrm { ~ s ~ } } + \tilde { S } \tilde { e } _ { 2 } ^ { \mathrm { ~ * ~ } } + \tilde { Q } _ { I D ^ { * } }$ 。从而 $h ( \hat { z } _ { 1 } ^ { \ * } - M S K \tilde { e } _ { 1 } ^ { \ * } ) = h ( \hat { z } _ { 2 } ^ { \ * } - M S K \tilde { e } _ { 2 } ^ { \ * } )$ 成立的概率不小于 1/2。由此，能够以 $\varepsilon ^ { * } \bullet \frac { 1 } { 2 } \geq \frac { 1 - e ^ { - 1 } } { 2 t } \varepsilon$ 的概率得到关于 $h$ 的碰撞。
+
+因此，若敌手 $\mathcal { A }$ 成功得到一个本方案的有效伪造签名，那么挑战者 $c$ 就能求解出 $\mathbf { C o l } ( h , D )$ 问题。根据1.3 节中的定理1和3.3节中的引理2，本方案满足强存在不可伪造性。
+
+引理3若方案不可伪造，则该方案满足可链接性。
+
+证明根据可链接性的定义，假设存在多项式时间敌手$\mathcal { A }$ 能以不可忽略的优势 $\varepsilon$ 赢得定义10中的可链接性模拟游戏。 $\mathcal { A }$ 与 $\boldsymbol { \mathscr { c } }$ 之间的交互如下：
+
+Setup:挑战者 $\boldsymbol { \mathscr { c } }$ 执行如下操作：
+
+确定一个最大环用户集 $U ^ { \prime } { = } \{ U _ { 1 } , U _ { 2 } , { , } ^ { \dots } , U _ { \mathrm { m a x } } \}$ ，其中max 表示最大用户数。
+
+挑战者 $\boldsymbol { \mathscr { c } }$ 运行 Setup 算法产生公开参数 $P P$ 、主公钥MPK和主私钥 $M S K$ ，并将 $P P$ 和 $M P K$ 发送给敌手 $\mathcal { A }$ 。
+
+Query:敌手 $\mathcal { A }$ 可以向挑战者 $\boldsymbol { \mathscr { c } }$ 发起一系列询问，假设敌手 $\mathcal { A }$ 没有重复询问， $\boldsymbol { \mathscr { c } }$ 的回答如下：
+
+Hash query:敌手 $\mathcal { A }$ 对 $I D _ { i }$ 发起哈希询问时， $\boldsymbol { \mathscr { c } }$ 返回 $\tilde { e } _ { i }$ 和$\tilde { c } _ { i }$ 给 $\mathcal { A }$ 。
+
+Extract query:敌手 $\mathcal { A }$ 对 $I D _ { i }$ 进行私钥提取询问， $\boldsymbol { \mathscr { c } }$ 返回$s k _ { I D _ { i } }$ 给 $\mathcal { A }$ 。
+
+Signquery:敌手 $\mathcal { A }$ 向挑战者 $\boldsymbol { \mathscr { C } }$ 提交一个消息 $\mu _ { i }$ 、环$U = \{ I D _ { 1 } , I D _ { 2 } , \cdots , I D _ { l } \}$ 和身份信息 $I D _ { i } \subset U$ 进行询问， $\boldsymbol { \mathscr { c } }$ 返回$\left( \tilde { Y } , I _ { i } , \hat { z } _ { i } \right)$ 给 $\mathcal { A }$ 。
+
+Forge:敌手 $\mathcal { A }$ 完成上述询问后输出 $\sigma _ { U _ { 1 } } \left( \mu _ { 1 } \right) = \left( \hat { z } _ { 1 } , \hat { z } _ { 2 } , \cdots , \hat { z } _ { l } , I _ { 1 } , \tilde { Y } \right)$ 和 $\sigma _ { U _ { 2 } } \left( \mu _ { 2 } \right) = \left( \hat { z } _ { 1 } , \hat { z } _ { 2 } , \cdots , \hat { z } _ { l } , I _ { 2 } , \tilde { Y } \right)$ 0
+
+分析：假设敌手 $\mathcal { A }$ 在只拥有一个私钥的情况下能够以不可忽略的概率 $\varepsilon$ 生成两个环签名 $\sigma _ { U _ { 1 } } ( \mu _ { 1 } )$ 和 $\sigma _ { U _ { 2 } } ( \mu _ { 2 } )$ ，并且Verify $\left( P P , \mu _ { i } , \sigma _ { U _ { i } } ( \mu _ { i } ) , U _ { i } \right)$ 总是输出“1”。由于本方案不可伪造，所以，当敌手 $\mathcal { A }$ 按照规则诚实地输出签名 $\sigma _ { U _ { 1 } } ( \mu _ { 1 } )$ 和 $\sigma _ { U _ { 2 } } ( \mu _ { 2 } )$ 时，这两个签名才能通过验证算法并输出“1”。换句话说，有$I _ { 1 } = H \big ( C , s k _ { I D _ { 1 } } \big )$ 和 $I _ { 2 } = H \big ( C , s k _ { I D _ { 2 } } \big )$ ， $\mathcal { A }$ 只拥有一个私钥,即 $s k _ { I D _ { 1 } } = s k _ { I D _ { 2 } }$ ，则随机预言机 $H$ 有相同的输出，即 $I _ { 1 } = I _ { 2 }$ 。表明签名 $\sigma _ { U _ { 1 } } ( \mu _ { 1 } )$ 和$\sigma _ { U _ { 2 } } ( \mu _ { 2 } )$ 经链接算法Link验证时会输出“link"，这与定义10中的假设矛盾， $\mathcal { A }$ 赢得游戏的优势 $A d \nu _ { \mathcal { A } } ^ { l i n k } \left( n \right)$ 是可忽略的，所以方案是可链接的。
+
+# 3.4效率分析
+
+本节将主要从时间开销和存储开销两方面比较本方案与现有的几个方案的效率并分析，比较对象为文献[6,21,22]中的方案。
+
+四种方案的时间开销比较结果如表3所示，其中 $l$ 表示环成员数， $T _ { T G }$ ， $T _ { s P }$ ， $T _ { S D }$ ， $T _ { B D }$ ， $T _ { L H L }$ 和 $T _ { M V }$ 分别表示算法TrapGen，SamplePre,SampleDom,BasisDel，剩余哈希定理(LHL)和矩阵向量之间操作的平均时间消耗，主要对主密钥输出(MK)、用户密钥输出(UK)、签名输出(Sig)和验证(Ver)等过程的耗时进行分析。在MK方面，本方案和文献[22]中方案涉及基于身份的密码体制，文献[22]使用陷门生成算法生成主密钥，时间开销是 $T _ { T G }$ 。本文的方案不涉及陷门生成算法，时间开销为 $T _ { M V }$ 。文献[6,21]的方案不是基于身份的方案，因此不存在该部分时间开销。在UK方面，本文的方案使用一个耗时较短的hash函数来输出公钥，然后进行简单的矩阵向量之间运算来输出私钥。因此，可以忽略公钥的输出时间，而私钥的生成时间为 $T _ { M V }$ 。对于文献[6,21]方案，用户公钥是通过随机选择的矩阵和向量的标量乘法生成的。文献[6]中的方案的私钥是使用LHL产成的，文献[21]中的方案利用SampleDom算法生成私钥。文献[22]中的方案使用一个耗时较短的哈希函数来生成用户的公钥，并调用SamplePre 算法来生成用户的私钥。因此，用户密钥生成需要 $T _ { s P }$ 。在 Sig 方面，本文的方案生成的签名是$\begin{array} { r } { S i g = \left( \hat { z } _ { 1 } , \hat { z } _ { 2 } , \cdots , \hat { z } _ { l } , I , \tilde { Y } \right) } \end{array}$ ，执行矩阵和向量的乘法操作即可。经过比较，本文的方案的签名生成时间开销远小于其他三种方案。在Ver方面，只需要矩阵和向量的乘法操作。经过比较，该方案的签名验证效率比其他三种参考方案更高。
+
+四种方案的存储开销比较结果如表4所示，其中 $l$ 表示环成员数。主要分析公钥、私钥和签名的大小。在公钥方面，本文的方案对用户的身份信息执行哈希操作输出一个 $n$ 维列向量作为用户的公钥。文献[6]方案进行 $\scriptstyle n \times ( m - 1 )$ 维矩阵和$\left( m - 1 \right)$ 维列向量的乘法运算生成 $n$ 维列向量作为用户公钥。文献[21]方案进行 $\scriptstyle n \times m$ 维矩阵和 $m$ 维列向量的乘法运算生成$n$ 维列向量作为用户公钥。文献[22]的方案对用户的身份信息执行哈希操作输出一个 $n$ 维的列向量作为用户公钥。在私钥方面，本方案的用户私钥是通过矩阵向量之间的标量乘法计算的，是一个 $m$ 维列向量。文献[6]方案通过调用BasisDel算法和SamplePre算法，生成为 $m { \times } k$ 维矩阵作为私钥。文献[21]的方案通过调用LHL，输出 $( m - 1 )$ 维列向量作为私钥。文献[22]的方案通过调用SamplePre 算法生成 $m$ 维列向量作为私钥。在签名大小方面，本方案生成的签名中的向量$\hat { z } _ { i } ( i = 1 , 2 , \cdots , l )$ 和 $\tilde { Y }$ 都是 $m$ 维的列向量。分析结果表明，本方案在签名大小上优于其他方案。
+
+表3时间开销比较  
+Tab.3Comparison of time costs   
+表5时间开销比较(ms)  
+
+<html><body><table><tr><td>方案</td><td>MK</td><td>UK</td><td>Sig</td><td>Ver</td></tr><tr><td>方案[6]</td><td>/</td><td>TLHL +TMV</td><td>(3l +2)TMv + ITsD</td><td>(4l +1)Tmv</td></tr><tr><td>方案[21]</td><td>/</td><td>TsD +TMV</td><td>(2l +1)TMv + ITSD</td><td>3lTMv</td></tr><tr><td>方案[22]</td><td>TTG</td><td>TsP</td><td>(2l+1)TMv +ITSD</td><td>2ITMv</td></tr><tr><td>本文方案</td><td>TMv</td><td>TMv</td><td>ITMv</td><td>ITMv</td></tr></table></body></html>
+
+表4存储开销比较
+
+Tab.4Comparison of storage overhead   
+表6签名尺寸比较(KB)  
+
+<html><body><table><tr><td>方案</td><td>公钥</td><td>私钥</td><td>签名</td></tr><tr><td>方案[6]</td><td>nlogq</td><td>(m-1)logq</td><td>(ml + n)logq</td></tr><tr><td>方案[21]</td><td>nlogq</td><td>mlogq</td><td>(ml +n)logq</td></tr><tr><td>方案[22]</td><td>nlogq</td><td>mlogq</td><td>[(m+1) + n]logq</td></tr><tr><td>本文方案</td><td>mlog p</td><td>mlog p</td><td>m(l +1)log p</td></tr></table></body></html>
+
+设置参数 $n = 8$ ， $m = 6 4 0$ ， $q = 2 ^ { 3 2 } = 4 2 9 4 9 6 7 2 9 6$ ， $k = 6$ ，硬件环境为Windows10 操作系统、AMDRyzen5 4600U withRadeon Graphics $2 . 1 0 ~ \mathrm { G H z }$ 处理器，编译环境为Python3.9、JetBrainsPyCharm $2 0 1 8 . 1 . 3 ~ \mathrm { x } 6 4$ ，在此条件下进行仿真实验。表5和表6为参考方案及本方案在环成员数分别为8、32、128的情况下的时间开销和存储开销对比结果，由于公钥和私钥尺寸不受环成员数影响，此处存储开销为签名尺寸的对比。图1为实验结果对比图，其中(a)(b)(c)分别表示环成员数为8、32、128的结果图。综合分析，本方案较其他三个参考方案在时间开销和存储开销上均有所提升。
+
+Tab.5Comparison of time costs(ms)   
+
+<html><body><table><tr><td rowspan="2">方案</td><td colspan="3">1=8</td><td colspan="3">1= 32</td><td colspan="3">1=8</td></tr><tr><td>UK</td><td>Sig</td><td>Ver</td><td>UK</td><td>Sig</td><td>Ver</td><td>UK</td><td>Sig</td><td>Ver</td></tr><tr><td>方案[6]</td><td>2.31</td><td>25.24</td><td>25.74</td><td>2.31</td><td>78.53</td><td>79.44</td><td>2.31</td><td>315.74</td><td>317.24</td></tr><tr><td>方案[21]</td><td>1.55</td><td>18.22</td><td>18.24</td><td>1.55</td><td>60.26</td><td>57.68</td><td>1.55</td><td>238.82</td><td>235.43</td></tr><tr><td>方案[22]</td><td>0.62</td><td>18.22</td><td>12.48</td><td>0.62</td><td>60.26</td><td>38.72</td><td>0.62</td><td>238.82</td><td>155.62</td></tr><tr><td>本文方案</td><td>0.37</td><td>11.90</td><td>10.32</td><td>0.37</td><td>45.17</td><td>28.93</td><td>0.37</td><td>185.26</td><td>126.91</td></tr></table></body></html>
+
+Tab.6Comparison of signature sizes(KB)   
+
+<html><body><table><tr><td>方案</td><td>1=1 1=8</td><td>1=32</td><td>1=128</td></tr><tr><td>方案[6]</td><td>7.46 59.83</td><td>235.62</td><td>942.18</td></tr><tr><td>方案[21]</td><td>7.46 59.83</td><td>235.62</td><td>942.18</td></tr><tr><td>方案[22]</td><td>7.47 60.91</td><td>235.93</td><td>943.46</td></tr><tr><td>本文方案</td><td>6.74 55.01</td><td>213.07</td><td>852.03</td></tr></table></body></html>
+
+![](images/b03381e5e81d90c80894e3e265e595effdb5602b0661d685788f4fa78eb407d6.jpg)  
+图1时间开销比较(ms)Fig.1Comparison of time costs(ms)
+
+# 4 结束语
+
+基于格的环签名的研究具有巨大的潜力和广阔的前景。然而，现有的大多数基于格的环签名方案都存在计算效率低、存储开销大等缺陷。与此同时，基于身份的可链接环签名实现了基于身份的密码体制和环签名技术的结合，有效地减小了系统开销浪费问题。同时，为了应对抵抗量子算法攻击的潜在风险，本文的方案结合了格密码学中的SVP难题，对其求解难度等价于循环格上碰撞问题的的求解，在方案的构造过程中没有使用抽样算法和陷门算法，均为矩阵向量之间的简单乘法运算，这极大程度地降低了计算复杂度，减少了各步骤的运行时间和降低了存储开销。在随机预言模型下，给出了严格的安全证明，方案满足匿名性、不可伪造性和可链接性。与现有的方案相比，该方案的效率在各方面都得到了提升。
+
+# 参考文献：
+
+[1]Diffie W,Hellman M.New directions in cryptography [J]. IEEE Transactions on Information Theory,1976,22 (6): 644-654.   
+[2]Rivest RL, Shamir A,Tauman Y.How to leak a secret [C]//Advances in Cryptology - ASIACRYPT 2001.Cambridge MA:Laboratory for Computer Science,Massachusetts Institute of Technology,20o1:552- 565.   
+[3]B Forum.GHash.IO and Double-Spending Against BetCoin Dice [EB/OL]. (2020-07-23） [2022-04-26]．https://bitcointalk.org/index. php?topic=327767.0.   
+[4]Liu JK,Wei VK,Wong D S.Linkable Spontaneous Anonymous Group Signature for Ad Hoc Groups [C]// Australasian Conference on Information Security and Privacy.Berlin: Springer-Verlag,2O04:325- 335.   
+[5]Torres WA,Kuchta V,Steinfeld R,et al.Lattice RingCT V2.0 with Multiple Input and Multiple Output Wallets [J]. Springer, Cham,2019, 11547: 156-175.   
+[6]Alberto Torres WA,Steinfeld R,Sakzad A,et al. Post-quantum one-time linkable ring signature and application to ring confidential transactions in blockchain (Lattice RingCT v1.0)[J]. Springer, Cham,2018,10946: 558-576.   
+[7]Shen N,Mackenzie A,Lab T M.Ring confidential transactions [J]. Ledger,2016,1: 1-18.   
+[8]Sun SF,Au MH,Liu JK,et al. RingCT 2.O:A compact accumulatorbased (linkable ring signature） protocol for blockchain cryptocurrency monero [C]// Computer Security- ESORICS 2017,LNCS. Springer, Cham. 2017,10493:456-474.   
+[9]Yuen TH,Sun SF,LiuJK,et al.RingCT3.O for blockchain confidential transaction:Shorter size and stronger security[C]//Financial Cryptography and Data Security.FC 2020,LNCS.Springer, Cham.2020, 12059: 464-483.   
+[10] Chow S,Susilo W, Yuen TH. Escrowed linkability ofring signatures and its applications [C]//Progress in Cryptology-VIETCRYPT 2006,LNCS. Berlin: Springer. 2006,4341: 175-192.   
+[11] Jeong IR, Kwon JO,Dong HL.Analysis of Revocable-if-Linked Ring Signature Scheme [J].IEICE Transactions on Fundamentalsof Electronics,Communications and Computer Sciences,20o9,92(1): 322- 325.   
+[12] Ajtai M.Generating hard instances of latice problems (extended abstract) [C]// Proceedings of the twenty-eighth annual ACM symposium on Theory of Computing (STOC'96),ACM, New York,NY, USA. 1996: 99-108.   
+[13] Regev O.Latice-Based Cryptography [C]// Advances in CryptologyCRYPTO 2006,LNCS. Berlin: Springer. 2006,4117: 131-141.   
+[14] Gentry C,Peikert C,Vaikuntanathan V.Trapdoors for hard lattices and new cryptographic constructions [C]/ Proceedings of the 40th Annual ACM Symposium on Theory of Computing,Victoria,British Columbia, Canada.2008:197-206.   
+[15] Wang Fenghe, Hu Yupu, Wang Chunxiao.A Lattice-based Ring Signature Scheme from Bonsai Trees [J].Journal of Electronics and Information Technology.2010,32 (10): 2400-2403.   
+[16] Wang Jin， Sun Bo. Ring Signature Schemes from Lattice Basis Delegation [C]// Information and CommunicationsSecurity-13th International Conference,ICICS 2011,LNCS.Berlin:Springer.11, 7043: 15-28.   
+[17] Zhang Lili,Ma Yanqin.A Lattice-Based Identity-Based Proxy Blind Signature Scheme in the Standard Model[J].Mathematical Problems in Engineering,2014 (1): Article ID 307637.   
+[18] Lai R,Cheung H, Chow S.Trapdoors for Ideal Latices with Applications [C]// Information Security and Cryptology. Inscrypt 2014，LNCS. Springer,Cham.2015,8957: 239-256.   
+[19]Lyubashevsky V.Fiat-Shamir with Aborts:Applications to Lattice and Factoring-Based Signatures [C]/ International Conference on the Theory and Application of Cryptology and Information Security.Berlin: Springer. 2009,5912: 598-616.   
+[20]Lyubashevsky V.Lattice signatures without trapdoors [C]//Advances in Cryptology-EUROCRYPT 2012,LNCS. Berlin: Springer. 2012,7237: 738-755.   
+[21] Baum C,Lin H, Oechsner S.Towards Practical Lattice-Based One-Time Linkable Ring Signatures [C]// Information and Communications Security.ICICS 2018.LNCS. Springer, Cham. 2018,11149:303-322.   
+[22] 汤永利，夏菲菲，叶青，等.格上基于身份的可链接环签名[J]．密 码学报,2021,8(2):232-247.(Tang Yongli,Xia Feifei,Ye Qing,et al. Identity-based linkable ring signature on lattice [J].Journal of Cryptologic Research,2021,8(2): 232 -247.)   
+[23] Lyubashevsky V,Micciancio D.Generalized Compact Knapsacks Are Colision Resistant[C]// Automata，Languagesand Programming. ICALP 2006,LNCS.Berlin:Springer.2006,4052:144-155.   
+[24] Micciancio D. Generalized compact knapsacks,cyclic lattices，and efficient one-way functions [J]. Comput Compl,2007,16 (4): 365-411.   
+[25] Lyubashevsky V.Towards practical latice-based cryptography [D]. University of California at San Diego University of California at San Diego,2008.   
+[26] Pointcheval D, Stern J. Security Arguments for Digital Signatures and Blind Signatures [J].Journal of Cryptology,2000,13 (3): 361-396.   
+[27] Bellare M,Neven G.Multi-signatures in the Plain public-Key Model and a General Forking Lemma [C]// Proceedings of the 13th ACM Conference on Computer and Communications Security,ACM,New York,NY, USA. 2006: 390-399.

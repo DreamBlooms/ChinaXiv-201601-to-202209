@@ -1,0 +1,721 @@
+[
+    {
+        "type": "text",
+        "text": "Radiation capture and conversion efficiencies of Miscanthus sacchariflorus, M. sinensis and their naturally occurring hybrid M. $\\times$ giganteus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHRISTOPHER LYNDON DAVEY1,LAURENCE EDMUND JONES1, MICHAEL SQUANCE1,SARAH JANE PURDY¹,ANNE LOUISE MADDISON1, JENNIFER CUNNIFF²,IAIN DONNISON1 and JOHN CLIFTON-BROWN1 1Instituteofological,nronmentalnduraliences(E),berystwythnesityGogerddnbewt CeredigionSY233EE,UK,²RothamstedResearch,Harpenden,HertfordshireAL52JQ,UK ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus is a rhizomatous C4 grass of great interest as a biofuel crop because it has the potential to produce high yields over a wide geographical area with low agricultural inputs on marginal land lesssuitable for food production. At the moment, a clonal interspecific hybrid Miscanthus $\\times$ giganteus is the most widely cultivated and studied in Europe and the United States,but breeding programmes are developing newer more productive varieties.Here, we quantified the physiological processes relating to whole season yield in a replicated plot trial in Wales, UK. Light capture and conversion eficiency were parameterized for four carefully selected genotypes (M.sinensis,M.sacchariflorus and Miscanthus $\\times$ giganteus). Differences in the canopy architecture in mature stands as measured by the extinction coeficient $( k )$ were small(0.55-0.65). Sensitivity analysis on a mathematical model of Miscanthus was performed to quantify the accumulative intercepted photosynthetically active radiation (iPAR) in the growing season using (i) $\\mathbf { k } ,$ (ii) variation in the thermal responses of leaf expansion rate, (ii) base temperature for degree days and (iv) date start of canopy expansion. A $10 \\%$ increase in $k$ or leaf area per degree day both had a minimal effect on iPAR $( 3 \\% )$ . Decreasing base temperature from 10 to $9 ~ ^ { \\circ } C$ gave an $8 \\%$ increase in iPAR.If the starting date for canopy expansion was the same as shoot emergence date,then the iPAR increases by $1 2 . 5 \\%$ . In M. $\\times$ giganteus, the whole season above ground and total (including below ground) radiation-use efficiency (RUE） ranged from $45 \\%$ to $3 7 \\%$ higher than the noninterspecific hybrid genotypes. The greater yields in the interspecific hybrid M. $\\times$ giganteus are explained by the higher RUE and not by differences in iPAR or partitioning efects.Studying the mechanisms underlying this complex trait could have wide benefits for both fuel and food production. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:diversity,extinctioncoefficient,Miscanthus,radiation-use eficiency,sensitivityanalysis,yielc ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received10 July 2015;revised version received 6 November 2015 and accepted 12 December 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus is a rhizomatous C4 grass of interest as a potential biofuel crop(Visser & Pignatelli,2Oo1;Hastings et al., $2 0 0 9 \\mathrm { a }$ ：Somerville et al.，201O;Zub & Brancourt-Hulmel, 201O).This is because it has the potential to produce high yields (Clifton-Brown et al.,2oo1) over a wide geographical area with low agricultural inputs (Beale & Long,1997；Zub & Brancourt-Hulmel,2010) and can be grown on marginal land not cultivated for food production.At the moment,a Miscanthus $\\times$ giganteus genotype is the one most often grown and studied in Europe because of its high yields. M. $\\times$ giganteus is a naturally occurringhybrid of M.sinensis and M.sacchar iflorus(Greef & Deuter,1993;Hodkinson & Renvoize, 2001).As Miscanthus is an undomesticated plant, there is scope to increase yields over M. $\\times$ giganteus and so breeding programmes are ongoing to achieve this by utilizing the considerable phenotypic diversity found across the genotypes (Robson et al.,2013). The range of this diversity has not been systematically modelled at the level of descriptions of the physiological processes relating to yield.Nor has the range of the variation been used to inform which features ofMiscanthus are most amenable to giving increases in yield above those produced by M. $\\times$ giganteus. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To address both these issues,a physiologically based model of yield is needed which can be easily parameterized for different genotypes. The range of parameter values can then be used in ‘what if' simulations using the model to access their impact on yield using ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M. $\\times$ giganteusas areference.Sucha studyusing different genotypes would only give an indication of the variation in key yield parameters currently expressed in the breeding populations. In addition, genetic segregation and recombination during breeding would be expected to produce further variation especially in a genetically diverse and nondomesticated plant like Miscanthus (Hartl& Clark,2007). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A fundamentalmodel of yieldbased on thework of Monteith (Monteith,1977)isas follows: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Yield $\\ l =$ Sum incident PAR over current growing season (1) length $^ *$ Proportion PAR intercepted\\*RUE ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For Miscanthus,yield is the above-ground dry matter at harvest. PAR is photosynthetic active radiation and RUE is the radiation-use efficiency which quantifies the amountofdry mattercreated for each MJofPARthe canopyintercepts. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The proportion of PAR intercepted by the canopy in Eqn(1) has two components.The first is the innate ability of the canopy architecture to capture light: this is quantified by the canopy's extinction coefficient $( k )$ . The second component is the development of the canopyleaf area index (LAI in ${ \\mathrm { m } } ^ { 2 }$ leaf area $\\mathrm { m } ^ { - 2 }$ ground） over the growing season.This depends on the start date and rate of canopy expansion. Canopy expansion is largely driven by temperatureabovea base level $( T _ { \\mathrm { b } } )$ below which the leaf expansion ceases. This affect is quantified by the leaf expansion rate (LER) in L $\\mathrm { 4 I ~ ^ { \\circ } C ~ d a y ^ { - 1 } }$ ，where the denominator is the degree days above $T _ { \\mathrm { b } }$ .Thus, there is a complex interaction in yield production of the canopy intercepting the ambient PAR but with the canopy expansion (and hence its ability to intercept light) being driven by temperature.To combine the influences of PAR levels and temperature on yield over a growing season,one needs to convert Eqn(1) to a model which can be stepped through time using real met data. The model could then be made genotype specific using the appro priatevaluesof theparameters $T _ { \\mathrm { b } } ,$ LER, $k$ and RUE. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The genotypes investigated in this study include two M.sinensisa M.sacchariflorus and the hybrid $M . \\times$ giganteus.They were selected based on their large variations in canopy architecture and also variation in flowering time which is known to affect yield (Jensen et al., 2013).Miscanthus sinensis genotypes (including those used in this trial) tend to flower prolifically，whereas M.sacchariflorusdoesnot flowerin the field intheUnited Kingdom and M. $\\times$ giganteus only flowers on exceptionally warm years (Jensen et al.,2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,field data are first used to estimate $T _ { \\mathrm { b } } ,$ LER, $k$ and RUE for the four genotypes. This provides an estimate of the cross-genotype (species） variation that can be expectedin these key values that determine light interception and yield.In particular,the impact of the widely different canopy architectures of the plants on light interception (via $\\mathbf { k }$ ）canbe accessed.Inaddition, the RUEs (calculated with the aid of the model in Eqn 1) can be used to help understand why M. $\\times$ giganteus is such a productive genotype. The values of $T _ { \\mathrm { b } } ,$ LER, $k$ and RUE are of direct use in reparameterizing complex models of Miscanthus to emulate different genotypes but this would require additional work to access the bygenotype values for other model parameters.To avoid this,the simpler model in Eqn (1) is used to investigate by simulation the light capturing ability and yield of a potential new hybrid created by incorporating into it the variation in values of $T _ { \\mathrm { b } } ,$ LER, $k$ and RUE seen in this study.This is achieved by inserting these values into the model of M. $\\times$ giganteus and accessing if this increases its performance.Thus，suggestions on potential breeding targets can also be made. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plantmaterial and trial configuration ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Four genotypes were selected that included the extremes of Miscanthus canopy morphology (Fig.1). Two were M. sinensis types:Sin-11 (also known as Emi-11)a diploid and Goliath a triploid.Sac-5 wasa tetraploid M.sacchariflorus genotype and M. $\\times$ giganteus (clone Gig-311) a triploid hybrid of $M$ .sinensis and M.sacchariflorus. The trial was situated on former grassland at IBERS on the West Wales (UK)coast $( 5 2 . 4 1 3 9 ^ { \\prime } \\mathrm { N } ,$ $- 4 . 0 1 4 ^ { \\prime } \\mathrm { W } )$ .It consisted of a randomized block design with four blocks each containing a replicate plot of each genotype. All the plots contained 121 plants at a density of 2 plants $\\mathrm { m } ^ { - 2 }$ and were established using rhizome grown plantlets in May 2009. An automated meteorological station (Campbell Scientific) fitted with a CR1ooo data logger at the trial site recorded soil and air temperature,PAR levels and soil moisture content.Additional weather data came from met stations at nearby field sites.A replicated trial was run at Rothamsted Research (Harpenden,Hertfordshire,England,UK)which also carried out all the measurements taken at IBERS except for LAI. Unless otherwise stated,data are for IBERS. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Emergence ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The above-ground biomass of the Miscanthus was removed on 20 February in 2011.Emergence of new buds from the rhizomes was then scored at weekly intervals on four randomly selected (pseudo-replicate） plants in each plot.Stage NEB' indicated the presence of at least one newly emerged bud (shoot). There was no frost causing damage to the emerged shoots in 2011.A bud from each plant was then monitored, and its progressive development recorded.Stage 'FLL'was scored when its first leaf witha ligule was observed.The plot was designated as being at stage NEB or FLL when two of the four plants reached the given stage. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f55de23812ca88fe786f211e186afac2ec810f5bb90bbd164c1403bc895ad4bc.jpg",
+        "img_caption": [
+            "Fig.1Potographsshowingthediferentcanopyarchitecturesofthefourgenotypesusedinthetrial(takeninSeptember13):(a Gig-311,(b) Sac-5,(c) Sin-11 and (d) Goliath. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Destructive harvests ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Destructive harvests were carried out periodically through the growing season starting on the 21 February 2011 (before emergence) until January 2012.A single plant per experimental plot was randomly selected and the above-ground material cut at $1 0 \\ \\mathrm { c m }$ height.A quadrat was used to demarcate the plant's $0 . 5 ~ \\mathrm { m } ^ { 2 }$ ground area and the rhizome completely excavated and then washed.Samples of the above- and below-ground material were dried in a drying oven until constant mass and the total above- and below-ground dry weights were then calculated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Leaf area index (LAI) measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LAI was estimated from repeat measurements of leaf area on marked stems and from counts of stem numbers $\\mathrm { m } ^ { - 2 }$ . Stem counts were repeatedly carried out on at least three randomly selected plants per experimental plot. This was made at weekly or 2-weekly intervals on the same plants at $6 0 \\%$ of the canopy height (Clifton-Brown et al.,20oO).This height was chosen as it included all the light capturing leaf area but excluded later emerging stems with small leaf areas from the stem count. Including such stems in the stem counts would artificially elevate the LAIif multiplied by the largeleaf areas on the older leaf area measurement stems which formed the canopy itself. The pseudo-replicate stem counts were averaged to give a single stem number $\\mathrm { m } ^ { - 2 }$ value for each experimental plot on a given day. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "On each experimental plot, three plants were picked at random and a single stem from each randomly selected and marked forrepeatleaf areameasurements.Measurements were made weekly or every 2 weeks.As each leaf unfurled,it was numbered and its length and maximum width were measured until it gained a ligule at which point its area no longer increased.The highest leaf with a ligule in the last measurements was remeasured to ensure its dimensionswere unchanged.All leaves were checked and if they had died or badly fragmented, theywere givena leaf area of zero.The leaf area measurements ceased before the onset of canopy senescence and so green leaf area and green LAI were estimated. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To convert field leaf dimension data to actual areas,a calibration data set was produced.For each genotype,a single mature stem was selected at random from each replicate experimental plot.Every undamaged leaf was measured as in the field and its real area estimated using image analysis.This was performed twice,once at the beginning of July 2011 to include the small early season leaves before they died.The second set was in mid-August 2012 so that the very large late season leaves were included. The data for each genotype were combined and plotted as actual leaf area $( \\mathrm { c m } ^ { 2 } )$ vs.leaf length \\* maximum leaf width $( \\mathrm { c m } ^ { 2 } )$ .Genotypes with significantly differ ent straight line fits to their data were found by ANcovA using R's $\\mathrm { l m } ( )$ function (R Core Team,2013) as described in Crawley (2007).A $5 \\%$ significance level was used for all statistical tests in this article. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The slopes of the significantly different straight lines fitted to theleaf areacalibration data were thenused to convert all the fieldleaf dimension data to actual leaf areas and hence to leaf areas per stem. On each measurement day, the leaf areas of the pseudo-replicate stems on each experimental plot were averaged to give a single value of $\\mathbf { m } ^ { 2 }$ leaf area $\\mathsf { s t e m } ^ { - 1 }$ for that plot. Typically, the stem counts were estimated on different days to the leaf area measurements and so they were adjusted to give the counts on the leaf measurement days using linear interpolation.Once this had been performed,multiplying the experimental plot's average $\\mathbf { m } ^ { 2 }$ leaf area stem $\\cdot ^ { - 1 }$ by the equivalent averagestemnumber $\\mathrm { m } ^ { - 2 }$ groundgavethe LAI $( \\mathbf { m } ^ { 2 }$ leaf area $\\mathrm { m } ^ { - 2 }$ ground). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Canopy PAR transmission measurements and extinctioncoefficient $( k )$ estimations ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For each experimental plot, three plants were selected at random for repeat transmission measurements using a SunScan SS1 (Delta T Devices Ltd, Cambridge,UK:www.delta-t.co.uk/) at weekly or 2-weekly intervals.The instrument consisted of hand-held device with a 1 metre long probe with 64 diodes that measure PAR intensities and a separate station that measures the PAR incidence on the canopy top.The measurements were made in accordance with the manufacturer's instructions.In particular,all readings were taken within $^ { 2 \\mathrm { ~ h ~ } }$ either side of solarnoon and not on rainy or dark cloudy days.Stakeswere placed around each plant so that measurements could be made with the probe centred at the plant's middle at ground level. They were situated so that a pair of measurements could be made,one ina south-westerly and the other ina south-easterly direction.For each plant on a plot,one probe measurement was taken in each directionand then converted to transmission values by dividing the mean diode PAR readings by the PAR incident on the canopy top.The two transmissions were then averaged to give the plant's transmission. The pseudo-rep plant transmissions were averaged to give a single value for the plot's transmission.Linear interpolation was then used to find the plot's transmission on the days equivalent to the LAIs. These transmissions were then averaged across the replicate plots to give the mean transmissions for each genotype over time.Loss of transmission data in 2011 meant some additional measurements of transmission,and LAI was made in 2012 to allow the estimation of the canopy extinction coefficient (k). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For each genotype,the mean transmission values were plotted against the mean LAIs. For Gig-311,Sac-5 and Goliath, the 2011 and 2012 data sets were combined.However, for Sin-11, the data from the2 years were verydifferent from each other and therefore treated separately.The $k$ values were estimated byfitingtheformula transmision $= \\mathrm { e } ^ { - k ^ { \\ast } \\mathrm { L A I } }$ to the data using nonlinear regression with grouped data as described in Ritz& Streibig (2Oo8). Pairs of genotypes were compared using the R nls() function, first using a separate $k$ for each genotype and then usinga model with the same $k$ for both.An $F$ -test on the two fitswas thenused todeterminewhether the $k$ valueswere significantly different. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Estimating the leaf expansion rate (LER, $L A I ~ { } ^ { \\circ } C ~ d \\bar { a } y ^ { - 1 }$ )values ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Initially,the strategy used in Clifton-Brown et al.(2ooo) to estimate the LER of Gig-311 was adopted.This was to plotLAI vs. cumulative degree days（ $^ { \\circ } C$ days) calculated using a given $T _ { \\mathrm { b } }$ value and then to fit the data by linear regression.This was repeated forarange of $T _ { \\mathrm { b } }$ values and the fit with the lowest $R ^ { 2 }$ gave both the LER from its slope and the optimal $T _ { \\mathrm { b } }$ .However, during this study,it was found that some of the genotypes had more than one growth phase and that $R ^ { 2 }$ was very insensitive to $T _ { \\mathrm { b } }$ for the data used here.It was therefore decided to adopt a $T _ { \\mathrm { b } }$ of $0 ~ ^ { \\circ } \\mathrm { C }$ as was used by Hastings et al. (2009b) for Miscanthus modelling. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The two growth patterns that occurred were as follows: (i) a single straight line and (ii) a change in growth rate that could be approximated by two straight lines with a single breakpoint between them.Linear regression using the $\\mathrm { ~ \\tiny ~ R ~ l m ( ) ~ }$ function was used for the 1st growth pattern data. Growth pattern 2 was fitted using segmented regression using the R ‘Segmented' library (Muggeo,20o8) which gave both straight lines and the breakpoint in one fit.Each experimental field plot was fitted separately using the minimal number of lines that gave a reasonable fit to the data so that between-plot variation could be accessed. In all cases, the LAI and cumulative degree days were set as zero on the actual day that particular experimental plot first produced leaves with ligules (stage FLL)and the late season steady-state LAIs when shading effects occurred were excluded. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The slopes of the two possible growth phases on the LAI vs. degree day graphs gave the LERs. The replicate LER values for each genotype (one per replicate field plot） were then compared to the other genotypes by ANovA. This was performed using the R aov( function and the Duncan's multiple range test from the R library ‘Agricolae' (Mendiburu,2013). Where the mean genotype LERs were not significantly different,the mean LER across the genotypes was used as the final LER value,otherwise the significantly different genotype mean was used. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For use in simulations, the mean LAI values for Gig-311 across the four replicate plots were plotted against degree days using the known base temperature of this genotype of $1 0 ~ ^ { \\circ } \\mathrm { C }$ (Clifton-Brown et al.,20o0).The data were fitted to a single straight line as above to give the equivalent LER. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Simulations ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Simulations were executed by running the model in Fig.2in the modelling program Simile (Simulistics，Edinburgh，UK: www.simulistics.co.uk). The model consisted of four coupled ordinary differential equations in which Simile were represented graphically in System Dynamics notation (Haefner, ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1996).These equations form the core of the Miscanthus model MiscanMod(Clifton-Brown et al.， 20oo) whichcanbe downloaded from the PLASMO web-portal (www.plasmo.ed.ac.uk/plasmo). The model was stepped through time in Simile using an Euler numerical integrator with 1-day time steps using the genotype specific values for the parameters $T _ { \\mathrm { b } } ,$ LER, $k$ and RUE derived from the field data.In Simile,the representation of the model and the integration algorithm are kept strictly separate (Muetzelfeldt,20o4),and the version of the model in Fig.2 is a combination of the model and the Euler integrator. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the simulations and RUE calculations,it was necessary to confirm that the mean genotype values for the LERs derived from fitting each individual field plot,and the mean breakpoint degree days for those with two growth phases still enabled the model to predict the actual mean LAIs of each genotype.This was performed by running the model parameterized for each genotype: starting with zero LAI and cumulative degree days on the actual stage FLL day and using the 2011 met data to drive the model (see Fig.2).The simulated LAI values were then plotted with the equivalent real mean genotype LAIs (across the four replicate experimental field plots)against time. As with all the graphs in this article,this was carried out in R using the error bar function from the library Plotrix'(Lemon, 2006)as required. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b822229cfb6c76b51376e3911392217c9328f9fb3a3772f73fcdf3604f2591c9.jpg",
+        "img_caption": [
+            "Fig.2Themathematicalmodelof Miscanthuscanopydevelopmentandyieldrepresentedasaflowchart.Onecyclearoundthechart steps the model through one day using that day's met data. $\\bigtriangleup$ :value (change) over given day t.DD:thermal time (degree days in $^ { \\circ } C$ days). DM: dry matter $( \\mathrm { g } \\mathrm { D } \\mathrm { M } \\mathrm { m } ^ { - 2 }$ ground). $\\mathrm { f ( m i n _ { t } , \\ m a x _ { t } , \\ T _ { b } ) }$ : the formula for calculating DD using the daily min and max air $^ { \\circ } C$ values and the base temperature for canopy expansion $( T _ { \\mathrm { b } } )$ (Clifton-Brown et al. (20oo)).k: canopy extinction coefficient （2 $( \\mathbf { m } ^ { 2 }$ ground $\\mathrm { m } ^ { - 2 }$ leaf,i.e. dimensionless).LAI: leaf area index $( \\mathbf { m } ^ { 2 }$ leaf $\\mathrm { m } ^ { - 2 }$ ground,i.e.dimensionless). LER:leaf expansion rate which is the degree day to LAI conversion factor $( \\mathrm { L A I ~ ^ { \\circ } C ~ d a y } ^ { - 1 } ,$ or $^ { \\circ } C \\ \\mathrm { d a y } ^ { - 1 } ,$ . If a genotype has more than one growth phase, then this value may be switched to a different one once a threshold cumulative DD value has been reached. $\\mathrm { M a x } _ { \\mathrm { t } }$ ： maximum air temperature on day t ( $^ { \\circ } C )$ ： $\\begin{array} { r } { { \\bf M i n } _ { \\mathrm { t } } } \\end{array}$ ：minimum air temperature on day $t$ （20 ${ \\bf \\Xi } ( ^ { \\circ } \\mathrm { ~ C ~ } )$ . PAR: photosynthetically active radiation (MJ $\\mathrm { m } ^ { - 2 }$ ground). $\\mathrm { P I } _ { \\mathrm { t } }$ proportionof thePARhitingthetopofthecanopythatisinterceptedbythecanopyonagivenday(dimensionles).RUE:radiationuse efficiency $( \\mathrm { g } \\mathrm { D M } \\mathrm { M J } ^ { - 1 }$ intercepted PAR). t (subscript): day number in year. $T _ { \\mathrm { b } }$ ：base temperature for canopy expansion ( $^ { \\circ } C )$ $\\mathrm { T P A R _ { t } } \\mathrm { ; }$ total PAR hiting the top of the canopy over day t (MJ $\\mathrm { m } ^ { - 2 }$ ground). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Simulation was then used to estimate the LAIs of each genotype over the growing season,including for the missing values just after the canopy started to expand,and using the fitted $k$ values, the cumulative PAR on each day could also be found. These simulations were used for two purposes.Firstly,they gave the cumulative PAR values on the days when destructive harvests gave the equivalent plant dry weights so enabling the calculation of the RUEs.Later in the season,the plants achieved a steady-state LAI which the model fails to predict. Over this time range, the simulated LAIs were replaced by values found from linear interpolation between the real LAIsand the met PAR data then used to increment the cumulative PAR interception accordingly. These adjusted cumulative PAR values were then used in the estimation of the genotype RUEs although the correction made only a few percentage points difference to the cumulated PAR because of the canopy intercepting‘all' of the light from quiet early in the growing season. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The second use of simulation was to access the effect of the variation in the fitted parameter values on potential cumulative PAR interception. As Gig-311 was the genotype to improve over,the effects were investigated by lookingat the changes in cumulative PAR that they would produce in Gig-311 (i.e.in an equivalent new hybrid).Gig-311 reached steady-state LAIs by day 230,and as the model does not account for this,the simulations were run from its stage FLL dayuntil day 230.By this stage,all the plants were intercepting light at the same rate (due to their high LAIs)and so the few weeks until the first plants started to senesce wont materially affect the conclusions expressed relative to Gig-311.For each simulation,a reference run was carried out with Gig-311 having only its fitted parametervalues.Percentage changes in cumulative PAR on day 230 for the additional simulations were expressed relative to the equivalent value for the reference simulation using:1oo (simulation -ref simulation)/ref simulation.The simulations on the variations in fitted $k$ and LER used the model parameterized fora $T _ { \\mathrm { b } }$ of $0 ~ ^ { \\circ } \\mathrm { C }$ For Gig-311,the $T _ { \\mathrm { b } }$ is known to be $1 0 \\ { } ^ { \\circ } { \\bf C } ,$ and for simulations of the effect of $T _ { \\mathrm { b } }$ changes on the cumulative PAR intercepted,the LER estimated with this base temperature was used.All the simulations used the 2011 met data set. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Estimatingtheradiation-useefficiencies(RUE) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The destructive harvests gave the plant dry matter values on particular days.The simulations above also gave the cumulative PAR interception values for each genotype on the same daysup to the 5 September harvest. The destructive harvest before the plants emerged (21 February) was assumed to give the baseline below-ground biomass with the above-ground mass as zero because of the removal of the previous year's growth. These values corresponded to zero cumulative light interception by the plants.The slopes of straight lines fitted to plots of dry matter vs.cumulative PAR interception gave the RUEsing dry matter $\\mathbf { M J } ^ { - 1 }$ PAR intercepted.Foreach genotype, three such plots were done with the below-ground, above-ground and total dry matter on the $y$ -axis.These gave the below-ground,above-ground and total RUEs,respectively. The straight lines were fitted either to each genotype's data by linear regression,or ANcovA was used to find across genotype values as described above. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Climatein 2011 and2012 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus yield can be affected by drought (CliftonBrown et al.,2002; Richter et al., 2008). There was a per iod of slightly lowered rainfall in March/April 2011, but the vegetation cover was low and the soil water was at winter levels before it.Monitoring of stem extension rate did not indicate drought effects during the growing seasons. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Emergence ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The days in the year when new buds from the rhizome first appeared above the ground (stage NEB) and when these produced their first leaves with ligules (stage FLL) are recorded in Table 1.Gig-311 produced its first buds 2weeksbefore Sac-5whichin turnhadbudsbetween 1 and 2 weeks before the other two genotypes. Despite the differences in bud emergence day,all the genotypes produced their first leaves with ligules from these buds within 1 week of each other. The buds of Sin-11 and Goliath emerged and produced ligule leaves within 1 week.In addition，some emergence from buds that over-wintered above ground and regreening from stems cut during harvesting was also observed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the mean daily air temperature and maximum daily soil temperature (at $1 0 \\ \\mathrm { c m }$ depth）for the period leading up to bud and ligule leaf emergence in 2011.Marked on the figure are the dates when the buds and first ligule leaves of Gig-311 appeared. The temperatures at which the buds first appeared above the soil (stage NEB,day 76) were not different from those that had already occurred several times earlier in the year and were below the base temperature $( T _ { \\mathrm { b } } )$ for canopy expansion of $1 0 ~ ^ { \\circ } \\mathrm { C }$ .Once the buds emerged,the air temperatures were at times above the $1 0 \\ \\mathrm { { ^ circ C } \\ : { { T } _ { b } } }$ value but leaves with ligules were not unfurled from the developing stem (stage FLL) until day 102. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e721308152bf526e3643b753cc992e6b9a3d90a076064cb87866ba8dfe5094d0.jpg",
+        "table_caption": [
+            "Table1 The mean day numbers in the year (in 2011)when newly emerged buds from the rhizomes first appeared above ground (stage NEB day) and when the first leaf with a ligule was recorded (stage FLL day) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Genotype</td><td>Daynewly emerged buds appeared (stage NEB day)</td><td>Day first leaf with a ligule observed (stage FLL day)</td></tr><tr><td>Gig-311</td><td>76</td><td>102</td></tr><tr><td>Sac-5</td><td>92</td><td>106</td></tr><tr><td>Sin-11</td><td>102</td><td>109</td></tr><tr><td>Goliath</td><td>100</td><td>107</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/693b93a3ebf6c5a888ec1b38e334813a93efe660a66840025205af922b57f15d.jpg",
+        "img_caption": [
+            "Fig.3 The mean daily air temperature (at $1 . 5 ~ \\mathrm { m } \\mathrm { , }$ ）and maximum daily soil temperature (at $- 1 0 \\ \\mathrm { c m } )$ for2011up to the dates of the appearance of the first leaves with ligules for the four genotypes.For Gig-311,new buds from the rhizome emerged above the ground (stage NEB) on day 76 but did not produce the first leaves with ligules (stage FLL)until day 1O2 (vertical lines on the figure). The horizontal lines on the figure are at 0, 6 and $1 0 ~ ^ { \\circ } \\mathrm { C }$ ： $1 0 ~ ^ { \\circ } \\mathrm { C }$ is thought to be the base temperature for canopy expansion $( T _ { \\mathrm { b } } )$ of Gig-311 whilst $6 ~ ^ { \\circ } C$ is the lowest $T _ { \\mathrm { b } }$ currentlyrecorded forMiscanthus. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LAIandcanopy development ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The field measurements of leaf length and width were converted to real areas using the results from the calibration graph of actual leaf area $( \\mathrm { c m } ^ { 2 } )$ vs. leaf length \\* maximum width $( \\mathrm { c m } ^ { 2 } )$ . The data gave two significantly different straight line fits both with a zero y-intercept. Gig-311 had a conversion factor (slope) of O.745,whilst the other three genotypes all had factors of 0.684 $R ^ { 2 }$ of the ANCOVA Was 0.99). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The leaf areas on each stem were then combined with the equivalent stem numbers $\\mathrm { m } ^ { - 2 }$ to give the LAIs. Figure 4 shows the mean LAIs across the four replicate field plots of each genotype over the 2011 growing season.The maximum LAIs were in the order Gig$3 1 1 > \\mathrm { G o l i a t h } > \\mathrm { S a c } { - } 5 > \\mathrm { S i n } { - } 1 1$ . Gig-311 achieved $9 0 \\%$ PAR interception first,then Goliath and finally Sac-5 and Sin-11,and in all the genotypes,this point was reached after the peak PAR levels in June. This ordering was also reflected in the final above-ground yields in January 2012 which using two-way ANOvA gave the following significantly different values (all in tonnes dry matter hectare-1): Gig-311 15.27; Goliath 8.81; Sac-5 4.97 and Sin-11 4.34 (the last two were not significantly different). There were no significant block effects. The plateaux (steady state) LAIs on Fig. 4 were due to shading effects resulting in the death of lower stem leaves, whilst new leaves were still being produced. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/362095a2ca638dcceb126c0d63c59ee4182f0ce70f8dc6153ed2b53b81a87752.jpg",
+        "img_caption": [
+            "Fig.4 The mean LAIs across the replicate trial plots for the four genotypes (in 2011) vs.day number in the year.The error bars are plus-and-minus one standard error of the means.The vertical lines show when the canopies first intercepted $90 \\%$ or more of the incident PAR based on the LAIs and the fitted $k$ values.The horizontal bar indicates June which has the peak in the annualPAR levels. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Calculation of the canopy extinction coefficients (k) ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thesignificantly different curves fitted to the transmission vs.LAI data are shown on Fig.5 and the $k$ values from the fits on Table 2.Gig-311 and Sac-5 have the same $k$ value which is slightly larger than the value for Goliath and Sin-11 (using Sin-11's 2012 data only). Sin 11 in 2011 had a very high $k$ value,but by the following year,its $k$ was the same as for Goliath. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Leaf expansion rate (LER) ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows examples of the LAI vs.cumulative degree days graphs used to estimate the LERs of the different growth phases. Example data showing the two methods used to fit straight lines to the data are shown (Fig. 6a,b). Two canopy expansion phases were identified; the initial phase 1 of growth was present in all the genotypes whilst Sac-5 and Goliath showed the later second phase of LAI expansion. The mean LER values for each phase for each genotype after comparison by ANOvA are given in Table 3.Only Sin-11 and Goliath flowered in this trial. The former produced its flag leaves on day 196 whilst the latter did so on day 215. The secondary phase of growth and also the continued LAI increase of Sin-11 even after flowering were due to a flush of new stems reaching the upper canopy and contributing to the leaf area capturing light. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfc0f35c6a3951afb418f6804accc3db08f046f49d8e006488a5b2972d9a0dd9.jpg",
+        "img_caption": [
+            "Fig.5Transmission vs. leaf area index showing the three significantly different fitted lines used to estimate the extinction coefficients $( k )$ .Apart for Sin-11, the 2011 and 2012 data have been combined.Thus,Sin-11 has separate fits and $k$ values for both years.For clarity,the standard errors are not shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b50d4f7e615aea85afc47835fe2bf128fb48f4ee422396b1c4c145577dde3ec3.jpg",
+        "table_caption": [
+            "Table 2 The significantly different canopy extinction coeficient values $( k , \\ \\mathrm { ~ m } ^ { 2 }$ ground $\\mathrm { m } ^ { - 2 }$ leaf）from the fitted lines shown in Fig.5.The year values show the data sets combined to give the data fitted.Thus,only Sin-11 had separate fits and hence $k$ values for 2011 and 2012 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Genotype</td><td>k-Value</td><td>Standard error</td></tr><tr><td>Gig-311 and Sac-5 (both 2011 and 2012)</td><td>0.6539</td><td>0.01637</td></tr><tr><td>Goliath (2011 and 2012)</td><td>0.5533</td><td>0.01832</td></tr><tr><td>and Sin-11 (2012 only) Sin-11 (2011 only)</td><td>1.129</td><td>0.07686</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "That the mean LER data in Table 3 would give a good estimate of the actual mean LAI data shown on Fig. 4 was checked on Fig.7 by simulation. The simulated ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6c6b4e6479f7d26327c619a3d5052d7c3e8791735e5338302b1ed880936053b.jpg",
+        "img_caption": [
+            "Fig.6 Measured LAI vs.cumulative degree days calculated using a $T _ { \\mathrm { b } }$ of $0 ~ ^ { \\circ } \\mathrm { C }$ and with the LAI and degree days equal to zero on the day when the first leaves with ligules appeared (stage FLL day).Example data from individual trial plots are shown for two genotypes demonstrating the fits to the two models used:a single linear regression line (a) Gig-311)and segmented regression with two linear sections and one breakpoint ((b) Sac-5).The slopes of the lines were used to estimate the LAI ${ } ^ { \\circ } \\mathrm { C } \\ \\mathrm { d a y } ^ { - 1 }$ (leaf expansion rate:LER) values.The later season‘plateau'LAI valueswere notusedin the fits. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LAIs were a good fit to the data up to the plateaux (steady state) LAI points apart from Sin-11 where the simulation was noticeably less consistent with the real data than for the other genotypes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Radiation-useefficiencies (RUE) ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The cumulative PAR estimates equivalent to the dry mattervalues from thedestructive harvestswere calculated as in the methods apart from for Sin-11.The relatively poor simulation of LAI for this genotype warranted all the LAIs being derived by linear interpolation between the actual LAIs. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/df6d6b5ddf5b17d0df6c2fa597bf73b72dd1b5afec52e4ef2dc7819276bc3bb8.jpg",
+        "table_caption": [
+            "Table3The significantly different leaf expansion rates (LER,LAI $^ { \\circ } C$ day-1)values $( T _ { \\mathrm { b } } = 0 ~ ^ { \\circ } \\mathrm { C } )$ for the 1st and 2nd (later) phases of growth (in2O1).Forgenotypeswith both growth phases,the breakpointbetween thetwo phases is givenascumulative $^ { \\circ } C$ days （2 $( T _ { \\mathrm { b } } = 0 ~ ^ { \\circ } \\mathrm { C } )$ after the 1st ligule leaves unfurled (see Table 1) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Genotype</td><td>Mean LAI C day-1 for 1st growth phase</td><td>Std. error of mean LAI C day-1 for 1st growth phase</td><td>Mean LAI℃ day-1 for 2nd growth phase</td><td>Std. error of mean LAI C day-1 for 2nd growth phase</td><td>Mean breakpoint cumulative ℃ day-1</td></tr><tr><td>Gig-311</td><td>0.003931</td><td>0.0001141</td><td>一</td><td></td><td>一</td></tr><tr><td>Sac-5</td><td>0.001395</td><td>0.00005638</td><td>0.006225</td><td>0.0003270</td><td>1029</td></tr><tr><td>Sin-11</td><td>0.001395</td><td>0.00005638</td><td>1</td><td>一</td><td>一</td></tr><tr><td>Goliath</td><td>0.002276</td><td>0.0002752</td><td>0.006225</td><td>0.0003270</td><td>866</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab5f1da7d02291e9baae273e223f407c40eef87b8ac503aa4560f8e1a203f1d3.jpg",
+        "img_caption": [
+            "Fig.7ThemeanLAsacrossthreplicatetrialplotsforthefourgenotypesvs.daynumberinteyear in201: (a)Gig-311,(b)Sac-5, (c)Sin-1land(d)Goliath.Theerrorbarsareplus-and-minusonestandarderrorofthe mean.ThesearethedataplotedonFig.4. TheLAI alues wereassmed tobezeroonthedaywhenthefirstleaveswithligulesappeared (stageFLLdayverticallinesonthe plots).Telinesthroughthedatapointsaresimulations withthemodelonFig.2usingthe2O11metdata.Themodelparameterization for each genotype came from Tables 1,2 and 3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 shows the below-ground,above-ground and total dry matter vs.cumulative PAR interception for the four genotypes.Early season remobilization from the rhizome to support the start of the new season growth meant that the below-ground data was expected to show physiological meaningful deviations from linearity. Hence the below ground and total biomass were tentatively fitted using linear regression to give the RUEs (slopes) in Table 4. The above-ground data were expected to increase reliably with increased PAR interception (Beale & Long,1995;Clifton-Brown et al.,2000) and so were analysed using ANcOvA (see Table 4). This showed that the above-ground RUE for Gig-311 was $2 . 4 0 \\ \\mathrm { g D M \\ M J ^ { - 1 } }$ PAR intercepted and was significantly higher than the other three genotypes which were not significantlydifferent from each other with ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1e0dfb528610f23effcade593b3c63b67ddc5e67013d053e8f7a5f2e0471f6b.jpg",
+        "img_caption": [
+            "Fig.8The dry matter accumulated by the plants vs. the cumulative PAR intercepted by their canopies as estimated by simulation and interpolation.The error bars are plus-and-minus one standard error of the mean dry matter values.(a) Below-ground dry matter,(b) above-ground and (c) total above- and belowground dry matter.The straight lines on (a)and (c)are linear regression fits to each genotype.The two significantly different lines on (b) are the minimal adequate model fitted by ANcovA. The slopes of the fitted lines gave the RUEs on Table 4. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6f5f19a16effcd7420696a659658037fe0f317540a105c6700eb21c507dc46a.jpg",
+        "table_caption": [
+            "Table 4 The RUEs estimated from the slopes of the linear regression or ANcOvA fits to the data in Fig. 8 (in 2011) "
+        ],
+        "table_footnote": [
+            "\\*From minimal adequate model fitted using ANcovA $\\textstyle \\mathbf { \\mathcal { R } } ^ { 2 }$ of fit: 0.94). "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"4\">Slope (RUE)</td></tr><tr><td>Genotype</td><td>Biomass used in fit</td><td>gDM MJ-1 PAR</td><td>y-intercept gDM m-2</td><td>R²</td></tr><tr><td>Gig-311</td><td>Below ground</td><td>0.49</td><td>253.04</td><td>0.86</td></tr><tr><td></td><td>Above ground*</td><td>2.40</td><td>0.00</td><td></td></tr><tr><td></td><td>Total</td><td>3.16</td><td>99.26</td><td>0.90</td></tr><tr><td>Sac-5</td><td>Below ground</td><td>0.39</td><td>164.65</td><td>0.72</td></tr><tr><td></td><td>Above ground*</td><td>1.66</td><td>0.00</td><td></td></tr><tr><td></td><td>Total</td><td>2.27</td><td>143.89</td><td>0.99</td></tr><tr><td>Sin-11</td><td>Below ground</td><td>0.11</td><td>189.66</td><td>0.14</td></tr><tr><td></td><td>Above ground*</td><td>1.66</td><td>0.00</td><td></td></tr><tr><td></td><td>Total</td><td>1.26</td><td>265.75</td><td>0.68</td></tr><tr><td>Goliath</td><td>Below ground</td><td>0.34</td><td>160.86</td><td>0.58</td></tr><tr><td></td><td>Above ground*</td><td>1.66</td><td>0.00</td><td></td></tr><tr><td></td><td>Total</td><td>2.16</td><td>157.90</td><td>0.98</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$1 . 6 6 ~ \\mathrm { g D M ~ M J ^ { - 1 } }$ PAR.Thus，Gig-311's above-ground RUE is $45 \\%$ higher than the other genotypes.The data may also indicate that the early flowering of Sin-11 mighthave reduced its yield in line with the findings of Jensen et al. (2013). The cumulative PAR in the model in Fig.2 can be converted to dry matter yield by direct multiplication by the RUE.Therefore,any increases in RUE would give directly proportional increases in yield. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Simulations ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 9a shows the effect on the cumulative PAR interception of Gig-311 (reference simulation) of changing its $k$ value to that of the other genotypes or of increasing its $k$ value by $10 \\%$ . Although the Sin-11 $k$ value in 2011 (1.13) was $7 3 \\%$ higher than Gig-311's $k$ value (0.65) when the Gig-311 simulation was run using this value, it only gave a $1 4 . 1 \\%$ increase in cumulative PAR by day 230. Likewise,a $10 \\%$ increase in Gig-311's $k$ only gave a $2 . 9 \\%$ increase in the day 230 cumulative PAR compared to the reference simulation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 9b plots the proportion of PAR intercepted vs. LAI for the $k$ values used in Fig. 9a. Gig-31l can intercept $90 \\%$ of the incident PAR at the fairly low LAI of 3.5(Clifton-Brown et al.，20oO)which itreached at the beginning of July in 2011 (Fig. 4).By the end of that growth season，Gig-311 had almost doubled this LAI. The $90 \\%$ interception dates are shown for each genotype on Fig. 4. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Increases in $k$ made surprisingly modest changes in the cumulative PAR interception because a $10 \\%$ increase in $k$ (relative to the $k$ of Gig-311） only gives a $10 \\%$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) 800 k Sin(in 2011) 700 igcreerence） Pr rrileeerte kGol/Sin(in201 600 500 400 300 n 90110 150 190 230 Day number in year   \n(b) 1.0 90% peeeeed 80% k Sin(in 2011) e 0.0 上 上 上 上 上 0 2 4 6 8 10   \n(c) Leaf area index (dimensionless)   \nep 0.30 1   \nrrleeiegie 0.25 80% 90% interception 0.20 0.15 k Sin(in 2011) 0.10 igac reerence) Gol/Sin(in2012 0.05 -0.10 □ 上 L 0 2 4 6 8 10 Leafarea index (dimensionless) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "increase in the light interception as LAI approaches O: when the leaf area is so small that virtually no light is intercepted. As the LAI increases the percentage, increase in interception rapidly fallsand even at quite low LAIs essentially all the light is intercepted (see Fig. 9b) and so there is then no difference in PAR captured.This pointis madeclearerif the PAR intercepted overa day,which gives the daily yield,is considered. Figure $9 \\mathrm { c }$ shows the changes in the (normalized daily) PAR interception ability of a Miscanthus canopy relative to $\\mathrm { G i g } { - } 3 1 1 ^ { \\prime } { \\mathrm { s } }$ at a given LAI caused by changes in $k$ value. Only over a restricted range of quite low LAI values does an increase in $k$ allow the canopy to outperform Gig-311's at the same LAI,and then,the increase is lower than the percentage rise in $k$ value. For instance,on Fig. 9c,when Gig-311 is intercepting $8 0 \\%$ of the light (e.g. $0 . 8 0 ~ \\mathrm { M J }$ PAR $\\mathrm { m } ^ { - 2 } ~ \\mathrm { d a y } ^ { - 1 }$ if the incident radiation is $1 . 0 ~ \\mathrm { M J }$ PAR $\\mathrm { m } ^ { - 2 } \\mathrm { d a y } ^ { - 1 } ,$ ,a canopy with the $k$ value of Sin-11 in 2011 would only be collecting an additional $0 . 1 4 ~ \\mathrm { M J }$ PAR $\\mathrm { m } ^ { - 2 } ~ \\mathrm { d a y } ^ { - 1 }$ despite the $73 \\%$ higher $k$ value.In any case, the low LAIs that give the peak increase in canopy performance are exceeded by Gig-311 early in the growing seasonand it gets to those levels far sooner than the other genotypes (Fig. 4). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "There are two aspects to the rate of canopy expansion: the leaf expansion rate (LER) in LAI $^ { \\circ } C$ day-1 and the actual rate of canopy expansion on a given day in LAI increase day-1 $( \\triangle \\mathrm { L A I _ { t } }$ on Fig.2） which results from multiplying the degree days contributing to canopy expansion by LER. The magnitude of the degree day contribution on a given day is in turn controlled by the base temperature for canopy expansion $( T _ { \\mathrm { b } } )$ .For Gig ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "311, $T _ { \\mathrm { b } }$ is thought to be $1 0 ~ ^ { \\circ } \\mathrm { C }$ (Clifton-Brown et al., 2000) although values as low as $6 ^ { \\circ } \\mathrm { C }$ have also been estimated for Miscanthus (Price etal.，2oo3;Farrell et al., 2006).The potential effect of decreasing $T _ { \\mathrm { b } }$ from 10 to $6 ~ ^ { \\circ } \\mathrm { C }$ on degree days can be seen on the temperature profile above these temperatures on Fig.3.The effect of changes in leaf expansion rate (LER） on cumulative PAR is shown on Fig. 10.A $10 \\%$ increase in Gig-311's LAI ${ } ^ { \\circ } \\mathrm { C } \\ \\mathrm { d a y } ^ { - 1 }$ only gave a $2 . 9 \\%$ increase in the cumulative PAR intercepted by day 230. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The simulations on Fig.11 use Gig-311's actual base temperature for canopy expansion $( T _ { \\mathrm { b } } )$ of $1 0 ~ ^ { \\circ } \\mathrm { C }$ The reference simulation is for Gig-311 using the $T _ { \\mathrm { b } }$ of $1 0 ~ ^ { \\circ } \\mathrm { C }$ and starting at the actual start day for canopy expansion (stage FLL day).Shown are the effects on cumulative PAR interception of reducing the $T _ { \\mathrm { b } }$ by $1 0 \\%$ to $9 ~ ^ { \\circ } C$ and then to $6 ~ ^ { \\circ } C$ 、The effect on the reference simulation of allowing canopy expansion as soon as the buds appeared (stage NEB day) and of also doing this with a $T _ { \\mathrm { b } }$ of $6 ~ ^ { \\circ } C$ is also shown. The percentage increases in cumulative PAR intercepted by day 230 relative to the reference simulation are as follows: $T _ { \\mathrm { b } }$ of $9 \\ \\%$ 1 $T _ { \\mathrm { b } }$ of $6 ~ ^ { \\circ } C ~ 2 1 . 1 \\% ,$ ，reference starting at NEB day $1 2 . 4 \\%$ and the NEB day start with $T _ { \\mathrm { b } } ~ 6 ^ { \\circ } \\mathrm { C } ~ 3 9 . 0 \\%$ . The simulation starting at the NEB day with a $T _ { \\mathrm { b } }$ of $1 0 ~ ^ { \\circ } \\mathrm { C }$ had a LAI of 0.48 by the real day on which the canopy started to expand (stageFLLday).ThisLAIissome fifteen times larger than that given by the actual leaf areas of all the first ligule leaves and indicates inhibition of leaf production early in the growing season. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/47e751f41e27064fcba6d0604faf0fc44b11ab98197308e9a6405f346d4723ee.jpg",
+        "img_caption": [
+            "Fig.10 The effect of changes in LER( $\\mathrm { L A I ~ ^ { \\circ } C ~ d a y ^ { - 1 } } .$ ）onthe cumulative PAR interception of Gig-311 vs.day number.The plots were produced by simulation using the model on Fig.2 and parameterized using the values for Gig-311 on Tables 1,2 and 3 (starting at the stage FLL day).The reference line was for Gig-311 using its actual LAI ${ } ^ { \\circ } \\mathrm { C } \\ \\mathrm { d a y } ^ { - 1 }$ value for growth phase 1 (p1 on figure).Also shown are the effects on the cumulative PAR interception of increasing Gig-311's value by $10 \\%$ and from using the LAI ${ } ^ { \\circ } \\mathrm { C } \\ \\mathrm { d a y } ^ { - 1 }$ values for phase 1 Sac-5/Sin-11 (in 2011);Goliath phase 1;and Sac-5/Goliath phase 2 $\\mathrm { i } \\mathrm { p } 2$ on figure).The LER values were from Table 3,but all other parameterization remained the same as for the reference simulation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Replicatedtrialdata ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Yield data collected from the replicated Rothamsted Research trial were compared to the results from the model. The model was run using the meteorological and emergence data collected from the Rothamsted trial.The model over predicted yield compared to the observed data in both 2011 and 2012.A potential cause for the reduction in yield was drought; however, attempts to introduce drought into the model by reduc ing RUE with respect to soil moisture deficit proved ineffective,but did reduce the error. This implies that other factors are effecting the yield at Rothamsted.A reduction in LER due to droughting (Clifton-Brown et al.,2ooO)is a likely contributor,but there are also pos sible differences in crop maturity between the sites due to theirdifferent climates. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d5d97ff64bfb4942ef7f2cbe0bfaf62cd3a7285ba998962f0398a27f6d194d7.jpg",
+        "img_caption": [
+            "Fig.11 The effect of changes in the start day for canopy expansion and of changes in base temperature for canopy expansion $( T _ { \\mathrm { b } } )$ on the cumulative PAR interception of $\\mathrm { G i g } { - } 3 1 1$ The plots were produced by simulation using the model on Fig.2 but with a $T _ { \\mathrm { b } }$ of $1 0 ~ ^ { \\circ } \\mathrm { C }$ and its equivalent fitted LAI $^ { \\circ } C$ day-1 for $\\mathrm { G i g } { - } 3 1 1$ of 0.01668.The other parameters were for Gig-311 from Tables1 and 2.Thereference line is for Gig-311 starting at the actual day when the canopy started to expand (stage FLL).The effect of decreasing the $T _ { \\mathrm { b } }$ value by $10 \\%$ to $9 ~ ^ { \\circ } C$ and to $6 ~ ^ { \\circ } C$ but keeping all the remaining reference line parameterization the same are shown.The impact on the cumulative PAR interception of allowing the canopy to start expanding from the day when the buds first emerged (stage NEB) is also illustrated.Two such simulations are shown as follows: the first with the reference line parameterization but starting at the bud emergence day,and the second doing the same but with a $T _ { \\mathrm { b } }$ of $6 ~ ^ { \\circ } C$ as well.The former shows that the leaf production should have been possible earlier in the year than was observed in the field. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Effectof thecanopyextinctioncoefficientkoncumulative PARinterception ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Canopy architecture is crucial to intercepting light and hence producing yield. Increases in the canopy extinction coefficient $( k )$ should result in higher cumulative PAR interception and hence give a larger yield.This study used genotypes with the extremes of Miscanthus canopy architecture and estimated their $k$ values.The $\\operatorname { G i g } { - 3 1 1 } \\ k$ value of O.65 is very close to the 0.68 previously found for this genotype in Clifton-Brown et al. (2000).However，Cosentino et al.(2oo7） found a $k$ of 0.56 for M. $\\times$ giganteus which is close to the values for the sinensis types (Goliath and Sin-11) found here.Vargas et al. (2002) gave the Goliath $k$ value as 0.66.Thus, despite the large differences in canopy architecture,the $k$ values are very similar. The exception in this study was for Sin-11 in 2011 which may have still been immature in that year as its high $k$ value became very similar to the other genotypes in the following year. Sin-11 matured more slowly than the other genotypes due to slower growth rates,which delayed canopy_ closure in Aberystwyth at the planting density of $2 \\mathrm { m } ^ { - 2 }$ . The high extinction coefficient does suggest that the genetic flexibility for high $k$ exists in Miscanthus and that stand maturity may affect it in some genotypes. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Gig-311 is a superior performing genotype (Naidu et al.，2003;Wang et al.,2008;Dohleman & Long,2009; Dohleman et al.,20o9)and currently the only one commercially available. Therefore，the aim of breeding research is to outperform M. $\\times$ giganteus (of which Gig311 is an example). The effect on cumulative PAR interception of introducing the $k$ values observed in Sin-11 and Goliath into Gig-311 to simulate the creation of a new hybrid made surprisingly modest changes in PAR interception. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The time period in which increases in the $k$ value had the greatest impact on light interception was at the beginning of the growing season before $\\mathrm { L A I \\ge 4 }$ After this stage,most of the light is intercepted in all genotypes and so increases in $k$ had little effect. Therefore, to exceed the performance of Gig-311, the duration of maximum canopy interception must be extended beyond the current length of the growing season. Peak PAR levels at IBERS are in June，and by September,light levels are already approximately the same as March. Thus,there is considerable under-utilized PAR in the spring when the canopies are still developing. However, temperatures in this period are usually still cold which is inhibitory to growth,risks destruction of the early canopy from frost and could reduce RUE (Hastings et al.，20o9b）and so breeding for cold tolerance is important.In the warmer climate of south-east England (compared to IBERS),Beale & Long (1995) found that M. $\\times$ giganteus achieved $9 0 \\%$ light interception in early June，whilst the cooler conditions at IBERS meant that the June PAR peak was nonoptimally intercepted. This emphasizes the need to include the effect of temperature on canopy expansion in any consideration of light interception. To accelerate canopy closure either stem emergence along with the start of canopy expansion must be brought forward and/or the early spring canopy growth rate must be increased. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Emergence andthe start and rateof canopyexpansion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The base temperature for canopy expansion $( T _ { \\mathrm { b } } )$ photoperiod or a combination of these with a threshold level of accumulated degree days has been thought to control when new buds first appear above ground at the start of a growing season (stage NEB day) (CliftonBrown et al.，200O;Farrell et al.，2006;Hastings et al., 2009b). The emergence of Gig-311 in this study is consistent with the 12-h photoperiod emergence criteria used Hastings et al. (20o9b).However,if the temperature of the rhizome controls emergence of new buds/ stems,then the $T _ { \\mathrm { b } }$ of $1 0 ~ ^ { \\circ } \\mathrm { C }$ is too high as we observed stem emergence at temperatures below this value.We also observed that the new buds of each of the genotypes emerged at different times and the processes controlling this and regreening from cutstemsare unknown. The wide geographic distribution of Miscanthus may mean that different genotypes have different emergence mechanisms attuned to the requirements of their original locations. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For Gig-311 and Sac-5, the emergence of the stems did not coincide with the production of unfurled leaves with ligules(see also Beale & Long,1995) even though the temperatures were conducive to leaf production in Gig311. The young buds of Gig-311 are particularly susceptible to frost damage and yet its stems appeared above ground well before its canopy started to expand (Zub et al.,2012). Frost damage to the stems would result in more resources being drawn from the rhizome to restart growth and repeated episodes could eventually kill the plants with insufficient rhizome resources to drive another flush of shoots.Inhibition of leaf production could be due to photoperiod, temperature or accumulated degree day thresholds or to cold stress in the mornings inhibiting leaf expansion later in the day. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cumulative PAR interception was not very sensitive to increases in LER over Gig-311's already high rate The role of the $T _ { \\mathrm { b } }$ value in controlling the canopy expansion,especially in the early part of the growing season,is complex.If the daily average air temperatures are about equal to $T _ { \\mathrm { b } } ,$ then some days will not contribute degree days whilst many others only contribute forpart of the day.If the $T _ { \\mathrm { b } }$ is lowered, then substantial increases in the daily degree day contributions are possible in the spring. The higher degree day values would result in the LAI expanding rapidly with concomitant substantial increases in early season PAR interception. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The large genetic variability in Miscanthus $T _ { \\mathrm { b } }$ values combined with the potential gains in yield that lowering it could make means this is a good breeding target espe cially if the start of canopy expansion could be moved to earlier in the season.The beneficial impact of early canopy establishment on yield has been demonstrated in a study of 244 Miscanthus genotypes (Robson et al., 2013).A lower $T _ { \\mathrm { b } }$ than Gig-311's might be less beneficial in a warmer climate where the canopies would reach levels intercepting most of the light earlier in the year anyway.In addition, to gain the full advantage from a lower $T _ { \\mathrm { b } } ,$ the LER should not decrease appreciably (Farrell et al.,20o6). Increases in LER could have useful syn ergistic effects when combined with a lower $T _ { \\mathrm { b } }$ .Tobe useful in a breeding programme, simple and quick methods need to be developed to measure these traits and their narrow sense heritabilities $( \\mathrm { h } ^ { 2 } )$ in the actual breeding populations needs to be sufficiently high to make them useful for selection (Falconer,1989). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Radiation-use efficiencies (RUE) ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The PAR accumulated over a growing season is not the only factor dictating final yield，the efficiency with which that energyhas been converted to drymatter (i.e. RUE）is also important.For Miscanthus where the above-ground material is harvested，it is the aboveground RUE that is most important.For Gig-311, this was estimated as $2 . 4 0 ~ \\mathrm { g }$ dry matter $\\mathbf { M J } ^ { - 1 }$ PAR intercepted which was close to the $2 . 3 5 ~ \\mathrm { g D M ~ M J ^ { - 1 } }$ found by Clifton-Brown et al. (2000） in Ireland. The Gig-311 above-ground RUE was $45 \\%$ higher than for the other three genotypes (which included both its nominal parent species)which in part explainswhyitis such a pro ductive hybrid. The physiological mechanism causing Gig-311's RUE being higher than the other genotypes in this trial is not known although heterosis is the likely genetic cause. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "RUE estimated using harvested dry matter is net of the photosynthetic rate offset by many factors that remove dry matter after photosynthesis has created it. Thus,it is not surprising that there is variation in the RUEvalues for Miscanthus in the literature (Beale& Long,1995;Clifton-Brown et al.,2000;Zub & BrancourtHulmel,2010;Kiniry et al.,2012). Such variation in RUE is also a complicating factor in studies attempting to relate canopy duration with yield (Robson et al., 2013). The RUE estimated here of $2 . 4 0 \\ \\mathrm { g D M } \\ \\mathrm { M J } ^ { - 1 }$ is much lower than the $3 . 7 ~ \\mathrm { g D M } ~ \\mathrm { M J } ^ { - 1 }$ found for M. $\\times$ giganteus inatrial in theUSA (Kiniry etal.,2012).The probable cause of this is the comparatively cool summers in West Wales (U.K.）which would limit biomass accumulation and the RUEs seen. Thus,the RUE values in this paper are strictly only applicable to areas of similar climate and probably explains why the value for M. $\\times$ giganteus grown in Ireland (Clifton-Brown et al.,20oO)is so close to that in Wales.Some biofuel crops such as switchgrass can have very high RUEs of $4 { - } 5 \\ \\mathrm { g D M \\ M J ^ { - 1 } }$ under favourableclimates (Kiniry etal.，1999).This emphasizes the need for breeding for increased biomass and RUE in Miscanthusif full advantage is to be taken of its ability to grow on marginal land with low agricultural inputs. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Work for the next loopof themodellingcycle ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "From modelling Miscanthus yield across genotypes using the model in this manuscript and using a more detailed model as well,it became clear that several processes important in yield production are far fromwell understood. The current understanding of emergence failed to predict the field outcomes and even the emergence of M. $\\times$ giganteus needs clarification.Despite evidence that flowering decreases yield in Miscanthus (Jensen et al., 2013),there is no comprehensive understanding of what triggers flowering or its potential impact on RUE and senescence. Senescence processes other than those triggered by frost are also in need of further investigation. Any potential effect of plant maturity on yield could not be modelled and meaningfully parameterized in a short-term trial such as this one,but the fact that the estimated $k$ and RUE values for M. $\\times$ giganteus were so close to those previously measured on older stands (Clifton-Brown et al.，2000) suggests that these key model parameters do not vary much with maturity (unless the plants are very immature).Thus, for future pro gress towards detailed models that can incorporate the diversity seen in Miscanthus,research is needed to produce full processes descriptions of several key stages in its growth and development which are based on solid physiological knowledge. Experiments are then needed under controlled (and field) conditions to parameterize these process descriptions. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In summary， this study has demonstrated that extending canopy duration at the start of the growing season has the potential to increase yields to a greater extent than improving $k$ (i.e.changing canopy architecture).From the results,it is clear that Gig-311 is such a high yielding hybrid (under nondrought conditions) because it has a slightly higher $k$ value,more rapid leaf expansion and significantly higher above-ground RUE compared to the other genotypes studied.If a frost resistant hybrid could be bred that combined the high RUE and $k$ of $\\mathrm { G i g } { - } 3 1 1$ with a lower $T _ { \\mathrm { b } }$ and earlier canopy expansion, then significant increases in yield are achievable. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This work funded as part of the BSBEC BioMASS Programme (http://www.bsbec-biomass.org.uk/）under the BBSRC Sustainable Bioenergy Centre (BSBEC) grant (BB/G016216/1),the IBERS component of the BBSRC Energy Grasses & Biorefining Institute Strategic Programme (BBS/E/W/O0003134)and also the Cropping Carbon Institute Strategic Programme at RRes and Ceres Inc. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Beale CV,Long SP (1995) Can perennial C4 grasses attain high efficiencies of radiant energy conversion in cool climates? Plant,Cell and Environment,18, 641-650.   \nBeale CV,Long SP (1997) Seasonal dynamics of nutrient accumulation and partitioning in the perennial C4 grasses Miscanthus $\\times$ giganteusand Spartina cynosuroides. Biomassand Bioenergy,12,419-428.   \nClifton-Brown JC,Neilson BM,Lewandowski I, Jones MB (20o0) The modelled pro ductivity of Miscanthus $\\times$ giganteus (GREEF et DEU) in Ireland.Industrial Crops andProducts,12, 97-109.   \nClifton-Brown JC,Lewandowski I,Andersson B, Basch G, Christian DG, BoderupKjeldsen J, Teixeira F(2001) Performance of 15 Miscanthus genotypes at five sites in Europe. Agronomy Journal,93,1013-1019.   \nClifton-Brown JC,Lewandowski I,Bangerth F,Jones MB (2002） Comparative responses to water stress in stay-green,rapid- and slow senescing genotypes of the biomass crop,Miscanthus.New Phytologist,154,35-345.   \nCosentino SL,Patane C,Sanzone E,Copani V,SalvatoreF(2oo7)Effects of soil water content and nitrogen supply on the productivity of Miscanthus $\\times$ giganteus Greef et Deu.ina Mediterranean environment. Industrial Crops and Products, 25,75-88.   \nCrawley MJ (2007) TheR Book.John Wiley and Sons Ltd,Chichester.   \nDohleman FG,Long SP (2009) More productive than Maize in the Midwest: how does miscanthus do it? Plant Physiology,150,2104-2115.   \nDohleman FG,Heaton EA,Leakey AD,Long SP (20o9) Does greater leaf-level photosynthesis explain the larger solar energy conversion efficiency of Miscanthus relative to switchgrass?Plant,Cell and Environment,32,1525-537.   \nFalconer D (1989) Introduction to Quantitatioe Genetics.Longman,Essex,UK.   \nFarrell AD, Clifton-Brown JC,Lewandowski I, Jones MB (2006) Genotypic variation in cold tolerance influences yield of Miscanthus.Annals of Applied Biology,149, 337-345.   \nGreef JM, Deuter M(1993) Syntaxonomy of Miscanthus $\\times$ giganteus GREEF et DEU. Angewandte Botanik,67,87-90.   \nHaefner JW (1996) Modeling Biological Systems.Chapman and Hall, London.   \nHartl DL,Clark AG (2007) Principles of Population Genetics.Sinauer Associates, Sunderland.   \nHastings A,Clifton-BrownJWattenbach M,MitchellCP,tampflP,mith(09a) Future energy potential of Miscanthus in Europe.Global Change Biology Bioenergy, 1, 180-196.   \nHastings A,Clifton-Brown JC,Wattenbach M,Mitchell CP,Smith P (2009b)The development of MISCANFOR,a new Miscanthus crop growth model: towards more robust yield predictions under different climatic and soil conditions. Global Change Biology Bioenergy,1,5470.   \nHodkinsonT,RenvoizeS(2001)Nomenclatureof iscnthu $\\times$ giganteus (Poaceae). Kew Bulletin, 56,759-760.   \nJensen E,Robson P,Norris J,Cookson A,Farrar K,Donnison I,Clifton-Brown J (2013)Flowering induction in the bioenergy grass Miscanthus sacchariflorus is a quantitative short-day response,whilst delayed flowering under long days increases biomass accumulation.Journal of Experimental Botany,64,541-552.   \nKiniry JR,Tischler CR, Esbroeck GA (1999) Radiation use efficiency and leaf CO2 exchange fordiverse C4 grasses.Bomass and Bioenergy17,95-112.   \nKiniry JR,Johnson MVV,Bruckerhoff SB,Kaiser JU, Cordsiemon RL,Harmel RD (2012) Clash of the titans: comparing productivity via radiation use efficiency for two grass giants of the biofuel field. BioEnergy Research,5,41-48.   \nLemon J(2O06) Plotrix: a package in the red light district of R.In: R News.   \nMendiburu F(20l3)Agricolae: statistical procedures for agricultural research in R.   \nMonteith JL (1977) Climate and the eficiency of crop production in Britain.Philosophical Transactionsof theRoyal Society,281,277-294.   \nMuetzelfeldtR (2o04)Declaratioe Modeling in Ecological and Environmental Research. European Commission, Luxembourg.   \nMuggeo VMR (2008) Segmented: an R package to fit regression models with brokenline relationships.In: R News.   \nNaidu SL, Moose SP,Al-Shoaibi AK,Raines CA,Long SP (2003) Cold tolerance of （20 $\\mathrm { C } _ { 4 }$ photosynthesis in Miscanthus $\\times$ giganteus: adaptation in amountsand sequence of $\\mathrm { C } _ { 4 }$ photosynthetic enzymes.Plant Physiology,132,1688-1697.   \nPrice L,Bullard M, Lyons H,Anthony S,Nixon P(20o3) Identifying the yield potential of Miscanthus $\\times$ giganteus: an assessment of the spatial and temporal variability of M. $\\times$ giganteus biomass productivity across England and Wales. Biomass and Bioenergy,26,3-13.   \nRCore Team (20l3)R: ALanguageand Enoironment for Statistical Computing.RFoundation for Statistical Computing, Vienna.   \nRichter GM,Riche AB,Dailey AG,Gezan SA,Powlson DS (2008)Is UK biofuel supply from Miscanthuswater-limited? Soil Use and Management,24,235-245.   \nRitz C,Streibig JC (20o8) Nonlinear Regression with R.Springer,New York.   \nRobson P,Farrar $\\mathrm { K } ,$ Gay A,Jensen E,Clifton-Brown J, Donnison I(2013) Variation in canopy duration in the perennial biofuel crop Miscanthus reveals complex associations with yield.Journalof Experimental Botany,64,237-383.   \nSomerville C, Youngs H, Taylor C,DavisSC,Long SP(2010) Feedstocks for lignocellulosic biofuels. Science, 329,790-792.   \nVargas LA,Andersen MN,Jensen CR,Jorgensen U (2o02)Estimationof leaf area index,light interception and biomass accumulation of Miscanthus sinensis 'Goliath' fromradiation measurements.Biomassand Bioenergy,22,1-14.   \nVisserP,Pignatelli V (20o1) Utilisation of Miscanthus.In: Miscanthus - for Energy and Fibre (eds Jones MB,Walsh M),pp.109-154.James and James (Science Publishers),London.   \nWang DF,Portis AR,Moose SP,Long SP (2008) Cool C-4 photosynthesis: Pyruvate P-idikinase expression and activity corresponds to the exceptional cold tolerance of carbon assimilation in Miscanthus $\\times$ giganteus.lantysiology,48,557-67.   \nZub HW, Brancourt-Hulmel M (2010) Agronomic and physiological performances of different species of Miscanthus,a major energy crop.A review.Agronomy for Sustainable Development,30,201-214.   \nZub HW,Arnoult S, Younous J, Lejeune-Henaut I, Brancourt-Hulmel M (2012) The frost tolerance of Miscanthus at the juvenile stage: differences between clones are influenced by leaf-stage and acclimation.European Journal of Agronomy,36,32-40. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

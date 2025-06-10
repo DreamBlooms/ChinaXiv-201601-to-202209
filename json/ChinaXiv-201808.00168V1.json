@@ -1,0 +1,214 @@
+[
+    {
+        "type": "text",
+        "text": "浅析Civi13D与南方cass在前海清淤项目中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "苏伟",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（深圳市深水水务咨询有限公司，广东深圳518003）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：我国的测绘科学与技术已实现了由传统测绘向数字化测绘的转化和跨越，新技术、新方法的不断涌现。本文针对清淤项目中南方Cass与civil3d统计清淤工程量方法进行比选。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：清淤，civil3d，南方Cass，曲面，土方量计算;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "前海湾是由前海深港合作区、宝安中心区和大铲湾半岛围合的海域，水域面积约5.4km²，湾口宽度约1km。本工程主要对总面积约540万 ${ \\mathfrak { m } } ^ { 2 }$ 的前海湾水域开展清淤，工程实施后可确保开挖区低潮位时不露滩涂，湾内形成合理滩槽布局，有效改善前海湾区水质环境，为建设“前海水城”创造条件。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对本工程水上施工作业的特点本次采用了GPS-RTK(无验潮）测量技术。GPS-RTK测量系统由陆地基站和测区流动站组成。测量船按照垂直临时航道的规划测线（相邻间宽10m）进行采集原始测区水深数据并记录，根据施工合同要求使用方格网法计算土方量，计算软件采用南方CASS7.0。项目在施工阶段将基于Autodesk平台二次开发的传统土方工程量计算软件Cass与三维软件 Autodeskcivil3d性能进行比较。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2工程应用软件",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前用于工程土方量计算软件是南方cass 软件和civil3d 测绘软件。Cass软件是南方测绘仪器公司基于Autodesk平台技术而开发的数字化测绘成图软件，地貌、地理信息丰富，主要应用于地形成图、地籍成图、工程测量及土方量计算等领域。而Civil 3D 软件是 Autodesk@公司针对建筑工程领域而开发的一款三维设计软件，通过导入测量数据，创建原三维地模，平整区域场地及计算土方量的成图软件。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5b80467520fdf6f457e642a9f23ddd23440c8efeadb873e4c894988a9beeac1.jpg",
+        "img_caption": [
+            "图一 南方Cass原始测绘点"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3方案论证与实施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1Cass软件计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cass 软件的设计理念是基于数字地面模型（也就是Civil3d的曲面)，使用采样线将其切割，生成原地面线。然后按照用户设定的横断面图，将其放置到采样线的位置，使其和原地面线相交，生成一个横断面线，然后软件自动测量其断面面积，标注到断面图下面。工程量的计算是按照传统的断面法进行计算的。（就是【面积 $\\mathrm { A ^ { + } }$ 面积B】/ $^ { \\prime } 2 *$ 断面间距，然后累加而来)。以清淤数据生成数字模型为例，Cass 软件的操作流程是：展高程点-建立DTM-生成三角网-过滤三角形-生成等高线-删除所有三角形，通过上述步骤生成完整曲面。清淤过程控制中土方计算方法主要应用方格网法，工程量采用南方Cass方格网法 $3 0 \\mathrm { m * 3 0 \\mathrm { m } }$ 计算（不计量边坡、超挖)，根据船舶测绘的坐标点和高程，生成原始地貌，计算前后两次测量的差值得到挖填方量。（如图二）",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1eaca11b75912c7cc53dccf6b17eea1a3cf7dcc413c1d6e9d09fa30e690c6acc.jpg",
+        "img_caption": [
+            "图二南方Cass计算土方量"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 Civil3d软件计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Civil3d的设计理念是利用各种三维数据源构建地形曲面。在土方量计算中，土方量就是曲面与曲面的叠加，计算出每一个高程点的z值之差，利用精确的几何计算模型来计算。主要操作流程是：创建空曲面-添加数字文件-在曲面特性里面过滤不符合实际的三角形-通过Civil3d的数据导入功能将各点的高程展绘到图上-建立三角网体量曲面并生成三维模型。此曲面是由基准曲面和对照曲面中的点组合而成。它提供了基准面和对照曲面之间的精确差异。体量曲面中的任何点的Z值都等于对照曲面和基准曲面在该点的Z值之差。此方法将给出两个曲面定义之间的精确体积测量值，生成体积报告，如图（三）",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b6dec10bd96e0c55148fb11737e6e9dcadde1c64385f987c683a1cde30735c5.jpg",
+        "img_caption": [
+            "图三civil3d模型及土方量"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4Cass软件与civil3d技术优劣分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cass 软件本身存在很大的局限性，计算纯挖方、纯填方很方便，但是遇到在中心线单侧半挖半填的情况就比较困难。不能使横断面的下部沿着用户自定义的规则进行变化（例如沿着某一纵断面、沿着某一高程点等)，也就是说它只能局限于从设计高程到原地面之间生成横断面，不能分类统计工程量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Civil3d的使用范围就很广泛，它不局限于纯挖方和纯填方。它的横断面设计功能很强大，Autodesk公司专门开发了符合中国本土设计习惯的本地化包，可以让用户随心所欲的创造出自己想要的断面形状，分类生成曲面、统计工程量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5对比结论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对Civil3d与南方Cass的对比，得出以下结论：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）Civi13D最有价值的部分是三维数字地形模型。利用数字地面模型，既可直观的查看场地的三维效果、计算土方量、平纵横断面绘制等设计与计算功能；南方Cass计算方法简便快捷，易于掌握。更重要的是，应用此方法可以简化步骤，大大较少工作量。从而大幅降低作业人员的劳动强度，提高了工作效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）Civil3d中土方量提供多种计算方式，但是特有的曲面复合算法使得通过地形模型即能算土方，更适用于大规模，精细的土方计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3)南方Cass 可以一次计算出设计面或施工后不是在同一个平面的情况下的土方，在实际工作中具有非常广泛的应用价值。而Civil3d 给设计者提供了丰富和强大的设计工具，大大提高了设计者的工作效率，同时也对测绘提出了更高的要求，以往提供的二维图形数据已经不能满足设计部门的需要，提供能直接用于设计的三维数据是迫在眉睫的需要，也是未来发展的必然趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Autodeskcivil3d 软件作为一款新的土木及基础设施建设软件，以其所具有的优越性在土木及基础设施建设领域应用日益广泛，在生产实践中还需要不断总结，进一步拓展其应用空间，为工程建设做出更大贡献。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献：［1］AutodeskCivil3D在土地开发工程中的应用［期刊论文］《科技展望》，2016 年 梅长青",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[2]试分析土方量常见计算方法［期刊论文]《建筑工程技术与设计》,2016年 李权星",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[3］浅析AutodeskCivil3D在道路设计和施工测量中的应用［期刊论文]《城市建设理论研究（电子版)》，2012年刘子健",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[4]由任意点坐标计算对应中桩里程的算法及程序［期刊论文］《山西建筑》，2008 年 黄新赞",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[5]张圆．三维总图设计理论及其应用研究[D].西安建筑科技大学,2009.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "On the Application of Civil 3D and Southern Cass in Qianhai ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Spreading Project ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Su Wei (Shenzhen Deepwater Water Consulting Co., Ltd., Shenzhen, Guangdong 51803) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract: the science and technology of surveying and mapping in China has been transformed and crossed from traditional surveying and mapping to digital surveying and mapping，and new technologies and methods are emerging. In this paper, we compare the southern Cass and civil 3D methods for the dredging project. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Keywords: dredging, civil 3D, South Cass, surface, earthwork calculation; ",
+        "page_idx": 3
+    }
+]

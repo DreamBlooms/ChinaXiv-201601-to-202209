@@ -1,0 +1,184 @@
+# 复方短效口服避孕药应用中不定期出血的管理
+
+马淼 唐瑞怡 陈蓉
+
+中国医学科学院 北京协和医学院 北京协和医院妇产科，北京100730通信作者 陈蓉 电话：010－69155012，邮箱：chenrongpumch $@$ 163.com【摘要】不定期出血(unscheduled bleeding)是复方短效口服避孕药应用期间女性停药的常见原因。不定期出血的充分告知，以及必要的预防和治疗，能够提高女性口服避孕药的依从性。但是，目前关于不定期出血的机制尚不明确，且缺乏高级别证据支持的有效预防和治疗方法。对于新发或持续性不定期出血妇女，排除妇科疾病很重要。
+
+【关键词】 复方短效口服避孕药；不定期出血；管理
+
+【中图分类号】：R715.2
+
+Management of unschedualed bleeding in women using combined oral contraceptive
+
+MA Miao， TANG Rui-yi， CHEN Rong   
+Department of Obstetrics & Gynecology,Peking Union Medical College Hospital,   
+Peking Union Medical College/ Chinese Academy of Medical Sciences,Beijing 100730 Corresponding author: CHEN Rong Tel: 010-69155012 E-mail: chenrongpumch@163.com
+
+【Abstract】 Unscheduled bleeding is a common cause of discontinuation during the using of combined oral contraceptive. Compliance can be improved by appropriate counselling of women about the possibility of unscheduled bleeding, as well as the necessary prevention and treatment. The mechanisms underlying this bleeding are not fully understood.There is little evidence from high-level evidence on clinical strategies for the management of unscheduled bleeding associated with the use of COC.Persistent or new-onset unscheduled bleeding, the exclusion of gynecological pathology is very important.
+
+【Key words】 combined oral contraceptive; unscheduled bleeding; management
+
+复方短效口服避孕药（combined oralcontraceptive，COC）具有高效、简便、可逆等优点，临床上被广泛用于避孕。女性停用COC的一个常见原因是对子宫出血量、持续时间、出现时机的不满意。最令女性困扰的子宫出血是不定期出血（unscheduled bleeding）。对于口服COC的妇女，预防或治疗不定期出血可增加避孕措施的可接受性和依从性，从而获得更好的避孕效果。关于口服COC 期间不定期出血的可能原因、临床管理和处理方法尚无共识，因此，本文将就这些问题复习文献分别展开论述。
+
+# 一、复方短效口服避孕药简介
+
+复方短效口服避孕药（combinedoralcontraceptive，COC），是含有高效孕激素和低剂量雌激素的复方制剂[1]。正确使用COC，避孕的有效率可达 $9 9 \%$ 以上[。除此以外，COC 还能提供诸多非避孕获益，例如治疗异常子宫出血、经前期综合征、女性痤疮、多毛、痛经、子宫内膜异位症等[2]。
+
+从第1个COC“Enovid”上市至今，COC已有超过50年的发展历史。COC不断改善安全性、有效性及可接受性[1.3]，主要表现在以下三个方面，同时也可根据以下三个方面将COC 划分为不同种类：(1)降低雌激素的剂量：由 $1 5 0 \mu \mathrm { g }$ 减少到 $3 0 { - } 3 5 { \mu \mathrm { g } }$ ，甚至 $2 0 \mu \mathrm { g }$ ；(2)开发和应用新型孕激素：目前有第1代（醋酸炔诺酮、双醋炔诺醇等）、第2代（诺酮、左炔诺孕酮）、第3代（去氧孕烯、孕二烯酮等）及未分类孕激素（屈螺酮、醋酸环丙孕酮）；(3)改进COC 给药方案：目前有单相片、双相片（孕激素为两个剂量，雌激素一个剂量）和三相片（雌孕激素三个剂量），以适应月经周期中激素水平的波动变化。
+
+目前被广泛应用的是标准的28天周期方案避孕药，除此以外，美国食品药品管理局还通过了91天延长使用方案的避孕药[4和365天持续使用方案的避孕药5]。不管是传统的周期用药，还是延长或持续性用药，研究证明都是安全和有效的[]。
+
+# 二、不定期出血的定义、原因及发生机制
+
+预期出血，或撤退性出血，是指在口服COC时，不管用药方案如何，在未使用避孕药期间发生的任何出血。预期出血有可能持续至下一个用药周期的第1-4 日[7]。不定期出血(unscheduled bleeding)，也有西方学者称其为"突破性出血(breakthoughbleeding)”。不定期出血经常发生在口服COC 的前三个月。目前国内外均缺乏不定期出血的统一定义。2005年在美国费城举办的“激素避孕试验方法共识会议”上，推荐的定义为：不管用药方案及持续时间，正在口服避孕药时的任何出血，需除外以下两种情况：(1)第一个用药周期第1d至第7d的出血；(2)从停药间期开始并持续至下一个用药周期的第1d至第 4d 的出血[7]。
+
+有统计数据显示，COC用药期间不定期出血最常见的原因为药物漏服[8]。除此以外，可能为生殖道来源的器质性疾病、性传播疾病及意外怀孕。
+
+关于不定期出血的确切机制暂不明确。在规范用药前提下，并排除妊娠、其它器质性病变等因素导致不定期出血的基础上，目前研究认为可能的原因有：(1)基质金属蛋白酶（MatrixMetalloproteinases,MMPs）表达上调。MMPs是一组锌依赖的蛋白酶，主要集中在基质细胞和邻近的细胞外基质，降解细胞外基质糖蛋白酶类，在正常月经期降解内膜组织，使月经来潮。有研究表明结果，在发生不定期出血的女性子宫内膜组织中，MMPs表达会出现上调[9,10]；(2)内膜浅表血管的脆性变化、内膜局部变化、结构整体性及组织灌注等的改变[1]；(3)体内雌激素浓度较高及卵泡较大。一项研究结果表明，与无不定期出血者相比，不定期出血的女性体内雌激素浓度较高、卵泡结构相对较大[12I； (4)除此以外，吸烟、服用利福平等药物的妇女发生不定期出血可能性增加[13.14]。
+
+# 三、不定期出血的类型
+
+关于口服COC期间不定期出血的分类，不同研究所采用的分类方法不同，目前仍没有统一的分类标准。2009 年在英国皇家妇产科学会与性和生殖健康学院（faculty of sexual and reproductive healthcare,FSRH）合作的“激素避孕妇女不定期出血的管理"指导意见中对不定期出血进行了分类，主要分为以下4种[15]（每90 天为一个参照周期）： (1)频繁出血：出血次数 ${ > } 5$ 次； (2)持续出血：一次或多次出血时间 $| \geq 1 4$ 天； (3)不规律出血：出血次数3-5次， $\geq 1 4$ 天的无出血间期<3次； (4)点滴出血：出血量少，可能不需要使用卫生用品。
+
+# 四、不定期出血妇女的处理
+
+关于不定期出血的妇女的诊治流程及方法，国内外缺乏相关的指南。国外也仅限于不定期出血诊治的指导意见，例如英国皇家妇产科学会与FSRH合作提出的"激素避孕妇女不定期出血的管理"指导意见[15]。几乎所有的指导意见都建议对于COC 临床应用中发生不定期出血的女性，要采用个体化管理原则，在对其进行一系列的临床评估基础上，来决定下一步的检查方法、诊断及治疗措施。在临床处理过程中，排除妇科疾病造成的出血，非常重要。
+
+1.临床评估： (1)采集临床病史：主要包括以下内容： $\textcircled{1}$ 在服用COC之前的出血模式是怎样的？有无不规律阴道出血或经间期出血？ $\textcircled{2}$ 是否正确服用药物，有无漏服？COC 服用周期是按照药物本身推荐的28天（21天服用加7天休息）模式还是延长服用天数？ $\textcircled{3}$ 有无同时服用可能产生相互作用的药物，从而影响了出血模式？ $\textcircled{4}$ 了解有无影响COC 吸收的其他疾病病史； $\textcircled{5}$ 了解不定期出血的天数、出血量及出血次数，发生于COC 服用周期的具体哪个阶段，是一个周期的刚刚开始或是中间或是一个周期即将服用完毕时？ $\textcircled{6}$ 采集其它相关症状（例如有无伴疼痛、性交痛、阴道异常分泌物、出血量多、接触性出血）； $\textcircled{7}$ 同时需了解不定期出血女性所担心的问题及担心程度。
+
+(2)排除性传播感染：如年龄 ${ < } 2 5$ 岁，近期更换新的性伴侣及阴道分泌物发生异常改变，应警惕性传播感染性疾病，尤其是衣原体感染[8。沙眼衣原体不论是在美国还是我国，都是最常见的细菌性性传播疾病，且大部分衣原体感染女性为无症状性，可以表现为不规则阴道出血[16,17]。所以对于性传播感染风险高的女性，应行阴道分泌物检查排除沙眼衣原体感染。
+
+(3)核实宫颈病变筛查：核实不定期出血妇女有无近期宫颈癌前病变筛查结果。若既往有规律的进行宫颈筛查且有近期宫颈筛查结果，则暂不行宫颈筛查[8]。但若行妇科检查时，宫颈外观不佳或有接触性出血时，即使之前有宫颈筛查结果，必要时仍可再次行宫颈筛查。
+
+(4)妊娠试验的必要性：询问末次月经时间，了解有无不正确服用药物、有无同时服用影响药物吸收的相关药物，有无影响COC吸收的相关疾病，必要时行妊娠试验，评估意外妊娠的可能[8]。目前没有证据表明在坚持正确服用COC基础上，并出现不定期出血的女性，其意外妊娠率会增加。
+
+2.症状出现的时间：在开始使用COC前3个月，多达 $30 \%$ 女性会发生不定期出血，第3个月时，该百分率下降至 $10 \%$ 左右[18]。
+
+(1)开始用药前3个月内出现的不定期出血：COC使用前3个月内出现的不定期出血是常见的。FSRH指导意见中提出，在开始用药3个月内出现的不定期出血，可以暂先观察随访，并不需要进行过多的辅助检查和干预措施，一般都可以自行缓解改善，并且不建议立即更改COC种类[15]。
+
+(2)用药时间超过3个月出现的不定期出血：若出血时间超过3个月且不规律、出血模式发生改变、之前未进行过宫颈筛查，或伴有腹痛、性交痛等其它症状，应警惕恶性肿瘤的可能，例如宫颈癌、子宫内膜癌等，可能需行下述的进一步检查方法。在排除妇科器质性疾病导致的持续性出血后，有学者提出建议更改用药方案或换用新的种类COC[19]。
+
+3.进一步检查方法：在上述评估基础上，根据个体化原则，为不定期出血的妇女提供下一步检查方法。 (1)若既往无规律的宫颈筛查报告，且妇科检查时宫颈外观质脆有接触性出血，可行宫颈筛查； (2)若妇女感染风险较高，且有异常的阴道分泌物，可行阴道分泌物检查；(3)若出血时间长、出血量多，可行全血细胞分析，检查有无贫血。在此基础上，若妇科检查触及子宫附件区包块，可行妇科超声检查、盆腔核磁检查等影像学检查； (4)此外，原因不明的持续时间长或出血模式发生改变的的不定期出血，特别是年龄 $\geqslant 4 5$ 岁（或者是合并内膜癌高危因素年龄 $< 4 5$ 岁）女性，建议进一步行宫腔镜检查及内膜活检，宫腔占位病变，如子宫内膜息肉以及内膜不典型增生甚或子宫内膜癌等[8]。
+
+五、不定期出血的预防与干预措施
+
+口服COC期间不定期出血的预防和治疗并不容易。不定期出血预防的最重要措施是提高患者的用药依从性，避免漏服。若为避孕目的口服COC但发生了漏服，不同时间的漏服有相应的应对措施[20]。另外，在开始应用COC 的时机选择也很重要，为达到可靠避孕效果，建议从月经的第 $1 { \sim } 5 \mathrm { d }$ 开始应用。
+
+不定期出血治疗方法非常有限且缺乏高质量证据支持，主要为指导意见，并且其中一些方法仍存在不同程度的争议。适当增加雌激素可以实现更好的周期控制，减少不定期出血。短暂停药对于延长或持续口服COC出现不定期出血的妇女有一定疗效。口服低剂量多西环素、更改孕激素种类和剂量是否能改善不定期出血，存在不同程度的争议。更改COC相型及更改用药方案不能改善不定期出血[3,8,15,20]。
+
+1.不同时间漏服COC的应对：根据“2013年美国避孕方法的选择实践推荐”中关于COC 漏服的应对[20]。
+
+(1)漏服1片COC（漏服时间 $< 4 8$ 小时）：应该尽快服用1片COC并且坚持按时服用剩下的药片（尽管有时可能同一天服用2片COC），不需要其他的避孕保护措施。紧急避孕药并不是必须的，但当漏服的药物发生在服药早期或最后一周，可以服用紧急避孕药。
+
+(2)如果漏服 $\geqslant 2$ 片COC（漏服时间 $\geqslant 4 8$ 小时）：立即补服1片，若剩余药片为7片及以上时，可继续常规服药，同时，需要避孕套等屏障避孕最少7d，或采用紧急避孕；若剩余药物不足7d，可在常规服用完本周期药片后立即服用下个周期的药片。
+
+2.适当增加雌激素含量：FSRH“激素避孕妇女不定期出血的管理”[15]及“2013 年美国避孕方法的选择实践推荐”[20]中均提出适当增加雌激素剂量（如雌激素含量每天增加到 $3 5 \mu \mathrm { g }$ ）可减少不定期出血天数并降低不定期出血发生率。大多数研究结果都是支持这一结论，但仍有小部分研究结果表示不支持。Kaunitz等[21]进行的多中心研究比较含 $2 0 、 2 5 、 3 0 \mu \mathrm { g }$ 炔雌醇COC 的不定期出血发生率，发现雌激素含量越高，不定期出血的发生率越低。一项系统综述[22]中，雌激素含量大于 $2 0 \mu \ g$ 的避孕药相比于含 $2 0 \mu \ g$ 雌激素的避孕药，不定期出血的发生率较低。但是Edelman 等[23]对持续使用COC 妇女进行的随机对照试验（randomizedcontrolled trial,RCT）结果表明，雌激素含量 $3 0 \mu \mathrm { g }$ 与 $2 0 \mu \ g$ 组相比，不定期出血发生率并没有明显差异。
+
+3.短暂停药：延长或持续性应用COC（指持续口服超过21d或24d）的妇女出现不定期出血时，短暂停药3-4天可有效减少不定期出血的天数。Sulak 等[24]将延长应用COC 期间发生不定期出血的女性分成两组，比较继续用药组和短暂停药3天组不定期出血改善情况，发现短暂停药组不定期出血的天数明显减少。
+
+4.口服低剂量多西环素：多西环素是MMPs的抑制剂，理论上来说能预防或减少不定期出血天数，但由于MMPs表达需取子宫内膜组织活检进行检测，且由于很难准确地在出血的时间和位置取到子宫内膜组织[10]，造成相关研究缺乏，实际临床应用较少，其是否能改善不定期出血存在争议[8.20]。Kaneshiro 等[25,26]对持续口服COC女性的RCT发现，连续口服抗菌剂量的多西环素（ $1 0 0 \mathrm { { m g } }$ bid)对于预防及减少不定期出血的天数没有明显作用，但连续口服低剂量多西环素组（20mg bid）组的不定期出血发生率较安慰组低。
+
+5.更改孕激素种类及含量：总的来说，更改孕激素种类或含量是否会改善不定期出血，目前存在争议，但总体倾向于更改孕激素种类或含量不会改善不定期出血[8.15]。一项多中心RCT[27]比较使用含屈螺酮或左炔诺孕酮避孕药期间不定期出血的发生率，结论为含屈螺酮的避孕药不定期出血的发生率更低。一项系统综述的初步统计结果为第三代孕激素使用期间不定期出血的发生率较第二代孕激素低（ $R R 0 . 7 9$ ，95%CI0.60-0.98），但当只纳入符合随机双盲对照研究时，第三代孕激素和第二代孕激素之前没有明显差异（ $R R 0 . 7 9$ ， $9 5 \% C I 0 . 5 0  – 1 . 2 6 )$ ，所以还需要进一步证据支持[28]。另外有研究结果表明更改孕激素剂量不会改善不定期出血。一个小样本RCT将左炔诺孕酮含量为 $9 0 \mu \ g$ 与 $1 0 0 \mu \ g$ 的避孕药进行长期性使用比较，结果发现两组患者在不定期出血的天数方面没有明显差异[26],可能与该研究中设定的剂量差别不大有关。
+
+6.选择三相型口服避孕药：对比单相、双相及三相COC不定期出血发生率差异的文章较少，证据相对缺乏[15]。两项系统性综述[29.30]结果表明，单相与双相、双相与三相COC的不定期出血发生率并无明显差异。
+
+7.更改用药方案：目前，几乎所有的研究结果均提示，延长性应用COC，相比于传统周期性用药方案，在固定期限内的总出血天数减少，但不定期出血天数没有明显减少[15]。一项多中心RCT表明延长用药方案与传统周期性用药相比,不定期出血发生率没有减少[31]。另外一项多中心RCT 结果为，延长用药方案与传统周期性用药相比，不定期出血持续时间没有减少，反而增多[32]。因此在延长用药方案中出现了不定期出血时，首先建议短暂停用。
+
+8.对于较长时间不定期出血的其它处理：如果在规律口服COC3-4个月后，不定期出血仍持续存在不定期出血，需要排除病理或生理性原因。在排除病理性原因后，如果不定期出血仍持续存在，可以建议妇女更换COC 种类[19]。不建议较长时间出血的妇女口服抗生素，因为有回顾性研究指出口服避孕药期间同时服用抗生素，可能会减弱避孕效果，增加避孕失败率，所以限制了抗生素等其它药物在不定期出血治疗过程中的使用[13]。除此以外，对于吸烟、以及有同时服用其它药物的妇女，戒烟及避免不必要药物的同时服用，也可在一定程度上减少长期口服COC妇女的不定期出血的发生[14]。
+
+综上所述，不定期出血是妇女口服复方短效避孕药期间的常见问题。国内外关于不定期出血的定义、分类缺乏统一标准。不定期出血的治疗方法有限且存在不同程度的争议。对于有意愿口服复方短效避孕药的妇女，作为临床医生，要充分告知正确的应用方法及用药过程中可能发生的不定期出血，可改善她们的满意度和依从性，从而可减少意外妊娠的风险。对于已经出现不定期出血的妇女，要根据个体化原则，进行临床评估后做出正确的处理，避免过度干预。
+
+参考文献   
+[1] 复方口服避孕药临床应用中国专家共识专家组．复方口服避孕药临床应 用中国专家共识[J]．中华妇产科杂志,2015,81-91.   
+[2] Maguire K, Westhoff C. The state of hormonal contraception today: established and emerging noncontraceptive health benefits[J]. Am J Obstet Gynecol, 2011, 205: S4-8.   
+[3] Shlomo Melmed M, Kenneth S. Polonsky, MD, P. Reed Larsen, MD, FRCP and Henry M. Kronenberg,MD.Williams Textbook of Endocrinology[J]. Amsterda m:Elsevier, 2015: 664-693.   
+[4] PHARM TB. SEASONALE (ETHINYL ESTRADIOL; LEVONORGESTREL)[P]. US: NDA021544, 2003-09-05.   
+[5] INC WP. LYBREL (ETHINYL ESTRADIOL; LEVONORGESTREL)[P]. US: NDA021864, 2007-05-22.   
+[6] Reid RL, Fortier MP, Smith L, et al. Safety and bleeding profile of continuous levonorgestrel 90 mcg/ethinyl estradiol 20 mcg based on 2 years of clinical trial data in Canada[J]. Contraception,2010, 82: 497-502.   
+[7] Mishell DR, Jr., Guillebaud J,Westhoff C, et al.Recommendations for
+
+standardization of data collection and analysis of bleeding in combined hormone contraceptive trials[J]. Contraception, 2007,75: 11-15.
+
+[8] Lumsden MA,Gebbie A, Holland C.Managing unscheduled bleeding in non-pregnant premenopausal women[J]. BMJ (Online)， 2013, 346.
+
+Galant C, Berliere M, Dubois D,et al. Focal expression and final activity of matrix metalloproteinases may explain irregular dysfunctional endometrial bleeding[J]. Am J Pathol, 2004， 165: 83-94.
+
+[10] Vincent AJ, Zhang J, Ostor A, et al. Matrix metalloproteinase-1 and -3 and mast cells are present in the endometrium of women using progestin-only contraceptives[J]. Hum Reprod,2000, 15: 123-130.
+
+[11] Hickey M, Fraser IS.Clinical implications of disturbances of uterine vascular morphology and function[J]. Baillieres Best Pract Res Clin Obstet Gynaecol, 2000, 14: 937-951.
+
+[12] Endrikat J, Gerlinger C, Plettig K,et al. A meta-analysis on the correlation between ovarian activity and the incidence of intermenstrual bleeding during low-dose oral contraceptive use[J]. Gynecol Endocrinol, 2003, 17: 107-114.
+
+[13] Dickinson BD, Altman RD,Nielsen NH, et al. Drug interactions between oral contraceptives and antibiotics[J]. Obstet Gynecol, 2001, 98: 853-860.
+
+[14] Rosenberg MJ,Waugh MS, Stevens CM. Smoking and cycle control among oral contraceptive users[J]. Am J Obstet Gynecol, 1996, 174: 628-632.
+
+[15] Faculty of Sexual and Reproductive Healthcare. Management of Unscheduled Bleeding in Women Using Hormonal Contraception[M]. UK: Faculty of Sexual and Reproductive Healthcare, 2009.
+
+[16] Centers for Disease Control and Prevention. Sexually Transmitted Disease Surveillance 2015[M]. Atlanta: U.S.Department of Health and Human Services,2016.
+
+[17]Chen XS, Peeling RW, Yin YP,et al. The epidemic of sexually transmitted infections in China: implications for control and future perspectives[J]. BMC Med, 2011, 9: 111.
+
+[1] 复方口服避孕药临床应用中国专家共识专家组.复方口服避孕药临床应用中国专家共识[J].中华妇产科杂志,2015,81-91.
+
+[2] Maguire K, Westhoff C. The state of hormonal contraception today: established and emerging noncontraceptive health benefits[J]. Am J Obstet Gynecol, 2011, 205: S4-8.
+
+[3] Shlomo Melmed M, Kenneth S.Polonsky, MD,P.Reed Larsen,MD, FRCP and Henry M. Kronenberg, MD.Williams Textbook of Endocrinology[J]. Amsterdam:Elsevier, 2015, 664-693.
+
+[4] PHARMTB.SEASONALE(ETHINYL ESTRADIOL; LEVONORGESTREL)(P)[J]. US,NDA021544, 022003-021509-021505.
+
+[5] INC WP.LYBREL (ETHINYL ESTRADIOL; LEVONORGESTREL)(P)[J]. US,NDA021864，022007-021805-021822.
+
+[6] Reid RL, Fortier MP, Smith L,et al. Safety and bleeding profile of continuous levonorgestrel 90 mcg/ethinyl estradiol 20 mcg based on 2 years of clinical trial data in Canada[J]. Contraception, 2010, 82: 497-502.
+
+[7] Mishell DR, Jr., Guillebaud J,Westhoff C, et al. Recommendations for standardization of data collection and analysis of bleeding in combined hormone contraceptive trials[J]. Contraception,2007, 75: 11-15.
+
+[8] Lumsden MA, Gebbie A, Holland C. Managing unscheduled bleeding in non-pregnant premenopausal women[J]. BMJ (Online), 2013, 346:
+
+[9] Galant C, Berliere M, Dubois D, et al. Focal expression and final activity of matrix metalloproteinases may explain irregular dysfunctional endometrial bleeding[J]. Am J Pathol, 2004， 165: 83-94.
+
+[10] Vincent AJ, Zhang J, Ostor A, et al. Matrix metalloproteinase-1 and -3 and mast cells are present in the endometrium of women using progestin-only contraceptives[J]. Hum Reprod,2000,15: 123-130.
+
+[11] Hickey M, Fraser IS.Clinical implications of disturbances of uterine vascular morphology and function[J]. Baillieres Best Pract Res Clin Obstet Gynaecol, 2000, 14: 937-951.
+
+[12] Endrikat J, Gerlinger C, Plettig K,et al. A meta-analysis on the correlation between ovarian activity and the incidence of intermenstrual bleeding during low-dose oral contraceptive use[J]. Gynecol Endocrinol, 2003, 17: 107-114.
+
+[13] Dickinson BD,Altman RD, Nielsen NH, et al. Drug interactions between oral contraceptives and antibiotics[J]. Obstet Gynecol, 2001, 98: 853-860.
+
+[14]Rosenberg MJ,Waugh MS, Stevens CM. Smoking and cycle control among oral contraceptive users[J]. Am J Obstet Gynecol, 1996,174: 628-632.
+
+[15] FSRH.Management of Unscheduled Bleeding in Women Using Hormonal Contraception[DB/OL].[J]. UK, Faculty of Sexual and Reproductive Healthcare Clinical Effectiveness Unit, 2009. https://www.rcog.org.uk/globalassets/documents/guidelines/unschedule dbleeding23092009.pdf.
+
+[16] CDC. Sexually Transmitted Disease Surveillance 2015[DB/OL].[J]. US, Centers for Disease Control and Prevention, 2016. http://www.cdc.gov/std/stats2015/std-surveillance-2015-print.pdf.
+
+[17] Chen XS, Peeling RW, Yin YP,et al. The epidemic of sexually transmitted infections in China: implications for control and future perspectives[J]. BMC Med, 2011,9:111.
+
+Speroff L DP.A Clinical Guide For Contraception, 54th ed[J]. 2011, Hickey M, Agarwal S.Unscheduled bleeding in combined oral contraceptive users: focus on extended-cycle and continuous-use regimens[J]. J Fam Plann Reprod Health Care,2009, 35: 245-248.
+
+[20] U.S.Selected Practice Recommendations for Contraceptive Use, 2013:
+
+adapted from the World Health Organization selected practice recommendations for contraceptive use,2nd edition[J]. MMWR Recomm Rep, 2013,62:1-60.
+
+[21] Kaunitz A, Howard B,Weiss H, et al. Bleeding profile of a novel ascending-dose, extended-regimen ethinyl estradiol/ levonorgestrel combination oral contraceptive (OC)[J]. Contraception, 2013,88: 311-312.
+
+[22] Gallo Maria F, Nanda K, Grimes David A, et al. 20 μg versus >20 μg estrogen combined oral contraceptives for contraception. In: Cochrane Database of Systematic Reviews: John Wiley & Sons, Ltd, 2013.
+
+[23] Edelman AB,Koontz SL, Nichols MD,et al. Continuous oral contraceptives: are bleeding patterns dependent on the hormones given?[J]. Obstet Gynecol, 2006, 107: 657-665.
+
+[24] Sulak PJ, Kuehl TJ, Coffee A, et al. Prospective analysis of occurrence and management of breakthrough bleeding during an extended oral contraceptive regimen[J]. Am J Obstet Gynecol, 2006, 195: 935-941.
+
+[25] Kaneshiro B, Edelman A, Carlson N,et al.Treatment of unscheduled bleeding in continuous oral contraceptive users with doxycycline: a randomized controlled trial[J]. Obstet Gynecol, 2010, 115: 1141-1149.
+
+[26] Kaneshiro B, Edelman A, Carlson NE,et al. Unscheduled bleeding with continuous oral contraceptive pills: a comparison of progestin dose[J] Contraception, 2012, 86: 22-27.
+
+[27]Apter D, Zimmerman Y, Beekman L, et al. Bleeding pattern and cycle control with estetrol-containing combined oral contraceptives: Results from a phase Il, randomised, dose-finding study (FIESTA)[J]. Contraception, 2016,
+
+[28] Lawrie TA, Helmerhorst FM, Maitra NK, et al. Types of progestogens in combined oral contraception: effectiveness and side-effects[J]. Cochrane Database Syst Rev, 2011, CD004861.
+
+[29] Van Vliet HA,Grimes DA,Helmerhorst FM, et al. Biphasic versus monophasic oral contraceptives for contraception: a Cochrane review[J]. Hum Repr0d, 2002, 17: 870-873.
+
+[30] Van Vliet HA,Grimes DA, Helmerhorst FM, et al. Biphasic versus triphasic oral contraceptives for contraception[J]. Cochrane Database Syst Rev, 2006, CD003283.
+
+[31]Anderson FD, Hait H. A multicenter, randomized study of an extended cycle oral contraceptive[J]. Contraception, 2003,68: 89-96.
+
+[32] Wiegratz I, Stahlberg S,Manthey T,et al. Effect of extended-cycle regimen with an oral contraceptive containing 30 mcg ethinylestradiol and 2 mg dienogest on bleeding patterns, safety,acceptance and contraceptive efficacy[J]. Contraception, 2011, 84: 133-143.

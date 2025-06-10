@@ -1,0 +1,574 @@
+[
+    {
+        "type": "text",
+        "text": "一种基于协方差矩阵重构和EMP的宽带波束形成算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "毛睿达，李骥阳，罗明",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西安电子科技大学 电子信息攻防对抗与仿真技术教育部重点实验室，西安 710071)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在宽带波束形成中，若干扰信号从主瓣方向进入，会引起主瓣畸变、旁瓣电平抬高，从而使波束性能严重恶化。为了解决波束形成中的这些问题，研究了一种基于协方差矩阵重构和特征投影预处理（EMP）的宽带波束形成算法。该算法首先通过EMP 算法求取阻塞矩阵，对接收信号进行干扰相消预处理阻塞掉主瓣干扰；然后通过相干信号子空间（CSM）方法、协方差矩阵重构求取合理的协方差矩阵；最后进行波束形成。在主瓣干扰、旁瓣干扰同时存在的情况下，该算法能够自适应地阻塞主瓣干扰、抑制旁瓣干扰，解决了存在主瓣干扰情况下宽带波束形成的波形畸变问题。计算机仿真验证了该算法有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：宽带波束形成；主瓣干扰；特征投影预处理；协方差矩阵重构中图分类号：TN958.92",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Broadband beamforming algorithm based on covariance matrix reconstruction and EMP ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mao Ruida, Li Jiyang,Luo Ming (KeyLaboratoryofElectronicInformationCountermeasure&SimulationTechnologyMinistryofEducation,XidianUniversity Xi'an 710071, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Mainlobe interferencecancausethedistortionof themainlobeandtheincreaseofthe sidelobelevelin broadband beamforming.This paperdevelopedabroadbandbeamformingalgorithmbasedonEMP(eigen-projection procesing)algorithm andcovariancematrixreconstructionThisalgorithmconstructedablockingmatrix,preprocessdtheechosignal.,thenobtained an appropriatecovariancematrix,finall formedbeam.Thisalgorithmcouldblock the mainlobe interferenceand suppressed thesidelobe interferenceand solvedtheproblemofwaveform distortioninthepresenceof mainlobe interferenceandsidelobe interference. Simulation verify the effectiveness of the algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:broadband beamforming; mainlobe interference; EMP; covariance matrix reconstruction ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宽带波束形成算法广泛应用于雷达、通信、电子对抗等领域[1\\~3]。近些年来许多学者针对旁瓣干扰提出了很多抑制旁瓣干扰的波束形成算法。文献[4]讨论了稀疏阵列的抑制旁瓣干扰算法，文献[5]研究了基于干扰噪声矩阵Capon波束形成使阵列具有更高的输出信干噪比，文献[6,7]分别应用压缩感知和稳健Capon 算法提高了输出信干噪比且算法具有稳健性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "波束形成中若干扰信号从主瓣方向进入，波束形成就会出现两个严重问题：a)旁瓣电平抬高；b)主波束严重变形。文献[8]针对上述问题提出了两种阻塞主瓣干扰的方法：a)基于阻塞矩阵预处理（BMP）的波束形成；b)基于特征投影预处理（EMP）的波束形成。其中BMP算法存在一些缺陷：旁瓣较高，并且对主瓣干扰的估计角度要求严格；而 EMP算法也存在波峰偏移的缺点。文献[9]就文献[8]EMP 算法的一些问题作出了一些改进，解决了波峰偏移的问题。对于主瓣干扰下宽带波束的研究，文献[10]给出了一种处理方法，但是该方法旁瓣电平很高，这将导致虚警概率的急剧上升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文针对文献[8]中 EMP 算法存在的波峰偏移的问题进行了协方差矩阵重构，并且将EMP算法应用到了宽带信号上。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 宽带信号模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "假设有 $\\mathbf { \\dot { \\omega } } _ { N }$ 个均匀分布的阵元。信号源总个数为 $D$ 个，它们具有相同的带宽 $B$ ，噪声为高斯白噪声且与源信号具有相同的带宽。阵列输出数据向量 ${ \\bf \\nabla } \\cdot { \\bf \\nabla } \\mathbf { x } ( t )$ 如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { x } ( t ) = [ x _ { 1 } ( t ) , \\cdots , x _ { N } ( t ) ] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经过快速离散傅里叶变换（DFT）分解为j子频带。在中心频率为f的子频带上的数据向量可表示为",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX { \\big ( } f _ { j } { \\big ) } = A { \\big ( } f _ { j } { \\big ) } \\cdot S { \\big ( } f _ { j } { \\big ) } + N { \\big ( } f _ { j } { \\big ) } j = 1 , 2 , \\cdots , J\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $f _ { j }$ 为第 $j$ 个子频带信号的中心频率； $\\pmb { X } \\big ( \\mathrm { f } _ { j } \\big ) \\sharp \\mathtt { N } \\times 1$ 子带接收信号向量； $s ( f _ { j } )$ 为信号在第 $j$ 个子频带的谱分量； $N \\big ( \\mathrm { f } _ { j } \\big )$ 为 $N \\times 1$ 向量，为噪声在 $f _ { j }$ 处的谱向量； $A \\left( \\mathrm { f } _ { j } \\right) =$ $[ { \\pmb a } ( \\theta _ { 1 } , f _ { j } ) , { \\pmb a } ( \\theta _ { 2 } , f _ { j } ) , \\cdots , { \\pmb a } ( \\theta _ { D } , f _ { j } ) ]$ 为第 $f _ { j }$ 个子频带内信号的方向矩阵， $\\begin{array} { r l } { { \\pmb a } ( \\theta _ { i } , f _ { i } ) = [ 1 , e ^ { - j 2 \\pi ( d / \\lambda ) \\sin \\theta _ { i } } , \\cdots } & { { } , e ^ { - j 2 \\pi ( d / \\lambda ) ( N - 1 ) \\sin \\theta _ { i } } ] ^ { \\mathrm { T } } . } \\end{array}$ $\\theta _ { i }$ 为第i个信号相对于阵元的入射角， $i = 1 , 2 , \\dots , D$ ， $D$ 为信号源总个数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 子频带干扰相消预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设空间中有 $P$ 个旁瓣方向干扰信号，一个主瓣方向干扰信号，则第j个子频带只包含干扰和噪声的协方差矩阵为 ${ \\bf \\nabla } \\cdot { \\bf \\delta } _ { R _ { X } } ( f _ { j } )$ ，特征值分解如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\pmb { R } _ { X } \\big ( f _ { j } \\big ) = \\sum _ { i = 1 } ^ { N } \\lambda _ { i } \\pmb { u } _ { i } \\pmb { u } _ { i } ^ { H } = \\pmb { U } _ { s } \\pmb { \\Lambda } _ { s } \\pmb { U } _ { s } ^ { H } + \\pmb { U } _ { m } \\pmb { \\Lambda } _ { m } \\pmb { U } _ { m } ^ { H } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda _ { i } ( i = 1 , 2 , \\dots , N )$ 是协方差矩阵 $\\pmb { R } _ { X } ( f _ { j } )$ 的特征值，且 $\\lambda _ { 1 } \\geq$ $\\lambda _ { 2 } \\geq \\cdots \\geq \\lambda _ { P } \\geq \\lambda _ { P + 1 } \\geq \\cdots \\lambda _ { N } ; { \\pmb u } _ { i }$ 为与特征值 $\\lambda _ { i }$ 对应的特征向量，（20 ${ \\pmb u } _ { 1 } , { \\pmb u } _ { 2 } , \\cdots , { \\pmb u } _ { P + 1 }$ 张成干扰子空间， ${ \\pmb u } _ { P + 2 }$ ， $\\pmb { u } _ { P + 3 } , \\cdots , \\pmb { u } _ { N }$ 张成噪声子空间，而 $\\pmb { U } _ { s } = [ \\pmb { u } _ { 1 } , \\pmb { u } _ { 2 } , \\cdots , \\pmb { u } _ { P + 1 } ] ,$ （204号 $A _ { s } =$ $d i a g ( \\lambda _ { 1 } , \\lambda _ { 2 } , \\cdots , \\lambda _ { P + 1 } ) , U _ { n } = [ { \\pmb u } _ { P + 2 } , { \\pmb u } _ { P + 3 } , \\cdots , { \\pmb u } _ { N } ] , ~ \\pmb u _ { n } =$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$d i a g ( \\lambda _ { P + 2 } , \\lambda _ { P + 3 } , \\cdots , \\lambda _ { N } )$ 。在实际中， ${ \\pmb R } _ { X } \\big ( f _ { j } \\big )$ 可以用实际接收信号的协方差矩阵 $\\widehat { \\pmb { R } } _ { X } \\big ( f _ { j } \\big )$ 代替，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\widehat { \\pmb { R } } _ { X } \\big ( f _ { j } \\big ) = \\frac { 1 } { K } \\sum _ { k = 1 } ^ { K } { \\pmb { X } \\big ( f _ { j } \\big ) \\pmb { X } \\big ( f _ { j } \\big ) ^ { \\mathrm { H } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$K$ 表示训练快拍数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则第j个信道的阻塞矩阵 $B ( f _ { j } )$ 可以用式（5）表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB \\big ( f _ { j } \\big ) = I - { \\pmb u } _ { m } ( { \\pmb u } _ { m } ^ { H } { \\pmb u } _ { m } ) ^ { - 1 } { \\pmb u } _ { m } ^ { H }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pmb { u } _ { m }$ 表示主瓣干扰所对应的特征向量，并且 $\\boldsymbol { { \\cal I } }$ 是 $N \\times N$ 的单位阵。 $\\pmb { u } _ { m }$ 由式（6）确定：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| \\rho \\left( u _ { m } , \\pmb { a } \\left( \\theta _ { s } , f _ { j } \\right) \\right) \\right| = \\operatorname* { m a x } _ { \\pmb { u _ { i } } } \\left| \\rho \\left( \\pmb { u _ { i } } , \\pmb { a } \\left( \\theta _ { s } , f _ { j } \\right) \\right) \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\rho ( \\pmb { a } _ { 1 } , \\pmb { a } _ { 2 } )$ 表示向量 $\\mathbf { { a } } _ { 1 } , \\mathbf { { a } } _ { 2 }$ 的相关系数被定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\rho ( { \\pmb a } _ { 1 } , { \\pmb a } _ { 2 } ) \\triangleq \\frac { { \\pmb a } _ { 1 } ^ { H } { \\pmb a } _ { 2 } } { \\| { \\pmb a } _ { 1 } \\| \\| { \\pmb a } _ { 2 } \\| } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pmb { a } ( \\theta _ { s } , f _ { j } )$ 表示期望信号在方向 $\\theta _ { s }$ 频率 $f _ { j }$ 上的导向向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对中心频率为 $f _ { j }$ 子频带接收信号干扰相消预处理后信号为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\mathrm { b } } \\left( f _ { j } \\right) = B \\left( f _ { j } \\right) X \\left( f _ { j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $X ( f _ { j } )$ 可以看成多个空间信号合成，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { X \\big ( f _ { j } \\big ) = a \\big ( \\theta _ { s } , f _ { j } \\big ) s \\big ( \\theta _ { s } , f _ { j } \\big ) + \\sum _ { \\mathrm { i } = 1 } ^ { P + 1 } a \\big ( \\theta _ { i } , f _ { j } \\big ) s ( \\theta _ { i } , f _ { j } ) + N \\big ( f _ { j } \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $s ( \\theta _ { s } , f _ { j } )$ 表示期望信号在 $j$ 个信道的复包络， $s ( \\theta _ { P + 1 } , f _ { j } )$ 表示主瓣干扰在j个信道的复包络， $s \\big ( \\theta _ { i } , f _ { j } \\big ) ( j = 1 , 2 , \\cdots , P )$ 表示旁瓣干扰的复包络。式（10)为经过干扰相消预处理后的信号，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle Y _ { \\mathrm { b } } \\big ( f _ { j } \\big ) = \\sum _ { i = 1 } ^ { P } \\bigl [ a \\big ( \\theta _ { i } , f _ { j } \\big ) - { \\boldsymbol { u } } _ { m } ( { \\boldsymbol { u } } _ { m } { } ^ { H } { \\boldsymbol { u } } _ { m } ) ^ { - 1 } { \\boldsymbol { u } } _ { m } { } ^ { H } { \\boldsymbol { a } } \\big ( \\theta _ { i } , f _ { j } \\big ) \\bigr ] s ( \\theta _ { i } , f _ { j } ) } } \\\\ { { \\displaystyle \\qquad + \\big [ a \\big ( \\theta _ { s } , f _ { j } \\big ) - { \\boldsymbol { u } } _ { m } ( { \\boldsymbol { u } } _ { m } { } ^ { H } { \\boldsymbol { u } } _ { m } ) ^ { - 1 } { \\boldsymbol { u } } _ { m } { } ^ { H } { \\boldsymbol { a } } \\big ( \\theta _ { s } , f _ { j } \\big ) \\big ] s \\big ( \\theta _ { s } , f _ { j } \\big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ \\big [ { \\pmb a } \\big ( \\theta _ { P + 1 } , f _ { j } \\big ) - { \\pmb u } _ { m } ( { \\pmb u } _ { m } ^ { { \\cal H } } { \\pmb u } _ { m } ) ^ { - 1 } { \\pmb u } _ { m } ^ { { \\cal H } } { \\pmb a } \\big ( \\theta _ { P + 1 } , f _ { j } \\big ) \\big ] \\mathrm { s } \\big ( \\theta _ { P + 1 } , f _ { j } \\big ) \\big |\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overline { { N } } \\big ( f _ { j } \\big ) = B \\big ( f _ { j } \\big ) N \\big ( f _ { j } \\big ) .$ 为预处理后的噪声。由于 $\\pmb { u } _ { m }$ 为主瓣干扰对应的特征向量可知",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb u } _ { m } ^ { ~ H } { \\pmb a } \\big ( \\theta _ { i } , f _ { j } \\big ) \\approx 0 ~ i = 1 , 2 , \\cdots P\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { u } _ { m } ( \\pmb { u } _ { m } ^ { \\cal H } \\pmb { u } _ { m } ) ^ { - 1 } \\pmb { u } _ { m } ^ { \\cal H } \\pmb { a } \\bigl ( \\theta _ { P + 1 } , f _ { j } \\bigr ) \\approx \\pmb { a } \\bigl ( \\theta _ { P + 1 } , f _ { j } \\bigr )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可知预处理后子频带的信号向量为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\mathrm { b } } \\big ( f _ { j } \\big ) = a \\big ( \\theta _ { s } , f _ { j } \\big ) s \\big ( \\theta _ { s } , f _ { j } \\big ) + \\sum _ { \\mathrm { i } = 1 } ^ { P } a \\big ( \\theta _ { i } , f _ { j } \\big ) s ( \\theta _ { i } , f _ { j } ) + \\overline { { N } } \\big ( f _ { j } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可以看出经过子频带干扰相消预处理后，第 $j$ 个子频带阵列接收数据中的主瓣干扰成分被阻塞，旁瓣干扰成分被保留下来，方便下一部分波束形成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 聚焦处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本算法采用文献[11]中的RSS（旋转子空间)算法求解聚焦矩阵。在 RSS 算法中 $\\pmb { T } \\big ( f _ { j } \\big ) = \\pmb { V } \\big ( f _ { j } \\big ) \\pmb { U } ^ { H } ( f _ { j } )$ ，其中： $\\pmb { V } ( f _ { j } )$ 为$\\pmb { A } ( f _ { 0 } , \\theta _ { s } ) \\pmb { A } ^ { H } ( f _ { j } , \\theta _ { s } )$ 的左奇异向量； $\\mathbf { U } \\left( f _ { j } \\right) \\dot { \\mathcal { H } } A ( f _ { 0 } , \\theta _ { s } ) A ^ { H } ( f _ { j } , \\theta _ { s } )$ 的右奇异向量, $\\theta _ { s }$ 为期望信号的方向。其中：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA \\big ( f _ { j } , \\theta _ { s } \\big ) = \\left[ 1 , e ^ { - j 2 \\pi \\left( \\frac { d } { \\lambda _ { i } } \\right) s i n \\theta _ { s } } , \\cdots , e ^ { - j 2 \\pi \\left( M - 1 \\right) \\left( \\frac { d } { \\lambda _ { i } } \\right) s i n \\theta _ { s } } \\right] ^ { H }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA ( f _ { 0 } , \\theta _ { s } ) = [ 1 , e ^ { - j 2 \\pi \\left( { \\frac { d } { \\lambda _ { 0 } } } \\right) s i n \\theta _ { s } } , \\cdots , e ^ { - j 2 \\pi ( M - 1 ) \\left( { \\frac { d } { \\lambda _ { 0 } } } \\right) s i n \\theta _ { s } } ] ^ { H }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "聚焦后第j个信道最终的输出为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { Y } \\big ( f _ { j } \\big ) = \\pmb { T } \\big ( f _ { j } \\big ) \\left( \\pmb { B } \\big ( f _ { j } \\big ) \\pmb { X } \\big ( f _ { j } \\big ) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此时的信号协方差矩阵为 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { R } _ { Y } \\big ( f _ { j } \\big ) = \\pmb { Y } \\big ( f _ { j } \\big ) \\pmb { Y } ^ { H } \\big ( f _ { j } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 协方差矩阵重构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先如若采用文献[12]中经典的SMI（采样矩阵求逆）算法求取权向量，第j个子频带自适应权向量为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\pmb { w } _ { j } = \\frac { \\pmb { R } _ { Y } ( f _ { j } ) ^ { - 1 } \\pmb { a } \\left( \\theta _ { s } , f _ { j } \\right) } { \\pmb { a } ( \\theta _ { s } , f _ { j } ) ^ { \\pmb { H } } \\pmb { R } _ { Y } ( f _ { j } ) ^ { - 1 } \\pmb { a } ( \\theta _ { s } , f _ { j } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设 $\\mathbf { \\nabla } \\cdot \\mu = 1 / \\pmb { a } ( \\theta _ { s } , f _ { j } ) ^ { H } \\pmb { R } _ { Y } ( f _ { j } ) ^ { - 1 } \\pmb { a } ( \\theta _ { s } , f _ { j } )$ ，经过对协方差矩阵进行特征值分解，式（18）可以写为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { w } _ { j } = \\mu \\sum _ { i = 1 } ^ { N } \\frac { 1 } { \\lambda _ { i } } \\pmb { u } _ { i } \\pmb { u } _ { i } ^ { H } \\pmb { a } \\big ( \\theta _ { s } , f _ { j } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathbf { \\Phi } } & { { } = \\frac { \\mu } { \\lambda _ { m i n } } \\Big [ \\pmb { a } \\big ( \\theta _ { s } , f _ { j } \\big ) - \\sum _ { i = 1 } ^ { N } \\frac { \\lambda _ { i } - \\lambda _ { m i n } } { \\lambda _ { i } } \\pmb { u } _ { i } \\pmb { u } _ { i } ^ { H } \\pmb { a } \\big ( \\theta _ { s } , f _ { j } \\big ) \\Big ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "并求其自适应方向图得到",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { F } _ { a } \\big ( \\theta , f _ { j } \\big ) = \\boldsymbol { w _ { j } } ^ { H } \\mathbf { a } \\big ( \\theta , f _ { j } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathrm { ~ } } & { { } = \\frac { \\mu } { \\lambda _ { m i n } } \\Bigl \\{ F _ { q } \\bigl ( \\theta , f _ { j } \\bigr ) - \\sum _ { i = 1 } ^ { N } \\frac { \\lambda _ { i } - \\lambda _ { m i n } } { \\lambda _ { i } } \\bigl [ \\boldsymbol { a } \\bigl ( \\theta _ { s } , f _ { j } \\bigr ) ^ { H } \\boldsymbol { u } _ { i } \\bigr ] F _ { i } \\bigl ( \\theta , f _ { j } \\bigr ) \\Bigr \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$F _ { a } \\left( \\theta , f _ { j } \\right)$ 为第j个子频带中的自适应方向图； $F _ { q } ( \\theta , f _ { j } )$ 为静态方向图; $\\pmb { F } _ { i } ( \\theta , f _ { j } )$ 为特征波束，且 $\\boldsymbol { F } _ { q } \\big ( \\theta , f _ { j } \\big ) = \\pmb { a } ( \\theta _ { s } , f _ { j } ) ^ { H } \\pmb { a } ( \\theta , f _ { j } )$ $F _ { i } \\bigl ( \\theta , f _ { j } \\bigr ) = { \\pmb u _ { i } } ^ { H } { \\pmb a } ( \\theta , f _ { j } ) , F _ { i } \\bigl ( \\theta , f _ { j } \\bigr ) ( i = 1 , 2 , \\cdots , P + 1 )$ 为 $P + 1$ 个干扰对应的特征波束， $F _ { i } ( \\theta , f _ { j } )$ 在第i个干扰信号方向上的增益最大，在其他干扰方向增益为零; $\\lambda _ { m i n }$ 为协方差矩阵 $\\pmb { R } _ { Y } ( f _ { j } )$ 的最小特征值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $\\lambda _ { i }$ 为干扰信号 $( i = 1 , 2 , \\cdots , P + 1 )$ 对应的特征值时， $\\lambda _ { i }$ 要大于 $\\cdot \\lambda _ { m i n }$ ，因此可以得到",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\lambda _ { i } - \\lambda _ { m i n } } { \\lambda _ { i } } \\approx 1 \\quad i = 1 , \\cdots , P + 1 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以看出特征向量 $\\lambda _ { \\mathrm { i } }$ 在它对应干扰方向上形成了零陷。而若将 $\\cdot \\lambda _ { \\mathrm { i } }$ 设为噪声对应的特征值时 $( i = P + 2 , P + 3 , \\cdots , N )$ ， $\\lambda _ { \\mathrm { i } }$ 与 $\\lambda _ { \\operatorname* { m i n } }$ 相近，因此",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\lambda _ { i } - \\lambda _ { m i n } } { \\lambda _ { i } } \\approx 0 \\quad i = P + 2 , \\cdots , N } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以假如把主瓣干扰特征值改为噪声特征值，这样求出的权向量受到主瓣干扰的影响，从而避免波峰偏移的问题。在本文算法中，如式（23）所示，主瓣干扰对应的特征值 $\\lambda _ { m }$ 设为噪声特征值的均值 $\\tilde { \\lambda } _ { m }$ ，从而将主瓣干扰特征值降为背景噪声的水平，主瓣干扰特征值对权向量影响就不存在了。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\tilde { \\lambda } _ { m } = \\tilde { \\sigma } _ { n } ^ { 2 } = \\frac { \\lambda _ { P + 2 } + \\cdots \\lambda _ { N } } { N - P - 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\tilde { \\sigma } _ { n } ^ { 2 }$ 表示噪声特征值的平均。因为噪声对应的特征值会产生扰动，这会使天线方向图旁瓣抬高，影响波束形成性能，所以为了消除噪声抖动，将协方差矩阵噪声特征值修改为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\lambda } _ { P + 2 } = \\dots = \\tilde { \\lambda } _ { N } = \\tilde { \\sigma } _ { n } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以得出第 $j$ 个子频带协方差矩阵可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { \\pmb { R } } _ { Y } \\big ( f _ { j } \\big ) = \\pmb { U } \\widetilde { \\pmb { A } } \\pmb { U } ^ { H }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：4为重构后的特征值矩阵，且",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { \\cal A } = \\mathrm { d i a g } \\big ( \\lambda _ { 1 } , \\cdots , \\widetilde { \\lambda } _ { m } , \\cdots , \\lambda _ { P + 1 } , \\widetilde { \\sigma } _ { n } ^ { 2 } , \\cdots , \\widetilde { \\sigma } _ { n } ^ { 2 } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本算法中特征向量并没有发生改变，经过聚焦处理后协方差矩阵为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\widetilde { \\pmb { R } } _ { Y } = \\frac { 1 } { J } \\sum _ { i = 1 } ^ { J } T \\big ( f _ { j } \\big ) \\widetilde { \\pmb { R } } _ { Y } ( f _ { j } ) T \\big ( f _ { j } \\big ) ^ { H } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据MVDR（最小方差无畸变响应）算法，求得宽带波束形成的权向量为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { \\pmb w } ( f _ { 0 } ) = \\widetilde { \\mu } \\widetilde { \\pmb R } _ { Y } ^ { - 1 } { \\pmb a } ( \\theta _ { s } , f _ { 0 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\widetilde { \\mu } = 1 / \\pmb { a } ( \\theta _ { s } , f _ { 0 } ) ^ { H } \\pmb { U } \\widetilde { \\pmb { A } } ^ { - 1 } \\pmb { U } ^ { H } \\pmb { a } ( \\theta _ { s } , f _ { 0 } )$ 为一标量。可以看出在求取权向量时，主瓣干扰特征值的影响已经消除，因此权向量不会使天线方向图产生波峰偏移。4为对角阵，所以对其求逆仅仅只是对角元素的倒数。因此不用进行复杂的矩阵求逆运算，运算量比矩阵求逆降低了许多。阵列最终频域输出为 $\\pmb { Z } ( \\mathrm { f } ) =$ $[ \\widetilde { \\pmb { w } } ( f _ { 0 } ) ^ { H } \\pmb { Y } ( f _ { 1 } ) , \\cdots , \\widetilde { \\pmb { w } } ( f _ { 0 } ) ^ { H } \\pmb { Y } \\bigl ( f _ { j } \\bigr ) , \\ldots , \\widetilde { \\pmb { w } } ( f _ { 0 } ) ^ { H } \\pmb { Y } \\bigl ( f _ { j } \\bigr ) ]$ 时域为 $\\mathbf { z ( t ) } =$ IDFT[Z(f)]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文算法信号的处理流程如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4570432cb4b4ace03a5ed0445225e9f1c4274532de855fc85a3f98b1bd5e0ac.jpg",
+        "img_caption": [
+            "图1本文算法信号处理流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5 仿真实验及结论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次实验采用一个阵元数为16，阵元间距为工作频带最高频率对应的半波长。假设期望信号、干扰信号均为线性调频信号，本次仿真信号中心频率 $f _ { 0 } = 2 G H z$ ，带宽 $B = 2 0 0 \\mathrm { M H z }$ 。噪声为高斯白噪声，信噪比为0dB。有三个干扰信号，一个为主瓣干扰、两个为旁瓣干扰。主瓣干扰来波方向为1，干噪比为40dB。两个旁瓣干扰来波方向分别为 ${ ^ { 4 0 } } ^ { \\circ }$ ， $- 3 0 ^ { \\circ }$ ，干噪比分别为20dB、20dB。阵列接收的信号通过DFT分为 $I = 1 2 8$ 个子频带。图2\\~4均为三维图在最高频率 $\\mathrm { f _ { H } } = 2 . 1 \\mathrm { G H z }$ 、中心频率 $\\mathrm { f } _ { 0 } = 2 \\mathrm { G H z }$ 、最低频率 $\\mathbf { f } _ { \\mathrm { L } } = { }$ $1 . 9 \\mathrm { G H z }$ 处的截面图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2为未经过干扰相消预处理直接采用MVDR的仿真图。可以看出天线方向图在主瓣干扰方向2附近出现了很深的零陷，这严重影响了波峰的位置而且旁瓣很高。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee9faea597021b12e1c6d822426ef31bf7ffd8b386d4fedf29a80a3f3042d04d.jpg",
+        "img_caption": [
+            "图2MVDR算法形成的天线方向图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3所示为经过EMP干扰相消预处理,但未进行协方差矩阵重构，最后采用MVDR的仿真图。可以看出EMP算法构建的阻塞矩阵阻塞掉了主瓣干扰，天线方向图并未在主瓣干扰方向形成零陷，但是波峰位置发生了2的偏移。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4e346e55904fa9d391936f5867a3bbf29d0a570442b917bb4ddc5519ba6ebad.jpg",
+        "img_caption": [
+            "图3采用EMP算法形成的天线方向图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4为基于协方差矩阵重构和EMP的宽带波束形成仿真图。可以看出本文算法成功解决了EMP算法的波峰偏移问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c1ff1fcb06a023f7ecb7e0d14809fde1c0b39ce8dbaed20f4073100059a0aac.jpg",
+        "img_caption": [
+            "图4本文算法的天线方向图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1给出了三种算法波束指向、主瓣宽度、旁瓣电平的具体数值对比。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/80eb722e163a1331f080fbd71776280492fe2b072ca1b2dbcc27e2c56d43a5d4.jpg",
+        "table_caption": [
+            "表1各种算法性能的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>MVDR</td><td>EMP</td><td>本文算法</td></tr><tr><td>波束指向</td><td>-3.7°</td><td>2.1°</td><td>0.1°</td></tr><tr><td>fo处主瓣宽度(-3dB)</td><td>5.7°</td><td>9°</td><td>9.2°</td></tr><tr><td>fL处主瓣宽度(-3dB)</td><td>6.0°</td><td>9.6°</td><td>9.7°</td></tr><tr><td>fH处主瓣宽度(-3dB)</td><td>5.5°</td><td>8.6°</td><td>8.8°</td></tr><tr><td>旁瓣电平值</td><td>-3.13dB</td><td>-12.9dB</td><td>-13.9dB</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验证明，对于经典MVDR算法并不能阻塞主瓣干扰，所以从仿真图中可以看出主瓣干扰零陷严重影响期望信号的接收且旁瓣电平很高波形严重恶化。EMP算法可以阻塞主瓣干扰，但是可以看出波峰位置发生了偏移。本文算法通过协方差矩阵重构解决了波峰偏移的问题，而且只需要特征值的分解就能求出子频带阻塞矩阵 $B ( f _ { j } )$ 和权值 $\\widetilde { w } ( f _ { 0 } )$ ，并且 $B ( f _ { j } )$ 、 $\\widetilde { w } ( f _ { 0 } )$ 可以并行运算，提高算法的执行效率。经典 MVDR 算法复杂度为 ${ \\mathfrak { o } } ( J * { \\mathfrak { n } }$ $K ^ { 3 }$ )，本文算法和EMP算法复杂度为 $\\supset ( 2 * J * K ^ { 3 } )$ 。本文算法解决了经典MVDR算法的波形畸变问题，相比EMP算法在不改变算法复杂度的情况下解决了波峰偏移问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用基于协方差矩阵重构和EMP的算法，对存在主瓣干扰信号情况下的宽带波束形成算法进行了研究。本文算法分为三个部分处理：a)各个子频带求取阻塞矩阵阻塞掉主瓣干扰；b)采取经典RSS算法对接收信号进行聚焦处理；c)对聚焦后的协方差矩阵进行重构，矩阵重构解决了波峰偏移问题。经过计算机仿真可以看出，本文算法可以处理在主瓣干扰情况下的宽带波束形成，尤其是当主瓣干扰严重影响天线方向图时候，可以做到天线方向图的保形。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]陈琦.数字阵列雷达 DBF 处理器的降秩算法研究与实现 [D].南京： 南京理工大学,2016.   \n[2]于凯.5G移动通信系统中3DMIMO的波束形成[D]．大连：大连海事 大学,2016.   \n[3]莫子军．宽带侦察DBF技术研究[D]．西安：西安电子科技大学,2014.   \n[4]Wang X,Amin M, Cao X.Analysis and design of optimum sparse array configurations for adaptive Beamforming [J]. IEEE Trans on Signal Processing,2018,99:340-351.   \n[5] 徐定杰，刘向锋，沈锋，等．基于干扰噪声矩阵估计的稳健Capon 波束 形成算法 [J].现代雷达,2014,36(9):22-25,57.   \n[6]R.Y Du.Fan Y,Wang J.Wideband beamforming based on Compressive Sensing[EB//OL]//Proc of the 5th International Conference on Information Science and Technology.2015:387-391.   \n[7]Chen H, Zhao Y,Liu C,et al.A novel robust capon algorithm for wideband beamforming [EB//OL]//Proc ofIEEE Radar Conference.2014:0950-0953.   \n[8]李荣锋，王永良，万山虎，主瓣干扰下自适应方向图保形方法的研究 [J]．现代雷达,2002,3:50-53.   \n[9]Yang X, Zhang Z, Zeng T, et al. Sarkar. mainlobe interference suppression based on eigen-projection processing and covariance matrix reconstruction [J].IEEE Antennas and Wireless Propagation Letters,2014,13:1369-1372.   \n[10]覃岭，黄茜，李会勇，等．主瓣干扰下宽带圆阵自适应波束形成方法 [J]．电子科技大学学报,2009,3:359-362.   \n[11]毕杨，王英民．一种稳健的宽带聚焦波束形成算法[J].计算机工程与 应用,2015,51(4):218-221.   \n[12] Kirsteins IP, Tufts D W.Adaptive detection using low rank approximation to a data matrix [J].IEEE Trans on Aerospace and Electronic Systems,1994, 30 (1): 55-67. ",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,267 @@
+# 淫羊藿属植物形态分类性状评述
+
+刘少雄1,²，王李俊1，何平平¹，胡生福²，张梅红²，何甜甜²，徐艳琴²\*（1.江西中医药高等专科学校 药学系，江西 抚州 344000；2.江西中医药大学 药学院，南昌 330004）摘要：淫羊藿属是分类学上研究的热点和难点，其类群发表和修订均较频繁。为更清晰掌握淫羊藿属的性状变异，该文在查阅该属研究成果和标本的基础上，结合课题组野外调查和分析，对该属重要性状进行系统梳理。花瓣式样是淫羊藿属分类的最重要依据，但并非绝对稳定，种内花瓣形态可能存在丰富变异。花瓣颜色、花药颜色，甚至花的大小至少在部分类群中不宜作为分类的主要依据。根茎性状在多数类群中不失为一个有用的分类性状，但不能一概而论，应基于广泛调查。多数类群的花茎上叶的类型及小叶存在不同程度的变异，在实际应用中存在一定困难。非腺毛特征十分复杂，不同样本存在不同程度差异，不宜作为物种鉴别的关键依据。淫羊藿属植物栽培后植株普遍更矮小，提示开展自然生境下的调查和形态观测对掌握物种形态特征非常必要。中国淫羊藿属类群仍处于活跃进化中，其形态变异复杂，物种鉴定和资源利用时应足够谨慎。
+
+关键词：淫羊藿属，分类性状，花部特征，根茎性状，花茎上叶的特征，非腺毛，株高中图分类号：Q949 文献标识码：A
+
+# Comment on the morphological taxonomic characters of
+
+# genus Epimedium
+
+LIU Shaoxiong1.², WANG Lijun1, HE Pingping1, HU Shengfu², ZHANG Meihong²,HE Tiantian2. XU Yanqin²
+
+DepartmentofPharmacy,Jiangxi CollgeofTraditional Chinese Medicine,Fuzhou 344oo,Jiangxi,China; 2
+
+CollegeofPharmacy,Jiangxi University ofChinese Medicine,Nanchang 33ooo4,China)
+
+Abstract: Epimedium (Berberidaceae) is a hot and difficult topic in taxonomy,and its taxa have been published and revised frequently. In order to more clearly understand the variation of Epimedium, this paper systematically sorted out the important characters of Epimedium on the basis of consulting the research results and specimens, combined with the field investigation and analysis of the research group. The petal pattern is the most important basis for the taxonomy of Epimedium,but it is not absolutely stable,and there may be abundant variations in petal morphology within the species.The color of petals,the color of anthers,and even the size of flowers should not be used as the main basis for classification at least in some taxa.The rhizome type (compact or long creeping) is a useful taxonomic character in most taxa, but it should be based on extensive investigations.There are abundant variations in most taxa on the number and arrangement of leaves on flowering stem, which is dificult to be applied in practice.The variation of non-glandular hair characteristics is very complex and varies,so they should not be used as a key basis for species identification. The plants of genus Epimedium are generally shorter after cultivation, which suggests that it is necessary to conduct survey and morphological observation in natural habitats to understand the morphological characteristics of species.The genus Epimedium in China is still in active evolution,and its morphological variation is complicated. Therefore, cautious should be taken in species identification and resource utilization.
+
+Keywords: Epimedium， taxonomic traits, flower characteristics,rhizome traits， number and arrangement of leaves on flowering stem, non-glandular hair, plant height
+
+淫羊藿属（EpimediumL.）是小檗科（Berberidaceae）最大的本草属，分布于亚洲东部至非洲西北部的温带山区，不同地区的物种数量存在巨大差异（应俊生，2002）。全世界已发现68 种，其中 $8 5 \%$ 以上的物种为中国特有种（Xuetal.,2019；徐艳琴等，2020）。淫羊藿属植物最原始种类出现在东亚，中国为该属植物的多样性中心和地理分布中心，具有显著资源优势（Stearn,2002; Sheng etal.,2020；陈永毕等，2021）。
+
+淫羊藿属是一个分类上十分困难的类群，尽管从1975年以来，开始有较多分类相关的研究关注本属，类群数量近40年迅速增长，但种的划分难以把握，其性状变异非常复杂且彼此常缺少相关性。从我国淫羊藿属研究的现状来看，这个属在分类上仍存在一些突出问题。如，（1）许多种仅仅依据少量个体和有限的模式标本命名（徐艳琴等，2014，2020）。从1990年到1998年，Steam命名了15个物种，全部是基于数量有限的国外园地栽培个体（徐艳琴等，2020）。许多所谓的“种”只是一些极端变异类型或中间类型。（2）属下分类和相当一部分分类群的界定尚未达成共识。Buck（2003）在评论Stearm（2002）的专著时指出，淫羊藿属有些种类可能过分强调了某些差异，而忽略了物种自身的变异范围，存在分种过细问题。由于根据非间断性状命名的类群可能存在，大量种的“真实身份”还需进一步讨论（徐艳琴等，2014；严福林等，2019a）。（3）以往主要以标本为研究对象，然而淫羊藿属植物标本主要分类特征的花部氧化和破坏严重，使得分类研究遇到极大挑战。（4）淫羊藿属植物仍处于剧烈分化中，导致大量复合种（箭叶淫羊藿复合种、柔毛淫羊藿复合种和木鱼坪淫羊藿复合种）存在，无法很自然的进行分类（高敏，2011）。其根本原因是缺乏足够的野外调查和形态统计，对各类群性状变异幅度、变异式样和分类价值研究和认识不够，许多淫羊藿属物种种间界限并不清晰（Zhang et al.,2011,2015;Liu et al.,2017; Xu et al.,2019,2020）。
+
+Davis&Heyw0od（1936）指出，分类学一半是科学，一半是艺术，个人主观因素对分类学的影响较大，容易出现强行归并或细分的情形（徐炳声，1998）。且近年来受到科学引用指数（SCI)评价体系影响，使得专业性较强的基础分类学研究者越来越少（杨亲二，2001)，而基于分子系统的分类方法具有一定局限性，至今仍然无法脱离形态分类而单独奏效（严福林等，2019b,2020）。因此，中国淫羊藿属植物分类一直备受关注。自2003年以来，共有6项国家自然科学基金项目开展了该属的分类学研究（表1）。期间，大量物种的形态描述得以完善、补充或订正，众多类群被归并（徐艳琴等，2020）。为了后续研究深入和种质资源更好利用，非常有必要对该属的分类学研究进行系统梳理和总结。
+
+# 表1淫羊藿属分类相关的国家自然科学基金项目
+
+Table 1 Projects fund of National Natural Science Foundation of China on the taxonomy of genu:   
+Epimedium   
+
+<html><body><table><tr><td>序号</td><td>主持人</td><td>项目名称</td><td>执行时间</td></tr><tr><td>Number</td><td>Project leader</td><td>Project</td><td>Execution phase</td></tr><tr><td rowspan="2">1</td><td>郭宝林</td><td>中国淫羊藿属分类修订和资源利用</td><td>2003—2005</td></tr><tr><td>GUO Baolin</td><td>Taxonomic revision and resource utilization of genus Epimedium in China</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>2</td><td>张燕君</td><td>中国淫羊藿属的分类学研究</td><td>2010—2012</td></tr><tr><td rowspan="2">3</td><td>ZHANG Yanjun 徐艳琴</td><td>Taxonomic study of genus Epimediumin China 箭叶淫羊藿复合种的分类学深入研究</td><td rowspan="2">2012—2014</td></tr><tr><td>XU Yanqin</td><td>Taxonomic in-depth study of Epimedium sagittatum</td></tr><tr><td rowspan="2">4</td><td>何顺志</td><td>complex species 中国淫羊藿属药用植物实验分类学研究</td><td rowspan="2">2012—2015</td></tr><tr><td>HE Shunzhi</td><td>Experimental taxonomic study on genus Epimedium</td></tr><tr><td rowspan="3">5</td><td>徐艳琴</td><td>in China 基于“居群”概念的淫羊藿属疑难类群分类学研究</td><td rowspan="3">2014—2017</td></tr><tr><td>XU Yanqin</td><td>及EDLTA 描述</td></tr><tr><td></td><td>Taxonomy research and EDLTA description of the</td></tr><tr><td rowspan="2">6</td><td>庞晓慧</td><td>"population”</td><td rowspan="2">difficult taxa of genus Epimedium basedon 2016—2019</td></tr><tr><td></td><td>淫羊藿属药用植物超级条形码及其分类学研究</td></tr><tr><td rowspan="2"></td><td>PANG Xiaohui</td><td>Super barcode and its taxonomic research of genus</td><td rowspan="2"></td></tr><tr><td></td><td>Epimedium</td></tr></table></body></html>
+
+前期，本团队已对淫羊藿属的物种概况、分类系统、问题及修订进行详细阐述（徐艳琴等，2020)。本文将重点关注该属重要形态性状变异幅度和变异式样，因为要做好复杂属的分类，首先取决于选取哪些性状进行分类（罗艳和杨亲二，2005)。即使是通常相当稳定且重要的分类性状，也不能据以完全保险地用来鉴定每一份标本，只有对每个种的性状变异幅度及变异规律有较全面了解后，才可能最大限度地避免错误鉴定（杨亲二，2016)。如果能对各种的一些重要性状的变异幅度及其间断进行细致分析，并结合地理分布资料，对种类划分将较为符合实际情况（徐炳声，1998）。Steam（2002）曾指出，淫羊藿属植物的主要分类依据包括根茎形态、花茎叶的数目、小叶数目、花序及花部形态，如花大小、花瓣形态、花瓣与内萼片长度比等（Steam,2002）。后续研究发现，花色（Xuetal.,2019）、花瓣式样（Xuet al.,2020）、叶序（Liu etal.,2017）、非腺毛特征（徐艳琴等，2013）和株高（何益明等，2020）等性状也往往给分类造成疑惑。因此，为更清晰把握淫羊藿属的性状变异，本文在系统查阅该属的研究成果和标本的基础上，结合课题组野外调查和观测，对花部特征、根茎性状、花茎上叶的特征、非腺毛特征和株高性状在种内和种间的变异幅度、变异式样进行详细阐述，在此基础上对其分类学价值和分类应用进行评述。
+
+# 1 花部特征
+
+花部特征主要包括花的大小、花瓣形态、花瓣与内萼长度比及花色等。根据花瓣大小、内萼片大小及其比例，将淫羊藿属植物分为大花类型和小花类型（Stearm,1938)。根据花瓣瓣片的有无及高度、距的有无及式样,将淫羊藿属植物花瓣分为扁平型(plat)、浅囊型（slightlysaccate）、睡袋型或囊状型（slipper-shaped or saccate）、短距型（short spur）和钻状距型（subulatespur）（应俊生，2002）或无距型（flat）、囊状类型（minute pouch）、极小距类型（minute spur）、圆柱状距类型（cylindric spur）、长距无瓣片类型（elongated spur without lamina）和长距有瓣片类型（elongated spur with lamina）（Stearm,2002）。属内植物的花色极为丰富，且花瓣颜色、内萼颜色及花药颜色等在种内可能存在较大变异。
+
+# 1.1 花的大小
+
+1938年，Steam（1938）整理淫羊藿属植物21种6亚种3变型，分为大花类型(large-flowered)（花瓣远大于内轮萼片，花直径一般大于 $1 \mathrm { c m } \dot { } ,$ 和小花类型（small-flowered)（花瓣小于内轮萼片，花直径一般小于 $1 \mathrm { { c m } }$ )，该划分一段时间内得到部分学者的认可（郭
+
+宝林，2005；何顺志等，2005；徐文芬等，2005；王悦云等，2005，2009)。但随着属内植物类群的不断增多，这种简单划分的意义逐渐弱化。
+
+# 1.2 花瓣形态
+
+花瓣作为花的重要组成部分，在形状和大小上进化出丰富的变化式样，花瓣演化对于解释淫羊藿属的系统关系具有重要意义。只有中国的淫羊藿属植物具有连续不断的演化过程，从无距到长距连续变异（Stearn,2002；应俊生，2002）。花瓣形态、是否呈距、距的长短、是否有瓣片、花瓣与内萼的相对大小是淫羊藿分类的最重要依据。
+
+2002年，Stearm（2002）将中国淫羊藿属植物基于花瓣特征分为4个系：钟花系（SeriesCampanulatae）（花瓣无距）、宝兴系（SeriesDavidianae）（花瓣具长距，基部具瓣片）、长距系（Series Dolichocerae）（花瓣具长距，无瓣片）、小花系（Series Brachycerae）（花瓣很短，且远短于内萼片）（图1，图2)。中国淫羊藿属类群中，目前认为仅无距淫羊藿（ $E .$ ecalcaratum G.Y.Zhong）、钟花淫羊藿（E.campanulatum Ogisu）、茂汶淫羊藿（E. platypetalumK.Meyer)和革叶淫羊藿(E.reticulatum C.Y.Wu)没有花距,属于钟花系(Series Campanulatae）（Liu etal.,2017)。这些类群的扁平型花瓣被认为是淫羊藿属花瓣较为原始的性状（Steam,2002；应俊生，2002；何顺志，2014)。其他花瓣类型以此为基础由基部向外突起形成囊，一些物种由花瓣背面凸起形成短距或长距（Stearn,2002；应俊生，2002）。
+
+花瓣形态由于性状较稳定，一直以来作为淫羊藿属植物分类的主要依据。此种分类方法一直受到广泛认可，但最近一项研究提供了全新认识，花瓣式样并非绝对稳定，同一类群的花瓣形态可能存在丰富变异。我们通过对天门山淫羊藿（E.tianmenshanensis T.Deng,D.G.Zhang&H.Sun)野外花期居群的调查发现，花瓣在居群个体间，甚至个体内存在明显变化，包括头盔状（cucullate）、锥形（subulate）、短距（short spur）和长距（long spur）4 种典型花瓣类型及各种过渡状态花瓣，跨越无距到有距连续变异，花的大小因此也从小花到大花连续变异（Xu etal.,2020）（图2)。类似的例子也出现在自然种无距淫羊藿（E.ecalcaratum）（Stearn,2002,Fig.18）和栽培杂交种Epimedium $\times$ youngianum，花瓣变异分别为从无距到短距和从无距到长距，均呈连续变异式样（Stearn,2002,Fig.94,Plate 15）。
+
+此外，野外观察和同质园栽培还显示，花瓣数量的变异（5瓣、6瓣或8瓣）时有发生。目前为止，时珍淫羊藿（E.franchetii Stearn subsp.lishihchenii S.X.Liu）（5瓣和8瓣）、巫山淫羊藿（E.wushanenseYing）（6瓣）、星花淫羊藿（E.stellulatum Stearn）（5瓣）、箭叶淫羊藿[E.sagitatum（Sieb.et Zucc.） Maxim.]（5瓣）、木鱼坪淫羊藿（E. franchetii Stearn）（5瓣）、粗毛淫羊藿（E.acuminatumFranch.）（5瓣）、黔岭淫羊藿（E.leptorrhizum Stearn）（5瓣）和直距淫羊藿（E.mikinorii Stean）（5瓣）中均观察到花瓣数量的变异（图3）。
+
+花瓣变异为花瓣性状分类提出了新的挑战，但也为其演化和系统进化研究提供了机遇。
+
+![](images/08d7751a9a71badffc8cbb22ad47a8989bc7cf6a8c0ee98032d168ebf397f996.jpg)
+
+A．宝兴系 A1.宝兴淫羊藿；A2.天全淫羊藿；A3.湖南淫羊藿；A4.朝鲜淫羊藿；A5.少花淫羊藿；A6. 紫距淫羊藿；A7.直距淫羊藿：A8.拟巫山淫羊藿；A9.巫山淫羊藿。B.长距系B1.膜叶淫羊藿；B2．木 鱼坪淫羊藿；B3.木鱼坪淫羊藿保靖变种；B4.木鱼坪淫羊藿时珍亚种；B5.金城山淫羊藿；B6.镇坪淫 羊藿；B7．川西淫羊藿；B8．恩施淫羊藿；B9.粗毛淫羊藿；B10.竹山淫羊藿；B11.黔岭淫羊藿；B12．四 川淫羊藿；B13．腺毛淫羊藿。 A.Series Davidianae Stearn A1. E.davidi; A2. E. flavum; A3.E. hunanense;A4.E. koteanum; A5.E. pauciflorum; A6. E. epsteini;； A7. E. mikinori; A8.E. pseudowushanense; A9. E. wushanense. B. Series Dolichocerae Stearn B1.E. membranaceum;B2.E. francheti; B3.E. franchetii var. baojingense； B4.E. francheti subsp.lishihcheni;B5.E. jinchengshanense;B6.E.ilicifolium;B7.E.elongatum;B8.E.enshiense;B9. E.acuminatum; B10.E.zhushanense;Bl1.E.leptorhizum; B12.E.sutchuenense;B13.E.glandulosopilosum. 图1淫羊藿属植物大花类群花瓣式样及代表性物种
+
+Fig.1 Petal variation of Epimedium of large-flowered taxa and its representative species
+
+![](images/31f5775b88e620aee7e0a4979c4ae75be0cdb8b66ba445a205f1147247d73c8c.jpg)  
+图2淫羊藿属植物小花类群花瓣式样及代表性物种
+
+A．钟花系A1.无距淫羊藿；A2.茂汶淫羊藿；A3.钟花淫羊藿；A4.革叶淫羊藿。B.小花系B1.长 蕊淫羊藿；B2.青城山淫羊藿；B3.川鄂淫羊藿；B4.心叶淫羊藿；B5.星花淫羊藿；B6.柔毛淫羊藿；   
+B7.箭叶淫羊藿；B8.箭叶淫羊藿光叶变种；B9.天平山淫羊藿；B10.黔北淫羊藿；B11.偏斜淫羊藿。   
+C．天门山淫羊藿C1.花瓣盔状；C2.花瓣锥状；C3.花瓣呈短距；C4.花瓣呈短距与长距过渡；C5．花 瓣呈长距。   
+A.Series Campanulatae Stearn A1.E. ecalcaratum;A2.E. platypetalum； A3.E. campanulatum; A4.E.   
+reticulatum.B.Series Brachycerae StearnB1.E.dolichostemon;B2.E.qingchengshanense;B3.E.fargesi;B4.   
+E.brevicornu; B5.E. stelulatum; B6.E.pubescens; B7.E.sagitatum;B8.E.sagittatumvar. glabratum; B9.E.   
+myrianthum; B10.E. baiealiguizhouense; Bl1.E. truncatum.C.E. tianmenshanense C1. Cuculate petal; C2.   
+Subulate petal; C3. Short spur; C4. Transitional type; C5. Long spur.
+
+Fig.2 Petal variation of Epimedium of small-flowered taxa and its representative species
+
+A.时珍淫羊藿（5瓣)；B-D.时珍淫羊藿（8瓣)；E.巫山淫羊藿（5瓣)；F.巫山淫羊藿（6瓣)；G.星花淫羊藿（5瓣)；H.箭叶淫羊藿（5瓣)；I.木鱼坪淫羊藿（5瓣)；J.粗毛淫羊藿（5瓣)；K.黔岭淫羊藿(5瓣)；L.直距淫羊藿 (5瓣)。
+
+![](images/4bc846d2bfe6c7daf76933f0daac8a8dfd221286382a86d175104af554fbdf77.jpg)  
+图3淫羊藿属植物花瓣数量变异
+
+A.E.franchetiisubsp.lishihcheni (5petals);B-D.E.francheti subsp.lishihchenii(8 petals);E.E.wushanense (5 petals);F.E.wushanense (6 petals); G.E. stelulatum (5 petals); H.E.sagittatum (5 petals); I.E.francheti (5 petals); J. E.acuminatum (5 petals); K.E. leptorrhizum (5 petals);L.E. mikinorii (5 petals).
+
+Fig.3 Variations in the numberof petals of Epimedium
+
+# 1.3花色变异
+
+花部性状是显花植物的关键特征，在植物系统、生态学和植物保护中起重要作用（Bradley etal.,2017)，花色既是物种鉴定的重要特征，也可能具有进化意义（Vaidya et al.,2018)。淫羊藿属是小檗科具有最大花色变异范围的属，从白色[宽萼淫羊藿（E.latisepalumStearn）]、黄色[无距淫羊藿（E.ecalcaratum），方氏淫羊藿（E.fangi Stearn)，天全淫羊藿（E.flavum Steam），木鱼坪淫羊藿（E.franchetii）]到粉色[黔岭淫羊藿（E.leptorrhizum）]和紫色[紫距淫羊藿（E.epsteinii Stearn)，拟巫山淫羊藿（E.pseudowushanense B.L.Guo）,直距淫羊藿（E.mikinorii fangi Stearn），竹山淫羊藿（E.zhushanense K.F Wu et S.X.Qian）等]变异（Stearm,2002; Ying etal.,2011)。与种间变异相比，种内花色变异相对较小（Hopkinset al.,2011)。仅见于淫羊藿属专著The Monograph ofThe Genus Epimedium与《中国植物志》对粗毛淫羊藿（E.acuminatum)花色变异进行描述，为黄色、白色、紫红色和浅紫色等（Stearm,2002；应俊生，2001)。此外，郭宝林等（2007）描述拟巫山淫羊藿（E.pseudowushanense）花色为浅紫粉色或紫色，偶浅黄色。Zhang etal.（2011)补充腺毛淫羊藿（ $E .$ glandulosopilosumH.R.Liang）的花色为黄色或浅紫色。因此，一般认为花色在物种水平上较为稳定，是淫羊藿属最重要的分类性状（应俊生，2001；Stearn,2002）。
+
+但本课题组最近研究结果显示，花色在部分类群中存在丰富的变异（Xuetal.,2019)。粗毛淫羊藿（E.acuminatum）内萼片可见白色、淡黄色、淡枚红色或粉色，花瓣从淡黄色、黄色、淡紫色、红紫色、紫黄色或紫色变异（刘林健，2019)。黔岭淫羊藿（E.leptorrhizum）内萼片从白色、略带粉红色到粉红色连续变异。花瓣为白色、浅黄色但基部为黄色或橙色、白色但基部粉红色、深红色、粉红色、深红色或浅紫色（Xu etal.,2019)。少花淫羊藿（E.pauciflorumK.C.Yen）内萼片为白色，淡紫或浅粉色。花瓣为白色、白粉色、粉色、淡黄色和淡粉红色（基部紫黄色）（Xuetal.,2019)。直距淫羊藿（E.mikinorii）内萼片从白色、淡粉色、粉红色、淡紫色到紫色变异。花瓣可见黄色、橙色、紫色或中部紫色但两端黄色（Xuet al.,2019)。腺毛淫羊藿（ $E .$ glandulosopilosum）花色多为浅紫色或紫色，少数个体为黄花(Xu et al.,2019)。尽管淫羊藿属种内花色变异的原因或机理目前尚未见相关报道。但以上变异说明，至少在部分类群（约 $10 \%$ )上，花瓣颜色不应作为分类的主要依据(Xuetal.,2019)。
+
+在花色变异中，除了花瓣颜色变异，花药颜色变异也是值得关注的性状。绿药淫羊藿( $E .$ （204号chlorandrum Steam）主要由于花药色为绿色而被处理为独立种（Stearm,1997)。应俊生（2001）在《中国植物志》中指出，淫羊藿属中只有绿药淫羊藿（E.chlorandrum）、柔毛淫羊藿（ $E .$ pubescens Maxim.）和川鄂淫羊藿（E.fargesiiFranch.）的花药和花粉为绿色。但本课题组基于“居群”观测后发现，淫羊藿属植物花药和花粉颜色在种间和种内变异都很大，基础色包括黄色、绿色和蓝绿色。绿药淫羊藿（E.chlorandrum）花药绿色的性状并不稳定，居群间和居群内均观察到绿色、黄色及两颜色间的连续变异。此外，金城山淫羊藿（ $E .$ jinchengshanense Y.J.Zhang&J.Q.Li）、黔岭淫羊藿（E.leptorrhizum）、长蕊淫羊藿（ $E .$ （204号dolichostemon Stearn）、四川淫羊藿（E.sutchuenense Franch.）、柔毛淫羊藿（E.pubescens）和恩施淫羊藿（E.enshienseB.L.Guo etP.G.Xiao）的花药与花粉色均出现黄色到绿色的连续变异。川西淫羊藿（E.elongatumKomarov）的花药和花粉色均为蓝绿色。川鄂淫羊藿（ $\cdot E .$ fargesii）的花药和花粉色为黄绿色到蓝绿色连续变异（图4)。因此，花药和花粉颜色不宜作为淫羊藿属分类的关键依据。
+
+![](images/e02ede96fe9b800e26d75b6daaba52eb174b9a02ad976db895051790f6cbb098.jpg)  
+图4淫羊藿属植物花药与花粉颜色变异
+
+A.金城山淫羊藿（上面绿色，下面黄色)；B.黔岭淫羊藿（上面绿色，下面黄色)；C.川西淫羊藿（蓝绿 色)；D.长蕊淫羊藿（上面绿色，下面黄色)；E.川鄂淫羊藿（上面蓝绿色，下面黄绿色)；F.四川淫羊 藿（上面绿色，下面黄色)；G.柔毛淫羊藿（上面绿色，下面黄色)；H.恩施淫羊藿（上面绿色，下面黄 色）。   
+A.E. jinchengshanense (green on the top,yellow on thebotom); B.E.leptorrhizum(greenon the top,yellow on the bottom); C.E. elongatum (blue-green); D.E.dolichostemon (green on the top,yelow on the bottom); E.E. fargesi (yellow-greenon the bottom,blue-green on the top);F.E.sutchuenense (green on the top,yellow on the bottom); G.E.pubescens (green on the top,yellow on the bottom); H. E. enshiense (green on the top,yellow on the bottom).
+
+Fig. 4 Variation of anther color and pollen color in Epimedium
+
+# 2 根茎性状
+
+根茎的性状在淫羊藿属多数类群间呈较明显分化，结节状（compact）和细长延伸（longcreeping)，曾认为具有重要意义，甚至成为某些近缘类群划分的关键性状（Stearn,2002）。如黔岭淫羊藿（E.leptorrhizum）与短茎淫羊藿（E.brachyrrhizum Stearn）的主要区别在于前者根茎细长延伸，而后者根茎结节状。时珍淫羊藿（E.lishihchenii）由于根茎细长而与木鱼坪淫羊藿（E.franchetii）相区分。强茎淫羊藿（E.rhizomatosum Stearn）根茎细长延伸与膜叶淫羊藿（E.membranaceumK.Meyer）区分（Stearn,1997)。然而，通过大量黔岭淫羊藿（E.leptorrhizum）标本查阅发现，其根茎大多数细长延伸，偶尔细短或结节状，因此将短茎淫羊藿（E.brachyrrhizum）并入黔岭淫羊藿（E.leptorrhizum）（Zhang et al.,2015）。膜叶淫羊藿（ $E .$ membranaceum）根茎性状变异较大，包含结节状和细长延伸两种类型，强茎淫羊藿（E.rhizomatosum）在其变异范围内，因此将强茎淫羊藿（E.rhizomatosum）并入膜叶淫羊藿（ $E .$ membranaceum）（Zhang et al.,2015）。基于居群观测的野外调查发现，时珍淫羊藿（E.lishihchenii）约有 $20 \%$ 个体的根茎为结节状，因此将时珍淫羊藿（E.lishihchenii)处理为木鱼坪淫羊藿亚种（ $E .$ franchetii subsp.lishihchenii）（刘少雄等，2016)。紫距淫羊藿（E.epsteinii）文献描述为根茎细长（Stearm，1997)，但对其模式产地（湖南天平山）居群野外观测和统计发现，结节状根茎和细长根茎并存于同一居群，甚至同一个体。21个个体中，结节状的9株，细长的8株，两种类型并存的3株。细长的根茎延伸可长达 $1 9 \mathrm { c m }$ （何益明等，2020）。
+
+此外，本课题组野外调查发现贵州松桃县黔岭淫羊藿（E.leptorrhizum）根茎结节状和细长根茎并存。革叶淫羊藿(E.reticulatum)根茎结节状,但野外调查偶尔可见延伸长达 $1 8 \mathrm { { c m } }$ 。粗毛淫羊藿（E.acuminatum）主要为根茎结节状，但也有根茎细长的个体（图5)。如四川马边县的居群全部为细长根茎，最长可延伸至 $2 0 \mathrm { c m }$ 。四川雅安上理镇居群大部分个体为结节状根茎，但少数个体根茎细长。腺毛淫羊藿（ $E .$ glandulosopilosum）根茎为结节状与细长并存，不同居群间差异较大。如重庆巫溪双阳乡居群根茎全部为结节状，重庆巫溪通城乡居群根茎全部为细长。此外,野外观测柔毛淫羊藿（E.pubescens）、水城淫羊藿（E.shuichengenseS.Z.He）和镇坪淫羊藿（E.ilicifolium Stearn）中均以结节状根茎为主，偶见细长类型（图5，图6)。目前，至少已有上述10个类群的根茎类型证实在居群间或个体间存在过渡和变异。
+
+虽然根茎类型有时在种内存在较大变异，但淫羊藿属多数类群中，根茎类型的确较稳定。其中，根茎细长的类型相对较少，包括朝鲜淫羊藿（E.koreanumNakai）、少花淫羊藿（ $E .$ pauciflorum）、水城淫羊藿（E.shuichengense）、小叶淫羊藿（E.elachyphyllum Stearn）、茂汶淫羊藿（E.platypetalum）、无距淫羊藿（E.ecalcaratum）、方氏淫羊藿（E.fangii）、芦山淫羊藿（E.ogisui Stearn）、四川淫羊藿（E.sutchuenense）、心叶淫羊藿（E.brevicornu Maxim.）和昭通淫羊藿（E.zhaotongenseG.W.Hu)。除以上提及存在变异的类群外，其余类群多为根茎结节状。且严福林等（2015）对12个物种移栽后的根茎性状观察结果显示，该性状较稳定。
+
+因此，根茎性状的分类价值不能一概而论，不同类群应区别对待，运用该性状分类时应开展广泛调查并足够谨慎。但整体而言，在多数类群中，根茎仍不失为一个有用的分类性状。
+
+![](images/a145ef067e5cb8dbb337040ec410ce5a091ae76750d0168a0d985a9bce2aa49d.jpg)
+
+A．粗毛淫羊藿A1-A2.根茎细长；A3-A4.根茎结节状。B.柔毛淫羊藿 B1-B2.根茎细长；B3-B4.根茎   
+结节状。   
+A. E. acuminatum A1-A2.Long creeping rhizome; A3-A4. Compact rhizome.B.E. pubescens B1-B2. Long   
+creeping rhizome;B3-B4. Compact rhizome. 图5粗毛淫羊藿与柔毛淫羊藿的根茎变异情况 Fig.5Rhizome variationof Epimedium acuminatum and E.pubescens
+
+A．黔岭淫羊藿A1.根茎细长；A2.根茎结节状。B.水城淫羊藿B1.根茎细长；B2.根茎结节状。C.镇 坪淫羊藿C1.根茎细长；C2.根茎结节状。D.腺毛淫羊藿 D1.根茎细长；D2.根茎结节状。 A.E. leptorrhizum A1.Long creeping rhizome; A2. Compact rhizome.B.E. shuichengense B1.Long creeping rhizome; B2. Compact rhizome. C.E. ilicifolium C1.Long creeping rhizome; C2. Compact rhizome.D.E. glandulosopilosum D1. Long creeping rhizome; D2. Compact rhizome.
+
+![](images/7cb8cc055aec0f26d1f8967a5e50570e061fd5203d214fb162869ed0c52cf2ba.jpg)  
+图6淫羊藿属部分类群的根茎变异情况  
+Fig. 6 Rhizome variation of some Epimedium species
+
+# 3 花茎上叶的特征
+
+在淫羊藿属分类中，花茎上叶的有无、类型（单叶还是复叶，几回几出复叶）、数量及叶序（对生、互生、轮生）始终作为非常重要的分类依据（应俊生，2001；Stearm，2002；Ying etal.,2011)。如 Stearn（1938,2002）根据花茎是否有叶，将淫羊藿属划分为2个亚属：Subgenus Epimedium 和 Subgenus Rhizophylum。其中，Subgenus Rhizophyllum 花茎无叶，仅包括E.pinnatum Fisch.exDC.（分布于伊朗北部和阿塞拜疆)和E.perralderianum Coss.（分布于阿尔及利亚)。Subgenus Epimedium花茎有叶，进而分为4个组：Section Diphyllon（花茎2叶，偶3叶或1叶，分布于中国)，Section Macroceras（花茎1枚复叶，分布于日本、北朝鲜、中国东北)，Section Polyphyllon（花茎最多具8枚复叶，分布于喜马拉雅西部）和
+
+Section Epimedium（花茎1枚二回三出复叶，分布于欧洲、高加索地区、土耳其北部）。中国淫羊藿属植物花茎通常具2枚一回三出复叶，偶有单叶、二回三出复叶和具1枚或3枚叶类型。
+
+# 3.1单叶
+
+淫羊藿属单叶（unifoliolate）类群并不多，曾认为单叶淫羊藿（E.simplicifoliumYing）、保靖淫羊藿（E.baojingense Q.L.Chen et B.M.Yang）、竹山淫羊藿（E.zhushanense）、腺毛淫羊藿（E.glandulosopilosum）和小叶淫羊藿（E.elachyphyllum）为单叶种（Stearn,2002;Ying et al.,2011；应俊生，2001)。但 Zhang etal.（2011）的研究表明，仅小叶淫羊藿（ $E .$ （20elachyphyllum）为真正的单叶种（1枚单叶)，其余类群均主要为三出复叶，偶单叶。本课题组通过野外居群调查发现，腺毛淫羊藿（E.glandulosopilosum）在重庆巫溪县通城乡和双阳乡两个居群（各30个个体）的花茎叶类型不同。通城乡居群主要为2枚单叶对生，只见到4棵为复叶，而双阳乡居群全部为2枚一回三出复叶对生。且两个居群经过近3年的同质园栽培后，其叶的类型较稳定，只有少数个体出现变异。2017 年发表的木黄淫羊藿（ $E .$ （204号muhuangense S.Z.He&Y.Y.Wang)，也描述为2枚单叶对生（Wang et al.,2017)，但我们暂未对其开展野外调查。
+
+# 3.2 二回三出复叶
+
+淫羊藿属的复叶绝大多数为一回三出复叶（3-foliolate）（3小叶)，其次为二回三出复叶（9-foliolate,bitermate），偶见5小叶（5-foliolate）或7小叶（7-foliolate）的复叶。其中，二回三出复叶相对较为稳定，如朝鲜淫羊藿（E.koreanum）（1枚二回三出复叶）、心叶淫羊藿（E.brevicornu）（2枚二回三出复叶）和川西淫羊藿（E.elongatum）（3枚二回三出复叶，偶见3小叶或7小叶)。大多数类群的三出复叶也较稳定，但某些类群可能出现单叶[如前所述的粗毛淫羊藿（E.acuminatum）、保靖淫羊藿（E.franchetii）、竹山淫羊藿（E.zhushanense）和腺毛淫羊藿（E.glandulosopilosum）等，参见 Zhang etal.,2011]，也可能出现5或7小叶的复叶，如宝兴淫羊藿（E.davidii Franch.）中5或3小叶的复叶均常见，且可能出现在同一花序中。西昌淫羊藿（E.xichangenseY.J.Zhang)叶的类型是目前所知最为多样化的类群，包括二回三出复叶（9 小叶）和7或5或3小叶的复叶（Zhang etal.,2016)。
+
+# 3.3叶的数量
+
+淫羊藿属植物花茎上的叶多为 2 枚，只有少数种是1 枚或 3 枚叶。小叶淫羊藿（E.elachyphyllum)，花茎通常为1枚单叶，偶尔为两枚单叶对生或互生（Zhang etal.,2011)。少花淫羊藿(E.pauciflorum),花茎具1枚三出复叶,偶1枚单叶或2枚复叶对生(Xu et al.,2019)。茂汶淫羊藿（E.platypetalum)，花茎通常1枚3小叶复叶，偶尔为1枚5小叶复叶，有时为2 枚3小叶复叶对生，或2枚单叶对生，极少3枚单叶轮生（Liuetal.,2017)。朝鲜淫羊藿（E.koreanum），1枚二回三出复叶（Ying et al.,2011)。川西淫羊藿（E.elongatum）花茎上的叶为3枚二回三出复叶互生，但小叶数目并不稳定，偶见3小叶或7小叶。
+
+# 3.4变异
+
+以往认为，花茎上叶的有无、类型、数量及叶序均较为稳定，但随着调查和观测样本的增加，发现很多类群中存在变异。无距淫羊藿（E.ecalcaratum）花茎上叶的数量和叶序变异极为丰富，通常为2枚3小叶的复叶互生或对生，有时为3枚3小叶复叶互生。此外，还观察到2枚5小叶复叶对生,3\~4枚叶轮生（可含单叶、3和/或5小叶复叶）（Liuetal.,2017)。茂汶淫羊藿（E.platypetalum）花茎通常1枚三出复叶，偶为1枚5小叶复叶，有时为2枚三出复叶对生，或2枚单叶对生，极少3枚单叶轮生（Liuetal.，2017)。钟花淫羊藿（ $E .$ campanulatum）通常为2枚三出复叶互生或对生，有时3叶互生，或仅1枚单叶或复叶（Liuet al.,2017)。粗毛淫羊藿（E.acuminatum）花茎通常具2枚复叶对生，有时3枚复叶轮生或2 枚单叶对生，偶有2枚叶对生（1枚复叶，另1枚单叶）、3枚叶对生（1枚复叶和2枚单叶）或3枚单叶轮生（Xu etal.,2019)。黔岭淫羊藿（E.leptorrhizum）花茎具1枚复叶或2枚复叶对生（Xu etal.,2019)。少花淫羊藿（E.pauciflorum）所有文献和标本均显示花茎具
+
+1枚复叶，但野外调查还观察到1枚单叶或2枚复叶互生情况（Xu etal.,2019)。西昌淫羊藿（E.xichangense）花茎常为3枚复叶互生，偶2枚或4枚复叶互生（Zhang et al.,2016)。宝兴淫羊藿(E.davidii)花茎常2复叶(全为3小叶，全为5小叶或3小叶和5小叶各1枚）对生，有时3叶互生或其中2叶对生，再与另1叶互生，偶4叶（其中2叶对生，再与另 2叶互生)。天全淫羊藿（E.flavum）花茎可见1枚三出复叶，2枚复叶（1枚3小叶，另一枚5小叶）对生，2枚复叶（3小叶）互生生。四川淫羊藿（E.sutchuenense）可见2叶（2枚三出复叶或1枚三出复叶和1枚单叶）对生或仅1枚三出复叶。
+
+花茎通常2枚复叶对生的类群，也可能存在3枚复叶轮生情况，这在很多类群中都曾观察到，如直距淫羊藿（E.mikinorii)、湖南淫羊藿[E. hunanense (Hand.-Mazz.) Hand.-Mazz.]、箭叶淫羊藿（E.sagittatum）、天平山淫羊藿（E.myrianthum Stearn）、粗毛淫羊藿（ $E .$ （20acuminatum）、木鱼坪淫羊藿（E.franchetii)。经过同质园栽培后发现，花茎上叶的变化更加复杂，如箭叶淫羊藿（E.sagittatum）经过栽培后，除了原有的2叶对生，还出现3叶轮生、4 叶轮生，甚至5叶轮生现象。
+
+# 3.5叶形
+
+小叶形态具有一定分类价值，在区分某些类群时可简单、快捷地利用。如偏斜淫羊藿（ $E .$ truncatumH.R.Liang）为本属唯一小叶基部偏斜的类群，叶形具有极高辨识度。革叶淫羊藿（E.reticulatum）小叶非常特殊，厚革质，卵形。淫羊藿（E.brevicornu）、川西淫羊藿（ $E .$ elongatum）和朝鲜淫羊藿（E.koreanum）为草质，卵形。巫山淫羊藿（E.wushanense）小叶革质、边缘锯齿既密且硬，触感刺手。金城山淫羊藿（E.jinchengshanense）和黔北淫羊藿（E.borealiguizhouense S.Z.He etY.K.Yang）小叶革质，披针形至狭披针形。但多数类群的小叶存在程度不等的变异，在实际应用中存在一定困难。另外，叶片是植物对环境变化较敏感且可塑性较大的器官，环境变化可能导致叶长、叶宽、叶面积和重量发生较大变化（李芳兰和包维楷，2005）。
+
+# 4 非腺毛特征
+
+淫羊藿属植物叶背、花序轴、花梗均可能被毛，其类型有柔毛（pubescence）、绒毛（tomentum）、毡毛（felted hair）和腺毛（glandular hair）等（应俊生，20O1；Stearn,2002;Ying etal.，2011；高敏，2011；徐艳琴等，2013；植汉成等，2018)。其中，叶背非腺毛关注和研究较多。
+
+叶背非腺毛曾被认为是淫羊藿属物种鉴定及区分相关类群的重要性状，几乎每个物种都有独特的非腺毛（何顺志等，1992，2003）。王悦云等（2008）和张晓东（2009）分别对淫羊藿属小花类群15种1变种和大花类群16种叶背非腺毛的研究表明，其性状特征专属性强，存在种间差异，具有分类学价值。高敏（2011）对40个物种的非腺毛进行系统比较，发现不同物种的叶背非腺毛形态、顶细胞长度、直径、伸长细胞有无、基部细胞数目、顶细胞与相邻细胞的衔接方式等具有一定特征性，将该属非腺毛分为5种主要类型并推测了其演化趋势，并藉此对部分类群提出了修订意见。以上研究多认同淫羊藿属不同物种被毛特征有所差异，具有一定分类价值。但淫羊藿属种下变异十分复杂，徐艳琴等（2013）对10省16个箭叶淫羊藿（E.sagittatum）同质园栽培居群叶背非腺毛性状的比较研究表明，不同居群的非腺毛形态和特征存在巨大差异和丰富多样性。植汉成等（2018)对柔毛淫羊藿（E.pubescens）的31个居群及其近缘种非腺毛的系统研究也发现类似结果，其非腺毛分为直毛、曲毛、伏曲毛、长伏毛、拟短伏毛、短伏毛和单细胞毛7个大类和19个小类。每个居群，甚至每个个体都可能存在多种类型，且类型间存在连续变异。研究结果支持将星花淫羊藿（ $E .$ （20stellulatum）归并为柔毛淫羊藿（E.pubescens）种下等级（植汉成等，2018)。以往认为粗毛淫羊藿（E.acuminatum)因叶背非腺毛为粗短伏毛命名，但高敏(2011）、Zhang et al.（2011）
+
+及刘少雄（2017）的研究发现，其叶背非腺毛有粗短型和细长型两种类型，且呈连续变异。
+
+除了被毛类型，被毛密度在上年生叶老叶和当年生新叶，幼叶和成叶之间也往往存在明显差异。腺毛淫羊藿（E.glandulosopilosum）部分个体与原始描述一致，叶背密被金黄色柔毛，且小叶柄，叶柄和花茎被腺毛和金黄色柔毛，结节处最为密集（梁海锐等，1990)，但被毛性状不稳定，颜色和密度变异也较大。受个体和/或发育阶段（从幼叶到老叶）的影响，被毛性状从浓密到稀疏连续变化，颜色也不固定为金黄色，而是从白色到黄色变异（Xu et al,2019)。文献记载直距淫羊藿（E.mikinori）叶背无毛（Stearn,1998,2002; Ying et al.,2011)，但本课题组在野外调查中发现，其叶背具白色短伏毛（Xu etal.，2019)。紫距淫羊藿（E.epsteinii）新叶（当年生叶片）叶背浅绿色，疏被细伏毛，老叶（往年生叶片）叶背苍白色，几乎无毛（何益明等，2020)。保靖淫羊藿（E.baojingense）有些个体幼叶时被毛浓密，长成后逐渐稀疏。被毛颜色并不局限于以往描述的深黄色，而是从幼茎上的白色到长成后的黄色，再到衰老后的深黄色逐渐过渡（刘少雄等，2016)。
+
+另外，有些类群间的被毛性状存在明显过渡。木鱼坪淫羊藿（E.franchetii）与保靖淫羊藿（E.baojingense）形态差异主要在被毛不同。保靖淫羊藿（E.baojingense）小叶柄、叶柄、茎、节部、花序轴和叶背均密被毛，叶背被细长毛。而木鱼坪淫羊藿（E.franchetii）小叶柄、叶柄、茎和节部均光滑，叶背疏被短伏毛，花序轴光滑或仅上部疏被毛。但部分居群呈现出过渡性状，被毛特征介于木鱼坪淫羊藿（E.franchetii）和保靖淫羊藿（E.baojingense）之间，或居群内个体间被毛呈现连续变异（刘少雄等，2016）。
+
+以上研究表明，至少在某些物种内，非腺毛特征变异十分复杂，不同样本存在不同程度差异（徐艳琴等，2013；植汉成等，2018)。由于取样局限性所导致的专属性可能只是一种假象，当样本数量放大后，一些种质间的性状彼此交叉重叠，专属性可能因此消失，对于非常复杂的类群，非腺毛特征不宜作为物种关键的鉴别依据（徐艳琴等，2013)。同时，提示后续利用非腺毛进行分类和演化分析时，应保证足够的样本数量，尤其是不同居群的样本量。此外,除了进行形态观察和主要类型的归并外,还应总结出共性和个性类别(植汉成等,2018)。
+
+# 5 株高性状
+
+株高在淫羊藿属种间变异极大，矮小如少花淫羊藿（ $E .$ pauciflorum），仅 $6 { \sim } 3 0 ~ \mathrm { c m }$ ，高大如箭叶淫羊藿（E.sagittatum)，可达 $1 2 9 \mathrm { c m }$ （但多数类群集中在 $4 0 { \sim } 8 0 \mathrm { c m }$ )。同时，株高在种内变异也往往较大，尤其是野生个体与栽培个体之间的差异不应忽视。如天平山淫羊藿（E.myrianthum）在各类文献中均描述株高 $3 0 { \sim } 6 0 ~ \mathrm { c m }$ （Stearn,1998；应俊生，2001；Ying etal.,2011)，基于野外广泛居群和个体的观测结果为 $1 2 { \sim } 1 1 9 ~ \mathrm { c m }$ 。紫距淫羊藿（ $\left. E \right.$ epsteinii)株高变异范围也较大 （ $: 1 2 { \sim } 6 8 ~ \mathrm { c m }$ ）且在个体间整体呈连续变异，大幅度高于Stearn（1997)基于异国栽培个体描述的高于 $1 2 \mathrm { c m }$ 。已有多项研究表明，栽培及不同环境会对淫羊藿的生长和形态（如株高、叶长、长宽比和叶片数量等）产生较大影响（孙超等，2004；高辉等，2012；权秋梅等，2012）。如巫山淫羊藿（E.wushanense）和箭叶淫羊藿（E.sagitttum）栽培后，株高仅为野生植株的一半（孙超等，2004；张玉荣等，2017)。严福林等（2015）对引种到贵州正常生长3年左右的12种淫羊藿观察结果表明，心叶淫羊藿（E.brevicornu）、竹山淫羊藿（E.zhushanense）、无距淫羊藿（E.ecalcaratum）、宝兴淫羊藿（E.davidii）、绿药淫羊藿（E.chlorandrum）和柔毛淫羊藿（E.pubescens）移栽后株高普遍变矮小。本课题组对淫羊藿属近40个物种的园地栽培观测也发现同样的结果。提示淫羊藿属植物准确的形态描述应基于自然生境植株，栽培后，尤其是异国栽培后，其数量性状可能发生较大改变。因此，开展自然生境下的调查和形态观测对掌握物种的形态特征非常必要。
+
+值得关注的是，淫羊藿属有18个物种基于国外的少量栽培个体命名，如紫距淫羊藿（ $E .$ epsteinii）、长蕊淫羊藿（E.dolichostemon）、宽萼淫羊藿（E.latisepalum）、芦山淫羊藿（ $E .$ （204ogisui）、木鱼坪淫羊藿（E.franchetii）、天全淫羊藿（E.flavum）、方氏淫羊藿（E.fangii）、镇坪淫羊藿（E.ilicifolium）、直距淫羊藿（E.mikinorii）、强茎淫羊藿（E.rhizomatosum）、绿药淫羊藿（E.chlorandrum）、时珍淫羊藿（E.lishihchenii）、天平山淫羊藿（E.myrianthum）、短茎淫羊藿（E.brachyrrhizum）、黔岭淫羊藿（E.leptorrhizum）、星花淫羊藿（E.stellulatum）、钟花淫羊藿（E.campanulatum）、司氏淫羊藿（E.stearniiOgisu& Rix）。其中，宽萼淫羊藿（E.latisepalum）、司氏淫羊藿（E.stearnii）和方氏淫羊藿（E.fangii）本课题组经多次野外调查均未发现野生居群，也未检索到其野生个体株高的相关资料。强茎淫羊藿（ $E .$ brachyrrhizum）、绿药淫羊藿（E.chlorandrum）与短茎淫羊藿（E.brachyrrhizum）属于异名，此处不再讨论。其余类群均已证实，野生个体株高变异范围远宽泛于其栽培个体（表 2)。提示将株高作为分类鉴别特征时，尤其是与基于栽培个体描述的类群进行比较时，必须十分谨慎。
+
+# 表2淫羊藿属依据栽培个体命名类群的株高对比
+
+Table 2 Comparisons of the height of flower stem between cultivation (from protologue) and wilc   
+
+<html><body><table><tr><td colspan="3">observation in Epimedium</td></tr><tr><td>类群</td><td>原描述株高</td><td>野外观测株高</td></tr><tr><td>Taxon</td><td>Height of flower stem from protologue (cm)</td><td>Height of flower stem based on wild observation (cm)</td></tr><tr><td>紫距淫羊藿E.epsteinii</td><td>≥12</td><td>12~68</td></tr><tr><td>长蕊淫羊藿E.dolichostemon</td><td>30</td><td>30~50</td></tr><tr><td>芦山淫羊藿 E.ogisui</td><td>25~35</td><td>19~47</td></tr><tr><td>木鱼坪淫羊藿E.franchetii</td><td>20~60</td><td>35~55</td></tr><tr><td>天全淫羊藿E.flavum</td><td>13~30</td><td>25~45</td></tr><tr><td>镇坪淫羊藿E.ilicifolium</td><td>28~42</td><td>30~83</td></tr><tr><td>直距淫羊藿E.mikinorii</td><td>28~40</td><td>26~94</td></tr><tr><td>时珍淫羊藿E.lishihchenii</td><td>30~40</td><td>28~59</td></tr><tr><td>天平山淫羊藿E.myrianthum</td><td>30~60</td><td></td></tr><tr><td>黔岭淫羊藿E.leptorrhizum</td><td>12~30</td><td>12~119</td></tr><tr><td>星花淫羊藿E.stellulatum</td><td></td><td>12~50</td></tr><tr><td></td><td>20~35</td><td>28~57</td></tr><tr><td>钟花淫羊藿 E.campanulatum</td><td>15~40</td><td>35~50</td></tr></table></body></html>
+
+# 6小结与展望
+
+物种划分主要依据形态性状，而性状有无分类价值、分类价值高低，要通过性状分析加以评价（洪德元，2016a)。通过对淫羊藿属分类价值进行评述发现，花瓣式样是淫羊藿属分类的最重要依据，但并非绝对稳定，种内花瓣形态可能存在丰富变异，花瓣颜色与花药颜色不能作为分类的主要依据。根茎性状在多数类群中不失为一个有用的分类性状，但不能一概而论，很多结节状根茎的类群出现细长根茎，应基于广泛调查。多数类群的花茎上叶的类型及小叶存在不同程度的变异，多居群多样本分析十分必要。非腺毛特征变异十分复杂，不同样本存在不同程度差异，不宜作为物种鉴别的关键依据，应结合其他性状及地理分布等考虑。淫羊藿属植物栽培后植株普遍更矮小，提示开展自然生境下的调查和形态观测对掌握物种形态特征非常必要，由栽培品命名的类群应补充野外居群调查。
+
+分类研究中应当充分认识单个形态性状反映的生物学本质。单一性状和连续性变异的数量性状不能作为划分物种的依据（洪德元，2016b)。以往研究中，淫羊藿属植物根据单个性状性状命名新种并非个例，如绿药淫羊藿（E.chlorandrum）[花药绿色，后并入粗毛淫羊藿（E.acuminatum）]、单叶淫羊藿（E.simplicifolium）[花茎上叶为单叶，后并入粗毛淫羊藿（E.acuminatum）]、多花淫羊藿（E.multiflorum）[小花较多，后并入天平山淫羊藿（ $E .$ （204号myrianthum）]、裂叶淫羊藿（E.lobophyllum）[叶片先端开裂，后并入天平山淫羊藿（ $E .$ （20myrianthum)}、短茎淫羊藿(E.brachyrrhizum)[根茎细长，后并入黔岭淫羊藿(E.leptorrhizum)]和强茎淫羊藿（E.rhizomatosum）[根茎细长，后并入膜叶淫羊藿（E.membranaceum）]。新物种要对所有形态性状进行详细且全面的观察和分析。不仅要观察所有形态性状，还要确保掌握的样本和分类性状具有代表性（洪德元，2016b）。
+
+多形态性状分析方法需要采用统计学上的聚类分析（如差异显著性比较分析、主成分分析等)，而不是简单的间断性与连续性分析（刘建全，2016)。随着标本的增多和野外考察的深入，可以把发育、物候和地理分布等因素综合考虑，在居群层面上开展工作(孔宏智，2016)。如本课题组通过对木鱼坪淫羊藿复合种9居群的数量性状数据，运用 SPSS19.0软件进行统计分析，运用MVSP3.1软件进行聚类分析（包括数量性状和质量性状)，并结合地理分布将保靖淫羊藿（E.baojingense）处理为木鱼坪淫羊藿变种（E.francheti var.baojingense）、时珍淫羊藿（E.lishihchenii）处理为木鱼坪淫羊藿亚种（E.franchetii subsp.lishihchenii）（刘少雄等，2016)。钟花淫羊藿（E.campanulatum）由 Ogisu 栽培于英国 Blackthorn NurseryKilmeston 的栽培植株命名（Ogisu,1996)。但由于其性状与无距淫羊藿（E.ecalcaratum）和茂汶淫羊藿（ $E .$ platypetalum）性状相似被Flora ofChina 处理为存疑种（Ying etal.,2011）。本课题组基于居群的野外调查发现，钟花淫羊藿（E.campanulatum）小花15\~43朵，根茎直径 $4 { \sim } 6 \mathrm { m m }$ ，内萼片淡红色，卵形，花茎上2枚复叶对生或互生，偶3枚复叶互生与无距淫羊藿（ $E .$ ecalcaratum）和茂汶淫羊藿（E.platypetalum）差异明显，因此支持其为独立种（Liu et al., 2017）。
+
+淫羊藿属植物花瓣形态、是否呈距、距的长短、是否有瓣片、花瓣与内萼的相对大小种间差异较大，中国类群具有该属完整的花瓣类型及各种变异类型[天门山淫羊藿(E.tianmenshanense)]（Stearn,2002;Xuetal.,2020)，是研究花发育和系统进化的理想材料。
+
+花部形态作为分类中重要的性状，一直以来备受关注，但成熟的花只是花发育过程中的一个阶段，对花发生和发育过程的研究可为系统演化和发育研究提供重要线索（Endress,1994;Casanova etal.,2020)。研究花发育性状是探讨被子植物的花及其各个部位起源与演化问题的关键手段之一（Ren etal.,2010,2011；罗敏蓉，2019)。通过扫描电子显微镜精细观察花各个部位的发生和发育过程，极大推动了植物系统演化和发育的发展和进步(Endress,2011)。通过对花发生和发育的观察，探索花各部位发生发育的时间顺序和空间关系，可揭示花发育和演化的全过程（Silvaetal.,2020)。同时，通过对比同科、同属和同一花部的不同形态特征，可探讨不同种类的演化关系（Wangetal.,2020)。
+
+因此，未来可关注淫羊藿属物种间花萼和花瓣等性状在发育上的区别与联系，为该属系统演化和发育研究提供新资料。
+
+# 参考文献：
+
+BRADLEY D, XU P, MOHORIANU II, et al.,2017. Evolution of flower color pattrn through selection on regulatory small RNAs [J]. Science, 358(6365): 925-928.   
+BUCK WR,MAJESTYK P, MOTLEY TJ, 2003. Book review the genus Epimedium and other herbaceous Berberidaceae [J]. Brittonia, 55: 302-304.   
+CASANOVA JM, CARDOSO D, BARROS CF, et al., 2020. Floral morphology and development in Tachigali (Caesalpinioideae,Leguminosae),a predominantly rainforest tree genus with contrasting flower architectures [J].Plan Syst Evol, 3O6(2): 1-13.   
+CHEN YB,LI S, WU J, et al., 2O21. A cluster analysis of karyotype resemblance-near coefficients in genus Epimedium L. and its evolutionary and systematic implications [J]. Guihaia, 41(1): 55-67.[陈永毕，李双，吴静，等，2021．基于淫羊藿属（EpimediumL.）核型似近系数 的聚类分析及其系统学演化意义[J]．广西植物，41(1)：55-67.]   
+DAVIS PH, HEYWOOD VH, 1936.Principles of angiosperm taxonomy [M]. London: Oliver & Boyd Press.   
+ENDRESS PK,1994. Diversity and evolutionary biology of tropical flowers [M]. Cambridge: Cambridge University Press.   
+ENDRESS PK, 2011. Changing views of flower evolution and new questions [M]// WANNTORP L, RONSE DE, CRAENE LP. Flowers on the tree of life. Cambridge: Cambridge University Press: 120-141.   
+GAO H, WANG H, QUAN QM, et al., 2012. Influence of three cultivation patterns on growth of Epimedium wushanense[J].Guihaia,32(5): 663-668.[高辉，王辉，权秋梅，等，2012．不 同栽培方式对巫山淫羊藿生长的影响[J]．广西植物，32(5)：663-668.]   
+GAO M, 2O11. The characters of non-glandular hair and the determination of magnoflorine of Chinese Epimedium [D]. Beijing: The Institute of Medicinal Plant Development [高敏，2011. 中国地区淫羊藿属非腺毛特征及木兰花碱含量研究[D]．北京：中国医学科学院药用植 物研究所.]   
+GUO BL，20o5. Study on species and geographic distribution of small-flowered taxa of EpimediumL. in China[J].Chin Pharm J,40(16): 1217-1220.[郭宝林，2005．中国淫羊藿 属小花类群的种类与地理分布［J]．中国药学杂志，40(16)：1217-1220.]   
+GUO BL, HE SZ, ZHONG GY, et al., 2007. Two new species of Epimedium (Berberidaceae) from China[J].Acta Phytotax Sin,45(6): 813-821.[郭宝林，何顺志，钟国跃，等，2007．中国 淫羊藿属（小檗科）二新种[J]．植物分类学报，45(6)：813-821.]   
+HE SZ,2O14. The genus Epimedium of China in colour [M]. Guiyang: Guizhou Science & Technology Press:1-179.[何顺志，2014．中国淫羊藿属植物彩色图鉴[M]．贵阳：贵州 科技出版社：1-179.]   
+HE SZ, GUO BL, WANG XC, 2003. Taxonomic study on Epimedium sagittatum (Berberidaceae). [J].Guizhou Sci,21(1-2):102-106.[何顺志，郭宝林，王晓春，2003．箭叶淫羊藿及近缘 种的分类研究［J]．贵州科学，21(1-2)：102-106.]   
+HE SZ,LI L,LUO T,1992. Pharmacognostical identification study on Herba epimedii of Guizhou.[J].Guizhou For Sci Technol,20(4):39-42.[何顺志，李玲，罗涛，1992．贵州淫 羊藿商品药材的生药鉴定研究［J]．贵州林业科技， $2 0 ( 4 ) : 3 9 - 4 2 . ]$   
+HE SZ, XU WF, GUO BL，et al.， 2005. Study on species and geographic distribution of small-flowered taxa of Epimedium L. in China [J]. Chin Pharm J, 40(16): 1217-1220.[何顺 志，徐文芬，郭宝林，等，2005．中国淫羊藿小花类群的种类与地理分布［J]．中国药 学杂志，40(16)：1217-1220.]   
+HE YM, HUANG H, JIANG Y,et al., 2O20. Morphological variation pattern and supplementary description of Epimedium epsteini [J]. Guihaia, 40(4): 452-461.[何益明，黄华，蒋勇，等, 202．紫距淫羊藿的形态变异式样及描述修订［J]．广西植物，40(4)：452-461.]   
+HONG DY, 2016a. Opinion of raising rationality in species delimitation [J]. Biodiver Sci, 24(3): 360-361.[洪德元，2016a．关于提高物种划分合理性的意见[J]．生物多样性，24(3)： 360-361.]   
+HONG DY, 2016b. Biodiversity pursuits need s scientific and operative species concept [J]. Biodiver Sci,24(9):979-999.[洪德元，2016b．生物多样性事业需要科学、可操作的物种 概念［J]．生物多样性，24(9)：979-999.]   
+HOPKINS R,RAUSHER MD, 2011. Identification of two genes causing reinforcement in the Texas wildflower Phlox drummondii [Jl. Nature, 469: 411-414.   
+KONG HZ, 2O16. Biodiversity undertakings callfor extensive discussion on species concept and the criteria for species delimitation [J]. Biodiver Sci,24(9): 977-978.[孔宏智，2016．生物 多样性事业呼唤对物种概念和物种划分标准的深度讨论[J]．生物多样性，24(9): 977-978.]   
+LI FL,BAO WK, 2005. Responses of the morphological and anatomical structure of the plant leaf to environmental change[J].Chin Bull Bot, 22(S1): 118-127.[李芳兰，包维楷，2005．植 物叶片形态解剖结构对环境变化的响应与适应［J]．植物学通报， $2 2 \left( \mathrm { S 1 } \right) : 1 1 8 { - } 1 2 7 . ]$ （204   
+LIANG HR, YAN WM, YANG CS, et al., 1990. New taxa of Epimedium L. from China [J]. Acta Phytotax Sin,28(4):321-324.[梁海锐，阎文玫，杨春澍，等，1990．淫羊藿属新植物[J]. 植物分类学报， $2 8 \left( 4 \right) : 3 2 1 \mathrm { - 3 2 4 . } \dot { }$ 1   
+LIU JQ,2016.“The integrative species concept”and “species on the speciation way”[J]. Biodiver Sci,24(9):1004-1008.[刘建全，2016．“整合物种概念”和“分化路上的物种”[J]．生 物多样性，24(9)：1004-1008.]   
+LIU LJ,2019. Intraspecific floral color variation of Epimedium and the systematic quality evaluation of $E$ ，acuminatum [D]. Nanchang: Jiangxi University of Traditional Chinese Medicine.[刘林健，2019．淫羊藿属种内花色变异及粗毛淫羊藿的质量特征研究[D]. 南昌：江西中医药大学]   
+LIU SX, 2017. A taxonomic revision of the genus Epimedium (Berberidaceae) in China and description with DELTA (Description Language for Taxonomy） system [D]. Nanchang: Jiangxi University of Traditional Chinese Medicine.[刘少雄，2017．中国淫羊藿属分类学 修订及DELTA描述[D]．南昌：江西中医药大学]   
+LIU SX,LIU LJ,HUANG XF, et al., 2017. A taxonomic revision of three Chinese spurless species of genus Epimedium L. (Berberidaceae) [J] Phytokeys,78: 23-36.   
+LIU SX, SHI HJ, XU YQ, 2016. Morphological comparison of the Epimedium francheti Stearn species complex based on population observation and implications for taxonomy [J]. Plant Sci J,34(3):325-339.[刘少雄，石慧君，徐艳琴，2016．基于居群观测的木鱼坪淫羊藿 复合种形态比较和分类学启示［J]．植物科学学报，34(3)：325-339.]   
+LUO MR, 2019. Floral morphogenesis in Leptopyrum (Ranunculaceae） with scanning electron microscopy[J].Guihaia,40(11):1645-1652.[罗敏蓉，2019．蓝堇草属（毛茛科）花形态 发生的扫描电子显微镜观察[J]．广西植物，40(11)：1645-1652.]   
+LUO Y, YANG QE, 2005. Taxonomic revision of Aconitum (Ranunculaceae) from Sichuan, China [J].Acta Phytotax Sin,43(4):289-386.[罗艳，杨亲二，2005．四川乌头属的修订[J]．植 物分类学报，43(3)：289-386.]   
+OGISU M, 1996. Epimedium campanulatum (Berberidaceae) a new Chinese spurless species from Sichuan. [J]. Kew Bull, 51(2): 401-404.   
+QUAN QM, GAO ZM, LI YX, 2012. Comparative analysis of morphological characteristics and effective composition content of Epimedium pubescens in different habitats [J]. Guihaia, 32(3):350-354.[权秋梅，高泽梅，黎云祥，2012．不同生境中柔毛淫羊藿形态特征及其 有效成分差异分析[J]．广西植物，32(3)：350-354.]   
+REN YI, CHANG HL, ENDRESS PK, 2010. Floral development in Anemoneae (Ranunculaceae) [J]. Bot J Linn Soc,162(1): 77-100.   
+REN Y,GU TQ,CHANG HL， 2011. Floral development of Dichocarpum, Thalictrum,and Aquilegia (Thalictroideae, Ranunculaceae) [J]. Plant Syst Evol, 292(3-4): 203-213.   
+SHENG MY,GAO MD，WANG LJ，2020. Heterochromatin banding and rDNA physical mapping in 22 Epimedium species and two Vancouveria species: implications for evolution in Epimedium [J]. Bot J Linn Soc, XX: 1-18. Doi: 10.1093/botlinnean/boaa051.   
+SILVA ADL, ALVES MVS, COAN AI, 2020. Comparative floral morphology and anatomy of Thurniaceae,an early-diverging family in the cyperids (Poales,Monocotyledons)[J]. Plant Syst Evol, 306(3): 1-14.   
+STEARN WT,1938. Epimedium and Vancouveria (Berberidaceae), a monograph [J]. J Linn Soc Bot, 51: 409-555.   
+STEARN WT, 1997. Four new Chinese species of Epimedium (Berberidaceae）[J]. Kew Bull, 52(3): 659-671.   
+STEARN WT,1998.Four more Chinese species of Epimedium (Berberidaceae) [J]. Kew Bull, 53(1): 213-223.   
+STEARN WT, 2OO2.The genus Epimedium and other herbaceous Berberidaceae, including the genus Podophyllum.A botanical magazine monograph [M]. Oregon: Timber Press: 1-202.   
+SUN C, ZOU JL, ZHONG Y,et al., 2004. Study on the cultivation of three species of genus Epimedium[J].ChinJChin Mat Med,29(3):274-275.[孙超，邹剑灵，钟雁，等，2004．淫 羊藿属3种植物引种栽培研究[J]．中国中药杂志，29(3)：274-275.]   
+VAIDYA P, MCDURMON A, MATTOON E, et al., 2018. Ecological causes and consequences of flower color polymorphism in a self-pollinating plant (Boechera stricta)[J]. New Phytol, 218: 380-392.   
+WANG JR, WANG X, SU N, et al., 2020. Floral morphology and morphogenesis in Sanguisorba (Rosaceae): flower diversification despite petal reduction and spatial constraints [J]. Bot J Linn Soc,193(1): 47-63.   
+WANG YY, HE SZ, GUO BL, 2008. Non-glandular hairs of small-flowered taxa in Epimedium (Berberidaceae) from China and their taxonomic significance [J]. Acta Bot Yunnan, 30(4): 423-429.[王悦云，何顺志，郭宝林，2008．中国淫羊藿属小花类群非腺毛形态[J]．云 南植物研究，30(4)：423-429.]   
+WANG YY,HE SZ, XU WF, 2009. Systematics of small-flowered taxa of Epimedium L. in Chiina [J].Guizhou Sci,27(4):43-49.[王悦云，何顺志，徐文芬，2009．中国淫羊藿属 小花类群分类系统[J]．贵州科学，27(4)：43-49.]   
+WANG YY, XU WF, HE SZ, 2005. Research status of the smal-flowered Chinese species of Epimedium [J].JGuiyang Coll Tradit Chin Med,27(4): 6-9.[王悦云，徐文芬，何顺志, 2005．中国淫羊藿小花类群的研究现状[J]．贵阳中医学院学报，27(4)：6-9.]   
+WANG YY, XU WF, HE SZ, 2017. Epimedium muhuangense (Berberidaceae), a new species from China [J]. Phytotaxa, 319(3): 277-282.   
+XU BS,1998. The species problem in plant taxonomy in China [J]. Acta Phytotax Sin, 36(5): 470-480.[徐炳声，1998．中国植物分类学中的物种问题［J]．植物分类学报，36(5)： 470-480.]   
+XU WF, HE SZ, 2005. Species and geographic distribution of large-flowered taxa of Epimedium in China [J].JChin Mat Med,28(4):267-271.[徐文芬，何顺志，2005．中国淫羊藿属大 花类群的种类与地理分布［J]．中药材，28(4)：267-271.]   
+XU YQ, CAI WZ, HU SF, et al.，2013. Morphological variation of non-glandular hairs in cultivated Epimedium sagittatum (Berberidaceae) populations and implications for taxonomy [J].Biodiver Sci,21(2):185-196.[徐艳琴，蔡婉珍，胡生福，等，2013．箭叶淫羊藿同质 园栽培居群非腺毛多样性及其分类学启示[J]．生物多样性，21(2)：185-196.]   
+XU YQ，HUANG H，HE YM，et al.， 202O. Continuous petal variation in Epimedium tianmenshanense (Berberidaceae),a species endemic to western Hunan, China [J]. Nord J Bot, 38(8). Doi: 10. 1111/ njb. 02651.   
+XU YQ, JIANG Y, HUANG H, et al., 2020. Taxonomic study of Epimedium L.: status, issues and prospect[J].Guihaia,40(5):601-617.[徐艳琴，蒋勇，黄华，等，2020．淫羊藿属分类学 研究：进展、问题与展望[J]．广西植物，40(5)：601-617.]   
+XU YQ,LIU LJ,LIU SX, et al.，2019. The taxonomic relevance of flower for Epimedium (Berberidaceae),with morphological and nonmenclatural notes for five species from China [J]. Phytokeys,118: 33-64.   
+XU YQ, XU Y, LIU Y, et al., 2O14. Progress and open problems in classical taxonomic research on EpimediumL.[J].Chin Herb Drugs,45(4): 569-577.[徐艳琴，许瑛，刘勇，等，2014．淫 羊藿属经典分类学研究进展及存在的问题[J]．中草药，45(4)：569-577.]   
+YAN FL,HE SZ, XU WF, et al.， 2015.Character mutation and classification of Chinese Epimedium medicinal plants after introduction [J]. Guizhou Agric Sci, 43(9): 153-156.[严福 林，何顺志，徐文芬，等，2015．中国淫羊藿属药用植物引种后性状变异及分类[J]．贵 州农业科学，43(9)：153-156.]   
+YAN FL， WANG B, ZHU GF, et al.，2019a. Research progress in taxonomy of Epimedium (Berberidaceae)[J].Guizhou Sci,37(5):37-47.[严福林，王波，朱光福，等，2019a．淫羊 藿属(Epimedium)植物系统分类研究进展［J]．贵州科学，37(5)：37-47.]   
+YAN FL, XU WF, SUN QW, et al., 2019b. Taxonomic identification analysis of 15 medicinal plants of Epimedium based on ITS 2 sequence [J]. Seed,38(6): 43-47.[严福林，徐文芬, 孙庆文，等，2019b．基于ITS2序列的15 种淫羊藿属药用植物分类鉴定研究［J]．种 子，38(6):43-47.]   
+YAN FL, SUN QW, REN DQ,et al., (2020-08-17) [2021-02-26]. Taxonomy and identification analysis Epimedium (Berberidaceae） applying DNA barcoding [J/OL]. J Chin Arch Trad Chin Med, http://ns.cnki.net/kcms/detail/21.1546.R.20200817.1330.214.html.[严福林，孙 庆文，任得强，等，（2020-08-17）．［2021-02-26]．DNA 条形码技术在淫羊藿属植物 分类鉴定中的可行性分析[J/OL]．中华中医药学刊， http://kns.cnki.net/kcms/detail/21.1546.R.20200817.1330.214.html.]   
+YANG QE,2001. Over-reliance of SCI damages the research of traditional taxonomy in China Some thoughts after reading two letters in “Nature".[J]. Acta Phytotax Sin, 39(3): 283-288. [杨亲二，2001．过分依赖 SCI 正在损害我国的传统分类学研究——从《Nature》上的 两封信说开去[J]．植物分类学报，39(3)：283-288.]   
+YANG QE,2016. Comments on species-level taxonomy of plants in China [J]. Biodivers Sci, 24(9):1024-1030.[杨亲二，2016．我国植物种级水平分类学研究刍议[J]．生物多样性， 24(9): 1024-1030.]   
+YING JS, 2001. Epimedium L. [M]// YING JS, CHEN TC. Flora Reipublicae Popularis Sinicae. Beijing: Science Press,29:262-293.[应俊生，2001．[M]//应俊生，陈德昭．中国植物志. 北京：科学出版社，29：262-293.]   
+YING JS, 2OO2. Petal evolution and distribution patterns of Epimedium L. (Berberidaceae） [J]. Acta Phytotax Sin,40:481-489.[应俊生，2002．淫羊藿属（小檗科）花瓣的演化和地理 分布格局的研究［J]．植物分类学报，40：481-489.]   
+YING JS,BOUFFORD DE,BRACH AR,2011.Berberidaceae [M]// WU ZY,RAVEN PH, HONG DY.Flora of China. Beijing: Science Press; St. Louis: Missouri Botanical Garden Press,19: 787-799.   
+ZHANG XD,2O09.Research on taxonomy and quality of the big-flowered Chinese species of Epimedium [D]. Guiyang: Guiyang College of Traditional Chinese Medicine.[张晓东，2009. 中国淫羊藿属Epimedium大花类群分类鉴定与药材质量研究[D]．贵阳：贵阳中医学院]   
+ZHANG YJ, DANG HS,LI SY, et al., 2015.Five synonyms in Epimedium (Berberidaceae) from China [J].PhytoKeys, 49:1-12.   
+ZHANG YJ, DANG HS,WANG Y,et al.,2011. A taxonomic revision of unifoliolate Chinese Epimedium L. (Berberidaceae) [J]. Kew Bull, 66(2): 253-262.   
+ZHANG YJ, ZHANG SJ, DANG HS, et al., 2016. Epimedium xichangense (Berberidaceae), a new species from Sichuan, China [J].Phytotaxa, 263(3): 286-290.   
+ZHANG YR, WANG XJ, CAO ZS, et al., 2017. Study on morphological variation of growth and seed of Epimedium sagittatum of different provenances [J]. Hunan For Sci Technol, 44(6): 1-7.[张玉荣，王旭军，曹展硕，等，2017．不同产地箭叶淫羊藿生长与种实形态性状 变异研究［J]．湖南林业科技， $4 4 \left( 6 \right) : ~ 1 { - } 7 . ~ ]$ （20   
+ZHI HC, LIU X,GUO BL, et al., 2O18. Leaf non-glandular hair morphology and its taxonomic significance in Epimedium pubescens and related species [J]. Acta Bot Boreal -Occident Sin, 38(11):2023-2035.[植汉成，刘翔，郭宝林，等，2018．柔毛淫羊藿及其近缘种非腺毛 形态及其分类学意义［J]．西北植物学报，38(11)：2023-2035.]

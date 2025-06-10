@@ -1,0 +1,429 @@
+[
+    {
+        "type": "text",
+        "text": "基于地理分级标准的偏远地区卫生人力资源优化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "澳大利亚MMM分级法及其对我国的启示",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干颖滢1，王书平²，吴晓凡，闫丽娜2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：中国与世界卫生组织 2020-2021双年度合作项目（GJ2-2021-WHOPO-E1)；第一作者受中国国家留学基金委资助研究  \n1.2628BL，荷兰代尔夫特市，荷兰代尔夫特理工大学医疗建筑研究中心  \n2.100191，北京市，国家卫生健康委卫生发展研究中心  \n3.832003，新疆石河子市，石河子大学医学院  \n\\*通讯作者：闫丽娜，E-mail:yln $@$ nhei.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】澳大利亚四分之一的人口在偏远地区或者农村，内陆地区人口过疏化较为严重，为解决这类地区的医疗服务难题，澳大利亚卫生部自1994年起使用基于地理分析的人力资源分类系统帮助卫生部门及相关部门改进医疗卫生服务，并定时更新地理分级系统以适应最新的社会人口情况与医疗服务现状。2018年起，澳大利亚卫生部开始启用最新的分级标准即改良莫纳什模型，并配套一系列相应的卫生政策支持农村及偏远地区医疗。本文通过回顾分析澳大利亚的相关优化政策，指出为更好地为我国医疗资源薄弱地区提供优质可及的医疗服务，我国可借鉴澳大利亚相关经验，适时推进并分阶段细化医疗服务的地理分级系统，系统化制定相应资源优化政策，完善法律法规体系，并发挥现代化与高新科学技术的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】艰苦边远地区；澳大利亚；资源配置；地理分级；卫生政策",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Optimization of health human resources in remote areas based on geographical classification standards:Australian Modified Monash Model and its enlightenment to China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yingying GAN1, Shuping WANG², Xiaofan WU³, Lina YAN2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Healthcareenvironmentresearch center,Delft UniversityofTechnology,Delft,2628BL,theNetherlands   \n2. China National Health Development Research Center, Beijing,100191, China   \n3．School of medicine,Shihezi University, Shihezi,832003, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】One quarter of Australia's population is in remote areas or rural areas,andthe population in inland areas is seriously sparse.Inorderto provideaccessible high-quality medicalservice in these areas,the Australian Ministryof Health has introduced geographical classification systemanalysis to help relevantdepartments improve medical ervices since 1994,and regularly updated the geographical clasification system to adapt to the latest socio demographic situation and medical service status.From 2018,The Australian Ministry of health began to use the latest Modified Monash Model,and supported a series of coresponding health policies in rural and remote areas. Medical services in rural andremote areas in China also need policy preference based onscientific classification system. China can refer to Australia who timely promote and refine the geographical clasification system of medical services in stages.In order to provide better accessible medical services to areas with weak medical resources, wehad better systematically formulate corrsponding resource optimization policies,improve the system of laws and regulations,and give playto the role of modernization and high-tech science and technology. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Keywords】 rural and remote areas,Australia,resource allcation， geographical classification, healthcare policy.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如何为农村及偏远地区提供优质高效的医疗服务，是世界性难题。相较在人口密集地区，偏远地区所需的医疗卫生服务的工作量较大、工作难度较高，其吸引和留用卫生人才较为困难。我国和澳大利亚均为幅员辽阔、资源丰富但人口分布不均的国家，共同面临着难以为偏远地区提供优质可及的医疗服务的困境。澳大利亚长期致力于为农村及偏远地区提供更公平优质的服务，其2008年农村及偏远地区的人均千人口医务人员数不及中心城市的二分之一1,根据 2020 年的最新数据测算得出，澳大利亚中心城市的千人口医务人员数为29.14人，极度偏远地区为 21.63人2，其不同偏远程度地区的差异显著减少。区域卫生资源差距的缩小，得益于澳大利亚不断完善的医疗卫生制度，尤其是其基于不同地理分级的卫生政策。本研究拟通过分析澳大利亚基于地理分级系统的卫生服务政策和偏远地区医疗服务的经验，为我国偏远地区医疗卫生政策与医疗卫生服务提供参考与借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1澳大利亚地理分级系统的发展与演变",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大约四分之一的澳大利亚人住在偏远地区或者农村，但是这些地区的医疗水平较城市地区明显落后。澳大利亚主要城市的人均预期寿命为82.5岁，而极度偏远地区仅为65.3岁，其主要城市的新生儿死亡率为 $2 . 9 \\text{‰}$ ，而极度偏远地区的死亡率则高达 $6 . 3 \\text{‰}$ 。与其他地区相比，农村和偏远地区的卫生专业人员相对较少，这会影响生活在农村和偏远地区的人们的健康和福祉4。研究表明，卫生资源的短缺主要与潜在患者对医疗服务付费能力较低所致，其解决的本质是将社会资源再分配。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为实现医疗服务公平可及性，澳大利亚相关部门和研究机构制定了分级分类系统，并根据实际不断完善。1984年，澳大利亚统计局通过统计分析地理数据，研发了澳大利亚地理统计分级系统（Australian StatisticalGeographical Classification，ASGC），该系统被包括卫生部在内的各组织广泛应用。1994 年澳大利亚公共事业和卫生部在统计局的协助下，根据人口密度、距城区的直线距离、地区距离等因素制定了“农村、边远地区和大城市分级标准”（The Rural，Remote and Metropolitan Areas classification，RRMA)，将每一个“局部统计区域”分成城市圈、农村地区和偏远地区三大类，其中城市圈包括首都和其他人口超过10万的中心城市，农村地区包含人口在2.5万到10万的大型农村、人口介于1万到2.5万的中心农村和人口不及1万的小农村；偏远地区则依据中心人口是否达到5000人分为两级。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1999年阿德雷德大学通过使用包含道路、位置和服务信息的GIS数据库提出了澳大利亚可及性/偏远性指数分级标准(the Accessibility/Remoteness Index of Australia，ARIA)，用1千米的格网来计算各地区的偏远指数，分数由低到高分为高度可达（0-1.84分）、可达（1.84-3.51分）、相对可达（3.51-5.80分）、偏远地区（5.80-9.08分）和极度偏远地区（9.08－12分）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2001年，阿德莱德大学雨果移民和人口研究中心将ARIA算法改良，提出ARIA+，ARIA $\\cdot ^ { + }$ 的算法主要基于12,000 多个人口稠密地区到最近的服务中心的路网距离，并根据人口规模，将澳大利亚的地区分为五个不同类别，其范围值从0（高可达性）到15（高偏远性）。随后，澳大利亚统计局运用ARIA $\\cdot ^ { + }$ 的评分方法，提出了“澳大利亚标准地理分级系统-偏远地区”(Australian Standard Geographic System－Remoteness Areas，ASGS-RA)，将澳大利亚分成了主要城市（ARIA $\\cdot ^ { + }$ 指标：0-0.2，含0.2）、内部区域（ARIA $\\cdot ^ { + }$ 指标：0.2-2.4，含2.4）、外围地区（ARIA $\\cdot ^ { + }$ 指标：2.4-5.92，含5.92）、偏远地区（ARIA $\\cdot ^ { + }$ 指标：5.92-10.53，含10.53）和极偏远地区（ARIA $\\cdot ^ { + }$ 指标 ${ > } 1 0 . 5 3 { \\mathrm { ~ } }$ )。从2011年起，澳大利亚标准地理分级系统代替了ASGC-RA,被广泛应用到卫生政策的制定中，每五年更新一次，推出了ASGS-RA2011和ASGS-RA 2016 以适应最新的社会经济状况和医疗服务水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015年，澳大利亚卫生部推出了改良莫纳什模型（Modified MonashModel，MMM)，2018年将该模型进行修订后推广应用到新的卫生政策中，或将既有卫生政策修改后适应新的MMM地区分级系统。MMM分级系统与之前的地理分级标准一样，主要来源于澳大利亚统计局的数据，其数据包括了人口数据及其相应的行政边界和距离，并每五年更新一次。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a43d4c05655f5bd13bfe47181ece43d9124b73831da673a5c54af37bebaebda2.jpg",
+        "img_caption": [
+            "图1ASGS系统划分",
+            "Figure 1 Australian Standard Geographic System "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7b7efe6ae32206418e7a248fb27b2a632f5144e76811b466dd2748b31118dbe4.jpg",
+        "table_caption": [
+            "表1澳大利亚地理主要地理分级系统演进Table 1 The geographical systems in Australia"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主要地理分级系统</td><td>颁布单位</td><td>颁布时间</td><td>主要内容</td></tr><tr><td>澳大利亚地理统计分级系统 (ASGC)</td><td>统计局</td><td>1984年至2011年</td><td>主要分为7个层级，统计局作为框架来定义一个 地区的偏远程度。</td></tr><tr><td>农村、边远地区和大城市分级 标准(RRMA)</td><td>产业能源 部、卫生 部</td><td>1994年1991年</td><td>三大分区，七个分级</td></tr><tr><td>澳大利亚标准地理分级系统-偏 远地区(ASGS)</td><td>统计局</td><td>2011年</td><td>主要分成5个等级。 用于发布和分析广泛的社会、人口和经济统计数</td></tr><tr><td></td><td></td><td></td><td>据，广泛应用于各大组织</td></tr><tr><td>改良莫纳什模型(MMM)</td><td>卫生部</td><td>2015年</td><td>主要分成MM1-MM7七个等级，主要基于人口及 地理数据，主要应用于卫生政策制定</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2改良莫纳什模型及其分类标准",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改良莫纳什模型(MMM)是基于澳大利亚偏远地区地理统计标准（ASGS-RA）的地理分级标准，从2020年1月开始，所有的项目的顶层规划将会基于改良莫纳什模型进行设计。改良莫纳什模型通过地理位置和人口规模等因素定义了某个地区是属于城市、农村、偏远地区或是极度偏远地区，并将这些地区分成了MM1到MM7七个等级，其中MM1代表主要城市，而MM7代表极度偏远地区（图2，表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/78bd12816e882eb2b1226b346ae74b0c6cecfa78500249a8d62bffed0e3e07e2.jpg",
+        "img_caption": [
+            "图2改良莫纳什分级系统 (图例见表2）Figure2The Modified Monash Model"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2改良莫纳什地理分级系统图图例及其解释",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table2TheModifiedMonashModelandthestandards ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ca2f7a2e9a866a2b973a4782d30df89efec6d13c657ad89bd27815b4f130e84.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分级 代表区域</td><td></td><td>评价标准</td></tr><tr><td>MM1</td><td>大都市区</td><td>聚集了70%的澳大利亚人的区域。对应原标准ASGS-RA1。</td></tr><tr><td>MM2</td><td>区域中心城市</td><td>驾驶半径小于 20km 的城市或其居民人数超过 50,000人的城市。对应原标准 ASGS-RA 2 和 ASGS-RA 3。</td></tr><tr><td>MM3</td><td>大型城镇</td><td>驾驶半径小于15km或居民人数在15,000人与50,000人之间的城镇。对应原标准 ASGS- RA 2或 ASGS-RA 3。</td></tr><tr><td>MM4</td><td>中型村镇</td><td>驾驶半径小于10km 或居民人数在 5,000人与15,000人之间的村镇。对应原标准 ASGS- RA2或ASGS-RA3</td></tr><tr><td>MM5</td><td>小型村镇</td><td>其余符合原标准 ASGS-RA 2或 ASGS-RA3 的所有村镇。</td></tr><tr><td>MM6</td><td>偏远社区</td><td>离大陆海岸线小于1km,但是没有桥与大陆相连的岛屿。对应原标准的 ASGS-RA4 以及 与大陆海岸线小于5km 的岛屿。</td></tr><tr><td>MM7</td><td>极度偏远社区</td><td>原有标准的ASGS-RA5。距离大陆海岸线大于5km的岛屿。</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3基于地理分级标准的医疗资源优化政策",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "医疗卫生资源包括卫生人力资源、物力资源、财力资源和信息资源等8。卫生人力资源是卫生系统的核心部分，是实现卫生产出的关键因素。澳大利亚基于地理分级标准完善顶层设计，系统化制定卫生人才的培养、吸引、留用、提升制度，促进卫生资源公平有效分配。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1顶层设计与人才定向培养：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于改良莫纳什模型的地理分级系统，澳大利亚卫生部门将MM3-MM7的区域以及北领地划分为优先分配区（Distribution Priorityof Area,DPA)，结合改良莫纳什地理分级系统综合考虑人均全科医生数据及年龄、性别等人口统计数据以及当地的社会经济状况，协助澳大利亚对于其国内外的医学生培养体系进行顶层设计，自上而下统一调配国内外医学生的培养和录用。卫生部在此基础上推出了一系列计划，如面向国内全科医学生的医务人员签约计划（Bonded medical places scheme,BMP）、面向国内专科医学生的劳动力短缺区（The District of workforceshortage,DWs）以及面向国际医学生的五年海外培养医生计划(5 year overseas trained doctor scheme)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "医务人员签约计划（BMP）和农村医疗服务签约计划（Medical Rural Bonded Scholarship (MRBS) Schemes，MRBS）一起为澳大利亚农村及其偏远地区提供医疗人员的定向培养，前者提供定向工作机会（类似于毕业包分配)，后者每年筛选100名入选者，每年提供26310澳币(折合人民币约12万元)的奖学金10，并要求其毕业后为偏远地区提供六年左右的回馈服务。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "优先分配地区（DPA）主要是针对全科医生，而劳动力短缺区（DWS）的划分主要针对于麻醉学、心脏病学、放射诊断学、普通外科、妇产科、眼科、医学肿瘤学、精神病学等八个方向的专科医生，面向改良莫纳什模型中的MM4-MM7区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于国际医学生来说，他们需要在劳动力短缺区DWS 或优先分配区DPA工作一定年限后方可获得澳大利亚行医许可编号11，获取澳大利亚政府保险Medicare 的资格。2年内获得澳大利亚全科医生学院或澳大利亚农村与偏远医学学院的奖学金的国际医学生有机会入选五年海外培养医生计划，将服务年限从10年缩短至五年。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "国内外医学生的服役年限及其相应的福利措施受到专业的法律保护。起草于1973年的健康保险法（Australia's Health Insurance Act1973）中的第19AB条相对应（表3），从法律层面规范了医学生的支援边远地区的义务，也保障了医学生享有的相应权利。目前，健康保险法依据 RSGS-RA中的地区分级分类来计算医务人员在各级地区的从医时间，依次为：主要城市（RA1）10年（无减免），内部地区（RA2）9年，外围区域（RA3）7年，偏远地区（RA4）6年，极偏远地区（RA5）5年。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a3f687e86cb2c5b5820802086c800de4021a377b9d7d860c988e00e47a44cef.jpg",
+        "table_caption": [
+            "表3健康保险法19AB中不同地区对于必须从医时长的影响",
+            "Table 3 the length of mandatory medical service in Australia's Health Insurance Act 19ab "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分级</td><td>类型</td><td>每月累计豁免时长</td><td>所需从医时长</td></tr><tr><td>RA1</td><td>主要城市</td><td>无</td><td>无</td></tr><tr><td>RA2</td><td>内部地区</td><td>3.37天</td><td>9年</td></tr><tr><td>RA3</td><td>外围区域</td><td>13天</td><td>7年</td></tr><tr><td>RA4</td><td>偏远地区</td><td>20.3天</td><td>6年</td></tr><tr><td>RA5</td><td>极偏远地区</td><td>30.4天</td><td>5年</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2职业规划与技能提升",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "远程职业培训计划（Remote Vocational Training Scheme,RVTS）向 MM4-MM7地区的医务人员提供结构化的远程教育和培训，通过远程教育模式支持偏远社区医生获得奖学金，其中，远程职业培训计划扩展定向招聘试点项目（Remote Vocational Training Scheme(RVTS)Extended Targeted Recruitment Pilot）从2021年开始，通过向医生提供薪酬激励，提高对农村和偏远地区普通医生的吸引力，试点招募约10名来自偏远地区（主要面向MM5-MM7）的医务人员，为期三年，分别支持 20万澳元、20万澳元和10万澳元12。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在 MM3-MM7区域工作的全科医生有权申请全科医生麻醉技能培训计划(General Practitioner ProceduralTraining Support Program,GPPTSP)，并获得澳大利亚和新西兰皇家妇产学院的高级文凭、麻醉学高级技能培训证书和价值四万澳币的奖学金，澳大利亚远程医学学院、澳大利亚及新西兰皇家妇产学院根据申请人工作地区的偏远程度和需求水平筛选10 名妇产科领域和10 名其他领域的麻醉科医生入选计划13。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "医务人员奖学金（Health workforce scholarship program）面向医生、护士、助产士、牙医等卫生服务提供者，提供研究生课程、短期课程、研讨会等的费用，在MM3-MM7工作的医务人员均可申请该项目的奖学金，而在MM1-MM2区域，只有为原住民社区提供初级医疗服务的医务人员才有资格申请该项目。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.3放宽地区医疗服务人员准入条件",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为缓解医务人员短缺，澳大利亚在偏远地区放宽了医务人员准入条件，非职业注册人员可以在特定时间和地区提供医疗服务。在注册医生短缺的地区，澳大利亚州和地区政府通过基于地理分级系统对医疗急需地区提供有限区域医疗证书，允许受限制的非职业注册员工在工作时间外提供经批准的服务项目14。经批准的医疗代理服务计划（Approved Medical Deputizing Services Program，AMDS）计划允许受限制的非职业注册员工在为AMDS 工作时向社区提供下班后服务。该计划不提供经济激励，但符合1973年《健康保险法》第19AA条，能为员工提供相应的医疗保险。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，澳大利亚农村医生增量计划（More Doctors for rural Australia Program, MDRAP）支持非职业认可（非VR）医生在加入大学奖学金课程之前，在农村和偏远社区获得全科医疗实践经验，对完成基础实践训练模块的医学生报销 500澳元，参与相关的学习和培训活动可获得最多13600 澳元的奖励。此外，MDRAP也支持全科医生、社区医生和初级保健医生在农村和偏远社区工作并获得医疗保险。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "澳大利亚政府认为，在偏远地区放宽非专业的服务人群有多重意义：一是可以为居民在工作时间外获得医疗保健服务；二能减少患者去急诊室的需求，减轻急诊服务压力；三是能确保具有注册服务资格的医生有适当的休息时间；四是能为尚未获得职业认可的技术人员在非工作时间提供实践机会和工作经验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.4财政激励措施",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "农村和偏远地区的医生所需处理的病例更复杂，慢性病的发病率也更高，医生责任更大，其所需的回馈和经济激励也应当更高。因此，澳大利亚农村大规模报销补偿机制（Rural Bulk Biling Incentives）根据修正莫纳什模型（MMM）地理分级系统来确定偏远性，并据此提供不同级别的经济激励与补助，并每年更新补助标准15。与主要城市MM1相比，MM2区域较MM1区域高出 $50 \\%$ 、MM3 至MM4 区域高出 $60 \\%$ 、MM5区域高出 $70 \\%$ 、MM6区域高出 $80 \\%$ 、MM7区域高出 $90 \\%$ 。超过12000名各农村及偏远地区的医生能获得该激励项目的支持15，澳大利亚当局每年根据实际情况更新补助标准。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为激励更多的卫生人才到农村和偏远地区工作，除报销补偿机制外，澳大利亚卫生部提出了劳动力激励计划(Workforce Incentive Program，WIP)。该计划在 2020 年初取代了全科农村激励计划(GPRIP)16，主要面向医生和诊所。申请该计划的医生必须在MM3-MM7类别的农村和偏远地区提供一定数量的初级卫生保健服务17。项目基于医生医疗服务的时间和数量对医生进行补助，每人每年最多可得六万澳元。同时，计划对雇佣了护士、当地工作人员和其他相关医务人员的诊所也提供了特定补助。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有些偏远地区没有足够的人口来支撑和维系一个诊所或长期驻扎的公共卫生团队，因此设立农村卫生外展服务基金(Rural Health Outreach Fund, RHOF)来支持通过长途跋涉或临时搬迁等方式来提供的医疗服务。该基金支持的医疗服务包括妇幼保健、用眼健康、精神健康、慢性病管理等相关的健康问题，提供差旅费、住宿费、出差补助及相关费用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为支持和保障医生的生活，澳大利亚还推出了津贴支持计划（Premium Support Scheme, PSS)，为MM3-MM7的全科医生支付医疗保险费用，该区域的全科医生都有资格参与津贴支持计划，政府将承担保费与医疗费用差额的 $7 5 \\%$ ，以减轻意外得病患病的医生的经济负担。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4地理分级分类方法的成效与优化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据澳大利亚卫生部公布的数据显示，在一系列地理分级政策的扶持下，澳大利亚MM1-MM7地区医师人数在 2014-2020年间均得到显著增加，尤其是在极度偏远的MM7地区，其 2014年到2020年的医师增长率高达$2 0 . 5 8 \\%$ （错误!未找到引用源。)。2014年至2020年间，澳大利亚各分区间的医师人口占比相当，可见其农村及偏远地区医师资源较为稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6af165e5871364223be7c4c913a2ccc5460bf18135835568f76f7628ea03b415.jpg",
+        "table_caption": [
+            "表42014年-2020年澳大利亚MM1-MM7地区执业医师占比及增长率Table 4Proportion and growth rate of medical practitioner in MM1-MM7 areas from 2014 to 2020"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">2014</td><td colspan=\"2\">2016</td><td colspan=\"2\">2018</td><td colspan=\"3\">2020</td></tr><tr><td></td><td>人数</td><td>占比</td><td>人数</td><td>占比</td><td>人数 占比</td><td>人数</td><td>占比</td><td>增长率</td></tr><tr><td>MM1</td><td>67730</td><td>79.3%</td><td>72304</td><td>79.2%</td><td>77704</td><td>79.1%</td><td>83147</td><td>79.1% 22.76%</td></tr><tr><td>MM2</td><td>7511</td><td>8.8%</td><td>8122</td><td>8.9%</td><td>8956 9.1%</td><td>9711</td><td>9.2%</td><td>29.29%</td></tr><tr><td>MM3</td><td>5260</td><td>6.2%</td><td>5623</td><td>6.2%</td><td>6050 6.2%</td><td>6520</td><td>6.2%</td><td>23.95%</td></tr><tr><td>MM4</td><td>1840</td><td>2.2%</td><td>1947</td><td>2.1%</td><td>2082</td><td>2.1% 2335</td><td>2.2%</td><td>26.90%</td></tr><tr><td>MM5</td><td>1901</td><td>2.2%</td><td>2024</td><td>2.2%</td><td>2170</td><td>2.2% 2110</td><td>2.0%</td><td>10.99%</td></tr><tr><td>MM6</td><td>796</td><td>0.9%</td><td>846</td><td>0.9%</td><td>899</td><td>0.9%</td><td>898 0.9%</td><td>12.81%</td></tr><tr><td>MM7</td><td>379</td><td>0.4%</td><td>400</td><td>0.4%</td><td>430</td><td>0.4%</td><td>457 0.4%</td><td>20.58%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "全科医生是澳大利亚需求最大的医学生群体，约 $30 \\%$ 的医学生会在毕业后进入全科领域18。在卫生政策的扶持下，2014-2020年间各级地区的全科医生也保持着有序的增长，但其增长的区域均衡性不及医师，在MM6-MM7地区增长缓慢，甚至出现了下降趋势（表5)。因此，在2022年1月和2月澳大利亚卫生部更新了针对全科医生的全面激励计划，针对不同地区有不同的支持项目，在MM7地区共有20多个项目，而MM2地区则仅有11个全科医生支持项目19。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0a92ca57a6a768ea9d184c80200ae3513de1717047cf0960055459104b82f27.jpg",
+        "table_caption": [
+            "表 52014-2020年澳大利亚MM1-MM7地区全科医生占比及增长率",
+            "able 5Proportion and growth rate of general practitioners in MM1-MM7 areas from 2014 to 2020 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">2014</td><td colspan=\"2\">2016</td><td colspan=\"2\">2018</td><td colspan=\"3\">2020</td></tr><tr><td></td><td>人数</td><td>占比</td><td>人数</td><td>占比</td><td>人数 占比</td><td>人数</td><td>占比</td><td>增长率</td></tr><tr><td>MM1</td><td>23228</td><td>62.3%</td><td>25540</td><td>63.3%</td><td>26914</td><td>63.0%</td><td>27383</td><td>63.2% 17.89%</td></tr><tr><td>MM2</td><td>3582</td><td>9.6%</td><td>3872</td><td>9.6%</td><td>4113</td><td>9.6% 4214</td><td>9.7%</td><td>17.64%</td></tr><tr><td>MM3</td><td>3130</td><td>8.4%</td><td>3351</td><td>8.3%</td><td>3545</td><td>8.3% 3567</td><td>8.2%</td><td>13.96%</td></tr><tr><td>MM4</td><td>2265</td><td>6.1%</td><td>2389</td><td>5.9%</td><td>2623</td><td>6.1% 2704</td><td>6.2%</td><td>19.38%</td></tr><tr><td>MM5</td><td>2967</td><td>8.0%</td><td>3143</td><td>7.8%</td><td>3276</td><td>7.7%</td><td>3377 7.8%</td><td>13.82%</td></tr><tr><td>MM6</td><td>1040</td><td>2.8%</td><td>987</td><td>2.4%</td><td>1076</td><td>2.5%</td><td>976 2.3%</td><td>-6.15%</td></tr><tr><td>MM7</td><td>1075</td><td>2.9%</td><td>1080</td><td>2.7%</td><td>1156</td><td>2.7%</td><td>1076</td><td>2.5% 0.09%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为能实时跟进卫生资源的地理分级，评估和审查各类卫生资源地理分级系统的合理性，澳大利亚卫生部专门设立了分区工作组（Distribution working group)。任何人都可以在网上申请重新审查卫生人力资源优先分配区（DPA）的合理性，工作组通过考察卫生服务内容、医生离休状况、医疗机构的新增和关闭等卫生服务供给状况的变化以及社会经济状况、老年人比例等卫生服务需求状况的变化，进行更改和修订，并于每年7月1日更新 DPA分区。为便于可视化展示，澳大利亚卫生部在官网上设置了卫生人力资源定位查看器（Health workforce locator)，以提供各地区在各类分级系统下的历史分级与最新分级情况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2对我国的启示",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我国偏远地区的医疗服务供给虽然随着新医改显著增长，但仍不及需求增速，数量、结构和质量缺口短期内将持续20。一是我国偏远地区常常是欠发达地区，经济社会发展程度不够，基础条件不足，基础医疗水平不高。二是偏远地区的居民受到的健康教育欠缺，健康意识不强，健康水平不高，医疗服务开展困难。三是这些地区往往地广人稀，交通可达性差，部分地区为牧区，牧民居住分散，导致次均卫生服务半径大，人均卫生服务时间长，基础医疗工作量大。四是这些地区不仅地处偏远，有些还位于高海拔、高寒地区，环境艰苦，开展医疗卫生服务难度高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "五是偏远地区相对落后，生活条件较为艰苦，卫生人才招聘和留用困难。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "当前我国偏远地区基层医生的流失率较大，基层医疗服务的稳定性受到严重挑战，部分偏远地区为重要的边境区域，其基本公共服务的提供对驻边人员的稳定性有重要影响。如何更好地配置医疗卫生资源，为我国边远提供医疗卫生服务，至关重要。参考澳大利亚引进地理分级标准并制定相应卫生政策，有利于科学化地改善我国卫生资源分布不均的问题及更好地实现公共服务均等化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1我国目前的地理分级方法和标准",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我国目前的主流地理分级方式主要是包括基于主城区常住人口为衡量标准的城市规模划分、基于自然地理条件和人文社会发展情况的艰苦边远地区划分、基于人均收入水平划分的（原）贫困县和基于地理区位等划分的\"三区三州\"等等。其中，我国将艰苦边远地区根据海拔、土被系数、水资源适宜度、地表崎岖度、气候指数、交通、通讯等因素的边远性指数、财政收入、文化教育和医疗卫生的人文发展指数等对艰苦边远程度进行量化评估，将艰苦边远地区分为六类，并根据《国家中长期人才发展规划纲要（2010-2020）》，对各类艰苦边远地区的机关与事业单位的在职和离退休人员给予不同程度的津贴补助，前往该类地区支援的医务人员也依此得到相应补助。此外，在\"三区三州\"地区，即青海、四川、甘肃、云南四省的藏区、西藏自治区、南疆的和田地区、阿克苏地区、喀什地区、克孜勒苏柯尔克孜自治州以及四川凉山州、云南怒江州、甘肃临夏州地区，各地医疗机构通过\"组团式\"援疆援藏、“师带徒\"、援建医疗设施等形式支援\"三区三州\"贫困地区，提升医疗服务能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "这几种地理划分方式之间存在交叉重复，虽有通过财政手段等对边远地区医疗进行支持，却未有针对医疗卫生领域的整体政策，未有从培养到提升的整体人才策略，无法真正给需要“逆向照顾（theinverse carelaw)”21的地区提供全方位、多维度、长期可持续的帮助。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2适时推进与细化医疗服务的地理分级分类标准的建设",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究表明，我国不同地区的医务人员稳定性不同22，西部欠发达地区的医务人员流失现象较其他地区严重。若能借鉴澳大利亚地理分级标准，综合考虑地理位置、交通可达性、人口数量与结构、经济社会发展水平、医疗资源水平等因素，建立适于我国的医疗服务地理分级标准，能使我国不同地区的医疗政策有据可依，推动政策对不同地区的“逆向照顾”。适时推进医疗服务的地理分级分类标准，能有效推动公平，保障公民更公平地享受健康权。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，建立适应我国实际情况的地理分级系统后，也可参考澳大利亚卫生部建立评估小组，定期考察各级地区的医疗资源供需状况变化，并定期更新相适应的地理分级系统。在进入高质量发展的今天，脱贫攻坚工作取得较大胜利23，我国各地区的发展水平和卫生服务能力也随时间不断变化，相关政策也应与时俱进，根据实际情况不断深化和细化，从而更有效地实现医疗资源的合理分配，推动医务人员的公平与公民健康权的公平。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3完善法律体系和顶层设计，系统化制定相应资源优化政策",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "澳大利亚基于地理分级系统，制定相应的医疗服务政策，来保障各地区居民享受应有的健康权益。我国目前的医疗卫生改革主要基于试点城市的创新创造，试点工作主要是基于该城市的实际情况进行微观调配，各试点方案有较大差异，且缺乏国家层面的顶层设计和宏观调控，无法将卫生资源倾斜至最能产生积极影响的偏远落后地区。我国可借鉴澳大利亚的做法，根据地理分级分类标准从国家层面进行顶层设计，系统化制定相应医疗政策，建立涵盖培养培训、评价使用、薪酬激励的倾斜政策。推进公共服务均等化，从卫生的人力资源、物力资源、财力资源和信息资源等多维度进行卫生资源宏观调配。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "尤其在人力资源上，在统筹分配、培养教育、培训提升和资金激励等各个方面进行政策引导，如根据地区实际需求改革医学教育体系，重点培养和扶持相关地区相应层次的医学人才，如重点培养大专层次农村全科医学人才和偏远地区紧缺的相关专科医学人才，并设立相应的奖学金政策。此外，也应重视财政手段的作用，提高偏远地区的医疗补助标准，保证该类地区各项激励与补助及时足额到位。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4完善法律支持体系，发挥现代化与高新科学技术的作用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "地理分级系统使综合性澳大利亚卫生政策有据可依，其卫生保险法使国家卫生政策有法可依。而我国尚无可参考的法律保障，可借鉴澳大利亚建立健全相应的法律法规，完善法律保障体系，从国家层面明确偏远地区医疗分级分类支援实施的步骤和阶段，确保相关政策的科学有序推进。地理分级分类标准是医疗资源和条件的衡量工具，完善相应的法律体系并系统化制定相应的卫生资源优化政策才能使这把衡量之尺发挥作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "澳大利亚通过地理信息系统（GIS）将各区域人口、经济、社会等数据进行统计分析，从而得出适用于医疗系统的地理分级系统，并定期进行更新与完善。同时，利用互联网平台设立人力资源查看器，使用地理信息系统和互联网技术，将不同的分级系统和最新的分级分类可视化，对我国有很大的借鉴意义。我们也应当在数字化时代发挥好电子信息技术、人工智能技术的作用，并加强基层信息化建设，信息互联互通，及时上传各节点卫生资源的需求和配置信息，使政策与实际情况相适应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Australian Government Departmentof healthand ageingreporton the auditof health workforceinruraland regional Australia [R].2008.   \n[2] Australia Government Departmentof Health,Summary Statistics,Modified Monash Model [EB/OL].[2022-01- 31]https://hwd.health.gov.au/resources/data/summary-mmm.html   \n[3]Fergus WGardiner,Equitable patientaccess toprimaryhealthcareinAustralia,RoyalFlying Doctor Service[R.]2020 [4] Australian Institute of Healthand Welfare,Australian Instituteof Health and Welfare (2019) Rural &remote health. https://www.aihw.gov.au/reports/rural-remote-australians/rural-remote-health/contents/acces-to-health-care [5]孟庆跃．中华医学百科全书[M]．中国协和医科大学出版社,2013.   \n[6]Rural, remote and metropolitan areas classification [R]， 1994   \n[7]Australia Government Department of health, Modified Monash Model[EB/OL].(2021-12-14)[2022-01-02] https://www.health.gov.au/health-topics/rural-health-workforce/classifications/mmm   \n[8]万崇华．卫生资源配置与区域卫生规划的理论与实践[M]．科学出版社,2013.   \n[9]Australia Government Department of health, Health workforce distribution priority areas [EB/OL]   \nhttps://www.health.gov.au/health-topics/rural-health-workforce/classifications/annual-update-dpa-dws   \n[10]Australia Government Department of Health, Bonded Medical Program[EB/OL] [2022-04-01]   \nhttps://www.health.gov.au/initiatives-and-programs/bonded-medical-program   \n[11]Australia Government Departmentof Health,Health Workforce Distribution PriorityAreas,[2O21-12-31],   \n[12]AustraliaGovernment Departmentof Health,Incentivesand supportfor GPsand general practices in MM7locations [R] https://www.health.govau/resources/publications/incentives-and-support-for-gps-and-general-practices-in-mm-7- locations   \n[13]Australia government departmentofhealth,General Practitioner ProceduralTraining Support Program [EB/OL]. [2021-10-28] https://www.health.gov.au/initiatives-and-programs/gpptsp   \n[14]Australia government department of health, Area of need[EB/OL].[2021-11-23]   \nhttps://www.medicalboard.gov.au/Registration/Types/Limited-Registration/Area-of-Need.aspx   \n[15]Australia Government Department of health, Rural Bulk Billing Incentives [EB/OL] [2021-11-23]   \nhttps://www.health.gov.au/initiatives-and-programs/rural-bulk-biling-incentives   \n[16]Australian government departmentof health,workforce incentive program doctor stream[EB/OL][2021-11-23] https://www.health.gov.au/initiatives-and-programs/workforce-incentive-program/doctor-stream   \n[17] Australian government department of health, workforce incentive program guidelines[R]   \n[18]杨英，郑丽云，姜辉，澳大利亚全科医生培训体系及其启示[J].中国全科医学，2014，17（8)：851-856 i9Australia Government Departmentof health,ncentivesandsupport forGPsand generalpractices in MMlocations （2022-02-04）[2022-03-18]   \nhttps://www.health.gov.au/resources/collections/incentives-and-support-for-gps-and-general-practices-in-mm-locations [20]刘鸿宇．中国西部地区卫生人力资源预测及基层卫生人力激励因素研究[D]．山东大学,2017.   \n[21] Hart JT. The Inverse Care Law [J]. Lancet,1971,297(7696):405-412.   \n[22]李志远、刘嘉周、马子华、吴华章．我国乡镇卫生院人员流动现状分析[J]．卫生软科学,2020,34(12):5. [23]中华人民共和国中央人民政府，中华人民共和国国民经济和社会发展第十四个五年规划和 2035年远景目标纲 要. ",
+        "page_idx": 9
+    }
+]

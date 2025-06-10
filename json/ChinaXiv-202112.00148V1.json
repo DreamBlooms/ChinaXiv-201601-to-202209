@@ -1,0 +1,521 @@
+[
+    {
+        "type": "text",
+        "text": "基于光谱指数的喀斯特植物叶片叶绿素含量定量估算",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "何文1,²，余 玲，姚月锋1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．广西喀斯特植物保育与恢复生态学重点实验室，广西壮族自治区中国科学院广西植物研究所，广西 桂林 541006；2.桂林理工大学 环境科学与工程学院，广西 桂林 541006；3.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西南大学地理科学学院，重庆400715)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了探讨适合于喀斯特植物叶片叶绿素含量估算的光谱指数，在总结以往基于光谱指数的植物生化参数估算研究基础上发现，常用光谱指数通常采用差值、比值、归一化以及倒数差值方式来构建。因此，我们通过上述4种光谱指数构建方式对所采集的4种典型喀斯特植物———黄荆（Vitex negundo）、盐肤木（Rhus chinensis）、朴树（Celtis sinensis）和红背山麻杆（Alchornea trewioides）叶片原始光谱反射率及其一阶导数值与同步测定的叶片叶绿素含量进行遍历分析，以期获得最优光谱指数并将其应用于喀斯特植物叶片叶绿素含量定量估算研究。结果表明：（1）常用光谱指数中，改良红边归一化指数（modified red-edgenormalized difference vegetation index,mND705）对喀斯特植物叶片叶绿素含量估算效果较好（决定系数为0.45，均方根误差为 $0 . 2 6 \\mathrm { m g ^ { \\bullet } g ^ { - 1 } }$ ）。（2）虽然荧光比值（fluorescence ratio index,FRI1）和叶绿素吸收面积光谱指数（chlorophyll absorption area index,CAAI）在估算喀斯特与非喀斯特植物叶片叶绿素含量能力相当，但是其估算精度相对较低（决定系数小于0.45）。（3）通过差值、比值、归一化以及倒数差值方式构建的光谱指数无论是基于植物叶片原始光谱反射率，还是其一阶导数值，相比常用光谱指数都能更好地估算喀斯特植物叶片叶绿素含量（决定系数大于0.60）。其中，基于植物叶片原始光谱反射率一阶导数值的差值光谱指数[dD（760,769）]对喀斯特植物叶片叶绿素含量的估算精度最好，其决定系数为0.71，均方根误差为 $0 . 1 9 \\mathrm { m g ^ { \\bullet } g ^ { - 1 } }$ 。结果表明，结合高光谱遥感技术的光谱指数模型可快速定量估算喀斯特植物叶片叶绿素含量，为典型喀斯特地区植物生长诊断及其对环境胁迫适应性评价提供重要科学依据和技术支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：叶绿素含量，光谱指数，光谱转换，高光谱模型，喀斯特地区中图分类号：Q946，TP79",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Estimation of plant leaf chlorophyll content based on the ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "spectral index in karst areas ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HE Wen1, ², YU Ling³, YAO Yuefeng1\\* (1. Guangxi Key Laboratory of Plant Conservation and Restoration Ecology in Karst Terrain, Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences, Guilin 541006, Guangxi, China; 2. College of Environmental Science and Engineering, Guilin University of Technology, Guilin 541006, Guangxi, China; 3. School of Geographical Sciences, Southwest University, Chongqing 400715, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Leaf chlorophyll content is central to carbon, water and energy exchange between the biosphere and the atmosphere, also to the terrestrial ecosystem function. Quantitative estimates of leaf chlorophyll content with hyperspectral imagery can provide scientific insight for assessing plant's growth and stress as affected by abiotic and biotic factors. However, few studies have been conducted the application of spectral indices in estimation of leaf chlorophyl contents of plants in karst areas,especially in South China. After a review of the application of common spectral indices in estimation of leaf biochemistry parameters,we found that most of the common spectral indices were developed based on the difference,simple ratios,normalized difference and inverse difference formulation of leaf spectral reflectance. Therefore,we firstly measured the raw reflectance spectra of leaves from four typical karst species, namely Vitex negundo, Rhus chinensis, Celtis sinensis and Alchornea trewioides with a ASD Field Spec 4 (Analytical Spectral Devices, Inc.,Boulder, Colorado,US) spectrometers.We then used the above-mentioned four formulations to process the raw reflectance spectra and their first-order derivative spectra. Finally, we analyzed the relation between leaf chlorophyll contents and relative leaf raw reflectance spectra and their first-order derivative spectra,and tried to propose the best spectral index for estimation leaf chlorophyll content of the plants of karst areas in South China. The results were as follows: (1) Among the common spectral indices， the modified normalized difference vegetation index (mND705) performed well in estimation leaf chlorophyll contents of four typical karst species in term of the determination coefficient ( $R ^ { 2 }$ was equal to 0.45) and root mean squared error (RMSE was equal to $0 . 2 6 \\mathrm { m g ^ { \\bullet } g ^ { - 1 } }$ ). (2) However, most of the common spectral indices were not suitable for estimation leaf chlorophyll content of the plants in karst areas. Thought the prediction capability of fluorescence ratio index (FRI1) and chlorophyl absorption area index (CAAI) were almost the same in estimation of leaf chlorophyllcontent of plants in karst and non-karst areas, their accuracy of prediction was relative low according to the determination coeficient. (3) The spectral indices proposed in this study performed wellin estimation leaf chlorophyll content of the plants in karst areas either based on the raw reflectance spectra or their first-order derivative spectra compared against others common spectral indices, especially for the diffrence spectral index based on the first-order derivative spectra $( d D ( 7 6 0 , 7 6 9 ) )$ . Its determination coefficient was O.71 and the root mean squared error was $0 . 1 9 ~ \\mathrm { m g ^ { \\bullet } g ^ { - 1 } }$ . We,therefore proposed that the difference spectral index based on the first-order derivative spectra $( d D ( 7 6 0 , ~ 7 6 9 ) )$ can be used for estimation leaf chlorophyll content of the plants in karst areas. Our results concluded that leaf chlorophyll content of plants in karst areas can be quickly and quantitatively estimated using spectral index combined with hyperspectral remote sensing data. These results can also provide scientific insights for estimating plants’ growth and their adaptation to environmental stress. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key words: chlorophyll content, spectral index, spectral conversion, hyperspectral model, karst areas ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物叶片叶绿素作为主要的光能吸收物质，能直接把吸收的光能进行转化与传递（Gitelsonetal.,2003），是生物圈与大气圈之间碳、水与能量交换与循环的重要环节（Croftet al.,2020）。其在健康的植物体内通常被认为高于不健康的植物（Wuetal.,2008）。因此，植物叶片叶绿素含量的高低可作为典型区域如喀斯特地区植被生长健康状况及其对周围环境胁迫适应的重要指示指标（Palta,1990）。传统的植物叶片叶绿素测定方法主要是通过测量叶片叶绿素提取液的吸光度实现，这种方法不仅需要破坏植株，耗时费力，而且不能实时的进行大尺度的监测（Madeira et al.,2000；苏伟等，2019）。随着遥感技术特别是高光谱遥感技术的发展，由于其具有波段多且能够捕获不同植物叶片对微弱光谱的差异，为植被生化参数特别是植物叶绿素含量的定量估算提供了快速、有效、非破坏性的数据采集与分析方法（Gitelson et al., 2003； Zhang et al., 2008；Bioucas-Dias et al., 2013）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，对植物叶片叶绿素含量进行高光谱定量估算的主要方法大致可以归纳为两种：一是通过建立各种辐射传输机理模型进行估算,如经典的PROSPECT模型(Jacquemoud et al.,2009）；另一种则是通过寻找适宜的光谱指数模型进行估算（Croft etal.,2020）。辐射传输机理模型适用性广，但一般机理模型都是基于一定条件的假设，不确定性因素较多，且在不同区域或不同植物类型的应用上往往具有病态性特征（Darvishzadeh et al.,2008）。同时，辐射传输机理模型所需的驱动参数较多，有些参数不易获取。相反，经验光谱指数模型虽然强烈依赖拟合的数据库，但其对驱动参数要求简单且在植物叶片叶绿素含量估算上精度较高（Fang etal.,2017）。由于数据源和研究方法的局限性，构建适用于所有区域植物叶片叶绿素含量定量估算的光谱指数（Rei&Quan,2017）以及探讨适合于典型喀斯特区域植物叶片叶绿素含量定量估算的光谱指数研究还相对缺乏。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我国西南喀斯特地区属于全球三大喀斯特集中分布区中面积最大（约54万平方公里）、发育最强烈的连片裸露碳酸盐岩地区（王世杰等，2017；王克林等，2019）。该地区作为珠江及西南诸河的源头，长江流域及东南亚一些国际河流的重要补给区，是我国重要的生态屏障区，对于维系珠江、长江流域下游乃至东南亚的生态与社会安全起着重要的作用（陈洪松等，2018）。但该地区也属于老、少、边、穷地区，贫困区与石漠化高度重叠，形成了典型的生态脆弱区。喀斯特地区地表植被对于维持脆弱生态系统起着决定性作用（Zhao et al.,2020）。通过对喀斯特植物叶片叶绿素含量等生化参数的遥感定量估算研究，不仅可以及时掌握喀斯特脆弱生态系统的动态变化，为喀斯特脆弱生态系统功能评价提供重要参数，还可为喀斯特脆弱生态系统应对气候变化与人类活动的研究提供科学依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在总结以往植物叶片生化参数估算所常用光谱指数研究的基础上，我们通过差值、比值、归一化以及倒数差值的光谱指数构建方式对所采集的4种典型喀斯特植物—一黄荆（Vitex negundo）、盐肤木（Rhus chinensis）、朴树（Celtis sinensis）和红背山麻杆（Alchorneatrewioides）叶片原始光谱波段（ $( 4 0 0 { \\sim } 2 5 0 0 \\mathrm { n m } )$ ）的反射率及其一阶导数值与同步测定的植物叶片叶绿素含量进行遍历分析，以期找到最优光谱指数模型并将其应用于喀斯特植物叶片叶绿素含量的定量估算研究，为喀斯特植物叶片叶绿素含量及其它植物生化参数的遥感定量估算提供科学依据与技术支撑。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究样地位于广西桂林市南部的大埠乡喀斯特山地‘ $( 2 5 ^ { \\circ } 0 3 ^ { \\prime } 1 6 ^ { \\prime \\prime } \\mathrm { N }$ ， $1 1 0 ^ { \\circ } 1 9 ^ { \\prime } 4 9 ^ { \\prime \\prime } \\mathrm { E }$ ），境内喀斯特发育强烈，属典型的喀斯特峰林平原或峰丛平原地貌。该地区属于中亚热带季风气候区，年均气温约 $1 9 \\ \\mathrm { { ^ \\circ C } }$ ，年平均降雨量约 $1 9 0 0 \\mathrm { m m }$ ，且雨热同期于每年3-9月。土壤类型为喀斯特中后期典型的红色石灰壤。该区域自然植被以灌丛为主，优势植物种为龙须藤（Bauhiniachampioni）、金樱子（Rosa laevigata）、黄荆、朴树以及红背山麻杆等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，为比较同一植物在喀斯特和非喀斯特生境下叶片叶绿素含量和反射光谱差异，在距离大埠乡喀斯特样地约 $1 5 \\mathrm { k m }$ 的中国科学院桂林植物园内（非喀斯特区域）进行同种植物的叶片叶绿素含量及其光谱波段同步测量进行对照试验。两个样地距离较近，气温、降雨、湿度等气候条件基本一致，但在地质条件等因素上差异显著：大埠乡样地为典型喀斯特山地，岩体主要由石灰岩构成，土层薄，植被群落为典型的喀斯特灌丛；而中国科学院桂林植物园样地内岩体为砂页岩，土层深厚，植被群落为典型亚热带常绿阔叶林，以乔木为主。为消除因植物种类不同和个体差异因素对实验造成的影响，选择喀斯特区常见优势树种，且非喀斯特区共有的黄荆、盐肤木、朴树和红背山麻杆4个树种为研究对象，并选择树龄、胸径、冠幅等相对一致的植株进行测量（表1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/43cce124f424589d6167153652b11207ed484de70cccfae561ee5331047d085e.jpg",
+        "table_caption": [
+            "表1植物基本形态特征",
+            "Table 1 Basic morphological characteristics of four species "
+        ],
+        "table_footnote": [
+            "1.2植物叶片反射光谱和叶绿素含量测量"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">树种 Species</td><td colspan=\"4\">喀斯特地区 Karst area</td><td colspan=\"4\">非喀斯特地区 Non-karst area</td></tr><tr><td>基茎 Base diameter (cm)</td><td>树高 Tree height (cm)</td><td>冠幅 Crown size (cm)</td><td>树龄 Tree age (year)</td><td>基茎 Base diameter (cm)</td><td>树高 Tree height (cm)</td><td>冠幅 Crown size (cm)</td><td>树龄 Tree age (year)</td></tr><tr><td>朴树 Celtis sinensis</td><td>6.45</td><td>407.50</td><td>219×181</td><td>5</td><td>6.60</td><td>410.00</td><td>235×186</td><td>5</td></tr><tr><td>黄荆 Vitex negundo</td><td>2.57</td><td>178.33</td><td>129×119</td><td>3.25</td><td>2.47</td><td>304.33</td><td>172×152</td><td>3</td></tr><tr><td>盐肤木 Rhus chinensis</td><td>4.57</td><td>360.00</td><td>241×216</td><td>6</td><td>5.30</td><td>323.00</td><td>234×267</td><td>6</td></tr><tr><td>红背山麻 杆 Alchornea trewioides</td><td>1.95</td><td>226.75</td><td>80×85</td><td>2</td><td>1.77</td><td>187</td><td>115×122</td><td>2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验叶片样品采集及叶片光谱测量时间选择植物的生长季（2017年夏季7-9月），并选择晴朗无云的正午进行测量。在试验样地内选取4种喀斯特区域常见植物—一黄荆、盐肤木、朴树和红背山麻杆；每种植物随机选择 $6 { \\sim } 8$ 株，每株选取3片健康完整叶片，同步测量叶片反射光谱（原位测量）和叶片叶绿素含量。其中，叶片反射光谱数据采用美国ASDFieldSpec4便携式地物光谱仪（波段范围为 $3 5 0 { \\sim } 2 5 0 0 \\mathrm { n m } )$ ）加载的手持叶夹式叶片光谱探测器测量。因便携式地物光谱仪 $3 5 0 { \\sim } 4 0 0 \\mathrm { n m }$ 的波段对叶片光谱反射率的信号噪声较大，在实际的光谱反射率选择中选择 $4 0 0 { \\sim } 2 5 0 0 \\mathrm { n m }$ 波段反射率与同步测定的植物叶片叶绿素含量建立关系。每个叶片重复测量3条光谱，将同一植株上3片叶子的所测光谱取平均值作为叶片光谱反射率。总共采集32株植物，96个叶片的光谱反射率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "叶片叶绿素含量参照李合生（2000）的试验方法，采用紫外分光光度计（SPECORD 50PLUS）测量。叶片叶绿素含量测定时将同一植株上测过反射光谱的3片叶子混合后取样测量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3分析方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.1光谱指数及其转换",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植被光谱指数种类繁多且功能各不相同 (Xue& Su,2017)。通过文献收集和整理，从130多种常用植被光谱指数中筛选出15种与植被色素有关的常用光谱指数（表2），并探讨这些光谱指数在喀斯特植物叶片叶绿素含量定量估算中的表现。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/97fa7d51976be7beded7f679998ee055b3dbee35e0ceb87fac3602f5ad569a18.jpg",
+        "table_caption": [
+            "表2本研究使用的光谱指数",
+            "Table 2 Spectral indices used in this study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>光谱指数</td><td>PP 表达式</td><td>参考文献</td></tr><tr><td>Spectral indices</td><td>Formulations</td><td>Reference</td></tr><tr><td>归一化植被指数</td><td></td><td>Rouse et</td></tr><tr><td>Normalized</td><td>(R800-R680)/(R800+R680)</td><td>al., 1974</td></tr><tr><td>difference vegetation</td><td></td><td></td></tr><tr><td>index (NDVI)</td><td></td><td></td></tr><tr><td>绿色归一化植被指</td><td></td><td>Gitelson et</td></tr><tr><td>数</td><td></td><td>al., 1996</td></tr><tr><td>Green normalized</td><td>(R750-R550)/(R750+R550)</td><td></td></tr><tr><td>difference vegetation</td><td></td><td></td></tr><tr><td>index (Green NDVI)</td><td></td><td></td></tr><tr><td>改良红边归一化植</td><td></td><td>Sims &</td></tr><tr><td>被指数</td><td></td><td>Gamon</td></tr><tr><td>Modified red-edge</td><td>(R750-R705)/(R750+R705-2*R445)</td><td>2002</td></tr><tr><td>normalized</td><td></td><td></td></tr><tr><td>difference vegetation</td><td></td><td></td></tr><tr><td>index (mND705)</td><td></td><td></td></tr><tr><td>色素简单比 a</td><td>R800/R680</td><td>Blackburn,</td></tr><tr><td>值指数 b</td><td>R800/R635</td><td>1998</td></tr><tr><td>Pigment</td><td></td><td></td></tr><tr><td>specific C</td><td>R800/R470</td><td></td></tr><tr><td>simple ratio</td><td></td><td></td></tr><tr><td>(PSND)</td><td></td><td></td></tr><tr><td>结构不敏感色素指</td><td>(R800-R445)/(R800-R680)</td><td>Penuelas et</td></tr><tr><td>数</td><td></td><td>al., 1995</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec18f8fc924d8a9870ce88ba18356709be5a8a1394a79dae60973d7ccce0cb03.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\"></td></tr><tr><td colspan=\"3\">pigment index (SIPI)</td><td>Gitelson et</td></tr><tr><td colspan=\"3\">改良的类胡萝卜素</td><td>al., 2002</td></tr><tr><td colspan=\"3\">反射指数</td><td></td></tr><tr><td colspan=\"3\">Modified carotenoid</td><td></td></tr><tr><td colspan=\"3\">reflectance index</td><td></td></tr><tr><td colspan=\"3\">(mCRI)</td><td>Gamon et</td></tr><tr><td colspan=\"3\">生理反射指数</td><td>al.,1992</td></tr><tr><td colspan=\"3\">Physiological</td><td></td></tr><tr><td colspan=\"3\">reflectance index</td><td></td></tr><tr><td colspan=\"3\">(PRI) 荧光比值指 FRI1</td><td>Dobrowski</td></tr><tr><td colspan=\"3\">数</td><td>et al., 2005</td></tr><tr><td colspan=\"3\">Fluorescence FRI2</td><td></td></tr><tr><td colspan=\"3\">ratio indices (FRI)</td><td></td></tr><tr><td colspan=\"3\">转换叶绿素吸收比</td><td>Haboudane</td></tr><tr><td colspan=\"3\">率指数</td><td>et al., 2002</td></tr><tr><td colspan=\"3\">Transformed</td><td></td></tr><tr><td colspan=\"3\">chlorophyll ratio</td><td></td></tr><tr><td colspan=\"3\">index (TCARI)</td><td></td></tr><tr><td colspan=\"3\">三角形植被指数</td><td>Rouse et</td></tr><tr><td colspan=\"3\">Triangle vegetation</td><td>al., 1974</td></tr><tr><td colspan=\"3\">index (TVI)</td><td>焦全军等，</td></tr><tr><td colspan=\"3\">叶绿素吸收面积指</td><td>2006</td></tr><tr><td colspan=\"3\">数</td><td></td></tr><tr><td colspan=\"3\">Chlorophyll absorption area</td><td></td></tr><tr><td colspan=\"3\"> index (CAAI)</td><td>Wu et al.,</td></tr><tr><td colspan=\"3\">综合叶绿素光谱指</td><td>2008</td></tr><tr><td colspan=\"3\">数 Modified</td><td></td></tr><tr><td colspan=\"3\">transformed chlorophyll absorption ratio</td><td>[(R700-R670)-0.2*(R700-R550)(R700/R670)](R700/R670)/(1.6*(R800-R670)/(R800+R670+0.16))</td></tr><tr><td colspan=\"3\">index (MCARI) to</td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\">optimized soil</td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\">adjusted vegetation</td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\"></td><td></td></tr><tr><td colspan=\"3\">index (OSAVI) (MCARI/OSAVI)</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1中各光谱指数主要为差值（difference vegetation index,DVI）、比值（simple ratiosvegetation index,SRVI）、归一化（normalized difference vegetation index,NDVI）以及倒数差值光谱指数（inverse diference vegetation index,IDVI）。因此，利用差值、比值、归一化以及倒数差值方式对所采集的喀斯特植物叶片原始光谱反射率及其一阶导数值与同步测定的植物叶片叶绿素含量进行遍历分析，直至找到最优光谱波段组合的指数模型，进一步探讨这些光谱指数与喀斯特植物叶片叶绿素含量之间的关系，以期为喀斯特植物叶片叶绿素含量快速定量估算提供更可靠的光谱指数。差值、比值、归一化以及倒数差值光谱指数表达式如式（1）、（2）、（3）（4）所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { D V I ( \\lambda _ { 1 } , \\lambda _ { 2 } ) = R _ { \\lambda _ { 1 } } - R _ { \\lambda _ { 2 } } } \\\\ & { } & { S R V I ( \\lambda _ { 1 } , \\lambda _ { 2 } ) = R _ { \\lambda _ { 1 } } / R _ { \\lambda _ { 2 } } } \\\\ & { } & { N D V I ( \\lambda _ { 1 } , \\lambda _ { 2 } ) = ( R _ { \\lambda _ { 1 } } - R _ { \\lambda _ { 2 } } ) / ( R _ { \\lambda _ { 1 } } + R _ { \\lambda _ { 2 } } ) } \\\\ & { } & { I D V I ( \\lambda _ { 1 } , \\lambda _ { 2 } ) = 1 / R _ { \\lambda _ { 1 } } - 1 / R _ { \\lambda _ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中，λ为光谱波段， $R _ { \\lambda }$ 为对应波段反射率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对植物叶片原始光谱反射率进行转换往往能够提高基于光谱指数方法对植物生化参数估算的精度（Dawsonetal.,1998）。因此，本研究采用导数转换将叶片原始光谱反射率转换为一阶导数值，并将基于一阶导数值构建的光谱指数分别命名为dDVI、dSRVI、dNDVI和dIDVI。一阶导数转换后的光谱指数数学表达式与原始光谱指数一致，仅将叶片原始光谱反射率R替换为原始光谱反射率一阶导数值 $d R$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.3.2基于光谱指数的植物叶片叶绿素含量定量估算验证",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了验证基于各光谱指数估算的植物叶片叶绿素含量精度，我们以实验室测定的叶片叶绿素含量为真值，采用决定系数（ $\\cdot R ^ { 2 }$ ）及均方根误差（Root mean squared error，RMSE）评价基于光谱指数的喀斯特与非喀斯特植物叶片叶绿素含量的估算能力。决定系数和均方根误差的数学表达式如式（5）、（6）所示（Zhaoetal.,2017）：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R ^ { 2 } = 1 - \\frac { \\sum _ { i = 1 } ^ { n } { ( y _ { i } - \\widehat { y _ { i } } ) ^ { 2 } } } { \\sum _ { i = 1 } ^ { n } { ( y _ { i } - \\overline { { y _ { i } } } ) ^ { 2 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R M S E = \\sqrt { \\frac { 1 } { n } { \\sum _ { i = 1 } ^ { n } { ( y _ { i } - \\widehat { y _ { i } } ) ^ { 2 } } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $y _ { i }$ 为植物叶片叶绿素含量实测值， $\\widehat { y _ { i } }$ 为基于光谱指数估算的叶片叶绿素含量预测值， $\\boldsymbol { \\bar { y } } _ { i }$ 为实测叶片叶绿素含量平均值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1喀斯特和非喀斯特植物叶片叶绿素含量及其光谱特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "喀斯特生境生长的朴树、黄荆和盐肤木叶片叶绿素含量均显著高于非喀斯特区域（ $P$ -value $< 0 . 0 1$ ），均值分别相差1.08、1.12和 $1 . 0 5 \\mathrm { m g ^ { \\bullet } g ^ { - 1 } }$ （图1）。而红背山麻杆叶片叶绿素含量在不同生境中差异不显著（ $P .$ -value $> 0 . 0 5$ ）。经方差分析与多重比较表明，不同植物叶片光谱反射率差异显著（ $P .$ -value $< 0 . 0 1$ ），尤其是朴树与其它3种植物叶片光谱反射率之间皆存在显著性差异（ $P$ -value $< 0 . 0 5$ ）。不同植物之间叶片光谱反射率差异主要发生在可见光波段中 $5 3 0 { \\sim } 5 9 0 ~ \\mathrm { n m }$ 、近红外波段中 $7 5 0 { \\sim } 1 3 0 0 \\mathrm { n m } , 1 6 0 0 \\mathrm { n m }$ 及 $2 2 0 0 \\mathrm { n m }$ 附近(图2）。此外，同一植物叶片光谱反射率在喀斯特与非喀斯特生境中存在差异，其中红背山麻杆和黄荆差异较小，而盐肤木和朴树的光谱反射率差异明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/494b5d577ca1c5d3b28aaeafe6ef64ec1a758145ec4ed81c56fb2f289cfac03f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "喀斯特为大埠乡喀斯特区植物样本，非喀斯特为中国科学院桂林植物园非喀斯特区植物样本，下同；ab 表示区域间样本差异极显著（ $( P { < } 0 . 0 1$ ）；a表示区域间样本差异不显著（ ${ \\cdot } P { > } 0 . 0 5$ ）。数据均为平均值±标准误（样本量为32）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Karst represents the sample from karst areas in Dabu town,and Non-karst represents the sample from Guilin Botanical Garden,the same below;a and b indicate extremely significant diferences at the significant level of 0.01,and a indicate no significant difference at the significant level of O.O5 between different area.Each datum point represents $\\bar { x } \\pm S E$ (the number of sample size are 32). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/29efa629ba20f5bdbd3f9d35e1b8e6cdede4d15dab6d0532e357c7a80276d334.jpg",
+        "img_caption": [
+            "图1不同区域不同植被叶片叶绿素含量变化 Fig.1 Leaf chlorophyll content of different vegetation in different areas ",
+            "图2植物在喀斯特与非喀斯特区叶片光谱反射率差异"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Differences in leaf spectral reflectance of plants in karst and non-karst are: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2喀斯特植物叶片叶绿素含量与光谱各波段的相关性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "喀斯特植物叶片叶绿素含量与光谱反射率之间的相关性随波段不同差异较大。叶片原始光谱反射率与植物叶片叶绿素含量的相关系数（r）在 $1 6 6 1 \\mathrm { n m }$ 波段处最大，为0.53。叶片原始光谱经过一阶导数转换后与植物叶片叶绿素含量的相关性在部分波段得到明显增强，相关系绝对值大于0.53的波段达到270个，绝对值最大值出现在 $2 3 8 4 \\mathrm { n m }$ 波段处，为0.78。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/24bf3263987c83e5371d59bdc279dce405c6b2f5ef67621a9cd6b5c8d960dfb6.jpg",
+        "img_caption": [
+            "图3植物叶片叶绿素含量与叶片原始光谱反射率及其一阶导数值相关性"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Correlations between leaf chlorophyll content and spectral reflectance (raw reflectance spectra and the first-order derivative spectra) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3基于各光谱指数的喀斯特植物叶片叶绿素含量估算精度验证",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究所采用的15种常用光谱指数不一定适合于喀斯特植物叶片叶绿素含量的定量估算（表3）。常用光谱指数对喀斯特植物叶片叶绿素含量的定量估算能力普遍较弱，决定系数 $( R ^ { 2 } )$ 为 $0 { \\sim } 0 . 4 5$ ，表现相对较好的是改良红边归一化植被指数（mND705）和叶绿素吸收面积光谱指数（CAAI），其决定系数分别为0.45和0.43，均方根误差均为 $0 . 2 6 \\mathrm { m g ^ { \\bullet } g ^ { - 1 } }$ 。采用相同方法对非喀斯特植物叶片叶绿素含量进行定量估算及其精度验证发现，基于归一化植被指数（NDVI）、色素简单比值指数（PSNDa 和PSNDb）以及生理反射指数（PRI）对非喀斯特植物叶片叶绿素进行定量估算均取得较好的效果， $R ^ { 2 }$ 均在0.4以上，说明这些常用光谱指数在非喀斯特植物叶片叶绿素含量定量估算中更为适用，但其在喀斯特植物叶片叶绿素含量定量估算中并不能通用。虽然荧光比值指数(FRI1)和叶绿素吸收面积光谱指数（CAAI)在定量估算喀斯特与非喀斯特植物叶片叶绿素含量时精度相当，但从决定系数来看，它们的估算能力还是相对较低。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/37e2c5854aed128ce97cb87490d4cc7006d7027ce7e9d1f5d241e42a080234af.jpg",
+        "table_caption": [
+            "表3常用光谱指数的植物叶片叶绿素含量定量估算精度验证",
+            "Table 3 Accuracy performance of different spectral indices in estimation of plant leaf chlorophy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">content</td></tr><tr><td colspan=\"2\" rowspan=\"4\">光谱指数</td><td colspan=\"3\">喀斯特地区 Karst area</td><td colspan=\"2\">非喀斯特地区 Non-karst area</td></tr><tr><td colspan=\"2\">决定 均方根</td><td>决定</td><td>均方根</td><td>概率值</td></tr><tr><td>系数</td><td>概率值 误差</td><td>系数</td><td>误差</td><td></td></tr><tr><td>R²</td><td>RMSE</td><td>P-value</td><td>R²</td><td>RMSE</td><td>P-value</td></tr><tr><td>归一化植被指数 NDVI</td><td>0.00</td><td>0.35</td><td>0.99</td><td>0.44</td><td>0.18</td><td>0.00</td></tr><tr><td>绿色归一化植被指数 Green NDVI</td><td>0.32</td><td>0.29</td><td>0.00</td><td>0.21</td><td>0.21</td><td>0.06</td></tr><tr><td>改良红边归一化植被指数 mND705</td><td>0.45</td><td>0.26</td><td>0.00</td><td>0.21</td><td>0.21</td><td>0.07</td></tr><tr><td>a</td><td>0.00</td><td>0.35</td><td>0.99</td><td>0.44</td><td>0.18</td><td>0.00</td></tr><tr><td>色素简单比值指数PSND b</td><td>0.26</td><td>0.30</td><td>0.00</td><td>0.44</td><td>0.18</td><td>0.00</td></tr><tr><td>c</td><td>0.00</td><td>0.35</td><td>0.81</td><td>0.29</td><td>0.20</td><td>0.02</td></tr><tr><td>结构不敏感色素指数 SIPI</td><td>0.00</td><td>0.35</td><td>0.86</td><td>0.29</td><td>0.20</td><td>0.02</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6a3b3b81bc3fe171fdce6149338a84d4603508d82a4a8f50baf7ff17e92f935.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>改良的类胡萝卜素反射指数 mCRI</td><td>0.11</td><td>0.33</td><td>0.07</td><td>0.29</td><td>0.20</td><td>0.01</td></tr><tr><td>生理反射指数PRI</td><td>0.18</td><td>0.32</td><td>0.02</td><td>0.53</td><td>0.16</td><td>0.00</td></tr><tr><td>FRI1 荧光比值指数FRI</td><td>0.24</td><td>0.31</td><td>0.01</td><td>0.27</td><td>0.20</td><td>0.02</td></tr><tr><td>FRI2</td><td>0.24</td><td>0.31</td><td>0.01</td><td>0.03</td><td>0.22</td><td>0.79</td></tr><tr><td>转换叶绿素吸收比率指数 TCARI</td><td>0.16</td><td>0.32</td><td>0.02</td><td>0.18</td><td>0.21</td><td>0.12</td></tr><tr><td>三角形植被指数 TVI</td><td>0.06</td><td>0.34</td><td>0.19</td><td>0.04</td><td>0.22</td><td>0.70</td></tr><tr><td>叶绿素吸收面积指数 CAAI)</td><td>0.43</td><td>0.26</td><td>0.00</td><td>0.45</td><td>0.21</td><td>0.00</td></tr><tr><td>综合叶绿素光谱指数MCARI/OSAVI</td><td>0.29</td><td>0.30</td><td>0.00</td><td>0.20</td><td>0.22</td><td>0.06</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4基于叶片原始光谱反射率及其一阶导数值的最优光谱指数查找",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "上述研究表明，很难找到一种通用的光谱指数适合于喀斯特与非喀斯特地区植物叶片叶绿素含量定量估算。因此，探讨适合于特定区域植物叶片叶绿素含量定量估算的光谱指数仍需进一步研究，尤其是在生境较为特殊的喀斯特区域。通过差值、比值、归一化以及倒数差值光谱指数与各波段组合方式探讨发现，在 ${ 5 0 0 } \\mathrm { \\sim } 8 0 0 \\mathrm { n m }$ 处 $. 1 5 0 0 { \\sim } 1 7 0 0 \\mathrm { n m }$ 以及 $1 9 0 0 \\sim$ $2 ~ 1 0 0 ~ \\mathrm { { n m } }$ 处4种光谱指数与其他波段组合的相关性较为显著（图4），说明这些范围波段的光谱对植物叶片叶绿素含量相对较为敏感。叶片原始光谱反射率经过一阶导数变换后，其与叶片叶绿素含量相关性较高的光谱指数高值区域更加集中（图5）。其中， ${ 5 0 0 } { \\sim } 8 0 0 \\mathrm { n m }$ 波段是基于原始光谱反射率一阶导数值的差值、比值、归一化以及倒数差值光谱指数最敏感的区域。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f64f0510aa4d18aa4fa300fd29b98409cdc0f7fd1cde207a0e6506dc3072deb.jpg",
+        "img_caption": [
+            "图4 基于叶片原始光谱反射率的差值光谱指数（a），比值光谱指数（b），归一化光谱指 数（c）和倒数差值光谱指数（d）相关性系数分布图 Fig.4 Correlation coeficient distribution of difference vegetation index (a), simple ratio vegetation index (b), normalized diference vegetation index (c),and inverse difference vegetation index (d) based on the raw reflectance spectra of leaves "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/35277dac62d5c37ef45367990127ff3192e717222bf61dfa957b41d76802ec10.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图5基于叶片原始光谱反射率一阶导数值的差值光谱指数（a），比值光谱指数（b），归一化光谱指数（c）和倒数差值光谱指数（d）相关性系数分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Correlation coeficient distribution of difference vegetation index (a), simple ratio vegetation index (b), normalized diffrence vegetation index (c),and inverse difference vegetation index (d) based on the first-order derivative spectra of leaves ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "基于叶片原始光谱反射率的各类型光谱指数大致在 $1 6 4 2 \\mathrm { n m }$ 和 $1 6 6 5 \\mathrm { n m }$ 附近的波段组合效果最好（表4），决定系数最大且均方根误差较小。各类光谱指数的喀斯特植物叶片叶绿素含量定量估算精度基本一致，决定系数都超过0.6。但叶片原始光谱反射率经过一阶导数变换后，4种类型光谱指数对喀斯特植物叶片叶绿素含量的定量估算精度皆有所提高，其中以叶片原始光谱反射率一阶导数值的差值光谱指数[dD（760，769）]估算精度最好，决定系数高达0.71，均方根误差仅为 $0 . 1 9 \\mathrm { m g ^ { \\bullet } g ^ { - 1 } }$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/cebfee28e1fbda4f3289bb5c45e2f4bd839f01912e584ef2fd328c7440db8ca2.jpg",
+        "table_caption": [
+            "表4基于叶片原始光谱反射率及其一阶导数值的不同类型光谱指数最优波段组合 Table 4 Optimal combination of spectral indices based on the raw reflectance spectra and the first-order derivative spectra ofleaves "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>光谱类型 Spectra type</td><td>光谱指数类型 Type of spectral index</td><td>波段1 双1</td><td>波段2 22</td><td>决定系数 R²</td><td>均方根误差 RMSE</td><td>概率值 P-value</td></tr><tr><td rowspan=\"4\">原始光谱 Raw reflectance spectra</td><td>差值植被指数 DVI</td><td>1 642</td><td>1 666</td><td>0.63</td><td>0.21</td><td>0.00</td></tr><tr><td>比值植被指数 SRVI</td><td>1 642</td><td>1 665</td><td>0.62</td><td>0.22</td><td>0.00</td></tr><tr><td>归一化植被指数 NDVI</td><td>1 642</td><td>1 665</td><td>0.62</td><td>0.27</td><td>0.00</td></tr><tr><td>倒数差值植被指数 IDVI</td><td>1 639</td><td>1 666</td><td>0.61</td><td>0.40</td><td>0.00</td></tr><tr><td rowspan=\"4\">一阶导数光谱 The first-order derivative spectra</td><td>差值植被指数 dDVI</td><td>760</td><td>769</td><td>0.71</td><td>0.19</td><td>0.00</td></tr><tr><td>比值植被指数dSRVI</td><td>16 53</td><td>1 781</td><td>0.67</td><td>0.49</td><td>0.00</td></tr><tr><td>归一化植被指数dNDVI</td><td>942</td><td>1 655</td><td>0.63</td><td>0.44</td><td>0.00</td></tr><tr><td>倒数差值植被指数 dIDVI</td><td>642</td><td>2317</td><td>0.63</td><td>0.44</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.5喀斯特植物叶片叶绿素含量定量估算的光谱指数选择",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "差值光谱指数在 $4 0 0 { \\sim } 2 5 0 0 \\mathrm { n m }$ 间任意两个波段的组合运算相比其它3种类型光谱指数所表现出来的喀斯特植物叶片叶绿素含量定量估算精度要更好（图6）。差值光谱指数与喀斯特植物叶片叶绿素含量相关系数大于0.70的光谱指数个数在叶片原始光谱反射率中达36734个，而在叶片原始光谱反射率一阶导数值中达到61876个，远远优于其他3种光谱指数表现形式。且从表3中可以看出，无论是基于叶片原始光谱反射率还是其一阶导数值，其最优的光谱指数都是差值光谱指数，说明4种光谱指数中，差值光谱指数更适合于喀斯特植物叶片叶绿素含量的定量估算。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/91b47c3d306c67fa33c58e5da95329e1205ced77a453375207bf9f1b50448737.jpg",
+        "img_caption": [
+            "图6与植物叶片叶绿素含量相关系数大于等于0.70的光谱指数个数"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Number of the spectral index that correlation coefficients value is larger than and equal to 0.7 with leaf chlorophyll content of plants ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "通过喀斯特与非喀斯特植物叶片光谱的“三边”参数研究发现（表5），喀斯特植物叶片光谱红边位置红移现象明显，样本平均红边面积明显增大。同时，相比于非喀斯特区域，喀斯特植物叶片光谱除红边位置红移外，蓝边位置及黄边位置也有一定的变化。而许多常用光谱指数都与这三边参数有或多或少的关系，这可能是常用指数在喀斯特植物叶片叶绿素含量定量估算效果不理想的原因之一。对比喀斯特与非喀斯特同一植物的叶片比叶面积发现，喀斯特植物叶片比叶面积均值为（ $\\mathrm { 1 5 0 . 1 \\pm 1 2 . 0 3 ) ~ c m ^ { 2 } { \\bullet g ^ { - 1 } } }$ ，非喀斯特植物叶片比叶面积均值为（ $1 1 8 . 8 1 \\pm 4 . 4 6 \\$ ） $\\mathrm { c m } ^ { 2 } { \\bullet } \\mathrm { g } ^ { - 1 }$ ，两者明显差异在一定程度上说明同一种植物的叶片结构在喀斯特与非喀斯特地区有所差异。植物叶片结构的差异也导致了叶片对光谱敏感度的不同。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表5喀斯特与非喀斯特植物叶片光谱“三边”参数对比",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed6a30918e7af79f884142e13d5beaab4111034a8863e5cf0cac3d3591bd3664.jpg",
+        "table_caption": [
+            "Table 5 Comparison of trilateral parameters of leaf spectral reflectance of plants in karst and "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">non-karst areas</td></tr><tr><td>“三边”参数</td><td>喀斯特地区</td><td>非喀斯特地区</td></tr><tr><td>Trilateral parameter</td><td>Karst area</td><td>Non-karst area</td></tr><tr><td>蓝边位置 Blue edge position</td><td>522.03</td><td>521.07</td></tr><tr><td>蓝边幅值 Blue edge magnitude</td><td>0.00</td><td>0.00</td></tr><tr><td>黄边位置 Yellow edge position</td><td>629.11</td><td>628.10</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/9beed9ea917defc377205b5f096c2b1e86141475c07da36d19749e4f742bb1ec.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>黄边幅值 Yellow edge magnitude</td><td>0.00 0.00</td></tr><tr><td>红边位置 Red edge position</td><td>709.19 707.27</td></tr><tr><td></td><td></td></tr><tr><td>红边幅值 Red edge magnitude</td><td>0.01 0.01</td></tr><tr><td>蓝边面积 Blue edge area</td><td>0.06 0.06</td></tr><tr><td>黄边面积 Yellow edge area</td><td>-0.06 -0.06</td></tr><tr><td>红边面积 Red edge area</td><td>0.49 0.41</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "对基于叶片原始光谱反射率及其一阶导数值的4种类型光谱指数在 $4 0 0 { \\sim } 2 5 0 0 \\mathrm { n m }$ 波段遍历研究发现（表6），相比于喀斯特区，非喀斯特区4种光谱指数的最优光谱指数波段 $\\lambda _ { 1 }$ 向蓝光和绿光方向移动，而波段 $\\lambda _ { 2 }$ 向近红外长波方向移动，表明适用于非喀斯特植物叶片叶绿素含量定量估算的光谱指数不一定适合于喀斯特地区。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4d1f4bbd4262f329f22b77d5167b398c4e81a672d2b583a61f582d1172311c8.jpg",
+        "table_caption": [
+            "表6非喀斯特植物叶片原始光谱反射率及其一阶导数值的不同类型光谱指数最优波段组合 Table 6 Optimal combination of different types of spectral indices based on the raw reflectance spectra and the first-order derivative reflectance of plant leaf in non-karst areas "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>光谱类型 Spectra type</td><td>光谱指数类型 Type of spectral index</td><td>波段1 λ1</td><td>波段2 2</td><td>决定系数</td><td>均方根误差</td><td>概率值</td></tr><tr><td rowspan=\"4\">原始光谱 Raw reflectance spectra</td><td></td><td></td><td>2176</td><td>R²</td><td>RMSE</td><td>P-value</td></tr><tr><td>差值植被指数DVI</td><td>597</td><td></td><td>0.48</td><td>0.34</td><td>0.00</td></tr><tr><td>比值植被指数 SRVI</td><td>641</td><td>2203</td><td>0.49</td><td>2.73</td><td>0.00</td></tr><tr><td>归一化植被指数 NDVI 倒数差值植被指数 IDVI</td><td>709 475</td><td>2193 478</td><td>0.45</td><td>0.43</td><td>0.00</td></tr><tr><td rowspan=\"4\">一阶导数光谱 The first-order derivative spectra</td><td></td><td>539</td><td>1953</td><td>0.41</td><td>0.47</td><td>0.00</td></tr><tr><td>差值植被指数 dDVI</td><td></td><td>2 230</td><td>0.62</td><td>0.35</td><td>0.00</td></tr><tr><td>比值植被指数 dSRVI</td><td>487</td><td>1991</td><td>0.56</td><td>0.79</td><td>0.00</td></tr><tr><td>归一化植被指数dNDVI 倒数差值植被指数 dIDVI</td><td>539 1752</td><td>2 345</td><td>0.61 0.60</td><td>0.88 0.68</td><td>0.00 0.00</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "目前，通过光谱指数定量估算植物叶片叶绿素含量已经可获得较高精度（Main et al,2011;Croftetal.,2014），但这些常用光谱指数主要基于非喀斯特植物叶片光谱反射率与叶片叶绿素含量间关系建立起来，对于基于光谱指数的喀斯特植物叶片叶绿素含量遥感定量估算及其光谱指数适应性研究还相对缺乏。我国西南喀斯特地区面积约54万 $\\mathrm { k m } ^ { 2 }$ ，是全球喀斯特集中分布区面积最大，岩溶发育最强烈，生物多样性丰富，人地矛盾最尖锐的典型生态脆弱区（王克林等，2019）。喀斯特地区土层浅薄，土壤富钙而偏碱性，且具有高度的土被空间异质性（朱守谦，1997）。特殊的喀斯特生境胁迫尤其是干旱胁迫成为我国西南喀斯特地区植物生长演替与分布的主要限制因子（Liuetal.,2011）。受特殊喀斯特特殊生境影响，生长于喀斯特地区的植物与非喀斯特地区的植物相比，往往表现出不同的功能性状特征（Geekiyanage etal.,2017),如喀斯特植物往往具有较高的光合作用能力和水分利用效率（Fuet al.,2019）。植物叶片叶绿素含量可作为典型区域植物生长及其对环境胁迫响应的指示指标（Zhang etal.,2008）。因此，本研究在总结以往基于光谱指数的植物生化参数定量估算研究基础上，通过差值、比值、归一化以及倒数差值光谱指数构建方式对所采集的4种典型喀斯特植物—一黄荆、盐肤木、朴树和红背山麻杆叶片原始光谱波段（ $4 0 0 { \\sim } 2 5 0 0 \\mathrm { n m }$ ）反射率及其一阶导数值与同步测定的叶片叶绿素含量进行遍历分析，直至获得最优光谱波段组合的指数模型，并将其应用于喀斯特植物叶片叶绿素含量定量估算。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究所选择的15种与植被色素有关的常用光谱指数中，改良红边归一化光谱指数（mND705）对喀斯特植物叶片叶绿素含量定量估算精度较高。这可能是因为改良红边归一化光谱指数受植物种类以及叶片结构影响的敏感性较低，能够更好地应用于不同植被类型的叶片叶绿素含量定量估算（Mainetal.,2011）；而其他常用光谱指数在喀斯特植物叶片叶绿素含量的定量估算中相比非喀斯特地区估算精度较差。如本研究中，基于归一化植被指数(NDVI)、结构不敏感色素指数（SIPI）以及三角形光谱指数（TVI）在定量估算喀斯特植物叶片叶绿素含量时，模型的决定系数（ $\\langle R ^ { 2 } \\rangle$ ）均为0。受植物叶片结构差异对光谱敏感性影响，采用经典的归一化植被指数在定量估算植物叶片叶绿素含量时精度低于其它光谱指数如叶绿素光谱指数（chlorophyll vegetation index,CVI）（Frazzi,2011）。基于光谱指数的植物生化参数定量估算中，归一化植被指数并非一直有效（Khadkaetal.,2021）。因此，在选择光谱指数进行植物生化参数定量估算时需要考虑光谱指数的普适性。相关研究也表明，基于三角形光谱指数的植物叶片叶绿素估算精度较低，且与真实值偏低（姜海玲等，2016）。喀斯特植物叶片结构、营养元素等均与非喀斯特区具有明显的差别，这可能是导致喀斯特与非喀斯特植物叶片对光谱反射率敏感性不一的原因。因此，基于非喀斯特地区植物叶片光谱反射率与叶片叶绿素含量之间关系建立的光谱指数模型不一定适合于喀斯特地区植物叶片叶绿素含量的定量估算。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "光谱指数的波段组合方式及其表现形式多种多样（刘畅等，2016），光谱波段的有效选取是建立光谱指数模型的关键。本研究通过差值、比值、归一化以及倒数差值的光谱构建方式对喀斯特植物叶片原始光谱反射率及其一阶导数值与同步测定的植物叶片叶绿素含量进行遍历研究发现，基于植物叶片原始光谱反射率一阶导数值的差值光谱指数[dD（760，769)能够很好的估算喀斯特植物叶片叶绿素含量，其精度优于其它常用光谱指数。 $d D ( 7 6 0$ 769）所选择的波段接近短波近红外区，这一区域对植物叶片色素具有一定的相关性，同时对植物叶片结构等较为敏感（Jacquemoud&Baret,1990；宫兆宁等，2014）。喀斯特与非喀斯特区相比，水分条件是关键影响因素。在相同的气候条件下，喀斯特地区植被更容易受到水分胁迫（郭柯等，2011；Liu etal.,2011）。干旱胁迫下植物叶片大小、厚度、气孔导度、栅栏组织等都会发生变化（曹林青等，2018），并引起植物叶片光谱反射率显著差异（Chaturvedi etal.,2019）。本研究对比喀斯特和非喀斯特地区的同一植物叶片光谱特征时也发现类似结果，在喀斯特与非喀斯特不同生境条件下，同一植物叶片光谱反射率差异显著，尤其是对光谱的近红外波段尤其敏感。因此，针对特殊生境的喀斯特区域，单独提出喀斯特植物叶片叶绿素含量定量估算的光谱指数是必要的。此外，受样本量以及区域限制的影响，本研究所提出的基于植物叶片原始光谱反射率一阶导数值的差值光谱指数[dD（760，769)],需要在不同喀斯特生境以及不同植物大量样本的叶片叶绿素含量定量估算中进一步研究验证，以提高其估算精度及适用性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "喀斯特植物叶片叶绿素含量及其它生化参数定量估算精度的提高，是快速、准确评价喀斯特地区植物生长状况及其对环境胁迫响应研究的关键。本研究通过对4种典型喀斯特植物实测的叶片高光谱反射率数据与同步测定的叶片叶绿素含量之间关系进行研究，提出了基于植物叶片原始光谱反射率一阶导数值的差值光谱指数[dD（760，769）]，并成功应用于喀斯特植物叶片叶绿素含量的定量估算。基于植物叶片原始光谱反射率一阶导数值的差值光谱指数[dD（760，769）]在喀斯特植物叶片叶绿素含量定量估算的精度远优于其它常用光谱指数，丰富了喀斯特植物叶片叶绿素含量遥感定量估算的研究，为大范围无损监测喀斯特植物叶片叶绿素含量及其它生化参数提供科学依据与技术支持。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "BIOUCAS-DIAS JM, PLAZA A, CAMPS-VALLS G, et al., 2013. Hyperspectral remote sensing data analysis and future challenges [J]. Ieee Geosc Rem Sen M,1(2): 6-36. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "BLACKBURN GA, 1998. Quantifying chlorophylls and carotenoids at leaf and canopy scales: An evaluation of some hyperspectral approaches [J]. Remote Sens Environ, 66(3): 273-285.   \nCAO L, ZHONG Q,LUO S, et al., 2018. Variation in leaf structure of Camellia oleifera under drought stress[J].For Res,31(3): 136-143.[曹林青，钟秋平，罗帅，等，2018．干旱胁迫下 油茶叶片结构特征的变化[J]．林业科学研究，31(3):136-143.]   \nCHATURVEDI AK, SURENDRAN U, GOPINATH G, et al., 2019. Elucidation of stage specific physiological sensitivity of okra to drought stress through leaf gas exchange, spectral indices, growth and yield parameters [J]. Agric Water Manage,222: 92-104.   \nCHEN H, YUE Y, WANG K, 2018. Comprehensive control on rocky desertification in karst regions of southwestern China: Achievements, problems, and countermeasures [J]. Carsol Sin, 37(1):37-42.[陈洪松，岳跃民，王克林，2018．西南喀斯特地区石漠化综合治理：成效、 问题与对策[J]．中国岩溶，37(1):37-42.]   \nCROFT H, CHEN JM, WANG R, et al., 2020.The global distribution of leaf chlorophyll content [J]. Remote Sens Environ, 236: 111479.   \nCROFT H, CHEN JM, ZHANG Y,2014. The applicability of empirical vegetation indices for determining leaf chlorophyll content over different leaf and canopy structures [J]. Ecol Complex, 17: 119-130.   \nDARVISHZADEH R, SKIDMORE A, SCHLERF A, et al., 2008. Inversion of a radiative transfer model for estimating vegetation LAI and chlorophyll in a heterogeneous grassland [J]. Remote Sens Environ, 112(5): 2592-2604.   \nDOBROWSKI SZ, PUSHNIK JC, ZARCO-TEJADA PJ, et al., 2005. Simple reflectance indices track heat and water stress-induced changes in steady-state chlorophyll fluorescence at the canopy scale [J]. Remote Sens Environ, 97(3): 403-414.   \nFANG M, JU W, ZHAN W, et al.,2017. A new spectral similarity water index for the estimation of leaf water content from hyperspectral data of leaves [J]. Remote Sens Environ, 196: 13-27.   \nFRAZZI MVE,2011. Comparing narrow and broad-band vegetation indices to estimate leaf chlorophyll content in planophile crop canopies [J]. Precis Agric,12(3): 334-344.   \nFU P, ZHU S, ZHANG J, et al., 2019. The contrasting leaf functional traits between a karst forest and a nearby non-karst forest in south-west China [J]. Funct Plant Biol, 46(1O): 907-915.   \nGAMON JA, PENUELAS J, FIELD CB, 1992. A narrow-waveband spectral index that tracks diurnal changes in photosynthetic efficiency [J]. Remote Sens Environ, 41(1): 35-44.   \nGEEKIYANAGE N, GOODALE UM, CAO K, et al., 2018. Leaf trait variations associated with habitat affinity of tropical karst tree species [J]. Ecol Evol, 8(1): 286-295.   \nGITELSON AA，GRITZ Y,MERZLYAK MN，2003.Relationships between leaf chlorophyll content and spectral reflectance and algorithms for non-destructive chlorophyll assessment in higher plant leaves [J]. JPlant Physiol,160(3): 271-282.   \nGITELSON AA，KAUFMAN YJ,MERZLYAK MN,1996. Use of green channel in remote sensing of global vegetation from EOS-MODIS [J]. Remote Sens Environ, 58(3): 289-298.   \nGITELSON AA, ZUR Y, CHIVKUNOVA OB, et al., 2002. Assessing carotenoid content in plant leaves with reflectance spectroscopy [J]. Photochem Photobiol, 75(3): 272-281.   \nGONG Z, ZHAO Y, ZHAO W, et al.,2014. Estimation model for plant leaf chlorophyll content based on the spectral index content [J].Acta Ecol Sin,34(20): 5736-5745.[宫兆宁，赵雅莉, 赵文吉，等．基于光谱指数的植物叶片叶绿素含量的估算模型[J].生态学报，34(20): 5736-5745.]   \nHABOUDANE D, MILLER JR, TREMBLAY N et al., 2002. Integrated narrow-band vegetation indices for prediction of crop chlorophyll content for application to precision agriculture [J]. Remote Sens Environ, 81(2-3): 416-426.   \nJACQUEMOUD S, VERHOEF W, BARET F, et al., 2009. PROSPECT $^ +$ SAIL models: A review of use for vegetation characterization [J]. Remote Sens Environ,113: S56-S66.   \nJACQUEMOUD S, BARET F,1990. PROSPECT: A model of leaf optical properties spectra [J]. Remote Sens Environ,34(2): 75-91.   \nJIANG H, ZHANG L, YANG H, et al., 2016. Research on spectral scale effect in the estimation of vegetation leaf chlorophyllcontent [J]. Spectrosc Spect Anal, 36(1): 169-176.[姜海玲，张立福, 杨杭，等，2016．植被叶片叶绿素含量反演的光谱尺度效应研究[J]．光谱学与光谱分析, 36(1): 169-176.]   \nJIAO Q, ZHANG X, ZHANG B,et al., 2006. The retrieval of forest chlorophyll concentration based on foliar spectra [J]. Remote Sens Land Resources,(2): 26-30.[焦全军，张霞，张兵, 等．基于叶片光谱的森林叶绿素浓度反演研究[J]．国土资源遥感,(2):26-30.]   \nKHADKA K, BURT AJ, EARL HJ, et al., 2021. Does leaf waxiness confound the use of NDVI in the assessment of chlorophyll when evaluating genetic diversity panels of wheat? [J]. Agronomy, 11(3): 486.   \nLI HS,2000. Principle and technology of plant physiological and biochemical experiments [M]. Beijing: Higher Education Press:134-137.[李合生,2000．植物生理生化实验原理和技术[M]. 北京：高等教育出版社：134-137.   \nLIU C,LIU Y, GUO K, et al., 2011. Effect of drought on pigments, osmotic adjustment and antioxidant enzymes in six woody plant species in karst habitats of southwestern China [J]. Environ Exp Bot, 71(2): 174-183.   \nLIU C, SUN P,LIU S, 2016. A review of plant spectral reflectance response to water physiological ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "changes[J].ChinJPlant Ecol,40(1):80-91.[刘畅，孙鹏森，刘世荣，2016．植物反射光谱对水分生理变化响应的研究进展 [J]．植物生态学报，40(1):80-91.]",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "MADEIRA AC，MENDONCA A，FERREIRA ME，et al.， 2000.Relationship between spectroradiometric and chlorophyl measurements in green beans [J]. Commun Soil Sci Plant Anal, 31(5-6): 631-643   \nMAIN R, CHO MA, MATHIEU R, et al.,2011. An investigation into robust spectral indices for leaf chlorophyl estimation [J]. ISPRS JPhotogramm Remote Sens, 66: 751-761.   \nPALTA JP, 1990. Leaf chlorophyll content [J]. Remote Sensing Reviews, 5(1): 207-213.   \nPENUELASJ， BARET F， FILELLA I， 1995. Semi-empiricalindicesto assess carotenoids/chlorophyll a ratio from leaf spectral reflectance [J]. Photosynthetica, 31(2): 221-230.   \nREI S,QUAN W, 2017. Towards a universal hyperspectral index to assess chlorophyll content in deciduous forests [J]. Remote Sensing, 9(3): 191.   \nROUSE JW, HAAS RH, SCHELL JA, et al., 1974. Monitoring vegetation systems in the Great Plains With ERTS [M]//FREDEN SC,MERCANTI EP, BECKER MA. Third earth resources technology satellite-1 symposium: Volume I: Technical Presentation Section A [M]. Scientific and Technical Information Offce, National Aeronautics and Space Administration, Washington, D. C., 309-317.   \nSIMS DA，GAMON JA， 2002.Relationships between leaf pigment content and spectral reflectance acrossa wide range of species, leaf structures and developmental stages [J]. Remote Sens Environ, 81(2-3): 337-354.   \nSU W, ZHAO X, SUN Z, et al., 2019. Estimating the corn canopy chlorophyll content using the Sentinel-2A image [J]. Spectrosc Spect Anal,39(5): 1535-1542.[苏伟，赵晓凤，孙中平，等， 2019.基于 Sentinel-2A 影像的玉米冠层叶绿素含量估算[J]．光谱学与光谱分析，39(5): 1535-1542.]   \nWANG K，YUE Y, CHENG H, et al.， 2019. The comprehensive treatment of karst rocky desertification and its regional restoration effects [J]. Acta Ecol Sin, 39(20): 7432-7440.[王克 林，岳跃民，陈洪松，等，2019．喀斯特石漠化综合治理及其区域恢复效应[J]．生态学报， 39(20): 7432-7440.]   \nWANG S, LIU Z, NI J, et al., 2017. A review of research progress and future prospective of carbon cycle in karst area of South China [J]. Earth Environ,45(1): 2-9.[王世杰，刘再华，倪 健，等，2017．中国南方喀斯特地区碳循环研究进展[J]．地球与环境，45(1):2-9.]   \nWU C，NIU Z, TANG Q，et al.， 2008.Estimating chlorophyll content from hyperspectral vegetation indices: Modeling and validation [J]. Agric For Meteorol, 148(8-9): 1230-1241.   \nXUE JR; SU BF, 2017. Significant remote sensing vegetation indices: A review of developments and applications [J].J Sensors, 2017: 1-17.   \nZHAO HS, ZHU XC,LI C, et al., 2017. Improving the accuracy of the hyperspectral model for apple canopy water content prediction using the equidistant sampling method [J]. Sci Rep,7(1): 1-9.   \nZHANG Y, CHEN JM, MILLER JR, et al.,2008.Leaf chlorophyll content retrieval from airborne hyperspectral remote sensing imagery [J]. Remote Sens Environ, 122(7): 3234-3247.   \nZHAO S, PEREIRA P, WU X, et al., 2020. Global karst vegetation regime and its response to climate change and human activities [J]. Ecol Indic,113:106208.   \nZHU SQ,1997. Ecological research on karst forest II [M]. Guiyang: Guizhou Science and Technology Press.[朱守谦，1997．喀斯特森林生态研究 II[M]．贵州：贵州科技出版社.] ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

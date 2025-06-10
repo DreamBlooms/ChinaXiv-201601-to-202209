@@ -1,0 +1,141 @@
+# VantagePro气象站实时数据采集与在MUSER中的应用研究
+
+卫守林1,²，石聪明²，高姣姣²，王锋,²，邓辉²，季凯帆²(1.中国科学院云南天文台，云南 昆明 650011；2.昆明理工大学云南省计算机技术应用重点实验室，云南 昆明 650500)
+
+摘要：我国明安图射电频谱日像仪(Mingantu Ultrawide SpEctral Radio Heliograph，MUSER)已经完成所有的硬件设备安装与调试，即将进入常规观测。为有效地保证观测数据的可用性，项目组购置了VantagePro自动气象站，用以实时监控观测地的气象条件变化。首先介绍了MUSER项目的基本情况，论述了在项目中气象条件的应用场景及在数据处理时对数据有效性可能造成的影响；详细介绍了VantagePro气象站的数据采集格式、数据交换格式以及串行通信协议；介绍了在气象数据的存储方式；最后给出了构建气象数据服务、数据归档和高效查询的方法。可以应用在望远镜自动气象监控和数据处理方面，也可以为选址的自动气象监测提供参考。
+
+关键词：VantagePro；MUSER；气象数据采集；数据合并；键值数据库中图分类号： $\mathrm { T P } 2 7 4 ^ { + }$ .2 文献标识码：A 文章编号：1672-7673(2016)01-0117-07
+
+# 1研究背景
+
+为了推动太阳射电观测技术的发展，我国天文学家提出 $4 0 0 ~ \mathrm { M H z } \sim 1 5 ~ \mathrm { G H z }$ 范围内的厘米-分米波日像仪（Chinese Spectral Radio Heliograph，CSRH)[1]，现已命名为 MUSER，首次在多波段上实现同时以高空间、高时间和高频率分辨率观测太阳活动的动力学性质，对太阳从色球层到高日冕的广大区域进行高分辨率的三维动态成像观测，填补国际科学界在太阳耀斑、日冕物质抛射等爆发活动的能量初始释放区高分辨射电成像观测的空白，揭示太阳剧烈活动的起源和发生规律，并取得一批原创性研究成果，大大提升我国在太阳活动预报方面的能力，为航天航空、卫星通讯和国防建设等提供有效保障，对推动学科发展及相关高技术领域的建设具有重要作用。MUSER最终选址在内蒙古锡林格勒盟正镶白旗[2]。
+
+数据处理过程中，对观测地点的气象条件有相应的要求；一方面，在生成UVFITS、FITS-IDI等格式时，有相应天气的字段需要填入；另一方面，在低温、暴雨、冰雹等恶劣天气状况下，天线等物理情况有可能发生变化，同时暴雨对观测信号也有一定的误差作用，记录这些状态对后续数据处理有较大的帮助。
+
+针对自动气象数据采集与归档的需要，项目组购置了美国戴维斯公司的Vantage Pro自动气象站。该气象站可以实时采集日像仪所在地的气象条件，但不能将数据存储到数据库中，也没有提供接口用于获取数据。而气象条件如光照、雨量、风速、风向、湿度、温度、雨量[3-4]等影响观测数据的有效性，因此需要实时采集并存储这些气象数据，并在数据处理过程中加入判定。除了对实时数据的处理，还包括对历史数据的处理(如某一个时间的积分)，需要能够查询历史的气象信息。因此需要实时采集并存储气象信息，能提供快速查询历史气象信息。在本文中，自行研发了一套系统，实现从Vantage Pro自动采集气象数据，并把数据存入数据库进行自动归档为后续检索使用，这是日像仪全自动观测与后续全自动数据处理的重要组成部分。其中，需要解决Vantage Pro通信协议分析、数据采集、数据格式分析与数据拆分、构建气象数据服务、数据合并归档与检索等相关问题。
+
+# 2Vantage Pro 气象站
+
+Vantage Pro 电子气象站是美国戴维斯公司（Davis Instruments Corp.）面向气象服务、移动服务的小型气象站[5]，体积小，重量轻，功耗小，集成度高，安装简单，长期工作稳定可靠。气象站由一体化传感器单元（Integrated Sensor Suite，ISS）、终端控制器（CONSOLE）和记录器软件（Weather Link）组成[6-7]。一体化传感器单元可使用有线和无线方式传输数据，其中有线方式的一体化传感器单元由有线电缆供电，数据由有线电缆传送到终端控制器，电缆线长度可扩展至 $3 0 5 \mathrm { ~ m ~ }$ ；无线方式的一体化传感器单元由太阳能供电，数据无线传送到终端控制器，距离大约 $2 0 0 \sim 3 0 0 ~ \mathrm { m }$ 。Vantage Pro 也是目前国内外天文领域应用较广的全自动气象站之一，在远程自主观测等方面应用较广，MUSER使用有线电缆方式部署一体化传感器单元。Vantage Pro可以测量空气温度、空气相对湿度、风向、风速、雨量、气压、太阳辐射和紫外辐射，组成8要素电子气象站。还可扩展对土壤温度、土壤湿度及叶面湿度等气象要素进行观测。
+
+与一般的气象站不同，VantagePro通过一体化传感器单元接口板接收数据并转发至终端控制器或连接的计算机中，其中温湿度传感器在白色百叶式防辐射罩内，翻斗式雨量计的翻斗在雨量筒内。各传感器信号线均接人一体化传感器单元接口板中。无线方式一体化传感器单元通过外部所带太阳能板供电，盒内装有一块3V锂电池，用于夜间及无日照时供电[8]。终端控制器用来在未连接计算机单独显示气象信息时的状态。但由于当前日像仪采用计算机实时采集，因此终端控制器并不需要配置。
+
+# 2.1 通信协议
+
+Vantage Pro 中有线电缆的方式使用串行通信协议进行数据传输和命令控制，即 RS232C 串口通讯协议标准。RS232C串口通信协议包含8个数据位、1个起始位、1个停止位、无奇偶校验位。通信协议中的波特率设置为4800 比特。用RS232C串口通信协议中的 DB9（9针D 型串口），Vantage Pro 串行端口的命令格式表示如下：
+
+<参数名称—十进制数字><参数名称一十六进制数字><参数名称—二进制数字>
+
+十进制和十六进制数字可以用ASCII替换，二进制数字发送字符值，每个命令之后紧跟一个换行符 ${ \bf \Xi } ( { \bf \Lambda } \backslash { \bf n } )$ 。
+
+# 2.2数据格式
+
+Vantage Pro通过串口获取气象数据，实际传送的气象数据为99个字节的数据包，如表1，从1\~99 对数据包编号，提取的数据用括号给出注释，括号中逗号之前的内容表示字段含义，逗号之后的内容表示测量值的单位。数据包的具体格式如表1。
+
+# 3气象数据拆分与归档
+
+在应用中，将各个一体化传感器单元采集的气象因子数据通过RS232C串口通信协议传到数据接收服务器，通过该接收机上的数据请求与拆分程序将RS232C传送的气象因子数据包实时拆分出需要的气象因子并归档到MySQL数据库和键值数据库高速缓存中。同时数据合并程序自动合并同价值的数据，将最新的数据存到键值数据库中。系统整体结构如图1。
+
+# 3.1 初始化
+
+串口数据的接收和归档以驻留程序方式运行在服务器上，图2显示了实时气象数据拆分与处理的初始化流程。气象因子的记录器对象主要暂时存储拆分处理后的气象数据，气象因子读取器对象负责读取数据包中记录的特定气象因子的测量值。由于Vantage Pro 气象站测量的气象因子值与要归档值的单位不一致，因此也需要气象因子的修正器对象对测量的原始值进行修正。
+
+![](images/0639e0c333b760f339f8382c27aead25af71e52a07a3b1c55d71bb290c707a34.jpg)  
+图1气象站与数据库之间的通信图  
+Fig.1The Communication sketch between the Vantage Pro and the MySQL
+
+表1数据包数据格式  
+Table1 The data format of the packet   
+
+<html><body><table><tr><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>L</td><td>0</td><td>0</td><td>Bar Trend 标识字节，标</td></tr><tr><td>标识</td><td>标识</td><td>标识</td><td>识当前3小时气压趋势</td></tr><tr><td>5</td><td>6~7</td><td>8~9</td><td>10~11</td></tr><tr><td>Packet Type</td><td>Next Record</td><td>Barometer</td><td>Inside Temperature/1000</td></tr><tr><td>包类型</td><td>下条记录</td><td>（气压，inHg)</td><td>(室内温度，F)</td></tr><tr><td>12</td><td>13~14</td><td>15</td><td>17~18</td></tr><tr><td>Inside Humidity/10</td><td>Outside Temperature/10</td><td>Wind Speed</td><td>Wind Direction</td></tr><tr><td>（室内湿度，%）</td><td>(室外温度，F)</td><td>(风速，m/h)</td><td>（风向，°）</td></tr><tr><td>19~25</td><td>26~29</td><td>30~33</td><td>34</td></tr><tr><td>Extra Temperatures (额外站点的温度，F)</td><td>Soil Temperatures (土壤温度，F)</td><td>Leaf Temperatures (树叶温度，F)</td><td>Outside Humidity （室外湿度，%）</td></tr><tr><td>35~41</td><td>42~43</td><td>44</td><td>45~46</td></tr><tr><td>Extra Humidity</td><td>Rain Rate</td><td>UV</td><td>Solar Radiation</td></tr><tr><td>（额外站点的湿度，%）</td><td>(雨率，in/h)</td><td>（紫外强度，index)</td><td>（太阳辐射，W/m2）</td></tr><tr><td>47~48</td><td>49~50</td><td>51~52</td><td>53~54</td></tr><tr><td>Storm Rain</td><td>Start Date of current Storm</td><td>Day Rain</td><td>Month Rain</td></tr><tr><td>暴雨量</td><td>当前暴雨开始时间</td><td>天雨量</td><td>月雨量</td></tr><tr><td>55~56</td><td>57~58</td><td>59~60</td><td>61~62</td></tr><tr><td>Year Rain</td><td>Day ET</td><td>Month ET</td><td>Year ET</td></tr><tr><td>年雨量</td><td>天蒸散量</td><td>月蒸散量</td><td>年蒸散量</td></tr><tr><td>63~66</td><td>67~70</td><td>71</td><td>72</td></tr><tr><td>Soil Moistures</td><td>Leaf Wetnesses</td><td>Inside Alarms</td><td>Rain Alarms</td></tr><tr><td>(土壤湿度，cb)</td><td>（叶潮湿指数，0~15）</td><td>内报警</td><td>雨量报价</td></tr><tr><td>73~74</td><td>75~82</td><td>83~86</td><td>87</td></tr><tr><td>Outside Alarms</td><td>Extra Temp/Hum Alarms</td><td>Soil&Leaf Alarms</td><td>Transmitter Battery Status</td></tr><tr><td>外报警</td><td>额外温度和湿度报价</td><td>土壤和叶报警</td><td>发射器电池状态</td></tr><tr><td>88~89</td><td>90</td><td>91</td><td>92~93</td></tr><tr><td>Console Battery Voltage</td><td>Forecast Flag</td><td>Forecast Rule</td><td>Time of Sunrise</td></tr><tr><td>终端电池电压</td><td>预报标识</td><td>预报规则标号</td><td>日出时间</td></tr><tr><td>94~95</td><td>96</td><td>97</td><td>98~99</td></tr><tr><td>Time of Sunset 日落时间</td><td>“\n"<LF>=Ox0A</td><td>“\r"<CR>=0x0D</td><td>CRC 校验位</td></tr></table></body></html>
+
+![](images/dee9273ebcc8e4c665fe3b2babd5e40fddbbb77cd7d04c07b5bafb276310e0f2.jpg)  
+Fig.2The flowchart of the initialization
+
+# 3.2数据的拆分与处理
+
+系统初始化后，采集程序定时从串口接收数据，首先获得采集时间并转换为1970年到现在的秒数，并向Vantage Pro请求一个数据包，接着处理收到的气象数据包。采集服务器上实时气象数据的拆分与处理流程如图3。
+
+![](images/ffb29c4e93f6a9689b7dcfb03258e143fa6432cd7caaf803acd6bdbb75cade1f.jpg)  
+图2系统初始化流程图  
+图3数据包的拆分处理  
+Fig.3The procedure of data extracting and processing
+
+图3中时间秒数的定义为从1970年1月1日0时0分0秒到此时的秒数。相邻的两个时间秒数之间相差 $6 0 ~ \mathrm { s }$ ，即 $1 ~ \mathrm { m i n }$ 。数据的采样周期也是 $1 ~ \mathrm { m i n }$ 。时间秒数用来唯一表示气象因子的采集时间或采样时间，同时也作为键值数据库存储中可分类的集合中顺序属性(Score)的值。
+
+# 3.3气象数据的存储
+
+在实际应用中，将采集的气象数据保存到MySQL数据库中，同时为了提高查询速度，使用键值数据库作为高速缓存。MySQL数据库中数据表的定义如表2。
+
+键值数据库是一个Key-Value 存储系统[9]]和Memcached类似，它支持存储的值(Value)类
+
+表2数据表格式  
+Table 2The definition of the data table   
+
+<html><body><table><tr><td>字段名</td><td>类型</td><td>字段说明</td></tr><tr><td>timekey</td><td>int(11)</td><td>时间戳</td></tr><tr><td>sensorItem</td><td>varchar(60)</td><td>传感器名字</td></tr><tr><td>value</td><td>float</td><td>传感器测量的经过修 正后的气象因子值</td></tr></table></body></html>
+
+型相对更多，包括字符串（string）、链表(list）、集合（set）和有序集合（zset）。键值数据库的功能可以理解为一个Key-Value 的数据结构操作，数据保存在内存中定期刷新到磁盘，以提高读写效率。键值数据库通过两种方式实现数据持久化：使用快照的方式将内存中的数据不断写入磁盘，将操作记录在磁盘文件中。因为需要在键值数据库执行范围查询，使用有序集合Sorted Sets 存储气象数据，集合结构中使用时间秒数作为顺序属性，气象数据的实际值为其值。而键（Key)的值为气象的统计因子，如温度、湿度等。比如将2015年1月29日16时26分05秒采集的温度值 $1 7 \ \mathrm { { ^ circ C } }$ 存储到键值数据库的命令为：redis 127.0.0.1: $6 3 7 9 >$ zadd iss. temperature 142252110017。
+
+# 3.4拆分存储实例
+
+在气象数据拆分与归档的例子中，以测量室外温度的传感器 iss.temperature 为例。其它气象因子数据的拆分与归档和气象因子(室外温度)的处理情况类似。步骤如下：
+
+（1)开始采样时间为2015年1月29日16时 26分05秒，将该时间转换成1970年以来的时间秒数，为1422521100。
+
+（2)向Vantage Pro 发送“LOOP1”命令，请求一个99 字节的数据包。接收端到气象站响应的数据包，数据包的内容如图4。
+
+4c 4f4f140030 090e 64 5000411d00 0000 2600ffffffff7b7a7d7e7b 7a fff 4effffffff0000fff7f0000fff00oo000o0o0000oo0000o000009caOffff ff000000000000000000000000000000000000380312c0e002c0060a0de3a0
+
+(3)传感器 iss.temperature 的读取器从数据包中偏移量为12的位置读取2个字节，其十六进制值为 $0 0 ~ 1 \mathrm { d }$ 。读取器对象将 $0 0 ~ 1 \mathrm { d }$ 转换成十进制的29。
+
+（4)传感器 iss.temperature 的修正器将传感器的29F修正为2.900000F，然后再将2.900000F 转换成 $- 1 6 . 1 6 6 6 6 7 ~ \mathrm { ^ { \circ } C }$ 。（温度传感器记录的测量值是实际测量值的10倍，其它值的倍数详见表1)
+
+(5)传感器iss.temperature的记录器将 $- 1 6 . 1 6 6 6 6 7 \mathrm { ~ ‰ ~ }$ 更新到记录器对象中。(6)将传感器的值归档到MySQL和键值数据库中。  
+(7)更新下一次采用时间，循环步骤 $( 1 ) \sim ( 7 )$ 0
+
+# 4气象数据应用
+
+# 4.1气象数据服务
+
+数据处理过程中，在生成UVFITS、FITS-IDI等格式中，有相应的天气字段需要填入，同时在如低温、暴雨、冰雹等恶劣天气状况对观测信号也有一定的误差影响，因此在数据处理过程中需要获得气象数据。因数据量巨大，数据处理采用基于分布式的方法，数据处理程序分散在集群中的多台机器上，分布式程序处理会从多台机器向气象服务发送气象数据查询的请求，所以并发要求高，因此需要为数据处理程序构建高并发气象数据服务。选择使用 ZeroMQ编写气象数据服务[10-11]，ZeroMQ不是如其名所示的是一个消息队列，它更像一个面向消息的中间件或者网络通信程序库，提供了多种语言的应用程序编程接口和跨越多种传输协议(甚至包括了进程间和进程内的通信)的套接字。同时为了满足高并发高速查询的要求，使用数据合并和缓存方式进一步提高数据查询效率。
+
+# 4.2数据合并
+
+一般情况下将采集的气象数据处理成特定格式后直接追加到数据库中，然而随着时间的积累，数据库中的记录数会急剧增加。相应地检索某一个时间段的天气状态所需的时间也会增加，不能满足高效数据处理的要求。由于连续时间段的天气状态可能相同，例如在 $2 0 1 4 - 6 - 6 \ 1 0 : 0 0 : 0 0$ 到2014-6-6$1 0 : 0 0 : 5 9$ 这一分钟采集的天气状态为晴天，而在接下来的59分钟的时间内采集的天气状态都为晴天。通常情况下是将这60条记录全部存储到数据库中，然而改进的归档方法是合并这60条记录为一条记录。当检索落在这一合并后的时间段天气状态时，仍然可以检索到要检索时间段的天气状态为晴天，这样做和从60条记录中检索到的天气状态一样都是晴天，保证了合并后的数据仍然是有效的。如果一天要归档的所有采集的天气状态都一样，那么采用合并方法，数据库中存储一条记录就可以记录这一天的天气状态。但是如果采用传统的数据归档方式，记录一天的天气状态就需要 $2 4 \times 6 0$ 条，这样不仅浪费存储空间，同时影响检索效率。
+
+# 4.3快速检索
+
+数据合并一定程度上可以加快检索速度，但对于具体值的气象采集因子，如需要在每个UVFITS文件中存储的温度、湿度值，无法采用数据合并，数据量仍非常大。为了进一步提高查询速度，使用键值数据库作为高速缓存。数据查询时首先访问键值数据库，只有当键值数据库访问失败时或者在键值数据库中找不到数据时才访问MySQL，并将从MySQL获得的数据更新到键值数据库中。
+
+最常用的气象数据查询模式是根据观察时间查询气象数据，因此使用有序集合 Sorted Set，SortedSet 是集合的一个升级版本，它在集合的基础上增加了一个顺序属性，这一属性在添加修改元素的时候可以指定，每次指定后，有序集合会自动重新按新的值调整顺序。可以理解为有两列的MySQL表，一列存储具体的值，一列存顺序，也就是气象数据的时间。操作中key理解为有序集合的名字。查询时根据观察时间和气象因子可以获得该时刻的具体气象数据。比如查询时间2015年1月29日16 时26 分05秒的温度值，首先将该时间转换成1970年以来的时间秒数，为1422521100，在键值数据库上执行如下查询命令：
+
+redis 127.0. 0. 1: $6 3 7 9 >$ zrangebyscore temperature 1422521100+inf LIMIT 01
+
+这条命令的意思是在键值为 temperature 的 Sorted Sets 中查找大于时间点1422521100 的第1个值。$+ \mathrm { i n f }$ 在键值数据库中表示正无穷大。
+
+# 5结论
+
+本文首先介绍了明安图射电频谱日像仪的基本情况，并对项目中气象条件的可能应用场景和气象条件对观测数据有效性可能造成的影响进行了论述。简要介绍了Vantage Pro 气象站的基本工作原理，数据交换格式以及串行通信协议。设计并实现了气象数据的实时采集数据归档、合并和快速索引方法。本文介绍的Vantage Pro 气象站的气象数据采集、存储及快速查询的优化方法对观测数据的处理有重要的支撑作用，同时也可应用于望远镜选址中气象条件的自动监测。本文虽然提到了气象数据的合并方法，但是具体的气象条件状态值的确定需要统计分析气象数据对观测数据的影响后得出。因此未来将进行大量统计分析以评估气象数据对观测数据的可能影响，完善归并方法。
+
+# 参考文献：
+
+[1] 颜毅华，张坚，陈志军，等.关于太阳厘米一分米波段频谱日像仪研究进展［J].天文研究 与技术——国家天文台台刊，2006，3(2)：91-98. Yan Yihua， Zhang Jian，Chen Zhijun，et al. Progress on Chinese radioheliograph in cm-dm wavebands [J]. Astronomical Research & Technology———Publications of National Astronomical Observatories of China，2006，3(2）: 91-98.   
+[2] 陈志军，颜毅华，刘玉英，等.关于中国厘米一分米波频谱日像仪(CSRH)选址与无线电环 境监测［J]．天文研究与技术—国家天文台台刊，2006，3(2)：168-175. Chen Zhijun，Yan Yihua，Liu Yuying，et al. Site survey and RFI test for CSRH[J]. Astronomical Research & Technology—Publications of National Astronomical Observatories of China，2006，3(2）:168-175.   
+[3] 王志明，赵廷宁，田佳，等.VantagePro2自动气象站的使用维护研究［J].湖南农业科学， 2012(11) : 124-126. Wang Zhiming，Zhao Tingning，Tian Jia，et al. The maintenance technology of Vantage Pro2 type automatic weather station [J]. Hunan Agricultural Sciences，2012(11）：124-126.   
+[4] Renfrew IA,Anderson P S.The surface climatology of an ordinary katabatic wind regime in Coats Land, Antarctica [J]. Telus Series A-dynamic Meteorology & Oceanography,2002，54(5） : 463-484.   
+[5] Warner D C. Stereopair photographs from a surface vantage point [J].Weather,2006,61(5): 135-136.   
+[6] Maddalena R J. Accurate weather forecasting for radio astronomy ［J].Bulltin of the American Astronomical Society，2010，42：406.   
+[7] Gibbs S G,Green CF,Tarwater P M,et al.Isolation of antibiotic-resistant bacteria from the air plume downwind of a swine confined or concentrated animal feeding operation [J]. Environmental Health Perspectives，2006，114(7）：1032-1037.   
+[8] Patterson A C，Stark K D.Direct determinations of the faty acid composition of daily dietary intakes incorporating nutraceuticals and functional food strategies to increase n-3 highly unsaturated fatty acids [J]. Journal of the American College of Nutrition，2008，27(5）: 538-546.   
+[9] Ji Z,Ganchev I, O'Droma M,et al.A distributed redis framework for use in the UCWW[C]// 2014 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC).2014:241-244.   
+[10] NasirFT,Castiglia C，Buffa F，et al.Weather forecasting and dynamic scheduling for a modern $\mathrm { c m / m m }$ wave radio telescope [J].Experimental Astronomy，2013，36(1-2）:407-424.   
+[11] 叶崧，姚健东.基于ZeroMQ&JSON的分布式测控系统消息通信架构设计［J].现代电子技 术，2014，37(2)：105-109. Ye Song，Yan Jiandong. Design for message communication architecture of distributed measurment and control system [J].Modern Electronics Technique，2014，37(2）:105-109.
+
+# A Study on the Real-time Collection of the Vantage Pro Weather Station and the Application in the MUSER
+
+Wei Shoulin $^ { 1 , 2 }$ ，Shi Congming²，Gao Jiaojiao²，Wang Feng1,²，Deng Hui²，Ji Kaifan²   
+(1.Yunnan Observatories,Chinese Academy of Sciences，Kunming 650ol1,China，Email：wangfeng@cnlab.net; 2.Computer Technology Application Key Lab of Yunnan Province,Kunming University of Science and Technology，Kunming 65050o,China）
+
+Abstract: MUSER（Mingantu Ultrawide SpEctral Radio Heliograph） is prepared to enter a routine observation phase after completions of the hardware instalation and adjustment.So as to improve the availability of the observation data，the project team purchased the Vantage Pro weather stations for the real-time monitoring of meteorological conditions.This paper first introduces the background of MUSER and the basic situation，and discusses application scenarios and the impact on data processing of meteorological conditions.We give the detailed description of thedata colection format，data exchange format and serial communication protocol for the Vantage Pro weather station.We also address the meteorological data collection techniques.Finally，we give the methods of building meteorological data service，archiving and eficient querying using the Redis. The work discussed in this paper can be applied to the automatic weather monitoring and data processing for telescopes.It also can provide a valuable reference for the modern astronomical site testing in aspect of the automatic weather monitoring.
+
+Key Words: Vantage Pro；MUSER；Weather data collection；Data merging；Redis

@@ -1,0 +1,410 @@
+[
+    {
+        "type": "text",
+        "text": "关于质点动力学的相对性原理的新线索",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈驰—1）+ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1）（杭州师范大学，物理学院，杭州311121)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中文摘要部分．本文着重探索了质点动力学的相对性原理的物理逻辑。通过动力学的因果分析，发现牛顿第二定律之所以存在惯性系和惯性力疑难，根本原因是忽略了参考系动力学的因果对应。参考系的动力学性质应该归结到参考质点上，而人为划分的参考质点和被考察质点在动力学中应该处于完全平等的地位，由此构建出一个不依赖惯性系，且在所有平动参考系保持形式不变的质点动力学方程。至于转动参考系，一方面，惯性力的本质经新形式的质点动力学方程揭示为参考质点的经过质量平权以后的真实受力，已经可以明确和引力在物理上不等效。另一方面，根据因果对应的基本法则,融入转动参考系的物理则必须包含四个不共面参考质点的动力学性质，因此无法和平动参考系中的新形式质点动力学方程统一成一个简洁的方程形式。最后本文提议所有声称已推广到转动参考系的相对性原理值得重新审视，小心求证。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：质点动力学，相对性原理，平动参考系，转动参考系PACS: 45.20.Dd，45.50.Pk，04.20.Aq，04.20.Cv",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金：浙江省自然科学基金（批准号：Y6110778）、国家自然科学基金(批准号：11105036)  \n和中科院知识创新工程（批准号：（KJCX2-YW-W10）资助的课题，  \n†通讯作者.E-mail: chenchiyi@hznu.edu.cn第一作者.E-mail:chenchiyi@hznu.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "动力学的相对性原理是动力学的基本性质，代表着动力学方程的适用范围，在这个适用范围内，动力学方程在其数学形式和物理定义保持不变的前提下仍然成立。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在牛顿力学中，质点动力学的相对性原理是伽利略力学相对性原理[1,2]。原理表述为经典力学定律在任何惯性参考系（惯性系）中数学形式不变，换言之，所",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "有惯性系都是等价（平权）的。换句话说，牛顿第二定律只适用于惯性系（这里假定惯性系为 $\\Sigma$ ，所考察的运动物体或质点为 $p$ ）：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，令人疑惑的是，惯性系的定义，是根据牛顿第一定律成立的条件定义的。即在某参考系中，若一个物体不受相互作用而能一直保持相对静止或匀速直线运动，则此参考系为惯性系。显然，惯性系的定义条件又被实质性地包含进了牛顿第二定律。所以，在如果不能先验地找到惯性系的前提下，仅仅根据上述的定义，在逻辑上是存在循环嵌套的疑问的[2,3]。事实也证明，正如文中第二节所展示的，这种先天不足的逻辑的循环嵌套定义是完全可以避免的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于实际的参考系，事实上都是非惯性系（假定为 $o$ )，所以没有动力学公式可以直接适用。即便通过对牛顿第二定律的数学变形[2]来接近（对参考系的运动学部分作变换",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\left. F \\right| _ { p } = m _ { p } \\frac { d ^ { 2 } r \\Big | _ { p - \\Sigma } } { d t ^ { 2 } } \\stackrel { \\Sigma \\ R \\ R \\ e * \\ s \\# } { = } m _ { p } \\frac { d ^ { 2 } \\Big ( r \\Big | _ { p - \\Sigma } \\cdot e _ { i } \\Big | _ { \\Sigma } \\Big ) e _ { i } \\Big | _ { \\Sigma } } { d t ^ { 2 } } \\underset { \\underset { \\mathrm { \\normalfontfamily { . } \\ c q u i n g \\ : \\# \\Sigma \\times \\Sigma \\times \\Sigma \\times \\Sigma \\times \\Sigma } } { = } m _ { p } } { = } \\left( \\frac { d ^ { 2 } r \\Big | _ { p - \\Sigma } } { d t ^ { 2 } } \\cdot e _ { i } \\Big | _ { \\Sigma } \\right) _ { i } \\underset { \\mathrm { \\normalfont \\ w i d d \\ : } } { = } \\frac { 4 \\times \\varepsilon \\mathbb { d } \\cdot \\mathbb { d } \\cdot { d } \\cdot \\mathbb { d } \\cdot { d } \\cdot \\varepsilon } { = } m _ { p } a \\Big | _ { p - \\Sigma }$   \n伽 $\\stackrel { \\# \\# : \\# : \\# } { \\to } F _ { \\Big | _ { p } } \\stackrel { \\# \\# : \\partial \\# , \\tilde { \\pi } } { = } m _ { p } \\frac { d ^ { 2 } \\Big ( r \\big | _ { p - 0 } + r \\big | _ { o - \\tilde { \\pi } } \\Big ) } { d t ^ { 2 } } = m _ { p } \\left[ \\frac { d ^ { 2 } \\Big ( r \\big | _ { p - o } \\Big ) } { d t ^ { 2 } } + \\frac { d ^ { 2 } \\Big ( r \\big | _ { o - \\tilde { \\pi } } \\Big ) } { d t ^ { 2 } } \\right] \\stackrel { \\# | \\lambda \\# \\# \\tilde { \\pi } \\tilde { \\pi } \\tilde { \\pi } \\tilde { \\pi } | } { \\underset { \\neq \\neq \\infty } { = } } \\left[ \\frac { d ^ { 2 } \\Big ( r \\big | _ { p - o } \\cdot e _ { i } \\big | _ { o } \\Big ) e _ { i } \\big | _ { o } } { d t ^ { 2 } } + a \\big | _ { o - \\tilde { \\pi } } \\right]$ 参考系的转动只有在q 求空间矢量微分时才体现影响 dt²  \n$\\frac { d ^ { 2 } \\tau \\vert _ { p - 0 } } { d t } e _ { i \\vert _ { \\rho } } + r \\vert _ { p - 0 }  & { \\displaystyle - \\frac { d ^ { 2 } e _ { i \\vert _ { \\sigma } } } { d t ^ { 2 } } e _ { i \\vert _ { \\rho } } + r \\vert _ { p - 0 } \\cdot e _ { i \\vert _ { \\sigma } } + q \\vert _ { p - 0 } \\frac { d ^ { 2 } e _ { i \\vert _ { \\sigma } } } { d t ^ { 2 } } + 2 \\frac { d \\tau \\vert _ { p - 0 } } { d t } \\cdot \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } e _ { i \\vert _ { \\sigma } } + 2 \\frac { d \\tau \\vert _ { p - 0 } } { d t } \\cdot e _ { i \\vert _ { \\sigma } } ( \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } + 2 r \\vert _ { p - 0 } \\cdot \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t }  \\frac { d e _ { i \\vert _ { \\sigma } } } { d t }  \\\\ { \\Leftrightarrow \\frac { \\sqrt { \\frac { \\sigma } { \\sigma } { \\sigma } } } { \\sigma } \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\frac { d } { d t } _ { \\sigma } + \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\sigma \\frac { d } { d t } _ { \\sigma } + 2 \\frac { d \\sigma \\vert _ { p - 0 } } { d t } \\cdot \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } e _ { i \\vert _ { \\sigma } } + 2 \\frac { d \\tau \\vert _ { p - 0 } } { d t } \\sigma \\epsilon _ { i \\vert _ { \\sigma } } + 2 \\frac { d \\tau \\vert _ { p - 0 } } { d t } \\sigma \\varepsilon \\vert _ { \\sigma } } &  \\displaystyle \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } + 2 r \\vert _ { p - 0 } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t } \\frac { d e _ { i \\vert _ { \\sigma } } } { d t }$ （2←  \n基  \n自d  \n：dt",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上式在运动学部分强行凑出一个相对于非惯性系 $O$ 的表达式。但是这样一个表达式不是真正意义上的动力学规律，因为左边第二项不是真正的受力，既不能像其他常见力那样通过理论公式计算，也不能实际测量（因为仍然需要以惯性系为前提)。作为一个虚拟力，惯性力的定义由此引入[2]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\left. F \\right| } _ { p } + \\mathbf { \\left. f \\right| } _ { \\left| \\sharp \\right| \\left| \\sharp \\right| \\left| \\sharp \\right| } = m _ { _ p } \\left. a \\right| _ { p - O }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从而，形式上模拟到牛顿第二定律，对任意运动（包括转动）的非惯性系 $o$ ，惯性力的实际计算公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { r } \\Big \\lvert _ { \\mathfrak { g } \\backslash \\pm , \\eta } = - m _ { p } [ a \\Big \\rvert _ { \\sigma = \\pm } + r \\Big \\lvert _ { p - \\sigma } \\cdot \\frac { d ^ { 2 } e _ { i } \\Big \\rvert _ { \\sigma } } { d t ^ { 2 } } e _ { i } \\Big \\rvert _ { \\sigma } + r \\Big \\lvert _ { p - \\sigma } \\cdot e _ { i } \\Big \\rvert _ { \\sigma } \\frac { d ^ { 2 } e _ { i } \\Big \\rvert _ { \\sigma } } { d t ^ { 2 } } + 2 \\frac { d r \\Big \\lvert _ { p - \\sigma } } { d t } \\cdot \\frac { d e _ { i } \\Big \\rvert _ { \\sigma } } { d t } e _ { i } \\Big \\rvert _ { \\sigma } + 2 \\frac { d r \\Big \\lvert _ { p - \\sigma } } { d t } \\cdot e _ { i } \\Big \\rvert _ { \\sigma } \\frac { d e _ { i } \\Big \\rvert _ { \\sigma } } { d t } + 2 r \\Big \\lvert _ { p - \\sigma } \\cdot \\sin _ { \\sigma } \\cdot d e _ { i } \\Big \\rvert _ { \\sigma } \\frac { d e _ { i } \\Big \\rvert _ { \\sigma } } { d t } + 2 r \\Big \\lvert _ { p - \\sigma } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "值得特别注意的是，惯性力的计算公式还是要求先找到一个惯性系，因此，上式实际上并没有突破牛顿体系动力学方程受限于惯性系的困境[3]。而在实际应用中，更是由于无法参照绝对的空间来度量运动学量4，所以作力学分析时，必须直接选用近似惯性系，若近似不足，甚至还要考虑惯性力的大小和方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在狭义相对论中，力学相对性原理被推广到了狭义相对性原理。即要求一切物理定律（力学定律、电磁学定律以及其他相互作用的动力学定律）在所有惯性参考系中保持数学形式不变。换言之，参考系等价（平权）的范围还是限定在惯性系，相比牛顿力学，没有明显拓宽参考系的适用范围[3]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "到广义相对论，广义相对性原理则被作为一条先验的公理引入。广义相对性原理简述为：一切参考系（包括平动和转动非惯性系等所有物理参考系）都是平权的，即客观的真实的物理规律，应该在所有物理参考系中均保持数学形式不变而成立。相比原先无法逃脱的惯性系怪圈，动力学的相对性原理在广义相对论中作为不证自明的公理而得到了最大程度的拓宽[3.5]。对于广义相对论来说，广义协变性是非常重要的理论性质。而广义相对性原理是广义协变性的物理基础，因而是爱因斯坦的广义相对论的理论基石之一。在爱因斯坦提出广义相对性原理的过程中，是“自由下落电梯”的思想实验给爱因斯坦提供了灵感和思路，从而提出了惯性力和引力在物理上等效的爱因斯坦（非弱）等效原理。正是借助爱因斯坦（非弱)等效原理，广义相对论才获得上承广义相对性原理的“概念之梯”[3,5]。尽管如此，相比伽利略相对性原理和狭义相对性原理，广义相对性原理仍然缺乏关键的实质可信的理论证明。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文致力于探索质点动力学的相对性原理构建的物理和逻辑，从因果对应的角度，分析讨论平动参考系和转动参考系纳入相对性原理的可能性。全文组织如下，第一部分，作为引言阐述相对性原理的发展背景。第二部分，检查牛顿第二定律的形式逻辑，根据因果对应的法则，以明确的显式构建适用于一般平动参考系的质点动力学方程。第三部分，反思牛顿第二定律的形式改造，论证参考系和参考物在质点动力学物理中的重要性以及不可或缺的地位。第四部分，贯彻因果对应的法则，结合参考系的物理，分析转动参考系在相对性原理中推广的技术性要求。指出质点动力学的相对性原理向转动参考系推广时存在的原则性困难。最后，本文简要说明，一个适度的相对性原理实质上是可以符合物理学的基本要求的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2因果对应的形式逻辑和牛顿第二定律的形式改进",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "物理规律的生命力在于其可预言性，根据可预言性一般可以划分因和果。所以因果对应可以视作为物理规律的基本法则[]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "质点动力学本质上就是一个关于受力和运动的因果规律，受力应该是因，加速效应是果。人们若想要牛顿第二定律适用到尽可能多的实际参考系（记作 $o$ ），其对应的一般化形式为： $\\left. F _ { \\frac { \\mathrm { s i g } } { \\pm | \\vec { \\kappa } | \\vec { \\times } \\vec { \\times } \\mathcal { A } } } \\right| _ { p } = m _ { p } \\left. a \\right| _ { p \\neq \\sharp \\vec { \\kappa } \\vec { \\times } \\vec { \\jmath } \\vec { \\otimes } \\vec { \\jmath } }$ ap相对于o，方程的左边只和被考察物体$p$ 有关。而方程的右边包含被考察物体 $p$ 相对参考系（大写） $o$ （实际上，相对于对应的参考物，记作（小写） $o$ ）的加速度 $\\pmb { a } \\big | _ { p - O }$ 。因此，实际上 $\\pmb { a } \\big | _ { p - O }$ 既和被考察物体 $p$ 有关，又和参考物 $o$ 有关。由于受力是因，加速效应是果，暂不考虑受力和加速度的具体细节，以任意的运动物体为形式变量，则在形式逻辑上有，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left. \\begin{array} { r l } { \\pmb { F } \\big | _ { p } } & { { } \\Leftrightarrow \\quad \\mathbb { E } \\big | \\big ( p \\big ) } \\\\ { \\pmb { a } \\big | _ { p - O } } & { { } \\Leftrightarrow \\quad \\mp \\big ( p , o \\big ) } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "请注意待考察物体 $p$ 和参考物 $o$ 的选择是完全独立的，因此，牛顿第二定律在等式的两边存在形式逻辑上的因果不对称和不一致。正是这一点导致牛顿第二定律只能理论上在所谓的惯性系成立，而实践中找不到一个严格的惯性系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据因果对应法则，质点动力学方程在等式左边的受力项统计中，也应该考虑参考物的受力。实际上在牛顿力学框架下，存在一个关于参考物和参考系的认识问题，即参考物和参考系究竟是数学的，先天的，还是物理的？按照现代的观点来说，参考系不是纯数学的，更不是先天的，作为一个物理学上有用的参考系，至少其参考原点是必须建立在真实的参考物上[2.3]。正是基于参考系的物理必须依赖于参考物，而参考物必须是真实的这一唯物主义观点，一个新形式的质点动力学方程可以从牛顿第二定律严格推导出来，但是在形式上更加具有一般性[7]。具体推导如下，假设存在一个惯性系Σ，任意的参考物体 $o$ ，再令被考察的物体为 $p$ 。本质上，什么被选为被考察的物体，什么被选为参考物，是我们人类意识做出的人为的自由的选择，在物理的根本法则层面上，被考察物体和参考物完全处于同等的地位。因此，在经典力学的牛顿第二定律法则下，被考察物体和参考物本质上服从同样的规律[4]",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\left. F \\right| _ { p } = m _ { p } \\left. a \\right| _ { p - \\Sigma } } } \\\\ { { \\left. F \\right| _ { o } = m _ { o } \\left. a \\right| _ { o - \\Sigma } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据牛顿动力学， $\\left| F \\right| _ { p }$ 和 $F { \\big \\vert } _ { o }$ 分别表示质点 $p$ 和 $o$ 的全部受力。等式两边均除以质量，两式相减得到[7]",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {  F | _ { p } } { m _ { p } } - \\frac {  F | _ { o } } { m _ { o } } = \\pmb { a } | _ { p - \\Sigma } - \\pmb { a } | _ { o - \\Sigma } = ( \\pmb { a } | _ { p - o } ) _ { \\Sigma } = \\pmb { a } | _ { p - O }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上式最后一步基于参考物 $o$ 是参考系 $o$ 的参考原点的自然定义，同时也暗示了上式中的 $O$ 必须为平动参考系。式（7）适用于任意的参考物 $o$ ，并以参考物 $o$ 为参考原点的不自转的参考系 $O$ （类似于惯性系)。因此，新形式的质点动力学方程在推导过程中已经实质性地展现了一个在任意平动参考系中保持形式不变的相对性原理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "值得指出的是，很多人可能会提出牛顿力学中质点动力学的更好用形式是${ \\cal F } \\big | _ { p } = d ( p \\big | _ { p - O } ) \\big / d t$ ，而不是 $\\left. F \\right| _ { p } = m _ { { } _ { p } } \\mathbf { a } \\big | _ { p - O }$ 。而事实上，前式相比后式只多适用于一个变质量问题。经典低速情形下的变质量问题（比如火箭问题）的实质可以归结为质点系统中质点之间的分离和相对运动，而非单个质点的动力学。因此，在牛顿力学中基本的质点动力学方程仍是 $\\left. F \\right| _ { p } = m _ { { } _ { p } } \\mathbf { a } \\big | _ { p - O }$ ，至于 ${ \\cal F } \\big | _ { p } = d ( p \\big | _ { p - { \\cal O } } ) \\big / { d t }$ 可以看作是前式在推广到质点系时引入的一种有效形式。在狭义相对论中，质点动力学形式更倾向支持 $F \\big | _ { p } = d ( p \\big | _ { p - O } ) \\big / d t$ ，这是由于质点的质量可以发生变化，而其物理本源可以归结到光速不变原理[8]。但实际上即便在相对论力学[8]中，真正基本的出发点仍然是 $F _ { \\mu } = m _ { \\mathrm { 0 } } d ^ { 2 } x _ { \\mu } / d \\tau ^ { 2 }$ ，由此才得到特定参考系下的相对论性动力学 $\\scriptstyle f = d p / d t$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步从可理解性角度分析，传统的牛顿第二定律应该还原为一个从大量的经典力学实验中归纳得到的经验规律[9,10]，即在参考系固定的前提下，描述一个运动物体，相比其前一个力学状态，新施加的受力和由此产生的新的相对加速度之间的差分因果关系。一般地，这个动力学的经验规律可以表示为如下形式，",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta { \\pmb F } = m \\Delta { \\pmb a }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这里的 $\\Delta F$ 表示相比前一个状态的受力增量，而 $\\Delta \\pmb { a }$ 表示由此产生的相比前一个状态的加速度增量。在历史上，这样的一个差分关系（取无穷小增量即得微分形式$d F = m d \\pmb { a }$ ）正是确定常见力的受力公式的基础，包括万有引力，摩擦力和弹性力等等。一旦受力的计算公式在某些特殊具体的情形中被明确下来，则动力学的因果关系可以在其他的一般情形中得到检验。如果把对受力来源的统计和受力的求和也看作“积分”的话，那么上述差分因果关系的“定积分”的一般形式应该是（类比微分方程在定积分过程中等式两边的初末态对应）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {  F | _ { p } } { m _ { p } } - \\frac { F | _ { o } } { m _ { o } } = a \\big | _ { p - \\frac { \\gamma } { 2 } \\sharp \\sharp \\frac { \\psi } { \\hbar } \\frac { \\psi } { \\hbar } } - a \\big | _ { o - \\frac { \\gamma } { 2 } \\sharp \\frac { \\psi + \\frac { \\psi } { \\hbar } } { \\hbar } \\frac { \\psi } { \\hbar } } = ( a \\big | _ { p - o } ) _ { \\frac { \\gamma } { 2 } \\sharp \\frac { \\psi + \\frac { \\psi } { \\hbar } } { \\hbar } \\frac { \\psi } { \\hbar } } = a \\big | _ { p - o }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "而不是牛顿第二定律给出的理论形式： $\\left. F \\right| _ { p } = m _ { { } _ { p } } \\pmb { a } \\big | _ { p - \\Sigma }$ ，其中 $\\mathbf { \\xi } _ { o }$ 表示每一个参考系必须要有的，赖以定义的参考物体。al,-宇宙背景 表示 $p$ 相对宇宙背景的加速度，$\\left( \\pmb { a } | _ { p - o } \\right) _ { : }$ 表示两个质点以无转动的宇宙背景为参考的相对加速度。因此，严格宇宙背景  \n地讲，新形式的质点动力学方程和传统上作为理论形式的牛顿第二定律不是简单的等价关系，而是补正了作为因果积分的原牛顿第二定律在“定积分”过程中遗漏的一个独立项[7]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3质点动力学中参考物的不可或缺地位",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "牛顿第二定律实际上只考虑了参考物的运动状态，而忽略了参考物本身的受力[11,12,13]。正是这一点导致牛顿第二定律理论上只能在惯性系成立，而实践中找不到一个严格的惯性系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "或许有人回顾之前传统的牛顿第二定律的应用，参考系本身好像不一定需要参考物？其实仔细去深究的话，不是那么回事。只要是真实的物理的应用，必须要用参考物，否则无法定义参考系的原点，这点在选取非惯性系时特别明显，必须选定参考物是什么，才清楚非惯性系是什么。但是，在选取地面，或者实验室参考系时，这一点是非常隐蔽的，好像从来没有和具体参考物有关。根本原因正是这里的地面或实验室参考系被近似成为了惯性系，因此新形式的质点动力学方程中对应惯性力的那个参考物的受力项被忽略了，所以，感觉参考物可有可无。但实际上，即使在受力项部分把参考物给忽略了，但是加速度仍然必须是被考察物体相对实际的参考物来度量的。否则，就不存在找惯性系的问题。因为一个物理的参考系才需要在真实世界中来寻找，存在是否可以找到的问题[2]。而一个数学的参考系，是定义范畴，不存在找不到的情形。在用地面(或实验室)参考系时，实际上是任意选取了地面(或实验室)中任意静止的物体作为了参考物。对加速度的度量是相对地面(或实验室)静止的任何一点进行的，实际上就是相对该点上静止的任意物体进行的，这时候的参考物，就是该点上静止的物体，原则上范围大小可以人为任意确定，只要能看作质点即可，因为当人们把地面(或实验室)参考系近似为惯性系以后参考物的质量等性质就对计算无关紧要。但是该点上必须有真实物体存在，否则无法真正落实物理度量（比如加速度)的有效性和可操作性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "总而言之，不管质点动力学的具体形式是什么，不管相对论性还是非相对论性，只要参考物的受力没有出现在动力学方程形式中，动力学方程就不可能推广到实际的参考系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4转动参考系纳入相对性原理的技术性要求",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，从物理角度考察广义相对性原理的基础。相比于牛顿第二定律（1）式，（7）式的第二项是明显多出的，正好解释了牛顿第二定律的参考系变换时多出的一项---惯性力。比较（2）式的最后一行和（7）式，由此，起源于牛顿第二定律形式体系的惯性力，其在平动参考系变换下的物理本质表述为[7]",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. f \\right| _ { \\not | _ { \\not | _ { \\not | _ { \\not | } ^ { | _ { \\not | _ { \\infty } } } } } } = - \\frac { m _ { _ { p } } } { m _ { o } } F \\big | _ { o }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "可见，惯性力的本质是参考物体 $o$ 的经过质量平权以后的真实受力，可以是引力，也可以是非引力相互作用的其他常见力，更重要的是，这个力不是施加在被考察物体上，而是施加在参考物体上。因为惯性力的概念和疑难[3,14]根源于牛顿第二定律的形式体系，所以，要从根本上解决惯性力的问题，最好最彻底的做法，就是在原来的框架下彻底消除惯性力问题，上面的逻辑推演实现了这个目标，而且事先没有任何额外假定，没有任何拖泥带水，模棱两可的情况出现。鉴于上述明确的解释，惯性力本质和引力在物理上并不等效，因此爱因斯坦赖以构建广义相对性原理的基础[5,14,15]---等效原理出现了反面证据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其次，从数学角度分析质点动力学在参考系转动变换下的不变性问题，只要坚持贯彻因果对应的根本法则，原则上可以从物理逻辑的角度给出定性的分析。众所周知，对于转动的物理刚体参考系，确定刚性转动参考系的全部运动学性质，至少需要不同面的四个质点的物理信息。因此，构建动力学方程时，如果选取的是物理的转动参考系，动力学方程理论上必须同时纳入至少4个参考质点的动力学因果对应而仍保持简洁的形式。这一点显然从未考虑过，也还没有做到过，至少在目前的数学语言框架下无法自然地做到。而且，为了在转动参考系中考察一个运动质点，动力学方程必须因此同时引入4个不共面参考质点，这在形式学上也是极为不经济的。所以，在当前方案下的爱因斯坦广义相对性原理是不可靠的。本文最后建议质点动力学方程的物理相对性概念拓展到所有的平动参考系为止，对于转动部分，转动参考系原则上当然可以使用，但需要理解为可以通过数学的坐标系变换先变换到平动参考系，然后再应用新形式的质点动力学方程。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总而言之，质点动力学的相对性原理推广的唯一正确思路为，",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "惯性系： 理想情形，0个参考质点 $\\left. F \\right| _ { p } = m _ { p } \\left. a \\right| _ { p - \\Sigma }$   \n力学经验规律因果对称 ${ \\frac {  F | _ { p } } { m _ { p } } } - { \\frac {  F | _ { o } } { m _ { o } } } = { \\pmb a } | _ { p - O }$   \n△F=mAa 致原理 任意平动参考系： 物理上直接取决于1个参考质点任意平动+转动参考系：物理上直接取决于4个不共面质点?(目前数学无法实现",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "因此，基于上述分别从物理和数学两个方面的分析，本文提议所有声称已推广到转动参考系的相对性原理值得重新审视，小心求证。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文致力于讨论的是动力学的实际适用性问题，因此以某个实际参考系为基础，通过确定的数学关系来定义相对运动，并由此得到的假想参考系不在讨论之列。因为这一类假想参考系的动力学，原则上可以在实际参考系成立的动力学基础上，通过数学变换得到。因此，物理规律最迫切需要解决也必须解决的是物理参考系中的不变性，而不是数学参考系中的形式不变性。至于参考物和参考系之间的关系，在具体问题中如果先指定参考物，则可以自然地以参考物为参考原点建立参考系；如果先指定参考系，则原则上任何固定在参考系中的实际物体都可以视作为参考物。例如，最常用的地面参考系，实际上是选择了固定在地面上的任意某个物体作为参考物。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从实践角度讲，我们所能找到的任何一个实际参考系的参考物，都在宇宙中作永不停息的运动，但是我们从来不能确定这个参考物（包括观测者所在的地球）在宇宙中的确切位置，速度，加速度。尽管可以借助非常遥远的星系来确定任何物体相对宇宙的转动，但是在动力学问题上，最理想的解决方案就是，只要参考物选定，人们只要根据受力情况就可以完全确定任何物体相对这个参考物的运动状况，而无需改变动力学规律的数学形式，这就是爱因斯坦关于相对性原理的基本精神[3,14,15]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根据前面的讨论，新形式的质点动力学方程(9)式展示的是在任意平动参考系变换下形式不变的相对性。相比基于惯性系的伽利略力学相对性原理和基于任意参考系的广义相对性原理[3,14,15]，任意平动参考系不变的相对性介于两者之间，并且可以从新形式方程的逻辑推导过程中得到佐证[7]。因此，可以把新形式的质点动力学方程(9)式展示的基于平动参考系变换的形式不变性称为适度相对性原理。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "作为新形式的质点动力学方程对惯性力本质的首次揭示，（10）式在物理上已明确不支持爱因斯坦的广义相对论中作为公理之一的广义相对性原理。而根据质点动力学的因果对应原则的基本精神，不管质点动力学的具体形式是什么，不管相对论性还是非相对论性，只要参考物的受力没有出现在动力学方程形式中，动力学方程就不可能推广到实际的参考系。而若要把动力学相对性原理进一步推广到转动参考系，则势必要求同时纳入至少4个参考质点的运动学和受力而仍保持简洁的形式，这是从未实现过的。因此，质点动力学任何推广到转动参考系的相对性原理是需要审慎对待，小心求证的。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "而实际上，适度相对性原理已经可以满足观测和应用实践的基本需要。一方面，我们从来不能确定观测者所在的地球在宇宙空间背景中的确切位置，速度，加速度，换而言之，对参考系的平动是无法绝对划分的。另一方面，由于宇宙空间背景的恒定不变，我们通过足够遥远的星系，总是能够确定任何参考系相对宇宙空间背景的转动。在实践中，由于宇宙空间背景是客观的和恒定不变的，所以背景中的方向也是客观的，我们可以借助足够远的星系来定义背景中的方向。从而对于任意的参考物，我们可以根据绝对宇宙空间背景的方向来定义坐标轴的指向，在此基础上建立一个无自转的参考系。换而言之，对于参考系的转动原则上是可以划分的。因此观测者真正必需的动力学规律是满足在任何无自转参考系下保持形式不变。再有，对于质点动力学，任何的平动现象总可以被归到质点之间的相对运动，而单个质点没有自转的概念。换句话说，任何参考物在把其看成质点之后，就不存在自转问题。所以，参考系的转动问题实质上可以归于数学问题，原则上可以从动力学的相对性物理中分离出来。因此，最精简又够用的相对性原理应该是物理学规律相对任何平动参考物（即任何无自转参考系）的不变性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "感谢北京师范大学物理系赵峥教授，梁灿彬教授在当年授课时对本问题背景的讲解和强调，感谢济南大学张宏升教授持之以恒的长期讨论。感谢张新民研究员在我高能所一年多学习期间给予的指导和资助，张老师是我在宇宙学领域的领路人，没有对宇宙学度规的思考也就不会追溯到本工作的形成。感谢陈大明研究员，曹周键研究员，李明哲师兄和高长军师兄反复深入的讨论。最后感谢我的指导老师沈有根研究员，李康教授和朱传界教授十多年来对我一贯的支持.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] Cheng C Z, Jiang Z Y 2006 General Physics (Beijing: Higher Education Press) 6thEdition pl-p90(inChinese）程守洙，江之永 2006 普通物理学（北京：高等教育出版社）第六版 第1-90页.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[2] Zhou YB 2009 A course in theoretical mechanics (Beijing: Higher Education Press) 3rd Edition p8-p20；p31-p33(in Chinese）周衍柏，2009 理论力学教程（北京： 高等教育出版社）第三版 第8-20页；第31-33页   \n[3] Liu L, Zhao Z 2004 General relativity (Beijing: Higher Education Press) 2nd Edition p9-12;p26-p30;p188-p190 (in chinese）刘辽，赵峥 2004 广义相对论 （北京：高等教育出版社）第二版 第9-12页，第26-30页，第188-190页   \n[4] DOUGLAS M J 1998 Leibniz on the Foundations of the Calculus: The Question of the Reality of Infinitesimal Magnitudes Perspectives on Science Vol. 6 p6-p40   \n[5] Hanoch G, Jirgen R 2017 The Road to Relativity: The History and Meaning of Einstein's \"The Foundation of General Relativity\"Princeton University Press, Annotated, p51   \n[6] Kinsler, Paul 2011 How to be causal: time, spacetime and spectra European Journal of PhysicsVol. 32 Issue 6 p1687-p1700   \n[7] Chen C Y 2014 Investigation of the Formalism of Particle Dynamics under the Framework of Classical Mechanics Journal of Zhejiang University (Science Edition) Vol.41 Issue 5 p531-p541(in Chinese）陈驰一 2014 经典质点动力学 方程的形式探讨 浙江大学学报(理学版)，41(5）第531-541页   \n[8] Li K, Yang J S 2011 Introduction to Modern Physics(Beijing: Tsinghua University Press)p8(in Chinese）李康，杨建宋 2011 近代物理概论（北京： 清华大学出版社）第8页   \n[9] Isaac Newton 1729 Mathematical Principles of Natural Philosophy and His System of the World, translated into English by Andrew Motte in 1729. The translations revised, and supplied with a historical and explanatory appendix, by Florian Cajori 1934 Cambridge: At the University Press p1-p50   \n[10] ESSEN H2013 Mechanics, cosmology and Mach's principle Eur. J. Phys. 34 p139-p145   \n[11] Gao B K, Xie T Z 1991 An easily overlooked inertial force acting on the Earth College Physics Vol 10 Issue 11 p46-47(in Chinese）高炳坤，谢铁曾 1991 地 球所受的一种易被忽视的惯性力 大学物理期刊 10(11）第46-47页   \n[12] Gao B K 1995 A puzzling problem in Mechanics College Physics Vol.14 Issue 5 p20-24(in Chinese）高炳坤 1995 力学中一个令人费解的问题 大学物理情 况14(5）第20-24页   \n[13] Li F, Gao B K 2005 No circular argument in the law of inertia College Physics Vol.24Issue 4 p14-17(in Chinese）李复，高炳坤 2005 惯性定律不存在循环 论证问题 大学物理 24(4)第14-17页   \n[14]BERNARD F S 1985 The first course in general relativity Cambridge Universe press p30-p50   \n[15]WEINBERG S. 1972 Gravitational and Cosmology: Principles and Applications ofthe General Theory of Relativity Part 3 (New York: John Wiley & Sons， Inc) p19 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "New Clue to the Principle of Relativity for Particle Dynamics ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ChiYi chen1) † ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1) (Department of Physics,Hangzhou Normal University, Beijing 10o871, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This article investigates the physical logic of the principle of relativity for particle dynamics. Through the analysis of causal corresponding in dynamics, the reason why the puzzle of inertial force and inertial frame of reference exists in Newtonian Mechanics is uncovered to be that the causal corresponding of the frame of reference is neglected in the establishment of particle dynamics. The dynamical property of the frame of reference should be attributed to the particle of reference.At the same time, the particle of reference and the particle under study should be put on an entirely equal status. Therefore, a new particle dynamics equation, which does not depend on the inertial frame of reference and keeps invariant in all translational frames of reference, is achieved. As for the rotational frame of reference, on the one hand, the nature of inertial forces has been revealed as the real force acting on the particle of reference with a mass-based weighting factor. The physics effect of the gravitational force is not equal to that of the inertial force. On the other hand,according to the fundamental rule of causal corresponding, the physics of rotational frames of reference must contain the dynamical properties of four non-coplanar particles of reference, hence it is difficult to be formalized into a concise equation. Finally, this article proposes that any kind of principle of relativity, as long as they declare to be generalized into the rotational frames of reference,should be re-examined. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Keywords:particle dynamics,the principle of relativity, translational frame of reference, rotational frame of reference ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\\* Project supported by the Natural Science Foundation of Zhejiang Province (Grant Nos.Y6110778), the National Natural Science Foundation of China (Grant Nos.111O5O36),and in part by the Project of Knowledge Inovation Program (PKIP) of the Chinese Academy of Sciences (Grant No. KJCX2. YW. W10 ). ",
+        "page_idx": 13
+    }
+]

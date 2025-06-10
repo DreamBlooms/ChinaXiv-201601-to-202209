@@ -1,0 +1,500 @@
+[
+    {
+        "type": "text",
+        "text": "Flood and drought tolerance in rice: opposite but may coexist ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A.N.M. Rubaiyath Bin Rahman & Jianhua Zhang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ";choolofLifeSciencesandStateKeyLaboratoryofAgrobiotechnology,TheChineseUniversityofHongKong,HongKongChina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aus,drought,ethylene signaling, flood,rice,stress tolerance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jianhua Zhang, School of Life Sciences and State Key Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Hong Kong, China. Tel: (852)39436288;Fax:(852) 26036382; E-mail: jhzhang@cuhk.edu.hk ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Funding Information ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We thank the National Basic Research Program of China (2012CB114300), Shenzhen Overseas Talents Innovation and Entrepreneurship Funding Scheme (The Peacock Scheme) and Hong Kong Research Grant Council (AoE/M-05/12,CUHK473512, 474313,and 14122415) for their grant support. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:27November2015;Revised:20   \nJanuary 2016; Accepted:31 January 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Flood and drought are the two most prevalent abiotic stresses causing major yield reduction globally.In the last decade,molecular mechanisms of flood tolerance in rice have been revealed with successful release of flash flood-tolerant varieties to farmers.However,despite extensive research,the breakthrough of drought tolerance is still to come.In this review,we have examined the distribution and population types of drought- and flood-tolerant rice accessions, synthesized recent progresses of flood and drought tolerance research,and proposed a hypothesis that the molecular mechanisms of both drought and flood tolerance may be regulated by cross-talked pathways and coexist in aus subpopulation. We conclude that it is the time to mine the key regulator(s)of drought tolerance through de novo assembly of drought-tolerant aus landrace(s) with other molecular approaches and develop drought-tolerant rice using genome manipulation weaponry. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "droughts and floods may occur in California near future (Yoon et al. 2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Flood and drought are the two most prevalent climate disasters that hamper growth and development of all crop plants,causing major yield reduction globally. These two abiotic stresses can completely destroy crop production in extreme conditions,and consequently both of stresses are considered as key determinants of global food security. Moreover,climate change is also projected to undermine global food security(IPCC,2014） as climate change will exaggerate drought and flood occurrence and severity globally. For an instance,just 2 years ago California experienced most severe drought in record history where a recent report predicts more severe and more frequent ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Another growing global concern is fresh water limitation for agriculture.Agriculture accounts most share of freshwater withdrawals.In some dry areas it is even more than $9 0 \\%$ where globally $7 0 \\%$ (WWDR,2014).Increasing demand of food for a still growing population may lead to severity of freshwater scarcity for agriculture.Rice is usually grown in areas with hot and wet climate.However, it is also projected that 15-20 million hectares of irrigated rice may experience some degree of water scarcity by 2025 (Bouman et al. 2007). Thus,the motto“more crop perdrop”has become a trend of development of watersaving technologies either through agricultural practices or varietal development programs for virtually all the crops(Marris 2008). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Poaceae is the single angiosperm family having the most important sources of food crops like rice,maize,wheat, sorghum,oat,rye,millet,etc.All these crops account for the most calorie consumption of human and raised animals of the entire globe (Paterson et al. 20o5).Among these, half of the world population consumes rice where rice accounts over $7 5 \\%$ calorie demand in some developing countries (Maclean et al.20o2).Moreover,rice is one of the unique crops that has tolerant genotypes of both flash and prolonged floods.In the last decade,molecular mechanisms of flash (Xu et al. 20o6） and prolonged (Hattori et al.2oo9） flood adaptation of rice have been revealed with successful release of flash flood-tolerant varieties to farmers in several countries in Asia (Ismail et al. 2013). Unfortunately,despite extensive efforts of past decades, development and release of drought-tolerant varieties is largely scarce,although large number of genes has been reported to gain drought tolerance in rice (Todaka et al. 2015).Moreover,recent technological advancement, that is,sequencing of thousands of rice accessions,etc.,has generated giga-data (Alexandrov et al. 2Ol4）but breakthrough of drought tolerance research is still to come. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "During the course of adaptation,some ecotype can efficiently sense particular stress and activate downstream adaptive mechanisms,hence becoming tolerant to certain extent,thus known as stress-tolerant genotype/accession. Genetic resources are the raw material of any crop improvement program (McCouch 2013） where success of the improvement program largely depends on the identification of true stress tolerance genotypes (Ismail et al. 2012） and gene mining strategy.So screening of hundreds of thousands genotypes from genebank accessions of rice has been done for differ types of biotic (Jackson l995）and abiotic stresses (Angaji et al.201O;Platten et al.2013; Torres et al. 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Drought and flood are considered as opposite abiotic stresses based on water status,either shortage or excess. So generally drought and flood are studied,analyzed and even reviewed separately.However,we have found that growing evidences may suggest that these two apparent opposite stresses may be regulated by some shared signaling pathways.So in this review,we analyze drought and flood tolerance together in different angles. Since molecular mechanisms of different types of flood tolerances are already known,whereas large-scale field level drought（Torres et al.20l3）and anaerobic germination tolerance （Angaji et al. 2OlO） screening results are available,so we first examine the distribution and population type of drought and flood-tolerant rice accessions.Then we review recent developments of flood and drought tolerance and related players and synthesize a hypothesis that the molecular mechanisms of both drought and flood tolerance may be regulated by cross-talked pathways and coexist in aus subpopulation of rice.Finally，we describe possible ways to mine the key regulator(s） of drought tolerance and development of drought-tolerant rice. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Distribution of Flood- and Drought Tolerant Genotypes ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Anaerobic germination tolerance ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Flood may occur at any growth and developmental stages of rice. The destructive effect of flood first appears on seed germination and seedling establishment stage.Except rice,none of the major crops is flood tolerant during seed germination and seedling establishment (Ismail et al. 2012).Rice can efficiently germinate even in anaerobic condition but the tolerance is only limited to coleoptile development.Neither shoot nor root develops in anaerobic condition,and hence completely fail to establish a seedling (Ismail et al. 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hundreds of germplasms have been screened earlier for AG (anaerobic germination） tolerance in different studies (Yamauchi et al. 1993; Ling et al.2004).However, these attempts largely failed mainly due to lack of true stress-tolerant genotypes (Ismail etal.2Ol2).Then scientists at IRRI (International Rice Research Institute） screened over 8ooo genotypes for AG tolerance and identified only a few varieties with over $7 0 \\%$ survival (Angaji et al. 2010). After repeated experiments, numbers of tolerant genotypes were limited to only 6.It includes Khaiyan and Kalonchi (Bangladesh),Nanhi (India),Khao Hlan On (Myanmar), Ma-Zhan Red(China)，and Cody (USA） (Angaji et al. 2010).Cody was an improved variety developed in Missouri in l944 from cross between Lady Wright and Colusa. Colusa was released in Louisiana in l9l7 by selection from Chinese variety introduced from Italy in 1909 (Johnston 1958). Colusa was temperate japonica type as reveled in SNPs and population structure analysis (Kim and Tai 2013).Parentage of Lady Wright was unknown but may have similarity with temperate japonica as showing similarity with Smooth No.3,a glabrous accession of also unknown origin (Kim and Tai 2013). Since Cody, an improved variety developed through breeding process where source of AG tolerance is obscure,so we focus on distribution of the rest 5 genotypes.Interestingly,out of these five,four of the tolerant genotypes are from three adjacent countries(India,Bangladesh,and Myanmar) where Bangladesh only shares borders with both India and Myanmar.Moreover，these countries also share culture and thousand years of rice cultivation history together. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Flash flood tolerance ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "During seedling stage,sudden heavy rainfall can lead to flash flood in rainfed lowland rice ecosystem.Around 20 million hectares of rice growing area,mostly in Bangladesh and India is at risk of being submerged (Ismail et al. 2012).Most of the rice varieties are highly sensitive to submergence and so they die within a week of complete submergence.FRl3A,an aus variety was developed from pure-line selection of the flash flood-tolerant landrace, Dhalputtia(HilleRisLambers and Vergaral982),can survive more than 2 weeks of complete submergence (Xu et al. 2006).QTL studies identified that the submergence tolerance trait is located on chromosome 9 where single QTL explainsnearly $7 0 \\%$ of the phenotypic variation.Further fine mapping and subsequent positional cloning identified SUB1 locus having three ethylene response-like transcrip tion factors.Complementation of SUBlA in intolerant japonica rice confirmed the involvement of SUB1A in submergence tolerance (Xu et al. 2006). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The presence of SUBlA allele both in landraces/traditional varieties and in wild rice (both in Oryza nivara and O.rufipogon）was examined in different studies (Fukao et al.2009;Li etal.2011; Niroula etal.2012; Iftekharuddaula et al.2ol5).Interestingly, the presence of both wild and SUBlA rice together is limited to Bangladesh,India,and Nepal (Pucciariello and Perata 2Ol3).Recently a study using 3oo germplasm accessions of Bangladesh has identified eight accessions with survival ranging from $7 1 . 2 \\%$ to $9 5 . 4 \\%$ afterl6 days complete submergence (Iftekharuddaula et al.2Ol5).Interestingly, five accessions of Bangladesh (DG1-349,Kalojoma，DSL-78-8,Damsi and Putidepa) showed higher submergence tolerance （ $8 3 - 9 5 \\%$ survival) even better than FRl3A although they do not possess same resistance allele as FRl3A (Iftekharuddaula et al.2015). Aside from these areas,landraces having SUBlA allele were also reported in Sri Lanka,Thailand,and Vietnam.So Pucciariello and Perata（20l3）hypothesized that SUB1A-1 might have been introgressed into domesticated rice from wild rice where introgression probably occurred in the Ganges Basin,and subsequent spread of the SUBlA-1 to other parts of South Asia due to human migration. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Prolonged flood tolerance ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rice is an unique crop that has ecotypes that are welladaptedinprolonged（1-5months） deepwater (1-5 meters） flood; hence they are called deepwater rice (Cattling l992). Deepwater rice adapts with flood using a completely opposite strategy from SUBlA rice.After rising flood water,deepwater rice continuously elongates internode and leaf sheath as its top leaves always keep above the water (Cattling l992).Molecular mechanisms ofprolongedfloodtolerancewasidentifiedfrom Bangladeshi deepwater rice,Gowai 38-9 (Hattori et al. 2009).QTL studies and subsequent fine mapping and complementation in intolerant genotypes identified involvement SNORKEL genes in deepwater adaptation. SNORKEL (SKl and SK2）allows rice to adapt in deepwater condition by enhancing GA responsiveness (Hattori et al. 2009). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three wild rice species were examined for the presence of SNORKEL. Both O. rufipogon and O. nivara possess SK1 and SK2.However,SK2 of O.nivara is truncated. Amazonian wild rice,O. glumaepatula also possesses SK2 and an SK2-like gene,but lack of SK1 (Hattori et al. 2009).Several deepwater rice were examined for the presence of SNORKEL genes and interestingly,all of them possess both SKland SK2 (Hattori et al. 2009).However, other than deepwater rice,there is no report of presence of SNORKEL genes in other ecotypes or subspecies.So the rice reference genome,Nipponbare completely lacks such gene or allele. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Distribution of deepwater rice cultivation is mainly confined to the depression or river basin of the GangesBrahmaputra of Bangladesh $( 1 1 . 4 2 \\% )$ ,India $( 3 . 2 \\% )$ and Nepal $( 7 . 9 \\% )$ ,Irrawady of Myanmar (5.75),the Mekong of Vietnam $( 2 . 7 7 \\% )$ ,Cambodia $\\left( 8 . 0 \\% \\right)$ ,and Chao Phraya of Thailand (3.54) (Cattling 1992;Huke and Huke 1997). Country-wise percentage of deepwater rice cultivation area is shown in parenthesis above.Some deepwater rice is also cultivated in upper and middle basins of the Niger Riverin West Africabut it isonly $5 \\%$ of total deepwater rice cultivated area (Cattling 1992).However，African deepwater rice is not O. sativa,rather another species, O.glaberrima.The majority of deepwater rice cultivation areas in Bangladesh and Indian states are adjacent to Bangladesh （West Bengal，Assam，Bihar，Orissa，Uttar Pradesh).Bangladesh is rich in deepwaterwaterrice diversity. Three major types of deepwater rice are cultivated in Bangladesh,that is,typical deepwater,Bhadoia/Ashina, and Rayada (Bin Rahman and Zhang 2013).Among these, Rayada is the most primitive having year-long life cycle and still shares some features of wild rice (Bin Rahman and Zhang 2013). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Drought tolerance ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Drought is considered as one of the most complex and toughest stresses to overcome (Reyes 20o9)．Around 23 million hectares of rainfed rice growing area are estimated to be drought prone in South and Southeast Asia (Pandey et al.2007）costing $1 7 - 4 0 \\%$ yield reduction in severe drought years.Numerous attempts have been taken to develop drought-tolerant rice,but resulted in poor success.Earlier molecular genetic analyses identified numerous QTL(quantitative trait loci）of secondary traits such as root architecture,leaf water status,panicle water potential, osmotic adjustment and relative water content,etc.,but failed to identify any major genes that regulate these traits; mainly due to low mapping resolution and weak pheno typic effect. However，huge numbers of genes are differentially expressed after drought stress in rice,that is over 50oo genes upregulated and 6ooo downregulated (Maruyama et al. 2014). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The major limitation of drought stress breeding is the lack of suitable screening methods along with its environment specific nature.Earlier studies tried to link secondary traits with drought tolerance.However, the recent and most effective selection strategy, for example,the direct selection for yield under drought and well-watered condition，is increasingly accepted for drought tolerance in rice (Kumar et al.2008;Venuprasad et al.2008; Torres et al.2013). Recently scientists at IRRI screened nearly 1OoO Genebank accessions originated from 47 countries for yield under drought and well-watered conditions during 2oo4-2009. Among the 988 accessions,total 65 accessions (originated from 13 different countries）were considered droughttolerant accessions based on highest grain yield in any crop season (Torres et al. 2Ol3).Interestingly,distributions of these tolerant accessions (country of origin） clearly show that most drought-tolerant accessions (48 accessions,i.e., $7 3 \\%$ of total tolerant accessions) originated from Bangladesh and its adjacent India (particularly east India).The rest 17tolerant accessions were originated from 11 different countries like Sri Lanka (4),Philippines (3),Vietnam (2), Afghanistan(1),China(1),Liberia(1),Malaysia(1),Nepal (1),Pakistan(1),Thailand (1),and USA(1). Interestingly, around $2 0 \\%$ of Bangladeshi accessions are drought tolerant,whereas it is only $12 \\%$ in the case of Indian accessions (Torres et al.20l3).Remarkably,all of the recommended varieties from drought stress breeding,that is,Kataktara Da2,Dular,Shada Shaita,andDA 28(Torres et al.2013), are still being cultivated in Bangladesh in aus growing season in considerable areas (Hossain et al. 2013). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Population Type of Drought- and Flood-Tolerant Accessions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rice is categorized as indica and japonica types/subspecies based on morphological features since long (Kato et al. 1928)，but population studies using molecular markers to recent sequencing and SNP genotyping have confirmed several more categories (Glaszmann 1987;Garris et al. 2005;Huang et al. 201l; Alexandrov et al. 2014; Wang et al.2014). From isozyme to SNP genotyping，aus is always identified as a distinct category. However，few studies (isozyme and SSR genotyping) also identified separate categories for deepwater rice (Ashina and Rayada) (Glaszmann 1987; Wang et al. 2014).Recently over 4000 global rice accessions are sequenced and SNP genotyped (Huang et al. 2012;Alexandrov et al.2014).So we have analyzed population types of both flood and droughttolerant accessions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since AG tolerance accessions are very limited,that is, only 5,hence we extensively examined their population types in previous studies.Among the five AG-tolerant accessions,three of them,Nanhi (Baltazar et al.2014), Khaiyan (Angaji et al. 2O1O） and Kalonchi(Platten et al. 2013）are reported as aus type where Ma-Zhan Red is indica (Septiningsih et al.20l3).Interestingly,Khao Hlan On was reported as aromatic rice of japonica type (Angaji et al.2OlO） grown in the Shan state of Myanmar but morphological features categorized as indica (www.genesysPgr.org)，whereas recent sequencing and SNP analysis showed it is typically aus (Dwiyanti et al. 20l4). So out of five AG-tolerant accessions,four of them are aus and mostly originated trom Bangladesh and adjoining areas. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Among 65 drought-tolerant accessions,most of them are from two subpopulations,either aus(29）or indica (29),with the rest few from others subpopulations or admixture (Torres etal.20l3).Highest number of drought tolerant aus accessions(19) are originated from Bangladesh, followed by India(7),whereas highest number of droughttolerant indica accessions were originated from India (16) followed by Bangladesh (3） and Sri Lanka (3).Among all indica accessions (601),only $4 . 8 \\%$ are drought tolerant，whereas remarkably $4 5 . 3 \\%$ of aus accessions are drought tolerant among all aus accessions.So it clearly represents that drought-tolerant accessions are predominately originated from aus accessions. Similarly,flashtolerant rice accessions (SublA) used in different molecular genotyping studies clearly showed that most of the tolerant accessions are from either aus or indica subpopulations. From the above discussion,it is clear that all water stress,both drought and flood,tolerant accessions are predominately originated from aus type. What about deepwater rice? Several population studies also identified separate categories for deepwater rice (Glaszmann l987;Wang et al. 2014).However，most population studies either exclude special type deepwater rice like Rayada/Ashina or include only a few accessions,hence separate category may not be identified in their studies. Since recently several thousand accessions were sequenced and SNP genotyped (Huang et al.20l2;Alexandrov et al. 20l4)，so we can check population type of deepwater rice from these database.It is noteworthy that aus and indica varieties cannot be differentiated by morphological features.Interestingly,after examining 30oo rice genome SNP databases (Alexandrov et al.20l4),we identified numerous deepwater rice of Bangladesh such as BORA DIGA,HIJOL DIGA,LAKHSMI DIGHA, JHUL DIGA,BAZAIL 975,BAZAIL 980,BHADOIA 303,DHARIAL,etc.as typical aus. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Among different drought adaptive traits,features of root (root angle,length,density,etc.）are largely considered as traits of drought tolerance (Blum 2O11).Recently, Uga et al. (2013) identified DEEPER ROOTING1(DRO1) QTL from breeding populations of IR64 and Kinandang Patong,a deep-rooting landrace from the Philippines. DRO1 significantly increases yield performance under drought conditions due to root angle and longer root system.Among 20 OryzaSNP genotypes，aus accessions showed longest root length density in drought condition (Gowda et al. 20l2).Although literatures identified Kinandang Patong as tropical japonica variety (Uga et al. 2008),we were bit curious.So we checked its subpopulation type in all recent sequencing-based population and genetic studies whether any study used Kinandang Patong. Interestingly,we identified that Huang et al.(2ol2）used Kinandang Patong(GP75）in their studies.Interestingly, sequencing and SNP genotyping data clearly showed Kinandang Patong is also typical aus type.So from the above analyses of distribution and population type of drought- and flood-tolerant rice accessions,it is evident that all water-related stress (either drought or flood) tolerant accessions are predominantly aus type and mostly originated from Bangladesh and neighboring areas. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bangladesh: Highly Flood and Drought Prone & Center of Diversity of aus and Deepwater Rice ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bangladesh is one of the most flood and drought prone countries in the world (Paul 1997,1998）where rice is cultivated throughout the year (Khush 1997).Recurrent occurrence of drought and flood in Bangladesh is common where devastating effect of drought and flood of some particular years (e.g.,1865,1943-44，1974）led to famines in past (Habiba et al.2oll） since rice accounts over $7 5 \\%$ calorie demand in Bangladesh (Maclean et al. 2002).Both flood and rice is indispensable feature of Bangladesh.Almost every year,nearly half of rice cultivating areas are at risk of flood and drought of varied intensities (Dasgupta et al.201l；Habiba et al. 2011). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Aside from flood and drought,Bangladesh has wide variations in land, topography, seasons,rainfall,etc. So genetic diversity of rice particularly drought and flood adaptive genotypes (aus and deepwater rice） are highly enriched (Bin Rahman and Zhang 2013).Nationwide survey identified over 35oO aus (Nasiruddin and Miah 1982）and 3820 deepwater rice(Bashar et al.2004) varieties in Bangladesh.Center of diversity for both aus and deepwater rice is considered for Bangladesh and adjoining Indian states of West Bengal and Assam (Khush et al. 2003).Interesting,a separate domestication event was proposed earlier for aus(Londo et al.2oo6)and a more recent reanalysis of large-scale global sequencing database of rice also supported the independent domestication ofaus besides indica and japonica (Civan et al. 2015). Fortunately,numerous varieties of aus are still being cultivated in considerable areas in Bangladesh (Hossain et al. 2013）although areas of these rice cultivation are continuously decreasing due to adoption of modern rice varieties with improved irrigation and agronomic practices. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Flood and Drought Tolerance Together ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since both drought and flood-tolerant accessions are predominantly originated from aus accessions of Bangladesh and adjacent areas,so it would be interesting to check drought tolerance of these flood-tolerant accessions. Submergence-tolerant aus genotype,FRl3A, from which SublA was identified (Xu et al. 2oo6),was also reported as drought tolerant in seedling stage (Ito et al. 1999). Similarly some other aus accessions having SUBlA was also reported to be drought tolerant.Moreover, recently it was identified that SUBlA enhances drought recovery, whereas its overexpression increased ABA responsiveness (Fukao et al.2O11).Likewise many deepwater rice varieties（SHAIL KOTA,MANIKDIGHA，HABIGONJ AMAN II,GOIROL,etc.）showed pronounced drought tolerance comparing to some well-accepted drought-tolerant upland varieties (Cattling l992).Excellent recovery capacity from drought stress was also reported in some Bangladeshi deepwater rice varieties(SARSARI,BHABANI,HIJALDIGHA, and TILBAZAL (De Datta and O'Toole 1977).Due to yearlong life cycle,Rayada rice generally exposes to cold, drought and flood in its lifecycle.Rayada rice varieties were reported as multiple stresses tolerant,that is,cold, flood,submergence,drought (Bin Rahman and Zhang 2013) even salt (Platten et al.2Ol3).Distribution of Rayada rice was completely confined to certain area in Bangladesh. However,deep exploration ofRayada varieties for stress tolerance gene mining has always been neglected (Bin Rahman and Zhang 2013). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,excellent recovery capacity is one of the common features of both flood and drought-tolerant accessions/genotypes.Recovery capacity of submergence and drought (at vegetative stage） are evaluated on the basis of emergence and growth of new leaves and tillers several daysto weeksafterwithdrawal of respective stresses (Fukao et al. 201l;Singh et al.2014).SUB1A enhances faster recovery manifested by prompt emergence of tillers and new leaves,whereas almost all of the leaves of submergence intolerant lines withered within days after submergence (Xu et al. 2006; Singh et al. 2014).Remaining sugar and starch concentration in stem after submergence is highly correlated with survival percentage. Interestingly, both FRl3A and traditional rice landraces adapted to deepwater and floating rice possess high stem carbohy drates.FRl3A is higher submergence tolerant than SublA lines where FRl3A possess high carbohydrate before submergence than SublA lines (Singh et al.20l4).Several studies also suggest the presence of other QTLs for submergence tolerance.It is more likely that cytokinin may play an important role in the prompt emergence of tillers and new leaves during recovery stage; however，direct evidence requires further experimentation.Three genes of group VII AP2/ERF showed upregulated in SublA introgressed line (but downregulated in submergence-intolerant line),interestingly,the same genes were also upregulated bycytokinins (Jung et al.20lO).Recently,it was shown that downregulation of cytokinin degradation enzyme, cytokinin oxidase 2(OsCKX2） increases tiller number and improves rice yield (Yeh etal.2015).Similarly,expression of isopentenyltransferase (IPT) (enzyme that mediates the rate-limiting step in cytokinin synthesis） driven by the promoter of senescence- and stress-activated receptor kinase (SARK） showed excellent drought tolerance comparing to wild-type plants (Peleg et al. 2011). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hydrosensor: Still Unknown for Both Drought and Flood ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although over five thousand genes were reported as drought-responsive genes (Wang et al. 20l1),master regulator of drought tolerance is still unknown.However, physiological regulation of root growth after soil drying is known since long. Several decades ago it was reported that mild drought stress (soil drying） can stimulate root growth (Sharp and Davies l979).Moreover,it was also shown that root growth is less inhibited (than shoot) after water stress (Sharp et al. 1988).However,several decades have passed but still we do not know the answer of simple and fundamental question: how do plants sense the soil drying and regulate their root growth in response to it? Surely the answer of this question is critically important for our understanding as well as the development of drought-tolerant plants. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sensing water or moisture gradient and differential growth (bending） of root toward increasing moisture is classically defined as hydrotropism.Despite known over centuries,very few studies were done on hydrotropic response due to the complexity of dissecting hydrotropism (Eapen et al.2005;Cassab et al.2013).Moreover,both gravitropismandthigmotropisminteractwith hydrotropism while numerous factors of soil such as soil compactness,aeration,nutrient richness or deficiencies, etc.,can interfere root growth pattern. However,growing evidences suggest that root cap may sense moisture gradient as decaped root unable to respond hydrotropically (Eapen et al.2005;Cassab et al.2013).However,hydro sensing ability of root cap is not an unique feature of root cap since it is also involved in sensing gravity, touch, and light (Cassab et al. 2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Only four mutants (mizl,miz2,ahrl,and nhrl） were characterized for hydrotropic responses in Arabidopsis. However， none ofthem arestrictlyspecificfor hydrotropism.MIZU-KUSSEI 1（MIZ1） encodes protein of domain of unknown function (DUF6l7） mainly expressed in ER membrane（Yamazaki et al.20l2）and root tip and hydathodes (Kobayashi et al.20o7).Recent research on MIZ1 showed it is involved in lateral root development (Moriwaki et al.2011). Similarly miz2 isan ahydrotropic mutant caused by single-base alteration unable to hydrotropic bending (Miyazawa et al.2oo8).It was proposed that MIZl and MIZ1 like genes may regulate root architecture through modulation of auxin and cytokinins content or signaling (Moriwaki et al. 20ll; Cassab et al.20l3).Rest two hydrotropic mutants,altered hydrotropic response 1 (ahrl）and no hydrotropic response 1 (nhrl）(Eapen et al. 2003） mutants were reported having involvement in hydrotropism although specific genes were not identified (Cassab et al. 2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Identification of tissue that first sense water stress is critically important for identification of molecular regulatorof stress tolerance. Despite unknown natureof hydrosensor,increasing evidences suggest the root tip may sense differential hydration.Interestingly,recently identified DRO1 is also preferentially expressed in root tip(Uga et al.2ol3).However,initial perception of flood certainly not in root tip as rice is generally cultivated in flooded conditions (of few centimeters).SUBlA,master regulator of flash flood tolerance,was shown preferentially expressed in node (Singh et al. 2OlO),whereas deepwater adaptation is governed by elongation of internode by SNORKEL genes (Cattling 1992;Hattori et al.2009).So collectively it can be concluded that root tip may initially perceive or sense water shortage (drought） where node or internode may sense flood. Since all cellular or physiological functions are regulated by phytohormones,so it seems necessary to analyze the hormonal changes in these initial perception sites of both drought and flood. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ethylene: Common Player in Both Flood and Drought Tolerance ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hormones play critical role in all growth and developmental regulations as well as stress adaptations.ABA (Abscisic acid） and ethylene are generally considered hormones of drought(Xiong 2oo7） and flooding adaptations (Bailey-Serres et al.20l2),respectively.Patterns of these hormone level changes after flood and drought in initial stress perception sites are interesting.After flooding,ABA level tends to decrease in shoot whereas ethylene increases sharply (25-fold increase within $2 4 \\mathrm { h }$ ）(Hattori et al.2009). Oppositely,after drought ABA level increases in root (Shi et al.2015a),although change of ethylene level in rice root is not clearly evident.Moreover,there are inconsistencies in the literatures of ethylene changes in shoot after water stress (Wilkinson and Davies 2OlO).Earlier studies reported increases of ethylene in both water logging and drought. However,experiments using detached leaves suggest increasing ethylene level after water stress whereas intact plants showed decreased ethylene level (Morgan and Drew 1997).Speed of desiccation (slow or rapid）also showed opposite pattern (Morgan and Drew 1997).However,experiments using split root techniques in tomato after waterdeficit in one half showed increased ethylene synthesis (Sobeih 2004). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soil microorganisms can play important role in ethylene homeostasis (Gamalero and Glick 20l5).However,changes in ethylene in soil after gradual soil drying (since drought occurrence is slow in process in nature) are also not clearly evident.Interestingly，inoculation of ACC deaminaseproducing bacteria,Achromobacter piechaudii ARV8,isolated from the rhizosphere of desert-thorn (Lycium shawii) of Negev desert,showed significant reduction in ethylene level after drought stress (Mayak et al. 2004).Remarkably, ARV8 inoculated tomato and pepper accumulated fourfold more biomass than noninoculated control. Similar experiments using different ACC deaminase-producing bacteria also showed similar pattern of drought tolerance in different plants such as pea,maize,wheat,and mung bean both in laboratory and field experiments (Gamalero and Glick 2015)．After field trials throughout the USA，scientists of DuPont Pioneer recently revealed reduction in ethylene through downregulated ACSs (ACC synthases) leading to higher yielding corn under drought conditions (Habben et al. 20l4).Growing evidences from research on modifying ethylene biosynthesis and signaling suggest critical involvement of ethylene in drought tolerance (Shi et al. 2015b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ethylene Response Factor (ERF): Participation in Drought and Flood Tolerance ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "APETALA2 (AP2)/Ethylene Response Factor (ERF),a large transcription factor superfamily,plays important roles in different biotic and abiotic stress tolerance.It consists of three families:(1）AP2 (two AP2/ERF domain),(2）ERF (one AP2/ERF domain),and(3） RAV (one AP2/ERF and B3 domain).AP2/ERF domain consists of 60-70 amino acids and involves in DNA binding (Nakano et al. 2006). Interestingly,both flash and prolonged flood adaption are regulated by same type ERF (group VII） transcription factor,SUB1A (Xu et al.2006),and SNORKEL (Hattori et al.20o9)，respectively.Recently，group VII ERF transcription factors of Arabidopsis have showed having function in oxygen sensing mechanism (Gibbs et al. 20ll;Licausi et al.2011).However, SUB1A (possibly SNORKEL-explained bellow）seems different than Arabidopsis group VII ERF members (Gibbs et al.201l).Remarkably,rice has three times more VII ERF transcription factors than Arabidopsis (Nakano et al. 2006).Generally, SUB1A restricts GA responsiveness,whereas SNORKEL enhances thus results opposite adaptive phenotypes.Interestingly,both of the genes are completely absent in referencegenome， Nipponbare, although intolerant allele of SUBl is present. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Manipulation of several AP2/ERF transcription factors results in enhanced drought tolerance in rice.For example, knockdown of OsDERF1 increases ethylene production and also confers enhanced drought tolerance at seedling and tillering stages(Wan et al.2011).Likewise,modulation of number of AP2/ERF transcription factors (either native or heterologous systems)，such as DREB1A(Oh et al.2005; Ito et al.2006;Datta et al. 2012),OsDREB1B (Ito et al. 2006)，DREB1C(Ishizaki etal． 2013)，OsDREB2B (Matsukura et al. 2010)，OsDREB2A (Cui et al. 2011), AP37(Oh etal. 2009),OsERF3/OsERF4a (Joo etal.2013), JERF3(Zhang et al. 2010） showed enhanced drought tolerance.Moreover,OsETOL1,ETHYLENEOVERPRODUCER 1-like gene showed differentially drought and submergence tolerance in rice (Du et al. 2014). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SUB1A (and Plausibly SNORKEL): More Than Flood Tolerance ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Recently simultaneously two groups scientists (Gibbs et al. 2011;Licausi et al.201l） showed that group VII ERFs play critical role in oxygen sensing mechanism.More specifically,N-end rule pathway of targeted proteolysis acts as a homeostatic sensor of severe low oxygen levels in Arabidopsis (Gibbs etal.2011).All members of Arabidopsis group VII ERFs were shown as substrate of N-end rule pathwayas showed in vitro heterologous rabbit reticulocyte lysate assay (Gibbs et al. 2011).Despite being group VII member and presence of similar N-terminal motif (MC), SUBlA is not the substrate for the N-end rule pathway. The N-end rule pathway is a proteolytic system where N-terminal residues of proteins determine half-life or stability of protein.Increasing evidences on N-end rule pathway suggest it as a major cellular proteolytic system.It was hypothesized that lack of optimally positioned lysine downstream of the N degron may be the reason why SUB1A escape the N-end rule pathway (Gibbs et al. 2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Apart initial MCC,rest N terminal amino acid sequences of SNORKEL2 are quite different from consensus sequences of group VII ERFs of Arabidopsis (Gibbs et al. 2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Moreover,phenotypic effect of SNORKEL2 is more pronounced than SNORKEL1 where Amazonian wild rice possesses two SNORKEL2 genes (Hattori et al.2009).In addition， SNORKEL2 expression in T65 background showed high internode elongation even in aerobic conditions (nonflooded) (Hattori et al.20o9).Thus,it clearly indicates,plausiblyalike SUBlA,SNORKEL(particularly SNORKEL2） might evade the N-end rule pathway. Enhanced stability of SUBlA may explain superior performance of SUBlA rice to multiple abiotic stresses as SUBlA mediates cross talk with drought tolerance (Fukao et al.2o11） and delayed leaf senescence under prolonged darkness (Fukao et al. 2012).However，alike SUB1A, multiple abiotic stress tolerance capacity of SNORKEL was never been explored. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rationale of Our Hypothesis and Future Perspectives ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Although we aware the complex nature of drought and flood stresses,we also know that the destination is much simple (Blum 2011).Rice type,aus,is evolved and domesticated in the areas where drought and flood are alternatively imposed. Sensing and subsequent regulations of responses to the stresses must be initiated frequently and cross talking in their signaling pathways may exist to avoid confusion and self-inflicted damages.From the above discussions,it is clear that ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）Drought (and flood) tolerance accessions are predominately originated from aus subpopulation where   \n(2）Bangladesh and adjacent areas are considered center of diversity of aus and deepwater rice varieties (Khush et al. 2003).   \n(3）Ethylene may play a central role of activation of adaptive traits both in flood and drought tolerance.   \n(4）Despite opposite phenotypes,flash and prolonged flood tolerance are regulated by similar group VII ERF transcription factors (Xu et al.2006;Hattori et al. 2009) where   \n(5）recent studies have shown that modulation of ethylene synthesis and signaling either through transgenesis or inoculation ACC deaminase containing bacteria (Gamalero and Glick 2015） result in enhanced drought tolerance.   \n(6）In addition，master regulators of flood tolerances, SUB1A(and plausibly SNORKEL2）evade the N-end rule pathway（Gibbs et al.2011）where   \n(7）expression of SUBlA is also highly upregulated after water shortage (Fukao etal.2O11)and delay leaf senescence under prolonged darkness (Fukao et al.2012).   \n(8）Some aus varieties also possess excellent recovery capacity after drought stress. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(9）Finally domestication of aus is also considered as separate event beside indica and japonica(Civan et al. 2015). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After considering these altogether,we propose a hypothesis that both drought and flood tolerance may be regulated by cross-talked pathways and coexist in aus subpopulation wheremaster regulators of flood adaptationshavealready beenidentified (i.e.,SUBlA and SNORKEL）but that of drought tolerance still to be identified,which may be achieved through deep exploration of aus accessions of Bangladesh. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Our counterintuitive hypothesis consists of two parts. Interestingly,first part(both drought and flood tolerance may be regulated by cross-talked pathways）is partially already been established as Fukao et al. (201l） experimentally showed that the master regulator of submergence tolerance,SUBlA mediates cross talk between submergence and drought tolerance in rice.In addition，numerous deepwater rice cultivars have shown earlier having drought tolerance and excellent drought recovery capacity.We argue thatplausibly SNORKEL2,master regulatorof deepwater adaptation mayalso evade the N-end rule pathways.Thus, like SUB1A,SNORKEL may mediate cross talk between deepwater adaptation and drought tolerance. So,in our hypothesis we have broadened the horizon of cross talk as shown by Fukao et al. (201l),that is,not only limiting to submergence tolerance but extended to both form of flood (flash and prolonged） tolerance.In the cross-talked pathways concern,we mainly emphasize on ethylene and its mediated pathways.The second part of our hypothesis (coexist in aus subpopulation） is merely the outcome of our critical analysis and synthesis of distribution and population types of different types flood and droughttolerant accessions/genotypes. Finally,we suggest ways to mine the key regulator(s）of drought tolerance through deep exploration of aus accessions of Bangladesh. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Recently, several novel genes such as SUBlA(Xu et al. 2006),SNORKEL (Hattori etal.2009),PSTOL1 (Gamuyao et al.2012),DRO1 (Uga et al.2013）have been identified from ausgenotypes，FRl3A，Gowai 38-9，Kasalath, Kinandang Patong,respectively. Remarkably, the rice reference genome,Nipponbare either completely lacks such tolerant alleles（SNORKEL，PSTOLl）or only possesses intolerant alleles (SUBlA，DRO1)．So it may not be unlikely to anticipate the presence of novel gene(s）(possibly transcription factors;more likely ERF） in droughttolerant aus genotypes that may be completely absent in both Nipponbare and 93-11,the reference genomes of japonica and indica, respectively. Thus,to overcome such limitations,de novo assembly of drought-tolerant aus genotype(s） using long read sequencing technology such as Pacific Biosciences’SMRT sequencing(Roberts et al. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2013）may reveal such novel genes.Recommended drought stress-toleranttraditional aus varietiessuchas Shada Shaita, Kataktara,etc.(Torres et al.20l3）should be selected for de novo assembly rather than breeding lines developed through aus varieties. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that translation of Arabidopsis-based drought research to field crops is relatively poor(Passioura 2006；Blum 2014） where agronomically important novel genes,such as SUB1A,SNORKEL,PSTOL1,DRO1 identified from aus accessions,are literally absent in Arabidopsis. In addition，separate domestication of aus,along with presence of drought-tolerant accessions among aus varieties suggest that deep exploration of the aus accessions for drought tolerance is needed.Apart de novo assembly of aus variety,concerted research approach such as largescale genetic and genome wide association studies with routine molecular and physiological data may also resolve the genetic basis of drought tolerance. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Concluding Remark ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To overcome the most complex and toughest stress and alleviate the threat of drought on global food security, we need alternative idea/hypothesis along with concerted research approach by utilizing genetic resources and modern technologies.We think it is high time to mine the key regulator(s）of drought tolerance from aus accessions through de novo assembly with large scale genetic studies using genome manipulation weaponry. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We thank the National Basic Research Program of China (2012CB1l4300)，Shenzhen Overseas Talents Innovation and Entrepreneurship Funding Scheme (The Peacock Scheme),and Hong Kong Research Grant Council (AoE/ M-05/12,CUHK 473512,474313 and14122415)for their grant support. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interest ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "None declared. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Alexandrov,N.,S.Tai,W.Wang,L.Mansueto,K.Palis,R. R.Fuentes,et al.20l4.SNP-Seek database of SNPs derived from 30oo rice genomes.Nucleic Acids Res. 43:D1023-D1027.   \nAngaji，S.A.,E.M.Septiningsih,D.J.Mackill,and A.M. Ismail.20l0.QTLs associated with tolerance of flooding during germination in rice (Oryza sativa L.). Euphytica 172:159-168.   \nBailey-Serres,J.,S.C.Lee,and E.Brinton.2012. Waterproofing crops: efective flooding survival strategies. Plant Physiol. 160:1698-1709.   \nBaltazar,M.D.,J.C.I. Ignacio,M. J.Thomson,A.M. Ismail,M. S.Mendioro,and E.M. Septiningsih.2014. QTL mapping for tolerance of anaerobic germination from IR64 and the aus landrace Nanhi using SNP genotyping.Euphytica 197:251-260.   \nBashar,M.K.,M.M.Haque,and S.M.H. Zaman.2004. Rice biodiversity and genetic wealth of flood-prone environment of Bangladesh.Rice Res.Dev. flood-prone Ecosyst. Proc. Int.Work. flood-prone rice Syst. held Gazipur,Bangladesh,9-11 January 2001. p 289   \nBin Rahman,A.N.M.R.，and J.Zhang.2013.Rayada specialty: the forgotten resource of elite features of rice. Rice 6:41.   \nBlum,A.2011.Drought resistance is it really a complex trait? Funct. Plant Biol. 38:753-757.   \nBlum,A.2014. Genomics for drought resistance - getting down to earth.Funct.Plant Biol.41:1191-1198.   \nBouman,B.A.M., E. Humphreys,T.P. Tuong,and R. Barker. 2007. Rice and water.Adv. Agron.92:187-237.   \nCassab,G.I.,D.Eapen,and M.E.Campos.2013.Root hydrotropism:an update. Am. J.Bot. 100:14-24.   \nCattling,D.1992.Rice in deep water.Macmillan,London.   \nCivan,P.,H. Craig,C. J.Cox,and T.A.Brown.2015. Three geographically separate domestications of Asian rice. Nat. Plants 1:1-5.   \nCui,M.,W. Zhang,Q. Zhang, Z. Xu,Z. Zhu,F. Duan, et al.20l1.Induced over-expression of the transcription factor OsDREB2A improves drought tolerance in rice. Plant Physiol.Biochem. 49:1384-1391.   \nDasgupta, S.,M. Huq, Z.H. Khan,M. S.Masud,M. M. Z. Ahmed,N. Mukherjee,et al. 2011. Climate proofing infrastructure in Bangladesh: the incremental cost of limiting future flood damage.J. Environ. Dev. 20:167-190.   \nDatta,K.,N. Baisakh,M.Ganguly,S.Krishnan,K.Y. Shinozaki,and S.K.Datta.2012.Overexpression of Arabidopsis and Rice stress genes’ inducible transcription factor confers drought and salinity tolerance to rice. Plant Biotechnol. J. 10:579-586.   \nDe Datta, S. K.,and J. C. O'Toole. 1977. Screening deep-water rices for drought tolerance.. Proceeding Work. Deep.rice. International Rice Research Institute, Laguna, Philippines，p 239.   \nDu,H.,N. Wu, F. Cui,L. You, X. Li,and L. Xiong.2014. A homolog of ETHYLENE OVERPRODUCER,OsETOL1, diferentially modulates drought and submergence tolerance in rice.Plant J.78:834-849.   \nDwiyanti,M. S., V.J. Ulat, H. Koh,R. Mauleon,J. Hyoun, and M.Thomson. 20l4.Analysis of genome sequence data of 13 rice varieties to determine variants within genomic regions related to abiotic and biotic stress tolerance. Poster $\\mathrm { ~ P ~ } 0 9 6$ 4th Int. Rice Congr.p 1   \nEapen,D.，M.Barroso,M. Campos,G.Ponce,G.Corkidi, J. G.Dubrovsky,et al. 2003.A no hydrotropic response Root Mutant that Responds Positively to Gravitropism in Arabidopsis.Plant Physiol. 131:536-546.   \nEapen,D.,M.L. Barroso,G. Ponce,M.E.Campos,and G. I. Cassab. 2005. Hydrotropism: root growth responses to water.Trends Plant Sci. 10:44-50.   \nFukao,T.,T.Harrs,and J. Bailey-Serres2009.Evolutionary analysis of the Subl gene cluster that confers submergence tolerance to domesticated rice.Ann.Bot. 103:143-150.   \nFukao,T.,E. Yeung,and J. Bailey-Serres.2011. The submergence tolerance regulator SUBlA mediates crosstalk between submergence and drought tolerance in rice. Plant Cell 23:412-427.   \nFukao,T.,E. Yeung,and J. Bailey-Serres.2012.The submergence tolerance gene,SUBlA,delays leaf senescence under prolonged darkness through hormonal regulation in rice. Plant Physiol. 160:1795-1807.   \nGamalero,E.,and B.R.Glick.2015.Bacterial modulation of plant ethylene levels. Plant Physiol. 169:13-22.   \nGamuyao,R.,J.H.Chin,J.Pariasca-Tanaka,P.Pesaresi,S. Catausan,C. Dalid,et al. 2012. The protein kinase Pstoll from traditional rice confers tolerance of phosphorus deficiency. Nature 488:535-539.   \nGarris,A. J.,T. H. Tai, J. Coburn, S.Kresovich,and S. McCouch. 2005. Genetic structure and diversity in Oryza sativa L. Genetics 169:1631-1638.   \nGibbs,D.J.,S.C.Lee,N.Md Isa,S.Gramuglia,T.Fukao, G.W. Bassl, et al. 2011. Homeostatic response to hypoxia is regulated by the N-end rule pathway in plants. Nature 479:415-418.   \nGlaszmann,J. C.1987. Isozymes and classification of Asian rice varieties. Theor. Appl.Genet. 74:21-30.   \nGowda,V.R.P.,A. Henry,V.Vadez,H. E.Shashidhar, and R. Serraj. 20l2. Water uptake dynamics under progressive drought stress in diverse accessions of the OryzaSNP panel of rice (Oryza sativa). Funct. Plant Biol. 39:402-411.   \nHabben,J.E.,X. Bao,N.J.Bate,J. L.Debruin,D.Dolan, D.Hasegawa,et al. 20l4. Transgenic alteration of ethylene biosynthesis increases grain yield in maize under field drought-stress conditions.Plant Biotechnol. J. 12:685-693.   \nHabiba,U.,R.Shaw,and Y.Takeuchi.2011.Chapter 2 Socioeconomic Impact of Droughts in Bangladesh. Community,Environ.Disaster Risk Manag.Vol.8 - Droughts Asian Monsoon Reg. Pp 25-48   \nHattori, Y.,K. Nagai, S. Furukawa,X.-J. Song,R. Kawano, H. Sakakibara,et al. 2009. The ethylene response factors SNORKEL1 and SNORKEL2 allow rice to adapt to deep water.Nature 460:1026-1030.   \nHilleRisLambers,D.,and B. S. Vergara 1982. Summary results of an international collaboration on screening methods for flood tolerance.Proc.1981 Int.Deep.Rice Work.International Rice Research Institute,Manila, Philippines，pp 347-353   \nHossain,M.,W. Jaim,M. S.Alam,and A.M.Rahman. 2013.Rice biodiversity in Bangladesh?: adoption,difusion and disappearance of varieties a statistical report from farm survey in 2Oo5.Research and Evaluation Division BRAC,Dhaka,Bangladesh.   \nHuang,X.,Y. Zhao,X.Wei,C.Li,A.Wang,Q.Zhao, et al.20l1.Genome-wide association study of flowering time and grain yield traits in a worldwide collection of rice germplasm. Nat. Genet. 44:32-39.   \nHuang, X., N. Kurata, X. Wei, Z.-X. Wang, A. Wang,Q. Zhao,et al.20l2.A map of rice genome variation reveals the origin of cultivated rice.Nature 490:497-501.   \nHuke,R.E.,and E. H. Huke.1997. Rice area by type of culture:South,Southeast,and East Asia a revised and updated database. International Rice Research Institute, Los Banos,Philippines.   \nIftekharuddaula,K. M., S. Ghosal, Z. J. Gonzaga,A.Amin, H.N. Barman,R. Yasmeen,et al.2015.Allelic diversity of newly characterized submergence-tolerant rice (Oryza sativa L.） germplasm from Bangladesh. Genet. Resour. Crop Evol. 1-9. doi:10.1007/s10722-015-0289-4.   \nIPCC. 2014. Climate Change 2014: Impacts,Adaptation,and Vulnerability. Summaries,Frequently Asked Questions, and Cross-Chapter Boxes. A Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Geeva, Switzerland   \nIshizaki,T.,K.Maruyama,M.Obara,A.Fukutani,K. Yamaguchi-Shinozaki,Y.Ito,et al. 20l3.Expression of Arabidopsis DREBiC improves survival, growth,and yield of upland New Rice for Africa (NERICA） under drought. Mol.Breed. 31:255-264.   \nIsmail,A.M.,D.E. Johnson,E. S.Ella,G.V.Vergara,and A.M.Baltazar. 2012. Adaptation to flooding during emergence and seedling growth in rice and weeds,and implications for crop establishment.AoB Plants 2012:pls019.   \nIsmail,A.M.,U. S.Singh,S.Singh,M.H.Dar,and D.J. Mackill. 2013. The contribution of submergence-tolerant (Subl） rice varieties to food security in flood-prone rainfed lowland areas in Asia.Field Crops Res l52:83-93.   \nIto,O.,J.O'Toole,and B.Hardy.1999.Genetic Improvement of Rice for Water-limited Environments. Proc.Work.Genet. Improv.Rice Water-Limited Environ. 1-3 December l998,Los Banos.International Rice Research Institute.Los Banos,Philippines.，p 353   \nIto,Y.,K. Katsura,K.Maruyama,T.Taji,M.Kobayashi, M.Seki,et al.2006.Functional analysis of rice DREB1/ CBF-type transcription factors involved in cold-responsive gene expression in transgenic rice.Plant Cell Physiol. 47:141-153.   \nJackson,M. T. I995. Protecting the heritage of rice biodiversity. GeoJournal 35:267-274.   \nJohnston, T. H. 1958.Registration of rice varieties.Agron. J. 50:694-700.   \nJoo,J,H. J.Choi, Y.H. Lee,Y. K. Kim,and S.I. Song. 2013.A transcriptional repressor of the ERF family confers drought tolerance to rice and regulates genes preferentially located on chromosome 11. Planta 238:155-170.   \nJung,K.-H.,Y.-S.Seo,H.Walia,P.Cao,T.Fukao,P.E. Canlas,et al. 20l0. The submergence tolerance regulator SublA mediates stress-responsive expression of AP2/ERF transcription factors.Plant Physiol. 152:1674-1692.   \nKato,S.,H. Kosaka,and S.Hara.1928.On the affinity of rice varieties as shown by the fertility of rice plants. Cent. Agric.Inst. Kyushu Imp.Univ. 2:241-276.   \nKhush,G. S.1997. Origin, dispersal, cultivation and variation of rice.Plant Mol.Biol.35:25-34.   \nKhush,G.S.,D. S.Brar,P. S.Virk, S.X. Tang, S.S. Malik,G. Busto,et al. 2003.Classifying Rice Germplasm by Isozyme Polymorphism and Origin of Cultivated Rice Germplasm by Isozyme Polymorphism and Origin of Cultivated Rice.IRRI Discussion Paper Series No.46. International Rice Research Institute,Los Banos   \nKim,S.-I.,and T.H. Tai.2013.Identification of SNPs in closely related Temperate Japonica rice cultivars using restriction enzyme-phased sequencing. PLoS ONE 8:e60176.   \nKobayashi,A.,A. Takahashi, Y. Kakimoto,Y. Miyazawa，N. Fujii,A.Higashitani,et al.20o7.A gene essential for hydrotropism in roots.Proc.Natl Acad. Sci. USA 104:4724-4729.   \nKumar,A.,J.Bernier,S.Verulkar,H.R.Lafitte,and G.N. Atlin.2008.Breeding for drought tolerance: direct selection for yield,response to selection and use of drought-tolerant donors in upland and lowland-adapted populations. Field Crops Res 107:221-21.   \nLi,Z.-X.,E.M. Septiningsih,S.M. Quilloy-Mercado,K.L. McNally,and D.J.Mackill. 2011.Identification of SUB1A alleles from wild rice Oryza rufpogon Griff. Genet. Resour. Crop Evol. 58:1237-1242.   \nLicausi,F., M. Kosmacz,D.A.Weits,B. Giuntoli,F.M. Giorgi,L. A. C. J. Voesenek, et al. 2011. Oxygen sensing in plants is mediated by an N-end rule pathway for protein destabilization. Nature 479:419-422.   \nLing,J.,H. MingYu, W. ChunMing,and W. JianMin. 2004. Quantitative trait loci and epistatic analysis of seed anoxia germinability in rice (Oryza sativa).Rice Sci. 11:238-244.   \nLondo,J. P.,Y.-C. Chiang, K.-H. Hung, T.-Y. Chiang,and B.A. Schal. 2006.Phylogeography of Asian wild rice, Oryza rufipogon,reveals multiple independent domestications of cultivated rice,Oryza sativa. Proc. Natl Acad. Sci. USA 103:9578-9583.   \nMaclean, J.L.,D.C.Dawe,B.Hardy,and G.P.Hettel. 2002.Rice almanac source book for the most important economic activity on earth,3rd ed.CABI Publishing A, Wallingford, U.K.   \nMaris,E. 2008.Water: more crop per drop. Nature 452:273-277.   \nMaruyama,K.,K.Urano,K.Yoshiwara,Y.Morishita,N. Sakurai, H. Suzuki,et al. 2014.Integrated analysis of the effcts of cold and dehydration on rice metabolites, phytohormones,and gene transcripts. Plant Physiol. 164:1759-1771.   \nMatsukura,S.,J. Mizoi, T. Yoshida,D. Todaka, Y. Ito,K. Maruyama,et al. 2010. Comprehensive analysis of rice DREB2-type genes that encode transcription factors involved in the expression of abiotic stress-responsive genes.Mol. Genet. Genomics 283:185-196.   \nMayak, S., T. Tirosh,and B. R. Glick.2004. Plant growthpromoting bacteria that confer resistance to water stress in tomatoes and peppers. Plant Sci. 166:525-530.   \nMcCouch, S. 2013. Feeding the future. Nature 499:23-24.   \nMiyazawa,Y.,A.Takahashi,A.Kobayashi,T.Kaneyasu,N. Fujii,and H. Takahashi. 2008.GNOM-mediated vesicular traffcking plays an essential role in hydrotropism of Arabidopsis roots.Plant Physiol. 149:835-840.   \nMorgan,P.W.,and M. C.Drew. 1997. Ethylene and plant responses to stress.Physiol. Plant. 100:620-630.   \nMoriwaki, T.,Y.Miyazawa,A.Kobayashi,M.Uchida,C. Watanabe,N.Fujii,et al. 20l1.Hormonal regulation of lateral root development in arabidopsis modulated by MIZ1 and requirement of GNOM activity for MIZ1 function. Plant Physiol. 157:1209-1220.   \nNakano,T.,K. Suzuki, T.Fujimura,and H. Shinshi.2006. Genome-wide analysis of the ERF gene family.Plant Physiol. 140:411-432.   \nNasiruddin,M.,and N.M.Miah.1982.Survey of conservation activities in Asian countries and proposals for Future action: Bangladesh. 1983 Rice germplasm Conserv.Work.International Rice Research Institute, Laguna,Philippines，p 109   \nNiroula,R.K.,C. Pucciariello,V. T. Ho, G. Novi, T. Fukao,and P.Perata.2012. SUBlA-dependent and -independent mechanisms are involved in the flooding tolerance of wild rice species.Plant J.72:282-293.   \nOh,S.-J.,S.I. Song, Y. S. Kim,H.-J. Jang, S.Y. Kim, M.Kim,et al. 2005.Arabidopsis CBF3/DREB1A and ABF3 in transgenic rice increased tolerance to abiotic stress without stunting growth.Plant Physiol. 138:341-351.   \nOh, S.-J.,Y. S. Kim, C.-W. Kwon,H. K. Park,J. S.Jeong, and J.-K. Kim. 2009. Overexpression of the transcription factor AP37 in rice improves grain yield under drought conditions.Plant Physiol. 150:1368-1379.   \nPandey,S.,H. Bhandari,and B. Hardy. 20o7.Economic costs of drought and rice farmers’coping mechanisms: a cross-country comparative analysis. International Rice Research Institute,Los Banos.   \nPassioura,J. 2006. The drought environment: physical, biological and agricultural perspectives.J. Exp. Bot. 58:113-117.   \nPaterson,A.H.,M.Freeling,and T.Sasaki.2005.Grains of knowledge: genomics of model cereals.Genome Res. 15:1643-1650.   \nPaul,B. K.1997. Flood research in Bangladesh in retrospect and prospect: a review. Geoforum 28:121-131.   \nPaul,B. K. 1998. Coping mechanisms practised by drought victims (1994/5） in North Bengal, Bangladesh. Appl. Geogr.18:355-373.   \nPeleg,Z.，M. Reguera,E. Tumimbang,H. Walia,and E. Blumwald.2011. Cytokinin-mediated source/sink modifications improve drought tolerance and increase grain yield in rice under water-stress.Plant Biotechnol. J. 9:747-758.   \nPlatten,J.D.,J.A.Egdane,and A.M.Ismail. 2013.Salinity tolerance, $\\mathrm { { N a + } }$ exclusion and allele mining of HKT1;5 in Oryza sativa and O. glaberrima: many sources, many genes,one mechanism? BMC Plant Biol. 13:32.   \nPucciariello,C.,and P.Perata.20l3.Quiescence in rice submergence tolerance: an evolutionary hypothesis. Trends Plant Sci. 18:377-381.   \nReyes,L.C. 2009.Overcoming the toughest stress in rice: drought. Rice Today 8:30-32.   \nRoberts,R. J.,M. O.Carneiro,and M. C. Schatz.2013. The advantages of SMRT sequencing. Genome Biol. 14:405.   \nSeptiningsih,E.M.,J. C.I. Ignacio,P.M. D. Sendon,D. L. Sanchez,A. M. Ismail,and D. J. Mackill.2013. QTL mapping and confirmation for tolerance of anaerobic conditions during germination derived from the rice landrace Ma-Zhan Red. Theor. Appl. Genet. 126:1357-1366.   \nSharp,R.E. and W. J. Davies.1979.Solute regulation and growth by roots and shoots of water-stressed maize plants. Planta 147:43-49.   \nSharp,R.E.，W.K.Silk,and T.C.Hsiao.1988.Growth of the maize primary root at low water potentials.I. Spatial distribution of expansive growth.Plant Physiol. 87:50-57.   \nShi,L.,M.Guo,N.Ye,Y.Liu,R.Liu,Y.Xia,et al.2015a. Reduced ABA accumulation in the root system is caused by ABA exudation in upland rice (Oryza sativa L. var. Gaoshanl）and this enhanced drought adaptation.Plant Cell Physiol. 56:951-964.   \nShi,J.,J.E.Habben,R.L.Archilbald,B.Drummond, M.A.Chamberlin,R.Williams,et al.2015b.Overexpression of ARGOS genes modifies plant sensitivity to ethylene, leading to improved drought tolerance in both Arabidopsis and maize. Plant Physiol. 169:266-282.   \nSingh,N.,T. T.M. Dang, G.V.Vergara,D.M.Pandey,D. Sanchez,C.N.Neeraja,et al.20lo.Molecular marker survey and expression analyses of the rice submergencetolerance gene SUBlA.Theor. Appl.Genet. 121:1441-1453.   \nSingh,S.,D.J. Mackill,and A.M. Ismail.2014. Physiological basis of tolerance to complete submergence in rice involves genetic factors in addition to the SUB1 gene.AoB Plants 6:plu060.   \nSobeih,W. Y. 2004. Long-distance signals regulating stomatal conductance and leaf growth in tomato (Lycopersicon esculentum） plants subjected to partial root-zone drying. J. Exp. Bot. 55:2353-2363.   \nTodaka,D.,K. Shinozaki,and K. Yamaguchi-Shinozaki. 2015. Recent advances in the dissection of drought-stress regulatory networks and strategies for development of drought-tolerant transgenic rice plants.Front Plant Sci. 6:1-20.   \nTorres,R. O.，K.L. McNally, C.V. Cruz,R. Serraj,and A. Henry.20l3.Screening of rice Genebank germplasm for yield and selection of new drought tolerance donors. Field Crops Res 147:12-22.   \nUga,Y.,K. Okuno,and M. Yano. 2008.QTLs underlying natural variation in stele and xylem structures of rice root. Breed. Sci. 58:7-14.   \nUga,Y.,K. Sugimoto,S.Ogawa,J.Rane,M. Ishitani,N. Hara,et al.20l3.Control of root system architecture by DEEPER ROOTING 1 increases rice yield under drought conditions.Nat. Genet.45:1097-1102.   \nVenuprasad,R.,M.T. Sta Cruz,M.Amante,R.Magbanua, A. Kumar,and G.N. Atlin.2008.Response to two cycles of divergent selection for grain yield under drought stress in four rice breeding populations. Field Crops Res 107:232-244.   \nWan,L.,J. Zhang,H. Zhang, Z. Zhang,R. Quan, S. Zhou, et al.2011. Transcriptional activation of OsDERF1 in OsERF3 and OsAP2-39 negatively modulates ethylene synthesis and drought tolerance in rice.PLoS ONE 6(9):e25216. doi:10.1371/journal.pone.0025216.   \nWang,D.,Y.Pan,X. Zhao,L. Zhu,B.Fu,and Z.Li. 2011. Genome-wide temporal-spatial gene expression profiling of drought responsiveness in rice.BMC Genom.12:149.   \nWang, C.-H., X.-M. Zheng, Q. Xu, X.-P. Yuan,L. Huang, H.-F.Zhou,et al. 20l4.Genetic diversity and classification of Oryza sativa with emphasis on Chinese rice germplasm.Heredity (Edinb）112:489-496.   \nWilkinson,S.,and W. J. Davies. 2010.Drought, ozone, ABA and ethylene: new insights from cell to plant to community. Plant, Cell Environ. 33:510-525.   \nWWDR.2014. Water and energy: Facts and Figures in The United Nations World Water Development Report 2014. Perugia, Italy.   \nXiong,L. 2007. Abscisic acid in plant response and adantatinn to droiight and salt stress Adv Mnl Rreed Towar.Drought Salt Toler.Crop.Springer Netherlands, Dordrecht,the Netherlands,pp 193-221.   \nXu,K.,X. Xu, T. Fukao,P.Canlas,R. MaghirangRodriguez,S.Heuer,et al.2oo6.SublA is an ethyleneresponse-factor-like gene that confers submergence tolerance to rice. Nature 442:705-708.   \nYamauchi,M.,A.M.Aguilar,D.A.Vaughan,and D.V. Seshu.l993.Rice (Oryza sativa L） germplasm suitable for direct sowing under flooded soil surface.Euphytica 67:177-184.   \nYamazaki,T.,Y.Miyazawa,A.Kobayashi,T.Moriwaki,N. Fujii,and H.Takahashi.2012.MIZl,an essential protein for root hydrotropism,is associated with the cytoplasmic face of the endoplasmic reticulum membrane in Arabidopsis root cells.FEBS Lett. 586:398-402.   \nYeh,S.-Y.,H.-W. Chen, C.-Y.Ng, C.-Y. Lin, T.-H. Tseng, W.-H.Li,et al.2015.Down-regulation of cytokinin oxidase 2 expression increases tiller number and improves rice yield.Rice 8:36.   \nYoon,J.-H.,S.-Y.S.Wang,R.R.Gillies,B.Kravitz,L. Hipps,and P.J.Rasch.2015.Increasing water cycle extremes in California and in relation to ENSO cycle under global warming. Nat. Commun.6:8657.   \nZhang,H.,W.Liu,L.Wan,F.Li,L.Dai,D.Li,et al.2010. Functional analyses of ethylene response factor JERF3 with the aim of improving tolerance to drought and osmotic stress in transgenic rice. Transgenic Res.19:8o9-818. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

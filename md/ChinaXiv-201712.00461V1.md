@@ -1,0 +1,88 @@
+临床研究
+
+# 非特异性免疫治疗对射频消融术后肝细胞癌患者免疫功能的影响
+
+蒋居毅'，刘天奇²
+
+1广西壮族自治区灵山县人民医院肝胆外科,广西 钦州 535400；广西壮族自治区人民医院肝胆腺体外科，广西南宁 530021
+
+摘要：目的探讨非特异性免疫治疗对射频消融术后肝细胞癌患者免疫功能的影响。方法采用流式细胞仪检测分析43例肝细胞癌患者治疗前和行射频消融术并接受非特异性免疫治疗后，外周血中 $\mathrm { C D 4 + T }$ 细胞、 $\mathrm { C D 8 + T }$ 细胞、NK细胞比例以及 $\mathrm { C D 4 + } /$ $\mathrm { C D 8 + }$ 值。结果行射频消融术并接受非特异性免疫治疗后患者外周血中的 $\mathrm { C D 4 + T }$ 细胞、NK细胞比例及 $\mathrm { C D 4 + / C D 8 + }$ 值均显著高于治疗前 $( P { < } 0 . 0 5 )$ ，同时治疗后患者外周血中 $\mathrm { C D 8 + T }$ 细胞比例显著低于治疗前（ $( P { < } 0 . 0 5 )$ 。结论非特异性免疫治疗可提高射频消融后肝细胞癌患者的免疫功能。
+
+关键词：肝细胞癌；射频消融；免疫治疗；免疫功能
+
+# Effect of non-specific immune treatment on immunity of Patient with hepatocellular carcinoma after radiofrequency ablation
+
+JIANG Juyi,LIUTianqi²   
+Departmentopatoblaygerynghaple'sialofagxiagtonmouegionio4e   
+People's Hospital ofGuangxi Zhuang Autonomous Region,Nanning 53oo21,China
+
+Abstract: ObjectiveToinvestigatetheefectofradiofrequencyablationcombinedsequentialnonspecificimmune treatmenton patient with hepatic carcinoma. Methods Before andafter the radiofrequency ablation combined sequential nonspecific immune treatment, the percentage of $\mathrm { C D 4 + \bar { \ } }$ Tcells, $\mathrm { C D 8 + T }$ cells and NK cells on peripheral blood were evaluated by flow cytometry. Results After the nonspecific immune treatment,the percentage of $\mathrm { C D 4 + T }$ cells, NK cells and $\mathrm { C D 4 + / C D 8 + }$ ratio were significantly higher than that without treatment and $\mathrm { C D 8 + }$ was significantly decreased $_ { ( P < 0 . 0 5 ) }$ . Conclusion Non-specific immune treatment can improve the immune function in HCC after RFA.
+
+Key words: liver cancer; radiofrequency ablation; immune treatment; immune function
+
+肝细胞癌是发病率较高的最常见癌症之一，目前治疗最有效的方法仍是外科手术切除或者肝移植，然而只有 $2 0 \% { \sim } 3 0 \% ^ { [ 1 - 2 ] }$ 的患者获得机会，同时术后高复发率及转移率仍为治疗的瓶颈。随着细胞免疫学、生物工程、基因技术创新和发展，医学界对肿瘤免疫原理有着质的突破。有着不少的小鼠肝癌模型试验4及热消融等技术在临床回顾分析中均证实可促进肝癌肿瘤相关抗原释放，改善机体免疫状态并取得临床疗效。启发出肝癌发生与自身机体的抗肿瘤免疫效应密切相关[5-6,肝癌的发生与肝癌免疫治疗也越来越受到人们的重视，并且成为肝癌术后巩固治疗的首选方法之一。然而肝癌射频治疗后序贯免疫治疗对患者机体免疫功能的影响如何，目前未见报道。此研究旨在通过检测分析肝细胞肝癌(HCC)患者射频消融(RFA)序贯非特异免疫治疗前后的T淋巴细胞亚群、NK细胞的变化，对非特异性免疫治疗对射频消融术后肝细胞癌患者免疫功能的影响进行了初步研究，为临床开展肿瘤非特异行免疫治疗提供临床依据。
+
+# 1资料与方法
+
+# 1.1 临床资料
+
+2013年6\~12月在广西壮族自治区人民医院肝胆外科进行了肝癌射频术序贯非特异性免疫治疗43例，全部病例经空心针肝穿刺活检组织病理学确诊为HCC，全部病例无合并损害免疫功能的慢性疾病病史，如糖尿病、系统性红斑狼疮等;无合并其他系统感染。其中男34例，女9例，年龄25\~82岁，平均 $5 2 . 2 1 { \scriptstyle \pm 1 2 . 4 4 }$ 岁。
+
+# 1.2 方法
+
+1.2.1治疗方法肝癌射频消融术均由同一名超声科医生和肝胆外科医师共同完成，均为B超引导经皮肝癌射频消融术。患者术后住院进行非特异性免疫治疗，方案为：静脉输入由重组人白介素-2注射液 $\left( \mathrm { I L } { - } 2 , 1 0 ^ { 6 } \mathrm { U } / \mathrm { d } \right)$ 、注射用胸腺法新(迈普新， $1 . 6 ~ \mathrm { m g }$ 隔天)皮下注射及与斑螯酸钠维生素B6注射液(斑螯， $\mathrm { 4 0 ~ m L / d } ,$ 。5d为1周期，3周为1疗程
+
+1.2.2T淋巴细胞亚群及NK细胞检测方法 术后1个月免疫治疗前及术后3个月完成第3次非特异性免疫治疗后抽取外周血，采用流式细胞仪检测 $\mathrm { C D 4 + }$ $\mathrm { C D 8 + }$ 及NK细胞比例。
+
+# 1.3 统计学方法
+
+将病例资料分类后分别输入SPSS19.0做以下分析，组内治疗前后比较采用配对 $t$ 检验，以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+治疗后与治疗前相比，患者 $\mathrm { C D 4 + }$ $\mathrm { C D 4 + / C D 8 + }$ 及NK细胞均有回升，但治疗后患者 $\mathrm { C D 8 + }$ 仍低于治疗前，差异具有统计学意义( $\scriptstyle \phantom { + } P < 0 . 0 5$ ，表1)。
+
+表1非特异性免疫治疗前、后肝癌患者外周血T淋巴细胞亚群及NK细胞比较 $( n { = } 4 3 , \overline { { x } } { \pm } s )$   
+
+<html><body><table><tr><td>指标(%)</td><td>治疗前</td><td>治疗后</td><td>P</td></tr><tr><td>CD4+</td><td>55.92±11.34</td><td>58.76±9.95</td><td>0.000</td></tr><tr><td>CD8+</td><td>39.42±10.60</td><td>36.95±9.49</td><td>0.000</td></tr><tr><td>CD4+/CD8+</td><td>1.58±0.65</td><td>1.74±0.65</td><td>0.000</td></tr><tr><td>NK</td><td>19.73±9.01</td><td>22.91±12.40</td><td>0.049</td></tr></table></body></html>
+
+# 3讨论
+
+肝癌是全球最常见的恶性肿瘤之一，在肿瘤相关性死亡率居第3位。我国是肝癌高发区，占全球肝癌病例一半以上。据世界癌症机构统计我国2008年HCC发病例数约为402208例，病死例数为372079例。以RFA为代表的肝癌局部消融治疗在近20多年发展成为继手术切除、介入治疗后的第3大肝癌治疗手段，在肝癌治疗领域中起着越来越重要的作用。其中有Ross[8]、Tateishi、陈敏山等多方研究报道RFA治疗肝癌获得满意效果，然而术后3年和5年的复发率仍分别高达$5 0 \%$ 和 $7 0 \% ^ { [ 1 1 ] }$ 。随分子免疫学科等发展,已经证实肿瘤的发生、发展不仅与肿瘤自身细胞的基因遗传有关，同时与肿瘤细胞自身的微环境有关。肿瘤的发生、发展与机体免疫功能存在着密切的关系[12]。维持机体内部免疫系统环境的一个中心环节则是T淋巴亚群细胞之间的动态平衡。
+
+$\mathrm { C D } 3 +$ 存在于所有成熟T细胞的表面，故 $\mathrm { C D } 3 +$ 细胞的数量代表着机体的总细胞免疫状态。 $\mathrm { C D 4 + T }$ 淋巴细胞是辅助性T细胞，主要作用则是辅助机体完成抗肿瘤免疫； $\mathrm { C D 8 + T }$ 淋巴细胞是抑制性细胞，主要功能是抑制住机体自身的免疫应答，二者相互制约与诱导对维持机体免疫平衡有重大意义。通常机体内部免疫状态的动态稳定以 $\mathrm { C D 4 + / C D 8 + }$ 比值表示，若此比值降低，则提示着机体免疫功能下降，进而促进着肿瘤的发生及发展。反而当此比值上升时，则提示着机体免疫功能的好转[13]。NK细胞是一种特殊的细胞群体,在机体抗肿瘤免疫过程中有着重大的作用，与其他抗肿瘤细胞区别则是其抗肿瘤过程不受MHC限制[14]。因此NK细胞与$\mathrm { C D 4 + , C D 8 + }$ 及 $\mathrm { C D 4 + / C D 8 + }$ 均能反映机体免疫功能的情况。肝癌患者在自身免疫功能有着不同程度的抑制，肝癌治疗术后的复发转移与本身免疫功能的缺陷有着一定的联系[15]。不少国内外文献报道指出：肝癌患者机体外周血 $\mathrm { C D 4 + , N K }$ 细胞的数量比值明显低于健康人群，同时不同分期肝癌患者内T淋巴细胞亚群及NK细胞的下降程度有着明显差异[16-17]
+
+免疫治疗主要经过增强机体免疫系统的敏感性、特异性和自动调节来清除肿瘤细胞[18],方法包括非特异性免疫,过继免疫,主动免疫,基因免疫及联合免疫[19]。其中非特异性免疫治疗药物有胸腺肽、BP素、甘露聚糖肽、康艾 $、 \mathrm { I L } \ – 2 ^ { [ 2 0 - 2 3 ] }$ 等。多项临床研究数据表明胸腺肽、BP素、甘露聚糖肽、康艾、IL-2作为免疫调节剂，在肝癌治疗和预防复发中取得了较好的疗效[24-26]。本研究对肝癌射频治疗后序贯“胸腺肽、IL-2、斑螯"方案免疫治疗3周期，应用流式细胞学检测患者机体免疫功能。结果显示肝癌患者 $\mathrm { C D 4 + }$ $\mathrm { C D 4 + / C D 8 + }$ 高于免疫治疗前，较治疗前显著改善，而 $\mathrm { C D 8 + }$ 低于免疫治疗前，三者均由明显统计学差异，而NK细胞较免疫前均能上升，没有明显统计学意义。实验提示了肝癌患者经免疫治疗后免疫状态较得到明显改善,此结果与Fan[27]、Deng[28]等研究发现类似，均表明过继非特异性免疫治疗中作用确切，可改善患者免疫功能。由于我们的研究样本量不够大，考察指标尚不够全面，进一步的研究需加大样本量，并需增加如肿瘤复发率、患者生存率等其它指标。
+
+总之，在肝癌RFA术后序贯非特异免疫治疗可以显著改善患者的全身状况,有效提高肝癌患者术后近期的免疫功能，可能利于肝细胞肝癌的疗效的提高。
+
+# 参考文献：
+
+[1]Llovet JM,Bruix J,Gj G. Surgical resection versustransplantation for early hepatocellular carcinoma:clues for the best strategy [J]. Hepatology,2000,31(4):1019-21.   
+[2]LencioniR,Cioni D,Donati F,etal. Combination of in-terventional therapies in hepatocellular carcinoma［J].Hepatogastroenterology, 2001,48(37): 8-14.   
+[3]Hanazaki K,Kajikawa S,Shimozawa N,et al． Survival and recurrence after hepatic resection of 386 consecutive patients with hepatocellular carcinoma[J].JAm Coll Surg,200o,191(4): 381-8.   
+[4]Goldenberg DM,Langner M.Direct and abscopal antitu-mor action of local hyperthermia[J]. Zeitschr Fur Naturforschung,2O14,26(4): 359-61.   
+[5]Zerbini A,Pilli M, Laccabue D,et al. Radiofrequency thermal ablation forhepatocellularcarcinoma stimulatesautologous NK-cell response[J]. Gastroenterology,2010,138(5): 1931-42.   
+[6]Poulou LS, Ziakas PD, Xila V,et al. Percutaneous radio-frequency ablation for unresectable colorectal liver metasta-ses: time for shadows to disperse[J].Rev Recent Clin Trials,2009,4(3):140-6.   
+[7]Bray F,Ren JS,Masuyer E,et al.Global estimates of cancer prevalence for 27 sites in the adult population in 2Oo8［J].Int J Cancer,2013,132(5): 1133-45.   
+[8]Rossi S,Distasi M,Buscarini E,et al. Percutaneous RF interstitial thermal ablation in the treatment of hepatic cancer[J].AJR Am J Roentgenol,1996,167(3): 759-68.   
+[9]Tateishi R,Shiina S,Teratani T,et al.Percutaneous radiofrequency ablation for hepatocellular carcinoma: An analysis of 1ooO cases[J]. Cancer,2005,103(6): 1201-9.   
+[10］陈敏山,张耀军,李锦清.射频消融治疗肝脏恶性肿瘤的八年经验总 结(附803例报道)[J].中华外科杂志,2007,45(21):1469-71.   
+[11]Llovet JM,Burroughs A,Bruix J.Hepatocellular carcinoma[J]. Lancet,2003,36(2): 1907-17.   
+[12] Coussens LM,Werb Z. Inflammation and caner[J]. Nature,2002, 420(6917): 860-7.   
+[13]Whitson BA,D'cunha J,Hoang CD,et al.Minimally invasive versus open Roux-en-Y gastric bypass: effect on immune effector cells[J]. Surg Obes Relat Dis,2009,5(2): 181-93.   
+[14]李晓宇,白洁.细胞自噬与MHCⅡ处理及递呈抗原的相关研究[J]. 医学综述,2015,7(1):80-3.   
+[15]夏桃林,吴振权.TGF-β1和COX-2对 $_ \mathrm { C D 4 + C D 2 5 + \ j }$ 调节性T细胞的 调控作用[J].医学综述,2010,16(22):3390-2.   
+[16]Nakao M, Sata M, Saitsu H, et al. CD4+hepatic cancer-specific cytotoxic Tlymphocytes in patients with hepatocellular carcinoma[J]. Cell Immunol, 1997,177(2): 176-81.   
+[17]秦东春,王海颖,梅园丁,等.原发性肝细胞癌患者免疫功能的改变 [J].第四军医大学学报,2007,28(20):1891-4.   
+[18]Butterfield LH. Recentadvances in immunotherapy forhepatocelllar cancer[J]. Swiss Med Wkly,2007,137(6): 83-90.   
+[19]朱 迎,钦伦秀.肝癌免疫生物治疗的现状及评价[J].中国实用外科杂 志,2016,14(6): 636-41.   
+[20]Mazzaferro V,Romito R，Schiavo MA，et al．Prevention of hepatocellular carcinoma recurrence with alpha-interferon after liver resection in HCV cirrhosis [J].Hepatology，2006,44(6): 1543-54.   
+[21] Qu LS,JinF,Huang XW,et al.Interferon- $\mathfrak { a }$ therapy after curative resection prevents early recurrence and improves survivalin patients with hepatitis B virus-related hepatocellular carcinoma［J].J Surg Oncol,2010,102(7): 796-801.   
+[22]Chen LT,Chen MF,Li LA,et al.Long-Term results of a randomized,Observation-Controlled，phase II trial of adjuvant interferon alfa-2b in hepatocellular carcinoma after curative resection[J].Ann Surg,2012,255(1): 8-17.   
+[23]Ji J,Shi J,Budhu A,et al.MicroRNA expression,survival,and response to interferon in liver cancer[J].N Engl JMed,2009,361 (15): 1437-47.   
+[24] Ancell CD,Phipps J, Young L. Thymosin alpha-1[J].Am JHealth Syst Pharm,2001,58(10): 879-85.   
+[25] Cheng SQ,Wu MC,Chen H,et al. Transcatheter hepatic arteri-al chemoembolization and thymosin alphal in postoperativetreatment of hepatocellular carcinoma[J].Chin J Oncol,2004,26(5): 305-7.   
+[26]周伟平,吴孟超,姚晓平,等.肝癌切除加免疫化疗对术后复发的影响 [J].中德临床肿瘤学杂志:英文版,2002,1(3):163-5.   
+[27]Fan H,Lu Y,Qin H,et al.High ran level is correlated with poorprognosis in patients with colorectal cancer[J].Int J Clin Oncol,2013,18(5): 856-63.   
+[28] Deng L,Lu YY, Zhao XD,et al. Ran GTPase protein promotes humanpancreatic cancer proliferation by deregulatingthe expression of Survivin and cell cycle proteins[J]. Biochem Biophys Res Commun,2013,440(2): 322-9.

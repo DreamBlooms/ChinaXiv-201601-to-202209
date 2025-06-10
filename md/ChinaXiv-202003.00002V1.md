@@ -1,0 +1,141 @@
+# 声乐与器乐情绪加工的ERP研究
+
+江 俊」张伟霞²王莞琪
+
+(1上海师范大学音乐学院；2上海师范大学教育学院；上海师范大学商学院，上海 200234)
+
+摘要 借助跨通道情绪启动范式考察声乐与器乐情绪加工的电生理差异。启动刺激是声乐和器乐曲(小提琴演奏)，目标刺激是与音乐情绪一致或不一致的面孔表情图片。结果显示，与一致条件相比，与面孔情绪不一致的器乐曲诱发了N400，而与面孔情绪不一致的声乐曲诱发了LPC。这些结果表明，声乐与器乐情绪加工的电生理反应存在差异。
+
+关键词声乐；器乐；情绪加工；N400；LPC 分类号B842；B845
+
+# 1引言
+
+聆听音乐是现代人生活中的重要组成部分。声乐(即歌曲)与器乐(即纯音乐)是日常聆听中的2种音乐类型。然而，有些人喜欢聆听器乐，有些人则偏爱聆听声乐，认为歌词可以帮助理解音乐意义，如音乐的情绪意义。
+
+那么，听者对声乐和器乐情绪加工是否存在差异？已有行为研究表明，声乐与器乐情绪加工存在差异。在 Stratton 和 Zalanowski(1994)研究中，大学生聆听一首表现悲伤情绪的歌曲、歌曲的纯音乐或歌词版本，在10点等级( $1 =$ 非常不愉快， $1 0 =$ 非常愉快)上对刺激的愉悦度进行主观评定。结果显示，大学生对纯音乐愉悦度的评定显著高于对歌曲和歌词的评定。通过5点等级评定，Brattico 等人(2011)也发现，被试对纯音乐的愉悦度评定高于对歌曲的评定。但是，也有矛盾的研究结果。Loui，Bachorik，Li和 Schlaug(2013)让被试聆听 16首歌曲及其器乐版本，对音乐愉悦度进行5点等级评定。研究者发现，听者对声乐与器乐版本的愉悦度评定无明显差异。
+
+以上研究从情绪效价视角探究声乐与器乐情绪加工，还有一些研究从情绪强度视角探讨这个问题。在Ali 和Peynircioglu(2006)研究中，大学生聆听16 首歌曲及其对应的器乐版本。在听完音乐后，被试评定音乐表现的情绪强度( $1 =$ 一点也不， $9 =$ 非常)。结果表明，纯音乐的情绪强度高于歌曲的情绪强度。然而，Franco，Chew 和 Swaine(2017)得出不同的结论。
+
+研究者让3组大学生分别聆听纯音乐、有纯音乐的歌曲和无纯音乐的歌曲，评定音乐情绪强度 $1 =$ 一点也不， $7 =$ 非常)。研究表明，被试对不同音乐情绪强度的评定基本相同。
+
+已有研究结果的不一致可能由于行为指标比较主观、不敏感引起。那么，使用相对客观、较为敏感的脑电指标(Kraus＆ Horowitz-Kraus,2014; Luck,2014)有可能更好揭示声乐与器乐情绪加工是否存在差异。跨通道情绪启动范式被广泛运用于情绪加工的 ERP 研究中(比如,Diamond & Zhang,2016; Steinbeis& Koelsch,2011)。这类研究主要聚焦 N400 和 LPC 成分。N400 反映了语义或概念的整合加工(Kutas& Federmeier,2011)，其峰值在 $4 0 0 ~ \mathrm { { m s } }$ 左右达到最大，通常分布在中央和顶区电极位置，稍微偏右侧化。尽管如此，在跨通道情绪启动范式研究中，与启动音乐(Goerlich et al.,2012; Steinbeis & Koelsch,2011)、言语韵律(Paulmann &Pell, 2010; Schirmer, Kotz,& Friederici, 2005)和面孔图片(Diamond & Zhang,2016; Focker &Roder,2019)情绪不一致的目标刺激诱发了更大的 N400。这表明，N400 也反映了对情绪冲突的检测与整合(Zhang,Lawson, Guo,& Jiang,2006; Zhang,Li, Gold,& Jiang,2010)。LPC 是情绪刺激呈现后 $3 0 0 { \sim } 1 0 0 0 ~ \mathrm { m s }$ 出现的正波，峰值在 $5 0 0 { \sim } 6 0 0 ~ \mathrm { m s }$ 达到最大，通常分布在中线和顶区电极位置，主要反映了对情绪信息的注意和整合加工(Hajcak,MacNamara,& Olvet,2010)。具体来说，与中性刺激相比，情绪刺激如图片(Hajcak& Olvet,2008)和言语韵律(Paulmann&Uskul,2017)会诱发整个头皮产生一个较大的LPC。由于情绪刺激具有较强的动机意义，因而引起了更多的注意(Schuppet al.,2000)。同样地，与启动言语韵律(Pell etal.,2015;郑志伟，黄贤军,2013)和面孔图片(Diamond& Zhang,2016)情绪不一致的目标刺激诱发大脑双侧顶枕区或整个头皮产生了更大的LPC。这说明,LPC 与注意分配和情绪整合相关(Herring,Taylor, White, & Crites Jr,2011; Zhang, Kong,& Jiang,2012; Zhang et al., 2010)。
+
+最近，张伟霞、王莞琪、周临舒和蒋存梅(2018)通过ERP 技术考察歌词对音乐情绪加工影响。研究表明，在无歌词的哼唱启动下，大脑整个头皮产生了N400；在带有歌词音乐启动下，大脑整个头皮产生了LPC。迄今为止，尚未有研究从电生理角度探究声乐与器乐情绪加工的差异。基于此，本研究通过跨通道情绪启动范式对此进行探究。为了排除声乐与器乐曲在音乐形态上的差异，本研究选取相同的音乐，分别由人声和小提琴演奏，由此形成声乐和器乐2个版本。既然歌词的出现会诱发LPC，而无歌词的哼唱诱发出 N400(张伟霞等人，2018)，那么我们预期声乐和器乐情绪加工可能会分别产生LPC 和N400。
+
+# 2方法
+
+# 2.1被试
+
+根据已有研究(张伟霞等人,2018)中情绪一致性的效应量 $( F ( 1 , 3 1 ) = 9 . 8 0$ ， $\eta _ { \mathrm { p } } { } ^ { 2 } = 0 . 2 4 )$ ，为了在 0.01 水平上达到 $90 \%$ 的统计检验力， $\mathbf { G } ^ { * }$ Power 3.1.9.4 软件(Faul, Erdfelder, Lang，&Buchner,2007)计算出的样本量至少为16。于是，本实验招募了20名未受过专业音乐训练的普通大学生作为被试。由于3名被试脑电伪迹过多，在数据分析时被剔除，因此有效被试为17人(男生9人；年龄 $= 2 4 . 6 5 \pm 1 . 3 1$ 岁)。被试均为右利手，听力和(矫正)视力正常，无脑损伤和精神病史。所有被试签署了知情同意书，并获得一定报酬。
+
+# 2.2刺激
+
+刺激包含启动和目标刺激。启动刺激是从声乐教材中挑选的50个表达正性情绪和 50 个表达负性情绪的外国歌剧片段(时长 $1 0 { \sim } 2 5 \ \mathrm { s } .$ ，平均17s)。歌剧片段分别由一名受过18 年声乐或小提琴训练的研究生用中文演唱或小提琴演奏并进行录制，由此排除了声乐和器乐在音乐形态上的差异。本实验包含100个声乐片段和100个器乐片段。这些音乐片段使用单声道采样，采样率为 $2 2 0 5 0 \mathrm { H z }$ 。最后，使用Adobe AuditionCS6 软件将音量标准化到-7dB，同时淡出1s。
+
+目标刺激是从《中国面孔表情图片系统》(龚栩，黄宇霞，王妍，罗跃嘉,2011)中挑选的2 张女性面孔图片，分别表现快乐和悲伤情绪；2张图片的平均情绪认同度均为 $9 7 . 9 8 \%$ ，其平均情绪强度分别为7.24和5.88。每个音乐与2张面孔图片进行配对(见图1)，因而形成200个情绪效价一致和200个情绪效价不一致的配对。
+
+![](images/5a38eacac48a4d8b393e532e60d1d9fab4c450895ba2491fbf58fa39be9e765f.jpg)  
+图1情绪启动范式例子
+
+为确保刺激的有效性，我们实施了3个前测。第一，额外的16名普通大学生对 400 个音乐-图片配对的情绪效价一致性( $1 =$ 非常不一致， $9 =$ 非常一致)进行评定。对于每个音乐片段，配对 $\mathbf { \chi } _ { t }$ 检验被用于检验情绪效价一致与不一致配对的评定是否具有显著差异。240 个配对被作为正式的刺激：不管启动刺激是声乐 $( t ( 5 9 ) = 2 4 . 7 3 , p < . 0 0 1 , d = 3 . 1 9 \$ 还是器乐(t(59)$= 2 1 . 5 6 , p < . 0 0 1 , d = 2 . 7 8 )$ ，听者对情绪效价一致配对的评定(声乐: $M = 7 . 2 1 , S D = 0 . 7 9$ ；器乐：$M = 6 . 9 4$ $S D = 0 . 8 7 \mathrm { \Omega }$ 均高于对情绪效价不一致配对的评定(声乐: $M = 2 . 7 2 , S D = 0 . 8 0$ ；器乐： $M$ $= 3 . 1 5$ $S D = 0 . 7 7 _ { . }$ )。以情绪效价一致性(情绪效价一致、情绪效价不一致)和音乐类型(声乐、器乐)为被试内变量进行的方差分析结果显示，情绪效价一致性的主效应 $( F ( 1 , 5 9 ) = 8 2 2 . 8 1 , p$ $\mathbf { \epsilon } < . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } = { \mathfrak { g } } 3 )$ 以及情绪效价一致性和音乐类型的交互效应 $( F ( 1 , 5 9 ) = 1 1 . 0 6 \$ ， $p = . 0 0 2$ ， $\boldsymbol \eta _ { \mathrm { p } } ^ { 2 }$ （204号$= . 1 6 )$ 显著，音乐类型的主效应不显著， $F ( 1 , 5 9 ) = 1 . 1 4 , p = . 2 9 0$ 。这些结果表明实验材料是有效的，同时，2 种音乐类型的任务难度相似。此外，这些大学生对声乐中歌词清晰度 $( 1 =$ 不清楚， $5 =$ 清楚)的平均评定高于4 $\hat { 1 } \left( M = 4 . 4 5 , S D = 0 . 2 3 \right)$ 。第二，额外的16名音乐专业学生(均接受专业音乐训练18年以上)对声乐与器乐在弹性速度 $( M = 5 . 2 4 , S D = 0 . 4 2 )$ 、力度 $( M$ $= 5 . 3 8$ $S D = 0 . 4 0 )$ 、分句 $( M = 5 . 6 5$ ， $S D = 0 . 3 6 )$ 以及总体表演水平 $( M = 5 . 2 1$ ， $S D = 0 . 4 0 _ { , } ^ { \cdot }$ 方面的评定具有较高的一致性( $1 =$ 非常不一致， $7 =$ 非常一致)，其平均评定均高于5。第三，额外的16 名普通大学生对音乐的情绪效价( $1 =$ 非常不愉快， $4 =$ 中性， $7 =$ 非常愉快)和唤醒程度 $1 =$ 非常平静， $4 =$ 中性， $7 =$ 非常激动)进行了评定。就情绪效价而言，以情绪类型(正性情绪、负性情绪)和音乐类型(声乐、器乐)为被试内变量的方差分析显示，情绪类型 $( F ( 1 , 2 9 )$ $= 2 2 4 1 . 9 8 , p < . 0 0 1$ ， $\displaystyle \boldsymbol { \eta _ { \mathsf { p } } } ^ { 2 } = . 9 9 )$ 与音乐类型 $( F ( 1 , 2 9 ) = 4 . 8 0 , p = . 0 3 7 , \eta _ { \mathrm { p } } ^ { 2 } = . 1 4 )$ 的主效应以及二者的交互效应 $( F ( 1 , 2 9 ) = 8 . 3 7 , p = . 0 0 7 , \eta _ { \mathrm { p } } ^ { 2 } = . 2 2 )$ 显著。简单效应分析表明，就正性情绪音乐而言，器乐 $( M = 5 . 4 3 , S D = 0 . 3 0 )$ 与声乐 $( M = 5 . 4 6 , S D = 0 . 2 6 )$ 的情绪效价没有差异 $( F ( 1 , 2 9 ) = 0 . 1 8$ $p = . 6 7 4 )$ ；就负性情绪音乐而言，器乐 $( M = 2 . 6 6 , S D = 0 . 3 0 )$ 的情绪效价高于声乐 $( M = 2 . 4 1 , S D$ （204号$= 0 . 3 5 \mathrm { \Omega }$ ， $F ( 1 , 2 9 ) = 1 3 . 4 0 , p = . 0 0 1 , { \eta _ { \mathrm { p } } } ^ { 2 } = . 3 2$ 。就唤醒程度而言，情绪类型 $( F ( 1 , 2 9 ) = 1 1 1 . 8 7 , p$ （204号$< . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } = { \mathfrak { . 7 9 } } )$ 和音乐类型 $( F ( 1 , 2 9 ) = 4 1 9 . 3 4 , p < . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = . 9 4 )$ 的主效应以及交互效应 $( F ( 1 ,$ $2 9 ) = 1 8 . 9 7 , p < . 0 0 1$ ， ${ \mathfrak { n } } _ { \mathfrak { p } } { } ^ { 2 } = { \it 4 0 } )$ 显著。简单效应分析表明，无论是正性情绪 $( F ( 1 , 2 9 ) = 3 6 . 0 7 , p$ $< . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } = { } . 5 5 )$ 还是负性情绪 $( F ( 1 , 2 9 ) = 2 0 6 . 7 9 , p < . 0 0 1 ,$ （202 $\boldsymbol \eta _ { \mathsf { p } } ^ { } 2 = . 8 8 )$ 音乐，器乐的唤醒程度(正性情绪: $M = 4 . 8 7$ $S D = 0 . 5 9$ ；负性情绪： $\scriptstyle { M = 3 . 3 2 }$ $S D = 0 . 4 1$ )都低于声乐(正性情绪: $M = 5 . 5 4$ ，$S D = 0 . 4 7$ ；负性情绪： $M = 4 . 8 0$ $S D = 0 . 4 9$ ）
+
+# 2.3程序
+
+首先，电脑屏幕中心出现一个持续时间为1s的黑色注视点“+”。注视点消失后，启动刺激出现，被试通过耳机聆听音乐。在音乐播放完毕之后，呈现目标刺激1s。最后，出现反应界面，要求被试判断音乐与面孔图片所表达的情绪效价是否一致，之后按空格键开始下一个试次。实验结束后，要求被试报告音乐的标题，但是他们未能报告出所有音乐标题中的任何一个关键词。
+
+# 2.4数据记录与分析
+
+EEG 信号通过 NeuroScan Synamps 2系统及其64 导电极帽(10-20 方式排列电极)进行采集。左侧乳突为参考电极，右侧乳突为记录电极。信号经过AC 放大器放大，滤波带通为$0 . 0 5 { \sim } 1 0 0 \mathrm { H z }$ ，采样率为 ${ 5 0 0 } \mathrm { H z }$ 。所有电极 $\mathbb { R } < 5 \mathrm { k } \Omega$ 。
+
+数据采用Neuroscan 4.5 软件进行预处理。首先，将原始数据转换为双侧乳突电极的平均参考，通过视觉观察手动排除肌电、心电、漂移等伪迹并使用软件的回归程序自动矫正眼电伪迹。其次，进行 $0 . 1 { \sim } 3 0 \mathrm { H z }$ (24dB/oct slope)的带通滤波。然后，对目标刺激-200\~1000ms 的脑电进行分段，并进行基线校正 $\left( \mathrm { ~ - ~ } 2 0 0 { \sim } 0 \mathrm { m s } \right)$ 。最后，自动剔除波幅在土 $8 0 \mu \mathrm { V }$ 之外以及反应错误的试次，对不同实验条件的试次分别进行叠加。
+
+在预处理后，为了控制由众多电极和时间点进行多重比较引起的I类错误概率，我们使用Fieldtrip 工具箱(Oostenveld,Fries,Maris,& Schoffelen,2011)中的基于聚类的置换检验(cluster-based permutation test)方法(Maris & Oostenveld,2007)进行统计分析。首先，使用相关样本 $\mathbf { \chi } _ { t }$ 检验比较了情绪效价一致与不一致条件在每个相邻电极-时间点配对的差异。如果其差异在.05 水平上达到显著，那么该配对被作为一个簇(cluster)。对于每个簇，簇内每个电极-时间点 $\mathbf { \Psi } _ { t }$ 值之和作为簇水平的 $\mathbf { \chi } _ { t }$ 值。然后，我们混合每个被试在情绪效价一致与不一致条件的数据，随机抽样 2000 次，计算出每次抽样得到的最大的簇水平统计量，从而构建一个假定2个实验条件没有差异的零分布。最后，对比实际观测到的与零分布得到的最大的簇水平统计量，使用蒙特卡罗方法估算 $p$ 值 $( \alpha = . 0 5 )$ 。为了增加统计检验的敏感性，我们根据已有关于 N400 (Schirmer et al.,2005; Steinbeis & Koelsch,2011)与 LPC (Herring et al.,2011; Zhanget al.,2010)的研究和目测，把面孔图片出现后的 $2 0 0 { \sim } 5 0 0 ~ \mathrm { m s }$ 和 $4 0 0 { \sim } 7 0 0 ~ \mathrm { m s }$ 分别作为N400和 LPC 的时间窗口。
+
+# 3结果
+
+# 3.1行为结果
+
+我们以情绪效价一致性和音乐类型为被试内变量分别对正确率和反应时进行重复测量方差分析。就正确率而言，情绪效价一致性的主效应显著 $( F ( 1 , 1 6 ) = 1 3 . 5 0 , p = . 0 0 2 , \eta _ { \mathrm { p } } ^ { 2 } = . 4 6 )$ 表明听者在情绪效价一致配对上的成绩 $( M = 9 2 . 0 4 \%$ $S D = 5 . 9 3 \$ )高于在情绪效价不一致配对上的成绩 $( M = 8 1 . 2 7 \% , S D = 1 4 . 4 0 )$ 。同时，音乐类型的主效应也显著 $( F ( 1 , 1 6 ) = 1 7 . 1 5 , p = . 0 0 1$ $\displaystyle \mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } = . 5 2 )$ ，表明听者在以声乐为启动刺激时对情绪效价一致性判断的成绩 $( M = 8 9 . 7 9 \%$ $S D =$ 8.94)比在以器乐为启动刺激时的成绩好 $( M = 8 3 . 5 2 \%$ $S D = 1 4 . 2 1 \AA$ )。然而，二者的交互作用不显著 $( F ( 1 , 1 6 ) = 0 . 0 2 , p = . 9 0 3 )$ 。
+
+就反应时而言，情绪效价一致性的主效应显著 $( F ( 1 , 1 6 ) = 1 2 . 5 4 , p = . 0 0 3 , \eta _ { \mathrm { p } } ^ { 2 } = . 4 4 )$ ，表明听者对情绪效价一致配对的反应 $( M = 9 9 3 . 4 0 ~ \mathrm { m s }$ ， $S D = 4 5 6 . 2 0 \mathrm { \Omega }$ 快于对情绪效价不一致配对的反应 $( M = 1 1 7 4 . 9 7 \mathrm { m s }$ ， $S D = 5 9 5 . 2 5$ )。但是，音乐类型的主效应 $( F ( 1 , 1 6 ) = 0 . 4 9 , p = . 4 9 5 )$ 和二者的交互作用 $( F ( 1 , 1 6 ) = 0 . 2 7 , p = . 6 1 3 )$ 均不显著。
+
+# 3.2ERP结果
+
+在 N400 时间窗口内，置换检验结果显示，当启动刺激是器乐时，情绪效价不一致的面孔图片比情绪效价一致的面孔图片诱发的脑电波更为负性 $( p = . 0 1 1$ ；见图2)。从图3可以看出，该效应主要产生于 $2 8 1 { \sim } 4 7 1 ~ \mathrm { m s }$ 的右侧额颞和中央顶区电极。然而，当启动刺激是声乐时，情绪效价一致与不一致的面孔图片诱发的脑电波没有不同。
+
+在 LPC 时间窗口内，置换检验结果表明，当启动刺激是声乐时，情绪效价不一致比一致的面孔图片诱发了一个波幅更大的正成分 $( p = . 0 1 9$ ；见图2)。从图3可以看出，该成分主要产生于473\~677ms 的左侧额中和顶枕区电极。但是，当启动刺激是器乐时，情绪效价一致与不一致的面孔图片诱发的脑电波没有差异。
+
+![](images/d25d3ed3b9615838d467198d4ff5a06674fbd0d099dc15de14d3ec97c125c7cb.jpg)  
+图2启动刺激为器乐(a)与声乐(b)时面孔图片在9个代表性电极上诱发的平均脑电波形图
+
+注：阴影区域表示每个时间点平均波幅的 $9 5 \%$ CI。
+
+![](images/e288f2cac576b14d102f2e83125b8d76680b657f13e2e2cf70db7601eb997bb5.jpg)  
+图3启动刺激为器乐(a)与声乐(b)时面孔图片在2个时间窗口产生的差异波的头皮分布地形图
+
+注：\*表示在特定时间窗口内ERP效应显著的电极。
+
+# 4讨论
+
+本研究使用ERP技术探讨声乐与器乐情绪加工的电生理反应是否存在差异。研究表明，与一致条件相比，与面孔情绪不一致的器乐曲诱发了N400；而与面孔情绪不一致的声乐曲诱发了LPC。这说明，声乐与器乐情绪加工的电生理反应存在差异。
+
+我们发现，启动刺激为器乐片段时，情绪效价不一致比一致的面孔图片产生了更大的N400。该结果与一些研究结果一致：无论启动刺激是单个和弦(Steinbeis&Koelsch,2011;Zhou,Liu, Jiang,& Jiang,2019)还是器乐片段(Goerlich et al.,2012; Zhang et al.,2019)时，情绪不一致比一致的面孔图片或具有情绪意义的单词都会诱发大脑产生一个较大的(类似)N400。本研究的 N400 可能主要反映了大脑对情绪冲突信息的检测与整合(Zhang et al.,2006,2010)。具体而言，启动刺激在概念水平上预先激活了与目标刺激有关的情绪表征，从而使情绪一致的目标刺激诱发的 N400 波幅减小(Goerlich et al.,2012)。然而，对于情绪不一致的目标刺激而言，由于与其相关的情绪表征没有提前被激活，因此被试需要更多的认知资源对情绪信息进行整合(Zhang et al.,2010)，导致 N400 波幅增大。由于这种激活具有自动化的性质(Zhanget al.,2006)，因而 N400与情绪信息的自动化整合加工有关。
+
+另一方面，本研究的N400主要产生于右侧额颞和中央顶区电极，表明N400 出现了右半球偏侧化现象。这与已有研究结果一致：当被试任务是判断目标刺激与启动刺激情绪(Schirmer et al.,2005)或意义(Painter& Koelsch,2011)是否一致时，N400 出现右侧化。的确，fMRI 研究也表明，纯音乐比歌曲激活了更多的右侧脑区，比如额中回、额下回和扣带回(Brattico etal.,2011)。但是，本研究结果也与ERP研究结果矛盾：与启动和弦或器乐情绪不一致的目标刺激诱发的 N400 源于整个头皮(Steinbeis & Koelsch,2011; Zhou et al.,2019)或前部区域(Goerlich etal.,2012)电极。这种矛盾可能源于被试任务的差异：在这些研究中，被试的任务是判断目标刺激的情绪效价；在本研究中，被试任务是判断目标刺激与启动刺激情绪效价的一致性，容易使被试较多关注启动刺激的情绪。未来研究需要对此进行探究。
+
+我们也发现，启动刺激为声乐片段时，情绪效价不一致比一致的面孔图片诱发了更大的LPC。该结果与先前研究结果一致：与启动歌曲(张伟霞等人 2018)和言语韵律(Pelletal.,2015;郑志伟，黄贤军,2013)情绪不一致的面孔图片诱发了较大的 LPC。本研究的 LPC 可能反映了注意资源的分配(Zhang et al.,2010,2012)。当启动刺激是歌曲时，由于歌曲本身的唤醒程度比较高，因而会引起被试较多的注意(Schupp etal.,2000)。同时，本研究的 LPC 也可能反映了情绪的整合加工(Herring et al.,2011)，因为听者需要先把歌词与音乐的情绪进行整合，然后再与面孔图片的情绪进行匹配。因为涉及言语信息，听者需要使用命题表征或思维有意识地对情绪信息进行加工(Strack& Deutsch,2004)，所以体现了反思性的整合加工(Imbir,Spustek,&Zygierewicz,2016)。然而，声乐情绪加工并没有产生N400。该结果验证了张伟霞等人(2018)的结果：与歌曲情绪不一致的面孔图片没有诱发 N400。这可能是因为 N400 与LPC 反映了不同的情绪整合功能。这种解释与情绪二元模型的观点一致(Jarymowicz&Imbir,2015)。该模型认为，个体对刺激做出情绪反应的过程涉及2个独立的评价系统——自动评价系统和反思评价系统(Jarymowicz&Imbir,2015)：前者不需要以言语为基础，后者则需要(Imbir et al., 2016)。
+
+就LPC 头皮分布而言，本研究的LPC主要产生于左侧额中和顶枕电极，表明了LPC 的左半球偏侧化。这与已有研究结果一致：当单词情绪与反思评价系统相关(Imbir etal.,2016)或启动面孔与目标面孔情绪不一致(Cheal,Heisz,Walsh,Shedden,& Rutherford,2014)时，左侧电极产生了较大的LPC。fMRI研究也表明，歌曲比纯音乐激活了更多的左侧脑区，比如颞上回、壳核、楔叶和小脑山坡(Brattico etal.,2011)。然而，本研究结果也与 ERP 研究结果不一致：与启动歌曲或言语韵律情绪不一致的面孔图片诱发的LPC 产生于整个头皮(张伟霞等人,2018)或双侧顶枕区(Pelletal.,2015；郑志伟，黄贤军,2013)电极。这种矛盾可能与不同研究使用的启动刺激材料情绪效价和唤醒程度的差异有关。由于这些研究没有提供相关数据，我们难以确定产生矛盾结果的具体原因。
+
+致谢：感谢上海师范大学音乐学院蒋存梅教授在本文写作中提供的帮助；感谢上海公共卫生临床中心蔡丹超博士、中国科学院心理研究所孙丽君博士以及重庆邮电大学李沛洋老师在ERP数据分析和作图方面提供的帮助。
+
+# 参考文献
+
+龚栩，黄宇霞，王妍，罗跃嘉.(2011).中国面孔表情图片系统的修订．中国心理卫生杂志,25(1),40-46.  
+张伟霞，王莞琪，周临舒，蒋存梅.(2018).歌词对音乐情绪加工的影响：行为与ERP研究．心理学报,50(12),1346-1355.  
+郑志伟，黄贤军.(2013).情绪语音调节面孔表情的识别:ERP证据．心理科学,36(1),33-37.  
+Ali,S. O.,& Peynircioglu, Z.F. (2o06).Songs and emotions: Are lyricsand melodies equal partners? PsychologyofMusic,34(4),511-534.
+
+Bratico,E.,lluri,V.,Bogert,B.,Jacobsen,T.,Vartiainen,N.,ieminen,S.,&Trvaniemi,.().Afunctional MRI study of happy and sad emotions in music with and without lyrics.Frontiers in Psychology, 2. doi:10.3389/fpsyg.2011.00308
+
+Cheal,J.L.,eisz,J.J,Walsh,J.A.,hedden,J.,&utherford,.D.(14).Afterimageinducedneuralaciiy during emotional face perception. Brain Research, 1549,11-21.   
+Diamond,E.,& Zhang, Y. (2016). Cortical processing of phonetic and emotional information in speech:Acrossmodal priming study. Neuropsychologia, 82,110-122.   
+Faul,F.,Erdfelder,E.,Lang,A.-G,&Buchner,A.(Oo7). G\*Power3: Aflexiblestatisticalpower analysis program for the social, behavioral,and biomedical sciences.Behavior Research Methods,39(2),175-191.   
+Focker, J., & Roder,B. (2019).Event-related potentials reveal evidence for late integration of emotional prosody and facial expresson in dynamic stimuli: An ERP study. Multisensory Research,32(6), 473-497.   
+Franco,F., Chew, M.,& Swaine,J.S.(20l7).Preschoolers'attribution ofaffct to music: Acomparison between vocal and instrumental performance. Psychology of Music, 45(1),131-149.   
+Goerlich,K.S., Witteman,J.,Schiler,N.O.,Van Heuven,V.J.,Aleman,A.,& Martens,S.(2O12).Thenatureof affective priming in music and speech. Journal of Cognitive Neuroscience,24(8),1725-1741.   
+Hajcak,G., & Olvet,D.M. (2oo8). The persistence of atentionto emotion: Brain potentials during and after picture presentation. Emotion, 8(2),250-255.   
+Hajcak,G., MacNamara, A.,& Olvet, D. M. (2010). Event-related potentials, emotion,and emotion regulation: An integrative review. Developmental Neuropsychology,35(2),129-155.   
+Herring,D.R.,Taylor,J.H.,White,K.R.,&Crites Jr,S.L. (2O11).Electrophysiologicalresponses to evaluative priming: The LPP is sensitive to incongruity. Emotion, 11(4),794-806.   
+Imbir,K. K., Spustek,T.,& Zygierewicz,J.(2016).Effects of valenceand origin of emotions in word processng evidenced by event related potential correlates in a lexical decision task. Frontiers in Psychology, 7. doi: 10.3389/fpsyg.2016.00271   
+Jarymowicz,M.T.,& Imbir,K.K. (2O15).Toward a human emotions taxonomy (based on their automatic vs. reflective origin). Emotion Review, 7(2),183-188.   
+Kraus,D.,& Horowitz-Kraus,T. (20l4).The effect of learning on feedback-related potentials in adolescents with dyslexia: An EEG-ERP study. PLoS ONE,9(6),e100486.doi:10.1371/journal.pone.0100486   
+Kutas,M.,& Federmeier,K.D. (2011).Thirty years and counting: Finding meaning in the N400 component of the event-related brain potential (ERP). Annual Review of Psychology, 62(1), 621-647.
+
+Loui,P.,Bachorik,J.P.,Li,H.C.,& Schlaug,G.(2O13).Effectsof voice onemotional arousal.Frontiersin Psychology, 4. doi:10.3389/fpsyg.2013.00675
+
+Luck,S.J. (014).An introduction to the event-related potential technique (2nd ed.). Cambridge,MA: The MIT Press.   
+Maris，E.，& Oostenveld,R. (2007). Nonparametric statistical testing of EEG- and MEG-data. Journal of Neuroscience Methods,164(1),177-190.   
+Oostenveld,R.,Fries,P.,Maris,E.,& Schofelen,J.-M. (2011).FieldTrip: Open source software for advanced analysis of MEG， EEG, and invasive electrophysiological data. Computational Intelligence and Neuroscience,1-9.doi:10.1155/2011/156869.   
+Painter, J. G.,& Koelsch,S.(2011). Can out-of-context musical sounds convey meaning? An ERP study on the processing of meaning in music. Psychophysiology, 48(5), 645-655.   
+Paulmann, S., & Pell, M.D. (2010). Contextual influences of emotional speech prosody on face processing: How much is enough? Cognitive, Affective, & Behavioral Neuroscience,10(2), 230-242.   
+Paulmann, S.,& Uskul,A. K. (2O17).Early and late brain signatures of emotional prosody among individuals with high versus low power. Psychophysiology, 54(4), 555-565.   
+Pell,M.D.,Rothermich,K.,iu,P.,Paumann,S.,Sethi,S.,&Rigoulot,S.(1).Preferential decodingofeotion from human non-linguistic vocalizations versus speech prosody. Biological Psychology,11,14-25.   
+Schirmer,A.,Kotz,S.A.,& Friederici,A. D.(2005). On the role of attention for the processing of emotions in speech: Sex diferences revisited. Cognitive Brain Research,24(3), 442-452.   
+Schupp,H.T.,Cuthbert,B.N.,Bradley,M.M.,Cacioppo,J.T.,Ito,T.,&Lang,P.J. (20oo).Affective picture processing: The late positive potential is modulated by motivational relevance. Psychophysiology, 37(2), 257-261.   
+Steinbeis,N.,& Koelsch,S.(2011). Affective priming efects of musical sounds on the processing of word meaning. Journal of Cognitive Neuroscience,23(3),604-621.   
+Strack,F.,& Deutsch,R. (2004). Reflective and impulsive determinants of social behavior. Personality and Social Psychology Review, 8(3),220-247.   
+Straton,V.N.,& Zalanowski, A. H. (1994). Affective impact of music vs.lyrics.Empirical Studies of the Arts, 12(2),173–184.   
+Zhang,Q., Kong,L.,& Jiang, Y.(2O12).The interaction of arousal and valence in affective priming: Behavioral and electrophysiological evidence. Brain Research, 1474,60-72.   
+Zhang,Q.,Lawson,A.,Guo,C.,& Jiang,Y. (2006).Electrophysiological correlates of visual afective priming. Brain Research Bulletin,71(1-3),316-323.   
+Zhang,Q.,Li, X., Gold,B.T.,& Jiang,Y. (201O). Neural correlates of cross-domain affective priming.Brain Research,1329,142-151.   
+Zhang,W.,Liu,F.,Zhou,L., Wang,W.,Jiang,H.,&Jiang,C. (2019).The efects of timbre on neuralresponses to musical emotion.Music Perception,37(2),134-146.   
+Zhou,L.,Liu,F.,Jiang,J.,& Jiang,C. (2019). Impaired emotional processng of chords incongenital amusia: Electrophysiological and behavioral evidence. Brain and Cognition， 135， 103577. doi: 10.1016/j.bandc.2019.06.001
+
+# Emotional processing in vocal and instrumental music: An ERP study
+
+JIANG Jun1; ZHANG Weixia ²; WANG Wanqi³ (l Music College, Shanghai Normal University, Shanghai 2O0234, China) 0 $^ 2$ College of Education, Shanghai Normal University， Shanghai 2Oo234, China) （ $^ 3$ School of Finance and Business, Shanghai Normal University, Shanghai 2Oo234, China)
+
+Abstract: The event-related potential (ERP) technique was used to investigate whether there are different neural responses to musical emotion when the same melodies are presented in the voice and instrumental timbre such as the violin. With a crossmodal affective priming paradigm, target faces were primed by affectively congruent or incongruent vocal and instrumental music. Participants were asked to judge whether the prime-target pair was affectively congruent or incongruent. The results revealed a larger late positive component (LPC) at the time window of 473\~677 ms in response to affectively incongruent versus congruent trials in the vocal version, whereas a larger N400 effect at the time window of 281\~471 ms was observed in the instrumental version. These results indicate differential patterns of neurophysiological responses to emotion processing of vocal and instrumental music.
+
+Key words: vocal music; instrumental music; emotion processing; N4Oo; LPC

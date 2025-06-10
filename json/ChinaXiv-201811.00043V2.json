@@ -1,0 +1,657 @@
+[
+    {
+        "type": "text",
+        "text": "区域医疗健康平台中检验检查指标的标准化算法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张佳影 王祺¹ 张知行‘ 阮彤 张欢欢」 何萍²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1（华东理工大学 上海市 200237)2（上海申康医院发展中心上海市 200041)（zhangjy_ecust@163.com）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lab Indicator Standardization in a Regional Medical Health Platform ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Jiayingl,Wang $\\mathrm { Q i ^ { 1 } }$ ,Zhang Zhixingl,Ruan Tongl, Zhang Huanhuanl and He Ping²   \n1（East China University of Science and Technology, Shanghai 200237)   \n2（Shanghai Hospital Development Center, Shanghai 200041) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractDue to the lack of a complete synonym list for indicator mapping,diferent hospitals may use diffrent names for the same lab indicator. Lab indicator name discrepancy has greatly affected the medical information sharing and exchange among hospitals.It is becoming increasingly important to standardize the lab indicators.Such a problem can be seen as an entity alignment task to map different indicators into standard ones.However,a lab indicator only involves its name and value,not including any extra properties or contexts which is needed by existing knowledge base (KB)alignment or entity linking methods.More importantly, there exists no available standard KBs to provide standard indicator terms.Therefore,we cannot implement these existing methods directly.To solve the problem,in this paper,we present the first efort to work on lab indicator standardization.We propose a novel standardization method，which firstly cluster the indicators based on their names and abbreviations,and then iteratively employ a binary clasification algorithm based on similarity features and partition score features for indicator mapping.Experimental results on the real-world medical data show that the final clasification achieves a F1-score of $8 5 . 2 7 \\%$ ， which indicates that our method improves the quality and outperforms state-of-the-art approaches. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsregional medical health platform; lab indicator; standardization; clustering; classification摘要由于没有完整可用的指标同义词库以进行指标映射，各家医院关于同一检验检查指标的不同称谓，已严重影响到了区域间医疗信息的互联共享，因而需要对检验检查指标进行标准化处理，这可以看作是一个实体对齐问题，但指标只有相应的取值和取值范围，难以像知识库实例匹配那般使用到属性信息，也不似实体链接那般拥有上下文信息，而且不存在一个标准知识库来提供所有指标的标准名称。该文针对以上问题，提出指标标准化算法，先根据指标字面特征进行聚类，再使用相似度特征和分块打分特征迭代地进行二分类映射。实验表明，最终的二分类映射，其F1-score可以达到 $8 5 . 2 7 \\%$ ，证明了该方法的有效性.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词区域医疗健康平台；检验检查指标；标准化；聚类；分类中图法分类号TP391",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着医疗信息化的不断深入，国内外在现有医疗体系之上相继建立起了区域医疗健康平台。以上海市为例，随着上海市医联工程项目在2008年3月正式投入使用，上海市建成了包括市内38家三级医院的临床诊疗信息共享平台，实现了对患者的基本信息、基本病历资料、住院病案资料、医嘱资料、医疗费用资料、实验室检验检查报告、医学影像检查报告的交换共享，并通过网站等其它辅助系统加强各医院间的协同诊疗。然而，由于历史原因，各家医院关于同一检验检查指标的称谓不尽相同。仅以“血清钠”为例，便有“钠离子浓度”“ $\\mathrm { \\Delta \\ N A ^ { + } }$ ”“动脉血钠”“血钠(Na)”等10多种不同说法。由于目前并没有完整可用的指标同义词库以进行指标映射，这一问题已严重影响到了区域间医疗信息的互联共享。由此，对区域医疗健康平台中检验检查指标做标准化处理，将各家医院的同一指标的不同称谓映射成统一的标准名称，便显得至关重要。然而，由于检验检查指标涉及到大量的医学知识，加之各家医院的指标体系纷繁庞杂，由医学专业人员对其进行人工标准化，需要耗费大量的时间与精力。因此，如何设计一个检验检查指标的标准化算法，便成了关键所在。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检验检查指标的标准化问题，可以看作是一个实体对齐问题，即将医疗健康平台中的候选指标映射到标准指标上。关于实体对齐，目前主要有两类任务，分别是不同知识库中实体间的实例匹配[I][2]，以及文本中实体和知识库实体之间的实体链接[3]4]。前者常利用知识库中实体的属性信息进行实例匹配，后者常利用文本中实体的上下文信息与知识库中实体的属性信息进行实体链接。然而，本文的任务与以上两种任务都不同：检验检查指标存在于电子病历之中，只有相应的取值及取值范围，而不存在属性信息；同时，它也不似文本中实体那般拥有上下文信息；更重要的是，本文任务中并不存在一个标准知识库来提供所有指标的标准名称。也就是说，目前的方法都难以直接适用于本任务。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "有鉴于此，针对区域医疗健康平台中的检验检查指标标准化问题，本文提出了一种指标标准化算法框架，首先对指标数据进行预处理，接着利用指标的字面特征，通过基于密度的聚类算法，将不同的指标聚为一个个簇，以缩小指标的对齐范围。然后，为每一个簇确定一个标准名称，并利用二分类算法找出簇内标准名称的同义指标。对于剩下非同义指标，从中筛选出一个新的标准名称，继续利用二分类算法进行同义指标的查找1，如此迭代进行，直到所有簇内均为同义指标或簇内只剩1个指标为止。最后，再由医学专业人员对指标对齐结果进行修正处理。实验结果表明，在上海市8家三级医院的实验数据集上，最终的二分类映射算法F1-score可以达到 $8 5 . 2 7 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "区域医疗健康平台中的检验检查指标标准化问题，可以看作是一个实体对齐问题，即将各家医院的不同指标称谓映射到统一的标准指标上。目前的实体对齐任务基本可以分为两类，分别是不同知识库中实体间的实例匹配，以及文本中实体和知识库中实体之间的实体链接。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "许多研究聚焦于知识库实体间的实例匹配，这些研究利用知识库中实体的属性信息进行匹配，它们基本可以分为两类，分别是成对实体匹配方法和集体实体匹配方法。成对实体匹配方法主要有基于传统概率模型的方法、有监督学习的方法、聚类方法和主动学习方法。传统概率模型方法根据属性相似性进行成对实体比较[5][6]，有监督学习方法常使用决策树[][7][8]、支持向量机[2][9]、集成学习[10][]等方法进行二分类，聚类方法利用属性相似性进行实体聚类[12][13][14]，主动学习方法通过人机交互不断迭代来训练分类模型[15][16][17]。集体实体匹配方法则将实体的关联实体也纳入考虑，常见的方法有LDA方法[18][19]、CRF模型[13][20]、Markov 逻辑网[21][22]等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "就文本中实体与知识库实体间的实体链接而言，主要有基于概率生成模型的方法[3][23]、基于主题模型的方法[4][24]、基于图的方法[25][26][27][28]和基于深度神经网络的方法[29][30][31][32]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "需要注意的是，本文的研究内容和以上两种研究都不相同：检验检查指标存在于电子病历之中，只有相应的取值和取值范围，难以像知识库实例匹配那般使用到属性信息；同时，它也不似文本中实体那般拥有上下文信息，因而难以使用实体链接的方法；更重要的是，本文任务中并不存在一个标准知识库以提供所有指标的标准名称。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2指标标准化算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "指标标准化算法的整体流程如图1所示。首先，对指标数据进行预处理，实现大小写统一、单位统一和指标参考值提取。接着，利用指标的字面特征，通过基于密度的聚类算法，将不同的指标聚为一个个指标簇，以缩小指标的对齐范围。然后，为每一个簇确定一个标准名称，并利用二分类算法找出簇内标准名称的同义指标，进行指标映射。对于剩下非同义指标，从中筛选出一个新的标准名称，继续利用二分类算法进行同义指标的查找，如此迭代进行，直到所有簇内均为同义指标或簇内只剩1个指标为止。最后，再由医学专业人员对指标对齐结果进行修正处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/253d60f88d361b4df03241870ab967fcba7ee51533aab809743345bad47ab38e.jpg",
+        "img_caption": [
+            "Fig.1 Overall processof indicatorstandardizationalgorithm. ",
+            "图1指标标准化算法整体流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "病历中的指标数据，排除选填项²，必填项中主要包括指标名称、缩写、参考值、单位、所属检查项、检查指标结果、异常指标提示等字段。其中，所属检查项因各家医院标准不一、检查指标结果因其取值因病人而异、异常指标提示因不具有指标区分度而失去作为指标标准化特征的意义。因此，可用的字段基本仅限于指标名称、缩写、参考值和单位这4项。对指标进行数据预处理，主要是统一指标大小写、统一指标单位，以及提取指标参考值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2指标聚类 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为缩小指标的对齐范围，本文使用基于密度的聚类算法，将不同的指标聚到一个个指标簇中。基于密度的聚类算法依据样本分布的紧密程度来划分簇，它主要考察样本的可连接性，并在可连接样本的基础上通过不断扩展聚类簇来获得最终结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文基于DBSCAN[33]算法，使用指标名称及其缩写进行指标聚类。具体来说，给定指标集合 $D / = \\{ \\boldsymbol { x } _ { 1 }$ $X _ { 2 } , . . . , X _ { n }  \\}$ ， $\\chi _ { i } { = } ( \\chi _ { i } ^ { n a } , \\chi _ { i } ^ { a b } .$ ）， $i { = } 1 , 2 , . . . ,  { \\mathrm { n } }$ ，其中 $ { \\boldsymbol { X } } _ { i } ^ { n a }$ 表示第 $i$ 个指标的指标名称， $\\chi _ { i } ^ { a b }$ 表示第 $i$ 个指标的名称缩写，定义 $\\varepsilon \\cdot$ -邻域及核心对象为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义1（ $\\varepsilon$ -邻域）对于 $\\boldsymbol { x } _ { i } \\in D$ 它的 $\\varepsilon \\cdot$ 邻域为数据集 $D$ 中与 $x _ { i }$ 的距离不大于 $\\boldsymbol { \\varepsilon }$ 的所有样本，即$N _ { \\varepsilon } ( x _ { i } ) { = } \\{ x _ { i } { \\in } D ~ | \\operatorname { d i s t } ( x _ { i } , x _ { j } ) { \\leqslant } \\varepsilon \\} ~ .$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义2（核心对象）如果 $x _ { i }$ 的 $\\varepsilon$ -邻域内至少包含 minPts个样本，即 $\\left| N _ { \\varepsilon } ( x _ { i } ) \\right| \\geqslant m i n P t s$ ，那么 $x _ { i }$ 是一个核心对象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "特别地，在确定 $\\varepsilon$ -邻域时，本文定义了联合距离$d i s t _ { j o i n t } \\left( x _ { i } , x _ { j } \\right)$ ：将指标数据 $\\smash { \\chi _ { i \\setminus \\mathrm { ~ } } \\chi _ { j } }$ 分为两部分计算，首先计算multi-hot形式（0-1向量中不同的维度表示不同的汉字）的指标名称 $ { \\boldsymbol { X } } _ { i } ^ { n a }$ 、 $\\boldsymbol { \\chi } _ { j } ^ { n a }$ 的余弦距离:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd i s t _ { c o s } ( x _ { i } ^ { n a } , x _ { j } ^ { n a } ) = 1 - \\frac { \\sum _ { k = 1 } ^ { d } x _ { i , k } ^ { n a } x _ { j , k } ^ { n a } } { \\sqrt { \\sum _ { k = 1 } ^ { d } X _ { i , k } ^ { n a 2 } } \\sqrt { \\sum _ { k = 1 } ^ { d } X _ { j , k } ^ { n a 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后计算指标缩写 $\\chi _ { i } ^ { a b }$ 、 $\\ v { x } _ { j } ^ { a b }$ 的编辑距离:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd i s t _ { e d } ( x _ { i } ^ { a b } , x _ { j } ^ { a b } ) = \\frac { m e d ( x _ { i } ^ { a b } , x _ { j } ^ { a b } ) } { \\operatorname * { m a x } ( \\mid x _ { i } ^ { a b } \\mid , \\mid x _ { j } ^ { a b } \\mid ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mid x _ { i } ^ { a b } \\mid$ 是指标缩写 $\\boldsymbol { \\chi } _ { i } ^ { a b }$ 的字符串长度，（204号 $m e d ( x _ { i } ^ { a b } , X _ { j } ^ { a b } )$ 表示由 $\\boldsymbol { \\chi } _ { i } ^ { a b }$ 经插入、替换、删除操作转成 $\\chi _ { j } ^ { a b }$ 所需的最少操作次数。最后，利用调和平均综合两个距离得到联合距离：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd i s t _ { j o i n t } ( x _ { i } , x _ { j } ) = { \\frac { 2 \\times d i s t _ { _ { c o s } } ( x _ { i } ^ { n a } , x _ { j } ^ { n a } ) \\times d i s t _ { _ { e d } } ( x _ { i } ^ { a b } , x _ { j } ^ { a b } ) } { d i s t _ { _ { c o s } } ( x _ { i } ^ { n a } , x _ { j } ^ { n a } ) + d i s t _ { _ { e d } } ( x _ { i } ^ { a b } , x _ { j } ^ { a b } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "聚类算法从核心对象出发，不断向外扩展，进而生成聚类簇，其伪代码如算法1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/829cc6334ffbb979ec6928fe99ab588f83227509fc8d74ad40f34214b80458a5.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Algorithm1:Density-basedclusteringalgorithm</td><td></td></tr><tr><td>Input:(1) Indicators set D={ x1, X2,.., Xn}</td><td></td></tr><tr><td></td><td>(2) Neighborhood parameters(ε,minPts)</td></tr><tr><td></td><td>Output: Cluster partition C={C1, C2,..., Cm}</td></tr><tr><td></td><td>①Initialize the Core Object collection: T=@</td></tr><tr><td>②</td><td>for xi ∈D do</td></tr><tr><td>③</td><td>Determine the Eps-neighborhood: Nε( Xi)</td></tr><tr><td>④</td><td>if |Ne(xi)|≥minPts then</td></tr><tr><td>®</td><td>Add xi to the Core Object set: T=TU {xi}</td></tr><tr><td></td><td>end</td></tr><tr><td>? end</td><td></td></tr><tr><td></td><td>③ Initialize number of clusters: k=0,cluster set: C=@</td></tr><tr><td>while T≠ do</td><td>unvisited set: P=D</td></tr><tr><td></td><td>Record currently not visited collection: P'=P</td></tr><tr><td>1</td><td></td></tr><tr><td></td><td>Select a core Object o randomly from T;</td></tr><tr><td>?</td><td>Initialize the queue Q= [o]</td></tr><tr><td></td><td>Remove o from p,T:P=P-o; T=T-o</td></tr><tr><td>?</td><td>while Q= do Take the first sample q in queue Q</td></tr><tr><td>?</td><td>if |N(q)| ≥minPts then</td></tr><tr><td></td><td></td></tr><tr><td>?</td><td>S=Pn Ne(q)</td></tr><tr><td>?</td><td>Q=Q+S P=P-S</td></tr><tr><td></td><td></td></tr><tr><td>@</td><td>end</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/45cac5c737ffc6af28179d2d99be030785ca02c9007a529c49acb140e1f0e4ac.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>end k=k+1</td></tr><tr><td>?</td><td>Generatecluster:Ck=P'-P</td></tr><tr><td></td><td>T=T-Ck</td></tr><tr><td></td><td></td></tr><tr><td>© end</td><td></td></tr><tr><td>@ return C</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "需要注意的是，由于聚类是一个无监督的学习过程，它可能存在两个问题：1）聚为一簇的指标实际上医学含义不同，却因为名称相近或缩写相似而被归为一簇；2）有些离群值既不是核心对象，又不能通过核心对象访问，因而没有被聚类。因此，需要对聚类结果进行后处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 单位验证。假设同义指标的单位是相同的，那么可以对每一簇指标进行单位验证，将不同单位的指标分离为不同的簇。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 离群值推荐。对于未被聚类的离群值，有两种处理方案，第一种是按距离远近，将离群值分到单位相符且距离最近的那一簇中；第二种是考虑到离群值与其它簇都距离较远，很可能它本身就是一个全新的指标。本文采用第二种处理方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3簇内二分类 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "即使经过后处理，无监督聚类算法也无法保证簇内的指标皆为同义指标。因此，本文为每一个簇确定一个标准名称，并利用二分类算法将簇内指标划分为标准名称的同义指标和非同义指标两类。特别地，为方便医学专业人员对指标对齐结果进行后处理修正，考虑到标准指标应为最常用的指标，本文以簇内出现频次最多的指标为标准指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）数据增强",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于医学专业人员很难凭空枚举出所有的同义指标，加上有些指标可能会有与名称毫无联系的同义词（如“B型钠尿肽”和“脑钠素\")，因此在数据集生成方面，除由医学专业人员手动标注部分同义指标用于分类器训练之外，本文还利用SNOMEDCT知识库[34]、LOINC知识库[35]、百度百科3等途径来抽取标准指标的同义词用于训练。其中，SNOMEDCT知识库为全英文库，目前并无中文版本，因此需要借助百度翻译4、腾讯翻译5、爱词霸翻译等翻译工具将英文指标翻译为中文指标。需要注意的是，即使对同一个指标，翻译工具也有可能会得到不同的翻译结果，因此翻译本身也是获取同义词的途径之一。表1给出了“B型钠尿肽”经数据增强后的同义指标示例",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/71ca30b1b069f1099524b1a0d221f34aca720d745c01c6cf979df12a0cb5a4a9.jpg",
+        "table_caption": [
+            "Table1 An example of the Synonymous Indicators ",
+            "表1同义指标示例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Indicator Name</td><td>Synonym</td><td>Synonym Sources</td></tr><tr><td>B 型钠尿肽</td><td>脑尿钠肽</td><td>Baidu Encyclopedia</td></tr><tr><td></td><td>BNP</td><td>Baidu Encyclopedia</td></tr><tr><td></td><td>B 型利钠肽</td><td>LOINC,Tencent Translation</td></tr><tr><td></td><td>B-型利钠肽</td><td>Tencent Translation</td></tr><tr><td></td><td>B型钠尿肽</td><td>Baidu&iCIBATranslation</td></tr><tr><td></td><td>利钠肽B型</td><td>Baidu&iCIBATranslation</td></tr><tr><td></td><td>脑促尿钠排泄肽</td><td>iCIBA Translation</td></tr><tr><td></td><td>脑利钠肽(物质)</td><td>Tencent Translation</td></tr><tr><td></td><td>脑钠素</td><td>Baidu&iCIBATranslation</td></tr><tr><td></td><td>脑钠肽</td><td>Baidu & Tencent Translation</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）特征抽取 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文设计了2类特征用于指标的二分类，分别是相似度特征和分块打分特征：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 相似度特征",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这类特征主要考虑了簇中每一个候选指标与标准指标及其所有同义词的名称相似度和缩写相似度。为了方便描述，以名称相似度为例（缩写相似度也是同理)，我们规定簇中候选指标名称为 $\\chi ^ { n a }$ ，标准指标名称集合为 $S ^ { n a } = \\{ \\pmb { S } _ { 1 } ^ { n a } , \\pmb { S } _ { 2 } ^ { n a } , . . . , \\pmb { S } _ { n } ^ { n a } \\}$ ，其中下标 $n$ 为标准指标及其同义指标的总个数。我们使用以下4种相似度来度量：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最长公共子序列相似度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns i m _ { l c s } ( x ^ { n a } , S ^ { n a } ) = \\operatorname* { m a x } _ { i } \\frac { \\mid l c s ( x ^ { n a } , s _ { i } ^ { n a } ) \\mid } { \\operatorname* { m i n } ( \\mid x ^ { n a } \\mid , \\mid s _ { i } ^ { n a } \\mid ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mid x ^ { n a } \\mid$ 为候选指标名称的字符串长度， $l c s ( x ^ { n a } , s _ { i } ^ { n a } )$ 表示两个指标名称的最大公共子序列。这个相似度可以判定类似上下位关系的指标，比如“血糖”和“血糖（急诊）”在最长公共子序列相似度中为1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "-Jaccard相似度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$s i m _ { _ { J a c } } ( x ^ { n a } , S ^ { n a } ) = \\operatorname * { m a x } _ { i } { \\frac { \\mid X ^ { n a } \\cap \\pmb { s } _ { i } ^ { n a } \\mid } { \\mid X ^ { n a } \\cup \\pmb { s } _ { i } ^ { n a } \\mid } } ,$ 。这个相似度可以判定名称顺序不同的指标，比如“B型利钠肽”和“利钠肽B型”的Jaccard 相似度为1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "余弦相似度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns i m _ { \\mathrm { c o s } } \\left( x ^ { n a } , S ^ { n a } \\right) = \\operatorname* { m a x } _ { i } { \\frac { \\sum _ { k = 1 } ^ { d } { x _ { k } ^ { n a } } , \\ : s _ { i , k } ^ { n a } } { \\sqrt { \\sum _ { k = 1 } ^ { d } { x _ { k } ^ { n a } } ^ { 2 } } \\sqrt { \\sum _ { k = 1 } ^ { d } { s _ { i , k } ^ { n a } } ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中 $\\chi ^ { n a }$ 和 $\\pmb { s } _ { i } ^ { n a }$ 均为multi-hot形式（0-1向量中不同的维度表示不同的汉字）。这个相似度衡量的是两个multi-hot形式的指标名称的余弦夹角，它受到类似中间插入“-”等格式问题的影响更小一些。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "编辑相似度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm e d ( x ^ { n a } , S ^ { n a } ) = \\operatorname* { m a x } _ { i } ( 1 - \\frac { m e d ( x ^ { n a } , { \\pmb s } _ { i } ^ { n a } ) } { \\operatorname* { m a x } ( \\mid x ^ { n a } \\mid , \\mid { \\pmb s } _ { i } ^ { n a } \\mid ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\vert x ^ { n a } \\vert$ 是指标名称 $\\chi ^ { n a }$ 的字符串长度， $m e d ( x ^ { n a } , { \\pmb { s } } _ { i } ^ { n a } )$ 表示由 $\\chi ^ { n a }$ 经插入、替换、删除操作转成 $\\pmb { s } _ { i } ^ { n a }$ 所需的最少操作次数。这个相似度衡量的是两个指标名称的编辑距离。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 基于一对多字段的分块打分特征",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分块打分特征主要是针对指标参考值这种一对多的字段而言。对于指标参考值来说，由于不同医院对同一个指标，在参考值的上下界设置上有时会略有不同，因此实践中存在着一个指标名称对应多个参考值的现象。为应对这一问题，本文参考文献[36]中的知识库实体对齐分块算法，提出基于参考值的指标分块打分算法。指标分块打分算法基于以下假设：第一，相同的指标拥有相似的参考值；第二，拥有相似参考值的可能就是同一个指标。因此，本文的分块打分算法由两部分组成：首先，为标准指标的每一种参考值寻找一个与之最相似的候选指标参考值；然后，从这些最相似的参考值出发，构建候选指标与标准指标之间的匹配分块。需要注意的是，由于同一个指标可能有多种参考值，算法允许同一个指标出现在不同的块中。本文根据不同块的权重求出候选指标的加权平均得分，以此作为分类特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "具体来说，给定簇中某一候选指标 $x$ ，它所对应的参考值集合为 $X ^ { r e f } = \\{ x _ { 1 } ^ { r e f } , x _ { 2 } ^ { r e f } , . . . , x _ { n } ^ { r e f } \\}$ ，其中 $x _ { i } ^ { r e f }$ 表示候选指标 $x$ 的第 $i$ 种参考值范围，以及标准指标（及其同义指标的）参考值集合 $S ^ { r e f } = \\{ s _ { 1 } ^ { r e f } , s _ { 2 } ^ { r e f } , . . . , s _ { m } ^ { r e f } \\}$ 人，其中 ${ S _ { i } ^ { r e f } }$ 表示标准指标 $s$ 的第 $i$ 种参考值范围。本文定义参考值相似度如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定义3（参考值相似度）给定两个指标参考值$x ^ { r e f }$ 和 $s ^ { r e f }$ ，定义参考值相似度$s i m _ { r e f } ( x ^ { r e f } , s ^ { r e f } ) = \\frac { \\mid x ^ { r e f } \\cap s ^ { r e f } \\mid } { \\mid x ^ { r e f } \\cup s ^ { r e f } \\mid } .$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于标准指标的每一个参考值 ${ \\cal S } _ { i } ^ { r e f }$ ，本文都从簇中找出一个与 ${ S _ { i } ^ { r e f } }$ 最相似的候选指标的参考值 $x _ { j } ^ { r e f }$ 使得 $s i m _ { r e f } ( x _ { j } ^ { r e f } , s _ { i } ^ { r e f } ) = m a x s i m _ { r e f } ( x _ { k } ^ { r e f } , s _ { i } ^ { r e f } )$ ，并将这两个指标组成参考值对 $p _ { i } ^ { r e f } = \\mid x _ { j } ^ { r e f } , s _ { i } ^ { r e f } \\mid$ 。根据参考值对$p _ { i } ^ { r e f }$ ，可以构建指标集对 $p _ { i } { = } ( \\chi _ { i } , \\ S _ { i } )$ ，其中 $\\chi _ { i }$ 为所有参考值为 $x _ { j } ^ { r e f }$ 的候选指标的集合， $\\boldsymbol { \\mathscr { S } } _ { i }$ 为所有参考值为${ S _ { i } ^ { r e f } }$ 的标准指标及其同义指标的集合。进而定义参考值对相似度如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "定义4（参考值对相似度）给定两个参考值对$p _ { I } ^ { r e f }$ 和 $p _ { 2 } ^ { r e f }$ ，定义参考值对相似度$s i m _ { p \\_ r e f } ^ { \\ r e f } ( p _ { l } ^ { r e f } , p _ { 2 } ^ { r e f } ) = { \\frac { s i m _ { p \\_ \\mathrm { c o s } } ( X _ { 1 } , X _ { 2 } ) + s i m _ { p \\_ \\mathrm { c o s } } ( S _ { 1 } , S _ { 2 } ) } { 2 } }$ 其中 $s i m _ { p _ { - } \\mathrm { c o s } } ( X _ { 1 } , X _ { 2 } )$ 表示将指标集合 $\\chi _ { 1 }$ 、表示成one-hot形式(0-1向量中不同的维度表示不同的指标）后两者的余弦相似度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，标准参考值 $S _ { 1 } ^ { r e f }$ 为区间[0,100]，其最相似的候选参考值 $x _ { 1 } ^ { r e f }$ 为区间[0,100]，故其对应指标集对为 $p _ { 1 } { = } ( X _ { 1 } , S _ { 1 } ) { = } ( \\{ \\mathrm { A } , \\mathrm { B } \\} , \\{ \\mathrm { a } , \\mathrm { b } \\} )$ 。同理，标准参考值 $S _ { 2 } ^ { r e f }$ $ \\scriptstyle = [ 0 , 1 2 5 ]$ 所对应的指标集对$p _ { 2 } { = } ( X _ { 2 } , \\ S _ { 2 } ) { = } ( \\{ \\mathrm { A } , \\mathrm { B } , \\mathrm { C } \\} , \\{ \\mathrm { a } , \\mathrm { b } \\} )$ 由此 ，$s i m _ { p _ { - } r e f } ( p _ { 1 } ^ { r e f } , p _ { 2 } ^ { r e f } ) = ( \\frac { 2 } { \\sqrt { 6 } } + 1 ) / 2 = 0 . 9 0 8 2 \\ : \\mathrm { . }$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/30a18f80bcfdd7b38f18387dd711bce2453a1d4c3af4307899525a1ed3447329.jpg",
+        "img_caption": [
+            "Fig.2 A schematic diagram about how to calculate similarity of reference value pairs. ",
+            "图2参考值对相似度计算示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在匹配分块时，如果两个参考值对的相似度大于阈值0，即 $s i m _ { p _ { - } r e f } ( p _ { 1 } ^ { r e f } , p _ { 2 } ^ { r e f } ) > \\Theta$ ，则其候选指标集合 $\\chi _ { 1 } , \\chi _ { 2 }$ 和标准指标集合 $s _ { 1 } , s _ { 2 }$ 将被纳入同一个分块中。直观上来说，如果两个参考值对共同拥有的指标越多，它们就越有可能被分为一块。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分块完成后，本文将对每一块做打分处理。定义分块结果 $B { = } \\{ B _ { 1 } , B _ { 2 } , . . . , B _ { \\mathrm { { n } } } \\}$ ，其中 $n$ 是块的个数。对于任意一个块 $B _ { i }$ ，其得分$s c o r e _ { i } { = } \\alpha + ( l - \\alpha ) \\frac { \\mid B _ { i } \\cap S ^ { \\prime } \\mid } { \\mid B _ { i } \\mid }$ ，其中 $\\frac { \\mid B _ { i } \\cap S ^ { \\prime } \\mid } { \\mid B _ { i } \\mid }$ 为块中标准指标所占的比重， $s$ 为所有标准指标的集合， $\\alpha$ 是权重参数。块 $\\beta _ { i }$ 中的所有指标共享同一个scorei得分。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于算法允许一个指标出现在不同的块中，因此，一个指标可能会拥有多个不同的分数，需要根据不同块的权重 $\\beta _ { i }$ 求出它的加权平均得分$s c o r e ^ { \\cdot } = \\sum _ { i } \\beta _ { i } s c o r e _ { i }$ 。作为指标标准化算法的初步尝试，本文简单地认为所有块的权重相同。特别地，如果某指标一个块也没被分入，则其得分为0。这也是上文计算块中得分scorei时进行加权平滑的原因：只要指标能被分入块中，便拥有一个基础得分。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上，我们就得到了每个指标基于参考值的分块打分特征。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4重定义簇",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "簇内二分类将簇内指标划分为标准指标的同义指标与非同义指标。针对非同义指标，本文将其单独取出作为一个新的簇，并从中筛选出一个新的标准名称，继续利用二分类算法进行同义指标的查找，如此迭代进行，直到所有簇内均为同义指标或簇内只剩1个指标为止。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5指标映射与修正",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "到此阶段，指标标准化算法已进入尾声，只需把簇内的同义指标统一映射为对应的标准指标，并交由医学专业人员对指标的对齐结果进行核验与修正。特别地，聚类过程中可能会把同义的指标分到不同的簇中，二分类过程把簇中非同义指标剔除出来后，人工核验时还需对同义的簇进行合并。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3实验结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1数据集",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文从上海临床诊疗信息共享平台中抽取指标数据集进行实验。在指标数据的抽取过程中，本文考虑了两个因素：第一，指标的种类要丰富，否则无法模拟实际应用场景；第二，同义指标的名称要多样化，否则指标的标准化没有意义。因此，本文以医院为单位，抽取其中所有的指标，保证了丰富性；同时选取了不同指标名称最多的前8家医院，以满足多样性。这8家医院的不同指标名称数量分别为：1404、1243、1098、1010、992、958、921、849，合并去重后共有5211个不同指标名称。在扩充了这些指标名称的缩写字段之后，不同的记录数为7542条；在扩充了这些指标名称的缩写和参考值字段之后，不同的记录数达到了12750条。在聚类实验部分，本文选择了236条数据进行评测。在二分类实验部分，本文以正负例1:1的比例进行采样，并将采样结果按7:3的比例划分为训练集和测试集，最终得到947条训练样本和406条测试样本。本文另外选取了100个正例和100负例作为验证集。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2实验设置 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文通过在验证集上网格搜索，采用参数$\\mathop { m i n } P t s = 3$ ， $\\varepsilon = 0 . 3 5$ ，阈值 $\\scriptstyle \\theta = 0 . 7$ ， $\\alpha { = } 0 . 6$ 进行实验，选取梯度上升决策树（gradient boostingdecision tree,GBDT）作为最终的二分类模型，并使用Precision、Recall和F1-score来评价聚类和二分类的效果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3实验结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1）聚类算法对比实验 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了考察本文所使用的基于密度的聚类算法（DBSCAN）的有效性，本文选取了四种常见的聚类算法进行对比，它们分别是k均值聚类（k-meansclustering，K-means）、均值漂移算法（mean shiftalgorithm，Meanshift）、高斯混合模型（gaussianmixturemodel,GMM)与凝聚层次聚类（agglomerativehierarchicalclustering，AHC）。需要注意的是，由于这四种基准算法除高斯混合模型外都需要事先定义簇数（而本文算法不需要)，在实验时本文将它们的聚类数目设为真实的簇数。实验结果如表2所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/eab2b9ff746536f738199782b0151434fbeacb3bfcb3f54c159a92e85474f61a.jpg",
+        "table_caption": [
+            "Table 2 Comparisons of our method and common clustering methods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Clustering Algorithm</td><td>Precision</td><td>Recall</td><td>F1-score</td></tr><tr><td>K-means</td><td>37.88</td><td>21.31</td><td>27.27</td></tr><tr><td>Meanshift</td><td>34.93</td><td>18.85</td><td>24.49</td></tr><tr><td>GMM</td><td>42.17</td><td>23.98</td><td>30.58</td></tr><tr><td>AHC</td><td>35.16</td><td>20.30</td><td>25.74</td></tr><tr><td>Our DBSCAN</td><td>27.85</td><td>91.36</td><td>42.68</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表中可以看出，本文基于密度的聚类算法的F1-score明显高于其它4种聚类算法，其提高幅度均在 $10 \\%$ 以上。然而，虽然本文方法的Recall能达到$91 . 3 6 \\%$ ，但Precision仍然不是很高，这也显示了本文在聚类后进一步进行二分类映射的必要性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2）二分类算法对比实验 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 不同分类特征和不同分类器的对比",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了考察不同分类特征和不同分类器对分类性能的影响，本文选择不同的特征组合，将它们在逻辑回归（logistic regression，LR）、朴素贝叶斯（naivebayes，NB）、 $\\mathbf { k }$ 近邻（k-nearest neighbor，KNN）、支持向量机（support vector machine，SVM）、随机森林（randomforest，RF）、梯度上升决策树（gradientboostingdecisontree，GBDT）等不同分类器下的F1-score进行对比。实验结果如表3所示，其中特征字段的名称（name）、缩写（abbreviation，Abbr.）和参考值（referencevalue，Ref.）分别表示名称相似度特征、缩写相似度特征和参考值分块打分特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2680d1e747566db6b8ec5d6d4344f63b13b79142d764ea0f8a79e592b883f767.jpg",
+        "table_caption": [
+            "表2不同聚类算法的性能对比",
+            "Table 3 Comparisons of differentclassification features and different classifiers ",
+            "表3不同分类算法的性能对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Features</td><td>LR</td><td>NB</td><td>KNN</td><td>SVM</td><td>RF</td><td>GBDT</td></tr><tr><td>Name</td><td>76.56</td><td>74.59</td><td>76.58</td><td>75.26</td><td>76.17</td><td>76.96</td></tr><tr><td>Abbr.</td><td>74.24</td><td>73.63</td><td>73.95</td><td>74.16</td><td>77.64</td><td>77.25</td></tr><tr><td>Ref.</td><td>74.09</td><td>70.38</td><td>75.83</td><td>53.96</td><td>77.92</td><td>78.71</td></tr><tr><td>Name+Abbr.</td><td>79.10</td><td>77.67</td><td>78.82</td><td>78.14</td><td>83.03</td><td>81.05</td></tr><tr><td>Name+Ref.</td><td>78.55</td><td>75.86</td><td>76.50</td><td>75.90</td><td>82.60</td><td>82.45</td></tr><tr><td>Abbr.+Ref.</td><td>77.11</td><td>74.94</td><td>76.03</td><td>74.44</td><td>80.31</td><td>80.83</td></tr><tr><td>Name+Abbr.+Ref.</td><td>79.30</td><td>78.55</td><td>78.05</td><td>78.47</td><td>83.94</td><td>85.27</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表中可以看出，当使用名称相似度特征、缩写相似度特征和参考值分块打分特征，辅以GBDT分类器时，分类效果最好，其F1值可达 $8 5 . 2 7 \\%$ 。从表中横向来看，无论使用哪种特征，大部分情况下都是",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "GBDT分类效果最好，而NB分类效果最差。这是因为GBDT使用Boosting方法进行集成学习，能够有效提高泛化性能，而NB分类器的条件独立假设在本文中很难成立。从表中纵向来看，无论哪种分类器，基本都是随着特征数目的增多，分类效果越来越好，当使用全部三类分类特征时，分类效果达到最好。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 与现有方法的对比",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最后，本文还从最近三年来发表的实体对齐方法中选择了3种 state-of-the-art方法，与本文所使用全部三类特征辅以GBDT分类器的二分类方法进行对比，这3种基准方法分别是：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "知识图谱融合方法（KGFusion）：Wang 等人[37]设计不同类型的属性相似度，使用机器学习方法进行多源知识图谱的融合。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "诊断对齐方法（Diag.Alignment)：Ning 等人[38]利用诊断的上下位信息和属性相似度将中文诊断映射为ICD 编码。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "知识库对齐方法（KBAlignment)：王雪鹏等人[39]利用网络语义标签进行多元知识库的实体对齐。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "需要注意的是，由于本文任务中既没有属性信息，又没有上下文信息，所以在实际实验中3种基准方法的部分特征没法使用，而主要使用了其中的实体名称和缩写的相似度计算方法。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与现有方法的对比实验结果如表4所示。从表中可以看出，本文方法在所有方法中取得了最好的分类结果，其Precision、Recall和F1-score分别为 $8 6 . 8 4 \\%$ 、$8 3 . 7 6 \\%$ 和 $8 5 . 2 7 \\%$ 。值得注意的是，对比表3最后一列，当使用GBDT分类器时，本文方法的任意两类特征组合的F1-score都比现有方法来得好。这是因为本文的算法专门针对检验检测指标进行设计，因而能取得更好的效果。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/167e7c89e92bc0a8d18f52865dc343332a09b66aa4d9f1b8268d55dbd0e3f06c.jpg",
+        "table_caption": [
+            "Table 4 Performance comparison of entity alignment表4与现有方法的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Method</td><td>Precision</td><td>Recall</td><td>F1-score</td></tr><tr><td>KG Fusion</td><td>79.23</td><td>73.60</td><td>76.32</td></tr><tr><td>Diag. Alignment</td><td>81.67</td><td>74.62</td><td>77.98</td></tr><tr><td>KB Alignment</td><td>87.20</td><td>72.59</td><td>79.22</td></tr><tr><td>Ours</td><td>86.84</td><td>83.76</td><td>85.27</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文针对区域医疗健康平台中的检验检查指标标准化，先根据指标的字面特征进行聚类，再使用相似度特征和分块打分特征迭代地进行二分类映射。实验表明，最终的二分类映射，其F1-score可以达到$8 5 . 2 7 \\%$ ，优于现有方法。在未来，可以将指标的同义词信息及参考值信息应用到聚类算法之中，并尝试使用更多的相似性度量特征，以获得更好的结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5致谢 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "感谢上海中医药大学的张海涛同学和同济大学医学院的李阳同学在数据集标注上提供的帮助。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Mining WI D.Data Mining:Concepts and Techniques[J].Morgan Kaufinann,2006.   \n[2] Vapnik V.The nature of statistical learning theory[M]. Springer science & business media,2013.   \n[3]Han X, Sun L.A generative entity-mention model for linking entities with knowledge base[C]//Proceedings of the 49th Annual Meeting of the AssociationforComputationalLinguistics:HumanLanguage Technologies-Volume 1.Association for Computational Linguistics,2011: 945-954.   \n[4] Zhang W,Sim Y C,Su J,et al.Entity linking with effective acronym expansion, instance selection,and topic modeling[C]//IJCAI.2011,2011: 1909-1914.   \n[5] Newcombe HB,KennedyJM,Axford S J,et al.Automatic linkage of vital records[J]. Science,1959: 954-959.   \n[6] Fellegi IP,Sunter A B.A theory for record linkage[J].Journal of the American Statistical Association,1969,64(328):1183-1210.   \n[7] Cochinwala M,Kurien V,Lalk G,et al.Efficient data reconciliation[J]. Information Sciences,2001,137(1-4):1-15.   \n[8] Elfeky MG, Verykios V S,Elmagarmid AK.TAILOR:A record linkage toolbox[C]//Data Engineering,2002.   \n[9] Christen P.Automatic training example selection for scalable unsupervised record linkage[C]//Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Berlin,Heidelberg,20o8:511-518.   \n[10] Kantardzic M.Data mining: concepts,models,methods,and algorithms[M]. John Wiley& Sons,2011.   \n[11] Chen Z,Kalashnikov D V,Mehrotra S.Exploiting context analysis for combining multiple entity resolution systems[C]//Proceedings of the 2009 ACM SIGMOD International Conference on Management of data.ACM, 2009:207-218.   \n[12] Cohen W W,Richman J.Learning to match and cluster large high-dimensional data sets for data integration[C]//Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining.ACM,2002: 475-480.   \n[13] McCallum A,Welner B.Conditional models of identity uncertainty with application to noun coreference[C]//Advances in neural information processing systems. 2005: 905-912.   \n[14]Pasula H,Marthi B,Milch B,etal.Identity uncertainty and citation matching[Cl//Advances in neural information processing systems. 2003: 1425-1432.   \n[15] Sarawagi S,Bhamidipaty A. Interactive deduplication using active learning[C]//Proceedingsof theeighth ACM SIGKDD international conference on Knowledge discovery and data mining.ACM，2002: 269-278.   \n[16] Tejada S,Knoblock C A,Minton S.Learning domain-independent string transformation weightsforhighaccuracyobject identification[C]//Proceedings of the eighth ACM SIGKDD international conference on Knowledgediscoveryand datamining.ACM,2002: 350-359.   \n[17] Arasu A, Gotz M, Kaushik R. On active learming of record matching packages[C]//Proceedingsof the 2010 ACM SIGMOD International Conference on Management of data.ACM,2010: 783-794.   \n[18]BhattacharyaI, GetoorL.Alatent dirichlet modelforunsupervisedentity resolution[C]//Proceedings of the 2006 SIAM International Conference on Data Mining.Society for Industrial and Applied Mathematics,2006: 47-58.   \n[19] Hall R，Suton C,McCallum A.Unsupervised deduplication using cross-field dependencies[C]//Proceedingsof the 14th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2008: 310-317.   \n[20]Domingos P.Multi-relational record linkage[C]//n Proceedingsof the KDD-2004 Workshop on Multi-Relational Data Mining. 2004.   \n[21] Singla P,Domingos P. Entity resolution with markov logic[C]/Data Mining,2006.ICDM'06. Sixth Intermational Conference on. IEEE,2006: 572-582.   \n[22] Rastogi V,Dalvi N，GarofalakisM.Large-scale collectiveentity matching[J]. Proceedings of the VLDB Endowment,2011,4(4): 208-218.   \n[23] BlancoR,Ottviano G,Meij E.Fastand space-efficient entity linking for queries[C]//Proceedings of the Eighth ACM International Conference on Web Search and Data Mining. ACM,2015: 179-188.   \n[24] Shen W,Wang J,Luo P,et al.Linking named entities in tweets with knowledge base viauser interest modeling[C]//Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM,2013: 68-76.   \n[25]Han X,Sun L,Zhao J. Collctive entity linking in web text: a graph-based method[C]/Proceedings of the 34th international ACM SIGIR conference on Research and development in Information Retrieval. ACM,2011: 765-774.   \n[26] GentileAL,Zhang Z, XiaL,et al. Graph-based semantic relatedness for named entity disambiguation[J]. 2009.   \n[27] Alhelbawy A, Gaizauskas R. Graph ranking for colective named entity disambiguation[C]//Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers).2014, 2: 75-80.   \n[28] Hoffart J,Yosef MA,Bordino I,etal.Robust disambiguation of named entities in text[C]//Proceedings of the Conference on Empirical Methods in Natural Language Processing. Asciation for Computational Linguistics, 2011: 782-792.   \n[29] He Z,Liu S,Li M,etal.Learning entity representationforentity disambiguation[C]/Proceedings of the 51st Annual Meting of the Association for Computational Linguistics (Volume 2: Short Papers).2013, 2: 30-34.   \n[30] Huang H,Heck L,JiH.Leveraging deep neural networks and knowledge graphs for entity disambiguation[J].arXiv preprint arXiv:1504.07678, 2015.   \n[31] Salton $\\mathbf { G }$ Wong A,Yang C S.A vector space model for automatic indexing[J]. Communicationsof the ACM,1975,18(11): 613-620.   \n[32] Collobert R,Weston J.A unified architecturefor natural language processing: Deep neural networks with multitask learning[C]/Proceedings of the 25th intermational conference on Machine learning.ACM, 2008: 160-167.   \n[33] Ester M,Kriegel HP,Xu X.A density-based algorithm for discovering clusters a density-based algorithm for discovering clusters in large spatial databaseswith noise[C]// International Conference on Knowledge Discovery and Data Mining. AAAI Press,1996:226-231.   \n[34] Donelly K. SNOMED-CT: The advanced terminology and coding system foreHealth.[J].Studies in Health Technology& Informatics,2006, 121(121):279.   \n[35] McdonaldCJ, Huff S M,Suico JG, et al.LOINC,a universal standard for identifying laboratory observations: a 5-year update.[J]. Clinical Chemistry, 2003,49(4):624.   \n[36] Zhuang Y,Li G, Zhong Z,etal.Hike:AHybrid Human-Machine Method for Entity Alignment in Large-Scale Knowledge Bases[C]//Proceedings of the 2017ACM on Conference on Information and Knowledge Management. ACM,2017: 1917-1926.   \n[37]Wang H,Fang Z,Zhang L,et al.Effective online knowledge graph fusion[C]//International Semantic Web Conference.Springer,Cham,2015: 286-302.   \n[38] Ning W, Yu M, Zhang R.A hierarchical method to automatically encode Chinese diagnoses through semantic similarity estimation[J].BMC medical informatics and decision making,2016,16(1): 30.   \n[39]X.-P.Wang,K.Liu,S.-Z.He,S.-L.Liu,Y.-Z.Zhang,and J.Zhao, “Multi-source knowledge bases entity alignment by leveraging semantic tags,”Jisuanji Xuebao/Chinese Joumalof Computers,vol.40,no.,pp. 701 - 711,2017.(in Chinese) （王雪鹏，刘康，何世柱，等.基于网络语义标签的多源知识库实体对 齐算法[J].计算机学报,2017,40(3):701r711) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

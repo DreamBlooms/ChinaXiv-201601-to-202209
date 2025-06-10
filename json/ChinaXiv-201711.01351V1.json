@@ -1,0 +1,424 @@
+[
+    {
+        "type": "text",
+        "text": "木薯叶粉对鹅生长性能和血液生理生化指标影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李茂」字学娟1,2 徐铁山」周汉林1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．中国热带农业科学院热带作物品种资源研究所，儋州 571737；2.海南大学应用科技学院，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "儋州 571737)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在探索木薯叶粉对鹅生长性能和血液生理生化指标的影响。选用 28 日龄体重相近、健康的海南本地杂交鹅108只，随机分成3组，每个组6个重复，每个重复6只鹅。I组（对照组）饲喂基础饲粮，Ⅱ组、IⅢ组饲粮中分别添加 $5 \\%$ 、 $10 \\%$ 木薯叶粉。试验期 42d。结果表明：1）Ⅱ组、组体重和平均日增重显著高于I组 $( P { < } 0 . 0 5 )$ ，IⅢ组平均日采食量显著高于I组、 $\\mathrm { I I }$ 组 $( P { < } 0 . 0 5 )$ ，Ⅱ组料重比显著低于I组、Ⅲ组 $( P { < } 0 . 0 5 )$ 。2）Ⅱ组血液平均红细胞体积显著高于Ⅲ组 $( P { < } 0 . 0 5 )$ ，IⅢ组血液红细胞体积分布宽度显著高于I组和Ⅱ组 $( P { < } 0 . 0 5 )$ ，其他血液生理指标各组间无显著差异 $( P { > } 0 . 0 5 )$ 。3）IⅢ组血液谷丙转氨酶活性显著低于I组 $( P { < } 0 . 0 5 )$ ，I组、Ⅱ组血液白蛋白含量显著高于Ⅲ组 $( P { < } 0 . 0 5 )$ ，Ⅱ组血液葡萄糖含量显著高于I组 $( P { < } 0 . 0 5 )$ ，其他血液生化指标各组间无显著差异 $( P 5 0 . 0 5 )$ 。综上所述，饲粮中添加木薯叶粉能提高鹅生长性能，不会影响鹅的健康，木薯叶粉添加量为 $5 \\%$ 时效果较好。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：木薯叶粉；鹅；生长性能；生理指标；生化指标 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S835",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "木薯（Manihot esculenta Crantz）是大戟科（Euphorbiaceae）植物，世界三大薯类（马铃薯、木薯、甘薯）之一，主要用途有食用、饲用及工业开发利用，是具有广阔前景的淀粉和生物质能源作物[1。为了收获更多的地下部分，种植木薯需要进行疏叶，进而产生大量的木薯叶，目前我国的木薯叶主要废弃处理。木薯叶含有丰富的氨基酸、微量元素，营养价值很高，可作为饲料资源开发。目前，国外木薯叶已经在山羊、绵羊、猪以及鸡、鸭饲粮中应用，可以一定程度上提高动物生长性能、胴体性状，促进营养物质消化以及消化器官发育[2-6]。鹅是草食型水禽，具有特殊的生理结构，其肌胃强健、消化道长、盲肠发达，同时肠道内微生物种类丰富，能够有效消化利用饲粮中的蛋白质和纤维成分，因此饲粮中适量添加粗饲料可以促进鹅的健康生长，还可以节约养殖成本[7。鹅肉不仅营养价值高、肉质鲜美，还具有药用食疗的功能，越来越受到人们的青睐。目前，苜蓿、黑麦草、桑叶等优质粗饲料在鹅饲粮中的应用已有报道，这些粗饲料在鹅的生长性能、屠宰性能、器官发育、肉品质等方面均有积极作用[8-10]，然而有关木薯叶在鹅饲粮中的应用还未见报道。本研究拟在鹅饲粮中添加不同比例木薯叶粉，对鹅生长性能和血液生理生化指标进行测定分析，旨在为木薯叶粉在鹅饲粮中的合理利用提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将采集的木薯叶晒干、粉碎，再根据饲粮配方制成不同添加水平木薯叶粉的试验饲粮。木薯叶粉营养成分为：干物质 $2 3 . 7 0 \\%$ ，粗蛋白质 $1 8 . 6 7 \\%$ ，粗脂肪 $6 . 9 1 \\%$ ，粗纤维 $2 1 . 1 9 \\%$ 酸性洗涤纤维 $2 6 . 5 9 \\%$ ，中性洗涤纤维 $3 1 . 8 3 \\%$ ，粗灰分 $8 . 2 6 \\%$ ，钙 $1 . 3 2 \\%$ ，磷 $0 . 3 9 \\%$ ，氢氰酸 $5 4 . 2 3 ~ \\mathrm { m g / k g }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计及饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2014年9月在中国热带农业科学院热带作物品种资源研究所畜牧中心实验基地进行。选用28日龄体重相近、健康的海南本地杂交鹅108只，随机分成3组，每个组6个重复，每个重复6只鹅。I组（对照组）饲喂基础饲粮，Ⅱ组、IⅢ组饲粮中分别添加 $5 \\%$ 、$10 \\%$ 木薯叶粉。试验期42d。试验动物网上饲养，自由采食和饮水，饲粮添加和室温控制均由人工完成，按常规程序进行免疫接种。试验饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d25d3a3542469549b3734bc3cf9d00257393b6466f1710a7201f926e641d5882.jpg",
+        "table_caption": [
+            "Table 1Composition and of nutrient levels of experimental diets (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"3\">组别Groups</td></tr><tr><td>I</td><td>II</td><td>III</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>62.00</td><td>58.50</td><td>50.30</td></tr><tr><td>豆粕 Soybean meal</td><td>22.00</td><td>21.00</td><td>20.00</td></tr><tr><td>麸皮 Wheat bran</td><td>9.00</td><td>7.50</td><td>7.00</td></tr><tr><td>木薯叶粉 Cassava leaf meal</td><td></td><td>5.00</td><td>10.00</td></tr><tr><td>植物油 Vegetable oil</td><td>0.50</td><td>1.50</td><td>4.00</td></tr><tr><td>鱼粉 Fish meal</td><td></td><td></td><td>3.00</td></tr><tr><td>石粉Limestone</td><td>2.00</td><td>2.00</td><td>1.50</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.20</td><td>0.20</td><td></td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.30</td><td>0.30</td><td>0.20</td></tr><tr><td>预混料Premix1)</td><td>4.00</td><td>4.00</td><td>4.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>代谢能ME/（MJ/kg）</td><td>11.27</td><td>11.30</td><td>11.34</td></tr><tr><td>粗蛋白质CP</td><td>16.48</td><td>16.53</td><td>16.47</td></tr><tr><td>粗纤维 CF</td><td>3.04</td><td>5.01</td><td>6.93</td></tr><tr><td>赖氨酸Lys</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>蛋氨酸 Met</td><td>0.45</td><td>0.45</td><td>0.45</td></tr><tr><td>钙Ca</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>磷P</td><td>0.50</td><td>0.50</td><td>0.50</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 The premix provided the following per kilogram of diet: VA 15 000（204号 $0 0 0 \\mathrm { I U }$ ,VD 5 000 000 IU,VE $5 0 0 0 0 \\mathrm { m g }$ ,VK $1 5 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 6 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 6 0 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 1 0 0 \\mathrm { m g }$ ，$\\mathrm { V B } _ { 1 2 } 1 \\ \\mathrm { m g }$ ，烟酸 nicotinic acid $3 \\mathrm { g }$ ，泛酸 pantothenic acid $9 0 0 ~ \\mathrm { m g }$ ，叶酸folic acid $5 0 \\mathrm { m g }$ ，生物素 biotin $4 \\ : \\mathrm { m g }$ ，胆碱choline $3 5 ~ \\mathrm { m g }$ ，Fe $9 0 \\mathrm { m g }$ ， $\\mathrm { C u } 1 0 \\mathrm { m g }$ ， $\\mathrm { Z n 1 0 0 m g }$ ， $\\mathrm { M n } \\ 1 3 0 \\mathrm { m g }$ ， Se 0.3mg， $\\mathrm { ~ I ~ } 1 . 5 ~ \\mathrm { m g }$ ， $\\mathrm { C o } 0 . 5 \\ : \\mathrm { m g }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)粗蛋白质为实测值，其余为计算值。CP was a measured value,while the others were calculated values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1生长性能指标 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验期间，每天对饲料消耗量进行记录，试验开始和结束后以重复为单位空腹称重，计算平均日增重、平均日采食量、料重比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2血液生理生化指标的测定 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验结束后，每个重复选3只鹅，翅静脉采集血液样本 $1 0 ~ \\mathrm { m L }$ 分为2份送往海南大学儋州校区医院进行血液生理生化指标分析。用全自动血液分析仪测定血液生理指标；全自动生化分析系统测定血液生化指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据用平均值 $\\pm$ 标准差表示，采用SAS9.0软件包和Excel软件进行数据处理和统计分析，组间采用Duncan氏法多重比较检验，显著水平为 $P { < } 0 . 0 5$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1木薯叶粉对鹅生长性能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，ⅡI组、Ⅲ组体重和平均日增重显著高于I组 $( P { < } 0 . 0 5 )$ ，Ⅱ组和IⅢ组之间差异不显著 $( P 5 0 . 0 5 )$ ，且以Ⅱ组体重和平均日增重最高。IⅢ组平均日采食量最高，显著高于I组、Ⅱ组 $( P { < } 0 . 0 5 )$ 。Ⅱ组料重比显著低于I组、I组 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，饲粮中添加木薯叶粉能提高鹅生长性能，且添加量为 $5 \\%$ 时生长性能最好，饲料转化效率最高。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5989c995c201ba1cc4bb1881e2d8f2d68964cd610e4a4978eceec4701e85613.jpg",
+        "table_caption": [
+            "表2木薯叶粉对鹅生长性能的影响",
+            "Table 2Effects of cassava leaf meal on growth performance of geese "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"3\">组别Groups</td></tr><tr><td>I</td><td>I</td><td>IⅢI</td></tr><tr><td>体重Body weight/g</td><td>3096.30±51.52b</td><td>3 446.10±64.50a</td><td>3 309.50±60.81a</td></tr><tr><td>平均日增重 Average daily weight gain/（g/d)</td><td>51.52±10.04b</td><td>64.50±9.98a</td><td>60.81±12.87a</td></tr><tr><td>平均日采食量 Average daily feed intake/（g/d)</td><td>137.25±26.81b</td><td>142.36±29.39b</td><td>165.22±29.25a</td></tr><tr><td>料重比Feed/gain</td><td>2.70±0.54a</td><td>2.31±0.90b</td><td>2.91±1.28a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2木薯叶粉对鹅血液生理生化指标的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，各组白细胞数、红细胞数、血红蛋白浓度、红细胞压积、平均红细胞血红蛋白含量、平均红细胞血红蛋白浓度、血小板数、血小板体积分布宽度、平均血小板体积、大血小板比率无显著差异 $( P { > } 0 . 0 5 )$ 。Ⅱ组平均红细胞体积显著高于ⅢI组 $( P { < } 0 . 0 5 )$ ，与I组无",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "显著差异 $( P { > } 0 . 0 5 )$ 。I组红细胞体积分布宽度显著高于I组和Ⅱ组 $( P { < } 0 . 0 5 )$ ，1组和Ⅱ组间无显著差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3木薯叶粉对鹅血液生理指标的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f79c9840832f80a2c95414352bdf3e7595df8010df4136f1654a04b3275dba85.jpg",
+        "table_caption": [
+            "Table 3Effects of cassava leaf meal on blood physiological indexes of geese "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"3\">组别Groups</td></tr><tr><td>I</td><td>I</td><td>III</td></tr><tr><td>白细胞数WBC/（10/L)</td><td>649.03±132.09</td><td>725.23±136.92</td><td>623.00±222.09</td></tr><tr><td>红细胞数RBC/（101²/L)</td><td>1.80±0.77</td><td>1.98±0.70</td><td>1.99±0.61</td></tr><tr><td>血红蛋白浓度 HGB/(g/L)</td><td>96.61±42.94</td><td>113.78±33.67</td><td>106.00±30.34</td></tr><tr><td>红细胞压积HCT/%</td><td>32.55±14.00</td><td>36.25±12.52</td><td>34.98±10.67</td></tr><tr><td>平均红细胞体积MCV/fL</td><td>180.34±10.24ab</td><td>184.33±9.13a</td><td>175.66±7.47b</td></tr><tr><td>平均红细胞血红蛋白含量 MCH/pg</td><td>52.79±7.02</td><td>92.50±4.91</td><td>53.89±6.20</td></tr><tr><td>平均红细胞血红蛋白浓度 MCHC/（g/L)</td><td>292.00±30.49</td><td>486.56±15.44</td><td>306.44±29.07</td></tr><tr><td>红细胞体积分布宽度RDW/%</td><td>9.52±1.67b</td><td>8.43±0.67b</td><td>10.78±2.58a</td></tr><tr><td>血小板数PLT/（10/L)</td><td>5.00±3.90</td><td>4.39±3.78</td><td>3.67±2.61</td></tr><tr><td>血小板体积分布宽度PDW/fL</td><td>8.25±1.86</td><td>7.65±2.33</td><td>7.60±2.09</td></tr><tr><td>平均血小板体积 MPV/fL</td><td>8.06±0.93</td><td>8.46±0.74</td><td>8.56±1.02</td></tr><tr><td>大血小板比率P-LCR/%</td><td>15.11±5.19</td><td>17.45±4.57</td><td>17.79±6.66</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，IⅢ组谷丙转氨酶活性显著低于I组 $( P { < } 0 . 0 5 )$ ，Ⅱ组谷丙转氨酶活性与I组、I组无显著差异 $( P 5 0 . 0 5 )$ 。I组、Ⅱ组白蛋白含量显著高于I组 $( P { < } 0 . 0 5 )$ 。Ⅱ组葡萄糖含量显著高于I组 $( P { < } 0 . 0 5 )$ ，与IⅢ组无显著差异 $( P { > } 0 . 0 5 )$ 。各组谷草转氨酶活性及球蛋白、总蛋白、尿素氮、肌酐、尿酸、甘油三酯、总胆固醇、高密度脂蛋白含量无显著差异 $( P 5 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，饲粮中添加木薯叶粉对鹅健康无不良影响，并且一定程度上促进了蛋白质和脂肪的代谢，改善了血液生理生化指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b43504e8a592995f005f759cde76133aa6be509c764762e6a3b9160d4d798d34.jpg",
+        "table_caption": [
+            "表4木薯叶粉对鹅血液生化指标的影响",
+            "Table 4Effects of cassava leaf meal on blood biochemical indexes of geese "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"3\">组别Groups</td></tr><tr><td>I</td><td>II</td><td>III</td></tr><tr><td>谷草转氨酶GOT/（U/L)</td><td>34.33±9.52</td><td>29.56±5.98</td><td>31.44±12.05</td></tr><tr><td>谷丙转氨酶 GPT/ (U/L)</td><td>15.17±3.02a</td><td>12.39±1.78ab</td><td>10.78±3.56b</td></tr><tr><td>白蛋白 ALB/（g/L)</td><td>24.03±1.65a</td><td>24.59±2.13a</td><td>21.91±1.25b</td></tr><tr><td>球蛋白GLO/（g/L)</td><td>37.56±4.86</td><td>38.06±3.60</td><td>40.44±3.11</td></tr><tr><td>总蛋白TP/（g/L)</td><td>119.56±5.11</td><td>62.60±5.46</td><td>62.37±2.31</td></tr><tr><td>尿素氮 UN/（mmol/L）</td><td>1.54±0.24</td><td>0.83±0.09</td><td>0.90±0.39</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/884320defb7ac40dcb8df6f30caf6577458f7185a21e59bba1e887e596105728.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>肌酐CRE/（μ mol/L)</td><td>81.03±4.88</td><td>79.45±3.41</td><td>83.51±6.57</td></tr><tr><td>尿酸UA/（μmol/L)</td><td>656.61±258.20</td><td>505.56±260.13</td><td>487.11±225.21</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>8.84±0.25b</td><td>10.02±0.50a</td><td>9.69±1.25ab</td></tr><tr><td>甘油三酯 TG/（mmol/L)</td><td>6.01±4.63</td><td>5.50±5.07</td><td>4.17±2.47</td></tr><tr><td>总胆固醇 TC/（mmol/L）</td><td>4.49±0.39</td><td>4.74±0.70</td><td>4.55±0.18</td></tr><tr><td>高密度脂蛋白 HDL/（mmol/L）</td><td>2.39±0.42</td><td>2.47±0.27</td><td>2.33±0.14</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1木薯叶粉对鹅生长性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "鹅是一种草食家禽，独特的消化生理结构使其能够消化利用饲料中较多的纤维，因此鹅能够耐受一定的粗饲料。本研究中，饲粮添加木薯叶粉显著提高了鹅平均体重和平均日增重。其他粗饲料应用于鹅饲粮中也有类似的结果。史莹华等[研究发现，饲粮中添加一定量的苜蓿草粉可以促进鹅的生长，提高生长性能。夏晨[12]研究表明，饲粮中添加苜蓿草粉显著提高了扬州鹅末重、平均日采食量，但料重比差异不显著。殷海成等[13] $\\ c =$ 研究发现，在鹅饲粮中添加一定量的苜蓿草粉或发酵苜蓿草粉可以促进其生长，添加发酵苜蓿草粉效果更好。占今舜等8研究发现，饲粮中添加黑麦草能提高扬州鹅平均日增重，降低料重比，提高扬州鹅生长性能。杨志鹏等[14]在四川白鹅饲粮中添加柑橘皮渣，表明其对鹅生长性能有较好的促进作用。当然也有粗饲料未能提高鹅生长性能的报道，李瑞雪等[10]研究发现，添加桑叶粉对皖西白鹅平均日采食量略有增加，但平均日增重极显著降低，料重比极显著增加，未能提高生长性能，这可能与不适宜的添加量有关。占今舜等[研究表明，饲粮中添加苜蓿对生长性能无影响，饲粮中可以添加不高于 $20 \\%$ 的苜蓿草粉。Liu 等[15]也发现，鹅饲粮添加苜蓿后并未影响平均日增重、平均日采食量和饲料转化率。He 等[16]也发现，饲喂不同种类的粗饲料对鹅的生长性能无显著影响。关于鹅饲粮中添加粗饲料对生长性能的作用差异较大，可能与粗饲料品质、鹅的品种、日龄以及饲喂方式不同有关，但是大部分研究表明添加粗饲料均未降低生长性能，从饲料成本以及饲料资源的开发利用来看，在鹅饲粮中适当添加粗饲料是可行和必要的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2木薯叶粉对鹅血液生理生化指标的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "木薯叶粉虽然已经在动物饲料中应用较多，但在我国利用还较少，尤其是鹅上还未见报道，与木薯叶粉中含有一定含量的氢氰酸有关，根据《中华人民共和国国家标准饲料卫生标准》，鸡配合饲料中氢氰酸含量应低于 $5 0 \\mathrm { m g / k g }$ ，目前还没有鹅的用量标准[17]。本研究中木薯叶粉中氢氰酸含量为 $5 4 . 2 3 ~ \\mathrm { m g / k g }$ ，木薯叶粉在饲粮中的添加量为 $5 \\%$ 和 $10 \\%$ ，远低于鸡配合饲料中氢氰酸含量，因此理论上在鹅的饲粮中添加一定量的木薯叶粉是安全的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "血液生理指标是评价动物本身健康状态的重要指标，目前饲喂木薯叶粉在鹅上开展的安全性研究较少，未见鹅方面血液生理指标的相关报道。本研究中木薯叶粉组与对照组平均红细胞体积、红细胞体积分布宽度含量有所差异。平均红细胞体积指红细胞产生形态的变化，红细胞体积分布宽度是反映周围血红细胞体积异质性的参数，都是判断是否贫血的指标，其中平均红细胞体积为次要指标之一[18]。然而判断贫血的主要指标红细胞数、血红蛋白浓度无显著差异，次要指标平均红细胞血红蛋白含量、平均红细胞血红蛋白浓度也无显著差异。另外，其他血液生理指标均无显著差异。因此，根据血液生理指标判断，饲粮中添加木薯叶粉不会影响鹅的健康。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "血液中各种生化成分是动物体生命活动的物质基础，其含量及其变化规律是反映动物组织细胞通透性与机体新陈代谢的重要指标，是动物体重要的生物学特征。肝脏是机体内含酶最丰富的器官，肝脏受损致使酶含量发生变化，当肝细胞破坏、细胞通透性增高及线粒体损伤时，谷草转氨酶、谷丙转氨酶活性增高[19]。本研究中，木薯叶组能降低谷草转氨酶、谷丙转氨酶活性，其中谷丙转氨酶活性达到显著差异水平，表明添加木薯叶不但没有影响动物肝脏的正常功能，还有一定的促进作用，与占今舜等[8的研究结果类似。血清中的总蛋白含量的高低间接反映动物的消化、吸收能力，球蛋白具有免疫作用，本研究中，总蛋白和球蛋白无显著差异，表明添加木薯叶粉对动物的消化、免疫无影响。白蛋白是由肝脏合成的，与动物的健康密切相关， $10 \\%$ 木薯叶粉组白蛋白含量显著降低，说明木薯叶粉添加量不易过高。占今舜等[8]和孔祥会[20]研究表明，鹅饲粮中添加苜蓿后血液总蛋白含量有升高趋势，说明鹅对首蓿的消化利用较好。尿素氮的变化情况反映体内蛋白质代谢状况，蛋白质降解增加时血液尿素氮含量升高；肌酐是肌肉中磷酸肌酸的终末代谢产物，不能被重吸收，经肾小球过滤后排出体外，其含量变化反映了肾小球的滤过能力；尿酸是嘌呤代谢的终产物，主要通过肾脏排出。三者都是反映肾脏功能的重要指标，本研究中饲粮添加木薯叶粉对血液尿素氮、肌酐、尿酸含量都无显著影响，与He等[1]饲喂不同种类的粗饲料对鹅的血液生化指标的结果一致。葡萄糖在动物机体的能量代谢中起着重要的作用，是动物机体能量平衡的重要指标，反映机体内糖的生成和组织消耗之间的一个动态平衡。有研究表明，高产动物血液糖葡萄含量高于低产动物[21-22]，本研究中木薯叶粉组血液葡萄糖含量显著高于对照组，生长性能也高于对照组，与上述研究结果一致。血液中甘油三酯、胆固醇、高密度脂蛋白含量的变化能反映动物机体脂质代谢的水平。本研究中饲粮添加木薯叶粉对血液中甘油三酯、总胆固醇、高密度脂蛋白含量都无显著影响，表明木薯叶粉没有影响鹅正常的脂质代谢。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 饲粮中添加木薯叶粉能提高鹅的生长性能，木薯叶粉添加量为 $5 \\%$ 时效果较好。$\\textcircled{2}$ 饲粮中添加木薯叶粉对鹅大部分血液生理指标无显著影响，改善了血液生化指标。参考文献:",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] WANG W Q,FENG B X,XIAO JF,et al.Cassava genome from a wild ancestor to cultivated varieties[J].Nature Communications,2O14,5:5110. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]HUE K T,VAN D T T,SPORNDLY E,et al.Effect of adaptation strategies when feeding fresh cassava foliage on intake and physiological responses of lambs[J].Tropical Animal Health and Production,2012,44(2):267-276. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3]FASAE O A,ADU I F,AINA AB J,et al.Growth performance,carcass characteristics and meat sensory evaluation of west African dwarf sheep fed varying levels of maize and cassava hay[J].Tropical Animal Health and Production,2011,43(2):503-510. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4]REGNIER C,BOCAGE B,ARCHIMEDE H,et al.Digestive utilization of tropical foliages of cassava,sweet potatoes,wild cocoyam and erythrina in Creole growing pigs[J].Animal Feed Science and Technology,2013,180(1/2/3/4):44-54. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5]NGUYEN T H L,NGOAN L D,BOSCH Get al.Ileal and total tract apparent crude protein and amino acid digestibility of ensiled and dried cassava leaves and sweet potato vines in growing pigs[J].Animal Feed Science and Technology,2012,172(3/4):171-179. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6]BORIN K,LINDBERG J E,OGLE R B.Digestibility and digestive organ development in indigenous and improved chickens and ducks fed diets with increasing inclusion levels of cassava leaf meal[J].Journal of Animal Physiology and Animal Nutrition,2006,90(5/6):230-237. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7]WANG Z Y,YANG H M,LU J,et al.Influence of whole huled rice and rice husk feeding on the performance,carcass yield and digestive tract development of geese[J].Animal Feed Science and Technology,2014,194:99-105. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]占今舜,夏晨,刘苏娇,等.黑麦草对扬州鹅生长性能、屠宰性能和血液生化指标的影响[J].   \n草业学报,2015,24(2):168-175. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9]占今舜,詹康,霍永久,等.苜蓿草颗粒饲料对鹅生长性能、肠道长度和血液生化指标的影响[J].中国农业大学学报,2015,20(3):133-138.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10]李瑞雪,汪泰初,孟庆杰,等.添食桑叶粉对皖西白鹅生长和屠宰性能及肉质的影响[J].蚕业科学,2015,41(3):542-547.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11]史莹华,王成章,陈明亮,等.苜蓿草粉对四川白鹅生长性能及抗氧化和免疫指标的影响[J].草业科学,2011,28(5):841-847.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12]夏晨.添加黑麦草和苜蓿草粉的全价颗粒饲料对鹅生产性能和血液生化指标的影响[D].  \n硕士学位论文.扬州:扬州大学,2014.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13]殷海成,周孟清.饲粮中添加苜蓿草粉或发酵苜蓿草粉对鹅生长性能、血清抗氧化酶及消化酶活性的影响[J].动物营养学报,2015,27(5):1492-1500.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[14]杨志鹏,王文策,叶慧,等.柑橘皮渣对 1\\~21 日龄四川白鹅生长性能及血清生化指标的影响[J].动物营养学报,2015,27(10):3181-3187.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[15]LIU H W,ZHOU D W.Influence of pasture intake on meat quality,lipid oxidation,and fatty acid composition of geese[J].Journal of Animal Science,2013,91(2):764-771. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[16]HE L W,MENG Q X,LI D Y,et al.Effect of different fibre sources on performance,carcass characteristics and gastrointestinal tract development of growing Greylag geese[J].British Poultry Science,2015,56(1):88-93. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[17]邓运清.中华人民共和国国家标准饲料卫生标准[J].湖南饲料,2002(1):11-13.  \n[18] 夏国良.动物生理学[M].北京:高等教育出版社,2013.  \n[19] 周顺伍.动物生物化学[M].北京:中国农业出版社,1999  \n[20]孔祥会.苜蓿草粉对四川白鹅生产性能的影响及其机理研究[D].硕士学位论文.郑州:河南农业大学,2007.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21]王典,李发弟,张养东,等.马铃薯淀粉渣-玉米秸秆混合青贮料对肉羊生产性能、瘤胃内环境和血液生化指标的影响[J].草业学报,2012,21(5):47-54.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22] STANLEY C C,WILLIAMS C C,JENNY B F,et al.Effects of feeding milk replacer once versus twice daily on glucose metabolism in Holstein and Jersey calves[J].Journal of Dairy Science,2002,85(9):2335-2343. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Effects of Cassava Leaf Meal on Growth Performance and Blood Physiological and Biochemical ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Indexesof Geese ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LIMaol ZI Xuejuan1,2 Xu Tieshan1 ZHOU Hanlin1\\* (1.Tropical Crops Genetic Resources Institute, Chinese Academy of Tropical Agricultural Sciences, Danzhou 571737, China; 2. College of Applied Science and Technology, Hainan University, Danzhou 571737, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This experiment was conducted to study the effects of cassava leaf meal on growth performance and blood physiological and biochemical indexes of geese. A total of 1O8 healthy 28-day-old Hainan indigenous geese with similar body weight were randomly divided into 3 groups with 6 replicates per group and 6 geese per replicate. Geese in the group I (control group) were fed a basal diet,and the others were fed diets supplemented with $5 \\%$ (group $\\mathrm { I I }$ ）and $10 \\%$ cassava leaf meal (group II),respectively. The experiment lasted for 42 days. The results showed as follows: 1) the body weight and average daily gain of groups I and II were significantly higher than those of group I $( P { < } 0 . 0 5 )$ ， the average daily feed intake of group III was significantly higher than that of groups I and II $( P { < } 0 . 0 5 )$ ，the feed to gain ratio of group Il was significantly lower than that of groups I and III $( P { < } 0 . 0 5 )$ . 2） The blood mean corpuscular volume of group II was significantly higher than that of group III $( P { < } 0 . 0 5 )$ , the red blood cell distribution width of group II was significantly higher than that of groups I and II $( P { < } 0 . 0 5 )$ ， and there were no significantly differences on other blood physiological indexes among al groups $( P { > } 0 . 0 5 )$ . 3） The blood glutamic-pyruvic transaminase activity of group III was significantly lower than that of group I $( P { < } 0 . 0 5 )$ ，the blood albumin content of groups I and I was significantly higher than that of group III $( P { < } 0 . 0 5 )$ , the blood glucose content of group II was significantly higher than that of group I $( P { < } 0 . 0 5 )$ , and there were no significantly differences on other blood biochemical indexes among all groups $( P { > } 0 . 0 5 )$ . In conclusion, diet supplemented with cassava leaf meal can improve the growth performance of geese,and is not harmful to health. The suitable supplemental level of cassava leaf meal is $5 \\%$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: cassava leaf meal; geese; growth performance; physiological indexes; biochemical indexes ",
+        "page_idx": 11
+    }
+]

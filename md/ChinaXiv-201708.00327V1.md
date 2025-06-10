@@ -1,0 +1,122 @@
+# High-precision temporal calibration of Middle Triassic vertebrate biostratigraphy: U-Pb zircon constraints for the Sinokannemeyeria Fauna and Yonghesuchus
+
+LIU Jun1,2 Jahandar RAMEZANI³LI Lu1 SHANG Qing-Hua XU Guang-Hui' WANG Yan-Yin' YANG Jia-Sheng1,2
+
+(1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontologyand Paleoanthropology,ChineseAcademy ofSciences Beijingl0o044,China liujun@ivpp.ac.cn)   
+(2 University of Chinese Academy of Sciences Beijing l0o049,China)   
+(3 DepartmentofEarth,Atmosphericand Planetary Sciences,Massachusetts InstituteofTchnology Cambridge, Massachusetts 02139,USA)
+
+Abstract Tetrapod assemblages provide a useful means for global correlation of the terrestrial Triassic sedimentary deposits, but currently no reliable temporal framework has been achieved for the Middle Triassic tetrapod assemblages. Here we report U-Pb zircon chemical abrasion-thermal ionization mass spectrometry dates for five volcanic ashes interbedded with vertebrate fossils from the Ermaying and Tongchuan formations of China. Our results support a late Anisian age for the Sinokannemeyeria Fauna and an early Ladinian age for Yonghesuchus Fauna.It is now possible, through biostratigraphic correlation,to provide accurate ages to other Middle Triassic successions such as the Upper Cynognathus Assemblage Zone of the Karoo of South Africa, the Eryosuchus fauna of the Donguz Suite of Russia and the Karamayi Formation of Xinjiang, China. The base of Anisian (Lower/Middle Triassic boundary) should lie below the base of the Ermaying Formation in the Ordos Basin. ！、
+
+Key WordsMiddle Triassic, Ermaying Formation Tongchuan Formation, Sinokannemeyeria Fauna, Yonghesuchus,U-Pb dating mOB
+
+Citation Liu J,Ramezani J,LiL et al.,2017.High-precision temporal calibration of Middle Triassic vertebrate biostratigraphy: U-Pb zircon constraints for the Sinokannemeyeria Fauna and Yonghesuchus.Vertebrata PalAsiatica,DOI:10.19615/j.cnki.1000-3118.170808
+
+# 1 Introduction
+
+The Triassic is a very important period in vertebrate history as it marks the first appearance of mammals (Lucas and Luo,1993; Luo, 2007; Martinez et al.,2011), dinosaurs (Martinez et al.,2011; Nesbitt et al.,2010; Ramezani et al.,2011; Sues,2016),and turtles (Li et al.,20o8; Schoch and Sues,2Ol5).Because of the rich and diverse vertebrate record from the Triassic,tetrapod fossils have been used for global biostratigraphic correlation of Triassic continental sedimentary successions (e.g.Lucas, 2O10).However the correlation of Triassic vertebrate biozones to marine biozones have been controversial, and progress hindered by the lack of reliable radioisotopic age constraints.
+
+The situation has improved in the relatively recent past and radioisotopic dates are now available for some Triassc deposits (e.g. Mundil et al.,201O).To date the only Traissic tetrapod-bearing terrestrial deposits for which radiometric dates are available are the Ischigualasto tetrapod assemblage (Martinez et al., 2011; Rogers et al.,1993), the Chanares Formation (Marsicano et al.,2016), the Chinle Formation (Irmis et al., 2011; Ramezani et al.,2011; Riggs et al.,2003), the Ermaying and Tongchuan Formations (Liu et al.,2013),and the Puesto Viejo Formation (Ottone et al.,2014).However, the zircon U-Pb sensitive highresolution ion microprobe (SHRIMP) dates reported by Liu et al. (2013) for volcanic ash beds from the Ermaying and Tongchuan formations of the Ordos Basin, China have large error bars. We now report new high resolution chemical abrasion-thermal ionization mass spectrometry (CA-TIMS) dates for the same ash beds.
+
+Apart from the Cynognathus Assemblage Zone of the Karoo Supergroup of South Africa, the Ermaying Formation of the Ordos Basin of China preserves one of the most prolific Middle Triassic terrestrial tetrapod assemblages. The Lower Ermaying Formation has been
+
+![](images/0bfd4d962e70d8691680e6368ccfa16f5304acf38f245a7afccf11a2fc60d0b0.jpg)  
+Fig.1 The stratigraphic column of the Ermaying and Tongchuan formations of Ordos Basin (China) along with tetrapod fossils and U-Pb geochronologic results of this study
+
+biostratigraphically correlated with the Cynognathus Subzone B Assemblage, and the Upper Ermaying Formation (SinokannemeyeriaFauna)correlatedwith Cynognathus Subzone C assemblage (Lucas, 2010; Rubidge, 2005). Yonghesuchus from the Tongchuan Formation is closely related to Gracilisuchus from the Chanares Formation of Argentina (Butler et al.,2014).
+
+# 2 Geological setting
+
+The Ordos Basin is an intracontinental basin situated in western north China with an $8 0 0 0 \ \mathrm { m }$ thick sedimentary infill of Paleozoic to Cenozoic age. The Triassic succession comprises the Liujiagou, Heshangou,Ermaying,Tongchuan and Yanchang formations. The Ermaying and Tongchuan Formations in turn each comprise two members.Member II of the Tongchuan Formation comprises two beds of which Bed I has a colorful basal tuff layer which serves as a regional marker layer (Fig. 1).
+
+# 3 Methods and results
+
+Volcanic ash samples and vertebrate fossils were collected from different stratigraphic horizons in the Ermaying and Tongchuan Formations from five localities in Shanxi Province, China (Fig.2; Table 1). Extensive field prospecting for tetrapod fossls was undertaken at each locality to establish the correlative vertebrate biozone. Stratigraphic sections were measured at all localities to establish the stratigraphic position of each ash relative to lithostratigraphic markers and/or fossils.
+
+![](images/8e47442d032952dc5272eb09866879b3971bc512ca0a3d87fc1b445afde8fec2.jpg)  
+Fig.2Map showing the studied area and sample localities (revised from Liu et al.,2Ol3, fig.1)
+
+Table 1 The localities and horizons of five samples   
+
+<html><body><table><tr><td>Sample</td><td>Locality</td><td colspan="2">GPS co-ordinate</td></tr><tr><td>LT</td><td>Jiaokou</td><td>N36°39'54"</td><td>E110°36'24"</td></tr><tr><td>ST</td><td>Sangbi</td><td>N36°37'29"</td><td>E 110°38'7"</td></tr><tr><td>JD</td><td>Shixi</td><td>N 37°26'16"</td><td>E 110°39'23"</td></tr><tr><td>SJ</td><td>Sanjiao</td><td>N 37°17'12"</td><td>E 110°42'23"</td></tr><tr><td>ME</td><td>Mengjiata</td><td>N 37°17'12"</td><td>E 11042'23"</td></tr></table></body></html>
+
+Samples JD,ME and SJ are all from Member II of the Ermaying Formation but their relative positions on the stratigraphic columns are difficult to determine. Sample SJ was previously mistakenly assigned to the Tongchuan Formation (Liu et al.,2013),and of all the above samples, SJ is the only one which has good biostratigraphic provenance.
+
+Two tuff samples were processed from the Tongchuan Formation: sample LT is from the tuff marker bed at Jiaokou,and sample ST is from Sangbi and was collected $1 5 \mathrm { ~ m ~ }$ above the stratigraphic horizon of the holotype of Yonghesuchus (Liu et al., 2001) (Fig. 3).
+
+We present new CA-TIMS U-Pb single-zircon data for five samples from possible two key volcanic ash layers from the Ermaying and Tongchuan formations,constraining 2 million years of Triassc terrestrial history. Fig.3 shows the relative stratigraphic positions of the dated ash beds.
+
+![](images/fa7c7b4c7ee9acadca7cb693552805d595c181f18c45ab5a7c729c7f837d11d4.jpg)  
+Fig.3The correlation of three stratigraphic columns to show the relative position of samples LT was collected from Sangbi,but its position is showed on the Menjiata section.JD is not showed here beacause it is hard to determine its exact position on the stratigraphic column.The Menjiata section from Regional Geological Report of Shilou, the Sangbi section from Liu et al. (2001)
+
+Ermaying FormationSample JD Six prismatic zircons were analyzed, five of which yield a weighted mean $^ { 2 0 6 } \mathrm { P b } / ^ { 2 3 8 } \mathrm { U }$ date of $2 4 3 . 2 9 \pm 0 . 1 4 / 0 . 1 7 / 0 . 3 1 \mid$ Ma and a mean square of weighted deviates (MSWD) of 1.1. The sixth analysis yielded much older dates that is atributed to inheritance and is excluded (see Table 2 for an explanation of error notations).
+
+Sample SJ Five prismatic zircons were analyzed, four of which yield a weighted mean $^ { 2 0 6 } \mathrm { P b } / ^ { 2 3 8 } \mathrm { U }$ date of $2 4 3 . 5 2 8 \pm 0 . 0 6 9 / 0 . 1 3 / 0 . 2 9 \mathrm { { \ M a } }$ （ $\mathrm { M S W D } { = } 0 . 3 2 )$ (Fig. 4). The fifth analysis yielded much older dates that is atributed to inheritance and is excluded (see Table 2 for an explanation of error notations).
+
+Sample MEFive analyses with dates as old as 1.744 Ga suggest significant detrital input due to sedimentary reworking.However, the youngest analysis with $^ { 2 0 6 } \mathrm { P b } / ^ { 2 3 8 } \mathrm { U }$ dates of 243.53 $\pm 0 . 2 1 \mathrm { M a }$ provide a maximum estimate for the age of deposition of the bed, consistent with its stratigraphic position.
+
+Tongchuan FormationSample LTThis sample contains abundant, clear, short, prismatic zircons from which six individual grains were analyzed. These define a tight cluster with a weighted mean $^ { 2 0 6 } \mathrm { P b } / ^ { 2 3 8 } \mathrm { U }$ date of $2 4 1 . 3 6 9 \pm 0 . 0 6 1 / 0 . 1 2 / 0 . 2 9 \mathrm { { M } }$ a $( \mathrm { M S W D } = 0 . 8 3 \$ (Fig.4) (see Table 2 for an explanation of error notations).
+
+Sample STThis sample contains abundant, clear, short, prismatic zircons from which five individual grains were analyzed. These define a tight cluster with a weighted mean $^ { 2 0 6 } \mathrm { P b } / ^ { 2 3 8 } \mathrm { U }$ date of $2 4 1 . 4 8 2 \pm 0 . 0 7 4 / 0 . 1 3 / 0 . 2 9$ Ma (MSWD $\scriptstyle 1 = 0 . 6 0$ ）(Fig. 4) (see Table 2 for an explanation of error notations).
+
+![](images/c8145f280a7c3563e65b2f7f87548c4a2d1bfb6f05796b1e32644524c00442b5.jpg)  
+Fig.4 Age distribution plots for analyzed zircon samples SJ,LT and ST Bar heights represent $2 \sigma$ analytical uncertainty of individual zircon analyses
+
+Table 2 Summary of calculated U-Pb ages and their uncertainties   
+
+<html><body><table><tr><td rowspan="2">Sample</td><td rowspan="2">(Ma) 206Pb/238U age</td><td colspan="3">Error (2σ)</td><td rowspan="2">N</td><td rowspan="2">MXWD</td></tr><tr><td>X</td><td>Y</td><td>Z</td></tr><tr><td>LT</td><td>241.369</td><td>0.061</td><td>0.12</td><td>0.29</td><td>6</td><td>0.83</td></tr><tr><td>ST</td><td>241.482</td><td>0.074</td><td>0.13</td><td>0.29</td><td>5</td><td>0.60</td></tr><tr><td>JD</td><td>243.29</td><td>0.14</td><td>0.17</td><td>0.31</td><td>5</td><td>1.1</td></tr><tr><td>SJ</td><td>243.528</td><td>0.069</td><td>0.13</td><td>0.29</td><td>4</td><td>0.32</td></tr><tr><td>ME</td><td>≤243.53</td><td>二</td><td>二</td><td>二</td><td>二</td><td>二</td></tr></table></body></html>
+
+Note:All dates are based on single-zircon CA-TIMS analyses.Uncertainties reported at $2 \sigma$ level.X.internal (analytical)uncertaintyintheabsenceofallexteralorsystematicerrors;Y.icorporates theU-Pbtracercalibrationo;Z. includes XandY,aswellastheuraniumdecayconstant erorsofJaeyetal.(1971);N.numberofanalyses included inthe weighted mean date.
+
+# 4 Discussion and conclusion
+
+Our geochronologic results establish CA-TIMS dates for Member II of the Ermaying Formation and Member I (lower Bed II) of the Tongchuan Formation. In particular, because of targeted fossl collecting at each ash locality, the vertebrate assemblage zone provenance of the ashes has also been established and dated: $2 4 3 . 5 3 \mathrm { \ m a }$ (late Anisian) for the lower part of Sinokannmeyeria Fauna, and $2 4 1 . 4 8 \mathrm { M a }$ (early Ladinian) for Yonghesuchus.
+
+Global correlation of Mid-Triassic tetrapod bearing faunasBased on the cooccurrence of Shansiodon from both the Sinokannmeyeria Fauna of the Ermaying Formation and the Subzone C of the Cynognathus Assemblage Zone of the Beaufort Group of South Africa (Hancox et al.,2Ol3), the Sinokannmeyeria Fauna has been correlated to the South African Cynognathus C subzone of the Beaufort Group. Our research demonstrates a CA-TIMS date of $2 4 3 . 5 3 \mathrm { \ m a }$ (late Anisian) for the Sinokannemeyeria Fauna which is in agreement with the proposal of Rubidge (2Oo5) who, based on biostratigraphy, considered the Cynognathus C subzone to be late Anisian, and correlated it with other Pangaean successions. Utilizing the co-occurrence of the cynodont Nothogomphodon (Liu and Abdala, 2015), the Sinokannmeyeria Fauna can be correlated to Russian Eryosuchus Fauna which has long been considered to be Middle Triassic (late Anisian to Ladinian) (Shishkin et al., 20o0) and was correlated to the South African subzones B and C of the Cynognathus Assemblage Zone (Hancox,1998; Rubidge,20o5). Our work supports the idea that Eryosuchus fauna is at least partially correlated to Cynognathus C subzone and is thus late Anisian.
+
+The Puesto Viejo Formation (Group) of Argentina was also correlated with subzone C and assigned an age of late Anisian based on shansiodont Vinceria (Rubidge, 20o5). However, a Carnian age ( $2 3 5 . 8 \pm 2 . 0 \ \mathrm { M a } )$ is obtained by the SHRIMP U-Pb dating (Ottone et al., 2014). This dating is not concordant with the bearing tetrapods,and needs to be further tested.
+
+Yonghesuchus is closely related to Turfanosuchus from the Karamayi Formation of Xinjiang, China and Gracilisuchus from the Chanares Formation of La Rioja Province, Argentina (Butler et al., 2014). Our research demonstrates a CA-TIMS date of 241.48 Ma (early Ladinian) for the Yonghesuchus Fauna which is earlier than the early Carnian age of the Chanares Formation (Marsicano et al., 2O16),and indicates that the age of Karamayi Formation could extend to Ladinian or even Carnian.
+
+These newly determined CA-TIMS dates in the Ordos Basin of China provide the first empirical evidence for Anisian and Ladinian ages respectively for the Sinokannemeyeria and Yonghesuchus faunas. This is of international significance as it is now possible to provide proof of age to other Middle Triassic successions which share biozone defining vertebrate taxa. In particular for the Anisian this is pertinent to the Upper Cynognathus Assemblage Zone of the Karoo of South Africa and the Eryosuchus fauna of the Donguz Suite of Russia,and for the Ladinian it applies to Chanares Formation of Argentina.
+
+Age of the Ermaying Formation and the Lower/Middle Triassic boundary Recently, Late Triassic ages were reported for the Ermaying Formation of the Yanshan belt (Meng et al.,
+
+2014; Wei et al., 2015; Zhang et al., 2016). However, typical Ermaying Formation generally distributes in Ordos and West Shanxi-Henan stratigraphic regions, not in Yanshan belt (Yang et al.,20oo); and the former name Huzhangzi Formation was reused to replace the name Ermaying Formation in Yanshan belt (Wei et al., 2015).
+
+If we accept the similar deposit velocity for all the Ermaying Formation, the base of the Ermaying Formation here is assumed as ca. $2 4 5 ~ \mathrm { { M a } }$ ，much younger than the age of the base of Anisian $( { \sim } 2 4 7 \mathrm { M a } )$ ）and the base of Anisian (Lower/Middle Triassic boundary) should lie within the Heshanggou Formation,lower than current schemes (Li and Cheng,1995; Yang et al.,2000).
+
+AcknowledgementsWe thank Liu Yu-Feng,Xu Xu, Liu Yu-Dong for their work for collecting fossils and tuff samples. Corwin Sullivan and Sterling Nesbitt read and commented on an early version of this paper. Bruce Rubidge and Spencer Lucas reviewed the paper, and significantly improve it. The research was supported by the National Natural Science Foundation of China (41472017 and 41661134047), State Key Laboratory of Palaeobiology and Stratigraphy (Nanjing Institute of Geology and Palaeontology, CAS) (20161101), Chinese Academy of Sciences (XDPB05). Fossil collection was also supported by the excavation grant from the Chinese Academy of Sciences.
+
+中三叠世脊椎动物生物地层的高精度时间校准：
+
+# 中国肯氏兽动物群和永和鳄时代的铀-铅锆石法测定
+
+刘俊1,2 JahandarRAMEZANI 李录 尚庆华' 徐光辉'汪衍胤1 杨嘉声1,2
+
+(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室 北京100044)
+
+(2 中国科学院大学 北京100049)
+
+(3美国麻省理工学院地球、大气和行星科学系 坎布里奇02139)
+
+摘要：四足动物组合带是全球陆相三叠系对比的有力手段，但是迄今为止中三叠世的四足动物组合尚没有可靠的时间框架。本文报道了五个采自二马营组和铜川组，与四足动物化石共同产出的火山凝灰岩样品的锆石化学剥蚀-热电离质谱法年龄。结果表明中国肯氏兽动物群时代为安尼期晚期，而永和鳄的时代为拉丁期早期。通过生物地层对比，这一结果还为其他中三叠世的四足动物组合，如南非的犬颌兽带上部、俄罗斯的引鳄动物群以及新疆的克拉玛依组提供了准确的年龄。鄂尔多斯盆地下中三叠统界线应低于二马营组底界。摘要：中三叠世，二马营组，铜川组，中国肯氏兽动物群，永和鳄，铀-铅锆石法测年
+
+# References
+
+ButlerR,Sullivan C,Ezcurr M etal.,2014.New clade of enigmatic early archosaurs yields insights into early pseudosuchian phylogeny and the biogeography of the archosaur radiation.BMC Evol Biol,14(1): 128
+
+Hancox PJ,1998.A stratigraphic,sedimentologicaland palaeonvironmentalsynthesisof the Beaufort-Moltenocontactin the Karoo Basin.Ph.D thesis.Johannesburg: University of the Witwatersrand.1-391 Hancox PJ,Angielczyk KD,RubidgeBS,20l3.AngonisaurusandShansiodon,dicynodonts(Therapsida,Anomodontia) from subzone Cof the Cynognathus Assemblage Zone (Middle Triassc)of South Africa.JVertPaleont,33(3):655-   
+676 Irmis RB,MundilR,MartzJWetal.,2011.High-resolutionU-Pbages fromtheUpperTriassicChinleFormation (New Mexico, USA) support a diachronous rise of dinosaurs.Earth Planet Sc Let, 309(3-4): 258-267 ,Wu X C,RieppelOetal.,2008.Anancestral turtle from the Late Triassicof southwestern China.Nature,456: 497- Li JL,Cheng ZW,1995.A new Late Permian vertebrate fauna from Dashankou, Gansu, with comments on Permian and Triasic vertebrate assemblage zones ofChina.In:SunAL,WangYQeds,Sixth Symposium on Mesozoic Terrstrial Ecosystems and Biota, hort Papers. Beijing: China Ocean Press. 33-37 Li JL, Wu X C, Zhang FC,2008.The Chinese Fossil Reptiles and Their Kin. $2 ^ { \mathrm { n d } }$ ed. Beijing: Science Press.1-473 LiuJ,AbdalaF,20l5.Newdiscoveries from the Sinokannemeyeria-Shansisuchus Assemblage Zone: 2.Anewspeciesof Nothogomphodon (Therapsida: Therocephalia)from the Ermaying Formation (Anisian, Middle Triasic）of Shanxi, China. Vert PalAsiat, 53(2): 123-132 Liu J,Wu X C,LiJL,2Ool.The firstreptile from the Tongchuan Formationand itsstratigraphicalsignificance.Vert PalAsiat, 39(1): 67-71 LiuJ,LiL,LiXW,2013.SHRIMPU-Pbzircon dating of the Triasic Ermaying and Tongchuang formationsin Shanxi, China and its stratigraphic implications.Vert PalAsiat,51(2): 162-168 Lucas SG,2010.The Triasic timescalebasedonnonmarine tetrapod biostratigraphyand biochronologyGeol Soc London Spec Publ,334: 447-500 Lucas SG,Luo ZX,1993.Adelobasileus from the UpperTriasicof West Texas; the oldest mammal.JVertPaleont, 13（3）   
+309-334 Luo Z X,2oo7.Transformation and diversification in early mammal evolution. Nature,450:1011-1019 MarsicaoCA,Imis RB,MancusoACetal.,2O16.The precise temporal calibrationof dinosaur origins.Proc NatlAcad Sci USA,113(3): 509-513 MartinezRN,SerenoPC,AlcoberOAetal.,201.Abasal dinosaur from the dawnof thedinosaur erain southwestern Pangaea. Science,331(6014): 206-210 Meng QR,Wei HH,Wu G L et al.,2014.Early Mesozoic tectonic setings of the northern North China craton. Tectonophysics,611(1): 155-166 MundilR,PalfyJ,RennePRetal.,2Olo.TheTriasictimescale:newconstraintsandareviewof geochronologicaldata. Geol Soc London Spec Publ,334: 41-60 NesbittSJ,Sidor CA,IrmisRBetal.,2010.Ecologicalldistinct dinosauriansister groupshows earlydiversificationof Ornithodira.Nature,464: 95-98   
+Ottone EG,Monti M,Marsicano CA et al.,2014.Anew Late Triasic age for the Puesto Viejo Group (San Rafael depocenter,Argentina): SHRIMP U-Pb zircon datingand biostratigraphic correlations acrosssouthern Gondwana.J South Am Earth Sci,56:186-199   
+RamezaniJ,HokeGD,FastovskyDEtal.,2Ol1.High-precision U-PbircongeochronologyoftheLate TriasicCinle Formation,PetrifiedForest NationalPark(Arizona,USA):Temporal constraintsonthe early evolutionofdinosaurs. Geol Soc Am Bull, 123(11-12): 2142-2159   
+RiggsNR,AshSR,BarthAPetal.,2003.Isotopic ageofthe BlackForestBed,PetrifiedForest Member,Chinle Formation,Arizona: an example of dating a continental sandstone.Geol Soc Am Bul,115(11):1315-1323   
+Rogers RR,Swisher CC,SerenoPCetal.,993.The Ischigualasto tetrapod assemblage (Late Triasic,Argentina)and 40 Ar/9Ar dating of dinosaur origins. Science,260(5109): 794-797   
+RubidgeB S,2Oo5.Re-uniting lostcontinents:fosil reptiles from theancient Karoo and their wanderlust.SAfr JGeol, 108(3): 135-172   
+Schoch RR,Sues HD,2015.A Midle Triassic stem-turtle and the evolution of theturtle body plan.Nature,523:584 587   
+Shishkin MA,Ochev VGLozovskyVRetal.,0.Tetrapodbiostratigraphyof theTriassicofEasternEurope.In:Benton M J, Shishkin MA,Unwin DMet al.eds,The Ageof Dinosaurs in Rusia and Mongolia. Cambridge: Cambridge University Press.120-139   
+Sues HD,2016. Dating the origin of dinosaurs.Proc Natl Acad Sci USA,113(3): 480-481   
+Wei HH,Wu GL,DuanL,2015.Revisiting Triasic stratigraphyof the Yanshan belt.Sci China Earth Sci,58(4): 491- 501   
+Yang Z Y, Zhang SX,Yang JD et al.,20oo.StratigraphyofChina: Triasic.Beijing: Geological Publishing House. 1-139 ，   
+Zhang YQ,ChenHY,Wei WTetal.,2016.Thediscoveryof tuff interlayer from the Triassc ErmayingFormation in northern Hebei Province and its geological significance.Geol Bull China,35(1): 20-26

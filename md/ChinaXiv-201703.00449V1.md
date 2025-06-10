@@ -1,0 +1,196 @@
+# 基于伴随方法的叶片加工偏差气动灵敏度分析
+
+罗佳奇朱亚路刘 锋(北京大学工学院航空航天工程系，北京100871)
+
+摘要受加工精度限制，叶片加工外形与设计外形存在一定偏差，该类偏差具有较强的随机性，对叶片气动性能造成不确定性影响。加工叶片外形偏差的不确定性影响为几何尺度上的小扰动问题。本文首先基于伴随方法建立了适用于加工叶片外形偏差气动灵敏度分析及气动性能偏差预估模型。之后，计算某二维涡轮叶片的气动参数伴随灵敏度，由此确定厚度均匀变化的测试叶片的气动性能偏差，并与数值模拟结果进行对比，验证伴随方法在叶片气动不确定性灵敏度分析中的精确性和有效性。最后，采用基于灵敏度分析的 MonteCarlo方法研究满足正态分布的批量加工叶片的气动性能偏差，确定了相应的气动偏差统计模型。
+
+关键词灵敏度分析；气动性能；伴随方法；加工偏差；蒙特卡洛；正态分布中图分类号：V211.6 文献标识码：A 文章编号:0253-231X(2017)03-0498-06
+
+# Aerodynamic Sensitivity Analysis for Manufacturing Variations of a Turbine Blade by an Adjoint Method
+
+LUO Jia-Qi ZHU Ya-Lu LIU Feng
+
+(Department ofAeronautics andAstronautics Colege of Engineering,Peking University，Beijingl00871,China)
+
+AbstractDue to the limited machine precision，there exist deviations between the nominal and the manufacturing aerodynamic shape of turbomachinery blades. The strong randomicity of manufacturing variations results in uncertainties to aerodynamic performance,which is essentially a small perturbation problem because the manufacturing variations are micro relative to the geometric parameters. In the paper,the evaluation of the resultant performance uncertainty is firstly introduced and completed with the adjoint sensitivity. Then the performance variations of two blades with uniformly thickened and thinned thickness,respectively reference to the nominal blade are predicted by the adjoint sensitivity, which are then compared with the computational ones to demonstrate the sufficient accuracy and practicability of the adjoint method in uncertainty studies.Finally, Monte Carlo simulations are performed on a group of blade samples,the manufacturing variations of which subject to normal distributions.By the adjoint method,the performance variations subject to normal distributions are successfully obtained.
+
+Key wordssensitivity analysis; aerodynamic performance； adjoint method； manufacturing varia-tion；Monte Carlo；normal distribution
+
+# 0引言
+
+在制造工业中，受加工精度的影响，加工叶片的外形与设计外形不可避免地存在一定的偏差。虽然每个外形设计参数的加工偏差较小，但是所有设计参数对叶片气动性能的综合影响不容忽略。加工偏差对叶片气动性能的影响研究早在上世纪六、七十年代即得到开展[1,2]。虽然加工偏差对叶轮机械气动性能有重要影响这一事实早已得到科技人员的认同，然而，受制造业、实验成本等因素的制约，相关研究在之后很长一段时间内都没有得到实质性进展。直至21世纪，随着数值计算的发展和数值精度的提高，加工偏差对叶轮机械气动性能不确定性影响再次成为国际性研究热点。
+
+本世纪初，MIT 的研究人员[3-5]基于蒙特卡洛（MonteCarlo）分析方法建立了气动偏差的统计模型，成功地用数值方法替代了实验方法。之后，德国FTT的Lange 等[6]、DLR的Schell等[7]在气动外形扰动统计模型的基础上采用三维计算流体力学(CFD）软件分析了气动外形扰动对叶轮机械定常、非定常气动性能的影响。在试验和数值研究中，需要首先确定设计参数小扰动及相应的气动性能变化，之后从大量数据样本中统计分析设计参数小扰动对气动性能变化的影响。这种方法需要大量样本的试验测量或数值计算，研究成本过高。
+
+研究设计参数小扰动对叶片气动性能的影响的基础与核心是确定气动性能对设计参数变化的敏感程度，即灵敏度。早期的气动研究中多采用直接差分法（FDM）计算灵敏度。虽然FDM灵敏度数值精度高，然而，对于复杂气动问题，FDM灵敏度计算效率低；此外，扰动步长的选取对灵敏度精度的影响也是该方法的关键之一。自上世纪七、八十年代Pironneau[8]、Jameson[9] 成功地实现了基于伴随方法的灵敏度计算后，基于伴随灵敏度分析的内外流气动优化设计研究得到了快速发展[10-14]。
+
+在计算伴随灵敏度时，相对于气动外形特征长度，网格扰动尺度相对较小，在该扰动范围内，伴随灵敏度基本不变。给定灵敏度时，由小扰动引起的气动性能变化可以由小扰动和灵敏度直接确定并与小扰动满足线性关系。确定了灵敏度，即可由设计参数小扰动快速、直接地确定气动性能偏差，偏差估计无需额外的流场计算，偏差计算时间和样本数量基本无关。此外，工业界往往更为关心的是量产叶片的气动性能，这就要求对叶片样本的加工偏差及气动不确定性进行统计分析。根据抽样叶片的加工偏差，建立合适的偏差统计模型，由灵敏度即可快速建立相应的气动性能偏差统计模型。
+
+本文首先简要介绍了伴随方法的基本原理，建立面向外形小扰动的叶片气动灵敏度分析及气动性能偏差预估模型。对均匀加厚、减薄叶片的气动性能进行灵敏度分析及偏差预估，通过与数值模拟结果的对比验证所发展的基于伴随方法的加工偏差气动不确定性灵敏度分析的有效性。对偏差满足正态分布的批量加工叶片，采用灵敏度分析进行MonteCarlo 模拟，建立气动性能偏差的统计模型。
+
+# 1 伴随方法基本原理
+
+伴随方法最早由 Pironneau[8]、Jameson [9] 引入到流体力学优化设计领域。由于其灵敏度计算的高效性和高精度，在内外流气动优化设计中得到了快速发展。伴随方法的基本原理是将流动控制微分方程作为约束，采用伴随算子将流动方程的变分引入到目标函数变分中，通过消除流场变分对目标函数变分的影响，确定伴随方程及相应的灵敏度。定义
+
+目标函数 $I$
+
+$$
+I = I ( { \pmb w } , { \pmb F } )
+$$
+
+其中： $\scriptstyle w$ 为流场变量， $F$ 为几何边界。目标函数的变分为
+
+$$
+\delta I = \frac { \partial I } { \partial \pmb { w } } \delta \pmb { w } + \frac { \partial I } { \partial \pmb { F } } \delta F
+$$
+
+流动控制方程 $\scriptstyle { \mathcal { R } }$ 满足
+
+$$
+\pmb { R } ( \pmb { w } , \pmb { F } ) = 0
+$$
+
+其变分为
+
+$$
+\delta { \pmb R } = \frac { \partial { \pmb R } } { \partial { \pmb w } } \delta { \pmb w } + \frac { \partial { \pmb R } } { \partial { \pmb F } } \delta { \pmb F } = 0
+$$
+
+引入伴随算子 $\pmb { \psi }$ ，由式(2)和式(4)有
+
+$$
+\delta I = \left\{ \frac { \partial I } { \partial w } - \pmb { \psi } ^ { \mathrm { T } } \frac { \partial \pmb { R } } { \partial \pmb { w } } \right\} \delta \pmb { w } + \left\{ \frac { \partial I } { \partial \boldsymbol { F } } - \pmb { \psi } ^ { \mathrm { T } } \frac { \partial \pmb { R } } { \partial \boldsymbol { F } } \right\} \delta \boldsymbol { F }
+$$
+
+若令式(5）右端第一项系数为零，即可消除流场变分对目标函数变分的影响，由此确定目标函数对应的伴随方程及灵敏度，分别如式(6)、式(7）所示。
+
+$$
+\frac { \partial I } { \partial \pmb { w } } - \pmb { \psi } ^ { \mathrm { T } } \frac { \partial \pmb { R } } { \partial \pmb { w } } = 0
+$$
+
+$$
+{ \pmb G } = \frac { \delta { \cal I } } { \delta { \cal F } } = \frac { \partial { \cal I } } { \partial { \cal F } } - { \pmb \varPsi } ^ { \mathrm { T } } \frac { \partial { \pmb R } } { \partial { \cal F } }
+$$
+
+由式(7）可知：确定流场和伴随场后，只需扰动几何边界实现网格变分，即可计算灵敏度。相对于流场、伴随场的求解，网格变分的时间几乎可以忽略不计。因此，对于每个目标函数，只需求解一次流动控制方程和一次伴随方程，即可确定所有灵敏度信息，灵敏度计算时间和设计参数的个数基本无关。在前期工作中[11,12]，作者已经成功实现了伴随灵敏度的求解及在气动优化设计中的应用，本文将在此基础上开展研究。
+
+# 2加工偏差灵敏度分析
+
+加工叶片外形偏差的产生属于随机过程，需要对一定数量的样本进行特征分析以确定加工系统的偏差模态[3]，由此描述批量加工叶片的外形偏差。由于缺乏加工叶片的外形数据，研究中仅对两个测试叶片进行气动灵敏度分析。在设计叶片表面均匀分布 49个测量点，并施加均匀的正、负厚度变化生成测试叶片，厚度变化为 $0 . 2 ~ \mathrm { m m }$ 。图1给出了某二维涡轮叶片的设计外形，以及均匀加厚、均匀减薄的测试叶片气动外形。为了减小叶片尾缘影响，偏差测量区间为 $[ 0 , 0 . 9 9 c ]$ ， $\boldsymbol { c }$ 为叶片弦长。
+
+![](images/6b0ef4b6494762e51a7b894561f628a403dfbb9c75d24f454115501682e5f37b.jpg)  
+图1设计叶片及厚度均匀变化的加工叶片 Fig.1 Profiles of nominal and manufacturingblades
+
+早期研究[11,12]发现：当外形扰动量较小时，灵敏度在很宽的扰动范围内基本保持不变。加工叶片的外形偏差一般为毫米级甚至更低。因而，由加工偏差引起的气动不确定性分析属于小扰动问题。由式（7）可知，当扰动较小时，灵敏度近似为常数，气动性能参数的变化可以确定为：
+
+$$
+\Delta I = \sum _ { i } g _ { i } \varepsilon _ { i } + O ( \varepsilon ^ { 2 } )
+$$
+
+其中： $g$ 为一阶灵敏度, $\varepsilon$ 为外形偏差， $\Delta I$ 表示气动参数偏差。
+
+为了验证基于伴随方法的气动性能偏差灵敏度分析的精确性有效性，研究中计算了不同目标函数对49个测量点的灵敏度，目标函数分别选取为出口流量、总压、等熵效率，定义如式（9)所示：
+
+$$
+\dot { m } = \int _ { B } \mathrm { d } m , \pi = \frac { 1 } { \dot { m } } \int _ { B } \Delta \pi \mathrm { d } m , \eta = \frac { 1 } { \dot { m } } \int _ { B } \Delta \eta \mathrm { d } m
+$$
+
+其中： $\mathrm { d } m , \ \Delta \pi , \ \Delta \eta$ 分别表示出口网格单元的流量、压比和等熵效率，定义如下式：
+
+$$
+\Delta \pi = \frac { p _ { \mathrm { 0 , e x i t } } } { p _ { \mathrm { 0 , i n } } } , \quad \Delta \eta = \frac { 1 - ( p / p _ { \mathrm { 0 , e x i t } } ) ^ { ( \gamma - 1 ) / \gamma } } { 1 - ( p / p _ { \mathrm { 0 , i n } } ) ^ { ( \gamma - 1 ) / \gamma } }
+$$
+
+其中： $p , \ p _ { 0 }$ 分别为静压和总压， $\gamma$ 为比热比，下标in、exit分别表示进、出口。
+
+流场通过求解Euler方程确定，进口总压为一个标准大气压，总温为288.15K，出口等熵马赫数约为0.8，叶片通道内有一道强激波。图2比较了伴随灵敏度（AM)和FDM灵敏度，图中P.S.、S.S.、LE分别表示压力面、吸力面及叶片前缘。由图可知：对于相差一个量级的外形扰动，灵敏度几乎完全重合，收敛性较好。对于流量目标函数，伴随灵敏度和FDM灵敏度吻合较好；对于压比和等熵效率，伴随灵敏度仅在吸力面激波附近与 FDM 灵敏度有一定的偏差，早期研究[15]也发现了该现象：受离散格式、网格分辨率等因素的影响，在跨超音速区域，基于连续伴随方法的灵敏度和FDM灵敏度会存在一定的偏差。此外，在吸力面尾缘附近，灵敏度出现较大幅度的振荡，主要原因为叶片气动性能变化对叶片尾缘外形变化较为敏感。整体上，总压、等熵效率对气动外形变化的敏感程度远高于流量。
+
+表1比较了三个不同叶片的流量、总压和等熵效率，其中：设计叶片的气动参数均已单位化，其它叶片的气动参数均为相对于设计叶片的偏差百分比。在叶片喉道流动为音速，喉道面积直接决定了进口流量。相对于设计叶片，均匀加厚的叶片通道喉道面积减小，导致流量和激波前压力降低，流动损失增大，出口总压降低。对于均匀减薄叶片，其通道面积加大，结论相反。由于流量的伴随灵敏度精度较高，相对于设计叶片，由灵敏度分析确定的气动性能偏差与精确CFD 求解的气动性能偏差之间的相对误差较小，均不超过 $1 \%$ ；由于总压、效率的伴随灵敏度精度相对较低，由灵敏度分析确定的气动偏差与精确CFD 偏差之间的相对误差较为明显。
+
+![](images/883f2a4f5cbd15e1a3fdcaa4a514b9656ce93455aca4885a2598edbb949f8c58.jpg)  
+图2伴随灵敏度(a)流量；(b)总压；(c)等熵效率 Fig.2 Adjoint sensitivity of: (a) mass flow;(b) total pressure;(c) adiabatic efficiency
+
+# 表1基于灵敏度分析的气动性能偏差
+
+Table 1 Deviations of adjoint-based performance evaluation   
+
+<html><body><table><tr><td>气动参数</td><td>叶片</td><td>CFD</td><td>伴随方法</td><td>偏差/%</td></tr><tr><td rowspan="3">流量</td><td>设计</td><td>1.0000</td><td>1</td><td>1</td></tr><tr><td>加厚</td><td>-0.6336</td><td>-0.6371</td><td>0.5489</td></tr><tr><td>减薄</td><td>0.6262</td><td>0.6239</td><td>-0.3752</td></tr><tr><td rowspan="3">总压</td><td>设计</td><td>1.0000</td><td>1</td><td>1</td></tr><tr><td>加厚</td><td>-0.1394</td><td>-0.1489</td><td>6.8456</td></tr><tr><td>减薄</td><td>0.2068</td><td>0.1974</td><td>-4.5385</td></tr><tr><td rowspan="3">等熵效率</td><td>设计</td><td>1.0000</td><td>1</td><td>1</td></tr><tr><td>加厚</td><td>-4.8154</td><td>-4.4831</td><td>-6.9013</td></tr><tr><td>减薄</td><td>7.1334</td><td>7.4642</td><td>4.6378</td></tr></table></body></html>
+
+# 3MonteCarlo 统计分析
+
+MonteCarlo方法在很多学科中已得到了广泛应用。早期研究均采用CFD 数值模拟方法来计算抽样叶片的气动性能参数并构造合理的统计模型。Garzon 等[3]采用 2000 个样本建立了气动偏差统计模型。很显然，通过灵敏度分析计算气动性能偏差，在进行MonteCarlo统计分析时不需要额外的流场计算，可以显著提高气动不确定性统计分
+
+析的效率。
+
+研究中采用拉丁超立方生成满足正态分布的样本叶片，样本数为5000，正态分布函数如下式所示。
+
+$$
+f ( \varepsilon _ { \mathrm { g } } ) = \left\{ \begin{array} { l l } { \displaystyle \frac { 1 } { \sqrt { 2 \pi } \sigma _ { \mathrm { g } } } e ^ { - \frac { ( \varepsilon _ { \mathrm { g } } - \mu _ { \mathrm { g } } ) ^ { 2 } } { 2 \sigma _ { \mathrm { g } } ^ { 2 } } } , } & { \varepsilon _ { \mathrm { g } } \in [ - E , E ] } \\ { 0 , } & { \mathrm { o t h e r w i s e } } \end{array} \right.
+$$
+
+其中: $E { = } 0 . 2 ~ \mathrm { m m }$ 为最大偏差, $\mu _ { \mathrm { g } }$ 和 $\sigma _ { \mathrm { g } }$ 分别为均值和均方差。图3给出了不同均值的加工偏差概率密度函数 (PDF)分布，均方差均为 $\sigma _ { \mathrm { g } } { = } 0 . 3 7 5 E$ 。
+
+对抽样产生的批量叶片，由式(8)可以快速计算确定气动参数偏差样本。图 $4 { \sim } 6$ 分别给出了流量、总压、效率偏差的PDF分布。由图可知：当叶片加工偏差满足正态分布时，气动参数的偏差也近似满足正态分布，如式(12)所示。
+
+$$
+f ( \varepsilon _ { \mathrm { f } } ) = \left\{ \begin{array} { l l } { \displaystyle \frac { 1 } { \sqrt { 2 \pi } \sigma _ { \mathrm { f } } } e ^ { - \frac { ( \varepsilon _ { \mathrm { f } } - \mu _ { \mathrm { f } } ) ^ { 2 } } { 2 \sigma _ { \mathrm { f } } ^ { 2 } } } , } & { \varepsilon _ { \mathrm { f } } \in [ - \delta f _ { \mathrm { m i n } } , \ \delta f _ { \mathrm { m a x } } ] } \\ { 0 , } & { \mathrm { o t h e r w i s e } } \end{array} \right.
+$$
+
+其中： $\mu _ { \mathrm { f } } , \ \sigma _ { \mathrm { f } }$ 分别为气动偏差统计模型的均值和均方差， $\delta _ { \mathrm { m i n } }$ 和 $\delta _ { \mathrm { m a x } }$ 分别为最小、最大偏差。
+
+![](images/870cd31b222ceb436c0e3665a8ee3986f6648f802f763b627ce50540c1a994f8.jpg)  
+图3不同均值的外形偏差概率密度函数：(a) $\mu _ { \mathrm { g } } { = } 0 . 0$ ；(b) $\mu _ { \mathrm { g } } = 0 . 5 E$ ； (c) $\mu _ { \mathrm { g } } = - 0 . 5 E$ （204'ig.3PDFs with different geometric mean values: (a) $\mu _ { \mathrm { g } } { = } 0 . 0$ ；(b) $\mu _ { \mathrm { g } } = 0 . 5 E$ ；(c) $\mu _ { \mathrm { g } } = - 0 . 5 E$ （20
+
+![](images/aac6b1148dbf4257a43f0068122a1060b391cabcbbe81d5913a65e1fdd65aa7a.jpg)  
+图4 流量偏差概率密度函数：(a) $\mu _ { \mathrm { g } } = 0 . 0 ;$ (b) $\mu _ { \mathrm { g } } = 0 . 5 E$ ； (c) $\mu _ { \mathrm { g } } = - 0 . 5 E$ （204号rig.4 PDFs of statistical mass flow deviations: (a) $\mu _ { \mathrm { g } } = 0 . 0$ ；(b) $\mu _ { \mathrm { g } } = 0 . 5 E$ ； (c) $\mu _ { \mathrm { g } } = - 0 . 5 E$ （204号
+
+![](images/c13e87874716cde9427682af3b162219c78eeb9c013bc05a9a8a1dd17804f6a5.jpg)  
+图5总压偏差概率密度函数：(a) $\mu _ { \mathrm { g } } = 0 . 0 ;$ (b) $\mu _ { \mathrm { g } } = 0 . 5 E$ ； (c) $\mu _ { \mathrm { g } } = - 0 . 5 E$ （204号DFs of statistical total pressure deviations: (a) $\mu _ { \mathrm { g } } = 0 . 0$ (b) $\mu _ { \mathrm { g } } = 0 . 5 E$ ；(c) $\mu _ { \mathrm { g } } = - 0 . 5 E$
+
+![](images/04886d32f8dfb0fdafd1cc85c045027150ac1a4503c74d71305b09864b26e838.jpg)  
+图6 等熵效率偏差概率密度函数：(a) $\mu _ { \mathrm { g } } = 0 . 0 ;$ (b) $\mu _ { \mathrm { g } } = 0 . 5 E$ ；(c) $\mu _ { \mathrm { g } } = - 0 . 5 E$ Fig.6 PDFs of statistical adiabatic efficiency deviations: (a) $\mu _ { \mathrm { g } } = 0 . 0$ ；(b) $\mu _ { \mathrm { g } } = 0 . 5 E$ ； (c) $\mu _ { \mathrm { g } } = - 0 . 5 E$ （204号
+
+由图 $4 { \sim } 6$ 可知：当平均加工偏差为 $0 . 1 \mathrm { \ m m }$ （204号 $( \mu _ { \mathrm { g } } = \pm 0 . 5 E )$ 时，与设计叶片相比，流量、总压、效率偏差的统计平均值分别为 $0 . 6 3 \%$ 、 $0 . 1 3 \%$ 、 $0 . 1 6 \%$ 0此外，统计平均的气动性能偏差与加工偏差呈线性关系，主要原因是在本文的研究中，气动性能偏差只由一阶灵敏度计算确定，如式(8)所示。
+
+偏度(Skewness)是统计模型的另一个重要参数，其定义如式（13)所示：
+
+$$
+{ \mathrm { S k e w n e s s } } = { \frac { 1 } { n } } \sum _ { i } \left( { \frac { \varepsilon _ { \mathrm { f } , i } - \mu _ { \mathrm { f } } } { \sigma _ { \mathrm { f } } } } \right) ^ { 3 }
+$$
+
+其中： $\boldsymbol { n }$ 为样本叶片数。表2给出了流量、总压、效率偏差统计模型的偏度。由表2可知：最大偏度不超过0.01，进一步证实了气动性能偏差统计模型接近于正态分布。
+
+表2气动性能偏差统计模型的偏度  
+
+<html><body><table><tr><td>流量</td><td>总压</td><td>效率</td></tr><tr><td>0.002377</td><td>-0.008859</td><td>0.008861</td></tr></table></body></html>
+
+均方差可以用于衡量样本在抽样空间内偏离平均的程度。文中还研究了三种不同均方差正态分布的外形偏差统计模型所对应的气动偏差统计模型的均方差变化，如表3所示。三种正态分布外形偏差统计模型的均值均为零，均方差分别为 $0 . 2 5 E$ 、$0 . 3 7 5 E$ 、 $0 . 5 0 E$ 。由表可知：随着外形偏差统计模型均方差的增大，气动偏差统计模型的均方差也随着增大。当外形偏差集中在均值附近时，样本叶片的气动性能和设计叶片之间的差别较小，即气动性能也集中在设计叶片附近，从而使得均方差较小。上述结果也较好地反映了气动偏差统计模型与外形偏差统计模型之间的线性关系。
+
+Table 2 Skewness of statistical performance   
+表3不同外形标准差的气动偏差统计模型的均方差Table3 Standarddeviationsofthe statisticalperformance with different geometric variances  
+
+<html><body><table><tr><td>气动参数</td><td>σ= 0.25E</td><td>σ= 0.375E</td><td>g=0.50E</td></tr><tr><td>流量/10-7</td><td>1.223</td><td>1.716</td><td>2.446</td></tr><tr><td>总压/10-3</td><td>0.985</td><td>1.519</td><td>1.970</td></tr><tr><td>效率/10-3</td><td>1.160</td><td>1.857</td><td>2.320</td></tr></table></body></html>
+
+# 4结论
+
+本文主要介绍了基于伴随方法的叶片气动不确定性灵敏度分析方法并采用MonteCarlo方法建立了气动性能偏差统计模型。通过数值模拟及基于伴随方法的灵敏度分析，确定了均匀加厚、均匀减薄两个测试叶片的气动性能参数，并与设计叶片进行了对比。最后开展了基于灵敏度分析的MonteCarlo模拟，分析了满足不同正态分布的外形偏差统计模型的气动性能参数变化，并确定了相应的气动偏差统计模型。主要结论有：
+
+1）相对于总压、效率目标函数，流量目标函数的伴随灵敏度精度更高，因而基于灵敏分析预测得叶片流量偏差精度也较高，相对误差较小。
+
+2)在基于一阶伴随灵敏度的气动性能不确定性分析中，在统计意义上气动偏差统计模型和外形偏差统计模型近似满足线性关系；对于满足不同正态分布的外形偏差统计模型，气动偏差概率密度分布函数也近似满足正态分布。
+
+3)基于伴随方法的由加工偏差引起的叶片气动性能不确定性灵敏度分析的方法是有效的，鉴于伴随方法在灵敏度求解方面的高效性，在进一步提高伴随灵敏度精度的基础上，采用该方法来预测加工叶片气动性能偏差并对叶片气动外形加工精度进行控制优化是值得期待的。
+
+# 参考文献
+
+[1]Bammert K,StobbeH.Results ofExperiments forDetermining the Influence of Blade Profile Changes and Manufacturing Tolerance on the Efficiency,the Enthalpy Drop, and the Mass Flow of Multi-Stage Axial Turbines [R]. ASME Paper No.70 WA/GT-4,1970   
+[2]Bammert K,Sandstede H.Influence of Manufacturing Tolerances and Surface Roughness of Blades on the Performance of Turbines [J].Journal of Engineering for Power, 1976,98(1): 29-36   
+[3]Garzon V E,Darmofal D L.Impact of Geometric Variability on Axial Compressor Performance [J].Journal of Turbomachinery,2003,125(4):692-703   
+[4] Lavainne J. Sensitivity of a Compressor Repeating-Stage to Geometry Variation [D].Cambridge，MA，United States:MIT,2003 [5]Lamb C M.Probabilistic Performance-Based Geometric Tolerancing of Compressor Blades [D].Cambridge,MA, United States:MIT,2005 [6] Lange A，Voigt M,Vogeler K,et al. Impact of Manufacturing Variability on Multi- stage High-Pressure Compressor Performance [J].Journal of Engineering for Gas Turbines and Power,2012,134(11):112601   
+[7] Schnell R,Lengyel-Kampmann T,Nicke E.On the Impact of Geometric Variability on Fan Aerodynamic Performance,Unsteady Blade Row Interaction，and its Mechanical Characteristics [J]. Journal of Turbomachinery, 2014,136(9):091005 [8] Pironneau O.On Optimum Shapes in Stokes Flow [J]. Journal of Fluid Mechanics,1973, 59(2):117-128 [9] Jameson A.Aerodynamic Design via Control Theory [J]. Journal of Scientifc Computing,1988,3(3): 233-260   
+[10] Jameson A,Reuther J.Control Theory Based Airfoil Design Using the Euler Equations [R].AIAA Paper 94-4272, 1994   
+[11] Luo J,Xiong J,Liu F,et al. Three-Dimensional Aerodynamic Design Optimization of a Turbine Blade by Using an Adjoint Method [J]. Journal of Turbomachinery, 2011, 133(1):011026   
+[12] Luo J,Liu F,McBean I. Turbine Blade Row Optimization through Endwall Contouring by an Adjoint Method [J].Journal of Propulsion and Power,2015,37(2): 505- 518   
+[13] Wang D,He L.Adjonit Aerodynamic Design Optimization for Blades in Multi-Stage Turbomachines:Part IIValidation and Application [J]. Journal of Turbomachinery,2010,132(2):021012   
+[14] Li H, Song L,Li Y,et al. 2D Viscous Aerodynamic Shape Design Optimization for Turbine Blades Based on Adjoint Method [J].Journal of Turbomachinery，2011，133(3): 031014   
+[15] Yang S,Wu H,Liu F,et al. Optimum Aerodynamic Design of Cascades by Using an Adjoint Equation Method [R].AIAA Paper 2003-1068,2003

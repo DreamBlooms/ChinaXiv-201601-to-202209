@@ -1,0 +1,166 @@
+# 陕西关中重污染天气低空流场的分型研究
+
+胡淑兰'，胡琳，程路¹，林扬²，路岑之³(1.陕西省气候中心,陕西 西安710014；2.陕西省气象科学研究所,陕西 西安710014;3.西安市周至县水务局，陕西 西安710040)
+
+摘要：利用陕西关中区域内五市(西安、咸阳、渭南、铜川、宝鸡)有 $\mathrm { P M } _ { 2 . 5 }$ 监测数据以来的2014—2019年各市污染指数(AQI)筛选代表年，定义关中区域污染和区域重污染天气过程，结合陕西WRF(Weather research&forecasting model)模拟数据，对影响关中区域的流场分型，并重点研究了各流场分型与 $\mathrm { P M } _ { 2 . 5 }$ 浓度的关系。结果表明：(1)根据关中区域低空流场，将重污染天气日流场分为：东部来流(A\~C)、西部/南部来流(D\~F)、北部来流非转向(G)和无显著流场(H)4个大类，根据出现时间和地点等,东部来流又分为东北来流(A)、东北来流夜间型(B)、渭南绕山来流(C),西部/南部来流分为西南/南部来流(D)、北部来流转向(E)、宝鸡来流(F),共8个类型分别记为 $\mathrm { A } { \sim } \mathrm { H }$ 。(2）区域重污染过程中东部来流出现最多，频率达到 $5 9 . 8 \%$ ,其中B、C型占比均达到 $2 5 . 0 \%$ 以上；各流场分型昼夜变化较大，在昼间(08:00—19:00)流场中，出现最多的是C型流场，在夜间(20:00—07:00)流场中B、E、F型比较活跃，出现最多的是B型流场，另外 $\mathrm { A , D , G , H }$ 型夜间出现比昼间多。(3）关中区域重污染主要出现在冬季，除因供暖导致的污染物的排放量增加外，低空流场对污染物扩散影响显著，从流场分型上看，静稳天气、山谷风、北方污染物输送是导致关中区域重污染的主要原因。
+
+关键词：陕西关中；低空流场分型；区域重污染天气过程
+
+# 文章编号：
+
+随着我国城市化进程的加快和经济的快速发展，污染物排放量增大、城市颗粒物浓度持续增高等大气污染问题日益严重，区域重污染天气事件频发，严重影响人民群众的身心健康和日常生产生活[1-5]大气污染过程具有影响范围广、持续时间长、强度大等特点，引起各国政府的高度重视。有研究表明区域性大气重污染已经成为中国的主要大气污染问题，国内外学者针对区域污染展开了广泛深入的研究。苗蕾等[7-10]分别对长江中下游地区、珠三角、京津冀等地区的区域大气污染的特征进行了深入研究，陈卫卫等[1I-12]研究了东北区域重污染成因，姬艺珍对太原市重污染天气过程成因进行了分析[13]。以西安为中心的陕西关中区域是我国大气污染的重灾区之一，也是大气污染防治重点区域之一，2018年汾渭平原(含陕西关中)被国家纳入大气污染防治重点区域。有关关中空气污染众多学者也已开展了一些研究，胡琳[14-17]等分析了关中区域雾霾天气变化特征，分析了污染过程的气象条件特征，但未见关于频发的关中区域重污染天气流场分析的相关工作。本研究对比分析了 $3 0 \mathrm { m } \cdot 5 0 \mathrm { m } \cdot 7 0$ $\mathrm { ~ m ~ }$ 和 $1 0 0 \mathrm { ~ m ~ }$ 的低空流场与典型污染过程的对应关系，认为 $3 0 \mathrm { ~ m ~ }$ 流场更具有代表性，因此本研究拟从关中区域的重污染天气 $3 0 \mathrm { ~ m ~ }$ 流场分析影响关中区域各市污染的主要流场类型，对环保、气象等相关部门开展重污染天气预报以及为政府提供防污治霾决策服务提供技术支撑，具有实际指导意义。
+
+# 1研究区概况
+
+陕西关中南倚秦岭北坡，北靠黄土高原南缘，介于陕北高原与秦岭山地之间，西起宝鸡峡，东迄潼关，海拔 $4 6 0 { \sim } 8 5 0 \mathrm { ~ m }$ ，长约 $3 0 0 \mathrm { k m }$ ，属于亚热带季风气候，夏季高温多雨、冬季温和少雨(图1)。该区域为陕西的工农业发达、人口密集地区，具有区位交通优势显著、历史文化底蕴深厚、现代产业体系完备、创新综合实力雄厚、城镇体系日趋健全等特征，在国家现代化建设大局和全方位开放格局中具有独特战略地位。
+
+# 2数据与方法
+
+# 2.1数据来源
+
+(1）空气质量数据：采用关中区域五市（西安、咸阳、渭南、铜川、宝鸡)污染指数(AQI)数据分析筛选代表年。选取关中区域五市有 $\mathrm { P M } _ { 2 . 5 }$ 监测以来的2014—2019年各市AQI对关中区域五地市进行分析，2017年关中区域污染日共计178d，区域重污染日62d，污染日数为5a之最，重污染日也属偏多年份，因此选择2017年为代表年。2017年关中区域重污染日绝大部分均出现在1—3月和11—12月采暖期间，首要污染物均为 $\mathrm { P M } _ { 2 . 5 }$ ，4月18日、5月5—6日首要污染物为 $\mathrm { P M } _ { 1 0 }$ ，由沙尘暴天气引起，多地爆表，而6月2日、7月2—3日、7月10—11日、8月4日首要污染物均为 $\mathrm { O } _ { 3 }$ ,与雾霾形成基本无关，因此本研究只讨论与防污治霾关系密切的 $\mathrm { P M } _ { 2 . 5 }$ 的56d关中区域重污染情况。
+
+![](images/9c24886db537123d4bd44b79f9ae651761d478fc27ca213b36ea7207b7da9d11.jpg)  
+图1陕西关中地理位置图  
+Fig.1 Location of Guanzhong Region in Shaanxi Province
+
+（2）气象数据：采用WRF开展中尺度数值模拟，以NCEPDS083.2再分析资料作为初始场和边界条件，结合NCEPDS337.0高空和地面天气观测数据进行3DVar同化分析;在水平方向三重嵌套在陕西区域达到 $3 \ \mathrm { k m } \times 3 \ \mathrm { k m }$ 水平分辨率，在垂直方向分为49层，在近地面达到 $2 0 ~ \mathrm { m }$ 左右的垂直分辨率，模拟生成陕西区域2017年逐小时气象数据，用以描述区域气象流场，为重点分析陕西关中地区重污染提供基础数据。
+
+# 2.2 研究方法
+
+（1）区域污染日。若陕西关中区域5个城市（西安、咸阳、渭南、铜川、宝鸡)某天中有3个及以上城市AQI日值大于100,即设定为区域污染日。
+
+（2）区域重污染日。若陕西关中区域5个城市某天中有3个及以上城市AQI日值大于150,即3个及以上城市出现中度及以上污染，设定本日为区域重污染日。
+
+(3）低空流场。因为城市发展， $1 0 \mathrm { m }$ 高度受局地地形影响大，流场不具有代表性，因此本文对比分析了 $3 0 \mathrm { m } \sqrt { 5 0 } \mathrm { m } \sqrt { 7 0 } \mathrm { m }$ 和 $1 0 0 \mathrm { m }$ 的低空流场与典型污染过程的对应关系，认为 $3 0 \mathrm { ~ m ~ }$ 流场更具有代表性，选取 $3 0 \mathrm { ~ m ~ }$ 流场分型，并重点研究各流场分型与$\mathrm { P M } _ { 2 . 5 }$ 浓度的关系。
+
+# 3结果与分析
+
+# 3.1流场分型
+
+经过对2017年56个重污染天气日流场的判读和分析，按照08:00—19:00为昼间，20:00-07:00为夜间，最终将影响关中区域的流场分为4个大类，6个小类，共8个具体类型。根据关中区域低空流场，将
+
+# 干旱区地理
+
+重污染天气日流场分为：东部来流、西部/南部来流、北部来流非转向和无显著流场4个大类。东部来流和西部/南部来流根据出现时间和地点等又各分3个小型。各分型描述见表1和图2\~8。
+
+3.1.1 东部来流东部来流中，关中区域为比较一致的偏东气流，平原南部秦岭山地为偏南风，平原西部为偏东风南下或偏西风，在关中区域内形成辐合流场。其形成原因是：东北气流沿东北偏南向的
+
+表1重污染天气日流场分型  
+Tab.1 Classification of dailyairflow field in heavypollution weather   
+
+<html><body><table><tr><td>流场分型</td><td>名称</td><td>说明</td></tr><tr><td rowspan="3">东部来流</td><td>东北来流(A)</td><td>11:00—12:00出现10次以上，08:00—19:00出现90次以上;21:00—02:00出现不足10次。</td></tr><tr><td>东北来流夜间型(B)</td><td>与A型的主要区别是其山谷风特征明显,21:00—06:00均出现20次以上;11:00—19:00不出现。</td></tr><tr><td>渭南绕山来流(C)</td><td>各时次均有出现,其中08:00—19:00 出现270次以上;20:00—07:00出现少,不足50次,昼间出 现次数显著多于夜间。</td></tr><tr><td rowspan="3">西部/南部来流</td><td>西南/南部来流(D)</td><td>出现次数较少,有较为明显的山谷风特点,其中昼间相对较多,出现40余次;22:00—24:00和 05:00—06:00未出现。</td></tr><tr><td>北部来流转向(E)</td><td>北部来流在渭河平原发生转向(东或西),各时次均有出现。</td></tr><tr><td>宝鸡来流(F)</td><td>11:00—19:00各时次出现2~4次;夜间出现较多，01:00—09:00出现次数均在10次以上。</td></tr><tr><td></td><td>北部来流非转向 北部来流非转向(G)</td><td>出现次数少,其中夜间各时次均未出现。</td></tr><tr><td>无显著流场</td><td>其他(H)</td><td>无明显的流场特征，部分与静风相关。</td></tr></table></body></html>
+
+![](images/31ef3ab766d778511895ef9e5fe89e1f3d0034e220a17894811594cf6d4c9f40.jpg)  
+图2东北来流(A型)示意图及 $3 0 \mathrm { m }$ 流场个例(2017年2月5日09:00)
+
+![](images/95060e17aab689f8dcd3854433fca9d541e1ab2c306ec902c1cfd5d8c6cbca4d.jpg)  
+Fig.2Airflow from northeast (type A) and an example of airflow field at $3 0 \mathrm { m }$ height (09:00 on February 5,2017)   
+图3东北来流夜间型(B型)示意图及 $3 0 \mathrm { m }$ 流场个例(2017年12月28日04:00)
+
+Fig.3Airflow from northeast airflow at night (type B) and an example of airflow field at $3 0 \mathrm { m }$ height (04:00 on December 28,2017)
+
+![](images/4fdef31ad1b4a8ee06032e37a6f745d5bd54918c3ba6b974b7aaadf10154994e.jpg)  
+图4渭南绕山来流型(C型)示意图及 $3 0 \mathrm { m }$ 流场个例(2017年1月25日07:00)
+
+Fig. 4 Airflow from Weinan around mountains (Type C) and an example of airflow field at $3 0 \mathrm { m }$ height (07:00 on January 25,2017)
+
+![](images/5b6454f8da4a69dd4e8e9c42b8c03f883f3c0af2f063a7d11121bb7b96731bea.jpg)  
+图5西南/南部来流(D型)示意图及 $3 0 \mathrm { m }$ 流场个例(2017年1月3日10:00)
+
+Fig.5Airflow from southwest/south(Type D) and an example of airflow field at $3 0 \mathrm { m }$ height (10:00 on January 3,2017)
+
+![](images/5c3e5ee4513a10f91422d2cbae0b695b3b7b92ce934d4e4575d24e3a752379a4.jpg)  
+图6北部来流转向(E型)示意图及 $3 0 \mathrm { m }$ 流场个例(2017年12月4日21:00)  
+Fig. 6 Airflow from northern diversion (Type E) and an example of airflow field at $3 0 \mathrm { m }$ height (21:00 on December 4,2017)
+
+川道南下，经西安、咸阳等城市建筑群时发生气旋式旋转，形成气流辐合。特殊地形下昼夜流场变化明显，具有山谷风、局地热对流等影响的局地小气候特征。根据来流起始位置将该型分为3个小型：东北来流(A)（图2a）、东北来流夜间型(B)（图3a）、渭南绕山来流(C)(图4a)。该型流场的典型个例见
+
+# 干吴区地理
+
+![](images/2d781190d433175b4ecb9368f8a5ff0b0cbdf7145e61038a8857750bc0351352.jpg)  
+图7宝鸡来流(F型)示意图及 $3 0 \mathrm { m }$ 流场个例(2017年12月3日04:00)
+
+![](images/66ca0586485984f61bb570dc228f2ca1bec1e991b50f4679f4cb1f3e35dfe682.jpg)  
+Fig.7Airflow from Baoji (Type F) and an example of airflow field at $3 0 \mathrm { m }$ height (04:00 on December 3,2017)   
+图8 北部来流非转向(G型)示意图及 $3 0 \mathrm { m }$ 流场个例(2017年1月26日21:00)
+
+Fig.8Airflow from northern (Type G) and an example of airflow field at $3 0 \mathrm { m }$ height (21:00 on January 26,2017)
+
+# 图2b、图3b和图4b。
+
+3.1.2西部/南部来流此型中关中区域为比较一致的偏西气流，宝鸡、西安、咸阳为偏西风或静风，一直到渭南、蒲城等地均为西南风或西风,长武、旬邑、彬县等地为偏北气流。根据来流起始位置将该型分为3个小型：西南/南部来流(D）图5a）北部来流转向(E)(图6a)和西部来流(F)(图7a)，其中D型是在大气静稳条件好的情况下，关中区域风速很小或静风，昼间沿秦岭北坡而下的山风到达关中区域形成辐合；E型是偏北气流顺黄土高原南坡而下，抵达渭河河谷地带遇南部秦岭大地形阻挡气流转向、北部来流到达关中区域东部朝西转向，到达关中西部的气流朝东转向；F型是西北气流在关中西部渭河中游沿地势低洼的渭河河谷地形顺流而下，形成西部来流。该型流场的典型个例见图5b、图6b和
+
+# 图7b。
+
+3.1.3北部来流非转向此型中，陕北至关中区域为一致的偏北气流，一般为北部冷空气南下导致的污染天气主要形式(图8a)，该型典型个例见图 $8 \mathrm { b }$ O冷空气南下到达关中渭河河谷低洼地形后，关中区域的暖空气被抬升，特殊的地形上空形成逆温层，污染物不易扩散。
+
+3.1.4无显著流场 此型无明显的流场特征，大部分与静风相关。
+
+# 3.2各流场分型统计
+
+统计分析区域重污染日逐时流场分型(表2)可以看出，区域重污染过程中东部来流出现最多，频率达到 $5 9 . 8 \%$ ,其中B、C型流场出现次数最多，占比均达到 $2 5 . 0 \%$ 以上，E、F型出现频率高于 $1 0 . 0 \%$ ；在昼间(08:00—19:00)流场中，出现最多的是C型流场，频率近 $4 0 . 0 \%$ ,其次是E型，A型也较多，频率近$1 5 . 0 \%$ ,其余类型出现较少，频率不超过 $1 0 . 0 \%$ ;在夜间(20:00一07:00)是B、E、F型活跃时段，夜间出现最多的是B型流场，出现频率近 $5 0 . 0 \%$ 。其次是E、F型，频率 $1 5 . 0 \%$ 以上，G型出现最少。对比昼夜间各型分布可以看出： $\mathrm { A } , \mathrm { D } , \mathrm { G } , \mathrm { H }$ 型夜间出现比昼间偏少。
+
+表256个重污染日各时次流场分型出现次数  
+Tab.2 Occurrence times of flow field classification in 56 heavy pollution days   
+
+<html><body><table><tr><td rowspan="2">时刻</td><td colspan="3">东部来流</td><td colspan="3">西部/南部来流</td><td>北部来流非转向</td><td>无显著流场</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td>00:00</td><td>1</td><td>24</td><td>4</td><td>0</td><td>9</td><td>9</td><td>1</td><td>5</td></tr><tr><td>01:00</td><td>1</td><td>28</td><td>1</td><td>1</td><td>9</td><td>11</td><td>0</td><td>2</td></tr><tr><td>02:00</td><td>1</td><td>29</td><td>1</td><td>1</td><td>8</td><td>11</td><td>0</td><td>2</td></tr><tr><td>03:00</td><td>3</td><td>30</td><td>1</td><td>1</td><td>5</td><td>11</td><td>0</td><td>2</td></tr><tr><td>04:00</td><td>3</td><td>29</td><td>1</td><td>1</td><td>6</td><td>11</td><td>0</td><td>2</td></tr><tr><td>05:00</td><td>3</td><td>28</td><td>1</td><td>0</td><td>8</td><td>11</td><td>0</td><td>2</td></tr><tr><td>06:00</td><td>3</td><td>27</td><td>2</td><td>0</td><td>9</td><td>10</td><td>0</td><td>2</td></tr><tr><td>07:00</td><td>5</td><td>16</td><td>9</td><td>1</td><td>10</td><td>10</td><td>0</td><td></td></tr><tr><td>08:00</td><td>8</td><td>4</td><td>17</td><td>1</td><td>7</td><td>14</td><td>0</td><td>2</td></tr><tr><td>09:00</td><td>7</td><td>1</td><td>21</td><td>2</td><td>7</td><td>12</td><td>1</td><td>2</td></tr><tr><td>10:00</td><td>9</td><td>1</td><td>21</td><td>4</td><td>7</td><td>6</td><td>3</td><td>2</td></tr><tr><td>11:00</td><td>13</td><td>0</td><td>20</td><td>3</td><td>6</td><td>3</td><td></td><td>2</td></tr><tr><td>12:00</td><td>11</td><td>0</td><td>22</td><td>4</td><td>7</td><td>2</td><td>5 4</td><td>3</td></tr><tr><td>13:00</td><td>9</td><td>0</td><td>21</td><td>4</td><td>9</td><td>2</td><td>4</td><td>3</td></tr><tr><td>14:00</td><td>7</td><td>0</td><td>21</td><td>5</td><td>8</td><td>2</td><td>5</td><td>4</td></tr><tr><td>15:00</td><td>7</td><td>0</td><td>22</td><td>4</td><td>8</td><td>2</td><td>5</td><td>5</td></tr><tr><td>16:00</td><td>7</td><td>0</td><td>21</td><td>4</td><td>8</td><td>3</td><td>5</td><td>5</td></tr><tr><td>17:00</td><td>5</td><td>0</td><td>23</td><td>5</td><td>8</td><td>3</td><td>5</td><td>5</td></tr><tr><td>18:00</td><td>4</td><td>4</td><td>20</td><td>5</td><td>6</td><td>3</td><td>5</td><td>4</td></tr><tr><td>19:00</td><td>3</td><td>5</td><td>21</td><td>4</td><td>8</td><td>4</td><td>4</td><td>6 4</td></tr><tr><td>20:00</td><td>3</td><td>12</td><td>15</td><td>3</td><td>10</td><td>5</td><td>1</td><td>4</td></tr><tr><td>21:00</td><td>1</td><td>26</td><td>5</td><td>1</td><td>11</td><td>4</td><td>0</td><td>5</td></tr><tr><td>22:00</td><td>1</td><td>25</td><td>4</td><td>0</td><td>9</td><td>9</td><td>0</td><td>5</td></tr><tr><td>23:00</td><td>1</td><td>25</td><td>4</td><td>0</td><td>9</td><td>8</td><td>1</td><td>5</td></tr><tr><td>最大次数</td><td>13</td><td>30</td><td>23</td><td>5</td><td>11</td><td>14</td><td>5</td><td>6</td></tr><tr><td>合计</td><td>116</td><td>314</td><td>298</td><td>54</td><td>192</td><td>166</td><td>49</td><td>83</td></tr><tr><td>昼间合计</td><td>90</td><td>15</td><td>250</td><td>45</td><td>89</td><td>56</td><td>46</td><td>45</td></tr><tr><td>夜间合计</td><td>26</td><td>299</td><td>48</td><td>9</td><td>103</td><td>110</td><td>3</td><td>38</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3.3各流场分型与 $\mathbf { P M } _ { 2 . 5 }$ 浓度的关系
+
+关中区域秋冬季空气污染较为突出，一方面是由于冬季采暖，污染排放量增大，造成环境空气质量超标;另一方面秋冬季大气扩散能力显著下降，可能是造成近年关中区域污染日数增多的主要原因之一。为进一步分析低空流场对区域污染的影响，结合2017年关中区域内五市环境空气质量现状监测资料，对不同流场类型下的五市 $\mathrm { P M } _ { 2 . 5 }$ 小时平均浓度进行了统计分析。不同类型流场下 $\mathrm { P M } _ { 2 . 5 }$ 的小时平均浓度统计见表3,D、E型流场则更容易导致$\mathrm { P M } _ { 2 . 5 }$ 浓度上升，D、E型流场属于山谷风流场，往往在夜间出现。
+
+进一步分析日均浓度最大的前10个严重污染日及其流场情况可知：受喇叭口地形影响，昼间气流沿汾渭平原输送，在关中形成辐合，午后气流沿山向西绕流在关中形成辐合，夜间气流沿秦岭北坡进入平原地区，A、C型和B、D、E型形成的山谷风容易在关中区域形成涡旋气流，造成污染物堆积，导致 $\mathrm { P M } _ { 2 . 5 }$ 浓度上升，引起区域重污染天气，污染物沿
+
+# 干旱区地理
+
+表3不同类型流场下 $\mathbf { P } \mathbf { M } _ { 2 . 5 }$ 的小时平均浓度统计  
+Tab.3 Statistics of $\mathbf { P M } _ { 2 . 5 }$ hourly average concentration under different types of flow field   
+
+<html><body><table><tr><td>流场类型</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td>出现次数</td><td>116</td><td>315</td><td>298</td><td>54</td><td>192</td><td>165</td><td>49</td><td>83</td></tr><tr><td>出现次数排名</td><td>5</td><td>1</td><td>2</td><td>7</td><td>3</td><td>4</td><td>8</td><td>6</td></tr><tr><td>平均浓度/μg·m-</td><td>127.9</td><td>186.9</td><td>178.1</td><td>146.4</td><td>156.7</td><td>159.2</td><td>84.8</td><td>203.4</td></tr><tr><td>平均浓度排序</td><td>7</td><td>2</td><td>3</td><td>6</td><td>5</td><td>4</td><td>8</td><td>1</td></tr><tr><td>最大浓度/μg·m-3</td><td>318.2</td><td>479.6</td><td>462.6</td><td>312.4</td><td>271.8</td><td>302.2</td><td>258.2</td><td>390.2</td></tr><tr><td>最大浓度排序</td><td>4</td><td>1</td><td>2</td><td>5</td><td>7</td><td>6</td><td>8</td><td>3</td></tr></table></body></html>
+
+东部来流路径被输送至关中是关中区域重污染天气的主要成因之一;另外，关中区域无显著流场出现83次，平均 $\mathrm { P M } _ { 2 . 5 }$ 浓度 $2 0 3 . 4 ~ \mu \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ ,为8种流场平均最大,1月1日最大持续 $2 1 \mathrm { ~ h ~ }$ ,期间西安 $\mathrm { P M } _ { 2 . 5 }$ 最大浓度达 $4 8 5 . 0 ~ \mu \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ ,可见，区域大气处于静稳状态，是造成关中区域污染形势进一步加重的主要原因之一。
+
+# 4讨论
+
+由上述的研究可知，陕西关中是污染重发、多发区，污染物排放、输送等都是造成关中区域重污染的重要因素。韩博威等[9统计分析了冬季长三角地区重污染过程中大尺度环流背景场及气象要素的影响，发现区域重污染的发生发展与大气环流有着密切联系，其中地形对污染的影响主要通过大气环流。关中复杂的喇叭口地形，可导致吹向关中的偏东北或偏西气流，与南部秦岭北麓的偏西南风或偏南风汇合，在关中区域形成气旋辐合或切变辐合。大西北的污染物从宁夏、陕北等地飘来，以及山西的污染物在关中与汾河谷地聚集回旋，造成区域重污染。另外，复杂地形、局地的小气候影响，可能会造成一种或多种类型低空流场同时出现，形成复合流场。因此，后期研究工作应该进一步分析复合流场，厘清各类型流场及复合流场各种组合对关中区域重污染影响，以期更清楚的认识污染传输机理，为政府开展联防联控、防污治霾工作提供理论依据。
+
+# 5结论
+
+本研究以陕西关中区域五市（西安、咸阳、渭南、铜川、宝鸡)为一个整体的研究对象，定义了区域污染和区域重污染，选取2017年为代表年，利用模式格点模拟数据，对关中区域 $3 0 \mathrm { ~ m ~ }$ 流场分型，重点分析了各流场分型与 $\mathrm { P M } _ { 2 . 5 }$ 浓度的关系，得出以下结论：
+
+（1）造成关中区域重污染的流场分为：东部来流（A\~C）、西部/南部来流(D\~F)、北部来流非转向(G)和无显著流场(H)4个大类，根据出现时间和地点，东部来流又可被分为东北来流(A）东北来流夜间型(B）渭南绕山来流(C)，西部/南部来流可被分为西南/南部来流(D)、北部来流转向(E)、宝鸡来流(F)，共8个类型分别记为(A\~H)。
+
+(2）区域重污染过程中东部来流出现最多，频率达到 $5 9 . 8 \%$ ,其中B、C型流场出现次数最多，占比均达到 $2 5 . 0 \%$ ,E、F型出现频率均高于 $1 0 . 0 \%$ ,E、F型流场往往在夜间出现。各流场分型昼夜变化较大，在昼间的流场中，出现最多的是C型流场，频率近 $4 0 . 0 \%$ ,其次是E型和A型。夜间是B、E、F活跃时段，出现最多的是B型，出现频率近 $5 0 . 0 \%$ ，其次是E、F型，此外 $\mathrm { A } , \mathrm { D } , \mathrm { G } , \mathrm { H }$ 型夜间出现比昼间多。
+
+(3）关中区域重污染主要出现在冬季，除因供暖导致的污染物的排放量增加外，低空流场对污染物扩散影响显著，从流场分型上看，静稳天气、山谷风、北方污染物输送是导致关中区域重污染的主要原因。
+
+# 参考文献(References)
+
+[1]Geng G,ZhangQ,Martin RV,et al.Estimating long-term $\mathrm { P M } _ { 2 . 5 }$ concentrations in China using satellite-based aerosol optical depth and a chemical transport model[J].Remote Sensing of Environment,2015,166:262-270.   
+[2] Wang Y,Liu HW, Mao G Z,et al.Inter-regional and sectoral linkage analysis of air pollution in Beijing-Tianjin-Hebei (Jing-Jin-Ji) urban agglomeration of China[J].Journal of Cleaner Production, 2017, 165: 1436-1444.   
+[3]Du Y Y, Sun T S,Peng J, et al. Direct and spillover efects of urbanization on $\mathrm { P M } _ { 2 . 5 }$ concentrations in China’s top three urban agglomerations[J]. Journal of Cleaner Production,2018,190: 72-83.   
+[4]孙荣,邵健.基于SFIC的府际协同治霾研究[J].地方治理研究, 2016(4): 71-79.[Sun Rong, Shao Jian. Research on intergovernmental collaborative haze control based on SFIC[J].Journal of Jiangxi Administration Institute,2016(4): 71-79.]   
+[5]刘奇勇.雾霾天气对高校学生旅游意向影响[J].干旱区地理, 2020,43(4):1127-1135.[Liu Qiyong.Effect of haze weather on tourism intention of undergraduates[J].Arid Land Geography, 2020,43(4): 1127-1135.]   
+[6]王金南,宁淼,孙亚梅,等.区域大气污染联防联控的理论与方 法分析[J].环境与可持续发展,2012,37(5):5-10.[Wang Jinnan, Ning Miao, Sun Yamei,et al.Studyon theory and methodology about joint prevention and control of regional air pollution[J]. Environment and Sustainable Development,2012,37(5): 5-10.]   
+[7]苗蕾,吴洪波.一次典型区域大气污染事件的过程分析[J].环境 科学与技术,2017,40(2): 53-58.[Miao Lei,Wu Hongbo.Analysis of a typical regional air pollution process[J]. Environmental Science & Technology,2017,40(2): 53-58.]   
+[8]潘月云,陈多宏,叶斯琪,等.2015年9月珠江三角洲一次区域 大气污染过程特征分析[J].环境科学与技术,2017,40(1):188- 192.[Pan Yueyun,Chen Duohong,Ye Siqi,et al.Analysis on characteristics of a regional air pollution incident in Pearl River Delta [JJ.Environmental Science & Technology,2017,40(1): 188-192.]   
+[9]赵辉,郑有飞,徐静馨,等.APEC期间京津冀区域大气污染物 消减变化分析[J].干旱区地理,2016,39(6):1221-1229.[Zhao Hui, Zheng Youfei, Xu Jingxin,et al. Air pollution abatement in Beijing-Tianjin-Hebei during the APEC period[J].Arid Land Geography,2016,39(6): 1221-1229.]   
+[10] 李令军,王占山,张大伟,等.2013—2014年北京大气重污染特 征研究[J].中国环境科学,2016,36(1):27-35.[Li Lingjun, Wang Zhanshan, Zhang Dawei, et al. Analysis of heavy air pollution episodes in Beijing during 2013—2014[J]. China Environmental Science,2016,36(1): 27-35.]   
+[11] 陈卫卫,刘阳,吴雪伟,等.东北区域空气质量时空分布特征及 重度污染成因分析[J].环境科学,2019,39(11):4810-4823. [Chen Weiwei,Liu Yang,Wu Xuewei, et al. Spatial and temporal characteristics of air quality and cause analysis of heavy pollution in northeast China[J]. Environmental Science,2019,39(11): 4810- 4823.]   
+[12] 周勤迁,潘月鹏,王剑,等.黑龙江海伦农业区冬春 $\mathrm { P M } _ { 2 . 5 }$ 和气态 污染物污染特征[J].中国环境科学,2014,34(4):844-851. [Zhou Qinqian,Pan Yuepeng,Wang Jian, et al.Pollution characteristics of $\mathrm { P M } _ { 2 . 5 }$ and gaseous pollutants in winter and spring at agricultural region of Hailun City,Heilongjiang Province[J].China Environmental Science,2014, 34(4): 844-851.]   
+[13] 姬艺珍,郭伟,胡正华,等.太原市 $\mathrm { P M } _ { 2 . 5 }$ 积累特征及重污染天气 成因分析[J].环境科学学报,2021,41(3):853-862.[Ji Yizhen, Guo Wei,Hu Zhenghua,et al.Accumulation characteristics of （20 $\mathrm { P M } _ { 2 . 5 }$ and the causes of serious polltion weather in Taiyuan City, China[J]. Acta Scientiae Circumstantiae,2021,41(3): 853-862.]   
+[14] 胡琳,张侠,苏静,等.陕西省霾天气变化特征及气候成因分析 [J].干旱区地理,2019,42(4):1-9.[Hu Lin,Zhang Xia,SuJing,et al.Variation characteristics of haze weather and its climatic causes in Shaanxi Province[J]. Arid Land Geography,2019,42(4): 1-9.]   
+[15]杨文峰,李星敏,陈闯,等.西安市两次雾霾期间气象要素和气 溶胶特性分析[J].中国环境科学,2015,35(8):2298-2306. [Yang Wenfeng,Li Xingmin,Chen Chuang,et al. Meteorological factors and aerosol characteristics during two long-lasting fog/haze event in Xi’an[J].China Environmental Science,2O15,35(8): 2298-2306.]   
+[16] 王珊,廖婷婷,王莉莉,等.西安一次霾重污染过程大气环境特 征及气象条件影响分析[J].环境科学学报,2015,35(11):3452- 3462.[Wang Shan,Liao Tingting,Wang Lili, et al.Atmospheric characteristics of serious haze episode in Xi’an and influence of meteorological conditions[J]. Acta Scientiae Circumstantiae,2015, 35(11): 3452-3462.]   
+[17] 胡琳,程路,林扬,等.关中区域大气重污染年份气象条件分析 [J].干旱区研究,2020,37(6):1496-1503.[Hu Lin,Cheng Lu, Lin Yang,et al.A conceptual model of regional pollution and meteorological conditions in Guanzhong region[J]. Arid Zone Research,2020,37(6): 1496-1503.]   
+[18] 王治国,白永平,车磊,等.关中平原城市群植被覆盖的时空特 征与影响因素[J].干旱区地理,2020,43(4):1041-1050.[Wang Zhiguo,Bai Yongping, Che Lei, et al. Spatio-temporal characteristicsand influencing factors of vegetation coverage in urban agglomeration of Guanzhong Plain[J].Arid Land Geography,2020, 43(4): 1041-1050.]   
+[19] 韩博威,马晓燕.2014—2018年冬季长三角强霾事件及天气形 势影响分析[J].环境科学学报,2020,40(7):2333-2345.[Han Bowei,Ma Xiaoyan.Analysis of the severe haze events in the Yangtze River Delta during the winter of 2014—2018 and the impact of weather situation on servere haze[J].Acta Scientiae Circumstantiae,2020,40(7): 2333-2345.]
+
+# Low-level streamline field typing of heavy pollution weather of Guanzhong region in Shaanxi Province
+
+HU Shulan'， HU Lin'， CHENG Lu'， LIN Yang²， LU Cenzhi³ (1.Shaanxi ProvincialClimate Center,Xi'anOo4,Shaani,China;2.MeteorologicalInstituteofShaanxiProvince,Xi'an 710014,Shaanxi, China; 3. Zhouzhi County Water Authority,Xi'an 71OO40,Shaanxi, China)
+
+Abstract:On the basis of the polution index data of five cities in the Central Plain of Shaanxi Province Guanzhong Plain, China,from 2014 to 2019 and weather research and forecasting model simulation data from the same period,this paper screened the typical years of polution,defined the weather processes of areal pollution and heavy areal polution,classified the stream fields over the Central Plain of Shaanxi,and studied the relationships between $\begin{array} { r } { \mathrm { P M } _ { 2 . 5 } } \end{array}$ and stream field types.Results show the following:(1) According to the airstream fields near the ground,the stream fields of heavy pollution weather can be classified into four major categories: the east airstream (A-C),the west and south airstream (D-F),the non-steering north airstream(G),and the weak airstream field (H).According to the occurrence time and location,the stream fields of heavy pollution weather can be clasified into eight minor categories.The east airstream can be classified into northeast airstream (A), northeast airstream at night (B),and northeast airstream around Weinan (C).The west and south airstream can be classified into southwest and south airstream (D),the stering north airstream (E)and the airstream come from Baoji (F).(2)In the processes of areal heavy polltion,most of the airstreams are classified under the east airstream,with a frequency of $59 . 8 \%$ ，with types B and C having a frequency of more than $2 5 . 0 \%$ . The probability of occurrence of diffrent types of airstream field changes greatly day and night. In the daytime,type C appears most frequently,with a frequency of nearly $4 0 . 0 \%$ . At night, type B appears most frequently,with a frequency of nearly $50 . 0 \%$ , followed by types E and F. (3) $\mathrm { P M } _ { 2 . 5 }$ varies greatly in different airstream fields. The concentration of $\begin{array} { r l } { \mathrm { P M } _ { 2 . 5 } } & { { } } \end{array}$ is higher when the airstream field is type D or E. Mountain-valley wind appearing in airstream field type Aand Cor B,Dand E easily forms Vortex flow in the Central Plain of Shaanxi,resulting in pollutant accumulation, increased $\mathrm { P M } _ { 2 . 5 }$ concentration, and regional heavy pollution weather. In 2Ol7, the type H airstream field appeared 83 times,and the average concentration of $\begin{array} { r l } { \mathrm { P M } _ { 2 . 5 } } & { { } } \end{array}$ was $2 0 3 . 4 ~ \mu \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ . In winter, stable weather,mountain-valley wind,and pollutant transportation from the north are the main causesof heavy pollution, in addition to the increase in pollutant emissons caused by heating.
+
+Key words: Guanzhong region in Shaanxi Province； low-level streamline field typing；weather process of regional heavy pollution

@@ -1,0 +1,324 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201610312216 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王竞红,张秀梅,陈艾,周蕴薇,陈鹏,江远芳.紫穗槐幼苗根系生理特性和解剖结构对 PEG-600 模拟干旱的响应.生态学报,2018,38（2)： 511-517.   \nWangJH,Zgoegspoficestdcalcef fruticosa seedlings exposed to simulated drought withPEG-600.Acta Ecologica Sinica,2018,38(2):511-517. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "紫穗槐幼苗根系生理特性和解剖结构对PEG-6000模拟干旱的响应 C",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王竞红，张秀梅，陈 艾,周蕴薇\\*，陈 鹏，江远芳东北林业大学园林学院，哈尔滨 150040",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用PEG-600模拟干旱胁迫处理,测定了紫穗槐幼苗根系的可溶性糖、可溶性蛋白质、丙二醛、游离脯氨酸含量及 SOD、POD 酶活性变化以及解剖结构特征,旨在比较不同干旱程度对紫穗槐幼苗根系生理指标、内部解剖结构的影响,探索紫穗槐幼苗对水分胁迫的适应能力,揭示紫穗槐幼苗根系对土壤水分胁迫的响应和调控机制。结果表明：丙二醛含量变化显示当PEG-6000 溶液浓度超过 $5 0 \\mathrm { g / L }$ 以后,紫穗槐幼苗根的膜系统开始受到损伤,并在 PEG-6000 溶液浓度达到 $2 5 0 \\mathrm { g / L }$ 受损程度显著增强,达到了对照的1.6倍,同时启动渗透调节作用(游离脯氨酸含量显著增加),达到了对照的3.8倍,在PEG-6000溶液浓度低于 $2 0 0 \\mathrm { g / L }$ 时,紫穗槐幼苗根系中至少没有启动以游离脯氨酸为主的渗透调节过程。可溶性糖和可溶性蛋白质含量及 SOD、POD 酶活性的变化印证了胞内发生的生理代谢变化,在 PEG-6000 溶液浓度为 $2 0 0 \\mathrm { g / L }$ 时,可溶性糖含量仅为 $0 . 1 2 1 \\mathrm { m g / g }$ ,达到最低点,随后上升,当PEG-6000 溶液浓度进一步增加到 $2 5 0 \\mathrm { g / L }$ 时,紫穗槐幼苗根系中的可溶性糖含量则迅速回升到 $\\mathrm { 0 . 6 4 m g / g }$ ，为对照组的 $6 3 . 3 7 \\%$ 。可溶性蛋白质含量在低浓度PEG-6000 溶液( $5 0 \\mathrm { g / E ) }$ 处理下即有明显反应,下降到对照的 $6 1 . 5 \\%$ ,随后呈波动性变化。SOD 和POD 活性对 PEG-6000 模拟干旱胁迫的响应规律类似,均对 PEG-60 模拟干旱胁迫处理迅速响应且活性增加。当PEG-6000 溶液浓度达到 $5 0 \\mathrm { g / L }$ 至 $1 0 0 \\mathrm { g / E }$ 时,抗氧化酶的合成量最高，而后活性下降。60d 的 PEG-6000 模拟干旱胁迫处理影响了紫穗槐幼苗根系的生长发育,随着PEG-6000 溶液浓度增加,维管柱的直径变大,木质部厚度增大,导管直径变小、但导管密度增加，当PEG-6000 溶液浓度达到 $2 5 0 \\mathrm { g / L }$ 时,导管密度比对照组增加了 $4 1 . 3 \\%$ ,木质部厚度比对照组增加了 $9 1 . 5 \\%$ 。以上结果表明,PEG-6000 模拟干旱胁迫处理下,不同胁迫程度紫穗槐内部生理和根系解剖结构变化不同,通过改变自身生理代谢和根系内部解剖结构,以适应土壤水分胁迫的逆境条件,来满足自身生长和发育的需求平衡。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：紫穗槐；PEG-6000；根系生理特性；解剖结构",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Response of physiological characteristics and anatomical structure of roots in Amorpha fruticosa seedlings exposed to simulated drought with PEG-6000 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Jinghong, ZHANG Xiumei, CHEN Ai, ZHOU Yunwei\\*, CHEN Peng，JIANG Yuanfang College of Landscape Architecture，Northeast Forestry University，Harbin15oO4O,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In this study，weused the PEG-60oO to simulate drought stress，and determined the content of soluble sugars, soluble protein，MDA（Malondialdehyde），and free proline，and changes inenzymeactivitiesof SOD（Superoxide dismutase）andPOD(Peroxidase）inrotsof Amorpha fruticosasedlings and intheir anatomical features.Ourobjectives were to examinetheeffectsofdiffrentlevelsofdroughtonthephysiological indicesand interalanatomical structuresof sedlings of Amorpha fruticosa.Furthermore，we exploredtheadaptabilityresponse andregulation mechanism to waterstress ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "of Amorpha fruticosa seedlings.Theresults indicatedthat MDA appeared when the concentration of PEG-60oO was more than $5 0 \\mathrm { g / L }$ ，and the membrane system of Amorpha fruticosa seedling roots began to suffer damage.When the PEG-6000 concentration reached $2 5 0 \\mathrm { g / L }$ ，the extent of damage was significantly enhanced，reaching 1.6 times that of the the control group，andatthebeginingofosmoticadjustment（freeprolinecontentincreased significantly）,itreached3.8times that of the control group.When the concentration of PEG-6OoO solution was less than $2 0 0 \\mathrm { g / L }$ ，the osmotic adjustment process was not initiated intherootsof Amorphafruticosaseedlings with freeproline.Thephysiological metabolismofthecellwas verifiedthrough changes in soluble sugarand soluble proteincontent，and SODandPODactivity.When theconcentration of PEG-600O was 200g/L， the soluble sugar content was $0 . 1 2 1 \\mathrm { m g / g }$ ，reached its lowest point，and then increased. As the PEG-60oO solution concentration further increased to $2 5 0 \\mathrm { g / L }$ ，the soluble sugar content in the roots of Amorpha fruticosa seedlings rapidly increased to $\\mathbf { 0 . 6 4 m g / g }$ ，which was $6 3 . 3 7 \\%$ of that of the control group. Soluble protein content in the low concentration of PEG-6000 solution （ $5 0 \\mathrm { g / L }$ ）treatment decreased to $6 1 . 5 \\%$ of that of the control group，followed by fluctuating changes.SODand PODactivities were similar to PEG-6oO simulated drought stress，and rapidly responded to PEG-600 simulated drought stresstreatment.Simultaneously,the enzyme activityof PODand SOD were increased.When the concentration of PEG-6000 was $5 0 \\mathrm { g / L }$ to $1 0 0 \\mathrm { g / L }$ ，the synthesis of antioxidant enzyme was the highest，and then it decreased.SODamplitude activity difered by more than six fold.Changes in PODactivity were relativelysmall，and the diference inamplitude was lessthanamultipleofone.The6O-、dayPEG-60OO solution simulating the drought stres afected thegrowthanddevelopmentof therotsystemof theAmorpha fruticosaseedlings.Withtheincreasingconcentration of PEG-60Oo,the diameterofthe vascularbundles increased.Atthesame time,the diameterof thecatheter decreased，but its density increased.When the concentration of PEG-6OoO reached $2 5 0 \\mathrm { g / L }$ ，the catheter density increased by $4 1 . 3 \\%$ compared with that of the control group，and xylem thickness increased by $9 1 . 5 \\%$ compared with that of the control group. Theresults showed thatunder diferent levels of drought stresstreatments，the internal physiologyandrootanatomical structures of Amorpha fruticosa varied.The stressconditions of waterandself-growthand development balance needs were satisfied by altering their physiological metabolism and the internal anatomical structure of the roots. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Amorpha fruticosa；PEG-6Ooo；physiological characteristics of roots；anatomical structure ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黑龙江省地处我国东北部,属于北方的寒地季冻型土壤地区,具有典型的季风性气候特点。在高等级公路修建过程中,原有地应力平衡、地下水径流平衡和地表植被的破坏以及土壤冻融过程,导致公路两侧边坡经常发生滑塌现象,因此公路边坡维护成为该地区公路建设中的重要问题。采用植物护坡具有较强的生态效益、稳定的固坡效果和较强的景观性,近年来被广泛应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "紫穗槐（Amorpha fruticosa)是豆科（Leguminosae）紫穗槐属的一种丛生灌木,环境适应能力强,兼具观赏价值和 $\\fallingdotseq$ 定的经济价值,是东北地区公路绿化的常用树种,也是黑龙江省公路护坡绿化的优良树种[1]。对紫穗槐的研究主要集中在干旱、盐碱胁迫背景下紫穗槐种子萌发和幼苗地上部分的生理响应,对紫穗槐的种子进行药剂处理和加热处理直接影响紫穗槐种子的发芽率、结瘤率和地上生物量[-3];施加盐碱胁迫处理后,紫穗槐种子的发芽率、发芽势、胚芽和胚根的生长均呈下降趋势[4-5],叶片中 SOD 活性、脯氨酸、MDA 含量、光合色素增加[6-7];而施用一定浓度的 $\\mathrm { C a C l } _ { 2 }$ 能有效地缓解 NaCl单盐对紫穗槐幼苗的侵害[8];在干旱逆境胁迫条件下,紫穗槐通过改变叶片外部形态、内部解剖构造和生理功能来适应干旱环境[9]。目前,对紫穗槐幼苗根系的生理和微观结构则鲜有关注。本文采用PEG-600模拟干旱胁迫处理，测定紫穗槐幼苗根系的生理指标和内部解剖结构对模拟干旱胁迫的响应,旨在认识紫穗槐幼苗对土壤水分胁迫的适应能力,为将紫穗槐更好地应用于寒地公路边坡绿化提供基础数据和参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "紫穗槐（Amorpha fruticosa)种子购自哈尔滨和平绿化公司,采用纸上发芽法(TP法)自行萌发后栽植到 $6 \\times$ 12 穴孔的育苗穴盘中。一个月后选取长势一致的紫穗槐幼苗移植到直径 $1 5 \\mathrm { c m }$ 、高 $2 0 \\mathrm { c m }$ 的花盆中（园土:蛭石 $= 3 { : } 1$ ),每盆1株,辅以1/2Hoagland 营养液浇灌,用于干旱胁迫处理试验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2干旱胁迫处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2014年5月开始干旱胁迫处理试验。以1/2 Hoagland 营养液为溶剂配制不同浓度（50、100、150、200、$2 5 0 \\mathrm { g / L }$ )的PEG-6000 溶液,分别处理前述准备的紫穗槐幼苗,并以1/2 Hoagland 营养液作为对照,每浓度处理8盆。各浓度PEG-6000 溶液每12d浇透一次,期间适量补水,并将渗出到花盆托中的处理液回倒入花盆中。处理60d后取样测定。 S/y",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3紫穗槐幼苗根系生理特性测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参照李合生[10]、王学奎[1]等的方法测定紫穗槐幼苗根系的生理指标,可溶性蛋白含量采用考马斯亮蓝法,可溶性糖含量采用蒽酮法,脯氨酸含量采用酸性芘三酮法,丙二醛含量采用硫代巴比妥法,超氧化物歧化酶(SOD)活性采用氮蓝四唑法,过氧化物酶(POD)活性采用愈创木酚法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4紫穗槐幼苗根系解剖结构观察",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参照Green等[12]的方法制作石蜡切片观察紫穗槐幼苗根系的解剖结构。用流水洗净根系样品,滤纸吸干表面水分后切成 $0 . 5 \\mathrm { c m }$ 根段，以FAA固定液（90mL $5 0 \\%$ 乙醇 $+ 5 \\mathrm { m L }$ 甲醛 $+ 5 \\mathrm { m L }$ 冰乙酸)固定。徕卡轮转式切片机(LEICARM2255)连续切片（厚 ${ 8 \\mu \\mathrm { m } }$ ），番红\\固绿双重染色，徕卡生物显微镜(LEICADM2500)观察、拍照,测算根系解剖结构特征参数。每个处理重复10次,每张样片选取5个视野。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS13.0 对数据进行差异性比较,采用Excel2007绘制图表。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1紫穗槐幼苗根系可溶性糖和可溶性蛋白质含量对PEG-6000 模拟干旱的响应",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可溶性糖是运转于植物器官或组织之间的碳水化合物,直接参与代谢过程并提供能量,为维持和调节胞内渗透压发挥作用,近年研究还发现可溶性糖类作为信号分子参与调控高等植物的生理代谢和生长发育。可溶性蛋白质的主要组分则是参与细胞代谢的活跃酶类,因此可溶性糖和可溶性蛋白质在一定程度上表征着细胞代谢水平,其含量的变化反映着植物组织、器官的代谢状态以及对环境的响应。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "伴随着 PEG-6000 模拟干旱胁迫浓度的逐渐加剧,紫穗槐幼苗根系中可溶性糖含量呈现先下降后上升的趋势。在PEG-6000 溶液浓度为 $2 0 0 \\mathrm { g / L }$ 时,可溶性糖含量仅为 $0 . 1 2 1 \\mathrm { m g / g }$ ,达到最低点,仅为对照组( $\\mathrm { \\ : 1 . 0 2 m g / }$ g)的 $1 1 . 8 8 \\%$ 。当PEG-6000 溶液浓度进一步增加到 $2 5 0 \\mathrm { g / L }$ 时,紫穗槐幼苗根系中的可溶性糖含量则迅速回升到 $\\overline { { 0 . 6 4 \\mathrm { m g } / \\mathrm { g } } }$ ,为对照组的 $6 3 . 3 7 \\%$ （图1）。说明低浓度模拟干旱胁迫致使紫穗槐根系的代谢活动减弱,随着胁迫浓度的增加,植物根系中可溶性糖的含量增加,增加了细胞原生质的浓度,进而增强根系的抗脱水能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与可溶性糖含量的变化规律有所不同,紫穗槐幼苗根系中的可溶性蛋白质含量在低浓度PEG-6000 溶液（ $5 0 \\mathrm { g / L } \\backslash$ )处理下即有明显反应，下降到对照的 $6 1 . 5 \\%$ ,而后则是显著上升,在PEG-6000 溶液浓度为 $1 5 0 \\mathrm { g / L }$ 时甚至略微超越了对照水平( $\\left( 0 . 2 6 \\mathrm { m g / g } \\right)$ ,达到 $0 . 2 8 \\mathrm { m g / g }$ 。随着PEG-6000 溶液浓度的进一步增加,可溶性蛋白含量则呈现波动性变化（图1)。可溶性蛋白含量的波动变化,反映了紫穗槐根系细胞渗透势的波动性变化，细胞渗透势的增加有利于提高根系抵御逆境胁迫的能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2紫穗槐幼苗根系丙二醛和脯氨酸含量对PEG-6000 模拟干旱的响应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "丙二醛是膜脂过氧化的产物,反映膜系统受损害的程度,植物在环境胁迫下通常伴随着丙二醛含量的增",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c62c453a43b4e1061a2b19deed6def9d4870c6e7dbd74d3489d6bf3503ca9790.jpg",
+        "img_caption": [
+            "图1PEG-6000处理对紫穗槐幼苗根系可溶性糖和可溶性蛋白质含量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Effectof PEG-6oo0 treatment oncontent of soluble sugar and protein in root of Amorpha fruticosa seedlings不同字母表示差异显著( $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ 了加。从图2可以看出，在PEG-6000 溶液浓度为 $1 0 0 \\mathrm { g / L }$ 至 $2 5 0 \\mathrm { g / L }$ 的处理中，紫穗槐幼苗根系的丙二醛含量均超过了对照植株的水平,而在 $2 5 0 \\mathrm { g / L }$ 处理下则达到了对照的1.6倍。丙二醛含量的增加表明PEG-6000 模拟的干旱胁迫已经对紫穗槐幼苗根系的膜系统造成了伤害,细胞的生理代谢将偏离正常水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/734f87815abc18e3dc64c87ae7b36a11357a51ae9bb010aca427bb6c343cf90a.jpg",
+        "img_caption": [
+            "图2PEG-6000处理对紫穗槐幼苗根系丙二醛和游离脯氨酸含量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Effectof PEG-6oo treatment oncontent of malondialdehyde and free prolinein rootof Amorpha fruticosa seedlings不同字母表示差异显著( $\\scriptstyle P < 0 . 0 5 .$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在干旱、盐碱等渗透胁迫下,一些植物会在细胞内积累大量的游离脯氨酸参与渗透调节,游离脯氨酸是重要的渗透调节物质。图2的结果表明,在PEG-6000 溶液浓度处于 $2 0 0 \\mathrm { g / L }$ 以下的处理中,紫穗槐幼苗根系中没有出现游离脯氨酸的显著积累，在PEG-6000 溶液浓度达到 $2 0 0 \\mathrm { g / L }$ 时游离脯氨酸含量才略有增加,而在$2 5 0 \\mathrm { g / L }$ 时则急剧增加,达到了对照的3.8倍。这意味着，在PEG-6000 溶液浓度低于 $2 0 0 \\mathrm { g / L }$ 时,紫穗槐幼苗根系中至少没有启动以游离脯氨酸为主的渗透调节过程,而在 $2 5 0 \\mathrm { g / L }$ 的PEG-6000 模拟干旱胁迫浓度下，游离脯氨酸在紫穗槐幼苗根系的渗透调节中可能发挥着主要作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3紫穗槐幼苗根系 SOD 和POD 活性对PEG-6000 模拟干旱的响应环境胁迫下植物细胞内会产生超氧阴离子等活性氧类物质造成氧化胁迫,严重影响细胞的生理代谢。植物体内的抗氧化系统负责清除各种活性氧类物质以维持细胞的代谢平衡,SOD和POD是酶促抗氧化系统的重要成员。从图3可以看出,紫穗槐幼苗根系中SOD 和POD 活性对PEG-6000 模拟干旱胁迫的响应规律是类似的,均是对 PEG-6000 模拟干旱胁迫处理迅速响应且活性增加,并在PEG-6000 溶液浓度 50 至 $1 0 0 \\mathrm { g / L }$ 时达到峰值,而后活性下降,在PEG-6000 溶液浓度 $2 0 0 \\mathrm { g / L }$ 时达到最小值,之后再上升。SOD 活性的变化幅度较大,峰值和谷值相差6倍多,PEG-6000 溶液浓度 $2 0 0 \\mathrm { g / L }$ 下的最低值显著低于对照水平。POD 活性的变化幅度相对小些，峰值和谷值相差不到1倍，PEG-6000 溶液浓度 $2 0 0 \\mathrm { g / L }$ 时的最低值与对照组水平相当。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4紫穗槐幼苗根系解剖结构对PEG-6000 模拟干旱的响应",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "解剖结构观察表明,60d的PEG-6000 模拟干旱胁迫影响了紫穗槐幼苗根的发育（图4)。总体上看,随着PEG-6000 模拟干旱胁迫程度的逐渐加剧,维管柱直径逐渐增加,木质部更加发达。从运输水分的导管来看，随着 PEG-6000模拟干旱胁迫的逐渐加剧，导管的管径有逐渐变小的趋势,而导管密度则呈现逐渐增加的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/30d3b9918b12b99054370b80a9357366e2a538f458224316ad2ce474d376742d.jpg",
+        "img_caption": [
+            "图3PEG-6000处理对紫穗槐幼苗根系SOD和POD 活性的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Effect of PEG-6ooo treatment on SOD and POD activity in root of Amorpha fruticosa seedlin ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同字母表示差异显著( $P { < } 0 . 0 5 )$ （2号",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d52987407369ecba6280c7c5117ebb5f342f13a2c92cea75bcdefbfdba933e0.jpg",
+        "img_caption": [
+            "图4PEG-6000处理下紫穗槐幼苗根的解剖结构特征( $\\bf { \\times 1 0 }$ ，番红-固绿对染色法)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Root anatomical structure of Amorpha fruticosa seedlings under PEG-6ooo treatment ( $\\times 1 0$ ，Safranine and fast green staining 【technique ) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ep：表皮； $\\mathrm { P e }$ ：周皮；Ph：韧皮部；Ca：形成层；Xy：木质部；Ve：导管；Pi：髓",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1的数据变化显示,紫穗槐幼苗根系解剖结构的变化趋势与图4表现基本一致。PEG-6000 模拟干旱胁迫发生后,各浓度胁迫下的维管柱直径变化与对照组差异显著,当PEG-6000 溶液浓度达到 $2 5 0 \\mathrm { g / L }$ 时,木质部厚度比对照组增加了 $9 1 . 5 \\%$ ,导管密度比对照组增加了 $4 1 . 3 \\%$ ,这种根系的形态改变既有利于根系固土效用的发挥，更利于对水分的吸收。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "丙二醛含量是反映植物膜系统受损状况的重要指标,许多相关的研究工作都证实了这一点[13-16]。从本文的测定结果看,当PEG-6000 溶液浓度超过 $5 0 \\mathrm { g / L }$ 以后,紫穗槐幼苗根的膜系统开始受到损伤,并在PEG-6000 溶液浓度达到 $2 5 0 \\mathrm { g / L }$ 受损程度显著增强（图2）,可溶性糖和可溶性蛋白质含量及 SOD、POD 酶活性的变化均印证了膜系统受损所导致的胞内生理代谢变化(图1、图3）。游离脯氨酸是植物细胞内重要的渗透调节物质,当植物受到干旱、盐碱等渗透胁迫时,许多植物会在胞内迅速积累大量的游离脯氨酸进行渗透调节，防止细胞过度失水,尽量维持胞内正常的生理代谢[17-20]。 $2 0 0 \\mathrm { g / L }$ 以内浓度的 PEG-6000 处理强度下,紫穗槐幼苗根系内未见游离脯氨酸的积累(图2),这意味着尽管受到胁迫,但紫穗槐幼苗根系中至少没有启动以游离脯氨酸为主的渗透调节过程。当PEG-6000 溶液浓度达到 $2 0 0 \\mathrm { g / L }$ 时，游离脯氨酸含量增加了数倍，渗透调节作用启动。此时含量再度迅速增加的可溶性糖,很可能也成为了渗透调节物质的一部分。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4182546c6fb5fe6d5b2ff765eabc8fdc6fb9961dd44182462bf78e4d50688d7.jpg",
+        "table_caption": [
+            "表1PEG-6000处理对紫穗槐幼苗根系解剖结构的影响",
+            "Table1Effect of PEG-60oo treatment on root anatomical structure of Amorpha fruticosa seedlin "
+        ],
+        "table_footnote": [
+            "表中数据为平均值 $\\cdot \\pm$ 标准差（ ${ \\bf \\rho } _ { n } = 9 { \\bf \\rho } _ { , }$ ),不同字母代表同一行数据之间差异显著( $\\scriptstyle P < 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td>PEG-6000/(g/L)</td><td>0</td><td>50</td><td>100</td><td>150</td><td></td><td>200</td><td>250</td></tr><tr><td>维管柱直径</td><td>460.2±17.2 e</td><td>522.2±17.6 d</td><td>586.9±17.6 c</td><td></td><td>645.7±14.0 b</td><td>700.6±15.3 a</td><td>718.1±16.1 a</td></tr><tr><td>Diameter of vascular cylinder/μm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>木质部厚度 Xylem thickness/μm</td><td>160.4±13.0 c 26.9±4.7 a</td><td>182.2±10.3 c 23.0±3.8 ab</td><td>223.8±15.9 b</td><td>247.6±17.9 b</td><td></td><td>298.4±14.2 a</td><td>306.8±19.2 a</td></tr><tr><td>导管直径Vessel diameter/μm</td><td></td><td></td><td>23.2±4.4 ab</td><td>21.7±1.9 ab</td><td></td><td>20.7±0.5 b</td><td>19.4±0.3 b</td></tr><tr><td>导管密度 Vessel density/mm-2</td><td>42.4±12.0 b</td><td>47.5±9.6 b</td><td>48.7±8.3 b</td><td>53.4±10.5 ab</td><td></td><td>56.3±11.6 ab</td><td>59.9±10.1 a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根是植物的吸水器官,也是水分胁迫发生时最先感应到并做出相应反应措施的器官[21]。本文的试验结果表明,60d的PEG-6000模拟干旱胁迫已经影响了紫穗槐幼苗根系的生长发育。根系解剖结构是根系发育水平的直接体现,与生理功能关系密切[22],其木质化程度、输导组织、表皮的附属结构等会影响植物抵抗逆境能力[23]。刘延吉等研究发现,玉米(Zea mays)可通过根内维管柱径向加粗、木质化程度加深,增加导管数量，以提高根的运输能力,适应逆境胁迫[24]。随着PEG-6000 模拟干旱胁迫浓度的升高,紫穗槐幼苗根内维管柱的直径变大,导管管径变小,但导管密度增加,这与赵祥等人的实验结果一致[25]。研究表明 PEG-6000 模拟干旱胁迫处理下,紫穗槐幼苗根系的水分运输组织更加发达,提高了根系的水分运输能力,保障干旱胁迫下向地上部分的有效供水。木质部中的导管是植物体内运输水分的重要组织,增加导管的数量和减小导管的直径，可以提高水分的运输效率,从而缓解干旱环境对紫穗槐幼苗生长的影响,提高紫穗槐幼苗对干旱环境的适应能力。 K7",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］王印川.紫穗槐及其经济利用价值.山西水土保持科技，2003，（1)：21-23.  \n[2] 陈利云，汪之波，张宗舟.加热处理对紫穗槐种子萌发、内生根瘤菌及植株生长的影响.江苏农业科学，2011,39(6)：572-574.  \n[3] 徐同冰.紫穗槐种子萌发特性研究.现代农业科技，2011，（7)：202-204.  \n穆永光.非盐碱生境的二种豆科灌木盐碱耐性研究[D].长春：东北师范大学，2007.  \n5 颜淑云，周志宇，邹丽娜，秦或.干旱胁迫对紫穗槐幼苗生理生化特性的影响.干旱区研究，2011，28(1)：139-145.  \n[6] 邹丽娜.盐分胁迫下紫穗槐生理生长特性及营养成分特征[D].兰州：兰州大学，2010.  \n[7] 赵建诚，秦柱南，孙超，刘洪林，曹帮华.紫穗槐种子萌发对盐旱逆境的生理响应.种子,2012,31(5)：26-29.  \n[8」米银法，周米生.外源钙对盐胁迫下紫穗槐种子萌发及叶绿素含量的影响.现代农业科技，2011，（10)：184-184.  \n[9］崔大练，马玉心，王俊.干旱胁迫下紫穗槐叶片解剖特征的变化.广西植物，2011,31(3)：332-337.  \n[10] 李合生.植物生理生化实验原理和技术.北京：高等教育出版社，2000.  \n[11] 王学奎.植物生理生化实验原理和技术.北京：高等教育出版社，2006.  \n[12]GreenJddeleyJAortiaJ，WtsonC.otevelontinediteaasubsciaticedee",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Journal of Arid Environments，2005,61(1)：1-12.3aa,flsfiasiLycopersicon pennelii.Physiologia Plantarum，1998,104(2）：169-174.[14］李霞，阎秀峰，于涛.水分胁迫对黄檗幼苗保护酶活性及脂质过氧化作用的影响.应用生态学报，2005，16(12）：2353-2356.[15] 董慧，段小春，常智慧.外源水杨酸对多年生黑麦草耐盐性的影响.北京林业大学学报，2015,37(2)：128-135.[16] 吴敏，张文辉，周建云，马闯，韩文娟.干旱胁迫对栓皮栎幼苗细根的生长与生理生化指标的影响.生态学报，2014，34（15)：4223-4233.[17] DelauneyAJ,Verma DPS.Proline biosynthesis andosmoregulation in plants.ThePlant Journal,1993,4(2):215-223.[18] Verbruggen N,Hermans C.Proline accumulation in plants；a review.Amino Acids,2008,35(4）：753-759.[19]ChavesM,ereiraJS,MarocoJ,RodriguesML,cardoCPsrioM,CvaoI,FariaTinheiroC.Howplantsoeiaterstress in the field.Photosynthesis and growth.Annals of Botany，20O2，89(7）：907-916.[20]潘昕，邱权，李吉跃，王军辉，何茜，苏艳，马建伟，杜坤.干旱胁迫对青藏高原6种植物生理指标的影响，生态学报，2014，34（13)：3558-3567.[21］刘方春，邢尚军，马海林，杜振宇,马丙尧.干旱对侧柏容器苗和裸根苗生长、营养及生理特性的影响.北京林业大学学报，2014，36(5):68-73.[22]MacFallJsGeoparativeateuakebsoffesidinsfollinsdaLePhytologist，1991，119：551-560.[23]Nobel P S.Physicochemical and Environmental Plant Physiology.San Diego,USA：Academic Press.1991.[24] 刘延吉，田晓艳，曹敏建.低钾胁迫对玉米苗期根系生长和钾吸收特性的影响.玉米科学，2007，15（2)：107-110.[25] 赵祥，董宽虎，张垚，朱慧森，杨武德，杨美红.达乌里胡枝子根解剖结构与其抗旱性的关系.草地学报，2011,19(1)：13-19.",
+        "page_idx": 6
+    }
+]

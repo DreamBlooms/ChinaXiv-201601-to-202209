@@ -1,0 +1,184 @@
+# 河北低平原冬小麦长期咸水灌溉矿化度阀值研究
+
+李　佳」曹彩云² 郑春莲² 党红凯² 郭丽² 马俊永2\*\*(1.南京农业大学公共管理学院南京210095;2.河北省农林科学院旱作农业研究所/河北省农作物抗旱研究重点实验室/农业部河北南部耕地保育科学观测实验站衡水053000)
+
+摘要在研究咸水灌溉对土壤和作物的影响过程中，对土壤盐分监测相对困难，而监测灌溉水的盐分更简单易行，但作物不同时期灌溉咸水的矿化度阈值较难确定。本文以2007—2015年在河北省衡水旱农节水试验站进行的长期咸水灌溉试验数据(灌溉水设置 $\mathbf { \tau } _ { 1 } \mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 、 $2 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $4 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $6 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 和 $8 \mathrm { \ g \cdot L ^ { - 1 } }$ 共5个矿化度；冬小麦生长期间灌溉3次水)为基础，以矿化度为 $\mathbf { \sigma } _ { 1 } \mathbf { \varepsilon } _ { \mathrm { g } \cdot \mathbf { L } } \mathbf { \varepsilon } ^ { - 1 }$ 灌溉水为淡水对照，调查不同处理小麦的相对出苗率、相对籽粒产量及土壤盐分等作物生长、产量和环境变化指标，并采用FAO分段函数方法，分析了‘石家庄8号’冬小麦多年咸水灌溉的矿化度阈值及其影响因素。结果表明，采用 $4 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 和 $6 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉，多年平均小麦出苗率相当于淡水的 $9 3 . 8 \% ( P { > } 0 . 0 5 )$ 和 $7 0 . 4 \% ( P { < } 0 . 0 5 )$ ，多年平均产量相当于淡水灌溉的 $8 6 . 0 \% ( P { < } 0 . 0 5 )$ 和$6 5 . 3 \% ( P { < } 0 . 0 5 )$ ，用小于 $4 \ \mathrm { g \cdot L ^ { - 1 } }$ 的咸水灌溉，籽粒产量(产量变化小于 $1 5 \%$ )和出苗率不是影响咸水灌溉矿化度阈值的限制因素。经计算冬小麦多年咸水灌溉矿化度阈值为 $2 . 1 4 { \sim } 3 . 9 5 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ ，平均值为 $3 . 1 9 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ ，变异系数为$2 1 . 1 \%$ 。综合考虑产量和土壤盐分累积风险确定河北低平原冬小麦长期灌溉咸水矿化度阈值为 $2 . 4 7 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 。矿化度阈值与播前 $1 \mathrm { ~ m ~ }$ 土壤盐分有一定负相关关系(相关系数-0.587)，与淡水灌溉产量呈一定正相关关系(相关系数0.516)。土壤盐分累积风险分析结果表明，按照灌溉咸水矿化度与土壤平均盐分拟合的指数方程预测，采用 $2 . 4 7 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水连续9年灌溉， $0 { \sim } 2 0 ~ \mathrm { c m }$ 耕层土壤未达到盐渍化水平(平均土壤盐分预测值 $0 . 9 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，而 $\mathrm { ~ 1 ~ m ~ }$ 土体出现轻度盐渍化(平均盐分含量预测值 $1 . 1 7 \ \mathrm { g { \cdot k g } ^ { - 1 } }$ )，土壤盐分稍有累积，但未对冬小麦产量造成明显影响。由此来看，以 $2 . 4 7 ~ \mathrm { g { \cdot } L ^ { - 1 } }$ 咸水长期灌溉造成土壤严重盐渍化的风险较小。
+
+关键词河北低平原冬小麦　咸水　长期灌溉矿化度阈值中图分类号：S314 文献标识码：A 文章编号:1671-3990(2016)05-0643-09
+
+# Salinity threshold of long-term saline water irrigation for winter wheat in Hebei Lowland Plain
+
+LI Jia', CAO Caiyun², ZHENG Chunlian², DANG Hongkai², GUO Li², MA Junyong² (1.CollegeofPublicAdminstratio,NanjingAgriculturalUniversityNanjingo95,China;2.Dry-landFarmingIstiuteof HebeiAcademyof AgricultureandForestry Sciences/KeyLaboratoryofCropDrought Resistance in HebeiProvince/Arable LandFertilityManagementObservation StationinSouthern HebeiProvince,MinistryofAgriculture,Hengshui O530oo,China)
+
+AbstractCompared with soil salts content measurement,irigation watersaltsare much easiertobemonitoredandregulated undersaline waterirrigationofcropcultivation.However,thesalinity thresholdof irigationwater(STW)isarathercomplex anddifficult parametertoset.Ithisstudy,theSTIWvalueforwinter wheat was estimated basedonalong-term experiment (2007-2015)attheDry-landFarmingStationinHengshui,HebeiLowlandPlain.Inthestudydiferentsalinitiesofiigation water $\mathsf { \Omega } [ 1 \ \mathsf { g } \cdot \mathsf { L } ^ { - 1 }$ (control), $2 ~ \mathrm { g } . \mathrm { L } ^ { - 1 }$ $4 ~ \mathrm { g } . \mathrm { L } ^ { - 1 }$ ， $6 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ and $8 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 } ]$ were used to determine STIW under long-term saline water irrigation of‘Shijiazhuang $\mathbf { \boldsymbol { 8 } } ^ { \prime }$ wheat variety. The relative germination and yield of wheat, soil salinity content and characteristics of wheat growth were measured under diferentconditions.Yearly STIW was calculated byusing theFAO piecewise linear modelandthefinalresult decided throughcomprehensiveconsiderationsoftherisksofboth yield losand soil salt accumulation.Thefactors influencing anualfluctuations ofSTIW were alsodetermined.Theresults showedthatthe relative emergence rates of winter wheat under $4 ~ \mathrm { g } . \mathrm { L } ^ { - 1 }$ and $6 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ treatment were $9 3 . 8 \%$ $( P > 0 . 0 5 )$ and $70 . 4 \%$ $( P < 0 . 0 5 )$ ，the relative yield were $8 6 . 0 \%$ $( P < 0 . 0 5 )$ and $6 5 . 3 \%$ $( P < 0 . 0 5 )$ ),respectively,compared with the control. Thus the grain yield loss (no more than $1 5 \%$ ）and emergence of winter wheat were not limiting factors of STIW of wheat.For the 9-year data,the calculated STIW was within $2 . 1 4 { - } 3 . 9 5 ~ \mathrm { g { \cdot } L ^ { - 1 } }$ , with an average of $3 . 1 9 ~ \mathrm { g { \cdot } L } ^ { - 1 }$ and a variation coefficient was $2 1 . 1 \%$ . The final value of STIW that took into accounts of soil salt accumulation risk and wheat yield was $2 . 4 7 ~ \mathrm { g { \cdot } L ^ { - 1 } }$ . STIW was negatively correlated with soil salt in the $0 { - } 1 0 0 ~ \mathrm { c m }$ soil profile at pre-sowing stage (coefficient $r = - 0 . 5 8 7 _ { . }$ ), but positively correlated with fresh water irrigated yield $( r = 0 . 5 1 6 )$ ).The result of estimated risk of soil salt accumulation indicated that exponential model hadthebestsimulationeffctfortherelationshipbetween irigation watersalinityandsoilsalt.After9yearsofconsecutive saline water irrigation at STIW,average soil salt was $0 . 9 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ in the $0 { - } 2 0 ~ \mathrm { c m }$ soil layer and was $1 . 1 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ in the $0 { - } 1 0 0 ~ \mathrm { c m }$ soil profile.There wasaslight accumulationof soilsalt,but no significant effect on winter wheat yield.Therisk of soil salinization due to long-term $2 . 4 7 \ \mathrm { g { \cdot } L } ^ { - 1 }$ saline water irrigation was weak in Hebei Lowland Plain.
+
+KeywordsHebei Lowland Plain; Winter wheat; Saline water; Long-term irigation; Salinity threshold
+
+河北低平原是河北省重要的粮食生产基地，其中冬小麦面积和产量分别占河北省的 $45 \%$ 和 $4 7 \% ^ { [ 1 ] }$ 但该区淡水资源极度匮乏，单位面积水资源量不及全国平均数的 $1 / 9 ^ { [ 2 ] }$ 。水资源量与作物配置严重不协调[3]，冬小麦生长期间降水较少，主要靠抽提地下水灌溉来满足水分需求，是造成该区地下水超采、形成大面积超采漏斗的主要诱因之—[4-5]。而另一方面虽然淡水资源极度紧缺，但该区分布着丰富的浅层微咸水资源尚未大规模开发利用。资料显示，以河北低平原区为主的河北平原区地下咸水总储存资源约为1700亿 $\mathrm { m } ^ { 3 }$ ，其中 $2 { \sim } 3 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 微咸水年可开采资源量为22.5亿 $\mathrm { m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 }$ ，与区域总淡水资源量相当[6-7]。因此研究冬小麦咸水灌溉技术对缓解河北低平原缺水、减轻深层地下水超采具有重要意义。
+
+作物耐盐阈值是指与淡水灌溉或非盐渍土相比产量不造成显著减产的灌溉水或土壤盐分含量的最高值[8]，是咸水灌溉及盐碱地改良技术的一个关键指标。以土壤盐分为基础的指标相对容易确定，因此大部分研究报道中阈值是以土壤盐分为指标的[9-10]，但田间土壤盐分监测较难，生产应用局限性大。以灌溉水盐分含量为基础(称为作物咸水灌溉的矿化度阈值)，则监测容易，但指标确定困难。因为影响咸水灌溉效果的因素较多，如降雨、土壤质地、土壤基础盐分、灌溉制度等，并且短时间研究确定的矿化度阈值在应用中对未来土壤盐分累积的影响存在很大不确定性[11]。因此关于咸水矿化度阈值指标的报道较少，但该指标却是咸水灌溉技术生产应用中迫切需要的一个指标。特别是自前河北低平原大范围推广了咸淡混浇技术[12]，该技术标准是以固定的2 $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 作为咸淡水混合水矿化度控制指标[13]，而许多发表的试验资料用了 $2 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 以上的咸水灌溉小麦，发现灌溉2年后 $1 \mathrm { ~ m ~ }$ 土体盐分变化可周年平衡，无积盐现象[14]；张永波等[15]对运城盆地湖区灌区的冬小麦咸水灌溉制度研究，用低于7 $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ （204号的咸水可以保证冬小麦正常出苗生长。这些研究与$2 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸淡混合水控制标准出入很大。就小麦咸水灌溉的矿化度阈值研究方面，2004年胡文明[16]在内蒙古乌拉特旗进行的咸水灌溉田间试验，设置5种梯度，确定的小麦耐盐阈值为 $4 . 5 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 。吴忠东等[17]于2002—2005年在河北省南皮用淡水和3 $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 、$4 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $5 \mathrm { \ g \cdot L ^ { - 1 } }$ 咸水进行冬小麦灌溉试验，认为$3 \ \mathrm { g \cdot L } ^ { - 1 }$ 是该区小麦咸水灌溉的上限。自前在咸水矿化度阈值研究中的主要困难是需要长期咸水灌溉定位试验，才能较全面地估计各种阈值影响因素及土壤盐分累积风险，而主要存在的问题一是连续咸水灌溉定位试验研究时间较短，一般2\~3年，超过5年的研究不多[18-21]，二是矿化度设置不合理，有的设置梯度少或无梯度，有的进行阈值分析无淡水对照[22-23],尤其是多梯度长时间咸水连续灌溉的研究更少。鉴于阀值影响因素的复杂性和咸水灌溉影响的长效性咸水灌溉应用不当不仅会影响作物产量，而且会对土壤质量造成不良影响[24-26]。因此，系统设置矿化度梯度并开展长期的咸水连续灌溉定位试验，是研究作物咸水灌溉矿化度阈值的一个重要条件。本文以2007—2015年在河北低平原开展的长期咸水灌溉试验为基础，开展了冬小麦咸水灌溉的矿化度阀值、影响因素及土壤盐分累积风险研究，以期为区域浅层微咸水规模有效利用提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验区概况
+
+本研究在河北省农林科学院衡水旱农节水试验站进行，从2006年10月种植冬小麦开始连续进行咸水灌溉试验。该站地处河北低平原区，地势平坦，海拔高度为 $2 1 \mathrm { ~ m ~ }$ ，地下水埋深在 $7 ~ \mathrm { m }$ 左右，多年平均气温 $1 2 . 8 ~ \ \mathrm { ~ \textbar { ~ C ~ } ~ }$ ，日照时数为 $\mathrm { ~ 2 ~ 5 0 9 . 4 ~ h ~ }$ ，无霜期 $1 8 8 \mathrm { ~ d ~ }$ ，年平均降雨量 $5 1 2 . 5 ~ \mathrm { m m }$ ，其中夏季6—8月占全年降水量的 $70 \%$ 左右，年蒸发量为1 $7 8 5 . 4 \ \mathrm { m m }$ 。土壤为黏质壤性脱盐土，试验初始(2006年)土壤有机质含量$1 2 . 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，碱解氮 $6 5 . 5 ~ \mathrm { m g ^ { \cdot } k g ^ { - 1 } }$ ，速效磷 $1 7 . 6 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效钾 $1 3 4 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ， $0 { \sim } 2 0 ~ \mathrm { c m }$ 耕层土壤盐分 $0 . 4 3 7 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，$0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土壤盐分 $0 . 6 5 7 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 。
+
+# 1.2 试验设计
+
+采用不同矿化度的咸水多年连续灌溉，矿化度处理包括 $1 \ { \mathrm { g } } { \cdot } { \mathrm { L } } ^ { - 1 }$ (对照,CK)、 $2 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $4 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $6 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 和 $8 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 共5个水平，试验设3次重复，随机排列，种植制度为冬小麦-夏玉米一年两熟。冬小麦选用该区域的生产主栽品种‘石家庄8号'，小区面积 $5 7 ~ \mathrm { ~ m } ^ { 2 }$ （20 $( 9 . 5 \mathrm { m } \times 6 \mathrm { m } )$ ，小区之间设置隔离带，隔离带宽度 $5 0 \mathrm { c m } _ { \circ }$ 冬小麦生育期一般浇2\~3次水，即造摘水(若播前滴情较好，即 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土壤相对水分含量大于 $70 \%$ ，不再浇造摘水)、起身拔节水和扬花水。各处理灌溉用的不同矿化度咸水采用淡水与工业用盐配制而成，灌溉水离子组成见表1。每次灌溉水量 $6 0 ~ \mathrm { m m }$ ，用水表控制。播前旋耕两次，深度 $1 2 { \sim } 1 5 ~ \mathrm { c m }$ ，未进行玉米秸秆还田。常规施肥，冬小麦播种前底施磷酸二铵(含 $\mathbf { P } _ { 2 } \mathbf { O } _ { 5 }$ $46 \%$ 和 $\mathrm { ~ N ~ } 1 8 \%$ ） $5 2 5 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，春季结合第1次浇水追施尿素(含 $\mathrm { ~ N ~ } 4 6 \% ) 3 7 5 ~ \mathrm { k g } – \mathrm { h m } ^ { - 2 }$ 。冬小麦播种时间一般为每年10月12—23日，播量为 $1 9 5 { \sim } 2 2 5 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，收获时间为每年的6月10—15日。冬小麦采用 $1 5 \mathrm { c m }$ 等行距播种。试验年份冬小麦生长期降雨情况见表 $2 _ { \circ }$
+
+表22006—2015年各试验年份冬小麦生育期降水情况  
+
+<html><body><table><tr><td rowspan="2">灌溉水矿化度 Salinity of irrigation water(g·L-1)</td><td colspan="7">离子浓度 Ion concentration (g;L-1)</td></tr><tr><td>Ca²+</td><td>Mg2+</td><td>K</td><td>Na+</td><td>SO-</td><td>HCO3</td><td>CI-</td></tr><tr><td>1</td><td>1.43</td><td>1.61</td><td>0.15</td><td>10.73</td><td>5.88</td><td>1.04</td><td>7.63</td></tr><tr><td>2</td><td>1.71</td><td>3.19</td><td>0.18</td><td>25.62</td><td>10.32</td><td>1.11</td><td>21.45</td></tr><tr><td>4</td><td>2.00</td><td>4.60</td><td>0.20</td><td>56.44</td><td>16.91</td><td>1.21</td><td>47.27</td></tr><tr><td>6</td><td>2.33</td><td>5.78</td><td>0.23</td><td>87.84</td><td>23.34</td><td>1.31</td><td>73.58</td></tr><tr><td>8</td><td>2.79</td><td>6.26</td><td>0.26</td><td>119.97</td><td>30.14</td><td>1.44</td><td>100.04</td></tr></table></body></html>
+
+表1试验用不同矿化度灌溉水的离子组成 Table 1The ion compositions of irigation water with different salinities used in the experin   
+Table 2The precipitation during wheat growth seasons from 2oo6 to 2015   
+
+<html><body><table><tr><td>年份Year</td><td>2006/2007</td><td>2007/2008</td><td>2008/2009</td><td>2009/2010</td><td>2010/2011</td><td>2011/2012</td><td>2012/2013</td><td>2013/2014</td><td>2014/2015</td><td>平均Mean</td></tr><tr><td>降雨量 Precipitation</td><td>110.5</td><td>152.7</td><td>124.7</td><td>96.5</td><td>61.7</td><td>131.6</td><td>104.2</td><td>128.4</td><td>147.7</td><td>117.6</td></tr></table></body></html>
+
+# 1.3 测试项目及方法
+
+相对出苗率：播后3周，按 $1 \mathrm { ~ m ~ }$ 两行，每小区分3个点，调查不同处理基本苗情况。再按淡水对照为$100 \%$ ，计算不同咸水灌溉处理相对出苗率。
+
+相对出苗率 $( \% ) { = } N _ { \mathrm { t } } / N _ { \mathrm { C K } } { \times } 1 0 0$ (1)式中： $N _ { \mathrm { t } }$ 为不同处理基本苗数 $( \times 1 0 ^ { 4 }$ 株 $\cdot \mathrm { h m } ^ { - 2 }$ ， $N _ { \mathrm { C K } }$ 为淡水对照基本苗 $( \times 1 0 ^ { 4 }$ 株 $\cdot \mathrm { h m } ^ { - 2 }$ ）
+
+相对生物量：成熟时每小区收获 $3 ~ \mathrm { m } ^ { 2 }$ ，风干后称重计算单位面积生物量。再按淡水对照为 $100 \%$ 计算不同咸水灌溉处理相对生物量。
+
+相对生物量 $( \% ) { = } M _ { \mathrm { t } } / M _ { \mathrm { C K } } { \times } 1 0 0$ (2)式中: $M _ { \mathrm { t } }$ 为不同处理成熟期生物量 $( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$ ， $M _ { \mathrm { C K } }$ 为淡水对照成熟期生物量 $\left( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } \right) .$ ）
+
+相对籽粒产量：冬小麦成熟时，每小区收获 $3 ~ \mathrm { m } ^ { 2 }$ 人工脱粒，风干后称重计算单位产量。再以淡水对照为 $100 \%$ ，计算不同咸水灌溉处理相对籽粒量。
+
+相对籽粒产量 $( \% ) { = } Y _ { \mathrm { t } } / Y _ { \mathrm { C K } } { \times } 1 0 0$ (3)式中： $Y _ { \mathrm { t } }$ 为不同处理成熟期籽粒产量 $( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$ ， $Y _ { \mathrm { C K } }$ 为淡水对照成熟期籽粒产量 $( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ )
+
+土壤盐分：分别在播种前和收获时期，用土钻分层取土，每 $2 0 ~ \mathrm { c m }$ 一个层次，取样深度至 $1 ~ \mathrm { ~ m ~ }$ 深，每小区取3个点的混合样，土样风干后磨碎过筛，按照土水比 $1 : 5$ 使用DDS-11A型电导率仪测得土壤盐分含量。
+
+阈值计算：咸水灌溉的矿化度阀值计算采用FAO的分段函数模型[1]，根据每年冬小麦不同咸水灌溉处理的相对产量，计算各年冬小麦的咸水灌溉平均的矿化度阈值，即：
+
+$$
+Y _ { \mathrm { r } } { = } 1 0 0 \qquad \quad ( x { \leqslant } x _ { 0 } )
+$$
+
+$$
+Y _ { \mathrm { r } } = 1 0 0 { - } b ( x { - } x _ { 0 } )
+$$
+
+式中： $Y _ { \mathrm { r } }$ 为相对产量， $b$ 是超过耐盐阈值的单位盐分产量降低率， $x _ { 0 }$ 是灌溉水盐分的矿化度阈值， $x$ 是灌溉水矿化度(图1)。
+
+![](images/560422107d431beed2af8e0a53eac4c360566f891aab37cd028e8297b9518dcd.jpg)  
+图1计算灌溉水矿化度阈值的分段函数模型各参数的物理意义  
+Fig.1The schematic diagram of the parameters in the piecewise linear model used to calculate the salinity threshold of irrigation water
+
+试验结果采用SX统计软件进行统计分析，采用Microsoftexcel进行作图及模拟分析。
+
+# 2 结果与分析
+
+# 2.1 不同矿化度灌溉水灌溉对冬小麦出苗的影响
+
+一般作物种子萌发和出苗期是对盐分比较敏感时期[27]。表3是2007/2008—2014/2015年度‘石家庄8号'冬小麦相对出苗率情况。结果表明随灌溉水矿化度增高，‘石家庄8号'冬小麦的出苗率呈现明显降低趋势，但2 $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 和4 $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 咸水灌溉出苗率相当于淡水的 $9 9 . 8 \%$ 和 $9 3 . 8 \%$ ，与淡水灌溉差异不显著。 $6 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉出苗率相当于淡水的 $70 . 4 \%$ ，与淡水灌溉及$4 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉差异均达显著水平。 $8 ~ \mathrm { g { \cdot } L ^ { - 1 } }$ 咸水灌溉出苗率相当于淡水灌溉的 $3 5 . 5 \%$ ，与6 $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 咸水灌溉出苗率差异达到显著水平。这表明采用高于4 $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 咸水灌溉时，出苗率会受到明显抑制，低于$4 \ \mathrm { g \cdot L ^ { - 1 } }$ 石家庄8号'冬小麦出苗受影响不明显。并且$8 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 的高矿化度咸水灌溉‘石家庄8号'冬小麦的出苗率经过一定时期的稳定后，会随灌溉年份增加有加速降低趋势，‘石家庄8号'种植的前4年(2007/2008—2010/2011年度)出苗率相对稳定，为淡水出苗率的 $4 9 . 6 \% { \sim } 6 9 . 8 \%$ ，到第5年明显降低到 $23 . 7 \%$ 第6年及之后出苗率降低到淡水出苗率的 $20 \%$ 以下，有的年份基本无苗。
+
+表3不同矿化度咸水灌溉各年冬小麦相对出苗率 edling emergence rates of winter wheat irrgated with different salinity water from 2Oo7 to 2015 %   
+
+<html><body><table><tr><td>矿化度 I (g·L-1)</td><td>2007/2008</td><td>2008/2009</td><td>2009/2010</td><td>2010/2011</td><td>2011/2012</td><td>2012/2013</td><td>2013/2014</td><td>2014/2015</td><td>平均</td></tr><tr><td>1</td><td>100.0±12.0aAB</td><td>100.0±14.3aA 100.0±12.6aAB</td><td></td><td>100.0±4.2aAB</td><td>100.0±8.0aAB</td><td></td><td>100.0±2.8aA 100.0±8.0aB 100.0±8.8aAB</td><td></td><td>100.0±8.8a</td></tr><tr><td>2</td><td>96.5±7.6aA</td><td>94.3±11.1aA 101.1±6.0aA</td><td></td><td>95.8±7.0aA</td><td>98.9±10.7aA</td><td></td><td>95.6±7.5aA 109.2±12.8aA 106.9±8.8aA</td><td></td><td>99.8±5.5a</td></tr><tr><td>4</td><td>94.1±8.5aABC</td><td>92.7±5.2aAB</td><td>86.3±2.3abBC</td><td>97.3±2.8aABC</td><td>88.4±3.7abABC</td><td>96.7±5.3aA</td><td></td><td>96.1±18.3aC 98.9±17.5aABC 93.8±4.4a</td><td></td></tr><tr><td>6</td><td>65.8±8.0bC</td><td>83.3±9.3abAB</td><td>70.4±2.7bcBC</td><td>70.0±5.4bC</td><td>64.1±19.4bcBC</td><td>87.6±2.6bA</td><td>61.7±19.6bC</td><td>60.4±14.5bC</td><td>70.4±10.0b</td></tr><tr><td>8</td><td>49.6±15.4bBC</td><td>69.8±7.9bA</td><td>63.8±11.6cAB</td><td>50.5±18.2cAB</td><td>23.7±41.0cCD</td><td>11.1±5.2cD</td><td>13.3±8.0cD</td><td>0.0cD</td><td>35.5±26.4c</td></tr></table></body></html>
+
+不同小写字母表示处理间差异达 $P { < } 0 . 0 5$ 显著水平，不同大写字母表示同一处理年际间差异达 $P { < } 0 . 0 5$ 显著水平。下同。Different lowercases in the same column indicate significant difference among different irrigation water salinities at $P < 0 . 0 5$ level.Different capital letters in the same row indicate significant difference for the same irrigation water salinity among different years at $P < 0 . 0 5$ level. The same below.
+
+# 2.2不同矿化度灌溉水对冬小麦产量影响及阈值
+
+表4中列出了2007/2008—2004/2015年度冬小麦8个生长季不同矿化度咸水灌溉相对产量情况。从表4的结果来看，随灌溉水矿化度加大冬小麦产量整体呈降低趋势， $2 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉与淡水灌溉处理减产幅度仅 $1 . 0 \%$ ，与淡水灌溉产量差异不显著;$4 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉产量相当于淡水灌溉的 $8 6 . 0 \%$ ，平均减产 $1 4 . 0 \%$ ，与淡水灌溉及 $2 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉处理相比产量差异均达到显著水平； $6 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉产量相当于淡水灌溉的 $6 5 . 3 \%$ ，平均减产 $34 . 7 \%$ ，与淡水灌溉及 $4 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉相比产量差异均达到显著水平; $8 \ { \mathrm { g } } { \cdot } { \mathrm { L } } ^ { - 1 }$ 咸水灌溉产量相当于淡水灌溉的 $2 9 . 3 \%$ 平均减产 $70 . 7 \%$ ，与淡水灌溉及 $6 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉相比产量差异均达到显著水平。随灌溉水矿化度升高，较淡水灌溉减产幅度呈现快速加大的趋势， $2 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、$4 ~ \mathrm { g } . \mathrm { L } ^ { - 1 }$ 、 $6 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 和 $8 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 相对于淡水的减产幅度分别为 $1 . 0 \%$ 、 $1 4 . 0 \%$ 、 $34 . 7 \%$ 和 $70 \%$ ，并且 $8 \ { \mathrm { g } } { \cdot } { \mathrm { L } } ^ { - 1 }$ 咸水灌溉有的年份出现绝产。一般用 $4 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 以下微咸水灌溉较淡水灌溉减产不超过 $1 5 \%$ ，而用 $6 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉仍可获得相对淡水灌溉 $6 5 \%$ 的产量。
+
+Table4Efectsofdiffrentsalinitywateriigationontherelatieyieldofwheatand tresoldvauesofsaline waterfrom2oto015 $\%$   
+
+<html><body><table><tr><td>矿化度</td><td>2007/2008</td><td>2008/2009</td><td>2009/2010</td><td>2010/2011</td><td>2011/2012</td><td>2012/2013</td><td>2013/2014</td><td>2014/2015</td><td>平均</td></tr><tr><td>(g·L-1) 1</td><td>100.0±3.2aB</td><td>100.0±2.8aA</td><td>100.0±0.9aAB 100.0±9.1aE</td><td></td><td>100.0±12.1abD 100.0±5.6aC</td><td></td><td>100.0±7.6aD</td><td>100.0±7.4aD</td><td>100.0±17.0a</td></tr><tr><td>2</td><td>103.0±12.4abB 100.3±1.3aA</td><td></td><td>99.5±1.8aAB</td><td>95.2±4.6aE</td><td>105.7±4.1aCD</td><td>97.1±5.3aC</td><td>98.6±4.9aD</td><td>91.5±2.8aD</td><td>99.0±4.2a</td></tr><tr><td>4</td><td>92.8±7.5abAB</td><td>90.4±7.2abA</td><td>91.8±5.9abA</td><td>69.1±4.2bD</td><td>90.8±9.2abC</td><td>93.7±3.6aB</td><td>80.0±1.4bC</td><td>79.0±9.6bC</td><td>86.0±8.3b</td></tr><tr><td>6</td><td>83.2±14.8bA</td><td>87.8±1.3bA</td><td>72.5±3.4bA</td><td>48.0±6.1cD</td><td>77.1±14.9bB</td><td>57.6±8.0bBC</td><td>51.4±19.3cCD</td><td>30.5±0.9cD</td><td>65.3±19.9c</td></tr><tr><td>8</td><td>54.7±8.4cAB</td><td>68.5±10.5cA</td><td>42.2±1.7cBC</td><td>0.0dE</td><td>14.3±24.7cDE</td><td>20.0±34.7cDE 33.3±8.7dCD</td><td></td><td>0.0dE</td><td>29.3±23.5d</td></tr><tr><td>阈值 Salinity threshold</td><td>3.58</td><td>3.08</td><td>3.83</td><td>2.47</td><td>3.95</td><td>3.67</td><td>2.14</td><td>2.78</td><td>3.19±0.7</td></tr></table></body></html>
+
+利用分段函数模型计算的试验各年度的咸水灌溉矿化度阈值表明，冬小麦多年长期咸水灌溉试验的矿化度阈值变化范围为 $2 . 1 4 { \sim } 3 . 9 5 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ ，平均值为 $( 3 . 1 9 2 0 . 7 )$ ， $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ ，最高值年份与最低值年份差值达 $1 . 8 1 \ \mathrm { g { \cdot } L } ^ { - 1 }$ ，变异系数为 $2 1 . 1 \text{‰}$ 另外，冬小麦以灌溉咸水的矿化度表示的阈值不是一个稳定值，其数值在年度间波动较大。但试验8年的阈值均在2.14$\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 以上，其中 7 年即 $8 7 . 5 \%$ 的几率阈值在 2.47$\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 以上(表4)。这表示在河北低平原区，冬小麦如果用 $2 . 1 4 ~ \mathrm { g { \cdot } L ^ { - 1 } }$ 微咸水灌溉与淡水灌溉产量均不会造成明显减产，如果用 $2 . 4 7 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 微咸水灌溉，则有$12 . 5 \%$ 的几率或者说8年中有1年会有较淡水灌溉产量降低的风险。进一步分析，按照2014年的2.14$\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 阈值，如果采用 $2 . 4 7 ~ \mathrm { g { \cdot } L ^ { - 1 } }$ 咸水灌溉，超出阈值盐分 $0 . 3 3 \ \mathrm { \ g { \cdot } L ^ { - 1 } }$ ，按照2014年获得的分段函数测算，将较淡水灌溉减产 $3 . 9 \%$ ，减产幅度很小，因此可将$2 . 4 7 \ \mathrm { \ g } { \cdot } \mathrm { L } ^ { - 1 }$ 作为河北低平原区‘石家庄8号'冬小麦的
+
+咸水灌溉阈值。
+
+# 2.3 冬小麦咸水灌溉矿化度阈值影响因素分析
+
+为了研究冬小麦咸水灌溉矿化度阀值年际变化的影响因素，将冬小麦咸水灌溉的矿化度阈值与降雨、淡水灌溉对照的产量，以及播前 $0 { \sim } 2 0 ~ \mathrm { c m }$ 和 $0 \sim$ $1 0 0 \ \mathrm { c m }$ 土体土壤盐分进行了相关分析。结果表明，在灌溉条件下，冬小麦的咸水灌溉矿化度阈值与生育期降水呈正相关，但未达显著水平，相关系数为0.141;与播前 $0 { \sim } 2 0 \ \mathrm { c m }$ 耕层土壤盐分呈负相关，相关系数-0.213，未达显著水平；与播前 $\mathrm { ~ 1 ~ m ~ }$ 土体土壤盐分相关系数为-0.587，未达显著水平，但较耕层土壤盐分相关明显；与淡水灌溉的对照产量相关系数为0.516,未达到显著水平，但较降雨和播前耕层土壤影响要大(表5)。说明土体中累积的盐分会降低冬小麦对咸水灌溉的耐盐能力；淡水对照产量与冬小麦咸水灌溉矿化度阀值有一定正影响，利于冬小麦增产的环境条件在一定程度上可以提高冬小麦的耐盐能力。
+
+表4不同矿化度咸水灌溉逐年冬小麦相对产量和咸水矿化度阈值  
+表5不同年份咸水灌溉矿化度阈值、降雨、淡水小麦产量和土壤盐分的相关系数Tableoll  
+
+<html><body><table><tr><td rowspan="2">指标 Index</td><td colspan="8">测定结果 Measured value</td><td rowspan="2">与矿化度阈值的 相关系数 Correlation coefficient with salinity threshold</td></tr><tr><td>2008</td><td>2009</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>2014</td><td>2015</td></tr><tr><td>矿化度阈值 Salinity threshold (g:L-1）</td><td>3.58</td><td>3.08</td><td>3.83</td><td>2.47</td><td>3.95</td><td>3.67</td><td>2.14</td><td>2.78</td><td></td></tr><tr><td>对照产量 Control yield (kg·hm-2) 生育期降雨</td><td>451.4±14.2</td><td>449.5±13.9</td><td>409.3±4.0</td><td>300.2±27.4 351.5±41.8</td><td></td><td>394.5±22.4</td><td>336.7±26.1</td><td>372.4±26.5</td><td>0.516</td></tr><tr><td>Precipitation (mm) 播前耕层土壤盐分</td><td>152.7</td><td>124.7</td><td>96.5</td><td>61.7</td><td>131.6</td><td>104.2</td><td>128.4</td><td>147.7</td><td>0.141</td></tr><tr><td>Pre-seeding soil salt within 0-20 cm (g·kg-1)</td><td>1.4</td><td>1.0</td><td>0.6</td><td>0.8</td><td>1.1</td><td>0.7</td><td>1.0</td><td>1.9</td><td>-0.213</td></tr><tr><td>播前1m土体盐分 Pre-seeding soil salt within 0-100 cm (g·kg-1)</td><td>1.5</td><td>1.1</td><td>1.0</td><td>1.5</td><td>1.6</td><td>1.3</td><td>2.0</td><td>2.1</td><td>-0.587</td></tr></table></body></html>
+
+灌溉水矿化度阈值与各指标的相关性均未达显著水平。No significant corelationwas foundbetween salinity thresholdandthe indexes
+
+# 2.4按矿化度阈值管理长期灌溉咸水土壤盐分累积风险分析
+
+咸水灌溉会带来土壤盐分累积，从咸水灌溉矿化度阈值影响因素来看， $\mathrm { ~ 1 ~ m ~ }$ 土体盐分对阈值有一定负面影响。因此如果按作物产量计算的咸水矿化度阈值长期灌溉冬小麦，土壤盐分累积风险是一个需要考虑的重要问题。表6是根据2007—2015年长期不同咸水灌溉处理各年度冬小麦播种前与收获后$0 { \sim } 2 0 ~ \mathrm { c m }$ 耕层和 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土体土壤盐分的平均盐分含量与变异系数。结果表明，不同矿化度咸水灌溉引起土壤盐分的累积不同，灌溉水矿化度越大土壤盐分累积越多，年际间变化幅度越大；而较低矿化度咸水灌溉土壤盐分累积量和年际变化幅度都较小。多年利用 $\mathbf { \sigma } _ { 1 } \mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ (淡水)、 $2 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ ！ $4 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $6 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 及 $8 \ { \mathrm { g } } { \cdot } { \mathrm { L } } ^ { - 1 }$ 咸水进行灌溉的 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层平均土壤盐分含量分别为 $0 . 6 6 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 、 $0 . 8 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $1 . 3 9 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ （$2 . 8 0 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 和 $4 . 4 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，年际间变异系数分别为$3 0 . 8 \%$ 、 $4 2 . 1 \%$ 、 $5 5 . 8 \%$ 、 $6 4 . 1 \%$ 和 $56 . 0 \text{‰}$ 虽然用不同矿化度咸水灌溉均提高了 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土壤盐分含量，但 $2 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 矿化度处理耕层土壤盐分小于 $0 . 1 \ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，根据盐渍土分类标准小于 $1 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 属于非盐渍土;$4 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉后耕层土壤盐分为 $1 { \sim } 2 ~ \mathrm { g { \cdot } k g } ^ { - 1 }$ ，达轻度盐渍土标准； $6 \ \mathrm { g \cdot L ^ { - 1 } }$ 以上咸水灌溉耕层土壤盐分则大于 $2 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，为盐渍土。各处理 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土体平均土壤盐分分别为 $0 . 8 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $1 . 0 8 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ！$1 . 6 0 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ ！ $2 . 3 5 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 和 $3 . 3 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，对应年际间变异系数分别为 $1 9 . 4 \%$ 、 $2 6 . 8 \%$ 、 $34 . 6 \%$ 、 $4 4 . 2 \%$ 和$4 0 . 9 \%$ ，按照盐渍土分类标准[28], $2 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 和 $4 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 咸水灌溉, $1 \mathrm { m }$ 土体均出现 $1 { \sim } 2 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 范畴的轻度土壤盐渍化。
+
+表6不同矿化度咸水长期灌溉条件下平均土壤盐分及年际变异系数(2006—2015 年)Table6Averagesoilsaltcontentsandtheinter-annualvariationcoeficientsunderdifferentsalinity wateririgationconditionsfrom 2006 to 2015  
+
+<html><body><table><tr><td rowspan="2">矿化度 Irrigation water salinity (g·L-1)</td><td colspan="2">0~20 cm</td><td colspan="2">0~100 cm</td></tr><tr><td>土壤盐分 Soil salt content (g:kg-1)</td><td>变异系数 Coefficient of variation (%)</td><td>土壤盐分 Soil salt content (g:kg-1)</td><td>变异系数 Coefficient of variation (%)</td></tr><tr><td>1</td><td>0.66</td><td>30.8</td><td>0.87</td><td>19.4</td></tr><tr><td>2</td><td>0.88</td><td>42.1</td><td>1.08</td><td>26.8</td></tr><tr><td>4</td><td>1.39</td><td>55.8</td><td>1.60</td><td>34.6</td></tr><tr><td>6</td><td>2.80</td><td>64.1</td><td>2.35</td><td>44.2</td></tr><tr><td>8</td><td>4.48</td><td>56.0</td><td>3.37</td><td>40.9</td></tr></table></body></html>
+
+为了从土壤盐分的角度评估该阈值长期应用对土壤环境的风险，进一步评估了按冬小麦咸水灌溉的矿化度阈值长期灌溉对土壤盐分水平的影响，分析土壤盐分含量与灌溉水矿化度的关系，将平均土壤盐分含量与灌溉水矿化度进行回归分析。从表7的分析结果可以看出，无论 $0 { \sim } 2 0 ~ \mathrm { c m }$ 耕层土壤盐分还是 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土体盐分，与灌溉水盐分含量有很好的线性关系，线性模型决定系数分别达 $0 . 9 4 ( 0 { \sim } 2 0 \ \mathrm { c m } )$ 和 $0 . 9 7 ( 0 { \sim } 1 0 0 \ \mathrm { ~ c m } )$ ，但采用指数模型则能更好地描述灌溉水盐分含量与土壤盐分累积的关系。指数模型拟合 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土壤盐分决定系数达0.99， $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土壤盐分决定系数达到0.999，分别较线性模型提高5.5和2.4个百分点。采用指数模型更能反映灌溉水和土壤盐分累积的特点，即低矿化度时盐分累积少，而随灌溉水盐分增加土壤盐分累积呈指数形式快速增加，而不是如线性模型描述的那样不管灌溉水盐分高低，土壤盐分随灌溉水盐分成一定比例增加。采用指数模型估算冬小麦矿化度阈值 $2 . 4 7 ~ \mathrm { g { \cdot } L } ^ { - 1 }$ 对应的 $0 { \sim } 2 0 ~ \mathrm { c m }$ 耕层平均土壤盐分值为 $0 . 9 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，属于非盐渍土;而 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 对应的平均土壤盐分为 $1 . 1 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，为轻度盐渍化。从多年咸水灌溉试验结果分析，在河北低平原按照冬小麦矿化度阀值为 $2 . 4 7 ~ \mathrm { g { \cdot } L ^ { - 1 } }$ 咸水长期灌溉，土壤发生盐渍化的风险较低。因此无论从冬小麦产量还是土壤盐分累积状况来看，该矿化度可以作为河北低平原区冬小麦长期咸灌的矿化度阈值。
+
+表7不同盐分含量灌溉水长期灌溉下土壤盐分含量变化拟合方程(2006—2015年)  
+Table 7The parameters of different models used for simulating the relationship between irrigation water salinity and average soil salt contents during 2006-2015   
+
+<html><body><table><tr><td>土层 Soil layer (cm)</td><td>模型 Model</td><td>方程 Function</td><td>R²</td><td>n</td></tr><tr><td>0~20</td><td>线性Linear</td><td>y= 0.541x-0.229</td><td>0.940 4*</td><td>9</td></tr><tr><td rowspan="4">0~100</td><td>指数Exponential</td><td>y = 0.496e0.277 4x</td><td>0.995 6*</td><td>9</td></tr><tr><td>线性Linear</td><td>y=0.353x+0.371</td><td>0.975 5*</td><td>9</td></tr><tr><td>指数 Exponential</td><td>y= 0.727e0.193 9x</td><td>0.999 2*</td><td></td></tr><tr><td></td><td></td><td></td><td>9</td></tr></table></body></html>
+
+\*表示在0.05水平上差异显著。\* indicated significant difference at 0.05 level.
+
+# 3讨论
+
+本研究以9年8季小麦产量,5个矿化度梯度处理的冬小麦连续长期咸水灌溉试验数据为基础，计算了各年度的冬小麦咸水灌溉矿化度阈值，揭示了其年际的波动情况。发现其年际间波动较大，最大与最小年份阈值相差 $1 . 8 1 ~ \mathrm { g { \cdot } L } ^ { - 1 }$ ，幅度达 $8 4 . 6 \%$ ，这是短期研究较难发现的一个情况。该研究体现了系统设计的咸水矿化度梯度和较长期的定位试验在作物矿化度阈值研究中的重要意义。本文根据多年产量计算的冬小麦灌溉咸水的矿化度阈值为 $3 . 1 9 \ \mathrm { g { \cdot } L } ^ { - 1 }$ 经风险分析后确定的阈值为 $2 . 4 7 ~ \mathrm { g { \cdot } L } ^ { - 1 }$ 。该值较目前应用的咸淡混浇混合水 $2 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 的矿化度标准提高了$23 . 5 \%$ 。FAO资料中小麦灌溉咸水的矿化度阀值为$4 \mathrm { d S } { \cdot } \mathrm { c m } ^ { - 1 }$ ，按照经验公式计算其盐分含量约为 $2 . 5 6 \mathrm { g } . \mathrm { L } ^ { - 1 [ 2 9 ] }$ 该值与本研究确定的阈值很接近。吴忠东等[17在河北南皮根据土壤盐分累积及小麦产量研究结果，认为 $3 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 是该区小麦咸水灌溉矿化度最高浓度，该值与本研究的多年平均矿化度阈值接近。
+
+在小麦咸水灌溉矿化度阀值影响因素研究中，发现小麦咸水灌溉矿化度与对照产量有一定程度正相关，因为阈值是按相对产量进行计算，而相对产量是以对照做分母的，因此相对产量与对照产量(分母)是反相关关系。而矿化度阈值与对照产量正相关这一结果反映了另一个事实，即咸水灌溉对环境更敏感，对小麦生产不利的环境条件对咸水灌溉小麦产生的不良影响较淡水灌溉小麦更严重。这也说明采取积极的增产措施，可促进小麦耐盐能力的提高。在咸水灌溉矿化度阈值影响因素中，播前 $1 \mathrm { ~ m ~ }$ 土体盐分较耕层土壤盐分对矿化度阈值的影响更大，反映了播前造摘对盐分向下的淋洗有较好效果。播前造后 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土体接受造嫡灌溉对耕层盐分的淋溶，所以播前耕层土壤 $( 0 { \sim } 2 0 ~ \mathrm { c m } )$ 对阈值的影响反而不如 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土体大。另一方面也说明，咸水灌溉盐分在土体中的累积，会影响耐盐阈值及灌溉咸水的适宜矿化度。
+
+冬小麦灌溉咸水的矿化度阀值理论上是以淡水作对照，与淡水灌溉相比产量不会造成减产的最高灌溉水含盐量。在实际应用中需要注意以下问题：1)本文的值对咸淡混浇或者单纯咸水灌溉有较好的参考意义，但当采用咸淡水交替灌溉方式进行咸水补充灌溉时，不同灌溉时期适用的咸水浓度阈值还需要参考冬小麦不同生育阶段的耐盐阀值，因为作物不同生育时期对盐分敏感程度差异较大[30]，而本文的阈值只是一个综合值。一般来说采用咸淡水交替方式进行咸水补充灌溉时，咸水灌溉的时期一般是冬小麦耐盐能力较强的时期，而且还有淡水淋洗条件，因此补灌咸水的阈值一般要较本文的综合阈值要高；2)用高于该阀值的咸水灌溉与用淡水相比可能会造成一定幅度的减产，但并不是绝对不能用，许多研究表明采用 $3 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 以上咸水灌溉较不灌溉的旱地会有很大幅度的增产[31-32]。
+
+本文对咸水矿化度阈值的研究相对以往的多数研究跨度时间长，与短时间的研究结果相比，反映出的阈值波动范围更大，由于影响咸水灌溉效果的因素十分复杂[33-35]，本研究的影响因子中未找出造成波动的显著影响因素，今后需要进一步加强这方面的深入研究。
+
+# 4结论
+
+按照分段函数模型计算的河北低平原‘石家庄 8号'冬小麦多年咸水灌溉矿化度阈值为 $2 . 1 4 { \sim } 3 . 9 5 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 平均值为 $3 . 1 9 \ \mathrm { \ g \cdot L } ^ { - 1 }$ ，年际间波动明显，变异系数为$2 1 . 1 \text{‰}$ 根据产量和土壤盐分综合考虑最终估算确定的阈值为 $2 . 4 7 ~ \mathrm { g { \cdot } L } ^ { - 1 }$ 。
+
+造成咸水灌溉矿化度阈值年际间波动的主要因素为播前 $1 \mathrm { ~ m ~ }$ 土体土壤盐分和淡水对照产量，灌溉咸水矿化度阀值与 $1 \mathrm { ~ m ~ }$ 土体盐分有一定负相关关系(相关系数-0.587)，与淡水对照产量呈一定正相关关系(相关系数0.516)。
+
+采用 $2 . 4 7 ~ \mathrm { g { \cdot } L ^ { - 1 } }$ 咸水连续9年灌溉， $0 { \sim } 2 0 ~ \mathrm { c m }$ 耕层土壤未达到盐渍化水平(平均土壤盐分 $0 . 9 8 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } .$ ，而$\textrm { l m }$ 土体出现轻度盐渍化(平均盐分含量 $1 . 1 7 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } )$ ，土壤盐分稍有累积，但未对冬小麦产量造成明显影响。
+
+# 参考文献References
+
+[1]王慧军．河北省粮食综合生产能力研究[M].石家庄：河北 科学技术出版社,2010 Wang H J.Research of Comprehensive Grain Production Capacity in Hebei Province[M].Shijiazhuang:Hebei Science and Technology Press,2010   
+[2]陶佩君，王娜，周志军，等．河北省黑龙港地区农业节水技 术及其应用选择分析[J].农业科技管理,2008,27(2):34-37 TaoPJ,WangN,Zhou ZJ,et al.Water-saving technology in agriculture and analysis of choice in Heilonggang Region of Hebei Province[J]. Management of Agricultural Science and Technology,2008,27(2):34-37   
+[3]张光辉，费宇红，刘春华，等．华北平原灌溉用水强度与地 下水承载力适应性状况[J]．农业工程学报，2013，29(1): 1-10 Zhang G H,Fei YH,Liu C H,et al. Adaptation between irrigation intensity and groundwater carrying capacity in North China Plain[J]. Transactions of the CSAE,2013,29(1):
+
+1-10
+
+[4]张光辉，刘中培，费宇红，等．华北平原区域水资源特征与 作物布局结构适应性研究[J]．地球学报,2010,31(1):17-22 Zhang GH,Liu ZP,FeiYH,et al.The relationship between the distribution of irrigated crops and the supply capability of regional water resources in North China Plain[J].Acta Geoscientica Sinica,2010,31(1): 17-22
+
+[5]刘中培，张光辉，严明疆，等．石家庄平原区粮食施肥增产 对地下水开采量演变影响研究[J]．中国生态农业学报, 2012,20(1): 111-115 Liu Z P, Zhang G H, Yan MJ, et al. Impact of fertilization and high grain production on groundwater exploitation in Shijiazhuang Plain[J]. Chinese Journal of Eco-Agriculture, 2012, 20(1): 11-115   
+[6]陈望和．河北地下水[M]．北京：地震出版社,1999 Chen W H.The Groundwater in Hebei[M].Beijing:Earthquake Press,1999   
+[7] 张亚哲，申建梅，王莹，等．河北平原地下(微)咸水的分布 特征及开发利用[J]．农业环境与发展,2009,26(6):29-33 Zhang Y Z,Shen JM,Wang Y,et al.The distribution and utilization of underground (slighly） saline water in Hebei Lowplain[J].Agro-Environment & Development, 2009,26(6): 29-33   
+[8] Tanji K K,Kielen N C.Agricultural Drainage Water Management in Arid and Semiarid Areas.FAO Irrigation and Drainage Paper 61[M]. Rome:Food and Agriculture Organization of the United Nations,2002   
+[9]郭永辰．黑龙港地区浅层地下咸水利用的研究[J]．灌溉排 水,1992,11(4): 14-19 Guo Y C. Study on irrigation with saline water in Heilonggang Region[J]. Journal of Irrigation and Drainage, 1992, 11(4): 14-19   
+[10]张妙仙，王仰仁，王仲熊．山西省涑水河盆地小麦棉花耐 盐度方程[J]．土壤侵蚀与水土保持学报，1999，5(6): 123-126 Zhang MX,Wang YR,Wang Z X. Yield response function of wheat and cotton to soil in Sushui Basin in Shanxi Province[J]. Journal of Soil Erosion and Soil and Water Conservation, 1999, 5(6): 123-126   
+[11] Rhoades JD,Kandiah A,Mashali A M.The Use of Saline Waters for Crop Production — FAO Irrigation and Drainage Paper 48[M]. Rome: Food and Agriculture Organization of the United Nations,1992   
+[12]王媛媛．浅议咸淡水混浇技术的应用[J]．地下水，2004, 26(3): 210-211 Wang Y Y.A brief discussion about the blending irrigation of saline and fresh water[J].Ground Water, 2004，26(3): 210-211   
+[13]河北省质量技术监督局.DB13/T928—2008 咸淡水混合灌 溉工程技术规范[S]．北京：中国标准出版社,2008 Hebei Provincial Administration of Quality and Technical Supervision.DB13/T 928—2008 Technical Specification of Irrigation Engineering Mixed with Saline Water and Fresh Water[S]. Beijing: Chinese Publishing House, 2008   
+[14]逢焕成，杨劲松，严惠峻．微咸水灌溉对土壤盐分和作物 Pang HC, Yang J S,Yan HJ. Effects of irrigation with saline water on soil salinity and crop yield[J].Plant Nutrition and Fertilizer Science,2004,10(6): 599-603   
+[15] 张永波，时红．冬小麦高产咸水灌溉制度的田间试验研究[J]. 农业工程学报,2000,16(1):44-47 Zhang Y B,Shi H. Field test study on salt water irrigation systems in the high yielding cultivation of winter wheat[J]. Transactions of the CSAE,2000,16(1): 44-47   
+[16]胡文明．微咸水灌溉对作物生长影响的试验研究[J]．灌溉 排水学报,2007,26(1):86-88 Hu W M. Experimental study on effect of crop growth with light-saline water irigation[J]. Journal of Irigation and Drainage,2007,26(1): 86-88   
+[17]吴忠东，王全九．微咸水混灌对土壤理化性质及冬小麦产 量的影响[J]．农业工程学报,2008,24(6):69-73 Wu Z D,Wang Q J.Effects of blending irrigation with brackish water on soil physico-chemical properties and winter wheat yield[J].Transactions of the CSAE,2008, 24(6): 69-73   
+[18] 郭会荣，靳孟贵，高云福．冬小麦田咸水灌溉与土壤盐分 调控试验[J].地质科技情报,2002,21(1):61-65 Guo HR,Jin MG, Gao YF.Experiments on irrigation with brackish groundwater and management of soil salt in winter wheatfields[J].GeologicalScienceandTechnology Information,2002,21(1): 61-65   
+[19]李庆朝．微咸水灌溉对小麦、玉米等农作物的影响[J]．安庆 师范学院学报：自然科学版,2003,9(2):37-40 Li Q C.Effect on brackish water irrigation to wheat and corn crop[J]. Journal of Anqing Teachers College: Natural Science, 2003,9(2): 37-40   
+[20] 毛振强，宇振荣，马永良．微咸水灌溉对土壤盐分及冬小 麦和夏玉米产量的影响[J]．中国农业大学学报,2003,8(S): 20-25 Mao Z Q,Yu ZR,Ma YL.Influence of brackish water on the soil salt regime and yield of winter wheat and summer maize[J]. Journal of China Agricultural University,20o3,8(S): 20-25   
+[21]吴忠东，王全九．微咸水连续灌溉对冬小麦产量和土壤理 化性质的影响[J]．农业机械学报,2010,41(9):36-43 Wu Z D,Wang Q J. Effect of saline water continuous irrigation on winter wheat yield and soil physicochemical property[J]. Transactions of the Chinese Societyfor Agricultural Machinery,2010,41(9): 36-43   
+[22] 邵玉翠，李悦，盛福昆，等．浅层咸水灌溉对冬小麦和土壤 安全性的研究[J].生态环境,2006,15(6):1241-1245 Shao Y C,Li Y, Sheng F K, et al. Safety of winter wheat and soilusingbrackish waterirrigation[J].Ecologyand Environment,2006,15(6): 1241-1245   
+[23］ 叶海燕，王全九，刘小京．冬小麦微咸水灌溉制度的研究[J]. 农业工程学报,2005,21(9):27-32 Ye H Y,Wang Q J,Liu X J. Slight saline water irrigation systems for winter wheat[J]. Transactions of the CSAE,2005, 21(9): 27-32   
+[24]肖振华，万洪富，郑莲芬．灌溉水质对土壤化学特征和作 物生长的影响[J]．土壤学报,1997,34(3):272-285 Xiao Z H,Wan H F,Zheng L F.Effect of irrigation water quality on soil chemical characteristics and crop growth[J]. Acta Pedologica Sinica,1997,34(3): 272-285   
+[25]冯棣，张俊鹏，孙池涛，等．长期咸水灌溉对土壤理化性质 和土壤酶活性的影响[J].水土保持学报，2014，28(3): 171-176 Feng D,Zhang JP,Sun C T,et al.Effects of long-term irrigation with saline water on soil physical-chemical properties and activities of soil enzyme[J]. Journal of Soil and Water Conservation,2014,28(3):171-176   
+[26]乔玉辉，宇振荣．河北省曲周盐渍化地区微咸水灌溉对土 壤环境效应的影响[J]．农业工程学报,2003,19(2):75-79 Qiao Y H,Yu Z R.Effect of brackish water on soil environment in saline area of Quzhou of Hebei Province[J]. Transactions of the CSAE,2003,19(2): 75-79   
+[27] Maas E V,Hoffman G J.Crop salt tolerance — Current assessment[J]. Journal of the Irrigation and Drainage Division, 1977,103:115-134   
+[28]王遵亲，祝寿泉，俞仁培．中国盐渍土[M]．北京：科学出 版社,1993 Wang ZQ,Zhu SQ,YuRP.The Saline Soil in China[M]. Beijing: Science Press,1993   
+[29]Ayers R S,Westcot D W.Water Quality for Agriculture[R]. FAO Irrigation and Drainage Paper. Rome: Food and Agriculture Organization of the United Nations,1985   
+[30]FAO.Irrigation scheduling:From theory to practice[C]// Proceedingsof the ICID/FAO Workshop on Irrigation Scheduling.Rome,Italy:FAO,1995   
+[31]陈素英，张喜英，邵立威，等．微咸水非充分灌溉对冬小麦 生长发育及夏玉米产量的影响[J]．中国生态农业学报, 2011,19(3):579-585 Chen S Y,Zhang X Y,Shao L W,et al.Effect of deficit irrigation with brackish water on growth and yield of winter wheat and summer maize[J].Chinese Journal of EcoAgriculture,2011,19(3):579-585   
+[32]张余良，邵玉翠，严晔端，等．微咸水灌溉农作物生长的改 善技术研究[J]．农业环境科学学报,2006,25(S):295-300 Zhang YL,Shao YC,Yan YD,et al. Practices of improving brackishwaterirrigatedcropsgrowth[J]. Journalof Agro-Environment Science,2006,25(S):295-300   
+[33]Qadir M,Oster JD.Crop and irrigation management strategies for saline-sodic soils and waters aimed at environmentally sustainable agriculture[J]. Science of The Total Environment,2004,323(1/3):1-19   
+[34]陈丽娟，冯起，王昱，等．微咸水灌溉条件下含黏土夹层土 壤的水盐运移规律[J].农业工程学报,2012,28(8):44-51 Chen LJ,Feng Q,Wang Y,et al.Water and salt movement under saline water irrigation in soil with clay interlayer[J]. Transactions of the CSAE,2012,28(8): 44-51   
+[35]陈德明俞仁培．作物相对耐盐性的研究：Ⅱ．不同栽培作 物耐盐性的差异[J]．土壤学报,1996,33(2):121-128 Chen D M,Yu RP. Studies on relative salt tolerance of crops: Ⅱ． Salt tolerance of some main crop species[J].Acta Pedologica Sinica,1996,33(2):121-128

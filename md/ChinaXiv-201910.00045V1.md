@@ -1,0 +1,124 @@
+# 精神分裂症中文诊断名再议
+
+陈建1，蒋健昌²，袁杰\*(1.墨尔本大学心理学系，墨尔本，3010，澳大利亚2.佛山市南海区人民医院精神心理科，佛山，广东，5280003.华南师范大学心理学院，广州，广东，510631\*通信作者：袁杰,jyuan@m.scnu.edu.cn)
+
+【摘要】Schizophrenia是指患者出现行为异常、感知觉异常、无法理解现实等症状的一种精神疾病，其中文诊断名翻译为“精神分裂症”，意为“心智分裂的疾病”。然而，这一诊断名并不能准确地反映疾病本身的情况，也存在严重的污名化问题。本文认为，Schizophrenia需要新的中文诊断名。近年来，周边国家和地区纷纷推动Schizophrenia诊断名的变更，日本将Schizophrenia的诊断名从“精神分裂症”更改为“统合失调症”，韩国将诊断名从“精神分裂症”更改为“调弦病”，中国的香港和台湾地区，则均将诊断名从“精神分裂症”调整为“思觉失调症”。研究表明，Schizophrenia诊断名的更改带来了诸多益处。中国大陆医学界可以从周边国家和地区的更名运动中学习经验，推动Schizophrenia新中文诊断名的命名工作。本文倡议将Schizophrenia的诊断名从“精神分裂症”更改为“思觉失调症”。
+
+【关键词】Schizophrenia，精神分裂症，污名化，重命名，思觉失调症
+
+# A retrospective review of Chinese translated name of schizophrenia
+
+Chen Jianl, Jiang Jianchang², Yuan Jie3\*   
+(1. School of Psychological Sciences, University of Melbourne,Melbourne,3010,Australia 2. Psychiatry Department,Nanhai District Hospital, Foshan, Guangdong, 528000   
+3. School of Psychology, South China Normal University, Guangzhou, Guangdong, 510631 \* Correspondence Authors: Yuan Jie, jyuan $@$ m.scnu.edu.cn)
+
+【Abstract】 Schizophrenia is a mental disorder that affects a person's ability to feel, think, and behave clearly. Since 1935, schizophrenia was translated into Chinese as Jing Shen Fen Lie Zheng, which literally explained as “mind splitting disease". However, such a translation fails to reflect the truth of this mental disorder,and it has evident stigma. It is argued in this article that a new Chinese name is required for Schizophrenia in mainland China. In fact, in recent years, some countries and regions have already changed the translation name for schizophrenia. For instance, Japan has changed the name from “Seishin-Bunretsu-Byo"(Mind-split-disease) to "Togo-Shitcho-Sho"(Integration disorder); South Korea has changed the name from "Jeongshin-bunyeol-byung"(Mind-split-disorder) to “Johyun-byung"(attunement disorder). In Hong Kong and Taiwan, this name has been changed from“Jing Shen Fen Lie Zheng"to “Si Jue Shi Tiao Zheng"(dysfunction of thought and perception). Studies have demonstrated that such a change brought many benefits. It is suggested that the psychiatrists in the mainland China can learn from others’ experiences and promote the name change of schizophrenia.It is argued in this article that the name of “Si Jue Shi Tiao Zheng" is a proper option.
+
+【Keywords】 Schizophrenia, Stigma, Jing Shen Fen Lie Zheng, Name change, Si Jue ShiTiao Zheng
+
+精神分裂症是指一种精神疾病，患者出现感知觉异常、思维异常、行为异常等症状。精神分裂症发现于十九世纪末二十世纪初。1886年，精神分裂症症状被海因里希·舒尔（Heinrich Schule）命名为早发性痴呆（dementia praecox）。1908年，瑞士精神病学家布洛伊勒（Eugen Bleuler）修正了这一命名，创造了“Schizophrenia”一词。Schizophrenia源于希腊语"skhizein”和"phren”，“skhizein"本意是“分裂”，“phren"本意是"心智”，中文直译就是"分裂的心智"或是"分裂的精神”之义。布洛伊勒如此命名，是因为他认为精神分裂症包含了人格、思维、记忆和知觉的彼此分离[1,2]。布洛伊勒的命名影响深远，被欧美医学界沿用至今，但是对这一命名的质疑和争论也越来越多[3-5]，例如研究者主张使用突出综合症（Salience Syndrome）替代Schizophrenia的诊断名。与此类似，Schizophrenia在亚洲国家的对应诊断名也沿用多年，但近年来很多国家和地区更改了诊断名。这些都启示精神科专业人员，Schizophrenia的中文诊断名可能也需要作出相应变更。
+
+# 1 Schizophrenia的中文诊断名
+
+# 1.1“精神分裂症”中文诊断名的历史由来
+
+在中文领域，schizophrenia被翻译为"精神分裂症”。1935年12月，当时的民国政府教育部和国立编译馆科学技术名词审查委员会修订和发布了《精神病理学名词》，其中确定以“精神分裂症"作为schizophrenia的诊断名。这一译名应当是参考了日文的译法[]。1933年，日本医学界首次将schizophrenia翻译为“精神分裂症”，以汉字书写，随后一年，这一译名又更改为"精神分裂病”，并在日本使用多年。《精神病理学名词》修订时，很有可能参考了日文的译法并最终选用了“精神分裂症”这一译名。此后有一段时期（40-50年代），不知何故，schizophrenia依然被称为早发性痴呆；但五十年代后，两岸医学界选择沿用"精神分裂症"的命名。
+
+# 1.2“精神分裂症”诊断名亟待更改的原因
+
+尽管沿用多年，但"精神分裂症"的中文诊断名改变。疾病的命名，特别是精神疾病的命名，需要精确且能避免歧义。但是，“精神分裂症"作为Schizophrenia的中文诊断名，给大众带来了困惑。公众对精神分裂症的理解，往往望文生义，认为病人“神经分裂了”，或者认为患者精神涣散、丧失自我。这既是对疾病本身的误解，也造成了污名化的问题；这一命名给患者和家属带来了额外痛苦，也妨碍了患者回归社会。精神分裂症，一般是指患者的感知觉异常、思维异常、行为异常等，远非"神经分裂了”之类的意思。而所谓污名化，是指公众给患者贴标签，贬低其社会价值，疏远和歧视患者，对患者抱有消极的刻板信念[7]。公众常常因此回避或是不公平对待精神分裂症患者[8.9]。由不当的疾病命名导致的污名化问题受到各国关注，研究者纷纷呼呼应当重命名精神分裂症[6,10-14]，不少国家和地区也已经正式改变Schizophrenia的诊断名。当然，不当的诊断名只是问题的冰山一角，但是依然会加重针对患者的污名化和偏见，对患者和家属来说是雪上加霜。追根究底，现在依然使用“精神分裂症"的译法的做法，只是因为习惯，但是习惯终须让步于精确。
+
+# 2 Schizophrenia诊断名在其它国家和地区的变化情况
+
+# 2.1日本的诊断名变化
+
+如表1所示，1933年，日本首次将schizophrenia翻译为"精神分裂症”；1934年，诊断名又被更改为"精神分裂病”，“精神分裂病"的诊断名一直被沿用到2002年。但在2002年8月，日本精神病学和神经病学学会在横滨举行的世界精神病学大会上宣布，“精神分裂病"正式更名为"統合失調症”。实际上，这一译名的更改历时良久。早在1993年，日本全国精神疾病家属联合会就向日本精神病学和神经病学学会提出请求，要求更名。同一时期，世界卫生组织和世界精神病学协会也号召各国促进精神分裂症去污名化。为了响应这一变化，相关学会专门成立了“精神分裂症重命名委员会”。经过多年调研，评估更名可行性，并广泛征求国内国外意见[13,15,16]，甚至在报纸上刊登广告，向社会大众征集意见，最终日本精神病学与神经病学学会历时十年之久，于2002年8月作出了上述更名的决定。同年，《柳叶刀》杂志也先后刊登了两则通讯，公布日本将schizophrenia从"精神分裂病"更名为"统合失调症”（統合失調症）的消息以及一些细节和争论[15.17]。“精神分裂病"更名为"统合失调症"是十分恰当的，后者着重强调神经系统各部分之间统合的不协调，准确反映了疾病本质，也有助于去污名化[13]。
+
+表1精神分裂症诊断名变化情况  
+
+<html><body><table><tr><td>年份</td><td>1886</td><td>1908</td><td>1933</td><td>1935</td><td>1940- 1950</td><td>1950-</td><td>2001</td><td>2002</td><td>2012</td><td>2014</td><td>未来</td></tr><tr><td>C欧美</td><td>Dementia praecox</td><td>Schizophrenia</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>？</td></tr><tr><td>日本</td><td></td><td></td><td>精神分裂 症</td><td>精神分 裂病</td><td></td><td></td><td></td><td>统合失 调症</td><td></td><td></td><td></td></tr><tr><td>韩国</td><td></td><td></td><td></td><td></td><td>精神分裂症</td><td></td><td></td><td></td><td>调弦病 圣</td><td></td><td></td></tr><tr><td>中国香港</td><td></td><td></td><td></td><td></td><td>精神分裂症</td><td></td><td>思觉失 调症</td><td></td><td></td><td></td><td></td></tr><tr><td>中国台湾</td><td></td><td></td><td></td><td></td><td>精神分裂症</td><td></td><td></td><td></td><td></td><td>思觉失</td><td></td></tr><tr><td>中国大陆</td><td></td><td></td><td></td><td>精神分 裂症</td><td>早发性 痴呆</td><td>精神分 裂症</td><td></td><td></td><td></td><td></td><td>？</td></tr></table></body></html>
+
+注：-：指在可查的资料中，无法得知此前的疾病命名
+
+# 2.2韩国的诊断名变化
+
+在韩国，Schizophrenia的诊断名也发生了变化。韩文中schizophrenia的译名"精神分裂症"（是）产生自1937年，由日文翻译而来[18]。但是，韩国研究者发现，“精神分裂症”（是）的诊断名存在种种弊端，比如会妨碍医生告知患者及其家属疾病的名称，因为他们担忧这一名称带来的负面信息[19]。为了改变这一现状，2008年，韩国精神分裂症疾病更新委员会成立，推动精神分裂症的重命名。最终在2012年1月的国民会议上，韩国神经精神病学学会正式宣布将schizophrenia从“精神分裂症”（是）更名为"调弦病”（圣）。这一译名据说源自1579年的一份佛经，字面意思是说弦乐乐器的调音不协调，寓意神经系统各部分的不协调。Schizophrenia韩文译名更改的消息也于次年刊登于《柳叶刀》杂志[18]。
+
+# 2.3中国港台地区的诊断名变化
+
+早在2001年，香港医院管理局就将精神分裂症的诊断名更改为"思觉失调症”，比日本的更名还早一年，开风气之先。“思觉失调"的意思是指患者的思维和感知觉出现了失调。需要注意的是，“思觉失调症"的诊断名所对应的英文为"early psychosis”，而非"schizophrenia”，但是"思觉失调症"的定义，显然是十分适用于精神分裂症的。可以将"思觉失调症"理解为一种宽泛的命名[20]。香港医院管理局推动更名的一大动机，是为了促进青少年精神疾病服务的推广。由于原本的“精神分裂症"带有严重的污名，一个能够在公众和专业人员之间传达有效信息且能为大众接受的新名词就变得很必要。为了达成这一目标，香港医院管理局组织所属医院的医生形成专家组，专家组提出意见并在一些社区进行试点，这一过程耗时近六个月，最终确定选择"思觉失调症"的名称。籍由青少年精神疾病服务推广的机会，香港医院管理局通过媒体渠道，有组织地向公众科普"思觉失调症”，收效良好。如今，“思觉失调症"在香港已经被广泛接受，人们不再认为“思觉失调症"是什么难以启齿的耻辱，甚至有患者出版书籍分享自己的患病经历。
+
+在中国台湾，“精神分裂症"的诊断名也在2014年更名为"思觉失调症”。台湾的精神科医生在第51届台湾精神医学会年会上正式公布了更名的决定，同年，卫生福利部发函，要求所属各机构应用新的诊断名。表2所示为中国台湾地区Schizophrenia更名运动的概览，可以看到，这一更名过程亦耗时长达十年，实非易事。同样，台湾精神医学会认为，更名运动可以提升公众对"思觉失调症"的认知，也可以减少污名化，鼓励患者积极就医。
+
+表2中国台湾Schizophrenia更名运动概览  
+
+<html><body><table><tr><td>年份</td><td>事件*</td></tr><tr><td>2004</td><td>胡海国教授联合郑若瑟教授、杨延光教授邀请多个学会共同呼呼，发起更名运动，逐渐影响公众。 6月7日：康复之友联盟与台湾精神医学会、台湾社会于社区精神医学会以及三好联盟分别举办焦点团</td></tr><tr><td>2012</td><td>体，讨论和制定更名问卷。 9月10号：“Schizophrenia中文诊断名称意见调查表"问卷发放 12月28日：康复之友联盟举办"我们要更名"记者会</td></tr><tr><td>2013</td><td>12月：台湾精神医学会出版 DSM-5中英文精神疾病诊断分类词条对照，其中 schizophrenia更名为"思觉</td></tr><tr><td>2014</td><td>失调症” 5月2日：台湾精神医学会及台湾康复之友联盟正式宣布，“精神分裂症"更名为"思觉失调症” 5月8日：卫生福利部发函，正式公告 schizophrenia由"精神分裂症"更名为"思觉失调症"</td></tr></table></body></html>
+
+\*整理自台湾精神医学会
+
+值得一提的是，在同样使用中文的新加坡和马来西亚华人社区，“精神分裂症"的诊断名还没有发生变化，但这或许与两国医学系统所使用的工作语言有密切关系。例如马来西亚卫生部规定，医生之间的沟通仅限使用马来语或英语；而新加坡医院的工作语言，基本以英文为主。因此，两国似乎并不存在实际的更名需求。
+
+# 3Schizophrenia更名后的积极效应
+
+Schizophrenia的更名将带来不少积极效应。研究表明，更名能够影响精神科医生是否告知患者疾病诊断名的行为，如果使用"精神分裂症"的旧诊断名，医生会出于污名化的担忧，选择不告知患者诊断结果；如果是污名化较少的新名称，医生就倾向于告知患者疾病的诊断结果[13,21]。Schizophrenia的更名还可能会改善公众对待患者的态度[22]，更名会显著地减少公众对患者的偏见和污名化[23]，提升患者的就诊率。但研究者也指出，还需要更进一步的工作来提升更名的效果。例如，不少大众媒体在新闻报道中依然使用"精神分裂症"的旧名[22]。或许还需要发布媒体报道Schizophrenia的相关指导意见，才能进一步提升更名带来的积极效应[24]。总之，通过更名，可以促进医患交流，降低疾病的污名化，提升患者就诊率/回诊率，减轻患者和家属的额外痛苦，从而减少精神疾病所带来的公共卫生负担[17]。
+
+# 4中国大陆何时更改Schizophrenia的诊断名
+
+# 4.1现状
+
+他山之石，可以攻玉。研究已经表明，修改Schizophrenia的中文诊断名会带来诸多益处，那么，中国大陆地区何时会推动Schizophrenia的更名呢？在全国科学技术名词审定委员会的网站上查询，Schizophrenia的译名依然是“精神分裂症”。虽然在不同的学科领域，“精神分裂症"译名的确定时间不同。例如在医学领域，“精神分裂症"译名的公布年度为1995年；而在心理学领域，译名“精神分裂症"的公布年度为2014年。在大众话语中，“精神分裂症"被简称为“精分”。但是无论何种领域，何时公布，Schizophrenia的译名都还是统一使用“精神分裂症”。在可查阅的资料中，笔者也尚未发现相关学会有变更译名的举措。
+
+# 4.2 变化
+
+实际上，精神科医生已经开始呼呼变更"精神分裂症"的译名。不少精神科医生在临床实践中，切身体会到"精神分裂症"这一诊断名给患者和家属带来的耻辱感与心理痛苦，他们指出，一个更为准确的疾病诊断名将会帮助他们更好地治疗患者。有患者家属反映，由于精神分裂症患者为社会所不解，患者甚至患者家属一直处于被歧视的状态。2013年，王祖承医师在《四川精神卫生杂志》上发表了系列专题文章，回顾Schizophrenia的百年历史。他在文中提到，“精神分裂症"的中文诊断名并不准确，也存在污名化问题[]。2016年，王祖承医师进一步建议，应该将"精神分裂症"的诊断名调整为"精神失调症"[14]。然而，仅仅是这份倡议尚不足以更改Schizophrenia的诊断名，需要更多的专业人员和专业组织参与，各方通力合作，才能将这一工作推进。
+
+为了进一步了解精神科医生和病人群体对待精神分裂症更名的态度，笔者在精神科医生和患者群体中分别做了调查。需要特别指出的是，本次调查仅能粗略反映这两个群体对待更名的态度，管中窥豹。如若精神分裂症更名的工作正式启动，那么更为严谨而详细的调研必不可少。在针对精神科医生的调查中，共回收问卷71份，其中有效问卷67份。这67位精神科医生的平均从业年限为11.51年，职称大部分在主治医师及以上。统计显示， $6 5 . 7 \%$ 的医生因为精神分裂症的诊断名而觉得难以直接告知患者病情； $8 3 . 6 \%$ 的医生认为精神分裂症的诊断名给患者或家属带来了额外的心理压力。重要的是，$67 . 2 \%$ 的精神科医生认为有必要更改精神分裂症的中文诊断名（图1）。这些医生中，约 $5 5 . 6 \%$ 的医生认为应该更名为"思觉失调症”，比例最高；也有医生提出了其他建议，例如"精神失调症”、“脑功能失调症"和"大脑综合功能失调症"等等（见图2）。
+
+在针对患者和家属群体的调查中，共计收到42份数据，其中6份数据因为填写内容前后矛盾而未收录（其中5人亦认为有必要更改精神分裂症的中文诊断名），故有效数据36份。这36位患者/家属报告的平均患病年限为9.1年。统计显示， $8 3 . 3 \%$ 的患者认为社会对精神分裂症存在负面看法， $8 3 . 3 \%$ 的患者认为精神分裂症的诊断名对他们产生了额外的心理压力。 $3 8 . 9 \%$ 的患者认为精神分裂症这一名称阻碍了他们持续就诊。重要的是， $7 2 . 2 \%$ 的患者认为有必要更改精神分裂症的中文诊断名（图1）。患者或家属提出了新命名的各种意见，其中，约 $3 0 . 8 \%$ 认为应该更名为"思觉失调症”，比例最高；也有患者/家属提出了其他建议，例如"统合失调症”、“思觉紊乱症"和"综合失调症"等等（见图2）。
+
+![](images/04f7e58dd43bc3a450c24e44c7ea384d76cc6860df6a9e5a565cb1752f8f239a.jpg)  
+图1精神科医生群体和患者/家属群体支持精神分裂症更名的比率
+
+![](images/9d0ef6060d3451b6309a3add5889a80edf29a4015f441dc6e8fda7dddced566d.jpg)  
+图2精神科医生群体和患者/家属群体建议的新名称
+
+# 4.3存在的困难
+
+更改Schizophrenia的诊断名实际上可能存在一些现实困难。首先，部分医生的修改意愿并不强烈，或是医患双方都没有合适的表达意愿的途径。医生和患者及患者家属无法组成互相支持的工作组织，来呼吁“精神分裂症"诊断名的修改。其次，修改诊断名的流程可能会很漫长[25]。一般说来，如果中华医学会精神病学分会认为存在修改Schizophrenia诊断名的必要，那么，它需要提出申请，上报至中华医学会。中华医学会会评估这一申请，批准后再上报至中国科学技术协会，中国科学技术协会会对中华医学会的申请作出评估，若是同意，中国科学技术协会会最后上报给全国科学技术名词审定委员会。全国科学技术名词审定委员会审批通过后，方可全国推广新的中文诊断名。更名操作程序上的困难使得Schizophrenia诊断名变更变得比较棘手。
+
+另外，在中国大陆，精神分裂症被归为六种严重的精神障碍之一。在医保报销方面，不管是住院或是门诊，通常会比其他非六大类严重精神障碍有更好的政策。在社区管理方面，精神分裂症患者的风险评级达到三级或以上时，会有公安部门协助随访[26]。肇事肇祸的精神障碍患者中，精神分裂症患者所占的比例最高[27]。在司法鉴定过程中，也会频繁使用"精神分裂症"的诊断名称。因此，“精神分裂症"诊断名的修改，可能需要卫生系统、民政系统、司法系统等同步进行。多系统之间的协调，也增加了Schizophrenia中文诊断名变更的困难。
+
+# 5总结
+
+“精神分裂症"这一名称出现在中文里距今已经85年了，在这85年里，中国发生了翻天覆地的变化，经济大发展，普通人的生活水平提高，医学取得长足进步。而且，中国的精神分裂症患者人数也比较庞大。《柳叶刀·精神病学》杂志上发表的最新调查结果显示，中国精神分裂症患病率高达$0 . 6 \% ^ { [ 2 8 ] }$ ，患病人数大约为800万，更名将使这些患者和他们的家属受益。另一方面，亚洲诸多国家和地区在21世纪之初，均通过社会的共同努力先后完成了“精神分裂症"的更名。中国大陆已经到了不应再忽视"精神分裂症"这一不恰当诊断名的阶段了，亟待一个更为准确的，没有污名化的新诊断名[29]。在华人社群中，已经出现了几个候选项，例如港台地区新采用的"思觉失调症”。笔者认为，“思觉失调症"是比较恰当的诊断名，这一新诊断名也同时受到了精神科医生和患者/家属的支持；而且选择"思觉失调症"作为诊断名，也能保持中文世界精神疾病术语的一致性，进一步促进中国精神病学界的学术交流。总之，医患双方和相关学会协会，需要密切合作，广泛调研，共同推进Schizophrenia中文诊断名的变更。
+
+参考文献   
+[1]Hayes JA, MitchellJC.Mental health professionals’ skepticism about multiple personality disorder[J]. Prof Psychol Res Pract. 1994,25(4): 410-415.   
+[2] Stotz-Ingenlath G. Epistemological aspects of Eugen Bleuler's conception of schizophrenia in 1911[J]. Med Health Care Philos. 2000,3(2): 153-159.   
+[3]Levin T. Schizophrenia should be renamed to help educate patients and the public [J]. Int J Soc Psychiatry. 2006,52(4): 324-331.   
+[4] Lieberman JA,First MB. Renaming schizophrenia [J]. BMJ. 2007,334: 108-108.   
+[5]Lasalvia A,Penta E,Sartorius N,Henderson S.Should the label “schizophrenia”be abandoned? [J]. Schizophr Res. 2015,162(1-3): 276-284.   
+[6] 王祖承.纪念 E.Bleuler命名精神分裂症100 周年[J].四川精神卫生.2013,26(2-4),347-350.   
+[7] Link BG, Phelan JC. Conceptualizing Stigma [J]. Annu Rev Sociol. 2001, 27(1): 363-385.   
+[8] Chiu MYL, Chan KKL. Community atitudes towards discriminatory practice against people with severe mental illness in Hong Kong [J]. Int J Soc Psychiatry. 2007,53(2): 159-174.   
+[9] Chou KL, Mak KY, Chung PK, Ho K. Attitudes towards mental patients in Hong Kong [J]. Int J Soc Psychiatry. 1996,42(3): 213-219.   
+[10]Baker M, Menken M. Time to abandon the term mental illness [J]. BMJ. 2001,322(7291): 937.   
+[11]George B,Klijn A. A modern name for schizophrenia (PSS) would diminish self-stigma [J]. Psychol Med. 2013,43(7): 1555-1557.   
+[12]Lasalvia A, Tansella M. What is in a name? Renaming schizophrenia as a starting point for moving ahead with its re-conceptualization [J]. Epidemiol Psychiatr Sci. 2013,22(4): 285-287.   
+[13]Ono Y, Satsumi Y,Kim Y, Iwadate T, Moriyama K, Nakane Y,etal. Schizophrenia: is ittime to replace the term?[J]. Psychiatry ClinNeurosci. 1999,53(3): 335-341.   
+[14]王祖承.建议将"精神分裂症"的诊断名称改为"精神失调症.”精神医学杂志.2016,03:225-225.   
+[15] Kim Y. Renaming the term schizophrenia in Japan [J]. The Lancet. 2002,360(9336): 879.   
+[16]Maruta T, Matsumoto C. Renaming schizophrenia [J]. Epidemiol Psychiatr Sci. 2019,28(3): 262-264.   
+[17]Desapriya EBR,Nobutada I. Stigma of mental illessin Japan [J]. The Lancet. 2002,359(9320): 1866.   
+[18]Lee YS, Kim J-J, Kwon JS. Renaming schizophrenia in South Korea [J]. The Lancet. 2013,382(9893): 683-684.   
+[19]Park J, Chung Y. Renaming the term ‘Schizophrenia’ in Korea[J]. Korean J Schizophr Res.2008,11(11), 107-117.   
+[20]Chiu CP-Y, Lam MM-L, Chan SK-W, Chung DW-S, Hung S-F, Tang JY-M, et al. Naming psychosis: the Hong Kong experience [J]. Early Interv Psychiatry. 2010,4(4): 270-274.   
+[21]Cho JW,Jang E-Y, Woo H-J,Park YC,Kim SH,Hong KS, et al. Effects of Renaming Schizophrenia in Korea: from“Split-Mind Disorder"to “Atunement Disorder."[J]. Psychiatry Investig. 2018,15(7): 656- 662.   
+[22] Yamaguchi S, Mizuno M, Ojio Y, Sawada U, Matsunaga A, Ando S, et al. Associations between renaming schizophrenia and stigma-related outcomes: A systematic review [J]. Psychiatry ClinNeurosci. 2017,71(6): 347-362.   
+[23]Kim S-W,Jang J-E, Kim J-M, Shin I-S,Ban DH,Choi B,et al. Comparison of Stigma according to the Term Used for Schizophrenia: Split-Mind Disorder vs. Attunement Disorder [J]. JKorean Neuropsychiatr Assoc. 2012,51(4): 210.   
+[24]Park J-H, Choi Y-M,Kim B,Lee D-W,Gim M-S.Use of the Terms “Schizophrenia”and“Schizophrenic” in the South Korean News Media: A Content Analysis of Newspapers and News Programs in the Last 10 Years [J]. Psychiatry Investig. 2012,9(1): 17-24.   
+[25]Sartorius N, Chiu H, Heok KE,Lee M-S, Ouyang W-C,Sato M, et al. Name Change for Schizophrenia [J]. Schizophr Bull. 2014,40(2): 255-258.   
+[26]中华人民共和国国家卫生健康委员会.严重精神障碍患者管理治疗工作规范(2018版)[Z].2018.   
+[27]黄月明,伍业光,郑岚,王楚,张超,潘竞志.流浪精神病患者肇事肇祸行为临床相关因素分析[J].中国 公共卫生,2018,34(4): 545-549.   
+[28] Huang, Y., Wang, Y., Wang, H.,Liu, ., Yu, X.,Yan,J.,..& Wang, Z. Prevalence of mental disorders in China: a cross-sectional epidemiological study [J]. The Lancet Psychiatry, 2019, 6(3),211-224.   
+[29]富勒·托里.精神分裂症:你和你家人需要知道的[M],陈建,尚凡红,蒋健昌,牟晓洁.译.重庆:重庆大 学出版社,2018.

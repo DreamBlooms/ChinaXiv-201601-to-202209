@@ -1,0 +1,360 @@
+[
+    {
+        "type": "text",
+        "text": "甘氨酸对脂多糖刺激仔猪肝脏能量代谢及相关基因表达的调控作用张 琳 王秀英 吴欢听 王海波 陈少魁 朱惠玲 刘玉兰\\*（武汉轻工大学动物营养与饲料科学湖北省重点实验室，武汉430023）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究甘氨酸（Gly）对脂多糖（LPS）刺激断奶仔猪肝脏能量代谢、能量代谢关键酶和相关调节因子mRNA表达的调控作用。选取24头杜×长×大仔猪，分成 4个组，每组6个重复。4个组分别为：1）对照组（基础饲粮）；2）LPS组（LPS+基础饲粮）；3）1.0%Gly组（LPS+基础饲粮+1.0%Gly）；4）2.0%Gly组（LPS+基础饲粮+2.0%Gly）。试验第 28天，试验组仔猪腹膜注射100μg/kgBW的LPS，对照组注射等量的生理盐水。试验猪于注射LPS或生理盐水4h后屠宰，取肝脏样品待测。结果表明：1)与LPS 组相比，1.0%Gly 显著提高了仔猪肝脏三磷酸腺苷（ATP）浓度和能荷（EC）水平（P<0.05），显著降低了（一磷酸腺苷）AMP/ATP值（P<0.05），并有降低AMP浓度的趋势（P<0.10）；2.0%Gly 有降低 AMP/ATP 值的趋势（P<0.10）。2）与LPS 组相比，1.0%Gly 显著降低了仔猪肝脏己糖激酶2（Hexok2）和柠檬酸合成酶（CS）的mRNA表达量（P<0.05）；2.0%Gly 显著降低了肝脏Hexok2和丙酮酸激酶（PK）的mRNA表达量（P<0.05），并有降低肝脏CSmRNA表达量的趋势（P<0.10）。3）与LPS组相比，1.0%Gly显著提高了仔猪肝脏腺甘酸活化蛋白激酶α1（AMPKα1）的mRNA表达量（P<0.05）。综上所述，饲粮中添加Gly能够改善LPS刺激引起的断奶仔猪肝脏能量代谢紊乱，调控糖酵解和三羧酸循环等代谢途径中相关酶的表达。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：仔猪；脂多糖；甘氨酸；肝脏；能量代谢中图分类号：S828 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肝脏是动物机体重要的免疫器官，也是机体进行物质和能量代谢的重要场所。脂多糖（lipopolysaccharide,LPS）是革兰氏阴性细菌外膜特有的结构成分，能够造成机体免疫应激[1]。研究发现，动物处于免疫应激状态时，机体免疫细胞被激活并产生和释放大量炎性细胞因子，导致肝脏炎症反应，增加肝脏能量损耗，导致肝脏结构和功能的损伤[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甘氨酸（glycine,Gly）是所有氨基酸中结构最简单的氨基酸，也是一种机体自身能合成的非必需氨基酸，在机体内发挥着重要的作用。作为一种功能性氨基酸，Gly 能够抑制内毒素造成的肝脏损伤[3]，保护肝细胞免受三磷酸腺苷（adenosine triphosphate,ATP）衰竭的影响[4]。此外，Gly 作为生糖氨基酸，可以经过分解生成丙氨酸（alanine,Ala），而 Ala可进一步进入三羧酸循环，为机体提供能量[5]。Gly 也是合成谷胱甘肽（glutathiose,GSH)的前体物质[5]，而还原型GSH 可以参与体内三羧酸循环及糖代谢，使机体获得高能量[]。Wang 等[7报道，饲粮中添加0.5%、1.0%和2.0%的Gly提高了哺乳仔猪抗氧化应激能力。仔猪饲粮中添加不多于2%的Gly，对其正常的生理功能和采食是安全且有益的[8]。但是，过多的Gly 则会导致机体氨基酸平衡的破坏并产生毒性作用[9]。尽管Gly 有很多重要的功能，但是关于Gly 对仔猪肝脏能量代谢的影响还鲜有研究。因此，本试验通过给断奶仔猪注射LPS建立免疫应激模型[10]，选取1%和2%2个浓度，研究Gly对LPS应激仔猪肝脏能量代谢障碍有无缓解作用及Gly的适宜添加量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Gly：有效成分>99.5%，购于武汉阿米诺科技有限公司。Ala：有效成分>99.5%，购于武汉阿米诺科技有限公司。LPS：大肠杆菌血清型O55：B5，购于 Sigma 公司，以100μg/kgBW剂量注射。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验动物与设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择 24头体况相近的（21±1）日龄断奶仔猪[杜×长×大，平均体重(7.17±0.41)kg]，按体重相近原则随机分配到4个组中，每组6个重复，每个重复1头猪，试验期为28d。4个组分别为：1）对照组（基础饲粮）；2）LPS 组（LPS+基础饲粮）；3）1.0%Gly 组（LPS+基础饲粮+1.0%Gly）；4）2.0%Gly 组（LPS+基础饲粮+2.0%Gly）。用Ala 对各组饲粮进行等氮处理。试验第 28天，试验组仔猪腹膜注射 100μg/kg BW的LPS，对照组注射等量的生理盐水。饲养期间，猪舍温度控制在25～28℃。猪栏面积1.20m×1.10 m。粉料饲喂，仔猪自由采食和饮水。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验饲粮 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲粮配制参照NRC（1998）仔猪的营养需要，基础饲粮组成及营养水平见表1。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/52d9babec37c58463c91158a3289a8fd4a148c5ca2c975113127c27219b25591.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平(风干基础) ",
+            "Table1 Composition and nutrient levels of the basal diet (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td>57.47</td></tr><tr><td>玉米Corn</td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>22.00</td></tr><tr><td>鱼粉 Fish meal</td><td>6.00</td></tr><tr><td>次粉 Wheat middling</td><td>6.00</td></tr><tr><td>代乳粉Milk-replacer powder</td><td>4.00</td></tr><tr><td>豆油Soybean oil 磷酸氢钙CaHPO4</td><td>1.20</td></tr><tr><td></td><td>1.00</td></tr><tr><td>石粉Limestone</td><td>0.65</td></tr><tr><td>L-赖氨酸盐酸盐L-Lys·HCl</td><td>0.32</td></tr><tr><td>丁基对苯二酚TBHQ</td><td>0.05</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0b24cbe84ff0080fa5475e5d77ebce587fa881684a6a375a414d433a3b2b677.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>食盐NaCl 0.31</td></tr><tr><td>预混料Premix1 1.00</td></tr><tr><td>合计Total 100.00</td></tr><tr><td></td></tr><tr><td>营养水平Nutrient levels2</td></tr><tr><td>消化能DE/(MJ/kg) 13.60</td></tr><tr><td>粗蛋白质CP 20.00</td></tr><tr><td>赖氨酸Lys 1.14</td></tr><tr><td>蛋氨酸Met 0.38</td></tr><tr><td>色氨酸Trp 0.25</td></tr><tr><td>苏氨酸Thr 0.78</td></tr><tr><td>总磷TP 0.70</td></tr><tr><td>总钙TCa 0.80</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "预混料为每千克饲粮提供 The premix provided the folowing per kg of the diet：VA12O00 IU，VBi1.5mg，VB63mg，VB1218 μg，VD2 500 IU，VE30IU，VK33 mg，核黄素 riboflavin 4 mg，烟酸 nicotinicacid 40 mg，氯化胆碱choline chloride 400 mg，叶酸 folic acid 700 μg，泛酸 pantothenic acid 15 mg，生物素biotin 100 μg，Mn 20 mg，Se 0.36 mg，Zn 80 mg，Cu 25 mg，Fe83 mg，I0.48 mg.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）消化能、赖氨酸、蛋氨酸、色氨酸和苏氨酸为计算值，其余为实测值。DE,Lys,Met,Trp and Thr were calculated values,and the others were measured values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4肝脏样品采集 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "仔猪腹膜注射LPS或生理盐水4h后，静脉注射80 mg/kgBW的戊巴比妥钠麻醉，屠宰，取肝脏样品，立即投入液氮中冻存，随后转移至一80℃冰箱保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 检测指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.1肝脏相关能量指标浓度的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肝脏中ATP、二磷酸腺苷（adenosine diphosphate,ADP）和一磷酸腺苷（adenosinemonophosphate,AMP）浓度使用高效液相色谱法进行分析，参照Hou 等[的方法。总腺苷酸（total adenine nucleotide,TAN）浓度和能荷（energy charges,EC）的计算参照下述公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TAN=ATP+ADP+AMP;EC=（ATP+0.5ADP）/（ATP+ADP+AMP）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.2mRNA表达量测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相关基因测定包括：己糖激酶2（hexokinase2.Hexok2）、磷酸果糖激酶（phosphofructokinase,L-PFK）、丙酮酸脱氢酶（pyruvate dehydrogenase,PDH）、丙酮酸激酶（pyruvate kinase,PK）、异柠檬酸脱氢酶（isocitrate dehydrogenase,ICDH）、柠檬酸合成酶（citroyl synthetase,CS）、脂酰辅酶A氧化酶（acyl-coenzyme Aoxidase,ACO）、肉碱酯酰转移酶1（carnitine palmitoyltransferasel,L-CPT1）、腺甘酸活化蛋白激酶（AMP-activated protein kinase,AMPK）、沉默信息调节因子1（silent information regulator1,Sirt1）以及过氧化物酶体增殖物活化受体协同刺激因子1α（proliferator-activated receptor-ycoactivatorlα,PGClα）。肝脏总RNA 提取、cDNA 合成、实时荧光定量 PCR（Real-time",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCR）参照Liu 等[2]的方法。Real-time PCR 引物序列（表2）由宝生物工程（大连）有限公司合成。以甘油醛-3-磷酸脱氢酶（glyceraldehyde-3-phosphatedehydrogenase,GAPDH）为内参基因，目的基因的mRNA表达量计算采用Livak 等[13]的2△CT法",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS17.0统计软件进行方差分析和LSD多重比较，结果用平均值±标准误来表示。以P<0.05表示差异显著，P<0.10表示具有显著性趋势，",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/348c57db1e49302bdc9d024a7a538f5ffbc111c3608de4cb6481880c7b788423.jpg",
+        "table_caption": [
+            "表2实时荧光定量PCR引物序列",
+            "Table2 Primer sequences of Real-time PCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因Genes</td><td>引物序列 Primer sequence (5'—3')</td><td>退火温度 Annealing temperature/℃</td><td>扩增长度 Amplification length/bp</td></tr><tr><td>己糖激酶2</td><td>F:CTCATCACAACCGTTACCA</td><td>60</td><td>119</td></tr><tr><td>Hexok2</td><td>R:TGTCATTAGTGTCCTCATCC</td><td></td><td></td></tr><tr><td>磷酸果糖激酶</td><td>F:CTGCACCGCATCATGGA</td><td>60</td><td>84</td></tr><tr><td>L-PFK</td><td>R:CCCCATCACCTCCAGAACA</td><td></td><td></td></tr><tr><td>丙酮酸脱氢酶</td><td>F:GCAGACTTACCGTTACCAT</td><td>60</td><td>248</td></tr><tr><td>PDH</td><td>R:GATAGCCGAGTTCTTCCAA</td><td></td><td></td></tr><tr><td>丙酮酸激酶 PK</td><td>F:TCACTCCACAGACCTCAT</td><td>60</td><td>123</td></tr><tr><td></td><td>R:TACCTAGCCACCTGATGT</td><td></td><td></td></tr><tr><td>异柠檬酸脱氢酶γ ICDHy</td><td>F:GGTGGAGAGCCTCAAGAT</td><td>60</td><td>218</td></tr><tr><td>异柠檬酸脱氢酶β</td><td>R:TGGTGGTGTTGTCTACGA</td><td></td><td></td></tr><tr><td>ICDHβ</td><td>F:TGTGGTTCCTGGTGAGAG</td><td>60</td><td>149</td></tr><tr><td>柠檬酸合成酶</td><td>R:CGAGATTGAGATGCCGTAG</td><td></td><td></td></tr><tr><td>CS</td><td>F:TCTCAGCTCAGTGCAGCCATTACA</td><td>60</td><td>145</td></tr><tr><td>脂酰辅酶A氧化酶</td><td>R:CTGCAACACAAGGTAGCTTTGCGA</td><td></td><td></td></tr><tr><td>ACO</td><td>F:CTCGCAGACCCAGATGAAAT</td><td>60</td><td>218</td></tr><tr><td>肉碱酯酰转移酶1</td><td>R:TCCAAGCCTCGAAGATGAGT</td><td></td><td></td></tr><tr><td>L-CPT1</td><td>F:GGACCGCCACCTGTTCTGCCTCTA</td><td>60</td><td>190</td></tr><tr><td>腺甘酸活化蛋白激酶α1</td><td>R:GCCCCCTCCGCTCGACACATAC F:AAATCGGCCACTACATCCTG</td><td></td><td></td></tr><tr><td>AMPKα1</td><td>R:GGATGCCTGAAAAGCTTGAG</td><td>60</td><td>187</td></tr><tr><td>腺甘酸活化蛋白激酶α2</td><td></td><td></td><td></td></tr><tr><td>AMPKα2</td><td>F:AACATGGACGGGTTGAAGAG</td><td>60</td><td>193</td></tr><tr><td></td><td>R:CGCAGAAACTCACCATCTGA</td><td></td><td></td></tr><tr><td>沉默信息调节因子</td><td></td><td></td><td></td></tr><tr><td></td><td>F:CTGGAACAGGTTGCAGGAAT</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Sirt1</td><td>R:CCTAGGACATCGAGGAACCA</td><td>60</td><td>144</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ca593fbeb609a7196daf80a856d9398dc4210c54a33f08d3afbdd2b0ad1daaf.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>过氧化物酶体增殖物活</td><td>F:GATGTGTCGCCTTCTTGTTC</td></tr><tr><td>化受体协同刺激因子1α PGC1α</td><td>60 R:CATCCTTTGGGGTCTTTGAG</td></tr><tr><td>甘油醛-3-磷酸脱氢酶</td><td>F:CGTCCCTGAGACACGATGGT</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1肝脏腺苷酸水平",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3 可知，与对照组相比，LPS 刺激显著降低了肝脏 ATP、ADP 和 TAN 浓度（P<0.05）。与LPS 组相比，饲粮中添加1.0%Gly 显著提高了肝脏 ATP 浓度和 EC 水平（P<0.05），显著降低了AMP/ATP值（P<0.05），并有降低AMP浓度的趋势（P<0.10）；饲粮中添加 2.0%Gly有降低肝脏AMP/ATP 值的趋势（P<0.10），对其他指标无显著影响（P>0.05）",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/89d139efd3903ee45768da6d63d251f453a71c467963908b6dd5475f767e6c3c.jpg",
+        "table_caption": [
+            "表3肝脏腺苷酸水平 (鲜重基础)",
+            "Table 3 Adenylate purine levels in liver(wetweight basis) "
+        ],
+        "table_footnote": [
+            "P1:对照组 vs.LPS 组 Control group vs.LPS group；P2:LPS 组 vs.1.0%Gly 组LPS group vs.1.0% Glygroup；P3:LPS 组 vs.2.0%Gly 组 LPS group vs.2.0% Gly group。下表同 The same as below。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>LPS 组LPS group</td><td>1.0%Gly组 2.0%Gly组 1.0% Gly 2.0% Gly group group</td><td>P1</td><td>P值P-value P2 P3</td></tr><tr><td>三磷酸腺苷 ATP/ （μg/g)</td><td>373±23</td><td>286±26</td><td>371±23 347±33</td><td>0.031</td><td>0.035 0.121</td></tr><tr><td>二磷酸腺苷 ADP/ (μg/g)</td><td>321±14</td><td>218±21</td><td>226±15 231±26</td><td>0.001 0.784</td><td>0.638</td></tr><tr><td>磷酸腺苷 AMP/ (μg/g)</td><td>904±71</td><td>800±38</td><td>647±78 734±50</td><td>0.247 0.095</td><td>0.458</td></tr><tr><td>总腺苷酸 TAN/ (ug/g)</td><td>1 598±83</td><td>1 303±66</td><td>1 235±96 1 312±34</td><td>0.010 0.522</td><td>0.937</td></tr><tr><td>能荷EC</td><td>0.336±0.017</td><td>0.301±0.014</td><td>0.390±0.024 0.351±0.030</td><td>0.274</td><td>0.010 0.125</td></tr><tr><td>磷酸腺苷/三磷酸 腺苷AMP/ATP</td><td>2.47±0.25</td><td>2.90±0.23</td><td>1.80±0.20 2.25±0.29</td><td>0.236</td><td>0.005 0.078</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2肝脏糖酵解、三羧酸循环和脂肪酸β-氧化相关基因的mRNA表达",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与对照组相比，LPS 刺激显著提高了肝脏糖酵解中Hexok2和PK以及三羧酸循环中ICDHβ和CS的mRNA表达量（P<0.05），显著降低了肝脏L-PFK的mRNA表达量（P<0.05），并有提高肝脏PDH的mRNA表达量的趋势（P<0.10）。与LPS组相比，饲粮中添加1.0%Gly显著降低了肝脏Hexok2和CS的mRNA表达量（P<0.05）；饲粮中添加2.0%Gly显著降低了肝脏Hexok2和PK的mRNA表达量（P<0.05），并有降低肝脏CS的mRNA表达量的趋势（P<0.10）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4肝脏糖酵解、三羧酸循环和脂肪酸β-氧化相关基因的mRNA表达",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 4 mRNA expresson of glycolysis,tricarboxylic acid cycle and fatty acids β-oxidation related genes in ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/772ade94830a4df501625914d83521f3a4e6625f0c96d1849c2f04c158a92c02.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>LPS组 LPS group</td><td>1.0%Gly 组 1.0% Gly</td><td>2.0%Gly 组 2.0% Gly</td><td>P1</td><td>P值P-value</td><td></td></tr><tr><td>糖酵解Glycolysis</td><td></td><td></td><td>group</td><td>group</td><td></td><td>P2</td><td>P3</td></tr><tr><td>己糖激酶2Hexok2</td><td>1.00±0.18</td><td>36.38 ±3.36</td><td>24.96±3.23</td><td>23.62±2.90</td><td><0.001</td><td>0.008</td><td>0.004</td></tr><tr><td>磷酸果糖激酶L-PFK</td><td>1.00±0.15</td><td>0.61±0.03</td><td>0.79±0.03</td><td>0.66±0.04</td><td>0.002</td><td>0.116</td><td>0.699</td></tr><tr><td>丙酮酸脱氢酶PDH</td><td>1.00±0.10</td><td>1.25±0.10</td><td>1.30±0.11</td><td>1.25±0.07</td><td>0.086</td><td>0.671</td><td>0.971</td></tr><tr><td>丙酮酸激酶PK</td><td>1.00±0.06</td><td>2.89±0.30</td><td>2.44±0.13</td><td>2.22±0.20</td><td><0.001</td><td>0.115</td><td>0.023</td></tr><tr><td>三羧酸循环 Tricarboxylic</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>acid cycle 异柠檬酸脱氢酶γICDHy</td><td>1.00±0.10</td><td>1.11±0.06</td><td>1.28±0.07</td><td>1.09±0.11</td><td>0.392</td><td>0.173</td><td>0.853</td></tr><tr><td>异柠檬酸脱氢酶βICDHβ</td><td>1.00±0.10</td><td>1.31±0.07</td><td>1.36±0.03</td><td>1.16±0.04</td><td>0.004</td><td>0.548</td><td>0.117</td></tr><tr><td>柠檬酸合成酶CS</td><td>1.00±0.08</td><td>1.36±0.11</td><td>1.10±0.05</td><td>1.15±0.03</td><td>0.002</td><td>0.022</td><td>0.054</td></tr><tr><td>脂肪酸β-氧化Fatty acids β-</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>oxidation 脂酰辅酶A氧化酶ACO</td><td>1.00±0.11</td><td>0.90±0.13</td><td>1.04±0.13</td><td>0.82±0.12</td><td>0.570</td><td>0.441</td><td>0.654</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肉碱酯酰转移酶1L-CPT1</td><td>1.00±0.26</td><td>1.14±0.13</td><td>1.25±0.21</td><td>1.03±0.20</td><td>0.633</td><td>0.716</td><td>0.716</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3肝脏能量代谢相关调节因子的mRNA表达",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，与对照组相比，LPS刺激显著提高了肝脏AMPKα2和Sirt1的mRNA表达量（P<0.05）。与LPS组相比，饲粮中添加1.0%Gly显著提高了肝脏AMPKα1的mRNA表达量（P<0.05）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef4e5fd6c66fa307e34874a2a5fd2917468891932d034b7b76e256786c000846.jpg",
+        "table_caption": [
+            "表5肝脏能量代谢相关调节因子的mRNA表达",
+            "Table 5 mRNA expression of energy metabolism related regulatory factors in liver "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>LPS组 LPS group</td><td>1.0%Gly 组 1.0% Gly group</td><td>2.0%Gly组 2.0% Gly group</td><td>P1</td><td>P值P-value P2</td><td>P3</td></tr><tr><td>腺甘酸活化蛋 白激酶α1 AMPKα1</td><td>1.00±0.09</td><td>1.07±0.04</td><td>1.37±0.05</td><td>1.15±0.13</td><td>0.570</td><td>0.023</td><td>0.517</td></tr><tr><td>腺甘酸活化蛋 白激酶α2</td><td>1.00±0.13</td><td>1.92±0.09</td><td>1.92±0.18</td><td>1.95±0.23</td><td>0.001</td><td>0.994</td><td>0.901</td></tr><tr><td>AMPKa2 沉默信息调节 因子1Sirt1 过氧化物酶体</td><td>1.00±0.11</td><td>1.78±0.19</td><td>1.80±0.23</td><td>1.66±0.21</td><td>0.009</td><td>0.927</td><td>0.658</td></tr><tr><td>增殖物活化受 体协同刺激因 子1aPGC1a</td><td>1.00±0.14</td><td>1.53±0.45</td><td>1.26±0.55</td><td>1.12±0.53</td><td>0.416</td><td>0.674</td><td>0.527</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "机体内直接供能的物质是 ATP。ATP 水解为 ADP 和正磷酸或水解为 AMP 和焦磷酸时，能释放出大量的能量。TAN是ATP、ADP 和 AMP三者之和，其大小反映了线粒体生成高能磷酸化合物的能力、氧化呼吸的活性和细胞的能量储备[14]。EC 水平反映了细胞内高能磷酸键在 ATP、ADP 和 AMP 之间的相互转换，可有效评估能量储备状态[15]。AMP/ATP 值受ATP 的调控，应激反应时，ATP产生减少或利用增加，可使细胞内AMP/ATP值升高，激活AMPK，进而激发一系列反应来恢复细胞内的能量平衡[14]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本试验结果表明，在LPS 注射4h后，肝脏ATP、ADP 和TAN 浓度显著降低，表明LPS 刺激抑制了肝脏线粒体能量代谢，ATP动态平衡被打破。Kang 等[15]也发现了类似的结果。饲粮中添加Gly显著提高肝脏ATP浓度和EC水平，降低肝脏AMP浓度和AMP/ATP值。与我们的研究结果类似，周军利等[16]在乳鼠的研究发现，Gly 处理可缓解心肌细胞ATP 浓度下降，改善细胞能量状况。以上结果及分析表明，Gly 可缓解LPS 刺激导致的能量代谢障碍，促进能量生成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "糖酵解、三羧酸循环和脂肪酸β-氧化是机体中重要的能量代谢途径。Hexok2、PFK和PK可催化糖酵解中主要的不可逆反应，促使ATP和丙酮酸产生[17-19]。丙酮酸在PDH的作用下氧化脱羧，生成乙酰辅酶A，进而进入三羧酸循环产ATPl5I。CS是三羧酸循环第1步反应的限速酶，能决定乙酰辅酶A进入三羧酸循环的速率[20]。ICDH也是三羧酸循环中的关键酶，有3种形式，分别是ICDHα、ICDHβ和ICDHy，其中ICDHβ和ICDHy可以将细胞质中的代谢中间产物运往线粒体，进行三羧酸循环[21]。另外，脂肪酸β-氧化同样是机体产能的重要途径，ACO和L-CPT1是该过程中的关键酶[5]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本试验结果显示，在LPS注射4h后，糖酵解中Hexok2、PK、PDH以及三羧酸循环中ICDHβ和CS的mRNA表达量显著提高。与本试验结果相似，Sun等[22]研究表明，注射LPS的生长猪背最长肌中Hexok和PK的活性升高。饲粮中添加Gly显著降低了Hexok2、PK和CS的mRNA表达量。Moura等[23]研究表明，在幼鼠体内注射Gly显著抑制了脑纹状体CS的活性。这可能是因为Gly提高了ATP浓度，从而抑制了糖酵解和三羧酸循环限速酶的mRNA表达。本试验发现，Gly对脂肪酸β-氧化关键酶ACO和L-CPT1mRNA表达量无显著影响，原因可能是在LPS刺激早期，Gly主要是通过影响肝脏糖酵解和三羧酸循环来对能量代谢进行调控，而对肝脏脂肪酸β-氧化无显著影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AMPK和Sirt1是细胞内的能量感受器，在能量限制的状态下可被激活，并通过磷酸化、去乙酰化作用激活PGC1α[14]。当细胞中能量储存减少时，AMP/ATP值升高，AMPK被激活，通过限制合成代谢和促进分解代谢，增加ATP的生成来维持机体稳态[14]。Sirt1与能量代谢包括糖异生和脂质累积等细胞生物学功能有着密切的关系[24]，它能够降低脂肪酸氧化相关基因mRNA的表达[25]。PGC1α是与能量代谢关系密切的转录辅助活化因子[26]，在葡萄糖和脂肪酸代谢等过程中起着重要作用[14]。本试验结果表明，LPS注射4h后，仔猪肝脏AMPKα2和Sirt1的mRNA表达量显著提高。而饲粮中添加Gly也提高了肝脏AMPKα1的mRNA表达量，说明Gly不能缓解LPS刺激对AMPK相关信号的影响。这可能是因为Gly不是通过影响AMPK、Sirt1和PGC1α来影响肝脏能量代谢的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "① 饲粮中添加Gly能够通过调节糖酵解和三羧酸循环代谢途径中Hexok2、PK和CS等相   \n关酶的表达，改善LPS刺激导致的断奶仔猪肝脏能量代谢紊乱。 ② 饲粮中添加Gly对脂肪酸β-氧化无显著影响。 ③Gly不是通过影响AMPK、Sirt1和PGC1α来影响肝脏能量代谢的。 ④ 考虑到不同水平Gly对仔猪肝脏能量水平的影响以及经济因素，建议采用1%Gly添   \n加量。   \n参考文献：   \n[1]刘玉兰,石尹霞,鲁晶,等.脂多糖刺激对断奶仔猪下丘脑-垂体-肾上腺轴PPARγ表达 的影响[J].中国畜牧杂志,2011,47(1):25-28.   \n[2]SCHMOCKER C,WEYLANDT K H,KAHLKE L,et al.Omega-3 fatty acids alleviate chemically induced acute hepatitis by suppression of cytokines[J].Hepatology,2007,45(4):864-869.   \n[3]ZHONG Z,ENOMOTO N,CONNOR H D,et al.Glycine improvessurvival after hemorrhagic shock in the rat[J].Shock,1999,12(1):54-62.   \n[4]谷俊朝,马涛,王宇.甘氨酸保护作用机制与相关疾病探讨[J].北京医学,2005,27(9):560- 563.   \n[5]周顺伍.动物生物化学[M].北京:化学工业出版社,2008.   \n[6]袁平戈,张大志.还原型谷胱甘肽的作用机制及临床应用[J].药品评价,2006,3(5):385-390.   \n[7] WANG W,DAI Z,WU Z,et al.Glycine is a nutritionally essential amino acid for maximal growth of milk-fed young pigs[J].Amino Acids,2014,46(8):2037-2045.   \n[8] WU G.Amino acids:metabolism,functions,and nutrition[J].Amino Acids,20o9,37(1):1-17.   \n[9] WU G,WU Z,DAI Z,et al.Dietary requirements of “nutritionally non-essential amino acids” by animals and humans[J].Amino Acids,2013,44(4):1107-1113.   \n[10] LIU Y L,HUANG J J,HOU Y Q,et al.Dietary arginine supplementation aleviates intestinal mucosal disruption induced by Escherichia coli lipopolysaccharide in weaned pigs[J].British Journal ofNutrition,2008,100(3):552-560.   \n[11] HOU Y Q,YAO K,WANG L,et al.Effects of α-ketoglutarate on energy status in the intestinal mucosa of weaned piglets chronically challenged with lipopolysaccharide[J].British Journal of Nutrition,2011,106(3):357-363.   \n[12] LIU Y L,CHENF,ODLE J,et al.Fish oil enhances intestinal integrity and inhibits TLR4 and NOD2 signaling pathways in weaned pigs after LPS chalenge[J].The Journal of Nutrition,2012,142(11):2017-2024.   \n[13] LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expression data using real-time quantitative PCR and the 2-△△CT method[J].Methods,2001,25(4):402-408. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14] PI D A,LIU Y L,SHI H F,et al.Dietary supplementation of aspartate enhances intestinal integrity and energy status in weanling piglets after lipopolysaccharide challenge[J].The Journal of Nutritional Biochemistry,2014,25(4):456-462 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15] KANG P,LIU Y L,ZHU H,et al.The effect of aspartate on the energy metabolism in the liver ofweanlingpigschallengedwithlipopolysaccharide[J].European Journal of Nutrition,2015,54(4):581-588.   \n[16]周军利,黄跃生,党永明,等.甘氨酸对缺血缺氧心肌细胞能量代谢的影响[J].现代生物医 学进展,2008,8(6):1093-1095.   \n[17] WOLF A,AGNIHOTRI S,MICALLEF J,et al.Hexokinase 2 is a key mediator of aerobic glycolysis and promotes tumor growth in human glioblastoma multiforme[J].The Journal of Experimental Medicine,2011,208(2):313-36.   \n[18] CURRIE P D,SULLIVAN D T.Structure and expression of the gene encoding phosphofructokinase (PFK） in Drosophila melanogaster[J].The Journal of Biological Chemistry,1994,269(40):24679-24687.   \n[19] ZANELLA A,BIANCHI P,BARONCIANI L,et al.Molecular characterization of PK-LR gene in pyruvate kinase-deficient Italian patients[J].Blood,1997,89(10):3847-3852.   \n[20]WIEGAND G,REMINGTON SJ.Citrate synthase:structure,control,and mechanism[J].Annual Review of Biophysics and Biophysical Chemistry,1986,15(1):97-117.   \n[21] MACDONALD M J,BROWN L J,LONGACRE M J,et al.Knockdown ofboth mitochondrial isocitrate dehydrogenase enzymes in pancreatic beta cells inhibits insulin secretion[J].Biochimica et Biophysica Acta,2013,1830(11):5104-5111.   \n[22] SUN H,HUANG Y,YIN C,et al.Lipopolysaccharide markedly changes glucose metabolism and mitochondrial function in the Longissimus muscle of pigs[J].Animal,2016,10(7):1204- 1212.   \n[23] MOURA A P,GRINGS M,PARMEGGIANI B D S,et al.Glycine intracerebroventricular administration disrupts mitochondrial energy homeostasis in cerebral cortex and striatum of young rats[J].Neurotoxicity Research,2013,24(4):502-511.   \n[24] LAVU S,BOSS O,ELLIOTT P J,et al.Sirtuins-novel therapeutic targets to treat ageassociated diseases[J].Nature Reviews Drug Discovery,2008,7(1O):841-853.   \n[25]LAGOUGEM,ARGMANNC,GERHART-HINESZ,etal.Resveratrol improves mitochondrial function and protects against metabolic disease by activating SIRT1 and PGC1α[J].Cell,2006,127(6):1109-1122.   \n[26]李博,田瑞霞,杨卫景,等.PGC-1α的功能与代谢病[J].中国生物化学与分子生物学 报,2011,27(11):1013-1018.   \nRegulatory Role of Glycine on Energy Metabolism and Its Related Genes’Expression in Liver of Piglets after Lipopolysaccharide Challenge ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Lin WANG Xiuying WU Huanting WANG Haibo CHEN Shaokui ZHU Huiling ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LIU Yulan\\* ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(Hubei Key Laboratory of Animal Nutrition and Feed Science, Wuhan Polytechnic University, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Wuhan 430023, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the effects of glycine (Gly） on energy metabolism and the mRNA expresson of the key enzymes and the regulatory factors involving in energy metabolism in liver of piglets after lipopolysaccharide (LPS） challenge.Twenty four DurocxLandracexYorkshire piglets were randomly assgned into 4 groups with 6 replicates each and 1 pig in each replicate. The four groups were: 1) control group (basal diet); 2) LPS group (LPS+basal diet); 3) 1.0% Gly group (LPS+basal diet+1.0% Gly); and 4) 2.0% Gly group (LPS+basal diet+2.0% Gly). On the 28th day,the piglets in experimental groups were injected intraperitoneally with 100 μg/kg BW LPS,and the piglets in the control group were injected with the same dose of physiological saline.All piglets were slaughtered at 4 h after LPS or saline injection,and the liver samples were collected for further analysis.The results showed as follows: 1） compared with LPS group, supplementation of 1.O% Gly significantly increased liver ATP concentration and energy charge (EC) level of pigs (P<0.O5), significantly decreased the ratio of AMP to ATP (P<O.05)，and had a tendency to decrease AMP concentration (P<0.10); supplementation of 2.0% Gly had a tendency to decrease the ratio of AMP to ATP (P<0.10). 2) Compared with LPS group，supplementation of 1.O% Gly significantly decreased the mRNA expression of liver hexokinase 2 (Hexok2) and citroyl synthetase (CS) (P<0.O5).In addition, supplementation of 2.O% Gly significantly decreased the mRNA expresson of liver Hexok2 and pyruvate kinase (PK) (P<O.05), and had a tendency to decrease the mRNA expression of liver CS (P<0.10).3) Compared with LPS group, supplementation of 1.0% Gly significantly increased the mRNA expression of hepatic AMP-activated protein Kinase αl (AMPKα1) (P<O.O5).These results indicate that dietary supplementation of Gly can attenuate energy metabolism disorder caused by LPS stimulation in liver of weaning piglets, and regulate the gene expression of the key enzymes inglycolysisand tricarboxylic acid cycle. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: piglets; LPS; glycine; liver; energy metabolism ",
+        "page_idx": 9
+    }
+]

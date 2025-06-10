@@ -1,0 +1,212 @@
+# 中国西北五省区水资源利用的协调性分析
+
+李秀花，吴纯渊(新疆教育学院,新疆 乌鲁木齐830043)
+
+摘要：水资源协调利用问题是中国西北五省区经济、社会和生态可持续发展的首要问题。采用协同性分析方法和耦合协调度模型,对中国西北陕西、甘肃、青海、宁夏、新疆五省区水资源利用率和生态用水率之间的区域协同性和耦合协调度进行分析。结果表明：(1）西北五省区的水资源利用率和生态用水率方差齐同，任意两省区之间不具有显著性区域差异，而在五省区内均具有区域协同性。(2）西北五省区生态用水率的升降波动主要取决于当地对农业用水的管理政策是否及时和持续有效。(3）西北五省区中，除新疆处于“勉强协调"等级外，其他四省区水资源利用率与生态用水率的耦合协调度都非常低，普遍远离“协调极”而偏向“失调极”(4）西北五省区耦合协调度级别的升降与该省区生态用水率的高低存在正相关关系。(5)2018年，陕西“轻度失调”甘肃“濒临失调"和新疆“勉强协调”的等级状态相对容易调整上升，关键是提高其生态用水率，而青海“严重失调"和宁夏“中度失调”的等级状态必须引起高度重视并综合设法扭转，防止愈演愈烈。
+
+关键词：水资源利用；耦合协调性；优化用水结构；生态用水；西北五省区
+
+# 文章编号：
+
+中国是一个干旱缺水严重的国家，而西北五省区多属于干旱半干旱地区，水资源的短缺制约着当地经济社会的发展和生态环境的改善。水资源的利用通常包括农业用水、工业用水、生活用水和生态用水4种类型。本研究中农业用水主要包括灌溉用水和牲畜用水，生态用水主要指部分河湖、湿地人工补水和城市环境用水。中国西北五省区用水总量接近 $8 4 8 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,约占全国用水总量的 $1 4 . 3 \% ^ { [ 1 ] }$ 号由于该区域是丝绸之路经济带中国境内向西延伸的起点段，其水资源利用的区域协调性和类型协调性，关系到本区域经济、社会和生态环境的可持续发展，还将关系到丝绸之路经济带这一国家战略的顺利实施。
+
+国内外学者从不同角度研究了干旱半干旱地区水资源可持续利用问题。Trasvina-Carrillo等利用地下水模型研究认为，随着人口增长，地下水开采量增加，将导致干旱区含水层的持续脆弱和水资源利用的不可持续。Haghighi等3研究指出干旱半干旱地区大面积旱作农业被灌溉农业取代对区域水资源造成巨大压力，是造成当地农业不可持续发展的主要原因。Shirmohammadi4通过情景假设分析得出，在干旱半干旱区域设法减少取水量，可以大面积增加雨养农业面积。而在县域单元基础上再进行栅格细分式农业管理是提高西北干旱区水土资源利用效率的有效方法[5]。贾绍凤等[6]将 $10 \%$ 作为西北干旱区河流的最小生态流量，认为其水资源开发利用率不超过 $3 0 \%$ 的阈值。张振龙等分析了中国西北干旱区水资源利用效率及其影响因素后指出，西北干旱区水资源利用效率呈发散状态，未来各区域水资源利用效率差距将进一步拉大。李万明等[8研究西北干旱区2004—2015年水资源利用与经济要素的匹配情况，发现西北五省区中，新疆和陕西的水资源利用与经济要素匹配较差，甘肃一般，宁夏和青海相对较好。夏玮静等以流域为评价单元，利用水资源评价模型分析了陕西省水资源地区分布与生产力布局和人口集中分布地区
+
+# 干旱区地理
+
+不相匹配，而跨流域调水工程却在流域起到至关重要的作用。李菲等["]通过分析甘肃省水资源生态足迹和生态承载力时空特征认为，2003—2017年甘肃省水资源虽处于生态赤字状态，但其水资源利用效率不断提高，供需矛盾有所缓解，农业用水是其最大的足迹账户，且呈下降趋势。黄晓荣"通过对多目标优化模型推荐方案的模拟计算，得出不同水平年的宁夏经济需水与生态需水方案：优先满足生活需水、保证工业需水和较适宜生态需水。葡卿[12]分析指出，作为2013年起的国内学界研究热点，水生态文明建设是新疆经济社会高质量发展的根本举措，核心是解决用水总量超标和水污染严重两大问题。孟江丽[13以新疆白杨河流域为例，提出了统筹考虑上、中、下游的用水情况,建立水资源开发利用方案与三大生态保护目标之间的响应关系。田岳林等[4]对中国西北干旱区工业园水资源高效利用系统展开研究，提出适应当地资源环境特征的“分质处理-多级回用"水资源高效循环利用体系，而综合农业用水、工业用水、生活用水和生态用水4种用水类型，着重分析区域水资源利用与生态用水时空协调性的成果并不多见。本文将从时空角度，探讨中国西北五省区水资源利用指标与生态用水指标的区域协同性及耦合协调度，以期为优化西北五省区的用水类型结构，促进研究区水资源的可持续利用提供借鉴。
+
+# 1 研究区概况
+
+中国西北五省区包括陕西、甘肃、青海、宁夏、新疆，地处中纬度、深居西北内陆、丝绸之路经济带沿线，总面积约 $3 0 4 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,约占全国陆地面积的$3 1 . 7 \%$ 。其中陕西省位于黄河中游和长江上游，地势南北高、中间低，由高原、山地、平原和盆地等多种地貌构成。甘肃省位于黄河和长江上游，是丝绸之路的黄金路段，地形呈狭长状，具有山地、高原、平川、河谷、沙漠、戈壁等复杂多样地貌。青海省是中国青藏高原的重要省份之一，地势总体西高东低、南北高中部低，西部海拔高峻、向东倾斜、梯型下降，东部地区为青藏高原向黄土高原过渡地带，地形复杂，地貌多样。宁夏位于黄河上游，分为北部引黄灌区、中部干旱带、南部山区三大部分。新疆地处亚欧大陆腹地，是中国陆地面积最大的省区，周边与八国接壤，在历史上是古丝绸之路的重要通道。西北五省区远离海洋且四周有高山、高原阻隔，降水稀少且年蒸发量是年降水量的8\~10倍[8],淡水资源总量约为 $2 2 8 6 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ，仅占全国淡水资源总量的 $8 . 4 \%$ ,水资源极为短缺。随着人口增长和经济社会发展对水资源需求的进一步增加，西北五省区水资源问题将更加突出，以山区降水和冰雪融水补给为基础的水资源系统也将更为脆弱[15],增强研究区生产、生活、生态用水之间的协调性日益紧迫。
+
+# 2数据与方法
+
+# 2.1数据来源
+
+研究数据主要来源于2004—2019年的《中国统计年鉴》《中国环境统计年鉴》《陕西统计年鉴》《甘肃统计年鉴》《青海统计年鉴》《宁夏统计年鉴》和《新疆统计年鉴》中与全国和西北五省区对应2003—2018年共16a的年度水资源总量、用水总量、农业用水量、工业用水量、生活用水量和生态用水量等资料。
+
+# 2.2 研究方法
+
+2.2.1极差标准化为消除原始数据年度波动可能产生的影响，使西北五省区之间的同类数据更具有可比性，提高区域差异分析的准确性，基于五省区的水资源利用率和生态用水率的最大值和最小值，将每个指标对应的数据分别进行极差标准化处理。计算公式如下：
+
+$$
+{ X _ { i } } ^ { \prime } = \frac { X _ { i } - X _ { \operatorname* { m i n } } } { X _ { \operatorname* { m a x } } - X _ { \operatorname* { m i n } } } \times 1 0 0 \%
+$$
+
+式中： $i { = } 2 0 0 3 , 2 0 0 4 , \cdots , 2 0 1 8$ ，依次代表研究时段内的16个年份； $X _ { i }$ 代表年份 $i$ 的相应指标值； $X _ { i } ^ { \prime }$ 代表与$X _ { i }$ 对应的极差标准化值； $X _ { \mathrm { m a x } }$ 和 $X _ { \operatorname* { m i n } }$ 分别代表相应指标在研究时段内的最大值和最小值。
+
+2.2.2协同性分析协同是2个或2个以上系统之间或系统要素之间的相互合作和共同作用，是一种相互之间的和谐与正向匹配关系[16]。在当前我国水资源开发利用水平和水生态文明建设背景下，水资源利用指标与生态用水指标之间存在相互促进的关系，具有协同性。
+
+采用SPSS22.0软件对中国陕西、甘肃、青海、宁夏和新疆的水资源利用指标和生态用水指标进行单因素方差分析，得到二者的区域差异性特征，以揭示西北五省区水资源利用指标和生态用水指标的区域协同性。
+
+2.2.3耦合协调度模型耦合协调度借鉴的是物理学中的容量耦合系数模型[17]。基于各省区的水资源利用指标和生态用水指标的区域协同性分析结果，利用耦合协调度模型，分析各省区水资源利用指标与生态用水指标的耦合协调度。以揭示五省区水资源利用情况是否与生态用水情况相匹配
+
+为定量分析五省区水资源利用情况和生态用水情况之间的相互作用程度及协调一致性，构建相应省区内水资源利用指标和生态用水指标之间的耦合协调度模型[1]，计算公式如下：
+
+$$
+D _ { j } = \sqrt { C _ { j } \times T _ { j } }
+$$
+
+$$
+C _ { j } = 2 \times \left[ \frac { \mathrm { C P } _ { j } \times \mathrm { E P } _ { j } } { \left( \mathrm { C P } _ { j } + \mathrm { E P } _ { j } \right) ^ { 2 } } \right] ^ { \frac { 1 } { 2 } }
+$$
+
+$$
+T _ { _ { j } } = \alpha \times \mathrm { C P } _ { _ { j } } + \beta \times \mathrm { E P } _ { _ { j } }
+$$
+
+$$
+\mathrm { C P } _ { j } = \frac { \mathrm { C W } _ { j } } { \mathrm { T W } _ { j } } \times 1 0 0 \%
+$$
+
+$$
+{ \mathrm { E P } } _ { j } = { \frac { { \mathrm { E W } } _ { j } } { \mathrm { C W } _ { j } } } \times 1 0 0 \%
+$$
+
+式中： $D _ { j }$ 为区域 $j ( j { = } 1 , 2 , \cdots , 5$ ,分别代表陕西、甘肃、青海、宁夏和新疆5个省区)的耦合协调度，取值[0.1」； $C _ { j }$ 为区域 $j$ 的耦合度，取值[0,1]; $T _ { j }$ 为区域 $j$ 的综合效益评价指数，取值[0.1」。三者均属于区域发展水平的正向指标。 $\mathrm { C P } _ { j }$ 、EP分别为前述区域 $j$ 的水资源利用指标和生态用水指标，本研究分别将其界定为水资源利用率的极差标准化值和生态用水率的极差标准化值； $\mathrm { T W } _ { j } \setminus \mathbb { C } \mathbb { W } _ { j }$ 、EWj分别为区域j的水资源总量、用水总量和生态用水量; $\alpha \mathcal { \beta }$ 分别为非负待定系数且满足 $\alpha + \beta = 1$ ,基于现有研究成果和涉及的4种主要用水类型,选取 $\alpha { = } 3 / 4 \sqrt { \beta { = } 1 / 4 ^ { [ 1 8 ] } }$ ,并确定了耦合协调度的等级划分标准[17-18](表1)。
+
+# 3结果与分析
+
+# 3.1水资源利用率与生态用水率的区域协同性
+
+3.1.1方差齐性检验结果对区域 $j$ 的水资源利用率(CP)和生态用水率(EP)分别进行方差齐性的
+
+# 表1耦合协调度评价标准
+
+Tab.1 Evaluation standard of coupling coordination degree   
+
+<html><body><table><tr><td>耦合协调度(Di)</td><td>耦合协调等级</td><td>耦合协调度(Di)</td><td>耦合协调等级</td></tr><tr><td>[0.89, 1.00]</td><td>优质协调</td><td>[0.39, 0.49)</td><td>濒临失调</td></tr><tr><td>[0.79,0.89)</td><td>良好协调</td><td>[0.29,0.39)</td><td>轻度失调</td></tr><tr><td>[0.69,0.79)</td><td>中级协调</td><td>[0.19,0.29)</td><td>中度失调</td></tr><tr><td>[0.59, 0.69)</td><td>初级协调</td><td>[0.09,0.19)</td><td>严重失调</td></tr><tr><td>[0.49, 0.59)</td><td>勉强协调</td><td>[0.00, 0.09)</td><td>极度失调</td></tr></table></body></html>
+
+Levene检验结果(表2)表明，在0.05的显著检验水平下，应该接受原假设，即中国西北五省区的水资源利用率和生态用水率方差齐同，意味着水资源利用率和生态用水率两项指标在西北五省区范围内整体上不具有显著性区域差异
+
+3.1.2区域协同性分析结果方差齐同前提下，五省区的水资源利用率( $\left| \mathrm { C P } _ { j } \right.$ 和生态用水率(EP)的S-N-K和Duncan单因素方差分析结果见表3。
+
+由于在当前我国水资源开发利用水平和水生态文明建设背景下，水资源利用率和生态用水率之间本身具有正向匹配关系，水资源利用率在西北五省区中两两省区之间的方差分析结果均落入同一个子集，即其不具有区域显著性差异，同样，生态用水率在西北五省区中两两省区之间也均不具有区域显著性差异(表3)。因此，水资源利用率和生态用水率两项指标在陕西、甘肃、青海、宁夏和新疆五省区内具有区域协同性。
+
+全国及西北五省区2010年和2018年用水结构的比较，见图1。新疆的4种用水类型占比最为稳定。农业用水在各省区占比最大，两年相比，除甘肃与全国略升外，其余四省区均降低，但都远高于全国水平，新疆最高且在 $9 0 \%$ 以上；其次是工业用水和生活用水占比，2010年和2018年相比，甘肃和青海的工业用水占比同全国一样，处于下降水平，其余三省区均小幅上升；生活用水占比均稳中略升。全国和各省区的生态用水率均最小，仅在 $1 \%$ 2$6 \%$ 之间，但从时间维度看，均呈增加趋势。
+
+2003—2018年全国及西北五省区生态用水率
+
+表22003—2018年研究区水资源利用率(CPj)和生态用水率(EPj)方差齐性检验结果  
+Tab.2 Homogeneous test results of $\mathbf { C P } _ { j }$ and $\mathbf { E P } _ { j }$ in the study area from 20o3 to 2018   
+
+<html><body><table><tr><td>指标</td><td>方差齐性检验</td><td>组间自由度</td><td>组内自由度</td><td>显著性概率</td></tr><tr><td>水资源利用率</td><td>0.270</td><td>4</td><td>75</td><td>0.896</td></tr><tr><td>生态用水率</td><td>1.603</td><td>4</td><td>75</td><td>0.182</td></tr></table></body></html>
+
+# 干旱区地理
+
+表32003—2018年研究区水资源利用率和生态用水率的方差分析结果  
+Tab.3Varianceanalysisresultsof $\mathbf { C P } _ { j }$ and $\mathbf { E P } _ { j }$ in the studyarea from 20o3 to 2018   
+
+<html><body><table><tr><td rowspan="2">方差分析方法</td><td rowspan="2">组别</td><td colspan="2">显著水平为0.05的检验结果</td></tr><tr><td>水资源利用率子集</td><td>生态用水率子集</td></tr><tr><td rowspan="5">纽曼-科伊尔斯检验和邓肯氏多重范围检验</td><td>1</td><td>0.476</td><td>0.391</td></tr><tr><td>2</td><td>0.507</td><td>0.539</td></tr><tr><td>3</td><td>0.475</td><td>0.319</td></tr><tr><td>4</td><td>0.545</td><td>0.469</td></tr><tr><td>5</td><td>0.377</td><td>0.520</td></tr><tr><td>纽曼-科伊尔斯检验的显著性概率</td><td></td><td>0.418</td><td>0.311</td></tr><tr><td>邓肯氏多重范围检验的显著性概率</td><td></td><td>0.126</td><td>0.089</td></tr></table></body></html>
+
+注：样本容量通过各组样本容量为16的调和平均数进行估计。组别中1、2、3、4、5分别代表陕西、甘肃、青海、宁夏和新疆5个省区。
+
+![](images/c54d01eb6b6916c32ec5ab498b1189f0ddf49f9a3b8859580c2ea5649167a307.jpg)  
+图12010年和2018年西北五省区及全国用水结构比较
+
+动态，见图2。2003—2018年，全国平均生态用水率总体介于五省区之间。其中，陕西除2009年前后的生态用水率呈现倒"V"字形波动外，其余年份均呈逐步增加趋势；甘肃的生态用水率分别在2004—2005年、2014—2018年增加趋势明显，而在2012—2013年却明显下降，在其余年份内相对比较稳定；
+
+![](images/94a863552416e0202a23f34c26bff072bf236251f9ebb20eeb9fc016b54a945e.jpg)  
+Fig.1Comparisonof wateruseproportionof thefive provinces in northwest Chinaand the wholecountryin2O10and 2018   
+图22003—2018年西北五省区及全国生态用水率动态Fig.2 Trends of ecological water use ratio in the fiveprovinces in northwest China and the whole country from2003 to 2018
+
+青海的生态用水率动态近似于“几”字形，先在2007—2012年出现小幅上下波动，后在2013—2018年急剧上升；宁夏的生态用水率在西北五省区中总体平稳上升;而新疆的生态用水率在西北五省区中波动最剧烈，2003—2011年处于上下小幅波动状态，但整体上高于其他省区和全国平均值，2011—2012年骤然下降至16a中的最低水平，之后逐渐回升。2013—2016年，西北五省区和全国的生态用水率总体基本稳定，2016—2018年，生态用水率均呈稳步上升趋势。
+
+# 3.2水资源利用率与生态用水率的耦合协调度
+
+利用耦合协调度模型计算出2003—2018年西北五省区水资源利用率与生态用水率之间的耦合协调度 $( \mathrm { D } _ { j } , _ { j = 1 , 2 , \cdots , 5 } )$ 。结合表1和表4可知,在研究时段内，陕西省2003年为“严重失调”，2004—2008年连续5a和2010—2011年连续2a均上升至“中度失调”，而2009年和2012—2018年均为"轻度失调"状态；甘肃省2003—2004年2a为“中度失调”，2005、2013、2014年均为“轻度失调”，其他11个
+
+# 表42003—2018年西北五省区水资源利用率与生态用水率之间的协调度
+
+Tab.4 Coordination degree between water resources utilization ratio and ecological water use ratio of the five provinces in northwest China from 2oo3 to 2018   
+
+<html><body><table><tr><td>年份</td><td>陕西</td><td>甘肃</td><td>青海</td><td>宁夏</td><td>新疆</td></tr><tr><td>2003</td><td>0.140</td><td>0.200</td><td>0.156</td><td>0.088</td><td>0.481</td></tr><tr><td>2004</td><td>0.264</td><td>0.218</td><td>0.158</td><td>0.159</td><td>0.467</td></tr><tr><td>2005</td><td>0.234</td><td>0.381</td><td>0.142</td><td>0.210</td><td>0.480</td></tr><tr><td>2006</td><td>0.282</td><td>0.415</td><td>0.162</td><td>0.182</td><td>0.476</td></tr><tr><td>2007</td><td>0.260</td><td>0.405</td><td>0.155</td><td>0.198</td><td>0.471</td></tr><tr><td>2008</td><td>0.282</td><td>0.430</td><td>0.204</td><td>0.241</td><td>0.476</td></tr><tr><td>2009</td><td>0.324</td><td>0.401</td><td>0.176</td><td>0.281</td><td>0.464</td></tr><tr><td>2010</td><td>0.254</td><td>0.415</td><td>0.191</td><td>0.249</td><td>0.466</td></tr><tr><td>2011</td><td>0.240</td><td>0.402</td><td>0.192</td><td>0.260</td><td>0.496</td></tr><tr><td>2012</td><td>0.308</td><td>0.392</td><td>0.140</td><td>0.221</td><td>0.315</td></tr><tr><td>2013</td><td>0.336</td><td>0.347</td><td>0.155</td><td>0.244</td><td>0.340</td></tr><tr><td>2014</td><td>0.344</td><td>0.375</td><td>0.163</td><td>0.284</td><td>0.357</td></tr><tr><td>2015</td><td>0.361</td><td>0.448</td><td>0.188</td><td>0.297</td><td>0.342</td></tr><tr><td>2016</td><td>0.388</td><td>0.476</td><td>0.207</td><td>0.262</td><td>0.338</td></tr><tr><td>2017</td><td>0.345</td><td>0.447</td><td>0.190</td><td>0.278</td><td>0.383</td></tr><tr><td>2018</td><td>0.388</td><td>0.406</td><td>0.177</td><td>0.215</td><td>0.517</td></tr></table></body></html>
+
+年份升为“濒临失调"状态；在西北五省区中，青海的协调度等级相对最低，除2008年、2010—2011年、2016—2017年为较低水平的“中度失调"外，其余11个年份均为“严重失调"状态；宁夏2003年为“极度失调”，之后2004年和2006年升为“严重失调”，其余有12个年份为“中度失调”，仅2015年跃升为“轻度失调"状态;新疆的协调度在西北五省区中等级最高，尤其2011年和2018年进入了“勉强协调"状态，2003—2010年均为“濒临失调”的较高水平，2012—2017年则处于“轻度失调"状态。
+
+表5为对照表1和表4,将16a中西北五省区各自水资源利用率与生态用水率之间的耦合协调等级分布情况汇总的结果。综合表4和表5可知，2003—2018年中国西北五省区除新疆有2a“勉强协调”外，其他四省区的水资源利用率与生态用水率之间均处于“失调"状态。新疆的水资源利用已进入“协调"状态，而“失调"程度最低的是甘肃省，次低的是陕西省，“失调"程度最高的是青海省，次高为宁夏。
+
+# 4结论
+
+通过对中国西北陕西、甘肃、青海、宁夏、新疆
+
+# 表52003—2018年西北五省区水资源利用率与生态用水率之间协调度等级分布
+
+Tab.5 Grade distributions of coordination degree between water resources utilization ratio and ecological water use ratio of the five provinces in northwest China   
+from 2003 to 2018   
+
+<html><body><table><tr><td rowspan="2">耦合协调等级</td><td colspan="4">五省区耦合协调度等级分布年数/a</td></tr><tr><td>陕西</td><td>甘肃 青海</td><td>宁夏</td><td>新疆</td></tr><tr><td>优质协调</td><td>0</td><td>0</td><td>0</td><td>0 0</td></tr><tr><td>良好协调</td><td>0</td><td>0 0</td><td>0</td><td>0</td></tr><tr><td>中级协调</td><td>0</td><td>0 0</td><td>0</td><td>0</td></tr><tr><td>初级协调</td><td>0</td><td>0 0</td><td>0</td><td>0</td></tr><tr><td>勉强协调</td><td>0</td><td>0</td><td>0 0</td><td>2</td></tr><tr><td>濒临失调</td><td>0</td><td>11 0</td><td>0</td><td>8</td></tr><tr><td>轻度失调</td><td>8</td><td>3</td><td>0 1</td><td>6</td></tr><tr><td>中度失调</td><td>7</td><td>2 5</td><td>12</td><td>0</td></tr><tr><td>严重失调</td><td>1</td><td>0</td><td>11 2</td><td>0</td></tr><tr><td>极度失调</td><td>0</td><td>0</td><td>0</td><td>1 0</td></tr></table></body></html>
+
+五省区水资源利用率和生态用水率之间的区域协同性和耦合协调度进行分析，得出以下主要结论：
+
+（1）从区域协同性分析结果看，西北五省区中两两省区之间相互的水资源利用率和生态用水率均不具有显著性区域差异。水资源利用率和生态用水率两项指标正向匹配，分别在陕西、甘肃、青海、宁夏和新疆五省区内具有区域协同性。
+
+（2）从西北五省区2010年、2018年的用水结构看，农业用水占比普遍最大且明显高于全国水平，因此，农业用水仍是研究区重点提高用水效率、加大节水力度的用水类型，特别是甘肃和新疆，在节水灌溉、节水养殖方面具有广阔的优化空间。从2010年到2018年，甘肃和青海的工业用水占比处于下降水平，说明这两省在提高工业用水效率，推广循环经济方面已见成效。五省区的生活用水占比和生态用水率均呈稳定上升趋势，表明五省区更加重视"以人为本”，更好保障居民生活用水[，同时显示出“绿水青山就是金山银山"的理念正在逐步深人人心，水生态文明建设力度正在逐渐加大。
+
+（3）从研究时段内五省区的生态用水率年际动态看，生态用水率的升降波动主要取决于当地对农业用水的管理政策是否及时和持续有效，落实对水资源的合理配置，实行严格的水资源管理制度，严禁挤占生态用水，通过多种方式提高农业用水效率，大面积农田实现了节水灌溉，促使生态用水率逐渐呈良性回升。2013—2018年，西北五省区和全
+
+# 干吴区地理
+
+国的生态用水率总体稳定的基础上呈稳步上升趋势，“生态红利"逐步显现，
+
+（4）从水资源利用率与生态用水率之间的耦合协调度看，西北五省区的耦合协调度都非常低，普遍远离“协调极"而偏向“失调极”，表明西北五省区的水资源协调利用任重道远。西北五省区耦合协调度级别的升降均与该省区生态用水率的高低存在正相关关系，即耦合协调度级别高区域和年份对应的生态用水效率也高。研究时段内，新疆已进入“协调"状态，陕西的耦合协调度处于逐步向好的发展态势，反映出两省区充分发挥当地资源优势，大力发展生态旅游等绿色产业，已逐步释放出区域“生态红利”。相比而言,2018年，陕西"轻度失调”、甘肃“濒临失调"和新疆“勉强协调"的等级状态相对容易调整上升，关键是提高其农业用水效率的同时降低农业用水占比，而青海“严重失调"和宁夏“中度失调”的状态必须引起高度重视且综合设法扭转，防止愈演愈烈。
+
+# 5建议
+
+中国西北五省区生态环境本底脆弱，基于研究区内水资源利用率与生态用水率之间的耦合协调度总体“失调"状态和新疆、陕西的协调性正处于向好发展态势的现实，亟需落实国家水生态文明建设的各项要求，加大《国家节水行动方案》的实施力度。
+
+（1）围绕“实现中国西北五省区水资源可持续利用"这个长远目标，从普及每个家庭提高生活用水效率及生态环保相关知识入手，持续加大用水政策宣传力度，增强公众惜水意识，提升公众节水素养，让以“两山论"为精髓的习近平生态文明思想家喻户晓、深入人心、付诸行动[20]。
+
+(2）抓住五省区“农业用水"这个“牛鼻子”，解决灌溉等农业用水严重浪费的问题[2]。重点从提高作物灌溉技术效率[22]、节灌率和养殖用水效率入手[23],结合现代信息技术的应用，推进农业用水计量设施的改造与建设，做好各省区农业用水的精准计量[24-25]、按量收费，总量控制、定量管理[26]。
+
+(3）善用西北五省区的各类型用水效率评价结果，重视实施水资源利用的生态补偿机制[20]，坚持完善相关的法律保障体系[27]。通过严格的工农业生产用水评价标准和监管措施，持续推动各省区经济发展方式的绿色转型[7]。
+
+（4）在统筹做好各省区常规水的优化配置基础上，最大限度开发利用其非常规水，如再生水、微咸水、矿井水、雨洪资源、云水资源等非常规水资源的开发利用[28]，以多种方式保障各省区的适宜生态用水量，持续提升西北各省区水资源利用率和生态用水率之间的耦合协调度，不断优化农业、工业、生活和生态4种类型用水结构，切实发挥生态用水的保障作用，以促进中国西北五省区水资源的可持续利用。
+
+# 参考文献(References)
+
+[1]中国国家统计局.中国统计年鉴[DB/OL].[2021-01-16].http:// www.stats.gov.cn/tjsj/ndsj/2019/indexch.htm.[Bureau of Statistics of the People's Republic of China.China statistical yearbook[DB/ OL]. [2021-01-16].http: //www.stats.gov.cn/tjsj/ndsj/2019/indexch. htm. ]   
+[2]Trasvina-Carrillo JA,Wurl J, Imaz-Lamadrid M A. Groundwater flow model and statistical comparisons used in sustainability of aquifers in arid regions[J]. Resources,2019,8(3): 134,doi: 10.339 O/resources8030134.   
+[3]Haghighi A T, Zaki N A,Rossi P M,et al. Unsustainability syndrome:From meteorological to agricultural drought in arid and semi-arid regions[J].Water,2020,12(3): 838,doi:10.3390/w1203 0838.   
+[4]Shirmohammadi B, Malekian A,Salajegheh A,et al. Scenario analysis for integrated water resources management under future land use change in the Urmia Lake region,Iran[J].Land Use Policy, 2020,90:104299,doi: 10.1016/j.landusepol.2019.104299.   
+[5]Jiang Y, Zhang Q F, Zhao X N,et al.A geogrid-based framework of agricultural zoning for planning and management of water & land resources: A case study of northwest arid region of China[J]. Ecological Indicators,2018,89: 874-879.   
+[6]贾绍凤,柳文华.水资源开发利用率 $4 0 \%$ 阈值溯源与思考[J].水 资源保护,2021,37(1):87-89.[Jia Shaofeng,Liu Wenhua.Tracing and thinking about $40 \%$ threshold value of water resources development and utilization ratio[J].Water Resources Protection, 2021,37(1): 87-89.]   
+[7]张振龙,孙慧,苏洋,等.中国西北干旱区水资源利用效率及其 影响因素[J].生态与农村环境学报,2017,33(11):961-967. [Zhang Zhenlong,Sun Hui, Su Yang,et al. Water use efficiency and its influencing factors in arid areas of northwest China[J]. Journal of Ecology and Rural Environment,2017,33(11): 961-967.]   
+[8]李万明,黄程琪.西北干旱区水资源利用与经济要素的匹配研 究[J].节水灌溉,2018(7): 88-93.[Li Wanming,Huang Chengqi. The study of matching between utilization of water resource and economic factors in the northwest arid area of China[J].Water Saving Irigation, 2018(7): 88-93.]   
+[9]夏玮静,王宁练,沈月.基于流域的陕西省水资源承载力研究 [J].干旱区地理,2020,43(3): 602-611.[Xia Weijing,Wang Ninglian, Shen Yue.Water resource carrying capacity in Shaanxi Province at the scales of watersheds[J].Arid Land Geography, 2020,43(3): 602-611.]   
+[10] 李菲,张小平.甘肃省水资源生态足迹和生态承载力时空特征 [J].干旱区地理,2020,43(6):1486-1495.[Li Fei, Zhang Xiaoping.Spatio-temporal characteristics of ecological footprint and ecological carrying capacity of water resources in Gansu Province[J]. Arid Land Geography,2020,43(6): 1486-1495.]   
+[11]黄晓荣.宁夏经济用水与生态用水合理配置研究[D].成都:四 川大学,2Oo5.[Huang Xiaorong. Research on the rational allocation for water using of economic and ecosystem in Ningxia[D]. Chengdu: Sichuan University,2005.]   
+[12]葡卿.新疆水生态文明建设的水资源保护利用策略研究[J].干 旱区地理,2021,44(5): 1483-1488.[Lin Qing.Water resources protection and utilization strategy of water ecological civilization construction in Xinjiang[J]. Arid Land Geography,2021,44(5): 1483-1488.]   
+[13]孟江丽.西北干旱区水资源利用与生态环境响应研究——以新 疆白杨河流域为例[J].水资源保护,2013,29(2):38-42.[Meng Jiangli. Water resources utilization and eco-environmenttal responses in arid area in northwest China: A case study in Baiyang River Basin in Xinjiang[J]. Water Resources Protection,2013,29(2): 38- 42.]   
+[14]田岳林,李建娜,李汝琪.中国西北干旱区工业园水资源高效利 用系统研究[J].环境科学与管理,2015,408(4):166-169.[Tian Yuelin,Li Jianna,Li Ruqi. Study on the effcient water resources utilization systems of industrial park in cold and semi-arid regions of northwest China[J]. Environmental Science and Management, 2015,408(4): 166-169.]   
+[15] 陈亚宁,杨青,罗毅,等.西北干旱区水资源问题研究思考[J].干 旱区地理,2012,35(1):1-9.Chen Yaning,Yang Qing,Luo Yi,et al.Ponder on the issues of water resources in the arid region of northwest China[J].Arid Land Geography,2012,35(1): 1-9.]   
+[16] 赵卫,刘海江,肖颖,等.国家重点生态功能区转移支付与生态 环境保护的协同性分析[J].生态学报,2019,39(24): 9271- 9280.[Zhao Wei,Liu Haijiang, Xiao Ying,etal. Synergic relationship between transfer payment to national key ecological function areas and eco-environmental protection[J]. Acta Ecologica Sinica, 2019,39(24): 9271-9280.]   
+[17] 廖佶慧,彭贤伟,肖钊富.土地利用变化与社会经济发展耦合协 调关系研究——以遵义市为例[J].贵州师范大学学报(自然科 学版),2020,38(5):73-79.[Liao Jihui,Peng Xianwei,Xiao Zhaofu. Study on coupling and coordinating relationship between land use change and social and economic development: A case study of Zunyi City[J].Journal of Guizhou Normal University (Natural Sciences),2020,38(5): 73-79.]   
+[18] 刘世梁,朱家篱,许经纬,等.城市化对区域生态足迹的影响及 其耦合关系[J].生态学报,2018,38(24):8888-8900.[Liu Shiliang,Zhu Jiali,Xu Jingwei,etal.Effect of urbanization on the ecological footprint and their interactive coupling relationship[J].Acta Ecologica Sinica,2018,38(24): 8888-8900.]   
+[19] 杨雪梅,杨太保,石培基,等.西北干旱地区水资源-城市化复 合系统耦合效应研究——以石羊河流域为例[J].干旱区地理, 2014,37(1): 19-30.[Yang Xuemei, Yang Taibao,Shi Peiji,et al. Coupling effect of water resources-urbanization composite system in north west arid region of China: A case of Shiyang River Basin [J]. Arid Land Geography,2014,37(1): 19-30.]   
+[20] 胡振通,王亚华.中国生态扶贫的理论创新和实现机制[J].清华 大学学报(哲学社会科学版),2021,36(1):168-180,206.[Hu Zhentong，Wang Yahua. Theoretical innovation and realization mechanism of ecological poverty alleviation in China[J]. Journal of Tsinghua University (Philosophy and Social Sciences),2021,36 (1): 168-180,206.]   
+[21] 王蓓,鄢春华,王月,等.中国西北干旱区过度灌溉绿洲的水分 收支特征研究[J].北京大学学报(自然科学版),2020,56(6): 1122-1128.[Wang Bei, Yan Chunhua,Wang Yue,et al,Water budget characteristics of over-irrigated oasis in arid region of northwest China[J].Acta Scientiarum Naturalium Universitatis Pekinensis,2020,56(6): 1122-1128.]   
+[22] 李贵芳,周丁扬,石敏俊.西北干旱区作物灌溉技术效率及影响 因素[J].自然资源学报,2019,34(4): 853-866.[Li Guifang, Zhou Dingyang,Shi Minjun. Technical efficiency of crop irrigation and its determinants in the arid areas of northwest China[J].Journal of Natural Resources,2019,34(4): 853-866.]   
+[23]白惠婷.京津冀城郊农业园区水资源利用效率评价研究[D].保 定：河北农业大学,2019.[Bai Huiting.Evaluation of water resources utilization eficiency in Beijing-Tianjin-Hebei suburban agricultural parks: A case study in sunshine agricultural park[D]. Baoding: Hebei Agricultural University,2019.]   
+[24] 侯林秀,温璐,赵吉,等.基于水足迹法的阿拉善地区水资源利 用评价与分析[J].干旱区资源与环境,2020,34(12):35-41. [Hou Linxiu,Wen Lu, Zhao Ji,et al.Evaluation of water resource utilization in Alxa League based on water footprint method[J]. Jourmal of Arid Land Resources and Environment, 2020,34(12): 35-41.]   
+[25] 韩琦,姜纪沂,李瑛,等.西北干旱半干旱区水资源承载力研究 现状与发展趋势[J].节水灌溉,2017(6): 59-62,67.[Han Qi,Jiang Jiyi,Li Ying,et al. Current status of research and perspective of water resources carrying capacity in arid and semi-arid regions of northwest China[J].Water Saving Irrigation,2O17(6): 59-62, 67.]   
+[26] 王玉洁,秦大河.气候变化及人类活动对西北干旱区水资源影 响研究综述[J].气候变化研究进展,2017,13(5):483-493 [Wang Yujie,Qin Dahe.Influence of climate change and human
+
+# 干吴区地理
+
+activity on water resources in arid region of northwest China: An overview[J].Climate Change Research,2017,13(5): 483-493.]
+
+[27]赵玉田.脆弱生态系统下西北干旱区农业水资源利用策略研究[D].兰州:兰州大学,2016.[Zhao Yutian.Research on agricul-ture water resources exploitation countermeasures of the fragileeco-system in northwest arid area[D]. Lanzhou: Lanzhou Universi-
+
+ty,2016.]
+
+[28]马涛,刘九夫,彭安帮,等.中国非常规水资源开发利用进展[J] 水科学进展,2020,31(6): 960-969.[Ma Tao,Liu Jiufu,Peng An bang,et al.Progress in development and utilization of non-conventional water resources in China[J].Advances in Water Science, 2020,31(6): 960-969.]
+
+# Coordination of water resources utilization in the five provinces of northwest China
+
+LI Xiuhua, WU Chunyuan (Xinjiang Education Institute,Urumqi 83oO43,Xinjiang,China)
+
+Abstract: Shaanxi, Gansu,Qinghai, Ningxia,and Xinjiang are thefive provinces of northwest China.This area is the starting point of the westward extension of the Silk Road Economic Belt in China.The coordination of water resourceutilization is the most important issue here and is also one of the important contents of the construction of modern water ecological civilization. On the basis of the annual data of total water resources,total water consumption,agricultural water consumption, industrial water consumption,domestic water consumption,and ecological water consumption of the five northwest provinces from 20o3 to 2018,the utilization ratio of water resources (CPj) and the ecological water use ratio (EPj) are calculated. The above $j { = } 1$ ,2, 3, 4, 5 represent Shaanxi, Gansu,Qinghai, Ningxia,and Xinjiang,respectively. With the use of the synergy analysis method and the coupling coordination degree model, the regional synergy and coupling coordination degree between $\mathrm { C P } _ { j }$ and $\mathrm { E P } _ { j }$ are analyzed.The results are as follows: (1) The variances of $\mathrm { C P } _ { j }$ and $\mathrm { E P } _ { j }$ of the five northwest provinces are the same.No significant regional difference exists between any two provinces. Thus, $\mathrm { C P } _ { j }$ and $\mathrm { E P } _ { j }$ have regional synergy in the five provinces.(2) The fluctuation of EPj in the five provinces depends on whether the local agricultural water use management policy is timely and effective.(3) The coupling coordination degre levels of （204号 $\mathrm { C P } _ { j }$ and $\mathrm { E P } _ { j }$ are very low in the five northwest provinces and is at the level of “barely coordinated” in Xinjiang only.These levels are generally far away from the“coordination pole”and inclined to the“imbalance pole”in the other four provinces. (4)A positive corelation exists between the level of coupling coordination degree and $\mathrm { E P } _ { j }$ in the five northwest provinces. (5) The results of coupling coordination degree in 2018 show that the three status levels of“mild imbalance”in Shaanxi,“on the verge of imbalance”in Gansu,and“barely coordinated” in Xinjiangare relatively easy to adjust and increase.The key is to improve theEPj.However,the two status levels of“serious imbalance”in Qinghai and“moderate imbalance”in Ningxia must be given more attention and comprehensively reversed to prevent them from worsening.
+
+Key words: water resources utilization；coupling coordination；optimize water use structure；ecological water use； the five provinces of northwest China

@@ -1,0 +1,1068 @@
+[
+    {
+        "type": "text",
+        "text": "多策略增强花授粉算法及其应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李大海，伍兆前，王振东(江西理工大学 信息工程学院，江西 赣州 341099)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对经典花授粉算法容易陷入局部最优解和收敛速度慢的缺点，提出一种增强型透镜成像策略和随机邻域变异策略的花授粉算法。通过增强型透镜成像策略扩展花授粉算法的搜索空间，增加解的多样性有助于算法跳出局部最优解。引入随机邻域变异策略，借助邻域内的信息指导算法搜索，增强算法的收敛精度和搜索速度。并且对改进后的花授粉算法和4种其他改进算法在CEC2013 测试函数上比较，实验证明改进后的多策略花授粉算法不管是在收敛精度还是搜索速度都比对比算法优秀。最后把多策略花授粉算法应用在汽车传动参数模型上研究该算法的实际效用，结果表明多策略花授粉算法在汽车传动参数优化问题上都优于对比算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：随机邻域变异；透镜成像；花授粉算法；参数优化；收敛精度 中图分类号：TP301.6 doi:10.19734/j.issn.1001-3695.2022.02.0036 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-strategy flower pollination optimization algorithm for vehicle power transmisson parameters ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Dahai, Wu Zhaoqian, Wang Zhendong (Schoolof Information Engineering,Jiangxi UniversityofScience&Technology,Ganzhou Jiangxi341099,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Clasic flower pollination algorithm (FPA)can beeasily exposed to the shortcomings oflocal optimal solutionand slow convergence velocity.Inviewof these shortcomings,this paper proposedanFPA withan enhancedlens imaging strategy and random neighborhood-based mutation strategy.The lens imaging strategycan helpthe algorithm avoid the shortcoming oflocaloptimal solution by expanding the search spaceofFPAto increase the diversityof thesolution.The introductionof random neighborhood-based mutation strategycan enhance the convergence acuracyand search speed of thealgorithm by guidingalgorithmsearch with informationin theneighborhood.Acomparisonofthe improvedFPAwith fourother mproved algorithmson CEC20l3 test function found that the improved multi-strategyFPA performs better than thecomparison algorithms in bothconvergenceaccuracyand search speed.To studyitspracticalutility,tis paperapplies the multi-strategy FPA intotheautomobile transmision parameter modelandtheresults indicate that multi-strategyFPA is beter than the comparison algorithm in optimization of automobile transmission parameters. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:random neighborhoodvariation；lens imaging;flower pollination algorithm；parameteroptimization convergence accuracy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "花授粉算法(FlowerPollination Algorithm,FPA）[1]是由Yang于2012年提出一种简单高效的元启发式群智能优化算法。该算法将植物的异花授粉和自花授粉的过程类比到算法中的全局搜索和局部搜索，平衡全局搜索和局部搜索之间的切换。由于FPA算法具有结构简单、参数少、鲁棒性和适应性强等特点，其已经应用于求解诸多领域的复杂优化问题求解，如无线传感",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "器网络布置优化[2]，混凝土3D框架优化[3]，医学图像分割[4]，切比雪夫多项式神经网络优化[5]。但FPA算法也有着和其他群智能优化算法相同的问题，容易陷入局部最优解并且收敛速度慢[，国内外学者针对FPA算法已经提出诸多的改进措施。文献[7]提出一种结合克隆选择策略的改进FPA算法其使用随机游走替代FPA算法中使用的Levy飞行并且在局部授粉之前克隆最优解，以提高最优解的接受概率。文献[8]提出了一种结合模拟退火策略的SFPA算法，该增强FPA算法利用模拟退火策略使算法避免陷入局部最优解，从而提高了算法的全局搜索能力。文献[9]中提出了一种基于精英对立策略的 EOFPA 算法该算法采用了全局性精英对立和局部自适应的贪婪策略，其中全局性精英对立的学习增强了群体的多样性，局部自适应的贪婪策略增强了其探索能力。文献[10]中提出了一种结合差分进化变异策略的ssFPA/DE算法，该新算法将FPA 算法的搜索策略特征和差分进化的变异策略相结合从而增强算法的搜索效率。文献[11]中针对FPA算法易陷入局部最优，后期收敛速度慢的缺点，提出一种基于引力搜索机制的GSFPA算法，通过花朵个体间的引力和本身算法的Levy飞行共同实现个体位置的更新，使花朵受Levy飞行和个体间引力的双重影响，个体之间通过共享优化信息提高算法的寻优能力。文献[12]中提出FA-FPA算法，在FPA算法的局部授粉过程中引入自适应的变异因子，并对FPA算法的概率转换进行自适应调整。最后将其与萤火虫算法相结合，实验表明FA-FPA算法具有更高的收敛性和稳定性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "上述对于FPA改进的算法主要集中在三点：一是借用策略某方面的优越性弥补FPA算法的自身缺陷。例如模拟退火的突跳机制使其避免陷入局部最优解；引力搜索机制调整个体位置更新。二是增加种群多样性。例如全局性精英对立学习增强种群多样性。三是融合其他算法，借用其他算法的优秀机制增强FPA算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "尽管目前已经提出了诸多的改进FPA算法，但FPA算法仍存在诸多的改进空间。本文提出一种基于多策略的MSFPA算法，其主要从以下两方面改进FPA算法：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)通过增强型透镜成像策略去增强算法的种群多样性。透镜成像策略是一种基于光学原理的反向学习策略，该策略能够增强种群的多样性改善算法的搜索范围，帮助算法跳出局部最优解。本文提出一种增强型透镜成像策略，以10次迭代为一回合。在标准透镜成像生成反向解的基础上，再利用算法生成的最优解和透镜成像的反向解两者之间的笛卡尔积生成精英集合，对精英集合内部的有序对分别求适应值，精英集合内部始终保持10个个体，新的优质解会替代劣质解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)引入差分进化算法的邻域变异策略。由于邻域变异策能够平衡全局和局部搜索，所以本文提出将随机邻域变异策略和FPA粉算法的搜索策略相结合，并且为了适应FPA算法的全局搜索和局部搜索的随机切换，将变异因子 $F$ 改为自适应，减小不合适的变异因子对算法的影响程度，最后借用邻域集合内部的信息指导搜索，加快收敛速度和收敛精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对比FPA，TMFPA，HLFPA，ISSA四种算法在CEC2013测试函数上的性能，验证本文提出算法的有效性，并把算法应用到汽车传动系统参数优化的工程问题上，进一步验证算法优化复杂问题的能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 花授粉算法概述(FPA) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FPA 算法借鉴自然界花授粉的过程，基本模拟了自然界花的自花授粉和异花授粉的行为。授粉的媒介分为两种：生物和非生物。生物授粉的过程视为异花授粉，一般由动物或者昆虫充当载体，可在大范围内传播；非生物的自花授粉视为自花授粉，通常是借助风实现传播。为了更好利用FPA算法解决优化问题，Yang 在算法中假定每一株植物只开一朵花每朵花只有一个花粉胚子，一个胚子对应优化问题中的一个解。此外还需假定以下4条规定：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）植物的异花授粉对应算法的探索阶段，全局搜索通过生物充当载体，并遵循Levy飞行的规律来实现；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）非生物的自花授粉对应算法的开发阶段，局部搜索是同种类的植物不同花朵之间通过风实现传粉；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3）繁衍概率对应花的特性，两朵花(个体)的相似和关联性成比例;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4）概率转换参数 $\\boldsymbol { p } \\in [ 0 , 1 ]$ 对 FPA 算法的探索(全局授粉)和开发(局部授粉)之间的相互转换进行调节。由于受到位置、风等因素影响，整个授粉过程中，局部授粉的概率更大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由上述的描述可知，异花授粉(全局授粉)和自花授粉(局部授粉)为FPA算法的核心。FPA算法的全局授粉按式(1)进行：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\boldsymbol { x } _ { i } ^ { t + 1 } = \\boldsymbol { x } _ { i } ^ { t } + \\gamma \\boldsymbol { L } \\times ( \\boldsymbol { x } _ { i } ^ { t } - \\boldsymbol { g } ) , r a n d > p } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { x } _ { i } ^ { t + 1 }$ ， $x _ { i } ^ { t }$ 为第 $^ { t + 1 }$ 和 $t$ 代的解， $g$ 为全局最优解，是步长控制因子， $L$ 是Levy飞行的主步长[13]，步长计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL \\approx \\frac { \\lambda \\Gamma ( \\lambda ) \\sin ( \\frac { \\pi \\lambda } { 2 } ) } { \\pi } \\times \\frac { 1 } { s ^ { 1 + \\lambda } } , s > s _ { 0 } > 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\scriptstyle \\lambda = 3 / 2$ ， $\\Gamma ( \\lambda )$ 是标准的伽马函数。由于按式(1)更新 $x _ { i } ^ { t }$ ，所以整个全局搜索阶段都是朝着当前的全局最优解 $g$ 的方向探索，并使用Levy飞行每一次都随机调整步长，以确保整个种群的多样性。通过此种方式获取的每一代的最优解8充当下一次迭代的基向量，保证最优解基因的传承。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FPA的局部授粉按如下式(3)进行：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { x } _ { i } ^ { t + 1 } = \\boldsymbol { x } _ { i } ^ { t } + \\varepsilon \\times ( \\boldsymbol { x } _ { j } ^ { t } - \\boldsymbol { x } _ { k } ^ { t } ) , r a n d \\sin { \\theta }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\varepsilon$ 是在[0,1]区间上服从均匀分布的随机数， $X _ { j } ^ { t } , X _ { k } ^ { t }$ 代表与 $x _ { i } ^ { t }$ 不同的随机选取的花粉。其目的是确保算法在局部搜索阶段具有较好的开发性，且用 $\\varepsilon$ 扰动确保每次获取的解都具有随机性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 多策略花授粉算法(MSFPA)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FPA算法作为一种群智能优化算法，同样临如何平衡算法种群多样性、收敛速度和收敛精度的问题。本文提出利用增强型透镜成像反向学习策略和基于随机邻域变异策略两项措施改进FPA算法，以进一步加强算法的收敛速度和精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1增强型透镜成像反向学习策略",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "凸透镜成像规律是一种光学定律。如图1所示，假设物体 $P$ ，在 $x$ 轴上的投影为 $x$ ，高度为 $h$ ，通过凸透镜可以获得一个实像 $P ^ { * }$ ，设实像 $P ^ { * }$ 在 $x$ 轴上的投影为 $x ^ { * }$ ，设投影 $x$ 和 $x ^ { * }$ 在 $x$ 轴上的投影落于区间 $[ a , b ]$ 之内，则 $x$ 和 $x ^ { * }$ 满足如式(4)所示的关系：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( a + b ) / 2 - x } { x ^ { * } - ( a + b ) / 2 } = \\frac { h } { h ^ { * } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令n=，并称n为缩放因子。对式(4)进行变换即可得到 $x ^ { * }$ 的计算式(5):",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle x ^ { * } = { \\frac { a + b } { 2 } } + { \\frac { a + b } { 2 n } } - { \\frac { x } { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "若将 $x$ 作为一维优化问题的某个解(或者解的坐标)，则$x ^ { * }$ 可以视为解 $x$ 的反向解。特别的，当 $n = 1$ 时将，式(5)可简化成式(6)的形式，其就是一般的反向学习策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle x ^ { * } = a + b - x\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在透镜成像中可以通过调整缩放因子 $n$ 的大小来动态获取某个解的反向解，对一般的 $\\mathrm { ~ D ~ }$ 维优化问题，设D维向量 $x$ 为该优化问题的某个解(或者解的坐标)。设 $x _ { j }$ 为当向量 $x$ 的第 $j$ 维分量，按式(7)得 $x _ { j }$ 的反向分量 $\\boldsymbol { x } _ { j } ^ { * }$ ，则可得以 $\\boldsymbol { x } _ { j } ^ { * }$ 作为的第 $j$ 维分量 $\\mathrm { ~ D ~ }$ 维向量 $x ^ { * }$ 作为解 $x$ 的透镜反向解。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { j } ^ { * } = \\frac { a _ { j } + b _ { j } } { 2 } + \\frac { a _ { j } + b _ { j } } { 2 n } - \\frac { x _ { j } } { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， ${ a } _ { j } , { b } _ { j }$ 为搜索空间在第 $\\mathrm { j }$ 维的上下界。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综合以上的透镜成像原理，本文提出一种增强型的透镜成像策略。首先将开始10次迭代生成的当前最优解保存在$S _ { \\mathrm { 1 } }$ 集合中，将其由透镜成像生成的反向解保存在集合 $S _ { 2 }$ 中。并生成合 $S _ { 1 }$ 和 $S _ { 2 }$ 的的笛卡尔乘积集合 $\\boldsymbol { \\mathscr { Q } }$ ，如式(8)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = S _ { 1 } \\times S _ { 2 } = \\{ ( x _ { 1 } , x _ { 2 } ) { \\big | } x _ { 1 } \\in S _ { 1 } \\ a n d \\ x _ { 2 } \\in S _ { 2 } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在随后的算法迭代中，如果当前迭代次数不是10的倍数，则将 $s _ { 1 } , \\ s _ { 2 }$ 记录的个体的适应值分别和当前最优解及其反向解的适应值进行对比并更新集合 $S _ { 1 }$ 和 $S _ { 2 }$ 。每隔10次迭代，再按式(8)重新生成集合 $\\boldsymbol { \\mathscr { Q } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3dd54e8dba91928c677988ce61b3a55bb83b74e611165553496229d8a7117fcc.jpg",
+        "img_caption": [
+            "图1透镜成像",
+            "Fig.1 Lens imaging "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "集合 $S _ { 1 }$ 和 $S _ { 2 }$ 分别记录了当前已知的适应值最好的10 个解和其反向解，而集合 $\\boldsymbol { \\mathscr { Q } }$ 作为 $S _ { 1 }$ 和 $S _ { 2 }$ 记录了最多100个由 $S _ { \\mathrm { 1 } }$ 和 $S _ { 2 }$ 的解构成的有序对。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于透镜成像中的 $n$ 是控制者原生解和镜像之间的距离，较小的 $n$ 生成的镜像范围更大，而较大的 $n$ 生成的镜像范围更小。通过上述的改进之后固定的 $n$ 值已经很难适应FPA算法全局和局部搜索随机转换的机制，因此需要改变 $n$ 取值方式，具体公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn { = } ( 1 { + } ( t / T ) ^ { 1 / 2 } ) ^ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $t$ 代表当前迭代次数； $T$ 代表最大迭代次数； $k$ 为控制常数，控制曲线变化趋势。因此 $k$ 值能够控制缩放因子的大小，也就是控制原生解和镜像解之间的距离，所以为了精确控制常数 $k$ 的取值，选取Rastrigin's 函数作为对比不同 $k$ 值得测试函数，如图2所示。3次对比， $k$ 分别取5、10、15。通过图3可以看出当 $k$ 取10时效果最佳。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$n$ 作为缩放因子迭代初期， $n$ 值被放大镜像的取值范围就被放大，算法的探索区域也随之变大，有利于算法的全局搜索和探索速度。随着迭代次数的增加 $n$ 也随之变小，相应的镜像取值范围也变小，加强算法的搜索精度，同时也有利于帮助算法跳出局部最优解。其次如果算法迭代到后期，当前轮和上一轮获取的解有可能会一样，那么存储在 $S _ { 1 }$ 中解会重复。但是通过自适应收缩因子 $n$ 计算不同轮的反向解是不一样的，也就避免了重复存储的弊端。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相较于基本的透镜成像策略，增前型透镜成像策略改变了每一次迭代生成当前解的反向解模式。而是改为每十次迭代为一回合，通过把每次迭代生成的解和反向解存入 $S _ { 1 }$ 和 $S _ { 2 }$ 集合中，并且按式(8)生成集合 $\\boldsymbol { \\mathcal { Q } }$ 。集合 $\\boldsymbol { \\mathcal { Q } }$ 与 $S _ { \\mathrm { 1 } }$ 和 $S _ { 2 }$ 的关系就是一种映射，可以通过集合 $\\boldsymbol { \\mathcal { Q } }$ 中的二元组映射到 $S _ { 1 }$ 和 $S _ { 2 }$ 内的个体。通过把集合 $\\boldsymbol { \\mathscr { Q } }$ 内部二元组映射的解与反向解和当前解与反向解作对比，胜出者作为更新种群的向量。相较于基本的透镜成像策略的每一轮生成一个当前解的反向解，增强型透镜成像策略可以每一回合生成100个有序对，通过搭配不同轮的反向解找寻到最合适的反向解。因此增强型透镜成像策略在原有的基础上进一步扩大了搜索空间，有利于算法的多样性。并且对比透镜成像策略的固定缩放因子 $n$ ，本文的增强型透镜成像策略采取自适应的缩放因子，使得策略可以更好的适应整个搜索过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了对比增强型透镜成像和透镜成像策略的优劣性，以基本 FPA 算法为基础，选取经典测试函数 Sphere、Matyas、Rastrigin's和Ackely's作为参照，详细内容如表1所示，适应值如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/571340d839e1aea27813f3b28c5a285b0e224ba5f558db0deda7598936b495e2.jpg",
+        "table_caption": [
+            "表1测试函数",
+            "Tab.1 Test function "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>测试函数</td><td>维度</td><td>范围</td><td>最优解峰值</td></tr><tr><td>f(x）=∑x²</td><td>30</td><td>[-100,100]</td><td>0 单峰</td></tr><tr><td>f(x,y)=0.26*(x²+y²)-0.48*x*y</td><td>30</td><td>[-100,100]</td><td>0 单峰</td></tr><tr><td>f(x,y)=-20+x²+y²- 10(cos 2π x +cos 2π y)</td><td>30</td><td>[-5.12,5.12]</td><td>0 多峰</td></tr><tr><td>f(x,y)=-20exp(-0.2√0.5(x²+y²))- exp(0.5(cos(2πx)+cos(2πy)))+20+e</td><td>30</td><td>[-30,30]</td><td>0 多峰</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/951887c79dfe98756669bc3a9f0248973759ec8f8bd25b794ead4cedfdd6514e.jpg",
+        "img_caption": [
+            "图2对比不同 $k$ 值结果 ",
+            "Fig.2Compare the results of different k values "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe1ecf06bc495ca956aad621f7f4a6c28854e71f64a2dc6340dc9fcb8130e6d2.jpg",
+        "img_caption": [
+            "图3策略适应值对比 ",
+            "Fig.3Comparison of policy adaptation values "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图3中可以很明显的看出，在四个测试函数上，增强型透镜成像FPA算法比透镜成像FPA算法有更好的收敛性和收敛速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基于随机邻域变异策略的搜索方式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在解决复杂问题时，随着算法进入探索后期，一旦陷入局部最优解，FPA算法往往很难跳出局部最优。一般的解决方案是在搜索过程中尽量增加候选解的多样性。如混沌映射[14]，模拟退火[15]等。近年，因差分进化算法(DE)[16]的变异策略的高效性和参数简单已经被许多学者用来和其他算法结合。DE 算法使用的基本的变异策略有两种：“DE/rand/1”和“DE/best/1”[17]。在前者策略中基向量从种群中随机选择，这意味具有更好的探索性，但开发性较差。后者则获取种群中最好的候选解作为基向量，从而具有较好的开发性，但探索性相对较差。Das[18]进一步提出了基于邻域的变异策略(DE/neighbor/1)，该策略引入邻域的信息指导搜索，以加快收敛的速度和收敛的精度。对于种群中的每个个体在每一代，DE/neighbor/1随机的从群体中选择邻域集合，并以基础向量中当前个体邻域中的最好一个作为基向量。DE/neighbor/1变异策略可以表述为如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i } = x _ { n b e s t } + F \\times ( x _ { r 1 } - x _ { r 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $x _ { n b e s t }$ 为邻域内最优个体； $x _ { r 1 }$ 和 $x _ { r 2 }$ 为邻域内剩余个体中随机挑选的个体。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种基于DE/neighbor/1的改进变异策略，并将其应用于FPA算的局部搜索。改进变异策略表述如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr a n d < q : x _ { i } ^ { t + 1 } = x ^ { * } + r a n d ( x _ { j } ^ { t } - x _ { i } ^ { t } ) + r a n d ( x _ { l } ^ { t } - x _ { k } ^ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr a n d > q : x _ { i } ^ { t + 1 } = x _ { n b e s t } ^ { t } + F ( x _ { j } ^ { t } - x _ { i } ^ { t } ) + F ( x _ { l } ^ { t } - x _ { k } ^ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\scriptstyle q \\in [ 0 , 1 ]$ 的常数， $\\boldsymbol { x } _ { i } ^ { t + 1 } , \\boldsymbol { x } _ { i } ^ { t }$ 代表第 $\\mathbf { \\Phi } _ { t + 1 , t }$ 次的值， $x ^ { * }$ 全局最优解， $x _ { n b e s t } ^ { t }$ 是邻域内最优解。对于式(11)中 $x _ { j } ^ { t } , x _ { l } ^ { t } , x _ { k } ^ { t }$ 都是从个体",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中随机选取的，而式(12)中 $x _ { j } ^ { t } , x _ { l } ^ { t } , x _ { k } ^ { t }$ 都是从邻域内随机选取的个体。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于邻域的划分以当前解为中心，按欧氏距离由小到大选取邻域集合， $n$ 维的欧氏距离公式如下所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd = \\sqrt { \\sum _ { j = 1 } ^ { n } ( x _ { m , j } - x _ { n , j } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "需要注意每一代邻域内有数量限制，而算法迭代过程中的 $x _ { i }$ 选择合理的邻域个体数量 $N _ { i }$ ，对平衡全局和局部搜索能力，提高算法寻优能力起着重要作用。受文献[19]启发，邻域数量按如下公式设置：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { i } = N _ { l b } + ( N _ { u b } - N _ { l b } ) { \\times } \\frac { f ( x _ { i } ) - f _ { \\mathrm { m i n } } } { \\displaystyle \\sum _ { j = 1 } ^ { N P } ( f ( x _ { j } ) - f _ { \\mathrm { m i n } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $N _ { l b }$ 和 $N _ { u b }$ 分别代表 $N$ 的下限和上限， $f _ { \\mathrm { m i n } }$ 代表当前种群适应值的最小值， $f ( x _ { i } )$ 为个体 $i$ 当代的适应值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法初期，种群中优质个体数量较少，能够寻得全局最优的概率较小，所以前期需要加强全局搜索能力，以获得较多的优质个体，提高全局寻优的能力。根据式(14)可知，初期$\\sum _ { j = 1 } ^ { N P } ( f ( x _ { j } ) - f _ { \\operatorname* { m i n } } )$ 远大于 $f ( x _ { i } ) { - } f _ { \\operatorname* { m i n } }$ ， $N _ { i }$ 趋向于 $N _ { l b }$ 。此时算法具有较好的全局搜索能力，从而加速搜索能力。随着迭代次数的增加，种群中优质个体不断增加， $\\sum _ { j = 1 } ^ { N P } ( f ( x _ { j } ) - f _ { \\operatorname* { m i n } } )$ 和 $f ( x _ { i } ) { - } f _ { \\operatorname* { m i n } }$ （204号均趋向于0， $N _ { i }$ 趋向于 $N _ { u b }$ ，此时该算法具有较好的局部开发能力，从而根据邻域信息寻找最优解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(10)相较于差分进化算法中的单个向量的策略，使用两个差分向量的变异策略可以提高种群的多样性，并且能够帮助算法跳出局部最优解。而且使用全局最优解作为当代的基向量，有利于解的优良基因被继承。而式(12)中的 $F$ 代表变异因子，是一个实常数因数，控制差分向量缩放的作用。对于算法而言 $F$ 如果取固定值的话太小或者太大都会导致算法过早收敛。因此使用自适应变异因子[20]去避免不合理的参数设置带来的影响，具体公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\left\\{ \\begin{array} { l l } { F _ { \\mathrm { m a x } } - ( F _ { \\mathrm { m a x } } - F _ { \\mathrm { m i n } } ) \\times \\displaystyle \\frac { f _ { i } - f _ { \\mathrm { m i n } } } { f _ { \\mathrm { m a x } } + f _ { \\mathrm { m i n } } } , f _ { i } \\geq \\bar { f } } \\\\ { F _ { \\mathrm { m a x } } + \\mathrm { r a n d } \\times F _ { \\mathrm { m i n } } ~ } & { f _ { i } < \\bar { f } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $F _ { \\mathrm { m a x } }$ 和 $F _ { \\mathrm { m i n } }$ 分别为 $F$ 的上下限；rand 是[0,1]之间的随机值； $f _ { i }$ 为个体 $x _ { i }$ 的适应度值； $f _ { \\mathrm { m a x } }$ （ $f _ { \\mathrm { m i n } }$ 为当前种群中最大最小的适应度值； $\\overline { { f } }$ 为当前种群的平均适应值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(15)在文献[20]的自适应因子的基础上作出改动，当 $f _ { i } <$ $\\overline { { f } }$ 时不在是固定的 $F _ { \\mathrm { m a x } }$ ，而是一个以 $F _ { \\mathrm { m a x } }$ 为下限的随机值，增加算法的随机性。自适应变异因子能够平衡算法寻优能力，一定程度上降低算法对参数的敏感程度，保证收敛速度和避免早熟。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步验证策略的有效性，把加入随机邻域变异策略的FPA和标准FPA算法进行比较，测试函数如表1所示，对比图如4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4中Sphere 和Matyas 函数分别选取了第100代和第300 代的解作为对比，Rastrigin's和Ackely's选取的是第 800和第1000代的数据作为对比。选取的对比函数包含单峰和多峰，充分对比策略对于不同类型函数的适应性。需要注意的是随机邻域变异FPA在 Sphere 和Matyas 函数上只有一个点，因为两次取值点重合了，而等高线上没有FPA的点是由于FPA算法获取的解超出了范围，也就是说随机邻域变异FPA 在第100次迭代的时候已经收敛到0附近了，而同一时期的FPA算法离最优点很远。对于Rastrigin's和Ackely's函数而言分别取了第800代和第1000代作比较，可以看见两次取值都是不如随机邻域变异FPA算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过自适应邻域数量策略，动态调整种群邻域的的数量，MSFPA充分利用种群中“随机”信息和邻域内“最优”信息，合理的平衡了算法的全局和局部搜索能力，加速了信息的交换速度，增加种群的多样性，避免算法陷入局部最优解的同时，加速了算法的寻优速度，而且没有引入其他参数，算法的复杂度没有增加。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc05e99ac90aa4d153e8d7129d50bcc59fde37738f34812c037853ad7b105f1c.jpg",
+        "img_caption": [
+            "图4策略等高线对比",
+            "Fig.4Strategic contour comparison "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3MSFPA的全局和局部搜索能力分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法的全局和局搜索能力通常作为衡量算法性能的两个指标。全局搜索代表算法的前中期的收敛能力，依靠全局搜索算法可以收敛到全局最优解大致的位置。而局部搜索是算法后期提升算法的搜索精度，能够让算法计算出的解无限接近全局最优解。FPA算法依靠概率转换因子 $p$ 去切换全局和局部搜索，全局搜索通过Levy飞行增加算法的随机性有利于算法的前期前中期探索能力，最后通过式(1)更新种群，有利于算法朝着全局最优解方向探索。局部搜索通过式(3)更新种群，从种群中选择最好的候选解作为基向量，保证算法的局部搜索阶段具有较好的开发性。而MSFPA算法引入增强型透镜成像，通过统计10轮的当前解以及对应反向解的排列组合后选择出全局最优解。相较于透镜成像只是对比当前解和反向解，增强型透镜成像策略拥有更多的候选解供其选择，增加算法的全局搜索能力以及种群的多样性，并且通过对缩放因子 $n$ 采取自适应的方式控制当前解和反向解的距离，使其适应整个搜索阶段。另外增加了随机邻域变异策略，在花授粉的局部搜索阶段，对比常数因子q和rand决定何种方式更新种群。式(12)因为使用全局最优解作为基向量，使其偏向于全局搜索的方式，保证了算法即使在局部搜索阶段也保持一定的收敛速度；式(13)使用是邻域集合作为基向量，并且集合内部的数量是会随着迭代变化更好的适应算法前期收敛速度快，后期收敛精度高的需求。并且配合自适应的变异因子控制算法的平衡性，使得MSFPA算法有着更好的综合寻优能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4MSFPA算法的时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设需要优化的目标函数为 $f ( x )$ ，解空间的维度为 $d$ ，根据FPA算法的步骤，FPA算法的时间复杂度为 $O ( d + f ( d ) )$ 。根据MSFPA算法步骤，种群规模为 $n$ ，初始化个体位置的时间复杂度为 $O ( n d )$ ，根据初始位置生成适应值的时间为 $f ( d )$ 。全局搜索中基于Levy飞行生成步长的时间为 $\\xi _ { \\mathrm { l } }$ ，根据当前位置产生下一代时间为 $\\xi _ { 2 }$ ；局部搜索中的变异策略产生随机数的时间为 $\\xi _ { 3 }$ ，根据当前位置产生下一代的时间为 $\\xi _ { 4 }$ ，设置变异因子 $F$ 的时间为 $\\xi _ { 5 }$ ，设置邻域集合的时间为 $\\xi _ { 6 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "全局搜索的时间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO ( n d ) + O ( n ( f ( d ) + \\xi _ { 1 } d + \\xi _ { 2 } d + f ( d ) ) ) = O ( d + f ( d ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "局部搜索的时间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO ( n d ) + O ( n ( f ( d ) + \\xi _ { 3 } + \\xi _ { 4 } + \\xi _ { 5 } + \\xi _ { 6 } + f ( d ) ) ) = O ( d + f ( d ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假设得到新的适应值与当前适应值比较的时间为$\\sigma _ { 1 }$ ，经过比较后作为当前适应值的时间为 $\\sigma _ { 2 }$ ，后续生成精英集合以及对比过后生成新适应值作为全局适应值的时间为 $\\sigma _ { 3 }$ 。则算法总的时间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 ^ { * } O ( d + f ( d ) ) + O ( n ( \\sigma _ { 1 } + \\sigma _ { 2 } + \\sigma _ { 3 } ) ) = O ( d + f ( d ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可以看到MSFPA与FPA算法的时间复杂度属于同一个数量级别，增强型透镜成像以及随机邻域的搜索策略并没有增加算法的时间复杂度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "改进的MSFPA算法伪代码如下所示。算法1MSFPA算法  \n输入：目标函数 $f ( x )$ ；种群规模 $N P$ ；转换概率 $p$ 和概率因子 $q$ ；变  \n异因子 $F$ 上下限( $F _ { \\mathrm { m a x } } , F _ { \\mathrm { m i n } }$ )，最大迭代次数 Maxlter 。  \n输出：全局最优解。  \n初始化种群，在初始化种群中找到全局最优解 $x ^ { * }$ 。  \nfor $\\scriptstyle { \\mathrm { t } } = 1$ :Maxlterfor $\\dot { \\bf 1 } = \\bf 1 : \\boldsymbol { N P }$ ifrand $> p$ 进行全局授粉阶段绘制服从式(2)分布的随机步长向量 $L$ （204号按照式(1)对 $\\boldsymbol { x } _ { i } ^ { t + 1 }$ 位置进行更新else 进行局部授粉if rand $< q$ （204号在当前种群中随机选取3个个体按照(12)对 $\\boldsymbol { x } _ { i } ^ { t + 1 }$ 位置进行更新elseif 当前解的适应值 $> =$ mean(适应值)按式(16) $f _ { i } > = { \\overline { { f } } }$ 部分设置变异因 $F$ else按式(16) $f _ { i } < { \\overline { { f } } }$ 部分设置变异因子 $F$ end按式(15)设置邻域大小 $N$ 按式(14)计算距离，选取离当前最优解最近的 $N$ 个解在当前种群中随机选取3个个体按式(13)对 $\\boldsymbol { x } _ { i } ^ { t + 1 }$ 位置进行更新endend按式(10)定义缩放因子for i=1: NP按式(8)生成当前解的反向解并进行越界处理对比当前解和反向解的适应值，最小的作为 当前解的适应值endif t<10把当前解存入 $S _ { 1 }$ 集合把当前解的反向解存入 $S _ { 2 }$ 集合else if mod(t,10)\\~= 0把当前解和当前解的反向解与 $S _ { 1 }$ 和 $S _ { 2 }$ 中的解对比，淘汰劣质解else if mod $( \\operatorname { t } , 1 \\Theta ) = = \\ \\Theta$ 得到 $S _ { 1 }$ 和 $S _ { 2 }$ 下标的有序对集合 $\\boldsymbol { \\mathcal { Q } }$ for $\\textbf { j } = \\ 1 { : } s \\mathrm { i } z \\mathbf { e } ( \\textbf { \\em Q } , \\mathbf { 1 } )$ （204号求 $\\boldsymbol { \\mathcal { Q } }$ 集合二元组对应 $S _ { 1 }$ 和 $S _ { 2 }$ 内部个体的适应值并记录两  \n者适应值之和最小的一组有序对为最优组if 最优组第一元素的适应值 $>$ 最优组第二元素的适应值第二元素映射的 $S _ { 2 }$ 中个体作为当前解else第一元素映射的 $S _ { 1 }$ 中个体作为当前解endend  \nend  \n对比种群个体， $x ^ { * }$ =最优个体，作为全局最优解 $x ^ { * }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果和分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了研究多策略花授粉算法的有效性，选取CEC2013测试函数集进行测试，依次对30/80维度进行测试，各算法独立运行10次，记录最优值、平均值、标准差并与基本的花授粉算法和其他改进算法进行对比。参与对比的算法如表2所示，测试函数基本信息如表3所示，适应度曲线和最优解分布如图5和6所示。测试函数分为三类：F1-F5单模态函数，F5-F12为多模态函数，F13-F15为复合函数。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c167bb56ed47c0f5a88ad948e806c5ef8ce589eaaf20d17bc8a31cb4f9863e6.jpg",
+        "table_caption": [
+            "Tab.2Comparison algorithm "
+        ],
+        "table_footnote": [
+            "表3测试函数CEC2013说明"
+        ],
+        "table_body": "<html><body><table><tr><td>算法</td><td>算法简称</td></tr><tr><td>花授粉算法</td><td>FPA</td></tr><tr><td>三重动态调整的花授粉算法</td><td>HLFPA[21]</td></tr><tr><td>t-分布扰动策略和变异策略的花授粉算法</td><td>TMFPA[22]</td></tr><tr><td>多策略融合的麻雀算法</td><td>ISSA[23]</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f9e9f437d44f3cca101ebc5bce569c5ca3f759a2ae05e9acfc245c38dcba7c2.jpg",
+        "table_caption": [
+            "表2对比算法",
+            "Tab.3Test function CEC2013 description "
+        ],
+        "table_footnote": [
+            "注意：上述函数均来自CEC2013测试集",
+            "单模态函数F1-F5：主要特征是在搜索区间内只有一个局部最小值。"
+        ],
+        "table_body": "<html><body><table><tr><td>Type</td><td>Name</td><td>f*=fi(x*）</td></tr><tr><td rowspan=\"2\">Unimodal Functions</td><td>F1:Sphere Function</td><td>-1400</td></tr><tr><td>F2:Rotated Discus Function</td><td>-1100</td></tr><tr><td rowspan=\"9\">Basic Multimodal Functions</td><td>F3:Different Powers Function</td><td>-1000</td></tr><tr><td>F4:Rotated Rosenbrock's Function</td><td>-900</td></tr><tr><td>F5:Rotated Ackley's Function</td><td>-700</td></tr><tr><td>F6:RotatedWeierstrassFunction</td><td>-600</td></tr><tr><td>F7:Rastrigin's Function</td><td>-400</td></tr><tr><td>F8:Roatetd Rastrigin's Function</td><td>-300</td></tr><tr><td>F9:Non-Continuous Rotated</td><td>-200</td></tr><tr><td>Rastrigin's Function</td><td></td></tr><tr><td>F10:Schwefel'sFunction F11:Lunacek Bi_Rastrigin Function</td><td>-100</td></tr><tr><td rowspan=\"6\">Composition</td><td></td><td>300</td></tr><tr><td>F12:Rotated Lunacek Bi_Rastrigin</td><td>400</td></tr><tr><td>Function F13:Composition Function 2</td><td></td></tr><tr><td>(n=3,Unrotated)</td><td>800</td></tr><tr><td>F14:Composition Function 4</td><td>1000</td></tr><tr><td>(n=3,Unrotated) F15:Composition Function 8</td><td>1400</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "多模态函数(F6-F12):这些函数具有多个局部最优值，但是与每个函数相对应的单个全局最优值。经典导数的优化算法在此类函数上不能取得满意效果，因为它们会陷入局部最优解。此类别的7个函数有以下特征：在任何地方都是不可分离的、不对称、连续的，但仅在一组点上是可区分的；在任何地方都是连续的，但在任何地方都是可微分的；具有从局部最优到全局最优的狭窄谷，具有大量的局部最优值，并且最佳和次佳最优解距离较远。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "复合函数(F13-F15)：每个复合函数均由多个基本函数组成。3个复合函数都是多模态，不可分离的和部队称的，并且围绕不同的局部最优具有不同特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在实验中，每个函数都有一个相对应的全局最优值，该最优值不会随着问题的维度变化。实验所有函数的可变范围固定为 $[ - 1 0 0 , 1 0 0 ] ^ { \\scriptscriptstyle D }$ ，本次实验对15个函数测试每种算法，并且上述函数反复随机运行10次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4、5分别给出了30维、80维的实验数据。从表4中数据可以看出F1-F15的函数MSFPA都是第一，这意味着该算法在整个搜索过程中寻优的精度和稳定性都要好于对比函数并且在其他对比算法搜索已经停滞的时候MSFPA算法依旧在向下探索说明基于笛卡尔积的透镜成像策略和随机邻域的变异策略可以帮助MSFPA算法跳出局部最优解。在F13-F15复合函数上均是排名第一，这说明MSFPA算法在处理复杂问题的寻优能力也强于对比函数并且对比其他算法MSFPA算法的收敛速度和收敛精度都要更高。在30维测试情况下，MSFPA算法的AveRank为1，排名第一。这表明融入多策略后该算法的低维度问题寻优能力得到了提升，并且搜索精度方面得到了加强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5列出了算法在80维测试函数上的测试数据。基本和30维数据相似，除了F5和F10，其他的单模态，多模态和复合函数上都优于对比算法，最后的AveRank值为1.33，排名第一。其AveRank值和30维接近，说明维度提升并没有降低该算法的性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5是在30维的情况下，各类算法的收敛情况，可以明显看出，列出的图集中在单模态，多模态和复合函数上，其收敛精度都要优于大部分的改进算法。MSFPA利用透镜成像和随机邻域的变异策略扩展搜索范围和改进搜索精度。例如F5、F6、F7、F8、F9和F10，其他函数都基本停滞的时候，但是MSFPA算法还在向下搜索。这表明改进后确实对算法的寻优精度有显著提升，而且该算法的收敛速度对比其他的算法也相对较快。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/31df02a053481b94fb38f01fa5473ec20236ad32d4daf2a24d0c11c3aab98702.jpg",
+        "img_caption": [
+            "图5适应度曲线",
+            "Fig.5Adaptability curves "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图6是所有算法1000次迭代获取最优解的箱线图，F1、F6、F8、F10和F13中的MSFPA箱体较宽，代表该算法的所有最优值波动情况大，也就是算法收敛速度较快导致每一代的最优解之间跨度较大。其他的测试函数中箱体比较窄，代表算法从开始搜索到迭代结束获取的所有解变化不大。从图7可以看出 MSFPA在F1、F2、F6、F7、F8、F11、F13、F15中箱体的下限比其他算法更低，也就代表它的搜索精度更高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在15个测试函数中，30维有15个，80维有13个测试函数是优于FPA、HLFPA、TMFPA、ISSA。这可以说明增强型透镜成像策略和随机邻域的变异策略有助于跳出局部最优解，并能够指导算法后续的探索。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1Friedman 检验 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了验证MSFPA算法和其他算法的显著性差异，采用Friedman检验[24]对算法进行参数检验。Friedman检验是一种非参数双向方差检验方法，一般用来检测数据之间的显著性差异，多用来做单目标之间的优劣比较。一般实现步骤如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a)收集实验数据。列出每个问题i的最好与最差结果排名， $r _ { i } ^ { j } ( 1 \\le K \\le j )$ 。b)求出所有算法的平均排名，并计算出最终排名。$\\begin{array} { r } { R _ { j } = ( 1 - n ) \\sum _ { i = 1 } ^ { n } r _ { i } ^ { j } } \\end{array}$ 。秩平均值越小则代表算法性能越好。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Friedman统计值计算公式如(12)所示， $F _ { f }$ 的值越小，各算法之间的差异性就越大，当 $\\mathfrak { n }$ 和 $\\mathbf { k }$ 足够大时(一般 $n { > } 1 0 , \\mathbf { k } { > } 5 ,$ ），它是服从k-1自由度的 $\\chi ^ { 2 }$ 分布。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { f } = \\frac { 1 2 n } { k ( k + 1 ) } [ \\sum _ { j } R _ { j } ^ { 2 } - k ( k - 1 ) ^ { 2 } / 4 ]\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将检验MSFPA算法和对比算法在30维，80维的情况，检验结果如表6所示。表中的 $\\mathrm { \\bf ~ P }$ -value表示渐进显著性，用来判断是否存在显著性差异的重要指标，如果小于0.01，则表示各项数据之间存在显著性差异。表中其他值表示各算法的秩平均值。表中的30、80维的 $\\mathrm { ~ \\bf ~ P ~ }$ -value 值明显小于0.01。这表明MSFPA算法和其他对比算法存在显著性差异，这种差异有可能是多策略带来的解的多样性以及搜索能力的加强。各算法的秩平均值中，MSFPA在每个维度都是最小的，因此MSFPA算法在各维度上的优化能力都得到了提升。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b31e013d13cb0bb76d0a5654aea6978c035d491d8dcae4cbfbbf2753326d0372.jpg",
+        "img_caption": [
+            "图6最优解箱线图",
+            "Fig.6Optimal solution boxplot "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4汽车动力传动参数优化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由内燃机理论可知，汽车的动力性和燃油经济性指标是相互矛盾的。即无法脱离汽车的动力性而单纯追求燃油经济性，也无法摆脱燃油经济性追求动力性，因此只能在汽车的动力性和燃油经济性选择一个平衡方案。而汽车动力性燃油经济性的综合评价体系和指标包括：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a)动力性能发挥程度的评价指标为驱动功率损失率。  \nb)经济性能发挥程度的评价指标为有效效率利用率。  \nc）汽车动力传动系统匹配的综合指标为汽车能量利用率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "优化模型的设计变量选为",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = [ X _ { 1 } , X _ { 2 } , X _ { 3 } , X _ { 4 } , X _ { 5 } , X _ { 6 } ] ^ { T } = [ i _ { g 1 } , i _ { g 2 } , i _ { g 3 } , i _ { g 4 } , i _ { g 5 } , i _ { 0 } ] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中： $i _ { g j }$ 为变速器第 $j$ 档的传动比( $j = 1 , 2 . . . . 5 \\$ ） $i _ { g 1 } \\in [ 1 , 5 ]$ ， $i _ { g 2 } \\in [ 1 , 4 ]$ ，$i _ { g 3 } \\in [ 0 . 5 , 3 ]$ ， $i _ { g 4 } \\in [ 0 . 5 , 2 ]$ 2 $i _ { g 5 } \\in [ 0 . 3 , 1 ]$ ， $i _ { 0 } \\in [ 2 , 6 ]$ 为主减速器传动比。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4实验结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/30841cb8ede994c1c61aa97201e35d328a70bd5f8147a8cce8c80f8eef044429.jpg",
+        "table_caption": [
+            "Tab.4Experimental results "
+        ],
+        "table_footnote": [
+            "维度：30，以上数据独立运行10次的均值"
+        ],
+        "table_body": "<html><body><table><tr><td>测试函数</td><td>Mean/Std/Rank</td><td>FPA</td><td>TMFPA</td><td>HLFPA</td><td>ISSA</td><td>MSFPA</td></tr><tr><td rowspan=\"2\">f1</td><td rowspan=\"2\">Mean/Std Rank</td><td>1.60E+03/2.68E+02</td><td>1.00E-01/9.50E-02</td><td>8.58E+03/1.78E+03</td><td>9.93E+00/1.88E+01</td><td>3.30E-12/1.91E-12</td></tr><tr><td>4</td><td>2</td><td>5</td><td>3</td><td>1</td></tr><tr><td>f2</td><td>Mean/Std</td><td>9.24E+04/2.07E+04</td><td>3.13E+03/1.66E+03</td><td>7.78E+04/165E+04</td><td>3.76E+04/523E+03</td><td>1.32E+02/1.25E+02</td></tr><tr><td rowspan=\"2\">f3</td><td rowspan=\"2\">Mean/Std</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1.42E+02/4.18E+01</td><td>7.15E-01/3.46E-01</td><td>2.24E+03/3.25E+02</td><td>1.80E+02/5.37E+01</td><td>5.93E-08/4.15E-08</td></tr><tr><td></td><td>Rank</td><td>3</td><td>2</td><td>5</td><td>4</td><td>1</td></tr><tr><td rowspan=\"2\">f4</td><td rowspan=\"2\">Mean/Std Rank</td><td>1.36E+02/2.79E+01</td><td>4.34E+01/2.77E+01</td><td>5.71E+02/1.27E+02</td><td>1.48E+02/3.56E+01</td><td>2.01E+01/1.88E+01</td></tr><tr><td>3</td><td>2</td><td>5</td><td>4</td><td>1</td></tr><tr><td rowspan=\"2\">f5</td><td rowspan=\"2\">Mean/Sstd</td><td>2.10E+01/6.17E-02</td><td>2.10E+01/6.63E-02</td><td>2.10E+01/4.96E-02</td><td>2.10E+01/4.45E-02</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>2.10E+01/7.18E-02</td></tr><tr><td rowspan=\"2\">f6</td><td>Mean/Std</td><td>3.90E+01/1.53E+00</td><td>2.58E+01/5.09E+0</td><td>3.95E+01/1.99E+00</td><td>4.40E+01/2.71E+00</td><td>2.21E+01/4.25E+00</td></tr><tr><td colspan=\"2\"></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">f7</td><td>Mean/Std Rank Mean/Std</td><td>2.55E+02/2.84E+01</td><td>1.09E+02/2.70E+01</td><td>3.54E+02/2.95E+01</td><td>8.40E+02/7.62E+01</td><td>4.29E+01/1.39E+01</td></tr><tr><td colspan=\"2\">3</td><td>2</td><td>4</td><td>5</td><td>1</td></tr><tr><td rowspan=\"2\">f8</td><td>Rank</td><td>2.96E+02/2.21E+01 3</td><td>1.97E+02/3.95E+01</td><td>3.87E+02/2.92E+01</td><td>9.38E+02/2.41E+01</td><td>6.94E+01/2.94E+01</td></tr><tr><td colspan=\"2\"></td><td>2</td><td>4</td><td>5</td><td>1</td></tr><tr><td rowspan=\"2\">f9 f10</td><td>Mean/Std Mean/Std</td><td>3.16E+02/2.54E+01</td><td>2.44E+02/3.47E+01</td><td>3.71E+02/2.02E+01</td><td>1.03E+03/8.36E+01</td><td>1.27E+02/2.75E+01</td></tr><tr><td colspan=\"2\">4.38E+03/6.58E+02</td><td></td><td>7.23E+03/2.82E+02</td><td></td><td>2.89E+03/5.20E+02</td></tr><tr><td rowspan=\"2\">f11</td><td>Rank Mean/Std</td><td>3</td><td>4.14E+03/5.15E+02 2</td><td>5</td><td>5.86E+03/7.56E+02 4</td><td>1</td></tr><tr><td colspan=\"2\">4.01E+02/5.63E+01</td><td>2.47E+02/5.85E+01</td><td>5.70E+02/3.49E+01</td><td>8.35E+02/1.89E+01</td><td>1.23E+02/1.52E+01</td></tr><tr><td rowspan=\"2\">f12</td><td>Rank Mean/Std</td><td>3</td><td>2</td><td>4</td><td>5</td><td>1</td></tr><tr><td colspan=\"2\">3.94E+02/4.29E+01</td><td>3.03E+02/4.46E+01</td><td>5.77E+02/5.26E+01</td><td>8.16E+02/3.97E+01</td><td>1.47E+02/3.86E+01</td></tr><tr><td rowspan=\"2\">f13</td><td>Rank Mean/Std</td><td>3</td><td>2</td><td>4</td><td>5</td><td>1</td></tr><tr><td colspan=\"2\">5.20E+03/9.38E+02</td><td>4.56E+03/3.92E+02</td><td>7.49E+03/4.03E+02</td><td>7.64E+03/7.81E+02</td><td>3.73E+03/7.74E+02</td></tr><tr><td rowspan=\"2\">f14</td><td>Rank Mean/Std Rank</td><td>3 2.81E+02/6.23E+00</td><td>2</td><td>4</td><td>5</td><td>1</td></tr><tr><td colspan=\"2\"></td><td>2.72E+02/7.28E+00</td><td>2.95E+02/5.77E+00</td><td>7.53E+02/4.09E+01</td><td>2.64E+02/7.69E+00</td></tr><tr><td colspan=\"2\">Mean/Std f15</td><td>3</td><td>2</td><td>4</td><td>5</td><td>1</td></tr><tr><td colspan=\"2\">Rank</td><td>1.79E+03/1.42E+02</td><td>1.09E+03/1.02E+03 2</td><td>2.35E+03/1.86E+02</td><td>7.71E+03/1.08E+03</td><td>4.19E+02/3.75E+02</td></tr><tr><td colspan=\"2\">Count</td><td>3 0</td><td>0</td><td>4 0</td><td>5</td><td>1</td></tr><tr><td colspan=\"2\">Ave Rank</td><td></td><td>2</td><td></td><td>0</td><td>15</td></tr><tr><td colspan=\"2\">Total Rank</td><td>3.2 3</td><td>2</td><td>4.2 4</td><td>4.53 5</td><td>1 1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表5实验结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f435382d33cb26ea2b1b25acdfd5881f10f78b63d0d8cb642bde38c93283f6a.jpg",
+        "table_caption": [
+            "Tab.5Experimental results "
+        ],
+        "table_footnote": [
+            "维度：80，以上数据独立运行10次的均值"
+        ],
+        "table_body": "<html><body><table><tr><td>测试函数</td><td>Mean/Std/Rank</td><td>FPA</td><td>TMFPA</td><td>HLFPA</td><td>ISSA</td><td>MSFPA</td></tr><tr><td rowspan=\"3\">f1</td><td></td><td></td><td></td><td>9.70E+04/15E404</td><td>1.97E+04/6956-03</td><td>5.10E-027168-02</td></tr><tr><td>Meanstd</td><td>5.70E+04/1.13E:04</td><td>1.18E+03/425E-02</td><td></td><td></td><td></td></tr><tr><td>Mean/Std</td><td>1.34E+05/2.47E+04</td><td>3.63E+03/1.47E+03</td><td>3.08E+05/2.79E+04</td><td>1.24E+05/1.10E+04</td><td>9.99E+02/9.58E+02</td></tr><tr><td rowspan=\"2\">f2</td><td>Rank</td><td>4</td><td>2</td><td>5</td><td>3</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">f3</td><td>Meanstd</td><td>8.06E+03/1.30E+-03</td><td>5.02E+02/393E402</td><td>1.98E+04/36E-03</td><td>2.40E+03/5.37F4-02</td><td>4.26E-0171.3BE-01</td></tr><tr><td>Mean/Std</td><td>6.05E+03/1.50E+03</td><td>5.13E+02/8.41E+01</td><td>1.37E+04/3.43E+03</td><td>2.26E+03/5.99E+02</td><td>2.53E+02/5.81E+01</td></tr><tr><td rowspan=\"2\">f4</td><td>Rank</td><td>4</td><td>2</td><td>5</td><td>3</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">f5</td><td>Mean'std</td><td>2.13E+012.496-02</td><td>2.13E+01/2.96E-02</td><td>2.13E+01/304E-02</td><td>.11E+013:646-02</td><td>2.13E+01/13,60E-02</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">f6</td><td>Mean/Std</td><td>1.09E+02/8.19E+00</td><td>9.23E+0187400</td><td>1.20E+02/52E-00</td><td>1.32E+022/-84E-00</td><td>5.71E+01.138-01</td></tr><tr><td>Mean/Std</td><td>1.64E+03/1.28E+02</td><td>8.22E+02/1.05E+02</td><td>1.91E+03/1.05E+02</td><td></td><td></td></tr><tr><td rowspan=\"2\">f7</td><td>Rank</td><td>3</td><td>2</td><td></td><td>1.96E+03/6.65E+01</td><td>3.56E+02/3.42E+01</td></tr><tr><td></td><td></td><td></td><td>4</td><td>5</td><td>1</td></tr><tr><td rowspan=\"2\">f8</td><td>Mea/std</td><td>1.62E+03/184E-02</td><td>1.04E+03/124E-02</td><td>1.81E+03/1.10D-02</td><td>2.05E+033.20E401</td><td>4.22E+028-464-01</td></tr><tr><td>Mean/Std</td><td>1.69E+03/1.60E+02</td><td>1.16E+03/1.44E+02</td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">f9</td><td>Rank</td><td>3</td><td>2</td><td>1.82E+03/1.84E+02</td><td>2.39E+03/7.20E+01</td><td>5.63E+02/9.94E+01</td></tr><tr><td>Mean/Std</td><td>2.08E+04/6.63E+02</td><td>1.72E+04/1.66E+03</td><td>4</td><td>5</td><td>1</td></tr><tr><td rowspan=\"2\">f10</td><td>Rank</td><td>4</td><td>3</td><td>2.43E+04/5.29E+02</td><td>1.47E+04/2.72E+03</td><td>1.69E+04/9.31E+02</td></tr><tr><td>Mean/Std</td><td>4.21E+03/7.29E+02</td><td>1.44E+03/1.77E+02</td><td>5</td><td>1</td><td>2</td></tr><tr><td rowspan=\"2\">f11</td><td>Rank</td><td>5</td><td></td><td>2.53E+03/8.46E+01</td><td>2.25E+03/3.23E+01</td><td>7.35E+02/6.65E+01</td></tr><tr><td>Mean/Std</td><td>3.69E+03/5.46E+02</td><td>2</td><td>4</td><td>3</td><td>1</td></tr><tr><td rowspan=\"2\">f12</td><td>Rank</td><td>5</td><td>1.71E+03/2.24E+02</td><td>2.51E+03/8.96E+01</td><td>2.24E+03/2.85E+01</td><td>7.85E+02/5.49E+01</td></tr><tr><td>Mean/Std</td><td>2.15E+04/7.56E+02</td><td>2</td><td>4</td><td>3</td><td>1</td></tr><tr><td rowspan=\"2\">f13</td><td>Rank</td><td>4</td><td>1.83E+04/1.04E+03</td><td>2.49E+04/5.49E+02</td><td>2.06E+04/1.16E+03</td><td>1.71E+04/1.47E+03</td></tr><tr><td>Mean/Std</td><td>4.46E+02/1.87E+01</td><td>2 4.86E+02/1.77E+01</td><td>5</td><td>3</td><td>1</td></tr><tr><td rowspan=\"2\">f14</td><td>Rank</td><td>2</td><td>4</td><td>4.69E+02/9.28E+00</td><td>3.00E+03/5.00E+02</td><td>3.79E+02/2.19E+01</td></tr><tr><td>Mean/Std</td><td>7.64E+03/4.64E+02</td><td></td><td>3</td><td>5</td><td>1</td></tr><tr><td>f15</td><td>Rank</td><td>3</td><td>6.72E+03/2.04E+03</td><td>9.09E+03/6.57E+02</td><td>2.12E+04/3.61E+02</td><td>2.21E+03/2.06E+02</td></tr><tr><td colspan=\"2\">Count</td><td>0</td><td>2 0</td><td>4 0</td><td>5</td><td>1</td></tr><tr><td colspan=\"2\">Ave Rank</td><td>3.67</td><td>2.2</td><td></td><td>2</td><td>13</td></tr><tr><td colspan=\"2\">Total Rank</td><td>4</td><td>2</td><td>4.27 5</td><td>3.53 3</td><td>1.33 1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1目标函数",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目标函数为",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( X ) = \\lambda _ { 1 } f _ { 1 } ( x ) + \\lambda _ { 2 } f _ { 2 } ( x )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda _ { 1 }$ 为动力性发挥程度加权因子； $\\lambda _ { 2 }$ 为经济性加权因子；$f _ { 1 } ( x )$ 为动力性分目标函数； $f _ { 2 } ( x )$ 为经济性分目标函数。选择$0 < \\lambda _ { 1 } < \\lambda _ { 2 } < 1$ ，取加权因子 $\\lambda _ { 1 } { = } 0 . 2$ ， $\\lambda _ { 2 } = 0 . 8$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "动力性分目标函数：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { 1 } ( x ) = \\int _ { 0 } ^ { u } d t = \\int _ { 0 } ^ { u } \\frac { \\delta { \\times } m } { ( F _ { t } - F _ { f } - F _ { w } ) } d u\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\delta = 1 . 0 6 + 0 . 0 4 i _ { g } ^ { ~ 2 }$ ， $F _ { t } , F _ { f } , F _ { w }$ 分别为汽车的驱动力、滚动阻力和空气阻力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "经济性分目标函数(在速度 $\\boldsymbol { u } _ { a _ { } }$ 下行驶某段距离 $\\Delta S$ 的耗油量)：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta Q = \\frac { K \\times P _ { e } \\times g _ { e } \\times ( n _ { e } , P _ { e } ) } { 1 0 2 \\times u _ { a } \\times \\rho } \\times \\Delta S\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\rho$ 为燃油重度 $\\left( { N } / { L } \\right)$ ，取值为 $7 . 0 \\mathrm { ~ } _ { \\circ } \\mathrm { ~ K ~ }$ 为加权系数，等速时取1，加速时取1.05； $u _ { a } \\in [ 1 0 , 2 0 , 3 0 , 4 0 , 5 0 ]$ 为汽车行驶加速$\\mathrm { ( k m / h ) }$ 。发动机的燃油消耗率变化如图7所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Tab.6Friedman test results "
+        ],
+        "table_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "维度(D) P-value FPA TMFPA HLFPA ISSA MSFPA 30D 5.3308E-11 3.2 2 4.2 4.53 1 80D 5.8656E-7 3.67 2.2 4.27 3.53 1.33   \n等燃油消耗曲线和等功率曲线的三维拟合图 万有特性曲线 550 500 43 500 300 5   \nPkmmd 200 100 60.9.2 250 51 600 200 3000 400 150 2000 200 100   \nTtq(N\\*m) 1000 n(r/min) 1500 2000 2500 n(r/min) ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图7燃油消耗率变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2参数优化约束条件",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在燃油汽车优化满足动力性需要，之后满足燃油经济性[25]：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 } ( X ) = u _ { a l } - u _ { a \\operatorname* { m a x } } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中， $u _ { a l } \\in [ 0 , 5 0 ]$ ，汽车行驶车速 $\\left( \\mathrm { k m } / \\mathrm { h } \\right)$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 2 } ( X ) = i _ { l } - i _ { \\operatorname* { m a x } } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中， $i _ { l }$ 为汽车最大爬坡度要求下的限值。",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 3 } ( X ) = D _ { l } - D _ { l \\mathrm { m a x } } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中， $D _ { l }$ 为汽车最大动力因数要求的下限值。",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 4 } ( X ) = D _ { n l } - D _ { n \\operatorname* { m a x } } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中， $D _ { n l }$ 为汽车最高挡的最大动力因数要求的下限值。",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 5 } ( X ) = \\frac { T _ { t q \\mathrm { m a x } } i _ { g 1 } i _ { g 0 } \\eta _ { T } } { r } - F _ { z \\varphi } \\varphi \\le 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中， $T _ { t q \\operatorname* { m a x } } = 1 3 2$ ，发动机最大转矩 $( \\Nu ^ { * } \\mathrm { m } )$ $F _ { Z \\varphi } = \\%$ ，驱动轮上的法向反作用力 $( \\Nu )$ · $\\varphi = 0 . 7$ 为地面附着系数。",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 6 } ( X ) = 0 . 8 5 \\times q - i _ { g 1 } / i _ { g 2 } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中，公比 $q = \\sqrt [ 5 ] { i _ { g 1 } / i _ { g 5 } }$ 。其他约束如下所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 7 } ( X ) = i _ { g 1 } / i _ { g 2 } - 1 . 2 0 q \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 8 } ( X ) = 0 . 8 0 q - i _ { g 2 } / i _ { g 3 } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 9 } ( X ) = i _ { g 2 } / i _ { g 3 } - 1 . 1 0 q \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 0 } ( X ) = 0 . 7 5 q - i _ { g 3 } / i _ { g 4 } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 1 } ( X ) = i _ { g 3 } / i _ { g 4 } - 1 . 0 5 q \\le 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 2 } ( X ) = 0 . 7 0 q - i _ { g 4 } / i _ { g 5 } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 3 } ( X ) = i _ { s 4 } / i _ { g 5 } - 1 . 0 q \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 4 } ( X ) = i _ { g 2 } / i _ { g 3 } - 0 . 9 5 i _ { g 1 } / i _ { g 2 } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 5 } ( X ) = i _ { g 3 } / i _ { g 4 } - 0 . 9 5 i _ { g 2 } / i _ { g 3 } \\le 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 6 } ( X ) = i _ { g 4 } / i _ { g 5 } - 0 . 9 5 i _ { g 3 } / i _ { g 4 } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 7 } ( X ) = X _ { l } - X \\le 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 8 } ( X ) = X - X _ { h } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { X } _ { h } \\mathcal { \\bar { F } } \\mathbb { H } \\boldsymbol { X } _ { l }$ 为变速器和主减速器传动比上下限值构成的向量。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3汽车传动参数优化实验结果分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在算法性能的基础上，对多策略的花授粉算法(MSFPA)在汽车动力传动参数优化问题，结合之前的测试算法进行综合对比。以此表明该算法在实际应用问题上的可适用性。具体的目标函数和约束条件已在第二节中有详细描述。对比结果如图8所示，具体优化后的值见表7。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e2b35cc129efdb257e0eece51feb475eec765fb55ce56d2bedb4a6a6ab2b673.jpg",
+        "img_caption": [
+            "Fig.7Change of fuel consumption rate ",
+            "图8汽车传动参数各函数适应值对比",
+            "Fig.8Comparison of adaptive values of functions of automobile transmission parameters "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图8为了方便展示放大了前70次迭代部分，从图中可以看出，MSFPA算法的收敛速度最快，仅在第5次迭代左右就已经到达最低点，而fpa算法虽然初始时是最低的，但是后续的收敛速度明显很慢。而其他的算法不管是收敛精度还是在收敛速度上都逊色于MSFPA算法。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据表7优化后参数的结果可以看出，5种对比算法最后适应值最小的是MSFPA为374，其他算法略大于该算法。而汽车传动系的变速箱的速比和主减速器的速比 $X _ { 1 } \\sim X _ { 6 }$ ，其值都优于对比算法。因此MSFPA算法在汽车动力传动系统参数优化方面相较于对比算法有一定的优越性，在这一类问题上具有参考价值。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/14b60f7f858d2fc100dcf41cabb62a3c778a8fb5e1da6e5177f08715bbc92c47.jpg",
+        "table_caption": [
+            "表6Friedman 检验结果",
+            "表7优化参数详情",
+            "Tab.7Optimization parameters details "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>X</td><td>X</td><td>X</td><td>X4</td><td>X</td><td>X6</td><td>fmin</td></tr><tr><td>FPA</td><td>1.28E+00</td><td>1.00E+00</td><td>8.34E-01</td><td>7.44E-01</td><td>7.31E-01</td><td>2.16E+00</td><td>3.76E+02</td></tr><tr><td>MSFPA</td><td>4.54E-01</td><td>3.70E-01</td><td>3.22E-01</td><td>3.02E-01</td><td>3.02E-01</td><td>7.27E-01</td><td>3.74E+02</td></tr><tr><td>TMFPA</td><td>1.56E+00</td><td>1.00E+00</td><td>6.78E-01</td><td>5.00E-01</td><td>4.43E-01</td><td>2.11E+00</td><td>3.75E+02</td></tr><tr><td>HLFPA</td><td>1.28E+00</td><td>1.03E+00</td><td>9.23E-01</td><td>8.77E-01</td><td>8.77E-01</td><td>2.35E+00</td><td>3.77E+02</td></tr><tr><td>ISSA</td><td>1.53E+00</td><td>1.00E+00</td><td>6.89E-01</td><td>5.00E-01</td><td>4.56E-01</td><td>3.00E+00</td><td>3.75E+02</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了改善MSFPA算法的收敛速度，收敛精度以及容易陷入局部最优解的问题，提出一种结合笛卡尔积透镜成像和随机邻域变异策略的花授粉算法，利用透镜成像策略增加解的多样性帮助算法跳出局部最优解，引入随机邻域变异策略加强算法的局部搜索能力，最后根据实验结果对比4种不同的算法，MSFPA算法对各类单模态、多模态、复合、低维、高维都具有更好的搜索精度和收敛速度，最后结合汽车传动参数优化问题进一步验证MSFPA算法的实际应用能力，结果表明该算法具有一定的研究意义，为求解复杂问题提供了一种新的思路和解决办法。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Yang X S.Flower pollination algorithm for global optimization [J]. Lecture Notes in Computer Science,2012,7445 (1): 240-249.   \n[2]Singh P,Mittal N.An efficient localization approach to locate sensor nodes in 3D wireless sensor networks using adaptive flower pollination algorithm [J].Wireless Networks,2021,27 (3):1999-2014.   \n[3]Mergos PE.Optimum design of 3D reinforced concrete building frames with theflowerpollination algorithm [J]．Journal of Building Engineering,2021,44:102935.   \n[4]Ja Yaraman K K,Srilakshmi K,Ja Yaraman S.Modified Flower pollination-based segmentation of medical images [J]. International Journal of Image and Graphics,2021:1.   \n[5]Mohanty S,Dash R.A flower pollination algorithm based Chebyshev polynomial neural network for net asset value prediction[J]. Evolutionary Intelligence,2021.   \n[6]Sakib N, Kabir M W U,Rahman M S,et al.A comparative study of flower pollination algorithm and bat algorithm on continuous optimization problems [J]. International Journal of Applied Information Systems,2014,7 (9).   \n[7]Nabil E.A modified flower pollination algorithm for global optimization [J].Expert Systems with Applications,2016,57(C): 192-203.   \n[8]Xiao Huihui,Wan Changxuan,Duan Yanming,et al. Flower pollination algorithm based on simulated annealing [J].Journal of Computer Applications,2015,35 (4): P1062-1066,1070.   \n[9]Zhou Yongquan,Wang Rui,Luo Qifang.Elite opposition-based flower pollination algorithm [J].Neurocomputing,2016,188:294-310.   \n[10]Ramadas M,PantM,AbrahamA,etal. ssFPA/DE:an efficient hybrid differential evolution-flower pollination algorithm based approach [J]. International Journal of System Assurance Engineering and Management, 2018,9(1): 216-229.   \n[11]肖辉辉，万常选，段艳明，等．基于引力搜索机制的花朵授粉算法 [J]．自动化学报,2017,43(4):19.(Xiao Huihui,Wan Changxuan,Duan Yanming,et al.Flower pollination algorithm based on gravity search mechanism[J].Acta Automatica Sinica,2017,43 (4):576-594)   \n[12]卞京红，贺兴时，杨新社．基于萤火虫算法的自适应花授粉优化算 法[J].计算机工程与应用，2016,52(21):162-167,217.(Bian Jinghong，He Xingshi,Yang Xinshe.Hybrid algorithm of firefly algorithm and self-adaptive flower pollina-tion algorithm[J]. Computer Engineeringand Applications,2016,52 (21): 162-167,217)   \n[13] Dubkov A, Spagnolo B, Uchaikin V V. Levy flight superdifusion: an introduction [J].International Journal of Bifurcation and Chaos,2008, 18 (9): 2649-2672.   \n[14]郑永爱，宣蕾．混沌映射的随机性分析[J].计算机应用与软件, 2011,28(12):274-276,292.(Zheng Yongai,Xuan Lei.Analysing randomicity of chaos mapping [J]. Computer Applications and Software, 2011,28 (12): 274-276,292)   \n[15]高鹰，谢胜利．基于模拟退火的粒子群优化算法[J].计算机工程与 应用，2004,40(1):47-50.(Gao Ying,Xie Shengli.Particle sswarm optimization algorithms based on simulated annealing [J]. Computer Engineering and Applications,2004,40 (1): 47-50)   \n[16]Price K,Storn R.Differential evolution[J].Dr.Dobb's Journal,1997,22 (4): 18-23.   \n[17] Storn R,Price K.Differential evolution: a simple and efficient adaptive scheme for global optimization over continuous spaces [J]. Journal of Global Optimization,1995,23 (1).   \n[18] Das S,AbraamA, ChakrabortyUK,etal. Diferentialevolutionusing a neighborhood-based mutation operator[J].IEEE Trans on Evolutionary Computation,2009,13 (3): 526-553.   \n[19] Peng Hu,Guo Zhaolu,Deng Changshou,et al. Enhancing differential evolution with random neighbors based strategy [J].Journal of Computational Science,2018,26: 501-511.   \n[20]呼忠权，王洪斌．基于Lévy飞行的自适应差分进化算法[J].现代 电子技术，2020,43(4):167-172.(Hu Zhongquan,Wang Hongbin. Adaptive differential evolution algorithm based on Lé vy flight [J]. Modern Electronics Technique,2020,43 (4):167-172)   \n[21]洪露，贺兴时，杨新社．基于三重动态调整的花授粉算法[J]．西安 工程大学学报,2021,35(2):97-103.(Hong Lu,He Xingshi,Yang Xinshe.The flower polination algorithm based on triple dynamic adjustment [J]. Journal of Xi’an Polytechnic University,2021,35 (2): 97-103)   \n[22]宁杰琼，何庆.t-分布扰动策略和变异策略的花授粉算法[J].小型 微型计算机系统,2021,42(1):64-70.(Ning Jieqiong,He Qing.Flower pollination algorithm based on t-distribution perturbation strategy and mutation strategy [J]. Journal of Chinese Computer Systems,2021,42 (1): 64-70)   \n[23]毛清华，张强．融合柯西变异和反向学习的改进麻雀算法[J].计算 机科学与探索,2021,15 (6): 1155-1164.(Mao Qinghua, Zhang Qiang. Improved sparrow algorithm combining cauchy mutationand opposition-based learning [J]. Journal of Frontiers of Computer Science & Technology,2021,15 (6): 1155-1164)   \n[24] Elmazi D,Oda T, Sakamoto S,et al. Friedman test for analysing WMNs: a comparison study for genetic algorithms and simulated annealing [Cl]// Proc of the 9th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing.2015.   \n[25]李军民，王俊昌．基于遗传算法矿用汽车动力传动系参数优化设计 [J]．机械设计与制造,2018,(11):228-232.(LiJunmin,Wang Junchang. Parameters optimization design of powertrain system of mining truck based on genetic algorithm[J].Machinery Design & Manufacture,2018, (11): 228-232) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

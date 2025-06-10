@@ -1,0 +1,367 @@
+[
+    {
+        "type": "text",
+        "text": "肖　怡1,²陶大勇」赵明明²赵江波²马 涛² 屠焰²刁其玉 ²\\*（1.塔里木大学动物科学学院，阿拉尔843300；2.中国农业科学院饲料研究所，农业部饲料生物技术重点实验室，北京 100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究饲粮中不同添加水平的地衣芽孢杆菌对肉羊甲烷排放及消化代谢的影响，为微生态制剂减少肉羊甲烷排放和提高饲料利用率提供依据。试验选取24只体重为（ $4 5 . 0 0 { \\scriptstyle \\pm 1 . 9 6 }$ ）kg、体况良好的杜泊 $( \\delta ) \\times \\delta \\mathrm { J } \\backslash$ 尾寒羊（ $\\mathcal { G }$ ）杂交F1代成年羯羊，采用单因素随机区组设计，将其分为4组，每组6只羊，每只羊为1个重复，对照组饲喂基础饲粮，3 个试验组基础饲粮中地衣芽孢杆菌的添加水平分别为 $2 . 4 { \\times } 1 0 ^ { 8 } . 2 . 4 { \\times } 1 0 ^ { 9 }$ 和 $2 . 4 \\times 1 0 ^ { 1 0 }$ CFU/（只·d)，分别记作低、中、高剂量组。试验期 $2 0 \\mathrm { ~ d ~ }$ ，其中预试期8d，正试期 $1 2 \\mathrm { ~ d ~ }$ 。采用Sable开路式循环测热系统测定甲烷排放量，采用全收粪尿法测定消化代谢。结果表明：1）与对照组相比，低、中剂量组显著降低了肉羊干物质采食量和代谢体重基础的甲烷排放量[L/(kg$\\mathbf { W } ^ { 0 . 7 5 } \\cdot \\mathbf { k g } \\mathbf { \\ D M I } ) ]$ （ $. P { < } 0 . 0 5 \\$ )，降幅分别为 $5 . 1 8 \\%$ 和 $9 . 3 3 \\%$ 。2）与对照组相比，试验组均显著提高了肉羊干物质、有机物、中性洗涤纤维、酸性洗涤纤维（除低剂量组）、氮的表观消化率和沉积氮（ $. P { < } 0 . 0 5 )$ ，并显著提高了饲粮消化能和代谢能（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\rangle$ 。本试验条件下，添加地衣芽孢杆菌可在一定程度上降低肉羊的甲烷排放量，提高营养物质消化率，进而提高饲料的能量利用率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：微生态制剂；地衣芽孢杆菌；甲烷；消化代谢；肉羊 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S816.7；S826",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温室气体累积造成的全球变暖引起了人们越来越多的关注，甲烷（ $\\mathrm { C H } _ { 4 }$ ）作为一种重要的温室气体，是大气中含量最为丰富的有机碳气体，占温室气体的 $1 6 \\% ^ { [ 1 ] }$ ，对当前全球变暖的综合贡献率达到 $1 9 \\%$ ，仅次于二氧化碳（ $\\mathrm { C O } _ { 2 }$ ）[2]。反刍动物因其瘤胃内微生物的发酵而",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "产生大量的 $\\mathrm { C H } _ { 4 }$ ，每年排放量约 $8 { \\times } 1 0 ^ { 7 }$ t，占人为 $\\mathrm { C H } _ { 4 }$ 排放总量的 $3 3 \\% ^ { [ 3 ] }$ ，不仅对环境造成严重的污染，还使饲料中的能量大量损失。在奶牛生产中，通常有 $6 \\% { \\sim } 1 0 \\%$ 的总能转变为甲烷能[4]。但反刍动物瘤胃 $\\mathrm { C H } _ { 4 }$ 的产生是必需的过程，对维持瘤胃氢分压具有重要作用。因此，通过何种方式调控反刍动物瘤胃 $\\mathrm { C H } _ { 4 }$ 的产生，使其在保证动物机体健康和安全性的基础上减少 $\\mathrm { C H } _ { 4 }$ 的排放，具有极其重要的现实意义。抗生素所带来的菌群失调、耐药、药物残留等弊端已经被人们所熟识。微生态制剂作为一种新型的绿色添加剂，近年来在动物生产上的应用越来越广泛，且生产效益显著。地衣芽孢杆菌具有抗逆特性，是芽孢杆菌中具有应用潜力的菌种之一，能够调节动物胃肠道菌群平衡，促进有益菌的生长，降低病原菌的数量，增强机体的免疫力[5]，同时提高饲料利用率。不少报道表明，地衣芽孢杆菌对动物生长、繁殖及抗病、提高饲料报酬等方面具有正效应，但对反刍动物 $\\mathrm { C H } _ { 4 }$ 调控，特别是通过体内试验调控瘤胃 $\\mathrm { C H } _ { 4 }$ 的评价鲜少。微生态制剂对反刍动物 $\\mathrm { C H } _ { 4 }$ 调控的作用机制还有待进一步研究。本试验给成年肉用绵羊直接饲喂地衣芽孢杆菌，通过 Sable开路式循环呼吸测热系统对肉羊$\\mathrm { C H } _ { 4 }$ 排放量进行实测，同时开展消化代谢试验，探讨了地衣芽孢杆菌对肉羊 $\\mathrm { C H } _ { 4 }$ 排放量及消化代谢的影响，为微生态制剂减少反刍动物 $\\mathrm { C H } _ { 4 }$ 排放，提高饲料能量利用率提供理论依据。1材料与方法  \n1.1试验时间和地点  \n本试验于2014年12月至2015年1月在中国农业科学院南口中试基地开展。  \n1.2试验材料与仪器  \n地衣芽孢杆菌：活菌数量 $1 \\times 1 0 ^ { 1 0 }$ CFU/g，由北京华农生物工程有限公司提供。  \n$\\mathrm { C H } _ { 4 }$ 测定装置：Sable 开路式循环测热系统，LGR气体分析仪，购于美国 Sable公司。整套试验装置由 Sable系统的测定装置、密闭式气体代谢室和配套的计算机软件组成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验动物与饲粮",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验选取24只体重为（ $4 5 . 0 0 { \\scriptstyle \\pm 1 . 9 6 }$ ）kg、年龄相近、体况良好的杜泊 $( \\delta ) \\times \\suit$ 尾寒羊（♀）杂交F1代成年羯羊。试验前打好耳号，免疫注射三联四防疫苗并进行驱虫，每只羊单独圈养于羊栏中，可自由饮水和采食。基础饲粮为全混合颗粒料（饲料颗粒直径 $8 \\mathrm { m m }$ 长 $1 0 \\mathrm { m m } \\mathrm { \\ddot { \\Omega } }$ )，由北京中农兴饲料科技有限公司提供。基础饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/98702f462fa1f18040c48ce0ce543e1deebd29ca87f390e5acd9b1144aa6fc01.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of the basal diet (DM basis) % "
+        ],
+        "table_footnote": [
+            "1）预混料为每千克饲粮提供：Fe $2 2 . 1 \\ \\mathrm { g }$ ， $ { \\mathrm { M n } } 9 . 8 2 \\ \\mathrm { g }$ ， $\\mathtt { C u 2 . 2 5 g }$ ， $\\mathrm { Z n } 2 7 . 0 \\mathrm { g }$ ，Se $0 . 1 9 \\mathrm { g }$ ， $\\mathrm { ~ I ~ } 0 . 5 4 \\mathrm { ~ g ~ }$ ，Co 0.09g，VA $3 . 2 \\ \\mathrm { g }$ ， $\\mathrm { V D } _ { 3 } 0 . 8 \\ \\mathrm { g }$ ，VE $0 . 4 \\ \\mathrm { g }$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>羊草 Chinese wildrye hay</td><td>66.41</td></tr><tr><td>玉米 Corn</td><td>19.06</td></tr><tr><td>豆粕 Soybean meal</td><td>12.19</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.25</td></tr><tr><td>石粉 Limestone</td><td>0.35</td></tr><tr><td>食盐 NaCl</td><td>0.50</td></tr><tr><td>预混料 Premix1)</td><td>0.24</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>干物质 Dry matter</td><td>89.23</td></tr><tr><td>粗蛋白质 Crude protein</td><td>11.89</td></tr><tr><td>粗脂肪 Ether extract</td><td>1.62</td></tr><tr><td>粗灰分 Ash</td><td>8.24</td></tr><tr><td>总能 Gross energy/(MJ/kg)</td><td>18.29</td></tr><tr><td>代谢能Metabolizable energy/(MJ/kg)</td><td>9.52</td></tr><tr><td>中性洗涤纤维 NDF</td><td>67.47</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>31.14</td></tr><tr><td>钙Calcium</td><td>0.59</td></tr><tr><td>磷 Phosphorus</td><td>0.35</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）营养水平均为实测值。Nutrition levels were measured values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4试验设计",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验采用单因素随机区组设计，将24只羊分为4组，即1个对照组和3个试验组，每组6只羊，每只羊为1个重复，对照组饲喂基础饲粮，3个试验组在基础饲粮的基础上添加地衣芽孢杆菌，添加水平分别为 $2 . 4 \\times 1 0 ^ { 8 }$ 、 $2 . 4 \\times 1 0 ^ { 9 }$ 和 $2 . 4 \\times 1 0 ^ { 1 0 }$ CFU/（只·d)，即低、中、高3个剂量组。试验期 $2 0 \\mathrm { d }$ ，其中预试期 $8 \\mathrm { d }$ ，正试期 $1 2 \\mathrm { d }$ ，正试期内开展消化代谢试验和气体代谢试验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 Sable 开路式循环测热系统、LGR气体分析仪测定 $\\mathrm { C H } _ { 4 }$ 排放量，该系统连接6个呼吸测热箱，可以同时测定6只羊的 $\\mathrm { C H } _ { 4 }$ 排放量。在正试期的第1、4、7、10天分4批（每批6只羊）将羊只移入呼吸测热箱，适应1d后，随后测定2d的 $\\mathrm { C H } _ { 4 }$ 排放量，并计算甲烷能。每只羊进入和离开呼吸测热箱时均称重，平均体重作为羊只测热体重。消化代谢试验采",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用全收粪尿法进行样品的收集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5样品的收集与保存 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每天晨饲前进行试验羊前1天粪样与尿样的收集，将粪袋取下称重，记录试验羊的排粪量，粪样混合均匀，按排粪量的 $10 \\%$ 取样。收集尿样时，用盛有 $1 0 0 \\mathrm { m L } 1 0 \\%$ 的 ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ 尿桶进行收集，记录尿液体积，混合均匀后用4层纱布过滤，按排尿量的 $10 \\%$ 取样。每天收集的粪样和尿样均保存于 $- 2 0 \\mathrm { ~ \\textdegree ~ }$ 冰箱。此过程连续进行6d，并将每只羊所有收集到的样品混合均匀后备用。消化代谢试验结束时，将每只羊的粪样置于 $6 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烘箱内烘干 $4 8 \\mathrm { { h } }$ ，回潮48h 后称重，得出初水分含量，随后经粉碎过40目网筛制成分析样品，以备分析检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 试验羊管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按照 NRC（2007）绵羊的维持需要，试验羊采用限饲的方法，每天限饲基础饲粮1200g，08:00 和18:00 各饲喂1次，将不同剂量的地衣芽孢杆菌分别饲喂对应的试验羊只。具体操作步骤：将颗粒料倒入料槽中，在颗粒料表面喷洒少量的水，然后将地衣芽孢杆菌撒在颗粒料表面，以使羊只优先采食菌粉。喷洒少量水，目的是使菌粉可以黏附在颗粒料上，以免羊只在采食过程中菌粉掉落到料槽底部而影响菌粉的摄入量)，每只羊每天中午补饲羊草$2 0 0 \\ \\mathrm { g }$ ，自由饮水。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7 数据处理与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据采用SAS9.2统计软件中的ANOVA进行分析，差异显著时用Duncan氏法进行多重比较， $P { < } 0 . 0 5$ 作为差异显著的判断标准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1地衣芽孢杆菌对肉羊 $\\mathrm { C H } _ { 4 }$ 排放的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，在肉羊饲粮中添加地衣芽孢杆菌，低、中剂量组的 $\\mathrm { C H } _ { 4 }$ 排放日总量（L/d)、干物质采食量基础的 $\\mathrm { C H } _ { 4 }$ 排放量（L/kg DMI）、代谢体重基础的 $\\mathrm { C H } _ { 4 }$ 排放量 $\\mathrm { \\ L / k g W ^ { 0 . 7 5 } }$ ）及干物质采食量和代谢体重基础的 $\\mathrm { C H } _ { 4 }$ 排放量 $\\mathrm { [ L / ( k g \\ W ^ { 0 . 7 5 } \\bullet g D M I ) ] }$ 均显著低于对照组( $. P { < } 0 . 0 5 )$ ，其中中剂量组降幅较大。与对照组相比，高剂量组的以上指标差异均不显著（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表2地衣芽孢杆菌对肉羊甲烷排放的影响"
+        ],
+        "table_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c83a6f2583be78f7ec278e7dc6a51c973a7a23d928eeed86de6f476a15d31472.jpg",
+        "table_caption": [
+            "Table 2Effects of Baclicus lincheniformis on $\\mathrm { C H } _ { 4 }$ emission of mutton sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>对照组</td><td>低剂量组</td><td>中剂量组</td><td>高剂量组</td><td>SEM</td><td>P值</td></tr><tr><td></td><td>Control</td><td>Low dose</td><td>Medium</td><td>High dose</td><td></td><td>P-value</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/78ca06e3fbf843befae7c42f0e2cfe87fcbe89affc5ad51f3a13ce4cdf1d993e.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "） 同行数据肩标相同字母或无字母表示差异不显著（ $P { > } 0 . 0 5$ )，不同小写字母表示差异显著（ $\\scriptstyle \\cdot < 0 . 0 5 .$ )°一 下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>group</td><td>group</td><td>dose group</td><td>group</td><td></td><td></td></tr><tr><td>干物质采食量DMI/g</td><td>1 258.06</td><td>1 257.96</td><td>1 258.08</td><td>1 257.90</td><td>0.03</td><td>0.221 4</td></tr><tr><td>代谢体重W0.75/kg</td><td>17.52</td><td>17.73</td><td>18.02</td><td>17.57</td><td>0.28</td><td>0.543 7</td></tr><tr><td>CH4排放量 CH4emission</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>日总量Daily total/ （L/d)</td><td>42.58a</td><td>40.86bc</td><td>39.69c</td><td>42.04ab</td><td>1.48</td><td>0.042 9</td></tr><tr><td>干物质采食量基础 DMI basis/（L/kg DMI) 代谢体重基础 W0.75 basis/（L/kg W0.75）</td><td>33.84a</td><td>32.48bc 2.31b</td><td>31.56c</td><td>33.84a</td><td>1.57</td><td>0.0318</td></tr><tr><td>干物质采食量代谢体重基础 DMIand W0.75</td><td>2.43a</td><td></td><td>2.20c</td><td>2.40a</td><td>0.03</td><td>0.012 0</td></tr><tr><td>basis/[L/(kg W0.75 · kg DM)]</td><td>1.93a</td><td>1.83b</td><td>1.75c</td><td>1.90a</td><td>0.02</td><td>0.014 0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ _， while with different small letter superscripts mean significant difference ( $\\scriptstyle \\cdot < 0 . 0 5$ ).The same asbelow. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2地衣芽孢杆菌对肉羊营养物质消化代谢的影响 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 DM和OM的表观消化率 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，在相同采食水平下，与对照组相比，试验组干物质的粪排出量均显著降低1 $_ { _ { P < 0 . 0 5 } ) }$ ，干物质消化量、表观消化率均显著提高（ $. P { < } 0 . 0 5 )$ ，以低剂量组效果最好；试验组有机物的粪排出量显著降低，有机物消化量、表观消化率均显著提高（ $. P { < } 0 . 0 5 )$ ，但试验组之间差异不显著（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d457567b12a377675d25241ea5ef2a7a26993b81d8fab180faeef1b6fc30f94f.jpg",
+        "table_caption": [
+            "表3地衣芽孢杆菌对肉羊DM和OM表观消化率的影响",
+            "Table 3Effects of Baclicus lincheniformis on DM and OM apparent digestibility of mutton sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>低剂量组 Low dose group</td><td>中剂量组 Medium dose group</td><td>高剂量组 High dose group</td><td>SEM</td><td>P值 P-value</td></tr><tr><td>干物质DM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>采食量 Intake/(g/d)</td><td>1 258.06</td><td>1 257.96</td><td>1 258.08</td><td>1 257.90</td><td>0.04</td><td>0.2214</td></tr><tr><td>粪排出量 Fecal output/(g/d)</td><td>590.60a</td><td>534.04℃</td><td>541.95b</td><td>550.62b</td><td>4.90</td><td><0.000 1</td></tr><tr><td>消化量Digestion/(g/d)</td><td>667.46℃</td><td>723.92a</td><td>716.13ab</td><td>707.28b</td><td>4.89</td><td><0.000 1</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>53.06c</td><td>57.55a</td><td>56.93ab</td><td>56.23b</td><td>0.39</td><td><0.000 1</td></tr><tr><td>有机物OM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>采食量Intake/(g/d)</td><td>1 160.03</td><td>1 159.94</td><td>1 160.05</td><td>1 159.88</td><td>0.04</td><td>0.220 7</td></tr><tr><td>粪排出量 Fecal output/(g/d)</td><td>496.89a</td><td>474.31b</td><td>478.62b</td><td>480.76b</td><td>2.58</td><td>0.003 9</td></tr><tr><td>消化量Digestion/(g/d)</td><td>663.15b</td><td>685.63a</td><td>681.43a</td><td>679.13a</td><td>2.57</td><td>0.004 0</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>57.17b</td><td>59.11a</td><td>58.74a</td><td>58.55a</td><td>0.22</td><td>0.004 0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与对照组相比，试验组NDF 的粪排出量显著降低（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ )，NDF的消化量、表观消化率显著提高（ $. P { < } 0 . 0 5$ )。与对照组相比，中、高剂量组ADF粪排出量显著降低（ $P { < } 0 . 0 5 \\$ )，ADF的消化量、表观消化率显著提高（ $P { < } 0 . 0 5 \\$ )。随着添加水平的提高，试验组间 NDF、ADF 的表观消化率无显著变化（ $. P { > } 0 . 0 5 )$ ）°",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa5d0d734a5865a225a890b374dce9699a1c8fe1a93a1635cf7029a2054c2b48.jpg",
+        "table_caption": [
+            "Table 4Effects of Baclicus lincheniformis on NDF and ADF apparent digestibility of mutton sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>低剂量组 Low dose group</td><td>中剂量组 Medium dose</td><td>高剂量组 High dose group</td><td>SEM</td><td>P值 P-value</td></tr><tr><td>中性洗涤纤维 NDF</td><td></td><td></td><td>group</td><td></td><td></td><td></td></tr><tr><td>采食量 Intake/(g/d)</td><td>863.55</td><td>863.49</td><td>863.57</td><td>863.45</td><td>0.02</td><td>0.252 3</td></tr><tr><td>粪排出量 Fecal output/(g/d)</td><td>410.82a</td><td>378.57b</td><td>387.07b</td><td>389.06b</td><td>3.12</td><td>0.000 1</td></tr><tr><td>消化量Digestion/(g/d)</td><td>452.73b</td><td>484.92a</td><td>476.49a</td><td>474.39a</td><td>3.12</td><td>0.000 1</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>52.43b</td><td>56.16a</td><td>55.18a</td><td>54.94a</td><td>0.36</td><td>0.000 1</td></tr><tr><td>酸性洗涤纤维 ADF</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>采食量 Intake/(g/d)</td><td>413.54</td><td>413.52</td><td>413.56</td><td>413.50</td><td>0.01</td><td>0.334 6</td></tr><tr><td>粪排出量 Fecal output/(g/d)</td><td>237.39a</td><td>234.48ab</td><td>228.21b</td><td>229.36b</td><td>1.37</td><td>0.046 8</td></tr><tr><td>消化量Digestion/(g/d)</td><td>176.16b</td><td>179.04ab</td><td>185.35a</td><td>184.13a</td><td>1.37</td><td>0.047 0</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>42.60b</td><td>43.30ab</td><td>44.82a</td><td>44.53a</td><td>0.33</td><td>0.046 9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "109 2.2.3 氮的消化代谢 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "110 由表5可知，食入氮水平相同时，与对照组相比，在相同采食量基础上，试验组均可显  \n111 著降低粪氮、提高氮的表观消化率（ $P { < } 0 . 0 5 )$ ，中、高剂量组可显著降低尿氮（ $P { < } 0 . 0 5 )$ 。在  \n112 饲粮中添加不同水平的地衣芽孢杆菌，沉积氮、沉积氮/食入氮均显著高于对照组( $. P { < } 0 . 0 5 )$ )，  \n113 但试验组之间无显著差异（ $. P { > } 0 . 0 5 )$ ）",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/90d4815cd9dff26f814be5feff212f9112d589f8991cea17679f951e99be69a1.jpg",
+        "table_caption": [
+            "表4地衣芽孢杆菌对肉羊NDF和ADF表观消化率的影响",
+            "表5地衣芽孢杆菌对肉羊氮的消化代谢的影响",
+            "Table 5Effects of Baclicus lincheniformis on nitrogen digestion and metabolism of mutton sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>低剂量组 Low dose group</td><td>中剂量组 Medium dose</td><td>高剂量组 High dose group</td><td>SEM</td><td>P值 P-value</td></tr><tr><td>食入氮NIntake/(g/d)</td><td>22.80</td><td>22.80</td><td>group 22.80</td><td>22.80</td><td>0.00</td><td>0.426 2</td></tr><tr><td>粪氮Fecal N/(g/d)</td><td>8.73a</td><td>7.94c</td><td>7.99c</td><td>8.31b</td><td>0.04</td><td>0.002 1</td></tr><tr><td>尿氮 Urinary N/(g/d)</td><td>11.32a</td><td>10.91ab</td><td>10.72b</td><td>10.39b</td><td>0.35</td><td>0.018 9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/662467d23576f78b8ffdd549200944e64e366ced238f491b67210025b95c689a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>氮表观消化率Napparent digestibility/%</td><td>61.71c</td><td>65.19a</td><td>64.95a</td><td>63.56b</td><td>0.78</td><td>0.002 0</td></tr><tr><td>沉积氮 Retained N/(g/d)</td><td>2.75b</td><td>3.95a</td><td>4.09a</td><td>4.10a</td><td>0.32</td><td>0.0015</td></tr><tr><td>沉积氮/食入氮 Retained N/N Intake/%</td><td>12.06b</td><td>17.34a</td><td>17.94a</td><td>17.98a</td><td>1.47</td><td>0.001 5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "116 2.2.4 能量消化代谢 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，与对照组相比，试验组的粪能均显著降低（ $( P { < } 0 . 0 5 )$ ，低剂量组显著低于高剂量组（ $_ { _ { P < 0 . 0 5 } ) }$ ，但与中剂量组差异不显著（ $( P { > } 0 . 0 5 )$ 。与对照组相比，高剂量组的尿能显著降低（ $( P { < } 0 . 0 5 )$ ，与低、中剂量组的尿能差异不显著（ $( P { > } 0 . 0 5 )$ 。低、中剂量组的甲烷能、甲烷能/食入总能均显著低于对照组 （ $\\scriptstyle P < 0 . 0 5 .$ )。与对照组相比，试验组的消化能、代谢能、总能消化率、总能代谢率均显著提高（ $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/896308c7dd8ad52c8c077447e939dfad01c2b927785db6ba27339c7763ba9377.jpg",
+        "table_caption": [
+            "表6地衣芽孢杆菌对肉羊能量消化代谢的影响",
+            "Table 6Effects of Baclicus lincheniformis on energy digestion and metabolism of mutton sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td rowspan=\"2\">对照组 Control group</td><td rowspan=\"2\">低剂量组 Low dose group</td><td rowspan=\"2\">中剂量组 Medium dose</td><td rowspan=\"2\">高剂量组 High dose</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td></td></tr><tr><td>食入总能 GE intake/(MJ/d)</td><td>23.21</td><td>23.22</td><td>group 23.21</td><td>group 23.21</td><td>0.00</td><td>0.487 2</td></tr><tr><td>粪能FE/(MJ/d)</td><td>11.30a</td><td>9.90c</td><td>10.05bc</td><td>10.17b</td><td>0.03</td><td><0.000 1</td></tr><tr><td>尿能UE/(MJ/d)</td><td>0.76b</td><td>0.90b</td><td>0.89b</td><td>0.34c</td><td>0.07</td><td>0.002 5</td></tr><tr><td>甲烷能 CH4-E/(MJ/d)</td><td>1.68a</td><td>1.62bc</td><td>1.57℃</td><td>1.66ab</td><td>0.02</td><td>0.041 6</td></tr><tr><td>消化能 DE/(MJ/d)</td><td>11.92c</td><td>13.32a</td><td>13.17ab</td><td>13.04b</td><td>0.03</td><td><0.000 1</td></tr><tr><td>代谢能 ME/(MJ/d)</td><td>9.48c</td><td>10.80b</td><td>10.71b</td><td>11.04a</td><td>0.11</td><td><0.000 1</td></tr><tr><td>甲烷能/食入总能CH4-E/GE/%</td><td>7.25a</td><td>6.96bc</td><td>6.76c</td><td>7.16ab</td><td>0.07</td><td>0.222 3</td></tr><tr><td>总能消化率 GE digestibility/%</td><td>51.33c</td><td>57.34a</td><td>56.73ab</td><td>56.18b</td><td>0.54</td><td>0.002 6</td></tr><tr><td>总能代谢率 GE metabolic rate/%</td><td>40.83c</td><td>46.51b</td><td>46.15b</td><td>47.56a</td><td>1.54</td><td>0.014 2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1地衣芽孢杆菌对肉羊 $\\mathrm { C H } _ { 4 }$ 排放的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "反刍动物瘤胃是个复杂、动态的微生态系统，当饲料被摄入后首先在瘤胃中进行厌氧发酵，瘤胃中的微生物把碳水化合物和纤维素发酵成可继续消化利用的物质，此过程中伴随$\\mathrm { C H } _ { 4 }$ 的产生。瘤胃 $\\mathrm { C H } _ { 4 }$ 很难被畜体消化利用，通过暖气排出体外[6]。有研究表明，反刍动物$\\mathrm { C H } _ { 4 }$ 的产生主要受饲料的类型、组成及食糜外流速度等因素的影响。此外，瘤胃环境、瘤胃发酵类型及其微生物区系也是影响 $\\mathrm { C H } _ { 4 }$ 产生的重要因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "芽孢杆菌为革兰氏阳性需氧菌，在生长过程中消耗大量的氧气，使得肠道内氧气浓度降低，为肠道内的生理性厌氧菌的生长繁殖创造有利条件，同时使需氧的有害病原菌的生长由于缺氧受到抑制错误;未找到引用源。反刍动物瘤胃类似一个厌氧发酵罐，地衣芽孢杆菌的这种生物夺氧作用有利于瘤胃厌氧菌的生长和繁殖，通过改变菌群平衡，使得动物机体对饲料利用率得以提高，间接影响 $\\mathrm { C H } _ { 4 }$ 产量。乔国华等[7采用短期人工瘤胃的方法研究了地衣芽孢杆菌培养物对奶牛瘤胃发酵产 $\\mathrm { C H } _ { 4 }$ 的影响，结果表明，地衣芽孢杆菌降低了 $3 7 . 9 1 \\%$ 的 $\\mathrm { C H } _ { 4 }$ 排放量。本试验在肉羊饲粮中添加地衣芽孢杆菌，并对活体动物直接进行 $\\mathrm { C H } _ { 4 }$ 产量的测定，结果表明，当添加水平为 $2 . 4 \\times 1 0 ^ { 8 }$ 和 $2 . 4 \\times 1 0 ^ { 9 }$ CFU/（只·d）时，降低了肉羊 $\\mathrm { C H } _ { 4 }$ 的排放量，降幅分别为 $5 . 1 8 \\%$ 和 $9 . 3 3 \\%$ 。 $\\mathrm { C H } _ { 4 }$ 排放量的降低程度与乔国华等[7体外法的研究结果差异较大。这可能是因为采用体外法难以模拟瘤胃内真实、复杂的消化过程，试验过程中产物的积累也会影响 $\\mathrm { C H } _ { 4 }$ 的产量，而体内法直接对活体动物进行测定，因而使得两者结果有所差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "当前对瘤胃 $\\mathrm { C H } _ { 4 }$ 调控的机理主要有3种模式：1）直接减少甲烷菌的数目，从而减少$\\mathrm { C H } _ { 4 }$ 生成量；2）通过减少 $\\mathrm { C H } _ { 4 }$ 的合成底物氢气（ $\\mathrm { H } _ { 2 }$ ）而抑制 $\\mathrm { C H } _ { 4 }$ 的生成；3）通过特异性抑制 $\\mathrm { C H } _ { 4 }$ 合成过程中的酶活性而减少 $\\mathrm { C H } _ { 4 }$ 排放量8。芽孢杆菌在生长代谢过程中能产生多种抗菌物质，与瘤胄中的微生物之间相互作用，从而影响瘤胃内环境。于萍等研究表明，在断奶后犊牛饲粮中添加纳豆芽孢杆菌，促进了琥珀酸丝状杆菌、白色瘤胃球菌、溶纤维丁酸弧菌和脂解厌氧弧杆菌在消化道中的定植和生长。符运勤[10]以地衣芽孢杆菌、枯草芽孢杆菌饲喂0\\~8周龄哺乳期犊牛，提高了8周龄犊牛瘤胃液细菌种类数目，促进了瘤胃纤维分解菌的定植和繁衍。陈家祥等[在饲粮中添加地衣芽孢杆菌，考察其对肉鸡肠道发育和盲肠微生物区系平衡的影响，结果显示，饲养前期添加水平为 $5 0 \\ \\mathrm { m g / k g }$ ，饲养后期添加水平为 $2 0 0 \\mathrm { m g / k g }$ ，显著优化了肉鸡的肠道组织结构，并使盲肠中的有害菌生长繁殖受到抑制。有报道认为， $\\mathrm { C H } _ { 4 }$ 的生成量与乙酸含量呈负相关，与丙酸含量呈正相关。当乙酸/丙酸为0.5  \n.53 时，瘤胃中底物发酵产生 $\\mathrm { C H } _ { 4 }$ 的能量损失为0；当碳水化合物发酵只产生乙酸而不产生丙酸  \n.54 时， $\\mathrm { C H } _ { 4 }$ 产生时损失的能量达 $3 3 \\% [ 1 2 ]$ 。本试验后期，通过实时定量PCR 对试验羊瘤胃液中  \n.55 的甲烷菌进行绝对定量，发现低、中剂量组的甲烷菌和原虫的数目减少，这与低、中剂量组  \n.56 $\\mathrm { C H } _ { 4 }$ 产量的减少相一致。因此，本试验中低、中剂量组降低了 $\\mathrm { C H } _ { 4 }$ 的排放量，可能是因为直  \n.57 接减少了甲烷菌和原虫的数目，从而减少了 $\\mathrm { C H } _ { 4 }$ 产量。随着添加水平的增加，地衣芽孢杆  \n.58 菌对肉羊 $\\mathrm { C H } _ { 4 }$ 的抑制效果先增强后减弱，其中低、中剂量组显著降低了 $\\mathrm { C H } _ { 4 }$ 产量，并以中  \n.59 剂量组效果较好，而高剂量组对 $\\mathrm { C H } _ { 4 }$ 的产生没有明显的抑制效果，造成这种差异的可能的",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "原因有：1）地衣芽孢杆菌进入瘤胃后与瘤胃微生物之间相互作用，在适量的添加量范围内可以抑制甲烷菌及原虫的数量，而当添加量过高时，瘤胃微生态中的优势种群发生变化，微生物之间复杂的互作效应使得其对甲烷菌的抑制作用减弱；2）从能量代谢的结果可看出，地衣芽孢杆菌及其代谢产物可以促进动物机体对营养物质的吸收和利用，但不同剂量组对这种促进作用的影响途径不同，低、中剂量组更利于减少甲烷能，而高剂量组更利于减少尿能，从而造成对瘤胃 $\\mathrm { C H } _ { 4 }$ 抑制效果的差异。本试验中地衣芽孢杆菌降低 $\\mathrm { C H } _ { 4 }$ 排放量的具体机制，还有待进一步的研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2地衣芽孢杆菌对肉羊营养物质消化代谢的影响 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "营养物质消化率标志着动物机体胃肠道功能的强弱。DM和OM的消化率是动物对饲粮消化特性的综合反映[13]。反刍动物因具有特殊的瘤胃结构，能够利用单胃动物难以利用的纤维素、半纤维素等难降解的结构性碳水化合物。NDF 和ADF 的消化率反映了反刍动物对饲粮的消化利用程度,瘤胃中纤维素的有效降解，不仅为反刍动物和瘤胃微生物提供了能量，更是唾液分泌、反刍、瘤胃液缓冲和瘤胃壁健康的有利保障。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "微生态制剂中的芽孢杆菌活性细胞在动物消化道内能够产生淀粉酶[14]、蛋白酶错误;未找到引用源。、脂肪酶[15]、木聚糖酶[16]、几丁质酶[17]等代谢产物，可降解某些抗营养因子，对动物机体进行辅助消化，从而提高饲料转化率[19]。周盟[20]以植物乳杆菌与枯草芽孢杆菌及其组合菌饲喂犊牛，提高了营养物质表观消化率和肝脏器官指数，并降低了料重比。戴求仲等[21]以枯草芽孢杆菌和地衣芽孢杆菌的芽孢杆菌制剂饲喂黄羽肉鸡，结果发现，连续饲喂6周后，提高了黄羽肉鸡的平均日增重，降低了料重比。周振峰[22]以地衣芽孢杆菌饲喂 80 头荷斯坦泌乳期奶牛，饲粮中添加量分别为 $1 { \\times } 1 0 ^ { 9 }$ 、 $2 { \\times } 1 0 ^ { 9 }$ 和 $3 { \\times } 1 0 ^ { 9 }$ CFU/kg，提高了奶牛泌乳期的产奶量，并以 $2 { \\times } 1 0 ^ { 9 } \\mathrm { C F U / k g }$ 的效果最好。李卓佳等[23]研究发现，以地衣芽孢杆菌饲喂尖吻鲈，提高了尖吻鲈的增重率、特定生长率、肥满度，并且提高了前肠蛋白酶的浓度。以上结果与本试验结果一致。本试验中，3个地衣芽孢杆菌添加组，即地衣芽孢杆菌添加水平为 $2 . 4 \\times 1 0 ^ { 8 }$ 、$2 . 4 \\times 1 0 ^ { 9 }$ 和 $2 . 4 \\times 1 0 ^ { 1 0 }$ CFU/（只·d）时，均提高了肉羊对DM、OM、NDF 和ADF 的表观消化率。这可能与微生态制剂具有营养功能有关，地衣芽孢杆菌在代谢过程中能够为动物机体补充蛋白酶、脂肪酶、淀粉酶纤维素酶等具有较强活性的酶类，降解动物体内的蛋白质、甘油三酯、非淀粉多糖、结构性碳水化物等，促进反刍动物对营养物质的消化和吸收，从而提高饲料利用率。此外，沉积氮是反映肉羊对氮的利用效率的直接指标。本试验中，在肉羊饲粮中添加地衣芽孢杆菌提高了氮的表观消化率以及沉积氮，说明地衣芽孢杆菌利于瘤胃微生物对氮的利用，有利用微生物蛋白的合成。这可能是因为芽孢杆菌在胃肠道中定植后，具有一定的固氮能力，增加了含氮类物质的吸收和利用，减少了营养物质从粪尿中的排出[24]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3地衣芽孢杆菌对肉羊能量消化代谢的影响 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "反刍动物消化过程中的能量损失较非反刍动物大，这与瘤胃发酵中的能量损失有直接的关系，其中 $\\mathrm { C H } _ { 4 }$ 的产生是能量损失的主要途径[25]。有研究报道，在能量代谢中，反刍动物因 $\\mathrm { C H } _ { 4 }$ 形式损失的能量占饲料总能的 $2 \\% { \\sim } 1 5 \\% ^ { 0 }$ 。本试验采用Sable开放式呼吸测热系统测得，对照组的甲烷能/食入总能为 $7 . 2 5 \\%$ ，低、中、高3个地衣芽孢杆菌添加组的甲烷能/食入总能分别为 $6 . 9 6 \\%$ 、 $6 . 7 6 \\%$ 和 $7 . 1 6 \\%$ ，其中以中剂量组，即添加水平为 $2 . 4 \\times 1 0 ^ { 9 }$ CFU/ （只·d）降低效果最显著。本试验中，添加地衣芽孢杆菌降低了甲烷能、粪能，提高了代谢能、总能代谢率，说明添加地衣芽孢杆菌提高了肉羊的能量利用效率。地衣芽孢杆菌在一定条件下能产生抗逆性内生孢子，可以产生脂肽类、肽类、磷脂类、多烯类和氨基酸类等多种抗生素，对病原菌能够起到很好的抑制作用错误!未找到引用源。此外地衣芽孢杆菌还能够产生维生素、氨基酸、有机酸、促生长因子等营养物质，促进动物机体的新陈代谢°。地衣芽孢杆菌提高肉羊能量利用率的原因可能有：1）减少了甲烷菌的数量，降低了 $\\mathrm { C H } _ { 4 }$ 产量，提高了总能代谢率;2）减少了产氢菌的数量，减少 $\\mathrm { C H } _ { 4 }$ 生成所需的底物氢，从而减少 $\\mathrm { C H } _ { 4 }$ 合成量，提高能量利用率；3）改变了瘤胃发酵类型，降低乙酸/丙酸比例，使瘤胃趋于丙酸型发酵，促进能量的消化代谢；4）改变瘤胃微生物菌群，增加了优势种群所占比例，为营养物质的消化提供了良好的发酵环境，提高饲料利用率；5）提高了动物机体的抵抗力和免疫功能，减少了动物机体对环境的应激，从而提高了总能的利用率。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在本试验条件下，得出如下结论：$\\textcircled{1}$ 在肉羊饲粮中添加地衣芽孢杆菌，当添加水平为 $2 . 4 \\times 1 0 ^ { 8 }$ 和 $2 . 4 \\times 1 0 ^ { 9 }$ CFU/（只·d）时，降低了肉羊 $\\mathrm { C H } _ { 4 }$ 排放量，降幅分别为 $5 . 1 8 \\%$ 和 $9 . 3 3 \\%$ 。$\\textcircled{2}$ 在肉羊饲粮中添加地衣芽孢杆菌，提高了肉羊DM、OM、NDF、ADF、氮的表观消化率及沉积氮，并提高了饲粮消化能和代谢能，进而提高了能量利用率。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]SCHEEHLE E A,KRUGER D.Global anthropogenic methane and nitrousoxide emissions[J].The Energy Journal,2006,27:33-44.   \n[2]李胜利,金鑫,范学珊,等.反刍动物生产与碳减排措施[J].动物营养学报,2010,22(1):2-9.   \n[3]BEAUCHEMIN K A,KREUZER M,O'MARA F,et al.Nutritional management for enteric methaneabatement:a review[J].AustralianJournalofExperimental Agriculture,2008,48(2):21-27.   \n[4] 赵一广,刁其玉,邓凯东,等.反刍动物甲烷排放的测定及调控技术研究进展[J].动物营养学 报,2011,23(5):726-734.   \n[5]张菊,李金敏,张志焱,等.地衣芽孢杆菌的研究进展[J].中国饲料,2012(17):9-11.   \n[6] 郝正里,刘世民,孟宪政.反刍动物营养学[M].兰州:甘肃民族出版社,2000:5.   \n[7]乔国华,单安山.直接饲喂微生物培养物对奶牛瘤胃发酵产甲烷及生产性能的影响[J].中 国畜牧兽医,2006,33(5):11-14.   \n[8] 陈丹丹,屠焰,马涛,等.桑叶黄酮和白藜芦醇对肉羊气体代谢及甲烷排放的影响[J].动物营 养学报,2014,26(5):1221-1228.   \n[9] 于萍,王加启,卜登攀,等.日粮添加纳豆芽孢杆菌对断奶后犊牛胃肠道纤维分解菌的影响 [J].中国农业大学学报,2009,14(1):111-116.   \n[10] 符运勤.地衣芽孢杆菌及其复合菌对后备牛生长性能和瘤胃内环境的影响[D].硕士学位 论文.北京:中国农业科学院,2012.   \n[11]陈家祥,张仁义,王全溪,等.地衣芽孢杆菌对肉鸡的肠道组织结构及其盲肠微生物的影响 [C]//福建省畜牧兽医学会2009年学术年会论文集.三明:福建省畜牧兽医学会,2009.   \n[12] WOLIN M J,MILLER T L.Microbe-microbe interactions[M]//HOBSON P N.The rumen microbial ecosystem.New York:Elsevier Applied Science,1998.   \n[13]许贵善,刁其玉,纪守坤,等.不同饲喂水平对肉用绵羊能量与蛋白质消化代谢的影响[J].中 国畜牧杂志,2012,48(17):40-44.   \n[14] NAZMI A R,REINISCH T,HINZ H J.Calorimetric studies on renaturation by $\\mathrm { C a C l } _ { 2 }$ addition of metal-free $\\mathfrak { a }$ -amylase from Bacillus licheniformis (BLA)[J].Journal of Thermal Analysis   \n[15] ROZS M,MANCZINGER L,VAGVOLGYI C,et al.Fermentation characteristicsand secretion of proteases of anew keratinolytic strain of Bacillus licheniformis[J].Biotechnology Letters,2001,23(23):1925-1929.   \n[16] BRADOO S,SAXENA R K,GUPTA R.Two acidothermotolerant lipases from new variants of Bacillus spp.[J].World Journal of Microbiology and Biotechnology,1999,15(1):87-91.   \n[17] DAMIANO V B,BOCCHINI D A,GOMES E,et al.Application of crude xylanase from Bacillus licheniformis 77-2 to the bleaching of eucalyptus Kraft pulp[J].World Journal of Microbiology and Biotechnology,2003,19(2):139-144.   \n[18] TOHARISMAN A,SUHARTONO M T,SPINDLER-BARTH M,et al.Purificationand characterization of a thermostable chitinase from Bacillus licheniformis Mb-2[J].World Journal of Microbiology and Biotechnology,2005,21(5):733-738.   \n[19] RISIEY C.Pelleting direct fed microbial[J].Feed International,1992(5):45-49.   \n[20] 周盟.植物乳杆菌和枯草芽孢杆菌及其复合菌在断奶仔猪和特牛日粮中的应用研究[D]. 硕士学位论文.乌鲁木齐:新疆农业大学,2013.   \n[21]戴求仲,王向荣,蒋桂韬,等.日粮中添加芽孢杆菌制剂对黄羽肉鸡生长性能及养分利用率 的影响[J].家畜生态学报,2011,32(4):18-22   \n[22]周振峰.地衣芽孢杆菌制剂对泌乳奶牛生产性能与健康状况的影响[D].硕士学位论文.咸 阳:西北农林科技大学,2006.   \n[23]李卓佳,袁丰华,林黑着,等.地衣芽孢杆菌对尖吻鲈生长和消化酶活性的影响[J].台湾海 峡,2011,30(1):43-48.   \n[24] 刘晓琳,陈乐超,余新京,等.地衣芽孢杆菌对断奶仔猪生产性能的影响[J].广东饲 料,2008,17(1):27-28.   \n[25]楼灿,姜成钢,马涛,等.饲养水平对肉用绵羊妊娠期消化代谢的影响[J].动物营养学 报,2014,26(1):134-143.   \n[26] HOLTER JB,YOUNG A J.Methane prediction in dry and lactating Holstein cows[J].Journal of Dairy Science,1992,75(8):2165-2175. [27] KIM Y,CHO J Y,KUK JH,et al.Identification and antimicrobial activity of phenylacetic acid produced by Bacillus licheniformis isolated from fermented soybean,Chungkook-Jang[J].Current Microbiology,2004,48(4):312-317.   \nEffects of Baclicus lincheniformis on Methane Emission,Digestion and Metabolism of Mutton Sheep   \nXIAO $\\mathrm { Y i } ^ { 1 , 2 }$ TAO Dayong1 ZHAO Mingming² ZHAO Jiangbo² MA Tao² TU Yan² DIAO Qiyu2\\*   \n(1. College of Animal Science, Tarim University, Alaer 843300, China; 2. Feed Research Institute, Chinese Academy of Agricultural Sciences, Key Laboratory of Feed Biotechnology of the Ministry of Agriculture, Beijing 100081, China)   \nAbstract: This study was conducted to investigate the effects of dietary supplementation of different levels of Baclicus lincheniformis on methane emisson,digestion and metabolism of mutton sheep, with an aim to provide reference of probiotics for reducing methane and improving energy efficiency. Twenty-four healthy Dorper $( \\vec { \\bigcirc } ) \\times \\mathbf { \\qquad }$ thin-tailed Han $( { \\mathcal { G } } )$ crossbred adult wethers (F1) with an average body weight of $( 4 5 . 0 0 { \\pm } 1 . 9 6 ) 1$ kg were randomly divided into 4 groups with 6 sheep in each group and each wether as one replicate,and fed one of the following 4 diets: a basal diet (control group） and the basal diet supplemented with $2 . 4 \\times 1 0 ^ { 8 }$ (low dose group), $2 . 4 \\times 1 0 ^ { 9 }$ （204 (medium dose group) and $2 . 4 \\times 1 0 ^ { 1 0 }$ CFU/d (high dose group) Baclicus lincheniformis per lamb. The experiment lasted for 2O days,including an 8-day adaptation period,and for the following 12 days, methane emission was measured using open-circuit respirometry system and the feces and urine were collected for measuring digestion and metabolism. The results showed as follows: 1) compared with control group, the supplementation of Baclicus lincheniformis with $2 . 4 \\times 1 0 ^ { 8 }$ and （204号 $2 . 4 \\times 1 0 ^ { 9 }$ CFU/d significantly reduced methane emission on the basis of dry mattr intake and metabolic body weight $\\mathrm { [ L / ( k g ~ W ^ { 0 . 7 5 } \\bullet \\mathrm { g } \\mathrm { D M I ) ] } }$ by $5 . 1 8 \\%$ and $9 . 3 3 \\%$ （ $\\scriptstyle ( P < 0 . 0 5 )$ ，respectively. 2) Compared with control group, the supplementation of Baclicus lincheniformis significantly increased the apparent digestibility of dry mater, organic matter, neutral detergent fibre, acid ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "detergent fibre (ADF, except low dose group) and nitrogen,and retained nitrogen ( $\\scriptstyle \\overbrace { P } { < } 0 . 0 5 ,$ ，and significantly improved dietary digestible and metabolizable energy( $\\scriptstyle \\sum 0 . 0 5 ,$ . In conclusion, dietary supplementation of Baclicus lincheniformis can effectively reduce methane emission of sheep,and improve the digestibility of nutrients,all together improve utilization efficiency of dietary energy. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: probiotic; Baclicus lincheniformis; methane; digestion and metabolism; mutton sheep ",
+        "page_idx": 13
+    }
+]

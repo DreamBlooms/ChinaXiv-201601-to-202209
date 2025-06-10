@@ -1,0 +1,567 @@
+[
+    {
+        "type": "text",
+        "text": "谷子PAL基因家族全基因组的鉴定和表达分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孟亚轩，孙颖琦，赵心月，王凤霞，瓮巧云，刘颖慧（河北北方学院 农林科技学院，河北张家口075000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：苯丙氨酸解氢酶（Phenylalanine ammonia-lyase，PAL）基因家族参与苯丙烷类代谢过程，通过调控植物抗病次生物质的合成在植物抗逆反应中发挥重要作用。为明确谷子PAL基因家族在逆境胁迫下的表达规律，该文利用生物信息学方法对谷子PAL基因家族进行鉴定和表达分析。结果表明：谷子具有11个PAL基因，在进化树中可分为3个亚家族，SiPAL7独自进化为一支。通过构建蛋白结构域发现PAL基因家族成员均含有保守的PAL结构域。启动子分析显示，PAL基因含有应答激素、逆境胁迫等多种因子的顺式作用元件，说明 $P A L$ 基因广泛参与不同生物学调控过程。qRT-PCR 结果显示，谷子PAL家族基因多为诱导型表达，不同光照条件下PAL基因表达量变化明显，不同基因具有不同响应模式，说明谷子PAL 基因家族在参与光调节反应中发挥重要作用。谷子PAL基因高度保守，广泛响应不同非生物胁迫，具有表达特异性。该研究结果可为揭示PAL基因家族在调节谷子抗性及胁迫应答过程中的作用提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：谷子，PAL基因家族，生物信息学分析，蛋白结构，表达分析中图分类号：Q943",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genome-wide identification and expression of millet PAL gene family ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MENG Yaxuan, SUN Yingqi, ZHAO Xinyue, WANG Fengxia, WENG Qiaoyun, LIU Yinghui\\* (College ofAgriculture and Forestry,Hebei North University,Heibei Zhangjiakou O75oo0, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Phenylalanine Ammonia-Lyase(PAL)is a key enzyme catalyzes the the first step phenylalanine to trans-cinnamic acid involve in the processof phenylpropane metabolism.PAL gene family plays an important role in the processof plant resistance through regulating the synthesis of plant antibiotics,and is usually encode by a multi-gene family.In order to clarify the expression and thea comprehensive analysis of the millet $P A L$ gene family under adversity stress,uses bioinformatics methods to identify and analyze the $P A L$ gene family in millet. The results showed that millet has $1 1 \\ : P A L$ genes,which are unevenly distributed in different chromosomes.All the $P A L$ gene family contain conserved $P A L$ domains with 1 to 6 exons. Phylogenetic analyses show the $P A L$ gene can be divided into 3 subfamilies,except SiPAL7 evolved into one by itself. $P A L$ gene contains cis-acting elements that respond to hormones,adversity stress and other factors,indicating that $P A L$ gene is widely involved in different biological regulation processes. The expression patterns of $P A L$ gene changes obviously under different light conditions,and different genes have different response patterns. The $P A L$ gene of millet is highly conserved, responds to different abiotic stresses. The results suggesting that $P A L$ genes may play important roles in the regulation of development and stress responses. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: millet, $P A L$ gene family, bioinformatics analysis, protein structure, expression analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "苯丙氨酸解氢酶（Phenylalanine Ammonia-Lyase，PAL）是苯丙烷代谢途径中的关键酶，参与木质素及酚类化合物的合成过程，广泛存在于各种植物中（Fraser&Chapple,2011；盖江涛等，2016）。Koukol&Comm(1961)在大麦（Hordeum vulgare）中首次提取出PAL蛋白，后续马铃薯（Solanum tuberosum）（Joos &Hahl,1992）、烟草（Nicotiana tabacum）（Reichert et al.,2009）等高等植物也相继分离纯化得到PAL蛋白。杨郁文等（2017）研究发现PAL多以同源四聚体形式存在于细胞质和叶绿体内，通过转录水平等多层次调控方式，在植物防御系统中发挥重要作用。启动子缺失实验表明，MYB转录因子可通过结合PAL启动子区段，进行转录水平调控（杨郁文等，2017）。PAL可通过调控HCA类酚类、类黄酮等产物的合成影响果实品质（张丽之等，2018）。除此之外，PAL广泛参与植物响应病原菌侵染过程。杨会晓等(2019)研究表明 PAL与香蕉抗病性密切相关，在枯萎病菌侵染过程中PAL高丰度表达。PAL 活性的增加与苯丙烷类产物的产量提高密切相关，其活性水平随发育阶段、细胞和组织的分化、不同应激刺激而改变。Lister etal.（1996）首次发现PAL 活性与苹果(Malus pumila)果实类黄酮含量存在显著正相关。杨会晓等（2019）发现MaPAL 在香蕉（Musanana）果实发育成熟过程高丰度表达，同时次级代谢物质在这一阶段也具有较高的表达效率。Olsen et al.(2008)研究发现拟南芥（Arabidopsis thaliana）AtPAL1和 AtPAL2基因在氮胁迫和温度变化过程中高丰度表达，并伴随着类黄酮化合物的积累。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着基因组学的发展，多种植物基因组测序相继完成，植物中PAL基因的功能也陆续得到研究。大豆（Glycine max）PAL1-1、PAL2-1、PAL2-3在木质素合成过程中发挥重要作用（候鹏等，2016）；ZmPAL10强烈响应纹枯病菌侵染玉米（Zea mays）过程（邓路长等，2019）；VamPAL参与山葡萄（Vitis amurensis）花色苷的积累（陈蒙等，2018）。基因组学的迅速发展标志着在分子水平上进行系统分析已成为当下生物学研究的主流趋势（王灿等，2020）。谷子（Setariaitalica）属1年生禾本科作物，基因组小且为二倍体，具有抗旱性强、生育期短、产量高等特点，是挖掘作物抗旱基因和解读抗逆分子机制的重要作物（宋健等，2020）。谷子生育期内需水量较少，属环境友好型作物（宋健等，2019），抗逆育种靶向基因资源的研究已成为谷子增收工作的重要环节（Nadeem etal.,2020）。谷子基因组测序的完成为谷子研究搭建了数据基础，标志着谷子遗传研究已进入后基因组学时代（Bennetzen et al.,2012；Zhang et al.,2012）。PAL 基因家族广泛存在于植物中，但关于谷子PAL基因家族的研究却鲜有报道。为明确谷子PAL基因家族在逆境胁迫过程中的作用机理，本研究利用生物信息学方法对谷子PAL基因家族进行鉴定，分析其结构特点及进化方式，并构建PAL家族基因在非生物胁迫下的表达模式，为谷子PAL基因家族的生物学功能研究提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试谷子（Setariaitalica）品种为1年生‘张杂谷8号’，盆栽种植于河北北方学院农场，分别置与自然光、黑暗、红光、蓝光、远红光条件下照射 $2 4 \\mathrm { h }$ ，取幼嫩叶片，液氮速冻后，-80℃保存备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2谷子PAL基因的鉴定及蛋白序列分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用Pfam 数据库查找并下载PAL蛋白结构域的隐马模型文件（Pfam 号码：00221）（Finn atal.,2008），利用 plant Genes 基因组获取 Gene stable ID 及 Transcript stable ID，通过 CDD 和 InterProScan 对 Gramene 网站获取的序列进行筛选鉴定，去除冗余，得到PAL蛋白序列、染色体定位等基因信息（Marchler et al.,2009;Hunter et al.,2009）。利用 ProtParam数据库通过序列信息得到氨基酸数量、等电点等用于推测蛋白质的相关因子（宋健等，2020）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3基因的染色体定位",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过 MG2C 在线工具，利用谷子PAL基因位置信息以及从Ensemble Plants 查询到的谷子染色体长度，绘制PAL基因的染色体定位。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4谷子PAL蛋白分析及进化树绘制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用 ProSite 和ClustalX在线软件对谷子PAL 蛋白结构域位置进行序列对齐。通过MEGA6.0软件中的衔接法（neighbor-joining,NJ）采样泊松模型绘制蛋白进化树（bootstrap为1000）（Sigrist etal.,2010; Larkin",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "et al.,2007）。通过上述方法对二穗短柄草（Brachypodium distachyon）、高梁（Sorghum bicolor）、狗尾草（Setariaviridis）等54个PAL家族成员绘制蛋白进化树（bootstrap 为默认值）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5Motif获取及蛋白预测",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 MEME 网站得到谷子PAL 的motif模式（最小宽度设置为60，最大宽度设置为200）（Bailey et al.,2009），利用 Weblogo 分析得出PAL 结构域 motif（Stacks per Line 设置为100），最后在 SWISS-MODEL网站中利用其各基因位点出现频率最高基因组成的保守序列预测其三维结构并得到螺旋模式（Kiefer et al.,2009），并根据上述方法对二穗短柄草、水稻等物种的PAL蛋白进行预测，分析对比各物种的蛋白结构差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6PAL同源共线性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在PAL系统发育的基础上,谷子和水稻(Oryza sativa）的直系同源片段已得到鉴定。利用 Ensembl Plants网站的基因组比较功能得到谷子和水稻PAL 同源物的同源共线图（Wang etal.,2012）。通过其染色体定位及基因位置，在 Adobe Ilustrator CS4 软件绘制谷子和水稻PAL 同源物的同源共线图，分析其共线性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7PAL基因结构分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过Phytozome 数据库获得谷子PAL 基因的序列信息，使用GSDS2.0在线数据库分析其编码序列，得到内含子-外显子结构模型（Huet al.,2015）。在谷子基因组数据库得到PAL 起始密码子上游1500 bp 区域序列，利用plantCARE 分析其顺式作用元件，通过GSDS2.0将其可视化（Lescot et al.,2002）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.8谷子PAL基因表达模式分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 Phytoz0me数据库获得11个基因在不同诱导处理下的表达模式，包括了强光诱导两周的叶片、强光诱导一周的芽、黑暗诱导的地上组织、红光诱导的地上组织、正常光诱导的根、干旱诱导的根、尿素诱导的根、强光诱导的穗，利用TBtools 绘制热图（Chen etal.,2020）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.9谷子PAL基因在不同光质照射下的RT-qPCR分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用DNAMAN设计引物，选择Actin为内参基因。使用植物总RNA试剂盒提取RNA（天根生化科技有限公司），FastQuant RTKit合成cDNA，使用Agilent 300OP 荧光定量 PCR仪进行PCR 扩增。反应条件为95℃预变性 $2 ~ \\mathrm { m i n }$ ，95℃变性 $1 5 \\mathrm { ~ s ~ }$ ，60℃退火 $3 0 ~ \\mathrm { s }$ ，40个扩增循环，每个样品进行3次重复，采用 $2 ^ { - }$ △ct进行数据处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果和分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1谷子PAL基因家族鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用 CDD 和 InterProScan 软件对 plant Genes 63 基因组获取的 Gene stable ID及 Transcript stable ID（PF号码为00221）检测鉴定，并检查缺失，去除冗余，获得谷子 $P A L$ 基因序列。谷子中共鉴定11个PAL家族基因，分别命名为SiPALI\\~SiPAL11（表1）。11个PAL蛋白序列差异较小：氨基酸长度为698 aa（SiPAL1、SiPAL8) ${ \\sim } 8 9 1$ aa（SiPAL7），开放阅读框长度2142bp（SiPAL3） ${ \\sim } 4 6 1 0 \\$ bp（SiPAL2），分子质量为74.99kD（SiPAL8） ${ \\sim } 9 5 . 0 1 \\mathrm { k D }$ （SiPAL7），等电点为5.82（SiPAL5） ${ \\sim } 6 . 5 2$ （SiPAL6），含有1（SiPAL3、SiPAL4、SiPAL5) ${ \\sim } 6$ （SiPAL7）个外显子。通过表1发现位于1号染色体的5个基因（SiPAL1-SiPAL5）具有相似的编码蛋白特征，且基因位置紧密排列在一起，位于7号染色体的3个基因（SiPAL9-SiPAL11）虽然紧密排列，但其编码蛋白的特征却相差较大。所有PAL蛋白的等电点均在 $5 . 8 2 { \\sim } 6 . 5 2$ 之间，说明苯丙氨酸解氢酶具有酸性特征，PAL蛋白可能在弱酸性的环境中发挥作用。PAL家族基因除 SiPAL7（6）外，外显子数量较小，推测10个PAL家族基因具有相似的功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由PAL基因的染色体分布来看，1号染色体有5个紧密排列的PAL基因，分布的基因数量最多；7号染色体具有3个PAL基因且紧密排列，其他染色体上没有成簇 PAL基因分布（表1，图1）。还发现PAL基因不均匀分布在染色体各个部位，其中1号染色体和7号染色体PAL 基因形成簇状分布。利用Phytozome数据库的Gbrowse功能比对成簇分布的PAL基因家族成员与侧翼编码蛋白质基因位置关系，并参考 Holub（2001）对基因簇的界定，暗示谷子PAL家族基因可通过串联复制实现家族扩增。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e3bf372582659d8d4bbff7e6213b37a6ebbb0c73fdd1d069ad0925072595636.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">表1谷子PAL 基因家族信息 Table 1 PAL-domain gene family information of millet</td></tr><tr><td colspan=\"7\"></td><td colspan=\"2\">推测蛋白质 Speculated proten</td></tr><tr><td>基因名</td><td>转录名 Genomic</td><td>位置</td><td>染色体位置 Chromosome</td><td>外显子数 量 No.of</td><td>开放阅读框 长度</td><td>氨基酸</td><td>分子质量</td><td>等电点</td></tr><tr><td>Gene</td><td></td><td></td><td>location</td><td>extron</td><td>Open reading fragment length Amino acid</td><td>（aa）</td><td>Molecular</td><td>Isoelevtric</td></tr><tr><td>name</td><td>accession no. Location（bp）</td><td>31757351~31</td><td></td><td></td><td>（bp）</td><td></td><td>mass(kD)</td><td>point</td></tr><tr><td>SiPAL1</td><td>KQL30567</td><td>761757 31766821~31</td><td>I</td><td>2</td><td>4407</td><td>698</td><td>75.16</td><td>5.86</td></tr><tr><td>SiPAL2</td><td>KQL30568</td><td>771430 31785798~31</td><td></td><td>2</td><td>4 610</td><td>718</td><td>77.8</td><td>5.94</td></tr><tr><td>SiPAL3</td><td>KQL30569</td><td>787939 31795010~31</td><td>I</td><td>1</td><td>2142</td><td>713</td><td>76.76</td><td>5.89</td></tr><tr><td>SiPAL4</td><td>KQL30570</td><td>797372 31806380~31</td><td>I</td><td>1</td><td>2363</td><td>713</td><td>76.78</td><td>5.89</td></tr><tr><td>SiPAL5</td><td>KQL30571</td><td>808854 48576433~48</td><td>I</td><td>1</td><td>2 475</td><td>714</td><td>76.84</td><td>5.82</td></tr><tr><td>SiPAL6</td><td>KQL27213</td><td>579669 2230732~223</td><td>Ⅱ</td><td>2</td><td>3237</td><td>703</td><td>75.7</td><td>6.52</td></tr><tr><td>SiPAL7</td><td>KQL13034</td><td>4478 30509268~30</td><td>Ⅲ</td><td>6</td><td>3747</td><td>891</td><td>95.01</td><td>5.97</td></tr><tr><td>SiPAL8</td><td>KQL02164</td><td>512764 25018087~25</td><td>VI</td><td>2</td><td>3497</td><td>698</td><td>74.99</td><td>5.93</td></tr><tr><td>SiPAL9</td><td>KQK98112</td><td>020976 25037649~25</td><td>VII</td><td>2</td><td>2 890</td><td>703</td><td>75.58</td><td>6.18</td></tr><tr><td>SiPAL10</td><td>KQK98115</td><td>040471</td><td>VII</td><td>2</td><td>2 823</td><td>701</td><td>75.52</td><td>6.07</td></tr><tr><td>SiPAL11</td><td>KQK98116</td><td>25050638~25 053780</td><td>VII</td><td>2</td><td>3143</td><td>850</td><td>91.2</td><td>6.39</td></tr><tr><td colspan=\"2\">10Mb 15Mb 20Mb 25Mb 30Mb 35Mb 40Mb 45Mb F50Mb</td><td colspan=\"8\">2号染色体 Chromosome II SiPAL6 48576433</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图1谷子 $P A L$ 基因家族的染色体分布",
+            "Fig.1 Chromosome distribution of PAL gene family in millet "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2谷子PAL蛋白进化树的构建",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用蛋白序列对齐文件，通过衔接法绘制出谷子PAL的进化树（图2）。根据进化树拓扑结构可以分为3组蛋白，发现第1组和第2组蛋白数量相同且分支分布情况相似，还发现小部分PAL蛋白的临界值达到100。根据进化树的拓扑情况，说明这两组基因可能经过复制的方式得到或者执行相似基因功能。由进化树聚类分析得出相同PAL蛋白结构域与同一基因扩增或复制的蛋白聚合在一起，如 SiPAL6和 SiPAL9 分散复制聚在一起，相同结构域聚合为一组。另外 SiPAL7独自分支为一组，说明 SiPAL7可能具有不同的进化轨迹。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/354a8c86cee1d34f1d97f418ccfaed39dad2323dbccc8ecfe6ea4905fac7570a.jpg",
+        "img_caption": [
+            "图2PAL系统发育进化树Fig.2Phylogenetic tree ofPAL-protein"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同物种PAL蛋白进化关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为揭示谷子PAL基因家族演化关系，利用MEGA6.0软件将单、双子叶共6个物种的54个PAL蛋白利用衔接法构建系统发育进化树（图3）。PAL基因家族演化分析中选用二穗短柄草9个，高梁8个、狗尾草11个、水稻10个、拟南芥5个PAL蛋白。发现7个亲缘关系组中部分物种PAL蛋白呈家族性聚集，不同纲目物种之间的PAL蛋白也具有较高的同源性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "黑色为谷子，青色为二穗短柄草，黄色为高粱，蓝色为狗尾草，紫色为拟南芥，红色为水稻。 Black isSetariaitalica,cyanisBrachypodiumdistachyon,yellowisSorghumbicolor,blueisSetariaviridis,purpleisArbdopis thaliana,redisOryzasativa. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/df92d90267113d0c5da5a7a36fddbedd8234cc8c0aa38b0bf055fface158bcbf.jpg",
+        "img_caption": [
+            "图3不同物种PAL蛋白进化树",
+            "Fig.3 Phylogenetic tree of PAL protein in different orders "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4谷子PAL蛋白的结构域分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过ProSite软件对谷子PAL蛋白的结构域分析，结果发现所有PAL蛋白均具有保守的PAL 结构域。SiPAL7蛋白除含有PAL 结构域以外还具有 HtRna 结构域、HGTP 结构域，其中HtRNA 结构域可能调控氨酰腺苷酸的合成，HGTP 结构域可能与相关蛋白质的合成有关（图4）。本研究还发现 SiPAL7的氨基酸长度最长，拥有蛋白结构域最多，可能与其具有最多的外显子（6个）有关，意味着拥有更多的遗传信息。另外，SiPAL11虽同样具有较长的氨基酸序列，但只含有PAL蛋白结构域，暗示 SiPAL11可能拥有一些低复杂度的蛋白结构域。通过MEME软件对谷子PAL蛋白结构域分析，发现PAL结合结构域的氨基酸组成较为稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf7dd5767b28727cc5cf1ed186de0f6cbeb3555e099ce34cf199484e99ee2862.jpg",
+        "img_caption": [
+            "图4谷子PAL蛋白结构域示意图",
+            "Fig.4 Schematic diagram of the PAL protein domain of millet "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5谷子PAL蛋白3D结构与序列分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用 SWISS-MODEL软件分析各基因位点出现频率最高的保守基序，预测谷子PAL蛋白的3D结构，发现谷子PAL蛋白的PAL3D 结构在对称的基础上具有较多的螺旋、折叠方式（图5：A）。通过 SuperposeVersion 1.0将各物种间的PAL蛋白3D结构进行对比，比值越小证明物种间PAL蛋白结构越相似。由表 2可知，狗尾草与谷子3D结构相差最小（0.38），与进化树分支聚类情况相一致，证明两者具有最近的亲缘关系，相差最大的是谷子与二穗短柄草（3.93），这与谷子和二穗短柄草为不同纲目的物种相对应。通过蛋白 3D 结构发现PAL蛋白的三级结构大多具有对称性，说明其蛋白质的结构单元具有一定的相似性，从基因进化来看，这种对称性代表着PAL基因存在复制融合。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AVELDEARRVKASSeYSMNGDYGVTTGFGATSHRRTKPGALQELRELNAGFGTGDGHLPERAAMLVRINLLQGYSGRFE   \nLEAIKL-NVPCLPLRGTTASGDLVPLSYIAGLTGReNAVDGEKVRAEAFKAGTEGGFFELPKEGLAMVNGTVGSLAVEPANV   \nALFE   \nNSDNPIDRKAHGFQGPGVDRLAAGLFAQFSELVNSGRNPYGFKGEIAMSYEQLNP   \nHQSAQHDSEADEE 氨基酸位点 Amino acid sites ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea03fa06dbf7b569ee08db1fb476492a4f7c0f514b342becb1b2822ad8efd5c7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/573d6f207064680a8e257ee79ad015f5c8552acbe5ce1dfe442fdb9abefc8d3b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/49041f009b3ff025543605557e39b6a807896c602281f36c886a7617f7550eae.jpg",
+        "img_caption": [
+            "二穗短柄草Brachypodiumdistachyon"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "谷子Setariaitalica",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "高梁Sorghumbicolor",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2998b137806328107f948a122680d9c06df075df1d784e86867530eb9780eddc.jpg",
+        "img_caption": [
+            "狗尾草 Setariaviridis "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6616ffaedbf9ce43cc7c2043c365610118d883f5f01d9f23e28f1699ae681cd7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/af799c7ac83f36fea845e76d8a949a5dcdf5cf05625b129e5d89743ded5da633.jpg",
+        "img_caption": [
+            "拟南芥 Arabidopsisthaliana "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "水稻Oryzasativa",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.PAL氨基酸序列；B.PAL蛋白3D结构示意图。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.PAL amino acid sequence；B.PAL protein 3D structure diagram. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图5PAL蛋白的3D结构及序列 Fig.5 3D structure and sequence ofPAL protein ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/babe21a1028613d2b7a71dd1bb433f73eaea6f3be30207fa9d0ff7a549d6f8d7.jpg",
+        "table_caption": [
+            "表2PAL蛋白叠加比对Table 2 PAL protein stacking ratio"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Item</td><td>谷子 Setaria italica</td></tr><tr><td>二穗短柄草 Brachypodium distachyon</td><td>3.93</td></tr><tr><td>高粱Sorghum bicolor</td><td>0.67</td></tr><tr><td>狗尾草Setariaviridis</td><td>0.38</td></tr><tr><td>拟南芥 Arabidopsis thaliana</td><td>0.81</td></tr><tr><td>水稻 Oryza sativa</td><td>0.95</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.6谷子、水稻PAL同源共线性分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利用 EnsemblPlants 网站 synteny 功能得到谷子和水稻PAL 同系物的同源共线图。通过染色体定位及基因位置，绘制谷子和水稻 $P A L$ 同源物的同源共线图（图6仅展示代表成员）。结果表明，谷子11个PAL家族成员均可在水稻中找到共线基因。如含有Os02g0626100、Os02g0626400 等的水稻2号染色体基因组区域与谷子1号染色体的基因组块具有共线性，含有 $\\it { O s 0 5 g 0 1 5 0 9 0 0 }$ 的水稻5号染色体基因组区域与谷子3号染色体的基因组块具有共线性；同样含有Os04g0518100、Os04g0518400的水稻4号染色体基因组区域与谷子7号染色体组块具有共线性。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d779a6c434a07b0a2ec4f4d25090811538006b2a8956fa81f8a2b596d65e084.jpg",
+        "img_caption": [
+            "图6谷子和水稻PAL基因共线性分析",
+            "Fig.6 Collinearity analysis of PAL gene in millet and rice "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$2 . 7 P A L$ 基因结构分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利用GSDS2.0 对谷子 $P A L$ 序列信息分析并可视化，得到PAL 基因内含子-外显子结构模型图(图7：A)，发现SiPALs 基因大多数只具有1个内含子（SiPAL1、SiPAL2、SiPAL6、SiPAL8、SiPAL9、SiPAL10、SiPAL11），且这些基因的外显子结构及大小具有一定的相似性，这种结构间的相似性说明他们可能在植物的生化过程中执行相同的作用。SiPAL3、SiPAL4、SiPAL5同样具有相同的外显子结构，但均不含有内含子。SiPAL7拥有最多的内含子数量（5）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过上述方法将plantCARE分析得到的顺式作用元件区域进行可视化，得到PAL顺式作用元件分布图（图7：B）。结果发现PAL家族中含有多种激素信号响应元件和环境信号响应元件。其中分布最广的为茉莉酸响应元件，存在于所有PAL 基因中，暗示PAL 基因通过响应植物内源激素参与植物抗病过程；分布最少的元件为胚乳表达元件，只存在于 SiPAL9中；其他不同类型顺式作用元件如胁迫元件、光响应等不均匀分布在 SiPALs 各个位置。通过上述结果可以看出，PAL家族基因在谷子发育、抗病及胁迫过程中发挥重要作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd7ac46c9c1a97be1bf68371536f2d803f9953de0fead2b250ee6e7a0b85924d.jpg",
+        "img_caption": [
+            "Thelength ofnuclotidesequence(kb) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "B ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A.防御与应激响应；B.赤霉素响应；C.脱落酸响应；D.生长素响应；E.光响应；F.茉莉酸响应；G.玉米醇溶蛋白调控 元件；H.分生组织诱导；I.MYB 结合位点；J．缺氧诱导；K.胚乳表达；L.低温胁迫。   \nA.Defense andstrssresosiveness;B.Gibberelinesponsivens C.Abcisicacidresposivenes;D.Auxinresponsivess;E. Light responsiveness;F.MeJAresponsivenes; G.Zein metabolismregulatoryelements; H.Meristem induced expresson;IMYB binding site; J. Hypoxia induced expression; K. Endosperm expression; L. Low temperature stress. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/83c7148c0e42ed691c72a0a6494ff3c1b1b6581eb814d5f4c9a6cfbcce47ce28.jpg",
+        "img_caption": [
+            "Fig.7 PAL gene intron-exon structure and cis-acting "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图7PAL基因内含子-外显子结构及顺式作用元件",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.8谷子PAL基因表达分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从 Phytozome 数据库获得的11个基因在谷子不同组织中面对不同非生物胁迫的表达量数据，利用TBtools将结果可视化，绘制热图（图8）。发现所有PAL基因均检测到表达量，其中 SiPAL1、SiPAL2、SiPAL8、SiPALI0在强光诱导一周的芽、黑暗诱导的地上组织、红光诱导的地上组织、正常光诱导的根、干旱诱导的根、尿素诱导的根、强光诱导的穗中均具有明显高于其他基因的表达量。本研究发现在强光诱导生长2周叶片的表达量中只有 SiPAL2具有微弱表达，其他基因几乎不表达。SiPAL3、SiPAL6、SiPAL9在谷子不同组织中的表达量均明显低于其他基因。本研究结果发现，PAL 家族基因为诱导型表达，即在干旱或强光等诱导条件下，表达量为增强或抑制，但存在着不同基因的差异性。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7db01663618ca7acc1180bd99240841b63921efc4f6b71dce0ed8fac2e9ea39c.jpg",
+        "img_caption": [
+            "图8.谷子PAL基因在不同诱导下各组织的表达量"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A.强光诱导叶片两周;B.强光诱导芽一周;C.黑暗诱导的地上组织;D.红光诱导的地上组织;E.尿素诱导的根;F.强光诱 导的穗;G．正常光诱导的根;H.干旱诱导的根。   \nA.Strong light induced theleaves fortwo weks;B.Inducebud with strong lightforone week;C.Dark-induced groundtissue;D.   \nRedlight inducedabove-groundtisue;E.Ureainducedroots;F.Anearinducedbystronglight; G.Normallight-inducedroots;H.   \nDrought-induced roots. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig 8.The expression levels of millet PAL gene in various tissues under different induction ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.9谷子PAL基因在不同光质照射下的RT-qPCR分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为进一步探究PAL家族基因在谷子光调节反应中的作用，对谷子进行不同光质处理。由图9可知，红光照射下，SiPAL1、SiPAL8、SiPAL5上调表达，其余基因与对照组相比，表现出不同程度的下降。蓝光照射下SiPAL1、SiPAL8、SiPAL10等上调表达,SiPAL7与对照组相比无明显变化。黑暗处理下,SiPAL1、SiPAL8、SiPAL2 等上调表达，其他基因表现为下调，其中 SiPAL6表达量极低。远红光照射下，SiPAL1、SiPAL8、SiPAL2、SiPALI0、SiPAL5、SiPALI等上调表达。PAL家族基因在不同光质照射下表达量变化明显，说明PAL 基因在谷子光形态建成中发挥重要作用，SiPAL1、SiPAL8为主要成员。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcb8ad0d8ad7316e7093f968fa884e0a3eee899b648fc626795c3909621ab061.jpg",
+        "img_caption": [
+            "图9.谷子PAL基因在不同光质下的表达量"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Control．正常光诱导；RL.红光诱导；BL．蓝光诱导；DL．黑暗诱导；FRL.红远光诱导。 Control.Normalightinducation;RL.Redlightinduction;BL.Bluelightinduced;DL.Dark induction;FEL.Farredlightinduction ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure 9. The expression of PAL gene in millet under different light quality ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PAL 是与植物抗性相关的关键酶（孙宇蛟等，2018），对其研究也备受关注，前人已经对多物种的PAL基因家族进行了分析，如玉米（邓路长等，2019）、苹果（张丽之等，2018）和陆地棉（Gossypium hirsutumLinn.）（杨郁文等，2017）。其中玉米和陆地棉均含有13个PAL基因，苹果含有8个PAL家族成员，与本研究中谷子鉴定出11个PAL基因结果相差不大，说明PAL 基因以小基因家族形式存在，在物种分化过程中没有出现大幅度扩增现象。谷子PAL基因编码的蛋白中有部分蛋白具有相近的分子量、等电点等，与香蕉（杨会晓等，2019）和青天葵（Nervilia fordii）（黄琼林等，2016）的研究较一致，说明其编码的蛋白具有相似的功能。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "基因复制事件是基因家族扩张的主要动力。本研究发现，谷子PAL基因呈簇状分布，在苹果（张丽之等，2018）、大豆（候鹏等，2016）、西瓜（Citrullus lanatus）（Dong&Shang,2013）中PAL 染色体定位同样存在着簇状分布现象，其中西瓜12个PAL基因中有7个串联排列在4号染色体，2个串联排列在7号染色体上，其余单独排列在染色体2号、3号、8号上，与谷子PAL染色体分布有着高度的相似性，说明在PAL 基因家族的扩增中存在串联复制、分散复制、片段复制（郭栋等，2019）。共线性分析发现，11个谷子PAL 基因家族成员在水稻染色体组中均存在共线性关系，说明PAL基因在进化过程中保守性较高。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "根据进化树的拓扑结构，谷子PAL蛋白进化树分为3组，SiPAL7独自进化为一支，说明 SiPAL7与其他成员同源性较低，可能具有不同起源或进化轨迹，本研究结果与陆地棉（杨郁文等，2017）具有一致性。系谱树内同一进化枝PAL成员基因结构较为一致，具有较高的保守性。但ⅢI组成员SiPAL7与其他家族成员相比基因结构差异较大，拥有更多的内含子数量，这暗示PAL基因家族具有多样化的转录调控过程。PAL基因家族成员结构的差异性可能会影响其功能活性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "启动子分析发现PAL家族基因不仅含有大量非生物胁迫元件，还存在光响应、激素响应等多种类型元件，不同PAL家族成员所含元件数量和种类不同，说明PAL基因家族广泛参与不同生物学调控过程，不同$P A L$ 基因具有其特异调控模式。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "植物在遭受干旱、高温等胁迫时，会迅速产生大量活性氧（ROS）造成细胞结构损伤。苯丙烷代谢途径中产生的类黄酮等次生代谢产物，具有清除ROS的抗氧化活性（杨会晓等，2019）。本研究发现，PAL家族基因多为诱导型表达，在受到不同胁迫刺激时，SiPALs表达量迅速提升，说明PAL家族基因广泛响应不同非生物胁迫，类黄酮等次级代谢产物在非生物胁迫过程中可能具有较高的合成活性。同时发现，部分基因具有相似的响应模式，说明 SiPALs 可能存在功能冗余。光质在植株建成、生长发育过程中具有重要作用。荧光定量分析结果表明，在不同光照条件下，PAL家族基因差异表达。SiPAL5在红光、红远光高表达、SiPALII在红远光高表达等，这些变化说明PAL家族基因在谷子光调节途径中存在复杂的调控机制，不同PAL 基因存在功能分化。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BAILEY TL,BODEN M,BUSKEFA,et al.,2009.MEME SUITE:tools for motif discovery and searching[J]. Nucl Acid Res,37(2): 202-208.   \nBENNETZEN JL, SCHMUTZ J, WANG H, et al.,2012. Reference genome sequence of the model plant setaria[J]. Nat Biotechnol, 30(6): 555-561.   \nCHEN CJ, CHEN H,ZHANG Y,etal.,2020.TBtools: An integrative toolkit developed for interactive analyses of Big Biological Data[J]. Mol Plant,13(8): 1194-1202.   \nChEN M, ZHANG X, ZHANG Y, et al.,2018. Cloning and expression analysis of phenylalanine ammonia lyase gene (PAL) in grapevine[J].Acta Agric Boreal-Sin,33(6): 64-71.[陈蒙，张雪，张宇，等，2018.山葡萄苯丙 氨酸解氨酶基因（PAL）的克隆与表达分析［J]．华北农学报，33（6）：64-71.]   \nDONG CJ, SHANG QM., 2013. Genome-wide characterization of phenylalanine ammonia-lyase gene family in watermelon (Citrullus lanatus) [J].Planta, 238(1): 35-49.   \nDENG LC, CUI LN, YANG L, et al.,2019. Identification of maize phenylalanine ammonia lyase family genes and disease resistance analysis of sheath blight[J].Mol Plant Breed,17(3): 891-897.[邓路长，崔丽娜，杨麟，等， 2019.玉米苯丙氨酸解氨酶家族基因的鉴定与纹枯病的抗病分析[J]．分子植物育种，17（3）：891-987.]   \nFINN RD,BATEMANA, CLEMENTS J, et al.,2008.The Pfam protein families database[J]. Nucl Acid Res,36(1): 281-288.   \nFRASER CM, CHAPPLE C,2011.The phenylpropanoid pathway in Arabidopsis[J]. Arabidopsis Book,9: e0152.   \nGAI JT,SHEN JK, WANG P.,2016.Identification and sequence analysis of PAL gene families in major crops[J]. Jiangsu Agric Sci,4(6):45-49.[盖江涛，沈建凯，王鹏，2016．主要作物中PAL基因家族的鉴定和序列分 析[J]．江苏农业科学，44（6）：45-49.]   \nGUO D,DU M, ZHOU BY,et al.,2019. Identification and bioinformatics analysis of maize SAUR gene family[J]. Plant Genetic Resour,20(1):90-99.[郭栋，杜媚，周宝元，等，2019.玉米 SAUR基因家族的鉴定与生物信 息学分析[J]．植物遗传资源学报，20（1）：90-99.]   \nHOLUB EB,2001.The arms race is an ancient history in Arabidopsis,the wildflower[J]. Nat Rev Genet, 2(7): 516-527.   \nHOU P,LIANG D, ZHANG WG,et al.， 2016. Study on the temporal and spatial expression of phenylalanine ammonia lyase gene family in soybean[J]. Crops, $3 2 ( 2 ) : 5 7 - 6 2$ .[侯鹏，梁冬，张卫国，等，2016．苯丙氨酸解 氨酶基因家族在大豆中的时空表达研究［J]．作物杂志，32（2）：57-62.]   \nHUANG QL,HE R, ZHAN RT, 2016. The sequence characteristics and expression analysis of $P A L$ gene of Cyclobalanopsis sinensis[J].JHenan Agric Sci,45(2):104-108.[黄琼林，何瑞，詹若挺，2016.青天葵 PAL 基因序列特征和表达分析[J]．河南农业科学，45（2）：104-108.]   \nHU B,JIN J, GUO AY,et al.,2015.GSDS 2.0:an upgraded gene feature visualization server[J]. Bioinformatics, 31(8): 1296-1297.   \nHUNTER S,APWEILER R,ATTWOOD TK,et al.,2009. InterPro: the integrative protein signature database[J]. Nucl Acid Res, 37(1): 211-215.   \nJOOS H, HAHL BK,1992. Phenylalanine ammonia-lyase in potato(Solanum tuberosum L.): genomic complexity, structural comparison of 2 selected genes and modes of expression[J]. Eur JBiochem, 204 (2): 621-629.   \nKIEFER F,ARNOLD K,BORDOLI L,et al.,2009.The SWISS-MODEL repository and associated resources[J]. Nucl Acid Res, 37(1): 387-392.   \nKOUKOL J, CONN EE,1961. Metabolism of aromatic compounds in higher plants. IV.Purification and properties of phenylala-nine deaminase of Horden vulgare[J]. JBiol Chem, 236(10): 2692-2698.   \nLARKIN MA，BLACKSHIELDS G,BROWN NP,et al.，2007. Clustal W and Clustal X version 2.0[J]. Bioinformatics,23(21): 2947-2948.   \nLESCOT M, D HAIS P,THIJS G, et al.,2002. PlantCARE,a database of plant cis-acting regulatory elements and a portal to tools for in silico analysis of promoter sequences[J]. Nucl Acid Res,30(1): 325-327.   \nLISTER CE,LANCASTER JE，WALKER JRL，1996.Phenylalanine ammonia-lyase (PAL） activity and its relationship to anthocyanin and flavonoid levels in New Zealand-grown apple cultivars[J]. JAmer Soc Hortic Sci, 121(2): 281-285.   \nMARCHLER BAUER A, ANDERSON JB,CHITSAZ F, et al., 2009. CDD:specific functional annota-tion with the conserved domain database[J]. Nucl Acid Res, 37(1): 205-210.   \nNADEEM F,AHMAD Z, Ul HASSAN M,et al.,2020.Adaptation of foxtail milet (Setaria italica） to Abiotic Stresses: a special perspective of responses to nitrogen and phosphate limitations.[J]. Front Plant Sci, 11:187-198.   \nOlSEN KM,LEA US,SLIMESTAD R, et al.,2008. Differential expression of four Arabidopsis PAL genes; PAL1 and PAL2 have functional specialization in abiotic environmental-triggered flavonoid synthesis[J].J Plant Physiol, 165(14): 1491-1499.   \nREICHERT AI,HE XZ,DIXON RA， 2009.Phenylalanine ammonia-lyase (PAL） from tobacco (Nicotiana tabacum) : charac-terization of the four tobacco PAL genes and active heterotet-rameric enzymes[J]. Biochem J, 424 (2) : 233-242.   \nSONG J, CAO XN, WANG HG,et al.,2019. Identification and expression analysis of SiASRs family genes[J]. Crops,34(6):33-42.[宋健，曹晓宁，王海岗，等，2019.SiASRs家族基因的鉴定及表达分析[J].作物杂志， 34(6）: 33-42.]   \nSONG J, CAO XN, WANG HG, et al.， 2020. Identification and expresson analysis of SBP protein gene family in millet millet[J].Acta Agric Nucl Sin,34(7):1409-1420.[宋健，曹晓宁，王海岗，等，2020.谷子 SBP 蛋白 基因家族的鉴定及表达分析[J]．核农学报，34（7）：1409-1420.]   \nSIGRIST CJ, CERUTTI L,DE CASTRO E,et al.，2010.PROSITE,a protein domain database for functional characterization and annotation[J]. Nucl Acid Res, 38(1): 161-166.   \nSUN YJ, CHEN X, CUI HN,et al.,2O18.Bioinformatics analysis of cucurbitaceae PAL gene family and melon PAL4 gene cloning[J].Mole Plant Breed,16(15): 4910-4920.[孙宇蛟，陈欣，崔浩楠，等，2018．葫芦科 PAL 基因家族生物信息学分析及甜瓜PAL4 基因克隆［J]．分子植物育种，16（15）：4910-4920.]   \nWANG C, WANG YF,ZHANG YH, et al.,2020. Research progress in the application of pangenomics in plants[J]. JHunan Appl Sci,7(2):51-58.[王灿，王艳芳，张应华，等，2020．泛基因组学在植物中的应用研究进展［J]. 湖南生态科学学报，7（2）：51-58.]   \nYANG HX, SUN YY,JIA CH,et al.,2019. Genome identification and expression analysis of banana phenylalanine ammonia lyase gene family[J].Chin JTrop Crops,40(10):1949-1957.[杨会晓，孙媛媛，贾彩红，等，2019.香 蕉苯丙氨酸解氨酶基因家族的全基因组鉴定及表达分析[J]．热带作物学报，40（10）：1949-1957.]   \nYANG YW,LI S,HUANG JY,et al.，2017.Identification and analysis of phenylalanine ammonia lyase family genes in upland cotton[J].Mol Plant Breed,15(4):1184-1191.[杨郁文，李双，黄俊宇，等，2017．陆地棉苯 丙氨酸解氨酶家族基因的鉴定及分析［J]．分子植物育种，15（4）：1184-1191.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "WANG Y,DENG D,SHI Y,et al.,2012. Diversification,phylogenyand evolution of auxin response factor (ARF) family: insights gained from analyzing maize ARF genes[J]. Mol Biol Rep,39(3): 2401-2415. ZHANG GY,LIU X,QUAN ZW, et al.,2012. Genome sequence of foxtail milet (Setaria italica) provides insights into grass evolution and biofuel potential[J]. Nat Biotechnol, 30(6): 549-554. ZHANG LZ,FAN S,AN N,et al.,2018. Identification and expression analysis of PAL gene family members in the whole apple genome[J].Acta Agric Zhejiang,30(12): 2031-2043.[张丽之，樊胜，安娜，等，2018．苹果全基 因组PAL基因家族成员的鉴定及表达分析［J]．浙江农业学报，30（12）：2031-2043.] ",
+        "page_idx": 14
+    }
+]

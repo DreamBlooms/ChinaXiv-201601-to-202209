@@ -1,0 +1,391 @@
+[
+    {
+        "type": "text",
+        "text": "授权型领导的负面效应：理论机制与边界条件1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王宏蕾‘；孙健敏²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（东北农业大学经济管理学院，北京150030）（中国人民大学劳动人事学院，北京100872）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要已有研究主要关注授权型领导的正面影响，然而，新近的研究表明授权型领导可能也会引发潜在的负面效应。针对此问题，首先界定了授权型领导的概念及其核心特征。其次，基于双重任务加工效应、角色理论和内隐领导理论，阐释了授权型领导负面效应的理论机制，并进一步分析和总结了授权型领导的有效性在何种条件下能够实现。最后，提出了授权型领导负面效应未来研究方向的建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 授权型领导；负面效应；理论机制；边界条件",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在当今高速变化的组织环境下，企业中的自我管理团队和平台化组织结构日益发展。领导者期望通过授权的方式以提升员工的自我管理和自我领导能力。因此，以权力分享为主要特征的授权型领导在理论和实践中引起广泛的关注(Dong,Liao,Chuang，& Zhou,2015;Hao,He,&Long,2018;Hill&Bartol,2016)。已有的大量研究表明，授权型领导通过赋予员工参与决策的权力和机会，可以激发员工的内在动机，进而提升员工积极的工作态度和行为(陈国权，陈子栋,2017；孙圣兰，吕洁,2016)。例如，员工满意度(Biemann,Kearney，&Marggraf,2015; Kim, Beehr,& Prewett, 2018; Zhang & Bartol,2010)、工作绩效(Amundsen &Martinsen,2014; Harris,Li,Boswell,Zhang,& Xie,2014; Lee,Wilis,& Tian,2018）和创新行为(Amundsen&Martinsen,2015;Dong et al.,2015；王永跃，葛菁青，张洋,2016）等等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虽然许多研究都支持了授权型领导的积极作用，然而新近的研究也发现，授权型领导的有效性并未得到普遍的支持。一些研究者认为，授权型领导可能会引发潜在的负面效应，对员工和组织产生不利的影响（Amundsen & Martinsen,2014; Humborstad & Kuvaas,2013;Li,Chiaburu,& Kirkman,2017;Lorinkova,Pearsall,& Sims,2013;Wong & Giessner,2018)。例如,Martin,Liao 和Campbell (2013）认为，授权型领导所提倡的自我领导和自我管理，在无形中增加了员工的环境不确定性和角色模糊感，这会导致个体工作效率的降低。Cheong,Spain,Yammarino 和 Yun(2016）的研究也证明领导的授权客观上增加了下属的工作负担，这引发了下属的工作紧张，导致其工作绩效的降低。Hao 等人(2018）也发现由于授权型领导会强化员工感知的领导期望，因此员工需要努力工作以证明自己的价值，这引发了员工受控型工作情绪并进一步降低了员工绩效。因而，授权型领导在发挥正面效应的同时，可能会引发潜在的负面效应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "面对已有研究的复杂结论，研究者和实践者都对授权型领导的有效性产生了质疑和困惑。这也表明目前研究尚无法充分解释授权型领导为何会失效甚至产生负面效应，已有研究至少在以下两方面存在不足：第一，以往对授权型领导正面效应的过分关注导致了对其负面效应的忽视，已有研究难以充分解释授权型领导为何会产生负面影响。因此，系统阐释授权型领导负面效应的理论机制，对于授权型领导的理论研究和实践应用具有重要的意义(Sharma&Kirkman,2015)。第二，授权并不是\"放之四海而皆准\"的，授权型领导的有效性仅适用于特定的边界条件。而理论研究却缺乏对授权型领导在何种条件下适用的充分认识，许多研究者也呼呼应增进对授权型领导权变性特征的理解，从而进一步回答授权型领导在何时有效的问题(Lorinkova & Perry 2017; Vecchio, Justin & Pearce,201O; Wong & Giessner, 2018)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对已有研究中存在的问题，本研究将从以下几个方面展开论述：首先，系统梳理授权型领导的概念内涵，并总结授权型领导构念的核心特征；其次，基于已有的理论和实证研究，本文将分析授权型领导负面效应的主要理论机制，以阐释授权型领导负面效应的内在逻辑；再次，根据以往的实证研究结论，总结授权型领导有效性的边界条件，重点回答授权型领导在何种条件下才能发挥积极作用的问题，从而揭示授权型领导在何种条件下失效甚至引发负面效应；最后，基于前文的分析和总结，本研究将提出未来关于授权型领导负面效应研究的建议。通过对以上问题的解决，本研究期望能够帮助研究者和实践者理解授权型领导为何会失效、以及在何种条件下会失效的问题。从而为规避授权型领导的负面效应并有效的实施授权提供借鉴和启示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2授权型领导的概念界定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于授权的思想最早可以追溯到 20 世纪 40 年代以员工参与为代表的相关研究 (e.g.,Lewin,1947)，虽然早期研究中并未正式提出授权型领导的概念。但由于授权过程本身隐含着从领导到下属权力传递的过程，因此，授权的主要研究仍围绕领导授权过程及其实施效果方面。而授权型领导的思想则是由 Manz 和 Sims(1991）提出的，他们认为这种领导方式能够激励员工进行自我管理，并称之为“超级领导”。后经Pearce 等人（2003）的研究，在交易型领导和变革型领导的基础上，正式将授权型领导作为一种独立的领导方式提出。他们认为，授权型领导是包括鼓励员工自我管理、自我领导和参与目标设置等行为的领导方式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "后续的研究主要从两个视角考察授权型领导的有效性：一是结构授权视角，该视角起源于工作特征的相关研究 (Hackman&Oldham,1976)，强调领导向员工授予权力和责任的行为过程(Leach,Wall,&Jackson,2003)。结构授权的研究主要关注领导如何制定授权决策以及如何实施授权行为的具体策略，例如，鼓励员工表达观点和建议、赋予员工参与决策的权力和机会、鼓励团队自主管理等(Armold,Arad,Rhoades,& Drasgow,200O)。二是心理授权视角，侧重考察员工对领导授权的主观感知和评价 (Spreitzer,1995)。该视角认为员工对授权的主观心理体验发挥着至关重要的作用，它会影响员工如何定义授权以及如何承担授权的责任。基于该视角，授权包括工作意义、胜任力、自主性和影响力四个维度（Conger&Kanungo,1988;Spreitzer,1995)。后期的研究中，学者们逐渐发现，授权实际上是领导通过授权行为进而影响员工心理体验的综合过程，因此两种研究视角不应截然分开 (Menon,2001)。同时，全面考察领导通过实施授权行为进而影响员工心理授权的过程，也更具有理论和现实意义，结构授权视角和心理授权视角的发展也呈现不断整合的趋势。在此基础上，授权型领导定义也整合了两种视角，即通过一系列的活动向下属赋予权力的行为，进而提高员工的内在动机水平。具体行为包括增强下属工作意义、促进下属参与决策、表达对下属取得高绩效的信心、帮助下属排除实现高绩效的障碍等四个维度（Ahearne,Mathieu,& Rapp,2005；Zhang&Bartol, 2010)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对授权型领导概念的分析和梳理，不难发现，授权型领导的概念与传统的领导方式存在明显区别，具有自身独特的特征。首先，授权型领导主张通过向员工进行权力分享，进而激发员工自我管理和自我领导的能力（Amundsen&Martinsen,2014;Lee,Idris,&Delfabbro,2017)。授权型领导提倡员工应成为自我领导者，因此领导们会通过赋予员工自我控制和自我决策的权力，进而增强员工的自我管理能力（Vecchioetal.,2010；蒿坡，龙立荣，贺伟，2014)。通过授权以提升员工自我领导能力成为授权型领导的重要特征之一；其次，授权型领导期望员工独立的承担领导授予的权力和责任，领导赋予权力的过程也隐含着领导对下属承担责任的期望，他们会表现出对下属实现高绩效的信心和期待(Hao et al.,2018; Zhang &Bartol,2010)。因而，以往研究也表明，授权型领导关注如何提升下属自主的工作动机，从而增强下属对权力的有效运用(Lee etal.,2018；张华磊，袁庆宏，王震，黄勇,2014)。最后，授权型领导鼓励员工参与组织的决策，与员工之间建立灵活和民主的管理风格。因而，与传统的领导方式不同，授权型领导可能促使了领导和员工角色的转变。领导和下属需要对决策制定的责任和义务达成一致的认知，下属才能清晰理解如何运用授权以实现领导的目标，否则领导效能和员工绩效都可能会被极大的降低 (Humborstad&Kuvaas,2013)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3授权型领导负面效应的理论机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前的研究已经开始关注并积极探索授权型领导的负面效应（Cordery,Morrison,Wright,& Wall,2010;Wong＆Giessner,2018)，但是对“授权型领导为何会产生负面效应”这一问题却难以清晰的回答，而对这一问题的认识有助于授权理论研究的深化和发展，也会推动领导授权在管理实践中的有效实施。通过对已有研究的分析和总结，本研究认为已有授权型领导负面效应的理论机制可以归纳为双重任务加工效应、角色理论和内隐领导理论，这三个理论分别从资源、角色和认知的视角阐释了授权型领导负面效应的内在逻辑。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1双重任务加工效应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "授权型领导的负面效应之一是导致个体工作绩效的降低，这可能是由于授权对下属内在资源的损耗(Cheong etal.,2016)。具体而言，双重任务加工效应有助于解释授权型领导负面影响的来源。双重任务加工效应（dual-task processing effect）是指个体在同时或连续完成多种工作任务时产生的认知资源损耗，这导致了个体认知能力的降低(Rubinstein,Meyer &Evans,2001;Langfred&Moye,2004)。基于双重任务加工效应，当员工同时承担多种工作任务时，可能会产生潜在的个人资源损耗，并引发个体工作绩效的降低 (Levy&Pashler,2001)。这主要是由两种机制导致的：一种是认知干扰，即个体难以同时完成对多种任务的认知加工过程，或者其中一种任务的认知加工会干扰另一任务的完成；另一种机制是认知转换损耗，即个体的认知在多种任务之间转换时可能造成的资源消耗（Temprado,Zanone,Monno,&Laurent,2001;Langfred&Moye,2004)。认知资源的分散和损耗会导致员工无法聚焦于其核心工作任务，员工的工作绩效也会因此而降低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "授权的过程可能引发了双重任务加工效应，导致个体工作能力和绩效的降低。一方面，授权型领导客观上增加了下属工作内容，下属需要承担更多来自领导赋予的权力和责任，多种工作任务可能会造成员工认知之间的干扰(Mills&Ungson 2003)。相关研究表明，当领导授权的工作任务增加时，员工可能无法有效处理多种工作任务，他们难以整合内外部信息和资源以创造性的工作(Deery,Walsh,& Zatzick,2014;Humborstad,Nerstad,& Dysvik,2014;Matthews,Winkel,&Wayne,2014)。另一方面，员工在承担领导赋予的权力后，既需要自行做出工作决策，同时也要负责决策的执行，这实际上也增加了下属工作任务的复杂性。一些研究者也强调授权强化了员工的工作内容和复杂性。例如，Langfred 和 Moye（2004）认为员工在获得自主制定决策的权力后，他们的工作任务内容和复杂性也相应增加。Magni 和Maruping(2013）也认为员工在承担授权责任后，需要在制定决策的同时完成工作任务的执行，个体工作的内容和复杂度都显著增加。根据双重任务加工效应，员工在同时承担多种工作任务以及任务复杂性较高时，可能引发员工潜在的认知资源分散和损耗。这种认知资源的分散和损耗造成员工无法专注其核心工作任务，因而导致了个体工作绩效的降低(Rubinstein etal.,2001; Temprado etal.,2001)。实证研究已经对授权所引发的双重任务加工效应进行了证实，例如，Cheong 等人（2016）基于该理论提出，领导授权实际上增加了下属需要完成的工作任务，研究结果表明授权型领导会引起下属的工作紧张，导致下属工作绩效的降低。Cordery 等人（2010）的研究也表明授权型领导会增加员工感知的任务复杂性和不确定性，员工会产生对工作自主性的抵触情绪，这也会降低员工的工作绩效。因此，授权型领导可能会导致下属处理多种工作任务的困难，不利于下属工作绩效的提升。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总体而言，虽然领导授权可以赋予员工自主性和参与决策的权力，但是相应的，员工为达成领导授权的期望也需要付出更多的资源。授权型领导所主张的员工自我管理和自我领导，客观上要求员工超越自身的工作任务，承担更多的管理决策活动。工作任务内容和复杂性的提升可能会消耗员工自身的资源，造成下属无法专注于其核心工作任务。而对这种负面效应内在机制的认识，有助于研究者和管理者更全面理解授权的实际效应，并为避免授权型领导的负面影响提供启示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2角色理论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "授权除了会引发员工感知的资源损耗，可能也会导致员工角色压力的增加，这种负面效应直接体现在员工幸福感方面，角色理论有助于我们理解授权型领导引发的此种负面效应。角色理论(roletheory）认为，个体在承担特定社会角色时也需要完成他人对其角色的期待与要求(Kahn,Wolfe,Quinn,Snoek,&Rosenthal,1964)。当个体难以承担他人的角色期待和要求时，他们无法有效扮演自己的社会角色，因而也会产生角色压力。基于角色理论，角色冲突、角色模糊和角色过载是角色压力的主要来源 (Rizzo,House,&Lirtzman,1970)。角色冲突是指他人对个体的角色预期和要求存在不一致或冲突时，个体所经历的角色压力；角色模糊则是个体在完成特定角色任务时，由于缺乏足够的信息导致个体难以清晰掌握工作目标和责任；而角色超载则描述个体感知自己承担了过多的角色期待和要求时的心理压力(Rizzoetal.,1970)。以往的研究表明，角色压力会造成个体工作满意度降低，并显著降低个体的幸福感 (Bamberger, Geller,& Doveh,2O17; Schmidt,Roesler,Kusserow,& Rau, 2014)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "角色理论成为理解授权型领导负面效应来源的又一项重要理论。授权型领导在赋予员工更多的自主性和决策权力时，也相应提升了领导对员工承担更多工作角色的要求。员工为了实现领导授权的角色要求，他们需要承担超越原有工作角色的角色义务，这些不断增加的工作角色会导致员工角色压力的持续增加。首先，授权可能导致个体新的工作角色与原有工作角色应当行为的不一致。员工在执行原有的工作任务之外，也需要承担授权带来的新的工作角色（例如，自主的进行工作决策)，不同角色之间应当行为的不一致可能会引发员工的角色冲突。Cheong 等人（2016）认为员工在接受领导授权的责任和任务时，新的角色任务会影响员工对原有角色任务的履行，进而导致员工的角色冲突。其次，授权型领导也可能会让员工陷入角色模糊的境地。授权型领导将制定决策的权力下放给员工，鼓励员工成为自我领导者，而不是直接下达清晰的命令或指示(Amundsen& Martinsen,2014)。员工需要自行面对工作中的不确定性，这会提升员工角色模糊的风险（Cordery et al.,2010;Lorinkova et al.,2013)。Humborstad 和 Kuvaas（2013）的研究也表明，当领导高估了员工对授权的期望时，授权会导致员工无法预测自己的角色目标和责任，这强化了下属的角色模糊。最后，来自领导的授权客观上增加了下属的工作内容和范围，这可能会使员工承担超出其能力范围的角色要求，引发了员工的角色超载。彭坚和王震(2018）认为领导向下属授权的同时，也期待下属为了工作付出额外的时间和努力，这容易造成员工个体工作负担的增加。过多的角色压力会不断损耗员工的心理资源，最终引发个体幸福感的降低。员工长期处于角色压力过高的工作情境中会产生持续的资源流失，造成个体的工作倦怠等负面结果。实证研究进一步支持了这样的结论，例如，金家飞、徐姗和王艳霞（2014）发现当员工角色压力过高时，他们难以完成自己承担的角色任务，这会导致他们的心理抑郁。高中华和赵晨（2015）也发现角色压力会导致员工的工作家庭冲突，进而降低了员工的生活满意度。因此，角色压力过高可能会引发员工诸多心理问题，并降低员工的幸福感。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总之，基于角色理论，授权型领导可能强化了员工的角色冲突、角色模糊和角色超载，对员工幸福感带来潜在的负面影响。而以往的研究过于强调领导授权对个体积极态度的提升效果，却忽视了授权型领导对个体幸福感的潜在负面影响，这可能导致领导在授权过程中对员工幸福感的危害。正确理解授权型领导引发员工角色压力的内在机制，有助于领导更有效的实施授权，确保授权能够在发挥积极效用的同时避免潜在的消极后果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3内隐领导理论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于内隐领导理论 (implicit leadership theory;Eden&Leviatan,1975)，员工会形成对领导者行为的预期和假设。这种预期和假设决定了员工对特定领导行为的解释和定位，并进而影响员工的工作态度和行为(Foti,Hansbrough,Epitropaki,& Coyle,2017；曹元坤，祝振兵，2015)。已有研究主要运用内隐领导理论探讨由下属评价领导是否有效的问题（Carnes,Houghton,&Ellison,2015;Hansbrough,Lord,& Schyns,2015)，而新近的研究也探索了内隐领导理论在解释领导行为实施效果方面的重要作用(Aktas,Gelfand,& Hanges,2016;Lam,Huang,&Chan,2015)。尤其是对于授权型领导这种隐含着双方责任转移和权力传递的领导方式而言，领导与下属对授权的预期，将会直接影响员工对领导授权的意义建构与行为反应(Labianca,Gray,&Brass,2000)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "虽然授权型领导通常被视为一种行之有效的领导方式 (Zhang&Bartol,2010)，然而授权型领导却可能被员工解读为放任自流的领导方式 (laissez-faire leadership)。这主要是因为，这两种领导方式存在一定共同之处，体现为这两种领导都倡导向员工授予权力和责任，并鼓励员工的工作参与和自主决策(Wong&Giessner,2018)。然而，当领导对员工的授权超过员工对授权的期待时，员工可能会将授权视为领导对自身责任的推卸(Hinkin& Schriesheim,2008)。在这种情况下，员工会抵触授权带来的自主性和不确定性，导致员工难以履行授权赋予的责任(Humborstad, Humborstad,Whitfield,& Perry,2Oo8;Maynard,Mathieu,Marsh,&Ruddy,2007)。以往的研究表明，当员工视领导授权为放任自流时，会引发员工一系列的负面态度和行为 (Buch,Martinsen,& Kuvaas,2015; Skogstad,Hetland,Glasp,& Einarsen,2014)。此外，当领导向下属的授权超出下属的预期时，下属也倾向于认为这些工作并不重要，这会降低员工承担授权任务的内在动机，并减少他们的工作投入。例如,Lee,Cheong,Kim 和 Yun(2017）认为领导过度授权会向员工传递出他们对这些任务不感兴趣或并不重视的信号，这可能会降低员工为提升工作绩效所做出的努力。实证研究进一步支持了授权型领导会导致员工负面认知的观点，例如，Wong 和Giessner(2018）基于内隐领导理论发现下属授权预期的重要作用，下属会对领导行为方式产生特定的认知和评价，进而影响领导发挥作用的过程。当领导授权行为与下属预期的领导授权较一致时，下属更倾向于认同领导行为。在这种情况下，下属会将领导赋予的权力和责任视为自己工作角色的一部分，并对领导效能产生积极评价。但是，当领导授权行为高于员工对领导授权的预期时，员工会将领导授权所倡导的员工自我管理视为放任自流。在这种情况下，员工会对授权型领导效能产生负面评价。Humborstad和 Kuvaas (2013）的研究也发现，当领导与下属对授权的预期较一致且都处于较高水平时，下属的内在动机水平会较高；但是当领导高估了下属对授权的预期时，下属的内在动机水平会降低，这可能导致授权型领导的失效甚至是负面效应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此，员工对领导授权的预期可能会影响授权型领导的有效性，授权型领导的失效可能也是由于领导与员工对授权预期的差异，领导的授权行为过高或过低都可能引发员工的负面认知。一方面，领导的过高授权可能会被员工视为放任自流和对自身责任的推卸；另一方面，领导与员工在授权预期方面的差异，也会引发员工对任务重要性的错误感知，员工倾向于认为领导授权是因为这些工作任务并不重要。员工认知的偏差会进一步引发其负面态度和行为，授权型领导的负面效应也由此而显现。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4授权型领导有效性的边界条件",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于前文的分析和总结，不难发现，授权型领导不仅会激发员工积极的态度和行为，也可能会引发潜在的负面效应。所以，授权型领导并不是“放之四海而皆准”的，授权型领导的有效性需要特定边界条件予以保障。已有研究也发现，授权的有效性具有显著的情境依赖性，需要在特定边界条件下才能得以实现（Vecchio et al.,2010;Wong＆ Giessner,2018)。因此，明确在何种条件下才能确保授权型领导的有效性，对于授权的理论研究和实践应用将具有重要价值。鉴于此，本文基于授权型领导负面效应的理论机制，从资源、角色和认知三个视角总结已有研究中授权型领导有效性的边界条件，从而为理论研究和实践应用提供借鉴和启示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1基于资源视角的边界条件",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于双重任务加工效应，员工所拥有的工作资源和个人资源可以帮助他们有效应对领导赋予的权力。授权型领导负面效应的来源之一是对员工认知资源的损耗，这会导致员工难以应对授权的任务，降低员工的工作绩效。因而，充分的资源可以帮助员工应对授权后工作任务和复杂性的增加。员工有效的资源主要包括工作资源和个人资源两个方面，在工作资源方面，良好的人际关系和组织管理实践等都是员工重要的工作资源，而个人资源主要体现为个人应对工作压力的资源等方面。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，良好人际关系是影响员工对领导授权应对能力的重要工作资源。组织情境中的人际关系作为支持性因素，有助于员工获得更多的信息和资源，有利于员工化解授权过程中的压力和风险。但是，相关研究也表明，当员工和领导的人际关系无法为授权活动提供必要支持时，授权型领导可能会失效甚至产生负面效应。例如，Harris 等人(2014）提出组织的支持情境和信任关系有助于降低员工承担授权时的资源损耗。研究结论也表明，仅当新入职员工感知的组织支持水平较高时，授权型领导才能够激发员工的创造力。此外，员工对领导的信任也能够显著增强授权型领导对员工创造力的积极作用。Zhang 和 Zhou(2014）认为员工对领导的信任是决定员工能否承担授权责任的重要因素，尤其是对于高不确定性规避的员工而言。研究表明只有当员工对主管信任水平较高时，才能够积极承担领导授权的责任，在这种条件下授权型领导才得以提升员工的创造力。三维交互作用的结果也进一步表明，仅在员工不确定性规避和对领导信任水平较高，授权型领导才能激发员工的创造力(Zhang＆ Zhou,2014)。因此，良好的人际关系可以增加员工承担授权所需的资源，有助于员工明确授权的责任并努力承担授权的责任，从而推动授权型领导效用的顺利发挥。同时，领导作为授权的实施者，他们所具有的资源也在一定程度上为员工获取资源提供了保障，已有研究也探索了领导所具有的良好人际关系对他们实施授权效果的影响。基于社会交换理论，Lorinkova 和Perry (2017）研究发现只有授权型领导与其上级保持良好的关系时(leader-leader exchange)，领导才能具备授权所需的物质和心理资源，这为领导有效的授权创造了良好条件。在这种条件下，领导才能为授权的实施提供充分的资源，也因此授权型领导才能有效激发下属的内在动机。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其次，在管理实践方面，研究者们认为组织管理实践可以深刻影响授权的实施效果(Hemple,Zhang,&Han,2012;Hong,Liao,Raub&Han,2016)。相关研究发现，授权型领导与人力资源管理实践存在替代性作用，这表明针对各种政策和实践比较完备的组织，授权型领导的有效性可能会被替代。例如，Hong 等人（2016）发现授权型领导与主动性导向的人力资源管理系统(initiative-enhancingHRMsystems）存在替代效应，即仅当主动性导向的人力资源管理系统水平较低时，授权型领导才能有效激发团队的主动性氛围。而当主动性导向的人力资源管理系统水平较高时，则由人力资源管理实践发挥激发员工主动性的作用。这可能是因为授权型领导和人力资源管理实践在实现特定组织目标时具有相似的作用，因此授权型领导的有效性受到人力资源管理实践的限制。同时，新近的研究也表明，与领导授权活动相似，人力资源管理实践也意味着对员工更多的工作要求，员工需要付出更多的资源以实现人力资源管理实践的目标 (Jensen,Patel,&Messersmith,2013;Mariappanadar,2014)。因此，授权型领导和人力资源管理实践可能并不会产生叠加的作用，反而会削弱彼此的积极效用。领导需要根据组织中实施管理实践的情况考虑是否进行授权，以避免资源的浪费和冲突。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最后，个人所具有的资源也是员工能否承担授权责任的重要边界条件。虽然授权型领导可以赋予下属工作所需的资源，授权可能会因此降低员工的资源耗竭。然而，当员工面临较高的工作压力时，他们已经无法应对已有工作的压力，来自领导的更多授权只会进一步损耗他们的资源，导致授权型领导负面效应的出现。Magni 和Maruping(2013）也认为，领导的授权有助于员工积极应对突发性事件，但是当员工的工作负担较重时，领导授权则可能导致员工陷入孤立无援的境地。在这种情境下，员工难以完成自己的工作任务，更无暇承担领导授权的任务，领导授权只会导致他们工作负担进一步加重，无法产生激励员工的效果。因而，如果领导在不考虑员工是否有能力应对授权时就赋予员工自主决策的权力，那可能会引发员工的抵触情绪并危害员工的绩效和幸福感。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2基于角色视角的边界条件",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据前文对授权型领导负面效应内在机制的总结，员工的角色冲突、角色模糊和角色过载是授权型领导可能引发的负面结果。因此，能够帮助员工降低授权导致的角色压力的因素，可以为授权型领导有效性的发挥提供更充分的保障。通过对授权相关研究的分析和梳理，已有研究主要从组织结构、团队特征以及领导因素等方面，探讨授权型领导有效性的边界条件，并发现这些因素有助于员工澄清相关的工作角色，降低授权后引发的个体不确定性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先，组织结构可以作为影响授权型领导有效性的重要边界条件。研究者们认为，组织制度性因素有助于澄清组织成员的责任和权力，帮助员工理解其承担授权任务后的角色(Hempeletal.,2012;Mills&Ungson,2003)。因而，清晰的组织制度有利于授权过程中的责任界定，可以有效的保障授权型领导发挥积极的作用。相关实证研究也支持了这样的结论，例如，王宏蕾和孙健敏（2018）的研究发现当团队结构正式化水平较高时，组织的各项规则和流程是可以通过清晰的政策传递给员工的。在这种情况下，员工能够清晰理解组织实施的各项制度和流程，这提升了他们对环境的确定性和安全感。因而，仅当团队结构正式化水平较高时，授权型领导才能够促进员工的创新行为。由此可见，良好的组织结构性条件可以为授权的实施提供必要的支持。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其次，团队特征因素也会影响领导实施授权的具体过程，成为制约授权型领导有效性的一项边界条件，已有研究主要发现团队异质性及团队发展阶段对授权型领导实施效果的制约作用。例如，Hmieleski 和 Ensley(2007）综合考察了环境动荡性和高管团队异质性在授权型领导引领创业型团队提升绩效过程中的交互作用。他们发现，针对成员异质性较高的团队，授权型领导所主张的权力分享可能会降低团队工作效率。这主要是因为异质性团队很难针对同一问题迅速达成一致意见，这并不利于团队成员的角色澄清，尤其对于处于动荡环境中的团队而言其危害更是致命性的。但是当外部环境较稳定时，授权型领导会激发异质性的团队深入探索和挖掘各种潜在的策略，这有利于提升创业型团队的整体效能。此外，领导在实施授权之前，也需要充分考虑团队所处的发展阶段，对于不同发展阶段的团队，授权型领导可能会产生截然不同的作用。Lorinkova等人（2013）的研究发现，在团队建设初期，命令型领导比授权型领导更有助于提升团队绩效。这主要是因为，命令型领导有助于下属角色澄清和任务达成，授权型领导则更多关注员工的自我领导和学习能力，而不是任务绩效的提升。随着团队的发展，授权型领导在提升团队学习、团队合作和员工自我管理等方面发挥了更积极的作用，授权型领导在提升团队绩效方面的作用会逐渐超越命令型领导。因此，针对不同的团队特征，授权型领导可能会产生差异化的影响，领导应充分考察团队特征的因素以决定是否实施授权行为。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最后，作为授权行为的实施者，领导如何实施授权也会显著影响授权型领导产生的实际效果。由于授权过程中隐含着领导权力的转移和员工责任的承担。因此，领导是否能够清晰界定领导与员工在授权后的角色和责任，将会制约授权型领导有效发挥作用的过程。相关研究发现，只有领导和员工感知到清晰的角色定义和责任标准时，授权才能激发员工和团队的积极行为。例如，Wallace,Johnson,Mathe 和 Paul(2011）的研究表明，领导感知的责任标准较明确时，领导能够清晰的向下属传递授权的期望，这有助于减少员工在自主完成授权任务时的不确定性。相反，当领导无法明确授权后期待员工达成的任务标准时，授权可能会增加下属的角色模糊等。他们的研究结论也进一步表明只有在领导感知的责任期望较明确时，授权型领导氛围才能够有效提升领导效能。因此，领导在授权的同时也需要采取一定措施帮助员工界定其工作角色，澄清员工在获得授权后所应承担的角色义务，这样才能为授权型领导发挥积极效用创造有利的条件。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3基于认知视角的边界条件",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于内隐领导理论，员工的授权预期会影响其对授权型领导的评价与定位（Magni &Maruping,2013;Mathieu,Ahearne,& Taylor,2007;Wong& Giessner,2018)。据此可以推断，那些能够改变员工授权预期及其对授权型领导评价的因素，会显著制约授权型领导的有效性。以往的研究发现，员工对授权的角色认同、准备程度、个人成就目标导向以及组织公平感等会影响授权型领导的实施效果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "已有研究主要从员工个人特质方面探索授权型领导有效性的边界条件。研究者们发现，仅在下属具有对领导授权的角色认同和良好准备时，他们才能对领导的授权活动产生积极的认知和评价，因而授权型领导才会发挥积极的效用（Ahearneet al.,2005;Zhang& Bartol,2010)。所以，领导在授权之前，需要首先明确员工是否认同领导授权以及其对授权的准备程度，并尽量向那些对领导授权持积极评价的员工进行授权，这在很大程度上决定了授权型领导是否会产生积极效应。其次，下属的个人成就目标导向也会影响他们如何定义和评价领导的授权活动。例如，Lee 等人（2017）的研究发现，具有学习成就目标导向的个体更加追求自身发展和能力提升，他们将领导的授权视为自我学习和提升的机会，因此他们会更积极的运用领导授权提升自我。对于具有学习成就目标导向的员工而言，领导授权更易于产生积极效应。研究者们指出，由于员工个人特征的多样化，领导在授权之前需要明确哪些员工更适宜赋予权力(Ahearme et al.,2005)，进而制定针对性和差异化的授权策略。另外，员工的组织公平感也会影响员工对授权型领导的态度和评价。当员工组织公平感较低时，领导的差异化授权可能会进一步加剧他们的不公平感。员工会将自己享有的权力与他人进行比较，并将领导授权视为组织不平等的来源，这种不公平感也会进一步引发员工的消极态度和行为(林美珍，罗忠恒,2017)。因此，领导在授权时也需要考虑员工的公平感知问题，避免授权引发员工的负面态度和行为。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "员工对授权型领导的认知将对授权型领导的实施效果产生直接的影响，因而认知的视角应是探索授权型领导有效性边界条件的重要视角。但是从当前的研究来看，仍然存在一定的局限性，相关研究主要集中于员工个体特征方面边界条件的探索，且数量相对有限，同时也缺乏对组织内其它边界条件对员工授权认知作用的研究。领导应该加强与下属关于授权问题的沟通，掌握员工对授权的认知和期望情况，并尽可能将授权行为与下属的授权预期保持一致。同时，领导也可以帮助下属调整他们对授权的认知，使之能够符合组织发展的需要。在此前提下，授权型领导才有可能最大程度发挥其积极作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5研究展望",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于对授权型领导负面效应内在机制和边界条件的分析和总结，本研究认为虽然授权型领导存在诸多的积极影响，但是不可忽视的是，领导在实施授权时可能会引发潜在的负面效应。同时，授权型领导的有效性也会存在于特定的边界条件下，受制于特定的组织和个人因素。而对授权型领导负面效应内在机制和边界条件的探索，有益于理论研究和实践领域理解如何规避授权型领导的负面效应，并更有效的实施授权行为。但从已有研究来看，对授权型领导负面效应的研究仍然相对有限，未来研究有必要从以下方面予以丰富和发展。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.1深化对授权过程中个体资源增益与损耗路径的研究",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "已有授权型领导的相关研究主要关注领导如何通过授权赋予员工各种工作所需的资源(Kim&Beehr,2017;Lorinkova&Perry,2017)，然而，授权型领导对员工而言也可能意味着更高的工作要求和更复杂的工作内容，员工也会因承担授权的责任而导致资源的持续损耗(Cordery etal.,2010)。因此，授权型领导可能对员工同时具有资源增益和资源损耗的“双刃剑”效应。事实上，已有研究开始关注并实证检验了授权型领导对员工的资源增益和损耗路径(Cheong etal.,2016)。未来的研究应该进一步扩展相关研究的思路，探讨授权型领导是否会在增益员工的资源时，导致员工更多形式的资源损耗，例如人际关系紧张、身心健康问题等。Mills 和Ungson(2003）指出授权型领导可能也会对员工的人际关系造成负面影响，由于领导会对一些员工授权，而另一些员工获得授权的机会则相对较少。在这种情况下，领导的授权行为可能会导致员工之间人际关系的紧张，未获得授权的员工可能会嫉妒那些被授权的员工，甚至会威胁他人的利益并表现出违规行为 (林美珍，罗忠恒，2017)。因此，授权型领导可能会导致多种形式的员工资源损耗，而这些观点还需要在未来的研究中进一步的探索与检验。此外，相关研究也应继续拓展授权后个体资源增益与损耗路径的边界条件的研究。例如，组织支持、领导-成员交换关系以及员工自我效能感等因素，都可以补充员工潜在的资源损耗，从而帮助员工避免授权型领导的负面效应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2增进对授权型领导负面影响员工角色定义过程的探索",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以往研究主要关注授权型领导如何激发员工积极的态度和行为(Dong et al.,2015; Fong& Snape,2015)，但却可能忽视了领导授权对员工角色定义过程的影响，尤其是授权型领导可能引发的员工负面的角色定义。未来研究应进一步拓展员工角色压力方面的结果变量，例如，领导授权后是否会引发个体的工作-家庭冲突？又是在何种条件下引发个体的工作-家庭冲突？对这些问题的回应还需要未来实证研究进一步的分析与挖掘。此外，授权型领导对员工角色定义的负面效应还需考虑时间因素的影响。伴随着时间的发展，授权型领导可能会对员工的角色定义产生动态的影响 (Cheong etal.,2016)。未来研究可以进一步探索领导授权发生改变后，员工的角色定义过程是否发生变化以及如何发生变化等问题，从而更深入的理解授权型领导负面影响员工角色定义的动态过程。在此基础上，未来研究还需要丰富相关边界条件的探索，虽然目前研究已经从组织结构、团队特征和领导因素等方面进行了验证。但从数量上看，相关研究仍然十分有限，所涉及的范围也较为局限。未来相关研究应从更多视角探索何种因素能够有助于授权后员工的角色澄清，何种因素又能够制约授权后员工的角色定义过程。例如，组织战略、团队氛围和工作任务特征以及领导授权的风格等方面。相关研究已经发现，组织战略和管理控制风格都会显著影响员工的角色澄清过程 (Kauppila,2014)，未来研究还需进一步检验这些因素是否会制约授权型领导对员工角色定义的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.3拓展认知视角探索授权型领导负面效应的研究思路",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于前文的分析，领导与下属授权预期的差异可能会导致授权型领导的负面效应。在此基础上，未来研究应进一步探索何种因素会影响下属的授权预期，以及何种因素会提升领导与下属授权预期的一致性。例如，有研究者认为，个体的适应性可能会促使下属调整自己的授权预期，并使之尽量与领导授权行为保持一致(Wong＆Giessner,2018)。同时，由于员工的授权预期之间可能存在差异，领导应该如何处理员工授权预期之间的差异性也是未来研究值得深入分析的问题。领导是否应该通过团队授权的方式以避免个体授权差异，以及如何更有效的实施团队授权以避免员工对授权的负面认知，这些问题都需要未来研究继续探索和回应。此外，未来研究也应进一步拓展认知视角探索授权负面结果的思路。领导在向下属授权时也传递了对下属实现高绩效的信心和期望(Ahearme et al.,2005; Zhang＆ Zhou,2014)，下属会努力工作以实现领导授权的期望。基于社会认知理论，当员工能够实现领导的期望和要求时，他们会产生积极的自我评价；但是当下属无法有效运用权力达成目标时，则会产生负面的自我评价(Schweitzer,Ordonez,&Douma,2004)。研究者们认为，个体有维持积极自我评价的内在动机(Alicke＆ Sedikides,2009；陈默，梁建,2017)。当下属获得领导的授权后，为了避免无法达到领导期望的结果，即使是采取有违常规的方式，他们可能也要努力达成权力运用的最大化。因此，授权型领导如何引发员工拥有权力后的认知改变，员工是否会为了维持积极认知而产生不道德行为，这些都是未来值得进一步研究的问题（何燕珍，张瑞，2016)。最后，授权过程可能也会对授权型领导的认知产生不同的影响。授权型领导自身也可能因权力的削弱而产生威胁感 (Magni&Maruping,2013)，这也会对授权的有效实施产生不利影响。未来研究可以进一步探索领导在授权过程中是否会产生负面认知，这种负面认知的存在是否具有权变性特征等等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.4丰富授权型领导负面效应的解释机制",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于对授权型领导相关研究的分析和总结，已有研究主要运用双重任务加工效应、角色理论和内隐领导理论阐释授权型领导负面效应的内在逻辑。虽然现有的理论机制能够为我们理解授权型领导负面效应的来源提供一定的思路，但授权型领导可能仍存在其它潜在的负面结果。而对于这些负面结果，已有的理论机制尚无法充分解释其内在逻辑。例如，一些研究者认为，授权型领导倡导和鼓励员工自我管理能力的培养，这会显著降低员工对组织的关系依赖以及从组织中获取信息的需求，并进而弱化员工与组织的附属关系（van Dijke,DeCremer,Mayer,&VanQuaquebeke,2012)。因而领导授权可能会减弱员工与组织的关系强度，而这种负面效应是否实际存在以及如何解释其内在的理论逻辑，还需要在未来的研究中进一步的分析与检验。同时，现有的理论机制主要针对授权型领导对员工个体层次变量的负面效应予以解释，而对团队层面和组织层面变量负面效应的研究则较少涉及。一些研究者认为，授权型领导对团队绩效的影响尚未达成一致的结论，在特定条件下授权型领导可能也会对团队绩效产生负面影响 (Lorinkova etal.,2013)。因此。相关研究有必要深入分析授权是否会对团队和组织层面因素产生负面影响，以及为何会产生负面影响等问题。总之，未来研究还需进一步丰富对授权型领导负面效应结果变量及其理论机制的探索，以增进我们对授权型领导实际效应的理解，并进一步回答授权型领导为何会产生负面影响的问题。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "曹元坤，祝振兵.(2015).内隐追随理论：概念，测量，前因及后果．心理科学进展,23(2),280-288.   \n陈国权，陈子栋.(2017).领导授权行为对员工学习能力影响机制研究.科研管理,38(3),114-127.   \n陈默，梁建.(2017).高绩效要求与亲组织不道德行为：基于社会认知理论的视角.心理学报,49(1),94-105.   \n高中华，赵晨.(2015).知识员工角色压力对生活满意度的影响研究——一个被调节的中介效应模型.科研管理,36(11),162-169.   \n蒿坡，龙立荣，贺伟.(2014).领导力共享，垂直领导力与团队创造力：双视角研究.管理科学,27(6),53-64.   \n何燕珍，张瑞.(2016).授权型领导对服务类员工亲社会性违规行为的影响机理.中国人力资源开发,(2),17-28.   \n金家飞，徐姗，王艳霞.(2014).角色压力，工作家庭冲突和心理抑郁的中美比较.心理学报,46(8),1144-1160.   \n林美珍，罗忠恒.(2017).授权型领导负面效应的形成机制：基于\"过犹不及\"理论.首都经济贸易大学学报,19(5),104-112.   \n彭坚，王震.(2017).做上司的“意中人\"：负担还是赋能？追随原型—特质匹配的双刃剑效应.心理学报,50(2),216-225.   \n孙圣兰，吕洁.(2016).授权型领导对员工创造力的影响：基于整合视角的分析.研究与发展管理,28(4),117-125.   \n王宏蕾，孙健敏.(2018).授权型领导与员工创新行为：结构正式化的调节作用．管理科学,31(3),29-39.   \n王永跃，葛菁青，张洋.(2016).授权型领导，心理可得性与创新：组织支持感的作用.应用心理学,22(4),304-312.   \n张华磊，袁庆宏，王震，黄勇.(2014).核心自我评价，领导风格对研发人员跨界行为的影响研究.管理学报,(8),1168-1176.   \nAhearne,M.,Mathieu,J,&app,A.(O5).Tmpowerorotmpoweryoursalesfore?Aempiicalexamnatioofteifluence ofleadershipempowermentbehavioroncustomersatisfactionandperformance.JournalofApplied $P$ （204号 sychology,90(5),945-955.   \nAktas,M.Ge.J,gs6).laeodesoiedep CulturalPsychology,47(2),294-309.   \nAlicke,M.D.,&Sdikides,C.(Oo9).Slf-enhancementandel-protection:Whatteyreandhatteydo.EuropeanRevieofSocial Psychology,20(1),-48.   \nAmundsen,S,rien..().poegdshouctatiottiodiial The Leadership Quarterly,25(3),487-511.   \nAmundsen,S.,&artise,O.L(l5).Linkingempowngleadersiptojobisfactionokfort,ndeatiity:Toleofel leadershipand psychologicalempowerment.Journal ofLeadership&Organizational Studies,22(3),304-323.   \nArold,J.Aad,ds,,o.ingdestiesciodi of a new scale for measuring leader behaviors.Journal of Organizational Behavior,2l(3),249-269.   \nBamberger,P.A,Geler,D.,&Doveh,E.(O17).Assistiguponentry:Hlpingtypeandapproachasmoderatorsofowolecoflict affects newcomer resource drain.Journal of Applied Psychology,l02(12),1719-1732.   \nBiemann,T.,KayE,&gaf,K.(5).powingldersidgeraerreptio:Eingctstothe individual and the team level.The Leadership Quarterly,26(5),775-789.   \nBuch,R.,Martise,.L,&uvaas,.5).edstructienesfsse-fireladersavir:diatigolec leader-member exchange relationships.Journal of Leadership & Organizational Studies,22(1),115-124.   \nCaes,A.,Houghto,JD,&Eliso,C.15).Wataesotiaerseectioeoleofsolitdmpci theories.Leadership&OrganizationDevelopment Journal,36(4),360-379.   \nCheong,M.,Spain,S.M.,Yammarino,FJ.,&Yun,S.(2O16).Twofacesofempoweringleadership:Enablingandburdening.The Leadership Quarterly,27(4),602-616.   \nConger,J.A.,&Kaungo,R.N. (1988).hempowermentproces: Integratingtheoryandpractice.AcademyofanagementReview 13(3), 471-482.   \nCordery,J.L.,osonDight,.,alT.).mpactofutoodskcrtaintteamfo:A longitudinal field study. Journal of Organizational Behavior,31(2-3),240-258.   \nDeryS.,Walsh,J,&tick,C..(14).Aoderatedediatioasisfjobmadsrentes,ndbsetes.Jlf Occupational and Organizational Psychology,87(2),352-369.   \nDong,Y.,LiaoHag,A,ou,JbellE..).Ftengpyeiceatiit:tctt empowering behaviorsand supervisory empowering leadership.Journal ofApplied Psychology,I0o(5),1364-1380.   \nEden,D.,&LeviatanU.97).Iplicitadersipteorysadeteantofthactorstructurederlingsuprvisoryaiorale. Journal of Applied Psychology,60(6),736-741.   \nFong,K.H.,&Snape,E.(015).Empoweringleadership,psychologicalempowermentandemployeeoutcomes:Tstingamulti-level mediating model. British JournalofManagement,26(1),126-138.   \nFoti,RJ.sohirokiO.oyl.).ctlcitddlo Approaches,findings,and future directions.The Leadership Quarterly,2(28),261-267.   \nHackman,J.R,&Olham,G.R.(976).Motivationthroughthedesignofwork:TestofatheoryOrganizationalBehaviorand Human Performance,16(2),250-279.   \nHansbrough,T.K.,ord,R.G,&hs,.l).Recosideringthecuracyoffollowerleadersipatings.eLeadershipQaely 26(2), 220-237.   \nHao,P.,He,W.,&Long,L.R.(2O18).Whyandwhenempoweringladershipasdiferentfectsoemployeeworkperforne:The pivotalrolesofpassionforworkandrolebreadthself-eficacyJournalofLeadership&OrganizationalStudies,25(1),-100.   \nHaris,T.B.,LiN.,Boswel,W.R.,Zhang,X.A.,&Xie,Z. (214).Geting whatsnewfromnewcomers:Empoweringleadership creativity,and adjustment in the socialization context.Personnel Psychology,67(3),567-604.   \nHempel,P.S.,Zang,Z.X,&Han,Y.(O2).Taempowermentndthergazationalcontext:ecentralzatioandtheotrasting effects of formalization. Journal of Management,38(2),475-501.   \nHill,N.S.,&ol,K..(6).posdiebtioalseoel Psychology,69(1),159-198.   \nHinkin,T.R.,&hshC.A.().Anaatioof“oeadrsip:Fromlss-fireladeriptoleaderrewardisio and punishment omission.Journal of Applied Psychology,93(6),1234-1248.   \nHmieleski,K..,&Esley.D.(O).Aontextualexaminationofnetureperforance:Etrepreneurladershipaitp managementteam heterogeneity,andenvironmental dynamism.JournalofOrganizational Behavior,28(7),865-889.   \nHong,Y,Liao,Hub,S.&HanJ.H.(6).Watitkestetpractie:Antegatiemulilelodelofteteetsf personal initiative.Journalof Applied Psychology,IOl(5),687-701.   \nHumborstad,S.I.W,&Kuvas,.(O3).Mutualityinleader-subordiateempowermentexpectationItsimpactonolabigityad intrinsic motivation.The Leadership Quarterly,24(2),363-377.   \nHumborstad,.Wbtad,ild,,C).ptaoetieioae organizations.The International Journal of Human Resource Management,19(7),1349-1364.   \nHumborstad,S.Wrstad,C.G.L,ikA.(4).Eoeigleadershplooaltatiodokce Acompeting hypothesis approach.Personnel Review,43(2),246-271.   \nJensen,J..atel,.,sith.G().ifoackdobotol:seforyole overload,and turmover intentions. Journal of Management,39(6),1699-1724.   \nKahn,R.L.,Wolfe,D.Quin,R.P,ek,JD&osental,R..(964).Ogazatioalstres:Studiesinolecoflctd ambiguity. New York: Wiley.   \nKaupila,O.P. (O4).So,whatamIsupposedtodoAmutilevelexaminationofroleclarity.JoualofManagementStudie,(5), 737-763.   \nKim,M.,&BehTA.().Self-cacydpshogicalowersipedatetectsofmpowegladershioodad bad employee behaviors. Journal of Leadership &Organizational Studies,24(4),466-478.   \nKim,M.,Be,e,..().Epoyespspowrindeip:aalysis.Joalofde Organizational Studies,doi: 10.1177/1548051817750538   \nLabianca,G.,GrayB.&rass,D.J.(O).Agoundedmodelofrganzationalshemachangeduringempowerment.Orgnzation Science,11(2),235-257.   \nLam,C.K.,Huang,X,&Chan,S.C(Ol5).Thetresoldefectofparticiativeleadershipdtheoleofleaderifomatioaring AcademyofManagementJournal,58(3),836-855.   \nLangfred,C.W.&oye,N.A.(Oo4).Efectsoftaskutonomyonperformance:Anextendedmodelconsideringmotiational informational,and structural mechanisms.Journal ofApplied Psychology,89(6),934945.   \nLeach,D.J.,Wal,&ckson,P.R.(3).eefctfepowermntojobowedge:Ampaltsiingato complex technology. Journal of Occupational and Organizational Psychology,76(1),27-52.   \nLee,A.,Wili.,&aW8).powrdeip:alycaatiomtalotioio moderation.Journal ofOrganizational Behavior,39(3),306-325.   \nLee,M.C.C.,ris,M.A.,&Delfabro,P.H(Ol7).Thelinkagesbetweenherarchicalcultureandempoweringleadershipadeir efects onemployes’work engagement: Workmeaningfulnessas a mediator.International Journalof Stress Management,24(4), 392-416.   \nLee,S.,Ceong,M.,Kim,M,&un,.(O17).Nevertoouch?heurvilinarrelationshipbetweeempoweringleadershidtask performance. Group & Organization Management,42(1),11-38.   \nLevy,J.&Pasher,H. (Ol).saltasksowigistrctioepdent?oualofExprimetalPology:Hunertio Performance,27(4),862-869   \nLewin,K.(1947).Goupdecisioandsociahange.InTM.Newcom&E.LHartley(Eds.)Readings inSocialPsychologp. 344). New York: Holt.   \nLi,N.,CiabruD.,&an,.L.().oselespongldesoiior:Oatiol support climate as a double-edged sword.Journal of Management,43(4),1076-1102.   \nLorinkova,NM.,&eyS.J.(7).Wenismpoweentefctieheoleoflader-eaderexchangeipowerigeadeship cynicism,and time theft.Journal of Management,43(5),1631-1654.   \nLorinkova,N.aaJ,&i,H.).Egtaloiloaceoiee leadership in teams.Academy of Management Journal,56(2),573-596.   \nMagni,M.，&Maruping,L.M.(2013).Sink orswim:Empoweringleadershipandoverloadinteams'abilitytodeal withthe unexpected. Human Resource Management,52(5),715-739.   \nManz,C.C.,&imsJ,HP.(991).uperleadership:Beyondthemythofhroiceadership.Orgazatioalamics,9(4),   \nMariappanadar,S.(214).takeholderharmindex:Aframework toreviewworkintensificationfromthecriticalHRMperspective.Human Resource Management Review,24(4),313-329.   \nMartin,S.L,oHel,E..).iespoegdshegctsk proficiency and proactivity.Academy of ManagementJournal,56(5),1372-1395.   \nMathieu,J.,Aheae,&aylor,S.R.(o).Alngidinalros-evelmodelofladerandsalespersoifluencesonlesfore technology use and performance. Journal of Applied Psychology,92(2),528-537.   \nMathews,R.A.,Winkel,D.E.,&Waye,J.H. (O14).Alongitudinalexaminationofroleoverloadandwork-familyonflict:The mediating role of interdomain transitions.Journal of Organizational Behavior,35(1),72-91.   \nMaynard,M.TeJ.E,sdy.).lielgaioteslo to empowerment. Human Performance,20(2),147-171.   \nMenon,S.().Emplompoent:AteatieoloicalaproachApledpyologyAnteatioalevi0(), 153-180.   \nMils,P.K.，&Ungso,G.R.(2o3).Reasssingthelimitsofstructuralempowerment:Organzationalonstitutionandtrustas controls.Academy of Management Review,28(1),143-153.   \nPearce,C.L,.,.elh,oL)corsad multi-methoddevelopmentofatheoreticaltypologyofleadership.JournalofManagementDevelopment,22(4),273-30.   \nRizo,J.R.,Hus,J,&n,S..7).oleflictdiguitpleaatiodmstrativecetel 15(2), 150-163.   \nRubinstein,J.yeE,vs,E.).Euiooieresi.Joalol Psychology: Human Perception and Performance,27(4),763-797.   \nSchmidt,S.oslerU.,KuserowT&au.Ol).Uceaintyinheokace:Examiingleabiguitydroleoflictd their link to depresion-Ameta-analysis.European Journalof Work andOrganizational Psychology,23(1),91-106.   \nSchweiter,MEOd,,&oua.().GalsetigsotiatorofueicalbhaiorAcdfagemtJoual 47(3), 422-432   \nSharma,PN.,&Kirkman,B.L. (2O15).Leveragingleaders:Aliteraturereviewandfuturelinesofinquiryforempoweringleadership research. Group & Organization Management, 40(2),193-237.   \nSkogstad,A.tad,J,as&narsen.(4).vdantleadershiotseofubdinatestressoidal relationships between laissez-faire leadership and role ambiguity.Work & Stress,28(4),323-341.   \nSpreitzer,G.M.(1995).Psychologicalempowermentintheworkplace:Dimensions，measurement,andvalidation.Academyof Management Journal,38(5),1442-1465.   \nTemprado,J.J.,Zanone,P.G.,Monno,A,&Laurent,M.(2Ool).Adynamicalframeworktounderstandperformancetradeoffsad interferenceindualtasks.JournalofExperimental Psychology:Human PerceptionandPerformance,27(6),303-1313.   \nvanDijke,M.,DeCremer,D.,Mayer,D.M,&VanQuaquebeke,N.(ol2).Whendoesproceduralfaiesspromoteorganzatioal citizenship behavior?Integrating empowering leadershiptypes inrelational justicemodels.OrganizationalBehaviorand Human Decision Processes,117(2),5-248.   \nVecchio,RP.Jstin,&eCL().powrigderp:aatidigcsial structure.The Leadership Quarterly,21(3),530-542.   \nWaace,J.Cs,P,t,l,J).ctudiclottefd moderating role of shared felt accountability.Journal of Applied Psychology, 96(4),840-850.   \nWong,S.I,&erS.R.(Ol8).etinlineteeempowergadlisefireleadership:nexpctancymatchsctie. Journal of Management,44(2),757-783.   \nZhang,X.,&artol,K..(lo).igmpowerigladsidmployeeatiityefueceofoloicalpt intrinsic motivation,and creative process engagement. Academy of anagement Journal,53(1),07-128.   \nZhang,X.,&Zou,J.(Ol4).Empoweringleadershipucertaityvidance,trust,ndmploeereativity:Interactionectsd mediating mechanism.Organizational Behavior and Human Decision Processes,l24(2),150-164. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The Negative Effects of Empowering Leadership: Theoretical ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Mechanisms and Boundary Conditions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "WANG Honglei1; SUN Jianmin² 0 $^ { \\prime } I$ College of Economics and Management,Northeast Agricultural University,Harbin,150030) (2 School ofLabor and Human Resources,Renmin University of China,Beijing,100872) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Despite previous research primarily focused on the positive outcomes resulting from empowering leadership,recent studies in this realm have indicated that empowering leadership could also bring potential negative effects apart from the positive outcomes.With respect to this issue，we first demonstrated the conceptualization and core characteristics of empowering leadership. Then,based on dual-task processing effect,role theory and implicit leadership theory, we explained the theoretical mechanisms of the negative effects of empowering leadership.Next, we analyzed the boundary conditions under which empowering leadership exerts positive influence on employees and organizations. Finally, we proposed several future research directions regarding the negative effects of empowering leadership. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: Empowering leadership; negative effects； theoretical mechanisms； boundary conditions ",
+        "page_idx": 14
+    }
+]

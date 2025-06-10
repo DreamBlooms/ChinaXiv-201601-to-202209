@@ -1,0 +1,646 @@
+[
+    {
+        "type": "text",
+        "text": "非均一方差的GNSS定位误差模型检验 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "贾静怡²，马冠一¹，范江涛¹，卢伟俊”²，李奇”²（1.中国科学院国家天文台，北京100012；2.中国科学院大学，北京100049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在全球导航卫星系统（Global Navigation Satellite System，GNSS）中，定位精度是一个重要的性能指标；准确的定位误差模型有利于理解系统的工作模式，同时也为进一步提高系统性能提供指导。当卫星的测距误差满足相互独立和方差均一的条件时，定位误差等于测距误差标准差乘以几何精度因子。然而实际应用中，由于不同卫星信号的传播路径的不同，测距误差的统计特征难以相同。尤其当有卫星信号受到多径干扰与电离层闪烁影响时，不同卫星间的测距误差会有显著的差异。本文介绍了一种利用奇异值分解方法建立的非均一测距误差的定位误差理论模型；利用北京站与香港站的实测数据，对受到多径效应与电离层闪烁影响的定位误差进行分析。结果表明其统计特性与非均一方差的定位误差模型给出的结果一致，验证了模型的正确性和有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：定位误差；几何精度因子；测距误差；多径干扰；电离层闪烁中图分类号：P228.1 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GNSS 卫星定位误差分析中，主要使用测距误差均一前提假设下的定位误差模型，即当卫星的测距误差满足相互独立和方差均一的同分布条件时，定位误差等于测距误差标准差乘以几何精度因子（Geometric Dilution of Precision，GDOP）[]。几何精度因子仅与卫星几何分布情况有关，它与用户接收机与可视卫星形成的四面体或多面体的体积成反比[2。有很多研究工作致力于参与定位选星工作，以得到尽可能小的GDOP 值[2-4]。测距误差是对卫星伪距测量值进行误差校正后得到的伪距测量误差量，其中包含未剔除干净的对流层延迟、电离层延迟、多径干扰与接收机噪声等误差项。实际定位解算中，由于卫星间的相互差异、传播路径不同等因素，不同卫星测距误差的统计特征难以相同，无法满足方差均一的条件[5]。尤其当某颗卫星信号受到多径效应或电离层闪烁影响时，其测距误差显著增大[6-8]。围绕多径干扰、电离层闪烁与定位误差间的关系展开了很多研究工作，有研究给出统计分析和试验结果，说明了多径干扰、电离层闪烁对定位误差存在影响[6-8]。但尚未给出统一结论描述多径效应、电离层闪烁与定位误差之间的关系。有研究提议剔除测距误差大的星，但这样做会改变卫星星座分布，可能会恶化几何精度因子[9。该措施对定位精度的维持起一定作用，但对于一般的用户接收机并不实用。因此，在测距误差非均一的实际定位解算中，尤其是当卫星信号受到多径干扰或电离层闪烁影响时，如何保证卫星导航定位精度，如何在一般用户接收机中实施，需要考察非均一测距误差如何影响定位精度。已有研究针对GPS 定位考察了非均一伪距误差对定位误差的影响，给出了定位误差模型[10]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文旨在对卫星测距误差非均一时的定位误差模型进行验证。首先利用奇异值分解(SingularValue Decomposition，SVD）方法对几何矩阵进行分解，推导出定位误差协方差表达式，给出定位误差模型。接下来利用北京站与香港站的实测数据，对受到多径效应与电离层闪烁影响的卫星信号进行定位解算，将定位结果与非均一测距误差下的理论模型进行对比和分析。最后给出了结论。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2基于SVD方法的定位误差模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在线性代数中，SVD 是分解矩阵的基本方法，利用 SVD求解方程在理论上与最小二乘是完全等效的。SVD的优势在于它能够给出矩阵的伪逆，从而推导出解的简洁、自约束的表达式，从 SVD中得到的奇异值和正交向量可以洞察问题的几何与理论内涵。并且，SVD求解具有数值稳定性，相比易受舍入误差影响且方程自身奇异的最小二乘解，SVD求解解决了舍入问题，它是最小二乘意义下的最优近似解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GNSS卫星定位中，定位误差方程可表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { c } { \\displaystyle \\delta \\rho \\mathrm { ~ = ~ } \\mathrm { G } { \\left[ \\begin{array} { l } { \\delta x } \\\\ { \\delta y } \\\\ { \\delta z } \\end{array} \\right] } + \\varepsilon _ { p } } \\\\ { \\displaystyle \\mathrm { G } = { \\left[ \\begin{array} { l l l l } { - e _ { x } ( 1 ) } & { - e _ { y } ( 1 ) } & { - e _ { z } ( 1 ) } & { 1 } \\\\ { - e _ { x } ( 2 ) } & { - e _ { y } ( 2 ) } & { - e _ { z } ( 2 ) } & { 1 } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\vdots } \\\\ { - e _ { x } ( n ) } & { - e _ { y } ( n ) } & { - e _ { z } ( n ) } & { 1 } \\end{array} \\right] } } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用 $\\delta \\pmb { \\rho }$ 和 $\\scriptstyle \\varepsilon _ { \\rho }$ 分别表示卫星伪距测量值与估测值之差和测距误差， $[ \\delta x \\delta y \\delta z \\delta b ] ^ { \\scriptscriptstyle T }$ 为用户接收机位置与钟差的未知修正量，G为几何矩阵。利用SVD方法对几何矩阵G进行分解，可推导出定位误差协方差表达式，给出定位误差模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用SVD方法对几何矩阵G进行分解：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\Delta G } = \\mathrm { U } d i a g ( \\omega _ { i } ) \\mathrm { V } ^ { \\mathrm { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "G矩阵的伪逆为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G } ^ { + } = \\mathbb { V } d i a g ( \\lambda _ { i } ) \\mathrm { U } ^ { \\mathrm { T } } , \\lambda _ { i } = 1 / \\omega _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { U } = \\left[ { \\begin{array} { c c c c } { U _ { 1 1 } } & { U _ { 1 2 } } & { U _ { 3 1 } } & { U _ { 1 4 } } \\\\ { U _ { 2 1 } } & { U _ { 2 2 } } & { U _ { 2 3 } } & { U _ { 2 4 } } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\vdots } \\\\ { U _ { N 1 } } & { U _ { N 2 } } & { U _ { N 3 } } & { U _ { N 4 } } \\end{array} } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { V } } = { \\left[ \\begin{array} { l l l l } { V _ { x 1 } } & { V _ { x 2 } } & { V _ { x 3 } } & { V _ { x 4 } } \\\\ { V _ { y 1 } } & { V _ { y 2 } } & { V _ { y 3 } } & { V _ { y 4 } } \\\\ { V _ { z 1 } } & { V _ { z 2 } } & { V _ { z 3 } } & { V _ { z 4 } } \\\\ { V _ { b 1 } } & { V _ { b 2 } } & { V _ { b 3 } } & { U _ { N 4 } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "U和V是正交矩阵，U的列向量和V的列向量分别是 $\\mathrm { G G ^ { T } }$ 与 $\\mathtt { G } ^ { \\mathrm { T } } \\mathtt { G }$ 的特征向量。 $d i a g ( \\omega _ { i } )$ 和$d i a g ( \\lambda _ { i } )$ 是 $4 \\times 4$ 的对角阵， $\\omega _ { i }$ 和 $\\lambda _ { i }$ （ $i = { 1 , 2 , 3 , 4 }$ ）分别是G和 $\\mathrm { G } ^ { + }$ 的奇异值， $\\omega _ { 1 } \\leq \\omega _ { 2 } \\leq \\omega _ { 3 } \\leq$ $\\omega _ { 4 }$ ， $\\lambda _ { 1 } \\ge \\lambda _ { 2 } \\ge \\lambda _ { 3 } \\ge \\lambda _ { 4 } \\mathrm { c }$ （2",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用 $\\pmb { \\varepsilon } _ { r }$ 表示定位误差，定位误差协方差可表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { C o v } ( \\varepsilon _ { r } ) = \\mathrm { \\nabla { G ^ { + } } } E \\big ( \\varepsilon _ { \\rho } \\varepsilon _ { \\rho } { ^ { T } } \\big ) ( \\mathrm { G ^ { + } } ) ^ { \\mathrm { T } } = \\nabla { d i a g } ( \\lambda _ { i } ) \\mathrm { U ^ { T } } E \\big ( \\varepsilon _ { \\rho } \\varepsilon _ { \\rho } { ^ { T } } \\big ) \\mathrm { U } { d i a g } ( \\omega _ { i } ) \\mathrm { V ^ { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1基于SVD方法的均一方差定位误差模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卫星的测距误差服从独立、零均值并具有相同方差的正态分布时，测距误差模型特性如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { E \\big ( \\pmb { \\varepsilon } _ { \\rho } \\big ) = 0 } \\\\ { C o v \\big ( \\pmb { \\varepsilon } _ { \\rho } \\big ) = { \\sigma _ { 0 } } ^ { 2 } I _ { N \\times N } } \\\\ { E \\big ( \\pmb { \\varepsilon } _ { \\rho } ^ { ( i ) } \\pmb { \\varepsilon } _ { \\rho } ^ { ( j ) } \\big ) = 0 , i \\neq \\mathrm { j } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， ${ \\sigma _ { 0 } } ^ { 2 }$ 为卫星的测距误方差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式（7）可得定位误差的协方差矩阵：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC o v ( \\pmb { \\varepsilon } _ { r } ) = \\nabla d i a g ( { \\lambda _ { i } } ^ { 2 } ) \\nabla ^ { \\operatorname { T } } { \\sigma _ { 0 } } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该矩阵为一实对称矩阵，可表示为 ${ \\mathrm { H } } { \\sigma _ { 0 } } ^ { 2 }$ ， $\\mathrm { H } = ( \\mathrm { G } ^ { \\mathrm { T } } \\mathrm { G } ) ^ { - 1 }$ 为几何精度因子矩阵。因此，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H } = \\mathrm { V } d i a g ( { \\lambda _ { i } } ^ { 2 } ) \\mathrm { V } ^ { \\mathrm { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "V的四个列向量 $( \\mathsf { V } _ { 1 } \\mathsf { V } _ { 2 } \\mathsf { V } _ { 3 } \\mathsf { V } _ { 4 }$ ）是矩阵H的特征向量， ${ \\lambda _ { 1 } } ^ { 2 } \\geq { \\lambda _ { 2 } } ^ { 2 } \\geq { \\lambda _ { 3 } } ^ { 2 } \\geq { \\lambda _ { 4 } } ^ { 2 }$ 是H的四个特征值。定位误差的分布是一个四维椭球， $( \\mathsf { V } _ { 1 } \\mathsf { V } _ { 2 } \\mathsf { V } _ { 3 } \\mathsf { V } _ { 4 } )$ 定义了误差椭球四个主轴的方向， $\\mathsf { V } _ { 1 }$ 是主轴， $\\sigma _ { 0 } \\lambda _ { 1 } \\sigma _ { 0 } \\lambda _ { 2 } \\sigma _ { 0 } \\lambda _ { 3 } \\sigma _ { 0 } \\lambda _ { 4 }$ 是椭球的半轴长[10]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基于SVD方法的非均一方差定位误差模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当卫星的测距误差无法满足具有相同方差的正态分布的条件时，用 ${ \\sigma _ { n } } ^ { 2 }$ 表示第n颗卫星的测距误差方差，测距误差模型特性如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { E \\bigl ( \\varepsilon _ { \\rho } \\bigr ) = 0 } } \\\\ { { C o v \\bigl ( \\varepsilon _ { \\rho } \\bigr ) = d i a g ( { \\sigma _ { n } } ^ { 2 } ) , n = 1 , 2 , . . . , N } } \\\\ { { E \\bigl ( \\varepsilon _ { \\rho } { } ^ { ( i ) } \\varepsilon _ { \\rho } { } ^ { ( j ) } \\bigr ) = 0 , i \\ne { \\mathrm { j } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（7）可得定位误差的协方差矩阵：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C o v ( \\varepsilon _ { r } ) = \\nabla d i a g ( \\lambda _ { i } ) \\mathsf { U } ^ { \\mathsf { T } } d i a g ( \\sigma _ { n } ^ { \\mathrm { ~ 2 } } ) \\mathsf { U } d i a g ( \\omega _ { i } ) \\mathsf { V } ^ { \\mathsf { T } } , \\quad i = 1 , 2 , 3 , 4 ; n = 1 , 2 , \\ldots , N } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以看出，在卫星测距误差非均一的情况下，定位误差模型更加复杂。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设 $\\cdot n$ 颗卫星中测距误差方差最小的为 ${ \\sigma _ { 0 } } ^ { 2 }$ ， ${ \\sigma _ { n } } ^ { 2 } \\ge { \\sigma _ { 0 } } ^ { 2 }$ ，将式（12）中的定位误差协方差矩阵展开可得总的定位误差协方差矩阵 $C o v ( \\pmb { \\varepsilon } _ { r } ) _ { T } ^ { [ 1 0 ] }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC o v ( \\pmb { \\varepsilon } _ { r } ) _ { T } =\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { V } d i a g \\bigl ( { \\lambda _ { i } } ^ { 2 } \\bigr ) \\mathrm { V } ^ { \\mathrm { T } } { \\sigma _ { 0 } } ^ { 2 } +\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\sum _ { n = 1 } ^ { N } \\nabla d i a g ( \\lambda _ { i } ) \\left[ \\begin{array} { l } { u _ { n 1 } } \\\\ { u _ { n 2 } } \\\\ { u _ { n 3 } } \\\\ { u _ { n 4 } } \\end{array} \\right] \\left[ \\begin{array} { l } { u _ { n 1 } } \\\\ { u _ { n 2 } } \\\\ { u _ { n 3 } } \\\\ { u _ { n 4 } } \\end{array} \\right] ^ { T } d i a g ( \\lambda _ { i } ) \\mathrm { V } ^ { \\mathrm { T } } \\left( { \\sigma _ { n } } ^ { 2 } - { \\sigma _ { 0 } } ^ { 2 } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$C o v ( \\pmb { \\varepsilon _ { r } } ) _ { T }$ 由同方差性定位误差与测距误差方差大于 ${ \\sigma _ { 0 } } ^ { 2 }$ 的测距误差方差增量部分${ \\sigma _ { n } } ^ { 2 } - { \\sigma _ { 0 } } ^ { 2 }$ 为同方差性定位误差带来的定位误差增量总和两部分组成。 $. C o v ( \\pmb { \\varepsilon } _ { r } ) _ { T }$ 不仅与 ${ \\mathrm { V } } , { \\lambda _ { i } } ^ { 2 }$ ，${ \\sigma _ { 0 } } ^ { 2 }$ 有关，还与测距误差方差增量 ${ \\sigma _ { n } } ^ { 2 } - { \\sigma _ { 0 } } ^ { 2 }$ 和U矩阵中第 $n$ 行向量有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从式（13）可以看出， $C o v ( \\pmb { \\varepsilon _ { r } } ) _ { T }$ 是一个实对称矩阵。用 $\\mathsf { V } _ { T }$ 的四个列向量表示 $C o v ( \\pmb { \\varepsilon } _ { r } ) _ { T }$ 的特征向量， $\\xi _ { T 1 } ^ { 2 } \\ ^ { 2 } \\ \\xi _ { T 2 } ^ { 2 } \\ ^ { 2 } \\ \\xi _ { T 3 } ^ { 2 } \\ \\xi _ { T 4 } ^ { 2 } \\ ^ { 2 }$ 表示 $C o v ( \\pmb { \\varepsilon } _ { r } ) _ { T }$ 的特征值。根据矩阵特征值交织定理， ${ \\xi _ { T i } } ^ { 2 }$ 与${ \\lambda _ { i } } ^ { 2 } { \\sigma _ { 0 } } ^ { 2 }$ 关系如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\xi _ { { T 1 }  } { } ^ { 2 } \\geq { \\lambda _ { 1 } } ^ { 2 } { \\sigma _ { 0 } } ^ { 2 } \\geq { \\xi _ { T 2 } } ^ { 2 } \\geq { \\lambda _ { 2 } } ^ { 2 } { \\sigma _ { 0 } } ^ { 2 } \\geq { \\xi _ { T 3 } } ^ { 2 } \\geq { \\lambda _ { 3 } } ^ { 2 } { \\sigma _ { 0 } } ^ { 2 } \\geq { \\xi _ { T 4 } } ^ { 2 } \\geq { \\lambda _ { 4 } } ^ { 2 } { \\sigma _ { 0 } } ^ { 2 } } \\\\ & { \\qquad \\textstyle \\sum _ { i = 1 } ^ { 4 } \\xi _ { T i } { } ^ { 2 } = \\textstyle \\sum _ { i = 1 } ^ { 4 } { \\lambda _ { i } } ^ { 2 } { \\sigma _ { 0 } } ^ { 2 } + \\textstyle \\sum _ { n = 1 } ^ { N } { \\lambda _ { z n } } ^ { 2 } ( { \\sigma _ { n } } ^ { 2 } - { \\sigma _ { 0 } } ^ { 2 } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中,",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\lambda _ { z n } = \\sqrt { ( \\sum _ { i = 1 } ^ { 4 } \\lambda _ { i } u _ { n i } V _ { x i } ) ^ { 2 } + \\left( \\sum _ { i = 1 } ^ { 4 } \\lambda _ { i } u _ { n i } V _ { y i } \\right) ^ { 2 } + ( \\sum _ { i = 1 } ^ { 4 } \\lambda _ { i } u _ { n i } V _ { z i } ) ^ { 2 } + ( \\sum _ { i = 1 } ^ { 4 } \\lambda _ { i } u _ { n i } V _ { y i } ) ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r l r l } { Z _ { n x } = } & { ( \\sum _ { i = 1 } ^ { 4 } \\lambda _ { i } u _ { n i } V _ { x i } ) ~ / \\lambda _ { z n } } & & { Z _ { n y } = } & { ( \\sum _ { i = 1 } ^ { 4 } \\lambda _ { i } u _ { n i } V _ { y i } ) ~ / \\lambda _ { z n } } \\\\ & { } & \\\\ { Z _ { n z } = } & { ( \\sum _ { i = 1 } ^ { 4 } \\lambda _ { i } u _ { n i } V _ { z i } ) ~ / \\lambda _ { z n } } & & { Z _ { n b } = } & { ( \\sum _ { i = 1 } ^ { 4 } \\lambda _ { i } u _ { n i } V _ { b i } ) ~ / \\lambda _ { z n } } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定位误差协方差矩阵可用特征值与特征向量表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC o v ( { \\varepsilon _ { r } } ) _ { T } = V _ { T } d i a g { \\left( { \\xi _ { T i } } ^ { 2 } \\right) } { V _ { T } } ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此可知卫星测距误差非均一时，定位误差的分布是一个四维椭球， $V _ { T 1 } V _ { T 2 } V _ { T 3 } V _ { T 4 }$ 定义椭球的四个主轴， $V _ { T 1 }$ 是主轴， $\\xi _ { T 1 } \\xi _ { T 2 } \\xi _ { T 3 } \\xi _ { T 4 }$ 是椭球的半轴长。该椭球相比测距误差均一假设下的定位误差椭球，主轴朝一特定方向趋近，该方向与星座分布、测距误差方差增大卫星的位置均有关[10]。误差椭球轴长因测距误差方差增量而增加，主轴增加的最多。当 ${ \\sigma _ { n } } ^ { 2 }$ 远大于 ${ \\sigma _ { 0 } } ^ { 2 }$ 时， ${ \\xi _ { T 1 } } ^ { 2 }$ 将远大于 ${ \\lambda _ { 1 } } ^ { 2 } { \\sigma _ { 0 } } ^ { 2 }$ ，误差椭球主要沿主轴方向被拉长。所有卫星的测距误差方差增量将大大拉长定位误差椭球[10]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3基于SVD方法的定位结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文利用北京站与香港站的实测数据对基于SVD分解的定位误差模型进行验证。选取卫星信号受到多径干扰和电离层闪烁影响时的数据进行定位解算,此时卫星测距误差显著增大，根据定位误差模型定位误差椭球主轴将明显偏转拉长。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次研究首先对卫星伪距进行拟合去趋势处理得到卫星测距误差。接下来利用SVD方法对受到多径干扰与电离层闪烁事件影响的卫星进行定位解算，得到实际定位结果。利用公式(9），得到测距误差均一假设下定位误差椭球主轴的特征向量与特征值。利用公式（12)和（16），得到测距误差非均一情况下实际定位误差椭球主轴的特征向量与特征值。通过对比定位误差椭球的特征向量特征值与实际定位结果，验证定位误差椭球模型的正确性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1定位解算参数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）地点坐标：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选择IGS站中北京站BJFS与香港站HKSL两个地点，分别考察多径效应和电离层闪烁对定位误差的影响。北京站的坐标为39°54'50\"N，11623'30\"E，香港站的坐标为22°22'19\"N，11355'40\"E。香港站处于低纬地区，电离层闪烁事件发生频繁。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）卫星位置与伪距测量值",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用2014年4月25、26、27日，2014年3月20、21、22日，2014年6月20、21、22日，2014年9月22、23、24日，2014年12月21、22、23日，2014年2月27日，2014年3月10日的GPS卫星实测数据进行定位解算。伪距测量值与卫星位置由IGS网站提供的采样率为30s观测文件与导航电文获得。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2测距误差提取方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "伪距测量值包含各种误差，按照来源不同大致可分为三个方面，与卫星有关的误差，与信号传播有关的误差及与接收机有关的误差。测量误差的两个重要特征是其大小和变化快慢，根据变化快慢这个特征，上述各种误差可以分为偏差和噪声两类。偏差指的是在一段时间内变化较慢的误差。偏差量的大小具有一定稳定性，可直接测量或者用数学模型来预测。与偏差相反，噪声是变化很快的一类误差，具有统计特征，具体值很难被预测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "观测文件中记录了卫星的伪距观测值，可知卫星伪距变化存在一定趋势，趋势中包含卫星到接收机的几何距离和伪距测量偏差。对卫星伪距随时间变化曲线进行去趋势处理，得到的残差项即是测距误差εp。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次研究利用多项式拟合对卫星伪距随时间变化曲线进行拟合去趋势处理，用均方根和确定系数R确定多项式系数，实现去趋势后测距误差最准确。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1多径效应对测距误差的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "多径效应指的是接收机天线接收到GPS信号经周围地物反射后的信号，而每个反射信号又可能是经过一次或多次反射后到达天线的。多径效应会降低载波相位以及伪距的测量精度，严重时还可以导致码相位失锁和卫星信号失踪。一般来说，低仰角卫星信号更容易发生多径现象。即卫星仰角越小，多径效应发生概率越大，伪距测量精度越低，测距误差越大， $\\sigma _ { n }$ 越大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1为2014年4月26日北京站测得的PRN14、15、18、21、22、24六颗卫星24小时内测距误差标准差 $\\sigma _ { n }$ 随仰角变化图。设置卫星仰角截止角为 $1 0 ^ { \\circ }$ 。从图1可以看出，随仰角变小，卫星信号受多径效应影响， $\\sigma _ { n }$ 由0.25m变大到 $2 \\mathrm { m }$ 。可通过仰角大小判断卫星信号测距误差是否受到多径效应影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d4feaa116855dc05e6cc4f3b3f069e8b2f96d812b1494ea353917d2b558af4e.jpg",
+        "img_caption": [
+            "图1. 测距误差标准差随仰角变化图Fig1. $\\sigma _ { n }$ elevation-varying graph"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2电离层闪烁对测距误差的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "电离层闪烁导致电离层中传播的无线电信号快速起伏，严重时会引起信号的中断，是影响空间无线电系统性能的重要因素。低纬的赤道异常区是全球范围内电离层闪烁出现最频繁、影响最严重的地区之一[8]。电离层闪烁可以引起用户接收机测量误差增大[8]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ROTI 是电离层 TEC变化率指数，ROTI值越大即闪烁现象越严重[11]。图2给出了2014年3月香港站受电离层闪烁影响卫星的测距误差标准差 $\\sigma _ { n }$ 随 ROTI的变化情况。由图2可见$\\sigma _ { n }$ 在 $0 . 2 \\mathrm { { m } }$ 至 3m 间变化，且随着 ROTI值的增大， $\\sigma _ { n }$ 呈增大趋势。可通过ROTI 值判断卫星信号测距误差是否受到电离层闪烁影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/79b95bf9c81a11a5ef4fb1e216d5d02b19922836a5d9b019609cbc1f3d3b9893.jpg",
+        "img_caption": [
+            "图2. 测距误差标准差随ROTI变化图Fig.2 $\\sigma _ { n }$ ROTI-varying graph"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3实际定位结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.1多径效应影响下的定位误差分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在实测数据中，卫星星座分布随时间变化，选择在一定时间段内星座分布变化较小的数据对定位误差模型进行验证。2014年4月25日、26日、27日三日中，每日0点20分到0点35分（历元 $4 0 { \\sim } 7 0 \\$ ），北京站可视卫星的方位角与仰角变化范围小于5，星座分布基本一致。设置卫星仰角截止角为 $1 0 ^ { \\circ }$ 。卫星仰角在 $1 0 ^ { \\circ }$ 到 $3 0 ^ { ^ { \\circ } }$ 之间时，卫星受多径效应影响。0点20分 ${ \\sim } 0$ 点35分内视野中共有PRN14、15、18、21、22、24六颗卫星，有且仅有PRN14一颗卫星受到多径效应影响。图3给出了2014年4月26日视野内每颗卫星全天的 $\\sigma _ { n }$ 随时间变化曲线，可见实际定位中，卫星测距误差是非均一的。当卫星受到多径干扰时， $\\sigma _ { n }$ 显著增大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2ff1c260b8c1fe687b34ae6c63782c29ae58e01eaa70ffcf5d5b547a62655cb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在站心坐标系（ENU）下进行定位解算，坐标系中E-N方向为水平方向。图4为2014年4月25日、26日、27日北京站定位结果在水平方向上投影的分布图。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2906bc4ff95ba06fe39db3888bcd38513db5d801d4651395a79a0b6d7ba875e2.jpg",
+        "img_caption": [
+            "图3. 2014年4月26日卫星测距误差标准差随时间变化曲线Fig3. $\\sigma _ { n }$ time-varying curve on April 26,2014",
+            "图4. 2014年4月25日、26日、27日北京站定位结果分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Positioning of BJFS on April 25，2014，April 26,2014，April 27，2014 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将0点20分 ${ \\sim } 0$ 点35分内的30个水平方向定位结果用红点在图中标出。全天24小时内2880个定位结果用蓝点在图中标出。图中卫星仰角 ${ 6 0 } ^ { \\circ }$ 、 $3 0 ^ { \\circ }$ 、 $0 ^ { ^ { \\circ } }$ 分别对应半径为2m、4m、6m的圆，卫星方位角与定位误差方位对应。将受到多径干扰的PRN14号卫星15分钟内的方位角与仰角均值用红色星形标出，其他星均由黄色星形表示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "30个定位结果对应30个几何矩阵G。对G矩阵进行SVD分解，得到每一历元测距误差均一假设下定位误差椭球主轴的特征向量 $V _ { 1 }$ 和特征值 $\\lambda _ { 1 }$ 。将 $V _ { 1 }$ 均值 $\\overline { { V _ { 1 } } }$ 在水平方向上的投影用黄色线段画出。利用实测数据提取的 $\\sigma _ { n }$ 结合上文中式（12）和式（16），可求得实际定位误差椭球主轴的特征向量 $V _ { T 1 }$ 与特征值 $\\xi _ { T 1 }$ ，用红色线段表示向量均值 $\\overline { { { V _ { T 1 } } } }$ 在水平方向上的投影，并用三角形在红线上标记出三倍特征值均值 $\\overline { { \\xi _ { T 1 } } }$ 在水平方向上的投影值 $\\overline { { { \\xi _ { T 1 } } } } ^ { \\prime }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图5给出了2014年春分、夏至、秋分、冬至及其前后两天北京站水平方向的定位分布。图 $5 \\left( \\mathrm { a } \\right) 5 \\left( \\mathrm { b } \\right) 5 \\left( \\mathrm { c } \\right) 5 \\left( \\mathrm { d } \\right)$ 分别由2014年3月20日 ${ \\sim } 2 2$ 日每日 $0 4 \\colon 1 0 { \\sim } 0 4 \\colon 2 5$ 、2014年6月20日 ${ \\sim } 2 2$ 日每日 $0 2 : 3 0 { \\sim } 0 2 : 4 5$ 、2014年9月22日 ${ \\sim } 2 4$ 日每日 $0 1 : 3 5 \\sim 0 1 : 5 0$ 、2014年12月21日 ${ \\sim } 2 3$ 日每日 $0 4 { : } 4 5 { \\sim } 0 5 { : } 0 0$ 的定位结果构成。图中卫星仰角 ${ 6 0 } ^ { \\circ }$ 、 $3 0 ^ { \\circ }$ 、 $0 ^ { \\circ }$ 分别对应半径为 $8 / 3 \\mathrm { m }$ ， $1 6 / 3 \\mathrm { m }$ ，8m的圆，卫星方位角与定位误差方位对应。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d2ab2b9e170582b39ad27a39fd4fb0969417e4a131e218e3ab6c4bcdd33bfeb.jpg",
+        "img_caption": [
+            "图5. 春分、夏至、秋分、冬至北京站定位结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig5. Positioning of BJFS on $\\boldsymbol { 2 0 1 4 } / 3 / 2 0 \\overset { \\sim } { ^ 2 2 }$ ， $2 0 1 4 / 6 / 2 0 \\textsuperscript { - } 2 2$ ， $\\boldsymbol { 2 0 1 4 / 9 / 2 2 ^ { \\circ } 2 4 }$ ， $\\boldsymbol { 2 0 1 4 / 1 2 / 2 1 } ^ { \\sim } \\mathrm { \\tilde { 2 3 } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表1中给出了2014年3月21日 $0 4 \\colon 1 0 { \\sim } 0 4 \\colon 2 5$ 、2014年4月26日0： $2 0 \\sim 0$ ：35、2014年6月21日 $0 2 : 3 0 { \\sim } 0 2 : 4 5$ 、2014年9月23日 $0 1 : 3 5 \\sim 0 1 : 5 0$ 、2014年12月22日 $0 4 : 4 5 \\sim 0 5 : 0 0$ 每日30个历元内的几何精度因子GDOP均值，测距误差方差增量均值 $\\overline { { \\sum ( { \\sigma _ { n } } ^ { 2 } - { \\sigma _ { 0 } } ^ { 2 } ) } }$ （ $\\sigma _ { 0 }$ 取视野内卫星 $\\sigma _ { n }$ 最小值），测距误差均一假设下定位误差椭球主轴半轴长 $\\sigma _ { 0 } \\lambda _ { 1 }$ 均值的水平投影值 $\\overline { { \\sigma _ { 0 } \\lambda _ { 1 } } } ^ { \\prime }$ 和实际定位误差椭球主轴半轴长 $\\xi _ { T 1 }$ 均值的水平投影值 $\\overline { { { \\xi _ { T 1 } } } } ^ { \\prime }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表1北京站定位结果分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tab.1 Analysis of Positioning of BJFS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/974e0c6219961d4a04c53b5d76a074afcdd758bb4127bac6207e693fbc323d52.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td>几何精度因子</td><td>测距误差方差</td><td rowspan=\"2\">测距误差均一假设下定位误差 椭球主轴半轴长均值投影值／m</td><td rowspan=\"2\">实际定位误差椭球主轴半轴 长均值投影值／m</td></tr><tr><td>均值／m</td><td>增量均值／m</td></tr><tr><td>03/2104:10~04:25</td><td>3.594</td><td>2.587</td><td>0.470</td><td>2. 078</td></tr><tr><td>04/260:20～ 0:35</td><td>3.598</td><td>2.655</td><td>0.495</td><td>2.092</td></tr><tr><td>06/21 02:30~02:45</td><td>2.707</td><td>4.811</td><td>0.396</td><td>1.937</td></tr><tr><td>09/23 01:35~01:50</td><td>2.654</td><td>3.495</td><td>0.417</td><td>1.822</td></tr><tr><td>12/22 04:45~05:00</td><td>2.853</td><td>2.875</td><td>0.447</td><td>1.986</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结合图、表可以看出，实际定位结果与非均一方差定位误差模型基本吻合。在轴方向上，实际定位误差椭球主轴方向相比测距误差均一假设下的误差椭球主轴方向明显旋转，旋转角度与星座分布、 $\\sigma _ { n }$ 增大卫星位置有关，所选时间段内的定位点基本分布在实际定位误差椭球主轴方向周围。对于轴长，实际定位误差椭球轴长相比测距误差均一假设下的误差椭球轴长明显增大，增大量与星座分布和测距误差方差增量有关，实际定位结果分布在 $3 \\overline { { \\xi _ { T 1 } } } ^ { \\prime }$ 范围内，符合中心极限定理。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2电离层闪烁影响下的定位误差分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过ROTI值可以判断卫星信号是否受到电离层闪烁影响。根据计算结果得知，2014年2月27日 $1 6 \\colon 0 0 { \\sim } 1 7 \\colon 0 0 \\mathrm { P R N } 7$ 号、9号卫星与2014年3月10日 $1 8 : 0 0 \\sim 1 9 : 0 0 \\mathrm { P R N } 7$ 号卫星均受到较强的电离层闪烁事件影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其中，2014年2月27日16时25分 ${ \\sim } 1 6$ 时40分卫星星座变化较小，此时视野内共有PRN1、7、9、11、19、28、32七颗卫星，其中PRN19、32号卫星受到多径干扰，PRN7号、9号卫星受到电离层闪烁影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图6给出了这七颗卫星的 $\\sigma _ { n }$ 随时间变化曲线。由图可见当卫星信号受到多径干扰或电离层闪烁影响时， $\\sigma _ { n }$ 明显增大。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd8aa420f990842ec82dd4233a06538c2253694a87560cf7dcb8d7119bc23e7d.jpg",
+        "img_caption": [
+            "图6.2014年2月27日香港站卫星测距误差标准差随时间变化曲线",
+            "Fig6. $\\sigma _ { n }$ time-varying curve on Feb 27，20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图7为2014年2月27日香港站水平方向的定位结果分布图。蓝点标记全天定位结果。红点标记16时25分 ${ \\sim } 1 6$ 时40分内的定位结果。用红色星形标记受到多径干扰的PRN19号卫星与PRN32号卫星。用绿色星形标记受到电离层闪烁影响的PRN7号卫星与PRN9号卫星。其他星均由黄色星形标记。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "经计算得， $\\overline { { \\xi _ { T 1 } } } ^ { \\prime } { = } 2 . 3 1 4 9 \\mathrm { m }$ ， $\\overline { { \\sigma _ { 0 } \\lambda _ { 1 } } } ^ { \\prime } = 0$ .4119m。黄色线段与红色线段分别代表测距误差均一假设下误差椭球主轴方向与实际定位误差椭球主轴方向在水平方向上的投影，用三角形在实际定位误差椭球主轴方向上标记出三倍 ${ \\overline { { \\xi _ { T 1 } } } } ^ { \\prime }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图8为2014年3月10日香港站水平方向的定位结果分布图。17时15分 ${ \\sim } 1 7$ 时30分卫星星座变化较小，用红点标记这段时间内的定位结果。这段时间视野内有PRN1、4、7、8、9、11、17、20、28、32十颗卫星。PRN7、11、32三颗卫星受到多径干扰，其中PRN7号卫星在这段时间内既受到多径干扰又受到电离层闪烁影响，用黑色星形标记。经计算得， $\\overline { { \\xi _ { T 1 } } } ^ { \\prime } = 2 . 1 5 7 4 \\mathrm { m }$ ，$\\overline { { \\sigma _ { 0 } \\lambda _ { 1 } } } ^ { \\prime } = 0 . 4 0 7 2 \\mathrm { m } .$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd673441f20a128dd20326cba50d4123135b221da79039768ee11bf0bc01cfee.jpg",
+        "img_caption": [
+            "图7. 2014年2月27日香港站定位结果",
+            "Fig.7Positioning of HKSL on Feb 27，2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c28fb789d1eb82dd485b073a55be3d510ed8fcda6ce6c790277376e7ebafcd24.jpg",
+        "img_caption": [
+            "图8. 2014年3月10日香港站定位结果",
+            "Fig.8Positioning of HKSL on Mar 10,2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "结合定位分布图与计算结果可知，实际定位结果在轴向、轴长两方面均与非均一方差定位误差模型相吻合。且多颗卫星测距误差标准差均显著增大时，误差椭球主轴拉长更为明显。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文对GNSS卫星测距误差非均一时的定位误差特性进行研究，利用SVD分解方法给出了非均一方差定位误差模型。模型指出，当测距误差非均一时，定位误差在空间中呈四维椭球分布，椭球的轴向和轴长可由对定位误差协方差矩阵进行SVD分解获得。与测距误差均一假设下的定位误差椭球相比，测距误差非均一时定位误差椭球因测距误差方差增量偏转拉长。当有卫星测距误差方差显著增大时，主轴偏转明显，椭球主要沿主轴被拉长。本文利用北京站与香港站的实测数据对模型进行检验。首先对卫星伪距进行拟合去趋势处理，提取出卫星测距误差；接着对受多径干扰和电离层闪烁影响的卫星进行定位解算分析。结果表明：卫星信号受到多径干扰或电离层闪烁影响时，测距误差标准差显著增大。此时实际定位误差椭球相较测距误差均一假设下的定位误差椭球，主轴方向明显旋转，主轴明显拉长。实际定位结果与非均一定位差椭球主轴方向一致，分布范围与椭球主轴半轴长吻合。可见，非均一方差定位误差模型可以准确描述几何精度因子、测距误差与定位误差之间的关系，为进一步研究定位精度提供依据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢IGS网站提供GNSS实测数据；感谢中国科学院国家天文台李婧华老师在数据方面的支持与帮助。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] KAPLAN E, HEGARTY C. Understanding GPS: principles and applications[M]. Artech House, Norwoodn, 2006. [2] Delgado N,Nunes F, Granados G. On the relation between GDOP and the volume described by the user-to-satellite unit vectors for GNSS positioning[J].GPS Solution,2017,21(3):1139-1147. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3] 徐小钧，马利华，艾国祥．基于NSGA-II算法的多目标快速选星方法[J]．天文研究与技术， 2018,15(3): 292-301.   \nXiaojun, Xu, Lihua Ma, Guoxiang Ai. Multi-Objective and Fast Satelite Selection Method Based on the NSGA-II Algorithm. Astronomical Research & Technology,2018,15(3): 292-301.   \n[4] Zhou S, Cao Y, Zhou J .Positioning accuracy assessment for the 4GEO/5IGSO/2MEO constellation of COMPASS[J]. Science China Physics,Mechanics and Astronomy,2012,55(12): 2290- 2299.   \n[5] Awange J, Grafarend E . Algebraic solution of GPS pseudo-ranging equations[J]. GPS solutions, 2002, 5(4):20-32.   \n[6] Dong D, Wang M, Chen W. Mitigation of multipath effect in GNSS short baseline positioning by the multipath hemispherical map[J]. Journal of Geodesy,2016,90(3):255-262.   \n[7] Jia Q, Wu R, Wang W. Multipath interference mitigation in GNSS via WRELAX[J]. GPS SOLUTIONS,2017, 21(2):487-498.   \n[8] Linty N, Minetto A, Dovis F.Effects of Phase Scintillation on the GNSS Positioning Error During the September 2017 Storm at Svalbard[J]. Space Weather, 2018,16(9):1317-1329.   \n[9] Balaei A, Motella B, Dempster A. Mutual efects of satellite signal quality and satellite geometry on positioning quality[J]. Library Journal, 20O7，138 (12) :65-65.   \n[10] Fan J, Ma G. Characteristics of GPS positioning error with non-uniform pseudorange error[J]. GPS Solutions,2014,18(4):615-623.   \n[11] X.Pi, A. J. Mannucci, U. J. Lindqwister, C.M. Ho. Monitoring of global ionospheric   \nirregularities using the worldwide GPS network[J]. Geophysical Research Letters,   \n1997,24(18):2283-2286. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A test of GNSS positioning error model of non-uniform pseudorange error ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Jia Jingyil²，Ma Guanyi¹，Fan Jiangtao’，Lu Weijun'²，Li Qi2 (1.National Astronomical Observatories, Chinese Academy of Sciences，Beijing l0o0l2,China; ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.University of Chinese Academy of Sciences，Beijing1Ooo12,China. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In the global navigation satellite system (GNSS),an accurate positioning error model is important for understanding how the system works .When the pseudorange error of each satellite has an uncorrelated normal distribution with zero-mean and common variance , the positioning error is equal to the standard deviation of pseudorange error multiplied by the geometric precision. However, in practical applications, the pseudorange errors may differ in variance due to the different signal propagation paths. Especially when the signals are affected by multipath effects or ionospheric scintillation, the pseudorange errors will be significantly different from one another. This paper introduces a theoretical positioning error model of non-uniform pseudorange error based on singular value decomposition (SVD). Using GNSS data at Beijing station and Hong Kong station to analyze the positioning errors affected by multipath efects and ionospheric scintilltion. The statistical characteristics of positioning error are consistent with the results given by the positioning error model of non-uniform pseudorange error, proving the correctness and validity of the model. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Positioning error; Geometric precision; Pseudorange error; Multipath effect; [onospheric scintillation ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,870 @@
+[
+    {
+        "type": "text",
+        "text": "《心理学报》论文自检报告",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.请以“研究亮点\"的形式列出最多三条本研究的创新性贡献，总共不超过200 字。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "《心理学报》的目标是发表“既科学优秀，又具有广泛兴趣和意义\"(be both scientifically excelent andof particularly broad interestand significance)的心理学前沿研究。如果您的研究只有小修小补的贡献，没有尝试开创新的研究领域(new areas ofinquiry)或提出独到见解和创新视角(unique and inovative perspectives)，特别纯粹只是研究没有明确心理学问题的算法或技术的工作，这类研究被本刊接受的机会小。建议另投它刊。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "答：1．不同于以往的研究主要从单一层面研究冲突的结果，本研究采取多层面视角揭示了个体层面宜人性人格特质与团队层面宜人性异质性如何相互作用，从而影响个体冲突与工作绩效间关系。2.通过考察个体宜人性人格特质作为影响关系/任务冲突和工作绩效间关系的边界条件，并且团队的宜人性异质性还可作为衡量个体和团队的匹配程度对个体宜人性特质的调节作用，本研究可以帮助我们更全面地了解宜人性人格特质在冲突管理中所扮演的角色。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.作者已经投稿或发表的文章中是否采用了与本研究相同的数据？如果是，请把文章附上审查。(我们不赞成作者用同一数据发表多篇变量相同的文章，也不赞成将一系列的相关研究拆成多个研究来发表的做法。）答：否。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3．管理、临床、人格和社会等领域仅有自我报告(问卷法)的研究，需要检查数据是否存在共同方法偏差(common method bias)。为控制或证明这种偏差不会影响研究结论的效度，你使用了什么方法？采取了哪些措施？（共同方法偏差的有关文献可参见：http:/joumal.psych.ac.cn/xlkxjz/CN/abstract/abstract894.shtml)基于横断数据，仅有自我报告，仅仅在方便样本中施测，这样的研究数据易取得，但通常创新性价值不大，被本刊接受的机会小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "答：本研究的数据采集分三个阶段，每次收集时间间隔两个月，并且分别从团队成员、团队领导两个来源进行问卷收集。通过多个来源、在多个阶段收集数据，能够从一定程度上减少共同方法偏差的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4.以治疗疾病为目的临床实验，建议在收集数据前预先备案(pre-register)。也鼓励其他实验研究预先备案。备案要求写出所有的研究假设及其支持，以及实验/干预的详细过程和步骤。  \n本期刊的预先备案网站 https://osf.io/。如果您的研究有预先备案，会显著增加被录用的机会。  \n如果您的研究有预先备案，请写出登记号。预先备案的重要性可参考https://osf.io/5awp4/。  \n答：本研究不涉及实验，没有备案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5.是否报告并分析了效果量(effect sizes；如：t检验：Cohen'sd；方差分析：Eta平方或偏Eta 平方；标准化回归系数)？(很多研究只是机械地报告了效果量，但没有做必要的分析或说明，如效果量是大中小？有什么理论意义或应用意义？)。(在 google 中搜索\"effect size calculator”，可搜到许多计算方便的 APP。效应量的有关解释，中文可参考：ttp://oual.psychac.cn/kxjz/CNabstract/abstract150.stml；英文可参看:htp://www.us.edu/becker/efect-se.html是否报告统计分析的 $9 5 \\% C \\mathrm { I }$ ？（如，差异的 $9 5 \\% C \\mathrm { I }$ ；相关/回归系数的 $9 5 \\% C \\mathrm { I }$ 置信区间的有关计算和绘图可参考 https://thenewstatistics.com/itns/esci/ )",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "答：在提交的稿件中，在量表测量中报告了因变量个人工作绩效的 ANOVA 分析结果以及ICC（1）的值。由于我们主要是研究调节作用，所以报告了所有回归模型的非标准化回归系数、标准舞、p值及残差，并在文中对关键变量的回归系数和统计量做出了详细的分析和说明，解释了系数的显著与否及其意义。此外，图2-图5还刻画了交互效应图，可以更直观的反映变量之间的关系以及调节效应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "6．请写出计划的样本量，实际的样本量。如果二者有差别，请写出理由。以往心理学研究中普遍存在样本量不足导致的低统计功效(power问题，我们建议在论文的方法部分解释您计算及认定样本量的依据。应该以有一定依据的效果量(effect size)、期望的功效来确定样本量，并报告计算用软件或程序。样本量计划的理由和做法可参考https://osf.io/5awp4/",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "答：我们需要的是基于团队的数据(每个团队包含一名直接领导和多位下属员工)，计划并邀请了75个团队参与问卷调查，总共包含下属394人，主管75人；最终得到的有效问卷数据来源于64个团队，包含下属339人，主管64人。由于我们采取时滞的研究设计，测量分为三个时间点，每两个时间点间隔2个月，共需6个月，在这段时间中，员工的离职、调任等因素会导致领导或下属无法完整参与调查。并且为了确保数据能反映整个团队的情况，我们在数据分析时只纳入了至少有 $70 \\%$ 的成员能完整参与调查的团队。由此造成了计划样本量和实际样本量的差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7．假设检验中，如果是零假设显著性检验(NHST)，需报告精确p 值而不是p的区间(小于0.001 的报告区间，其他报告精确p值)。你的论文是否符合该项要求？如果是贝叶斯因素，是否已报告其对先验分布假定的敏感性？答：本研究已按要求报告了所有回归模型的回归系数、标准误、精确的 $p$ 值，具体可见表2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8.为保证论文中数据报告的完备性，统计分析中如果剔除了部分数据，是否在文中报告？原因是什么？包含这部分数据统计结果如何变化？统计分析中是如何处理缺失数据的？使用量表时是否删除了其中的个别题目？原因是什么？如果包含这部分题目统计结果会如何变化？是否有测量的项目或者变量没有报告，原因是什么？请写出在论文中的位置。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "答：由于我们收集的是时滞的团队数据，在统计分析时筛除了没有完整参与三次问卷调查的数据。其中，如果是领导没有完整参与调查则筛除整个团队数据；如果是某一下属没有完整参与，如果团队中其他完成调研的下属占团队总成员数的 $70 \\%$ 以上，则只删除该下属的数据，否则删除整个团队的数据。由于本研究数据收集的时间跨度较长，且银行服务团队人员流动率比较高，因而此类数据缺失难以避免，但是我们确保收集了团队中超过 $70 \\%$ 的成员的有效答卷，能够保证剔除无效问卷之后的数据能够反映整个团队的情况。在统计分析中，如果被试有个别问卷题目漏填导致数据缺失，统计分析时将缺失值统一设为-999，由Mplus 7.0软件进行listwise 处理。本研究使用在国内外顶级期刊上已发表的完整量表，在实际测量中没有删除量表题目。所测量的变量，包括控制变量都已按要求在文中进行报告，表1展示了各变量的均值、标准差、相关系数",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9.研究用到的未经过同行评议和审查的实验材料、量表或问卷，是否附在文件的末尾以供审查？如果没有，请写出理由。如果该文发表，您是否愿意公开此程序与其他研究者共享？答：研究中使用的都是已有的成熟量表，并已被很多其他研究引用，所使用的量表附在本文最后部分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10．您的研究的原始数据是否可以上传备审稿人和编辑核查用？如果不能，请写出理由。如果该文发表，您是否愿意公开数据供其他研究者共享？答：原始数据可以上传备查，感兴趣的读者可以联系本文通讯作者获取研究的原始数据。。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "11．您的研究如果用到了人类或动物被试，是否得到所在单位伦理委员会的批准？如果是，请把扫描版发至编辑部邮箱。如果否，请说明理由。  \n答：我们邀请了银行的服务团队参与问卷调查，联系时得到了所在单位的批准，数据收集时告知了所有参与者所得数据仅用于研究目的，他们的回答采取匿名方式，问卷在现场收集并直接封存进行严格保密。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "12．是否依据编辑部网站发布的\"英文摘要写作注意事项\"撰写 $4 0 0 { \\sim } 5 0 0$ 个单词的英文大摘要？英文题目和摘要是否已请英语好的专业人士把关或者已送专业SCI/SSCI论文编辑公司修改润色？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "答：已依据要求撰写英文大摘要，并请母语为英语的佛罗里达大学沃灵顿商学院管理系的二年级博士生JakeGale（已获得印第安纳大学凯利商学院学士学位）进行了修改润色，Email:Jake.Gale@warrington.ufl.edu.Jake 的具体信息可循: htts://warrington.ufl.edu/phd-in-business-administration-management/phd-students/。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冲突对绩效的影响：个体、团队宜人性的调节作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "魏薇’ 房俨然² 李剑南 施俊琦 莫申江('中山大学岭南学院，广州 510275)(佛罗里达大学沃灵顿商学院，盖恩斯威尔 FL32611)(中山大学国际金融学院，珠海519082)(4浙江大学管理学院，杭州310058)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "摘要 以往个体和团队冲突研究主要考察了个人特征或团队特征对冲突结果的影响，而尚未充分关注冲突管理过程中个体特征与团队特征间的交互效应。基于个人一团队匹配理论，本研究探讨了个体层面宜人性与团队层面宜人性异质性对团队中个体冲突（关系冲突、任务冲突）和工作绩效间关系的影响。基于来自64个银行服务团队（包含339 名下属和64名主管）的多来源、多时点纵向数据，本研究所得结果显示：（1）关系冲突显著负向影响工作绩效，任务冲突对工作绩效的影响不显著。（2）个体宜人性能够显著减弱关系冲突对工作绩效的负面影响，而增强任务冲突对工作绩效的正向影响。（3）关系/任务冲突、个体宜人性和团队宜人性异质性间存在着三重交互效应，共同影响工作绩效。具体而言，当团队宜人性异质性水平较低时，个体宜人性对关系/任务冲突与工作绩效间关系的调节作用更加显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关键词个体宜人性；团队宜人性异质性；关系冲突；任务冲突；工作绩效",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了快速应对外部环境变化，提升组织的竞争优势，越来越多的组织将团队作为基本运作单位(Somech,Desivilya,&Lidogoster,2009)。在团队成员之间的频繁互动过程中，冲突往往不可避免(Jehn,1995; Somech et al.,2009)。一般而言，团队内部的冲突可分为关系冲突和任务冲突(Jehn,1995)。以往研究表明，这两种类型的冲突均可能显著影响团队运作的有效性(Bradley, Klotz, Postlethwaite,& Brown,2013; De Wit, Greer, & Jehn, 2012; Olson,Parayitam, &Bao,2007;Tekleab,Quigley,& Tesluk,2009)。因此，如何有效应对团队内部冲突一直以来都是学者们关注的重要话题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以往冲突研究主要分别考察了个体特征或团队特征对冲突结果产生的影响，而较少关注冲突中个体特征与团队特征间存在的交互效应。而根据个人—环境匹配理论(Kristof,1996)，个体行为并非由个体或环境单独决定，而是个体与环境共同作用的结果(Jansen& Kristof-",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Brown,2006)。因此，为了更好地理解关系和任务冲突对工作绩效的影响，非常有必要在理论模型中将个体与环境特征同时纳入进行考察。具体来说，我们聚焦于个体层面宜人性和团队层面宜人性异质性间的交互效应对关系/任务冲突与工作绩效间关系的调节作用。与大五人格模型中的其他四个维度相比，宜人性聚焦于人际间互动特征，反映了个体维持和谐、积极人际关系的动机(Graziano,Jensen-Campbel,& Hair,1996)。个体抱有利他或自私的目的从根本上决定了其人际互动时的倾向(Dijkstra, Van Dierendonck,Evers,&De Dreu,2005)。在面临冲突时，高宜人性的个体往往更倾向于采用和谐的、建设性的冲突管理策略(Jensen-Campbell,Gleason,Adams,&Malcolm,2003)，沟通合作，从而更有可能有效地降低冲突的危害(DeChurch&Marks,2001)。因此，本研究将团队成员的宜人性人格特质这一个体因素，与团队的宜人性异质性这一情境因素相结合，分析它们对“关系冲突/任务冲突一工作绩效“关系的边界调节作用。本研究所提出的假设模型如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a811c20e29cd277e56af755790ecc7558078e6e8e3d7fad448724f55e4636293.jpg",
+        "img_caption": [
+            "图1研究假设模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1关系冲突和任务冲突对工作绩效的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冲突是指个体或群体感知到的自己和其他个体或群体之间的不兼容性、差异性，甚至是对立性(Jehn,1995)。Forsyth(1983)指出，成员可以通过社交投入和任务投入贡献于团队，因此，团队内冲突可分为关系冲突和任务冲突两类(Jehn,1995)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "关系冲突强调人际关系的不兼容，包含成员间气氛紧张、气恼和憎恶等(Jehn,1995)。多项研究表明，关系冲突对工作绩效有负面影响(Bradley et al.,2013;DeWit etal.,2012; Tekleabet al.,2009)。首先，关系冲突的相关问题往往与自我概念(如价值观、信仰等)紧密相关(De Witet al.,2012)，因而往往会激发威胁意识(陶爱华，刘雍鹤，王沛,2018)，引起成员间的敌意和对抗，导致信任和承诺减少，降低合作解决问题的可能(De Dreu,2006)，最终影响成员工作绩效。其次，关系冲突也会分散成员完成工作的资源，致使团队成员花费大量时间和精力应对与工作任务无关的问题(De Dreu,2006;DeWit et al.,2012)，从而导致工作绩效下降。基于此，我们提出:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假设1：关系冲突对工作绩效具有负向影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "任务冲突是指成员们针对任务的内容、过程和分配等存在想法、意见的分歧(Jehn,1995)。对于任务冲突对工作绩效的影响，学者们存在两种对立观点(De Wit et al.,2012)。一种观点认为,任务冲突会阻碍工作绩效。首先，任务冲突会显著增加个体的认知负荷(De Dreu,2008)，抑制认知灵活性和解决问题的创造性(Carmevale&Probst,1998)。此外，任务冲突也可能由于归因错误和管理不当而转化为关系冲突(Jehn,1997;Mooney,Holahan,& Amason,2007)，从而降低工作绩效。另一种观点则认为，任务冲突有利于提升工作绩效(Jehn,1995,1997;Olsonet al.,2007)。理由是任务冲突可以强化成员们对任务相关问题的认知加工(Simons &Peterson,2000)，促使他们对工作现状形成更全面的评估(Amason,Thompson,Hochwater,& Harrison,1995;De Wit et al.,2012)，减少决策制定时的认知偏差(Schulz-Hardt,Brodbeck,Mojzisch,Kerschreiter,&Frey,2006)，以提高工作绩效。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "而已有研究也表明，在不控制关系冲突时，任务冲突对工作绩效存在负向影响(Jehn,Northcraft,& Neale,1999; Lovelace, Shapiro,& Weingart, 2001; De Wit et al.,2012)。而控制了关系冲突后，任务冲突对工作绩效呈现正向影响(Olson et al.,2007; Tekleab et al.,2009)。因此，我们认为，在同时考虑关系冲突的前提下，任务冲突对工作绩效具有积极的促进作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假设2：任务冲突对工作绩效具有正向影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2个体宜人性的调节作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "个体在管理冲突时存在着不同倾向，会影响冲突与工作绩效之间的关系(Behfar,Peterson,Mannix,&Trochim,2008)。我们认为，具有高水平宜人性特质的个体更有能力管理冲突，他们更能将冲突的负面作用最小化，将其潜在好处最大化。Dijkstra 等(2005)指出，具有高水平宜人性特质的个体需求亲密交往，乐意与他人进行交流和互动；这些个体也有联盟的需要，渴望建立归属感(Wiesenfeld,Raghuram,& Garud,2001)；此外，他们还有合作的动机，通常会表现出亲社会取向，会综合考虑自己和工作伙伴的整体利益(Beersma&De Dreu,2002)。因此，宜人性特质水平高的成员更有可能采取包容合作的方式来处理冲突，为双方寻求更优的结果(Antonioni,1998; Moberg,2001)，以更有效地解决和管理工作中的冲突。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "具体而言，当发生关系冲突时，高宜人性的成员倾向于用妥协或迁就的方式应对(Jensen-Campbelletal.,2003)，以促进工作任务及时完成，减少注意力转移，有效减轻关系冲突对绩效的负面影响。与之相反，宜人性水平较低的个体成员以自我为中心(Jensen-Campbell&Graziano,2001)、难以保持冷静(Wilkowski&Robinson,2008)，在处理与其他成员的关系冲突时更有可能采取专横的人际互动方式(Jensen-Campbellet al.,2003)，从而导致人际关系进一步恶化。基于此，我们提出：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "假设3：个体宜人性对关系冲突和工作绩效间关系具有显著的调节作用：当个体具有低水平的宜人性特质时，关系冲突对工作绩效的负向影响更加显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在面临任务冲突时，宜人性水平较高的成员所具有的亲密交往、联盟的需求以及合作的动机会促使他们采取折衷、合作策略来应对(Ayub,AlQurashi,Al-Yafi,& Jehn,2017; Moberg,2001)。他们会引导其他成员共同参与讨论，帮助团队更好地分析和了解现状，以找到更有效的问题解决方案(Afzalur Rahim,2002)，从而充分发挥任务冲突对工作绩效的积极影响。相反地，低宜人性的团队成员在应对任务冲突时往往拒绝接受不同意见(Graziano &Eisenberg,1997)，且更倾向于采用施压和强制等方法来解决问题(Moberg,2001;Jensen-Campbelletal.,2003)，这阻碍了他们从不同观点中获益，导致决策认知偏差，因而抑制了任务冲突的积极作用,甚至可能由任务分歧导致关系破裂(Mooney etal.,2007)，影响工作绩效。由此，我们提出：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "假设4：个体宜人性对任务冲突和工作绩效间关系具有显著的调节作用：当个体具有高水平的宜人性特质时，任务冲突对工作绩效的正向影响更加显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3关系/任务冲突、个体宜人性特质、团队宜人性特质异质性间的三重交互作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "个人一团队匹配理论(person-group fit,Kristof,1996)指出，在团队中，个体绩效的提升不仅依赖于自身的知识、能力等，还取决于个体与其所在团队间的匹配程度(Gonzalez-Mule,DeGeest, McCormick, Seong,& Brown,2014; Jansen & Kristof-Brown,2006)。由此，借助个人一团队匹配理论，本研究将进一步探讨团队宜人性异质性与个体的宜人性水平对“关系/任务冲突-工作绩效”关系的调节作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "团队的宜人性异质性水平较低，表明个体与团队其他成员的宜人性特质水平相似，个体与团队形成一致性匹配。在这一情境下，对于具有高水平宜人性特质的成员来说，团队的互动模式和环境氛围与他们的需求相契合，这可以进一步强化宜人性特质在帮助个体应对冲突时所发挥的积极作用。具体而言，当团队的宜人性异质性水平较低时，相似性会增加成员间的相互吸引力和信任感(Tsui&O'Reily,1989)，满足高宜人性的成员对亲密交往的需求；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次，这种相似性能唤起成员们对共同利益的感知，提升团队凝聚力(Ehrhart & Naumann,2004;Kristof-Brown,Zimmerman,& Johnson,2005)，满足联盟的需求；此外，相似和兼容使团队内合作更有效率(Muchinsky&Monahan,1987)，与合作动机相契合。因此，宜人性水平高的成员会更加积极地通过合作、包容的互动方式回应各类冲突问题(Ayub,etal.,2017)，而且在形成一致性匹配的环境中他们也更容易得到其他成员的配合，进一步促进合作效率的提升(Humphrey,Hollenbeck,Meyer,& Ilgen,2007)，削弱关系冲突对工作绩效的不利影响、增强任务冲突对工作绩效的潜在积极作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "相反地，在宜人性异质性水平较高的团队中，成员们缺少相对一致的需求和行为偏好，个人与团队不匹配，无法形成一致的目标；这会遏制成员间的相互吸引，降低团队凝聚力，不利于达成合作规范(Gonzalez-Mulé etal.,2014)。对于注重合作双赢的高宜人性的成员而言，其需求和动机与团队并不契合，降低了他们开展沟通协作的积极性，难以有效地调和关系冲突(Ayub et al.,2017;De Dreu& Van Vianen,2001)，也难以缓解任务冲突带来的协作效率低下(Humphrey etal.,2007)，最终影响工作绩效。由此可见，团队的宜人性异质性水平与个体的宜人性特质水平共同影响关系/任务冲突和工作绩效间关系，当团队的宜人性异质性水平较低时，个体宜人性特质的调节作用得到进一步强化。基于此，我们提出：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "假设5：关系冲突、个体宜人性特质和团队宜人性异质性与工作绩效之间存在三重交互作用：当团队宜人性异质性水平较低时，个体宜人性特质对关系冲突和工作绩效间关系的调节作用更强。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "假设6：任务冲突、个体宜人性特质和团队宜人性异质性与工作绩效之间存在三重交互作用：当团队宜人性异质性水平较低时，个体宜人性特质对任务冲突和工作绩效间关系的调节作用更强。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1样本和调查过程",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究的数据采集自华南地区一家大型国有银行的客户服务团队。我们联系并邀请了该银行的75个客户服务团队，包含团队成员394人和团队主管75人参与问卷调查。所有参与者都被提前告知问卷匿名填写、结果严格保密、全部数据仅用于研究目的。参与者在工作时间内填写完成问卷，并由研究助理现场回收并封存。为了确保团队成员的回答能真实地反映整个团队的情况，我们最终只纳入了至少有 $70 \\%$ 的成员能参与调查的团队。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我们采用了多来源、时间滞后的设计来减少共同方法偏差。具体而言，本研究的数据采集共分3个时间点，互相间隔2个月。在时间点1，团队成员们报告自身宜人性和人口统计变量信息；同时，团队主管们报告自身人口统计变量信息。在时间点2，团队成员们报告关系冲突和任务冲突信息。在时间点3，由团队主管评定他们所辖团队中各个成员的工作绩效。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最终，我们从64个团队中收集到了339个有效的团队成员问卷(问卷回收率为 $8 6 . 0 4 \\%$ （204号和64个有效的团队主管问卷(回收率为 $8 5 . 3 3 \\%$ )。其中，团队成员中男性占 $6 5 . 2 0 \\%$ ，大学及以上学历占 $7 1 . 9 8 \\%$ ，已婚占 $7 4 . 9 0 \\%$ ，在该组织中任职3年以上的占 $8 6 . 7 0 \\%$ 。另外，团队主管中男性占一半以上 $( 6 8 . 8 0 \\% )$ ,大学本科及以上学历占 $6 5 . 0 8 \\%$ ，绝大部分都已婚(占 $9 5 . 3 0 \\%$ ，在组织中任职10年以上的占 $8 2 . 5 4 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2测量工具",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有研究变量的测量都采用成熟量表，并遵循Brislin(1980)推荐的回译的方式将英文量表翻译为中文。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.1关系冲突",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我们选取了Jehn(1995)编制的四个题项的量表，并将这些项目进行适当调整，以反映个体层面的关系冲突。例如，“团队成员之间有情感冲突”被修改为“我和团队其他成员之间有情感冲突”。我们采用了“ $1 =$ 从不”到“ $5 =$ 总是”的Likert量表形式开展评价。该量表的Cronbach's $\\boldsymbol { a }$ 值为0.88。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.2任务冲突 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我们选取了Jehn(1995)编制的四个题项的量表。由于本文关注个体层面任务冲突，我们同样做出必要调整。例如，“团队成员有不同的意见”被修改为“我和其他成员有不同的意见”，同样采用“ $1 =$ 从不”到“ $5 =$ 总是”的Likert量表形式开展评价。该量表的Cronbach's$\\alpha$ 值为0.86。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.3宜人性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我们选取了 Saucier(1994)开发的描述个体性格的八个形容词来衡量(例如，“有同情心的”)。Saucier (1994)开发这一量表是目前测量个体大五人格较常用的量表，且在不同文化背景下均表现出较好测量信效度(Choi& Collbert,2015;Walumbwa & Schaubroeck,2009)。我们同样采用了“ $1 =$ 非常不同意”到“7 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ 非常同意”的Likert量表形式开展评价。该量表的Cronbach's $\\boldsymbol { a }$ 值为0.94。此外，团队宜人性异质性被操作化为每个团队中成员们宜人性特质水平的标准差(Harrison&Katherine,2007)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.4工作绩效",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我们选取了Janssen 和 Van Yperen (2004)以及Podsakoff 和 MacKenzies (1989)编制的包含五个题项的工作绩效量表来衡量(例如，“该员工履行其工作所需的所有职责\")。这一量表是目前在团队研究中，由团队领导评价团队成员的个人工作绩效时较常用的量表(如 HuangIun,Liu,& Gong,2010; Jassen& Van Yperen,2004)，在以往研究中，该量表均表现出较高的测量信效度水平。我们采用“1 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 非常不同意”到“7 $\\ c =$ 非常同意”的Likert量表形式开展评价。该量表的Cronbach's $\\boldsymbol { a }$ 值为0.93。ANOVA分析结果表明，数据有显著的组间差异， $F ( 6 3 _ { : }$ $2 7 5 ) = 2 . 3 8$ ， $p < 0 . 0 0 1$ 。工作绩效的ICC(1)为0.21，说明团队成员的工作绩效有 $21 \\%$ 的方差能够被组间差异所解释，适宜进行跨水平分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.5控制变量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在本研究的分析过程中，我们控制了团队成员的性别、受教育程度、婚姻状况和团队任期(按月计算)。以往研究表明，上述人口统计信息均可能会影响个体的工作绩效(Zhou,Wang,Chen,& Shi,2012)。我们没有将年龄或组织任期作为控制变量，因为它们与团队任期呈现高相关关系(对于年龄， $r = 0 . 5 2 , p < 0 . 0 0 1$ ；对于组织任期， $r = 0 . 5 8 , p < 0 . 0 0 1 )$ 。在团队层面，我们控制了团队层面的宜人性特质，其操作化为每个团队内部成员宜人性特质的均值(Barrick, Stewart, Neubert, & Mount, 1998)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于本研究的数据具有嵌套性,我们使用 Mplus 7.4 进行分析(Muthen&Muthen,2012),并运用多层路径模型来检验所有假设。具体而言，我们将个体水平的性别、受教育程度、婚姻状况、团队任期、关系冲突、任务冲突和个体宜人性等变量进行组均值中心化处理，以获得对跨层交互效应的无偏估计(Enders＆ Tofighi,2007)。同时，为了便于解释我们的研究结果，我们将团队水平的团队宜人性、团队宜人性异质性等变量进行总均值中心化处理(Zhouet al., 2012)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1验证性因子分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们首先开展了验证性因子分析，来检验研究变量的构念效度。假设的四因子模型(即关系冲突、任务冲突、宜人性特质和工作绩效)检验结果表明，各指标对其潜变量的标准化因子负荷均显著高于0.40，各指标均较好地反映了各自的潜在变量。四因子模型能够较好地拟合数据： $\\chi ^ { 2 } = 4 9 4 . 8 6$ $d f = 1 8 3$ ,RMSEA $= 0 . 0 7$ ,SRMR $= 0 . 0 4$ ,CFI $= 0 . 9 4$ $\\mathrm { T L I } = 0 . 9 3$ 。我们将假设的四因子模型与多个备择模型进行比较。首先，我们将时间2测量的变量(即，关系冲突和任务冲突)合并成一个因子，获得一个三因子模型。该三因子模型对数据的拟合度显著地比四因子模型差： $\\varDelta \\chi ^ { 2 } = 4 5 6 . 7 8 , \\varDelta d f = 4 , p < 0 . 0 0 1$ 。此外，我们还将所有由团队成员评价的变量(即关系冲突、任务冲突、和个体宜人性特质)合成为一个因子，获得一个两因子模型。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "该模型对数据的拟合度也显著地比四因子模型差： $\\varDelta \\chi ^ { 2 } = 1 6 2 4 . 0 2 , \\Delta d f = 7 , p < 0 . 0 0 1$ 。由此，我们认为，四因子模型具有良好的收敛性和区分效度。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2假设检验 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "各变量的均值、标准差以及变量两两之间的相关系数均已在表1中呈现。由表1可见，个体层面上，关系冲突与任务冲突显著正相关 $( r = 0 . 4 0 , p < 0 . 0 0 1 )$ ，关系冲突与工作绩效显著负相关 $( r = - 0 . 2 7 , p < 0 . 0 0 1 )$ ，而任务冲突与工作绩效的关系不显著 $( r = - 0 . 0 4 , p =$ 0.48)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究通过Mplus 7.4软件来估计理论模型所涉及的非标准化路径系数，并将结果总结于表2中。由表2中模型一可见，关系冲突对工作绩效有显著的削弱作用 $( \\gamma = - 0 . 3 4 , p =$ 0.03)，因而，假设1得到了数据有力支持，说明当团队成员感知到自己与其他团队成员之间存在较高水平的关系冲突时，其工作绩效往往较低。与此同时，数据分析结果表明，任务冲突对成员的个体工作绩效没有显著影响 $( \\gamma = 0 . 1 9 , p = 0 . 2 7 )$ 。因此，假设2没有得到数据支持。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如表2中的模型一所示，团队成员的个体宜人性显著削弱了关系冲突对工作绩效的负面作用 $( \\gamma = 1 . 2 3 , p < 0 . 0 0 1 )$ 。参照 Cohen J.、Cohen P.、West 和 Aiken (2013)的建议，我们将团队成员个体宜人性对“关系冲突一工作绩效”关系的调节作用展示在图2中。由图2可见，当个体宜人性水平较低时，关系冲突显著有害于员工的工作绩效表现 $( \\gamma = - 1 . 3 4 , p <$ 0.001)，而当个体宜人性水平较高时，关系冲突对员工工作绩效的负面影响被减弱 $( \\gamma = 0 . 6 6$ $p = 0 . 0 2 )$ 。因此，本研究提出的假设3也得到了有力支持。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "另外，数据分析结果表明团队成员的个体宜人性特质显著调节了任务冲突对工作绩效的影响 $( \\gamma = 1 . 1 5 , p < 0 . 0 0 1 )$ ，可以发挥和增强任务冲突的潜在积极作用。我们也将个体宜人性对“任务冲突一工作绩效”关系的调节作用展示在图3中。如图3所示，当个体宜人性水平较低时，任务冲突对工作绩效的影响显著为负 $( \\gamma = - 0 . 7 4 , p = 0 . 0 2 )$ ，而当个体宜人性水平较高时，任务冲突对工作绩效的影响显著为正 $( \\gamma = 1 . 1 2 , p < 0 . 0 0 1 )$ 。因此，本研究所提出的假设4得到了数据支持。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究的假设5和6提出团队宜人性异质性、个体宜人性和关系/任务冲突对工作绩效具有三重交互作用。如表2中的模型一所示，在同时纳入关系冲突、个体宜人性、团队宜人性异质性的三重交互，以及任务冲突、个体宜人性、团队宜人性异质性的三重交互项之后，包含任务冲突的三重交互项对工作绩效没有显著影响 $( \\gamma = - 0 . 7 9 , p = 0 . 4 1 )$ 。而值得注意的是，由于交互项的多重共线性，三重交互项对工作绩效的预测能力可能会减弱，尤其是当回归中包含高度相关的变量时，高阶交互项的预测作用尤为可能因为标准误被高估而被减弱(Edwards,2001)。因此，我们在补充性分析中，将高度相关的关系冲突和任务冲突区分开，分别检验涉及关系冲突与任务冲突的两个三重交互项对工作绩效的影响效应(见表 2中模二与和模型三)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表2中模型二结果表明，团队成员宜人性异质性显著调节了成员个体宜人性对“关系冲突一工作绩效”关系的调节作用 $( \\gamma = - 4 . 0 0 , p < 0 . 0 0 1 )$ ，我们也将这一三重交互效应展示在图4中。由图4可见，在宜人性异质性水平较高的团队中，关系冲突对工作绩效的影响在个体宜人性低、高的情形中均不显著(当个体宜人性水平较低时， $\\gamma = - 0 . 3 6 , p = 0 . 2 9$ ；当个体宜人性水平较高时， $\\gamma = 0 . 0 2 , p = 0 . 9 6 )$ ，关系冲突对工作绩效的影响作用在这两种情形中也不存在显著差异 $( \\gamma = 0 . 3 8 , p = 0 . 3 8 )$ ；而在宜人性异质性水平较低的团队中，当个体宜人性较低时，关系冲突对工作绩效的影响显著为负 $( \\gamma = - 2 . 3 9 , p < 0 . 0 0 1 )$ ，而当个体宜人性较高时，关系冲突对工作绩效的负面影响则被显著削弱 $( \\gamma = 1 . 3 6 , p = 0 . 0 0 2 )$ ，此时关系冲突对工作绩效的影响在高、低个体宜人性特质的两种情形下差异显著 $( \\gamma = 3 . 7 4 , p < 0 . 0 0 1 )$ 。因此，假设5得到了数据支持。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "假设6认为个体宜人性对“任务冲突一工作绩效”关系的调节作用进一步受到团队宜人性异质性的调节。表2中的模型三显示，团队宜人性异质性显著调节了个体宜人性对“任务冲突一工作绩效”关系的调节作用 $( \\gamma = - 2 . 2 5 , p = 0 . 0 1 )$ 。我们也将任务冲突、个体宜人性、团队宜人性异质性的三重交互作用总结于图5中。由图5可见，在宜人性异质性水平较高的团队中，当团队成员个体宜人性水平较低时，任务冲突对工作绩效的影响不显著$( \\gamma = - 0 . 1 7 , p = 0 . 6 4 )$ ，当团队成员个体宜人性水平较高时，任务冲突对工作绩效有显著的正向影响 $( \\gamma = 0 . 7 9 , p = 0 . 0 1 )$ ，此时任务冲突对工作绩效的影响在高、低水平个体宜人性特质的两种情形下差异为 $0 . 9 6 \\left( p = 0 . 0 3 \\right)$ ；而在宜人性异质性水平较低的团队中，当团队成员个体宜人性水平较低时，任务冲突对工作绩效的影响显著为负 $( \\gamma = - 1 . 3 1 , p = 0 . 0 0 4 )$ ，当团队成员个体宜人性水平较高时，任务冲突对工作绩效的影响则显著为正 $( \\gamma = 1 . 5 5 , p < 0 . 0 0 1 )$ ，此时任务冲突对工作绩效的影响在高、低水平个体宜人性特质的两种情形下差异为 $2 . 8 6 ( p <$ 0.001)。因此，本研究所提出的假设6得到了数据支持。1",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/12a2d008762aa77911b5ec609f1d2ce9279939b76e5f584f2d3c7daa8dc0dc2b.jpg",
+        "table_caption": [
+            "表1研究变量的平均值、标准差、信度和相关系数"
+        ],
+        "table_footnote": [
+            "注：N(个体层面) $\\mathbf { \\varepsilon } = 3 3 9$ ；N(团队层面) $= 6 4$ 。表格中对角线上括号内为Conbach's $\\boldsymbol { a }$ 信度系数。对角线以上为组内的相关系数，对角线以下为组间的相关系数。鉴 $p < 0 . 0 5$ ， $^ { * } p < 0 . 0 1$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>变量名</td><td>均值</td><td>组内 SD</td><td>组间 SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td colspan=\"2\">个体层面</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>性别</td><td>0.35</td><td>0.48</td><td>0.25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>教育水平</td><td>15.79</td><td>1.61</td><td>0.83</td><td>0.04</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>婚姻状况</td><td>1.81</td><td>0.53</td><td>0.31</td><td>-0.08</td><td>-0.04</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>团队任期</td><td>46.50</td><td>47.68</td><td>26.41</td><td>-0.05</td><td>-0.14**</td><td>0.21**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>关系冲突</td><td>1.62</td><td>0.66</td><td>0.54</td><td>0.04</td><td>-0.05</td><td>0.03</td><td>0.01</td><td>(0.88)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>任务冲突</td><td>1.95</td><td>0.68</td><td>0.63</td><td>0.05</td><td>-0.05</td><td>-0.10</td><td>0.06</td><td>0.40**</td><td>(0.86)</td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>个体宜人性</td><td>5.82</td><td>0.81</td><td>0.43</td><td>0.07</td><td>-0.03</td><td>0.06</td><td>0.09</td><td>-0.05</td><td>-0.02</td><td>(0.94)</td><td></td><td></td><td></td></tr><tr><td>8</td><td>工作绩效</td><td>5.27</td><td>1.36</td><td>0.89</td><td>-0.05</td><td>0.04</td><td>0.06</td><td>0.07</td><td>-0.27**</td><td>-0.04</td><td>0.10</td><td>(0.93)</td><td></td><td></td></tr><tr><td colspan=\"2\">团队层面</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>团队宜人性</td><td>5.82</td><td>：</td><td>0.43</td><td>:</td><td></td><td></td><td></td><td></td><td></td><td>:</td><td></td><td>-</td><td>0.08</td></tr><tr><td>10</td><td>团队宜人性异质性</td><td>0.75</td><td></td><td>0.29</td><td></td><td></td><td></td><td>:</td><td></td><td></td><td>:</td><td></td><td></td><td>:</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/811c727e79bc8f53351f5e923203e1426dcb84818af356c16585b68f564107c3.jpg",
+        "table_caption": [
+            "表2任务冲突、关系冲突、个头宜人性与团队宜人性异质性对工作绩效影响的非标准化回归系数"
+        ],
+        "table_footnote": [
+            "注：N(个体层面) $\\mathbf { \\xi } = \\ 3 3 9$ $N$ (团队层面) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 64。 $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ 0 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">变量名</td><td colspan=\"9\">工作绩效</td></tr><tr><td colspan=\"3\">模型一</td><td colspan=\"3\">模型二</td><td colspan=\"3\">模型三</td></tr><tr><td>估计值</td><td>标准 误差</td><td>p值</td><td>估计值</td><td>标准 误差</td><td>p值</td><td>估计值</td><td>标准 误差</td><td>p值</td></tr><tr><td>截距</td><td>5.29**</td><td>0.07</td><td>0.00</td><td>5.29**</td><td>0.07</td><td>0.00</td><td>5.27**</td><td>0.07</td><td>0.00</td></tr><tr><td>控制变量</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>0.02</td><td>0.17</td><td>0.92</td><td>0.02</td><td>0.17</td><td>0.93</td><td>0.00</td><td>0.17</td><td>0.99</td></tr><tr><td>教育水平</td><td>0.07</td><td>0.05</td><td>0.13</td><td>0.08</td><td>0.05</td><td>0.13</td><td>0.07</td><td>0.05</td><td>0.17</td></tr><tr><td>婚姻状况</td><td>0.09</td><td>0.16</td><td>0.57</td><td>0.09</td><td>0.16</td><td>0.58</td><td>0.14</td><td>0.16</td><td>0.38</td></tr><tr><td>团队任期</td><td>0.00</td><td>0.00</td><td>0.38</td><td>0.00</td><td>0.00</td><td>0.36</td><td>0.00</td><td>0.00</td><td>0.36</td></tr><tr><td>团队宜人性</td><td>0.19</td><td>0.18</td><td>0.27</td><td>0.18</td><td>0.18</td><td>0.30</td><td>0.21</td><td>0.18</td><td>0.23</td></tr><tr><td>自变量</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>关系冲突</td><td>-0.34*</td><td>0.15</td><td>0.03</td><td>-0.34*</td><td>0.15</td><td>0.03</td><td>-0.37*</td><td>0.16</td><td>0.02</td></tr><tr><td>任务冲突</td><td>0.19</td><td>0.18</td><td>0.28</td><td>0.20</td><td>0.18</td><td>0.27</td><td>0.22</td><td>0.18</td><td>0.23</td></tr><tr><td>调节变量</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>个体宜人性</td><td>0.09</td><td>0.11</td><td>0.40</td><td>0.08</td><td>0.11</td><td>0.45</td><td>0.09</td><td>0.11</td><td>0.43</td></tr><tr><td>团队宜人性异质性</td><td>-0.36</td><td>0.27</td><td>0.18</td><td>-0.41</td><td>0.26</td><td>0.12</td><td>-0.35</td><td>0.27</td><td>0.20</td></tr><tr><td>二重交互项</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>关系冲突 ×个体宜人性</td><td>1.23**</td><td>0.29</td><td>0.00</td><td>1.27**</td><td>0.28</td><td>0.00</td><td>0.77**</td><td>0.25</td><td>0.00</td></tr><tr><td>任务冲突 ×个体宜人性</td><td>1.15**</td><td>0.27</td><td>0.00</td><td>1.07**</td><td>0.26</td><td>0.00</td><td>1.18**</td><td>0.28</td><td>0.00</td></tr><tr><td>关系冲突×团队宜人性异质性</td><td>0.60</td><td>0.72</td><td>0.41</td><td>0.67</td><td>0.72</td><td>0.35</td><td>0.06</td><td>0.71</td><td>0.94</td></tr><tr><td>任务冲突× 团队宜人性异质性</td><td>0.09</td><td>0.69</td><td>0.90</td><td>0.01</td><td>0.69</td><td>0.99</td><td>0.37</td><td>0.69</td><td>0.60</td></tr><tr><td>个体宜人性×团队宜人性异质性</td><td>0.41</td><td>0.39</td><td>0.30</td><td>0.60</td><td>0.32</td><td>0.06</td><td>0.27</td><td>0.40</td><td>0.49</td></tr><tr><td>三重交互项</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>关系冲突 ×个体宜人性 × 团队宜人性异质性</td><td>-3.52**</td><td>1.16</td><td>0.00</td><td>-4.00**</td><td>1.01</td><td>0.00</td><td></td><td></td><td></td></tr><tr><td>任务冲突×个体宜人性× 团队宜人性异质性</td><td>-0.79</td><td>0.96</td><td>0.41</td><td></td><td></td><td></td><td>-2.25**</td><td>0.84</td><td>0.01</td></tr><tr><td>残差</td><td>1.55**</td><td>0.12</td><td>0.00</td><td>1.55**</td><td>0.12</td><td>0.00</td><td>1.59**</td><td>0.12</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/05df2699d72cf1190af263cb6a7a6bc36ce1772b06ad17387ada9f6112069514.jpg",
+        "img_caption": [
+            "图2个体宜人性对“关系冲突-工作绩效”关系的调节作用示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/a933bda3440c9f3bf0a5d4abfeb69db964d37a9f1c110f552e0a705b24ba85d4.jpg",
+        "img_caption": [
+            "图3个体宜人性对“任务冲突-工作绩效”关系的调节作用示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "一低团队宜人性异质性，低个体宜人性 一低团队宜人性异质性，高个体宜人性 一高团队宜人性异质性，低个体宜人性 一高团队宜人性异质性，高个体宜人性 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "一低团队宜人性异质性，低个体宜人性 一低团队宜人性异质性，高个体宜人性 一一高团队宜人性异质性，低个体宜人性 $\\twoheadleftarrow$ 高团队宜人性异质性，高个体宜人性 ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/553788de55f19f3ee72711a4376d7a28cd74768ba31dee00909a0ecf47752878.jpg",
+        "img_caption": [
+            "图4 关系冲突、个体宜人性、团队宜人性异质性三重交互对工作绩效的影响作用示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/36d9631cd6e9b4eabd7ac29237beee9a2dd3f480500154b4ab55d42b4be169dd.jpg",
+        "img_caption": [
+            "图5任务冲突、个体宜人性、团队宜人性异质性三重交互对工作绩效的影响作用示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.1研究结果与分析",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究基于个人一团队匹配理论，探讨了个体层面的宜人性与团队层面的宜人性异质性共同影响个体冲突(即关系冲突和任务冲突)和工作绩效间关系的机制。实证结果表明，关系冲突对工作绩效有负面影响，其主要原因是面临关系冲突时的个体会触发威胁意识(陶爱华，刘雍鹤，王沛,2018)，引起敌意和对抗，拒绝协商合作(Graziano&Eisenberg,1997)并将其注意力从工作任务分散到处理人际问题上去，从而导致工作绩效降低(De Dreu,2006)。另外，个体宜人性特质对关系冲突和工作绩效间关系具有显著调节作用。当个体具有较高水平宜人性特质时，关系冲突的负面效应得到有效缓解。这印证了我们的假设，高宜人性个体有亲密交往、联盟的需要和合作的动机(Dijkstra et al.,2005;Wiesenfeld et al.,2001;Beersma&De Dreu,2002)，有助于削弱关系冲突的消极影响，促进合作。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "与我们的研究假设不同的是，任务冲突与工作绩效的关系并不显著。事实上，这一结果支持了以往任务冲突研究所获的“双刃剑”效应结论(如，Somech etal.,2009)。任务冲突一方面有助于团队决策制定(DeWit etal.,2012)，另一方面也会导致认知负荷增加(DeDreu,2008)。但值得注意的是，我们发现，当个体的宜人性特质水平较高时，任务冲突对工作绩效有正向促进作用；而当个体的宜人性水平较低时，任务冲突对工作绩效有负向影响。这一结果表明，个体宜人性特质有助于强化任务冲突的积极影响、削弱其消极影响，",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "最终促成任务绩效提升。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "此外，个体间冲突、个体宜人性、团队宜人性异质性在预测工作绩效时存在三重交互效应。当团队宜人性异质性水平较低(相对于高)时，关系/任务冲突与个体宜人性特质的双重交互作用更强。根据个人一团队匹配理论，团队宜人性异质性可以衡量个人与团队的匹配程度，低异质性说明个体与团队形成了一致性匹配(Gonzalez-Mulé et al.,2014)。这一情境下，团队成员们面临冲突时，更倾向于运用相似的策略和方法来进行应对，容易形成一致性目标，使个体与团队成员间的互动关系得到改善(Kristof-Brown etal.,2005；马金鹏，蔡地，徐伟涛，蔡亚华,2018)，这为高宜人性个体采取沟通、协调互动方式解决问题提供了保障。不仅如此，一致性匹配所具备的团队环境特征能够进一步满足高水平宜人性特质个体对于亲密交往、寻求联盟、相互合作的需求(Dijkstra et al.,2005;Wiesenfeld et al.,2001; Beersma & De Dreu,2002)；因此，高宜人性个体会更加积极地通过合作、包容的互动方式回应各类冲突问题，从而进一步减弱关系冲突对工作绩效的负向影响，增强任务冲突对工作的正向影响。而高水平的异质性说明在面临冲突时团队成员中既有人(宜人性水平高)会采取“双赢”的合作策略(Ayub etal.,2017)，也有人(宜人性水平低)会采取“我赢别人输”的专横策略(Moberg,2001)，成员们目标、需求、行为偏好均不一致，无法充分配合，从而无法有效管理冲突，影响工作绩效。这种情况下，对于具有高宜人性的个体而言，他们没法通过促进交流和合作来减轻人际关系的消极作用、发挥任务冲突的积极作用；从而，个体宜人性特质的调节作用被显著削弱。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2理论意义",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本研究具有几方面理论贡献。首先，本研究在以往研究主要采用单一层面视角的基础上，基于个人一团队匹配理论，关注冲突管理中的个体特征与团队特征间交互效应对冲突结果的影响。我们发现，个体层面宜人性与团队层面宜人性异质性具有交互效应，共同调节关系/任务冲突与工作绩效间关系。这充分说明在探讨团队冲突时，必须考虑个体一团队间存在的交互效应。同时，本研究也是对 Jehn 等关于团队冲突感知不对称性的研究(Jehn,De Wit,Barreto,&Rink,2015; Jehn et al.,2010)的有效延伸，进一步丰富了我们对于团队中个体如何有效管理与其他成员间冲突的理解。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "其次，本研究通过考察个体宜人性特质和团队宜人性异质性如何影响关系/任务冲突与工作绩效之间的关系，更加全面地展现了人格特质(尤其是宜人性)在冲突管理中所扮演的重要角色。本研究发现，个体的宜人性是一个重要的权变因素，它是任务冲突和关系冲突与工作绩效间关系的重要边界条件。此外，宜人性在团队层面所表现出来的异质性也是一个值得关注的情境因素，反映个人与团队间的特质匹配程度。我们发现，当团队宜人性异质性水平较低时，个体宜人性特质的调节作用更为显著。因此，本研究显著拓展了人格特质在个体冲突管理中的解释效力和影响机制。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "第三，通过同时考察关系冲突和任务冲突，本研究揭示了宜人性人格特质在应对不同类型冲突过程中所呈现的差异作用。我们发现，高水平宜人性可以消减关系冲突对工作绩效的负面影响；同时，它有助于加强任务冲突对工作绩效的积极作用。尤其是当团队宜人性异质性水平较低时，个体宜人性的调节作用更加显著。这些结果有助于人们更加全面地理解不同类型冲突管理的个体和情境特质边界。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.3实践意义",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "从管理实践角度来说，本研究能够为企业管理者们提出有关如何有效应对团队内存在的各类冲突的策略指导。首先，在建立新的工作团队或为现有的团队选择新成员时，团队成员的性格构成值得引起关注。总体而言，选择合群度较高(具有高水平宜人性)的成员，对团队应对复杂任务、管理内部冲突是有益的。此外，对于现在正经历内部冲突的团队来说，团队领导者应当尽量发挥宜人性人格特质的积极影响。例如，团队领导者可以尝试改变团队整体的宜人性特质配置，通过激发成员的宜人性特质，或调配高宜人性成员，缓解任务冲突和关系冲突的不利影响，并且促进任务冲突产出积极作用。此外，领导者应当重视个体与团队间匹配问题，以形成更强的团队凝聚力，合理应对各类冲突问题。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.4局限性与未来研究展望",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本研究存在几方面局限性。首先，虽然本研究采用了多来源、时间滞后设计收集数据，这有助于减少共同方法偏差，加强变量间因果关系的解释效力；但我们建议未来研究采用更加精准的实验方法，来验证本研究的相关结论。其次，在本研究中，我们关注了任务冲突和关系冲突。然而，冲突研究文献中还包括地位冲突、过程冲突等不同类型。因此，我们建议未来研究可以超越经典的任务和关系冲突分类，考察人格特质在其他个体冲突与工作绩效间关系中所扮演的角色。第三，本研究主要关注了团队中成员个体宜人性特质和团队宜人性异质性对于“冲突—绩效”关系的调节作用。未来研究可以在本研究的基础之上，进一步探讨其他人格特质水平及其异质性，以及各类人格特质在团队层面上的均值与异质性的交互作用等对于团队过程和团队绩效的影响。最后，受研究资源限制，本研究采用了方便抽样方法来收集数据，选取了客户服务团队作为研究样本。因此，本研究所得出的研究结论是否能够概化到其他类型团队中去，还有待未来研究做进一步验证。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "研究结果表明，关系冲突对工作绩效具有显著的负向影响，但任务冲突对工作绩效的影响不显著。个体宜人性对关系/任务冲突与工作绩效间关系具有显著调节作用。当个体的宜人性特质水平较低时，关系冲突和任务冲突均对工作绩效具有负面影响；而当个体宜人性特质水平较高时，关系冲突的负面作用被削弱，任务冲突有助于促进工作绩效，其积极作用得到凸显。此外，个体冲突、个体宜人性、团队宜人性异质性对工作绩效具有三重交互效应。具体而言，当团队宜人性异质性水平较低时，个体宜人性对关系/任务冲突与工作绩效间关系的调节作用更加显著。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "AIzaiur Kanim,.().wardaeoryoaagingganzaoaiconct.nteratonalJoualoouct anagement,(), 206-235.   \nAmason,A.CoK.owate..a,..9).flict:oratcsut teams.Organizational Dynamics,24(2),20-35.   \nAntonioni,D.(98).Relatioshipbetweethebigfivepersonalityfactorsandcoflictmanagementstyles.nteratioalJuralof Conflict Management,9(4),336-355.   \nAyub,N.,AlQurashi..,A-Yafi,W.A.&Jen,K.(27).Personalityraitsandcoflictmanagementstylesinredictingjob performance and conflict.International Journal ofConflict Management,28(5),671-694.   \nBarrick,.R,tewart,G,ubert,.J,&ount,.K.(1998).elatingmemberabilityandpersonalitytork-teampros and team effectiveness.Journal of Applied Psychology,83(3),377-391.   \nBersma,B.,&DDru,CK.).tegatieistrtiegtiinallou:ectsfsrcureecsle social motive. Organizational Behavior and Human Decision Processes,87(2),227-252.   \nBehfar,K.J.teo,..,xE.A,o,W.).eritialoleofoflictsolutiaso links betweenconflicttypeconflictmanagement trateges,andteamoutcoms.JouralofAppliedPschology,93(1),788.   \nBradey,B.Hlotz,.Costletaie,.E,ow,K.G.().dtmble:otampesoalitopoiiodas conflict interact to improve performance.Journal of Applied Psychology,98(2),385-392.   \nBrislin,R.W.(98).aslatioadontetaalysisoforalandwteaterial.I.Ciadis&JWerr(Eds.)booof Cross-cultural Psychology (pp.398-444).Boston,MA: Allyn & Bacon.   \nCamevale,P.J.,&Probst,T.M.(998).Socialvaluesandsocialconflict increativeproblemsolvingandcategorization.Jounalof Personality and Social Psychology,74(5),1300-1309.   \nCohen,J.,Cot,,.)eoalsfl ed.). Mahwah,NJ: Erlbaum.   \nChoi,D.,O,S&obrt,.E.().Udesadinggaatioalont:ataalyticaatiooftholesofte five-factor model of personality and culture.Journal of Applied Psychology,100(5),1542-1567.   \nDeChurch,L.A,&arks,.A.(ol).aiingteeefitsftskcolct:theolfconflictmaagntteratioalJoual of Conflict Management,12(1),4-22.   \nDeDreu,C.K.W.).Wntoliteortoouchurts:evideefouiinearelatioshietweetaskflictdin in teams.Journal of Management,32(1),83-107.   \nDeDreu,C.K.W.().Teviuendveoforkplacecolct:foodfor(istic)oghtJualofOrgzatialvi 29(1), 5–18.   \nDe Dreu,C.K,&Van Viann,A.E.(Ool).Managingrelationshiponflictandtheeectivenessoforganationalteams.Joualof Organizational Behavior,22(3),309-328.   \nDeWit,F.RL,,K.).eadtragouocttaaalysJlfAdlo() 360-390.   \nDijkstra,M.TVanDierendonck,D.Evers,A.,&DeDreu,C.K.(2o).Conflictandwel-beingatork:themoderatingolef personality.Journal ofManagerial Psychology,20(2),87-104.   \nEdwards,J.R. (2oo1).Ten diference score myths.Organizational Research Methods,4(3),265-287.   \nEnders，C.K.，&TofighiD.(2O07).Centeringpredictorvariablesincross-sectionalmulilevelmodels:anewlookatanold issue.Psychological Methods,12(2),121-138.   \nEhrhart,M.G,&Numann,.E.().Organzatioalciizensihaviorirkgous:ouosapoach.JoualofAled Psychology,89(6),960-974.   \nForsyth,D. (1983).An introduction to group dynamics.Monterey,CA: Brooks/Cole.   \nGonzalez-Mule,E.DeGest,D.S.cCormick,B.W,eong,J.Y.,&Brown,K.G.(14).Canwe getsomecooperationarodhre The mediating roleofgroup norms ontherelationship betwenteampersonalityandindividual helping behaviors.JournalofApplied Psychology,99(5),988-999.   \nGraziano,W.GsebergN.(9).gabees:esisalityIgn,Jos,&igs (ds.) of Personality Psychology (pp.795-824). San Diego: Academic Press.   \nGraziano,W.sCelai.C(9)igadeacgss Journal of Personality and Social Psychology,70(4),820-835.   \nHarrison，D.A.，&Klein，K.J.(2O07).What'sthediference?Diversityconstructsasseparation，variety，ordisparityin organizations.Academy of Management Review,32(4),1199-1228.   \nHuang,X,nJ.,u,.,&ngY(0)ospartiipatidersianeokpfoaceyucigpoetst Thedifferentialefectsonanagerialandon-managerialsubordinates.JouralofOrganzationalBehavior(),143.   \nHumphrey,S.E,Hollnbeck,J.,eyer,C.J,&gen,D..(o).aitconfigurationsiself-managedteams:aoptal examinationoftheuseofseeding formaximizingand minimizingtrait variance inteams.JournalofAppliedPsychology,92(3),85 892.   \nJanssen,O.,&VanYperen,N.W.(O4).Employees'oalorentations,theualityofleader-memberexchange,andtheutcosofjob performance and job satisfaction.Academy of Management Journal,47(3),368-384.   \nJehn,K.A.(99).Auimeodeaatiooftheitsddtrentsoftraoupflict.AdmstrativeieneQurterly 40(2),256-282.   \nJehn,K.A. (199).Aqaitativealsisofoficttysaddmesiosingazatioal goupsAdmiistrativeieneQurterly 42(3), 530–557.   \nJehn,K.A.,DeWit,FR.Careto,&nk,F.(5).Taskconfictasmetries:effectsoepetatiosandpfoace. International Journal of Conflict Management,26(2),172-191.   \nJehn,K.A.aft,ale,.99).k:esit in workgroups.Administrative Science Quarterly,44(4),741-763.   \nJensen-Camo.s,K.)atebei development.Journal of Personality,71(6),1059-1086.   \nJensen-CamelLA,()abeaepoltlfoi() 323-362.   \nJansen,KJ,&istoBro,.).warduisialyiotitJoulfgeralss 18(2),193-212.   \nKristof,A.L.6).sorgantiofit:ateatieeofisoepaltios,easeet,ndpaisl Psychology,49(1),1-49.   \nKristof-Brow,.La,.,&o,E.C.().secsofiidual’sittok:etaaalso job,person-organizaion,person-group,and person-supervisor fit.Personnel Psychology,58(2),281-342.   \nLovelace,K.,aio.LWegart,LR.(l).aigofctiolproducttaoativeessdot adherence: a conflict communications perspective.Academy of Management Journal,44(4),779-793.   \nMa,J.P.,CaiD,Xu,W.T.,&Cai,Y.H.(l).Thpowerofseeingommongroundhilkepingdierence:literaurereiewnd future researchdirections for“Person-TeamFit\".Human ResourcesDevelopmentofChina,35(1),6-18.[马金鹏，蔡地，徐伟涛，蔡 亚华.(2018).求同存异的力量：“个人一团队匹配”的研究述评与未来展望．中国人力资源开发,35(1),6-18.]   \nMoberg,P.(ool).Linkingconflictstrategytoefivefactormodel:teoreticalandmpiricalfundations.InterationalJoualof Conflict Management,12(1),47-68.   \nMooney,A.C.an,P.J,mao,.C().on’take rsoallplogogiicofictaedatotie conflict.Journal of Management Studies,44(5),733-758.   \nMuchinsky,PM.,&oaa,C.J.(1987).atisersoioentongruce?Spemetarysusplementaryelsof fit.Journalof Vocational Behavior,31(3),268-277.   \nMuthen,L.K.,& Muthen,B.O. (2012).Mplus user's guide (7th ed.).Los Angeles,CA: Muthen and Muthén.   \nOlson,BJ,aiao).ateicsghsofsiyitts Journal of Management,33(2),196-222.   \nPodsaoff,P.M,&acKenie,S.B.(989).Asecondgnerationmeasureoforganzationalcizenshihavior.Unpublishdmasipt Indiana University, Bloomington.   \nSaucier,G.(994).ks:frsifgsoigveakJulfoliemnt) 516.   \nSchulz-Hardt,.,robckFCsch,.Krsceiter,,&Fre.)opdecisiomakigindeproileis: dissent asa facilitator for decision quality.JournalofPersonality and Social Psychology,91(6),1080-1093.   \nSimons,T.L.&etson,R.S.(oo).Taskonflictadrelatioshiponflictintomanagementteas:hepivotaloleofntrgop trust.JournalofAppiedPsychology,85(1),011.   \nSomech,A.，Desivilya,H.S.，&Lidogoster,H.(2o9).Teamconflictmanagementandteameffectiveness:theefectsoftask interdependence and team identification.Journal of Organizational Behavior,30(3),359-378.   \nTao,A.H.,Liu,Y.H,&Wang,P.(O18).oderatingefectsofonficttypesodisappointmentiniterpersonalcoflictActa Psychologica Sinica,50(2),235-242.[陶爱华，刘雍鹤，王沛.(2018).人际冲突中失望的个人效应及冲突类型的调节作用．心理 学报,50(2),235-242.]   \nTekleab,.G.QigleyN.,&sluk,P.E.().logidialsudyoftacoflictoflictmaagementosiod effectiveness.Group& Organization Management,34(2),170-205.   \nTsui,A.S.,&Oeilly,C.A.(989).eyondsimpledemogapiceects:tiporanceofelatioalmogapiuprio subordinate dyads.Academy ofManagement Journal,32(2),402-423.   \nWalumbwa,FO,&hubroeck,J.o).Laderpersoalityitsdmploeevoicehavior:eatingolsficalldesp and work group psychological safety.Journal of Applied Psychology,94(5),1275-1286.   \nWiesenfeld,g,,d).aaliagalksoledio and perceived work-based social support.Journal ofManagement,27(2),213-229.   \nWilkowski..o)iisrgeactioegatiall and Social Psychology Review,12(1),3-21.   \nZhou,L.,Wang,MhenG&ShJ.(l2).upevisors’upwardecangerelatiosisndubordiateutcoes:stingte multilevel mediation role of empowerment.Journal of Applied Psychology,97(3),668-680. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The Impact of Conflict on Performance: The Moderating Effects of Individual and Team Agreeableness ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "WEI Wei1; FANG Yanran²; LI Jiannan'; SHI Junqi4; MO Shenjiang4 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(lLingnan College, Sun Yat-sen University, Guangzhou 510275, China) (2Warrington College of Business，University ofFlorida, Gainesville,FL 32611,US) (International School of Business & Finance,Sun Yat-sen University, Zhuhai 519o82, China) (4School of Management, Zhejiang University, Hangzhou 310058, China) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Based on the nature of conflict, conflict within teams can be categorized as relationship conflict and task conflict. It is inevitable for team members to experience these two types of conflict with each other through daily interactions. As such, how dispositions of team members interact with intrateam conflict to minimize its harm and maximize its benefit appears to be an important research question. Prior research has primarily focused on how individual's traits or team traits would affect the outcomes of conflict. According the Person-Group Fit theory, it's necessary to study the interaction effect of the traits on both the individual and team level. Distinct from other personality factors in the Five Factor Model, agreeableness involves the motives for maintaining harmony and positive interpersonal relationship, which fundamentally determine the propensity for individuals to deal with others in social interactions. In conflict management scenarios,individuals with high agreableness are more likely to adopt agreeable conflict management, characterized as integrating one another's ideas and seeking to satisfy all members' expectations,thus leading to more effective conflict resolution. Taking a multilevel perspective, this study investigated how individual-level agreeableness interacts with team-level agreeableness heterogeneity to impact the relations between task/relationship conflict and job performance. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Hypotheses were tested using multisource and time-lagged data collected from 64 teams. Data were collected from client service teams of a large state-owned bank located in South China.A total of 75 service teams of the bank (394 subordinates and 75 supervisors) were contacted and invited to participate. All participants were told that the data were used only for research purpose only, and their responses would be kept confidential and anonymous. Participants filled out the questionnaires during morning meetings,and research assstants then collected their responses after they completed the survey. The data were collected at three time points with two-month intervals. At Time 1, subordinates reported their levels of agreeableness as well as demographic information. Their immediate supervisors were also asked to report their demographic information.At Time 2 (two months after Time 1), subordinates were asked to report their perceptions of relationship conflict and task conflict within the team.At Time 3 (four months after Time 1)，subordinates’ job performance was rated by their immediate supervisors. To ensure that the responses of participating team members reflect the whole team,we only included teams with at least $70 \\%$ of members participating in the survey. In total, we collected 339 valid subordinate responses and 64 valid supervisor responses from 64 teams. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Most of the hypotheses were supported by data analysis.Results demonstrated that relationship conflict was negatively related to job performance,but the relationship between task conflict and job performance was not significant. Further, individual agreeableness both buffered the negative effect of relationship conflict and enhanced the positive efect of task conflict on job performance. Specifically, when individual agreeableness was high, the negative relationship between relationship conflict and job performance was non-significant. By contrast, when individual agreeableness was low, such relationship became negative and significant. As far as task conflict is concerned, when individual agreeableness was high， the positive relationship between task conflict and job performance was significant. However, when individual agreeableness was low such relationship was negative and significant. In addition, there were three-way interactions among individual conflict, individual agreeableness,and team agreeableness heterogeneity on job performance, such that the two-way interactions between task/relationship conflict and individual agreeableness were stronger when team agreeableness heterogeneity was low. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "This study contributions to the current literature in several ways. First, our study moves beyond the single level perspective of intra-team conflict to examine the individual-team interface in conflict managing using person-group fit theory. Second, the current study highlights the essential role of agreeableness in the process of conflict management by examining the roles that individual agreableness and team agreeableness heterogeneity play in shaping the relations between conflict and job performance. Third,by studying relationship conflict and task conflict simultaneously, this study reflected the effect of agreeableness in managing different types of conflict. Practically, our research informs the professional managers about managing team conflict in an effective manner. Based on our findings, when assgning new work teams or selecting new members for existing teams, it is beneficial to select similar team members with high agreeableness, especially when the team tasks involve frequent social interactions that are likely to trigger intrateam conflict. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Agreeableness; team agreeableness heterogeneity; task conflict; relationship conflict; job performance ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "附：团队调查问卷",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "亲爱的先生/女士：",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "您好！欢迎您参与到我们关于企业团队的调查研究中！我们非常感谢您的参与。该研究共有三轮问卷调查，在这项长时研究设计中,您对于三轮调查问卷的持续参与是必不可少的。我们非常感谢您的合作！",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "本研究由研究小组设计，仅以研究为目的。问题和答案本身没有对错好坏之分，请根据题目要求，把您的真实感受或看法表达出来。您参与此次问卷调查是完全自愿的，您有权利不去回答那些您不想回答的问题。除了研究员，任何人都不可能以任何渠道得知您的回答。您所提供的信息不会提供给您的雇主或其他人，参加此项研究不会涉及任何的风险和利害关系。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "本次调查会花费您15分钟的时间，请谅解给您带来的不便！您的认真回答对我们的研究有很大帮助，非常感谢您的参与！",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "团队成员问卷",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "第一部分 基本信息 (请在方框上打勾进行填写)",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1．请问您所工作的部门或网点名称(请填写)",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "2．请问您的性别：·先生；·女士",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3．请问您的出生日期(请填写)",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4．请问您的受教育年数(从小学算起)：_ _年。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5．请问您的婚姻状况：·单身；·已婚；·丧偶；·离婚；·同居 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "6．请问您在现在的单位工作了多长时间： 年月。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "7．请问您在当前的团队工作了多长时间： 年月。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "第二部分团队成员测评",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "下列问项中，数字1-7分别表示从“非常不同意\"到\"非常同意\"的七个选项，分数越高代表您对问项内容越同意，分数越低代表越不同意。",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/6cc15027490986c46239677f8069c9c24d713ce8b8bd7019489b2e2dea22d6fd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>请评价以下特征在多大程度上可以准确地描述你，并 在相应的选项上面打勾。</td><td>非 常 不 同 意</td><td>比 较 不 同 意</td><td>有 点 不 同 意</td><td>不有比 确点 定</td><td>较 同 同 意 意</td><td>非 常 同 意</td></tr><tr><td>1．富有同情心的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>2．热情的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>3．友善的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>4．愿意合作的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>5．冷淡的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>6．缺乏同情心的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>7．粗鲁的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>8．苛刻的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr></table></body></html>",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "下列问项中，数字1-5分别表示从“从不\"到\"总是\"的五个选项，分数越高代表您经历的任务或关系冲突越频繁，分数越低代表您经历的任务或关系冲突越偶尔。",
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/342ffc1e565aa91492a36f7936ffd28c4e83424e9171c6a09d3827fe83571110.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>请评价在你的团队中你与其他团队成员发生以下任务冲突的频 率，在对应的数字上打勾。</td><td>从 不</td><td>偶 尔</td><td>有 时</td><td>经 常</td><td>总 是</td></tr><tr><td>1．我和其他团队成员不能就如何完成工作任务达成一致</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>2．我和其他团队成员在工作想法上存在冲突</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>3．我做的工作与其他团队成员存在冲突</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>4．我和其他团队成员在工作上持有不同的观点</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr></table></body></html>",
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/44b0c1f0ebb0854b916c75496107c01e9ad8ecdce3e97ccdfba1172d760c8e5c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>请评价在你的团队中你与其他团队成员发生以下关系冲突的频 率，在对应的数字上打勾。</td><td>从</td><td>偶</td><td>有 时</td><td>经</td><td>总 是</td></tr><tr><td>1．我和其他团队成员发生摩擦</td><td>不</td><td>尔</td><td>3</td><td>常</td><td></td></tr><tr><td>2．我和其他团队成员有明显的性格冲突</td><td>1</td><td>2</td><td></td><td>4</td><td>5</td></tr><tr><td>3．我和其他团队成员的关系相对紧张</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>4．我和其他团队成员有情感上冲突</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr></table></body></html>",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "团队领导问卷",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "第一部分 基本信息(请在方框上打勾进行填写)",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "1、请问您所工作的部门或网点名称(请填写)",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2．请问您的性别：·先生；·女士",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "3．请问您的出生日期(请填写)",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4．请问您的受教育年数(从小学算起)： 年。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5．请问您的婚姻状况：·单身；·已婚；·丧偶；·离婚；·同居 ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "6、请问您在现在的单位工作了多长时间： 年月。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "7、请问您作为当前团队主管的时间： 年月。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "第二部分团队领导测评",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "下列问项中，数字1-7分别表示从“非常不同意\"到\"非常同意\"的七个选项，分数越高代表您对问项内容越同意，分数越低代表越不同意。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "您的下属姓名：",
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/207b4e08eef7a9eebc83e7ab20288fb709d38df35d436bbbcb9ce149f33188c2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>请根据该员工的工作表现，请您评价对下列描述的同 意程度，并在相应的选项上面打勾。</td><td>非 常 不 同 意</td><td>比 较 点 不 不 同 同 意 意</td><td>有不有比 定</td><td></td><td>确点较 同同 意 意</td><td>非 常 同 意</td></tr><tr><td>1．该员工总能完成份内的工作</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>2．该员工符合所有正式的工作绩效要求</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>3．该员工履行工作要求的所有职责</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>4．该员工从不忽视份内的工作</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>5．该员工常常未能履行重要的职责</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr></table></body></html>",
+        "page_idx": 23
+    }
+]

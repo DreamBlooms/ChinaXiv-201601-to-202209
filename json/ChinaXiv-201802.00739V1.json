@@ -1,0 +1,345 @@
+[
+    {
+        "type": "text",
+        "text": "面向作物产量和环境双赢的氮肥施用策略",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "颜晓元 夏龙龙 谛超普",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国科学院南京土壤研究所 南京 210008",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要我国是世界上最大的化学氮肥消耗国，总用量达到了全球总量的 $33 \\%$ 。但是氮肥的过量施用并没有带来持续的作物高产，反而造成了一系列的环境问题。文章综述了我国近30年来农田土壤氮素的收支和利用率情况，分析了我国农田土壤氮素的去向及其环境影响，重点论述了如何通过氮肥合理管理来实现粮食安全和环境可持续发展的双重目标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词氮肥管理，氮肥利用率，氮素损失，作物产量，环境可持续发展",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI 10.16418/j.issn.1000-3045.2018.02.007 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为世界上最大的发展中国家之一，中国以世界 $9 \\%$ 的耕地养育了世界 $2 2 \\%$ 的人口。这一“中国奇迹”的背后有化学氮肥大规模施用的重要贡献。据统计，在过去的半个世纪里（1961—2010年），我国的粮食总产量增加了3倍多，达到了4.8亿吨/年[1]。与此同时，作为土壤重要的氮素补充形式之一的化学氮肥施用量却增加了近37倍，达到了3000万吨纯氮/每年，约占全球总用量的 $1 / 3 ^ { [ 1 ] }$ 。然而，持续增加的氮肥投入并没有带来作物产量的持续提高。2000年后我国占播种面积 $50 \\%$ 以上的水稻、小麦以及玉米的产量停滞不前[2]，而在这期间,化学氮肥的施用量却仍以每年 $3 \\%$ 的速率增加（2003一2013年）。化学氮肥的过量施用改变了土壤的氮素平衡，导致大量的氮素流失，造成了一系列的环境问题，例如大气污染、臭氧层空洞、气候变暖、土壤酸化以及水体富营养化等，进而威胁人类健康以及生态系统的服务功能[3]。因此，分析我国农田氮素的收支和利用情况，全面评价氮素的去向及其环境影响，并制定科学合理的化学氮肥管理措施，对实现粮食安全以及环境的可持续发展具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1我国农田土壤氮素的投入和去向",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "农田土壤的氮素有很多来源，例如化学氮肥、有机肥（如作物秸秆、畜禽粪便等）的生物固定以及大气沉降。图1总结了1980—2010年，我国农田土壤氮素的主要来源及其变化情况。从图中可以看出，化学氮肥的施用是我国农田土壤氮素的主要来源，其年施用量从1980年的945万吨逐渐增加到2010年的2947万吨，占总氮投入量的比例也从 $54 . 4 \\%$ 增加到了 $70 . 3 \\%$ 。有机肥投入是我国农田土壤氮素的第二大来源，其年施用量增加较为缓慢，从1980年的369万吨左右增加至2010年的571万吨左右。由于化学氮肥用量的显著增加，有机肥氮占总氮投入的比例从1980年的 $2 1 . 3 \\%$ 逐渐降低到了2010年的 $1 3 . 6 \\%$ 。氮的生物固定随时间变化波动较小。这30年间，氮的生物固定量在235一313万吨纯氮/年之间波动；大气沉降量则从1980年的142万吨纯氮/年逐渐增加到了2010年的388万吨纯氮/年。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "农田土壤氮素的去向包括作物生长吸收、氨（ $\\mathrm { N H } _ { 3 }$ ）挥发、氮的淋溶和径流、脱氮以及土壤储存。图2总结了1980—2010年我国农田土壤氮素的4种去向及其变化情况。从图中可以看出，土壤总氮素的吸收比例（作物生长氮吸收总量/氮素的总投入量）从1980年的 $4 6 . 5 \\%$ 逐渐增加到1984年的 $50 . 5 \\%$ ，继而逐渐波动下降到2003年的最低点 $34 . 8 \\%$ ，随后又缓慢增加到2010 年的 $4 0 . 2 \\%$ 。除了被农作物吸收以外，土壤氮素还以各种活性氮形态（ $\\mathrm { N H } _ { 3 }$ ， $\\mathrm { N H } _ { 4 } ^ { + }$ ， $\\mathrm { N O } _ { 3 } ^ { - }$ ， ${ \\bf N } _ { 2 } { \\bf O }$ ， $\\mathrm { N O } _ { x }$ 等）进入环境，对环境带来负面影响。其他部分储存于土壤或通过脱氮转化为对环境无害的氮气。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总投入量的比例在 $1 2 . 5 \\%$ 一 $1 4 . 1 \\%$ 间波动，平均值为 $1 3 . 6 \\%$ （图2）。以径流和淋溶损失的活性氮占土壤氮素总投入量的比例为 $6 . 3 \\% { \\ - } 8 . 4 \\%$ ，平均值为 $7 . 6 \\%$ ，小于 $\\mathrm { \\cdot N H } _ { 3 }$ 挥发损失的贡献。进一步通过差减法可以估算出脱氮损失以及储存在土壤中的氮总量。我们发现通过脱氮以及储存在土壤中的总量占土壤氮素去向的比例在 $2 9 . 3 \\% - 4 3 . 8 \\%$ 之间波动，平均比例为 $3 6 . 8 \\%$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2我国农田土壤氮素的利用率",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ce81f6be00a0fa5b82b23c81af334b0e1dfc685c2c18db5b9a3f6195dd052f9.jpg",
+        "img_caption": [
+            "1980—2010年， $\\mathrm { N H } _ { 3 }$ 挥发损失占我国农田土壤氮素"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为土壤氮素的重要来源之一，我国农田化学氮肥的当年利用率从1980年的 $5 9 . 6 \\%$ 增加到1982年的 $6 2 . 2 \\%$ 随后波动下降到2008年的最低点 $2 8 . 3 \\%$ ，近年来呈现出了缓慢增加的趋势，并于2010年达到了 $3 1 . 1 \\%$ （图3）。由于过量施用以及不合理的管理措施，我国近20年来化学氮肥利用率低于世界的平均水平，并明显低于欧美等发达国家（普遍高于 $40 \\%$ ）[4]。但是，我们的研究明确发现，由于当前氮肥利用率的计算方法并没有进一步考虑化学氮肥在土壤中的残留效应，即当季施在土壤中的氮肥可以被下季作物生长继续吸收利用[5]，我国化学氮肥的利用率被明显低估。如果将化学氮肥的残留效应考虑在内，1980一2010年，我国化学氮肥的累积利用率的变化范围为 $4 0 . 4 \\% - 6 7 . 8 \\%$ ；2001—2010年的平均值为 $42 . 3 \\%$ （图3），明显高于化学氮肥的当季利用率（ $3 1 . 8 \\%$ ），但是仍与发达国家的氮肥利用率有很大的差距。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cd5f37672734796a53a39b8dbf5c30a03eb5712efd1a6fcd2f57e779ac63ef7.jpg",
+        "img_caption": [
+            "图1 1980—2010年间我国农田土壤氮素主要来源及其变化趋势",
+            "图2 1980—2010年我国农田土壤氮素主要去向及其变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于土壤中其他的氮素来源，如有机肥的施用、生物固定以及大气沉降（统称为其他氮肥），1980—2003年，当年利用率在 $1 4 . 2 \\% { - 2 2 . 3 \\% }$ 波动。2003年后，其他氮肥利用率呈现出了增加的趋势，并于2010年达到了最大值 $2 1 . 6 \\%$ 。如果考虑残留效应，其他氮肥累积利用率的变化范围为 $2 3 . 1 \\% - 3 4 . 2 \\%$ ，近10年来的平均值为 $2 9 . 0 \\%$ ，同样明显高于当季利用率（图4）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3我国农田土壤氮素的活性氮损失造成的环境影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不合理的田间氮肥管理措施导致大量的活性氮（挥发、径流和淋溶）进入大气或者水体，对生态系统造成一系列负面影响[3]。具体可以归纳为5个方面： $\\textcircled{1}$ 污染地下水和地表水水体。土壤中硝酸根的淋失可以导致地下水硝酸盐的污染；对于地表水，土壤氮素的径流损失所引起的水体氮浓度过高会导致水体富营养化，引发藻类的暴发，严重时会导致水体死亡区的形成。 $\\textcircled{2}$ 加剧空气污染。土壤氮素挥发的 $\\mathrm { N H } _ { 3 }$ 是雾霾形成的重要前体物，大量的 $\\mathrm { N H } _ { 3 }$ 排放到大气中可加剧空气污染。 $\\textcircled{3}$ 造成温室效应。氮肥的过量施用显著促进了温室气体 ${ \\bf N } _ { 2 } \\mathrm { O }$ 的排放。平均而言，氮肥用量的 $1 \\%$ 会以 ${ \\bf N } _ { 2 } \\mathrm { O }$ 的形式损失到空气中。同等单位重量下， ${ \\bf N } _ { 2 } { \\bf O }$ 对热量的捕获能力是 $\\mathrm { C O } _ { 2 }$ 的298倍。 $\\textcircled{4}$ 土壤氮素的损失会导致生态系统的生物多样性降低。长期施用氮肥会导致土壤真菌的多样性和数量的降低。 $\\textcircled{5}$ 影响土壤质量。主要表现为导致土壤酸化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于土壤活性氮排放所造成的总环境损失，国际上往往采样成本收益法进行评价。例如，欧洲氮评估的结果显示，欧盟每年因氮肥施用引起的活性氮排放造成的总环境损失高达200一1500亿欧元，而氮肥施用引起的产量经济收益约为200—800亿欧元[。参考欧洲氮评估的方法，笔者团队对我国氮肥施用所造成的环境损失和经济效益进行了初步的评价，发现我国氮肥所带来的农业经济收益跟其导致的总环境损失几乎相等[。因此，推广合理的氮肥管理措施以减少活性氮造成的环境损失迫在眉睫。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4协调作物生产与实现环境双赢的氮肥管理策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "化学氮肥的施用是我国农田土壤氮素的主要来源，也是农田土壤活性氮损失的主要排放源。采取合理的氮肥管理措施来提高氮肥的利用率是解决农业发展所面临的三大挑战（粮食安全、气候变化和环境退化）的重要策略。2015年，我国农业部印发了《到2020年化肥使用量零增长行动方案》[8]，要求在确保粮食安全的前提下，到2020年实现我国化肥用量的零增长。“化学肥料零增长”目标的提出，对肥料的高效合理利用提出了更高的要求。无疑，氮肥的高效利用成了重中之重。目前，可通过以下途径实现氮肥的高效利用。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/706e2b3a126dca0a96ccad11ff43639995206f4062a0cfc8bd9b751bea460a6b.jpg",
+        "img_caption": [
+            "图31980—2010年我国农田化学氮肥的当年和累积利用率的变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7d90b9ecea66a1472882122298b1f8229ece84d65b8996c072096365ef01dda.jpg",
+        "img_caption": [
+            "图41980—2010年我国农田非化学氮肥的当年和累积利用率的变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1优化氮肥供给类型，推广高效氮肥的施用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "协调作物生长氮素需求与土壤氮素供应的关系是提高氮肥利用率的关键。与传统的化学氮肥（如尿素）相比，高效氮肥例如控（缓）释氮肥能够根据作物不同生长阶段的氮素需求逐渐释放养分，可以最大限度提高作物对氮素的吸收，从而提高氮肥的利用率并降低各种活性氮的损失。与尿素等传统氮肥相比较，同等用量的控（缓）释氮肥的施用能够显著地提高我国三大主粮作物——水稻、小麦和玉米的氮素吸收量（提高 $1 0 . 5 \\%$ 一$1 1 . 4 \\%$ ）、氮肥利用率（提高 $3 0 . 0 \\% { - } 3 7 . 2 \\%$ ）及其作物产量（提高 $6 . 4 \\% { \\ - } 9 . 2 \\%$ ）[9]。与此同时，控（缓）释氮肥的施用还能够大幅度降低活性氮的排放，可以显著地将 $\\mathrm { N H } _ { 3 }$ 挥发、 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放、N淋溶和径流分别降低 $34 . 8 \\%$ 一$70 . 1 \\%$ 、 $2 5 . 3 \\% - 5 0 . 4 \\%$ 、 $3 . 4 \\% - 4 7 . 3 \\%$ 和 $2 . 7 \\% - 4 4 . 0 \\% ^ { [ 9 ] }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了控（缓）释氮肥的施用，向普通尿素中添加商品硝化抑制剂（如双氰胺，简称DCD；3,4-二甲基吡唑磷酸盐，简称DMPP）或者脲酶抑制剂（如氢醌，简称HQ；正丁基硫代磷酰三胺，简称NBPT）也能够显著提高氮肥利用率（ $2 6 . 5 \\% - 3 1 . 3 \\%$ ）和作物产量（ $7 . 1 \\%$ 一$10 . 0 \\%$ ），同时能够显著降低各种活性氮的损失。据统计，2005—2015年，我国控（缓）释氮肥的总生产量达到了2100万吨，总推广施用面积达到了3300万公顷。到2015年止，混合硝化抑制剂和脲酶抑制剂的氮肥生产量达到了140万吨，其应用面积也达到了200万公顷。进一步推广高效氮肥的施用是提高我国氮肥利用率并减少活性氮损失的关键策略。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2优化氮肥施用方式，科学合理施肥",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了高效肥料的施用以外，科学合理的氮肥施用措施也是提高氮肥利用率减少活性氮排放的关键。科学合理的氮肥施用措施主要是指根据作物不同生长阶段的氮素需求特性，选取合适的氮肥类型（right source）、合适的氮肥用量（rightrate）、合适的氮肥施用时间（righttime）以及合适的施肥位置（rightplace）进行氮",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肥施用[10] ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "合适的氮肥类型指的是根据作物的需肥喜好进行施肥。例如，水稻喜好铵态氮肥而小麦等旱地作物则喜好硝态氮肥。前面提到的高效氮肥也属于“合适的氮肥类型”的范畴。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "合适的氮肥用量则主要指的是要通过测土配方的方法确定氮肥的用量。考虑到我国氮肥过量施用所带来的一系列环境问题，2005年，我国农业部下发了在全国范围内开展测土配方施肥的通知。据统计，截至2015年，我国各省（自治区、直辖市）测土配方施肥技术推广应用面积超15亿亩。对于测土配方施用氮肥的效果，研究发现，配方施用氮肥能够将我国三大主粮作物的产量平均提高 $1 . 3 \\%$ ，将氮肥的利用率大幅度提高 $4 8 . 2 \\%$ ；与此同时，还能够将4种活性氮损失（ $\\mathrm { N H } _ { 3 }$ 挥发、 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放、N淋溶和径流）降低 $2 7 . 6 \\% - 3 5 . 3 \\% ^ { [ 9 ] }$ 。将氮的测土配方与磷、钾的测土配方一并进行，能够更大程度地提高作物的产量和肥料利用率。因此，进一步推广测土配方施肥是实现我国肥料用量零增长目标的重要措施。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "合适的氮肥施用时间则主要指的是要减少农作物生长前期基肥的施用比例，增大后期（如开花、灌浆等关键生长期）的氮肥施用比例，即“前氮后移”。作物生长初期根系发育不完全，对氮素的吸收能力有限，因此前期大量的氮肥投入会加剧活性氮的损失。笔者团队研究发现，适当减少氮肥基肥的施用比例能够将我国三大主粮作物的产量平均提高 $4 . 1 \\%$ ，并能够将氮肥利用率提高 $8 . 0 \\% ^ { [ 9 ] }$ 。除此之外，适当增加作物生长后期的氮肥施用次数也是实现“前氮后移”的有效措施。增加氮肥的施用次数可以显著提高我国主要粮食作物的产量（ $5 . 9 \\%$ ）和氮肥利用率（ $30 \\%$ ），并有效地降低各种活性氮的损失（ $5 . 4 \\% - 3 6 . 5 \\%$ )[9]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3加快施肥机械研制，推动机械化施肥 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "合适的施肥位置则主要是指把氮肥施用在易于被作物根系吸收利用的位置，例如氮肥深施技术。研究发现，氮肥深施是提高氮肥利用率简单有效的措施之一。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与当前农民普遍采用的氮肥表面撒施的方法相比较，氮肥深施能够显著地将我国三大主粮作物的产量平均提高$1 6 . 9 \\%$ ，将氮肥利用率提高 $2 8 . 5 \\%$ ，并能够降低 $\\mathrm { N H } _ { 3 }$ 挥发损失 $3 4 . 6 \\% ^ { [ 9 ] }$ 。但是，据统计截至2013年，化肥的机械化深施在我国农田的推广面积只有约110万公顷[10]。我国耕地以小面积田块占主导，以及缺乏经济可行的工具，限制了机械化施肥的大面积推广。因此，研制和推广适应于小面积田块肥料深施的机械设备是我国农业发展的一个重要方向。除此之外，因地制宜推进氮肥的机械追肥、种肥同播等也是利用机械化提高氮肥利用率和增加作物产量的重要措施。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.4充分利用有机养分资源，合理代替化学氮肥",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "动物有机肥中含有一定量的有机质、氮、磷、钾和微量元素等。动物有机肥的还田不仅可以提高土壤有机质含量，还能够提高土壤的物理化学性质，从而有助于作物产量的提高。据统计，我国当前每年产生的动物有机肥（畜禽粪便）的总量约为1400万吨纯氮，约相当于化学氮肥年生产量的一半，而目前这部分有机肥氮的收集还田率仅为 $40 \\%$ 左右[12]。如果能够将这个比例提高到 $80 \\%$ 左右，那么每年就能够节约600万吨的化学氮肥。用有机肥（畜禽粪便）氮部分代替化学氮肥还田是直接减少化学氮肥用量，实现化肥零增长乃至负增长的关键环节。笔者团队研究发现，由于畜禽粪便的施用能够提升土壤肥力，用畜禽粪便部分替代化学氮肥施用后能够将我国三大主粮作物的平均产量提高 $6 . 8 \\%$ ，将作物的氮素吸收量提高 $6 . 5 \\%$ ，氮肥利用率提高 $1 0 . 4 \\%$ ；与此同时，还可以将 $\\mathrm { N H } _ { 3 }$ 挥发损失量降低 $23 \\%$ ，氮淋溶损失量降低 $2 5 . 8 \\%$ ，氮径流损失量降低 $2 6 . 7 \\% ^ { [ 1 3 ] }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然而动物有机肥还田利用也存在一定的风险，可能引起土壤中的铜、铅等重金属的累积，并有可能增加土壤中抗生素的数量，进而增加环境风险。因此,这部分有机肥的利用需要从畜牧业饲养源头开始规范管理，严格饲料喂养管理制度，严禁向饲料中过量添加抗生素等药品，从而减少畜禽粪便中的抗生素以及",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "重金属的含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.5强化政策引导体系，激励农民合理施肥 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "《到2020年化肥使用量零增长行动方案》的出台无疑是推广化学氮肥的高效利用措施的强大助推剂。为了更好地实现氮肥用量的零增长目标，实现作物高产和保护环境的双赢目标。在政策管理方面，我们还需要进一步推广测土配方的进程，在继续推进粮食作物测土配方的同时，扩大其在设施蔬菜、果树以及茶叶等高施氮作物上的推广应用，力求实现在所有农作物配方施肥技术的全覆盖。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除此之外，还需要进一步加强和完善配方施肥专家技术咨询系统，充分发挥教学科研单位、行业协会、农化服务公司以及地区农资部门的技术信息优势，加大对农民施肥技术的现场培训和服务推广工作。除了直接的施肥指导服务，为了进一步推广各种氮肥优化管理措施，还需要在我国的粮食主产区（如华北平原、东北平原等）建立氮肥优化管理措施的效果示范区，用实际增产效果打消农民心底的疑虑，让农民特别是种粮大户和家庭农场经营者成为技术推广的排头兵。为了提高农民对于氮肥优化管理措施推广的积极性，还可以尝试建立奖励补偿机制，对于采用优化管理措施的农户进行适当的补贴激励，从而提高他们的推广积极性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我国耕地以小面积田块为主的事实限制了氮肥优化管理措施（例如氮肥深施）的推广。研究发现，我国现有的集约化大面积田块的氮肥利用率以及农作物的产量要明显高于小面积田块[14]。因此，我们需要进一步推进土地流转政策的落实，在《关于引导农村土地经营权有序流转发展农业适度规模经营的意见》的指导下依法推进我国小面积田块的土地流转和集约化土地的管理经营。从法律法规层面，需要尽快出台相关的氮肥管理条例，强化氮肥使用管理规程，减少农民对于氮肥本身的依赖，加快农民增产需求从“增加氮肥施用量”到“采用优化氮肥管理措施”的转变，从而减少氮肥的不合理使用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "前面提到，动物有机肥（畜禽粪便）的有效还田是提高土壤肥力，直接减少氮肥用量的有效措施。因此，我们需要进一步扶持和推广集约化养殖场与大型种植场相结合的经营模式，通过养殖场将畜禽粪便经过简单的堆区腐熟、无害化处理后供给大型种植场还田利用，加快动物有机肥的循环利用进程。除此之外，还需要从法律法规层面规范畜牧养殖业的饲养管理过程，严禁向饲料中过量添加抗生素等药剂，尽量减少有机肥还田以后对环境产生的负面效应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "据预测，到2050年，我国的总人口将达到14.7亿，粮食总需求量也将大大增加；与此同时，人们对于环境保护的意识也会越来越强烈。毫无疑问，加快推广氮肥优化管理措施和动物有机肥循环利用是未来实现我国粮食安全和环境可持续发展的关键策略。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 FAOSTAT. Statistical Database of the Food and Agricultural Organization of the United Nations.[2016-02-08].http://faostat. fao.org/site/405/default.aspx.   \n2Grassini P,Eskridge K M,Cassman KG.Distinguishing between yield advances and yield plateaus in historical crop production trends.Nature Communication,2013,4:2198.   \n3GallowayJN,TownsendAR,ErismanJW,etal.Transformation of the nitrogen cycle:recent trends,questions,and potential solutions. Science,2008,320(5878): 889-892.   \n4Lassaletta L,Billen G,Garnier J,et al.Nitrogen use in the global food system:Past trends and future trajectories of agronomic performance,pollution, trade,and dietary demand. Environmental Research Letters,2016,11,doi:10.1088/1748-9326/11/9/095007.   \n5Yan XY, TiC P, Vitousek P M,et al. Fertilizer nitrogen recovery efficiencies in crop production systems of China with and without consideration of the residual effect of nitrogen.Environmental ResearchLetters,2014,9,doi:10.1088/1748-9326/9/9/095002. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6de Vries W,Leip A,Reinds GJ,etal. Geographical variation in terrestrial nitrogen budgets across Europe.In: Sutton MA,Howard C M,ErismaJW,etal(eds).europeanNitroge Aseset. Cambridge: Cambridge University Press,2011: 317-344. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7 Xia L L,Ti C P,LiBL,et al.Greenhouse gas emissions and reactive nitrogen releases during the life-cycles of staple food production in China and their mitigation potential. Science of the Total Environment,2016,556: 116-125.   \n8农业部种植业管理司.农业部关于印发《到2020年化肥使用 量零增长行动方案》和《到2020年农药使用量零增长行动方 案》的通知.[2015-03-18]. http:/jiuban.moa.gov.cn/zwllm/tzgg/ tz/201503/t20150318_4444765.htm.   \n9 Xia L L,Lam S K,Chen DL,et al.Can knowledge-based N management produce more staple grain with lower greenhouse gas emission and reactive nitrogen pollution?A meta-analysis. Global Change Biol0gy,2017,23(5): 1917-1925.   \n10 农业部农机化管理司科教处．2012年农机化技术推广 面积大幅度增加.[2012-12-20].htp://kq.amic.agri.gov.cn/ nxtwebfreamwork/kq/detail.jsp?articleId=4affaa3f3ba7c8d6013bb 5ffb248264b&lanmu_id=ff8080813758d300013758f7f226028d.   \n11 Zhang F S,Cui Z L,Chen X P,et al. Integrated nutrient management for food security and environmental quality in China. Advances in Agronomy,2012,116:1-40.   \n12 Gu B,Ju X,Chang J,et al. Integrated reactive nitrogen budgets and future trends in China.PNAS,2015,112(28): 8792-8797.   \n13Xia LL,LamSK, Yan XY,et al.How does recycling of livestock manure in agroecosystems affect crop productivity, reactive nitrogen losses and soil carbon balance? Environmental Science and Technology,2017,51(13): 7450-7457.   \n14 Ju X T, Gu B J, Wu YY, et al. Reducing China’s fertilizer use by increasing farm size. Global Environmental Change,2016,41: 26- 32. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Win-win Nitrogen Management Practices for Improving Crop Yield and Environmental Sustainability ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "YAN Xiaoyuan”XIALonglongTI Chaopu (Institute of Soil Science, Chinese Academy of Sciences,Nanjing 21ooo8, China） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AbstractChina is the largest nitrogen (N) fertilizer-consuming country in the world,accounting for about $3 3 \\%$ of world total. The overuse fNfertlizerhasesultedinacascadeofenvironmentalproblems withoutacontinuous increaseincropyield.Thispaperbriefed eN budgetandNuseefeyneroplandofiafro98toanalyedousosedteiroiatedeirotalpacts withaspecialfocusonthediscusionabouthotoachievethdualoaloffoodsecurityandenvironmentalsustainabilitybyipleenting knowledge-based N management practices. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Keywordsnitrogen (N) management,Nuse eficiency,Nlosses,crop yield,environmental sustainability颜晓元中国科学院南京土壤研究所研究员，博士生导师；中国土壤学会氮素工作组主任。长期从事土壤碳氮循环研究，成果被联合国政府间气候变化专门委员会（IPCC）的多次评估报告和排放清单指南采用。曾获国家自然科学奖二等奖、江苏省科技进步奖一等奖、日本农林水产省国际青年农业科学家奖，以及2014年获国家杰出青年科学基金资助。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/174200e44a50fce5e85f327cf7c13905cda249750b328bf00fe4afbfebd0b3b4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "E-mail: yanxy@issas.ac.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "YAN XiaoyuanProfessr at the Institute of Soil Science,Chinese Academy of Sciences,and Director of the Nitrogen Working Group of Chinese Soil Science Society. His research focuses on soil carbon and nitrogen cycling,withresearchresults widelycitedandadopted bythe ICCAssessment ReportsandGuidelinesforNational GrenhouseGas Inventories.HeaawardeeofatioalNaturalcienceAwardofina,JangsuSieneandchologyrogresswardatioal ScienceFundforDistinguishedYoungScholarsbytheNationalNaturalSienceFoundationofChinaandJapanIntealYoungScientist Award of Agricultural Sciences.E-mail: yanxy@issas.ac.cn ",
+        "page_idx": 6
+    }
+]

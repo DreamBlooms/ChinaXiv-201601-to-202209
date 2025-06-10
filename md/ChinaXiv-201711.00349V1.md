@@ -1,0 +1,186 @@
+采用红外光谱技术检测反刍动物甲烷排放王惟惟 $^ { 1 , 2 }$ 仲崇亮 $^ { 1 , 2 }$ 米见对2.3 龙瑞军 2.3\*（1.兰州大学草地农业科技学院，兰州730000;2.兰州大学青藏高原生态系统管理国际中心，兰州 730000；3.兰州大学生命科学学院，兰州 730000)
+
+摘要：反刍动物甲烷排放监测一直难以建立起精确的评估体系，其中一个重要原因是常用检测反刍动物甲烷排放的方法不够完善，另外检测仪器受外部环境的影响，难以保证其准确度和灵敏度。目前，红外光谱检测技术正在被广泛应用于反刍动物甲烷排放检测，一些基于红外光谱检测技术的最新检测方法，如甲烷激光检测（LMD）、傅里叶变换红外光谱检测（FTIR）、GreenFeed（GF）系统和便携式自动开路气体量化系统（GQS）也得到广泛运用。与以往常用方法相比，红外光谱检测技术具有一定优势。本文根据现有文献，从红外光谱检测的原理、可靠性及与其他常见方法对比，论述了红外光谱检测方法在反刍动物甲烷排放中的应用现状和应用前景，旨在为精确检测反刍动物的甲烷排放提供参考。
+
+关键词：反刍动物；甲烷排放；红外光谱检测中图分类号：S823；S826
+
+温室气体[二氧化碳（ $\mathrm { C O } _ { 2 }$ ）、甲烷（ $\mathrm { C H } _ { 4 }$ ）等]排放是导致气候变化的重要因素。 $\mathrm { C H } _ { 4 }$ 的温室效应是 $\mathrm { C O } _ { 2 }$ 的21倍。据统计，全球人为总 $\mathrm { C H } _ { 4 }$ 排放温室效应贡献率为 $2 2 . 9 \%$ ，仅次于$\mathrm { C O } _ { 2 } \mathrm { \Delta } ^ { [ 1 ] }$ 。农业温室气体排放量占全球人为温室气体的 $5 8 \%$ ，其中，动物肠道 $\mathrm { C H } _ { 4 }$ 排放量占农业温室气体排放量的 $3 2 \% ^ { [ 2 ] }$ 。据估算我国动物肠道 $\mathrm { C H } _ { 4 }$ 排放量占世界动物肠道 $\mathrm { C H } _ { 4 }$ 排放总量的 $10 \%$ 左右，其中反刍动物 $\mathrm { C H } _ { 4 }$ 排放量占动物肠道 $\mathrm { C H } _ { 4 }$ 总排放量的 $9 8 . 7 \% ^ { [ 3 ] }$ 。从能量角度看，反刍动物 $\mathrm { C H } _ { 4 }$ 排放损失的能量为食入总能的 $2 \% { \sim } 1 2 \% ^ { [ 4 ] }$ 。统计1944年到 2007年中，美收稿日期：2015-11-19基金项目：国家自然基金项目（31170378）；兰州大学"中央高校基本科研业务专项资金"（Lzujbky-2014-246）作者简介：王惟惟（1990-），男，贵州六盘水人，硕士研究生，从事反刍动物营养研究。E-mail: wangww14@lzu.edu.cn\*通信作者：龙瑞军，教授，博士生导师，E-mail: longrj@lzu.edu.cn
+
+国奶业生产中的能量消耗发现，每生产 $1 ~ \mathrm { k g }$ 奶的 $\mathrm { C H } _ { 4 }$ 能量损耗超过了奶业生产中能耗比例的 1/2 以上， $\mathrm { C H } _ { 4 }$ 的产生对饲粮的有效利用造成了一定限制[5]。近年来，如何精确检测反刍动物 $\mathrm { C H } _ { 4 }$ 排放量成为国内外研究的热点。目前，检测反刍动物 $\mathrm { C H } _ { 4 }$ 排放量所面临的2大问题：一是难以建立精确的检测体系；二是受多方面因素影响，较难获得高效、可靠的数据[6]。红外光谱技术检测 $\mathrm { C H } _ { 4 }$ 排放具有较高的准确性和灵敏度，同时具有动态测量范围大、响应时间快、不易受其他气体干扰等优点[7-8]。本文综述红外光谱检测方法在反刍动物 $\mathrm { C H } _ { 4 }$ 排放的运用现状，为反刍动物 $\mathrm { C H } _ { 4 }$ 排放的精确测定提供新的参考。  
+1红外光谱技术检测反刍动物 $\mathrm { C H } _ { 4 }$ 排放方法及原理  
+目前，采用光谱吸收法是检测 $\mathrm { C H } _ { 4 }$ 排放的主要方法之一。其中，红外光谱技术应用较为广泛，如：便携式铟镓砷 $\mathrm { C H } _ { 4 }$ 激光探测器(portable InGaAs laser methane detector,LMD)、傅里叶变换 红外光谱检 测(fourier transform infrared spectroscopy detector,FTIR)、GreenFeed(GF)系统和便携式自动开路气体量化系统(portable auto-open circuit gasquantification system,GQS)等均基于此。光谱吸收法是以朗伯比尔定律为基础建立的。多数双原子分子或者多原子分子在红外光  
+谱区都有特征的吸收光谱， $\mathrm { C H } _ { 4 }$ 的红外光谱有2个极强的谱带，分别位于 3.3 和 $7 . 6 \mu \mathrm { m }$ 附近，  
+其他的红外谱带可以根据这2个基频和其他2个未在红外光谱区激活的基频组合而成，形成  
+丰富的泛频带与合频带，以朗伯比尔定律为基础，红外光谱通过检测气体透射光强的变化来  
+反演 $\mathrm { C H } _ { 4 }$ 气体的浓度[8-9]。LMD是运用波长调制光谱学，氮氛激光束作为激发光源，铟镓砷（InGaAs）二次谐波  
+检测信号与CH42个较强红外吸收谱带(3.3和 $7 . 6 ~ \mu \mathrm { m } )$ 一致，而 $\mathrm { C H } _ { 4 }$ 气体的吸收谱线近于洛伦兹  
+线型公式，进而计算出 $\mathrm { C H } _ { 4 }$ 浓度[10]。LMD能够及时改变温度和驱动电流，具有灵敏度较高，  
+能够检测数米范围内2点间平均CH4浓度的特点[1-12]。FTIR原理为不同分子存在单一的近红外吸收光谱，受到双光源干涉器影响，单程近红  
+外光变成双程光，产生2个不同光程差，最后通过傅里叶变换数学计算产生干涉图谱。由于  
+朗伯比尔定律中吸光度与谱图峰高和峰面积直接相关，可以利用已知浓度样品的红外光谱，  
+通过未知样品红外光谱峰高和峰面积，推算未知样品浓度[13]。通常，FTIR可以检测不同组2
+
+分及气体浓度。一般台式的研究级FTIR设备分辨率能达到 $1 \times 1 0 ^ { - 4 } { \sim } 2 5 \ \mathrm { c m ^ { - 1 } }$ ，因此，它通常被用于气候变化的研究[14-15]。
+
+2红外光谱技术在检测 $\mathrm { C H } _ { 4 }$ 排放中的研究现状和应用
+
+1  
+2.1研究现状  
+目前，红外光谱技术已广泛应用于大气环境、煤矿、天然气生产、畜禽舍、土壤呼吸及人呼吸等领域CH4排放的检测，且表现出精度高、灵敏度高等特点。例如：大气中CH4浓度较低（约 $1 . 8 0 \mathrm { m L } / \mathrm { m } ^ { 3 }$ ）且混合较为均匀，难以对不同区域 $\mathrm { C H } _ { 4 }$ 浓度差进行检测。田园等[16]利用高分辨率（ $0 . 0 2 ~ \mathrm { c m ^ { - 1 } }$ ）FTIR反演大气环境中 $\mathrm { C H } _ { 4 }$ 浓度变化时，发现反演的CH4浓度误差小于 $1 \%$ ，且浓度平均日变化量小于0.02mL/m。罗达峰等[171则报道1种红外瓦斯气体浓度探测系统，该系统检测限为 $ { 1 0 { \sim } 1 . 0 0 \times 1 0 ^ { 6 } \ \mathrm { m L } / \mathrm { m } ^ { 3 } }$ ，测量误差小于 $2 \%$ ，具有很高的测量精度，具备了煤矿应用的基础。天然气安全生产检测方面。李黎等[18]研究了红外检测 $\mathrm { C H } _ { 4 }$ 和硫化氢( $\mathrm { \ : H } _ { 2 } \mathrm { S }$ ））的浓度，其检测限为 $1 . 0 9 \times 1 0 ^ { 2 } { \sim } 1 . 3 1 \times 1 0 ^ { 3 } \mathrm { m L } / \mathrm { m } ^ { 3 }$ ，达到了安全生产的要求。畜禽舍内有害气体[如 $\mathrm { C H } _ { 4 }$ （ $\mathrm { H } _ { 2 } \mathrm { S }$ 、氨气（ $\mathrm { \Delta N H } _ { 3 }$ ）]排放过量会严重影响畜禽健康生长。Childers等[19-20]l报道开路FTIR精度高，能够痕量检测有害气体浓度‘ $ { \mathrm { ( 0 { \sim } 3 . 0 0 \times 1 0 ^ { - 3 } \ m L / m ^ { 3 } ) } }$ ，检测误差小于 $3 \%$ 。而人呼吸检测方面，采用红外光谱技术能够满足 $\mathrm { H } _ { 2 }$ 和 $\mathrm { C H } _ { 4 }$ 的同时检测，检测误差小（ $\pm 2 \%$ ，检测限为 $0 { \sim } 2 . 0 0 { \times } 1 0 ^ { 2 } \mathrm { m L } / \mathrm { m } ^ { 3 [ 2 1 ] }$ 。同时，Davidson等[22]研究土壤呼吸中 $\mathrm { C O } _ { 2 }$ 和 $\mathrm { C H } _ { 4 }$ 排放也指出，红外吸收光谱反应时间快，连续测定，灵敏度高，其检测限为 $\mathrm { 0 . 1 1 { \sim } 1 . 0 8 \ m L / m ^ { 3 } }$ 。  
+红外光谱技术检测CH4排放在不同领域已经有较长时间的研究和应用[8]，但在反刍动物$\mathrm { C H } _ { 4 }$ 排放的检测相对较晚。2009年，Chagunda等[231才首次将LMD运用于反刍动物CH4排放的检测。2010年，Madsen等[24]首次报道FTIR可以作为一种快捷、可靠且检测成本低的反刍动物CH4检测方法，易于进一步推广。2010年，GF系统（图1[25]）被成功运用于检测反刍动物$\mathrm { C H } _ { 4 }$ 排放。该系统在动物头部安装有红外传感器，能够有效检测动物呼气中的气流速度、 $\mathrm { C H } _ { 4 }$ 和CO2浓度；当动物头部处于正确位置时，无线射频(radio frequency identification,RFID)读取器自动读取其耳标号，对个体进行数据采样分析，最后计算出24h内动物的CH4排放情况[26]。最近，Dorich等[27]报道了一种新型GQS—食槽检测装置（图2)，该装置呼吸探测器采用红外光谱检测，当牛采食时，自动实时对 $\mathrm { C O } _ { 2 }$ 和CH4进行检测。近几年，红外光谱技术检测反刍动物CH4排放相继在国外报道得比较多，国内则研究较少，有待进一步开展。
+
+![](images/f032262d03dd54a0ad891078e368104d87e972c1e694887737e6a8ba2b1327eb.jpg)  
+图1GreenFeed系统  
+Fig.2 Retrofitted feed trough[27]
+
+![](images/31f5f40e7e82c2fdcdb91bf8a0bdaff0d5e04dceecf2684b686841a76436dcb0.jpg)  
+图2食槽检测装置  
+Fig.1GreenFeed system[25]
+
+# 2.2 目前应用状况评估
+
+# 2.2.1 可用于不同饲粮处理间差异检测
+
+生产实际中，评估饲粮的营养价值对反刍动物CH4排放影响，采用红外光谱技术直接检测反刍动物CH4排放，可以实现不同饲粮处理之间，多个重复组分检测。这样方便优化筛选出适口性好，减少 $\mathrm { C H } _ { 4 }$ 排放的饲粮。采用FTIR方法，Haque等[28]研究高能泌乳料与传统泌乳料饲喂处理对于奶牛 $\mathrm { C H } _ { 4 }$ 排放影响，得到每千克干物质采食量（DMI）的 $\mathrm { C H } _ { 4 }$ 平均日排放量介于 $1 3 . 9 \mathrm { \sim } 1 4 . 2 ~ \mathrm { g }$ ，但CH4排放量与采食量和能量校正乳产量间呈现线性正相关关系。Guyader等[29]报道红外技术检测荷斯坦奶牛 $\mathrm { C H } _ { 4 }$ 排放，相同饲粮精粗比(50:50）处理下， $\mathrm { C H } _ { 4 }$ 排放量为308.6g/d。添加亚麻籽油后减排 $1 7 \%$ ( $2 5 2 . 7 \ \mathrm { g / d } \rangle$ ，添加硝酸盐减排 $1 9 \%$ ? $( 2 3 8 . 1 \ \mathrm { g } / \mathrm { d } )$ ，二者同时添加时，减排 $32 \%$ ( $2 0 6 . 8 \ \mathrm { g / d } )$ ，添加前后饲粮消化率变异不大。
+
+# 2.2.2具有不干扰动物行为活动的优点
+
+常见CH4排放检测方法对动物行为活动有所限制，如呼吸测热室、通风头套，这样就不能满足自然行为状态下对动物CH4排放的研究，难以检测真实的CH4排放数据。不干扰反刍动物的行为活动，是LMD的一大优点。Chagunda等[12]报道荷斯坦奶牛（ $n { = } 1 1 0$ ）活动状态对$\mathrm { C H } _ { 4 }$ 排放具有显著影响，如:反刍时的奶牛LMD分析 $\mathrm { C H } _ { 4 }$ 浓度为 $2 7 9 . 0 \ \mathrm { m L } / \mathrm { m } ^ { 3 }$ ，分别比随意运动的奶牛（ $2 0 2 . 9 \mathrm { \ m L } / \mathrm { m } ^ { 3 }$ ）和进食（ $2 6 2 . 2 \mathrm { \ m L } / \mathrm { m } ^ { 3 } .$ ）奶牛高1.4倍和1.1倍。同时发现哺乳期奶牛 $ { 3 2 6 . 2 \mathrm { m L } / \mathrm { m } ^ { 3 } } .$ )与干乳期奶牛( $ { \langle 2 0 3 . 8 \mathrm { \ m L } / \mathrm { m } ^ { 3 } }$ 之间 $\mathrm { C H } _ { 4 }$ 排放量存在显著差异。随后,Chagunda等[30]又报道奶牛喝水（ $3 6 8 . 0 ~ \mathrm { m L } / \mathrm { m } ^ { 3 }$ ）与采食时（ $2 8 4 . 0 ~ \mathrm { m L } / \mathrm { m } ^ { 3 }$ ）的 $\mathrm { C H } _ { 4 }$ 排放量显著高于随意运动的排放量（ $1 0 6 . 0 \mathrm { m L } / \mathrm { m } ^ { 3 } .$ )，相比之下，随意运动和睡觉时（ $1 8 6 . 0 \mathrm { m L } / \mathrm { m } ^ { 3 }$ ）的 $\mathrm { C H } _ { 4 }$ 排放量均较低。
+
+# 2.2.3 能够实时检测CH4排放
+
+红外光谱检测技术能够实时检测 $\mathrm { C H } _ { 4 }$ 排放，即在某一时间段内量化 $\mathrm { C H } _ { 4 }$ 的排放情况。Goopy 等[31报道采用GQS对绵羊 $\mathrm { C H } _ { 4 }$ 排放进行了检测，发现饲喂后 $2 \mathrm { h }$ 检测到的 $\mathrm { C H } _ { 4 }$ 排放结果，能够预测出动物平均日 $\mathrm { C H } _ { 4 }$ 排放量的 $5 0 \% { \sim } 8 2 \%$ 。Bickell等[32]利用红外光谱技术检测绵羊每小时采食量与 $\mathrm { C H } _ { 4 }$ 排放量之间关系，发现自由采食条件下，每小时采食量与 $\mathrm { C H } _ { 4 }$ 排放量之间的线性关系相关系数为0.22，绵羊1d检测到的 $\mathrm { C H } _ { 4 }$ 排放量和 $2 4 \mathrm { h }$ 累积（每隔1h检测1次)得到的 $\mathrm { C H } _ { 4 }$ 排放量之间相关系数为0.89，每小时 $\mathrm { C H } _ { 4 }$ 排放量之间差异显著。Ricci等[33]利用 LMD 分析采食 $3 { \sim } 5 \mathrm { h }$ 后绵羊 $\mathrm { C H } _ { 4 }$ 排放量时，发现LMD 测定值与DMI相关系数为0.92，高于呼吸室的测量结果（相关系数为0.79)。最近，Ou等[34报道了一种置于动物胃中的红外气体检测胶囊（图3)，能够实时检测气体排放，该检测器已经能够单位时间内检测$\mathrm { C H } _ { 4 }$ 、 $\mathrm { C O } _ { 2 }$ 和 $\mathrm { H } _ { 2 }$ 浓度，但尚不能检测气体流量，有待进一步研究。 $\mathrm { C H } _ { 4 }$ 代谢过程中减排问题是当下研究的热点，实时精确检测是 $\mathrm { C H } _ { 4 }$ 代谢过程中减排的前提。由于实时检测为特定动物 $\mathrm { C H } _ { 4 }$ 排放提供了代谢量化过程，单位时间内的有效检测为精确监测代谢过程中 $\mathrm { C H } _ { 4 }$ 排放，以及研究 $\mathrm { C H } _ { 4 }$ 代谢过程提供基础。
+
+![](images/e40f6d7a0c49fab5986ec9b3ad9e6b570c49f95c78b05bd98f8de2377e1fa4e8.jpg)  
+图3气体检测胶囊  
+Fig.3 Gas measurement capsule[34]
+
+# 2.2.4可用于放牧条件下检测
+
+红外光谱技术不干扰动物行为活动且实时检测 $\mathrm { C H } _ { 4 }$ 排放为放牧条件下的检测提供了应用基础。Madsen等[24]利用FTIR测量奶牛在圈舍内的CH4排放，得出 $\mathrm { C O } _ { 2 }$ 排放量为3880.00$\mathrm { m L } / \mathrm { m } ^ { 3 }$ ，CH4排放量为 $2 4 1 . 8 0 \mathrm { \ m L } / \mathrm { m } ^ { 3 }$ ；校正后呼气中的 $\mathrm { C H } _ { 4 } / \mathrm { C O } _ { 2 }$ 为0.08（ $\mathrm { C H } _ { 4 } / \mathrm { C O } _ { 2 }$ 是基于 $\mathrm { C H } _ { 4 }$ 和 $\mathrm { C O } _ { 2 }$ 比例检测CH4排放的方法)。因为校正后呼气中 $\mathrm { C H _ { 4 } } / \mathrm { C O _ { 2 } }$ 波动范围较小，不易受外界环境影响，较为稳定。Madsen等[24指出FTIR也可以作为一种便捷、可靠且经济的适宜放牧条
+
+件下反刍动物CH4的检测方法。
+
+Jones等[36报道开路FTIR方法在放牧条件下的应用情况，针对剩余采食量（即畜禽实际采食量与根据生产性能需要和维持体重需要的标准计算得出的预期采食量之间的差值)对安格斯肉牛CH4排放的影响研究发现，低剩余采食量下每天每千克活体重(live weight,LW) $\mathrm { C H } _ { 4 }$ 排放量为 $0 . 3 4 ~ \mathrm { g }$ ，而高剩余采食量则为0.46 g/kgLW。Grobler等[37]研究发现在放牧条件下，采食天然草场牧草和饲用高粱对不同品种牛的CH4排放量有影响。采食天然牧草后，处于反刍状态的娟姗牛经LMD得到的 $\mathrm { C H } _ { 4 }$ 排放量（ $2 5 . 8 ~ \mathrm { m L } / \mathrm { m } ^ { 3 } .$ ）显著低于Bonsmara牛（ $3 2 . 7 \mathrm { m L } / \mathrm { m } ^ { 3 }$ ）和Nguni牛（ $3 0 . 6 ~ \mathrm { m L } / \mathrm { m } ^ { 3 }$ )。但采食饲用高梁后，娟姗牛CH4排放量与其他牛种间无显著差异。McGinn等[38]利用开路LMD技术在放牧条件下，检测得到牛的CH4排放量平均值为每天141.0g/头，回收率为 $7 7 \%$ 。
+
+综上所述，红外光谱技术能够保证精准的检测数据，满足一些 $\mathrm { C H } _ { 4 }$ 检测的特定要求，而且其对放牧条件下反刍动物CH4排放的检测具有巨大应用潜力。
+
+3红外光谱检测技术与常见检测方法的对比
+
+反刍动物 $\mathrm { C H } _ { 4 }$ 排放的常见检测方法有：呼吸测热室、通风头套法、六氟化硫（ ${ \mathrm { . } } \mathrm { s F } _ { 6 }$ ）法、微气象技术、预测法、体外产气技术等。这些方法存在优势和不足之处，如表2所示。
+
+表2反刍动物CH4排放常见检测方法比较  
+Table 2Comparison of common ruminant methane emission measurements   
+
+<html><body><table><tr><td>方法 Methods</td><td>优势Merits</td><td>不足 Demerits</td><td>参考文献 References</td></tr><tr><td>呼吸测热室</td><td>较准确测量瘤胃和饲槽发酵产生的</td><td>动物采食量比放牧条件下降；限制动</td><td>Hu等[39];</td></tr><tr><td>Respiration chamber</td><td>CH4</td><td>物活动、成本高</td><td>Bhatta 等[40]</td></tr><tr><td>通风头套 Ventilated hood</td><td>成本低</td><td>需训练动物适应头套；限制动物活动</td><td>Bhatta 等[40]</td></tr><tr><td>面罩</td><td>简单、成本低，可间断性对动物CH4</td><td>破坏体增热影响排放；限制动物采食</td><td>Bhatta 等[40]</td></tr><tr><td>Facemask 同位素示踪法</td><td>排放测量</td><td></td><td>Hu 等[39];</td></tr><tr><td>Isotopic tracer method</td><td>可以检测累积CH4排放</td><td>示踪气体可能溢出影响检测</td><td>Harper 等[41]</td></tr><tr><td>六氟化硫法</td><td>放牧动物可自由运动</td><td>六氟化硫是温室气体影响环境；SF6</td><td>Broucek[42]</td></tr><tr><td>SF6 method 预测模型</td><td></td><td>在动物肉与奶中残留</td><td></td></tr><tr><td>Prediction equations</td><td>可结合呼吸代谢室评估</td><td>不适于放牧条件；不能实际检测</td><td>Sejian 等[43]</td></tr><tr><td>微气象技术</td><td>隧道法 不易受风向影响</td><td>不宜评估处理间差异</td><td>Hu 等[39];</td></tr><tr><td>Micrometeorological methods</td><td>顶向下技术 能测量风向、风速</td><td>不宜评估处理间差异；适宜在无雨、 风向单一环境</td><td>Bhatta 等[40];</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>边界层技术</td><td>评估生态足迹内的综合净排 放量，不干扰动物</td><td>易受天气因素影响；不适宜放牧条件</td><td></td></tr><tr><td>体外产气法</td><td></td><td></td><td>易操作、多重复；可作为饲料营养价值难以模拟真实瘤胃环境，发酵时间较！</td><td>Bhatta等[40];</td></tr><tr><td>In vitro gasmethods</td><td></td><td>评估系统</td><td>长会致效率低而影响结果</td><td>Broucek[42]</td></tr></table></body></html>
+
+由表2可见，反刍动物 $\mathrm { C H } _ { 4 }$ 排放常见检测方法均存在优点与不足之处，相比之下，想要选出检测成本低且检测稳定的方法较为困难。而红外光谱检测技术具有检测成本低且检测稳定的特点，它与常见检测方法对比如下。开路呼吸测热室监测反刍动物CH4排放稳定性较好，Hellwing等[44l运用此法检测 $\mathrm { C O } _ { 2 }$ 、CH4排放情况，结果显示CO2和 $\mathrm { C H } _ { 4 }$ 的平均回收率分别为 $101 \%$ 、 $9 9 \%$ 。但开路呼吸测热室检测CH4排放，成本较高。Goopy等[31l比较开路呼吸测热室与GQS法检测绵羊 $\mathrm { C H } _ { 4 }$ 排放量的相关性，发现二者检测结果的相关性系数为0.71，检测过程中，开路呼吸测热室检测重复力（指同一个体某种性状各次测量值之间的组内相关系数）为0.88。Chagunda等[40]在分析奶牛 $\mathrm { C H } _ { 4 }$ 排放时，讨论LMD分析CH4排放与间接开路呼吸测热室间相关性，测试结果正相关性系数为0.80，证明LMD分析CH4排放是完全可行的且检测成本低。
+
+六氟化硫 $\left( \mathrm { S F } _ { 6 } \right)$ 法常检测反刍动物放牧条件下 $\mathrm { C H } _ { 4 }$ 的动态排放。放牧条件下，Hammond等[26]采用SF方法检测荷斯坦奶牛 $\mathrm { C H } _ { 4 }$ 排放量与GF系统检测结果比较，发现 ${ \mathrm { S F } } _ { 6 }$ 法为186.0g/d，GF系统为 $1 6 4 . 0 \mathrm { g / d }$ ，2种方法间的相关性系数为0.60。Dorich等[27]报道GQS和SF6法检测$\mathrm { C H } _ { 4 }$ 排放，发现GQS测量 $\mathrm { C H } _ { 4 }$ 排放量的变异系数较小（ $1 4 . 1 \% \sim 2 2 . 4 \%$ ）， $\mathrm { C H } _ { 4 }$ 排放量与DMI之间的相关系数为0.42；相比之下，SF6法所测得的变异系数为 $1 6 . 0 \% { \sim } 1 1 1 . 0 \%$ ，相应的相关系数仅为0.17。另外，SF是温室气体，其温室效应为 $\mathrm { C O } _ { 2 }$ 的23900倍，大气中衰减周期为3200年，所以SF法存在一定局限性[45]。显然，红外光谱技术在监测放牧条件下反刍动物 $\mathrm { C H } _ { 4 }$ 排放具有一定优势。
+
+# 4红外光谱检测反刍动物CH4排放存在的挑战及展望
+
+目前，红外光谱检测反刍动物CH4排放仍存在挑战。例如：气体检测胶囊、LMD、FTIR和GF系统等尚不能检测气体流量或是暖气时的CH4浓度[34.40,46-47]。在圈舍内，Barrancos等[46]利用开路FTIR奶牛 $\mathrm { C H } _ { 4 }$ 和NH3排放量，结果分别为每年167.0、 $1 . 3 \mathrm { k g / }$ 头，这与《欧洲空气污染排放清单》报道的 $\mathrm { C H } _ { 4 }$ 和 $\mathrm { N H } _ { 3 }$ 分别为每年100.0、 $8 . 7 \mathrm { k g / }$ 头相比出入较大，这可能是因为多种微气象因子（如空气流速、风向)影响了CH4的测量。而多种微气象因子同样也可能对FTIR放牧条件下检测有影响。GF系统的检测条件下，会出现动物头部相对于RFID读取器位置不正确[47等情况。在反演CH4浓度变化测量光谱建模过程中，会出现误差大于特定阈值的情况，误差主要来源于假定温度、湿度、压强等参数为一常量引入的模型误差，这些误差是构建后续测定软件研发前丞待解决的问题[16]。以上这些因素都可能影响CH4排放量检测的准确性。最新研究中，Wu等[48]利用改进的FTIR，分析1种模拟牛呼气、吸气及暖气的装置—-人工参照牛(artificial reference cow,ARC)与奶牛CH4排放，发现ARC系统呼气时 $\mathrm { C H } _ { 4 }$ 排放量与奶牛CH4排放量差值为 $2 . 8 \%$ ，ARC进一步可以开发为更加实用的CH4检测参照体系。根据Ou等[34报道置于胃部的气体检测胶囊检测，则在放牧条件下，可以避免多种微气象因子干扰，且不必考虑动物头部RFID读取器位置不正确等情况，气体检测胶囊检测为从动物体内精确检测CH4排放提供设计与思考。而反演CH4浓度变化过程中，下一步工作着重优化光谱建模过程中的模型输入值，进一步优化模型计算精度。因此，红外光谱技术检测反刍动物 $\mathrm { C H } _ { 4 }$ 排放还有待改进。
+
+今后，红外光谱检测技术在精确反刍动物CH4排放方面具有非常好的应用前景。此外，从整体减排系统角度，Wall等[49提出如果排放可精准测量，直接通过在排放值方面，选育低排放动物品种，可减少每千克动物产品排放量。红外光谱技术的广泛应用有助于检测排放表型等难以测量的不同育种表型值，降低单位产品生态足迹，提高生产水平[50]。
+
+# 5小结
+
+综上所述，红外光谱检测技术对精确检测反刍动物 $\mathrm { C H } _ { 4 }$ 排放具有很大潜力。它具有不干扰动物、实时监测、放牧条件下优势大等特点。当然在实际应用中需要考虑动物呼吸频率、暖气时 $\mathrm { C H } _ { 4 }$ 的平均浓度以及微气象等因子的影响。同时，红外光谱检测技术结合其他 $\mathrm { C H } _ { 4 }$ 检测方法，从基因组关联性等角度筛选低 $\mathrm { C H } _ { 4 }$ 排放性状和动物品种具有指导意义。
+
+参考文献：
+
+[1]USEPA.Overview of non- $\mathrm { C O } _ { 2 }$ greenhouse gas emissions[M]//USEPA.Global anthropogenic non- $\cdot { \mathrm { C O } } _ { 2 }$ greenhouse gas emissions:1990-2020.Washington,D.C.:United States Environmental Protection Agency Press,2006:1.
+
+[2]NIGGLI U,FLIEBBACH A,HEPPERLY P,et al.Low greenhouse gas agriculture:mitigation and adaptation potential of sustainable farming systems[M].Rome: Food and Agriculture Organization of the United Nations,20o9,32-33.
+
+[3] STEINFELD H,GERBER P,WASSENAAR T,et al.Livestock's long shadow:environmental issues and options[M].Rome:Food and Agriculture Organization of the United Nations,2006.   
+[4]JOHNSON K A,JOHNSON D E.Methane emissions from cattle[J].Journal of Animal Science,1995,73(8):2483-2492.   
+[5] CAPPER J L,CADY R A,BAUMAN D E.The environmental impact of dairy production:1944 compared with 2007[J].Journal of Animal Science,2009,87(6):2160-2167.   
+[6]LASSEN J,LOVENDAHL P,MADSEN J.Accuracy of noninvasive breath methane measurements using Fourier transform infrared methods on individual cows[J].Journal of Dairy Science,2012,95(2):890-898.   
+[7]潘小青,刘庆成.红外技术的发展[J].华东地质学院学报,2002,25(1):66-69.   
+[8]李黎,张宇,宋振宇,等.红外光谱技术在气体检测中的应用[J].红外,2007,28(9):29-37.   
+[9] 姜建国,刘盈萱,王源.基于耦合技术的单色光谱吸收法检测甲烷气体浓度[J].激光杂 志,2014,35(11):60-62.   
+[10] 张宇,王一丁,李黎,等.甲烷红外吸收光谱原理与处理技术分析[J].光谱学与光谱分 析,2008,28(11):2515-2519.   
+[11] ISEKI T.A portable remote methane detector using an InGaAsP DFB laser[J].Environmental Geology,2004,46(8):1064-1069.   
+[12] CHAGUNDA M G G.Opportunities and challnges in the use of the laser methane detector to monitor enteric methane emissions from ruminants[J].Animal,2013,7(Suppl.2):394-400.   
+[13]沈振.傅里叶红外光谱分析测定尼龙材料中玻纤含量[J].中国测试技 术,2005,30(5):69-70,88.   
+[14] GRIFFITHA D W T, GALLE B.Flux measurements of $\mathrm { N H } _ { 3 } , \mathrm { N } _ { 2 } \mathrm { O }$ and $\mathrm { C O } _ { 2 }$ using dual beam FTIR spectroscopy and the flux-gradient technique[J].Atmospheric Environment,2000,34(7):1087-1098.   
+[15] GRIFFITHS PR.Fourier transform infrared spectrometry[J].Science,1983,222(4621):297-302.   
+[16] 田园,孙友文,谢品华,等.地基高分辨率傅里叶变换红外光谱反演环境大气中的 $\mathrm { C H } _ { 4 }$ 浓度
+
+变化[J].物理学报,2015,64(7):070704.
+
+[17] 罗达峰,杨建华,仲崇贵.基于红外吸收光谱的瓦斯气体浓度检测技术[J].光谱学与光谱分析,2011,31(2):384-386.
+
+[18] 李黎,王一丁,李树维.红外气体检测技术在天然气安全生产中的应用[J].天然气工业,2011,31(1):96-99,103.
+
+[19] CHILDERS JW,THOMPSON EL,Jr,HARRIS D B,et al.Application of standardized quality control procedures to open-path Fourier transform infrared data collected at a concentrated swine production facility[J].Environmental Science & Technology,2001,35(9):1859-1866.
+
+[20] CHILDERS J W,THOMPSON E L,Jr,HARRIS D B,et al.Multi-pollutant concentration measurements around a concentrated swine production facility using open-path FTIR spectrometry[J].Atmospheric Environment,2001,35(11):1923-1936.
+
+[21]DE LACY COSTELLO B P J,LEDOCHOWSKI M,RATCLIFFE N M.The importance of methane breath testing:a review[J].Journal of Breath Research,2O13,7(2):024001.
+
+[22] DAVIDSON E A,SAVAGE K,BOLSTAD P,et al.Belowground carbon allocation in forests estimated from literfall and IRGA-based soil respiration measurements[J].Agricultural and Forest Mete0rology,2002,113(1/2/3/4):39-51.
+
+[23] CHAGUNDA M G G,ROSS D,ROBERTS D J.On the use of a laser methane detector in dairy cows[J].Computers and Electronics in Agriculture,2009,68(2):157-160.
+
+[24] MADSEN J,BJERG B S,HVELPLUND T,et al.Methane and carbon dioxide ratio in excreted airforquantificationofthemethaneproductionfromruminants[J].Livestock Science,2010,129(1/2/3):223-227.
+
+[25]HUHTANEN P,CABEZAS-GARCIA E H,UTSUMI S,et al.Comparison of methods to determine methane emissions from dairy cows in farm conditions[J].Journal of Dairy Science,2015,98(5):3394-3409.
+
+[26] HAMMOND K J,HUMPHRIES D J,CROMPTON L A,et al.Methane emissions from cattle:estimates from short-term measurements using a GreenFeed system compared with measurements obtained using respiration chambers or sulphur hexafluoride tracer[J].Animal [27] DORICH C D,VARNER R K,PEREIRA A B D,et al.Short communication:use of a portable,automated,open-circuit gas quantification system and the sulfur hexafluoride tracer technique for measuring enteric methane emissions in Holstein cows fed ad libitum or restricted[J].Journal of Dairy Science,2015,98(4):2676-2681.
+
+[28]HAQUE M N,CORNOU C,MADSEN J.Estimation of methane emission using the $\mathrm { C O } _ { 2 }$ method from dairy cows fed concentrate with different carbohydrate compositions in automatic milking system[J].Livestock Science,2014,164:57-66.
+
+[29] GUYADER J,EUGENE M,MEUNIER B,et al.Additive methane-mitigating effect between linseed oil and nitrate fed to cattle[J].Journal of Animal Science,2O15,93(7):3564-3577.
+
+[30] CHAGUNDA M G G,ROSS D,ROOKE J,et al.Measurement of enteric methane from ruminants using a hand-held laser methane detector[J].Acta Agriculturae Scandinavica,Section A: Animal Science,2013,63(2):68-75.
+
+[31] GOOPY J P,WOODGATE R,DONALDSON A,et al.Validation of a short-term methane measurement using portable static chambers to estimate daily methane production in sheep[J].Animal Feed Science and Technology,2011,166-167:219-226.
+
+[32]BICKELL S L,REVELL D K,TOOVEY A F,et al.Feed intake of sheep when allowed ad libitum access to feed in methane respiration chambers[J].Journal of Animal Science,2014,92(5):2259-2264.
+
+[33] RICCI P,CHAGUNDA M G G,ROOKE J,et al.Evaluation of the laser methane detector to estimate methane emissions from ewes and steers[J].Journal of Animal Science,2014,92(11):5239-5250.
+
+[34] OU J Z,YAO C K,ROTBART A,et al.Human intestinal gas measurement systems:in vitro fermentation and gas capsules[J].Trends in Biotechnology,2O15,33(4):208-213.
+
+[35] HILL J,MCSWEENEY C,WRIGHT A D G,et al.Measuring methane production from ruminants[J].Trends in Biotechnology,2016,34(1):26-35.
+
+[36] JONES F M,PHILLIPS F A,NAYLOR T,et al.Methane emissions from grazing Angus beef cows selected fordivergent residualfeed intake[J].Animal Feed Science and Technol0gy,2011,166-167:302-307.
+
+[37] GROBLER S M,SCHOLTZ M M,VAN ROOYEN H,et al.Methane production in different breeds,grazing different pastures or fed a total mixed ration,as measured by a laser methane detector[J].South African Journal of Animal Science,2014,44(Suppl.5):S12-S16.
+
+[38] MCGINN S M,TURNER D,TOMKINS N,et al.Methane emissions from grazing cattle using point-source dispersion[J].Journal of Environmental Quality,2011,40(1):22-27.
+
+[39] HU E Z,BABCOCK E L,BIALKOWSKI S E,et al.Methods and techniques for measuring gasemissions from agricultural and animal feeding operations[J].Critical Reviews in Analytical Chemistry,2014,44(3):200-219.
+
+[40] BHATTAR,ENISHI O.Measurement of methane production from ruminants[J].Asian-Australasian Journal of Animal Sciences,20O7,2O(8):1305-1318.
+
+[41] HARPER L A,DENMEAD O T,FLESCH T K.Micrometeorological techniques for measurement ofentericgreenhouse gasemissions[J].Animal Feed Scienceand Technol0gy,2011,166-167:227-239.
+
+[42] BROUCEK J.Methods of methane measurement in ruminants[J].Slovak Journal of Animal Science,2014,47(1):51-60.
+
+[43] SEJIAN V,LAL R,LAKRITZ J,et al.Measurement and prediction of enteric methane emission[J].International Journal of Biometeorology,2011,55(1):1-16.
+
+[44] HELLWING A L F,LUND P,WEISBJERG M R,et al.Technical note:test of a low-cost and animal-friendly system for measuring methane emissions from dairy cows[J].Journal of Dairy Science,2012,95(10):6077-6085.
+
+[45] CHAGUNDA M G G,YAN T.Do methane measurements from a laser detector and an indirect open-circuit respiration calorimetric chamber agree sufficiently closely?[J].Animal Feed Science and Technology,2011,165(1/2):8-14.
+
+[46]BARRANCOS J,BRIZ S,NOLASCO D,et al.A new method for estimating greenhouse gases and ammonia emissions from livestock buildings[J].Atmospheric
+
+Environment,2013,74:10-17.
+
+[47]HEGARTY R S.Applicability of short-term emission measurements for on-farm quantification of enteric methane[J].Animal,2013,7(Suppl.2):401-408.   
+[48] WU L S,KOERKAMP P W G G,OGINK N W M.Design and test of an artificial reference cow to simulate methane release through exhalation[J].Biosystems Engineering,2015,136:39-50.   
+[49] WALL E,SIMM G,MORAN D.Developing breeding schemes to assst mitigation of greenhouse gas emissions[J].Animal,2010,4(3):366-376.   
+[50] BOICHARD D,BROCHARD M.New phenotypes for new breeding goals in dairy   
+cattle[J].Animal,2012,6(4):544-550. Methane Emission of Ruminants determined by Infrared Spectroscopy WANG Weiwei1.2ZHONG Chongliang1.2MI Jiandui2.3LONG Ruijun2.3\* (1. College of Pastoral Agriculture Science and Technology of Lanzhou University,Lanzhou   
+730000, China; 2. International Centre for Tibetan Ecosystem Management of Lanzhou University, Lanzhou 730ooo, China; 3. College of Life Science of Lanzhou University, Lanzhou 730000, China)
+
+Abstract: So far an accuracy system for detecting methane emission of ruminants has not been established, because the common measurements need more improvements,and the detector is easily affected by some environmental factors,thus hard to guarantee its sensitivity and accuracy. Infrared spectroscopy techniques have been largely applied in detecting methane emission of ruminants,and some new techniques based on Infrared spectroscopy, such as laser methane detector (LMD),Fourier transform infrared spectroscopy detector (FTIR), GreenFeed (GF) system and portable auto-open circuit gas quantification system (GQS),are also widely used. Compared with common measurements, infrared spectroscopy techniques have convinces in monitoring enteric methane emission. This paper, based on the existing references,summarized the research status and prospect applications of infrared spectroscopy in detecting methane emission of
+
+ruminants,and aimed to provide further references for precisely monitor methane emission of ruminants.   
+Key words: ruminant; methane emission; infrared spectroscopy

@@ -1,0 +1,168 @@
+1 血氨对动物健康的影响
+
+2 安亚南」吴　飞」　郭志敏」王春平」　张海燕²　何金明（1.亚太兴牧（北京）科技有限公司，北京100193；2.国家饲料工程中心北京100193：3.
+
+林州亚太兴牧科技有限公司，林州456550）
+
+摘要：机体各组织氨基酸代谢过程中产生的氨及肠道微生物分解生成的氨吸收均可进入血液，形成血氨。血氨浓度过高会严重危害动物健康，已逐渐成为畜牧业关注的问题。本文综述了血氨的代谢特性及对动物健康的影响，以为畜牧业实际生产中血氨的检测提供数据参考。
+
+关键词：血氨；血氨浓度；预防措施中图分类号：S828 文献标识码：A 文章编号
+
+血氨主要来源于机体或饲粮蛋白质和氨基酸经脱氨基作用产生的氨，其主要去路是运送到肝脏中通过尿素循环合成尿素，尿素运送至肾脏后随尿液排出体外。血氨来源的增加或去路的减少都会引起血氨浓度的增高。高血氨对动物机体产生诸多危害，血氨浓度变化已经逐渐引起大家的关注。本文将从血氨的代谢过程、不同动物血氨浓度范围、高血氨产生的可能原因和影响以及高血氨的预防措施等方面进行综述，为实际生产中高血氨的防控提供参考。
+
+1血氨的代谢
+
+血氨的来源包括内源性和外源性，内源性氨主要来源于机体氨基酸的转氨基和脱氨基作用。嘌呤、嘧啶的分解及腺苷酸脱氨基作用也可生成少量氨[1l，肾远曲小管上皮细胞的的谷氨酰胺酶催化谷氨酰胺也会生成一定量的氨。外源性氨主要是消化道中未被消化吸收的饲粮蛋白质和氨基酸，在消化道细菌的作用下释放出的氨，经肠道吸收进入血液循环。对于反刍动物，饲粮中的非蛋白氮，如氨化秸秆和尿素，可在瘤胃微生物脲酶的作用下快速分解，经瘤胃壁吸收后进去血液。
+
+一般来说，吸收的氨进入消化道外周静脉血液，与内脏器官外周静脉血液汇聚后经血液循环运输到门静脉，最终流入肝脏[2]。此外，其他组织（如脑组织）产生的氨还可与谷氨酸在谷氨酰胺合成酶的作用下生成无毒的谷氨酰胺，以谷氨酰胺的形式运送至肾脏代谢[3]。血氨的去路主要是在肝脏中经尿素循环生成无毒的尿素，经血液循环运送至肾脏随尿液排出。
+
+# 2动物血氨浓度
+
+收稿日期：2017-08-17作者简介：安亚南（1988-)，女，河南开封人，硕士，从事动物营养与饲料科学。E-mail:925907035@qq.com
+
+目前为止，关于人血氨浓度的研究较多。研究表明，健康成年人静脉血氨浓度为30μmol/L，一般不超过 $5 9 \ \mu \mathrm { m o l / L } ^ { [ 4 ] }$ 。下文是目前已发表文献中报道的血氨浓度值，并按照不同动物不同部位进行了统计整理，以便于后期对血氨的进一步研究。
+
+# 2.1 反刍动物
+
+如表1所示，相同动物的不同部位血氨浓度差别较大。对于羊动脉、颈静脉、门静脉和肝静脉这4个部位，肝静脉的血氨浓度最低，门静脉最高，而动脉和颈静脉的血氨浓度处于中间值。这可能是由于门静脉汇聚了来自消化道和外周组织中的血氨，并将血氨运送至肝脏。进入肝脏后，血氨进入肝细胞，经过尿素循环转化为无毒的尿素。根据表1中羊的统计数据，羊的动脉血氨的浓度范围为 $4 0 { \sim } 1 5 0 \ \mathrm { \mu m o l / L }$ ，颈静脉血氨浓度范围为 $4 0 { \sim } 1 1 0 \ \mathrm { \mu m o l / L }$ ，门静脉血氨浓度范围为 $2 0 0 { \sim } 5 0 0 \ \mathrm { \mu m o l / L }$ ，肝静脉血氨浓度范围为 $3 0 { \sim } 1 3 5 \ \mathrm { \textmu m o l { } / L } .$ 0奶牛和肉牛血氨浓度的测定通常采集颈静脉和尾静脉血液，表1列出了肉牛及奶牛干奶期和泌乳期的血氨浓度。由表1可知，泌乳高峰期奶牛的血氨浓度最高，泌乳期奶牛的血氨浓度高于干奶期和未配种奶牛。荷斯坦公牛和育肥牛的血氨浓度在 $1 0 0 \mathrm { \ : \mu m o l / L }$ 以内。给奶牛饲喂尿素等非蛋白氮时，其血氨浓度快速上升。Davidovich 等[5]给腌公牛在瘤胃中直接添加尿素 $0 . 5 ~ \mathrm { g / k g ~ B W }$ ，胃细菌脲酶可将尿素快速水解为二氧化碳和氨， $5 \mathrm { m i n }$ 内颈动脉血氨浓度由 $7 6 . 5 ~ \mathrm { \textmu m o l / L }$ 上升至 $1 0 0 . 0 ~ \mathrm { \textmu m o l / L }$ ，颈静脉血氨浓度由 $6 4 . 7 ~ \mathrm { \textmu m o l / L }$ 迅速上升至252.9μmol/L。
+
+# 表1反刍动物不同生理阶段不同部位的血氨浓度
+
+Table 1 Blood ammonia concentration of different sites in ruminant animals from different
+
+46 physiology phases μmol/L
+
+种属
+
+# 采样部位 Blood collecting sites
+
+颈静脉 肝静脉 文献来源   
+Speci 生理阶段 Physiology phases 动脉 尾静脉 门静脉 Jugular Hepatic References   
+es Artery Tail vein Portal vein vein vein
+
+羊 成年羊 Adult sheep 40.0\~100.0 40\~100.0 200.0\~500.0 Lewis 等[6]
+
+<html><body><table><tr><td>育成羊 Growing sheep</td><td>84.3</td><td></td><td>467.0</td><td>56.5</td><td>Lobley等[7]</td></tr><tr><td>公羔羊 Male lambs</td><td>83.0</td><td></td><td>369.0</td><td>79.0</td><td>Milano 等[8]</td></tr><tr><td>羔羊 Lambs</td><td>63.0</td><td></td><td>343.0</td><td>30.0</td><td>Milano 等[9]</td></tr><tr><td>公羊 Rams</td><td></td><td>50.0~110.0</td><td></td><td></td><td>Loste 等[10]</td></tr><tr><td>奶山羊 Dairy goat</td><td>150.0</td><td></td><td>295.0</td><td>135.0</td><td>张桂芳等[]</td></tr><tr><td>黄体期湖羊 Hu sheep</td><td></td><td>99.6~101.2</td><td></td><td></td><td>应诗家等[12]</td></tr><tr><td>during luteal phase</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>母山羊 Ewe</td><td></td><td>91.4~106.7</td><td></td><td></td><td>臧莹安等[13]</td></tr><tr><td>干奶期奶牛 Dry cows</td><td></td><td>73.5~123.5</td><td></td><td></td><td>Hwang 等[14]</td></tr><tr><td>泌乳期奶牛 Lactating cows</td><td></td><td>88.2~155.5</td><td></td><td></td><td></td></tr><tr><td>高产期奶牛 High-producing cows</td><td></td><td>256.5~297.6</td><td></td><td></td><td>Claypool 等[15]</td></tr><tr><td>泌乳中期奶牛</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mid-lactating cows</td><td></td><td>140.8</td><td></td><td></td><td>彭春雨等[16]</td></tr><tr><td>泌乳中后期奶牛</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Late-lactating dairy cows</td><td></td><td>55.9</td><td></td><td></td><td>邓丽青等[17]</td></tr><tr><td>干奶期奶牛 Dry cows</td><td></td><td>26.5~34.0</td><td></td><td></td><td>Piccione 等[18]</td></tr><tr><td>未配种小母牛 Heifers</td><td></td><td>9.3~52.1</td><td></td><td></td><td>Sinclair 等[19]</td></tr><tr><td>安格斯公牛 Steers</td><td></td><td>75.0</td><td></td><td></td><td>Huntington 等[20]</td></tr><tr><td>生长育肥牛 Growing</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>-finishing cattle</td><td></td><td>43.5</td><td></td><td></td><td>江兰等[21]</td></tr></table></body></html>
+
+# 2.2 家禽
+
+目前，家禽上血氨的研究较少，且主要集中在肉鸡上。表2为肉鸡不同日龄时的血氨浓度，由表可知，0\~3 周龄肉鸡的血氨浓度范围在 $8 7 . 9 { \sim } 1 8 8 . 0 \ \mathrm { \textmu m o l / L }$ ， $4 { \sim } 6$ 周龄肉鸡的血氨浓度范围在 $1 2 1 . 7 { \sim } 2 1 1 . 0 \ \mathrm { \textmu m o l / L }$ 。查翘楚等[22]测定了19 周龄蛋鸡的血氨浓度，其平均值在133.8μmol/L 。
+
+# 表2不同生长阶段肉鸡的血氨浓度
+
+# Table 2Blood ammonia concentration of broiler chicken from different growth
+
+55 phases
+
+采血部位 Blood 周龄 Weeks of age 文献来源   
+项目Items collecting sites 0\~3 4\~6 References   
+肉鸡 Broiler 心脏Heart 98.3 164.5 佟建明等[23]   
+肉鸡 Broiler 心脏Heart 188.0 211.0 孙得发等[24]   
+肉公鸡 Cock meat 87.9 150.4 宋弋等[25]   
+肉鸡Broiler 翅静脉Wing vein 121.7 程时军等[26]
+
+2.3猪
+
+对于单胃动物猪来说，血氨是一个重要的血液生化指标。表3列出了猪不同阶段不同部位的血氨浓度。总体来说，猪门静脉血氨浓度要高于动脉血氨浓度，这与反刍动物的血氨分布特点相似；另外，相同部位的血氨浓度相差较大，这可能是由于饲粮组成不同造成的。关于猪血氨浓度的变化还有待于进一步的研究。
+
+# 表3不同阶段猪的不同部位血氨浓度
+
+Table 3Blood ammonia concentration of diferent sites in pigs from different physiology phases
+
+<html><body><table><tr><td colspan="5">μmol/L</td></tr><tr><td colspan="5">采样部位 Blood collecting sites</td></tr><tr><td rowspan="3">生理阶段Physiology phases</td><td>耳缘静脉</td><td>前腔静脉 门静脉</td><td>动脉</td><td>文献来源</td></tr><tr><td>Ear vein</td><td>Anterior vena Portal vein</td><td>Artery</td><td>References</td></tr><tr><td></td><td>cava</td><td></td><td></td></tr><tr><td>断奶仔猪 Weanling pigs</td><td></td><td></td><td>283.0</td><td>118.0 许金华等[27]</td></tr><tr><td>断奶仔猪 Weanling pigs</td><td></td><td>48.2</td><td></td><td>孙召君等[28]</td></tr><tr><td>断奶仔猪 Weanling pigs</td><td></td><td>208.1</td><td></td><td>汪澎[29]</td></tr><tr><td>生长猪 Growing pigs</td><td></td><td>49.7</td><td></td><td>陈楠[30]</td></tr><tr><td>生长猪 Growing pigs</td><td></td><td>84.2</td><td></td><td>孙玉丽[31]</td></tr><tr><td>生长猪 Growing pigs</td><td></td><td></td><td>200.0</td><td>黄飞若[32]</td></tr></table></body></html>
+
+<html><body><table><tr><td>妊娠前期母猪Early</td><td>212.4</td><td></td><td>江雪梅[33]</td></tr><tr><td>gestation sows</td><td></td><td></td><td></td></tr><tr><td>妊娠中期母猪</td><td></td><td></td><td>刘俊锋等[34]</td></tr><tr><td></td><td></td><td>85.6</td><td></td></tr><tr><td>Mid-gestating sows</td><td></td><td></td><td></td></tr><tr><td>妊娠中期母猪</td><td></td><td></td><td></td></tr><tr><td>267.7</td><td></td><td></td><td>江雪梅[33]</td></tr><tr><td>Mid-gestating sows</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>妊娠后期母猪Late-</td><td></td><td></td><td></td></tr><tr><td>235.8</td><td></td><td></td><td>江雪梅[33]</td></tr><tr><td>gestating sows</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>妊娠后期母猪 Late-</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>147.3</td><td></td><td></td><td>刘星达等[35]</td></tr><tr><td>gestating sows</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>泌乳母猪 Lactating sows 76.6</td><td></td><td></td><td>钱瑛[36]</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>环江香生长猪Huanjiang</td><td></td><td></td><td></td></tr><tr><td></td><td>88.0</td><td></td><td>周笑型等[37]</td></tr><tr><td>mini-pigs</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>环江香妊娠猪Huanjiang</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>98.2 查伟[38]</td></tr><tr><td>gestating mini-pigs</td><td></td><td></td><td></td></tr></table></body></html>
+
+3高血氨形成的可能原因及其危害
+
+对于人来说，血氨浓度达到 $1 0 0 \mathrm { \textmu m o l / L }$ 预示着体内氮代谢发生紊乱，超过 $1 0 0 0 \mu \mathrm { m o l / L }$ 便会出现急性高血氨症[4]。由于对血氨方面的研究较少，动物高血氨没有明确的定义，本文主要是指动物出现非正常状况下的血氨浓度。
+
+# 3.1 高血氨形成的原因
+
+人高血氨症发生的原因主要是由遗传因素或者尿素循环中间酶缺失引起的尿素循环障碍，如N-乙酰谷氨酸合成酶基因缺陷和鸟氨酸转氨甲酰酶缺失[39]。而动物高血氨的产生除上述遗传因素外，还包括肝脏或肾脏功能受损，饲粮蛋白质组成不合理及环境中氨气浓度过高等。肠道吸收的氨占到进入肝门静脉的总氨的 $2 7 \% { \sim } 5 1 \% ^ { [ 4 0 ] }$ ，当动物机体肝脏功能受损时，肝脏合成尿素清除氨的能力降低，以至于来自肠道的氨不经肝脏解毒便直接进入体循环[3],造成血氨浓度升高。动物肾脏功能发生障碍，机体代谢产物不能及时排出，使尿素氮的浓度急剧升高，尿素可通入肠腔和胃肠道，在肠道细菌尿素酶的作用下分解产生氨，氨吸收后使
+
+得血氨浓度继续升高[41]。
+
+对于单胃动物和禽类来说，当饲粮蛋白质组成不合理或蛋白质水平较高时，多余的氨基酸会在肝脏经脱氨转化为糖和脂肪，同时生成氨。对于家禽来说，因体内尿素循环的缺失，其体内氨只能通过合成尿酸排出体外。血液中尿酸过多时，易以尿酸盐沉淀在关节、胸腹腔及各种脏器表面而引起家禽痛风症。而家禽的饲养密度较大，舍内有害气体特别是氨气很容易聚集，危害家禽健康。宋弋等[25]发现，随着环境氨气浓度的增加，肉鸡体内血氨浓度逐渐升高，红细胞数量、红细胞压积和红细胞平均体积也有上升趋势，舍内高浓度氨气（80mg/kg）还有可能诱发肉鸡腹水症。
+
+反刍动物饲粮中常加入非蛋白氮来供给瘤胄微生物合成蛋白质所需的氮源，从而达到补充蛋白质的效果。据文献报道，尿素一般可以代替反刍动物饲粮中 $30 \%$ 的粗蛋白质，但饲粮中有足量的粗蛋白质时，添加尿素有可能引起氨中毒[42]。另外，尿素在反刍动物瘤胃中短时间就能全部降解，产生大量极易吸收的氨，瘤胃微生物不能迅速利用氨，从而使得大量氨通过瘤胃壁进入血液。研究发现，给肉牛肠系膜血管补充氯化铵（ $\mathrm { \Delta N H _ { 4 } C l } \dot { }$ ， $3 \mathrm { ~ h ~ }$ 后观测到肝静脉的血氨浓度急剧升高[43]，而给健康公牛添加尿素 $0 . 5 ~ \mathrm { g / k g }$ BW， $4 1 \mathrm { m i n }$ 后血氨浓度达到了 $7 8 2 . 0 \ \mu \mathrm { m o l / L ^ { [ 4 4 - 4 5 ] } } _ { \mathrm { { c } } }$
+
+# 3.2 高浓度血氨的危害
+
+血氨浓度过高，特别是动脉血氨浓度过高时，脑组织对氨的摄入量大大增加，大量氨进入脑组织，氨与大量 $\mathfrak { a }$ -酮戊二酸结合生成谷氨酸，谷氨酸与氨进一步结合成谷氨酰胺，同时消耗了大量ATP。氨过度消耗了脑组织中 $\mathfrak { a }$ -酮戊二酸，导致三羧酸循环减慢，加上前期ATP的大量消耗，易使脑细胞供能不足，脑细胞的正常生理功能受到影响，严重时可能会发生昏迷，甚至死亡。高浓度血氨还可改变脑内神经递质（如乙酰胆碱、 $\gamma \cdot$ 氨基丁酸、5-羟色胺）的浓度，干扰神经递质的正常传递，使中枢神经系统功能紊乱。
+
+饲粮蛋白质组成不合理或蛋白质水平较高的饲粮会使动物肝脏的脱氨基作用和肾脏的排泄增加，动物的血氨浓度明显增加，长期采食易引起肝脏和肾脏方面的疾病。给杂交公牛饲喂尿素 $0 . 5 ~ \mathrm { g / k g ~ B W }$ ，瘤胃细菌脲酶的快速水解作用使血氨浓度快速上升，在颈静脉血氨浓度分别为 $5 5 8 . 8 ~ \mu \mathrm { m o l / L }$ 时，公牛出现肌肉抽搐等血氨中毒情况，当血氨浓度达到1632$\mu \mathrm { m o l / L }$ 时，公牛出现昏迷甚至室息的中毒症状[44]。
+
+长期处于低氨气浓度的畜舍中，动物也可能发生氨气慢性中毒，其表现为抵抗力下降、发病率升高，同时还伴随采食量和日增重及繁殖性能的降低。一般来说，家禽对畜舍环境中的氨气最为敏感，单胄动物比反刍动物更为敏感。家禽体内氨和哺乳动物相似，来源于氨基酸的脱氨基作用、嘌呤和嘧啶的脱氨基作用及消化道吸收的氨。目前家禽体内未发现尿素循环，体内氨不易排出，所以血氨浓度不宜过高。饲粮蛋白质或高氨气环境引起血氨浓度过高，会影响脑神经细胞和肌肉细胞的新陈代谢，使肉鸡采食量和日增重均明显下降[46]。
+
+# 4高血氨的预防措施
+
+根据不同阶段动物的营养需要合理配制饲粮，提高蛋白质利用率，增加饲粮氮的吸收，以减少机体不合理的蛋白质和氨基酸的脱氨作用，从源头上减少氨的产生。目前，应用低蛋白质平衡氨基酸饲粮已成为提高饲粮蛋白质利用率的一种趋势。鲁宁等[47]对比了蛋白质水平为14%的低蛋白质氨基酸平衡饲粮与蛋白质水平为 $1 8 \%$ 的正常饲粮对 $1 5 \mathrm { k g }$ 去势公猪的饲喂效果，发现低蛋白质氨基酸平衡饲粮并不影响生长猪的生长性能，同时尿氮和粪氮的排泄量均显著降低。另外，在饲粮中添加促进尿素循环的添加剂[如N-氨甲酰谷氨酸（NCG）]也可以提高氨类物质的转化率，提高饲粮蛋白质的利用率。NCG 是N-乙酰谷氨酸（NAG)的结构类似物，可激活氨甲酰磷酸合成酶-I，促进尿素循环的进行以加速氨的转化。刘星达等[35]在母猪饲粮中添加 $0 . 0 8 \% \mathrm { { N C G } }$ ，发现母猪血液尿素氮和血氨浓度均降低，同时饲粮氮的利用率提高。
+
+对于反刍动物，在饲喂尿素时，一定要与其他饲料原料拌匀，同时供给足量的易溶性碳水化合物，以便于给瘤胃微生物提供所必需的能源和碳架。此外，3月龄以下犊牛，其瘤胃还未发育完善，尿素也起不到优质蛋白质的效果，所以不建议使用。
+
+大部分家畜生活在畜舍内，畜舍内动物粪尿及垫料经微生物发酵分解产生氨气，舍内外交换不畅，畜舍内便会聚集大量的氨气。可以清除畜舍内动物的粪便，从根源上减少氨气的产生；也可以增加通风频率，排出畜舍内氨气来减少氨气浓度。有研究表明，对于鸡舍内氨气浓度的安全范围，0\~3周龄肉鸡舍内氨气浓度应不超过 $1 3 \mathrm { m g / k g }$ ， $^ { 4 \sim 6 }$ 周龄肉鸡则不应超过 $2 0 \mathrm { m g / k g ^ { [ 2 8 ] } }$ 。畜牧场环境质量标准则规定，畜舍空气中氨的浓度不高于 $2 0 . 0 \mathrm { m g } / \mathrm { m } ^ { 3 }$ ，鸡舍中氨气浓度不高于 $1 5 . 0 \mathrm { m g / m } ^ { 3 [ 4 8 ] }$ 。
+
+除非动物出现血氨中毒症状，血氨浓度的高低不易从直观上看出。从高血氨的危害上说，可以通过血氨分析仪监测血氨浓度的变化以采取必要的措施，以避免出现动物生产性能降低造成的经济损失。
+
+5小结
+
+随着畜牧业大规模和高密度的集约化养殖模式的进行，血氨浓度的变化逐渐成为人们关注动物健康状况的一项重要指标。及时准确地了解动物血氨浓度的变化有助于提前预判饲粮配制是否合理、畜舍环境是否适宜以及动物自身的健康状况，从而针对性地采取防控措施，更好地促进动物的健康成长，提高养殖者的经济效益。
+
+参考文献：
+
+[1] 罗献梅,甘玲.动物生物化学[M].重庆:西南师范大学出版社,2015:172-173.   
+[2] KIRK E.Amino acid and ammonia metabolism in liver diseases[J].JAMA,1936,107(25):2079.   
+[3] 汤其群.生物化学与分子生物学[M].上海:复旦大学出版社,2015:174-175.   
+[4] BARSOTTIRJ.Measurementofammoniainblood[J].TheJournal of Pediatrics[J],2001,138(1):S11-S20.   
+[5] DAVIDOVICH A,BARTLEY E E,CHAPMAN T E,et al.Ammonia toxicity in cattle. II .Changes in carotid and jugular blood components associated with toxicity[J].Journal of Animal Science,1977,44(4):702-709.   
+[6] LEWIS D,HILL K J,ANNISON E F.Studies on the portal blood of sheep.1.Absorption of ammonia from the rumen of the sheep[J].Biochemical Journal,1957,66(4):587-592.   
+[7] LOBLEY G E,WEIJS P J M,CONNELL A,et al.The fate of absorbed and exogenous ammonia as influenced by forage or forage-concentrate diets in growing sheep[J].British Journal of Nutrition,1996,76(2):231-248.   
+[8] MILANO G D,LOBLEY G E.Liver nitrogen movements during short-term infusion of high levels of ammonia into the mesenteric vein ofsheep[J].BritishJournal of Nutrition,2001,86(4):507-513.   
+[9] MILANO G D,HOTSTON-MOORE A,LOBLEY G E.Influence of hepatic ammonia removal on ureagenesis,amino acid utilization and energy metabolism in the ovine liver[J].British Journal of Nutrition,2000,83(3):307-315.   
+[10]LOSTE A,RAMOS J J,GARCfA L,et al.High prevalence of ulcerative posthitis in rasa aragonesa ramsassociatedwitha legume-rich diet[J].Transboundaryand Emerging Diseases,2005,52(4):176-179.   
+[11]张桂芳,石蕊,姜发彬,等.不同精粗比日粮对泌乳奶山羊肝脏氨基酸代谢和产奶性能的 影响[J].南京农业大学学报,2013,36(6):73-79.   
+[12]应诗家,聂海涛,张国敏,等.不同营养水平对湖羊黄体期血液理化指标及卵泡发育的影 响[J].中国农业科学,2011,45(8):1606-1612.   
+[13]臧莹安,王艳玲,夏艳勋.不同来源的日粮蛋白质对山羊血清胃泌素水平的影响[J].中国 草食动物,2002,22(3):6-9.   
+[14]HWANG S Y,LEE M J,PEH H C.Diurnal variations in milk and blood urea nitrogen and whole blood ammonia nitrogen in dairy cows[J].Asian-Australasian Journal of Animal Sciences,2001,14(12):1683-1689.   
+[15]CLAYPOOL D W,PANGBOAN M C,ADAMS H P.Effect on dietary protein on high-producing dairy cows in early lactation1[J].Journal of Dairy Science,1980,63(5):833-837. [16]彭春雨,孟庆翔,任丽萍,等.植物提取物对奶牛产奶性能和血液指标的影响[J].饲料研 究,2011(7):8-10.   
+[17]邓丽青.糊化淀粉尿素质量评价及其对奶牛氮代谢影响的研究[D].博士学位论文.北京: 中国农业科学院,2011.   
+[18] PICCIONE G,GRASSO F,FAZIO F,et al.Influence of different schedules of feeding on dailyrhythms of blood urea and ammonia concentration in cows[J].Biological Rhythm Research,2007,38(2):133-139.   
+[19]SINCLAIR K D,KURAN M,GEBBIE F E,et al.Nitrogen metabolism and fertility in cattle: I .Development of oocytes recovered from heifers offered diets differing in their rate of nitrogen release in the rumen[J].Journal of Animal Science,2000,78(10):2670-2680.   
+[20]HUNTINGTON G B,HARMON D L,KRISTENSEN N B,et al.Effects of a sloW-release urea source on absorption of ammonia and endogenous production of urea by cattle[J].Animal Feed Science and Technology,2006,130(3):225-241   
+[21] 江兰,孟庆翔,任丽萍,等.饲粮尿素添加水平对生长育肥牛生长性能和血液生化指标的 影响[J].中国农业科学,2012,45(4):761-767.   
+[22]查翘楚,张力凡,韩超,等.不同浓度枯草芽孢杆菌对蛋鸡血液生化指标的影响[J].中国饲 料,2017(6):15-18.   
+[23]佟建明,萨仁娜.持续、低剂量金霉素对肉仔鸡肠道微生物、血氨、尿酸和生产性能的 影响[J].畜牧兽医学报,2001,32(5):403-409.   
+[24]孙得发,徐秀容,张宏福,等.脲酶抑制剂对肉仔鸡代谢氨浓度的影响[J].西北农林科技大 学学报:自然科学版,2002,30(2):59-62.   
+[25]　宋弋,王忠,姚中磊,等.氨气对肉鸡生产性能、血氨和尿酸的影响研究[J].中国家 禽,2008,30(13):10-12,16.   
+[26]程时军,马立保,张伟.溶菌酶对肉鸡肠黏膜形态、微生物数量及血氨浓度的影响[J].饲料 工业,2009,30(20):13-16.   
+[27]许金华,谭翔文,印遇龙,等.果胶对猪血氨的影响[J].南华大学学报·医学 版,2005,33(2):188-191.   
+[28]孙召君.瓜氨酸添加水平对哺乳仔猪生长性能及相关理化指标的影响[D].硕士学位论 文.保定:河北农业大学,2012.   
+[29]汪澎.破壁全酵母粉完全替代血浆蛋白在仔猪教槽料中的应用评价研究[D].硕士学位 论文.长沙:湖南农业大学,2015.   
+[30]陈楠.N-氨甲酰谷氨酸对哺乳仔猪生长性能及相关理化指标的影响[D].硕士学位论文. 保定:河北农业大学,2012.   
+[31]孙玉丽.L-亮氨酸对新生哺乳仔猪肠道发育及氨基酸转运影响的研究[D].博士学位论文. 北京:中国农业大学,2015.   
+[32]黄飞若.猪营养代谢与表观遗传学[M].北京:化学工业出版社,2016.   
+[33] 江雪梅.饲粮添加 $L$ -精氨酸或N-氨甲酰谷氨酸对母猪繁殖性能及血液参数的影响[D].硕 士学位论文.雅安:四川农业大学,2011.   
+[34]刘俊锋,吴琛,孔祥峰,等.精氨酸对妊娠环江香猪胎儿生长发育的影响[J].中国农业科 学,2011,44(5):1040-1045.   
+[35]刘星达,吴信,印遇龙,等.妊娠后期日粮中添加不同水平N-氨甲酰谷氨酸对母猪繁殖性 能的影响[J].畜牧兽医学报,2011,42(11):1550-1555.   
+[36]　钱瑛.不同叶酸水平对母猪泌乳性能影响的研究[D].硕士学位论文.雅安:四川农业大 学,2007.   
+[37]周笑犁,印遇龙,孔祥峰,等.N-氨甲酰谷氨酸对环江香猪生长性能、营养物质消化率及血 浆游离氨基酸含量的影响[J].动物营养学报,2011,23(11):1970-1975.   
+[38]查伟.饲粮添加脯氨酸对环江香猪繁殖性能及其后代生长发育的影响[D].硕士学位论 文.南昌:江西农业大学,2015.   
+[39] ACIKALIN A,DISEL N R,DIREK E C,et al.A rare cause of postpartum coma:isolated hyperammonemia due to urea cycle disorder[J].The American Journal of Emergency Medicine,2016,34(7):1324.e3-1324.e4.   
+[40] PARKER D S,LOMAX M A,SEAL C J,et al.Metabolic implications of ammonia production in the ruminant[J].Proceedings of the Nutrition Society,1995,54(2):549-563.   
+[41]林永焕.实用临床危重症诊疗学[M].北京:中国医药科技出版社,2000:522-523.   
+[42]冯定远.饲料加工及检测技术[M].北京:中国农业出版社,2012:105-106.   
+[43] WILTON J C,GILL M,LOMAX M A.Uptake of ammonia across the liver of forage-fed cattle[J].Proceedings of the Nutrition Society,1988,47:153A.   
+[44]ANTONELLI A C,TORRES G A S,SOARES P C,et al.Ammonia poisoning causes muscular but not liver damage in cattle[J].Arquivo Brasileiro de Medicina Veterinaria e Zootecnia,2007,59(1):8-13.   
+[45]ANTONELLI A C,MORI C S,SOARES P C,et al.Experimental ammonia poisoning in cattle fed extruded or prilled urea:clinical findings[J].Brazilian Journal of Veterinary Research and Animal Science,2004,41(1):67-74.   
+[46]蔡治华.氨对肉鸡增重的影响[J].安徽科技学院学报,2007,21(4):8-9.   
+[47]鲁宁,易学武,谯仕彦.低蛋白日粮下赖氨酸水平对生长猪氮平衡和生长性能的影响[J]. 中国畜牧杂志,2011,47(5):34 - 38.
+
+中国标准出版社,1999. Effects of Blood Ammonia on Animals   
+AN Yanan1WUFei1 GUO Zhimin1WANG Chunping1ZHANG Haiyan² He Jinming³ (1. Beijing Animore Science &Technology Co.,Ltd., Beijing 100193, China; 2. National Feed Engineering Technology Research Center,Beijing l00193, China; 3.Linzhou Animore Science &Technology Co., Ltd., Linzhou 456550, China)   
+Abstract: Ammonia is produced from metabolism of different tissues’ amino acids and converted   
+of gastrointestinal microbiological degradation， following absorbed into blood. High blood   
+ammonia severely impairs animal health and gradually becomes paid close atention by animal   
+husbandry.This review summarized metabolic characteristics and the effect on animal of blood   
+ammonia, and provided data reference for blood ammonia detection in husbandry production.   
+Key words: blood ammonia; blood ammonia concentration; precautionary measures

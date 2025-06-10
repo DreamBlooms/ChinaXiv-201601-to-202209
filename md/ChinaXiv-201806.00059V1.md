@@ -1,0 +1,204 @@
+# DOI: 10.5846/stxb201708141462
+
+纪宇,张秋芳，周嘉聪,游章活,徐鹏程,林伟盛，陈岳民,杨玉盛.亚热带地区竞争型和忍耐型树种叶片可溶性有机质数量及光谱学特征.生态 学报,2018,38(11):3998-4007. JiYH,ZhagQJZcso fromleavesdtoialaic.
+
+# 亚热带地区竞争型和忍耐型树种叶片可溶性有机质数量及光谱学特征 C
+
+纪宇1,²，张秋芳1,²，周嘉聪1,²，游章1,²，徐鹏程1,²，林伟盛1,²，陈岳民1,2，\*， 杨玉盛1,2 7
+
+1福建师范大学地理科学学院，福州350007  
+2 湿润亚热带山地生态国家重点实验室培育基地，福州350007
+
+摘要：气候变化下,不同生态策略的树种对环境变化有着不同的响应能力,影响其叶片淋溶产生的 DOM（Disslved organicmatter)的数量和质量,进而影响土壤的养分循环。通过探究亚热带地区不同生态策略树种叶片 DOM数量及光谱学特征的差异,评估不同数量和结构特征DOM输人到土壤对养分循环的影响。本研究选取6种树种鲜叶进行浸提,其中竞争型（Compeitive，C）和忍耐型（Stresstolerant，S）各3种（树参（Dendropanax dentiger），黄绒润楠（Machilus grijsi），黄牛奶树（Symplocoscochinchinensis（Lour.）），,细柄阿丁枫（Altingiagracilipes），丝栗（Castanopsisfargesii）和罗浮栲（Castanopsisfaberi）。通过溶解性有机碳（Dissolved organc carbon，DOC）溶解性有机氮（Disslved organic nitrogen，DON)表征 DOM 的数量特征,通过紫外吸收值（Special Ultraviolet-Visible Absorption，SUVA），腐殖化指标(Humification index，HIX）和傅里叶红外光谱（Fourier-transform infrared，FTIR)等光谱指标表征 DOM质量特征。结果表明：不同生态策略树种的叶浸提液中可溶性有机碳浓度无显著差异,但是C策略树种浸提液中可溶性有机氮浓度大于S 策略的DON浓度。此外,S 策略的芳香化指数(Aromatic index，AI)和腐殖化指数(HIX)均高于C策略。C策略树种的发射荧光强度也高于S策略,说明C策略树种 DOM腐殖化程度较低,易分解物质含量高;S 策略难分解物质多,腐殖化程度较高。傅里叶红外光谱结果表明,各树种叶浸提的DOM存在相似的吸收峰，其中以H键键合的—OH伸缩振动最强且C策略树种结果相对简单,验证了荧光光谱的结果。总体而言,与C策略相比,S策略树种叶片浸提的DOM结构更复杂,养分含量更高。这可能是因为,S 策略树种对环境变化具有更高的适应性。由于其 DOM结构相对复杂,输入土壤后减缓土壤碳周转速率,在未来气候变化情景下,S 策略树种可能有利于土壤碳汇的形成。
+
+关键词：CSR策略；可溶性有机质；荧光光谱；芳香化指数；腐殖化指数
+
+# Spectral characteristics and quantities of dissolved organic matter released from leaves with competitive and stress-tolerant ecological strategies in a subtropical region
+
+JI Yuhuang2，ZHANGQiufang1,，ZHOUJiacong2，YOUZhangtian'²,，XUPengcheng1,，LIWesheng'   
+CHEN Yuemin1,2,\* ,YANG Yusheng1,2   
+1 School ofGeograpicalSciences，FujianNoal UniversityFuzhou350o，in   
+2 Cultivation Base of State Key Laboratory of Humid Subtropical Mountain Ecology，Fuzhou 350o07,China
+
+Abstract：Plants have diffrent ecological strategies inresponse toenvironmentalstress under global climatechange，and the spectral characteristics and quantitiesof dissolved organic matter（DOM）leaching from leaves dependon the plant's ecologicalstrategy.DOMleachingduetodiferentstrategieswillinfluencesoilnutrientcycling.Theobjectiveofthisstudy wasto investigatethedifferences inthespectral characteristicsand quantities of DOMderived fromleavesof plants (Dendropanax dentiger，Machilusgrisi，Symplocos cochinchinensis （Lour.），Altingia gracilipes，Castanopsis fargesii，and Castanopsis faberi）withdiferent ecological strategies inasubtropicalregion.Inthisstudy，wesampledfreshleaves from 6 kindsof plants，including 3competitive-type plants（C-strategy）and3stress-tolerant-type plants（S-strategy）.We examined dissolved organiccarbon（DOC）anddisslved organic nitrogen（DON）todetermine thequantities of DOM，and employed Special Ultraviolet-Visible Absorption（SUVA），Humification Index（HIX）andFourier-Transform Infrared (FTIR）toanalyze the spectral characteristicsof DOM.Theresults showed that there were no significant diferences in the DOC concentrations between C-type and S-type plants.However，DON was higher in C-type plants compared to S-type plants.In adition，we examined the structural characteristics of DOM betwen the C-and S-strategies using SUVA, fluorescence,andFTIR absorption spectrometry.The aromatic indexand HIX were in the order:S>C.Inaddition，the synchronous fluorescence spectra were strongerin C-typecompared to S-type plants，which suggests that DOMleaching from theleaves ofa C-type plant was greater.Thedegreeof humification was lower inthelabile materials，while it washigherin the S-type plants.FTIRspectroscopy indicatedthatDOMfrom diferent typesof leaves exhibited similar absorptionpeaks, with the strongestabsorptionarising from theprolonged vibrationof H-bonding hydroxyl groups in allcases.Thisresult shows that DOM from C-type plants has asimple structure that is inaccord with fluorescence spectra.Overall,DOM from Stype plants was richer in nutrient composition and had a more complex structure compared to that from C-type plants.Our results suggested that S-type plants have beter adaption under environment stressOwing to the complex structure of DOM fromS-type plants，it would reduce soil carbon turnover after leaching into thesoil.Therefore，S-type plantsare more effective in the formation of soil carbon sink under climate change.
+
+Key Words: CSR theory；dissolved organic mater;fluorescence spectra；aromatic index；humification index
+
+可溶性有机质（Dissolved organic matter，DOM)指可通过 $0 . 4 5 ~ { \mu \mathrm { m } }$ 滤膜,能溶解于水、酸和碱性溶液中的有机物混合体,主要包括可溶性有机碳（Dissolved organic carbon，DOC）、可溶性有机氮（Dissolved organicnitrogen，DON）和可溶性有机磷（Dislved organic phosphorus，DOP)等[1-3]。DOM既能调节陆地生态系统内部各养分库之间的平衡,也能影响生态系统之间物质循环和能量流动[45]。森林生态系统中 DOM主要来源于凋落物分解、穿透雨、树干茎流、根系分泌物及微生物新陈代谢过程等[6-9]。尤其是降雨淋溶的叶片 DOM,并且根据林冠层结构和组成的不同,其DOM 的数量与质量也存在差异,且质量不同的 DOM 能激发土壤有机质的分解。因此其对陆地生物地球化学循环有着重要的意义[10]。
+
+目前,我国湿润亚热带地区有着世界上面积最大、最典型的常绿阔叶林,其森林覆盖面积占全国森林总面积的 $4 5 . 5 6 \%$ ,是我国最重要的森林基地之一。并且,其年平均降雨量在 $1 5 5 2 { - } 2 1 4 1 ~ \mathrm { m m }$ 之间,是我国降雨最丰富的地区之一[I]。与温带地区相比,本地区森林树种种类繁多,因此不同植物来源的 DOM 也可能具有不同的性状[12];同时,由于本地区具有温度高、湿度大,加上山高、坡陡,土壤风化程度高、抗侵蚀能力弱等特点,导致本地区森林生态系统DOM通量高于温带地区森林生态系统[13]。因此,与温带地区相比,叶淋溶的 DOM在本地区的生态系统碳氮循环中扮演的角色可能更为重要[14]。众所周知,以全球变暖为主要变化特征的气候变化正在改变全球降水格局,高纬度区域降水增加,亚热带区域降水减少,干旱和极端降水情况频繁发生[15]。极端降水会改变水分过程,例如径流、土壤蒸发和渗透,进而改变植物的生理、种群和群落结构特征[16-17]
+
+有研究指出,不同类型植物叶淋溶的DOM有着不同的化学性状,其结构及分子量大小差异大,对地球生态化学循环的作用也不同[18-20]。随着化学分析手段的更新与发展,DOM的化学组分分析取得了很大的进展。
+
+除可见光谱分析得到广泛应用外,荧光光谱、红外光谱、核磁共振等现代光谱技术逐渐被引入到DOM的结构表征中,成为当前研究的热点[21-22]。如康根丽等[23]通过测定DOM紫外吸收值,腐殖化指数和红外光谱等指标研究米储和杉木的DOM差异,结果发现米楮的 DOM养分含量更高,结构更复杂,更有利于有机质的积累;Kiikila 等[12]对比德国白桦和云杉不同分解层的DOM差异,发现源于白桦的 DOM相比于源于云杉的 DOM更容易被分解;Blschoff等[24]通过测定山毛榉和云杉DOM的 $^ { 1 3 } \mathrm { C }$ 核磁共振,结果表明树种的差异影响DOM中难分解物质的含量。因此,植物叶片DOM数量特征与光谱特征的不同可能会间接影响土壤养分循环。
+
+Grime 于1974 年提出植被的主要生态策略可以分成3个类型：竞争型（Competitive，C）、草本型（Ruderal,R)和忍耐性(Stress-tolerant，S）[25-6]。不同生态策略的植被对环境变化有着不同的响应能力[27]。以往的研究重点主要为比较针阔树种的差异[18-19],而对不同生态策略植被叶淋溶 DOM的研究较少。那么,在气候变化越演越烈的情况下,研究亚热带不同生态策略树种淋溶所产生DOM的数量及光谱学特征,对土壤的生物地球化学循环的研究具有重要的指导意义。 (775
+
+因此,本研究选址于福建三明格氏栲自然保护区,通过叶面积、比叶面积、叶干物质含量这3个核心性状[28]对本研究区内45 种常见树种进行归纳,最终选取差异性较大的C策略与S策略树种各3种。通过室内实验浸提叶 DOM,分析其可溶性有机物的溶解特征和光谱学特征,以期探究不同生态策略树种叶 DOM 在森林生态系统的作用。本研究有助于揭示本地区土壤生物地球化学循化对气候变化的响应。
+
+# 1试验地概况
+
+研究地点位于福建三明格氏栲自然保护区内（117°24'—117°27'E； $2 6 ^ { \circ } 7 ^ { \prime } - 2 6 ^ { \circ } 1 0 ^ { \prime } \mathrm { N } )$ ,该区位于福建武夷山东伸支脉地带,属低山丘陵,海拔约 250—500 m。林下土壤主要为暗红壤,其次为红壤和紫色土,属中亚热带季风型气候,年平均气温 $1 9 . 5 \mathrm { ^ { \circ } C }$ ,年降水 $1 7 0 0 ~ \mathrm { m m } ^ { \dag }$ [29]。
+
+保护区内共有维管束植物110种，隶属于42科68属。全区分为格氏栲（Castanopsiskawakamii）群组和米褚（Castanopsiscarlesii）群组，十二类群丛-格氏栲-马尾松（Pinusmassoniana）群丛、格氏栲-木荷（Schimasuperba)群丛和米-格氏栲群丛，以及米赭-木荷群丛为该区分布较为广泛的类型。其中壳斗科（Fagaceae）、茶科（Theaceae）、松科（Pinaceae）、樟科（Lauraceae）、紫金牛科（Mysinaceae）和冬青科植（Aquifoliaceea）重要值都在10 以上[29]。通过主成分分析对不同树种叶片性状进行综合分析，确定研究树种。本实验中选取差异性最大C策略和S策略树种,各选取3种（图1）,分别是树参（Dendropanaxdentiger）、黄绒 润楠（Machilusgrijsii）黄牛奶树（Symplocos cochinchinensis（Lour.））细柄阿丁枫（Altingiagracilipes）、丝栗栲（Castanopsisfargesii)和罗浮栲（Castanopsisfaberi）。因为R策略多属于草本植物，所以在本研究没有涉及。
+
+v C策略 树参 Dendropanax dentiger 黄绒润楠 0 100 Machilus grijsii 黄牛奶树 20 80 Symplocos coshinchinensis(Lour.) 2 40 60 S d S策略 60 4 丝栗栲 Castanopsis fargesii 80 细柄阿丁枫 20 Altingiagracilipes   
+100 罗浮栲 Castanopsis faberi 0 20 40 60 80 100 C/% C:S:R=0:100:0 C:S:R=100:0:0
+
+C：竞争型,Competitive；S:忍耐型,Stress-tolerant；R;草本型Ruderi
+
+# 2研究方法
+
+# 2.1样本采集
+
+于 2016年6月至8月份对格氏栲保护区内的45 种常见树种进行调查,随机选取胸径大于 $1 0 \ \mathrm { c m }$ 的成熟树木,人工攀爬至树木顶端,用修枝剪剪取向阳面枝条。选取成熟树木（胸径大于或等于 $1 0 \ \mathrm { c m }$ )叶片[30]，随机选取健康未损坏的叶片数枚,称取叶鲜重（LFW，g）,随后使用WinRHIZO/WinFOLIA 扫描仪（RegentInstruments，Quebec，Canada）测定叶面积（LA, $\mathrm { c m } ^ { 2 }$ ),最后将叶片放于 $6 5 \mathrm { ^ { \circ } C }$ 烘箱中烘 $^ { 7 2 \mathrm { ~ h ~ } }$ 至恒重,称取叶干重（LDW，g），每个树种3个重复。计算比叶面积（SLA， $\mathrm { c m } ^ { 2 } / \mathrm { g } ) = \mathrm { L A } / \mathrm { L D W }$ ,叶干物质含量(LDMC，无量纲)$\mathbf { \Sigma } = \mathrm { L D W } / \mathrm { L F W } ^ { [ 3 1 ] }$ 。
+
+# 2.2 室内试验
+
+DOM 的提取：分别准确称取 $5 0 ~ \mathrm { g }$ 植物鲜样于1L广口瓶中,加入 $5 0 0 ~ \mathrm { m L }$ 超纯水混合。将溶液过0.45μm滤膜(压力为 $- 0 . 0 9 \ \mathrm { M P a }$ ）,滤液中的有机物即为 $\mathrm { D O M } ^ { [ 3 0 - 3 2 ] }$ 。将待测滤液置于 $4 ^ { \circ } \mathrm { C }$ 冰箱保存用以分析。其中，DOC 浓度用总有机碳分析仪（TOC-LCPH/CPN，日本)测定,DON 浓度使用连续流动分析仪（Skalar $\sin + +$ ，荷兰)测定。
+
+芳香化合物含量采用紫外可见光光谱测定。主要步骤为：用紫外-可见光分光度计(UV-2450，日本岛津)测定待测液在 $2 5 4 ~ \mathrm { n m }$ 的吸光度值（SUVA）[33],特定的紫外吸光值能够反映芳香化合物含量,也与通过液相 $\mathrm { ^ { 1 } H }$ 核磁共振光谱测得的芳香化H的比例呈正相关[34]。计算芳香化指数(aromatic index，AI)[5]：
+
+$$
+A I { = } \mathrm { S U V } \mathrm { A } 2 5 4 / C { \times } 1 0 0
+$$
+
+式中,SUVA254为 $2 5 4 ~ \mathrm { n m }$ 的吸光度值( $\cdot \mathrm { c m } ^ { - 1 }$ ）； $C$ 为 DOC 浓度( $\mathrm { \langle m g / L \rangle }$ ）
+
+荧光腐殖化指数（Humification index，HIX）和发射腐殖化指数采用(Humification index，emission mode,$\mathrm { H I X } _ { \mathrm { e m } }$ )荧光光谱测定。主要步骤为：用荧光分光光度计(F-7000，日立)测定样品的同步荧光及荧光发射光谱[36]。荧光腐殖化指数可用来表征 DOM的腐殖化程度,HIX 越大,说明 DOM中分子构成越复杂, $\pi - \pi$ 共轭体系越大,腐殖类物质如缩合芳环和大分子化合物的含量越高[37]。同步腐殖化指数（humification index，synchronous mode, $\mathrm { H I X } _ { \mathrm { s y n } }$ )为同步荧光光谱中波长为 $4 6 0 \ \mathrm { n m }$ 和 345nm 处荧光强度的比值。发射腐殖化指数为荧光发射光谱中波长 $4 3 5 { \mathrm { - } } 4 8 0 ~ \mathrm { n m }$ 与波长300- $3 4 5 \ \mathrm { n m }$ 的面积比。为了提高灵敏度,去除碳酸盐的影响,荧光光谱测定前所有待测溶液的 $\mathrm { \ p H }$ 值用2mol/L盐酸调成2[33];由于荧光物质在高浓度时会发生荧光猝灭,高浓度样品的荧光图谱峰数量少而且荧光强度低,所以在光谱分析前,样品 DOC 浓度应调为 $1 0 ~ \mathrm { m g / L ^ { [ 3 8 ] } }$ 。
+
+傅里叶红外光谱测定：每个树种各取1mg混合冷冻干燥样与 $4 0 0 ~ \mathrm { { m g } }$ 干燥的KBr(光谱纯)磨细混匀,在$1 0 \mathrm { \ : } V \mathrm { c m } ^ { 2 }$ 压强下压成薄片并维持 $1 ~ \mathrm { m i n }$ ,用FTIR光谱仪（NicoletMagnaFTIR 550)分析红外光谱,波谱扫描范围为 $4 0 0 0 { \mathrm { - } } 4 0 0 ~ \mathrm { c m } ^ { - 1 }$ ,每个样品扫描64次并记录其光谱[37],红外吸收峰的主要归属如表 $1 ^ { [ 3 9 ] }$ 所示。
+
+表1红外吸收峰的主要归属[39]  
+Table 1Main atribution of infrared absorption peaks[39.   
+
+<html><body><table><tr><td>波数Wave Number/nm</td><td>主要归属 Main Atribution</td></tr><tr><td>3300—3600</td><td>氢键中结合的—COOH、醇及苯酚中一OH的伸缩振动，N—H的伸缩振动</td></tr><tr><td>2850—3000</td><td>脂肪族C—H、C—H、C—H的伸缩振动</td></tr><tr><td>1625—1720</td><td>木质素中与芳香环相连的C=O伸缩振动以及有机羧酸盐COO—的反对称伸缩振动</td></tr><tr><td>1300—1475</td><td>饱和C一H面内弯曲振动</td></tr><tr><td>1000—1260</td><td>多糖类、醇类、羧酸类及酯类C一O的伸缩振动</td></tr><tr><td>605-880</td><td>羧酸化合物中O一H变形振动或苯环C一H面外的弯曲振动</td></tr></table></body></html>
+
+# 2.3数据处理与分析
+
+采用CSR分析工具‘StrateFy’[30]对45 种植物的生态策略计算分析;采用 SPSS 20.0统计软件对不同树种叶 DOM各指标进行统计分析。采用单因素方差分析(one-way ANOVA)进行不同树种之间各个指标的显著性检验。绘图由Origin 9.0 和 Sigmaplot 软件完成。
+
+# 3结果
+
+3.1不同生态策略树种DOM数量特征C 策略与 S策略树种的DOC 浓度均值分别为 $5 7 9 . 0 1 ~ \mathrm { m g / L }$ 和 $4 5 3 . 3 6 ~ \mathrm { m g / L }$ ,不同策略树种的 DOC 浓度无
+
+http://www.ecologica.cn
+
+显著差异（图2)。其中,黄绒润楠的 DOC 浓度显著最高,树参DOC 浓度最低,且黄绒润楠DOC 浓度是树参浓度的7.5倍（图2）。C策略与S策略树种的DON 浓度均值分别为 $2 . 0 7 ~ \mathrm { { m g / L } }$ 和 $\mathrm { 1 . 1 7 ~ m g / L , C }$ 策略树种的平均DON 浓度高于S 策略树种,其中黄牛奶树 DON 浓度最高,罗浮栲 DON 浓度最低,黄牛奶树 DON 浓度是罗浮栲的4.4倍(图2）。
+
+![](images/5c9af68ff12b78f0ff9ceb086abfff962cf691645fc8e11ca08c9c4abc938f10.jpg)  
+图2不同生态策略树种叶浸提液DOC和DON浓度
+
+不同字母代表不同树种之前存在显著差异;DOC：可溶性有机碳,Dissoled organic carbon；DON：可溶性有机氮,Dissoved organic ni
+
+# 3.2不同生态策略树种DOM光谱特征
+
+C 策略与S策略树种的AI均值分别为 $0 . 9 4 \mathrm { L } \ \mathrm { m g } ^ { - 1 } \ \mathrm { c n }$ n−1和 $2 . 2 5 \mathrm { ~ L ~ m g } ^ { - 1 } \mathrm { ~ c m } ^ { - 1 }$ ,C 策略AI值显著低于S策略。其中,黄牛奶树的AI值最低,罗浮栲的AI值最高（图3）。
+
+从发射腐殖化指数上看，C策略树种腐殖化程度整体低于S策略树种（图4)。其中丝栗栲的发射腐殖化指数值最高，黄绒润楠的发射腐殖化指数值最低。尽管C 策略树种同步腐殖化指数的结果整体低于S策略树种，但是两策略树种的同步腐殖化指数无显著差异（图4）。
+
+发射荧光光谱中，C 策略和S策略树种均在 $5 0 6 ~ \mathrm { n m }$ 处有吸收峰(图5)。除黄绒润楠在 $3 3 0 \ \mathrm { n m }$ 出现小峰外，不同树种的光谱特征趋于一致。C策略树种的发射荧光强度高于S策略。黄牛奶树峰值处荧光强度最高，罗浮栲峰值处荧光强度最低。
+
+在同步荧光光谱中，两种策略树种在 $2 8 6 \ \mathrm { n m }$ 处均存在吸收峰。C策略树种荧光强度略高于S策略树种。黄绒润楠的峰值处荧光强度最高(图6）。
+
+傅里叶红外光谱已经被广泛的应用于测定DOM总的特性，有助于我们了解DOM重要的结构信息，如：含
+
+![](images/df951994bb4da848f749fd51a3e090a79e74699643a56e1367a4e5b2bfb9e494.jpg)  
+Fig.2The DOC and DON concentration of leaf extract from different ecological strategies   
+图3不同生态策略树种叶浸提液DOM芳香化指数 Fig.3The DOM aromatic index of leaf extract from different ecological strategies
+
+DOM：可溶性有机质,Dissolved organic matter
+
+![](images/7e50f44bbe8452ef869f959fbe0718e53cf1b1ced2b0b380dbca769cb71b173a.jpg)  
+图4不同生态策略树种叶浸提液DOM发射腐殖化指数和同步腐殖化指数
+
+Fig.4The DOM emission humic index and synchronous humic index of leaf extract from different ecological strategi
+
+![](images/107afe5ec5902d814b7bee1d2d59ca83fc8dd0d313d2f8275ccece8023be265c.jpg)  
+图5不同生态策略树种叶浸提液DOM发射荧光光谱特征
+
+Fig.5The DOM emisson fluorescence intensity emission of leaf extract from diferent ecological strategies氧官能团、碳水化合物基团和芳香族和脂肪族的相对丰度。不同树种叶片DOM的红外吸收峰主要分布在6个区域(图7）。6种树种叶片淋溶叶均在 $3 3 0 0 { - } 3 6 0 0 ~ \mathrm { c m } ^ { - 1 }$ 范围内有一个强而宽的吸收峰。尽管各树种红外光谱峰位置基本一致,但吸收率有所差异,如丝栗栲在红外光谱图中各波段吸收峰中峰值最高,罗浮栲峰值最低(图7）。总体来说,S策略树种在短波区域中出的峰多于C策略。
+
+# 4讨论
+
+4.1不同生态策略树种DOC 和DON 浓度的差异通过降水淋溶的叶片DOM是土壤DOC的主要来源之一,因此淋溶的叶片DOM的质和量在森林土壤养
+
+![](images/ed438c4340ad877f1420ef000c8938a278d9fce960a800ae86f9076098135116.jpg)  
+图6不同生态策略树种叶浸提液DOM同步荧光光谱特征
+
+Fig.6The DOM synchronous fluorescence intensity emission of leaf extract from diferent ecological strategies分循环中起着重要作用[19]。通过对比温带森林系统DOC 含量( $3 - 3 5 ~ \mathrm { m g } ~ / \mathrm { L } ) ^ { [ 4 0 ] }$ ],结果发现本研究中各树种叶浸提的DOC 浓度均高于温带森林中DOC 含量,说明本研究区DOC 通量较大。吕茂奎等[10]研究表明,米褚鲜叶(前期研究结果表明米褚为S 策略树种)浸提的 DOM中的 DOC 含量大于杉木鲜叶（前期研究结果表示杉木为C 策略树种)浸提 DOM中DOC 含量,这与本试验结果并不一致。导致结果不同的原因可能是 DOM中 DOC 含量不仅仅与植物的生长策略有关,同时可能还与叶片的质量和结构的差异有关。
+
+![](images/cfc2bd37f04fd9239f7d26b4a376b82f05ad6ce3b19fa4b8d719b6296089e136.jpg)  
+图7不同生态策略树种叶浸提液DOM红外光谱  
+Fig.7The DOM infrared spectra of leaf extract from different ecological strategies
+
+本研究中,C 策略树种浸提的叶 DON 浓度均高于S策略(图2),可能是因为C 策略树种是快速投资收益型[41-43],在生长过程中将较多的养分通过淋溶作用输人到土壤中,加快养分循环。而 S策略树种为慢速投资型[41-43],主要将养分用以自身生长和器官构建,淋溶产出的 DON 含量较少。康根丽等[21]认为米褚人促更新林淋溶产出的DOM更有利于土壤氮素的积累。因此,从生态策略的角度来看,与S策略树种相比,C 策略树种 DON 浓度更高,进而提高土壤中的氮素有效性。
+
+http://www.ecologica.cn
+
+# 4.2不同生态策略树种光谱特征
+
+Wieder等[13]研究表明不同植被淋溶产生的DOM由于其化学性状的差异与土壤矿物会产生不同的物理吸附作用,这将会对土壤易变碳库产生巨大的作用。因此，尽管本试验中DOM的数量并无显著差异,但是DOM的质量可能是影响其在土壤中参与生物化学地球循环的关键。其中,DOM的芳香性指数越高,表明其含有的芳香族化合物越多[44]。类似的,腐殖化指数越高，表明DOM中含有更多浓缩的芳香环难分解组分[38]。本研究中,S策略叶浸提DOM中的芳香性指数与腐殖化指数均高于C策略（图2,图3）。说明 S策略树种叶 DOM中具有更多不饱和键和芳香族化合物,这可能不利微生物活性和新陈代谢[45],有利于土壤肥力的维持和碳汇的形成。
+
+同步荧光光谱和发射荧光光谱的结果发现,各树种的特征峰主要出现在 $\lambda _ { \mathrm { e x } } 2 7 8 { - } 2 8 5 \ \mathrm { n m }$ （图5），此特征峰代表类蛋白质基团[46]。由此看出,六种树种叶 DOM中蛋白质基团丰富,而其他基团如木质素基团或脂肪族基团含量较少。与S策略相比,C策略同步荧光强度较强,说明C策略中的蛋白质基团多于S策略,C 策略叶 DOM中易分解物质较多。本研究中C策略树种叶浸提DOM荧光强度均高于S策略树种。Kaiser等[47]研究发现发射荧光光谱波长较短、荧光强度较高的特征峰说明该物质中含有分子结构简单、缩聚程度较低的易分解有机物,而波长较长的特征峰结果与之相反。这更进一步说明本研究区S策略树种腐殖化程度较高,缩合芳环物质和大分子物质比C策略树种多;C策略树种腐殖化程度较低,其易分解物质含量较为丰富。这一结果与芳香性指数、腐殖化指数和同步荧光光谱结果一致。吕茂奎等[10]也发现米楮叶片浸提液 DOM 结构明显比杉木复杂。由此表明 S策略树种叶 DOM 可能更有利于土壤腐殖质的形成,倾向于储存养分以供长期生长的需求。而C策略树种则是快速投资收益型,叶DOM的易分解组分较多,容易被土壤微生物和植物根系利用,使得树木生长较快。这一结果符合Grime 等[48]对CSR 策略树种的定义;根据权衡策略,在未受到干扰的地区,C 策略树种有相对较高的资源获取能力;在强干扰地区,C策略的相似功能性状并没有选择优势。而S 策略树种在应对环境变化时有着相对较强的抵抗能力。因此,在未来水热条件发生变化的情况下,S 策略树种会比C 策略树种具有更强的适应能力,这可能对土壤生态系统碳循环过程具有重要影响。
+
+红外光谱可以准确监测到DOC中苯酚和多糖类物质的振动,本研究结果发现各树种的傅里叶红外光谱出现吸收谱带的位置均相似,表明不同策略树种的 DOM 结构具有相似性[38]。本研究中六种不同树种强度的最大的吸收处于 3400—3550 cm,该吸收峰归属于 H 键键合的-OH 的伸缩振动,其羟基主要来源于样品中的结构性碳水化合物和非结构性碳水化合物。1629— $1 7 0 0 ~ \mathrm { c m } ^ { - 1 }$ 处吸收峰最强，归属于有机羧酸盐的反对称伸缩振动以及木质素中与芳香环相连的 $\mathrm { C } = 0$ 伸缩振动。 $1 0 0 0 { - } 1 2 6 0 \ \mathrm { c m } ^ { - 1 }$ 处吸收峰为碳水化合物中C-O 的伸缩振动;在1145—1149、600—870 与 3400— $3 5 5 0 ~ \mathrm { c m } ^ { - 1 }$ 均存在吸收峰,说明叶浸提 DOM 中存在醇类和酚类物质。但是S策略树种叶 DOM在低波段处的振动较强,则说明S策树种中大分子官能团较多。这一结果与芳香性指数、腐殖化指数以及荧光光谱的结果一致。 $\mathrm { B u }$ 等[37]有类似结果。周江敏等[33]研究表明,土壤DOM中C、H饱和程度高,芳香族类不饱和物质较少,且富含碳水化合物、羧基或羟基类物质。这说明土壤 DOM与叶 DOM 结构差异较大,地上部分DOM输入土壤系统后其结果会发生一系列复杂的物理化学反应。
+
+总的来说,由于S策略有着更好的适应能力[28],因此在干旱和暴雨频发的亚热带地区,S策略在该生态系统占主导地位。且由于其DOM 结构复杂的特征,因此在未来,S 策略树种可能对森林碳汇起着重要的作用。
+
+另外,由于红外光谱测定方式只能对样本进行半定量分析[49]。本研究中不同树种之间红外光谱结果的吸光值具有差异,但是其出峰位置并无太大差别。在未来还可以尝试更精准的光谱手段(核磁共振)探究不同树种叶浸提液的官能团化学结构。
+
+# 5结论
+
+本研究通过对比不同生态策略树种的DOM数量特征和光谱特征,结果发现C策略树种的DOM 结构更加简单,且DON输入量较大,能够更快地被土壤微生物利用,加快养分循环,促进植物生长。而S策略树种叶DOM长期来看可能有利于土壤维持土壤肥力。在全球气候变化剧烈的背景下，不同生态策略的植被对环境变化有着不同的响应能力,从而导致不同生态策略树种的DOM输入土壤的比例变化,最终可能影响土壤生物地球化学循环。总得来说,面对干扰时,S策略树种相比于C策略树种具有更高的适应性。由于S策略树种 DOM 结构相对复杂,输入土壤后减缓土壤碳周转速率,因此未来气候变化情景下,S策略树种可能将有利于土壤碳汇的形成。
+
+# 参考文献（References）:
+
+[1]OnouoreceiefliofoeteemaoiexofoedcatEnvitalTechnology，2002，36(4）:742-746.  
+[2］杨玉盛，林瑞余，李庭波，董彬，王小国，郭剑芬.森林调落物淋溶中的溶解有机物余紫外可见光谱特征.热带亚热带植物学报，2004,12(2) :124-128.  
+[3] 王清奎，汪思龙，冯宗炜.杉木人工林土壤可溶性有机质及其土壤养分的关系.生态学报，2005，25(6)：1299-1305  
+[4] KalbitzK，SoligrS,arkJH,ichalikBMatzerE.Controsonthdamisofdisoledorgancmaterinls：revie.Silience,2000,165(4): 277-304.  
+[5]Terajiomaldsaalgsiodcbcetatdectesitffulidiematerials in mountainous headwater catchments.Journal of Hydrology，2013,479：1-12.  
+[6] Guggenberger G,Christensen B T,Zech W.Land-use effects on the composition of organic matter in particl size separates of soil：I. Lignin andcarbohydrate signature.European Journal of Soil Science，1994,45(4）：449-458.  
+[7]McDowellWirDftscrgetsrocofoedcboiforest soils.Water，Air，and Soil Pollution，1998,105(1/2)：175-182.  
+[8] McDowell W H. Dissolved organic matter in soils—future directions tion rma，2003，113(3/4)：179-186.  
+[9] CawleyKM,shitaYaieJafeR.Usingtialpropetistaiffringagroveutstoeisoldganae（)pool in a subtropical estuary. Estuaries and Coasts，2014,37(2）：399-410.  
+[10] 吕茂奎，谢锦升，江淼华，罗水金，曾少娟，纪淑蓉，万菁娟，杨玉盛.米赭常绿阔叶次生林和杉木人工林穿透雨和树干径流可溶性有机质浓度和质量的比较.应用生态学报，2014，25（8)：2201-2208.  
+[11]Liu XF,Lin TC,Yang ZJ,Vadeboncoeur MA,Lin CF,Xiao D ，Lin WS,Chen G S,XieJS,Li YQ，YangY S.Increased litter insubtropicalforstsosslespatioiaturalforstsutotplaatisfstoscrlsilantndSl8/.  
+12]iiceinto fractions according to molecular size.European Journal of Soil Biology，2012,50：109-111.  
+[13]Wieder，evedCwdARalsieflitddriveeeoflnrosoidelowland wet tropical forest. Global Change Biology，2011,17(10）: 3195-3207.  
+[14]YagYuJG,infesoesooiliabofrctidliin subtropical China.Plant and Soil,2009,323(1/2)：153-162.  
+[15]IPCC.ClateCangheysalSieceBsisWoringGopCotributiotoeFfessenteportfteetalPanel on Climate Change. Cambridge，UK: Cambridge University Press，2013.  
+[16]CaicerJ，olllaosX,zGeuelasdesprdodtoefbsruptilmortaltyieasategtrouhtrocofalaefiesftUieateofca(4) : 1474-1478.  
+[17]Fausetaker,LewisSL,Felpausch,fu-BaoeKoliE,HmrKC,waiDroughtiducedshiftsinsfunctional composition of tropical forests in Ghana.Ecology Letters，2012,15(10）：1120-1129.  
+[18]WiederWlevelandCC，owsedATropicaltrespeesoposioctsthidatioofdioedgancatelit.Biogeochemistry，2008，88(2）:127-138.  
+[19 UselmanSQuallG,ilefeJQalitfueacC,rucdenttspeoflitileaf litter.Soil Biologyand Biochemistry，2012,54：57-67.  
+CussC92(11) : 1483-1489.21 KazakouE,GaierE,NavasML,RoumetC,ColinC,LaurentG.Componentsofutrientresidencetiendtheleafconomicsspectrunspecies from Mediterranean old-fields differing in successional status.Functional Ecology，2007,21（2）：235-245.  
+[22]ChenML,KimS,ParkJE,KimHS,HurJEfetsofdisolvedorganmattr（D）sourcesadnatureofsolidextractiosobnrecoverableDOposiocatitotetalbiltoftopdousalldaallstr(17):4809-4819.  
+[23］康根丽，杨玉盛，司友涛，尹云锋，刘翥，陈光水，杨智杰.米储人促更新林与杉木人工林叶片及凋落物溶解性有机物的数量和光谱学特征.生态学报．2014.34（8）：1946-1955.  
+[24]Biscoicalkpertofotalaland forest floor leachate of central European forests.Biogeosciences,2015,12(9）：2695-2706.  
+[25]Grime JP.Vegetation classification by reference to strategies.Nature，1974,250(5461）：26-31.  
+[26] GrimeJP.EvideeforeeisteceoftepriarystraesiplantsditselevaetcologcalndeolutioaryocNaturalist，1977,111（982）：1169-1194.  
+[27]GrieJeCodelofpatrateesscatides/otleDJiKsantEoutaDordrecht:Springer，1988：371-393.  
+[28]Pierce S,NegreirosD,CeraboliniBEL，KatgeJ，DiazS,KleyerM,ShipleyB，WrightSJ,SoudzilovskaiaNA，OnipchnkoVX, arBodegomPM,Frenete-DussultC，WeiherE,PinhoBX，CormelissenJHC,Grime JP,ThompsonK，HuntR，WilsonPJ，Buffa G,NyakungaOC,Reich,Ciania,giliFCeranRLuzaro,rusaGefert,arboaUapinFlWK,FangJY,erandesGWGaierE,LeStradicS,euelasJ,MeloFavieroA,barelli,ampucciD.globaletdfocalculating plant CSR ecological strategies applied across biomes world-wide.Functional Ecology，2017,31（2）:444-457.  
+[29] 游水生，郭振庭.用模糊聚类探讨福建三明格氏栲自然保护区植被类型的划分.植物科学学报，1994，12（4）：333-340.  
+[30] 周江敏，代静玉，潘根兴.应用光谱分析技术研究土壤水溶性有机质的分组及其结构特征.光谱学与光谱分析，204，24（9）：1060-1065.  
+[31] Perez-HargundeguyDaz,GierE,LvorelS,oterH,Jregberyret-Harte,oellK，eJuichE,Urcelay C,VeneklaasEJ,ReichPB,PorterL，WrightIJ,RayP,EnricoL，PausasJG,de VosAC，BuchmannN,FunesG,QuetierF,Hodgson JG,Thompson K,Morgan HD,ter Steege H,van der Heijden $\mathrm { ~ M ~ G ~ A ~ }$ , Sack L,Blonder B,Poschlod P,Vaiereti M V, Conti G,StaverA C,AquinoS，oelisenJHC.NewandboforstadardisedmeasuentofantfuctialtitsoideAustralianJoulofotay,2013,61(3):167-234.  
+[32] 黄泽春，陈同斌，雷梅.陆地生态系统中水溶性有机质的环境效应.生态学报，2002，22(2):259-269.  
+[33] Akagi J，ZsolaA，BastidaF.Quantityandspectrosopicpropertiesofoildisoledorganicmater（O）asafuncionofilampletreatments：air-drying and pre-incubation.Chemosphere,2007,69（7）：1040-1046.  
+[34] Kalbitz K，SchwesigD，chmerwitJ，aiserK，HumaierL，laserB，ElerbrockR,LeineberPChangesinpropertiesofil-erivedissolved organic matter induced by biodegradation.Soil Biology and Biochemistry，2003,35(8）:1129-1142.  
+[35] SaadiI，BorisoverM，ArmonR，LaorY.MonitoringofeffuentDOMbiodegradationusingfluorescence，UVandDOCmeasurements.Chemosphere，2006,63（3）：530-539.  
+[36] 刘翥，杨玉盛，司友涛，康根丽，郑怀舟.植被恢复对侵蚀红壤可溶性有机质含量及光谱学特征的影响.植物生态学报，2014，38（11)：1174- 1183.  
+[37]BuXL，WangL,a B,YuX,oellWuaHSpectroopichracterzatioofot-waeetractableanicmafolsunder four diferent vegetation typesalonganelevation gradient inthe WuyiMountains.Geoderma,2010,159（1/2）:139-146.  
+[38] Bu XL,DingJM,WangL,uXN，HangWRanHHiodegraatioandchcalcaracteristcsofhot-waterextractablecefromsoilsunderfourdiferentvegetationtpesinteWuyiMoutnssoutheastenChina.EuropeanJoualofSoilolog，47（2）：102- 107.  
+[39] KlausK，ZechWaaloacatotoietalurfcssudyIspctropiesofSils，9-4.  
+[40] MichalzikB，KalbitzK，ParkJH，SingerS，MatzerE.Fuxesandcocentratiosofdsoedorganiccarbonanditroge-astisfortemperate forests. Biogeochemistry，2001，52(2）: 173-205.  
+[41] SantiagoLS.Extendingtheleafconoicsspectrumtoecompositio：evidenefroatropicalforest.Ecolog，O，5）-1.  
+[42] FreschetGT,CoelissnJHC,vaLogtestijnRSP,ertsR.Evidenceofte‘plantecoomicsspectrum’insubarcticflora.JoualofEcology，2010,98(2)：362-373．  
+[43]OsnasJDsJeichacalaSobalfrairelatoss,eadhefooset,340(6133) : 741-744.  
+[44] WeishaarJL,ikeGR,ergaasciBA,FrmMS,Fuji,opperK.Evauatiofpecifilravioletabsorbancesanidcatoftechemicalcompositionandreactivityofdisolvedorganiccarbon.EnvironmentalScience&Technology，2O3，7（20）：470-4708.  
+4]Hatsitdivou)：238-243.  
+[46] JanhomT，WatanachiraS，PavasantP.CharacterizationofbrewerywastewaterwithspetrofluorometryanalyssJoualofEnviontalManagement，2009,90(2）：1184-1190.  
+[47] KaiserK,uggegrGeoleftioralscsinreseatioofcaeiilacost31(7/8) : 711-725.  
+[48] VirtanenR,Loto,mT,iolaK,HortJ，ryesJA,irksHJRecentvegetatiohangeattehig-latitdetrelieooaecontrolledbygeomorphologicaldisturbance，productivityanddiversity.GlobalEcology&Biogeography，0l,19（6）：810-821.  
+[49] CalderonFJ,McCartyGWReevesIIJByrolis-andFaalysisofreshanddecomposeddairymanureJouralofAnalyicaldApplied Pyrolysis，2006,76(1/2)：14-23.

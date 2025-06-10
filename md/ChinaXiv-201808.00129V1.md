@@ -1,0 +1,160 @@
+# 黔中石漠化区衰老退化与正常生长顶坛花椒根区土壤质量特征1
+
+喻阳华1\*，杨丹丽²，秦仕忆²，王 璐²(1.贵州师范大学 喀斯特研究院/国家喀斯特石漠化防治工程技术研究中心，贵阳 550001；2.贵州师范大学地理与环境科学学院，贵阳 550025)
+
+摘要：为了探讨顶坛花椒（Zanthoxylum planispimum var.dintanensis）衰老退化的原因，实现林分稳定与可持续性经营。以开黄花为典型标志的衰老退化植株和正常生长的植株为研究对象，采用土壤农业化学和环境矿物学的方法，分析不同植株根区土壤矿质元素含量，评价土壤综合质量。结果表明：（1）正常生长植株根区土壤的C、P、K、S、Se、Sr、Mo、氧化物等总体显著高于衰老退化植株，总氮、速效磷、速效氮、Cu、Pb、Zn、Cr无显著差异，其他元素的变化规律不明显。元素的有效态含量亦对植株生长产生影响。从植物营养需求角度看，大量、中量、微量元素均对土壤质量产生支配效应。（2）根区土壤质量指数表现为正常生长植株3最高、衰老退化植株1最低，说明土壤质量对顶坛花椒衰老退化具有影响。（3）顶坛花椒林分经营时，应培育良好的土壤结构，注重土壤养分的全面性和均衡性，关注矿质元素过低引起的亏缺效应。
+
+关键词：衰老退化，顶坛花椒，根区土壤质量，主成分分析，黔中石漠化区中图分类号： S727/728 文献标识码：A
+
+# Aging and degradation of rocky desertification in Qianzhong area and soil quality features of root zone of normal
+
+Zanthoxylum planispimum var. dintanensis
+
+YU Yanghua1\*, YANG Danli², QIN Shiyi², Wang Lu²   
+(1.Schoolof Karst Science/State Engineering Technology Institutefor Karst Decertification Control,Guizhou   
+Normal University,Guiyang 55ooo1,China;2.Schoolof Geographyand Environmental Science,Guizhou Normal Univercity Guivang 55nn25 China)
+
+Abstract:As the aging and degradation of Zanthoxylum planispimum var. dintanensis has aected the rocky desertificationcontrol,and in order to discuss the reason of aging and degradation of Zanthoxylum planispimum var.dintanensis,and realize the stabilization of forest stand and sustainable management,this paper took aging degraded plants with typical symbol of yellow blooms and normally grown plants as the research objects and adopted soil agrochemistry and environmental mineralogy methods to analyze mineral element content in root-zone soil of diferent plants,evaluate integrated soil quality and to reveal the mineral element mechanism of aging and degradation of Zanthoxylum planispimum var. dintanensis.The results shows that (1) C,P,K,S,Se,Sr, Mo and oxide in root-zone soil of normally grown plants were generally higher than the content in aging degraded plants,while total nitrogen,rapidlyavailable phosphorus,available nitrogen,Cu,Pb,Znand Cr had no significant diference,and other elements hadno obvious change rule.It indicates that mineral elements are one of the causes of the aging and degradation of Zanthoxylum planispimum var. dintanensis.Available contents of elements also had an impact on plant growth, which indicates that we should improve availability of nutrients when managing the Zanthoxylum planispimum var.dintanensis.From the perspective of plant nutrition demand,allmajor,medium and micro elements had a dominant effect on soil quality.In the management of soil fertility,we should not only focus on a large number of elements. (2)Root-zone soil quality indexes manifested that the highest plant was No. 3 normally grown plant and the lowest plant was No.1 aging degraded plant,suggesting that soil quality influences the aging and degradation of Zanthoxylum planispimum var.dintanensis.But the soil quality is not the only cause of aging degradation of Zanthoxylum planispimum var.dintanensis,and more comparative studies of soil microbes and plant hormones should be conducted.(3)When managing the Zanthoxylum planispimum var. dintanensis in forest stand,cultivate good soil structure,make sure the comprehensiveness and proportionalityof soil nutrient,and pay atention to deficit effect caused bylow mineral elements,and it is necessary to make sure the appropriate nutrient concentration and ratio to increase the absorption capacity of the plant.
+
+Key Words: agingand degradation, Zanthoxylum planispimumvar.dintanensis,qualityofroot-zone soil, principal component anallysis (PCA), rocky desertification in Qianzhong area
+
+矿质元素（mineral elements）是影响土壤质量的主要因子（Joimeletal,2016)，在植物的生长、生理和生化过程中具有重要作用，与植物产量、品质和风味物质关系尤为密切。例如，N素输入过量会诱发植物体内元素失衡，表现为根冠比和元素比降低，导致光合N 利用效率下降，生长放缓甚至树木寿命下降（Aber etal,1995;Whytemare et al,1997)；将矿质元素作为生境质量评价的指标，能够帮助探讨产品品质的地域分异规律（Zhu etal,2016)。不同矿质元素的作用机理存在差异，元素的过多或过少均可能表现出增效或拮抗作用。矿质元素的生态化学计量比是影响植物生长、生理和适应的机制之一（Lietal,2017)，近几十年来陆地植物受到威胁的重要原因之一就是矿质元素供应的平衡被打破，进而影响植物生长和群落组成（毛庆功等，2015)。已有公开报道显示，不同矿质元素的含量与计量比对竹子花芽分化的影响不同，在竹子衰老退化过程中发挥的功能各异（丁兴萃，2006)；增加矿质元素用量和合理配比能够提高黄瓜对养分的吸收和产量（陈凤真，2015)；保持矿质元素的合理比例能够增加物种种类，丰富植物多样性水平（Gusewell,2005)。表明矿质元素的含量和生态化学计量比对植物生长、生理和生态效应影响显著。
+
+土壤质量是土壤基本属性和本质特征的综合和全面反应，土壤能够为植物生长提供必需的营养元素（Gilliam&Dick,2010)，与全球生态安全与可持续发展密切相关（陈美军等，2011)。土壤质量与植物群落类型、种植经营方式等存在相关性（张璐等，2014；张鹏鹏等，2018)，因而植物与环境的耦合关系历来是生态学、农学等学科研究的重点方向；土壤质量也受林分年龄、土层厚度等因素影响（王钰莹等，2016)，表明制约土壤质量的因素较多，进而对植物功能性状产生影响。
+
+顶坛花椒是贵州喀斯特干热河谷石漠化地区常见的造林树种，在山区生态和经济建设中发挥了举足轻重的作用。近年来，顶坛花椒表现出以开黄花为典型标志的衰老退化，未衰老退化的顶坛花椒植株开绿色花，花期约为15d，开花后籽粒较多且饱满。而衰老退化的顶坛花椒植株开黄色花比例达 $30 \%$ 以上，并无明显的时间节律，花期约为10d，之后开始凋落，不挂果；通常是远离主干的枝条较早开黄花，且在短期内枝条逐渐死亡。同一花椒植株会同时开黄花和绿花，且开黄花比例逐渐扩大。随着种植时间的增加，顶坛花椒开黄花的范围呈扩大趋势。开黄花现象不是开花节律与物候的改变，而是典型的植株衰老退化现象。
+
+目前，关于土壤养分如何影响顶坛花椒衰老退化的报道较为鲜见，相关机理尚不完全清楚，亟需从土壤矿质元素方面探讨顶坛花椒衰老退化的原因。基于此，本文以衰老退化和正常生长的顶坛花椒植株为研究对象，采用土壤农业化学和环境矿物学的研究方法，探讨土壤矿质元素对顶坛花椒衰老退化的影响机理。本研究能够为顶坛花椒复壮提供理论依据，实现林分稳定与可持续经营，提高顶坛花椒的生产力，巩固顶坛花椒在石漠化治理中的作用。
+
+# 1材料与方法
+
+# 1.1研究区概况
+
+研究区域位于贞丰县北盘江镇查耳岩村（ $\mathrm { 1 0 5 ^ { \circ } 3 8 ^ { \prime } 4 8 . 4 8 ^ { \prime \prime } E }$ ， $2 5 ^ { \circ } 3 9 ^ { \prime } 3 5 . 6 4 ^ { \prime \prime } \mathrm { N } \rangle$ ，生境具有明显的独特性。主要表现为：（1）干热气候，气候类型主要为亚热带湿润季风气候，年均降雨量 $1 \ 1 0 0 \ \mathrm { m m }$ ，季节分配不均匀，冬春旱及伏旱严重，年均温为 $1 8 . 4 ^ { \circ } \mathrm { C }$ ，年均极端最高温为$3 2 . 4 ^ { \circ } \mathrm { C }$ ，年均极端最低温为 $6 . 6 ~ ^ { \circ } \mathrm { C }$ ，年总积温达 $6 5 4 2 . 9 ~ ^ { \circ } \mathrm { C }$ ，冬春温暖干旱、夏秋湿热，热量资源丰富。（2）河谷地形，区域内河谷深切，地下水深埋，海拔高度 $3 7 0 { \sim } 1 4 7 3 \ \mathrm { m }$ ，垂直高差约 $1 ~ 1 0 0 \mathrm { m }$ ，具有典型的河谷气候特征。（3）石漠化发育，属北盘江流域，森林覆盖率不足 $30 \%$ ，基岩裸露率在 $5 0 \% \sim 8 0 \%$ 之间，碳酸盐岩类岩石占 $7 8 . 4 5 \%$ ，土壤以石灰岩为成土母质的石灰土为主，地表破碎，多处于中度、重度石漠化等级。
+
+# 1.2研究方法
+
+1.2.1 样品采集判断顶坛花椒衰老退化的标志是开黄花比例达到 $30 \%$ 以上。2017年4月，在海拔、坡度、坡位、坡向较为一致的区域设置样地，划分为衰老退化和正常生长两种类型，每种类型再依据生长状况划分为不同的情形，选取每种情形的顶坛花椒植株 $3 { \sim } 5$ 株，以单株为对象采集根区范围内 $0 { \sim } 2 0 \mathrm { c m }$ 的土壤样品约 $1 \mathrm { k g }$ （不足 $2 0 \mathrm { c m }$ 的以实际深度为准)，土样混合均匀并去除植物根系、动植物残体、石砾后装入自封袋带回实验室。置于通风避光处自然风干、研磨至 $9 5 \%$ 样品通过 $2 \mathrm { m m }$ 和 $0 . 1 5 \mathrm { m m }$ 筛，用玻璃瓶保存备用。受试植株基本特征如下：
+
+表1受试植株基本特征  
+Table1 Basic characteristics of tested plants   
+
+<html><body><table><tr><td rowspan="2">植株 Plants</td><td rowspan="2">树高 Height (m)</td><td rowspan="2">冠幅 Crown (m)</td><td rowspan="2">黄叶比例 Percentage of yellow leaves (%)</td><td rowspan="2">黄花比例 Percentage of yellow flowers (%)</td><td rowspan="2"></td></tr><tr><td>籽粒特征 Characteristics of seeds</td></tr><tr><td>SL1</td><td>2.1</td><td>2.6x2.6</td><td>35</td><td>30</td><td>黄花不挂果，其余籽粒偏小 Yellow flowers and no fruit, rest of the seeds is small</td></tr><tr><td>SL2</td><td>2.4</td><td>2.4x3.0</td><td>50</td><td>45</td><td>黄花不挂果，籽粒小、不饱满 Yellow flowers and no fruit, seeds are small and not full</td></tr><tr><td>SL3</td><td>3.5</td><td>3.0x2.5</td><td>70</td><td>40</td><td>黄花不挂果，籽粒小、色泽差 Yellow flowers and no fruit, seeds are small and Its color is poor</td></tr><tr><td>ZC1</td><td>2.5</td><td>2.3x3.0</td><td>0</td><td>0</td><td>籽粒呈绿色、饱满 Seeds are green and full</td></tr><tr><td>ZC2</td><td>1.7</td><td>1.8x2.1</td><td>0</td><td>0</td><td>籽粒饱满 Seeds are full</td></tr><tr><td>ZC3</td><td>3.0</td><td>2.4x2.2</td><td>0</td><td>0</td><td>色泽鲜艳、籽粒饱满 Seeds are bright color and full</td></tr></table></body></html>
+
+注：SL1-SL3 分别为衰老退化植株 1-3，ZC1-ZC3 分别为正常生长植株 1-3。下同。Note: SL1-SL3 are aging degraded plants1-3,and ZC1-ZC3 are normal plants 1-3. The same below.1.2.2 样品测定土壤有机碳（Soil organiccarbon,SOC）采用重铬酸钾-外加热法测定，全氮（Total nitrogen,TN）采用半微量开氏法测定，速效氮（Available nitrogen,AN）采用碱解
+
+扩散法测定，全磷（Total phosphorus,TP）采用高氯酸-硫酸消煮-钼锑抗比色-紫外分光光度法测定，速效磷（Available phosphorus,AP）采用氟化铵-盐酸浸提-钼锑抗比色-紫外分光光度法测定，全钾（Total potassium,TK）采用氢氟酸消解-火焰光度法测定，速效钾（Availablepotassium,AK）采用中性乙酸铵浸提-火焰光度法测定（鲍士旦，2008)；硼（B）、砷（As）、硒（Se）按照《区域地球化学勘查规范》（DZ/T0167-2006）进行测定，二氧化硅（ $\mathrm { S i O } _ { 2 }$ ）、氧化钙（CaO）、氧化镁（ $\mathbf { \mathrm { ~ M g O ~ } }$ 、氧化钠（ $\mathrm { ( N a _ { 2 } O ) }$ ）、三氧化二铝（ $\mathrm { . A l _ { 2 } O _ { 3 } }$ ）、三氧化二铁（ $\mathrm { ( F e } _ { 2 } \mathrm { O } _ { 3 }$ ）、铜（Cu）、锌（Zn）、铅（Pb）、铬 $( \mathbf { C r } )$ 、镉（Cd）、钛（Ti）、镍（Ni）、钴（Co）、锶（Sr）、钼（Mo）、氯（CI）、硫（S）依据《多目标区域地球化学调查规范（1:250000）》（DZ/T0258-2014）进行测定。
+
+# 1.3数据处理与分析方法
+
+试验数据采用Microsoft Excel 2010 进行计算与整理，使用OriginPro8.5.1作图，使用SPSS 21.0进行统计分析；采用单因素方差分析（One-wayANOVA）方法检验土壤参数在不同类型之间的差异性；运用主成分分析法提取可以反映原来多个指标的综合性指标，进行土壤质量综合评价。显著性水平均设定为 $\scriptstyle P = 0 . 0 5$ ，极显著性水平均设定为 $P { = } 0 . 0 1$ 。
+
+本研究以土壤 SOC、TN、AN等29项因子作为顶坛花椒根区土壤质量评价的基本指标。由于这些指标量纲不一致，在数值上存在较大差异，评价前对各指标值进行标准化预处理。采用主成分分析方法提取对土壤质量影响较大的因子，实现对多维的土壤养分变量降维。通过主成分分析，得到主成分公因子方差、载荷矩阵和贡献率；主成分特征向量为对应的载荷矩阵值除以该成分特征值的平方根。将主成分特征向量与标准化数据的乘积得到各类型的主成分得分。采用加权法计算土壤质量指数（IFI)，其表达式为（Jinetal,2008)：
+
+$$
+\scriptstyle { \mathrm { I F I } } = \sum W _ { i } \times F _ { i }
+$$
+
+式中， $W _ { i }$ 为各主成分贡献率， $F _ { i }$ 为各类型的主成分得分。
+
+# 2结果与分析
+
+# 2.1根区土壤矿质元素含量
+
+2.1.1 大量元素大量元素在衰老退化和正常生长顶坛花椒植株之间表现出差异（图1)。其中：SOC、TP、TK、AK多表现为显著差异（ $\cdot P { < } 0 . 0 5$ ，下同)，TN、AN、AP 多呈不显著差异（ $\cdot P { > } 0 . 0 5 )$ ，表明C、P和K元素是影响顶坛花椒衰老退化的矿质元素之一，且有效态养分对顶坛花椒生长具有影响。
+
+注：SL1-SL3分别为衰老退化植株1-3，ZC1-ZC3分别为正常生长植株1-3。不同小写字母代表同一养分含量不同植株之间的差异显著（ $_ { _ { P < 0 . 0 5 } }$ 。下同。
+
+![](images/f15c912ff76a32eb5810971bf462f61358c259ac6ec943c3e34d9a7723cfdbb1.jpg)  
+图1大量元素含量
+
+Note: SL1-SL3 are aging degraded plants1-3,and ZC1-ZC3 are normal plants 1-3. Different lowercase letters indicated significant difference in the different plants among the same indicator $( P { < } 0 . 0 5 )$ . The same below.
+
+2.1.2 氧化物在测定的6 种氧化物中， $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathbf { C a O }$ 、 $\mathbf { M g O }$ 、 $\mathrm { N a } _ { 2 } \mathrm { O }$ 在衰老退化类型和正常生长类型中均呈现显著差异， $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { S i O } _ { 2 }$ 多为显著差异，整体表现为衰老退化类型的氧化物含量更低。说明氧化物亏缺是引起顶坛花椒衰老退化的原因，表明中量、微量和有益元素同样对顶坛花椒生长、生理性状产生重要影响。
+
+![](images/917bab5fd3531c59e5f7555276db36eb7bb70414c1dd5a4d59afdcf6fd0b272a.jpg)  
+Fig.1 Content of macroelements   
+图2氧化物含量  
+Fig.2Content of oxides
+
+2.1.3 中、微量矿质元素在测定的中量及微量元素中（表2)，S、Se、Sr、Mo在衰老退化类型和正常生长类型之间多为显著性差异且正常生长植株含量整体偏高，Cu、Pb、Zn、Cr均无显著性差异，其余元素在不同植株根区土壤之间呈现出一定的差异但变化规律不明显。结果也表明中量、微量元素亏缺导致顶坛花椒的衰老退化，元素的亏缺效应较为明显。
+
+Table 2 Content of other mineral elements   
+
+<html><body><table><tr><td>因子Factor</td><td>SL1</td><td>SL2</td><td>SL3</td><td>ZC1</td><td>ZC2</td><td>ZC3</td></tr><tr><td>Ti(%)</td><td>0.74±0.00d</td><td>0.72±0.00b</td><td>0.75±0.00b</td><td>0.72±0.00c</td><td>0.74±0.007d</td><td>0.76±0.01a</td></tr><tr><td>C1/(%)</td><td>0.005±0.00c</td><td>0.007 5±0.000 7a</td><td>0.007±0.00a</td><td>0.006±0.00b</td><td>0.006±0.00b</td><td>0.007 5±0.000 7a</td></tr><tr><td>S(%)</td><td>0.08±0.0014 cd</td><td>0.11±0.006a</td><td>0.09± 0.001bc</td><td>0.07±0.003de</td><td>0.07±0.004e</td><td>0.09±0.01b</td></tr><tr><td>Mn(mg·kg-1)</td><td>0.27±0.007b</td><td>0.26±0.006b</td><td>0.28±0.00a</td><td>0.23±0.005c</td><td>0.22±0.00d</td><td>0.28±0.008a</td></tr><tr><td>Cu(mg·kg-1)</td><td>32.67±5.22a</td><td>30.95±2.76a</td><td>31.71±2.83a</td><td>31.14±4.62a</td><td>29.12±2.99a</td><td>28.95±4.03a</td></tr><tr><td>Pb(mg-kg*1)</td><td>59.15±4.17a</td><td>61.96±2.35a</td><td>62.54±4.26a</td><td>63.04±3.88a</td><td>60.20±3.05a</td><td>58.89±2.55a</td></tr><tr><td>Zn(mg·kg1)</td><td>260.63±17.6</td><td>243.68±22.83</td><td>253.53±19.63</td><td>231.05±16.74</td><td>223.91±17.80</td><td>231.25±15.68</td></tr><tr><td></td><td>8a</td><td>a</td><td>a</td><td>a</td><td>a</td><td>a</td></tr><tr><td>Cr(mg·kg-1)</td><td>174.35±12.5 2a</td><td>158.82±19.44</td><td>166.15±20.97</td><td>173.83±6.82a</td><td>169.31±11.59</td><td>159.09±17.13</td></tr><tr><td>Cd(mg·kg-1)</td><td>1.57±0.02b</td><td>a 1.91±0.07a</td><td>a 1.99±0.01a</td><td>1.57±0.23b</td><td>a 1.59±0.02b</td><td>a</td></tr><tr><td>As(mg·kg-1)</td><td>48.05±1.68a</td><td>42.81±2.52a</td><td>46.24±3.80a</td><td>50.61±3.75a</td><td>49.34±4.24a</td><td>1.92±0.05a 44.32±3.36a</td></tr><tr><td>Ni(mg·kg-1)</td><td>87.58±1.94a</td><td>75.71±0.71c</td><td>80.88±2.13b</td><td>83.67±0.61ab</td><td>81.03±2.06b</td><td>71.31±2.54c</td></tr><tr><td>Se(mg·kg-1)</td><td>0.62±0.02bc</td><td>0.40±0.02e</td><td>0.52±0.04cd</td><td>0.75±0.05a</td><td>0.50±0.04d</td><td>0.68±0.05ab</td></tr><tr><td>B(mg·kg-1)</td><td>55.74±0.38b</td><td>43.46±0.30c</td><td>44.93±0.31c</td><td>58.79±0.40a</td><td></td><td></td></tr><tr><td>Co(mg·kg-1)</td><td>29.01±1.41a</td><td>29.19±4.11a</td><td></td><td></td><td>54.37±0.37b</td><td>43.44±2.64c</td></tr><tr><td>Sr(mg·kg-1)</td><td>56.98±0.23e</td><td></td><td>29.87±3.61a</td><td>29.50±2.12a</td><td>29.00±2.83a</td><td>27.57±1.69a</td></tr><tr><td>Mo(mg·kg-1)</td><td>2.11±0.03c</td><td>58.22±0.30d 1.87±0.02d</td><td>53.43±0.42f 1.99±0.07cd</td><td>59.13±0.14c 2.61±0.08a</td><td>62.59±0.21a 2.40±0.08b</td><td>60.01±0.26b 1.90±0.06d</td></tr></table></body></html>
+
+# 2.2根区土壤质量评价
+
+依据特征值 ${ > } 1$ 和累积贡献率 ${ > } 8 5 \%$ 两个原则，根据旋转后的结果，抽取了4个主成分，其特征值依次为10.68、6.77、4.22、3.84。这4个成分的累积贡献率为 $8 7 . 9 4 \%$ ，表明这4个主成分已经能够反映出原始数据提供的信息总量的 $8 7 . 9 4 \%$ (表3)。根据累积贡献率 ${ > } 8 5 \%$ 的原则，表明这4个主成分就能够解释原始变量，故对前4个主成分做进一步分析。
+
+表2其他矿质元素含量  
+表3主成分分析的特征根及其贡献率  
+Table 3 Eigen value and contribution rate in principal components analysis   
+
+<html><body><table><tr><td>主成分 Principal component</td><td>特征根值 Eigenvalue</td><td>贡献率 Contribution rate (%)</td><td>累积贡献率 Cumulative contribution rate (%)</td></tr><tr><td>1</td><td>10.68</td><td>36.82</td><td>36.82</td></tr><tr><td>2</td><td>6.77</td><td>23.36</td><td>60.18</td></tr><tr><td>3</td><td>4.22</td><td>14.54</td><td>74.72</td></tr><tr><td>4</td><td>3.84</td><td>13.22</td><td>87.94</td></tr></table></body></html>
+
+由因子载荷矩阵得知（表4)，第1成分与 SOC、AN、Cd、S、B等指标显著相关，载荷系数较大；第2主成分在 $\mathbf { M g O }$ 、 $\mathrm { N a } _ { 2 } \mathrm { O }$ 上的负载较大；第3主成分主要受Co的支配；第4主成分的主要支配指标为AP（因子载荷值的绝对值均 ${ > } 0 . 9$ )。不同主成分表示土壤性质的信息不同，能够综合直观地表达土壤质量变化趋势。
+
+Table 4 Component matrixes pre and post rotated   
+
+<html><body><table><tr><td rowspan="2">因子Factor</td><td colspan="4">主成分Principal component</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>SiO2</td><td>-0.638</td><td>0.332</td><td>-0.008</td><td>0.559</td></tr><tr><td>CaO</td><td>0.477</td><td>0.583</td><td>-0.042</td><td>-0.494</td></tr><tr><td>Mg0</td><td>-0.267</td><td>0.941</td><td>-0.026</td><td>-0.057</td></tr><tr><td>NazO</td><td>-0.162</td><td>0.973</td><td>0.013</td><td>-0.036</td></tr><tr><td>AlO3</td><td>-0.667</td><td>-0.735</td><td>0.064</td><td>0.072</td></tr><tr><td>Fe2O3</td><td>-0.484</td><td>-0.794</td><td>0.113</td><td>0.054</td></tr><tr><td>Ti</td><td>0.154</td><td>0.211</td><td>-0.140</td><td>0.921</td></tr><tr><td>C1</td><td>0.861</td><td>0.337</td><td>-0.080</td><td>-0.197</td></tr><tr><td>S</td><td>0.948</td><td>-0.112</td><td>0.091</td><td>0.012</td></tr><tr><td>Mn</td><td>0.761</td><td>-0.170</td><td>-0.083</td><td>0.593</td></tr><tr><td>Cu</td><td>-0.096</td><td>-0.434</td><td>-0.847</td><td>-0.092</td></tr><tr><td>Zn</td><td>0.126</td><td>-0.659</td><td>-0.722</td><td>0.146</td></tr><tr><td>Ni</td><td>-0.669</td><td>-0.664</td><td>0.263</td><td>-0.012</td></tr><tr><td>As</td><td>-0.767</td><td>-0.053</td><td>-0.535</td><td>0.132</td></tr><tr><td>Se</td><td>-0.416</td><td>0.259</td><td>0.190</td><td>0.295</td></tr><tr><td>B</td><td>-0.942</td><td>-0.161</td><td>0.074</td><td>-0.151</td></tr><tr><td>Co</td><td>0.018</td><td>-0.209</td><td>0.940</td><td>-0.074</td></tr><tr><td>Cr</td><td>-0.370</td><td>-0.187</td><td>0.874</td><td>0.099</td></tr><tr><td>Pb</td><td>0.145</td><td>-0.110</td><td>0.863</td><td>-0.352</td></tr><tr><td>Sr</td><td>-0.444</td><td>0.736</td><td>0.033</td><td>-0.151</td></tr><tr><td>Mo</td><td>-0.862</td><td>0.139</td><td>0.062</td><td>-0.375</td></tr><tr><td>Cd</td><td>0.938</td><td>0.073</td><td>0.010</td><td>0.108</td></tr><tr><td>TN</td><td>0.633</td><td>0.598</td><td>-0.062</td><td>0.272</td></tr><tr><td>AN</td><td>0.912</td><td>-0.138</td><td>-0.039</td><td>-0.089</td></tr><tr><td>TP</td><td>0.224</td><td>0.789</td><td>0.133</td><td>0.195</td></tr><tr><td>AP</td><td>0.081</td><td>-0.031</td><td>-0.046</td><td>0.940</td></tr><tr><td>TK</td><td>-0.232</td><td>0.144</td><td>0.038</td><td>0.419</td></tr><tr><td>AK</td><td>0.517</td><td>-0.163</td><td>0.058</td><td>-0.054</td></tr><tr><td>SOC</td><td>0.982</td><td>-0.015</td><td>-0.039</td><td>-0.163</td></tr></table></body></html>
+
+# 2.3土壤质量指数
+
+根据表5可以看出，不同类型的土壤质量指数为 $\mathrm { Z C 3 } > \mathrm { S L 2 } > \mathrm { S L 3 } > \mathrm { Z C 2 } > \mathrm { Z C 1 } > \mathrm { S L 1 }$ 正常生长植株ZC1和衰老退化植株SL1分别位列第1、6位，但排位顺序的变化并不明显。SL3 类型在第1主成分上的得分最高，ZC3在第2、4主成分上的排序最高，ZC1在第3主成分上的相对得分位列第一，表明并非所有元素对顶坛花椒生长均表现为"低抑高促"现象。
+
+表4旋转前后各因子的载荷矩阵  
+表5不同类型的因子得分及其综合评价值  
+Table 5 Factor scores and comprehensive evaluation of different types   
+
+<html><body><table><tr><td>类型Type</td><td>PC1</td><td>PC2</td><td>PC3</td><td>PC4</td><td>IFI</td><td>排序 Sequence</td></tr><tr><td>SL1</td><td>-2.78</td><td>-3.68</td><td>-0.83</td><td>1.83</td><td>-49.98</td><td>6</td></tr><tr><td>SL2</td><td>4.06</td><td>0.19</td><td>-0.30</td><td>-2.62</td><td>32.67</td><td>2</td></tr><tr><td>SL3</td><td>2.14</td><td>-2.65</td><td>0.21</td><td>1.30</td><td>9.98</td><td>3</td></tr></table></body></html>
+
+<html><body><table><tr><td>ZC1</td><td>-3.37</td><td>0.56</td><td>1.49</td><td>-1.69</td><td>-30.59</td><td>5</td></tr><tr><td>ZC2</td><td>-2.97</td><td>1.16</td><td>0.74</td><td>-0.17</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>-23.58</td><td>4</td></tr><tr><td>ZC3</td><td>2.92</td><td>4.39</td><td>-1.32</td><td>2.24</td><td>61.51</td><td>1</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1土壤矿质元素对顶坛花椒衰老退化的影响
+
+矿质元素对作物产量、品质产生直接影响，在作物生长、生理过程中发挥着重要作用（赵青华等，2014)，不同的用量和配比也会对人体健康产生影响（Zhao etal,2017)，因而矿质元素与土壤和植物营养的关系为广大学者所关注。据表3和表4，第1主成分对土壤质量的影响权重较大（ $3 6 . 8 2 \%$ )，总体表现为衰老退化型植株的排序更高，表明大量元素和中量、微量元素同时对土壤质量产生影响，并且养分的可利用数量对植株生长的影响可能更大，因而应摒弃只重视N、P、K养分管理的粗放式经营方式；第2、3主成分多表现为正常生长植株较高，这两个成分主要受 $\mathbf { M g }$ 、Na、Co等元素决定，虽然喀斯特地区具有高Ca、Mg 等特性，但土壤中的 $\mathbf { M g }$ 元素含量也存在较大差异甚至成为限制因子，原因可能是土壤质量退化导致母岩中元素的溶解、释放速率降低，表明顶坛花椒衰老退化极有可能影响母岩的风化;第4主成分在衰老退化型和正常生长型植株之间差异的规律不明显，原因可能是顶坛花椒根系对P的吸收能力较弱，导致P元素对植株生长的影响效应不显著。综上，笔者推测矿质元素尤其是中量、微量元素亏缺和有效态的亏缺导致了顶坛花椒衰老退化，同时衰老退化类型的植株根系的养分吸收能力降低，说明应采取系统学和生态学的理论解决该问题。
+
+Mg 在叶绿素合成和光合作用中起着重要作用，是构成光量子的必要结构，为进行有效光合碳同化能力的先决条件；Mg 缺乏可能导致顶坛花椒植株叶绿素合成能力降低。Na 是$\mathrm { C } _ { 4 }$ 光合途径植株必需的微量元素，具有不可替代性（陆景陵，2003)；Na 缺乏导致光合作用受阻，可能是导致顶坛花椒黄叶比例较高的原因，也可能导致细胞渗透压较低，维持膨压的能力减弱，影响植株体内的养分运输和转移。Co具有稳定叶绿体膜上脂蛋白复合体的功能（陆景陵，2003)，Co含量充足可以促进光合作用，提高果实产量。本文中，衰老退化的顶坛花椒植株黄色叶片不断增多，且从枝条顶端开始，可能与其元素亏缺导致光合能力下降有关，也可能是元素的运输动力受到影响。适当增加土壤中Co的含量，能够增大叶面积上的叶绿体数目、表面积和色素含量，促进光合作用，抑制植株衰老退化。以上分析表明，矿质元素亏缺会影响植物的生长和生理性状，导致光合能力降低，影响元素的吸收、运输和转化，进而影响植株的生长甚至寿命。
+
+# 3.2主成分分析在土壤质量评价中的应用
+
+土壤质量是土壤结构、性质和功能的综合体现，能够敏感地指示土壤条件的动态变化。土壤质量评价是对土壤生产力的综合鉴定，有利于诊断土壤退化的原因，集成土壤健康经营策略。国内在土壤质量评价指标体系和评价方法方面开展了诸多有意义的工作，但尚缺少统一的土壤质量评价标准，也尚无固定的方法（吕真真等，2017)。目前多采用主成分分析方法来定量评价土壤质量（成臣等，2018)，通过线性变换将多个指标转化为相互独立的能够充分表征总体信息的少数主成分，最大限度地减少数据冗余（张润楚，2006)。本文采用主成分方法对不同生长状况的顶坛花椒植株根区土壤质量进行评价，抽取的主成分能够反映全部指标 $8 5 \%$ 以上的信息，且土壤质量与衰老程度之间有一定的关联性，对指导土地资源可持续利用具有理论和实践价值。因此，采用主成分分析结果基本可以客观地反映不同植株的根区土壤质量，有助于根据评价结果提出养分高效管理策略。本文通过主成分分析方法筛选出的主要支配因子，包括 SOC、速效养分和必需、有益微量元素，表明在顶坛花椒可持续经营过程中应注重养分的全面性和均衡性。抽取的信息较为完整，能够建立土壤肥力质量评价的简化指标体系，实现真实反映土壤质量的目的，大大降低了评价工作。
+
+# 3.3基于矿质元素的顶坛花椒可持续经营策略
+
+顶坛花椒的衰老退化已经影响到石漠化治理成果的巩固，降低贵州喀斯特山区农户种植顶坛花椒的积极性，不利于山区生态、经济的可持续发展，亟需采取科技手段，实现顶坛花椒的健康经营。本文的研究结果表明， $\mathbf { M g }$ 、Na、Co等矿质元素含量较低可能是影响顶坛花椒正常生长、生理状态的关键因子之一，进而限制光合能力和物质合成，加速顶坛花椒的衰老退化，说明补充矿质元素、创造良好的土壤结构是提高顶坛花椒生产力的重要途径。依据结构决定功能的原理，要取得较优的土壤功能，需要有良好的土壤结构，本文研究表明 SOC是影响土壤质量的主要因子之一，说明培育良好的土壤团粒结构是提高顶坛花椒生产力的重要措施。虽然地质环境中的矿质元素含量丰富，但是土壤中仍然表现为亏缺状态，原因可能是养分溶解与释放速率较低；也可能受制于土壤质量退化，特别是土壤中生物的种类和数量减少。因此，协调好植物与土壤的关系是顶坛花椒林经营的重点。近年来，顶坛花椒衰老退化呈加剧趋势，与之伴随的是养分和水分管理愈加粗放，形成恶性循环，导致顶坛花椒的产量和品质逐年降低。因此，水分和养分耦合自给应成为顶坛花椒可持续经营的关键措施，对提高养分利用能力具有显著影响。
+
+本文中，由于尚未公开发布包括全部植物营养元素的土壤质量评价指标体系，因而部分元素在植物生长、生理过程中表现为污染效应还是亏缺效应尚无确切定论，进而限制了对结果的深入评价；此外，目前在研究土壤质量时都视矿质元素为越高越好（戒上型函数)，但是元素浓度超过一定范围会表现出抑制或拮抗效应，并且由于植株耐受能力的差异以及元素之间作用的综合效应，给这一质量评价和原因诊断带来诸多困难。因此，影响顶坛花椒衰老退化的矿质元素机理尚需进一步研究。
+
+# 4结论
+
+（1）C、P、K、S、Se、Sr、Mo 和氧化物等物质亏缺是导致顶坛花椒衰老退化的原因之一，元素的有效态含量也对顶坛花椒植株生长产生影响。（2）土壤质量指数排序为$\mathrm { Z C 3 } > \mathrm { S L 2 } > \mathrm { S L 3 } > \mathrm { Z C 2 } > \mathrm { Z C 1 } > \mathrm { S L 1 }$ ，表明土壤综合质量对顶坛花椒衰老退化存在一定影响。（3）顶坛花椒林地养分管理上应培育良好的土壤结构，注重养分的全面和均衡。
+
+# 参考文献
+
+ABER JD,MAGILL A,MCNUITY SG, et al,1995.Forest biogeochemistry and primary production altered by nitrogen saturation[J].Water Air Soil Poll, 85(3):1665-1670.   
+BAO SD,2008.Analysis of soil agrochemical [M].3rd.ed.Beijing: China Agriculture Pres.[鲍士旦,2008．土壤 农化分析(第三版)[M].北京：中国农业出版社.]   
+CHEN FZ,2015.Effects of application and ratio of nitrogen,phosphorus,and potassium on mineral nutrient absorption and yieldof cucumber[J].JNWA&FUniv,43(6):174-180.[陈凤真,2015.氮磷钾用量及配比 对黄瓜矿质元素吸收和产量的影响[J]．西北农林科技大学学报,43(6):174-180.]   
+CHEN MJ,DUAN ZQ,LIN XG, et al,2O11. Status quo and prospects of the studyon soil quality stands in China[J].Acta Pedol Sin,48(5):1059-1071.[陈美军，段增强，林先贵,2011．中国土壤质量标准研究现状 及展望[J]．土壤学报,48(5):1059-1071.]   
+CHENG C,WANG J, CHENG HH,et al,2018.Effects of straw returning and tillage system on crop yield and soil fertilityquality in paddy field under Double-Cropping-Rice System[J].Acta PedolSin,55(1):247-257.[成 臣，汪建军，程慧煌，等,2018．秸秆还田与耕作方式对双季稻产量及土壤肥力质量的影响[J].土壤学报， 55(1): 247-257.]   
+DING XC,2006.Effect of mineral components on promotion of phylostachys praecox flowering in the mulching cultivation stands[J].JZhejiangFor Sci& Technol,26(4):10-14.[丁兴萃,2006.矿质元素在保护地栽培促进 早竹开花中的影响[J].浙江林业科技,26(4):10-14.]   
+GILLIAMFS,DICK DA,2010.Spatial heterogeneityof soil nutrientsand plant species in herb-dominated communities of contrasting land use[J]. Plant Ecol, 29(1): 83-94.   
+GUSEWELL S,2005. Responses of wetland graminoids to the relative supply of nitrogen phosphorus[J]. Plant Ecol, 176(1): 35-55.   
+JIN ZZ,LEI JQ,XU XW,etal,2O08.Evaluation of soil fertilityof the shelter-forest land along the Tarim Desert Highway[J]. Chin Sci Bull,53(S2): 125-136.   
+JOIMEL S,CORTETJ,JOLIVETCC,et al,2016.Physico-chenical characteristics of topsoil for constrasted forest, agricultural, urban and industeral land uses in France[J]. Sci Total Environ, 545-546: 40-47.   
+LI XM,MALJ,BU N, et al,2017.Endophytic infection modifies organic acid and mineral element accumulation by rice under $\mathbf { N a } _ { 2 } \mathbf { C O } _ { 3 }$ stress[J]. Plant & Soil,420: 93-103.   
+LU JL,2003.Plant Nutrition (Second Edition)[M]. Beijing: China Agr Univ Press.[陆景陵,2003．植物营养学   
+(第2 版)[M].北京：中国农业大学出版社.]   
+LU ZZ,WU XD,HOU HQ,et al,2017.Effect of diferent application ratios of chemical and organic fertilizers on soil quality in double cropping paddy fields[J].JPlant NutrFert,23(4): 904-913.[吕真真，吴向东，侯红乾, 等,2017．有机—无机肥配施比例对双季稻田土壤质量的影响[J]．植物营养与肥料学报,23(4):904-913.]   
+MAO QG LU XK,CHEN H, et al, 2015.Responses of terrestrial plant diversit y to elevated mineral element inputs[J].Acta Pedol Sin,35(17):5884-5897.[毛庆功，鲁显楷，陈浩，等,2015．陆地生态系统植物多样性 对矿质元素输入的响应[J].生态学报,35(17):5884-5897.]   
+WANG YY,SUNJ,LIU ZH,et al,2016.Soilfertilityqualityassessmentof Magnolia oicinaliscommunities in Qinba mountains[J].Acta Ecol Sin,36(16),5133-5141.[王钰莹，孙娇，刘政鸿，等,2016．陕南秦巴山区厚 朴群落土壤肥力特征[J].生态学报,36(16):5133-5141.]   
+WHYTEMARE AB,EDMONDS RL, ABER JD,et al,1997. Influence of excess nitrogen deposition on a white spruce (Picea glauca) stand in southern Alaska[J]. Biogeochemistry, 38(2): 173-187.   
+ZHANG L,WEN SL,CAI ZJ,et al,2O14. Characteristics of soil fertility under different vegetation types in the hilly red soil region of southern Hunan[J].Acta Ecol Sin,34(14):3996-4005.[张璐，文石林，蔡泽江，等, 2014．湘南红壤丘陵区不同植被类型下土壤肥力特征[J].生态学报,34(14):3996-4005.]   
+ZHANG PP, PU XZ, ZHANG WF, 2018. Soil quality assessment under different cropping system and straw management in farmland of arid oasis region[J].Chin JAppl Ecol,2018,29(3):839-849.[张鹏鹏，濮晓珍，张 旺锋，2018.干旱区绿洲农田不同种植模式和秸秆管理下土壤质量评价[J]．应用生态学报，2018,29(3): 839-849.]   
+ZHANG RC,2006.Multivariate statistical analysis[M]. Beijing: Sci Pres:165-183.[张润楚,2006.多元统计分 析[M]．北京：科学出版社:165-183.]   
+ZHAO QH, SUNLT, WANG Y, et al,2014. Effcts of arbuscular mycorrhizal fungi and nitrogen regimes on plant growth,nutrient uptake and tea quality in Camelia sinensis (L.)O. Kuntze[J].Plant Physiol J,5O (2):164-170. [赵青华，孙立涛，王玉，等,2014．丛枝植菌根真菌和施氮量对茶树生长、矿质元素吸收与茶叶品质的影 响[J]．植物生理学报,50(2):164-170.]   
+ZHAO Y,FENG YN,LI L,et al, 2017. Tissue-specific regulation of the contents and correlationsof mineral elements in hens by zinc oxide nanoparticles[J]. Biol Tra Elem Res,177: 353-366.   
+ZHU NN, HAN S,YANG CN,et al, 2016.Element-tracing of mineral maters in Dendrobium officinale using ICP-MS and multivariate analysis[J]. Spinger Plus,5: 979.

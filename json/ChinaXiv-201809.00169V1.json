@@ -1,0 +1,489 @@
+[
+    {
+        "type": "text",
+        "text": "Soil microbial activity and community structure as affected by exposure to chloride and chloride-sulfate salts ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Qianqian1.2.3, Steven A WAKELIN4, LIANG Yongchao5, CHU Guixin1,2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Life Science,Shaoxing University, Zhejiang 312000,China;   \n²Department of Resources and Environmental Science,Colege ofAgriculture/the KeyLaboratoryofOasis Eco-agricultureof the Xinjiang Production and Construction Corps,Shihezi University,Shihezi 832OO3,China;   \n3College of Resources and Environmental Sciences,Nanjing Agricultural University,Nanjing 210o95,China;   \n4 Department of Forest Systems,Scion Research, Christchurch 8540, New Zealand;   \n5 Ministryof Education KeyLaboratoryofEnvironment Remediationand Ecological Health,Collgeof Environmental & Resource Sciences, Zhejiang University,Hangzhou 31Oo58,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Mixed or chloride salty ions dominate in saline soils,and exert wide-ranging adversely affect on soil biological processes and soil functions.The objectives of this study were to (1) explore the impacts of mixed (0,3, 6,10,20 and $4 0 \\ \\mathrm { g } \\ C l ^ { - } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt/kg dry soil) and chloride (0, 1.5, 3,5, 8 and $1 5 \\mathrm { g C l ^ { - } s a l t / k g }$ dry soil) salts on soil enzyme activities，soil physiological functional (Biolog) profiles and microbial community structure by using soil enzymatic, Biolog-Eco microplates as wellas denaturing gradient gel electrophoresis (DEEG) methods,and (2) determine the threshold concentration of soil electronic conductivity (EC1:5) on maintaining the functional and structural diversity of soil microbial community. The addition of either $\\mathrm { C l ^ { - } }$ or mixed $\\mathrm { C l ^ { - } / S O } _ { 4 } \\mathrm { { } } ^ { 2 - }$ salt obviously increased soil EC,but adversely affected soil biological activities including soil invertase activity， soil microbial biomass carbon (MBC)and substrate-induced respiration (SIR). $\\mathrm { C l ^ { - } }$ salt showed a greater deleterious influence than mixed $\\mathrm { C l ^ { - } / S O _ { 4 } } { ^ { 2 - } }$ （204号 salt on soil enzymes and MBC, e.g., the higher soil MBC consistently appeared with $\\mathrm { C l ^ { - } / S O } _ { 4 } { } ^ { 2 - }$ instead of $\\mathrm { C l ^ { - } }$ treated soil. Meanwhile,we found that SIR was more reliable than soil basal respiration (SBR) on explaining the changes of soil biological activity responsive to salt disturbance. In addition, microbial community structures of the soil bacteria,fungi,and Bacillus were obviously afected by both salt types and soil EC levels,and its diversity increased with increasing of mixed $\\mathrm { C l ^ { - } / S O } _ { 4 } { } ^ { 2 - }$ salt rates,and then sharply declined down after it reached critical point. Moreover, the diversity of fungal community was more sensitive to the mixed salt addition than other groups.The response of soil physiological profiles (Biolog) followed a dose-response pattern with $\\mathrm { C l ^ { - } }$ $( \\mathrm { R } ^ { 2 } { = } 0 . 8 3 )$ or mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ $\\mathrm { ( R ^ { 2 } { = } 0 . 8 9 ) }$ salt. The critical threshold concentrations of salts for soil physiological function were $0 . 4 5 ~ \\mathrm { d S / m }$ for $\\mathrm { C l ^ { - } }$ and 1.26 $\\mathrm { d } \\mathrm { S } / \\mathrm { m }$ for $\\mathrm { C l ^ { - } / S O _ { 4 } ^ { 2 - } }$ ,and those for soil microbial community structural diversity were $0 . 7 0 ~ \\mathrm { d } \\mathrm { S } / \\mathrm { m }$ for $\\mathrm { C l ^ { - } }$ and $1 . 7 5 ~ \\mathrm { d S / m }$ for $\\mathrm { C l ^ { - } / S O _ { 4 } ^ { 2 - } }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: soil biological activity; microbial diversity; chloride salt; mixed salt; threshold concentration ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil salinity is a significant constraint on agricultural production.It was reported that over $6 \\%$ of the world's land is affected by soil salinity,accounting for ${ > } 8 0 0 { \\times } 1 0 ^ { 6 } \\ \\mathrm { h m } ^ { 2 }$ of land (Munns and Tester, 2Oo8). In arid and semi-arid regions, soil salinity has already reduced the potential crop production by ca. $20 \\%$ (Porcel et al., 2O12). In China, the total area of saline soil is about $3 6 \\times 1 0 ^ { 6 }$ $\\mathrm { h m } ^ { 2 }$ ，accounting for $4 . 8 8 \\%$ of the country's total available land area(Wang et al., 2O11). As soil salinization usually triggers by tillage practices,drainage and irrigation,intensive agricultural land is particularly at risk of degradation caused by salinization.Globally, ca. $0 . 5 \\% - 1 . 0 \\%$ of irrigated areas is abandoned annually due to the deleterious impacts of salinity (FAO,2O02),and the annual cost caused by soil salinization is estimated to be greater than USs $\\beta 2 7 . 3 { \\times } 1 0 ^ { 9 }$ (Qadir et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Salinity impacts agricultural production through deteriorations of soil physical-chemical properties such as permeability，aggregate stability,and soil structure (Morrissey et al., 2014; Qadir et al.，2O14)，which in turn have concomitant impacts on soil microbial community diversity and function (Rietz and Haynes,2O03; Cortes-Lorenzo et al.,2O14),and these underpin provisioning services (production of food and fiber), regulating services (nutrient cycling, soil C storage, etc.) and supporting natural capital (the extent of biological diversity in soil) (Dominati et al., 2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Garcia and Hernandez (1996) pointed out that high soil electronic conductivity (EC),a result of accumulation of mobile salts in soils,resulted in the reduction of soil aggregate stability and the decrease of soil biological activity. Following this,Wakelin et al. (2O12） and Morrissey et al. (2014) found the obvious shifts in bacterial abundance and community composition along with soil EC gradients. However, different types and levels of soil salt exhibit different impacts on soil biological property and function. For example,soil nitrification rate is increasingly inhibited by the increase of soil EC (Inubushi et al.,1999). Rath et al. (2016) showed that microbial respiration was more strongly affected by $\\mathbf { C l } ^ { - }$ than by $S O _ { 4 } { } ^ { 2 - }$ containing salts. Nevertheless,controversial results often exist in literature about the relative impact of salt type and concentration on soil biological property (Rath and Rousk，2O15； Rath et al.， 2O16). Considering the increasing concerns of the soil salinization problem，further understanding the impacts of salt on soil biological process is urgently needed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present study, the impacts of chloride $\\left( \\mathbf { C l ^ { - } } \\right)$ and mixed salt $( \\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - } )$ gradients on soil microbial communities and enzyme activities were assessed. The objectives of this study were to (1）explore the influences of $\\mathrm { C l ^ { - } }$ and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salts on soil biological characteristics including soil enzyme activity, physiological function,and soil microbial community composition and diversity;and (2) determine the threshold concentration of salinity $( \\mathrm { E C } _ { 1 : 5 } )$ in maintaining soil microbial community function and structural diversity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Site description and soil sampling ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The soil samples were collected from the Wulanwusu Meteorological Station ( $4 4 ^ { \\circ } 1 7 ^ { \\prime } \\mathrm { N }$ ， $8 5 ^ { \\circ } 4 9 ^ { \\prime } \\mathrm { E }$ ), located in Shawan County, Xinjiang, China. The site has an annual average temperature of $7 . 0 ^ { \\circ } \\mathrm { C }$ an average annual precipitation of $2 1 1 ~ \\mathrm { m m }$ ， and an average annual evaporation of $1 6 6 4 ~ \\mathrm { m m }$ . The soil is classfied as a cultivated grey desert soil (Calcaric Fluvisol, World Reference Base for Soil Resources)，with the following physical-chemical properties: soil $\\mathrm { E C } _ { 1 : 5 }$ of $0 . 1 6 ~ \\mathrm { d S / m }$ ， organic content of $5 . 0 3 ~ \\mathrm { g / k g }$ ,and field moisture capacity of $2 4 . 9 \\%$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil cores ( $\\mathrm { 0 - 2 0 ~ c m }$ in depth and $5 \\ \\mathrm { c m }$ in diameter） were collected at random after removing the litter,and were thoroughly mixed to form a representative composite sample of this area. Plant residues and visible animals (e.g.,invertebrates） were manually removed, then soil sample was sieved ( $( < 2 ~ \\mathrm { m m } )$ and stored at $4 ^ { \\circ } \\mathrm { C }$ ，Before the salt-dose incubation experiment,pre-experiment was conducted to activate soil microbial activity at the $50 \\%$ of the water holding capacity for $^ { 7 \\mathrm { d } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Mesocosm experiment ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A mesocosm incubation experiment was set up to investigate the impacts of salt type and rate on soil biological properties.Chloride saline gradient $C 1 ^ { - }$ treatments,i.e., 1.5,3, 5,8,and $1 5 \\ \\mathrm { g \\ C l ^ { - } } /$ kg dry soil) was simulated by combining $\\mathrm { C a C l } _ { 2 }$ and $\\mathrm { \\Delta N a C l }$ with the molar ratio of 1:1,while mixed saline gradient (mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ treatments,i.e., 3,6, 10,20,and $4 0 \\textrm { g C l - } / \\mathrm { S O _ { 4 } } ^ { 2 - } / \\mathrm { k g }$ dry soil) was simulated by combining $\\mathrm { C a C l } _ { 2 }$ and $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ with the molar ratio of $\\mathrm { C l ^ { - } }$ and $S O _ { 4 } { } ^ { 2 - }$ of 3:1. All these two-salt gradients were sterilized using autoclave ( $1 2 1 ^ { \\circ } \\mathrm { C }$ ， $1 0 0 \\mathrm { { k P a } }$ for $3 0 ~ \\mathrm { { m i n } } \\mathrm { { \\it } }$ ）beforemixed them with soil. For both salt treatments, five increasing levels of salt were thoroughly mixed into $1 ~ \\mathrm { k g }$ samples of sieved soil. The soil receiving neither $\\mathbf { C l } ^ { - }$ nor $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ was regarded as the control treatment (CK). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An aliquot of $1 ~ \\mathrm { k g }$ soil was taken in each plastic pot ( $1 3 \\ \\mathrm { c m }$ heightx11 cm bottom diameter), and each treatment had three replicates. Al treatments incubated 31 d in a growth chamber at a constant temperature of 25 $( \\pm 2 ) ^ { \\circ } \\mathrm { C }$ in the dark condition.The sterilized Milli-Q water was added daily to maintain soil moisture at the water holding capacity of $60 \\%$ during the whole incubation period. The level of soil salinity in this study was expressed using soil EC ( $\\mathrm { \\Delta } \\mathrm { \\cdot } \\mathrm { d } \\mathrm { S } / \\mathrm { m }$ ,1:5,soil:water), and was measured by a DDS-3O7 conductivity meter (INESA, Shanghai, China; Rath and Rousk, 2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At the end of the incubation, each soil sample was thoroughly mixed and divided into three portions. One was air-dried to determine soil EC. The second portion was stored at $4 ^ { \\circ } \\mathrm { C }$ prior to analysis of microbial biomass carbon (MBC)，soil basal respiration (SBR)，enzyme activity (within 3 to $^ { 7 \\mathrm { d } }$ ）and soil physiological profiles.The third portion was stored at $- 8 0 ^ { \\circ } \\mathrm { C }$ before used for DNA-based analysis of the microbial community composition. All soil microbial parameters were measured three times (total soil sample for each parameter=treatmentsxreplicates). Soil moisture determination paralleled with the measurements of soil microbial culture-independent parameters and soil enzyme activities.All soil parameters are presented as soil dry weight $( 1 0 5 ^ { \\circ } \\mathrm { C } )$ basis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Soil enzyme activities ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to the methods for soil enzyme activity analysis (Guan et al.，1986),we measured catalase activity using the potassium permanganate titration method.Briefly, $_ \\textrm { 1 g }$ of air-dried soil was titrated with $0 . 1 \\ \\mathrm { m o l / L \\ K M n O _ { 4 } }$ ，and the volume of each titration was measured and the activity was calculated. Similarly, we estimated soil polyphenol oxidase activity by the pyrogallol method based on the content of gallic acid that was generated during the process. Soil invertase activity was measured by the 3, 5-dinitrosalicylic acid colorimetric method at $5 0 8 ~ \\mathrm { n m }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 MBC and SBR ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We determined MBC (an indicator of the overall size of the soil microbe） using the fumigation-extraction method according to Vance et al. (1987). In brief, fumigated and non-fumigated soils ( $\\boldsymbol { 1 0 } \\mathrm { \\ : g }$ dry weight) were extracted with $4 0 ~ \\mathrm { m L }$ of $0 . 5 \\mathrm { ~ M ~ K _ { 2 } S O _ { 4 } }$ (soil/extractant ratio 1:4); all soil samples were shaken for $3 0 ~ \\mathrm { m i n }$ ,filtered through a $0 . 4 5 \\mathrm { - } \\mu \\mathrm { m }$ glass fiber filter, and then used for measurement of C on a total organic carbon (TOC） analyzer (TOC-5000A, Shimadzu, Kyoto, Japan). The amount of MBC was calculated by Equation 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { M B C = }$ (total C amount in fumigated extract-total C amount in non-fumigated extract) $\\times 0 . 3 8$ where O.38 is a conversion factor for C (Vance et al.,1987). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SBR(an indicator of the overall microbial activity） was measured by placing $3 0 ~ \\mathrm { g }$ air-dry soil into $5 0 ~ \\mathrm { m L }$ beakers and the sample was then incubated at $2 5 ^ { \\circ } \\mathrm { C }$ in the dark in a 1-L air-tight sealed jar along with $1 0 ~ \\mathrm { m L }$ of $1 \\ \\mathrm { M \\ N a O H }$ .The $\\mathrm { C O } _ { 2 }$ C evolved was determined by titration after 2, 5, and $1 0 \\mathrm { d }$ ,respectively (Anderson,1982). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5Substrate induced respiration and community-level physiological profiling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil microbial physiological functional profile was measured by Biolog-Eco microplates (Biolog Co., Hayward, CA,USA). Each Eco-plate contained 3 replicate sets of 31 ecologically-relevant C substrates along with a no-C treatment (control). Briefly, 2.6 $( \\pm 0 . 1 )$ ） $\\mathrm { \\bf { g } }$ soil was weighed into a ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$5 0 \\mathrm { - m L }$ centrifuge tube and $2 7 ~ \\mathrm { m L }$ of phosphate-buffered saline (PBS; $\\mathrm { p H } 6 . 8 ) \\$ added. The samples were shaken by end-over-end tumbling for $2 \\mathrm { h }$ to completely disperse soil particles.A second 1:10 dilution was made into PBS and mixed for a further $3 0 \\ \\mathrm { m i n }$ . Aliquots were then loaded into Biolog-Eco microplates ( $1 0 0 ~ \\mathrm { m L }$ per well). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Color development in each well was determined at the start of the experiment $\\left( \\mathrm { T } _ { 0 } \\right)$ using a Biolog Micro stationTM (BIO-TEK Instruments Inc.，Winooski, VT, USA） at $5 9 0 ~ \\mathrm { n m }$ ,and then at $1 2 \\mathrm { ~ h ~ }$ intervals over a 12O-h incubation period( $2 8 ^ { \\circ } \\mathrm { C }$ ，dark).At each sampling time,the color development of each substrate was calculated within each plate. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For Biolog analysis, $\\mathrm { O D } _ { 5 9 0 }$ value of the control (water) was subtracted from the value of each substrate-containing well. The average well color development (AWCD), representing multiple SIR to $3 1 \\mathrm { C }$ sources,was calculated for each sampling time over the 12O-h incubation (Wekelin et al., 2010). For each sample,the AWCD was integrated over time (the area under the curve; AUC) to produce an AWCD-AUC statistic representing multiple SIR for each sample. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6DNA extraction and biological community structure and diversity ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil DNA was extracted from $ { 0 . 7 \\mathrm { ~ g ~ } }$ of soil using the PowerSoilTM DNA Isolation Kit (MO BIO Laboratories Inc., USA) following the manufacturer's instruction. DNA extracts were eluted into TE buffer ( $\\mathrm { i 0 ~ m M }$ Tris, $\\mathrm { p H } 7 . 5$ ,1 mM EDTA) and stocks stored at $- 8 0 ^ { \\circ } \\mathrm { C }$ .Working solutions of 1/10 dilution of stock DNA in sterile, DNA-free water were used for PCR. These solutions were stored at $- 2 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil Bacillus can produce a wealth of antibacterial substances including lipopeptides, polypeptides,and phospholipids,reflecting the capacity of abiotic stress tolerance (Han et al., 2014). Thus,soil bacterial, fungal, and Bacillus-specific PCRs were conducted on the soil DNA samples.The PCR methods for these have been described fully by Heuer and Smalla (1997), Garbeva et al. (2003) and Wakelin et al. (2007). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Community profiles were based on denaturing gradient gel electrophoresis (DGGE) fingerprint profiles analysis. DGGE was performed using a DCode System (BioRad, Laboratories, Hercules, CA,USA).Profiling of total bacteria used a $7 \\%$ acrylamide: bis-acrylamide (37.5:1.O) gel with a formamide and urea denaturing range of $45 \\% - 5 5 \\%$ (Wakelin et al., 2012). For soil fungi,a $6 \\%$ polyacrylamide gel with a $3 0 \\% - 5 0 \\%$ denaturing range was used (Wakelin et al.，2OO7). For Bacillus,DGGE was conducted using $6 \\%$ acrylamide gels with a $3 5 \\% - 7 5 \\%$ denaturing range (Wakelin et al., 201O). For all DGGE, separation was generated using $1 \\times \\mathrm { T A E }$ buffer at $6 0 ^ { \\circ } \\mathrm { C }$ with $9 0 \\mathrm { V } ,$ and for $1 7 \\mathrm { h }$ (Wakelin et al., 2010). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DGGE gels were stained using SYBR gold ( $\\mathrm { 1 \\times T A E }$ buffer；molecular probes）for $3 0 ~ \\mathrm { { m i n } }$ and visualized on a DarkReader (Clare Chemicals Inc.， USA). Gel images were digitally captured using an Olympus E-5OO digital SLR camera and the position and intensity of bands were determined using Gel-Quant software.The Shannon index ( $H ^ { \\prime }$ ； Eq.2） was calculated from the profiles of bacteria, fungi,and Bacillus communities. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { \\prime } { = } { - } \\sum p _ { i } \\times \\ln p _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $p _ { i }$ is the proportion of members that a particular species $i$ contributes to the total in the sample (Shannon and Weaver, 1949). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6.1 PCRofbacteria ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The primer universal pair F968-GC-R1404 (Heuer and Smalla,1997) was used to amplify soil bacterial16S rRNA genes (Table 1).Each $2 5 ~ \\mu \\mathrm { L }$ reaction contained $4 ~ \\mu \\mathrm { L }$ template DNA, $1 ~ \\mu \\mathrm { L }$ of each $1 0 ~ \\mathrm { m M }$ primer, $1 0 ~ \\mu \\mathrm { L }$ of $2 \\times$ Taq mix (Cwbiotech, China),and $9 \\mu \\mathrm { L }$ of DNA-free $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ .The PCR cycling was: denaturation at $9 4 ^ { \\circ } \\mathrm { C }$ for $5 ~ \\mathrm { m i n }$ ,followed by 3O cycles of denaturing for $1 ~ \\mathrm { m i n }$ at $9 4 ^ { \\circ } \\mathrm { C }$ ，annealing for $1 ~ \\mathrm { m i n }$ at $6 7 ^ { \\circ } \\mathrm { C }$ and extension for 1 min at $7 2 ^ { \\circ } \\mathrm { C }$ (annealing temperature lowered $0 . 5 ^ { \\circ } \\mathrm { C }$ per cycles until reaching $5 7 ^ { \\circ } \\mathrm { C }$ ),then another18 cycles of denaturing for1 min at $9 4 ^ { \\circ } \\mathrm { C }$ ,annealing for $1 \\mathrm { m i n }$ at $5 7 ^ { \\circ } \\mathrm { C }$ ,and extension for $1 \\mathrm { m i n }$ at $7 2 ^ { \\circ } \\mathrm { C }$ .The PCR was followed by a final extension for $2 0 \\mathrm { m i n }$ at $7 2 ^ { \\circ } \\mathrm { C }$ . The product of fragment length is 450 bp. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6.2PCR of fungi ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The primer universal pair ITS1F-GC-ITS2 (Wakelin et al., 2OO7) was used to amplify soil fungi ITSrRNA genes(Table1).Each $2 5 ~ \\mu \\mathrm { L }$ reaction contained $6 ~ \\mu \\mathrm { L }$ template DNA, $0 . 8 ~ \\mu \\mathrm { L }$ of each 10 $\\mathbf { m } \\mathbf { M }$ primer, $1 0 ~ \\mu \\mathrm { L }$ Taq mix(Cwbiotech, China),and $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ to reach $2 5 ~ \\mu \\mathrm { L }$ .ThePCR program was as follows: denaturing step of $9 4 ^ { \\circ } \\mathrm { C }$ for $5 \\mathrm { m i n }$ , followed by 36 cycles of denaturing for1 min at $9 4 ^ { \\circ } \\mathrm { C }$ ，annealing for $3 0 ~ \\mathrm { s }$ at $5 8 ^ { \\circ } \\mathrm { C }$ ,and extension for $1 ~ \\mathrm { m i n }$ at $7 2 ^ { \\circ } \\mathrm { C }$ ,anda final extension for 10 min at $7 2 ^ { \\circ } \\mathrm { C }$ . The product of fragment length is 300 bp. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6.3 PCR ofBacillus ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bacillus,group-selective community profiling was based on the nested PCR method of Garbeva et al. (2O03). Primers BACF and R1378 were used in the first-round PCR. Primers BACF and R1378 were used in the first-round PCR at $0 . 2 ~ \\mathrm { m M }$ each (Table 1).The reaction mixture also contained 1U of HotStar Taq polymerase (Qiagen), $2 . 5 ~ \\mu \\mathrm { L }$ of 10xbuffer, $1 0 ~ \\mathrm { m M }$ of each dNTP, 2 mL of 1/1O diluted DNA,and $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ to a final volume of $2 5 ~ \\mu \\mathrm { L }$ . First round PCR used a touchdown thermos-cycling profle. Following hot-start polymerase activation ( $\\mathrm { \\Delta } 5 \\mathrm { \\ m i n }$ at $9 4 ^ { \\circ } \\mathrm { C } )$ ， denaturation was conducted at $9 5 ^ { \\circ } \\mathrm { C }$ for $1 \\ \\mathrm { m i n }$ ，extension at $6 8 ^ { \\circ } \\mathrm { C }$ for $2 \\ \\mathrm { m i n }$ . Annealing was initially at $6 3 ^ { \\circ } \\mathrm { C }$ 0 $ { \\mathrm { ~ ( ~ 1 ~ m i n ) ~ } }$ and reduced by $2 ^ { \\circ } \\mathrm { C }$ per cycle until reaching $5 5 ^ { \\circ } \\mathrm { C }$ 、A further 21 cycles with a $5 5 ^ { \\circ } \\mathrm { C }$ annealing temperature completed the PCR. Second-round PCR was used primers F968-GC and R1378 with 1:100 diluted of the first-round PCR product as template. Otherwise, the chemistry and PCR conditions were as for general bacteria. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f50693bf2ecc1ec5182975c82ca4d4f7323905df07bbe84e534fe45a4bebc5b.jpg",
+        "table_caption": [
+            "Table1Primers for the amplifications of soil bacteria,fungi,and Bacillus "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Treatment</td><td>Amplification reaction</td><td>Primer</td><td>Sequence (5'-3\")</td><td>Product size (bp)</td><td>Reference</td></tr><tr><td>Bacteria</td><td></td><td>F968-GC</td><td>5'-CGC CCG GGG CGC GCC CCG GGC GGG GCG GGG GCA CGG GGG GAA CGC GAA GAA CCT TAC-3'</td><td>450</td><td>Heuerand Smalla (1997)</td></tr><tr><td rowspan=\"3\">Fungi</td><td></td><td>R1401</td><td>5'-GCG TGT GTA CAA GAC CC-3'</td><td></td><td rowspan=\"3\">Wakelin 7t al.</td></tr><tr><td></td><td>ITS1F-GC</td><td>5'-CGC CCG CCG CGC CCC GCG CCC GGC CCG CCG CCC CTT GGT CAT TA GAG GAA GTA</td><td></td></tr><tr><td></td><td>ITS2</td><td>5' -TTY GCT GYG TTC TTC ATC G-3'</td><td>300</td></tr><tr><td rowspan=\"3\">Bacillus</td><td>1st round</td><td>BACF</td><td>5'-GGGAAACCG GGG CTAATACCGGAT-3'</td><td></td><td></td></tr><tr><td></td><td>R1378</td><td>5'- CGG TGT GTA CAA GGC CCG GGAACG-3' 5'-CGC CCG GGG CGC GCC CCG GGC GGG</td><td>1300</td><td></td></tr><tr><td>2nd round</td><td>F968-GC</td><td>GCG GGG GCACGG GGGGAACGC GAG AAC CTT AC-3'</td><td></td><td>Garbeva et al. (2003)</td></tr><tr><td></td><td></td><td>R1378</td><td>5'-CGG TGT GTA CAA GGC CCG GGA ACG-3'</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7 Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The relationships between soil enzyme activity, MBC, SBR,and SIR with salt induced soil EC were analyzed using linear regression. Regressions in slope between the $\\mathbf { C l } ^ { - }$ or mixed $\\mathrm { C l ^ { - } / S O _ { 4 } } ^ { 2 - }$ with soil salt levels were tested to determine salt-specific effects. All above analyses were conducted in Prism7 (GraphPad Software, San Diego, CA,USA). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The influences of salt type and rate-affected on physiological profiles (microbial mineralization of 31 carbon sources） and community composition (the assemblages of bacteria, fungi， and Bacillus communities） were tested using a multivariate approach. The physiological profiles (C-utilization plates; Biolog Inc.,Hayward, CA, USA) were analyzed after $1 2 0 \\mathrm { h }$ incubation. This time point was chosen because it allows suitable time for color development in the wells with high salinity, while the color development for the control samples was still linearly increasing over time.The responses of the variables were normalized and the similarity in C-use among samples was compared using the Euclidean distance method. We tested the effects of salt type 0 $\\mathrm { \\underline { { C l ^ { - } } } }$ and mixed $\\mathrm { \\bar { C l } ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - } ,$ ）and salt-induced changes in soil EC using permutation-based multivariate analysis of variation (PERMANOVA; Anderson, 2O01), with salt type as the main test,and EC as a covariate. For the bacterial and fungal community analysis,PCR-DGGE band intensity data were $4 ^ { \\mathrm { t h } }$ -root transformed (down-weighting over abundant species） and similarities in community compositions among the samples were calculated using the Bray-Curtis algorithm. The inverse Simpson index( $1 - \\lambda$ ，soil diversity） was calculated with non-transformed DGGE band data (Primer 6). Multivariate statistical testing then followed the PERMANOVA approach (as above). Segmental dose-response logistic regressions were fitted to model the effects of salt treated gradient on AWCD( $( 1 2 0 \\ \\mathrm { h } )$ . And we calculated the IC5O values (concentration of a contaminant that inhibits $50 \\%$ of a specific biological process, referred as threshold) using the least-squares method (GraphPad Prism version 5, GraphPad Software, San Diego; Haanstra et al, 1985). Based on 16S-rDNA and ITS-rDNA gene PCR-DGGE banding profiles, we calculated the relationship between soil diversity and salt treated gradient using segmental linear regression and the fit of the data compared with single linear regression alone. The intercepts of segmental regressions were used to determine threshold effects of increasing salt on soil microbial community diversity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Soil EC ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The influences of both $\\mathrm { C l ^ { - } }$ and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salts on soil EC are given in Table 2. The average EC was $0 . 1 6 ~ \\mathrm { d S / m }$ in the control.This falls well under the standard threshold for saline soils (EC of the saturation soil extract ${ > } 4 ~ \\mathrm { d S / m }$ at $2 5 ^ { \\circ } \\mathrm { C }$ ).Theadditionof either $\\mathrm { C l ^ { - } }$ or mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt highly increased soil EC. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cbcfa01397da7983d2b1943da3a0baf3eaee3bc6b677a0be384c557f9f19817.jpg",
+        "table_caption": [
+            "Table 2 Dosage of $\\mathrm { C l ^ { - } }$ and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ added to soil,and the corresponding soil electrical conductivity (EC1:5) "
+        ],
+        "table_footnote": [
+            "Note:a,chloride saline ( $\\mathrm { \\overrightarrow { C l } ^ { - } }$ saline) was a mixture of $\\mathbf { C a C l } _ { 2 } { + } \\mathbf { N a C l } .$ b,mixed saline $\\mathrm { \\ C l ^ { - } / S O _ { 4 } { } ^ { 2 - } }$ saline) was a mixture of $\\mathrm { C a C l } _ { 2 }$ and $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ c,valuesrepresent mean $\\scriptstyle 1 \\pm \\mathrm { S D }$ （ $\\scriptstyle ( n = 3 )$ 1 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Salinity type</td><td rowspan=\"2\">Salinity gradient</td><td colspan=\"3\">Soil EC1:5 (dS/m)</td><td rowspan=\"2\">Average EC1:5c</td></tr><tr><td>Replicate 1</td><td>Replicate 2</td><td>Replicate 3</td></tr><tr><td>Control</td><td>CK</td><td>0.14</td><td>0.19</td><td>0.15</td><td>0.16±0.03</td></tr><tr><td rowspan=\"6\">Cl salinea</td><td>1.5 C1-</td><td>0.46</td><td>0.41</td><td>0.65</td><td>0.51±0.13</td></tr><tr><td>3 C1</td><td>1.09</td><td>1.04</td><td>0.81</td><td>0.98±0.15</td></tr><tr><td>5 CI-</td><td>1.56</td><td>1.53</td><td>1.52</td><td>1.54±0.02</td></tr><tr><td>8 C1-</td><td>1.92</td><td>1.69</td><td>1.81</td><td>1.81±0.16</td></tr><tr><td>15 CI-</td><td>3.49</td><td>3.43</td><td>3.33</td><td>3.42±0.08</td></tr><tr><td>3 CI-/SO42-</td><td>0.90</td><td>0.79</td><td>0.80</td><td>0.83±0.06</td></tr><tr><td rowspan=\"4\">Cl-/SO4²- salineb</td><td>6 CI-/SO42-</td><td>1.47</td><td>1.49</td><td>1.47</td><td>1.48±0.01</td></tr><tr><td>10 CI-/SO42-</td><td>2.26</td><td>2.21</td><td>2.28</td><td>2.25±0.04</td></tr><tr><td>20 CI-/SO42-</td><td>3.96</td><td>3.74</td><td>3.75</td><td>3.82±0.12</td></tr><tr><td>40 CI-/SO42-</td><td>6.13</td><td>6.17</td><td>6.04</td><td>6.11±0.07</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Soil enzyme activities ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Both $\\mathrm { C l ^ { - } }$ and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ added treatments significantly and adversely affected invertase activity, yet had litle influence on catalase or polyphenol oxidase (Figs.la and b). We compared the relative influences of $\\mathrm { C l ^ { - } }$ and mixed $\\mathrm { C l } ^ { - } / \\mathrm { S O } _ { 4 } ^ { 2 - }$ salts on invertase activity based on the reduction in enzymatic activity against soil EC (Fig. lc). The linear regression fit for the $\\mathrm { C l ^ { - } }$ data was statistically significant ( $R ^ { 2 } { = } 0 . 9 6 4$ ， $P { < } 0 . 0 0 1 \\$ ),and it was strong for the mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt data ( $R ^ { 2 } { = } 0 . 6 7 4$ ， $P { = } 0 . 0 4 5$ ). However, when the slopes of the two regression lines were compared, it was found that the reduction in invertase activity in $\\mathrm { C l ^ { - } }$ treated soils was greater than that in mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt treatment, implying $\\mathrm { C l ^ { - } }$ salt was more toxic than mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt on soil enzyme activity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Microbial biomass,basal respiration, and substrate induced respiration ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Salt addition significantly decreased soil MBC (Fig.2a). When soil receiving the mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt, the reduction was sharp and linear across the EC range ( $R ^ { 2 } { = } 0 . 8 7 6$ ， $P { = } 0 . 0 0 6$ ).However, the relationship between MBC and EC was weaker ( $R ^ { 2 } { = } 0 . 6 0$ $P { = } 0 . 7 0 0 \\$ ）assoil receiving $\\mathrm { C l ^ { - } }$ salt. The ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "30-(a）+ Invertase (glucose mg/g) 30(b)+ Invertase (glucose mg/g) 30(c) e Polyphenol xidse (g/g) 1 e o 三非 C/s02- ▲ 0 1 0 王 + 中 0 0 5 10 15 20 0 10 20 3040 50 0 2 4 6 8 Cl salt (g/kg) C1-/SO4²- salt (g/kg) Electrical conductivity $\\mathrm { { ( d S / m ) } }$ consistently greater soil MBC was gained with mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt than with $\\mathrm { C l ^ { - } }$ salt treatment, indicating that $\\mathrm { C l ^ { - } }$ had greater detrimental impact than mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt on MBC at equivalent salt rate.SBR was faintly affected by both $\\mathrm { C l ^ { - } }$ 1 $( P { = } 0 . 2 8 9 )$ and mixed $\\mathrm { C l } ^ { - } / \\mathrm { S O } _ { 4 } ^ { 2 - }$ 0 $scriptstyle P = 0 . 3 1 2 ,$ added treatments (Fig. 2b). However, SIR (AWCD generated, $1 2 0 \\mathrm { ~ h ~ }$ AUC data) was sensitively responsive to the saline-induced changes in EC (Figs. 2b and c,and Fig.3). The relationship between SIR in $\\mathbf { C l } ^ { - }$ treated soil and soil EC was not linear ( ${ \\it P } { = } 0 . 3 3 9 { \\it \\mathrm { , } }$ ,while the relationship was strong $( P { = } 0 . 0 6 3 )$ with the mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt treated soil, indicating that SIR was more seriously affected by salt concentration than by salt type. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/14cb246e074f50787ff561bb09ccbe1d4fc6e3c1d2beabb5b4f20fb96b6c7130.jpg",
+        "img_caption": [
+            "Fig.1 Effects of $\\mathbf { C l } ^ { - }$ (a) and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ (b） salts on soil invertase,polyphenol oxidsase and catalase activities.Relationship between invertase activity and electrical conductivity for mixed $\\mathrm { C l ^ { - } / S O _ { 4 } ^ { 2 - } }$ and for $\\mathrm { C l ^ { - } }$ treated soils (c). Error bars are standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/40ebf4ab4eab614019807e2f15c8b6d1e21569376c265852cb87eb388f98878e.jpg",
+        "img_caption": [
+            "Fig.2Relationships between microbial biomass carbon (MBC,a)，soil basal respiration (SBR，b）and substrate-induced respiration (SIR,c; average well color development (AWCD) generated, $1 2 0 \\mathrm { h }$ AUC data) with EC caused by $\\mathrm { C l ^ { - } / S O _ { 4 } ^ { - } } 2 \\mathrm { - }$ or $\\mathrm { C l ^ { - } }$ addition.Error bars are standard deviations. ",
+            "Fig.3Average well color development (AWCD) as affected by $\\mathrm { C l ^ { - } }$ (a) and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salts (b).Error bars are standard deviation, $n { = } 1 8$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4Physiological profiles, soil microbial community composition,and diversity ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The dissimilarities of carbon metabolic profiles (Figs. 4a and b） and community structures of bacteria, fungi and Bacillus (Figs. 4c-h) with $\\mathrm { C l ^ { - } }$ or mixed $\\mathrm { C l } { - } / \\mathrm { S O } _ { 4 } { ^ { 2 - } }$ addition were shown in nMDS(non-metric multidimensional scaling ordinations） plots. Salt type had no obvious influence on soil physiological profiles (Table 3), however, salt levels (alteration of soil $\\operatorname { E C } _ { 1 : 5 } )$ highly impacted on soil physiological profiles ( $\\scriptstyle P = 0 . 0 0 4 )$ . The strong shifts in soil physiological profile occurred with both $\\mathbf { C l } ^ { - }$ and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salts (Figs. 4a and b). In terms of soil community-level physiological profiles (AWCD value), the threshold values were $1 . 2 6 ~ \\mathrm { d S / m }$ for mixed $\\mathrm { C l ^ { - } / S O _ { 4 } } ^ { 2 - }$ salt and $0 . 4 5 ~ \\mathrm { d S / m }$ for $\\mathrm { C l ^ { - } }$ salt indicating that the threshold concentrations of EC were 1.26 and $0 . 4 5 ~ \\mathrm { d S / m }$ for mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ and $\\mathrm { C l ^ { - } }$ salts. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,structures of soil bacterial, fungal and Bacillus communities were obviously affected by both salt type and final soil EC (Figs.4c-h; Table 3).For soil bacterial community structure, the proportions of variation explained by salt type ( $\\ N C \\mathrm { V = } 9 . 1 8 )$ ）andEC( $\\langle \\mathrm { C V } { = } 7 . 4 8 \\rangle$ were similar, indicating both treatments exerted identical effects.A similar influence of the soil salt type and final soil EC on soil fungal community composition was observed (Table 4). For the composition of the soil Bacillus community (Table 3),only less variation was explained by salt type( $\\langle \\mathrm { V C V } { = } 8 . 7 3 )$ than EC( $\\langle \\mathrm { V C V } { = } 5 . 7 3 )$ , indicating the efect of salt type on soil Bacillus was greater than soil EC. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3036b553c95f5a3986f62b7ba3d570450b38cdb326fbf5b40bcce02dd050a27.jpg",
+        "img_caption": [
+            "Fig.4nMDS (non-metric multidimensional scaling ordinations）plots show the dissmilarities in microbial catabolic functional profiles (Biolog-Eco mircroplates, $1 2 0 \\mathrm { h } \\ '$ with $\\mathrm { C l ^ { - } }$ salt (a) and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt (b); soil bacterial community structures with $\\mathrm { C l ^ { - } }$ salt (c) and mixed $\\mathrm { C l } ^ { - } / \\mathrm { S O } _ { 4 } ^ { 2 - }$ salt (d); soil fungal community with $\\mathrm { C l ^ { - } }$ salt (e) and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt (f); soil Bacillus community with $\\mathrm { C l ^ { - } }$ salt (g) and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt (h). Increasing distance between sample points reflects the increase of disimilarity in overallfunctional profile or community structure.Samples cycled by ovals are significantly similar at $\\scriptstyle P = 0 . 0 5$ .The low stress values $\\mathrm { ( a l l < 0 . 1 1 ) }$ indicate accurate two-dimensional scaling (representation)of the ecological distances within the multivariate data sets and each point is a sample. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f964cb9728318a327acffa393c97fb9a30b098744b9416728b4860b20d2fb5f2.jpg",
+        "table_caption": [
+            "Table 3Permutation-based multivariate analysis of variation "
+        ],
+        "table_footnote": [
+            "Note:P(perm)wascalculatedonthebasisof99randompermutationsofthedataset.√CVisthesquarerootofthecomponentsof variance. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Item</td><td colspan=\"2\">Physiological profiles</td><td colspan=\"2\">Fungal community</td><td colspan=\"2\">Bacterial community</td><td colspan=\"2\">Bacillus community</td></tr><tr><td>P (perm)</td><td>√CV</td><td>P (perm)</td><td>√CV</td><td>P (perm)</td><td>√CV</td><td>P (perm)</td><td>√CV</td></tr><tr><td>EC</td><td>0.004</td><td>1.50</td><td>0.012</td><td>4.78</td><td>0.001</td><td>7.48</td><td>0.001</td><td>5.73</td></tr><tr><td>Salt type</td><td>0.348</td><td>0.40</td><td>0.077</td><td>4.58</td><td>0.004</td><td>9.18</td><td>0.001</td><td>8.73</td></tr><tr><td>ECxsalt</td><td>0.037</td><td>1.46</td><td>0.002</td><td>10.78</td><td>0.289</td><td>2.61</td><td>0.005</td><td>7.66</td></tr><tr><td>Residual</td><td></td><td>5.29</td><td></td><td>16.39</td><td></td><td>12.81</td><td></td><td>11.72</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The diversities of bacterial, fungal and Bacillus communities initially increased with the increase in the mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt till reaching a peak point, and then sharply declined (Fig. 5). Moreover, the diversity threshold of soil fungal community with mixed $\\mathrm { C l ^ { - } / S O _ { 4 } } ^ { 2 - }$ added soil （204号 $\\operatorname { \\mathrm { ( E C = 1 . 7 5 ~ d S / m ) } }$ was lower than that of Bacillus $\\mathrm { E C } { = } 1 . 9 6 ~ \\mathrm { d S / m } )$ and bacteria $\\mathrm { ( E C = } 3 . 0 3 \\ \\mathrm { d S / m ) }$ （20 (Table 4)，suggesting that soil fungal community was more susceptible than soil bacteria or ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "0.4 (a) 0.4- (b) 0.1- ： B ： 0.0+ . ！ · 0.0 i . -1.0 -0.5 0.0 0.5 1.0 -1.0 -0.5 0.0 0.5 1.0 4.0- (c) Bacteria …. 3.6[ (d)Bsadei .... . 3.0- 2.8 . ......... 25 . 2.4- . · . 2.0- + 2.0+ -1.0 -0.5 0.0 0.5 1.0 -1.0 -0.5 0.0 0.5 1.0 4.0- (e)Fungi 3.6 (f)Fungi +   \n3 1 3.2- ···-·-·-·- C .   \n2 ·.······.. 2.8- 1 2.4- 2.0- 2.0+ -1.0 -0.5 0.0 0.5 1.0 -1.0 -0.5 0.0 0.5 1.0 4.0- (g) Bacillus □ 3.6- (h) Bacillus   \n3 ········ 3.2-   \nu 2.8- 1 2.4 + . 1 . . + 2.0- + 江 2.0+ -1.0 -0.5 0.0 0.5 1.0 -1.0 -0.50.0 0.5 1.0 Cl salt (logEC.,) Cl-/SO²- salt (logEC.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bacillus community to $\\mathrm { C l ^ { - } }$ treated soil (Table 4).Moreover, the community diversities of bacteria and Bacillus showed an opposite response to $\\mathbf { C l } ^ { - }$ salt (Figs. 5c and g), indicating that $\\mathrm { C l ^ { - } }$ salt exhibited strong stress to soil microbial community even at the lower application rate. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f1e3597d9ebd4f1ba29e4b99782288475fbd584755613098591b008744e133c.jpg",
+        "table_caption": [
+            "Table 4Critical thresholds of community diversities of soil bacteria,fungi and Bacillus in responsive to $\\mathrm { C l ^ { - } }$ and $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salts "
+        ],
+        "table_footnote": [
+            "Note:a,chloride saline was a mixture of $\\mathrm { C a C l } _ { 2 }$ and NaCl;b,mixed saline was a mixture of $\\mathrm { C a C l } _ { 2 }$ and $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ ；,comparison the fitting of the community diversities to soil EC induced by the $\\mathrm { C l ^ { - } }$ or $\\mathrm { C l ^ { - } / S O _ { 4 } ^ { 2 - } }$ salt.Where $P { < } 0 . 0 5$ ，segmental linear of AWCD and dose-responselogstcegressionformicroialstructuediversityfitdthedatasigficantlyeterthansingleiearregressaloe. EC,electrical conductivity; $9 5 \\%$ CI, $9 5 \\%$ confidence interval; $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } _ { \\mathbf { \\Pi } } - \\mathrm { \\Pi }$ no data. "
+        ],
+        "table_body": "<html><body><table><tr><td>Salt type</td><td>Community</td><td>Soil EC (dS/m)</td><td>95% CI</td><td>R²</td><td>Added salt concentration (g/kg)</td><td>Segmental versus single regressione</td></tr><tr><td rowspan=\"4\">CI- salinea</td><td>Biolog</td><td>0.45</td><td>0.33-0.61</td><td>0.83</td><td>0.89</td><td>P=0.0020</td></tr><tr><td>Bacteria</td><td>0.81</td><td>1</td><td>0.62</td><td>2.64</td><td>P=0.0210</td></tr><tr><td>Fungi</td><td>0.70</td><td>一</td><td>0.83</td><td>2.13</td><td>P=0.0325</td></tr><tr><td>Bacillus</td><td>0.70</td><td>1</td><td>0.64</td><td>2.13</td><td>P=0.0146</td></tr><tr><td rowspan=\"4\">C1-/SO42- salineb</td><td>Biolog</td><td>1.26</td><td>1.21-1.87</td><td>0.89</td><td>5.25</td><td>P=0.0426</td></tr><tr><td>Bacteria</td><td>3.03</td><td>1</td><td>0.70</td><td>17.10</td><td>P=0.0255</td></tr><tr><td>Fungi</td><td>1.75</td><td>1</td><td>0.75</td><td>8.55</td><td>P=0.0007</td></tr><tr><td>Bacillus</td><td>1.96</td><td>1</td><td>0.76</td><td>9.93</td><td>P=0.0397</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study, the negative correlations between soil salt ( $\\mathrm { \\overrightarrow { C l } ^ { - } }$ and mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salts） rates $( \\operatorname { E C } _ { 1 : 5 } )$ and the invertase activity ( $R ^ { 2 } { = } 0 . 9 6 4$ in $\\mathrm { C l ^ { - } }$ salt and $R ^ { 2 } { = } 0 . 6 7 4$ in mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt, $n { = } 1 8$ )，MBC（ $R ^ { 2 } { = } 0 . 6 0 0$ in $\\mathbf { C } \\mathbf { l } ^ { - }$ salt and $R ^ { 2 } { = } 0 . 8 7 6$ in mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt; $n { = } 1 8$ ）and SIR 0 $R ^ { 2 } { = } 0 . 7 6 0$ in $\\mathrm { C l ^ { - } }$ salt and $R ^ { 2 } { = } 0 . 8 6 6$ in mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt; $n { = } 1 8$ ） were obtained (Figs.1 and 2). Our findings are in agreement with the report by Rietz and Haynes (2OO3） who discovered the enzymatic activities of catalase, invertase, and $\\beta$ -glucosidase decreased with soil EC increasing. Similarly，Ghollarata and Raiesi (2OO7） reported soil $\\beta$ -glucosidase， invertase，and urease activities were largely inhibited by soil salt. Following this, Yan and Marschner (2O12) confirmed soil microbial activities including cumulative respiration and MBC were negatively affected by salinity. The most likely reasons why soil enzymatic activity decreased when exposed to salt ambient were as follows: (1) high salt concentration can result in a low availability of water due to decreasing soil osmotic and matric potential, as a consequence,resulting in the dehydration of soil microbes (Rath and Rousk, 2O15).For example, Saviozzi et al. (2O11) reported the decrease of soil enzyme activity was highly associated with the decrease of soil osmotic potential caused by salt;(2） soil salt denatured enzymatic proteins and accelerated soil enzymes proteolysis (Caprioti et al., 2O14); and (3) soil aggregate was dispersed and soil structure was destroyed by salt ion,resulting in the deterioration of living inhabits for the soil microorganisms (Saviozzi et al., 2011). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The greater soil MBC and enzyme activity with mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt than with $\\mathbf { C l } ^ { - }$ salt may be partly due to the relatively high toxic effect of $\\mathbf { C l } ^ { - }$ over mixed $\\mathrm { C l ^ { - } / S O _ { 4 } } ^ { 2 - }$ ion on soil microbe, especially for soil bacteria (Rath et al., 2O16).As such, $\\mathrm { C l ^ { - } }$ was more toxic than ${ \\mathrm { S O } } _ { 4 } { } ^ { 2 - }$ on cellular protoplasm and the structure of bacterial extracellular polymeric substance. Our findings largely agreed with the report by Crisler et al. (2O12） who discovered that $C 1 ^ { - } .$ -dominated environment was more harmful to soil microbe than $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ -dominated soil condition.Similarly, Batra and Manna (1997) found a stronger toxic impact of $\\mathrm { C l ^ { - } }$ instead of $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ on soil microbial activity. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study, SBR showed a faint response to either salt rates or salt type, while SIR (AWCD generated,12O h AUC data) significantly decreased with increasing in salt rates, indicating a strong negative impact of salt rates on microbial activity and the functional diversity,and further confirming that it is SIR rather than SBR that more reliable on explaining the changes of soil biological activity to saline-induced in EC. Our findings were in accordance with the reports by Mccarty et al. (2OO7) who noted that SIR was a sensitive indicator for soil microbial activity. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The diversities of soil bacteria, fungi，and Bacillus communities increased with mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt increasing until reached a peak point and then sharply declined (Fig. 5); this may be partially owning to the fact that the growth of certain soil microbe species would be constrained in an intermediate level of salt stress,while other species may be stimulated; as the salt concentration exceeded $1 0 ~ \\mathrm { g / k g } ~ ( 1 0 ~ \\mathrm { C l ^ { - } / S O _ { 4 } ^ { 2 - } }$ treatment, $\\mathrm { E C } { = } 2 . 2 5 ~ \\mathrm { d S / m }$ ：Fig.2b)，the stress of salt on soil microbial microorganism became too strong to tolerate or to survive,consequently, a large number of microorganisms would be dead (Fig. 3a). Thereby, the obvious reductions in microbial function and community diversities were observed (Figs.2b,3c,and 4),this was further supported by PERMANOVA analysis $( P { < } 0 . 0 5$ ； Table 2). Our findings were lined up with the results by Mohamed and Martiny (2O11),who sequenced 18S rRNA gene in estuarine salinity gradient sediment and showed that the composition of fungal community changed substantially, whereas fungal diversity altered only at the finest level,and the highest diversity was gained in the intermediate salt level. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this study,we found that the response pattern of microbial community diversity in mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt treatment showed a hump-shape exponential decay. Our findings agreed with the viewpoint by Giller et al. (2OO9) who found that the changes of soil microbial diversity did not linearly decrease with disturbance (e.g.，metal, salt, etc.). Furthermore，the lowest value on maintaining fungal structural diversity was $1 . 7 5 ~ \\mathrm { d S / m }$ in this study,which could be regarded as the boundary of soil salinization occurrence. Our data strongly supports the result of Crecchio et al.(2OO4) who stated that soil salinization occurred as soil EC exceeded $2 \\ \\mathrm { d } \\mathrm { S } / \\mathrm { m }$ .As for $\\mathbf { C l } ^ { - }$ treated soil, the lowest threshold value of EC appeared at $0 . 7 0 ~ \\mathrm { d S / m }$ for both soil fungi and Bacillus (Table 4),and it was coincident with the reduction in soil bacteria community diversity $( 0 . 8 1 ~ \\mathrm { d S / m } )$ (Table 4; Figs. 5c, e and f), suggesting chloride salt alone led to a strong detrimental impacts on soil microbe,and resulting in a significant decrease in soil microbial diversity. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The dose-response inhibition effects of soil physiological metabolic profiles (Biolog） with either $\\mathbf { C l } ^ { - }$ $( R ^ { 2 } { = } 0 . 8 3 )$ or mixed $\\mathrm { C l } ^ { - } / \\mathrm { S O } _ { 4 } ^ { 2 - }$ 1 $( R ^ { 2 } { = } 0 . 8 9 )$ were detected, and the greater threshold value in maintaining soil physiological function was gained in mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ 0 $\\mathrm { E C } { = } 1 . 2 6 ~ \\mathrm { d S / m } )$ than in $\\mathrm { C l ^ { - } }$ $\\mathrm { E C = 0 . 4 5 ~ d S / m ) }$ added soil,which further supported the above mentioned that $\\mathrm { C l ^ { - } }$ exhibited greater toxic effect than mixed $\\mathrm { C l } ^ { - } / \\mathrm { S O } _ { 4 } ^ { 2 - }$ salt.In addition,the salt thresholds calculated from AWCD for $\\mathrm { C l ^ { - } }$ 0 $\\mathrm { E C = 0 . 4 5 ~ d S / m ) }$ and for mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ $\\mathrm { ( E C { = } 1 } . 2 6 ~ \\mathrm { d S / m ) }$ treatments were lower than the corresponding threshold values calculated from microbial communities diversity for $\\mathbf { C l } ^ { - }$ $( 0 . 7 0 \\mathrm { - } 0 . 8 1 \\ \\mathrm { \\ d S / m ) }$ and for $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ $( 1 . 7 5 { - } 3 . 0 3 \\mathrm { d S / m } )$ (Table 3)，respectively， indicating soil physiological function was more susceptible than soil microbial community diversity to the salt concentration. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Our findings suggest that the structures of soil bacterial, fungal, and Bacillus communities were obviously affected by both salt type and final soil EC,and soil salt exerted an adverse influence on soil enzyme activities, MBC and SIR (AWCD generated). The greater soil MBC and enzymes with mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ salt than with $\\mathbf { C l } ^ { - }$ salt may partially attribute to the relatively low toxic effect of $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ ion over $\\mathrm { C l ^ { - } }$ on soil microbe.Furthermore,SIR was a more reliable indicator than SBR in explaining the changes of soil biological activity responsive to saline-induced EC. The threshold concentrations of salinity $( \\mathrm { E C } _ { 1 : 5 } )$ in maintaining soil microbial community diversity were 1.75 $\\mathrm { d } \\mathrm { S } / \\mathrm { m }$ for mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ and $0 . 7 \\ : \\ : \\ : \\mathrm { d S / m } \\ : \\ : \\mathrm { C l ^ { - } }$ salts．Likewise，the threshold concentrations of salt in maintaining soil physiological function were 1.26 and $0 . 4 5 ~ \\mathrm { d S / m }$ for mixed $\\mathrm { C l ^ { - } } / \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ and $\\mathrm { C l ^ { - } }$ salts,respectively, indicating soil physiological function was more susceptible than soil microbial community structural diversity to the salt level. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was jointly supported by the National Key Technologies Research and Development Program (2016YFC0501404)and the National Natural Science Foundation of China (41461064).The authors Would like to thank Mr.WANG Fei for contributing to the fundamental research study for this work. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AndersonJPE.1982.Soilrespiration.In: PageAL.MethodsofSoilAnalysis.Part2.Chemicaland MicrobiologicalProperties 0 $2 ^ { \\mathrm { n d } }$ ed.). Wisconsin: Soil Science Society of America,831-871.   \nAnderson MJ.2Ool.Anew method for non-parametric multivariate analysis of variance.Austral Ecology,26(1):32-46.   \nBatra L,Manna M C.1997.Dehydrogenase activityand microbial biomass carbon insalt-affected soilsof semiaridandarid regions.Arid Soil Research and Rehabilitation,1l(3): 295-303.   \nCaprioti AL,Borelli GM,Colapicchioni V,etal.2O14.Proteomic studyofatolerant genotypeof durum wheatunder salt-stress conditions.Analytical and Bioanalytical Chemistry, 406(5): 1423-1435.   \nCortés-LorenzoC,Sipkema D,Rodriguez-Diaz M,etal.2014.Microbial communitydynamics inasubmerged fixed bed bioreactor during biological treatment of saline urban wastewater. Ecological Engineering,71: 126-132.   \nCrecchio C,GelsominoA,Ambrosoli R,etal.2O04.Functionaland molecularresponsesof soil microbialcommunitiesunder differing soil management practices.Soil Biology and Biochemistry,36(11):1873-1883.   \nCrislerJD,NewvillTM,ChenF,etal.2Ol2.Bacterial growthat thehighconcentrationsof magnesiumsulfate foundin Martian soils. Astrobiology,12(2): 98-106.   \nDominati E,Patterson M,MackayA.2O10.A framework forclasifying andquantifying the natural capitaland ecosystem services of soils. Ecological Economics,69(9): 1858-1868.   \nFAO.2002.Thesalt of the Earth:hazardous for foodproduction.Foodand Agriculture Organization.[2009-1-15]. http://www.fao.org/worldfoodsummit/english/newsroom/focus/focus1.htm.   \nGarbevaP,Van VeenJA,Van ElsasJD.2Oo3.Predominant Bacillusspp.inagricultural soil underdifferent management regimes detected via PCR-DGGE.Microbial Ecology, 45(3): 302-316.   \nGarcia C,HerandezT.1996.Influenceof salinityonthe biologicaland biochemicalactivityofacalciorthirdsoil.Plantand Soil,178(2): 255-263.   \nGhollrata M,RaiesiF.2Oo7.TheadverseeffectsofsoilsalinizationonthegrowthofTrifoliumalexandrinumL.andsciated microbial and biochemical properties in a soil from Iran.Soil Biology and Biochemistry,39(7):1699-1702.   \nGiler KE,WiterE,McGrath SP.2O09.Heavymetalsandsoil microbes.Soil Biologyand Biochemistry,41(10):2031-2037.   \nGuan SY,Zhang D S,Zhang ZM.1986.Soil Enzyme and its Research Methods.Beijing:Agricultural Publishing House, 274-297. (in Chinese)   \nHaanstraL,DoelmanP,VoshaarJHO.1985.Theuseofsigmoidaldoseresponsecurves insoil ecotoxicologicalresearch.Plant and Soil,84(2): 293-297.   \nHan QQ,LuXP,BaiJP,etal.2O14.BeneficialsoilbacteriumBacilussubtilis (GBO3)augmentssalt toleranceofwhiteclover. Frontiers in Plant Science,5:525,doi:10.3389/fpls.2014.00525.   \nHeuer H,Smalla K.1997.Applicationof denaturing gradient gel electrophoresis (DGGE）and temperature gradient gel electrophoresis (TGGE)for studying soil microbial communities.In:Van Elsas D,Wellington EMH,Trevors JT.Modern Soil Microbiology. New York: Marcel Dekker Inc.,353-373.   \nInubushi K,Barahona M A,Yamakawa K.1999.Effects of salts and moisture content on ${ \\bf N } _ { 2 } \\mathrm { O }$ emission and nitrogen dynamics in Yellow soil and Andosol in model experiments.Biology and Fertility of Soils,29(4): 401-407.   \nMcCartyGW,Mookherji S,AngierJT.2Oo7.Characterizationof denitrificationactivityin zonesof groundwater exfiltration within a riparian wetland ecosystem.Biology and Fertility of Soil,43(6):691-698.   \nMohamedDJ,MartinyJB.2O11.Patternsoffungaldiversityand composition alongasalinity gradient.The ISMEJourmal, 5(3): 379-388.   \nMorisseyEM,GlespieJL,MorinaJC,etal.2O14.Salinityaffects microbialactivityandsoilorganic matercontentntidal wetlands. Global Change Biology,20(4):1351-1362.   \nMunns R,Tester M.2Oo8.Mechanisms of salinity tolerance.Annual Review of Plant Biology,59: 651-681.   \nPorcel R,ArocaR,Ruiz-LozanoJM.2l2.Salinity stressaleviation using arbuscular mycorhizal fungi. Areview.Agronomy for Sustainable Development,32(1):181-200.   \nQadirM,QuilerouE,NangiaV,etal.2Ol4.Economicsofsalt-inducedlanddegradationandrestoration.NaturalResources Forum,38(4):282-295.   \nRath K M,Rousk J.20l5.Salt efects on the soil microbial decomposer communityandtheirrole inorganic carboncycling:a review. Soil Biology and Biochemistry,81:1O8-123.   \nRath KM,Maheshwari A,BengtsonP,etal.0l6.Comparative toxicitiesofsaltsnmicrobialprocesses insoil.Appliednd Environmental Microbiology,82(7): 2012-2020.   \nRietzDN,HaynesRJ.2Oo3.Effectsof irigation-inducedsalinityandsodicityonsoilmicrobialactivitySoilBiologyand Biochemistry, 35(6): 845-854.   \nSaviozziA,Cardelli R,Di PuccioR.20l1.Impactof salinityonsoil biological activities:alaboratory experiment. Communications in Soil Science and Plant Analysis,42(3):358-367.   \nShannon CE,Weaver W.1949.The Mathematical Theoryof Communication.Champaign:University of Ilinois Press, 623-656.   \nVanceED,BrookesPC,Jenkinson DS.1987.Anextraction method for measuring soil microbialbiomassC.Soil Biologyand Biochemistry,19(6):703-707.   \nWakelin SA,Coloff MJ,HarveyPR,etal.207.Theefectsof stubbleretentionandnitrogenapplicationonsoilmicrobial community structure and functional gene abundance underirrigated maize.FEMS Microbiology Ecology,59(3):661-670.   \nWakelin SA,Chu G X,Lardner R,et al.2O10.A single application of $\\mathtt { C u }$ to field soil has long-term effects on bacterial community structure,diversity,and soil processes.Pedobiologia,53(2):149-158.   \nWakelin SA,AnandRR,ReithFetal.l.Bacterialcommunitiesaociatedithineralweatheringprofileatulpidic mine tailings dump in arid Western Australia.FEMS Microbiology Ecology,79(2):298-311.   \nWangJL,Huang XJ,ZhongTY,etal.2Ol.Reviewonustainableutilizationofsalt-affected land.Acta GeographicaSinica, 66(5): 673-684.(in Chinese)   \nYanN,MarschnerP.2O12.Responseof microbialactivityandbiomasstoincreasingsalinitydependsonthefinalsalinitynot the original salinity. Soil Biology and Biochemistry,53:50-55. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

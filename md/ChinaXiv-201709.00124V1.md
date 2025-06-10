@@ -1,0 +1,205 @@
+# Inflection point inflation and dark energy in supergravity
+
+Tie-Jun Gao\* and Zong-Kuan Guo† State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Chinese Academy of Sciences, P.O. Box 2735, Beijing 100190, China Abstract
+
+We consider an inflection point inflationary model in supergravity with a single chiral superfield and show that the predicted values of the scalar spectral index and tensor-to-scalar ratio are consistent with the Planck 2015 results. In this model supersymmetry is strongly broken after inflation， which results in a non-SUSY de-Sitter vacuum responsible for the recent accelerated expansion of the Universe.
+
+# I. INTRODUCTION
+
+Cosmological inflation is now getting established by all precise observational data such as the WMAP [1] and Planck space missions [2]. The full-mission Planck observations of temperature and polarization anisotropies of the cosmic microwave background radiation constrain the spectral index of curvature perturbations and the tensor-to-scalar ratio to be $n _ { s } = 0 . 9 6 5 5 \pm 0 . 0 0 6 2$ and $r _ { 0 . 0 0 2 } < 0 . 1 0$ at $9 5 \%$ confidence level [2], respectively, which are consistent with the analysis of Planck 2013 [3].
+
+However, the nature of inflation remains an open question in cosmology. An interesting framework for inflation model building is to embed the inflationary models into a more fundamental theory of quantum gravity, and it is natural to consider supergravity. Some inflationary models have been constructed in supergravity [4-6], most of which however suffer from the so-called $\eta$ problem [7]. The F-term of the potential is proportional to $e ^ { | \Phi | ^ { 2 } }$ ，which gives a contribution of the slow-roll parameter $\eta$ and breaks the slow-roll condition. Several methods are proposed to solve this problem [8-11]. One way to overcome such obstacles was to add an extra chiral superfield $S$ and to use a shift-symmetric Kahler potential $K ( \Phi +$ $\Phi , S S )$ [12-14, 21, 22]. During inflation, the superfield $S$ is stabilized at $S = 0$ .In these models there are two superfields, with four scalar degrees of freedom,but only one of them to be the inflaton field while the others never participate in the cosmological evolution.
+
+Recently, in Refs.[17,18], Ketov and Terada propose a new class of inflationary models with only one chiral superfield $\Phi$ . Generally, the superfield $\Phi$ is decomposed into a real part （20 $\phi$ and an imaginary one $\chi$ ， such as
+
+$$
+\Phi = \frac { 1 } { \sqrt { 2 } } ( \phi + i \chi ) .
+$$
+
+Following [18], we consider the following logarithmic Kahler potential
+
+$$
+K = - 3 \ln \left[ 1 + \frac { \Phi + \overline { { { \Phi } } } + \zeta ( \Phi + \overline { { { \Phi } } } ) ^ { 4 } } { \sqrt { 3 } } \right] .
+$$
+
+Since it is invariant under the shift $\Phi  \Phi + i { \cal C }$ with a real parameter $C$ ， the imaginary component $\chi$ does not appear in the Kähler potential, which could play the role of the inflaton field. The quartic term serves to stabilize the field $\chi$ during the main part of inflation at $\phi \approx 0$ . As shown in Appendix C of Ref. [18]，although the quadratic and cubic terms in the Kahler potential (2) are allowed by the symmetries,the coefficients of such terms can be suppressed by tuning the coupling between the superfield $\Phi$ and other superfields. In this paper,we shal take $\zeta = 1$ for simplicity.
+
+A complete cosmological model must include the stages of both early acceleration and later acceleration of the Universe， so in the framework of supergravity with the Kahler potential (2), the authors of Ref.[19] consider a linear superpotential with a smal constant and a quadratic superpotential with a linear correction, respectively. At the end of inflation, the field will roll to a non-SUSY AdS vacuum. By a small modification of the parameters in the theory, one can uplift the vacuum to non-SUSY dS vacuum with a tiny cosmological constant $V _ { 0 } \sim 1 0 ^ { - 1 2 0 }$ , which does not violate the no-go theorem [20].
+
+In the framework of MSSM,a successful inflection point inflation is for the first time realized in the gauge invariant fat directions udd or LLe [21]. In such a model, the fine tuning and reheating are discussed in detail in Ref. [22]. A solution of the fine tuning problem was proposed in a minimal extension of MSSM in [23]. Due to an attractor behavior towards the inflection point, the initial condition for the MSSM inflation can be naturally realized [24]. Recently it is pointed out that inflection point inflation can yield large tensor-to-scalar ratios [25, 26]. The purpose of the present paper is to investigate a class of supergravity models motivated by superstring compactification and supersymmetric particle phenomenology beyond the Standard Model [17-19]. The inflaton may belong to a hidden sector and can decay into the SM particles after inflation [27].
+
+In this paper, we shall consider the possibility to construct an inflection point inflationary model in supergravity with a single chiral superfield. We shall focus on a superpotential of the form $W = m ( \Phi ^ { 3 } + a e ^ { i \theta } \Phi + b e ^ { i \rho } )$ . We study the inflaton dynamics and show that the predicted scalar spectral index and tensor-to-scalar ratio can lie within the $1 \sigma$ confidence region allowed by the results of Planck 2O15. After the end of inflation, the potential has a global non-SUSY minimum,as found in Ref. [19], one can uplift the potential to have the desirable dS vacuum with $V _ { 0 } \sim 1 0 ^ { - 1 2 0 }$ by fine-tuning the model parameters.
+
+The rest of this paper is organized as follows. In the next section, we setup the inflection point inflationary model in supergravity. In Section 3, we investigate the inflaton dynamics of the model. In Section 4 we study the vacuum structure of the model and explore the parameter space to give the desirable inflation and dark energy. The last section is devoted to summary.
+
+# II. SETUPOFTHEINFLECTIONPOINTINFLATION
+
+In the supergravity theory with the Kahler potential (2),for an arbitrary choice of the superpotential, the kinetic term of the field $\Phi$ is given by [19]
+
+$$
+L _ { k i n } = \frac { 3 ( 1 - 2 4 \sqrt { 3 } \zeta \phi ^ { 2 } - 8 \sqrt { 2 } \zeta \phi ^ { 3 } + 3 2 \zeta ^ { 2 } \phi ^ { 6 } ) } { ( \sqrt { 3 } + \sqrt { 2 } \phi + 4 \zeta \phi ^ { 4 } ) ^ { 2 } } \partial _ { \mu } \Phi \partial ^ { \mu } \bar { \Phi } .
+$$
+
+The coefficient of the kinetic term does not depend on $\chi$ and it is positive definite when （20 $\phi \in ( - 0 . 1 5 9 , 0 . 1 5 2 )$ for $\zeta = 1$ . So $\phi$ is confined in a narrow interval, and $\chi$ plays the role of the inflaton field.
+
+The potential is determined by a given superpotential $W$ as well as Kahler potential, which is given by
+
+$$
+V = e ^ { K } \Bigl [ D _ { i } W ( K ^ { - 1 } ) ^ { i \bar { j } } ( D _ { j } W ) ^ { * } - 3 | W | ^ { 2 } \Bigr ] ,
+$$
+
+where
+
+$$
+D _ { i } W = \partial _ { i } W + ( \partial _ { i } K ) W ,
+$$
+
+and $( K ^ { - 1 } ) ^ { i j }$ is the inverse of the Kähler metric
+
+$$
+K ^ { i \bar { j } } = { \frac { \partial ^ { 2 } K } { \partial \Phi _ { i } \partial \bar { \Phi } _ { \bar { j } } } } .
+$$
+
+In order to give an inflection point inflation as well as a tiny cosmological constant after inflation,we consider the superpotential of the form
+
+$$
+W = m ( \Phi ^ { 3 } + a e ^ { i \theta } \Phi + b e ^ { i \rho } ) ,
+$$
+
+where the coefficient $m$ is real, $a$ and $b$ are positive without loss of generality, $\theta$ and $\rho$ are the phase of the coefficients. In order to study further inflation and vacuum structure after inflation in the parameter space, let us first consider the case of $\rho = 0$ for simplicity. Later we will show that the value of $\rho$ cannot affect the inflationary predictions.
+
+![](images/aef2aa0b7acf05baaed95786c4067867398cdcc3825e7c7e5d5a61bd5eca4287.jpg)  
+FIG.1. The inflation potential $V ( \chi )$ when $\phi$ is stabilized at zero.
+
+Substituting the superpotential (7) and Kahler potential (2) into (4),one can get the potential. Because of the shift symmetry, there is no imaginary component $\chi$ in the Kahler potential, so the potential is considerably fat along the $\chi$ direction and thus $\chi$ becomes an inflaton candidate. As shown above, the real component $\phi$ is stabilized at zero during inflation. Therefore, we can set $\phi = 0$ and obtain the scalar potential of $\chi$ （20
+
+$$
+V ( \chi ) = m ^ { 2 } \left( \frac { 9 } { 4 } \chi ^ { 4 } - \sqrt { 6 } a \sin \theta \chi ^ { 3 } + 3 ( \sqrt { 3 } b - a \cos \theta ) \chi ^ { 2 } + a ^ { 2 } - 2 \sqrt { 3 } a b \cos \theta \right) .
+$$
+
+The cubic term leads to a negative contribution when $a \sin \theta > 0$ . The inflation potential is shown in Fig. 1.
+
+If the parameters satisfy the relation
+
+$$
+b = \frac { a \left( 9 \cos \theta + 2 a \sin ^ { 2 } \theta \right) } { 9 \sqrt { 3 } } ,
+$$
+
+there are two minima at $\chi = 0$ and at $\begin{array} { r } { \chi = \frac { 4 a \sin \theta } { 3 \sqrt { 6 } } } \end{array}$ respectivs $b$ increases,the minimum at $\begin{array} { r } { \chi = \frac { 4 a \sin \theta } { 3 \sqrt { 6 } } } \end{array}$ is uplifted. In this case,fora large initial value of $\chi$ ， the inflaton field may be trapped in the false vacuum.
+
+An interest case is that if the parameters satisfy the relation
+
+$$
+b = b _ { 0 } = { \frac { a \left( 4 \cos \theta + a \sin ^ { 2 } \theta \right) } { 4 { \sqrt { 3 } } } } ,
+$$
+
+the minimum of the potential at $\chi = \chi _ { 0 } = a \sin \theta / \sqrt { 6 }$ becomes equal to the local maximum, and thus the false vacuum disappears. This point is the so-called inflection point. At this point, the inflation potential is
+
+$$
+V ( \chi _ { 0 } ) { = } \frac { 1 } { 2 } a ^ { 2 } m ^ { 2 } \left( 2 - 4 \cos ^ { 2 } \theta - a \cos \theta \sin ^ { 2 } \theta + \frac { 1 } { 2 4 } a ^ { 2 } \sin ^ { 4 } \theta \right) .
+$$
+
+Both the first and second derivatives of $V$ vanish at $\chi _ { 0 }$ .We will see shortly that since there is a fat plateau around the inflection point, the predicted spectral index of curvature perturbations as well as the tensor-to-scalar ratio can lie within the $1 \sigma$ confidence region allowed by Planck 2015. When $a \sin \theta \to 0$ and then $\chi _ { 0 }  0$ , the chaotic inflationary model is reproduced.
+
+In addition， it is known that large Hubble-induced mass corrections to the inflation potential can ruin the fatness of the potential. However, such corrections may not be a serious issue in the context of inflection point inflation. The point is that certain relations among the parameters are needed to be satisfied in order to find an inflection point in the potential. Adding such terms will make these relations different, but one may still be able to realize inflection point inflation in Ref. [28].
+
+In this paper we focus on the inflation potential with inflection point. Since the parameters satisfy the relation (1O), there are only three free parameters $a , m$ and $\theta$ . The inflation potential（8） becomes
+
+$$
+V ( \chi ) = { \frac { m ^ { 2 } } { 4 } } \left( 9 \chi ^ { 4 } - 4 \sqrt { 6 } a \sin \theta \chi ^ { 3 } + 3 a ^ { 2 } \sin ^ { 2 } \theta \chi ^ { 2 } - 2 a ^ { 2 } \left( a \sin ^ { 2 } \theta \cos \theta + 2 \cos 2 \theta \right) \right) \quad .
+$$
+
+# III. SLOW-ROLL INFLATION
+
+The slow-roll parameters are defined as
+
+$$
+\begin{array} { l } { \displaystyle \epsilon \equiv \frac { 1 } { 2 } \left( \frac { V ^ { \prime } ( \chi ) } { V ( \chi ) } \right) ^ { 2 } , } \\ { \displaystyle \eta \equiv \frac { V ^ { \prime \prime } ( \chi ) } { V ( \chi ) } . } \end{array}
+$$
+
+To first order in the slow-roll approximation, the scalar spectral index and tensor-to-scalar ratio are given by
+
+$$
+\begin{array} { l } { { n _ { s } \simeq 1 - 6 \epsilon + 2 \eta , } } \\ { { \qquad r \simeq 1 6 \epsilon . } } \end{array}
+$$
+
+The $e$ -folding number during inflation is given by
+
+$$
+N = \int _ { \chi _ { f } } ^ { \chi _ { i } } \frac { V } { V ^ { \prime } } d \chi ,
+$$
+
+where the field value at the end of inflation $\chi _ { f }$ is determined by $\mathrm { M a x } \{ \epsilon ( \chi _ { f } ) , \eta ( \chi _ { f } ) \} = 1$
+
+The parameter $m$ is constrained by the amplitude of curvature perturbations
+
+$$
+\Delta _ { R } ^ { 2 } = \frac { V } { 2 4 \pi ^ { 2 } \epsilon } .
+$$
+
+Using the maximum likelihood value $\Delta _ { R } ^ { 2 } ( k _ { 0 } ) = 2 . 1 9 \times 1 0 ^ { - 9 }$ from the Planck 2015 data and set $\theta = 1 . 5 5$ and $a = 9 6$ we can get $m \sim 5 . 7 6 \times 1 0 ^ { - 8 }$ ：
+
+In order to give an appropriate vacuum structure, the parameters are strongly restricted (see Fig. 4)，so only one parameter is free. For example, if one set $\theta = 1 . 5 5$ , then one can get the desired dS vacuum only if $a \sim 9 6$ . In this case the model predicts that $n _ { s } = 0 . 9 6 8$ （ and $r = 0 . 0 8 1$ for the $e$ -folding number of $N = 6 0$ . Fig. 2 shows the $n _ { s } \mathrm { ~ - ~ } r$ region (pink region） predicted by the model with the $e$ -folding number from $N = 5 0$ (left boundary line) to $N = 6 0$ (right boundary line). The contours are the marginalized joint 68% and 95% confidence level regions for $n _ { s }$ and $r$ at the pivot scale $k _ { * } = 0 . 0 0 2 \ \mathrm { M p c ^ { - 1 } }$ from the Planck 2015 TT+lowP data. It can be seen that the predictions are consistent with the Planck 2015 results.
+
+# IV. VACUUM STRUCTURE OFTHE POTENTIAL
+
+After inflation the field $\chi$ rolls towards $\chi = 0$ . However, the global minimum of the potential is no longer at $\chi = 0$ and $\phi = 0$ , but the location shifts a little in the $\phi$ direction. Such a small deviation from $\phi = 0$ cannot affect the inflationary predictions. One can change the values of $a$ and $\theta$ to uplift a non-SUSY AdS vacuum to a non-SUSY dS vacuum, which does not violate the no-go theorem. For example, for $a \approx 9 6$ and $\theta \approx 1 . 5 5$ , there is a global non-SUSY minimum at $\chi = 0$ and $\phi \approx 3 . 4 \times 1 0 ^ { - 5 }$ . The desired dS vacuum with $V _ { 0 } \sim 1 0 ^ { - 1 2 0 }$ （20 can be uplifted by a minuscule change of the parameters $a$ and $\theta$ . Although it requires a fine tuning, it’s not a major problem in the landscape scenario of string theory. Fig. 3 shows the value of the cosmological constant in the minimum as a function of the parameter $a$ for （204号 $\theta = 1 . 5 5$ (left panel) and as a function of $\theta$ for $a = 9 6$ (right panel).
+
+![](images/ee4f18ba8b2f71df4e562545a4647565e788d74f33aa9e28270a6174894067e4.jpg)  
+FIG.2.(color online)The $n _ { s } \mathrm { ~ - ~ } r$ region (pink region） predicted by the model with the $e$ -folding number from $N = 5 0$ (left boundary line） to $N = 6 0$ (right boundary line). The contours are the marginalized joint 68% and 95% confidence level regions for $n _ { s }$ and $r$ at the pivot scale $k _ { * } = 0 . 0 0 2$ （20 $\mathrm { M p c ^ { - 1 } }$ from the Planck 2015 TT $^ +$ lowP data.
+
+We can see that as the parameters $\theta$ increases or $a$ decreases, it can give rise to a transition between AdS and dS vacuum， passing through Minkowski vacuum. Therefore, in order to get an appropriate vacuum structure,we can fine tune $a$ for a given $\theta$ . The relation between $\theta$ and $a$ which can give a non-SUSY Minkowski vacuum are shown in Fig. 4. Then the inflationary predictions of $n _ { s }$ and $r$ depend only on the value of $\theta$
+
+In addition, the supersymmetry is strongly broken in the minimum of the potential. For （204 $\zeta = 1 , \theta = 1 . 5 5$ , the superpotential at the minimum is $W \sim 7 . 6 8 6 7 \times 1 0 ^ { - 5 }$ and the gravitino
+
+![](images/9f2609335fd28962e901394c294aaeea419d5663081f629ee2011f62c9ff5a70.jpg)
+
+FIG. 3. The value of the cosmological constant in the minimum as a function of the parameter $a$ for $\theta = 1 . 5 5$ (left panel) and as a function of $\theta$ for $a = 9 6$ (right panel). We choose $\zeta = 1 , m =$ （204号 $5 . 7 6 \times 1 0 ^ { - 8 }$ ·
+
+![](images/330e73cf83f5e684eca00734d7e5f09ce7d1ba218b9e0412b6bdea5d46417466.jpg)
+
+FIG.4. The parameter space of $a$ and $\theta$ that gives a non-SUSY Minkowski minimum for $\zeta = 1$ 业 mass is $m _ { 3 / 2 } \sim 7 . 6 8 6 4 \times 1 0 ^ { - 5 }$ , in Planck units, i.e. $m _ { 3 / 2 } \sim 1 . 8 7 0 5 1 \times 1 0 ^ { 1 4 }$ GeV,which is one order of magnitude higher then in Ref.[19]. Such a scale is much higher than the usual predictions of the supersymmetry breaking sclae in supergravity phenomenology.
+
+When the parameter $\rho$ in superpotential is changed, the desired dS vacuum can be obtained by changing $a$ and $\theta$ . Moreover，we have checked that the inflationary predictions are independent of $\rho$ . Fig. 5 show the value of the cosmological constant as a function of $\rho$ for $\theta = 1 . 5 5$ and $a = 9 6$
+
+![](images/97a18db5da5c9099715939bf49405bdfd575fb2282e458129ca3d6af0c645709.jpg)
+
+FIG. 5. The value of the cosmological constant in the minimum as a function of the parameter $\rho$ （20 for $\theta = 1 . 5 5$ and $a = 9 6$ . We choose $\zeta = 1 , m = 5 . 7 6 \times 1 0 ^ { - 8 }$ ：
+
+# V. SUMMARY
+
+The complete cosmological model including both the early acceleration and the present acceleration of the Universe has been investigated in the framework of supergravity with a single chiral superfield. In this model, the inflection point inflation in the $\chi$ direction has successfully been constructed using the logarithmic Kahler potential (2) and the cubic superpotential (7). The inflationary predictions of the model are consistent with the Planck 2015 results. Such predictions in the $n _ { s } \mathrm { ~ - ~ } r$ plane do not overlap those of hiltop quartic inflation and have small overlap with those of natural inflation. Future measurements of temperature and polarization anisotropies of the cosmic microwave background radiation can test and distinguish them.
+
+After inflation, the non-SUSY minimum of the potential can be uplifted to a non-SUSY dS vacuum with vanishingly small vacuum energy $V _ { 0 } \sim 1 0 ^ { - 1 2 0 }$ without violating the no-go theorem by fine tuning the model parameters. In this model, supersymmetry after inflation is strongly broken and the predicted value of the gravitino mass is much higher than the often assumed TeV mass range.
+
+# ACKNOWLEDGMENTS
+
+This work was supported in part by the National Natural Science Foundation of China No.11175225 and No.11335012.
+
+[1] G.Hinshaw et al.[WMAP Collaboration], Astrophys. J. Suppl. 208 (2013)19; arXiv:1212.5226 [astro-ph.CO]   
+[2] P. A. R. Ade et al. [Planck Collaboration], [arXiv:1502.02114[astro-ph.CO]]   
+[3] P. A. R. Ade et al. [Planck Collaboration], arXiv:1303.5082 [astro-ph.CO].   
+[4] D. Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, Phys. Rev. D 13 (1976) 3214.   
+[5] S.Deser and B. Zumino, Phys. Lett. B 62 (1976) 335. [6] J. Wess and J. Bagger, Supersymmetry and Supergravity (Princeton University Press: Princeton, New Jersey, 1992)， 2nd Edition.   
+[7] Supergravity based inflation models: a review. arXiv:1101.2488v2   
+[8] E.D. Stewart,Phys.Rev. D 51, 6847 (1995) [arXiv:hep-ph/9405389].   
+[9] A.D. Linde, Phys. Rev. D 49, 748 (1994) [arXiv:astro-ph/9307002].   
+[10] A.D. Linde and A. Riotto,Phys. Rev. D 56,1841 (1997) [arXiv:hep-ph/9703209].   
+[11] C. Panagiotakopoulos, Phys. Lett. B 402, 257 (1997） [arXiv:hep-ph/9703443].   
+[12] M. Kawasaki, M. Yamaguchi and T. Yanagida， Phys. Rev. Lett. 85 (2000) 3572; arXiv:hep-ph/0004243.   
+[13] R. Kallosh and A. Linde, JCAP B 1011 (2010) 011; arXiv:1008:3375 [hep-th]   
+[14] R.Kallosh, A. Linde and T. Rube, Phys. Rev. D83 (2011) 043507; arXiv:1011:5945 [hep-th].   
+[15] Kazunori Nakayama, Fuminobu Takahashi, Tsutomu T. Yanagida."Polynomial Chaotic Inflation in the Planck Era ". Phys.Lett. B725 (2013) 111-114 [arXiv:1303.7315]   
+[16] Kazunori Nakayama, Fuminobu Takahashi, Tsutomu T. Yanagid."Polynomial Chaotic Inflation in Supergravity”. JCAP 1308 (2013) 038 [arXiv:1305.5099]   
+[17] Sergei V. Ketov, Takahiro Terada. Inflation in Supergravity with a Single Chiral Superfeld. Phys.Lett. B736 (2014) 272-277 [arXiv: 1406.0252]   
+[18] Sergei V.Ketov, Takahiro Terada. JHEP 1412 (2014) 062. arXiv: 1408.6524   
+[19] Andrei Linde, Diederik Roest, Marco Scalisi. Inflation and Dark Energy with a Single Superfield. JCAP 1503 (2015) 03, 017 [arXiv:1412.2790]   
+[20] R. Kallosh,A. Linde,B. Vercnocke and T. Wrase,Analytic Classes of Metastable de Sitter Vacua, JHEP 1410,11 (2014) [arXiv:1406.4866 [hep-th]].   
+[21] Rouzbeh Allahverdi，Juan Garcia-Bellido，Kari Enqvist，Anupam Mazumdar. Phys.Rev.Lett.97:191304,(2006) [hep-ph/0605035]   
+[22] Rouzbeh Allahverdi, Kari Enqvist, Juan Garcia-Bellido,Asko Jokinen,Anupam Mazumdar. JCAP 0706:019,(2007） [hep-ph/0610134]   
+[23] Kari Enqvist, Anupam Mazumdar, Philip Stephens. JCAP 1006:020,(2010) [1004.3724]   
+[24] Rouzbeh Allahverdi， Bhaskar Dutta， Anupam Mazumdar. Phys.Rev.D78:063507,2008 [0806.4557]   
+[25] Shaun Hotchkiss, Anupam Mazumdar, Seshadri Nadathur. JCAP02(2012)008 [1110.5389]   
+[26] Arindam Chatterjee, Anupam Mazumdar. JCAP 1501 (2015) 01, 031[1409.4442]   
+[27] Motoi Endo, Masahiro Kawasaki， Fuminobu Takahashi, T. T. Yanagida. Phys.Lett.B642 (2006） 518-524 [hep-ph/0607170]   
+[28] Anupam Mazumdar， Seshadri Nadathur， Philip Stephens. Phys.Rev.D85:045001,2012 [1105.0430]

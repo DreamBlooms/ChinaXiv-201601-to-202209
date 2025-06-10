@@ -1,0 +1,132 @@
+# 从脂肪组织的内分泌功能角度探讨其在慢性阻塞性肺疾病中的作用机制研究
+
+10.12114/j.issn. 1007-9572.2022.0541王益德 李争\*李风森
+
+新疆医科大学第四临床医学院，新疆乌鲁木齐830000
+
+【摘要】脂肪组织除了通过其力学特征或机械功能对周边组织器官产生影响以外，还可以凭借非物理性的内分泌功能通过脂肪因子输出信号方式有效地建立起其与呼吸系统等远程器官的互作信息网络，进而参与多种肥胖相关疾病的发生与发展。作为内分泌领域的突破性进展之一，脂肪组织的内分泌功能愈来受到生命科学领域的关注。近年来，多项流行病调查研究揭示了肥胖是造成慢性阻塞性肺疾病(Chronic Obstructive Pulmonary Disease，COPD)等呼吸系统疾病肺功能损害重要危险因素。基于此，本文将分别梳理脂联素、瘦素、内脂素等脂肪因子在COPD中的作用机制，从脂肪组织内分泌功能角度为COPD的防治研究提供新思路。
+
+【关键词】慢性阻塞性肺疾病;肥胖;脂肪组织；内分泌功能；机制研究【中图分类号】R563.3 【文献标识码】 A
+
+# To explore the mechanism of fat in chronic obstructive pulmonary disease based on the endocrine function of adipose tissue
+
+WANG Yide, Li Zheng\*， Li Fengsen   
+Department of Respiratory Medicine, The Fourth Clinical Medical College,   
+Xinjiang Medical University， Urumqi 830000, China   
+\*Corresponding author: Ll Zheng, E-mail: 149668116@qq.com
+
+【Abstract】 Adipose tissue can not only affect peripheral tissues and organs through its mechanical characteristics or mechanical functions, but also effectively establish an interaction information network with remote organs through adipokine output signals through its endocrine function，and then participate in the occurrence and development of a variety of obesity-related diseases.As a breakthrough in the field of endocrinology， the endocrine function of adipose tissue has attracted more and more attention in the field of life science. In recent years,a number of epidemiological studies have revealed that obesity is an important risk factor for lung function impairment in respiratory diseases including chronic obstructive pulmonary disease.Based on this,the mechanism of adiponectin, leptin,endolipin and other adipocytokines in COPD was analyzed in this paper， providing new ideas for the prevention and treatment of COPD from the perspective of endocrine function of adipose tissue.
+
+【Keywords】 Chronic obstructive pulmonary disease； obesity； Adiposetissue； Endocrine function; Mechanism research
+
+近 40 年世界范围内的肥胖发病率逐渐上升，造成了沉重的社会经济负担[12]。多项流行病学调查研究发现与健康对照组相比，肥胖显著增加了肺系疾病患病的敏感性，并认为肥胖造成的脂质蓄积或异常分布是造成COPD 等呼吸系统疾病的重要因素[3-5]。有研究认为肥胖对肺功能有重要影响：肥胖相关指标与肺功能呈负相关关系[67]。究其缘由，脂肪组织对于肺功能的影响主要通过“物理”及“化学”两条途径发挥作用。所谓“物理”途径即改变呼吸系统的力学特征，例如：腹部肥胖可降低肺的顺应性，很大程度减少了肺体积"；内脏脂肪组织则可改变膈肌结构、限制其运动，进而损害肺功能[10]。而“化学”途径则更多依赖脂肪组织活跃的内分泌功能得以实现，超重或肥胖造成机体总体或局部的脂肪过度蓄积可诱发脂毒性反应产生慢性炎症、代谢性氧化应激等进而诱导或参与COPD 等多种疾病的发生、发展[11，12]。体脂异常堆积通过力学特征或机械功能的途径损害肺功能，自不待言。随着脂肪内分泌功能在COPD等慢性代谢性疾病的研究不断深入，笔者查阅相关文献对已明确及有争议的内容进行汇总整理，从“化学”角度入手着重论述脂肪组织与COPD的具体关系及作用机制，阐述如下：
+
+# 1脂肪组织的内分泌功能
+
+传统意义上，脂肪组织一直被认为是机体重要的能量储存器。直到1987年[13]，研究人员初次发现脂肪也是类固醇性激素的重要代谢场所；1994年[14]，瘦素这一由脂肪组织分泌的蛋白因子被首次发现完全改变了既往我们对脂肪组织的看法，从此，脂肪组织的内分泌功能相关研究受到关注，随后包括脂联素、内脂素等多种重要的脂源性激素或细胞因子被相继发现，现今脂肪内分泌功能甚至被认为是内分泌学领域的重要突破性进展之一。脂肪组织内分泌功能得以实现主要通过自分泌或旁分泌方式作用于脂肪组织和经典内分泌方式作用于远端器官或组织，进而有效建立与呼吸系统、循环系统等靶器官的沟通交互网络，参与相应包括慢阻肺、动脉粥样硬化等一系列肥胖相关疾病的发生和发展。
+
+# 2脂肪组织分泌的脂肪因子与慢阻肺
+
+# 2.1脂联素(Adiponectin，ADPN)与慢阻肺
+
+ADPN是一类由脂肪细胞特异性产生的分泌蛋白，此种因子大小约 $3 0 \mathrm { k D }$ ，以低、中、高三种分子量循环存在[15]。AdipoR1、AdipoR2 是 ADPN 的两种受体，其与脂联素的异构体具有不同的亲和力且在器官组织的分布亦有差异[16]。ADPN 通过其抗炎、抗动脉粥样硬化、抗胰岛素抵抗，调节糖脂代谢功能在COPD 等多种全身慢性疾病进程中发挥作用[17]。Thyagara jan 等[18]进行的一项队列研究发现低血清脂联素浓度与低肺功能相关，并提示C-反应蛋白等系统性炎症相关标志物是连接脂联素和肺功能的重要因果途径。NakanishiK等[1进行的一项体内实验发现：在弹性蛋白酶诱导的肺气肿模型中肺血管脂联素表达水平降低，并且在脂联素敲除模型小鼠会表现出全身的炎症反应并发现肺泡进行性增大和肺顺应性增加，甚至出现COPD 常见的包括体重减轻、骨质疏松等肺外表型，而通过腺病毒介导方式补充外源性的脂联素可明显逆转上述变化，显著改善肺气肿表型。2.1.1抑制肺部内皮细胞凋亡；作为一类自主有序的死亡方式，细胞凋亡在维持机体组织器官稳定性方面扮演重要角色，近年来多项体内外研究均证实细胞凋亡表型与 COPD 疾病进展密切相关[20-22]。多聚(ADP-核糖)聚合酶 PARP(poly(ADP-ribose）polymerase)是 Caspase-3 的主要作用底物，其可通过剪切116kD使PARP与DNA 结合的结构与催化区域分离导致失去正常功能从而触发凋亡表型，可见Caspase-3在细胞凋亡中发挥不可替代的作用[23]。一项动物实验研究[19]发现脂联素敲除小鼠的caspase-3蛋白表达明显上调，显著促进肺部内皮细胞凋亡可改善COPD 模型小鼠的肺气肿表型。因此，通过ADPN下调Caspase-3表达进而抑制肺组织内皮细胞凋亡可能是COPD防治研究的重要靶点。
+
+2.1.2抑制炎症；脂联素可通过直接作用于炎性细胞发挥抑炎作用，外周血中的单核细胞、NK 细胞等均明显表达脂联素 R1/R2 受体，ADPN 可抑制髓祖单核细胞生长并阻止巨噬细胞向泡沫细胞转化[24]；同时其可通过刺激巨噬细胞分泌抑炎因子IL-10 的方式抑制 NF-K B信号通路的活化[25]；在肥胖模型中通常出现脂联素表达下降和IL-6 等代谢性炎症因子表达升高，AjuwonKM等2研究发现脂联素可抑制LPS 诱导的IL-6等促炎因子表达，因此ADPN具有调控脂肪组织或脂肪细胞代谢性炎症作用；动物实验发现ADPN与TNF-α 存在制约关系：在脂联素敲除小鼠模型中 TNF-α 表达显著降低，相反，通过病毒介导下调 TNF-α 表达可提高体内 ADPN 表达水平[27]。COPD 作为一类炎症发挥主导作用的慢性全身性炎症性疾病，体内 NF-κ B、IL-6、TNF-α 等相关促炎通路或因子的活化可加重其疾病进程，所以，我们有理由推测脂联素对于COPD 的潜在治疗作用可能与其抑制机体炎症反应有关。
+
+2.1.3调节脂质代谢平衡；虽然目前尚无脂联素调控COPD脂质代谢的直接证据，但是多项流调研究均提示COPD 患者多存在体脂代谢异常现象[28]，最新研究发现脂质、脂质分子(包括脂质介质、脂质合成转录因子、胆固醇和磷脂)的分解代谢和合成代谢异常与COPD 患病密切相关[29]。作为脂肪组织分泌的一类重要脂肪因子，脂联素在调控脂质代谢方面发挥重要作用，首先其可通过与AdipoR1或 R2受体结合，激活下游 AMPK脂代谢通路诱导乙酰辅酶A羧化酶(ACC)磷酸化失活促进脂肪酸氧化[30。31]；同时，也可与上述受体结合经 PPARα 和AMPK 通路调控下游SREBP-1c、UCP 家族重要因子的表达进而发挥抑制脂质生成的作用[32.33]。因此，从脂质代谢角度切入脂联素在COPD 疾病进展中的作用也将是未来研究的一个重要方向。
+
+# 2.2瘦素(Leptin,LP)与慢阻肺
+
+LP 是由白色脂肪分泌的包含146个氨基酸构成的蛋白分子，属于长链螺旋细胞因子家族中的一员34；瘦素受体基因包含19 个内含子和 20 和外显子，长度约为5.1kb，位于染色体1p3135]；瘦素通过与受体结合后可产生相应的生理学效应，其受体基因在包括心、肝、大脑脉络丛等体内广泛表达，有研究发现瘦素受体也在肺脏中高度表达，提示肺脏同是瘦素反应的重要靶器官[36]。近年来多项研究发现这种脂肪因子与COPD 密切相关：一项人群调查研究3显示血浆较高瘦素水平与肺功能 FEV1等指标下降有关；此外 HanselN等[3研究发现瘦素受体基因变异也与肺功能下降显著相关：在 COPD 患者中发现其肺功能下降与瘦素 21 个SNPs 存在关联，并且单倍型分析与个体标记的关联，动物实验采用近交系小鼠的免疫组化结果支持了其受体在COPD 发病中的潜在作用。
+
+2.2.1诱导炎症反应；COPD与炎症的关系，自不待言。与脂联素不同，瘦素是一种促炎性脂肪因子。一项来自墨西哥的关于女性COPD 患者的调查[39发现，无论是吸烟相关COPD 还是生物燃料暴露相关COPD 与对照组相比其炎症介质因子及瘦素表达水平均显著升高，提示瘦素可能在COPD 患者全身炎症反应中起到重要作用。此外，瘦素浓度也与COPD 不同疾病阶段有关，一项系统评价结果[40]显示：COPD 急性加重期瘦素水平相较于健康对照组显著升高。究其原因，可能与以下因素有关：ZhouL等[4研究发现COPD 急性加重期血清瘦素浓度升高且与 TNF-a水平呈正相关，而且有研究证实4瘦素能通过激活巨噬细胞方式促进 TNF-α、IL-6 及相关炎性趋化因子释放进而引发全身代谢性炎症反应；除了巨噬细胞以外，尚有研究[42，43]发现瘦素可直接诱导成纤维滑膜细胞分泌促炎因子 IL-8，上述因子又可以直接或间接方式影响到肺脏及全身的炎症反应进而参与到COPD 疾病进程。cPLA2-α是一类炎症反应中发挥承上启下作用的信号分子，在多种炎性介质的释放过程中发挥重要调控作用[44]，有研究4发现瘦素可经过丝裂原活化蛋白激酶(MAPK)/核因子-κ B(NF-κ B)信号通路直接促进肺脏cPLA2-α 的表达，因此,cPLA2-α 或成为COPD等脂质代谢异常的全身炎性疾病中潜在的治疗靶点。2.2.2 激活氧化应激；作为一种诱导型蛋白酶，环加氧酶 2(cyclooxygenase-2,COX-2）在受到氧化应激、炎症等相关信号刺激时可显著高表达，其内源性产物前列腺类激素可诱导中性粒细胞由气道上皮迁移到气道内，因此COX-2被认为是肺部氧化应激及炎症反应的重要标志物[46.47]。cPLA2α/COX-2信号通路的激活是肺部氧化应激的重要机制之一[48]。Hsu P等[49]发现瘦素可经过 NADPH/ROS/AP-1信号通路上调cPLA2α/COX-2表达，并且ROS 清道夫(N-acetylcysteine，NAC)、
+
+NADPH 氧化酶抑制剂(Apocynin)或活化蛋白(AP)-1 抑制剂(Tanshinone IIA)的可逆转上述过程。此外，BlancaA等[5基于pi3k/Akt 信号通路探讨瘦素对氧化应激的影响，其可通过上调NADPH氧化酶产生的超氧阴离子 $\left( 0 2 - \right)$ 、NOX2 表达和硝基酪氨酸（nitrotyrosine,NT）水平而加重机体氧化应激状态。所以，通过靶向瘦素，开发其抑制剂可能通过下调 NADPH/ROS/AP-1及pi3k/Akt 等氧化应激相关通路关键蛋白表达而在COPD合并脂质代谢异常疾病中发挥治疗作用。然而，上述实验是基于II型肺泡细胞和大鼠肾上皮细胞等进行的，目前缺乏在COPD 模型基础上瘦素对氧化应激表型影响的直接机制研究。
+
+# 2.3内脂素(visfatin)与慢阻肺
+
+SamalB等[51]首先利用基因测序技术从人类血淋巴细胞中分离出内脂素，多项研究[52，53]显示其在脂肪尤其是内脏脂肪、肺脏、骨髓等全身多种器官组织中均表达。编码内脂素的基因全长约34.7kb，包含10个内含子、11个外显子，位于7q，编码区翻译后共产生包含分子量为 $5 2 \mathrm { { k D a } }$ 蛋白质的473个氨基酸的多肽或内脏脂肪素蛋白，该基因具有高度生物保守性[53]。内脂素在物质代谢、细胞凋亡、炎症反应等多种生物表型发挥作用，但是促炎作用仍是其参与多种疾病发生、发展的主导机制[54]。COPD 是一种肺部及全身的慢性炎症性疾病，而COPD 合并超重或肥胖等脂代谢异常疾病与肺功能低下、严重临床表现及较差预后等密切相关7，近年来脂肪组织分泌的内脂素诱导机体全身低度炎症反应状态在COPD 中的重要作用愈受关注。已有多项临床研究支持内脂素与COPD 的密切关系：首先，相较于健康组，COPD 患者血清内脂素浓度显著升高，并且其表达浓度与 TNF-α、CRP 等炎性标志物水平呈正相关关系[55]；此外，内脂素在COPD 不同疾病疾病阶段的表达亦有差异，具体为血清内脂素水平在COPD 急性加重期浓度高于稳定期及健康对照组[56]。
+
+内脂素在COPD 的具体作用机制可能与以下因素有关：有研究[55，56表明内脂素可通过调控 TNF-α 从而促进 IL-8 高表达方式诱导或加剧肺泡上皮细胞炎症反应，而通过RNA 干扰技术沉默内脂素可抑制 TNF-α、IL-8 表达从而降低EA.hy926 细胞的炎症水平；黏液高分泌参与了包括痰栓形成，气道阻塞、细菌定殖等引起气道气流受限的整个过程，是COPD 的重要病理特征之一[57]，黏液相关蛋白是气道黏液中最重要的组成部分，其中黏附分子ICAM-1、VCAM-1又是黏液蛋白家族的重要成员，广泛参与到细胞识别和炎症反应中炎症细胞与内皮细胞的粘附。Kim S等研究发现内脂素可通过激活NF-κ B信号通路途径促进ICAM-1、VCAM-1 介导的内皮细胞炎症反应[58，59]。而且，也有研究发现预处理内脂素可通过上调 $\mathrm { { N F ^ { - } \times B } }$ 活性增加IL-6、IL-8 等炎性细胞因子表达从而诱导内皮细胞功能障碍[60]。因此通过靶向内脂素调控 TNF-α 或 ${ \tt N F - \tt { \tt { \tt { \tt { \kappa } } } B } }$ 信号通路进而下调下游 IL-8 等细胞因子及ICAM-1、VCAM-1等黏附分子表达可能对于抑制COPD合并脂质代谢异常疾病的慢性炎症反应具有重要作用。
+
+# 3总结与展望
+
+本文基于脂肪内分泌功能分别论述了其分泌的脂联素、瘦素、内脂素等脂肪因子通过炎症反应、氧化应激、细胞凋亡及脂质代谢等途径直接或经由循环系统间接作用到肺组织，进而参与到COPD 疾病进程。目前对于COPD 和脂肪因子互作研究仍处于初步阶段，尚有很多问题亟待解决：（1）当前已经发现的脂肪因子包括近百种，但与COPD 相关的脂肪因子仅集中在常见的几类，并且其基础机制研究大多相对表浅；（2）此外，部分研究出现矛盾的结论：例如有研究[18认为脂联素与肺功能呈现正相关关系,高水平脂联素浓度是COPD的保护因素，但也有研究[61]提示高表达脂联素可能会损害肺功能进而参与诱导 COPD 患病。可能的原因包括：a.肥胖自身复杂性：不仅脂联素等脂肪因子，临床相关肥胖指标与COPD 的具体关系本身就存在矛盾：肥胖对 COPD 的负面影响[3-5]，前已表述；但也有研究发现超重是COPD 患者良好预后的积极保护因素[62]。我们认为造成上述矛盾现象的原因可能与研究方法有一定关系,当前关于肥胖与肺功能的相关性分析多采用简单的正相关或负相关分析。但是，在现实的生物医学研究中许多研究因素对结局变量的影响并非简单的线性关系，而是存在阈值效应现象，即在一定的范围内会有积极或消极的影响，但在经过某个分界点后发展方向会发生变化。为此，本课题组前期一项研究使用平滑拟合曲线联合分段回归模型分析发现肺功能与体脂呈现倒置U型曲线关系。b.当然，除了体脂与肺功能之间存在阈值效应的原因以外，不同性别、肥胖程度、疾病阶段均是影响研究结论的重要因素[64,6]。
+
+总之，为了阐明脂肪组织对COPD的影响和具体作用机制，系统的重叠呼吸系统和代谢系统疾病的高质量临床和基础研究是非常有必要的。由于COPD 和脂肪组织的内分泌功能均具有自身复杂性，接下来的研究应注意采用非线性等高级统计方法进行分子流行病学研究联合代谢组学等系统生物学方法筛选影响COPD的重要脂肪因子并深化机制分析，这对于明确两者的具体关系及互作机制是非常重要的，同时也对于进一步通过靶向重要脂肪因子进行COPD合并脂质代谢异常疾病相关药物开发具有重要意义。
+
+作者贡献：李争 李风森负责文章的可行性分析、质量控制及审校、监督管理；王益德进行文章的构思与设计，文献/资料收集、论文撰写与修订。
+
+本文无利益冲突
+
+# 参考文献
+
+[1]HALLJE, DO CARMO J M,DA SILVA A A, et al. Obesity, kidney dysfunction and hypertension: mechanistic links [J]. Nature Reviews Nephrology,2019,15(6): 367-85. DOl: 10.1038/s41581- 019-0145-4.   
+[2] JAACKS L M, VANDEVIJVERE S,PAN A,et al. The obesity transition: stages of the global epidemic [J].Lancet Diabetes & Endocrinology，2019，7(3): 231-40. DOl: 10.1016/S2213- 8587(19)30026-9.   
+[3]BRAZZALE D J, PRETTO JJ, SCHACHTER L M. Optimizing respiratory function assessments to elucidate the impact of obesity on respiratory health [J]. Respirology,2015,20(5): 715-21. DOl: 10.1111/resp.12563.   
+[4]LIN C-K, LIN C-C.Work of breathing and respiratory drive in obesity [J]. Respirology,2012, 17(3): 402-11. DOl: 10.1111/j.1440-1843.2011.02124.x.   
+[5]ROBINSON P D. Obesity and its impact on the respiratory system [J]. Paediatr Respir Rev, 2014,15(3): 219-26. DOl: 10.1016/j.prrv.2014.06.003.   
+[6]KIM H J, PARK J H,MIN J Y,et al. Abdominal adiposity intensifies the negative efects of ambient air pollution on lung function in Korean men [J]. Int J Obes,2017,41(8): 1218-23. DOI:10.1038/ijo.2017.97.   
+[7]SORLI-AGUILAR M, MARTIN-LUJAN F, FLORES-MATEO G, et al. Adiposity markers and lung function in smokers: a cross-sectional study in a Mediterranean population [J]. BMC Pulm Med,2016,16: 178. DOl: 10.1186/s12890-016-0341-y.   
+[8]DIXON A E, PETERS U.The effct of obesity on lung function [J]. Expert Review Of Respiratory Medicine,2018,12(9): 755-67. DOl: 10.1080/17476348.2018.1506331.   
+[9]BORIEK A M, LOPEZ M A, VELASCO C, et al. Obesity modulates diaphragm curvature in subjects with and without COPD [J]. American Journal Of Physiology-Regulatory Integrative And Comparative Physiology,2017,313(5): R620-R9. DOl: 10.1152/ajpregu.00173.2017.   
+[10] RODRIGUES G C，ROCHA N N，MAIA L D A,et al. Impact of experimental obesity on diaphragm structure,function,and bioenergetics [J].J Appl Physiol,2020,129(5): 1062-74. DOl: 10.1152/japplphysiol.00262.2020.   
+[11]曲伸,朱冰.从代谢角度认识肥胖,用整体策略管理肥胖[J].中华内分泌代谢杂 志,2018,34(04):269-273. QU X， ZHU B. Understanding obesity from the perspective of metabolism and managing obesity with holistic strategy [J]. Chin J endocrinology & metabolism,2018,34(04):269-273. DOl:10.3760/cma.j.issn.1000-6699.2018.04.001.
+
+[12]王益德,李争,李风森.脂肪酸结合蛋白4与慢性阻塞性肺疾病关系研究进展[J].现代医
+
+学,2020,48(11):1490-1494.WANG Y D,LI Z, LI F S. Association between fatty acid binding protein 4 and chronic obstructive pulmonary disease [J]. Modern medicine,2020,48(11):1490- 1494. DOl:10.3969/j.issn.1671-7562.2020.11.030.   
+[13] SIITERl P K. Adipose tissue as a source of hormones [J]. Am J Clin Nutr, 1987, 45(1): 277-82. DOI: 10.1079/PNS19870018.   
+[14] ZHANG YY, PROENCA R, MAFFEI M, et al. Positional cloning of the mouse obese gene and its human homologue [J]. Nature,1994,372(6505): 425-32. DOl: 10.1038/372425a0.   
+[15] KADOWAKl T,YAMAUCHI T, KUBOTA N,et al. Adiponectin and adiponectin receptors in insulin resistance,diabetes,and the metabolic syndrome [J]. J Clin Invest, 2006,116(7): 1784- 92. DOI: 10.1172/JCl29126.   
+[16] KADOWAKI T,YAMAUCHI T. Adiponectin and adiponectin receptors [J]. Endocr Rev, 2005, 26(3): 439-51. DOl: 10.1210/er.2005-0005.   
+[17] DANIELE A, DE ROSA A, NIGRO E,et al. Adiponectin oligomerization state and adiponectin receptors airway expresson in chronic obstructive pulmonary disease [J]. Int J Biochem Cell Biol, 2012, 44(3): 563-9. DOl: 10.1016/j.biocel.2011.12.016.   
+[18] THYAGARAJAN B, JACOBS D R,JR.,SMITHLJ,et al. Serum adiponectin is positively associated with lung function in young adults,independent of obesity: The CARDIA study [J]. Respir Res, 2010,11: 176. DOl: 10.1186/1465-9921-11-176.   
+[19] NAKANISHI K，TAKEDA Y，TETSUMOTO S，et al. Involvement of Endothelial Apoptosis Underlying Chronic Obstructive Pulmonary Disease-like Phenotype in Adiponectin-null Mice Implications for Therapy[J].American Journal Of Respiratory And Critical Care Medicine,2011, 183(9): 1164-75. DOl: 10.1164/rccm.201007-1091OC.   
+[20] SUN Y,AN N,LI J,et al. miRNA-206 regulates human pulmonary microvascular endothelial cell apoptosis via targeting in chronic obstructive pulmonary disease [J]. J Cel Biochem, 2019, 120(4): 6223-36. DOl: 10.1002/jcb.27910.   
+[21] XIA S,QU J, JIA H,et al. Overexpression of Forkhead box C1 attenuates oxidative stress, inflammation and apoptosis in chronic obstructive pulmonary disease [J]. Life Sci, 2019,216: 75-84. DOl: 10.1016/j.Ifs.2018.11.023.   
+[22] ZHOU X，YI D,WU Y，et al. Expression of diaphragmatic myostatin and correlation with apoptosis in rats with chronic obstructive pulmonary disease [J]. Exp Ther Med, 2018,15(3): 2295-300. DOl: 10.3892/etm.2018.5686.   
+[23] JIANG M,QIL,LIL,et al.The caspase-3/GSDME signal pathway as a switch between apoptosis and pyroptosis in cancer [J]. Cell death discovery，2020,6:112. DOl: 10.1038/s41420-020- 00349-0.   
+[24] SARGOLZAEI J, CHAMANI E, KAZEMI T,et al.The role of adiponectin and adipolin as anti - inflammatory adipokines in the formation of macrophage foam cels and their association with cardiovasculardiseases[J].ClinBiochem，2018，54:1-10.DOl: 10.1016/j.clinbiochem.2018.02.008.   
+[25] WEl C-Y，WANG Y-M，HAN L，et al. Nitrate Esters Allviated Coronary Atherosclerosis Through Inhibition of NF-kappa B-Regulated Macrophage Polarization Shift in Epicardial AdiposeTissue[J].JCardiovascPharmacol，2020，75(5):475-82.DOl: 10.1097/FJC.0000000000000818.   
+[26] AJUWON K M, SPURLOCK M E. Adiponectin inhibits LPS-induced NF-kappa B activation and IL-6 production and increases PPAR gamma 2 expression in adipocytes [J]. American Journal Of Physiology-Regulatory Integrative And Comparative Physiology,2005, 288(5): R1220-R5. DOl:10.1152/ajpregu.00397.2004.   
+[27] MAEDA N, SHIMOMURA I, KISHIDA K, et al. Diet-induced insulin resistance in mice lacking adiponectin/ACRP30 [J]. Nat Med,2002,8(7): 731-7. DOl: 10.1038/nm724.   
+[28] HANSON C, RUTTEN E P,WOUTERS E F M,et al. Influence of diet and obesity on COPD development and outcomes [J]. Int J Chron Obstruct Pulmon Dis，2014，9: 723-33. DOl: 10.2147/COPD.S50111.   
+[29] CHEN H,LI Z, DONG L,et al. Lipid metabolism in chronic obstructive pulmonary disease [J]. Int J Chron Obstruct Pulmon Dis,2019,14:1009-18. DOl: 10.2147/COPD.S196210.   
+[30] YOON MJ,LEE G Y, CHUNG J-J,et al.Adiponectin increases fatty acid oxidation in skeletal muscle cells by sequential activation of AMP-activated protein kinase,p38 mitogen-activated protein kinase,and peroxisome proliferator-activated receptor alpha [J]. Diabetes, 2006,55(9): 2562-70. DOl: 10.2337/db05-1322.   
+[31] TOMAS E, TSAO T S, SAHA A K,et al. Enhanced muscle fat oxidation and glucose transport by ACRP30 globular domain: Acetyl-CoA carboxylase inhibition and AMP-activated protein kinase activation [J]. Proceedings Of the National Academy Of Sciences Of the United States Of America,2002, 99(25): 16309-13. DOl: 10.1073/pnas.222657499.   
+[32] YAMAUCHI T, NIO Y,MAKl T,et al. Targeted disruption of AdipoR1 and AdipoR2 causes abrogation of adiponectin binding and metabolic actions [J]. Nat Med,2007,13(3): 332-9. DOl: 10.1038/nm1557.   
+[33] AWAZAWA M, UEKI K, INABE K, et al. Adiponectin suppresses hepatic SREBP1c expression in an AdipoR1/LKB1/AMPK dependent pathway[J]. Biochem Biophys Res Commun, 2009,382(1): 51-6. DOl: 10.1016/j.bbrc.2009.02.131.   
+[34]AHIMA R S，FLIER J S. Leptin [J]. Annu Rev Physiol，2000，62: 413-37.DOI: 10.1146/annurev.physiol.62.1.413.   
+[35] MYERS M G,COWLEY M A, MUENZBERG H. Mechanisms of leptin action and leptin resistance [J]. Annu Rev Physiol, 2008,70: 537-56. DOl: 10.1146/annurev.physiol.70.113006.100707.   
+[36] UYSAL P,UZUN H. Evaluation of ghrelin and leptin in chronic obstructive pulmonary disease [J]. Eurasian Journal Of Pulmonology, 2019,21(2): 114-21. DOl: 10.4103/ejop.ejop_72_18.   
+[37] HICKSON D A, BURCHFIEL C M, PETRINI M F,et al. Leptin Is Inversely AssOciated With Lung Function in African Americans, Independent of Adiposity: The Jackson Heart Study [J]. Obesity, 2011,19(5): 1054-61. DOl: 10.1038/oby.2010.240.   
+[38] HANSEL N N, GAO L, RAFAELS N M,et al. Leptin receptor polymorphisms and lung function decline in COPD [J]. Eur Respir J,2009,34(1): 103-10. DOl: 10.1183/09031936.00120408.   
+[39] PEREZ-BAUTISTA O, MONTANO M, PEREZ-PADILLA R, et al. Women with COPD by biomass show different serum profile of adipokines,incretins,and peptide hormones than smokers [J]. Respir Res, 2018,19: 239. DOl: 10.1186/s12931-018-0943-4.   
+[40] ZHOU L, YUAN C, ZHANG J, et al. Circulating Leptin Concentrations in Patients with Chronic Obstructive Pulmonary Disease: A Systematic Review and Meta-Analysis [J]. Respiration, 2013, 86(6): 512-22. DOl: 10.1159/000354191.   
+[41] WANG Z, HUANG X, YEX, et al. Roles of leptin on the key effector cels of rheumatoid arthritis [J]. Immunol Lett, 2021, 233: 92-6. DOl: 10.1016/j.imlet.2021.02.008.   
+[42] KONTNY E, JANICKA I, SKALSKA U,et al. The effect of multimeric adiponectin isoforms and leptin on the function of rheumatoid fibroblast-like synoviocytes [J].Scand JRheumatol,2015, 44(5):363-8. DOl: 10.3109/03009742.2015.1025833.   
+[43] SCOTECE M, CONDE J, LOPEZ V,et al. Adiponectin and Leptin: New Targets in Inflammation [J]. Basic Clin Pharmacol Toxicol, 2014,114(1): 97-102. DOl: 10.1111/bcpt.12109.   
+[44] LEIGUEZ E， MOTTA P, MAIA MARQUES R, et al. A Representative GIIA Phospholipase A(2) Activates Preadipocytes to Produce Inflammatory Mediators Implicated in Obesity Development [J]. Biomolecules,2020,10(12): 1593. DOl: 10.3390/biom10121593.   
+[45] HSU P-S,WU C-S, CHANG J-F,et al. Leptin Promotes cPLA(2) Gene Expresson through Activation of the MAPK/NF-kappa B/p300 Cascade [J]. International journal of molecular sciences,2015,16(11): 27640-58. DOl: 10.3390/ijms161126045.   
+[46] UCHIDA K. A lipid-derived endogenous inducer of COX-2: a bridge between inflammation and oxidative stress [J]. Mol Cells, 2008,25(3): 347-51. DOl: 10.1002/yea.1598.   
+[47] MOEGELI, BAUMANN S, BOEHME A,et al. The aromatic volatile organic compounds toluene, benzene and styrene induce COX-2 and prostaglandins in human lung epithelial cells via Oxidative stress and p38 MAPK activation [J]. Toxicology， 2011，289(1): 28-37. DOI: 10.1016/j.tox.2011.07.006.   
+[48] LIU Y,LIY,LIANG J,etal. Leptin: an entry point for the treatment of peripheral tissue fibrosis andrelateddiseases[J]. IntImmunopharmacol，2022，106:108608.DOl: 10.1016/j.intimp.2022.108608.   
+[49] HSU P-S,LIN C-M, CHANG J-F, et al. Participation of NADPH Oxidase-Related Reactive Oxygen Species in Leptin-Promoted Pulmonary Inflammation: Regulation of cPLA2 and COX2Expression [J]. International journal of molecular sciences，2019，20(5): 1078. DOl: 10.3390/ijms20051078.   
+[50] BLANCA A J, RUIZ-ARMENTA M V， ZAMBRANO S,et al. Leptin Induces Oxidative Stress Through Activation of NADPH Oxidase in Renal Tubular Cells: Antioxidant Effect of L-Carnitine [J].J Cell Biochem, 2016,117(10): 2281-8. DOl: 10.1002/jcb.25526.   
+[51] SAMAL B, SUN Y H, STEARNS G,et al. Cloning andCharacterization ofthecDNA Encoding a Novel HumanPre-B-CellColony-Enhancing Factor[J]. Mol CellBiol,1994,14(2): 1431-7. DOl: 10.1128/MCB.14.2.1431.   
+[52] KEYHANMANESH R, ALIPOUR M R， EBRAHIMI H, et al. Efects of Diet-Induced Obesity on Tracheal Responsiveness to Methacholine, Tracheal Visfatin Level，and Lung Histological Changes in Ovalbumin-Sensitized Female Wistar Rats [J]. Inflammation,2018,41(3): 846-58. DOI: 10.1007/s10753-018-0738-2.   
+[53] Stastny J，Bienertova-Vasku J，Vasku A. Visfatin and its role in obesity development[J]. Diabetes & Metabolic Syndrome: Clinical Research & Reviews,2012，6(2):120-124. DOl: 10.1016/j.dsx.2012.08.011.   
+[54] PANG X X, ANSARl A R, YANG W J, et al. Visfatin Regulates Inflammatory Mediators in Mouse Intestinal Mucosa Through Toll-Like Receptors Signaling Under Lipopolysaccharide Stress [J]. Arch Immunol Ther Exp (Warsz), 2021, 69(1): 1-12. DOl: 10.1016/j.dsx.2012.08.011.   
+[55] GOLDMANN T, ZISSEL G,WATZ H,et al. Human alveolar epithelial cels type Ilare capable of TGF beta-dependent epithelial-mesenchymal-transition and collagen-synthesis [J]. Respir Res,2018,19(1): 1-13. DOl: 10.1186/s12931-018-0841-9.   
+[56] HEJY,CUl H J,TANG L J,et al. Inhibition of pre-B cellcolony-enhancing factor attenuates inflammation induced by hyperoxia in EA. hy926 cells [J]. Int J Mol Med,2017,40(3): 859-66. DOl: 10.3892/ijmm.2017.3045.   
+[57]WEDZICHA JA. Airway Mucins in Chronic Obstructive Pulmonary Disease [J].N Engl J Med, 2017,377(10): 986-7. DOI: 10.1056/NEJMe1707210.   
+[58] KIM S-R, BAE Y-H,BAE S-K, et al. Visfatin enhances ICAM-1 and VCAM-1 expression through ROS-dependent NF-kappa B activation in endothelial cells [J]. Biochimica Et Biophysica ActaMolecular Cell Research, 2008,1783(5): 886-95. DOl: 10.1016/j.bbamcr.2008.01.004.   
+[59] ROMACHO T, VILLALOBOS L A, CERCAS E, et al. Visfatin as a Novel Mediator Released by Inflamed HumanEndothelial Cells[J]. PlosOne， 2013， 8(10): e78283．DOl: 10.1371/journal.pone.0078283.   
+[60] LEE WJ,WU CS,LIN H,et al. Visfatin-induced expression of inflammatory mediators in human endothelial cells through the NF-kappa B pathway [J]. Int J Obes,2009,33(4): 465-72. DOl: 10.1038/ijo.2009.24.   
+[61] CAROLAN BJ, KIM Y-I, WILLIAMS A A, et al.The Association of Adiponectin with Computed Tomography Phenotypes in Chronic Obstructive Pulmonary Disease [J]. American Journal Of Respiratory And Critical Care Medicine， 2013，188(5): 561-6. DOl: 10.1164/rccm.201212- 2299OC.   
+[62] STOLL P, FOERSTER S, VIRCHOW J C, et al. Overweight is a predictor of long -term survival in hospitalised patients with exacerbations of COPD [J]. Respir Med，2016,116: 59-62. DOl: 10.1016/j.rmed.2016.05.016.   
+[63] WANG Y,LI Z,LI F. Nonlinear relationship between visceral adiposity index and lung function: a population-based study [J]. Respir Res，2021，22(1):1-10. DOl: 10.1186/s12931-021- 01751-7.   
+[64] HARMS CA. Does gender affect pulmonary function and exercise capacity?[J]. Respir Physiol Neurobiol, 2006,151(2-3): 124-31. DOl: 10.1016/j.resp.2005.10.010.   
+[65] DEMERATH E W,SUN S S, ROGERS N,et al. Anatomical patterning of visceral adipose tissue: Race,sex,and age variation [J]. Obesity,2007,15(12): 2984-93. DOl: 10.1038/oby.2007.356.   
+[66] ZHU J,ZHAO Z,WU B,et al. Effect of Body Mass Index on Lung Function in Chinese Patients with Chronic Obstructive Pulmonary Disease: A Multicenter Cross-Sectional Study [J].Int J Chron Obstruct Pulmon Dis,2020,15: 2477-86. DOl: 10.2147/COPD.S265676.

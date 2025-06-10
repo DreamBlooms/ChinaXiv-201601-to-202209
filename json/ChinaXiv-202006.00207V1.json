@@ -1,0 +1,484 @@
+[
+    {
+        "type": "text",
+        "text": "新疆克里雅河下游植被与地下水埋深关系初探",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王雅梅'，张青青'，李骊'，赵新风²,3,4（1．新疆农业大学,新疆 乌鲁木齐830052;  \n2．中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;  \n学院阿克苏农田生态系统国家野外科学观测研究站,新疆 阿拉尔843300；4．中国科学院大学,北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：于2018年选取克里雅河下游为研究靶区布置监测断面,设置2条监测带,纵向沿河方向1条样带（共11个监测断面),横向选取3个典型断面,距河道不同距离布点(共8个监测点),获取乔灌草植被长势及每个断面地下水埋深数据。通过对研究区植物生长状况、群落分布情况的分析,讨论了植被长势与地下水埋深的关系,得出：$\\textcircled{1}$ 沿河道方向,地下水位影响植物群落的分布,监测断面1\\~6地下水埋深较浅,主要为芦苇(Phragmites australis)群落;断面7\\~11地下水埋深不断下降,则以胡杨(Populus euphratica)群落为主。 $\\textcircled{2}$ 在垂直于河道 $5 0 0 \\mathrm { ~ m ~ }$ 范围内,越往荒漠方向植被盖度越小,地下水埋深越深,各长势指标分别在距离河道 $1 5 0 \\mathrm { ~ m ~ } . 2 0 0 \\mathrm { ~ m ~ } . 3 0 0 \\mathrm { ~ m ~ } . 4 0 0 \\mathrm { ~ m ~ } . 5 0 0 \\mathrm { ~ m ~ }$ 处差异显著( $\\textstyle P < 0 . 0 1 { \\mathrm { ~ } }$ ； $\\textcircled{3}$ 不同植物的生长对于地下水埋深的要求不同,骆驼刺（Alhagi sparsifolia）、甘草（Glycyrrhizauralensis)等浅根植物更容易在浅水位下生长,胡杨、怪柳等深根植物在深水位更占优势。在地下水位较深断面$( 7 \\sim 1 1 )$ 与较浅断面(1\\~6)植物平均高度分别为 $1 0 0 . 5 0 ~ \\mathrm { c m }$ 和 $1 4 9 . 3 8 ~ \\mathrm { c m }$ ,后者较前者高出 $4 8 . 6 4 \\%$ 0",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地下水埋深；植物多样性；克里雅河下游；新疆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "克里雅河流域位于塔里木河流域南缘的于田县境内，南靠昆仑山主脉，北临塔克拉玛干沙漠。克里雅河自南向北纵贯全流域，是于田县第一大河。流域下游达里雅布依绿洲是唯一深入塔克拉玛干沙漠腹地的天然绿色长廊，因其具有重要的荒漠生态科研价值和旅游探险价值，已引起科学界的广泛关注[1-3]。但在 20 世纪50 年代后,随着克里雅河中游人工绿洲的快速扩张，导致下游河道断流，天然植被日趋衰败，土地沙化加剧，荒漠生态系统更加脆弱[1,4]。为了挽救下游天然绿洲,开展该区水资源优化配置方面的研究逐渐被相关部门所重视。关于克里雅河流域的研究多集中于流域的中上游[5-6],如关于流域与绿洲承载力的关系[7-9]的研究。目前，对克里雅河下游尾闾天然植被的研究仍以一些老前辈对当地植被物种的定性研究为主[1,10-11],缺少量化分析，缺乏对地下水的关注。而地下水微小的变化对于地表植被影响较大，且发现当地物种较简单[12-14]。然而,经过几十年后的克里雅河下游以及达里雅布依绿洲天然植被是否发生了变化？地下水埋深情况如何以及克里雅河下游植被与地下水位埋深的关系也成为大家关注的焦点。本文选取克里雅河流域作为研究区，通过研究下游植被与地下水埋深的关系，为恢复克里雅河流域生态环境以及较小尺度的内陆河流域水资源优化配置模式提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "克里雅河流域地处欧亚大陆腹地，远离海洋，属暖温带极端干旱荒漠气候区。流域多年平均气温$9 . 5 3 \\mathrm { ~ \\textdegree C }$ ，极端最高气温 $4 3 . 0 \\mathrm { ~ \\textdegree C }$ ，极端最低气温$- 2 6 . 3 \\mathrm { ~ } \\mathrm { ^ q }$ ；年平均降水量 $4 4 . 7 ~ \\mathrm { m m }$ ，蒸发量2239.8$\\mathbf { m m }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "克里雅河发源地昆仑山北麓，全长 $4 3 8 ~ \\mathrm { k m }$ ，多年平均径流量 $7 . 2 2 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ 。流域空间跨度为$8 1 ^ { \\circ } 0 9 ^ { \\prime } \\sim 8 2 ^ { \\circ } 5 1 ^ { \\prime }$ E $. 3 5 ^ { \\circ } 1 4 ^ { \\prime } \\sim 3 9 ^ { \\circ } 2 9 ^ { \\prime } \\mathrm { N }$ （图1），南北长约 $4 6 6 ~ \\mathrm { k m }$ ,东西宽 $3 0 \\sim 1 2 0 ~ \\mathrm { k m }$ ，呈牛腿状。研究区总面积 $3 . 9 5 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,其中山区面积 $1 . 2 4 \\times 1 0 ^ { 4 }$ $ { \\mathrm { k m } } ^ { 2 }$ ,平原区面积 $5 ~ 7 0 0 ~ \\mathrm { k m } ^ { 2 }$ ,沙漠面积 $2 . 1 4 \\times 1 0 ^ { 4 }$ $\\mathrm { k m } ^ { 2 }$ ，土壤沙漠化严重，尤其近年，风沙不断蚕食绿洲，荒漠范围不断扩大。植被主要有耐干旱耐盐碱的怪柳（Tamarixchinensis）芦苇（Phragmites australis）胡杨(Populus euphratica）骆驼刺（Alhagi spar-sifolia）甘草（Glycyrrhizauralensis）苦豆子（Sophoraalopecuroides）、香蒲（Typhaorientalis）等；地下水平均埋深在 $- 3 . 4 \\textrm { m }$ ,最深处达 $- 8 . 3 \\mathrm { ~ m ~ }$ ,是中国西部生态系统最为脆弱的地区之—[15]。 。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e960ee3bcb9a8376cfa21821230f0027e5cd669d6d885455bfcdde8b78af505.jpg",
+        "img_caption": [
+            "图1克里雅河流域地理位置及监测断面分布示意图 Fig.1Schematic diagram of geographical location and monitoring section distribution in the Keriya River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在克里雅河下游中下段沿着河道方向，以达里雅布依为中心布设植被监测断面，每隔 $1 0 ~ \\mathrm { k m }$ 布设1个监测断面,共布置11个监测断面(表1）。在每个断面布置2\\~3个 $5 0 \\mathrm { ~ m ~ } \\times 5 0 \\mathrm { ~ m ~ }$ 的大样方，内按梅花点采样法布置5个 $1 \\mathrm { ~ m ~ } { \\times } 1 \\mathrm { ~ m ~ }$ 的小样方。在每个断面获取地下水埋深数据。地下水埋深数据采用套管打钻法获取，井深均为 $1 5 \\mathrm { ~ m ~ }$ ,连通直径约 $5 \\ \\mathrm { c m }$ 的硬质橡胶管道以便于观测，所选的生态井基本可以代表研究区地下水分布状况，14口生态井沿克里雅河分布，其中，点11往后的3口生态井位于沙漠深",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1克里雅河下游中下段沿河道方向植被监测样点布置与地下水位",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca3b7620ca67117e24ec3a3e80c96b6d776b921131039d8eca958db2dcab1455.jpg",
+        "table_caption": [
+            "Tab.1Vegetation monitoring sections arrangement and groundwater level in the middle and lower reaches of the lower reachesof the Keriya River "
+        ],
+        "table_footnote": [
+            "注：断面11.1，11.2，11.3位于沙漠深处，由于交通工具难以进入，地下水位数据更难获取，因而保留断面数据，使数据更具科学性。"
+        ],
+        "table_body": "<html><body><table><tr><td>断面</td><td>纬度/(°)</td><td>经度/()</td><td>海拔/m</td><td>地下水埋深/m</td></tr><tr><td>断面1</td><td>38.02</td><td>81.88</td><td>1 216</td><td>3.25</td></tr><tr><td>断面2</td><td>38.02</td><td>81.58</td><td>1 216</td><td>3.10</td></tr><tr><td>断面3</td><td>38.21</td><td>81.68</td><td>1 198</td><td>1.80</td></tr><tr><td>断面4</td><td>38.24</td><td>81.70</td><td>1197</td><td>1.70</td></tr><tr><td>断面5</td><td>38.28</td><td>81.74</td><td>1 197</td><td>1.30</td></tr><tr><td>断面6</td><td>38.31</td><td>81.81</td><td>1180</td><td>1.30</td></tr><tr><td>达里雅布依</td><td>38.36</td><td>81.87</td><td>1180</td><td>2.07</td></tr><tr><td>断面7</td><td>38.38</td><td>81.87</td><td>1 174</td><td>3.00</td></tr><tr><td>断面8</td><td>38.42</td><td>81.91</td><td>1 162</td><td>5.60</td></tr><tr><td>断面9</td><td>38.43</td><td>81.91</td><td>1 176</td><td>6.60</td></tr><tr><td>断面10</td><td>38.43</td><td>81.91</td><td>1 176</td><td>8.30</td></tr><tr><td>断面11</td><td>38.47</td><td>81.96</td><td>1181</td><td>>6.00</td></tr><tr><td>断面11.1</td><td>38.34</td><td>81.86</td><td>1 172</td><td>>3.50</td></tr><tr><td>断面11.2</td><td>38.36</td><td>81.90</td><td>1 177</td><td>>6.20</td></tr><tr><td>断面11.3</td><td>38.37</td><td>81.57</td><td>1 190</td><td>5.57</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "处，数据获取难度较大，较为珍贵，因而作为点11的补充使研究区整体数据更科学、完整。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每个监测断面均以河边为起点，在垂直于河道方向的 $1 0 \\mathrm { ~ m ~ } , 5 0 \\mathrm { ~ m ~ } , 1 0 0 \\mathrm { ~ m ~ } , 1 5 0 \\mathrm { ~ m ~ } , 2 0 0 \\mathrm { ~ m ~ } , 3 0 0 \\mathrm { ~ m ~ } , 4 0 0 \\$ $\\mathrm { ~ m ~ } . 5 0 0 \\mathrm { ~ m ~ }$ 处设置样方。由于断面4、断面6、断面11是课题组2013年5月布置的断面，当年得到了第一手植被监测资料，因此笔者将这3个断面称为典型断面。在垂直于河道方向的3个断面，从河道往荒漠方向的 $1 0 \\mathrm { ~ m ~ } , 5 0 \\mathrm { ~ m ~ } , 1 0 0 \\mathrm { ~ m ~ } , 1 5 0 \\mathrm { ~ m ~ } , 2 0 0 \\mathrm { ~ m ~ } , 3 0 0 \\mathrm { ~ m ~ } ,$ （24号$4 0 0 \\mathrm { ~ m ~ } . 5 0 0 \\mathrm { ~ m ~ }$ 处设置样方，在每个监测断面布置 $2 \\sim$ 3个 $5 0 ~ \\mathrm { m } \\times 5 0 ~ \\mathrm { m }$ 的大样方， $1 \\mathrm { ~ m ~ } \\times 1 \\mathrm { ~ m ~ }$ 的小样方则采取梅花点采样法在大样方内布置4～5个。这3个断面从河道往荒漠方向分布有芦苇、胡杨、怪柳等。距河道不同距离处植被的物种数、植被高度、植被盖度等均取3个断面的平均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此次野外调查的数据，用以反映地下水与植被盖度、高度和胡杨密度及胸径的关系，同时，选取计算 Simpson 指数、Shannon-Wiener 指数来反映植被物种多样性的变化情况。Simpson指数 $( D )$ 是反映群落优势度较好的一个指标；Shannon-Wiener指数 $( H )$ 的计算公式表明，群落中生物种类增多代表了群落的复杂程度增高，即 $H$ 值越大，群落所含的信息量越大。计算公式如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S i m p s o n } \\ \\mathrm { f } _ { \\boxplus \\nwarrow \\emptyset } ^ { \\boxplus \\nwarrow \\emptyset } : D \\ = \\ 1 \\ - \\ \\sum _ { i = 1 } ^ { s } P _ { i } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni = 1 , 2 , \\cdots , S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $D$ 为Simpson指数值，描述植被类型的多少和各类型在空间上分布的均匀程度，即特征植被中的复杂性、类型的齐全水平或多样性状况； $s$ 是样方内植被类型； $\\boldsymbol { P } _ { i }$ 为每一类植被所占总植被的比例，以小数表示。 $D$ 值的最小值为0,表明只有1种植被分布类型， $D$ 的最大值为（1-1/S），表明样方内植被类型有2种以上，并分布均等，为 $1 / S$ O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Shannon-Wiener 指数: $H = - \\sum _ { i = 1 } ^ { s } ( P _ { i } \\mathrm { l n } P _ { i } )$ (2)式中： $H$ 是指数值，代表样方内植被信息的可变性。其组成成分变化越大，不确定性变化越大。同时也用来描述植被个别出现的差异和不确定性，不确定性越高，它的多样性也就越高。 $s$ 是植被种类总数;${ \\boldsymbol { P } } _ { i }$ 是第 $\\mathbf { \\chi } _ { i }$ 个物种的出现频率。 $H$ 的最小值为0，表明只有1种植被类型， $H$ 的最大值为 $\\mathrm { l n } S$ ，表明样方内植被类型有2种以上，并分布均等，为 $1 / S$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1植被纵向分布与地下水埋深变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "克里雅河下游中下段沿着河道方向植被盖度有一定的变化（图2）。总体分为2种植被类型：前6个断面的植被种类主要是以芦苇为建群种的植被类型，断面7\\~11是以胡杨为建群种的植被类型。断面6是湿地公园芦苇群落与达里雅布依胡杨林的交界断面，从图2可以看出，地下水埋深整体变化大致呈下降趋势，同时植被盖度亦呈下降趋势，即前6个断面的植被盖度相对较大，植被盖度均 $> 4 5 \\%$ ，断面 $7 \\sim 1 1$ 均为以胡杨为主的植被类型，植被盖度均$< 5 0 \\%$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "克里雅河下游中下段（上游往下游方向）地下水埋深和整个沿途植被平均高度见图2。由图2a可知，地下水埋深越浅，植被越高，地下水埋深越深，植被越矮，说明以芦苇为主的植被群落受地下水的影响较大。从图2b可以看出，地下水位较浅处胡杨较高，地下水位较深处则较矮。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "克里雅河下游中下段沿河道方向地下水埋深在不同监测断面处存在差异（图2），主要分为2种情况： $\\textcircled{1}$ 芦苇群落：断面 $1 \\sim 6$ 地下水埋深普遍较浅,在 $1 . 3 \\sim 3 . 3 \\mathrm { ~ m } ;$ $\\textcircled{2}$ 胡杨－柽柳群落：断面7\\~11地下水埋深普遍较深，除了监测断面8外，其他监测断面多在 $3 . 0 \\sim 8 . 3 \\mathrm { ~ m ~ }$ 。克里雅河下游中下段沿河道方向植被物种数在不同监测断面处存在差异，也主要分为2种情况： $\\textcircled{1}$ 芦苇群落：断面1\\~6单位面积物种数量较多，在 $3 . 0 \\sim 5 . 8$ 种· $\\left( 1 0 0 ^ { 2 } \\right) ^ { - 1 }$ ,植被群落以灌草为主，主要植物种类是怪柳、芦苇、骆驼刺、甘草、苦豆子、香蒲等; $\\textcircled{2}$ 胡杨群落：断面 $7 \\sim 1 1$ 单位面积物种数较少，在 $2 . 0 \\sim 3 . 5$ 种· $\\left( 1 0 0 ^ { 2 } \\right) ^ { - 1 }$ ,植物种类是胡杨、怪柳、芦苇。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2距河道不同距离植被分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3是距河道不同距离植被盖度、平均高度和单位面积物种数的情况。在距河道 $1 0 \\mathrm { ~ m ~ } . 5 0 \\mathrm { ~ m ~ } , 1 0 0$ $\\mathrm { ~ m ~ } . 1 5 0 \\mathrm { ~ m ~ } . 2 0 0 \\mathrm { ~ m ~ } . 3 0 0 \\mathrm { ~ m ~ } . 4 0 0 \\mathrm { ~ m ~ } . 5 0 0 \\mathrm { ~ m ~ }$ 处设置样方，样方内植被盖度分别为 $6 0 . 2 \\% . 5 1 . 1 \\% . 4 1 . 3 \\%$ 、$1 5 . 8 \\% . 1 0 . 2 \\% . 5 . 3 \\% . 3 . 6 \\% . 0 . 8 \\%$ ;植被平均高度分别为 $1 3 6 . ~ 5 ~ \\mathrm { \\ c m } \\mathrm { ~ , ~ } 7 8 . ~ 5 ~ \\mathrm { \\ c m } \\mathrm { ~ , ~ } 9 7 . ~ 5 ~ \\mathrm { \\ c m } \\mathrm { ~ , ~ } 2 8 5 . ~ 1 ~ \\mathrm { \\ c m } \\mathrm { ~ , ~ }$ （204号$1 7 5 . 3 \\ \\mathrm { c m } \\ . 1 2 0 . 2 \\ \\mathrm { c m } \\ . 9 0 . 1 \\ \\mathrm { c m } \\ . 1 7 . 4 \\ \\mathrm { c m }$ ;物种数分别为 $3 . 9 , 4 . 1 , 3 . 7 , 4 . 3 , 3 . 3 , 2 , 1 . 2 , 0 . 5$ 种·( $1 0 0 \\mathrm { m } ^ { 2 }$ ）-（图3）。可见，从河道往荒漠方向无论是植被盖度、平均高度还是单位面积物种数大致呈",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "□地下水埋深 盖度 高度/cm －－－单位物种数(a)芦苇 (b)胡杨  \n100 0 60 0  \n860  \n40 -2.5 3020 6植  \n20 -3 10 -80 -3.5 0 -10断面1断面2断面3断面4断面5断面6 断面7 断面8 断面9断面10断面11",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad14d119b67487ab3a8785d06966ee4c5c30d73765cb0619799ddab20a8368f0.jpg",
+        "img_caption": [
+            "图3距河道不同距离与植被盖度、平均高度、平均物种数的比较",
+            "Fig.3Comparison of different distances from the river course with vegetation coverage,average height,and average species ",
+            "图4胡杨胸径、密度与地下水埋深的关系",
+            "Fig.4Relationship between Populus euphratica DBH and density and groundwater depth "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "下降趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于距河道 $1 0 \\sim 1 0 0 \\mathrm { ~ m ~ }$ 与距河道 $1 5 0 \\sim 5 0 0 \\mathrm { ~ m ~ }$ 植被盖度差异显著( $P < 0 . 0 1$ ），所以将8个梯度分为2段： $\\textcircled{1}$ 距河道 $1 0 \\sim 1 0 0 ~ \\mathrm { m } ; \\textcircled { 2 }$ 距河道 $1 5 0 \\sim 5 0 0$ $\\mathbf { m }$ 。从 $1 0 \\sim 1 0 0 \\mathrm { ~ m ~ }$ 处，芦苇是主要建群种，而且离河道越近芦苇越高，距河道稍远处则高度降低，到了$1 5 0 \\mathrm { ~ m ~ }$ 处几乎看不到芦苇；在 $1 5 0 \\mathrm { ~ m ~ }$ 以外几乎被择柳所代替，由草本过渡到灌木，最大怪柳包高度可达到 $3 \\sim 4 \\mathrm { ~ m ~ }$ ；从 $1 5 0 \\mathrm { ~ m ~ }$ 处往荒漠方向植被高度呈直线下降；从 $1 5 0 \\sim 5 0 0 \\mathrm { ~ m ~ }$ 处主要植被是怪柳,特别是距河道较近的 $1 5 0 \\mathrm { ~ m ~ }$ 处怪柳包较高大，但距河道越远怪柳高度越矮，高度下降的原因主要是越往荒漠方向地下水位越深、受地表径流影响越小。距河道$1 5 0 \\mathrm { ~ m ~ }$ 以内，单位面积物种数在 $3 . 7 \\sim 4 . 3$ 种·（ $\\mathrm { ~ ( ~ } 1 0 0 \\mathrm { m } ^ { 2 } \\mathrm { ~ ) ~ } ^ { - 1 }$ ,每个距离间相差0.16种· $\\left( 1 0 0 \\mathrm { { m } } ^ { 2 } \\right) ^ { - 1 }$ 。而在距河道 $2 0 0 \\sim 5 0 0 \\mathrm { ~ m ~ }$ 处单位面积物种数为$0 . 5 \\sim 3 . 3$ 种· $\\left( 1 0 0 \\mathrm { { m } } ^ { 2 } \\right) ^ { - 1 }$ ,可见,距离 $1 5 0 \\mathrm { ~ m ~ }$ 以内，单位面积物种数呈显著下降趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一个较大的标准差代表大部分数值和其平均值之间差异较大；一个较小的标准差，代表这些数值较接近平均值。在距河道 $1 5 0 \\mathrm { ~ m ~ }$ 范围内各梯度（分别距河道 $1 0 \\mathrm { ~ m ~ } . 5 0 \\mathrm { ~ m ~ } . 1 0 0 \\mathrm { ~ m ~ } . 1 5 0 \\mathrm { ~ m ~ } )$ 单位面积物种数差别不大，这4个距离内的单位面积物种数水平的标准差亦相差不大（标准差在 $0 . 2 8 \\sim 0 . 4 0 \\rangle$ 。然而，在距河道 $1 5 0 \\mathrm { ~ m ~ }$ 范围以外各梯度（距河道 $2 0 0 \\mathrm { ~ m ~ }$ 、$3 0 0 \\mathrm { ~ m ~ } . 4 0 0 \\mathrm { ~ m ~ } . 5 0 0 \\mathrm { ~ m ~ } )$ 的单位面积物种数差别较大（标准差在 $0 . 7 0 \\sim 1 . 0 5 \\$ （图3）。说明，距河道越近植物分布较均匀，越远则不均匀。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3植物生长与地下水关联性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "克里雅河下游下段是以胡杨林为主的乔木群落。由图4a可以看出，胡杨胸径随地下水埋深呈现出下降的趋势，可见地卜水位与胡杨胸径关系密切。从图4b可以看出，地下水位越浅单位面积的胡杨数量越多，地下水位越深单位面积的胡杨数量越少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从植被多样性的纵向结果来看，图5中Simpson指数随地下水埋深呈现出差异性，地下水埋深越浅，Simpson指数越大，相反，则越小。Shannon-Wiener指数也呈正相关关系。以上两个指数与地下水埋深的相关系数分别为 $- 0 . 8 5 , - 0 . 7 6$ （此数值为图 $7 { \\cal R } ^ { 2 }$ 的开方）。可知在荒漠环境中，地下水的埋深对于植物的多样性和均匀性有着紧密的联系，地下水深的地方,如 $- 1 0 \\sim - 6 \\mathrm { ~ m ~ }$ ,无论是 Simpson 指数还是Shannon-Wiener指数都较低，植物的多样性和均匀性都无法保证，而随着地下水埋深趋于低浅，Simpson指数和Shannon-Wiener指数都有大幅提升，物种的多样性和均匀性有了明显的改善与提高。体现了荒漠区地下水埋深对于荒漠植物生存的重要性和必要性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "无论是纵向还是横向，从植被的分布来说，在干旱的地区，地下水是荒漠植物生长发育的首要因素。研究区地处我国西部干旱区，特殊的干旱环境造成",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "地下水深度 —胸径 地下水深度— $2 5 \\mathrm { m } \\times 2 5 \\mathrm { m }$ 样方内胡杨株数断面7断面8断面9断面10断面11 断面7断面8断面9断面10断面110 50 0 1212345 40 12345 1030 U 8 株径 6 度-6 20胸 -6 4 密地-7 10 地-7 2-8 (a) -8 (b)-9 0 -9 0",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/22a80069e61e3a1690d60b492d4ac091e9221ede828926667ddc8da7eedcd850.jpg",
+        "img_caption": [
+            "图5植物多样性关系与地下水埋深",
+            "Fig.5Relationship between plant diversity and groundwater depth "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "降水对植物生长的影响微乎其微，绝大多数天然植被所需的水分主要依靠地下水，由于地表径流量时空分布的巨大差异，从上而下沿河道的地下水位呈现逐渐下降的趋势。从沿河流11个监测断面来看，断面1\\~6地下水位浅，以草本群落为主，芦苇为建群种，其他植被有怪柳、骆驼刺、甘草等;随着地下水位的加深，在断面7～11以深根植被胡杨为建群种，浅根植被几乎消失，芦苇和怪柳有零星分布，说明地下水深度的加大抑制了浅根植物的生长[16-18];横向植物分布受地下水限制更加明显，在 $1 5 0 \\mathrm { ~ m ~ }$ 以内，尚有以芦苇为主的草灌木群落，而离河岸越远，如在$5 0 0 \\mathrm { ~ m ~ }$ 处已无植被分布。这进一步说明地下水是促进荒漠植物生长发育的关键因素[19-21]。而在植被的分布中也能发现，芦苇和怪柳分布范围较为广泛，地下水位从深到浅均能见到二者的身影，说明其生态位宽度较大[2-23]。植被作为干旱区珍贵的自然资源,也对地下水有着重要作用[24],完善的植被体系可以有效地保留水分，以保护下渗，补充地下水，同时起到防风固沙，保持水土的作用，再期地下水反哺更大范围的植被。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究表明，在干旱区地下水位对于物种多样性起着至关重要的作用，物种多样性对地下水的响应呈正相关关系（图5）[25-27],在地下水位较浅的断面，物种数明显要高，例如：沿河道方向布置的断面中，断面1\\~6属于地下水埋深浅的断面，单位面积物种数在 $3 . 0 \\sim 5 . 8$ 种· $\\left( 1 0 0 \\mathrm { { m } } ^ { 2 } \\right) ^ { - 1 }$ ,到了深水断面$7 \\sim 1 1$ ，单位面积物种数则在 $2 . \\ 0 \\sim 3 . \\ 5$ 种·（号 $\\mathrm { ~ ( ~ 1 0 0 m } ^ { 2 } \\mathrm { ~ ) ~ } ^ { - 1 }$ ,地下水深的断面物种数最高值只达到地下水浅的断面的最低值，且随着地下水位的加深，断面就只剩胡杨、怪柳等植被，物种单一;垂直于河道方向的断面， $1 0 \\sim 1 0 0 \\mathrm { ~ m ~ }$ 单位面积物种数最高可达 $3 . 9 \\sim 4 . 1$ 种·( $1 0 0 \\mathrm { m } ^ { 2 }$ ）-1， $1 5 0 \\sim 5 0 0 \\mathrm { ~ m ~ }$ 单位面积物种数则逐渐减至0.5种· $\\left( 1 0 0 \\mathrm { { m } } ^ { 2 } \\right) ^ { - 1 }$ 。无论是植被盖度还是单位面积物种数，地下水位浅的断面也更占优势。这与徐海量等[28-30]的研究结果是相一致的。而且Simpson指数和Shannon-Wiener指数亦有相同趋势，随着地下水埋深变浅，植物多样性和均匀度都有较大改善[31]。可见,在荒漠地区,地下水对于物种多样性相当重要[32]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究数据表明，不同植物的生长对于地下水深度有着不同的要求。纵向断面中，断面1\\~6地下水位在 $1 . 3 \\sim 3 . 2 5 \\mathrm { ~ m ~ }$ ,地下水埋深较浅，因而浅根植物占据优势,如芦苇、骆驼刺、甘草等灌草植物生长较多;垂直于河道的 $1 0 \\sim 1 0 0 \\mathrm { ~ m ~ }$ 处由于距河道近,情况亦是如此。而在断面 $7 \\sim 1 1$ ,地下水位多在 $5 . 0 \\sim$ $7 . 0 \\mathrm { ~ m ~ }$ ,最深处可达 $8 . 3 \\mathrm { ~ m ~ }$ ,则浅根植物逐渐消失，代之以胡杨、柽柳等乔灌木为主；垂直河道 $1 5 0 \\sim 5 0 0$ $\\mathbf { m }$ 的断面，距离河道较远，地下水位不断加深，导致在 $1 5 0 \\mathrm { ~ m ~ }$ 处怪柳成为优势植被，灌木深根植物更易生长。像芦苇、胡杨等的植被高度明显要比地下水位深的断面高，甚至在离河道 $1 5 0 \\mathrm { ~ m ~ }$ 的断面上怪柳的高度达到 $2 8 5 ~ \\mathrm { c m }$ ,这是因为 $1 5 0 \\mathrm { ~ m ~ }$ 是芦苇和柽柳的交界处，且距河较近，地下水位浅，因而在 $1 5 0 \\sim$ $2 0 0 \\mathrm { ~ m ~ }$ 处植被高度较 $0 \\sim 1 0 0 \\mathrm { ~ m ~ }$ 处芦苇群落要高。并且在胡杨生长的断面，地下水位相对浅时，胡杨胸径与密度明显比地下水位深的断面的胡杨胸径更粗,密度更大。这与白玉峰等[33-35]对于不同植被对地下水埋深的需求不同的研究结果相类似，徐俏等[36]也认为,随着与河岸距离的增加,怪柳等乔灌木植被的生长情况相比草本植物更有优势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）沿克里雅河方向向下游布点，研究发现物种组成简单，均是耐旱的深根系植物；其次越往下游方向植被长势越差、单位面积物种数越少；从达里雅布依绿洲往荒漠方向，越往荒漠方向天然植被长势越差、单位面积物种数越少。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）随克里雅河下游断流情况的不断恶化，流域周围的生物多样性大幅下降。浅水位植被覆盖度大，植被长势好，单位面积物种数可达到3.0～5.8种· $\\left( 1 0 0 \\mathrm { m } ^ { 2 } \\right) ^ { - 1 }$ ，而地下水位不断加深，使许多浅根植物消失，换之以胡杨、骆驼刺等深根植物生长，因而植被覆盖度迅速下降，单位面积物种数只有$2 . 0 \\sim 3 . 5$ 种· $\\left( 1 0 0 \\mathrm { { m } } ^ { 2 } \\right) ^ { - 1 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）克里雅河下游植物生长情况与地下水位呈负相关关系，Simpson指数、Shannon-Wiener指数与地下水埋深相关系数分别为 $- 0 . 8 5 , - 0 . 7 6$ 。在距河岸 $1 5 0 \\mathrm { ~ m ~ }$ 以内，植被高度在 $7 8 \\sim 2 8 5 ~ \\mathrm { c m }$ ,在 $2 0 0 \\mathrm { ~ m ~ }$ 以外，由于距河岸愈来愈远,造成地下水位不断加深，从而植被高度锐减至 $5 0 0 \\mathrm { ~ m ~ }$ 处的 $1 7 . 1 \\ \\mathrm { c m }$ 。胡杨胸径和郁闭度也由于地下水趋深而随之变小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "致谢：在此特别感谢新疆生产建设兵团和地质勘探与设计研究院石河子分院的赵付军工程师、刘永明工程师在野外给予的帮助。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］周兴佳,黄小江,陈方,等.新疆克里雅河绿洲形成、演变与综合整治[J].干旱区资源与环境，1995，9（3）：65－73.［ZhouXingjia,Huang Xiaojiang,Chen Fang,et al.Formatlon,evolutlonand management of Keliyahe oasis[J].Journal of Arid Land Re-sourcesand Environment,1995,9(3）:65-73.]  \n[2]宫丽彦,程磊磊,卢琦.荒地的概念、分类及其生态功能解析[J].自然资源学报,2015,30（12）：1969－1981.［Gong Liyan,Cheng Leilei,Lu Qi.Analysis of the definition,classification andecological function of wasteland[J]. Journal of Natural Resources,2015,30(12):1969-1981.]  \n[3］段菁.内蒙古毛乌素苏里格国家沙漠公园建设思路探讨[J].林业资源管理,2016（6）:41-44.［Duan Jing.Discussion aboutconstruction ideas of the Maowusu Sulige national desert park inInner Mongolia[J].Forest Resources Management,2O16(6）:41-44.]  \n[4] 胡文康，张立运.克里雅河下游荒漠河岸植被的历史、现状和前景[J].干旱区地理,1990,13（1）:46-51.［HuWenkang,Zhang Liyun.History present condition and desert vegetation in thelower reaches of Keliya river[J].Arid Land Geography,1990,13(1):46-51.]  \n[5]邵跃杰,罗光明,王建,等.新疆克里雅河上游主要离子化学特征及其成因[J].干旱区研究，2018，35（5）：1021-1029.［Shao",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Yuejie,Luo Guangming,Wang Jian,et al.Hydrochemical characteristics and formation causes of main ions in water of the Keriya River,Xinjiang[J].Arid Zone Research,2018,35（5）:1021 - 1029.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[6]祖拜代·木依布拉,夏建新,普拉提·莫合塔尔,等.克里雅河中游土地利用/覆被与景观格局变化研究［J].生态学报,2019,39（7）:1-9.[Zubaida Muyibul,Xia Jianxin,Polat Mu-htar,et al.Land use and landscape pattern changes in the middlereaches of the Keriya River[J].Acta Ecologica Sinica,2019,39(7) :1-9.]  \n[7］程仲雷,海米提·依米提.克里雅河流域水资源承载力初步研究[J].安徽农业科学,2011,39（35）:21997-21999.[ChengZhonglei,Hamid Yimit.Thepreliminary study on water resourcescarrying capacity in Kelerya River Basin[J]. Journal of Anhui $\\mathrm { A g \\mathrm { - } }$ （20ricultural Sciences,2011,39(35）:21997 -21999.]  \n[8］王宏卫,安秀峰,塔西甫拉提·特依拜,等.基于乡镇尺度的克里雅河绿洲生态承载力分析——以于田县13个乡镇生态承载力为例[J].干旱区资源与环境,2015,29（10)：48－55.[Wang Hongwei,An Xiufeng,Taxifulati Teyibai,etal. Assessmenton the ecological carrying capacity of towns in Yutian County[J].Journal of AridLand Resourcesand Environment,015,29（10）:48 -55.]  \n[9]柴春梅,王宏卫,刘勤,等.克里雅河绿洲人口结构与经济结构的灰色关联分析[J].湖北农业科学,2016,55（12）：3243-3248.[Chai Chunmei,Wang Hongwei,Liu Qin,et al.Grey rela-tional analysis of population structure and economic structure inKeriya Oasis[J].Hubei Agricultural Sciences,2016,55（12）:3243 -3248.]  \n[10］倪频融.达里雅博依绿洲的历史、现状及其演变前景[J].干旱区研究,1993,10(4）:12-18.[Ni Pinrong.Hisdery,present situ-ation and evolution prospect of Daliya Beyi Oasis[J].Arid ZoneResearch,1993,10(4):12-18.]  \n[11］周兴佳,朱峰,李世全.克里雅河绿洲的形成与演变[J].第四纪研究,1994,16（3）:249-255.[Zhou Xingjia,Zhu Feng,LiShiquan.The formation and evolution of oasis in the Keliya Rivervalley[J]. Quaternary Sciences,1994,16(3）:249 -255.]  \n[12］樊自立,季方.克里雅河中下游自然环境变迁与绿色走廊保护[J].干旱区研究,1989,6(3）:16-14.[Fan Zili,JiFang.Thechanges of natural environment and the green corridor protection inmiddle-lower reaches of Keliya River[J].Arid Zone Research,1989,6(3) :16 -14.]  \n[13］海鹰.达里雅博依绿洲的生态问题及其维护对策[J].新疆师范大学学报（自然科学版）,1994,13（4）:79-83.[Hai Ying.Ecolocical problems in Daliyaboi oasis and protecting countermeas-ures[J]. Journal of Xingjiang Normal University(Natural SciencesEdition）,1994,13(4) :79 -83.]  \n[14］丁俊祥,邹杰,唐立松,等.克里雅河流域荒漠-绿洲交错带3种不同生活型植物的光合特性［J].生态学报,2015,35（3）：733-741.[Ding Junxiang,Zou Jie,Tang Lisong,et al. Photosyn-thetic characteristics of three different life-form plants in the des-",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ert-oasis ecotone of Keriya River Basin[J].Acta Ecologica Sinica, 2015,35(3):733-741.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15］陈锐，邓祥，战金艳，等.流域尺度生态需水的估算模型与应用——以克里雅河流域为例[J].地理研究，2005，24（5）：725-731.[Chen Rui,Deng Xiang,Zhan Jinyan,et al.Estimation mo-del and application of the amount of eco-water demand;A casestudyon Keriya riverbasin[J].Geographical Research,2O05,24(5):725-731.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16］马龙，刘廷玺.科尔沁沙地植物生态型与地下水位及土壤水分 的关系研究[J].中国沙漠,2007,27（3）:391－396.［Ma Long, Liu Tingxi.Relationship of plant ecotype with groundwater depth and soil Moisture in Horqin sandy land[J]. Journal of Desert Sesearch,2007,27(3):391-396.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[17］朱林，许兴，毛桂莲.宁夏平原北部地下水埋深浅地区不同灌木的水分来源[J].植物生态学报，2012，36（7）：618-628.[ZhuLin,XuXing,Mao Guilian.Water sourcesof shrubs growninthe Northern Ningxia plain of China characterized by shallowgroundwater table[J].Chinese Journal of Plant Ecology,2012,36(7):618-628.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18］王希义，徐海量,潘存德，等.塔里木河下游地下水埋深对草本植物地上特征的影响[J].生态学杂志，2015,34（11）：3057-3064.[Wang Xiyi,Xu Hailiang,Pan Cunde,et al.The influence ofgroundwater depth on aboveground herbaceous characteristics inthe lower reaches of Tarim River[J].Chinese Journal of Ecology,2015,34(11) :3057-3064.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19］汤奇成，张捷斌.西北干旱地区水资源与生态环境保护[J].地 理科学进展,2001,20（3）:226-232.[Tang Qicheng,Zhang Jiebin.Water resources and eco-environment protection in the arid regions in Northwest of China[J].Progress in Geography,2001,20 (3):226-232.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[20］李卫红,周洪华,杨晓明,等.干旱荒漠区草地植物群落地上生物量时空分布对地下水的响应[J].草业学报,2010,19（5）：186-195.［Li Weihong,Zhou Honghua,Yang Xiaoming,et al.Temporal and spatial distribution characteristics of aboveground bi-omass of grassland plant communities in an arid area[J].ActaPrataculturae Sinica,2010,19(5):186-195.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[21］赵军,杨建霞，朱国锋.生态输水对青土湖周边区域植被覆盖度的影响[J].干旱区研究，2018，35（6）：1251-1281.［ZhaoJun,Yang Jianxia,Zhu Guofeng.Effect of ecological water convey-ance on vegetation coverage in surrounding area of the Qingtu Lake[J].Arid Zone Research,2018,35(6):1251-1281.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[22］李向义，林丽莎，张希明，等.塔克拉玛干绿洲外围胡杨林的水 分特征研究[J].应用与环境生物学报，2007，13（6)：763- 766.[Li Xiangyi,Lin Lisha,Zhang Ximing,et al. Characteristics of waterstatus inPopulus euphratica outside the oases in the TaklamkanDesert[J].Chinese JournalofApplied&Environmental Biology,2007,13(6) :763-766.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[23」郝兴明,李卫红，陈亚宁.新疆塔里木河下游荒漠河岸(林)植被合理生态水位[J].植物生态学报，2008，32（4）：838-847.[Hao Xingming,Li Weihong,Chen Yaning.Water table and thedesert riparian forest community in the lower reaches of Tarim Riv-er,China[J]. Journal of Plant Ecology,2008,32(4):838-847.][24］陈亚宁，李卫红,陈亚鹏,等.荒漠河岸林建群植物的水分利用过程分析[J].干旱区研究，2018，35（1）：130-136.［ChenYa-ning,Li Weihong,Chen Yapeng,et al.Water use process of con-structive plants in desert riparian forest[J].Arid Zone Research,2018,35(1):130-136.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[25］郑田,李卫红,李建贵,等.塔里木河下游绿洲荒漠过渡带群落多样性特征分析[J].中国沙漠，2009，29（2）：241-247.[Zheng Tian,Li Weihong,Li Jiangui,etal.Characters of communi-ty diversity in the oasis-desert transition zone in lower reaches ofTarim River[J]. Journal of Desert Research,2OO9,29（2）:241 -247.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[26］张雪妮，吕光辉，王庭权,等.荒漠区垂直河岸带植物多样性格 局及其成因[J].生态学报,2015,35（18）：5966-5974.[Zhang Xueni,Lyu Guanghui,Wang Tingquan,et al.Patterns and mechanisms influencing plant diversity in an arid desert region riparian zone of the Aqikesu River,Xinjiang,China[J].Acta Ecologica Sinica,2015,35(18) :5966-5974.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[27］陈永金，刘加珍，陈亚宁，等.输水前后塔里木河下游物种多样 性与水因子的关系[J].生态学报，2013,33（7)：2212-2224. [ChenYongjin,LiuJiazhen,ChenYaning,etal.Analysisof the relationship between species diversity and hydrologic factors during an interval of intermittent water delivery at the Lower Reaches of Tarim River,China[J].Acta Ecologica Sinica,2013,33(7）:2212 - 2224.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[28］徐海量，宋郁东，王强，等.塔里木河中下游地区不同地下水位对植被的影响[J].植物生态学报，2004，28（3）：400－405.[XuHailiang,Song Yudong,Wang Qiang,et al.The effect ofgroundwater level on vegetation in the middle and lower reaches ofthe Tarim River,Xinjiang,China[J].Acta Phytoecologica Sinica,2004,28(3):400-405.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[29］郝兴明，陈亚宁，李卫红,等.塔里木河中下游荒漠河岸林植被对地下水埋深变化的响应[J].地理学报，2008，63（11）：1123-1130.［Hao Xingming,Chen Yaning,Li Weihong,et al.Re-sponse of desert riparian forest vegetation to groundwater depthchanges in themiddle and lower Tarim River[J].Acta Geographi-ca Sinica,2008,63（11):1123-1130.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[30］石瑞花,李霞,尹业彪，等.孔雀河流域天然植物多样性与地下水关系［J].资源科学,2009,31（9）：1553-1560.[Shi Ruihua,LiXia,Yin Yebiao,et al.The relationship between plant diversityand groundwater in the Kongquehe River Basin[J].Resources Sci-ence,2009,31(9):1553-1560.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[31］马俊梅,满多清,李得禄,等.干旱荒漠区退耕地植被演替及土壤水分变化[J」.中国沙漠，2018，38（4）：800-807.［MaJunmei,Man Duoqing,Li Delu,et al. Characteristics of vegetation suc-cession and soil moisture in abandoned cropland of arid desert re-gion[J]. Journal of Desert Research,2018,38(4）:800 -807.][32」张钦弟，卫伟，陈利顶，等.黄土高原草地土壤水分和物种多样性沿降水梯度的分布格局［J].自然资源学报,2018,33（8）：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1351-1362.[Zhang Qindi,Wei Wei,Chen Liding,et al. Spatial variation of soil moisture and species diversity patterns along a precipitation gradient in the grasslands of the loess plateau[J]. Journal of Natural Resources,2018,33(8):1351-1362.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[33］白玉峰,徐海量，张沛,等.塔里木河下游荒漠植物多样性、地 上生物量与地下水埋深的关系[J].中国沙漠,2017,37（4)： 724-732.[Bai Yufeng,Xu Hailiang,Zhang Pei,et al.Relation of desert vegetation species diversity and aboveground biomass to groundwater depth in the lower reaches of Tarim River[J]. Journal ofDesert Research,2017,37(4):724-732.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[34］王希义，徐海量，潘存德，等.塔里木河下游优势草本植物与地下水埋深的关系［J」.中国沙漠，2016，36（1）：216－224，[Wang Xiyi,Xu Hailiang,Pan Cunde,etal.Relation of dominantherbaceous plant species to groundwater depth in the lower reachesofTarimRiver[J].Journal of Desert Research,2O16,36（1）:216-224.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[35］王希义，徐海量，凌红波，等.生态输水对塔里木河下游植被恢 复价值的影响[J].干旱地区农业研究，2017，35（4）：160- 166.[Wang Xiyi,Xu Hailiang,LingHongbo,et al.Effects of ecological water conveyance on recovery value of vegetation in the lowerreaches of Tarim River[J].Agricultural Research in the Arid Areas,2017,35(4):160-166.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[36］徐俏，叶茂，徐海量，等.塔里木河下游生态输水对植物群落组 成、多样性和稳定性的影响[J].生态学杂志,2018，37（9）： 2603-261O.[Xu Qiao,Ye Mao,Xu Hailiang,etal.Effects of ecological waterconveyance on the composition,diversity and stability of plant community in the lower reaches of Tarim River[J].Chinese Journal ofEcology,2018,37（9）:2603-2610.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Preliminary study on the relationship between vegetation and groundwater depth in the lower reaches of the Keriya River ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WANG Ya-mei'， ZHANG Qing-qing'，LI Li1， ZHAO Xin-feng2.3,4",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1． Xinjiang Agriculture University,Urumqi 83oo52,Xinjiang,China; 2.State KeyLaboratoryof DesertandOasis Ecology,Xinjiang Instituteof Ecologyand Geography,ChineseAcademy of Sciences ,Urumqi 830011,Xinjiang,China; 3. Xinjiang Aksu Oasis Agro-Ecosystem Observation and Experiment Station,Aral 84330o,Xinjiang,China; 4.University of Chinese Academy of Sciences,Beijing 1Ooo49,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：In2O18,the lower partof the Keriya River was selected as the monitoring section for the research targetarea.Two monitoring belts were setup,andasamplebelt along the longitudinal direction ofthe river was selected,withatotalof1monitoring stations.Three typical sectionsof riverine vegetation wereselectedatdiferentdistancesfrom the river,making a totalof eight monitoring points,to obtain informationon the growth of the arborshrub vegetation communityand the groundwater depth of each section.Through the analysis of the status of vegetation growth and communitydistribution in the studyarea and discusion of the relationship between vegetation growthand groundwaterdepth,itisfound thatinthedirectionoftheriver,thegroundwaterlevelafectsthedistributionof plant communities.The groundwater depth of the monitoring sections1-6is shallow,and the vegetation is dominated byPhragmites australis.The depth of groundwater in sections 7-11 is decreasing,and the vegetation is dominated by Populus euphratica.Within $5 0 0 \\mathrm { ~ m ~ }$ of the river channel,the vegetation coverage in the desert direction issparser,and thedepthofthe groundwater isdeeper.Inaddition,the growth indicatorsaresignificantlydifferentat 150,200,300,400,and $5 0 0 \\mathrm { ~ m ~ }$ （ $P < 0 . 0 1 \\$ ).We found that different plants have different requirements for groundwater depth:Algagi sparsifolia,Glycyrrhiza uralensis,and other shallow-rooted plants were more likelyto grow where there is a shallow water table,and deep-rooted plants,such as Populus euphratica and Tamarix spp.,were more dominant where there was a deep water table.In the deeper（7-11）and shallower（1-6）sections of the water table,the average height of the plants was 1OO.5O and $1 4 9 . 3 8 ~ \\mathrm { c m }$ ,respectively ,and the latter was $4 8 . 6 4 \\%$ higher than the former. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:groundwater depth； plant diversity；Lower Keliya River; Xinjiang ",
+        "page_idx": 7
+    }
+]

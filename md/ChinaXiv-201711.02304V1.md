@@ -1,0 +1,228 @@
+# Prospects for rare and forbidden hyperon decays at BESIII
+
+Hai-Bo Li1,2,\* lInstitute of High Energy Physics,Beijing l00049,People's Republic of China 2 University of Chinese Academy of Sciences， Beijing 10o049, People's Republic of China (Dated: May 19,2017)
+
+The study of hyperon decays at the Beijing Electron Spectrometer III(BESIII is proposed to investigate the events of $J / \psi$ decay into hyperon pairs,which provide a pristine experimental environment at the Beijing Electron-Positron Collider II.About $1 \hat { 0 } ^ { 6 } \ – 1 0 ^ { 8 }$ hyperons,i.e.,△,∑,三,and $\Omega$ ，will be produced in the $J / \psi$ and $\psi ( 2 S )$ decays with the proposed data samples at BESII. Based on these samples,the measurement sensitivity of the branching fractions of the hyperon decays is in the range of $1 0 ^ { - 5 } – 1 0 ^ { \overline { { - 8 } } }$ . In addition,with the known center-of-mass energy and “tag technique,”rare decays and decays with invisible final states can be probed.
+
+Keywords:BESIII, $\mathbf { J } / \psi$ decay,Hyperon,Rare decay,FCNC,Lepton flavor violation
+
+# 1. INTRODUCTION
+
+In this paper,the hypero physics programatthe Beijing Electron Spectrometer /Beijing Electron-Positron Collider (BESIII/BEPCII)and prospects of its upgradation were surveyed.Even with the designed luminosityof the BEPCII, ${ \sim } 1 0 ^ { 1 0 }$ $J / \psi$ and $\psi ( 2 S )$ events can be collected with a running period of one year. The inclusive hyperon production rate can reach a few percent in the $J / \psi$ decays,while the hyperon-pair production rate is $\sim 1 0 ^ { - 3 }$ . With these data, the decay properties of the spin-1/2 baryon octet can be revisited and the decay parameters with the coherent production of hyperon pairs in $\dot { J } / \psi \to B \bar { B }$ （204号 decays (where the spin-1/2 hyperon pairs are in the $1 ^ { -- }$ state) can be probed. This survey will focus on hyperon decays that can be studied at BESII and rare decays,for which the search has not yet begun.
+
+# II.STATUS OFBESIII
+
+The BESII detector consists mainly of a cylindrical main draft chamber (MDC) with momentum resolution $\sigma _ { p _ { t } } / p _ { t } \sim 0 . 5 \%$ for charged particles with momentum at $1 . 0 \mathrm { G e V } ,$ a time-of-flight (TOF) system with two layers of plastic scintillator counters located outside of the MDC,and a highly hermetic electromagnetic calorimeter (EMC)with an energy resolution of $\sigma _ { E } / E =$ $2 . 5 \% / \sqrt { E ( \mathrm { G e V } ) }$ [1].The MDC has its first sensitive layer at a radius of $6 . 0 \ \mathrm { c m }$ from the interaction point (IP),and the MDC combined with a magnetic field of $1 . 0 \mathrm { T }$ provides precise momentum measurements of charged particles with transverse momentum $> 5 0$ MeV.
+
+BESIII has so far acquired ${ \sim } 5 \times 1 0 ^ { 8 }$ and ${ \sim } 1 3 \times 1 0 ^ { 8 }$ events on the $\psi ( 2 S )$ and $J / \psi$ peaks, respectively. In the next few years, by the end of 2018, ${ \sim } \bar { 1 0 } ^ { 1 0 }$ events on the $J / \psi$ peak are going to be collected, and subsequently ${ \sim } 3 \times \mathrm { 1 \dot { 0 } ^ { 9 } }$ events on the $\psi ( 2 S )$ peak willbe taken.The expecteddatasamplescolletedatBES/BEPCI peyeararesummarizedinTableI[2].Intis paper, the sensitivity studies are based on $5 \mathrm { f b } ^ { - 1 }$ luminosity at the $J / \psi$ or $\psi ( 2 S )$ peaks for probing hyperon decays.
+
+TABLE I: $\tau$ -Charm production at BEPCII in one-year run $( 1 0 ^ { 7 } \mathrm { ~ s ~ }$ ）   
+
+<html><body><table><tr><td>Data Sample (MeV)</td><td>Central-of-Mass #Events per year</td></tr><tr><td>J/ 3097</td><td>10 ×109</td></tr><tr><td>T+T- 3670</td><td>12 ×106</td></tr><tr><td>(2S) 3686</td><td>3.0×109</td></tr><tr><td>DD 3770</td><td>18 ×106</td></tr><tr><td>D+D- 3770</td><td>14×106</td></tr><tr><td>DDs 4030</td><td>1.0×106</td></tr><tr><td>DD 4170</td><td>2.0×106</td></tr></table></body></html>
+
+TABLE II: Hyperon production from the $J / \psi$ or $\psi ( 2 S )$ two-body decays with $1 0 ^ { 1 0 }$ events on the $J / \psi$ peak and $3 \times 1 0 ^ { 9 }$ events on the $\psi ( 2 S )$ peak. $N _ { B }$ is the number of the expected hyperon events.Data are from the Particle Data Group (PDG2016) [3].   
+
+<html><body><table><tr><td>Decaymode</td><td>B(×10-3) NB (×10)</td></tr><tr><td>J/→AA</td><td>1.61±0.15 16.1±1.5</td></tr><tr><td>J/→∑∑</td><td>1.29 ±0.09 12.9 ±0.9</td></tr><tr><td>J/ψ→∑+∑-</td><td>1.50 ± 0.24 15.0 ± 2.4</td></tr><tr><td>J/ψ→∑(1385)-∑+ (orc.c.)</td><td>0.31±0.05 3.1±0.5</td></tr><tr><td>J/ψ →∑(1385)-∑(1385)+(or c.c.) 1.10 ±0.12 11.0±1.2</td><td></td></tr><tr><td>J/ψ→≌</td><td>1.20±0.24 12.0±2.4</td></tr><tr><td>J/ψ→三-+</td><td>0.86 ±0.11 8.6 ± 1.0</td></tr><tr><td>J/φ→三(1530)°</td><td>0.32 ±0.14 3.2±1.4</td></tr><tr><td>J/φ →三(1530)-+</td><td>0.59 ±0.15 5.9 ±1.5</td></tr><tr><td>(2S)→Ω-Ω+</td><td>0.05 ±0.01 0.15 ±0.03</td></tr></table></body></html>
+
+TABLE II: Hyperon production from the $J / \psi$ three-body decays with $1 0 ^ { 1 0 }$ events on the $J / \psi$ peak and $3 \times 1 0 ^ { 9 }$ events on the $\psi ( 2 S )$ peak. $N _ { B }$ is the number of the expected hyperon events.Data are from PDG2016 [3].   
+
+<html><body><table><tr><td>Decaymode</td><td>B(×10-4)</td></tr><tr><td>J/ψ→pK-A</td><td>8.9 ±1.6 8.9±1.6</td></tr><tr><td>J/ψ→AAπ+π-</td><td>43±10 43±10</td></tr><tr><td>J/ψ→pK-∑°</td><td>2.9 ±0.8 2.9 ±0.8</td></tr><tr><td>J/ψ →A∑-π+ (or c.c.)</td><td>8.3±0.7 8.3±0.7</td></tr><tr><td>J/ψ →A∑+π-*(or c.c.) 8.3±0.7</td><td>8.3 ±0.7</td></tr><tr><td>J/ψ→pK-∑(1385)°</td><td>5.1±3.2 5.1 ± 3.2</td></tr></table></body></html>
+
+\* Estimated from isospin symmetry.
+
+As indicated in Table II, the branching fractions for the $J / \psi$ decays into hyperon pairs are on the order of $1 0 ^ { - 3 }$ ,and ${ \sim } 1 0 ^ { 7 }$ hyperon pairs can be produced in the $J / \psi$ decays per year. The $\Omega ^ { - }$ can be only produced in the $\psi ( 2 S )$ decays owing to the allowed phase space, and ${ \sim } 1 0 ^ { 4 } – 1 0 ^ { 5 } \ \Omega ^ { - } \bar { \Omega } ^ { + }$ pairs will be produced per year at BESII. Since there is always a neutron or a neutrino produced from the $\Sigma ^ { - }$ hadronic decays or semileptonic decays, one has to use a “tag technique” to look for the $\Sigma ^ { - }$ decays.In Table III, the three-body decays of $J / \psi \to \bar { \Lambda } \bar { \Sigma ^ { - } } \pi ^ { + } + \mathrm { c . c }$ . can be used to study the $\Sigma ^ { - }$ decays by looking at the recoiling mass of the $\bar { \Lambda } \pi ^ { + }$ ：
+
+# III.SEMILEPTONICHYPERONDECAYS
+
+The Cabibbo-Kobayashi-Maskawa matrix elements $| V _ { u d } |$ and $\vert V _ { u s } \vert$ characterize quark mixings in $d  u e ^ { - } \bar { \nu } _ { e }$ and $s $ $u e ^ { - } \bar { \nu } _ { e }$ processes [4, 5] in the Standard Model (SM). So far the most precise determinations of $\left| V _ { u d } \right|$ and $\vert V _ { u s } \vert$ have been obtained,respectivelyfromsuper-allowedFermi ransitionstogether withpiondecaysandfromleptonicandsemileptoickaon decays [6-8]. However,hyperon semileptonic decays can also provide independent constraints on $\left| V _ { u d } \right|$ and $\vert V _ { u s } \vert$ [9,10].
+
+In addition one can test the $V { - } A$ structure [11] of the charged currents in the semileptonic hyperon decays [10,12]. The semileptonichyperondecays provideessntialinformationonthe structuresofthenucleonandlow-lying hyperons.Thedatafor thesemileptonichyperondecays revealexperimentallythepattrnoffavorSU(3)symmetrybreaking[13]. InexactfavorSU(3) symmetry,the ratios of the axial-vector and vector constants $g _ { 1 } / f _ { 1 }$ are expressed only by the two constants $F$ and $D$ .Similarly, those of the vector constants $f _ { 2 } / f _ { 1 }$ are written in terms of the anomalous magnetic moments of the proton and the neutron with flavor SU(3)symmetry assumed [9].Detailsof the semileptonic hyperon decayconstantscanbe found in areview paper[9], andrecent developmentsaredescribedelsewhere[14-18].However,the experimentaldata forthesemileptonichyperondecays showthat thefavorSU(3)symmetrymaybemanifestlybroken[14],ndfurtherprecisiondataareneeded,especialyforthe decays of $\Xi ^ { 0 } , \Xi ^ { - }$ ,and $\Omega ^ { - }$ as listed in Table IV.The current measured values for the form-factor ratio $g _ { 1 } ( 0 ) / f _ { 1 } ( 0 )$ in the Cabibbo model[19] are also listed in Table IV.
+
+The decays of $\Sigma ^ { - }  \Sigma ^ { 0 } e ^ { - } \bar { \nu } _ { e }$ and $\Xi ^ { - } \to \Xi ^ { 0 } e ^ { - } \bar { \nu } _ { e }$ have not been observed yet.As the lepton pairs $( e ^ { - } \bar { \nu } _ { e } )$ are too soft to be detected by the BESIII detector, to study $\Sigma ^ { - }  \Sigma ^ { 0 } e ^ { - } \bar { \nu } _ { e }$ in the $J / \psi \to \bar { \Lambda } \Sigma ^ { - } \dot { \pi } ^ { + }$ decay , $\bar { \Lambda } \bar { \pi ^ { + } }$ can be fully reconstructed as the “tag side”,following an examination of the recoiling mass of the $\bar { \Lambda } \pi ^ { + }$ to clearly define the $\Sigma ^ { - }$ signal region; therefore,one can finally reconstruct a $\Sigma ^ { 0 }$ in the rest of the event to represent the $\Sigma ^ { - }  \Sigma ^ { 0 } e ^ { - } \bar { \nu } _ { e }$ signal; namely, the lepton pairs can be missed and reconstructed by examining the tagged signals. To study $\Xi ^ { - } \to \Xi ^ { 0 } e ^ { - } \bar { \nu } _ { e }$ in $\bar { J / \psi }  \Xi ^ { - } \bar { \Xi } ^ { + }$ decay, one can reconstruct the $\bar { \Xi } ^ { + }$ with $\bar { \Xi } ^ { + }  \bar { \Lambda } \pi ^ { + }$ decay as a"tag”, then look at the $\Xi ^ { - }$ signal on the recoiling mass of the fully reconstructed $\bar { \Xi } ^ { + }$ , and finally reconstruct a $\Xi ^ { 0 }$ (with a $\Xi ^ { 0 } \to \Lambda \pi ^ { 0 }$ mode) to represent the signals. All these analyses will be benefit from the well-known center-of-mass energy of the initial $e ^ { + } e ^ { - }$ collision at BESIII/BEPCII. The expected sensitivity on the branching fractions will be in the range of $1 0 ^ { - 5 } – 1 0 ^ { - 6 }$ ：
+
+TABLE IV: Allowed baryon transitions $\boldsymbol { B } _ { i } \to \boldsymbol { B } _ { f } \boldsymbol { e } \boldsymbol { \nu }$ between members of the $\begin{array} { r } { J ^ { P } = \frac { 1 } { 2 } ^ { + } } \end{array}$ SU(3) baryon octet. The present status of branching fractions for the semileptonic hyperon decays from PDG2O16 [3] and data for the form-factor ratio $g _ { 1 } ( 0 ) / f _ { 1 } ( 0 )$ in the Cabibbo model are also shown.“-”indicates“not available."   
+
+<html><body><table><tr><td>Decay mode</td><td>B(×10-4)</td><td></td><td>△S g1(O)/f1(O)</td></tr><tr><td>A→peVe</td><td>8.32 ± 0.14</td><td>1</td><td>0.718 ± 0.015</td></tr><tr><td>∑+→Ae+ve</td><td>0.20 ±0.05</td><td>0</td><td></td></tr><tr><td>∑-→ne-Ve</td><td>10.17 ± 0.34</td><td>1</td><td>-0.340 ± 0.017</td></tr><tr><td>Σ-→AeVe</td><td>0.573± 0.027</td><td>0</td><td></td></tr><tr><td>∑−→∑e-ve</td><td></td><td>0</td><td></td></tr><tr><td>→∑+e-ve</td><td>2.52 ±0.08</td><td>1</td><td>1.210 ± 0.050</td></tr><tr><td>E-→AeVe</td><td>5.63 ± 0.31</td><td>1</td><td>0.250 ±0.050</td></tr><tr><td>三- →∑e-ve</td><td>0.87 ± 0.17</td><td>1</td><td></td></tr><tr><td>→Ee-Ve</td><td>< 23 (90% C.L.) 0</td><td></td><td></td></tr><tr><td>Ω- →Ee-Ve</td><td>56±28</td><td>1</td><td></td></tr></table></body></html>
+
+TABLE V: Present status of branching fractions $( \boldsymbol { B } )$ for the $\Delta S = - \Delta Q$ or $\Delta S = 2$ rare semileptonic hyperon decays from PDG2016 [3]. “-" indicates“not available.”
+
+<html><body><table><tr><td>Decay mode</td><td>B(×10-)△S @90% C.L.</td><td></td></tr><tr><td>∑+ →ne+ve*</td><td><5</td><td>1</td></tr><tr><td>=→∑-e+ve</td><td><900</td><td>1</td></tr><tr><td>→peVe</td><td><1300</td><td>2</td></tr><tr><td>E-→neVe</td><td><3200</td><td>2</td></tr><tr><td>Ω-→Ae−Ve</td><td>-</td><td>2</td></tr><tr><td>Ω→∑e-ve</td><td>-</td><td>2</td></tr></table></body></html>
+
+${ } ^ { * } \Delta S = - \Delta Q$ process.
+
+For the rare and forbidden semileptonic hyperon decays with $\Delta S = - \Delta Q$ or $\Delta S = 2$ ,examples are listed in Table V, with available data from thePDG[3],which were from experimentsconducted nearly fortyyears ago.Mostoftheseupper limits can be improved with data from BESII,and the expected sensitivity ranges from $1 0 ^ { - 6 }$ to $1 0 ^ { - 5 }$ on these branching fraction measurements.
+
+# IV. RADIATIVEHYPERONDECAYS
+
+Since thediscoveryof hyperons,the natureof(weak)radiative decays stillremainsanopenquestion[20,21]. Studyof weak radiative hyperon decays providesanimportant tool for investigating the interplayofthe electromagnetic,weak,and strong interactions.The descriptionoftheseprocesses intermsof wellunderstoodelectroweak forces iscomplicatedbythe presence of strong interactions22,23].The hyperons inthe baryon octet provideus withmultiplereactionsofthis class with varyng quark content of the initial and final state baryons. These decays are listed in Table VI.
+
+TABLE VI: Present status of branching fractions $( \boldsymbol { B } )$ and asymmetry parameters $( \alpha _ { \gamma } )$ for the radiative hyperon decays from PDG2016 [3]. Neither the branching fraction nor the asymmetry parameter for $\Sigma ^ { 0 } \bar {  } n \gamma$ has been measured owing to their huge electromagnetic partial widths.“-”indicates“not available."
+
+<html><body><table><tr><td>B→Bfγ</td><td>B(×10-3)</td><td>αq</td></tr><tr><td>A→nγ</td><td>1.75 ± 0.15</td><td></td></tr><tr><td>∑+→Pγ</td><td>1.23±0.05</td><td>-0.76±0.08</td></tr><tr><td>Ω→n</td><td></td><td></td></tr><tr><td>→γ</td><td>1.17 ± 0.07</td><td>-0.70±0.07</td></tr><tr><td>≌→∑γ</td><td>3.33 ± 0.10</td><td>-0.69±0.06</td></tr><tr><td></td><td>三− →£γ 1.27±0.23</td><td>1.0 ± 1.3</td></tr><tr><td></td><td>Ω−→三γ <0.46 (90% C.L.) -</td><td></td></tr></table></body></html>
+
+The transition matrix element $T$ for a general radiative decay of a hyperon $B _ { i }$ of momentum $p$ to a baryon $B _ { f }$ of momentum $p ^ { \prime }$ and a photon momentum $q$
+
+$$
+B _ { i } ( p )  B _ { f } ( p ^ { \prime } ) + \gamma ( q ) ,
+$$
+
+is given by [24]
+
+$$
+T = G _ { F } \frac { e } { \sqrt { 4 \pi } } \epsilon _ { \nu } \bar { u } ( p ^ { \prime } ) ( { \bf A } + { \bf B } \gamma _ { 5 } ) \sigma _ { \mu \nu } q _ { \mu } u ( p ) ,
+$$
+
+where $\bar { u } ( p ^ { \prime } )$ and $u ( p )$ are the spinor wave functions of the baryon and hyperon,respectively, $\epsilon _ { \nu }$ is the polarization vector of the photon, A and $\mathbf { B }$ are the parity-conserving (M1) and parity-violating (E1) amplitudes, $\sigma _ { \mu \nu }$ and $\gamma _ { 5 }$ are the combinations of the Dirac gamma matrices, $G _ { F }$ is the Fermi constant, and $e$ is the electron charge. The asymmetry parameter is [25]
+
+$$
+\alpha _ { \gamma } = \frac { 2 \mathrm { R e } ( \mathbf { A } ^ { * } \mathbf { B } ) } { | \mathbf { A } | ^ { 2 } + | \mathbf { B } | ^ { 2 } } .
+$$
+
+One needs both nonzero $\mathbf { A }$ and $\mathbf { B }$ amplitudes to get nonzero asymmetry.
+
+For a polarized spin- $1 / 2$ hyperon decaying radiatively via a $\Delta Q = 0$ $\Delta S = 1$ transition, which is a flavor-changing-neutralurrent (FCNC) process,the angular distribution of the direction $\hat { \mathbf { p } }$ of the final spin-1/2 baryon in the hyperon rest frame is
+
+$$
+\frac { d N } { d \Omega } = \frac { N ^ { 0 } } { 4 \pi } ( 1 + \alpha _ { \gamma } { \bf P } _ { i } \cdot \hat { \bf p } ) ,
+$$
+
+where $\mathbf { P } _ { i }$ is the polarizationofthe decaying hyperon.If thedecaying hyperonisunpolarized,the decaybaryonhasalongitudinal polarization given by $P _ { f } = - \alpha _ { \gamma }$ [26].
+
+There is an old theorem by Hara [27] regarding the vanishing of the parity-violating $\mathbf { B }$ amplitudes for weak radiative hyperon decays.According to Hara’s theorem,the relevant parity-violatingamplitude should vanish inthe SU(3)limit.For broken SU(3),according tothesizeof hadron-level SU(3)-breaking effects elsewhere,one would expect thisasymmetrytobeof the order of $\pm 0 . 2$ [24],and not of the order of $- 1$ as indicated in Table VI. The situation was further confounded by a number of theoreticalcalculations thatviolated Hara's theorem (even)intheS(3)limit[21].Inparticular,thelargeasymmetryobserved in the decay $\Sigma ^ { + }  p \gamma$ has been fueling numerous discussions over many years and remains poorly understood at the parton level [21].
+
+As listed in Table VI, the uncertainty on the asymmetry parameter in the $\Xi ^ { - } \to \Sigma ^ { - } \gamma$ decay is still very large and can be improved,and there is no measurement of the decay parameter for the $\Lambda  n \gamma$ decay yet. The current data were all from thefixedtargetexperiments morethanafewdecadesago,and improvedorcros-checkedmeasurementsshouldbedone inthe future.BESII will collect ${ \sim } 1 0$ billion $J / \psi$ events,and the numbers of hyperon events from the $J / \psi$ decays are estimated in Tables II and III.
+
+Inaditiontothe two-bodyradiativedecays,weakhyperondileptondecays willprovideadditionalinformationontheradiative transitions [28,29].According to PDG2O16,the only observed hyperon dilepton decay is the $\Xi ^ { 0 } \to \Lambda e ^ { + } e ^ { - }$ decay,which is measured to be $\mathcal { B } ( \Xi ^ { 0 } \to \Lambda e ^ { + } e ^ { - } ) = ( 7 . 6 \pm 0 . 6 ) \times 1 0 ^ { - 6 }$ [30],which is consistent with an inner bremsstrahlung-like production mechanism for the $e ^ { + } e ^ { - }$ pair. The consistency is further supported by the $e ^ { + } e ^ { - }$ invariance mass spectrum. The decay parameter was determined to be $\alpha _ { \Xi \Lambda e e } = - 0 . 8 \pm 0 . 2$ [30],which is consistent with that measured for the $\Xi ^ { 0 } \to \Lambda \gamma$ decay as listed in Table VI.A detailed discussion of radiative dilepton decays is presented in the next section.
+
+# V. RAREANDFORBIDDENHYPERONDECAYS
+
+In the Type A region as listed in Table VII, the decays $B _ { i } \to B _ { f } l ^ { + } l ^ { - }$ (where $l = e$ ， $\mu$ ； i.e.,Dalitz decay) can be described as proceedingthroughbothshort-distanceandlong-distancecontributions.In theSM,theleadingshort-distancecontributioncomes from an FCNC interaction, which is allowed only at loop level [32].As discussed in Section IV,the decays of $B _ { i } \to B _ { f } e ^ { + } e ^ { - }$ playanimportantrole inhelpingus tounderstandthedynamics ofradiative hyperondecays,andthedecayratesaresuppressed by two orders of magnitudes if we assume an inner bremsstrahlung-like mechanism producing the $e ^ { + } e ^ { - }$ pairs [31]. For the decay $B _ { i } \to B _ { f } \mu ^ { + } \mu ^ { - }$ ,the process is dominated by long-distance contributions,which are from the ${ \cal B } _ { i } \to { \cal B } _ { f } \gamma ^ { * }$ and $B _ { i } \to B _ { f } V ^ { * }$ (where $V$ could be $\rho / \omega$ vector mesons) processes,namely,the so-called vector dominant model mechanism [24]. For example, the branching fraction of $\Sigma ^ { + } \to p \mu ^ { + } \mu ^ { - }$ is predicted to be $B ( \Sigma ^ { + }  p \mu ^ { + } \mu ^ { - } ) \in [ 1 . 6 , 9 . 0 ] \times 1 0 ^ { - 8 }$ [32] by considering the long-distance contributions, while the short-distance SM contributions are suppressed at a branching fraction of ${ \sim } 1 0 ^ { - 1 2 }$ . Dalitz decays of hyperonsareofparticular interest,as theyalsoallowadirectsearch foranew scalarorvectorparticle,which could lead to an $s \to d$ transition at the tree level [33]. Recently,the Large Hadron Colider beauty experiment (LHCb) searched for $\Sigma ^ { + } \to p \mu ^ { + } \mu ^ { - }$ decay and observed an excess of events with respect to the background expectations with a signal significance of 4.0standarddeviations.Nosignificantstructureisobserved inthedimuon invariant mass distribution.Owingtothedificulty of normalization in the absence of signal,only an upper limit on the branching fraction is set to be $6 . 3 \times 1 0 ^ { - 8 }$ at $9 5 \%$ C.L. [34], which agrees with the SM prediction [32],whereas the sensitivities for the decays $B _ { i } \to B _ { f } l ^ { + } l ^ { - }$ are estimated to be $1 0 ^ { - 6 } – 1 0 ^ { - 7 }$ （204号 as listed in Table VII(Type A) with the BESIII data.
+
+TABLE VII: Rare and forbidden hyperon decays and expected sensitivities with $1 0 ^ { 1 0 }$ events on the $J / \psi$ peak and $3 \times 1 0 ^ { 9 }$ events on the $\psi ( 2 S )$ peak.Type A decay modes are through a photon-penguin-like weak neutral current; Type B decay modes are through a $Z$ -penguin-likeweak neutral current; Type C decay modes are neutrinoless double $\beta$ decays,which violate lepton number. The current data are from the world average in PDG2016 [3].“-” indicates“not available.”   
+
+<html><body><table><tr><td>Decay mode</td><td>Current data Sensitivity B(×10-6)</td><td>B(90%C.L.) （×10-6) Type</td><td></td></tr><tr><td>A→ne+e</td><td></td><td><0.8</td><td rowspan="8">Type A</td></tr><tr><td>∑+ →pe+e-</td><td><7</td><td><0.4</td></tr><tr><td>→Ae+e-</td><td>7.6 ± 0.6</td><td><1.2</td></tr><tr><td>=→∑e+e-</td><td></td><td><1.3</td></tr><tr><td>E−→∑-e+e-</td><td></td><td><1.0</td></tr><tr><td>Ω→e+e</td><td></td><td><26.0</td></tr><tr><td>∑+→ pμ+μ</td><td>-0.08 (0.09±0.09)</td><td><0.4</td></tr><tr><td>Ω→E-μ+μ</td><td></td><td><30.0</td></tr><tr><td>A→nvv</td><td></td><td><0.3</td><td rowspan="6">Type B</td></tr><tr><td>∑+→pvD</td><td></td><td><0.4</td></tr><tr><td>→AvD</td><td></td><td><0.8</td></tr><tr><td>→∑v</td><td></td><td><0.9</td></tr><tr><td>E→∑ν</td><td></td><td>*</td></tr><tr><td>Ω- →Ev</td><td></td><td><26.0</td></tr><tr><td>£</td><td></td><td><1.0</td><td rowspan="9">Type C</td></tr><tr><td></td><td>→∑+ee</td><td><0.6</td></tr><tr><td>£- →pee 三- →pe-e-</td><td></td><td><0.4</td></tr><tr><td>三 →Σ+e−e</td><td></td><td><0.7</td></tr><tr><td>Ω-→∑+ee</td><td></td><td><15.0</td></tr><tr><td>£- →pμμ</td><td></td><td><1.1</td></tr><tr><td>三→pμμ</td><td><0.04</td><td><0.5</td></tr><tr><td>Ω →Σ+μμ</td><td></td><td><17.0</td></tr><tr><td>£- →peμ</td><td></td><td><0.8</td></tr><tr><td>三</td><td></td><td><0.5</td><td></td></tr><tr><td>三</td><td>→peμ →∑+e</td><td></td><td><0.8</td></tr><tr><td></td><td>从</td><td></td><td></td></tr><tr><td>Ω-</td><td>→£+e μ</td><td></td><td><17.0</td></tr></table></body></html>
+
+\* It is hard to reconstruct the $\Xi ^ { - } \to \Sigma ^ { - } \nu \bar { \nu }$ decay since the $\Sigma ^ { - }$ decays into final states including neutron. Thus both neutron and neutrinos can not be detected at BESIII,and the "tag technique”will not work.
+
+# B. $B _ { i } \to B _ { f } \nu \bar { \nu }$ decays via a $Z$ -type penguin
+
+Analogous to the rare $K  \pi \nu \bar { \nu }$ decays [40], the rare $B _ { i } \to B _ { f } \nu \bar { \nu }$ decays are important tools for testing the SM and for searching for posible new physics.As they proceed through an FCNC process,though they are very suppressed in the SM, they show an exceptional sensitivity to short-distance physics that is similar to the $K  \pi \nu \bar { \nu }$ decays [36,37]. There are many discussions on the new physics models that may contribute to the $s  d \nu \bar { \nu }$ transition at the loop or even tree level; for a recent review, see Ref. [38]. Unfortunately, no $B _ { i } \to B _ { f } \nu \bar { \nu }$ decays have been searched for experimentally so far. As an example, assuming that the decay $\Sigma ^ { + } \to p \nu \bar { \nu }$ is dominated by the short-distance contribution,one can make an estimation based on the following relation [39, 40]:
+
+$$
+\frac { \Gamma ( K ^ { + } \to \pi ^ { + } \nu \bar { \nu } ) } { \Gamma ( K ^ { + } \to \pi ^ { 0 } e ^ { + } \nu ) } \approx \frac { \Gamma ( \Sigma ^ { + } \to p \nu \bar { \nu } ) } { \Gamma ( \Sigma ^ { - } \to n e ^ { + } \nu ) } .
+$$
+
+Chus, in the SM,one can estimate the branching fraction to be $B ( \Sigma ^ { + }  p \nu \bar { \nu } ) \sim 5 \times 1 0 ^ { - 1 3 }$ by considering the lifetime difference setween $\Sigma ^ { + }$ and $\Sigma ^ { - }$ and isospin rotation [39]. Obviously, BESIII cannot reach a sensitivity of $1 0 ^ { - 1 3 }$ ：
+
+Sincetheneutrinosinthefnalstatesare“ivisible"intedetectorand,atESI,teinitialenergyandmomentumofelectron and positronare known,onecanuse the“tag technique”tofulyreconstructoneof the hyperons andlook at therecoil side in the $\psi$ decay into hyperon pairs. It would be interesting to make a first study of the $\Sigma ^ { + } \to p \nu \bar { \nu }$ decay,and one should obtain a sensitivity of $1 0 ^ { - 8 }$ with $1 0 ^ { 1 0 } \ J / \psi$ decay events.More examples of these decays are listed in Table VII(Type B), which are unique accomplishments of the BESIII experiment.
+
+# C.Lepton-number-violating decays with $\Delta L = 2$
+
+Nonzero neutrino mass is nowwellestablished[41-44];therefore,it iscruciallyimportant to studythe properties of these nonzero-massneutrinos.One interestingquestion is whether neutrinos are Majorana or Dirac neutrinos [45,46].Leptonnumber-violating (LNV) interactions with $\Delta L = 2$ are widely viewed as the most robust test of the Majorana nature of massive neutrinos [45,46]. Currently, neutrinoless double $\beta$ （204 $( 0 \nu \beta \beta )$ decays of heavy nuclei [47] have become the most sensitive way to search fortheefectsofverylight Majorananeutrinos.However,teoreticalanalysisofthese proceses iscomplicatedby the nuclear matrix elements,which are very diffcult to calculate reliably. Here we focus on the $\Delta L = 2$ transitions between spin-1/2 hyperons, $B _ { i } ^ { - }  B _ { f } ^ { + } l ^ { - } l ^ { \prime - }$ (where $l$ $\boldsymbol { l } ^ { \prime } = \boldsymbol { e }$ or $\mu$ ).Examples of these decays are listed in Table VII (Type C).
+
+Only one experimental upperlimit for thechannels listed in Table VII(Type C)has been reported so far, namely, $B ( \Xi ^ { - } \to$ $p \mu ^ { - } \mu ^ { - } ) < 4 . 0 \dot { \times } 1 0 ^ { - 8 }$ . In the case of the decays listed in Table VI (Type C),two down-type (d or s) quarks convert into two up-quarks,changing the charge of hyperons according to the $\Delta Q = \Delta L = + 2$ rule.These quark transitions are assumed to occurat thesame space-timelocationand,therefore,theyaredrivenbylocalfour-quarkoperators [48-50].Thus thestudyof the relatively simpler case provided by $0 \nu \beta \beta$ hyperons decays may shed some light on the approximations used to evaluate the hadronic matrix elements relevant for similar nuclear decays [48-5O].In Ref.[49],based on the model where $\Sigma ^ { - }  p e ^ { - } e ^ { - }$ decay is induced by a loop of baryons and light Majorana neutrinos,the predicted branching fraction for $\Sigma ^ { - }  p e ^ { - } e ^ { - }$ decay, as an example, is $\dot { < } 1 0 ^ { - 3 3 }$ , whereas, in Ref.[50l, based on a model with four-quark operators,the predicted branching fraction .is $< 1 0 ^ { - 2 3 }$ ,which is still toosmalltobeobserved inany future high-intensity experiment.Thus,anyobservablerates for these decays must indicate a new interaction beyond the SM.
+
+It will be very interesting to search for the $B _ { i } ^ { - }  B _ { f } ^ { + } e ^ { - } e ^ { - }$ decays at BESIII with $1 0 ^ { 1 0 } J / \psi$ decay into hyperon-antihyperon final states,which will produce $\mathrm { 1 0 ^ { 7 } \mathrm { - 1 0 ^ { 8 } } }$ hyperons. Therefore,the sensitivities will be on the order of $1 0 ^ { - 7 }$ with clean backgrounds. Note that the decays of $B _ { i } ^ { - } \to B _ { f } ^ { + } \mu ^ { - } \mu ^ { - }$ can be also searched for at LHCb with higher sensitivities owing to the huge production cross section there.
+
+# D.Other decays violating lepton number and baryon number
+
+The SM has been proved to be extremely successful. As we discussed in Subsection $\mathrm { v c }$ ,the nonzero neutrino mass indicates that the lepton number $( L )$ may be violated. There are also a number of reasons to consider baryon number violation:1. there is a suggestion originally from Sakharov theory that $C P$ violation combined with a baryon-number-violating(BNV) interaction can explain the baryon asymmetryof the universe[51];2.many grandunified theories allow the proton to decay [52]; 3. $B { - } L$ is an important symmetry and,therefore,if $\Delta L$ exists, there is also a $\Delta B$ interaction.In particular,in the SM, in the electroweak phase transition,there is a possibility of a $\Delta B$ ， $\Delta L$ transition that conserves $B { - } L$ ,an essential component of theories of leptogenesis [53].Recently, searches for the BNV and LNV decays of $\Lambda$ were performed by the CLAS experiment [54] by using a data set for photoproduction offof the proton collected with the CLAS detector at Jefferson Laboratory containing ${ \sim } 1 . \bar { 8 } \times 1 0 ^ { 6 }$ （204 reconstructed $\gamma p  K ^ { + } \Lambda$ events. The sensitivities on the branching fraction for each of the processes studied ranged from
+
+TABLE VII: Lepton- or baryon-number-violating hyperon decays and expected sensitivities with ${ 1 0 } ^ { 1 0 }$ events on the $J / \psi$ peak and $\mathrm { 3 \times 1 0 ^ { 9 } }$ （204号 events on the $\psi ( 2 S )$ peak. The current data are from CLAS [54] as listed in PDG2016 [3].“-” indicates “not available,” $l = e$ or $\mu$ ,and $M ^ { \pm }$ refers to the charged stable mesons $M ^ { \pm } = \pi ^ { \pm }$ or $K ^ { \pm }$ ).Each reaction shows evidence of $\Delta L = \pm 1$ or/and $\Delta B \ne 0$ ,and each reaction conserves electric charge and angular momentum.   
+
+<html><body><table><tr><td>Decay mode</td><td>Current data B (×10-6)</td><td>Sensitivity B (×10-6) (90%C.L.)</td><td>△L△B</td><td></td></tr><tr><td>A→pl</td><td>1</td><td><0.05</td><td>+1</td><td>0</td></tr><tr><td>∑+→nl+</td><td>1</td><td><0.5</td><td>-1</td><td>0</td></tr><tr><td>Ω→pl-</td><td>1</td><td><0.03</td><td>+1</td><td>0</td></tr><tr><td>∑-→nl-</td><td>1</td><td><1.0</td><td>+1</td><td>0</td></tr><tr><td>→pl-</td><td>=</td><td><0.1</td><td>+1</td><td>0</td></tr><tr><td>=→Ω+1</td><td></td><td><0.3</td><td>+1</td><td>0</td></tr><tr><td>→£-1+ m0</td><td></td><td><1.0</td><td>-1</td><td>0</td></tr><tr><td></td><td>1</td><td><0.2</td><td>+1</td><td>0</td></tr><tr><td>E→∑°-</td><td>=</td><td><0.5</td><td>+1</td><td>0</td></tr><tr><td>Ω→</td><td></td><td><13</td><td>+1</td><td>0</td></tr><tr><td>Ω→∑-</td><td></td><td><14</td><td>+1</td><td>0</td></tr><tr><td>Ω→-</td><td></td><td><16</td><td>+1</td><td>0</td></tr><tr><td>A→M+-</td><td><0.4~ 3.0[54]</td><td><0.1</td><td>+1</td><td>-1</td></tr><tr><td>A→M-+</td><td><0.4~ 3.0[54]</td><td><0.1</td><td>-1</td><td>-1</td></tr><tr><td>A→Ksv</td><td><20[54]</td><td><0.6</td><td>+1</td><td>-1</td></tr><tr><td>∑+→Ks𝑙+-</td><td></td><td><0.2</td><td>-1</td><td>-1</td></tr><tr><td>∑-→Ksl- -</td><td></td><td><1.0</td><td>+1</td><td>-1</td></tr><tr><td>E-→Ksl-</td><td></td><td><0.2</td><td>+1</td><td>-1</td></tr><tr><td>E°→M+-</td><td></td><td><0.1</td><td>+1</td><td>-1</td></tr><tr><td>E→M-+-</td><td></td><td><0.1</td><td>-1</td><td>-1</td></tr><tr><td>=°→Ksv-</td><td></td><td><2.0</td><td>+1</td><td>-1</td></tr></table></body></html>
+
+$7 \times 1 0 ^ { - 7 }$ to $2 \times 1 0 ^ { - 5 }$ [54].All BNV and LNV decays can be further studied with data from $J / \psi$ decay into hyperon pairs as listed in Table VII. Some of them ( $\Sigma$ and $\Xi$ hyperon decays) were never searched for,and the sensitivities will be $1 0 ^ { - 7 }$ or better. In addition,baryon-number violation with $\Delta B = 2$ processes can be searched for in the $\Lambda \to \bar { p } \pi ^ { + }$ decays that were also presentedbytheCLAS experiment[54]forthefirsttime.AtBESII,posiblebaryon-number-violationcanbe probedin $J / \psi \overset { \cdot } { \to } \Lambda \bar { \Lambda }$ decay with better sensitivity than that of CLAS.Furthermore, $\Lambda { - } \bar { \Lambda }$ oscillations can be investigated by using coherent productions of $\Lambda$ pairs in $J / \psi \to \Lambda \bar { \Lambda }$ decay; for details,see Ref.[55,56].
+
+In conclusion,the search forbaryonandleptonnumber nonconservationrepresents an importantprobeof physics beyondthe ;M and particularly new physics at a very high mass scale.
+
+# VI. SUMMARY
+
+Ever since the discovery of hyperons and of their weak decays it has been a challenge to measure with precision the propertiesof theirdecaysand to testtheSMandbeyond.Hyperonsemileptonicandradiativedecayare stillachallengeonboth experimental and theoretical fronts.Therareand forbiddenhyperon decays willplay importantrole in thesearch fornew physics [3,57-67]. In this paper, we propose studying hyperon decays at BESIII with events in the $\mathbf { J } / \psi$ or $\psi ( 2 S )$ decay into hyperon pairs.We learned that the two-body decays of the $J / \psi$ and $\psi ( 2 S )$ will provide a pristine experimental environment; especially,rare decaysand decays with invisible final states can be probed byusing the“tag technique”with the $e ^ { + } e ^ { - }$ collision experiment. With one year's integrated luminosity at BESII, ${ \sim } 1 0 ^ { 6 } – 1 0 ^ { 8 }$ hyperons, $\Lambda , \Sigma , \Xi$ and $\Omega$ ，will be produced in the $\mathbf { J } / \psi$ and $\psi ( 2 S )$ decays.Based on those samples,the sensitivity for the measurements of the branching fractions of the hyperon decays is in the range of $1 0 ^ { - 5 } – 1 0 ^ { - 8 }$ . Study of hyperon decays will no doubt prove be an unexpected and rewarding research field at BESIII.
+
+In addition,the hyperon program will be one of the strong motivations for collecting data at the $J / \psi$ and $\psi ( 2 S )$ peaks at the planned super- $\cdot$ -charm factory [68, 69]. Meanwhile, the decay modes with $\mu ^ { \pm }$ final states can be probed using the LHCb,where the production cross sections are huge [34].
+
+Discussion: We need theoretical input for these rare decays; for example,the radiative dilepton decays $B _ { i } \to B _ { f } l ^ { + } l ^ { - }$ should berevisited with therecent developmentofchiral perturbation theory[7O].More theoretical eforts shouldbe focusedon the $\Delta L = 2$ LNV decays $B _ { i } ^ { - }  \bar { B } _ { f } ^ { + } l ^ { - } l ^ { \prime - }$ ,which may have an impact on massive neutrinos [71]. There are no theoretical stimations of the $B _ { i } \to B _ { f } \nu \bar { \nu }$ decays,and efforts on the analogous $K ^ { + } ( K _ { L } )  \pi ^ { + } ( \pi ^ { 0 } ) \nu \bar { \nu }$ decay could be applied to hyperon lecays,for example,to the recent lattice QCD calculations on the $Z$ -penguin-like kaon decays [72-74].
+
+Notethattheestimationsofthesensitivities atBESlareallbasedoneducatedguessesofthedetectionefcieniesand tus may deviate fromthe true values; more studies with correct angular distributions [75,76]should be donein the future.
+
+# Acknowledgments
+
+The author would like to thank Stephen L. Olsen,I. I. Bigi, and $\mathrm { X u }$ Feng for useful discussions and suggestions and also J.G.Kormer,Francesco Detori,andJ.Tandean fortheirusefulcomments.Thiswork issupported inpartbythe National Natural ScienceFoundationof China under Contracts Nos.11335009and11125525,the JointLarge-Scale ScientificFacility Funds ofthe NSFCand CASunder ContractNo.U1532257,CAS under Contract No.QYZDJ-SSW-SLH003,and theNational Key Basic Research Program of China under Contract No.2O15CB856700.
+
+[1]M.Ablikimet al. [BESICollboration],Nucl.Instrum.Meth.A614,345 (2010)[arXiv:091.496[physics.ins-det].   
+[2] D.M. Asner et al.,Int.J.Mod. Phys.A 24, S1 (2009) [arXiv:0809.1869 [hep-ex]].   
+[3] C.Patrignani et al.[Particle Data Group Collaboration], Chin.Phys.C40,no.10,100001(2016).   
+[4] N. Cabibbo,Phys. Rev.Lett.10,531 (1963).   
+[5]M.Kobayashi and T.Maskawa,Prog. Theor. Phys.49, 652(1973).   
+[6]E.Blucher,E.DeLucia,G.sidori,VLubicz,H.Abele,V.CiriglianoR.Flores-Mendeta,J.Flyetdl.,Xiv:hep-h/0539.   
+[7]J.C.Hardy and I.S.Towner,J.Phys.G 41,114004 (2014).   
+[8]M.Antonell,iglao.ori,ia,ouoHufeld,E.ea,autaelurJC() [9] N.Cabibbo,E.C.Swallow,andR.Winston,Ann.Rev.Nucl. Part. Sci.53,39 (2003).   
+[10] N.Cabibbo,E.C.Swallow and R.Winston,Phys.Rev.Lett.92,251803 (2004)[hep-ph/0307214].   
+[11] S.Weinberg,J.Phys.Conf. Ser.196,012002 (2009).   
+[12]H.M.Chang,M.Gonzlez-AlonsoandJ.MartinCamalich,Phys.Rev.Lett114,no.16,61802(2015)[arXiv:1412.8484[ep-p].   
+[13] T.N.Pham,Phys.Rev.D87,no.1,016002 (2013)[arXiv:1210.3981 [hep-ph]].   
+[14] G.S. Yang and H. C.Kim,Phys.Rev. C92,035206 (2015)[arXiv:1504.04453 [hep-ph].   
+[15]A.Faesler,T.Gutsche,B.R.Holstein,M.A.Ivanov,J.G.KorerandV.E.Lyubovitskij,Phys.Rev.D789405（008) [arXiv:0809.4159 [hep-ph]].   
+[16] B.Borasoy,Phys.Rev.D 59,054021 (1999) [hep-ph/9811411].   
+[17] L. S. Geng,J. Martin Camalich and M.J. Vicente Vacas,Phys.Rev.D 79,094022 (2009).   
+[18] T.Ledwig,J.Martin Camalich,L.S.Geng and M.J.Vicente Vacas,Phys.Rev.D90,no.5,054502 (2014).   
+[19] M. Bourquin and J.P.Repellin,Phys.Rept.114,99 (1984).   
+[20] J.Bernstein,G.Feinberg and T.D.Lee,Phys.Rev.139,B165O (1965).   
+[21]J.Lach and P. Zenczykowski, Int.J. Mod.Phys.A 10,3817 (1995).   
+[22] I.I. Balitsky, V.M. Braun and A. V. Kolesnichenko,Nucl.Phys.B 312,509 (1989).   
+[23] M.K.Gaillard, X.Li and S.Rudaz,Phys.Lett.158B,158 (1985).   
+[24] P.Zenczykowski,Phys.Rev.D 73,076005 (2006).[hep-ph/0512122].   
+[25] B.Borasoy and B.R. Holstein,Phys.Rev.D 59,054019(1999) [hep-ph/9902431].   
+[26] R.E. Behrends,Phys.Rev.111,1691 (1958).   
+[27]Y.Hara,Phs.RevLt.1278(1964);S.Y.Lo,NuovCimento3775(1965);K.Tanaka,Phys.Rev.140,B463(965);.Gourdin Unitary symmetry (North- Holland,Amsterdam,1967).   
+[28] J.W. Bos,D.Chang,S.C.Lee,Y. C.Lin and H. H. Shih,Phys.Rev.D 54,3321 (1996)[hep-ph/9601299].   
+[29] B.V.Martemyanov,Phys.Atom.Nucl.66,737 (2003) [Yad.Fiz.66,768 (2003)].   
+[30] J.R.Batley et al.[NA48 Collaboration],Phys.Lett.B 650,1(2007) [hep-ex/0703023].   
+[31] L.Bergstrom,R. Safadi and P. Singer, Z. Phys.C 37,281 (1988).   
+[32] X.G.He,J. Tandean and G. Valencia,Phys.Rev.D 72,074003 (2005)[hep-ph/0506067].   
+[33] D.S.Gorbunov and V.A. Rubakov,Phys.Rev.D 64,054008 (2001) [hep-ph/0012033].   
+[34] F. Dettori [LHCb Collaboration],arXiv:1611.06717 [hep-ex].   
+[35] W.J.Marciano and Z. Parsa,Phys.Rev.D 53,no.1,R1 (1996).   
+[36] A.J.Buras,M. Gorbahn,U.Haisch and U.Nierste,Phys.Rev.Lett.95,261805 (2005)[hep-ph/0508165].   
+[37] A.J. Buras,F. Schwab and S.Uhlig,Rev.Mod. Phys.80,965 (2008)[hep-ph/0405132].   
+[38] A. J. Buras,D.Butazzo and R. Knegjens, JHEP 1511,166 (2015) [arXiv:1507.08672 [hep-ph]].   
+[39] Xu Feng, private discussion.   
+[40] W.J.Marciano and Z. Parsa,Phys.Rev.D 53, no.1,R1 (1996).   
+[41]Superaadtdal,v);69);););   
+Y.Suzuki,NuclPsB,roc.uppl.77(99);.uudetal.,y.RevLe.8665();YAsieeal,Pht.   
+93,101801 (2004). [42]KamLANolloraion,KEguchi etal,ysev.Let.(3);Aaieal,ysRevLett.90) [43]SNOCabato.Adetal,yRevLett9,();2);9(0);   
+Phys. Rev.C 72,055502 (2005).   
+[44]F.P.An et al. [Daya Bay Collaboration],Phys.Rev.Lett108,171803 (2012) [arXiv:1203.1669 [hep-ex]].   
+[45] B.Pontecorvo,Sov. Phys.JETP 7,172 (1958)[Zh.Eksp.Teor.Fiz.34,247(1957)].   
+[46] V.N. Gribov and B.Pontecorvo,Phys.Lett.28B,493 (1969).   
+[47] W.Rodejohann,Int.J. Mod.Phys.E 20,1833 (2011) [arXiv:1106.1334 [hep-ph]].   
+[48] C.Barbero,G.Lopez Castro and A.Mariano,Phys.Lett.B 566,98 (2003) [nucl-th/0212083].   
+[49]C.Barbero,L.F.Li,G.Lopez CastroandA.Mariano,Phys.Rev.D76,116008 (2007)[arXiv:0709.2431[hep-ph].   
+[50]C.Barbero,L.F.Li,G.Lpez CastroandA.Mariano,Phys.Rev.D87,no.3,036010(2013)[arXiv:1301.3448[ep-p].   
+[51]A.D.SakharovPismaZh.Eksp.TeorFz.5,32(967)[JETLet.5,24(967)][SovPhys.Usp.34,392(1991)][Usp.Fz.Nauk161, 61 (1991)].   
+[52]J.C.PatiandA.Salam,PhysRev.D8,124(1973); H.GeorgiandS.L.Glaso,Phys.Rev.Lett32,438(1974);R.N.Maptra and R.E.Marshak,Phys.Lett.91B,222 (1980).   
+[53] H. An,S.L. Chen,R.N. Mohapatra and Y. Zhang,JHEP1003,124 (2010)[arXiv:0911.4463 [hep-ph]].   
+[54] M.E.McCracken et al.,Phys.Rev. D 92,no.7,072002 (2015) [arXiv:1507.03859 [hep-ex].   
+[55] X.W. Kang,H. B.Li and G.R.Lu,Phys. Rev. D81,051901 (2010)[arXiv:0906.0230 [hep-ph]].   
+[56] Z. Berezhiani and A. Vainshtein,arXiv:1506.05096 [hep-ph].   
+[57] K.T.Chao,Phys.Rev.D 41,920 (1990).   
+[58] X.G.He and G. Valencia,Phys. Rev. D 52,5257 (1995) [hep-ph/9508411].   
+[59]J.F.Donoghue,X.G.He and S.Pakvasa,Phys.Rev.D 34,833 (1986).   
+[60] D. Chang,X.G. He and S. Pakvasa,Phys. Rev. Lett.74,3927 (1995) [hep-ph/9412254].   
+[61] X.G.He and S.Pakvasa,hep-ph/9409236.   
+[62] J.Tandean,Phys.Rev.D 69,076008 (2004) [hep-ph/0311036].   
+[63] J. Tandean and G.Valencia,Phys.Rev.D 67,056001 (2003) [hep-ph/0211165].   
+[64]J.Tandean，Phys.Rev.D70,076005(2004）[hep-ph/0406274];J.TandeanandG.ValenciaPhys.LettB451，382（1999) [hep-ph/9811376].   
+[65] X.G.He,J.P.Ma and B.McKellar,Phys.Rev.D 47,R1744 (1993)[hep-ph/9211276].   
+[66] X.W. Kang,H. B.Li,G.R.Lu and A. Data,Int.J. Mod.Phys.A26,2523 (2011)[arXiv:1003.5494 [hep-ph]].   
+[67] A. Abdesselam et al. [Belle Collaboration],arXiv:1611.06648 [hep-ex].   
+[68]A.E.Bndaretal.[Charm-TauFactoryCollaboration],Phys.Atom.Nucl.76,07(23)Yad.Fiz.76,no.9,3().   
+[69]Z.Zhou,Q.Luo,L.Wang,W.XuandB.Zhang“PreliminaryConceptandKeyTechnologiesofHEPAAccelerator”talkatthe7th International Particle Accelerator Conference (IPAC 2016) O8-13 May 2016.Busan, Korea.   
+[70] D. Kimura,T. Morozumi and H. Umeeda,arXiv:1609.09235 [hep-ph].   
+[71] H.R.Dong,F.Feng and H.B.Li, Chin. Phys.C 39,no.1, O13101 (2015).   
+[72]N.H.Christ etal.[RBCandUKQCDCollaborations],Phys.Rev.D93,no.1114517(2016)[arXiv:1605.0444[hp-lat].   
+[73] N.H. Christ, X.Feng,A. Jtner,A.Lawson,A. Porteli and C.T. Sachrajda,PoS CD15,033 (2016).   
+[74]N.H.Christ etal.[RBCandUKQCDCollborations],Phys.Rev.D92,no.9,094512 (2015)[arXiv:1507.03094[p-lat].   
+[75] T.D.Lee and C.N. Yang,Phys.Rev.108,1645 (1957).   
+[76] A.Kadeer,J.G.Korner and U.Moosbrugger,Eur. Phys.J.C 59,27 (2009)[hep-ph/0511019].

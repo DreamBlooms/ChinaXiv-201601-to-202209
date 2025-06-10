@@ -1,0 +1,970 @@
+[
+    {
+        "type": "text",
+        "text": "基于Petri网的APT攻击模型生成方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杜镇宇，刘方正，李翼宏(国防科技大学 电子对抗学院，合肥 230037)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在严峻的APT（advanced persistent threat）攻击防御背景下，针对现有网络攻击建模方法无法反映APT攻击的攻击特点的问题，建立了基于Petri 网的APT攻击模型。借助 Petri网，首先针对 APT攻击的特点及生命周期，建立APT攻击的基本 Petri网模型；然后设计并实现针对具体 APT攻击的APTPN（advanced persistent threat petri nets）模型的生成算法，该算法能够生成具体APT攻击的完整的攻击路径，并能够对APT攻击进行检测及预测；最后实验通过模拟极光攻击验证了算法的有效性及正确性，并能够根据收集到的报警信息预测攻击者下一步的攻击手段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Petri网；APT；APTPN；建模；攻击路径 中图分类号：TP309.2 doi:10.3969/j.issn.1001-3695.2018.01.0041 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Modeling method for advanced persistent threat based on Petri ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Du Zhenyu, Liu Fangzheng, Li Yihong (Electronicconfrontation Institute,National UniversityofDefenseTechnologyUniversity,HeFei3o37,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Against thebackgroundofsevereAPTattackdefense,aimingatthefactthattheexisting networkattckmodeling methods cannotreflect theattack featuresofAPTattcks,this paper establishedanAPTattackmodelbasedonPetriets.With Petri nets,itfirst establishedthebasic Petrinet modelofAPTatacksaccording tothecharacteristicsandlifecycleofAPT attacks.Then,itdesignedand implemented thealgorithmof generatingAPTPN(advanced persistent threatpetrinets)modelt generate itscompleteattackpathagainstspecificAPTatack.Finallyexperimentsverifytheefectiveness andcoetessof the algorithm by simulating auroral attacks. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Petri nets; advanced persistent threat; advanced persistent threat petri nets; modeling; atack path ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自2010 年开始，APT（advanced persistent threat）攻击成为取代传统黑客攻击的一种重要的攻击手段，进入网络安全工作者的视野，并呈现出愈演愈烈的趋势[]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于日益严肃的网络安全态势，作为受害者，应采取手段进行积极防御。现行的APT防御流程主要以被动防御为主 $[ 2 ^ { - 4 } ]$ ，即在危害发生之后采取手段对其进行检测防御。而当前APT威胁由于危害程度高、打击速度快等特性，被动防御的思想及手段已不能满足其防御态势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因此，如何变被动防御为主动防御，在攻击任务达成之前根据攻击模型对攻击路径及发生的可能性进行威胁估计是当前应重点研究的问题，这其中的首要问题是建立一个合适的攻击模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Petri网[5作为分布式系统建模和分析的工具，具有严格数学定义和强大的图形表达能力。Petri网不仅能够描述过程的静态结构，还可以模拟过程运行中动态行为，对于具有并发、异步等性质的信息系统，可以利用Petri网进行有效描述和分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "同时，使用Petri网在对APT攻击建模上具有以下几点好处：a）通过对Petri网中库所及变迁节点的映射，可以对APT攻击手段、攻击流程进行详细的建模，经过映射后的Petri网对于攻击手段刻画的粒度更细；b)Petri网可以添加时间序列，适应于APT攻击具有潜伏时间长、攻击阶段明显的特点；c)Petri网可以添加颜色集，为APT攻击状态中的攻击序列的完成程度提供很好的描述手段，使建立的APT攻击模型能直观地反映出当前威胁级别，级别越高的威胁，可以作出优先响应，从而提高APT攻击防御能力；d）Petri网可以对有向弧进行赋值，因而可以对建立好的APT攻击行为Petri网的每条攻击路径、转换关系赋值；e)使用Petri网对APT攻击流程、生命周期建模，能够克服以往建模方式中存在大量循环路径的问题。因此，本文选择Petri网建立APT攻击模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "罗森林等人[7以漏洞为基本研究对象，提出一种基于时间Petri网的渗透测试攻击模型构建方法，通过单漏洞利用模型整合成渗透测试攻击模型。黄光球等人[8提出一种针对信任攻击的面向对象Petri网建模技术，利用改写后的信任关系重建规则定义信任攻击Petri网，模拟了信任攻击的场景。吴迪等人[9提出一种基于着色Petri网（CPN）的原子攻击的建模方法，基于主机权限及主机脆弱性节点定义一个基本的原子攻击的Petri网模型。上述基于Petri网的网络攻击建模方法完成了对单一网络攻击的建模，包括渗透测试攻击、信任攻击以及原子攻击，而这些建模方法无法针对APT攻击特点对完成对APT攻击的建模，其他的针对APT攻击的建模方法也存在一定问题。黄永洪等人[10]基于攻击图提出一种 APT风险属性攻击图模型的构建方法，而该方法却没有给出合理的威胁表示。王辉等人[将贝叶斯理论引入网络攻击图，基于贝叶斯网络攻击图模型对网络攻击内部状态进行形象化描述，虽然给出了威胁表示，但是仅针对于简单的原子攻击，对于复杂的APT攻击无能为力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本文针对APT的阶段性特点及其生命周期，基于Petri网，建立APT攻击的Petri网模型，同时以该模型为基础，提出一种APT攻击路径生成算法，生成APT攻击路径。该算法能够自动生成APT攻击元路径序列，通过该序列能够直观地显示攻击者的攻击意图及攻击方式，以便提前防御，缩短APT防御周期，有效应对APT攻击。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 基于Petri网的APT攻击模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1APT攻击阶段性特点分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "杀链IKC（intrusionkillchain）模型[1]使用攻击链来同时描述APT攻击的各个阶段以及其攻击手段，存在两点不足：a)其对于APT攻击阶段的划分存在缺漏，即缺少撤收阶段，通常，在APT攻击过程中，攻击者在完成攻击之后，会进行日志清除、文件损毁、注册表重写等一系列动作来防止被溯源，而这个过程中也会产生一定的可分析行为，并可作为判别依据加入到检测系统中去；b）该模型对于攻击阶段的考虑的粒度过细，而从攻击方式方面考虑的粒度过粗。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于IKC，改进其完整性不足以及存在冗余的问题，对APT的攻击阶段进行了重新划分，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "内部侦察 ? 横向扩散 任务评估 ? 下一步方案→ ↓ → √提升权限 持久存在 任务完成 命令执行初始侦察 攻击准备 ↑ √ ↑ →目标扫描阶段 ? 工具定制与投递阶段 ? 潜伏提权阶段 ↑ ? 通信控制阶段 1 目标达成阶段 撤收维护阶段一 T 」√ √ √ √ √ √ √ √ √ √ ↓ √ → √ √ √ √ √ √ √ √ √ √网络爬虫 漏洞扫描 社工信息 水坑网站 鱼叉邮件 社交网络 横向移动 自动下载 预置后门 命令执行 信息回佳 窃密型 破坏型 销毁 覆盖 淹没 ： 擦除络 动 行 传 制1 □ J T√ √ √ √ √ √ √ √ √ √ √ √ √ √ √ √ √ √ √ √ √ √ √ √ √漏洞信息 主机信息 用户习惯 社交网络 特种木马 恶意代码 · 漏洞利用 收集信息 修改权限 隐蔽痕迹 盗取账号 … 病毒传染 信息收集 · Ω建立 信息丢失 数据加密 · 设施破坏 表键丢失 日志丢失 数据丢失 内存清空 痕迹清除限 迹",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）目标扫描阶段通过网络爬虫、网络扫描、漏洞探测、拓扑发现、社会工程学信息等主要技术对被攻击目标的节点属性、漏洞信息、用户习惯、主机信息、弱口令、系统安装的防火墙、IDS、杀毒软件等相关信息进行探测，为下一步攻击提供信息支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2)工具定制与投递阶段通过对上一阶段扫描得到的相关信息的进一步分析整合，针对攻击目标的特点量身定做合适的攻击工具，具体包括特种木马、恶意代码等，并将这些隐藏到网页链接、PDF、Office、外接存储设备等。在这个阶段，攻击者会依靠上一阶段的用户习惯来选择攻击工具。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（a）当被攻击者经常访问某一特定网站，但其访问方式大多依赖于搜索引擎时，攻击者可制作另一相关网站，并将攻击工具夹带到该网站上，引诱受害者点击。通常该网页仅对被害群体可见，而其他人不在钓鱼名单上的不相关人员则显示为404 error。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（b）当被攻击者经常使用邮件进行通信时，可以将攻击工具隐匿在邮件中，邮件内容通常是受害者感兴趣的话题，或者伪装成相熟人将该钓鱼邮件发送给被攻击者，引诱其点击附件中的链接。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（c）当被攻击者经常使用外界存储设备转移数据时，如USB 存储设备、外接投影仪、打印机等，可将攻击工具事先加载到这些外接设备上，当受害者将该被感染的外接设备接入时，恶意代码等会自动释放到被攻击主机上，实现攻击工具的投放。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3)潜伏提权阶段在该阶段中，攻击者通过上一阶段投放的恶意代码打开与用户通信的渠道，进一步操作提升攻击者权限为下一步做铺垫。通常在上一阶段夹带或隐匿的恶意代码由于受到用户操作等客观限制，其大小及功能都只能是微小的，其目的只是打开一个小小的缺口，让攻击者能够执行下一步操作。因此，在该阶段有三种常见情况：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a)带有横向移动功能的恶意代码会在受害者不知情的情况下感染受害主机的其他磁盘、文件系统，搜寻敏感文件，等待回传。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(b)带有自动下载功能的恶意代码会在用户联网操作时打开事先写好的恶意链接，下载并安装具有更强功能的恶意代码，可能是记录键盘操作、拷贝日志信息、修改注册表项、扫描网段内其他主机并收集信息等一切有利于攻击者下一步操作的功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(c)带有开启服务功能的恶意代码会打开受害主机的远程控制服务、文件传输端口、数据库操作端口等相关服务，盗取用户账号信息等实现对目标主机的远程控制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在这一阶段里，若直接攻击的目标主机不能完成攻击目的，可以实现目标的扩展移动，通过对上述操作的全部循环，或以该受害主机做跳板机通过对上述操作的部分循环入侵内网其他主机。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4)通信控制阶段攻击者通过上述阶段的积累已经实现对目标主机的控制，因此在该阶段，攻击者开始实现与受害主机的通信控制，可以远程执行命令，对收集的数据进行筛选并选择与攻击目标相符的相关数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5)目标达成阶段在这一阶段攻击者完成了对攻击目标的所有攻击操作，开始实现攻击目标，达成任务目的。针对任务目的不同，主要有两个方面：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（a）窃密性APT攻击。这类攻击主要以窃取敏感数据为目的，因此该阶段完成对敏感文件的回传操作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（b）破坏型APT攻击。这类攻击主要以影响、干扰、破坏目标的正常运行为目的，通过删除文件、修改用户权限、破坏内网主机等毁坏操作达成任务目的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6)撤收维护阶段APT攻击是隐蔽的，有的受害主机遭受攻击而不知情，当后果严重时才会有所反映。通常攻击者为防止被溯源或者被阻止，会为自己留有撤退通道，方便攻击者撤回。这个阶段，攻击会销毁攻击工具、擦除入侵痕迹、覆盖攻击数据、删除日志记录、淹没内存等来完成攻击的撤收。其次，若攻击目标是一个长期目标，攻击者在完成阶段性目标后，会掩盖侵入痕迹、潜伏在目标主机中，继续保持对目标的监控，等待下一次攻击的开始。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2模型建立",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于Petri网的APT攻击模型是根据APT攻击的阶段性特点，针对APT攻击过程中的攻击流程、使用的攻击方法及攻击方式建立的。通过将APT攻击中的基本要素与Petri网中基本元素的映射，能够建立出包含APT攻击路径的APT攻击模型。映射关系见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/639235dbbadbf0003e91ebb232138b10923919e61fdc572a7ba78fc82a680194.jpg",
+        "table_caption": [
+            "表1基本元素映射关系"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Petri网</td><td>APT攻击</td></tr><tr><td>库所</td><td>攻击者资源以及攻击目标状态</td></tr><tr><td>变迁</td><td>攻击手段</td></tr><tr><td>有向弧</td><td>攻击状态转换</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "APT攻击的Petri 网模型是一个九元组APTPN（advancedpersistentthreatpetrinets），公式形式记为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "APTPN $\\mathbf { \\bar { \\rho } } = \\mathbf { < P }$ ，T，F，W，L，G，t，H，K>其中：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { P = \\{ P i j | i = 0 , 1 , 2 , \\cdots , 6 ; j = 0 , 1 , 2 , \\cdots , N \\} }$ ，库所集。一个库所包含两个部分，一是攻击目标当前状态，二是攻击者获得资源。表示为二元组的形式，即 $\\mathrm { \\ P i j { = } { < } S i j , \\mathrm { V i j { > } } }$ ，且 $\\scriptstyle \\mathrm { S i j = \\{ a j | j = 1 , 2 , \\cdots , n \\} }$ 、$\\mathrm { V i j = \\{ a i | i = 1 , 2 , \\cdots , n \\} }$ ，aj是主机与初始状态相比，发生改变的资源编号；ai是攻击发起方获得的资源编号。当攻击目标是一台主机时，其攻击目标状态即为该主机状态。同时，i为所处阶段编号，j为所处子阶段编号。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "库所分为主库所及辅助库所两类。通常APT攻击不是单个攻击源的动作，而是由多个攻击源共同完成的合作攻击，辅助库所用来表示由其他攻击源完成的对其主库所之后的变迁的补充。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，针对APT攻击的阶段性特点，将模型根据上述阶段进行划分，在每个阶段或子阶段的开始及结束均有一个库所节点，用于标志其开始状态及结束状态。APT攻击模型中的库所含义见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4329d532bfda7dbedd523712753d75e7489bf252110124a46104ae928b6fbf0c.jpg",
+        "table_caption": [
+            "表2库所含义及对应关系"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">库所P</td><td colspan=\"2\">库所含义</td></tr><tr><td>S（攻击目标当前状态)</td><td>V (攻击者获得资源)</td></tr><tr><td>P0</td><td>S0，攻击受害方的初始状 态。</td><td>V0=0</td></tr><tr><td>P11</td><td>无变化，S0</td><td>V11={al(生活习惯),a2(常用社 交网络),a3(电话号码),a4(邮箱</td></tr><tr><td>P12</td><td>无变化，S12=S11=S0</td><td>账号)..} V12={V11,al(存活主机),a2(开</td></tr><tr><td></td><td></td><td>放端口),a3(可利用漏洞)..</td></tr><tr><td>P1</td><td>无变化，S1==S0</td><td>V1={V11,V12,}</td></tr><tr><td>P21</td><td>无变化，S21=S1==S0</td><td>V21={V1,a1(制作好的包含恶</td></tr><tr><td>·</td><td></td><td>意程序的工具),…} ·</td></tr><tr><td>P2</td><td>有变化，S2={al=(下载并</td><td>V2={V21,}</td></tr><tr><td></td><td>安装恶意工具)} 有变化，S31={S2,a1=（下 P31载并安装恶意程序),a2=(脆</td><td>V31={V2,a1={攻击入</td></tr><tr><td></td><td>弱节点暴露)..} 有变化，S32={S31,al=(启</td><td>□},a2={脆弱节点}}</td></tr><tr><td>P32</td><td>动项被修改),a2=(管理员密 码被修改),a3=(注册表被修</td><td>V32={V31,a1=(后门),a2=(当前 管理员密码),a3=(远程服务端</td></tr><tr><td></td><td>改),a4=(被设置后门)..)</td><td>口号)…}</td></tr><tr><td>P3</td><td></td><td></td></tr><tr><td></td><td>无变化，S3={S32,}</td><td>V3={V32,}</td></tr><tr><td>P41</td><td>有变化，S3={S3,al(c1 服</td><td>V41={V3,al(c2服务器),a2(主 机中文档信息),a3(主机系统关</td></tr><tr><td></td><td>务器),}</td><td>键信息)…}</td></tr><tr><td>： P4</td><td></td><td></td></tr><tr><td></td><td>无变化，S4={S41…}</td><td>V4={V41,}</td></tr><tr><td>P51</td><td>有变化，S51={S4,al={信</td><td>V51={V4,al={重要信</td></tr><tr><td></td><td>息丢失},a2={信息加</td><td>息},a2={主机权限},}</td></tr><tr><td></td><td>密},a3={权限更改},}</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>P5</td><td>无变化，S5={S51…}</td><td>V5={V51,…}</td></tr><tr><td></td><td></td><td></td></tr><tr><td>P61</td><td>有变化，S61=S0</td><td>V61={V5}</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>：</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>·</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>P6</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>无变化，S6={S61…}</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td>V6={V61}</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { T } } { = } \\{ \\mathrm { T i j k } | { \\mathrm { i } } { = } 0 , 1 , 2 , { \\cdots } , 6 ; { \\mathrm { j } } { = } 1 , 2 , { \\cdots } { \\mathrm { , } } { \\mathrm { M } } ; { \\mathrm { k } } { = } 1 , 2 , { \\cdots } { \\mathrm { , } } { \\mathrm { M } } ^ { \\prime } \\ \\}$ ，变迁集。变迁是对当前APT攻击阶段中攻击方法的描述。变迁采用三位编号的形式，第一位为所处阶段编号、第二位为所处子阶段编号、第三位为所处变迁位置编号。具体见表3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9ea143d5116dec20390afc73499a3a8a39f722f68f421ca9ed2e39ac2ac80a9.jpg",
+        "table_caption": [
+            "表3变迁含义及对应关系"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">攻击阶段</td><td colspan=\"2\">攻击意图及主要行为</td><td colspan=\"4\">变迁编号及对应攻击方法</td></tr><tr><td>主要行为</td><td>攻击意图</td><td>变迁编号</td><td>攻击方法</td><td>变迁编号</td><td>攻击方法</td></tr><tr><td rowspan=\"2\">目标扫描阶段1</td><td>收集攻击目标的社会工程学信息</td><td rowspan=\"2\">搜索、欺骗等</td><td>T111</td><td>人肉搜索</td><td>T112</td><td>社交网络</td></tr><tr><td></td><td>T113</td><td>网络钓鱼</td><td>T114</td><td>反向社工</td></tr><tr><td rowspan=\"4\">目标扫描阶段2</td><td>进一步收集目标网络的配置信</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>息、拓扑结构等，以及系统用户</td><td>扫描、嗅探等</td><td>T121</td><td>端口扫描</td><td>T122</td><td>代码分析</td></tr><tr><td></td><td></td><td>T123</td><td>SQL 语句探测</td><td>T124</td><td>Ping 存活主机</td></tr><tr><td>的个人资料</td><td></td><td>T125</td><td>网络爬虫</td><td></td><td></td></tr><tr><td rowspan=\"2\">工具定制与投递</td><td>针对搜集目标信息制定攻击计</td><td>水坑、钓鱼等</td><td>T211</td><td>用户习惯</td><td>T212</td><td>钓鱼网站</td></tr><tr><td>划、定制攻击工具、定向投递</td><td></td><td>T213</td><td>水坑网页</td><td>T214</td><td>恶意邮件</td></tr><tr><td rowspan=\"2\">潜伏提权阶段1</td><td>发现目标的脆弱节点，侵入目标下载程序、打开端口</td><td></td><td>T215</td><td>外接木马</td><td>.</td><td></td></tr><tr><td>系统，传播恶意程序</td><td>等</td><td>T311</td><td>横向移动</td><td>T312</td><td>下载恶意程序</td></tr><tr><td rowspan=\"2\">潜伏提权阶段2</td><td></td><td></td><td>T313 T321</td><td>打开远程服务</td><td></td><td></td></tr><tr><td>深入入侵目标节点，稳定侵入状搭建后门、修改系统</td><td></td><td>T323</td><td>修改密码</td><td>T322</td><td>修改启动项</td></tr><tr><td rowspan=\"2\"></td><td>态，帮助攻击者下一步攻击</td><td>状态等</td><td>T325</td><td>变更角色组 预置后门</td><td>T324</td><td>修改注册表</td></tr><tr><td>进入到攻击目标，查询所需信</td><td>命令执行，数据回传</td><td>T411</td><td>回传数据</td><td>T412</td><td></td></tr><tr><td rowspan=\"2\">通信控制阶段</td><td>息，与攻击者远程通信</td><td></td><td>T413</td><td>远程执行指令</td><td>…</td><td>流量异常</td></tr><tr><td></td><td></td><td>T511</td><td>回传数据</td><td>T512</td><td>加密数据</td></tr><tr><td rowspan=\"2\">目标达成阶段</td><td>完成任务</td><td>窃密、破坏</td><td>T513</td><td>删除文件</td><td>T514</td><td>修改权限</td></tr><tr><td></td><td></td><td>T515</td><td>破坏内网主机</td><td></td><td></td></tr><tr><td rowspan=\"3\">撤收维护阶段</td><td></td><td></td><td>T611</td><td>销毁攻击工具</td><td>T612</td><td>擦除入侵痕迹</td></tr><tr><td>防止被溯源、方便下一次攻击</td><td>清除痕迹</td><td>T613</td><td>覆盖攻击数据</td><td>T614</td><td>删除日志记录</td></tr><tr><td></td><td></td><td>T615</td><td>淹没内存</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { F = \\{ F i | i { = } c o u n t ( P x T , \\Delta \\ T x P ) \\} }$ ，有向弧集。 $\\mathbf { p } _ { \\mathrm { x T } }$ 表示P是T的前驱库所； $\\mathrm { T x P }$ 表示 $\\mathrm { ~ \\bf ~ P ~ }$ 是 $\\mathrm { ~ T ~ }$ 的后继库所，同时集合中元素个数小于 $\\mathbf { M } ^ { * } \\mathbf { N }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { W } } { \\mathrm { : F } } { \\mathrm { \\to Q } }$ ，权重函数。其中Q为有理数集，即W是有向弧F 对有理数集的映射函数，取值表示有向弧的权重，是一个权值函数。表示为 $\\scriptstyle \\mathrm { W = [ W i j ] N x M }$ ，其中 $\\mathrm { { \\bf N = } } | \\mathrm { { \\bf P } } |$ ， $\\scriptstyle \\mathbf { M } = \\left| \\mathrm { T } \\right|$ ，则",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { G } { : } \\mathrm { G } { \\to } \\mathrm { P x } \\mathrm { T }$ ，取值为{0,1}，变迁触发条件。对于每一个变迁，该值由其前驱库所的状态决定，当前驱库所的状态满足触发条件，则其取值为1，表示该变迁可以完成；否则为0，继续等待前驱库所的状态变化。若其前驱库所不唯一，存在辅助库所且$\\scriptstyle { \\mathrm { L = A N D } }$ 时，需当主库所及辅助库所的状态同时满足触发条件时，取值为1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\scriptstyle \\mathrm { t = \\{ t i j k | i = 0 , 1 , 2 , \\cdots , 6 ; j = 1 , 2 , \\cdots , M ; k = 1 , 2 , \\cdots , M ^ { \\prime } \\} }$ ，变迁持续时间。描述从开始到结束所经历的时间，开始时刻定义为其前驱库满足变迁函数的时刻，结束时刻为其后继库所发生状态转移的时刻。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $w ( T _ { \\mathrm { i } } , P _ { j } )$ 、 $w ( P _ { i } , T _ { j } )$ 为弧标注值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于辅助库所来说，辅助库所的W矩阵表示方法是在W矩阵中添加列向量 $\\mathrm { P r }$ ，表示一个变迁是否有辅助库所。若有则为1；没有则为0。对于为1的矩阵元素，建立其辅助库所关联矩阵 $\\mathbf { \\Delta } \\mathrm { w } ^ { \\prime }$ ，其中W’的定义方法与W一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { L = \\{ A N D , ~ O R \\} }$ ，库所间逻辑关系集。能够描述当某一变迁的完成需要辅助库所时的库所间关系。且取值为AND时，表示当前两库所相互依赖，只有同时满足触发条件后，才可进行下一步操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$H = \\{ \\mathrm { H i j } | \\mathrm { i = 0 , } 1 , 2 , \\cdots , 6 ; \\mathrm { j = 1 } , 2 , \\cdots , \\mathrm { M ; k = 1 } , 2 , \\cdots , \\mathrm { M ^ { \\prime } \\Sigma \\} }$ ，为变迁命题集。用来对变迁的状态进行判定， $\\mathrm { H } \\to \\{ 0 , 1 \\}$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { K = \\{ K i j | i = 0 , 1 , 2 , \\cdots , 6 ; j = 0 , 1 , 2 , \\cdots , N \\} }$ ，库所命题集。用来对库所的状态进行判定， $\\mathrm { K } \\to \\{ 0 , 1 \\}$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "APT攻击的Petri网模型的图形式见图2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3模型分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于Petri网的分析，主要分析其性质，包括有界性、安全性、活性、守恒性、可达性以及覆盖性[12]。分析方法包括可达树及可达图。周建涛等人[14]证明可达图相较于可达树在Petri网的活性及可达性分析上具有优势。图3是APT攻击的Petri网",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模型的可达图。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0278216e74a29c40d48b02d07e715502f24d43afc971ccbbaf8e3598b0493b39.jpg",
+        "img_caption": [
+            "图2APT攻击的Petri网模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/befcb9b414f49f19e04fede37cdeaf2862173a4d11abc287839695429388a741.jpg",
+        "img_caption": [
+            "图3APT攻击的Petri网模型的可达图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图4模型构建框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "APT攻击的Petri网全模型是一个通用的模型，针对不同的 APT攻击来说，其具体模型存在差异。对于一次APT攻击来说，其从攻击开始到攻击完成是在有限的攻击步骤内完成的，虽然对于某一个具体APT攻击的攻击步骤数量不同，但模型在库所和变迁的数量上均有界，不是无限的，因此，APT攻击的Petri 网模型可以处理模型中组合爆炸的问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在模型中，库所状态的转换是通过变迁触发完成的，其托肯值表示当前库所状态是否满足可以触发变迁的状态，其取值只有0和1两种，因而符合安全性的判定条件，所以APT攻击的Petri网模型满足安全性及有界性。同时，在该模型中，变迁是由攻击方式决定的，只有攻击发生，其变迁存在，由变迁发生变换的库所存在，因而模型不存在不可达的库所节点，模型具有可达性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模型构建的过程是一个动态过程。现有的建模技术，其生成的攻击模型具有自限性，当出现变种攻击或新的攻击行为时，模型中缺乏应对方法。而基于Petri网生成的 APT攻击模型是对其现有APT攻击中使用的攻击手段等进行整理，整合现有APT攻击特点建立的，因而模型的构建应能够动态调整，当出现新的APT攻击行为时，模型能够自适应地进行加入、融合或丢弃。图4是模型构建框架。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "构建过程是：首先通过现存的APT报告、漏洞信息以及其他攻击信息生成基础的攻击数据库、漏洞数据库以及方式数据库；然后根据基础的三大数据库构建APT攻击模型；最后当有新的信息被发现并被收集时，依据类别判断其是否在基础数据库中。如果在，则丢弃该条信息；若不在，则将该信息加入到模型中，同时更新数据库。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "攻击数据库是包含APT报告在内的能够反映一次APT攻击完整信息的数据库。在该数据库中包含是APT组织名称、APT报告附件、提取的APT攻击特征三个部分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "漏洞数据库则依托于CVE（commonvulnerabilitiesandexposures）等漏洞数据库建立，但其内容上只包含APT攻击中利用的漏洞。这可能存在两种情况：a)漏洞已知，对于已知的漏洞利用，则根据从CVE中查询到的信息输入到漏洞数据库中；b)漏洞未知，若 APT攻击使用的是0day 漏洞或尚未披露的漏洞，则根据截获到的样本以及报告等将漏洞名称、利用方式、危害程度输入到漏洞数据库中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "方式数据库中的主要内容是 APT攻击中的TTPs（tactics、techniques&procedures）特征，是攻击者的攻击方式及攻击手法的表示。以APT攻击中的阶段性特点对TTPs特征进行区分，方式数据库中包含攻击者各个阶段表现出的TTPs特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在模型应用方面，该模型能够有利于对于APT攻击的检测和预测。在检测上，图5所示的元模型的应用中，通过引入信息集 $\\{ { \\mathrm { A l e r t } } _ { 1 } , { \\mathrm { A l e r t } } _ { 2 } , . . . { \\mathrm { A l e r t } } _ { \\mathrm { i } + \\mathrm { X } } \\}$ ,可利用模糊判别法[14]或构建逻辑表达式法[15]或专家系统来判定模型中某一库所 $\\mathrm { \\mathbf { P } _ { X } }$ 是否已发生或发生的概率 $\\mathrm { P } ( \\mathrm { P _ { X } } )$ ，进而通过已判定完成的多个库所来判定包含在库所在内的APT攻击是否发生。在预测上，根据判定的已发生库所，能够在模型中找到该库所的一个或多个后继变迁$\\mathrm { T _ { x + i } }$ ，通过识别这些变迁所表示的攻击手段，能够为安全工作者提供预判，以便于提前部署，主动防御。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf7deed4b051b62ed7a4af9587d5904586780cdd1f2efa83d718b95918330f06.jpg",
+        "img_caption": [
+            "图5APT攻击的Petri网元模型的应用"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 APTPN模型生成算法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一条APT攻击路径是指由攻击元路径组成的序列，记为：{(P0,T1,P1)， (P1,T2,P2), … ,(Pi,Tj,Pi+1), $( \\mathrm { P i } { + } 1 , \\mathrm { T j } { + } 1 , \\mathrm { P i } { + } 2 ) \\cdots$ ，$( \\mathrm { P i { + } d , T j { + } d , P i { + } d { + } l ) } \\}$ 。其中(Pi,Tj,Pk)为攻击元路径，Pi与Tj连通，Tj与 $\\mathrm { P i } { + } 1$ 连通。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当Pk为撤收完成节点时，此时攻击路径为一条完整的攻击路径。即从攻击起点一目标选定开始到攻击终点一撤收完成结束的一系列攻击元路径组成的序列。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "例如图3中的红色路径即表示一条完整的APT攻击路径，可表示为：{(P0,T111,P11)，(P11,T121,P1）,(P1,T211,P2),(P2,T311,P31)，(P31,T321,P3)，(P3,T411,P4)，(P4,T511,P5),(P5,T611,P61)} 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1算法基本思想",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "算法的目的是给定库所和变迁，生成库所与变迁之间的有向弧关系，进而生成一条完整的APT攻击路径，最后建立完整的针对某一具体APT攻击的APTPN模型。算法主要分成三个部分：一是信息预处理，生成连通序列集、变迁序列集以及库所序列集；二是逻辑推理攻击元序列集；三是攻击路径生成。算法的基本思路图如图6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "连通序列由多个连通元序列组成。连通序列可描述目标网络中主机间连通情况，记为$\\{ < \\mathrm { S I P 1 , D I P 1 , 1 > , < S I P 2 , D I P 2 , 1 > , \\cdots , < S I P n , D I P n , 1 > } \\}$ 。其中：<SIPi,DIPi, $1 >$ 为连通元序列。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/31b47ca1246867fd1353eda448e5859737d4906792d75799277536a17e8b06a1.jpg",
+        "img_caption": [
+            "图6基于Petri网模型的APT攻击路径生成算法基本思想"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "连通元序列是指，当源主机可向目的主机发送数据包时，称源主机与目的主机连通。记为<SIP,DIP，Flag>。其中：SIP为源IP。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DIP 为目的IP。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Flag为标志位，当为1时，表示该元序列为连通元序列。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过该连通序列可以很好地描述主机之间的连通情况。该序列是基于网络拓扑图、存活主机信息、防火墙配置等相关信息建立的，通过对上述信息的整合生成能够描述现行网络环境的连通性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "变迁序列由多个变迁元序列组成。变迁序列可描述变迁发生前后库所状态变化，记为 $\\{ < \\mathrm { I P } 1 , \\mathrm { P } 0 1 , \\mathrm { P d } 1 , \\mathrm { T } 1 , 2 >$ ，<IP2,P02,Pd2,T2,2>，·… $< \\mathrm { I P n , P 0 n , P d n , T n , 2 } > \\}$ 。其中<IPi,POi,Pdi,Ti $2 >$ 为变迁元序列。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "变迁元序列是指，当变迁发生的主机库所状态达到P0 时，变迁T可发生,且发生后,库所状态为Pd,记为<P0,Pd,T,Flag>。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "P0为变迁发生的起点库所。  \nPd为变迁结束时的终点库所。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "T为变迁名称。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Flag为标志位，当为2时，表示该元序列为变迁元序列。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过该序列能够描述变迁发生的前提条件和结果状态。该序列的生成是基于漏洞数据库和变迁数据库实现的，其中漏洞数据库主要描述主机存在漏洞的相关信息，而变迁数据库是基于APT攻击的Petri网模型的变迁构建的，通过对这两个数据库的信息提取以及主机脆弱性和可能采取的攻击方式的匹配即能得到描述一次变迁的变迁序列。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "库所序列由多个库所元序列组成。库所序列可描述目标网络中各个主机当前库所状态，记为 $\\displaystyle \\{ < \\mathrm { I P } 1 , \\mathrm { P l }$ ， $3 >$ ，<IP2,P2,$3 >$ ，… ${ , < } \\mathrm { I P n } ,  { \\mathrm { P n } } , 3 { > } \\rbrace$ 。其中<IPi,Pi, $^ { 3 > }$ 为库所元序列。库所元序列是指，主机IP 当前的库所状态为P，记为 $\\scriptstyle < \\mathrm { I P , P }$ ，Flag>。其",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中：IP为主机IP。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "P 为该IP当前库所。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Flag 为标志位，当为3时，表示该元序列为库所元序列。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "攻击元路径是通过推理得到的，表示当源IP的库所状态为P0 时，变迁T发生，且导致目的IP的库所状态转换成Pd，并称源IP与目的IP 通过变迁T可达，记为<SIP,DIP,PO,Pd,T,Flag>。其中：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SIP为起点IP。  \nDIP 为终点IP。  \nP0 为起点IP的库所。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Pd 为终点IP的库所。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "T 为变迁名称。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Flag为标志位，当为4时，表示为攻击元路径。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在逻辑推理器中共存在七种推理。对于路径中出现的前驱库所、变迁以及后继库所，若相同记为0，不同记为1。根据排列组合规律，共有 $2 3 = 8$ 种组合方式，分别为000、001、010、011、100、101、110、111。而000与111表示同一种情况，因此共有七种逻辑关系。图7是七种库所及变迁因果关系，分别是：",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f5ba81fd23ba063efdd48eb1aa511a114f2a239ecf1e3a4ac30f606374502e8.jpg",
+        "img_caption": [
+            "图7基于Petri网模型的APT攻击路径生成算法基本思想"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同时，观察上述七种推理关系，可得到四种库所及变迁关系类型（图8)，即：",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/647e89f64a6f53974047692e4f9bcaf5a4e5da05fc6ebd0e7b7918782ea1a711.jpg",
+        "img_caption": [
+            "图8 $\\scriptstyle { \\mathrm { L = A N D } }$ 的四种库所与变迁节点的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（a）一个库所可有多个后继变迁。一个系统状态节点后可能有多种攻击手段节点，通常在APT攻击中，某一系统状态下攻击者为达到下一攻击目标可使用的攻击方式不只一种，即在一个库所下可能有多个变迁。当其中一个变迁完成时，系统状态发生相应改变到一个库所节点，又会有多个变迁节点在其之",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "后。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(b)一个变迁可有多个后继库所。一个攻击手段完成之后，可能有多个系统状态同时发生改变。例如，在暴力破解密码成功后，由于设密码时产生的惯性思维，受害者可能对不同主机或系统设置相同的密码，所以其破解得到的密码可不只匹配到一台主机或系统，即一个变迁发生后，可有多个库所状态发生改变。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（c）一个变迁可有多个前驱库所。一个攻击手段的完成可能不止需要一个系统状态，在APT攻击中，一个攻击任务的完成往往不是由单个人或组织完成的，而是由多个攻击源之间共享资源，分工合作完成的，因而一个变迁可能对应的前驱库所不止一个。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（d）一个库所可有多个前驱变迁。一个库所节点的状态变化可能需要由多个变迁同时发生才能达到触发条件。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在逻辑推理器中存在的其中推理如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/afa17d7e8190c9ee4d3caafafedf6c504cc0d9a1b79a0f15d0505c5a80a41889.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>推理1：001</td><td>推理2：010</td><td>推理3：011</td><td>推理7：000,111</td></tr><tr><td>前提：</td><td>前提：</td><td>前提：</td><td>前提：</td></tr><tr><td><IP1,IP2,1>,<IP1,IP3,1></td><td><IP1,IP2,1></td><td><IP1,IP2,1>,<IP1,IP3,1></td><td><IP1,IP2,1></td></tr><tr><td><P1,P2,T1,2>,<P1,P3,T1,2></td><td><P1,P2,T1,2>,<P1,P2,T2,2></td><td><P1,P2,T1,2>,<P1,P3,T2,2></td><td><P1,P2,T1,2></td></tr><tr><td><IP1,P1,3></td><td><IP1,P1,3></td><td><IP1,P1,3></td><td><IP1,P1,3></td></tr><tr><td>结果：</td><td>结果：</td><td>结果：</td><td>结果：</td></tr><tr><td><IP1,IP2,P1,P2,T1,4></td><td><IP1,IP2,P1,P2,T1,4></td><td><IP1,IP2,P1,P2,T1,4></td><td><IP1,IP2,P1,P2,T1,4></td></tr><tr><td><IP1,IP3,P1,P3,T1,4></td><td><IP1,IP2,P1,P2,T2,4></td><td><IP1,IP3,P1,P3,T2,4></td><td>Null</td></tr><tr><td>L=AND</td><td>L=AND</td><td>L=AND</td><td>L=OR</td></tr><tr><td>推理4：100</td><td>推理5：101</td><td>推理6：110</td><td></td></tr><tr><td>前提：</td><td>前提：</td><td>前提：</td><td></td></tr><tr><td><IP1,IP2,1>,<IP3,IP2,1></td><td><IP1,IP2,1>,<IP3,IP4,1></td><td><IP1,IP2,1>,<IP3,IP2,1></td><td></td></tr><tr><td><P1,P2,T1,2>,<P3,P3,T1,2></td><td><P1,P2,T1,2>,<P3,P4,T1,2></td><td><P1,P2,T1,2>,<P3,P2,T2,2></td><td></td></tr><tr><td><IP1,P1,3>,<IP3,P3,3></td><td><IP1,P1,3>,<IP3,P3,3></td><td><IP1,P1,3>,<IP3,P3,3></td><td></td></tr><tr><td>结果：</td><td>结果：</td><td>结果：</td><td></td></tr><tr><td><IP1,IP2,P1,P2,T1,4></td><td><IP1,IP2,P1,P2,T1,4></td><td><IP1,IP2,P1,P2,T1,4></td><td></td></tr><tr><td><IP3,IP2,P3,P2,T1,4></td><td><IP3,IP4,P3,P4,T1,4></td><td><IP3,IP2,P3,P2,T2,4></td><td></td></tr><tr><td>L=AND</td><td>L=AND</td><td>L=AND</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同时，APT攻击分为窃密型攻击及破坏型攻击两种。以窃密型攻击为例，若攻击者的攻击目标是位于目标主机上的秘密信息 $\\{ \\mathrm { M } \\}$ ，则初始时的库所状态应为 ${ \\mathrm { < S , } } \\delta \\mathrm { > }$ ，而攻击任务达成时的库所状态应为 $\\mathrm { | { < S - \\{ M \\} , \\{ M \\} > } }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最后，通过对攻击元路径集的深度优先遍历，即可得到完整的 APT 攻击路径。2.2算法设计与实现算法伪代码如下：//信息获取函数，输入是（连通信息表，漏洞信息表，端口信息表，地址信息表)INS(thrs,vuls,pors,ips){第一步：从地址信息表中未每一个地址以ip 作为表头，新建一个空链表;第二步：将表头的指针域指向输入信息中，以该ip 为起点可达的终点ip;将该连通信息从连通信息表中删去；计数器1加1;If 连通信息表中关于该ip 的信息为空更改表头ip，返回第二步；Else if 连通信息表为空转到第三步；Else返回第二步第三步：将当前指针域指向表头ip 的漏洞信息；并将该条信息从漏洞信息表中删去；计数器2加1；If 漏洞信息表中关于该ip 的信息为空更改表头ip，返回第三步；Else if 连通信息表为空转到第四步；Else返回第三步第四步：将当前指针域指向表头ip 的端口信息；并将该条信息从端口信息表中删去；计数器3加1；If 端口信息表中关于该ip 的信息为空更改表头ip，返回第四步；Else if 端口信息表为空返回链表计数器1,2,3的值;Else返回第四步}//序列生成函数，输入是信息获取阶段生成的链表SEQ(L){第一步：取出链表中从表头开始的第一个指针到计数器1个指针所指的地址与表头生成连通序列：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第二步：取出链表中从计数器加1到计数器加计数器2个",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "指针所指的漏洞编号与表头生成变迁序列；从变迁数据库中补  \n充其他变迁序列；第三步：构建库所序列矩阵；}//路径生成函数SFSO{第一步：判断当前库所序列、变迁序列以及连通序列中的  \n元素的推理情况编号；第二步：依据当前推理编号推理出攻击元序列;第三步：深度优先遍历攻击元序列集，得到攻击路径；}",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3算法分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "算法主要包括三个函数，即信息获取函数、序列生成函数、路径生成函数。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "信息获取包括连通信息、漏洞信息、端口信息以及地址信息。在存储形式上，算法采用链表的形式进行存储，即每一个主机及服务器（以下简称脆弱节点）单独形成一个链表。表头是脆弱节点的地址信息，后面则依次链接该脆弱节点可以访问的其他节点地址、该脆弱节点自身的漏洞编号、该脆弱节点自身开放的端口号。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "序列生成包括连通序列、变迁序列及库所序列的生成。对于连通序列，从表头开始后的第二个单元取地址与表头形成连通序列。对于变迁序列，链表中存储的只包含漏洞信息，而实际的变迁还应包括目标扫描等阶段的信息，这部分的信息从变迁数据库中获取。库所序列与连通序列和变迁不同，库所序列是随着变迁的发生而逐渐变化的，因而构建库所序列矩阵。库所序列矩阵的行向量为脆弱节点，列向量为单一变迁，矩阵中的单个元素表示该脆弱节点在当前变迁发生之后的后继库所状态。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "路径生成是算法的核心部分，该部分主要依据上文中的七个推理，对库所及变迁可能存在的七种关系生成攻击元路径。其核心是应用IF语句的判断。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "算法的时间复杂度主要在序列集遍历上，采用深度优先遍历，若采用邻接表作为存储形式，则其时间复杂度为( $| \\mathrm { V } | { + } | \\mathrm { E } | )$ 若采用邻接矩阵作为存储形式，其时间复杂度为e（ $| \\mathrm { \\mathbf { V } } | ^ { 2 }$ )。而对于 APTPN 模型来说，遍历的是攻击元路径序列，其中模型的顶点数量即是库所序列中库所的数量6N，边的数量即是变迁序列中变迁的数量6MM'。因此，算法的时间复杂度可以控制在日 $( \\mathsf { N } ^ { 2 }$ ）以内，即O $( \\mathsf { N } ^ { 2 }$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 模拟实验及结果分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1 实验设计",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "模拟实验的目的是检验APTPN模型生成算法的有效性及正确性。实验采取模拟已知的APT攻击一一谷歌极光攻击来搭建实验局域网。通过使用模型生成算法生成该实验局域网的",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "APTPN模型，验证算法的有效性。并通过将生成的APTPN模型与真实的极光攻击作对比，验证算法的正确性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于APT攻击具有针对性、持续性，当选定一个攻击目标后，攻击者会采取各种手段，不计成本地对其展开攻击。因此，实验的攻击目标与极光攻击的攻击目标一一邮件服务器一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/910c6321e0ab07fa003b841966aeb8ca499d9a5ce5ccc2c8d0486c7aa43686fb.jpg",
+        "img_caption": [
+            "图9模拟极光攻击搭建局域网"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验模拟谷歌极光攻击，搭建如图9所示的局域网，各主机均建立在虚拟机上运行。为更加接近真实的网络情况，采用虚拟机桥接模式模拟DMZ区中主机，采用虚拟机NAT模式模拟子网1，采用虚拟机Host-only模式模拟子网2及子网3。本实验的攻击目标是子网2中的邮件服务器。具体的实验配置见表4。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f05d3733da83d6e04341cb53528828e382feaa458dcfc7e41fcf1e8c4be2126.jpg",
+        "table_caption": [
+            "表4实验中使用主机及服务器配置情况"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主机名称</td><td>网络模式</td><td>主机IP</td><td>操作系统</td><td>编号</td></tr><tr><td>WEB服务器</td><td>直连主机</td><td>192.168.42.88(DHCP)</td><td>Apache 2.4.2</td><td>H1</td></tr><tr><td>后台服务器</td><td>桥接模式</td><td>192.168.42.111（DHCP)</td><td>Win Server2003 SP2</td><td>H2</td></tr><tr><td>FTP服务器</td><td>NAT模式</td><td>192.168.193.129(DHCP)</td><td>Win 2000 HFS Server</td><td>H3</td></tr><tr><td>主机1</td><td>NAT模式</td><td>192.168.193.130(DHCP)</td><td>Win XP SP3</td><td>H4</td></tr><tr><td>邮件服务器</td><td>Host-only 模式</td><td>192.168.117.222（手工）</td><td>Win XP SP3</td><td>H5</td></tr><tr><td>主机2</td><td>Host-only 模式</td><td>192.168.117.111(手工)</td><td>Win XP SP3</td><td>H6</td></tr><tr><td>主机3</td><td>Host-only 模式</td><td>192.168.120.111（手工）</td><td>Win 7 SP2</td><td>H7</td></tr><tr><td>主机4</td><td>Host-only 模式</td><td>192.168.120.222（手工）</td><td>Win XP SP3</td><td>H8</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于实验中虚拟机的NAT 模式只能设置一次，所以其他子网只能采用Host-only 模式。而同时Host-only 模式无法实现各子网间的连通，进而无法更加准确地模拟真实的网络环境。为解决上述问题，实验在子网1与2之间以及子网2与3之间设置网关，以实现子网间的连通。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以子网2与3之间的网关为例。实验中网关设置包括两个部分，一是为网关添加两个网卡，并设置IP及网关地址；二是打开路由转发服务并设置路由转发规则。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2 实验内容",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "首先获取实验局域网中的连通情况。局域网中的主机及服务器连通情况如下：局域网中Web服务器可以访问子网1中的主机1；网1中的FTP服务器可以访问子网2及3中的主机及服务器，同时可以访问子网1中的主机1；网2中的主机2可以访问邮件服务器及主机3、4；子网3中的主机3可以访问主机4；主机1、FTP服务器、主机2及3可以访问Web 服务器和后台服务器。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "然后获取实验局域网中的漏洞扫描结果。实验环境中能够探测到的漏洞多于表5所示的漏洞，表5中所示漏洞仅包含实验所利用的漏洞。其中条件列仅写出最低权限，而结果列仅写出最高权限。例如，若条件是外部用户，则User及Root权限时，条件也满足；若结果是root，则结果也可达外部用户及User权限。其中权限关系为递进关系，即外部用户<User<Root。根据模型中库所定义以及局域网中主机及服务器的漏洞情况，获取实验中所包含的库所，见表6。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据局域网中的漏洞列表、APT攻击的流程特点以及模型中的变迁定义，获取实验中的变迁及其前驱和后继库所，见表7。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/3150d108151617216fa2b19df1fdf43ed0af7988f2897733358dfc6d5f6365b3.jpg",
+        "table_caption": [
+            "表5实验中各主机及服务器的漏洞列表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>CVE编号</td><td>漏洞信息</td><td>条件</td><td>结果</td></tr><tr><td rowspan=\"3\">H1</td><td>CVE-2013-2249</td><td>mod_session_dbd 模块安全漏洞 外部用户 Root</td><td></td><td></td></tr><tr><td>CVE-2012-2687</td><td>HTML 注入漏洞</td><td>User</td><td>Root</td></tr><tr><td>CVE-2011-3607</td><td>函数的整数溢出漏洞</td><td>User</td><td>Root</td></tr><tr><td>H2</td><td>CVE-2008-4250</td><td>服务器服务漏洞</td><td>外部用户User</td><td></td></tr><tr><td rowspan=\"2\">H3</td><td>CVE-2008-0407</td><td>认证漏洞</td><td>外部用户User</td><td></td></tr><tr><td>CVE-2014-0407</td><td>虚拟机组件漏洞</td><td>User</td><td>Root</td></tr><tr><td rowspan=\"2\">H4</td><td>CVE-2013-3940</td><td>图形设备接口整数溢出漏洞</td><td>外部用户User</td><td></td></tr><tr><td>CVE-2013-5065</td><td>内核中执行并特权提升</td><td>User</td><td>Root</td></tr><tr><td rowspan=\"2\">H5</td><td>CVE-2013-3346</td><td>执行Reader进程中的恶意代码外部用户User</td><td></td><td></td></tr><tr><td>CVE-2014-4971</td><td>内存写入数据</td><td>外部用户Root</td><td></td></tr><tr><td rowspan=\"2\">H6</td><td>CVE-2013-3196</td><td>内核特权提升漏洞</td><td>User</td><td>Root</td></tr><tr><td>CVE-2010-0249</td><td>极光攻击漏洞</td><td>外部用户Root</td><td></td></tr><tr><td rowspan=\"2\">H7</td><td>CVE-2010-1117</td><td>Explorer8堆缓冲区溢出漏洞</td><td>外部用户User</td><td></td></tr><tr><td>CVE-2015-0084</td><td>安全功能绕过漏洞</td><td>User</td><td>Root</td></tr><tr><td>H8</td><td>CVE-2012-1853</td><td>远程管理协议栈溢出漏洞</td><td>外部用户Root</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad76f50b677315707e9273295ba7b1a7133ba6ab80bba7ba993b8e0c91e3a8ee.jpg",
+        "table_caption": [
+            "表6库所含义列表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>目标状态</td><td>攻击者资源</td><td>目标状态</td><td>攻击者资源</td></tr><tr><td>P0</td><td>S0=S</td><td>V0=0</td><td></td><td>P36 S36={漏洞利用}V36={H4（User）}</td></tr><tr><td>P11</td><td>S11=S</td><td>V11={基本信息}</td><td></td><td>P37 S37={漏洞利用}V37={H4（Root）}</td></tr><tr><td>P12</td><td>S12=S</td><td>V12={社工信息}</td><td></td><td>P38 S38={漏洞利用}V38={H3（User）}</td></tr><tr><td>P1</td><td>S1=S</td><td>V1={漏洞列表}</td><td>P39 S39={漏洞利用}</td><td>V39={H3（Root）}</td></tr><tr><td>P21</td><td>S21=S</td><td>V21={恶意代码}</td><td>P3S3={漏洞利用}</td><td>V3={H6（Root）}</td></tr><tr><td>P22</td><td>S22=S</td><td>V22={服务器}</td><td>P41 S41=S3</td><td>V41={回传通道}</td></tr><tr><td>P2</td><td>S2=S</td><td>V2={钓鱼'}</td><td></td><td>P42 S42={漏洞利用}V42={H5（User）}</td></tr><tr><td></td><td></td><td>P31 S31={漏洞利用}V31={H2（User）}P4</td><td>S4=S41-{信息}</td><td>V4={信息}</td></tr><tr><td></td><td></td><td>P32 S32={漏洞利用}V32={H8（Root）}P41</td><td>S41=S3</td><td>V41={回传通道}</td></tr><tr><td></td><td></td><td>P33 S33={漏洞利用}V33={H7（User）}P5</td><td>S5=S4-{M}</td><td>V5={M}</td></tr><tr><td></td><td></td><td>P34 S34={漏洞利用}V34={H7（Ro0t）}P51</td><td>S51=S4</td><td>V51={H5（Root）}</td></tr><tr><td></td><td></td><td>P35 S35={漏洞利用}V35={H1（Ro0t）}P6</td><td>S6=S-{M}</td><td>V6={M}</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/8036f4d2e6a957456dbed77bc3f98fa03354e9075177e49df981a9d79b1b47ea.jpg",
+        "table_caption": [
+            "表7实验中变迁及变迁的前驱、后继库所列表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变迁含义</td><td>前驱库所</td><td>后继库所</td><td>变迁含义</td><td>前驱库所</td><td>后继库所</td></tr><tr><td>人肉搜索</td><td>P0</td><td>P11</td><td>CVE-2013-3940</td><td>P2 P35</td><td>P36</td></tr><tr><td>社交网络</td><td>P0</td><td>P12</td><td>CVE-2013-5065</td><td>P35P36</td><td>P37</td></tr><tr><td>漏洞扫描</td><td>P11 P12</td><td>P1</td><td>CVE-2008-0407</td><td>P2</td><td>P38</td></tr><tr><td>制造恶意代码</td><td>P1</td><td>P21</td><td>CVE-2014-0407P36 P37 P38</td><td></td><td>P39</td></tr><tr><td>伪造服务器</td><td>P1</td><td>P22</td><td>CVE-2010-0249</td><td>P2</td><td>P3</td></tr><tr><td>设置“钓鱼”</td><td>P21 P22</td><td>P2</td><td>CVE-2013-3346</td><td>P2 P3</td><td>P42</td></tr><tr><td>CVE-2008-4250</td><td>P2</td><td>P31</td><td>CVE-2014-4971</td><td>P2 P3 P42</td><td>P51</td></tr><tr><td>CVE-2012-1853</td><td>P2</td><td>P32</td><td>建立回传通道</td><td>P3</td><td>P41</td></tr><tr><td>CVE-2010-1117</td><td>P2 P32</td><td>P33</td><td>信息回传</td><td>P41</td><td>P4</td></tr><tr><td>CVE-2015-0084</td><td>P32 P33</td><td>P34</td><td>渗透进入</td><td>P4</td><td>P51</td></tr><tr><td>CVE-2013-2249</td><td>P2</td><td>P35</td><td>窃取信息</td><td>P51</td><td>P5</td></tr><tr><td>CVE-2012-2687P33 P34 P31</td><td></td><td>P35</td><td>痕迹清除</td><td>P5</td><td>P6</td></tr><tr><td>CVE-2011-3607P33 P34 P31</td><td></td><td>P35</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验结果分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根据局域网中主机与服务器的连通情况构建其连通序列，具体的连通序列见表8。然后构建实验局域网中的变迁序列。实验中设各主机及服务器的初始库所状态为 ${ < } \\mathrm { S } 0 , \\mathrm { V } 0 \\mathrm { > }$ ，且$_ { \\mathrm { S 0 = S , V 0 = 0 } }$ ，即初始情况下，各目标状态为S，攻击者获得资源为 $\\boldsymbol { \\mathrm { \\Sigma } } _ { 0 }$ 。根据实验中得到的变迁的前驱和后继表，得到变迁序列表，如表9所示。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对于库所序列，由于库所序列是随着变迁的发生而不断更新及改变的，所以为直观地描述出其由攻击开始到攻击完成的状态变化，以各主机及服务器的权限变化来体现实验中的库所变化。初始时，各主机及服务器的权限均为外部用户，随着变迁的发生，库所的状态也会发生变化，设外部用户为0，User为1，Root为2，则构建主机、服务器与变迁的权限变化矩阵，其中每一列表示在当前变迁下的各主机及服务器的权限，并且只标记发生变化的主机及服务器，对于在该变迁下未发生变化的记为0。使用模型生成算法，根据上文中的推理过程，根据生成的连通序列、变迁序列以及库所变化矩阵，生成当攻击目标为邮件服务器时的APT攻击路径，如图10所示。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在上述模拟极光攻击生成的 APTPN 模型中，共含潜在的攻击路径107条。对比真实的极光攻击，其中模型中的目标扫描阶段与真实的极光攻击完全吻合，即模型中 $\\mathrm { P 0 \\to P l }$ 的攻击过程；真实极光攻击的工具定制与投递阶段是通过伪造带有钓鱼网页的虚假服务器来向主机2发送恶意代码的，即模型中P1$\\scriptstyle  \\mathbf { P } 2 2$ 的攻击过程；真实的极光攻击的潜伏提权阶段采用的攻击路径是由外网直接攻击主机2，并经由主机2渗透进入邮件服务器，即模型中 ${ \\mathrm { P } } 2 {  } { \\mathrm { P } } 3$ 的攻击过程；通信控制阶段是通过建立SSL隧道进行信息回传的，即模型中 ${ \\mathrm { P } } 3 {  } { \\mathrm { P } } 4$ 的攻击过程;模型中的目标达成阶段与撤收维护阶段也与真实的极光攻击完全吻合，即模型中 $\\scriptstyle \\mathrm { P 4 \\to P 5 1 \\to P 5 \\to P 6 }$ 的攻击过程。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/6aa821a850eadf76749f447aa8452a4fcaf113f16bdf4e2203b3309c9ef2d5f5.jpg",
+        "table_caption": [
+            "表8连通序列表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">连通序列</td></tr><tr><td><192.168.42.88,192.168.193.130,1></td><td><192.168.117.111,192.168.120.222,1></td><td><192.168.117.111,192.168.117.222,1></td></tr><tr><td><192.168.193.129,192.168.117.222,1></td><td><192.168.120.111,192.168.120.222,1></td><td><192.168.117.111,192.168.120.111,1></td></tr><tr><td><192.168.193.129,192.168.117.111,1></td><td><192.168.193.129,192.168.42.88,1></td><td><192.168.120.111,192.168.42.88,1></td></tr><tr><td><192.168.193.129,192.168.120.111,1></td><td><192.168.193.129,192.168.42.111,1></td><td><192.168.120.111,192.168.42.111,1></td></tr><tr><td><192.168.193.129,192.168.120.222,1></td><td><192.168.117.111,192.168.42.88,1></td><td></td></tr><tr><td><192.168.193.129,192.168.193.130,1></td><td><192.168.117.111,192.168.42.111,1></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7239f45629566a4a78ca757a4a9e896cd911b46d9a8ed8dc6766cb3f8123b28.jpg",
+        "table_caption": [
+            "表9变迁序列表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">变迁序列</td></tr><tr><td><P0,P11,T111,2></td><td><P32,P33,T313,2></td><td><P35,P36,T315,2></td><td><P3,P42,T413,2></td><td><P22,P2,T221,2></td><td><P33,P35,T333,2></td></tr><tr><td><P0,P12,T112,2></td><td><P32,P34,T321,2></td><td><P35,P37,T351,2></td><td><P2,P5,T412,2></td><td><P2,P31,T311,2></td><td><P34,P35,T333,2></td></tr><tr><td><P11,P1,T121,2></td><td><P33,P34,T331,2></td><td><P36,P37,T351,2></td><td><P3,P41,T411,2></td><td><P2,P32,T312,2></td><td><P31,P35,T333,2></td></tr><tr><td><P12,P1,T121,2></td><td><P2,P35,T314,2></td><td><P2,P38,T316,2></td><td><P41,P4,T421,2></td><td><P2,P33,T313,2></td><td><P2,P36,T315,2></td></tr><tr><td><P1,P21,T211,2></td><td><P33,P34,T332,2></td><td><P36,P39,T361,2></td><td><P3,P5,T412,2></td><td><P2,P3,T317,2></td><td><P2,P3,T317,2></td></tr><tr><td><P1,P22,T212,2></td><td><P34,P35,T332,2></td><td><P37,P39,T361,2></td><td><P42,P5,T412,2></td><td><P38,P3,T362,2></td><td><P38,P3,T362,2></td></tr><tr><td><P21,P2,T221,2></td><td><P31,P35,T332,2></td><td><P38,P39,T361,2></td><td><P4,P51,T511,2></td><td><P39,P3,T362,2></td><td><P2,P42,T413,2></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/c464f1d3dd7a6eb15e0cf3db5df752cce24ba79961594680832fd54de204cc1c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>…</td><td>T221</td><td>T311</td><td>T312</td><td>T313T314</td><td></td><td>T315</td><td>T316 T317</td><td>T321</td><td>T331</td><td></td><td>T332 T333T351</td><td></td><td></td><td>T361 T362 T411 T412</td><td></td><td></td><td>T421</td><td>T511</td><td>T521</td><td>T611</td></tr><tr><td>H1.</td><td></td><td>0</td><td>0</td><td></td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>H2</td><td></td><td>0</td><td>1</td><td></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>H3</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>H4.…</td><td></td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td></td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>H5</td><td></td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td></td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>0</td><td>0</td></tr><tr><td>H6</td><td></td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>2</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>H7</td><td></td><td>0</td><td>0</td><td></td><td>1</td><td>0</td><td>0</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>H8...</td><td></td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bfdb89bc41eed804094f4b862471b5ae24e6803140800d7157d66c8648872fc.jpg",
+        "img_caption": [
+            "图10模拟极光攻击的APTPN 模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其余的攻击路径则是可能发生但却在真实的极光攻击中并未发生的攻击行为，但由于APT攻击的持续性和长期性，这些潜在的攻击路径能够为APT攻击的防御提供依据。通过在攻击发生之前，对其潜在攻击路径的防御，能够减小APT攻击的不确定性带来的危害。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "同时，在实验用内主机侧和流量侧收集相关信息，得到如表10所示的信息集。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/71836670f20f65ec1f36f770ca77e2088fe9c251da6cfcd47dcbf16fdeb3ebae.jpg",
+        "table_caption": [
+            "表10实验主机及流量侧收集信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号时间</td><td></td><td>内容</td><td>源IP</td><td>目的IP</td><td>源端口目的端口</td><td></td></tr><tr><td>1</td><td>19:32</td><td>IPsweep</td><td>192.168.42.11</td><td>192.168.117.111</td><td>443</td><td>1344</td></tr><tr><td>2</td><td>19:33</td><td>portsweep</td><td>192.168.42.11</td><td>192.168.117.111</td><td>443</td><td>1344</td></tr><tr><td>3</td><td>19:00</td><td>收到好友的邮件</td><td></td><td>192.168.42.11</td><td></td><td></td></tr><tr><td>4</td><td>19:30</td><td>访问未知 DNS 域名</td><td>192.168.117.111</td><td>192.168.42.11</td><td>80</td><td>443</td></tr><tr><td>5</td><td>19.31</td><td>浏览器溢出</td><td>192.168.42.11</td><td>192.168.117.111</td><td>443</td><td>1157</td></tr><tr><td>6</td><td>19.32</td><td>CPU 消耗异常</td><td>192.168.42.11</td><td>192.168.117.111</td><td>443</td><td>1157</td></tr><tr><td>7</td><td>21:22</td><td>未知程序执行</td><td>192.168.42.11</td><td>192.168.117.111</td><td>443</td><td>1344</td></tr><tr><td>8</td><td>21:23</td><td>注册表添加未知键值</td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>21:25</td><td>未知探测数据包发送</td><td>192.168.117.111</td><td>192.168.42.11</td><td>1344</td><td>443</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据表10中信息，可根据信息3判定此时已完成库所是P2，而P2的后置变迁在模型中包含9个为{T311,T312,T313,T314,T315,T316,T317,T412,T413}，这些变迁均可能是攻击者下一步的攻击手段。通过进一步收集信息，可由信息4、5及6判定此时已完成的库所是P3，而后置变迁只有三个为T411、T412、T413。其含义为建立回传通道和相关漏洞的漏洞利用。由此可以根据基于APTPN，以判定为已发生的库所为起点，预测攻击者下一步的攻击手段以及检测是否已发生APT攻击。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "实验中，采用的是专家系统法对库所进行判定，该方法主观性较强，而在实际工作中可利用2.3节提到的方法计算库所发生的概率，减少主观性，增加准确率和提高说服力。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文的工作包含三个部分：a)根据APT攻击特点建立基于Petri 网的APT攻击模型；b)设计APTPN 模型生成算法；c)模拟极光攻击，利用模型及模型生成算法，生成极光攻击的APTPN模型。创新点有两个：a)结合以往网络攻击的Petri网模型，设计并实现针对APT攻击的Petri网模型，通过对库所及变迁的映射，该模型能够较好地体现出APT攻击的针对性、阶段性、持续性特点；b)依据该模型，设计并实现APTPN模型生成算法，该算法能够自动生成针对特定局域网内攻击目标的APT攻击路径，并且算法复杂度可以控制在O $( \\mathsf { N } ^ { 2 }$ )。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "但是本文算法的前提是建立在同一 APT 组织的攻击目标不变的情况下，而对于不同APT组织的不同攻击目标，算法并不适用。因此，下一步的工作应着重研究模型生成算法的扩展，同时针对生成的攻击路径进行量化，预测其发生的可能性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]付钰，李洪成，吴晓平，等．基于大数据分析的APT攻击检测研究综述 [J].通信学报,2015 (11):1-14.   \n[2]张瑜，潘小明,LIUQingzhong，等.APT攻击与防御[J].清华大学学报： 自然科学版,2017,57(11):1127-1133.   \n[3]李建方，张士铎．高级可持续威胁攻击关键技术探究[J].中国传媒大 学学报：自然科学版,2016(3):51-55.   \n[4]Xiaomei Li. Research on prevention solution of advanced persistent threat [Cl//Proc of the 2nd International Conference on Software Engineering, Knowledge Engineering and Information Engineering. Singapore: Springer, 2014: 1-4.   \n[5]Murata T. Petri nets: properties,analysis and applications [J]. Proceedings of theIEEE.1989,77(4):541-580.   \n[6]Zhao Wentao,Wang Pengfei. Zhang Fan.Extended petri net-based advanced persistent threat analysis model [C]// Proc of International Conference on Computer Engineering and Network.Heidelberg:Springer,2014:1297- 1305.   \n[7]罗森林，张驰，周梦婷，等．基于时间Petri网的渗透测试攻击模型研究 [J]．北京理工大学学报.2015(1):92-96.   \n[8] 黄光球，白璐．基于对象Petri网的信任攻击建模与分析[J]．系统仿真 学报.2017(8):1702-1711.   \n[9] 吴迪，连一峰，陈恺，等．一种基于攻击图的安全威胁识别和分析方法 [J]．计算机学报.2012(9):1938-1950.   \n[10]黄永洪，吴一凡，杨豪璞，等．基于攻击图的 APT 脆弱节点评估方法 [J]．重庆邮电大学学报：自然科学版,2017(4):535-541.   \n[11]王辉，杨光灿，韩冬梅．基于贝叶斯网络的内部威胁预测研究[J].计 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "算机应用研究,2013,30(9):2767-2771.  \n[12]HutchinsEM,CloppertMJ,AminR M.LM-white-paper-intel-driven-defense [R//OL]. (2011).  \n[13]PetersonJ.Petri 网理论与系统模拟 [M].吴哲辉，译.徐州：中国矿业大学出版社,1989.  \n[14]周建涛，叶新铭.Petri 网的可达图与可达树的比较[J].内蒙古大学学",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "报：自然科学版,2000,31(1):117-120.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[15]张艳雪，赵冬梅，刘金星．基于模糊一隐马尔可夫模型的复合式攻击预测方法[J].电光与控制,2015(1):39-44.  \n[16]杜镇宇，李翼宏，张亮.APT样本逻辑表达式生成算法[J].计算机工程与应用,2018(1):1-10.",
+        "page_idx": 11
+    }
+]

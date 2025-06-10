@@ -1,0 +1,188 @@
+# Microscopic and self-consistent description for neutron halo in deformed nuclei
+
+Lulu Li\*, Jie Meng+\*\*, P. Ring\$,†, En-Guang Zhao  and Shan-Gui Zhou".
+
+\*Institute of Applied Physics and Computational Mathematics,Beijing lOoo94,China State Key Laboratory of Nuclear Physics and Technology, School of Physics, Peking University Beijing 100871,China   
+\*\* School of Physics and Nuclear Energy Engineering,Beihang University, Beijing lOo191,China ?Department of Physics, University of Stellenbosch, Stellenbosch, South Africa 5Physikdepartment, Technische Universitat Munchen, 85748 Garching, Germany   
+IState Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences,Beijingl00190,China   
+l Center of Theoretical Nuclear Physics, National Laboratory of Heavy Ion Accelerator, Lanzhou 730000, China
+
+Abstract. A deformed relativistic Hartree-Bogoliubov theory in continuum has been developed for the study of neutron halos in deformed nuclei and the halo phenomenon in deformed weakly bound nuclei is investigated. Magnesium and neon isotopes are studied and some results are presented for the deformed neutron-rich and weakly bound nuclei $^ { 4 4 } \mathrm { M g }$ and $^ { 3 6 } \mathrm { N e }$ .The core of the former nucleus is prolate,but the halo has a slightly oblate shape.This indicates a decoupling of the halo orbitals from the deformation of the core.The generic conditions for the existence of halos in deformed nuclei and for the occurrence of this decoupling effect are discussed.
+
+Keywords:Deformed halo,relativistic Hartree-Bogoliubov theory,continuum,Woods-Saxon basis PACS: 21.10.Gv,21.60.Jz,27.30.+t, 27.40.+z
+
+# INTRODUCTION
+
+The halo phenomenon is one of the most interesting topics in modern nuclear physics. Since most open shel nuclei are deformed, the interplay between the deformation and the weak binding feature raises interesting questions. In order to give an adequate description of possible halo in a deformed nucleus,a model should be used which includes in a self-consistent way the continuum,large spatial distributions, deformation effects,and couplings among all these features. For this purpose, a deformed relativistic Hartree-Bogoliubov theory in continuum has been developed and the halo phenomenon in deformed weakly bound nuclei is investigated.
+
+# THEORETICALFRAMEWORK
+
+# Continuum contribution and relativistic Hartree-Bogoliubov theory
+
+By solving the non-relativistic Hartree-Fock-Bogoliubov (HFB)[1,2,3] or the relativistic Hartree Bogoliubov (RHB) [4, 5,6,7, 8] equations in coordinate $( r )$ space, the mean field effects of the coupling to the continuum can be fully taken into account. With the relativistic continuum Hartree-Bogoliubov (RCHB) theory [7, 8], properties of the halo nucleus $^ { 1 1 } \mathrm { L i }$ has been reproduced quite well [4] and the prediction of giant halos in light and medium-heavy nuclei was made [9,1O,11]. The RCHB theory has been generalized to treat the odd particle system [12] and combined with the Glauber model, the charge-changing cross sections for C, N, O and $\mathrm { \Delta F }$ isotopes on a carbon target have been reproduced well [13].
+
+The Dirac Hartree Bogoliubov (RHB) equation for the nucleons reads [14],
+
+$$
+\int d ^ { 3 } { \pmb r } ^ { \prime } \left( \begin{array} { c c } { h _ { D } - \lambda } & { \Delta } \\ { - \Delta ^ { * } } & { - h _ { D } + \lambda } \end{array} \right) \left( { U } _ { k } \atop V _ { k } \right) = E _ { k } \left( { U } _ { k } \atop V _ { k } \right) ,
+$$
+
+where $E _ { k }$ is the quasiparticle energy, $\lambda$ is the chemical potential, and $h _ { D }$ is the Dirac Hamiltonian,
+
+$$
+h _ { D } ( \pmb { r } , \pmb { r } ^ { \prime } ) = \pmb { \alpha } \cdot \pmb { p } + V ( \pmb { r } ) + \beta ( M + S ( \pmb { r } ) ) .
+$$
+
+with scalar and vector potentials
+
+$$
+\begin{array} { r c l } { { S ( \pmb { r } ) } } & { { = } } & { { g _ { \sigma } \sigma ( \pmb { r } ) , } } \\ { { } } & { { } } & { { V ( \pmb { r } ) } } & { { = } } & { { g _ { \omega } { \omega } ^ { 0 } ( \pmb { r } ) + g _ { \rho } \tau _ { 3 } { \rho } ^ { 0 } ( \pmb { r } ) + e \displaystyle \frac { 1 - \tau _ { 3 } } { 2 } A ^ { 0 } ( \pmb { r } ) . } } \end{array}
+$$
+
+The equations of motion for the mesons and the photon
+
+$$
+\left\{ \begin{array} { r c l } { { \left( - \Delta + \partial _ { \sigma } U ( \sigma ) \right) \sigma ( { \pmb r } ) } } & { { = } } & { { - g _ { \sigma } \rho _ { s } ( { \pmb r } ) , } } \\ { { \left( - \Delta + m _ { \omega } ^ { 2 } \right) \omega ^ { 0 } ( { \pmb r } ) } } & { { = } } & { { g _ { \omega } \rho _ { \nu } ( { \pmb r } ) , } } \\ { { \left( - \Delta + m _ { \rho } ^ { 2 } \right) \rho ^ { 0 } ( { \pmb r } ) } } & { { = } } & { { g _ { \rho } \rho _ { 3 } ( { \pmb r } ) , } } \\ { { - \Delta A ^ { 0 } ( { \pmb r } ) } } & { { = } } & { { e \rho _ { p } ( { \pmb r } ) , } } \end{array} \right.
+$$
+
+have as sources the various densities
+
+$$
+\left\{ \begin{array} { r c l } { { \rho _ { s } ( \pmb { r } ) } } & { { = } } & { { \displaystyle \sum _ { k > 0 } V _ { k } ^ { \dagger } ( { \pmb { r } } ) \gamma _ { 0 } V _ { k } ( { \pmb { r } } ) , } } \\ { { \rho _ { \nu } ( \pmb { r } ) } } & { { = } } & { { \displaystyle \sum _ { k > 0 } V _ { k } ^ { \dagger } ( { \pmb { r } } ) V _ { k } ( { \pmb { r } } ) , } } \\ { { \rho _ { 3 } ( \pmb { r } ) } } & { { = } } & { { \displaystyle \sum _ { k > 0 } V _ { k } ^ { \dagger } ( { \pmb { r } } ) \tau _ { 3 } V _ { k } ( { \pmb { r } } ) , } } \\ { { \rho _ { c } ( \pmb { r } ) } } & { { = } } & { { \displaystyle \sum _ { k > 0 } V _ { k } ^ { \dagger } ( { \pmb { r } } ) \frac { 1 - \tau _ { 3 } } { 2 } V _ { k } ( { \pmb { r } } ) , } } \end{array} \right.
+$$
+
+where,according to the no-sea approximation, the sum over $k > 0$ runs over the quasiparticle states corresponding to single particle energies in and above the Fermi sea.
+
+In the particle-particle (pp) channel, we use a density dependent zero range force,
+
+$$
+V ^ { \mathrm { p p } } ( { \pmb r } _ { 1 } , { \pmb r } _ { 2 } ) = V _ { 0 } \frac { 1 } { 2 } \big ( 1 - P ^ { \sigma } ) \delta ( { \bf r } _ { 1 } - { \bf r } _ { 2 } ) \left( 1 - \frac { \rho ( { \pmb r } _ { 1 } ) } { \rho _ { \mathrm { s a t } } } \right) .
+$$
+
+$\scriptstyle { \frac { 1 } { 2 } } \left( 1 - P ^ { \sigma } \right)$ projects onto spin $S = 0$ component in the pairing field. The pairing potential then reads,
+
+$$
+\begin{array} { r } { \Delta ( \pmb { r } ) = V _ { 0 } \big ( 1 - \rho ( \pmb { r } ) / \rho _ { \mathrm { s a t } } \big ) \kappa ( \pmb { r } ) , } \end{array}
+$$
+
+and we need only the local part of the pairing tensor
+
+$$
+\kappa ( \pmb { r } ) = \sum _ { k > 0 } V _ { k } ^ { \dagger } ( \pmb { r } ) U _ { k } ( \pmb { r } ) .
+$$
+
+# Large spatial density distribution and the Woods-Saxon basis
+
+In order to （1） consider properly the asymptotic behavior of nuclear densities at large $r$ and (2) make the numerical procedure less complicated, the Woods-Saxon basis has been proposed in Ref.[15] as a reconciler between the harmonic oscillator basis and the integration in coordinate space. Woods-Saxon wave functions have a much more realistic asymptotic behavior at large $r$ than do the harmonic oscillator wave functions. On one hand, one can still use a large box boundary condition to discretize the continuum and easily find numerical solutions for a spherical Woods-Saxon potential in $r$ space. One the other hand, these Woods-Saxon wave functions can thus be used as a complete basis for spherical or deformed systems,and one finally comes back to the familiar matrix diagonalization problem. It has been shown that the Woods-Saxon basis can satisfactorily reproduce the large neutron density distribution in weakly bound nuclei obtained in $r$ space [15]. Recently, for spherical systems, both non relativistic and relativistic Hartree-Fock-Bogoliubov theories with forces of finite range have been developed in a Woods-Saxon basis [16,17].
+
+# Deformed relativistic Hartree Bogoliubov theory in continuum
+
+The Woods-Saxon basis can be extended to more complicated situations for exotic nuclei where both deformation and pairing have to be taken into account. Over the past years,lots of efforts have been made to develop a deformed relativistic Hartree theory [18] and a deformed relativistic Hartree Bogoliubov theory in continuum (the DefRHBC theory) [19,20,21, 22, 23].
+
+For axially deformed nuclei with the spatial reflection symmetry，we expand the potentials $S ( \pmb { r } )$ and $V ( \pmb { r } )$ in Eq. (2） and various densities in terms of the Legendre polynomials [24],
+
+$$
+f ( \pmb { r } ) = \sum _ { \lambda } f _ { \lambda } ( \pmb { r } ) P _ { \lambda } ( \cos \theta ) , \lambda = 0 , 2 , 4 , \cdots ,
+$$
+
+with an explicit definition of $f _ { \lambda } \left( r \right)$
+
+The quasiparticle wave functions $U _ { k }$ and $V _ { k }$ in Eq.(1） are expanded in the WoodsSaxon basis [15]:
+
+$$
+\begin{array} { r c l } { { U _ { k } ( r s p ) } } & { { = } } & { { \displaystyle \sum _ { n \kappa } u _ { k , ( n \kappa ) } ^ { ( m ) } \varphi _ { n \kappa m } ( r s p ) , } } \\ { { V _ { k } ( r s p ) } } & { { = } } & { { \displaystyle \sum _ { n \kappa } \nu _ { k , ( n \kappa ) } ^ { ( m ) } \bar { \varphi } _ { n \kappa m } ( r s p ) . } } \end{array}
+$$
+
+（204号 $\bar { \varphi } _ { n \kappa m } ( \pmb { r } s p )$ is the time reversal state of $\varphi _ { n \kappa m } ( \pmb { r } s p )$ . Because of the axial symmetry the z-component $m$ of the angular momentum $j$ is a conserved quantum number and the RHB Hamiltonian can be decomposed into blocks characterized by $m$ and parity $\pi$ .For each $m ^ { \pi }$ -block, solving the RHB equation（1) is equivalent to the diagonalization of the matrix
+
+$$
+\left( \begin{array} { c c } { \mathcal { A } - \lambda } & { \mathcal { B } } \\ { \mathcal { B } ^ { \dagger } } & { - \mathcal { A } ^ { * } + \lambda } \end{array} \right) \left( \begin{array} { c } { \mathcal { U } _ { k } } \\ { \mathcal { V } _ { k } } \end{array} \right) = E _ { k } \left( \begin{array} { c } { \mathcal { U } _ { k } } \\ { \mathcal { V } _ { k } } \end{array} \right) ,
+$$
+
+where
+
+$$
+\mathcal { U } _ { k } = \left( u _ { k , ( n \kappa ) } ^ { ( m ) } \right) , \mathcal { V } _ { k } = \left( \nu _ { k , ( n \kappa ) } ^ { ( m ) } \right) ,
+$$
+
+and
+
+$$
+\begin{array} { r c l } { { \mathcal { A } } } & { { = } } & { { \left( h _ { D ( n \kappa ) ( n ^ { \prime } \kappa ^ { \prime } ) } ^ { ( m ) } \right) = \left( \langle n \kappa m | h _ { D } | n ^ { \prime } \kappa ^ { \prime } , m \rangle \right) , } } \\ { { \mathcal { B } } } & { { = } } & { { \left( \Delta _ { ( n \kappa ) ( n ^ { \prime } \kappa ) } ^ { ( m ) } \right) \ = \left( \langle n \kappa m | \Delta | \overline { { { n ^ { \prime } \kappa ^ { \prime } , m } } } \rangle \right) . } } \end{array}
+$$
+
+Further details are given in the appendixes of Ref. [23].
+
+In order to describe the exotic nuclear structure in unstable odd- $A$ or odd-odd nuclei, the DefRHBC theory has been extended to incorporate the blocking effect due to the odd nucleon(s) [25] The deformed relativistic Hartree-Bogoliubov theory in continuum with the density-dependent meson-nucleon couplings is developed recently [26].
+
+# RESULTSANDDISCUSSIONS
+
+We next present some results from the DefRHBC theory by taking magnesium and neon isotopes as examples and discuss some results for the deformed neutron-rich and weakly bound nuclei $^ { 4 4 } \mathrm { \dot { M } g }$ and $^ { 3 6 } \mathrm { N e }$ [21, 22, 23].
+
+Magnesium isotopes have been studied extensively in Refs. [21, 22, 23] with the deformed relativistic Hartree-Bogoliubov theory in continuum and the parameter sets NL3 [27] and PK1 [28]. For the pp interaction (7), the following parameters are used: $\rho _ { \mathrm { s a t } } = 0 . 1 5 2 ~ \mathrm { f m } ^ { - 3 }$ and $V _ { 0 } = 3 8 \bar { 0 } \ \mathrm { \overline { { M e V } } \cdot f m } ^ { 3 }$ ,and a cut-off energy $E _ { \mathrm { c u t } } ^ { \mathrm { q . p . } } = 6 0 ~ \mathrm { M e V }$ .B applied in the quasi-particle space. These parameters were fixed by reproducing the proton pairing energy of the spherical nucleus $^ { 2 0 } \mathrm { M g }$ obtained from a spherical relativistic Hartree-Bogoliubov calculation with the Gogny force D1S. A spherical box of the size $R _ { \mathrm { m a x } } = 2 0$ fm and the mesh size $\Delta r = 0 . 1$ fm are used for generating the spherical Dirac Woods-Saxon basis[15] which consists of states with $j < { \frac { 2 1 } { 2 } } \hbar$ . An energy cutoff $E _ { \mathrm { c u t } } ^ { + } =$ $1 0 0 \mathrm { M e V }$ is applied to truncate the positive energy states in the Woods-Saxon basis and the number of negative energy states in the Dirac sea is taken to be the same as that of positive energy states in each $( \ell , j )$ -block.
+
+In our deformed RHB calculations with the parameter set NL3, $^ { 4 6 } \mathrm { M g }$ is the last nucleus of which the neutron Fermi surface is negative and the two neutron separation energy is positive [21]. In the calculations based on the parameter set PK1, $^ { 4 2 } \mathrm { { \dot { M } g } }$ is the last bound nucleus in $\mathbf { M g }$ isotopes [23].
+
+It was found in Ref. [21] that the ground state of $^ { 4 4 } \mathrm { M g }$ is well deformed with quadrupole deformation $\beta _ { 2 } = 0 . 3 2$ and a very small two neutron separation energy
+
+![](images/05b3cfe96b05a21b1c445c8eb0a4b11c0f53672f7055bf8eb5d717251d274f7d.jpg)  
+FIGURE 1.(Color online）Density distributions of $^ { 4 4 } \mathrm { M g }$ with the $z$ -axis as symmetry axis: (a) the proton density (for $x < 0$ ）and the neutron density (for $x > 0$ ),(b) the density of the neutron core,and (c) the density of the neutron halo.In each plot,a dotted circle is drawn for guiding the eye.This figure is originally published in Ref. [21].
+
+$S _ { 2 n } = 0 . 4 4 ~ \mathrm { M e V } .$ In the tail part, the neutron density extends more along the direction perpendicular to the symmetry axis.The density distribution is decomposed into contributions of the oblate “halo” and of the prolate “core” as shown in Fig.1. The density distribution of this weakly bound nucleus has a very long tail in the direction perpendicular to the symmetry axis which indicates the prolate nucleus $^ { 4 4 } \mathrm { M g }$ has an oblate halo and there is a decoupling between the deformations of the core and the halo.
+
+As discussed in Refs.[21, 22, 23], the shape of the halo originates from the intrinsic structure of the weakly bound or continuum orbitals. It turns out that in $^ { 4 4 } \mathrm { M g }$ ，the essential level of the halo has a large contribution from the prolate $\Lambda = 1$ ( $p$ wave) component. In Ref.[21] an example was also discussed in which the halo and the core have similar shapes. In Fig.2a the density distributions of all protons and all neutrons in the prolate deformed nucleus $^ { 3 6 } \mathrm { N e }$ are shown ( $\beta _ { 2 } = 0 . 5 2 )$ . It can be seen that the neutron density not only extends much farther in space but it also shows a halo structure. The neutron density is decomposed into the contribution of the core in Fig. 2b and that of the halo in Fig. 2c. In contrary to the nucleus $^ { 4 4 } \mathrm { M g }$ , we observe now a prolate halo, because the essential level of the halo has a large contribution from the prolate $\Lambda = 0$ （ $\dot { \boldsymbol { p } }$ wave) component.
+
+The halo feature is connected with relatively large cross sections and narrow longitudinal momentum distributions in knockout reactions. The decoupling between the deformations of the core and the halo may manifest itself by some new experimental observables,e.g., the double-hump shape of longitudinal momentum distribution in single-particle removal reactions and new dipole modes, etc. In particular, a combination of the experimental method proposed in Ref.[29] and the theoretical approach developed in Ref.[3O] would be useful in the study of longitudinal momentum distribution in single-particle removal reactions with deformed halo nuclei as projectiles. The shape decoupling effects may also has some influence on the sub-barrier capture process in heavy ion collisions [31].
+
+![](images/6d2eb22aa5fc69bd709e5d51a89d525f43b47ddcd7599802b27bc375fc3b1c8d.jpg)  
+FIGURE 2.(Color online） Density distributions of $^ { 3 6 } \mathrm { N e }$ Details are given in Fig.1. This figure is originally published in Ref. [21].
+
+For odd particle system,the formation and the size of a halo depend on the interplay among the odd-even effects,continuum and pairing effects, deformation effects, etc. Some progress on this topic has been made recently [32].
+
+# SUMMARY
+
+We present recent progresses of the development of a deformed relativistic HartreeBogoliubov theory in continuum (DefRHBC) and the study of neutron halo in deformed nuclei. In the very neutron-rich deformed nucleus $^ { 4 4 } \mathrm { M g }$ ，pronounced deformed neutron halo was found. The halo is formed by several orbitals close to the threshold. These orbitals have large components of low $\ell$ -values and feel therefore only a small centrifugal barrier. Although $^ { 4 4 } \mathrm { M \dot { g } }$ and its cores is prolately deformed, the deformation of the halo is slightly oblate. This implies a decoupling between the shapes of the core and the halo. The mechanism is investigated and it was concluded that the existence and the deformation of a possible neutron halo depends essentially on the quantum numbers of the main components of the single particle orbits in the vicinity of the Fermi surface.
+
+# ACKNOWLEDGMENTS
+
+This work has been supported by the Major State Basic Research Development Program of China (973 Program: “New and technology at the limits of nuclear stability"),National Natural Science Foundation of China (Grants Nos.1O875157,1O975100, 10979066,11105005,11175002,11175252,11121403,and 11120101005), the Knowledge Innovation Project of Chinese Academy of Sciences (Grants No. KJCX2-EW-N01 and No. KJCX2-YW-N32), and the DFG cluster of excellence “Origin and Structure of the Universe”(www.universe-cluster.de). The results described in this work were obtained on the ScGrid of Supercomputing Center, Computer Network Information Center of Chinese Academy of Sciences.
+
+# REFERENCES
+
+1. A．Bulgac,Hartree-Fock-Bogoliubov approximation for finite systems, IPNE FT-194-1980,   
+Bucharest (arXiv: nucl-th/9907088) (1980).   
+2. J.Dobaczewski, H. Flocard,and J. Treiner, Nucl. Phys.A 422,103-139 (1984).   
+3. J.Dobaczewski,W.Nazarewicz,T.R. Werner,J.F.Berger, C.R.Chinn,and J.Dechargé,Phys. Rev.   
+C 53,2809-2840 (1996).   
+4. J. Meng,and P.Ring,Phys. Rev. Lett. 77,3963-3966 (1996).   
+5. W.Poschl,D. Vretenar, G. A. Lalazissis,and P. Ring,Phys. Rev. Lett.79,3841-3844 (1997).   
+6. G.Lalazissis,D.Vretenar,W.Poschl,and P.Ring,Phys. Lett. B 418,7-12 (1998).   
+7. J.Meng,Nucl.Phys.A 635,3-42(1998).   
+8. J. Meng,H. Toki, S.G. Zhou, S. Q. Zhang, W. H. Long,and L. S. Geng,Prog. Part. Nucl. Phys. 57,   
+470-563 (2006).   
+9. J. Meng,and P.Ring,Phys. Rev. Lett. 80,460-463 (1998).   
+10.J.Meng,H. Toki, J.Y. Zeng,S.Q. Zhang,and S.-G. Zhou, Phys. Rev. C65,041302(R)-4 (2002).   
+11．S.-Q. Zhang,J.Meng,and S.-G. Zhou, Sci. China G 46,632-658 (2003).   
+12．J.Meng,I. Tanihata and S. Yamaji,Phys. Lett.B 419,1-6 (1998).   
+13．J.Meng, S.G. Zhou,and I. Tanihata,Phys. Lett. B 532,209-214(2002).   
+14． H. Kucharek,and P. Ring,Z. Phys.A 339,23-35 (1991).   
+15．S.-G. Zhou,J. Meng,and P.Ring,Phys. Rev.C 68,034323-12 (2003).   
+16．N. Schunck,and J.L.Egido,Phys. Rev. C 78,064305-14(2008).   
+17.W. H. Long,P. Ring,N. V. Giai, and J. Meng,Phys. Rev. C 81, O24308-10 (2010).   
+18． S.-G. Zhou,J. Meng,and P.Ring,AIP Conf.Proc. 865,9O-95 (2006).   
+19.J.Meng,H.F.Lu, S.Q. Zhang,and S.G. Zhou, Nucl. Phys. A 722,366c-371c (2003).   
+20.S.-G. Zhou,J. Meng,and P.Ring,in Physics of Unstable Nuclei, edited by D.T. Khoa,P.Egelhof,   
+S. Gales,N. Van Giai, and T. Motobayashi,World Scientific,2008,pp. 402-408.   
+21． S.-G. Zhou,J. Meng,P. Ring,and E.-G. Zhao,Phys. Rev. C82,011301(R)-5 (2010).   
+22. S.-G. Zhou,J. Meng,P.Ring,and E.-G. Zhao,J. Phys: Conf. Ser: 312,092067-7 (2011).   
+23.L.Li,J. Meng,P.Ring,E.-G. Zhao,and S.-G. Zhou,Phys. Rev. C 85,024312-17(2012).   
+24． C.E.Price,and G.E.Walker, Phys.Rev. C 36,354-364 (1987).   
+25．L.Li,J. Meng,P.Ring,E.-G. Zhao,and S.-G. Zhou, Chin. Phys. Lett 29,042101-4 (2012).   
+26.Y. Chen,L.Li, H.Liang,and J. Meng,Phys. Rev. C 85,067301-5 (2012).   
+27． G. A. Lalazissis, J. Konig,and P. Ring, Phys. Rev. C 55,540-543 (1997).   
+28. W.Long,J. Meng, N. V. Giai,and S.-G. Zhou, Phys. Rev. C 69,034319-15 (2004).   
+29．A. Navin,D.Bazin,B.A. Brown,et al.,Phys. Rev. Lett. 81, 5089-5092 (1998).   
+30． A. Sakharuk,and V. Zelevinsky,Phys. Rev. C 61,014609-12 (1999).   
+31. V. V. Sargsyan,G.G. Adamian,N. V. Antonenko,et al., Phys. Rev. C84,064614-12 (2011); ibid 85,   
+017603-4(2012); ibid 85,037602-4(2012).   
+32.L.Li, et al., to be published.

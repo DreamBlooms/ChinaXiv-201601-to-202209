@@ -1,0 +1,213 @@
+# 改进的 $G$ 矩阵模型法在全极化综合孔径辐射计中的应用
+
+杨晓城，阎敬业²，吴季²（1．浙江理工大学信息学院，浙江，杭州310018；2.中国科学院空间科学与应用研究中心中国科学院微波遥感技术重点实验室，北京100190)
+
+摘要：反演成像是综合孔径微波辐射计的一项关键内容，但反演过程是欠定的，不能提供一个确定解．针对综合孔径辐射计中常用反演算法： $\pmb { G }$ 矩阵模型法存在较大反演误差的问题，提出了一种改进的 $\textbf { \textit { G } }$ 矩阵模型法应用于FPIR系统中．仿真结果表明，与传统的 $\textbf { \textit { G } }$ 矩阵模型法相比，改进的 $G$ 矩阵模型法能有效地降低FPIR系统图像反演误差，以获取高精确度的观测场景的亮温分布满足FPIR系统探测海面风场、土壤湿度等应用需求.
+
+关键词：辐射计；综合孔径；全极化；反演；FPIR  
+中图分类号：TP722.6 文献标志码：A 文章编号:1001-0645(2015)07-0750-05  
+DOI:10.15918/j. tbit1001-0645.2015.07.018
+
+# Application of Improved $G$ Matrix Model in Full Polarization Interferometric Radiometer
+
+YANG Xiao-cheng1， YAN Jing-ye ²， WU Ji ² (1.The School of Information Science and Technology，Zhejiang Science-Tech University，Hangzhou, Zhejiang 310ol8，China；2.CAS Key Laboratory of Microwave Remote Sensing，National Space Science Center/Center for Space Science and Applied Research，Chinese Academy of Sciences，Beijing 1Ool9o，China)
+
+Abstract: The inverse imaging is a key issue for microwave interferometric radiometers，but the inverse process is il-posed and doesn't provide a unique and stable solution. For the problem that there exists a large reconstruction bias with $\textbf {  { G } }$ matrix model used generally in the inversion algorithm，an improved G matrix model applied in FPIR system was presented. The simulation results show that，compared with conventional $G$ matrix model，the improved $G$ matrix model can greatly reduce the reconstruction bias in the FPIR system. The improved $G$ matrix model can obtain more accurately the brightness temperature distribution of the observed scene， so as to meet requirements of measuring wind field of the ocean surface and soil moisture for FPIR.
+
+Key words: radiometer；synthetic aperture； full polarization； inverse problem；FPIR
+
+综合孔径微波辐射计是从20世纪80年代后期开始兴起的一项被动微波遥感新技术，伴随着对干涉式综合孔径成像理论研究的深入以及数字技术的快速发展，以 ESTAR[1]（electronically scannedthinned array radiometer）的试飞和 SMOS2]（thesoil moisture and ocean salinity)卫星的发射成功为标志，综合孔径微波辐射计已经逐渐成熟并走向了实际应用[3]．一维综合孔径辐射计具有体积小、结构简单、功耗重量低等优点，但是传统的一维综合孔径辐射计只能获取单极化或者双极化的信息，无法获取全极化信息，因此一些重要的地球物理参数，如海洋表面的风场信息等，就无法通过传统的一维综合孔径辐射计获得．全极化参量微波辐射计是另一项被动微波遥感的新技术，能够获得全极化信息，主要应用于探测海面的风场信息.
+
+一维全极化综合孔径辐射计（fullpolarizationinterferometricradiometer，FPIR）是一套高分辨率、轻量化、低功耗的X波段微波辐射计[4-5]．它将干涉式综合孔径成像技术和全极化参量信息获取结合，与ESTAR等传统的一维综合孔径辐射计不同之处是全极化信息获取，圆锥面天线波束和两点定标等．FPIR的应用目标之一是搭载在欧空局SMOS 业务卫星上，与 MIRAS(microwave imagingradiometerwithaperturesynthesis)一起工作，形成一套双频综合孔径微波辐射计系统．FPIR产生X波段的全极化亮温图像，为MIRAS提供海面风场和陆地植被的信息，从而提高了MIRAS海水盐度和土壤湿度的反演精度.
+
+反演成像是综合孔径辐射计的一项关键内容.在综合孔径辐射计中，常用的反演算法是傅里叶变换法和 $G$ 矩阵模型法，其中 $G$ 矩阵模型法将亮温图像反演与误差定标相结合，在综合孔径辐射计成像中得到广泛应用.但是即使在没有模型误差和辐射噪声情况下， $G$ 矩阵模型法依然存在着较大的反演误差．为了降低图像反演误差，本文提出了一种改进的$G$ 矩阵模型法，并基于FPIR系统，进行了仿真.
+
+# FPIR系统的成像原理
+
+FPIR的两单元原理框图如图1所示．在顺轨方向，天线方向图为真实孔径线阵形成的窄波束；在交轨方向，天线方向图由通常的扇形变成圆锥面，每个像素的入射角 $\alpha$ 相同.
+
+![](images/4f97af763d297d709841fcb80f81555b290d1d6aa8c8d72005e9c274998ffe5f.jpg)  
+复可视度函数 $V ( u _ { i j } )$ 与辐射亮温 $T _ { \mathrm { b } } ( \varepsilon )$ 之间存  
+图1FPIR系统的两单元原理框图 Fig.1 The schematic block diagram of a two-element FPIR system
+
+在如下关系[1.7]
+
+$$
+V ( u _ { i j } ) = \int _ { - \sin \theta } ^ { \sin \theta } \frac { T _ { \mathrm { b } } ( \xi ) - T _ { \mathrm { r } } } { \sqrt { \sin ^ { 2 } \theta - \xi ^ { 2 } } } F _ { \mathrm { n } , i } ( \xi ) F _ { \mathrm { n } , j } ^ { \ast } ( \xi ) \times
+$$
+
+$$
+\widetilde { r } _ { i j } ( - \frac { u _ { i j } \pmb { \xi } } { f _ { 0 } } ) \exp ( - \mathrm { j } 2 \pi u _ { i j } \pmb { \xi } ) \mathrm { d } \pmb { \xi } .
+$$
+
+式中 $u _ { i j } = d _ { i j } / \lambda _ { 0 }$ 为天线 $\mathbf { \chi } _ { i }$ 和 $j$ 之间归一化的基线长度； $\scriptstyle \xi = \sin \ \theta \sin \ \phi$ 为方向余弦， $\theta$ 和 $\phi$ 为球面坐标； $f _ { \mathrm { 0 } }$ 为中心频率； $T _ { \mathrm { r } }$ 为接收机的物理温度； $F _ { \mathfrak { n } , i } \left( \xi \right)$ 和$F _ { \mathrm { n } , j } ^ { \ast } \left( \xi \right)$ 分别为天线单元 $i$ 和 $j$ 所对应的归一化的电压方向图 $( \ast$ 表示共轭）； $\tilde { \boldsymbol { r } } _ { i j } \left( \Delta \tau \right)$ 称为条纹洗涤（fringewashing)函数，在信道带宽足够小的情况下，有 $\widetilde { r } ( \Delta \tau ) \approx 1$ ．为了简化，令 $\zeta = \xi / \sin \ \theta = \sin \ \phi$ 则式(1)变为
+
+$$
+V ( u _ { i j } ) = \int _ { - 1 } ^ { 1 } \frac { T _ { \mathrm { b } } ( \zeta ) - T _ { \mathrm { r } } } { \sqrt { 1 - \zeta ^ { 2 } } } F _ { \mathrm { n } , i } ( \zeta ) F _ { \mathrm { n } , j } ^ { \ast } ( \zeta ) \times
+$$
+
+$$
+\widetilde { r } _ { i j } ( - \frac { u _ { i j } \zeta } { f _ { 0 } } ) \exp ( - \mathrm { j } 2 \pi u _ { i j } \zeta ) \mathrm { d } \zeta .
+$$
+
+将式(2)与传统的一维综合孔径辐射可视度函数与辐射亮温之间的公式比较，形式上的不同之处是变量 ${ \boldsymbol { \xi } } { = } \zeta { \sin \theta }$ ，但实际上地球物理参数的反演却得到简化.
+
+将式(2)进行离散化得
+
+$$
+{ \pmb V } _ { ( 2 N + 1 ) \times 1 } = { \pmb G } _ { ( 2 N + 1 ) \times M } { \pmb T } _ { M \times 1 } .
+$$
+
+其中修正的辐射亮温 $T ( \zeta ) = \frac { T _ { \mathrm { b } } ( \zeta ) - T _ { \mathrm { r } } } { \sqrt { 1 - \zeta ^ { 2 } } }$ 被离散为$M$ 项，可视度函数 $V ( u _ { i j } )$ 被离散化为 $2 N + l$ 项.通常情况下选取的亮温反演点数 $M$ 均大于可视度函数采样点数 $2 N + 1$ 的3倍，所以式(3)是欠定．假设辐射亮温的工作空间为 $B$ ，可视度函数的工作区间为 $C$ ，则根据最小二乘准则
+
+$$
+\operatorname* { m i n } _ { T \in B } \| \mathbf { V } - \pmb { G } \pmb { T } \| _ { C } ^ { 2 } .
+$$
+
+求解其最小范数解，得
+
+$$
+\hat { \pmb { \cal I } } = \pmb { G } ^ { + } \pmb { V } = \pmb { G } ^ { \mathrm { H } } ( \pmb { G } \pmb { G } ^ { \mathrm { H } } ) ^ { - 1 } \pmb { V } .
+$$
+
+式中： $\hat { \pmb T }$ 为反演的亮温； $\pmb { G } ^ { + } = \pmb { G } ^ { \mathrm { H } } ( \pmb { G } \pmb { G } ^ { \mathrm { H } } ) ^ { - 1 }$ 为广义逆 矩阵.
+
+为了降低空间频率上有限的采样覆盖所导致的吉布斯振荡现象，对可视度采样进行加窗处理，即
+
+$$
+\hat { \pmb { T } } _ { \mathrm { w } } = { \pmb { U } } ^ { \mathrm { H } } { \pmb { W } } { \pmb { U } } \hat { \pmb { T } } .
+$$
+
+式中： $\pmb { U }$ 为离散傅里叶变换; $W$ 为窗函数．常用的窗函数有：汉明窗、汉宁窗、布莱克曼窗、契比雪夫窗等．值得注意的是，在分析反演图像与真实图像的误差时，需要将加窗后反演结果 $\hat { \pmb { T } } _ { \mathrm { w } }$ 与真实图像加窗后结果 ${ \pmb T } _ { \mathrm { w } } = { \pmb U } ^ { \mathrm { H } } { \pmb W } { \pmb U } { \pmb T }$ 进行比较.
+
+# 2改进的 $G$ 矩阵模型法
+
+利用 $G$ 矩阵模型法重构观测目标亮温时发现，即使在不存在 $\textbf {  { G } }$ 矩阵模型误差和辐射噪声情况下，依然存在图像反演误差，而图像反演误差只能在图像反演过程中去除或者降低，而不能利用设备定标方法进行去除或者降低．E.Anterrieu等8在分析MIRAS系统反演过程中发现，图像反演误差不仅来源于观测目标的高频分量的缺失，还与参考辐射计天线方向图和目标无混叠视场外亮温对视场内亮温反演的影响有关．而对于FPIR系统，研究表明：图像反演误差不仅与无混叠视场外亮温对视场内亮温反演的影响有关，而且与单元天线方向图误差有关，特别是单元天线方向图幅度的起伏及天线方向图之间的不一致.
+
+为了降低FPIR系统图像反演误差，提出了一种新的降低系统反演误差的方法，即：改进的 $\textbf { \textit { G } }$ 矩阵模型法.这种方法是基于E.Anterrieu等8提出的算法，引入一个尽可能接近观测场景真实亮温 $T$ 的亮温图像 $\tilde { \pmb { T } }$ ，则
+
+$$
+\delta { \cal V } = { \cal V } - \widetilde { \cal V } = { \cal V } - G \widetilde { \cal I } .
+$$
+
+则反演亮温变为
+
+$$
+\hat { \pmb { \cal T } } = \pmb { G } ^ { + } \ ( \pmb { V } - \pmb { G } \pmb { \widetilde { T } } ) + \widetilde { \pmb { T } } .
+$$
+
+为了得到亮温图像 $\tilde { \pmb { T } }$ ，最简单的方法就是根据海岸线等先验信息，将观测场景划分为陆地区域和海洋区域.假定 $t _ { \mathrm { L } }$ 是陆地区域的亮温，设定为恒定的； $t _ { \mathrm { O } }$ 是海洋区域的亮温，设定为恒定的．亮温图像$\tilde { \pmb { T } }$ 由 $t _ { \textup { L } }$ 和 $t _ { \mathrm { O } }$ 构成， $\tilde { \pmb { T } }$ 可以表示为
+
+$$
+\widetilde { \pmb { T } } = \pmb { D } _ { M \times 2 } \pmb { t } _ { 2 \times 1 } .
+$$
+
+式中 $\textbf {  { D } }$ 由 $D _ { \mathrm { { L } } }$ 和 $D _ { \mathrm { o } }$ 组成， $D _ { \mathrm { { L } } }$ 和 $D _ { \mathrm { o } }$ 分别为与陆地 和海洋区域对应的二元掩膜（binarymask）;
+
+$$
+\begin{array} { r } { \pmb { t } { = } \big [ t _ { \mathrm { L } } \quad t _ { \mathrm { 0 } } \big ] ^ { \prime } . } \end{array}
+$$
+
+根据最小二乘准则，得
+
+$$
+\operatorname* { m i n } _ { t \in \mathbb { R } ^ { 2 } } \left\| \mathbf { V } - \widetilde { \mathbf { V } } ( t ) \right\| _ { C } ^ { 2 } .
+$$
+
+求解可得
+
+$$
+\hat { \pmb { t } } = \left[ ( \pmb { G } \pmb { D } ) ^ { \mathrm { H } } ( \pmb { G } \pmb { D } ) \right] ^ { - 1 } ( \pmb { G } \pmb { D } ) ^ { \mathrm { H } } \pmb { V } .
+$$
+
+以上方法存在一个明显的缺点：存在两个不同的最小二乘准则，即：式（4)和式（10）．由于两个最小二乘准则不能同时满足，所以为了解决这个问题，提出了一种新的算法计算人工图像 ${ \tilde { \cal T } } .$ ，这种算法是基于AliKhazaal提出的算法9，利用最小二乘准则，即
+
+$$
+\operatorname* { m i n } _ { t \in \mathbb { R } ^ { 2 } } \operatorname* { m i n } _ { T \in B } \left\| V - \widetilde { V } ( t ) - { \pmb G } \big [ { \pmb T } - \widetilde { { \pmb T } } ( t ) \big ] \right\| _ { c } ^ { 2 } .
+$$
+
+则反演亮温为
+
+$$
+\hat { \pmb { T } } = \pmb { G } ^ { + } \ ( \pmb { V } - \pmb { G } \pmb { \tilde { T } } ) + \widetilde { \pmb { T } } .
+$$
+
+其中 $\mathbf { \Psi } _ { t } \mathbf { \Psi } _ { \mathbf { \Psi } }$ 满足
+
+$$
+\begin{array} { r l } & { \underset { t \in \mathbf { R } ^ { p } } { \mathrm { m i n } } \left\| \pmb { V } - \widetilde { \pmb { V } } ( t ) - \pmb { G } \big [ \pmb { T } - \widetilde { \pmb { T } } ( t ) \big ] \right\| _ { c } ^ { 2 } = } \\ & { \underset { t \in \mathbf { R } ^ { p } } { \mathrm { m i n } } \left\| \pmb { V } - \widetilde { \pmb { V } } ( t ) - \pmb { G } \pmb { G } ^ { + } \left[ \pmb { V } - \widetilde { \pmb { V } } ( t ) \right] \right\| _ { c } ^ { 2 } = } \\ & { \qquad \underset { t \in \mathbf { R } ^ { p } } { \mathrm { m i n } } \left\| ( \pmb { I } - \pmb { G } \pmb { G } ^ { + } ) \big [ \pmb { V } - \widetilde { \pmb { V } } ( t ) \big ] \right\| _ { c } ^ { 2 } . } \end{array}
+$$
+
+求解可得
+
+$$
+\hat { \pmb { t } } = \left[ ( \pmb { P } \pmb { G } \pmb { D } ) ^ { \mathrm { H } } ( \pmb { P } \pmb { G } \pmb { D } ) \right] ^ { - 1 } ( \pmb { P } \pmb { G } \pmb { D } ) ^ { \mathrm { H } } \pmb { P } \pmb { V } .
+$$
+
+其中 $\pmb { P } { = } \pmb { I } { - } \pmb { G } \pmb { G } ^ { + }$ ．当 $\pmb { P } = \pmb { I }$ 时式（15）与式（11）相同．为了区别，将式(11)方法命名为改进的 $G$ 矩阵方法1，式(15)方法命名为改进的 $G$ 矩阵方法2.
+
+上述的改进 $G$ 矩阵模型法，是基于 $\mathrm { ~ E ~ }$ ，Anterrieu和AliKhazaal提出的算法．但与E.Anterrieu和AliKhazaal提出的算法相比，应用于FPIR的方法有以下不同之处．首先，与MIRAS系统相比，FPIR系统反演过程简单得多，所以计算效率更高，所费存储量更小．其次，FPIR形成圆锥面天线波束，在地物平面的每个像素的入射角相同，而MIR-AS中在地物平面的不同像素的入射角不同，所以FPIR中对 $\tilde { \pmb { T } }$ 建模前的先验知识不需要包括入射角信息．同时，FPIR中 $\tilde { \pmb { T } }$ 仅由 $\tilde { t } _ { \perp }$ 和 $\tilde { t } _ { \mathrm { O } }$ 构成，不受天空等其他参数的影响，因此建模更加简单．最后，应用于FPIR的这种方法是与传统 $G$ 矩阵模型法相结合，有效地去除传统 $G$ 矩阵模型法中的反演误差，而E.Anterrieu和AliKhazaal提出的方法是与解析矩阵方法相合.
+
+# 3仿真
+
+为了验证上述反演算法的正确性，进行了仿真分析．选择仿真对象为FPIR系统工作在H极化状态，天线单元数量 $l = 9$ ，最短基线为 $\Delta d = 0 . \ 6 3 5 \lambda _ { 0 }$ ，最长基线为 $2 5 \Delta d$ ，忽略空间去相关效应的影响．综合孔径方向上单元天线功率方向图如图2所示，为暗室中真实测量结果，
+
+仿真原始图像如图3所示．图3为天线平面内亮温，来源于我国渤海地区的光学卫星遥感图像.
+
+图3中，垂直方向为真实孔径方向，水平方向为综合孔径方向．对于一维综合孔径辐射计，单次测量可获得视场内的一个条带的图像，通过平台运动进行推扫从而获得二维图像.
+
+![](images/ff61d8c3a80f76d1d9de1cb506e8e708b178831c65bf88068d8725ed4db64a4a.jpg)  
+图2综合孔径方向天线单元方向图Fig.2 Synthetic aperture patterns of 9 antennas
+
+分别利用传统的 $\textbf { \textit { G } }$ 矩阵法、改进的 $\textbf { \textit { G } }$ 矩阵方法1、改进的 $G$ 矩阵方法2得到了其对应的无混叠视场内加窗后反演的结果，如图4(b）、4（c)和4（d)所示，所使用的窗函数为汉宁窗．为了便于比较，无混叠视场内原始亮温图像加窗后结果如图4(a)所示，
+
+![](images/fc2e49d191e52953e86beaee6d899badfb4fc327c6a47af0c0786f6a9a62e840.jpg)  
+图3原始图像 Fig.3The actual image
+
+![](images/37789cd89a5191a97d4115630b6a8c52498987b19753fc220f87a5bf389cb8c9.jpg)  
+图4反演结果(亮温) Fig.4The reconstructed images(brightness temperature)
+
+为了定量地分析加窗后成像结果与原始图像的误差 $\Delta T _ { \mathrm { w } } = T _ { \mathrm { w } } - \hat { T } _ { \mathrm { w } }$ ，引入偏差和标准差．偏差和标准差的计算公式分别为
+
+$$
+\Delta \overline { { T } } _ { \mathrm { w } } = \sum _ { \mathrm { A F O V } } ( \hat { T } _ { k } - T _ { k } ) / n _ { \mathrm { A F O V } } .
+$$
+
+$$
+\delta _ { \mathrm { w } } = \sqrt { \sum _ { \mathrm { A F O V } } ( \hat { T } _ { k } - T _ { k } - \Delta \overline { { T } } _ { \mathrm { w } } ) ^ { 2 } / n _ { \mathrm { A F O V } } } .
+$$
+
+式中： $\Delta \overline { { T } } _ { \mathrm { w } }$ 为图像中某行即某条带的偏差； $\delta _ { \mathrm { w } }$ 为某行的标准差； $n _ { \mathrm { A F O V } }$ 为某行无混叠区域内的像素总数； $\hat { T } _ { k }$ 为某行第 $k$ 个像素的反演亮温； $\boldsymbol { T } _ { k }$ 为与 $\hat { T } _ { k }$ 对应的原始亮温.
+
+对于图4的反演结果，偏差和标准差对比结果如图5和图6所示．图中横轴为FPIR顺轨推扫时，按时间顺序排列的观测条带编号，纵轴分别为不同反演算法得到的反演结果的偏差和标准差，从图中可以看出，与传统的 $\textbf { \textit { G } }$ 矩阵模型法相比，改进的 $\textbf {  { G } }$ 矩阵方法1能够有效地降低残留的图像反演误差，但在某些区域反演结果会出现恶化，这是由于两个最小平方准则不能同时满足导致的，而改进的 $G$ 矩阵方法2克服了这个缺陷，有效地降低了残留的图像反演误差．值得注意的是，反演误差与地物目标的特征相关，随着观测目标的变化，反演误差也产生相应的变化.
+
+![](images/ba213b3fdf90485034a055ed33c1b737a2271c7266abbc535bc5269bded88029.jpg)  
+图5偏差对比Fig.5The bias contrast
+
+![](images/497690324aba10297118daa53bd829765f7217b549f95fcbc80197849ef07116.jpg)  
+图6标准差对比Fig.6The standard deviation contrast
+
+# 4结论
+
+FPIR是一套高分辨率、轻量化、低功耗的X波段一维综合孔径微波辐射计．它与传统一维综合孔径辐射计的不同之处在于全极化信息获取，圆锥面天线波束和两点定标等．反演成像是干涉式综合孔径辐射计的一项关键内容．因为辐射计干涉输出的结果是可视度函数采样，所以如何准确有效地从可视度函数的采样数据转化到其空间域的辐射图像，是成像反演算法所要解决的问题，但由于反演过程是欠定的，无法得到一个准确解，即使在没有模型误差和辐射噪声情况下，依然存在图像反演误差.
+
+为了降低FPIR系统图像反演误差，提出了一种改进的 $G$ 矩阵模型法，仿真结果表明，与传统的$G$ 矩阵模型法相比，改进的 $\textbf { \textit { G } }$ 矩阵模型法能有效地降低图像反演误差，证明了改进的 $\textbf { \textit { G } }$ 矩阵模型法在FPIR中应用的有效性．同时，改进的 $G$ 矩阵模型法也可以应用于其他的一维综合孔径微波辐射计中.
+
+# 参考文献：
+
+[1]RufSC，SwiftTC，TannerBA，etal.Interferometric
+
+synthetic aperture microwave radiometry for the remote sensing of the earth[J].IEEE Transactions on Geoscience and Remote Sensing，1988,26(5):597-611.   
+[2]Mecklenburg S,Drusch M,Kerr YH，etal.ESA's soil moisture and ocean salinity mission：mission performance and operations [J]. IEEE Transactions on Geoscience and Remote Sensing，2012,50(5):1354-1366.   
+[3]Yan Jingye，Wu Ji，Neira M M.FPIR：a one dimensional full polarization interferometric radiometer[C]// Proceedings of IEEE International Geoscience and Re mote Sensing Symposium 2oo7. Washington D.C.: IEEE Computer Society，2007:4408-4411.   
+[4]Yan Jingye，Wu Ji,Liu Hao，et al.Conical beam interferometer：FPIR concept and development[C]//Proceedings of IEEE International Geoscience and Remote Sensing Symposium 20o9. Washington D.C.：IEEE Computer Society，2009:2333-2336.
+
+# [5」吴季，刘浩，阎敬业，等.干涉式被动微波成像技术[J」.遥感技术与应用，2009，24(1)：1-12.
+
+Wu Ji,Liu Hao，Yan Jingye，etal.Interferometric imaging technology for passive microwave radiometry[J]. Remote Sensing Technology and Application，2o09，24 (1)：1-12.(in Chinese)   
+[6] Tanner A B,Swift C T.Calibration of a synthetic aperture radiometer [J].IEEE Transactions on Geoscience and Remote Sensing，1993,31(1):257-267.   
+[7] Corbella I,Duffo N,Ilossera V N，et al. The visibility function in interferometric aperture synthesis radiometry [J].IEEE Transactions on Geoscience and Remote Sensing，2004，42(8):1677-1682.   
+[8]Anterrieu E.On the reduction of the reconstruction bias in synthetic aperture imaging radiometry（corrected) [J]． IEEE Transactions on Geoscience and Remote Sensing，2007,45(4):1084-1093.   
+[9]Khazaal A,Carfantan H，AnterrieuE.On thereduction of the systematic error in imaging radiometry by aper ture synthesis:a new approach for the SMOS space mission [J].IEEE Geoscience and Remote Sensing Letters, 2009，6(1):47-51.
+
+（责任编辑：刘芳）

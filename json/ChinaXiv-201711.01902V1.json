@@ -1,0 +1,791 @@
+[
+    {
+        "type": "text",
+        "text": "Taxonomic revision of lizards from the Paleocene deposits of the Qianshan Basin, Anhui, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DONGLi-Ping Susan E.EVANS² WANG Yuan1 (1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology andPaleoanthropology,ChineseAcademyofSciences Beijingl44,China dongliping@ivpp.ac.cn) (2 Department of Celland Developmental Biology,University College London London WC1E 6BT,UK) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Although the Late Cretaceous lizard fauna of China and Mongolia is relatively well-known,information on Paleocene lizards from the same region is currently limited. Several species of lizards have been reported from the Paleocene Wanghudun and Doumu formations of Qianshan Basin on the basis of fragmentary specimens,namely Agama sinensis Hou,1974,Anhuisaurus huainanensis Hou,1974,Anqingosaurus brevicephalus Hou,1976, Changjiangosaurus huananensis Hou, l976,Qianshanosaurus huangpuensis Hou,1974,and Tinosaurus doumuensis Hou,1974.In this paper,we review all the reported material of these taxa with the aid of new technology, including CT scanning,and according to current views of squamate relationships and classification.Revised descriptions and classifications are given for each taxon,leading to changes in our understandingof faunal composition.This,in turn,reveals greater morphological and ecological diversity among the Paleocene lizards of the Qianshan Basin,including the occurrence of a varaniform (IVPP V 22767),and the reinterpretation of Anqingosaurus as a possible burrower.Further work on the Paleocene Qianshan lizards is ongoing and the discovery of new specimens may help to solve the puzzles these strange lizards have posed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsQianshan Basin,Anhui,Paleocene,lizards, phylogeny,taxonomic revision, CT-scan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Dong LP,Evans S E,Wang Y,20l6.Taxonomic revision of lizards from the Paleocene deposits of the Qianshan Basin,Anhui, China.Vertebrata PalAsiatica,54(3): 243-268 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Paleocene is a key period for our understanding of the extent of the end-Cretaceous faunal turnover and the evolution and diversification of modern lineages (Alroy, 1999, Longrich et al.,2012, Brusatte et al.,2015, Sibert and Norris,2015), including squamates (lizards,snakes and amphisbaenians). However,Paleocene lizard fossils are very scarce outside North America (Gilmore,1942, Estes,1976, Sullivan,1982, Sullivan,1991, Sullivan and Lucas,1996), with fragmentary material reported from Belgium (Folie et al., 20o5), Romania (Gheerbrant et al.,1999),Morocco (Gheerbrant,1994,Augé and Rage, 2006),and Bolivia (Rage,1991). In Asia, there are currently only four known Paleocene squamate localities: a marine locality in Kazakhstan yielding sea snake remains (Averianov,1997),one in Pakistan with Gondwanan madtsoiid snake remains (Rage et al., 2014), and the Nei Mongol Subeng section and Qianshan Basin of China. The latter two localities are the only Paleocene localities in Asia that have yielded lizard fossils (Hou,1974,Hou,1976, Van Itterbeeck et al.,2007). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Qianshan Basin yields one of the important Paleocene deposits in the world. The horizons include the Early to Middle Paleocene Wanghudun Formation and the overlying Middle Paleocene Doumu Formation (Qiu et al., 1977, Wang et al., 2016). It has produced several key mammal genera, such as Mimotona and Heomys (Li,1977),as well as six species of lizards, namely Agama sinensis Hou, 1974, Anhuisaurus huainanensis Hou, 1974,Anqingosaurus brevicephalus Hou, 1976, Changjiangosaurus huananensis Hou, 1976,Qianshanosaurus huangpuensis Hou, 1974, and Tinosaurus doumuensis Hou, 1974. In this paper we re-assess the existing material of each lizard taxon using both traditional paleontological methods and high-resolution micro-CT scanning. The new data obtained permit us to re-evaluate the position of each taxon within the current phylogenetic framework for squamates. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All the specimens included in this paper were originally reported and named in Hou (1974, 1976) from the Early to Middle Paleocene Wanghudun and Doumu formations of Qianshan Basin (see Table 1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To obtain additional anatomical data, several of the fossils (IVPP V 4450, 4450.1, 4452, 22767） were scanned using $2 2 5 ~ \\mathrm { k V }$ micro-computerized tomography (developed by the Institute of High Energy Physics, Chinese Academy of Sciences (CAS)) at the Key Laboratory of Vertebrate Evolution and Human Origins, CAS. Two scans were conducted. The specimens, V 4450, 4450.1, and $\\mathrm { ~ V ~ } 4 4 5 1$ were scanned once with a beam energy of $1 3 0 ~ \\mathrm { k V }$ and a flux of $1 0 0 ~ \\mathrm { { u A } }$ at a detector resolution of $1 0 . 9 8 ~ \\mathrm { u m }$ per pixel using a $3 6 0 ^ { \\circ }$ rotation with a step size of $0 . 5 ^ { \\circ }$ and an unfiltered aluminium reflection target, whereas the specimen V 22767 was scanned with a beam energy of $1 5 0 ~ \\mathrm { k V }$ and a flux of $1 0 0 ~ \\mathrm { { u A } }$ at a detector resolution of $3 9 . 2 0 ~ \\mathrm { u m }$ per pixel. A total of 72O transmission images were reconstructed for each scan in a $2 0 4 8 { \\times } 2 0 4 8$ matrix of 1536 slices using a two-dimensional reconstruction software developed by the Institute of High Energy Physics, CAS.Models were rendered using VG Studio 2.1 and Mimics Research 17.0,and the 3D models were manipulated in Meshlab (http://meshlab. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "sourceforge.net/) and Meshmixer (http://www.meshmixer.com/).",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/db2b1c97f09202366acfcff06c7a888ddca99e8df1ae4404c343efb547ce66d1.jpg",
+        "table_caption": [
+            "Table1 The Paleocene lizard-bearing horizons of the Qianshan Basin and the species yielded from each horizon "
+        ],
+        "table_footnote": [
+            "Note:The correlation between the horizons and the fossil pits is taken from Qiu et al.(1977). "
+        ],
+        "table_body": "<html><body><table><tr><td>Horizon</td><td>Lizard pits</td><td>Taxon</td><td>Systematic position</td></tr><tr><td rowspan=\"3\">Upper M., Doumu Fm.</td><td>71017</td><td>Anhuisaurus huainanensis</td><td>Squamata incertae sedis</td></tr><tr><td></td><td>Varaniformes gen. et sp. indet.</td><td>Varaniformes</td></tr><tr><td>71018</td><td>Tinosaurus doumuensis</td><td>Iguania,Acrodonta</td></tr><tr><td rowspan=\"4\">Lower M.,Doumu Fm. Upper M.,Wanghudun Fm.</td><td>71079(72)</td><td>Agama sinensis</td><td>Iguania,Acrodonta</td></tr><tr><td>70021</td><td>Qianshanosaurus huangpuensis</td><td>Iguania,Acrodonta</td></tr><tr><td>71001</td><td>Anqingosaurus brevicephalus</td><td>Squamata incertae sedis</td></tr><tr><td></td><td>Changjiangosaurus huananensis</td><td>Squamata incertae sedis</td></tr><tr><td></td><td>71002</td><td>Qianshanosaurus huangpuensis</td><td>Iguania, Acrodonta</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Abbreviationsadd.fs,adductor fossa; an, angular; an.pr,angular process; ar, articular; ar.s,articular surface; a.san.f, anterior surangular foramen; bsp, basisphenoid; cho. fs, choanal fossa; co, coronoid bone; condy, condyle; den, dentary; deps,depression; diap, diapophysis; ds.fl, descending flange; ecpt.ft, ectopterygoid facet; for, foramen/foramina; f.pr. facial process; fr, frontal; frpa.st, frontoparietal suture; fr.pr, frontal process; frprf.st, frontoprefrontal suture; im.s,intramandibular septum; in.pr, incisive process; io.ca,infraorbital canal; j.ft, jugal facet; j.pr, jugal process; la.ft, lacrimal facet; man, mandible; max, maxilla; max.ft, maxillary facet; Mk.gr, Meckel's groove; mt.f, mental foramina; ne.sp, neural spine; n.pr, nasal process; occ, occipital; on.f, orbitonasal flange; o.s.a.c, opening for superior alveolar canal; ot.cap, otic capsule; p.pr.an, posterior process of the angular; p.pr.as, pit for processus ascendens; p.san.f, posterior surangular foramen; pa, parietal; pal, palatine; pal. slf, palatal shelf; par, prearticular; pmax.pr, premaxillary process; popa.pr, postparietal process; prf, prefrontal; pro, prootic; prsa, presacral; przygo, prezygapophysis; pt, pterygoid; qu, quadrate; ra.pr, retroarticular process; sa, sacrum; san, surangular; sbd.rg, subdental ridge; sbd.slf, subdental shelf; sc.ca, semicircular canal; so, supraoccipital; spl, splenial; sy, symphysis; synap, synapophysis; ver.col, vertebral column; v.pr, vomerine process. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3Systematic paleontology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Squamata Oppel, 1811 Iguania Cope, 1864 Acrodonta Cope, 1864 Agama sinensisHou,1974 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Holotype IVPP V 4454,an incomplete right maxilla (Fig. 1). Locality and horizon Fossil pit 71O79(72), $3 0 0 \\mathrm { ~ m ~ }$ south of Hanlaowu (Hanhuawu), Huangpu Village, Qianshan County; Lower Member, Doumu Formation (Middle Paleocene). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/56706c660c27b3d0d03504ecf3bb95b80dfa7cf3cc3a776791b8cc144eac8429.jpg",
+        "img_caption": [
+            "Fig.1 Agama sinensis Hou,1974,the holotype IVPP V 4454, right maxilla in labial (upper) and ventromedial (lower) views "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Diagnosis (of Hou, 1974) Small agamid with the following characteristics: teeth acrodont and heterodont, laterally compressed and conical,and enlarged from front to back;maxilla with one foramen at the base and developed posterior jugal process that extends postero-laterally; jugal positioned below the orbit. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DescriptionThe holotype is the posterior part of a poorly preserved right maxilla, including part of the facial process and palatal shelf, the jugal process, and five teeth. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1l laviai pivvvss is IssIg avepi for the base, the broken edge of which demonstrates the original thickness.The lower part of its posterior margin is gently sloped and seems intact. At the level of the first preserved tooth, along the junction of the facial process and the palatal shelf, there is a large foramen. The jugal process is nearly complete, and tapers into an edentulous posterolateral tip.The process is dorsoventrally compressed, providing facets for the jugal and probably the ectopterygoid. The facets face dorsally, indicating that the jugal bone was positioned right below the orbit. The lateral edge of the jugal process extends beyond that of the tooth row. In medial view, the palatal shelf is visible,but incomplete. It grades posteriorly into the horizontal jugal process. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The five acrodont teeth are all monocuspid,and are laterally compressed cones with relatively broad bases. The teeth are enlarged successively from front to back.Their bases do not overlap,although they seem tightly spaced in lingual view (well spaced in labial view). The teeth are tightly ankylosed with the maxilla, with a dorsolingual atachment so that tooth height appears greater in lingual view. In this view, the tooth is fan-shaped, with a slight central bulge.There are no discernible resorption pits,indicating that this part of the tooth series was not replaced. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RemarksHou (1974) reported that IVPP V 4454 was from the Upper Member of the Wanghudun Formation. However, a combination of locality data and geology (Qiu et al.,1977) suggests the specimen was actually from the Lower Member of the Doumu Formation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The taxonomic position of Agama sinensis has been problematic for a long time due to its poor preservation. Attribution to the genus Agama was based on ‘the strongly developed posterior part, the placement of the jugal below the orbit, the laterally compressed acrodont and heterodont teeth which are enlarged from front to back' (Hou, 1974). Scott Moody (1980; in litt.） stated that this specimen (V 4454) more closely resembled Mimeosaurus (q.v.） from Late Cretaceous Gobi Desert than the Agama/Stellio group species (Estes,1983),but without any morphological discussion. Li et al. (2008) suggested that the specimen could be put into other families because its teeth are homodont and pleurodont. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Placement of the specimen has to be based on its morphological characteristics. Among living taxa, acrodont teeth are found only in acrodontan lizards, trogonophid amphisbaenians, and rhynchocephalians. The non-overlapping arrangement of the teeth, their lingual placement, and the absence of anterior and posterior flanges excludes Rhynchocephalia, whereas jaw length (allowing for breakage) renders amphisbaenian attribution unlikely. The specimen is therefore likely to be acrodontan.It is broadly comparable with Chamaeleontidae (Evans, 2008,Anderson and Higham,2013),and members of the“Agamidae” such as Leiolepidinae (Smith, 2011),Amphibolurinae (Hocknull, 2002) and Agaminae (Xiong and Wang, 2006, Fathinia et al.,2011, Baig et al., 2012). However, atribution to the Cretaceous Priscagaminae (Borsuk-Bialynicka and Moody,1984) cannot be ruled out, although the jugal may be fused to the maxilla in members of this group (e.g. Mimeosaurus,IVPP V 10031-10037). V 4454 is therefore too fragmentary to classify and Agama sinensis should be treated as a nomen dubium. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Qianshanosaurus huangpuensis Hou, 1974 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Holotype IVPP V 4448, a nearly complete lower jaw (Fig. 2A). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Paratype IVPP V 4449,a pair of incomplete lower jaws (Fig. 2B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Referred specimensIVPP V 22768,an incomplete right maxilla (Fig. 2C); V 22769, part of a vertebral column (thirteen trunk vertebrae),a possible pelvic element and a possible quadrate (but see Remarks with respect to this specimen). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Type locality and horizonFossil pit 7Oo21,about $3 0 0 \\mathrm { ~ m ~ }$ east of Lijialaowu, Huangpu Village, Qianshan County, Anhui; Upper Member, Wanghudun Formation (Early-Middle Paleocene). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DistributionType locality and Fossil pit 71002 (about $1 0 0 \\mathrm { ~ m ~ }$ northwest of Haixingdi, Huangpu Village, Qianshan County); Lower and Upper Members of Wanghudun Formation, Early-Middle Paleocene. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Revised diagnosisLarge acrodontan that is distinguished from other living and fossil acrodontans by the following character combination: posterior position of dentary symphysis; coronoid process of the dentary present; splenial large; coronoid bone without labial process; angular strongly developed with great expansion at the level of the coronoid process; adductor fossa smal; prearticular process broad; teeth sub-rectangular in lateral or medial view with low apices and lingual attachment. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Description (based on all the available specimens） The dentary is robust with a deep anterior end. There seems to be a small notch as the lower part of the dentary protrudes anteriorly. The labial surface is perforated by four foramina,running in a line from the anterior notch (V 4449). Posteriorly, the dentary extends posterior to the apex of the coronoid bone. The anterior surangular foramen is located in the suture between the dentary and the surangular. Lingually, the well-developed symphysial surface (right mandible of V 4449) is oval and anteroposteriorly elongated, facing medially. Its position on the dentary is specialized, in that it lies slightly posterior to the anterior tip of the dentary, rather than along the margin. The subdental shelf is consistently deep until it narrows sharply from the level of the eighth/ninth tooth.Meckel's groove is open ventrally below the symphysis but is closed by the splenial along the posterior half of the bone. The ventral edge of the dentary is inturned medially to form the floor of Meckel's groove. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa6887f5d0071cf400db4c179c9d4b066b4a8874d22be265b960956e7a9b22db.jpg",
+        "img_caption": [
+            "Fig.2Qianshanosaurus huangpuensis Hou,1974 ",
+            "A.the holotype IVPP V 4448,a lower jaw: photograph (A1)and line drawing (A2) in lateral view; photograph (A3)and line drawing (A4) in medial view; B. photographs of the paratype V 4449,a pair of lower jaws in lateral (B1)and medial (B2) views; C.photographs of the referred right maxilla V22768 in lateral (Cl) and medial(C2) views.The red lines in the line drawings are the sutures between different elements "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There are eighteen dentary teeth, all similar in shape, but increasing somewhat in size posteriorly. The teeth are closely spaced and those in the posterior part of the row overlap to a small extent. The teeth are acrodont and laterally compressed. In labial view they are rectangular with a low central cusp, but in lingual view the teeth expand from a restricted, columnar base to a broad, shovel-like crown. There are no obvious resorption pits at the tooth bases,indicating that the marginal teeth were not replaced. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The splenial is large and subtriangular. The posterior end of the bone reaches the level of the coronoid process. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The coronoid bone bears a tall dorsal process,a well-developed posteromedial process, a posterior process, but no labial process. The anteromedial process is not preserved on any specimen. A ridge runs from the apex of the dorsal process toward the ventral end of the posteromedial process,marking the line of attachment of the pseudotemporalis posterior muscle. The posterior process extends horizontally, overlying the dorsal margin of the surangular. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The surangular is short and deep, with a slightly concave lateral surface. Its dorsal border is broad, but overlain by the posterior process of the coronoid bone. The posterior surangular foramen is located anterior and dorsal to the articular surface.The medial adductor fossa is unusually small and shallow. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The angular is highly developed. It lies mainly on the medial surface of the mandible, where it expands gradually from the level of the tenth tooth,reaching its greatest depth just anterior to the level of the coronoid process.From there, the angular is twisted onto the lateral surface of the lower jaw and extends posteriorly to reach the articular. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The articular bears a deep prearticular process whose depth is greater than half of the depth of the lower jaw at the same level. The articular surface faces dorsally and slightly medially. There is no ridge or tubercle in front of the joint surface.The retroarticular process is broad-based,and narrows posteriorly, but it is incomplete. Only the base of the angular process is preserved, but it appears to extend posteroventrally from the base of the prearticular process. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Taken together, the features of the lower jaw of Qianshanosaurus huangpuensis are suggestive of an unusual feeding mechanism in which the main external and posterior adductor muscle mass (attaching to the surangular and adductor fossa respectively) may have been less important than the internal adductors (pseudotemporalis and pterygoideus,ataching to the coronoid flange and angular process respectively). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The maxilla (Fig. 2C) has a deep premaxillary process,the anterior tip of which is raised to form the articular facet for the premaxilla.A large foramen,probably the opening of the superior alveolar canal, penetrates the horizontal lamina of the process. The facial process has a wide base,and its anterior margin is angled more steeply than the posterior margin. The jugal process points laterally and posteriorly,and the jugal facet faces dorsally and laterally. The broad palatal shelf rotates clockwise along its junction with the alveolar margin, creating an acute angle between the palatal shelf and the facial process.The maxillary teeth are similar to those of the dentary. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A possible partial quadrate(V 22769) lies on the left side of the vertebral column. The slightly concave bone fragment may represent the anterolateral lamina of the quadrate, but no further interpretation is possible. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The preserved vertebral column (not figured) is composed of thirteen successive trunk vertebrae,nine of which are preserved on a sandstone block in ventral view,and the four preceding articulated vertebrae were prepared out from the same sandstone block. The vertebrae show no features of particular interest. The centra are procoelous, elongated,and slightly tapered posteriorly. The ventral surface of each centrum is smooth (i.e. without ridges). The neural arches of the separate four vertebrae preserve bases of the spines along the midline (the neural spines are incomplete). It is difficult to tell whether the anterior margin of the arch is notched,or whether the zygosphene is present, due to the preservation. The synapophysis is small,and elongated along an axis from posterodorsal to anteroventral, on the pedicle of the prezygapophysis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "On the same side of the vertebral column as the quadrate, a small piece of bone bears a depression and may be the acetabulum of the pelvis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RemarksThe maxilla (V 22768) was described by Hou (1974), but not given a catalogue number. It was recovered from the fossil pit 71o02 within the Lower Member of Wanghudun Formation. As mentioned above and in Hou's (1974) paper, the maxilla can be assigned to Qianshanosaurus huangpuensis based on the similarity of the teth to those of the holotype dentary. The vertebral column (V 22769) was originally included in the paratype specimen and, according to Hou (1974) was discovered together with the paratype (a label of V 4448,the holotype number, was attached to the specimen, but must be a mistake). However there is no evidence that the paratype (a pair of lower jaws) or the vertebral column came from the same individual and it is better to treat them separately. Therefore a new catalogue number has been given to the vertebral specimen. Moreover, as the vertebral column was on a separate block there is also no certainty that it is referable to $\\boldsymbol { Q }$ 、huangpuensis.There were three more vertebrae in the original paper (see Hou, 1974: pl.I),which are not available now. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "When the posterior half of the holotype lower jaw was glued to the anterior half, it was misaligned slightly posteriorly and ventrally. However, the specimen has not been re-prepared to avoid further damage. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hou (1974) assigned Qianshanosaurus to the Iguanidae (Pleurodonta) based on the homodont and pleurodont teeth, the large dentary, the medial expansion of the coronoid bone, and the long anteromedial process of the coronoid which reaches the level of the penultimate tooth.Estes (1983) considered Qianshanosaurus to be incertae sedis,and Li et al. (2008) followed this opinion, although they agreed with Hou (1974) in interpreting the teeth as pleurodont. We regard the teeth of Qianshanosaurus as acrodont based on the complete coalescence between the teeth and the tooth-bearing bones,although they do show a lingual rather than apical attachment. The development of the coronoid process of the dentary and the homodont and acrodont (or pleuroacrodont) teeth support the recognition of Qianshanosaurus as an acrodontan lizard similar to Uromastyx. This partly agrees with the opinion of Alifanov (2009)who referred Qianshanosaurus, Creberidentat from Middle Eocene of China, and Acrodontopsis,Agamimus, Graminisaurus, Khaichinsaurus,Lavatisaurus and Lentisaurus from Middle Eocene of Mongolia to the acrodontan family Changjiangosauridae (Superfamily Uromastycoidea). The similarity of these taxa to one another, in the morphology of dentary, maxilla and teeth, does suggest they are closely related to each other and probably to the extant Uromastyx. However, these taxa do not share any derived characters with Changjiangosaurus (see below), so without evidence of relationship they should not be regarded as belonging to Changjiangosauridae. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tinosaurus doumuensis Hou, 1974 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Holotype IVPP V 4453,a nearly complete left maxilla, a nearly complete left lower jaw, and a possible fragmentary pterygoid (Fig. 3). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Locality and horizon Fossil pit 71018, $1 5 0 \\mathrm { ~ m ~ }$ southwest of Chongliwu, Huangpu Village, Qianshan County, Anhui; Upper Member, Doumu Formation (Middle Paleocene). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Diagnosis (revised from Hou,1974) Medium-sized acrodontan lizard with the following characteristics: heterodont, anterior teeth pleurodont and cone-like,and posterior teeth subacrodont and laterally compressed; maxillary acrodont teeth triangular, unicuspid,and isodont; dentary acrodont teeth tricuspid with the large main cusp slightly separated from the small lateral cuspids; lower jaw slender anteriorly; Meckel's groove open medially. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c057197107cf16dc75c174cb0f1d27976857c234937f37849fe5a89c7c4d47f.jpg",
+        "img_caption": [
+            "Fig.3Photograph of Tinosaurus doumuensis Hou,1974 (holotype,IVPP V 4453) The maxilla and lower jaw are disarticulated from each other "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Description Although the maxilla and the lower jaw are disarticulated from each other, their close approximation on the same block indicates they are likely to be from the same individual, as does their similarity in size and texture. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The maxilla bears a relatively short premaxillary process which is inturned medially to form a horizontal lamina.The anterior tip of the maxilla is broken and therefore it is impossible to determine whether there was a dorsal projection from the horizontal lamina,or whether the two maxillae met in the midline behind the premaxilla.The facial process has a broad base, with shallow anterior and posterior margins. The jugal process is long with a horizontally positioned jugal facet, but it only extends a short distance beyond the tooth row. There is a medial palatal shelf,and, probably, a maxillary lappet (Evans,2008). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "There are at least four anterior pleurodont teeth separated by a short gap from the posterior acrodont series.The pleurodont teeth are small and cylindrical due to the broken tips. The acrodont teeth increase gradually in size posteriorly and the spacing between individual teeth narrows, so that the dentition changes from being loosely spaced to closely spaced posteriorly. The acrodont teeth are laterally compressed,and triangular in labial view. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The dentary is slender and narrows anteriorly to the symphysis,but this surface is obscured by matrix.A subdental shelf is present, but it is not clear how well developed it is. The suture between the dentary and the post-dentary elements is indistinct and therefore the shape of the posterior margin of the dentary is unknown. The dentary dentition is composed of four anterior pleurodont teeth and a posterior acrodont series, probably separated by a gap. The acrodont teth number eight or nine according to the preserved bases and the gaps between them.The second acrodont tooth, preserved unbroken, is laterally compressed and triangular in labial view. Two weak cuspids seem to be present to the sides of the main cusp. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The coronoid bone only preserves the anteromedial process which reaches the level of the third tooth from the rear. Judging from the position of the anteromedial process, there seems to be no gap between the tooth row and the dorsal process. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The posterior part of the surangular is preserved, with the posterior surangular foramen located anterior and ventral to the articular surface. The adductor fossa is small and faces medially. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The articular surface is horizontally oriented,and is divided by a weak ridge into the lateral and medial halves.A retroarticular process is not preserved. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "There is a fragmentary bone posterior to the maxilla, which bears a small but deep circular depression. The depression suggests this may be a fragment of the pterygoid where the epipterygoid was articulated. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RemarksThe species was diagnosed on the basis of the small, conical pleurodont teeth on the maxilla and dentary, the absence of any overlap between the acrodont teeth, the triangular maxillary acrodont teeth, the slender lower jaw,and the non-triangular facial process of the maxilla (Hou, 1974). However, the facial process of Tinosaurus doumuensis is broken, and it is difficult to determine its general shape.A re-examination of T. lushiensis from China, represented by the posterior part of the maxilla preserved in medial view, found no obvious differences between T. doumuensis and T. lushiensis.Moreover, the genus Tinosaurus seems to be a ‘waste-bin' taxon, that probably includes more than one genus (Estes,1983, Smith et al., 2011).The assignment to Tinosaurus is generally based on the general similarity of teeth and the geological age. In T. doumuensis,the uncertainty of the tricuspid nature of the teeth cast further doubt on its attribution. Nonetheless, herein we retain the original attribution pending revision of Tinosaurus asa whole. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Anguimorpha Fürbringer, 1900 Varaniformes Conrad, 2oo8 gen. et sp. indet. ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Material IVPP V 22767,a nearly complete right dentary, partial vertebral column with six articulating vertebrae, and a sacrum with an associated last presacral (Fig. 4). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Locality and horizon Fossil pit 71O17, Yangxiaowu, Qianshan County, Anhui; Upper ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b64b52a9a194554068e7985d4005da2d41df97e47a4af945d90bd310b8c3f43.jpg",
+        "img_caption": [
+            "Fig.4Varaniformes gen.et sp.indet. A. photograph (A1) and 3D rendering from CT scans (A2) of IVPP V 22767,the arrows point out the precondylar constriction of the centra; B.the partial vertebral column in right lateral view; C.the right dentary in labial (C1) and lingual (C2) views; D.the last presacral and first sacral vertebrae in dorsolateral view.B,C and D are not to scale "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Member, Doumu Formation (Middle Paleocene). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DescriptionThe partial vertebral column (Fig. 4A,B) consists of six posterior trunk vertebrae exposed in ventral view. The ventral surfaces of the centra are flat and without ridges,and there is a clear precondylar constriction. The specimen was CT-scanned and the reconstruction of the column reveals the lateral and dorsal parts of the vertebrae,and the depressed shape of the condyles,which are otherwise indiscernible. Each condyle faces mainly dorsally. Laterally, the synapophysis is seen to be located on the pedicle of the prezygapophysis. It is small and short mediolaterally, and its lateral end does not extend beyond the lateral edge of the prezygapophysis,which is different from the condition in Varanus (IVPP Anatomy La.b specimen). The synapophysis is elongated along an axis from posterodorsal to anteroventral. A lateral view of the column shows the low, broad neural spines. Each spine inclines posteriorly, but does not extend beyond the level of the postzygapophyses. It has a straight dorsal edge bearing an epiphysis. The posterior neural spines show gently sloped anterior edges,which, if correctly reconstructed (the possibility that it is artifact of segmentation cannot be ruled out), is different from that of Varanus where the anterior edge is nearly vertical. There is no sign of a pseudozygosphene, which is present in Saniwa ensidens (Rieppel and Grande, 2oo7),and the anterior margin of the arch is not notched. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The last presacral and the first sacral vertebrae are preserved posterior and to the right of the column (Fig. 4D), the two being loosely articulated with a slight displacement. Both centra and the left transverse process of the sacral are missng. The last presacral bears a small synapophysis which is better preserved on the right side,and a low neural spine bearing an epiphysis on the dorsal edge. The right pre- and post-zygapophysis are complete,and are oriented vertically rather than horizontally. The right sacral transverse process (diapophysis) has a forked distal end which would have articulated with the ilium in life.The neural spine is taller in the first sacral than in the last presacral and also bears an epiphysis. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A nearly complete dentary (Fig. 4C) is preserved on the left side of the column, with its anterior tip overlapped by the column.The posterior and ventral margins are partially broken. The dentary is slender, with its anterior tip medially curved.The labial surface is smooth and delineated with several foramina that connect with the internal alveolar canal. The posterior margin was probably vertical as in most varaniforms. The shape and degree of development of the symphysis is unknown due to poor preservation. Meckel’'s groove, opening ventrally due to the development of the subdental shelf, extends to the anterior tip of the dentary. The intramandibular septum is well developed, lacking a ventral free margin as in Anguidae. The subdental shelf is deep but a subdental ridge is lacking.The depth of the subdental shelf decreases posteriorly and ends in a narrow tip,suggesting that the dentary,at least its dorsal part, is nearly complete. The ventral border of the dentary shows a probable articulation facet for the splenial in its midsection,indicating that the splenial might extend anteriorly to at least the level of the third tooth. Medially, the deep alveolar border bears four sharp,recurved,and laterally compressed pleurodont teeth which are widely spaced along the anterior half of the dentary. Based on the length of the dentary, there would not have been more than ten teeth in total. No further detail of tooth morphology (e.g. the presence of plicidentine) is available due to the preservation and scan resolution. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "RemarksThis specimen(V 22767) was originally included in the holotype of ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Anhuisaurus huainanensis. Hou (1974) wrote that the specimen IVPP V 4450 consists of “an incomplete skull, partial mandibles and a section of vertebral column”,although the vertebral column is actually preserved in a separate block. Our re-examination showed that the partial vertebral column was varaniform whereas the holotype skull of Anhuisaurus was clearly not (see below). The vertebral column specimen was therefore given a new catalogue number. In Hou (1974), the sacrum and dentary were described as part of the pelvic girdle and hind limb respectively and were not given a detailed description due to the poor preservation. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The precondylar constriction, the dorsally facing condyle,and the sub-rectangular shape of the neural spines suggest the partial vertebral column is that of a varaniform lizard. The size and morphology of the two disarticulated vertebrae (the low neural spine of the presacral and the absence of the pseudozygosphene) are consistent with those of the rest of the vertebral column.The dentary is also varaniform and its size is consistent with that of the vertebrae (based on the dimensions of a specimen of Varanus sp. in the Anatomy Lab of the IVPP). Therefore the three parts of the specimen are here considered to represent a single individual. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Squamata incertae sedis AnhuisaurushuainanensisHou,1974 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Holotype IVPP V 4450, rostral portion of the skull (premaxilla, maxilla and dentary) (Fig. 5A). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ParatypeIVPP V 4450.1, anterior part of the skull (maxilla, dentary, prefrontal and palatine) (Fig. 5B). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Locality and horizon Fossil pit 71017, southwest of Yangxiaowu, Huangpu Village, Qianshan County,Anhui; Upper Member, Doumu Formation (Middle Paleocene). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Revised diagnosisMedium to large lizard that differs from other named species in the following combination of characters: slender and long nasal process of the premaxilla; incisive process of the premaxilla present, ventrally directed,and single; broad horizontal lamina of the premaxillary process of the maxilla; smooth oblique anterior narial margin of the maxilla; five pleurodont teeth on maxilla and premaxilla,and six on dentary, followed by a series of apparently acrodont teeth that increase in size from anterior to posterior. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Description (based on both the holotype and the paratype） The premaxilla is preserved on the holotype (Fig. 5C) and is rotated along its mediolateral axis so that the alveolar plate is horizontally positioned. The premaxilla is unpaired, and its nasal process is slender and triangular in section.If it were restored to its original position, the preserved nasal process would be directed dorsally rather than posteriorly, suggesting the skull was tall. The premaxillary palatal shelf is well-developed and a single, ventrally directed incisive process is located on the posterior margin of the shelf. The articulation between the premaxilla and the maxilla cannot be reconstructed due to poor preservation and the resolution of the CT images. The alveolar border bears four preserved pleurodont teeth and one vacant tooth position. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Parts of the maxillae are preserved on both specimens, but the right maxilla of the paratype (Fig. 5D) is the most complete, although it probably preserves only the anterior half.The premaxillary process bears a broad horizontal lamina, the anterior part of which is slightly upturned. The facial process is not completely preserved in any of the maxillae, but the narial margin is seen to slope gradually and smoothly into the premaxillary process, and ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a5afcad239e726f4f2141a8388072325bba2722ad6834507b20b2a7f6e364f5.jpg",
+        "img_caption": [
+            "Fig.5 Anhuisaurus huainanensis Hou,1974 "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A. the holotype IVPP V 4450, rostral portion of the skul: photograph (A1) and 3D rendered CT image(A2) in dorsal view; B.the paratype V 4450.1,anterior part of the skull: photograph (B1) and 3D rendered CT image (B2) in dorsal view; C.3D rendering of the premaxilla in V 4450 in posterior view; D.3D rendering of the right maxilla of V 4450.1 in labial view; E.restored 3D rendering of the left prefrontal and palatine of V4450.1 in posterior (E1) and anterior (E2) views; F 3D rendering nf the left dentarv nf V 445n in linmial view C D F and F are nnt tn crale ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "to curve medially into a lamina that is continuous with the dorsal surface of the premaxillary process. At the base of the narial margin there is a medial foramen (opening of the superior alveolar canal) through which the maxillary nerve and accompanying blood vessels passed. In lingual view, the palatal shelf is seen to be well-developed (Fig. 5A2). The alveolar border bears five anterior pleurodont teeth. Based on the dentary morphology (see below), we would expect to find a series of acrodont maxillary teeth posterior to the pleurodont ones, but none were discernible despite careful analysis of the CT images. This is probably an artefact of preservation. The alveolar border extends ventrally and becomes deeper behind the pleurodont teeth. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The left prefrontal (Fig. 5E) is partly preserved on the paratype, but is displaced. The frontal process is missng,but the orbitonasal flange is complete and can be brought into articulation with the palatine.In lateral view, there is a small depression on the antero-ventral corner,which is probably the facet for the maxilla or the lacrimal. The lateral margin of the orbitonasal flange is smooth, suggesting that a lacrimal foramen was present between it and the lacrimal (or the maxilla). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The left palatine (Fig. 5E) is also preserved on the paratype.It is broad, with anterior vomerine,lateral maxillary, and posterior pterygoid processes, although the latter is not complete.A choanal fossa is evident on the palatal surface,and dorsally the bone bears a ridge that articulates with the prefrontal. At the base of the ridge is a groove that extends laterally into the infraorbital canal, which is closed by the maxilla. Based on the original position of the palatine,the interpterygoid vacuity probably extended between the palatines,but whether it reached the vomers is uncertain. There were no palatine teeth present. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The dentary (Fig. 5F) is best preserved in the left side of the holotype.It is rather shallow, with a more or less straight ventral border. The narrow anterior tip bears a relatively large medial symphysial surface (clear in the paratype left dentary,Fig. 5B2) that forms an anteroposteriorly elongated oval. Meckel's groove runs along the ventral border of the dentary from the ventral margin of the symphysis to the level of the last pleurodont tooth.Posterior to that point, the groove is partially floored by the medially curved labial wall of the dentary and faces medially. A splenial or angular may have been present to close the groove, but there is no discernible facet for either of these elements.A subdental ridge is present.The dentition is well preserved on the holotype left dentary. There are six anterior pleurodont teeth, the last three of which are angled slightly posteriorly.The fourth is the largest, but it is not caniniform compared with the rest. Posterior to this, there are a maximum of six acrodont teeth preserved in the available specimens.These teeth increase in size from front to back and are well spaced. Each tooth is compressed laterally and is triangular in labial view. The posterior tooth crowns appear tricuspid, but this may be an artefact of the CT image. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "RemarksAnhuisaurus was referred to the Agamidae by Hou (1974) based on the acrodont and heterodont nature of the dentition. The original diagnosis also included the shallw and elongated nature of the skull, the posterior inclination of the posterior teeth, few teeth,wide premaxilla, straight maxillary anterior margin, subrectangular maxillary facial process, straight dentary lower border, broad dentary symphysis, procoelous vertebrae and conical centra.However, as noted above, the vertebral features are based on the misassociation of a varaniform specimen. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Estes (l983) cautioned that it was difficult to interpret the features due to the poor preservation of the specimens and raised the possibility of Anhuisaurus being an amphisbaenian due to the short tooth row in the holotype.Li et al.(2008) considered Anhuisaurus to be incertae sedis. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The phylogenetic position of Anhuisaurus has remained uncertain due to the ambiguous interpretation of its anatomy. To aid clarification, we CT scanned both the holotype and paratype. The digital renderings show that the anterior marginal teeth are pleurodont, instead of acrodont, but that acrodont teeth are present posteriorly where there were thought to be no teeth (Hou, 1974, Estes,1983,Li et al.,2008). Therefore the dentition in Anhuisaurus is heterodont. The tooth row is longer than that found in known amphisbaenians. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The heterodont dentition and the posterior acrodont teeth, as well as the configuration of Meckel's groove and the morphology of the palatine suggest Anhuisaurus could be a basal acrodontan, as Hou (1974) suggested, but as some of these features (tricuspidy, shallow alveolar shelf, strongly implanted posterior teeth) are also found in teioid/polyglyphanodontid lizards, the phylogenetic position of this lizard remains uncertain pending the recovery of more complete material. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Anqingosaurus brevicephalus Hou, 1976 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Holotype IVPP V 4452, an incomplete skull (Fig. 6). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Locality and horizon Fossil pit 71oO1,about $1 5 0 \\mathrm { m }$ southeast of Wangdawu, Huangpu Village, Qianshan County, Anhui; Lower Member, Wanghudun Formation (Early Paleocene). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Revised diagnosis (after Hou,1976) Small squamate showing the following characters: deep skull; unpaired frontal with cristae cranii developed anteriorly but not meeting in the midline; interdigitated frontoparietal suture; parietal foramen present; descending flange of the parietal not contacting the prootic; postparietal process of the parietal slender; articular surface of mandible facing posteriorly; maxillry and dentary teeth pleurodont and tooth row short. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DescriptionThe specimen is poorly preserved and its small size also hinders the delicate preparation. It is also coated with preservative which obscures some of the details. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "As preserved (Fig. 6A), the skullis deep with a short, pointed preorbital region. Although the premaxilla is missing/damaged, along with the nasals and the anterior part of the frontal, the presence of the anterior parts of the dentaries shows that very litle of the snout is missing. The maxilla has a well-developed facial process and teeth are visible along the alveolar margin. The orbit is framed anteriorly by a poorly preserved prefrontal and dorsally by the preserved parts of the frontal, but all other framing elements (e.g. the posteroventral part of the maxilla, jugal, or postorbital bones) appear to be missing. The frontal is unpaired and the parietal is long, with two slender postparietal processes (supratemporal processes) that run posterolaterally along the lateral margins of the braincase,which is therefore partly exposed in dorsal view.The posterior margin of the parietal is incomplete, but the pit for the ascending process of the supraoccipital is exposed.The supraoccipital bears no ridge or crest. The lower jaw is shallow anteriorly and deepens posteriorly. The sutures between elements are unclear but the coronoid bone is visible. The quadrate is straight and apparently narrow, and its ventral end articulates with the articular of the lower jaw. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/94a2520341f6602b195899503f7a5f15129ef4449e058d6c5b418ac627af0277.jpg",
+        "img_caption": [
+            "Fig. 6 Skull of Anqingosaurus brevicephalus Hou,1976,the holotype IVPP V 4452 A. photographs in dorsal (A1) and left lateral (A2) views; B-I. CT scanning images: B.coronal section through the frontal-prefrontal suture; C.horizontal section through the frontoparietal suture; D.sagittal section through the descending flange of the parietal; E. horizontal section through the otic capsule; F.horizontal section through the basisphenoid; G.sagital section through the quadrate-articular joint; H.coronal section through the adductor fossa; $\\mathrm { \\bf B ^ { \\prime } { - } } \\mathrm { \\bf H ^ { \\prime } }$ show the location of each section in the specimen; I. sagittal section through the region of the maxillary teeth. CT scanning images are not to scale "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The specimen was CT-scanned in an attempt to clarify its morphological features. However, the images obtained were too poor to segment out individual elements and the following description is based mainly on data from individual CT section images (Fig. 6B-I). Nonetheless, these do provide some important new data. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A palatal shelf is visible on the maxilla and the maxillary teeth are revealed to be pleurodont (Fig. 6I) rather than acrodont as described in the original paper (Hou,1976). The teeth are large and few (seven teeth in total). The cristae cranii(descending processes) of the frontal extend ventrally to a relatively greater extent anteriorly than posteriorly, providing a broad facet for the prefrontal (Fig.6B).Posteriorly the lateral margins of the frontal are thickened rather than crested. The frontoparietal suture is strongly interdigitated (Fig. 6C). The adductor shelf of the parietal is well-developed and bears a descending flange (Fig. 6D), although this does not reach the braincase (prootic).The adductor surface, where the adductor muscles originate, faces laterally in the anterior part of the bone where the descending flange of the parietal is well-developed, but the surface faces ventrally posterior to that. The parietal table extends laterally only to a small extent, restricting the surface of origin for adductor muscles.The parietal foramen is present within the parietal. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The central pillar of the quadrate is nearly straight (Fig. 6G),and the posterior end of the pterygoid reaches it. The braincase is long and the anterior margin of the basisphenoid reaches forward beyond the level of the frontoparietal suture. The otic capsule is huge,and there is little development of the paroccipital processes (shown by the close positions of the quadrate and the otic capsule). The semicircular canals run close to the internal surface of the vestibule (Fig.6E). The crista sellaris of the basisphenoid is well-developed,but the basipterygoid processes seem short (Fig. 6F). The basioccipital preserves a small anterior part, and the suture between the basisphenoid and basioccipital is preserved as reversed V-shaped in ventral view. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The lower jaw has a broad ventral border. Meckel's groove is large and is walled medially by different elements, splenial anteriorly, splenial and angular in the middle,and splenial, angular and coronoid bone posteriorly. There are seven dentary teeth that are large and pleurodont. The coronoid bone bears a well-developed dorsal process, an anteromedial process and a posteromedial process, but not a labial process.The anteromedial process is longer than the posteromedial one.The splenial is large,extending posteriorly beyond the level of the coronoid process,and overlapping the angular quite extensively in its anterior part. The surangular walls a large adductor fossa laterally (Fig. 6H).The articular surface of the articular bone faces posteriorly rather than dorso-posteriorly (Fig. 6G). This suggests the quadrate met the lower jaw at an oblique angle.There is a ridge dividing the articular surface into lateral and medial halves,as well as an erect tubercle just in the front of the articular surface,to prevent the anterior displacement of the quadrate condyle. The retroarticular process is present but small, and it lies medial and ventral to the articular surface. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "RemarksHou (1976) referred Anqingosaurus to Chamaeleonidae based on its (apparently) acrodont teeth, deep skull, large prefrontal, rough sculpture,and the absence of a retroarticular process. This interpretation was followed by Estes (1983) who noted that the quadrate in Anqingosaurus appeared vertical and columnar, as in chameleons,and that the postdentary region of the mandible is enlarged. However, a recent review of chameleon history (Bolet and Evans,2014) concluded that Anqingosaurus did not show any definitive characteristics of Chamaeleonidae. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The CT-scan section images reveal several key characters, such as the posteriorly oriented articular surface for the quadrate,the strongly interdigitated frontoparietal suture, the short tooth row (and therefore short preorbital skull),and the relatively large otic capsule,all of which suggest that Anqingosaurus may have been a burrower. Unfortunately, its postcranial skeleton remains unknown. To assess the phylogenetic position of Anqingosaurus within Squamata, it is first compared with extant burrowing squamates. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Anqingosaurus and amphisbaenians (Zangerl,1944,Montero and Gans,1999,Kearney et al.,2005,Bolet et al.,2014) share the strongly interdigitated frontoparietal suture, posteriorly facing articular surface, and short tooth row. However, Anqingosaurus is distinguished from known amphisbaenians by the weaker descending flange of the parietal (Müler et al., 2011), laterally expanded parietal table, slender postparietal processes, unpaired frontal, welldeveloped basipterygoid processes,and large adductor fossa. Dibamids (Rieppel, 1984) and the burrowing gekkotan Aprasia (Stephenson, 1962) show clear differences from Anqingosaurus, in that their frontoparietal suture is straight, the parietal is snake-like in having descending laminae, the dentary is tube-like.The frontals are also paired in dibamids.Burrowing scincoids like Acontias (Rieppel, 1981, Evans, 2008) also differ from Anqingosaurus in having a straight or less interdigitated frontoparietal suture and cristae cranii meeting in the midline. The dissimilarity between Anqingosaurus and the burrowing anguid Anniella (Bellairs, 1950) is even greater. Anniella has paired frontals with the cristae cranii meeting in the midline, a W-shaped frontoparietal suture,a descending flange of the parietal meeting the braincase, and an anteriorly open Meckel's groove. Anqingosaurus most closely resembles burrowing members of the Gymnophthalmidae (e.g. Bachia), based on shared frontal and parietal features such as the interdigitated frontoparietal suture and weak descending flange of the parietal. However, herein we treat Anqingosaurus as incertae sedis due to its poor preservation and lack of detailed morphology.More specimens and different methods are needed to understand this species,but it is clearly not a chamaeleonid or stem-chamaeleonid. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Changjiangosaurus huananensis Hou, 1976 ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Holotype IVPP V 4451,a pair of incomplete lower jaws and a left quadrate (Fig. 7). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Locality and horizon Fossil pit 710o1, about $1 5 0 \\mathrm { m }$ southeast of Wangdawu, Huangpu illge, Qianshan County, Anhui; Lower Member, Wanghudun Formation (Early Paleocene). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Revised diagnosisThis taxon is distinguished from all other lizards by a unique combination of characteristics: dentary elongated posteriorly, bearing a coronoid process; splenial large; coronoid bone lacking labial process; angular with a huge posterior process creating a deep posterior emargination in the lower jaw; adductor fossa reduced; prearticular process broad; retroarticular process well-developed. ",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fc63efd3177d513e0486f9aeb22f1e66eec21c2e8fc6452acca5dfc44f0da53.jpg",
+        "img_caption": [
+            "Fig.7Changjiangosaurus huananensis Hou,1976, the holotype IVPPV 4451 A.left lower jaw and quadrate in lateral (A1) and medial (A2) views; B.right lower jaw: photograph (B1) and line drawing (B2) in lateral view; photograph (B3)and line drawing (B4) in medial view.The dashed red lines are sutures "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "DescriptionIn labial view (Fig. 7B), the dentary is seen to be long,extending posterior to the level of the coronoid process and having a triangular posterior margin. A coronoid process is present but it is only slightly elevated. The process bears a ridge along its anterodorsal margin,and this ridge forms the dorsal border of a depression that crosses the labial surface of the lower jaw. In lingual view, there is no development of the subdental shelf, and the seven preserved teeth are very small in relation to the depth of the underlying bone. They are tightly spaced, pleurodont, and cylindrical in shape. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The splenial is broad and would be triangular if complete.It lies dorsal to the anterior process of the prearticular and extends posteriorly almost to the level of the coronoid process. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The coronoid bone has dorsal, anteromedial, posteromedial and posterior processes, but no labial process.The dorsal process is small and triangular, even allowing for damage. It bears a lateral ridge that runs anteroventrally from its tip and is continuous with the ridge on the dentary. The anteromedial process is short and deep, barely reaching below the posterior end of the tooth row. Posteriorly it grades into the flanged posteromedial process, but this is broken on both jaws so it is unclear whether the ventromedial border of the coronoid was straight or divergent. The posterior process is also small and most of it is positioned on the medial side of the surangular. The large robust angular forms the ventral border of the mandible as preserved, and is unique in its morphology. It is lamina-like anterior to the level of the coronoid process, but expands and branches into a large flange which projects posteroventrally. This flange tapers from base to its posterior tip,and is almost as long as the articular/retroarticular process above it, creating a deep emargination in the posterior border of the mandible. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The lateral surface of the surangular bears a large deep depression that continues on to the rear of the dentary and marks the insertional area for external adductor muscles. Posteriorly, the surangular bears an upturned tubercle that lies immediately in front of the articular surface for the quadrate and would have limited forward movement of that bone. Medially, the surangular borders a narrow, but probably deep,adductor fossa. The long,laminar prearticular extends anteriorly from the articular. Anteriorly,the prearticular extends forward beyond the posterior end of the tooth row and posteriorly it floors the adductor fossa. On the articular, the surface for the quadrate faces dorsally and slightly posteriorly. It is subcircular and mediolaterally elongated.A weak ridge extends from the posterior tip of the surangular and divides the articular surface into medial and lateral parts.The laminar retroarticular process is broad and concave.The posterior half of the process is twisted so that the dorsal surface faces slightly medially. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The preserved ventral part of the quadrate is narrow and straight, and its articular condyle is not expanded. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "RemarksHou (1976) established the family Changjiangosauridae based on Changjiangosaurus, which is unique in the possession of the large flange-like posterior process of the angular. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Estes (1983) concluded that Changjiangosaurus and Qianshanosaurus were probably related, based on the greatly expanded projecting flange of the angular. However, the angular of Changjiangosaurus has a robust, posteriorly projecting process that is separated from the main body of the angular and creates a deep notch at the back of the mandible, whereas that of Qianshanosaurus is expanded ventrally to form broad lamina. Based on tooth morphology, Alifanov (2oo9) included Changjiangosaurus, Qianshanosaurus, Creberidentat from the Paleogene of China, and several species from the Middle Eocene of Mongolia (e.g. Acrodontopsis, Agamimus), into the Changjiangosauridae,and placed the family within an extended Uromastycoidea.As described above, the teeth of Changjiangosaurus are different from the large,laterally compressed teeth of Qianshanosaurus and other related genera, and are instead small, cylindrical, and pleurodont. We follow Li et al. (2Oo8) here and treat Changjiangosaurus as Squamata incertae sedis. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In the majority of lizards, the angular process,where present, is actually part of the prearticular and extends medially, ventromedially, or anteroventrally. It serves for the attachment of part of the bulky pterygoideus muscle that wraps around the posterior part of the mandible. The large process in Changjiangosaurus is not homologous to the angular process because it is an extension of the angular rather than the prearticular, but from its position it must also have been associated with the pterygoideus muscle. The large size of the process suggests the pterygoideus was particularly well developed. Combined with a strong external adductor mass (as suggested by the deep labial depression), this suggests Changjiangosaurus had a strong bite force (Daza et al.,2011, Gröning et al., 2013). However, this is not consistent with the small cylindrical teeth,and suggests this lizard had a highly specialised diet.Resolving the anomaly requires material of the skull and upper jaw as well as further comparative work among extant lizards. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "4 Discussion ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "This revision of the Qianshan Paleocene lizards changes our understanding of the faunal composition. There are three acrodontans (Acrodonta, Iguania), Agama sinensis (nomen dubium), Qianshanosaurus huangpuensis,and Tinosaurus doumuensis; the problematic heterodont Anhuisaurus huainanensis; a undetermined varaniform V 22767; an enigmatic burrower, Anqingosaurus brevicephalus; and the bizarre Changjiangosaurus huananensis. The taxonomic diversity is higher than previously recognized. The assignment of Qianshanosaurus to Acrodonta eliminates the record of Pleurodonta (Iguania) in the Paleocene of the Qianshan Basin (Hou, 1974),whereas the recognition of a varaniform (V 22767) provides the earliest Cenozoic record of this group in China. The revision also increases the ecological diversity represented by the Paleocene lizards from China. The sharp and recurved teeth of the varaniform suggest the individual was probably a small carnivore, like its extant relative Varanus (Pianka et al., 2Oo4). The homodont acrodont teeth of Qianshanosaurus, combined with strong jaws and well-developed pterygoideus muscle, may be indicative of a plant-eater, like the extant Uromastyx, whereas the other acrodontans may have been insectivorous. The morphology of Anqingosaurus (short snout, strongly interdigitated frontoparietal suture) suggests it may have been a burrower, exploring the subterranean environment. This would also be the only record of burrowing squamate in China, other than Sineoamphisbaena from the Late Cretaceous (Wu et al.,1993). The high morphological and ecological diversity suggests that lizards formed a successful component of the fauna in the Paleocene of the Qianshan Basin. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The similarity of the Paleocene Qianshanosaurus to Creberidentat and Acrodontopsis from the Middle Eocene of China and Mongolia respectively, opens the possibility that a group of acrodontan lizards similar to Uromastyx was widespread in Asia during the Paleocene-Eocene period.Moreover, other Asian records of Paleogene Uromastyx-like lizards (Uromastycinae) (Averianov and Danilov, 1996, Holmes et al., 2009,Rage and Augé, 2015) suggest this group originated in Asia. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the recognition of a Paleocene varaniform in the Qianshan Basin of South China provides new data on the historical biogeography of that group. Very few Paleocene occurrences of Varaniformes have been reported, and most are from North America (Sullivan, 1982, Sullivan,1991). The new Chinese record expands the biogeographic range of varaniforms in the Paleogene and increases our knowledge of the group after the endCretaceous mass extinction. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "In recent years, much of the paleontological work on Asian lizards has focused on the Cretaceous, especially the very rich and diverse Late Cretaceous faunas of the Gobi Desert (Gao and Norell,2Oo0). Very little is known of the post-Cretaceous fate of lizards in Asia. The Qianshan fossils,although fragmentary, provide an important glimpse of this fauna and suggest it was already diverse and successful in Paleocene. More work is needed to be done on these interesting Paleocene lizards, including phylogenetic analysis and functional morphology. The recovery of more material from the Paleocene Qianshan Basin and other regions is crucial in order to build up a more complete picture of the Paleocene lizard fauna of Asia. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsWe thank Dr. Wang Yuanqing from IVPP for inviting us to contribute to this special issue and for discussing the stratigraphy of Qianshan Basin. We are grateful to Jean-Claude Rage (Muséum national d'Histoire naturelle,Paris) and Krister Smith (Senckenberg Research Institute and Natural History Museum) for providing helpful comments on an earlier version of the manuscript,and to Hou Yemao and Hao Xinxin (IVPP) for aid with the CT and stereomicroscope facilities,and software, in the IVPP lab.We also thank James Turbett (University College London), Gao Wei and Zhou Yachun (IVPP) for help with Meshlab and Meshmixer software and photographs, respectively. This work was supported by grant from NSFC (grant no. 41472018) and “973” Project (grant no.2012CB821903).A State Scholarship Fund from the China Scholarship Council permited Dr. Dong Liping to spend 12 months in the UK (University College London) in 2014-2015. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "安徽潜山古新世蜥蜴化石的分类学厘定",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "董丽萍1 Susan E.EVANS² 王原1 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)(2英国伦敦大学学院细胞与发育生物系伦敦WC1E6BT)",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "摘要：相对于中国和蒙古晚白垩世较知名的蜥蜴动物群，该地区古新世蜥蜴的研究非常有限。安徽潜山盆地曾报道了古新统望虎墩组和痘母组中的6种蜥蜴：中国飞蜥(Agama sinensis Hou,1974),淮南安徽蜥(Anhuisaurus huainanensis Hou,1974),短头安庆蜥(Anqingosaurus brevicephalus Hou,1976),华南长江蜥(Changjiangosaurus huananensisHou,1976),黄铺潜山蜥(Qianshanosaurus huangpuensis Hou,1974)和痘母响蜥(Tinosaurusdoumuensis Hou,1974),但化石材料均较破碎。本文使用CT扫描技术，在最新的有鳞类分类框架下对这些属种进行了重新研究，修订了上述属种的形态学特征及其分类位置。潜山盆地古新世蜥蜴动物群具有比原认为更高的形态学和生态学分异度，如巨蜥类材料(IVPPV22767的发现和对安庆蜥可能为穴居型的新解释。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "关键词：安徽潜山，古新世，蜥蜴，系统发育学，分类厘定，CT扫描中图法分类号：Q915.864 文献标识码：A 文章编号：1000-3118(2016)03-0243-26",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Alifanov VR,2009.Newacrodont lizards (Lacertilia)from the Midde Eoceneof southern Mongolia.Paleont J,43(6): 675-685   \nAlroyJ,1999.The fosilrecordofNorth American mammals:evidence foraPaleocene evolutionary radiation.Syst Biol, 48(1): 107-118   \nAnderson CV,HighamTE,20l3.Chameleonanatomy.In:TolleyKA,HerelAeds.Biologyof the Chameleons.Berkely: Unversity ofCalifornia Press.7-56   \nAugé M,Rage J-C,2006.Herpetofaunas from the Upper Paleocene and Lower Eocene of Morocco.Ann Paleont,92(3): 235-253   \nAverianov AO,1997.Paleogene sea snakes from the eastern partof Tethys.Russ JHerpetol,4(2):128-142   \nAverianovA,DanilovI,1996.Agamid lizards(Reptia,Sauria,Agamidae)from theEarlyEoceneofKyrgyzstan.Neues Jahrb Geol Paläont Monatsh,12:739-750   \nBaigKJ,WagnerP,AnanjevaNBetal.,O12.Amorphology-basedtaxonomicrevisionofLudakiaGray,845(Squmata: Agamidae). Vert Zool, 62: 213-260   \nBellairs Ad'A,195o.Observations on thecranial anatomyofAniell,and acomparison with thatofotherburrowing lizards.Proc Zool Soc Lond,119(4): 887-904   \nBoletA,Evans SE,2014.Fossil historyofchameleons.In:TolleyKA,HerrelAeds.The BiologyofChameleons.Berkely: University of California Press.175-193   \nBolet A,Delfino M,FortunyJetal.,2O14.Anamphisbaenian skullfrom the European Mioceneand theevolutionof Mediterranean worm lizards.PLoS One,9(6): e98082   \nBorsuk-Bialynicka M,Moody S M,1984.Priscagaminae,a new subfamilyof the Agamidae (Sauria) from the Late Cretaceous of the Gobi Desert.Acta Palaeont Pol,29(1-2): 51-81   \nBrusatte SL,O'ConnorJK,Jarvis ED,2015.The originand diversificationofbirds.CurrBiol,25(19):R888-R898   \nDaza JD,DiogoR,JohnstonPetal.,20l1.Jawadductor muscles acrosslepidosaurs:areappraisal.AnatRec,294(10): 1765-1782   \nEstes R,1976.Middle Paleocene lower vertebrates from the Tongue River Formation,southeastern Montana.JPaleont, 50(3): 500-520   \nEstes R,1983.Sauria Terrestria,Amphisbaenia.EncyclopediaofPaleoherpetology,Part10A.New York: GustavFischer Verlag.1-249   \nEvans SE,20o8.The skullof lizards and tuatara.In: Gans G,GauntA S,Adler Keds.Biologyof the Reptilia,Vol.20 Morphology H: the Skull of Lepidosauria.New York: Ithaca.1-344   \nFathinia B,Rastegar-Pouyani N,Bahrami AMetal.,2O11.Comparative skullanatomyanddentitioof Trapeluslessonae and T.ruderatus (Sauria: Agamidae) from Ilam Province,Iran.Russ JHerpet,18(2): 83-92   \nFolie A,SigéB,Smith T,2Oo5.Anewscincomorph lizard fromthePalaeoceneofBelgiumandtheoriginofScincoideain Europe. Naturwissenschaften, 92(11): 542-546   \nGao K Q,NorellMA,20o.Taxonomic compositionand systmatics ofLate Cretaceous lizard assemblages from Ukhaa Tolgod and adjacent localities,Mongolian Gobi Desert. Bull Am Mus Nat Hist, 249:1-118   \nGherbrant E,1994.Les mammiferes paleocenes du Basin dOuarzazate (Maroc).I Todralestidae (Proteutheria,Eutheria). Palaeontogr Abt A,231: 133-188   \nGherbrant E,Codrea V,HosuAetal.,199.Decouverte de vertebres dans les Calcaires de Rona (Thanetienou Sparnacien), Transylvanie,Roumanie: les plus anciens mammiferes cénozoiques d'Europe Orientale.Eclogae Geol Helv, 92: 517-535   \nGilmore C W,1942.Paleocene faunas of thePolecat Bench Formation,Park County, Wyoming Part I. Lizards.Proc Am Philos Soc,85(2): 159-167   \nGroningF,JonesMEH,Curtis Netal.,2Ol3.Theimportanceofaccurate muscle modelingforbiomechanicalanalyses:a case study with a lizard skull.JR Soc Interface,10: 20130216   \nHocknullS A,20o2.Comparative maxilaryand dentary morphologyof the Australian dragons (Agamidae: Squamata): a framework for fossil identification.Mem Queensl Mus,48: 125-145   \nHolmes R B,MurryAM,Chatrath Pet al.,2009.Agamid lizard (Agamidae: Uromastycinae)from the Lower Oligocene of Egypt. Hist Biol,22(1-3): 215-223   \nHou L H,1974.Paleocene lizards from Anhui,China. Vert PalAsiat,12(3): 193-202   \nHou LH,1976.New materials of Palaeocene lizards of Anhui. Vert PalAsiat,14(1): 45-52   \nKearney M, Maisano JA,Rowe T,2Oo5.Cranial anatomyof the extinct amphisbaenian Rhineura hatcheri (Squamata, Amphisbaenia) based on high-resolution X-ray computed tomography. JMorph,264(1): 1-33   \nLiC K,1977.Paleocene eurymyloids (Anagalida, Mammalia)of Qianshan,Anhui. Vert PalAsiat,15(2): 16-118   \nLiJL,Wu XC,ZhangFC,2008.The Chinese Fossil Reptiles and Their Kin.Beijing: Science Press.1-473   \nLongrich NR,BhularB-A S,GauthierJA,20l2.Mass extinctionof lizards and snakesat the Cretaceous-Paleogene boundary.Proc Natl Acad Sci,109: 21396-21401   \nMontero R,Gans C,1999.The head skeleton of Amphisbaena alba Linneaus.Ann Carnegie Mus,68(1):15-80   \nMuller J, HipsleyCA,HeadJJetal.,2011.Eocene lizard from Germanyrevealsamphisbaenian origins.Nature,473:364 367   \nPiankaER,KingD,KingRA,o4.VaranoidLizardsofthe World.Bloomington&Indianapolis: Idiana Universityre. 1-588   \nQiu Z X,Li C K, Huang X S et al.,1977. Continental Paleocene stratigraphyof Qianshan and Xuancheng basins. Vert PalAsiat,15(2): 85-93   \nRage J-C,1991.Squamate reptiles from the Early Paleocene ofthe Tiupampa area (Santa Lucia Formation),Bolivia.In: Suarez-Soruco Red.Fosilesy faciesde Bolivia,Vol.I, Vertebrados.Santa Cruz: Revista Tecnica de YPFB.503- 508   \nRage J-C,Auge M,2015.Valbro:anew site of vertebrates fromthe Early Oligocene (MP22)ofFrance (Quercy). IIIAmphibians and squamates.Ann Paleont,101(1): 29-41   \nRageJ-C,Métais G,Bartolini Aetal.,2014.Firstreportof the giantsnakeGigantophis (Madtsoidae)fromthePaleoceneof Pakistan: paleobiogeographic implications. Geobios,47(3): 147-153   \nRieppel O,1981.The hyobranchial skeleton in some little known lizards and snakes.JHerpet,15(4): 433-440   \nRieppel O,1984.Thecranial morphologyof the fossorial lizardgenus Dibamus withaconsiderationof itsphylogenetic relationships.J Zool,204(3): 289-327   \nRieppelO,GrandeL,2Oo7.The anatomyof the fossil varanid lizard Saniwa ensidensLeidy,187o,basedona newly discovered complete skeleton.JPaleont,81(4): 643-665   \nSibertEC,Noris RD,2015.Newageoffishes initiatedbythe Cretaceous-Paleogene mass extinction.Proc NatlAcad Sci, 112:8537-8542   \nSmith K T,20l1.The evolution of mid-latitude faunas during the Eocene: LateEcene lizards of the Medicine Pole Hills reconsidered.Bull Peabody Mus Nat Hist, 52(1): 3-105   \nSmith KT,Schal SFK,Sun Wetal.,2011Acrodontiguanians (qumata)fromthe Middle Eoceneofthe Huadian Basin ofJilin Province,China,with a critique of the taxon “Tinosaurus\".Vert PalAsiat,49(1): 69-84   \nStephenson NG,1962.Thecomparative morphologyofthe head skeleton,girdlesand hind limbs in the Pygopodidae.Zool JLinn Soc,44: 627-644   \nSulivanRM,1982.Fosslizards from SwainQuarry“Fort UnionFormation,”MiddlePaleocene(Torejonian),Carbon County,Wyoming.JPaleont,56(4): 996-1010   \nSulivanRM,1991.Paleocene Caudataand Squamata fromGidleyandSilberlingquarries,Montana.JVertPaleont,1(3): 293-301   \nSulivanRM,ucas SG,996.Palaeoscincosaurus middletoni,newgenusand species (Squamata: ?Scincidae)fromthe Early Paleocene (Puercan) Denver Formation, Colorado.JVert Paleont,l6(4): 666-672   \nVanIterbeeckJ,MiiaenP,FolieAetal,oo7.Woodlandinafuvi-lacustrineenvironmentonthedryMongoiaPlateau during the Late Paleocene: evidence from the mammal bearing Subeng section (Inner Mongolia,P.R. China). Palaeogeogr Palaeoclimatol Palaeoecol,243(1-2): 55-78   \nWang YQ,LiCK,Li Qetal.,2O16.Asynopsis of Paleocene stratigraphyand vertebrate paleontology in the Qianshan Basin,Anhui, China. Vert PalAsiat,54(2): 89-120   \nWu X C,BrinkmanDB,RusellAPetal.,1993.Oldestknown amphisbaenian from the Upper Cretaceous ofChinese Inner Mongolia. Nature,366: 57-59   \nXiongY,WangY,O6.Studiesonskeletal systemof Phrynocephalus vlangaliihongyuanensis Zhao,JiangandHuang, 1980.Acta Zootaxon Sin,31(2): 231-238   \nZangerl R,1944.Contributions to the osteologyof the skullofthe Amphisbaenidae.AmMidl Nat,31(2): 417-454 ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    }
+]

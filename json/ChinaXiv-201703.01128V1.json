@@ -1,0 +1,263 @@
+[
+    {
+        "type": "text",
+        "text": "轨道交通用铝合金典型防护涂层在高温高湿地域的降解行为",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林化强」，孙琳'，段文超2,，史洪微²,\\*，刘常升，刘福春²，韩恩厚²(1 中车青岛四方机车车辆股份有限公司国家高速动车组总成工程技术研究中心，青岛 2661112中国科学院金属研究所中国科学院核用材料与安全评价重点实验室，，沈阳1100163 东北大学 材料科学与工程学院，沈阳110819)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要]研究了轨道交通用铝合金防护涂层（磷化底漆 $^ +$ 纳米复合环氧底漆 $^ +$ 纳米复合聚氨酯面漆）在典型高温高湿地区（广州）的自然环境腐蚀老化行为。腐蚀老化1a后，涂层表面出现孔洞，涂层色差值随老化时间的延长逐渐升高。衰减全反射傅立叶变换红外光谱（ATR-FTIR）的分析表明，聚氨酯树脂出现降解。涂层的电化学阻抗谱分析表明，虽然涂层树脂出现降解，涂层仍然保持优秀的耐腐蚀能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词]铝合金，有机涂层，老化，衰减全反射傅立叶变换红外光谱，电化学交流阻抗谱",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Degradation of Typical Protective Coatings on Aluminium Alloy Used for Transportation at Area with High Temperature and Humidity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIN Huaqiang1, SUN Lin', DUAN Wenchao²., SHI Hongwei2\\*,LIU Changsheng,LIU Fuchun², HAN En-hou² 1 CRRC Qingdao Sifang CO., Ltd., National Engineering Technology Research Center for High-speed EMU, Qingdao 266111 2 Key Laboratory of Nuclear Materials and Safety Assessment, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016 3 School of Materials Science and Engineering,Northeastern University, Shenyang 110819 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The degradation of typical organic coating system (phosphide priming paint, nano-composite epoxy primer and nano-composite polyurethane topcoat） for protection of aluminium alloy used for transportation was investigated after one year of exposure in area with high temperature and humidity (Guang Zhou). After one year of exposure, some defects were found on the surface of the coating.The value of colour diference increases with the elongation of aging time. The analysis of Atenuated total reflectance Fourier transform infrared spectroscopy indicates that the degradation of polyurethane resin occurred on the coating. The analysis of electrochemistry impedance spectra shows that the protective coating remains high corrosion resistance although degradation of polyurethane resin took place. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Aluminium alloy， Organic coatings, Aging, Attenuated total reflectance Fourier transform infrared spectroscopy, Electrochemistry impedance spectra ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7XXX铝合金被广泛用于生产轨道交通车辆。轨道交通车辆的典型防护涂层体系包括磷化底漆、环氧底漆和聚氨酯面漆。车辆运行服役后，涂层的腐蚀老化失效会造成涂层防护能力的下降，影响涂层的使用寿命。因此，研究涂层在自然环境中腐蚀老化失效的情况和曝露时间的关系，具有重要的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于涂层老化失效的研究，国内外的学者进行了广泛的研究。例如，文献[1]介绍了某研究组在美国佛罗里达州和欧洲对涂层进行了自然环境腐蚀老化和室内加速腐蚀老化相关性的研究，并重点对涂层的光泽和色差变化进行了比较。Tiemens等[2]研究了在荷兰一系列卷材涂料的自然环境腐蚀老化和室内加速腐蚀老化相关性。刘福春等人对航空铝合金的纳米复合涂层进行了系统的自然环境腐蚀实验和评价，同时结合了实验室加速失效评价，实验结果对预期涂层的服役寿命有重要意义[3]。王晶晶等[4]研究了海洋大气环境曝晒和室内紫外线照射条件下，环氧涂层老化试验的相关性，对比了两种条件下涂层表面形貌和对金属保护性能的变化。邓洪达等[5]对氟碳涂层用红外光谱法和电化学交流阻抗测试分析了氟碳涂层等在大气环境下腐蚀老化的特点。针对金属/合金的防护涂层进行自然环境腐蚀老化失效研究，尤其针对防护涂层的服役地点进行失效评价，对涂层的安全服役具有重要的现实意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "轨道交通用车辆经过高温湿热地区，表面防护涂层易受到湿热环境的影响，导致其防护性能下降。广州作为中国南方轨道交通的重点城市，环境具有典型的高温高湿特征。因此，本工作以广州作为自然环境腐蚀老化的地点，选择轨道交通用7XXX 铝合金作为基材，涂层体系为：磷化底漆 $( 1 0 \\mu \\mathrm { m } ) +$ 纳米复合环氧底漆 $( 3 0 \\mu \\mathrm { m } ) +$ 纳米复合聚氨酯面漆 $( 3 0 \\mu \\mathrm { m } )$ 。考察了铝合金表面防护涂层腐蚀老化不同时间后，涂层光泽、色差和形貌的变化，采用电化学交流阻抗谱研究了涂层的耐腐蚀性能，采用衰减全反射傅立叶变换红外光谱研究了聚氨酯树脂化学键的变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基材采用7XXX铝合金，基材用砂纸打磨至 $8 0 0 \\#$ ，丙酮除油，乙醇清洗后备用。用于自然环境腐蚀实验的基材大小为 $1 5 0 ~ \\mathrm { m m } \\times 7 0 ~ \\mathrm { m m } \\times 8 ~ \\mathrm { m m }$ 。在基材表面逐层喷涂磷化底漆（ $1 0 \\mu \\mathrm { m } )$ 、纳米复合环氧底漆（ $3 0 \\mu \\mathrm { m }$ ）和纳米复合聚氨酯面漆（ $3 0 \\mu \\mathrm { m } \\dot { }$ )。涂层干燥7天后备用，采样PosiTector6000 型测厚仪测试涂层厚度，干膜厚度（ $( 7 0 \\pm 2 ) \\mu \\mathrm { m }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据GB/T9276-1996标准（涂层自然环境气候曝露试验方法）在广州进行自然环境腐蚀老化实验。采用3个平行试片，试片朝阳，倾斜角度为 $4 5 ^ { \\circ }$ 。取样后，用去离子水冲洗试样表面，并用滤纸吸干，进行相关的实验。每3个月取一次样品进行光泽和色差测试。每6个月进行涂层的红外光谱和电化学交流阻抗测试，并测试涂层的附着力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "涂层腐蚀老化后，采用扫描电镜（XL30型ESEM,Philips）观察形貌；采用BYK公司便携式微型光泽度计和色差仪进行光泽和色差测试；采用 Spectrum 400 红外光谱仪检测涂层表面的衰减全反射傅立叶变换红外光谱（ATR-FTIR)，分析聚氨酯树脂老化后的化合键变化；采用PosiTest拉开测定仪测定涂层的层间附着力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电化学阻抗谱测试采用EG&G273恒电位仪和与计算机相连的5210锁相放大器。在测试交流阻抗谱前，工作电极浸泡 $3 0 \\mathrm { m i n }$ 。在电化学阻抗谱测试中，采用三电极系统，即饱和甘汞电极作为参比电极，铂电极作为对电极，试样作为工作电极。电化学阻抗测试的频率范围为 $1 0 0 \\mathrm { k H z }$ 到 $1 0 ~ \\mathrm { m H z }$ ，扰动电位为 $2 0 \\mathrm { m V }$ 。电化学阻抗数据采用Zsimpwin软件进行分析。电化学阻抗谱测试中，测试3个平行试样以检验结果的重复性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.结果与讨论 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1涂层老化后形貌 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "铝合金防护涂层的自然老化时间为2015年，月平均气温最高为 $2 9 . 6 ~ \\mathrm { { ^ circ C } }$ （8月），月平均气温的平均值为 $2 3 . 7 \\mathrm { ~ \\textdegree C }$ 。月平均相对湿度最高为 $8 4 . 7 \\%$ （5月)，月平均相对湿度平均为$7 3 . 1 \\%$ 。因此，就广州的环境条件来说，属于典型的高温高湿地区。图1给出了原始防护涂层（图1a和b）、经过腐蚀老化6个月（图1c和d）和腐蚀老化12个月（图1e和f）后的涂层表面形貌。由图可见，原始涂层表面完整，可见微米级和纳米级的颜填料，无缺陷。老化6个月后，涂层表面出现孔洞，孔洞比较大的位置较少（如图1c)，而小的孔洞比较多（如图1d)。随着老化时间增加到12个月，在涂层表面分布的孔洞密度增大，且孔洞直径增大。如图1f所示，大的孔洞直径达到 $1 \\mu \\mathrm { m }$ 左右。这些孔洞的形成可能与聚氨酯树脂降解有关。聚氨酯树脂降解造成涂层表面分布的颜填料颗粒结合力下降，进而导致颜填料颗粒随雨水等溶出，形成涂层表面孔洞。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd704e2b6ae0e6beaa9844a896d5202b60ed68830b34d27d8a38c81258b30d20.jpg",
+        "img_caption": [
+            "图1铝合金防护涂层在腐蚀老化0，6和12个月后的SEM形貌"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 SEM images of protective coating on aluminium alloy after exposure for O (a， b), 6 (c, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2涂层老化后光泽和色差 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "光泽度，在涂层术语中常简称为光泽，是指涂层表面不经散射而反射光线的能力。通过从一定角度向被测物体发射持续光束同时测量反射到的光线来测量光泽度。光泽变化和失光率是涂层老化失效过程中检测的重要指标。失光率的计算公式（1）为：失光率 $( \\% )$ （20${ \\bf \\mathrm { = } } ( \\mathrm { A _ { 0 } } { \\bf \\mathrm { - } } \\mathrm { A _ { 1 } } ) / \\mathrm { A _ { 0 } } { \\bf \\times } 1 0 0$ ，式中， $\\mathbf { A } _ { 0 }$ 为涂层老化的原始光泽， $\\mathbf { A } _ { 1 }$ 为涂层老化后的光泽。图2给出了铝合金防护涂层在广州经过3、6、9和12个月曝露后的光泽和失光率变化。涂层的原始光泽是 $7 1 . 5 ^ { \\circ }$ 。曝露3到9个月时，涂层光泽逐渐减低，失光率逐渐升高。曝露到12个月时，涂层光泽又有升高，失光率下降。这种规律可能是由于曝露9个月前，涂层的失光以树脂的老化为主，涂层光泽逐渐下降。曝露12个月后，由于部分颜填料颗粒的外露，导致光泽上升，失光率反而下降。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/644c4914a677df3e7172519ef767e1d8c7dc2e2cd1a10d1cbec3cca8f23840b6.jpg",
+        "img_caption": [
+            "图2铝合金防护涂层在腐蚀老化3，6，9和12个月后的光泽度和失光率 Figure 2 Gloss and gloss loss rate of the protective coating on aluminium alloy after 3,6,9 and 12 months of exposure "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "色差值，表示颜色的差别大小，用△E表示，即比较原始样板与被检测样板之间的颜色差异。色差值的变化能充分反映涂层老化的程度，因此，常被用于比较涂层耐自然老化性能差异。图3给出了防护涂层在广州老化3、6、9和12个月后，涂层的色差值变化。由图3可见，随曝露时间的增加，涂层的色差值逐渐增大。曝露9个月时，色差值达到最大，达到1.7。曝露到12个月时，色差值又有所减小，这和光泽变化的规律一致。光泽和色差变化的情况表明，经过9个月的曝露，防护涂层的面漆（聚氨酯涂层）树脂出现了降解。结合如上所示的涂层SEM形貌，这种降解在局部范围内导致涂层出现孔洞和颜填料外露。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/74d26e8da5123fb19c064ff53d506ce38699e1230da6d703899a71b7b58cb58a.jpg",
+        "img_caption": [
+            "图3铝合金防护涂层在腐蚀老化3,6,9和12个月后的色差 Figure 3 Colour difference of the protective coating on aluminium alloy after 3,6,9 and 12 months of exposure "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3涂层老化后的红外光谱 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4给出了原始的聚氨酯清漆和聚氨酯面漆的ATR-FTIR光谱。由图可见， $3 3 0 0 { \\sim } 3 5 0 0 \\mathrm { c m } ^ { - 1 }$ 为O-H的伸缩吸收峰； ${ \\sim } 2 9 2 0 ~ \\mathrm { c m } ^ { - 1 }$ 和 ${ \\sim } 2 8 6 0 ~ \\mathrm { c m } ^ { - 1 }$ 的峰为烷基 $\\mathrm { C H } _ { 3 }$ 和 $\\mathrm { C H } _ { 2 }$ 的伸缩吸收峰； ${ \\sim } 1 7 2 0$ $\\mathrm { c m } ^ { - 1 }$ 为羰基 $\\scriptstyle { \\mathrm { C = O } }$ 的伸缩振动吸收峰； ${ \\sim } 1 5 2 0 \\mathrm { c m } ^ { - 1 }$ 是聚氨酯特有的吸收峰，为C-NH伸缩振动和N-H的变角振动峰; ${ \\sim } 1 4 5 0 \\ \\mathrm { c m } ^ { - 1 }$ 为 $\\mathrm { C H } _ { 3 }$ 的反对称变角和 $\\mathrm { C H } _ { 2 }$ 对称变角(剪式)振动吸收峰; ${ \\sim } 1 1 2 0$ $\\mathrm { c m } ^ { - 1 }$ 为C-C的伸缩振动峰； ${ \\sim } 1 0 7 0 ~ \\mathrm { c m } ^ { - 1 }$ 为伯C-OH伸缩振动和醚键C-O-C反对称伸缩振动峰;${ \\sim } 9 7 2 ~ \\mathrm { c m } ^ { - 1 }$ 为反式 $\\mathrm { C = C }$ 的平面变角振动特征频率峰; ${ \\sim } 7 3 0 \\ c m ^ { - 1 }$ 为取代苯环 $\\mathrm { C = H }$ 的伸出平面的变形振动峰。图5给出了铝合金防护涂层在广州腐蚀老化12个月后的ATR-FTIR光谱。由图可见，在广州腐蚀老化12个月后，涂层试样在的C-C伸缩振动峰（ $( \\sim 1 1 2 0 ~ \\mathrm { c m } ^ { - 1 }$ ）微弱，表明C-C键已经开始断裂。但就C-O-C键的峰位（ $( { \\sim } 1 7 2 0 \\mathrm { c m } ^ { - 1 } .$ ）来看，峰位减弱并不明显[6]。说明聚氨酯虽然出现降解，但降解并不严重。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/198c8a4a60d973e60b640dfaadce67bed403c2185c1b8b3e562fbf39351f5690.jpg",
+        "img_caption": [
+            "图4聚氨酯清漆和聚氨酯面漆的ATR-FTIR光谱 Figure 4 ATR-FTIR spectra of polyurethane resin and polyurethane topcoat "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8c65c6fc14bd9d3a15dc7922d021ac508b9a3a356c43ebd9df07c9481bc04cf.jpg",
+        "img_caption": [
+            "图5聚氨酯面漆的ATR-FTIR光谱 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4涂层老化后的电化学阻抗谱",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图6为原始的铝合金防护涂层的电化学阻抗谱的Bode图，以及在广州曝露6个月和12个月后铝合金防护涂层的电化学阻抗谱的Bode图。由图可见，原始涂层的低频阻抗模值在$1 0 ^ { 9 } \\mathrm { o h m } \\mathrm { c m } ^ { 2 }$ 以上。经过6个月的曝露后，涂层的低频阻抗模值无明显变化。经过12个月的曝露后，涂层的低频阻抗模值接近 $1 0 ^ { 9 } \\mathrm { o h m } \\mathrm { c m } ^ { 2 }$ 。原始涂层、经过曝露6和12个月的涂层的阻抗谱均呈现1个时间常数的特征。这个结果说明，虽然聚氨酯老化导致涂层表面出现孔洞，导致部分颜料外露，但整个涂层体系仍然保持良好的耐水渗透能力。铝合金防护涂层表现了优秀的耐腐蚀能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Figure 5 ATR-FTIR spectra of polyurethane resin and polyurethane topcoat ",
+            "图6 铝合金防护涂层在腐蚀老化6、12个月后的电化学阻抗谱的Bode 图的模值图和相位角 图 Figure 6 Impedance module (a) and phase angle (b) of Bode plot of electrochemical impedance spectra of the protective coating on aluminium alloy after 6 and 12 months of exposure "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a)1011 (b) 140   \nzwo wuo /sninpon 101 10 109 Criaintmothsofeure △ Coating after 12 months of exposure 120  6 0 10 □□□ 106 105 品 □—Original coating 104 0- Coating after 6 months of exposure Coating after 12 months of exposure 10 0 10² 10 10-1 100 101 10² 10 104 105 10² 10-1 100 101 10² 10 104 105 Frequency / Hz Frequency / Hz ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5涂层老化后的附着力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图7为铝合金防护涂层在广州曝露12个月后，附着力的测试结果。三个附着力测试结果的平均值为 $1 6 . 8 \\ \\mathrm { \\ M P a }$ ，层间附着力值较高。另外，由图可见，涂层的剥离并不是从同一个界面发生。就于层间破坏的形式而言，涂层剥离的界面主要为面漆内聚破坏，其次为面漆与底漆的层间破坏，这说明纳米复合聚氨酯面漆和纳米复合环氧底漆具有良好的结合力。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/54d575da71ba2dd70467508a458b0061fb002549c6a80a67533a78b864aa4800.jpg",
+        "img_caption": [
+            "图7铝合金防护涂层在腐蚀老化12个月后的层间附着力"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 Adhesion force of the protective coating on aluminium alloy after 12 months of exposure ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "针对轨道交通用7XXX铝合金的典型防护涂层，进行了高温高湿地区（广州）的自然环境腐蚀老化实验。经过1a的曝露，研究结果表明：涂层表面出现微小孔洞，这种孔洞主要是由于聚氨酯涂层的降解造成。涂层光泽下降，色差最高值达到1.7。衰减全反射傅立叶变换红外光谱证明聚氨酯树脂的降解主要是由于C-C键的断裂造成的。虽然经过1年的曝露，铝合金表面防护涂层仍然保持优异的耐腐蚀能力和涂层层间附着力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Association of Automobile Industries Working Group on Test Methods for Paints. Comparison of outdoor and accelerated exposure methods [J]. J. Coat. Technol. Res., 1986, 58: 57   \n[2] Tiemens H J. The performance of coil-coated materials after 5 years of outdoor exposure in the Netherlands [J]. Construct Build Mater., 1998,12:19   \n[3] LIU FuChun，HAO YongSheng，WANG ZhenYu, et al. Flaking and degradation of polyurethane coatings after 2 years of outdoor exposure in Lhasa [J]. Chin. Sci. Bull., 2010, 55 (7): 650   \n[4] Wang J J， Dong S G, Ye M Q，et al. Correlation between outdoor-exposure and indoor-accelerated ageing test for epoxy coating [J]. Surf.Technol., 2006, 35(1): 36   \n王晶晶，董士刚，叶美琪等．环氧涂层室外暴晒和室内加速老化试验相关性研究[J].表面 技术，2006,35(1): 36   \n[5] Deng H D, Zhang S P, Yang L X, et al. Comparison of aging behavior of two types of fluorocarbon coatings in urban area of Wuhan city[J]. Mater.Prot., 2006,39（10): 1邓洪达，张 三平，杨丽霞等．不同氟碳涂层在武汉地区老化行为的比较研究[J]．材料保护，2006，39 (10):1   \n[6] Zhu Y H, Yao JH, Lin Z Y, et al. Discussion of degradation mechanism of polyurethane topcoat [J]. Paint Coat. Ind., 2005, 35(6): 44   \n朱永华，姚敬华，林仲玉等．聚氨酯面漆光老化机理的探讨[J]．涂料工业，2005,35(6):44 ",
+        "page_idx": 6
+    }
+]

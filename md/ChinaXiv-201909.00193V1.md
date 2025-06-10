@@ -1,0 +1,169 @@
+# 机器学习在抑郁症领域的应用
+
+董健宇；韦文棋；吴珂；妮娜；王粲霏；付莹；彭歆（吉林大学护理学院，长春，130012）
+
+摘 要抑郁症患者疾病意识的不足以及早期筛查方法的缺乏导致患者在被诊断时大多已发展至重性抑郁障碍。为改善现状，近年来机器学习被逐渐应用到抑郁症的早期预测、早期识别、辅助诊断和治疗决策中。在应用中，机器学习模型准确性的影响因素包括样本集种类及规模、特征工程、算法类型等。建议未来将机器学习进一步融入医疗健康系统及移动应用程序等，不断优化机器学习模型，通过充分挖掘患者健康数据来改善抑郁症的预防、识别、诊断和治疗等相关问题。
+
+关键词 机器学习；抑郁症；预测；算法；模型
+
+分类号 B842
+
+# 1引言
+
+抑郁症（Depression），也称抑郁障碍（Depressive disorder）（AmericanPsychiatricAssociation，2013），是一类以显著而持久的心境低落为主要特征的情绪障碍疾病，具有慢性、反复发作、迁延不愈、自杀率高的特点。据世界卫生组织（WorldHealthOrganization，WHO）预测，到2020 年，抑郁症将代替癌症成为世界第二大疾病（Brundtland，2001）。大约有 $8 \%$ 的男性和 $1 5 \%$ 的女性在他们的一生中会患上抑郁障碍，严重影响生活质量，且其中有近 $1 5 \%$ 的人选择了自杀（Gold，Machado-Vieira，&Pavlatou，2015）。因此，对抑郁症患者进行早期识别诊断，并及时给予治疗十分重要。
+
+目前，临床上对抑郁症的识别诊断主要基于ICD-10 或 DSM-V 中抑郁症诊断标准，结合病人的访谈情况、量表及医生诊疗经验进行（任志洪等，2016；周爱保，鲁小勇，吴文意，徐世鹏，2017)。这种方式只适用于一对一的检测，易因患者的配合程度、医生熟练程度等主观因素的影响而导致误诊，且患者疾病就医意识及早期筛查工具的缺乏导致诊疗时患者一般已经达到重性抑郁障碍（MajorDepressiveDisorder，MDD）。早期发现抑郁倾向、轻度抑郁症有助于及时积极干预，可以避免抑郁症进一步加重，且个体差异性导致同样的治疗方案对不同的个体治疗效果不一致，因此，寻找快速、客观、准确的抑郁症识别诊断及针对个体的最佳治疗方法具有重大意义。近年来，随着互联网和科学技术迅速发展，机器学习因其强大的数据处理、挖掘能力已经被广泛用于医疗领域，并逐渐应用于抑郁症的早期预测、识别及辅助诊断等研究，但国内在该方面的研究报告相对较少。本文就机器学习在抑郁症中的应用进行综述，以期为国内在该领域的研究提供借鉴。
+
+# 2机器学习概念及原理
+
+机器学习（MachineLearning，ML）是一门涉及多领域的交叉学科，它是人工智能的核心，目的在于能够使计算机具有自我学习的能力，从而使计算机处理数据的性能得到不断改进和提高，通过对已有的数据、信息进行学习，从中获取数据潜在的规律，并将这些规律应用到未知数据的分析和预测中（Cabitza&Banfi,2018；Senders etal.，2018)。其根据有无人为标定的输出分为监督学习、半监督学习、无监督学习和强化学习，又根据模型结构的深度分为传统机器学习和深度学习。深度学习与机器学习的关系如图1.
+
+![](images/8faee1e0ea88dc39cab2ce4ee7158ceed7260763bd568c9a575a974c7db52874.jpg)  
+图1深度学习与机器学习的关系
+
+目前，应用于抑郁症的机器学习算法主要为传统机器学习，如支持向量机、随机森林、K-近邻算法、浅层人工神经网络等（Zhao& So，2019；Leeet al.，2018)。但近年来随着深度学习的发展，卷积神经网络、自动编码器、深度置信网络等开始逐渐被应用于抑郁症研究中（Lietal.，2019；Helbich etal.，2019;
+
+Lin etal.，2018)。利用机器学习建立抑郁症预测模型的基本原理为采集抑郁症风险因素、生物标记物等数据，然后对这些数据进行预处理得到归一化的数据集，按一定比例分为训练集和测试集，利用训练集对机器学习算法进行训练，最后用测试集对模型进行性能评估，并在验证评估过程中对模型进行不断优化。基于ML建立抑郁症预测模型的思路框架如图2.
+
+![](images/7b9606048865317b8c4405a39660382bdaaaedf1129f96b022b2f99113beb198.jpg)  
+图2基于ML建立抑郁症预测模型的思路框架如图
+
+# 3基于机器学习的抑郁症研究数据类型及采集
+
+机器学习的优势在于对数据中潜在规律的挖掘。因此，建立预测模型的第一步即收集数据。数据的收集方式因科学技术的发展而变得多样化，例如，基于问卷收集调查资料，通过各类传感器采集健康数据，从网络平台上获得公开数据等(Fu et al.，2018；Kantoch，2018；Enshaeifar et al.，2018；Marinelarena-Dondena,Ferretti，Maragoudakis，Sapino，&Errecalde，2017）。基于机器学习的抑郁症研究数据的收集方式及数据类型亦呈现多样性。
+
+机器学习对抑郁症的预测识别是基于可以反映抑郁症倾向的因子及各种疾病标志物来做出判断，包括抑郁症的影响因素、症状表现和生理特征等。目前，主要有年龄、性别、药物滥用等社会人口学资料，临床收集的躯体症状、心理状态资料，医学仪器采集的脑电信号（Electroencephalography，EEG）、脑部核磁共振成像（Magnetic ResonanceImaging，MRI）、眼动数据、心率变异性参数等生理信号数据来源（Patel，Khalaf，&Aizenstein，2016；Wu etal.，2018；Garcia-Cejaet al.，2018；Lee etal.，2018；吕瑞雪，2014)。其中基于脑电信号和脑部核磁共振成像的应用最为广泛，但是MRI等生理信号的采集成本较高，故学者们逐渐探索采集成本低却能很好预测抑郁症的数据，如语音、表情等(He&Cao,2018)。随着计算机和信息技术的发展，大量用户通过Facebook、Twitter 等社交网络平台进行情感表达、日常沟通，这些数据为卫生部门通过将自然语言处理技术、情感分析与机器学习结合来对用户的心理健康、情感障碍进行研究提供了机会（Marinelarena-Dondena etal.，2017）。Islam 等（2018）基于Facebook 用户帖子中的语言行为特征运用决策树建立了分类准确度可达 $9 9 . 0 \%$ 的抑郁症预测模型。同时物联网技术的发展，实现了物与物之间的信息交流，使得各种可穿戴设备承载大量的健康信息，已有研究将这些数据通过机器学习应用于抑郁症领域（McGinnisetal.，2018)。亦有学者应用智能手机传感器APP来获取日活动度、睡眠情况、社会交流情况等数据来预测个体的抑郁情况（Sarda etal.，2019）。
+
+# 4基于机器学习的抑郁症相关研究应用
+
+# 4.1分析抑郁症发生及预后影响因素
+
+抑郁症的发生及其预后的影响因素有许多，如遗传因素、膳食营养、激素水平等（靳宇倡，丁美月，2017；于斌，牛凯军，2015)，且确定这些影响因素的方法不断更新。传统的统计学方法所确定的预测因子单个预测能力较弱，因此需要建立基于多个预测因子的多元线性回归模型。然而，为保持传统的线性模型的稳定性和可重复性，预测因子的数量相对于样本量必须保持较小，且因子子集之间不能高度相关。这些问题导致传统的多元回归不能很好的利用潜在的预测因子，不能对数据进行充分挖掘（Pearson，Pisner，Meyer，Shumake，&Beevers，2018）。机器学习作为一种新的统计学方法，可以捕获所有相关预测因子的同时效应，优于传统的逐步分析方法，因此许多学者用机器学习来分析抑郁症发生及预后影响因素。罗晓舟等（2017）利用随机森林模型所给出的参数明确了脑卒中后患者抑郁发生的影响因素，其前3位分别是卒中病灶位置、中医药干预手段以及卒中患者是否具有抑郁家族史，又通过单规则算法得出脑卒中后是否抑郁最重要的影响因素为卒中病灶所在部位，额叶及颞叶病灶的患者在卒中后发生抑郁的概率更高。Pearson 等（2018）利用弹性网络和随机森林模型对抑郁症患者基于自我指导的网络干预效果的预测因素进行探索，对人口学变量、临床资料、干预系统的使用情况等120个候选因子进行分析，结果确定了治疗前抑郁总分、精神合并症、心境恶劣、系统模块的使用情况等16个重要的预测因子。这种基于机器学习对影响因素进行分析的方法可以更好的了解抑郁症发生机制，并且为之后准确预测抑
+
+郁症风险及预后奠定了基础。
+
+# 4.2筛查抑郁症患病风险
+
+抑郁症同大部分慢性疾病一样，具有非突然性和因素诱导性。若能提前预见患者潜在的抑郁症风险和抑郁倾向，便可对其进行早期干预，及时纠正患者的危险行为以避免抑郁症的发生和进一步加重。这种早期预测功能可通过训练机器学习预测模型来实现。例如，Sau 和Bhakta（2017a）基于老年群体年龄、人口、药物滥用等社会人口学变量和视力问题、听力问题、失眠问题等合并病症资料通过多层感知机建立了准确度达 $9 7 . 2 \%$ 的抑郁症风险预测模型，在该模型下基层卫生保健人员可通过输入个体相应的社会经济、躯体症状等资料实现对有抑郁风险的老年人的筛查。Moreira等（2019）将机器学习与物联网技术、云计算技术结合，利用孕妇怀孕期间的数据建立情感感知智能系统对其产后抑郁情况进行预测，可有效检出有抑郁倾向的产妇并对其进行及时干预以防止产后抑郁的发生。
+
+# 4.3辅助识别和诊断抑郁症
+
+抑郁症患者基数越来越大，医生的时间负担、精力负担也越重，通过复杂的心理测量工具来对抑郁患者进行大范围识别几乎是不可能的。为此，机器学习被用来辅助临床诊断和自动化识别，从而对抑郁症患者和健康人群进行分类。Zheng等（2017）对72个重性抑郁患者和54个正常人的血浆样本代谢物进行核磁共振光谱学分析，并基于支持向量机建立分类模型，准确度达 $9 6 . 0 \%$ ，该模型实现了在排除主观因素的影响下辅助诊断重性抑郁障碍。Sau 和 Bhakta（2017b）基于老年群体社会人口学特征和健康相关因素对多种机器学习算法进行训练，最高可达 $91 . 0 \%$ 的预测准确度，虽然预测准确度稍微降低，但有着数据来源成本低、容易获得的优势。上述这些研究主要集中于对重性抑郁障碍的诊断，然而早期识别轻度抑郁症对防止重性抑郁症、自杀等严重后果的发生尤为重要。Li等（2019）基于卷积神经网络建立了轻度抑郁症计算机辅助诊断系统（Computer-AidedDetection，CAD)，可达到 $8 5 . 6 \%$ 的预测准确度，该系统可以实现对轻度抑郁症患者的客观、快速识别。亦有研究证明基于Instagram、Twitter、Facebook 等社交媒体中用户生成的图片、帖子、评论点赞的数量等信息建立分类模型可以识别用户抑郁情况（Ricard，Marsch，Crosier，&Hassanpour，2018；Fatima，Mukhtar,Ahmad，&Rajpoot，2018)。为了保护用户的隐私，该类研究在提取数据前会签署匿名协议和知情同意，在伦理委员会监督下基于机器学习对社交媒体用户数据进行挖掘。此类基于社交媒体建立的抑郁症预测模型可扩大在人群层面的抑郁症精神障碍识别，提升未得到诊断的抑郁症社交媒体用户疾病意识，引导其及时进行就医行为，以获得早期诊断并早期接受相应的心理干预或药物治疗等，避免自杀等结局的发生。
+
+# 4.4辅助指导抑郁症治疗决策
+
+抑郁症的治疗方式主要有药物治疗、面对面心理治疗、基于网络的干预、重复经颅磁刺激（repetitive transcranial magnetic stimulation，rTMS）等。然而，个体对具体治疗方式的应答效果不同，若能提前预测患者对治疗方式的应答，则可根据预测结果有目标的选择最佳治疗方案，避免盲目的试验治疗（Foster，Mohler-Kuo，Tay，Hothorm，&Seibom，2019)，并达到节省医疗费用、提高治愈率的效果。近年来，机器学习因其可基于患者治疗前基线特征进行疗效预测的功能逐渐被用来指导抑郁症治疗方案的选择（Hollon，Cohen，Singla，&Andrews，2019）。Chekroud等（2016)基于梯度提升机算法对重性抑郁患者对药物治疗的应答情况进行预测，建立的预测模型对重性抑郁患者对依他普仑是否应答的分类准确度为$60 . 0 \%$ ，对其他药物的应答情况预测效果稍低，虽然整体准确度不是很高，但该研究揭示了利用机器学习来前瞻性的预测患者对药物应答效果的可能性。Zilcha-Mano 等（2018）基于随机森林分析抑郁症患者安慰剂、心理治疗和药物治疗效果的预测因子，较传统的统计学方法研究，并非考虑单一影响因素，而是对多个复杂变量之间的影响进行协同分析。Bailey等（2019）研究显示利用支持向量机基于抑郁症患者治疗一周时的静息脑电信号EEG 可以预测其对rTMS 治疗是否应答，从而指导无应答患者尽早选择其他适合的治疗方法，避免其盲目接受无效、延误治疗时期且昂贵的rTMS治疗。
+
+机器学习也被用于抑郁症研究的其他方面，Wallert等（2018）基于人口学特征、临床资料等34个预测因子利用随机森林预测心肌梗死后抑郁患者、焦虑患者对自我指导的网络认知行为疗法的依从性，该模型可早期识别低依从性患者，以便及时对这些患者进行依从性干预或者采取面对面认知行为疗法来改善患者症状。Dipnall等（2016）将机器学习聚类算法应用于3922名社区人群横断面调查，分析抑郁症与其他共存症状间的关系，发现抑郁症患者在疼痛、肠道和泌尿系统集群中更加常见，为进一步探索抑郁症生理病理机制和治疗靶点提供了方向。Zhao 等（2019）利用机器学习对现有的药物进行重新定位，基于药物表达谱来预测新的适应症，寻找可用于治疗抑郁症等精神疾病的药物。这种对现有药物重新利用的方法可缩短药物研发周期，相较于开发新药大大降低了时间和经济成本。
+
+综上所述，机器学习在抑郁症的应用研究主要集中于分析抑郁症发生及预后影响因素，筛查抑郁症患病风险，辅助识别、诊断抑郁症和辅助指导抑郁症治疗决策。其中，机器学习辅助识别、诊断抑郁症主要用于区分健康人群和重性抑郁障碍，未来应进一步加强其对轻度抑郁症的辅助诊断和其在抑郁症分级的研究。此外，机器学习在辅助指导抑郁症治疗决策方面亦有重大意义，可避免之前盲目的依序试验治疗，实现对症治疗，提高治疗效果并降低医疗成本。未来研究可在优化这些方面应用的基础上，不断探索机器学习在如指导抑郁症药物研发等其他方面的价值。
+
+# 5基于机器学习的抑郁症预测模型准确性的影响因素
+
+机器学习在抑郁症领域研究应用中，一般通过建立分类模型对数据规律进行挖掘，实现抑郁症的筛查、识别及诊断，其实际应用效果由模型性能的好坏决定。因此，明确抑郁症分类模型准确性的影响因素非常重要，是将机器学习应用于准确预测、诊断抑郁症，并指导治疗决策的基础，是实现更好应用效果的前提。
+
+# 5.1样本集种类及规模
+
+抑郁症的影响因素很多，若收集全部的影响因素来对结果进行预测，可能会使预测准确度增高，但广泛采集数据和大量运算对时间和人力物力的消耗会大大增加成本。因此，用适当的样本集达到好的预测效果是利用机器学习进行抑郁症预测的关键。沈骥（2015）基于脑电信号和眼动信号进行抑郁症识别研究，结果显示在相同的机器学习算法下利用脑电信号训练的预测模型的准确度普遍高于眼动信号预测模型。Acharya等（2018）证实基于脑部右半球的EEG数据训练的卷积神经网络模型的敏感性、特异性和准确度均优于左半球资料。可见，利用机器学习选择不同的抑郁症标志物作为预测因子，其预测准确度存在差别，我们应在同时考虑准确度和成本情况不断寻找最佳的预测因子来构建抑郁症预测模型。
+
+此外，研究证实样本量过小会因为特异性过高而影响预测模型的准确度，导致模型泛化能力不强（Gao，Calhoun，&Sui，2018)，单一种类的样本集较综合数据预测性能低（Lee etal.，2018；Hilbert，Lueken，Muehlhan，&Beesdo-Baum,2017）。Lee等（2018）对机器学习算法进行抑郁症治疗结果预测的相关文献进行了系统评价和meta分析，总体预测准确度达 $82 . 0 \%$ ，结果显示联合使用样本集类型建立的预测模型准确度达 $9 3 . 0 \%$ ，较单一使用现象学资料、遗传学资料、神经递质资料或影像学资料预测准确度（ $6 8 . 0 \% { \sim } 8 5 . 0 \%$ ）更高。因此，未来研究应尽可能收集足够的样本量，或者通过交叉验证、留一法等方法来降低特异性的影响，并且综合各种类型样本集来提高模型的泛化能力。
+
+# 5.2特征工程
+
+收集的原始数据包含了过多会影响预测准确性的冗余信息，因此需要从中抽取出对结果预测有用的信息来训练算法，此过程称为特征工程，包括数据缺失值处理、特征选择、特征提取等。李建秀（2018）基于相同的脑电数据集利用三种不同的特征选择算法与相同的机器学习算法结合，结果显示其中基于关联性的特征选择算法获得的特征所建立的模型的准确度最高。且研究证明，不同特征对结果的预测能力不同，基于同一数据集的不同特征子集建立的预测模型的准确性能亦不同（康环宇，2018)，需不断探索提取最佳预测特征集来提高预测准确度。可见，特征工程对于模型的预测准确性能非常重要。然而，这一数据处理过程的实施需要专业知识背景和技巧（Mukherjee,Obaidullah，Santosh,Phadikar，&Roy,2018)，且是整个学习过程中最耗时间和精力的一部分工作。深度学习的出现解决了这一难题，大大简化了特征工程，实现了自动化提取特征（Acharya et al.,2018)，对大数据间的复杂规律有强大挖掘能力，近年来被逐渐应用于包括抑郁症在内的各个领域。
+
+# 5.3算法类型
+
+算法的种类亦会影响模型预测准确度。Li等（2019）基于EEG数据分别建立卷积神经网络和五种传统机器学习的抑郁症分类模型，其中，传统机器学习模型中分类准确度最高为 $73 . 1 \%$ ，卷积神经网络分类准确度最高达 $84 . 7 \%$ ，提高了$1 1 . 6 \%$ 。刘岩、李幼军和陈萌（2017）对脑电信号进行特征提取，并建立支持向量机和Logistic分类模型，最高准确度为 $9 0 . 0 \%$ ；又基于仅进行滤波降噪处理的脑电信号建立卷积神经网络分类模型，准确度达 $9 6 . 7 \%$ ，抑郁症分类效果比需要进行特征提取的传统机器学习模型更好。可见，卷积神经网络可以更好的对数据间潜在的关系进行揭示以达到更高的分类准确度。相较于传统的机器学习算法，卷积神经网络不需要在训练、测试数据之前进行特征提取（Acharyaetal.,2018)，在简化步骤的情况下依然可以保证分类准确性，故深度学习的潜力值得进一步去研究。但是，深度学习对数据的依赖性较强，当样本数据较少时，其训练的模型准确度不一定比传统机器学习高（Zhao＆So，2019)。因此，应该根据实际数据情况，在考虑时间、经济效益的同时选择合适的训练模型。传统机器学习与深度学习的比较如表1（Lundervold,A.S.& Lundervold,A.，2019；Kolossvary，DeCecco，Feuchtner，& Maurovich-Horvat.，2019）。
+
+表1传统机器学习与深度学习的比较  
+
+<html><body><table><tr><td></td><td>传统机器学习</td><td>深度学习</td></tr><tr><td>主要算法</td><td>支持向量机、支持向量机、随机森林、K-近邻算</td><td>卷积神经网络、自动编码器、循环神经网络、置信</td></tr><tr><td></td><td>法、浅层人工神经网络…</td><td>神经网络…</td></tr><tr><td>人工提取特征 数据集</td><td>需要</td><td>不需要，自动抽取特征</td></tr><tr><td>硬件需求</td><td>较小</td><td>大</td></tr><tr><td>训练时间</td><td>一般</td><td>高</td></tr><tr><td>解释性</td><td>较短</td><td>长</td></tr><tr><td></td><td>良好</td><td>差</td></tr><tr><td>拟合能力</td><td>一般</td><td>很强</td></tr></table></body></html>
+
+机器学习预测模型的准确度除了受样本集种类、大小、特征工程和算法的影响，还受参数调优及集成方法等的影响（Mumtaz＆Malik，2018)。因此，在训练算法时应该考虑到每一个影响因素，不断优化得到最优预测模型。
+
+# 6现存问题及未来展望
+
+# 6.1样本量少
+
+利用机器学习建立准确度较高、泛化能力强的预测模型需要足够的样本量，然而目前国内相关研究中，因项目资金和人力投入不足、医院和社区健康系统不够完善、各医院间缺乏统一化的医疗信息管理系统等因素的影响导致数据收集时未能获得足够样本量。相较于国内，美国的健康系统如基于标准化护理语言的奥马哈系统（Omaha System）等较为完善，且各医院间可以进行患者健康信息的共享，便于收集较大的数据集并利用机器学习进行数据分析（Gao,Calhoun,& Sui,2018)。因此，我国在未来可以健全统一规范的患者健康资料数据库，以实现各医院、医院-社区等多站点数据共享，更好地对这些健康数据的挖掘，提高所建立的模型的泛化能力，使其适用于广谱人群。
+
+# 6.2预测模型有待进一步优化
+
+模型的预测准确性受特征、算法及参数等多方面的影响，因此需要不断地优化来达到最优模型。其中训练算法是建立模型的核心，故基于什么算法进行训练是关键。针对同样的问题，同一样本集，基于不同算法的预测模型会呈现不同的预测准确度(Karhade etal.,2019;Hasanzadeh，Mohebbi，&Rostami，2019)，且每种算法的适用范围及特性不同。Lee等（2018）的系统评价显示，对于同一拟解决问题，不同类型的样本集亦会影响预测结果，预测因子的选择亦是影响模型准确度的重要因素。因此，未来研究需从各个算法所适用的数据类型、算法的功能、时间及经济等多方面进行考虑，对自己的研究适合什么样的算法给予准确的判断，基于合适的算法进行训练，不断探索最佳预测因子，并进行参数调优迭代得到最优预测模型。
+
+# 6.3医疗信息人才缺乏
+
+现如今信息化时代下，每天都产生着大量的健康数据。临床及社区医院医护人员每日轮班都会将病人的数据输入电子病历，医疗仪器、生物传感器、可穿戴设备、移动设备实时传输患者的生命信息，数据中包含了大量关于患者、医疗保健趋势、护理现象等丰富信息，亦包含着许多有待挖掘的抑郁症相关信息。对这些数据进行挖掘需要一定的信息学技术，而我国现在医疗信息学人才却非常稀少（马丽明，黄昊，2018)，急需注重医疗信息人才的培养，提高其利用机器学习等技术处理大量复杂数据的能力。同时，应该加强多学科合作模式的发展，促进计算机信息学科与医学学科人才的合作，这种交叉学科研究模式将进一步推动心理学和医学的发展。
+
+# 6.4临床实践率较低
+
+利用机器学习可以揭示健康数据中隐藏的病人情况和治疗结果的趋势，辅助指导医护人员做出数据驱动的决策，改善病人的治疗和护理。但是现在大多研究停留于模型建立的理论基础，未结合其他计算机技术及硬件生成可运行平台或者应用程序。易于操作的应用程序和平台可以方便个体或基层卫生部门通过简单的数据输入提前知晓疾病风险（Jimenez-Serrano，Tortajada，&Miguel Garcia-GomezJ，2015)，做好疾病预防工作，降低医疗成本，辅助医生进行抑郁症诊断和定向选择个性化治疗方案，亦有助于减轻医生的负担。因此，未来可以将机器学习与物联网技术、云计算、大数据、计算机软件及硬件等相结合，开发完整的临床辅助决策系统。
+
+综上所述，机器学习已被逐渐应用于抑郁症领域的早期筛查、辅助诊断和辅助治疗决策等方面。但是，在应用中尚存在着样本量少、医疗信息学人才缺乏、临床实践率低等障碍和不足。因此，未来我国应注重医疗健康信息的统一化存储、加强医疗信息学人才的培养，促进机器学习在抑郁症领域的研究，不断优化构建的抑郁症预测模型，并逐渐应用于临床实践。
+
+参考文献   
+靳宇倡，丁美月． (2017).产后抑郁的预测因素及神经生理机制．心理科学进展,25(07),1145- 1161.   
+康环宇.(2018)．抑郁人群语音信号时间特征研究(硕士学位论文)．兰州大学,兰州.   
+李建秀.(2018)．基于抑郁症患者ERP数据的源定位及分类算法研究(硕士学位论文).兰州大学， 兰州.   
+刘岩，李幼军，陈萌.(2017).基于固有模态分解和深度学习的抑郁症脑电信号分类分析．中国医 学物理学杂志,34(09),963-967.   
+罗晓舟，温小鹏，何家扬，黄健婷，唐纯志.(2017).基于机器学习的卒中后抑郁影响因素分析. 中医杂志, 58(17),1478-1481.   
+吕瑞雪.(2014)．围产期抑郁症量化诊断系统的研发(硕士学位论文).华南理工大学，广州.   
+马丽明，黄昊.(2016)．医疗信息人才的培养模式研究．中国数字医学, $I I ( 1 0 ) , 7 4 - 7 5 + 9 7$   
+任志洪，李献云，赵陵波，余香莲，李政汉，赖丽足，阮怡君，江光荣.(2016)．抑郁症网络化自助 干预的效果及作用机制——以汉化MoodGYM为例．心理学报,48(07),818-832.   
+沈骥.(2015).基于眼动、脑电特征的抑郁识别研究(硕士学位论文).兰州大学，兰州.   
+于斌,牛凯军.(2015)．膳食营养与抑郁症的关系．心理科学进展,23(12),2107-2117.   
+周爱保，鲁小勇，吴文意，徐世鹏．采用语音的抑郁症诊断研究述评.(2017)．小型微型计算机系 统,38(11),2619-2624.   
+Acharya, U.R., Oh, S.L., Hagiwara, Y.,Tan,J. H., Adeli, H.,& Subha, D.P.(2O18). Automated EEGbased screening of depression using deep convolutional neural network. Computer Methods and Programs in Biomedicine, 161,103-113.   
+American Psychiatric Association. (2O13). Diagnostic and statistical manual of mental disorders (DSM${ 5 \textcircled { \mathbb { R } } }$ ). New York: American Psychiatric Pub.   
+Bailey,N. W.,Hoy, K.E.,Rogasch, N. C., Thomson, R. H., McQueen, S.,Elliot,D....Fitzgerald,P. B. (2019). Differentiating responders and non-responders to rTMS treatment for depression after one week using resting EEG connectivity measures. Ournal of Affective Disorders, 242, 68-79.   
+Brundtland, GH. (2Oo1). Mental health: New understanding, new hope. JAMA-Journal of The American Medical Association, 286(19),2391-2391.   
+Cabitza,F., & Banfi, G. (2O18). Machine learning in laboratory medicine: Waiting for the flood? Clinical Chemistry and Laboratory Medicine, 56(4), 516-524.   
+Chekroud,A. M., Zotti,R.J., Shehzad,Z., Gueorguieva,R., Johnson,M. K.,Trivedi,M. H.,.. Corlett, P. R. (2016). Cross-trial prediction of treatment outcome in depression: A machine learning approach. Lancet Psychiatry, 3(3),243-250.   
+Dipnall,J.F.,Pasco,J.A., Berk,M.,Wiliams,L.J., Dodd, S.,Jacka,F.N.,& Meyer,D.(2016). Into the bowels of depression: Unravelling medical symptoms associated with depression by applying machine-learning techniques to acommunity based population sample. Plos One,11(12), eO167055.   
+Enshaeifar,S., Zoha,A., Markides,A., Skillman, S.,Acton,S.T.,Elsaleh,T.,...Barnaghi,P.(2018). Health management and patern analysis of daily living activities of people with dementia using inhome sensors and machine learning techniques. Plos One,13(5), eO195605.   
+Fatima,I., Mukhtar, H. Ahmad, H. F.,& Rajpoot, K. (2018). Analysis of user-generated content from online social communities to characterise and predict depression degree. Journal of Information Science, 44(5):683-695.   
+Foster,S., Mohler-Kuo, M., Tay,L., Hothorn, T.,& Seibold, H. (2019). Estimating patient-specific treatment advantages in the“Treatment for Adolescents with Depresson Study”. Journal of Psychiatric Research,112, 61-70.   
+Fu, M. R., Wang, Y.,Li,C., Qiu,Z., Axelrod,D., Guth, A. A.,..Cheung, Y. K. (2018). Machine learning for detection of lymphedema among breast cancer survivors. mHealth, 4,17-17.   
+Gao, S., Calhoun, V. D., & Sui, J. (2O18). Machine learning in major depression: From classification to treatment outcome prediction. CNS Neuroscience & Therapeutics, 24,1037-1052.   
+Garcia-Ceja,E.，Riegler, M., Nordgreen, T., Jakobsen,P., Oedegaard, K. J.,& Torresen,J. (2018). Mental health monitoring with multimodal sensing and machine learning: A survey. Pervasive and Mobile Computing,51,1-26.   
+Gold, P.W., Machado-Vieira,R.,& Pavlatou,M.G. (2015). Clinical and biochemical manifestations of depression: Relation to the neurobiology of stress. Neural Plasticity,2015, 581976.   
+Hasanzadeh,F., Mohebbi, M.,& Rostami,R. (2O19). Prediction of rTMS treatment response in major depressive disorder using machine learning techniques and nonlinear features of EEG signal. Journal of Affective Disorders,256,132-142.   
+He,L.,& Cao, C. (2018). Automated depression analysis using convolutional neural networks from speech. Journal of Biomedical Informatics, 83,103-111.   
+Helbich, M., Yao, Y., Liu, Y., Zhang, J.,Liu,P.,& Wang, R. (2019). Using deep learning to examine street view green and blue spaces and their associations with geriatric depresson in Beijing, China. Environment International, 126,107-117.   
+Hilbert, K.,Lueken, U.， Muehlhan,M.，& Beesdo-Baum, K. (2O17). Separating generalized anxiety disorder from major depression using clinical, hormonal,and structural MRI data: A multimodal machine learning study. Brain and Behavior, 7(3),e00633.   
+Holln, S. D., Cohen, Z. D., Singla, D.R.,& Andrews,P. W. (2019). Recent developments in the treatment of depression. Behavior Therapy, 50(2),257-269.   
+Islam,M. R., Kabir, M. A.,Ahmed,A., Kamal, A. M., Wang,H.,& Ulhaq, A. (2018). Depression detection from social network data using machine learning techniques. Health Information Science and Systems, 6, 8.   
+Jimenez-Serrano,S., Tortajada, S.& Miguel Garcia-Gomez, J. (2O15). A mobile health application to predict postpartum depression based on machine learning. Telemedicine and e-Health, 21(7), 567- 574.   
+Kantoch,E. (2O18). Recognition of sedentary behavior by machine learning analysis of wearable sensors during activities of daily living for telemedical assessment of cardiovascular risk. Sensors,18(10), 3219.   
+Karhade, A.V., Ogink,P.T., Thio, Q. C. B.S., Cha,T.D., Gormley, W.B., Hershman, S.H.,..Schwab, J. H. (2019). Development of machine learning algorithms for prediction of prolonged opioid prescription after surgery for lumbar disc herniation. The Spine Journal: Official Journal of the North American Spine Society. DOI: 10.1016/j.spinee.2019.06.002.   
+Kolossvary，M.，De Cecco，C. N.，Feuchtner，G.& Maurovich-Horvat，P. (2019).Advanced atherosclerosis imaging by CT: Radiomics, machine learning and deep learning. Journal of Cardiovascular Computed Tomography. DO1:10.1016/j. jcct.2019.04.007.   
+Lee,Y.,Ragguett,R.M..,Mansur R.B.,Boutilier,J.J.,Rosenblat, J.D.,Trevizol, A.... McIntyre,R. S.(2018). Applications of machine learning algorithms to predict therapeutic outcomes in depression: A meta-analysis and systematic review. Journal of Affective Disorders,241, 519-532.   
+Li, X.,La,R., Wang, Y., Niu, J., Zeng,S., Sun, S.,& Zhu, J. (2019). EEG-based mild depression recognition using convolutional neural network. Medical & Biological Engineering & Computing, 57(6), 1341-1352.   
+Lin,E.,Kuo,P.-H.,Liu,Y.-L., Yu, Y. W.-Y., Yang,A.C.,& Tsai, S.-J. (2018). A deep learning approach for predicting antidepressant response in major depression using clinical and genetic biomarkers. Frontiers in Psychiatry, 9,290.   
+Lundervold, A.S. & Lundervold, A. (2019). An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik,29(2),102-127.   
+Marinelarena-Dondena,L.,Ferreti,E.,Maragoudakis,M.， Sapino,M.，& Errecalde,M.L. (2017). Predicting depression: A comparative study of machine learning approaches based on language usage. Cuadernos De Neuropsicologia-Panamerican Journal of Neuropsychology, 1(3),42-54.   
+McGinnis,R.S., McGinnis,E.W., Hruschak,J.,Lopez-Duran, N.L.,Fitzgerald,K.,Rosenblum,K.L., & Muzik, Maria. (2O18). Rapid anxiety and depression diagnosis in young children enabled by wearable sensors and machine learning. Conference proceedings: ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference, 3983-3986.   
+Moreira, M. W. L. Rodrigues, J. J. P.C., Kumar, N., Saleem, K.,& Illin, I. V. (2019). Postpartum depression prediction through pregnancy data analysis for emotion-aware smart systems updates. Information Fusion, 47, 23-31.   
+Mukherjee,H.， Obaidullah,S. M.， Santosh,K. C.， Phadikar, S.& Roy,K.(2018).Line spectral frequency-based features and extreme learning machine for voice activity detection from audio signal. International Journal of Speech Technology,21(4),753-760.   
+Mumtaz, W., Malik, A. S. (2O18). A comparative study of different EEG reference choices for diagnosing unipolar depression. Brain Topography, 31(5), 875-885.   
+Patel, M.J., Khalaf, A.，& Aizenstein, H.J. (2016). Studying depression using imaging and machine learning methods. Neuroimage-Clinical, 10,115-123.   
+Pearson,R.,Pisner,D.,Meyer,B., Shumake,J.,& Beevers,C.G. (2O18). A machine learning ensemble to predict treatment outcomes following an Internet intervention for depression. Psychological Medicine.DOI:10.1017/S003329171800315X   
+Ricard BJ, Marsch LA, Crosier B,et al. (2O18). Exploring the utility of community-generated social media content for detecting depression: An analytical study on Instagram. Journal of Medical Internet Research,20(12),e11817.   
+Sarda,A., Munuswamy, S., Sarda, S.,& Subramanian, V. (2O19). Using passve smartphone sensing for improved risk stratification of patients with depression and diabetes: Cross-sectional observational study.JMIR Mhealth and Uhealth,7(1),e11041.   
+Sau,A.,& Bhakta, I., (2017a).Artificial neural network (ANN) model to predict depression among geriatric population at a slum in Kolkata, India. Journal of Clinical and Diagnostic Research, 11(5), VC01-VC04.   
+Sau A,& Bhakta I. (2O17b). Predicting anxiety and depression in elderly patients using machine learning technology.Healthcare Technology Letters, 4(6),238-243.   
+Senders, J. T., Staples,P. C., Karhade, A. V., Zaki, M. M., Gormley, W. B.,Broekman, M.L. D.,. Arnaout, O. (2O18). Machine learning and neurosurgical outcome prediction: A systematic review. World Neurosurgery, 109,476-486.   
+Wallert,J., Gustafson,E.,Held,C.,Madison, G.,Norlund,F.,von Essen,L.,& Olsson,E.M.G. (2018). Predicting adherence to internet-delivered psychotherapy for symptoms of depression and anxiety after myocardial infarction: Machine learning insights from the U-CARE Heart randomized controlled trial. Journal of Medical Internet Research,2O(1O), e10754.   
+Wu, C., Dillon, D.G., Hsu, H., Huang, S.A.,Barrick, E.,& Liu, Y. H. (2018). Depression detection using relative EEG power induced by emotionally positive images and a conformal kernel support vector machine.Applied Sciences-Basel, 8(8),1244.   
+Zhao,K.& So, H. (2019). Drug repositioning for schizophrenia and depression/anxiety disorders: A machine learning approach leveraging expression data. IEEE Journal of Biomedical and Health Informatics, 23(3),1304-1315.   
+Zheng,H.,Zheng,P.,Zhao,L.,Jia,J.,Tang,S.,Xu,P.,.. Gao,H. (2017).Predictive diagnosis of major depression using NMR-based metabolomics and least-squares support vector machine. Clinica Chimica Acta, 464, 223-227.   
+Zilcha-Mano, S., Roose,S.P., Brown, P. J.,& Rutherford,B. R. (2018). A machine learning approach to identifying placebo responders in late-life depression trials. American Journal of Geriatric Psychiatry, 26(6), 669-677.
+
+# The application of machine learning in depression
+
+DONG Jianyu; WEI Wenqi; Wu Ke; NI Na; WANG Canfei; FU Ying; PENG Xin (School of nursing, Jilin university, Changchun 13oo12, China)
+
+Abstract: Because of the lack of disease awareness in depressed patients and the lack of early screening methods, most patients had developed to major depressive disorder when they were first diagnosed with depression. In order to improve the current situation, machine learning has been gradually used in some aspects of depression recently years,including early prediction, early recognition, auxiliary diagnosis, and treatment. In the application, the factors that affect the accuracy of machine learning model include the type and size of sample set, feature engineering, algorithm type, etc. In the future, machine learning should be further integrated into the health care system and mobile applications,continuously optimizing the machine learning model, fully mining patient health data to improve depression-related problems in terms of the prevention, identification, diagnosis, treatment and so on.
+
+Keywords: machine learning; depression; prediction; algorithm; model

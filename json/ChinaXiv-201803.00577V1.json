@@ -1,0 +1,119 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of tetracyclines on bone: an ambiguous question needs to be clarified ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wenxiang Cheng\\$, Ye Yue\\$, Yiping $\\mathrm { H u } \\mathbb { S }$ , Xinluan Wang\\$,Xiaohua Pan\\*, Xiaoxiao   \nZhou\\*\\*, Ling Qin&\\$, Peng Zhang\\$   \n$\\$ 5$ Translational Medicine R&D Center, Shenzhen Institute of Advanced Technology,   \nChinese Academy of Sciences, Shenzhen, Guangdong, China   \n\\*The Department of Orthopedics, The Second Clinical Medical College, Jinan   \nUniversity, Shenzhen, Guangdong, China   \n\\*\\*Department of orthopedics, Tai Zhou People's Hospital, Zhejiang Province, China   \n&The Department of Orthopedics and Traumatology, The Chinese University of Hong   \nKong, Hong Kong SAR, China   \nCorresponding to: Peng Zhang   \nE-mail: peng.zhang@siat.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tetracyclines have been widely used in bone histomorphometry to label new bone formation and apposition rate. However, most studies of tetracyclines have also shown their strong inhibitory action on osteoclasts and their effects on osteoblast activities as well. To even obtain the in-depth understanding on this issue, we have reviewed related studies in “Pubmed” by searching the keywords “tetracyclines and osteoclast’，“tetracyclines and osteoblast”，which retrieved 115 and 159 related documents，respectively. Among these papers， some described the application of tetracyclines as fluorescent marker in bone histomorphometry, while others discussed theirroleinprotection ofbonemetabolism partlythrough inhibiting osteoclastogenesis or bone resorption and through enhancing osteogenesis. Based on the above mentioned, it seems that tetracyclines used as bone labeling markers may affect the results of bone histomorphometry to some extent. To even confirm the effect of tetracyclines on bone cells (osteoblast，osteoclast） and in vivo bone remodeling,related research work has been performed in our research team which indicated quite different results in vivo and in vitro. Therefore, the influence of tetracyclines on bone may differ in terms of different conditions which need to be further elucidated as well. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: tetracyclines; bone morphometry detection; osteoclastogenesis; osteogenesis; fluorescent marker ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tetracyclines are a group of broad-spectrum antibiotics that are effective against a wide range of bacterial infections. In addition to their antibiotic properties, tetracyclines are well known to chelate calcium from bones and deposit it at the sites of bone formation, as determined by fluorescence microscopy by Milch et al as early as 1957(Milch et al., 1957). Tetracyclines labeling has since been widely used to determine bone dynamics in normal as well as disease states (Sanchez et al. 2004: Sapadin and Fleischmajer, 2006) and is now one of the most commonly used approaches to study bone turnover and new bone formation(Revell, 1983). When the tetracyclines were absorbed, they will incorporate into mineralizing bone and can be detected by their fluorescence (Pautke et al.). In double tetracycline labeling, a second dose is given 11-14 days after the first dose,and the amount of bone formed during that interval can be calculated by measuring the distance between the two fluorescent labels(Burt-Pichat et al.). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However, additional biological effects of tetracyclines on bone formation have been reported recently, in the form of direct effects on the activities of bone-forming osteoblasts and osteoclasts (Kirkwood et al.， 2004: Philippart et al.， 2003). These discoveries seems challenging the role of tetracyclines as bone labeling marker, which may affect normal bone development. To even confirm the potential effects of tetracyclines on bone (osteoblast ,osteoclast), relevant research has been conducted in our research lab, using different tetracyclines such as tetracycline and oxytetracycline, with calcein green and alizarin red S as control (1, 5, 1O, and $2 0 ~ \\mathrm { u g / m l }$ ， incubator 7 days). The result indicated that tetracyclines may greatly decrease the erode surface as well as the osteoclast number in vivo(Zhou et al.). Therefore, to our point of view, it is necessary to summarize the current knowledge about the biological effects of tetracyclines on bone and raise the question “whether tetracyclines used as new bone formation marker is appropriate? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. List of tetracyclines’ compounds ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As what we have mentioned, tetracyclines are a group of broad-spectrum antibiotics (Griffin et al.). Some tetracyclines are derived directly from a bacterium known as Streptomyces coelicolor. Others are made in the laboratory from chlortetracycline or oxytetracycline. According to source， the tetracyclines were divided into naturally occurringgroup (e.g Tetracycline， Chlortetracycline, Oxytetracycline， Demeclocycline） and semi-synthetic group (e.g Doxycycline, Lymecycline， Meclocycline, Methacycline， Minocycline, Rolitetracycline ). While, according to duration of action, tetracyclines were divided into short-acting (half-life is $6 { - } 8 \\ \\mathrm { h r s } \\dot { }$ ), intermediate-acting group (half-life is ${ \\sim } 1 2 \\ \\mathrm { h r s } \\$ ） and long-acting group (half-life is 16 hrs or more) as well. The most common used tetracyclines were list as Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Effects of tetracyclines on osteoblast function ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Osteoblasts play an essential role in new bone formation. Recent research about the effect of tetracyclines on osteoblasts indicates that these cells can respond to tetracyclines at very low levels, such as those attained in plasma and crevicular fluid at standard therapeutic dosages. For example, application of either doxycycline or minocycline( $\\mathrm { 1 ~ m g / m l ) }$ ，both representative members of the tetracycline family, have been found to induce cell proliferation and to increase the extent of matrix mineralization in human bone mesenchymal stem cells (BMSCs)(Gomes and Fernandes, 2OO7). Increased osteoblastic proliferation and differentiation after tetracyclines administration has also been observed in diabetic rats after treatment with doxycycline hyclate and minocycline hydrochloride，resulting in new bone formation and improvements to osteopenia (Almazin et al.， 2009; Bain et al., 1997: Golub et al.，199O). Tetracyclines have also been reported to restore osteoblast structure of diabetic rats, increasing the numbers of cytoplasmic organelles required for protein synthesis (Golgi-RER system), and active transport (mitochondria) (Sasaki et al.,1991).However, another study reported that tetracyclines at concentrations of 60 to $8 0 \\ \\mathrm { \\ m g / m l }$ can inhibit the proliferation of primary human osteoblasts (PHO), possibly through the destruction of mitochondria (Duewelhenke et al., 2007). Therefore, it seems that tetracyclines at low level (less than $5 0 \\mathrm { m g / m l } ,$ ）may induce the osteogenesis,while high level (more than $5 0 \\mathrm { m g / m l } )$ ） of those may inhibit this process, indicating the dose-related effect of tetracyclines on osteoblasts. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Effect of tetracyclins on osteoclast function ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Osteoclasts play a pivotal role in the bone resorption process,which is a very important component of bone health. The equilibrium between bone formation and bone resorption maintains the homeostasis of the bone. Therefore, the status of the osteoclast greatly afects overall bone formation. Literature review indicated that tetracycline use may lead to inhibition of the activity of several matrix metalloproteinases (MMPs) produced by osteoclasts in the bone(Kirkwood et al.. 2003: Saikali and Singh， 2Oo3). Tetracyclines have also been reported to reduce the secretion of interleukin (IL)-6,an autocrine/paracrine cytokine that can induce osteoclast formation and activationtohelpmediateinflammatorybone destruction(Kirkwood et al.， 2003: Saikali and Singh， 2003). These functions of tetracyclines in inhibiting osteoclast function and regulating angiogenesis have also been observed experimentally (Schwartz et al., 2000: Zhang et al., 2007). Moreover, tetracyclines have shown substantial anti-osteoclastic effects in a diabetic rat model, resulting in improvements in osteopenia(Kaneko et al.， 1990). More important, chemically modified tetracyclines have been found to induce osteoclast apoptosis that was independent of the inhibition of osteoclast MMPs as well (Holmes et al.,2004). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In depth research indicated that tetracyclines can affect parameters of osteoclast function, inhibiting bone resorption through a number of pathways, including: (1) altering intracellular calcium concentration and interaction with the putative calcium receptor(Donahue et al.， 1992); (2) decreasing the ruffled border area and acid production(Kaneko et al.， 1990); (3） diminishing lysosomal cysteine proteinase (cathepsin) secretion(Sasaki et_al.， 1999); (4) inducing cell retraction by affecting podosomes(Holmesetal., 2004); (5) inhibitingosteoclastgelatinase activity(Ramamurthy et_al.， 2002); (6) selectively inhibiting osteoclast ontogeny or development(Holmes_ et al., 2004); and (7) inducing apoptosis or programmed cell death of osteoclasts (Bettany et al., 20oo; Holmes et al., 2004). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the above analysis, it is reasonable to confirm that tetracyclines may affect the results of bone histomorphometry detection if they exist in the serum long enough（as those in in vitro researches (Bettany et al., 2OoO; Golub et al.,1987; Holmes et al., 2004))due to their possible influence on osteoblasts and osteoclasts (Figure 1). While， it should be concerned that there is difference between tetracyclines dosing used for bone histomorphometry（e.g. 2 days, followed by a 10 day gap(Elkin et al., 2O02)) and the dosing used in the experimental observations in which the tetracyclines exposure in cell cultures or experimental animals was continuous. Our current preliminary in vitro and in vivo study also confirmed such point(Zhou et al.). Therefore, we believed that it is time to re-considerate the application of tetracyclines asbone formation labeling markers. Also， we recommended the application of the succedaneums of tetracyclines in animal research (calcein green, xylenol orange etc) before the clarification of the potential effect of tetracyclines on bone in vivo. In the future research, more animal experiments and clinical trials that compare differences in measurements of new bone labeling between tetracyclines(usingdifferentconcentration， diffrenttimegap） andother fluorochromes should be performed which will help for the final solution of this issue . ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References   \nAlmazin，S. M.，R. Dziak, S.Andreana,and S. G. Ciancio,2009, The effect of doxycycline hyclate, chlorhexidine gluconate, and minocycline hydrochloride on osteoblastic proliferation and differentiation in vitro: J Periodontol, v. 80, p. 999-1005.   \nBain, S., N. S. Ramamurthy, T. Impeduglia, S. Scolman, L. M. Golub, and C. Rubin, 1997,Tetracycline prevents cancellous bone loss and maintains near-normal rates of bone formation in streptozotocin diabetic rats: Bone, v. 21, p. 147-53.   \nBettany, J. T., N. M. Peet, R. G. Wolowacz, T. M. Skerry, and P. S. Grabowski, 2000, Tetracyclines induce apoptosis in osteoclasts: Bone, v. 27, p. 75-80.   \nBurt-Pichat, B., H. Follet, G. Toulemonde,M. Arlot, P. Delmas,and R. Chapurlat, Methodological approach for the detection of both microdamage and fluorochrome labels in ewe bone and human trabecular bone: J Bone Miner Metab.   \nDonahue, H. J., K. Iijima, M. S. Goligorsky, C. T. Rubin,and B. R. Rifkin,1992, Regulation of cytoplasmic calcium concentration in tetracycline-treated Osteoclasts: JBone Miner Res, v. 7, p. 1313-8.   \nDuewelhenke,N.，O. Krut, and P. Eysel， 2007, Influence on mitochondria and cytotoxicity of different antibiotics administered in high concentrations on primary human osteoblasts and cell lines: Antimicrob Agents Chemother, v. 51, p. 54-63.   \nElkin, S. L.， S. Vedi, S.Bord, N. J. Garrahan, M. E. Hodson,and J. E. Compston, 2002,Histomorphometric analysis of bone biopsies from the iliac crest of adults with cystic fibrosis: Am JRespir Crit Care Med, v. 166, p. 1470-4.   \nGolub，L. M.，T. F. McNamara,G. D'Angelo，R. A. Greenwald， and N. S. Ramamurthy, 1987，A non-antibacterial chemically-modified tetracycline inhibits mammalian collagenase activity: J Dent Res, v. 66, p. 1310-4.   \nGolub,L. M.，N. S. Ramamurthy， H. Kaneko，T. Sasaki，B. Rifkin，and T. F. McNamara， 1990， Tetracycline administration prevents diabetes-induced osteopenia in the rat: initial observations: Res Commun Chem Pathol Pharmacol, v. 68, p. 27-40.   \nGomes, P. S., and M. H. Fernandes, 2007, Effect of therapeutic levels of doxycycline and minocycline in the proliferation and differentiation of human bone marrow osteoblastic cells: Arch Oral Biol, v. 52, p. 251-9.   \nGriffin, M. O., G. Ceballos, and F. J. Villarreal, Tetracycline compounds with nonantimicrobial organ protective properties: possible mechanisms of action: Pharmacol Res, v. 63, p. 102-7.   \nHolmes，S. G.，K. Still，D. J. Buttle,N. J. Bishop,and P. S. Grabowski, 2004, Chemically modified tetracyclines act through multiple mechanisms directly on osteoclast precursors: Bone, v. 35, p. 471-8.   \nKaneko, H.， T. Sasaki， N. S. Ramamurthy，and L. M. Golub, 1990，Tetracycline administration normalizes the structure and acid phosphatase activity of Osteoclasts in streptozotocin-induced diabetic rats: Anat Rec,v. 227, p. 427- 36.   \nKirkwood, K., T. Martin, K. Agnello, and Y. J. Kim, 2004, Differential regulation of MMP-13 by chemical modified tetracyclines in osteoblasts: J Int Acad Periodontol, v. 6, p. 39-46.   \nKirkwood, K., T. Martin, S. T. Andreadis,and Y. J. Kim, 2003, Chemically modified tetracyclines selectively inhibit IL-6 expression in osteoblasts by decreasing mRNA stability: Biochem Pharmacol, v. 66, p. 1809-19.   \nMilch,R.A., D. P. Rall,and J. E. Tobie,1957, Bone localization of the tetracyclines: J Natl Cancer Inst, v. 19, p. 87-93.   \nPautke, C., S. Vogt, K. Kreutzer, C. Haczek, G. Wexel, A. Kolk,A. B. Imhoff, H. Zitzelsberger, S.Milz,and T. Tischer, Characterization of eight different tetracyclines: advances in fluorescence bone labeling: JAnat, v. 217, p. 76-82.   \nPhilippart, P.,M. Brasseur, D.Hoyaux,and R.Pochet, 2Oo3,Human recombinant tissue factor, platelet-rich plasma, and tetracycilne induce a high-quality human bone graft: a 5-year survey: Int J Oral Maxillofac Implants, v. 18, p. 411-6.   \nRamamurthy, N. S., B.R. Rifkin, R.A. Greenwald, J. W. Xu, Y. Liu, G. Turner, L. M. Golub，and A. T. Vernillo，2002, Inhibition of matrix metalloproteinasemediated periodontal bone loss in rats: a comparison of 6 chemically modified tetracyclines: J Periodontol, v. 73, p. 726-34.   \nRevell, P. A.,1983, Histomorphometry of bone: J Clin Pathol, v. 36, p. 1323-31.   \nSaikali, Z., and G. Singh, 2003, Doxycycline and other tetracyclines in the treatment of bone metastasis: Anticancer Drugs, v. 14, p. 773-8.   \nSanchez,A. R.,R. S. Rogers, 3rd, and P.J. Sheridan, 2O04, Tetracycline and other tetracycline-derivative staining of the teeth and oral cavity: Int J Dermatol, v. 43, p. 709-15.   \nSapadin, A. N., and R. Fleischmajer, 2O06, Tetracyclines: nonantibiotic properties and their clinical implications: JAm Acad Dermatol, v. 54, p. 258-65.   \nSasaki, T.，H. Kaneko，N. S. Ramamurthy, and L. M. Golub， 1991， Tetracycline administration restores osteoblast structure and function during experimental diabetes: Anat Rec, v. 231, p. 25-34.   \nSasaki, T., N. Ohyori, K. Debari, N. S.Ramamurthy, and L. M. Golub, 1999,Effects of chemically modified tetracycline， CMT-8，on bone loss and osteoclast structure and function in osteoporotic states: Ann N Y Acad Sci, v. 878, p. 347-60.   \nSchwartz, Z., C. H. Lohmann, M. Wieland, D.L. Cochran, D. D. Dean, M. Textor, L. F. Bonewald，and B. D. Boyan，2Ooo，Osteoblast proliferation and differentiation on dentin slices are modulated by pretreatment of the surface with tetracycline or osteoclasts: J Periodontol, v. 71, p. 586-97.   \nZhang, C., T. T. Tang, W. P. Ren, X. L. Zhang, and K. R. Dai, 2007, Inhibiting wear particles-induced osteolysis with doxycycline: Acta Pharmacol Sin, v. 28, p. 1603-10.   \nZhou, X., P. Zhang, C. Zhang, B.An, and Z. Zhu, Tetracyclines inhibit rat osteoclast formation and activity in vitro and affect bone turnover in young rats in vivo: Calcif Tissue Int, v. 86, p. 163-71. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

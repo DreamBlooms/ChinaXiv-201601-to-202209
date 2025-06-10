@@ -1,0 +1,460 @@
+[
+    {
+        "type": "text",
+        "text": "Site-specifically Immobilize Pt Nanocrystals on NiFe Layered Double Hydroxide: Old Catalysts with Enhanced Stability Through strong $\\mathbf { F e } ^ { 3 + } .$ -O(H)-Pt Interfacial Contact ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yechuang Han a b‡, Pengfei Liat, Jun Liua\\*, Shouliang Wua, Yixing Yea, Zhenfei Tianä and Changhao Liang a b\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aKey Laboratory of Materials Physics and Anhui Key Laboratory of Nanomaterials and Nanotechnology, Institute of Solid State Physics, Hefei Institutes of Physical Science, Chinese Academy of Sciences,Hefei 230031, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "bDepartment of Materials Science and Engineering, University of Science and Technology of China, Hefei 230026, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*These authors contributed equally to this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author E-mail: chliang@issp.ac.cn; jliu@issp.ac.cn. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tel: $+ 8 6$ 55165594860; Fax: $+ 8 6$ 55165591434; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Agglomeration-triggered deactivation of supported platinum electrocatalysts markedly hinders their application in methanol oxidation reaction (MOR). In this study，graphene-supported nickel-iron layered double hydroxide (NiFe-LDH/rGO), in which $\\mathrm { F e } ^ { 3 + }$ was introduced to replace $\\mathrm { N i } ^ { 2 + }$ partially in the $\\mathrm { N i ( O H ) } _ { 2 }$ lattice to provide stronger metal-support bonding sites, was utilized to immobilize Pt nanoparticles (NPs). Given the optimized metal-support interfacial contact （20 $\\mathrm { ( F e ^ { 3 + } { - } O ( H ) { - } P t ) }$ between Pt NPs and NiFe-LDH/rGO nanosheets for Pt/NiFe-LDH/rGO electrocatalysts， the Pt/NiFe-LDH/rGO electrocatalystsdisplayed dramatically enhanced durability than that of $\\mathrm { P t / N i ( O H ) _ { 2 } / r G O }$ counterpart as well as commercial $\\mathrm { P t / C }$ and $8 6 . 5 \\%$ of its initial catalytic activity can be maintained even after 1200 cycles of cyclic voltammetry (CV) tests during MOR. First-principle calculations toward the resultant M-O(H)-Pt $( \\mathsf { M } = \\mathsf { F e } ^ { 3 + } , \\mathsf { N i } ^ { 2 + } )$ interfacial structure further corroborates that the NiFe-LDH nanosheets can provide stronger bonding sites (via the $\\mathrm { F e } ^ { 3 + } { \\mathrm { - } } \\mathrm { O } ( \\mathrm { H } ) { \\mathrm { - } } \\mathrm { P }$ t bonds） to immobilize Pt NPs than those of $\\mathrm { N i ( O H ) } _ { 2 }$ nanosheets (via the $\\mathrm { N i } ^ { 2 + } .$ -O(H)-Pt bonds). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDs: Pt electrocatalyst stability; layered double hydroxide; site-specific； optimized interfacial contact; methanol oxidation reaction; high durability. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Graphene-supported Pt nanoparticles (NPs) have attracted sustained attention due to their distinct electrocatalytic performance in methanol oxidation reaction.’ However, given the high surface energy, Pt NPs easily agglomerate and grow during catalytic reactions, especially for Pt NPs with a few nanometers in size.2, 3 Moreover, Pt-based catalysts are readily poisoned with chemisorbed intermediates generated during operations.4, 5 To overcome these two severe drawbacks,long-lived and anti-poisoned Pt electrocatalysts should be developed. The selection of proper supported materials and loading method are key points in constructing ideal Pt electrocatalysts.6-8 Graphene modified with metal hydroxides or oxides is commonly selected as support to immobilize Pt NPs because graphene can transport electrons efficiently; in addition, metal hydroxides or oxides can facilitate water dissociation to generate oxygen-contained species， thereby accelerating the removal of poisoning carbonaceous species on adjacent Pt sites.9-11 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Among a variety of metal hydroxides and oxides, layered double hydroxides (LDHs) present more advantages because of their distinct structures and highly synergetic with Pt NPs.12-15 As a class of 2D anionic clays,LDHs possess positively charged brucite-like layers and intercalated anions.12 Normally, the $\\mathbf { M } ^ { 2 + }$ cations in the host structure of hydroxides are partially replaced with $\\mathbf { M } ^ { 3 + }$ cations, and the excessive cationic charge generated by $\\mathbf { M } ^ { 3 + }$ cations is balanced with anionic intercalation between different hydroxide layers.13 Benefiting from the atomic-scale uniform distribution of site-specific and edge-sharing $\\mathrm { M O } _ { 6 }$ octahedra in the host structure,LDHs exhibit considerable potential as supports to immobilize Pt NPs due to the strong contact between metal and site-specific supports.14 Recently, Chen and co-workers15 demonstrated that Pt NPs, covered with an atomic layer thickness of NiFe-LDH, are highly durable and efcient for the catalytic oxidation of carbon monoxide by taking advantage of the strong interfacial effect. Additionally, the combination of iron and nickel can significantly increase the water splitting ability by taking advantage of synergistic metal-metal interactions.16-20 Furthermore,LDHs are more favorable toward water dissociation than that of metal oxides in alkaline electrolytes.16 For example, NiFeLDH nanosheets present comparable water splitting activity to that of scarce and expensive materials, such as $\\mathrm { I r O } _ { 2 }$ and $\\mathrm { R u O } _ { 2 }$ .19 Despite some achievements, two fundamental limitations which have plagued the ful use of LDH supported Pt nanocatalysts stillremain: (i) in the contact interfaces between Pt NPs and LDH support, which part ( $( \\mathbf { M } ^ { 2 + } \\mathbf { O } _ { 6 }$ or $\\mathrm { M } ^ { 3 + } \\mathrm { O } _ { 6 }$ octahedra) is decisive in immobilizing Pt NPs is still not clear; (i) traditional solution reduction method, reduce Pt precursors with reductant in liquids, cannot ensure that all $\\mathrm { P t }$ nanosrystals directly grown on the LDH supports. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the present work， we selected the graphene-supported NiFe-LDH (NiFe-LDH/rGO) nanosheets as support materials to synthesize stable Pt electrocatalysts. Ultrafine Pt nanocrystals were directly grown on the NiFe-LDH/rGO nanosheets via photo-assisted in situ reduction of the adsorbed $\\mathrm { P t C l } _ { 4 } { } ^ { 2 - }$ precursor solution. The as-prepared Ptx/NiFe-LDH/rGO electrocatalysts present significantly enhanced durability compared with that of their $\\mathrm { P t } _ { y } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ counterparts for MOR. First-principle calculations reveal that the enhanced durability of Pt/NiFe-LDH/rGO electrocatalysts originates from the optimized interfacial contact between Pt NPs and site-specific NiFe-LDH support, in which the $\\mathrm { F e ^ { 3 + } { - } O ( H ) { - } P t }$ bonds can more efficiently immobilize Pt NPs than the $\\mathrm { N i } ^ { 2 + } .$ O(H)-Pt bonds on the $\\mathrm { N i ( O H ) } _ { 2 }$ support. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RESULTANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Strategy for synthesizing Pt/NiFe-LDH/rGO nanocomposites ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Pt/NiFe-LDH/rGO electrocatalysts were synthesized by two steps. Primarily， negatively charged GO surface ( $\\zeta = - 4 4 . 3 \\ \\mathrm { m V }$ , Figure S1) was used as the template to adsorb $\\mathrm { N i } ^ { 2 + }$ and $\\mathrm { F e } ^ { 3 + }$ cations; urea was used as a precursor to provide a slow-, sustained-release source of hydroxyl.21 Under hydrothermal reaction， GO can be reduced to rGO,and urea will decompose into hydroxyl, ammonia,and carbon dioxide (Equation 1). The hydroxyl formation provides an alkaline environment, which directly promotes the nucleation and growth of 2D NiFe-LDH on rGO (Equation 2).22 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C O ( N H _ { 2 } ) _ { 2 } + H _ { 2 } O  2 N H _ { 3 } ^ { + } + O H ^ { - } + C O _ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G O - ( N i ^ { 2 + } ) _ { { a d } } + G O - ( F e ^ { 3 + } ) + O H \\  N i F e - L D H / r G O }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The as-prepared NiFe-LDH/rGO and $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ nanosheets were washed with deionized Water and ethanol for several times.The zeta potentials of NiFe-LDH/rGO and $\\mathrm { N i ( O H ) } _ { 2 } / \\mathrm { r G O }$ nanosheets were $+ 9 . 9 1$ and $- 1 7 . 4 ~ \\mathrm { m V }$ ,respectively (Figure S2). Notably, given the positively charged surface originating from the unsaturated $\\mathrm { F e } ^ { 3 + } \\mathrm { O }$ sites，the NiFe-LDH/rGO nanosheets showed better $\\mathrm { P t C l } _ { 4 } { } ^ { 2 - }$ adsorption capacity than that of $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ (Figure S3). Subsequently, as illustrated in Figure 1， NiFe-LDH/rGO-supported Pt NPs were synthesized through photoassisted in situ reduction of adsorbed $\\mathrm { P t C l } _ { 4 } { } ^ { 2 - }$ . The growth of Pt NPs on NiFe-LDH can be expressed by the following formulas: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) Adsorption of $\\mathrm { P t C l } _ { 4 } \\mathrm { } ^ { 2 - } \\mathrm { o n }$ the surface of NiFe-LDH ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N i F e \\mathrm { - } L D H + P t C l _ { 4 } } ^ { 2 - }  \\mathrm { N i F e \\mathrm { - } L D H \\mathrm { - } ( P t C l _ { 4 } } ^ { 2 - } ) _ { \\mathrm { a d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(b) Creation of photogenerated electron-hole pairs ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N i F e - L D H } + h \\nu  { \\mathrm { e } } ^ { - } + h ^ { + }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(c) Growth of Pt NPs on NiFe-LDH support ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { { \\small I { - } ( P t C l { _ { 4 } } ^ { 2 - } ) _ { \\mathrm { { a d } } } + n e ^ { - } \\to P t N P s / N i F e { - } L D H + n C l ^ { - } } . }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The ICP-AES result showed that the $\\mathrm { N i } ^ { 2 + }$ concentration in NiFe-LDH/rGO ( $( 7 9 . 1 2 5 ~ \\mu \\mathrm { g } \\ \\mathrm { m L } ^ { - 1 } )$ （20 was close to that in $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ $( 7 0 . 4 2 5 ~ \\mu \\mathrm { g } \\ : \\mathrm { m L } ^ { - 1 } )$ ). In addition, a small amount of $\\mathrm { F e } ^ { 3 + }$ replaced $\\mathrm { N i } ^ { 2 + }$ in the $\\mathrm { N i ( O H ) } _ { 2 }$ lattice in the preparation of NiFe-LDH/rGO (atomic ratio, $\\mathrm { N i { : } F e } = 1 1 . 8 7 { : } 1$ ） Notably, under the same $\\mathrm { P t }$ precursor addition, the loading amount of Pt NPs on NiFe-LDH/rGO was two times higher than that on $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ after a trace amount of $\\mathrm { F e } ^ { 3 + }$ was introduced into the $\\mathrm { N i ( O H ) } _ { 2 }$ lattice (Table S1). Two main factors are responsible for this result. First, the positively charged NiFe-LDH/rGO nanosheet surface possessed stronger $\\mathrm { P t C l } _ { 4 } { } ^ { 2 - }$ adsorption capacity than that of $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ nanosheets. This result indicated that a larger amount of adsorbed $\\mathrm { P t C l } _ { 4 } { } ^ { 2 - }$ on NiFe-LDH/rGO nanosheets can participate in the photoreduction process than that on the $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ supports. Second, the highly dispersed ${ \\mathrm { F e O } } _ { 6 }$ octahedra in the LDHs matrix can hinder electron-hole recombination and promote the transfer of light-generated electrons to adsorbed reactants.23, 24 Therefore, more $\\mathrm { P t C l } _ { 4 } { } ^ { 2 - }$ was reduced to Pt NPs on NiFeLDH/rGO than that on $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Characterization of Pt/NiFe-LDH/rGO nanocomposites ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 2a shows the representative TEM image of Pto.54/NiFe-LDH/rGO nanocomposite. NiFe-LDH closely grew on the rGO nanosheets, and Pt nanocrystals with an average diameter or width of $2 \\ : \\mathrm { n m }$ Were loaded on the surface of NiFe-LDH (Figure 2b). Moreover, Pt nanocrystals displayed clear latice fringes with an interplanar distance of $0 . 2 2 7 { \\mathrm { n m } }$ (Figure 2c), which was in good agreement with the Pt (111) crystallographic plane. The corresponding HAADF image and EDS elemental mapping images (Figure 2d) of the Pto.54/NiFe-LDH/rGO nanocomposite indicated that Pt nanocrystals uniformly dispersed on NiFe-LDH/rGO without agglomeration and ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fe atoms homogeneously dispersed in the $\\mathrm { N i ( O H ) } _ { 2 }$ matrix. C signals covered the whole vision of the image index to the rGO, thereby demonstrating that rGO acted as a template for NiFe-LDH growth. As a comparison sample, $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ (Figure S4) showed similar morphology with $\\mathrm { P t _ { 0 . 5 4 } / N i F e - L D H / r G O }$ and a good dispersity of Pt NPs on $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "All diffraction peaks shown in the XRD patterns (Figure 3a) of both NiFe-LDH/rGO and $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ nanosheets matched well with the $\\mathfrak { a }$ -phase $\\mathrm { N i ( O H ) } _ { 2 }$ (JCPDS No. 38-0715). The high-resolution XPS spectrum of Ni 2p in the NiFe-LDH/rGO (Figure 3b) displayed two main peaks located at 856.09 and $8 7 3 . 7 4 \\ \\mathrm { e V }$ ，which suggested the $+ 2$ oxidation states of Ni.25 In theory, $\\mathrm { F e } ^ { 3 + }$ is preferable than $\\mathrm { F e } ^ { 2 + }$ in fabricating NiFe-LDH because its ionic radius is similar to that of $\\mathrm { N i } ^ { 2 + }$ .26 As shown in Figure 3c, the Fe $2 { \\tt p } _ { 3 / 2 }$ peaks overlapped with the Ni Auger peaks (near 706 and $7 1 2 { \\mathrm { e V } }$ ). Thus,the satellite peak $( 7 1 8 . 8 0 \\mathrm { e V } )$ near the Fe $2 { \\tt p } _ { 3 / 2 }$ peak was selected as an indicator of the $\\mathrm { F e } ^ { 3 + }$ valence state.16, 27 The distances between the satellte peak $( 7 1 8 . 8 0 \\ \\mathrm { e V } )$ （20 and Fe $2 { \\mathsf { p } } _ { 1 / 2 }$ (724.70 eV） and Fe $2 { \\tt p } _ { 3 / 2 }$ (711.01 eV） were 5.90 and $7 . 7 9 \\ \\mathrm { { \\ e V } }$ ，respectively. Quantitative analysis proved the $+ 3$ oxidation state of Fe.28 In Figure 3d, three peaks located at 284.78, 286.10,and 288.01 eV corresponded to C-C, C-O, and $\\scriptstyle { \\mathrm { C = O } }$ bonds,respectively. The C-O and $\\scriptstyle { \\mathrm { C = O } }$ peaks were evidently weaker than those of GO, thereby suggesting that GO was reduced after the hydrothermal reaction (Figure S5).29 Additionally, the emerging peak at 289.50 eV originated from the intercalated carbonate molecule $( \\mathrm { C O } _ { 3 } { } ^ { 2 - } )$ in the NiFe-LDH nanosheets.30 For comparison, the chemical compositions of the $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ were also corroborated by XPS, and results are summarized in Figure S6. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical performance of catalysts ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 4a illustrates the typical CV curves of Pto.54/NiFe-LDH/rGO, $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ and commercial Pt/C. On the basis of integrated hydrogen desorption region,³1 the calculated result showed that the ECSA values of $\\mathrm { P t }$ catalysts on Pt0.54/NiFe-LDH/rGO $( 6 0 9 . 0 1 ~ \\mathrm { c m } ^ { 2 } ~ \\mathrm { m g } ^ { - 1 } )$ and $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ 1 $( 7 6 7 . 6 2 \\ \\mathrm { c m } ^ { 2 } \\ \\mathrm { m g } ^ { - 1 } )$ ） were higher than that of commercial $\\mathrm { P t / C }$ （ $( 4 9 8 . 8 6 ~ \\mathrm { c m } ^ { 2 }$ （204号 $\\mathbf { m } \\mathbf { g } ^ { - 1 } )$ . And given that the comparatively low loading amount and higher dispersity of Pt NPs, as verified by the ICP-AES analysis, $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ （ $\\mathrm { \\Delta P t }$ concentration, $2 8 . 5 3 ~ \\mu \\mathrm { g } \\mathrm { \\ m L } ^ { - 1 } ,$ ）ternary hybrids showed slightly higher electrocatalytic activity than that of Pto.54/NiFe-LDH/rGO (Pt concentration, $1 4 6 . 8 0 ~ \\mu \\mathrm { g } \\ \\mathrm { m L } ^ { - 1 } )$ during MOR. Also, both two hydroxides supported Pt catalysts displayed higher peak current than the commercial $\\mathrm { P t / C }$ electrocatalysts (Figure 4b). Figure 4c presents the CA curves of Pto.54/NiFe-LDH/rGO, $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ and $\\mathrm { P t / C }$ at the potential of $- 0 . 2 \\mathrm { ~ V ~ }$ for $3 6 0 0 ~ \\mathrm { s }$ . This potential corresponded to the methanol oxidation peaks during forward sweep. The current density of $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ and $\\mathrm { P t / C }$ electrocatalyst decayed rapidly, while the current density of $\\mathrm { P t _ { 0 . 5 4 } / N i F e - L D H / r G O }$ maintained well and became higher than that of $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ after 830 s. These results illustrated that the Pto.54/NiFe-LDH/rGO electrocatalysts may possess beter stability than that of its $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ and Pt/C counterparts. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the overall durability of $\\mathrm { P t } _ { x } /$ NiFe-LDH/rGO and $\\mathrm { P t } _ { y } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ electrocatalysts during MOR testing and figure out which part $\\mathrm { ( N i ^ { 2 + } O _ { 6 } }$ or $\\mathrm { F e } ^ { 3 + } \\mathrm { O } _ { 6 }$ octahedra in hydroxides supports） is decisive in immobilizing Pt NPs, long-term CV tests were applied at a potential ranging from $- 0 . 8 \\mathrm { V }$ to $0 . 2 \\mathrm { V }$ at a scan rate of $5 0 \\mathrm { m V s ^ { - 1 } }$ . According to Figures 5a and 5b, both types of electrocatalysts presented a volcanic-type trend. The mass activity of $\\mathrm { P t } _ { x } / \\mathrm { N i F e } _ { - }$ LDH/rGO and $\\mathrm { P t } _ { y } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ increased with the increasing amount of loaded $\\mathrm { P t }$ initially but decreased when excessive amount of $\\mathrm { \\sf P t }$ precursor was reduced on the hydroxide support (Figures S7 and S8). Notably, after 6OO cycles of CV test in methanol and potassium hydroxide mixture, each $\\mathrm { P t } _ { x } /$ NiFe-LDH/rGO electrocatalyst can maintain more than $93 \\%$ of their catalytic activity. However,all the $\\mathrm { P t } _ { y } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ electrocatalysts showed a considerable loss of catalytic activity during MOR,and less than $40 \\%$ initial catalytic activity of $\\mathrm { P t } _ { y } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ can be retained after 600 cycles of CV tests. Among these samples, $\\mathrm { P t _ { 0 . 5 4 } / N i F e - L D H / r G O }$ and $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ presented the optimal peak current density for Ptx/NiFe-LDH/rGO and $\\mathrm { P t } _ { y } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ ，respectively. In particular, the loading amount of $\\mathrm { P t }$ on Pt0.54/NiFe-LDH/rGO was 4.5 times higher than that on $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ . Commonly, the high loading amount of Pt was likely to cause the aggregation and deactivation of Pt.32,3 Nevertheless,after 600 cycles of CV tests, $9 7 . 6 \\%$ initial peak current density of the $\\mathrm { P t } _ { 0 . 5 4 } ,$ /NiFe-LDH/rGO electrocatalyst can be maintained $( \\mathrm { f r o m ~ 7 1 1 . 0 4 ~ m A ~ m g ^ { - 1 } }$ to $6 9 4 . 2 8 ~ \\mathrm { m A ~ m g ^ { - 1 } } ,$ )，whereas the peak current density of （204号 $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ decreased from $7 2 4 . 2 8 ~ \\mathrm { m A ~ m g ^ { - 1 } }$ to $1 8 8 . 7 5 ~ \\mathrm { m A ~ m g ^ { - 1 } }$ (only $2 6 . 1 \\%$ initial peak current density was retained) (Figures 5c, 5d, and S9). Moreover, after 1200 cycles of CV tests, the peak current density of Pto.54/NiFe-LDH/rGO still remained at $8 6 . 5 \\%$ (Figure S10). By comparison, the commercial $\\mathrm { P t / C }$ electrocatalyst can only retain $6 1 . 3 \\%$ of its initial peak current (Figure S11). Amazingly, after the introduction of $\\mathrm { F e } ^ { 3 + }$ into $\\mathrm { N i ( O H ) } _ { 2 }$ lattice， the overall performance of Ptx/NiFe-LDH/rGO electrocatalystswere dramatically enhanced than $\\mathrm { P t y / N i ( O H ) _ { 2 } / r G O }$ as well as other literature reported results (Table S2).We ascribed such encouraging result, especially the durability of $\\mathrm { P t } _ { x } / \\mathrm { N i F e - L D H / r G O }$ ,to the effect of ferric sites in $\\mathrm { N i ( O H ) } _ { 2 }$ lattice. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To further understand the morphology and structure change of Ptx/NiFe-LDH/rGO and $\\mathrm { P t } _ { y } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ after MOR cycling tests， systematical TEM characterization and size distribution of Pt NPs were carried out to study the change in the size of as-obtained electrocatalysts before and after the long-term MOR tests.Prior to MOR tests,both the Pt NPs loaded on NiFe-LDH/rGO and $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ gradually grew with a quantitatively increasing addition of Pt precursors (Figure S12 and S13). Differently, the Pt NPs loaded on NiFeLDH/rGO attached to one another and gradually grew into worm-like structures due to the high loading amount of Pt. By contrast, the Pt NPs loaded on $\\mathrm { N i ( O H ) } _ { 2 } / \\mathrm { r G O }$ always maintained a granular morphology. For consistency, the width of worm-like $\\mathrm { P t }$ and the diameter of particlelike Pt presented on NiFe-LDH/rGO were counted together when the size distribution of Pt nanocrystals was surveyed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "First, the most remarkable samples, namely, Pto.54/NiFe-LDH/rGO and $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O } .$ 号 were selected to clarify the Variety in the size of Pt NPs before and after 6OO cycles of CV test. As shown in Figure 6, the average size of Pt NPs in $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ increased from $1 . 5 6 \\mathrm { n m }$ to $4 . 1 2 \\ \\mathrm { n m }$ . The Pt nanocrystal in Pto.54/NiFe-LDH/rGO showed a slight increase from 2.1 nm to $2 . 5 ~ \\mathrm { { n m } }$ in average size. In general, the surface energy of Pt NPs is closely linked to its size, and the initial Pt NPs of two contrasting samples should be similar in size.34 Therefore, $\\mathrm { P t } _ { 0 . 3 6 } / \\mathrm { N i F e } -$ LDH/rGO and $\\mathrm { P t } _ { 0 . 2 4 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ were selected as contrasting samples because of their same average size of Pt nanocrystals prior to MOR testing (1.89 nm vs.1.84 nm). After 600 cycles of CV tests, as given in Figure S14, the average size of Pt NPs on $\\mathrm { P t } _ { 0 . 2 4 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ increased markedly to $4 . 4 6 \\ \\mathrm { n m }$ . Pt0.36/NiFe-LDH/rGO showed only a $0 . 2 9 \\ \\mathrm { n m }$ increment in mean size (from $1 . 8 9 \\ \\mathrm { n m }$ to $2 . 1 8 ~ \\mathrm { n m }$ ). These results confirmed that NiFe-LDH support can eficiently anchor Pt NPs, whereas the $\\mathrm { N i ( O H ) } _ { 2 }$ support cannot. Consequently, severe agglomeration of Pt NPs occurred on the $\\mathrm { N i ( O H ) } _ { 2 }$ support during MOR,which caused the quick deactivation of $\\mathrm { P t } _ { x } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ electrocatalysts. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In addition to the size effect, two main factors, namely, the instability of support and weak metal-support contact, are also closely linked to the agglomeration of Pt NPs on supports.35, 36 Relevant literature demonstrated that in an alkaline electrolyte, $\\mathsf { a { \\mathrm { - N i } } ( O H ) } _ { 2 }$ is prone to convert into $\\mathsf { \\{ B { - N i } ( O H ) _ { 2 } } $ during long-term electrochemical process.37 The phase-transition-induced instability of support may result in the aggregation of Pt NPs, and this process can be detected by ongoing CV tests.38 Thus, to evaluate the electrochemical stability of $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ and NiFeLDH/rGO supports, long-term CV tests were conducted in KOH solution (1 M), which contained methanol (1 M). Figure S15 shows that after 60O cycles of CV test, the latest CV curves of $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ and NiFe-LDH/rGO supports exhibited almost no change compared with their initial ones. The favorable electrochemical stability of both supports is mainly due to the introduction of rGO.39 The above results indicated that the aggregation of Pt NPs was not caused by the phase transition of hydroxides support. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "On the basis of above analysis, first-principle calculations were performed to analyze the contact interface between Pt NPs and supports (Figure 7), in which the metal-support interface may be directly linked to the stability of Pt NPs.40 The adsorption energy $( E _ { \\mathrm { a d } } )$ of $\\mathrm { P t }$ atom adsorbed on the sheets is defined as $E _ { \\mathrm { a d } } = E _ { \\mathrm { t o t } } - E _ { \\mathrm { s h e e t } } - E _ { \\mathrm { P t } } ,$ where $E _ { \\mathrm { t o t } }$ is the total energy of system with sheets and adsorbed $\\mathrm { P t }$ atoms, $E _ { \\mathrm { s h e e t } }$ is the energy of the optimized pure sheets, and $E _ { \\mathrm { P t } }$ is the energy of one $\\mathrm { P t }$ atom in the vacuum. Therefore,a remarkably negative $E _ { \\mathrm { a d } }$ value indicated strong the interaction of $\\mathrm { P t }$ atoms with $\\mathrm { N i ( O H ) } _ { 2 }$ sheets or NiFe-LDH sheets. The adsorption energy $E _ { \\mathrm { a d } }$ of $\\mathrm { P t }$ atom adsorbed on the NiFe-LDH sheets (via the $\\mathrm { F e ^ { 3 + } { - } O ( H ) - }$ Pt bonding) was $- 2 . 8 7 \\mathrm { e V }$ ,which was lower than that of Pt atom adsorbed on $\\mathrm { N i ( O H ) } _ { 2 }$ sheets (via the $\\mathrm { F e } ^ { 3 + } { \\mathrm { - } } \\mathrm { O } ( \\mathrm { H } ) -$ Pt bonding, $- 2 . 0 8 \\ \\mathrm { e V }$ ). The theoretical calculation revealed that the interaction of $\\mathrm { P t }$ atom with site-specific NiFe-LDH sheets was markedly stronger than that of $\\mathrm { P t }$ atom with $\\mathrm { N i ( O H ) } _ { 2 }$ sheets. Thus，Pt/NiFe-LDH/rGO electrocatalysts were markedly more stable than $\\mathrm { P t / N i ( O H ) _ { 2 } / r G O }$ electrocatalysts. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work synthesized 2D NiFe-LDH/rGO and $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ supports via a graphenetemplated and urea-assisted hydrothermal route. Afterward, ultrafine Pt nanocrystals were loaded on NiFe-LDH/rGO and $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ supports through photo-assisted in situ reduction of adsorbed $\\mathrm { P t C l } _ { 4 } { } ^ { 2 - }$ .Both ternary composites displayed ultrafine Pt nanocrystals anchored on graphene-supported hydroxide nanosheets. Long-term MOR tests showed that after the introduction of ferric sites in $\\mathrm { N i ( O H ) } _ { 2 }$ lattice，the Pt/NiFe-LDH/rGO nanocatalysts displayed dramatically enhanced durability compared with that of $\\mathrm { P t } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ as well as commercial $\\mathrm { P t / C }$ electrocatalysts. The systematical TEM characterization and size distribution of Pt NPs of as-obtained electrocatalysts before and after long-term MOR tests, together with the chemical stability tests of NiFe-LDH/rGO and $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ supports, confirmed that $\\mathrm { F e } ^ { 3 + }$ partially replaced $\\mathrm { N i } ^ { 2 + }$ in ${ \\mathrm { N i } } ( \\mathrm { O H } ) _ { 2 }$ lattice can efficiently enhance the stability of supported Pt NPs. Firstprinciple calculations of the resultant M-O(H)-Pt $\\mathrm { ( M } = \\mathrm { F e } ^ { 3 + }$ ， $\\mathrm { N i } ^ { 2 + }$ ） interfacial structure further corroborated that the NiFe-LDH nanosheets can provide stronger bonding sites (via the $\\mathrm { F e } ^ { 3 + } -$ O(H)-Pt bonds) to immobilize Pt NPs than that of ${ \\mathrm { N i } } ( \\mathrm { O H } ) _ { 2 }$ nanosheets (via the $\\mathrm { N i ^ { 2 + } { - } O ( H ) { - } P }$ t bonds). Our results suggested that the excellent stability of Pt/NiFe-LDH/rGO was atributed to the strong contact between Pt NPs and site-specific NiFe-LDH support. In a broad sense, the strong contact between Pt NPs and site-specific supports elucidated in this work may provide a general strategy to synthesize site-specific anchoring Pt electrocatalysts with long-term stability and high catalytic activity. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALSECTION ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Chemical reagents and materials. All reagents used in the present experiments were of analytical grade and applied without further purification. Graphite powder was purchased from Tianjin Guangfu Fine Chemical Research Institute. GO was prepared from graphite with a modified Hummers method.41 Commercial $20 \\%$ Pt/C was purchased from Alfa Aesar. Deionized Water (resistance, $1 8 \\mathrm { M } \\Omega \\mathrm { c m } ^ { - 1 }$ ） was used throughout all experiments. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of NiFe-LDH/rGO and $\\mathbf { N i } ( \\mathbf { O H } ) _ { 2 } / \\mathbf { r G O }$ .The 2D NiFe-LDH/rGO hybrids were synthesized with a graphene-templated, urea-assisted hydrothermal method. Briefly, $3 0 ~ \\mathrm { m g }$ of （204号 $\\mathrm { N i } ( \\mathrm { N O } _ { 3 } ) _ { 2 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O } .$ $1 . 0 7 \\mathrm { m g }$ of $\\mathrm { F e } ( \\mathrm { N O } _ { 3 } ) _ { 3 } { \\cdot } 9 \\mathrm { H } _ { 2 } \\mathrm { O } _ { \\cdot }$ and $1 2 0 ~ \\mathrm { m g }$ of urea were subsequently dissolved in $1 5 ~ \\mathrm { m L }$ of GO aqueous solution $( 0 . 2 5 \\mathrm { ~ g ~ L ~ } ^ { - 1 } )$ ）under ultrasonic conditions. The obtained uniform solution was transferred into a Teflon cup in a stainless steel-lined autoclave. The autoclave was maintained at $1 0 0 ^ { \\circ } \\mathrm { C }$ for $1 2 \\mathrm { { h } }$ and cooled to room temperature naturally. The final products were washed with deionized water for several times and redispersed in $1 5 ~ \\mathrm { m L }$ of aqueous solution. The 2D $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ composite material was prepared using the same procedure but without the addition of ferric salt. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of Ptx/NiFe-LDH/rGO and $\\mathbf { P t } _ { y } / \\mathbf { N i } ( \\mathbf { O H } ) _ { 2 } / \\mathbf { r G O }$ ，The 2D NiFe-LDH/rGOsor $\\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O } .$ -supported Pt NPs were prepared via photoreduction of the $\\mathrm { P t }$ precursor solution. Prior to illumination, $2 { \\mathrm { ~ m L ~ } }$ of as-prepared NiFe-LDH/rGO or $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ hybrids and a certain amount of sodium chloroplatinate solution $\\mathrm { ( N a _ { 2 } P t C l _ { 4 } { \\cdot } 4 H _ { 2 } O }$ $4 ~ \\mathrm { { m g } ~ \\mathrm { { m L ^ { - 1 } } } }$ ）were added into a $5 0 ~ \\mathrm { m L }$ quartz tube containing $3 0 ~ \\mathrm { m L }$ of deionized water. After ultrasonic treatment for $3 0 \\mathrm { m i n }$ the mixtures were stirred intensely and illuminated by a $3 0 0 ~ \\mathrm { W }$ mercury lamp for $9 0 ~ \\mathrm { { m i n } }$ with a distance of $1 0 \\ \\mathrm { c m }$ at room temperature. The black precipitates were collected by centrifugation and washed with deionized water for five times. The final products were redispersed in $4 ~ \\mathrm { m L }$ of ionized water for electrochemical measurements. A series of electrocatalysts was obtained and labeled as Ptx/NiFe-LDH/rGO $\\overset { \\cdot } { x } = 0 . 1 7$ , 0.24, 0.36, 0.54, 0.57) and $\\mathrm { P t } _ { y } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ （2 $( y = 0 . 0 7$ 0.12, 0.15, 0.24) by adjusting the amounts of added $\\mathrm { N a _ { 2 } P t C l _ { 4 } } { \\cdot } 4 \\mathrm { H } _ { 2 } \\mathrm { O }$ solution (0.5, 1.0, 1.5, 2.0, and $2 . 5 ~ \\mathrm { m L }$ ） and without changing any other parameter. The $x$ or $y$ values were obtained by the molar ratios of $\\mathrm { P t }$ and M ( $\\mathbf { M } = \\mathbf { N i }$ or Fe). The mass concentrations of Ni, Fe, and Pt in different prepared catalysts were determined by inductively coupled plasma atomic emission spectroscopy (ICP-AES) analysis. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Characterization. The phase structure of the prepared catalysts was analyzed through X-ray diffraction (XRD) with a Philips X'Pert system with Cu Ka radiation ( $( \\lambda = 0 . 1 5 4 1 9 \\ \\mathrm { n m } )$ .The surface chemical constituents of the prepared catalysts were analyzed by X-ray photoelectron spectroscopy (XPS， Thermo ESCACLB 250). The surface zeta potentials of GO，NiFeLDH/rGO， and $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ were measured by a Malvern instrument (Nano-zs90). Transmission electron microscopy (TEM) images， high-angle annular dark-field (HAADF) scanning TEM images, and energy-dispersive spectroscopy (EDS) elemental mapping images were captured by a FEI Tecnai TF2O operated at $2 0 0 \\mathrm { k V }$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical measurements. Prior to electrode preparation, the catalyst was ultrasonicated for $3 0 ~ \\mathrm { m i n }$ to form a uniform suspension.A glassy carbon electrode ( $3 \\ \\mathrm { m m }$ in diameter） was polished to a mirror finish with alpha alumina powder $( 0 . 0 5 ~ \\mu \\mathrm { m } )$ and ultrasonically cleaned in ethanol for 3 min. Subsequently, ${ 5 \\mu \\mathrm { L } }$ of the as-prepared catalyst suspension was drop-casted onto a working electrode and dried at ambient temperature. When the slurry was dried, $1 0 ~ \\mu \\mathrm { L }$ of 0.05 wt. $\\%$ Nafion solution was covered onto the dried sample. All electrochemical experiments were examined at room temperature ( $( 2 5 \\pm 1 \\ ^ { \\circ } \\mathrm { C } )$ . A standard three-electrode electrochemical workstation (Zahner IM6ex) was used for all electrochemical experiments. A Pt wire and an Ag/AgCl electrode were adopted as the counter and reference electrodes， respectively. All potentials in this study were reported with respect to $\\mathrm { \\sf A g / A g C l }$ electrode. The weight of Pt on each working electrode was calculated through ICP-AES tests. Prior to any electrochemical measurement, electrocatalysts were preactivated in ${ \\bf N } _ { 2 }$ -saturated KOH aqueous solution (1 M) by cyclic voltammetry (CV) cycling at the potential ranging from $- 1 . 0 \\mathrm { V }$ to $0 . 2 \\mathrm { V }$ at $1 0 0 \\ \\mathrm { m V \\ s ^ { - 1 } }$ for 30 cycles until the curve stabilized. Afterward, the CV curves were collected at a slow scan rate of $5 0 ~ \\mathrm { ~ m V ~ } ~ \\mathrm { { s } ^ { - 1 } }$ to calculate the electrochemically active surface area (ECSA） of different electrocatalysts. To evaluate the methanol oxidation performance, both the CV (from $- 0 . 8 \\mathrm { ~ V ~ }$ to （204号 $0 . 2 \\mathrm { ~ V } , \\ 5 0 \\mathrm { ~ m V ~ } \\mathrm { s } ^ { - 1 } )$ and chronoamperometry (CA,360o s） tests were performed in a hybrid solution of KOH ( $( 1 \\mathbf { M } )$ containing $\\mathrm { C H _ { 3 } O H }$ ( $( 1 \\mathbf { M } )$ . Long-term CV cycling tests were also applied to assess the stability of each catalyst. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Theoretical calculation.First-principle calculations were conducted to evaluate the adsorption energy of $\\mathrm { P t }$ on the pure $\\mathrm { N i ( O H ) } _ { 2 }$ sheets and NiFe-LDH sheets. Structure relaxation and total energy calculations were carried out using density functional theory within the generalized gradient approximation, as instructed in the VASP 5.4 package.4² Electronic exchange and correlation are described by Perdew-Burke-Ernzerhof function.43 All electron plane-wave basis sets with the projector augmented wave potentials were adopted with $2 \\mathrm { s } ^ { 2 } 2 \\mathrm { p } ^ { 4 }$ ， $3 \\mathrm { d } ^ { 8 } 4 \\mathrm { s } ^ { 2 }$ and $\\mathrm { 3 d ^ { 7 } 4 s ^ { 1 } }$ which were treated as valence electron configuration for O, Ni, and Fe, respectively. The cutoff energy was $5 0 0 ~ \\mathrm { e V }$ ，A sufficiently dense $\\mathbf { k }$ -point sampling was evaluated with energy tolerance in 1 meV/atom. A vacuum higher than $1 5 \\mathrm { \\AA }$ thick was inserted in each model to avoid interaction with imaging free sheets. The ground state geometries were obtained by minimizing the forces on each atom to less than $0 . 0 1 ~ \\mathrm { e V } / \\mathrm { \\AA }$ . The determined magnetic configuration of $\\mathrm { N i ( O H ) } _ { 2 }$ sheets were antiferromagnetic. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Liu, M.M., Zhang, R. Z. & Chen, W. Graphene-Supported Nanoelectrocatalysts for Fuel Cells: Synthesis, Properties, and Applications. Chem. Rev. 114, 5117-5160 (2014). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2)Munnik,P., de Jongh, P.E. & de Jong,K. P. Recent Developments in the Synthesis of Supported Catalysts. Chem. Rev. 115, 6687-6718 (2015). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(3）Hodnik，N.，Dehm，G.& Mayrhofer，K. J.J. Importance and Challengesof Electrochemical in Situ Liquid Cell Electron Microscopy for Energy Conversion Research. Acc. Chem. Res. 49,2015-2022 (2016). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(4) Lu, J. L., Li, Y. H., Li, S.L. & Jiang, S.P. Self-assembled platinum nanoparticles on sulfonic acid-grafted graphene as effective electrocatalysts for methanol oxidation in direct methanol fuel cells. Sci. Rep. 6, 21530 (2016). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(5） Chen，A. C.& Holt-Hindle,P. Platinum-Based Nanostructured Materials: Synthesis, Properties, and Applications. Chem. Rev. 2010,110, 3767-3804. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(6) Yang, Z. H.,& Nakashima, N. A simple preparation of very high methanol tolerant cathode electrocatalyst for direct methanol fuel cell based on polymer-coated carbon nanotube/platinum. Sci. Rep. 5, 12236 (2015). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(7) Liu, X. et al. Oxide-Nanotrap-Anchored Platinum Nanoparticles with High Activity and Sintering Resistance by Area-Selective Atomic Layer Deposition. Angew. Chem. 129,1670-1674 (2017). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(8) Zhu, H. Y., Gu, C.D., Ge, X. & Tu, J. P. Targeted Growth of Pt on 2D Atomic Layers of Ni-Al Hydroxide: Assembly of the Pt/Exfoliated Ni-Al Hydroxide sheet/Graphene Composite as Electrocatalysts for Methanol Oxidation Reactions. Electrochim. Acta 222, 938-945 (2016). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(9) Wu, S.L. et al. Photo-Excited in situ Loading of Pt Clusters onto rGO Immobilized $\\mathrm { S n O } _ { 2 }$ with Excellent Catalytic Performance Toward Methanol Oxidation. Nano Energy 26, 699-707 (2016). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(10) Huang,W.J. et al. Highly Active and Durable Methanol Oxidation Electrocatalyst Based   \non the Synergy of Platinum-Nickel Hydroxide-Graphene. Nat. Commun. 6,10035 (2015). (11) Li, Z. H. et al. Fast Electrosynthesis of Fe-Containing Layered Double Hydroxide Arrays   \nToward Highly Efficient Electrocatalytic Oxidation Reactions. Chem. Sci. 6, 6624-6631 (2015). (12) Yu, J., Wang, Q., O'Hare, D. & Sun, L. Preparation of Two Dimensional Layered Double   \nHydroxide Nanosheets and Their Applications. Chem. Soc. Rev. 46, 5950-5974 (2017). (13) Han, Y. F. et al. Preparation of ${ \\mathrm { N i } ^ { 2 + } } { \\mathrm { - F e } ^ { 3 + } }$ Layered Double Hydroxide Material with High   \nCrystallinity and Well-Defined Hexagonal Shapes. Chem. Mater. 20, 360-363 (2008). (14) Zhao, J. W. et al. A Hierarchical Heterostructure Based on Pd Nanoparticles/Layered   \nDouble Hydroxide Nanowals for Enhanced Ethanol Electrooxidation. J. Mater. Chem. A1,   \n5840-5846 (2013). (15) Chen, G. X. et al. Interfacial Effects in Iron-Nickel Hydroxide-Platinum Nanoparticles   \nEnhance Catalytic Oxidation. Science 344, 495-499 (2014). (16) Gong, M. et al. An Advanced Ni-Fe Layered Double Hydroxide Electrocatalyst for Water   \nOxidation. J. Am. Chem. Soc. 135, 8452-8455 (2013). (17） Smith，R.D.， Prévot, M. S.， Fagan， R. D.， Trudel， S.& Berlinguette, C. P. Water   \nOxidation Catalysis: Electrocatalytic Response to Metal Stoichiometry in Amorphous Metal   \nOxide Films Containing Iron, Cobalt, and Nickel. J. Am. Chem. Soc.135,11580-11586 (2013). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(18) Wang, J. Y., Ji, L. L. & Chen, Z. F. In Situ Rapid Formation of a Nickel-Iron-Based Electrocatalyst for Water Oxidation. ACS Catal. 6, 6987-6992 (2016). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(19) Wang, J. Y., Ji, L. L., Zuo, S. S. & Chen, Z. F. Hierarchically Structured 3D Integrated Electrodes by Galvanic Replacement Reaction for Highly Efficient Water Spliting. Adv. Energy Mater. 7,1700107,(2017). (20） Dong, C.Q.，Kou, T. Y.，Gao, H., Peng，Z.Q.& Zhang. Z.H. Eutectic-Derived Mesoporous Ni-Fe-O Nanowire Network Catalyzing Oxygen Evolution and Overall Water Splitting. Adv. Energy Mater. 7,1701347 (2017). (21) Lu, Z. Y.et al. Three-Dimensional NiFe Layered Double Hydroxide Film for HighEfficiency Oxygen Evolution Reaction. Chem. Commun. 50, 6479-6482 (2014). (22) Yoon,K. J. et al. Nano-Tailoring of Infiltrated Catalysts for High-Temperature Solid Oxide Regenerative Fuel Cells. Nano Energy 36, 9-20 (2017). (23) Nayak, S., Mohapatra, L. & Parida, K. Visible Light-Driven Novel g-CN4/NiFe-LDH Composite Photocatalyst with Enhanced Photocatalytic Activity Towards Water Oxidation and Reduction Reaction. J. Mater. Chem. A 3, 18622-18635 (2015). (24) Fu, Q. et al. Interface-Confined Ferrous Centers for Catalytic Oxidation. Science 328, 1141-1144 (2010). (25) Long, X. et al. A Strongly Coupled Graphene and FeNi Double Hydroxide Hybrid as an Excellent Electrocatalyst for the Oxygen Evolution Reaction. Angew. Chem. 126, 7714-7718 (2014). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(26) Cavani， F.; Trifiro， F.; Vaccari， A. Hydrotalcite-Type Anionic Clays: Preparation, Properties and Applications. Catalysis today 11, 173-301 (1991). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(27) Yamashita, T.& Hayes, P. Analysis of XPS Spectra of $\\mathrm { F e } ^ { 2 + }$ and $\\mathrm { F e } ^ { 3 + }$ Ions in Oxide   \nMaterials. Appl. Surf. Sci. 254, 2441-2449 (2008). (28) Ma, R. Z., Liang, J.B., Takada, K. & Sasaki， T. Topochemical Synthesis of Co-Fe   \nLayered Double Hydroxides at Varied Fe/Co Ratios: Unique Intercalation of Triiodide and Its   \nProfound Effect. J. Am. Chem. Soc. 133, 613-620 (2011). (29) Wu, S. L. et al. Highly Dispersed Ultrafine Pt Nanoparticles on Reduced Graphene Oxide   \nNanosheets: In Situ Sacrificial Template Synthesis and Superior Electrocatalytic Performance for   \nMethanol Oxidation. ACS Appl. Mater. Interfaces 7, 22935-22940 (2015). (30) Tang, C. et al. Spatially Confined Hybridization of Nanometer-Sized NiFe Hydroxides   \ninto Nitrogen-Doped Graphene Frameworks Leading to Superior Oxygen Evolution Reactivity.   \nAdv. Mater. 27, 4516-4522 (2015). (31) Qiu, Z. et al. NbC Nanowire-Supported Pt Nanoparticles as a High Performance Catalyst for Methanol Electrooxidation.J. Phys. Chem. C117, 13770-13775 (2013). (32) Prieto, G., Zecevic, J., Friedrich, H., De Jong, K. P.& De Jongh, P.E. Towards Stable Catalysts by Controlling Collective Properties of Supported Metal Nanoparticles. Nat. Mater. 12, 34-39 (2013). (33) Holby, E. F., Sheng, W. C., Yang, S.-H. & Morgan, D. Pt Nanoparticle Stability in PEM   \nFuel Cells: Influence of Particle Size Distribution and Crossover Hydrogen. Energy Environ. Sci. 2, 865-871 (2009). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(34)Lee, I.，Delbecq,F.，Morales,R.， Albiter, M. A. & Zaera, F. Tuning Selectivity in Catalysis by Controlling Particle Shape. Nat. Mater. 8, 132-138 (2009). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(35) Cheng, N. C. et al. Atomic Scale Enhancement of Metal-Support Interactions Between Pt and $\\mathrm { \\Delta } Z \\mathrm { r } { \\mathrm { C } }$ for Highly Stable Electrocatalysts. Energy Environ. Sci. 8,1450-1455 (2015). (36) Cargnello, M. et al. Control of Metal Nanocrystal Size Reveals Metal-Support Interface Role for Ceria Catalysts. Science 341, 771-773 (2013). (37) Xia, D. D. et al. Facilely Synthesized $\\mathfrak { a }$ Phase Nickel-Cobalt Bimetallic Hydroxides: Tuning the Composition for High Pseudocapacitance. Electrochim. Acta 156,108-114 (2015). (38)Li, T. et al. Large-Scale Self-Assembly of 3D Flower-like Hierarchical Ni/Co-LDHs Microspheres for High-Performance Flexible Asymmetric Supercapacitors. ACS Appl. Mater. Interfaces 8,2562-2572 (016). (39) Wang, H. L., Casalongue, H. S., Liang, Y. Y.& Dai, H. J. Ni(OH) $_ 2$ Nanoplates Grown on Graphene as Advanced Electrochemical Pseudocapacitor Materials. J. Am. Chem. Soc. 132, 7472-7477 (2010). (40) Liu, J.-C.， Wang, Y.-G., & Li, J. Toward Rational Design of Oxide-Supported SingleAtom Catalysts: Atomic Dispersion of Gold on Ceria. J. Am. Chem. Soc. 139, 6190-6199 (2017). (41) Hummers Jr, W. S.; Offeman, R. E. Preparation of Graphitic Oxide. J. Am. Chem. Soc. 80, 1339 (1958). (42） Kresse，G.； Furthmuler, J.Eficient Iterative Schemes for Ab Initio Total-Energy Calculations Using a Plane-Wave Basis Set. Phys. Rev. B. 54,11169-11186 (1996). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(43)Perdew,J.P.， Burke,K.& Ernzerhof, M. Generalized Gradient Approximation Made Simple. Phys. Rev. Lett. 77,3865-3868 (1996). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. Schematic for the formation of graphene-supported platinum/nickel-iron layered double hydroxide (Pt/NiFe-LDH/rGO) nanocomposites. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 2.Representative (a-b) transmission electron microscopy (TEM), (c) HRTEM,(d) highangle annular dark-field scanning TEM， and corresponding energy-dispersive spectroscopy elemental mapping images of Pto.54/NiFe-LDH/rGO nanocomposite ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 3. X-ray diffraction patterns (a) of NiFe-LDH/rGO and $\\mathrm { N i ( O H ) _ { 2 } / r G O }$ .The highresolution X-ray photoelectron spectroscopy spectra of NiFe-LDH/rGO in (b) Ni 2p, (c) Fe 2p, and (d) C 1s regions. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 4. Cyclic voltammetry (CV) curves of Pto.54/NiFe-LDH/rGO, $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ and commercial Pt-C (a) in ${ \\bf N } _ { 2 } .$ -saturated KOH ( $\\mathbf { \\Psi } _ { 1 } \\mathbf { M } )$ at a scan rate of $5 0 ~ \\mathrm { m V ~ s ^ { - 1 } }$ and (b) in KOH (1 M $\\mathrm { \\Delta [ ) / C H _ { 3 } O H }$ (1 M) at a scan rate of $5 0 ~ \\mathrm { ~ m V ~ } \\mathrm { ~ s ~ } ^ { - 1 }$ . (c）Chronoamperometry （CA） curves of Pt0.54/NiFe-LDH/rGO, $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ and commercial Pt-C in KOH $( 1 \\mathrm { \\Delta M } ) + \\mathrm { C H _ { 3 } O H } ( 1 \\mathrm { \\Delta M } )$ ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 5. Peak currents of (a) Ptx/NiFe-LDH/rGO( $\\mathit { x } = 0 . 2 4$ ，0.36,0.54,and 0.57) and (b) $\\mathrm { P t } _ { y } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ $( y = 0 . 0 7$ , 0.12, 0.15,and 0.24) at different cycle numbers. CV curves of (c) Pt0.54/NiFe-LDH/rGO and (d) $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ at different cycle numbers.( $\\mathrm { 1 ~ M ~ K O H + 1 ~ M }$ （20 $\\mathrm { C H } _ { 3 } \\mathrm { O H }$ , scan rate: $5 0 \\mathrm { m V s ^ { - 1 } }$ ） ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 6. TEM image and $\\mathrm { P t }$ nanoparticle (NP） size distribution histogram of (a） initialPt0.54/NiFe-LDH/rGO，(b） Pto.54/NiFe-LDH/rGO after 600 cycles of CV test, (c) initial$\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ ，and (d) $\\mathrm { P t } _ { 0 . 1 2 } / \\mathrm { N i } ( \\mathrm { O H } ) _ { 2 } / \\mathrm { r G O }$ after 600 cycles of CV test. CV tests wereperformed in1 M $\\mathrm { \\ K O H + 1 }$ M $\\mathrm { C H _ { 3 } O H }$ at a scan rate of $5 0 \\mathrm { m v } \\mathrm { s } ^ { - 1 }$ ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Figure 7. Atomic structure of $\\mathrm { P t }$ atom bonding to the (a) ferric site in NiFe-LDH and (b) nickel site in $\\mathrm { N i ( O H ) } _ { 2 }$ nanosheets. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the National Basic Research Program of China (2014CB931704)， the Instrument Developing Project of the Chinese Academy of Sciences (Grant No. YZ201627)， the National Natural Science Foundation of China (NSFC，No. 51371166, 51571186, 51401206,11504375,11674321, 11604320) and the Anhui Provincial Natural Science Foundation (1508085QA21). ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Yechuang Han， Jun Liu and Changhao Liang designed the experiments. Yechuang Han performed the synthesis and majority of electrochemical tests. Pengfei Li carried out the theoretical calculation. Yixing Ye fabricated the GO nanosheets. Shouliang Wu, Yixing Ye and Zhenfei Tian provided significant advice in data processing and analysis to understand the relationship between the structure and performance of as-prepared catalysts. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "AdditionalInformation ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Information accompanies this paper is available at http://www.nature.com/srep ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests: The authors declare that they have no competing interests. ",
+        "page_idx": 21
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "type": "text",
+        "text": "Closely Spaced Double-Row Microstrip RF Arrays for Parallel MR Imaging at Ultrahigh Fields ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xinqiang $\\mathbf { Y a n } ^ { 1 , 2 }$ · Rong Xue³ · Xiaoliang Zhang4,5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:29 April 2015/Revised:13June 2015/Publishedonline:30 June 2015   \n$\\circleddash$ Springer-Verlag Wien 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractRadiofrequency (RF) coil arrays with high count of elements, e.g., closely spaced multi-row arrays,exhibit superior parallel imaging performance in magnetic resonance imaging (MRI). However, it is technically challenging and time-consuming to build multi-row arrays due to complex coupling issues. This paper presents a novel and simple method for closely spaced multi-row RF array designs. Induced current elimination decoupling method has shown the capability of reducing coupling between microstrip elements from different rows.In this study,its capability for decoupling array elements from the same row was investigated and validated by bench tests,with an isolation improvement from $- 8 . 9$ to $- 2 0 . 7$ dB.Based on this feature,a closely spaced double-row microstrip array with 16 elements was built at 7 T. $S _ { 2 1 }$ between any two elements of the 16-channel closely spaced double-row microstrip array was better than $- 1 4$ dB.In addition,its feasibility and performance Was validated by MRI experiments.No significant image reconstruction-related noise amplifications were observed for parallel imaging even when reduced factor $( R )$ achieves 4. The experimental results demonstrated that the proposed design might be a simple and efficient approach in fabricating closely spaced multi-row RF arrays. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since its introduction,ultrahigh field (UHF) magnetic resonance imaging (MRI), i.e., $7 \\mathrm { T }$ and beyond, has received a great deal of attention in in vivo MR imaging studies due to its increased signal-to-noise ratio (SNR) and imaging contrast [1-3]. However,at the frequency of $3 0 0 ~ \\mathrm { M H z }$ (Larmor frequency of proton at $7 ~ \\mathrm { T }$ ）or higher， the wavelength in biological tissue is significantly shortened [4-6]. Therefore,it is technically challenging to design large-sized radiofrequency (RF) coil.A variety of RF array coils have been developed in UHF MRI,including traditional L/C loop coil [7-10], microstrip coil [11-18],and radiative coil [19-21]. Due to its simple structure and low radiation loss,microstrip technique has been a popular choice in designing RF array in UHF MRI. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently，a multi-row microstrip array using induced current elimination (ICE)/magnetic wall decoupling was proposed and realized at $7 \\mathrm { T }$ [22]. In the ICE-decoupled multi-row array,a“figure of $8 ^ { \\prime \\prime }$ -shaped resonator (referred to as the decoupling element) was used to suppress the EM coupling from adjacent elements of different rows.The self-impedance of the decoupling element $( X _ { \\mathrm { d d } } )$ was adjusted to meet the decoupling condition: $X _ { \\mathrm { d d } } = X _ { \\mathrm { c d } } ^ { 2 } / X _ { \\mathrm { c c } }$ ,where $X _ { \\mathrm { c d } }$ is mutual impedance of coil element and decoupling element and $X _ { \\mathrm { c c } }$ is the self-impedance of adjacent elements from different rows.It has been demonstrated that the decoupling element acts like a “magnetic wall” and exhibits a “shielding effect” [23，24]. This shielding effect might also be beneficial to reduce the coupling between adjacent elements from the same row. In other words, the self-impedance of the decoupling element $( X _ { \\mathrm { d d } } )$ ，which is intended to meet the decoupling condition of coil elements from adjacent rows,might also meet the decoupling condition of adjacent elements from the same row to a certain degree. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To validate this assumption,a double-row microstrip array with two blocks was built and comparatively investigated. Each block consisted of two microstrip elements from different rows and a decoupling element.Both the experimental and simulation results showed that the decoupling element, which was used for reducing the coupling of elements from different rows, can also reduce the coupling of adjacent elements from the same row.Therefore,the ICE decoupling method provides a simple and efficient approach to building closely spaced double-row microstrip arrays.In this study,a l6-channel double-row microstrip array with coil elements closely placed was built at 7 T.Bench test and MR imaging results were obtained using this array to demonstrate its feasibility and parallel imaging performance [25-28]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Comparative Analysis of ICE Decoupling for Elements From the Same Row ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure la shows the photograph of an ICE-decoupled double-row microstrip array with two blocks.Eachblockconsistsoftwomicrostripelements （号 $( 9 \\ \\mathrm { c m } \\times 4 \\ \\mathrm { c m } \\times 1 . 5 \\ \\mathrm { c m }$ indimension) andadecoupling element （204号 $( 2 1 ~ \\mathrm { c m } \\times 1 ~ \\mathrm { c m } \\times 1 . 5 ~ \\mathrm { c m }$ in dimension).The distance between two blocks is $2 \\mathrm { c m }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The microstrip element is a typical straight microstrip coil made of a Teflon bar and copper sheets [11]. Two capacitors were terminated at both ends of the strip conductor. Width of strip conductors and ground plates were 1 and $4 \\ \\mathrm { c m }$ respectively. The decoupling element is a resonator with two capacitors terminated at both ends and one variable capacitor terminated at the center (Fig.lc).In each block, the decoupling element was closely placed to the coil elements,with a gap of about $2 ~ \\mathrm { m m }$ .For comparison,a 2-channel microstrip coil array with the same parameters and dimensions was constructed,as shown in Fig.1b,d. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The decoupling performance among any two elements was evaluated by transmission coefficient $( S _ { 2 1 } )$ . All coil elements were matched to $5 0 \\ \\Omega$ and tuned to $2 9 7 . 2 ~ \\mathrm { M H z }$ ，which is the Larmor frequency of the utilized 7 T MRI system.Before two blocks of the double-row array were placed together, pairs of each block, i.e., element 1-element 3 and element 2-element 4, were tuned, matched,and decoupled separately.RF cable traps were placed between cables and coil elements to avoid the“cable resonance”. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 2a shows $S _ { 1 1 }$ and $S _ { 2 1 }$ plots of two elements of the single-row microstrip array (Fig. 1b). The coupling between two elements is $- 8 . 9$ dB.This is reasonable given that the thickness of coil elements achieves $1 . 5 \\ \\mathrm { c m }$ while the space between them is only $2 \\mathrm { c m }$ . Figure 2c shows the $S _ { 2 1 }$ plot of elements from different rows, e.g., elements 1 and 3 in Fig.la.As described above,the decoupling elements were tuned to obtain best isolation between elements from different rows.Therefore, their coupling was sufficiently small $( - 2 6 ~ \\mathrm { d B } )$ and the dip of $S _ { 2 1 }$ plot was exactly at $2 9 7 . 2 ~ \\mathrm { M H z }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/888f3814b592780069a3b5768ef348e5053b94dd07fccf8c92c818592acf3329.jpg",
+        "img_caption": [
+            "Fig.1 Photographs and schematic diagram of a double-row microstrip array with two blocks (a,c) and a single-row microstrip array with two elements $( \\mathbf { b } , \\mathbf { d } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d84d0062f4cc4f579c360ff22e29f3c67f98f2509138e2ffd87aa46fba04ac59.jpg",
+        "img_caption": [
+            "Fig.2a $S _ { 1 1 }$ and $S _ { 2 1 }$ plots of two elements of the conventional single-row microstrip array,i.e.,elements 1 and 2 (Fig.1b). b $S _ { 1 1 }$ and $S _ { 2 1 }$ plots of two elements of the same row, e.g.,elements 1 and 2 (Fig. la). c $S _ { 2 1 }$ plot of elements from different rows,e.g.,elements 1 and 3 (Fig.la) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/69402b0324ca15e17767f012d6a120a364d741c1c8cfc29a8814eae9ca8e3110.jpg",
+        "img_caption": [
+            "Fig.3Magnetic field distributions of a single microstrip element (a) and acoil element from the ICEdecoupled double-row block ${ \\bf ( b ) }$ in the transverse plane.Dimensions of the decoupling element and coil elements were exactly the same with that in practice "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 2b shows the $S _ { 1 1 }$ and $S _ { 2 1 }$ plots of two elements of the same row, e.g., elements 1 and 2 in Fig.la. It was found that the isolation could still achieve $- 2 0 . 7$ dB even though the dip of the $S _ { 2 1 }$ plot deviates from $2 9 7 . 2 ~ \\mathrm { M H z }$ .These results indicate that the decoupling element can reduce the coupling of adjacent elements from the same row as well as those from different rows. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To further demonstrate the shielding effect of the decoupling element, magnetic field distributions of a microstrip element with and without the decoupling element were evaluated by a full-wave EM simulation tool (HFSS,ANSYS,Canonsburg, PA,US). Dimensions of the decoupling element and coil elements were exactly the same as those in practice.Manual mesh definition was used in a 3-D domain to accelerate simulation convergence and the convergence condition was set as $\\Delta s < 0 . 0 0 5$ to ensure reliability.Values of all capacitors were obtained by a circuit co-simulation approach [29, 30]. In the EM simulation,each element was matched to $5 0 \\Omega$ $\\left( S _ { 1 1 } < - 3 0 \\right.$ dB)and the two elements from the ICE-decoupled double-row block were decoupled well $( S _ { 2 1 } < - 2 5 ~ ( \\$ IB). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 3a shows the magnetic field distribution of a single microstrip element without the decoupling element.Figure 3b shows the magnetic field distribution of a microstrip element from the ICE-decoupled double-row block.The magnetic field was normalized to $1 \\mathrm { \\Delta W }$ input power. Due to the symmetrical structure, the single microstrip element has a symmetrical magnetic field distribution，as shown in Fig.3a. For the microstrip element from the ICE-decoupled double-row block, however, its magnetic field near the decoupling element was obviously diminished, which might be attributed to the induced current of the decoupling element. This diminution makes the magnetic field more confined and thus could improve the isolation between adjacent elements in the same row,which has been validated by S-parameter results described above. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 Volume-Typed Double-Row Microstrip Array With 16 Elements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To test the feasibility of closely spaced double-row design for volume-typed microstrip array,up to 16 channels,i.e.，8 blocks,were built in practice. These blocks were attached onto a soft canvas and mounted on a cylindrical acrylic former 0 $1 6 \\ \\mathrm { c m }$ in diameter)，as shown in Fig.4a,b. It is worth noting that the ICEdecoupled double-row microstrip array does not need physical connections between adjacent blocks,which make it possible and practical for flexible array designs.The space of two adjacent block is only about $1 . 3 ~ \\mathrm { c m }$ .Scattering(S-） parameter matrix of the 16-channel array was measured with an Agilent 5O71C network analyzer. All other coil elements were terminated with $5 0 { - } \\Omega$ loads when any two elements were measured. The $S _ { 1 1 }$ plots were also used to calculate $\\boldsymbol { Q }$ values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A homogenous bottle-shaped phantom ( $1 2 \\ \\mathrm { c m }$ in diameter and $2 2 \\ \\mathrm { c m }$ in height) filled with $2 . 5 \\mathrm { ~ g ~ N i S O } _ { 4 }$ and $1 5 \\mathrm { ~ g ~ N a C l }$ was used to test the performance of the closely spaced double-row array. The EM parameters of the phantom were measured by a dielectric probe (DAK-12, SPEAG，Switzerland): conductivity $\\sigma = 0 . 5 9 \\mathrm { ~ } \\mathrm { S / m }$ ；relative permittivity $\\varepsilon _ { r } = 7 8$ .MR imaging of the phantom was performed on a whole-body MRI scanner(7T MAGNETOM, Siemens Healthcare, Erlangen,Germany).GRE sequences were used and the scan parameters were as follows:flip angle $( \\mathrm { F A } ) = 2 5 ^ { \\circ }$ ， $\\mathrm { T R } = 1 0 0 ~ \\mathrm { m s }$ ， $\\mathrm { T E } = 1 0 ~ \\mathrm { m s }$ ，fieldofview $( \\mathrm { F O V } ) = 2 1 0 \\times 2 1 0 \\mathrm { \\ m m } ^ { 2 }$ , matrix $= 2 5 6 \\times 2 5 6$ ，slice thicknes $\\mathrm { s } = 5 \\mathrm { m m }$ ，number of excitation $( \\mathrm { N E X } ) = 1$ ，bandwidth $= 3 2 0 ~ \\mathrm { H z } /$ pixel.Accelerated and residual GRE images with reduced factor $( R )$ of 2,3,and 4 were obtained to show the parallel imaging capability of the 16-channel array. The accelerated images were reconstructed with generalized auto calibrating partially parallel acquisitions (GRAPPA） method.In the reconstruction,24 auto-calibration signal (ACS） lines were used for each reduced rate.MRI scans were conducted two times given that our RF interface can only operate 8 channels at one time.For each scan,8 channels from one row were connected to the RF interface with a phase increment of $4 5 ^ { \\circ }$ between adjacent channels.Meanwhile, the other channels were terminated with $5 0 { - } \\Omega$ loads.During the two scans,the positioning of a subject was carefully kept unchanged via the line markers made on the patient table. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea82dbd2e1045444a1873a7cdffdc1c85885c5d005090a5d35063cb41890fbdc.jpg",
+        "img_caption": [
+            "Fig.4 Coil element arrangement (a)and photograph (b)of the 16-channel double-row microstrip array. Coil elements were closely placed along the surface of a cylindrical former ( $1 6 ~ \\mathrm { c m }$ in diameter) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Bench Test Results of the Double-Row Microstrip Array With16 Elements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 5a,b show the S-parameter matrix and noise covariance matrix of the 16-channel array, respectively. The coil numbering in Fig. 5 corresponded to that in Fig. 4a. The mean $S _ { 2 1 }$ was $- 1 9 . 2$ dB between the adjacent elements from different rows,e.g., elements 1 and 8.The mean $S _ { 2 1 }$ was $- 1 6 . 1$ dB between adjacent element from the same row,e.g.,elements 1 and 2.From our practical experience,the decouple element makes the cross talk between diagonal elements (e.g.,elements 1 and 1O) even a little stronger.However, it still achieves better than $- 1 4$ dB in the loaded case,as shown in Fig.5a. The isolation could be further improved by optimizing the thickness of the Teflon substrate.The noise covariance results (Fig.5b） were in agreement with the S-parameter results. Given that MR experiments were conducted using the two rows separately (each row at one time), the noise covariance between elements from different rows was almost zero.The unloaded $\\boldsymbol { Q }$ values were approximately 2O5 and the $\\boldsymbol { Q }$ values loaded with the phantom were in the range of 1O2-114. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4e586f4b08fddfeaccbc7172b202fb2ce34006fd249ba8031e4729ad5ab0a01.jpg",
+        "img_caption": [
+            "Fig.5S-parameter matrix (a)and noise covariance matrix(b)of the 16-channel double-row microstrip array.The isolation between any two coil elements is better than $- 1 4$ dB "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 MR Imaging Results of the Closely Spaced Double-Row Microstrip ArrayWith16Elements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the individual images in the transverse and sagittal planes from each coil element and their combination. These images were reconstructed from raw data and combined together with root-sum-of-squares (RSS） method. These images indicated that the ICE-decoupled double-row microstrip array design is feasible in designing close-spaced volume-typed arrays for MR imaging at the ultrahigh field of $7 \\mathrm { T }$ ，To evaluate the parallel imaging performance，sagittal GRE images acceleration of $2 \\times , \\ 3 \\times$ ，and $4 \\times$ were shown in Fig. 7. No significant image reconstruction-related noise amplifications were observed for parallel imaging even when reduced factor $( R )$ achieves 4.The parallel imaging results were also consistent with the S-parameter and noise covariance results described above. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 Discussions and Conclusion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Most of the multi-row transceiver arrays are based on traditional L/C loop resonators.For example,Avdievich [9] and Shajan et al. [31] developed inductively decoupled double-row loop arrays for human brain imaging at 7 and $9 . 4 \\mathrm { T }$ respectively; Thalhammer et al. [32] used capacitively decoupled double-row loop arrays for cardiac imaging at $7 \\mathrm { T }$ 、Compared with single-row RF arrays,these double-row arrays improve longitudinal imaging coverage, homogeneity, and SNR [9].For both inductively decoupled and capacitively decoupled multi-row loop arrays,however, it is technically challenging and time-consuming to fabricate since both the coupling of elements from different rows and from the same row have to be reduced. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/75a233b18aa17d65132427d440ac6209c4ac763a58027791b4ddd824b177f590.jpg",
+        "img_caption": [
+            "Fig.6a Combined GRE image and sub-images from each coil element in the transverse plane with parameters: $\\mathrm { F A } = 2 5 ^ { \\circ }$ ， $\\mathrm { T R } = 1 0 0 ~ \\mathrm { m s }$ ， $\\mathrm { T E } = 1 0 ~ \\mathrm { m s }$ ， $\\mathrm { F O V } = 2 1 0 \\times 2 1 0 \\mathrm { \\ m m } ^ { 2 }$ ，matrix $= 2 5 6 \\times 2 5 6$ slice thickness $= 5 ~ \\mathrm { m m }$ $\\mathrm { \\Delta N E X } = 1$ ,bandwidth $= 3 2 0 ~ \\mathrm { H z } /$ pixel.b Combined GRE image and sub-images from each coil element in the sagittal plane using the same sequence "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4199cf9ac77cdc3a9cf47b9a6a829723ec64533ffcc1fd8ca631a28cd755ac1e.jpg",
+        "img_caption": [
+            "Fig.7Accelerated GRE images (top row) and residual images (bottom row) with reduced factor $( R )$ of 1 (no acceleration),2,3,and 4 in the sagittal plane "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study, we aim to find a simple and efficient way of building closely spaced multi-row arrays for parallel MR imaging.Microstrip line resonators were chosen as the basic coil elements and ICE/magnetic wall method was used for decoupling. ICE/magnetic wall decoupling has proven to be a general decoupling method, and has been successfully applied for almost all kinds of RF coils in MRI, including L/C loop, microstrip line, monopole,and dipole coils [23,24, 33,34]. In previous ICEdecoupled RF array designs, decoupling elements were placed between two coupled coil elements. To reduce both the coupling from the same row and that from different rows,in this study,the decoupling element was placed next to the coil elements rather than inserted between them.In this case,the self-impedance of the decoupling element $( X _ { \\mathrm { d d } } )$ ，which is intended to meet the decoupling condition of coil elements from adjacent rows,might also meet the decoupling condition of adjacent elements from the same row to a certain degree.Experimental results demonstrated that the ICE decoupling method could also reduce the coupling of adjacent elements in the same row,with an isolation improvement from $- 8 . 9$ to $- 2 0 . 7$ dB (Fig. 2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Given that the ICE decoupling method could reduce both the coupling from different rows and from the same row for microstrip arrays,it is much less laborious to fabricate closely spaced multi-row microstrip arrays. We constructed and investigated a volume-typed microstrip array with $2 \\times 8$ elements.Decoupling elements were tuned to obtain best isolation between adjacent elements of each block (i.e.，adjacent elements of different rows).When 8 blocks were placed together, the isolation of adjacent elements from the same row could still be better than $- 1 5 ~ \\mathrm { d B }$ without retuning decoupling elements. The excellent decoupling performance of the l6-channel array has also been validated by noise covariance matrix and parallel imaging results. It is worth noting that the “figure of 8”-shaped decoupling element makes the cross talk between diagonal elements a little stronger. Thus，the diagonal elements show the strongest coupling，as shown in Fig.3. Further studies are needed to reduce the coupling between diagonal elements. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It has previously been shown that multi-row transceiver arrays exhibit the capability ofRF shimming and pTx along z-direction [35,36], which is beneficial in providing more uniform transmit field.Due to the limitation of our RF interface, two rows of the 16-channel array cannot be excited simultaneously. Therefore,3D RF shimming capability of the 16-channel array was not shown in this work. However, based on the S-parameter and MR imaging results,we believe this double-row closely spaced transceiver array could be an efficient tool to perform 3D RF shimming or pTx. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In summary,we proposed and developed a closely spaced double-row microstrip transceiver array for parallel MR imaging at the ultrahigh field of $7 \\mathrm { T }$ Its feasibility and performance was validated by bench tests and MRI experiments.This work has also paved the way for building multi-row microstrip transceiver arrays for human head or body imaging with higher channel count, e.g., 32-channel. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgmentsThis work was supported in part by the Chinese National Major Scientific Equipment R&D Project under Grant ZDYZ2Ol0-2,in part by the Ministry of Science and Technology of China under Grant 2O12CB8255Oo,in part by the National Natural Science Foundationof China under Grant 51228702 and Grant 911323O2,and in part by the National Institutes of Health (NIH),USA under Grant R01EB008699. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.E.Yacoub,A.Shmuel,J.Pfeuffer,P.F.VanDe Moortele,G.Adriany,P.Andersen,J.T.Vaughan,H. Merkle,K.Ugurbil,X.Hu,Magn.Reson.Med.45,588-594(2001)   \n2.J.T.Vaughan,M.Garwood,C.M.Collins,W.Liu,L.DelaBarre,G.Adriany,P.Andersen,H. Merkle,R.Goebel,M.B.Smith,K.Ugurbil,Magn.Reson.Med.24,24-30 (2001)   \n3.K.Ugurbil, X.P.Hu,W.Chen,X.H. Zhu,S.G.Kim,A. Georgopoulos,Philos.Trans.R.Soc.Lond. B Biol. Sci. 354,1195-1213 (1999)   \n4. Q.X.Yang,J.H.Wang,X.L. Zhang,C.M.Collins,M.B.Smith,H.Y.Liu,X.H.Zhu,J.T.Vaughan, K. Ugurbil,W.Chen,Magn.Reson.Med.47,982-989 (2002)   \n5.P.F.Van de Moortele,C.Akgun,G.Adriany,S.Moeller,J.Ritter, C.M. Collins,M.B.Smith,J.T. Vaughan,K.Ugurbil,Magn.Reson.Med.54,1503-1518 (2005)   \n6.T.S.Ibrahim,A.Kangarlu,D.W.Chakeress,IEEE Trans.Biomed.Eng.52,1278-1284 (2005)   \n7.G.C.Wiggins,A.Potthast,C.Triantafyllou,C.J.Wiggins,L.L.Wald,Magn.Reson.Med.54, 235-240 (2005)   \n8.K.M.Gilbert,A.T.Curtis,J.S.Gati,L.M.Klassen,L.E.Villemaire,R.S.Menon,Magn.Reson.Med. 64,1640-1651 (2010)   \n9.N.I.Avdievich,Appl.Magn. Reson. 41,483-506 (2011)   \n10.X.Yan,C.Ma,L.Shi,Y.Zhuo,X.J.Zhou,L.Wei,R.Xue,Appl.Magn.Reson.45,437-449 (2014)   \n11.G.Adriany,P.F.Van de Moortele,F.Wiesinger,S.Moeller,J.P.Strupp,P.Andersen,C.Snyder,X. Zhang,W.Chen,K.P.Pruessmann,P.Boesiger,T.Vaughan,K.Ugurbil,Magn.Reson.Med.53, 434-445 (2005)   \nl2.X.Zhang,K.Ugurbil,W.Chen,Magn.Reson.Med.46,443-450(2001)   \n13.R.F.Lee,C.R.Westgate,R.G.Weiss,D.C.Newman,P.A.Botomley，Magn.Reson.Med.45, 673-683 (2001)   \n14.X.Zhang,K.Ugurbil,R.Sainati,W.Chen,IEEE Trans.Biomed.Eng.52,495-504(2005)   \n15.G.Adriany,P.F.V.De Moortele,J.Ritter,S.Moeller,E.J.Auerbach,C.Akgun,C.J.Snyder,T. Vaughan,K.Ugurbill,Magn.Reson. Med.59,590-597 (2008)   \n16.X.Zhang,X.H. Zhu,W.Chen,Magn.Reson.Med.53,1234-1239(2005)   \n17. G.Adriany,E.J.Auerbach,C.J.Snyder,A.Gozubuyuk,S.Moeller,J.Riter,P.F.Vande Moortele, T.Vaughan,K. Ugurbil, Magn. Reson. Med. 63,1478-1485 (2010)   \n18.G.Shajan,J.Hoffmann,J.Budde,G.Adriany,K. Ugurbil,R.Pohmann,Magn.Reson. Med.66, 596-604 (2011)   \n19.A.J.E.Raaijmakers,O.Ipek,D.W.J.Klomp,C.Possanzini,P.R.Harvey,J.J.W.Lagendijk,C.A.T. van den Berg,Magn.Reson.Med.66,1488-1497 (2011)   \n20.S.M.Hong,J.H.Park,M.K.Woo,Y.B.Kim,Z.H. Cho,Magn.Reson. Med.71,1944-1952 (2014)   \n21.X.Yan,R. Xue,X. Zhang,Q. Imaging Med. Surg. 4, 225-231 (2014)   \n22.X.Yan,J.O.Pedersen,L.Wei,X. Zhang,R.Xue,IEEE Trans.Biomed.Eng.62,1652-1659 (2015)   \n23.X.Yan,X. Zhang,B.Feng,C.Ma,L.Wei,R. Xue,IEEE Trans.Med.Imaging 33,1781-1787 (2014)   \n24.X.Yan,X. Zhang,L.Wei,R.Xue,Q.Imaging Med. Surg.4,79-86 (2014)   \n25.D.K. Sodickson,W.J. Manning,Magn. Reson.Med.38,591-603(1997)   \n26.K.P.Pruessmann,M.Weiger,M.B. Scheidegger,P.Boesiger,Magn.Reson.Med.42,952-962 (1999)   \n27.M.A.Griswold,P.M. Jakob,R.M. Heidemann,M. Nittka,V.Jellus,J. Wang,B. Kiefer,A.Hase, Magn.Reson.Med.47,1202-1210(2002)   \n28.D.K.Sodickson, C.A. McKenzie,M.A. Ohliger,E.N.Yeh,M.D.Price,Magn.Reson. Mater.Phys. 13,158-163 (2002)   \n29.M.Kozlov,R. Turner,J.Magn.Reson.200,147-152(2009)   \n30.R.A.Lemdiasov,A.A. Obi,R.Ludwig,Concept Magn.Reson.A.38A,133-147 (2011)   \n31.G.Shajan,M.Kozlov,J.Hoffmann,R.Turner,K.Schefler,R.Pohmann,Magn.Reson.Med.71, 870-879 (2014)   \n32.C.Thalhammer,W.Renz,L.Winter,F.Hezel,J.Rieger,H.Pfeifer,A.Graessl,F.Seifert,W. Hoffmann,F.von Knobelsdorff-Brenkenhoff,V.Tkachenko,J.Schulz-Menger,P.Kellman,T. Niendorf,J.Magn.Reson.Imaging 36,847-857 (2012)   \n33.Y.Li,Z.Xie,Y.Pang,D.Vigneron,X. Zhang,Med.Phys.38,4086-4093(2011)   \n34.X.Yan,X. Zhang,L.Wei,R.Xue,Appl.Magn.Reson.46,541-550 (2015)   \n35.J.Hoffmann,G.Shajan,K.Schefler,R.Pohmann,Magn.Reson.Mater.Phys.27,373-386 (2014)   \n36.M.Kozlov,R.Turner,in Proceedings of the Asia-Pacific Microwave Conference,Melbourne,2011, p1193 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

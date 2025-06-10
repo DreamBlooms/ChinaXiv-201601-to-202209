@@ -1,0 +1,571 @@
+[
+    {
+        "type": "text",
+        "text": "黄河源区高寒草地不同深度土壤理化性质与抗剪强度关系研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "申紫雁¹，刘昌义'，胡夏嵩¹，周林虎¹，许桐¹，李希来²，李国荣¹(1.青海大学地质工程系,青海 西宁 810016;2.青海大学农牧学院,青海 西宁 810016)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以黄河源区的高寒草地为研究对象,探讨了草地和裸地在 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\ . 1 0 { \\sim } 2 0 \\ \\mathrm { c m } \\ . 2 0 { \\sim } 3 0 \\ \\mathrm { c m } \\ . 3 0 { \\sim } 4 0 \\ \\mathrm { c m }$ 和 $4 0 \\sim$ $5 0 \\mathrm { c m } 5 $ 种不同深度土壤理化性质和根-土复合体抗剪强度特征。研究结果表明：黄河源区的土壤为弱碱性土，且pH值、密度随着土壤深度增加而增大。土壤含水率、有机质随土壤深度的增加表现出减小的变化趋势。与此同时，草地土体粘聚力 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 值随深度增加而降低，而裸地则表现出随土壤深度的增加而增大的变化特征。由灰色关联法分析结果表明：草地根-土复合体粘聚力 $c$ 值与速效磷、含根量和有机质的关联度相对较高，分别为0.82、0.82、0.76,裸地土体粘聚力 $\\boldsymbol { c }$ 值则与密度、pH值和土壤颗粒控制粒径 $d _ { 6 0 }$ 参数值的关联度相对较高，即分别为 $0 . 7 6 、 0 . 7 4 、 0 . 7 3$ 。研究结果对科学有效防治高寒区因草地退化引起的水土流失、浅层滑坡等灾害现象的发生，具有理论研究价值和现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黄河源区；高寒草地；根-土复合体；土壤理化性质；抗剪强度",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着全球气候变化和人类活动等因素的影响，黄河源区高寒草地出现不同程度退化现象，给当地生态环境带来一定程度的影响和潜在危害[1]。近年来黄河源区日趋严重的草地退化现象已引起了国内外学者和相关部门的普遍关注[2-4]。相关调查结果表明，黄河源区中度以上退化草地面积占可利用草地面积的 $5 0 \\% { \\sim } 6 0 \\% ^ { [ 5 ] }$ 。李旭谦对青海草地退化的面积进行调查发现，青海境内退化草地面积为 $3 1 3 1 . 0 4 \\times 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ，占青海天然草地总面积的$7 4 . 7 0 \\%$ 。刘启兴等对2002—2016年黄河源区植被覆盖时空变化进行了研究，指出黄河源区 $7 0 . 4 \\%$ 的区域归一化植被指数(NDVI)呈增加的趋势，其每年增加速率为0\\~0.004，但在扎陵湖、鄂陵湖西部和南部、黄河源区中南部以及若尔盖湿地北部等地区，植被NDVI减少0\\~0.2,黄河源区高寒草地退化趋势尚需得到进一步有效遏制。因此，开展黄河源区草地生态保护和草地退化机理及其防治等方面的探索尤为重要和迫切。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤理化性质对草地退化具有重要的作用[8-10]国内外相关学者认为土壤理化性质与土壤深度之间具有密切关系[1I-13]。杨永胜等[14]分析了不同退化程度下的高寒草甸土壤理化特征及持水能力，指出随着土壤深度增加，退化程度对土壤全氮影响作用呈逐渐减弱的变化趋势。Li等[5通过研究放牧对土壤碳、氮、磷元素影响，指出随着放牧程度增加，有机碳、全氮含量呈逐渐降低的变化特征。另一方面，草地退化导致土壤根系含量减少，其结果降低了土体自身强度从而造成水土流失、浅层滑坡等地质灾害现象的发生[16-17]。国内外诸多学者将根系与土体组成的复合体视为一种复合材料，并开展了大量力学强度试验，其结果均表明植物根系对增强根-土复合体力学强度具有显著性效果[18-20]。贺长彬等通过对河北沽源天然草地形成的复合体结构基本力学特性进行研究，发现根系存在可增强复合体抗剪强度和无侧限抗压强度，表现在当含根量由 $0 \\mathrm { m g } \\cdot \\mathrm { c m } ^ { - 3 }$ 增加至 $1 0 \\mathrm { m g \\cdot c m } ^ { - 3 }$ 时,复合体抗剪强度随着含根量增加表现出总体增大的变化规律。Bo等[22]通过对塔里木河流域荒漠植物根-土复合体进行抗剪强度试验，得出根-土复合体粘聚力值为$9 . 4 3 { \\sim } 2 8 . 3 0 \\ \\mathrm { k P a }$ ,显著高于不含根系土的粘聚力值$( 3 . 1 4 \\mathrm { - } 1 6 . 5 1 \\mathrm { ~ k P a } )$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述可知，国内外学者对退化草地理化性质的研究多采用较为单一的方法，而将土壤理化性质与植物根-土复合体抗剪强度结合起来进行研究还处于起步阶段，且尚未形成系统性研究成果；尤其是针对黄河源区，需要深入开展系统性研究。鉴于此，选取黄河源区青海河南县地区高寒草地作为研究区域，通过探讨黄河源区土壤理化性质指标与复合体抗剪强度指标之间的关联性，旨在为黄河源区草地退化及其引起的水土流失、浅层滑坡等灾害现象的有效防治，提供理论依据和技术支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区概况与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取黄河上游青海黄南藏族自治州河南蒙古族自治县南旗村为研究区（图1)，地理位置为$1 0 1 ^ { \\circ } 2 7 ^ { \\prime } 5 4 ^ { \\prime \\prime } \\mathrm { E } , 3 4 ^ { \\circ } 5 1 ^ { \\prime } 3 2 ^ { \\prime \\prime } \\mathrm { N }$ ，海拔高度 $3 5 8 0 \\mathrm { m }$ ,地形相对平坦，呈东北高、西南低的特征[17]。黄河源区属高原大陆性气候，平均气温为 $0 . 7 4 ~ \\mathrm { ^ { \\circ } C }$ ,年降水量为$2 9 7 . 2 0 ~ \\mathrm { m m }$ ,年蒸发量为 $1 3 4 9 . 7 0 \\ \\mathrm { m m }$ 。研究区河流众多，水系较为发育。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样地选择及野外取样通过野外调查发现，黄河源区草地退化整体呈不规则状同心椭圆形，其中心位置为重度退化(基本为裸地），退化程度向外围逐渐减弱，依次为中度退化、轻度退化和未退化草地(图2)。未退化草地主要优势植物为高山嵩草（Kobresiapygmaea）紫花针茅（Stipapurpurea）早熟禾(Poaannua），重度退化区则多为裸地，伴生少量次生草本植物密花香薷（Elsholtziadensa）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/386f55a5ccb298636db10bf248abf7ce52b75786c6fbbf1494eafab434e61acd.jpg",
+        "img_caption": [
+            "图1研究区位置示意图",
+            "Fig.1 Location diagram of study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/401e7e0c8fd6ba80abc03d1cc1ade7d1b140537515064ef87e0f6a5694352a7a.jpg",
+        "img_caption": [
+            "图2草地退化形状示意图",
+            "Fig.2Diagram of the shape of grassland degradation "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究分别在草地和裸地中选取具有代表性地段制取试样，取样类型包括：土壤含水率、密度、营养元素试样以及根-土复合体剪切试样。在野外研究区布置了3组裸地和3组草地取样点，取样深度分别为 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\ . 1 0 { \\sim } 2 0 \\ \\mathrm { c m } \\ . 2 0 { \\sim } 3 0 \\ \\mathrm { c m } \\ . 3 0 { \\sim } 4 0 \\ \\mathrm { c m }$ 和 $4 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 的土壤深度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 试验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）土壤物理性质指标测试",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤含水率测试采用烘干法，密度测试采用环刀法，颗粒分析采用筛分法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）土壤营养元素测试 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤营养元素的测试指标及测试方法如表1所示，具体测试由青海大学农林科学院分析测试中心完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1土壤营养元素测试项目及测试方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/877a5ba0531ce3be79e90dd2fd185c4fc7f083daaee5f3c80b3a0bf645349dc8.jpg",
+        "table_caption": [
+            "Tab.1 Testing items and methods for soil nutrient elements in the experimental area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>测试项目</td><td>测试方法</td></tr><tr><td>1</td><td>pH值</td><td>电位法</td></tr><tr><td>2</td><td>有机质</td><td>高温外加热重铬酸钾氧化容量法</td></tr><tr><td>3</td><td>全氮</td><td>凯氏定氮法</td></tr><tr><td>4</td><td>碱解氮</td><td>碱解-扩散法</td></tr><tr><td>5</td><td>全磷</td><td>酸溶-钼锑抗比色法</td></tr><tr><td>6</td><td>速效磷</td><td>碳酸氢钠浸提-钼锑抗比色法</td></tr><tr><td>7</td><td>全钾</td><td>氢氟酸高氯酸消煮法</td></tr><tr><td>8</td><td>速效钾</td><td>乙酸铵浸提-火焰光度法</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）根-土复合体直剪试验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用ZJ型应变控制式直剪仪在室内开展根-土复合体剪切试验。待每组复合体试样剪切试验结束后，对剪切后的复合体试样进行洗根，并统计复合体试样内含根数、根径和根系干重指标(图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "m ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4）灰色关联分析法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了量化分析草地和裸地土体抗剪强度指标与土壤理化性质、根系含量之间的相关性，采用灰色关联分析法计算土壤抗剪强度指标粘聚力 $\\mid c \\mid _ { }$ 值与土壤含水率、密度、土壤颗粒控制粒径 $d _ { \\mathrm { 6 0 } \\setminus } \\mathrm { p H }$ 值、有机质、全氮、全磷、全钾、碱解氮、速效磷、速效钾、含根量等诸因素之间的关联度。参考数列计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { 0 } ( k ) = \\{ x _ { 0 } ( k ) , k = 1 , 2 , \\cdots , n \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "比较数列为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i } ( k ) = \\{ x _ { i } ( k ) , k = 1 , 2 , \\cdots , n ; i = 1 , 2 , \\cdots , 1 2 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $X _ { 0 } ( k )$ 为草地和裸地的抗剪强度指标粘聚力 $\\mid c \\mid$ 值，相对应的比较数列 $X _ { i } ( k )$ 为土壤含水率、土壤密度、土壤颗粒控制粒径 $d _ { 6 0 }$ 、土壤有机质含量、 $\\cdot \\mathrm { p H }$ 值、全氮含量、碱解氮含量、全磷含量、速效磷含量、全钾含量、速效钾含量、根数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了实现定量化分析，需对原始数据进行预处理，使其转换为数量级相近的无量纲数据。在此采用均值化计算，其计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n \\dot { x _ { i } } ( k ) = \\frac { x _ { i } ( k ) } { \\overline { { x } } _ { i } } ( k - 1 , 2 , \\cdots , 5 ; i = 0 , 1 , \\cdots , 1 2 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $x _ { i } ^ { ' } ( k )$ 为无量纲化后的第 $i$ 个数据列中第 $k$ 个数值; $x _ { i } ( k )$ 为第 $i$ 个原始数据列中第 $k$ 个数值; $\\overline { { x _ { i } } }$ 为第 $i$ 个原始数据列中数值的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$X _ { 0 } ( k )$ 与 $X _ { i } ( k )$ 之间的相关性为其关联度 $\\gamma _ { o i }$ ，其计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { _ { o i } } = \\frac { 1 } { 5 } \\sum _ { _ { 1 } } ^ { 5 } \\xi _ { _ { o i } } ( k ) ( k - 1 , 2 , \\cdots , 5 ; i = 1 , 2 , \\cdots , 1 2 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi _ { o i } ( k ) = \\frac { \\Delta \\operatorname* { m i n } + \\rho \\Delta \\operatorname* { m a x } } { \\Delta o i ( k ) + \\rho \\Delta \\operatorname* { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\gamma _ { o i }$ 为参考数列与比较数列之间的关联度，在$i = 1 , 2 , 3 , \\cdots , 1 2$ 时， $\\gamma _ { o i }$ 分别表示比较数列土壤含水率、土壤密度、土壤颗粒控制粒径 $d _ { 6 0 }$ 、土壤有机质含量 $\\cdot \\mathrm { p H }$ 值、全氮含量、碱解氮含量、全磷含量、速效磷含量、全钾含量、速效钾含量、根数等12个指标，分别与参考数列中草地和裸地其抗剪强度指标粘聚力 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 值之间的关联度； $ { \\xi } _ { o i } ( k )$ 为参考数列与比较数列对应数值的关联系数； $\\Delta o i ( k )$ 为参考数列与比较数列对应数值的绝对差值； $\\Delta \\mathrm { m a x }$ 为绝对差值中的最大值； $\\Delta \\mathrm { m i n }$ 为绝对差值中的最小值； $\\rho$ 为分辨系数,取值区间为 $\\rho \\in \\left[ 0 , 1 \\right]$ ， $\\rho$ 取值为0.5。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤物理性质与土壤深度的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1土壤颗粒组成由颗粒分析结果(表2)可知，研究区内土壤类型为中砂土，粒径级配类型为级配不良，草地土壤不均匀系数 $C _ { \\mathrm { u } }$ 随土壤深度增加总体呈下降趋势，曲率系数 $C _ { \\mathrm { c } }$ 为 $0 . 3 7 { \\sim } 0 . 8 8$ ;裸地土壤不均匀系数 $C _ { \\mathrm { u } }$ 总体呈上升趋势，曲率系数 $C _ { \\mathrm { c } }$ 平均为$0 . 8 7$ 。草地土壤在不同土层深度粒径级配曲线相对较裸地分散，其土壤粒径主要分布在 $5 { \\sim } 0 . 1 ~ \\mathrm { m m }$ ,粒径组成相对较大，而裸地粒径组成主要分布在 $2 \\sim$ $0 . 0 9 \\mathrm { m m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，在 $0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土壤深度,裸地土壤颗粒粒径组成中大于 $0 . 0 1 \\ \\mathrm { m m }$ 的粒径含量均多于草地，且在 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 深度，裸地处于 $0 . 0 9 { \\sim } 9 ~ \\mathrm { m m }$ 粒径的含量显著多于草地，在 $3 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 深度，裸地颗粒级配与草地具有相类似的特征；在 $4 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 深度，裸地小于 $0 . 1 \\ \\mathrm { m m }$ 的粒径含量显著多于草地。通过对比 $d _ { 6 0 }$ 参数可知，草地土壤 $d _ { 6 0 }$ 参数随深度增加呈逐渐减小的趋势，反映出随着深度增加其细颗粒含量逐渐增多，即表现出深层土壤细颗粒含量多于浅层土壤。裸地土壤 $d _ { 6 0 }$ 参数随深度增加呈逐渐增大的变化规律，但其整体变化幅度较小( $0 . 3 6 6 { \\sim } 0 . 4 5 7 \\ \\mathrm { m m }$ ，且该参数值介于草地土壤 $3 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 深度位置之间$( 0 . 5 5 3 { \\sim } 0 . 3 5 5 \\mathrm { m m }$ ）， $d _ { 3 0 }$ 参数亦表现出相似的规律性，表明裸地土壤颗粒组成与草地深层土壤相类似，其细颗粒含量多于草地浅层土壤。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1e9970f63dc66ee2e781ab92738ced97db290f1501ae30428f4f8083380c536.jpg",
+        "table_caption": [
+            "表2草地和裸地5种不同深度土壤颗粒试验分析结果",
+            "Tab.2 Results of soil particle analysis at five different depths in grassland and bare land "
+        ],
+        "table_footnote": [
+            "注： $d _ { 6 0 } , d _ { 3 0 } , d _ { 1 0 }$ 分别为小于该粒径颗粒质量的 $6 0 \\%$ $30 \\%$ ， $1 0 \\%$ 的粒径，分别表示为限定粒径、中值粒径、有效粒径。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>取样深度/cm</td><td>d6o/mm</td><td>d30/mm</td><td>d10/mm</td><td>不均匀系数Cu</td><td>曲率系数Cc</td><td>砂粒含量/%</td><td>级配类型</td></tr><tr><td rowspan=\"5\">草地</td><td>0~10</td><td>2.381</td><td>0.400</td><td>0.116</td><td>20.53</td><td>0.58</td><td>55.5</td><td>级配不良</td></tr><tr><td>10~20</td><td>1.294</td><td>0.242</td><td>0.122</td><td>10.61</td><td>0.37</td><td>67.2</td><td>级配不良</td></tr><tr><td>20~30</td><td>0.662</td><td>0.199</td><td>0.112</td><td>5.91</td><td>0.53</td><td>87.1</td><td>级配不良</td></tr><tr><td>30~40</td><td>0.553</td><td>0.253</td><td>0.132</td><td>4.19</td><td>0.88</td><td>89.2</td><td>级配不良</td></tr><tr><td>40~50</td><td>0.355</td><td>0.105</td><td>0.061</td><td>5.82</td><td>0.51</td><td>90.0</td><td>级配不良</td></tr><tr><td rowspan=\"5\">裸地</td><td>0~10</td><td>0.384</td><td>0.188</td><td>0.101</td><td>3.80</td><td>0.91</td><td>93.7</td><td>级配不良</td></tr><tr><td>10~20</td><td>0.366</td><td>0.175</td><td>0.094</td><td>3.89</td><td>0.89</td><td>95.7</td><td>级配不良</td></tr><tr><td>20~30</td><td>0.396</td><td>0.174</td><td>0.093</td><td>4.26</td><td>0.82</td><td>95.1</td><td>级配不良</td></tr><tr><td>30~40</td><td>0.445</td><td>0.233</td><td>0.127</td><td>3.50</td><td>0.96</td><td>93.8</td><td>级配不良</td></tr><tr><td>40~50</td><td>0.457</td><td>0.204</td><td>0.112</td><td>4.08</td><td>0.81</td><td>90.2</td><td>级配不良</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b672439213a0e0c4f2a3ccefc24425bdb378df429412730f3f70e1cb64eb3dd.jpg",
+        "img_caption": [
+            "图4草地和裸地土壤粒径级配累计曲线",
+            "Fig.4 Cumulative curve of grain size distribution of grassland and bare land soil "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2含水率随着土壤深度增加，土壤含水率呈逐渐减小的变化趋势(图5)，草地和裸地土壤含水率减小幅度分别为 $4 2 . 8 8 \\% . 2 2 . 2 3 \\%$ 。在相同土壤深度处，草地含水率明显高于裸地，其增长幅度分别为 $1 8 . 1 \\% 1 7 . 5 3 \\% . 4 . 6 2 \\% . 4 . 9 1 \\% . 4 . 0 3 \\%$ 在 $0 { \\sim } 2 0 \\mathrm { c m }$ 深度，草地土壤含水率显著高于裸地，这在一定程度上反映出草本植物具有涵养土壤水分的功能，主要原因为 $0 { \\sim } 2 0 \\mathrm { c m }$ 深度草地植物根系多于裸地，且根系具有涵养水源的作用。该结果与杨永胜等[4对草甸退化程度对土壤含水率的研究结果基本相一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fc963ae0d115e9721cc23936e573869b9ccd7626084b0438b4ccbfc5fadcc0f.jpg",
+        "img_caption": [
+            "Fig.5Relationship between soil moisture content and soil depth "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同小写字母表示差异不显著 ${ \\mathrm { \\ P > 0 . 0 5 } }$ 。下同。图5土壤含水率随土壤深度的变化关系",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3密度随着土壤深度增加，土壤密度呈逐渐增加的趋势(图6)，草地和裸地土壤密度增长幅度分别为 $1 8 . 3 1 \\% . 2 0 . 6 6 \\%$ ;此外，在相同深度处，草地土壤密度均高于裸地，其增加幅度分别为 $1 4 . 7 9 \\%$ 、$1 . 4 4 \\% , 1 4 . 2 9 \\% , 1 2 . 5 \\% , 1 5 . 0 7 \\%$ 。该结果与胡艳欣[23]的研究结果表现出相一致的规律。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/92a3c8a637f793f1bb78a76de8818a9b4a7d32162232167bd84394dc670cac19.jpg",
+        "img_caption": [
+            "图6土壤密度随土壤深度的变化关系",
+            "Fig.6 Relationship between soil density and soil depth "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤化学性质与土壤深度的关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 pH值黄河源区土壤呈弱碱性，随着土壤深度的增加， $\\mathrm { \\ p H }$ 值呈逐渐增加的趋势，表现为土壤碱性相应地增强，但变化幅度不显著(图7)，且草地和土壤pH值增大幅度分别为 $1 8 . 5 4 \\% , 1 0 . 1 8 \\%$ 。同时，在相同取样深度位置处，草地土壤 $\\mathrm { \\ p H }$ 值均低于裸地，其减小幅度分别为 $1 0 . 3 9 \\%$ 、 $1 0 . 8 9 \\%$ ） $7 . 2 2 \\%$ 、$2 . 5 2 \\% , 2 . 6 1 \\%$ 。这一结果与高露[24的研究结果相一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb4dd23f9d3fd741ba09f3f6a166ed204cf76d2711bea7413b06358195290702.jpg",
+        "img_caption": [
+            "图7土壤pH值随土壤深度的变化关系 Fig.7Relationship between soil pH value and soil depth "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2有机质随着土壤深度增加，有机质含量呈逐渐减少的趋势(图8)，表现为草地和裸地土壤有机质含量减小幅度分别为 $7 6 . 8 3 \\% . 7 3 . 7 3 \\%$ ;草地土壤有机质含量相对于裸地表现出偏高的趋势，在 $0 \\sim$ $1 0 \\ \\mathrm { c m } \\cdot 1 0 { \\sim } 2 0 \\ \\mathrm { c m }$ 深度，草地土壤有机质含量大于裸地，其减小幅度分别为 $3 7 . 9 8 \\% . 4 0 . 0 5 \\%$ 。 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 深度土壤有机质含量均显著大于 $2 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 深度，这说明土壤有机质含量存在聚集现象，对植物生长具有显著促进作用，即土壤中有机质含量愈高，其土壤养分愈充分，其结果则愈有利于促进植物正常生长。上述研究结果与高露24和张丽娅等25的研究成果基本相一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3氮磷钾随着土壤深度增加，全氮含量呈逐渐降低的趋势(表3），表现在草地和裸地降低幅度分别为 $6 5 . 5 1 \\% , 6 1 . 9 6 \\%$ 。且在 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\setminus 1 0 { \\sim } 2 0 \\ \\mathrm { c m }$ 深度位置处，草地土壤的全氮含量显著高于裸地，分别高出 $2 . 0 6 \\ \\mathrm { g \\cdot k g } ^ { - 1 } \\cdot 2 . 2 5 \\ \\mathrm { g \\cdot k g } ^ { - 1 }$ 。碱解氮含量随土壤深度增加呈逐渐减少的变化趋势，表现为草地和裸地土壤碱解氮降低幅度分别为 $7 4 . 5 4 \\% . 7 3 . 3 6 \\%$ ，且草地土壤的碱解氮含量均高于裸地。全磷含量总体呈逐渐降低的变化规律，草地和裸地土壤全磷含量降低幅度分别为 $2 5 . 6 2 \\% . 1 2 . 2 4 \\%$ ,且草地的全磷含量均高于裸地。土壤速效磷含量基本呈上升的变化趋势，表现在草地速效磷含量除 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 深度土壤含量过高 $( 3 . 2 ~ \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 } ,$ )外，草地速效磷含量呈逐渐增加的趋势，草地和裸地土壤速效磷含量增长幅度分别为 $3 3 . 6 8 \\%$ 、 $120 \\%$ ，且在 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\ . 1 0 { \\sim } 2 0$ cm深度草地的速效磷含量高于裸地，分别高出1.7$\\mathrm { m g \\cdot k g ^ { - 1 } \\cdot 0 . 1 7 ~ m g \\cdot k g ^ { - 1 } } ,$ 。全钾含量变化相对不显著，草地全钾含量呈逐渐升高的变化趋势，草地全钾含量增长幅度为 $1 1 . 4 1 \\%$ ,裸地其全钾含量约为 $2 6 \\mathrm { \\ g }$ ·$\\mathbf { k g } ^ { - 1 }$ 。速效钾含量表现出呈逐渐降低的变化规律，草地和裸地土壤速效钾含量降低幅度分别为",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/525cb9f0b2ae35f9977139b95f853faf5ade214c2085b2f9e823c86f84f46fdd.jpg",
+        "img_caption": [
+            "图8土壤有机质与土壤深度的变化关系 Fig.8 Relationship between of soil organic matter and soil depth "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/57e2079b68bfa34f45e5cfb3c4be33f4020fb54f7c6fa605e4e2de1b286acadc.jpg",
+        "table_caption": [
+            "表35种不同深度土壤营养元素试验测试结果",
+            "Tab.3 Results of soil nutrient element tests at five different depths "
+        ],
+        "table_footnote": [
+            "注：不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ),相同小写字母表示差异不显著 $( P { > } 0 . 0 5 ^ { ' }$ 。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">取样深度/cm全氮含量/(g·kg）碱解氮含量(mg·kg）全磷含量/(g·kg）速效磷含量/(mg·kg）全钾含量/(g·kg）速效钾含量/(mg·kg)</td><td></td><td></td></tr><tr><td rowspan=\"5\">草地 土壤</td><td>0~10</td><td>6.03±0.68*</td><td>343±82.46a</td><td>1.99±0.13a</td><td>3.20±0.89a</td><td>24.37±0.52d</td><td>182.67±91.85a</td></tr><tr><td>10~20</td><td>6.03±1.23a</td><td>341.33±93.09a</td><td>1.92±0.17a</td><td>1.87±0.25h</td><td>24.49±0.54cd</td><td>110.33±33.614h</td></tr><tr><td>20~30</td><td>3.17±1.44h</td><td>152.33±69.26</td><td>1.81±0.37ah</td><td>1.90±0.35h</td><td>25.3±1.95bed</td><td>79.67±20.43</td></tr><tr><td>30~40</td><td>2.14±0.47c</td><td>109.33±46.14c</td><td>1.61±0.06h</td><td>2.17±0.75h</td><td>26.24±1.1abc</td><td>76.00±14.18</td></tr><tr><td>40~50</td><td>2.08±0.33</td><td>87.33±30.89</td><td>1.48±0.14c</td><td>2.50±0.26ab</td><td>27.82±0.58a</td><td>74.67±14.36</td></tr><tr><td rowspan=\"5\">裸地 土壤</td><td>0~10</td><td>3.97±1.05h</td><td>244±67.48ab</td><td>1.47±0.09c</td><td>1.5±0.61b</td><td>25.66±0.73bed</td><td>190±88.76a</td></tr><tr><td>10~20</td><td>3.78±0.37h</td><td>234±61.94ab</td><td>1.35±0.11e</td><td>1.7±0.33b</td><td>26.56±0.64*h</td><td>114±42.16ab</td></tr><tr><td>20~30</td><td>3.40±0.93h</td><td>148±58.83be</td><td>1.34±0.26</td><td>1.9±0.27b</td><td>26.57±0.91*h</td><td>81±19.41c</td></tr><tr><td>30~40</td><td>2.65±0.29hed</td><td>100±44.37c</td><td>1.31±0.13c</td><td>2.5±0.49ab</td><td>26.62±1.03*b</td><td>79±16.69c</td></tr><tr><td>40~50</td><td>1.51±0.41d</td><td>65±27.55c</td><td>1.29±0.08c</td><td>3.3±0.76a</td><td>26.62±0.87ab</td><td>75±13.75c</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$5 9 . 1 2 \\%$ 、 $6 0 . 5 3 \\%$ ，且裸地速效钾含量整体上高于草地。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3根-土复合体抗剪强度与土壤深度的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1未退化草地根-土复合体与裸地粘聚力特征及其对比评价随土壤深度增加,草地根-土复合体粘聚力表现出逐渐减少的变化趋势，其降低幅度为 $5 9 . 5 5 \\%$ 。对于裸地，随着土壤深度增加，粘聚力表现出逐渐增大的变化规律，其增长幅度为$2 7 7 . 4 2 \\%$ （图 $9 \\mathrm { a }$ 。在 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\ . 1 0 { \\sim } 2 0 \\ \\mathrm { c m } \\ . 2 0 { \\sim } 3 0 \\ \\mathrm { c m }$ 处草地根-土复合体粘聚力 $\\mid c \\mid$ 值高于相同深度裸地，其增加值分别为 $1 8 . 7 6 ~ \\mathrm { k P a } \\setminus 1 1 . 2 6 ~ \\mathrm { k P a } \\setminus 8 . 3 8 ~ \\mathrm { k P a }$ ，而在 $3 0 { \\sim } 4 0 \\ \\mathrm { c m } \\ . 4 0 { \\sim } 5 0 \\ \\mathrm { c m }$ 深度裸地粘聚力 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 值高于草地根-土复合体，即分别增加 $5 . 2 5 \\mathrm { ~ k P a ~ } , 3 . 1 7 \\mathrm { ~ k P a }$ 。在$0 { \\sim } 3 0 ~ \\mathrm { c m }$ 深度,草地根-土复合体粘聚力 $\\boldsymbol { c }$ 值偏大，产生该现象原因在于 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 深度草地的土壤有机质含量较高，植物生长相对较为茂盛，且根系发达，从而显著增强了根-土复合体的抗剪强度，而裸地土壤营养元素流失，影响植物生长，使得土体抗剪强度降低；在 $3 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 深度，草地植物根系数量相对减少，其结果则降低了根-土复合体的抗剪强度，而裸地土壤密度在 $3 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 深度呈逐渐增大的趋势，结果使得土壤抗剪强度表现出增加的变化特征。通过洗根试验后所得到的草地每层根系数量的试验结果(表4),表现出草本根系主要分布在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f4f0901fe3422c01ca7f9a7842e04ff48c6eab6e8f42e47b8b4cba72b983eff.jpg",
+        "img_caption": [
+            "图9土体粘聚力和内摩擦角随土壤深度的变化关系",
+            "Fig.9 Changes of soil cohesion and internal friction with soil depth "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4草地土壤不同取样深度根-土复合体根系试验结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/65b892e3987a2018813272d1fd32a68893886420cf8ff32b5995f47af82dfa3c.jpg",
+        "table_caption": [
+            "Tab.4Experimental results of root-soil composite systems in different sampling depths of grassland "
+        ],
+        "table_footnote": [
+            "0.74、0.73。"
+        ],
+        "table_body": "<html><body><table><tr><td>取样深度/cm</td><td>根数/根</td><td>干重/g</td><td>平均根径/mm</td></tr><tr><td>0~10</td><td>281.67±224.27a</td><td>8.32±6.17a</td><td>0.43±0.18*</td></tr><tr><td>10~20</td><td>165.00±119.79*b</td><td>5.23±4.34ab</td><td>0.34±0.16ab</td></tr><tr><td>20~30</td><td>78.33±36.56ab</td><td>1.10±0.30b</td><td>0.26±0.08b</td></tr><tr><td>30~40</td><td>51.67±23.38b</td><td>0.41±0.12b</td><td>0.21±0.06*b</td></tr><tr><td>40~50</td><td>40.83±22.45b</td><td>0.22±0.06b</td><td>0.19±0.05b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "深度， $2 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 深度的根系数量则相对较少。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.2不含根系素土、根-土复合体内摩擦角 $\\varphi$ 值的特征及其对比评价随着土壤深度增加,草地根-土复合体内摩擦角 $\\varphi$ 值呈逐渐增大的变化规律，其增长幅度为 $3 . 7 4 \\%$ ,裸地随土壤深度增加,其内摩擦角总体表现呈下降趋势，其降低幅度为 $1 3 . 3 7 \\%$ （图9b)。此外，在 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\ . 1 0 { \\sim } 2 0 \\ \\mathrm { c m } \\ . 2 0 { \\sim } 3 0 \\ \\mathrm { c m }$ 深度草地土壤内摩擦角 $\\varphi$ 值较未生长植物裸地小，降低值分别为 $3 . 3 ^ { \\circ } \\cdot 2 . 0 2 ^ { \\circ } \\cdot 2 . 5 2 ^ { \\circ }$ ,在 $3 0 { \\sim } 4 0 \\ \\mathrm { c m } \\ . 4 0 { \\sim } 5 0 \\ \\mathrm { c m }$ 深度草地内摩擦角 $\\varphi$ 值较裸地大，增加值分别为 $0 . 0 9 ^ { \\circ }$ 、$0 . 9 8 ^ { \\circ }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.3不同深度土壤性质和根系含量增强土体粘聚力贡献评价基于以上分析,为量化草地和裸地土体粘聚力与其理化性质之间的相关性，采用灰色关联分析法，分别计算出草地、裸地的土壤物理性质（含水率、密度、颗粒级配分析）、化学性质(氮、磷、钾元素、pH值、有机质）、植物根系含量与土体粘聚力之间的关联度。由表5可知，草地根-土复合体粘聚力与复合体含水率、密度、营养元素，以及含根量等指标之间表现出密切的关系，尤其与速效磷、含根量和有机质3种因素之间表现出相对显著性关系，其关联度分别为0.82、0.82、0.76；对于裸地，其土体粘聚力与密度、 $\\mathrm { \\Phi _ { \\cdot } p H }$ 值、土壤颗粒控制粒径 $d _ { 6 0 }$ 等3种因素之间呈显著性关系，其关联度分别为0.76、",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5草地、裸地土壤理化性质和植物根系与粘聚力 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 值的关联度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1ffba9962fc401badb3e78404622e11946c20b716953eac312b8b3424d37cc7.jpg",
+        "table_caption": [
+            "Tab.5 Correlation degrees of soil physical and chemical propertiesand plant roots withcohesionc value in "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">。</td></tr><tr><td>类别</td><td>草地土体粘聚力c值 裸地土体粘聚力c值</td></tr><tr><td>土壤含水率</td><td>0.73 0.65</td></tr><tr><td>土壤密度</td><td>0.57 0.76</td></tr><tr><td>土壤颗粒控制粒径d60</td><td>0.73 0.73</td></tr><tr><td>土壤pH值</td><td>0.61 0.74</td></tr><tr><td>土壤有机质</td><td>0.76 0.67</td></tr><tr><td>土壤全氮含量</td><td>0.65 0.71</td></tr><tr><td>土壤碱解氮含量</td><td>0.61 0.56</td></tr><tr><td>土壤全磷含量</td><td>0.66 0.69</td></tr><tr><td>土壤速效磷含量</td><td>0.82 0.64</td></tr><tr><td>土壤全钾含量</td><td>0.63 0.73</td></tr><tr><td>土壤速效钾含量</td><td>0.74 0.56</td></tr><tr><td>土壤中含根量</td><td>0.82 二</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤含水率随深度增加呈逐渐减小的变化趋势,且草地土壤含水率高于裸地,这与鲍根生等[9]、高露等[24]和张丽娅等[25]的研究结果基本相一致。土壤密度随深度增加呈现出逐渐增大的趋势，该结果与胡艳欣[23的研究结果相一致。产生这一现象的主要原因在于，浅层和深层的土壤类型存在差异性，即表现在浅层土壤为黑色腐殖质土，深层则为粘性土，其中，浅层分布的腐殖质土含有机质，起到促进土壤团聚体形成的作用，并相应提高了土壤孔隙性，使得浅层土壤密度降低。此外，研究区王壤颗粒级配随着土壤深度的增加，其粗颗粒含量呈现出逐渐减小的变化趋势，该结果与靳杭森2的研究结果具有相一致的变化规律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "黄河源区土壤呈弱碱性且 $\\mathrm { \\ p H }$ 值随深度的增加表现出逐渐增大的特征，这与高露等24的研究结果基本一致。其主要原因与土壤温度有关[27],土壤有机质含量在草地 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 深度达到最大值，且土壤有机质含量产生表聚现象，其结果促进了植物正常生长。其次，土壤全氮含量表现出逐渐降低的变化趋势，主要归因于草地地表植物生长茂密，根系发达，且在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 深度土壤有机质含量较高，同时受地表凋落物分解和根系分泌作用释放出大量氮元素,并在表层形成富集现象[28]。土壤碱解氮含量呈逐渐减少的变化规律，主要归因于研究区地处青藏高原东北部地区，受到强烈光照因素的影响，加之区内裸地土壤受雨蚀和风蚀等因素的综合影响导致水土流失，并进一步加剧氮元素的流失。土壤全磷含量呈逐渐降低的变化趋势，这归因于土壤全磷含量主要来源于母质，因母质长期受风化作用以及受植物转移作用的影响，使得磷含量在土壤表层产生累积现象[29-30]。最后，土壤速效磷含量基本表现出上升的变化趋势，其原因在于区内因受光照作用相对较强烈，雨蚀作用使得裸地加剧可溶性磷元素发生淋溶现象，加之裸地地表土壤温度较草地高，其结果则进一步加速了裸地土壤速效养分的溶解，因此裸地0\\~20cm深度土壤速效磷含量相对较低[29-30]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "随着土壤深度的增加，草地根-土复合体粘聚力表现出呈逐渐降低的变化趋势，裸地土壤粘聚力$\\mid c \\mid$ 值则呈逐渐增大的变化特征。产生该现象的主要原因在于，区内草地随土壤深度的增加，含根量表现出逐渐减少的变化趋势；因根系对抗剪强度具有显著性影响，即表现在随着土壤含根量的减少，其粘聚力 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 值亦表现出呈逐渐减小的变化规律，而裸地土壤因不存在根系，故其土壤粘聚力增大的原因主要在于深层土壤因受到上覆土层荷载作用，使得土壤孔隙变小、密实度增大。土壤密度愈大使得抗剪强度表现为愈大的特征[23]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究中有关土壤物理性质方面内容相对较少，也暂未考虑不同植物根系的力学性能，因此在后续研究中，需进一步观测液限、塑限、容重、孔隙比等其他理化性质指标，及其与植物单根力学特性之间的关系，以实现更加系统性分析理化性质与土壤抗剪强度之间的关联性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）随着土壤深度的增加，土壤含水率表现出呈逐渐减小的变化特征，且草地土壤含水率明显高于裸地；相应地土壤密度则呈逐渐增加的变化趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）区内土壤呈弱碱性，随土壤深度的增大，$\\mathrm { \\ p H }$ 值逐渐增加,且草地土壤pH值均小于裸地。土壤有机质含量呈逐渐减少的趋势；草地和裸地土壤营养元素整体上表现出全氮、碱解氮、全磷、速效钾含量逐渐降低，速效磷、全钾含量呈逐渐升高的特征；草地根-土复合体粘聚力逐渐降低，而裸地土壤粘聚力则逐渐增大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）草地根-土复合体粘聚力 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 值与速效P、含根量和有机质3种因素之间的关联度相对较高；对于裸地其土壤粘聚力 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 值与密度、pH值、土壤颗粒控制粒径 $d _ { 6 0 }$ 之间的关联度表现出较高的特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]李双,徐新良,付颖.基于高光谱影像的三江源区不同退化程度 高寒草甸分类研究[J].遥感技术与应用,2015,30(1):50-57. [Li Shuang,Xu Xinliang,Fu Ying.A study on classification of different degradation level alpine meadows based on hyperspectral image data in Three-river Headwater Region[J]. Remote Sensing Technology and Application,2015,30(1): 50-57.]   \n[2]安如,陆彩红,王慧麟,等.三江源典型区草地退化Hyperion 高 光谱遥感识别研究[J].武汉大学学报(信息科学版),2018,43 (3): 399-405.[An Ru,Lu Caihong,Wang Huilin,et al.Remote sensing identification of rangeland degradation using hyperion hyperspectral image in a typical area for Three-River Headwater Region, Qinghai, China[J]. Geomatics and Information Science of Wuhan University,2018,43(3): 399-405.]   \n[3]Yan Y,Tian L, Du Z,et al. Carbon, nitrogen and phosphorus stocks differ among vegetation patch types in a degraded alpine steppe[J]. Soils and Sediments,2019,19(4): 1809-1819.   \n[4]Ma L, Yao Z, Zheng X,et al. Increasing grassland degradation stimulates the non- growing season CC $^ { 1 2 }$ emissions from an alpine meadow on the Qinghai- Tibetan Plateau[J]. Environmental Science and Pollution Research,2018,25(26): 26576-26591.   \n[5]赵新全,周华坤.三江源区生态环境退化、恢复治理及其可持续 发展[J].中国科学院院刊,2005,20(6):471-476.[Zhao Xinquan,Zhou Huakun. Eco-environmental degradation,vegetation regeneration and sustainable development in headwaters of Three Rivers on Tibetan plateau[J]. Bulltin of Chinese Academy of Sciences,2005,20(6): 471-476.]   \n[6]李旭谦.青海省退化草地治理与恢复的技术措施[J].青海科技, 2018,25(6): 34-39.[Li Xuqian. Technical measures for the management and restoration of degraded grassland in Qinghai Province [J]. Qinghai Science and Technology,2018,25(6): 34-39.]   \n[7]刘启兴,董国涛,景海涛,等.2000-2016年黄河源区植被 NDVI 变化趋势及影响因素[J].水土保持研究,2019,26(3):86-92. [Liu Qixing,Dong Guotao,Jing Haitao,et al. Change trend of vegetation NDVI and its influencing factors in the Source Region of the Yellow River in the period from 2000 to 2016[J]. Research of Soil and Water Conservation,2019,26(3): 86-92.]   \n[8]Kharisum,Fasillah, Mujiono,et al. Composition of planting media and biological agents to improve physical and chemical properties of soil[J].IOP Conference Series Earth and Environmental Science,2019,250(1): 1-6. [9]鲍根生,王玉琴,宋梅玲,等.狼毒斑块对狼毒型退化草地植被 和土壤理化性质影响的研究[J].草业学报,2019,28(3):51-61. [Bao Gensheng,Wang Yuqin,Song Meiling,etal.Effectsof Stellera chamaejasme patches on the surrounding grassland community and on soil physical-chemical properties in degraded grasslands susceptible to S.chamaejasme invasion[J]. Acta Prataculturae Sinica, 2019,28(3): 51-61.] [10] 姜哲浩,周泽,陈建忠,等.三江源区不同海拔高寒草原土壤养 分及化学计量特征[J].草地学报,2019,27(4):1029-1036.[Jiang Zhehao, Zhou Ze,Chen Jianzhong,et al. Soil nutrient and stoichiometry of alpine steppe under diferent altitudes in the threeriver headwaters region[J]. Acta Agrestia Sinica,2O19,27(4):   \n1029-1036.] [11]马俊梅,郭春秀,肖斌,等.民勤黑果枸杞形态学特征与土壤因 子的关系[J].干旱区研究,2020,37(2):444-451.[Ma Junmei, Guo Chunxiu, Xiao Bin,et al. Relationship between morphological characteristics of Lycium ruthenicum and soil factors in Minqin, Gansu,Northwest China[J].Arid Zone Research,2020,37(2):   \n444-451.] [12]Yi X S,Li G S, Yin Y.Pedotransfer functions for estimating soil bulk density: A case study in the Three-River Headwater region of Qinghai Province, China[J].Pedosphere,2016,26(3): 362-373.] [13]Johnston A,Dormaar JF,Smoliaks.Long-term grazing ffects on fescue grassland soils[J]. Range Manage,1971, 24(3): 185-188. [14] 杨永胜,张莉,未亚西,等.退化程度对三江源泽库高寒草甸土 壤理化性质及持水能力的影响[J].中国草地学报,2017,39(5):   \n54-61.[Yang Yongsheng, Zhang Li,Wei Yaxi,et al. Effects of degradation degree on soil physicochemical properties and soil water-holding capacity in Zeku alpine meadow in the headwater region of Three Rivers in China[J]. Chinese Journal of Grassland,   \n2017,39(5): 54-61.] [15]LiC,Hao X,Ellert BH,et al.Changes in soil C,N,and Pwith long-term (58 years) cattle grazing on rough fescue grassland[J]. Journal of Plant Nutrition & Soil Science,2012,175(3): 339-344. [16]姜哲浩,周泽,陈建忠,等.三江源区不同海拔高寒草原土壤养 分及化学计量特征[J].草地学报,2019,27(4):1029-1036.[Jiang Zhehao, Zhou Ze,Chen Jianzhong,et al.Soil nutrient and stoichiometry of alpine steppe under different altitudes in the threeriver headwaters region[J].Acta Agrestia Sinica,2019,27(4):   \n1029-1036.] [17] 刘昌义,胡夏嵩,窦增宁,等.黄河源区高寒草地植被根-土复 合体抗剪强度试验及退化程度阈值确定[J.草业学报,2017,   \n26(9):14- 26.[Liu Changyi,Hu Xiasong,Dou Zengning,et al. Shear strength tests of the root-soil composite system of alpine grassland vegetation at diferent stages of degradation and the determination of thresholds in the Yellow River source region[J].Acta Prataculturae Sinica,2017,26(9): 14-26.]   \n[18]Mickovski SB, Van L B. Test data from pullout experiments on vetiver grass (Vetiveria zizanioides) grown insemi-arid climate[J]. Data in Brief,2018,17(7): 463-468.   \n[19] Ghestem M,Veylon G,Bernard A,etal.Influence of plant root system morphology and architectural traits on soil shear resistance[J]. Plant and Soil,2014,377(1-2): 43-61.   \n[20] 栗岳洲,付江涛,胡夏嵩,等.土体粒径对盐生植物根-土复合 体抗剪强度影响的试验研究[J].岩石力学与工程学报,2016, 35(2): 403-412.[Li Yuezhou,Fu Jiangtao, Hu Xiasong,et al.Experimental study of the influence of grain size on the shear strength of rooted soil[J]. Chinese Journal of Rock Mechanics and Engineering,2016,35(2): 403-412.]   \n[21] 贺长彬,尤泳,王德成,等.退化草地复合体力学特性与影响因 素研究[J].农业机械学报,2016,47(4):79-89.[He Changbin, You Yong,Wang Decheng,et al. Mechanical characteristics of soil-rootcomposite anditsinfluence factors indegeneratedgassland[J]. Transactions of the Chinese Society for Agricultural Machinery,2016,47(4): 79-89.]   \n[22]Bo F, Zong Q L, Cai HB,et al. Calculation of increased soil shear strength from desert plant roots[J].Arabian Journal of Geosciences,2019,12(16): 1-12.   \n[23]胡艳欣.红黏土含水量和干密度与抗剪强度的相关性分析[J]. 人民长江,2017,48(增刊):255-258.[Hu Yanxin.Correlation analysis of moisture content and dry density of red clay with shear strength[J]. Yangtze River,2017,48(Suppl. ): 255-258.]   \n[24] 高露,张圣微,赵鸿彬,等.退化草原土壤理化性质空间异质性 及其对土壤水分的影响[J].干旱区研究,2020,37(3):607-617. [Gao Lu, Zhang Shengwei, Zhao Hongbin,et al. Spatial heterogeneity of soil physical and chemical properties in degraded grassland and their effect on soil moisture[J].Arid Zone Research,2020,37 (3): 607-617.]   \n[25] 张丽娅,马志林.南水北调中线渠坡不同季节不同盖度草地土 壤氮素和有机质变化[J].江苏农业科学,2019,47(3):219-223. [Zhang Liya,Ma Zhilin. Changes of soil nitrogen and organic matter contents of grassand with different coverage in different coverage in different seasons in middle lineslope of south-to-north water transfer project[J]. Jiangsu Agricultural Science,2019,47(3): 219- 223.]   \n[26] 靳杭森.西南红层滑带土物理力学性质与微观结构的相关性研 究[D].成都:成都理工大学,2019.[Jin Hangsen. Study on the Correlation between Physical and Mechanical Properties and Microstructures of Red-bed Sliding Zone Soils in Southwest China [D]. Chengdu: Chengdu University of Technology,2019.]   \n[27] 傅华,陈亚明,王彦荣,等.阿拉善主要草地类型土壤有机碳特 征及其影响因素[J].生态学报,2004,24(3):469-476.[Fu Hua, Chen Yaming,Wang Yanrong,et al. Organic carbon content in major grassland types in Alex,Inner Mongolia[J].Acta Ecologica Sinica,2004,24(3): 469-476.]   \n[28] 崔楠,吕光辉,刘晓星,等.胡杨、梭梭群落土壤理化性质及其相 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "tios in China's soils:A synthesis of observational data[J].Biogeochemistry,2010,98(1): 139-151. [30]Curtin D,Beare M H,Chantigny M H,et al.Controls on the extractability of soil organic matter in water over the 2O to $8 0 \\textrm { ‰}$ temperature range[J]. Soil Science Society of America Journal,2011, 75(4): 1423-1430. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Relationships between the physical and chemical properties of soil and the shear strength of root-soil composite systems at different soil depths in alpine grassland in the source region of the Yellow River ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SHEN Ziyan'， LIU Changyi'， HU Xiasong'， ZHOU Linhu',XU Tong'， LI Xilai²， LI Guorongl(1.Department of Geological Engineering, Qinghai University,Xining 81O0l6, Qinghai, China;2. Collge of Agriculture and Animal Husbandry, Qinghai University,Xining 810o16, Qinghai, China)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The relationships between the physical and chemical properties of soil,the shear strength of the rootsoil composite system,and the soil depth were investigated in the alpine grassland in Henan Country, Qinghai Province,in the source region of the Yellw River. Direct shear tests of root-soil composite systems and soil physical and chemical content tests were conducted. Five different soil depths ( $0 { - } 1 0 ~ \\mathrm { c m }$ ,10-20 cm, $2 0 { - } 3 0 ~ \\mathrm { c m }$ $3 0 - 4 0 ~ \\mathrm { c m }$ ，and $4 0 - 5 0 ~ \\mathrm { { c m } }$ ） were selected for sampling.The results showed that the soil moisture content decreased gradually with increasing soil depth. The soil was weakly alkaline,and the soil $\\mathrm { p H }$ increased. The content of organic matter and nutrient elements in the soil decreased with increasing soil depth.Additionally, the cohesion $c$ value of the soil in the non-degraded grassland gradually decreased with increasing soil depth.For the degraded bare land, the cohesion $c$ value of the soil gradually increased with increasing soil depth. According to the analysis of the gray relational method,the shear strength of the root-soil composite systems was closely related to available $P$ (0.82),root content (0.82),and organic mater (0.76). Additionally, the shear strength was correlated with density of bare soil (O.76) and soil particle size $d _ { 6 0 }$ (0.74). The results of this study can be used to inform the effective prevention and control of soil erosion,shallw landslide,and other disasters caused by grassland degradation in extremely cold areas. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: source region of the Yelow River; alpine meadows； root- soil composite systems；physical and chemical properties of soil; shear strength ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,597 @@
+[
+    {
+        "type": "text",
+        "text": "Exploring and Examining the Public Sense of Gain on YB Conservation and Development based on CSS2019 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Haitao Li ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Civil Engineering and Architecture,Anyang Normal University, Anyang 455000, China;   \n2 School of Management and Economics，North China University of Water Resource and Electric Power, Zhengzhou 450046, China   \n￥ Correspondence: lht3230@163.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Ecological conservation and high-quality development of the Yellow River Basin (abbreviated to YB Conservation and Development) has just been established as another major national strategies of China,and the public sense of gain (PSG) has been generally accepted as the benchmark and standard of good governance in China New Time. This paper explored to construct the logical principles and transmission mechanisms of the PSG and YB conservation and development, suggested to take the PSG as a better regulations and guidances for the sound development of the Yellow River Basin. Based on the data of Chinese Social Survey in 2019 (CSS2019),this paper tried to exam the PSG on YB Conservation and Development at the beginning of the national strategy. An evaluation index system including 5 factor dimensions and 25 evaluation indices was constructed,and the consistent processed methods of the raw data in CSS2O19 were developed.After that, the normal distribution of continuous distribution was used to describe the survey data,and the dominance matrix method was applied to make decision based on PROMETHEE II.The empirical results indicated that the PSG of the middle and upper reaches of the Yellow River is lower than the overallevel of China,and the public in the Yellow River Basin were generally satisfied with government public services and social civilizations, except economic situations, living environment and individual self-fulfillments. Accordingly, some pertinent suggestions were put forward and some plans for further research were also explained. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: public sense of gain; the Yellow River Basin; YB Conservation and Development; uncertainty decision-making; CSS2019 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Yellow River Basin is one of the important ecological barriers and economic zones,also the important breadbaskets and energy bases in China [1]. The Yellw River Basin plays overall, strategic and fundamental roles in maintaining food security, energy security and ecological security,and it also plays great roles in ensuring national and regional sustainable development [2-3]. Meanwhile, the Yelow River is a rebellious disaster river. Since ancient times, frequent ice disaster, floods and droughts have brought serious disasters to the people along the river [4-7].Since the founding of new China, breakthroughs have been made in conservation and harness of the ecological environment in the Yellw River Basin. However, there are still some serious problems badly in need of solutions under the influences of global climate changes and human activities.For example, its ecological environment is still badly fragility, its water scarcity is geting worse,and its economic and social development is still relatively backward in general and so on [8-11]. Therefore,it has become a major challnge for Chinese government and people to further promote the harmonious development between protection and exploitation of the Yellow River [12]. Under such background, Chinese President Xi Jinping hosted a forum on \"ecological conservation and high-quality development of the Yellow River Basin\" (Hereinafter referred to as “YB Conservation and Development\") in Zhengzhou on September 18, 2019 and delivered an important speech. At this forum, Xi Jinping pointed out that the protection of the Yellow River is a significant deployment for the great rejuvenation and sustainable development of the Chinese nation, he stressed that Chinese people should work together to protect and harnessthe Yellow River,and he issued a call \"to make the Yellow ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "River a happy river to benefit the local residents\". Since then, YB Conservation and Development has been upgraded as another major national strategy of China [13]. The existing researches on YB Conservation and Development mainly includes two aspects,one is to interpret, understand, experience and reflect on this Chinese major strategy [14-15], the other is to contribute intelligences and suggestions for implementing this Chinese major strategy[1,16].For example, Liu etal. [17] took provincial region as research unit to evaluate the coupling coordination degree and the interactive response relationship between ecological protection and high-quality development in the Yellow River Basin; Under the guidance of important ideas such as sustainable development, harmony between humans and water and ecological civilization， Zuo et al.[18] constructed a research framework for selecting high-quality development path in the Henan section of the Yellw River Basin; Wang and Miao [19] organized an album on high-quality development of the Yellow River basin published in the Journal of Natural Resources, aimed at providing suggestions for the practice of urban-rural coordination,ecological protection,resource allocation,economic development and cultural inheritance in the Yellow River Basin. On the whole,the local governments at all levels,scholars and all walks of life in the Yellow River Basin are currently working together and striving to protect and harness the Yellow River and improve the quality of regional economic and social development. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Public sense of gain (hereinafter referred to as PSG),a brand new concept put forward by Chinese President Xi Jinping for the first time on February 27,2015,has been generally accepted as the goal of reform and development in Chinese new era, and as the benchmark and standard of good governance in Chinese new era [20]. The new concept fully reflects the new changings and demands of Chinese people's yearning for theirbeter life,and ithas soon become oneof the hot issues in various fields,the researchers have also been developing a lot of theoretical discussions and qualitative analysis around this concept [21]. Based on the empirical analysis of three ancient towns in Shanghai, Huang et al.[22] studied the evaluation and influence mechanism of rural development of ancient towns. Zhang and Liu [23] used the data of China's general social survey (CGSS) to measure the PSG on participation in basic medical insurance.Wen and Liu [24] researched the trends and disparities empirical analysis of the PSG based on Chinese urban and rural social governance dada. Wang et al. [25] researched on the factors of poverty subjects'acquired sense under the background of E-commerce poverty alleviation. Huang [26] explored the influential factors and boosting approaches of ecological sense of gain based on the essence of the sense of gain. Wang et al. [27] explored the mediating effect of community identity between socioeconomic status and sense of gain in Chinese adults by analyzing nationally representative samples of 28,300 adults from the China Family Panel Studies. Zuo et al. [28] took the Happy River Index (HRI) as an integrated index of river health and human well-being and established an HRI assessment framework for the Yellow River Basin. Besides,some researchers payed close attentions to the macro mechanism, evaluation system and evaluation methods of PSG[21,29-32]. However,for the concept of PSG, there have yet no consistent methods currently on scientific quantitative research, comprehensive mechanism investigation and temporal and spatial changes analysis. Especially, there are few published research achievements about the PSG on YB conservation and development at present. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Consequently, it is timely and required to take the PSG as the general benchmark and standard to guide the strategy implementations and to measure the development achievements of YB Conservation and Development. Considering the PSG is an important macroscopic indicator to measure the good national governance，it is necessary to obtain and describe the subjective psychological cognitive information of the public from all walks of life,and analyze the main influencing factors and spatiotemporal evolution modes of the PSG on the provincial level or a larger regional. Based on this research framework, the research conclusions can not only provide decision bases and policy references for provincial governances on YB Conservation and Development, butin the sense of social science, it can also form panel data to analyze and judge the causal connotation,which is more valuable than cros-sectional dataat the individual level.This research attempts to construct the logical structure of the PSG and YB conservation and development,explore their logical principles and transmission mechanisms,and then make a preliminary empirical study to exam the PSG in the Yellow River Basin at the beginning of this Chinese strategy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The rest of this paper is arranged as follows. Section 2 explores and explains the logical relationship of the PSG and YB conservation and development; And accordingly，section 3 tries to develop a hierarchical index system and carry out an empirical study in the Yellow River Basin based on the data of Chinese Social Survey in 2019 (hereinafter referred to as CSS2019) to exam the PSG on YB conservation and development at the beginning of this Chinese strategy， and then put forward some pertinent suggestions. Concluding remarks are mentioned in Section 4. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. The logical relationship of the PSG and YB conservation and development ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sense of gain is a much localized concept of China,it should be understood from the background of China in the New Time, including expanded in-depth reform agenda, changing economic and social development modes,and realizing shared development and so on [33].There is no complete consensus currently on the specific definition and theoretical connotation of the PSG, but more positively,a growing number of scholars and researchers accept that the PSG should be selected as the most appropriate criteria to measure the efectiveness of Chinese government reform and governance [20]. They generaly agree with the following standpoints: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1) The PSG is a positive subjective feeling of the general public after their actual gains,and there are significant differences in the PSG among the social groups of different characteristics; (2)The measurement and improvement of the PSG should take into account the following factor dimensions，such as the objective benefits and subjective feelings in the individual psychological dimension, the unbalanced distribution of group mood in the social groups dimension,and the dynamic variability because of policy implementation in the time dimension; (3)The PSG should be considered from the macro socio-economic and political process of a country or region; it can be divided into dominant sense of gain and recessive sense of gain, where the dominant sense of gain includes income, medical insurance, education and pensions and so on,and the recessive sense of gain includes fairness and justice, democracy, civilization and value recognition and so on. (4) The research on PSG should pay special atention to the investigation and improvement of the sense of gain of the underprivileged groups and ordinary people, so as to reflect the obvious \"bottom\" consciousness of national governance and the essential meanings of this brand-new concept. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Accordingly, the PSG on YB conservation and development can be specifically defined.In a certain period since the national major strategy of YB conservation and development has been implemented, the PSG represents the further subjective psychological welfare increment generated by the local general public,after they obtain material，health or psychological welfare effectively from the process of ecological protection and harness and economic high-quality development. According to this definition, the essential connotation of the PSG is the subjective psychological welfare including high economic and social properties, high comparison properties and high dynamic characteristics [21]. This paper attempts to develop a logical structure diagram of the PSG and YB conservation and development (see Figure 1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figurel tries to reflect the logic relationship and transmission mechanism of YB conservation and development. The influences of this Chinese strategy on the economic and social development of the Yellow River Basin are extensive and far-reaching，including various aspects such as economic development, governmental services, ecological civilization and people's livelihood and so on,thus it is dificult to measure allthe subjective and objective changes with indicators alone. Just as Xi Jinping said, the general goal of YB conservation and development is to make the Yellow River a happy river for the people,and all work should folow these principles such as to make people's life better, people-centered and to work for people's general happiness and so on. Thus all of our work,whether the ecological conservation and harness of the Yelow River Basin or the high-quality development of the Yelow River Basin,willreturn to te work of people-oriented,which is attributed to thecognitions and feelings of the general public in the Yellow River Basin. Consequently, it is scientific and reasonable to take PSG as evaluation standard and build the corresponding evaluation system to measure the achievements of the YB conservation and development. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Besides,the logical structure diagram is highly accords with the general goal of “Happy River\", which was determined by Ministry of Water Conservancy of China, including flood control and safety protection, high quality water resources, healthy water ecology, livable water environment and advanced water culture [15,34]. The measurement system of high-quality development level of the Yellow River Basin has not yet officially released,and the researches are stillin its infancy. But according to the existing literatures [8-9,18,35-36], the achievements of high-quality development of the Yellow River Basin ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dfeaa56a2edf8dff7f0bcb48af8c5ff39496619f0e050d6a34946833f920175.jpg",
+        "img_caption": [
+            "Figurel.The logical structure diagram of the PSG and YB conservation and development "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "should be evaluated from the following five aspects at least: (1） Remarkable benefits of economic development; (2) Better trend of innovation driven development; (3) Significant improvement of people's livelihood;(4) Substantial improvement of environmental deterioration; (5） Prosperity of ecological culture industry. They basically coincide with the connotation and strategic direction of high-quality development of the Yellow River Basin. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The logic relationship of high-quality development and ecological conservation and harness of the Yellow River Basin is dialectical unity [8]. Ecological conservation and harness of the Yellow River Basin can provide theoretical framework and regulatory constraints for high-quality development of the Yellow River Basin,and ensure its sustainable development; meanwhile, without the important foundation of high-quality development of the Yellow River Basin, ecological conservationand harness of the Yellow River Basin cannot be carried out smoothly.A scientific and reasonable evaluation system of the PSG on YB conservation and development can not only carry out the necessary regulatory constraints,but also provide direction and ideas for YB conservation and development. Therefore, the investigation and examining of PSG on YB conservation and development should cover a wider public in the Yelow River Basin, including the local ordinary residents,the policymakers in government, the media workers,the businessmen, the scholars and researchers,and the non-governmental organizations (NGOs)/ non-profit organizations (NFOs)/community-based organizations (CBOs) and so on. Therefore,it is necessary to carry out large-scale social surveys regularly and continuously to obtain the fundamental data of the PSG on YB conservation and development. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fortunately, since 2006,Chinese Academy of Social Sciences (CASS) has established Chinese social quality data archive and regularly opened Chinese social survey data to the public. These data are collected in strict accordance with the sampling survey rules and cover a wide range of China,and the data involve the employment status,social lives and atitudes of the public across China. Thus the Chinese social survey (CSs) data can be used as important references to carry out this research. As a tentative research,the social survey data of CSS2019,which was released free of charge by CASS to the whole society at the end of December $2 0 2 0 \\textcircled { 1 }$ ，will be used in this paper to exam the PSG on YB conservation and development at the beginning of the national strategy. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Empirical study of the PSG on YB conservation and development ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Description of the study area ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From the perspective of natural geographical boundaries, the Yellow River has a total length $5 4 6 4 k m ,$ it flows through 9 provinces of China, including Qinghai, Sichuan, Gansu, Ningxia, Inner Mongolia, Shanxi, Shaanxi, Henan and Shandong, with a drainage area of $7 9 5 0 0 0 k m ^ { 2 }$ (including the inner drainage area of $4 2 0 0 0 \\ k m ^ { 2 } ,$ ),and the Yellow River Basin involves 71 prefecture-level cities of the above 9 provinces and 1 county-level city directly under the provincial government [37-38]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that, there are 91 prefecture-level cities covered in the Chinese major strategy of YB Conservation and Development, including all regions of the following 7 provinces such as Qinghai, Gansu,Ningxia, Shanxi, Shaanxi, Henan and Shandong,and 6 cities and 1 county in western Inner Mongolia and 2 autonomous prefectures in northwest Sichuan [1], see Figure 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2b1cc22ef1f302abbe2247a039e162ef148fb80efaf16e6c9398fc8bc3d2954.jpg",
+        "img_caption": [
+            "Figure2. The boundary of the Yellow River Basin determined by the Chinses strategy "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From the perspective of economic and social development,the Yellow River Basin has the total population of 324 million, accounting for $2 3 . 3 1 \\%$ of the total population of China in 2019, having an average population density of 408 persons per square kilometer; the Yellow River Basin has the gross domestic product (GDP) of 19.4 trillion yuan, accounting for $2 1 . 5 5 \\%$ of the total national GDP of China in 2018, having per capita GDP of 59.88 thousand yuan. Among them,the total population of Henan Province and Shandong Province in the lower reaches of the Yellow River accounts for $6 0 . 6 2 \\%$ of the total population of the Yellow River Basin in 2019,and they also contributed $6 4 . 1 9 \\%$ of the GDP of the Yellow River Basin in 2018.However, the general economic and social development situation of the Yellow River Basin lags behind the situation of the whole country，and the gap between its macro-economic development level and that of the whole country has a downward trend [1]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Source of data ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CSS2019 is the latest issue of cros-sectional data published so far,it has collected 10283 valid questionnaires from more than 11000 urban and rural families in 149 cities (counties and districts) of 31 provinces (autonomous regions and province-level municipality). The research topics of CSS2019 is social quality and social class change，and its survey covers family employment, economic status, living conditions, social security social values and social evaluation,social participation and social evaluation, social participation and political participation, voluntary service and so on. According to the previous analysis, the survey topics and contents of CSS2O19 are consistent with this study, so its raw data can be used for empirical analysis. However, there are great differences of the survey frequency in the main provinces of the Yellow River Basin in CSS2019.The survey frequency in CSS2019 and some statistical data of economic and social development of seven provinces in the Yellow River Basin are listed and shown in Table 1 and Figure 3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/11292b47c60e687872b17a249ff9d1314b6b0b878f4cb0d57403d5baaf21de01.jpg",
+        "table_caption": [
+            "Table1.The comparisons of survey frequency and economic social conditions in the Yellow River Basin@ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">The divisions of the Yellow River Basin</td><td colspan=\"5\">The middle and upper reaches of the Yellow River(Ai)</td><td rowspan=\"2\">Henan (A2)</td><td rowspan=\"2\">Shandong (A3)</td><td rowspan=\"2\">China (Ac)</td></tr><tr><td>Qinghai</td><td>Gansu</td><td>Ningxia</td><td>Shaanxi</td><td>Shanxi</td></tr><tr><td rowspan=\"2\">The survey frequency in CSS2019</td><td>55</td><td>147</td><td>32</td><td>236</td><td>206</td><td>672</td><td>595</td><td>10283</td></tr><tr><td>2965.95</td><td>8178.30</td><td>676 3748.48</td><td>25793.17</td><td></td><td></td><td></td><td></td></tr><tr><td>The GDP in 2019/100 million yuan</td><td></td><td></td><td>57712.58</td><td></td><td>17026.68</td><td>54259.20</td><td>71067.53</td><td>990865.1</td></tr><tr><td>The year-end population in 2019 /10 thousand people</td><td>554</td><td>2551</td><td>618</td><td>3718</td><td>3411</td><td>9429</td><td>9417</td><td>140005</td></tr><tr><td>The PCDI in 2019 /Yuan</td><td>22617.7</td><td>19139.0</td><td>10852 24411.9</td><td>24666.3</td><td></td><td>23902.7</td><td>31597.0</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>23828.5</td><td></td><td></td><td>30732.8</td></tr><tr><td>The CONSP in 2019/Yuan</td><td>17544.8</td><td>15879.1</td><td>18296.8</td><td>17544.8</td><td>15862.2</td><td>16331.8</td><td>20427.5</td><td>21558.9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/513f7c6b17f26378b2fd0f0de3da47df03b731cfce08e08fa988d0c6e86e9c17.jpg",
+        "img_caption": [
+            "Figure3.The comparisons of PCDI and CONSP in 2019 of 7 provinces in the Yellow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It can be seen from Table 1 that the sum of survey frequencies of 5 provinces in the middle and upper reaches of the Yellow River is nearly the same as the survey frequency of Henan province and Shandong province in CSS2019.Similarly, the sum of both the GDP and year-end population of these 5 provinces are very close to both the GDP and year-end population of Henan and Shandong. And from Figure 3 and Table 1，the Per Capita Disposable Income (PCDI) and the Per Capita Consumption Expenditure (CONSP), which can be used to measure the living conditions of people ina region,have little differences in their statistical data of the 7 provinces,and they are both listed below the Chinese average (except the PCDI data of Shandong province). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Therefore, in order to ensure the regional integrity and the survey frequency balanced according to CSS2019,this paper divided the Yellow River Basin into 3 parts: the middle and upper reaches of the Yellow River, Henan Province and Shandong Province,where the middle and upper reaches of the Yellow River includes 5 provinces (autonomous regions)of Qinghai, Gansu, Ningxia, Shaanxi and Shanxi. The rest regions of this Chinese major strategy of YB Conservation and Development, including 9 cities (county or autonomous prefectures) in northwest Sichuan and western Inner Mongolia (see Figure 2), are not considered in this paper. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Eualuationindex system ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Under the framework of this Chinese major strategy and the logical structure of its PSG (Figure 1), this research selects the influencing factors of the PSG on YB Conservation and Development based on the questionnaire published by CSS2019,literature analysis and on-site interviews,and ensures the consistency of selected evaluation indexes through repeated argumentation by experts. Finall，the evaluation index system of the PSG on YB conservation and development, including 5 factor dimensions and 25 evaluation indices,is constructed for empirical analysis,and the index weight is also determined according to the AHP method, as shown in Table 2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）The PSG on economic situations of individual and family (E). This factor dimension mainly investigates the satisfaction and subjective felings of the respondents due to the improvement of family and individual income,economic situations and socio-economic level.There are 5 indices selected such as socio-economic level at present (E1)，socio-economic level five years ago (E2)，conditions of household income and expenditure (E3),satisfaction with family's economic situation $\\left( \\mathrm { E } _ { 4 } \\right)$ and satisfaction with current life (E5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)The PSG on living environment (L). This factor dimension mainly examines the subjective feelings and evaluations of the respondents due to the improvement of the living environment and the positive efforts made by local government to improve the environment. There are 5 indices selected such as Air pollution (L1)，Water pollution (L2)， Noise pollution (L3)，The other pollution including land polution, electromagnetic ionizing radiation pollution etc. (L4)，Work for protection and harness the living environment by local government (L5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）The PSG on government public services (G).This factor dimension mainly reflects the subjective feelings and recognition of the masses of the people on the quality of public services based on the adequacy, convenience and balance of public services provided by the government, including 6 indices as follows: Basic social securities $( \\mathbf { G } _ { 1 } )$ such as pension,medical care,employment, subsistence allowances and basic security housing and so on, Cracking down on crimes and maintaining public order $( \\mathbf { G } _ { 2 } )$ Developing economy and increasing people's income $( \\mathbf { G } 3 ) .$ ，Enthusiasm and effect of serving the people(G4), Providing high quality educational resources and ensuring educational equity $( \\mathbf { G } 5 ) .$ and Ensuring food and drug safety(G6). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4)The PSG on social civilizations (S). This factor dimension mainly researches the evaluation and recognition degree of the general public on the promotion of the overall civilization of the society due to the high-quality development of the economy, including 5 indices as follows: the Social trust level (S1) betwen people; the Social tolerance degree (S2) on the group of beggars, AIDS patients, homosexuals etc.; the Social equity level (S3) about distribution of wealth, judicatory and administrative execution,public health care, job opportunities and political rights etc.; the Modern citizen morals level $( S _ { 4 } )$ of the general public; and the Observe law and discipline level (S5) of the general public. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(5)The PSG on people's individual self-fulfillments (I).This factor dimension mainly studies the mentalexperiencesemotional satisfaction ofpeople'sindividual self-efficiency，development opportunities and development capabilities.There are 4 indices selected such as Current job satisfaction degree (I),Life reality fits the ideal (Iz), Believing that the God willalways reward the diligent (I3)and Socio-economic level in next 5 years (I4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4Eualuationmethods ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) Data preprocessing. In the raw database of CSS2019,the data of some indices are missing, overflowing the routine evaluation criteria (e g.\"-8 Unclear\",\"98-Unclear\"),and the evaluation criteria of some indices are inconsistent,for example,1-10 scale,1-5 scale,and1-4 scale.In addition,the polarity definitions of some evaluation indices are also inconsistent, for example, the score ${ } ^ { \\prime \\prime } 1 ^ { \\prime \\prime }$ means \"Upper-class\" or “Very good\" when indicating one's local socio-economic level or one's evaluation on ensuring food and drug safety by local government, but the score $^ { \\prime \\prime } 1 ^ { \\prime \\prime }$ means “very dissatisfied\" when indicating one's overall satisfaction degree with his/her current life.Therefore,in order to build the unified evaluation methods, this paper designs the following principles to preprocess the raw data of CSS 2019 of the study area. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0bf7ce0b8521b0f26382a60d42ac9597a0386400672c94c69b9d761876605476.jpg",
+        "table_caption": [
+            "Table2.The evaluation index system of the PSG on YB conservation and development "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>diFactsions</td><td> Evaluation indices</td><td> Index description and quantitative assignment in CSS2019</td><td>Wedgext</td></tr><tr><td rowspan=\"8\">Economic situations (E, 0.4534)</td><td colspan=\"2\"></td><td>0.0646</td></tr><tr><td colspan=\"2\"></td><td>0.0338</td></tr><tr><td colspan=\"2\">odi expenditure (E3) Income less than expenditure; 8- Unclear.</td><td>0.1401</td></tr><tr><td colspan=\"2\">Si</td><td></td></tr><tr><td colspan=\"2\">situation (E4) very satisfied. Whatisyouroveallstisfacgreeitrrtlife-pontsysmicheaseysaisdandeasveid</td><td></td></tr><tr><td colspan=\"2\">Satisfaction with current life (E5) Howseriousis theairpolltininoursidentialareas?1-reserous;2-Srous;3-essrious; 4-Nothngsous;-Uclear</td><td>0.5200</td></tr><tr><td colspan=\"2\">Air pollution (L1)</td><td>0.1590</td></tr><tr><td colspan=\"2\">Water pollution (L2) Noise pollution (L3)</td><td>Howserious is te waterpolutininyurresdentalareas1-Moreserous;2-Serous;3-Leserios;4-Notingserous;Unclear. 0.2601</td></tr><tr><td colspan=\"2\">Living environment Other pollution (L4)</td><td>Howseriousis tenosepollutioinouresidentialareas?1-Moreserious; 2-Serious;3-Lesseus4-Ntingsers;8-Uclea.</td><td>0.0745</td></tr><tr><td colspan=\"2\">(L, 0.2059) Work of protection and harness (L5)</td><td>Hoseriouisd; Less serious; 4-Nothing serious; 8- Unclear. Whatis yourevaluationonenviromental protetionandharessbylocalgoverment?1-Veryood;2-Good;3-Bad;4-Veryad;8</td><td></td></tr><tr><td colspan=\"2\"></td><td>Unclear. Whatis yoursatisfactiodegreonthebasicsocialscurities providedbyocal goverentsuchaspension,medicalcare,epoynt</td><td>0.4695</td></tr><tr><td colspan=\"2\">Basic social securities (G1)</td><td>subsistencealoadisidetid means unclear.</td><td></td></tr><tr><td colspan=\"2\">i igderG)</td><td></td><td></td></tr><tr><td colspan=\"2\">(G, 0.1025) Increasing people's income(G3)</td><td>Whatis your evaluationonincreasing people'sincomebylocalgoverment?1-Very good;2-Good;3-Bad;4- Verybad;-Unclear</td><td>0.2302</td></tr><tr><td colspan=\"2\">Serving the people(G4)</td><td>What is your evaluation on serving the peoplebylocal government?1- Very good; 2-Good; 3-Bad;4- Verybad;8-Unclear.</td><td>0.0400</td></tr><tr><td colspan=\"2\">Ensuring educational equity(G5)</td><td>Whatis yourevaluationonensuringeducationalequitybylocalgovement?1-Verygood;2-Good;3-Bad;4-Verybad;8-Unclear.</td><td>0.0276</td></tr><tr><td colspan=\"2\">Ensuring food and drug safety(G6)</td><td>Whatis yourevaluationonensuringfoodanddrugsafetybylocalgovement?1-Verygood;2-Good;3-Bad;4-Verybad;-Unclear.</td><td>0.0960</td></tr><tr><td colspan=\"2\">Social trust level (S1)</td><td>What is your evaluationontherustlevelbetweenpeople?10-pointsystem,inwhich1meansverydistrustand10meanserytrust.</td><td>0.0659</td></tr><tr><td colspan=\"2\">Social Social tolerance degree (S2)</td><td>Whatis yourevaluationonthesocialtolerancedegre?1-pointsystem,inwhich1meansvery intolerantand10meansverytolerant.</td><td>0.0515</td></tr><tr><td colspan=\"2\">civilizations Social equity level (S3)</td><td>What is your evaluation on the social equity level? 10-point system, in which1 means very unfair and 10 means ery fair.</td><td>0.1095</td></tr><tr><td colspan=\"2\">(S, 0.0433) Modern citizen morals level (S4)</td><td> What is your evaluation on modercitizen morals level? 10-point system,in which1 means very bad and 10 means very good.</td><td>0.2369</td></tr><tr><td colspan=\"2\">Observe law and discipline (S5) Current job satisfaction degree (I1)</td><td>Whatis our evaluationonthelevelofobservelawaddiscipline?0-pointsystem,inwhich1meansverybadand10meansverygood.</td><td>0.5362</td></tr><tr><td colspan=\"2\">Individual</td><td>Whatis yoursifactiogeruntjb?tstm,inicesvyaisfed,easerid98 means unclear.</td><td>0.1511</td></tr><tr><td colspan=\"2\">Life reality fits the ideal (I2) self-fulfillments</td><td>Doyouagrheatetatlifisoulieieal-trogl;sicallyd;-rtialle;4- Strongly disagree; 8- Unclear.</td><td>0.0757</td></tr><tr><td colspan=\"2\">(L, 0.1949)</td><td></td><td></td></tr><tr><td colspan=\"2\">reward the diligent (I3) Socio-economic level in next5 years (I4)What is your local socio-economic level in the next 5 years? 1</td><td>4- Strongly disagree; 8- Unclear. iddle; 5-Underclass; 8- Unclear.</td><td>0.4718</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a. Imputing missing data. If the missing data of an index accounts for less than $1 0 \\%$ of the total survey,the missing data willbe imputed according to the moderate (or median) value of its evaluation scale,for example 6of 1-10 scale, 3 of 1-5 scale etc.If the missing data of an index accounts for more than $9 0 \\%$ of the total survey, this index should be removed from the evaluation index system in Table 2. Otherwise, the obtained raw data can be directly used instead of imputing missing data. b.Removing overflow data. The amount of the data overflowing the routine evaluation scale in CSS2019 is extremely small, thus the overflow data can be removed from the raw data. c.Evaluation scales consistency processing. This research will consistency process the other evaluation scales according to the 10-point system (1-10 scale) and the processing methods and results are shown in Table 3. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d2a0b8762754bd5fffe7a7d369e2d3c42a12e3be1a9a5722c46f504d1126bf9e.jpg",
+        "table_caption": [
+            "Table3.The consistent processed scales according to the 10-point system "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>NO.</td><td>The original scales in CSS2019</td><td>The consistent processed scales in this research</td><td>Index in Table2</td></tr><tr><td>1</td><td>1-dler-und2-Upper midle 3-Midde 4-Lower</td><td>2-UppermidleUppermidle 6-Middle;</td><td>E1,E2,I4</td></tr><tr><td>2</td><td>1-Income over spending; 2-Income and expenditure balance; 3-Income less than expenditure</td><td>3-Income less than expenditure; 6-Income and expenditure balance; 9-Income over spending</td><td>E3</td></tr><tr><td>3</td><td>1-Moreserious;2-Serious; 3-Lessserious; 4-Nothing serious</td><td>1-Moreserious;3-Serious;6-Lessserious; 9-Nothing serious</td><td>L1, L2, L3,L4</td></tr><tr><td>4</td><td>1-Very good (Strongly agree)； 2-Good (Basically agreed);3-Bad(Partiallydisagree);4-Verybad (Strongly disagree)</td><td>1-Very bad (Strongly disagree); 4- Bad(Partially disagree);7-Good (Basically agreed)；10-Very good (Strongly agree)</td><td>L5, G2, G3, G4, G5, G6,I2,I3</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) Evaluation methods. Since the respondents who provided the survey data came from the same region and had their same concerns,the statistical histogram of the survey data of a certain index in the same region generally shows the characteristics of high in the middle and low at both ends,accordingly, it can be primarily concluded that the survey data of a certain index in the same region may obey normal distribution, $t { \\cdot }$ -distribution and log-normal distribution [39]. More importantly，it has been generally accepted that the human cognitions usually have the essence of fuzzy uncertainty， and the fuzzy membership function of normal distribution is the most suitable one to describe the human fuzzy cognitions [40-43]. In the large scale social survey, the respondents are often asked to provide accurate numbers (for example,any number in 1-10) to indicate their subjective cognitions for a certain evaluation object,and the accurate numbers sets are often strictly analyzed with mathematical statistics theory to draw some conclusions. Actually, the research methods on social survey data with rigorous statistical theory are not entirely reasonable，because the accurate numbers still represent the fuziness and randomness of the respondents'cognitions and responses，instead,the theories and methods of uncertainty decision-making can be tried， for example， the fuzzy and stochastic multi-criteria decision-making methods [44-45]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Consequently, let $X _ { i j } = \\left\\{ x _ { i j } ^ { 1 } , x _ { i j } ^ { 2 } , \\cdots , x _ { i j } ^ { q } , \\cdots , x _ { i j } ^ { n } \\right\\}$ be the processed survey data collection of the $j ^ { t h }$ evaluation index of the study region $A _ { i } ( i = 1 , 2 , 3 )$ as defined in section 3.2, where $\\boldsymbol { x } _ { i j } ^ { q } \\in [ 1 , 1 0 ]$ is the evaluation score of the $q ^ { t h }$ （2 $( q = 1 , 2 , \\cdots , n )$ respondent and $n$ is the total number of respondents of the $j ^ { t h }$ evaluation index and the study region $A _ { i }$ . This research makes the following assumptions: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Assumption 1: The public overall cognitions $X _ { i j } ^ { \\Delta }$ on the $j ^ { t h }$ evaluation index of the study region $A _ { i }$ can be described by the membership function of normal distribution with expectation $\\mu _ { i j }$ and variance $\\sigma _ { i j } ^ { 2 }$ , written as $X _ { i j } ^ { \\Delta } \\sim N ( \\mu _ { i j } , \\sigma _ { i j } ^ { 2 } )$ ；   \nAssumption 2: The survey data collection $X _ { i j } = \\left\\{ x _ { i j } ^ { 1 } , x _ { i j } ^ { 2 } , \\cdots , x _ { i j } ^ { q } , \\cdots , x _ { i j } ^ { n } \\right\\}$ provided by randomly selected $n$ respondents can be regarded as a sample set of the overall distribution $X _ { i j } ^ { \\Delta } \\sim N ( \\mu _ { i j } , \\sigma _ { i j } ^ { 2 } )$ ：   \nAssumption 3: When there are enough samples $( n \\geq 5 0$ ), the sample set $X _ { i j } = \\left\\{ x _ { i j } ^ { 1 } , x _ { i j } ^ { 2 } , \\cdots , x _ { i j } ^ { q } , \\cdots , x _ { i j } ^ { n } \\right\\} \\mathrm { c a n }$ be used to estimate the expectation $\\mu _ { i j }$ and variance $\\sigma _ { i j } ^ { 2 }$ of the overall distribution $X _ { i j } ^ { \\Delta } \\sim N ( \\mu _ { i j } , \\sigma _ { i j } ^ { 2 } )$ , written as $\\hat { \\mu } _ { i j }$ and $\\hat { \\sigma } _ { i j } ^ { 2 }$ respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Based on the above assumptions, the survey data collection $X _ { i j } = \\left\\{ x _ { i j } ^ { 1 } , x _ { i j } ^ { 2 } , \\cdots , x _ { i j } ^ { q } , \\cdots , x _ { i j } ^ { n } \\right\\}$ can be aggregated and approximately represented by normal distribution information $N ( \\hat { \\mu } _ { i j } , \\hat { \\sigma } _ { i j } ^ { 2 } )$ .Maybe, （204号 $X _ { i j } \\sim N ( \\hat { \\mu } _ { i j } , \\hat { \\sigma } _ { i j } ^ { 2 } )$ cannot pass the strict normality test with statistical theory, but it doesn't matter， the further research of this paper is the PSG evaluation rather than strict statistical analysis,thus the above approximate distribution assumptions can do well. After that, the problem to evaluate the PSG has been in fact transformed into a multi-criteria large group decision-making problem under fuzzy and stochastic uncertainty environment in this paper. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In summary， the evaluation methods are designed as follows. Firstly， approximately analyze the normal distribution characteristics with the statistical histograms of the survey data colection,if there is a slight deviation,use the P-P graph or Q-Q graph method by SPSS to remove the outliers,or to adjust the outliers according to the principle of proximity; then,estimate the parameters of $X _ { i j } \\sim N ( \\hat { \\mu } _ { i j } , \\hat { \\sigma } _ { i j } ^ { 2 } )$ and aggregate the comprehensive evaluation information with normal distribution according to the index weights in Table 2.Finally,calculate the dominance values for evaluation objects [46] and construct their dominance matrix,by which, the comprehensive evaluation results of the PSG on YB conservation and development can be output based on the idea of PROMETHEE I [47-49], the cause analysis and policy recommendations can be conducted accordingly.The framework of evaluation methods of the PSG on YB conservation and development is shown as Figure 3. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Reprocess the outliers No Estimate Aggregate Calculate Normal The distribution Yes parathers thesurvey the riative Ovaluthe   \nThe raw Approx?   \nDatabase PDatabed charatyrisio ditrmalon approxima between thsultsGf tely ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In Fig.3,the parameters of normal distribution $N ( \\hat { \\mu } _ { i j } , \\hat { \\sigma } _ { i j } ^ { 2 } )$ can be estimated based on the point estimate method which has been widely accepted ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\mu } _ { i j } = \\frac { 1 } { n _ { i j } } \\sum _ { q = 1 } ^ { n _ { i j } } x _ { i j } ^ { q }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\sigma } _ { i j } = \\sqrt { \\frac { 1 } { n _ { i j } - 1 } \\sum _ { q = 1 } ^ { n _ { i j } } ( \\mathbf { x } _ { i j } ^ { q } - \\boldsymbol { \\mu } _ { i j } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "According to equation (1)-(2), the density function of normal distribution $N ( \\hat { \\mu } _ { i j } , \\hat { \\sigma } _ { i j } ^ { 2 } )$ can be written as ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } ^ { j } ( x ) = \\frac { 1 } { \\sqrt { 2 \\pi } \\hat { \\sigma } _ { i j } } e ^ { - ( x - \\hat { \\mu } _ { i j } ) ^ { 2 } \\big / 2 \\hat { \\sigma } _ { i j } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Next, this research tries to use only one normal distribution to approximately aggregate all of the survey data on the PSG of the study region $A _ { i } ,$ written as $f _ { i } ( x )$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } ( x ) = \\sum _ { j = 1 } ^ { N _ { j } } w _ { i j } f _ { i } ^ { j } ( x )\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Because $f _ { i } ^ { j } ( x )$ is a normal distribution density function, $f _ { i } ( x )$ is also a normal distribution density function according to the linear property of normal distribution, then ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } ( x ) = \\frac { 1 } { \\sqrt { 2 \\pi } \\hat { \\sigma } _ { i } } e ^ { - ( x - \\hat { \\mu } _ { i } ) ^ { 2 } \\left/ 2 \\hat { \\sigma } _ { i } ^ { 2 } \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Where: $\\hat { \\mu } _ { i } = \\sum _ { j = 1 } ^ { N _ { j } } w _ { i j } \\hat { \\mu } _ { i j } , \\hat { \\sigma } _ { i } = \\sqrt { \\sum _ { j = 1 } ^ { N _ { j } } w _ { i j } ^ { 2 } \\hat { \\sigma } _ { i j } ^ { 2 } } ~ ; ~ W _ { i } = \\left( w _ { i 1 } , w _ { i 2 } , \\cdots , w _ { i j } , \\cdots , w _ { i N _ { j } } \\right) \\mathbf { i }$ s the indices weight vector on the PSG of the study region $A _ { i }$ and $N _ { j } = 5 , 5 , 6 , 5 , 4$ which has been given in Table 2. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This research tries to use dominance matrix method to comprehensively evaluate the PSG of the study regions on YB conservation and development. According to reference [50], the dominance between ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "any two continuous distributions $f _ { 1 } ( x ) , f _ { 2 } ( x )$ s $D _ { f _ { 1 } > f _ { 2 } }$ ，where $D _ { f _ { 1 } > f _ { 2 } } = \\int _ { - \\infty } ^ { + \\infty } \\int _ { - \\infty } ^ { x _ { 1 } } f _ { 1 } ( x _ { 1 } ) f _ { 2 } ( x _ { 2 } ) d x _ { 2 } d x _ { 1 }$ .Then the dominance value for any two evaluation objects described by normal distribution $Z _ { i }$ over $Z _ { i ^ { \\prime } }$ can be written as follow ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { Z _ { i } \\succ Z _ { i ^ { \\prime } } } = D _ { f _ { i } ( x ) \\succ f _ { i ^ { \\prime } } ( x ) } = \\frac { 1 } { \\sqrt { 2 \\pi } } \\int _ { - \\infty } ^ { \\frac { \\mu _ { i } - \\mu _ { i ^ { \\prime } } } { \\sqrt { \\sigma _ { i } ^ { 2 } + \\sigma _ { i ^ { \\prime } } ^ { 2 } } } } e ^ { - t ^ { 2 } / 2 } d t = \\int _ { - \\infty } ^ { \\frac { \\mu _ { i } - \\mu _ { i ^ { \\prime } } } { \\sqrt { \\sigma _ { i } ^ { 2 } + \\sigma _ { i ^ { \\prime } } ^ { 2 } } } } \\frac { 1 } { \\sqrt { 2 \\pi } } e ^ { - t ^ { 2 } / 2 } d t\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the same way, the dominance of $A _ { i ^ { \\prime } }$ over $A _ { i }$ $( i , i ^ { \\prime } = 1 , 2 , 3$ ）can be written as follow ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { Z _ { i } \\sim Z _ { i } } = D _ { f _ { i ^ { \\prime } } ( x ) \\sim f _ { i } ( x ) } = \\frac { 1 } { \\sqrt { 2 \\pi } } \\int _ { - \\infty } ^ { \\frac { \\mu _ { i ^ { \\prime } } - \\mu _ { i } } { \\sqrt { \\sigma _ { i ^ { \\prime } } ^ { 2 } + \\sigma _ { i } ^ { 2 } } } } e ^ { - t ^ { 2 } / 2 } d t = \\int _ { - \\infty } ^ { \\frac { \\mu _ { i ^ { \\prime } } - \\mu _ { i } } { \\sqrt { \\sigma _ { i ^ { \\prime } } ^ { 2 } + \\sigma _ { i } ^ { 2 } } } } \\frac { 1 } { \\sqrt { 2 \\pi } } e ^ { - t ^ { 2 } / 2 } d t\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The dominance values of $D _ { Z _ { i } \\succ Z _ { i ^ { \\prime } } } , D _ { Z _ { i ^ { \\prime } } \\succ Z _ { i } }$ can be obtained by querying the standard normal distribution table,and they can be writen as $d _ { i i ^ { \\prime } } , d _ { i ^ { \\prime } i }$ . Accordingly, the dominance matrix of the PSG among $m$ evaluation objects on YB conservation and development can be established as $D = \\left[ \\begin{array} { c c c c } { d _ { 1 1 } } & { d _ { 1 2 } } & { \\cdots } & { d _ { 1 m } } \\\\ { d _ { 2 1 } } & { d _ { 2 2 } } & { \\cdots } & { d _ { 2 m } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { d _ { m m } } & { d _ { m m } } & { \\cdots } & { d _ { m m } } \\end{array} \\right] ,$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where m can be set according to the changes of the number of evaluation objects. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The degree of the PSG on YB conservation and development to which $Z _ { i }$ is superior and inferior to all other evaluation objects can be written as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi _ { i } ^ { + } = \\sum _ { i ^ { \\prime } = 1 } ^ { m } d _ { i i ^ { \\prime } } , \\varphi _ { i } ^ { - } = \\sum _ { i ^ { \\prime } = 1 } ^ { m } d _ { i ^ { \\prime } i }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the net dominance of $Z _ { i }$ can be calculated as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi _ { i } = \\varphi _ { i } ^ { + } - \\varphi _ { i } ^ { - } = \\sum _ { i ^ { \\prime } = 1 } ^ { m } d _ { i i ^ { \\prime } } - \\sum _ { i ^ { \\prime } = 1 } ^ { m } d _ { i ^ { \\prime } i }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Finally, the net dominance of each evaluation object can be regard as its comprehensive evaluation result of the PSG on YB conservation and development, by which the further decision analysis and policy recommendations can be conducted. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4 Analysis of empirical results ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "First of all, the raw data of CSS2019 is preprocessed according to the evaluation index system (Table 2) and the methods designed in section 3.3,and their evaluation scales are unified to 10-point system. It should be noted that the index of \"Other pollution (L4)\" has been finally removed from the evaluation index system in this case,and the weight vector of the sub-index layer of Living environment (L) is finally updated as $W _ { l } = \\left( 0 . 1 6 5 1 , 0 . 2 7 0 1 , 0 . 0 7 7 4 , 0 . 4 8 7 5 \\right)$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Secondly, the statistical histogram of each evaluation index of the study region $\\mathbf { A } 1 ,$ A2 and A3 can be drawn with the preprocessed data, by which, it can be approximately judged that each group of data may follow the normal distribution.And then，the expectation $\\hat { \\mu }$ and standard deviation $\\hat { \\sigma }$ of the normal distribution can be estimated according to equation (1)-(2). Due to the limited space,this paper takes Economic situations (E） in $\\mathbf { A } _ { 1 } ,$ A2 and A3 as examples to illustrate the above analysis process. The statistical histogramsof its sub-index E1,E2,E3,E4and E5are shownas Figure 4,and their estimated parameters of normal distribution are listed in Table 4.Besides,the surveyed regions of the entire China in CSS2019 are taken as the study region $A c$ for comparative analysis. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The weight vector of the evaluation indices (E1-E5) to economic situations (E) has been given in Tab.2, $W _ { E } = ( 0 . 0 6 4 6 , 0 . 0 3 3 8 , 0 . 1 4 0 1 , 0 . 2 4 1 5 , 0 . 5 2 0 0 )$ ． Then，according to equation (4)-(5) and the estimated parameters of normal distribution in Table 4, the normal distribution information of social survey data about economic situations (E) are approximately aggregated as shown in Table 5. Accordingly，the approximate normal distribution density function $f _ { i E } ( x ) ( i = 1 , 2 , 3 , C )$ of the social survey data about economic situations (E) can be obtained according to equation (5). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "After that, the dominance values of $D _ { { } _ { A _ { i E } \\succ A _ { i E } } } , D _ { { } _ { A _ { i ^ { \\prime } E } \\succ A _ { i E } } } ( i = 1 , 2 , 3 , C )$ can be obtained by querying the standard normal distribution table according to equation (6)-(7), thus the dominance matrix of the PSG about economic situations (E) among study region $A _ { 1 } , A _ { 2 } , A _ { 3 }$ and $A c$ can be established as ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f4def3002aaedbd00063761323e126e206f97eb26fbf7977af28ab14ab5d5c7.jpg",
+        "img_caption": [
+            "Figure4.The statistical histograms of the PSG on Economic situations (E) in A1,A2 and A3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/53bf41a53c5aaa63dc3554b3fd7d936823e13c83794633cab87683ae74663c01.jpg",
+        "table_caption": [
+            "Table4.The data characteristics and estimated parameters of normal distribution "
+        ],
+        "table_footnote": [
+            "\\*1 Effective sample size;\\*2 Ac represents the study region of the entire China in CSS2019. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>A1</td><td></td><td></td><td></td><td></td><td></td><td>A2</td><td></td><td></td><td></td><td></td><td>A3</td><td></td><td></td><td></td><td></td><td>Ac*2</td><td></td><td></td></tr><tr><td></td><td>E1</td><td>E2</td><td>E3</td><td>E4</td><td>E5</td><td>E1</td><td>E2</td><td>E3</td><td>E4</td><td>E5</td><td>E1</td><td>E2</td><td>E3</td><td>E4</td><td>E5</td><td>E1</td><td>E2</td><td>E3</td><td>E4</td><td>E5</td></tr><tr><td>ESS*1</td><td>657</td><td>661</td><td>655</td><td>676</td><td>676</td><td>665</td><td>657</td><td>646</td><td>672</td><td>672</td><td>595</td><td>590</td><td>577</td><td>595</td><td>595</td><td>10134</td><td>10036</td><td>9954</td><td>10282</td><td>10282</td></tr><tr><td>MIN</td><td>2</td><td>2</td><td>3</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>1</td><td>1</td></tr><tr><td>MODE</td><td>6</td><td>6</td><td>6</td><td>5</td><td>8</td><td>6</td><td>6</td><td>6</td><td>5</td><td>8</td><td>6</td><td>6</td><td>6</td><td>5</td><td>8</td><td>6</td><td>6</td><td>3</td><td>5</td><td>8</td></tr><tr><td>MAX</td><td>10</td><td>10</td><td>9</td><td>10</td><td>10</td><td>10</td><td>10</td><td>9</td><td>10</td><td>10</td><td>10</td><td>10</td><td>9</td><td>10</td><td>10</td><td>10</td><td>10</td><td>9</td><td>10</td><td>10</td></tr><tr><td></td><td>4.58</td><td>4.50</td><td>5.29</td><td>5.25</td><td>6.97</td><td>4.86</td><td>4.44</td><td>5.59</td><td>5.93</td><td>7.29</td><td>5.09</td><td>4.68</td><td>5.78</td><td>6.49</td><td>7.66</td><td>4.68</td><td>4.40</td><td>5.48</td><td>5.72</td><td>7.09</td></tr><tr><td></td><td>1.83²1.9222.0922.4822.14²</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.9121.9022.2422.4922.0021.8021.9522.2322.3621.812</td><td></td><td></td><td></td><td>1.852</td><td>1.992</td><td>2.302</td><td>2.462</td><td>2.232</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/0da38f66a4a5eb080a4eed243cd7c1f666e0eb0fdb1b8c8627a9bc27905b55cb.jpg",
+        "table_caption": [
+            "Table5.The approximately aggregated parameters of normal distribution "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">A1</td><td colspan=\"2\">A2</td><td colspan=\"2\">A3</td><td colspan=\"2\">Ac</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.08</td><td>1.3042</td><td>6.47</td><td>1.2492</td><td>6.85</td><td>1.1522</td><td>6.29</td><td>1.5452</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { E } = { \\left[ \\begin{array} { l l l l } { 0 . 5 0 0 } & { 0 . 4 1 4 } & { 0 . 3 2 9 } & { 0 . 4 5 9 } \\\\ { 0 . 5 8 6 } & { 0 . 5 0 0 } & { 0 . 4 1 2 } & { 0 . 5 3 6 } \\\\ { 0 . 6 7 1 } & { 0 . 5 8 8 } & { 0 . 5 0 0 } & { 0 . 6 1 4 } \\\\ { 0 . 5 4 1 } & { 0 . 4 6 4 } & { 0 . 3 8 6 } & { 0 . 5 0 0 } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Finally, the net dominance of the PSG about economic situations (E) among study region $A _ { 1 } , A _ { 2 } , A _ { 3 }$ and $A c$ can be calculated according to equation (8)-(9),and thus their comprehensive evaluation results can be regarded as follows: $\\varphi _ { _ { 1 E } } = - 0 . 5 9 5 6 , \\varphi _ { _ { 2 E } } = 0 . 0 0 6 2 , \\varphi _ { _ { 3 E } } = 0 . 7 4 7 5 , \\varphi _ { _ { C E } } = - 0 . 2 1 8 1 \\$ . Accordingly， the PSG ranking resultsabout economic situations(E） on YB conservation and developmentis （20 $A _ { \\scriptscriptstyle 3 E } \\succ A _ { \\scriptscriptstyle 2 E } \\succ A _ { \\scriptscriptstyle C E } \\succ A _ { \\scriptscriptstyle 1 E }$ .That is, for the gain of sense on economic situations of individual and family, the PSG in Shandong is beter than that in Henan,and both of them are above the overallevel of China, however, the PSG of the middle and upper reaches of the Yellow River is at the bottom. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In the same way, the net dominances of the PSG about living environment (L), government public services (G), social civilizations (S),and individual self-fulfillments (I) among study region $A _ { 1 } , A _ { 2 } , A _ { 3 }$ can be calculated according to equation (8)-(9),and their PSG ranking results are listed in Table 6.Itcan be sen from Table 6 that the PSG in Shandong is the best one of allfactor dimensions,the PSG in Henan takes the second place (except the factor dimension of individual self-fulfillments (I)),and both of them are above the overall level of China,however,thePSG of the middle and upper reaches of the Yellow River is at the bottom (except the factor dimension of individual self-fulfillments (I)).Accordingly, the total PSG on YB conservation and development can be determined as $A _ { 1 T } \\prec A _ { C } \\prec A _ { 2 T } \\prec A _ { 3 T } .$ ，which are basically consistent with the actual economic and social situations of the Yellow River Basin. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In addition, the PSG about economic situations (E)， living environment (L)，government public services (G),social civilizations (S)，and individual self-fulfillments (I) in each study region can be investigated with the same methods as above without consideration of their weights,and their ranking results are listed in Table 7. ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/6eea57e922fb75bc868e79a59e4156c78d44ed587fea5df9bc4ee6addac18cbb.jpg",
+        "table_caption": [
+            "Table6.The results ranking of the PSG on YB conservation and development "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Factor dimensions</td><td rowspan=\"2\">Weight</td><td colspan=\"7\">The study regons of the Yellow River basin</td><td rowspan=\"2\">The study region Results ranking</td></tr><tr><td>A1</td><td></td><td>A2</td><td></td><td>A3</td><td></td><td>of China Ac</td></tr><tr><td rowspan=\"2\">Economic situations (E)</td><td>0.4534</td><td>从E</td><td></td><td>PE</td><td>8</td><td>HE 8</td><td>μCE</td><td></td><td>AE ACE AE AE</td></tr><tr><td></td><td>6.08</td><td>1.3042</td><td>6.47</td><td>1.2492</td><td>6.85 1.1522</td><td>6.29</td><td>1.5452</td><td></td></tr><tr><td rowspan=\"2\">Living environment (L)</td><td>0.2059</td><td>从</td><td></td><td></td><td>8</td><td>8</td><td>μcL</td><td></td><td>A < AcL  A <AL</td></tr><tr><td></td><td>6.25</td><td>1.5672</td><td>6.56</td><td>1.3992</td><td>6.74 1.404²</td><td>6.36</td><td>1.4522</td><td></td></tr><tr><td rowspan=\"2\">Government public services (G)</td><td>0.1025</td><td>从G</td><td>oG</td><td>HG</td><td>8G</td><td>HG 8</td><td>μcG</td><td></td><td>AGAcGAGA3G</td></tr><tr><td></td><td>6.93</td><td>1.2072</td><td>7.17</td><td>1.1582</td><td>7.71 1.0362</td><td>7.08</td><td>1.1262</td><td></td></tr><tr><td rowspan=\"2\">Social civilizations (S)</td><td>0.0433</td><td>Ps</td><td></td><td>p2s</td><td>8s</td><td>ps</td><td>μcs</td><td></td><td>As 人 Acs 人 As 人 As</td></tr><tr><td></td><td>6.67</td><td>1.4572</td><td>7.02</td><td>0.8572</td><td>7.46 1.3332</td><td>6.88</td><td>1.1602</td><td></td></tr><tr><td rowspan=\"2\">Individual self-fulfillments (1)</td><td>0.1949</td><td></td><td></td><td></td><td>8</td><td>1</td><td></td><td></td><td></td></tr><tr><td></td><td>6.42</td><td>2.0812</td><td>6.34</td><td>2.1812</td><td>6.62 2.1842</td><td>6.29</td><td>1.3642</td><td>Ac A<AA3I</td></tr><tr><td rowspan=\"2\">The total PSG on YRB conservation and development (T)</td><td></td><td></td><td></td><td>HT</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>6.29</td><td>1.7382</td><td>6.56</td><td>1.7532</td><td>6.90 1.8872</td><td>6.41</td><td>0.8162</td><td>At < Ac  Aτ < A3T</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d38cbb8c587e1d521ea08c5454d7818af75df7c30ba3fb02a7291877421f958.jpg",
+        "table_caption": [
+            "Table7.The results ranking of the PSG in each study region of the Yellow River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Study region</td><td colspan=\"9\">Factor dimensions</td><td rowspan=\"2\">Results ranking</td></tr><tr><td>Economic situations (E)</td><td></td><td>Living</td><td></td><td>Government environment (L) public services (G)</td><td></td><td>Social civilizations (S)</td><td></td><td>Individual self-fulfillments (I)</td></tr><tr><td>A1</td><td>6.08</td><td>8 1.304²</td><td>6.25</td><td>1.5672</td><td>从G 6.93</td><td>1.2072</td><td>μs 6.67</td><td>1.4572</td><td>6.42 2.0812</td><td>AEA A <As <AG</td></tr><tr><td>A2</td><td>6.47</td><td>82 1.2492</td><td>6.56 1.3992</td><td>HG 7.17</td><td>8G 1.1582</td><td>ps 7.02</td><td>0.8572</td><td>6.34</td><td>8 2.1812</td><td>A1 < AE  AL  As < AG</td></tr><tr><td>A3</td><td>从3E 6.85</td><td>8 1.1522</td><td>从L 6.74</td><td>1.4042</td><td>从G 7.71</td><td>1.0362</td><td>ps 7.46</td><td>1.3332</td><td>6.62</td><td>A < AL  AE  As  AG 2.1842</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Some interesting conclusions can be drawn from Table 6and Table 7.Firstly, the public in Yellow River Basin are generally satisfied with the government's public services，followed by the overall civilization of the society, it should attribute the achievements to the Chinese government's unremiting efforts in the functional transition of the governments and the construction of mental civilization for a long time,especially since the 18th CPC National Congress. Secondly, the public in the middle and upper reaches of the Yellow River (A1) are generally the most dissatisfied with their individual and family economic situations,and the PSG about economic situations (E) of Henan and Shandong are also in the middle and lower levels.This's because，the Yellow River Basin has a relatively concentrated poverty-stricken population in China, and it involves 5of China's 14 contiguous poverty-stricken areas, which are mainly distributed in Henan and the upper and middle reaches of the Yellow River [51], thus the public there are very eager to improve their individual and family economic situations and live a good life.Fortunately, the poverty allviation is one of the important contents of this Chinese major strategy for YB Conservation and Development, the PSG about economic situations will certainly be improved in the future.Thirdly, the PSG about living environment (L) of the three study regions in the whole Yellow River Basin are all in the middle and lower levels of their respective ranking lists. Since ancient times,the Yellow River has been both a “mother\"river and a “devil\" river,and the Chinese central and local governments have tried to harness and improve the Yelow River and gained lots of achievements,however, there are still many ecological and environmental problems affecting people's quality of life [9],and these problems are also included in this Chinese major strategy for YB Conservation and Development.Finally, the PSG about individual self-fulfillments (I) in Henan and Shandong are both at the bottom of their respective ranking lists,while it is at the middle level of their ranking list of the public in the middle and upper reaches of the Yellow River. The result suggests that the publc are generally dissatisfied with their individual self-efficiency， development opportunities and development capabilities, especially the people in Henan and Shandong,thus it should arouse the attentions of the local governments. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "On the whole,the evaluation results of the PSG on Yellow River Basin conservation and development in this research are basically in line with the actual situations,and the evaluation results can also provide decision references for tieir further work of the local governments in Yellow River Basin. It is suggested that the local governments should conduct a deeper social investigations on the PSG within their area directed against their weaknesses，so as to obtain more detailed decision supports and formulate corresponding improvement countermeasures. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1） The PSG was proposed as the most suitable benchmark and scale in this paper to measure the achievements of YB conservation and development，and the PSG on YB conservation and development has been specifically defined as the further subjective psychological welfare increment of the general public generated after their effectively obtaining material, health or psychological welfare effectively from the implementation process of this Chinese strategy. Accordingly, the logical principles and transmisson mechanisms of the PSG and YB conservation and development has been constructed,and it was suggested that a good evaluation system of the PSG can provide better regulations and guidances for the sound development of the Yellow River Basin.Furthermore, it was suggested that a large-scale social survey should be caried out regularly and continuously to investigate the general feelings of a wider public in the Yellow River Basin, including the local ordinary residents,the policymakers in government, the media workers,the businessmen,the scholars and researchers, and the NGOs/NFOs/CBOs and so on. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2)Taking the social survey data of CSS2019 released by CASS at the end of 2020 as the basis, this paper attempted to exam the PSG on YB conservation and development at the beginning of this Chinese strategy. An evaluation index system including 5 factor dimensions and 25 evaluation indices has been constructed,and the consistent processed methods of the raw data in CSS2019 has been developed.After that，the normal distribution of continuous distribution instead of discrete distribution has been used to describe the survey data,and the linear property of normal distribution and dominance matrix method are applied to make decision based on PROMETHEE II.The human cognition usually have both the essences of fuzziness and randomness,and the fuzzy membership function of normal distribution is the most suitable one to describe the human fuzzy cognition, therefore,the evaluation results with uncertain decision-making methods in this paper are more scientific and reasonable than that with rigorous statistical methods. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3)The empirical results indicated that the PSG on the general economic and social development situations of the Yelow River Basin at the beginning of this Chinese strategy is basically equal to that of the overallevel of the entire China,specifically, the PSG of Shandong and Henan are both above the overall level of China and the PSG of the middle and upper reaches of the Yelow River is lower than the national average. Therefore, governments at allevels in the middle and upper reach of the Yellow River are suggested to make more efforts to change their disadvantages in the next few years. Besides, Henan and Shandong are both suggested to develop a more active employment policy to improve the environment for entrepreneurship and employment, so as to promote the public to realize their individual value-pursuing, meanwhile, they should also continue to make greater efforts in improving people's livelihood and harnessng the ecological environment under the guidance of the national strategy of YB conservation and development. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(4)The further researches willbe conducted in the following directions.The firstis to continue to explore the driving mechanisms and spatio-temporal evolution models of the PSG on YB conservation and development, based on the panel data of social surveys in the past and years to come; the second is to conduct more detailed and micro-region social survey investigations on the basis of macro social survey and its comprehensive evaluation results, so as to provide more accurate decision-making suggestions for local governments; The third is to introduce and develop more scientific and reasonable evaluation methods from the perspective of multidisciplinary integration，uncertainty theory，Big Data analysis techniques，online public sentiment analysis methods and behavioral economics theory are all on the list of further attempts. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Funding: The relevant researches done in this paper were funded by the National Natural Science Foundation of China (grant number 51979106),Key Scientific Research Projects of Collges and Universities in Henan Province (grant number21A630o02)，Science and Technology Development projects in Anyang City (grant number 2021C02ZFOl0)and Keyprojectsof Collgesand Universties Students innovationand entrepreneurship in Henan Province (grant number S202010479042). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1.Xu, Y.and Wang, C.S.Ecological protection and high-quality development in the Yellow River Basin: framework, path,and countermeasure. Buletin of Chinese Academy of Sciences, 2020,35(7): 875-883.   \n2. Zhou,H.C. Yellow River safety needs ecological protection and high-quality development. China Development Observation, 2020, (Z8): 12-14.   \n3. Wang, Y.H.; Mao, E.H. and Xu,M.S. An historical analysis on the strategy changes of the Yellow River governance. Environmental Protection,2020, 48(Z1): 28-32.   \n4. Luo, D.; Mao, W.X.and Sun, H.F.Risk assessment and analysis of ice disaster in Ning-Meng reach of Yellow River based on a two-phased intelligent model under grey information environment. Natural Hazards,2017,88(1): 591-610.   \n5. Qi, S.Z. and Liu, H.L.Natural and anthropogenic hazards in the Yellow River Delta, China. Natural Hazards,2017, 85(3): 1907-1911.   \n6. Wu,PF.; Liu, D.X.; Ma,J.H. et al. Reconstructing the man-made Yellow River flood of Kaifeng City in 1642 AD using documentary sources. International Journal of Disaster Risk Reduction, 2019,41(1): 101289.   \n7. Omer, A.; Ma, Z.G. Zheng, Z.Y. et al. Natural and anthropogenic influences on the recent droughts in Yellow River Basin, China. Science of the Total Environment,2020,704(1): 135428.   \n8. Shao,P.; Wang, Q. and Shan, Y.J. Research on ecological protection and high quality development of Yellow River basin based on text analysis.Journal of Arid Land Resources and Environment,2020,34(11): 78-83.   \n9. Omer, A.; Elagib, N.A.; Ma, Z.G. et al. Water scarcity in the Yellow River Basin under future climate change and human activities. Science of the Total Environment, 2020,749(1): 141446.   \n10.Jin, F.J.; Ma.L.and Xu, D.Environmental stress and optimized path of industrial development in the Yellow River Basin. Resources Science,2020,42(1): 127-136.   \n11.Liu, K.; Qiao, Y.R.; Shi, T.et al. Study on coupling coordination and spatiotemporal heterogeneity between economic development and ecological environment of cities along the Yellow River Basin. Environmental Science and Pollution Research, 2021, 28(6): 6898-6912.   \n12.Yan, D.H.; Wang, H.; Zhou, M. et al. Scientific ideas and development prospects of global water management modes.Water Resources Protection, 2020, 36(3): 1-7.   \n13. Xi, J.P. Speech at the symposium on ecological conservation and high-quality development of the Yellow River Basin. Struggle, 2019, 62(20): 4-10.   \n14. Zuo, Q.T.; Fei, X.X. and Li, D.L. Special planning ideas and content framework of water conservancy for ecological conservation and high-quality development of the Yellow River Basin. Yelow River, 2020, 42(9): 21-25.   \n15.Niu, Y.G.and Zhang,JP.Thoughts on the national strategy of ecological protection and high quality development in the Yellow River Basin. Yellow River, 2020, 42(11): 1-10.   \n16.Yang, K.Z.and Dong， Y.N. Research on restricting factors and countermeasures of ecological protection and high-quality development of Yellow River basin-Analysis based on the multi-dimensional framework of \"element-space-time\". Journal of Hydraulic Engineering, 2020, 51(9): 1038-1047.   \n17.Liu, L.K.; Liang,L.T.; Gao, P. et al. Coupling relationship and interactive response between ecological protection and high-quality development in the Yelow River Basin. Journal of Natural Resources, 2021, 36(1): 176-195.   \n18.Zuo, Q.T.; Zhang, Z.Z.; Li, D.L.et al. Regional division and research framework for high-quality development path optimization in the Henan section of the Yelow river. South-to-North Water Transfers and Water Science and Technology2021,19(2): 29-216.   \n19. Wang, F.and Miao, C.H. Systematisms, integrity and coordination: thinking and strategy of high quality development in the Yellow River Basin [J]. Journal of Natural Resources,2021,36(1): 270-272.   \n20.Wang， P.Q. and Ji， C.Y. Relative acquisition in Transitional society: measurement, change and comparison. Chinese Public Administration, 2018,34(1): 6-12.   \n21. Cheng Y.S.; Zhang, Y.and He, G.Y. Sense of fulfillment of the Chinese public: indicator construction, temporal and spatial changes, and macro mechanisms. Journal of China Executive Leadership Academy Pudong,2020,14(2): 110-123.   \n22. Huang,H.P.； Sun, X.D.； Bing, Z.H. et al. The evaluation and influence mechanism of the development of rural tourism in ancient towns: Empirical analysis of Zhujiajiao, Gangxi and Zhoupu in Shanghai. Economic Geography, 2020, 49(9): 233-240.   \n23. Zhang, Z.F. and Liu, X. Participation in basic medical insurance and people's \"sense of acquisition\" based on the data analysis of China's general social survey. Shandong Social Science, 2020, 34(12): 147-152.   \n24. Wen,H.and Liu, Z.P. Timing comparison of the sense of gain to China: trends and disparities empirical analysis based on Chinese urban and rural social governance dada. Journal of Social Sciences, 2018 (3): 3-20.   \n25. Wang, X.T.; Kang, C.P. and Wang, X.D. Research on the factors of poverty subjects' acquired sense under the background of E-commerce poverty allviation. Issues in Agricultural Economy, 2020, (3): 112-124.   \n26.Huang, A.B.The influential factors and boosting approaches of ecological sense of gain. Theoretical Investigation, 2019, (2): 25-32.   \n27. Wang，Y.L.; Yang, C.； Hu， X.Y. et al. The mediating efect of community identity between socioeconomic status and sense of gain in Chinese adults. International Journal of Environmental Research and Public Health,2020,17(5): 1553.   \n28.Zuo, Q.T.; Hao,M.H.; Zhang, Z.Z.etal. Assessment of the happy river index as an integrated index of river health and human wel-being: a case study of the Yellow River, China. Water,2020,12(11): 3064.   \n29. Zhang, W.W. On the generation of the people's sense of gain: logical regulation, realistic dilemma and solution-learning Xi Jinping's important arguments on the people's sense of gain. Social studies, 2018, (6): 8-15.   \n30.Dong, H.J.; Tan, X.Y.; Dou, XJ. etal. The structure of Chinese sense of gain. Psychological Exploration, 2019,39(5): 468-473.   \n31.Tan, X.Y.; Dong,H.J.; Zhang, Y. et al. Connotation and structure of the sense of gain and its influence on life satisfaction. Sociological Studies, 2020, 35(5): 195-217.   \n32. Yang J.L. and Zhang, S.H. Analysis of the general social survey data on the Chinese people's sense of fulfillment. Studies on Marxism, 2019, 37(3): 102-112+160.   \n33. Cao, X.Q. The connotation of \"Gain\" and the foreign experiences. Frontiers,2017, 6(2): 18-28.   \n34.E, J.P. To write a new chapter of river protection and governance in the new era.Water Resources Development Research,2020, 20(1): 1-2.   \n35.Xu, H.; Shi, N.; Wu,L.L. et al. High-quality development level and itsspatiotemporal changes in the Yellow River Basin. Resources Science, 2020, 42(1): 115-126.   \n36.Liu, C.M. and Ma, Q.S. Spatial correlation network and driving factors of high-quality development in the Yellow River Basin. Economic Geography, 2020, 40(10): 91-99.   \n37. Wu, B.S.; Wang Z.Y. and Li, C.Z. Yellow River Basin management and current issues. Journal of Geographical Sciences,2004,14(1):29-37.   \n38.Guo, A.J.; Zhang, Y.N.; Zhong, F.L. et al. Spatiotemporal patterns of ecosystem service value changes and their coordination with economic development: a case study of the Yellow River Basin, China. International Journal of Environmental Research and Public Health,2020,17(5): 8474.   \n39. Ren, R.R.; Li， W.W.; Zhao,M, et al. A large group decision making method based on public evaluation. Management Review, 2018, 30(10): 238-247.   \n40.Li,D.Y.and Liu, C.Y.Study on the universality of the normal cloud model. Engineering Science, 2004, 6(8): 28-34.   \n41.Li, D.Y.; Liu, C.Y.and Gan, W. A new cognitive model: cloud model. International Journal of Intellgent Systems, 2009, 24(3):357-375.   \n42.Wang, J.Q.; Lu, P.; Zhang, H.Y. et al. Method of multi-criteria group decision-making based on cloud aggregation operators with linguistic information. Information Sciences, 2014, (274): 177-191.   \n43.Liu, Z.M. and Liu, PD. Normal intuitionistic fuzzy Bonferroni mean operators and their applications to multiple atribute group decision making. Journal of Intellient and Fuzzy Systems, 2015, 29(5): 2205-2216.   \n44.Li, H.T.; Luo, D.and Wang, J.F. Astochastic EMD method of aggregating LGDM experts'information. Statistics and Decision,2018,34(19):46-50.   \n45. Wang, L.H. and Gong, A.W. On optimal priority modelling of group intuitionistic fuzzy preference relations with normal uncertainty distribution. Journal of System Science and System Engineering, 2019, 28(4): 510-525.   \n46.Liu, Y.; Fan, Z.P.and Zhang, Y. Amethod for stochastic criteria decision making based on dominance degree. Information Science, 2011, 181(19): 4139-4153.   \n47. Corrente, S.; Greco, S.and Stowinski, R. Multiple criteria hierarchy process with ELECTRE and PROMETHEE. Omega,2013, 41(5): 820-846.   \n48.Kuang H; Kilgour, D.M.and Hipel, K.W. Grey-based PROMETHEE II with application to evaluation of source water protection strategies. Information Sciences, 2015,294: 376-389.   \n49.Kadzinski， M. and Ciomek， K. Integrated framework for preference modeling and robustness analysis for outranking-based multiple criteria sorting with ELECTRE and PROMETHEE. Information Sciences, 2016, 352(5):167-187.   \n50. Quesada, F.J.; Palomares, I. and Martinez, L. Managing experts behavior in large-scale consensus reaching processes with uninorm aggregation operators. Applied Soft Computing, 2015, 35(8): 873-887.   \n51. Qiao,JJ.; Zhu, Q.K. and Xin, X.Y. Spatial characteristics and influencing factors of rural poverty in the Yellow River Basin. Resources Science,2020,42(1): 184-196. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

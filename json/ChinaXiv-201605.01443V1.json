@@ -1,0 +1,449 @@
+[
+    {
+        "type": "text",
+        "text": "Insights into the interaction between Cren7 and DNA: the role of loop β3-β4 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhenfeng Zhang $\\cdot$ Yong Gong $\\cdot$ Yuanyuan Chen $\\cdot$ Hongbin Li $\\cdot$ Li Huang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 27 September 2014/Accepted:11 December 2014/Published online: 3 January 2015   \n$\\circledcirc$ Springer Japan 2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractSulfolobus synthesizes large amounts of small chromatin proteins Cren7 and Sul7d. The two proteins share overall structural similarity,but differ distinctly in the DNA-binding region between $\\beta 3 -$ and $\\beta 4$ -strands.While Sul7d possesses a hinge of two amino acid residues, Cren7 contains a flexible seven-residue loop (loop $\\beta 3 \\mathrm { - } \\beta 4 )$ in the region.Here,we report the role of loop $\\beta 3 \\mathrm { - } \\beta 4$ in the interaction of Cren7 with duplex DNA.We show that all residues with a large side chain on the loop,i.e.,Pro3O,Lys31, Arg33 and Lys34,contributed significantly to the binding of Cren7 to DNA.The three basic amino acids affected the ability of Cren7 to constrain negative DNA supercoils in a residue number-dependent manner. The crystal structure of a complex between a mutant Cren7 protein (GR) with loop $\\beta 3 \\mathrm { - } \\beta 4$ replaced by two residues (Gly and Arg) to mimic the hinge at the corresponding position in Sul7d and an 8-bp dsDNA has been determined. Structural comparison between the GR-DNA and Cren7-DNA complexes shows that GR resembles Sul7d more than Cren7 in DNAbinding size and in the effect on the width of the major groove of DNA and the pattern of DNA bending.However, GRinduces smaller DNA curvature than Sul7d.Our results suggest that Cren7 and Sul7d package chromosomal DNA in a slightly different fashion,presumably permitting different chromosomal accessibility by proteins functioning in DNA transactions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeywordsChromatin protein $\\cdot \\mathbf { C r e n 7 } \\cdot \\mathbf { L o o p } \\beta 3 - \\beta 4$ Protein-DNA complex $\\mathbf { \\nabla } \\cdot \\mathbf { \\varepsilon }$ Sulfolobussolfataricus $\\cdot$ Archaea ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genomic DNA must be compacted to be accommodated by the cell while kept accessible to molecular machineries for DNA transactions.Chromatin proteins are respon sible for the compaction and organization of the chromosomal DNA (Luijsterburg et al. 2OO8).Eukarya encode histones,which wrap DNA around the core octamer to form a nucleosome (Luger et al. 1997). In bacteria, the chromosomal DNA is compacted into a nucleoid by a number of small DNA-binding proteins,such as HU, IHF,H-NS,Fis and Lrp (Dame 2005;Wu 2004). However,the situation is more complex in Archaea as different archaeal phyla may employ different sets of DNAbinding proteins (Zhang et al. 2O1O).Alba is a unique nucleic acid-binding protein highly conserved among the domain Archaea (Bell et al. 2OO2).However, the protein appears to bind both DNA and RNA(Guo et al. 2003; Marsh et al. 2Oo5). Therefore, the physiological roles of Alba remain to be understood.Euryarchaea produce archaeal histones capable of packaging DNA in a similar manner to their eukaryal counterparts (Reeve 2003; Sandman and Reeve 2Oo5).However, archaeal histones are absent in crenarchaea with the exception of some species (Cubonova et al. 20o5). Several small DNA-binding proteins,including Sul7d,CC1 and Cren7,have been isolated from crenarchaea (Grote et al. 1986;Guo et al. 2008;Luo et al. 2007).While Sul7d and CC1 are phylogenetically restricted to some crenarchaeal species, Cren7 is highly conserved in the phylum (Zhang et al. 2012).It is suggested that crenarchaea may have evolved a Cren7-based DNA packaging strategy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cren7,a small and basic chromatin protein,preferentiallybinds dsDNA over ssDNA，protects DNA duplex from thermal denaturation and constrains negative DNA supercoils in vitro (Guo et al. 2008). Sul7d, a 7-kDa chromatin protein from Sulfolobus,resembles Cren7 in biochemical properties (Mai et al. 1998;Napoli et al. 2002). Both Cren7 and Sul7d compact DNA by inducing rigid bends with similar efficiencies (Driessen etal. 2O13).In S. solfataricusP2 cells,Cren7 and Sso7d,a member of the Sul7d family,are both synthesized in abundance,amounting to $^ { \\sim 1 }$ and ${ \\sim } 5 ~ \\%$ ,respectively,of the total cellular proteins (Guo et al. 2OO8). Therefore,it appears that the two proteins are both functional and possibly serve non-redundant roles in vivo. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Crystal structures of Cren7 and Sul7d alone and in complex with duplex DNA have been determined (Gao et al. 1998；Robinson et al. 1998; Zhang et al. 201O). Despite the low similarity at the amino acid sequence level, the two proteins share a similar tertiary structure.However, comparison of the DNA-binding surfaces of Cren7 and Sac7d, a member of the Sul7d family from S.acidocaldarius, reveals a remarkable difference in the loop region between β3 and $\\beta 4$ strands (loop $\\beta 3 \\mathrm { - } \\beta 4 )$ (Zhang et al. 2010).A structure-based sequence alignment shows that Cren7 possesses a long(seven residues) and highly flexible loop $\\beta 3 -$ $\\beta 4$ ,whereas Sac7d contains a small hinge (two residues) at the corresponding position (Fig.1). Loop $_ { \\beta 3 - \\beta 4 }$ of Cren7 undergoes a significant conformational change upon binding of the protein to DNA and covers about two base pairs in the crystals of the Cren7-DNA complex.The loop region is conserved among Cren7 homologs,and mostof the residues on the loop interact directly with the DNA strands. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To elucidate the role of loop $_ { \\beta 3 - \\beta 4 }$ in chromosomal organization by Cren7 and learn more about the potentialfunctional differences between Cren7 and Sul7d,itis essential to understand the effect of the loop on the interaction of Cren7 with DNA.In the present study,we introduced point mutations and deletions into the loop region and determined the effects of the mutations on DNA binding and supercoil constraining by Cren7.In addition，we solved the crystal structure of a complex between a Cren7 deletion variant (GR)，which mimics Sac7d in the loop region,with a duplex DNA fragment.Our results suggest that Cren7 and Sul7d may allow chromosomal DNA to be ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A β1 β2 β3 β4 β5 SsoCren7 TT + TT TTT + TT 1 1 20 30 4 5 60 SsoCren7 MSSGKKPVKVKTPAGKEAELV..PEKVWALAPKGRKGVKIGLFKDPETGKYFRHKLPDD.YPI. Sac7d .MVKVKFYKGEEKEVDTSKIKKVWRV...GK..MVSFTYDDN..CKTGRGAVSEKDAPKELLDMLARAEREKK Sac7d TT . + TT VT. ·T ceeee β1 β2 n β3 β4 β5 n2 α1 Loop β3-β4   \nB β1 β2 β3 β4 β5 SsoCren7 TT TT TTT + TT 1 10 20 30 4 5 60 SsoCren7 .MSSGKKPVKVKTPA.GKEAELVPEKVWALAPKGRKGVKIGLFKDPETGKYFRHKLPDDYPI. Msed_1762 .MTYKKAVKIKTPG.GKEAELAPEKAWTIAPKGRKGVKIGLFKDPESGKYFRHKLPDDYPV. DKAM_0182 MVIHMPCTEKVKVKTPG.GRELELVPVKVWOLNPRGRKGVKIGLEODPGTGRYFRTRVPEEYPLCS. Tagg_0304 .MPCDKPVKVKTAT.GKELELIPKKVWOLNPRGKKGVKVGLFODPETGTFFRAKVPEDYPLCG. Sheil_0581 .MPACTKSVKVRTPS.GKEVELVPKKVWOLSPKGRKGVKVGLFODPETGKYFRAKVPDDYPICG. Igag_1302 MAACTKPVRVKTPD.GAEKELVPKRVWGLAPKGRKGVKIGLEODPATGKYFRGKVPDDYPECG.. Hbut_0878 MACEKPVRVRDPTTGKEVELVPIRVWOLAPKGRKGVKIGLEKSPETCKYERAKVPDDYPICS. APE_0450a .MSQKQLPPVRVRDPTTGKEVELTPIKVWKISPRGRRGVKIGLEKSPETGKYFRAKVPDDYPETG.. Asac_1033 .MSKLPAVKVKDPTTGKEVELSPIKVWTLAPKTRKGVKIGLEKSPESGKFFRAKVPDDYPAK.. Igni_0039 .MPKCPKCGAEVK.EPITWVLAPKGRKGVIIGLERCP.NGHYFRAKVGEAPPKKEAA Tneu_0629 MAEEILNREYEVEYGGKRYWLRPSKAWVLOPPGKPGVVIALEKLP.DGRTVRKAIMRLPP. Pisl_1598 MEEVLDREYEVEYGGRKYRLKPVKAWVLOPPGKPGVVIALEKLP.DGKTIRKVIMKLPPS. Cmaq_0752 MAVNVOQYLNKEYEVECDGOMVRLKPVKAWVLOPKGRKGVVIGLEKCP.NGKTLRKAIGKIE.. consensus>50 .vkvk.p..Gke.e1.PiKvW.L.PkgrkGVk!gLFk.PetGkyfR.kvpddyp. Loop β3-β4 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "fromrepresentative crenarchaeal genera.The secondary structures of Cren7 are indicated. The loop $\\beta 3 \\mathrm { - } \\beta 4$ regions of Cren7 in both panels aremarked ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "packaged in a slightlydifferent fashion and, therefore,to exhibit different accessibility. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Preparation of mutant proteins ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Point mutations were introduced into Cren7by site-directed mutagenesisusing the FastMutagenesis System(TransGen Biotech,China）with pET3Oa-Cren7,an expression plasmid for Cren7 (Guo et al. 2O08),as the template. The deletion mutants of Cren7 were prepared by overlapping PCR and subsequently inserting the resulting PCR fragment into pET3Oa (Novagen,USA).Primers used in the above assays are listed in supplementary table S1.All the mutations were confirmed by DNA sequencing. The mutant constructs were transformed into $E .$ coli BL21(DE3) cells, and recombinant proteins were overproduced and purified as described previously (Zhang et al. 2O1O). The purified proteins were lyophilized,resuspended in $2 0 ~ \\mathrm { m M }$ Tris-Cl, $\\mathrm { p H } 6 . 8$ ,and $1 \\mathrm { m M }$ EDTA,and stored at $- 8 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Surface plasmon resonance assays (SPR) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SPR experiments were carried out at $2 5 ~ ^ { \\circ } \\mathrm { C }$ using the BIAcore 30oO instrument (BIAcore AB,Uppsala, Sweden). The running buffer contained $5 0 ~ \\mathrm { m M }$ Tris-Cl, $\\mathrm { p H } 7 . 5$ ， $1 0 0 ~ \\mathrm { { m M } }$ $\\mathrm { \\Delta N a C l }$ and $0 . 0 0 5 ~ \\%$ (v/v） Tween 20.Two complementary oligonucleotides (supplementary table S1),including one with a biotin label,were immobilized on the SA sensor chipto 91-97 response units (RU).A blank flow cell was used as the reference to correct for instrumental and concentration effects.Wild-type or mutant Cren7 at a concentration within a range spanning the $K _ { \\mathrm { D } }$ value forthe interaction of the protein with the DNA was injected over the DNA surface for $2 \\mathrm { m i n }$ at a flow rate of $3 0 \\mu \\mathrm { l / m i n }$ .After the dissociation phase $( 2 { - } 4 ~ \\mathrm { m i n } )$ ,bound protein was removed bya 30-s wash with $0 . 0 1 \\%$ SDS,followed by a 6O-s buffer injection.Measurement at the lowest protein concentration in each SPR experiment was repeated once.Equilibrium and kinetic constants were calculated by a global fit to 1:1 Langmuir binding model (BIA evaluation 4.1 software). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nick-closure assays ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nick-closure assays were carried out as described previously with some modifications (Guo et al. 20o8).Plasmid pBR322 containing a single nick per circular molecule was prepared by digestion with the nicking enzyme Nb.Bpu10I (Fermentas).The nicked plasmid $( 0 . 2 ~ \\mu \\varrho )$ was mixed with various amounts of wild-type or mutant Cren7 in $4 0 ~ \\mathrm { m M }$ Tris-Cl, pH7.8,10 mM $\\mathrm { \\mathbf { M g } C l } _ { 2 }$ ， $1 0 \\mathrm { m M }$ DTT, $0 . 5 \\mathrm { m M }$ ATP and $1 0 0 ~ \\mu \\mathrm { g / m l }$ BSA,and incubated at $2 5 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 ~ \\mathrm { { m i n } }$ Ligation was then initiated by the addition of T4 DNA ligase (2U; Fermentas) to the mixture to a final volume of $1 1 \\mu \\mathrm { l }$ .After further incubation at $2 5 ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { m i n }$ ,reactions were terminated with $5 \\times$ stop buffer ( $2 5 0 ~ \\mathrm { m M }$ EDTA and $2 . 5 ~ \\%$ SDS). Samples were deproteinized and analyzed by agarose gel electrophoresis in the presence or absence of chloroquine.Gels were stained in $0 . 5 ~ { \\mu \\mathrm { g / m l } }$ ethidium bromide and visualized under UV light. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Size exclusion chromatography ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A $1 0 0 \\mathrm { - } \\mu \\mathrm { l }$ sample $( { \\sim } 1 \\ \\mathrm { m M } )$ of wild-type or mutant Cren7 was subjected to size exclusion chromatography in $0 . 1 \\textbf { M }$ $\\mathrm { N H } _ { 4 } \\mathrm { A c }$ buffer $\\mathrm { ( p H ~ } 5 . 2 \\mathrm { ) }$ on a Superdex 75 column(GE healthcare)ata flow rate of $0 . 5 ~ \\mathrm { m l / m i n }$ at $4 ~ ^ { \\circ } \\mathrm { C }$ Elution of the protein was monitored by absorbance at $2 8 0 ~ \\mathrm { n m }$ . The void volume $( \\nu _ { o } )$ and total volume $( \\nu _ { t } )$ of the column were determined with blue dextran and xylene cyanol, respectively. The fractional retention $( K _ { a \\nu } )$ was calculated using the formula $K _ { a \\nu } = ( \\nu _ { e } - \\nu _ { o } ) / ( \\nu _ { t } - \\nu _ { o } )$ ，where $\\nu _ { e }$ is the peak elution volume.A standard curve of $K _ { a \\nu }$ against $\\log \\mathbf { M } _ { \\mathrm { r } }$ was generated by using low molecular weight protein standards (GEhealthcare). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Crystallization, data collection and structure determination ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cocrystallization screeningwasperformed with GR, a deletion variant of Cren7,and each of the three 8-bp palindromic DNA sequences (supplementary table S1) bysitting-drop vapor diffusion. Crystals suitable for the X-ray diffraction were obtained only with the GR$\\mathsf { d } ( \\mathbf { G } \\mathbf { T } \\mathbf { G } \\mathbf { A } \\mathbf { T } \\mathbf { C } \\mathbf { A } \\mathbf { C } ) _ { 2 }$ complex.GR and a DNA duplex were mixed at a molar ratio of 2:1 to a final concentration of $2 ~ \\mathrm { m M }$ for the protein.The sample $( 1 ~ \\mu \\mathrm { l } )$ was mixed with the reservoir solution $( 1 ~ \\mu \\mathrm { l } )$ and equilibrated at $2 0 ~ ^ { \\circ } \\mathrm { C }$ with 0.2M $\\mathrm { N H _ { 4 } A c }$ ,0.01 M $\\mathbf { M g } \\mathbf { A c } _ { 2 }$ ， $0 . 0 5 { \\mathrm { ~ M ~ } }$ sodium cacodylate trihydrate, $\\mathrm { p H } 6 . 5$ ，and $30 \\%$ PEG80o0.Crystallization of $\\mathrm { C r e n 7 - d ( G T G A T C A C ) } _ { 2 }$ was performed under the conditions identical to those described previously for the Cren7- DNA complexes (Zhang et al. 2O1O). The crystals were mounted on nylon loops and immediately frozen in liquid nitrogen.The data for the complex was collected to $1 . { \\overset { - } { 8 } } { \\overset { \\ g } { \\mathrm { A } } }$ at the Rigaku MicroMax-OO7HF(Rigaku, Japan) at $1 0 0 ~ \\mathrm { K }$ and the wavelength was $1 . 5 4 1 8 \\mathrm { \\AA }$ . The data were integrated and scaled with HKL2ooO (Otwinowski and Minor 1997). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The structures of $\\mathrm { C r e n 7 - d ( G T G A T C A C ) } _ { 2 }$ and GR$\\mathsf { d } ( \\mathbf { G } \\mathbf { T } \\mathbf { G } \\mathbf { A } \\mathbf { T } \\mathbf { C } \\mathbf { A } \\mathbf { C } ) _ { 2 }$ were determined by molecular replacement using the program Phaser(McCoy et al.2OO7) from the CCP4 program suite (Collaborative Computational Project N 1994） using the crystal structure of Cren7- $\\mathsf { d } ( \\mathbf { G } \\mathbf { T } \\mathbf { G } \\mathbf { A } \\mathbf { T } \\mathbf { C } \\mathbf { A } \\mathbf { C } ) _ { 2 }$ (PDB code:3LWH) as the initial model. The software packages Refmac (Murshudov et al. 1997) ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/96f35e7f77d35eb014425492873e11354a09c6d3a7420b8a4a00f8533015cb4e.jpg",
+        "img_caption": [
+            "Fig.2 Kinetic characterization of the binding of wild-type and mutant Cren7 to DNA by SPR.Wild-type or mutant Cren7 was injected over immobilized DNA.The $k _ { \\mathrm { a } }$ (recognition）is plotted against the $k _ { \\mathrm { d } }$ (complex stability) ona logarithmic scale.The diagonal lines(gray dotted lines）are isoaffinity lines representing the affinity $K _ { \\mathrm { D } } = k _ { \\mathrm { d } } / k _ { \\mathrm { a } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and Coot (Emsley and Cowtan 2OO4） were used to complete the model. Statistics for data collection and refinement are given in Table 3.The qualities of the final structures were evaluated using PROCHECK (Laskowski et al. 1993).DNA conformations were analyzed using the pro gram X3DNA (Lu and Olson 2O08). All images were pre pared using Pymol (http://www.pymol.org) and ESPript (Gouet et al. 1999). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Kinetic analysis of the interaction of loop $_ { \\beta 3 - \\beta 4 }$ mutants with DNA ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Loop $_ { \\beta 3 - \\beta 4 }$ of Cren7 comprises seven amino acid residues, i.e.,Ala29,Pro30,Lys31,Gly32,Arg33,Lys34 and Gly35. We have previously shown that single-alanine substitution of Pro30,Lys31 or Arg33,each of whichis located on the DNA-binding surface of Cren7,resulted in significant reduction in binding affinity of the protein for dsDNA (Zhang et al.2O1O). To learn more about the role of loop $_ { \\beta 3 - \\beta 4 }$ in the interaction of Cren7 with DNA,we first introduced a single-alanine substitution at Pro30,Lys31,Arg33 or Lys34 and double-and triple-alanine substitutions at the latter three basic amino acid residues,and compared the ability of these mutants to bind DNA and constrain negative DNA super coils (supplementary figure S1, Fig. 2; Tables 1,2).All the mutants showed reduced binding affinity for DNA,as compared to that of wild-type Cren7. The four single mutants, i.e.,P30A,K31A,R33A and K34A,were similar in binding affinity with $K _ { \\mathrm { D } }$ values in the $1 0 ^ { - 7 } \\mathrm { ~ M ~ }$ range. However, the scattred distribution of the mutants in the $k _ { \\mathrm { a } } / k _ { \\mathrm { d } }$ map suggests that these amino acid residues may differ in their roles in DNA binding by Cren7.The association rate constant $( k _ { \\mathrm { a } } )$ of P30A was nearly identical to that of wild-type Cren7, but the dissociation rate constant $( k _ { \\mathrm { d } } )$ of the mutant was fourfold as high as that of the wild-type protein.Presumably, the hydrophobic interactions between the side chain of $\\mathrm { P r o } 3 0$ and the bases of the DNA serve to stabilize the Cren7- DNA complex. On the other hand, mutation of each of the three basic amino acid residues was accompanied by a 10- to 20-fold increase in both $k _ { \\mathrm { a } }$ and $k _ { \\mathrm { d } }$ and, therefore,only a slight decrease in DNA-binding affinity. Among the three single mutations,substitution of Ala31 for Lys31 resulted in the largest decrease ( ${ \\bf \\tilde { \\rho } } _ { \\sim } 5  \\bf \\$ fold) in DNA-binding affinity, pointing to the importance ofLys31 in the interaction of the protein with the DNA.R33A showed a slight reduction $( \\sim 1 . 3$ fold) in DNAbinding,because its rates of both association and dissociation increased to similar extents.Notably, mutation of Lys34,which is not in contact with the DNA in the crystals (Zhang et al. 2O1O),also led to a twofold decrease in the binding affinity of the protein,raising the possibility that the residue interacts with the DNA in solution.This is consistent with the observation that alanine substitution of both Lys34 and Lys31 or Arg33 further reduced the binding affinity by two- or fivefold, respectively,as compared to that of K31A or R33A.In fact, the $K _ { \\mathrm { D } }$ values of the three double mutants (K31A/R33A,K31A/K34A and R33A/K34A) were similar $( 1 . 2 \\mathrm { - } 1 . 5 ~ \\mu \\mathrm { M } )$ .Moreover, the double mutants were clustered in the $k _ { \\mathrm { a } } / k _ { \\mathrm { d } }$ map, exhibiting a tenfold decrease in DNA-binding affinity,as a result of a slight decrease in both $k _ { \\mathrm { a } }$ and $k _ { \\mathrm { d } }$ values,as compared to those of the wild-type protein. Substitution of all three basic residues with alanine reduced the binding affinityof Cren7for DNAby over two orders of magnitude,emphasizing the critical role of the positively charged residues on loop $_ { \\beta 3 - \\beta 4 }$ in the interaction of the protein with the DNA. Intriguingly, the drastic loss in DNA binding by K31A/R33A/K34A was due primarily to a 40-fold decrease in the $k _ { \\mathrm { a } }$ of the protein.A threefold reduction was observed in the dissociation rate constant of the triple mutant.It is worth noting that both the double and the triple mutants had similar dissociation rate constants.These results suggest that the positive surface electric potential in the loop $_ { \\beta 3 - \\beta 4 }$ region plays a key role in the Cren7-DNA interaction and contributes more to the association of Cren7 to DNA than to the stabilization of the Cren7-DNA complex. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/62722724fd7fd5ef40ee405728b761d28929b3343701f05f80f1bc29c5da6d86.jpg",
+        "table_caption": [
+            "Table1 Amino acid sequences of loop $_ { \\beta 3 - \\beta 4 }$ and its mutant forms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Protein</td><td>Sequence</td></tr><tr><td>Cren7</td><td>28-L APKGRKG V-36</td></tr><tr><td>LD</td><td>28-L A---------G V-29</td></tr><tr><td>GR</td><td>28-L ------GR---- V-31</td></tr><tr><td>GK</td><td>28-L ------GK---- V-31</td></tr><tr><td>Sac7d</td><td>26-V GK M-29</td></tr><tr><td>P30A</td><td>28-L AAKGRKG V-36</td></tr><tr><td>K31A</td><td>28-L APAGRKG V-36</td></tr><tr><td>R33A</td><td>28-L APKGAKG V-36</td></tr><tr><td>K34A</td><td>28-L APKGRAG V-36</td></tr><tr><td>K31A/R33A</td><td>28-L APAGAKG V-36</td></tr><tr><td>K31A/K34A</td><td>28-L APAGRAG V-36</td></tr><tr><td>R33A/K34A</td><td>28-L APKGAAG V-36</td></tr><tr><td>K31A/R33A/K34A</td><td>28-L APAGAAG V-36</td></tr><tr><td>G32A</td><td>28-L APKARKG V-36</td></tr><tr><td>G35A</td><td>28-L APKGRKA V-36</td></tr><tr><td>△G32</td><td>28-L APK--RKG V-36</td></tr><tr><td>△G35</td><td>28-L APKGRK-- V-36</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e02a85d6f7e5b75d982c8081f568493a0e2e7f5a15d018d7bd927444245721e2.jpg",
+        "table_caption": [
+            "Table2 Kinetic analysis of DNA binding by wild-type and mutant Cren7by SPR ",
+            "a Equilibrium and kinetic rate constants for this mutant were calculated using a steady-state binding model(BIA evaluation 4.1 software) b Not determined "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Mutant</td><td>Affinity KD (M)</td><td>Association rate ka (M-1s-1)</td><td>Dissociation rate kd (s-1)</td></tr><tr><td>Cren7-WT</td><td>1.34 × 10-7</td><td>6.13 ±0.14 ×10</td><td>8.21±0.34 × 10-4</td></tr><tr><td>LDa</td><td>2.10 ×10-5</td><td>NDb</td><td>NDb</td></tr><tr><td>GR</td><td>1.67 × 10-6</td><td>2.63 ±0.04 × 10</td><td>4.38 ± 0.06 × 10-3</td></tr><tr><td>GK</td><td>2.78 × 10-6</td><td>1.90 ± 0.06 × 10</td><td>5.29 ±0.08 × 10-3</td></tr><tr><td>P30A</td><td>4.73 × 10-7</td><td>6.59 ± 0.10 × 10</td><td>3.12 ± 0.04 × 10-3</td></tr><tr><td>K31A</td><td>6.46 × 10-7</td><td>1.57 ± 0.04 × 104</td><td>1.01 ± 0.02 × 10-2</td></tr><tr><td>R33A</td><td>1.79 ×10-7</td><td>7.75 ±0.16 × 104</td><td>1.39 ± 0.02 × 10-2</td></tr><tr><td>K34A</td><td>2.36 × 10-7</td><td>3.91 ± 0.03 × 104</td><td>9.20 ±0.06 × 10-3</td></tr><tr><td>K31A/R33A</td><td>1.53 × 10-6</td><td>1.58 ± 0.03 × 10</td><td>2.42 ± 0.05 ×10-3</td></tr><tr><td>K31A/K34A</td><td>1.46 × 10-6</td><td>1.67 ± 0.06 × 10</td><td>2.45 ±0.16× 10-3</td></tr><tr><td>R33A/K34A</td><td>1.18 × 10-6</td><td>2.99 ±0.09×10</td><td>3.53 ± 0.11 × 10-3</td></tr><tr><td>K31A/R33A/K34A</td><td>1.69 × 10-5</td><td>1.58 ± 0.05× 10²</td><td>2.67 ± 0.06 × 10-3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Contribution of the basic residues in loop $_ { \\beta 3 - \\beta 4 }$ to constraining of negative DNA supercoils by Cren7 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cren7 is highly efficient in constraining DNA into negative supercoils (Guo et al. 20O8). Nick-closure assays were performed to determine the ability of the above loop $\\beta 3 \\mathrm { - } \\beta 4$ mutants to constrain DNA supercoils (Fig.3a). Singly nicked pBR322 was ligated in the absence or presence of wild-type or mutant Cren7.It was noticed that the plasmid nick closed by T4 DNA ligase at $2 5 ~ ^ { \\circ } \\mathrm { C }$ appeared to be slightly positively supercoiled rather than relaxed. This presumably resulted from the small difference in the experimental conditions (e.g.， temperature,ionic strength) of the nick ligation assay and electrophoresis in agarose gel (Mai et al. 1998). As increasing amounts of the protein were added to the reaction and thus increasing amounts of negative supercoils were constrained by the protein,the ligated plasmid first lost positive supercoils and subsequently accumulated negative supercoils. The linking changes of the ligated pBR322 were measured by band counting and plotted against the protein/DNA mass ratios (Fig.3b).The slope of each plot is taken as a measure of the efficiency of the protein in constraining DNA supercoils. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig. 3b, ${ \\sim } 2 3$ negative supercoils were constrained by Cren7 at the mass ratio of 1:1 (molecular ratio of ${ \\sim } 4 3 6 { : } 1 \\$ ). This translates into binding of 2O7 to 253 Cren7 molecules to a plasmid molecule according to the stoichiometry of 9-11 Cren7 molecules for a constrained supercoil (Zhang et al. 2O1O). Given a DNA-binding site size of $^ { \\sim 8 }$ bp,\\~545 Cren7 molecules are required to saturate the 4361-bp pBR322 DNA molecule.Therefore,the binding of Cren7 to the plasmid DNA was far from saturation at the mass ratio of 1:1.This is consistent with our previous finding that Cren7 did not saturate the pBR322 DNA until the mass ratio reached 8:1 (Guo et al. 2008). P30A constrained DNA supercoils as efficiently as wildtype Cren7. Since the former was fourfold weaker than the latterin bindingto DNA,it seems that the ability of Cren7 to constrain DNA supercoils is not directly related to the affinity of the protein to DNA.All of the remaining alanine substitution mutants of Cren7 showed significantly reduced ability to constrain negative DNA supercoils,as compared to that of the wild-type protein. There appears to be a general correlation between the number of basic residues on loop $_ { \\beta 3 - \\beta 4 }$ and the supercoil-constraining ability of the protein variants. Cren7 containing one,two or three alanine substitutions at Lys31,Arg33 and Lys34 residues was approximately 2-,4- or 16-fold,respectively,less efficient in constraining DNA supercoils than the wild-type protein. In other words, the effciency of supercoil constraining by the protein decreased by approximately fourfold with the loss of each basic residue on loop $\\mathsf { \\beta 3 - } \\mathsf { \\beta 4 }$ . Notably， little difference in DNA supercoiling was observed between the three single mutants or between the two double mutants, although each of the two sets of the mutants differed among themselves in DNA-binding affinity. Therefore，we infer ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 DNA nick-closure assays.a Effect of mutations in loop $_ { \\beta 3 - \\beta 4 }$ on the ability of Cren7 to constrain negative DNA supercoils.Plasmid DNA containing a single nick was incubated in the presence of increasing amounts of wildtype or mutant Cren7 before ligation by T4 DNA ligase. Protein/DNA mass ratios were 0,0.0625,0.125,0.25,0.5,1,2, 4,8,16 and 32,respectively.C pBR322 with a single nick,N nicked pBR322 DNA, $L$ linear pBR322DNA,S negatively supercoiled pBR322DNA.b A plot of the linking number change against the protein/ DNA mass ratio by linear fit with the software Origin 7.5. The plots forK31A,R33A and K34A are overlapping and thus shownasasingle solid line; those for P30A,GR andK31A/ K34A are shown as a dashed line;and those for the rest of the proteinsare shownasa solid line.The linking number change of pBR322 nick closed in the presence orabsence of a Cren7 mutant was measured by resolving plasmid topoisomers on an agarose gel,as shown in Fig. 2a, and subsequent band counting ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/579283a9a3987f84a772c6ea36891a205216f7789582339cdc2fda3cf92f9088.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "from these observations that the positively charged residues in the loop region exert a similar impact on DNA geometry. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The role of the glycine residues on loop $\\beta 3 \\mathrm { - } \\beta 4$ in the folding of Cren7 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Among the seven residues in loop $\\beta 3 \\mathrm { - } \\beta 4$ ，two glycine residues(Gly32 and Gly35）are highly conserved in the Cren7 homologs (Fig.1),suggesting their importance to the structure and/or function of Cren7.To understand the potential roles of the two residues,we performed alanine substitution and deletion analyses on each of the two glycine residues(Table 1).Four mutants,i.e.,G32A,G35A, $\\Delta \\mathrm { G } 3 2$ and $\\Delta \\mathrm { G } 3 5$ ，resembled wild-type Cren7 in both DNA binding and supercoiling (Data not shown). This is not unexpected since the two glycine residues are not in contact with DNA in the Cren7-DNA cocrystals (Zhang et al.2O1O). Surprisingly,however, an unexpected protein peak,in addition to the typical monomeric Cren7 peak, was found when G32A, $\\Delta \\mathrm { G } 3 2$ and $\\Delta \\mathrm { G } 3 5$ were subjected to size exclusion chromatography (Fig. 4). Since the protein variants eluted as monomers in the expected peak showed calculated molecular masses ranging from 8.86 to $9 . 0 5 \\ \\mathrm { k D a }$ ，the protein species that came off the column in the additional peak appeared to be dimers based on their molecular masses( $1 8 . 6 { - } 2 1 . 0 ~ \\mathrm { k D a }$ in size). Substitution of Gly32 with alanine facilitateddimerization of the mutant, with ${ \\sim } 1 5 ~ \\%$ of the G32A molecules existing as dimers under our experimental conditions.Deletion of Gly32 increased the formation of dimers to ${ \\sim } 3 0 ~ \\%$ .G35A existed as monomers,while about half of the $\\Delta \\mathrm { G } 3 5 ~ \\mathrm { m o l } .$ ecules formed dimers.Therefore,the two glycine residues may serve to promote proper folding of Cren7,allowing the protein to exist as a monomer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b3fd913e632422f1206f08225657d1162baf6b3df5594da6cfba60428908669.jpg",
+        "img_caption": [
+            "Fig.4 Gel filtration chromatography of wild-type and mutant Cren7. All the protein samples were loaded at the same amount $( \\sim 6 0 0 ~ \\mu \\mathrm { g }$ protein in $1 0 0 \\ \\mu \\mathrm { l } )$ ，as described in “Materials and Methods\".The Y-axis represents the absorbance at $2 8 0 ~ \\mathrm { n m }$ .The scale forthe Y-axis for each elution profile was adjusted to permit easy comparison of the elution times of the proteins.Molecular weight markers (conalbumin, 75kD；ovalbumin,44kD；carbonic anhydrase,29kD；ribonuclease, $1 3 . 7 \\mathrm { k D }$ ；aprotinin, $6 . 5 \\mathrm { k D } \\$ ）areindicated.The calculated molecular masses of the sample peaksarealso shown "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Significance of the length of loop $_ { \\beta 3 - \\beta 4 }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Unlike Cren7,Sac7d possesses a small hinge between $\\beta 3$ and $\\beta 4$ strands. Sequence alignment of the two structurally homologous proteins reveals the similarity between the two residues(Gly32-Arg33) in the middle of loop $_ { \\beta 3 - \\beta 4 }$ of Cren7 and the hinge region of Sac7d (Gly27-Lys28). A question then arises as to whether the function of loop $_ { \\beta 3 - \\beta 4 }$ in Cren7 can be maintained by a much shorter hinge similar to that in Sac7d. To answer this question,we prepared three deletion mutant proteins of Cren7, denoted LD, GR and GK，respectively (Table 1).LD,constructed by deleting the Pro3O-Lys34 region,had a short loop consisting of an alanine residue and a glycine residue.To mimic the hinge between $\\beta 3$ and $\\beta 4$ strandsin Sac7d, GR and GK were made by substituting the seven-residue $\\mathsf { \\beta 3 - } \\mathsf { \\beta 4 }$ loop for a two-residue stretch (i.e.,Gly-Arg for GR and GlyLys for GK).DNA binding by these mutants was analyzed by SPR (Table 2). In agreement with a previous report (Feng et al. 2010), the $K _ { \\mathrm { D } }$ of LD was ${ \\sim } 2 0 ~ \\mu \\mathrm { M }$ ，whichwas nearly 2OO-fold higher than that of wild-type Cren7 $( \\sim 1 2 3$ nM).The substantial loss in the binding affinity of LD for DNA was almost entirely attributable to an increase in $k _ { \\mathrm { d } }$ ，which was too high to be determined from the dissociation curves,indicating that the LD-DNA complex was veryunstable.By comparison, the affinities of GR and GK for DNA were lower than the wild-type protein by only ${ \\sim } 1 0 -$ and ${ \\sim } 2 0$ -fold,respectively.A slight decrease in $k _ { \\mathrm { a } }$ and amodest increase in $k _ { \\mathrm { d } }$ were observed for both mutant proteins.The difference between LD and GR(or GK） in DNA-binding affinity indicates that the positive charge in the loop region is crucial to the binding of Cren7 to DNA. Since LD binds to DNA less tightly than the triple substitution mutant (K31A/R33A/K34A),in which the three basic residues on loop $_ { \\beta 3 - \\beta 4 }$ were replaced with alanine,the size of the loop appears to contribute to the stability of the Cren7-DNA complex as well.This is also supported by the resemblance of both GR and GK to the double-substitution mutants (K31A/R33A,K31A/K34A and R33A/K34A） in DNA-binding kinetics and affinity,as shown by the clustering of these mutants in the $k _ { \\mathrm { a } } / k _ { \\mathrm { d } }$ map (Fig. 2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/718c83605f65cfcdf635ed797f718bc880c00237409b267154360e4afdf34061.jpg",
+        "table_caption": [
+            "Table 3 Data collection and refinement statistics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>GR-GTGATCAC</td><td>Cren7-GTGATCAC</td></tr><tr><td>Data collection</td><td></td><td></td></tr><tr><td>Space group</td><td>P222</td><td>C222</td></tr><tr><td>Cell dimensions</td><td></td><td></td></tr><tr><td>a,b,c (A)</td><td>42.5,41.8,54.3</td><td>77.9,77.9,104.4</td></tr><tr><td>α,β,γ(°)</td><td>90.0,90.0,90.0</td><td>90.0,90.0,90.0</td></tr><tr><td>Resolution (A)</td><td>50-1.80 (1.86-1.80)</td><td>50-2.30 (2.38-2.30)</td></tr><tr><td>Rmerge</td><td>0.05 (0.08)</td><td>0.04 (0.48)</td></tr><tr><td>I/oI</td><td>40.6 (25.3)</td><td>37.6 (3.7)</td></tr><tr><td>Completeness (%)</td><td>99.5 (99.0)</td><td>97.9 (96.3)</td></tr><tr><td>Redundancy</td><td>6.7 (6.6)</td><td>7.2 (7.4)</td></tr><tr><td>Refinement</td><td></td><td></td></tr><tr><td>Resolution (A)</td><td>17-1.80</td><td>50-2.30</td></tr><tr><td>No.of reflections</td><td>8922</td><td>13431</td></tr><tr><td>Rwork/Rfree</td><td>0.219/0.252</td><td>0.200/0.232</td></tr><tr><td>No. of atoms</td><td></td><td></td></tr><tr><td>Protein</td><td>423</td><td>926</td></tr><tr><td>DNA</td><td>322</td><td>644</td></tr><tr><td>Water</td><td>72</td><td>116</td></tr><tr><td>B-factors</td><td></td><td></td></tr><tr><td>Protein</td><td>13.0</td><td>47.0</td></tr><tr><td>DNA</td><td>11.5</td><td>33.2</td></tr><tr><td>Water</td><td>15.6</td><td>42.1</td></tr><tr><td>Rms deviations</td><td></td><td></td></tr><tr><td>Bond lengths (A)</td><td>0.016</td><td>0.008</td></tr><tr><td>Bond angles (°)</td><td>1.7</td><td>1.3</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The deletion variants of Cren7 were also assayed for theirability to constrain DNA supercoils.All three mutants were able to constrain negative DNA supercoils (Fig.3).As expected,LD was 32-fold less effcient than the wild-type Cren7 in constraining DNA supercoils.By contrast,the ability ofGR or GK to constrainDNA supercoils was about fourfold lower than that of Cren7.It should be noticed that the difference in the ability to constrain negative supercoils between wild-type Cren7 and the three variants was slightly underestimated since the comparison was made at the same protein/DNAmassratio and there wasa smalldifference $( \\sim 1 0 ~ \\% )$ in molecular mass between wild-type Cren7 $( { \\sim } 6 . 5 \\ \\mathrm { k D a } )$ and the three variants $( { \\sim } 6 ~ \\mathrm { k D a } )$ ，which corresponded to the protein/DNA molar ratios of 436:1 for wildtype Cren7 and 472:1 for the deletion variants,at the mass ration of1:1.In addition, the efficiencies of GK and GR in constraining DNA supercoils were similar despite their difference in DNA-binding affinity. Interestingly, both GR and GK constrained supercoils with slightly higher efficiencies than the double substitution mutants,although the former hadlower affinity for DNA than the latter (Table 2).It is speculated that replacement of the long loop,which covers 2 bp of DNA(Zhang etal. 2O1O),with a short hinge in Cren7 would reduce the binding size of the protein,allow increased binding density and thus enhance the efficiency of the protein to constrain DNA supercoils.Taken together, our results show that replacement of loop $_ { \\beta 3 - \\beta 4 }$ with a short hinge lacking a positively charged amino acid residue significantly impaired the ability of Cren7 to bind DNA and to constrain DNA supercoils,and this ability of the protein was partially restored if the hinge region contained a positivelycharged residue. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Crystal structure of the GR-DNA complex ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To determine the structural basis of the effect of replacement of loop $_ { \\beta 3 - \\beta 4 }$ with a short hinge on DNA binding and supercoil constraining by the protein，we attempted to co-crystallize GR with one of the three 8-bp doublestranded DNA fragments (supplementary table S1). The crystal structure of GR-d(GTGATCAC)2 was solved and refined to $1 . 8 \\mathrm { ~ \\AA ~ }$ (Table 3; Fig. 5a). A single protein in labeled in pink and blue,respectively.d Superposition of the Cren7- GTGATCAC (pink)，GR-GTGATCAC(blue）and Sac7d-GTAATTAC(yellow;PDB code:1AZQ) complexes fitted byall atoms from oneof the DNA strands.eA detailed view of the DNA structures in d. The T2pA3 step is marked,and loop $_ { \\beta 3 - \\beta 4 }$ and Lys31 of Cren7 are also shown ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a640b8aaade81fb690e3e39cdac4912841ac00ce1ac086539c1ea344b90a3336.jpg",
+        "img_caption": [
+            "Fig.5 Crystal structure of the $\\mathrm { { G R \\mathrm { { - } d ( G T G A T C A C ) _ { 2 } } } }$ complex.a Ribbon diagram of the GR-GTGATCAC complex.b Superposition of Cren7 and GR in complex with GTGATCAC,fitted by common protein main-chain atoms.c The DNA-binding surfaces of Cren7 and GR,with selected side chains labeled.The loop $_ { \\beta 3 - \\beta 4 }$ regions of the two proteins are highlighted,and the residues of Cren7 and GR are "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "complex with DNA is found in the asymmetric unit.The crystal structure of wild-type Cren7 in complex with the same DNA duplex was also resolved and refined to $2 . 3 \\textrm { \\AA }$ (Table 3; Fig. 5a). Two Cren7-GTGATCAC complexes are in the asymmetric unit and the root-mean-square deviation (rmsd) value between them is $0 . 0 1 6 \\mathring { \\mathrm { A } }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Superposition of GR with wild-type Cren7 in complex with DNA，fitted by their $\\alpha$ -carbons with a root-meansquare distance of $0 . 3 2 6 \\mathrm { ~ \\AA ~ }$ ， shows a similar overall structure with conformational differences in the regions of N-terminal five residues and loop $_ { \\beta 3 - \\beta 4 }$ (Fig. 5b). The GR-DNA complex also shares an overall structure with the Cren7-DNA complex.GR binds DNA as monomers in the minor groove. The bound protein induces a sharp kink $( \\sim 4 8 ^ { \\circ } )$ in the DNA duplex toward the major groove by intercalation of the side chain of Leu28 into the G3A4 step.The minor groove at the intercalating site is drastically widened to an A-form-like conformation.Remarkably,deletion of the long flexible loop leads to a reduction in binding size for GR $( { \\sim } 6 ~ \\mathsf { b p } )$ ，as compared to that for wild-type Cren7 $( \\sim 8 \\ \\mathrm { \\ b p } )$ (supplementary figure S2). The short loop between $\\beta 3$ and $\\beta 4$ strands in GR remains fixed in the minor groove,but $\\mathrm { A r g } 3 0$ on the loop does not interact with DNA,as evidenced by the poor electric density of the side chain of Arg3O in the crystal lattice. Structural comparison between GR and Sac7d in complex with DNA shows similar conformations in the region between $\\beta 3$ and $\\beta 4$ strands (Fig. 5d). All DNA-interacting residues are located on the triple-stranded $\\beta$ -sheet in GR. GR is similar to wild-type Cren7 in DNA-binding surface except for the conformational changes in Lys24 and Val31 side chains (Fig. 5c).Lys24 in GR contacts the phosphate group of C6 and the deoxyribose of T5 through hydrophobic interactions instead of forming hydrogen bond to the O1P of C6 through its $\\mathrm { N H } _ { 2 }$ group,as found in the Cren7- DNA complex. Val31 of GR is still in close contact with the C14pA15 step of DNA,as in the Cren7-DNA complex. The side chain of Val31,however, is rotated by ${ \\sim } 9 0 ^ { \\circ }$ clockwise and its hydrophobic interaction with the deoxyribose of C14 no longer exists. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Deformationof DNAby bound GR ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the crystal structure,the DNA bound by GR is similar to that bound by wild-type Cren7 in global conformation except that the backbone in the $\\mathrm { T } 2 \\mathrm { p } \\mathrm { G } 3$ region in the GRDNA complex is not as deformed as in the wide-type protein-DNA complex (Fig.5d, e).In fact, the local conformation of this region in the DNA bound by GR resembles that in the Sac7d-GTAATTAC complex. The phosphate group between T2 and G3 in the DNA bound by wild-type Cren7 is translocated as a result of the formation of a hydrogen bond to Lys31，resulting in distortion in the backbone. Bycomparison,theDNA backbone in the GR-DNA and Sac7d-DNA complexes is much smoother due to the lack of direct contacts between the loop and the backbone phosphate group. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/835c9132a68850d24773579c0b6e2e4f76ede1b85a2dbf1b6aa91db5cddc77dc.jpg",
+        "table_caption": [
+            "Table 4 DNAhelical parametersof the Cren7- GTGATCAC and GRGTGATCAC complexes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Step</td><td colspan=\"3\">Cren7-GTGATCAC</td><td colspan=\"3\">GR-GTGATCAC</td></tr><tr><td>Rise (A)</td><td>Roll (°)</td><td>Twist (°)</td><td>Rise (A)</td><td>Roll (°)</td><td>Twist ()</td></tr><tr><td>GT/AC</td><td>3.14</td><td>2.21</td><td>29.97</td><td>3.43</td><td>-4.03</td><td>30.14</td></tr><tr><td>TG/CA</td><td>2.93</td><td>8.56</td><td>27.61</td><td>2.83</td><td>7.94</td><td>30.45</td></tr><tr><td>GA/TC</td><td>6.21</td><td>45.38</td><td>20.53</td><td>6.24</td><td>48.43</td><td>19.47</td></tr><tr><td>AT/AT</td><td>3.12</td><td>6.06</td><td>23.09</td><td>3.22</td><td>4.93</td><td>26.01</td></tr><tr><td>TC/GA</td><td>3.22</td><td>13.57</td><td>23.01</td><td>3.26</td><td>12.17</td><td>26.10</td></tr><tr><td>CA/TG</td><td>3.30</td><td>-4.67</td><td>48.96</td><td>3.21</td><td>-10.37</td><td>46.24</td></tr><tr><td>AC/GT</td><td>3.21</td><td>-1.71</td><td>30.04</td><td>3.37</td><td>0.49</td><td>31.76</td></tr><tr><td>Average</td><td>3.59</td><td>9.91</td><td>29.03</td><td>3.65</td><td>8.51</td><td>30.02</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As observed in the complex of wild-type Cren7 with DNA,binding of GR dramatically widens the minor groove to about $1 2 . 0 \\mathrm { ~ \\AA ~ }$ at the site of intercalation, changing the local DNA conformation from B-form $( 6 . 0 \\mathrm { ~ \\AA ~ } )$ to A-form (11.1 A) (Arnott 1999). The major groove at this site is narrowed by about $2 . 6 \\textup { \\AA }$ to $9 . 0 \\textup { \\AA }$ ，as compared to $1 1 . 6 \\mathrm { ~ \\AA ~ }$ in B-form DNA.In comparison,the width of the major groove at the intercalation site in the wild-type Cren7- GTGATCAC complex $( 1 2 . 0 \\mathrm { \\AA } )$ remains unchanged. Notably, GR alters minor and major grooves in the same manner as Sac7d,which widens the minor groove to ${ \\sim } 1 2 . 9 \\mathrm { ~ \\AA ~ }$ and narrows the major groove to ${ \\sim } 8 . 1 \\mathrm { \\AA }$ in the protein-GTAATTAC complex (Robinson et al. 1998). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A sharp kink occurs at the G3pA4 step in both the GRDNA and the wild-type Cren7-DNA complexes. The kink angle of ${ \\sim } 4 8 ^ { \\circ }$ in the GR-DNA complex is even larger than that in the wild-type Cren7-DNA complex $( \\sim 4 5 ^ { \\circ } )$ . However, the average roll angle of the DNA duplex bound by GR $( \\sim 8 . 5 ^ { \\circ } )$ is smaller than that bound by wild-type Cren7 $( \\sim 9 . 9 ^ { \\circ } )$ ，indicating that the bound DNA is overall less curved in the GR-DNA complex than in the wild-type protein-DNA complex (Table 4). The reduction in DNA curvature in the GR-DNA complex is mainly due to negative rolls at the G1pT2 and C6pA7 steps(about $- 4 . 0 ^ { \\circ }$ and $- 1 0 . 4 ^ { \\circ }$ ，respectively)，since a positive roll of $2 . 2 ^ { \\circ }$ and a slightly negative roll of about $- 4 . 7 ^ { \\circ }$ are observed at the corresponding steps in the wild-type Cren7-DNA complex. The change in negative roll at the GlpT2 step in GRDNA seems to have resulted from the loss of the contacts between GR and the G1:C16 pair of the DNA duplex (sup plementary figure S2).On the other hand, the conformational change ofLys24 side chain,which interacts directly with the phosphate group of C6,may be responsible for the increase in negative roll at the C6pA7 step in the GR-DNA complex (Fig. 5C; supplementary figure S2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Binding of GR also induces undertwisting of the DNA helix,which is believed to result in constraining of DNAnegative supercoils (Table 4).The base pairs at the site of intercalation show the smallest twist $( \\sim 1 9 . 5 ^ { \\circ } )$ . The average twist for a single step is ${ \\sim } 3 0 . 0 ^ { \\circ }$ in the GR-GTGATCAC complex，which translates into ${ \\sim } 1 2$ bp per helical turn in bound DNA.Given the binding size of ${ \\sim } 6$ bp,binding of ${ \\sim } 1 4$ GR molecules would constrain one negative supercoil. For the wild-type Cren7-GTGATCAC complex，the average twist per base pair is ${ \\sim } 2 9 . 0 ^ { \\circ }$ ,anumber similar to that in the GR-GTGATCAC complex.However, due to its larger binding size $( \\sim 8 ~ \\mathrm { { b p } ) }$ ，wild-type Cren7 is calculated to constrain one negative supercoil for $^ { \\sim 9 }$ proteins.Therefore,the reduced efficiency of GR in constraining DNA supercoils, as compared to that of wild-type Cren7,appears to result froma decrease in both binding size and binding affinity of the protein. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cren7 and Sul7d,two chromatin proteins of similar biochemical properties and tertiary structures,are both present in abundance in Sulfolobus. Investigation of the differences between the two proteins is of importance to the understanding of their respective roles in chromosomal organization and other DNA transactions in vivo.Structural comparison between Cren7 and Sac7d reveals that the most distinguishing feature of the two proteins in DNA-binding surface is the size of the amino acid stretch between $\\beta 3$ and $\\beta 4$ strands (Zhang et al. 201O). Notably, loop $_ { \\beta 3 - \\beta 4 }$ is highly conserved among Cren7 homologs (Fig.1).In the present study,we show that loop $_ { \\beta 3 - \\beta 4 }$ serves a critical role in the structural integrity of and DNA binding and supercoil constraining by Cren7. Our results provide clues to the differencesbetween Cren7and Sac7dinbiochemical properties. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "All amino acid residues on loop $\\beta 3 \\mathrm { - } \\beta 4$ that have a relatively long side chain,i.e.,Pro30,Lys31,Arg33 and Lys34,contribute significantly to DNA binding by Cren7 (Table 1).Alanine substitution of Pro3O destabilized the Cren7-DNA complex,while mutation of the basic amino acid residues affected primarily the binding step of the Cren7-DNA interaction.Interestingly， thepositively charged side chains ofLys31 andLys34 are not in direct contact with the DNA in crystals (Zhang et al. 2O10). So the finding that their replacement with an uncharged alanine reduced the DNA-binding affinity of the protein suggests that the positive charges on the surface of loop $\\beta 3 \\mathrm { - } \\beta 4$ play a role in the interaction between Cren7 and DNA in solution.Further,nick-closure assays showed that the efficiencies of Cren7 mutants in constraining DNA supercoils were related proportionally to the number of basic residues on the loop (Fig.3). The decrease in the ability of the Cren7 mutants in constraining DNA supercoils may not be attributed solely to the decrease in the affinity of these mutants for the DNA,since P3OA,which showed a much reduced affinity for DNA as compared to wild-type Cren7, constrained DNA supercoils as efficiently as the wild-type protein.A possibility exists that the positively charged residues on loop $_ { \\beta 3 - \\beta 4 }$ are primarily involved in the deformation of DNA by Cren7. It is noticed that the Lys31 residue undergoes reversible methylation (Guo et al. 2O08).Lysine methylation in eukaryotic histones has been shown to play a key role in the regulation of chromosomal structure and gene expression (Grant 2001; Hansen et al. 2006).A similarregulatoryrole mayalso be proposedforLys31,which distorts the DNA backbone in the Cren7-DNA crystals through the formation of hydrogen bond to the phosphate group of the DNA. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The two highly conserved glycine residues on loop $\\beta 3 -$ $\\beta 4$ (Gly32 and Gly35） appear to be critical to the proper folding of Cren7.Mutation of either of the two residues led to dimerization of the protein (Fig.4). The structural basis forthe dimerization of the Cren7 mutants isunclear.It has been reported that mutation of a glycine residue (Gly55) promotes the conversion of the IgG-binding domain of proteinL from a monomeric form into a dimeric form at a protein concentration of above $3 0 ~ \\mu \\mathrm { M }$ (Kuhlman et al. 2001). The 62-residue domain consists of an $\\alpha$ -helix packed on a four-stranded $\\beta$ -sheet formed by two $\\beta$ -hairpins.Alanine substitution of Gly55,located in the C-terminal hairpin, straightens the four-residue turn in this hairpin，allowing the C-terminal $\\beta$ strand to extend out and insert into a partner protomer to form a domain-swapped dimer. Conceivably, the mutant Cren7 proteins may form dimers in a similar manner to the IgG-binding domain of protein L. It is possible that, once the glycine residue is mutated, loop $_ { \\beta 3 - \\beta 4 }$ becomes less flexible,and the straightened loop permits the $\\beta 4$ and $\\beta 5$ strands to flip out. The two $\\beta$ strands then form an intact $\\beta$ barrel with the $\\beta 1 , \\beta 2$ and $\\beta 3$ strands from another Cren7 mutant protomer. Dimerization of the mutant Cren7 protein would presumably be favored in vivo,given the millimolar levels of the protein present in Sulfolobus. Therefore,the two glycine residues appear to be essential in maintaining the flexibility of loop $\\beta 3 \\mathrm { - } \\beta 4$ and the monomeric form of Cren7 in vivo. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The presence of a much longer loop between $\\beta 3$ and $\\beta 4$ strands in Cren7 than that in Sul7d raises a question about the role of the size of the loop on the properties of the proteins.Deletion of five residues in the middle of loop $_ { \\beta 3 - \\beta 4 }$ resulted in drastic loss in both DNA-binding and supercoilconstraining abilities of Cren7.The loss of function of the shortened loop was not effectively compensated even when theloop was a small two-residue hinge (i.e.,Gly29-Arg30 for GR or Gly29-Lys30 for GK),which mimicked that in Sac7d (Figs. 2, 3). Comparison of the crystal structures of wild-type Cren7 and GR in complex with dsDNA reveals the structural basis for the possible functional differences between the long loop and the small hinge. First, GR occupies a binding site $( \\sim 6 ~ \\mathrm { b p } )$ ） smaller than that of wild-type Cren7 $( \\sim 8 ~ \\mathrm { { b p } ) }$ . Second, no base pair contacts by GR were observed in the region from G1-C16 to G3-C14,and thus the DNA strand appears much smoother than that bound by the wild-type protein. Third, DNA is less bent in the GRDNA complex $( \\sim 5 9 . 6 ^ { \\circ } )$ than in the wild-type Cren7-DNA complex $( \\sim 6 9 . 4 ^ { \\circ } )$ . Given the potential effect of DNA bending on DNA compaction，possession of the long loop is important for Cren7 to play a role in chromosomal DNA organization. Fourth, GR but not Cren7 narrows the major groove at the intercalation site.In this regard,GR shows greater resemblance to Sul7d than to Cren7.In fact,as compared to Cren7,both GR and Sul7d possess smaller DNAbinding sizes,and bend DNA without severely distorting the backbone. An exception is that the DNA curvature induced by GR is smaller than that by Sul7d.We infer from these results that the size of loop $\\beta 3 \\mathrm { - } \\beta 4$ may influence the width of the major groove of dsDNA bound by the chromatin protein and, therefore, the chromosomal accessibility of other DNA-binding proteins that function in various DNAassociated activities.The distinct difference in the impact between Cren7 and Sul7d on the major groove of DNA is consistent with non-redundant functions of the two chromatin proteins in DNA packaging and transactions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgmentsWe are gratefulto Dr.Peng Cao of the Institute ofBiophysics,Chinese Academy of Sciences for her help in structure refinement. This work was supported by grant 31130oO3 to Li Huang and grants 30900023 and 31270124 to Zhenfeng Zhang from the National Natural Science Foundation of China. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Arnott S(1999) Oxford Handbook ofNucleic Acid Structure.Oxford University Press,Oxford   \nBell SD,Botting CH,Wardleworth BN,Jackson SP,White MF(2002) The interaction of Alba,a conserved archaeal chromatin protein, with Sir2 and its regulation by acetylation.Science 296:148-151   \nCollaborative Computational Project N(1994) The CCP4 suite: programs for protein crystallography.Acta Crystallogr D Biol Crystallogr 50:760-763   \nCubonova Lu, Sandman K,Hallam SJ,Delong EF,Reeve JN (2005) Histones in crenarchaea.JBacteriol 187:5482-5485   \nDame RT (2Oo5） The role of nucleoid-associated proteins in the organization and compaction of bacterial chromatin.Mol Microbiol 56:858-870   \nDriessen RPC et al (2O13) Crenarchaeal chromatin proteins Cren7 and Sul7 compact DNA by inducing rigid bends. Nucleic Acids Res 41:196-205   \nEmsley P, Cowtan K (2Oo4) Coot: model-building tools for molecular graphics.Acta Crystallogr D Biol Crystallogr 60:2126-2132   \nFeng Y, Yao H,Wang J(2OiO) Crystal structure of the crenarchaeal conserved chromatin protein Cren7 and double-stranded DNA complex.Protein Sci 19:1253-1257   \nGao YG et al (1998) The crystal structure of the hyperthermophile chromosomal protein Sso7d bound to DNA.Nat Struct Biol 5:782-786   \nGouet P, Courcelle E, Stuart DI, Metoz F(1999) ESPript: analysis of multiple sequence alignments in PostScript. Bioinformatics 15:305-308   \nGrant PA (20o1）A tale of histone modifications.Genome Biol 2: REVIEWS0003   \nGrote M,Dijk J,Reinhardt R（1986） Ribosomal and DNA-Binding Proteins of the Thermoacidophilic Archaebacterium Sulfolobus Acidocaldarius.Biochim Biophys Acta 873:405-413. doi:10.1016/0167-4838(86)90090-7   \nGuo R,Xue H,Huang L(2Oo3） Sshl0b,a conserved thermophilic archaeal protein,binds RNA in vivo.Mol Microbiol 5O:1605-1615   \nGuo L,Feng Y, Zhang Z, Yao H,Luo Y,Wang J,Huang L (2O08) Biochemical and structural characterization of Cren7,a novel chromatin protein conserved among Crenarchaea. Nucleic Acids Res 36:1129-1137   \nHansen JC,Lu X,Ross ED,Woody RW (2006) Intrinsic protein disorder,amino acid composition,and histone terminal domains.J Biol Chem 281:1853-1856   \nKuhlman B, O'Neill JW, Kim DE, Zhang KY,Baker D (2001) Conversion of monomeric protein L to an obligate dimer by computational protein design.Proc Natl Acad Sci USA 98:10687-10691   \nLaskowski RA，Macarthur MW,Moss DS,Thornton JM(1993) Procheck—a program to check the stereochemical quality of protein structures.JAppl Crystallogr 26:283-291. doi:10.1107/ S0021889892009944   \nLu X-J,Olson WK (2008) 3DNA: a versatile,integrated software system for the analysis,rebuilding and visualization of three-dimensional nucleic-acid structures.Nat Protoc 3:1213-1227   \nLuger K,Mader AW,Richmond RK,Sargent DF,Richmond TJ (1997) Crystal structure of the nucleosome core particle at $2 . 8 \\mathrm { ~ \\AA ~ }$ resolution.Nature 389:251-260   \nLuijsterburg MS,White MF, van Driel R,Dame RT(2008) The major architects of chromatin:architectural proteins in bacteria,archaea and eukaryotes. Crit Rev Biochem Mol Biol 43:393-418   \nLuo X, Schwarz-Linek U,Boting CH,Hensel R, Siebers B,White MF(2007） CC1,a novel crenarchaeal DNA binding protein. J Bacteriol 189:403-409   \nMai VQ,Chen X,Hong R,Huang L（1998) Small abundant DNA binding proteins from the thermoacidophilic archaeon Sulfolobus shibatae constrain negative DNA supercoils.J Bacteriol 180:2560-2563   \nMarsh VL,Peak-Chew SY,Bell SD (2O05) Sir2 and the acetyltransferase,Pat,regulate the archaeal chromatin protein,Alba.J Biol Chem 280:21122-21128   \nMcCoy AJ, Grosse-Kunstleve RW,Adams PD,Winn MD,Storoni LC,Read RJ (2007) Phaser crystallographic software. J Appl Crystallogr 40:658-674. doi:10.1107/S0021889807021206   \nMurshudov GN,Vagin AA,DodsonEJ(1997) Refinement of macromolecular structures by the maximum-likelihood method.Acta CrystallogrDBiol Crystallogr 53:240-255   \nNapoliA,Zivanovic Y,Bocs C,BuhlerC,Rossi M,ForterreP,Ciaramella M(2Oo2) DNA bending,compaction and negative supercoilingbythe architectural protein Sso7dofSulfolobussolfataricus.Nucleic Acids Res 30:2656-2662   \nOtwinowski Z,Minor W(1997) Processing of X-ray diffraction data collected in oscillation mode.Method Enzymol 276:307-326. doi:10.1016/S0076-6879(97)76066-X   \nReeve JN(2Oo3) Archaeal chromatin and transcription.Mol Microbiol 48:587-598   \nRobinson H,Gao YG,McCrary BS,Edmondson SP,Shriver JW, Wang AH（1998）The hyperthermophile chromosomal protein Sac7d sharply kinks DNA.Nature 392:202-205   \nSandman K,Reeve JN(2Oo5) Archaeal chromatin proteins:different structures but common function? Curr Opin Microbiol 8:656-661   \nWu LJ (2Oo4) Structure and segregation of the bacterial nucleoid. Curr Opin Genet Dev 14:126-132   \nZhang Z,Gong Y,Guo L,Jiang T,Huang L(2O1O) Structural insights into the interaction of the crenarchaeal chromatin protein Cren7 with DNA.Mol Microbiol 76:749-759   \nZhang Z,Guo L,Huang L (2012) Archaeal chromatin proteins.Sci ChinaLife Sci55:377-385 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

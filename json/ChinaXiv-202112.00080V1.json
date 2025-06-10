@@ -1,0 +1,550 @@
+[
+    {
+        "type": "text",
+        "text": "中国北方地区季节降水与气温关系及其时空变异性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈阳，马龙，刘廷玺，黄星(内蒙古农业大学水利与土木建筑工程学院,内蒙古 呼和浩特010018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：降水与气温间关系变化对水资源、植被、农业生产等方面影响较大，但大范围、多种气候类型区的二者关系及其时空变异性的成果仍较缺乏。利用中国北方及其周边357个气象站点1951—2018年降水量、气温月数据，定性、定量揭示了中国北方地区季节降水与气温间的关系及其时空变异性。结果表明：夏季降水与气温的相关性最强，秋季、冬季次之，春季最弱;各季节降水与平均气温、平均最高气温均以负相关为主，而与平均最低气温则以正相关居多。二者关系主要有暖干型、暖湿型、冷干型和冷湿型4类。降水与气温在1950s以冷干、冷湿型关系为主，自1960s开始，冷干、冷湿型关系的覆盖范围逐渐向西缩小，暖干、暖湿开始成为东北、华北等地区降水与气温的主要关系类型,进入1970s以后，研究区整体以暖干、暖湿型关系居多，并持续至今，但东北、华北等小范围地区在21世纪以后再次出现冷干、冷湿型关系，其中冬季覆盖范围最大。本研究丰富了降水与气温间关系的研究成果，为区域生态环境改善、水资源问题应对等提供了参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：降水；气温；季节关系；时空变异性；中国北方地区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降水与气温关系的时空演变对水资源[1-2]、植被[3-5]、农业生产[6-7]等诸多方面影响较大，全面揭示二者关系及其时空变异性是重要的研究内容，但大范围、多种气候类型区季节降水与气温的关系类型有哪些？各类关系出现与持续时间的时空变异性以及年代际降水与气温关系的演变规律究竟是什么？目前仍不明确。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外关于降水与气温间关系的研究成果主要分为2大类，第1类侧重于研究降水与气温各自的变化特征及影响，其间接体现了二者关系，研究范围涉及全球[8-10]、欧洲[11]、地中海[12]、美国中西部[13-14]印度中部[15]、柯西河流域[16]、中国[17-24]等。结果表明，自1950s以来，降水与气温在全球大部分地区均以上升为主[8],对植被[9]、农业生产[10.16]等方面影响较大,破坏了作物与灌溉水间原有的供求关系[11,14],提前了植被生长季[1],使局部地区沙尘天气得以减少[18]、夏季植被覆盖状况明显改善[19]、春季、冬季径流量增加[20]。而另外少部分地区气温呈明显的上升趋势，但降水以下降为主，其改变了区域水文状况[2和自然资源分布[15，造成了局部地区夏季水资源供应量减少[13]、干旱面积扩大[21-22]、气候潜在生产力下降[23]等问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "第2类更注重于揭示降水与气温关系随时间的演变规律,涉及全球[24]、中亚[25-26]、澳大利亚西南部[27]、中国[28-29]等地区,通过平均值、标准差、帕默尔干旱指数(PDSI）、气候倾向率[30]、分段线性拟合(Piecewise linear fittingmodel)等方法判别二者关系，并对暖干、暖湿、冷干、冷湿、一致变化、反对称变化几类关系进行了探讨。结果表明，在最近一次年代际(1965—1987年）趋势转折发生以后，北美洲、澳大利亚西南部等地暖干化趋势明显，南美洲南部趋于冷湿，非洲、欧洲、中亚等均在一定程度上趋于暖湿[24-27]；中国地区降水与气温在1690s—1700s末呈暖湿型关系，而在1800s初—1960s则以冷干、冷湿型关系为主，自1970s初期再次向暖干、暖湿转型[28-29],内蒙古地区[30]、科尔沁沙地[31]、黄河流域内蒙古段3的降水与气温除个别阶段呈一致变化外，均以反对称变化为主。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综合表明，以往相关研究多为年代际降水与气温各自变化趋势的单独分析[33-34],部分针对关系的研究，也以暖干、暖湿2类为主[35],冷干、冷湿型关系鲜有涉及，未能全面、系统地揭示各类关系及其特征的时空变化，更缺乏涵盖多种气候类型区的二者季节关系及其时空变异性成果，大范围、多种气候类型区季节降水与气温的关系类型、各类关系出现与持续时间的时空变异性以及年代际降水与气温关系的演变规律仍有待研究。基于此，为使研究成果具有较高代表性和全面性，本文选取范围较广、涵盖气候类型较多的中国北方地区为研究区，利用分布于中国北方及其周边357个高密度气象站点1951一2018年降水量、平均最低气温、平均气温、平均最高气温月数据，全面揭示各季节降水与3类气温间的关系类型及时空变异性，在丰富该方面研究成果的基础上，为区域气候变化、水资源问题应对、生态环境改善等提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区为中国北方地区（ $7 3 ^ { \\circ } 4 0 ^ { \\prime } { \\sim } 1 3 5 ^ { \\circ } 0 2 ^ { \\prime } \\mathrm { E }$ 、$3 1 ^ { \\circ } 0 9 ^ { \\prime } { \\sim } 5 3 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { N } )$ ，总面积约 $5 3 1 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，包括北京市、天津市、河北省、内蒙古自治区等，共15个省（市、自治区）。东西横跨3级阶梯，地势差大，地貌复杂多样，分布有山脉、丘陵、盆地、平原、沙漠等，气候差异显著，包含温带季风性气候、温带大陆性气候和高原山地气候等，降水量 $5 0 { \\sim } 1 2 0 0 ~ \\mathrm { m m }$ ，气温-13\\~23 ℃[36]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用的资料为研究区及周边357个气象站点（图 $1 ^ { [ 3 7 ] }$ )1951—2018年降水量、平均最低气温、平均气温和平均最高气温月数据，来源于中国气象网(http://data.cma.cn/），经检验，各气象站点的各类气象数据无明显的突变和随机变化，可以代表研究区气候状况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）以箱线图和频率分布直方图相结合的方式注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2016)2923号的标准地图制作。下同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bedc8cc86d48a7bbc012be5945517daeb21c0fdc13b134535efe216f41a82c7.jpg",
+        "img_caption": [
+            "图1研究区及气象站点分布图",
+            "Fig.1 Location of the study area and distribution of the meteorological stations "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对所有数据进行质量检验，利用R语言mice工具包中随机森林模型的方法对缺测数据进行插补，最终将降水与3类气温数据的时间序列统一为1951—2018年。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）采用相关系数法分析降水与气温的相关性，相关系数的计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { x y } = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } ( x _ { i } - { \\bar { x } } ) ( y _ { i } - { \\bar { y } } ) } { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { n } ( x _ { i } - { \\bar { x } } ) ^ { 2 } \\sum _ { i = 1 } ^ { n } ( y _ { i } - { \\bar { y } } ) ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\rho _ { { } _ { x y } }$ 为降水与气温间的相关系数; $x _ { i } \\setminus y _ { i }$ 为第 $i$ 年的降水、气温季节值( $\\mathrm { ( m m , \\mathcal { C } ) }$ ； $\\bar { x } \\cdot \\bar { y }$ 为各季节降水、气温多年平均值 $\\left( \\mathrm { m m } , \\mathcal { C } \\right)$ ; $\\mathbf { \\Omega } _ { n }$ 为计算时段年数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）以降水量、平均最低气温、平均气温和平均最高气温的 $5 \\mathrm { a } , 1 1$ a滑动均值序列为基础,结合气候倾向率法分析降水与气温的变化趋势，气候倾向率的计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = { \\frac { n \\displaystyle \\sum _ { i = 1 } ^ { n } i c _ { i } - \\sum _ { i = 1 } ^ { n } i \\sum _ { i = 1 } ^ { n } c _ { i } } { n \\displaystyle \\sum _ { i = 1 } ^ { n } i ^ { 2 } - \\left( \\sum _ { i = 1 } ^ { n } i \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\theta$ 为气候倾向率 $\\bar { \\cdot } _ { \\mathrm { ~ m m } } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 或 $\\mathrm { { } ^ { 9 } C \\cdot ( 1 0 a ) ^ { - 1 } ] } ; c$ $c _ { i }$ 为第 $i$ 年的降水、气温季节值( $\\mathrm { m m } , \\mathcal { \\mathrm { C } }$ ； $n$ 为计算时段年数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4）根据降水与气温倾向率的正负情况等来确定二者的关系类型，以降水倾向率发生正负变化的年份作为将整个时段划分为多个短时段的节点，设各节点依次为a $\\phantom { + } , \\phantom { + } \\mathrm { b } , \\mathrm { c } , \\cdots$ ，则 $\\mathrm { a { \\sim } b , b { \\sim } c }$ 、…为含于1951—2018年内部的短时段， $\\theta _ { \\vert \\tilde { \\ast } \\vert \\mathrm { k _ { a b } } }$ 和 $ { \\theta _ { \\mathrm { f i f f a b } } }$ 则分别为降水与气温在时段 $\\mathrm { a { \\sim } b }$ 的气候倾向率，此处仅以 $\\mathrm { a { \\sim } b }$ 时段为例进行关系判别说明，其他时段关系的判别执行类似过程，具体判别流程如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注： $\\theta _ { \\mathrm { [ i i ] [ k a b ] } } \\ : , \\theta _ { \\mathrm { [ i i f ] a b } }$ 分别为降水与气温在 $\\mathrm { a { \\sim } b }$ 时段的气候倾向率； $^ { \\mathrm { ~ a ~ } , \\mathrm { { b } } }$ 为含于1951—2018年内部的时间节点；A\\~D为降水与气温的关系类型代号。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/abddce155604ed1263e14260997b05e40adc3ae8e3fdb9ef8a54d679c3f0f727.jpg",
+        "img_caption": [
+            "图2降水与3类气温的关系判别流程",
+            "Fig.2 Flow chart of discriminant relation between precipitation and the three types of temperature in each season "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5）对于各季节降水与气温间某类关系出现时间、持续时间的空间分布变化，利用ArcGIS软件进行克里金插值后分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1降水与3类气温的相关性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相关系数是表征变量间线性相关程度的量，此处通过相关系数来衡量降水与气温关系“贴合度”和\"对称度”。图3为1951—2018年各季节降水与3类气温相关系数的空间分布。春季降水与平均最低气温在内蒙古中西部至青海一带相关性较强，向其他方向均呈减弱趋势，除新疆外，与平均气温、平均最高气温均在华北南部相关性较强，向东北、西北减弱，新疆地区降水与平均气温、平均最高气温分别自西北向东南、自西向东相关性减弱；夏季降水与平均最低气温在青海、内蒙古中部等高海拔地区相关性较强，随海拔下降关系变弱，与平均气温、平均最高气温在青海相关性最弱，向东北、西北方向呈逐渐增强的趋势；秋季降水与平均最低气温在陕西、甘肃、宁夏3省交界处的相关性最强，向东、向西减弱，与平均气温、平均最高气温在东北、华北地区随纬度下降相关性增强，但在西北地区，与平均气温的相关性整体较弱，与平均最高气温在其东部的相关性明显强于西部；除与平均最低气温在山西、陕西2省交界处的相关性略强于周边地区外，冬季降水与平均最低气温、平均气温的相关性均自西向东减弱，与平均最高气温则随纬度下降相关性增强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2降水与3类气温的关系类型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据方法4的关系判别流程，确定出季节降水与气温的关系共有4类（图 $\\mathrm { 4 a }$ )，将这4类关系依次命名为暖湿型、冷干型、暖干型和冷湿型。某类关系在部分站点间断出现，其出现时间、持续时间分别以持续期最长一次的出现时间和整个时间序列的累计结果为准(图4b)。另外，以 $T , D$ 分别表示各类关系的出现时间和持续时间,s] $\\mathrm { ) , s u , a u , w i }$ 分别表示春季、夏季、秋季、冬季， $\\mathrm { m i n \\_ a v e \\setminus m a x }$ 分别表示平均最低气温、平均气温和平均最高气温,即：将春季降水与平均最低气温出现各类关系的时间、春季降水与平均最低气温间各类关系的持续时间、春季降水与气温(以3类气温为整体)出现各类关系的时间及其持续时间分别缩写为 $T \\mathrm { s p - m i n } \\setminus D \\mathrm { s p - m i n } \\setminus T \\mathrm { s p }$ 和$D \\mathrm { s p }$ ，其他季节和气温类型与此类似(图4c)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3降水与气温关系的时空变异性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1暖千型图5为1951—2018年各季节降水与3类气温间暖干型关系出现时间、持续时间的空间分布。研究区大部分站点均出现了暖干型关系，只有极少数站点未出现，其中，秋季降水与平均最低气温间未出现该关系的站点最多，占研究区站点总数的 $8 . 9 \\%$ 左右，主要分布在青海南部及陕西、山西2省的交界处等。 $T \\mathrm { s p - m i n } \\setminus T \\mathrm { s p - m a x } \\setminus T \\mathrm { s u }$ 均在内蒙古西部至青海一带较晚，向东、向西变早,Tsp-ave则自西向东变晚, $ { D _ { \\mathrm { s p } } }  { \\mathrm { \\Omega } }  { D _ { \\mathrm { s u } } }$ 均随纬度下降缩短; $T _ { \\mathrm { a u } }$ 在华北南部较早，向东北、西北方向变晚， $D \\mathrm { a u }$ 则自北向南变长;除Twi在研究区东北部、Twi-ave、Twi-max在内蒙古中部较晚、Dwi-max在西北、华北地区呈由东向西逐渐变短的趋势外， $T _ { \\mathrm { W i } , D \\mathrm { W i } }$ 分别自北向南变晚、变长。整体上，暖干型关系的出现时间主要集中在1970s—1990s之间,平均气温出现最早，其中，Tsu早于Tau、Twi和 $T _ { \\mathrm { S p } }$ ,平均最低气温次之，平均最高气温最晚，持续时间主要集中在10\\~35a(1970s—2010s)之间,平均气温持续时间最长 $( D \\mathrm { s p } , D \\mathrm { s u } ,$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c18e49d5abe29592931cc3ca340f3e5747fde2eb786a0bcd7e85fd2f1978881.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图3各季节降水与3类气温相关系数的空间分布",
+            "图4降水与气温关系类型判定及其出现与持续时间命名方式",
+            "Fig.4 Type determination of the relationship between precipitation and temperature and the naming method of its occurrence time and duration "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Spatial distributions of the coefficients between precipitation and the three temperature types in each season ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) 暖湿型 $\\displaystyle { \\sum _ { l = - \\frac { \\cos } { \\cos } - 1 } ^ { --- } }$ 冷干型 $\\check { \\mathbf { \\alpha } } _ { 1 } ^ { -- } \\check { \\mathbf { \\alpha } } _ { 1 } ^ { - }$ 暖干型 $\\displaystyle { \\sum _ { l = - \\infty } ^ { --- } } _ { - 1 }$ 冷湿型 图例气温降水  \n(b) 暖干 出现时间 暖干 … 暖干1951年 2018年持续时间  \n(c)春季平均最低气温-Tsp-min、Dsp-min 夏季平均最低气温-Tsu-min、Dsu-min  \n春季3类气温 夏季3类气温  \n-Tsp、Dsp 春季平均气温-Tsp-ave、Dsp-ave 夏季平均气温-Tsu-ave、Dsu-ave -Tsu、Dsu春季平均最高气温-Tsp-max、Dsp-max 夏季平均最高气温-Tsu-max、Dsu-max秋季平均最低气温-Tau-min、Dau-min 冬季平均最低气温-Twi-min、Dwi-min  \n秋3类气温 秋季平均气温-Tau-ave、Dau-ave 冬季平均气温-Twi-ave、Dwi-ave 冬季类气温秋季平均最高气温-Tau-max、Dau-max 冬季平均最高气温-Twi-max、Dwi-max",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：(a)降水与气温关系类型界定图，(b)各类关系出现时间、持续时间统计方法界定图，(c)各季节降水与3类气温间各类关系出现时间、持续时间缩写词命名图。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/51be8e3af93bf35f60104d0a7527876e160c8fb3ba068748c19b03ab9027e6c1.jpg",
+        "img_caption": [
+            "陈阳等：中国北方地区季节降水与气温关系及其时空变异性",
+            "注：图中数字表示持续时间;箭头代表其由短至长的变化方向。下同。",
+            "图5暖干型关系出现时间、持续时间的空间分布",
+            "Fig.5Spatial distributions of the occurrence time and duration of warm-dry type relationship "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Dau、Dwi依次缩短），平均最高气温次之，平均最低气温最短。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2暖湿型图6为1951—2018年各季节降水与3类气温间暖湿型关系出现时间、持续时间的空间分布。各季节降水与3类气温间未出现暖湿型关系的站点数为3\\~58个不等，其中，秋季降水与平均最低气温间未出现该关系的站点最多，占研究区站点总数的 $1 6 . 2 \\%$ ，主要分布在甘肃东南部和辽宁南部等。 $T _ { \\mathrm { s p - m i n } }$ 自东向西变晚,Tsp-ave、Tsp-max 则在东北、内蒙古西部等地较早，随纬度下降变晚，$D \\mathrm { s p - m i n } \\ . D \\mathrm { s p - m a x }$ 均自北向南缩短， $D \\mathrm { s p }$ -ave 则在内蒙古西部较长，向东、向西缩短；除 $T \\mathrm { s u }$ 在新疆西部、$T _ { \\mathrm { a u - m i n } }$ 在青海南部较早外， $T \\mathrm { s u } , T \\mathrm { a u }$ 均自北向南变晚，Dsu-min、Dau-ave、Dau-max 均自南向北变长,Dau-min则与之相反，Dsu-ave、Dsu-max在陕西北部较短,向其他方向均呈变长的趋势;Twi-min、Twi-ave在华北、新疆西部等地较晚，其余地区均较早，Twi-max则自东北向西南变晚， $D \\mathrm { w i - m i n }$ 自北向南变长，Dwi-ave、Dwi-max则与之相反。整体上，暖湿型关系的出现时间主要集中在1970s—1990s之间，平均最低气温出现最早，其中， $T _ { \\mathrm { S p } }$ 早于Tsu、Twi和$T _ { \\mathrm { a u } }$ ,平均气温次之，平均最高气温最晚，持续时间主要集中在20\\~30a（1970s—2010s)之间，且随3类气温的依次变化逐渐缩短。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/67d65d2fe7f1817907bf6e8a6c15f1aea38e1daa39b78d4de021975113f3aba3.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图6暖湿型关系出现时间、持续时间空间分布",
+            "Fig.6Spatial distributions of the occurrence time and duration of warm-wet type relationship "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.3冷千型图7为1951—2018年各季节降水与3类气温间冷干型关系出现时间、持续时间的空间分布。各季节降水与3类气温间未出现冷干型关系的站点数为55\\~179个不等，其中，夏季降水与平均气温间未出现该关系的站点最多，占研究区站点总数的 $5 0 \\%$ 左右，主要分布在新疆北部、内蒙古中部等地区。除Tsp-ave、Tsp-max、Twi-max 在研究区东北部较早、Tsu-min、Tsu-ave在新疆西部等地较晚、Twi-max在新疆北部较晚外， $T \\mathrm { s p } \\ 、 T \\mathrm { s u } \\ 、 T \\mathrm { w i }$ 均自西向东变晚, $D \\mathrm { s p - m a x }$ 自东向西变长, $D \\mathrm { s p - m i n } \\setminus D \\mathrm { s p - a v t }$ 、",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Dsu-min在内蒙古西部、Dsu-ave、Dsu-max在渤海南部最长，向东北、西北方向逐渐缩短，Dwi则自南向北变长;除Tau-min在东北地区、Tau-ave、Tau-max在渤海周边地区较晚外， $T \\mathrm { a u }$ 自西向东变早， $D \\mathrm { a u }$ 随纬度下降缩短。整体上，冷干型关系的出现时间集中在 $1 9 5 0 \\mathrm { s }$ ,平均最高气温出现最早,其中， $T \\mathrm { s u }$ 和Twi相对较早， $T _ { \\mathrm { S p } , T \\mathrm { a u } }$ 较晚，平均最低气温次之，平均气温最晚，持续时间主要集中在0\\~20a（1950s—1960s)之间,平均最低气温持续时间最长 $( D \\mathrm { s p } , D \\mathrm { w i }$ 长于 $\\boldsymbol { D } \\mathrm { s u } , \\boldsymbol { D } \\mathrm { a u } )$ ,平均最高气温次之，平均气温最短。2.3.4冷湿型图8为1951—2018年各季节降水与3类气温间冷湿型关系出现时间、持续时间的空间分布。各季节降水与3类气温间未出现冷湿型关系的站点数为32\\~136个不等，其中，春季降水与平均最低气温间未出现该关系的站点最多，占研究区站点总数的 $3 8 . 1 \\%$ （无明显的分布规律）。Tsp-min、$D \\mathrm { s p - m i n }$ 自东北向西南变晚、变短,Tsp-ave、Tsp-max除在新疆西部较晚外,整体自东向西变早, $D \\mathrm { s p } .$ -ave在内蒙古与新疆的交界处最短，向东、向西变长，而 Dsp-max 则自南向北缩短;除 Tsu-ave、Tsu-max、Tau-min、Tau-max 在新疆北部等地较晚外, $T \\mathrm { s u } , T \\mathrm { a u }$ Twi均自西向东变晚， $D \\mathrm { s u - m i n } \\setminus D \\mathrm { s u - a v e }$ 均在甘肃东南部、Dau-max在华北南部最长，向西北、东北方向逐渐缩短，Dsu-max自南向北变长，Dau-ave则与之相反， $D \\mathrm { a u - m i n }$ 自东向西变长，Dwi则在内蒙古中西部最短，向东、向西变长。整体而言，冷湿型关系的出现时间集中在1950s,平均最低气温出现最早，其中， $T \\mathrm { s u }$ 早于Tau、Tsp和Twi,平均最高气温次之,平均气温最晚，持续时间集中在0\\~20a（1950s—1960s)之间，且随3类气温的依次变化逐渐变长。2.3.5年代际季节降水与气温关系的时空演变图9为年代际季节降水与气温(以3类气温为整体进行说明)关系的空间分布(仅表示出各年代降水与气温的主要关系类型），除东北、华北地区在1960s呈暖干型关系外，春季降水与气温在1950s—1960s大多呈冷干、冷湿型关系，暖湿型关系自1970s开始在研究区较大范围内出现，并持续至2000s,进入2010s以后，除新疆、青海等地呈暖湿型关系外，研究区整体以暖干型关系为主；除西北地区外，夏季降水与气温在1950s—1990s大多呈暖干型关系，进入21世纪以后，研究区东北部趋于冷干，其余地区均由暖干转向暖湿；秋季降水与气温在1950s—1960s以冷干、冷湿型关系为主，自1970s开始向暖干转型，除东北部在2000s、2010s分别以暖干和冷湿型关系为主外，自21世纪以后，研究区整体呈暖湿型关系；冬季降水与气温在1950s以冷干、冷湿型关系为主，自1960s开始向暖干、暖湿转型，并持续至1990s，在2000s—2010s，暖湿型关系的覆盖区域范围向西缩小，冷干、冷湿开始成为东北、华北等地区降水与气温关系的主要类型",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4f263bf8b2cf77e352d5d9f10b70df72997911c27ad234b8cff2ecd8f3f1e7a.jpg",
+        "img_caption": [
+            "图7冷干型关系出现时间、持续时间空间分布",
+            "Fig.7 Spatial distributions of the occurrence time and duration of cold-dry type relationshi "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e58d1d6e1156a3625abed84d5ac672e7da848357aff6667148b32f0042f5778.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图8冷湿型关系出现时间、持续时间空间分布",
+            "Fig.8 Spatial distributions of the occurrence time and duration of cold-wet type relationship "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，冷干、冷湿型关系的出现时间自西向东变晚，其中，冷干型关系的持续时间大多随纬度下降缩短，冷湿型关系则与之相反；暖干、暖湿型关系多在内蒙古西部至青海一带出现较晚，向东、向西变早，春季、夏季暖干、暖湿型关系的持续时间自北向南缩短，秋、冬2季则与之相反。降水与气温关系整体由冷干、冷湿向暖干、暖湿转变，但不同季节、地区之间存在差异，如西北地区在1950s—1960s以冷干、冷湿型关系为主，随后向暖干、暖湿转型，春季、冬季关系发生转化的时间比夏、秋2季早；华北地区春季、秋季降水与气温关系的演变规律与西北地区类似，但其关系发生转化的时间整体早于西",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff7247d4c4134e336309750da99d3ac4fdacea153d5b7fcfd9c0025e26da5cc3.jpg",
+        "img_caption": [
+            "图9年代际季节降水与气温关系的时空演变"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.9Spatial distributions of therelationship between precipitation and temperature in diferent seasons and decades北地区，除冬季在2000s—2010s以冷干、冷湿型关系为主外，夏季、冬季的降水与气温关系在研究时段内整体由暖干向暖湿演变；东北地区夏季、冬季的降水气温关系在21世纪以前均以暖干、暖湿为主，随后向冷干、冷湿转型，除1950s外，春季的降水与气温在研究时段内大多呈暖干、暖湿型关系，而秋季的降水气温关系共经历了由冷干（1950s一1960s)到暖干（1970s—2000s）再到冷湿(2010s)的3个阶段的变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "各季节降水与平均最低气温均以正相关为主，而与平均气温、平均最高气温则以负相关居多（图",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6704fa1a9b5df815495592a7baa9e4e6b22cf52c281de4080b4247e825b45257.jpg",
+        "img_caption": [
+            "图10降水与气温相关系数正负情况统计 Fig.10 Statistics of the correlation coefficient between precipitation and temperature "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "10)。韩国[38]、英国[39]、美国[40]、日本[41]降水与平均气温呈负相关的结论与此次研究结果相互呼应，而",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "内蒙古春季降水与平均最低气温呈正相关，其东部各季节降水与平均气温呈负相关[30],科尔沁沙地[42]夏季降水与平均气温呈负相关等说法均与本文对应研究区所得结论吻合。各季节降水与3类气温相关性的强弱、正负，可能与纬度、海拔、气候类型等因素存在联系，如降水与气温在 $3 7 ^ { \\circ } \\mathrm { N }$ 以南地区相关性更强，在高原山地气候区多呈正相关，而在其他地区则与之相反。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "降水与气温关系主要有暖干型、暖湿型、冷干型和冷湿型4类，其中，冷干、冷湿型关系的出现时间自东向西变早，暖干、暖湿型关系则在内蒙古至青海出现较晚，向东、向西变早，冷干型、暖干、暖湿型关系在春、夏2季的持续时间自北向南缩短，冷湿型、暖干、暖湿型在秋季、冬季则与之相反。在1950s，降水与气温大多以冷干、冷湿型关系为主，在",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1960s，冷干、冷湿型关系的覆盖范围逐渐向西缩小，暖干、暖湿开始成为东北、华北等地区的主要关系类型，进入1970s以后，降水与气温整体以暖干、暖湿型关系居多，并持续至时段末(图11)。中国的降水与气温关系在1950s—1970s初整体以冷干、冷湿型为主，随后开始向暖干、暖湿转型[29]、西北地区自1980s开始向暖湿气候转型[22]、黄河流域内蒙古段降水与3类气温在1980s—1990s呈一致的上升趋势[32]等结论均与本次研究结果吻合，而新疆自1987年开始气候暖湿化趋势明显[42-43]、陕西省北部的黄土高原地区气候呈变暖、变干的趋势[44]等结论与本文存在一定差异，可能是所研究的气候要素、时间序列、尺度、研究区范围、方法等不同所致。21世纪以后，冬季的降水与气温在东北、华北地区以及夏、秋2季在东北地区部分呈冷干、冷湿型关系，这与加利福尼亚[45]、中国[46]等部分地区气温发生变暖\"停滞\"现象有关，可能是东亚冬季风和太平洋年代际震荡(Pacific decadaloscillation)等因素的影响所致[47],而小范围、小幅度的变冷或变暖停滞现象是经常发生的，与全球气候变暖并不冲突[13.48]",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d60299001acde63628bb560003779596a95f6bd9b294fba04bf20e3d8072884f.jpg",
+        "img_caption": [
+            "图11年代际降水与气温关系的时空变异性",
+            "Fig.11Spatiotemporal variability in the relationship between decadal precipitation and temperature "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "降水与气温的变化常常受到诸多因素的影响，如中国气候的冷暖、干湿变率与厄尔尼诺-南方涛动(ENSO)有着较好的对应关系，亦与夏季风的年代际变化紧密相连29；人类活动会对地表覆被造成影响，进而破坏地球的能量收支，引起气候变化，导致气温上升，降水减少，增加土地干旱化、荒漠化的风险[49-50];气溶胶是非常重要的致暖因子之一,通过吸收太阳辐射来加热大气，增加云滴的蒸发，改变云量和降水[5]。而关于本研究区降水与气温变化的原因及影响，今后有待进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文对中国北方地区各季节降水与3类气温关系做了详细分析，但由于数据时间长度有限、部分站点个别年份气象数据缺测、气象站点分布不均匀等原因，导致分析结果存在一定的不确定性。本次研究不仅对揭示中国地区降水与气温间关系的变化规律有一定借鉴意义，更对中国北方地区的生态环境改善、农牧业发展、水资源问题应对等有一定参考价值。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文通过相关性分析初步衡量了降水与气温关系的“贴合度\"和\"对称度”，进而通过气候倾向率等方法确定了中国北方地区降水与气温的关系类型，相比于以往研究更加全面、系统的揭示了各类关系出现与持续时间的时空变异性，亦与降水与气温的相关性相互佐证，最后得出了较为宏观的年代际降水与气温关系的时空演变规律，具体结论如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）整体上，夏季降水与气温的相关性最好，其中，降水与平均最高气温的相关性强于平均最低气温和平均气温，秋季、冬季次之，春季最弱。各季节降水与平均最低气温均以正相关为主，而与平均气温、平均最高气温则多呈负相关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2)降水与气温的关系类型主要有暖干、暖湿、冷干和冷湿4类，其中，冷干、冷湿型关系的出现时间早(1950s—1960s)且整体自西向东变晚，持续时间大多在0\\~20a之间，前者随纬度下降缩短，后者与之相反；暖干、暖湿型关系的出现时间集中在1970s—1990s,在内蒙古西部至青海一带较晚，向东、向西变早，持续时间多在20\\~40a之间，在春、夏2季，暖干、暖湿型关系的持续时间自北向南缩短，秋、冬2季则相反。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3）降水与气温在1950s以冷干、冷湿型关系为主，在1960s,冷干、冷湿型关系的覆盖范围逐渐向西缩小，暖干、暖湿开始成为东北、华北等地区的主要关系类型；进人1970s后，降水与气温整体以暖干、暖湿型关系居多，并持续至今，但东北、华北等小范围地区在21世纪以后再次出现冷干、冷湿型关系，其中冬季覆盖范围最大。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]Ngamindra D, Babu S U,Anita T.Temporal changes in precipitation and temperature and their implications on the streamflow of Rosi River, Central Nepal[J]. Climate,2019,7(1): 3,doi:10.3390/ cli7010003. [2] Zain N,Li X,Chen Y Y,et al. Temporal and spatial characteristics of precipitation and temperature in Punjab,Pakistan[J].Water,2019,11(9): 1916-1938. [3] 许洁，陈惠玲,商沙沙，等.2000—2014年青藏高原植被净初级 生产力时空变化及对气候变化的响应[J].干旱区地理,2020,   \n43(3):592-601.[Xu Jie,Chen Huiling,Shang Shasha,et al. Response of net primary productivity of Tibetan Plateau vegetation to climate change based on CEVSA model[J].Arid Land Geograghy,   \n2020,43(3): 592-601.] [4] 赵鸿雁,陈英,周翼,等.甘肃中东部增长生长季NDVI时空变 化及其对气候因子的响应[J].干旱区地理,2019,42(6):1427- 1435.[Zhao Hongyan, Chen Ying, Zhou Yi,et al. Spatiotemporal variation of NDVI invegetation growing season and its responses to climatic factors in mid and eastern Gansu Province from 2O08 to 2016[J]. Arid Land Geograghy,2019,42(6): 1427-1435.]   \n[5]张斯琦,陈辉,宋明华,等.柴达木盆地2000—2015年植被覆盖 度的时空变化及其与环境因子的关系[J.干旱区地理,2019, 42(5):1124-1132.[Zhang Siqi, Chen Hui, Song Minghua,et al. Spatial and temporal variation of fractional vegetation cover and its relationship with environmental factors in the Qaidam Basin during 2000—2015[J]. Arid Land Geograghy,2019,42(5): 1124- 1132.]   \n[6]Karimi V, Karimi E, Keshavarz M. Climate change and agriculture: Impacts and adaptive responses in Iran[J]. Journal of Integrative Agriculture,2018,17(1): 1-15.   \n[7]Liang X Z,Wu Y,Chambers R G,et al. Determining climate effects on US total agricultural productivity[J].Proceedings of the National Academy of Sciences of the United States of America, 2017,114(12): E2285,doi: 10.1073/pnas.1615922114.   \n[8]Sun Q H, Kong DX,Miao CY,et al. Variations in global temperature and precipitation for the period of 1948 to 2O10[J].Environmental Monitoring and Assessment,2014,186(9): 5663-5679.   \n[9]Schultz PA,Halpert M S.Global correlation of temperature,NDVI and precipitation[J]. Advances in Space Research,1993,13(5): 277-280.   \n[10]Gornall J, Betts R,Burke E. Implications of climate change for agricultural productivity in the early twenty-first century[J].Philosophical Transactions:Biological Sciences，2010,365(1554): 2973-2989.   \n[11]Beniston M,Richard SJT.The potential impactsof climate change on Europe[J].Energy & Environment,1998,9(4): 365-381.   \n[12]Erol A,Randhir TO.Climatic change impacts on the ecohydrology of Mediterranean watersheds[J]. Climatic Change,2012,114 (2): 319-341.   \n[13]Pratik P,Ajay K, Sajad A. Temperature and precipitation changes in the midwestern United States: Implications for water management[J]. International Journal of Water Resources Development, 2017,33(6): 1003-1019.   \n[14]Dai S W,Shulski MD,Hubbard K G,et al.A spatiotemporal analysis of midwest US temperature and precipitation trends during the growing season from 1980 to 2013[J]. International Journal of Climatology,2016,36(1): 517-525.   \n[15]Yadav S, Bhattacharya P, Srivastava K.Analysing long term seasonal and annual trends for precipitation and temperature in Central India (Article)[J]. Mausam,2019,70(3): 523-532.   \n[16]Dinesh B, Shreedhar M,Mukand B,et al. Climate trends and im pacts on crop production in the Koshi River Basin of Nepal[J]. Regional Environmental Change,2014,14(4): 1291-1301. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[17]张国斌,张勃,王东,等.近14年西南地区植被季节变化及与气",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "候关系[J].遥感信息,2016,31(1):89-95.[Zhang Guobin,Zhang Bo,Wang Dong, et al. Seasonal changes of vegetation in southwestern China and itsrelation to climate factors inrecent14 years[J]. Remote Sensing Information,2016,31(1): 89-95.]   \n[18]Huang JQ,Ma JR,Guan XD,et al.Progress in semi-arid climate change studies in China[J].Advances in Atmospheric Sciences, 2019, 36(9): 922-937.   \n[19] 宋伟宏,王莉娜,张金龙.甘肃祁连山自然保护区草地时空 变 化及其对气候的响应[J].草业科学,2019,36(9):2233-2249. [Song Weihong,Wang Lina, Zhang Jinlong. Temporal and spatial changes in response to climate in grasslands of the Qilian Mountain National Nature Reserve[J]. Pratacultural Science,2019,36 (9): 2233-2249.]   \n[20] 王珂,蒲焘,史晓宜,等.澜沧江源区气温与降水对径流变化的 影响[J].气候变化研究进展,2020,16(3):306-315.[Wang Ke, Pu Tao,Shi Xiaoyi, et al. Impact of temperature and precipitation on runoff change in the source region of Lancang River[J]. Climate Change Research,2020,16(3): 306-315.]   \n[21] 章大全,张璐,杨杰,等.近50年中国降水及温度变化在干旱形 成中的影响[J].物理学报,2010,59(1):655-663.[Zhang Daquan, Zhang Lu, Yang Jie, et al. The impact of temperature and precipitation variation on drought in China in last 50 years[J]. Acta Physica Sinica,2010,59(1): 655-663.]   \n[22]Shi Y F, Shen Y P,Kang E,et al. Recent and future climate change in northwest China[J]. Climate Change,2007,80(3-4): 379- 393.   \n[23] Cao D, Zhang JH, Yan H, et al. Regional asessment of climate potential productivityof terrestrial ecosystems and its responses to climate change over China from 1980—2018[J]. IEEE Acces, 2020(8): 11138-11151.   \n[24] 施晓晖,徐祥德.1951—2002年全球陆地气温和降水的年代际 趋势转折特征[J].自然科学进展,2008,18(9):1016-1026.[Shi Xiaohui,Xu Xiangde.The interdecadal trend turning feature of global land temperature and precipitation from 1951 to 2002[J]. Acta Physica Sinica,2008,18(9):1016-1026.]   \n[25] 迪丽努尔·托列吾别克,李栋梁.近115a中亚干湿气候变化研 究[J].干旱气象,2018,36(2):185-195.[Tuoliewubieke Dilinuer, Li Dongliang.Characteristics ofthedry/wet climate change in Central Asia in recent 115years[J].Journal of Arid Meteorology, 2018,36(2): 185-195.]   \n[26] Gong Z, Peng D L, Wen JY,et al. Research on trend of warm-humid climate in Central Asia[J].IOP Conference Series: Earth and Environmental Science,2017,74(1): 012017,doi: 10.1088/1755- 1315/74/1/012017.   \n[27] Chris S H, Alistair JH, James R T,et al. Observed and predicted impacts of climate change on the estuaries of south-western Australia,a Mediterranean climate region[J]. Regional Environmental Change,2018,18(5): 1357-1373.   \n[28]Yang M X, Yao TD,Wang HJ, et al. Correlation between precipitation and temperature variations in the past 3OO years recorded in Guliya ice core, China[J].Annals of Glaciology,2006,43: 137-141.   \n[29] 苏明峰.中国近半个世纪气候冷暖与干湿配置关系的研究[D]. 北京:中国科学院大学,2005.[Su Mingfeng.The configurable relationships between warm-cold and dry-wet in cliamte change over China[D].Beijing:University of Chinese Academy of Sciences, 2005.]   \n[30] 李虹雨,马龙,刘廷玺,等.1951—2014年内蒙古地区气温、降 水变化及其关系[J].冰川冻土,2017,39(5):1098-1112.[Li Hongyu,Ma Long,Liu Tingxi,et al. Change and relationship of temperature and precipitation in Inner Mongolia during 1951- 2014[J].Journal of Glaciology and Geocryology，2017,39(5): 1098-1112.]   \n[31] 王静茹,马龙,刘廷玺,等.1951—2012 年科尔沁沙地气温、降 水变化特征[J].干旱区研究,2016,33(1):49-58.[Wang Jingru, MaLong,Liu Tingxi,et al.Variation of temperature and precipitation in Horqin Sandy Land from 1951 to 2012[J].Arid Zone Research,2016,33(1): 49-58.]   \n[32] 黄星,马龙,刘廷玺,等.黄河流域内蒙古段1951—2012年气温 降水变化及其关系[J].自然资源学报,2016,31(6):1027-1040. [Huang Xing,Ma Long,Liu Tingxi, et al. Variations and periodic symmetry of temperature and precipitation in Inner Mongolia section of the Yellow River Basin during 1951—2012[J]. Journal of Natural Resources,2016,31(6): 1027-1040.]   \n[33]Shi PJ, Sun S,Wang M,et al. Climate change regionalization in China (1961—2010)[J]. Science China: Earth Sciences,2014,57 (11): 2676-2689.   \n[34] Samuel S, Olaf W,Alexander W, et al. Six temperature and precipitation regimes of the contiguous United States between 1895 and 2010: A statistical inference study[J].Theoretical and Applied Climatology,2016,125(1-2): 197-211.   \n[35] Mifta U S,Rehana R,Percez A,et al. Temperature and precipitation trends in Kashmir Valley,north western Himalayas[J].Theoretical and Applied Climatology,2019,135(1-2): 293-304.   \n[36] 梁珑腾,马龙,刘廷玺,等.1951—2014年中国北方地区气温突 变与变暖停滞的时空变异性[J].中国环境科学,2018,3(51): 1601-1615.[Liang Longteng,Ma Long,Liu Tingxi, et al. Spatiotemporal variation of the temperature mutation and warming hiatus over northern China during 1951—2014[J]. China Environmental Science,2018,38(51): 1601-1615.]   \n[37] 陈阳,马龙,刘廷玺,等.中国北方地区年降水与气温关系及其 时空变异性[J].生态环境学报,2021,30(1):135-145.[Chen Yang,Ma Long,Liu Tingxi,et al. The relationship between annual precipitation and temperature and its spatiotemporal variability in northern China[J]. Ecology and Environment,2021,30(1):135- ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "145.] ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[38]Kim JU,Boo KO,Shim S,et al. The seasonal correlation between temperature and precipitation over Korea and Europe and the future change from RCP8.5 scenario[J].Atmosphere,2O17,27(1): 79-91.   \n[39] Tout D G. Short communication precipitation-temperature relationships in England and Wales summers[J]. Journal of Climatology, 1987, 7(2): 181-184.   \n[40] Zhao W, Khalil M A K.The relationship between precipitation and temperature over the contiguous United States[J]. Journal of Climate,1993,6(6): 1232-1236.   \n[41]Yukari T,Yasoichi E,Shigeki M.High correlation between winter precipitation and air temperature in heavy-snowfall areas in Japan [J].Annals of Glaciology,2008,49(1): 7-10.   \n[42] 施雅风,沈永平,李栋梁,等.中国西北气候由暖干向暖湿转型 的特征和趋势探讨[J].第四纪研究,2003,23(2):152-164.[Shi Yafeng, Shen Yongping,Li Dongliang,et al. Discussion on the present climate change from warm-dry to warm-wet in northwest China [J]. Quaternary Sciences,2003,23(2): 152-164.]   \n[43] 施雅风,沈永平,胡汝骥.西北气候由暖干向暖湿转型的信号、 影响和前景初步探讨[J].冰川冻土,2002,24(3):219-226.[Shi Yafeng, Shen Yongping,Hu Ruji.Preliminary study on signal, impact and foreground of climatic shift from warm-dry to warm-humid in northwest China[J]. Journal of Glaciology and Geocryology, 2002,24(3): 219-226.]   \n[44]Li C,WuP T,Li XL,et al. Spatial and temporal evolution of climatic factors and its impacts on potential evapotranspiration in Loess Plateau of northern Shaanxi,China[J]. Science of the Total Environment,2017, 589: 165-172.   \n[45]He M X,Gautam M.Variability and trends in precipitation, temperature and drought indices in the state of California[J].Hydrology,2016,3(2): 14,doi: 10.3390/hydrology3020014.   \n[46]Du QQ,Zhang MJ,Wang SJ,et al.Changes in air temperature over China in response to the recent global warming hiatus[J]. Journal of Geographical Sciences,2019,29(4): 496-516.   \n[47]Yao SL,Huang G,Wu RG,et al. The global warming hiatus: A natural product of interactions of a secular warming trend and a multi-decadal oscillation[J]. Theoretical and Applied Climatology, 2016,123(1-2):349-360.   \n[48]苏京志,温敏,丁一汇,等.全球变暖趋缓研究进展[J].大气科 学,2016,40(6): 1143-1153.[Su Jingzhi,Wen Min,Ding Yihui,et al.Hiatus of global warming:A review[J]. Chinese Journal of Atmospheric Sciences,2016,40(6): 1143-1153.]   \n[49]Shine KP,Forster PMde F.The effect of human activity on radiative forcing of climate change: A review of recent developments[J]. Global and Planetary Change,1999,20(4): 205-225.   \n[50]Zhang Q,Han L Y,Jia JY,et al. Management of drought risk under global warming[J]. Theoretical and Applied Climatology,2016, 125(1-2): 187-196.   \n[51]Huang JP,Yu H, Guan X,et al.Accelerated dryland expansion under climate change[J].Nature Climate Change,2O16,6(2): 166- 171. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Relationship between seasonal precipitation and temperature and its spatiotemporal variability in northern China ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "CHEN Yang， MA Long， LIU Tingxi， HUANG Xing (Collge of Water ConservancyandCivilEngineeringColege,InnerMongoliaAgricultural University,Hohhot010018, Inner Mongolia, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Different relationships between precipitation and temperature have different impacts on water resources，vegetation，and agricultural production;however, there is still a lack of understanding of the relationship between the two factors and their spatiotemporal variability across a wide range of climate typologies.This paper focuses on the relationship between precipitation and temperature observed in northern China (northern China encompasses a vast area that stretches over a great distance in both the latitudinal and longitudinal directions; the total area is approximately $5 3 1 \\times 1 0 ^ { 4 } { \\mathrm { k m } } ^ { 2 }$ ,and it consists of three regions: the northwest region,which includes Qinghai, Gansu, Ningxia,Shaanxi,westerm Inner Mongolia,and Xinjiang; the northern region,which contains Hebei, Shandong, Henan, Shanxi,and central Inner Mongolia; and the northeast region, which consists of Heilongjiang, Jilin,Liaoning,and eastern Inner Mongolia.Northern China has complex and varied landforms, with various climate types.There are significant differences in surface relief,temperature,and precipitation between the western and eastern regions of northern China). Annual (and monthly)data (including the average minimum temperature, average temperature, average maximum temperature,and precipitation） were collcted at 357 meteorological stations distributed over northern China and its surrounding regions from the time of the establishment of the stations to 2018.The data were obtained from the National Meteorological Information Center of the China Meteorological Administration.The National Meteorological Information Center of China has conducted quality control on the temperature data collected at all meteorological stations.Thus, these data are reliable and contain no notable abrupt change points or random variations but instead have relatively uniform and consistent variations,and they therefore can represent the climate conditions in the study area over northern China and its surrounding regions.By adopting several statistical methods,including the central cluster method,this study reveals the relationship between precipitation and temperature in both qualitative and quantitative forms.The results indicate that the precipitation and temperature in summer showed the highest correlation,followed by autumn and winter, whereas spring showed the lowest correlation between these variables.The precipitation was negatively correlated with the average temperature and the average maximum temperature in each season，whereas it was positively correlated with the average minimum temperature.The relationships between precipitation and temperature can be divided into four classes: warm-dry, warm-wet,cold-dry,and cold-wet. Under this classification system,the majority of the area under consideration in the 195Os was classified as cold-dry orcold-wet.Inthe 196Os,the coverageofcold-dry and cold-wet gradually withdrew to the west,and warm-dry and warm-wet began to become the main classes in northeast China and other regions.After entering the 197Os,the dominant relationship between precipitation and temperature could be classed as warm-wet and warm-dry,and this classification is still valid to this day.After the turn of the $2 1 ^ { \\mathrm { s t } }$ century, the coldwet and cold-dry relationship reappeared in the northeastand other isolated regions,with the largest coverage during the winter. This work outlines research regarding the relationship between precipitation and temperature and provides a reference for the improvement of the regional ecological environment and the response to water resource problems. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: precipitation; temperature; seasonal relationship; spatiotemporal variability； northern China ",
+        "page_idx": 13
+    }
+]

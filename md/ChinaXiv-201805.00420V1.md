@@ -1,0 +1,141 @@
+# 甜菜素的生物合成及其代谢调控进展
+
+Advances of Betalains Biosynthesis and Metabolic Regulation
+
+于思礼’刘雪」张昭宇’於洪建²赵广荣 1\*\* YU Si-li LIU Xue ZHANG Zhao-yu YU Hong-jian ZHAO Guang-rong
+
+（1 天津大学化工学院制药工程系系统生物工程教育部重点实验室 天津 300350;
+
+2天津市尖峰天然产物研究开发有限公司天津 300450)
+
+(1DepartmentofPharmaceutical Engineering,SchoolofChemical EngineeringandTechnology,Tianjin University; Key Laboratory of Systems Bioengineering,Ministry of Education,Tianjin 3oo35o,China; 2 JF-NATURAL Research and Development Ltd. Tianjin 300450, China)
+
+摘要 甜菜素是一种植物源的水溶性天然含氮色素，用于食品添加剂和化妆品等行业中。在植物中甜菜素和花青素色素互不共存，其代谢途径是重要的植物化学分类指标。甜菜素兼具抗氧化、抗肿瘤、抗疟、保肝等药理作用，其潜在的医疗保健价值以及其代谢途径的独特性，促进了对甜菜素深入研究。综述了甜菜素合成途径中的关键酶和合成生物学策略生产甜菜素的国内外研究进展，为建立合成生物方法生产甜菜素提供参考。
+
+关键词 甜菜素生物合成 合成生物学 代谢工程 甜菜红苷 甜菜黄素
+
+ABSTRACT Betalains is a kind of botanical water-soluble natural nitrogen-containing pigments, which used as food additives and cosmetics.Betalains and anthocyanin pigments do not coexist in a same plant, and their metabolic pathway is an important phytochemical classification index. Betalains have potential pharmacological effects of anti-tumor,anti-oxidation,anti-malaria and liver protective,which have promoted the further study of them. The key enzymes of betalains synthesis pathway and research progress of synthetic biology strategy for betalains production at home and abroad are reviewed. It provides a reference for establishing synthetic biological method of betalains production.
+
+Key Words Betalains biosynthesis Synthetic biology Metabolic engineering Betanin Betaxanthin
+
+甜菜素是一种水溶性含氮生物碱类色素，因最早发现于甜菜根中而得名，包括甜菜红素（betacyanin）和甜菜黄素（betaxanthin）两类。到目前为止，已经从17 种植物中鉴定出了75种甜菜素结构[1。甜菜素是重要的天然色素，通常作为食品添加剂、化妆品着色剂，同时甜菜素具有抗氧化、抗肿瘤、保肝等生物活性和潜在的保健医用价值[2。另一方面，甜菜素和花青素相互排斥，至今未发现在同一种植物中同时存在着甜菜素和花青素两种色素，所以甜菜素是一种重要的化学分类指标[3]。由于甜菜素具有较高的经济价值，在植物进化和分子分类中具有重要的科学意义，促进了甜菜素生物合成途径的研究及其生产技术的开发。随着植物基因组测序和差异表达转录组的研究，甜菜素生物合成途径逐渐被解析，关键酶被鉴定出来。甜菜素是L-酪氨酸的次级代谢物，所有甜菜素的核心结构是甜菜醛氨酸。甜菜醛氨酸与环多巴结合或者糖基化后，就生成甜菜红素。而甜菜醛氨酸与氨基酸或胺结合，则生成甜菜黄素；常见的甜菜素及其代表植物如表1所示。本文综述了甜菜素生物合成（图1）的国内外研究进展，探讨了甜菜素代谢工程和合成生物学构建植物和微生物的新型生产方法和技术。
+
+表1常见甜菜素及其来源  
+
+<html><body><table><tr><td colspan="5">Table 1 Common betalains and their source</td></tr><tr><td>分类</td><td>结构</td><td>R基团</td><td>色素名称</td><td>植物来源</td></tr><tr><td></td><td>RO HO COOH</td><td>R=H</td><td>甜菜红苷配基</td><td>甜菜</td></tr><tr><td></td><td>HOOC\ NHCOOH RO-</td><td>R= Glc</td><td>甜菜红苷</td><td>甜菜</td></tr><tr><td>RO-</td><td>OH H</td><td>R=H</td><td>2-脱羧甜菜红苷</td><td>甜菜</td></tr><tr><td rowspan="8">甜菜红素</td><td>HOOC\NHCOOH</td><td>R = Malonyl</td><td>6'-O-丙二酰-2-脱羧 甜菜红苷</td><td>甜菜</td></tr><tr><td>H YCOOH</td><td>R = p-Coumaroyl</td><td>松叶菊红苷I</td><td>松叶菊</td></tr><tr><td></td><td>R = Feruloyl</td><td>松叶菊红苷Ⅱ</td><td></td></tr><tr><td>HOOC COOH COOH</td><td>R=H</td><td>叶子花紫色苷I</td><td>松叶菊 叶子花</td></tr><tr><td>HO OH HOOC\` COOH</td><td>R = p-Coumaroyl</td><td>叶子花紫色苷ⅢI</td><td>叶子花</td></tr><tr><td>HO一</td><td>R=H</td><td>苋菜红素</td><td>尾穗苋</td></tr><tr><td>H COOH</td><td>R = p-Coumaroyl</td><td>鸡冠花红素I</td><td>鸡冠花</td></tr><tr><td>HOOC COOH</td><td></td><td></td><td></td></tr><tr><td rowspan="4">RO HO个 HO OH</td><td></td><td>R = Feruloyl</td><td>鸡冠花红素ⅡI</td><td>鸡冠花</td></tr><tr><td>HO. COOH</td><td>R=H</td><td>千日红素I</td><td>千日红</td></tr><tr><td></td><td>R = p-Coumaroyl</td><td>千日红素ⅡI</td><td>千日红</td></tr><tr><td>HOOC\` COOH</td><td>R = Feruloyl</td><td>千日红素ⅢI</td><td>千日红</td></tr><tr><td rowspan="8">甜菜黄素 HOOC\`</td><td></td><td>R = Sinapoyl</td><td>千日红素IV</td><td>千日红</td></tr><tr><td></td><td>R = Aspartic acid</td><td>天冬氨酸-甜菜黄素</td><td>紫茉莉</td></tr><tr><td></td><td>R = Tyramine</td><td>酪胺-甜菜黄素</td><td>紫茉莉</td></tr><tr><td>R/+-H</td><td>R=Dopamine R = Histamine</td><td>多巴胺-甜菜黄素 组胺-甜菜黄素</td><td>紫茉莉 紫茉莉</td></tr><tr><td>NH</td><td>R = Tyrosine</td><td>酪氨酸-甜菜黄素</td><td>大花马齿苋</td></tr><tr><td>COOH</td><td>R = Glycine</td><td>甘氨酸-甜菜黄素</td><td>大花马齿苋</td></tr><tr><td></td><td>R = Proline</td><td>脯氨酸-甜菜黄素</td><td>黎果仙人掌</td></tr><tr><td></td><td>R =Hydroxyproline</td><td>羟脯氨酸-甜菜黄素</td><td>黎果仙人掌</td></tr></table></body></html>
+
+![](images/0f393ce1370c79cb888560c775060ac756550ea5439d39fbd0504332e75428a5.jpg)  
+图1甜菜素的生物合成途径  
+Fig.1 Biosynthesis pathway of betalains
+
+5-GT:Betanidin-5-O-glycosyltransferase,6-GT:Betanidin-6-O-glycosyltransferas
+
+# 1植物合成甜菜醛氨酸
+
+# 1.1酪氨酸羟化酶
+
+甜菜醛氨酸的生成起始于芳香氨基酸L-酪氨酸，在酪氨酸酶（Tyrosinase）的催化下生成L-多巴（L-DOPA）。酪氨酸酶是甜菜素合成过程的第一个关键酶，它是一个含2个Cu结合位点的蛋白，分子量一般在 $4 0 { \sim } 7 0 \mathrm { k D }$ 之间，目前已经从多种植物如大花马齿苋[4]（Portulaca grandiflora L.）、甜菜[5,6]（Beta vulgarisL.）、盐碱地蓬[7]（Suaeda salsaL.）中鉴定并克隆了酪氨酸酶。真菌捕蝇蕈[8]（Amanitamuscaria）能合成甜菜素类色素，也鉴定出来酪氨酸酶。
+
+高等植物中的酪氨酸酶既有酪氨酸羟化活性生成L-多巴，又具有氧化活性生成多巴醌。L-多巴的积累是产生甜菜醛氨酸的重要条件，这需要阻止L-多巴被进一步被氧化成为多巴醌。如碱蓬酪氨酸酶9]，表现L-多巴氧化活性的底物的亲和力明显大于酪氨酸的羟化活性，而且最大反应速率也要比羟化活性大很多。
+
+因此，还原剂在甜菜素代谢途径中是不可或缺的，它们的存在能有效地将多巴醌还原成L-多巴，从而进一步反应成甜菜醛氨酸，在一些甜菜素含量较高的植物中同时也检测到丰富的抗坏血酸[10]。另外，滕晓鹿等[11]发现过氧化氢酶-酚氧化酶也参与甜菜醛氨酸的合成，籽粒苋（AmaranthuscruentusL.）来源的该酶具有酪氨酸酶的全部活性，对L-酪氨酸的单酚氧化活性和对L-多巴的双酚氧化活性，还具有过氧化氢酶活性，并在序列上确定了相应的活性位点，然而没有发现经典酪氨酸酶的铜结合位点。他们[1还发现该酶的表达水平与甜菜黄素的产量呈正相关，说明其主要参与甜菜黄素的合成而不是红素。
+
+# 1.2多巴双加氧酶
+
+L-多巴在第二个关键酶4,5-多巴双加氧酶（4,5-DOPA-extradiol-dioxygenase,DODA）的催化下开环生成4.5-开环多巴。开环多巴不稳定，继而由氨基和开环产生的醛基通过分子内缩合，形成甜菜素的骨架结构及生色基团一一甜菜醛氨酸。多巴双加氧酶是一种非血红素铁蛋白，催化邻苯二酚衍生物开环并加上两分子的氧原子[12]。马齿苋科植物大花马齿苋克隆出了高等植物的4,5-多巴双加氧酶基因 $( P g D O D A )$ ，这类蛋白不仅存在于产生甜菜素的植物中，还存在于其他被子植物和苔藓类植物体中，只是催化部位附近的序列稍有变化[13]。一些来源于非甜菜素生成植物的DODA酶在体外也表现出多巴双加氧酶活性，这些植物没有生成甜菜素是因为体内没有L-多巴的存在[14]。在大肠杆菌中成功表达了来源于紫茉莉（Mirabilis jalapaL.）的MjDODA基因[15]，证实了DODA在体外的生物活性和甜菜醛氨酸的体外生成。在大肠杆菌中异源表达甜菜来源的 $B { \nu } D O D A$ 基因，体外酶活性实验表明，生成了甜菜醛氨酸，证实了开环多巴自发重排生成甜菜醛氨酸。无论是体内还是体外，经过DODA酶催化得到的甜菜醛氨酸绝大部分是S型（ $9 5 \%$ ），这与天然甜菜素大部分为S构型相符[16]。RT-PCR和转录组分析是目前发现和鉴定功能基因得主要手段，以此从巴朗岩马齿（ParakeelyamirabilisL.）的两个DODA相关序列中，鉴定出一个PmDODA参与了甜菜素的合成[17]。除植物来源的基因外，有报道大肠杆菌的YgiD蛋白有多巴双加氧酶活性，以L-多巴为底物作体外酶活性实验，合成了甜菜醛氨酸[18]。
+
+# 2植物合成甜菜红素
+
+# 2.1环多巴途径生成甜菜红苷配基
+
+不同种类的甜菜红素是由甜菜红苷配基（环多巴甜菜醛氨酸）的糖基化衍生而来。在酪氨酸酶氧化活性的催化下，L-多巴被继续氧化成多巴醌，多巴醌上的氨基亲核攻击分子内部的环使其自发环化形成环多巴[19,20],环多巴与甜菜醛氨酸结合自发反应生成甜菜红苷配基[21]。沉默甜菜中的细胞色素P450 氧化酶
+
+CYP76AD1后，不能生成甜菜红色素，只能生成甜菜黄素[22]。可见CYP76AD1是环多巴合成酶。其同源基因CYP76AD5和CYP76AD6，只行使酪氨酸羟化酶活性生成L-多巴，不能催化产生环多巴[23]。是否能形成环多巴是甜菜红素生成的重要条件，在目前看来，所有行使酪氨酸酶活性的蛋白中，只有CYP76AD1能够合成甜菜红素。由于环多巴的不稳定性，很容易被酪氨酸酶继续氧化聚合生成黑色素[24]。在产生甜菜素的植物细胞中，L-多巴的浓度会维持恒定，L-酪氨酸在甜菜色素形成之前会积累，在形成过程中会逐渐被消耗[25]。一般在微生物发酵体系中缺少还原剂的存在，这时体系中会逐渐大量积累黑色素而不是环多巴，使体系颜色变暗发黑[26]。
+
+# 2.2甜菜黄素途径生成甜菜红苷配基
+
+另一条生成甜菜红苷配基的路线可以通过甜菜黄素转化而来。首先由酪氨酸和甜菜醛氨酸结合生成酪氨酸-甜菜黄素，被酪氨酸酶催化氧化成多巴-甜菜黄素。多巴-甜菜黄素也可以由L-多巴和甜菜醛氨酸结合生成，能继续被酪氨酸酶氧化成多巴醌-甜菜黄素，最终经过一系列氧化反应生成甜菜红苷配基。这条反应路线虽然反应条件并未明确，但是在理论上更适合在活体内实现。多巴-甜菜黄素的积累也需要还原剂的存在，植物中多巴-甜菜黄素含量高的组织，其抗坏血酸的含量一般会达到较高水平[27]。
+
+# 2.3甜菜红苷配基的糖基化
+
+甜菜红苷是甜菜红苷配基在5位羟基上的糖基化产物，由葡萄糖基转移酶催化UDP-葡萄糖转移实现。5-O-葡糖基转移酶（5GT）分别从甜菜、苋菜和番杏科彩虹菊（Dorotheanthus bellidiformisL.）中鉴定出来。甜菜的Bv5GT特异性最强，苋菜和彩虹菊来源的5GT还能催化黄酮类的糖基化[28]。此外，甜菜红苷配基在6位羟基上的糖基生成千日红素I,6-O-葡糖基转移酶也从彩虹菊中被发现，其序列和5-O-葡糖基转移酶基因序列明显不同，这两种酶在糖基转移过程中是相互独立起作用的[29]。甜菜红苷生成的另一条可能途径是，由5-O-环多巴糖基转移酶催化环多巴，先生成糖基化环多巴，而后再与甜菜醛氨酸反应得到甜菜红苷[30]，该酶的活性已经在紫茉莉中得到证实[31]。
+
+# 3植物合成甜菜黄素
+
+甜菜醛氨酸和不同的胺或氨基酸分子缩合可以生成不同的甜菜黄素[32]。这一步通常被认为是自发反应，胺或氨基酸的氨基和甜菜醛氨酸的醛基发生亲核加成，最终脱去一份子水形成亚胺[33,34]。由于植物中胺和氨基酸的多样性，很难确定天然甜菜黄素的确切数量。不同植物中氨基酸含量的差异决定了其体内主要甜菜黄素的种类，如紫茉莉中多巴胺-甜菜黄素和酪胺-甜菜黄素含量最多，大花马齿苋中酪氨酸-甜菜黄素和甘氨酸-甜菜黄素含量最多，梨果仙人掌中主要是脯氨酸-甜菜黄素。甜菜植物中的CYP76AD1酶将多巴催化合成环多巴，比氨基酸更容易和甜菜醛氨酸结合生成甜菜红苷配基，进而被糖基化成甜菜红苷，因此在甜菜植物中主要是甜菜红苷而不是甜菜黄素。甜菜黄素的糖基化在自然界中极其罕见，最近在转基因烟草中发现了一种糖基化甜菜黄素—一多巴-甜菜黄素己糖苷[35]。
+
+# 4合成生物学策略合成甜菜素
+
+# 4.1非石竹目植物合成甜菜素
+
+在自然界中甜菜素仅限于不产生花青素的高等植物石竹目如甜菜、苋菜、千日红、梨果仙人掌和一些高等真菌如捕蝇蕈、新西兰青霉菌中[3]。生物技术的发展为突破物种界限，打破花青素和甜菜素代谢途径之间的障碍，合成甜菜素成为可能。近年非石竹目植物合成甜菜素的主要成果如表2所示。将真菌捕蝇蕈来源的多巴双加氧酶基因AmDODA转化到拟南芥植物中，在添加L-多巴底物的条件下，检测到甜菜素[37]。烟草和拟南芥悬浮细胞中表达香菇来源的酪氨酸酶基因LeTYR和紫茉莉来源的多巴双氧化酶基因MjDODA，无需添加任何底物就能合成甜菜黄素，主要是脯氨酸-甜菜黄素，证实了石竹目以外的花青素植物中，只要具有酪氨酸酶和L-多巴，可以合成甜菜黄素[38]。
+
+将BvCYP76AD1、BvDODA、MjcDOPA5GT三个基因在模式植物烟草和经济作物茄子、番茄、马铃薯中表达，通过农杆菌转化并获得稳定愈伤组织，其总甜菜红素含量分别为 $0 . 3 3 \mathrm { m g / g }$ 鲜重、 $0 . 2 5 \mathrm { m g / g }$ 鲜重、 $0 . 1 2 \mathrm { m g / g }$ 鲜重、 $0 . 0 7 \mathrm { m g / g }$ 鲜重[35]。甜菜红素的生成还可以改变植物的颜色，将上述三个基因转化到白色矮牵牛中，结果使花的颜色变成淡紫色，表明这些基因的组合能够改变花的颜色。由于BvCYP76AD6仅有酪氨酸羟化活性，与上述三个基因组合，在转基因烟草中既能生成甜菜红素也生成甜菜黄素，导致花色由红色转变为桔红色。而 $B { \nu } D O D A$ 、CYP76AD6两个基因的组合，只能生成甜菜黄素导致转基因烟草花呈现黄色。同时研究发现转基因烟草植株对灰霉病菌的抗性显著提高[39]。这种改造不仅提高了作物营养价值，还增强了抗病能力，可以减少农药的用量而使其更加安全无污染。植物合成生物学生成甜菜素的研究为开发观赏品种和增强作物经济价值方面开辟了新的可能。
+
+表2非石竹目植物合成甜菜素  
+Table 2 Synthesis of betalains from non-caryophyllales plants   
+
+<html><body><table><tr><td>植物宿主及培养方式</td><td>引入基因及来源</td><td>产物及含量（mgg鲜重）</td><td>参考文献</td></tr><tr><td rowspan="2">烟草，细胞悬浮培养</td><td>TYR(香菇）</td><td rowspan="2">甜菜黄素1.02</td><td rowspan="2">[38]</td></tr><tr><td>DODA（紫茉莉）</td></tr><tr><td rowspan="3">烟草，细胞悬浮培养</td><td>CYP76AD1（甜菜)</td><td rowspan="3">甜菜红苷0.05</td><td rowspan="3">[35]</td></tr><tr><td>DODA(甜菜)</td></tr><tr><td>cDOPA5GT（紫茉莉）</td></tr><tr><td rowspan="2">烟草，细胞悬浮培养</td><td>CYP76AD6（甜菜）</td><td rowspan="2">甜菜黄素0.1</td><td rowspan="2">[35]</td></tr><tr><td>DODA(甜菜) CYP76AD1（甜菜）</td></tr><tr><td rowspan="3">烟草，愈伤组织培养</td><td>DODA(甜菜)</td><td rowspan="3">甜菜红苷0.33</td><td rowspan="3">[35]</td></tr><tr><td>cDOPA5GT（紫茉莉）</td></tr><tr><td>CYP76AD1（甜菜）</td></tr><tr><td rowspan="3">茄子，愈伤组织培养</td><td>DODA(甜菜)</td><td rowspan="3">甜菜红苷0.25</td><td rowspan="3">[35]</td></tr><tr><td>cDOPA5GT（紫茉莉）</td></tr><tr><td>CYP76AD1 （甜菜）</td></tr><tr><td rowspan="3">番茄，愈伤组织培养</td><td>DODA(甜菜)</td><td rowspan="3">甜菜红苷0.12</td><td rowspan="3">[35]</td></tr><tr><td>cDOPA5GT（紫茉莉）</td></tr><tr><td>CYP76AD1(甜菜)</td></tr><tr><td rowspan="2">马铃薯，愈伤组织培养</td><td>DODA（甜菜）</td><td rowspan="2">甜菜红苷0.07</td><td rowspan="2">[35]</td></tr><tr><td>cDOPA5GT（紫茉莉）</td></tr></table></body></html>
+
+# 4.2微生物合成甜菜素
+
+酵母是人类的安全有益微生物，通过表达甜菜来源的BvDODA和BvCYP76AD1基因，在添加L-多巴底物的条件下成功合成了甜菜红苷配基[22]。因为酪氨酸酶既有羟化活性还有氧化活性，通过构建CYP76AD1突变文库筛选出双突变体CYP76AD1(W13L,F309L)并在酵母中表达，增强了该酶的酪氨酸羟化活性，降低其多巴氧化活性,L-多巴的产量比野生型提高了2.8倍，约 $3 . 6 \mathrm { m g / L }$ 。将双突变体和BvDODA共表达，生成更多的甜菜黄素，比野生型提高了2.7倍，表明L-多巴与甜菜黄素积累有很强的线性关系[40]。这种对酶催化活性的定向改造为专一化甜菜色素的合成提供了新的思路。
+
+在酿酒酵母中实现从葡萄糖到甜菜红苷的微生物合成。将密码子优化过的
+
+BvCYP76AD1(W13L)和 MjDODA 分别与 MjcDOPA5GT、DbBetanidin5GT组合在酵母中表达，分别合成了 $1 6 . 8 ~ \mathrm { { m g / L } , ~ 1 0 . 4 m g / L }$ 甜菜红苷，表明环多巴糖基化比甜菜苷配基糖基化更有利于生成甜菜红苷。在酵母中共表达MjDODA 和BvCYP76AD5基因，添加不同的胺类底物生成了不同颜色的甜菜素，其中邻联二茴香胺-甜菜素呈现出蓝紫色，这是首次发现红移程度最大的非天然甜菜素。该研究不仅拓展了甜菜素的颜色光谱，还为微生物生产多种甜菜色素提供了参考[41]。
+
+在大肠杆菌中诱导表达MjDODA蛋白，分离纯化后建立离体反应体系，添加不同氨基酸或胺，合成了24种甜菜黄素。不同的氨基酸结合甜菜醛氨酸的效率有所差异，其中组氨酸-甜菜黄素和精氨酸-甜菜黄素生成量最多[42]。通过体外合成各种甜菜黄素，不仅有利于深入理解甜菜素生成的机制，筛选适宜的催化酶，为微生物生产多样化甜菜色素提供技术。
+
+# 5展望
+
+到目前为止甜菜素产品绝大部分从植物提取，天然可食用甜菜红素的来源更是限定在甜菜和苋菜中。合成生物学策略使甜菜素的合成不再限于石竹目，对模式植物的改造可以高效生产各类天然或非天然甜菜色素，这些色素的积累有利于强化植物营养价值并增强对一些病原菌的抗性。植物合成甜菜素应该集中在未来以下几方面：（1）甜菜植物中甜菜红素的含量为 $0 . 7 6 \mathrm { m g / g }$ 鲜重，还有很大的提升空间。通过合成生物学改造甜菜素合成途径，平衡甜菜根的生长和甜菜素合成积累的关系，构建出高产专一甜菜色素的植物工厂。（2）甜菜素合成途径中细胞色素P450基因BvCYP76AD1和 $B \nu C Y P 7 6 A D 6$ 具有调节红、黄甜菜素生成比例的能力，通过对观赏植物的花或叶部位表达不同强度和不同组合的这些P450基因，产生不同比例的红黄色素从而改变观赏植物的颜色表型。另外，对植物内源代谢途径进行改造，生成一些特殊的氨基酸或胺类继而转化为更多颜色的甜菜素，可以进一步拓展园林植物的观赏性。（3）虽然自然条件下花青素与甜菜素在同一植物中不共存，但通过合成生物学技术在生成花青素的植物中引入甜菜素合成途径，同时生成两类色素，可望增强植物的抗逆性并强化其营养价值。
+
+相对于植物合成，大肠杆菌和酿酒酵母等微生物的改造和培养更为方便，已成为植物次级代谢产物合成的重要宿主[43]。虽然在酵母中已经报道了甜菜素的合成，但是由于功能酶异源表达活性低、特异性差限制了产量的进一步提高。特别是行使酪氨酸羟化和L-多巴氧化功能的细胞色素P450酶系其催化活性难以在原核细胞中实现，因此大肠杆菌中合成甜菜素未见报道。将来的研究重点应该在以下几个方面：（1）挖掘适合于微生物表达的功能基因。大多数石竹目植物都能积累甜菜素，部分真菌中也能积累甜菜素，但是到目前为止鉴定出来的甜菜素生物合成基因还相当有限。结合各组学与酶活性有望鉴定找出新型相关途径的基因元件，深入解析功能蛋白与底物的作用机制，理性地对蛋白进行改造和筛选，以产生催化活性更强和底物特异性更高的酶。（2）对于P450氧化酶在微生物中的表达，首先要找到与P450氧化酶相配合的还原酶。通常这类氧化还原酶会存在蛋白与膜结合形成包涵体而失去活性的问题，通过二级结构预测分析P450氧化酶和还原酶的蛋白质二级结构，确定蛋白膜结合部位并截去，然后将两者构建成融合蛋白。之前已有报道应用此策略将不同来源的P450氧化酶和还原酶结合，成功在大肠杆菌中实现可溶性表达[44]。对P450 酶进行改造，使其从NADPH依赖型变为NADH依赖型蛋白，从而加强利用大肠杆菌中的NADH还原力。（3）微生物发酵条件对甜菜素合成产量有很大的影响。在植物中甜菜素被积累在液泡中，比较稳定，而微生物缺乏这种环境，容易引起L-多巴前体被过度氧化产生无用的黑色素副产物。另外，甜菜素合成途径中甜菜醛氨酸与环多巴或各类胺的缩合机理不明确，也是限制因素之一。可以结合代谢工程调控细胞内的氧化还原状态，调控发酵体系的温度、pH、添加还原剂等手段，建立合理的发酵工艺，在既适合菌体生长又适宜产物生成的条件下促进甜菜醛氨酸的转化，从而提高甜菜素的最终产量。
+
+# 参考文献
+
+[1]Khan M I, Giridhar P.Plant betalains: Chemistry and biochemistry [J]. Phytochemistry, 2015, 117(1): 267-295.   
+[2]Ninfali P,Antonini E,Frati A, et al. C-Glycosyl Flavonoids from Beta vulgaris Cicla and Betalains from Beta vulgaris rubra: Antioxidant, Anticancer and Antiinflammatory Activities-A Review [J]. Phytotherapy Research : PTR,2017, 31(6): 871-884.   
+[3]Staford H A. Anthocyanins and betalains: evolution of the mutually exclusive pathways [J]. Plant Science,1994,101(2): 91-98.   
+[4]Steiner U, Schliemann W,Bohm H, et al. Tyrosinase involved in betalain biosynthesis of higher plants [J]. Planta,1999,208(1): 114-124.   
+[5] Gandia-Herrero F, Garcia-Carmona F,Escribano J. Purification and characterization of a latent polyphenol oxidase from beet root (Beta vulgaris L.)[J]. Journal of Agricultural and Food Chemistry,2004, 52(3): 609-615.   
+[6] Gao Z-J, Han X-H, Xiao X-G. Purification and characterisation of polyphenol oxidase from red Swiss chard (Beta vulgaris subspecies cicla) leaves [J]. Food Chemistry,2009,117(2): 342-348.   
+[7] Wang C-Q, Song H, Gong X-Z, et al. Correlation of tyrosinase activity and betacyanin biosynthesis induced by dark in C3 halophyte Suaeda salsa seedlings [J]. Plant Science, 2007, 173(5): 487-494.   
+[8]Mueller L A, Hinz U, Zryd J-P. Characterization ofa tyrosinase from Amanita muscaria involved in betalain biosynthesis [J]. Phytochemistry, 1996, 42(6): 1511-1515.   
+[9] 陈天舒，修妍伟，王琼，等．盐生植物盐地碱蓬酪氨酸酶的酶学特性[J]．植物生理学报, 2011，47(10): 1017-1023. Chen T S, Xiu Y W, Wang Q, et al. Enzymatic Characteristics of Tyrosinase in Euhalophyte Suaeda salsa [J]. Plant Physiology Journal, 2011,47(10): 1017-1023.   
+[10] Jiratanan T, Liu R H. Antioxidant activity of processed table beets (Beta vulgaris var, conditiva) and green beans (Phaseolus vulgaris L.)[J]. Journal of Agricultural and Food Chemistry, 2004, 52(9): 2659-2670.   
+[11] Teng X L, Chen N, Xiao X G.Identification of a Catalase-Phenol Oxidase in Betalain Biosynthesis in Red Amaranth (Amaranthus cruentus)[J]. Frontiers in Plant Science, 2016, 6(1): 1228-1243.   
+[12] Lipscomb JD. Mechanism of extradiol aromatic ring-cleaving dioxygenases [J]. Current Opinion in Structural Biology, 2008,18(6): 644-649.   
+[13] Christinet L. Characterization and Functional Identification of a Novel Plant 4,5-Extradiol Dioxygenase Involved in Betalain Pigment Biosynthesis in Portulaca grandiflora [J]. Plant Physiology,2004,134(1): 265-274.   
+[14] Tanaka Y, Sasaki N, Ohmiya A. Biosynthesis of plant pigments: anthocyanins, betalains and carotenoids [J]. The Plant Journal $\because$ for Cell and Molecular Biology, 2008, 54(4): 733-749.   
+[15] Sasaki N, Abe Y, Goda Y, et al. Detection of DOPA 4,5-Dioxygenase (DOD) Activity Using Recombinant Protein Prepared from Escherichia coli Cells Harboring cDNA Encoding DOD from Mirabilis jalapa [J]. Plant Cell Physiol, 2009,50(5): 1012-1016.   
+[16] Gandia-Herrero F, Garcia-Carmona F. Characterization of recombinant Beta vulgaris 4,5-DOPA-extradiol-dioxygenase active in the biosynthesis of betalains [J]. Planta,2012,236(1): 91-100.   
+[17] Chung HH, Schwinn KE, Ngo H M, et al. Characterisation of betalain biosynthesis in Parakeelya flowers identifies the key biosynthetic gene DOD as belonging to an expanded LigB gene family that is conserved in betalain-producing species [J]. Frontiers in Plant Science, 2O15, 6(1): 499-514.   
+[18] Gandia-Herrro F, Garcia-Carmona F. Escherichia coli protein YgiD produces the structural unit of plant pigments betalains: characterization of a prokaryotic enzyme with DOPA-extradiol-dioxygenase activity[J].Applied Microbiology and Biotechnology,2014,98(3): 1165-1174.   
+[19] Li J, Christensen B M. Identification of Products and Intermediates During L-Dopa Oxidation to Dopachrome Using High Pressure Liquid Chromatography with Electrochemical Detection [J]. Journal of Liquid Chromatography,1993,16(5): 1117-1133.   
+[20] Riley P A. Tyrosinase kinetics: a semi-quantitative model of the mechanism of oxidation of monohydric and dihydric phenolic substrates [J]. Journal of Theoretical Biology,20oo, 203(1): 1-12.   
+[21] Schliemann W, Steiner U, Strack D. Betanidin formation from dihydroxyphenylalanine in a model assay system [J]. Phytochemistry, 1998, 49(6): 1593-1598.   
+[22] Hatlestad G J, Sunnadeniya R M, Akhavan N A, et al. The beet R locus encodes a new cytochrome P450 required for red betalain production [J]. Nature Genetics, 2012, 44(7): 816-820.   
+[23] Sunnadeniya R, Bean A, Brown M, et al. Tyrosine Hydroxylation in Betalain Pigment Biosynthesis Is Performed by Cytochrome P450 Enzymes in Beets (Beta vulgaris)[J]. PloS One, 2016, 11(2): 417-432.   
+[24] Land E J, Riley P A. Spontaneous Redox Reactions of Dopaquinone and the Balance between the Eumelanic and Phaeomelanic Pathways [J]. Pigment Cel Research,20o0,13(4): 273-277.   
+[25] Kishima Y, Suiko M, Adachi T. Betalain Pigmentation in Petal of Portulaca is Preceded by a Dramatic Tyrosine Accumulation [J]. Journal of Plant Physiology,1991,137(4): 505-506.   
+[26] Toivonen P M A, BrummellD A. Biochemical bases of appearance and texture changes in fresh-cut fruit and vegetables [J]. Postharvest Biol Tec,2008, 48(1): 1-14.   
+[27] Gandia-Herrero F, Escribano J, Garcia-Carmona F. Betaxanthins as substrates for tyrosinase. an approach to the role of tyrosinase in the biosynthetic pathway of betalains [J]. Plant Physiology, 2005, 138(1): 421-432.   
+[28] Das S S, Gauri S S, Misra B B,et al. Purification and characterization of a betanidin glucosyltransferase from Amaranthus tricolor L catalyzing non-specific biotransformation of flavonoids [J]. Plant Science : an International Journal of Experimental Plant Biology, 2013, 211(3): 61-69.   
+[29] Vogt T. Substrate specificity and sequence analysis define a polyphyletic origin of betanidin 5- and 6-O-glucosyltransferase from Dorotheanthus bellidiformis [J]. Planta, 2002,214(3): 492-495.   
+[30] Sasaki N, Adachi T, Koda T, et al. Detection of UDP-glucose:cyclo-DOPA 5-O-glucosyltransferase activity in four o'clocks (Mirabilis jalapa L.)[J]. FEBS Letters, 2004, 568(1-3): 159-162.   
+[31] Sasaki N, Abe Y,Wada K, et al. Amaranthin in feather cockscombs is synthesized via glucuronylation at the cyclo-DOPA glucoside step in the betacyanin biosynthetic pathway [J]. Journal of Plant Research, 2005,118(6): 439-442.   
+[32] Gandia-Herrero F, Escribano J, Garcia-Carmona F. Structural implications on color,fluorescence, and antiradical activity in betalains [J]. Planta, 2010, 232(2): 449-460.   
+[33] Schliemann W, Kobayashi N, Strack D. The decisive step in betaxanthin biosynthesis is a spontaneous reaction [J]. Plant Physiology,1999,119(4): 1217-1232.   
+[34] Godoy-Alcantar C, Yatsimirsky A K, Lehn JM. Structure-stability correlations for imine formation in aqueous solution [J]. J Phys Org Chem,2005,18(10): 979-985.   
+[35] Polturak G, Breitel D, Grossman N, et al. Elucidation of the first committed step in betalain biosynthesis enables the heterologous engineering of betalain pigments in plants [J]. The New Phytologist, 2016,210(1): 269-283.   
+[36] Wang H, Li Y, Zhang K, et al. Feasibility and transcriptomic analysis of betalain production by biomembrane surface fermentation of Penicillium novae-zelandiae [J]. AMB Express, 2018, 8(1): 4-13.   
+[37] Harris N N, Javellana J, Davies K M, et al. Betalain production is possible in anthocyanin-producing plant species given the presence of DOPA-dioxygenase and L-DOPA [J]. BMC Plant Biology,2012,12(1): 34-45.   
+[38] Nakatsuka T, Yamada E,Takahashi H, et al. Genetic engineering of yellow betalain pigments beyond the species barrier [J]. Scientific Reports,2013,3(6): 1970-1976.   
+[39] Polturak G, Grossman N, Vela-Corcia D,et al. Engineered gray mold resistance,antioxidant capacity,and pigmentation in betalain-producing crops and ornamentals [J]. Proceedings of the National Academy of Sciences of the United States of America, 2017,114(34): 9062-9067.   
+[40] Deloache W C, Russ Z N,Narcross L, et al. An enzyme-coupled biosensor enables (S)-reticuline production in yeast from glucose [J]. Nature Chemical Biology,2015,11(7): 465-471.   
+[41] Grewal P S,Modavi C, Russ Z N, et al. Bioproduction of a betalain color palette in Saccharomyces cerevisiae [J]. Metabolic Engineering,2018,45(1): 180-188.   
+[42] Sekiguchi H, Ozeki Y, Sasaki N. In vitro synthesis of betaxanthins using recombinant DOPA 4,5-dioxygenase and evaluation of their radical-scavenging activities [J]. Journal of Agricultural and Food Chemistry,2010,58(23): 12504-12509.   
+[43] Luo Y,Li B Z,Liu D,et al. Engineered biosynthesis of natural products in heterologous hosts [J] Chemical Society Reviews,2015, 44(15): 5265-5290.   
+[44] Leonard E,Yan Y,Koffas MA. Functional expression of a P450 flavonoid hydroxylase for the biosynthesis of plant-specific hydroxylated flavonols in Escherichia coli [J]. Metabolic Engineering, 2006, 8(2): 172-181.

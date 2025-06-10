@@ -1,0 +1,1066 @@
+[
+    {
+        "type": "text",
+        "text": "Sparse Representation Based Effcient Radiation Symmetry Analysis Method for Cylindrical Model of Inertial Confinement Fusion ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yanfeng Zhang, School of Electronic and Information Engineering,Harbin Institute of Technology,Shenzhen,P.R.China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Radiatiosymmetryevaluation iscriticaltothe laserdrivenInertial ConfinementFusion(ICF),which isusuallydoneby solving aview-factor equationmodel.The modelisnonlinear,and the numberof equationscan beverylarge when the sizeof discrete esh element isverysmalltoachieveaprescribedacuracy,whichmaylead toan intensiveequationsolving process.In this paper,anntatiosetralysispoachsedoaeepesetatioisprted,ich,tcal harmonics,annularZernikepolynomialsandLegendre-Fourierpolynomialsareemployedtosparselyrepresenttheradiationfux onthecapsuleandcylindricalcavityandthenonlinearenergyequilibriumequationsare transformed intotheequations with sparsecoeficients,which means there aremanyredundant equations,2)onlyafew equations are selectedtorecover such sparse coeffcients with Latin hypercube sampling,3)a Conjugate Gradient Subspace Thresholding Pursuit (CGSTP)algorithmis then giventorapidlybtainsuchsparsecoeffcientsequationwithasfewiterationsaspossble.Finallyteproposedmethodislidated withtwo experimenttargets for Shenguang IandShenguang IIlaserfacilityinChina.Theresultsshow thatonlyone tenth of computationtime isrequired tosolveonetenthofequations toachievetheradiationfluxwithcomparableaccuracy.Further more,the solution is much more efcient as the size of discrete mesh element decreases,in which,only $1 . 2 \\%$ computation time is required to obtain the accurate result. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "radiation symmetry, inertial confinement fusion,sparse representation,compressed sensing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I．INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 ONTROLLABLE nuclear fusion is potential tosolve theenergycrisis inthe future,and laser driven Inertial Confiement Fusion(ICF）is supposed tobe one of the most promising ways [2].Toachieve this goal,the driven asymmetryon the centrally located capsule needs to be evaluated and remains no more than $1 \\%$ during the fusion process.Due to limited laser beams forNIFlaser facility,i.e.,2laserentrance holesandafewdiscrete diagnose holes,theradiation asymmetry maybe much largerthan such prescribed threshold[3].Therefore,weneed toeficientlycompute thedriven fluxreached thecapsule toevaluateitsdrivenasymmetry.IntheICF,theradiationfuxonthefuelcapsuleisrelatedtothelaser-plasma interactions (LPI) andtransportof X-rays from thecavitywal tothecapsule,which involves the solving ofcomplex kinetic and hydrodynamic equations implemented in the codes such as LASNEX [4].In practice,simple mathematical models such as view-factorcodes are usually employed tocompute theradiation flux distributedonthecapsule,especiall for thepreliminary designadoptimizationof thermonuclear target structureandshape[4],[5].Asdescribedin2],theradiation fluxisusually obtained bysolving a non-linear view-factor based equation model,which canbe solved byutizing Newton-Rapshon[6], Jacobi iteration[7],Choleskydecomposition[8],orPreconditionedConjugateGradientmethod[9].However,inrderto improve the evaluation accuracy,the sizeof disrete element isusuallyvery small,the number of elements orquations wil increase significantly,whichmaylead to muchtimerequired to solve large scalenonlinear equations.Thecomputationtime may beunacceptable forresearchers.Therefore,anew eficientcomputation approach is essentiallyrequired to significantly improve the efficiency of radiation symmetry evaluation and optimization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Compressed sensing(CS)，proposed by Donohoand Candes[10],[11],isanew method toreconstruct signals from significantly fewermeasurements thanthatrequired bytraditional methods，which hasatracted considerableattntionand achievessuccessfulappicationssuchas Medical imaging(M)[12],Analog-digitalConversion13],Computational iology [14],and ComputerGraphics[15].Inthe fieldofradiationsymmetryevaluationofICF,compresedanalysisapproachhasbeen applied toeficientlyobtain theradiationflux distributiononthecapsule[16].However,theradiationfluxcomputationmodel is simplified,andtheaccuracyoftheradiationasymmetryevaluationislimited.Thenon-linearTimeDependentEnergyBalance Model(TDEBM)presented in[17] isoftenused to compute the radiation flux.Therefore,compresive sensing approach for non-linear equation solving approach,such as Iterative Hard Thresholding(IHT)[18],can beaplied.However,the stepsize is oftentakenasaconstant,which mayleadto more times of iteration convergence.Normalized Iterative Hard Thresholding (NIHT)[19]isfurtherproposed,inwhich,fixedsteplength isreplacedwithadescendingfactortoacceleratethecoergence rate.Nevertheles,the gradient based search directioninNIHT,mayleadtotheconvergence is veryslowwhen itapproaches theminimum.Conjugate Gradient Iterative HardThresholding(CGIHT)is proposed in[2O],toreplacethesearch direction with theconjugate gradientdirection,whichcanbenefitacceleratetheconvergence.However,thesearchdirectionofCGIHTmay not be conjugate,which maylead to more times of iterations being required.Asoneof theiterative greedy algorithms,Subspace Pursuit (SP)algorithm has atracted much atentionfor its backtracking idea in solvingcompressed sensing reconstruction problems,which requiresonlya smallnumberof iterations [21].However,SPalgorithmcannot be directlyused to solve nonlinear problems.Inthis paper,weabsorbthe advantages ofCGIHTalgorithmandSPalgorithm,and proposeaConjugate Gradient Subspace Thresholding Pursuit (CGSTP)algorithm to largely reduce the TDEBMand eficientlyobtain theradiation flux. The core ideas include: leftmargin $\\scriptstyle = 8 { \\mathrm { m m } }$ ,labelsep $\\scriptstyle \\mathbf { \\alpha } = 4 \\mathbf { m } \\mathbf { m }$ （204号 ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/be6e1243fe80ae6f6b2f5c8f9f7a8562d6aa93b7a36e6440f017989152943d79.jpg",
+        "img_caption": [
+            "Fig.1: Scheme of the cylinder-to-sphere model and the energy exchange process for an element "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）Thespherical harmonics,annular Zernike polynomials and Legendre-Fourier polynomialsare employed to sparsely represent the radiation flux on the capsuleand spherical cavity，which enable only a few equations are required to recover the radiation flux with high accuracy,and significantly reduce the radiation computation model.   \n(2）Overthe threesets of polynomials domain,suchreduced nonlinear equation model with sparse coefcients is formulated to enable compressed sensing algorithms,such as CGIHT, be used to efficiently obtain the radiation flux.   \n(3）Conjugate Gradient Subspace Thresholding Pursuit algorithmis then presented toenable the adjacentsearch direction be conjugate,which facilitate theconvergenceof iteration,rapidlyobtain the solution,and then eficiently evaluate the radiation symmetry for ICF experiments design. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theoutlineofthis paperas follows.Section2 introduces the nonlinearview-factorbasedequationmodelinacylindrical cavitymodel.Radiation sparse representation model constructed with three orthogonal bases is described insection 3.Then section4 givesadescriptionofthe proposedreconstructionalgorithm,i.e.ConjugateGradient Subspace Thresholding Pursuit (CGSTP) algorithm. At last, section 6 concludes following experiments validation in section 5. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II.SPARSE REPRESENTATION OFRADIATION FLUX ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A.Radiation flux computation model based on view-factor ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure1,eightlaser beams are injected into thecylindricalcavity through two entrance holes.Byinteracting with the high-Z material on the inner wall of the cavity,the laser incident on the cavity is converted into $\\mathrm { \\Delta } \\mathrm { X }$ -ray,the $\\mathbf { \\boldsymbol { X } }$ -ray irradiates evenlyanddrives thecentrallylocatedcapsule implosion.With generateddiscrete mesh elements,theradiation flux on the wallof thecavityandsurfaceof thecapsulecanbecomputed byusingtheview-factorfunction described in[6],i.e. the TDEBM.Fora discrete mesh element,according tothe energyconservation law,the energyreceived from other elements equals the energy emits to other elements. It can be formulated as: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i } ( E _ { i } + \\sum _ { j = 1 } ^ { N } F _ { j i } \\zeta _ { j } B _ { j } ) = B _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $N$ is the total number of mesh elements, $E _ { i }$ is the radiation flux comes directly from primary source converted from laser on the $i$ -th mesh element which have acentroid ${ \\mathbf { } } p _ { i }$ and normal ${ \\mathbf { } } n _ { i }$ , can be computed as $\\begin{array} { r } { E _ { i } = \\sum _ { i = 0 } ^ { n } S _ { j } ^ { 0 } F _ { j i } \\zeta _ { j } } \\end{array}$ ,here, $S _ { j } ^ { 0 }$ （20 is the radiation flux converted directly from laser beams of the $j$ -th element. $\\zeta _ { j }$ is the area of the $j$ -th mesh element with a centroid ${ \\pmb p } _ { j }$ and normal $n _ { j } . ~ F _ { j i }$ is the view-factor between the $j$ -th mesh element and the $i$ -th mesh element,which can be computed by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { j i } = \\frac { 1 } { \\pi } \\left[ pmb { n } _ { i } \\cdot ( \\pmb { p } _ { j } - \\pmb { p } _ { i } ) \\right] \\cdot \\left[ \\pmb { n } _ { j } \\cdot ( \\pmb { p } _ { i } - \\pmb { p } _ { j } ) \\right] \\bigg / \\left\\| \\pmb { p } _ { i } - \\pmb { p } _ { j } \\right\\| ^ { 4 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and $\\lambda _ { i }$ is the albedo of the $i$ -th mesh element,which is relating to the wall material,radiation time $t$ and the emit energy $B _ { i }$ which can be given as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i } = \\frac { 1 } { 1 + v ^ { - \\beta ^ { - 1 } } B _ { i } ^ { \\beta ^ { - 1 } - 1 } t ^ { - \\alpha \\beta ^ { - 1 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\upsilon \\ , \\alpha$ and $\\beta$ are the material parameters in which $\\upsilon = 4 . 8 7$ ， $\\alpha = 8 / 1 3$ ， $\\beta = 1 6 / 1 3 . B _ { i }$ and $B _ { j }$ are the radiation flux of the $i$ -th mesh element and the $j$ th mesh element respectively. Let $\\pmb { { \\cal E } } = \\left[ E _ { 1 } , E _ { 2 } , \\cdot \\cdot \\cdot , E _ { n } \\right] ^ { \\mathrm { T } }$ ， $\\pmb { S } = \\left[ S _ { 1 } ^ { 0 } , S _ { 2 } ^ { 0 } , \\cdot \\cdot \\cdot , S _ { N } ^ { 0 } \\right] ^ { \\mathrm { T } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "${ \\boldsymbol { F } } = \\left( { \\boldsymbol { F } } _ { j i } \\right)$ ， $\\boldsymbol { \\zeta } = \\left[ \\zeta _ { 1 } , \\zeta _ { 2 } , \\cdot \\cdot \\cdot , \\zeta _ { N } \\right] ^ { \\mathrm { T } }$ ， $\\pmb { B } = \\left[ B _ { 1 } , B _ { 2 } , \\cdot \\cdot \\cdot , B _ { N } \\right] ^ { \\mathrm { T } }$ ， $C = v ^ { - \\beta ^ { - 1 } } t ^ { - \\alpha \\beta ^ { - 1 } }$ ，where $\\mathrm { \\Delta T }$ indicates the matrix transpose. Let $V = ( F _ { j i } \\zeta _ { j } )$ beanintermediatevariable,thenthematrix formof $\\begin{array} { r } { E _ { i } = \\sum _ { i = 0 } ^ { n } S _ { j } ^ { 0 } F _ { j i } \\zeta _ { j } } \\end{array}$ can be written as $\\mathbf { { \\mathcal { E } } } = V S$ and Equation (3) can be written in a compact form as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( I - V ) B + C B ^ { \\circ ( 1 / \\beta ) } = E\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { \\mathit { I } }$ denotes an unit matrix. In Equation (4), $V$ and $\\pmb { { \\cal E } }$ are known, $B$ is the unique unknown variable.°denote the hadamard power which means for any vector $\\nu$ and constant $a$ ， $\\mathcal { V } ^ { \\circ a } = [ \\mathcal { V } _ { 1 } ^ { a } , \\mathcal { V } _ { 2 } ^ { a } , \\cdot \\cdot \\cdot , \\mathcal { V } _ { n } ^ { a } ] ^ { \\mathrm { T } }$ holds. Since $\\beta$ do not equal one, Equation (4)is nonlinear.Such nonlinear equationscanbe solved byutilizing someconventional iterative methods such as Newton-Raphson method.However,these methods is time consuming even unusable when the numberof the discrete elements reaches $1 0 ^ { 7 }$ or more. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B.Compressed Sensing Method ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Compressed Sensing(CS）alsocalled Compressed Sampling,is an emerging technique,which has shown that sparse or compressible signal can be reconstructed from far fewer measurements than whatisconsidered by Nyquisttheorem[10]. Compressedsensingtheoryusuallyconsistsofsparserepresentationmeasurement matrix,andsparsecoefcientrecostuction. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）Sparse representation ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Consider a $N \\times 1$ signal $\\mathbf { \\delta f } = \\left[ f _ { 1 } , f _ { 2 } , \\cdots , f _ { N } \\right] ^ { \\mathrm { T } }$ ， which can be expressed as a linear combination of a complete basis $\\Psi$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { f } = \\sum _ { i = 0 } ^ { N } c _ { i } \\psi _ { i } = \\Psi c\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "vhere $\\mathbf { \\Psi } _ { \\mathbf { c } } = \\left[ c _ { 1 } , c _ { 2 } , \\cdot \\cdot \\cdot , c _ { N } \\right] ^ { \\mathrm { T } }$ ， $\\Psi = [ \\psi _ { 1 } , \\psi _ { 2 } , \\cdot \\cdot \\cdot , \\psi _ { N } ] ,$ If there are $K$ non-zero elements in $c$ ，then $c$ is called $K$ -sparse and we iay $f$ is sparse in the $\\Psi$ domain. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）Measurement matrix ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$M$ projections of the signal $f$ constitute a $M \\times N ( M \\ll N )$ matrix $\\Phi$ called measurement matrix, then the sampling process can be described as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { y } = \\pmb { \\Phi } \\pmb { f } = \\pmb { \\Phi } \\Psi c = \\pmb { A } c\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $A = \\Phi \\Psi$ is known as measurement matrix. It is clear that the process of recovering $c$ from $_ y$ is an ill-posed problem because $M \\ll N$ and seems impossible to solve such underdetermined linear equation.However, if the sparse coefficients $\\boldsymbol { c }$ is $K$ -sparse,and $\\Phi$ satisfy the Restricted Isometry Property (RIP) criterion [22],then $c$ can be accurately recovering with a high probability from $M$ measurements.The RIP criterion can be expressed as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 1 - \\delta _ { K } ) \\lvert | \\pmb { c } \\rvert | _ { 2 } ^ { 2 } \\leq \\lvert | \\Psi \\pmb { c } \\rvert | _ { 2 } ^ { 2 } \\leq ( 1 + \\delta _ { K } ) \\lvert | \\pmb { c } \\rvert | _ { 2 } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The restricted isometry constant $\\delta _ { K } ( 0 < \\delta _ { K } < 1 )$ is defined as the smallest constant for which this property holds for all $K$ -sparse vectors $c$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）Sparse coefficients reconstruction algorithm ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As can be seen from above, the sparse coefficient vector $c$ can be recovered with high probability from $_ y$ by solving the following $\\ell _ { 0 }$ -norm optimization: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\arg \\operatorname* { m i n } _ { c } \\left\\| y - A c \\right\\| _ { 2 } \\quad s . t . \\quad \\left\\| c \\right\\| _ { 0 } = K\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\ell _ { 0 }$ -norm, $| | \\mathbf { x } | | _ { 0 }$ ,denote the number of non-zero entries in the argument and $| | \\mathbf { x } | | _ { 2 }$ indicates its Euclidean norm.Some iterativegreedy algorithms have been developed to solvesuchcombinatorial optimization problem,such as Iterative hard thresholding (IHT) [18], Subspace Pursuit (SP)[21],and a series of algorithms derived from them. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III.SPARSE REPRESENTATION OF THE RADIATION FLUX ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "InthecylindricalcavitymodelofICF,asshowninFigure2,theradiationregionlocatedinthecavityconsistsof three parts,i.e.,sphericalsurfaceofthecapsule,thebotomandthetopsurfaceandthesidesurfaceof thecylindricalcavity.Here, $B _ { s } , B _ { u }$ and $B _ { w }$ are used to represent the radiation flux of theses three parts respectively and the total radiation flux can be expressed as $B = B _ { S } + B _ { u } + B _ { w }$ . Since the $\\mathrm { \\Delta X }$ -rayconverted from incident laser are uniformly and continuously distributed on the radiationregions,theradiation fluxcould berepresented bylinearcombinations ofsomecomplete orthogonal polynomials. Inthissection,three orthogonal bases whichareconstructed bythreesetsof orthogonal polynomialsareused to sparsely represent the radiation flux. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f115f1554e28bc2fb84f413a36313c14dd84f8b80b6a8efce434cc7c4e2d8cb9.jpg",
+        "img_caption": [
+            "Fig.2:Division of radiation surfaces in cylinder model in cartesian coordinate "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A.Sparse representation of the radiation flux on capsule ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Let $\\left( \\theta _ { s } ^ { \\left( i \\right) } , \\varphi _ { s } ^ { \\left( i \\right) } \\right)$ be a spherical coordinate of the $i$ th element,then theradiation $B _ { s } \\left( \\theta _ { s } ^ { ( i ) } , \\varphi _ { s } ^ { ( i ) } \\right)$ can be represented by a linear combinations of the spherical harmonics as follows [16]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { s } \\left( \\theta _ { s } ^ { ( i ) } , \\varphi _ { s } ^ { ( i ) } \\right) = \\sum _ { n _ { s } = 0 } ^ { + \\infty } c _ { n _ { s } } Y _ { ( n _ { s } ) } \\left( \\theta _ { s } ^ { ( i ) } , \\varphi _ { s } ^ { ( i ) } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the subscript $n _ { s }$ is a polynomial ordering index starting with $n _ { s } = 0$ ， $c _ { n _ { s } }$ is its coefficient and $Y ( \\theta _ { s } , \\varphi _ { s } )$ is the spherical harmonics which can be represented as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { m s } ^ { k s } ( \\theta _ { s } , \\varphi _ { s } ) = N _ { m s } ^ { k s } P _ { m s } ^ { k s } ( \\cos \\theta _ { s } ) \\left\\{ \\begin{array} { c c c } { \\cos k _ { s } \\varphi _ { s } } & { i f } & { k _ { S } \\geq 0 } \\\\ { \\sin k _ { s } \\varphi _ { s } } & { i f } & { k _ { S } < 0 } \\end{array} \\right. , \\quad ( - m _ { S } \\leq k _ { S } \\leq m _ { S } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { N _ { m _ { S } } ^ { k _ { S } } = \\sqrt { \\frac { \\left( \\left( 2 m _ { s } + 1 \\right) \\left( m _ { s } - k _ { s } \\right) ! \\right) } { \\left( 4 \\pi \\left( m _ { s } + k _ { S } \\right) ! \\right) } } } \\end{array}$ is the normalizationconstantand $P _ { m _ { s } } ^ { k _ { s } } \\left( \\cos \\theta _ { s } \\right)$ is the AocitedLegendrepolyomial. As shown in Figure 2, let $\\Delta \\theta _ { s }$ and $\\Delta \\varphi _ { s }$ be the minimal angles of subdividing the capsule over the domain $\\Omega ( \\theta _ { s } , \\varphi _ { s } ) =$ $[ 0 , \\pi ] \\times [ 0 , 2 \\pi )$ . Equation(1O) can be transformed into an approximate form as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { S } \\left( \\boldsymbol { \\theta } _ { s } , \\boldsymbol { \\varphi } _ { s } \\right) = \\sum _ { j = 1 } ^ { N _ { s } } \\sum _ { n _ { s } = 0 } ^ { + \\infty } c _ { n _ { s } } Y _ { n _ { s } } \\left( \\boldsymbol { \\theta } _ { s } ^ { ( j ) } , \\boldsymbol { \\varphi } _ { s } ^ { ( j ) } \\right) \\approx \\sum _ { j = 1 } ^ { N _ { s } } \\sum _ { n _ { s } = 0 } ^ { L _ { s } } c _ { n _ { s } } Y _ { n _ { s } } \\left( \\boldsymbol { \\theta } _ { s } ^ { ( j ) } , \\boldsymbol { \\varphi } _ { s } ^ { ( j ) } \\right) = Y c ^ { s } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $L _ { S }$ is the number of spherical harmonics expansion terms, $\\boldsymbol { c } ^ { s } = \\left[ c _ { 1 } , c _ { 2 } , \\cdot \\cdot \\cdot , c _ { L _ { S } } \\right] ^ { \\mathrm { T } }$ is coefficient vector and $\\boldsymbol { Y }$ is spherical harmonics basis which can be expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { Y } _ { N _ { S } \\times L _ { S } } = \\left[ \\begin{array} { c c c c } { Y _ { 0 } ( \\theta _ { s } ^ { ( 1 ) } , \\varphi _ { s } ^ { ( 1 ) } ) } & { Y _ { 1 } ( \\theta _ { s } ^ { ( 1 ) } , \\varphi _ { s } ^ { ( 1 ) } ) } & { \\cdots } & { Y _ { L _ { S } } ( \\theta _ { s } ^ { ( 1 ) } , \\varphi _ { s } ^ { ( 1 ) } ) } \\\\ { Y _ { 0 } ( \\theta _ { s } ^ { ( 1 ) } , \\varphi _ { s } ^ { ( 2 ) } ) } & { Y _ { 1 } ( \\theta _ { s } ^ { ( 1 ) } , \\varphi _ { s } ^ { ( 2 ) } ) } & { \\cdots } & { Y _ { L _ { S } } ( \\theta _ { s } ^ { ( 1 ) } , \\varphi _ { s } ^ { ( 2 ) } ) } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { Y _ { 0 } ( \\theta _ { s } ^ { ( N _ { \\theta } ) } , \\varphi _ { s } ^ { ( N _ { \\varphi _ { s } } ) } ) } & { Y _ { 1 } ( \\theta _ { s } ^ { ( N _ { \\theta } ) } , \\varphi _ { s } ^ { ( N _ { \\varphi _ { s } } ) } ) } & { \\cdots } & { Y _ { L _ { S } } ( \\theta _ { s } ^ { ( N _ { \\theta } ) } , \\varphi _ { s } ^ { ( N _ { \\varphi _ { s } } ) } ) } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { N _ { \\theta _ { s } } = \\frac { \\pi } { \\Delta \\theta _ { s } } } \\end{array}$ and $\\begin{array} { r } { N _ { \\varphi _ { s } } = \\frac { 2 \\pi } { \\Delta \\varphi _ { s } } } \\end{array}$ denotethenumberof elementsdivdedalongthelongitudeandlatuderespectivelyand $N _ { S }$ is the total number of discrete elements on the capsule which can be calculated by $N _ { S } = N _ { \\theta } \\times N _ { \\varphi }$ . The 3D pictures of the first 16 terms of the spherical harmonics are shown in Figure 3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B.Annular Zernike Polynomials ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The bottomand the topsurfaceof thecylindricalcavity isannular becauseit has two laser entrance holes.Asdescribed n [23],Zemikeannularpolynomials,definedonananularregion,isobtainedfrom the Zermikecircle polynomials[23]byusing theGram-Schmidt orthogonalization process.The Zernike annular polynomialsare widelyusedto mathematicallydescribe wavefrontaberationsofoptical systems due toitisorthogonal overanannulardomain,and itcanuniquelydescribeany continuous function with the same definition domain [22]. Let $\\left( r _ { u } ^ { \\left( i \\right) } , \\varphi _ { u } ^ { \\left( i \\right) } \\right)$ be a polar coordinate of the $i$ -th element of the bottom surface,the annular Zernike polynomials have the following forms in a polar coordinate: ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f5f886a342d38db9c7344ed14219d570166262d1f6d73316d89568f12870661.jpg",
+        "img_caption": [
+            "Fig.3:3D rendering of the first 16 terms of spherical harmonic polynomials "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { l _ { u } } ^ { k _ { u } } \\left( r , \\tilde { r } ; \\varphi _ { u } \\right) = \\left\\{ \\begin{array} { c c c } { { R _ { l _ { u } } ^ { k _ { u } } ( r , \\tilde { r } ) \\cos k _ { u } \\varphi _ { u } } } & { { \\mathrm { ~ f o r ~ } } } & { { k _ { u } \\geq 0 } } \\\\ { { R _ { l _ { u } } ^ { k _ { u } } ( r , \\tilde { r } ) \\sin k _ { u } \\varphi _ { u } } } & { { \\mathrm { ~ f o r ~ } } } & { { k _ { u } < 0 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $r ( 0 ~ \\leq ~ r ~ \\leq ~ 1 )$ and $\\tilde { r } ( \\tilde { r } \\leq r \\leq 1 )$ are the outer and inner semi-diameter of the annular region respectively, $\\varphi _ { u } \\left( 0 \\le \\varphi _ { u } \\le 2 \\pi \\right)$ is the circumferential angle, ${ { l } _ { u } } \\ge 0$ $k _ { u } ~ \\ge ~ 0$ are integers, $l _ { u } - \\lvert k _ { u } \\rvert ~ \\ge ~ 0$ and even, $R _ { l _ { u } } ^ { k _ { u } } ( r , \\bar { r } )$ is the radial components of the polynomials.The orthonormalityof the annular Zermike polynomials can be expressed as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int \\displaylimits _ { \\tilde { r } } \\int \\displaylimits _ { 0 } ^ { 1 } { 2 \\pi }  \\\\  \\int \\displaylimits _ { \\tilde { r } } \\int \\displaylimits _ { 0 } ^ { k _ { u } } { ( r , \\tilde { r } ; \\varphi _ { u } ) U _ { l _ { u } ^ { \\prime } } ^ { k _ { u } ^ { \\prime } } ( r , \\tilde { r } ; \\varphi _ { u } ) r d r d \\varphi _ { u } } \\Bigg / \\int \\displaylimits _ { \\varepsilon } ^ { 1 } { \\int \\displaylimits _ { 0 } ^ { 2 \\pi } { r d r d \\varphi _ { u } } } = \\delta _ { l _ { u } l _ { u } ^ { \\prime } } \\delta _ { k _ { u } k _ { u } ^ { \\prime } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta _ { l _ { u } l _ { u } ^ { \\prime } } \\left( \\delta _ { k _ { u } k _ { u } ^ { \\prime } } \\right)$ stands for the Kronecker delta,equal to one if $l _ { Z } = l _ { Z } ^ { \\prime } \\left( k _ { Z } = k _ { Z } ^ { \\prime } \\right)$ and to zero otherwise.when $\\tilde { r } = 0$ the annular polynomials reduce to the Zernike circle polynomials. Let $l _ { u } = 2 j + k _ { u }$ ,the radial polynomials expression of the annular Zernike polynomials can be obtained by the recurrence formula: [23] when $k _ { u } = 0$ （20 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { 2 j } ^ { 0 } ( r , \\tilde { r } ) = R _ { 2 j } ^ { 0 } \\left( \\frac { r ^ { 2 } - \\tilde { r } ^ { 2 } } { 1 - \\tilde { r } ^ { 2 } } \\right) ^ { 1 / 2 } = P _ { j } \\left[ \\frac { 2 \\left( r ^ { 2 } - \\tilde { r } ^ { 2 } \\right) } { 1 - \\tilde { r } ^ { 2 } } - 1 \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { j } ( \\cdot )$ is the Legendre polynomials.When $k _ { u } > 0$ ，the radial polynomials are given by the recurrence relationship ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { 2 j + k _ { n } } ^ { k _ { u } } ( r , \\tilde { r } ) = \\left[ \\frac { 1 - { \\tilde { r } } ^ { 2 } } { 2 \\left( 2 j + k _ { u } + 1 \\right) H _ { j } ^ { k _ { u } } } \\right] ^ { 1 / 2 } r ^ { k _ { i } } Q _ { j } ^ { k _ { u } } \\left( r ^ { 2 } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $Q _ { j } ^ { k _ { u } } ( \\tau )$ is a set of orthogonal polynomials obtained by orthogonalizing the sequence $1 , \\tau , \\cdots , \\tau ^ { j }$ over the interval $\\left( \\tilde { r } ^ { 2 } , 1 \\right)$ with a weight function $\\tau ^ { k _ { u } } , H _ { j } ^ { k _ { u } }$ are the normalization constants. the recurrence formula of the $Q _ { j } ^ { k _ { u } } ( \\tau )$ and $H _ { j } ^ { k _ { u } }$ as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { j } ^ { k _ { u } } \\left( r ^ { 2 } \\right) = \\frac { 2 \\left( 2 j + 2 k _ { u } - 1 \\right) } { \\left( j + k _ { u } \\right) \\left( 1 - \\tilde { r } ^ { 2 } \\right) } \\frac { H _ { j } ^ { k _ { u } - 1 } } { Q _ { j } ^ { k _ { u } - 1 } \\left( 0 \\right) } \\sum _ { i = 0 } ^ { j } \\frac { Q _ { i } ^ { k _ { u } - 1 } ( 0 ) Q _ { i } ^ { k _ { u } - 1 } \\left( r ^ { 2 } \\right) } { H _ { i } ^ { k _ { u } - 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { j } ^ { k _ { u } } = - { \\frac { 2 ( 2 j + 2 k _ { u } - 1 ) } { ( j + k _ { u } ) ( 1 - \\tilde { r } ^ { 2 } ) } } { \\frac { Q _ { j + 1 } ^ { k _ { u } - 1 } ( 0 ) } { Q _ { j } ^ { k _ { u } - 1 } ( 0 ) } } H _ { j } ^ { k _ { u } - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "especially,when $k _ { u } = 0$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { j } ^ { 0 } ( r ^ { 2 } ) = R _ { 2 j } ^ { 0 } ( r , \\tilde { r } ) ; H _ { j } ^ { 0 } = \\frac { 1 - \\tilde { r } ^ { 2 } } { 2 ( 2 j + 1 ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "When $k _ { u } < 0$ , the radial polynomials can be obtained by the relationship: ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8491ffd0e17809235fd7a5291c8dcd66830b9fc655301d41608c57c62115a24a.jpg",
+        "img_caption": [
+            "Fig. 4: 3D rendering of the first 15 terms of Annular Zernike polynomials "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { 2 j + k _ { u } } ^ { k _ { u } } ( r , \\tilde { r } ) = R _ { 2 j + k _ { u } } ^ { | k _ { u } | } ( r , \\tilde { r } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When $k _ { u } = l _ { u }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { k _ { u } } ^ { k _ { u } } ( r , \\tilde { r } ) = \\frac { r ^ { k _ { u } } } { \\displaystyle ( \\sum _ { i = 0 } ^ { k _ { u } } r ^ { 2 i } ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In practice,the outer diameter of the bottom surface is not equal to1,so we require to map the reality interval $[ r _ { \\mathrm { o u t e r } } , r _ { \\mathrm { i n n e r } } ]$ 0 the interval $[ \\tilde { r } , 1 ]$ Similartotheradiationfuxrepresetationontecapsule,tediatiofux $B _ { u } \\left( r _ { u } ^ { ( i ) } , \\varphi _ { u } ^ { ( i ) } \\right)$ can be expressed by a linear combinations of the annular Zernike polynomials as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { u } \\left( r , \\varphi _ { u } \\right) = \\sum _ { i = 1 } ^ { N _ { u } } \\sum _ { n _ { u } = 0 } ^ { + \\infty } c _ { n _ { u } } U _ { n _ { u } } \\left( r ^ { ( i ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( i ) } \\right) \\approx \\sum _ { j = 1 } ^ { N _ { u } } \\sum _ { n _ { u } = 0 } ^ { L _ { u } } c _ { n _ { u } } U _ { n _ { u } } \\left( r ^ { ( i ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( i ) } \\right) = U c ^ { u } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $n _ { u }$ is a polynomial ordering index starting with $n _ { u } = 0$ $\\pmb { U }$ is the annular Zernike polynomials with matrix form which presented as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { U } _ { N _ { u } \\times L _ { u } } = \\left[ \\begin{array} { c c c c } { U _ { 0 } ( r ^ { ( 1 ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( 1 ) } ) } & { U _ { 1 } ( r ^ { ( 1 ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( 1 ) } ) } & { \\cdots } & { U _ { L _ { u } } ( r ^ { ( 1 ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( 1 ) } ) } \\\\ { U _ { 0 } ( r ^ { ( 1 ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( 2 ) } ) } & { U _ { 1 } ( r ^ { ( 1 ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( 2 ) } ) } & { \\cdots } & { U _ { L _ { u } } ( r ^ { ( 1 ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( 2 ) } ) } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { U _ { 0 } ( r ^ { ( N _ { r } ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( N _ { \\varphi _ { u } } ) } ) } & { U _ { 1 } ( r ^ { ( N _ { r } ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( N _ { \\varphi _ { u } } ) } ) } & { \\cdots } & { U _ { L _ { u } } ( r ^ { ( N _ { r } ) } , \\tilde { r } ; \\varphi _ { u } ^ { ( N _ { \\varphi _ { u } } ) } ) } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the subscript $N _ { r }$ and $N _ { \\varphi _ { u } }$ are the number of elements divided along the radial direction and rotation direction respectively. $N _ { u }$ is the total number of elements of one of theend face of the cylinder cavity which can be calculated by $N _ { u } = N _ { r } \\times N _ { \\varphi _ { u } } . L _ { u }$ is the number of the Zernike annular polynomials expansion terms which can be obtained by the formula $L _ { u } = \\left( n _ { u } + 2 \\right) \\left( n _ { u } + 1 \\right) / 2$ . The 3D pictures of the first 15 terms of the annular Zernike polynomials are shown in Figure 4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C.Legendre Fourier polynomials ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since the side of the cylindrical cavity is a cylindrical surface,it is no doubt that cylindrical coordinates $( \\rho , \\varphi _ { w } , z )$ seem to be the optimal choice for describing $B _ { w }$ ，where $\\rho$ ， $\\varphi _ { w }$ and $Z$ denote radius,azimuth angle and height of the cylindrical coordinate.Obviously, $B _ { w }$ is only related to azimuth angle and height and not to radius. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According totheconstructionprincipleof multivariableorthogonal polynomials,twosetsofone-dimensionalpolynomials whicharedefined intheazimuthdirectionand height directionrespectively,canbeemployed toconstructatwo-dimensional orthogonal polynomials for describing $B _ { w }$ . Since the cylinder surface profile along the azimuthal direction is closed and periodic,a Fourier series is suitable for characterizing the azimuthal coordinate,which can be expressed as ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b485c16e9b4759cd41a610244480695da7459ecccb445ffd2284bda86e6e526.jpg",
+        "table_caption": [
+            "TABLE I: The first 9 expansion terms of the LF polynomials sequence "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Terms</td><td>Order</td><td>Polynomials</td><td>Expression</td></tr><tr><td>Wo</td><td>0</td><td>LoFo</td><td>1</td></tr><tr><td>W1</td><td>1</td><td>LoF-1</td><td>sin kww</td></tr><tr><td>W2</td><td>1</td><td>L0F1</td><td>cos kww</td></tr><tr><td>W3</td><td>1</td><td>L1F0</td><td>2</td></tr><tr><td>W4</td><td>2</td><td>LoF-2</td><td>sin 2kww</td></tr><tr><td>W5</td><td>2</td><td>LoF2</td><td>cos 2kww</td></tr><tr><td>W6</td><td>2</td><td>L1F-1</td><td>z sin kww</td></tr><tr><td>W7</td><td>2</td><td>L1F1</td><td>z cos kww</td></tr><tr><td>W8</td><td>2</td><td>L2F0</td><td>(32²-1)/2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { k _ { w } } \\left( \\varphi _ { w } \\right) = \\left\\{ \\begin{array} { l l } { \\cos k _ { w } \\varphi _ { w } } & { k _ { w } \\ge 0 } \\\\ { \\sin k _ { w } \\varphi _ { w } } & { k _ { w } < 0 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $k _ { w } = 0 , \\pm 1 , \\pm 2 , \\cdot \\cdot \\cdot$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In height direction,coordinate $z$ is restricted in the interval $[ - h , h ]$ ，where $h$ is half the height of the cylindrical cavity. A nature choice for $z$ coordinate is a Fourier series [25]. Similar to the Associated Legendre polynomials used for spherical harmonics,someone-dimensional-polynomials suchas Legendre polynomialsand Chebyshevpolynomialsare suitable for the $z$ coordinate. Since Legendre polynomials are orthogonal across the interval $[ - 1 , 1 ]$ ，which are conveniently mapped to the interval $[ - h , h ]$ ,here we consider use Legendre polynomials for characterizing the $z$ coordinate. Then a two-dimensional polynomials can be defined as the tensor products of Fourier series and Legendre polynomials in the variables $z$ and $\\varphi _ { w }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { n _ { w } } \\left( z , \\varphi _ { w } \\right) = P l _ { w } \\left( z \\right) F _ { k _ { w } } \\left( \\varphi _ { w } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { l _ { w } } ( z )$ is Legendre polynomials with $l _ { w }$ degree, $W _ { n _ { w } } \\left( z , \\varphi _ { w } \\right)$ termed Legendre Fourier (LF) polynomials defined in the domain $\\Omega = \\{ ( z , \\varphi _ { w } ) \\in [ 0 , 2 \\pi ] \\times [ - 1 , 1 ] \\}$ ， $n _ { w }$ denotes the ordering index of the LF polynomials starting with $n _ { w } = 0$ .An integer $n _ { w }$ represents the degree of the LF polynomials which can be calculated as $n _ { w } = l _ { w } + | k _ { w } |$ ，where the operator $| \\cdot |$ means taking the absolute value.It is clearly that the LF polynomials are separable in the cylindrical coordinates $z$ and $\\varphi _ { w }$ . $B _ { w } \\left( z , \\varphi _ { w } \\right)$ can be approximately presented by the LF polynomials as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { w } ( z , \\varphi _ { w } ) = \\sum _ { i = 1 } ^ { N _ { w } } \\sum _ { n _ { w } = 0 } ^ { + \\infty } c _ { n _ { w } } W _ { n _ { w } } ( z ^ { ( i ) } , \\varphi _ { w } ^ { ( i ) } ) \\approx \\sum _ { j = 1 } ^ { N _ { w } } \\sum _ { n _ { w } = 0 } ^ { L _ { w } } c _ { n _ { w } } W _ { n _ { w } } ( z ^ { ( i ) } , \\varphi _ { w } ^ { ( i ) } ) = W c ^ { w } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $c _ { n _ { w } }$ is the expansion coefficient of the LF polynomials. $W$ denotes the LF orthogonal basis which can be written as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { N _ { w } \\times L _ { w } } = \\left[ \\begin{array} { c c c c } { W _ { 0 } ( z ^ { ( 1 ) } , \\varphi _ { w } ^ { ( 1 ) } ) } & { W _ { 1 } ( z ^ { ( 1 ) } , \\varphi _ { w } ^ { ( 1 ) } ) } & { \\cdots } & { W _ { L _ { w } } ( z ^ { ( 1 ) } , \\varphi _ { w } ^ { ( 1 ) } ) } \\\\ { W _ { 0 } ( z ^ { ( 1 ) } , \\varphi _ { w } ^ { ( 2 ) } ) } & { W _ { 1 } ( z ^ { ( 1 ) } , \\varphi _ { w } ^ { ( 2 ) } ) } & { \\cdots } & { W _ { L _ { w } } ( z ^ { ( 1 ) } , \\varphi _ { w } ^ { ( 2 ) } ) } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { W _ { 0 } ( z ^ { ( N _ { z } ) } , \\varphi _ { w } ^ { ( N _ { \\varphi _ { w } } ) } ) } & { W _ { 1 } ( z ^ { ( N _ { z } ) } , \\varphi _ { w } ^ { ( N _ { \\varphi _ { w } } ) } ) } & { \\cdots } & { W _ { L _ { w } } ( z ^ { ( N _ { z } ) } , \\varphi _ { w } ^ { ( N _ { \\varphi _ { w } } ) } ) } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where the subscript $N _ { z }$ and $N _ { \\varphi _ { w } }$ are the number of elements divided along the radial direction and rotation direction respectively. $N _ { w }$ is the total number of elements of the side surface of the cylindrical cavity which can be calculated by $N _ { w } = N _ { z } \\times N _ { \\varphi _ { w } } . ~ L _ { w }$ is the number of the LT polynomials expansion terms.The top 9 expansion terms of the LT polynomials are given in Table I. The 3D pictures of the first 16 terms of the LF polynomials are shown in Figure 5. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "D.Sparse Representation Model of Radiation Flux ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From Subsection 3.1-3.3,the total radiation flux in the cavity can be expressed in the form of sum: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB = B _ { s } + B _ { u } + B _ { w } = Y _ { N _ { s } \\times L _ { s } } c ^ { s } + U _ { N _ { u } \\times L _ { u } } c ^ { u } + W _ { N _ { w } \\times L _ { w } } c ^ { w } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ormatrix form: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { B } = \\left[ \\begin{array} { l l l } { Y _ { N _ { s } \\times L _ { s } } } & & \\\\ & { U _ { N _ { u } \\times L _ { u } } } & \\\\ & & { W _ { N _ { w } \\times L _ { w } } } \\end{array} \\right] \\times \\left[ \\begin{array} { l } { \\boldsymbol { c } ^ { s } } \\\\ { \\boldsymbol { c } ^ { u } } \\\\ { \\boldsymbol { c } ^ { w } } \\end{array} \\right] = \\boldsymbol { \\Psi } \\boldsymbol { c } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Equation (29) can be written as a functional form ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/352998e4fe34f1e0d7cdddba339e71f8fe4e48eecd34186020d29507928c8f86.jpg",
+        "img_caption": [
+            "Fig.5:3D rendering of the first 16 terms of Legendre-Fourier polynomials "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( c ) = ( I - V ) ( \\Psi c ) + C ( \\Psi c ) \\circ ^ { 1 / \\beta } - E\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "which has a unique unknown variable,i.e.,sparse coefficient $c$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Inthis section,threesetsoforthogonal polynomialsareused torepresenttheradiationfuxinacylindricalcavity,and the radiation energy balance equation is transformed into an equation about the sparse coefficients. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IV. RADIATION FLUX RECONSTRUCTION UNDER COMPRESSIVE SENSING FRAMEWORK ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.Compressed Observation Model ofRadiation Flux ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Compressed Sensing is usually workson linear system.First-order Taylor expansionaround a point approximation is usualy applied to linearization innonlinearCSthatissimilartothecase inEquation (3O).Equation (3O)canbeexpandedatpoint $c ^ { * }$ as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( \\pmb { c } ) \\approx f ( \\pmb { c } ^ { \\star } ) + f _ { \\pmb { \\mathrm { c } } ^ { \\star } } ( \\pmb { c } - \\pmb { c } ^ { \\star } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { c ^ { \\star } }$ is a linear operator such as Jacobian matrix which can be expressed as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { c ^ { \\star } } = ( I - V ) \\Psi + \\mathrm { d i a g } \\left[ { \\frac { 1 } { \\beta } } C ( \\psi c ^ { \\star } ) \\circ ^ { ( 1 / \\beta - 1 ) } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { d i a g } ( \\bullet )$ denotes a diagonal matrix whose elements on the diagonal are composed of $\\bullet$ .Then Equation (32） can be rewritten as: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\mathbf { c } ^ { \\star } } \\mathbf { c } = f _ { \\mathbf { c } ^ { \\star } } \\mathbf { c } ^ { \\star } - f ( \\mathbf { c } ^ { \\star } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As theexperimental results shown in Table2,inthecase of smaler grid,thecomputation is verylarge for solving viewfactor matrix via Newton-Raphson method. In accordance to the CS theory,a measurement matrix of $M \\times N ( M \\ll N )$ can be used for obtaining linear and non-adaptive measurements from Equation (33), which can be expressed as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi f _ { c ^ { \\star } } c = \\Phi ( f _ { c ^ { \\star } } c ^ { \\star } - f ( c ^ { \\star } ) ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The commonly used measurement matrices have stochastic Gausian matrices,random Bernouli matrices,partialorthogonal matrices,structured random matrices and cyclic matrices and sparse random matrices [11]. Since the basis $\\Psi$ is orthogonal, from whichtherandomlysampled elementsmust mettheorthogonal,andalsotomttheRestricted Isometryroperty(IP), thesampling pointsabove the elements can bedirectlyselected.This meansonly needs tocalculation thesampling elements composed of measurementmatrix.Inpractical,themeasurement matrix isasimilardiagonal matrix consistingof thesampling of row index of $f _ { c ^ { \\star } }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Let $A = \\Phi f _ { c ^ { \\star } }$ ， ${ \\pmb y } = \\pmb \\Phi \\left( f _ { c ^ { \\star } } c ^ { \\star } - f \\left( { \\pmb c } ^ { \\star } \\right) \\right)$ ,Equation (34) can be written as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA c = y .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Since $M < N$ , in general, recovery of $c$ is a combination problem which is known to be NP-hard. Fortunately, under stricter conditions on $A$ (i.e.,Restricted Isometry Property),a range of different algorithms can be used to recover $c$ from roughly $O ( K \\log ( N ) )$ measurements [1O].Based on the results of Section 3,wecan roughly estimate the number of samples for capsule,thebottmand thetopsurfaceof thecavityand thesideofthecavityrespectively.For example,foramodel witha totalelements numberof9776(wherethethenumberofelementsforcapsule,thebottmandtopsurfaceoftecavityandthe side of the cavity are 2592,2016,2016 and 3152,respectively),the number of samples for capsule is $3 0 \\times \\log ( 2 5 9 2 ) = 1 0 2 . 4$ the bottom and top surface have the same samples of $3 5 \\times \\log ( 2 0 1 6 ) = 1 1 5 . 6$ ，and the number of samples on the side of cavity is $1 0 0 \\times \\log ( 3 1 5 2 ) = 3 4 9 . 9$ ，and the total number of samples can be estimated as $1 5 0 + 1 5 0 \\times 2 + 4 0 0 = 8 5 0$ The number of samples in other models is shown in Table III. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "B. Algorithms for solving model ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sparse coefficient $c$ can be recovered by optimizing the following sparse constraint problems ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\hat { c } } = \\arg \\operatorname* { m i n } \\left\\| \\pmb { y } - \\pmb { A } \\pmb { c } \\right\\| _ { 2 } \\quad \\mathbf { \\mu } _ { s . t . } \\quad \\left\\| \\pmb { c } \\right\\| _ { 0 } \\leq K\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "somegreedy iterative algorithms such as hard thresholding algorithmsandorthogonal matching algorithmscan beused for solving Equation (36).Inthis section,we proposedanewiterative gredyalgorithm forsolving theradiationfuxcompresed observation model based on two typical CS reconstruction algorithms. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1）ConjugateGradientIterativeHard ThresholdingAlgorithm ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Iterativehardthresholding (IHT）algorithmisusuallyused forCSreconstructionduetoits simple operation and low computational complexity, and it's iterative formula as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\pmb { c } _ { n + 1 } = H _ { K } [ \\pmb { c } _ { n } + \\mu \\pmb { A } ^ { \\mathrm { T } } ( \\pmb { y } - \\pmb { A } \\pmb { c } _ { n } ) ] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $H _ { K } ( \\bullet )$ is a nonlinear operator that sets all but the absolute value of largest $K$ elements of $c$ to zero, $\\mu$ is the step size andusuallytaken asaconstant in IHTalgorithm.Theconvergenceof this algorithm was provenin[dd]under thecondition that $\\| A \\| _ { 2 } < 1$ , in which case,the IHT algorithm converges to a local minimum. Since step size and the scale of sensing matrix havea greatinfluenceontheconvergenceof IHT[18],Normalized Iterative Hard Thresholding algorithm (NIHT)was proposed in to improve IHT algorithm [19]. The restriction of the snesing matrix $A$ in NIHT is replaced by a descending iteration factor, whichgreatly improves theconvergenceandstability.However,the search direction inNIHTalgorithm is gradientdirection, it mayresult slow convergence near the minimum.Conjugate Gradient Iterative Hard Thresholding (CGIHT）algorithm was proposed in[2O],in which,conjugate gradientdirection wasadoptedasthesearch direction tospeeduptheconvergence. The CGIHT algorithm can be stated as Algorithm 1,in which, $\\varnothing$ denotes an empty set and $\\textbf { \\em d }$ denotes search direction, $\\gamma$ is an orthogonalization weight, the support of $\\boldsymbol { c }$ denoted by $T _ { n }$ and $A _ { T _ { n } }$ indicates a submatrix of $A$ .Byallowing the search directionchangeaftereachlowcomplexity iteration,CGIHTisable toquicklyidentifythecorrectdescendingdirectionwhile using the computational advantages of conjugate gradient method when the support set remains stable. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Algorithm 1 [2O] Conjugate Gradient Iterative Hard Thresholding restarted for Compressive Sensing ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Input: $\\mathbf { { \\mathcal { A } } } , \\mathbf { { \\mathcal { y } } } , K$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Initialization: $\\pmb { c } _ { 0 } = 0 , T _ { - 1 } = \\emptyset , \\pmb { d } _ { - 1 } = 0 , T _ { 0 } = \\operatorname { s u p p } ( H _ { K } ( \\pmb { A } ^ { T } \\pmb { y } ) )$   \nfor each iteration $n \\geq 0$ do 1） ${ \\pmb g } _ { n } = { \\pmb A } ^ { \\mathrm { T } } ( { \\pmb y } - { \\pmb A } { \\pmb c } _ { n } )$ (compute the gradient direction) 2）if $T _ { n } \\neq T _ { n - 1 }$ then Xn=0 else $\\begin{array} { r } { \\chi _ { n } = - \\frac { \\left. A g _ { n T _ { n } } , A d _ { n - 1 T _ { n } } \\right. } { \\left. A d _ { n - 1 T _ { n } } , A d _ { n - 1 T _ { n } } \\right. } } \\end{array}$ (compute orthogonalization weight) end 3) ${ \\pmb d } _ { n } = { \\pmb g } _ { n } + \\chi _ { n } { \\pmb d } _ { n - 1 }$ (compute conjugate gradient direction) 4) $\\alpha _ { n } = \\langle g _ { n T _ { n } } , g _ { n T _ { n } } \\rangle / \\langle A _ { T _ { n } } d _ { n T _ { n } } , A _ { T _ { n } } d _ { n T _ { n } } \\rangle$ (compute step size) 5) $\\pmb { c } _ { n + 1 } = H _ { K } ( \\pmb { x } _ { n } + \\alpha _ { n } \\pmb { d } _ { n } ) , T _ { n + 1 } = \\mathrm { s u p p } ( \\pmb { c } _ { n + 1 } )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "until the stopping criteria is met ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "end for ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although the CGIHTalgorithmcanaccelerateconvergence,the Jacobian matrix needs updatingateach iteration in non-linear problems,which mayresult in search directions that do not satisfytheconjugatecondition,resulting in slower convergence. Inthe processof solvingnonlinearradiationfluxcalculation model,itistime-consuming toupdate theJacobian matrix,and we should to devise means to reduce the number of iterations. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2）SubspacePursuitAlgorithm ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Orthogonal matching pursuit (OMP）algorithm is wildlyused forCS reconstruction owing to its simple implementation andlowercomputational complexity[21].Ineach iteration,OMPselects thecolumnof the measurement matrix whichis most stronglycorelated with thecurrent residualsandadds thiscolumn intothesetofselectedcolumns,thentheresidual is updated by projecting the measurement vector $\\textbf {  { y } }$ onto the linear subspace spanned by the selected columns. The reconstruction complexity of the standard OMP is roughly $O ( K M N )$ because it always needs $s$ iterations.Unlike the OMP algorithm，at each iteration,subspace pursuit algorithm selected $s$ candidates based on the correlation values between the columns of $A$ and the measurement vector $_ y$ ,and then a back-tracking operation of the candidate set in the previous iteration is implemented. Compared to the OMP algorithm, the computational complexity of the SP algorithm can be further reduced to $O ( M N \\log ( K ) )$ （204 when the nonzero entries of the sparse signal decays slowly. The SP algorithm can be described as follows. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Algorithm 2 [21] Subspace Pursuit algorithm ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Input: $A , y , K$   \nInitialization: $T _ { 0 } = \\{ K$ indices of the largest magnitude entries in the vector $\\boldsymbol { A } ^ { \\mathrm { T } } \\boldsymbol { y } \\boldsymbol  \\}$   \n$c _ { 0 } = \\arg \\operatorname* { m i n } _ { c } \\big \\| y - A _ { T _ { 0 } } \\pmb { c } \\big \\| _ { 2 }$ ， $\\pmb { r } _ { 0 } = \\pmb { y } - \\pmb { A } _ { T _ { 0 } } \\pmb { c } _ { 0 }$ ：   \nWhen $n \\geq 1$ Do 2) 1) $\\begin{array} { r l } & { T = T _ { n - 1 } \\cup \\{ \\mathrm { l n d i c e s ~ o f ~ \\& ~ l a r g e s t ~ m a g n t u } } \\\\ & { \\hat { \\pmb { c } } _ { n } = \\{ \\mathrm { a r g ~ m i n } \\| \\pmb { y } - \\pmb { A x } \\| _ { 2 } , \\mathrm { s u p p } ( \\pmb { x } ) \\in \\hat { T } \\} } \\\\ & { T _ { n } = \\mathrm { s u p p } ( H _ { K } ( \\hat { \\pmb { c } } _ { n } ) ) } \\\\ & { { \\pmb { c } } _ { n } = \\{ \\mathrm { a r g ~ m i n } \\| \\pmb { y } - \\pmb { A x } \\| _ { 2 } , \\mathrm { s u p p } ( \\pmb { x } ) \\in T _ { n } \\} } \\end{array}$ ${ \\hat { T } } = T _ { n - 1 } \\cup .$ largest magnitude entries of $A ^ { \\mathrm { T } } r _ { n - 1 } \\}$ （20 3) 4) 5) $\\pmb { r } _ { n } = \\pmb { y } - \\pmb { A } _ { T _ { n } } \\pmb { c } _ { n }$ until the stopping criteria is met ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Output: Cn, $T _ { n }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3）Conjugate Gradient Subspace ThresholdingPursuitAlgorithm ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Inspired by CGIHT algorithm and SP algorithm,a new greedy iterative algorithm named conjugate gradient subspace thresholding pursuit (CGSTP)is proposed forreconstructingradiation flux.This algorithmisbasedon SP algorithm,drawing on CGIHT algorithm and using conjugate gradient as the search direction to accelerate convergence.The pseudo-code of CGSTP algorithm is shown in Algorithm 3. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Algorithm 3 Conjugate Gradient Subspace Thresholding Pursuit (CGSTP) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Input: $\\mathbf { { \\mathcal { A } } } , \\mathbf { { \\mathcal { y } } } , K$   \nInitialization: $\\pmb { c } _ { 0 } = 0 , T _ { - 1 } = \\emptyset , \\pmb { d } _ { - 1 } = 0 , T _ { 0 } = \\operatorname { s u p p } ( H _ { K } ( \\pmb { A } ^ { T } \\pmb { y } ) )$   \nfor each iteration $n \\geq 0$ do 1） ${ \\pmb g } _ { n } = { \\pmb A } ^ { \\mathrm { T } } ( { \\pmb y } - { \\pmb A } { \\pmb c } _ { n } )$ (compute the gradient direction) 2)if $T _ { n } \\neq T _ { n - 1 }$ then Xn=0 else $\\begin{array} { r } { \\chi _ { n } = - \\frac { \\left. A g _ { n } T _ { n } , A d _ { n - 1 T _ { n } } \\right. } { \\left. A d _ { n - 1 T _ { n } } , A d _ { n - 1 T _ { n } } \\right. } } \\end{array}$ (compute orthogonalization weight) end 3) ${ \\pmb d } _ { n } = { \\pmb g } _ { n } + \\chi _ { n } { \\pmb d } _ { n - 1 }$ (compute conjugate gradient direction) 4) $\\mu _ { n } = \\langle g _ { n T _ { n } } , g _ { n T _ { n } } \\rangle / \\langle A _ { T _ { n } } d _ { n T _ { n } } , A _ { T _ { n } } d _ { n T _ { n } } \\rangle$ (compute step size) 5) （20 $\\hat { T } _ { n + 1 } = \\operatorname { s u p p } ( H _ { K } ( \\pmb { c } _ { n } + \\mu _ { n } \\pmb { d } _ { n } ) ) \\cup T _ { n } .$ （20号 6 $\\begin{array} { r l } & { \\hat { c } _ { n + 1 } = \\{ \\mathrm { a r g } \\operatorname* { m i n } \\| y - A x \\| _ { 2 } , \\mathrm { s u p p } ( { \\pmb x } ) \\in \\hat { T } _ { n + 1 } \\} , T _ { n + 1 } = \\mathrm { s u p p } ( \\hat { \\pmb c } _ { n + 1 } ) } \\\\ & { { \\pmb c } _ { n + 1 } = \\{ \\mathrm { a r g } \\operatorname* { m i n } \\| y - { \\pmb A } { \\pmb x } \\| _ { 2 } , \\mathrm { s u p p } ( { \\pmb x } ) \\in T _ { n + 1 } \\} } \\end{array}$ 7) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "until the stopping criteria is met ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "end for ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The CGHTPalgorithm isa simplecombination of the CGIHTalgorithm and the SPalgorithm,and absorbs the advantages of both algorithms.SPalgorithmintroduces backtracking operation inthe iteration proces.Ineach iteration,the support setof the previous teration isreconsidered,andthenewsupportsetisupdatedbytheleastsquaremethod.Forcompresiblesignals, SP algorithm can find the best $s$ atoms in $l o g ( K )$ iteration.However, SP algorithm has strict requirements for RIP conditions. The CGIHTalgorithm optimizes the search direction,and theconjugatedirectionisused asoneof itsoptimization directions, which has a superlinear convergence rate associated with $( \\sqrt { \\kappa } - 1 ) / ( \\sqrt { \\kappa } + 1 )$ [26], where $\\kappa$ is the condition number of matrix A.However,itdoes not makefurtheraccurate estimationof the sparsecoefcient afterupdating the support set,and the CGIHT algorithm only shows its advantage in convergence speed when the correlation of the columns in $A$ is very small. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The CGIHT algorithm uses the negative gradient direction and theconjugate gradient direction as the search direction.If thesensingmatrixremainsunchanged inallsteps,onlyasmallnumberof iterationsareneeded toconverge.Infact,sincethe incompleteorthogonalitybetween thecolumns ofthesensing matrix,thesupportsetselected ineach iterationmaybedierent, and the sub-matrix formed by the columns of $A$ with the support set as the index is different in each iteration,which will leadtothesearchdirectionsobtained intheprevious iterationand thecurrent iteration arenotconjugate,thus the superlinear convergence speedofthealgorithmcannotbeensured.What’smore,in thenonlinear problem,because the CGIHTalgorithm does not accurately estimate the sparse coefcients in each iteration,the solution process requires more iterations. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The CGSTP algorithm absorbs the advantages of SP algorithm and CGIHT algorithm in support set update strategy and searchdirectionoptimizationrespectively.CGSTPprovides twoalternativesearch directions intheiterativeprocess,ncluding the gradient descent directionandtheconjugategradient direction,and adaptively selects theoptimal direction according to thecriterionof whetherthesupportsetisthesameintheprevious iterationandthecurentiteratio.Intheory,if thesensing matrix inalliterationsremainsunchanged,CGSTPcanachievesuperlinearconvergencerate[26].However,insolvingthe non-linearcompressdobservation modelofradiation flux,the Jacobianmatrixchanges ineach iteration,which results in the changeof the sensing matrix,and the acceleration efect is not obvious.Fortunately,since CGSTPuses a backtracking operationsimilar toSPalgorithm toaurately estimate the sparsecoeffcientsaftereachupdatingofthe support set,resulting inasmall change inthe Jacobianmatrixobtainedfrom the previous iterationand thecurrentiteration,which increases the probability that the sensing matrices in different iterations are the same. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "C.Overview of radiation flux computation process with CGSTP ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "According to the above analysis，solving thenon-linear radiation energy balance equation inthe Compressed Sensing framework canbesummarized into threemodules,namely,the sparse representation moduleofradiation flux,thecompresive sampling module and the reconstruction module.Figure 6 summarizes the basic contents of each module. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As can beseenfromFigure6,inthesparserepresentation module,alltheradiationregionsofthecylindricalcavitymodelare firstdividedintodiscreteelementsacordingtoagivenprecision,ndparameterdatasuchascoordinatevalues,nrmalvectors, andspatialanglesareobtained.Then,thesparse basiscomposedoforthogonalpolynomialsofdiferentexpansionorders is calculatedaccording totheelementsparameters.Therepresentation eror of radiation fluxover the sparse basis is analyzed todetermine the number of expansion terms of polynomials,and the sparsityof radiation flux inthe sparse transformation domain is determined bysimulation experiments.Finaly,asparserepresentation model ofradiation energyforasmall number of sparse coefficients is constructed. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the compressive sampling module,firstly,all discrete mesh elements are indexed,and $M$ elements are collected by random uniformsampling method (Latin Hypercube Sampling (LHS)method usedin this paper).Then,the sparse representation model of radiation flux is transformed into a compressed observation model by using the equation corresponding to $M$ sampling indexes,soas torealizethecompressionanddimensionalityreductionof themodel.Atthesametime,theoclusioncondition of each elementinthecylindricalcavityisanalyzed,andthepartialview-factormatrix iscalculatedaccording tothesampling index. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Inthe reconstruction module,the linear approximation systemis frstconstructed byusingthe first-order Taylor expansionat thecurrent iterationpoint toconstructalinearapproximationsystem.Then,thepartialJacobianmatrixiscalculatedacording to the sampling index,andthesensing matrix is calculatedaccording tothe Jacobian matrix,The minimization problembased on $\\ell _ { 0 }$ norm is established when the sparsity is known as $s$ ，Finally,the above $\\ell _ { 0 }$ norm minimization problem is solved by CGSTP algorithm. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "V.SIMULATION EXPERIMENTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A.Experimental model and simulation environment ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Inthissection,twocylindricalcavitymodels for Shenguang I and Shenguang-Ilaserdevicesareused for simulation experiments to verifytheperformanceof the proposed method.Thecylindricalcavity model in Shenguang Iisshown in Figure 7.The modelsof Senguang-II and Shenguang-IIare represented by\"S2”and \"S3”respectively.All experimentsare tested in MATLAB R2015b [27],running on a Windows 10 machine with Intel I5-7500 CPU 3.4GHz and 8GB RAM. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The elements parametersofthe S2 model and the S3 model are shown in Table II,whereS2-1,S2-2,S3-1,and S3-2 represent models having different elements sizesand their total elements numbersarerespectively9776,38952,20736and 82944. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ccd2ab63537f0337ddace8749713f9e6f409bb5313220b31040b973311ae6f2.jpg",
+        "img_caption": [
+            "Fig.6: Solution process of nonlinear radiation flux compressed observation model "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/2655ba3715e711b20836f53f77dda6b00c436992c3abb72a3ec7b8ca3607d243.jpg",
+        "img_caption": [
+            "Fig.7: Acylinder-to-sphere model onthe S2laser facility.(a) S2laser facility, (b)CAD model of S2,(c)radiation energy computed on the capsule,(d) unfolding view of radiation energy on the capsule "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The random uniform sampling method used in this section is the Latin Hypercube Sampling (LHS) method.The sampling number is estimated according to the formula $s \\log ( N )$ . Taking the S21 model as an example, the sampling numbers of three radiation regions are calculated as $3 0 \\times \\log ( 2 5 9 2 ) \\approx 1 0 2 . 4$ (take 150), $3 5 \\times \\log ( 2 0 1 6 ) = 1 1 5 . 6$ (take 150) and $1 0 0 \\times \\log ( 3 1 5 2 ) =$ 349.8 (take 4OO). The sampling rates of different models are shown in Table III. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "As shown in the Table $\\mathrm { I I }$ and Table II, we can see that (1) the number of discrete mesh elements significantly increases with the decreaseof the sizeof mesh elements,and (2)the samplingrate for Compressd Sensing based approaches gradualy decreases as the number of mesh elements increases. ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4ae9885fcedb5baad8a10773ef6298b9726daff778dfb9a1f9fef09a49a4b23.jpg",
+        "table_caption": [
+            "TABLE I: The size and number of discrete elements of four simulation models. \"H\", $\\ \" \\mathrm { c } \\ : \\cdot \\$ ，， $\" \\Delta r \" $ and $\" \\Delta h \"$ represent the minimumdimensionsof thelongitudedirectionofcapsule,thelatitudinaldirectionofcapsule,theradialdirectionof cavity and the axial direction of cavity, respectively. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>Capsule</td><td>The end face of cavity</td><td>The cylinder surface</td><td>Total number</td></tr><tr><td>S2-1</td><td>(H:5,:50)</td><td>(H:2.5016r:15um)</td><td>(H:50,△5:30um)</td><td>9776</td></tr><tr><td>S2-2</td><td>(H:2.503 6:2.5)</td><td>(H:1.25064:7.5um)</td><td>(H:2.501245h:15um)</td><td>38952</td></tr><tr><td>S3-1</td><td>(H:55,℃:50) 10368</td><td>x2(H:2.53,2△r:15um) 17280×2</td><td>(H:50,△h:30um)</td><td>20736</td></tr><tr><td>S3-2</td><td>(H:2.5, C:2.5°)</td><td>(H:1.25°,△r:7.5um)</td><td>38016 (H:2.5°,△h:15um)</td><td>82944</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/0782bfc79f6ace361596a93272ea695d0c34fe8a2c2d09419232743e1f367bd7.jpg",
+        "table_caption": [
+            "TABLE III: Number of samples of four simulation models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>Capsule</td><td>The end face of cavity</td><td>The cylinder surface</td><td>Total sampling number</td><td>Sampling rate</td></tr><tr><td>S2-1</td><td>150</td><td>300</td><td>400</td><td>850</td><td>8.7%</td></tr><tr><td>S2-2</td><td>150</td><td>300</td><td>450</td><td>900</td><td>2.3%</td></tr><tr><td>S3-1</td><td>150</td><td>300</td><td>350</td><td>800</td><td>3.9%</td></tr><tr><td>S3-2</td><td>150</td><td>400</td><td>400</td><td>950</td><td>1.1%</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "B.Sparse representation error analysis of radiation flux ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Firstly,we verify the sparsity level of radiation flux $B _ { s }$ ， $B _ { u }$ and $\\scriptstyle B _ { w }$ over three orthogonal bases $\\boldsymbol { Y }$ ， $\\boldsymbol { \\tau }$ and $W$ ,respectively. The expansioncoefcientsof three setsof polynomialsandthe representation errors (root mean squared error),between the original flux and the recovered radiation flux with $n _ { y }$ ， $n _ { u }$ and $n _ { w }$ expansion order are shown in Figure 8(a) and (b) respectively. Therelationship betweenthesparsitylevelofthecoeficientsand therepresentationerroroftheradiantenergyfowis shown in Figure 9(a) and the magnitude of the sparse coefficients are presented in 9(b). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Asshown inFigure8(a)and(b),with theincreaseofthenumberof expansiontermsoforthogonal polynomials,the representationeror decreasesgradually.When the expansion termsof Spherical Harmonicpolynomials,Annular Zemike polynomials and Legendre-Fourierpolynomials reaches 400,325and1225respectively,therepresentation erors approach to zeroand thecurve remainsstable.This means thatonlyasmallnumberof expansion terms are nededto accurately epresent the completeradiation fux.From Figure9(a)wecan see that the numberoftheabsolute valueofcoefcients larger than $1 0 ^ { - 3 }$ over three sets of orthogonal bases are $s 1 \\approx 3 0$ $s 2 \\approx 3 5$ and $s 3 \\approx 1 0 0$ respectively. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Since the top 35 order energy accounts for more than $9 9 . 9 \\%$ of the total energy and the energy of more than 35th order islitle.That is theanalysisofradiation fluxs harmonic expansion situation undervarious irradiation conditions.The drive asymmetry must be less than $2 \\%$ and the calculation accuracy should be seting at least an order for magnitude, equal to $0 . 1 \\%$ ： ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "C.Solution results of radiation energy balance equations ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Theresulting radiation flux on the capsule is computed with TDEBM and then compared with Newton-Raphson (NR), Preconditioned Conjugate Gradient (PCG),IHT,CGIHT and CGSTPoncomputation time,accuracy,iterationnumber for diferent kindsofmesh elementssizes.Inalltests,theIHT,cgiht,andcgstpalgorithms wererunindependently2Otimesand the averageof2Oresults was used as the test result.Then thecomputation timelist forthe four calculation models using diferent algorithms is shown in Table IVand V,andthe iteration steps and acuracyof different algorithms areshown in Table VI and Table VI respectively. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table IVand Table V,wecan see that (l）as the numberof non-linear equations exponentiallincreases, thecomputation times thus increasesharply fortraditionalapproaches,(2)less computation time is requiredforcompresed sensing based approaches since the computation model is significantly reduced, only almost $8 . 7 \\%$ or $1 . 1 \\%$ of equations are utilized to obtain the solution,and (3）since thesearch direction isoptimizedand the updating strategyof support setis improved,lesstimerequiredforCGSTPthanthatof IHTand CGIHTtoobtain thesolution.Figure10(a)shows the time ratio betweentheCGSTPalgorithmand thePCG algorithm forcalculatingthe four models.Figure1(b）shows theiteration time difference between the CGSTP algorithmandthe IHTand CGIHT algorithms.Itcanbeseen from Figure10(a)that as the model scale increases,the time accelerationratioof the CGSTP algorithmrelative tothe PCG methodbecomes largerand larger,and the maximumaccelerationratiocanreach8O.This is becauseasthe scaleof theequationincreases,thesampling rate becomes smalerandsmaler,andtherequiredcalculationamount islessandlessthanthetotalcalculationamount.Figure 10(b)shows thatthe difference between CGSTPand IHTand CGIHTis largerand larger withthe increase of modelsize. This is because theradiation flux tends to becontinuous with the increase ofthenumber of discrete mesh elements,which reduces the number of updates of Jacobian matrix.This means that CGSTP has more advantages when the scale is larger. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/60ef73379df4b82ff07c49ae88730b550a0b29e0f2fc4297823d93bcae751bce.jpg",
+        "img_caption": [
+            "Fig.8:The relationofrepresentation erors and numberof expansions overorthogonal polynomials.\"Z 2016\",\"L3152”and \"S 2592”respectively represent annular Zernike basis with a mesh element number of 2O16,Legendre-Fourier basis witha mesh element numberof 3152,anda Spherical harmonic basis with amesh element number of 2016,and the others are similar.. (a) Shenguang-I model, (b) Shenguang-II model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2860f8f00b2a8d72b29dd1b9da60ded3a2a45a23783790add4c2d2a8fadd786.jpg",
+        "img_caption": [
+            "Fig.9:The sparsity levelsover orthogonal polynomials (Shenguang-I model).(a)Representation eror V.s.sparsity level ${ \\bf ( b ) }$ magnitude of the expansion coefficients. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/563c46ae09c0d8bfe4419ae2357e519ffaa1c955b0747a2d3bd284dba635a890.jpg",
+        "table_caption": [
+            "TABLE IV: Running time of conventional method (unit: second),\"-” denotes out of memory "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td colspan=\"2\">Newton-Raphson method</td><td colspan=\"2\">PCG method</td></tr><tr><td>Model</td><td>Vview-factor caleulation</td><td>Itration</td><td>Total</td><td>Iteraton</td><td>Total</td></tr><tr><td>S2-1</td><td>4341.5</td><td>27.3</td><td>4368.8</td><td>21.4</td><td>4362.9</td></tr><tr><td>S2-2</td><td>69045.8</td><td>2203.6</td><td>71249.4</td><td>313.2</td><td>69359.1</td></tr><tr><td>S3-1</td><td>16253.1</td><td>1288.4</td><td>17541.5</td><td>96.8</td><td>16349.9</td></tr><tr><td>S3-2</td><td>255843.2</td><td></td><td></td><td>1572.6</td><td>257415.8</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/87c5a4f14e4c6cdab05cddd86e92da2f572ac2006e36b335873c0c261d7b36f8.jpg",
+        "table_caption": [
+            "TABLE V: Running time of Compressed Sensing method (unit: second). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td colspan=\"2\">IHT</td><td colspan=\"2\">CGIHT</td><td colspan=\"2\">CGSTP</td></tr><tr><td>Model</td><td></td><td></td><td>Iteration</td><td>Total</td><td>Iteration</td><td>Total</td><td>Itration</td><td>Total</td></tr><tr><td>S2-1</td><td>407.1</td><td>11.8</td><td>332.4</td><td>751.3</td><td>167.9</td><td>586.8</td><td>13.7</td><td>432.6</td></tr><tr><td>S2-2</td><td>1518.4</td><td>40.2</td><td>1142.6</td><td>2701.2</td><td>683.1</td><td>2241.7</td><td>38.6</td><td>1597.2</td></tr><tr><td>S3-1</td><td>658.6</td><td>22.7</td><td>671.8</td><td>1353.1</td><td>322.4</td><td>1003.7</td><td>20.7</td><td>705.0</td></tr><tr><td>S3-2</td><td>3014.2</td><td>103.5</td><td>2248.3</td><td>5366.0</td><td>1131.2</td><td>4248.9</td><td>84.5</td><td>3202.2</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/e843d20a648f58b58716f51fb090c8f938ca5d21a1a17e83a97c874c22fa42f3.jpg",
+        "img_caption": [
+            "Fig.10:Running timeof different algorithms.(a)Theratioof solving time betweenCGSTPalgorithmandPCGalgorithm, $\\mathbf { ( b ) } \\Delta \\mathrm { T S 1 }$ and $\\Delta \\mathrm { T S 2 }$ represent the difference of iteration time between CGSTP and CGIHT, CGSTP and IHT algorithm, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Theconvergence performanceof theabove algorithms isshown in TableVI.Itcanbeseen that(1)asmallnumberof iterations is requiredfortheNR,PCGandCGSTPapproaches,whereas hundredsofiterationsisrequiredfortheIHT,CGIHT approaches,(2)Even though lesstimeof iterationsare required forthe NR and PCG approaches,the computation time for each iteration is much longer thanthatof IHT,CGIHTand CGSTPalgorithms,and (3)ascompared withthe IHTand CGIHT algorithms,lessiterationsisrequiredfortheCGSTPapproachsinceoptimalsearchdirectionandsteplength isapled.Figure 11 shows the relationship between IHT,CGIHTand CGSTPalgorithm iteration times and reconstruction error.FromFigure 11,we cansethat theerorcurveofCGSTPalgorithmdecreases veryfast,and itonlyneedsabout sixiterations toapproach zero and keep stable,which means that the CGSTP algorithms has afaster convergence speed thanthe other algorithms. ",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/2af89f57ed0f58619ff9c54d0a3e0cd4401cf6918cbfd31d5423c9b5d58b2fa8.jpg",
+        "table_caption": [
+            "TABLE VI: Number of samples of four simulation models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>Newton-Raphson</td><td>PCG</td><td>IHT</td><td>CGIHT</td><td>CGSTP</td></tr><tr><td>S2-1</td><td>3</td><td>10</td><td>1273</td><td>841</td><td>38</td></tr><tr><td>S2-2</td><td>2</td><td>8</td><td>1124</td><td>729</td><td>35</td></tr><tr><td>S3-1</td><td>3</td><td>9</td><td>837</td><td>657</td><td>31</td></tr><tr><td>S3-2</td><td>2</td><td>8</td><td>811</td><td>594</td><td>27</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Theaccuracyofthediferent algorithmsis listedin Table VI. Itcanbeseen from TableVII that(1)the_NRalgorithmand the PCG algorithm have the highest accuracy,and the root mean square error (RMSE) is lower than $1 0 ^ { - 5 }$ ，(2） the accuracy of CGSTP algorithm is higher than IHTalgorithmand CGIHTalgorithmin solving diferent models,and (3)theaccuracyof allalgorithms is improved with the increaseof the numberof mesh elements.The RMSEofCGSTPalgorithm incalculating different models is less than $1 0 ^ { - 3 }$ , which satisfies the radiation symmetry analysis. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4cdbfa358a5c3ed510a677c63530ee67bcd0506e6e5f976e0c7f91dc16ce63e.jpg",
+        "img_caption": [
+            "Fig.11:Iteration number and reconstruction error of different algorithms "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/29e25dc1b742739a196a2877c97cc30b9cea0515cb4094c3d96d9cc5cf963fd0.jpg",
+        "table_caption": [
+            "TABLE VII:Reconstruction RMSE of different methods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>NR</td><td>PCG</td><td>IHT</td><td>CGIHT</td><td>CGSTP</td></tr><tr><td>S2-1</td><td>3.14× 10-10</td><td>5.52×10-6</td><td>3.71 ×10-3</td><td>1.53 × 10-3</td><td>7.84 × 10-4</td></tr><tr><td>S2-2</td><td>2.33× 10-10</td><td>3.91 × 10-6</td><td>1.27 × 10-3</td><td>9.84×10-4</td><td>6.20 × 10-4</td></tr><tr><td>S3-1</td><td>1.65 × 10-10</td><td>4.13 × 10-6</td><td>9.81 × 10-4</td><td>8.92 × 10-4</td><td>5.75 × 10-4</td></tr><tr><td>S3-2</td><td>1.08 × 10-10</td><td>1.64 × 10-6</td><td>9.55 ×10-4</td><td>8.51 ×10-4</td><td>5.24 ×10-4</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "VI.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The radiation flux distribution symmetryevaluation is very important in ICF experiments,which involve atime consumption processin solvingthe nonlinear energy equilibrium computation model.In order toaccelerate such equation solving process, aneficientradiationcomputationapproach ispresented.Firstly，weinvestigatedthedistributioncharacteristicsofradiation flux on acylindricalcavity modeland three sets oforthogonal polynomialsare employed to acuratelyand sparselyrepresent theradiationflux.Then,onlyafew mesh elementsaresampledto formulate thesparseequation model,which enable the nonlinearequationmodellargelyreduced.Finally,agreedyiterativealgorithmnamedCGSTPispresentedtoefcientlysolvethe non-linearradiationenergybalanceequations.Someexperimentaltargetsisutilized tovalidate theefciencyofthepresented approach. The result show that the radiation flux can be efficiently obtained in almost $1 / 8 0$ time of traditional approach. In future,we willcontinueto explorethesparserepresentation forrecentfre-formhohlraums,to enablethe presentapproach be used for more targets design,analysis and optimization. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1]H. Kopka and P.W.Daly,A Guide to TEX,3rd ed.Harlow, England: Addison-Wesley,1999.   \n[2]SrivastavaKnaGoAalytialvectodatiostibiosiddrical Plasmas 2000,6,2616-2621,   \n[]Lidltdd 1995,11,3933-4024,   \n[4]Harte,JA.;yWEleyDS.;etalAX-AiodeforoeligIU-58964964.   \n[5]Bazinoo of radiation transport in targets.Instrum.Methods Phys.Res. Sect.A 1998,1-2,123-126.   \n[6]Baskodsiofcodfoiatitltsas.   \n[7]MacFarlaneJevelopetoftidepedentviefctocdefordingdatiosmetryinICFusU985.   \n8]LiH;o fusion targets.Comput.Phys. Commun． 2015,193,49-54.   \n[9]LiH;HLc driven inertial confinement fusion.Appl.Math. Model. 2018,59,293-304.   \n[10] Eldar,Y.; Kutinyok,G.Compressed sensing: theory and application. Cor.，2011,4,1289-1306.   \n[11]Donoho,D.L.Compressed sensing.IEEE Trans.Inf. Theory 2006,4,1289-1306.   \n[12]Lustigood   \n[13]Daveptb versus dynamic range.IEEE Trans.Signal Process. 2012,9,4628-4642.   \n[14]Sheikh,A;kocOauigeseoaEtl Advances in Multi-sensor Adaptive Processing 20o8,141-144.   \n[15]Sen,P;abdaifedsV9.   \n[16]uag confinement fusion.Comput.Phys. Commun． 2014,2,459-471.   \n[17]LiHHaaeoci driven inertial confinement fusion.Fusion Eng.Des. 2015,1O0,596-607.   \n[18]Blumensath,T;Dvies,EIerativeardthresholdingforcompressedssingAppl.Comput.HaronAnal.8,-74   \n[19]BlumesatiatidoadbifpE 2010,2,298-309.   \n[2]Bcdd Process. 2015,2,528-537.   \n[21]Wei,D;ekovicubpaceursuitfompresesigialostructEEanIfo,9.   \n2]eCetactiaole arXiv preprint math/0409186.   \n[23]Mahajan,Zekealaroloalsaggsstesiaupils.JOptc.Am.AOptgeSVis.9585.   \n[24]MahajanNJgacterstisofkedlaralabas.AplOtics4   \n25]Pengii   \n[26] Hager,W.W.; Zhang,H..A survey of nonlinear conjugate gradient methods.Pac.J. Optim.2006,1,35-58,   \n[27] Sobie,E.A.An introduction to matlab. Sci. Signal. 2011,191,tr7. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

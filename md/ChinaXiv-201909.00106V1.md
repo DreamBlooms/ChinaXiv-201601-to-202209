@@ -1,0 +1,137 @@
+# 干涸湖床不同类型盐土地表净风吹蚀实验研究
+
+韩旭娇1,2.3，张国明1,2.3，雷洁,²， 刘连友1,2.3，戴佳栋1,2.3，杨岩岩1,2.3（1．北京师范大学环境演变与自然灾害教育部重点实验室,北京100875;2．北京师范大学减灾与应急管理研究院,北京100875；3．北京师范大学地理科学学部,北京100875）
+
+摘要：以内蒙古东乌珠穆沁旗及浑善达克沙地区域干涸湖床3种不同形态的盐土原状土为对象,通过风洞模拟实验,研究了干涸湖床不同类型盐土地表的净风吹蚀速率。对比风洞实验测定结果发现,3种盐土净风吹蚀速率依次是;蓬松盐霜盐土 $( 1 4 . 4 4 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 } ) >$ 普通盐土 $( 1 . 0 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 } ) >$ 结皮盐土 $( 0 . 4 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ·$\operatorname* { m i n } ^ { - 1 }$ )。风蚀过程中，不同类型盐土的近地表物质输移主要集中分布在 $0 \sim 1 0 \ \mathrm { c m }$ 的高度范围内，初始运动中，实验盐土风蚀颗粒物质以就地滚动和近距离跃移为主。实验观测发现,随着风速的增大,更多、更大的表面物质会受到更强烈的撞击与磨蚀作用,形成较细小的粉尘物质释放于空中,因此,干旱区盐土地表是形成区域盐碱浮尘或含盐沙尘天气的重要物源。不同类型盐土近地表物质输移总量从大到小依次是：蓬松盐霜盐土 $( 3 . 1 7 \mathrm { \ g } )$ ）、结皮盐土$\left( 0 . 4 2 \ \mathrm { g } \right)$ 、普通盐土 $( 0 . 3 5 \mathrm { \ g } )$ 。
+
+关键词：干涸湖床；盐土类型；吹蚀速率；风洞实验；内蒙古
+
+干旱、半干旱地区的尾闾湖泊或集水洼地在水面萎缩干涸后，会形成大面积以含盐疏松沉积物为主的盐碱斑漠[1]，常受风力侵蚀导致盐碱尘暴频发[2-5]。此类尘暴作为干旱、半干旱区常见的环境灾害，不仅会污染空气，引发疾病，还会产生严重生态效应[6-8}。近年来,干旱区干涸湖床作为区域内沙暴——盐碱尘暴的主要风蚀物源[9-12],已引起关注。在北美，Cahill等通过野外实测和室内模拟试验发现，在美国加利福尼亚州欧文湖干涸湖床的风蚀过程中，地表结皮风蚀所产生的粉尘是大气$\mathrm { P M } _ { 1 0 }$ 的重要来源;Blank 等[13]通过野外实测分析美国内华达州3种不同地表类型的粉尘通量，发现playa 是最易产生盐碱尘暴的地表类型;Gill等[14]针对欧文湖东南部干涸湖床的风蚀粉尘释放机制，开展了室内模拟试验研究，发现干涸湖床的风蚀是矿物气溶胶的一个极其重要的来源;Gillette 等[15-16]通过实测 $\mathrm { P M } _ { 1 0 }$ 粉尘释放量，研究了欧文湖干涸湖床的粉尘释放过程，建立了欧文湖风蚀起尘的数学估算模型;Reynolds等[17]针对莫哈韦沙漠内部不同类型十涸湖底的盐尘释放过程开展研究，发现十盐湖致密的结皮表面在遇到人为活动或大风破坏时，会成为大量粉尘排放物的来源。在中亚，Orlovsky等[2]通过系统分析20世纪60年代以来中亚地区的盐尘暴,初步估计平均每年从干涸的咸海盆地输出盐尘 $0 . 5 \times 1 0 ^ { 6 }$ t到 $2 0 \times 1 0 ^ { 6 } \sim 3 0 \times 1 0 ^ { 6 }$ t ; Argaman等[18]针对咸海7种地表类型进行易蚀性模拟实验，得出萎缩后的干涸湖床每年会风蚀近百万吨盐尘，并发现破坏的地表盐结皮是重要的粉尘源区；Mees等[19)针对南咸海3种形态的表面结皮进行室内分析，发现表面结皮是一种潜在的盐源，其大量含盐灰尘会通过风蚀扩散。近年来我国针对干涸湖泊盐碱尘暴的研究主要集中在艾比湖区域。 $\mathrm { \Delta \ m u }$ 等[20]通过对艾比湖干涸湖底盐尘暴迁移和沉积的地面监测和实地调查，发现富含黏土的湖相沉积物是重要的盐尘释放源，而且总降尘通量和水溶性盐通量都遵循远距离递减规律。吉力力·阿不都外力等[21研究表明，干涸湖底是艾比湖地区盐尘暴的重要发源地，平均每年被大风吹走 $4 . 8 \times 1 0 ^ { 6 } \mathrm { ~ t ~ }$ 含盐沙尘，其中，盐漠地区的土壤风蚀强度高达 $3 \sim 9 \mathrm { ~ c m ~ } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 。刘东伟等[22-23]通过研究艾比湖干涸湖底3种地表形态的化学组成及盐尘扩散，发现湖底风蚀和盐碱尘暴在春秋两季高发期内，干涸湖底硫酸盐盐尘具有很强的迁移能力。刘东伟等[8,11]系统分析了盐尘暴的分布、发生过程及其生态效应。刘艳菊等[24]通过分析北京尘暴源区不同地表土壤样品及大气降尘样品，推测干涸盐渍湖盆区是现阶段北京盐碱尘暴最重要、最关键的尘源区之一。干旱区干涸湖床已成为区域内沙暴一盐碱尘暴的主要风蚀物源，引发的盐碱尘暴危害性极强。
+
+针对干涸湖床抗蚀性及粉尘释放方面的研究已取得相关成果。Zobeck 等[25]通过风洞实验模拟研究了跃移颗粒对不同土壤结皮的磨蚀过程，认为地表结皮严重影响着土壤抗蚀性。Cahill等[9指出,粉尘产生的关键物理机制不是蓬松盐霜的直接风蚀,而是跃移颗粒对地表的磨蚀作用。岳乐平等[7]通过分析干涸湖床不同沉积物的粒度特征，得出阿拉善高原干涸湖床是东亚粉尘天气的重要物源地。吉力力·阿不都外力等[26通过风洞实验模拟艾比湖干涸湖底不同地表类型的风蚀强度和粉尘释放通量,结果表明大于 $1 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 的大风是造成艾比湖干涸湖底风蚀的主要原因，其中，干涸湖底风积物、湖相沙、粉状盐漠、盐碱土是主要的风蚀尘源。当前基于干涸湖床盐碱尘暴已开展较多相关研究，但针对十涸湖床不同地表盐土类型风蚀过程的研究尚不多见。
+
+干涸湖床的地表形态受含水率、暴露时间、矿化度、地形及气候环境等因素的综合影响。对于盐土地表的形态划分迄今尚无统一标准。王遵亲等[27]基于不同地表特征,将盐土划分为覆盐霜盐土、盐结皮盐土、结壳盐土及疏松盐土等类型。Gill 等[14]基于硬度与存在的松散物质差异，将欧文湖东南部干涸湖床划分为 soft（saline）、loose with drifting sand(sand-silt-clay）hard andclean(silt-clay)3类。Mees等[19]基于不同结壳厚度和结壳形态,将南咸海盆地干涸湖床表面结皮划分为Takyriccrust、Solonchakcrust 和 Lake bed crust 3 种类型。Reynolds 等[17]基于水盐运动的差异性，将干涸湖底分为“干性”和“湿性”两大类。
+
+锡林郭勒盟分布有165个面积大于 $1 ~ \mathrm { k m } ^ { 2 }$ 的盐湖,占内蒙古同类盐湖的 $44 \%$ [28],随气候变暖,盐湖逐渐萎缩干涸，形成了大面积干涸盐碱湖盆，在风力的作用下，表层疏松的易蚀盐尘颗粒物质很容易被吹蚀，形成盐碱尘暴，严重影响空气质量和人体健康。基于此，本文在野外调查干涸湖床地表类型的基础上，选择内蒙古干涸湖床3种不同类型盐土地表原状土为研究对象，通过风洞模拟实验，研究风速与吹蚀速率之间的关系，探讨其风蚀发育过程及机理，为干涸湖床的风蚀研究提供科学参考。
+
+# 1研究区概况与样品采集
+
+试验样品采自内蒙古锡林郭勒盟境内$( 1 1 1 ^ { \circ } 5 9 ^ { \prime } \sim 1 2 0 ^ { \circ } 0 1 ^ { \prime } \mathrm { E }$ ， $4 2 ^ { \circ } 3 2 ^ { \prime } \sim 4 6 ^ { \circ } 4 1 ^ { \prime } \mathrm { N } )$ 。区内地形整体呈西南一东北向倾斜，平均海拔大于1000$\mathbf { m }$ 。本区属温带大陆性半干旱气候,寒冷、风沙大、少雨。春季多风、空气干燥、夏季温凉、秋季凉爽、冬季寒冷、持续时间长。区内年平均气温 $1 \sim 3 \mathrm { ~ } \mathrm { { ~ C ~ } }$ ，最冷月平均气温 $- 2 0 \ \mathrm { { ^ { \circ } C } }$ ,最热月平均气温 $2 1 \mathrm { ~ \textdegree C }$ 。年均降水量为 $1 4 0 \sim 4 0 0 ~ \mathrm { \ m m }$ ,年蒸发量高达2000$\mathbf { m } \mathbf { m }$ 。区内全年盛行偏西风，大风日数( $\geqslant 8$ 级）为$6 0 \sim 8 0 \mathrm { ~ d ~ }$ ,平均风速在 $4 \sim 5 . 1 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,最大风速在24\~28m·s-1,局部瞬时风速高达34m·s-1[29] O区内地带性土壤主要为栗钙土、棕钙土,非地带性土壤主要为风沙土、盐土、碱土。东乌珠穆沁旗地势北高南低，为低山丘陵区，区内乌拉盖河下游地区已大面积干涸。南部浑善达克沙地地势起伏较小，固定沙地、半固定沙地、流动沙丘分别占总面积的 $67 \%$ 、20%和13%[30]
+
+试验土样采集点分布见图1，分别采集普通盐土、蓬松盐霜盐土和结皮盐土3种类型的原状土[25,31],样品规格为 $3 0 ~ \mathrm { c m } \times 2 0 ~ \mathrm { c m } \times 1 0 ~ \mathrm { c m }$ 。土样在自然状态下风干后进行风洞试验。普通盐土地表有一定植物残根，无明显结皮特征;蓬松盐霜盐土指盐土表面有明显松散白色盐霜;结皮盐土指地表有$3 \sim 1 0 ~ \mathrm { c m }$ 厚的盐结皮，结皮下部为疏松沉积盐土。样品详细特征见表1。
+
+![](images/9e8a9c6b5489cb477fe5e0acefdf03cef2ba80e9e7d3e5dffd9ba00ff1aaf89f.jpg)  
+图1研究区采样点分布  
+Fig.1Distribution of sampling sites in the study area
+
+表1采样点详细特征  
+Tab.1 Descriptions of the sampling sites   
+
+<html><body><table><tr><td>编号</td><td>样品名称</td><td>经纬度</td><td>高程 /m</td><td>植被</td><td>硬度 /(kg·cm-2)</td><td>含水率 /%</td><td>容重 /(g·cm-3)</td><td>pH值</td><td>含盐量 /(g·kg-1)</td><td>样品描述</td></tr><tr><td>A</td><td>普通盐土</td><td>45°25'45.86"N 117°13'20.44"E</td><td>823</td><td>碱蓬、怪柳 芨芨草</td><td>9.70</td><td>19.65</td><td>1.64</td><td>9.43</td><td>2.83</td><td>结皮厚1cm,表 面有较少植被根系</td></tr><tr><td>B</td><td>蓬松盐 霜盐土</td><td>45°08'32.88"N 116°35'47.88"E</td><td>827</td><td>芨芨草</td><td>6.54</td><td>20.21</td><td>1.43</td><td>9.71</td><td>5.77</td><td>表面为松散 白色盐霜</td></tr><tr><td>C</td><td>结皮盐土</td><td>42°34'08.57"N 115°53'58.52"E</td><td>1286</td><td>无</td><td>3.16</td><td>13.60</td><td>1.50</td><td>10.06</td><td>13.79</td><td>结皮厚3~10cm，结 皮下为疏松沉积盐土</td></tr></table></body></html>
+
+# 2 研究方法
+
+实验在北京师范大学地表过程与资源生态国家重点实验室风沙环境与工程中型风洞内进行。风洞分为动力段、整流段、实验段和扩散段4部分，动力为直流吹气式。洞体全长 $3 4 . 4 \mathrm { ~ m ~ }$ ,截面为 $1 \mathrm { ~ m ~ } \times 1$ $\mathbf { m }$ ,其中实验段长 $1 6 \mathrm { ~ m ~ }$ ,实验风速 $2 \sim 4 5 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 连续可调,边界层厚度 $3 0 \ \mathrm { c m }$ ,紊流强度 $< 0 . 4 \%$ 0
+
+实验选取 $9 \sim 2 4 \ : \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 间隔 $3 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 的6个风速来进行吹蚀实验，吹蚀时间均为 $5 ~ \mathrm { m i n }$ 。样品在实验前用电子天平（精度为 $1 / 1 0 0 \dot s$ )称出其原重 $\textstyle \ W _ { 0 }$ ，经每一设定风速吹蚀后,称其剩余样品重量为 $\textstyle \boldsymbol { W } _ { d }$ ，每个实验风速下的吹蚀量用 $\boldsymbol { \mathsf { W } } _ { e }$ 来表示，即： $\boldsymbol { W } _ { e } =$ $\boldsymbol { W _ { 0 } } - \boldsymbol { W _ { d } }$ 。利用公式： $R = \frac { W _ { e } } { S \times T }$ 来计算吹蚀速率,单位为 $\textrm { g } \cdot \textrm { m } ^ { - 2 } \cdot \textrm { m i n } ^ { - 1 }$ ,即单位时间单位面积上的吹蚀量，其中， $s$ 为样品截面面积， $T$ 为样品的吹蚀时间。在吹蚀下风向距离土样末端 $2 0 ~ \mathrm { c m }$ 处布设高度为 $2 0 ~ \mathrm { c m }$ （高度间隔为 $2 \ \mathrm { c m }$ )的集沙仪，以收集不同高度风蚀物，并用精度为 $1 / 1 \ 0 0 0$ 的电子天平进行称重，获取每种盐土风蚀物近地表输移通量，用于分析不同类型盐土样品吹蚀输移结构。
+
+# 3结果与讨论
+
+# 3.1不同类型盐土地表的临界启动风速
+
+不同地表盐土临界启动风速相差较大，依次为普通盐土( $1 2 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ） $>$ 蓬松盐霜盐土 $( 9 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ）>结皮盐土 $( 8 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ )。不同盐土地表抗风蚀能力存在一定差异。自然状态下，普通盐土地表的抗风蚀能力较强，表层硬壳会增大地表粗糙度，降低地面摩擦速度，抑制风力对地表的吹蚀，同时表层土壤颗粒的黏结性使表层颗粒不易因风蚀而脱离地表，临界启动风速大。疏松地表抗风蚀能力较弱，蓬松盐霜盐土表面有明显的白色盐霜，表层疏松颗粒物质易被风力吹蚀，其临界启动风速较小。结皮过程会使表面颗粒物质形成表聚，增强颗粒间黏合力，形成结构紧密的硬壳，使其表面颗粒不易被风力释放[26],表层硬壳在没有外力破坏的情况下，抗风蚀能力很强，很难被一般风力吹蚀，故其临界启动风速大，对风蚀起尘的贡献很小。土壤表层沉积物结皮是提高干旱、半干旱地区表面抗风蚀能力的主要特征[32]。但表层结皮一旦遭到破坏,便很容易形成风蚀破口，成为新的风蚀尘源。本文盐土表层结皮厚$3 \sim 1 0 ~ \mathrm { c m }$ ,表层有些许裂缝，结构较为疏松，易蚀性颗粒含量较多，易被风蚀，故临界启动风速最小。
+
+# 3.2风速对不同类型盐土地表吹蚀速率的影响
+
+实验分析表明，内蒙古干涸湖床不同类型盐土地表的净风吹蚀速率相差较大，随着风速增长的幅度有所不同，风速越大，差异越明显（图2）。当风速为 $9 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 时,蓬松盐霜盐土和结皮盐土表层出现临界启动。当风速增大到 $1 2 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 时,普通盐土开始出现轻微风蚀现象。在弱风条件下，3种类型盐土的风蚀速率均较小。这说明干涸湖床不同地表盐土类型在弱风作用下，并不容易被大量风蚀。当风速从 $1 5 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 增加到 $1 8 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 时,蓬松盐霜盐土和结皮盐土的风蚀速率都有不同程度的增加，分别为 $3 . 3 3 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 }$ 和 $2 . 5 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 }$ 。当风速增大到 $2 1 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 时，除结皮盐土的风蚀速率稍有下降外,蓬松盐霜盐土和普通盐土的风蚀速率都有较大幅度的增加。蓬松盐霜盐土增幅尤其明显，从 $3 . 3 3 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 }$ 增大到 $2 1 . 4 7 \ : \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ：
+
+![](images/5a776d4e8e1835210b34eb73421e8dd3afe0ac8250b49581e908c731ad17dcaf.jpg)  
+2不同类型盐土地表净风吹蚀速率与风速的关系 Fig.2Relationship between wind erosion rates on different solonchaks and wind velocity
+
+$\operatorname* { m i n } ^ { - 1 }$ 。当风速从 $2 1 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 增大到 $2 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 时，蓬松盐霜盐土的吹蚀速率呈连续增长态势，达到$5 9 . 1 7 \ \mathrm { g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { m i n } ^ { - 1 }$ ,而普通盐土和结皮盐土的吹蚀速率保持平稳。以上实验结果表明，大于 $1 5 \mathrm { ~ m ~ }$ ·$\mathrm { ~ s ~ } ^ { - 1 }$ 的大风是造成干涸湖床地表土壤风蚀的主要影响因素,这与吉力力·阿不都外力等[26]对艾比湖粉尘排放研究结论较为一致。
+
+据风洞实验结果，内蒙古干涸湖床不同类型地表盐土净风吹蚀速率为：蓬松盐霜盐土( $_ { \textrm { \tiny 1 4 . 4 4 \textrm { g } } } .$ （204号$\mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 }$ ） $>$ 普通盐土 $( 1 . 0 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 } ) >$ 结皮盐土 $( 0 . 4 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 } \cdot$ )。因此,大风条件下,干涸湖床地表是重要的粉尘释放源之一。
+
+风洞实验研究曾发现，咸海盆地干涸湖底及其邻近地区不同地表类型沉积物的风蚀与含盐量密切相关,沉积物含盐量越高,风蚀量越小[18],本实验结果也显现出相似现象。实验中结皮盐土含盐量最高,为 $1 3 . 7 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ ,土壤中的各种物质因盐的黏合作用，使表面结构更加致密坚硬，增强其抗风蚀能力，因此吹蚀速率最小。普通盐土表层有约 $1 \ \mathrm { c m }$ 厚的结皮，表面还有残余植被根系保护，所以其抗风蚀能力较强。对于普通盐土和结皮盐土而言，当表层疏松物质被吹蚀后，表面会迅速稳定下来，达到一种新的风蚀稳定结构平衡状态，当风速增大到超过新平衡结构的临界启动阈值，风蚀会再次发生，风蚀量骤增。实验结果发现,普通盐土和结皮盐土的抗风蚀能力很强,即使遭遇 $2 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 的大风,风蚀量也很小。而蓬松盐霜盐土表面的盐霜结构疏松，在风力作用下很容易被风蚀，小风速下就会有较高的风蚀速率。蓬松盐霜盐土表层结构疏松，易蚀物质较多，风蚀量较大,吹蚀速率相对较大。因此，蓬松盐霜盐土区域可能是内蒙古干涸湖床重要的粉尘释放
+
+源区。
+
+# 3.3 不同类型盐土近地表 ${ \bf 0 } \sim 2 { \bf 0 } ~ { \bf c m }$ 高度的物质输移
+
+相同风蚀环境条件下，不同类型盐土近地表$0 \sim 2 0 ~ \mathrm { c m }$ 高度的物质输移结构存在较大差异（图3和图4)。由于土壤性质的差异，不同类型盐土近地表 $0 \sim 2 0 ~ \mathrm { c m }$ 高度的物质输移通量相差较大，但3种盐土近地表的物质输移主要集中在 $0 \sim 1 0 \ \mathrm { c m }$ 的高度范围内，只有很少的一部分沙尘扩散到 $1 0 \ \mathrm { c m }$ 以上的高度。其中， $0 \sim 2 \ \mathrm { c m }$ 是蓬松盐霜盐土最大的近地表物质输移层，约占输移总量的 $3 8 . 0 \%$ ，普通盐土的最大输移层在 $6 \sim 8 ~ \mathrm { c m }$ ,输移量占比为 $3 8 \%$ ，而结皮盐土的主输移层是 $2 \sim 4 ~ \mathrm { c m }$ 和 $4 \sim 6 ~ \mathrm { c m }$ ,单层输移量分别占输移总量的 $2 3 . 7 \%$ 和 $2 2 . 4 \%$ 。蓬松盐霜盐土和结皮盐土因表层松散沉积物，使得较多的可蚀颗粒随风扩散到 $1 0 \ \mathrm { c m }$ 以上的高度，分别占近地表物质输移总量的 $5 . 0 9 \%$ 和 $1 5 . 1 6 \%$ ，而普通盐土只有 $1 . 1 5 \%$ ,小于结皮盐土在 $1 8 \sim 2 0 ~ \mathrm { c m }$ 输移量的 $2 . 5 3 \%$ 。结皮盐土最容易被风力运送到高空扩散。风蚀颗粒物质在初始运动中，主要贴近地表附近运动，以就地滚动和近距离跃移为主，但随着颗粒的不断下落冲击、碰撞和磨蚀过程，土壤大颗粒被吹蚀破碎形成较细小的粉尘物质，随风卷入高空形成浮尘或沙尘天气[33]。随风力的增大,更多、更大的尘粒会因受到更强烈的风蚀作用而释放于空中[34],形成(盐)尘暴。
+
+相同风蚀实验条件下，不同盐土近地表 $0 \sim 2 0$ cm高度的物质输移结构差异较大，近地表输移总量依次是：蓬松盐霜盐土 $\left( 3 . 1 7 \ \mathrm { g } \right) >$ 结皮盐土(0.42$\mathbf { g } ) >$ 普通盐土 $( 0 . 3 5 \ \mathrm { g } )$ （图4）。不同类型盐土的近地表输移量随风速变化呈现出较一致的变化趋势（图4)，随风速增加而增加，其中蓬松盐霜盐土在风速 $2 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 时达到最大。普通盐土和结皮盐土的输移量随风速变化呈现波动变化，说明影响地表风蚀输移的因素除风速外，地表物质的抗风蚀能力也是重要的因素之一。普通盐土表层因有植物及根系的保护，有效增大了其表面抗蚀性，随风速的变化呈现出先增后降，而后再增长的变化趋势。结皮盐土也呈现出先降低后增长的变化趋势，说明表层物质很容易被大风吹蚀，当表层的松散物被吹蚀后，底层的结构会形成新风蚀平衡状态，当风力增大到足以打破这种新的平衡时，就会出现新一轮的风蚀过程。蓬松盐霜盐土的近地表物质输移量显著高于普通盐土和结皮盐土，可能与表层土壤结构及植物残根保护有一定的关系。
+
+![](images/3e4b3f2d13e5a37d917af5252ef454b956d4273719e0aadb58fd374d6ee7f574.jpg)
+
+![](images/3d198557a483aaa982c777ea2506dcff5932447766cb9eb7c0caf6e0aaba91aa.jpg)  
+图3不同类型盐土近地表 $0 \sim 2 0 ~ \mathrm { c m }$ 高度的输移通量 Fig.3Transport fluxes over different solonchaks at $0 - 2 0 ~ \mathrm { c m }$ height   
+图4不同类型盐土近地表的物质输移量  
+Fig.4Transport fluxes near ground on different solonchaks
+
+# 4结论与展望
+
+（1）干涸湖床不同类型盐土地表的临界启动风速差异较大，从高到低依次是普通盐土（ $1 2 \mathrm { ~ m ~ }$ ·$\mathrm { ~ s ~ } ^ { - 1 }$ )蓬松盐霜盐土( $\mathrm { ~ 9 ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ）、结皮盐土( $\mathrm { ~ 8 ~ m ~ } \cdot$ $\mathrm { ~ \bf ~ s ~ } ^ { - 1 }$ )。普通盐土的抗风蚀能力最强。
+
+(2）在相同的净风风力环境中，不同类型盐土地表的净风吹蚀速率相差较大，从大到小依次是：蓬松盐霜盐土 $( 1 4 . 4 4 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 }$ )、普通盐土（ $1 . 0 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 }$ ）、结皮盐土 $( 0 . 4 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ·$\operatorname* { m i n } ^ { - 1 }$ )。3种盐土的净风吹蚀速率随风速增加差异明显。大于 $1 5 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 的大风是造成干涸湖床地表风蚀的主要原因。蓬松盐霜盐土可能是内蒙古干涸湖床重要的粉尘释放源。
+
+（3）相同风蚀环境条件下，不同类型盐土的近地表物质输移主要集中分布在 $0 \sim 1 0 \ \mathrm { c m }$ 的高度范围内，只有很少一部分沙尘逃逸到 $1 0 \ \mathrm { c m }$ 以上的高度。初始运动中，风蚀颗粒物质贴近地表附近运动，以地表蠕动和近距离跃移为主。不同类型盐土近地表物质输移总量从大到小依次是：蓬松盐霜盐土$( 3 . 1 7 \ \mathrm { g } )$ 、结皮盐土 $( 0 . 4 2 \ { \mathrm { g } } )$ 、普通盐土 $( 0 . 3 5 \mathrm { \bf \ s } )$ 0
+
+风蚀速率和粉尘排放受气象条件、质地结构、矿化度、地形起伏、植被状况等因素的综合影响。判定不同类型盐土地表的吹蚀速率和粉尘排放，还需进一步综合考虑多种因素的相互影响。基于不同的风蚀环境，干涸湖床不同类型盐土地表的风蚀速率会表现出一定差异。风蚀过程中，粉尘排放量是重要的风蚀指标，今后应进一步开展风蚀过程中粉尘排放的量化研究，以期建立风蚀速率与地表粉尘排放之间的定量关系。
+
+# 参考文献(References）：
+
+[1] PeterR Briere.Playa,playa lake,sabkha:Proposed definitions for oldterms[J].Journal of AridEnvironments,200O,45(1）:1-7.   
+[2] Orlovsky N,OrlvskyL,Yang YL,et al.Salt dust storms of Central Asia since $1 9 6 0 \mathrm { s } [ \mathrm { J } ]$ .Journal of Desert Research,2003,23(1) :18 $^ { - 2 7 }$ ，   
+[3] 韩同林.京津地区沙尘暴与盐碱尘暴浅析[J].科学,2008,60 (1）:46-49.[Han Tonglin.Analysis of sandstorm and saline dust storm in Beijing and Tianjin Area[J].Science,20O8,6O(1） :46- 49.]   
+[4] 吉力力·阿不都外力.干旱区湖泊与盐尘暴[M].北京：中国 环境科学出版社,2012.[Jilili Abuduwaili.Lakes of Arid Land and Salt-Dust Storms[M]. Beijing: China Environmental Science Press,2012.]   
+[5］宋怀龙.全球气候变化中被忽略的重大问题—盐碱(混合) 尘暴[J].海洋地质与第四纪地质,2013,33（1）:45-55.[Song Huailong.Saline-ackaline mixed dust storms:An ignored issue for global climate change[J]. Marine Geology & Quaternary Geology， 2013,33(1) :45 -55.]   
+[6]Jensen S,Mazhitova Z,Zetterstrom R. Environmental pollution and child health in the Aral Sea region in Kazakhstan[J].Science of the Total Environment,1997,206(2-3):187-193.   
+〔7］岳乐平,杨利荣,李智佩,等.阿拉善高原干涸湖床沉积物与华 北地区沙尘暴[J].第四纪研究,2004,24（3）：311-317.［Yue Leping,Yang Liyong,Li Zhipei,et al. Lacustrine deposit in the Alxa Plateau and the sand-dust storm in Northern China[J]. Quaternary Sciences,2004,24(3）:311-317.]   
+[8］刘东伟,吉力力·阿不都外力,雷加强,等.盐尘暴及其生态效 应[J].中国沙漠,2011,31（1）:168-173.[Liu Dongwei,Jilili Abuduwaili,Lei Jiaqiang,etal.Saline dust storms and its ecological effects[J]. Jourmal of Desert Research,2011,31（1）:168 - 173.]   
+[9]Cahill TA,Gill TE,Reid JS,et al.Saltating particles,laya crusts and dust aerosols from Owens（Dry）Lake,California[J]. Earth Surface Processes and Landforms,1996,21(7):621 -639.   
+[10］李小雁,李福兴,刘连友.土壤风蚀中有关土壤性质因子的研 究历史与动向[J].中国沙漠,1998,18（1）：91-95.[Li Xiaoyan,Li Fuxing,Liu Lianyou.Research historyand trend on soil property factors concerning wind erosion[J]. Journal of Desert Research,1998,18(1) :91-95.]   
+[11]Abuduwaili J,Liu DW,Wu G Y.Saline dust storms and their ecological impacts in arid regions[J]. Journal of Arid Land,2010,2 (2) :144 -150.   
+[12］葛拥晓,吉力力·阿不都外力,马龙,等.新疆艾比湖干涸湖底 沉积物粒径分布及其对风蚀的响应[J].干旱区研究,2014,31 (4）:636 -642.[Ge Yongxiao,Jilili Abuduwaili,Ma Long,et al. Response of granularity distribution to wind erosion in the playa of the Ebinur Lake,Xinjiang,Northwest China[J].Arid Zone Research,2014,31(4) :636-642.]   
+[13]Blank R R,Young JA,Allen F L.Aeolian dust in a saline playa environment,Nevada,U. S.A[J]. Journal of Arid Environments, 1999,41(4) :365 - 381.   
+[14]Gill TE,Gillette DA,Niemeyer T,et al. Elemental geochemistry of wind-erodible playa sediments,Owens Lake,California[J].Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materialsand Atoms,2002,189(1):209 -213.   
+[15]Gilette D A,Fryrear DW,Gill TE,etal.Relation of vertical flux of particles smaller than 1O μm to total aeolian horizontal mass flux at Owens Lake[J]. Journal of Geophysical Research ;Atmospheres (1984-2012）,1997,102(D22）:26 009 -26 015.   
+[16]Gilette D,Ono D,Richmond K.A combined modeling and measurement technique for estimating windblown dust emissions at Owens（dry）Lake,California[J]. Journal of Geophysical Research: Earth Surface（2003-2012）,2004,109（F01003）:1-23.   
+[17]Reynolds RL,Yount JC,Reheis M,et al. Dust emission from wet
+
+and dry playas in the Mojave Desert,USA[J].Earth Surface Processes&Landforms,2007,32(12):1811-1827.
+
+[18]Argaman E,Singer A,Tsoar H.Erodibility of some crust forming soils/sediments from the Southern Aral Sea Basin as determined in a wind tunnel[J]. Earth Surface Processes and Landforms,2006, 31(1) :47 -63.   
+[19]Mees F,Singer A. Surface crusts on soils/sediments of the southern Aral Sea basin,Uzbekistan[J]. Geoderma,2006,136(1）:152- 159.   
+[20]Mu G,Yan S,Jilil Abuduwaili,et al. Wind erosion at thedry-up bottom of Aiby Lake[J].Science in China,2002,45（1）:157 - 164.   
+[21］吉力力·阿不都外力,徐俊荣,穆桂金,等.艾比湖盐尘对周边 地区土壤盐分及景观变化的影响[J].冰川冻土,2007,29(6)： 928-939.[Jilili Abuduwaili,Xu Junrong,Mu Guijin,etal.Effect of soil dust from Ebinur Lake on soil salts and landscape of surroundingregions[J].Journalof Glaciologyand Geocryology,2007, 29(6) :928 -939.]   
+[22]刘东伟,吉力力·阿不都外力,穆桂金,等.艾比湖干涸湖底化 学组成及盐尘的风运堆积[J].中国环境科学,2009,29（2）： 157-162.[Liu Dongwei,Jilili Abuduwaili,Mu Guijin,etal. Chemical components and transport mechanics of wind-erodible playa sediments,Ebinur Lake,Xinjiang[J]. China Environmental Science,2009,29(2):157-162.]   
+[23]刘东伟,伊塔娜,王立新,等.干旱区盐碱尘暴的形成、输送及 其环境效应[J].气象与环境学报,2015,31（3）：104－108. [Liu Dongwei,Yi Tana,Wang Lixin,etal.Formation,transport and environmental effect of saline dust storm in arid area[J]. Journal of Meteorology and Environment,2015,31(3）:104-108.]   
+[24]刘艳菊,韩同林,庞健峰,等.北京地区盐碱尘暴粉尘物质的主 要来源[J].地质通报,2010,29（5）：713-722.[Liu Yanju, Han Tonglin,Pang Jianfeng,et al.Origin ofthesalt dust storm, Beijing,China[J].Geological Bulletin of China,2010,29(5） :713 - 722. ]   
+[25]Zobeck T M.Abrasion of crusted soils: Influence of abrader flux and soil properties[J].Soil Science Society of America Journal, 1991,55(4) :1 091-1 097.   
+[26］吉力力·阿不都外力,刘东伟,徐俊荣.艾比湖干涸湖底不同 地表类型风蚀强度及粉尘输移通量的风洞试验研究[J].中国 沙漠,2009,29（1）:63-67.[Jilili Abuduwaili,Liu Dongwei,Xu Junrong.Wind tunnel study of wind erosion and dust flux on diferent surfaces in dry Ebinur Lake,Xinjiang,China[J]. Journal of Desert Research,2009,29（1） :63 -67.]   
+[27]王遵亲,祝寿泉,俞仁培,等.中国盐渍土[M].北京:科学出版 社,1993.[Wang Zunqin,Zhu Shouquan,Yu Renpei,et al. Chinese Saline Soil[M]. Beijing:Science Press,1993.]   
+[28]郑喜玉,张明刚,徐昶,等.中国盐湖志[M].北京:科学出版 社,2002.[Zheng Xiyu,Zhang Minggang,Xu Chang,et al. Chinese Salt Lake[M]. Beijing:Science Press,2002.]   
+[29］春梅.基于GIS 和RS 的锡林郭勒盟风沙灾害综合评价研究 [D].呼和浩特：内蒙古师范大学,2013.［Chun Mei.Integrated Assessment on Dust Storm Disaster in the Xilingol Based on GIS and RS[D].Hohhot:Inner Mongolia Normal University,2013.]   
+[30］李占宏.内蒙古沙化土地表土粒度特征及其可蚀性颗粒研究
+
+[D].呼和浩特：内蒙古师范大学,2007.［Li Zhanhong.The Research on Granularity Characteristics of the Surface Soil and Erodibility Particle in the Desertification Land in Inner Mongolia[D]. Hohhot:Inner Mongolia Normal University,2O07.]
+
+[31]甘肃安西极旱荒漠国家级自然保护区管理局.甘肃安西极旱 荒漠国家级自然保护区三期综合科考报告[M].兰州：甘肃人 民出版社,2O14.[Gansu Anxi Extremely Drought Desert National Nature Reserve Administrative Bureau.Gansu Anxi Extremely Drought Desert National Nature Reserve Phase III Comprehensive Scientific Report[M].Lanzhou：Gansu People'sPublishing House,2014.]
+
+[32]Rice M A,Mcewan IK.Crust strength:A wind tunnel study of the
+
+effect of impact by saltating particles on cohesive soil surfaces[J].   
+Earth Surface Processes &Landforms,2010,26(7):721-733.
+
+[33]王鹏祥，孙兰东，岳平，等.盐池地区沙尘暴期间风沙运动若干 特征研究[J].中国沙漠,2007,27(6）:1077-1079.[Wang Pengxiang,Sun Landong,Yue Ping,et al.Features of dust aerosol transportation during sandstorms over Yanchi area of Ninxia autonomous region[J].Journal of Desert Research,2OO7,27(6）:1077 -1 079.]
+
+[34]李万源，沈志宝，吕世华，等.风蚀影响因子的敏感性试验[J]. 中国沙漠,2007,27(6）:984-993.[Li Wanyuan,Chen Zhibao, Lv Shihua,et al. Sensitivity tests of factors influencing wind erosion [J].Journal ofDesertResearch,2007,27(6）:984-993.]
+
+# Wind Erosion on Different Solonchaks in Dried Lake Bed
+
+HAN Xu-jiao $^ { 1 , 2 , 3 }$ ，ZHANG Guo-ming1,23，LEIJie1²2，LIULian-you $^ { 1 , 2 , 3 }$ ， DAIJia-dong23，YANGYan-yan3 (1.KeyLaboratoryofEnvironmentalChangeand NaturalDisaster,MOE,Beijing NormalUniversity,Beijing10o875,China; 2.Academyof Disaster Reduction and Emergency Management,Beijing Normal University,Beijing 10875,China; 3.Faculty of Geographical Science,Beijing Normal University,Beijing 10o875,China)
+
+Abstract:In this study,the soil samples of the typical solonchaks including meadow solonchak,pufy solonchak and crustal solonchak aswellas the topsoil and undisturbed soil werecollected from the driedlakebeds in northeast Inner Mongolia.Through wind tunnel experiments,the wind erosion rates of diferent solonchak samples were revealed.The compared results of wind tunnel experiments revealed thatthe pure airflow rates were in anorderof meadow solonchak ( $1 2 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ） $>$ puffy solonchak $\begin{array} { r l } { ( 9 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } ) } & { { } > } \end{array}$ crustal solonchak ( $8 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ). The wind erosion rates were in an order of puffy solonchak $1 4 . 4 4 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 } )$ $>$ meadow solonchak ( $1 . 0 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ： $\operatorname* { m i n } ^ { - 1 } { } ) \ >$ crustal solonchak ( $0 . 4 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ m i n ~ } ^ { - 1 }$ ). With the increase of wind velocity,the diffrence of wind erosion rates of different solonchaks became more significant.The wind velocity higher than $1 5 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ was the main driving force for wind erosion in the dried lakebeds.During the processof wind erosion,the sediments were mainly distributed within the height O-1Ocmfrom theground.Inthe initial movement,the movement oferoded materials from saline soil was dominated by roling and close-range saltation.Results showed that the sediment flux was increased with the increase of wind velocity.With the increase of wind speed,more and more dust particles subjected toastronger impact and formed finer dust particles torelease into theair.Therefore,thesalt land surface inarid area was an important source of material to form a regional saline dust or salt dust weather.The transport flux of soil samples was ranked in an order of puffy solonchak $\left( 3 . 1 7 \ \mathrm { g } \right) \ >$ crustal solonchak $\left( 0 . 4 2 \ \mathrm { g } \right)$ ） $>$ meadow solonchak $( 0 . 3 5 \ \mathrm { g } )$ ：
+
+Key words:dried lake bed； solonchak；wind erosion rate；wind tunnel experiment； Inner Mongolia

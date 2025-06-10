@@ -1,0 +1,560 @@
+[
+    {
+        "type": "text",
+        "text": "不同生物质炭输入水平下旱作农田温室气体排放研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋敏1,2,3齐鹏1,2,3\\*\\* 蔡立群1,2,3 Stephen Yeboah1,2.3,4张军1,2,3 张仁陟1,2.3武均1,2,3 谢军红2,3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．甘肃农业大学资源与环境学院兰州730070;2．甘肃省干旱生境作物学重点实验室 兰州 730070;3．甘肃省节水农业工程技术研究中心 兰州730070; 4.CSIR-Crops Research Institute,P.O.BOX3780-Kumasi,Ghana)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要在陇中黄土高原干旱半干旱区，采用小区定位试验，对不同生物质炭输入水平下春小麦农田土壤温室气体 $\\mathrm { C O } _ { 2 }$ 、 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 和 $\\mathrm { C H } _ { 4 } ^ { \\cdot }$ )的排放通量进行全生育期连续观测，并分析其影响因子。结果表明：6个生物质炭输入水平处理下 $\\left[ 0 \\mathrm { ~ t } \\cdot \\mathrm { h m } ^ { - 2 } \\right.$ (CK)、 $1 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $2 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $3 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $4 0 \\ \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 }$ 、 $5 0 ~ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ ，旱作农田土壤在春小麦全生育期内均表现为 $\\mathrm { C H } _ { 4 }$ 弱源、 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 源和 $\\mathrm { C O } _ { 2 }$ 源。全生育期各处理 $\\mathrm { C H } _ { 4 }$ 平均排放通量依次为： $0 . 0 0 5 7 \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ 、$0 . 0 0 4 7 \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ 、 $0 . 0 0 3 6 \\mathrm { m g } \\mathrm { \\cdot m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 }$ 、 $0 . 0 0 3 3 \\mathrm { m g } \\mathrm { \\cdot m } ^ { - 2 } \\mathrm { \\cdot h } ^ { - 1 }$ 、 $0 . 0 0 2 7 \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ 和 $0 . 0 0 0 4 \\mathrm { m g } \\mathrm { \\cdot m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 }$ $\\mathbf { N } _ { 2 } \\mathbf { O }$ 平均排放通量依次为： $0 . 2 3 0 5 \\mathrm { m g } \\mathrm { \\cdot m } ^ { - 2 } \\mathrm { \\cdot h } ^ { - 1 }$ 、 $0 . 1 4 4 \\mathrm { ~ l ~ m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ 、 $0 . 1 3 5 3 \\mathrm { m g } \\mathrm { \\cdot m } ^ { - 2 } \\mathrm { \\cdot h } ^ { - 1 }$ 、 $0 . 0 9 8 9 \\mathrm { m g } \\mathrm { \\cdot m } ^ { - 2 } \\mathrm { \\cdot h } ^ { - 1 }$ 、 $0 . 1 2 5 \\ : 0 \\ : \\mathrm { m g } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 }$ 和 $0 . 1 5 1 3 \\mathrm { m g } \\mathrm { \\cdot m } ^ { - 2 } \\mathrm { \\cdot h } ^ { - 1 }$ $\\mathrm { C O } _ { 2 }$ 平均排放通量依次为: $0 . 4 4 9 2 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 、 $0 . 4 4 7 \\ 0 \\ \\mathrm { \\textmu m o l { \\cdot } m ^ { - 2 } { \\cdot } s ^ { - 1 } }$ 、 $0 . 4 3 0 \\ 3 ~ { \\mu \\mathrm { m o l \\cdot m } } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，$0 . 3 9 1 \\ 4 \\ \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 、 $0 . 4 0 8 \\ 0 \\ \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 和 $0 . 4 1 6 4 \\ \\mathrm { \\textmu m o l { \\cdot } m ^ { - 2 } { \\cdot } s ^ { - 1 } }$ 。土壤 $\\mathrm { C H } _ { 4 }$ 排放通量随生物质炭输入量的增加而减小；当生物质炭输入量小于 $3 0 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 时，土壤 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 、 $\\mathrm { C O } _ { 2 }$ 排放通量随其输入量增加而显著减小，但当其输入量超过 $3 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 时， $\\mathbf { N } _ { 2 } \\mathbf { O }$ 、 $\\mathrm { C O } _ { 2 }$ 排放通量则呈显著增大趋势。各处理在 $5 { \\mathord { \\sim } } 1 5 ~ { \\mathrm { c m } }$ 土层平均土壤温度差异显著 $( P { < } 0 . 0 5 )$ ，在 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层平均土壤含水量差异显著 $( P { < } 0 . 0 5 )$ ，土壤温度及含水量受生物质炭影响明显；且CK 处理不同土层的土壤温度及含水量波动最大，生物质炭输入可在一定程度上降低不同土层土壤的水热变化幅度； $\\mathbf { N } _ { 2 } \\mathbf { O }$ 、 $\\mathrm { C O } _ { 2 }$ 排放通量与 $1 0 { \\sim } 1 5 ~ \\mathrm { c m }$ 土层土壤温度呈显著性负相关，与 $2 0 { \\sim } 2 5 ~ \\mathrm { c m }$ 土壤温度呈显著性正相关； $\\mathrm { C H } _ { 4 }$ 平均排放通量与 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层土壤温度呈显著性负相关，与其含水量呈显著性正相关; $\\mathbf { N } _ { 2 } \\mathbf { O }$ 平均排放通量与 $1 5 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层土壤温度呈显著性正相关; $\\mathrm { C H } _ { 4 }$ 、 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 、 $\\mathrm { C O } _ { 2 }$ 平均排放通量与 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层土壤水分呈显著性负相关。生物质炭的输入能够减小温室气体的排放，且会因其输入量的不同而异，因此适量应用生物质炭有利于旱作农田生育期内增汇减排。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词旱作农田生物质炭排放通量 $\\mathrm { C H } _ { 4 }$ $\\mathbf { N } _ { 2 } \\mathbf { O }$ $\\mathrm { C O } _ { 2 }$ 土壤温度土壤湿度中图分类号：X171.3 文献标识码：A 文章编号：1671-3990(2016)09-1185-11",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of different biochar application levels on greenhouse gas emissions in the Loess Plateau semi-arid environment in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SONG Min1,23,，Q Pengt,2\\* \\*,CAI Liqun1,23,，Stephen Yeboah1,2,34,ZHANG Jun 1,2,3 ZHANG Renzhi1,23,WUJun1.2.3,XIEJunhong 2.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.ColegeofesourcesandEnvironmentalSciences,GnsuAgriculturalUniversityLanzhou7oo,China;2.GansuProicial KeyLab for AridLandCrop Science,Lanzhou 73o07o,China;3.Gansu ProvinceResearch Centerfor Water-saving Agriculture Engineering Technology,Lanzhou 730070,China; 4.CSIR-Crops Research Institute,P.O.BOX 3780,Kumasi, Ghana) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractBiocharisacarbon-rich solid productresulting from biomassheated in theabsenceofoxygen.Biocharaplication is deemed to havethe potential for greenhousegasmitigation.Dryland farmingareas in Northwest Chinacontribute tremendouslyto greehouse gas emision.However,litlestudies have been conducted intheregioninvolvingtheapplication of biochar to improve carbon sink andreduce carbon emision,and the optimal biochar application has remained uncertain. The aim of this study was to determine the effects of biochar on methane $\\mathrm { ( C H _ { 4 } ) }$ ,nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ and carbon dioxide $\\left( \\mathbf { C O } _ { 2 } \\right)$ （20 emissions in the semi-aridregions.Observationwasdoneforthe wholegrowth periodof springwheat andthetreatments consisted of six different biochar rates — CK $( 0 ~ \\mathrm { t \\cdot h m } ^ { - 2 } )$ ,T1 $( 1 0 ~ \\mathrm { t \\cdot h m } ^ { - 2 } )$ ，T2 $( 2 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ ，T3 $( 3 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ ,T4 $( 4 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ and T5 $( 5 0 ~ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ based on Randomized Complete Block design with three replications.The carbon dioxide analyzer and static chamber-gas chromatographic techniques were used to continuously measure and analyze the grenhouse gases fluxes. Soil moisture and temperature were measured simultaneously with gas measurement.The results showed that dry spring field during whole growth period under different biochar treatments were the sources for $\\mathrm { C H } _ { 4 }$ 5 $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C O } _ { 2 }$ .The trend of different biochar application rates in the average emission flux of $\\mathrm { C H } _ { 4 }$ was CK $( 0 . 0 0 5 \\ 7 \\ \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } ) > \\mathrm { T } 1$ （204号 $( 0 . 0 0 4 7 \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } ) > \\mathrm { T } 2$ （204号 （204号 $( 0 . 0 0 3 \\ 6 \\ \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } ) > \\mathrm { T } 3$ $0 . 0 0 3 ~ 3 ~ \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } ) > \\mathrm { T } 4 ~ ( 0 . 0 0 2 ~ 7 ~ \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } ) > \\mathrm { T } 5 ~ ( 0 . 0 0 0 2 ~ \\mathrm { m g } \\cdot \\mathrm { h } ^ { - 1 } )$ $( 0 . 0 0 2 \\textnormal { 7 } \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } ) > \\mathrm { T } 5 ( 0 . 0 0 0 4 \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } )$ . Similar trend of average emission flux of ${ \\bf N } _ { 2 } \\mathrm { O }$ were CI $\\mathrm { { \\mathcal { C } \\left( 0 . 2 3 0 ~ 5 ~ m g ~ m ^ { - 2 } \\cdot h ^ { - 1 } \\right) > T 5 ~ ( 0 . 1 5 1 ~ 3 ~ m g \\cdot m ^ { - 2 } \\cdot h ^ { - 1 } ) > T 1 ~ ( 0 . 1 4 4 ~ 1 ~ m g \\cdot m ^ { - 2 } \\cdot h ^ { - 1 } ) > T 2 ~ ( 0 . 1 3 5 ~ 3 ~ m g \\cdot m ^ { - 2 } \\cdot h ^ { - 1 } ) > T ~ } } $ $( 0 . 1 3 5 3 \\mathrm { m g } \\mathrm { \\cdot m } ^ { - 2 } \\mathrm { \\cdot h } ^ { - 1 } ) >$ T4 $( 0 . 1 2 5 \\ 0 \\ \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } ) > \\mathrm { T } 3$ （20 $( 0 . 0 9 8 \\ 9 \\ \\mathrm { m g } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 } )$ . The average emission fluxes of $\\mathrm { C O } _ { 2 }$ were $0 . 4 4 9 \\ 2 \\ \\mu \\mathrm { m o l } \\cdot \\ \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ (CK), $0 . 4 4 7 \\ 0 \\ \\mu \\mathrm { m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 } \\left( \\mathrm { T } 1 \\right) , \\ 0 . 4 3 0 \\ 3 \\ \\mu \\mathrm { m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 } \\left( \\mathrm { T } 2 \\right) , \\ 0 . 3 9 1 \\ 4 \\ \\mu \\mathrm { m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 } \\left( \\mathrm { T } 3 \\right) , \\ 0 . 3 7 \\ \\mu \\mathrm { m o l } \\cdot \\mathrm { s } ^ { - 1 } = 0 . 3 7 \\ \\mu$ $0 . 4 0 8 \\ 0 \\ \\mathrm { \\textmu m o l { \\cdot } \\ m ^ { - 2 } { \\cdot } s ^ { - 1 } }$ (T4) and $0 . 4 1 6 4 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ (T5),respectively. The mean emission flux of $\\mathrm { C H } _ { 4 }$ reduced with increasing biochar application level. The results also showed that the mean emissions fluxes of $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C O } _ { 2 }$ significantly increased when biochar input exceeded $3 0 \\ \\mathrm { \\ t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ . Soil temperature and moisture were affected by biochar application. Both soil temperatures at $5 { - } 1 5 ~ \\mathrm { c m }$ depth and soil moistures at $5 { \\mathrm { - } } 1 0 ~ { \\mathrm { c m } }$ soil depth in biochar input exceeded $3 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ treatments were significantly different from that of those in the other treatments.Therangesof soil temperatureandsoil moisture for diferent soil layersunder the CK treatment were highest among alltreatments.Theapplicationof biocharreduced the variationrangeof soil temperature andsoil moistureatdiffrent soil layers. $\\mathrm { C H } _ { 4 }$ flux was significantly negatively correlated with soil temperature, while significantly positively correlated with soil moisture at $5 { - } 1 0 ~ \\mathrm { c m }$ soil depth. The $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C O } _ { 2 }$ fluxes were negatively correlated with soil temperature at 10-15 cm soil depth, however, they were significantly positively correlated with soil temperature at $2 0 { - } 2 5 ~ \\mathrm { c m }$ soil depth.In addition, soil temperature at $1 5 { - } 2 0 ~ \\mathrm { c m }$ soil depth also had significant positive correlation with average $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux.Moreover,soil moisture at $0 { - } 5 ~ \\mathrm { c m }$ soil depth had significant negative correlation with average $\\mathrm { C H } _ { 4 }$ $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C O } _ { 2 }$ fluxes.It is concluded that during the crop growth period,reasonable aplication ofbiocharcould mitigate grenhouse gas emision indryfarmlands in the study area. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsDry farmland;Biochar;Emisson flux;Methane;Nitrous oxide; Carbon dioxide;Soiltemperature; Soil moisture ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C H } _ { 4 }$ 、 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 、 $\\mathrm { C O } _ { 2 }$ 等温室气体的增加是全球气候变暖的主要原因已成为不争的事实[1]。据统计，大气中的农业源 $\\mathrm { C O } _ { 2 }$ 约占 $20 \\%$ ，农业源 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 、 $\\mathrm { C H } _ { 4 }$ 排放量分别约占人为活动排放量的 $60 \\%$ 和 $5 0 \\% ^ { [ 2 ] }$ 。农田土壤作为温室气体的重要排放源[3]，改良农田土壤性质，提高农田碳汇，减少农业源温室气体排放，对于缓解全球气候变化具有极其重要的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生物质炭是在厌氧或无氧条件下，经高温热解$( 3 5 0 { \\sim } 6 0 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C } )$ 产生的一种多孔富碳、高度芳香化难溶性的固态物质，具有稳定性强、比表面积大、吸附能力强的特点[4]。生物质炭还田后，可将植物光合作用所固定的有机碳转化为惰性碳，增加土壤有机碳，改善土壤结构，提高土壤养分利用率，提升稳定性碳库储量[5]，减缓微生物对有机碳的矿化，达到增汇减排的作用[6]。因此生物质炭在农业领域中的应用日益备受关注。虽然大量文献表明，生物质炭施入土壤具有增汇减排的重要意义[7-9]。但目前国内研究主要在水田农区，而作为温室气体的重要排放源的西北旱作农区，生物质炭增汇减排应用效应的研究却较鲜见[10]，因此，探讨生物质炭在旱作农区的应用机理，丰富生物质炭应用理论，实现旱区科学施用生物质炭，减少温室气体排放，不容忽视。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在黄土高原半干旱区，研究了不同生物质炭输入水平下，全生育期农田温室气体连续排放特征，及相关环境因子对 $\\mathrm { C H } _ { 4 \\setminus } \\mathrm { N } _ { 2 } \\mathrm { O }$ 和 $\\mathrm { C O } _ { 2 }$ 气体通量的影响，以期为旱作农业区合理应用生物质炭，减少农田温室气体排放，缓解全球气候变暖提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验区概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验地设在甘肃省定西市安定区李家堡镇甘肃农业大学旱农试验站，该区位于甘肃省中部偏南的陇中黄土高原半干旱丘陵沟壑区，为典型的雨养旱作农业区。区内平均海拔 $2 \\ 0 0 0 \\ \\mathrm { ~ m ~ }$ 左右，日照时数",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$2 ~ 3 0 0 \\mathrm { ~ h ~ }$ ，年平均太阳辐射 $5 9 4 . 9 \\ \\mathrm { K J } { \\cdot } \\mathrm { c m } ^ { - 2 }$ ，年均气温$6 . 5 \\mathrm { ~ \\ ^ ~ } \\mathrm { { { C } } }$ ，无霜期 $1 4 9 \\mathrm { d }$ ，年均降水量 $3 9 0 . 9 9 \\mathrm { ~ m m }$ ，年蒸发量 $1 \\ 5 3 1 \\ \\mathrm { m m }$ ， $80 \\%$ 保证率的降水量为 $3 6 5 ~ \\mathrm { m m }$ ，变异系数 $2 4 . 3 \\%$ ，干燥度2.53。土壤为典型的黄绵土，土质绵软，土层深厚，质地均匀，储水性能良好。土壤 $\\mathsf { p H }$ 为8.36，土壤平均容重为 $1 . 1 7 ~ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 3 }$ ，有机质含量为 $1 2 . 0 1 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全氮 $0 . 7 6 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全磷 $( { \\bf P } _ { 2 } { \\bf O } _ { 5 } )$ （204号$1 . 7 7 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，凋萎含水率 $7 . 3 \\%$ ，饱和含水率 $2 1 . 9 \\%$ 02015年为强厄尔尼诺年，图1为温室气体测定期内降雨量及最高最低气温变化曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "60 351降雨量Rainfall ℃最高气温Max temperature 30 nanrrrrrinriririrrriria50 最低气温Min temperatu(y glgeeiderngm 40 252030 1510 蟑20 八in 510 10503-27 04-06 04-1604-26 05-0605-1605-26 06-05 06-1506-25 07-0507-1507-25 08-04 08-14 08-24日期(月-日)Date (month-day)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验设置6个生物质炭水平处理，分别为CK$\\mathrm { ( 0 \\ t { \\cdot } h m ^ { - 2 } ) }$ ）、 $\\mathrm { T } 1 ( 1 0 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 } )$ 、 $\\mathrm { T } 2 ( 2 0 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ ）、 $\\mathrm { T } 3 ( 3 0 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ /$\\mathrm { T } 4 ( 4 0 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 和 $\\mathrm { T } 5 ( 5 0 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ ),3次重复，试验小区面积为 $2 . 8 ~ \\mathrm { m } { \\times } 6 ~ \\mathrm { m }$ ，各小区采用完全随机区组设计，播前耕后，将生物质炭按试验设计一次性均匀撒入土壤后翻埋于耕层土壤( $1 5 \\ \\mathrm { c m }$ 左右)，此后不再追加生物质炭。供试春小麦品种为‘定西35号'，2015年3月下旬播种，7月底收获，播种量为 $1 8 7 . 5 ~ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，行距为 $2 0 \\ \\mathrm { c m }$ ，播深 $7 \\mathrm { c m } _ { \\mathsf { c } }$ ，在播种时一次性施肥，不再追肥，各处理施用氮素与磷肥水平一致，施纯N$1 0 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ （尿素， $4 6 \\% \\mathrm { N }$ ，纯 $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } 1 0 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 过磷酸钙，含 $14 \\%$ 的 ${ \\bf P } _ { 2 } \\mathrm { O } _ { 5 }$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试生物质炭为金和福农业科技股份有限公司生产的玉米秸秆生物质炭，生物炭基本性质： $\\mathfrak { p H }$ 9.21,C含量 $5 3 . 2 8 \\%$ ,N含量 $1 . 0 4 \\%$ ， $\\mathrm { ~ \\bf ~ P ~ }$ 含量 $0 . 2 6 \\%$ Ca含量 $0 . 8 \\%$ ,K含量 $0 . 5 1 \\text{‰}$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3气体采集与样品分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 气体样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C H } _ { 4 }$ 与 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 采用静态暗箱密闭法收集气体样品[1]。采样时间为2015年3—8月，每7d进行一次，气体采集均在上午8:30—11:30完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采样箱为圆柱形，包括底座和顶箱，由 $1 \\mathrm { m m }$ 厚$3 0 4 ~ \\mathrm { K }$ 薄的不锈钢板制成，顶箱直径 $3 8 ~ \\mathrm { c m }$ ，高 $3 5 ~ \\mathrm { c m }$ 底座内径 $3 6 . 5 ~ \\mathrm { c m }$ ，高 $1 6 ~ \\mathrm { c m }$ ，上端有密封凹槽，播种后将底座栽入各处理小区中间，整个采样期不再移动；箱体外围覆铝箔反光保温膜，顶部留有一个胶塞测温口，用于采样时插入温度计记录箱内温度;箱体内部装有风扇用于混匀气体；箱体一侧安装三通阀采样孔，用于注射器采样。采样时，将顶箱嵌入底座凹槽加水密封，插入温度计并接通风扇电源后立即用注射器分别采集 $0 ~ \\mathrm { m i n }$ 、 $1 0 ~ \\mathrm { { m i n } }$ 和 $2 0 ~ \\mathrm { m i n }$ 的气体样品，分别注入 $1 5 0 ~ \\mathrm { m L }$ 铝塑复合气袋中带回实验室进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C O } _ { 2 }$ 气体通量采用EGM-4便捷式 $\\mathrm { C O } _ { 2 }$ 分析仪(英国PPSystems公司生产)测定，与 $\\mathbf { N } _ { 2 } \\mathbf { O }$ ！ $\\mathrm { C H } _ { 4 }$ 气体样品采集同步进行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 气体样品分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气体浓度采用安捷伦7890A型气相色谱仪进行分析。色谱柱：ParkQ $1 5 \\mathrm { \\ m } { \\times } 0 . 5 3 \\mathrm { \\ m m } { \\times } 2 5 \\mathrm { \\ } \\mu \\mathrm { m } _ { \\circ }$ $\\mathrm { C H } _ { 4 }$ 采用前检测器 FID(检测温度 $2 0 0 \\mathrm { ~ \\textdegree ~ }$ ，柱温 $5 5 \\ \\mathrm { ~ \\textdegree C }$ ）,载气为高纯 ${ \\sf N } _ { 2 } ; { \\sf N } _ { 2 } { \\sf O }$ 采用后检测器(u)ECD(检测温度$3 0 0 \\mathrm { ~ \\textdegree ~ }$ ，柱温 $4 5 \\ \\mathrm { ~ \\textdegree C }$ )，载气为高纯 $\\mathbf { N } _ { 2 }$ ，气体排放通量计算公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\frac { C _ { 2 } \\times V \\times M _ { 0 } \\times 2 7 3 / T _ { 2 } - C _ { 1 } \\times V \\times M _ { 0 } \\times 2 7 3 / T _ { 1 } } { A \\times \\left( t _ { 2 } - t _ { 1 } \\right) \\times 2 2 . 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中: $F$ 为气体排放通量 $( \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } ) .$ ）, $A$ 为取样箱底面积 $( \\mathbf { m } ^ { 2 } )$ ， $V$ 为体积 $( \\mathbf { m } ^ { 3 } )$ ， $M _ { 0 }$ 为气体分子量， $C _ { 1 }$ 和 $C _ { 2 }$ 分别为测定箱关闭时和测定箱开启前箱内温室气体的体积浓度 $\\left( \\mathrm { m o l } { \\cdot } \\mathrm { m o l } ^ { - 1 } \\right)$ ， ${ { T } _ { 1 } }$ 和 $T _ { 2 }$ 分别为测定箱关闭时和测定箱开启前箱内温度(K)， $t _ { 1 }$ 和 $t _ { 2 }$ 为测定开始和结束的时间(h)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 同期观测数据",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤温度测定。通过地温计采样同时同步观察记录地下 $5 ~ \\mathrm { c m }$ 、 $1 0 \\ \\mathrm { c m }$ 、 $1 5 \\ \\mathrm { c m }$ 、 $2 0 ~ \\mathrm { c m }$ 和 $2 5 ~ \\mathrm { c m }$ 处的土壤温度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤水分含量测定。采集气体同时，用土钻分别取 $0 { \\sim } 5 ~ \\mathrm { c m }$ 、 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 和 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层土壤，用烘干法 $( 1 0 5 { \\pm } 2 )$ 1 $\\mathrm { { } ^ { \\circ } C }$ 进行土壤含水量测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据整理与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验原始数据用MicrosoftOfficeExcel2010整理后，利用SPSS17.0软件对不同处理间的差异进行多因素方差分析，LSD法进行显著性检验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 不同生物质炭输入水平下春小麦田 $\\mathbf { C H _ { 4 } }$ 的通量变化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2为不同生物质炭输入水平下全生育期小麦地 $\\mathrm { C H } _ { 4 }$ 气体通量的动态变化曲线。如图2所示,6种处理水平下，开花期(6月26日左右)至收获期(8月10日左右)通量波动幅度最大，分蘖期(4 月 27 日左右)至孕穗期(6月10日左右)次之，播种(3月27日左右)至出苗期(4月12日左右)最低。全生育期吸收通量的波动范围为 $- 0 . 0 1 7 \\ 4 { \\sim } - 0 . 0 0 0 \\ 1 \\ \\mathrm { m g { \\cdot } m ^ { - 2 } { \\cdot } h ^ { - 1 } }$ ，排放通量的波动范围 $0 . 0 0 0 2 { \\sim } 0 . 0 1 9 7 \\mathrm { m g } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 }$ 。全生育期土壤$\\mathrm { C H } _ { 4 }$ 排放通量明显大于吸收通量。观测期内小麦地 $\\mathrm { C H } _ { 4 }$ 气体通量随生育期变化特征明显，各生育期不同处理变化趋势大体一致，基本表现为 $\\mathrm { C H } _ { 4 }$ 的弱排放源。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图中可以看出，春小麦 $\\mathrm { C H } _ { 4 }$ 排放峰的出现及其高低与小麦生育时期、生物质炭输入量具有一定关系。除4月12日至4月27日，各处理 $\\mathrm { C H } _ { 4 }$ 排放通量差异不大，播种至开花期(6月26日)之前，CK处理的 $\\mathrm { C H } _ { 4 }$ 排放通量显著大于其他处理。各处理下的土壤于分蘖期(5月11日左右)、灌浆期(7月10日左右)两个生育阶段出现对 $\\mathrm { C H } _ { 4 }$ 的排放峰，于收获后(8月10日左右)出现对 $\\mathrm { C H } _ { 4 }$ 的吸收峰。除播种初期(3月24日左右)，开花期(6月26日)之前,T5处理的排放通量小于同时期其他处理。随生育时期及其环境因子的变化，第1次排放峰出现于分蘖期-拔节期(5月11日左右)之间，与环境温度、降水变化一致。从春小麦三叶期开始，气温逐渐上升，土壤呼吸速率也随之增强，到5月27日前后，正值春小麦分蘖向拔节期过渡，该时期春小麦植株生长旺盛，土壤中春小麦根系以及微生物呼吸也较为旺盛。该时段$\\mathrm { C H } _ { 4 }$ 排放量与生物质炭输入量整体表现为负相关关系 $( y = - 1 ~ 7 9 6 . 3 x + 2 9 . 6 8 3$ ， $r { = } { - } 0 . 8 8 9$ ， $P { < } 0 . 0 5$ )。可能是因为生物质炭输入后，一方面其巨大的比表面积和高孔隙度使土壤透气性增加[9]，改善了土壤透气状况，土壤中的氧气增加, $\\mathrm { C H } _ { 4 }$ 产生所需要的土壤厌氧环境减少；另一方面亦可增加土壤有效钾含量[9],且生物质炭本身也包含大量钾元素使土壤氧化还原电位提高[12]，从而降低了产甲烷菌的活跃度，使$\\mathrm { C H } _ { 4 }$ 的排放量减少[13]。第2次排放峰出现于灌浆期,这是整个生育期中温湿变化最频繁的时期，与CK处理对照，除T4外，输入生物质炭的处理 $\\mathrm { C H } _ { 4 }$ 排放量均较高，这可能是7月份频繁的降雨和高温环境下，生物质炭为产甲烷菌提供了适宜的水热条件,导致了 $\\mathrm { C H } _ { 4 }$ 排放量的增大。收获后(8月10 日左右),此时地表已无植被覆盖，且降水减少，CK、T1和T2处理下的土壤出现了对 $\\mathrm { C H } _ { 4 }$ 通量的吸收峰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/966c10018de41ccfb8c839920f279006ad1bfc018827c2ece8071a7febe5e183.jpg",
+        "img_caption": [
+            "图2不同生物质炭输入水平下春小麦地生育期 $\\mathbf { C H _ { 4 } }$ 通量动态变化曲线",
+            "Fig.2Dynamic variations of soil $\\mathrm { C H } _ { 4 }$ fluxes in spring wheat fields under different biochar application rates CK、T1、T2、T3、T4 和T5处理的生物质碳输入水平分别为 $0 ~ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $1 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $2 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $3 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $4 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $5 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。 下同。The biochar application rates of treatments of CK,T1,T2,T3,T4 and T5 are $0 \\tan ^ { - 2 }$ $1 0 \\tan ^ { - 2 }$ $2 0 \\tan ^ { - 2 }$ $3 0 \\tan ^ { - 2 }$ $4 0 \\tan ^ { - 2 }$ and $5 0 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， respectively. The same below. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各水平生物质炭处理下春小麦地 $\\mathrm { C H } _ { 4 }$ 通量因生育期的推进在不同时段交替变化，但就春小麦的全生育期而言，各处理下的春小麦地为弱排放源，且排放通量随生物质炭输入水平的升高而变小。全生育期各处理 $\\mathrm { C H } _ { 4 }$ 平均排放通量的大小次序为： $\\mathrm { C K } >$ $\\scriptstyle \\mathrm { T } 1 > \\mathrm { T } 2 > \\mathrm { T } 3 > \\mathrm { T } 4 > \\mathrm { T } 5 _ { \\circ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 不同生物质炭输入水平下旱地春小麦田 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 的通量变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3为全生育期不同生物质炭处理下小麦地$\\mathrm { N } _ { 2 } \\mathrm { O }$ 通量动态变化曲线。如图3所示，各处理在整个测定期 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 通量的变化随生育期变化特征明显，且变化趋势比较一致，大致呈升高 $$ 降低 $$ 升高 $$ 降低的双峰型变化曲线。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分蘗期以前(4月27日前)，各处理的 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放量较低，排放峰平缓，在这一时段小麦生长所需营养都来自于种子能量，受环境因子影响，外源物质作用不强，因此，各处理下的 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 通量虽有区别但差异不大。从分蘖期开始至小麦收获期(7月27日),各处理下的土壤 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放出现两次排放峰。第1次峰出现于分蘖期向拔节期的过渡时段(5月27日前后)，其中CK处理排放峰最高，T3处理排放峰最低;第2次排放峰出现于灌浆期向成熟期的过渡时段(7月27日左右),T5处理排放峰最高,CK处理其次,T4处理排放峰最低。全生育期 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的排放量波动范围为 $0 . 0 0 2 \\ 3 { \\sim } 0 . 4 3 9 \\ 3 \\ \\mathrm { m g { \\cdot } m ^ { - 2 } { \\cdot } h ^ { - 1 } }$ ，吸收量波动范围为$- 0 . 1 1 2 \\ 9 { \\sim } - 0 . 0 2 1 \\ 3 \\ \\mathrm { m g { \\cdot } m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 }$ 。全生育期小麦地排放通量大于吸收通量。因此，整个生育期内春小麦田为 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 通量的排放源。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/efe73be69662243c43aec408b15198c39d5356cadf5bd593f2c3f03c6d850828.jpg",
+        "img_caption": [
+            "图3不同生物质炭输入水平下春小麦地生育期 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 通量动态变化曲线 Fig.3Dynamic variations of soil $\\mathbf { N } _ { 2 } \\mathbf { O }$ fluxes in spring wheat fields under different biochar application rates "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对各生育期小麦地的 ${ \\bf N } _ { 2 } \\mathrm { O }$ 数据分析可得，随生育期不同小麦地 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 通量在不同生育期表现为不同的吸收通量或排放通量，但全生育期小麦地土壤为 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放源。全生育期各处理 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 平均排放通量的大小次序为： $\\mathrm { C K } { > } \\mathrm { T } 5 { > } \\mathrm { T } 1 { > } \\mathrm { T } 2 { > } \\mathrm { T } 4 { > } \\mathrm { T } 3 .$ 。其中,CK处理平均排放通量最大，为 $0 . 2 3 0 \\ 5 \\ \\mathrm { \\ m g { \\cdot } m ^ { - 2 } { \\cdot } h ^ { - 1 } }$ ，T3平均排放通量最小，为 $0 . 0 9 8 \\ 9 \\ \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } .$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 不同生物质炭输入水平下旱地春小麦田 $\\mathbf { C O } _ { 2 }$ 的通量变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4为不同生物质炭输入水平下，春小麦地$\\mathrm { C O } _ { 2 }$ 排放通量的全生育期动态变化曲线。如图4所示，各处理下 $\\mathrm { C O } _ { 2 }$ 排放的变化趋势比较一致，整个生育期变化特征明显，大致呈单峰曲线。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "春小麦播种(3月 25日)后，土壤经人为扰动，土壤有机质分解有一定加速，导致 $\\mathrm { C O } _ { 2 }$ 排放量较收获后排放量偏大，但土壤温度仍较低，土壤微生物活动受限，因此，不同处理间排放差异不大，直至出苗期(4月12日左右)排放通量趋势平缓。随生育期推进，气温回升，各处理下 $\\mathrm { C O } _ { 2 }$ 排放通量也逐渐增大，至春小麦拔节期(5月27日前后)均达到全年排放高峰，且$\\scriptstyle \\mathrm { T 1 > T 2 > C K > T 3 > T 4 > T 5 }$ ，该时期是小麦生长旺盛期，植物光合作用与土壤呼吸作用大幅增强，因此 $\\mathrm { C O } _ { 2 }$ 排放通量呈现较大增长趋势；随后各处理 $\\mathrm { C O } _ { 2 }$ 排放通量缓慢降低至成熟期(7月27日前后)，小麦收获后，排放通量缓慢降低，是因为小麦的收获大幅度降低了土壤-植物系统中的 $\\mathrm { C O } _ { 2 }$ 排放通量。在整个生育期的排放过程中，6种不同生物质炭水平处理 $\\mathrm { C O } _ { 2 }$ 平均排放通量的大小依次为： $\\mathrm { C K } { > } \\mathrm { T } 1 { > } \\mathrm { T } 2 { > } \\mathrm { T } 5 { > } \\mathrm { T } 4 { > } \\mathrm { T } 3 .$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4不同生物质炭输入水平对春小麦地 $\\mathbf { C H _ { 4 } }$ 、 ${ \\bf N } _ { 2 } \\mathbf { O }$ 和 $\\mathbf { C O } _ { 2 }$ 平均通量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1为 $\\mathrm { C H } _ { 4 }$ 、 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 、 $\\mathrm { C O } _ { 2 } 3$ 种温室气体全生育期的平均通量。由于整个生育期中各时段的气体通量变化只能反映相应生育时段的吸收或排放状况，且特殊天气亦有可能引起通量变化出现偏差，本文通过核算全生育期气体平均通量，对整个生育期各处理下的 $\\mathrm { C H } _ { 4 }$ 平均通量、 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 平均通量与 $\\mathrm { C O } _ { 2 }$ 平均通量进行方差分析和多重比较(表2)，来估算全生育期各处理对 $\\mathrm { C H } _ { 4 }$ 、 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 与 $\\mathrm { C O } _ { 2 }$ 气体的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bc9ffc869629bfdeb284637a17477e01979dda2a48099a02a60a2a7d4557375.jpg",
+        "img_caption": [
+            "图4不同生物质炭输入水平下春小麦地生育期 $\\mathbf { C O } _ { 2 }$ 通量动态变化曲线 ├Dynamic variations of soil $\\mathrm { C O } _ { 2 }$ fluxes in spring wheat fields under different biochar application rates "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6b5eef3e5a9a5ce4137853663321ae6afa5c677f07c0d0236351f02f4f72ec0.jpg",
+        "table_caption": [
+            "表1不同生物质炭输入水平下春小麦地 $\\mathbf { C H _ { 4 } }$ 、 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 和 $\\mathbf { C O } _ { 2 }$ 的通量平均值及多重比较TablelMeans of $\\mathrm { C H } _ { 4 }$ $\\mathbf { N } _ { 2 } \\mathbf { O }$ and $\\mathrm { C O } _ { 2 }$ fluxes under different application rates of biochar in spring wheat fielc"
+        ],
+        "table_footnote": [
+            "不同小写字母表示处理间0.05水平上差异显著，大写字母为0.01水平上差异显著。Diferent lowercase andcapitaleters indicate significanifference among treatments at 0.05 and 0.01 levels,respectively."
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>CH4通量 CH4 flux (mg·m-²·h-1)</td><td>NO通量 N2O flux (mg:m-²·h-1)</td><td>CO通量 CO2 flux (μmol· m-².s-1)</td></tr><tr><td>CK</td><td>0.005 7±0.000 6Aa</td><td>0.230 5±0.003 6Aa</td><td>0.449 2±0.003 0Aa</td></tr><tr><td>T1</td><td>0.004 7±0.000 6ABab</td><td>0.144 1±0.007 8BCb</td><td>0.447 0±0.006 8Aa</td></tr><tr><td>T2</td><td>0.003 5±0.000 9ABb</td><td>0.135 3±0.003 2BCbc</td><td>0.430 3±0.005 0ABb</td></tr><tr><td>T3</td><td>0.003 3±0.000 7ABb</td><td>0.098 9±0.007 4Dd</td><td>0.391 4±0.003 0Dd</td></tr><tr><td>T4</td><td>0.002 6±0.000 6BCb</td><td>0.125 0±0.002 6Cc</td><td>0.408 0±0.006 0CDc</td></tr><tr><td>T5</td><td>0.000 4±0.000 1Cc</td><td>0.151 2±0.002 8Bb</td><td>0.416 4±0.003 8BCbc</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c6e842bbd986cfe26e82f5fa882f67e0f784516915af60a053ef271a62c04301.jpg",
+        "table_caption": [
+            "表2不同生物质炭输入水平下春小麦地 $\\mathbf { C H _ { 4 } }$ 、 ${ \\bf N } _ { 2 } { \\bf O }$ 、 $\\mathbf { C O } _ { 2 }$ 通量(y)与不同土层温度 $\\mathbf { \\rho } ( x )$ 之间的回归方程 Table 2Regression equations between $\\mathrm { C H } _ { 4 }$ $\\mathbf { N } _ { 2 } \\mathbf { O }$ and $\\mathrm { C O } _ { 2 }$ fluxes (y)and soil temperature of different layers (x) of spring maize fields under different biochar application rates "
+        ],
+        "table_footnote": [
+            "\\*和 $* *$ 分别表示相关性达到显著 $( P { < } 0 . 0 5 )$ 和极显著 $( P { < } 0 . 0 1 )$ 水平。下同。\\* and \\*\\* mean significant correlation at O.O5 and O.01 levels. respectively.The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td>气体通量 Gas flux</td><td>土层 Soil layer (cm)</td><td>回归方程 Regression equation</td><td>决定系数R²</td><td>相关系数r Coefficient of determination Coefficient of correlation</td><td>样本数 Sample size</td></tr><tr><td>CH4平均通量</td><td>0~5</td><td>y=-0.0033x+0.057 3</td><td>0.377 8</td><td>-0.615</td><td>18</td></tr><tr><td>CH4 flux</td><td>5~10</td><td>y = -0.002 9x+0.043 8</td><td>0.704 3</td><td>-0.839*</td><td>18</td></tr><tr><td rowspan=\"6\"></td><td>10~15</td><td>y = -0.003 5x+0.052 0</td><td>0.476 3</td><td>-0.690</td><td>18</td></tr><tr><td>15~20</td><td>y = 0.002 5x-0.031 2</td><td>0.317 6</td><td>0.564</td><td>18</td></tr><tr><td>20~25</td><td>y= 0.003 2x-0.040 7</td><td>0.423 0</td><td>0.650</td><td>18</td></tr><tr><td>0~5</td><td>y = -0.055 4x+1.044 8</td><td>0.171 6</td><td>-0.414</td><td>18</td></tr><tr><td>5~10</td><td>Y= -0.024 9x+0.500 6</td><td>0.087 9</td><td>-0.297</td><td>18</td></tr><tr><td>10~15</td><td>y = -0.103 5x+1.591 9</td><td>0.690 1</td><td>-0.831*</td><td>18</td></tr><tr><td rowspan=\"6\">CO2平均通量 CO2 flux</td><td>15~20</td><td>y = 0.089 8x-1.110 1</td><td>0.687 9</td><td>0.829*</td><td>18</td></tr><tr><td>20~25</td><td>y = 0.097 9x-1.217 9</td><td>0.665 2</td><td>0.816*</td><td>18</td></tr><tr><td>0~5</td><td>y = -0.057 2x+1.348 6</td><td>0.702 8</td><td>-0.838*</td><td>18</td></tr><tr><td>5~10</td><td>y = -0.023 1x+0.751 6</td><td>0.292 2</td><td>-0.541</td><td>18</td></tr><tr><td>10~15</td><td>y = -0.052 2x+1.151 8</td><td>0.676 0</td><td>-0.822*</td><td>18</td></tr><tr><td>15~20</td><td>y = 0.022 4x+0.110 2</td><td>0.164 9</td><td>0.406</td><td>18</td></tr><tr><td></td><td>20~25</td><td>y= 0.052 6x-0.310 3</td><td>0.7411</td><td>0.861*</td><td>18</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可以得出：CK处理下的 $\\mathrm { C H } _ { 4 }$ 平均通量显著高于T2、T3、T4 和T5 处理，分别高出 $5 9 . 5 2 \\%$ 、 $70 . 3 9 \\%$ /$1 1 1 . 8 0 \\%$ 和 $123 7 . 9 1 \\text{‰}$ CK处理与T2、T3处理显著,与 T4、T5极显著，与T1处理不显著;T1、T2、T3、T4之间均不显著,T5处理与其他处理都极显著。说明不施用生物质炭的处理下 $\\mathrm { C H } _ { 4 }$ 平均排放通量显著大于高输入量的处理，较低水平的生物质炭输入量对 $\\mathrm { C H } _ { 4 }$ 排放通量影响较小。春小麦地 $\\mathrm { C H } _ { 4 }$ 排放通量随生物质炭输入量的增加而减小。这一结果表明春小麦地添加生物质炭可以减少 $\\mathrm { C H } _ { 4 }$ 的排放，与前人研究结果一致[6,14]，且本试验进一步得出较高水平的生物质炭添加量对 $\\mathrm { C H } _ { 4 }$ 的减排效果更明显，这与高德才等[14]研究结果相吻合。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6种处理水平下, ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放通量表现出明显的规律性变化，由表1可知,CK处理、T3处理与其他各水平处理差异显著相关。与CK处理相比较,T1、T2、T3、T4 和 T5的 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放量分别降低 $3 7 . 5 0 \\%$ /$41 . 3 3 \\%$ 、 $5 7 . 1 0 \\%$ 、 $45 . 7 7 \\%$ 和 $34 . 3 9 \\text{‰}$ ，说明旱作农田添加生物质炭，可起到固氮减排的作用，但 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的排放通量并非完全随生物质炭输入量的增加而减小，当生物质炭超过一定量后， $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的排放通量反而降低。高德才等和张斌等[14-15]研究结果表明，当生物质炭添加量为 $4 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 时, $\\mathbf { N } _ { 2 } \\mathbf { O }$ 减排量较大与本研究结果接近。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与 $\\mathrm { C H } _ { 4 }$ 、 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 类似, $\\mathrm { C O } _ { 2 }$ 排放通量也随生物质炭输入水平的差异表现出一定的规律性。由表1可见,CK处理与T1无显著性差异，与T2差异显著，与其余各处理差异极显著。T3与T4差异显著，与其他各处理差异极显著。T4与CK、T1、T2差异极显著，与 T5 无显著性差异。较CK 处理,T1、T2、T3、T4和T5的 $\\mathrm { C O } _ { 2 }$ 平均排放量分别降低 $5 . 3 0 \\%$ 、 $1 0 . 4 8 \\%$ /$23 . 5 9 \\%$ 有 $2 1 . 3 6 \\%$ 和 $1 9 . 1 2 \\%$ 。说明旱作农田适量添加生物质炭，有利于 $\\mathrm { C O } _ { 2 }$ 的增汇减排，当生物质炭输入水平为 $3 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 时，其对 $\\mathrm { C O } _ { 2 }$ 的减排效果最好，当生物质炭输入量过高时不利于 $\\mathrm { C O } _ { 2 }$ 的减排。这可能是土壤初始有机质含量对土壤呼吸作用的影响导致的，生物质炭的添加降低了有机碳含量较低的黄绵土土壤呼吸，使 $\\mathrm { C O } _ { 2 }$ 排放量减小，但是增加过量的生物质炭，反而使 $\\mathrm { C O } _ { 2 }$ 排放量趋于增加，这可能是由于土壤有机碳库已经达到饱和状态[16]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5不同生物质炭输入水平下的土壤水热状况差异及其对温室气体排放的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5.1 土壤温度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图5a可见，不同生物质炭输入水平下的土壤平均温度在表层土壤 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层整体表现为最高，原因可能是地表接收太阳辐射相对较多，增温明显。同时，各处理在 $5 { \\sim } 1 5 ~ \\mathrm { c m }$ 土层土壤平均温度差异显著 $( P { < } 0 . 0 5 )$ ，且CK处理在5个土层的温度波动最大，这可能是生物质炭输入土壤后，通过吸附土壤水分可使土壤温度变化幅度降低[17]。但在土壤含水量较低的旱作农田，生物质炭对土壤水分的这种控制力是有限的，当土壤水分被完全控制后，生物质炭的增温效应[18则表现出来，共同引起不同处理间的差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bff7abd82b6b32b2a46ede75048f1c112c3ed4f644539152eddfbcac9978075c.jpg",
+        "img_caption": [
+            "图5不同生物质炭输入水平下春小麦地不同深度土层平均温度(a)及平均含水量(b)的变化趋势Fig.5Variations ofaverage soil temperature (a)andsoil moisture (b)in diferentlayersof spring maize fieldsunderdifferentbiochar application rates"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对 $\\mathrm { C H } _ { 4 }$ 有 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 和 $\\mathrm { C O } _ { 2 }$ 排放通量与不同层次土壤温度进行回归分析及相关分析表明(表2)，全生育期$\\mathrm { C H } _ { 4 }$ 平均排放通量与 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 耕层土壤温度表现出显著的负相关 $( P { < } 0 . 0 5 )$ ，且呈线性函数关系，其余相关性不明显。全生育期 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 平均排放通量与 $1 0 \\sim$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$1 5 \\ \\mathrm { c m }$ 土层温度呈显著性负相关 $( P { < } 0 . 0 5 )$ ，在 $1 5 \\sim$ $2 0 ~ \\mathrm { c m }$ 、 $2 0 { \\sim } 2 5 ~ \\mathrm { c m }$ 土层呈显著性正相关 $( P { < } 0 . 0 5 )$ ，并呈线性函数关系。全生育期 $\\mathrm { C O } _ { 2 }$ 平均排放通量与 $0 \\sim$ $5 \\ \\mathrm { c m }$ 、 $1 0 { \\sim } 1 5 ~ \\mathrm { c m }$ 土层温度呈显著性负相关 $( P { < } 0 . 0 5 )$ 5与 $2 0 { \\sim } 2 5 ~ \\mathrm { c m }$ 土层温度呈显著性正相关 $( P { < } 0 . 0 5 )$ ，并",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "呈线性函数关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.2 土壤含水量",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除温度因子外，土壤水分对旱地春小麦田的$\\mathrm { C H } _ { 4 \\setminus } \\mathrm { N } _ { 2 } \\mathrm { O }$ 以及 $\\mathrm { C O } _ { 2 }$ 平均通量也有重要的影响，且会因土壤含水量的不同出现差异。由图4b可见，各处理在 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层土壤平均含水量差异显著 $( P <$ 0.05)，除T3处理 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层土壤含水量随深度增加变化差异不显著外，其他各处理的土壤平均含水量趋势一致。土壤含水量均表现为 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层最高， $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 次之, $0 { \\sim } 5 ~ \\mathrm { c m }$ 最低，原因是 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层在地表土层的覆盖下，土壤水分不易蒸发，且该层次春小麦根系密集，吸收并贮存着较多的地表水分，而 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层在地表的蒸发下，含水量最低",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层较前两者而言，土壤含水量相对稳定。其中,CK处理含水量波动幅度最大，其 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层土壤含水量显著大于表层及深层，且显著大于其他各处理在该层的土壤含水量，原因可能是生物质炭输入土壤后，使土壤孔隙度提高，在增加田间持水量的同时，也促进了表层土壤水分的蒸发。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表3可以得出：全生育期 $\\mathrm { C H } _ { 4 }$ 排放通量与$0 { \\sim } 5 ~ \\mathrm { c m }$ 土层含水量呈显著性负相关关系，在 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层上表现为极显著正相关。 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量与 $0 \\sim$ $5 \\ \\mathrm { c m }$ 土层含水量呈显著性负相关关系，与其他层次相关性不明显。 $\\mathrm { C O } _ { 2 }$ 排放通量与 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层含水量呈显著性负相关关系，与 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量所受的影响一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0af8fddb7548139e9b63a04f4b1c784eae6f34e5298edc836634cac391bdb69e.jpg",
+        "table_caption": [
+            "表3不同生物质炭输入水平下春小麦地 $\\mathbf { C H _ { 4 } }$ 、 ${ \\bf N } _ { 2 } { \\bf O }$ 、 $\\mathbf { C O } _ { 2 }$ 通量 $( \\boldsymbol { y } )$ 与不同土层土壤水分含量 $\\mathbf { \\rho } ( x )$ 之间的回归方程 Table 3Regression equations between $\\mathrm { C H } _ { 4 }$ $\\mathbf { N } _ { 2 } \\mathbf { O }$ and $\\mathrm { C O } _ { 2 }$ fluxes (y) and soil moisture of different layers $( x )$ of spring maize fields under different biochar application rates "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>气体通量 Gas flux</td><td>土层 Soil layer (cm)</td><td>回归方程 Regression equation</td><td>决定系数R² Coefficient of determination</td><td>相关系数r Coefficient of correlation</td><td>样本数 Sample size</td></tr><tr><td>CH4平均通量</td><td>0~5</td><td>y = -0.006 9x+0.081 0</td><td>0.711 3</td><td>-0.843*</td><td>18</td></tr><tr><td>CH4 flux</td><td>5~10</td><td>y = 0.004 5x-0.052 2</td><td>0.879 7</td><td>0.938**</td><td>18</td></tr><tr><td></td><td>10~30</td><td>y= 0.001 3x-0.011 6</td><td>0.066 9</td><td>0.259</td><td>18</td></tr><tr><td>N2O平均通量</td><td>0~5</td><td>y = -4.146 4x+11.793 0</td><td>0.711 0</td><td>-0.843*</td><td>18</td></tr><tr><td>N2O flux</td><td>5~10</td><td>y = 4.646 9x+11.595 0</td><td>0.308 6</td><td>0.554</td><td>18</td></tr><tr><td></td><td>10~30</td><td>y = -1.513 0x+11.855 0</td><td>0.0347</td><td>-0.186</td><td>18</td></tr><tr><td>CO2平均通量</td><td>0~5</td><td>y=-8.066 7x+14.599 0</td><td>0.698 0</td><td>-0.835*</td><td>18</td></tr><tr><td>CO2 flux</td><td>5~10</td><td>y = 8.493 3x+8.6813</td><td>0.2658</td><td>0.516</td><td>18</td></tr><tr><td></td><td>10~30</td><td>y = -7.896 4x+14.978 0</td><td>0.244 9</td><td>-0.495</td><td>18</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "关于生物质炭对农田土壤增汇减排的效应，虽已有部分研究，但仍没有形成系统，其结果也并不统—[9,14,19]。本研究结果显示：全生育期春小麦地为$\\mathrm { C H } _ { 4 }$ 排放通量的弱排放源，排放通量随生物质炭输入量的增大而降低。原因可能是强厄尔尼诺年内，质地绵软、储水性较好的黄绵土，在观测期降水频繁和气温较高的情况下，形成一定的厌氧环境，一定程度上提高了产甲烷菌活性，导致 $\\mathrm { C H } _ { 4 }$ 排放量较正常年份有所增加；但生物质炭输入土壤后，除增加了田间持水量外，还促进了土壤团聚体的形成[20],提高了土壤孔隙度，改善了土壤的通气状况和供氧能力[9]，通过对 $\\mathrm { C H } _ { 4 }$ 产生和吸收过程中的微生物的调节作用而减少了 $\\mathrm { C H } _ { 4 }$ 的排放[21]；也有可能是生物质炭通过抑制产甲烷菌的活性，增加甲烷氧化菌的活性及其种群结构的多样性，进而使 $\\mathrm { C H } _ { 4 }$ 氧化增加而导致 $\\mathrm { C H } _ { 4 }$ 的排放减少[8.21]。但也有一些研究表明,生物质炭的输入会增加 $\\mathrm { C H } _ { 4 }$ 的排放[7,22]，其原因可能是生物质炭中含有的易分解有机碳为产甲烷菌提供了产甲烷底物[23]，并影响了甲烷氧化菌的活性,降低了 $\\mathrm { C H } _ { 4 }$ 的氧化所致[22]；也可能是由于生物质炭本身含有一些对甲烷氧化菌有毒的物质，使甲烷氧化菌活性受到影响所致[23]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明，生物质炭的添加对 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的增汇减排具有积极的作用[8,15,21]。本研究结果显示，全生育期春小麦地为 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 的排放通量的源，且排放通量随生物质炭输入量的增加呈先减小后增大的趋势。这一现象的原因可能是生物质炭添加后，增加了土壤的通气性[8]，提高了土壤阳离子交换量，吸附固定了土壤的 $\\mathrm { N H } _ { 4 } ^ { + [ 2 4 ] }$ ，使反硝化作用的底物减少，抑制了硝化过程的进行，从而减少了 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的产生。也有可能是因为土壤 $\\mathbf { O } _ { 2 }$ 的增加，减少了硝化过程第二阶段以及反硝化过程中 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的产生[9]。但是，在反硝化过程中， $\\mathrm { N } _ { 2 } \\mathrm { O }$ 还原酶(Nos)对 $\\mathbf { O } _ { 2 }$ 的敏感度较其他酶要高得多，当生物质炭输入量过高时，通氧量的增加可能造成反硝化过程进行到 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 时停止，引发${ \\bf N } _ { 2 } \\mathrm { O }$ 排放增加[25]，这可能是T4、T5较T3 减排效果减弱的原因。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "生物质炭的添加既可以增加旱地 $\\mathrm { C O } _ { 2 }$ 的排放，也可以抑制旱地 $\\mathrm { C O } _ { 2 }$ 的排放，这种影响效果因生物质炭来源、制备过程以及土壤差异而不同[26-28]。本研究结果表明，在春小麦旱作农田添加一定量的生物质炭有利于 $\\mathrm { C O } _ { 2 }$ 的增汇减排。这一结果与Liu等[8,29]的研究结果一致。生物质炭在土壤中的添加,一方面因其本身具有的高度稳定性，使其所含有的碳素牢牢固定在土壤中，减少了碳循环中 $\\mathrm { C O } _ { 2 }$ 的排放量；另一方面，生物质炭较大的表面积和强吸附能力可将土壤有机质吸附到其表面或孔隙中，通过吸附作用降低有机质有效性，通过包封作用将微生物与有机质隔离，从而抑制有机质降解，减少 $\\mathrm { C O } _ { 2 }$ 的排放[26]。但也有研究表明，生物质炭的输入会促进 $\\mathrm { C O } _ { 2 }$ 的排放[14,27]，这可能是生物质炭输入水平的差异以及生物质炭类型不同的原因。花莉等[30研究发现，生物质炭输入水平在 $1 \\% \\sim 5 \\%$ 的范围内时，土壤 $\\mathrm { C O } _ { 2 }$ 排放量呈随着生物炭添加量增加而增加的趋势；当生物质炭输入水平超过 $5 \\%$ 时，土壤 $\\mathrm { C O } _ { 2 }$ 排放量却开始出现下降趋势。土壤 $\\mathrm { C O } _ { 2 }$ 是在土壤异养呼吸和自养呼吸的共同作用下产生的，生物质炭的添加也会直接引起作物生长的差异[15]，进而影响根系的自养呼吸，因此，生物质炭对土壤 $\\mathrm { C O } _ { 2 }$ 排放的影响是在直接与间接作用下完成的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "土壤温室气体的排放与环境因子息息相关，土壤含水量及温度是影响土壤温室气体排放的主要环境因子。大量研究表明，生物质炭的添加可明显提高土壤保水性[31]，并且随着生物质炭输入水平的提高，土壤饱和含水量、田间持水量和有效水含量逐渐增加[32]。另外，生物质炭的添加对农田 $0 \\mathrm { c m }$ 和 $1 0 \\mathrm { c m }$ 土层土壤温度具有显著影响[18]。因此，生物质炭在农田土壤的添加对土壤水热状况的影响，势必引起温室气体的排放差异。本试验结果表明，不同生物质炭输入水平下，温室气体排放通量与 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层土壤含水量呈显著性负相关关系，与 $0 { \\sim } 1 5 ~ \\ \\mathrm { c m }$ 土壤温度表现为负相关关系，与 $1 5 { \\sim } 2 5 ~ \\mathrm { c m }$ 土壤温度呈正相关关系，且不同温室气体排放通量与不同层次土壤温度的相关性不一致。本研究表明，对于 $\\mathrm { C H } _ { 4 }$ 而言，在旱作农田地表日照强烈，耕层温度影响强烈的情况下，各输入生物质炭处理的土壤含水量与CK处理相比，在甲烷氧化率发生最强的 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤亚表层[33显著较低，从而供氧充足，为甲烷氧化菌提供了适宜的条件，减少了 $\\mathrm { C H } _ { 4 }$ 的排放。对旱地土壤 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量而言，本文结论与大多数研究一致，分蘖期-拔节期和灌浆期-成熟期降雨频繁，气温较高，硝化和反硝化作用随土壤温度升高而加强土壤气体随蒸发量增大而排出，导致旱地土壤 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放通量随土壤温度升高而增大，随土壤水分增加而减小[34-35]，但与 CK 相比，各输入生物质炭处理在土壤保水性提高的情况下，土壤水分相对较高，因而减少了 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的排放。对于 $\\mathrm { C O } _ { 2 }$ 而言，本研究发现 $\\mathrm { C O } _ { 2 }$ 排放通量与浅层土壤温度及含水量呈显著性负相关，这可能是因为在生物质炭的影响下，土壤含水量增加，水分作用掩盖了土壤温度的作用，使$\\mathrm { C O } _ { 2 }$ 溶于土壤水分中, $\\mathrm { C O } _ { 2 }$ 排放减少。 $\\mathrm { C O } _ { 2 }$ 排放通量与深层土壤温度呈显著性正相关，与土壤水分呈负相关但不显著，与大多数研究一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "但是，生物质炭及土壤类型的差异都可能对温室气体产生不同的影响，生物质炭输入后的土壤水热组合也会因气候差异而不同，生物质炭输入水平与温室气体排放的机理研究还处于起步阶段，尚无统一结论，还需要未来一系列系统深入的研究加以证实。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6种生物质炭输入水平处理下，全生育期春小麦地土壤表现为 $\\mathrm { C H } _ { 4 }$ 、 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 和 $\\mathrm { C O } _ { 2 }$ 的排放源。 $\\mathrm { C H } _ { 4 }$ 排放通量随生物质炭输入水平的增大而降低， $\\mathbf { N } _ { 2 } \\mathbf { O }$ 和 $\\mathrm { C O } _ { 2 }$ 排放通量随生物质炭输入水平的增大表现为先降低后增加趋势。T5处理下的 $\\mathrm { C H } _ { 4 }$ 平均排放量显著低于其他所有处理。T3处理下的 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 和 $\\mathrm { C O } _ { 2 }$ 平均排放通量显著低于其他各处理。生物质炭输入量为$3 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 时与不施生物质炭比较，对土壤温室气体排放通量影响最显著。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "随生育期推进，植物-土壤系统中水热等环境因子相应的变化，使各生物质炭水平处理下的 $\\mathrm { C H } _ { 4 } ,$ ${ \\bf N } _ { 2 } \\mathrm { O }$ 和 $\\mathrm { C O } _ { 2 }$ 通量在播种、苗期以及收获后小于其他时期，并且在分蘖-拔节期左右时各处理下的温室气体排放通量以及灌浆-成熟期左右 $\\mathrm { C H } _ { 4 }$ 和 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量出现峰值。并且不同处理生物质炭水平处理间，3种温室气体排放差异显著，说明生物质炭输入土壤后对土壤结构、土壤水热状况的影响可能是导致温室气体排放差异的主要原因，需要进一步深入探讨。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C H } _ { 4 }$ 平均排放通量与 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层含水量负相关 与 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层温度显著负相关并与该层土壤水分 极显著正相关。 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量与 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层含水量 显著负相关，与 $1 0 { \\sim } 1 5 ~ \\mathrm { c m }$ 土层温度显著负相关，与 $1 5 { \\sim } 2 0 ~ \\mathrm { c m }$ 、 $2 0 { \\sim } 2 5 ~ \\mathrm { c m }$ 土层温度显著正相关。 $\\mathrm { C O } _ { 2 }$ 平 均排放通量与 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层含水量及土壤温度呈显 著负相关，与 $1 0 { \\sim } 1 5 ~ \\ \\mathrm { c m }$ 土层温度显著负相关，与 $2 0 { \\sim } 2 5 ~ \\mathrm { c m }$ 土层温度呈显著性正相关。 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] IPCC.Climate Change 2013:The Physical Science Basis: Working Group IContribution to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change[M]. Cambridge: Cambridge University Press,2013 [2] IPCC. Climate change 2007: mitigation[R]//Metz B,Davidson O R, Bosch P R,et al. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press,   \n2007 [3]张玉铭，胡春胜，张佳宝，等．农田土壤主要温室气体 $( \\mathrm { C O } _ { 2 \\setminus } \\mathrm { C H } _ { 4 \\setminus } \\mathrm { N } _ { 2 } \\mathrm { O } )$ 的源/汇强度及其温室效应研究进展[J].中 国生态农业学报,2011,19(4):966-975 Zhang Y M,Hu C S,ZhangJB,et al.Research advances on source/sink intensities and greenhouse effects of $\\mathrm { C O } _ { 2 }$ ， $\\mathrm { C H } _ { 4 }$ （204号 and $\\mathbf { N } _ { 2 } \\mathbf { O }$ inagricultural soils[J]. Chinese Journal of Eco-Agriculture,2011,19(4): 966-975 [4]Karhu K,Mattila T,Bergstrom I,et al.Biochar addition to agricultural soil increased $\\mathrm { C H } _ { 4 }$ uptake and water holding capacity - Results from a short-term pilot field study[J]. Agriculture，Ecosystems & Environment,2011，140(1/2):   \n309-313 [5]Marris E.Puting the carbon back: Black is the new green[J]. Nature,2006,442(7103):624-626 [6] Wang J Y, Zhang M, Xiong $z _ { \\mathrm { ~ Q ~ } }$ ，et al.Effects of biochar addition on $\\mathbf { N } _ { 2 } \\mathbf { O }$ and $\\mathrm { C O } _ { 2 }$ emissions from two paddy soils[J]. Biology and Fertility of Soils,2011,47(8): 887-896 [7] Zhang A F,Liu Y M,Pan G X,et al.Effect of biochar amendment on maize yield and greenhouse gas emissions from a soil organic carbon poor calcareous loamy soil from Central China Plain[J].Plant and Soil,201l,351(1/2):   \n263-275 [8] Spokas K A,Koskinen W C,Baker JM,et al.Impacts of woodchip biochar additions on greenhouse gas production and sorption/degradation of two herbicides in a minnesota soil[J]. Chemosphere,2009,77(4): 574-581 [9]Van Zwieten L，Singh B,Joseph S,et al. Biochar and emissions of non $\\cdot \\mathrm { C O } _ { 2 }$ greenhouse gases from soil[M]// Lehmann J,Joseph S.Biochar for Environmental Management.London: Earthscan,2009:232   \n10] 刘杰云，沈健林，邱虎森，等．生物质炭添加对农田温室气 体净排放的影响综述[J]．农业环境科学学报，2015，34(2):   \n205-212 Liu B, Huang G B, Gao $\\mathrm { ~ Y ~ Q ~ }$ ,et al.Effects of no-tillage on daily dynamics of $\\mathrm { C O } _ { 2 }$ and ${ \\bf N } _ { 2 } \\mathrm { O }$ emission from spring wheat field during mature stage[J]. Journal of Gansu Agricultural University,2010,45(1): 82-87   \n[12]丁维新，蔡祖聪．土壤有机质和外源有机物对甲烷产生的 影响[J]．生态学报,2002,22(10):1672-1679 Ding W X,Cai Z C. Effects of soil organic matter and exogenous organic materials on methane production and emission from wetlands[J]． Acta Ecologica Sinica,2002, 22(10): 1672-1679   \n[13]丁维新，蔡祖聪．植物在 $\\mathrm { C H } _ { 4 }$ 产生、氧化和排放中的作用[J]. 应用生态学报,2003,14(8):1379-1384 Ding W X,Cai Z C.Effect of plants on methane production, oxidation and emission[J]. Chinese Journal of Applied Ecology,2003,14(8): 1379-1384   \n[14] 高德才，张蕾，刘强，等．生物黑炭对旱地土壤 $\\mathrm { C O } _ { 2 }$ 、 $\\mathrm { C H } _ { 4 }$ ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放及其环境效益的影响[J].生态学报，2015,35(11): 3615-3624 Gao D C, Zhang L,Liu Q,et al. Effects of biochar on $\\mathrm { C O } _ { 2 }$ $\\mathrm { C H } _ { 4 }$ $\\mathbf { N } _ { 2 } \\mathbf { O }$ emission and its environmental benefits in dryland soil[J].Acta Ecologica Sinica,2015,35(11): 3615-3624   \n[15]张斌，刘晓雨，潘根兴，等．施用生物质炭后稻田土壤性 质、水稻产量和痕量温室气体排放的变化[J]．中国农业科 学,2012,45(23): 4844-4853 Zhang B,Liu X Y,Pan G X,et al.Changes in soil properties, yield and trace gas emission from a paddy after biochar amendment in two consecutive rice growing cycles[J]. Scientia Agricultura Sinica,2012,45(23): 4844-4853   \n[16] Lehmann J. Capturing relevant biochar properties: Current status and advances at the Kyoto meeting[C]//Biochar and New Green Agriculture in China: An International Workshop on Production and Application of Biochar in China's Agriculture.Nanjing, China,2011: 20-23   \n[17]武玉，徐刚，吕迎春，等．生物炭对土壤理化性质影响的研 究进展[J]．地球科学进展,2014,29(1):68-79 Wu Y,Xu G, Lü YC,et al. Effects of biochar amendment on soil physical and chemical properties: Current status and knowledge gaps[J]. Advances in Earth Science,2014, 29(1): 68-79   \n[18]黄海洲，肖茜，沈玉芳，等．生物质炭对旱作春玉米农田 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放的效应[J]．农业环境科学学报，2014，33(10): 2063-2070 Huang H Z,Xiao Q,Shen Y F,et al.Effect of biochar on nitrous oxide emissions from dryland spring corn field on the loess plateau[J]. Journal of Agro-Environment Science, 2014, 33(10): 2063-2070   \n[19]王欣欣，邹平，符建荣，等．不同竹炭施用量对稻田甲烷和 氧化亚氮排放的影响[J]．农业环境科学学报，2014，33(1): 198-204 Wang X X,Zou P,Fu JR,et al.Effects of bamboo biochar amendments on methane and nitrous oxide emission from 33(1): 198-204   \n[20]刘玉学．生物质炭输入对土壤氮素流失及温室气体排放特 性的影响[D]．杭州：浙江大学,2011 Liu Y X.Effect of biochar on the characteristic of nitrogen loss and greenhouse gas emission from soil[D].Hangzhou: Zhejiang University,2011   \n[21] Feng Y Z,Xu Y P,Yu Y C,et al.Mechanisms of biochar decreasing methane emission from Chinese paddy soils[J]. Soil Biology and Biochemistry,2012,46:80-88   \n[22]张阿凤．秸秆生物质炭对农田温室气体排放及作物生产力 的效应研究[D]．南京：南京农业大学,2012 Zhang A F.A study on effect of biochar amendment on greenhouse gasesemissions and crop productivityin agriculture[D]. Nanjing: Nanjing Agricultural University, 2012   \n[23]Knoblauch C,Maarifat AA,Pfeiffer E M,et al.Degradability of black carbon and its impact on trace gas fluxes and carbon turnover in paddy soil[J]. Soil Biology and Biochemistry, 2011,43(9): 1768-1778   \n[24]张广斌，马静，马二登，等．尿素施用对稻田土壤甲烷产 生、氧化及排放的影响[J].土壤,2010,42(2):178-183 Zhang G B,Ma J,Ma E D,et al.Effects of urea application on methane production,oxidation and emission from a paddy soil[J]. Soils,2010,42(2): 178-183   \n[25]朱永官，王晓辉，杨小茹，等．农田土壤 ${ \\bf N } _ { 2 } \\mathrm { O }$ 产生的关键微 生物过程及减排措施[J]．环境科学,2014,35(2):792-800 Zhu Y G, Wang XH, Yang XR,et al. Key microbial processes in nitrous oxide emissions of agricultural soil and mitigation strategies[J]. Environmental Science,2014,35(2):792-800   \n[26]Zimmerman A R,Gao B,Ahn M Y.Positive and negative carbon mineralization priming effects among a variety of biochar-amended soils[J]. Soil Biology and Biochemistry, 2011,43(6): 1169-1179   \n[27]刘玉学，王耀锋，吕豪豪，等．生物质炭化还田对稻田温室 气体排放及土壤理化性质的影响[J]．应用生态学报，2013, 24(8): 2166-2172 Liu Y X,Wang Y F,Lü H H,et al.Effects of biochar application on greenhouse gas emission from paddy soil and its physical and chemical properties[J].Chinese Journal of Applied Ecology,2013,24(8): 2166-2172   \n[28]郭艳亮，王丹丹，郑纪勇，等．生物炭添加对半干旱地 区土壤温室气体排放的影响[J]．环境科学，2015，36(9): 3393-3400 Guo YL,Wang D D,Zheng JY,et al.Effect of biochar on soil greenhousegasemissionsin semi-arid region[J]. Environmental Science,2015,36(9): 3393-3400   \n[29] Liu Y X,Yang M,Wu Y M,et al.Reducing $\\mathrm { C H } _ { 4 }$ and $\\mathrm { C O } _ { 2 }$ emissions from waterlogged paddy soil with biochar[J]. Journal of Soils and Sediments,2011,11(6): 930-939   \n[30]花莉，金素素，唐志刚．生物质炭输入对土壤 $\\mathrm { C O } _ { 2 }$ 释放影 响的研究[J]．安徽农业科学,2012,40(11):6501-6503 Hua L,Jin S S,Tang Z G.Effect of bio-charcoal on release of carbon dioxide in soil[J]. Journal of Anhui Agricultural Sciences,2012,40(11): 6501-6503   \n[31]Kolb SE,FermanichKJ,Dornbush ME.Effect of charcoal quantity on microbial biomass and activity in temperate soils[J]. Soil Science Society of America Journal,2009,73(4): 1173-1181   \n[32]靳泽文，陈效民，李秋霞，等．生物质炭对旱地红壤理化性 状和水力学特性的影响[J]．水土保持通报，2015，35(6): 81-85 Jin Z W,Chen X M,Li Q X,et al.Effects of biochar on physicochemical properties and hydraulic characteristics in upland red soil[J].Bulletin of Soil and Water Conservation, 2015,35(6): 81-85   \n[33]丁维新，蔡祖聪．土壤甲烷氧化菌及水分状况对其活性的 影响[J]．中国生态农业学报,2003,11(1):94-97 Ding W X,Cai Z C.Mechanism of methane oxidation by methanotrophs and effect of soil moisture content on their activity[J]. Chinese Journal of Eco-Agriculture,20o3,11(1): 94-97   \n[34]王旭燕，张仁陟，蔡立群，等．不同施氮处理下旱作农田土 壤 $\\mathrm { C H } _ { 4 }$ 、 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 气体排放特征研究[J]．环境科学学报，2015, 35(11): 3655-3661 Wang XY, Zhang R Z,CaiL Q,et al.Emission characteristics of $\\mathrm { C H } _ { 4 }$ and ${ \\bf N } _ { 2 } \\mathrm { O }$ fluxes from dryland field under different nitrogen treatments[J].Acta Scientiae Circumstantiae,2015, 35(11): 3655-3661   \n[35]王改玲，陈德立，李勇．土壤温度、水分和 $\\mathrm { N H _ { 4 } ^ { + }  – N }$ 浓度对 土壤硝化反应速度及 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放的影响[J]．中国生态农业学 报,2010,18(1): 1-6 Wang G L,Chen D L,Li Y.Effect of soil temperature, moisture and $\\mathrm { N H _ { 4 } ^ { + }  – N }$ concentration on nitrification and nitrification-induced $\\mathbf { N } _ { 2 } \\mathbf { O }$ emission[J].Chinese Journal of Eco-Agriculture,2010,18(1):1-6 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

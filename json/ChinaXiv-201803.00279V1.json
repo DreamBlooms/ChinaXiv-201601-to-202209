@@ -1,0 +1,507 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201701050046 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘羽霞，许嘉巍，靳英华，张英洁，牛莉平，王媛林，贺红士.长白山苔原草本植物入侵与土壤环境的关系.生态学报,2018,38（4):1235-1244.LiuYX,XuJW,JinagYJ,LWagL,HHelatoebctsiodlpoisiiMountain Tundra.Acta Ecologica Sinica,2018,38(4) :1235-1244.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长白山苔原草本植物入侵与土壤环境的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘羽霞1,²，许嘉巍1,2，\\*，靳英华1,²，张英洁1,²，牛莉平1,²，王嫒林1,²，贺红士1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1东北师范大学地理科学学院，长春130024  \n2长白山资源与生物多样性吉林省联合重点实验室，延边133613",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在对长白山高山苔原西坡样带内132个样方进行植被调查和土壤取样分析的基础上,应用冗余分析(RDA)和典型相关分析方法,探讨了草本植物入侵苔原带程度与苔原土理化性质及环境之间的关系。研究表明,长白山苔原带西坡草本入侵程度区域差异明显,可分为5个不同的入侵等级;海拔、坡度、全钾含量、粘粒含量、有机质含量等10种土壤环境因子与草本植物入侵程度明显相关。RDA分析表明土壤环境因子能解释 $9 3 \\%$ 的植物物种多度信息,影响草本植物入侵的主要土壤因子是有机质含量,粘粒含量和坡度;第一对典型变量说明有机质含量与牛皮杜鹃多度正相关,与大白花地榆多度负相关,粘粒含量则相反;第二对典型变量说明海拔、速效氮含量与笃斯越桔、长白老鹳草多度呈负相关。长白山苔原带西坡草本植物在空间分布上是离散的,呈斑块状。可见,草本植物入侵,对生境是有所选择的。土壤有机质含量与灌木多度呈正相关,说明在草本入侵过程中,土壤有机质含量会减少;或者有机质含量减少的地方,灌木生长退化,草本由此开始侵入定植。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：草本植物入侵;土壤理化因子;土壤因子;高山苔原土;长白山",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Relationship between herbaceous plant invasion and soil properties in the Changbai Mountain Tundra ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Yuxia'²，XU Jiawei1,2,\\*， JIN Yinghua1²，ZHANG Yingjie1²，NIULiping1,2，WANGAilin1,2, HE Hongshi1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1School ofGeographical Science，Northeast Normal University，Changchun 13OO24,China   \n2 KeyLaboratory of Resources and Biodiversity in ChangbaiMountain，Jilin Province,Yanbian133613，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The Changbai Mountain tundra，which is located in the upper partof the Changbai Mountain volcanic cone (2000—250m），istheonly typical alpine tundra in eastern China，and because itsenvironmental characteristicsare similar to thoseof polar tundra,the Changbai Mountain tundrais highlyvaluablefor scientificresearch.Herbaceous species invasionhas been found in both polar tundraand alpine tundra，this phenomenon maycaused bytheclimate change.In general，there isaclosecorrelation between tundravegetationand soil，thechangeof vegetation communitystructure directlyor indirectlyled tochanges insoilproperties.Theprogressionof invasionresulted inadecreaseintherganic mattercontent.The growthof tundra vegetation isafected byboth temperatureand soil composition（i.e.，nutrients）， whereasthecompositionof theplantcommunityafectslocalsoil proceses.Thevegetationof theChangbai Mountaintundra isundergoing significantchanges in response toglobal climatechange.Onthe western slopesof the mountain,herbaceous plants have become invasiveandhaveexpandedtheirdistribution，whereas the importance of shrubs as the dominant plant type has been significantlyreduced.The present study investigated therelationship between herbaceous plant invasion and soil properties in $1 0 0 \\mathrm { m } \\times 1 6 0 0 \\mathrm { m }$ transects and 132 plots in August 2O14.The latitude，longitude，and elevation of the sample plots were measured using GPS，whereas slope measure，direction，and position were measured using a compass, andthe plantcommunitycharacteristics（species，height，number,coverage）andsoil thicknesswere recorded inthefield, whereas the physico-chemical properties( $\\mathbf { { n = } } 1 2$ ）of sieved soil samples( $_ { ( 0 - 1 0 \\mathrm { c m } ) }$ ）measured in the laboratory. Redundancyandcanonicalcorelation analyses indicated that the invasion degreeof the Changbai Mountain tundra varied significantlyandcouldbecategorizedintofive invasionlevels.Inaddition，tenofthesoilfactors（e.g.，elevation，slope, Total K,claycontent，organic matter content）were significantlycorelated with the degree of herb invasion，andthe sampleswith higher herbaceous invasion were mainlylocated inareas with lower elevations，greater slopes，relatively low mineral，organic nutrient，sand，andsiltcontents，andrelatively high claycontent.However，there wasno obvious relationship betweenherbacious invasionandavailable nutrient contents（availableN，availableP，availableK Redundancy analysis indicated that soil factors explained $93 \\%$ of the variation in plant species abundance and that the main soilfactors afecting herb invasion were organic matter content，claycontent，and slope，whereas shrub growth was mainly afected byorganicnutrientcontent.Furthermore，thedistributionsof the herbaceousplants Deyeuxiaangustifoliaand Sanguisorba stipulata wererelated tosoil thicknessand claycontent，respectivelyMeanwhile，canonicalcorelationanalysis indicatedthatsoilfactorsand plant speciesabundancewere significantlycorrelatedandthe habitats ofdiferent herbaceous specieswere significantly diffrent.More specifically，firstcanonicalvariables indicated thatorganic mater content was positivelycorrelated with Rhododendron chrysnthum abundance andnegatively correlated with S.stipulateabundance, whereas thesecondcanonicalvariablesindicated that elevationandavailable nitrogen content were negativelycorelated with the abundance of Vaccinium uliginosum and Geranium baishanense./ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：herbaceousplant invasion；physico-chemical soil property；soill factor；alpine tundrasoil；Changbai Mountain ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "长白山高山苔原位于长白山火山锥体上部（2000—2500m）,是我国大陆东部唯一典型的高山苔原,其环境特征与极地苔原相似,具有较高的研究价值[。在全球气候变化的背景下,长白山苔原带西坡发生了一系列的改变,最为明显的是原先位于较低海拔的草本植物不断上侵,而苔原带原有的灌木开始萎缩退化。由于苔原带环境的特殊性,植被与土壤之间的联系尤为密切。苔原地区植物生长通常受限于温度与土壤养分，土壤因素对植被发展影响很大[2-3]。同时,植物种类组成也会影响腐殖质分解等土壤过程[4]。Bartholomeus 等在西伯利亚苔原的研究表明,土壤理化性质会由于植被类别变化而发生较大的改变[5]。长白山高山苔原西坡植被发生了明显变化。1980年钱家驹记载的苔原带7个优势种中灌木6种,草本1种[6]。2014年植被调查表明,苔原带的7种优势植物灌木只有2种,草本增加到5种[7]。对于长白山高山苔原西坡植被的变化,许嘉巍等认为是岳桦林带的小叶章(Deyeuxia angustifolia)等草本植物入侵到苔原带[8]；目前,草本植物入侵的机理研究正在开展。王晓东等认为小叶章入侵与温度变化的关系密切[9];宗盛伟等研究了小叶章入侵过程和驱动机制，强调氮沉降增加使小叶章竞争能力增强，替代苔原带原有的灌木牛皮杜鹃（Rhododendronchrysanthum）和笃斯越橘（Vaccinium uliginosum）[10-1];靳英华等注意到入侵苔原带的多种草本植物对温度和氮沉降增加存在着的差异性响应,提出了草本植物入侵的机制可能是多样的观点,认为气候变化、火山干扰下的植被演替、种子雨强度变化等对草本植物入侵有重要的影响[7,12-13]。本文采用时空替换法,将目前苔原带的草本入侵程度划分为五个等级,推演草本植物入侵过程中苔原带土壤的变化,探讨草本植物入侵程度与土壤理化性质之间的相关性。长白山苔原带草本植物在空间分布上是离散的,呈斑块状。可见,草本植物入侵，对生境是有所选择的。鉴于植物与土壤之间的关联密切,分析草本植物入侵程度与土壤性质的关系,成为理清西坡苔原植被变化的基础和关键,有助于理清长白山苔原带草本入侵机制,也有助于预测草本植物下一步的入侵和扩展趋势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在全球气候变化背景下,苔原带植被敏感,变化显著,高山苔原植被的变化更为领先,所以高山苔原植被的变化对全球气候变化具有指导意义。为全球范围内存在的高山植被带上移现象提供实证参考,为灌木苔原退化对全球气候变化响应的一般模式提供基础数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区位于长白山西坡苔原带。长白山地处吉林省东南,是中国东北最高山峰( $2 6 9 1 \\mathrm { m } )$ 。研究区经纬度范围 $\\mathrm { 4 1 ^ { \\circ } 5 8 ^ { \\prime } - 4 1 ^ { \\circ } 5 9 ^ { \\prime } N , 1 2 7 ^ { \\circ } 5 9 ^ { \\prime } - 1 2 8 ^ { \\circ } 0 1 ^ { \\prime } E }$ ,海拔在 $2 0 4 6 { - } 2 2 9 1 \\mathrm { m }$ 之间,位于长白山西坡苔原带的核心区域。气候类型为温带大陆季风型(亚)高山气候,温度低,年平均气温仅 $- 7 . 3 \\mathrm { { ^ C } }$ ,6—9月生长季的日平均气温为$5 . 8 7 ^ { \\circ } \\mathrm { C }$ ;年均降水量为 $1 3 4 0 \\mathrm { m m }$ ,主要集中在6一9月，约占全年降水量的 $8 0 \\%$ 左右。土壤为苔原土,土壤有机质丰富,土层较薄,剖面发育不明显而且土壤具有明显的粗骨性特点[14]。 2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样地调查与取样 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2014 年8月在研究区长白山苔原带西坡布设了 $1 0 0 \\mathrm { m } \\times 1 6 0 0 \\mathrm { m }$ 的样带,海拔在 $2 0 4 6 - 2 2 9 1 \\mathrm { m }$ 之间。如图1,沿样带主方向每隔 $5 0 \\mathrm { m }$ ,横向设置样条,均匀布设4个 $\\mathrm { 1 m } { \\times } 1 \\mathrm { m }$ 的样方,共计 $3 3 \\times 4 = 1 3 2$ 个样方。用GPS测得样方的经纬度、海拔;用罗盘测得坡度、坡向和坡位;记录土壤厚度及植物群落指标(植物种、株高、株数、盖度);用土钻对每个样方重复3次取0— $1 0 \\mathrm { { c m } }$ 的表层土壤,去除根系和石块后带回实验室。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6cb0022bb7a74a0c194b750c7e391b39e2ee843ed5ff8ae58c4385243c0d206.jpg",
+        "img_caption": [
+            "图1样带采样点位置图",
+            "Fig.1Transect sampling site location map "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 室内实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在实验室共测定了土壤理化指标12项。其中,土壤有机质含量采用重铬酸钾容重法测定;土壤速效 N采用碱解扩散法测定；土壤TN（用混合催化剂,浓 ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ 浸提） $\\mathrm { T P }$ （用 $\\mathrm { ~ H } _ { 2 } \\mathrm { S O } _ { 4 }$ ， $\\mathrm { H C l O } _ { 4 }$ 浸提）、速效P（用${ \\mathrm { N a H C O } } _ { 3 }$ 浸提)经过前处理后,均采用连续流动化学分析仪（SKALAR $\\mathrm { S A N + + }$ )测定；土壤TK（用浓 ${ \\mathrm { H N O } } _ { 3 }$ ，$\\mathrm { H C L O } _ { 4 }$ ,HF 浸提）、速效K（用乙酸铵浸提)采用电感耦合等离子体发射光谱(ICPS-7500)测定;在土壤的物理组成中,粘粒是指粒径小于 $2 \\mu \\mathrm { m }$ 的土壤颗粒，粉粒代表粒径在2— ${ \\cdot } 5 0 \\mu \\mathrm { m }$ 之间的土壤颗粒,而沙粒则是粒径在",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "50— $2 0 0 0 \\mu \\mathrm { m }$ 之间的土壤颗粒。土壤粘粒、粉粒、沙粒含量用激光粒度仪测定;土壤富里酸碳量和胡敏酸碳量用焦磷酸钠浸提-重铬酸钾氧化法测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用Excel软件对各植物种的密度、频度和盖度进行统计;利用Canoco4.5 对数据进行RDA冗余分析;并利用 SPSS 19.0进行土壤因子与植被多度的典型相关分析。典型相关分析是通过多个典型变量间的相关关系来综合描述两组变量间关系的一种多元分析数学方法,目前已广泛应用于各个领域[15-7]。设两组变量：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { X _ { 1 } , X _ { 2 } , X _ { 3 } { \\cdots } { \\cdots } { \\cdot } X _ { _ { p } } } } \\\\ { { Y _ { 1 } , Y _ { 2 } , Y _ { 3 } { \\cdots } { \\cdots } Y _ { _ { q } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其线性组合为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV { = } L _ { 1 } X _ { 1 } { + } L _ { 2 } X _ { 2 } { + } L _ { 3 } X _ { 3 } { + } { \\cdots } { \\cdots } { + } L _ { P } X _ { P }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW / = M _ { 1 } Y _ { 1 } + M _ { 2 } Y _ { 2 } + M _ { 3 } Y _ { 3 } + \\cdots \\cdots + M _ { q } Y _ { q }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中，V与 $W$ 为典型变量， $L$ 为 $X$ 组变量线性组合的系数; $M$ 为 $Y$ 组变量线性组合的系数;它们之间的相关系数为 $\\lambda$ ,即典型相关系数。 ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同草本入侵程度下的苔原土特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "长白山西坡苔原带研究样地30a 前为灌木苔原,主要是灌木和苔藓地衣,很少有草本植物[18-19]。宗盛伟等[11]依据小叶章与牛皮杜鹃的光谱差异及其反演的植被指数,通过空间影像数据分析了长白山苔原带西坡在1983年,1999年,2002年,2006年,2008年,2012年以来的植被变化。该研究的结果显示,小叶章侵入苔原带始于20 世纪80年代后期,由低海拔向高海拔推进,进人21世纪后逐渐形成了稳定的小叶章为优势物种的植物群落结构。目前长白山西坡苔原带的草本植物主要来自较低海拔的岳桦林下,随着时间的推移不断向上入侵,甚至取代原有灌木优势种。将目前苔原带的草本人侵状况划分为5个等级,采用时空替换法,探讨草本植物入侵程度与土壤理化性质之间的相关性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1长白山苔原带草本入侵程度分级 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过草本植物与灌木的盖度比 $\\scriptstyle { a }$ ,将132个样方划分为5个等级,分别为：无入侵( $\\stackrel { } { a } \\leqslant 0 . 1 \\dot { }$ ），轻度入侵(0.1$< a \\leqslant 0 . 3 )$ ，中度入侵( $0 . 3 { < a \\leqslant } 0 . 6 )$ ，重度人侵( $0 . 6 < a \\leqslant 0 . 9 ,$ ，全入侵（ $0 . 9 < a \\leqslant 1$ )。表1是各入侵等级中每种植物的平均盖度。 A",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf1966175b5a52932e8843a737b6d99d437a7626551d2385aba99989f1108e3e.jpg",
+        "table_caption": [
+            "表1不同入侵程度的植物种类及其盖度/ $\\%$ ",
+            "Table 1 Plant species and their coverage under different invasion degree "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>植物种类 Plant species</td><td>无人侵 No invasion</td><td>轻度入侵 Mild invasion</td><td>中度入侵 Moderate invasion</td><td>重度入侵 Severe invasion</td><td>全人侵 Full invasion</td></tr><tr><td colspan=\"2\">牛皮杜鹃 Rhododendron chrysanthum</td><td>75.00</td><td>74.97</td><td>68.65</td><td>21.92</td><td>0.53</td></tr><tr><td colspan=\"2\">笃斯越桔Vcceinium uliginosum</td><td>79.00</td><td>23.14</td><td>5.58</td><td>0.00</td><td>0.00</td></tr><tr><td colspan=\"2\">小白花地榆 Sanguisorba parviflora</td><td>2.40</td><td>15.31</td><td>21.21</td><td>15.08</td><td>2.67</td></tr><tr><td colspan=\"2\">大白花地榆 Sanguisorba stipulata</td><td>0.00</td><td>1.39</td><td>2.81</td><td>28.58</td><td>52.26</td></tr><tr><td colspan=\"2\">单花橐吾 Ligularia jamesii</td><td>0.00</td><td>0.61</td><td>4.12</td><td>15.75</td><td>18.28</td></tr><tr><td colspan=\"2\">长白老鹤草 Geranium baishanense</td><td>0.20</td><td>2.18</td><td>6.35</td><td>8.92</td><td>2.37</td></tr><tr><td colspan=\"2\">高岭风毛菊 Saussurea tomentosa</td><td>2.40</td><td>5.00</td><td>10.81</td><td>4.83</td><td>1.35</td></tr><tr><td colspan=\"2\">小叶章Deyeuxia angustifolia</td><td>0.00</td><td>1.21</td><td>13.70</td><td>16.42</td><td>24.16</td></tr><tr><td colspan=\"2\">总灌木 Total shrub</td><td>154.00</td><td>98.11</td><td>74.23</td><td>21.92</td><td>0.53</td></tr><tr><td colspan=\"2\">总草本 Total herbaceous</td><td>5.00</td><td>25.70</td><td>59.00</td><td>89.58</td><td>101.09</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2不同草本入侵程度下的土壤因子统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "草本植物入侵程度与土壤因子相关,土壤因子包括土壤理化因子和土壤环境因子(海拔、坡度、坡位、坡向)。其中,坡位分为坡顶、上部、中部、下部、坡底五种,在统计中分别赋值1、2、3、4、5;坡向分为西、东南、西南、南四种,在统计中分别赋值1、2、3、4。将不同入侵程度下的土壤因子进行统计(表2),随着草本入侵程度的加重,海拔、坡度、全氮、全钾、有机质、富里酸、胡敏酸、粘粒、粉粒和沙粒含量有明显的变化趋势,而坡位、坡向和速效养分含量变化上下浮动,没有明显的升高或降低趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1ec0274a8a88e76cf9d6a833e00fe4f13df9b31fc78b75fd3a059cf20d372c9.jpg",
+        "table_caption": [
+            "表2不同草本入侵程度下的土壤因子平均值",
+            "Table 2Average value of soil factors under different invasion degree "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土壤因子 Soil factor</td><td>无人侵 No invasion</td><td>轻度入侵 Mild invasion</td><td>中度入侵 Moderate invasion</td><td>重度入侵 Severe invasion</td><td>全入侵 Full invasion</td></tr><tr><td>海拔 Elevation/m</td><td>2200.8±33.12</td><td>2159.9±63.98</td><td>2158.93±59.76</td><td>2143.00±51.97</td><td>2161.44±54.2</td></tr><tr><td>坡度 Slope/(°)</td><td>15.8±7.26</td><td>23.16±10.68</td><td>21.23±10.72</td><td>33.08±21.13</td><td>28.38±13.32</td></tr><tr><td>坡位 Slope position</td><td>3±1.41</td><td>2.52±0.87</td><td>2.77±1.11</td><td>2.63±0.67</td><td>3.23±1.01</td></tr><tr><td>坡向 Slope direction</td><td>3±1.41</td><td>3.56±0.89</td><td>3.46±0.84</td><td>3.92±0.29</td><td>3.29±1.04</td></tr><tr><td>土壤厚度 Soil thickness /cm</td><td>13.5±1.94</td><td>10.45±2.93</td><td>10.90±3.14</td><td>11.61±2.76</td><td>10.2±2.26</td></tr><tr><td>全氮 Total Nitrogen/(g/kg)</td><td>9944.88±2517.71</td><td></td><td>7878.45±2264.52 8568.96±2376.44</td><td>7926.08±2116.05</td><td>7658.66±2330.07</td></tr><tr><td>全磷 Total Phosphorus/（g/kg)</td><td>731.29±248.1</td><td>711.15±239.5</td><td>785.81±111.8</td><td>880.82±170.45</td><td>711.16±133.83</td></tr><tr><td>全钾 Total Potassium/（g/kg)</td><td></td><td></td><td>20620.13±3120.23 19474.35±2892.1912646.94±3306.86 12664.45±1569.81</td><td></td><td>11092.61±10012.67</td></tr><tr><td>速效钾Available Potassium/(mg/kg)</td><td>156.48±23</td><td>157.41±53.21</td><td>167.54±59.11</td><td>146.4±51.18</td><td>165.85±46.61</td></tr><tr><td>速效磷Available Phosphorus/(mg/kg)</td><td>6.84±3.54</td><td>6.98±3.1</td><td>8.45±4.31</td><td>9.03±5.52</td><td>8.98±3.8</td></tr><tr><td>速效氮 Available Nitrogen/(mg/kg)</td><td>653.18±167.77</td><td>607.87±136.21</td><td>685.09±159.61</td><td>585.9±133.16</td><td>700.13±157.62</td></tr><tr><td>有机质 Organic matter ／%</td><td>29.04±9.85</td><td>25.36±7.98</td><td>26.22±6.23</td><td>20.21±6.5</td><td>18.16±6.26</td></tr><tr><td>富里酸碳量 Fulvic acid matter/%</td><td>4.88±3.14</td><td>3.34±1.73</td><td>3.82±1.73</td><td>3.13±1.29</td><td>2.77±1.66</td></tr><tr><td>胡敏酸碳量 Humic acid matter/%</td><td>4.18±1.67</td><td>3.73±2.17</td><td>4.01±1.55</td><td>2.97±1.4</td><td>3.02±1.35</td></tr><tr><td>粘粒 Clay matter/(cmol/kg)</td><td>6.7±1.47</td><td>6.46±1.22</td><td>6.55±1.95</td><td>7.91±2.01</td><td>8.63±1.84</td></tr><tr><td>粉粒 Silt content/（cmol/kg)</td><td>55.91±11.30</td><td>56.5±7.49</td><td>56.79±11.19</td><td>61.32±9.69</td><td>63.18±8.36</td></tr><tr><td>沙粒 Sand content /（cmol/kg)</td><td>37.39±12.63</td><td>37.05±8.56</td><td>36.67±13.04</td><td>30.77±11.51</td><td>28.19±9.99</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过折线图直观地描绘出海拔、坡度、全氮含量、有机质含量、沙粒含量等10种土壤因子随着草本入侵程度加重的变化趋势(图2)。从土壤环境因子上来看,草本植物入侵程度较重的样方主要位于苔原带海拔较低和坡度较大的区域。从土壤理化性质指标来看,草本入侵程度较重的样方土壤全氮含量、全钾含量、有机质含量以及富里酸、胡敏酸含量均较少,土壤中沙粒含量较少而粘粒及粉粒含量较多。长白山苔原带草本入侵程度较重的样方主要位于海拔较低、坡度较大的区域,草本入侵程度较重时,土壤中的矿质养分和有机养分均较低;沙粒和粉粒含量较少而粘粒含量较多;速效养分没有明显的变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2入侵程度与土壤因子的 RDA分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对苔原带主要植物物种数据进行除趋势对应分析（Detrended Corespondence Analysis，DCA）,结果中第-轴的lengths of gradient为2.925,小于3,说明该数据适于进行RDA分析。植物种类与土壤因子的 RDA分析统计表明(表3）,在长白山高山苔原带,土壤因子与植物种类间的相关系数在第一轴上为0.66,在第二轴上为0.42,植物物种的 $9 3 \\%$ 能够被土壤因子所解释。经过Monte Carlo 检验,第一轴和第二轴的显著性检验 $P$ 值均为0.002。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RDA分析的第一轴能解释 $8 7 . 3 \\%$ 的信息,第二轴能解释 $5 . 7 \\%$ 。如图3,与第一轴相关的土壤因子主要是有机质含量,粘粒含量和坡度;与第二轴相关的土壤因子主要是土壤厚度、速效钾含量和海拔。因此影响长白",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2210 35 23000 11000 ()/N   \nWpmte 2020202020 海度 30252051 （)/edors / 全 100   \n2150 5 11000 4000   \n2140 0 9000 3000 有 中 重 王 中 重   \n(reerepreeente →粉粒 沙粒 ↓\\*粘粒 Hrairlreerreenerrprelrl +富里酸碳量 \\*有机质   \n喜 7065605504540353025 005 805 雪 (rreteetea 5.5 4540 →胡敏酸碳量 312927 2523 Nrrere geeereern 7.0 3.5 21197 6.5 3.0 6.0 2.5 15 中 重 王 中 重 王 入侵程度 Degree of invasion ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "山苔原带草本植物入侵的主要土壤因子是与第一轴相关的因子,即有机质含量,粘粒含量和坡度。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3d251de3cf58391fc69c465b4892ef7f3c699e70f61a58c225151689ea2407d.jpg",
+        "table_caption": [
+            "表3长白山高山苔原带植物种类与土壤因子的RDA分析统计信息",
+            "Table 3Summary statistics for the axes of RDA performed on the Alpine tundra，Changbai "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>轴Axis</td><td>轴1Axis1</td><td>轴2Axis2</td></tr><tr><td>特征值 Eigenvalues</td><td>0.284</td><td>0.018</td></tr><tr><td>植物种类与土壤因子相关性 Spec.-env.Correlation</td><td>0.663</td><td>0.423</td></tr><tr><td>物种变异累计百分数 Cum.Percentage variance of spec.-env.Relation</td><td>87.3</td><td>93</td></tr><tr><td>总特征值Sum of all eigenvalues</td><td colspan=\"2\">1</td></tr><tr><td>总典范特征值 Sum of all canonical eigenvalues</td><td colspan=\"2\">0.325</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图3中所标记的五个人侵等级的132个样点中,能明显看出第二轴是样方入侵程度的分界线：第二轴的左侧即二、三象限,主要分布着高入侵程度的样方;第二轴的右侧即一、四象限,主要分布着低入侵程度的样方。两种灌木(高山笃斯越桔和牛皮杜鹃)都分布在第二轴的右侧,草本植物中的小白花地榆和高岭风毛菊也分布在右侧;其他所有植物都分布在左侧,且都是草本植物。草本入侵程度主要沿着第一轴的方向变化,说明与第一轴相关的因子是主要影响草本入侵的土壤因子。图中植物的分布也可以看出,两个灌木物种中,牛皮杜鹃主要与有机质含量正相关,而笃斯越桔主要与富里酸碳量正相关,可见灌木物种的生长受到土壤中的有机养分含量的影响。而几种草本物种中：大白花地榆明显与粘粒含量正相关,小叶章和长白老鹳草明显与土壤厚度正相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤因子与各草本植物多度的典型相关分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "典型相关分析是利用综合变量对之间的相关关系来反映两组指标之间的整体相关性的多元统计分析方法。分别对自变量组和标准变量组提取典型变量，把原来两组变量之间整体的线性相关关系,转化为研究从各组中提取出的典型变量之间的典型相关关系。常用来客观、定量地分析不同生物群落特征与其生境因子间的生态关系等[20-21],能够揭示两组变量之间的内在联系,比仅考虑单个指标间相关关系的简单相关分析更",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfbdcee821fd08bc0898a5651408d1e9971229648a880b846cd1509094104e84.jpg",
+        "img_caption": [
+            "图3长白山高山苔原带植物物种与土壤因子的RDA分析",
+            "Fig.3RDA of plant species and soil factors of Alpine tundra，Changbai mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有效[22]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.1典型相关变量及显著性水平",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文选取长白山苔原带土壤环境因子和土壤理化因子15个指标作为自变量组 $( X )$ ,8种植物的多度以及草本植物与灌木植物的多度比和盖度比作为标准变量(Y)，如表4。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4本文选取的指标变量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0bbf7400154486c98f9c4dea9c65ddb8cd352ec7a8c268e3f2141f4e8bf6032.jpg",
+        "table_caption": [
+            "Table 4Selected variables in this study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量组 Variable group</td><td>筛选后的变量 Variables after screening</td></tr><tr><td>自变量组(X) Independent variables group</td><td>海拔(Xi）、坡度(X）、坡位（X）、坡向（X4）、土壤厚度（X5）、全氮（X）、有机质（X）富里酸碳量（Xg）、 胡敏酸碳量(X）、粘粒(X10）、粉粒(X）、沙粒(X12）、速效K(X13）、速效P(X14）、速效N(X15)</td></tr><tr><td>标准变量组（Y） Standard variables group</td><td>草灌多度比(Y）、草灌盖度比(Y）、牛皮杜鹃(Y）、小白花地榆(Y4）、大白花地榆(Ys）、单花橐吾（Y6）、 长白老鹳草(Y,）、高岭风毛菊（Yg）、笃斯越桔(Y）、小叶章(Y10)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对表4中的标准变量和自变量进行典型相关分析,获得典型变量10对,而前3对典型变量通过X²统计检验,相关系数分别为0.753、0.676和0.577,前两对的检验结果为极显著( $_ { _ { P < 0 . 0 1 ) } }$ 。其典型相关系数的平方分别为0.567和0.457，说明前两组群落生物过程典型变量 $56 . 7 \\%$ ） $4 5 . 7 \\%$ 的信息可由相应的土壤典型变量予以解释。以 $V$ 与 $W$ 为典型变量,典型相关系数 $\\lambda$ 为 $X$ 组与 $Y$ 组变量系数,列出前两对典型变量的表达式。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.2典型相关变量表达式及典型相关系数",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第一对典型变量 $( V _ { 1 } , W _ { 1 } )$ 的函数表达式如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "V =0.314X-0.329X-0.153X-0.141X4+0.188X5+0.162X6+0.603X,+0.224Xg+0.453X,-0.624X10 $0 . 4 6 X _ { _ { 1 1 } } + 0 . 4 9 6 X _ { _ { 1 2 } } + 0 . 0 4 7 X _ { _ { 1 3 } } - 0 . 3 2 6 X _ { _ { 1 4 } } - 0 . 0 8 5 X _ { _ { 1 5 } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（20号 $W _ { 1 } = - 0 . 8 4 6 Y _ { 1 } - 0 . 8 5 9 Y _ { 2 } + 0 . 6 5 7 Y _ { 3 } + 0 . 6 0 1 Y _ { 4 } - 0 . 6 8 8$ $8 Y _ { 5 } - 0 . 4 3 1 Y _ { 6 } - 0 . 1 6 6 Y _ { 7 } + 0 . 3 6 Y _ { 8 } + 0 . 1 8 2 Y _ { 9 } - 0 . 0 4 7 Y _ { 1 0 }$ （204号",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第一对典型变量的负载系数中：自变量组以有机质 $( 0 . 6 0 3 X _ { 7 }$ ）粘粒含量 $( - 0 . 6 2 4 X _ { 1 0 } )$ )的权重系数较大；除草灌盖度比和草灌多度比外,标准变量组以大白花地榆多度 $( - 0 . 6 8 8 Y _ { 5 }$ ）、牛皮杜鹃多度 $( 0 . 6 5 7 Y _ { 3 }$ )的权重系数较大,该对典型变量说明了长白山草灌多度比和盖度比、大白花地榆、牛皮杜鹃多度主要受到有机质和粘粒含量的影响。而根据典型负载系数的正负情况,可以推断第一组典型变量主要解释了牛皮杜鹃和大白花地榆之间的竞争关系。有机质含量与牛皮杜鹃多度正相关,与大白花地榆多度负相关,粘粒含量则相反。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第二对典型变量 $( V _ { _ 2 } , W _ { _ 2 } )$ 的函数表达式如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "V=0.827X-0.079X+0.327X-0.164X4+0.061X5+0.292X+0.053X-0.124Xx+0.385X +0.364+ ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 2 0 2 X _ { 1 1 } - 0 . 2 3 6 X _ { 1 2 } + 0 . 4 2 9 X _ { 1 3 } + 0 . 1 5 0 X _ { 1 4 } + 0 . 5 9 5 X _ { 1 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf \\Pi } _ { 2 } ^ { \\prime } = 0 . 3 5 9 Y _ { 1 } + 0 . 3 4 6 Y _ { 2 } - 0 . 4 1 6 Y _ { 3 } - 0 . 2 5 6 Y _ { 4 } + 0 . 3 3 7 Y _ { 5 } - 0 . 0 6 9 Y _ { 6 } - 0 . 4 7 1 Y _ { 7 } - 0 . 1 8 4 Y _ { s } - 0 . 5 1 3 Y _ { s } + 0 . 0 5 1 Y _ { 1 0 } + 0 . 3 3 5 Y _ { 8 } - 0 . 4 7 1 Y _ { 7 } - 0 . 0 9 1 2 Y _ { 8 } + 0 . 4 7 3 Y _ { 8 } . nonumber\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第二对典型变量的负载系数中：自变量组以海拔 $( 0 . 8 2 7 X _ { 1 }$ )、速效氮含量 $( 0 . 5 9 5 X _ { 1 5 } | )$ ）的权重系数较大；标准变量组以笃斯越桔多度 $\\left( - 0 . 5 1 3 Y _ { 9 } \\right)$ ）、长白老鹳草多度 $( - 0 . 4 7 1 Y _ { 7 }$ )的权重系数较大，该对典型变量说明了笃斯越桔、长白老鹳草多度主要受到海拔和速效氮含量的影响。而根据典型负载系数的正负情况，可以推断第一组典型变量主要解释了笃斯越桔和长白老鹳草之间的联结关系,海拔、速效氮含量与笃斯越桔、长白老鹳草多度呈负相关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前关于长白山苔原带草本植物入侵的原因分析主要有温度升高、氮沉降、种子雨强度变化等,在这些因素的影响下,苔原带的草本植物从低海拔到高海拔入侵,而入侵的草本植物在空间分布上是离散的、呈现斑块状。由此可见,草本植物入侵,对生境是有所选择的,而土壤就是一个重要的生境因素(包括土壤环境因子和土壤理化性质因子)。草本植物入侵的区域选择,与土壤理化性质和环境因子密切相关。甚至土壤理化性质和环境因子还规定了草本植物入侵(潜在)发展程度。当然,随着草本植物入侵,土壤也会发生一定的变化。二者在变化中相互反馈和影响,最终呈现出某些联结关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1土壤环境因子与草本入侵之间的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "王晓东等[9认为在坡度较小 $( < 5 ^ { \\circ } )$ 和较大( $> 4 2 ^ { \\circ }$ )的地方，小叶章的生长占优势，而在坡度 $1 2 ^ { \\circ }$ 一 ${ \\cdot } 4 2 ^ { \\circ }$ 之间牛皮杜鹃的生长占优势。本文得出的分析结果是,132个样方中,无入侵的样方平均坡度为 $1 6 ^ { \\circ }$ ,轻入侵和中入侵的样方平均坡度分别是 $2 3 ^ { \\circ }$ 和 $2 1 ^ { \\circ }$ ,重入侵和全入侵的样方平均坡度分别是 $3 3 ^ { \\circ }$ 和 $2 8 ^ { \\circ }$ 。也即,坡度大的地方,草本植物的生长占优势,与王晓东得出的结论相似。主要是由于坡度大的地方,灌木植物不易着生和定植,而草本植物的种子传播方式具有一定的定植优势。这与灌草两种植物的生长习性有关。由此可见,长白山苔原带的草本植物在人侵的过程中,会先在坡度较大的地方生长成片,然后慢慢扩植。而从RDA 分析来看，与坡度呈正相关的植物主要是长白老鹳草和大白花地榆。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "宗盛伟等[1,23]的研究表明长白山苔原带的小叶章等草本植物存在沿着海拔升高逐渐侵入苔原带的趋势,在世界范围内也存在着植物向高海拔地区侵入高山生态系统中的现象[24],Chen 等的研究表明,物种的分布以11m/10a 的速度正在往高海拔地区迁移,同时也以 $1 6 . 9 \\mathrm { k m / 1 0 a }$ 的速度在向高纬地区迁移[25]。海拔主要通过对水热因子等的再分配来影响着植物分布和草本植物的入侵。研究表明,长白山苔原带草本植物入侵程度较重的样方主要位于苔原带海拔较低的区域,典型相关分析得出海拔与长白老鹳草多度呈负相关。这是由于长白山苔原带草本植物是由较低海拔的岳桦林下向上扩展的,一方面受到种子传播距离的限制;另一方面随着海拔升高，气温下降，种子萌发以及植物生长受限。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4个土壤环境因子中,坡向和坡位对于长白山苔原带草本植物入侵的影响相对较小;海拔主要决定草本入侵的基本条件,包括种子的来源和植物的生长温度的范围;坡度则影响草本植物的扩展和定植。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2土壤理化性质因子与草本入侵之间的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从土壤颗粒组成上看,Kammer等[26]在瑞士阿尔卑斯山的研究表明,在气候变化的背景下,土壤持水能力是影响对植物种竞争的一个至关重要的因素,对于理解和预测植物物种对高山地区的气候变化的反应必不可少。而土壤颗粒组成是影响土壤持水能力的首要因素,本文的研究也表明土壤粘粒含量对各种植物多度的影响较大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从土壤有机养分含量来看,本文得出的结论中表明两种灌木物种多度均土壤有机含量正相关。许多研究者[27-29]在青藏高原高寒草甸的研究也表明,随着高山草甸植被的退化,植物物种多样性、生产力和表层 30cm的土壤肥力均在减小。随着灌木植被的退化,长白山苔原土的有机质含量有明显减少,可能的原因是,灌木物种枯枝落叶较丰富,相较于草本,能给土壤提供更多的有机质来源。另外,灌木主要是直根系,而草本主要是须根系,根系对土壤养分也有显著的影响,Meier等[30]的研究表明,植物根系会通过一种酚类物质来影响土壤微生物和土壤养分循环,且这一点在高山生态系统中尤为显著。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从土壤矿质养分含量来看,长白山苔原带草本入侵程度较重的样方土壤全氮含量、全钾含量均较少,速效养分没有明显的变化。而Zamin等[31]在加拿大苔原的试验研究结果表明,随着气温的升高,苔原带土壤的养分含量明显增加,且植物生物量也在增加。Michelsen 等[32]在瑞典苔原带的研究表明,通过4a的人工施加氮和磷的实验,矮小灌木的代表植物笃斯越桔的盖度变化很小,而禾本科的代表植物羊茅(Festuca ouin）的盖度却显著增加。说明在全球气候变暖和大气氮沉降加剧会促进很多苔原地区的草本植物生长,氮沉降也会促进长白山苔原带的草本入侵[33-3],但是在氮沉降和草本入侵两种因素的同时影响下,多数苔原土壤矿质养分含量（如 TP、速效N等)的变化较为复杂,没有明显的增加或减少的趋势。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外,在长白山苔原带,随着草本植物的入侵,灌木苔原的退化,灌木层下的苔藓植物也随之退化和减少，Bret-Harte 等[35]在阿拉斯加苔原的研究也表明氮沉降等气候变化会导致苔藓植物生物量减少。而苔藓植物的减少对土壤性质也有一定的影响。Wang 等[3]通过稳定同位素的标记研究表明,苔藓植物更易于吸收铵态氮,而维管植物更易于吸收硝态氮;且维管植物具有更发达的根系和维管组织且能进行光合作用,因而其氮利用效率要远高于苔藓植物。因此随着苔藓植物减少，苔原土壤和植物间的氮交换情况发生改变。伴随着高山苔原带原始灌木苔原的退化,草本植物的入侵,苔藓植物的减少等植被变化;苔原土壤也发生一系列复杂的变化,土壤与植被间有复杂的联系和反馈。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "长白山苔原带草本入侵程度差异明显,可分为5个不同的入侵等级;草本植物入侵程度与海拔、坡度、全氮、有机质、粘粒含量等10种土壤因子明显相关;草本入侵程度较重的样方主要位于海拔较低、坡度较大的区域,草本入侵程度较重时,土壤中的矿质养分和有机养分均较低,沙粒和粉粒含量较少而粘粒含量较多,速效养分没有明显的变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "RDA分析能解释植物分布的 $9 3 \\%$ 的信息,影响草本植物入侵的主要土壤因子是有机质含量,粘粒含量和坡度。灌木植物的生长与土壤中的有机养分含量有关,而草本植物中,小叶章的分布与土壤厚度有关,大白花地榆的分布与粘粒含量有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不同的草本植物入侵的生境选择存在明显差异。两对典型变量的 $56 . 7 \\%$ ， $4 5 . 7 \\%$ 的信息可由相应的土壤因子典型变量予以解释,第一对典型变量说明有机质含量与牛皮杜鹃多度正相关,与大白花地榆多度负相关，粘粒含量则相反;第二对典型变量主要说明了海拔、速效氮含量与笃斯越桔、长白老鹳草多度呈负相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "［1］黄锡畴，李崇皜.长白山高山苔原的景观生态分析.地理学报，1984，39(3)：285-297.  \n[2]ChapinIF,averGR,GblAE,NdeloferKJ,LndreJAResposesofrctictundraxperimentadobseredhagsinclimate.Ecology，1995，76(3）：694-711.  \n[3]WalkerMD,WahrenCH,HoiterRD,HenryGHR,hlqusLE,AlataoJM,Bret-HarteMS,CalefMP,CallghanTV,lB,EpsteinHE,JsdtirISKleinJA,MagsonB,olaU,OberbauerSF,ewaSP,RobinsoCH,ShaverGR,udigKoCC,TolvaneA,Totand，uerP,TeedieCE,Webber，Wokey.lantonityesposestxperintalwaingce  \n[4]HobbieSE，oughLLiterecompositioinoistcidicando-acdicundaithdifretacialistorieOecologia，4（）：113- 124.  \n[5]Barto-tbDfUdaltoatatifletlwith plant species composition.Applied and Environmental Soil Science，2012,2012：241535.  \n[6] 钱家驹，张文仲.长白山高山冻原植物的调查研究简报（I).吉林师大学报：自然科学版，1980，（1)：49-65.  \n[7] 靳英华，许嘉巍，刘丽娜，贺红士，陶岩，宗盛伟，杜海波，王雷，朱瑞帅.长白山苔原带优势植物种的分布格局及其关联性研究.地理科学，2016,36(8)：1212-1218.  \n[8] 许嘉巍，张飞虎.长白山自然地理研究的几个主要问题//王野乔，吴正方，冯江.长白山地理系统与生态安全-第四辑.长春：东北师范大学出版社，2010：266-274.  \n[9] 王晓东，刘惠清，董炜华，范卫红，吴正方.长白山西坡林线牛皮杜鹃与小叶章对气温上升响应的对比分析.地理研究,2015，34（6)1044- 1052.  \n[10] 宗盛伟，许嘉巍，吴正方.长白山西坡小叶章侵入苔原带调查与机理分析.山地学报,2013,31(4)：448-455  \n[11] 宗盛伟，许嘉巍，吴正方，乔琳琳,王丹丹,孟祥君，杜海波，王雷,王丹，王鹏，敖小龙，夏毓璘,吴福梅.长白山西坡小叶章侵入苔原带过程及影响.生态学报，2014，34（23)：6837-6846.  \n[12] 靳英华，许嘉巍，宗盛伟，王鹏.氮沉降对长白山苔原植被影响的试验研究.地理科学，2014，34(12)：1526-1532.  \n[13] 靳英华，许嘉巍，梁宇，宗盛伟.火山干扰下的长白山植被分布规律.地理科学，2013，33（2)：203-208.  \n[14] 孟宪玺.长白山的高山苔原土.地理科学，1982，2(1)：57-64.  \n[15] 林德光.典型相关及其在热带作物研究中的应用.热带作物学报，1997，18(1)：24-35.  \n[16] 米湘成，上官铁梁，张金屯，张峰.典范趋势面分析及其在山西省沙棘灌丛水平格局分析中的应用.生态学报，1999,19(6)：798-802.  \n[17] TerBrakCJoalesdeeasgeveoefoieiegatalsisol（）1167-1179.  \n[18] 钱宏.长白山高山冻原植物群落的数量分类和排序.应用生态学报，1990，1（3)：254-263.  \n[19] 黄锡畴，刘德生，李祯.长白山北侧的自然景观带.地理学报，1959,25(6)：435-446.  \n[20] 周然，覃雪波，彭士涛，石洪华，邓仕槐.渤海湾大型底栖动物调查及与环境因子的相关性.生态学报，2014，64（1)：50-58.  \n[21] 肖庆聪，魏源送，王亚炜，钟佳，于淼，杨勇，郁达伟，曾凡刚，郑祥，孙贻超，周滨.天津滨海新区湿地退化驱动因素分析.环境科学学报，2012，32(2)：480-488.  \n[22] 王芳，陈胜可，冯国生.SAS 统计分析与应用.北京：电子工业出版社，2011：282-284.  \n[23] Zong SW，XuJW，DegeE，WuZF，HeHS.Efectiveseedistibutionpaternof anupwardshiftspeciesinalpinetundraofChangbaiMountains.Chinese Geographical Science，2016,26(1）：48-58.  \n[24] LenoirJ,GegoutJC,aretPA,deuraP,riseH.AsignifiantupwardshiftiplantspeiesotiuelevatioingteOthtuyScience，2008，320(5884)：1768-1771.  \n[25] ChenIC，HillJK,OlemlerR，RoDB,omasCDRapidrangeshiftofspeciesssociatedwithhighlevelsof cimate warmngScienc,2011,333(6054)：1024-1026.  \n[26] KammerPM,chbC,EberhardG，GalinaR，MeyerR，TschanzC.Terelationshipbetweensoil waterstoragecapacityandplantspeiesdiversity in high alpine vegetation.Plant Ecology& Diversity，2013,6(3/4）:457-466.  \n[27] WangXX,DongSK,YgB,iuXKeetsfassegatioopeitaypructivitydrtlityinthe alpieregion of Asia's headwaters.Environmental Monitoring and Assessment，2014,186(10）:6903-6917.  \n[28] DongSK，WenL，LiYY，WangXX，ZuLLiXY.SolqualityefectsofgrassaddegradationandrestorationontheQighbetanPlateau. Soil Science Society of America Journal, 2012，76(6): 2256-2264.  \n[29] WangCT,LongRJWgQLJingZC,iJJ.angeinantdiversityassdsoilCnlpineedowatdfrttiostages in the headwater region of three rivers，China.Land Degradation & Development，2009,2O(2）：187-198.  \n[30] MeierCL,SudingKNBowanWD.Carbonfluxfromplantstosoil:rotsaeabelow-groudsourceofphnolicsecodarycompoudsinaalpine ecosystem. Journal of Ecology，2008，96(3）: 421-430.  \n[31] ZaminTJ，BrearteS,GnP.Evegshbsoatespsestpialangdfertliinadiclow arctic tundra. Journal of Ecology，2014，102（3）: 749-766.  \n[32 MichelsenA，ragliaE,chtIK,JosonS,lpDuayCferentalresposesofgrassddwafshbtg-teagsinsoilrobalss,dgfctodiortudebooatst9,(3): 523-538.  \n[33] JinYH,XuJW,WangYQ，WangSXChenZS,HuangXT,NiuLJ.Efetsofntrgendeposioontudravegetatioudergoingiasioby Deyeuxia angustifolia in Changbai Mountains.Chinese Geographical Science,2016,26(1)：99-108.  \n[34] ZongSW,JinYH,XuJW,WuZF,HeHS,DuHB，WangL.Nitrogendepositionbutotliate wamingpromotesDeyeuigsifoliaencroachment inalpinetundraoftheChangbai Mountains，Northeast China.Scienceof theTotalEnvironment，2O15,544：85-93.  \n[35]Bret-Harte MS,GARCIAEA,SACREVM，WhorleyJR，WagnerJL,LipertSC,ChapinIIFS.Plantandsoilresponsestoneighbourremoval and fertization in Alaskan tussock tundra.Journal of Ecology，2004，92(4）: 635-647.  \n[36] WangJN,ShiFS，XuB，WangQ，WuY，WuN.Uptakeandrecoveryofsoilntrogenbybryophyesandvascularplantsinanalpieeado.Journal of Mountain Science，2014，11(2）：475-484.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

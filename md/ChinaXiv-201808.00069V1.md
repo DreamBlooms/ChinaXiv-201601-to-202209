@@ -1,0 +1,213 @@
+# 一种基于尺度不变局部特征的零低频信息隐藏算法
+
+任帅la，贺媛‘a，柳雨农』b，徐振超la，张弢¹b′，王震la，慕德俊²(1．长安大学 a.信息工程学院;b．电子与控制工程学院，西安 710064;2.西北工业大学 自动化学院，西安 710072)
+
+摘要：针对目前信息隐藏算法抵抗隐写分析能力弱的问题，提出一种基于尺度不变（binary robust invariant scalablekeypoints，BRISK）局部特征的零低频信息隐藏算法。首先，对载体图像进行一阶CL多小波变换，在低频 LL2中提取 BRISK 特征点生成图像特征矩阵；其次，利用 zig-zag 和Logistic 混沌置乱对秘密信息做去相关性处理；再次，将图像特征与加密信息通过对比特征值形成关联序列；最后，将关联序列嵌入到高频HL2、HH2的低3位。算法将高能量区域的特征矩阵与两次加密信息所构建的关联信息隐藏于高频区域，有利于算法的鲁棒性和抗分析性。在高阶统计量对200幅图片的分析测试下，最大检出率低于 $7 . 5 1 6 \%$ ，表明所提算法具有良好的抗分析性。
+
+关键词：零低频信息隐藏；BRISK特征；CL多小波变换；抗分析性 中图分类号：TP309.2 doi: 10.3969/j.issn.1001-3695.2018.06.0318
+
+# Zero-low-frequency information hiding algorithm based on local BRISK feature
+
+Ren Shuaila, He Yuanla, Liu Yunonglb, Xu Zhenchaola, Zhang Taolbt, Wang Zhenla, Mu Dejun? (1.a.SchoolofInformation Engineering,b.ScholofElectronic&ControlEnginering,Chang'an University,Xi’an70064, China;2.College ofAutomation,Northwestern Polytechnical University,Xi'an 71oo72,China)
+
+Abstract:Aiming at inferioranti-nalysisof curent information hiding algorithm,this paper proposed azero-low-frequency information hidingalgorithmbasedonlocalBRISK feature..First,itcariedoutfirst-order CLmulti-wavelet transform for carrier image.then extracted BRISK feature points inthe low-frequencyLL2 togenerate an image feature matrix；Second, Using zig-zag scrambling and logistic chaos scrambling forthesecret image to decorelate;Again,associated the image feature with the encrypted information to formanasociation sequence bycomparing featurevalues;Last,it would embed association sequence into lower threebitsof high-frequency HL2 and HH2.Theassociation information constructed by eigenmatrix ofhighenergyregionand encrypted informationof twotimes was hiddenin thehigh frequencyregion,which was beneficialtotherobustnessandanti-analysis of algorithm.Under theanalysisof high-order statistics on 2OO pictures,the maximum detection rate was less than $7 . 5 1 6 \%$ ,which indicates that the proposed algorithm has good anti-analysis ability.
+
+Key words: zero-low-frequency information hiding; BRISK feature; CLmulti-wavelet transform; anti-analysis ability
+
+# 0 引言
+
+随着网络信息爆炸式的增长，信息安全备受关注。信息隐藏作为信息安全领域的一个重要分支，是实现秘密通信的重要手段，成为目前研究的热点。在近几年的数字图像信息隐藏算法中，文献[1]将载体JPEG彩色图像按 $8 \times 8$ 分块后转到YCbCr空间，对3个分量实施4级离散小波变换，组合每块低频系数用于隐藏信息，鲁棒性强，但PSNR较低，不可见性差；文献[2]利用整数小波变换和二进制比特分组，将灰度密图的十进制矩阵整除所得的商和余数分别嵌入低频和高频，专注于鲁棒性，但低频系数改动较大，影响图像视觉效果；文献[3]通过调整W变换频谱中两个随机系数的大小完成信息嵌入，由于一直修改的是同一系数对“[2,3]和[4,1]"，所以局部特征变换明显；文献[4]结合CL多小波变换与组合位平面理论，根据数字图像能量分布特性隐藏相应信息，但低频中隐藏鲁棒信息种类较多，不可见性相对较差；文献[5]通过结合压缩感知和GHM多小波变换，替换对应奇异值实现信息隐藏，奇异值虽具有稳定性，但大面积修改奇异值使传输图像特征变化明显，容易引起外界攻击；文献[6]通过修改载体图像在AMBTC域生成的高低均值序列的直方图特征完成信息嵌入，直方图变化会引起图像失真问题。综上所述，以上信息隐藏算法都是通过修改数字图像特征改变相对重要位置像素直接隐藏，不可见性差。攻击者可以根据变换的图像特征进行隐写分析，抗分析性能弱是以上算法存在的共有问题。
+
+零数字水印技术是通过建立载体图像的某个特征与数字水印的映射关系实现嵌入，整个过程不会修改图像特征，因此不会引起人们注意，具有抵抗隐写分析的特性。考虑到低频包含一幅数字图像的主要信息，本文算法将零的思想与低频结合，提出以零低频技术为基础的信息隐藏思路。在获取数字图像低频时考虑到主要信息量要足够大以致于可近似于原图像，选取CL 多小波变换。在建立特征映射关系时考虑到鲁棒性，尤其是抗剪切性的要求，选择在计算机视觉领域广泛应用的BRISK特征。在秘密信息嵌入和提取的安全性方面，考虑到去相关性能提升安全性，选取了具有扰乱位置性能的zig-zag及伪随机性良好能改变像素值的Logisti 混沌序列，最终实现了一种基于BRISK特征的零低频信息隐藏算法。该算法先在CL多小波变换后的低频中提取BRISK特征点生成图像特征矩阵；再利用zig-zag和Logistic 混沌置乱对秘密信息做去相关性处理；然后生成图像特征与加密信息的关联序列；最终将关联序列嵌入到高频。在MATLAB 环境中实验测试表明，本文提出算法具有很好的不可见性、鲁棒性、感知篡改性和抗隐写分析能力。
+
+# 1 本文信息隐藏算法
+
+本文提出的信息隐藏算法主要分为四个阶段：a)对载体图像进行一阶CL多小波变换；b)依据CL多小波变换后独特的高低能量对立分布的特性，在高能量 $L L _ { 2 }$ 区域寻找BRISK特征点，根据分布状况提取纹理复杂度高区域的特征点；c将提取的特征点按照BRISK特征提取算法生成512位二进制序列的特征描述子，每8位组合转换为十进制，生成 $8 \times 8$ 大小的图像特征矩阵；d)将隐藏信息与特征矩阵建立关联实现信息隐藏。
+
+# 1.1CL多小波变换处理
+
+CL多小波变换是利用对称性构造的一种多小波，具有短支撑性、二阶消失矩和正交性等显著特点，且CL多小波变换后能量集中于最低分辨率子图的低频 $L L _ { 2 }$ 区域7]，具体能量分布如表1所示。利用上述特性，本文对载体图像进行一阶CL多小波变换(图1)，在占有原图 $9 6 . 5 3 \%$ 的能量低频 $L L _ { 2 }$ 区域提取特征向量，保证算法鲁棒性和抗分析性。将秘密信息生成的关联信息嵌入到占有原图 $9 7 . 3 6 \%$ 的能量低频 $L L _ { 1 }$ 分解后的高频$H L _ { 2 }$ 和 $H H _ { 2 }$ 区域，保证算法的鲁棒性和不可见性。
+
+表1CL多小波变换的一阶能量分布  
+
+<html><body><table><tr><td rowspan="2">CL多小波变换LLi子图像能量占 图像总能量的百分比/%</td><td colspan="4">LLi子图像各个分量的能量分/%</td></tr><tr><td>LL2</td><td>LH2</td><td>HL2</td><td>HH2</td></tr><tr><td>97.36</td><td>96.53</td><td>2.51</td><td>0.62</td><td>0.34</td></tr></table></body></html>
+
+![](images/9aedbcb515c2d0c8a5b27655c1b61fa2af8471d2152296fd45ac9bf1b0f49f18.jpg)  
+图1对载体图像进行一阶CL多小波变换
+
+# 1.2提取 BRISK特征点
+
+BRISK特征点是一种具有旋转不变性、尺度不变性及抗噪抗压缩等鲁棒性好的特征点[8]。在金字塔尺度空间上利用FAST9-16算子检测特征点，对于满足FAST标准的点进行非极大值抑制，对极大值点进行亚像素插值来精确定位（图2)，得到特征点的位置和尺度 $\scriptstyle t _ { \circ }$
+
+![](images/e3cfe7d0f016fbedde20b86907060775b46437e3e23e2dcb00f57948d5adfefe.jpg)  
+图2亚像素插值精确定位
+
+图2中金字塔尺度空间是由4个八度和4个内八度构造而成，其中八度用 $c _ { i }$ 表示，内八度用 $d _ { i }$ 表示， $\scriptstyle i = 0$ ，1，2，3。 $c _ { 0 }$ 表示原图像， $d _ { \boldsymbol { O } }$ 是原图像的1.5倍下采样，相邻八度和相邻内八度都是2倍下采样的关系。且八度及内八度与原图像的尺度关系为 $t ( c _ { i } ) { = } 2 ^ { i }$ ， $t ( d _ { i } ) { = } 2 ^ { i }$ 0
+
+本文在一阶CL多小波变换后的低频分量 $L L _ { 2 }$ 中提取特征点。由于BRISK特征点对应图像中像素突变点，邻域内特征点数目越多，纹理越强，即为一幅图像的重要区域。以此为衡量标准，选择复杂纹理区域的鲁棒特征点，具有不易丢失的特性，原因在于该区域如果遭受剪切攻击，图像就会失去传输意义。为此，若某特征点邻域内特征点数目最多，则选择该特征点生成特征描述子。特征点邻域半径根据式（1）自适应确定。
+
+$$
+R = \kappa t
+$$
+
+其中： $\kappa$ 为常量，以控制邻域半径的大小； $t$ 为特征点尺度值，具有缩放不变性。
+
+# 1.3生成图像特征矩阵
+
+以1.2节选择出的特征点为中心，定义4个不同半径离散同心圆的采样模式，如图3所示。
+
+![](images/31d0f7dbec6651a7b79212756feef4808624dbef81f7a2a3b5e2a12154a91e3f.jpg)  
+图3采样模式
+
+在圆上等间隔获取60个采样点，对采样点先进行高斯滤波消除邻域采样模式的混叠效应后两两组对，总计 $6 0 ^ { * } ( 6 0 \ – 1 ) / 2$ 对。设置阈值，将采样点对分为短距离点对和长距离点对。本文实验时采用Stefan原算法BRISK中所用的阈值，即短距离点对阈值为 $9 . 5 7 t$ ，长距离点对阈值为 $1 3 . 6 7 t$ 。将特征点采样模式按照式（2）旋转，保证旋转不变性。
+
+$$
+\alpha = \arctan 2 ( g _ { x } , g _ { y } )
+$$
+
+其中： $( g _ { x } , g _ { y } )$ 为特征点主方向。特征点主方向由长距离点对的局部梯度确定，如式（3）所示。
+
+$$
+g = \left( \begin{array} { c } { { g _ { x } } } \\ { { g _ { y } } } \end{array} \right) = \frac 1 l \times \sum _ { ( p _ { i } , p _ { j } ) \in L } g ( p _ { i } , p _ { j } )
+$$
+
+其中： $\iota$ 为长距离点对数； $L$ 为长距离点对集合； $g ( p _ { i } , p _ { j } )$ 为$( p _ { i } , p _ { j } )$ 采样点对的局部梯度。选择 512 个短距离点对按照式（4）方式进行强度值比较，比较结果为二进制编码，得到512位二进制序列特征描述符。
+
+$$
+b = \left\{ \begin{array} { l l } { 1 , I ( p _ { j } ^ { \alpha } , \sigma _ { j } ) > I ( p _ { i } ^ { \alpha } , \sigma _ { i } ) } \\ { 0 , o t h e r s } \end{array} \right.
+$$
+
+其中： $\forall ( p _ { i } ^ { \alpha } , p _ { j } ^ { \alpha } ) \in S \ , \ I ( p _ { i } ^ { \alpha } , \sigma _ { i } ) \ , \ I ( p _ { j } ^ { \alpha } , \sigma _ { j } )$ 为旋转 $\alpha$ 角度后 ${ \boldsymbol { p } } _ { i }$ 、${ { p } _ { j } }$ 点像素值； $\sigma _ { i }$ 、 $\sigma _ { j }$ 为 $p _ { i }$ 、 ${ { p } _ { j } }$ 点尺度。
+
+本文将计算得到的特征点描述子，即512位二进制序列记为 $L$ 。将 $L$ 从左到右按8位转换为十进制整型数，则512位二进制序列描述子共转换为64个0\~255的整型数。逆序排列得到 $8 \times 8$ 方阵作为图像特征矩阵，记为 $\boldsymbol { J }$ 矩阵。
+
+# 1.4隐藏信息嵌入步骤
+
+a)对秘密图像 $_ { T }$ 进行 zig-zag 置乱处理[9]，置乱遵循本文设计的规则：从矩阵右下角开始按“之”字形自下向上扫描，将扫描像素值存入一维数组 $s$ 。逆序排列 $s$ 生成一维数组 $\boldsymbol { S } _ { 0 }$ ，满足 $\pmb { T } = \pmb { S } _ { 0 }$ 。迭代次数 $Z { = } 1 0$ ，得到置乱图像 $W$ 。
+
+b)对 $W$ 执行Logistic 混沌映射置乱[1o]，见式（5)，确定Logistic控制参数 $\mu$ 和初始值 $t _ { 0 }$ ，得到混沌序列 $T _ { m }$ 。置乱规则：将W平均分成16块，依次在每块中顺序取一个像素点放入 $G$ 中。其次，将 $T _ { m }$ 的前8位作为置换向量 $A$ ，后8位作为置换向量 $\pmb { B }$ 。按照表2规则，根据 $T _ { m }$ 每相邻两位的取值确定 $G$ 中对应值与 $A$ 或者 $\textbf {  { B } }$ 按位“异或”或“同或”得到新灰度值。置乱后的比特序列记为 $D$ 。
+
+$$
+t _ { n + 1 } = \mu t _ { n } ( 1 - t _ { n } )
+$$
+
+表2Logistic置乱规则  
+
+<html><body><table><tr><td>Tm相邻两位</td><td>A</td><td>B</td></tr><tr><td>00</td><td></td><td>异或</td></tr><tr><td>01</td><td></td><td>同或</td></tr><tr><td>10</td><td>异或</td><td></td></tr><tr><td>11</td><td>同或</td><td></td></tr></table></body></html>
+
+c)任取4个0-7的整型随机数 $\boldsymbol { e } \boldsymbol { \cdot } \boldsymbol { f } \boldsymbol { \cdot } \boldsymbol { g } \boldsymbol { \cdot } \boldsymbol { h }$ ，构造 $( e , f )$ ， $( g , h )$ 作为 $J$ 矩阵的两个坐标点，比较 $J ( e , f )$ 与 $J ( g , h )$ 的大小。若$J ( e , f ) = J ( g , h )$ ，则需重新选取4个值（可重复选取)，否则按表3方式将 $J$ 矩阵与秘密序列 $\textbf {  { D } }$ 按位建立关联信息。重复步骤 $\mathbf { c } )$ ，直至将秘密序列 $D$ 所有位与 $J$ 矩阵建立关联，然后将关联信息串行连接形成关联序列 $K _ { ☉ }$ 0
+
+表3秘密序列 $\pmb { D }$ 与特征矩阵 $\surd$ 建立关联  
+
+<html><body><table><tr><td>条件</td><td>D</td><td>关联信息</td></tr><tr><td rowspan="2">J(e,f)>J(g,h)</td><td>0</td><td>ghef</td></tr><tr><td>1</td><td>efgh</td></tr><tr><td rowspan="2">J(e,f)<J(g,h)</td><td>0</td><td>efgh</td></tr><tr><td>1</td><td>ghef</td></tr></table></body></html>
+
+d)将关联序列 $\pmb { K }$ 按行排列顺序分别隐藏到分量 $H L _ { 2 }$ 、 $H H _ { 2 }$ 系数的低3位中，记为 ${ C } _ { H L _ { 2 } } ^ { 0 }$ 、 ${ C } _ { H L _ { 2 } } ^ { 1 }$ 、 $C _ { H L _ { 2 } } ^ { 2 }$ 、 $C _ { H H _ { 2 } } ^ { 0 }$ 、 $C _ { H H _ { 2 } } ^ { 1 }$ 、 $C _ { H H _ { 2 } } ^ { 2 }$ 。隐藏规则：若关联序列第 $n ( n { = } 0 , ~ 1 , ~ 2 , ~ 3 { \ldots } )$ 位是3，转换为二进制是011；若 $H L _ { 2 }$ 或 $H H _ { 2 }$ 第 $n$ 个系数低3位是010，则修改最后一位0为1，即完成3的嵌入。低3位可能有8种情况，分别是000、001、010、011、100、101、110、111。无论要隐藏的是关联序列中0-7的哪一个数值，嵌入修改位数的概率都是：修改一位或两位为 $3 / 8$ ，修改三位或不修改为1/8。低修改率保证嵌入信息的不可见性。
+
+e)将zig-zag置乱参数Z和Logistic置乱参数 $\boldsymbol { \mu }$ 、 $t _ { 0 }$ 依次嵌入到 $L H _ { 2 }$ 分量。
+
+f)对图像进行一阶CL多小波逆变换得含密图像 $T _ { s r e }$ 。
+
+# 1.5信息提取步骤
+
+本文算法为基于BRISK特征的零低频算法，与信息嵌入过程类似。
+
+a)对含密图像 $T _ { s r e }$ 进行一阶CL多小波变换，分解出子分量图 $L L _ { 2 }$ $\therefore \ L H _ { 2 } , \ H L _ { 2 } , \ H$ $H H _ { 2 }$ 。
+
+b)在 $L L _ { 2 }$ 区域提取出BRISK特征点，根据保存的特征点描述子 $\textbf { \em L }$ ，寻找与之匹配的特征点C，然后按照本文1.3节中步骤生成图像特征矩阵 $J ^ { \prime }$ 。
+
+c)依次取出 $H L _ { 2 }$ 分量系数的低3位转换为一个十进制数，串行连接得到关联序列 $\pmb { K } ^ { \prime }$ 。依次读取4个数 $e , f , \ g , \ h$ ，顺序组成坐标点 $( e , f )$ ， $( g , h )$ 。在矩阵 $J ^ { \prime }$ 中比较两个位置对应数值的大小，若 $J ^ { \prime } ( e , f ) < J ^ { \prime } ( g , h )$ ，则表示存入信息为 $^ { \mathrm { \scriptsize { e } } \mathrm { \scriptsize { 0 } } \mathrm { \cdot \mathrm { \Omega } } }$ ；若$J ^ { \prime } ( e , f ) > J ^ { \prime } ( g , h )$ ，则表示存入信息为"1”，依次解码得到秘密序列 $\pmb { D } ^ { \prime }$ 。同理，对 $\boldsymbol { H } \boldsymbol { H } _ { 2 }$ 分量也进行上述操作，得到秘密序列 $\pmb { D } ^ { \prime }$ 。
+
+d)确定秘密序列。接收者通过比较 $\pmb { D } ^ { \prime }$ 与 $\pmb { D } ^ { \prime }$ 判断信息传输过程是否受到外界攻击，若两者一致，说明信息安全传输；若两者不一致，查看两序列长度，完整则说明没有受到攻击，明显短缺则说明受到攻击。此时，选择 $\pmb { D } ^ { \prime }$ 或 $\pmb { D } ^ { \prime }$ 中的完整序列作为最终提取的秘密序列。
+
+e)在 $L H _ { 2 }$ 区域提取出两次置乱所有参数 $Z .$ 、 $\mu$ 、to。利用Logistic置乱参数 $\mu$ 、 $t _ { 0 }$ 对秘密序列 $\pmb { D } ^ { \prime }$ 或 $\pmb { D } ^ { \prime }$ 进行逆置乱变换，得到置乱后序列 $W ^ { \prime }$ 。利用zig-zag置乱参数 $Z$ 对 $W ^ { \prime }$ 进行逆置乱，得到原始秘密信息 ${ \pmb T } ^ { \prime }$ 。
+
+# 2 实验与结果分析
+
+对本文算法进行实验仿真，实验环境是MATLABR2013a,所选载体图像为 $5 1 2 \times 5 1 2$ 的"barbara"灰度图，如图4（a）所示；秘密图像为 $6 4 \times 6 4$ 的"baboon"二值图，如图4（b）所示；实验仿真后得到的含密图像如图4（c）所示。
+
+![](images/894d42a7baa653ab8e9e34c05968c95786acc44eea9bc92db0b6668d1665b589.jpg)  
+图4嵌入信息前后的可视图像示意
+
+# 2.1 不可见性实验
+
+取100幅（ $5 1 2 \times 5 1 2$ ）图像用本文隐藏算法测试，结果如图5所示。图中横坐标表示嵌入量 $2 ^ { k }$ ，纵坐标是峰值信噪比（peak signal-to-noise ratio，PSNR）[ll]。数据显示，当 $k { = } 1 4$ 时，嵌入量为16384bits， $P S N R { = } 4 2 . 0 8 2 \$ ，故得 $k { \leqslant } 1 4$ 算法具有较高不可见性。
+
+![](images/906cb3c052331af0f663358de3cef1ff368ced7f08fdc470ed9e25ee0dd408a2.jpg)  
+图5不可见性实验结果
+
+依据 PSNR，在相同嵌入强度下，将本文混合域算法（记为BRISK-ZLF）与频域算法修改W变换系数对的文献[3]（记为W-W）和混合域算法修改 AMBTC 域直方图特征的文献[6]（记为AMBTC-HS)进行不可见性对比，比较结果如表4所示。BRISK-ZLF的PSNR平均值为42.625，W-W的PSNR平均值为38.204，BRISK-ZLF 相比W-W不可见性提高 $1 1 . 5 7 \%$ 。AMBTC-HS 的PSNR平均值为41.235，与本文BRISK-ZLF接近，在嵌入强度为0.125和0.25时，AMBTC-HS的PSNR值保持相对稳定且稍大于BRISK-ZLF。由于此时的嵌入区域遇到高低均值序列相等的块，移位后没有影响。且从理论角度出发，当嵌入强度大于0.25时，AMBTC-HS实施嵌入时还是会偶尔遇到高低均值序列相等块，也有可能根据载体图像像素分布的不同，使得某些载体图像会频繁遇到高低均值序列相等块，从而具有高PSNR 值。而且AMBTC-HS 算法采用 $5 1 2 \times 5 1 2$ 图像的 AMBTC域作为嵌入域，而本文算法仅仅选择了大小为$1 2 8 \times 1 2 8$ 的两个高频区域，显然AMBTC-HS的可嵌入强度要高于本文算法。也就是说，本文算法的容量性相对较低。但在本文所做实验嵌入强度小于等于0.25的情况下，求取整体的平均值，本文BRISK-ZLF的不可见性性能要好于AMBTC-HS。
+
+表4不可见性实验对比  
+
+<html><body><table><tr><td rowspan="2">嵌入强度</td><td colspan="3">PSNR/dB</td></tr><tr><td>BRISK-ZLF</td><td>W-W</td><td>AMBTC-HS</td></tr><tr><td>0.015625</td><td>46.083</td><td>41.178</td><td>42.193</td></tr><tr><td>0.031250</td><td>44.976</td><td>40.231</td><td>41.174</td></tr><tr><td>0.062500</td><td>42.082</td><td>38.418</td><td>41.053</td></tr><tr><td>0.125000</td><td>40.000</td><td>37.079</td><td>40.906</td></tr><tr><td>0.250000</td><td>39.983</td><td>34.116</td><td>40.848</td></tr><tr><td>平均值</td><td>42.625</td><td>38.204</td><td>41.235</td></tr></table></body></html>
+
+# 2.2鲁棒性实验
+
+鲁棒性是检验算法的健壮性，即反映秘密信息经攻击处理后的完整性程度。本文算法在秘密信息提取时需要重新提取出BRISK特征点，所以对算法鲁棒性检验至关重要。归一化相关系数（normalizedcofficient，NC）用于衡量两幅图像的相似度，因此本文采用NC值作为鲁棒性批判标准。NC值越大，表明秘密信息完整度越高，鲁棒性越好。NC定义如式（6）所示。
+
+$$
+N C = \frac { \displaystyle \sum _ { i , j } w ( i , j ) \hat { w } ( i , j ) } { \displaystyle \sqrt { \sum _ { i , j } w ( i , j ) ^ { 2 } } \sqrt { \sum _ { i , j } \hat { w } ( i , j ) ^ { 2 } } }
+$$
+
+其中： $w ( i , j )$ 、 $\hat { w } ( i , j )$ 分别是秘密信息和提取出的秘密信息在对应 $i , j$ 坐标点的像素值。
+
+本实验设计对含密图像进行剪切、旋转、缩放、椒盐噪声和高斯噪声以及滤波攻击处理，从受攻击的含密载体图像中提取秘密信息，实验结果如图6所示。
+
+![](images/4f118c23920508e2a5711b0e9ddb98252647ef4cf6bca402130b2b841508ccb7.jpg)  
+(a) cutting_18% NC=0.974
+
+Q
+
+(b) rotating=100.5° NC=0.56   
+(d) enlengement_100% NC=1
+
+(c) shrinking_ $30 \%$ $\mathrm { N C } { = } 0 . 9 0 3$
+
+![](images/3f1e6904ff43d2089c0f55f2dc4a103f8f85a61cfe15e79129b8564090c2934d.jpg)  
+图6攻击及还原信息鲁棒性实验结果
+
+根据图6可视化实验结果可得，当归一化相关系数NC达到0.56时，提取出的秘密信息便可辨识。用NC同时判断剪切与旋转攻击的鲁棒性如图7中的“BRISK-ZLF”实验数据所示，当剪切率小于 $6 0 \%$ ，旋转角度小于100.5时， $\mathrm { N C } { \ge } 0 . 5 6$ ，表明本文算法具有很强的鲁棒性。
+
+依据NC值，将BRISK-ZLF与W-W和AMBTC-HS进行鲁棒性对比，剪切攻击与旋转攻击的实验对比结果如图7所示。
+
+![](images/b80d4a041bc97f5c22f573f43507bf5296e81ef9eaf450233d48a8050baca21f.jpg)  
+图7剪切和旋转攻击对比实验
+
+由图7（a）可知，当剪切率为 $45 \%$ 时，BRISK-ZLF提取秘密信息的NC值为0.719，W-W和AMBTC-HS的NC值分别是0.490和0.530，比较即BRISK-ZLF的NC值分别提高 $4 6 . 7 3 \%$ 和 $3 5 . 6 6 \%$ 。由图7（b）可知，当旋转 $6 0 ^ { \circ }$ 时，BRISK-ZLF 的NC值为0.598，W-W和AMBTC-HS的NC值分别是0.410和0.480，即BRISK-ZLF的NC值分别提高 $4 5 . 8 5 \%$ 和 $2 4 . 5 8 \%$ 。综合剪切和旋转攻击实验数据，本文BRISK-ZLF 算法的NC平均值为0.601，W-W的NC平均值为0.452，AMBTC-HS的NC平均值为0.483。因此，本文算法鲁棒性分别提高 $3 2 . 9 6 \%$ 和$2 4 . 4 3 \%$ 。
+
+# 2.3 感知窜改性实验
+
+对从 $H L _ { 2 }$ 和 $H H _ { 2 }$ 中提取到的 $\pmb { D } ^ { \prime }$ 与 $\pmb { D } ^ { \prime }$ 进行对比校验，当剪切率为 $6 \%$ ，旋转 $1 0 ^ { \circ }$ ，缩放 $5 \%$ ，椒盐噪声（ $\scriptstyle d = 0 . 0 5 .$ ，白噪参数（0.1，0.004)，维纳滤波（[3，3]）的检出率如表5所示，计算得平均检出率为 $9 6 . 2 2 \%$ ，表明本文算法具有很高的感知篡改能力。
+
+表5攻击对应感知篡改性检出率(200 张图片)  
+
+<html><body><table><tr><td>图像处理</td><td>剪切</td><td>旋转</td><td>缩放</td><td>椒盐噪声</td><td>白噪参数</td><td>滤波</td></tr><tr><td>检出率/%</td><td>99.56</td><td>97.26</td><td>99.37</td><td>96.21</td><td>89.22</td><td>95.71</td></tr></table></body></html>
+
+# 2.4抗分析性实验
+
+抗分析性实验是本文的重点实验。在信息隐藏中，抗分析性是对一种算法性能的宏观把控。必须在保证不可见性、鲁棒性，一定容量性的前提下，才有可能具有强的抗隐写分析能力。本文将两次置乱完全去除相关性的秘密信息与图像低频BRISK 特征建立关联序列，关联序列的最终隐藏区域为一阶CL多小波变换的高频 $H L _ { 2 } , H H _ { 2 }$ 的低3位，隐藏区域隐蔽性强。现利用基于小波系数的高阶统计量分析算法对本文算法进行检测分析[2]，实验结果如图8（a）所示。
+
+![](images/a86af8742d20b97f960f6b2174288518fb40d5cf507a896668ebf4431148b101.jpg)  
+（b）高阶统计量检测分析法的检出率  
+图8本文算法高阶统计量检测分析结果
+
+分析图8（a）实验数据，在50幅随机图片中，无法找出分离隐藏信息前后的一个甚至多个阈值。使用200幅图片进行检验测试，得图8（b）测试结果，最大检出率低于 $7 . 1 5 6 \%$ 表明本文算法具有强抗分析性。
+
+# 3 结束语
+
+本文提出一种基于BRISK特征的零低频信息隐藏算法。BRISK特征本身具有鲁棒性，再加之低频提取，算法鲁棒性可进一步增强。零低频即是只在低频提取特征，最终嵌入区域还是高频，增强算法抗分析性。在隐藏区域的设计方面，本文算法利用能量可以忽略不计的高频隐蔽性强的低3位进行信息隐藏，且修改位数小于等于3。秘密信息双置乱去除相关性，最终隐藏的信息实质是关联序列，算法的抗分析性在理论上有显著提高。此外，算法设计在高频 $H L _ { 2 }$ 、 $H H _ { 2 }$ 两块区域嵌入相同信息，获得高达 $9 6 . 2 2 \%$ 的检错感知性能。今后将考虑如何增大算法容量性，主要从隐藏区域的选取和秘密信息嵌入前的压缩预处理两方面进行研究，研究要遵循容量性和不可见性并存的原则。
+
+# 参考文献：
+
+[1]刘艳波．基于 JPEG 图像的改进小波变换信息隐藏算法[J].北华大学 学报：自然科学版,2017,18(5):697-700.(Liu Yanbo.Information hiding algorithm of wavelet transform based on JPEG image [J]. Journal of Beihua University:Natural Science,2017,18(5): 697-700.)   
+[2]蔡正保．一种改进的基于小波变换的数字图像隐藏算法研究与实践[J]. 佳木斯大学学报：自然科学版，2015，33(6):861-863.(Cai Zhengbao. Research and practice of an improved digital image hiding algorithm based on wavelet transform [J].Journal of Jiamusi University:Natural Science Edition,2015,33 (6): 861-863.)   
+[3] 贺子恒，张佳文，侯桐，等．一种新的基于频域的图像信息隐藏方法 [J]．软件导刊,2014,13(5):167-169.(He Ziheng,Zhang Jiawen,Hou Tong,et al.A new image information hiding method based on frequency domain [J].Journal of Software,2014,13 (5): 167-169.)   
+[4] 张弢，任帅，巨永锋，等.基于CL多小波变换和组合位平面理论的秘 密信息共享算法[J].计算机应用,2013,33(11):3232-3234.(Zhang Tao, RenShuai,Ju Yongfeng,etal. Secret information sharing algorithm based on CL multi-wavelet transform and combination bit plane for confidential communication [J].Journal of Computer Applications,2013,33(11): 3232-3234. )   
+[5] 张弢，康缘，任帅，等．基于压缩感知和GHM 多小波变换的信息隐藏 算法[J].计算机应用,2017,37(9):2581-2584.(Zhang Tao,Kang Yuan, Ren Shuai,et al. Information hiding algorithm based on compression sensing and GHM multi wavelet transform [J]. Journal of Computer Applications,2017,33(11):3232-3234.)   
+[6] 张弢，柳雨农，邢亚林，等．基于直方图移位的 AMBTC 域无损信息隐 藏[J/OL].计算机应用研究,2019,36(6):1-8 [2018-04-08].http://kns cnki. net/kcms/detail/51.1196.TP.20180408.1051.076. html. (Zhang Tao, Liu Yunong,Xing Yalin,et al.Lossless information hiding in AMBTC domain based on histogram shift [J/OL].Application Research of Computers，2019，36(6):1-8[2018-04-08].http://kns.cnki. net/kcms/detail/51.1196.TP.20180408.1051. 076. html.)   
+[7] 徐涛，吴登峰，刘杰，等．多小波正交扩充算法在图像处理中的应用 [J]．吉林大学学报：工学版,2006 (5):778-781.(Xu Tao,Wu Dengfeng, Liu Jie,et al.Application of multiwavelet orthogonal expansion algorithm in image processing [J]. Journal of Jilin University: Engineering Science, 2006 (5): 778-781. )   
+[8]Leutenegger S, Chli M, Siegwart R Y. BRISK: binary robust invariant scalable keypoints [C]// Proc of International Conference on Computer Vision. 2011: 2548-2555.   
+[9]陆萍，董虎胜，马小虎．一种基于扩展ZigZag与位交换的图像置乱算 法[J].计算机应用与软件，2012，29(10):310-313.(Lu Ping，Dong Husheng,Ma Xiaohu.An image scrambling algorithm based on extended ZigZag and bit exchange [J]. Computer Applications and Software,2012, 29 (10): 310-313. )   
+[10]张永红，张博．基于Logistic 混沌系统的图像加密算法研究[J].计算 机应用研究，2015,32(6):1770-1773.(Zhang Yonghong，Zhang Bo. Imageencryption algorithm based on Logistic chaotic system [J] Application Research of Computers,2015,32 (6): 1770-1773)   
+[11] MohdBJ,Abed S,Al-Hayajneh T,etal.FPGA hardware of the LSB steganography method [C]/ Proc of International Conference on Computer, Information and Telecommunication Systems.2012: 1-4.   
+[12] Farid H,Lyu S.Higher-order wavelet statistics and their application to digital forensics [C]//Proc of Conference on Computer Vision and Pattern Recognition Workshop.2003: 94-94.

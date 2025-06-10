@@ -1,0 +1,291 @@
+[
+    {
+        "type": "text",
+        "text": "A look into the past, present and future potential distributions of Talinopsis frutescens， a North American endemic lineage closelyrelated to Cactaceae ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M6nica I MIGUEL-VAZQUEZ',Yasser SLOPEZDE OLMOS $\\scriptstyle \\mathrm { \\mathrm { R } } ^ { 2 }$ , Gilberto OCAMPO1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Departmentof Biology,Basic Sciences Center,Autonomous Universityof Aguascalientes,940UniversityAvenue, Aguascalientes 20130, Mexico;   \n2Biological and Health Sciences PhD Program, Department of Biology, Biological and Health Sciences Division,   \nAetPβ8ttanUversityaplap34ic ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Talinopsis frutescens (Anacampserotaceae,a family that is close related to Cactaceae) is a succulent species endemic to North America. The aim of this study was to explore,using Ecological Niche Modeling (ENM), changes in potential distribution ranges considering diferent climate scenarios: past conditions during the Last Inter Glacial (LIG) and the Last Glacial Maximum (LGM), the present and projections for 2070 (RCP 2.6 to 8.5). A pattern of contraction is observed during the LIG, which agrees with other studies focused in species from arid environments. This pattrn was followed by a migration towards the south during the LGM and a posible recent expansion to the north as is observed in the present scenario. Allfuture projections show the same contraction and fragmentation paterns, resulting in three discontinuous areas: the northern part of the Chihuahuan Desert, the southern-central part of the Mexican Plateau,and the smallest one in the Tehuacan-Cuicatlan Valley. Our projections for future scenarios agree with other studies and support that global climate change tends to alter the current distribution of arid environment species. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Anacampserotaceae; Caryophylales;ecological niche modeling;succulent plants; potential distribution ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: M6nica I MIGUEL-VAZQUEZ, Yasser S LOPEZ DE OLMOS R, Gilberto OCAMPO. 2020. A look into the past, presentand future potential distributions of Talinopsis frutescens,a North Americanendemic lineage closely related to Cactaceae. Journal of Arid Land,12(1): 104-114. https://doi.org/10.1007/s40333-019-0019-4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anacampserotaceae is a lineage closely related to Cactaceae (Hernandez-Ledesma et al., 2015; Walker et al., 2O18). Within Anacampserotaceae, the succulent species Talinopsis frutescens A. Gray is the earliest divergent taxon (Ocampo and Columbus, 2O1O). Talinopsis frutescens is endemic to North America and it is distributed from southwestern USA to the central-southern part of Mexico (Ocampo, 2011). The current known distribution of the species corresponds to a discontinuous area from southern USA to the northern part of the Trans-Mexican Volcanic Belt (TMVB), including the Chihuahuan Desert (CD) and the Mexican Plateau (MP); although most of the populations are found in the CD and the MP,a few of them are located on the southern side of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TMVB, in the Tehuacan-Cuicatlan Valley (TCV) (Fig. 1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The CD is considered as the largest desert in North America and one of the arid regions of the world with higher species richness (Morafka, 1977; Hoyt, 2002). Along with the MP, the CD has been suggested as a center of origin of modern desert taxa and seems to have existed since the middle Miocene (Morafka， 1977). The TCV belongs to the Mexican xerophytic region (Rzedowski, 2005); it has been suggested that it is closely related to the CD,and together with the Actopan and Mesquital valleys is one of the isolated arid areas in the southern part of Mexico (Shreve, 1942). The TCV has a high plant diversity, which represents $1 0 . 0 \\% - 1 1 . 4 \\%$ of the Mexican plant species (Valiente-Banuet et al., 2OO9); this percentage includes an elevated number of endemic taxa (Davila et al., 2OO2). The TCV history seems to be closely related to TMVB, whose emergence separated the northern-central part (northern tectonic domain) from the southern region (southern tectonic domain) of Mexico (Ferrari et al., 1999; Cevallos et al., 2012), and promoted the differentiation of the CD and the southwestern semi-desert relicts (De-Nova et al., 2018). The complex history of the arid zones of North America (Wilson and Pitts, 2010; Hafner and Riddle, 2O11) and the distribution pattern of T. frutescens, raise questions about the factors that shaped the disjunct distribution of the species and if this distribution has suffered changes through time. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d01a867dcf78dcf994787a3d36670fccac7f20d14e308904430a3f1b807038d.jpg",
+        "img_caption": [
+            "Fig.1Current known distribution of Talinopsis frutescens,including relevant biogeographic regions mentioned in the text "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There is evidence that arid environments have experienced drastic climate changes during the last glacial period (Metcalfe， 2O06)， especially during the Last Inter Glacial (LIG; $1 . 2 { \\times } 1 0 ^ { 5 } { - } 1 . 4 { \\times } \\bar { 1 0 ^ { 5 } }$ years ago) and the Last Glacial Maximum (LGM; about $2 . 2 { \\times } 1 0 ^ { 4 }$ years ago) periods. Some studies show that several native species from arid environments have had changes in their distribution range in response to past climatic fluctuations, as is the case of Berberis trifoliolata (Berberidaceae; Angulo et al., 2O17), Ephedra compacta (Ephedraceae; Loera et al., 2017)，Larrea tridentata (Zygophyllaceae; Hunter et al.， 2O01) and Lindleya mespiloides (Rosaceae; Vasquez-Cruz and Sosa, 2O16). Because T. frutescens is mainly distributed in arid environments, it is likely that those climatic oscillations affected its distribution range. Therefore, the aim of this study was to estimate if climatic conditions during the LIG and the LGM periods affected the distribution range of T. frutescens. In addition, and as an exploratory approach, changes in the distribution range of the species due to global warming caused by the increase of greenhouse gas emissions were explored. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Studyarea ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Talinopsis frutescens occurs in the CD, from the southern part of the USA to the TMVB, through the MP and to the TCV in the central part of Mexico (Fig. 1). The CD is the largest desert in North America with an area of $6 . 4 8 \\times 1 0 ^ { 5 } ~ \\mathrm { k m } ^ { 2 }$ and is one of the most biologically diverse arid regions in the world (Morafka, 1977; Hoyt, 2002). The MP corresponds to the area located between the Sierra Madre Occidental and the Sierra Madre Oriental. The vegetation consists on grass steppes with Bouteloua and Aristida, spread between xeric scrubs,and forests in the plains and intermontane valleys (Morrone, 2Oo5). The floristic province of the TCV is considered part of the Mexican xerophytic region (Rzedowski, 2OO5) and it is located in the southern part of the state of Puebla and northern Oaxaca. The valley covers an area of almost $1 . 0 0 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 }$ and represents a complex physiographic mosaic with internal valleys， separated by numerous mountain chains. Plant diversity represents $1 0 . 0 \\% - 1 1 . 4 \\%$ of the national diversity with a high number of endemisms (Davila et al., 2002). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 1 Talinopsis frutescens ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Individuals of the species are small shrubs with tuberous roots, its succulent leaves are deciduous in the dry season, and the inflorescences have few yellow (e.g., Rzedowski, 2Oo5; Ocampo, 2011) to pink (Kiger, 2OO3) flowers. The species mainly occurs in dry forest and xerophytic scrubs, although it has been found in crops, grasslands,and secondary vegetation derived from coniferous and pine-oak forests at elevations from 10oO-1300 to $2 3 0 0 { - } 2 5 0 0 ~ \\mathrm { m }$ a.s.l. (Ocampo, 2011). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Talinopsis frutescens has been poorly studied and biological aspects such as pollination, dispersion and interactions with other organisms are not clear. However, it has been observed in the field that seeds of T. frutescens usually germinate close or under other plants such as cacti, Parthenium sp. (Asteraceae), and Larrea tridentata (Zygophyllaceae). In addition, it is known that flowers bloom only once and only remain open for a few hours,suggesting that chances for cross-pollination are limited (Miguel-Vazquez and Ocampo, 2017). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data and ecological niche modeling (ENM) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A total of 146 records of T. frutescens were obtained from biodiversity datasets, herbarium specimens, and our own collections (Table S1 of the Appendix). Al records included in this study wereatleast $1 \\mathrm { k m }$ away from each other. The 19 environmental variables provided by WorldClim 1.4 for present and future conditions (year 2O7O) were employed; for the later scenario, 4 different Representative Concentration Pathways (RCPs; 2.6, 4.5, 6.0 and 8.5) were considered (Hijmans et al., 2O05). Past projections included the LIG and LGM data (Oto-Bliesner et al., 2006). All data sets have a $1 \\ \\mathrm { k m } { \\times } 1 \\ \\mathrm { k m }$ spatial resolution except the LGM layers, which have a 5 $\\mathrm { k m } { \\times } 5 \\mathrm { k m }$ resolution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We performed simulations with Maxent v3.4.0 (Philips et al., 2017) using the Community Climate System Model (CCSM4; Gent et al., 2011） with a convergence threshold $= 1 0 ^ { - 5 }$ ，the maximumiterations $_ { \\mathrm { \\Omega } = 1 0 0 0 }$ , regularization multiplier $\\scriptstyle = 1$ ,and the default values for the rest of the modeling parameters. To evaluate the quality of the model, we partitioned the data into training $( 7 5 \\% )$ and testing $( 2 5 \\% )$ data sets. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To confirm that the variables with the highest contribution percentages for each one of the seven models were not highly correlated $( r { > } 0 . 9 0 )$ ， we carried out a Pearson's correlation analysis among the 19 variables using ENMTools (Warren et al., 2OO8). In addition, this program was employed to statistically compare the niche breadth (Nakazato et al., 2O10) of the seven models obtained, using B1 and B2 metrics (Levins, 1968) to measure the uniformity of the distribution of the species among resources (Rolando, 1990). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The variable with the highest contribution to the ENM for the LIG and the present scenarios was temperature seasonality, with $2 4 . 7 \\%$ and $2 2 . 4 \\%$ , respectively. On the other hand, the variable with the highest contribution for the LGM and for the four future projections was isothermality (temperature mean diurnal range/precipitation of the driest quarter; $2 5 . 7 \\% - 3 3 . 5 \\% )$ , followed by the precipitation of the coldest quarter $( 1 8 . 9 \\% - 2 3 . 9 \\% )$ ; both variables together contributed to the models in almost $5 0 . 0 \\%$ (Table 1). None of the most important variables for each model had correlation values $( r )$ higher than O.9O (data not shown). For the niche breadth test, we used a standardized measure from the R package ENMTools, based on the B2 metric from Levins (1968). We report but do not discuss B1 values, because the author of the package notes that the current implementation in ENMTools is a standardized value that, in combination with the logarithmic equation of B1, can lead to incorrect interpretations of the metric that becomes dependent on sample size. B2 metric is a standardized measure of niche breadth that only has a meaning in the context of our resultant models; it works with the suitability values from the same models rather than with the proportion of the species found in a given space as originally described. B2 is reported as a general measure of how the suitability values are distributed in all non-null cells; the values range from O to 1, where zero is the most reduced breath and one represents the maximum breadth. The highest value was obtained for the LIG $\\scriptstyle ( \\mathbf { B } 2 = 0 . 9 2 3 1 )$ )，while the lowest value was obtained for the LGM $( \\mathbf { B } 2 { = } 0 . 8 8 7 5 )$ ). The B2 value for the present was O.91O1 and the values obtained for the four future scenarios varied moderately with respect to the present scenario (Table 2). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/987aa74aeceb0dd9929a97f26dbb6d75e016b5bb0b1d302e330c852cf8988857.jpg",
+        "table_caption": [
+            "Table 1 Relative contributions of environmental variables to the Maxent model under different scenarios "
+        ],
+        "table_footnote": [
+            "Note:Onlyvalueshigherthanareshown.FuturescenarioscorrespondtoyearO7o.LIG,LastInterGlacial;LGM,LastGlacial Maximum; RCP, Representative Concentration Pathways. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Variable code</td><td rowspan=\"2\">Name of the variable</td><td colspan=\"7\">Contribution (%)</td></tr><tr><td>LIG</td><td>LGM</td><td>Present</td><td>Future RCP2.6</td><td>Future RCP 4.5</td><td>Future RCP 6.0</td><td>Future RCP 8.5</td></tr><tr><td>BIO 1</td><td>Annual mean temperature</td><td>3.8</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BIO 2</td><td>Mean diurnal range</td><td></td><td>4.8</td><td>8.6</td><td>1.4</td><td>3.0</td><td>5.4</td><td>7.7</td></tr><tr><td>BIO 3</td><td>Isothermality</td><td></td><td>32.9</td><td>9.2</td><td>33.5</td><td>27.8</td><td>29.2</td><td>25.7</td></tr><tr><td>BIO 4</td><td> Temperature seasonality</td><td>24.7</td><td>8.5</td><td>22.4</td><td>9.4</td><td>9.4</td><td>9.0</td><td>13.1</td></tr><tr><td>BIO 5</td><td>Maximum temperature of warmest month</td><td>1.3</td><td>2.0</td><td>1.1</td><td></td><td></td><td></td><td></td></tr><tr><td>BIO 6</td><td>Minimim temperature of coldest month</td><td>7.5</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BIO 7</td><td> Temperature annual range</td><td></td><td></td><td>2.7</td><td>2.8</td><td>4.9</td><td>4.9</td><td>2.2</td></tr><tr><td>BIO 8</td><td>Mean temperature of wettest quarter</td><td></td><td></td><td></td><td></td><td></td><td>1.2</td><td></td></tr><tr><td>BIO 9</td><td> Mean temperature of driest quarter</td><td></td><td>9.0</td><td>15.3</td><td>12.3</td><td>12.2</td><td>11.1</td><td>11.0</td></tr><tr><td>BIO 10</td><td>Mean temperature of warmest quarter</td><td>11.3</td><td>6.8</td><td></td><td>1.2</td><td></td><td></td><td></td></tr><tr><td>BIO 11</td><td>Mean temperature of coldest quarter</td><td></td><td>1.9</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BIO 12</td><td>Annual precipitation</td><td></td><td>1.1</td><td>2.8</td><td></td><td></td><td></td><td></td></tr><tr><td>BIO 13</td><td>Precipitation of wettest month</td><td>6.7</td><td>2.5</td><td></td><td></td><td>4.3</td><td>1.1</td><td></td></tr><tr><td>BIO 14</td><td>Precipitation of driest month</td><td>10.5</td><td>2.8</td><td>1.8</td><td>5.4</td><td>6.9</td><td></td><td>2.8</td></tr><tr><td>BIO 15</td><td>Precipitation seasonality</td><td>9.3</td><td>1.5</td><td>13.4</td><td>5.9</td><td>8.5</td><td>6.9</td><td>6.4</td></tr><tr><td>BIO 16</td><td>Precipitation of wettest quarter</td><td></td><td>1.9</td><td>1.5</td><td>3.6</td><td>1.6</td><td></td><td>3.2</td></tr><tr><td>BIO 17</td><td>Precipitation of driest quarter</td><td>11.0</td><td>2.0</td><td></td><td></td><td></td><td>3.9</td><td>2.0</td></tr><tr><td>BIO 18</td><td>Precipitation of warmest quarter</td><td>9.2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BIO 19</td><td>Precipitation of coldest quarter</td><td>1.2</td><td>18.7</td><td>18.9</td><td>21.4</td><td>19.4</td><td>23.9</td><td>23.0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b1cfdb7ce76cf0689fbf7e3a55714233d25a1f97643817867f26c205c4295ba.jpg",
+        "table_caption": [
+            "Table 2 Niche breadth metrics obtained for each one of the scenarios included in this study "
+        ],
+        "table_footnote": [
+            "Note: Theniche breadthtestwasperformed inENMTools. "
+        ],
+        "table_body": "<html><body><table><tr><td>Scenario</td><td>B1 B2</td></tr><tr><td>LIG</td><td>0.2200 0.9231</td></tr><tr><td>LGM</td><td>0.1893 0.8875</td></tr><tr><td>Present</td><td>0.1839 0.9101</td></tr><tr><td>Future RCP 2.6</td><td>0.2055 0.9154</td></tr><tr><td>Future RCP 4.5</td><td>0.2012 0.9136</td></tr><tr><td>Future RCP 6.0</td><td>0.2110 0.9163</td></tr><tr><td>Future RCP 8.5</td><td>0.2079 0.9156</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The area with the highest probabilities of occurrence for the LIG model is concentrated in the southern-central part of the MP and a very small area in the northern part of the CD; the probability of occurrence for the TCV is very low (Fig. 2a). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The LGM model estimated a shift of the distribution range towards the southern part of Mexico, showing high probabilities of occurrence in three well defined regions: the southern part of the MP, the TCV and the southern part of the Sierra Madre del Sur (SMS; Fig. 2b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The model for the present scenario properly predicted the known distribution range of $T .$ frutescens, assigning high probabilities of occurrence mainly to the southern-central part of USA, the MP and the TCV, excluding the mountain region of the TMVB (Fig. 2c). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All future scenarios for the distribution of T. frutescens showed a general pattern of reduction and fragmentation of its distribution range when compared to the present (Figs. 2d-g). High probabilities of occurrence are concentrated in the central and meridional part of the MP, while a very reduced and isolated suitable area in the northern part of the CD was predicted for three RCP scenarios (4.5, 6.0 and 8.5; Figs. 2e-g). In addition, an important pattern of range reduction was also detected in the TCV, where areas with high probabilities of occurrence were almost absent. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a52a6ca98035837f4db3997a0aa9f67e2d98aa62ee946332fa61434d5d903a6.jpg",
+        "img_caption": [
+            "Fig.2Ecological niche modeling of Talinopsis frutescens under different scenarios.a and b,Past: (a)Last Interglacial; (b) Last Glacial Maximum. (c) Present. $\\mathrm { d - g }$ ,Future, year 2070: (d) RCP2.6; (e) RCP 4.5; (f) RCP 6.0; (g)RCP 8.5. Probabilities of ocurrence are presented in color ramp,wherethe highest values are represented in red,and the lowest value in black.The present scenario includes the biogeographic regions mentioned in the text. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The projection made for the LIG shows high probabilities of occurrence concentrated mainly in the central part of the MP, with small areas in the northern part of the CD. Although the niche breadth metric value for the LIG scenario was the highest, the area with high probabilities of occurrence of the species was concentrated only in the southern part of the MP; the probabilities of occurrence of the species in the TCV are very low, so a contraction event during the LIG period can be inferred when comparing this distribution range with the present scenario. This pattern agrees with estimations for some arid environmental taxa such as Agave lechuguilla (Scheinvar et al.,2O17),Berberis trifoliolata (Angulo et al., 2017) and Ephedra compacta (Loera et al.,2017)，where the present distribution is larger than the predicted for the LIG period. However, there are few examples where the distribution range predicted for the LIG and the present was very similar in both scenarios, like the pattern observed for Lindleya mespiloides (Vasquez-Cruz and Sosa, 2016). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The shift towards the southern part of Mexico predicted for the LGM period may have been propitiated by variations in the precipitation regime (amount and seasonality), temperature and sea level, which promoted migration of many arid environmental taxa to lower latitudes (Metcalfe, 2006). It is noteworthy that the three areas with predicted high occurrence probabilities during the LGM period were apparently isolated from each other. The formation of the TMVB,specifically its last volcanic episode (from the late Pliocene to the Holocene; Gómez-Truena et al., 2O07) may be responsible for this pattern in the southern part of the distribution range of the species, where the populations were potentially isolated from those located in the MP; coupled with this pattern, the niche breadth metric obtained for the LGM was the lowest, suggesting a reduction in the area potentially occupied by the species in that period. In general, the models and the values obtained from the niche breadth test support the hypothesis that the distribution range of T. frutescens changed throughout the last interglacial and glacial periods. Studies on native species from arid environments have shown that their distribution range experienced contraction and fragmentation patterns during the LGM period. For instance, Larrea tridentata is one of the most common and important elements in the CD and currently has a broad distribution range in the MP; however, it is known that its distribution range experienced contractions and expansions and recently (Holocene) has expanded to the northern part of the CD (Duran et al., 2Oo5). The fact that $L .$ tridentata may act as a nurse plant of T. frutescens (Miguel-Vazquez and Ocampo, 2O17) and that both species have a similar pattern of recent expansion to the northern part of the CD, could indicate a close relationship between these two taxa, suggesting a potential correlation in the distribution changes during the LIG and LGM periods. Similar nursing interactions of $L .$ tridentata with other arid environmental plant species, especially cacti, have been documented (Samour-Nieva, 2012). Some implications of the effects of the Pleistocene glacial and interglacial periods have been exposed in other studies, such as gene flow limitation, decline or loss of genetic variation, isolation in refugia and recent expansions (Nason et al., 2OO2; Ruiz-Sanchez et al., 2012; Scheinvar et al., 2017). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The four future scenarios and the observed reduction and isolation events agree with the models estimated for other taxa, whose distribution ranges have been affected by climate change (Kelly and Goulden, 2OO8). Our study shows that isothermality (variable with the highest contribution to the model in all future scenarios, ranging from $2 5 . 7 \\%$ to $3 3 . 5 \\%$ ）and precipitation in the coldest quarter ( $( 1 9 . 4 \\% - 2 3 . 9 \\%$ contribution） could be factors that affect the distribution range of the species. These results may have strong implications, because climate change not only produces aridification, but also changes in the precipitation regime (IPCC, 2O07). It is likely that these two processes will severely impact the distribution range of $T .$ frutescens and its associated species; for instance, it is known that the distribution of $L .$ tridentata has already been affected by temperature changes due to climate change (Ballsteros-Barrera, 2OO8). Another study that employed ENM tools focused in Neobuxbaumia tetetzo (Cactaceae), an endemic species from the ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TCV, showed a patern of contraction in the distribution range of the species in projections made to the future (Davila et al., 2013). Recently, Sosa et al. (2O18) proposed areas of interest with high number of endemism in Mexico, most of them occurring in places with some conservation status; however, it is worrying that the areas located in the CD are not considered under any legal protection condition. Talinopsis frutescens is found in two of the arid regions with the highest biodiversity in North America (CD and TCV),and establishes associations with plants that are emblematic for these areas (i.e.， cacti and creosote bush ( $L .$ tridentata)). Therefore, the data obtained in this study may provide further information for conservation purposes, contributing to understand the evolution of the arid zones of North America, and supporting the creation of new natural protected areas within this important habitat. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Our results show that the distribution range of $T .$ frutescens may have suffered changes in the past and that it is potentially prone to range reduction and fragmentation due to the effects of climate change. The pattern observed for past scenarios agrees with the results reported for other species from arid environments. This could support the hypothesis of the Pleistocene refugia, where the organisms remained isolated during these periods. The present scenario shows a recent possible expansion in the northern part of the CD, which may have occurred after the LGM once that climatic conditions in the CD changed and the aridification of that region started. Finally, all future projections show a distribution range contraction and fragmentation， including a considerable reduction, or even local extinction, of the southernmost populations of T. frutescens, which are located in the TCV. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This is a preliminary study that shows information about the possible behavior of a North American endemic species during the glacial and interglacial periods and, at the same time, provides estimations of the possible effects of global warming on taxa from arid environments. Our results agree with other studies that show the negative effect of this factor on the distribution range of the species, which tends to modify it and may induce local extinctions in the worst scenario. It is expected that this information may help to attract more attention on the changes and effects of higher carbon emissons on deserts and other arid environments; these ecosystems are very important because of the occurrence of a high number of endemic plant and animal species and support a substantial fraction of the North American biota. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This study was partially funded by the National Council of Science and Technology, Mexico (PhD scholarship 436041)and the Cactus and Succulent Society of America grant, both provided to the first author. The research was supported by the Educational Professional Development Program (#UAA-PTC-169） granted to the corresponding author by the Public Education Department and the Autonomous University of Aguascalientes, Mexico. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AnguloDF,AmarilaLD,AntonAM,etal.2O17.ColonizationinNorth Americanaridlands: the journeyofagarito(Berberis trifoliolata)revealed by multilocus moleculardata and packrat midden fossil remains.PLoSONE,12(2): e016893.   \nBalesteros-BareraC.2O08.EffectofglobalclimatechangeonthedistributionofChiuahuanDesertspecies.PhDDssertation. México: National Autonomous University of Mexico. (in Spanish)   \nCevalos-Ferriz SRSGonzalez-TorresEA,Calvill-CanadellL2012.Paleobotancalandgeologicalperspectiveof the biodiversity in Mexico. Acta Botanica Mexicana,100: 317-350. (in Spanish)   \nDavila P,delCoroArizmendiM,Valiente-BanuetA,etal.2o2.BiologicaldiversityintheThuacan-Cuicatlan Valleyexico. Biodiversity and Conservation,11(3): 421-442.   \nDavila,P,TelezOLiraR.2013.Impactofclimatechangeonthedistributionofpopulationsofanendemic Mexicancolumnar cactusin the Tehuacan-Cuicatlan Valley,Mexico.Plant Biosystems,147(2): 376-386. Fouquieria (Fouquiericee,Ericales)inNorth American deserts.MolecularPhylogeneticsand Evolution,126: 92-104.   \nDuran KL,LowreyTK,Parmenter RR,et al.2Oo5.Genetic diversity in Chihuahuan Desert populationsofcreosotebush (Zygophyllaceae: Larrea tridentata). American Journal of Botany,92(4): 722-729.   \nFerari L,López-Martinez M, Aguire-Diaz G, etal.199. Space-time paterns ofCenozic arc volcanismincentral Meico: from the Sierra Madre Occidental to the Mexican Volcanic Belt. Geology,27(4): 303-306.   \nGent PR,Danabasoglu G,DonnerLJ,etal.2011.Thecommunityclimate systemmodel version4.JournalofClimate,24(19): 4973-4991.   \nG6mez-Tuena A,Orozco-EsquivelMTFerrariL.2O7.Igneous petrogenesisofthe Tans-Mexican VolcanicBelt.Geological Society of America, 422: 129-181.   \nHafner D J, Riddle BR. 2011. Boundaries and bariers of North American warm deserts: an evolutionary perspective. In: Upchurch P,McGowan AJ,Slater CSC.Palaeogeographyand Palaeobiogeography: Biodiversityin Spaceand Time.Boca Raton: Taylor and Francis Group,74-101.   \nHerandez-LedesmaP,Berendsohn WG,Borsch T,etal.2O15.Ataxonomic backbonefortheglobalsynthesisof species diversity in the angiosperm order Caryophyllales. Willdenowia, 45(3): 281-383.   \nHijmansRJ,Cameron SE,ParraJL,etal.2Oo5. Veryhighresolution interpolated climatesurfaces for globallandareas. International Journal of Climatology, 25(15): 1965-1978.   \nHoyt C. 20o2. The Chihuahuan Desert: diversity at risk. Endangered Species Bulletin, 27(2): 16-17.   \nHunter KL,BetancourtJL,Riddle BR,et al.2Oo1.Ploidyrace distributions since the Last Glacial Maximum in the North American desert shrub, Larrea tridentata. Global Ecology and Biogeography, 10(5): 521-533.   \nIPCC.2007.ClimateChange 2007: The Physical Science Basis.Contribution of Working Group Ito the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press,996.   \nKelly AE,Goulden ML.2Oo8.Rapid shifts in plant distribution with recent climate change.Procedings of the National Academy of Sciences,105(33): 11823-11826.   \nKigerRW.2O03.Talinopsis.In: FraofNorthAmericaEditorialCommitee,FloraofNorthAmericaNorthofMexicoVol.4. Magnoliophyta: Caryophyllidae,Pt.1. New York: Oxford University Press,501-502.   \nLevins R.1968. Evolution in Changing Environments. Princeton: Princeton University Press,132.   \nLoeraI,Ickert-BondSM,Sosa V.2O17.Pleistocenerefugia intheChiuahuanDesert:thephylogeographicanddemographic history of the gymnosperm Ephedra compacta. Journal of Biogeography, 44(12): 2706-2716.   \nMetcalfe SE.20o6.Latequaternary environmentsofthe northern desertsand Central Transvolcanic Beltof Mexico.Anals of the Missouri Botanical Garden, 93(2): 258-273.   \nMiguel-Vazquez M I, Ocampo G. 2017. Knowing more about Talinopsis frutescens (aroyo fameflower)a North American endemic succulent species. Cactus and Succulent Journal, 89(2): 88-91.   \nMorafka DJ.1977.A Biogeographical Analysis ofthe Chihuahuan Desert through its Herpetofauna.The Hague: Dr. W. Junk B.V., 321.   \nMorrone JJ.2005.Towardasynthesis of Mexicanbiogeography.Mexican Journalof Biodiversity,76(2): 207-252.(in Spanish)   \nNakazatoT, WarrenDL,MoyleLC.2010.Ecologicaland geographic modes ofspecies divergence in wild tomatoes.American Journal of Botany,97(4): 680-693.   \nNason JD, Hamrick JL,Fleming TH.2O02. Historical vicariance and postglacial colonizationefects on the evolutionof genetic structure in Lophocereus,a Sonoran Desert columnar cactus. Evolution,56(11): 2214-2226.   \nOcampo G, Columbus JT.2010. Molecular phylogenetics of suborder Cactineae (Caryophylales), including insights into photosynthetic diversification and historical biogeography. American Journal of Botany,97(11): 1827-1847.   \nOcampo G. 2011. Anacampserotaceae. Flora del Valle de Tehuacán-Cuicatlán, 84: 1-12.   \nOto-Bliesner BL, MarshallSJ,OverpeckJT,et al.26.Simulating Arcticclimate warmthand icefield retreat inthelast interglaciation. Science, 311(5768): 1751-1753.   \nPhillps SJ,AndersonRP,Dudik M,etal.2017.Opening the black box: anopen-source releaseof Maxent.Ecography,40(7): 887-893.   \nRolando A. 1990. On niche breadth and related concepts. Italian Journal of Zoology, 57(2): 145-148.   \nRuiz-Sanchez E,Rodriguez-Gomez F,Sosa V.2012. Refugia and geographic bariers of populationsof the desert popy, Hunnemannia fumariifolia (Papaveraceae). Organisms Diversity and Evolution,12:133-143.   \nRzedowski G C.2005. Talinopsis.In: Rzedowski G C,Rzedowski J. Phanerogamic Floraof the Valeyof Mexico.Patzcuaro: Institute of Ecology,A.C.,National Commisson for the Knowledgeand Useof Biodiversity,147. (in Spanish)   \nRzodowski J. 2006. Vegetation of Mexico ( $1 ^ { \\mathrm { s t } }$ ed.). Mexico: National Commission for the Knowledge and Use of Biodiversity, 504. (in Spanish)   \nSamour-Nieva OR.2012.Nurse efectof Larrea tridentataand its impactonthe diversityof perennial plantspecies in the Potosino plateau region,Mexico.Msc Thesis.Mexico: Potosino Instituteof ScientificandTechnological Research,A.C.(in Spanish)   \nScheinvar E,GamezN,Castellanos-MoralesG,etal.2017.NeogeneandPleistocene historyof Agave lechuguill inthe Chihuahuan Desert. Journal of Biogeography, 44(2): 322-334.   \nShreve F. 1942. The desert vegetation of North America. The Botanical Review, 8: 195-246.   \nSosa V,De-NovaJA,Vasquez-CruzM.2018.EvolutionaryhistoryofthefloraofMexico:Dryforests cradlesand museums of endemism. Journal of Systematics and Evolution,56 (5): 523-536.   \nValiente-Banuet A,Solis-Rojas L,DavilaP,etal.2O09.Guideof thevegetationof the Tehuacan-Cuicatlan Valley $1 ^ { \\mathrm { s t } }$ ed.). Mexico: National Autonomous University of Mexico, 2O8.(in Spanish)   \nVasquez-CruzM,SosaV.2O16.Newinsightsontheoriginof thewoodyfloraof theChihuahuanDesert:ThecaseofLindleya, American Journal of Botany, 103(9): 1694-1707.   \nWalker JF, Yang Y,Feng T,etal.2O18.Fromcacti tocarnivores: Improved phylotranscriptomicsamplingand hierarchical homology inference provide further insightinto theevolutionof Caryophylales.American Journal ofBotany105(3): 446-462.   \nWarenDL,GlorRE,TurelliM.2Oo8.Environmentalnicheequivalencyversusconservatism:quantitativeappoaches toniche evolution. Evolution, 62(11): 2868-2883.   \nWilsonJS,PitsJP.2O10.IluminatingthelackofconsensusamongdescriptionsofearthhistorydataintheNorthAmerican ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/5127aaf9d761aad7793a30509ac1a31e357b4723549b2383179d4404f10ccb33.jpg",
+        "table_caption": [
+            "Table S1 Data sources "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ntry</td><td>State</td><td>City/County</td><td>Record</td></tr><tr><td>tedf</td><td>New Mexico</td><td>Doia Ana</td><td>P. J.lexder41();F1744(); R.D</td></tr><tr><td>erica</td><td></td><td>Otero</td><td>E. Ward and R. Soreng 81/545 (SP).</td></tr><tr><td></td><td>Texas</td><td>Brewster</td><td>A. M. Powell and B. Turner 6457 (SP); Sherman et al. 123 (GBIF).</td></tr><tr><td rowspan=\"8\"></td><td rowspan=\"8\"></td><td>Culberson</td><td>Y. Chauvin 07YC027-DS11 (SP); R. D. Worthington 23377 (SP).</td></tr><tr><td>El Paso</td><td>R.D.WorthingtoSP:R.DWo)</td></tr><tr><td> Hudspeth</td><td>R. D. Worthington s.n. (SP).</td></tr><tr><td>Presidio</td><td>W. R Carr378R);.Jtl.47(SP;A.S41</td></tr><tr><td>Aguascalientes</td><td>M. de la Cerda 1216 (HUAA); G. Garcia 4516 (HUAA); G. Gonzalez</td></tr><tr><td>Aguascalientes Asientos</td><td>A. 310 (HUAA); G. Ocampo A. 1949 (HUAA). G. Garcia 5490a (HUAA).</td></tr><tr><td>Calvillo</td><td>M. de la Cerda and G. Garcia 1119 (HUAA); G. Gonzalez A. 1073</td></tr><tr><td>Cosio</td><td>M. E. Siqueiros D. 2510 (HUAA).</td></tr><tr><td rowspan=\"11\"> Chihuahua </td><td></td><td></td><td>(HUAA): M. C. Macias 311 (HUAA).</td></tr><tr><td></td><td> Jesus Maria</td><td>M. de la Cerda 6232 (HUAA); G. Garcia 5453 (HUAA).</td></tr><tr><td></td><td> Rincón de Romos</td><td>M. de la Cerda 1608 (HUAA); G. Garcia 5526 (HUAA).</td></tr><tr><td></td><td>San José de Gracia</td><td>M. de la Cerda and G. Garcia 1058 (HUAA).</td></tr><tr><td></td><td>Ahumada</td><td>E. Lehto et al. L-21487 (S. P.).</td></tr><tr><td></td><td> Aldama</td><td>M. Miguel V. et al. 771, 772 (HUAA); C. Yen and E. Estrada 8693 (ANSM).</td></tr><tr><td></td><td>Allende</td><td>E. Aldrete M. s.n. (INEGI).</td></tr><tr><td></td><td> Aquiles Serdán</td><td>E. Lehto et al. L-21555 (SP).</td></tr><tr><td></td><td>Ascencion</td><td>V. M. L6pez S. V5.4 (INEGI).</td></tr><tr><td></td><td> Camargo</td><td>R. Aguirre C. s.n. (INEGI).</td></tr><tr><td>Coahuila</td><td>Jiménez</td><td>J. Henrickson 5954b (MEXU); M. Miguel V. et al. 773 (HUAA).</td></tr><tr><td rowspan=\"2\"></td><td> Muzquiz</td><td></td><td>R. Morán 6264 (MEXU).</td></tr><tr><td>Ramos Arizpe</td><td></td><td>J. A. Villarreal and M. A. Carranza 4526 (ANSM).</td></tr><tr><td></td><td>Durango</td><td>Torreón</td><td>E. Estrada 20689 (ANSM).</td></tr><tr><td rowspan=\"18\"></td><td></td><td>Gomez Palacio</td><td>H.S.GentrydR.G.EgardA6(GBF);M.MigueVal7</td></tr><tr><td></td><td>Guadalupe Victoria</td><td>H. S. Gentry 8401 (RSA).</td></tr><tr><td></td><td> Hidalgo</td><td>M. Miguel V. et al. 770 (HUAA); E. Morales 14 (CIIDIR). H. H. Iltis 101 (UNIBIO); M. C. Johnston et al. *258619 LL (REMIB);</td></tr><tr><td></td><td>Lerdo</td><td>J. A. Villarreal *258615 TEX (REMIB).</td></tr><tr><td></td><td> Mezquital</td><td>M.C Gonzlez GC:Y(UA37);M.</td></tr><tr><td></td><td>Nuevo Ideal</td><td>N. Almaraz A. 39 (CIIDIR); M. Miguel V. et al. 769 (HUAA).</td></tr><tr><td></td><td> Santiago Papasquiaro</td><td>R. Corral D.and R. D. Worthington 500 (GBIF).</td></tr><tr><td>Guanajuato</td><td>Tlahualilo</td><td>A. Garcia A. 3009,3048,3255,3340, 3737 (CIIDIR)</td></tr><tr><td></td><td>Comonfort</td><td>S. Zamudio 5663 (RSA). M. Miguel V.et al. 756 (HUAA); R. Ocampo 51 (IEB); E. Ventura</td></tr><tr><td></td><td>Dolores Hidalgo</td><td>and E. L6pez 6068 (IEB).</td></tr><tr><td></td><td>Ocampo</td><td>E.CarranzaanL)J R):)eVeal755</td></tr><tr><td></td><td>San Diego de la Union</td><td>J. Rzedowski 52110 (IEB).</td></tr><tr><td></td><td> San Felipe</td><td>J. Rzedowski 38658,43650 (IEB).</td></tr><tr><td></td><td>San José Iturbide</td><td>J. Gutiérrez G.and A. Ramirez 152, 386 (IEB).</td></tr><tr><td></td><td>San Luis de la Paz</td><td>J. N. Labat and E. Carranza G. 2525 (GBIF); M. Miguel V. et al. 757 (HUAA); E. Ventura 9372 (IEB); S. Zamudio R.et al.11599 (IEB).</td></tr><tr><td></td><td>San Miguel de Allende</td><td>G. Ocampo A. and N. Sandoval 1937 (HUAA).</td></tr><tr><td></td><td>Tarimoro</td><td>J. Rzedowski 40538 (IEB).</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7d0db78fce250d07360d0896865db30d173a05b255d00f7ed2bdcecb8431cf9.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Note:BiodiversityDatasets:GBIF,GlobalBiodiversityInformationFacility(htps://www.gbif.org)；REMB,RedMundialde InformacionsobreBiodiversidad-Conabio(htp://ww.conabio.gob.mx/remib/doctos/remib_esp.html)；SP，SerecPortal (http://sermeprtalg/ortal);UO,UnidddeIforaticapralaivesidad,Uivesidadacoalutoodeeic (http://unibiounamm).Herbaria:Uiversidadutonogariatoiooexico;,stitutoiic Nacional,Uddragoeico;Uveadtodascateseico;Biutoola A.C.,CentroRegioaldelajioMexico;IEGI,IstitutocionaldeEstadisticayGeorafia,exico;MEXU,Universidadcioal AutonomadeMexicoMexico;RSA(RanchoSantaAnaBotanicGarden,USA;UAZ,UniversidadAutonomadeZacatecas,exico. Others: s.n., without number; \\*, numbers preceded byan asterisk correspond to herbarium accession numbers. "
+        ],
+        "table_body": "<html><body><table><tr><td>Country</td><td> State</td><td>City/County</td><td>ComRia Record</td></tr><tr><td></td><td>Hidalgo</td><td>Ajacuba</td><td>M. Miguel V. et al. 762 (HUAA).</td></tr><tr><td rowspan=\"2\"></td><td></td><td> Epazoyucan</td><td>J. Rzedowski s.n. (REMIB).</td></tr><tr><td></td><td>Tizayuca</td><td>M. E. Castilla and D. Tejero s.n. (REMIB).</td></tr><tr><td rowspan=\"2\"></td><td> Jalisco</td><td> Lagos de Moreno</td><td>R. McVaugh s.n. (REMIB); M. Miguel V. et al. 754 (HUAA).</td></tr><tr><td></td><td>Ojuelos de Jalisco</td><td>P. Carrillo-Reyes et al. 465,505 (IEB); G. L6pez D.et al. 17 (IEB).</td></tr><tr><td rowspan=\"2\"></td><td>Nuevo León</td><td>Aramberri</td><td>GSH s.n. (GBIF); M. Miguel V. et al. 775 (HUAA).</td></tr><tr><td></td><td>Galeana</td><td>Hinton et al. 25675 (IEB); s.n. (REMIB).</td></tr><tr><td rowspan=\"2\"></td><td></td><td>Rayones</td><td>Hinton et al. 20816 (GBIF).</td></tr><tr><td></td><td>Santa Catarina</td><td>J. A. Villarreal and D. Jasso 9055 (GBIF).</td></tr><tr><td rowspan=\"2\"></td><td>Puebla</td><td>San JoséMiahuatlan</td><td>F. Chiang C. F-2236 (MEXU); M. Miguel V. et al. 764 (HUAA); A. Salinas T. 4070 (MEXU).</td></tr><tr><td></td><td>Zapotitlan</td><td>M. Miguel V. et al. 763 (HUAA).</td></tr><tr><td rowspan=\"9\"></td><td>Querétaro</td><td>Cadereyta de Montes</td><td>M MiguelVetal.7(UA):Rub.3(IEB);S.a</td></tr><tr><td></td><td>Col6n</td><td>J. Rzedowski 48818 (IEB); S. Zamudio R. 7383 (IEB).</td></tr><tr><td></td><td> El Marques</td><td>G. Ocampo and D.Garcia 1003 (IEB).</td></tr><tr><td></td><td>Penamiller</td><td>M. Miguel V. et al. 759 (HUAA); G. Ocampo A. and E. Pérez C. 1024</td></tr><tr><td></td><td> San Juan del Rio</td><td>(RSA); S. Zamudio R. 3689 (IEB). M. Miguel V. et al. 765 (HUAA).</td></tr><tr><td></td><td> Tequisquiapan</td><td>M. Miguel V. et al. 761 (HUAA).</td></tr><tr><td></td><td>Tolimán</td><td>G. Ocampo A. and E. Pérez C. 1218 (RSA); S. Zamudio R. 12200</td></tr><tr><td> San Luis</td><td>Ciudad Fernändez</td><td>F. Chiang et al. 8205 (GBIF).</td></tr><tr><td>Potosi Guadalcäzar</td><td></td><td>McGill et al. P-13527 (SP); O. J. Soto A. s.n. (INEGI).</td></tr><tr><td rowspan=\"10\"></td><td></td><td></td><td>G. Ocampo A. et al. 1943 (HUAA).</td></tr><tr><td></td><td>Salinas de Hidalgo Santa Maria del Rio</td><td>V.W. Steinmann et al. 3777 (IEB).</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>Villa de Reyes</td><td>J. AVidJZ);J</td></tr><tr><td>Zacatecas</td><td>Zaragoza</td><td>T. Reeves R-6274 (GBIF).</td></tr><tr><td></td><td>Canitas de Felipe</td><td>J. J. Balleza and M. Adame G. 13557 (GBIF).</td></tr><tr><td></td><td>Cuauhtémoc</td><td>M. Miguel V. et al. 766 (HUAA).</td></tr><tr><td></td><td>Fresnillo</td><td>M. Miguel V. et al. 767 (HUAA); E. J. Rodriguez-Pérez 1610 (UAZ).</td></tr><tr><td></td><td> Guadalupe</td><td>E. J. Rodriguez-Pérez 894 (UAZ).</td></tr><tr><td> Luis Moya</td><td>Loreto</td><td>J. J. Balleza and M. Adame G. 13944 (GBIF).</td></tr><tr><td></td><td></td><td></td><td>E. J. Rodriguez-Pérez 1603 (UAZ).</td></tr><tr><td></td><td>Mazapil</td><td></td><td>F. Chiang C. et al. 7911 (GBIF); M. Miguel V. et al. 776 (HUAA); E.</td></tr><tr><td></td><td></td><td>Melchor Ocampo</td><td>M. C. Johnson et al. 11536-B (GBIF).</td></tr><tr><td></td><td>Ojocaliente</td><td></td><td>E. J. Rodriguez-Pérez 1604 (UAZ).</td></tr><tr><td></td><td></td><td>Pinos</td><td>M. Miguel V. et al. 778 (HUAA).</td></tr><tr><td></td><td></td><td>Rio Grande</td><td>F.Chiang C.et al. 10422-A(GBIF); E.J. Rodriguez-Pérez 1606,1607 (UAZ).</td></tr><tr><td></td><td></td><td>Trancoso</td><td>G. Ocampo A. et al. 1948 (HUAA).</td></tr><tr><td></td><td></td><td>Villa de Cos</td><td>McGill et al. P-13505 (SP).</td></tr><tr><td></td><td></td><td>Villa Garcia</td><td>J. J. Balleza and M. Adame G. 14051 (GBIF).</td></tr><tr><td></td><td></td><td>Villa Hidalgo</td><td>E. J. Rodriguez-Pérez 1608,1609 (UAZ).</td></tr></table></body></html>",
+        "page_idx": 10
+    }
+]

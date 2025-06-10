@@ -1,0 +1,303 @@
+# 维吾尔文论坛中基于术语选择和Rocchio分类器的文本过滤方法\*
+
+如先姑力·阿布都热西提'，亚森·艾则孜1，艾山·吾买尔²a，阿力木江·艾沙 2b(1．新疆警察学院 信息安全工程系，乌鲁木齐 830013;2.新疆大学a.信息科学与工程学院;b.网络中心，乌鲁木齐830046)
+
+摘要：针对维吾尔文网页论坛中的文本过滤问题，提出一种基于术语选择和Rcchio分类器的文本过滤方法。首先，将论坛文本进行预处理以删除无用词，并基于N-gram统计模型进行词干(术语)提取；然后，提出一种均衡考虑相关性和冗余性的均衡型互信息术语选择方法(BMITS)，对初始术语集合进行降维，获得精简术语集；最后，将文本特征术语作为输入，通过Rocchio分类器进行分类，以此过滤掉论坛中的不良文本。在相关数据集上的实验结果表明，提出的方法能够准确地识别出不良类型文本，具有有效性。
+
+关键词：维吾尔文论坛；文本过滤；N-gram 统计模型；术语选择；Rocchio分类器 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2017.10.0940
+
+# Text filtering method based on term selection and Rocchio classifier in uyghur forum
+
+Ruxianguli:abudurexiti1, Yasen:aizezi1†,Aishan $\mathbf { \nabla } \cdot \mathbf { \mu }$ wumaier2a, Alimu:aisha2b (1.Dept.of InformationSecurityEngineering XinjiangPoliceColege，Urumqi830o13,China;2.a.SchoolofInformation & Engineering，b. Network Centry， XinjiangUniversity,Urumqi 830046,China)
+
+Abstract:Forthe isses thatthetextfiltering inUyghur web forum,thispaper proposedatextfiltering methodbasedonterm selectionandRocchioclassifier.Firstly,itpreprocessedtheforumtext toremoveuselesswordsandextract stemming (term) basedontheN-gramstatisticalmodel.Then,it proposedabalanced mutualinformationterm selection method (BMITS),which consideredthecorrelationandredundancyofequlibrium,used toreduce thedimensionofinitialtrmsetandobtain thereduced termset.Finalyitmadethetextfeaturetermsasiput,andusedRocchiolassifiertofilteroutthebadtext.Theexpeital results show that the proposed method can accurately identify the bad type text, which is effective.
+
+Key Words: uyghur forum; text filtering; N-gram statistical model; term selection; Rocchio classifier
+
+# 0 引言
+
+随着互联网的高速发展，网页论坛也爆发式增加。论坛方便了网民的信息交流，也提高了工作学习效率。然而，由于网页论坛是开放式的，也存在一些负面影响，如迷信、反动、暴力色情等非法信息的传播，不利于社会的稳定和人民身心健康[1,2]。因此，对网页论坛中一些非法文本进行过滤具有重要的意义。
+
+近些年，随着国家对新疆地区发展的大力支持，网络化建设也得到快速发展，产生了很多以维吾尔文进行书写的Web论坛。有些疆独分子通过维吾尔文论坛传播着各种不良信息，为此，对维文网页论坛中的不良文本进行过滤，对新疆的长治久安具有促进作用[3]。
+
+为了实现维吾尔文网页论坛中的文本过滤，主要是对这些文本进行有效分类，然后将分类为不良类的文本进行删除[4]。对于维吾尔文文本分类的研究，近些年学者提出了一些方法。例如文献[5]提出了一种基于组合统计量(Dme)的维吾尔文文本分类方法，该Dme包含了互信息、t-测试和熵值，以此来进行词干提取和降维，并采用K近邻算法(k nearest neighbor,k-NN)作为文本分类器。文献[6]提出了一种基于词频-逆文本频率(term frequency-inverse document frequency,TF-IDF)和支持向量机(supportvectormachine,SVM)的维吾尔文情感分析方法，通过TF-IDF获得区分性关键词。文献[7]提出了一种基于N-gram模型和曼哈顿(Manhattan)距离的维吾尔文文本分类技术，其采用了4元模型，并在Manhattan 距离中融入了骰子测量。然而这些方法都不能很好地对特征进行降维，导致文本分类精度不高且计算量较大。
+
+为此，本文提出一种基于术语选择和Rocchio分类器的文本过滤方法，并通过相关对比实验证明了该方法的有效性。提出方法的主要研究内容如下：
+
+a)通过N-gram 统计模型进行词干(术语)提取，并通过实验确认，当 $\scriptstyle \mathbf { N = } 4$ 时最适合维吾尔文文本特性。
+
+b)为了解决传统基于互信息术语选择方法(mutualinformationtermselection,MITS)的缺陷，提出一种均衡考虑相关性和冗余性的均衡型MITS(balancedMITS,BMITS)，从初始术语集合中选择出具有高区别性的术语子集。
+
+c)选择了在效率和泛化能力方面都较为优越的Rocchio 分类器对文本进行分类，过滤掉不良文本。
+
+# 1 维吾尔文的文本分类描述
+
+# 1.1维吾尔语的语言结构
+
+维吾尔语是一种高度黏着性语言，其单词由32个字母组成，每种字母有4种不同的形式，致使其时态和形态变化比英语更丰富。维吾尔语中，通过在单词的结尾添加不同的词缀来实现语法功能[8]。即很多词语是由同一词根演变而来的，且这些单词的词义相差不大。由于这些特征，导致维吾尔语文本的原始特征维数大、文本表示稀疏等问题[9]，与传统中文或英文的文本分类方法相差很大。
+
+维吾尔语的动词和一部分名词是由词根中形成的。词汇具有固定模式，通过在词的前后添加前缀和后缀可以表示它的数、性和时态。表1展示了可能添加到单词“”（诗人）中的不同词缀及其含义。其中，下画线上的字母为词缀。
+
+表1词干"”（诗人）上的添加不同词缀形成的单词  
+
+<html><body><table><tr><td>维吾尔语单词</td><td>词义</td><td>维吾尔语单词</td><td>词义</td></tr><tr><td></td><td>诗人</td><td>LEL</td><td>在诗人</td></tr><tr><td>oCEiL</td><td>诗人 (女)</td><td>E</td><td>在诗人(女)</td></tr><tr><td>EL</td><td>诗人的</td><td>LLEL</td><td>像个诗人</td></tr><tr><td></td><td>诗人们</td><td>iln</td><td>我的诗人</td></tr><tr><td>CEL</td><td>诗人们(女)</td><td></td><td>你的诗人</td></tr><tr><td>yL</td><td>诗人们的</td><td>Elrl</td><td>他的诗人</td></tr></table></body></html>
+
+# 1.2维吾尔语的文本分类过程
+
+已有大量的研究人员对汉语和英语文本进行分类研究，但很少有人对维吾尔文进行文本分类。在这里将对维吾尔文文本分类的三个主要步骤进行描述，分别为词干提取、特征降维和文本分类。
+
+词干提取，其是从一个词中移除所有词缀来获得词根的过程，以此在文本信息获取任务中提高性能，特别是在类似于维吾尔语之类的高度黏着性语言中。在中文和英语文本分类研究中，词干提取大多采用去除后缀和停留词的方法。基于词根的词干提取技术是使用形态学分析方法对给定维吾尔语单词进行词根提取的操作。例如，文献[10]尝试通过将单词与所有可能的模式以及所有可能附加的词缀进行匹配，从而找到单词的词根，但是该算法不能删除任何前缀或后缀。文献[11]在形态分析系统中使用了不同的算法来找到词根和模式。其首先删除最长前缀，然后通过检查单词的前五个字母来提取词根。然而该算法基于一个假设，即词根一定会出现在单词的前五个字母中。在统计提取法中，常用的为 N-gram 模型[12]，其根据字符串相似性度量对相关单词进行分组。N-gram模型是从单词中提取一组$N$ 个连续字符，相似的词将具有很高的N-gram比例。
+
+特征降维，其是用来降低所提取的词干集合的维度，获得精简特征集。在移除停止词并提取词干后，将每个文本由一个具有 $N$ 个权重项的矢量表示，称做文本表示的词包方法。在这一过程中，将会忽略文本的结构和词序，其特征向量表示文本中观察到的单词。训练集中的超级矢量 $W ( w _ { 1 } , . . . , w _ { d } )$ 由训练集中所有样本词干（也叫做术语）构成。通常，在文本分类中会有大量术语，因此，需要对术语空间进行降维。在英语文本分类中，通常通过一些术语评估函数来对术语集进行降维，选择出重要术语。这些函数有文本频率、互信息增益、 $\chi ^ { 2 }$ 统计量、NGL系数和GSS系数等[13]。
+
+文本分类，其是根据输入的文本特征，对文本进行分类。目前常用的是通过对已经手动分类过的文本进行归纳学习，从而训练分类器。构建分类器具有两种不同的方法，即参数方法和非参数方法。参数方法中，训练数据用于估计概率分布的参数，如概率朴素贝叶斯分类器。非参数方法中，又可以进一步分为两类：基于样本的非参数方法，即将被分类的文本与训练集文本进行比较，将文本分类到与此文本相似度最高的训练文本类中，如k-近邻分类器；基于描述的非参数方法，其首先将分类描述（或线性分类器）用一个术语权重的矢量表示，这一矢量通过对训练集文本预分类得到;然后将描述用做训练数据，并与待分类文本进行比较来进行分类，如Rocchio分类器。
+
+# 2 提出的维吾尔语文本分类模型
+
+本文目的是应用机器学习方法对维吾尔文网页论坛中的文本进行分类过滤。所提出的模型主要包含文本的预处理(词干提取)、术语选择和文本分类三个阶段。图1展示了所提出的维吾尔语文本分类模型。
+
+![](images/6416045dbcc8b42b1a990107df1ac15b336d87207463ad25570030db23d19023.jpg)  
+图1所提出维吾尔语文本分类系统的模型
+
+文本预处理过程即词干提取过程，包含移除停止词和具有共同词根的词。之后，将构建一个超级矢量，再使用特征选择技术对超级矢量进行降维，并将文本以术语权重矢量的形式表示。最后，构建分类器并评估其性能。
+
+# 2.1基于N-gram 统计模型的词干提取
+
+对于词干提取，通常有基于词根的方法和基于统计的方法，相比而言，基于统计的方法更适合维吾尔语文本分类任务。本文采用了N-gram 统计模型来提取维吾尔语词干。采用的 N-gram为字母级别，将所有连续的 $N$ 个字母序列作为一个单元，称为一个 gram。
+
+N-gram 模型中,其设定一个字母单元 $l _ { i }$ 在文本中出现的概率只与前 $N { - } 1$ 个字母相关。因此，字母序列 $L = l _ { 1 } l _ { 2 } l _ { 3 } , . . . , l _ { N }$ 出现的概率表示为
+
+$$
+P ( L ) = P ( l _ { 1 } l _ { 2 } l _ { 3 } , . . . , l _ { N } ) = \prod _ { i = 1 } ^ { N } P ( l _ { i } \mid l _ { i - N + 1 } , . . . , l _ { i - 1 } )
+$$
+
+在维吾尔语中，由于字母相互结合的概率很高，所以较短的 $N$ 不能很好地表现单词属性，而 $N { = } 3 , 4$ 等较长时具有较强的代表性。
+
+在本文基于N-gram 统计模型的词干提取方法中，首先移除了单词中最常见的前缀和后缀，也包含外国语、数字、停止词等；然后通过 N-gram 模型计算两个词的相似性，以此来提取词干。基于N-gram统计模型的词干提取算法如算法1所示。算法1基于N-gram 统计模型的词干提取算法
+
+For文本中的每个词
+
+If 非维吾尔语词汇Then 该词是无用词；  
+If 包含数字Then 该词是无用词;  
+If 单词长度 $< 3$ Then 该词是无用词；  
+移除附加符号，并标准化词汇；  
+If 该词是停止词Then 该词是无用词;  
+移除前缀和后缀；  
+If 该词是停止词Then 该词是无用词;  
+利用 N-gram 统计模型计算单词间相似性获得词干;
+
+# EndFor
+
+首先算法确保单词是一个维吾尔语词，并认为长度少于三个字母的词在文章中是不重要的；接着会移除各种附加符号，这些符号在字母的上面或下面用于正字法，作为词法的标志；之后应用词标准化方法，将一些字母的不同写法（扩展区）统一为相同的形式，如将c，（，， 统一为；将， $a$ 统一为-等。
+
+词形标准化后，算法会检查单词是否在一个停止词表中。停止词表由165个单词组成。消除停止词后，算法移除一组前缀 $( \frac { 1 } { 2 } ) ^ { 1 5 } < \frac { 1 5 } { 2 } < \frac { 1 } { 2 } > \tan ( \frac { 1 } { 2 } ) + \tan ( 1 5 \cos \frac { \pi } { 2 } ) >$ 移除后，算法会检查单词长度是否小于3个字母，如果小于3个，说明前缀是单词的一个主要部分，因此移除的前缀会恢复到单词中。接着将后缀 $( ( \cos ( \cos ( \theta + \infty ) ) + \infty ) + \sin ( \theta + \sin ( \theta + \sin ( \theta ) ) + \cos ( \theta + \sin ( \theta ) ) + \cos ( \theta ) ) + \cos ( \theta + \sin ( \theta ) ) + \sin ( \theta + \sin ( \theta ) )$ 等)递归地从词尾移除。首先从最长的后缀开始，再移除较短的。当词的前缀和后缀都移除之后，算法还会检查该词是否属于停止词表中的词汇，这是因为一些停止词也会附加前缀和后缀。
+
+最后，利用N-gram 统计模型计算单词间的相似性获得最终词干。对语料库中的所有术语对，计算其相似性度量。具有高于预定义相似性阈值的术语被聚类，并仅用其中一个术语来表示。
+
+下面的例子描述了基于N-gram 模型 $( \Nu { = } 2 )$ ，计算两个词（政治）和（政治的）的相似性。
+
+$1 . \dot { \cdots } \dot { a } \dot { \cdots } \dot { a } \dot { \cdots } \dot {  } \dot {  }$ u $4 . 5 6$ 。（首先将词分解为两字母组合模型）
+
+2.分解成的两字母组合 $\mid \Rightarrow$ Lu $4 \div 6 \cdots 0$ （204号
+
+4.分解成的两字母组合 $\Rightarrow ^ { 5 1 . } \sin ^ { 6 } \cos 6 . 4 . 5 0 ^ { \circ }$ ：
+
+那么，相似性为： $S { = } \frac { 2 C } { A + B } { = } \frac { 2 { \times } 3 } { 4 { + } 3 } { = } 0 . 8 5 7 1$ 。其中： $A$ 和$B$ 分别表示第一个词和第二个词中不同的两字母组合数量； $C$ 表示两个词共同的两字母组合数量。将相似性大于阈值 $T _ { s }$ 的两个词归为一个词干。
+
+# 2.2基于 BMITS 的术语选择
+
+2.2.1传统术语选择方法
+
+为了提高分类器的性能，需要对输入文本的术语集进行降维。术语选择技术用于从初始术语集中选择出最能表达文本意思的术语子集。通常使用术语评估函数 $f _ { _ { T E F } }$ 对初始集合中每个术语进行评分，选择出评分较高的术语。
+
+在已有研究中，常用的特征降维技术有互信息、 $\chi ^ { 2 }$ 统计量、NGL系数以及GSS系数等方法，这些方法的表达式如下：
+
+互信息增益 $M I$ 为
+
+$$
+M I ( t _ { k } , c _ { i } ) = \sum _ { C \in \{ c _ { i } , c _ { i } \} } \sum _ { t \in \{ t _ { k } , t _ { k } \} } P ( t , c ) \log \frac { P ( t , c ) } { P ( t ) P ( c ) }
+$$
+
+$\chi ^ { 2 }$ 统计量 $C H I$ 为
+
+$$
+C H I ( t _ { k } , c _ { i } ) = \frac { \lvert T _ { r } \rvert [ P ( t _ { k } , c _ { i } ) P ( \overline { { t _ { k } } } , \overline { { c _ { i } } } ) - P ( t _ { k } , \overline { { c _ { i } } } ) P ( \overline { { t _ { k } } } , c _ { i } ) ] ^ { 2 } } { P ( t _ { k } ) P ( \overline { { t _ { k } } } ) P ( c _ { i } ) P ( \overline { { c _ { i } } } ) }
+$$
+
+NGL系数 $N G L$ 为
+
+$$
+N G L ( t _ { k } , c _ { i } ) = \frac { \sqrt { | T _ { r } | } \bullet [ P ( t _ { k } , c _ { i } ) P ( \overline { { { t _ { k } } } } , \overline { { { c _ { i } } } } ) - P ( t _ { k } , \overline { { { c _ { i } } } } ) P ( \overline { { { t _ { k } } } } , c _ { i } ) ] ^ { 2 } } { \sqrt { P ( t _ { k } ) P ( \overline { { { t _ { k } } } } ) P ( c _ { i } ) P ( \overline { { { c _ { i } } } } ) } }
+$$
+
+GSS系数 $G S S$ 为
+
+$$
+G S S ( t _ { k } , c _ { i } ) = P ( t _ { k } , c _ { i } ) P ( \overline { { t _ { k } } } , \overline { { c _ { i } } } ) - P ( t _ { k } , \overline { { c _ { i } } } ) P ( \overline { { t _ { k } } } , c _ { i } )
+$$
+
+其中： $P ( \overline { { t _ { k } } } , c _ { i } )$ 表示为对一个文本 $x$ ，术语 $t _ { k }$ 不在 $x$ 中，但是$x$ 属于 $c _ { i }$ 类的概率。
+
+# 2.2.2互信息术语选择方法(MITS)
+
+互信息(MI)可表示一个随机变量中包含另一个变量信息的程度，是统计相关性的测度。其输出为一个非负值，其中零表示两个变量是统计独立的。
+
+基于互信息理论来选择文本术语的方法称为互信息术语选择(MITS)[14]。MITS 中，其通过计算 $I ( c ; t _ { k } , S )$ 来选择术语。$I \big ( c ; t _ { k } , S \big )$ 表示在所选择的术语集 $s$ 中，增加术语 $t _ { k }$ 后形成的新术语集与文本类别 $\mathbf { \Psi } _ { c }$ 之间的互信息，反映了术语 $t _ { k }$ 对文本分类的贡献程度。 $I \big ( c ; t _ { k } , S \big )$ 是通过计算术语 $t _ { k }$ 与类别 $\mathbf { \Psi } _ { c }$ 之间的互信息 $I \big ( c ; t _ { k } \big )$ ，然后计算术语 $t _ { k }$ 与先前所选术语 $t _ { s }$ 之间的互信息$I \left( t _ { k } ; t _ { s } \right)$ 之和，并将其乘以一个比例系数 $\beta$ 对 $I \big ( c ; t _ { k } \big )$ 进行校正来获得。表达式如下：
+
+$$
+I \left( c ; t _ { k } , S \right) = I \left( c ; t _ { k } \right) - \beta \sum _ { t _ { s } \in S } I \left( t _ { k } ; t _ { s } \right)
+$$
+
+$I \big ( c ; t _ { k } , S \big )$ 等式右边的第一项为候选术语与文本类别之间的互信息，表示相关性；第二项为求和候选术语与已选术语之间的互信息，表示冗余性。 $\beta$ 值表示为在进行术语选择时考虑输入术语之间冗余度的权重，其决定着在选择术语时，两个方面(即术语与文本类之间的MI和术语与术语之间的MI)的重要性比重。
+
+# 2.2.3提出的BMITS方法
+
+在传统MITS基础上，学者提出了几种改进型的MITS算法，如 MITS-U 算法等。这些方法大多是对式(6)中 $I \big ( c ; t _ { k } , S \big )$ 中第二项进行了改进。然而这些方法存在一些限制。例如，$I \big ( c ; t _ { k } , S \big )$ 中的相关性和冗余性通过一个参数 $\beta$ 来进行权衡。如果 $\beta$ 太小，则算法偏重候选术语与文本类之间的MI，根据单个候选术语和文本类之间的 MI依次选择术语；如果选择的 $\beta$ 太大，则算法偏重考虑候选术语之间的 $\mathbf { M I }$ 。为此 $\beta$ 的选择较为困难，且目前也没有选择参数 $\beta$ 的合适方法。
+
+为了解决上述问题，本文提出一种均衡考虑相关性和冗余性的均衡型MITS 算法(BMITS)，在第二项中引入了候选术语与文本类之间的互信息，且不再需要人为设置一个额外的参数，即利用 $1 / \vert S \vert$ 代替 $\beta$ 。BMITS 从一个初始术语集中选择出具有最大化 $I \big ( c ; t _ { k } \big )$ 并最小化冗余的术语，表达式如下：
+
+$$
+\boldsymbol { G } _ { M I } = \mathop { \arg \operatorname* { m a x } } _ { t _ { i } \in F } \left( I \big ( \boldsymbol { c } ; t _ { k } \big ) - \frac { 1 } { \left| S \right| } \sum _ { t _ { s } \in S } M R \right)
+$$
+
+其中： $| S |$ 为已选择术语的数量； $M R$ 表示在已选术语集 $s$ 中；术语 $t _ { k }$ 对于术语 $t _ { s }$ 的相对最小冗余，定义如下：
+
+$$
+M R = \frac { I \left( t _ { k } ; t _ { s } \right) } { I \left( c ; t _ { k } \right) }
+$$
+
+当 $I \big ( c ; t _ { k } \big ) = 0$ 时，术语 $f _ { i }$ 可被丢弃。如果对于文本类 $c \ : , \ : \ : t _ { k }$ （204和 $t _ { s }$ 之间高度相关，那么 $t _ { k }$ 也将是冗余的。为此，需要设定一个阈值 $T h = 0$ 来与 $G _ { M I }$ 进行比较。如果 $G _ { { \scriptscriptstyle M I } } \le 0$ ，则当前术语 $t _ { k }$ 对于文本类 $c$ 是不重要的，其将会降低所选择的术语集 $s$ 与文本类 $c$ 之间的 $\mathbf { M I }$ ，并将其从 $s$ 中删除；如果 $G _ { \scriptscriptstyle M } > 0$ ，则将术语$t _ { k }$ 作为候选术语。BMITS 选择术语的过程如算法2所示。
+
+算法2：BMITS术语选择  
+输入：初始术语集 $T = \left\{ t _ { k } , k = 1 , \cdot \cdot \cdot , n \right\}$   
+输出：选择的术语集 $s$
+
+开始
+
+1.初始化S=𝜙;
+
+2.为每个术语计算I(c;tk);
+
+3.设置 $n _ { t } = n$ ，根据下式选择术语 $t _ { k }$ ：$\underset { t _ { i } } { \arg \operatorname* { m a x } } \big ( I \big ( \boldsymbol c ; t _ { k } \big ) \big ) , t = 1 , \cdots , n _ { t } \ ;$
+
+设置 $F  F \backslash \{ t _ { k } \} ; S  S \cup \{ t _ { k } \} ; n _ { t } = n _ { t } - 1 ;$ （204号4.While F≠ do计算互信息增益 $G _ { u t }$ ,找到 $t _ { k } , t \in \left\{ 1 , 2 , \cdots , n _ { t } \right\}$ 设置 $n _ { t } = n _ { t } - 1$ ； $F \gets F \setminus \left\{ t _ { k } \right\}$ ：If( $G _ { \scriptscriptstyle M I } > 0$ )then$S \gets S \cup \{ t _ { k } \} \ : ;$
+
+End if
+
+# Endwhile
+
+5.根据 $s$ 中每个术语的 $G _ { \scriptscriptstyle M I }$ 对术语进行排序并进行加权;  
+6.返回 $s$ 。
+
+# 2.3基于 Rocchio 分类器的文本分类
+
+Rocchio分类器是一种典型的应用于文本信息过滤领域的分类器[15]。其会为每个类别 $c _ { i }$ 建立一个原型矢量，文本矢量 $x$ 通过计算与每个原型矢量间的距离进行分类。类别 $c _ { i }$ 的原型矢量是根据属于类别 $c _ { i }$ 的所有文本矢量加权平均得到的。这意味着，与k-NN分类器相比，Rocchio分类器具有更快的学习速度。
+
+对于类别 $c _ { i } ( w _ { i 1 } , w _ { i 2 } , . . . , w _ { i n } )$ ，其原型矢量可以根据下式计算得到
+
+$$
+w _ { i k } = \beta \bullet \sum _ { d _ { j } \in P O S _ { i } } { \frac { w _ { j k } } { | P O S _ { i } | } } - \gamma \bullet \sum _ { d _ { j } \in N E G _ { i } } { \frac { w _ { j k } } { | N E G _ { i } | } }
+$$
+
+其中： $w _ { j k }$ 为术语 $t _ { k }$ 在文本 $d _ { j }$ 中的权重； $P O S _ { i }$ 为属于第 $c _ { i }$ 类的文本集合（阳性样本)； $N E G _ { i }$ 为不属于第 $c _ { i }$ 类的文本集合（阴性样本)； $\beta$ 和 $\gamma$ 为控制参数，用来设置阳性样本和阴性样本的相对重要性。如果 $\beta$ 设为1而 $\gamma$ 设为0，则类别 $c _ { i }$ 描述为其阳性训练样本的重心。Rocchio 分类器是根据阳性样本的聚集程度和阴性样本的疏远程度来进行分类的。阴性样本的作用通常是逆增强，这一效果通过设置较大的 $\beta$ 值和较小的 $\gamma$ 值得以体现。根据相关研究，可以设置 $\beta = 1 . 6 , \gamma = 0 . 4 ^ { [ 1 6 ] } ,$
+
+对于输入的未知类别样本，Rocchio分类器通过比较输入样本 $x$ 与每类原型矢量 $w _ { i k }$ 的最小距离来对样本进行分类。其中这个距离 $d ( )$ 通常为欧几里得距离。Rocchio 分类器的判决表示如下：
+
+$$
+\begin{array} { r } { c _ { i } ^ { * } = \arg \operatorname* { m i n } _ { { c _ { i } \in C } } d \big ( w _ { i k } , x \big ) } \end{array}
+$$
+
+Rocchio算法通过引入一些拓展实例来解决 $k { \mathrm { - N N } }$ 算法的问题。即通过一个广义的实例代替整个训练样本集，这一广义实例是通过总结实例样本分布得到的。当新的实例加入进来时，对其分类只需要计算新实例与广义实例之间的欧氏距离即可。其时间复杂度为 $O ( L M )$ ，其中 $L$ 表示广义实例的数量，M表示每个文本矢量中的术语数量。此外，根据每类中实例的分布，Rocchio 算法还可以解决噪声问题。例如，如果一个术语在某一类样本中频繁出现，就会同等反映在该类别的广义实例上，这个术语相对应的权值就会较高；另一方面，如果某一术语主要出现在其他类别的实例中，那么广义实例中这一术语的权值就会趋于0。因此，Rocchio分类器可以在一定程度上提取某些相关术语。
+
+# 3 实验与分析
+
+# 3.1维吾尔文论坛文本集
+
+本文在Matlab2014软件上实现所提出的文本分类方法，其安装在一个配备IntelCorei5CPU和Windows10系统的个人电脑上。
+
+为了构建用于实验的维吾尔文论坛文本集合，本文从人民网维文版、天山网论坛、ulinix论坛和新疆公安数据库中收集约2 400 篇论坛文本。其中，这些文本共分为5类，分别为正常类、暴恐类、反动类、色情类和迷信类，每种类型的文本数量不少于200 篇。在均衡考虑各类样本比例下，将文本集的 $60 \%$ 作为训练样本集，其与 $40 \%$ 作为测试样本集。
+
+# 3.2性能度量
+
+分类器的性能通常使用精确度(precision)和查全率(recall)来描述，精确度表示一个随机文本 $d _ { x }$ 被划分到第 $c _ { i }$ 类中，并且分类正确的概率。查全率表示随机文本 $d _ { x }$ 应当属于 $c _ { i }$ 类，并且这一决策被采纳的概率。精度和查全率表达式为
+
+$$
+P r e c i s i o n _ { i } = \frac { T P _ { i } } { T P _ { i } + F P _ { i } }
+$$
+
+$$
+R e c a l l _ { i } = \frac { T P _ { i } } { T P _ { i } + F N _ { i } }
+$$
+
+其中： $T P _ { i }$ 表示被正确分为第 $i$ 类的文本数量； $F P _ { i }$ 表示被错误分到第 $i$ 类的文本数量； $F N _ { i }$ 表示本属于第 $i$ 类但被错误分到其他类的文本数量。
+
+综合考虑准确性和查全率才能更好地表征分类器的性能。通常可以使用F1度量来对两个参数进行组合，其表达式为
+
+$$
+F 1 _ { i } = \frac { 2 P r e c i s i o n _ { i } * R e c a l l _ { i } } { P r e c i s i o n _ { i } + R e c a l l _ { i } }
+$$
+
+# 3.3词干提取性能分析
+
+对于 $N$ -gram 统计模型词干提取方法，其中需要设定2个参数，即 $N$ 值和相似性阈值 $T _ { s }$ 。 $N$ 值较大，提供了更多的语义信息，有助于提高分类器精度，但会大大增加特征项，提高计算复杂度；若 $N$ 值较小，则产生的特征项所包含的语义信息也较少，区别性不强。
+
+为了确定最优参数，分别设定 $N { = } 2$ 、3、4和5，相似性阈值 $T _ { s }$ 分别设定为0.6、0.7、0.8和0.9。构建16种参数组合，并在各种参数下进行词干提取和分类实验。为了公平比较，后续特征选择方法都采用BMITS，分类器都采用Rocchio分类器。最终分类的F1度量值如图2所示。
+
+图2的结果显示，随着 $N$ 值的增加，分类器性能有所提高，但也会加大计算量。可以看到，当使用五字母组合 $\left( N { = } 5 \right)$ 时的性能和四字母组合 $( N { = } 4 )$ 时的性能相近，只有略微的提升。考虑到计算量，最终选择 $N { = } 4$ 。另外，当相似度阈值 $T _ { s } { ^ { = 0 . 8 } }$ 时，可以取得最好的分类效果；当 ${ \cal T } _ { s } ^ { \phantom { 0 } } \phantom { . }$ 时，各种字母组合词干提取法的结果都变差。这是因为当阈值太高时，一些共享相同词根但相似度不够高的词将会被分开而不进行合并，所以降低了词干提取效果。最终，选择 $N { = } 4$ 、 $T _ { s } { ^ { = 0 . 8 } }$ 作为词干提取方法的参数。
+
+![](images/d4ec3435c644e03bd53d1e7612371f6feb7f652b878c7031240f816f08e73e38.jpg)  
+图2词干提取参数对分类性能的影响
+
+表2展示了一组在 $T _ { s } { ^ { } = } 0 . 8$ 且 $N { = } 4$ 时 $N \mathrm { \Omega }$ gram统计模型提取的词干。
+
+表2N-gram 统计模型提取的词干举例  
+
+<html><body><table><tr><td>反动类</td><td>GlevF.Ll.</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">暴恐类</td><td>(分裂)</td><td>(推翻)</td><td>(独立)</td><td>(叛变)</td><td>(间谍)</td></tr><tr><td>(杀人)</td><td>(抢劫)</td><td>GLeg (打架)</td><td>(枪支)</td><td>(伤害)</td></tr></table></body></html>
+
+# 3.4术语选择性能分析
+
+在对输入文本进行词干提取后，会形成一个具有大量术语的词集合，因此必须通过术语选择找到最具价值的术语子集。这里通过实验比较了本文BMITS 选择方法与传统 MITS、x²统计量、NGL系数和GSS系数方法。其中，设置所选择的最终特征集(术语集)大小在 $1 0 0 0 { \sim } 5 0 0 0$ 变化。为了公平比较，都采用相同的词干提取参数和Rocchio分类器。术语选择方法对分类性能的影响如图3所示。
+
+![](images/0db03bf72f3cd492240f5a858f46a1c9d8e658aff7364a40e6f4025920269b6c.jpg)  
+图3术语选择方法对分类性能的影响
+
+图3中的实验结果表明，随着术语选择后的特征集大小的增加，各种方法的分类性能也会随之提高，但当特征集大小超过3500时，性能趋于稳定，这就说明合适的特征集大小对分类器的性能有影响。特征集太小，不能包含所有有效术语；特征集太大，冗余术语数量也会增加，且加大了分类器的计算负载。为此，在本文术语选择步骤中，设置特征集大小为3500。
+
+通过各种方法的比较看出， $\chi ^ { 2 }$ 统计量和传统MITS 的性能较弱，相比而言，NGL和GSS系数的表现较为良好。然而本文提出的BMITS方法获得了最佳性能。这是因为BMITS 中引入了候选术语与类别之间的互信息，均衡考虑了相关性和冗余性，所以能够选择出最佳术语集。
+
+# 3.5 整体性能比较
+
+为了评估本文方法的整体性能，将其与几种现有方法进行比较，如文献[5]提出的基于组合统计量(Dme)和 k-NN 分类器的维吾尔语分类方法(Dme+k-NN)、文献[6]提出的基于TF-IDF和 SVM的方法(TF-IDF+SVM)、文献[7]提出的基于N-gram 模型和Manhattan 距离的方法(N-gram+Manhattan)。分类性能的比较结果如表3所示，同时给出了完成所有测试样本分类所需的时间。
+
+表3可以看出，文献[5]方法所需时间最长，这是因为其通过融合3个度量来进行词干提取和术语选择，需要大量的计算。而文献[7]方法的时间较少，这是因为其没有采用例如 $\mathbf { k }$ -NN等基于监督学习的分类器，只是通过一种距离度量来分类，计算较为简单。但是本文方法所消耗的时间最短，这是因为本文Rocchio分类器使用类别广义矢量代替了语料库中所有的训练文本矢量，在时间消耗上要明显优于k-NN和SVM分类器。此外，由BMITS术语选择过程产生了精简且有效的术语子集，有效提高了分类性能。
+
+表3各种方法的分类性能  
+
+<html><body><table><tr><td>方法</td><td>精确度(%)</td><td>查全率(%)</td><td>F1度量</td><td>时间(分钟)</td></tr><tr><td>文献[5]</td><td>81.47</td><td>82.73</td><td>82.09</td><td>6.8</td></tr><tr><td>文献[6]</td><td>82.66</td><td>80.95</td><td>81.79</td><td>5.7</td></tr><tr><td>文献[7]</td><td>82.68</td><td>83.87</td><td>83.27</td><td>4.2</td></tr><tr><td>本文方法</td><td>83.79</td><td>85.31</td><td>84.54</td><td>3.8</td></tr></table></body></html>
+
+# 4 结束语
+
+本文提出了一种应用在维吾尔文网页论坛文本过滤中的不良文本分类方法。通过预处理删除停止词，基于N-gram 模型进行词干提取，通过BMITS 进行术语降维，最后利用Rocchio进行文本分类及过滤。为了获得方法的各种最佳参数，通过大量实验来进行优化选择。最终的文本过滤实验结果证明了提出的方法能够用于维文论坛的信息过滤，具有有效性。
+
+在未来研究中，希望通过进行一些更多的预处理工作来提高分类效果，例如从每个类别的局部术语库中选择术语，而不是从整个语料库的全局术语库中选择。另外，还可以研究其他分类器，如朴素贝叶斯以及神经网络分类器等，选择一种更加合适的分类器。
+
+# 参考文献：
+
+[1]刘磊，李壮，张鑫，等．中文网络文本的语义信息处理研究综述[J].计算机应用研究,2015,32(1):6-10,16.  
+[2] 程俊霞，李芝棠，邹明光，等．基于SVM 过滤的微博新闻话题检测方法[J].通信学报,2013,34(2):74-78.
+
+[3]亚力青·阿里玛斯，哈力旦·阿布都热依木，陈洋．基于向量空间模型的维吾尔文文本过滤方法[J]．新疆大学学报：自然科学版，2015,32(2): 221-226.
+
+[4]Zhang B,Xu M, Wu M.Research on web filtering technology based on the dual feature selection [C]//Proc of IEEE International Conference on Network Infrastructureand DigitalContent.PiscatawayNJ:Ies 2013: 675-679.   
+[5] 阿力木江·艾沙，吐尔根·依布拉音，艾山·吾买尔，等．基于机器学习 的维吾尔语文本分类研究[J].计算机工程与应用,2012,48(5):110-112.   
+[6] 热依莱木·帕尔哈提，孟祥涛，艾斯卡尔·艾木都拉．基于区分性关键词 模型的维吾尔语本情感分类[J].计算机工程,2014,40(10):132-136.   
+[7]买买提依明·哈斯木，吾守尔·斯拉木，维尼拉·木沙江，等．基于 N 元 模型的维吾尔语文本分类技术研究[J].计算机应用研究,2015,32(7): 1986-1988, 2004.   
+[8]Mi C, Yang Y, Wang L,et al. Detection of loan Words in uyghur texts [J] Communications in Computer& Information Science,2014,49(6):103- 112.   
+[9] 阿不都萨拉木·达吾提，于斯音·于苏普，艾斯卡尔·艾木都拉．类别 区分词与情感词典相结合的维吾尔文句子情感分类[J].清华大学学报: 自然科学版,2017,57(2):197-201.   
+[10] Froud H,LachkarA,Ouatik SA.A comparative study of root-based and stem-based approaches for measuring the similarity between arabic words forarabic text mining applications [J].Advanced Computing An International Journal,2012,3 (6): 12-19.   
+[11]HadniM,Ouatik SA,LachkarA.Effective arabic stemmer based hybrid approach for arabic text categorization [J]. International Journal of Data Mining & Knowledge Management Process,2013,3 (4):1-14.   
+[12]姜志威，丁晓青，彭良瑞，等．低数据资源条件下基于结构信息共享的 无切分维文文档识别字符建模[J]．电子与信息学报，2015,37 (9): 2103-2109.   
+[13] Uchyigit G.Experimental evaluation of feature selection methods for text classification [C]//Proc of International Conference on Fuzzy Systems and Knowledge Discovery.Piscataway,NJ: IEEE Press,2012: 1294-1298.   
+[14] Hoque N,Bhatcharyya D K, Kalita JK.MIFS-ND: a mutual informationbased feature selection method [J]. Expert Systems with Applications,2014, 41 (14): 6371-6385.   
+[15] Sowmya B J，Chetan，Srinivasa K G.Large scale multi-label text classification ofa hierarchical dataset using Rocchio algorithm[C]//Proc of International Conference on Computation System and Information Technology for Sustainable Solutions.Piscataway,NJ:IEEEress,06 291-296.   
+[16]SelviST,KarthikeyanP, VincentA,etal. Text categorization usingRocchio algorithm and random forest algorithm [C]// Proc of the th International Conference on Advanced Computing.Piscataway,NJ: IEEE Press,2017: 124-129.

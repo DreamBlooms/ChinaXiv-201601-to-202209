@@ -1,0 +1,447 @@
+# 改进引力搜索最小二乘支持向量机交通流预测
+
+徐钦帅ab，何庆a,b，魏康园a,b(贵州大学a.大数据与信息工程学院;b.贵州省公共大数据重点实验室，贵阳 550025)
+
+摘要：在智能交通系统领域中，准确的交通流量预测发挥着重要作用。为了提高基于最小二乘支持向量机的交通流预测模型的精度，提出一种新的改进引力搜索算法（TCK-AGSA）对其进行参数寻优。首先，基于 Tent映射改进 Kbest函数，使算法具有跳出局部最优的机制；然后，引入全局最优引导策略，使粒子加速朝向最优解移动；接着，将进化度因子和聚合度因子引入速度更新权重系数，使算法具有较强的自适应能力。针对12个基准函数的仿真结果表明，TCK-AGSA的性能优于GSA及其改进算法。最后，建立基于TCK-AGSA寻优的最小二乘支持向量机模型，并选取2016年贵州省高速公路真实交通流数据进行预测实验，结果表明该模型具有更好的预测精度、鲁棒性和泛化能力。
+
+关键词：引力搜索算法；混沌优化算法；自适应权重系数；最小二乘支持向量机；交通流预测中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2018.07.0383
+
+# Traffic flow forecasting using least squares support vector machine optimized by modified gravitational search algorithm
+
+Xu Qinshuaia,b, He Qinga,bt, Wei Kangyuana,b (a.CollgeofBig Data& Information Engineering,b.Guizhou Provincial KeyLaboratoryof Public Big Data Guizhou University,Guiyang 550025,China)
+
+Abstract:Theaccuracyoftraffcflow forecasting playsanimportantrole inthefieldof IntelligentTransportation Systems.In order to improve the accuracyof traffc flow forecasting model basedon Least Squares Support Vector Machine,this paper proposed a novel modified gravitational search algorithm (TCK-AGSA）for parameters optimization.Firstly,this paper improvedthe KbestfunctionbasedonTent map,so thatthe algorithmhas a mechanism to jumpoutoflocaloptimum.Then,by introducing theguidanceof globaloptimal to accelerate the movement ofagents towardsoptimal solution.Furthermore,it introduced theevolutionaryfactorandconverge factorintothe weightedcoeficientofagent's velocitytomake thealgorithm more adaptive.Thesimulationresults for12benchmark functions show thatthe performanceofTCK-AGSA is better than GSA and its variants.Finall,this paper proposed aLSSVM model optimized byTCK-AGSA,and selected the2016 actua traffic flow data of Guizhou Expressway for experiment.The results show that the proposed model has beter prediction accuracy, robustness,and generalization capability.
+
+Key words:gravitational searchalgorithm;chaosoptimization algorithm;adaptive weightedcoeficient;least squares suport vector machine; traffic flow forecasting
+
+# 0 引言
+
+随着经济的飞速发展和机动车保有量的持续上升，交通道路网络承受着越来越多的压力，存在交通拥堵、交通事故和尾气污染等问题。智能交通系统[1]（intelligent traffic system，ITS）的交通诱导控制、交通状况监控等技术的快速发展，能够针对当前交通痛点问题提供有效的解决方案。交通流预测作为ITS中交通诱导的重要依据，近几十年来的发展引起了广泛关注[2]。实现精准的交通流量预测，对于精确分析道路交通状况、改善交通网络规划和优化交通控制策略具有重要意义。
+
+为了提高交通流预测的精度，国内外许多学者致力于交通流量数据的分析，并提出了多种预测模型。总的来看，已有文献所提出的交通流预测方法一般可以概括为两类：
+
+a）基于经典统计学的预测模型。该模型通过对交通流数据进行回归和参数优化，从而实现交通流数据的拟合预测。例如，Kumar等人[3]在自回归移动平均模型基础上，考虑车流量受不同季节的影响，提出了一种基于季节的SARIMA模型，有效地解决了基本ARIMA模型对于交通流预测的适用性问题；随后，Kumar[4]于2017年提出了基于Kalman滤波技术的交通流预测模型，克服了SARIMA模型依赖于大量数据进行开发的缺陷。
+
+b)基于数据驱动的预测模型。该模型通过智能计算方法挖掘历史交通流数据的演化趋势，从而预测未来数据的变化趋势。例如，在深度学习的应用方面，Lv等人[5提出了一种堆叠自动编码SAE混合深度学习的预测模型，有效地提高了交通流预测精度；Polson等人[提出了一种结合使用L1正则化和tanh层序列进行拟合的线性深度学习模型，解决了由于交通状态之间的转换而产生的急剧非线性变化趋势的预测难题。在支持向量机（supportvectormachine，SVM）的应用方面，Hu等人[7]提出了利用粒子群优化算法（particle swarm optimization，PSO）寻优支持向量回归参数的PSO-SVR交通流预测模型，并通过引入交通流历史动量降低噪声对预测精度的影响，获得了较优的预测性能；康军等人[8]通过简化Lagrange 乘子求解过程，提出了一种基于LSSVM的在线式交通流预测方法，并在保证较高预测精度的情况下，有效缩短了在线模型的更新时间；Shang等人[9提出了基于相空间重构和组合核函数的最小二乘支持向量机（least squares support vector machine，LSSVM）预测模型,并利用PSO算法对其进行参数优化，具有较强的预测能力和鲁棒性；Cong等人[10]提出了利用果蝇优化算法寻优参数的FOA-LSSVM预测模型，经实验验证该模型的预测效果明显优于PSO-LSSVM模型和径向基神经网络（RBFNN）模型。通过对上述预测模型的分析，发现基于数据驱动的预测模型对于非线性和不确定性的交通流预测更具有适用性。
+
+相比于其他基于数据驱动的预测模型,LSSVM[]模型在交通流预测方面表现出较好的性能，且由于其训练时间短和泛化能力强的优点，正被广泛应用于多种领域，如模型质量评估[12]、货运量预测[13]、短时风能预测[14]、PM2.5浓度预测[15]、汽轮机热耗率预测[16]、短时风速预测[17]和软件故障检测[18]等。在LSSVM模型中，正则化参数 $C$ 和核宽度 $\sigma$ 的选取至关重要，决定着模型的复杂度、预测精度及泛化能力。已有研究中，粒子群优化算法[9]、布谷鸟算法[15]、蚁群算法[17等群智能优化算法被用于寻优LSSVM参数，且取得了较好的结果。但目前关于LSSVM最优参数组合选取方法的研究，仍处于探索阶段，且其预测准确性尚未达到理想精度。
+
+引力搜索算法[l9]（gravitational search algorithm，GSA）由Rashedi教授等于2009年提出，该算法源于物理学中的万有引力定律及牛顿第二定律。现有研究已证明[20]，GSA算法的收敛性能明显优于PSO算法、遗传算法等算法。但是，基本GSA算法仍存在早熟收敛、易陷入局部最优和缺少记忆功能等问题。
+
+基于此，国内外学者对GSA算法进行了很多有效的改进，如Darzi等人[21]将PSO算法中个体局部最优值概念引入GSA算法中，弥补了算法关于记忆性的空缺；Zhang 等人[22]提出了基于自适应引力系数衰减因子、精英记忆引导和变异操作的混合改进策略，较好地提高了GSA算法的收敛性能；郭洁皓等人[23]提出了一种基于信息熵模型和动态选择权重的改进GSA算法，提高了算法的收敛速度与寻优效率。尽管现有改进策略各有优势，但对于平衡算法的探索与开发能力及改善算法跳出局部最优能力仍是难点。
+
+因此，基于上述GSA算法的缺陷，提出一种基于Tent 映射混沌Kbest的自适应GSA算法（tent map based chaotic kbest-adaptive gravitational searchalgorithm，TCK-AGSA）。首先，结合混沌优化算法中的Tent 映射对GSA 算法的精英粒子集合Kbest进行改进，使其呈非线性递减变化趋势，以便算法能够跳出局部最优；然后，在粒子速度更新式中加入全局最优值引导机制，并引入综合种群进化程度和聚合程度的自适应权重系数，在加速算法对求解空间搜索的同时，使得算法能够自适应性调整。实验选取12个基准测试函数进行仿真对比，检验改进策略的有效性。最后，利用改进算法对LSSVM的参数组合进行迭代寻优，构建TCK-AGSA-LSSVM交通流预测模型，并应用于真实交通流数据集，通过预测均方误差（MSE）等评价指标检验该模型对于实际交通流预测应用的优越性。
+
+# 1 相关工作
+
+# 1.1最小二乘支持向量机
+
+最小二乘支持向量机（LSSVM）优化并扩展了支持向量机（SVM)的数学模型：用等式约束替代SVM中的不等式约束，采用基于L2范数的误差函数作为损失函数，将SVM的QP求解问题通过最优条件转换为线性方程组求解问题。其基本模型理论如下：
+
+给定一个包含 $N$ 个样本的训练样本集 $D = \left\{ x _ { i } , y _ { i } \right\} _ { i = 1 } ^ { N }$ ,其中 $x _ { i }$ 为输入向量， $x _ { i } \in \mathbf { R } ^ { d }$ ； $y _ { i }$ 为相应的输出向量， $y _ { i } \in \mathbf { R }$ 。LSSVM利用非线性映射函数 $\varphi ( x )$ 将样本向量映射到高维空间中，构造线性回归函数为
+
+$$
+y ( x ) = w ^ { \mathrm { T } } \varphi ( x ) + b
+$$
+
+其中： ${ \pmb w }$ 为权重矢量； $b$ 为偏置。
+
+依据结构风险最小化原则，利用LSSVM进行回归时的优化问题为
+
+$$
+\operatorname* { m i n } J ( \boldsymbol { w } , \boldsymbol { \xi } ) = \frac { 1 } { 2 } \boldsymbol { w } ^ { \mathrm { T } } \boldsymbol { w } + \frac { 1 } { 2 } C \sum _ { i = 1 } ^ { N } \xi _ { i } ^ { 2 }
+$$
+
+$$
+s . t . y _ { i } = w ^ { \mathrm { T } } j ( x _ { i } ) + b + x _ { i } .
+$$
+
+其中： $c$ 为正则化参数； $\xi$ 为误差变量； $i \in \left\{ 1 , \cdots , N \right\}$ 。
+
+为求解式（2），利用拉格朗日乘子法求其对偶问题，构造拉格朗日函数为
+
+$$
+L ( \boldsymbol { w } , \boldsymbol { b } , \boldsymbol { \xi } , \alpha ) = J ( \boldsymbol { w } , \boldsymbol { \xi } ) - \sum _ { i = 1 } ^ { N } \alpha _ { i } ( \boldsymbol { w } ^ { \mathrm { T } } \varphi ( \boldsymbol { x } _ { i } ) + \boldsymbol { b } + \boldsymbol { \xi } _ { i } - \boldsymbol { y } _ { i } )
+$$
+
+其中： $\alpha _ { i }$ 为拉格朗日乘子。
+
+根据KKT条件，分别求出 $L ( w , b , \xi , \alpha )$ 对 $w , b , \xi , \alpha$ 的偏导，得出式（2）的最优条件为
+
+$$
+\begin{array} { l } { \displaystyle { \{ \begin{array} { l l } { \displaystyle \frac { \partial L } { \partial w } = 0  w = \displaystyle \sum _ { i = 1 } ^ { N } \alpha _ { i } \varphi ( x _ { i } ) } \\ { \displaystyle \frac { \partial L } { \partial b } = 0  \sum _ { i = 1 } ^ { N } \alpha _ { i } = 0 } \\ { \displaystyle \frac { \partial L } { \partial \xi _ { i } } = 0  \alpha _ { i } = C \xi _ { i } } \\ { \displaystyle \frac { \partial L } { \partial \xi _ { i } } = 0  w ^ { \top } \varphi ( x _ { i } ) + b + \xi _ { i } - y _ { i } = 0 } \end{array}  } } \end{array}
+$$
+
+简化消去 ${ \pmb w }$ 和 $\xi _ { i }$ 可得出
+
+$$
+{ \left[ \begin{array} { l l } { 0 } & { ~ E ^ { \mathrm { T } } } \\ { E } & { K + C ^ { \mathrm { - 1 } } I } \end{array} \right] } { \left[ \begin{array} { l } { b } \\ { \alpha } \end{array} \right] } = { \left[ \begin{array} { l } { 0 } \\ { y } \end{array} \right] }
+$$
+
+其中： $\mathbf { y } = \left[ y _ { 1 } , y _ { 2 } , \cdots y _ { N } \right] ^ { \mathrm { T } }$ ； $\scriptstyle { E }$ 为全1序列； $\textbf { \textit { I } }$ 为相应维数的单位矩阵； $\boldsymbol { K }$ 为核函数矩阵;
+
+$$
+\begin{array} { r } { \pmb { K } _ { i j } = \pmb { \varphi } ( x _ { i } ) ^ { \top } \pmb { \varphi } ( x _ { i } ) = k ( x _ { i } , x _ { j } ) } \end{array}
+$$
+
+其中： $k ( x _ { i } , x _ { j } )$ 为核函数。令 $\pmb { \mathcal { Q } } = ( \pmb { K } + \pmb { C } ^ { - 1 } \pmb { I } )$ ，代入式（6）中求解可得
+
+$$
+b = \frac { E ^ { \mathrm { T } } Q y } { E ^ { \mathrm { T } } Q E }
+$$
+
+$$
+\alpha = Q ( y - \frac { E E ^ { \mathrm { T } } Q y } { E ^ { \mathrm { T } } Q E } )
+$$
+
+最终的LSSVM模型回归函数表示为
+
+$$
+y ( x ) = { \boldsymbol { w } } ^ { \mathrm { T } } \varphi ( x ) + b = \sum _ { i = 1 } ^ { N } \alpha _ { i } k ( x _ { i } , x _ { j } ) + b
+$$
+
+针对核函数的选取，采用参数相对较少、适应能力较强的高斯核函数（RadialBasisFunction，RBF）作为LSSVM的核函数，定义为
+
+$$
+k ( x _ { i } , x _ { j } ) = \exp ( - \frac { \left\| x _ { i } - x _ { j } \right\| ^ { 2 } } { 2 \sigma ^ { 2 } } )
+$$
+
+其中： $\sigma$ 为高斯核的带宽（width）。
+
+通过分析LSSVM回归理论可知，正则化参数 $c$ 和高斯核带宽 $\sigma$ 作为LSSVM回归优化问题的重要参数组合，直接影响着模型的学习与泛化能力。1）正则化参数 $c$ 能够平衡模型的结构风险与经验风险，其取值越大，经验风险越小，易造成过拟合；反之，则降低了模型复杂度，易造成欠拟合。2）高斯核带宽 $\sigma$ 取值越大，核函数越平滑，易造成欠拟合；反之，核函数越陡峭，易造成过拟合。因此，针对不同优化问题选取相适应的模型参数组合尤为关键，文中采用改进的引力搜索算法对LSSVM参数组合进行寻优。
+
+# 1.2 引力搜索算法
+
+在引力搜索算法（GSA）的迭代进化过程中，将每个粒子视为遵循牛顿第二定律，在搜索空间中进行无阻力运动的有质量的物体，其运动会受到解空间中其他粒子万有引力的影响。基本GSA算法表述如下：
+
+由粒子 $X _ { i }$ 构成的规模为 $N$ 的种群，位于一个 $D$ 维搜索空间中，粒子 $X _ { i }$ 的位置可表示为 $X _ { i } = ( x _ { i } ^ { 1 } , x _ { i } ^ { 2 } , \cdots , x _ { i } ^ { d } , \cdots , x _ { i } ^ { D } )$ ，其中 $\boldsymbol { x } _ { i } ^ { d }$ 表示第 $i$ 个粒子在第 $^ d$ 维上的位置。在第 $\textit { t }$ 次迭代进化，粒子 $i$ 的惯性质量 $M _ { i } ( t )$ 依据其适应度值计算，计算式为
+
+$$
+m a s s _ { i } ( t ) = \left\{ \begin{array} { l l } { \displaystyle \frac { f i t _ { i } ( t ) - w o r s t ( t ) } { b e s t ( t ) - w o r s t ( t ) } \ } & { \ i f \ b e s t ( t ) \neq w o r s t ( t ) } \\ { 1 \ } & { \ o t h e r w i s e } \end{array} \right.
+$$
+
+$$
+M _ { i } ( t ) = \frac { m a s s _ { i } ( t ) } { \displaystyle \sum _ { j = 1 } ^ { N } m a s s _ { j } ( t ) } .
+$$
+
+其中： $\mathit { f i t } _ { i } ( t )$ 表示为算法进化至第 $t$ 代时，粒子 $i$ 的适应度值，$i \in \left\{ 1 , \cdots , N \right\}$ 。针对最小值优化问题，最优适应度 $b e s t ( t )$ 和最差适应度worst(t)分别为
+
+$$
+\begin{array} { c } { { b e s t ( t ) = \displaystyle \operatorname* { m i n } _ { j \in \{ 1 , \cdots , N \} } \mathcal { \displaystyle \mathcal { \hat { H } } } t _ { j } ( t ) } } \\ { { w o r s t ( t ) = \displaystyle \operatorname* { m a x } _ { j \in \{ 1 , \cdots , N \} } \mathcal { \displaystyle \mathcal { \hat { H } } } t _ { j } ( t ) . } } \end{array}
+$$
+
+反之，即可用于最大值优化问题。
+
+在第 $t$ 次进化迭代，粒子 $i$ 与粒子 $j$ 在第 $^ d$ 维的相互吸引力为
+
+$$
+F _ { i j } ^ { d } ( t ) = G ( t ) \frac { M _ { i } ( t ) \times M _ { j } ( t ) } { R _ { i j } ( t ) + \varepsilon } ( x _ { j } ^ { d } ( t ) - x _ { i } ^ { d } ( t ) )
+$$
+
+其中： $M _ { i }$ 与 $\boldsymbol { M } _ { \flat }$ 分别表示为粒子 $i$ 与粒子 $j$ 的惯性质量； $\boldsymbol { \varepsilon }$ 是一个很小的常量； $G ( t )$ 为第 $\textit { t }$ 代的万有引力系数； $R _ { i j } ( t )$ 为粒子 $i$ 与粒子 $j$ 之间的欧氏距离，计算式分别为
+
+$$
+G ( t ) = G _ { 0 } \times e ^ { ( - \alpha \frac { t } { T } ) }
+$$
+
+$$
+R _ { i j } ( t ) = \left\| X _ { i } ( t ) , X _ { j } ( t ) \right\| _ { 2 }
+$$
+
+其中： $G _ { 0 }$ 为初始引力常量； $\alpha$ 为引力系数变化系数； $T$ 为最大迭代次数。
+
+为了使算法具有随机性，在第 $^ d$ 维上粒子 $i$ 所受合力为
+
+$$
+F _ { i } ^ { d } = \sum _ { j = 1 , j \ne i } ^ { K b e s t } r a n d _ { i } \times F _ { i j } ^ { d } ( t )
+$$
+
+其中：Kbest 初始值为 $K _ { 0 } = N$ ，随着时间推移，Kbest逐渐减小为1；randi为区间[0.l]的随机数； $F _ { i j } ^ { d }$ 的定义如式（16）所示。算法进化至第 $t$ 代时，第 $\textit { d }$ 维上粒子 $i$ 的加速度定义为
+
+$$
+a _ { i } ^ { d } \left( t \right) = \frac { F _ { i } ^ { d } \left( t \right) } { M _ { i } \left( t \right) }
+$$
+
+在GSA算法进化过程中，对于每一次迭代，根据式（21）（22）分别更新粒子 $i$ 的速度与位置，分别定义为
+
+$$
+\begin{array} { r } { \nu _ { i } ^ { d } \left( t + 1 \right) = r a n d _ { j } \times \nu _ { i } ^ { d } \left( t \right) + a _ { i } ^ { d } \left( t \right) } \end{array}
+$$
+
+$$
+x _ { i } ^ { d } \left( t + 1 \right) = x _ { i } ^ { d } \left( t \right) + \nu _ { i } ^ { d } \left( t + 1 \right)
+$$
+
+其中：rand,为区间[0,1]的随机数。
+
+分析基本算法可知：a）随着算法迭代次数增加，种群的多样性会逐渐减小，从而可能丢失质量较小却保持着较好进化趋势的粒子，致使算法早熟收敛和陷入局部最优值；b）根据速度与位置更新式（21）（22）可知，算法在迭代进化过程中仅利用当前粒子位置信息引导算法搜索最优解，缺少群体记忆功能与群体信息共享机制，导致可能失去先前迭代的最优结果，并加速粒子朝向新的、可能较劣的位置移动，失去最优搜索轨迹。
+
+因此，针对GSA算法缺少跳出局部最优机制和群体记忆功能等缺陷，对其进行改进以提高其搜索寻优精度，进而应用于LSSVM模型的关键参数寻优，实现更加精确的交通流预测。
+
+# 2 改进引力搜索算法设计
+
+# 2.1基于Tent映射的混沌 Kbest
+
+在GSA算法中，Kbest为具有较优适应度值和较大质量的精英粒子集合。随着算法的迭代进化，Kbest函数值的减少能够提高GSA算法的计算效率。已知GSA算法中，第 $\textit { t }$ 次迭代时Kbest定义为
+
+$$
+K b e s t ( t ) = f i n a l \_ p e r + ( \frac { 1 - t } { T } ) \times ( 1 0 0 - f i n a l \_ p e r )
+$$
+
+其中： $\mathrm { \Delta } f i n a l _ { \mathrm { - } } p e r$ 为对其他粒子产生作用力的粒子百分比。
+
+由式（23）可知，Kbest是一种随着迭代进化而线性递减的函数。针对算法易陷入局部最优值的缺陷，利用混沌映射的随机性和遍历性，对Kbest进行混沌优化使其非线性递减，从而使得算法具有跳出局部最优的能力。文献[24]提出的CKGSA算法将Logistic 映射应用于GSA算法中进行改进，对算法的搜索性能有所提高，但是对部分单模态函数和高维多模态函数的收敛精度仍低于基本GSA算法，这是由于Logistic 映射具有遍历不均匀性，其在[0.0.1]和[0.9,1]内取值概率较高，从而影响算法的搜索效率和收敛精度。
+
+在混沌优化算法中，Tent 映射为一维的分段线性映射，其混沌序列分布均匀，相比于Logistic 映射迭代速度更快，有更好的遍历均匀性与更高的寻优效率。Tent映射的数学表达式定义为
+
+$$
+x ( t + 1 ) = { \left\{ \begin{array} { l l } { 2 x ( t ) } & { \ 0 \leq x ( t ) \leq 0 . 5 } \\ { 2 ( 1 - x ( t ) ) } & { \ 0 . 5 < x ( t ) \leq 1 } \end{array} \right. }
+$$
+
+其中： $\boldsymbol { x } ( t ) \in \left[ 0 , 1 \right]$ 为第 $\textit { t }$ 次迭代时的混沌数。
+
+因此，本文利用Tent映射混沌机制对GSA算法中的Kbest函数进行改进，使其呈非线性递减趋势。基于Tent映射的混沌Kbest函数定义为
+
+$$
+K b e s t ( t ) = f i n a l \_ p e r \times x ( t ) + ( N - f i n a l \_ p e r ) \times ( \frac { T - t } { T } )
+$$
+
+其中： $N$ 为种群规模； $T$ 为算法最大迭代次数； $f i n a l _ { - } p e r$ 为对其他粒子产生作用力的粒子百分比。
+
+# 2.2自适应权重全局最优引导速度更新
+
+针对GSA算法缺少记忆功能和最优值振荡的不足，将GSA算法速度更新式（21）改进为
+
+$$
+\begin{array} { c } { { \nu _ { i } ^ { d } \left( t + 1 \right) = \omega \cdot \nu _ { i } ^ { d } \left( t \right) + c _ { 1 } \cdot r a n d _ { i } \cdot a _ { i } ^ { d } \left( t \right) + } } \\ { { c _ { 2 } \cdot r a n d _ { j } \cdot \left( g b e s t ^ { d } \left( t \right) - x _ { i } ^ { d } \left( t \right) \right) } } \end{array}
+$$
+
+其中： $\omega$ 为速度权重系数； $c _ { 1 } , c _ { 2 }$ 分别为粒子个体和群体记忆学习因子；rand和 $r a n d _ { j }$ 为[0.1]的随机数； $g b e s t ^ { d } ( t )$ 为第 $\textit { t }$ 代群体最优解位置。
+
+在速度更新式（26）中，速度权重系数 $\omega$ 对算法的寻优性能发挥重要作用。当权重系数 $\omega$ 较大时，算法具有较强的全局探索能力；反之，则利于算法的局部开发收敛。因此，本文进一步将自适应权重思想引入GSA算法，综合当代群体进化度和聚合度对权重系数 $\omega$ 进行自适应调整，以提高算法的寻优能力。
+
+首先，在算法进化至第 $t$ 代时，将粒子 $i$ 的适应度值定义为$f ( x _ { i } ( t ) )$ ，粒子 $i$ 的个体最优适应度值为 $f ( p b e s t _ { i } ( t ) )$ ，群体最优适应度值为 $f ( g b e s t ( t ) )$ 。
+
+然后，定义GSA算法的进化度因子 $e \nu o _ { i } ( t )$ 为
+
+$$
+\begin{array} { c l c r } { { e \nu o _ { i } ( t ) = a _ { 1 } \cdot \displaystyle \frac { f ( p b e s t _ { i } ( t - 1 ) ) } { f ( p b e s t _ { i } ( t ) ) } + a _ { 2 } \cdot \displaystyle \frac { a \nu e f ( p b e s t _ { i } ( t - 1 ) ) } { a \nu e f ( p b e s t _ { i } ( t ) ) } + } } \\ { { a _ { 3 } \cdot \displaystyle \frac { f ( g b e s t ( t - 1 ) ) } { f ( g b e s t ( t ) ) } } } \end{array}
+$$
+
+其中： $\mathbf { \boldsymbol { a } } _ { 1 } , \mathbf { \boldsymbol { a } } _ { 2 } , \mathbf { \boldsymbol { a } } _ { 3 }$ 为区间[0,1]的相关系数，其关系定义为$a _ { 1 } + a _ { 2 } + a _ { 3 } = 1$ ，且由于进化度因子 $e \nu o _ { i } ( t )$ 以群体寻优度最为关键，因此 $a _ { 3 } > \operatorname* { m a x } ( a _ { 1 } , a _ { 2 } )$ ； $a \nu e f ( p b e s t ( t ) )$ 为第 $t$ 代群体中粒子的个体最优平均值，定义为
+
+$$
+a \nu e f ( p b e s t ( t ) ) = \frac { \displaystyle \sum _ { i = 1 } ^ { N } f ( p b e s t _ { i } ( t ) ) } { N }
+$$
+
+同时，定义GSA算法的聚合度因子 $c o n ( t )$ 为
+
+$$
+c o n ( t ) = \frac { a \nu e f ( x ( t ) ) } { a \nu e f ( p b e s t ( t ) ) }
+$$
+
+其中： $a \nu e f ( x ( t ) )$ 为第 $t$ 代群体中所有粒子适应度的平均值，定义为
+
+$$
+a \nu e f ( x ( t ) ) = \frac { \displaystyle \sum _ { i = 1 } ^ { N } f ( x _ { i } ( t ) ) } { N }
+$$
+
+已知当进化度因子较大时，表明群体进化程度较差，需减小权重系数 $\omega$ 以增强算法的局部开发能力；而当聚合度因子较大时，表明群体聚合程度较高，需增大权重系数以增强算法全局探索能力。因此，GSA算法进化至第 $t$ 代时，粒子 $i$ 的自适应权重系数定义为
+
+$$
+\omega _ { i } ( t ) = \omega - b _ { 1 } \cdot e \nu o _ { i } ( t ) + b _ { 2 } \cdot c o n ( t )
+$$
+
+其中： $\omega$ 为初始权重系数； $b _ { 1 }$ 和 $b _ { 2 }$ 分别为进化度因子和聚合度因子的平衡系数， $0 < b _ { 1 } , b _ { 2 } < \omega$ 且 $b _ { 1 } + b _ { 2 } = 1$ 。
+
+综上所述，结合提出的改进速度更新式（26）和自适应权重系数式（31），将算法第 $t + 1$ 代粒子 $i$ 的速度更新式定义为
+
+$$
+\begin{array} { r } { \nu _ { i } ^ { d } \left( t + 1 \right) = \left( \omega - b _ { 1 } \cdot e \nu o _ { i } \left( t \right) + b _ { 2 } \cdot c o n ( t ) \right) \cdot \nu _ { i } ^ { d } \left( t \right) + \hphantom { e n { \hphantom { - } } } } \\ { c _ { 1 } \cdot r a n d _ { i } \cdot a _ { i } ^ { d } \left( t \right) + c _ { 2 } \cdot r a n d _ { j } \cdot \left( g b e s t ^ { d } \left( t \right) - x _ { i } ^ { d } \left( t \right) \right) \hphantom { e } } \end{array}
+$$
+
+# 3 仿真实验与结果分析
+
+本文采用MATLABR2013a进行仿真实验，运行环境为64位Windows7操作系统。选取12个基准测试函数进行数值实验，并与基本GSA算法、基于Logistic 映射混沌Kbest的CKGSA算法[24]和基于全局最优值引导的GG-GSA算法[25]进行比较。
+
+为保证算法测试实验中的公正性，基于文献[24,25]的参数设置，将GSA算法和TCK-AGSA算法的种群规模 $N$ 设为50,最大迭代次数设为1000，初始万有引力常量设为100。其他参数设置如表1所示。
+
+表1算法参数设置  
+
+<html><body><table><tr><td>算法</td><td>参数设置</td></tr><tr><td>GSA</td><td>α=20</td></tr><tr><td>CKGSA[24]</td><td>α=20；μ=4</td></tr><tr><td>GG-GSA[25]</td><td>α=30;c=2-1.9(t/T)；c=t/T</td></tr><tr><td rowspan="2">TCK-AGSA</td><td>α=20；c=2-1.9(t³/T³)；c=t³ /T³</td></tr><tr><td>a=a=0.2；a=0.6；b=b=0.5</td></tr></table></body></html>
+
+表2为仿真实验采用的12个基准测试函数，包含三种类别： $F _ { 1 } { - } F _ { 4 }$ 为单模态函数，特别的， $F _ { 4 }$ 为间断阶梯函数； $F _ { 5 ^ { - } } F _ { 8 }$ 为高维多模态函数； $F _ { 9 }  – F _ { 1 2 }$ 为低维多模态函数。采用形态各异的测试函数能有效检验TCK-AGSA 算法的收敛速度、收敛精度和多峰寻优能力等优化性能。同时，为了有效减小随机干扰对寻优结果的影响，每个测试函数均独立运行30次，并取平均实
+
+验结果进行比较。
+
+表3记录了GSA算法、CKGSA[24]算法、GG-GSA[25]算法和TCK-AGSA算法在相同测试条件下，对于12个基准测试函数的寻优结果。其中：Mean、Best和Std.Dev分别表示为算法独立运行30次的平均值、最优值和标准差。在表3中，CKGSA算法寻优结果来自于文献[24]中的表3,GG-GSA算法对于基准测试函数的寻优结果来自于文献[25]中的表2；“—"表示该算法在对应文献中没有提供相应数据；字体加粗标注表示不同算法寻优结果中的最优值，其他表类似。
+
+图1给出了GSA算法和TCK-AGSA算法对于选取自不同类别的6个基准测试函数寻优的收敛过程对比图，以更直观的检验TCK-AGSA算法的收敛性能，其中： $\textit { t }$ 表示迭代次数； $f$ 表示算法运行30次的平均适应度值。
+
+表2测试函数  
+
+<html><body><table><tr><td>函数名</td><td>表达式</td><td>维度</td><td>范围</td><td>理论最优值</td></tr><tr><td>Schwefel 1.2</td><td>F（x）=[（）</td><td>30</td><td>[-100,100]</td><td>0</td></tr><tr><td>Rosenbrock</td><td>F2(x)= [100(xt1-x²）²+(x-1)²</td><td>30</td><td>[-30,30]</td><td>0</td></tr><tr><td>Schwefel 2.22</td><td>F(x)=≥x1+1x| =1</td><td>30</td><td>[-10,10]</td><td>0</td></tr><tr><td>Step</td><td>F(x)=∑(Lx +0.5])²</td><td>30</td><td>[-100,100]</td><td>0</td></tr><tr><td>Ackley</td><td>Dim</td><td>30</td><td>[-32,32]</td><td>0</td></tr><tr><td>Schwefel 2.26</td><td>F(x）=-（xsin(√1））</td><td>30</td><td>[-500,500]</td><td>-12569.5</td></tr><tr><td>Penalized</td><td>F(x)=0.{sin(x)+(−1)[in(+1)](-1)[1in() ∑u(x,5,100,4)</td><td>30</td><td>[-50,50]</td><td>0</td></tr><tr><td>Griewank</td><td>Fg(x) = 4000 I[cos Mx-</td><td>30</td><td>[-600,600]</td><td>0</td></tr><tr><td>Shekel'sFoxholes</td><td>F(x)= 1 2 1 500 i+></td><td>2</td><td>[-65,536,65.536]</td><td>1</td></tr><tr><td>Kowalik</td><td>x（b²+bx） F0(x)= i=1 b²+bx+x4</td><td>4</td><td>[-5,5]</td><td>0.0003</td></tr><tr><td>Goldstein-Price</td><td>F(x)=[1+(x +x+1)²(19-14x +3x²-14x+6xx+3x²)]× [30+(2x -3x)² ×(18-32x +12x² +48x-36xx+27x²)]</td><td>2</td><td>[-2,2]</td><td>3</td></tr><tr><td>Shekel's Family</td><td>F2(x)=-∑[(x-a)(x-a)+c]</td><td>4</td><td>[0,10]</td><td>-10.15</td></tr></table></body></html>
+
+由表3可知，在寻优单模态函数问题 $F _ { 1 } { - } F _ { 4 }$ 时，TCK-AGSA算法对函数 $F _ { 1 }$ 、 $F _ { 2 }$ 、 $F _ { 3 }$ 的寻优效果明显优于其他算法。只是对于函数 $F _ { 1 }$ 寻优30次的最优值（ $( B e s t )$ 略差于CKGSA算法，但是相比于基本GSA算法和GG-GSA 算法，TCK-AGSA 算法的收敛精度和稳定性有很大幅度的提高。在图1（a）、（b）中，TCK-AGSA算法的收敛进化曲线表明其在寻优单模态函数问题时，收敛速度和收敛精度较GSA算法都有所提高，尤其是优化 $F _ { 3 }$ 时较基本GSA算法提高了7个数量级。而对于函数 $F _ { 4 }$ 四种算法均能取得其理论最优值，表明GSA算法的寻优机制能够很好地求解间断阶梯函数。
+
+<html><body><table><tr><td colspan="5">表3TCK-AGSA 与其他算法寻优测试函数结果对比</td></tr><tr><td>函数</td><td>算法</td><td>Mean</td><td>Best</td><td>Std.Dev</td></tr><tr><td>F1</td><td>GSA</td><td>2.954E + 02</td><td>2.895E+ 02</td><td>8.675E+ 01</td></tr><tr><td></td><td>CKGSA[24]</td><td>1.501E + 01</td><td>8.037E - 01</td><td>1.074E + 01</td></tr><tr><td rowspan="5"></td><td>GG-GSA[25]</td><td>2.274E + 02</td><td>8.695E + 01</td><td>8.740E + 01</td></tr><tr><td>TCK-AGSA</td><td>1.067E + 01</td><td>6.504E+ 00</td><td>5.134E + 00</td></tr><tr><td>GSA</td><td>2.857E + 01</td><td>2.608E + 01</td><td>1.846E + 01</td></tr><tr><td>CKGSA[24]</td><td>2.402E + 01</td><td>2.363E+01</td><td>2.148E -01</td></tr><tr><td>GG-GSA[25]</td><td>2.621E + 01</td><td>2.556E+01</td><td>7.316E - 01</td></tr><tr><td></td><td>TCK-AGSA</td><td>2.395E + 01</td><td>2.305E + 01</td><td>2.086E - 01</td></tr><tr><td rowspan="5">F3</td><td>GSA</td><td>2.313E - 08</td><td>2.229E - 08</td><td>3.357E -09</td></tr><tr><td>CKGSA[24]</td><td>2.450E - 08</td><td>1.870E - 08</td><td>4.640E - 09</td></tr><tr><td>GG-GSA[25]</td><td>1.260E - 10</td><td>3.510E - 12</td><td>2.337E - 10</td></tr><tr><td>TCK-AGSA</td><td>2.513E - 15</td><td>2.130E - 15</td><td>1.878E - 15</td></tr><tr><td>GSA</td><td>0.000E+00</td><td>0.000E+00</td><td>0.000E+00</td></tr><tr><td rowspan="5">F4</td><td>CKGSA[24]</td><td>0.000E+00</td><td>0.000E+00</td><td>0.000E+00</td></tr><tr><td>GG-GSA[25]</td><td>0.000E+00</td><td>0.000E+00</td><td>0.000E+00</td></tr><tr><td>TCK-AGSA</td><td>0.000E +00</td><td>0.000E +00</td><td>0.000E + 00</td></tr><tr><td>GSA</td><td>3.596E - 09</td><td>3.205E - 09</td><td>3.250E - 10</td></tr><tr><td>CKGSA[24]</td><td>3.600E - 09</td><td>2.510E - 09</td><td>4.720E - 10</td></tr><tr><td rowspan="5"></td><td>GG-GSA[25]</td><td>2.703E - 12</td><td>4.343E - 13</td><td>3.218E - 12</td></tr><tr><td>TCK-AGSA</td><td>1.725E - 10</td><td>1.469E - 10</td><td>3.186E - 11</td></tr><tr><td>GSA</td><td>-2.257E + 03</td><td>-2.716E + 03</td><td>5.159E + 02</td></tr><tr><td>CKGSA[24]</td><td></td><td></td><td></td></tr><tr><td>GG-GSA[25]</td><td>-2.852E + 03</td><td>-4.731E + 03</td><td>6.178E+02</td></tr><tr><td rowspan="5">F7</td><td></td><td>-3.081E +03</td><td>-7.220E + 03</td><td>4.363E + 02</td></tr><tr><td>TCK-AGSA GSA</td><td>1.500E - 03</td><td>1.072E - 18</td><td>3.800E -03</td></tr><tr><td>CKGSA[24]</td><td>1.500E - 03</td><td>8.500E - 19</td><td>3.800E - 03</td></tr><tr><td>GG-GSA[25]</td><td>7.325E - 04</td><td>2.838E - 26</td><td>2.788E - 03</td></tr><tr><td>TCK-AGSA</td><td>2.084E - 04</td><td>1.824E - 26</td><td>9.086E - 04</td></tr><tr><td rowspan="5">F8</td><td>GSA</td><td>4.453E + 00</td><td>2.057E + 00</td><td>2.846E + 00</td></tr><tr><td>CKGSA[24]</td><td></td><td></td><td></td></tr><tr><td>GG-GSA[25]</td><td>1.170E + 00</td><td>3.946E - 02</td><td>8.023E - 01</td></tr><tr><td>TCK-AGSA</td><td>1.500E - 03</td><td>0.000E + 00</td><td>3.400E - 03</td></tr><tr><td>GSA</td><td>3.467E + 00</td><td>1.992E +00</td><td>2.794E + 00</td></tr><tr><td rowspan="5">F9</td><td>CKGSA[24]</td><td>3.986E + 00</td><td>9.980E - 01</td><td>2.464E + 00</td></tr><tr><td>GG-GSA[25]</td><td>2.241E + 00</td><td>9.980E - 01</td><td>9.922E - 01</td></tr><tr><td>TCK-AGSA</td><td>1.396E + 00</td><td>9.980E - 01</td><td>5.445E - 01</td></tr><tr><td>GSA</td><td></td><td>2.761E - 03</td><td></td></tr><tr><td></td><td>1.988E- 03</td><td></td><td>3.203E - 04</td></tr><tr><td rowspan="5"></td><td>CKGSA[24]</td><td>1.100E - 03</td><td>7.000E - 04</td><td>6.000E -04</td></tr><tr><td>GG-GSA[25]</td><td>7.119E - 04</td><td>5.362E - 04</td><td>5.918E - 05</td></tr><tr><td>TCK-AGSA</td><td>6.237E - 04</td><td>4.396E - 04</td><td>4.514E - 05</td></tr><tr><td>GSA</td><td>3.000E+ 00</td><td>3.000E+00</td><td>8.308E - 15</td></tr><tr><td>CKGSA[24]</td><td>3.000E +00</td><td>3.000E+00</td><td>2.340E - 15</td></tr><tr><td rowspan="6">F12</td><td>GG-GSA[25]</td><td>3.000E+00</td><td>3.000E+00</td><td>2.566E - 15</td></tr><tr><td>TCK-AGSA</td><td>3.000E + 00</td><td>3.000E +00</td><td>7.364E - 16</td></tr><tr><td>GSA</td><td>-5.706E + 00</td><td>-1.015E + 01</td><td>4.060E + 00</td></tr><tr><td>CKGSA[24]</td><td>-7.926E+00</td><td>-1.015E + 01</td><td>3.325E+ 00</td></tr><tr><td>GG-GSA[25]</td><td>-7.232E + 00</td><td>-1.015E + 01</td><td>3.347E + 00</td></tr><tr><td>TCK-AGSA</td><td>-8.740E + 00</td><td>-1.015E + 01</td><td>2.904E + 00</td></tr></table></body></html>
+
+在寻优高维多模态函数问题 $F _ { 5 ^ { - } } F _ { 8 }$ 时，对于函数 $F _ { 6 }$ 、 $F _ { 7 }$ ，$F _ { 8 }$ ，TCK-AGSA算法寻优效果均明显高于其他算法，只是对于函数 $F _ { 5 }$ 的寻优精度低于GG-GSA 算法。其中，函数 $F _ { 8 }$ 为Griewank函数，是一种典型的非线性多模态函数，具有广泛的寻优搜索空间和众多局部极值点，但是由表3和图1（d）可以看出，TCK-AGSA算法对于复杂函数 $F _ { 8 }$ 的寻优效果尤为显著，且取得函数理论最优值，这表明该算法基于Tent 映射的混沌Kbest非线性递减策略，能够使得算法跳出局部最优值，进而有效收敛于全局最优值邻域。
+
+与高维多模态函数相比，低维多模态函数 $F _ { 9 }  – F _ { 1 2 }$ 具有相对较少的局部极值点，能够用于检测算法的鲁棒性。由表3和图1（e）（f）可知，TCK-AGSA算法在收敛精度和收敛速度方面均优于其他算法，且三种改进算法对于 $F _ { 1 1 }$ 和 $F _ { 1 2 }$ 均分别取得了其理论最优值，其中TCK-AGSA算法寻优函数的平均值(mean）和标准差（std.dev）明显优于其他算法，表明其具有较好的鲁棒性。而由GSA、CKGSA算法的收敛效果较差可知，缺少记忆功能的引力搜索算法提高收敛性能的余地是有限的。
+
+![](images/495c8b6a883a4eb114fc827b8164d8f8b749ff158bb89257528fd95ab6c60e85.jpg)  
+图1TCK-AGSA与GSA寻优测试函数的收敛曲线图
+
+综上所述，相比于基本GSA算法、CKGSA[24]算法和GG-GSA[25]算法，TCK-AGSA算法能够有效的处理复杂函数寻优问题，在单模态函数和多模态函数问题上均取得了较好的效果，收敛精度、收敛速度和鲁棒性均有所提高，验证了改进算法的非线性递减Kbest策略和自适应权重全局最优引导速度更新方式的优越性。
+
+# 4 交通流预测应用
+
+# 4.1数据基础及预处理
+
+本文采用的数据集为贵州省高速公路交通流量数据集，采集地点为尾号D534交通观测站，采集时间为2016年11月。该数据集包含不同车型的车流量、车速、车道号和平均车头间距等30个维度的数据。通过数据清洗、降维和统计，选取2016年11月7日至11月11日共计5天的交通流数据，包含11号、12号、31号和32号车道的交通流量，采集时间间隔为15分钟，每天24小时共计采集96条数据。该时间段数据为一周内工作日的交通流量，具有相对明显的周期性，将11月7日至11月10日（周一至周四）的交通流量作为训练集用于模型的学习，11月11日（周五）的交通流量作为测试集用于模型的预测效果验证。
+
+针对真实交通流数据的不稳定性、变化幅度较大的问题，根据式（33）对训练样本集进行归一化处理，以提升LSSVM模型的训练效率，降低训练复杂度，减少训练时间。归一化方法定义如下：
+
+$$
+x ^ { \prime } = \frac { x - x _ { \mathrm { m i n } } } { x _ { \mathrm { m a x } } - x _ { \mathrm { m i n } } }
+$$
+
+其中： $x$ 为交通流真实数据值； $x ^ { \prime }$ 为归一化后的交通流数据值;  
+$x _ { \operatorname* { m a x } }$ 和 $x _ { \operatorname* { m i n } }$ 分别为交通流数据的最大车流量值和最小车流量值。
+
+# 4.2TCK-AGSA算法优化LSSVM模型的交通流预测
+
+根据交通流预测应用问题，建立LSSVM预测模型，并利用TCK-AGSA算法对其关键参数组合 $c$ 和 $\sigma$ 进行优化，提高该模型的学习效率，从而实现更精准的预测。模型输入为TCK-AGSA算法的初始参数，以及真实交通流量数据；输出为优化后参数组合 $c$ 和 $\sigma$ 的取值，以及交通流量预测结果。TCK-AGSA-LSSVM预测模型实现流程如图2所示。
+
+该模型具体实现步骤如下：
+
+a)初始化TCK-AGSA算法的粒子数目 $N$ 、最大迭代次数T等参数，并随机部署粒子位置；初始化LSSVM参数，确定参数 $c$ 和 $\sigma$ 的取值范围，将其取值映射为TCK-AGSA 算法的粒子位置坐标。
+
+b)选取预测值与真实值的均方误差（MSE）作为算法寻优的适应度函数，如式（34）所示。基于LSSVM参数与引力搜索粒子位置相互映射关系，计算其适应度值。
+
+c)根据式（12）和（13）计算更新惯性质量 $M _ { i } ( t )$ ，同时根据式（17）更新万有引力系数 $G ( t )$ 。
+
+d)根据式（16）计算粒子间的相互吸引力 $F _ { i j } ( t )$ 。
+
+e)根据式（25）计算基于Tent映射的混沌Kbest，并根据式（19）计算粒子在不同方向上所受合力。
+
+f)根据式（20）和（31）分别计算粒子的加速度和速度权重系数。
+
+g)根据式（32）更新粒子速度 $\nu$ ，然后根据式（22）更新粒子位置 $x$ 。
+
+h)判断是否已达到算法终止条件，若是则执行Step9；否则跳至b)，循环迭代。
+
+i)根据粒子位置与LSSVM参数的映射关系，确定全局最优粒子的位置 $x$ ，即为LSSVM模型的最优参数寻优组合 $c$ 和 $\sigma$ ，并利用最优参数组合建立TCK-AGSA-LSSVM预测模型。
+
+j)利用优化后的模型对交通流数据进行训练学习，最终输出交通流预测值，并通过计算测试样本值与预测值的误差来评价模型预测性能。
+
+![](images/af1de16bc6490b95886d51e521db60b4243970879577dcba15e6448c690fefec.jpg)  
+图2TCK-AGSA优化LSSVM预测模型实现流程
+
+# 4.3参比模型与评价指标
+
+为了充分验证TCK-AGSA 算法寻优LSSVM 模型对于交通流预测的有效性和优越性，选取基本LSSVM模型、文献[10]提出的FOA-LSSVM模型和文献[14]提出的GSA-LSSVM模型进行仿真实验，并与TCK-AGSA-LSSVM模型的预测结果进行对比分析。为了方便比较，将FOA、GSA和TCK-AGSA算法的种群规模均设为 $N = 5 0$ ，最大迭代次数为 $T = 1 0 0$ ，寻优维度$D = 2$ 。特别的，FOA算法寻优步长设为10；GSA和TCK-AGSA算法的其他参数设置同表1；基本LSSVM的正则化参数 $C = 0 . 1$ 核宽度 $\scriptstyle \sigma = 5 0 0$ 。
+
+针对不同交通流预测模型的评价与比较，采用均方误差（MSE）、平均绝对百分比误差（MAPE）、平均绝对误差(MAE）和拟合度系数（EC）作为评价指标，分别定义如下：
+
+$$
+M S E = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } ( \hat { y } _ { i } - y _ { i } ) ^ { 2 }
+$$
+
+$$
+M A P E = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } \left| \frac { \hat { y } _ { i } - y _ { i } } { y _ { i } } \right|
+$$
+
+$$
+M A E = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } \left| \left( \hat { y } _ { i } - y _ { i } \right) \right|
+$$
+
+$$
+E C = 1 - \frac { \sqrt { \sum _ { i = 1 } ^ { N } ( \hat { y } _ { i } - y _ { i } ) ^ { 2 } } } { \sqrt { \displaystyle \sum _ { i = 1 } ^ { N } y _ { i } ^ { 2 } } + \sqrt { \sum _ { i = 1 } ^ { N } \hat { y } _ { i } ^ { 2 } } }
+$$
+
+其中： $N$ 为样本数量； $\hat { y } _ { i }$ 和 $y _ { i }$ 分别表示数据的预测值和真实值。
+
+上述评价指标中，MSE、MAPE和MAE的取值越小，表明预测误差越小，相应模型的预测性能越好；EC的取值越接近于1，表明预测值与真实值之间的拟合程度越高，二者之间有更加相似的演化趋势。
+
+# 4.4预测结果对比分析
+
+采用MATLABR2013a进行交通流预测仿真实验，编程调用LSSVMlab1.8工具箱。表4给出了不同的智能优化算法寻优LSSVM模型进行交通流预测的参数寻优结果。图3至图6分别描述了基本LSSVM模型、FOA-LSSVM模型、GSA-LSSVM模型和TCK-AGSA-LSSVM 模型在测试集上的预测效果对比，其中：i表示时间索引； $q$ 表示交通流量； $m$ 表示真实交通流量数据； $p$ 表示模型预测数据。上述模型的预测结果与真实数据的相对误差分布情况如图7所示，其中R表示不同模型的相对误差值。
+
+表4不同预测模型参数寻优结果  
+
+<html><body><table><tr><td>预测模型</td><td>C</td><td>9</td></tr><tr><td>FOA-LSSVM</td><td>21.754</td><td>1.945</td></tr><tr><td>GSA-LSSVM</td><td>36.871</td><td>0.649</td></tr><tr><td>TCK-AGSA-LSSVM</td><td>39.527</td><td>1.386</td></tr></table></body></html>
+
+从图3（a）～图6（a）可以看出，相比于其他三种预测模型，TCK-AGSA-LSSVM模型的预测曲线与真实数据曲线的拟合效果最佳，具有更为相似的交通流变化趋势，适用性更强。
+
+图3（b）\~图6（b）给出了不同模型的预测结果与真实数据的拟合散点图，可见TCK-AGSA-LSSVM模型与其他模型相比，其预测结果与真实数据具有更小的分布偏差。
+
+从图7的相对误差分布图可以看出，基于改进TCK-AGSA算法寻优LSSVM模型的预测相对误差波动范围最小，且大部分相对误差百分比较为稳定的维持在 $5 \%$ 以下，对于突变剧烈、较难预测的时间点（如 $i = 4 0$ ），相比于其他三种预测模型的预测精度也有了明显的改善，表明TCK-AGSA-LSSVM预测模型能够更加准确的反映交通流量演化趋势，更加贴近实际应用需求。
+
+由表5可知，TCK-AGSA-LSSVM模型的MSE、MAPE和MAE值均低于参比模型，其拟合度系数EC值均高于其他模型，表明该模型具有较小的预测误差，且拟合程度较高。
+
+![](images/af3f7dfd3661a6b94addddadbdc193cb3aed3c4cf1f5bfce632ed2b5520e5262.jpg)  
+图3基于LSSVM模型的交通流预测
+
+![](images/e7bf3a65c38cdaf3a0698d1577e60c5835fadf45c8863ce55440e3321731e0cb.jpg)  
+图4基于FOA-LSSVM模型的交通流预测
+
+![](images/cb886111934d0c91c3c97b3c328a1fd8fe41d846b9574046709a789c45890472.jpg)  
+图5基于GSA-LSSVM模型的交通流预测
+
+![](images/fb8f33030403e75c885e16d54b08d0d38ea96443f64f0ce6362bbdfc9fa63bca.jpg)  
+图6基于TCK-AGSA-LSSVM模型的交通流预测
+
+![](images/5ae598e080b802b498480b06f7bd4ac1f5f3616b9cee45868222db20f7be1ac2.jpg)  
+图7不同预测模型相对误差比较
+
+表5不同预测模型指标值对比  
+
+<html><body><table><tr><td>预测模型</td><td>MSE</td><td>MAPE/%</td><td>MAE</td><td>EC</td></tr><tr><td>LSSVM</td><td>83.856</td><td>7.214</td><td>9.346</td><td>0.823</td></tr><tr><td>FOA-LSSVM</td><td>51.608</td><td>5.061</td><td>5.712</td><td>0.916</td></tr><tr><td>GSA-LSSVM</td><td>35.818</td><td>4.379</td><td>4.256</td><td>0.955</td></tr><tr><td>TCK-AGSA-LSSVM</td><td>19.207</td><td>3.220</td><td>3.727</td><td>0.972</td></tr></table></body></html>
+
+综上所述，基于TCK-AGSA算法进行参数寻优的LSSVM模型预测性能良好，能够有效提高交通流量的预测精度和拟合质量。
+
+# 5 结束语
+
+本文首先提出一种改进的引力搜索算法TCK-AGSA。利用Tent映射改进Kbest函数，使算法具有跳出局部最优的机制；
+
+引入全局最优引导策略，使粒子加速朝向最优解移动；将进化度因子和聚合度因子引入速度更新权重系数，使算法具有较强的自适应能力，更好地平衡算法的全局探索能力和局部开发能力。通过在12个形态各异的基准测试函数上进行仿真实验，结果表明TCK-AGSA 算法的寻优性能均优于基本GSA 算法、GG-GSA算法和CKGSA算法，从而验证了所提出算法在收敛精度和收敛速度上的优越性。
+
+然后，利用改进算法TCK-AGSA对LSSVM参数组合进行寻优，构建TCK-AGSA-LSSVM交通流预测模型。选取2016年贵州省高速公路上的真实交通流数据进行仿真实验，结果表明，该模型的误差指标MSE、MAPE、MAE值均低于基本LSSVM模型、FOA-LSSVM模型和GSA-LSSVM模型，且均等系数EC值高于其他三个预测模型，验证了TCK-AGSA寻优LSSVM的预测方法具有更好的预测精度、鲁棒性和泛化能力，其预测结果能够为实际交通诱导与交通管控提供有力的参考。
+
+# 参考文献：
+
+[1]Kalamaras I, ZamichosA, SalamanisA,et al.An interactive visual analytics platform for smart intelligent transportation systems management [J]. IEEE Trans on Intelligent Transportation Systems,2018,19 (2): 1-10.   
+[2]Rajabzadeh Y, Rezaie AH,Amindavar H. Short-term traffic flow prediction using time-varying Vasicek model[J].Transportation Research Part C,2017, 74: 168-181.   
+[3]Kumar S V, Vanajakshi L. Short-term traffic flow prediction using seasonal ARIMA model with limited input data [J]. European Transport Research Review,2015,7 (3): 21.   
+[4]Kumar S V. Traffic flow prediction using Kalman filtering technique [J]. Procedia Engineering,2017,187: 582-587.   
+[5]Lv Yisheng,Duan Yanjie,Kang Wenwen, et al. Trafic flow prediction with big data:a deep learning approach [J].IEEE Trans on Intelligent Transportation Systems,2015,16 (2): 865-873.   
+[6]Polson N G,Sokolov V O.Deep learning for short-term traffic flow prediction [J]. Transportation Research Part C:Emerging Technologies, 2017, 79: 1-17.   
+[7] Hu Wenbin,Yan Liping,Liu Kaizeng,et al.A short-term traffic flow forecasting method based on the hybrid PSO-SVR [J]. Neural Procesing Letters,2016,43 (1): 155-172.   
+[8]康军，段宗涛，唐蕾，等．一种 LS-SVM 在线式短时交通流预测方法 [J/OL].计算机应用研究，2018，35（10）．htp://www.arocmag. com/article/02-2018-10-022.html.(Kang Jun,Duan Zongtao,Tang Lei,et al.LS-SVM online short term traffic flow prediction method [J/OL]. Application Research of Computers,2018,35 (10).http://www.arocmag. com/article/02-2018-10-022.html.)   
+[9]Shang Qiang,Lin Ciyun,Yang Zhaosheng,et al.Short-term traffic flow prediction model using particle swarm optimization-based combined kernel function-least squares support vector machine combined with chaos theory
+
+[J].Advances in Mechanical Engineering,2016,8(8):1-12.
+
+[10] CongYuliang,Wang Jianwei,LiXiaolei.Traffic flow forecastingbya least squares support vector machine with a fruit fly optimization algorithm [J]. Procedia Engineering,2016,137:59-68.   
+[11] Suykens JA K,Vandewalle J. Least squares support vector machine classifiers [J]. Neural ProcessingLetters,1999.9(3): 293-300.   
+[12]王鲜芳，张悦，王俊美．基于 SAPSO-LSSVM 的蛋白质模型质量评估 [J].计算机应用研究,2017,34(5):1346-1348+1378.(Wang Xianfang, Zhang Yue,Wang Junmei. Predicting protein model quality assessment by SAPSO-LSSVM [J]. Application Research of Computers,2017,34 (5): 1346-1348+1378. )   
+[13]耿立艳，陈丽华．基于FOA优化混合核LSSVM的铁路货运量预测[J]. 计算机应用研究，2017,34(2):409-412.(Geng Liyan,Chen Lihua. Forecast on railway traffic volume using mixed-kernel LSSVM optimized byFOA[J]. Application Research of Computers,2017,34 (2): 409-412. )   
+[14] Yuan Xiaohui, Chen Chen,Yuan Yanbin,et al. Short-term wind power prediction based on LSSVM-GSA model [J].Energy Conversion & Management,2015,101: 39-401.   
+[15] Sun Wei,Sun Jingyi. Daily PM2.5 concentration prediction based on principal component analysis and LSSVM optimized by cuckoo search algorithm[J].Journal ofEnvironmental Management,2016,188:144-152.   
+[16] Liu Chao,Niu Peifeng,Li Guoqiang,et al.A hybrid heat rate forecasting model using optimized LSSVM based on improved GSA [J]. Neural Processing Letters,2017, 45 (1): 299-318.   
+[17] Li Yanan,Yang Peng,Wang Huajun.Short-term wind speed forecasting based onimprovedantcolonyalgorithm forLSSVM[J].Cluster Computing, 2018, 9: 1-7.   
+[18] KumarL,Sripada SK,SurekaA,etal.Effective fault predictionmodel developed using least square support vector machine (LSSVM)[J]. Journal of Systems& Software,2018,137:686-712.   
+[19] Rashedi E,Nezamabadi-Pour H, Saryazdi S.GSA: a gravitational search algorithm [J].Information Sciences,2009,179(13): 2232-2248.   
+[20]LiChaoshun,Zhou Jianzhong.Parametersidentificationof hydraulic turbine governing system using improved gravitational search algorithm [J]. Energy Conversion and Management,2011,52(1): 374-381.   
+[21] Darzi S, Kiong TS,Islam MT,etal.Amemory-based gravitational search algorithm for enhancing minimum variance distortionless response beamforming [J]. Applied Soft Computing,2016,47 (C): 103-118.   
+[22] Zhang Nan,Li Chaoshun,Li Ruhai,et al.A mixed-strategy based gravitational search algorithm for parameter identification of hydraulic turbine governing system [J]. Knowledge-Based Systems,2016,109: 218- 237.   
+[23]郭洁皓，高兴宝．基于信息熵的混合引力搜索算法[J].计算机应用研 究，2016,33(05):1319-1321,134.(Guo Jiehao,Gao Xingbao.Hybrid gravitational search algorithm with information entropy[J].Application
+
+Research of Computers,2016,33 (05): 1319-1321,134.)
+
+[24] Mittal H,Pal R,Kulhari A,et al. Chaotic Kbest gravitational search algorithm (CKGSA)[C]// Proc of the 9th International Conference on Contemporary Computing.Piscataway,NJ:IEEE Press,2017:1-6.   
+[25]Bohat VK,Arya K V.An effective gbest-guided gravitational search
+
+algorithm for real-parameter optimization and its application in training of feedforward neural networks [J].Knowledge-Based Systems,2018,143: 192-207.

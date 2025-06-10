@@ -1,0 +1,369 @@
+[
+    {
+        "type": "text",
+        "text": "RNAcentral: an international database of ncRNA seguences ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TheRNAcentral Consortium ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "European Molecular BiologyLaboratory,European Bioinformatics Institute (EMBL-EBl),Wellcome TrustGenome Campus, Hinxton,Cambridge CB101SD,UK,Facultyof Life Sciences,Universityof Manchester,OxfordRoad Manchester M139PT,UK,Wellcome Trust Sanger Institute,Wellcome Trust Genome Campus, Hinxton,Cambridge CB10 1SD, UK,Department of Biomolecular Engineering,Universityof California,Santa Cruz,CA 95064,USA, Departmentof Biochemistry, University of Texas Health Science Centerat SanAntonio,7703Floyd Curl Drive,San Antonio,TX78229-3900,USA,Departmentof Animal Sciences,209 AnimalScience Building on Mel Street,Auburn, AL 36849-5415,USA,Sandia NationalLaboratories,Livermore,CA94551,USA,Departmentof Integrative Biology, University of Texasat Austin,Austin,TX78712,USA,MRC Functional Genomics Unit, Department of Physiology, Anatomy,and Genetics,Universityof Oxford,OxfordOX13PT,UK,Kinghorn Centre for Clinical Genomics,Garvan Institute of Medical Research,Darlinghurst, NSW 2010,Australia,Laboratoryof BioinformaticsandProtein Engineering,International Instituteof MolecularandCel Biologyin Warsaw,Trojdena4,O2-109 Warsaw,Poland, Laboratoryof Bioinformatics,Instituteof Molecular,Biologyand Biotechnology,Facultyof Biology, Umultowska89, 61-614Poznan,Poland,LaboratoryofPlantolecularBiologyRockefelerUniversity230YorkAvenue,NewYork, NY 10065, USA,Laboratoryof Noncoding RNA,Institute of Biophysics,Chinese Academyof Sciences,Beijing 100101,China,Instituteof Computing Technology,ChineseAcademyof Sciences,Beijing100190,China,Instituteof Basic Medical Sciences of Chinese Academyof Medical Sciences, Beijing, China, School of Basic Medicine Peking Union Medical College,5 Dong DanSan Tiao,Bejing 1oo5,China,Taicang InstituteofLife Sciences Information, Suzhou 215400,China,Michigan State University,EastLansing,Ml48824-1325,USA,Departmentof Biological ScienceandTechnologyInstituteofBioinformaticsandSystemsBiology,National ChiaoTungUniversity,HsinChu, Taiwan,DepartmentofGenetics,Stanford University3165 Porter Drive,PaloAlto,CA94304,USA,Departmentof Computerand Communications Engineering,Universityof Thessaly,Volos38221,Greeceand National Center for Biotechnology Information (NCBl),National Library of Medicine,Bethesda,MD 20894, USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received August15,2014;Revised October 02,2014; Accepted October 03,2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The field of non-coding RNA biology has been hampered by the lack of availability of a comprehensive，up-to-date collection of accessioned RNA sequences.Here we present the first release of RNAcentral, a database that collates and integrates informationfroman internationalconsortiumofestablished RNA sequence databases. The initial release contains over 8.1 million sequences, including representatives of all major functional classes.A web portal (http://rnacentral.org) provides free access to data,search functionality, cross-references,source code and an integrated genome browser for selected species. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years, there has been a tremendous growth in the number of reported sequences of non-coding RNAs (ncRNAs). Large-scale genome sequencing has identified new representatives of well-known functional classes, but additionally, many new types of ncRNA have been reported, including piRNAs(1) and circRNAs (2). However, information about such sequences is often ‘locked up’ in the supplementary materials associated with publications, or may be referenced only through the chromosomal location of the encoding gene, making it cumbersome for biologists and bioinformaticians to extract the relevant data.To address this problem,specialist databases have been created for many types of ncRNAs to extract and abstract this information and to present it in a coordinated fashion on the web.Examples include miRBase (3), gtRNAdb (4),Rfam (5)and NONCODE (6).Additionally, for certain model species, there are specialist genome-centric databases that include ncRNAs within their scope; for example, the Saccharomyces Genome Database (SGD)(7) contains information about all ncRNA genes in the budding yeast Sac charomyces cerevisiae. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Atpresent,some tools that researchers take for granted when analyzing protein sequences are not available for ncRNAs. For example, it has not been possible to carry out a sequence search of an individual ncRNA against all known ncRNAs due to the lack of a collection of ncRNAs. The equivalent operation has been fundamental for the advance of protein science. Identifying the full complement of ncRNAs for a particular species is also not possible,except for a few model organisms that have been intensively studied. Bringing all known ncRNA sequences into a common database would also enable the identification of sequences that are shared between resources and those that are only found uniquely in one resource. These comparisons should provide opportunities for linking between RNA information resources as well as providing quality control between different sources of ncRNA sequence. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The need for a comprehensive ncRNA sequence database was identified at a meetingofRNA researchersat Hinxton in 2010(8),which highlighted the rapid growth in both ncRNA sequence and functional information. It was proposed that such a resource should utilize the expert community of RNA researchers through incorporation of data from the numerous ncRNA databases already in existence. To address these needs,and accelerate RNA research,we have developed RNAcentral, which aggregates information from a federation of ncRNA sequence databases.RNAcentral combines these resources to provide a comprehensive and consistent collection of accessioned ncRNA sequences. Inaddition,RNAcentral actsasahub thatallowsusers to navigate fromRNAcentralbackto the source of the RNA sequences.In the future, we plan to develop RNAcentral further to incorporate additional datatypes and information about RNA structure, sequence modifications, RNARNA and RNA-protein interactions, and function. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RNAcentral ExpertDatabases ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Databases that contribute sequence data to RNAcentral are known as Expert Databases. Ten such databases $( 3 -$ 5,9-16) have contributed to the current release (see Table 1 for details).The number of sequences contributed by each database and the level of quality assurance each offers varies: the European Nucleotide Archive(ENA), for example, contributes over 6.5 million sequences to RNAcentral, for which some have received manual attention,but others have been generated through unsupervised automated annotation processes.lncRNAdb (9) contributes just 62 sequences oflongnon-codingRNAs (lncRNAs),all of which are annotated with detailed information and references are provided for each.Thus,RNAcentral provides broad coverage ofRNA sequence, while including rich and high quality annotation forasubset of sequences.We are currentlyin the process of incorporating further Expert Databases,and welcome contact fromanyncRNAdatabases that wouldlike to be included. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bc7c463ad7e36afec3b11c1279436e9c8dab35f41a5581a7e5bb791bc285ffd.jpg",
+        "img_caption": [
+            "Figure1.RNAcentral architecture.Block arrows indicate data flow,while solid arrows indicate web traffic and quality control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DATAFLOW ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ArchitectureofRNAcentral ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RNAcentral has been implemented with the goal of making the resource sustainable through reuse of,and extensions to, existing bioinformatics infrastructure.In particular, core sequence data flow (including data submission/capture, validation,storage and retrieval services),cross-reference maintenance and sequence similarity search,are provided using services from the ENA(lO),an established data resource that provides generic sequence archiving for the scientific community. The overall architecture and data flows into RNAcentral are illustrated in Figure 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Content of relevance to RNAcentral is archived directly as part of ENA in one of three ways.First,Expert Database staff report their ncRNA sequence data holdings into RNAcentral, using an ENA submission process, with assistance as appropriate from RNAcentral staff. Second, general ENA users who deposit sequence data for public dissemination provide ncRNA (and other) data through ENA submission services.Third, data reported into global partner databases of the International Nucleotide Sequence Database Collaboration (INSDC; (17))，the global nucleotide sequence database of records are mirrored to ENA through automatic processes that operate on a nightly basis. Specialist services and data presentations have been engineered under RNAcentral to support the selection and routing of ncRNA sequence data from ENA into RNAcentralspecific data flows. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unique RNA sequence identifiers ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A major roadblock for the field of RNA biology is the lack ofa set of consistent and stable accessions for RNA sequences. The goal of the current stage of the project is to catalogallknownncRNA sequences. To achieve this,RNAcentral assigns Unique RNA Sequence ids(URS) to distinct RNA sequences,no matter which species they are from. This approach parallels that of the UniProt Archive (UniParc) database (18). The benefits of this design choice are that the mapping from an identifier to an exact sequence is unique and will not change over time. In addition, the design allows a rapid look up of new sequences to check whether they already exist in RNAcentral. One downside of this design is thatit creates many identifiers for sets of closely related sequences.We will address this issue in futurereleases,asdescribedbelow. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a1143af841ff9e13b51ef1fc2c35eb889bb27bce26da5f4d85c52d4325addba.jpg",
+        "table_caption": [
+            "Table 1.Expert Databases from which sequence data are already incorporated into RNAcentral "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Database name</td><td>Description</td><td>URL</td></tr><tr><td>ENA</td><td>European Nucleotide Archive; provides the complete set of ncRNA sequence data reported by the scientific community to the databases of the International Nucleotide Sequence Database Collaboration (INSDC;(17)) as part of</td><td>http://www.ebi.ac.uk/ena/</td></tr><tr><td>Rfam</td><td>conventional scientific best practice (10). Database of ncRNA families and cis-regulatory elements with a broad taxonomic coverage (5).</td><td>http://rfam.xfam.org/</td></tr><tr><td>RefSeq</td><td>A comprehensive, non-redundant, well-annotated set of reference sequences including genes and transcripts (11).</td><td>http://www.ncbi.nlm.nih.gov/ refseql</td></tr><tr><td>VEGA</td><td>Database of vertebrate gene annotation that provides a high-quality set of lncRNAs produced by manual annotation (12,13).</td><td> http://vega.sanger.ac.uk</td></tr><tr><td>gtRNAdb</td><td>Contains tRNA gene predictions on complete or nearly complete genomes from a broad range of species (4).</td><td>http://gtrnadb.ucsc.edu/</td></tr><tr><td>miRBase</td><td>miRBase is a database of published microRNA sequences and annotations (3).</td><td>http://mirbase.org/</td></tr><tr><td>RDP</td><td>Provides a quality-controlled,aligned and annotated set of small ribosomal subunit RNA sequences (14).</td><td>http://rdp.cme.msu.edu/</td></tr><tr><td>tmRNA Website</td><td>Provides information about the tmRNA molecule found in bacteria and some organelles (15).</td><td>http://bioinformatics.sandia. gov/tmrna/</td></tr><tr><td>SRPDB</td><td>Provides information about the signal recognition particle RNA molecule (16).</td><td>http://rnp.uthscsa.edu/rnp/ SRPDB/SRPDB.html</td></tr><tr><td>IncRNAdb</td><td>Provides comprehensive information about experimentally characterized lncRNA molecules (9).</td><td>http://www.lncrnadb.org/</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Unique RNA Sequence identifiers have the following format: URS $^ +$ a sequentially assigned 1O-digit hexadecimal number (e.g. URS00000478B7). The naming scheme can accommodate more than one trillion sequences $( 1 6 ^ { 1 0 } )$ . Once created, the URS ids cannot be modified,deleted or reassociated with a different RNA sequence.EachURS identifier is uniquely associated with a checksum computed on the uppercase DNA version of the sequence using the MD5 algorithm described in RFC 1321 (http://www.ietf.org/rfc/ rfcl321.txt). These checksum values support fast lookup of identical sequences via the RNAcentral user interfaces. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Keeping track of cross-references ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Every Unique RNA Sequence is associated with one or more cross-references (xrefs) pointing to the corresponding entries in the Expert Databases (e.g. the sequence URS0000O478B7 is a human SRP RNA found in the SRPDB, Rfam,RefSeq and lncRNAdb databases).A crossreference tracking system associates the Unique RNAcentral Sequence identifiers with the accessions used by the Expert Databases.During eachRNAcentral release, crossreferences can be added,kept active or deactivated(when the sequence is no longer present in the Expert Database). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Quality control ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "One of the most important functions of RNAcentral is to provide quality control of the incoming data.We work closely with the Expert Databases to ensure that all data are self-consistent and meet the INSDC standards.We also examine the existing INSDC data to discover entries inappropriate for RNAcentral. For example, all ncRNA features defined using the order location operator were filtered out because the sequences of such entries do not represent contiguous sequences. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition, several ‘common sense’ rules for excluding sequences from RNAcentral have been implemented: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sequences that are shorter than 1O nucleotides are not included because they are not likely to represent biologically relevant ncRNAs (for a comprehensive list of ncRNAsand their sizes, the reader is referred to a recent review (19)). This cutoff is currently applied to all sequences, but in the future we may develop different cutoffs for different RNA types. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The sequences in INSDC may include $\\mathbf { \\mathcal { N } } _ { } ^ { \\prime }$ characters to indicate that the identity of some residues has not been established.While such sequences are allowed in RNAcentral, entries where $\\mathbf { \\nabla } \\cdot \\mathbf { N } ^ { \\prime }$ residues constitute more than $10 \\%$ of the sequence length are filtered out. This procedure excludes ${ \\sim } 0 . 1 \\%$ of candidate sequences and about $5 \\%$ of sequences with at least $1 \\ \\mathrm { { ^ { 4 } N } ^ { \\mathrm { { 3 } } } }$ . As a result, in this release(version 1.O),374 705 sequences contain‘N'characters,half of which have only one unknown residue. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The collection ofRNA annotations in one centralized location also allows for cross-database quality control measures that were not previously possible (see also Discussion section). For example,21 microRNA sequences deposited by miRBase are simultaneously annotated as other RNA types by different Expert Databases.These sequences have been flagged for the attention of miRBase and those Expert Databases. Similarly,a number of sequences simultaneously annotated with multiple related Rfam families were identified.This has been brought to the attention of the Rfam team,and the affected RNA families willbe imported in RNAcentral once the problem is resolved. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SUBMITTINGDATATORNACENTRAL ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We encourage all RNA biologists who publish the identification of novel ncRNA sequences to ensure that they are submitted into one of the INSDC databases.New ncRNA sequences submitted to INSDC are automatically imported in RNAcentral, once the data satisfy the quality control criteria described above.Reasonable assistance can be provided to Expert Databases wishing to submit annotations of existing INSDC sequences.In rare cases when the data cannot be submitted to INSDC, the data may still be imported into RNAcentral as long as the sequences can be mapped to primary INSDC accessions (e.g. contigs in a genome assembly).The contact form on the RNAcentral website can be used to get in touch with the RNAcentral team regarding data submission. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RNACENTRALWEBSITE ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Websitefeatures ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The RNAcentral website is available at http://rnacentral.org and enables several ways to access data.Firstly,a text search for keywords and other metadata is provided.The results of suchsearchesare facetedsuchthattheresultscanbefiltered further. For example, the user can search for all human ncRNAs,and then easily filter the results to select all rRNAs. Facets are provided for Expert Database, RNA type and species. The RNAcentral website is also equipped with a sequence searchinterface poweredbytheENAserviceswhere the user can carry out a similarity search of a query sequence against all ncRNAs found in RNAcentral. Finally all the data can be also accessed programmatically using the REST API and the FTP archive (http://rnacentral.org/ downloads). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Genome mapping ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to put ncRNA sequences in their genomic context, it is important to map the sequences onto their genomic locations.For example, snoRNAs that are transcribed within the introns of protein-coding genes become readily apparent when viewed in a genome browser. Knowing genomic locations also enables integration with genome browsers and other bioinformatic resources that use genome coordinates for annotating ncRNAs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since all reference genomes are defined using INSDCaccessioned sequences and all RNAcentral sequences are based on primary INSDC accessions,it is possible to establish a mapping between the RNAcentral entries and their genomic coordinates in reference genomes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Ensembl Perl API (20) is used to map the low-level INSDC accessions to their top-level genomic coordinates (such as chromosomes or contigs) for a number of key species,including human,mouse,yeast, fruit fly,worm, thale cress and others (the full list of supported species isavailable at the RNAcentral website).Notably,all human entries are mapped to the new human genome assembly, GRCh38,including the miRBase and VEGA Expert Database datasets. The genomic coordinates of the RNAcentral entries can be downloaded in a variety of formats from theFTP site orthrough the REST API. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Whenever genomic mapping is available, RNAcentral sequences can be viewed in their genomic context using a light-weight genome browser (http://genoverse.org) where the users can interactively explore the genomic neighbor hood without leaving the page (see Figure 2). External links are provided to the fully-featured genome browsers such as Ensembl(20) and the UCSC genome browser (21). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Overview of the data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The current release 1.O of RNAcentral contains over 8.1 million unique sequences.The sequences in RNAcentral are verybiased toward ribosomal RNAs ( $70 \\%$ of all sequences) that are used in environmental sampling to identify species. Theclassof tRNAsaccountforafurther $10 \\%$ ofRNAcentral sequences.We can also look at the distribution ofRNAcentral sequences across species, shown in Figure 3.Bacterial sequences account forabout half ofRNAcentral, while eukaryotes account for about $40 \\%$ of the sequences.While there are far fewer eukaryotic genomes available, each has a larger number ofRNAs.Vertebrates currently account for about one third of all eukaryotic RNAcentral sequences. In this section,we will illustrate RNAcentral data using three model organism examples. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The reference S.cerevisiae strain S288C (taxonomic identifier taxid:559292) contains 238 RNA sequences according to RNAcentral. SGD, the yeast model organism database, identifies 424 RNA genes leading to 191 unique sequences. In budding yeast tRNA sequences are duplicated many times. Twenty-one tRNA sequences are found twice in the genome and 13 sequences have more than 1O identical copies. There are also two complete copies of the rDNA repeats included in the reference genome. Of the 191 unique sequences in SGD,we can assign 163 $( 8 5 \\% )$ as being identical to an RNAcentral sequence. Seventy-five sequences are found to be unique to RNAcentral and 28 sequences are unique to SGD. Of the 28 sequences not found in RNAcentral, all but one are encoded by the mitochondrial genome, 24 tRNAs, two rRNAs and an unclassified ncRNA sequence. The reference genome of budding yeast, strain S288C,was changed from taxid:4932 to the more specific taxid:559292 2 years ago. The source of the yeast mitochondrial RNAs has apparently not been updated to taxid:559292 and thus these mitochondrially encoded tRNAs are not associated with the proper taxid.The remaining sequence unique to SGD is SNR17A,an introncontaining gene. The intron containing form of SNR17Ais present in RNAcentral, but not the intronless form. Twentyseven of the 75 RNAcentral unique sequences contain the gene's intron sequence and thus do not represent the mature form of the RNA.As many as 47 of the RNAcentral unique sequences are likely to be due to partial matches by Rfam families creating new unique sequences.In all cases, the fulllength sequence identical to SGD also exists.For example, the snoRNA snR45 from SGD is 172 nucleotides long and can be found in URSo0o00284F1,while Rfam provides a 171 nucleotide sequence (URSooo06C1FAA) that lacks the final uracil. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A search for human ncRNAs in RNAcentral using the taxonomic identifier (taxid:9606) identifies 75 931 sequences,which exceeds the number one expects. This numberincludes32 668miscRNAs,21756lncRNAs,5139 microRNAs, 4042 rRNAs, etc. The miscRNA category contains a large number of piRNAs that have not been given the correct type by submitting authors. There appear to be twice as many microRNAs as expected (miRBase annotates $\\sim 2 5 0 0$ mature microRNA sequences). The inflated numberis due to many factors including multiple different sequenced versions of human DNA,which leads to multiple ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Unique RNA Sequence URS00003A022F Interactive tour   \n0 A unique RNA sequence entry in RNAcentral groups together allidentical RNA sequences no matter what species they ar from.   \nOverview Taxonomy 2D 3D Download   \nOverview 1 Description: Homo sapiens IncRNA 448 nucleotides3databases (ENA,RefSeq,VEGA)1organismfirstseen 29 May2014lastupdated O5 Sep 2014   \nAnnotations 1-2 of 2 ② Filter table   \nDatabase Description Species   \nO vega Homo sapiens (human) long non-coding RNA OTTHUMT00000098311.1 (AC006335.14 gene) Homo saplens   \n(GENCODE) > Vega transcript OTTHUMT00000098311 C from gene OTTHUMG00000040955€ > Source ENA entry: HG512811.1:1..448:ncRNAC Viewgenomic locationY:6,357,219-6,361,413 Ensembl€ UCc □   \nRefSeq Homo sapiens long intergenic non-protein coding RNA 280 (LINCoo280), long non-coding RNA. Homo sapiens >RefSeq: NR_046505.1C >NCBI GeneID:100873964 > HGNC gene LINC00280€ View genomic locationY:6,357,219-6,361,413 Ensembl C UCSC □   \nGenome browser Homo sapiens Y:6,357,219-6,361,413 3   \nHomo sapiens (human) long non-coding RNA OTTHUMT00000098311.1 (AC006335.14 gene)   \n三 Tracks 0 p11.2 q11.221 q11.222 q11.223 Q11.23 q12 55,000 6,355,000 5,357,000 5.358.000 6,359.000 6,360.000 6,361,000 6,362.000 6.363.000 Sequen ：Genes LINC00280 □ Transcripts ENST00000439525 RNAcentral □ □ URS00003A022F Powered by Genoverse   \nSequence n   \n448 nucleotides (145 A; 99 C; 92 G; 112 U, 0 N)   \nACAGAGAGU   \nCAGGAACACAAUAUUGCUUAUCAACUGAGCUUUAAAACAGAUAUGA G JGC CUUCCUGUUCCA   \nAACUCACCACUUAUCACCAUAGUACCCGCGUUCAGGCAUUAAGAAGAAAAGAGCAUCCAAUCCCUCUGCUUCCUGCAUCGGCUCC AUGCACAAGCAAAUGUGUUGUGUUAGUGGCUAUCAAAUAUUCAUG   \nUAUUUGAUCAAGGAAAUUUGUAUUUCCAAAUGGUAAAACAAAAAUACUACUA ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "gure2.Acealtebsoithouts:(Ovesitifsceati ind cross-references to Expert Databases, (3) Genome browser for mapped sequences,(4) Sequence data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8b3d48dec96fd5b411e8d0a33ad176fd72d2d1db8aa9f05a6b8accd759c9f4e.jpg",
+        "img_caption": [
+            "Figure 3.The species distribution of sequences in RNAcentral. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "variants of each RNA sequence. In addition, sequences derived from the Rfam Expert database again have different $5 ^ { \\prime }$ or $3 ^ { \\prime }$ ends from the experimentally characterized ends of the microRNA meaning that completely new URS sequences are created. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The reference Escherichia coli strain K-12 substr. MG1655 (taxid: 511145) contains 207 ncRNA genes according to EcoCyc (22). RNAcentral identifies 367 sequences. The genome contains 7 ribosomal RNA operons (23),and in RNAcentral we find 7 full-length LSU sequences in addition to 14 shorter sequences that correspond to partial matches to the RNA.For SSU rRNA, we see only six sequences in RNAcentral. The discrepancy is explained by the fact that there are two copies of the SSU rRNA (rrnB and rrnE),which are identical in sequence and found in a single RNAcentral entry (URSooooOABFE9). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Release schedule ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The current release(l.O) follows a public beta release (1.0beta) in June 2014.In the future, the data will be updated several times a year, coinciding with major new versions of the Expert Databases.The website user interface will be updated continuously. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RNAcentral is still at an early stage of development. The first release provides a stable accessioned set of RNA sequences,along with sequence and metadata search,bulk download, cross-references and integrated genome browsing functionality. The final goal is to develop a resource akin to UniProt for ncRNAs,with rich functional annotation and identifiers for conceptual biological entities (in addition to those assigned to sequences). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "One challenge is that RNAcentral is entirely dependent on the quality of the input streams of data.For example, there are incorrect annotations of tRNA as rRNA coming from user submissions in ENA (e.g. JQ737315.1). The RNAcentral website enhances our ability to spot inconsistencies and we intend to provide automated solutions to refine the data to remove such obvious annotation errors.We will improve the provenance of sequences in RNAcentral to allowusers to select slices of the data for either improved accuracy or improved coverage.In the current data scheme if an RNA sequence has even a single variant nucleotide (including an N), the two sequences will be given two different URS entries. This is far from ideal and a significant future effort will be placed on creating a new entity that groups all variants of the same ncRNA from a particular species. Further complications arise when identical RNA sequences are found at multiple genomic locations and so it will be important to also have an entity for an RNA gene that includes genomic location. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "At present we are far from covering all known ncRNA sequences in RNAcentral. piRNAs, for example,are poorly represented in the database. This can be alleviated by including specialist databases such as piRNAbank in RNAcentral. We have clear future plans to incorporate several more RNAcentral Expert databases:NONCODE,CRW, plncDB, tRNAdb, sRNAmap, snoRNAdb, SILVA, GreenGenes and tmRDB.However, not every type of RNA has its own specialist database, so in the longer term we plan to contact the authors of RNA discovery papers to encourage submission of sequence data to INSDC. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A number of features for the database are planned for the coming year. These include mapping RNA sequences onto secondaryand tertiary structure information.We will also incorporate the sequences of RNA from the structures in the PDB into RNAcentral, which will enable mapping of structural information to sequences in RNAcentral. We will expand mapping of RNAcentral sequences onto genomes, which provides a powerful way to understand contextual information about the RNAs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We welcome all feedback and suggestions,which can be directed to us using the contact form on the RNAcentral website,as well asvia GitHub and Twitter(the links are available at http://rnacentral.org). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RNAcentral has been prepared by Anton I. Petrov, Simon J.E.Kay,Richard Gibson,Eugene Kulesha,Dan Staines, Elspeth A. Bruford,Mathew W. Wright, Sarah Burge, Robert D.Finn,Paul J.Kersey, Guy Cochrane, Alex Bateman,at the European Bioinformatics Institute (EMBLEBI); Sam Griffiths-Jones(University ofManchester); Jennifer Harrow (Wellcome Trust Sanger Institute);Patricia P. Chan, Todd M.Lowe(University of California Santa Cruz);Christian W. Zwieb (University of Texas),Jacek ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Wower(Auburn University),Kelly P.Williams, Corey M. Hudson (Sandia National Laboratory); Robin Gutell(Universityof Texas); MichaelB.Clark(Universityof Oxford); Marcel Dinger, Xiu Cheng Quek(Garvan Institute of Medical Research); Janusz M.Bujnicki (International Institute of Molecular and Cell Biology in Warsaw and Adam Mickiewicz University,Poznan); Nam-Hai Chua, JunLiu,Huan Wang (Rockefeller University); Geir Skogerbo,Yi Zhao, Runsheng Chen (Chinese Academy of Sciences);Weimin Zhu (Peking Union Medical College and Taicang Institute of Life Sciences Information);James R.Cole, Benli Chai (Michigan State University);Hsien-Da Huang,HisYuanHuang(National Chiao TungUniversity); J.Michael Cherry (Stanford University); Artemis Hatzigeorgiou (University of Thessaly);Kim D.Pruitt,National Center for Biotechnology Information (NCBI). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FUNDING ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Biotechnology and Biological Sciences Research Council (BBSRC) [BB/J019232/1,BB/J019321/1]; Intramural Research Program of the National Institutes of Health,National Library of Medicine.Funding for open access charge: European Bioinformatics Institute. Conflictof interest statement.None declared. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.Castaneda,J.,Genzor,P.and Bortvin,A.(2011) piRNAs, transposon silencing,and germline genome integrity.Mutat. Res.,714,95-104.   \n2.Jeck,W.R.and Sharpless,N.E.(2014) Detecting and characterizing circularRNAs.Nat.Biotechnol.,32,453-461.   \n3.Kozomara,A.and Griffiths-Jones,S.(2014) miRBase: annotating high confidence microRNAs using deep sequencing data.Nucleic Acids Res.,42,D68-D73.   \n4.Chan,P.P.and Lowe,T.M.(20o9) GtRNAdb:a database of transfer RNA genes detected in genomic sequence.Nucleic Acids Res.,37, D93-D97.   \n5．Burge,S.W.,Daub,J.,Eberhardt,R.,Tate,J.,Barquist,L., Nawrocki,E.P.,Eddy,S.R.,Gardner,P.P.andBateman,A.(2013) Rfam11.0:10 years ofRNA families.NucleicAcidsRes.,41, D226-D232.   \n6.Xie,C.,Yuan,J.,Li,H.,Li,M.,Zhao,G.,Bu,D.,Zhu,W.,Wu,W., Chen,R.and Zhao,Y.(2014) NONCODEv4: exploring the world of long non-coding RNA genes.Nucleic Acids Res.,42,D98-D103.   \n7.Costanzo,M.C.,Engel,S.R.,Wong,E.D.,Lloyd,P.,Karra,K., Chan,E.T.,Weng,S.,Paskov,K.M.,Roe,G.R.,Binkley,G.et al. (2014) Saccharomyces genome database provides new regulation data.NucleicAcidsRes.,42,D717-D725.   \n8．Bateman,A.,Agrawal,S.,Birney,E.,Bruford,E.A.,Bujnicki,J.M., Cochrane,G.,Cole,J.R.,Dinger,M.E.,Enright,A.J.,Gardner,P.P. et al. (2011) RNAcentral: a vision for an international database of RNA sequences. RNA,17,1941-1946.   \n9．Amaral,P.P., Clark,M.B., Gascoigne,D.K.,Dinger,M.E.and Mattick,J.S.(2011) IncRNAdb: a reference database for long noncodingRNAs.Nucleic Acids Res.,39,D146-D151.   \n10．Pakseresht,N., Alako,B.,Amid,C., Cerdeno-Tarraga,A., Cleland,I., Gibson,R.,Goodgame,N.,Gur,T., Jang,M.,Kay,S.et al. (2014) Assembly information services in the European Nucleotide Archive. Nucleic Acids Res.,42,D38-D43.   \n11.Pruitt,K.D., Brown,G.R.,Hiatt,S.M.,Thibaud-Nissen,F., Astashyn,A.,Ermolaeva,O.,Farrell,C.M.,Hart,J.,Landrum,M.J., McGarvey,K.M.et al. (2014) RefSeq: an update on mammalian reference sequences.Nucleic Acids Res.,42,D756-D763.   \n12.Derrien,T.,Johnson,R., Bussotti,G.,Tanzer,A.,Djebali,S, Tilgner,H.,Guernec,G.,Martin,D.,Merkel,A.,Knowles,D.G.et al. (2012) The GENCODE v7 catalog of human long noncoding RNAs: analysis of their gene structure, evolution,and expression.Genome Res.,22,1775-1789.   \n13.Harrow,J.,Frankish,A., Gonzalez,J.M.,Tapanari,E.,Diekhans,M, Kokocinski,F.,Aken,B.L.,Barrell,D., Zadissa,A., Searle,S. et al. (2012) GENCODE: the reference human genome annotation for the ENCODE Project. Genome Res.,22,1760-1774.   \n14.Cole,J.R.,Wang,Q.,Fish,J.A.,Chai,B.,McGarrell,D.M., Sun,Y., Brown,C.T.,Porras-Alfaro,A.,Kuske,C.R.and Tiedje,J.M. (2014) Ribosomal Database Project: data and tools for high throughput rRNA analysis.Nucleic Acids Res.,42,D633-D642.   \n15.Gueneau de Novoa,P.and Wiliams,K.P. (2004) The tmRNA website: reductive evolution of tmRNA in plastids and other endosymbionts.Nucleic Acids Res.,32,D104-D108.   \n16．Andersen,E.S.,Rosenblad,M.A.,Larsen,N.,Westergaard,J.C., Burks,J.,Wower,I.K.,Wower,J.,Gorodkin,J.,Samuelsson,T.and Zwieb,C.(2006) The tmRDB and SRPDB resources.Nucleic Acids Res.,34,D163-D168.   \n17.Nakamura,Y.,Cochrane,G.,Karsch-Mizrachi,I.and International Nucleotide Sequence Database Collaboration.(2013) The International Nucleotide Sequence Database Collaboration.Nucleic Acids Res.,41,D21-D24.   \n18．Leinonen,R.,Diez,F.G.,Binns,D.,Fleischmann,W.,Lopez,R.and Apweiler,R.(2004) UniProt archive.Bioinformatics,20,3236-3237.   \n19.Cech,T.R.and Steitz,J.A.(2014) The noncoding RNA revolution-trashing old rules to forge new ones. Cell,157,77-94.   \n20.Flicek,P.,Amode,M.R.,Barrell,D.,Beal,K.,Billis,K.,Brent,S., Carvalho-Silva,D., Clapham,P.,Coates,G.,Fitzgerald,S.et al. (2014) Ensembl 2014. Nucleic Acids Res.,42,D749-D755.   \n21.Karolchik,D.,Barber,G.P., Casper,J., Clawson,H., Cline,M.S., Diekhans,M.,Dreszer,T.R.,Fujita,P.A.,Guruvadoo,L Haeussler,M.et al. (2014) The UCSC Genome Browser database: 2014 update.Nucleic Acids Res.,42,D764-D770.   \n22.Keseler,I.M.,Mackie,A.,Peralta-Gil,M., Santos-Zavaleta,A., Gama-Castro,S.,Bonavides-Martinez,C.,Fulcher,C.,Huerta,A.M., Kothari,A.,Krummenacker,M.et al.(2013) EcoCyc: fusing model organismdatabaseswith systems biology.Nucleic AcidsRes.,41, D605-D612.   \n23．Blattner,F.R.,Plunkett,G.III, Bloch,C.A.,Perna,N.T.,Burland,V., Riley,M., Collado-Vides,J., Glasner,JD.,Rode,C.K.,Mayhew,G.F. et al. (1997) The complete genome sequence of Escherichia coli K-12. Science,277,1453-1462. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

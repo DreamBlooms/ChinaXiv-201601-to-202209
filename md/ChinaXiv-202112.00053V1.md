@@ -1,0 +1,276 @@
+# 新疆县市“三生”功能时空变化及耦合协调性分析
+
+牛雅萱1,23，吴世新1,2，郭晨宇1.23，庄庆威1,2,3，谢聪慧1.,23，张子慧1,23，罗格平1.2
+
+(1.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011；2.新疆维吾尔自治区遥感与地理信息系统应用重点实验室,新疆乌鲁木齐830011；3.中国科学院大学,北京100049)
+
+摘要：基于“生产-生活-生态"功能视角构建评价体系并引入耦合协调模型,探究新疆县市土地功能及功能间相互作用程度的时空演变规律，遴选影响区域发展的关键因子，为区域发展提供建议。研究结果表明：(1）新疆县市单元生产功能，生活功能，生态功能及“三生”功能综合评价的时空格局分布差异性显著，均呈现“北高南低”的空间分布特征，以天山北坡城市群为核心高值区。(2）新疆县市“三生"功能耦合协调性总体呈现“北高南低"空间分布态势，县市功能间的耦合协调关系逐步向好，为区域后续的发展奠定了良好基础。(3）主导产业的选择对于新疆县市功能发展至关重要，同时宏观政策调控有助于功能间的耦合协调性提升，推动县市功能协调有序发展。
+
+关键 词：“三生"功能；耦合协调；县市；新疆
+
+# 文章编号：
+
+国土空间是人类活动参与下，空间域沿时间轴发展形成的动态、多维、复杂的人地关系时空系统]，基于土地功能视角可将其划分为生产空间、生活空间及生态空间[2]。21世纪是中国经济发展方式发生重大转变的关键时期，基于“三生"视角掌握国土空间利用发展方式的转变规律，探究各功能协调关系，对于未来区域整体发展具有重要积极影响力。
+
+“三生"空间的划分最初起源于城市规划[3]，随着"三生"空间概念的逐步明晰[4，基于"三生"视角的国土空间研究逐渐增多并已成为评价区域发展的重要方法，研究主要集中于区域“三生"功能的识别[5-6]与"三生"空间划定研究[7-8]，“三生"空间格局演化特征分析，以“三生"空间为划分依据的国土空间开发利用质量研究3，县市土地“三生"功能承载力研究[10]，“三生"空间评价体系的构建[3.10],基于“三生"功能的国土空间优化及开发利用评估[2.11-13]及“三生"功能间的协同演化研究[14-15]等多个方面。耦合协调指数发源于物理学概念，学者杨士弘在探究城市环境与经济发展之间的关系时将物理学中的协调度概念首次引入，而廖重斌[在协调度的基础上引入耦合度以及耦合协调指数探究旅游-经济-生态环境这3个系统间的关系，为后续研究提供新思路。耦合协调模型现已广泛用于地学领域，在城市人地关系发展的评价与预测[18],海洋环境与经济的相互作用[19]，乡村空间功能的相互作用[20]及城市化可持续发展的时空演化研究2等方面取得了一定的研究成果。这些研究表明区域功能间的良性互动对于区域空间发展与演化具有重要影响[22],功能间的良性互动有助于促进区域稳定及可持续发展。综上，明晰“三生"功能时空演化规律，探究区域功能间的相互作用关系，是平衡区域发展需求与空间资源配置矛盾以及实现地域功能高效协调发展的基础，也是明确区域发展方向及其功能定位以及指导区域发展的重要手段。
+
+新疆作为我国西部干旱区典型代表，人地关系复杂[23]。近20a国土空间格局发生了较大的改变，
+
+# 干旱区地理
+
+已有研究大多集中于对新疆经济发展的评价[24-26]，缺少对新疆县市发展情况系统性的综合评价研究。因此本文基于“三生"视角，结合已有研究成果[3-4.68.0.1.20]构建评价指标体系及耦合协调模型,探究新疆县市近20a“三生"功能时空变化规律及各功能间的相互作用关系并识别县市发展中出现的问题，遴选影响区域发展的关键因子为区域发展提供建议。
+
+# 1 研究区概况
+
+新疆维吾尔自治区省域总面积约 $1 6 0 \times 1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ 地貌总体轮廓为"三山夹两盆"(图1)。三大山系与两大盆地大致都沿纬线方向伸展，具有明显的水平和垂直地带性分布现象，资源禀赋地带性差异明显。从新疆综合自然区划上看，天山将全疆分为南疆和北疆两部分，北疆属中温带干旱大区，南疆属暖温带干旱大区。荒漠区域背景及高山雪水为主的灌溉特点，使新疆绿洲最具典型性，也使新疆成为我国绿洲分布最广、面积最大的省区。
+
+据《2018年新疆统计年鉴》显示，新疆全省常住人口约 $2 . 7 4 \times 1 0 ^ { 7 }$ 人，其中农村人口约 $1 . 5 8 \times 1 0 ^ { 7 }$ 人，占比 $5 7 . 6 9 \%$ 。人口分布具有显著的空间特征，全疆中、高人口密度的地区呈西南一东北走向的带状分布，南疆巴(音郭楞)州、克(孜勒苏)州以及和田地区人口密度较低而北疆乌鲁木齐市与伊犁地区人口密度较高。就经济发展水平而言，北疆地区产业结构较为完整，经济更为发达且生活保障功能完善，县市间的交通连接度较高；而南疆地区工业基础较为薄弱，城市化发展进程缓慢，农业生产总值占地区生产总值较高，产业结构与地区发展方式均亟待调整。因此在县市发展过程中协调县市功能间的相互作用，推动区域整体发展走向协调高效，是新疆发展建设中亟待解决的问题
+
+# 2数据与方法
+
+# 2.1数据来源
+
+本研究所需数据共分为两部分，分别为土地利用数据及经济统计数据。土地利用数据来源为2000年、2010年及2018年中国科学院资源环境遥感调查数据集，经济统计数据来源为《新疆2000年
+
+哈巴河 县布尔津 NA  
+图例 吉木乃阿泰命县界 额敏县 北屯市一国界 县 和布克赛尔蒙古自治县-未定国界 托里玛依市 福海县蕴县河真博乐市省界 霍城县 精河县奎屯市玛纳斯县泰查尔锡伯具苏聚克斯县 县巴里坤县和静县  
+乌恰县 阿合奇宜乌什县温宿县城县 新和县 库车县 稀香向族白州 轮台县 和硕县托克逊县 吐鲁番市 伊吾县阿图什市柯坪县阿克苏市 库尔勒市博湖县 鄯善县 哈密市  
+疏附寒伽师县  
+阿 陶县英古沙县巴楚县 瓦提苏市沙雅县 尉犁县莎车县麦盖提县泽普县 墨玉县城县皮山县 洛浦县和市 田县 且末县民丰县和田县 策勒县 高程值/m85450 200km -192L
+
+注：该图基于审图号为新S(2018)033号的标准地图制作，底图无修改。下同。
+
+统计年鉴》《新疆2010统计年鉴》《新疆2018统计年鉴》及《新疆50年统计年鉴》。由于研究时序较长，县市划定变动较多，为确保数据的可收集性与连续性以2013年新疆县市区划为准。
+
+# 2.2 研究方法
+
+2.2.1指标体系构建国土空间系统是多要素相互作用下形成的动态复合巨系统[3.20]。新疆县市地域功能复杂多样结合“三生"功能理论[4]，从土地功能视角出发将新疆县市功能划分为生产功能、生活功能及生态功能。而土地功能具有层次性与区域性，需针对不同的区域背景和研究尺度建立相应的分类与评价指标体系[27]。因此本文综合分析已有三生功能评价的研究成果[2-4,6,8-9.4-15.20],选出各功能关键指标，并根据新疆县市发展历史及现状加以补充，综合考虑指标科学性、代表性及数据的可获得性，共计选取30项指标(表1)构建新疆县市“三生"功能评价指标体系。各功能指标选取细节如下所示：
+
+（1）生产功能是以土地作为劳作对象，直接或间接以土地为载体进行社会生产而产出各种产品和服务的功能[8]，结合新疆发展实际并参考相关文献[4,8.20],针对区域现有资源利用效率及生产规模效益对县市生产功能进行评价研究。按评价内容将其划分为：农业生产功能与非农业生产功能。农业生产功能主要从耕地面积、农产品产量、农业生产效益及农业机械应用规模4个维度展开；非农业生产功能从非农生产规模与效益2个维度展开，选取评价指标，所选指标均为正向指标。
+
+表1“三生"功能评价指标体系服务准则及指标权重划分  
+id index weight division of the function of “production-living-ecological’ evaluation index system   
+
+<html><body><table><tr><td>县市国土空间三生功能</td><td>一级指标</td><td>二级指标</td><td>熵值法权重</td><td>层次法权重</td><td>综合权重</td></tr><tr><td>生产功能</td><td>农业生产功能</td><td>耕地面积/km</td><td>0.0565</td><td>0.0371</td><td>0.0468</td></tr><tr><td></td><td></td><td>粮食总产量/t</td><td>0.0585</td><td>0.0486</td><td>0.0535</td></tr><tr><td></td><td></td><td>人均耕地面积/km</td><td>0.0546</td><td>0.0164</td><td>0.0355</td></tr><tr><td></td><td></td><td>农业生产总值/10元</td><td>0.0563</td><td>0.0657</td><td>0.0610</td></tr><tr><td></td><td></td><td>人均粮食产量/kg·人-</td><td>0.0565</td><td>0.0216</td><td>0.0390</td></tr><tr><td></td><td></td><td>人均农业生产总值/元·人-1</td><td>0.0530</td><td>0.0282</td><td>0.0406</td></tr><tr><td></td><td></td><td>人均肉类产量/t</td><td>0.0592</td><td>0.0126</td><td>0.0359</td></tr><tr><td></td><td></td><td>农业机械总动力/kW</td><td>0.0571</td><td>0.0097</td><td>0.0334</td></tr><tr><td></td><td>非农业生产功能</td><td>工业总产值/10元</td><td>0.0896</td><td>0.0830</td><td>0.0863</td></tr><tr><td></td><td></td><td>交通及仓储邮政规模/10元</td><td>0.0665</td><td>0.0076</td><td>0.0371</td></tr><tr><td></td><td></td><td>GDP空间评价/GDP·km-2</td><td>0.0894</td><td>0.0062</td><td>0.0478</td></tr><tr><td></td><td></td><td>单位生产总值地耗/km·GDP"1</td><td>0.0554</td><td>0.0051</td><td>0.0302</td></tr><tr><td></td><td></td><td>二产贡献率/%</td><td>0.0568</td><td>0.1080</td><td>0.0824</td></tr><tr><td></td><td></td><td>三产贡献率/%</td><td>0.0531</td><td>0.1399</td><td>0.0965</td></tr><tr><td></td><td></td><td>地区生产总值/10元 人均GDP/10元·人-</td><td>0.0762</td><td>0.2299</td><td>0.1531</td></tr><tr><td>生活功能</td><td>生活保障功能</td><td>每万人拥有的病床数</td><td>0.0613</td><td>0.1803</td><td>0.1208</td></tr><tr><td></td><td></td><td>每万人拥有的医生数</td><td>0.1335</td><td>0.0674</td><td>0.1005</td></tr><tr><td></td><td></td><td></td><td>0.1324</td><td>0.1035</td><td>0.1179</td></tr><tr><td></td><td></td><td>受教育人数占比/%</td><td>0.1183</td><td>0.1587</td><td>0.1385</td></tr><tr><td></td><td></td><td>农村居民人均纯收入/元 城镇居民可支配收入/元</td><td>0.1274</td><td>0.2406</td><td>0.1840</td></tr><tr><td></td><td></td><td>社会消费品零售总额/10元</td><td>0.1316 0.2082</td><td>0.3558</td><td>0.2437</td></tr><tr><td></td><td></td><td>交通用地占建设用地比例/%</td><td>0.1486</td><td>0.0439 0.0302</td><td>0.1261</td></tr><tr><td>生态功能</td><td>生态维持功能</td><td>新增沙化盐碱化土地面积/km</td><td>0.1269</td><td>0.1228</td><td>0.0894</td></tr><tr><td></td><td></td><td>生物丰度指数</td><td>0.1166</td><td>0.0367</td><td>0.1249</td></tr><tr><td></td><td></td><td>植被覆盖度指数</td><td>0.1252</td><td>0.0610</td><td>0.0767 0.0931</td></tr><tr><td></td><td></td><td>森林面积占比/%</td><td>0.1461</td><td>0.2311</td><td>0.1886</td></tr><tr><td></td><td></td><td>草地面积占比/%</td><td>0.1696</td><td>0.2510</td><td>0.2103</td></tr><tr><td></td><td></td><td>人均森林面积/km</td><td>0.1288</td><td>0.1398</td><td>0.1343</td></tr><tr><td></td><td></td><td>人均草地面积/km</td><td>0.1868</td><td>0.1577</td><td>0.1722</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+(2）生活功能是土地在人类生存和发展过程中为人类提供各类保障的功能[8]。结合新疆发展实际及相关参考文献[3.8.28],基于县市所能提供的基本保障功能从医疗、教育、收入、消费及交通5个方面展开，选取相应评价指标对县市生活功能进行综合评价，所选指标均为正向指标。
+
+(3）生态功能是土地生产功能与生活功能得以维持与稳定的基础[8]。新疆是我国重要森林生态功能区及西北草原荒漠化防治区，辽阔的草原是我国西部生态安全的重要屏障，同时也是畜牧业经济发展的基础。因此结合新疆的生态环境特点及参考相关文献[10.14,20.29-30],选取新增沙化盐碱化面积作为生态功能负向指标，以森林面积占比、草地面积占比、森林与草地的人均占用量、植被覆盖度指数及生物丰度指数为正向指标，共同构建新疆生态功能评价指标体系。植被覆盖度指数及生物丰度指数计算方法参考《生态环境状况评价技术规范》，应用中国科学院资源环境遥感调查数据集进行计算。
+
+2.2.2指标权重确定指标权重的赋予直接影响到研究结果，需保证其严谨的科学性。本文采用熵值法与层次分析法相结合的指标权重确定方法。熵值法最初起源于信息论，在信息论中应用信息熵表示系统的有序程度，1个系统的有序程度越高则信息熵越大，反之系统的无序程度越高则信息熵越小。基于该理论，国内学者郭显光[31将其应用于综合评价体系的构建中，即根据各项指标值的差异程度，利用信息熵工具计算出各指标的权重，后被广泛应用于各类评价体系构建中[32-34]。层次分析法(Analytichierarchyprocess,AHP)197Os由美国运筹学家Saaty等[35]提出，该方法将定性与定量相融合，通过将复杂的多目标研究对象分解为多层次结构，对各层次的评价指标进行两两比较用于确定每一层各评价指标的相对贡献率，进一步转化为评价指标权重，由于层次分析法原理简单思路清晰明确被广泛应用于各个领域[36-37]。由于熵值法是基于指标的物理特性对权重进行客观赋予，而层次分析法可对权重进行主观的赋值。因此，本文的研究方法采取主客观相结合的权重赋值方法，这样能够在权重赋值中将权重的客观特性及主观重要性相结合[38-41],一定程度上减少指标权重的不确定性，使得权重的
+
+赋予更具有科学性。
+
+2.2.3“三生”功能综合评价模型建立三生功能综合评价模型，计算式如下：
+
+$$
+Q = \partial P + \beta L + \chi E
+$$
+
+式中： $Q$ 为县市“三生"功能综合评价值； $\boldsymbol { P } , \boldsymbol { L } , \boldsymbol { E }$ 分别为生产功能、生活功能、生态功能的评价值; $\partial \ 、 { \boldsymbol { \beta } } \setminus \partial \setminus \partial \setminus \partial \cdot { \boldsymbol { \chi } }$ 分别为生产功能、生活功能、生态功前能的待定系数。“三生"功能评价模型的权重设定应与新疆县市发展情况相结合，并参考相关“三生"功能评价体系构建中关于权重划分结果[20.42-44]及专家意见,将 $\partial { \sqrt { \beta } }$ 、$\chi$ 分别确定为 $0 . 4 , 0 . 3 , 0 . 3$ 。
+
+2.2.4功能耦合协调模型本文引入耦合协调模型[7],通过计算县市功能间的耦合协调指数,分析研究县市功能耦合协调性总体的发展变化情况，具体计算公式如下：
+
+$$
+C = 3 \times \left[ \frac { P _ { i } \times { L _ { i } } \times { E _ { i } } } { \left( P _ { i } + { L _ { i } } + { E _ { i } } \right) ^ { 3 } } \right] ^ { \frac { 1 } { 3 } }
+$$
+
+$$
+D = \left( C \times Q \right) ^ { \frac { 1 } { 2 } }
+$$
+
+式中： $C$ 为“三生"功能耦合度，取值范围为 $[ 0 , 1 ] , C$ 值的大小由生产功能、生活功能及生态功能的评价值共同决定，该值仅反映相互作用及影响程度，数值大小不分利弊[45]。其中 $P _ { i \setminus } L _ { i \setminus } E _ { i }$ 分别为生产功能、生活功能及生态功能的县市评价值； $D$ 为县市“三生"功能耦合协调指数。
+
+为进一步分析县市“生产-生活-生态"功能两两之间相互作用程度，参照公式(2)(3)，构建“三生"功能两两耦合协调模型。权重确定方法与前述相同，生产功能与生活功能进行耦合协调指数计算时将待定系数分别取 $\partial { = } 0 . 5 5 , \beta { = } 0 . 4 5$ ;生产功能与生态功能进行耦合协调指数计算时将待定系数确定为 $\beta = 0 . 5 5 , \chi = 0 . 4 5$ ;而在生活功能与生态功能进行耦合协调指数计算时其待定系数 $\cdot \partial _ { \cdot \chi }$ 均取值0.5。其计算公式如下：
+
+$$
+\begin{array} { r } { C _ { 1 } = 2 \times \left[ \frac { P _ { i } \times { A _ { i } } } { \left( P _ { i } + { A _ { i } } \right) ^ { 2 } } \right] ^ { \frac { 1 } { 2 } } , ~ T _ { 1 } = \partial J + \beta L } \\ { C _ { 2 } = 2 \times \left[ \frac { P _ { i } \times { A _ { i } } } { \left( P _ { i } + { A _ { i } } \right) ^ { 2 } } \right] ^ { \frac { 1 } { 2 } } , ~ T _ { 2 } = \beta P + \chi E } \\ { C _ { 3 } = 2 \times \left[ \frac { I _ { i } \times { A _ { i } } } { \left( I _ { i } + { A _ { i } } \right) ^ { 2 } } \right] ^ { \frac { 1 } { 2 } } , ~ T _ { 3 } = \partial L + \chi E } \end{array}
+$$
+
+式中： $T _ { 1 }$ 为县市生产功能与生活功能间的耦合协调指数； $T _ { 2 }$ 为县市生产功能与生态功能间的耦合协调指数； $T _ { 3 }$ 为县市生活功能与生态功能间的耦合协调指数。参考已有研究成果[20.46-49]并结合本研究实际，将县市“三生"功能耦合协调指数结果划分为6个等级(表2)。
+
+# 3结果与分析
+
+# 3.1新疆县市"三生"功能时空特征分析
+
+本文基于“三生"功能视角的评价体系，得出新疆县市各功能及“三生"功能综合评价结果，并利用自然断点法将评价结果按数值等级划分为高值、中高值、中低值和低值4个类型。划分结果与空间矢量单元相连接得到以县市为单位的各功能及“三生"功能评价空间分布图(图2)及其数量变化分布图(图3)如下所示。
+
+生产功能：2000年，乌鲁木齐市、克拉玛依市及沙湾县为高值县市，乌鲁木齐市作为新疆首府生产功能综合发展水平较高，克拉玛依市是新疆重要的能源城市，依靠丰富的油气资源工业生产能力较强，沙湾县耕地面积广阔，农业生产总值及粮食产量位居全疆前列，农业生产能力较强。石河子市、裕民县、奇台县、玛纳斯县及库尔勒市为中高值县市，生产功能总体发展不及高值县市但农业及非农业生产均衡发展。霍城县、伊宁市、新源县及拜城县等19个县市为中低值县市具有一定的农业生产能力而非农业生产发展薄弱。其余县市农业及非农业生产发展均处于较弱水平。2010年，低值县市的空间分布范围缩减数量占比降至 $1 5 . 7 3 \%$ ，而中低值县市数量占比提升至 $5 9 . 5 6 \%$ ,中高值县市数量占比提升至 $1 9 . 1 0 \%$ 。特色农业的大力推广及南疆扶贫工作的展开使得墨玉县、巴楚县、叶城县等南疆部分县市农业生产能力得以显著提升而推动县市生产功能的提升，而喀什市、和田市、伊州区及伊宁市等县市依靠开发旅游资源实现县市生产功能的提升。莎车县、玛纳斯县及奇台县等县市在原有发展基础上农业生产能力的进一步提升推动县市由中低值转变为中高值县市。库尔勒市、昌吉市、克拉玛依市、石河子市以工业生产能力的大幅提升推动县市生产功能的提升。2010—2018年，生产功能的空间等级分布格局变化幅度较小，低值县市空间分布范围进一步缩减数量占比降至 $5 . 6 1 \%$ ，中低值县市占比提升至 $6 4 . 0 4 \%$ ,新增于田县、和田县及民丰县等县市为中低值县市。中高值县市在原有基础上小幅扩张数量占比提升至 $2 3 . 6 0 \%$ ,新增吉木萨尔县、高昌区及伊州区等县市。同时新增石河子市及五家渠市为高值县市。《新疆维吾尔自治区主体功能区规划》的颁布与实施，对于县市生产功能的发展具有积极影响，县市的发展方向进一步明确。总体而言，生产功能呈"北高南低"空间分布态势，并以天山北坡城市群为新疆生产功能发展核心高值区。同时由于县市发展基础的不同,使其生产功能的提升方式也有所不同，新疆各县市生产功能发展变化差异性显著。乌鲁木齐市、克拉玛依市、库尔勒市及和田市等县市非农业生产功能较强，依靠工业及服务业的发展带动县市生产功能的提升；而莎车县、奇台县、沙湾县及玛纳斯县等县市农业生产功能对于县市生产功能的推动作用显著。
+
+生活功能：2000年，乌鲁木齐市与克拉玛依市交通、医疗及教育保障服务保障功能完善城乡居民收入与消费水平较高，巴里坤县交通与医疗保障服务及消费水平位居全疆前列，该三县市为高值县市。中高值县市占比 $1 6 . 8 5 \%$ ，主要分布于天山北坡。中低值县市占比 $3 8 . 2 0 \%$ ,以且末县、若羌县、乌恰县及博乐县为代表，县市城乡居民收入水平及消
+
+# 表2耦合协调指数分级
+
+Tab.2 Classification of coupling coordination degree   
+
+<html><body><table><tr><td>耦合协调指数(D)</td><td>耦合协调类型</td><td>特征</td></tr><tr><td>De[0.0,0.3]</td><td>重度失调</td><td>各功能处于低水平发展,功能整体协调性极差。</td></tr><tr><td>D∈(0.3,0.4]</td><td>轻度失调</td><td>功能逐渐发展起来,但总体水平还是较低,功能间协调性较差。</td></tr><tr><td>D∈(0.4,0.5]</td><td>低水平基本协调</td><td>功能整体协调性提高，功能发展相互阻碍现象基本消失。</td></tr><tr><td>D∈(0.5,0.6]</td><td>高水平基本协调</td><td>功能间差距缩小,功能发展由阻碍转变为低水平相互促进。</td></tr><tr><td>D∈(0.6,0.8]</td><td>中度协调</td><td>功能间具有良好的协调互动性，功能相互促进，共同发展。</td></tr><tr><td>D∈(0.8,1.0]</td><td>高度协调</td><td>各功能均处于高水平发展,功能整体协调度极佳。</td></tr></table></body></html>
+
+![](images/5ff05502ce6fa8832fa27760b9703c5300f6b121de2cd1f941874c720a8fc52f.jpg)  
+干辛区地理  
+图2“三生"功能评价空间分布  
+Fig.2Spatial distribution of“production-living-ecological”function evaluation
+
+费水平较低，但医疗教育及交通的保障程度相较于低值县市较为完善。低值县市占比 $4 0 . 4 5 \%$ ,主要分布于南疆喀什、和田及克州地区，各项保障服务功能及居民收入与消费水平均有较大提升空间。2010年，西部大开发战略的实施使得交通等基础设施的建设逐步加快，新疆整体教育及医疗卫生水平有所提升，但南北疆县市的收入差距依旧显著。石河子市与伊州区为新增高值县市。中高值县市占比提升至 $2 6 . 9 7 \%$ ，而其空间分布逐渐向东偏移并向南北两侧扩展，在原有的基础上新增若羌县、托克逊县、鄯善县等县市。中低值县市增幅明显数量占比提升至 $4 7 . 7 2 \%$ ,其中以皮山县、叶城县、阿图什市及莎车县等县市为代表，城镇居民收人提升明显，但农村居民收入及消费水平提升较弱，城乡居民收入差距增大。2018年，随着西部大开发战略的进一步深人实施，多项医疗卫生教育服务保障措施在新疆各县市有序展开，推动县市间的教育医疗保障功能差距逐渐缩小。交通等基础设施建设力度进一步加大提升了县市的出行便利度，但县市间收入及消费水平的差距进一步增大，使得县市生活功能发展两极分化现象显著，高值县市及低值县市数量均有所增加，而中低值及中高值县市数量均呈现下降趋势。以乌鲁木齐市、克拉玛依市、库尔勒市、石河子市及伊州区为代表的高值县市，医疗教育及城乡居民收入与消费水平同步提升，城乡居民收入差距逐渐缩小。以阿克苏市、塔城市及若羌县为代表的中高值县市，医疗卫生教育及交通出行便利度等基本保障服务提升显著，城乡居民收入有所提升但城乡收入差距并未明显缩小。而以和田市、喀什市为代表的中低值县市，医疗教育及交通等基本保障服务小幅提升，但总体仍有较大提升空间，城镇居民收入水平提升明显但农村居民收入仍然处于较低水平，城乡居民收入差距拉大。总体而言，各县市生活功能均有不同程度的提升，但提升幅度差异性显著，县市间生活功能差距先缩小后增大。影响生活功能增长变化的因素复杂多样，仅单一指标的增长变化无法对县市生活功能起提升作用，而在县市发展过程中高值及中高值县市城乡发展差距缩小，而低值及中低值县市城乡居民收入差距依旧较大，城乡发展协调性差。因此缩小城乡收入差距，提升城乡发展协调性对于提升县市生活功能整体发展水平至关重要。
+
+![](images/1c448c7cc4ac9c31362db430d71674f2e64bd247c5635363ce96bfe49d339888.jpg)  
+图3“三生"功能评价县市数量变化分布  
+Fig.3Distributionofchanges inthenumberofcountiesand cities of“production-living-ecological”function evaluation
+
+生态功能：新疆本底地理环境基础较弱，是我国典型的绿洲生态脆弱区。2000年，生态功能以低值及中低值县市为主，占比分别为 $3 4 . 8 3 \%$ 与$2 8 . 0 9 \%$ ，主要分布于和田及喀什地区，沙漠化土地面积占比较高。而高值及中高值县市主要分布于伊犁、阿勒泰及塔城地区，南北疆生态功能差异性显著。2000—2010年，开发建设与生态保护措施并举，在县市农田面积持续扩张的同时将不宜耕不宜牧的已开发土地实施退耕还林与退牧还草措施。县市生态功能总体变化幅度较小，空间等级分布特征未发生明显改变。2010—2018年新疆各县市的生态保护力度持续加大，随着《西部地区重点生态区综合治理规划纲要》的颁布与实施，以草原恢复、防风固沙为主要内容的综合治理逐步展开，生态恢复成果进一步显现。县市生态功能提升明显，低值县市占比由 $3 4 . 8 3 \%$ 降至 $2 0 . 2 2 \%$ ，中低值占比由$2 9 . 2 1 \%$ 提升至 $3 9 . 3 3 \%$ 。中高值及高值县市数量均有不同程度的提升，其中以中低值县市提升最为显
+
+# 干旱区地理
+
+著，新增昭苏县、霍城县、额敏县、托里县及富蕴县为高值县市。总体而言，生态功能与地形地貌及水热气候条件关系紧密，县市间生态环境差距明显，生态保护措施的有效实施促使县市生态环境总体向好发展。
+
+“三生"功能：“三生"功能综合是对于县市整体土地功能的综合评价，因此其空间分布综合了各功能空间分布及时空变化特征的特点。2000年“三生"功能综合评价高值县市为乌鲁木齐市、克拉玛依市、裕民县及沙湾县，中高值县市空间分布以伊犁地区及天山北坡城市群为主，中低值县市数量占比 $2 8 . 1 0 \%$ ,分散分布于中高值县市外围。低值县市占比 $4 3 . 8 2 \%$ ，主要分布于南疆地区。2010年，低值县市数量下降明显，新增库尔勒市、阿勒泰市、布尔津县及哈巴河县等7县市为高值县市。新增9个中高值县市占比增至 $3 3 . 7 1 \%$ ,形成连续的空间分布范围。中低值县市数量占比提升至 $4 0 . 4 5 \%$ 呈连片分布态势。2018年，新增裕民县、额敏县、石河子市级轮台县为高值县市，中高值县市数量小幅上升，占比达 $3 8 . 2 0 \%$ ,空间分布范围呈东西向扩展。中低值县市数量小幅减少，低值县市基本维持不变。总体来说，“三生"功能评价结果呈“北高南低"空间分布态势，各县市功能水平均有所提升。
+
+# 3.2三生功能耦合协调性时空分异
+
+基于“三生"视角的功能耦合协调指数的空间分异情况，反映县市土地功能各子系统间的耦合协调情况。应用公式(4)\~(6)，计算县市“三生"功能的耦合度与耦合协调指数，并应用ArcGIS软件将评价值与空间矢量单元相连接，分别形成2000、2010、2018年新疆县市“三生"功能两两之间耦合协调指数的空间分布图(图4)及数量演变分布图(图5)。
+
+生产-生活耦合协调性：2000年，乌鲁木齐市与克拉玛依市为中度协调县市，玛纳斯县、沙湾县、石河子市及库尔勒市为高水平基本协调县市，低水平基本协调县市占比 $2 0 . 4 5 \%$ 主要分布于天山北坡，轻度失调县市分布范围广泛占比 $5 4 . 5 5 \%$ ,重度失调县市主要分布于和田地区、喀什地区及克州占比$1 9 . 3 1 \%$ 。2010年县市耦合协调性提升明显，墨玉县、和田县、民丰县等重度失调县市转变为轻度失调而若羌县、且末县及高昌区等县市由轻度失调县市提升为低水平基本协调，轻度失调县市数量占比降至 $3 8 . 6 4 \%$ ，而低水平基本协调县市占比提升至
+
+$4 7 . 7 3 \%$ 。新增昌吉市、呼图壁市及奇台市等7县市为高水平基本协调县市，中度协调县市保持不变。2018年空间变化幅度较小，新增石河子市为中度协调县市。昌吉市、库尔勒市、阿拉尔市、伊州区及玛纳斯县等县市为生产-生活高水平基本协调县市占比 $1 4 . 7 7 \%$ ，轻度失调县市及低水平基本协调县市占比共计 $8 1 . 8 1 \%$ 。通过对比分析可看出，当生产功能够带来较高的经济收益时，城乡居民收入增长较快并具有较高的消费能力，县市的医疗卫生及公共服务也将得到较好的发展，而生活功能的提升也会进一步促进生产功能的发展与提升，因此生产功能与生活功能间的相互促进作用明显，二者间形成了较好的良性互动。总体看来，新疆各县市生产功能与生活功能间的耦合协调关系逐步向好。
+
+生产-生态耦合协调性：耦合协调指数的空间分布呈圈层结构，2000年仅乌鲁木齐市为中度协调县市，高水平基本协调县市数量占比 $1 1 . 3 6 \%$ ，低水平基本协调县市占比 $3 9 . 7 7 \%$ ,轻度失调县市占比较高为 $4 5 . 4 5 \%$ ,策勒县、塔什库尔干塔吉克自治县及阿合奇县为重度失调县市。2010年，高水平基本协调县市空间分布范围扩张,数量占比 $3 0 . 6 8 \%$ ，低水平基本协调县市数量占比 $4 4 . 3 2 \%$ ,轻度失调县市数量占比 $2 5 . 0 0 \%$ ,无重度失调县市。2018年，空间分布以基本协调县市为主,高水平基本协调县市占比$3 9 . 7 7 \%$ ,低水平协调县市占比 $4 8 . 8 6 \%$ ,轻度失调县市占比 $1 0 . 2 3 \%$ 。总体来说,乌鲁木齐市在各阶段均为中度协调，天山南北坡县市由低水平基本协调逐渐转变为高水平基本协调，其余县市由轻度失调逐渐转变为低水平基本型协调。生产功能与生态功能二者耦合协调性提升得益于区域宏观调控政策的颁布与实施,如退耕还林、退牧还草及草原荒漠化防治工程的实施,有效推动了农牧业擢荒地逐步向生态用地的转变，在建设用地与农用地逐步扩张的过程中使人工生态系统的面积也保持相应的增长[50],维持了区域生态系统的总体稳定。削弱了生产功能的提升对生态功能造成的负面影响,提升了二者间的耦合协调程度。由于自然条件的限制新疆部分县市发展受限,而产业结构的调整可减缓生态环境对于县市生产功能发展的影响,如大力发展旅游文化产业，开发区域人文历史资源，可在县市发展过程中有效发挥地域特点并减少对于生态环境的影响程度。使县市在生态环境的限制下生产功能也能实现发展，推动县市生态功能与生产功能的耦合协调性逐步提升。
+
+![](images/d7dba93ba4ede07eb5ef7a771f14bf5f798d866ce4af68f5f0c174c5ca97c0f0.jpg)  
+图4“三生"功能耦合协调指数的空间分布  
+Fig.4 Spatial distribution of the coupling coordination degree between“production-living-ecological" functional pairs
+
+生活-生态耦合协调性：2000年，仅乌鲁木齐市为中度协调县市，高水平基本协调县市主要分布于天山南北坡、阿勒泰及塔城地区，占比 $3 9 . 7 7 \%$ ；低水平基本协调县市占比 $3 0 . 6 8 \%$ ;轻度失调县市主要分布于南疆喀什及和田地区，占比 $2 6 . 1 4 \%$ 。2010年，新增11个空间分布不连续的中度协调县市，高水平基本协调县市空间分布范围缩减占比 $3 4 . 0 9 \%$ ；低水平基本协调县市占比 $4 6 . 5 9 \%$ ;轻度失调县市占比$7 . 9 5 \%$ 。2018年，较前一时期空间变化幅度较小，空间分布以低水平基本协调县市为主占比 $4 6 . 5 9 \%$ 。总体而言，由于生活功能的时空波动性明显使得部分县市生活功能与生态功能的耦合协调性也呈明显的波动变化。
+
+生产-生活-生态耦合协调性：2000年，仅乌鲁木齐市与沙湾县为中度协调县市，高水平基本协调县市占比 $1 5 . 9 1 \%$ ，低水平基本协调县市占比$4 8 . 8 6 \%$ ,轻度失调县市占比 $3 4 . 0 9 \%$ ，总体呈圈层分布。2010年，新增克拉玛依市、昌吉市、库尔勒市及石河子市等7县市为中度协调县市，高水平基本协调县市空间分布范围较大占比 $4 7 . 7 3 \%$ ，低水平协调县市占比降至 $3 8 . 6 4 \%$ ,轻度失调县市占比 $4 . 5 4 \%$ ○2018年，沙湾县由中度协调县市降为高水平基本协调县市，高水平基本协调县市数量占比为 $4 6 . 5 9 \%$ ，数量变化较小但空间分布变化较大，和静县、昭苏县及托里县等县市由高水平基本协调较为低水平基本协调，而福海县、富蕴县及库车县等县市由低水平基本协调转变为高水平基本协调，低水平协调县市主要分布于南疆地区，占比 $4 5 . 4 5 \%$ 。总体而言，县市的生产-生活-生态耦合协调性逐步提升，空间变化过程的阶段性特征明显，以天山北坡城市群为核心高值区。
+
+![](images/fa8774daa873efad31aaef6ecec1d63b25c484577665d281b01e814d8d8258e0.jpg)  
+干旱区地理  
+图5耦合协调指数县市数量变化分布  
+Fig.5Distribution of the number of counties and cities with the degree of “production-living-ecological" functional coupling and coordination
+
+# 4讨论与结论
+
+# 4.1 讨论
+
+目前较多研究均从经济发展及城市化发展的角度一致表明天山北坡城市群为新疆发展核心区域[25-26,51-52],南疆库尔勒市及阿克苏市经济-社会-环境的耦合协调指性也发展较好[53-55]。部分南疆县市产业发展过度依赖农业生产，致使县市经济发展处于相对落后的状态[56-57],与本研究中关于县市生产功能及生活功能的评价研究结果相符。同时本文分析中提出，惠民政策的有效落实使得县市间基础保障功能差距逐渐缩小，生态治理措施的有效实施使得县市生态环境逐步向好，这也与已有研究结论相符[50.58]。因此，县市主导产业的选择及政策调控对于新疆县市“三生"功能发展及其耦合协调性的提升至关重要。未来新疆发展仍需继续加强宏观调控政策的实施，同时在综合考量区域资源环境的前提下合理调整产业结构，缩小县市间发展差距，引导区域整体有序发展
+
+# 4.2结论
+
+本文通过构建评价体系及引入耦合协调模型，分别评价了2000、2010年与2018年新疆县市生产功能、生活功能及生态功能的发展状态，并应用耦合协调模型探究“三生"功能间相互作用关系主要得到以下结论：
+
+（1）2000一2018年，“三生"功能综合评价结果在空间尺度上总体呈现“北高南低"的分布态势并以天山北坡城市群为核心高值区。时间尺度上，县市生产功能、生活功能、生态功能及“三生"功能综合发展水平均有所提升。其中，生产功能提升明显，县市功能发展变化差异性显著，总体呈“北高南低"的空间分布态势并以天山北坡城市群为主要高值区；生活功能的发展变化呈现一定的波动性，总体以天山北坡城市群及哈密市、吐鲁番市及若羌县为核心高值区；生态功能与地形地貌关联度较高，以塔城、伊犁州直属县市及阿勒泰地区与天山北坡城市群为主要高值区，同时生态保护措施持续有效的实施使得县市生态功能总体向好。
+
+(2）2000一2018年，生产功能、生活功能、生态功能及“三生"功能间的耦合协调性总体提升幅度显著，空间分布均以天山北坡城市群为主要高值区域，县市功能间的耦合协调关系逐步向好，为区域后续的发展奠定了良好基础。综合来看，生产功能与生态功能间的高耦合协调性主要依赖于生产功能对于县市经济强有力的带动作用，生产功能与生态功能的耦合协调性的逐步提升得益于宏观调控政策的有效实施。
+
+(3）区域主导产业的选择宏观政策调控对于新疆“三生"功能发展及其耦合协调性的提升至关重要。因此未来新疆发展，需继续加强宏观调控政策的实施，同时在综合考量区域资源环境的前提下合理调整产业结构，缩小县市间发展差距，引导区域整体有序发展。
+
+# 4.3不足与展望
+
+本研究通过构建评价体系探究新疆发展现状，不足主要来源于评价指标选取、指标权重及数据的不确定性。(1）指标选取方面，水资源是制约新疆发展的重要因素对于县市功能发展的影响机理复杂[59-61],但受制于县市尺度的水资源数据资料,无法进行详细说明，有待后续研究的完善补充。(2）指标权重的确立方面，指标权重的确立为评价体系建立关键点，对于评价结果的影响十分重大，本文参考已有文献的权重选择，利用客观熵值法与主观层次分析法相结合的方式对指标进行权重赋值，弥补了熵值法只基于数据数学特性而非针对新疆这一特定区域的权重赋予的缺陷，同时加强了层次分析法的理论依据具有一定的科学性。但评价权重并不等同于真实情况，无法进行验证。因此评价结果可能会存在一定误差。(3）数据方面，由于研究范围较大时间跨度较长，在研究时长内县市划分变动较多，其中以2013—2018年间新疆新增县市居多。尽管统计年鉴数据在长时间尺度下总体连续性较高及有效性较高[2],但因缺失大量新增县市的数据而使得评价体系对于新增县市的评价无法展开，因此本文为减小了由于数据缺失及对应关系不明确而造成的评价结果不确定，以2013年的县市划分为统计基础进行县市功能评价。由于县市区划的选择，对于部分新增县市未能进行评价，对2018年县市功能评价部分县市的等级划分产生影响。
+
+# 参考文献(References)
+
+[1]张衍毓,陈美景.国土空间系统认知与规划改革构想[J].中国土 地科学,2016,30(2):11-21.[Zhang Yanyu,Chen Meijing.Cognition of land space system and planning reform conception[J]. China Land Science,2016,30(2): 11-21.]   
+[2] 黄安,许月卿,卢龙辉,等.“生产-生活-生态"空间识别与优化 研究进展[J].地理科学进展,2020,39(3):503-518.[Huang An, Xu Yueqing,Lu Longhui,et al. Research progress of the identification and optimization of production-living-ecological spaces[J]. Progress in Geography,2020,39(3): 503-518.]   
+[3] 李秋颖,方创琳,王少剑.中国省级国土空间利用质量评价：基 于"三生"空间视角[J].地域研究与开发,2016,35(5):163-169. [LiQiuying,Fang Chuanglin,Wang Shaojian.Evaluation of territorial utilization quality in China: Based on the aspect of productionliving-ecological space[J].Areal Research and Development,2016, 35(5): 163-169.]   
+[4] 刘继来,刘彦随,李裕瑞.中国"三生空间"分类评价与时空格局 分析[J].地理学报,2017,72(7):1290-1304.[Liu Jilai,Liu Yansui,Li Yurui. Classification evaluation and spatial-temporal analysis of “production-living-ecological”spaces in China[J].Acta Geographica Sinica,2017,72(7): 1290-1304.]   
+[5]张红旗,许尔琪,朱会义.中国"三生用地"分类及其空间格局 [J.资源科学,2015,37(7): 1332-1338.[Zhang Hongqi,Xu Erqi, Zhu Huiyi.An ecological-living-industrial land classification sys
+
+# 干吴区地理
+
+tem and its spatial distribution in China[J]. Resources Science, 2015,37(7): 1332-1338.]
+
+[6]安悦,周国华,贺艳华,等.基于"三生"视角的乡村功能分区及 调控——以长株潭地区为例[J].地理研究,2018,37(4):695- 703.[An Yue,Zhou Guohua,He Yanhua,et al. Research on the functional zoning and regulation of rural areas based on the production-life-ecological function perspective: A case studyof Changsha-Zhuzhou-Xiangtan area[J]. Geographic Research,2018,37(4): 695-703.]
+
+[7]王璐,张合兵,胡文智,等.基于“三生"视角的煤粮复合区土地 利用功能评价[J].水土保持通报,2018,38(3):301-306.[Wang Lu,Zhang Hebing,Hu Wenzhi,et al.Functional evaluation of land use based on production-living-ecology view in areas of cropland and coal resources[J].Bulletin of Soil and Water Conservation,2018,38(3): 301-306.]   
+[8]李广东,方创琳.城市生态-生产-生活空间功能定量识别与分 析[J].地理学报,2016,71(1):49-65.[Li Guangdong,Fang Chuanglin. Quantitative function identification and analysis of urban ecological-production-living spaces[J]. Acta Geographica Sinica, 2016, 71(1): 49-65.]   
+[9]崔家兴,顾江,孙建伟,等.湖北省三生空间格局演化特征分析 [J].中国土地科学,2018,32(8):67-73.[Cui Jiaxing,Gu Jiang, Sun Jianwei, et al.The spatial pattern and evolution characteristics of the production,living and ecological space in Hubei Province[J]. China Land Science,2018,32(8): 67-73.]   
+[10] 方创琳,贾克敬,李广东,等.市县土地生态-生产-生活承载力 测度指标体系及核算模型解析[J].生态学报,2017,37(15): 5198-5209.[Fang Chuanglin,Jia Kejing, Li Guangdong,et al. Theoretical analysis of the index system and calculation model of carrying capacity of land ecological-production-living spaces from county scale[J]. Acta Ecologica Sinica,2017,37(15): 5198-5209.]   
+[11] 魏小芳,赵宇鸾,李秀彬,等.基于"三生功能"的长江上游城市 群国土空间特征及其优化[J].长江流域资源与环境,2019,28 (5):1070-1079.[Wei Xiaofang,Zhao Yuluan, Li Xiubin,et al. Characteristics and optimization of geographical space in urban agglomeration in the upper reaches of the Yangtze River based on the function of“production-living-ecological"[J].Resources and Environment in the Yangtze Basin,2019,28(5): 1070-1079.]   
+[12] 徐磊,董捷,李璐,等.基于功能分区视角的长江中游城市群国 土空间特征及优化[J].经济地理,2017,37(6):76-83.[Xu Le, Dong Jie,Li Lu,et al. Characteristics and optimization of geographical space in urban agglomeration in the middle reaches of the Yangtze River based on the function zoning[J]. Economic Geography,2017,37(6): 76-83.]   
+[13]马世发,黄宏源,蔡玉梅,等.基于三生功能优化的国土空间综 合分区理论框架[J].中国国土资源经济,2014,27(11):31-34. [Ma Shifa,Huang Hongyuan, Cai Yumei,et al. Theoretical framework with regard to comprehensive sub-areas of China’s land spaces based on the functional optimization of production,life and ecology[J].Natural Resource Economics of China,2014, 27(11): 31- 34.]   
+[14]林佳,宋戈,张莹.国土空间系统"三生"功能协同演化机制研究 以阜新市为例[J].中国土地科学,2019,33(4):9-17.[Lin Jia,Song Ge, Zhang Ying. Synergistic evolution mechanism of “production-living-ecology”functions in spatial planning systm: A case study of Fuxin City[J]. China Land Science,2019,33(4): 9- 17.]   
+[15] 李欣,方斌,殷如梦,等.江苏省县域"三生"功能时空变化及协 同/权衡关系[J].自然资源学报,2019,34(11):2363-2377.[Li Xin,Fang Bin,Yin Rumeng,etal. Spatial-temporal change and collaboration/trade-off relationship of“production-living-ecological”functions in county area of Jiangsu Province[J]. Journal of Natural Resources, 2019,34(11): 2363-2377.]   
+[16]杨士弘.广州城市环境与经济协调发展预测及调控研究[J].地 理科学,1994,14(2):136-143.[Yang Shihong.A study on the forecast and regulation of coordinated development of urban environment and economy in Guangzhou[J]. Scientia Geographica Sinica,1994,14(2): 136-143.]   
+[17]廖重斌.环境与经济协调发展的定量评判及其分类体系——以 珠江三角洲城市群为例[J].广州环境科学,1996(1):12-16.[Liao Zhongbin. Quantitative evaluation and classfication system of coordinated development of environment and economy: A case study of urban agglomeration in Pearl River Delta[J]. Guangzhou Environmental Science,1996(1): 12-16.]   
+[18] 尚海龙,潘玉君.西安市人地关系协调状态评价及动态预测[J]. 人文地理,2013,28(2):104-110.[Shang Hailong,Pan Yujun. The analysis on the evolution state of man-land elationship and the dynamic prediction in Xi'an[J]. Human Geography,2013,28(2): 104-110.]   
+[19] 纪建悦,于富洋,方胜民.环渤海地区经济与海洋环境的耦合度 研究[J].海洋环境科学,2012,31(6): 847-850.[Ji Jianyue,Yu Fuyang,Fang Shengmin. Study on coupling degree between economyand marine environment in Bohai Sea Rim[J]. Marine Environmental Science,2012,31(6): 847-850.]   
+[20] 王成,唐宁.重庆市乡村三生空间功能耦合协调的时空特征与 格局演化[J].地理研究,2018,37(6):1100-1114.[Wang Cheng, Tang Ning. Spatio-temporal characteristics and evolution of rural production-living-ecological space function coupling coordination in Chongqing Municipality[J]. Geography Research, 2018,37(6): 1100-1114.]   
+[21] Zhang Y,Su Z, Li G,et al. Spatial-temporal evolution of sustainable urbanization development: Aperspectiveof thecoupling coordination development based on population,industry,and built-up land spatial agglomeration[J]. Sustainability,2018,10(6):1766, doi: 10.3390/su10061766.   
+[22] 甄霖,曹淑艳,魏云洁,等.土地空间多功能利用:理论框架及实 证研究[J].资源科学,2009,31(4):544-551.[Zhen Lin,Cao Shuyan, Wei Yunjie,et al. Land use functions: Conceptual framework and application for China[J]. Resoures Science,2009,31 (4): 544-551.]   
+[23] 姜逢清,朱诚,穆桂金,等.新疆绿洲当代人地关系紧张情势与 缓解途径[J].地理科学,2003,23(2):157-163.[Jiang Fengqing, Zhu Cheng,Mu Guijin,et al.Present situation of the man-land relationship inconsistency in the oases of Xinjiang and the mitigation measures[J]. Scientia Geographica Sinica, 2003,23(2):157- 163.]   
+[24]刘晓婷,陈闻君.2004—2013年新疆县域经济空间差异演化 [J].中国沙漠,2015,35(4): 1089-1095.[Liu Xiaoting,Chen Wenjun.Dynamics of spatial pattern of county’s economics during 2004—2013 in Xinjiang,China[J]. Journal of Desert Research, 2015,35(4): 1089-1095.]   
+[25] 张锦宗,梁进社,朱瑜馨.新疆县域经济分异特征、原因及对策 探讨[J].地理科学,2010,30(4): 536-543.[Zhang Jinzong,Liang Jinshe,Zhu Yuxin.The characteristics,reasons,and measures of county economic division of Xinjiang[J]. Scientia Geographica Sinica,2010,30(4): 536-543.]   
+[26] 王静,张小雷,杜宏茹.新疆县域经济空间格局演化特征[J].地 理科学进展,2011,30(4): 470-478.[Wang Jing,Zhang Xiaolei, Du Hongru. The characteristics,reasons,and measures of county economic division of Xinjiang[J].Progress in Geography,2011,30 (4): 470-478. ]   
+[27] 刘超,许月卿,刘焱序,等.基于系统论的土地利用多功能分类 及评价指标体系研究[J].北京大学学报(自然科学版),2018,54 (1): 181-188.[Liu Chao,Xu Yueqing,Liu Yanxu,et al. Research on land use functions clasification and evaluation system based on system theory[J]. Journal of Peking University (Natural Science Edition),2018,54(1): 181-188.]   
+[28] Chiang C L,Liang JJ.An evaluation approach for livable urban environments[J]. Environmental Science & Pollution Research International,2013,20(8): 5229-5242.   
+[29] 周华荣.新疆生态环境质量评价指标体系研究[J].中国环境科 学,2000,20(2): 150-153.[Zhou Huarong. Study on ecological environmental quality asassessment index system of Xinjiang[J]. China Environmental Science,2000,20(2): 150-153.]   
+[30] 刘方田,许尔琪.基于土地利用的新疆兵团与非兵团生境质量 时空演变的对比[J].应用生态学报,2020,31(7):2341-2351. [Liu Fangtian,Xu Erqi. Comparison of spatial-temporal evolution of habitat quality between Xinjiang Corps and Non-corps Region based on land use[J]. Chinese Journal of Applied Ecology,2020, 31(7): 2341-2351.]   
+[31]郭显光.熵值法及其在综合评价中的应用[J].财贸研究,1994 (6): 56-60.[Guo Xianguang. Entropy method and its application incomprehensive evaluation[J]. Finance and Trade Research, 1994(6): 56-60. ]   
+[32] 刘云菲,李红梅,马宏阳.中国农垦农业现代化水平评价研究 基于熵值法与TOPSIS 方法[J].农业经济问题,2021(2): 107-116.[Liu Yunfei,Li Hongmei,Ma Hongyang.Study on the eval
+
+uation of agricultural modernization level of China’s state farms: Based on entropy method and TOPSIS method[J]. Issues in Agricultural Economy,2021(2): 107-116.]
+
+[33] 郝辑,张少杰.基于熵值法的我国省际生态数据评价研究[J].情 报科学,2021,39(1):157-162.[Hao Ji, Zhang Shaojie.Evaluation of inter-provincial ecological data in China based on entropy method[J]. Information Science,2021,39(1): 157-162.]   
+[34] 贾海发,邵磊,罗珊.基于熵值法与耦合协调度模型的青海省生 态文明综合评价[J].生态经济,2020,36(11):215-220.[Jia Haifa,Shao Lei,Luo Shan.Comprehensive evaluation of ecological civilization in Qinghai Province based on entropy method and coupling coordination degree model[J]. Ecological Economy,2020,36 (11): 215-220.]   
+[35]Saaty TL, Kearns K P. The analytic hierarchy process[M]. Oxford, UK: Pergamon Press,1985.   
+[36] 蔡楠,杨扬,方建德,等.基于层次分析法的城市河流生态修复 评估[J].长江流域资源与环境,2010,19(9):1092-1098.[Cai Nan, Yang Yang,Fang Jiande,et al. Evaluation of urban river ecological remediation by using analytical hierarchy proces[J]. Resources and Environment in the Yangtze Basin,2O1O,19(9): 1092-1098.]   
+[37] 徐华,王欢,鲁守刚,等.基于层次分析法的绥中县矿山地质环 境质量评价[J].安全与环境工程,2013,20(6):116-120.[Xu Hua, Wang Huan,Lu Shougang, et al. Quality assessment of mineral geological environment in Suizhong County based on AHP[J]. Safety and Environmental Engineering,2013,20(6): 116-120.]   
+[38] 陆添超,康凯.熵值法和层次分析法在权重确定中的应用[J].电 脑编程技巧与维护,2009(22):19-20.[Lu Tianchao, Kang Kai. The application of entropy method and AHP in weight determining [J]. Computer Programming Skills Maintenance,2009(22): 19-20.]   
+[39]李帅，魏虹,倪细炉,等.基于层次分析法和熵权法的宁夏城市 人居环境质量评价[J].应用生态学报,2014,25(9):2700-2708. [Li Shuai,Wei Hong,Ni Xilu,et al. Evaluation of urban human settlement quality in Ningxia based on AHP and the entropy method[J].Chinese Journal of Applied Ecology,2014,25(9):2700- 2708.]   
+[40] 黄楚珩,蒋志云,杨志广,等.基于熵值法和层次分析法的广东 省水资源安全评价及影响因素分析[J].水资源与水工程学报, 2019,30(5): 140-147.[Huang Chuheng,Jiang Zhiyun, Yang Zhiguang,et al.Evaluation and factors of water resource security of Guangdong Province using entropy value and analytic hierarchy process methods[J]. Journal of Water Resources and Water Engineering,2019,30(5): 140-147.]   
+[41] 张翔,李金燕,郭娇.基于熵权—耦合协调度模型的水源地可持 续发展能力评价[J].生态经济,2020,36(9):164-168.[Zhang Xiang,Li Jinyan, Guo Jiao.Evaluation of sustainable development capacity of water sources based on entropy weight-coupling coordination model[J]. Ecological Economy,2020,36(9): 164-168.]
+
+[42]倪维秋.中国三大城市群城市土地利用经济、社会、生态效益的
+
+# 干旱区地理
+
+耦合协调性及其空间格局[J].城市发展研究,2016,36(12):69- 77.[Ni Weiqiu. The coupling and coordination relationship and their spatial pattern of urban land use economic,social and ecological benefits of cities in three largest urban agglomerations in China[J]. Urban Development Studies,2016,36(12): 69-77.]
+
+[43]关靖云,瓦哈甫·哈力克,赵恒山,等.新疆各县市自我发展能力 测算及时空演变分析[J].华中师范大学学报(自然科学版), 2015,49(6): 958-966.[Guan Jingyun,Khalik Vahav, Zhao Hengshan,et al. Estimation and spatio-temporal evolution analysis of self-development capacity in Xinjiang counties[J]. Journal of Central China Normal University (Natural Sciences),2O15,49(6): 958- 966.]
+
+[44]张路路,郑新奇,孟超,等.湖南省土地多功能耦合协调度时空 分异[J].中国土地科学,2019,33(3): 85-94.[Zhang Lulu, Zheng Xinqi,Meng Chao,et al. Spatio-temporal difference of coupling coordination degree of land use functions in Hunan Province[J]. China Land Science,2019,33(3): 85-94.]
+
+[45] 朱彩霞,孙海清.生态文明视角云南省森林生态经济耦合系统 协调发展研究[J].林业经济问题,2019,39(5):482-489.[Zhu Caixia,Sun Haiqing. Study on coordinated development of forest eco-economic coupling system in Yunnan Province from the perspective of ecological civilization[J].Problems of Forestry Economics,2019,39(5): 482-489.]
+
+[46]谢炳庚,陈永林,李晓青.耦合协调模型在"美丽中国"建设评价 中的运用[J].经济地理,2016,36(7):38-44.[Xie Binggeng, Chen Yonglin,Li Xiaoqing.Application of coupling coordination model in the evaluation of“beautiful China”construction[J].Economic Geography,2016,36(7): 38-44.]
+
+[47]龙明璐,贺清云.农用地集约利用水平与建设用地规模时空耦 合分析——以湖南省为例[J].水土保持研究,2020,27(2):330- 336.[Long Minglu,He Qingyun.Analysis on spatial-temporal coupling of intensive utilization of agricultural land and construction land scale: Taking Hunan Province as an example[J]. Research of Soil and Water Conservation,2020,27(2): 330-336.]
+
+[48]张景鑫.基于"三生空间"的区域国土空间利用质量及耦合协调 度评价—以苏南城市群为例[J].农业科学研究,2017,38(3): 57-63.[Zhang Jingxin.Assessment of land space utilization quality and its coupling and coordination based on producing,living and ecological:A case study of the southern Jiangsu region[J]. Journal of Agricultural Sciences,2017,38(3): 57-63.]
+
+[49] 赵胡兰,杨兆萍,韩芳,等.新疆旅游产业-经济发展-生态环境 耦合态势分析及预测[J].干旱区地理,2020,43(4):1146-1154. [Zhao Hulan,Yang Zhaoping,Han Fang,etal.Analysis and forecast of coupling situation among tourism industry-economic development-ecological environment in Xinjiang[J].Arid Land Geography, 2020,43(4): 1146-1154.]
+
+[50]匡文慧.新时代国土空间格局变化和美丽愿景规划实施的若干 问题探讨[J].资源科学,2019,41(1):23-32.[KuangWenhui.Issues regarding on spatial pattern change of national land space and its overall implementation on beautiful vision in new era[J]. Resources Science,2019,41(1):23-32.]
+
+[51]力木拉提·吾守尔,杨德刚,张仲伍,等.天山北坡经济带"组团" 点轴城镇空间结构研究[J].中国沙漠,2012,32(1):252-257. [Wushouer Limulati, Yang Degang,Zhang Zhongwu,et al. Spatial structure of point-axis city groups on northern slope of Tianshan Mountains[J]. Journal of Desert Research,2012,32(1): 252-257.] [52] 唐勇,李龙姣.新疆天山北坡经济带城市群联动发展研究[J].市 场论坛,2012(7): 48-50.[Tang Yong,Li Longjiao.Study on the linkage development of urban agglomerations in the economic belt on the northern slope of Tianshan Mountains in Xinjiang[J].Market Forum,2012(7):48-50.]
+
+[53] 张晓莉，古丽夏提·图尔荪.新疆南疆三地州可持续脱贫能力探 析——基于县域面板数据[J].石河子大学学报(哲学社会科学 版),2020,34(3): 70-79.[Zhang Xiaoli, Tursun Gulixiati. Analysis on the sustainable poverty alleviation ability of three prefectures in southern Xinjiang:Based on county level panel data[J]. Journal of Shihezi University Philosophy and Social Science,2O2O,34(3): 70-79.]
+
+[54]庞丽媛,马晓钰.贫困地区人均收入与其影响因素分析——以 新疆南疆三地州地区为例[J].西北人口,2018,39(1):119-126. [Pang Liyuan,Ma Xiaoyu. Per capita income and its influencing factors in poor areas:A case study of southern Xinjiang,three ground state[J]. Northwest Population Journal,2O18,39(1):119- 126.]
+
+[55]秦春艳.新疆南疆三地州经济发展现状与趋势[J].新疆财经, 2013(5):53-59.[Qin Chunyan.The status quo and tendency of economic development in three regions of southern Xinjiang[J].Finance Economics of Xinjiang,2013(5): 53-59.]
+
+[56] 刘晓婷,陈闻君.新疆县域经济发展影响因素的空间差异分析 -基于地理加权回归(GWR)模型[J].新疆农垦经济,2015(9): 59-65.[Liu Xiaoting,Chen Wenjun. Spatial difference analysis of influencing factors of county economic development in Xinjiang: Based on geographically weighted regression (GWR）model[J]. Xinjiang State Farms Economy,2015(9): 59-65.]
+
+[57]欧阳金琼,周传荣,李文耀.新疆南疆地区城镇化、产业升级与 人口集聚——基于县域统计资料与SDEM模型[J].西北人口， 2020,42(3): 1-10.[Ouyang Jinqiong, Zhou Chuanrong,Li Wenyao. Industrial upgrading,urbanization and population agglomeration in south Xinjiang:Based on county statistics and SDEM models[J]. Northwest Population Journal, 2020,42(3): 1-10.]
+
+[58] 黄麟,祝萍,曹巍.中国退耕还林还草对生态系统服务权衡与协 同的影响[J].生态学报,2021,41(3):1178-1188.[Huang Lin, Zhu Ping,Cao Wei.The impacts of the grain for green project on the trade-off and synergy relationships among multiple ecosystem services in China[J]. Acta Ecologica Sinica,2021,41(3):1178- 1188.]
+
+[59] 热孜娅·阿曼,方创琳,赵瑞东.新疆水资源承载力评价与时空演变特征分析[J].长江流域资源与环境,2020,29(7):1576-
+
+1585.[Aman Rezia,Fang Chuanglin, Zhao Ruidong.Research on the water resources carrying capacity and spatial-temporal characteristics in Xinjiang[J].Resources and Environment in the Yangtze Basin,2020,29(7): 1576-1585.]
+
+[60] 李佳伟,左其亭,马军霞.新疆水资源-经济社会-生态环境时 空演变特征分析[J].北京师范大学学报(自然科学版),2020,56 (4): 591-599.[Li Jiawei,Zuo Qiting,Ma Junxia.Analysis of spatial and temporal evolution characteristics of water-socioeconomicecosystem in Xinjiang[J].Journal of Beijing Normal University (Natural Science),2020,56(4): 591-599.]
+
+[61]雷小牛,张志良,张爱民,等.构建南疆水-生态-经济协调发展 水利战略格局的基本思路[J].水利发展研究,2020,20(7):22- 28.[Lei Xiaoniu, Zhang Zhiliang,Zhang Aimin,et al. The basic idea of constructing the water conservancy strategic pattern of water ecology economy coordinated development in southern Xinjiang [JJ.Water Resources Development Research,2020,20(7): 22-28.]   
+[62] 孟祥兰.我国宏观统计指标数据有效性的实证检验[J].统计与 决策,2011(23): 8-12.[Yu Xianglan.Empirical test on the validity of China's macro statistical indicators[J]. Statistics & Decision, 2011(23): 8-12.]
+
+# Spatio-temporal changes and coupling coordination of the function of production-living-ecological" in Xinjiang
+
+NIU Yaxuan $^ { 1 , 2 , 3 }$ ，WU Shixin1²，GUO Chenyu12³3，ZHUANG Qingwei $^ { 1 , 2 , 3 }$ ， XIE Conghui123,，ZHANG Zihui123,LUO Geping12²2   
+(1.State KeyLaboratoryofDesertandOasisEcology,XinjiangInstituteofEcologyandGeography,ChineseAcademyofSciences,   
+Urumqi 83011,Xinjiang,China;2.Xinjiang UygurAutonomous RegionKeyLaboratoryof RemoteSensingand Geographic Information System Application,Urumqi 83oo11,Xinjiang,China;3.UniversityofChineseAcademyofSciences,Beijing 100049, China)
+
+Abstract: On the basis of the perspective of the production-living-ecology function,long-term economic statistics and land use data were used to construct an evaluation system for Xinjiang,China to explore the spatial and temporal evolution laws of land function in its countiesand cities.A coupling coordination model is then introduced to study the degree of interaction between the land functions of counties and cities in Xinjiang and their spatiotemporal evolution.This study also identifies the key factors that afect the development of county land function and provides suggestions for regional development. The results demonstrate the folowing: (1) There are significant diferences in the spatial and temporal patterns of the production,living,and ecological functions andthe production-living-ecology function ofcounties and cities in Xinjiang.However,both exhibit the spatial distribution characteristic of being high in the north and low in the south.(2)The coupling coordination degree of the production-living-ecology function between counties and cities in Xinjiang also generally exhibits a spatial distribution trend of being high in the north and low in the south.The coupling coordination between counties and cities in Xinjiang is also gradually improving,laying a good foundation for the follow-up development ofthe region. (3)The choices made by leading industries are very important forthe development of land functions in both thecounties and cities in Xinjiang.At the same time,macrocontrol policies help to enhance thecoupling coordination between land functions and promote their coordinated and orderly development in counties and cities.
+
+Key words:“production-living-ecological” function；coupling and coordination；counties and cities； Xinjiang

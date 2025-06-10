@@ -1,0 +1,203 @@
+# 造摘与播后镇压对小麦冬前耗水和生长发育的影响
+
+红凯」　曹彩云」　郑春莲」马俊永」　郭　丽」王亚楠²　李　伟」　李科江l"
+
+(1．河北省农林科学院旱作农业研究所/河北省农作物抗旱性研究重点实验室衡水053000;
+
+# 2．河北省农业技术推广总站石家庄 050011)
+
+摘要为明确造熵和播后镇压对小麦冬前耗水和群体与个体特征及产量的影响，为确定播后镇压技术和提高小麦水分利用效率提供依据，分别于 2013—2014年和 2014—2015年小麦生长季在河北省衡水市选用当地小麦品种‘衡4399’，分9月15日(I9.15)、9月20日(I9.20)、9月25日(I9.25)和9月30日(I9.30)4期造摘，以不造摘为对照(CK)，每期处理又设每延米 $0 \mathrm { k g } ( \mathrm { G 0 } )$ 、 $9 5 ~ \mathrm { k g } ( \mathrm { G } 9 5 )$ 和 $1 2 0 \mathrm { k g } ( \mathrm { G } 1 2 0 ) 3$ 个水平镇压的冬小麦田间试验。冬前对土壤水分和小麦幼苗生长情况进行动态监测，翌年成熟期考察产量性状并测产。结果表明，播种时土壤水分含量高，冬前阶段农田蒸散量也高。同一造不同镇压处理比较,I9.30处理以G95田间蒸散量最低，其他处理均以G120蒸散量最低，处理间差异显著。对苗情的影响，同一造熵不同镇压比较，苗期单株生物量、叶面积、群体总茎数以G120与G95处理较高，以G0处理较低，处理间显著水平不同；同一镇压不同造熵处理间比较，不造熵的CK总茎数显著减少，产量显著较低，且年际变化不稳定。造嫡与镇压对穗数影响较大，其中造摘处理穗数显著高于CK，镇压处理对穗数的影响表现一致： $\mathrm { G 1 } 2 0 { \scriptstyle > } \mathrm { G 9 } 5 { \scriptstyle > } \mathrm { G 0 }$ 。以上处理对产量与对穗数的影响一致：造摘处理间产量差异水平不同，但以CK最低；镇压处理间产量差异不显著，但以G0最低。造嫡和镇压对产量的交互作用不显著。综上可见，熵情适宜是小麦播后镇压的基础，镇压又是提熵壮苗的保障。河北地区小麦造嫡水提前到9月20—25日，播种后采用 $9 5 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 1 }$ 镇压器便于田间操作且镇压效果较好。
+
+关键词冬小麦　造墒播后镇压　蒸散量土壤水分产量中图分类号： $\mathrm { S } 5 1 2 . 1 + 1$ 文献标识码：A 文章编号:1671-3990(2016)08-1071-09
+
+# Effects of pre-sowing irrigation and post-sowing soil compaction on water use and growth of winter wheat
+
+DANG Hongkai1, CAO Caiyun1, ZHENG Chunlian1, MA Junyong1,GUO Li', WANG Yanan²,LI Wei',LI Kejiang 】\*\*
+
+(1.InstituteofDrylandFarming,HebeiAcademyofAgricultureandForestrySciences/LaboratoryofCropDroughtResistanceol HebeiProvine,Hengsui53oo,Chia;2.GeneralStationforAgriculturalTchnologyExtension,ShjazhuangO50a)
+
+AbstractInorder toclarifythe efect of pre-sowing irigationand post-sowing soilcompactionon wateruse,growth and yield of winter wheat,afield experiment wasconducted in Hengshui Cityin2013-2014and2014-2O15.Theexperiment included 4 treatmentsofpre-sowingirrgationofwinterwheat—irigationdatesofSep.15(19.15),Sep.20(I9.20),Sep.25(9.25)andSep. 30(I9.30)andnoiigatioasontrol(CK)treatmentEachtreatmentconsistedof3levelsofsoilcompactionintensityaftersowgper meter— $1 2 0 \mathrm { k g }$ (G120), $9 5 ~ \mathrm { k g }$ (G95) and $0 ~ \mathrm { k g }$ (G0). The‘Heng 4399’ winter wheat variety was used in the field experiment and thesoil moisturecontent,growthand grainyield monitored during thewheat growth period.Theresultsofthestudyshowedthat evapotranspiration of wheat before winter wheat overwinter time was positively associated with soil moisture at sowing time. There were significant differences in evapotranspiration among diferent soil compaction treatments under the same irrigation date.Comparisonamong different irrigation dates showed thatearly irrigation lowered soil moisture and evapotranspirationat wheat sowing stage,which was thereverse forlate irigation treatments.The minimum evapotranspiration was observed in G95 treatmentunderI9.30irigationdate,whileitwasobserved in G12Otreatmentunderothers irigationdates.Fordierentsoil compaction treatments under the same irrigation date treatment,the order of the number of spikes was $\mathrm { G } 1 2 0 > \mathrm { G } 9 5 > \mathrm { G } 0$ ： Biomass accumulation,leafarea,stemnumberand grain yield were lowest in GO treatment,while were higher under both G120 andG95conditions.Stem number，spikes number and grain yield were lowest in CK treatment.Although irrigation time significantlyinfluencedspikenumber,nosignificant interaction was notedbetwensoilcompactionand pre-sowing iigation. Theresultsdemonstrated that themostsuitable soil moisture forseed germination dependedonthe degre of soilcompaction. Thus it was posible tousesoilcompactiontoregulatesoil moistureand invigorate seding.The studysuggestedthatthe best period for early irrigation was from Sep.2Oth to Sep.25th.The most appropriate weight of roller was about $9 5 ~ \mathrm { k g }$ per meter.
+
+KeywordsWinter wheat; Pre-sowing irigation;Post-sowing soilcompaction;Evapotranspiration;Soilmoisture; Grainyield
+
+小麦是我国仅次于水稻、玉米的第三大粮食作物，是河北省的基本口粮作物。小麦适应性强，可在华北气温较低的秋冬季节生长[1]，增加该地区复种指数，提高周年粮食产量[2]。小麦也是北方地区秋冬季节覆盖地面的重要绿色植物，提高小麦冬前苗质量，保证叶片带绿越冬，不仅为丰产打下基础，同时也改善京津冀地区的生态环境[3]。可见，冬前壮苗对小麦生产和环境改良都具有重要的意义。河北平原小麦生育期平均降雨量为 $1 0 9 \mathrm { m m }$ ，而小麦需水量为 $4 2 0 \mathrm { m m }$ ，河北平原自然降水不能满足小麦生长对水分的需求[4-5]。由于无地表水供给，深层地下水是补给麦田水分的主要水源[6]。长期超采地下水,带来了严重的生态问题。减小土壤水分的无效蒸发和提高水分生产效率是当前小麦生产亟待解决的问题[7]。
+
+由于受季风性气候影响，河北平原进入9月份降雨明显减少，降雨难以满足小麦出苗对水分的需求。考虑到小麦玉米一体化种植，可在玉米乳熟后期为小麦提前造摘[8]，但该灌溉技术对小麦的影响鲜见报道。另外河北平原小麦出苗1个月后陆续进入越冬期，与河南山东相比，该区麦田冬季寒冷少雪，极易遭遇冻害，增温保对小麦安全越冬很重要[1,9]。小麦播后镇压有踏实土壤、压碎土块、平整地面的作用，起到稳定地温、保水提摘的作用[1]。镇压通过增加耕层土壤紧密度而提高土壤含水量，使种子与土壤紧密接触，利于根系喷发和下扎[1]。但土壤紧实度过大或过小都不利于小麦出苗。镇压后土壤过度紧实，非但起不到促苗壮苗作用，反而会造成土壤板结、致使苗情偏弱[10]。可见，通过适度镇压及与玉米倒茬时适期灌水，对提高小麦苗质量具有重要意义。为此，本研究通过不同时期造摘形成的不同嫡情麦田和播后不同镇压重力构建的小麦群体，研究不同条件下麦田冬前耗水特征及小麦群体、个体特征和产量性状，为确定小麦播后镇压技术和提高水分利用效率提供研究依据。
+
+# 1材料与方法
+
+# 1.1 基本情况
+
+田间试验于2013—2014年和2014—2015年连续2个小麦生长季在河北省农林科学院旱作节水农业试验站进行。该站位于河北平原中南部，属于黑龙港小麦生长区，具有中国北方半干旱农业生产区的典型特征。该区常年采用冬小麦夏玉米一年两熟种植制。年均日照时数、无霜期、蒸发量、降水量、气温分别为 $2 ~ 5 0 9 . 4 ~ \mathrm { h }$ 、188d、 $1 \ 7 8 5 \ \mathrm { m m }$ 、 $5 1 0 ~ \mathrm { m m }$ ，$1 2 . 8 \ \mathrm { ~ } ^ { \circ } \mathrm { C } ^ { [ 1 1 ] }$ 。试验田土质为壤土, $0 { \sim } 2 0 0 ~ \mathrm { c m }$ 平均土壤容重 $1 . 4 0 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ ·， $0 { \sim } 2 0 ~ \mathrm { c m }$ 耕层土壤肥力为：有机质含量 $1 4 . 3 9 \ \mathrm { g { \cdot } k g ^ { - 1 } }$ ，全氮含量 $1 . 4 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，速效氮含量$1 0 1 . 3 6 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效磷含量 $2 1 . 9 5 ~ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ ，速效钾含量 $1 1 3 . 6 8 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 。小麦生长季降雨量见表1。
+
+表1试验年度小麦生育期内降雨量 Table 1Precipitation during growing period of wheat in the test years   
+mm   
+
+<html><body><table><tr><td rowspan="2">年度 Year</td><td colspan="9">月份Month</td><td rowspan="2">全生育期 Total</td></tr><tr><td>10</td><td>11</td><td>12</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>2013-2014</td><td>4.4</td><td>8.7</td><td>0.3</td><td>0.5</td><td>5.1</td><td>0.7</td><td>49.6</td><td>35.7</td><td>26.1</td><td>131.0</td></tr><tr><td>2014—2015</td><td>0.5</td><td>15.6</td><td>0</td><td>0</td><td>0</td><td>11.1</td><td>56.9</td><td>58.2</td><td>1.2</td><td>143.5</td></tr></table></body></html>
+
+# 1.2 试验设计
+
+选用大面积种植且具节水高产潜力的冬小麦品种衡‘4399'为试验材料，按照常规播种量 $( 2 2 5 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$ 统一播种。主处理为小麦造摘时期处理，设9月15日
+
+http://www.ecoagri.ac.cn
+
+(19.15)、9月20日(19.20)、9月25日(19.25)、9月30日(I9.30)灌水造摘和不灌水(CK)5个水平。灌水量 $4 5 ~ \mathrm { m m }$ ，每个处理占地 $6 6 6 . 7 \mathrm { m m } ^ { 2 }$ ，顺序排列。主处理下设镇压重力副处理。镇压机具采用SL200型小麦镇压器，长、宽、高分别为 $2 . 0 0 \mathrm { ~ m ~ }$ 、 $0 . 4 5 \mathrm { ~ m ~ }$ 和$0 . 4 0 \mathrm { m }$ ，机体重量 $1 9 0 \mathrm { k g }$ ，镇压轮直径 $0 . 3 5 ~ \mathrm { m } _ { \mathrm { s } }$ 通过在镇压器机架上配重土壤调节镇压强度。以生产上普遍采用的 $1 9 0 ~ \mathrm { k g } ( \mathrm { G } 9 5 )$ 镇压为对照，增设不镇压(G0)和 $2 4 0 ~ \mathrm { k g }$ 加重镇压(G120)，共3个水平。
+
+冬小麦夏玉米收获后秸秆全量粉碎还田。整地前底施二铵 $5 2 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，氯化钾 $1 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。拔节期追施尿素 $3 7 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。折合施用化肥量为 $\mathrm { N } 2 6 7 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，$\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 2 4 1 . 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ， $\mathrm { K } _ { 2 } \mathrm { O } \ g 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。播后安排镇压试验。其他管理同常规大田。2013—2014年度，10月14日播种，10月16日镇压，翌年5月10日扬花，6月9日收获;2014—2015年度，2014年10月12日播种，10月14日镇压，翌年5月8日扬花,6月11日收获。
+
+# 1.3 田间调查
+
+# 1.3.1 表层土壤硬度
+
+镇压后在每个处理区，利用土壤硬度仪(上海)测定表层土硬度，每区测定重复30次，取其平均值。
+
+# 1.3.2 总茎数调查
+
+在每个副处理定3个点，从11月2日开始，每隔5d数苗一次。按 $\mathrm { ~ 1 ~ m ~ }$ 双行折算总茎数，取各点的平均数折算处理的总茎数。
+
+# 1.3.3 植株性状
+
+在每个处理多点取苗30株，作为考察样本。逐株考察株高、单株茎数、叶面积和次生根数。考察单株性状后，去掉根部，置烘箱 $1 0 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 杀青， $8 0 \ \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 烘干至恒重，冷却后称重，计算单株干重。
+
+# 1.4土壤含水量的测定及农田蒸散量和水分利用率的计算
+
+播种前(2013年10月12日，2014年10月10日)
+
+在各造水试验区，用土钻钻取 $0 { \sim } 2 0 0 ~ \mathrm { c m }$ 土层；越冬前(2013年12月2日，2014年12月3日)在各处理小区，用土钻钻取 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土层土样，每 $1 0 \ \mathrm { c m }$ 为一层。每个处理取土3次重复。采用烘干法测定土壤含水量，用于计算蒸散量。由于冬前小麦根系浅，水分消耗主要考虑 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土层，公式如下[12]:
+
+$$
+\mathrm { E T } _ { 1 - 2 } = 1 0 \sum _ { i = 1 } ^ { n } \gamma _ { i } H _ { i } \left( \theta _ { i 1 } - \theta _ { i 2 } \right) + M + P _ { 0 } + K
+$$
+
+式中： $\mathrm { E T } _ { 1 - 2 }$ 为阶段蒸散量; $i$ 为土层编号; $n$ 为总土层数; $\gamma _ { i }$ 为第 $i$ 层土壤干容重; $H _ { i }$ 为第 $i$ 层土壤厚度; $\theta _ { i 1 }$ 和 $\theta _ { i 2 }$ 为第 $i$ 层土壤时段初和时段末的含水率，以占干土重的百分数计算; $M$ 为时段内的灌水量; $P _ { 0 }$ 为有效降雨量； $K$ 为时段内的地下水补给量，当地下水埋深大于 $2 . 5 \mathrm { ~ m ~ }$ 时， $K$ 值可以不计，本试验的地下水埋深在 $1 0 \mathrm { m }$ 以下，因此无地下水补给。
+
+耗水来源比例 $( \% ) { = }$ 耗水构成/蒸散量 $\times 1 0 0 \%$
+
+# 1.5产量和产量构成因素测定
+
+成熟前在田间计数各样点上的穗数，计算出穗数。然后在样点中随机抓取20穗，调查穗粒数。在同一块地上多点取样30株左右，带回室内。逐株考察植株性状。每区收获 $2 \mathrm { m } ^ { 2 }$ 的样点3个，折算每 $\mathrm { h m } ^ { 2 }$ 产量。从各样点晒干的籽粒中随机抽取，计数千粒重。
+
+# 1.6 数据处理
+
+采用MicrosoftExcel和DPS软件进行数据处理和统计分析。
+
+# 2 结果与分析
+
+# 2.1 不同造摘和镇压处理对土壤性状的影响
+
+# 2.1.1 对表层土壤硬度的影响
+
+土壤硬度大，土壤紧实度也高。同一造处理，随着镇压重力的增加，表层土壤硬度也提高，部分处理间差异达到显著水平(见表2)。年际间处理间变化基本一致，2013年以I9.20造摘处理下G120处理最大，达到 $9 . 2 0 \mathrm { k g } { \cdot } \mathrm { c m } ^ { - 2 }$ ;2014年则以I9.25造摘处理下G120 处理最大，达到 $1 1 . 4 0 \mathrm { k g } { \cdot } \mathrm { c m } ^ { - 2 }$ 。同镇压重力不同造水处理间比较，以I9.20、I9.25处理土壤硬度最高或较高，以不灌水的对照(CK)最低。
+
+表22013年和2014年不同造摘时期和不同镇压处理对土壤硬度的影响  
+Table2Soilhardness underpost-sowingsoilcompactiontreatments withdiferent timesofpre-sowing irrgationin2O13and2014 kg.cm-2   
+
+<html><body><table><tr><td rowspan="2">造摘时间 Irrigation time</td><td colspan="6">镇压处理 Compaction treatment</td></tr><tr><td colspan="3">2013年 Year 2013</td><td colspan="3">2014年 Year 2014</td></tr><tr><td></td><td>G0</td><td>G95</td><td>G120</td><td>G0</td><td>G95</td><td>G120</td></tr><tr><td>CK</td><td>0.90±0.13c</td><td>2.40±0.20b</td><td>5.40±0.51a</td><td>0.15±0.02c</td><td>0.60±0.07b</td><td>1.05±0.15a</td></tr><tr><td>19.15</td><td>1.40±0.15c</td><td>3.20±0.22b</td><td>6.25±0.31a</td><td>1.00±0.15c</td><td>3.20±0.18b</td><td>6.20±0.42a</td></tr><tr><td>19.20</td><td>1.66±0.15c</td><td>3.80±0.30b</td><td>9.20±0.82a</td><td>1.14±0.13c</td><td>7.20±0.66b</td><td>9.80±0.53a</td></tr><tr><td>19.25</td><td>1.75±0.20c</td><td>4.70±0.39b</td><td>8.20±0.74a</td><td>1.44±0.15c</td><td>5.20±0.41b</td><td>11.40±0.33a</td></tr><tr><td>19.30</td><td>2.20±0.20c</td><td>4.40±0.39b</td><td>5.60±0.46a</td><td>1.02±0.17c</td><td>4.20±0.36b</td><td>10.20±0.79a</td></tr></table></body></html>
+
+造熵时间处理CK和I9.15、I9.20、I9.25、I9.30分别表示不灌水和播前灌水造熵时间为9月15日、9月20日、9月25日、9月30日.G0、镇压处理G95和G120分别为表示镇压强度为 $0 \mathrm { k g }$ 、 $9 5 ~ \mathrm { k g }$ 和 $1 2 0 \mathrm { k g _ { \circ } }$ 数字后不同小写字母表示同一造熵时间不同镇压处理间差异显著。下同。CK,I9.15,I9.20,I9.25and I9.30are irrigation time treatments ofno irrigation,irrigationat $1 5 ^ { \mathrm { t h } }$ $2 0 ^ { \mathrm { t h } }$ $2 5 ^ { \mathrm { t h } }$ and ${ 3 0 } ^ { \mathrm { t h } }$ September, respectively. G0, G95 andG120 are compaction treatments with compaction intensities of $0 ~ \mathrm { k g }$ 5 $9 5 ~ \mathrm { k g }$ andl20,respectively.Different lowercase letters following the data showsignificantdifferenceamongthethecompactiontreatmentsuderthesamepresowingirigationtreatmentatO05level.Thesaebelow.
+
+# 2.1.2不同时期造摘处理对底商的影响
+
+2年不同造摘处理 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土层土壤含水量变化基本一致，CK处理 $\scriptstyle 0 \sim 8 0 \ { \mathrm { c m } }$ 土壤嫡情明显低于不同时期灌水的处理。年际间比较，以2014年差异更为明显(见图1)。不同处理间比较, $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土层土壤水分含量，2年变化基本一致： $1 9 . 3 0 { > } \mathrm { I } 9 . 2 5 { \gtrsim } \mathrm { I } 9 . 2 0 { > }$ $1 9 . 1 5 \mathrm { > C K } _ { \circ }$ 总体来看，灌水越晚, $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土层土壤含水量越高。
+
+![](images/4fd0fb77a67c275787e1fd8ae0b499240eddc72e00eb928d21c48c5f52ef1e04.jpg)  
+图12013年(a)和2014年(b)不同造摘时期处理下小麦播前 $\mathbf { 0 { \sim } 2 0 0 ~ c m }$ 土层土壤含水量g.1Water contents of different layers of $0 { - } 2 0 0 ~ \mathrm { c m }$ soil with different times of pre-sowing irrigation in 2013 (a) and 2014
+
+$1 0 0 { \sim } 2 0 0 ~ \mathrm { c m }$ 处理间土壤含水量变化与 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 相似，但处理间差异较小，土壤水分含量变幅 $1 7 . 2 8 \% \sim$ $3 0 . 9 2 \%$ 。年际间比较，以2014年CK处理最低，与2014年玉米季降雨较少，玉米消耗深层土壤水分后没有得到有效补给有关。
+
+# 2.1.3 冬前土壤耗水特征
+
+本研究条件下，小麦播种-越冬前农田蒸散量为$1 9 . 7 8 { \sim } 5 1 . 7 6 ~ \mathrm { m m } _ { \circ }$ 同一底摘处理,I9.30处理以G95镇压蒸散量最低，其他处理均以G120蒸散量最低。土壤供水量所占蒸散量的比例为 $1 8 . 6 4 \% { \sim } 7 3 . 0 1 \%$ ，随着镇压重力的增加土壤供水量所占蒸散量的比例有减小趋势；降雨量所占农田蒸散量的比例随着镇压重力的增加有增加的趋势。同一底熵处理，年际间有一定差异：2013年以灌水处理较早的I9.15和不灌水的CK处理农田蒸散量与土壤供水量较大；2014年以灌水处理较晚的I9.25和I9.30处理农田蒸散量与土壤供水量较大。
+
+同一镇压强度不同灌水处理间比较，随造时间的推迟，土壤供水量与农田蒸散量有增加的趋势。土壤供水量所占农田蒸散量的比例随着造摘的推迟有所增加；降雨所占农田蒸散量的比例随着造摘的推迟有所减小。年际间比较，随镇压强度的变化，农田蒸散量与土壤供水量差异不具规律性。
+
+# 2.2不同造熵和镇压处理对小麦冬前群个体影响
+
+# 2.2.1 对小麦冬前苗情影响
+
+分别于2013年和2014年的11月11日对麦田苗情进行调查，结果见表4。同一造摘处理不同镇压重力比较，以G120与G95处理单株生物量较高，以GO处理单株生物量最低。同一镇压重力造处理间比较，随灌水时间的推迟，单株生物量有增加的趋势，表现为 $1 9 . 3 0 { \geqslant } 1 9 . 2 5 { \geqslant } 1 9 . 2 0 { \geqslant } 1 9 . 1 5 { \mathord { > } } \mathrm { C K }$ ，年际间差异较小。不同处理对次生根的影响与对生物量的影响相似，但不尽相同，G95处理次生根条数以I9.25或I9.20最高，I9.30较低。不同处理对单株叶面积的影响与对次生根的影响基本相似。总体来看，G95镇压处理 $+ \mathrm { I } 9 . 2 0$ 与I9.25造处理，小麦冬前苗质量普遍较好。
+
+# 2.2.2 小麦冬前群体动态变化
+
+由表5可见，冬前阶段随时间推迟总茎数逐渐增加，处理间增加趋势因造水与播后镇压不同而有所差异。2年中5个造摘水平之间的差异显著性不同，2013年以I9.25处理总茎数最高，2014年以I9.30处理总茎数最高，均以CK处理最低，差异达到显著水平。2年中3个镇压水平之间的差异显著性相近。以G120或G95总茎数较高，均以CK处理最低。
+
+表32013年和2014年不同造摘时期和不同镇压处理对冬前小麦耗水的来源及其比例的影响Table3Efectsofdiffrentpost-sowingsoilcompactiontreatmentsanddifferent timesofpre-sowingirigationontheratiosofdifferent water resource of water consumption in 2Ol3 and 2014  
+
+<html><body><table><tr><td rowspan="2">造墒 镇压 时间</td><td rowspan="2">处理</td><td colspan="2">蒸散量</td><td colspan="4">降水量Precipitation</td><td colspan="4">土壤供水 Soil water supply</td></tr><tr><td></td><td>Evapotranspiration (mm)</td><td></td><td>2013年 Year 2013</td><td></td><td>2014年 Year 2014</td><td>2013年Year 2013</td><td></td><td>2014年 Year 2014</td><td></td></tr><tr><td>Irrigation Compaction time</td><td>treatment</td><td>2013年 Year 2013</td><td>2014年 Year 2014</td><td>数量 Amm)t</td><td>比例 Ratio</td><td>数量 Amm)t</td><td>比例 Ratio</td><td>数量 Ammnt</td><td>比例 Ratio</td><td>数量 Amomnt</td><td>比例 Ratio</td></tr><tr><td>CK</td><td>G120</td><td>22.41±0.71b 19.78±0.08b</td><td></td><td>13.6</td><td>60.69±1.92a</td><td>16.1</td><td>81.40±0.33a</td><td>8.81±0.71b 39.31±1.92a</td><td></td><td>3.68±0.08b</td><td>18.60±0.33b</td></tr><tr><td rowspan="4">19.15</td><td>G95</td><td>26.88±0.64a 22.80±0.63a</td><td></td><td>13.6</td><td>50.60±1.21b</td><td>16.1</td><td>70.61±1.95b</td><td>13.28±0.64ab 49.40±1.21a</td><td></td><td>6.70±0.63a</td><td>29.39±1.95a</td></tr><tr><td>G0</td><td>29.59±0.83a 25.88±0.49a</td><td></td><td>13.6</td><td>45.96±1.29b</td><td>16.1</td><td></td><td>62.21±1.18c 15.99±0.83a 54.04±1.29a</td><td></td><td>9.78±0.49a 37.79±1.18a</td><td></td></tr><tr><td>G120</td><td>40.15±0.93b 32.75±1.24a</td><td></td><td>13.6</td><td>33.87±0.79a</td><td>16.1</td><td></td><td>49.16±1.86a 26.55±0.93b 66.13±0.79a 16.65±1.24a 50.84±1.86a</td><td></td><td></td><td></td></tr><tr><td>G95</td><td>47.59±0.66a 34.07±0.43a</td><td></td><td>13.6</td><td>28.58±0.40ab</td><td>16.1</td><td></td><td>47.26±0.59a 33.99±0.66a 71.42±0.40a 17.97±0.43a 52.74±0.59a</td><td></td><td></td><td></td></tr><tr><td rowspan="3">19.20</td><td>G0</td><td>49.57±0.84a 32.88±0.19a</td><td></td><td>13.6</td><td>27.44±0.47b</td><td>16.1</td><td></td><td></td><td></td><td>48.97±0.28a 35.97±0.84a 72.56±0.47a 16.78±0.19a 51.03±0.28a</td><td></td></tr><tr><td>G120</td><td>37.97±0.46a 39.89±0.01b</td><td></td><td>13.6</td><td>35.82±0.43a</td><td>16.1</td><td></td><td>40.36±0.01a 24.37±0.46b 64.18±0.43a 23.79±0.01b 59.64±0.01b</td><td></td><td></td><td></td></tr><tr><td>G95</td><td>41.31±0.28a 41.88±0.46b</td><td></td><td>13.6</td><td>32.92±0.22a</td><td>16.1</td><td>38.44±0.42a 27.71±0.28ab 67.08±0.22a 25.78±0.46ab61.56±0.42ab</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3">19.25</td><td>G0</td><td>43.85±0.72a 46.75±0.38a</td><td></td><td>13.6</td><td>31.01±0.51a</td><td>16.1</td><td></td><td></td><td></td><td>34.44±0.27b 30.25±0.72a 68.99±0.51a 30.65±0.38a 65.56±0.27a</td><td></td></tr><tr><td>G120</td><td>35.24±0.83b 42.05±0.27b</td><td></td><td>13.6</td><td>38.59±0.91a</td><td>16.1</td><td></td><td>38.29±0.25a 21.64±0.83b 61.41±0.91ab 25.95±0.27b 61.71±0.25a</td><td></td><td></td><td></td></tr><tr><td>G95</td><td>33.92±0.14b 45.95±1.24b</td><td>13.6</td><td>40.09±0.17a</td><td></td><td>16.1</td><td>35.04±0.95a 20.32±0.14b 59.91±0.17b 29.85±1.24a 64.96±0.95a</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="4">19.30</td><td>G0</td><td>40.36±1.02a 46.60±1.03b</td><td></td><td>13.6</td><td>33.70±0.85b</td><td>16.1</td><td></td><td></td><td></td><td>34.55±0.76a 26.76±1.02a 66.30±0.85a 30.50±1.03a 65.45±0.76a</td><td></td></tr><tr><td>G120</td><td>45.59±0.88b 50.69±0.58a</td><td></td><td>13.6</td><td>29.83±0.58ab</td><td>16.1</td><td>31.76±0.36a 31.99±0.88b</td><td></td><td></td><td>70.17±0.58a 34.59±0.58a 68.24±0.36a</td><td></td></tr><tr><td>G95</td><td>43.57±0.43b 47.86±0.39a</td><td></td><td>13.6</td><td>31.21±0.31a</td><td>16.1</td><td>33.64±0.27a</td><td>29.97±0.43b</td><td></td><td>68.79±0.31a 31.76±0.39a 66.36±0.27a</td><td></td></tr><tr><td>G0</td><td>50.38±0.79a 51.76±0.64a</td><td></td><td>13.6</td><td>26.99±0.42b</td><td>16.1</td><td>31.11±0.38a</td><td>36.78±0.79a</td><td>73.01±0.42a 35.66±0.64a 68.89±0.38a</td><td></td><td></td></tr></table></body></html>
+
+表4不同造熵时期和不同镇压处理对冬前小麦幼苗质量影响Table 4Efectsofdiferentpost-sowingsoilcompactiontreatmentsanddiferent timesofpre-sowing irigationonthe seedlingquality of winter wheat  
+
+<html><body><table><tr><td rowspan="2">指标 Index</td><td rowspan="2">年份 Year</td><td rowspan="2">镇压处理 Comapaction</td><td colspan="5">造摘时期 Irrigation time</td></tr><tr><td>CK</td><td>19.15</td><td>19.20</td><td>19.25</td><td>19.30</td></tr><tr><td>单株生物量 Biomass per plant (g)</td><td>2013</td><td>G120</td><td>0.073±0.009a</td><td>0.077±0.007a</td><td>0.079±0.006a</td><td>0.082±0.006a</td><td>0.095±0.009a</td></tr><tr><td rowspan="10">单株次生根数</td><td></td><td>G95</td><td>0.062±0.007a</td><td>0.071±0.006a</td><td>0.072±0.005a</td><td>0.073±0.003ab</td><td>0.080±0.005b</td></tr><tr><td>2014</td><td>G0</td><td>0.060±0.007a</td><td>0.062±0.005a</td><td>0.062±0.004b</td><td>0.067±0.005b</td><td>0.071±0.008c</td></tr><tr><td></td><td>G120</td><td>0.061±0.006a</td><td>0.076±0.005a</td><td>0.077±0.003a</td><td>0.079±0.005a</td><td>0.103±0.008a</td></tr><tr><td></td><td>G95</td><td>0.058±0.005a</td><td>0.068±0.004ab</td><td>0.063±0.005b</td><td>0.070±0.001a</td><td>0.110±0.010a</td></tr><tr><td>2013</td><td>G0</td><td>0.052±0.006a</td><td>0.054±0.005b</td><td>0.066±0.006ab</td><td>0.072±0.006a</td><td>0.069±0.007b</td></tr><tr><td></td><td>G120</td><td>3.90±0.41a</td><td>4.05±0.38a</td><td>4.40±0.26a</td><td>4.60±0.39a</td><td>4.30±0.41a</td></tr><tr><td></td><td>G95</td><td>4.00±0.39a</td><td>4.25±0.35a</td><td>4.45±0.43a</td><td>4.65±0.38a</td><td>4.30±0.37a</td></tr><tr><td></td><td>G0</td><td>3.50±0.40b</td><td>3.55±0.36b</td><td>3.80±0.29b</td><td>3.95±0.38b</td><td>4.25±0.40a</td></tr><tr><td>2014</td><td>G120</td><td>3.85±0.38a</td><td>4.15±0.39a</td><td>4.15±0.27ab</td><td>4.22±0.33a</td><td>4.24±0.40a</td></tr><tr><td></td><td>G95</td><td>3.65±0.33a</td><td>4.20±0.32a</td><td>4.45±0.30a</td><td>4.14±0.37a</td><td>4.35±0.39a</td></tr><tr><td rowspan="6">单株叶面积 Leaf area per plant (cm²)</td><td>2013</td><td>G0</td><td>3.55±0.36a</td><td>3.65±0.37b</td><td>3.91±0.38b</td><td>4.00±0.40a</td><td>3.95±0.40a</td></tr><tr><td></td><td>G120</td><td>2.94±0.30ab</td><td>3.83±0.33a</td><td>3.84±0.34ab</td><td>3.91±0.28a</td><td>4.32±0.39a</td></tr><tr><td></td><td>G95</td><td>3.12±0.30a</td><td>3.54±0.35a</td><td>4.12±0.37a</td><td>4.13±0.30a</td><td>3.51±0.30b</td></tr><tr><td></td><td>G0</td><td>2.52±0.24b</td><td>2.82±0.25b</td><td>3.42±0.34b</td><td>3.31±0.34b</td><td>3.20±0.33b</td></tr><tr><td>2014</td><td>G120</td><td>2.84±0.27a</td><td>3.62±0.06a</td><td>3.71±0.25a</td><td>3.83±0.33ab</td><td>4.32±0.34a</td></tr><tr><td></td><td>G95</td><td>3.08±0.27a</td><td>3.51±0.29a</td><td>3.72±0.30a</td><td>4.53±0.41a</td><td>4.74±0.49a</td></tr><tr><td></td><td></td><td>G0</td><td>2.64±0.28a</td><td>2.83±0.28b</td><td>2.96±0.27b</td><td>2.93±0.30b</td><td>3.25±0.33b</td></tr></table></body></html>
+
+表5不同造熵时期和不同镇压处理对冬前不同时期小麦群体总茎数的主效应与方差分析Table 5Main effects and $F$ values of different post-sowing soil compaction treatments and different times of pre-sowing irrigationon stem number of winter wheat at pre-winter stage  
+
+<html><body><table><tr><td rowspan="2">年份 Year</td><td rowspan="2">分析 Analysis</td><td rowspan="2">因素 Factor</td><td rowspan="2">处理 Treatment</td><td colspan="6">日期(月-日)Date (month-day)</td></tr><tr><td>11-02</td><td>11-07</td><td>11-12</td><td>11-17</td><td>11-22</td><td>11-27</td></tr><tr><td>2013</td><td>主效应</td><td>造摘</td><td>CK</td><td>235.3±32.6c</td><td>257.5±23.8c</td><td>288.2±27.6c</td><td>296.3±28.6c</td><td>326.8±33.1c</td><td>330.2±30.5c</td></tr><tr><td></td><td>Main effect</td><td>时期</td><td>19.15</td><td>380.0±30.6b</td><td>392.3±30.7b</td><td>401.7±28.6b</td><td>413.5±33.2b</td><td>433.5±35.3b</td><td>441.0±36.4b</td></tr><tr><td></td><td></td><td>Irrigation time</td><td>19.20</td><td>400.1±30.2ab</td><td>425.3±33.8ab</td><td>435.3±34.1a</td><td>445.6±38.2a</td><td>462.7±40.3a</td><td>466.0±40.7ab</td></tr><tr><td></td><td></td><td></td><td>19.25</td><td>432.1±28.3a</td><td>459.6±30.5a</td><td>458.7±30.8a</td><td>469.5±31.5a</td><td>475.3±32.4a</td><td>481.6±35.2a</td></tr><tr><td></td><td></td><td></td><td>19.30</td><td>400.7±39.4ab</td><td>413.5±40.3b</td><td>422.2±41.2ab</td><td>441.3±41.3a</td><td>442.5±42.1ab</td><td>459.2±42.8ab</td></tr><tr><td></td><td></td><td></td><td>G0</td><td>354.3±56.8b</td><td>369.2±50.3b</td><td>383.3±40.1b</td><td>396.6±42.3b</td><td>407.2±51.4b</td><td>415.1±52.7b</td></tr><tr><td></td><td></td><td></td><td>G95</td><td>373.3±41.4ab</td><td>399.7±45.2a</td><td>414.4±38.4a</td><td>420.4±40.5a</td><td>439.3±42.3a</td><td>445.9±45.2a</td></tr><tr><td></td><td></td><td>方差分析</td><td>G120</td><td>381.3±45.4a</td><td>399.3±41.7a</td><td>405.9±41.1ab</td><td>422.7±41.7a</td><td>438.0±44.8a</td><td>445.8±43.3a</td></tr><tr><td></td><td></td><td>F values</td><td>I</td><td>166.84*</td><td>250.42*</td><td>151.77*</td><td>167.49*</td><td>99.38*</td><td>87.24*</td></tr><tr><td></td><td></td><td></td><td>G</td><td>24.76*</td><td>103.33*</td><td>75.42*</td><td>103.01*</td><td>24.07*</td><td>33.68*</td></tr><tr><td>2014</td><td></td><td></td><td>I×G</td><td>25.53*</td><td>204.02*</td><td>93.37*</td><td>102.97*</td><td>33.44*</td><td>55.74*</td></tr><tr><td></td><td>主效应 Main</td><td>造</td><td>CK</td><td>90.5±9.4c</td><td>123.0±11.5c</td><td>137.5±14.8c</td><td>144.0±17.6c</td><td>165.5±18.3c</td><td>185.5±19.6c</td></tr><tr><td></td><td>effect</td><td>时期</td><td>19.15</td><td>371.4±36.5ab</td><td>389.8±32.7a</td><td>397.3±38.5ab</td><td>401.3±39.6ab</td><td>410.3±33.1b</td><td>413.8±32.1b</td></tr><tr><td></td><td></td><td>Irrigation time</td><td>19.20</td><td>356.0±30.4b</td><td>365.5±31.5b</td><td>376.5±32.1b</td><td>385.5±33.8b</td><td>395.5±38.7b</td><td>403.5±37.6b</td></tr><tr><td></td><td></td><td></td><td>19.25</td><td>360.0±27.6b</td><td>370.0±28.3b</td><td>377.8±28.7b</td><td>387.5±30.3b</td><td>393.0±33.2b</td><td>415.5±33.8b</td></tr><tr><td></td><td></td><td></td><td>19.30</td><td>399.3±36.9a</td><td>413.5±38.7a</td><td>422.2±39.2a</td><td>441.3±40.2a</td><td>442.5±38.7a</td><td>459.2±36.5a</td></tr><tr><td></td><td></td><td>镇压</td><td>G0</td><td>305.9±41.2b</td><td>319.2±41.3b</td><td>335.2±50.5a</td><td>344.0±49.2a</td><td>353.1±57.2a</td><td>359.8±51.8b</td></tr><tr><td></td><td></td><td>Compaction</td><td>G95</td><td>308.9±33.5b</td><td>331.5±37.8ab</td><td>338.0±31.8a</td><td>345.8±30.5a</td><td>354.8±30.1a</td><td>375.5±30.5ab</td></tr><tr><td></td><td></td><td></td><td>G120</td><td>331.5±30.4a</td><td>346.8±31.2a</td><td>353.6±34.4a</td><td>366.0±33.1a</td><td>376.2±32.6a</td><td>391.2±32.4a</td></tr><tr><td></td><td></td><td>方差分析</td><td>I</td><td>83.67*</td><td>83.44*</td><td>60.54*</td><td>83.92*</td><td>81.29*</td><td>90.24*</td></tr><tr><td></td><td></td><td>F values</td><td>G</td><td>35.42*</td><td>15.27*</td><td>23.08*</td><td>3.64*</td><td>13.01*</td><td>35.13*</td></tr><tr><td></td><td></td><td></td><td>I×G</td><td>23.17*</td><td>34.01*</td><td>12.94*</td><td>2.71*</td><td>24.04*</td><td>23.14*</td></tr></table></body></html>
+
+同年度同因素处理的数据后不同小写字母表示不同处理间差异达0.05显著水平，\*表示差异达0.05显著水平。下同。Different lowercasi leters mean significant difference at0.05 level,respectively.\* means significant difference at 0.05level.Thesame below.
+
+两个年度冬前不同时期小麦群体的方差分析表明(表5)，造摘对群体的影响达到显著水平。造熵和镇压对冬前群体的交互作用也达到显著水平。
+
+# 2.3 不同造摘和镇压处理对产量构成的影响
+
+对不同造摘和镇压的主效应进行多重比较(见表6)，发现同一年份不同造摘处理对穗数影响差异显著，CK处理穗数显著低于其他造摘处理，造摘处理间也有一定的差异，年际间比较，以I9.25处理成穗数较高，也比较稳定。不同镇压重力对穗数的影响年际间处理间表现一致： $\mathrm { G 1 } 2 0 { > } \mathrm { G 9 } 5 { > } \mathrm { G 0 }$ ，且G120与G0差异达到显著水平。造摘处理与播后镇压对穗粒数的影响较小，只有 2014—2015年G120与G0差异显著，其他处理差异均不显著。镇压对千粒重的影响较小，差异没有达到显著水平；造摘处理间千粒重差异显著，但处理间不具规律性。
+
+不同造摘处理间比较，2013—2014年度随灌水时间的推迟，产量有逐渐增加的趋势，以I9.25与I9.30产量最高或较高；2014—2015年度以I9.15最高，2年均以CK处理产量最低。不同镇压重力比较，以
+
+G95与G120产量较高，以G0产量较低。年际间比较，以CK产量差异最大，2014年CK产量显著低于2015年。与2014年秋季小麦造摘差，小麦基本苗少，冬前总茎数低，成穗数不足有关。
+
+两个年度小麦产量和产量构成因素的方差分析表明(表6)，造摘对产量和产量构成因素的影响均达到显著水平。2013—2014 年镇压对穗数影响显著;2014—2015年镇压对穗数、穗粒数、千粒重影响显著。2013一2014年造和镇压对穗数、穗粒数和千粒重的交互作用显著；而2014—2015年造和镇压仅对穗粒数和千粒重的交互作用显著。造和镇压对产量的交互作用不显著，镇压对产量的主效也不显著。
+
+由表7可见，小麦产量与播前土壤含水量正相关，其中产量与 $0 { \sim } 1 0 \ \mathrm { c m }$ 土壤水分显著正相关，与 $1 0 \sim$ $2 0 \ \mathrm { c m }$ 土壤水分极显著正相关(2014年)，与其他土层相关不显著。产量与同一造熵不同镇压处理条件下土壤硬度相关性年际间差异较大。2014年正相关，其中I9.25处理达到显著水平；2015年负相关，其中CK极显著负相关。产量与同一镇压不同造摘处理条件下土壤硬度表现正相关性，但年际间处理间变化不具规律性。
+
+表6不同造摘时期和不同镇压处理对小麦产量和产量构成因素的主效应与方差分析6Main effects and $F$ values of pre-sowing irrigation and soil compaction on yield and yield compc  
+
+<html><body><table><tr><td rowspan="2">分析 Analysis</td><td rowspan="2">因素 Factor</td><td rowspan="2">处理 Treatment</td><td colspan="4">2013—2014年 Year 2013-2014</td><td colspan="4">2014—2015年 Year 2014-2015</td></tr><tr><td>穗数</td><td>穗粒数 Spike number Grain number 1000-grain</td><td>千粒重</td><td>产量 Grain yield</td><td>穗数 Spike number Grain number l0o0-grain</td><td>穗粒数</td><td>千粒重</td><td>产量 Grain yield</td></tr><tr><td>主效应 Main</td><td>造摘时期</td><td>CK</td><td>(104-hm-2) 391.6±40.2d</td><td>per spike 37.4±3.4a</td><td>weight (g)</td><td>(kg·hm-2) 47.5±3.2a 4 588.5±107.6c 320.7±67.3c</td><td>(104-hm−2)</td><td>per spike 38.2±3.9a</td><td>weight (g) 37.0±2.6b</td><td>(kg:hm-2) 1 755.0±100.6c</td></tr><tr><td rowspan="6">effect</td><td>(1) Irrigation</td><td>19.15</td><td>649.0±50.3c</td><td>33.6±3.2a</td><td></td><td>42.9±2.1b 7 594.7±100.3b 669.1±58.1ab</td><td></td><td>35.8±2.0a</td><td>39.9±1.8a</td><td>8 902.7±98.5a</td></tr><tr><td>time</td><td>19.20</td><td>660.2±56.9bc</td><td>33.2±3.1a</td><td></td><td>42.5±2.7b 7 852.0±54.2ab 666.7±40.2b</td><td></td><td>34.0±1.8a</td><td>37.0±2.0b</td><td>7 897.0±83.7b</td></tr><tr><td>19.25</td><td></td><td>683.1±51.7b</td><td>35.2±2.5a</td><td></td><td>41.5±2.3c 8 012.6±88.7ab 690.6±43.7a</td><td></td><td>31.6±2.4a</td><td>38.9±1.9a</td><td>7 734.3±70.6b</td></tr><tr><td>19.30</td><td></td><td>743.0±63.2a</td><td>35.6±3.0a</td><td></td><td>43.2±2.9b 8 560.0±98.6a 672.1±40.0ab</td><td></td><td>32.7±3.0a</td><td>39.8±2.2a</td><td>7 933.8±100.3b</td></tr><tr><td>镇压(G) G0</td><td></td><td>619.7±73.3b</td><td>34.4±4.0a</td><td></td><td>43.5±5.0a 7 249.0±114.5a 596.9±90.2b</td><td></td><td>36.1±4.1a</td><td>38.7±4.5a</td><td>6 850.9±186.9a</td></tr><tr><td>Compaction</td><td>G95</td><td>625.4±52.8ab</td><td>34.8±2.9a</td><td>43.5±2.1a</td><td>7 321.6±79.2a</td><td>603.8±65.3ab</td><td>35.5±3.7ab</td><td>38.5±2.7a</td><td>6 844.6±88.3a</td></tr><tr><td rowspan="4" colspan="2">方差分析 F value</td><td>G120</td><td>631.1±58.1a</td><td>35.8±3.3a</td><td>43.6±3.0a</td><td>7 394.1±83.1a</td><td>608.8±78.2a</td><td>31.7±2.3b</td><td>38.7±2.6a</td><td>6 838.3±98.2a</td></tr><tr><td>I</td><td>62.65*</td><td>0.95*</td><td>19.22*</td><td>5.47*</td><td>83.59*</td><td>2.46*</td><td>16.74*</td><td>7.55*</td></tr><tr><td>G</td><td>3.16*</td><td>0.54</td><td>0.12</td><td>0.29</td><td>3.61*</td><td>4.07*</td><td>2.43*</td><td>0</td></tr><tr><td>[xG</td><td>4.54*</td><td>2.12*</td><td>2.71*</td><td>0.02</td><td>0.47</td><td>1.04*</td><td>1.78*</td><td>0.02</td></tr></table></body></html>
+
+表7小麦产量与播前 $\mathbf { 0 { \sim } 6 0 ~ c m }$ 不同土层土壤含水量及不同造摘时期和不同镇压处理下土壤硬度的相关性Table 7Correlation coefficients between grain yield and pre-sowing soil moisture and soil hardness  
+
+<html><body><table><tr><td colspan="6">年份</td><td rowspan="2"></td><td colspan="8">土壤硬度 Soil hardness</td></tr><tr><td rowspan="2">Year</td><td colspan="6">Soil moisture of different soil layer</td><td colspan="4">镇压处理 Compaction treatment</td><td colspan="3">造摘时间Irrigation time</td></tr><tr><td>10</td><td>20</td><td>30</td><td>40</td><td>50</td><td>60</td><td>CK</td><td>19.15</td><td>19.20</td><td>19.25</td><td>19.30</td><td>G0</td><td>G95</td><td>G120</td></tr><tr><td>2014</td><td>0.921*</td><td>0.984**</td><td>0.807</td><td>0.861</td><td>0.854</td><td>0.817</td><td>0.982</td><td>0.989</td><td>0.970</td><td>0.999*</td><td>0.986</td><td>0.913*</td><td>0.864</td><td>0.421</td></tr><tr><td>2015</td><td>0.927*</td><td>0.873</td><td>0.768</td><td>0.748</td><td>0.579</td><td>0.562</td><td>-1.000**</td><td>-0.996</td><td>-0.974</td><td>-0.990</td><td>-0.985</td><td>0.882</td><td>0.721</td><td>0.804</td></tr></table></body></html>
+
+\*与\*\*表示差异达0.05显著水平和0.01极显著水平。\*and \*\* mean significant corelationat 0.05and0.01levels,respectively
+
+# 3 讨论与结论
+
+# 3.1造摘和播后镇压对土壤耗水特性的影响
+
+本研究条件下，冬前阶段麦田蒸散量为 $1 9 . 7 8 \sim$ $5 1 . 7 6 ~ \mathrm { m m }$ ，与李梦哲等 $^ { [ 6 ] } ( 1 0 . 6 { \sim } 4 7 . 9 ~ \mathrm { m m } )$ 结果相似。本研究2年I9.15、I9.20、I9.25、I9.30等处理播前$0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土壤含水量分别比CK平均高 $1 9 . 5 5 \%$ $2 6 . 3 8 \%$ / $3 1 . 5 8 \%$ 和 $4 8 . 1 6 \text{‰}$ 从农田蒸散量来看，2013年I9.15、I9.20、I9.25、I9.30等处理分别比CK高$74 . 0 7 \%$ 、 $56 . 1 0 \%$ 、 $3 8 . 8 4 \%$ 和 $76 . 9 0 \%$ ，2014 年则高$45 . 6 3 \%$ 、 $87 . 7 3 \%$ 、 $9 6 . 6 1 \%$ 和 $1 1 9 . 5 6 \%$ ，可见，随农田水分含量增高，其蒸散量有增大的趋势[13]。因此,从水分消耗的角度，土壤水分含量越低，蒸散量越少[13]。但结合生产实际，I9.20 和I9.25 处理，既能满足小麦出苗对水分的需求，又能适度降低麦田冬前阶段蒸散量(特别是2014年I9.20和I9.25处理农田蒸散量比I9.15处理还要低)，是比较适宜的造时期。
+
+镇压处理冬前阶段土壤耗水差异较小，从农田蒸散量来看以不镇压的G0最高。2013年G120、G95等镇压处理分别比不镇压G0减少蒸散量 $1 6 . 0 1 \%$ 和$8 . 6 3 \%$ ,2014年则为 $1 0 . 5 6 \%$ 和 $4 . 1 6 \text{‰}$ 从数值上可以看出，镇压保熵明显，有助于提高土壤含水量[14]。结合本研究冬前小麦群个体性状和表层土壤硬度，发现镇压具有踏实土壤和蹲苗促壮的功能。联系到张迪等[1]结果，在雨雪天气镇压处理地温显著高于不镇压处理。综上可见，播后镇压具有很好的节水增产效果[15]。
+
+另外，从土壤供水变化来看，同一造摘水处理，I9.30以G95土壤供水最低，其他处理均以G120 土壤供水最低。充分说明摘情较好的麦田，使用较轻的镇压器进行镇压效果好；摘情差的麦田，使用较重的镇压器镇压效果好[1,10]。
+
+# 3.2造与播后镇压对小麦生长发育和产量的影响
+
+本研究2年19.15、19.20、I9.25、I9.30等不同造摘处理小麦生物量分别比CK高 $1 1 . 4 8 \% . 1 4 . 4 8 \%$ （20$2 1 . 0 4 \%$ 和 $4 4 . 2 6 \%$ ，次生根条数高 $6 . 2 4 \%$ 、 $12 . 0 7 \%$ /$1 3 . 8 4 \%$ 和 $1 3 . 1 0 \%$ ，叶面积高 $1 7 . 5 6 \%$ 、 $2 2 . 9 8 \%$ 1$2 5 . 2 6 \%$ 和 $2 7 . 3 9 \%$ 。在本研究条件下，情条件越好麦田苗质量越高[16]。与造摘处理相比镇压对幼苗的影响较小，且镇压处理对小麦冬前幼苗的影响与水分也不同。从幼苗质量来看，同一水分条件下不镇压的处理受影响程度，以叶面积最大，次生根次之，生物量最小[17]。
+
+本研究冬前群体总茎数不同处理间有一定差异。从2年结果看，与CK相比冬前群体总茎数均以造摘水处理较高。CK年际间差异较大，2014年群体总茎数明显低于2013年，主要与2014年玉米灌浆后期降雨偏少熵情较差有关[11]。2014年CK处理，由于底不足出苗差，后期补水也未能减少产量损失。说明提高播种质量的重要性，更说明适宜群体是小麦丰产稳产的关键[18]。该地区年际间降雨时空差异较大[5]，从本研究结果看，CK 处理群体总茎数与降雨年型依附性较强，不利于小麦稳产[4-5]。结合产量与播后镇压土壤硬度相关性不具规律性，但与耕层土壤水分含量显著正相关的结论，可以认为，摘情适宜是小麦播后镇压的基础，镇压又是提摘壮苗的保障[1,14-15]。考虑到土壤硬度与摘情、土质及镇压强度等多因素有关，因此确定产量与镇压的相关关系，还需要在精确控制干扰因素的条件下做更深入的研究。
+
+结合小麦玉米一体化生产，小麦造摘水提前到9月20—25日，既可满足上茬玉米灌浆对水分的需求，又为小麦储备了造摘水，起到了增墒蓄水、促产增收的作用[19]。本研究条件下，小麦播种后推荐 $9 5 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 1 }$ 重量进行镇压，摘情较好的麦田，可适度减少镇压重量，墒情较差的麦田，可适度增加镇压器重量。
+
+# 参考文献 References
+
+[1]张迪，王红光，马伯威，等．播后镇压和冬前灌溉对土壤条 件和冬小麦生育特性的影响[J]．麦类作物学报,2014,34(6): 787-794 Zhang D,Wang HG, Ma B W,et al.Effects of post-sowing soil compaction and pre-winter irrigation on soil conditions and growth and development of winter wheat[J].Journal of Triticeae Crops,2014,34(6):787-794   
+[2]周小萍，陈百明，张添丁．中国"藏粮于地"粮食生产能力 评估[J].经济地理,2008,28(3):475-478 Zhou XP,Chen B M,Zhang TD.Evaluating grain productive capacity of China for“storing food in land"[J].Economic Geography,2008,28(3):475-478   
+[3]赵晶晶，刘良云，徐自为，等．华北平原冬小麦总初级生产 力的遥感监测[J]．农业工程学报,2011,27(S1):346-351 Zhao JJ,Liu L Y,Xu Z W,et al.Monitoring winter wheat GPP in Huabei Plain using remote sensing and flux tower[J]. Transactions of the CSAE,2011,27(S1):346-351   
+[4] Zhang X Y,Chen S Y,Sun H Y,et al.Dry matter,harvest index,grain yield and water use efficiency as affected by water supply in winter wheat[J]. Irrigation Science,2008,
+
+27(1): 1-10
+
+产量、效益和水分利用比较[J]．中国生态农业学报，2015, 23(5): 535-543 Chen SY,Zhang XY, Shao LW,et al.A comparative study of yield，cost-benefit and water use efficiency between monoculture of spring maize and double crops of wheat-maize under rain-fed condition in the North China Plain[J].Chinese Journal of Eco-Agriculture,2015,23(5): 535-543   
+[6] 李梦哲，张维宏，张永升，等．不同水分管理下全田土下微 膜覆盖的冬小麦耗水特性[J]．中国农业科学，2013,46(23): 4893-4904 Li M Z,Zhang W H, Zhang Y S,et al. Water consumption characteristics of winter wheat with soil-coated ultrathin plastic-film mulching under different water managements[J]. Scientia Agricultura Sinica,2013,46(23): 4893-4904   
+[7] 周丽丽，梁效贵，高震，等．基于 CERES-Wheat 模型的沧 州地区冬小麦需水量分析[J]．中国生态农业学报，2015, 23(10): 1320-1328 Zhou L L,Liang X G, Gao Z,et al. Analysis of water demand for winter wheat production in Cangzhou area using CERESWheat model[J]. Chinese Journal of Eco-Agriculture,2015, 23(10):1320-1328   
+[8]党红凯，曹彩云，郑春莲，等．小麦提前造摘灌水对玉米后期 光合与产量的影响[J].农业机械学报,2015,46(10):127-135 Dang H K, Cao C Y, Zheng C L,et al. Effect of pre-sowing irrigation advancement of winter wheat on photosynthesis and yield of summer maize at later growth stage[J]. Transactions of the CSAM,2015,46(10): 127-135   
+[9] 付雪丽，张惠，贾继增，等．冬小麦-夏玉米"双晚"种植模 式的产量形成及资源效率研究[J]．作物学报，2009,35(9): 1708-1714 Fu X L,Zhang H, Jia J Z,et al. Yield performance and resources use efficiency of winter wheat and summer maize in double late-cropping system[J].Acta Agronomica Sinica, 2009,35(9): 1708-1714   
+[10]亢秀丽，靖华，马爱平，等．小麦播种过程板结疏松装置的 研制与应用[J]．中国农学通报,2015,31(36):31-34 Kang X L, Jing H, Ma A P, et al. Research and application of the loosen device applied in soil hardening of wheat sowing process[J]. Chinese Agricultural Science Bulletin，2015, 31(36): 31-34   
+[11] Feng D, Zhang JP, Cao C Y, et al. Soil salt accumulation and crop yield under long-term irrigation with saline water[J]. Journal of Irrigation and Drainage Engineering,2015,141(12): 04015025   
+[12] 党红凯，郑春莲，马俊永，等．冬季抗旱措施对小麦耗水特 征与生育性状的影响[J]．中国生态农业学报，2012,20(9): 1127-1134 Dang HK, Zheng C L,Ma JY, et al. Effects of winter drought resistant strategies on wheat water consumption and growth characteristics[J]. Chinese Journal of Eco-Agriculture,2012, 20(9): 1127-1134   
+[13] Sun H Y,Liu C M, Zhang X Y, et al. Effects of irrigation on water balance,yield and WUE of winter wheat in the North China Plain[J].Agricultural Water Management,20o6,85(1/2): 211-218   
+[14]刘秀位，苗文芳，王艳哲，等．冬前不同管理措施对土壤温 度和冬小麦早期生长的影响[J]．中国生态农业学报，2012, 20(9):1135-1141 LiuX W,Miao WF,Wang YZ,et al.Effects of different pre-winter management practices on soil temperature and winter wheat seedling growth[J].Chinese Journal of EcoAgriculture,2012,20(9):1135-1141   
+[15]张胜爱，郝秀钗，崔爱珍，等．不同播种措施对河北冬小麦 产量影响研究[J]．中国农学通报,2013,29(15):98-102 Zhang S A,Hao X C,Cui A Z,et al.Effects of different sowing practices on the yield of winter wheat in Hebei Province[J].Chinese Agricultural Science Bulletin，2013, 29(15):98-102   
+[16]张立勤，马忠明，杨君林，等．储水灌溉及覆膜对土壤水分 及小麦出苗的影响[J]．灌溉排水学报，2012,31(3):103-106 Zhang LQ,Ma Z M,Yang JL，et al.Effects of storage irrigation quota and plastic film mulching time on soil water content and spring wheat emergence[J]. Journal of Irrigation and Drainage,2012,31(3):103-106   
+[17]李志洪，王淑华．土壤容重对土壤物理性状和小麦生长的 影响[J].土壤通报,2000,31(2):55-57 Li Z H,Wang S H. Effects of soil bulk density on soil physical properties and wheat growth[J].Chinese Journal of Soil Science,2000,31(2): 55-57   
+[18]Wang J,Wang EL,Yang XG,etal. Increased yield potential of wheat-maize cropping system in the North China Plain by climate change adaptation[J]. Climatic Change,2012,113(3/4): 825-840   
+[19]党红凯，李伟，曹彩云，等．乳熟后灌溉对夏玉米水分利用 效率及干物质转运的影响[J]．农业机械学报，2014，45(5): 131-138 Dang HK,Li W, Cao CY,etal.Effects of late milk irrigation on water use efficiency and dry matter distribution of maize[J].Transactions of the Chinese Society for Agricultural Machinery,2014,45(5):131-138

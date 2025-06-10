@@ -1,0 +1,879 @@
+[
+    {
+        "type": "text",
+        "text": "Analysis on the Azimuth Shift of a Moving Target in SAR Image ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jiefang Yang1, 2,3,\\* and Yunhua Zhang1, 2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract—As we know, a moving target's azimuth shift in synthetic aperture radar (SAR) image is proportional to the projected velocity of its across-track velocity in the slant-range plane.Therefore, we can relocate the moving target in SAR image after estimating its velocity. However, when the Doppler ambiguity occurs due to the limitation of the SAR system's pulse repetition frequency (PRF), this relationship will not hold any more,in this case,we cannot relocate the moving target to the right position. The Doppler spectrum of a moving target with arbitrary velocity may entirely situate in a PRF band or span in two neighboring PRF bands. In this paper,we conduct a detailed theoretical analysis on the moving target's azimuth shift for these two scenarios. According to the derived formulas, one can relocate a moving target with arbitrary velocity to the right position no matter the Doppler ambiguity occurs or not. Simulated data are processed to validate the analysis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since synthetic aperture radar (SAR) can obtain high-resolution image of an interested scene in all times and all weather conditions [1],it has been widely used in both civilian and military applications. However，if there are moving targets exist in the observed scene,the moving targets are usually azimuthally displaced and defocused in SAR image if their echoes are processed in the same way as that for stationary echoes [2]. SAR cannot produce focused images for both stationary and moving targets simultaneously, since they have different Doppler signatures.Therefore, moving targets should be processed specially. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The processing of ground moving targets has been a very hot topic for SAR, including their detection， imaging and relocation， etc.. At present, there have been a lot of literatures dealing with these issues [3-7]. The general processng scheme for a ground moving target is as follows: we first suppress the surrounding stationary clutter and then detect it before imaging，and finally relocate it to the right position in SAR image after focused imaging. The typical moving target detection methods for multi-channels SAR are displaced phase center antenna (DPCA) [8,9], along-track interferometry (ATI) [10-13], space-time adaptive processing (STAP）[14],etc. Whereas,the typical detection methods for single-channel SAR are Doppler domain filtering [i5],reflectivity displacement method (RDM) [16],symmetric defocusing [17], etc. The moving target imaging usualy includes range cell migration correction (RCMC) and motion parameters estimation (MPE).The common methods for RCMC include Keystone transform [18-23],Radon transform [24-26],etc. The MPE generally bases on time-frequency techniques, e.g., Wigner-Vill distribution (WVD)[27],fractional Fourier transform (FrFT)[28], polynomial Fourier transform (PFT) [29], etc. As we know,the moving target’s azimuth shift in SAR image is proportional to the projected velocity of the target's across-track velocity in the slant-range plane [30]. Therefore,one can relocate the moving target in SAR image after obtaining its across-track velocity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In real situations, the ground moving target's Doppler bandwidth is usually smaller than SAR system's pulse repetition frequency (PRF), i.e.,the sampling rate in azimuth. According to the Nyquist Theorem, we can conduct imaging processing to it. However, the processable spectrum range for SAR is[-PRF/2, PRF/2], once the target's across-track velocity is large enough, the corresponding large Doppler centroid will make the Doppler spectrum out of [ $-$ PRF/2, PRF/2], i.e., the Doppler ambiguity will occur. In this case,the proportion relation mentioned above will not hold any more,by which we cannot relocate the moving target to the right position. In general, the Doppler spectrum of a moving target with arbitrary across-track velocity has the following two diferent scenarios:(1） it is entirely situated ina PRF band; (2) it is spanned in two neighboring PRF bands [31,32]. In this paper, we will conduct a detailed theoretical analysis on the moving target's azimuth shift in SAR image for these two scenarios. Simulated data are processed to show that we can obtain the correct azimuth shift in SAR image for a moving target with arbitrary across-track velocity according to the derived formulas, which is beneficial for the moving target relocation in SAR imaging. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The remainder of this paper is organized as follows. In Section 2, the signal model of a SAR observing a moving target is introduced.In Section 3,we present the analysis on the moving target's azimuth shift in SAR image. In Section 4, the simulated data are processed to validate the analysis. Finally, the conclusion is drawn in Section 5. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.SIGNAL MODEL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this section, we briefly introduce the signal model for the received echo of a moving target. Figure 1 shows the geometry of a SAR in observation of a ground moving target. The moving target is modeled as a point target. We use the linear frequency modulated (LFM) signal as the transmitted signal and the baseband echo can be expressed as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\tau , \\eta ) = \\sigma \\mathrm { r e c t } \\left[ \\frac { \\tau - 2 R ( \\eta ) / c } { T _ { p } } \\right] \\mathrm { r e c t } \\left( \\frac { \\eta } { T _ { a } } \\right) \\times \\exp \\left\\{ - j \\frac { 4 \\pi f _ { c } } { c } R ( \\eta ) - j \\pi K \\left( \\tau - \\frac { 2 R ( \\eta ) } { c } \\right) ^ { 2 } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1389ac1e371e5c98a060b3a08189edd3bcbdf4cdeb147209efc87f76106deca5.jpg",
+        "img_caption": [
+            "Figure 1. SAR geometry in observation of a ground moving target. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/90994ae1caddbdda064360496c1b4d4fc93e661007c1f8896f294459961797cc.jpg",
+        "img_caption": [
+            "Figure 2.Schematic relationship between $v _ { r }$ and Uy "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma$ denotes the backscattering coefficient of the target,and $\\tau$ and $\\eta$ are the range-time and azimuthtime,respectively. $R ( \\eta )$ is the instantaneous slant range between the SAR and the target. $T _ { p }$ ， $f _ { c }$ and $K$ denote the LFM signal’s time duration, carrier frequency and slope, respectively. $\\mathbf { \\nabla } T _ { a }$ denotes the target exposure time in azimuth. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to Figure 1, $R ( \\eta )$ can be expressed as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( \\eta ) = \\sqrt { \\left( V \\eta - x _ { 0 } - v _ { x } \\eta - \\frac { 1 } { 2 } a _ { x } \\eta ^ { 2 } \\right) ^ { 2 } + \\left( y _ { 0 } + v _ { y } \\eta + \\frac { 1 } { 2 } a _ { y } \\eta ^ { 2 } \\right) ^ { 2 } + H _ { 0 } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Figure 1, $V$ and $H _ { 0 }$ denote the velocity and height of SAR platform,respectively. $\\vartheta$ denotes the incident angle of SAR. $( x _ { 0 } , y _ { 0 } )$ denotes the moving target position in the scene at $\\eta = 0$ ： $v _ { x }$ and （204 $a _ { x }$ denote the target's along-track velocity and acceleration, respectively. $v _ { y }$ and $a _ { y }$ denote the target's across-track velocity and acceleration, respectively. We define the signs of $v _ { x }$ and $a _ { x }$ as positive when the target moves in the same direction as the SAR platform, otherwise as negative, whereas the signs of $v _ { y }$ and $a _ { y }$ as positive when the target moves far away from the track of SAR platform, otherwise is negative. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We conduct matched filtering [1] on the baseband echo signal, and the output in $( \\tau , \\eta )$ domain is expressed as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 1 } \\left( \\tau , \\eta \\right) = \\sigma \\cdot T _ { p } \\cdot \\mathrm { s i n c } \\left( \\tau - \\frac { 2 R ( \\eta ) } { c } \\right) \\exp \\left\\{ - j \\frac { 4 \\pi f _ { c } } { c } R ( \\eta ) \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Doppler centroid determines the target's azimuth position in SAR image,and the Doppler rate determines the focus degree of its image, which are two most important parameters in SAR processing. The moving target’s Doppler centroid $f _ { d c \\_ m }$ and Doppler rate $K _ { d _ { - } m }$ are respectively expressed as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { f _ { d c . m } = - \\displaystyle \\frac { 2 R ^ { \\prime } ( 0 ) } { \\lambda } = - \\displaystyle \\frac { 2 } { \\lambda } \\displaystyle \\frac { x _ { 0 } \\left( v _ { x } - V \\right) + y _ { 0 } v _ { y } } { R _ { 0 } } } } \\\\ { { K _ { d . m } = - \\displaystyle \\frac { 2 R ^ { \\prime \\prime } ( 0 ) } { \\lambda } = - \\displaystyle \\frac { 2 } { \\lambda } \\left\\{ \\displaystyle \\frac { \\left( v _ { x } - V \\right) ^ { 2 } + v _ { y } ^ { 2 } + a _ { x } x _ { 0 } + a _ { y } y _ { 0 } } { R _ { 0 } } - \\displaystyle \\frac { \\left[ x _ { 0 } \\left( v _ { x } - V \\right) + y _ { 0 } v _ { y } \\right] ^ { 2 } } { R _ { 0 } ^ { 3 } } \\right\\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In (4)-(5), $\\lambda$ denotes the wavelength of the transmitted signal. On the_other hand, for a stationary target locating at $( x _ { 0 } , y _ { 0 } )$ ， its Doppler centroid $f _ { d c . s }$ and Doppler rate $K _ { d _ { \\bf - } s }$ are expressed as follows, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { f _ { d c \\ L _ { - } s } = \\displaystyle \\frac { 2 x _ { 0 } V } { \\lambda R _ { 0 } } } } \\\\ { { { \\cal K } _ { d \\ L _ { - } s } = \\displaystyle - \\frac { 2 V ^ { 2 } } { \\lambda R _ { 0 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From (4)-(7) we observe that due to the influence of motion, the moving target's Doppler centroid and Doppler rate are different from that of stationary targets. In the following Section 3, we willanalyze the influence of Doppler centroid on the moving target's azimuth shift in SAR image. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.THEORETICAL ANALYSIS ON THE AZIMUTH SHIFT OF A MOVING TARGET INSARIMAGE ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In SAR imaging processing，we use the stationary target's Doppler rate $K _ { d _ { \\bf - } s }$ to process the moving target the azimuth position of the moving target in SAR image is then as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { x } _ { 0 } = \\frac { \\lambda R _ { 0 } } { 2 V } f _ { d c . m } = x _ { 0 } \\left( 1 - \\frac { v _ { x } } { V } \\right) - \\frac { y _ { 0 } v _ { y } } { V }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At this moment,the ofset of the moving target's imaging position from its true position is expressed as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } = \\hat { x } _ { 0 } - x _ { 0 } = - \\frac { x _ { 0 } v _ { x } } { V } - \\frac { y _ { 0 } v _ { y } } { V }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since SAR imaging processing is in the slant-range plane, we use $v _ { r }$ to denote the projection of （20 $v _ { y }$ in the slant-range plane. The relationship between $v _ { r }$ and $v _ { y }$ is shown in Figure 2,which can be expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { y _ { 0 } } { R _ { 0 } } } = { \\frac { v _ { r } } { v _ { y } } } = { \\frac { a _ { r } } { a _ { y } } } = \\sin \\vartheta\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the convenience of analysis,we assume that $x _ { 0 } = 0$ in the following description. Then， the moving target's Doppler centroid can be expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c . m } = - \\frac { 2 v _ { r } } { \\lambda }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and its azimuth shift in SAR image can be expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta x = - \\frac { v _ { r } R _ { 0 } } { V }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From (12） we can observe that the azimuth shift is proportional to $v _ { r }$ . In general, one can relocate the moving target in SAR image according to (12) [30]. However,(12) is valid only when the Doppler ambiguity does not occur for the moving target. In many real situations, if $v _ { r }$ is large and the PRF is relatively small, the Doppler ambiguity will occur, and (12) will not hold any more. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the following, we willconduct a detailed theoretical analysis about the azimuth shift of a moving target with arbitrary velocity, no matter the Doppler ambiguity occurs nor not. Figure 3 depicts the two scenarios where the spectrum of a moving target with arbitrary velocity may situate. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Case I: entirely within a PRF band. The schematic spectrum is shown in Figure 3(a), in this case, the target's spectrum exists as a whole. We use $f _ { \\eta - m t }$ to denote the moving target's spectrum, and it satisfies ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\eta - m t } \\in n \\mathrm { { P R F } } + [ - \\mathrm { { P R F } } / 2 , \\mathrm { { P R F } } / 2 ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $n = 0 , \\pm 1 , \\pm 2 , \\pm 3 , . . . .$ If $n = 0$ , it means that the Doppler ambiguity does not occur. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Case $\\pi$ : spans in two neighboring PRF bands. The schematic spectrum is_shown in Figure 3(b), in this case, the target's spectrum is split into two parts, which are denoted by $f _ { \\eta _ { 1 } - m t }$ and $f _ { \\eta _ { 2 } - m t }$ , respectively, and satisfy ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { f _ { \\eta _ { 1 } - m t } \\in n { \\mathrm { P R F } } + [ - \\mathrm { P R F } / 2 , \\mathrm { P R F } / 2 ] } \\\\ { f _ { \\eta _ { 2 } - m t } \\in ( n - 1 ) \\cdot \\mathrm { P R F } + [ - \\mathrm { P R F } / 2 , \\mathrm { P R F } / 2 ] } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae92131f50754cc41952975118e29e957d6235f1969d652a8adab7aeb42d5405.jpg",
+        "img_caption": [
+            "Figure 3. Schematic spectrum of a moving target. (a) Case $I$ : entirely within a PRF band.(b) Case $I I$ : spans in two neighboring PRF bands. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $n = 0 , \\pm 1 , \\pm 2 , \\pm 3 , . . .$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The processable Doppler spectrum range for SAR is [-PRF/2, PRF/2], i.e., the unambiguous range for the Doppler centroid $f _ { d c , m }$ is [-PRF/2, PRF/2]. Then, we can define the unambiguous range for （20 $v _ { r }$ as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { r } \\in [ - v _ { r - p r f } , v _ { r - p r f } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $v _ { r _ { - } p r f } = \\lambda \\cdot \\mathrm { P R F } / 4$ , and the azimuth shift corresponding to $v _ { r - p r f }$ is ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta x _ { p r f } = - \\frac { v _ { r \\_ p r f } R _ { 0 } } { V }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At this moment, $v _ { r }$ can be expressed as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { r } = v _ { r \\_ b } + n \\cdot v _ { r \\_ p r f }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $n ~ = ~ \\mathrm { f i x } ( v _ { r } / v _ { r \\_ p r f } )$ is called the ambiguity number， fix $( \\cdot )$ denotes the operation of taking a value to the integer towards zero, e.g., $\\operatorname { f i x } ( - 1 . 9 ) ~ = ~ - 1$ ， $\\mathrm { f i x } ( 2 . 5 ) ~ = ~ 2 \\$ . Meanwhile, we can obtain （204号 $v _ { r \\_ b } \\in [ - v _ { r \\_ p r f } , v _ { r \\_ p r f } ]$ , and the azimuth shift corresponding to $\\boldsymbol { v } _ { r \\_ b }$ is ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta x _ { b } = - \\frac { v _ { r \\_ b } R _ { 0 } } { V }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the following, we will use $\\Delta x _ { b }$ and $\\Delta x _ { p r f }$ to represent the azimuth shift of a moving target corresponding to the above two scenarios. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Case I:entirely withina PRF band. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this case, the moving target's Doppler spectrum keeps as a whole. No matter how large $v _ { r }$ is, the azimuth shift is always within $[ - | \\Delta x _ { p r f } |$ ， $| \\Delta x _ { p r f } | ]$ . In the following, we will analyze the two situations where $n$ is even and $n$ is odd, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) $n$ is even ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It can be written as $n = 2 k$ ( $k = \\pm 0 , \\pm 1 , \\pm 2 , \\ldots )$ ，and $v _ { r } = v _ { r \\_ b } + 2 k \\cdot v _ { r \\_ p r f }$ . The moving target'; )oppler centroid can be expressed as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c . m } = - \\frac { 2 \\left( v _ { r . b } + 2 k \\cdot v _ { r . p r f } \\right) } { \\lambda } = - \\frac { 2 v _ { r . b } } { \\lambda } - k \\cdot \\mathrm { P R F }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since $k \\cdot \\mathrm { P R F }$ has not any effect on SAR imaging processing, it can be ignored. Then,we obtain ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c 0 \\_ m } = - \\frac { 2 v _ { r \\_ b } } { \\lambda }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At this moment, the moving target's Doppler spectrum entirely locates in [-PRF/2, PRF/2]. The moving target image's azimuth shift is ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } = \\frac { \\lambda R _ { 0 } } { 2 V } f _ { d c 0 \\_ m } = \\Delta x _ { r \\_ b }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) $n$ is odd ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "f $n \\ > \\ 0$ ， it can be expressed as $n ~ = ~ 2 k + 1$ ( $k = 0 , 1 , 2 , \\ldots ,$ .At present，we have $\\begin{array} { r l } { { v _ { r } } } & { { } = } \\end{array}$ $v _ { r \\_ b } + ( 2 k + 1 ) \\cdot v _ { r \\_ p r f }$ ， as well as $v _ { r - b } \\geq 0$ . The moving target's Doppler centroid can be expressed as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c _ { - } m } = - \\frac { 2 \\left[ v _ { r . b } + ( 2 k + 1 ) \\cdot v _ { r . p r f } \\right] } { \\lambda } = - \\frac { 2 v _ { r . b } } { \\lambda } - \\frac { \\mathrm { P R F } } { 2 } - k \\cdot \\mathrm { P R F }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After removing the $k \\cdot \\mathrm { P R F }$ term,we obtain ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c - 1 - m } = - \\frac { 2 v _ { r \\mathit { \\mathrm { - } b } } } { \\lambda } - \\frac { \\mathrm { P R F } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since $v _ { r \\_ b } \\geq 0$ ，we can conclude that $f _ { d c - 1 - m } \\in \\mathsf { \\Gamma } [ - 3 \\mathrm { P R F / 2 }$ ， $-$ PRF/2], i.e., the moving target's Doppler spectrum entirely locates in $[ - 3 \\mathrm { P R F / 2 , ~ - P R F / 2 } ]$ . In SAR imaging processing, the spectrum will be right-shifted for PRF and locate in[-PRF/2,PRF/2],then the corresponding Doppler centroid changes to ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c 0 \\_ m } = f _ { d c - 1 \\_ m } + \\mathrm { P R F } = - \\frac { 2 v _ { r \\_ b } } { \\lambda } + \\frac { \\mathrm { P R F } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The moving target image's azimuth shift is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } = \\frac { \\lambda R _ { 0 } } { 2 V } f _ { d c 0 . m } = \\frac { \\lambda R _ { 0 } } { 2 V } \\left( - \\frac { 2 v _ { r . b } } { \\lambda } + \\frac { \\mathrm { P R F } } { 2 } \\right) = \\Delta x _ { r . b } + | \\Delta x _ { p r f } |\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "If $n \\ < \\ 0$ ，it can be written as $~ n ~ = ~ - ( 2 k + 1 )$ 0 ${ \\mathit { k } } \\ = \\ 0 , 1 , 2 , \\ldots ,$ ).At present，we can obtain （204号 $v _ { r } = v _ { r \\_ b } - ( 2 k + 1 ) \\cdot v _ { r \\_ p r f }$ ， and at the same time $v _ { r - b } \\leq 0$ . The moving target's Doppler centroid can be expressed as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c . m } = - \\frac { 2 v _ { r } } { \\lambda } = - \\frac { 2 \\left[ v _ { r . b } - ( 2 k + 1 ) \\cdot v _ { r . p r f } \\right] } { \\lambda } = - \\frac { 2 v _ { r . b } } { \\lambda } + \\frac { \\mathrm { P R F } } { 2 } + k \\cdot \\mathrm { P R F }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We remove the $k \\cdot \\mathrm { P R F }$ term as before,and obtain ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c 1 \\_ m } = - \\frac { 2 v _ { r \\_ b } } { \\lambda } + \\frac { \\mathrm { P R F } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since $v _ { r , b } \\leq 0$ , we can conclude that $f _ { d c 1 \\_ m } \\in [ \\mathrm { P R F / 2 }$ , 3PRF/2], i.e., the targets Doppler spectrum entirely locates in [PRF/2,3PRF/2]. In SAR imaging processing, the spectrum willbe left-shifted for PRF and locate in [-PRF/2, PRF/2], then the corresponding Doppler centroid changes to ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c 0 \\_ m } = f _ { d c 1 \\_ m } - \\mathrm { P R F } = - \\frac { 2 v _ { r \\_ b } } { \\lambda } - \\frac { \\mathrm { P R F } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The azimuth shift of the moving target in SAR image is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } = \\frac { \\lambda R _ { 0 } } { 2 V } f _ { d c 0 . m } = \\frac { \\lambda R _ { 0 } } { 2 V } \\left( - \\frac { 2 v _ { r . b } } { \\lambda } - \\frac { \\mathrm { P R F } } { 2 } \\right) = \\Delta x _ { r . b } - | \\Delta x _ { p r f } |\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Case $\\pmb { I I }$ : spans in two neighboring PRF bands. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this case, the moving target's Doppler spectrum is split into two parts， which respectively correspond to two images in the SAR image. As same as above, in the following we willanalyze the two situations, i.e., $n$ is even and $n$ is odd, respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) $n$ is even ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "f $n \\geq 0$ , it can be expressed as $n = 2 k$ 0 $k = 0 , 1 , 2 , \\ldots ,$ ). At this moment, $v _ { r } = v _ { r \\_ b } + 2 k \\cdot v _ { r \\_ p r f }$ and at the same time, $v _ { r , b } \\geq 0$ . The moving target's Doppler centroid can be expressed as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c . m } = - { \\frac { 2 v _ { r } } { \\lambda } } = - { \\frac { 2 \\left( v _ { r . b } + 2 k \\cdot v _ { r . p r f } \\right) } { \\lambda } } = - { \\frac { 2 v _ { r . b } } { \\lambda } } - k \\cdot { \\mathrm { P R F } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The $k \\cdot$ PRF term is removed as above. Since $v _ { r , b } \\geq 0$ , the moving target's Doppler spectrum spans in the following two neighboring PRF bands: $\\underline { { \\boldsymbol { \\mathbf { \\Pi } } } }$ PRF/2, PRF/2] and [-3PRF/2, $-$ PRF/2]. The Doppler centroid for the spectrum part in [-PRF/2,PRF/2] is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c 0 \\_ m } = - \\frac { 2 v _ { r \\_ b } } { \\lambda }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The azimuth shift of the moving target's image corresponding to this spectrum part is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } _ { 0 } = \\frac { \\lambda R _ { 0 } } { 2 V } f _ { d c 0 \\_ m } = \\Delta x _ { r \\_ b }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In SAR imaging processing,the spectrum part in[-3PRF/2, $-$ PRF/2] will be right-shifted for PRF and locate in [ $-$ PRF/2, PRF/2], then the corresponding Doppler centroid becomes ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c - 1 - m } = f _ { d c 0 \\_ m } + \\mathrm { P R F } = - \\frac { 2 v _ { r \\_ b } } { \\lambda } + \\mathrm { P R F }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The azimuth shift of the moving target's image corresponding to this spectrum part is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } _ { - 1 } = \\frac { \\lambda R _ { 0 } } { 2 V } f _ { d c . 1 . m } = \\frac { \\lambda R _ { 0 } } { 2 V } \\cdot \\bigg ( { - \\frac { 2 v _ { r . b } } { \\lambda } + \\mathrm { P R F } } \\bigg ) = \\Delta x _ { r . b } + 2 { | \\Delta x _ { p r f } | }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "If $ { n _ { \\mathrm { ~ \\scriptsize ~ < ~ } } } 0$ ，it can be expressed as $\\ n \\ = \\ - 2 k$ ( $k = 1 , 2 , 3 , \\ldots ,$ ).Right now， we can obtain $v _ { r } = v _ { r \\_ b } + 2 k \\cdot v _ { r \\_ p r f }$ and $v _ { r , b } \\leq 0$ . The moving target's Doppler centroid can be expressed as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c . m } = - { \\frac { 2 v _ { r } } { \\lambda } } = - { \\frac { 2 \\left( v _ { r _ { - } b } - 2 k \\cdot v _ { r - p r f } \\right) } { \\lambda } } = - { \\frac { 2 v _ { r _ { - } b } } { \\lambda } } + k \\cdot { \\mathrm { P R F } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After taking the $k$ .PRF term away， and since $v _ { r - b } \\ \\leq \\ 0$ ，we_can conclude that the_moving target's Doppler spectrum spans in the folowing two neighboring PRF bands: [-PRF/2,PRF/2] and [PRF/2, 3PRF/2], respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Doppler centroid for the spectrum part in[-PRF/2, PRF/2] is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c 0 \\_ m } = - \\frac { 2 v _ { r \\_ b } } { \\lambda }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The azimuth shift of the moving target's image corresponding to this spectrum part is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } _ { 0 } = \\frac { \\lambda R _ { 0 } } { 2 V } f _ { d c 0 \\_ m } = \\Delta x _ { r \\_ b }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In SAR imaging processing,the spectrum part in [PRF/2,3PRF/2] will be left-shifted for PRF and locate in [-PRF/2,PRF/2], then the Doppler centroid of this spectrum part changes to ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c 1 \\_ m } = f _ { d c 0 \\_ m } - \\mathrm { P R F } = - \\frac { 2 v _ { r \\_ b } } { \\lambda } - \\mathrm { P R F }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "And the azimuth shift of the moving target's image corresponding to this spectrum part is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } _ { 1 } = \\frac { \\lambda R _ { 0 } } { 2 V } f _ { d c 1 \\_ m } = \\frac { \\lambda R _ { 0 } } { 2 V } \\cdot \\left( - \\frac { 2 v _ { r \\_ b } } { \\lambda } - \\mathrm { P R F } \\right) = \\Delta x _ { r \\_ b } - 2 | \\Delta x _ { p r f } |\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) $n$ is odd ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "If $n \\ > \\ 0$ ，it can be expressed as $n ~ = ~ 2 k + 1$ ? $k = 0 , 1 , 2 , \\ldots$ )．At present，we have $\\begin{array} { r l } { { v _ { r } } } & { { } = } \\end{array}$ $v _ { r \\_ b } + ( 2 k + 1 ) \\cdot v _ { r \\_ p r f }$ , and meanwhile $v _ { r - b } \\geq 0$ . The moving target's Doppler centroid can be expressed as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c . m } = - \\frac { 2 \\left[ v _ { r . b } + ( 2 k + 1 ) \\cdot v _ { r . p r f } \\right] } { \\lambda } = - \\frac { 2 v _ { r . b } } { \\lambda } - \\frac { \\mathrm { P R F } } { 2 } - k \\cdot \\mathrm { P R F }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "After taking the $k \\cdot$ PRF term away, and since $v _ { r \\mathcal { { B } } } \\geq 0$ , the moving target's Doppler spectrum spans in the following two neighboring PRF bands: [-PRF/2, PRF/2] and [-3PRF/2, $-$ PRF/2], respectively. The Doppler centroid for the spectrum part in $[ - \\mathrm { P R F } / 2$ , PRF/2] is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c 0 \\_ m } = - \\frac { 2 v _ { r \\_ b } } { \\lambda } - \\frac { \\mathrm { P R F } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "And the azimuth shift of the moving target's image corresponding to this spectrum part is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } _ { 0 } = \\Delta x _ { r \\_ b } - | \\Delta x _ { p r f } |\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The spectrum part in $[ - 3 \\mathrm { P R F } / 2$ ， $-$ PRF/2] will be right-shifted for PRF and locate in [-PRF/2, PRF/2] in SAR imaging processing, then the corresponding Doppler centroid changes to ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c \\_ 1 \\_ m } = f _ { d c 0 \\_ m } + \\mathrm { P R F } = - \\frac { 2 v _ { r \\_ b } } { \\lambda } + \\frac { \\mathrm { P R F } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "And the azimuth shift of the moving target's image corresponding to this spectrum part is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } _ { - 1 } = \\Delta x _ { r \\bar { \\jmath } } + | \\Delta x _ { p r f } |\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "If $ { n _ { \\mathrm { ~ \\scriptsize ~ < ~ } } } 0$ ，it can be expressed as $\\begin{array} { l } { { n } } \\end{array} = \\begin{array} { r } { - ( 2 k + 1 ) } \\end{array}$ 0 $\\mathit { \\check { k } } \\ = \\ 0 , 1 , 2 , \\ldots ,$ ).Now， we can obtain $v _ { r } = v _ { r \\_ b } - ( 2 k + 1 ) \\cdot v _ { r \\_ p r f }$ and $v _ { r - b } \\leq 0$ . The Doppler centroid for the moving target is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c . m } = - \\frac { 2 v _ { r } } { \\lambda } = - \\frac { 2 \\left[ v _ { r _ { - } b } - ( 2 k + 1 ) \\cdot v _ { r _ { - } p r f } \\right] } { \\lambda } = - \\frac { 2 v _ { r . b } } { \\lambda } + \\frac { \\mathrm { P R F } } { 2 } + k \\cdot \\mathrm { P R F }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "After taking away the $k \\cdot \\mathrm { P R F }$ term,and since $v _ { r - b } \\leq 0$ , the target's Doppler spectrum spans in the ollowing two neighboring PRF bands: [-PRF/2, PRF/2], respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Doppler centroid for the spectrum part in [PRF/2,3PRF/2] is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c 0 \\_ m } = - \\frac { 2 v _ { r \\_ b } } { \\lambda } + \\frac { \\mathrm { P R F } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The azimuth shift of the moving target's image corresponding to this spectrum part is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } _ { 0 } = \\Delta x _ { r \\_ b } + | \\Delta x _ { p r f } |\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/11bbc64680137d3f1e509d309592d0aeaf608ef56acd6898efa9ae6087223c7c.jpg",
+        "table_caption": [
+            "Table 1. Summarization of the moving target's azimuth shift for the two scenarios. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td>Case I: Spectrum is entirely within a PRF band</td><td>Case II: Spectrum spans in two neighboring PRF bands</td></tr><tr><td rowspan=\"2\">n is even</td><td>n≥0</td><td>△x =△xr_b</td><td>△xo =△xr_b △x-1=△xrb +2|△xprfl</td></tr><tr><td>n<0</td><td>△x =△xrb</td><td>△xo = △xr_b △x1=△xr_b-2｜△xprfl</td></tr><tr><td rowspan=\"2\">n is odd</td><td>n>0</td><td>△x =△xrb +|△xprfl</td><td>△1=rb-+△ml</td></tr><tr><td>n<0</td><td>△x = △xrb -｜△xprfl</td><td>△=Ary+/</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The spectrum part in [PRF/2, 3PRF/2] will be left-shifted for PRF and locate in $[ - \\mathrm { P R F } / 2$ , PRF/2 n SAR imaging processing, then the Doppler centroid for this spectrum part changes to ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d c 1 \\_ m } = f _ { d c 0 \\_ m } - \\mathrm { P R F } = - \\frac { 2 v _ { r \\_ b } } { \\lambda } - \\frac { \\mathrm { P R F } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The corresponding azimuth shift of the moving target's image is ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { x } _ { 1 } = \\Delta x _ { r - b } - | \\Delta x _ { p r f } |\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We summarize above analysis results in Table 1. According to these formulas,we can relocate a moving target with arbitrary velocity to its correct azimuthal position in SAR image after estimating its velocity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.SIMULATION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this section，we conduct simulations to validate the analysis in Section 3. The simulated system parameters are listed in Table 2. In the simulations,we utilize the range-Doppler algorithm [1] for imaging processing. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "According to the SAR system parameters in Table 2， we calculate that $v _ { r - p r f } \\ = \\ 6 \\mathrm { m } / \\mathrm { s }$ ，and $| \\Delta x _ { p r f } | = 1 9 5 . 1 6 \\mathrm { m }$ . Suppose the moving target locates at the scene center when $\\eta = 0$ ,i.e., $x _ { 0 } = 0$ . At this moment, the SAR incident angle on target is $\\vartheta = 4 5 ^ { \\circ }$ . We ignore the target's range cell migration (RCM),and assume its across-track acceleration,along-track velocity and along-track acceleration are all zeros, i.e., $a _ { y } = 0 \\mathrm { m / s } ^ { 2 }$ ， $v _ { x } = 0 \\mathrm { m } / \\mathrm { s }$ ， $a _ { x } = 0 \\mathrm { m / s } ^ { 2 }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the following,we will simulate the imaging of moving targets with different velocities in the situations discussed in Section 3. The velocities of the moving targets are listed in Table 3. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1) $T 1$ and $^ { \\prime } I ^ { \\prime } 2$ are in Case $I$ and $n$ is even. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We can calculate that $n = 0$ ， $v _ { r \\mathbf { \\delta } \\mathbf { \\delta } } = 3 \\mathrm { m } / \\mathrm { s }$ for $T 1$ . According to Table 2, the azimuth shift of $T 1$ is calculated as $\\Delta \\hat { x } _ { 0 } = - 9 7 . 5 8 \\mathrm { m }$ , and the simulated results are shown in Figures 4(a) and (b), respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d38a3ca7d65a82a8eb8804b4a39151353150b1528f14727a8c99db625fb08a7.jpg",
+        "table_caption": [
+            "Table 2. Simulated SAR system parameters. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>carrier frequency fc</td><td>10.0 GHz</td><td>azimuth beamwidth</td><td>2°</td></tr><tr><td>bandwidth B</td><td>50 MHz</td><td>PRF</td><td>800</td></tr><tr><td>pulse duration Tp</td><td>5 μs</td><td>platformvelocity V</td><td>100 m/s</td></tr><tr><td>range sampling rate Fs</td><td>75 MHz</td><td>platform height Ho</td><td>2300 m</td></tr><tr><td>incident angle v</td><td>45°</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Whereas for $T 2$ ， $n = - 2$ ， $v _ { r \\_ b } = - 1 . 8 \\mathrm { m } / \\mathrm { s }$ , the azimuth shift of $T 2$ is calculated as $\\Delta \\hat { x } _ { 0 } = 5 8 . 5 5 \\mathrm { m }$ ,and the simulated results are shown in Figures $4 ( \\mathrm { c } )$ and (d)，respectively. From Figure 4 we can observe that the Doppler spectra of both $^ { \\prime \\prime 1 }$ and $^ { \\prime } I ^ { \\prime } 2$ keep as a whole,and the simulated azimuth shifts agree with the theoretic values very well. In Figure 4 and the following figures, the Doppler spectrum and the azimuth profile of a stationary target are also plotted for reference. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) $^ { \\prime \\prime 3 }$ and $T 4$ are in Case $I$ and $n$ is odd. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For $^ { \\prime } { } \\mathit { l } \\mathit { 3 }$ , we can obtain that $n = 1$ ， $v _ { r \\_ b } = 4 . 8 \\mathrm { m / s }$ , according to Table 2, the azimuth shift of $T 3$ i calculated as $\\Delta \\hat { x } _ { 0 } = 3 9 . 0 3 \\mathrm { m }$ , and the simulated results are shown in Figures 5(a) and (b), respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d56a9b5db0df10faebecd8aa803d48d347fc3e7479189834c7ee72d336937e6.jpg",
+        "table_caption": [
+            "Table 3. Simulated moving targets’ velocities. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>No.</td><td>T1</td><td>T2</td><td>T3</td><td>T4</td><td>T5</td><td>T6</td><td>T7</td><td>T8</td></tr><tr><td>Ur(m/s)</td><td>3</td><td>-13.8</td><td>10.8</td><td>-9.6</td><td>17.4</td><td>-16.8</td><td>6.3</td><td>-18.9</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f061dd405981533543df449c7fc860376ad0ed70f2f3114be11bb15b912f0c1.jpg",
+        "img_caption": [
+            "Figure 4. Simulation results for Case $I$ : the target's spectrum is entirely within a PRF band and $n$ （20 is even. (a) Doppler spectrum of $T 1$ $( v _ { r } = 3 \\mathrm { m } / \\mathrm { s } )$ )， (b) azimuth profile of $T 1$ （ $v _ { r } = 3 \\mathrm { m } / \\mathrm { s }$ ）， (c）Doppler spectrum of $T 2$ 10 $\\dot { v } _ { r } = - 1 3 . 8 \\mathrm { m } / \\mathrm { s }$ ）,(d)azimuth profile of $T 2$ ( $\\dot { v } _ { r } = - 1 3 . 8 \\mathrm { m } / \\mathrm { s }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d7f9b0cc429a898e2eb0cac9bb576893af005180b6f65fd95eba48b000a0c51.jpg",
+        "img_caption": [
+            "Figure 5. Simulation results for Case $I$ : the target's spectrum is entirely within a PRF band and $n$ is odd.(a) Doppler spectrum of $T 3$ 0 $\\mathit { v } _ { r } = 1 0 . 8 \\mathrm { m } / \\mathrm { s }$ ），(b)azimuth profile of $^ { \\prime \\prime 3 }$ （ $v _ { r } = 1 0 . 8 \\mathrm { m / s }$ ），(c)Doppler spectrum of $T 4$ （ $v _ { r } = - 9 . 6 \\mathrm { m } / \\mathrm { s }$ )，(d)azimuth profile of $T 4$ ( $v _ { r } = - 9 . 6 \\mathrm { m } / \\mathrm { s }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Whereas for $T 4$ ， $n = - 1$ and $v _ { r \\_ b } = - 3 . 6 \\mathrm { m } / \\mathrm { s }$ , according to Table 2, the azimuth shift of $T 4$ is calculated as $\\Delta \\hat { x } _ { 0 } = - 7 8 . 0 6 \\mathrm { m }$ and the simulated results are shown in Figures 5(c) and (d),respectively. From Figure 5,we can see that the Doppler spectra of $T 3$ and $T 4$ also keep as a whole,and the simulated results agree with the theoretic results very well. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) $T 5$ and $T 6$ are in Case $I I$ and $n$ is even. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We calculate that $n = 2$ ， $v _ { r \\_ b } = 5 . 4 \\mathrm { m } / \\mathrm { s }$ for $T 5$ . According to Table 2, the azimuth shifts for $T 5$ ,s two images are calculated as $\\Delta \\hat { x } _ { 0 } = - 1 7 5 . 6 5 \\mathrm { m }$ and $\\Delta \\hat { x } _ { - 1 } = 2 1 4 . 6 8 \\mathrm { m }$ ，and the simulated results are shown in Figures $\\mathrm { 6 ( a ) }$ and (b), respectively. Whereas for $T 6$ ， $n = - 2$ and $v _ { r \\_ b } = - 4 . 8 \\mathrm { m } / \\mathrm { s }$ are calculated. According to Table 2, the azimuth shifts for $T 6$ 's two images are $\\Delta \\hat { x } _ { 0 } = 1 5 6 . 1 3 \\mathrm { m }$ and $\\Delta \\hat { x } _ { 1 } = - 2 3 4 . 1 9 \\mathrm { m }$ ， and the simulated results are shown in Figures $6 ( \\mathrm { c ) }$ and (d), respectively. From Figure 6, we can see that the spectra of $T 5$ and $^ { \\prime } { } \\mathit { I } ^ { \\prime } 6$ are both split into two parts,and the simulated azimuth shifts agree with the theoretic values. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4) T7 and $^ { \\prime \\prime 8 }$ are in Case $\\varPi$ and $n$ is odd. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The velocity of $T 7$ is $v _ { r } = 6 . 3 \\mathrm { m / s }$ ，therefore $n = 1$ and $v _ { r \\mathbf { \\mu } _ { \\mathbf { - } } b } = 0 . 3 \\mathbf { m } / \\mathrm { s }$ are calculated. According to Table 2, the azimuth shifts of $T 7$ 's two images are $\\Delta \\hat { x } _ { 0 } ~ = ~ 1 8 5 . 4 0 \\mathrm { m }$ and $\\Delta \\hat { x } _ { - 1 } = - 2 0 4 . 9 2 \\mathrm { m }$ and the simulation results are shown in Figures $\\mathrm { 7 ( a ) }$ and (b)，respectively. Whereas the velocity of ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2ba90a7e694263224abe50d01d46091defd3612d441647201b89542bfbd31d4.jpg",
+        "img_caption": [
+            "Figure 6. Simulation results for Case $\\varPi$ : the target's spectrum spans in two neighboring PRF bands, and $n$ is even. (a) Doppler spectrum of $T 5$ $\\begin{array} { r } { v _ { r } = 1 7 . 4 \\mathrm { m / s } } \\end{array}$ ),(b) azimuth profile of $^ Ḋ 2 Ḍ 5 Ḍ$ ( $v _ { r } = 1 7 . 4 \\mathrm { m / s }$ ) (c) Doppler spectrum of $T 6$ （ $v _ { r } = - 1 6 . 8 \\mathrm { m } / \\mathrm { s }$ ),(d) azimuth profile of $^ { \\prime } I ^ { \\prime } 6$ （ $v _ { r } = - 1 6 . 8 \\mathrm { m } / \\mathrm { s }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/846743f1afb10b7c5d1c49bdda5f62cb76ae01b83d04f49984a326c65585ab68.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0a06ef119f1a14a2270c68c8e6fbb8da670880befed0b34c1d646b5b5af90b4.jpg",
+        "img_caption": [
+            "Figure 7. Simulation results for Case $I I$ : the target's spectrum spans in two neighboring PRF bands,and $n$ is odd. (a) Doppler spectrum of $T 7$ 0 $\\mathit { \\Delta } \\cdot v _ { r } = 6 . 3 \\mathrm { m } / \\mathrm { s }$ )，(b)azimuth image of $T 7$ ( $v _ { r } = 6 . 3 \\mathrm { m / s }$ ），(c)Doppler spectrum of $T 8$ 0 $\\dot { v } _ { r } = - 1 8 . 9 \\mathrm { m } / \\mathrm { s }$ )，(d) azimuth image of $T 8$ ( $v _ { r } = - 1 8 . 9 \\mathrm { m } / \\mathrm { s }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$T 8$ is $v _ { r } = - 1 8 . 9 \\mathrm { m } / \\mathrm { s }$ ，at this time, $n = - 3$ and $v _ { r \\_ b } = - 0 . 9 \\mathrm { m } / \\mathrm { s }$ . According to Table 2，we get $\\Delta \\hat { x } _ { 0 } = - 1 6 5 . 8 9 \\mathrm { m }$ and $\\Delta \\hat { x } _ { 1 } = 2 2 4 . 4 4 \\mathrm { m }$ for $T 8$ ，respectively. The simulation results are shown in Figures 7(c) and (d),respectively. From Figure 7 we can see that the spectra of $T 7$ and $T 8$ are both split into two parts,and the simulated azimuth shifts also agree with the theoretic values. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we conduct a detailed theoretical analysis on the azimuth shift issue of a moving target in SAR image whose spectrum may entirely situate within a PRF band or spans in two neighboring PRF bands. The analyzed results are summarized and validated by simulations. Based on the derived analytical formulas, one can get the correct azimuth shift for a moving target with arbitrary velocity, which is beneficial for moving targets relocation in SAR image processing. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1. Cumming, I. G.and F. H. Wong， Digital Signal Processing of Synthetic Aperture Radar Data: Algorithms and Implementation, Artech House, Boston, MA, 2005.   \n2. Jao,J. K.， “Theory of synthetic aperture radar imaging of a moving target,” IEEE Transactions on Geoscience and Remote Sensing, Vol. 39, No. 9,1984-1992, 2001.   \n3. Zhang, Y., W. Zhai, X. Zhang, X. Shi, X. Gu,and Y. Deng,“Ground moving train imaging by Kuband radar with two receiving channels,” Progress In Electromagnetics Research, Vol.130, 493-512, 2012.   \n4. Yang, J., C.Liu, and Y.F. Wang,“Imaging and parameter estimation of fast-moving targets with single-antenna SAR,” IEEE Geoscience and Remote Sensing Leters, Vol.11, No.2, 529-533, 2014.   \n5. Yang, J., C. Liu, and Y.F. Wang,“Detection and imaging of ground moving targets with real SAR data,” IEEE Transactions on Geoscience and Remote Sensing, Vol. 53, No. 2, 920-932, 2015.   \n6. Mao, X., D.-Y. Zhu, and Z.-D. Zhu,“Signatures of moving target in polar format spotlight SAR image,” Progress In Electromagnetics Research, Vol. 92, 47-64, 2009.   \n7. Zhang, Y., X. Shi, X. Gu, W. Zhai, X. Kang, Y. Deng, D. Li, X. Dong, J. Yang, Q. Yang, Q. Yang, Y. Tang, X. Zhang,and J. Jiang,“Introduction to the researches on radar conducted in MIRSL/CAS,” PIERS Proceedings, 454-460, Guangzhou,Aug. 25-28, 2014. interferometry techniques for RADARSAT-2 ground moving target indication,” Canadian Journal of Remote Sensing, Vol. 31, 37-51, 2005. 9. Cerutt-Maori， D. and I. Sikaneta，“A generalization of DPCA processing for multichannel SAR/GMTI radars,” IEEE Transactions on Geoscience and Remote Sensing, Vol. 51, No. 1, 560- 572, 2013.   \n10. Moccia， A. and G. Rufino,“Spaceborne along-track SAR interferometry: Performance analysis and mission scenarios,” IEEE Transactions on Aerospace and Electronic Systems, Vol. 37,No.1, 199–213, 2001.   \n11. Romeiser,R., H. Breit, M.Eineder,and H.Runge,“Demonstration of current measurements from space by along-track SAR interferometry with SRTM data,” 2002 IEEE International Geoscience and Remote Sensing Symposium, 2002.   \n12.Budillon,A., A. Evangelista,and G. Schirinzi,“GLRT detection of moving targets via multibaseline along-track interferometric SAR systems,” IEEE Geoscience and Remote Sensing Leters, Vol. 9, No. 3, 348-352, 2012.   \n13. Tian, B., D.-Y. Zhu,and Z.-D. Zhu,“A novel moving target detection approach for dual-channel SAR system,” Progress In Electromagnetics Research, Vol. 115, 191-206, 2011.   \n14. Dipietro, R. C.， “Extended factor space-time processng for airborne radar system,” The TwentySixth Asilomar Conference on Signals， Systems and Computers, 1992.   \n15. Chen, H. C.and C.D. McGillem,“Target motion compensation by spectrum shifting in synthetic aperture radar,” IEEE Transactions on Aerospace and Electronic Systems, Vol. 28, No. 3, 895-901, 1992.   \n16. Moreira, J.R.and W. Keydel,“A new MTI-SAR approach using the reflectivity displacement method,” IEEE Transactions on Geoscience and Remote Sensing, Vol. 33, No. 5,1238-1244,1995.   \n17. Lv, G., J. Wang, and X. Liu, “Ground moving target indication in SAR images by symmetric defocusing,” IEEE Geoscience and Remote Sensing Letters, Vol. 10, No. 2, 241-245, 2013.   \n18. Perry,R.P., R.C. DiPietro, and R.L. Fante,“SAR imaging of moving targets,” IEEE Transactions on Aerospace and Electronic Systems, Vol. 35, No. 1, 188-200, 1999.   \n19. Zhou, F., R. Wu, M. Xing,and Z. Bao,“Approach for single channel SAR ground moving target imaging and motion parameter estimation,” IET Radar Sonar and Navigation,Vol.1,No.1, 59-66, 2007.   \n20. Zhu, D., Y.Li,and Z. Zhu,“A keystone transform without interpolation for SAR ground movingtarget imaging,” IEEE Geoscience and Remote Sensing Letters, Vol. 4, No.1, 18-22, 2007.   \n21. Li, G., X. G. Xia,and Y. N. Peng,“Doppler keystone transform: an approach suitable for parallel implementation of SAR moving target imaging,” IEEE Geoscience and Remote Sensing Letters, Vol. 5, No. 4, 573-577, 2008.   \n22. Yang, J. F. and Y. H. Zhang,“Novel compressive sensing-based Dechirp-Keystone algorithm for synthetic aperture radar imaging of moving target,” IET Radar Sonar and Navigation, Vol. 9, No. 5, 509-518,2015.   \n23. Yang, J. and Y. Zhang,“A novel Keystone transform based algorithm for moving target imaging with Radon transform and fractional Fourier transform involved,” PIERS Proceedings,1406-1410, Guangzhou, Aug. 25-28, 2014.   \n24. Kong, Y.K., B.L. Cho, and Y. S. Kim,“Ambiguity-free Doppler centroid estimation technique for airborne SAR using the Radon transform,” IEEE Transactions on Geoscience and Remote Sensing, Vol. 43, No. 4, 715-721,2005.   \n25. Cumming, I. G. and S.Li, “Improved slope estimation for SAR Doppler ambiguity resolution,” IEEE Transactions on Geoscience and Remote Sensing, Vol. 44, No. 3, 707-718, 2006.   \n26. Zhu, S., G. Liao, B. Liu, and Y. Qu,“New approach for SAR Doppler ambiguity resolution in compressed range time and scaled azimuth time domain,” IEEE Transactions on Aerospace and Electronic Systems, Vol. 47, No. 4,3026-3039, 2011.   \n27. Barbarossa, S.and A. Farina,“Detection and imaging of moving objects with synthetic aperture radar.Part 2: Joint time-frequency analysis by Wigner-Vile distribution,” IEE Radar and Signal Processing, 89-97, 1992.   \n28. Sun,H.，G. S. Liu, H.Gu, and W. M. Su,“Application of the fractional Fourier transform to moving target detection in airborne SAR,” IEEE Transactions on Aerospace and Electronic Systems,Vol. 38,No. 4,1416-1424, 2002.   \n29. Djurovic,I., T. Thayaparan, and L. J. Stankovic,“SAR imaging of moving targets using polynomial Fourier transform,” IET Signal Processing, Vol. 2, 237-246, 2008.   \n30. Zhang, X.P., G.S.Liao, S.Q. Zhu, C. Zeng,and Y.X. Shu,“Geometry-information-aided efficient radial velocity estimation for moving target imaging and location based on Radon transform,” IEEE Transactions on Geoscience and Remote Sensing, Vol. 53, No. 2, 1105-1117, 2015.   \n31. Zhu, S. Q., G. S. Liao, Y. Qu, Z. G. Zhou, and X. Y. Liu,“Ground moving targets imaging algorithm for synthetic aperture radar,” IEEE Transactions on Geoscience and Remote Sensing, Vol. 49,No.1, 462-477,2011.   \n32. Sun, G. C., M. D. Xing, X. G. Xia, Y. R. Wu, and Z. Bao,“Robust ground moving-target imaging using Deramp-Keystone processing,” IEEE Transactions on Geoscience and Remote Sensing, Vol. 51, No. 2, 966-982,2013. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

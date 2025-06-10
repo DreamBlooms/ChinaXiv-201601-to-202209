@@ -1,0 +1,271 @@
+# 基于矩阵加权关联模式的印尼中跨语言信息检索模型
+
+# 黄名选
+
+(广西跨境电商智能信息处理重点实验室培育基地(广西财经学院）南宁 530003)(广西财经学院计算机系南宁 530003)
+
+摘要：【目的】针对跨语言信息检索存在的查询漂移问题，提出一种融合用户点击下载行为与矩阵加权关联模式挖掘的印尼中跨语言信息检索模型。【方法】将矩阵加权关联模式挖掘、查询扩展以及用户点击下载行为集成应用到印尼中跨语言信息检索模型，给出模型实现的关键技术，即面向跨语言信息检索的矩阵加权关联模式挖掘算法、跨语言查询扩展模型以及印尼中跨语言信息检索算法。【结果】在 NTCIR-5CLIR数据集上的实验结果表明，该检索模型的R_prec、 $\mathsf { p } @ 1 0$ 和 $\mathfrak { p } \mathcal { Q } 2 0$ 值均达到单语言检索基准的 $60 \%$ 以上，比跨语言检索基准提高 $3 7 \%$ 以上，比现有基于伪相关反馈的跨语言检索算法提高 $28 \%$ 以上。【局限】该模型实验在基于向量空间模型的跨语言检索系统中进行，需要探讨和研究在实际搜索引擎中的具体应用。【结论】该模型能有效地减少跨语言检索中的查询漂移问题，提高和改善印尼中跨语言检索性能，对长查询的检索效果更好，有较好的实际应用价值。
+
+关键词：点击行为关联模式挖掘印尼中跨语言检索模型跨语言信息检索矩阵加权关联规则分类号：TP311
+
+# 1引言
+
+跨语言信息检索指的是以一种语言检索出其他语言的信息资源的技术。印尼中跨语言信息检索指的是使用印尼语检索中文文档，其中，用于查询的印尼语言称为源语言(Source Language，SL)，中文称为目标语言(TargetLanguage，TL)。世界各地学者从不同的角度和方向对跨语言信息检索模型与算法进行了深入探讨和研究，取得了丰富的理论成果，然而，跨语言信息检索研究所存在的问题还没有完全解决，该领域亟待解决和关注度比较高的问题之一是跨语言信息检索比单语言检索面临更为严重的词不匹配和主题漂移问题，这些问题常常导致跨语言检索性能低下。针对这些问题，近年来，基于查询扩展的跨语言信息检索研究得到了更多的关注和讨论，其研究主要集中在基于相关反馈[1-6]、潜在语义[7-10]、语言模型[11]和主题模型[12-16]等跨语言信息检索研究，其语言对象以英语为主，大多都是研究英语和其他语言的跨语言检索问题，
+
+基于相关反馈的跨语言信息检索即利用跨语言初检结果的前列文档作为跨语言查询扩展词项的来源实现查询扩展，然后再次检索文档。其典型算法是Gao等[1]提出的两步伪相关反馈法。吴丹等[2在此基础上对基于伪相关反馈的跨语言查询扩展进行深入研究，通过伪相关反馈实验比较4种跨语言信息检索查询翻译优化技术[3]，取得较好的研究成果。近年来,Chinnakotla等[4提出使用与查询不同的辅助语言材料改善跨语言伪相关反馈扩展性能，以提高跨语言检索效率。Parton等[5]将机器学习引入跨语言相关反馈扩展领域,Lee 等[]针对博客或论坛等非正式文本，提出一种新的伪相关反馈扩展技术改善跨语言检索性能，都取得了良好的实验结果。
+
+基于潜在语义的跨语言信息检索即利用潜在语义分析技术建立不同语言之间的对应关系，从中发现与原查询相关的目标语言特征词，实现跨语言查询扩展改善跨语言信息检索性能。其典型算法是闭剑婷等[7]提出的通过潜在语义分析的跨语言查询扩展改善跨语言检索性能。魏露等[8]对文献[7]进行改进，通过结合奇异值分解和非负矩阵分解法建立双语空间，改善跨语言检索性能。此后，宁健等通过改进的潜在语义分析实现双语摘要跨语言检索，取得了较好的实验结果。罗远胜等[10通过双语平行语料库构造每种语言的潜在语义空间提高和改善跨语言检索性能，实验结果表明上述方法是有效的。
+
+基于语言模型、主题模型的跨语言信息检索研究也开始活跃起来。Rahimi等[1]利用语言模型框架实现跨语言查询扩展，提高了跨语言检索性能。Ganguly 等[12]利用潜在主题对跨语言相关性模型进行改进，以帮助改善目标语言检索效果。此后，Wang 等[13-16]对基于主题模型的跨语言信息检索进行了深入研究，先后提出基于潜在狄利克雷分配(Latent Dirichlet Allocation,LDA)主题模型的跨语言伪相关反馈扩展[13-14]、基于双语主题的跨语言伪相关反馈[15]，以及基于弱相关主题对齐的跨语言伪相关反馈扩展[16]，理论分析与实验结果均表明上述方法是有效性的。
+
+从相关文献报道可以看出，面向东盟国家语言的跨语言信息检索研究还鲜有报道。自中国南宁市作为中国-东盟博览会永久举办地以来，中国与东盟国家的政治、经济、文化等往来更加频繁和密切，面向东盟国家语言的跨语言信息检索和跨语言信息服务研究显得更加迫切，其重要性日益凸显。为此，本文在上述研究成果的基础上，开展面向东盟国家语言的跨语言信息检索研究。以印尼语和汉语为研究对象，将矩阵加权关联规则挖掘技术、用户点击行为与查询扩展等技术集成应用于印尼中跨语言信息检索，提出基于矩阵加权关联模式挖掘的印尼中跨语言信息检索模型及实现该模型的关键技术，即面向跨语言信息检索的矩阵加权关联模式挖掘算法、跨语言查询扩展模型以及印尼中跨语言信息检索算法。
+
+# 2基于矩阵加权关联模式挖掘的印尼中跨语言信息检索模型
+
+# 2.1 设计思想
+
+基于矩阵加权关联模式挖掘的印尼中跨语言信息检索模型基本思想是：首先将印尼语查询通过机器翻译系统译为中文查询，提交给搜索引擎实现跨语言检索中文文档，通过用户对初检文档浏览点击下载行为确认该篇文档为用户反馈初检相关文档，然后应用本文提出的面向跨语言信息检索的矩阵加权关联模式挖掘技术从初检相关文档中挖掘与中文查询相关的扩展词实现跨语言译后扩展，扩展词与原查询组合再次提交给搜索引擎检索，将检索结果经机器翻译为印尼语文档返回给用户。
+
+# 2.2模型结构图及其模块功能
+
+根据上述设计思想，给出了基于矩阵加权关联模式挖掘的印尼中跨语言信息检索模型结构图，如图1所示。该模型由机器翻译模块、搜索引擎模块、用户点击行为相关反馈提取模块、文档预处理模块、面向印尼中跨语言检索的矩阵加权关联规则挖掘模块、跨语言查询扩展词生成模块、跨语言查询扩展实现模块和最终结果显示模块等8个模块和3个数据库组成.即初检相关文档数据库、矩阵加权关联规则库和扩展词库。
+
+(1）机器翻译模块：使用必应机器翻译接口，即Microsoft Translator $\mathrm { \mathbf { A P I } ^ { \mathrm { ( j ) } } }$ ，主要功能是将用户提交的印尼语查询翻译为中文查询，以及将最终检索结果的中文文档翻译为印尼语文档提交给用户。
+
+(2)搜索引擎模块：可以使用谷歌或百度等搜索引擎，主要功能是对译后的中文查询在互联网上进行检索，得到跨语言初检结果文档集。
+
+(3）用户点击行为相关反馈提取模块：捕捉用户浏览初检结果文档集时所产生的文档下载行为，提取用户下载的初检文档构建用户反馈相关文档集。
+
+![](images/d162ebd39a920a87889238a7fa548561d8b146288dc3f6f69e6a23e464bbae6c.jpg)  
+图1基于矩阵加权关联模式挖掘的印尼中跨语言信息检索模型
+
+(4）文档预处理模块：将用户反馈相关文档集进行中文分词、去停用词和提取特征词等预处理，构建用户反馈初检相关文档数据库。
+
+(5）面向印尼中跨语言检索的矩阵加权关联规则挖掘模块：对上述的用户反馈初检相关文档集进行矩阵加权关联规则挖掘，主要挖掘含有原查询词项的矩阵加权特征词项频繁项集和关联规则模式，构建矩阵加权关联规则库。
+
+(6)跨语言查询扩展词生成模块：从矩阵加权关联规则库中提取与原查询相关的扩展词，构建扩展词库。
+
+(7）跨语言查询扩展实现模块：从扩展词库中提取中文扩展词，将扩展词和原查询组合成新查询，再次提交给搜索引擎在互联网中检索，得到最终检索的中文文档。
+
+(8)最终结果显示模块：将最终检索结果中文文档提交到机器翻译模块翻译为印尼语文档，并将最终检索结果中文文档和印尼语文档返回用户。
+
+# 2.3印尼中跨语言信息检索模型关键技术
+
+(1）面向印尼中跨语言检索的矩阵加权关联规则挖掘面向印尼中跨语言检索的矩阵加权关联规则挖掘基本思想是：首先通过用户点击行为相关反馈信息提取模块获得印尼中跨语言初检结果，即用户相关反馈目标语言文档集 $D o c ^ { T L }$ ，并由文档预处理模块对 $D o c ^ { T L }$ 进行预处理，构建用户反馈初检相关文档数据库，然后结合用户查询，采用三次项集剪枝策略，挖掘初检相关文档数据库中含有用户查询词项的矩阵加权特征词关联规则，构建矩阵加权关联规则库。具体的剪枝策略是：第一次剪枝为比较候选 $\mathbf { k } _ { - }$ 项集权值 $W ( C _ { k } )$ 和$K I W T ( k , \ k + 1 ) ^ { [ 1 7 ] } ;$ ，剪除其 $W ( C _ { k } ) { < } ~ K I W T ( k , ~ k { + } 1 )$ 的候选项集 $C _ { k }$ ；第二次是挖掘到2_项集时，剪除不含查询项的候选2项集 $C _ { 2 }$ ，主要原因是本文检索模型只是挖掘与原查询相关的频繁项集和矩阵加权关联规则，而认为不含中文查询词项的候选2项集中的词项是与原查询不相关的，选择在候选2项集做删除处理是为了减少后续这类与原查询不相关的项集数量，提高挖掘效率；第3次是剪除其支持计数为0的候选项集 $C _ { k }$ ○上述挖掘思想形式化为MWARM_OQT(MatrixWeighted Association Rule Mining with Original QueryTerms)算法。
+
+输入：目标语言初检相关文档集 $( D o c ^ { T L } )$ ，最小支持度和置信度阈值 $^ { [ 1 7 ] } ( m s , m c )$ ，印尼语用户查询 $( \boldsymbol { Q } ^ { s L } )$ 。
+
+输出：目标语言特征词矩阵加权关联规则集合 $( m w A R ^ { T L }$ ）
+
+# 28 数据分析与知识发现
+
+Begin
+
+let mwh $\gamma I ^ { T L } \longleftarrow \phi ; m w A R ^ { T L } \longleftarrow \phi ;$
+
+$/ / m w F I ^ { T L }$ 为特征词矩阵加权频繁项集集合， $m w F I ^ { T L }$ 和 $m w A R ^ { T L }$ 清空。
+
+$$
+( D o c ^ { T L } \_ D B ) {  } \mathrm { P r e p r o c e s s i n g } ( D o c ^ { T L } ) ;
+$$
+
+//文档预处理模块对 $D o c ^ { T L }$ 进行预处理，构建用户反馈初检相关文档数据库 $D o c ^ { T L } \underline { { D } } B _ { \circ }$ 本模型中， $D o c ^ { T L }$ 是中文文档，其预处理包括分词、去停用词和提取中文特征词等。模型中所用的分词系统是中国科学院计算技术研究所研制编写的汉语词法分析系统ICTCLAS①。
+
+$( C _ { 1 } , w ( C _ { 1 } ) , n _ { c 1 } , K I W T ( 1 , 2 ) ) {  } \mathrm { S c a n F o r } C _ { 1 } ( D o c ^ { \pi } \underline { { { D } } } B ) ;$ （204号//扫描初检相关文档数据库 $D o c \ L ^ { T L } \ L _ { D B }$ ，提取特征词1_候选项集  
+$C _ { 1 }$ ，计算 $C _ { 1 }$ 支持计数 $n _ { c 1 }$ 及其权值 $w ( C _ { 1 } )$ 和 $K I W T ( 1 , 2 )$ 的值 $\circ K I W T$ (1,  
+2)的计算公式见文献[17]$L _ { 1 } { \gets } \{ C _ { 1 } | m w s u p p o r t ( C _ { 1 } ) { \geqslant } m s \} ;$ //从1_候选项集 $C _ { 1 }$ 挖掘1_频繁项集，mwsupport $( C _ { 1 } )$ 为 $C _ { 1 }$ 的矩  
+阵加权支持度,mwsupport $( C _ { 1 } ) { = } w ( C _ { 1 } ) / n _ { c 1 } { } ^ { [ 1 7 ] }$ 。for ( $k { = } 2 ; C _ { k } \not = \phi ; k { + } + ) \left\{ \begin{array} { r l } \end{array} \right.$ （204号//挖掘含有查询项的矩阵加权频繁 $\mathrm { \bf k } _ { - }$ 项集 $( \mathbf { k } \geqslant 2 )$ 1$m w F I ^ { T L } {  } m w F I ^ { T L } \cup L _ { k - 1 } ;$ //频繁项集添加到 $m w F I ^ { T L }$ 集合$C _ { k - 1 } { \longleftarrow } \mathrm { F i r s t P r u n i n g } ( w ( C _ { k - 1 } ) , K I W T ( k { - } 1 , k ) ) ;$ （204号//比较候选项集权值和KIWT值，剪除其 $W ( C _ { k - 1 } ) { < } K I W T ( k { - } 1 _ { - }$ k)的候选项集 $C _ { k - 1 } , K I W T ( k - 1 , k )$ 的计算公式见文献[17]$C _ { k } { \mathrm { - } } \mathrm { C J o i n } \left( C _ { k - 1 } \right) ;$ //候选项集 $C _ { k - 1 }$ 进行Aproiri连接[18],得到 $C _ { k }$ （20if $( \mathbf { k } { = } 2 ^ { \cdot }$ 0 $\mathrm { t h e n } \ C _ { k } { \gets } \mathrm { S e c o n d P r u n i n g } ( C _ { k } , \mathcal { Q } ^ { \mathrm { S L } } ) ;$ （//挖掘到2_项集时，剪除不含查询项的候选2_项集$( w ( C _ { k } ) , n _ { c k } , K I W T ( k , k + 1 ) ) {  } \mathrm { S c a n F o r } C _ { \mathrm { k } } ( D o c ^ { T L } \_ D B ) ;$ （204号//扫描初检相关文档数据库 $D o c ^ { T L } \underline { { { D B } } }$ ，统计 $C _ { k }$ 的支持计数$n _ { c k } ,$ 计算 $C _ { k }$ 权值 $w ( C _ { k } )$ 和 $K I W T ( k , k + 1 )$ 的值。 $K I W T ( k , k + 1 )$ 的计算公式见文献[17]$C _ { k } \gets$ ThirdPruning $( C _ { k } ) ; / /$ 剪除 $n _ { c k }$ 为0的候选项集 $C _ { k } ,$ $L _ { k } { \gets } \{ C _ { k } | m w s u p p o r t ( C _ { k } ) { \geqslant } m s \} ;$ //从 $k _ { _ - }$ 候选项集 $C _ { k }$ 挖掘 $k _ { _ - }$ 频繁项集，mwsupport $( C _ { k } )$ 为 $C _ { k }$ 的矩阵加权支持度,mwsupport $( C _ { k } ) { = } w ( C _ { k } ) / ( n _ { c k } { \times } k ) ^ { [ 1 7 ] }$ （204号}for $m w F I ^ { T L }$ 中每一个频繁项集 $I ^ { T L }$ do//挖掘特征词矩阵加权关联规则1for $I ^ { T L }$ 中每一对子项集 $I _ { I }$ 和 $I _ { 2 }$ do{if $: ( I _ { { I } } \cup I _ { {2 } } { = } I ^ { { T } L } ) \mathrm { a n d } ( I _ { { I } } \cap I _ { {2 } } { = } \emptyset ) ) \quad \mathrm { t h e n }$ {计算mwconf $\cdot _ { ( I _ { l }  I _ { 2 } ) }$ 和mwconf $( I _ { 2 } \partial I _ { I } )$ 的值;1l mwconf $( I _ { I } \partial { I } _ { 2 } )$ 和mwconf $( I _ { 2 } \partial I _ { l } )$ 为关联规则的置信度if mwconf $( I _ { I } \partial I _ { 2 } ) \geqslant m c$ then $m w A R { ^ { T L } \left. } m w A R { ^ { T L } \cup \{ I _ { I } \right. I _ { 2 } \} }$ if mwconf $( I _ { 2 } \to I _ { I } ) \mathop { \geq } m c$ （20then $m w A R ^ { T L } { \left. } m w A R ^ { T L } \cup \{ I _ { 2 } { \right. } I _ { I } \} ;$ }}$\}$ （20output( $m w A R ^ { T L }$ ;//输出含有查询项的矩阵加权强关联规则End其中，关联规则的置信度计算公式[17]如下。  
+mwconf $( I _ { I }  I _ { 2 } ) { = } m w s u p p o r t ( I _ { I } , I _ { 2 } ) / m w s u p p o r t ( I _ { I } )$ (1)  
+mwconf $\dot { ( I _ { 2 } {  } I _ { I } ) } { = } m w s u p p o r t ( I _ { 1 } , I _ { 2 } ) / m w s u p p o r t ( I _ { 2 } )$ (2)
+
+(2）检索模型中印尼中跨语言查询扩展模型
+
+本文检索模型中，其译后查询扩展词的来源是上述MWARM_OQT算法对目标语言初检用户相关文档集挖掘得到的矩阵加权关联规则，这些规则的前件是译后目标语言原始查询词项集合 $( Q ^ { T L } )$ ，而规则的后件是目标语言扩展词项目集合 $( E T ^ { T L } )$ ，通过矩阵关联规则的置信度mwconf值确定了查询词项与扩展词项的关联程度。因此，其跨语言查询扩展模型(CrossLanguage Query Expansion Model,CLQEM)描述如公式(3)所示：
+
+$$
+\scriptstyle \mathrm { C L Q E M = } ( Q ^ { T L } , \ E T ^ { T L } , \ W _ { q } , \ W _ { E T } )
+$$
+
+其中,
+
+$$
+\begin{array} { r l } { { \mathstrut } } & { { \cal Q } ^ { T L } = \{ q _ { 1 } , q _ { 2 } , \cdots , q _ { n } \} , q _ { n } ( n \geq 1 ) \rlap / \chi \frac { \mu } { \sum } \bar { q } \bar { \mathstrut } \bar { q } \bar { \varepsilon } \bar { q } \} \bar { \varepsilon } \bar { q } \bar { \varepsilon } \bar { q } } \\ { { \ } } & { { \cal E } T ^ { T L } = \{ t _ { 1 } , t _ { 2 } , \cdots , t _ { m } \} , t _ { n } ( m \geqslant 1 ) \rlap / \chi \bar { \varepsilon } \bar { k } \bar { \varepsilon } \bar { \varepsilon } \bar { \varepsilon } \bar { q } \bar { \varepsilon } \bar { \varepsilon } \bar { \varepsilon } }  \\ { { \ } } & { { \cal Q } ^ { T L }  { \cal E } T ^ { T L } ( m w s u p p o r t \gtrsim m s , m w c o n f \gg m c ) } \\ { { \mathstrut } } & { { \cal W } _ { q } = ( 0 . 5 + \displaystyle \frac { 0 . 5 \times t f _ { q } } { \operatorname* { m a x } ( t f _ { q } ) } ) \times \log \frac { N } { d f _ { q } } \ ^ { [ 1 9 ] } } \\ { { \mathstrut } } & { { \cal W } _ { F T } = \operatorname* { m a x } ( m w c o n f ) } \end{array}
+$$
+
+在上述扩展模型中， ${ \cal W } _ { q }$ 表示译后原查询 $\boldsymbol { Q } ^ { T L }$ 的查询项 $q$ 权值, $t f _ { q }$ 为查询项 $q$ 在查询中的初始频率,$\operatorname* { m a x } ( t f _ { q } )$ 表示所有查询项初始频率中的最高者， $d f _ { q }$ 为包含查询项 $q$ 的初检文档数， $N$ 为初检相关文档总数。$W _ { E T }$ 表示来自矩阵关联规则 $Q ^ { T L } \Rightarrow E T ^ { T L }$ 的目标语言查询扩展词权值，其值等于矩阵关联规则的置信度值。$W _ { E T }$ 表达式表明当扩展词重复出现在不同的矩阵关联规则时，就会存在不同的置信度，取其置信度最高者作为该扩展词权值。
+
+(3）基于矩阵加权关联模式挖掘的印尼中跨语言信息检索算法
+
+在本文跨语言检索模型中，基于矩阵加权关联模式挖掘的印尼中跨语言信息检索基本思想是：采用跨语言两次检索策略，首先将印尼语查询通过机器翻译系统译为中文查询，并提交搜索引擎在互联网中检索中文文档，通过用户点击下载行为获取跨语言用户反馈初检相关文档集，调用MWARM_OQT算法对用户反馈初检相关文档集进行挖掘，得到与原查询相关的矩阵加权关联规则，从关联规则中提取扩展词实现跨语言查询译后扩展，将扩展词和原查询组合为新查询再次提交搜索引擎检索中文文档，得到的最终检索结果通过机器翻译系统译为印尼语文档返回给用户。上述思想形式化为ICCLIR_MWAR(Indonesian-ChineseCrossLanguage Information Retrieval Based on Matrix-WeightedAssociationRules)算法。
+
+输入：印尼语用户查询 $( Q ^ { \mathrm { { s } } L } )$ ，最小支持度和置信度阈值 $( m s , m c ) _ { \odot }$ 输出：查询扩展后的跨语言检索结果(印尼语文档和中文文档)。Begin$\boldsymbol { Q } ^ { \scriptscriptstyle T L }$ ←ExecMTranslate $( Q ^ { s L } )$ //将印尼语用户查询 $\boldsymbol { Q } ^ { s L }$ (即源语言查询)提交给机器翻译系统(Microsoft translatorAPI)，经过翻译后得到中文查询 $\boldsymbol { Q } ^ { T L }$ (即目标语言查询)，采用ICTCLAS系统完成译后中文查询 $\boldsymbol { Q } ^ { \mathit { T L } }$ 预处理。
+
+FirstRDoc $$ FirstRetrieval $( Q ^ { T L } , W _ { q } )$
+
+V/将翻译后的中文查询提交给搜索引擎，如百度或谷歌等，通过互联网检索中文文档，得到跨语言初检结果中文文档集。
+
+$D o c ^ { T L } \gets$ UserClickDowdload (FirstRDoc);
+
+//根据用户浏览初检结果文档集FirstRDoc的点击、浏览、下载行为，构建用户反馈初检相关文档集 $D o c ^ { T L }$ 。(如果存在用户对初检文档的点击下载行为，则认为该篇文档与原查询是相关的，应该从初检文档集中提取该篇文档)。
+
+$$
+m w A R ^ { T L } \longleftarrow \mathrm { M W A R M \_ O Q T } ( D o c ^ { T L } , m s , m c , Q ^ { T L } ) ;
+$$
+
+//调用用MWARM_OQT算法挖掘目标语言特征词矩阵加权关联规则 $m w A R ^ { T L }$ ，并构建规则库。
+
+$$
+( E T ^ { T L } , W _ { E T } ) {  } \mathrm { G e t E x p \_ T e r m } ( m w A R ^ { T L } ) ;
+$$
+
+//从 $m w A R ^ { T L }$ 集合中提取目标语言扩展词 $E T ^ { T L }$ ，根据公式(2)计算扩展词权值 $W _ { E T }$ □
+
+TL_Doc+SecondRetrieval $( Q ^ { T L } , E T ^ { T L } )$
+
+//将原查询和扩展词组合再次在互联网中检索目标语言文档，得到最终目标语言文档 $T L \_ D o c$ ，即中文文档。
+
+SL_DocExecMTranslate $( T L \_ D o c )$
+
+//将目标语言文档 $T L \_ D o c$ (中文文档)机器翻译为源语言文档 $S L$ _Doc(印尼语文档)。
+
+outputToUser $( T L \_ D o c , S L \_ D o c )$ 0
+
+//将查询扩展后检索结果中文文档和印尼文档返回给用户。
+
+End
+
+# 3实验设计及其结果分析
+
+根据上述理论分析和所给的模型结构图，编写基于向量空间模型和矩阵加权关联模式挖掘的印尼中跨语言信息检索模型源程序进行实验。实验的硬件环境是：Intel(R) Core(TM) i7-3770 CPU $\textcircled { a } 3 . 4 \mathrm { G H z } \ 3 . 4 \mathrm { G H z }$ 台式电脑，内存8.0GB，硬盘1TB；软件环境为：Windows $\scriptstyle { 7 + \mathrm { V C } } \# + \mathrm { S Q L }$ Servero
+
+# 3.1 数据集及其预处理
+
+采用日本情报信息研究所主办的多国语言处理国际评测会议上的跨语言信息检索标准数据测试集NTCIR-5 CLIR①的 Economic Daily News 2000 年中文新闻文本作为本实验语料，共计79380 篇中文文本信息。NTCIR-5CLIR有查询集、文档测试集以及结果集。其中，查询集有 50 个查询主题，分有 TITLE、DESC、NARR和CONC等4种类型，本文实验选择TITLE和DESC类型，TITLE类型查询主题以名词和名词性短语简要描述，属于短查询;DESC类型以句子形式简要描述查询主题，属于长查询。其结果集有Rigid和Relax等两种评价标准，Rigid标准是指其答案都是与原查询相关或高度相关的；Relax标准是指高度相关、相关或部分相关的。
+
+为了进行本文印尼中跨语言信息检索模型的实验，邀请翻译机构的专业翻译人士先将NTCIR-5CLIR中文版50个查询主题人工翻译为印尼语，再进行查询。
+
+# 3.2基准实验及其实验评价指标
+
+为了验证本文提出的印尼中跨语言信息检索模型的有效性，选择中文单语言检索(MonolingualRetrievalBaseline，MRB)和没有查询扩展的印尼中跨语言检索(Cross-language Retrieval Baseline,CLRB),以及传统的基于伪相关反馈的印尼中跨语言信息检索算法[2] (Cross-Language Retrieval Using PseudoRelevanceFeedback,CLR_PRF)作为实验基准，与本文检索模型的检索性能进行比较和分析。
+
+上述三种基准的检索结果是:MRB基准是用中文查询直接检索中文文档得到的检索结果；CLRB是印尼查询经机器翻译系统翻译为中文查询检索中文文档得到的检索结果，即传统的跨语言信息检索结果；CLRPRF基准是在如下参数设置下实现跨语言查询扩展后再次检索得到的结果，其参数设置(与文献[2]一致)是：提取跨语言前列初检文档 20 篇构建初检相关文档集，提取前列权值(降序排列)的20个特征词为扩展词。
+
+采用R-查准率(R_prec) $\mathbf { P } \ @ 1 0$ 和 $\mathbf { P } \ @ { \textcircled { a } } 2 0$ 作为实验评价指标。R-查准率(R-prec)是当R个文档被检索后所计算的查准率，其中R是指对应于某个查询在文档集合中相关文档数，不强调文档结果集中文档的排序情况，由于NTCIR-5CLIR测试集中不同查询主题的相关文档数差别比较大，故该指标值显得更有意义和评价价值。
+
+# 3.3实验结果及其分析
+
+运行本文检索模型源程序，将该模型与基准算法
+
+MRB、CLRB和CLR_PRF在NTCIR-5CLIR测试集上进行文本检索，对其检索性能进行比较和分析。同时，分析矩阵加权支持度和置信度参数对本文模型检索性能的影响。
+
+(1）基准实验结果及分析
+
+为了与本文检索模型的检索性能比较，先运行MRB、CLRB、CLR_PRF等三个基准源程序，提交NTCIR-5CLIR的50个查询主题的TITLE和DESC部分的中文查询进行中文单语言检索基准实验，以及印尼语查询进行印尼中跨语言检索和传统的基于伪相关反馈的印尼中跨语言检索基准实验，得到基准实验结果，如表1所示。
+
+表1三种基准算法跨语言检索实验结果  
+
+<html><body><table><tr><td>查询类型</td><td>评测类型</td><td>评价指标</td><td>MRB</td><td>CLRB</td><td>CLRB 占MRB (%)</td><td>CLR_PRF</td><td>CLR_PRF占 MRB (%)</td><td>CLR_PRF比 CLRB 提高(%)</td></tr><tr><td rowspan="6">TITLE</td><td rowspan="3">Relax</td><td>R_prec</td><td>0.258</td><td>0.1313</td><td>50.89</td><td>0.1278</td><td>49.53</td><td>-2.67</td></tr><tr><td>p@10</td><td>0.2292</td><td>0.0792</td><td>34.55</td><td>0.1083</td><td>47.25</td><td>36.74</td></tr><tr><td>p@20</td><td>0.1542</td><td>0.0625</td><td>40.53</td><td>0.0792</td><td>51.36</td><td>26.72</td></tr><tr><td rowspan="3">Rigid</td><td>R_prec</td><td>0.1919</td><td>0.1442</td><td>75.14</td><td>0.1113</td><td>58.00</td><td>-22.82</td></tr><tr><td>p@10</td><td>0.1417</td><td>0.0458</td><td>32.32</td><td>0.0625</td><td>44.11</td><td>36.46</td></tr><tr><td>p@20</td><td>0.0979</td><td>0.0333</td><td>34.01</td><td>0.0479</td><td>48.93</td><td>43.84</td></tr><tr><td rowspan="6">DESC</td><td rowspan="3">Relax</td><td>R_prec</td><td>0.227</td><td>0.1205</td><td>53.08</td><td>0.0354</td><td>15.59</td><td>-70.62</td></tr><tr><td>p@10</td><td>0.2375</td><td>0.1333</td><td>56.13</td><td>0.0958</td><td>40.34</td><td>-28.13</td></tr><tr><td>p@20</td><td>0.1667</td><td>0.1</td><td>59.99</td><td>0.0979</td><td>58.73</td><td>-2.10</td></tr><tr><td rowspan="3">Rigid</td><td>R_prec</td><td>0.1867</td><td>0.1226</td><td>65.67</td><td>0.0587</td><td>31.44</td><td>-52.12</td></tr><tr><td>p@10</td><td>0.15</td><td>0.0542</td><td>36.13</td><td>0.0458</td><td>30.53</td><td>-15.50</td></tr><tr><td>p@20</td><td>0.1063</td><td>0.0458</td><td>43.09</td><td>0.0521</td><td>49.01</td><td>13.76</td></tr></table></body></html>
+
+从表1可以看出，传统的跨语言检索CLRB基准只达到了单语言检索基准 MRB 的 $3 2 . 3 2 \%$ 至 $7 5 . 1 4 \%$ 而传统的基于伪相关反馈的印尼中跨语言信息检索CLRPRF检索效果更差，才达到了单语言基准MRB的 $1 5 . 5 9 \%$ 至 $58 . 7 3 \%$ 。与CLRB基准比较，CLR_PRF检索结果的各个评价指标值中，大多数比CLRB检索结果的指标值减少了，减少幅度最大为 $7 0 . 6 2 \%$ 即DESC类查询、Relax评测类型的Rprec 值)；只有少数指标值有所增加，提高幅度最大是 $\mathsf { p } @ 2 0$ 指标(TITLE类查询、Rigid评测类型)，达到 $4 3 . 8 4 \%$ 。
+
+表1实验结果表明，印尼中跨语言基准(即传统的跨语言检索)的检索性能明显地低于单语言的基准检索性能，有些指标值最低只达到 $1 5 . 5 9 \%$ 。说明在传统的跨语言信息检索中，印尼查询经过机器翻译为中文查询后，受查询翻译质量的影响，查询主题漂移比较严重，即其检索出的相关文档比较少，而与查询非相关的文档比较多。而在查询主题漂移如此严重的情况下进行伪相关反馈查询扩展的跨语言检索，导致其检索性能更差，因此,CLR_PRF的检索性能不如CLRB好。
+
+(2)本文跨语言检索模型与基准算法的检索性能 比较
+
+运行本文模型源程序，提交NTCIR-5CLIR的50个查询主题的TITLE部分和DESC部分的印尼语查询进行印尼中跨语言检索实验，在支持度变化和置信度变化两种情况下与上述3个基准(MRB、CLRB和CLR_PRF)进行检索性能比较和分析，其检索结果的R_prec、1 $\sqrt { \omega } 1 0$ 和 $\mathfrak { p } \mathcal { Q } 2 0$ 值分别如表2和表3所示。本文的模型实验参数设置如下：提取跨语言初检文档前列100 篇文档提交给用户，用户进行点击、浏览、下载等行为后确定初检相关文档。为了实验方便，将初检前列中含有已知结果集的100 篇相关文档视为用户在点击、浏览后，下载的相关反馈文档信息。另外，所挖掘的项集长度为3，支持度变化时的实验参数为置信度 $m c { = } 0 . 0 1$ ，支持度ms分别为 $0 . 5 , 0 . 5 5 , 0 . 6 , 0 . 6 5 .$ 0.7和0.75时得到检索结果的R_prec、 $\mathsf { p } @ 1 0$ 和 $\mathtt { p } \textcircled { a } 2 0$ 值，取平均值作为其在表2的值，置信度变化时的实验参数：支持度 $m s { = } 0 . 5$ ，置信度mc分别为0.008、0.01、0.05、0.08和0.1时得到结果如表3所示。
+
+表2支持度变化时本文检索模型与基准算法的检索性能比较  
+
+<html><body><table><tr><td>查询类型</td><td>评测类型</td><td>评价指标</td><td>本文检索模型</td><td>本文模型占MRB(%)</td><td>本文模型比CLRB 提高(%)</td><td>本文模型比 CLR_PRF 提高(%)</td></tr><tr><td rowspan="5">TITLE</td><td rowspan="3">Relax</td><td>R_prec</td><td>0.2355</td><td>91.28</td><td>79.36</td><td>84.27</td></tr><tr><td>p@10</td><td>0.1410</td><td>61.52</td><td>78.03</td><td>30.19</td></tr><tr><td>p@20</td><td>0.1056</td><td>68.46</td><td>68.91</td><td>33.33</td></tr><tr><td rowspan="3">Rigid</td><td>R_prec</td><td>0.2176</td><td>113.39</td><td>50.90</td><td>95.51</td></tr><tr><td>p@10</td><td>0.0903</td><td>63.70</td><td>97.09</td><td>44.48</td></tr><tr><td>p@20</td><td>0.0653</td><td>66.67</td><td>96.00</td><td>36.33</td></tr><tr><td rowspan="6">DESC</td><td rowspan="3">Relax</td><td>R_prec</td><td>0.2383</td><td>104.99</td><td>97.79</td><td>573.16</td></tr><tr><td>p@10</td><td>0.1882</td><td>79.24</td><td>41.19</td><td>96.45</td></tr><tr><td>p@20</td><td>0.1424</td><td>85.41</td><td>42.38</td><td>45.45</td></tr><tr><td rowspan="3">Rigid</td><td>R_prec</td><td>0.2321</td><td>124.32</td><td>89.31</td><td>295.40</td></tr><tr><td>p@10</td><td>0.0896</td><td>59.72</td><td>65.28</td><td>95.63</td></tr><tr><td>p@20</td><td>0.0764</td><td>71.87</td><td>66.81</td><td>46.64</td></tr></table></body></html>
+
+表3置信度变化时本文检索模型与基准算法的检索性能比较  
+
+<html><body><table><tr><td>查询类型</td><td>评测类型</td><td>评价指标</td><td>本文检索模型</td><td>本文模型占 MRB(%)</td><td>本文模型比CLRB 提高(%)</td><td>本文模型比 CLR_PRF 提高(%)</td></tr><tr><td rowspan="6">TITLE</td><td rowspan="3">Relax</td><td>R_prec</td><td>0.2351</td><td>91.14</td><td>79.09</td><td>83.99</td></tr><tr><td>p@10</td><td>0.1392</td><td>60.72</td><td>75.73</td><td>28.51</td></tr><tr><td>p@20</td><td>0.1021</td><td>66.21</td><td>63.36</td><td>28.91</td></tr><tr><td rowspan="3">Rigid</td><td>R_prec</td><td>0.2433</td><td>126.78</td><td>68.72</td><td>118.60</td></tr><tr><td>p@10</td><td>0.0867</td><td>61.16</td><td>89.21</td><td>38.66</td></tr><tr><td>p@20</td><td>0.0633</td><td>64.70</td><td>90.21</td><td>32.23</td></tr><tr><td rowspan="6">DESC</td><td rowspan="3">Relax</td><td>R_prec</td><td>0.2295</td><td>101.09</td><td>90.44</td><td>548.25</td></tr><tr><td>p@10</td><td>0.1842</td><td>77.55</td><td>38.17</td><td>92.25</td></tr><tr><td>p@20</td><td>0.1371</td><td>82.23</td><td>37.08</td><td>40.02</td></tr><tr><td rowspan="3">Rigid</td><td>R_prec</td><td>0.2133</td><td>114.24</td><td>73.96</td><td>263.34</td></tr><tr><td>p@10</td><td>0.0942</td><td>62.77</td><td>73.73</td><td>105.59</td></tr><tr><td>p@20</td><td>0.0767</td><td>72.14</td><td>67.42</td><td>47.18</td></tr></table></body></html>
+
+从表2实验结果可知，当支持度变化时，本文检索模型检索结果的各个评价指标值是单语言检索基准MRB的 $5 9 . 7 2 \%$ (最低)至 $124 . 3 2 \%$ (最高)范围，比跨语言基准算法CLRB 检索结果的各个指标值提高$4 1 . 1 9 \%$ 最低)至 $9 7 . 7 9 \%$ (最高)范围；比基于伪相关反馈的印尼中跨语言检索基准CLRPRF的提高 $30 . 1 9 \%$ (最低)至 $5 7 3 . 1 6 \%$ (最高)范围，效果比较显著。另外，表
+
+2还表明，长查询类型DESC的检索效果比短查询类型 TITLE 的好，对于长查询类型DESC，本文检索模型检索结果的Rigid类型的R_prec 值比单语言检索的提高了 $2 4 . 3 2 \%$ (即(0.2321-0.1867)/0.1867)。
+
+表3实验结果表明，当置信度阈值变化时，本文检索模型检索结果的各个评价指标值占单语言检索基准MRB的 $60 . 7 2 \%$ 至 $1 2 6 . 7 8 \%$ 范围，最好的情况是其长查询类型DESC的Rprec值比单语言检索的提高了$1 4 . 2 5 \%$ (即Rigid 类型的R_prec 值:(0.2133-0.1867)/0.1867)。与跨语言基准算法CLRB比较，本文检索模型检索结果的各个评价指标值提高 $3 7 . 0 8 \%$ 至 $9 0 . 4 4 \%$ 同时，比CLR_PRF 基准的提高了 $2 8 . 5 1 \%$ 至 $54 8 . 2 5 \%$ 效果比较显著。另外，表3还表明，长查询类型DESC的检索效果比短查询类型TITLE的好。
+
+(3)支持度和置信度对本文模型的检索性能影响在不同的矩阵加权支持度阈值ms和置信度阈值mc下，本文印尼中跨语言检索模型检索性能如表4(其中矩阵加权置信度 $m c { = } 0 . 0 1$ )和表5(其中矩阵加权支持度 $m s { = } 0 . 5$ 所示。
+
+表4支持度变化时本文跨语言检索模型的检索性能 $( m c { = } 0 . 0 1 )$   
+
+<html><body><table><tr><td rowspan="2">查询类型</td><td rowspan="2">评测类型</td><td rowspan="2">评价指标</td><td colspan="6">矩阵加权支持度ms</td></tr><tr><td>0.5</td><td>0.55</td><td>0.6</td><td>0.65</td><td>0.7</td><td>0.75</td></tr><tr><td rowspan="6">TITLE</td><td rowspan="3">Relax</td><td>R_prec</td><td>0.2359</td><td>0.2361</td><td>0.234</td><td>0.2328</td><td>0.2318</td><td>0.2424</td></tr><tr><td>p@10</td><td>0.1417</td><td>0.1625</td><td>0.1417</td><td>0.1417</td><td>0.1417</td><td>0.1167</td></tr><tr><td>p@20</td><td>0.1042</td><td>0.1104</td><td>0.1021</td><td>0.1021</td><td>0.1000</td><td>0.1146</td></tr><tr><td rowspan="3">Rigid</td><td>R_prec</td><td>0.2443</td><td>0.2443</td><td>0.2032</td><td>0.202</td><td>0.2008</td><td>0.211</td></tr><tr><td>p@10</td><td>0.0875</td><td>0.1083</td><td>0.0875</td><td>0.0875</td><td>0.0875</td><td>0.0833</td></tr><tr><td>p@20</td><td>0.0646</td><td>0.0708</td><td>0.0625</td><td>0.0625</td><td>0.0604</td><td>0.0708</td></tr><tr><td rowspan="6">DESC</td><td rowspan="3">Relax</td><td>R_prec</td><td>0.2399</td><td>0.2376</td><td>0.2367</td><td>0.2371</td><td>0.2332</td><td>0.2455</td></tr><tr><td>p@10</td><td>0.1875</td><td>0.1917</td><td>0.1792</td><td>0.1875</td><td>0.1875</td><td>0.1958</td></tr><tr><td>p@20</td><td>0.1396</td><td>0.1438</td><td>0.1458</td><td>0.1438</td><td>0.1396</td><td>0.1417</td></tr><tr><td rowspan="3">Rigid</td><td>R_prec</td><td>0.2443</td><td>0.2421</td><td>0.2413</td><td>0.242</td><td>0.2056</td><td>0.2173</td></tr><tr><td>p@10</td><td>0.0958</td><td>0.0917</td><td>0.0875</td><td>0.0875</td><td>0.0833</td><td>0.0917</td></tr><tr><td>p@20</td><td>0.0771</td><td>0.0771</td><td>0.0792</td><td>0.0771</td><td>0.0729</td><td>0.075</td></tr></table></body></html>
+
+表5置信度变化时本文跨语言检索模型的检索性能 $( m s = 0 . 5 )$ 号  
+
+<html><body><table><tr><td rowspan="2">查询类型</td><td rowspan="2">评测类型</td><td rowspan="2">评价指标</td><td colspan="5">矩阵加权置信度mc</td></tr><tr><td>0.008</td><td>0.01</td><td>0.05</td><td>0.08</td><td>0.1</td></tr><tr><td rowspan="6">TITLE</td><td rowspan="3">Relax</td><td>R_prec</td><td>0.2362</td><td>0.2359</td><td>0.2349</td><td>0.2345</td><td>0.2342</td></tr><tr><td>p@10</td><td>0.1417</td><td>0.1417</td><td>0.1417</td><td>0.1375</td><td>0.1333</td></tr><tr><td>p@20</td><td>0.1042</td><td>0.1042</td><td>0.1021</td><td>0.1</td><td>0.1</td></tr><tr><td rowspan="3">Rigid</td><td>R_prec</td><td>0.2445</td><td>0.2443</td><td>0.2434</td><td>0.2425</td><td>0.2418</td></tr><tr><td>p@10</td><td>0.0875</td><td>0.0875</td><td>0.0875</td><td>0.0875</td><td>0.0833</td></tr><tr><td>p@20</td><td>0.0646</td><td>0.0646</td><td>0.0625</td><td>0.0625</td><td>0.0625</td></tr><tr><td rowspan="6">DESC</td><td rowspan="3">Relax</td><td>R_prec</td><td>0.2399</td><td>0.2394</td><td>0.2401</td><td>0.2156</td><td>0.2124</td></tr><tr><td>p@10</td><td>0.1875</td><td>0.1875</td><td>0.1875</td><td>0.1792</td><td>0.1792</td></tr><tr><td>p@20</td><td>0.1396</td><td>0.1375</td><td>0.1396</td><td>0.1354</td><td>0.1333</td></tr><tr><td rowspan="3">Rigid</td><td>R_prec</td><td>0.2443</td><td>0.1402</td><td>0.2444</td><td>0.2204</td><td>0.2171</td></tr><tr><td>p@10</td><td>0.0958</td><td>0.0958</td><td>0.0958</td><td>0.0917</td><td>0.0917</td></tr><tr><td>p@20</td><td>0.0771</td><td>0.0771</td><td>0.0771</td><td>0.0771</td><td>0.075</td></tr></table></body></html>
+
+从表4和表5可以看出，对于TITLE和DESC类型查询，随着矩阵加权支持度或置信度阈值的不断提高，本文检索模型检索结果的R_prec、 $\mathsf { p } @ 1 0$ 和 $\mathfrak { p } \mathcal { Q } 2 0$ 值变化比较缓慢，有些呈现下降的趋势。主要原因分析如下：在查询主题严重漂移的情况下，随着矩阵加权支持度或置信度阈值的不断提高，从矩阵加权词间关联规则中获得的扩展词逐渐减少，导致跨语言检索性能下降；反之，当支持度或者置信度阈值下降时，检索系统获得的扩展词会多些，跨语言检索性能得到改善和提升。但是，当扩展词增多时，虚假的扩展词即噪音出现的机会也增多，此时也会导致检索性能降低。因此，如何确定一个合适的支持度或置信度阈值，是值得研究的问题。
+
+# (4）实验结果分析
+
+理论分析和实验结果表明，与单语言检索基准MRB、传统的跨语言检索基准CLRB和传统的基于伪相关反馈的跨语言查询算法CLRPRF比较，本文提出的印尼中跨语言检索模型能有效地减少查询主题漂移问题，其检索性能获得了很大的改善和提高。表 2和表3实验结果表明，其检索结果的R_prec、 $\mathsf { p } @ 1 0$ 和 $\mathsf { p } @ 2 0$ 值均达到单语言检索基准MB 的 $60 \%$ 以上，最好的情况是其Rprec值比单语言检索提高了$2 4 . 3 2 \%$ 特别地，其检索结果比跨语言检索基准CLRB和CLR_PRF的好，提高最大幅度达到 $5 4 8 . 2 5 \%$ 。这些实验结果表明，本文提出的印尼中跨语言信息检索模型是有效的，能改善和提高跨语言信息检索性能。其主要原因分析如下：在跨语言信息检索中，查询翻译结果对跨语言检索结果影响较大，常常导致跨语言初检结果质量不如单语言的初检结果，即出现严重的查询主题漂移问题，而将用户浏览、点击、下载行为，矩阵加权关联模式挖掘与查询扩展等技术融合应用到印尼中跨语言信息检索模型，可以获得与原查询最相关的反馈信息，通过矩阵加权关联规则挖掘得到与原查询相关的扩展词实现跨语言查询扩展，可极大减少跨语言检索中存在的严重主题漂移问题，提高印尼中跨语言检索性能。
+
+同时，矩阵加权支持度和置信度对本文的印尼中跨语言信息检索模型的检索性能是有影响的，矩阵加权支持度或置信度过高，会遗漏一些与原查询相关的扩展词，导致跨语言查询扩展性能降低；反之，如果其过低，与原查询不相关的扩展词会出现或增多，严重的情况会导致新的查询主题漂移。因此，如何取得一个合适的支持度和置信度阈值是值得研究的课题。
+
+# 4结语
+
+随着中国和东盟国家各个领域的交流日益加深，针对东盟国家语言的跨语言信息检索与跨语言信息服务研究显得迫切和重要。本文以印尼语和汉语为研究对象，将用户点击行为与矩阵加权关联模式挖掘融合引入印尼中跨语言信息检索模型，阐述了该模型实现的关键技术，实验结果表明，本文所提的模型是有效的，能减少查询主题漂移，解决了跨语言信息检索长期存在的严重主题漂移问题，提高和改善印尼中跨语言信息检索性能，对长查询的检索效果更好。
+
+由于搜索引擎的研究范围广以及要考虑的因素比较多，本文的实验工作是在基于向量空间模型的跨语言检索系统中进行的，是模拟实验。下一步研究重点是：将该检索模型实用化，开发搜索引擎环境下实用的印尼中跨语言信息检索系统，同时，深入研究矩阵加权关联模式挖掘参数对印尼中跨语言检索性能的影响，找出其变化的规律，以便推广到实际系统中。
+
+(致谢：感谢匿名外审专家以及编辑部的修改意见。)
+
+# 参考文献：
+
+[1] Gao JF,Nie JY,Zhang J,et al.TREC-9 CLIR Experiments at MSRCN[C]//Proceedingsofthe9th Text Retrieval Evaluation Conference.2001. [2] 吴丹，何大庆，王惠临．基于伪相关反馈的跨语言查询扩 展[J]．情报学报，2010，29(2):232-239.(Wu Dan，He Daqing，Wang Huilin. Cross-Language Query Expansion Using Pseudo Relevance Feedback [J].Journal of the China Society for Scientific and Technical Information,2010,29(2):   
+232-239.) [3] 吴丹，何大庆，王惠临．一种基于相关反馈的跨语言信息 检索查询翻译优化技木研究[J]．情报学报，2012，31(4):   
+398-406.(Wu Dan,He Daqing,Wang Huilin.A Relevance Feedback Based Query Translation Enhancement Technique in Cross Language Information Retrieval [J].Journal of the China Society for Scientific and Technical Information,2012,   
+31(4): 398-406.) [4] Chinnakotla MK,Raman K,Bhattacharyya P.Multilingual Pseudo-relevance Feedback: Performance Study of Assisting Languages [C]//Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics.Association for Computational Linguistics,2010:1346-1356. [5] Parton K，Gao J.Combining Signals for Cross-Lingual Relevance Feedback [C]//Proceedings of the 8th Asia Information Retrieval Societies Conference (AIRS 2012), Tianjin,China.Springer Berlin Heidelberg.2012. [6]Lee C J，Croft W B. Cross-Language Pseudo-Relevance Feedback Techniques for Informal Text [C]//Proceedings of the 36th European Conference on IR Research (ECIR 2014), Amsterdam,The Netherlands.Springer International Publishing, 2014.   
+[7]闭剑婷，苏一丹．基于潜在语义分析的跨语言查询扩展方 法[J]．计算机工程，2009,35(10):49-50.(Bi Jianting，Su Yidan.Expansion Method for Language-crossed Query Based on Latent Semantic Analysis [J]. Computer Engineering, 2009,35(10): 49-50.)   
+[8]魏露,李书琴,李伟男，等．跨语言查询扩展优化[J].计算 机工程与设计,2014,35(8):2785-2788,2803.(WeiLu,Li Shuqin,Li Weinan, et al. Optimization of Cross-language Query Expansion [J]. Computer Engineering and Design, 2014,35(8): 2785-2803.)   
+[9]宁健，林鸿飞．基于改进潜在语义分析的跨语言检索[J]. 中文信息学报，2010,24(3):105-111．(Ning Jian，Lin Hongfei. Cross-Language Information Retrieval Based on Improved Latent Semantic Indexing [J]. Journal of Chinese Information Processing,2010,24(3):105-111.)   
+[10]罗远胜，王明文，勒中坚，等．跨语言信息检索中的双语 主题相关模型[J]．小型微型计算机系统，2013，34(12): 2758-2763.(Luo Yuansheng,Wang Mingwen,Le Zhongjian, et al.Bilingual Topic Correlation Model in Cross-lingual Information Retrieval [J]. Journal of Chinese Computer Systems,2013,34(12): 2758-2763.)   
+[11]Rahimi R,Shakery A,KingI. Multilingual Information Retrieval in the Language Modeling Framework[J]. Information Retrieval Journal,2015,18(3): 246-281.   
+[12]Ganguly D,Leveling J, Jones G JF.Cross-lingual Topical Relevance Models [C]//Proceedings of the 24th International Conference on Computational Linguistics (COLING 2012). 2012.   
+[13]Wang XW, Zhang Q,Wang XJ,et al.LDA Based PSEUDO Relevance Feedback for CrossLanguage Information Retrieval[C]//Proceedingsofthe2ndInternational Conference on Cloud Computing and Intelligence Systems. IEEE,2012.   
+[14]Wang XW,Wang XJ,ZhangQ,et al.A Web-Based CLIR Svstem with Cross-Lingual Topical Pseudo Relevance Feedback [C]//Proceedingsof the4th International Conference on Conference and Labs of the Evaluation Forum (CLEF) Initiative,Valencia,Spain.2013.   
+[15]王序文，王小捷，孙月萍．双语主题跨语言伪相关反馈[J]. 北京邮电大学学报，2013，36(4):81-84.(Wang Xuwen, Wang Xiaojie,Sun Yueping.Cross-lingual Pseudo Relevance Feedback Based on Bilingual Topics [J]. Journal of Beijing University of Posts and Telecommunications,2013,36(4): 81-84.)   
+[16]Wang X W, Zhang Q,Wang X J,et al. Cross-lingual Pseudo Relevance Feedback Based on Weak Relevant Topic Alignment [C]//Proceedingsof the 29th Pacific Asia Conference on Language, Information and Computation Shanghai,China.2015:529-534.   
+[17]黄名选，严小卫，张师超．基于矩阵加权关联规则挖掘的 伪相关反馈查询扩展[J]．软件学报，2009，20(7): 1854-1865.(Huang Mingxuan,Yan Xiaowei, Zhang Shichao. Query Expansion of Pseudo Relevance Feedback Based on Matrix-Weighted Association Rules Mining [J].Journal of Software,2009,20(7):1854-1865.)   
+[18]Agrawal R,Imielinski T, Swami A.Mining Association Rules Between Sets of Items in Large Database[C]//Proceedings of 1993ACMSIGMODInternational Conference on Management of Data.1993.   
+[19]Salton G, Buckley C.Term-weighting Approaches in Automatic Text Retrieval [J]. Information Processing & Management,1988, 24(5): 513-523.
+
+# 利益冲突声明：
+
+作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据见期刊网络版http://www.infotech.ac.cn。  
+[1]黄名选.result.xls.研究结果数据.
+
+收稿日期:2016-09-18  
+收修改稿日期:2016-11-09
+
+# Cross Language Information Retrieval Model Based on Matrix-weighted Association Patterns Mining
+
+Huang Mingxuan   
+(Guangxi Key Laboratory Cultivation Base of Cross-border E-commerce Intelligent Information Processing, Guangxi University of Finance and Economics, Nanning 53ooo3, China)   
+(Department of Computer Science, Guangxi University of Finance and Economics, Nanning 53oo03, China)
+
+Abstract:[Objective]The purpose of this paper is to solve the query drift isue facing cross language information retrieval. It proposes a new model to retrieve Chinese documents with Indonesian queries.[Methods] The new model integrated the algorithms of matrix-weighted association paterns mining，query expansion，aswell asuser click-download behaviors. [Results] The R_prec, $\mathtt { p } \ @ 1 0$ and $\mathfrak { p } @ 2 0$ values of the proposed model were higher than the $60 \%$ benchmark of the monolingual retrieval on the CLIR NTCIR-5 data set. These results were $3 7 \%$ higher than cross language retrieval baseline and $28 \%$ higher than the existing algorithms based on pseudo relevance feedback. [Limitations]The proposed model was only examined in the crosslanguage retrieval system built with the vector space model,which needs tobedone with thereal world search engines.[Conclusions]The proposed modelcould effectively reduce query drift in cross language retrieval,and retrieve more relevant Chinese documents with Indonesian long queries.
+
+KeyWords: Click BehaviorAssociation Pattrns MiningIndonesian-Chinese Cross Language Retrieval Model Cross Language Information RetrievalMatrix-weighted Association Rule
+
+# HighWirePress 收购 Semantico
+
+学术出版公司HighWire Press于近日宣布成功收购 Semantico,Semantico 是一家为学术出版市场提供技术和服务的私企。这项收购将使得HighWire 提高其技术创新能力，团队变得更加强大，产品组合变得更加丰富。
+
+“创新和以客户为中心是HighWire 的核心，Semantico 解决方案集和整个团队的加入，提高了我们的产品服务能力，有助于我们服务于整个行业。”HighWire CEODan Filby说：“这次收购也符合我们公司的长期增长和价值创造战略。”
+
+Semantico 董事长兼创始人Richard Padley补充:“我们的团队能够加入到HighWire,我感到非常兴奋。整合后更大规模的组织将有更强的服务能力，将为当前和未来的出版商带来巨大的价值。”
+
+HighWire的创新解决方案包括：
+
+(1)JCore：行业领先、同类产品中最佳的开放式期刊平台;(2)Folio:针对学术研究的动态电子书平台;(3)Scolaris:针对多样化、专业化内容进行了优化的综合发布解决方案;(4)SAMS Sigma:基于云的、业界领先的、与访问管理集成的身份管理解决方案;(5)BenchPress:在线投稿和同行评议跟踪系统;(6)Impactand Usage Vizors：可视化分析工具，提供无与伦比的洞察力，为基于证据的出版决策提供支持;斯坦福大学图书馆员、HighWire 董事会成员兼学术顾问Mike Keler表示:“HighWire 继续为客户提供更高的价值，并且这次收购将有望进一步促进他们作为行业顶尖出版技术提供商的努力。”(编译自:http://home.highwire.org/news/highwire-press-acquires-semantico)
+
+(本刊讯)

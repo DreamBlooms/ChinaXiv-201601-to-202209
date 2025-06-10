@@ -1,0 +1,353 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201607191464 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曾鹏,曹霞,郭朝晖,肖细元,刘亚男,辛立庆.珊瑚树（Vibumum odoratisinum）对污染土壤中镉的耐受和富集特征.生态学报,2017,37（19)：6472-6479.  \nZengP,CoXesoil.ActaEcologica Sinica,2017,37(19）:6472-6479.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "珊瑚树（Viburnumodoratissinum）对污染土壤中镉的耐 受和富集特征 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曾鹏，曹霞,郭朝晖\\*，肖细元，刘亚男，辛立庆中南大学冶金与环境学院环境工程研究所，长沙410083",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;通过温室盆栽试验,研究珊瑚树对土壤中镉(Cd)的耐受和富集特征。研究结果表明,珊瑚树对污染土壤中Cd 具有较强的耐受能力。培养56d内,土壤中Cd 含量对珊瑚树生物量影响不明显;随着培养时间的延长 $\\therefore 1 0 5 - 2 0 3 \\mathrm { ~ d } ;$ ,珊瑚树的生长明显受到土壤中Cd 的抑制作用。与对照处理（土壤中Cd含量为 $3 . 6 ~ \\mathrm { m g / k g } ^ { \\cdot }$ 相比,培养 $ { \\mathrm { i } } 5 4  { \\mathrm { ~ d ~ } }$ 后,土壤中 Cd 含量为 $2 4 . 6 ~ \\mathrm { m g / k g }$ 处理下珊瑚树叶片中叶绿素a、叶绿素b、类胡萝 $\\harpoonright$ 素和丙二醛(MDA)含量没有明显变化;培养 203d后，土壤中Cd含量为24.6（204号 $\\mathrm { m g / k g }$ 处理下珊瑚树叶片中类胡萝 $\\boldsymbol { \\mathsf { h } }$ 素和 MDA 含量无明显变化,但叶片中叶绿素a和叶绿素b含量明显受到抑制,从而导致珊瑚树叶片的生长明显受到抑制( $P { < } 0 . 0 5 \\$ )。培养203d后,珊瑚树对土壤中Cd的富集系数和转运系数均大于1,表明珊瑚树对土壤中Cd具有一定的富集和转运能力。上述结果表明,珊瑚树对Cd污染土壤具有一定的生态修复潜力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Cd;污染土壤;景观植物;植物修复;珊瑚树",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tolerance and accumulation characteristics of Viburnum odoratissinum to cadmium in contaminated soil ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZENG Peng，CAO Xia,GUO Zhaohui\\*, XIAO Xiyuan，LIU Yanan， XIN Liqing InstituteofEniroentalEngineering，hoolofetallrgyndEiroent，entralSouthUnersity，hangsha4，hina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Apot experiment wasconducted to study the tolerance andaumulation characteristicsof Viburnum odoratissinum growing in cadmium (Cd)-contaminated soil. The results showed that $V .$ ，odoratissinum had a strong tolerance to Cdicontaminated soil.The biomass of V.odoratisinum was slightly changedbythesoil Cd content within 56 days cultivation.With extendedcultivation time（105—203d），thegrowthof V.odoratisinum wasobviously inhibited by the soil Cd content.After 154 days of cultivation，when the content of Cd in soil was $2 4 . 6 ~ \\mathrm { m g / k g }$ , the contents of chlorophyll a, chlorophyllb,carotenoidandmalondialdehyde（MDA）infresh leavesof V.odoratissinum were slightlydiferentfrom that ofthecontrol.After2O3daysofcultivation,thecarotenoidandMDAcontents infreshleavesincreasedslightly，whereas the chlorophyll a and chlorophyll b contents was obviously inhibited.Especially，the leaf growth of $V$ ，odoratissinum was inhibited significantly ( $\\scriptstyle P < 0 . 0 5 .$ ） when the Cd content in soil was $2 4 . 6 ~ \\mathrm { m g / k g }$ . Moreover，the accumulation and transferring factorsof V.odoratissnumforCd in thesoil were more than1after2O3daysof cultivation.Theresultssuggested that $V$ odoratissinum is helpful for Cd-contaminated soil ecoremediation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Cd；contaminated soil；ornamental plants；phytoremediation；Viburnum odoratissinum ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着我国工业化和城镇化建设的快速发展,土壤污染形势严峻,尤其是重金属污染问题突出[1-3]。Cd 是毒性较强的重金属元素， $0 . 1 ~ \\mathrm { m g / L }$ 处理浓度即可引起细胞代谢的紊乱和结构损伤[4],而且Cd等重金属能通过生物富集和生物放大作用对生产者和消费者产生一定的毒害[5」,因此解决土壤Cd 污染问题刻不容缓。利用物理和化学方法治理与修复大面积Cd污染土壤存在难度较大、处理成本高等问题,而植物修复技术具有治理成本低廉、环境友好、可原位治理且后期处理简易等特点,成为目前研究较多且发展前景较好的一种修复技术[6-7]。Cd 污染土壤修复植物如东南景天(Sedum alfredi)[8]、龙葵（Solanum nigrumL.)[9]、宝山堇菜（Violabaoshanensis）[10]等备受关注,由于这些超富集植物植株矮小、生长缓慢,且均为1年生草本植物,对土壤中重金属的吸收具有明显的选择性和地理分布特征,从而限制其修复应用[11]。近年来,一些Cd耐性植物如芦竹（Arundo donax L.）[12]、东方香蒲（Typhaorientalis Presl）[13]萎蒿（Artemisia selengensis）[14]等对土壤中Cd具有较强的耐受和一定的富集能力,但主要用于湿地Cd 污染土壤和矿区土壤的生态修复。一些耐性强、具有观赏价值和广泛生态位适应的景观植物,如常绿灌木或小乔木海桐（Pittos porumtobira）[15]、四季桂（Osmanthusfragrans var.thunbergii）[16]雪松（Cedrus deodara）[17]等是抗Cd 污染较好的园林绿化树种,由于具有较好的Cd 耐性、运移能力和地上部分积累能力,因此选择具有一定耐受和富集能力的景观植物修复重金属污染土壤具有重要意义[18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "珊瑚树（Viburmum odoratissinum）,为忍冬科荚蒾属常绿灌木或小乔木树种,广泛用于城市景观美化和道路绿化,具有很高的观赏价值和广泛的生态适应性。杜晓等[19]发现珊瑚树对Cd具有较强的抗性,而且土壤中Cd 浓度为 $4 0 0 ~ \\mathrm { m g / k g }$ 时,根部对Cd 的富集量可达 $9 0 . 1 0 ~ \\mathrm { m g / k g _ { \\mathrm { ~ o ~ } } }$ 谭立敏等[20]对株洲霞湾港域的珊瑚树重金属蓄积量进行调查,发现珊瑚树对 Cd 富集系数为2.299,属于重金属富集型植物。杨学军等[21]研究表明Cd 在珊瑚树叶片和枝条的含量均高于其它绿化树木,分别达到 $1 . 0 4 3 ~ \\mathrm { m g / k g }$ 和 $1 . 8 3 4 ~ \\mathrm { m g / k g }$ 。然而,珊瑚树对污染土壤中Cd的耐受和富集特征目前还没有系统的研究报道,本文通过温室培养试验,研究污染土壤中Cd对珊瑚树生物量、光合色素和MDA含量的影响,以及Cd在珊瑚树不同部位的累积和分布特征,旨在为选用珊瑚树生态修复Cd等重金属污染土壤工程应用提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 供试土壤和植物",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试土壤取自湖南省衡阳市某典型矿冶区周边0— $2 0 \\ \\mathrm { c m }$ 的表层土壤,其基本理化性质如表1所示。供试植物珊瑚树幼苗从长沙市某苗木基地选购,为2年生幼苗,其Cd 含量为 $1 . 3 7 ~ \\mathrm { m g / k g }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b5fdb799daeee71d4b4bc7690749cc71c085f4aa39f158f283e6ff32e8916562.jpg",
+        "table_caption": [
+            "表1供试土壤的基本理化性质",
+            "Table1 Basic physiochemical properties of the tested soil "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">有机质 Organic matter</td><td rowspan=\"2\">速效氮 Available N</td><td rowspan=\"2\">速效磷 Available P</td><td rowspan=\"2\">速效钾 Available K</td><td colspan=\"3\">重金属Heavy metal</td></tr><tr><td>As</td><td>Cd</td><td>Pb</td></tr><tr><td>含量/（g/kg） Content</td><td colspan=\"2\">含量/（g/kg) Content</td><td>含量/（mg/kg) Content</td><td colspan=\"3\">含量/（mg/kg)</td></tr><tr><td>7.76 5.05</td><td></td><td></td><td></td><td></td><td>Content</td><td></td></tr><tr><td></td><td>5.60</td><td>9.80</td><td>15.20</td><td>34.40</td><td>3.60</td><td>96.20</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试土壤样品自然风干、磨细后过 $5 ~ \\mathrm { m m }$ 筛,每盆装入 $3 . 5 ~ \\mathrm { k g }$ 风干土于上口直径 $1 8 ~ \\mathrm { c m }$ 、下口直径 $1 3 \\ \\mathrm { c m }$ 和高 $1 7 \\ \\mathrm { c m }$ 的塑料盆中。根据我国《土壤环境质量标准》（GB15618—1995）和《展览会用地土壤环境质量评价标准（暂行）》（HJ350—2007），以 $\\mathrm { C d } \\left( \\mathrm { N O } _ { 3 } \\right) _ { 2 } \\cdot 4 \\mathrm { H } _ { 2 } \\mathrm { O }$ 作为外源镉向供试土壤中分别添加 $0 \\ \\mathrm { m g / k g }$ （对照，CK,即土壤中Cd 背景值为 $3 . 6 ~ \\mathrm { m g / k g }$ ）， $6 ~ \\mathrm { m g / k g }$ （T1,即土壤中Cd含量为 $9 . 6 ~ \\mathrm { m g / k g } ^ { \\cdot }$ ）， $2 1 ~ \\mathrm { m g / k g }$ (T2,即土壤中Cd含量为 $2 4 . 6 ~ \\mathrm { m g / k g } ^ { \\cdot }$ )形成Cd 污染土壤系列,每个处理重复4次。在室内平衡2周后统一移栽健壮、大小基本一致的珊瑚树幼苗,每盆4株,于2013年7月—2014年2月在温室内进行培养。培养期间,浇灌去离子水以保持供试土壤田间持水量为 $7 0 \\%$ 。光照 $1 0 ~ \\mathrm { { h / d } }$ ,温室内昼夜温度为 $3 0 / 2 0 \\mathrm { ^ { \\circ } C }$ 。分别在培养56、105、154d和$2 0 3 \\mathrm { ~ d ~ }$ 后进行动态取样,同时收集每株植物相同部位叶片用于叶绿素和丙二醛含量分析,其余按根、茎、叶分开,依次用自来水、去离子水清洗后，在 $1 0 5 \\mathrm { ^ { \\circ } C }$ 下杀青 $3 0 ~ \\mathrm { m i n }$ ,然后在 $6 0 ^ { \\circ } \\mathrm { C }$ 下烘干至恒重。称量干重、粉碎后备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 测试与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤基本理化性质的测定采用鲁如坤[22]的方法：土壤 $\\mathrm { \\ p H }$ 采用Mettler Toledo $4 2 0 ~ \\mathrm { p H }$ 计测定（水土比为2.5:1);有机质采用低温外热重铬酸钾氧化-比色法测定;土壤叶片速效氮采用碱解扩散-硫酸滴定法测定；土壤速效磷采用碳酸氢钠提取-钼锑抗比色法测定;土壤速效钾采用乙酸铵提取-原子吸收分光光度法测定。植物叶绿素和 MDA含量采用分光光度计测定[23]。供试土壤样品采用 $\\mathrm { H N O } _ { 3 } – \\mathrm { H C l } – \\mathrm { H } _ { 2 } \\mathbf { O } _ { 2 } ^ { \\prime }$ （MDS-8G型多通量密闭微波消解仪)消解;植物样品采用 $\\mathrm { H N O } _ { 3 } { \\cdot } \\mathrm { H C l O } _ { 4 }$ 法消解[24（体积比为3:1)。所有消解液中Cd含量采用原子吸收分光光度计(TAS-990,北京普析通用)测定。植物中Cd 的富集系数[25]和转运系数[26]根据如下公式计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "富集系数 ${ \\mathrm { B C } } =$ 植物地上或地下部分Cd含量/土壤中Cd含转运系数 $\\mathrm { T F } =$ 植物地上部分Cd 含量/根部Cd 含量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所有试验数据采用 Microsoft Excel 2010进行分析处理。采用SPSS16.0统计软件进行显著性检验,利用单因素方差分析(One-way ANOVA)不同处理之间的差异， $\\textstyle P < 0 . 0 5$ 为显著性水平。利用CANOCO software V4.5软件对数据进行典型对应分析（CCA）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Cd对珊瑚树生物量的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物的生物量在一定程度上可反应植株对土壤中Cd的耐受能力。从图1可看出，当土壤Cd含量范围为$9 . 6 { - } 2 4 . 6 ~ \\mathrm { m g / k g }$ 时，珊瑚树的生长受到一定的抑制作用。培养 $5 6 ~ \\mathrm { d } , \\mathrm { C K } , \\mathrm { T 1 }$ 和T2处理下,珊瑚树的生物量没有明显变化。随着培养时间的延长( $1 0 5 { \\ - } { \\ - } 2 0 3 { \\mathrm { ~ d } } )$ ，珊瑚树的生长明显受到土壤中Cd的抑制作用。在培养$1 0 5 , 1 5 4 , 2 0 3 \\mathrm { ~ d ~ }$ 后，T1处理下珊瑚树的生物量与CK处理相比分别下降 $1 6 . 2 \\% , 3 7 . 3 \\% , 1 9 . 7 \\% ; \\mathrm { T 2 }$ 处理下珊瑚树的生物量较CK处理分别下降 $4 0 . 6 \\% , 3 9 . 7 \\% , 2 0 . 2 \\%$ 。上述研究表明,土壤中 $\\mathrm { \\Delta \\chi _ { d } }$ 会对珊瑚树的生长产生不利影响,这与Zhou等[27]研究结果相似。但从整个培养周期来看,在供试条件下珊瑚树生物量呈现明显增加趋势,表明在 $\\mathrm { \\dot { C } d } ^ { \\vert }$ 含量为3.6- $2 4 . 6 ~ \\mathrm { m g / k g }$ 范围的污染土壤上，珊瑚树生长状况良好。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e78c35adf1f449ca68991cb5181cb6a6a8768f7174bfdf4353ae2b53d3d39ae1.jpg",
+        "img_caption": [
+            "图1不同Cd处理对珊瑚树整株生物量的影响Fig.1Effect of soil Cd on the total dry biomass of Viburnumodoratissinum"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CK：对照Control;T1：土壤中Cd 含量为 $9 . 6 ~ \\mathrm { m g / k g }$ ;T2：土壤中Cd含量为 $2 4 . 6 ~ \\mathrm { m g / k g }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对培养203d后的珊瑚树根、茎和叶生物量进行统",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计分析。从图2可看出,T1和T2 处理下珊瑚树的根、茎和整株生物量与CK 处理相比无显著差异,这与董萌等[14]研究结果类似。T1处理下（土壤中Cd含量为 $9 . 6 ~ \\mathrm { m g / k g } ^ { \\cdot }$ ),土壤中Cd 对珊瑚树叶片的生长发育有促进作用,叶片生物量较CK处理显著增加 $1 3 . 9 \\% ( P { < } 0 . 0 5 )$ ;T2 处理下（土壤中Cd 含量为 $2 4 . 6 ~ \\mathrm { m g / k g } \\rangle$ ,珊瑚树叶片的生长明显受到土壤中Cd抑制作用,其叶片生物量较CK处理显著下降 $2 0 . 9 \\% ( P { < } 0 . 0 5 )$ 。尽管在高Cd含量 $( 2 4 . 6 ~ \\mathrm { m g / k g } )$ )土壤上珊瑚树叶片生物量有明显降低,但其整株生物量降低较小,与对照相比没有明显差异（图2），表明珊瑚树在高Cd含量( $2 4 . 6 ~ \\mathrm { m g / k g }$ )土壤上仍能正常生长，对土壤中Cd表现出较强的耐受能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Cd污染土壤上珊瑚树的逆境生理响应特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 光合色素含量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "叶绿素是植物进行光合作用的主要色素，其含量的高低直接反映植株光合作用水平的强弱[28]。在光合作用过程中，叶绿素a主要将光能进行转化，叶绿素b主要是对光能进行收集，类胡萝卜素主要保护叶绿素分子免遭受光氧化损伤，叶绿素 $\\mathrm { { a / b } }$ 值可以反应植物的光能利用效率[29]。从图3可看出,在整个培养期间,珊瑚树叶绿素a、叶绿素 $\\mathbf { b }$ 和类胡萝卜素含量变化幅度较大。经过56d培养，T1和T2处理下珊瑚树叶片叶绿素a含量与CK处理相比分别下降 $2 2 . 7 \\%$ 和 $3 4 . 2 \\%$ ,叶绿素b含量分别下降 $1 8 . 8 \\%$ 和 $3 7 . 4 \\%$ ，类胡萝卜素含量分别下降 $1 3 . 6 \\%$ 和 $2 4 . 8 \\%$ ,表明在珊瑚树生长的初期阶段，土壤中Cd对珊瑚树光合色素合成会产生一定的影响，其原因可能是培养初期珊瑚树吸收Cd后，Cd可与合成叶绿素相关酶的肽链中富含巯基(-SH)部分结合,改变酶的结构,从而抑制叶绿素合成酶的活性[30-3]。培养至105d时,T1处理下珊瑚树叶片叶绿素a、叶绿素b 和类胡萝卜素含量较CK 处理分别下降 $3 0 . 1 \\%$ ， $1 8 . 0 \\%$ 和$3 2 . 9 \\%$ ,而 T2 处理下珊瑚树叶片叶绿素a、叶绿素b和类胡萝卜素含量与CK 处理下相近,其原因可能是植株体内活性氧产生和清除处于一种动态平衡,而高浓度Cd胁迫下可导致植株产生大量的活性氧自由基,使珊瑚树体内的抗氧化系统在一定程度上可保护其免受伤害[32-33],也有研究表明一定浓度Cd 对植物叶片叶绿素的合成具有刺激作用[34」,从而导致T2处理下光合色素含量与CK处理相当。经过 $1 5 4 \\mathrm { ~ d ~ }$ 培养后,T1与T2处理下珊瑚树叶片叶绿素a、叶绿素b 和类胡萝卜素含量均与CK 处理相近,表明在 $9 . 6 { \\ - } - 2 4 . 6 ~ \\mathrm { m g / k g ~ C d }$ 作用下,珊瑚树可能通过提升自身的某种保护机制来维持正常的光合作用。当培养至 $2 0 3 \\mathrm { ~ d ~ }$ 时，珊瑚树叶片的类胡萝卜素含量不受影响,但T1和T2处理下叶绿素a和叶绿素b 含量均受到土壤中Cd 的抑制作用。珊瑚树叶片叶绿素 $\\mathrm { { a / b } }$ 随着培养时间的延长整体上呈现下降的趋势,说明Cd对珊瑚树叶片的光能利用产生微弱的影响。因此，从光合作用层次上表明珊瑚树对污染土壤中Cd具有一定的耐受能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b352e913213004160e98102978c5bb16e9c65f98649044cbdce0e379285aead.jpg",
+        "img_caption": [
+            "图2培养 203d后不同Cd处理对珊瑚树根、茎、叶生物量的影响Fig.2 Effect of soil Cd on the biomass of roots，stems and leavesofViburnum odoratissinum after 2o3 dayscultivation不同字母表示不同水平处理间存在显著差异( $\\scriptstyle P < 0 . 0 5 .$ 0"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/15d440f9363bbb9db27516858ac324ee8fe4f7c43cf8ff2d981f641d75a70e88.jpg",
+        "img_caption": [
+            "图3不同Cd处理对珊瑚树叶片光合色素的影响",
+            "Fig.3Effect of soil Cdon the contents of photosynthetic pigments in Viburnum odoratissinum leaves "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 丙二醛含量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "丙二醛(MDA)是细胞脂质过氧化的毒性产物，也是植物组织遭受自由基持续破坏的一个重要指标[35]从图4可以看出，经过56d培养后，T2处理下MDA含量较CK处理增加 $2 1 . 0 \\%$ ,而T1处理下MDA含量较CK处理降低 $1 7 . 8 \\%$ 。培养至 $1 0 5 \\mathrm { ~ d } , \\mathrm { T } 1$ 和T2处理下珊瑚树叶片中MDA含量较CK处理分别降低 $1 6 . 3 \\%$ 和$3 1 . 3 \\%$ 。上述结果可能与植物受到Cd毒害后会应激产生保护作用来抑制膜脂过氧化反应，从而维持细胞膜结构和功能的完整性有关[36]。经过 $1 5 4 \\mathrm { ~ d ~ }$ 培养后,T1 和T2 处理下珊瑚树叶片中MDA含量逐渐高于CK处理，与CK处理相比分别增加 $3 5 . 6 \\%$ 和 $3 2 . 9 \\%$ ,表明随着培养时间的增加，Cd会对珊瑚树的生长产生一定的毒害作用，有研究表明，Cd直接或者间接的造成植物叶片细胞的损害,从而使植物细胞内产生大量的 $\\mathrm { 6 ^ { 2 - } , \\bar { 0 } H ^ { - } }$ 和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ,其可使细胞内的脂肪酸转化为膜脂过氧化产物[37],这可能是在Cd作用较长时间后造成珊瑚树叶片中 MDA 含量增加的原因。经过203d培养后,珊瑚树叶片中 MDA 含量与56d相比并未出现明显的增加,表明供试土壤中Cd 含量对珊瑚树的毒害作用处于其耐受范围之内,并未对其正常生长造成明显影响,其原因可能是珊瑚树体内存在某种保护机制（SOD、POD 和CAT),可在一定浓度Cd污染范围内对膜脂过氧化物起到清除作用[38],这可能是珊瑚树对污染土壤中Cd 具有一定耐性的原因。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d76d6c3a9fd965dbd5b83eea21b5bacb911845f335d8e07e7799ef08e0b0e725.jpg",
+        "img_caption": [
+            "图4不同Cd处理对珊瑚树叶片丙二醛含量的影响Fig.4 Effect of soil Cd on the content of malondialdehyde inViburnumodoratissinumleaves"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 珊瑚树体内Cd的累积和分布特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图5可明显看出,随着培养时间和土壤中Cd含量的增加珊瑚树体内Cd含量逐渐增加。从 $5 6 ~ \\mathrm { d }$ 到203d 的培养,CK、T1和T2 处理下珊瑚树体内重金属Cd 含量分别增加了 $6 . 1 6 \\% . 1 6 2 . 9 2 \\%$ 和 $1 7 9 . 5 5 \\%$ ,其中根部重金属Cd含量分别增加 $8 . 3 4 \\%$ $6 9 . 5 0 \\%$ 和 $9 5 . 7 1 \\%$ ,茎部Cd含量分别提高了 $4 4 . 1 6 \\% . 1 4 5 . 3 8 \\%$ 和 $7 0 . 4 4 \\%$ ，叶片重金属含量分别增加 $4 3 . 3 4 \\%$ ） $5 1 3 . 5 1 \\%$ 和 $3 2 2 . 5 8 \\%$ 。从 $5 6 \\mathrm { ~ d ~ }$ 到 $2 0 3 \\mathrm { ~ d ~ }$ 的培养,CK处理下,珊瑚树整株、根、茎和叶片Cd含量的变化幅度分别为4.38—4.65、3.64—3.94、4.69—6.76、4.89—7.01 mg/kg,其中珊瑚树体内重金属含量的增加趋势不明显,其中叶片和茎部Cd 含量增加趋势高于根部。T1处理下,珊瑚树体内重金属含量增加趋势非常明显，从 $5 6 \\textup { d }$ 到 $2 0 3 { \\mathrm { ~ d ~ } }$ 的培养，珊瑚树整株、根、茎和叶片Cd含量的变化幅度分别为4.51—11.86、6.65—11.87、5.05—12.38、2.52—15.46 mg/kg。T2 处理下,珊瑚树的体内 Cd 含量增加趋势亦非常明显，从56d到 $2 0 3 { \\mathrm { ~ d ~ } }$ 的培养,珊瑚树整株、根、茎和叶片Cd 含量的变化幅度分别为9.95—27.83、14.28—27.96、15.02—25.61、6.23—25.66 mg/kg。研究结果进一步表明,随着土壤中Cd 含量增加,珊瑚树根部中Cd 逐渐向茎部和叶片转移。总之,在整个培养期间珊瑚树对污染土壤中Cd表现出一定的累积能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "富集系数是评价植物富集重金属能力的重要指标之一,植物地上部富集系数大于1,说明植株地上部的某种重金属含量大于所生长土壤中该种重金属含量[39]。从表2可以看出,CK 处理下,珊瑚树的地上部分和地下部分的富集系数均在1左右,而且T1和T2 处理下,珊瑚树的地上部分和地下部分对Cd的富集系数随着培养时间的增加而增加,而且随着培养时间的延长（154—203d),珊瑚树对Cd的富集系数均大于1。CK 处理下，珊瑚树的转运系数在0.84—1.73,表明当土壤中Cd含量为 $3 . 6 ~ \\mathrm { m g / k g }$ ,珊瑚树表现出较强的转运能力。在T1和T2处理下,珊瑚树对Cd的转运系数随着培养时间的增加而呈现逐渐递增的趋势,而且培养至 203d,珊瑚树对Cd的转运系数均大于1。上述研究表明珊瑚树能有效富集土壤中的Cd,并存在较好的转运机制。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/011fca0a9410494774c96af086f1e6a1f9849409b5f0be0a271007a46c1568a0.jpg",
+        "img_caption": [
+            "图5不同Cd处理下珊瑚树根、茎、叶和整株中Cd含量",
+            "Fig.5 Cd contents in roots，stems,leaves and total plantsof Viburnum odoratissinum from Cd contaminated soil "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/00169ee5fadd53c8eebbb568f18f34644415476c02da12e8e42e1468dac73598.jpg",
+        "table_caption": [
+            "表2Cd在珊瑚树体内的富集系数(BC)和转运系数(TF)",
+            "Table2 Bioaccumulation coefficients（BC）and transfer factors（TF）of Cd in Viburnum odoratissinum "
+        ],
+        "table_footnote": [
+            "CK:对照 Control;T1;土壤中 Cd 含量为 $9 . 6 ~ \\mathrm { { m g } / \\mathrm { { k g } } ; \\mathrm { { T 2 } } }$ ：土壤中Cd含量为 $2 4 . 6 ~ \\mathrm { m g / k g }$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">培养时间 处理 Culture time/d Treatments</td><td colspan=\"3\">富集系数BC</td><td rowspan=\"2\">转运系数TF</td></tr><tr><td></td><td>地上部分 shoots</td><td>地下部分roots</td></tr><tr><td>56</td><td>CK</td><td>1.34</td><td>1.01</td><td>1.32</td></tr><tr><td></td><td>T1</td><td>0.40</td><td>0.69</td><td>0.57</td></tr><tr><td></td><td>T2</td><td>0.31</td><td>0.58</td><td>0.54</td></tr><tr><td></td><td>CK</td><td>0.91</td><td>1.08</td><td>0.84</td></tr><tr><td></td><td>T1</td><td>0.88</td><td>0.97</td><td>0.91</td></tr><tr><td>nttp</td><td>T2</td><td>0.62</td><td>0.81</td><td>0.77</td></tr><tr><td>154</td><td>CK</td><td>1.49</td><td>0.86</td><td>1.73</td></tr><tr><td></td><td>T1</td><td>0.94</td><td>0.91</td><td>1.03</td></tr><tr><td></td><td>T2</td><td>0.79</td><td>1.09</td><td>0.72</td></tr><tr><td>203</td><td>CK</td><td>1.74</td><td>1.10</td><td>1.65</td></tr><tr><td></td><td>T1</td><td>1.30</td><td>1.27</td><td>1.34</td></tr><tr><td></td><td>T2</td><td>1.08</td><td>1.14</td><td>1.06</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用CANOCO software $\\mathrm { ~ V ~ } 4 . 5$ 对珊瑚树体内Cd含量和植物叶片的生理特征指标进行典型对应分析（CCA）。从图6中可看出，珊瑚树体内Cd对叶片叶绿素a、叶绿素b和类胡萝卜素等生理指标影响明显。珊瑚树体内Cd含量与其叶片MDA呈正相关；而珊瑚树体内Cd含量与叶绿素 $\\mathrm { { a / b } }$ 呈负相关。叶绿素a与类胡萝卜素之间夹角最小，表明两者之间具有较强的相关性。研究表明，污染土壤中Cd的吸收会促进珊瑚树体内MDA含量的增加，一定程度抑制叶绿素a、叶绿素b和类胡萝卜素的合成，影响珊瑚树对光能的利用，从而一定程度影响珊瑚树正常生长。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)土壤中Cd对珊瑚树的生长有一定影响。珊瑚树对污染土壤中Cd的吸收会促进体内MDA含量增加，抑制叶绿素a、叶绿素b和类胡萝卜素的合成，从而影响珊瑚树对光能的利用。培养 $5 6 \\mathrm { ~ d ~ }$ 内,土壤中 Cd 含量对珊瑚树生物量影响不明显;随着培养时间的延长(105—203d),珊瑚树的生长明显受到土壤中Cd 的抑制作用。在土壤中Cd 含量为 $9 . 6 ~ \\mathrm { m g / k g }$ 和 $2 4 . 6 ~ \\mathrm { m g / k g }$ 供试处理条件下,整个培养期(56—203d)珊瑚树生长良好,对土壤中Cd表现出较强的耐受能力。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f91e5b739fe0ea0dccbc1eaec52a35f2d63568909b1457797f0465cb75ef1162.jpg",
+        "img_caption": [
+            "图6珊瑚树体内Cd含量与植物生理特征的典型对应分析Fig.6Canonical correspondence analysis of Cd contents andplantphysiologycharacteristicsin Viburnumodoratissinum"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)珊瑚树对污染土壤中Cd 具有一定的耐受和富集能力。土壤中Cd 含量为 $3 . 6 ~ \\mathrm { m g / k g }$ 处理下,珊瑚树的富集系数和转运系数均维持在1左右;土壤中Cd含量为 $9 . 6 ~ \\mathrm { m g / k g }$ 和 $2 4 . 6 ~ \\mathrm { m g / k g }$ 处理下,珊瑚树对Cd 的富集系数和转运系数基本大于1,表明珊瑚树具有较好的转运能力和富集能力。上述结果表明,珊瑚树对Cd污染土壤具有一定的生态修复潜力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]SinghArasadSemediatofavetalcotamatedcosste：anovervieotchologadanceentInteatioalJoualfEnvironmental Science and Technology，2015，12(1）：353-366.  \n[2]ZhaFJ,ZYG,gZ,athSilaiausdtiotraesEaTechnology，2015，49（2）:750-759.3 郭朝晖，肖细元，陈同斌，廖晓勇，宋杰，武斌.湘江中下游农田土壤和蔬菜的重金属污染.地理学报，2008,63（1)：3-11.  \n[4】 徐勤松，施国新，周红卫，徐楠，张小兰，曾晓敏.Cd $\\ 、 2 \\mathrm { n }$ 复合污染对水车前叶绿素含量和活性氧清除系统的影响.生态学杂志，2003，22(1) : 5-8.  \n[5]VelmanK，HuijbregtsMAJ，JanHendriks.Cadmiumbioaumulationfactorsforterestialspeis：apicationoftehisticbioaccumulation model OMEGA to explain fielddata.Science of the Total Environment，2008,406(3）：413-418.  \n[6]labeBaG,goCdlcediineticcoerstrlisteforcharophytes in phytoremediation.Environmental Science & Technology，2011,45(12）：5332-5338.  \n[7]Ali H,KhanE,SajadMA.Phytoremediationof heavymetals—conceptsandaplications.Chemosphere,2013,91（7）：869-81.  \n[8]Yang XE,LongXX,YeHB,eZ,CalvertDV,tofellPJ.CadmumtoleranceadhyperaclatoinewZhyelatingplant species（Sedum alfredii Hance).Plant and Soil,2004,259(1/2)：181-189.  \n[9]WeiSH,ZhouQX,WangX,ZhangKS,GuoGL,MaLQ.Anewly-discoveredCd-hyperaccumulatorSolanumnigrumL.ChineseScienceBulletin，2004,50（1）：33-38.  \n[10]LiuW,huWS,anCYVidaboshnensis，planthathyperacumulatescadm.CineseSienceBuleti,O,49（）：9-2.  \n11]PiloisEravitaligatotehlcaldddeiand the Environment，2006,4（4）：203-210.  \n[12]YangM,XiaoXY,MiaoXF,GuoZH,WangFY.Efectofamendmentsongrowthandmetaluptakeofgiantred（ArundodonaxL）owosoilcontaminatedbyarsenic，cadmiumandlead.Transactionsof Nonferous Metals SocietyofChina,2012,22(6)：1462-1469.  \n[13］王凤永，郭朝晖，苗旭峰，肖细元.东方香蒲（TyphaorientalisPresl)）对重度污染土壤中As、Cd、Pb 的耐性与累积特征.农业环境科学学报，2011,30(10)：1966-1971.  \n[14] 董萌，赵运林，雷存喜，戴枚斌，易合成，库文珍.萎蒿（Artemisia selengensis）对土壤中镉的胁迫反应及修复潜力研究.环境科学学报，2012,32(6): 1473-1480. ，  \n[15] 曹霞，郭朝晖，肖细元，刘亚男，曾鹏.海桐(Pits porumtobira）对污染土壤中镉的耐受和吸收特征.农业环境科学学报，2015，34（4)：627-632.  \n[16] WuFZ,YangWQ,ZangJ,ZhouLQ.Gowthesponsesandetalaculatioinanoamentalplant（Osmantusfragransvarubg)submitted to diffrent Cd levels.ISRN Ecology，2011，2011:738138.  \n[17] 田耀武，刘志彦，韩黎阳，杨国海.洛阳市城区雪松（Cedrus deodara）松针重金属含量空间分异性.生态学杂志，2010，29（9)：1788-1793.  \n[18] 曾鹏，曹霞，郭朝晖，肖细元，刘亚男，梁芳.Cd污染土壤景观修复植物筛选研究.农业环境科学学报，2016，35（4)：691-698.  \n[19] 杜晓，申晓辉.镉胁迫对珊瑚树和地中海荚蒾生理生化指标的影响.生态学杂志，2010,29(5)：899-904.  \n[20] 谭立敏，李科林，李顺.株洲霞湾港域乡土植物及其根际土壤重金属蓄积特性.水土保持学报，2013,27(4)：161-165.  \n[21] 杨学军，唐东芹,许东新，王新华，潘高红.上海地区绿化树种重金属污染防护特性的研究.应用生态学报，2004，15（4）：687-690.  \n[22] 鲁如坤.土壤农业化学分析方法.北京：中国农业科技出版社，1999.  \n[23] 李合生.植物生理生化实验原理和技术.北京：高等教育出版社，2000.  \n[24] Sun YB,Zhou Q X,Diao C Y.Effects of cadmium and arsenic o growth and metal accumulation of Cd-hyperaccumulator Solanum nigrum L.Bioresource Technology，2008,99（5）：1103-1110.  \n[25]TanhanP，KruatracueM,okethitikP,aiyaratR.Uptakeandaccmltionofcdmium,leadadzincbyameedChodleodorata（L.） King & Robinson]. Chemosphere，2007,68(2): 323-329.  \n[26]BakerAJRDaaaladlreirilaofesps.& C. Presl （Brassicaceae). New Phytologist,1994，127(1) : 61-68.  \n[27]Zhou C,ZhangK,LinJ,LiY，ChenN，ZouX，HouX，Ma X.Physiologicalresponsesandtolerance mechanismstocadmiuminConycanadensis.International Journal of Phytoremediation，2015,17(3）:280-289.  \n[28]MuradogluF，GundogduM,ErcisliS，EncuTaltaF,JafarHZ,Zia-U-HaqM.Cadmiumtoxicityfectschlorohyllaandbotent,antioxidant enzyme activitiesand mineral nutrient accumulation in strawberry.Biological Research,2015,48：11.  \n[29] 燕傲蕾，吴亭亭，王友保，张旭情.三种观赏植物对重金属镉的耐性与积累特性.生态学报，2010，30（9)：2491-2498.  \n30Kastorietrovetroftocesddncatereasioralt1992,15(11): 2427-2439.  \n[31]ZaynebC，seKZeinbK，GbD,uredineD，Hafeh,AmeE.ysiologicalresposesoffeugreesedlingsplatstreated with cadmium.E vironmental Science and Pollution Research,2015,22(14）：10679-10689.  \n32]emrotLleUalceiand manganese. Environmental and Experimental Botany，2004,52(3）： 253-266.  \n[33] AhmadIaltssieoodof phytocelatinsinleavesadchloroplastsofwheatcultivarsdiferinginyieldpotential.Photosynthetica,2o,47（1)：46-151.  \n[34] 赵菲佚，翟禄新，陈荃，张明泉，曾福礼.Cd、Pb复合处理下2种离子在植物体内的分布及其对植物生理指标的影响.西北植物学报，2002，22(3): 595-601.  \n[35] Xu P,Zou J，Meng Q M, Zou JH, Jiang W S, Liu D H. Effects of $\\mathrm { C d } ^ { 2 + }$ on seedling growth of garlic （Allium sativum L.）and selectedphysiological and biochemical characters.Bioresource Technology，2008,99(14）：6372-6378.  \n[36］王昌全，郭燕梅，李冰，袁大刚，张济龙，林正雨，唐敦义.Cd胁迫对杂交水稻及其亲本叶片丙二醛含量的影响.生态学报.2008，28(11): 5377-5384.  \n[37] 严重玲，洪业汤，付舜珍，方重华，雷基祥，沈芹.Cd、Pb胁迫对烟草叶片中活性氧清除系统的影响.生态学报，1997,17（5）：488-492.  \n[38］焦轶男,朱宏.黑藻(Hydrilla verticillata）对重金属 $\\mathrm { C d } ^ { 2 + }$ 的积累及生理响应.中国农学通报，2014，30(5)：249-253.  \n[39] FayigaAO,MaLCaoXDathinasabapathiectsofheavyetsogrowthndrseicauuationitearsenicheracclatorPteris vitata L.Environmental Pollution,2004,132(2）：289-296.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

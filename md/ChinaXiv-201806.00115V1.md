@@ -1,0 +1,245 @@
+# 基于PSO-ELM的机器人精度补偿方法研究
+
+冯禹铭，董秀成，金滔(西华大学 信号与信息处理重点实验室，成都 610039)
+
+摘要：为了提高机器人的定位精度，对传统的基于神经网络的机器人精度补偿方法进行改进。采用两种基于粒子群优化的极限学习机（PSO-ELM）模型的精度补偿方法对机器人关节坐标及直角坐标进行补偿。分别对两种方法进行仿真实例分析和比较，并与遗传算法优化的极限学习机（GA-ELM）模型进行对比。仿真结果表明，对直角坐标进行补偿的PSO-ELM机器人精度补偿法优于其他补偿方法，且具有较高的预测精度。
+
+关键词：机器人；精度补偿；极限学习机；PSO-ELM 中图分类号：TP242.2 doi: 10.3969/j.issn.1001-3695.2018.03.0210
+
+# Research on methods of robot accuracy compensation based on PSO-ELM
+
+Feng Yuming,Dong Xiucheng, Jin Tao (Signal&Information ProcessingLaboratory,Xihua University,Chengdu 6loo39,China)
+
+Abstract:Inorderto improve therobot positionaccuracy,the traditional methodofrobot accuracycompensationbased on neural network is improved.Two methodsof robotaccuracycompensation based on extreme learning machine with particle swarm optimization (PSO-ELM)are usedto compensate forjointcoordinate ofrobotand cartesiancoordinateofrobot.The two methods are analyzedand compared by simulation examples,and compared withthe extreme learming machine with genetic algorithmoptimization (GA-ELM).The simulationresults show that themethodof robotaccuracycompensation based on PSO-ELMcompensates forcartesian coordinate is superior to other compensation methods,and has high prediction accuracy.
+
+Key words:robot; accuracy compensation; extreme learning machine; PSO-ELM
+
+# 0 引言
+
+近年来，机器人已被广泛用于要求高精度的工作，如离线编程，机器人辅助手术等。由于加工公差、装配公差、机器人的结构变形等多种原因，使机器人的实际运动学模型参数和它的名义参数值不同。这种误差明显降低了机器人的定位精度。因此，在机器人使用之前，机器人应进行必要的校准过程来提高定位精度。
+
+机器人运动学模型的误差源可以分为两类：几何参数误差，如连杆长度和连杆扭曲误差等；非几何误差，如齿轮侧隙、连杆和关节的柔性等[12]。一些研究专注于模型的建立和几何参数误差的辨识而忽略了非几何误差[36]。这些研究假设非几何误差对机器人位置误差影响非常小。但这些非几何误差仍然会影响机器人的定位精度[。于是，有些学者提出了基于神经网络的实时误差补偿[8"10]。这种方法大概可以分为两类，一种以关节角和对应关节角误差分别作为BP神经网络的输人和输出，得到在任意关节角时的误差值，通过修正关节角来实现位置误差的补偿[11;另一种以关节角和对应的实际坐标位置偏离作为BP 神经网络的输入和输出，再通过对关节角进行补偿来提高机器人的定位精度[12]。传统的 BP 神经网络虽然在机器人的实时补偿中有一定效果，但是由于自身模型的限制，容易陷入局部最优解，且训练时间较长，影响实时补偿的效率。ELM[13]是Huang等人针对传统神经网络算法的固有缺点提出的一种单隐含层前馈神经网络的学习算法，与传统的BP 算法不同，ELM随机产生输入层和隐层之间的连接权值以及隐含层神经元的阈值。由于其极快的学习速度和泛化性能好等优点。它在模式识别，计算机视觉，数据挖掘，信号处理，和控制系统中得到了广泛的应用。
+
+本文将粒子群（PSO）和极限学习机（ELM)相结合的PSO-ELM模型对上述的两种基于神经网络的机器人精度补偿方法[1-12]进行改进，同时引入遗传算法(GA)和极限学习机(ELM)相结合的GA-ELM[14]模型进行对比，最后，再对改进后的这两种方法的效果进行对比分析。
+
+# 1 极限学习机模型
+
+ELM的网络训练采用单层的隐层前馈结构[15]。假设存在$n$ 个输入层神经元和 $\mid o \mid$ 个输出输出层神经元，分别表示 $n$ 个输入变量和 $\mid o \mid$ 个输出变量，设置隐含层神经元数为 $h$ 。假设有 $N$ 个不同的样本 $\left( { { x } _ { i } } , { { t } _ { i } } \right)$ ， $1 \leq i \leq N$ ，$x _ { i } = \left[ x _ { i 1 } , x _ { i 2 } , . . . , x _ { i n } \right] ^ { T } \in R ^ { n } , t _ { i } = \left[ t _ { i 1 } , t _ { i 2 } , . . . , t _ { i o } \right] ^ { T } \in R ^ { o }$ ；ELM的训练模型如图1所示：
+
+![](images/9ccaaa9735d31446a6f35b17c4592bfd5abd743de6e978677a3c06e4cd25a5ab.jpg)  
+图1ELM的训练模型
+
+ELM的网路模型可以表达如下：
+
+$$
+\sum _ { i = 1 } ^ { h } \beta _ { i } g \left( w _ { i } . x _ { i } + b _ { i } \right) = r _ { j } , j = 1 , 2 , . . . o
+$$
+
+其中： $w _ { i } = \left[ w _ { i 1 } , w _ { i 2 } , . . . , w _ { i n } \right]$ 是所有输入层神经元连接第i个隐层神经元之间的输入权值向量， $b _ { i }$ 是第 $i$ 层隐层神经元的阈值。$\beta _ { i } = \left[ \beta _ { i 1 } , \beta _ { i 2 } , . . . , \beta _ { i h } \right]$ 是第 $\mathbf { i }$ 个隐层神经元连接所有输出神经元的权值向量， $\boldsymbol { \gamma } _ { j } = \left[ \boldsymbol { \gamma } _ { j 1 } , \boldsymbol { \gamma } _ { j 2 } , . . . , \boldsymbol { \gamma } _ { j o } \right] ^ { T }$ 是ELM的输出值。代价函数可以表示如下：
+
+$$
+c \left( W B , \beta \right) = \sum _ { j = 1 } ^ { N } \left| \boldsymbol { r } _ { j } - \boldsymbol { t } _ { j } \right|
+$$
+
+$W B { = } \big [ w _ { i } , b _ { i } , i { = } 1 , 2 , . . . , h \big ]$ 训练ELM的目标是找到最优的WB 和 $\beta$ 使得输出值和实际值的误差最小，所以， $\operatorname* { m i n } C \left( W B , { \boldsymbol { \beta } } \right)$ 可以被写作以下的形式：
+
+$$
+\begin{array} { r } { \operatorname* { m i n } C \big ( W B , \beta \big ) = \operatorname* { m i n } _ { w _ { i } , b _ { i } , \beta } \big | H \big ( w _ { 1 } , . . . , w _ { h } ; b _ { 1 } , . . . , b _ { h } ; x _ { 1 } , . . . , x _ { n } \big ) \beta - T \big | } \end{array}
+$$
+
+其中： $H$ 是样本中隐层神经元的输出矩阵， $T$ 是样本集的目标矩阵。
+
+$$
+\begin{array} { l } { { H ( w _ { 1 } , w _ { 2 } , \cdots , w _ { h } ; b _ { 1 } , b _ { 2 } , \cdots , b _ { h } ; x _ { 1 } , x _ { 2 } , \cdots , x _ { N } ) = } } \\ { { \left[ \begin{array} { c c c } { { g ( w _ { 1 } x _ { 1 } + b _ { 1 } ) } } & { { \cdots } } & { { g ( w _ { h } x _ { 1 } + b _ { h } ) } } \\ { { \vdots } } & { { \cdots } } & { { \vdots } } \\ { { g ( w _ { 1 } x _ { N } + b _ { 1 } ) } } & { { \cdots } } & { { g ( w _ { h } x _ { N } + b _ { h } ) } } \end{array} \right] _ { N \times h } } } \end{array}
+$$
+
+等式（3）等价于求 $H \beta = T$ 的最小二乘解，即求使得代价函数最小的最优权值 $\hat { \beta }$
+
+$$
+\hat { \beta } = H ^ { \dagger } T
+$$
+
+$H ^ { + }$ 是 $H$ 的 Moore-Penrose广义逆矩阵。
+
+# 2 基于PSO优化的ELM算法
+
+粒子群优化算法由 Eberhart 和Kennedy 基于人群的社会行为理论提出的[16]，该算法作为一种新兴的进化算法，起源于鸟类觅食的模拟，对于N个参数的最优辨识具有原理简单，易于实现的特点。
+
+根据ELM的基本原理可以看出ELM的输入层权值矩阵W和隐含层阈值矩阵 $b$ 是随机生成的，因此，在ELM模型固定的情况下，会造成ELM的预测误差很大，PSO具有良好的全局寻优能力，PSO可以为ELM模型找到最优的初始的 $w$ 和 $b$ ，从而得到最优ELM模型。PSO-ELM算法的主要步骤如下：
+
+a）实验数据的预处理。将实验数据分为训练集和测试集，并进行归一化。
+
+b）初始化。初始化粒子群参数，ELM模型的网络结构参数。第 $i$ 个粒子位置 $X _ { i } = [ w _ { 1 1 } , \cdots , w _ { h 1 } , \cdots , w _ { 1 n } , \cdots , w _ { h n } , b _ { 1 } , \cdots , b _ { h } ]$ ，其中，Wj,j=1,,h,i=1,…,n，是第i个输入层神经元与第j个隐层神经元之间的连接权值， $b _ { j }$ 是第 $j$ 层隐层神经元的阈值。
+
+c）寻找初始极值。将粒子位置 $X _ { i }$ 和训练样本数据代入ELM模型，得到ELM的输出预测值，从而计算出粒子的适应度值。并寻找个体极值和群体极值，同时记忆个体极值和群体极值的位置及适应度值。粒子的适应度函数取为
+
+$$
+f = { \frac { 1 } { \sqrt { { \cfrac { 1 } { N } } \sum _ { i = 1 } ^ { N } \left( { \bar { Y } } _ { i } - Y _ { i } \right) ^ { 2 } } } }
+$$
+
+其中： $\overline { { Y _ { i } } }$ 为训练样本的ELM输出预测值，Y为训练样本的真值，$N$ 为训练样本的个数。
+
+d）惯性权重的选择。在经过一些迭代后，每个粒子的位置逐渐收敛到最佳位置。为了提高前期迭代的全局搜索能力后期迭代的局部优化能力，惯性权重 $\omega$ 随迭代次数 $j$ 的增加而线性减小。
+
+$$
+\omega = \omega _ { \mathrm { m a x } } - ( \omega _ { \mathrm { m a x } } - \omega _ { \mathrm { m i n } } ) \frac { j - 1 } { J - 1 }
+$$
+
+其中： $\omega _ { \mathrm { m a x } }$ 和 $\omega _ { \mathrm { m i n } }$ 是最惯性权重的最大值和最小值，」是最大的迭代次数
+
+e）迭代寻优。每次迭代的过程中，粒子通过个体极值和群体极值更新自身的速度和位置，最终得到最优个体的适应度值和对应的粒子位置。
+
+f）完成PSO-ELM模型。最优个体对应的粒子位置即是ELM的最优网络初始权值和阈值，将其代入ELM模型，用测试集样本对ELM进行测试及效果评价。
+
+![](images/ccf4a3d48df0c091a8a6d05b9deb004d872db5480b7724a731bdb7548d1d3a04.jpg)  
+PSO-ELM的算法流程如图2所示。  
+图2PSO优化ELM的算法流程
+
+# 3 基于PSO-ELM的机器人精度补偿仿真实例
+
+# 3.1ABB 机器人的几何模型
+
+本文采用DH法建立ABB机器人的运动学模型，ABB 机器人的结构图如图3所示。
+
+![](images/59b9332013a14849bfbd0764fb651ab3855aa99238fde0fc5ac2e396c2eed38e.jpg)  
+图3ABB机器人的结构图
+
+在建立了坐标系0后，从坐标系1开始，通过使用坐标系i-1来定义坐标系i，两个相邻的连杆的DH坐标系的齐次变换矩阵如下：
+
+$$
+T _ { i } ^ { i - 1 } = R o t \left( z , \theta _ { i } \right) T r a n s \left( 0 , 0 , d _ { i } \right) T r a n s \left( a _ { i } , 0 , 0 \right) R o t \left( x , \alpha _ { i } \right)
+$$
+
+可以得到：
+
+$$
+\begin{array} { r } { T _ { i } ^ { i - 1 } = \left[ \begin{array} { c c c c } { \cos \theta _ { i } } & { - \sin \theta _ { i } \cos \alpha _ { i } } & { \sin \theta _ { i } \sin \alpha _ { i } } & { a _ { i } \cos \theta _ { i } } \\ { \sin \theta _ { i } } & { \cos \theta _ { i } \cos \alpha _ { i } } & { - \cos \theta _ { i } \sin \alpha _ { i } } & { a _ { i } \sin \theta _ { i } } \\ { 0 } & { \sin \alpha _ { i } } & { \cos \alpha _ { i } } & { d _ { i } } \\ { 0 } & { 0 } & { 0 } & { 1 } \end{array} \right] } \end{array}
+$$
+
+其中： $a _ { i } , \alpha _ { i } , d _ { i } , \theta _ { i }$ 分别表示第 $i$ 个轴的连杆长度，连杆扭曲，连杆偏置和关节角度。给定ABB机器人的标准D-H参数值如表1所示，其中， $a _ { i }$ 、 $d _ { i }$ 的单位为mm， $\alpha _ { i }$ 、 $\theta _ { i }$ 的单位为rad。
+
+表1标准D-H参数值  
+
+<html><body><table><tr><td>i</td><td>ai</td><td>αi</td><td>di</td><td>0</td><td>0的范围</td></tr><tr><td>1</td><td>0</td><td>-pi/2</td><td>187</td><td>0</td><td>-165°~165°</td></tr><tr><td>2</td><td>230</td><td>0</td><td>0</td><td>0</td><td>-110°~110°</td></tr><tr><td>3</td><td>107</td><td>-pi/2</td><td>0</td><td></td><td>-90°~70°</td></tr><tr><td>4</td><td>0</td><td>pi/2</td><td>168</td><td>04</td><td>-160°~160°</td></tr><tr><td>5</td><td>0</td><td>-pi/2</td><td>0</td><td>0</td><td>-120°~120°</td></tr><tr><td>6</td><td>0</td><td>0</td><td>0</td><td></td><td>-400°~ 400°</td></tr></table></body></html>
+
+用 $s _ { i }$ 表示 $\sin \theta _ { i }$ ， $c _ { i }$ 表示 $\cos \theta _ { i }$ ，由表1可得，各连杆的变换矩阵如下：
+
+$$
+T _ { 1 } ^ { 0 } = \left[ \begin{array} { c c c c } { c _ { 1 } } & { 0 } & { - s _ { 1 } } & { 0 } \\ { s _ { 1 } } & { 0 } & { c _ { 1 } } & { 0 } \\ { 0 } & { - 1 } & { 0 } & { 1 8 7 } \\ { 0 } & { 0 } & { 0 } & { 1 } \end{array} \right] , \quad T _ { 2 } ^ { 1 } = \left[ \begin{array} { c c c c } { c _ { 2 } } & { - s _ { 2 } } & { 0 } & { 2 3 0 c _ { 2 } } \\ { s _ { 2 } } & { c _ { 2 } } & { 0 } & { 2 3 0 s _ { 2 } } \\ { 0 } & { 0 } & { 1 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 1 } \end{array} \right] ,
+$$
+
+$$
+T _ { 3 } ^ { 2 } = \left[ \begin{array} { c c c c } { c _ { 3 } } & { 0 } & { - s _ { 3 } } & { 1 0 7 c _ { 3 } } \\ { s _ { 3 } } & { 0 } & { c _ { 3 } } & { 1 0 7 s _ { 3 } } \\ { 0 } & { - 1 } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 1 } \end{array} \right] , \quad T _ { 4 } ^ { 3 } = \left[ \begin{array} { c c c c } { c _ { 4 } } & { 0 } & { s _ { 4 } } & { 0 } \\ { s _ { 4 } } & { 0 } & { - c _ { 4 } } & { 0 } \\ { 0 } & { - 1 } & { 0 } & { 1 6 8 } \\ { 0 } & { 0 } & { 0 } & { 1 } \end{array} \right] ,
+$$
+
+$$
+T _ { 5 } ^ { 4 } = \left[ \begin{array} { c c c c } { c _ { 5 } } & { 0 } & { - s _ { 5 } } & { 0 } \\ { s _ { 5 } } & { 0 } & { c _ { 5 } } & { 0 } \\ { 0 } & { - 1 } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 1 } \end{array} \right] , \quad T _ { 6 } ^ { 5 } = \left[ \begin{array} { c c c c } { c _ { 6 } } & { - s _ { 6 } } & { 0 } & { 0 } \\ { s _ { 6 } } & { c _ { 6 } } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 1 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 1 } \end{array} \right]
+$$
+
+将各个连杆的变换矩阵相乘，就可以得到机械手末端相对于基坐标系的变换矩阵：
+
+$$
+T _ { \scriptscriptstyle E } = T _ { 6 } ^ { 0 } = T _ { 1 } ^ { 0 } T _ { 2 } ^ { 1 } T _ { 3 } ^ { 2 } T _ { 4 } ^ { 3 } T _ { 5 } ^ { 4 } T _ { 6 } ^ { 5 } = { \left[ { n _ { x } \quad o _ { x } \quad a _ { x } \quad p _ { x } } \right] }
+$$
+
+机器人的末端位置向量可以表示为 $\boldsymbol { X } = \left[ P _ { x } , P _ { y } , P _ { z } \right] ^ { T }$ ，机器人的末端位置误差可以表示为 $\Delta X = \sqrt { { \Delta x } ^ { 2 } + { \Delta y } ^ { 2 } + { \Delta z } ^ { 2 } }$ ，若用上角标字母 $N$ 表示理论值，字母 $R$ 表示实际值。则位置总误差可以表示为 $\Delta X = { \sqrt { ( p _ { x } ^ { R } - p _ { x } ^ { N } ) ^ { 2 } + ( p _ { y } ^ { R } - p _ { y } ^ { N } ) ^ { 2 } + ( p _ { z } ^ { R } - p _ { z } ^ { N } ) ^ { 2 } } }$ 。
+
+# 3.2 实验数据的获取
+
+假设表1中ABB机器人相应的标准D-H参数值的几何误差如表2所示。其中， $\Delta a _ { i }$ 、 $\Delta d _ { i }$ 的单位为 $m m$ ， $\Delta \alpha _ { i }$ 、 $\Delta \theta _ { i }$ 的单位为rad。即 ABB 机器人的实际D-H参数 $\alpha _ { i } ^ { R } = \alpha _ { i } + \Delta \alpha _ { i }$ ，$a _ { i } ^ { R } = a _ { i } + \Delta a _ { i } \ , \quad d _ { i } ^ { R } = d _ { i } + \Delta d _ { i } \ , \quad \theta _ { i } ^ { R } = \theta _ { i } + \Delta \theta _ { i } \ \mathrm { ~ , ~ }$
+
+表2标准D-H参数值的几何误差  
+
+<html><body><table><tr><td>i</td><td>△ai</td><td>△a</td><td>△d</td><td>△0</td></tr><tr><td>1</td><td>0.1</td><td>0.0015</td><td>0.15</td><td>-0.0016</td></tr><tr><td>2</td><td>0.12</td><td>0.0018</td><td>0.08</td><td>0.0018</td></tr><tr><td>3</td><td>0.15</td><td>0.0016</td><td>0.10</td><td>0.0015</td></tr><tr><td>4</td><td>0.08</td><td>0.0015</td><td>0.14</td><td>0.0013</td></tr><tr><td>5</td><td>0.09</td><td>0.0014</td><td>0.08</td><td>-0.0012</td></tr><tr><td>6</td><td>0.06</td><td>0.0017</td><td>0.09</td><td>0.0015</td></tr></table></body></html>
+
+根据机器人各个关节角的变化范围以及实际工作的需要，取 $\theta _ { 1 } = - 6 0 ^ { \circ } , 0 ^ { \circ } , 6 0 ^ { \circ }$ ， $\theta _ { 2 } = 3 0 ^ { \circ } , 4 0 ^ { \circ } , 5 0 ^ { \circ }$ ， $\theta _ { 3 } = 1 0 ^ { \circ } , 2 0 ^ { \circ } , 3 0 ^ { \circ } , 4 0 ^ { \circ }$ ，$\theta _ { 4 } = - 6 0 ^ { \circ } , - 4 0 ^ { \circ } , 2 0 ^ { \circ } , 4 0 ^ { \circ } , 6 0 ^ { \circ } \ , \quad \theta _ { 5 } = - 6 0 ^ { \circ } , - 4 0 ^ { \circ } , 2 0 ^ { \circ } , 4 0 ^ { \circ } , 6 0 ^ { \circ } \ ,$ （$\theta _ { 6 } = - 9 0 ^ { \circ } , - 6 0 ^ { \circ } , - 3 0 ^ { \circ } , 3 0 ^ { \circ } , 6 0 ^ { \circ } , 9 0 ^ { \circ }$ 。一共产生 $3 \times 3 \times 4 \times 5 \times 5 \times 6 = 5 4 0 0$ 组不同的关节角度组合，其中5000组作为ELM模型的训练样本集，另外400组作为检验的数据。
+
+# 3.3对关节坐标补偿的PSO-ELM机器人精度补偿法
+
+对关节坐标补偿的PSO-ELM 机器人精度补偿模型将机器人的理论关节角作为PSO-ELM模型的输入，关节角误差作为输出来训练PSO-ELM模型。PSO-ELM训练过程的框图如图4所示。其中， $\boldsymbol { \theta } ^ { N } = \left[ \theta _ { 1 } , \theta _ { 2 } , \theta _ { 3 } , \theta _ { 4 } , \theta _ { 5 } , \theta _ { 6 } \right] ^ { T }$ ， ${ { \theta } ^ { R } } = \left[ \theta _ { 1 } ^ { R } , \theta _ { 2 } ^ { R } , \theta _ { 3 } ^ { R } , \theta _ { 4 } ^ { R } , \theta _ { 5 } ^ { R } , \theta _ { 6 } ^ { R } \right] ^ { T }$ ，ABB机器人理论关节角 $\theta ^ { \scriptscriptstyle { N } }$ 经正运动学（理论D-H参数)计算得出理论末端位姿 $T _ { E } ^ { N }$ ，理论末端位姿经逆运动学（实际D-H参数）求解得实际关节角 $\theta ^ { R }$ ，于是可得关节角误差 $\Delta \theta { = } \theta ^ { R } - \theta ^ { N }$ 。故PSOELM模型的输入层节点为6，输出层节点也为6。
+
+![](images/21c70659f887a84b03c7292110d57374c621b3bfe8bcf6914419701123422cc4.jpg)  
+图4机器人关节坐标补偿的PSO-ELM训练模型
+
+可以使用图5中描述的步骤来执行机器人末端执行器的定位过程。其中， $\theta ^ { \mathrm { { m o d } } }$ 是经过补偿后的修正的关节角， $X ^ { \dprime }$ 是预测位置，我们的目标是将机器人末端执行器移动到其工作空间中的理论位置 $X ^ { N }$ 。其中 $\varepsilon$ 是机器人精度的上限。
+
+![](images/7865a462b370e65e51aa8a61f62d40546e540e71fa8276ba4f7a03717f57d68c.jpg)  
+图5机器人关节坐标的补偿过程
+
+为了体现该模型的准确性和优越性，采用GA-ELM模型与其做对比，GA-ELM利用遗传算法为ELM寻找最优的 $w$ 和 $b$ ，具体的算法流程参考文献[14]。经过多次实验，确定PSO-ELM的隐含层节点数为68,种群规模为40，迭代次数为300， $C _ { 1 } = C _ { 2 } { = } 2$ ，$V _ { \operatorname* { m a x } } = 1$ ， $V _ { \mathrm { m i n } } = - 1$ ， $p o p \operatorname* { m a x } = 2$ ， $p o p \operatorname* { m i n } = - 2$ ，惯性权重的最大值$\omega _ { \mathrm { m a x } }$ 为0.9,最小值 $\omega _ { \mathrm { m i n } }$ 为0.4,GA-ELM的隐含层节点数为58,种群规模为100，迭代次数为350，交叉概率为0.6，变异概率为0.01。ELM的隐含层激励函数均选择"sig"函数。用5000 组样本集训练模型，将400组检验数据代入训练好的模型，经过机器人逆运动学精度补偿后的位置误差如图6所示。
+
+![](images/f67efd8630b027c19256205a71f70cea6c2643ef0a4ed20db819de16ff7c912b.jpg)  
+图6位置误差(400 组检验数据)
+
+为了验证输入数据的一般性，根据机器人实际工作的需要，在机器人各个关节角的变化范围以内，取 $\theta _ { 1 } = - 4 5 ^ { \circ } , 3 0 ^ { \circ } , 4 5 ^ { \circ }$ ，0 =40°,45°,50°，0=20°,30°,40°,50°，$\theta _ { 4 } = - 6 0 ^ { \circ } , - 3 0 ^ { \circ } , 3 0 ^ { \circ } , 4 5 ^ { \circ } , 6 0 ^ { \circ } \ , \quad \theta _ { 5 } = - 6 0 ^ { \circ } , - 3 0 ^ { \circ } , 3 0 ^ { \circ } , 4 5 ^ { \circ } , 6 0 ^ { \circ } \ ,$ （204号$\theta _ { 6 } = - 9 0 ^ { \circ } , - 6 0 ^ { \circ } , - 3 0 ^ { \circ } , 3 0 ^ { \circ } , 6 0 ^ { \circ } , 9 0 ^ { \circ }$ 。产生与样本数据不同的5400 组数据，从这5400组数据中随机生成200组数据，代入已训练完成的PSO-ELM进行仿真计算，位置误差如图7所示。
+
+图8所示。其中， $\boldsymbol { \theta } ^ { N } = \left[ \theta _ { 1 } , \theta _ { 2 } , \theta _ { 3 } , \theta _ { 4 } , \theta _ { 5 } , \theta _ { 6 } \right] ^ { T }$ ，ABB机器人理论关节角 $\theta ^ { \scriptscriptstyle { N } }$ 经正运动学（理论D-H参数）计算得出理论的末端位置$\boldsymbol { X } ^ { N } = \left[ \boldsymbol { x } ^ { N } , \boldsymbol { y } ^ { N } , \boldsymbol { z } ^ { N } \right] ^ { T }$ ， $\theta ^ { \scriptscriptstyle { N } }$ 经正运动学（实际D-H参数）计算得出实际的位置 $\boldsymbol { X } ^ { R } = \left[ \boldsymbol { x } ^ { R } , \boldsymbol { y } ^ { R } , \boldsymbol { z } ^ { R } \right] ^ { T }$ ，于是可得位置误差 $\Delta X = X ^ { R } - X ^ { N }$ 。故PSO-ELM模型的输入层节点为6，输出层节点为3。
+
+![](images/ea7a498a51c053fac2584f6024f20c8a14eb9a0d644cc73e8a96f4fe28ba57af.jpg)  
+图8机器人直角坐标补偿的PSO-ELM训练模型
+
+对直角坐标补偿的PSO-ELM机器人精度补偿模型将机器人的理论关节角作为PSO-ELM模型的输入，实际位置与理论的位置误差作为输出来训练网络。PSO-ELM训练过程的框图如
+
+![](images/9a3bffec7406ee20ad63c6b959134490bd80522591f5dd85a65a43d3d4a98a41.jpg)  
+图7位置误差(200 组随机数据)
+
+训练后的PSO-ELM模型将用于补偿机器人的位置误差。机器人末端执行器定位的详细步骤如图9所示，由于ABB机器人运动的位置只与前3个关节角 $\theta _ { 1 }$ ， $\theta _ { 2 }$ ， $\theta _ { 3 }$ 有关，故位置的补偿只针对前3个关节角， $J _ { \theta }$ 是机器人关节变量 $\theta _ { i } \left( i = 1 , 2 , 3 \right)$ 的雅可比矩阵， $\theta ^ { \mathrm { m o d } }$ 是经过补偿后的关节角，实验的目标是将机器人末端执行器移动到其工作空间中的理论位置 $X ^ { N }$ ，其中$\varepsilon$ 是机器人精度的上限。
+
+![](images/70abd33522e68b594a74ff3a3f43f6e4c107cbfccf6fcc29cf25d4d97018085d.jpg)  
+图9机器人直角坐标的补偿过程
+
+为了体现该模型的准确性和优越性，采用GA-ELM模型与其做对比，经过多次实验，确定PSO-ELM的隐含层节点数为65，种群规模为50，迭代次数为300，惯性权重的最大值 $\omega _ { \mathrm { m a x } }$ 为0.9，最小值 $\omega _ { \mathrm { m i n } }$ 为0.4，其他参数同上文。GA-ELM的隐含层节点数为73，种群规模为80，迭代次数为400，交叉概率为0.6,变异概率为0.01，ELM的隐含层激励函数均选择sig函数。用5000组样本集训练模型，将400组检验数据代入训练好的模型，经过机器人逆运动学精度补偿后的位置误差如图10所示。
+
+# 3.4对直角坐标补偿的PSO-ELM机器人精度补偿法
+
+![](images/859b797f9d03f6feb29b0a06e3f2463536e3a38c373150d841c6a72562285530.jpg)  
+图10位置误差(400组检验数据)
+
+为了验证输入数据的一般性，将与上文相同的随机生成的200组数据，代入已训练完成的PSO-ELM进行仿真计算，位置误差如图11所示。
+
+![](images/6aab55fe1989f833f6d9c7d03874df247e31bb684554f94698c14e13f7bf075d.jpg)  
+图11位置误差(200 组随机数据)
+
+# 3.5两种精度补偿方法的结果分析与比较
+
+对上面的两种精度补偿方法的结果作对比分析，由图6、7、10、11分析可得表3、4。
+
+表3两种方法的位置精度比较(检验数据比较(400组))  
+
+<html><body><table><tr><td>位置误差(mm)</td><td>最大值</td><td>最小值</td><td>平均值</td></tr><tr><td>未补偿</td><td>1.6294</td><td>1.2100</td><td>1.3806</td></tr><tr><td>关节坐标GA-ELM</td><td>0.5292</td><td>0.3007</td><td>0.4214</td></tr><tr><td>关节坐标PSO-ELM</td><td>0.4400</td><td>0.2599</td><td>0.3787</td></tr><tr><td>直角坐标GA-ELM</td><td>0.1728</td><td>0.0525</td><td>0.1021</td></tr><tr><td>直角坐标PSO-ELM</td><td>0.1319</td><td>0.0452</td><td>0.0682</td></tr></table></body></html>
+
+表4两种方法的位置精度比较(随机数据比较(200组))  
+
+<html><body><table><tr><td>位置误差(mm)</td><td>最大值</td><td>最小值</td><td>平均值</td></tr><tr><td>未补偿</td><td>1.6422</td><td>1.2301</td><td>1.3917</td></tr><tr><td>关节坐标GA-ELM</td><td>0.5394</td><td>0.3007</td><td>0.4290</td></tr><tr><td>关节坐标PSO-ELM</td><td>0.4498</td><td>0.2702</td><td>0.3955</td></tr><tr><td>直角坐标GA-ELM</td><td>0.2151</td><td>0.0602</td><td>0.1156</td></tr><tr><td>直角坐标PSO-ELM</td><td>0.1125</td><td>0.0418</td><td>0.0713</td></tr></table></body></html>
+
+通过分析检验数据和随机数据可得，经过补偿后的机器人的位置误差明显低于未补偿之前，且对机器人直角坐标补偿后的位置误差低于对关节坐标补偿后的位置误差。在这两种方法中，PSO-ELM 的预测效果都优于GA-ELM。对比检验数据与未补偿之前，经过关节坐标GA-ELM精度补偿法补偿后，平均位置误差降低了 $6 9 . 4 8 \%$ ，经过关节坐标PSO-ELM精度补偿法补偿后，平均位置误差降低了 $7 2 . 5 7 \%$ ，经过直角坐标GA-ELM精度补偿法补偿后，平均位置误差降低了 $9 2 . 6 0 \%$ ，经过直角坐标PSO-ELM精度补偿法补偿后，平均位置误差降低了 $9 5 . 0 6 \%$ 。对比随机数据与未补偿之前，经过关节坐标GA-ELM精度补偿法补偿后，平均位置误差降低了 $6 9 . 1 7 \%$ ，经过关节坐标PSO-ELM精度补偿法补偿后，平均位置误差降低了 $7 1 . 5 8 \%$ ，经过直角坐标GA-ELM精度补偿法补偿后，平均位置误差降低了$91 . 6 9 \%$ ，经过直角坐标PSO-ELM精度补偿法补偿后，平均位置误差降低了 $9 4 . 8 8 \%$ 。
+
+# 4 结束语
+
+为了提高工业机器人在实际运用中的绝对定位精度，本文提出对机器人的关节坐标补偿和直角坐标补偿两种方法，采用粒子群优化算法优化的极限学习机模型（PSO-ELM）预测关节坐标的误差和直角坐标的误差，并与遗传算法优化的极限学习机(GA-ELM)模型进行对比。在这两个仿真实验中，PSO-ELM的预测效果都优于GA-ELM。而对机器人直角坐标补偿的方法要明显优于对关节坐标补偿的方法。对直角坐标进行补偿的PSO-ELM精度补偿法的预测精度最高，且具有良好的鲁棒性。
+
+# 参考文献：
+
+[1]MaLe,Bazzoli P,Sammons P,et al. Modeling and calibrationofhigh-order joint-dependent kinematic errors for industrial robots [J].Robot ComputIntegr Manuf,2017,0: 1-15.   
+[2]刘志，赵正大，谢颖，等．考虑结构变形的机器人运动学标定及补偿 [J].机器人,2015,37 (3):376-384.(Liu Zhi,Zhao Zhengda,Xie Ying,et al.Kinematic calibration and compensation for a robot with structural deformation[J].Robot,2015,37(3): 376-384.)   
+[3]Palmieri G,Palpacelli M,Carbonari L,et al,Vision-based kinematic calibration of a small-scale spherical paralel kinematic machine[J]. Robot Comput-Integr Manuf,2018,49:162-169.   
+[4]房立金，党鹏飞．基于量子粒子群优化算法的机器人运动学标定方法 [J]．机械工程学报，2016,52(7):23-30.(Fang Lijin,Dang Pengfei. Kinematic calibration method of robots based on quantum-behaved particle swarm optimization [J]. Journal of Mechanical Engineering,2016,52(7): 23-30.)   
+[5]张旭，郑泽龙，齐勇.6自由度串联机器人D-H模型参数辨识及标定[J]. 机器人，2016,38(3):360-370.(Zhang Xu，Zheng Zelong,Qi Yong Parameter Identification and calibration of D-H model for 6-DOF serial robots [J]. Robot,2016,38 (3): 360-370.)   
+[6]Svaco M,Sekoranja B,Suligoj F. Calibration ofan industrialrobot using a stereo vision system [J],Procedia Engineering.2014,69: 459-463.   
+[7]ParkIW,Lee BJ,Cho SH,etal,Laser-based kinematic calibration ofrobot manipulator using differential kinematics[J].IEEE-ASME TMECH.2012, 17 (6): 1059-1067.   
+[8]王东署，迟健男．机器人运动学标定综述[J].计算机应用研究，2007, 24(9):8-11.(Wang Dongshu, Chi Jiannan. Suvrey on robot kinematics calibration [J].Application Research of Computers,2007,24(9): 8-11.)   
+[9]Aoyagi S, Kohama A,Nakata Ya,et al, Improvement ofrobot accuracy by calibrating kinematic modelusing a laser tracking system, compensation of non-geometric errors using neural networks and selection of optimal measuring points using genetic algorithm [C]// Proc of IEEE International Conference on Inteligent Robots and Systems.2010: 5660-5665.   
+[10] Wang Dali,Bai Yanhua, Zhao Jiying,Robot manipulator calibration using neural network and a camera-based measurement system [J].Trans Inst Meas Control.2010,32 (4):105-121.   
+[11] Zhong XL,Lewis JM,Rea H.Neuro-accuracy compensator for industrial robots[C]//Proc of IEEE International Conference on Neural Networks.
+
+1994:2797-2802.
+
+[12] Nguyen HN, Zhou Jian.Acalibration method for enhancing robot accuracy through integration of an extended Kalmanlter algorithm and an articial neural network [J].Neurocomputing,2015,151: 996-1005.
+
+[13] Huang Guangbin, Zhu Qinyu, Siew C K.Extreme learning machine: theory and applications [J].Neurocomputing,2006,70(1): 489-50.
+
+[14]梅益，孙全龙，喻丽华，等．基于GA-ELM的铝合金压铸件晶粒尺寸预测[J].金属学报,2017,53(9):1125-1132.(MeiYi, Sun Quanlong,Yu
+
+Lihua,et al. Grain size prediction of aluminum alloy dies castings based on GA-ELM[J].Acta Metallurgica Sinia,2017,53 (9):1125-1132.)   
+[15] Liu Dong,Liu Chunlei,Fu Qiang,et al.ELM evaluation model of regional groundwater quality based on the crow search algorithm [J].Ecological Indicators,2017,81: 302-314.   
+[16]Kennedy J,Eberhart R.Particle swarm optimization [C]//Proc of IEEE International Conference on Neural Networks.1995:1942-1948.

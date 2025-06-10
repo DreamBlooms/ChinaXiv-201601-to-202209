@@ -1,0 +1,282 @@
+# 母亲积极教养与青少年亲社会行为：共情的中介作用与OXTR基因的调节作用
+
+张文新 李曦 陈光辉 曹衍淼(山东师范大学心理学院，山东师范大学儿童青少年发展研究院，济南250014)
+
+摘 要诸多研究显示母亲积极教养能够促进青少年亲社会行为的发展，但是迄今对其内在作用机制尚不清楚。本研究基于“基因一环境一内表型一行为”模型，采用问卷法和 DNA分型技术，对1082名青少年（初测年龄为 $1 2 . 3 2 \pm 0 . 4 8$ 岁， $50 . 3 \%$ 女生）及其母亲进行为期 2年的追踪研究，考察共情在母亲积极教养与青少年亲社会行为间的中介作用，以及OXTR 基因 rs53576 多态性对该中介机制的调节作用。结果发现：（1）青少年认知共情（观点采择)在母亲积极教养和亲社会行为之间起中介作用，而情绪共情(移情关心)的中介作用不显著;（2）OXTR基因对积极教养与亲社会行为间直接路径的调节作用不显著；（3）OXTR基因能够调节“母亲积极教养一认知共情一亲社会行为”中介机制的前半路径，并且显现出一种超显性的基因效应。在携带GG 和AA基因型的青少年中，母亲积极教养显著正向预测认知共情，进而增加了其亲社会行为，而在携带AG杂合子基因型的青少年中，这一中介效应则不显著。研究结果有助于从催产素受体基因多态性、共情能力和家庭教养等方面阐明青少年亲社会行为的发生机制及个体差异。
+
+关键词亲社会行为，母亲积极教养,OXTR 基因，认知共情，情绪共情
+
+# 1问题提出
+
+亲社会行为（prosocialbehavior）是旨在使他人获益的行为（Eisenberg etal.,2015），与儿童青少年良好的人际关系、学业成绩和心理社会适应密切相关（e.g.,Carlo etal.,2017）。人类亲社会行为及其种系演化和个体发生发展是一个重大的科学问题，受到科学界的高度关注（Kennedy&Norman,2005)。研究者长期致力于从进化、社会文化、生理和认知等多个层面揭示人类亲社会行为的起源及其发生发展机制（e.g.,Hackeletal.,2017)。近年来，不断增多的亲社会研究一致提示，生理因素、气质特征、社会化因素、社会认知等多种因素间相互作用，共同影响亲社会行为（Knafo-Noam etal.,2018）。目前分别探讨“基因 $\times$ 环境—亲社会行为/共情”（e.g.,Fortuna & Knafo,2014; Knafo et al.,2011; Knafo-Noam etal.,2018）、“教养—共情—亲社会行为”（e.g.,Padilla-Walker& Christensen,2011）的研究能从不同角度帮助研究者了解亲社会行为的产生机制和个体差异。但是如何实现微观分子水平、认知/情感水平到行为水平影响因素的整合与理论模型的构建，是当前研究尚未解决的问题。本研究从“基因一环境—内表型一行为”的理论思路出发（Caspi& Moffitt,2006)，聚焦分子生物水平（遗传基因)、内表型水平（认知共情和情绪共情）和环境水平（母亲教养行为）的易感因素，检验亲社会行为的多水平发生机制，不仅有助于确定亲社会行为的产生条件和个体差异，也有助于阐明基因、环境与亲社会行为间的“黑匣子”。由此，本研究采用分子遗传学研究范式，考察母亲积极教养、共情与青少年亲社会行为间的关系，并检验催产素受体（oxytocin-receptor,OXTR）基因在其中的调节效应，以丰富亲社会行为的发生机制和个体差异研究。
+
+家庭是儿童青少年社会化的重要场所，家庭环境中的亲子互动经验对个体亲社会行为的发生发展具有持续的直接影响（Eisenberget al.,2015）。社会化理论（socialization theories）认为，儿童青少年的亲社会行为来源于其在家庭亲密关系中的积极经历(Hastings etal.,2015)。相关实证研究也为积极教养与儿童青少年亲社会行为之间的关系提供了丰富的证据，并且发现父母积极教养能够通过多种方式促进儿童青少年亲社会行为的发展（e.g.,Eisenberg et al.,2015;Hastings et al.,2015)。一方面，父母温情、引导等积极教养行为能够为孩子的情感关怀、安慰等积极行为提供观察学习的模板，从而有利于其亲社会行为的习得（Augustine ＆Stifter,2015)。另一方面，父母的温情、引导能够给孩子提供安全感、信任感和保护感，增强孩子与他人的联系及其归属感，同时降低孩子指向自我的关心程度，促进亲社会行为(Hoffman,2001)。此外，亲密温暖的亲子关系更有利于促进孩子内化父母关心和尊重他人的价值观（Grusec ＆Goodnow,1994)，从而增加亲社会行为。
+
+积极教养不仅直接影响亲社会行为，而且可以通过影响某些社会认知能力的中介过程影响子代亲社会行为。Hoffman 的道德内化理论（theory ofmoralinternalization）指出，父母积极的教养行为（如引导）可以通过对行为规则的解释，引导儿童注意不良行为的消极后果，促进孩子感受他人消极情绪的能力，意识到他人的痛苦经历而产生内疚感（Hoffman,1970,1983）。同时根据 Batson 的移情—利他假说（Batson et al.,2007）和 Hoffman 的移情、道德原则与亲社会行为的三叠式推理模型（Hoffman,2001)，共情（empathy）作为动机因素能够直接引发亲社会行为。基于上述理论模型，共情作为个体理解和分享他人情绪体验的能力（Decety etal.,2015)，在父母教养影响亲社会行为的过程中发挥重要的中介作用（Eisenberget al.,2015;Padilla-Walker et al.,2016)。相关实证研究亦发现，青少年早期母亲积极教养行为能够正向预测其共情水平，并进一步预测了指向朋友和陌生人的亲社会行为（Padilla-Walker&Christensen,2011)。这可能是由于温情、引导水平较高的母亲对孩子的需求更为敏感，能够及时提供情绪和工具支持，引导儿童感知他人的情绪，有助于儿童青少年的情绪理解与共情能力的发展（Kiang etal.,2004)，并进一步促进亲社会行为的发展（Lim&DeSteno,2016)。
+
+需要指出的是，共情不是一个单维结构，它包含认知共情（cognitiveempathy）和情绪共情（emotional empathy）两种成分，且两者具有不同的发展模式和作用机制（Singer,2006;黄鬻青，苏彦捷,2012)。情绪共情是通过同感他人情绪状态而产生的情绪反应或体验，认知共情则是对他人情绪和感受的理解，主要与推测他人的观点有关（deWaal&Preston,2017）。共情的双过程发展模型和元分析研究结果指出，认知共情和情绪共情分别呈“倒U 型”和“U型”的发展轨迹，并且青春期个体处于认知共情与情绪共情差异最大的顶点，其情绪共情水平显著低于认知共情（黄鬻青，苏彦捷,2012；颜志强，苏彦捷,2021)。相关研究显示，认知共情和情绪共情不仅在心理成分和发展轨迹上存在差异，其对亲社会行为的影响程度及其作用机制亦存在差异。譬如，一些研究显示，认知共情对亲社会行为的预测力强于情绪共情（Kim etal.,2019)；另一些研究则显示，尽管青少年的认知共情、情绪共情均在父母积极教养与亲社会行为间起中介作用，但作用模式存在差异（e.g.,Davis&Carlo,2018)。综上，分离共情的不同成分对于更加清晰地揭示亲社会行为产生的内在机制至关重要。鉴于在青少年期，认知共情和情绪共情能力的差异进一步扩大，本研究假设认知共情和情绪共情均能在积极教养和亲社会行为间起中介作用，但是认知共情的预测作用更强。
+
+青少年亲社会行为和共情能力的发展不仅受到积极教养环境的影响，也具有重要的遗传基础。国内外研究一致显示，OXTR 基因是亲社会行为和共情的重要候选基因（Gong et al.,2017;Wu& Su,2015)。该基因位于3号染色体p25区，其编码的催产素受体广泛分布于大脑边缘系统、前额叶皮层等脑区，并且受体密度和活性影响个体的社会行为（Tost etal.,2010)。其中，rs53576多态性在众多OXTR 基因中，是研究最为广泛的一种功能性多态性位点，具有A和G两种等位基因，该多态性已被发现与个体的亲社会行为（e.g.,Wu& Su,2015）、共情能力（e.g.,Uzefovsky etal.,2015）密切相关。但是，关于何种基因型与较高水平的亲社会行为或共情能力有关尚存在分歧。多数研究显示，OXTR基因rs53576多态性的G等位基因与较高的帮助、安慰等亲社会行为（e.g.,Wu&Su,2015）以及更高的共情能力（e.g,Gonget al.,2017）有关。然而，另一些研究并未发现G等位基因的积极效应（Bakermans-Kranenburg& van IJzendoorn,2014)，甚至发现 A等位基因具有保护性效应（e.g.,Costa et al.,2009）。
+
+社会显著性假说（social salience hypothesis）可能为上述研究结果的分歧提供启示。该假说认为催产素（oxytocin）能够增加个体对社会环境的敏感性和反应性，而非直接影响亲社会行为（Bartz etal.,2011)。Shamay-Tsoory 和 Abu-Akel（2016）进一步阐述了催产素影响社会显著性的神经生理机制，即催产素能系统（oxytocinergic system）和多巴胺能系统（dopaminergic system）相互作用，调控个体对环境的敏感性。虽然OXTR 基因不直接影响催产素含量，但是该基因可通过调节催产素受体的数量、组织和功能对催产素能系统产生影响（Yamasue,2013)，进而调控个体对环境的敏感性。来自 fMRI的研究也显示，OXTR 基因能够通过影响下丘脑与杏仁核的功能性耦合程度调节个体对环境因素的敏感性，进而对社会情绪与行为产生影响（Tost et al.,2010)。由此，基于社会显著性假说和 fMRI研究证据，本研究推测OXTR 基因表现出保护效应还是风险效应取决于个体所处社会环境，即存在基因一环境交互作用。
+
+既有研究也为OXTR基因与环境的交互作用提供了丰富的证据：一方面，OXTR基因能够调节环境因素对亲社会行为的直接效应。Poulin 等（2012）的研究发现，OXTR 基因 rs53576多态性与真实环境中的恐惧事件交互作用于个体的亲社会行为。相较于GG 基因型携带者，携带 A等位基因的个体在感知高恐惧时参与更少的慈善活动，而在感知低恐惧时参与更多的慈善活动。另一方面,OXTR基因能够调节环境因素对共情能力的效应。Flasbeck 等（2018)的研究显示，童年早期创伤与OXTR基因rs53576多态性交互影响女性对他人疼痛的共情水平。具体而言，对于携带A等位基因的女性，童年期虐待经历能够正向预测其共情水平，而对于GG 基因型携带者，这一预测作用则不显著。Mcdonald等（2016）的追踪研究显示，对于携带GG 基因型的婴儿来说，积极的亲子情感互动显著正向预测其共情水平，而对于A 等位基因携带者来说，这一预测作用并不显著。近期，一项脑电（electroencephalograph,EEG)研究发现，OXTR基因与群际关系交互影响个体在面对他人痛苦时的共情相关神经活动，在内群体背景下，GG 基因型比AA 基因型携带者具有更高的共情反应性（Luo et al.,2019)。由此可知，OXTR基因不仅能够调节环境因素影响亲社会行为的直接路径，还可能调节环境影响亲社会行为的中介路径。
+
+尽管越来越多的研究发现OXTR 基因具有环境敏感性，但是关于何种等位基因具有更高的环境敏感性仍然存在分歧。多数研究显示G 等位基因携带者更可能注意社会环境线索（Hostinar et al.,2014; Luo et al.,2019; McQuaid et al.,2013)），但也有少数研究显示 AA 基因型携带者比G 等位基因携带者对消极环境具有更高的敏感性（Poulin et al.,2012;van Roekelet al.,2013)。这一研究结果分歧可能与不同的基因编码方式有关（Aliev etal.,2014)。事实上，既有研究对杂合子 AG 基因型应该如何分组的问题也存在分歧（e.g.,Smearman et al,2015)，不同的基因编码方式也可能导致研究结果存在偏差，甚至一些研究仅对 AA 基因型和 GG 基因型进行分析（e.g.,Luo etal.,2019)，可能会忽视杂合子基因型的效应。由于OXTR基因 rs53576多态性的生理功能尚未被确定，本研究基于多数研究的结果，假设G等位基因为环境敏感性基因，同时为了避免基因编码方式造成的结果偏差，综合采用虚拟编码、加性编码、显性编码和隐性编码的方式对OXTR基因的调节效应进行检验，以保证结果的准确性和稳定性。
+
+综上，本研究拟探讨母亲积极教养、共情、OXTR 基因rs53576多态性与青少年亲社会行为间的关系及其作用机制。通过构建一个有调节的中介模型，分别建模考察青少年认知共情（观点采择）与情绪共情（移情关心）在母亲积极教养与亲社会行为间的中介作用，以及OXTR 基因rs53576多态性在母亲积极教养与亲社会行为/共情能力间的调节效应，以期揭示教养影响青少年亲社会行为的内在机制，概念模型见图1。
+
+![](images/e6edd75c0cc786a36f5ce2c6883fa051a29a75c93eb00bb21b343b706312b437.jpg)  
+图1概念模型图
+
+# 2方法
+
+# 2.1被试
+
+本研究数据来自国内一项大型追踪项目。在被试六年级时（T1）测量了青少年的亲社会行为、母亲积极教养和家庭社会经济地位，在初二时（T2）收集青少年基因数据、共情并再次测评亲社会行为。基因—环境交互作用效应量通常为0.01（e.g.,Starr et al.,2014)，采用G\*Power3.1.9.2软件进行分析，结果显示若要达到 $80 \%$ 以上的统计检验力（ $\mathbf { \alpha } \mathbf { a } = 0 . 0 5 \$ ，约需要787名被试。基于此，T2时随机选取1082名被试测评其OXTR基因型，样本量满足统计检验力要求。其中男生538人 $( 4 9 . 7 \% )$ ，女生544人 $( 5 0 . 3 \% )$ )，T2时被试的平均年龄为14.32$\pm \ : 0 . 4 8$ 岁。具有基因数据的样本 $\left( N = 1 0 8 2 \right)$ 和没有基因数据的样本 $\left( N = 1 0 9 4 \right)$ 在家庭社会经济地位（ $t = - 0 . 7 1$ ， $p = 0 . 4 8 \AA \lambda$ 、母亲积极教养（ $t = - 1 . 5 3 , p = 0 . 1 3 )$ 、认知共情（ $\dot { \mathbf { \Omega } } _ { t } = - 0 . 6 0 , p =$ 0.55）、情绪共情（ $\dot { \mathbf { \zeta } } t = 1 . 0 7 , p = 0 . 2 9 ,$ ）和T1亲社会行为（ $\dot { \mathbf { \xi } } t = 0 . 9 0 , p = 0 . 3 7 ,$ ）上均不存在显著差异，具有基因数据的个体T2亲社会行为的得分偏高（ $t ( 1 0 8 0 ) = - 7 . 1 4$ $p < 0 . 0 0 1 \$ 。母亲受教育水平在本科及本科以上者占 $34 . 2 \%$ ，本科以下且高中以上者占 $5 3 . 3 \%$ ，高中以下者占$1 1 . 4 \%$ 。父亲受教育水平在本科及本科以上者占 $44 . 7 \%$ ，本科以下且高中以上者占 $45 . 3 \%$ 高中以下者占 $8 . 1 \%$ 。儿童家庭月收入在1000 元以下的占 $1 . 9 \%$ ， $1 0 0 0 \sim 3 0 0 0$ 元之间的占$20 . 7 \%$ ， $3 0 0 0 \sim 6 0 0 0$ 元之间的占 $4 7 . 0 \%$ ，6000元以上的占 $2 8 . 4 \%$ 。
+
+# 2.2研究工具、仪器与材料
+
+# 2.2.1母亲积极教养
+
+采用母亲报告的中文版儿童养育实践问卷（Child-Rearing Practices Report,CRPR;Chenet al.,2010）测量母亲积极教养行为，该问卷在中国儿童青少年研究中已得到广泛使用，并且具有良好的信效度（e.g., Cao et al.,2018; Zhang et al.,2017)。本研究采用母亲报告的温情和引导共8个项目作为积极教养的指标。问卷采用5点计分，从“完全不符合”到“完全符合”分别记0\~4分，得分越高，说明母亲积极教养行为越多。本研究中积极教养的Cronbach'sα系数为0.83。
+
+# 2.2.2 共情
+
+采用人际反应指数量表（Interpersonal Reactivity Index,IRI; Davis,1980）测量青少年的共情水平。该量表共 28个项目，采用5点计分，从“完全不符合”到“完全符合”分别记0\~4 分，分为观点采择、移情关心、幻想和个人痛苦四个维度。其中观点采择（perspectivetaking）和移情关心（empathicconcerm）分别测量了共情的认知成分和情绪成分（张凤凤等，2010)，并且既有研究表明该量表中的观点采择和移情关心两个维度最能代表共情能力（Siu& Shek,2005)。由此，本研究分别采用观点采择与移情关心两个分量表测量认知共情和情绪共情。其中，观点采择（例如“在批评别人之前，我会设法想想，假如我站在他/她的立场上我会怎么想”）和移情关心（例如“看到有人被占便宜时，我就觉得想要保护他们”）各7个项目，但本研究删除了因子载荷低于0.3的1个移情关心项目（“看到有人受到不公平的对待，我不会觉得很同情他们")。本研究中青少年的认知共情和情绪共情的Cronbach's α系数分别为0.80 和0.68。
+
+# 2.2.3青少年亲社会行为
+
+青少年的亲社会行为问卷改编自儿童社会行为评定量表（王姝琼等,2011)，采用同伴评定法进行测量。由于本研究被试来自一项追踪项目，目标被试因升学等原因分布在不同的班级（班级内既包含追踪的目标被试也包含非目标被试)。综合考虑评定者对受评者的熟悉程度和评定偏差问题，本研究邀请班内所有的非目标被试按照问卷中每个题目描述的行为表现，对班级内每位同性别的目标被试进行评定。因为班级规模不同，T1班级内对目标被试进行评定的同伴人数范围是8\~19人（平均人数 $1 2 . 7 7 \pm 2 . 2 3$ 人)；T2班级内对目标被试进行评定的同伴人数范围是4\~21人（平均人数 $1 0 . 6 2 \pm 2 . 9 7$ 人)。亲社会行为测量包括9个项目（例如“在别人完成某项任务或活动有困难时帮助别人”），采用4点计分，从“从不”到“总是”分别记0\~3分。最后，计算每一个受评被试在每一题目上被多个同性别同伴评定得分的平均分，作为追踪被试在该题目上的得分。本研究分班级分别计算各项目的评定者一致性系数（intra-classcorrelation coeficient,ICC)，各项目的组内相关性均超过 0.65，表明评定者一致性信度可以接受（Chen et al.,2019)。此外，本研究分析显示亲社会行为在班级层面的差异小于0.1（T1: $\mathrm { I C C } = 0 . 0 7 9$ ; T2: $\mathrm { I C C } = 0 . 0 6 1 \$ )，因此在随后的分析中没有控制班级层面的协变量（Field,2005)。T1与T2 亲社会行为的Cronbach's $\mathfrak { a }$ 系数分别为0.97和0.96。
+
+# 2.2.4家庭社会经济地位
+
+家庭社会经济地位（SES）由父母文化程度、父母职业及家庭收入合成。其中父母职业根据职业的专业技术性程度归为三类：“农民或下岗失业人员”、“蓝领”和“专业或半专业性人员”，分别记为1\~3分。父母受教育水平包括“小学或小学以下”、“初中（含初中未毕业)”、“高中或中专（含高中未毕业）”、“大专（含夜大、电大）”、“大学本科”和“研究生（硕士或博士）”六类，分别记1\~6分。家庭月收入从“1000元以下”到“8000元以上”每隔 1000元划分为一类，分别记1\~9分。参照有关研究（范兴华等,2012)，采用因子分析法合成SES指标。SES得分越高，代表家庭社会经济地位越高。本研究采用合成后的SES作为控制变量。
+
+# 2.3研究程序
+
+# 2.3.1数据收集程序
+
+本研究数据来自一项大型追踪研究，该追踪研究自儿童9岁（三年级）开始每年进行一次追踪测评，该追踪研究初始研究设计为考察儿童青少年问题行为的发展特点及影响因素，在被试初二时（T2)新增共情这一变量。该追踪项目早期采用CRPR测量母亲积极教养行为，被试初中时更换为父母教养风格问卷（Parenting Style Index,PSI; Steinberg et al.,1992）测量父母教养类型而非积极教养行为。因此，本研究基于研究目的和数据收集的实际情况，在已有数据范围内进行有限的研究设计，采用间隔两年的研究设计，考察T1母亲积极教养行为、T2 共情与T2亲社会行为间的关联。
+
+本研究经过山东师范大学伦理委员会审核批准。此外，本研究在进行数据收集前，将问卷施测及唾液提取、DNA分型流程等相关信息告知青少年所在学校、青少年监护人及青少年本人，得到三方的知情同意后进行研究。本研究以班级为单位采集青少年的唾液样本并对
+
+OXTR基因rs53576多态性进行基因分型，采用问卷测评收集母亲积极教养、青少年亲社会行为与共情能力的数据。所有采样与施测程序均由经过严格培训的心理学研究生完成。
+
+# 2.3.2DNA样本采集、提取与分型
+
+在征得青少年、青少年监护人及合作学校同意的前提下，以班级为单位采集学生被试的唾液样本，每人采集 $2 { \sim } 5 { \mathrm { m l } }$ 。唾液样本采集严格按照规范进行，要求被试在采样前30分钟不能进食、喝水、嚼口香糖、吸烟，发高烧 $3 8 ^ { \circ } \mathrm { C }$ 以上的被试此次不予采集，在采样完成后现场逐个检查样本质量，对于不符合标准的被试后续进行重新采集。采用唾液采样的方式提取青少年的DNA样本。利用Sequenom（San Diego,CA,USA）芯片基质辅助激光解吸/电离飞行时间（MALDI-TOF）质谱平台对OXTR基因rs53576多态性进行基因分型。该多态性的引物为F： $5 ^ { \circ }$ GGGCCGAGCTTGTGCACTCT $. 3 ^ { \circ }$ ，R: $5 ^ { \circ }$ -TGAGCTTCCCAGCCCCTCCC-3'。PCR反应条件为： $9 4 ^ { \circ } \mathrm { C } 1 5 \mathrm { m i n }$ ; $9 4 ^ { \circ } \mathrm { C } 2 0 \mathrm { s }$ ， $5 6 ^ { \circ } \mathrm { C } 3 0 \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C } 1 \mathrm { m i n }$ ，共 45个循环；最终 $7 2 ^ { \circ } \mathrm { C }$ $3 \mathrm { m i n }$ 。随后经历单碱基延伸反应，并由MassARRAYTyper软件系统（版本号3.4）完成基因分型分析。本研究所使用的检测平台和技术具有较高的可靠性（基因分型有效率 $> 9 7 \%$ ）
+
+本研究中，被试的OXTR基因rs53576多态性基因型分布如下： $\mathrm { A A } = 4 8 . 9 \%$ （529人），$\mathrm { A G } = 4 1 . 6 \%$ （450人）， $G \mathrm { G } = 9 . 5 \%$ （103人)。Hardy-Weinberg遗传平衡吻合度检验结果表明,OXTR基因rs53576位点的基因型（AA、AG和GG）的观察值与期望值吻合良好，符合Hardy-Weinberg平衡定律 $( \chi ^ { 2 } = 0 . 2 6 , d f = 1 , p = 0 . 6 1 )$ 。
+
+# 2.4数据处理与分析
+
+采用SPSS 21.0、SPSS宏程序PROCESS（Hayes,2013）、Mplus 6.0、MATLABR2013b和CMA3.0进行数据分析。首先，采用Pearson积差相关计算各研究变量间的相关系数。其次，采用PROCESS宏程序Model4（中介效应）和潜变量结构方程模型，分别独立检验认知共情和情绪共情的中介作用。第三，采用PROCESS宏程序Model8（有调节的中介效应)检验OXTR基因的调节效应。第四，进行敏感性分析，以保证研究结果的可靠性。（1）将样本随机分为两个子样本，进行内部验证和元分析；（2）为避免基因型分布频次对结果的影响，基于GG基因型携带者数量（ $N = 1 0 3 { \mathrm { ~ } }$ ，随机选取等数量AG和AA基因型携带者，重复研究结果；（3)采用MATLABR2013b的regress和crossvalind函数，进行k fold交叉验证，检验OXTR基因调节效应的延展性与预测性；（4）通过对已有OXTR基因一环境交互作用研究效果量的元分析，进一步检验研究结果的可靠性。元分析研究基于“OXTR gene rs53576 polymorphism”、“OXTRgene\*environment interaction”、“OXTR基因”和“OXTR基因—环境”等关键词在NCBI、Webof Science、中国知网、Google Scholar数据库查找并筛选了有关OXTR基因与环境交互作用的研究文献共41项，向各研究通讯作者申请各基因型（AA/AG/GG）的环境一表型关联效果量数据。由于数据申请回复率极低，最终仅3项研究（Flasbeck etal.,2018;Yu etal.,2020;Zheng etal.,2020；在参考文献部分前面标注\*的研究）的作者给予数据回复，本研究亦基于这3项研究及本研究结果进行了元分析。
+
+中介效应和有调节的中介效应检验均以性别、SES为控制变量，抽取 5000个Bootstrap样本，获取参数估计的稳健标准误和Bootstrap置信区间，若置信区间不包含0，则表示结果显著。为了进一步验证结果的稳定性，将T1亲社会行为作为控制变量，进行了补充分析。在有调节的中介模型中，本研究采用四种编码方式对OXTR基因进行编码，分别为虚拟编码（以AA基因型为参照组）、加性编码（ $\mathrm { \Delta A A } = 0 , \mathrm { A G } = 1 , \mathrm { G G } = 2 \$ ）、显性编码（ $\mathrm { \Delta A A } { = } 0 , \mathrm { A G / G G } { = } 1 \mathrm { \Delta }$ 和隐性编码 $\begin{array} { r } { ( \mathbf { A } \mathbf { A } / \mathbf { A } \mathbf { G } = 0 , \mathbf { G } \mathbf { G } = 1 ) } \end{array}$ ，以确定不同编码方式对结果的影响及结果的可靠性（Chenet al., 2018)。
+
+# 3结果
+
+# 3.1变量的描述统计量与相关分析结果
+
+各变量的平均数、标准差及相关系数见表1。OXTR基因rs53576多态性的不同基因型携带者在积极教养上不存在差异 $( F = 0 . 3 7 , d f = 1 0 7 0 , p = 0 . 6 9 )$ ，排除了基因一环境相关(rGE)。积极教养与青少年认知共情、情绪共情以及两个时间点的亲社会行为均存在显著正相关。青少年认知共情与情绪共情呈显著的正相关。青少年认知共情、情绪共情分别与两个时间点的亲社会行为存在显著正相关。此外，两个时间点的亲社会行为呈显著正相关，表明青少年亲社会行为具有一定的稳定性。
+
+表1各变量间的相关系数  
+
+<html><body><table><tr><td>变量</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1 SES</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2性别</td><td>0.04</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3 积极教养（T1)</td><td>0.17**</td><td>-0.04</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>4 认知共情(T2)</td><td>0.03</td><td>-0.04</td><td>0.11**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>5情绪共情(T2)</td><td>0.01</td><td>-0.15***</td><td>0.07*</td><td>0.49***</td><td>1</td><td></td><td></td></tr><tr><td>6 亲社会行为（T1)</td><td>0.15**</td><td>-0.53***</td><td>0.14*</td><td>0.16***</td><td>0.22**</td><td>1</td><td></td></tr><tr><td>7亲社会行为（T2）</td><td>0.04</td><td>-0.49****</td><td>0.09***</td><td>0.14***</td><td>0.18**</td><td>0.53**</td><td>1</td></tr><tr><td>M(SD)</td><td>0.00(1.00)</td><td>1</td><td>3.21(0.52)</td><td>2.94 (0.61)</td><td>2.70 (0.64)</td><td>1.76 (0.46)</td><td>1.77 (0.48)</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ \*， $\stackrel { ! } { p } < 0 . 0 1$ ；\* $^ { * } p < 0 . 0 0 1$
+
+# 3.2青少年共情的中介作用检验
+
+根据 Hayes（2013）、温忠麟和叶宝娟（2014）的方法，首先采用 SPSS宏程序PROCESS的 Model4 分别检验青少年认知共情以及情绪共情在母亲积极教养与亲社会行为之间的中介作用。对认知共情的中介效应分析显示，控制性别和 SES 后，母亲积极教养显著正向预测青少年认知共情（ $\stackrel { \prime } { \cdot } a = 0 . 1 1 , S E = 0 . 0 3 , p < 0 . 0 0 1 \rangle$ ，青少年认知共情显著正向预测亲社会行为（ $b = 0 . 0 6$ $S E = 0 . 0 1$ $p < 0 . 0 0 1 \cdot$ 。母亲积极教养对亲社会行为的直接效应显著（ $\mathbf { \omega } _ { c } \mathbf { ' } = 0 . 0 3$ $S E = 0 . 0 1 , p = 0 . 0 3 )$ 。Bootstrap 结果显示，认知共情在积极教养与亲社会行为之间的中介效应显著（ $a b = 0 . 0 0 6$ Boot $S E = 0 . 0 0 2 \$ ， $9 5 \%$ 的置信区间为[0.002,0.011]。中介效应占总效应的比例 $a b / ( a b + c ^ { \circ } ) = 1 6 . 7 \%$
+
+对情绪共情的中介效应分析显示，控制性别和 SES 后，母亲积极教养对青少年情绪共情的预测作用显著‘ $\stackrel { \prime } { \cdot } a = 0 . 0 6 , S E = 0 . 0 3 , p = 0 . 0 4 )$ 。青少年情绪共情对亲社会行为的预测作用显著( $\langle b = 0 . 0 5 , S E = 0 . 0 1 , p < 0 . 0 0 1 \rangle$ 。母亲积极教养对亲社会行为的直接效应显著（ $c ^ { \prime } { = } 0 . 0 3$ $S E = 0 . 0 1 , p = 0 . 0 2 )$ 。但是，Bootstrap 结果显示，情绪共情在积极教养与亲社会行为之间的中介效应不显著（ $a b = 0 . 0 0 3$ ,Boot $S E = 0 . 0 0 2$ ， $9 5 \%$ 的置信区间为[0.000,0.007]，中介效应占总效应的比例 $a b / ( a b + c ^ { 3 } ) = 9 . 1 \%$
+
+为了验证该结果的可靠性，本研究进一步补充了两部分分析：第一，由于T1和 T2 的亲社会行为具有较高的稳定性（ ${ \mathrm { \Delta } } r = 0 . 5 3 , p < 0 . 0 0 1 { \mathrm { \Omega } } )$ ，T2时亲社会行为的变异可能大部分来源于 T1时亲社会行为，本研究检验了控制T1亲社会行为时的中介模型。与前述结果基本一致，认知共情（ $a b = 0 . 0 0 3$ ,Boot $S E = 0 . 0 0 2$ ， $9 5 \%$ CI[0.001,0.007]）而非情绪共情（ $a b =$ 0.001, Boot $S E = 0 . 0 0 1$ ， $9 5 \%$ CI[-0.0004,0.003]）的中介效应显著。具体表现为，母亲积极教养能够显著正向预测青少年认知共情能力（ $a = 0 . 0 9$ $S E = 0 . 0 3$ $p = 0 . 0 0 3 \mathrm { \ : }$ )，青少年认知共情能够显著正向预测亲社会行为‘ $\langle b = 0 . 0 4 , S E = 0 . 0 1 , p < 0 . 0 0 1 \rangle$ ，但是积极教养对亲社会行为的预测作用不显著（ $\mathbf { \Phi } _ { c } \prime = 0 . 0 1$ ， $S E = 0 . 0 1$ $p = 0 . 2 6 )$ 。第二，本研究采用潜变量结构方程模型检验中介效应，与回归分析结果相一致（详见表2)，验证了本研究结果的稳定性。
+
+表2共情在积极教养与亲社会行为间的中介模型拟合指数  
+
+<html><body><table><tr><td>Model</td><td>x21df</td><td>CFI</td><td>TLI</td><td>RMSEA (90% CI)</td><td>Path a</td><td>Path b</td><td>Path c</td><td>95% CI</td></tr><tr><td>认知共情</td><td>6.50</td><td>0.91</td><td>0.90</td><td>0.072[0.069~0.075]</td><td>0.14***</td><td>0.14***</td><td>0.08*</td><td>[0.006,0.028]</td></tr><tr><td>认知共情(控制 T1亲社会)</td><td>6.41</td><td>0.91</td><td>0.90</td><td>0.071[0.068~0.074]</td><td>0.14***</td><td>0.09**</td><td>0.04</td><td>[0.001, 0.020]</td></tr><tr><td>情绪共情</td><td>7.49</td><td>0.89</td><td>0.88</td><td>0.078[0.075~0.081]</td><td>0.09*</td><td>0.14***</td><td>0.08*</td><td>[-0.001,0.022]</td></tr><tr><td>情绪共情(控制 T1亲社会)</td><td>7.36</td><td>0.88</td><td>0.87</td><td>0.077[0.074~0.080]</td><td>0.09+</td><td>0.07+</td><td>0.04*</td><td>[-0.002, 0.013]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5 ; ^ { * * } p < 0 . 0 1 ; ^ { * * * } p < 0 . 0 0 1$
+
+# 3.3母亲积极教养与青少年亲社会行为的关系：有调节的中介模型检验
+
+前述中介效应分析显示情绪共情的中介作用未达到显著水平，因此，本研究仅检验OXTR 基因在母亲积极教养经由认知共情影响亲社会行为中介路径中的调节效应。本研究采用四种基因编码方式验证有调节的中介模型，具体分析结果见表3。
+
+在OXTR基因虚拟编码的模型中，有调节的中介模型成立，AA基因型仅与AG基因型间的中介效应存在显著差异（AG vs.AA: $9 5 \%$ CI [-0.01, -0.002]; GG vs. AA: $9 5 \%$ CI [-0.01,0.01])。具体表现为在AA和GG 基因型携带者，认知共情的中介效应均显著（AA: $9 5 \%$ CI[0.04, 0.02]; GG: $9 5 \%$ CI[0.003,0.02])，而在AG 基因型携带者中，中介效应不显著（AG: $9 5 \%$ CI[-0.01,0.01])。经过FDR 统计校正后，积极教养 $\times$ AG/AA交互作用仍然显著（corrected$p { = } 0 . 0 4$ )。基于此结果，本研究以AG杂合子为参照组，重新进行了虚拟编码的有调节中介模型检验，结果显示GG 基因型与AG 基因型间的中介效应也存在显著差异(AGvs.GG: $9 5 \%$ CI [0.002,0.03])。
+
+在OXTR基因显性编码的模型中，有调节的中介模型成立 $( 9 5 \% \mathrm { C I } [ - 0 . 0 2 , - 0 . 0 0 1 ] )$ 。进一步的分析显示，在AA 基因型携带者中，认知共情的中介效应显著 $( 9 5 \% \mathrm { C I } [ 0 . 0 0 4 , 0 . 0 2 ] )$ 而在G等位基因携带者中，认知共情的中介效应不显著 $( 9 5 \% \mathrm { C I } [ - 0 . 0 0 3 , 0 . 0 1 ] )$ 。但是，经过 FDR 统计校正后，积极教养 $\times O X T R$ 交互作用边缘显著（corrected $p = 0 . 0 7 5 \$ ）。在OXTR基因加性编码的模型和隐性编码模型中，有调节的中介模型均不成立（加性模型： $9 5 \%$ CI[-0.01,0.001]；隐性模型: $9 5 \%$ CI[-0.003,0.02])。
+
+综合上述四种基因编码方式的结果，本研究中OXTR 基因的效应呈现出一种超显性（overdominance）模式（Aliev etal.,2014)，超显性显示了一种杂合子优势效应，即杂合子比纯合子的适应度高，不易受到外界环境变化的影响。显然，采用加性、隐性和显性编码方式均不能准确地描述基因与环境的交互作用模式，并且可能混淆杂合子的效应。基于虚拟编码的结果，本研究对OXTR基因与环境的交互作用进行简单斜率分析，结果显示，相比 AG杂合子基因型携带者（ $\cdot s i m p l e s l o p e = 0 . 0 0 2 , t = 0 . 0 8 , p = 0 . 9 4 )$ ，在AA基因型（simple slope $\mathbf { \Sigma } =$ 0.11, $t = 4 . 0 1$ $p < 0 . 0 0 1$ ）和GG基因型（simple slope $= 0 . 1 4$ ， $t = 2 . 1 6 , p = 0 . 0 3$ ）携带者中，积极教养显著正向预测认知共情（见图2和图3a)。
+
+此外，同时控制性别、SES 和T1亲社会行为后，采用虚拟编码方式验证该结果，依然显示有调节的中介模型成立，AA 基因型仅与 AG 基因型间的中介效应存在显著差异（AGVS. AA: $9 5 \%$ CI [-0.01, -0.001]; GG vs. AA: $9 5 \%$ CI[-0.005,0.01])。具体表现为在 AA 和 GG基因型携带者，认知共情的中介效应均显著（AA: $9 5 \%$ CI [0.001, 0.01]; GG: $9 5 \%$ CI [0.001,
+
+0.02])，而在AG基因型携带者中，中介效应不显著（AG: $9 5 \%$ CI[-0.005, 0.003])
+
+![](images/ae66aa771ceba79be27a88a1da7a7d07aae99669407e99e0589021cb78c78a83.jpg)  
+(c）
+
+图2OXTR各基因型中母亲积极教养与认知共情的相关散点图  
+表3有调节的中介模型(四种基因编码方式)  
+
+<html><body><table><tr><td rowspan="3">变量</td><td rowspan="3"></td><td colspan="3">模型1 （因变量：亲社会行为）</td><td colspan="3">模型2 （因变量：认知共情）</td><td colspan="3">模型3 （因变量：亲社会行为）</td></tr><tr><td colspan="3">△R²</td><td colspan="3">△R²</td><td colspan="3"></td></tr><tr><td>0.24***</td><td>b 0.03*</td><td>SE 0.01</td><td>0.003</td><td>b</td><td>SE</td><td>△R²</td><td>b</td><td>SE 0.01</td></tr><tr><td>第一层：SES</td><td></td><td></td><td>-0.47***</td><td>0.03</td><td></td><td>0.02 -0.04</td><td>0.02 0.04</td><td>0.24***</td><td>0.03* -0.47***</td><td></td></tr><tr><td>第二层：积极教养</td><td>性别</td><td>0.01**</td><td>0.03*</td><td>0.01</td><td>0.01***</td><td>0.07***</td><td>0.02</td><td>0.01**</td><td>0.03*</td><td>0.03 0.01</td></tr><tr><td>第三层：认知共情</td><td></td><td>0.01***</td><td>0.06***</td><td>0.01</td><td></td><td></td><td></td><td>0.01***</td><td>0.06***</td><td>0.01</td></tr><tr><td>第四层：OXTR基因</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="3">虚拟编码：AGvs.AA</td><td></td><td></td><td>0.002</td><td>0.05</td><td>0.04</td><td>0.001</td><td>0.01</td><td>0.03</td></tr><tr><td colspan="3">GG vs. AA</td><td></td><td></td><td></td><td>-0.03</td><td>0.07</td><td></td><td>-0.04</td><td>0.05</td></tr><tr><td colspan="3">加性编码：OXTR</td><td></td><td></td><td>0.000</td><td>0.01</td><td>0.03</td><td>0.00</td><td>-0.01</td><td>0.02</td></tr><tr><td colspan="3"></td><td></td><td></td><td>0.001</td><td>0.03</td><td>0.04</td><td>0.00</td><td>0.002</td><td>0.03</td></tr><tr><td colspan="3">显性编码：OXTR 隐性编码：OXTR</td><td></td><td></td><td>0.001</td><td>-0.05</td><td>0.07</td><td>0.001</td><td>-0.05</td><td>0.04</td></tr><tr><td colspan="3">第五层：OXTR×积极教养</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="3">虚拟编码：积极教养×AG/AA</td><td></td><td></td><td>0.01**</td><td>-0.11**</td><td>0.04</td><td>0.001</td><td>0.02</td><td>0.03</td></tr><tr><td colspan="3">积极教养×GG/AA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="3"></td><td></td><td></td><td>0.001</td><td>0.03</td><td>0.07</td><td></td><td>-0.02</td><td>0.05</td></tr><tr><td colspan="3">加性编码：积极教养×OXTR</td><td></td><td></td><td></td><td>-0.03</td><td>0.03</td><td>0.00</td><td>0.003</td><td>0.02</td></tr><tr><td colspan="3">显性编码：积极教养×OXTR</td><td></td><td></td><td>0.004</td><td>-0.08*</td><td>0.04</td><td>0.00</td><td>0.02</td><td>0.03</td></tr><tr><td colspan="3">隐性编码：积极教养×OXTR</td><td></td><td></td><td>0.001</td><td>0.08</td><td>0.07</td><td>0.00</td><td>-0.03</td><td>0.05</td></tr></table></body></html>
+
+注：为更直观比较各种基因编码方式的结果差异，在回归表中将四种编码方式的结果同时呈现，但在统计分析时是构建了4个模型分别检验各种基因编码的效应。虚拟编码即将AA基因型为参照组，虚拟编码为2类AG 和GG两个虚拟变量；加性编码：$\mathrm { \ A A } = 0$ $\mathbf { A } \mathbf { G } = 1$ $\mathrm { G G } = 2$ ；显性编码： $\mathrm { \ A A } = 0$ $\mathbf { A G / G G } = 1$ ；隐性编码： $\mathbf { A A } / \mathbf { A G } = 0$ $\mathbf { G } \mathbf { G } = 1$ 。$\cdot \vert \cdot < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ 。
+
+# 3.4敏感性分析：内部验证、 $\mathbf { k }$ fold交叉验证和元分析
+
+为了验证研究结果的可靠性，本研究进行了一系列分析。首先，本研究将被试随机分成两个子样本，子样本1（ $\cdot N { = } 5 1 0$ ）和子样本2（ $\cdot N { = } 5 7 2$ ）在所有研究变量上均不存在显著差异（性别： $\chi ^ { 2 } \left( 1 \right) = 0 . 0 1 , p = 0 . 9 4$ ；基因型： $\chi ^ { 2 } \left( 2 \right) = 0 . 6 8 , p = 0 . 7 1$ ；积极教养： $t = 0 . 1 7 , p =$ 0.86;T1亲社会： $t = - 1 . 6 2 , p = 0 . 1 1$ ；T2亲社会： $t = - 0 . 8 3$ $p = 0 . 4 1$ ；认知共情： $t = - 0 . 0 5$ $p =$ 0.96；情绪共情： $t = 0 . 6 4 , p = 0 . 5 5$ SES: $t = 0 . 6 2 , p = 0 . 5 4 \rangle$ 。在两个子样本中分别进行有调节的中介效应检验（见表4)。在子样本1中，AA与AG基因型间的中介效应差异边缘显著，在 AA 基因型和GG 基因型中中介效应均成立。母亲积极教养（ $\langle b = 0 . 1 3 , t = 2 . 1 4 , p = 0 . 0 3 \rangle$ ）、积极教养 $\mathrm { \times A G / A A }$ 交互项 $\mathit { \Omega } : b = - 0 . 1 8 , t = - 1 . 9 8 , p = 0 . 0 4 8$ ）能够显著预测认知共情，认知共情能够显著正向预测亲社会行为（ $\cdot b = 0 . 0 5 , t = 2 . 4 5 , p = 0 . 0 1 )$ 。在子样本2中，AA与AG基因型间的中介效应差异显著，仅在AA基因型中中介效应成立，但GG 基因型与AA基因型间的中介效应无显著差异，母亲积极教养（ $\langle b = 0 . 2 3 , t = 3 . 5 1 , p < 0 . 0 0 1 \rangle$ 、积极教养 $\times$ AG/AA交互项（ $\cdot b = - 0 . 1 8 , t = - 1 . 9 1 , p = 0 . 0 5 7 7$ ）能够显著预测认知共情，认知共情能够显著正向预测亲社会行为 $\langle b = 0 . 0 6 , t = 3 . 4 4 , p < 0 . 0 0 1 \rangle$ 。虚拟编码的基因和环境交互作用图见图 3b 和 3c，其作用模式与总体样本基本一致。
+
+其次，为验证OXTR 基因与环境交互作用的可靠性，参照已有研究（Cao etal.,2019）对各个基因型中积极教养影响认知共情的综合效应量进行元分析，结果显示在 AA 基因型中，积极教养对认知共情的效应量 $r = 0 . 1 7 \left( p < 0 . 0 0 1 , 9 5 \% \mathrm { C I } \left[ 0 . 0 9 , 0 . 2 6 \right] \right)$ ，在 AG基因型中的效应量 $r = 0 . 0 1 \left( p = 0 . 8 9 , 9 5 \% \mathrm { C I } [ - 0 . 0 9 , 0 . 1 0 ] \right)$ ，在GG基因型中的效应量 $r = 0 . 2 5 \ ( p = 0 . 0 1$ $9 5 \%$ CI[0.05,0.43])；三个基因型间的差异显著（ $\cdot Q _ { \mathrm { c o n t r a s t } } = 7 . 1 5 , p = 0 . 0 3 )$ ，且AA 和AG基因型差异显著（ $\cdot Q _ { \mathrm { c o n t r a s t } } = 5 . 8 7 , p = 0 . 0 2 )$ ，AA 和GG基因型间的差异不显著（ $Q _ { \mathrm { c o n t r a s t } } = 0 . 3 6 .$ （号$p = 0 . 5 5 )$ ，GG 和AG基因型间的差异边缘显著（ $\cdot Q _ { \mathrm { c o n t r a s t } } = 3 . 1 6 , p = 0 . 0 8 )$ 。综上，本研究的主要研究结果基本获得了内部验证。
+
+第三，虽然本研究基因型分布频次与 NCBI基因信息库中东亚样本基因型频次及其他中国样本中的基因分布频次相类似（e.g.,Luo etal.,2015)，但是仍不能排除本研究结果是基因型分布差异导致的假阳性，因此本研究基于携带GG基因型（分布最少的基因型）人数（ $. N$ $= 1 0 3 \dot { }$ )，随机选取等数量的AG和AA基因型携带者，再次进行统计分析。结果显示，与总体样本结果基本一致，中介效应检验结果表明，控制性别和 SES 后，认知共情（ $a b = 0 . 0 0 6$ Boot $S E = 0 . 0 0 5$ $9 5 \%$ CI[0.0003,0.0198]）而非情绪共情（ $a b = 0 . 0 0 4$ ,Boot $S E { = } 0 . 0 0 4$ ， $9 5 \%$ CI[-0.0006,0.0152]）在母亲积极教养与青少年亲社会行为间的中介效应显著。进一步采用虚拟编码、加性编码、显性编码和隐性编码的方式检验有调节的中介模型。当采用虚拟编码模型时，AA 基因型与AG 基因型间的中介效应差异边缘显著（ $9 5 \%$ CI [-0.015,0.000])。在 AA和 GG 基因型携带者中，认知共情的中介效应显著（AA: $9 5 \%$ CI [0.0004, 0.05]; GG: $9 5 \%$ CI[0.003,0.02])，而在AG基因型携带者中，中介效应不显著（AG $: 9 5 \% \mathrm { C I } \left[ - 0 . 0 2 , 0 . 0 1 \right] )$ 。母亲积极教养（ $b = 0 . 1 4$ $t = 2 . 4 2$ $p = 0 . 0 2 \cdot$ ）、积极教养 $\mathrm { \times A G / A A }$ 交互项（ $\cdot b = - 0 . 1 7 , t = - 2 . 0 2 , p$ $= 0 . 0 4 \dot { }$ ）能够显著预测认知共情，认知共情对亲社会行为的预测作用边缘显著（ $b = 0 . 0 4$ ， $t =$ 1.84 $, p = 0 . 0 6 )$ 。当采用加性编码模型、显性编码模型以及隐性编码模型时，有调节的中介模型均不成立（加性模型： $9 5 \% \mathrm { C I } \left[ - 0 . 0 0 8 , 0 . 0 0 6 \right]$ ；显性编码模型： $9 5 \% \mathrm { C I } \left[ - 0 . 0 2 5 , 0 . 0 0 3 \right]$ ；隐性模型: $9 5 \% \mathrm { C I } \left[ - 0 . 0 0 4 , 0 . 0 1 9 \right] )$ 。这一结果与总体研究发现相一致。
+
+第四，为了进一步验证OXTR 基因调节模型的延展性和预测性，我们采用MATLABR2013b的regress和crossvalind函数，进行kfold交叉验证 $k = 1 0 \mathrm { \ : }$ )，其中9组作为训练集，1 组作为测试集，回归模型为 $\mathrm {  ~ y ~ } = \mathrm {  ~ c ~ } + \mathrm {  ~ \beta ~ } _ { 1 } { } ^ { * } \mathrm { p a r e n t i n g ~ } + \mathrm {  ~ \beta ~ } _ { 2 } { } ^ { * } \mathrm { A A } / \mathrm { A G } + \mathrm {  ~ \beta ~ } _ { 3 } { } ^ { * } \mathrm { G G } / \mathrm { A G } +$ （204号β4\*AA/AG\*parenting $+ \beta _ { 5 } { \ast } _ { \mathrm { G G / A G ^ { \ast } } }$ parenting $+ \epsilon$ 。结果显示，模型预测的认知共情分数与真实的共情分数相关显著（ $\mathit { \check { \Delta } } _ { r } = 0 . 1 2 , p = 1 0 ^ { - 5 } \sim 1 0 ^ { - 4 } )$ ，为了测试结果的稳定性，对这一过程重复进行10次， $\boldsymbol { r }$ 值和 $p$ 值仍然稳定显著 $( r = 0 . 1 1 \sim 0 . 1 2 , p = 7 . 3 7 { \times } 1 0 ^ { - 5 } \sim 9 . 1 8 { \times } 1 0 ^ { - 4 } )$ 。为检验上述相关是否显著，采用置换检验，置换次数为10000次，结果显示 $p { = } 3 . 0 0 { \times } 1 0 ^ { - 4 }$ ，表明该调节模型拟合程度较好，结果具有较好的稳定性。
+
+最后，对已有OXTR 基因一环境交互作用研究效果量的元分析结果显示，在AA基因型中环境对结果变量的效应量 ${ r } = - 0 . 1 7$ $. 0 . 1 7 \ ( p < 0 . 0 0 1 , 9 5 \% ) \subset \mathrm { I } [ - 0 . 2 4 , - 0 . 1 0 ] )$ ，研究之间不同质（ $\varrho$ $= 2 1 . 3 3 , p < 0 . 0 0 1 , P ^ { 2 } = 8 5 . 9 4 )$ ；在 AG 基因型中，环境对行为结果的效应量 $r ^ { = } - 0 . 0 8 \ ( p = 0 . 0 1$ $9 5 \% \mathrm { C I } \left[ - 0 . 1 5 , - 0 . 0 2 \right] )$ ，研究之间不同质（ $Q = 1 2 . 7 8 , p = 0 . 0 1 , I ^ { 2 } = 7 6 . 5 2 )$ ；在GG基因型中的效应量 $r = - 0 . 1 1 ~ ( p = 0 . 0 5 , 9 5 \% ~ \mathrm { C I } ~ [ - 0 . 2 1 0 , - 0 . 0 0 2 ] )$ ，研究之间同质（ $Q = 6 . 6 7 , p = 0 . 0 8$ ， $\begin{array} { r } { { \cal I } ^ { 2 } = } \end{array}$ 55.00)。三个基因型间的差异不显著‘ $\mathcal { C } _ { \mathrm { c o n t r a s t } } = 1 . 6 9 , p = 0 . 4 3 )$ ，各基因型两两之间的差异均不显著（AA vS. AG: $Q _ { \mathrm { c o n t r a s t } } = 1 . 5 5$ $p = 0 . 2 1$ ; AA vs. GG: $Q _ { \mathrm { c o n t r a s t } } = 1 . 2 7$ $p = 0 . 2 6$ ; AG vs. GG:$\mathcal { Q } _ { \mathrm { c o n t r a s t } } = 0 . 0 1 , p = 0 . 9 2 )$ 。该元分析结果表明，OXTR 基因与环境的交互作用不显著。
+
+表4有调节的中介效应的Bootstrap分析  
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="3">子样本1</td><td colspan="3">子样本2</td></tr><tr><td>Effect</td><td>BootSE</td><td>95% CI</td><td>Effect</td><td>BootSE</td><td>95% CI</td></tr><tr><td>中介效应</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AA</td><td>0.01</td><td>0.004</td><td>[0.002, 0.02]</td><td>0.01</td><td>0.01</td><td>[0.004, 0.03]</td></tr><tr><td>AG</td><td>-0.003</td><td>0.004</td><td>[-0.01,0.01]</td><td>0.003</td><td>0.004</td><td>[-0.01, 0.01]</td></tr><tr><td>GG</td><td>0.02</td><td>0.01</td><td>[0.002, 0.04]</td><td>0.01</td><td>0.01</td><td>[-0.002,0.03]</td></tr><tr><td>有调节的中介效应</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AG vs. AA</td><td>-0.01</td><td>0.01</td><td>[-0.02, 0.000]</td><td>-0.01</td><td>0.01</td><td>[-0.03,-0.0001]</td></tr><tr><td>GG vs. AA</td><td>0.01</td><td>0.01</td><td>[-0.002,0.03]</td><td>-0.003</td><td>0.01</td><td>[-0.02, 0.01]</td></tr></table></body></html>
+
+![](images/aa93b422d19d0bc5e7d55f20aa83437918d790f39dc02626ee20ded01c3e1692.jpg)  
+图3OXTR基因rs53576多态性与积极教养对青少年认知共情的影响
+
+# 4讨论
+
+亲社会行为的发生发展受到生物、认知、情绪和环境等多水平因素的共同影响。本研究首次基于“基因一环境一内表型一行为”模型，考察了认知共情（观点采择）和情绪共情（移情关心）在母亲积极教养与青少年亲社会行为间的中介作用，以及OXTR 基因对该中介作用的调节机制。研究发现母亲积极教养通过认知共情间接影响个体的亲社会行为，OXTR 基因对“母亲积极教养—认知共情—亲社会行为”这一中介过程具有调节作用，具体表现为中介路径的前半段受到OXTR 基因的调节。对于携带GG 和AA基因型的青少年，母亲积极教养显著正向预测认知共情，并进一步正向预测其亲社会行为；而对于携带 AG 基因型的青少年，这一中介效应则不显著。本研究为理解教养环境、亲社会候选基因以及个体共情特征影响人类亲社会行为的发生机制和个体差异提供了证据。
+
+中介效应分析显示，母亲积极教养与亲社会行为间存在显著的正向关联，这与以往研究结果相一致（e.g.,Hastings et al.,2015; Padilla-Walker et al.,2016)，说明母亲积极教养是促进亲社会行为发展的重要环境因素。在此需要指出的是，鉴于母亲积极教养和亲社会行为间可能存在双向关系（Newtonet al.,2014)，为更加准确地揭示亲社会行为的发生机制，本研究补充分析了控制早期亲社会行为之后的结果。由于亲社会行为发展的高度稳定性，这在一定程度上削弱积极教养的效应量及其显著性水平，使其对亲社会行为的直接效应不显著。
+
+与预期不一致的是，本研究仅发现母亲积极教养能够通过认知共情间接影响青少年的亲社会行为，但未发现情绪共情在母亲积极教养与亲社会行为间的中介作用。根据共情的双过程模型（黄蒿青，苏彦捷,2012)，这可能与青少年期情绪共情能力的降低有关。如前所述，青少年的认知共情能力处于发展的峰值而情绪共情则处于较低水平，从而导致认知共情与亲社会行为间更强的关联，而情绪共情对亲社会行为的预测力则减弱。从神经生理机制的角度来看，积极教养（如对儿童消极情绪的支持性反应）不仅能够调节与认知共情相关的内侧前额叶皮层功能（Kopala-Sibley etal.,2018)，也会影响情绪共情相关脑区（如，杏仁核）的激活水平（Chen etal.,2020)。但是，fMRI研究却显示，只有内侧前额叶皮层的激活水平与亲社会行为的表达相关，而与情绪共情相关的杏仁核激活程度与亲社会行为表达无关（Mastenet al.,2011)。由此，可推知在青少年期，认知共情在教养与亲社会行为表现间的作用更强。需要指出的是，本研究的逐步回归分析显示积极教养能够显著预测情绪共情，情绪共情也能显著正向预测亲社会行为，虽然此结果提示情绪共情在积极教养和亲社会行为间起到中介作用，但是 Bootstrap 检验和潜变量结构方程模型检验均呈现不显著或边缘显著的效应，综合考虑结果的稳定性，本研究选择报告情绪共情的中介效应不显著，但是这并不意味着情绪共情在青少年亲社会行为发展中不重要，而是提示认知共情和情绪共情在家庭环境影响青少年亲社会行为的产生和发展过程中发挥不同的作用，由此区分共情的不同成分对于揭示亲社会行为的发生与发展机制具有重要意义。但是，由于不同年龄阶段的认知共情和情绪共情的发展模式存在差异，本研究结果尚不能推广到其他发展阶段，未来研究可以考虑采用更大跨度的追踪设计，考察随着年龄增长，共情的不同成分在亲社会行为发生发展过程中的动态作用机制。
+
+更重要的是，本研究发现OXTR基因rs53576多态性能够调节母亲积极教养经青少年认知共情影响亲社会行为的中介路径。具体而言，对于携带GG 和AA 基因型的青少年，母亲积极教养能够显著正向预测认知共情，并进一步正向预测其亲社会行为，而对于携带 AG 基因型的青少年，这一中介路径不显著。本研究结果与多数OXTR基因与环境交互研究相一致（Hostinar et al.,2014; Luo et al.,2019; McQuaid et al.,2013)，均发现 GG 基因型具有更高的环境敏感性。与社会显著性理论相一致，GG基因型携带者对环境线索的高敏感性使其更容易受到环境的影响而表现出更高或更低的共情能力和亲社会行为。由于OXTR 基因rs53576多态性位于内含子区（非编码区)，目前尚未明确rs53576多态性各基因型的生理机能，但是来自遗传影像学的研究显示，与A等位基因携带者相比，GG 基因型携带者在加工情绪性面孔时表现出更高的杏仁核激活水平和更低的杏仁核—下丘脑耦合程度（Tost etal.,2010)。这一特殊的神经生理结构使得GG 基因型携带者具有较高的奖赏依赖水平，提高了个体对社会认可的依赖性并增强了对人际关系的敏感性（Tost et al.,2010)。由此，GG 基因型携带者更容易注意社会环境线索，表现出对母亲教养行为等社会环境因素更高的敏感性。
+
+然而，本研究发现AA基因型携带者同样具有环境敏感性，尽管其敏感性稍低于GG 基因型携带者。与此结果相一致，Luo 等人（2019）关于共情的神经机制的研究也显示，GG等位基因携带者对环境线索的敏感性更高，容易接收较为隐秘或模糊的社会线索，而携带AA 基因型的个体则在社会线索接收方面缺乏灵活性，但是当环境线索较为清晰明确时其也能表现出环境敏感性。这一结果也提示，A等位基因并非缺乏环境敏感性，而是在特殊的环境下才显现出环境敏感性。可能本研究所考察的母亲积极教养是一种较为清晰明确的社会环境线索，因而使得AA 基因型携带者也能表现出相应的环境敏感性。据我们所知，部分研究采用消极环境考察OXTR 基因—环境交互作用时发现，A等位基因比G 等位基因更容易受到消极环境的影响（Poulin et al.,2012;van Roekel et al.,2013)。这可能是由于G 等位基因具有较高的奖赏依赖性（Tost etal.,2010)，使其在应对压力时更可能从社会支持中获益（Chenet al.,2011)，而且更可能寻求积极的社会支持（Kim etal.,2010)，缓冲了消极环境的影响（Bradley etal.,2013)。换言之，G等位基因对积极环境的高敏感性可能在一定程度上抵消了不利环境的消极影响，由此可能使得A等位基因表现出对消极环境的敏感性更强。
+
+特别需要注意的是，本研究结果呈现出了一种独特的基因 $\times$ 环境交互模式——超显性效应（Aliev etal.,2014)，即杂合子优势效应（heterosis)。正如本研究结果所示，AG杂合子携带者相比纯合子携带者（AA和GG基因型）的适应性更强，不易受到外界环境影响而发生变化，始终保持较高的认知共情水平。已有关于OXTR基因与同伴关系直接关联的研究发现了杂合子优势效应，研究结果表明，相比AA 和GG基因型携带者，AG基因型携带者表现出更高的同伴接纳程度（He etal.,2018)。与本研究结果相类似，Fang 等（2020）的研究显示，相比OXTRrs53576纯合子（AA和GG基因型）携带者，杂合子（AG基因型）携带者在经历工作压力后表现出最高的信任水平，体现了一种保护性效应。Zheng等（2020）的研究也发现，在经历童年期虐待后，AA基因型携带者比AG 基因型携带者具有更低的信任水平，而 AA 和GG 基因型间的信任程度无差异。对于该杂合子优势现象的一种可能的解释是，催产素与心理适应或脑功能呈现出“倒U型”的剂量一反应关系（inverted-U shaped doseresponse function)，譬如过高或过低的催产素功能均会降低信任程度（Rilling etal.,2014）或左腹侧尾状核的反应性（Feng etal.,2015）。相关研究亦显示，与OXTRA等位基因相比，G等位基因的催产素效能更高（Moons etal.,2014)，由此GG 和AA 基因型可能分别与较高和较低的催产素效能有关，相较之下AG基因型则表现出一种中等程度的催产素功能从而达到最优的心理适应状态。此外，杂合子优势的另一种可能解释是，两种等位基因分别具有独特的神经生理功能，使得携带杂合子的基因产物表达的范围更大，因此更具发展优势（Comings&MacMurray,2000)。已有研究提示，OXTRG等位基因与A等位基因分别与前扣带回/辅助运动区、伏隔核功能密切相关（Luo etal.,2015)，AG 基因型可能兼具两者的功能，从而表现出更高的适应性。值得指出是，由于缺乏对位于内含子区（非编码区）的rs53576多态性生理机制的研究，且多数研究忽视了对杂合子（AG 基因型）功能的探索，上述假设均需要未来研究的验证。此外，该研究结果也提示：仅仅根据各基因型的分布人数任意组合基因型（如将GG基因型和AG基因型合并）是存在问题的，不一致的编码方式使得当前OXTR 基因研究结论存在较大的分歧，甚至可能混淆各基因型的真实效应（Reiner etal.,2016)。
+
+与研究预期不一致的是，本研究未能发现OXTR 基因对母亲积极教养与亲社会行为间直接路径的调节作用。这可能是由于基因及其与环境的交互通常不直接编码行为表型，而是通过影响神经生理功能、内分泌或认知成分等内表型间接影响行为表型（Caspi& Moffitt,2006;Meyer-Lindenberg＆Weinberger,2006)。即遗传基因及其与环境交互作用对行为表型（如亲社会行为）的效应可能小于其对认知因素（如认知共情）等内表型的效应。此外，本研究的结果提示认知共情特质是一种更接近神经生理机制或者遗传素质的潜在内表型，选择越接近遗传结构的神经生理特质，不仅能够增强基因效应的外显率，而且有助于未来研究逆向探索其候选遗传基因（Meyer-Lindenberg&Weinberger,2006)。由此，越来越多的研究者开始探索隐藏在基因与行为表型间的内表型机制，以期还原基因及其与环境交互作用对行为表型的影响过程。本研究结果在一定程度上也为构建这一“基因 $\times$ 环境一内表型一行为表型"路径提供了启示。然而，由于有关OXTR基因rs53576多态性功能及其与共情、亲社会行为神经生理机制关联的研究相对较少，本研究结果尚需要未来研究的直接验证，这也提示未来研究亟需在“基因一内表型一行为”框架下，采用影像遗传学设计揭示OXTR 基因功能与亲社会行为相关的神经生理机制，为丰富既有理论提供新的证据。
+
+需要注意的是，本研究存在以下几点局限。首先，虽然本研究采用纵向设计考察有调节的中介模型，但是由于该大型追踪项目仅在T2时间点进行了共情变量的数据收集，本研究采用同一时间点的中介变量和结果变量进行分析，无法推论变量间的因果关系。第二，亲社会行为具有多维结构性，不同类型的亲社会行为可能具有不同的遗传机制。例如，Knafo 等（2011）的研究显示，服从性亲社会行为主要由加性遗传效应解释，而自发性亲社会行为则受到基因一环境交互效应的影响。本研究未对不同类型的亲社会行为进行详细区分，研究结果可能难以推广到所有类型的亲社会行为。第三，本研究采用的单基因研究设计存在着明显的局限性。以单个 SNP 为基础的候选基因研究通常效应量极小、可重复性较低，可能会造成研究结果的假阳性（Dick et al.,2015;Duncan et al.,2014)。尤其是对亲社会行为这种复杂的心理行为表型而言，单基因设计还可能过分简化遗传基因对亲社会行为的作用过程。虽然单基因研究受到了越来越多的质疑，但该研究范式也为研究者揭示遗传一环境的交互作用提供了初步的证据，且其较低的效应量和低可重复性也催生了多基因研究范式和“基因一内表型一行为”研究取向（Caspi& Moffitt,2006;Duncan et al.,2014)。不仅如此，迄今单基因研究仍然具有一定的价值：首先，单基因研究通常是依据心理与行为发展的神经生理功能选择的功能性多态性位点，相比全基因组关联研究（genome-wide association studies,GWAS）范式发现的未知临床意义（unknown clinical significance）的基因变体，存在明显的解释优势（interpretive advantage），这为开展候选基因一多基因研究提供了依据，能够避免GWAS研究所面临的数据驱动和遗传指标滥用的风险（Vrshek-Schallhorn et al.,2015)。其次，单基因研究对心理病理问题的干预治疗具有一定的价值。很多心理病理问题确定候选基因是基于以神经递质系统为靶点的药物研究，由于心理病理问题的发生发展机制与治疗机制可能不同，这导致GWAS 研究无法重复验证这些候选基因（Duncan et al.,2014)，但是却为单基因×干预研究提供了启示,这些基因可能是调节干预(如药物治疗)与疾病疗效间关联的重要因素。第四，本研究仅测查了母亲教养行为，未对父亲、祖父母等其他家庭成员的教养行为进行测量。但是，已有研究显示，父亲教养行为和祖父母教养行为（如情感参与）等亦能够有效促进儿童青少年亲社会行为的发展（Padilla-Walker et al.,2012; Yorgason& Gustafson,2014)，且可能发挥与母亲教养行为不同的作用（Hastings et al.,2007; Padilla-Walker et al.,2012）。由此，未来研究应该注重对家庭系统中其他家庭成员教养行为或家庭关系的测量，以更全面地揭示家庭社会化对儿童青少年亲社会行为的作用及其独特的影响机制。最后，本研究采用内部验证、k fold检验和元分析等多种方法检验结果的可靠性。虽然内部验证和kfold检验为本研究结果提供了支持，但是元分析却未发现显著的基因一环境交互作用。该元分析因为研究者回复率极低，仅基于4项研究进行统计分析，其结果可能存在较大的偏差，未来研究仍需采用更丰富的数据资料开展元分析，以验证OXTR 基因与环境交互作用及该杂合子优势效应。同时，该元分析结果也提示当前研究所发现的基因一环境交互作用无法排除假阳性的可能，需要慎重看待本研究结果。此外，由于缺乏测量工具、样本特征与本研究相匹配的外部样本，本研究无法进行外部验证，该研究结果尚需在其他样本中进行重复验证。
+
+# 5结论
+
+综上所述，本研究发现：（1）青少年认知共情（观点采择）而非情绪共情（移情关心)在母亲积极教养和亲社会行为之间起中介作用；（2）OXTR基因rs53576多态性对母亲积极教养与亲社会行为间直接路径的调节作用不显著；（3)OXTR 基因 rs53576 多态性调节了“母亲积极教养—认知共情一亲社会行为"的中介效应的前半路径。具体而言，在携带GG 和 AA基因型的青少年中，母亲积极教养显著正向预测认知共情，进而增加了其亲社会行为，而在携带 AG 杂合子基因型的青少年中，这一中介效应则不显著，显现出一种超显性的基因效应。
+
+# 参考文献
+
+Aliev,F.,Latendresse,S.J.,Bacanu,S.A.,Neale,M.C.,& Dick,D.M.(2014).Testing for measured geneenvironment interaction: Problems with the use of cross-product terms and a regresion model reparameterization solution.Behavior Genetics,44(2),165-181.   
+Augustine,M.E.,& Stifter, C.A. (2015).Temperament, parenting,and moral development: Specificity of behavior and context. Social Development, 24(2),285-303.   
+Bakermans-Kranenburg, M.J.,& van Ijzendoorn,M. H. (2014).A sociability gene? Meta-analysis of oxytocin receptor genotype effects in humans.Psychiatric Genetics,24(2),45-51.   
+Bartz,J.A.,Zaki,J.Bolger,N.,&Ochsner,K.N. (20l1).Social effects ofoxytocininhumans: Contextand person matter. Trends in Cognitive Sciences,15(7),301-309.   
+Batson,C.D.,Eklund,J.H.,Chermok,V.L.,Hoyt,J.L,&Ortiz,B.G.(20).Anaditionalantecedentofempathic concern: Valuing the welfare of the person in need.Journal of Personality and Social Psychology,93(1),65- 74.   
+Bradley,B.,Davis,T.A., Wingo,A.P.,Mercer, K.B.,&Resser,K.J. (2013).Family environment and adult resilience: Contributions of positive parenting and the oxytocin receptor gene. European Journal of Psychotraumatology, 4(1),21659.   
+Cao,C.，Cao,L.，& Chen，J.(2019).Diferences in sensitivity to environment depending on Catechol-OMethyltransferase (COMT) Gene? A meta-analysis of child and adolescent gene-by-environment studies. Journal of Youth and Adolescence,48(4),655-667.   
+Cao, C.,Rijlaarsdam,J.,van derVoort,A.,Ji,L., Zhang, W.,&Bakermans-Kranenburg,M.J. (2018).Asociations between dopamine D2 receptor (DRD2） gene,maternal positive parenting and trajectories of depressive symptoms from early to mid-adolescence.Journal of Abnormal Child Psychology, 46(2),365-379.   
+Carlo,G., White,R.M.B.,Streit, C.,Knight, G.P.,& Zeiders,K.H. (2O17).Longitudinalrelations among parenting styles,prosocial behaviors,and academic outcomes in U.S.Mexican adolescents. Child Development, 89(2), 577-592.   
+Caspi,A.,& Moffit,T.E.(20o6). Gene-environment interactions in psychiatry: Joining forces with neuroscience. Nature Reviews Neuroscience,7(7),583-590.   
+Chen,B., Zhu,Z.,Wang,Y.,Ding,X.,Guo,X.,He,M.,..&Huang,A. (2o18). Nature vs.nurture in humansociality: Multi-level genomic analyses of social conformity. Journal of Human Genetics,63(5), 605-619.   
+Chen,F.S.,Kumsta,R., Von Dawans,B.,Monakhov,M.,Ebstein,R.P.,& Heinrichs,M. (2011).Common oxytocin receptor gene (OXTR) polymorphism and social support interact to reduce stressin humans. Proceedings of the National Academy of Sciences,108(50),19937-19942.   
+Chen,L.,Zhang, W.X.,Ji,L.Q.,& Deater-Deckard,K. (2019).Developmentaltrajectories ofChinese adolescents relational aggression: Associations with changes in social-psychological adjustment. Child Development,90(6), 2153-2170.   
+Chen, X., Bian,Y.,Xin,T., Wang,L,& Silbereisen,R.K. (201o).Perceived social change and childrearing atitudes in China. European Psychologist, 15(4),260-270.   
+Chen,X.，McCormick,E.M.,Ravindran,N.，McElwain,N.L.,& Telzer,E.H.(2020). Matermal emotion socialization in early childhood predicts adolescents’amygdala-vmPFC functional connectivity to emotion faces.Developmental Psychology,56(3), 503-515.   
+Comings, D.E., & MacMurray, J. P. (20oo). Molecular heterosis: Areview. Molecular Genetics and Metabolism, 71(1-2), 19-31.   
+Costa,B.,Pini,S.，Gabelloni,P.,Abell,M.,Lari,L.,，Cardini,A.,.& Martini,C.(209). Oxytocinreceptor polymorphisms and adult attachment style in patients with depression. Psychoneuroendocrinology， 34(10), 1506-1514.   
+Davis,A.N.,& Carlo,G.(2018).The roles of parenting practices,sociocognitive/emotive traits,and prosocial behaviors in low-income adolescents.Journal of Adolescence,62,140-150.   
+Davis,M.H. (1980). Amultidimensionalapproach to individual diferences in empathy. Journal ofPersonality and Social Psychology, 10(85).   
+Decety, J.,Bartal,I. B-A., Uzefovsky,F,& Knafo-Noam,A.(2O15).Empathyasadriverof prosocial behaviour: Highly conserved neurobehavioural mechanisms across species. Philosophical Transactions of the Royal Society B: Biological Sciences,371(1686),20150077.   
+de Waal,F.B.,& Preston, S.D. (20l7). Mammalian empathy: Behavioural manifestations and neural basis. Nature Reviews Neuroscience,18(8), 498-509.   
+Dick,D. M.,Agrawal,A.,Keller,M.C.,Adkins,A.,Aliev,F.,Monroe,S.,..& Sher, K. J. (2015). Candidate geneenvironment interaction research: Reflections and recommendations. Perspectives on Psychological Science, 10,37-59.   
+Duncan, L.E., Polastri, A. R.,& Smoler,J. W. (2014). Mind the gap: Why many geneticists and psychological scientists have discrepant views about gene-environment interaction $\mathrm { G } { \times } \mathrm { E }$ research. American Psychologist, 69(3),249-268.   
+Eisenberg,N.,Spinrad,T.L,& Knafo-Noam,A.(2015).Prosocial development.InM.E.Lamb,& C.Garcia Coll (Vol.Eds.)..rer(eriesEd.),Handbookofildychology,Vol.3,ocial,emotional,ndpeolity development (7th edn, pp.610-656). New York: Wiley.   
+Fan, X.H.,Fang,X.Y.,Liu,Y.,Lin, X.Y.,& Yuan, X.J. (2012).The effectof social supportand social identityon the relationship between perceived discrimination and socio-cultural adjustment among Chinese migrant children. Acta Psychologica Sinica, 44(5),647-663.   
+[范兴华，方晓义，刘杨，葡秀云，袁晓娇.(2012).流动儿童歧视知觉与社会文化适应：社会支持和社会认同 的作用．心理学报,44(5),647-663.]   
+Fang, Y.,Li, Z., Wu, S., Wang, C.,Dong,Y., & He,S. (2020). Oxytocin receptor gene polymorphisms moderate the relationship between job stress and general trust in Chinese Han university teachers.Journal of Affective Disorders,260,18-23.   
+Feng,C.,Lori,A. Waldman,I.D.,Binder,E.B.,Haroon,E.,&Rilling,J.K. (2015).Acommonoxytocinreceptor gene (OXTR) polymorphism modulates intranasal oxytocin effects on the neuralresponse to social cooperation in humans. Genes, Brain and Behavior,14(7),516-525.   
+Field,A.P. (25). Intraclass corrlation.InB.S.Everit &D. C.Howell(Eds.),Encyclopedia of statistics inthe behavioral sciences (pp.1296-1305). Chichester, England: Wiley.   
+\*Flasbeck, V., Moser,D., Kumsta,R.,& Brine,M. (2018). TheOXTR single-nucleotide polymorphism rs53576 moderates the impact of childhood maltreatment on empathy for social pain in female participants: Evidence for differential susceptibility. Frontiers in Psychiatry, 9,359.   
+Fortuna, K.,& Knafo,A.(2014). Parental and genetic contributions to prosocial behavior during childhood In L.M. Padilla Walker & G. Carlo (Eds.), Prosocial development: A multidimensional approach (pp.70-89). Oxford: Oxford University Press.   
+Gong,P.,Fan,H.,Liu,J., Yang,X., Zhang, K.,& Zhou, X. (2017).Revisiting the impact of OXTR rs53576 on empathy: A population-based study and a meta-analysis.Psychoneuroendocrinology,80,131-136.   
+Grusec, J.E.,& Goodnow,J.J.(1994).Impactofparental discipline methods onthechild's internalizationofvalues: A reconceptualization of current points of view. Developmental Psychology,30(1), 4-19.   
+Hackel,L.M.,Zaki,J.,& Van Bavel,J.J. (2o17).Social identity shapes social valuation: Evidence from prosocial behavior and vicarious reward. Social Cognitive and Affective Neuroscience,12(8),1219-1228.   
+Hastings,P.D.,McShane,K.E.,Parker,R,&Ladha,F.(2oo7). Ready to make nice: Parental socializationofyoung sons'and daughters' prosocial behaviors with peers.The Journal of Genetic Psychology,168(2),177-200.   
+Hastings,P,Millr,J.,& Troxel,N.R.(o15).Making good: The socialization ofchildren's prosocial development. In J. Grusec & P.D. Hastings (Eds.), Handbook of Socialization: Theory and Research (pp. 637-66). New York, NY: Guilford Press.   
+Hayes,A.F.(2O13).Anintroduction tomediation,moderation,andconditionalprocessanalysis:Aregressionbased approach. New York: Guilford Press.   
+He, J., Buil,J.M,Koot, H.M.,&vanLier,P.A. (2018).Asociations between oxytocinreceptor(OXTR)genotpe and elementary school children's likability,dis-likabilityand friendship among clasroom peers: A longitudinal study. Journal of Youth and Adolescence, 47(9),1799-1812.   
+Hofman,M.L.(197).Moral development.InP.H.Mussen (Ed.), Carmichael’s manual ofchilddevelopment (Vol. 2, pp. 261-359). New York: Wiley.   
+Hoffman, M.L. (1983). Aective and cognitive processs in moral internalization. InE.T. Higgins, D.N. Ruble, and W. W. Hartup (Eds.)， Social cognition and social development (pp. 236-274). Cambridge, England: Cambridge University Press.   
+Hoffman, M.L. (20o1).Empathy and moral development: Implications for caring and justice.Cambridge University Press.   
+Hostinar, C.E., Ciccheti,D.,& Rogosch,F.A. (2014). Oxytocin receptor gene (OXTR) polymorphism, perceived social support, and psychological symptoms in maltreated adolescents. Development and Psychopathology, 26(2), 465-477.   
+Huang,Y.Q.,& Su, Y.J. (2012).The development ofempathy across the lifespan: Aperspectiveof double processes. Psychological Development and Education, 28(4),434-441.   
+[黄鬻青，苏彦捷.(2012).共情的毕生发展：一个双过程的视角．心理发展与教育,28(4),434–441.]   
+Kennedy, D.,& Norman, C. (2005). What don't we know? Science,309(5731), 75.   
+Kiang,L.， Moreno,A.J.，& Robinson, J.L. (2004). Maternal preconceptions about parenting predict child temperament, maternal sensitivity,and children's empathy. Developmental Psychology, 40(6),1081-1092.   
+Kim,E. K., You, S.，& Knox,J. (2019). The mediating effct of empathy on the relation between child selfexpressiveness in family and prosocial behaviors.Journal of Child and Family Studies,1-10.   
+Kim,H.S.,Sherman,D.K.,Sasaki,J.Y.,Xu,J.，Chu,T.Q.,Ryu, C,..& Taylor,S.E. (2010). Culture,distress, and oxytocin receptor polymorphism (OXTR) interact to influence emotional support seeking. Proceedings of the National Academy of Sciences,107(36),15717-15721.   
+Knafo,A.,Israel，S.，& Ebstein,R.P.(2011).Heritabilityof children's prosocial behavior and diferential susceptibility to parenting by variation in the dopamine receptor D4 gene. Development and Psychopathology, 23(1),53-67.   
+Knafo-Noam, A. Vertsberger,D.,& Israel, S. (2018). Genetic and environmental contributions to children's prosocial behavior: Brief review and new evidence from a reanalysis of experimental twin data. Current Opinion in Psychology,20,60-65.   
+Kopala-Sibley,D.C., Cyr,M.,Finsaas,M. C.,Orawe,J., Huang,A., Totenham,N.,& Klein,D.N. (2018). Early childhood parenting predicts late childhood brain functional connectivity during emotion perception and eward processing. Child Development, 91(1),110-128.   
+Lim, D.,& DeSteno,D. (2016). Suffering and compassion: The links among adverse life experiences, empathy, compassion,and prosocial behavior. Emotion, 16(2),175-182.   
+Luo,S.,Li,B.,Ma,Y., Zhang,W.,Rao,Y.,& Han,S. (2015). Oxytocin receptor gene and racial ingroup bias in empathy-related brain activity. NeuroImage,110,22-31.   
+Luo,S., Zhang,T.,Li, W., Yu,M., Hein, G.,& Han,S. (2019). Interactions between oxytocin receptor gene and intergroup relationship on empathic neural responses to others’pain. Social Cognitive and Afective Neuroscience,14(5), 505-517.   
+Masten, C.L.,Moreli, S.A.,&Eisenberger,N.I. (2011).An fMRI investigation of empathy for‘social pain’ and subsequent prosocial behavior. Neurolmage,55(1),381-388.   
+Mcdonald,N.M., Baker,J.K.,& Messnger,D.S. (2016). Oxytocin and parent-child interactionin the development of empathy among children at risk for autism. Developmental Psychology, 52(5),735-745.   
+McQuaid,R.J.,McInnis,O.A., Stead,J.D.,Matheson,K.,&Anisman,H. (2013). Aparadoxicalassociationofan oxytocin receptor gene polymorphism: Early-life adversity and vulnerability to depression. Frontiers in Neuroscience,7,128.   
+Meyer-Lindenberg,A.,& Weinberger,D.R.(2006). Intermediate phenotypes and genetic mechanisms of psychiatric disorders. Nature Reviews Neuroscience, 7(10), 818-827.   
+Moons,W. G., Way, B. M., & Taylor, S.E. (2014). Oxytocin and vasopresin receptor polymorphisms interact with circulating neuropeptides to predict human emotional reactions to stress. Emotion,14(3),562-572.   
+Newton,E.K.,Laible,D.,Carlo,G.,Steele,J.S.,&McGinley,M. (2014).Do sensitive parents foster kind children, or vice versa? Bidirectional influences between children's prosocial behavior and parental sensitivity. Developmental Psychology, 50(6),1808-1816.   
+Padila-Walker,L.M.,& Christensen,K.J. (2011).Empathyand self-regulation as mediators between parenting and adolescents' adolescents’ prosocial behavior toward strangers, friends,and family. Journal of Research on Adolescence,21(3), 545-551.   
+Padila-Walker,L.M.,Carlo,G.,，Christensen,K.J.,& Yorgason,J.B.(2012).Bidirectional relations between authoritative parenting and adolescents'prosocial behaviors. Journal of Research on Adolescence, 22(3),400- 408.   
+Padill-Walker,L.M.,Nielson,M.G.,&Day,R.D.(016).The role ofparental warmthand hostility on adolescents' prosocial behavior toward multiple targets.Journal of Family Psychology,30(3),331-340.   
+Poulin,M. J., Holman, E.A.,& Buffone,A. (2012). The neurogenetics of nice: Receptor genes for oxytocin and vasopressin interact with threat to predict prosocial behavior. Psychological Science,23(5), 446-452.   
+Reiner, I.,Frieling,H.,Beutel,M.,& Michal, M.(2016). Gene-environment interaction of the oxytocin receptor gene polymorphism (rs53576) and unresolved attachment status predict depersonalization symptoms: An exploratory study. Psychological Studies, 61(4),295-300.   
+Riling，J. K.,，DeMarco,A. C.，HackettP.D., Chen, X.，Gautam,P.,，Stair,S.，..& Pagnoni, G. (2014). Sex diferences in the neural and behavioral response to intranasal oxytocin and vasopresin during human social interaction. Psychoneuroendocrinology,39,237-248.   
+Singer, T. (20o6). The neuronal basis and ontogeny of empathy and mind reading: Review of literature and implications for future research. Neuroscience & Biobehavioral Reviews,30(6),855-863.   
+Siu,A.M.H.,& Shek,D.T.L.(2Oo5). Validation ofthe interpersonalreactivity index ina Chinesecontext. Research on Social Work Practice,15(2),118-126.   
+Shamay-Tsoory,S. G.,& Abu-Akel,A. (2016).The social salience hypothesis of oxytocin. Biological Psychiatry, 79(3),194-202.   
+Smearman,E.L.,Winiarski, D.A.,Brennan,P.A.,Najman,J.,&Johnson,K.C.(2015).Social stressand the oxytocin receptor gene interact to predict antisocial behavior in an at-risk cohort.Development and Psychopathology,27(1),309-318.   
+Star, L. R.,Hammen,C.,Conway,C.C.,Raposa,E.,&Brennan,P.A. (2o14).Sensitizing eect ofearlyadversity on depressive reactions to later proximal stres: Moderation by polymorphisms in serotonin transporter and corticotropin releasing hormone receptor genes in a 20-year longitudinal study. Development and Psychopathology, 26(4),1241-1254.   
+Steinberg,L.,Lambor,S.D.,Dornbusch, S.M.,& Darling,N. (1992).Impact ofparenting practices on adolescent achievement: Authoritative parenting,school involvement,and encouragement to succeed. Child Development, 63(5),1266-1281.   
+Tost, H.,Kolachana,B.,Hakimi,S.,Lemaitre,H.Verchinski,B.A.,Mattay,V.S.,Weinberger,D.R.,&eyer Lindenberg, A. (2010). A common alele in the oxytocin receptor gene (OXTR) impacts prosocial temperament and human hypothalamic-limbic structure and function. Proceedings of the National Academy of Sciences of the United States ofAmerica,107(31),13936-13941.   
+Uzefovsky,F.,Shalev,I.,Israel,S.,Edelman,S.,Raz,Y.,Mankuta,D.,Knafo-Noam,A.,&Ebstein,R.P.(2015). Oxytocin receptor and vasopressin receptor la genes are respectively associated with emotional and cognitive empathy. Hormones and Behavior, 67, 60-65.   
+van Roekel,E., Verhagen,M.,Scholte,R.H.,Kleinjan,M.,Goossens,L.,&Engels,R.C.(2013).The oxytocin receptor gene (OXTR) in relation to state levels of lonelinessin adolescence: Evidence for micro-level geneenvironment interactions. PLoSONE, 8(11),e77689.   
+Vrshek-Schallhorn,S.,Stroud,C.B.,Mineka,S., Zinbarg,R.E.,Adam,E.K.,Redei,E.E.,..& Craske,M.G. (2015). Additive genetic risk from five serotonin system polymorphisms interacts with interpersonal stress to predict depression. Journal of Abnormal Psychology,124(4), 776-790.   
+Wang, S. Q., Zhang, W. X., Chen,L.,Li,H.L.,Li, C.,& Zhou,L.N. (201). A multitrait-multimethod analysisof aggressive behaviors in middle childhood. Acta Psychologica Sinica, 43(3),294-307.   
+[王姝琼，张文新，陈亮,李海垒，李春，周利娜.(2011).儿童中期攻击行为测评的多质多法分析．心理学报， 43(3),294–307.]   
+Wen, Z.L.,& Ye,B.J. (2014). Diffrent methods for testing moderated mediation models: Competitors or backups? Acta Psychologica Sinica, 46(5),714-726.   
+[温忠麟，叶宝娟.(2014).有调节的中介模型检验方法：竞争还是替补？心理学报,46(5),714-726.]   
+Wu,N.,& Su,Y.(2015). Oxytocin receptor gene relates to theory ofmind and prosocial behavior inchildren.Journal of Cognition and Development,16(2),302-313.   
+Yamasue, H. (2O13). Function and structure in social brain regions can link oxytocin-receptor genes with autistic social behavior. Brain and Development, 35(2),111-118.   
+Yan,Z. Q.,& Su,Y.J.(2O21).Diference between cognitive empathyand affective empathy indevelopment: Metaanalysis preliminary exploration.Psychological Development and Education,37(1),1-9.   
+[颜志强，苏彦捷.(2021).认知共情和情绪共情的发展差异：元分析初探．心理发展与教育,37(1),1-9.]   
+Yorgason, J.B.,& Gustafson, K.B. (2014).Linking grandparent involvement with the development of prosocial behavior in adolescents. Prosocial development: A multidimensional approach,201-217.   
+\*Yu,X.Q.,Dong.Y.,Li,Z.N.,Fang,Y,Wu,S., Wang,C.,& He,S.C. (2020). Work stress and generaltrust: The mediating efect of depression and the moderating effect of the OXTR gene rs53576.Journal of Affective Disorders,272,283-288.   
+Zhang,F.F.,Dong.Y., Wang,K.,Zhan,Z.Y.,& Xie,L.F. (2010).Reliability and validity of the Chinese versionof the Interpersonal Reactivity Index-C. Chinese Journal of Clinical Psychology,18(2),155-157.   
+[张凤凤，董毅，汪凯，詹志禹，谢伦芳.(2010).中文版人际反应指针量表（IRI-C）的信度及效度研究，中国 临床心理学杂志,18(2),155-157.]   
+Zhang,W.,Wei, X.,Ji,L., Chen,L.,& Deater-Deckard,K. (2017).Reconsidering parenting in Chinese culture: Subtypes,stability,and change of maternal parenting style during early adolescence. Journal of Youth and Adolescence, 46(5),1117-1136.   
+\*Zheng,S.,Masuda,T.,Matsunaga,M.,Noguchi,Y.,Ohtsubo,Y.,Yamasue,H.,&Ishi,K.(202).Oxytocinreceptor gene (OXTR) and childhood adversity influence trust. Psychoneuroendocrinology,121,104840.
+
+# The Relationship Between Positive Parenting and Adolescent
+
+# Prosocial Behaviour: The Mediating Role of Empathy and the
+
+Moderating Role of the Oxytocin Receptor Gene
+
+ZHANG Wenxin; LI Xi; CHEN Guanghui; CAO Yanmiao
+
+hoolofPsychologyesearchstituteofhildnddolescentevelopent,andongralUniversityJia014
+
+# Abstract
+
+Prosocial behaviour, that is,behaviour intended to benefit others,has been linked to a variety of desirable traits, including positive relationships, better academic performance and lower levels of antisocial behaviours.As such,the origins and the mechanisms underlying the remarkable individual differences in prosocial behaviour are the focus of an increasing number of studies, with numerous research consistently documenting the important role of positive parenting and empathy. Notably, differentiating between cognitive and emotional components of empathy may help further clarify the processes by which parenting eventuates in prosocial behaviour. Although all children may be impacted by parenting, some children benefit more than others from good-quality rearing. Recent research has suggested that the oxytocin receptor(OXTR) gene rs53576 polymorphism could determine the degree to which a child is influenced by environment. The biological function of rs53576 polymorphism has yet to be delineated,and the literature is mixed with regard to heterozygote (AG) grouping; thus,the implications for AG grouping are not well understood. Therefore, the dummy coding,additive coding, dominant coding and recessive coding models were all investigated in this study to test the nature of gene effect. This study aimed to extend previous studies on the association between parenting and prosocial behaviour by examining the mediating role of cognitive and emotional empathy and the moderating role of the OXTR gene.
+
+The participants were 1082 mother-offspring dyads (adolescents’ mean age: $1 2 . 3 2 \pm 0 . 4 8$ years, $50 . 3 \%$ females) recruited from the community. At Time 1, mothers reported their positive parenting via the Chinese version of the Child-Rearing Practices Report (CRPR) and peer-rated adolescents' prosocial behaviours. At Time 2,adolescent-reported perspective-taking and empathic concern, peer-rated prosocial behaviours and saliva samples were collected. All measures showed good reliability. Genotyping at OXTR gene was performed with MassARRAY RT software version 3.0.0.4 and analysed using the MassARRAY Typer software version 3.4 (Sequenom).
+
+Results showed that adolescents who received higher levels of maternal positive parenting exhibited more prosocial behaviours. However, the direct effect of positive parenting on prosocial behaviour became nonsignificant after controlling for baseline prosocial behaviour. Cognitive empathy, but not emotional empathy, mediated the association between positive parenting and prosocial behaviour. Specifically， positive parenting was positively associated with cognitive empathy, which in turn was positively associated with adolescent prosocial behaviour. Further, this mediation was moderated by the OXTR gene rs53576 polymorphism.For adolescents with AA and GG genotypes, positive parenting was related to higher levels of cognitive empathy, which increased prosocial behaviour. However, this mediation effect was not observed among adolescents with AG genotype. In addition, the results revealed evidence for an overdominance model for OXTR rs53576. Moreover, the $\mathbf { G } \times \mathbf { E }$ term predicted cognitive empathy but not prosocial behaviour. This finding suggests that cognitive empathy may be an endophenotype closer along the causal chain to the genotype and that the strength of the $\mathbf { G } \ \times \mathbf { \nabla } \mathrm { E }$ effects was greater for empathy than for distal behavioural outcomes.
+
+These findings add to our understanding of how empathy and genetic factors contribute to adolescents' prosocial behaviour within the family context. In addition, these results suggest that cognitive and emotional aspects of empathy are likely to be involved—in somewhat different psychosocial mechanisms—in the development of prosocial behaviour. Notably,the overdominance effect of OXTR should be interpreted with caution until replicated. However, when a three-category polymorphic genotype is used, as is commonly applied when modelling a dominant or recessive effect, both false positive and false negative results can occur, and the nature of the interaction can be misrepresented.
+
+Key words prosocial behaviour, maternal positive parenting， OXTR gene, cognitive empathy, emotional empathy

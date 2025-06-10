@@ -1,0 +1,445 @@
+[
+    {
+        "type": "text",
+        "text": "基于信道负载预测的VANET传输功率控制算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "余翔，唐金华，王诗言(重庆邮电大学泛网无线通信技术团队,重庆400065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在车载自组网（VANET）中，车流量到达一定密度时会造成信道拥塞，导致协作式安全应用失效。针对该问题，设计了一个基于信道负载预测的车联网信标消息传输功率控制算法。首先，通过信道忙时比率（CBR）评估当前时刻信道负载；其次，根据差分自回归移动平均模型（ARIMA）对信道下一时刻负载进行预测；最后，将信道负载预测值与预设阈值进行比较，自适应调整下一时刻信标传输功率，避免信道拥塞。通过仿真实验表明，该算法能有效减少通信传输时延，避免信道拥塞，保证数据的可靠转发。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：车载自组网；信道拥塞；负载预测；功率控制 中图分类号：TN915 doi: 10.3969/j.issn.1001-3695.2017.07.0685 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Transmission power controlalgorithm based on channel load forecasting in VANET ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yu Xiang, Tang Jinhua, Wang Shiyan (Ubiquitous Wireless Communication Technology Team,Chongqing Universityof Posts &Telecommunications，Chongqing 400065, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In VANET, when traffic flowreaches acertaindensitywillcause the channelcongestion,thus causing ineffciency ofcooperative security aplications.Aiming at this isue,a beacon message transmission power control algorithm based on channeload forecasting was designed.Firstofall,evaluate thecurrent timechannelloadbychannelbusy timeratio(CBR). Secondly,predictthe next time channel load bythe Autoregressive Integrated Moving Average Model(ARIMA).Finally, compare the valueof channel load forecasting with the preset threshold,and adaptive adjustment of thenext moment transmission power toavoid channel congestion.The simulation experiment shows that the algorithmcan effectivelyreduce the communication transmission delay and avoid channel congestion,ensuring that the data be sent reliably. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:VANET; channel congestion; load forecasting; power contro ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "车联网作为目前世界道路交通领域的研究前沿之一，能有效避免交通碰撞、提高路网通行能力，是智能交通系统的重要分支。IntelliDriver联盟预测未来随着车联网的部署可以减少$80 \\%$ 的交通事故，减少 $60 \\%$ 的交通拥堵，提高2-3倍的路网通行能力[1]。在协作式安全应用CVS（cooperativevehicle safety）[2]中，每辆车都安装WAVE（wireless access in vehcularenvironments）[3]无线通信设备，车辆之间通过DSRC（dedicated short range communications）协议以 $1 0 0 \\mathrm { { m s } }$ 的周期通过共享无线信道和邻居节点交互信息，这些信息包括位置、速度、行驶方向等。车辆根据这些周期性状态消息（即信标）来进行位置跟踪和探测潜在的碰撞和威胁。然而，由于车联网环境中车辆拓扑结构快速变化，复杂的交通环境以及地理特性，均会造成信道负载的频繁变化，尤其是当车辆节点数目增加时，信道的争用也会越来越严重，当节点数目到达一定程度之后，信道产生拥塞，导致数据包碰撞概率急剧上升，引起网络性能严重下降。因此，必须设计控制策略，控制通信范围内信道负载大小，解决信道拥塞问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，车联网信道拥塞控制问题研究广泛，其中文献[4]为解决高密度交通环境下信道拥塞问题，提出一种随机功率传输控制方法(RTPC)。RTPC依据不同的应用消息对应不同的传输功率。通过该方法可以减小消息碰撞概率，提升整个网络的性能。文献[5]为提高紧急消息传输可靠性和投递率，提出一种基于延迟感知的可靠广播协议。该协议基于功率控制技术，提出一个综合模型来评估车辆间通信质量。综合模型可较为全面地评判链路通信质量。车辆节点依据通信链路质量实时调整传输发送功率，保证消息传输可靠性和投递率。文献[6]针对VANET在车流量密度大的情况下导致信道拥塞问题，提出一种基于调整信标频率和信标传输功率的拥塞控制机制。该机制首先提出一个信道分配算法，将周期性安全消息在信道中占用的带宽资源限定在一定的门限以下，然后根据精确性要求，动态地调整信标频率和信标传输功率，避免信道拥塞。文献[7]分析了VANET的多跳通信连接特性，通过研究端到端中断概率，提出多跳连接的分析模型。通过模型，可得出在一定的平均端到端中断概率所需的最小发射功率及最大传输跳数。文献[8]基于模糊逻辑提出一种自适应功率控制策略。首先建立理想传输范围计算模型，通过预测交通流密度值，预测出满足$90 \\%$ 的数据包投递率（PDR，PacketDeliveryRate）的理想传输范围，然后，设计了传输范围自适应调整策略，该策略通过模糊逻辑推理，得到满足 $90 \\%$ 的 PDR的真实传输范围，不仅仅能控制拥塞，而且具有拥塞避免的能力。文献[9]提出一种基于阈值的信标传输功率控制算法（CLF-BTPC)。首先通过卡尔曼滤波预测算法预测出信道下一时刻负载，再将信道负载预测值预先定义的信道最大、最小阈值进行比较后确定信标传输功率来避免拥塞，但是卡尔曼滤波只适用于线性信号过程，当系统具有非线性特性或者噪声特性偏离高斯分布较大时，卡尔曼滤波就不能给出符合实际的结果。文献[10]提出一种可自适应于车流密度变化的VANET功率控制算法。通过构建并更新直接邻居列表，根据直接邻居车辆的位置来调整发射功率，实现信道资源的优化分配以及节点路由性能的优化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前大部分研究均是基于交通流密度（车辆密度）或信道繁忙程度来进行相应的自适应功率控制操作，从而达到控制信道负载的目的。这仅仅是一种被动控制方法，不能提前避免拥塞。当信道发生拥塞后需要消耗一定的时间从拥塞状态进行恢复，控制过程具有滞后性，因此不能满足安全应用的需要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对上述研究中存在的问题，提出了一种基于信道负载预测的车联网信标传输功率控制算法。首先，通过信道忙时比率评估当前时刻信道负载大小；其次，根据ARIMA模型对信道下一时刻负载进行预测；最后，将信道负载预测值与预设阈值进行比较，在保证网络最大连通性前提下，自适应调整下一时刻信标传输功率，提前避免信道拥塞。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 功率控制算法设计及分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1算法总体流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种基于信道负载预测的车联网信标消息传输功率控制 算 法（beacon message transmission power controlalgorithmbasedonchannelload forecasting，F-BMTPC)。算法主要是由当前时刻信道负载评估方法、信道负载预测方法和自适应功率调整方法三部分组成。算法的总流程如下所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步骤1：网络中所有节点初始化传输功率P发送周期性信标消息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步骤2：调用2.1节信道负载评估方法，根据802.11P载波侦听技术获得t时刻信道繁忙状态，通过统计给定时间间隔内信道繁忙程度，求得t时刻信道负载大小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步骤3：调用2.2节信道负载预测方法，使用步骤2中求得的历史信道负载大小预测出 $_ { \\mathrm { t + l } }$ 时刻信道负载值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步骤4：调用2.3节自适应功率调整方法，将预测出的 $_ { \\mathrm { t + l } }$ 时刻信道负载值大小与预设阈值大小进行比较，为 $^ { \\mathrm { t } + 1 }$ 时刻选择合适的消息发送功率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步骤5：判断自适应调整周期是否结束。若没有结束，则继续等待；否则，转到步骤2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2实时信道负载评估方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一个合适的信道负载评价指标是进行信道拥塞研究的关键。在本文中，采用现在车联网研究中广泛应用的、直接反映信道负载状态的评价参数-信道忙时比率。信道忙时比率定义为在一个指定的监测时间间隔 $T$ 内车辆感知信道为繁忙状态的时间所占的比例，若信道在每个时隙 $\\delta$ 内被测量一次，则 $C B R$ 的计算表示如下公式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC B R = \\frac { \\displaystyle \\sum _ { \\delta = 1 } ^ { T _ { \\delta } } \\omega _ { i } } { T _ { \\delta } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\omega$ 为信道繁忙指示值，当信道为繁忙时 $\\omega = 1$ ，当信道为空闲时 $\\scriptstyle { \\omega = 0 }$ ， $T / \\delta$ 为监测间隔内的监测次数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用CBR值来评估信道的负载状态是因为在IEEE802.11P标准中使用了带冲突避免的载波侦听多址访问协议，可以通过载波侦听方式获得信道的闲、忙状态，由此来计算当前信道的CBR 值。通过前人的研究发现[11]，CBR的目标值在不同的数据包大小、衰落模型、车辆密度等参数设置下是几乎同样的结果。因此，可以为全部车辆节点设置一个独立于参数变化的目标CBR值。当信道的目标CBR值为0.5-0.8范围时，无线网络的性能可以达到最优的状态。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3基于ARIMA的信道负载预测方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARIMA[12]（auto regressive integrated moving average）差分自回归移动平均模型，属于随机时间序列预测模型。ARIMA模型在对短相关的网络流量具有较好的预测效果，算法复杂度低，在预测步长较短时，预测精度高，所以采用ARIMA模型进行VANET的信道负载预测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设 $\\left\\{ { { X } _ { t } } , \\mathrm { { t = 1 } } , 2 , L \\ , { \\mathrm { n } } \\right\\}$ 是零均值的平稳序列，其值与前 P阶的值和前q阶的干扰有关，根据多元线性回归的思想，可得模型如公式（2）所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { t } = \\varphi _ { 1 } X _ { t - 1 } + L \\ + \\varphi _ { p } X _ { t - p } + \\varepsilon _ { t } + \\theta _ { 1 } \\varepsilon _ { t - 1 } + L \\ + \\theta _ { q } \\varepsilon _ { t - q }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { \\varphi } = ( \\varphi _ { 1 } , \\varphi _ { 2 } , L \\ , \\varphi _ { p } ) ^ { T }$ 和 $\\boldsymbol { \\theta } = ( \\theta _ { 1 } , \\theta _ { 2 } , L \\ , \\theta _ { p } ) ^ { T }$ 分别称为自回归(AR)与移动平均(MA)的参数； $\\mathcal { E } _ { t }$ 是零均值、方差为 $\\delta _ { \\varepsilon } ^ { 2 }$ 的白噪声。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自回归移动平均模型要求建模的基础数据具有平稳性，但VANET信道负载序列具有非平稳性，因此，可将 $X _ { t }$ 经过d次",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "差分后得到平稳的新序列 $Y _ { t }$ 则",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { t } = \\left( 1 - B \\right) ^ { d } X _ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：B为后移算子， $B ^ { d } X _ { t } = X _ { t - d }$ ，d为差分阶次。将 $Y _ { t }$ 代入式(2)中进行建模，即得到ARIMA模型。ARIMA模型的建立主要包括以下4个步骤。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）平稳性检验。常用的单位根检验方法有 DF（Dickey-Fuller）检验法和ADF（augmented Dickey-Fuller）检验法。b）参数估计。根据参数求解可逆性条件，将白噪声化成$X _ { { t - i } } , X _ { { t - i - 1 } } , L$ 的线性组合，使用非线性最小二乘法求解。c）模型定阶。使用赤池信息准则进行模型定阶，该准则体现了模型拟合的优劣程度。d）模型 $\\chi ^ { 2 }$ 检验。对已确定的模型进行白噪声 (模型残差)检验，构造 $\\chi ^ { 2 }$ 检验的统计量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在以上的步骤中，模型判断、参数估计及模型诊断过程通常都是不断反馈、逐渐完善的过程，对模型不断修正的过程如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/df2e4032e1cbd5ec5be1ff26ade1ebf14777932258f1e11d5380ca8e0a95f461.jpg",
+        "img_caption": [
+            "图1ARIMA建模步骤"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述内容已经对VANET信道负载预测模型 ARIMA做了详细的叙述，下面将对该模型进行仿真分析并对预测序列和原始数据序列进行对比。实验数据序列来源于网络仿真工具NS2(networksimulation version 2)和 交 通 仿 真 工具SUMO(simulation ofurban mobility)对四横三纵双向四车道街区仿真信道负载结果的输出，仿真区域 $1 0 0 0 ^ { * } 1 5 0 0$ 米，车辆数为1000个，车辆消息固定传输距离为250米，具体拓扑如图2(a)所示，街区中心十字路口放大图如图2(b)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c5fd1d0712a92752eb660e1bf2a68f12464d034d40a87081319cf37ef781639.jpg",
+        "img_caption": [
+            "图2仿真拓扑图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次仿真时长为1000s，每隔5s进行一次数据样本采样，得到仿真的原始数据序列为200个。本文选取前100个作为样本值，依次作出一步预测后与后100个原始数据进行对比。预测值与原始数据的对比结果如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了比较预测的结果，引入预测相对误差rerr:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr e r r = \\frac { L _ { p r e d } ( t ) - L _ { r e a l } ( t ) } { L _ { r e a l } ( t ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $L _ { { _ { p r e d } } } ( t )$ 为信道负载预测值； $L _ { r e a l } ( t )$ 为信道负载实测值。VANET信道负载ARIMA模型预测结果相对误差如图4所",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0096a3ad2e0a580c35b986116760fd0ee028a11ab437aa7fa93ba939df30f544.jpg",
+        "img_caption": [
+            "图3信道负载ARIMA预测结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ccd6cbdfcb8d6915cde5291b94f28b5ca67cd492f468eff0f1cb9d839409047.jpg",
+        "img_caption": [
+            "图4信道负载ARIMA模型预测结果相对误差"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图4可以看出，ARIMA模型预测信道负载的最大误差为 $1 1 \\%$ ，预测精度令人满意，说明本模型用于预测信道负载是有效的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4基于负载预测的功率控制方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传输功率与距离有直接关系。因此，消息传输功率自适应调整问题可以转换为消息传输距离自适应调整问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于以上思想，本文提出F-BMTPC 算法，通过预先定义信道负载阈值，将信道负载预测值与预设阈值进行比较后确定信标传输功率，建立“信道负载预测并比较\"的信标传输功率控制算法。在功率调整中本文采用常用的线性控制方法，车辆节点i在某一次控制过程中的传输距离功率控制公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i } ( t ) = D _ { \\operatorname* { m i n } } + \\alpha \\times ( D _ { \\operatorname* { m a x } } - D _ { \\operatorname* { m i n } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha { = } \\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { C B R ^ { * } - C B R _ { i } } { C B R ^ { * } } , } & { C B R _ { i } < C B R ^ { * } } \\\\ { 0 , } & { C B R _ { i } > C B R ^ { * } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha$ 为调整因子，由车辆i的预测信道负载大小 $C B R _ { i }$ 和预设信道负载阈值 $C B R ^ { * }$ 决定，本文 $C B { { R } ^ { * } }$ 的取值为0.8。 $D _ { \\mathrm { m i n } }$ 和$D _ { \\mathrm { m a x } }$ 分别对应最小和最大安全通信距离，本文分别设置为 50$\\mathbf { m }$ 和 $6 0 0 \\mathrm { ~ m ~ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 仿真与结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 实验条件设定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "VANET中节点的移动受到道路及障碍物的影响，同时节点的高速移动使得网络拓扑具有不稳定性。为了在NS2中对功率控制算法进行仿真验证，先要保证仿真场景中车辆节点的移动轨迹尽量接近现实中的车辆移动轨迹，因此本文利用SUMO交通仿真器构建四横三纵双向四车道街区道路模型，仿真区域为 $1 0 0 0 ^ { * } 1 5 0 0$ 米，如图2所示，仿真时间 $2 0 0 \\mathrm { s }$ 。在NS2 中搭建VANET协议架构如下，在应用层，通过数据流发生器建立从信息源到距离信息源远处装备车辆的通信连接，数据流发生器发送的数据分组大小为512Byte，发送数据频率为10packet/s。在传输层，使用的传输协议为用户数据报协议(UserDatagramProtocol，UDP)。在网络层，为了模拟安全状态消息周期性发送，选用洪泛协议进行分析。在媒体接入控制层(MediaAccess Control，MAC)层选择主要用于车载电子通信的IEEE802.11P协议，传输速率为6Mbps。在物理层，对车载设备的各种参数进行设置，在传播模型上选择Two-RayGround。考虑到常规路况下1s内车辆网络间拓扑通常变化较小，因此功率控制周期设置为1s。仿真实验将在不同的车辆节点密度下，对F-BMTPC 算法与CLF-BTPC 算法、自适应功率控制算法[10]进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2实验结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5描绘了在不同车辆密度下F-BMTPC算法、CLF-BTPC算法、自适应功率控制算法以及固定发射功率的数据分组投递率。固定发射功率通信距离设置为600米。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fc19d5cf994f906ce21094b6affae21e07430b3b39fd2c9335c0a8ffd9dd806.jpg",
+        "img_caption": [
+            "图5不同算法中数据分组投递率对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5中，所有功率控制算法的数据分组投递率均随着节点密度的增大呈下降趋势，当节点密度较小时，F-BMTPC 算法的数据分组投递率与CLF-BTPC算法、自适应功率控制算法以及固定发射功率方法相当，而随着节点密度增加带有功率控制曲线的降幅明显小于固定发射功率。这是因为在节点密度较小时车间距已经接近最大通信覆盖半径，因此使用功率控制算法的节点基本都采用最大发射功率进行数据包发送，其效果与采用最大发射功率的固定发射功率相当。随着节点密度增大，车间间距逐渐减小，固定发射功率下产生竞争关系的节点数量逐渐增多且愈加严重，而采用F-BMTPC算法的节点能够通过预设信道负载阈值调整节点功率值，因此其数据分组投递率性能下降小于固定发射功率的情况。另外，因为自适应功率控制算法未采用信道负载预测机制，只有检测到网络已经产生拥塞时才进行功率自适应控制，当网络产生拥塞时就会丢弃部分数据包，而F-BMTPC算法和CLF-BTPC算法采用了负载预测机制，能提前预测到信道负载大小，从而提前避免拥塞，所以自适应功率控制算法的投递率低于F-BMTPC算法和CLF-BTPC算法。同时，可以看出F-BMTPC算法的投递率略优于CLF-BTPC 算法，这是因为将经典卡尔曼滤波预测应用于非线性车联网系统，信道负载预测精度不够准确，且CLF-BTPC算法在功率调整过程中采用固定步长值，即当信道负载预测值大于预设阈值时，按固定步长值减小节点传输功率，反之亦然，当步长值设定较小时，功率控制具有滞后性，当固定步长设定较大时，调整精度较差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6描述了在不同车辆密度下F-BMTPC算法、CLF-BTPC算法、自适应功率控制算法以及固定发射功率的平均消息传输时延。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/420f80d3e059a75eea468bb5c0aff672ddb8c58c04c1932977465c37626a1acf.jpg",
+        "img_caption": [
+            "图6传输时延对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6中，随着车辆节点数目逐渐增多，VANET中每个车辆节点平均传输时延也逐渐上升。但是，在功率控制下，VANET平均传输时延明显较小，随着车辆节点的增多，传输时延增长缓慢，在车辆节点密度比较大的场景下，F-BMTPC算法最大传输时延也不超过 $4 0 \\mathrm { m s }$ ，而无功率控制下随着车辆节点的增多，其传输时延大幅度增长，甚至达到 $1 2 0 \\mathrm { m s }$ ，完全不适用于VANET中安全状态消息的传输。因为自适应功率控制算法功率控制过程具有滞后性，当网络已经产生拥塞后才进行调控，所以传输时延要高于F-BMTPC算法和CLF-BTPC算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图7描述了在不同车辆密度下F-BMTPC算法和固定发射功率方法的信道占用率。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/14235cddadfa02eb95db4f7550f6e02e5d049e103e04771c8403a0f1fcb38c78.jpg",
+        "img_caption": [
+            "图7信道占用率"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图7中，随着车辆节点数目增多，区域内频繁发送信标帧车辆的数量也增加的情况下，F-BMTPC算法和固定发射功率方法的信道占用率均呈上升趋势，并且固定功率发送方法信道占用率迅速增加，F-BMTPC 算法由于采用了基于阈值的功率控制机制，所以信道占用率上升到一定程度后便保持平稳。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文针对车联网环境中交通流密度的变化对车辆状态安全消息的传输影响，提出了基于信道负载预测的车联网信标传输功率控制算法。通过建立“信道负载预测并比较\"的信标传输功率控制算法，自适应调整下一时刻信标传输功率，避免信道拥塞。本文的研究仅针对周期性信标通信所造成的信道负载，然而在实际车联网中还有其他各种消息需要传输，如何在多种消息混杂的情况下避免拥塞是下一步的研究方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Yin Jijun,ElBatt T,Yeung G,et al.Performance evaluation of safety applications over DSRC vehicular ad hoc networks [C]// Proc of the lst ACMInternational Workshop on Vehicular Ad Hoc Networks.2oo4:1-9.   \n[2]Fallah Y P,Huang C L,Sengupta R,et al.Analysis of information dissemination in vehicular ad-hoc networks with application to cooperative vehicle safety systems[J].IEEE Trans on Vehicular Technology,2011,60 (1): 233-247.   \n[3]Xiang Weidong,Gozalvez J,Niu Zhisheng,et al.Wireless access in vehicular environments [J]. EURASIP Journal on Wireless ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Communications and Networking,2009,2009(1):1-2. [4]Kloiber B,Haerri J, Strang T,et al.Random transmit power control for dsrc and its application to cooperative safety [J].IEEE Trans on Dependable and Secure Compution,2015,13(1):18-31. [5]Guo WeiJie,Huang Liusheng,Sun Quan,et al.Delay-aware reliable broadcast scheme based on power control for VANETs[J].Journal ofChina Universities of Posts and Telecommunications,2014,21(1): 26-35. [6]孙健,李宏智,郭灵波,等.VANET中一种安全消息拥塞控制机制[J].通 信学报,2014,35 (5):134-140. [7]汪颖,张堑.基于路径中断概率的VANETs连接模型及性能分析[J].计 算机工程与应用,2014,50(21):100-105. [8]李帅兵,谭国真,张新福,等.一种车联网自适应功率控制策略[J].小型 微型计算机系 统,2017,38(1):72-75. [9]Mo Yuanfu,Yu Dexin,Song Jun,et al.A beacon transmission power control algorithm based on wireless channel load forecasting in VANETs [J].PLoS ONE,2015,10 (11): 1-17. [10]徐哲鑫,李世杰，林潇,等．面向车辆状态信息广播的功率控制算法[J]. 计算机应用,2016,36(8):2175-2180. [11]Fallah YP,Nasiriani N,Krishnan H. Stable and Fair Power Control in Vehicle Safety Networks [J].IEEE Trans on Vehicular Technology,2016, 65 (3): 1662-1675. [12]王燕.应用时间序列分析[M].北京：中国人民大学出版社,2008. ",
+        "page_idx": 4
+    }
+]

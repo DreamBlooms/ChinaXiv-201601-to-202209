@@ -1,0 +1,369 @@
+[
+    {
+        "type": "text",
+        "text": "Research Article ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gender Differences in Cerebral Regional Homogeneity of Adult Healthy Volunteers: A Resting-State fMRI Study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chunsheng Xu,1,2.3 Chuanfu Li,12,3 Hongli Wu,2,3 Yuanyuan Wu,4 Sheng Hu,5 Yifang Zhu,1,2 Wei Zhang,1 Linying Wang,4 Senhua Zhu, Junping Liu,12² Qingping Zhang, Jun Yang, and Xiaochu Zhang9,10 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Medical Imaging Center,TheFirstAfliated HospitalofAnhui UniversityofChinese Medicine,Anhui 23003l,China   \n2LaboratoryofigitalMedicalImagingeirstAfiatedHospitalofAni Universityofineseedicine,Anui,Cin   \n3Institute ofComputer AplicationofChinese Medicine,Anhui Academy ofChinese Medicine,Anhui 23038,China   \n4 GraduateSchool,Anhui UniversityofChinese Medicine,Anhui 230038,China   \n5 Department ofElectronic Science and Technology, UniversityofScience  Technology ofChina,Anhui 230027,China   \nInstitute of Biophysics,Chinese AcademyofSciences,Beijing0ool,China   \nSchoolof AcupunctureOsteologyAnuiUnversityofinseedicine,Anu308,ina   \n8 Department of Acupuncture and Moxibustion,The FirstAfiliated Hospital of Anhui University ofChinese Medicine,   \nAnhui 23003i, China   \n9CAS Key LaboratoryofBrain FunctionDisease andSchoolofLife Sciences, UniversityofScience & TechnologyofChina,   \nAnhui 230027, China   \n10CenterofMedicalPhyicsandTechnologHefeinstitutesofysicalScience,CA,Anhui230l,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence should be addressed to Chuanfu Li; 13956078816@l26.com,Jun Yang; yangzyun@yahoo.cn and Xiaochu Zhang; zxcustc@ustc.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received14 May 20l4; Revised7 September 20l4; Accepted 30 September 2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Academic Editor:Hengyi Rao ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright $\\circledcirc$ 2015 Chunsheng Xuet al.This is an open accessarticle distributed under the Creative Commons Attribution License which permits unrestricteduse,distribution,and reproduction inanymedium,provided theoriginal work is properlycited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Objective.Wesoughttousetheregionalhomogeneity(ReHo)approachsanindexintheresting-statefunctionalMRItoinvestigate thegenderdiferencesofspontaeousbrainactivitywithincerebralcortexandresting-statenetworks (RSNs)inyoungadulthealthy volunters.Methods.One hundred and twelve healthyvolunters (56males,56females)participatedin theresting-state fMRI scan.The ReHo mappings in thecerebral cortex and twelveRSNs of themaleand female groups werecompared.Results. We found statistically significant gender differences in the primary visual network (PVN) ( $\\mathit { P } < 0 . 0 0 4$ ,with Bonferroni correction) andleft attentionnetwork (LAtN),default mode network (DMN),sensorimotornetwork (SMN),executivenetwork(EN),nd dorsal medial prefrontal network (DMPFC)as well ( $\\mathit { \\Delta } P \\ < \\ 0 . 0 5$ ,uncorrected).The male group showed higher ReHo in the left precuneus,whilethefemalegroupshowedhigherReHointherightmiddlecingulategyrus,fusiformgyrus,leftinferiorparietal lobule,precentralgrus,spramarginal gyrus,andpostcentral gyrus.Conclusions.Ourresultssuggestedthatmenandwomenhad regional specificdiferences during theresting-state.Thefndings may improveourunderstandingof thegender diffrences in behavior and cognition from the perspective of resting-state brain function. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A large number of postmortem and imaging investigations on gender differences were dedicated to the human brain [1- 7].Previous structural neuroimaging studies showed that the brain size is larger in men than in women and revealed that the anatomical gender differences of the brain in the cortex are region-specific [8,9].Women usually have larger relative volumes in frontal and medial paralimbic cortices,while men have larger frontomedial, amygdala,and hypothalamus relative to cerebrum size [9,10].Apart from these anatomical differences,gender differences also exist in many behavioral and cognitive domains.Men generally perform better in visual and spatial processing as well as mathematics [ll-13], whereas women tend to outperform men in verbal skills and memory [14,15], facial emotion recognition [16], fine motor skills [4],and emotion processing [4,17]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Not only is magnetic resonance imaging a significant imaging modality in clinical diagnosis and treatment planning,but it also provides detailed knowledge of physiological and pathological brain functions for medical research [18]. By taking the advantages of fMRI technique,many studies have reported gender differences in the functions of the brain, such as the sex-related hemispheric lateralization in language processing [19] and emotional memory [17],suggesting that male and female brains might have some different neural mechanisms to conduct certain tasks [20].However, compared with these task state studies,there are still few studies on the difference in the resting-state of the brain.The restingstate function reflects the neuronal baseline activity of the brain when the subject is not performing an explicit task, representing the state of the human brain in the absence of goal-directed neuronal action and external input.Biswal et al.[21] investigated sex effects using amplitude of lowfrequency fluctuation (ALFF) in a large-scale resting-state fMRI cohort $\\begin{array} { l l l } { ( n } & { = } & { 1 4 1 4 } \\end{array}$ ，across 35 imaging centers）and suggested that sex emerged as a significant determinant. Wang et al. [l3] employed a support vector machine-based multivariate pattern analysis (MVPA） approach and found men showed higher regional homogeneity (ReHo） in the right hemisphere and women tended to show greater ReHo in the left. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ReHo is defined as the regional synchrony of spontaneous fMRI signals and can be used to map the resting state brain function [22].To investigate the gender difference in the brain functions,the first question is whether there is any gender difference in ReHo within the resting-state networks (RSNs).There are about twelve RSNs in the brain as previously reported, such as the default mode network (DMN),the sensorimotor network (SMN),the visual network(VN),the auditory network(AN),the salience network (SN),and the attention and executive function networks [23,24]. The second question will be what specific brain areas are. To address these two questions,we analyzed the genderdifference ofReHo in twelveRSNsand whole cerebral cortex of adult healthy volunteers.We hypothesized that men and women might have different ReHo in some of the RSNs and cerebral cortices,which might be related to the gender differences in cognitive domains as previously reported [1-7]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Subjects. One hundred and twelve healthy volunteers (56 males,56 females) were recruited to take part in this experiment.All the procedures were fully explained to the participants and informed consents were obtained from all subjects before they took part in the experiment.All volunteers were the college students in the university, righthanded with no history of mental or neurological disease, with no history of psychiatric and neurological disorders or druguse,and with no obvious abnormality in brain structure. This study was approved by the Ethics Board at the First Affliated Hospital of Anhui University of Chinese Medicine. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Data Acquisition. Before the experiment,the participants were requested to change clothes,rest,and then enter into the scanning room after the whole body had been relaxed. The subjects were told to close their eyes and their ears were stuffed with cotton balls during scanning. The lights in the scanning room were turned off to reduce visual stimulation. During the entire scanning process, the subjects were asked to avoid psychological activity as far as possible. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All fMRI experiments were completed at the MR room of the Medical Imaging Center, the First Affliated Hospital of Anhui University of Chinese Medicine.The Siemens Symphony 1.5T MRI whole body scanner (Siemens Medical Systems,Germany)and standard head coil were used.A total of 4 sequences were scanned,which were as follows. (1）The first sequence was pilot images.(2） T2-weighted images: this sequence lasted for 1 minute 3O seconds. The goal of this sequence was to find whether or not there was any obvious structural abnormality of the brain.(3) Resting-state fMRI data acquisition: this sequence lasted for 10 minutes.Take the axial position parallel to the AC-PC line,with 36 slices that covered the whole brain.EPI-BOLD sequences were used,with TR/TE/FA of $3 0 0 0 \\mathrm { m s } / 3 0 \\mathrm { m s } / 9 0 ^ { \\circ }$ 5 FOV of $1 9 2 \\mathrm { m m } \\times 1 9 2 \\mathrm { m m }$ ,and matrix of $6 4 ~ \\times ~ 6 4$ (4) Tl-weighted 3D anatomical images: this sequence lasted for 8 minutes 59 seconds. Sagittal position was taken and 176 slices were scanned which covered the whole brain. Spoiled gradient echo sequence was used,with TR/TE/FA of $2 1 0 0 \\mathrm { m m } / 3 . 9 3 \\mathrm { m m } / 1 3 ^ { \\circ }$ ，FOVof $2 5 0 \\mathrm { m m } \\times 2 5 0 \\mathrm { m m }$ ，slice thickness/spacing of $1 . 0 \\mathrm { m m } / 0 . 5 \\mathrm { m m }$ ，and matrix of $2 5 6 ~ \\times$ 256.It took about 2l minutes to complete all the data acquisition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Data Preprocessing. All preprocessing procedures were performed using the AFNI software (http://afni.nimh.nih .gov/) in the Laboratory of Digital Medical Imaging,the First Affliated Hospitalof Anhui University of Chinese Medicine. The first 4 volumes of the functional images were discarded for the signal equilibrium and participants' adaptation to the scanning circumstance.After excluding the first 4 volumes, all fMRI volumes were slice corrected and then realigned to the first volume.Data was included if the subject's head movement during fMRI scanning was less than $2 \\mathrm { m m }$ translation and less than $2 ^ { \\circ }$ angular rotation in any axis. Six motion parameters,linear drift,and the mean time series of all voxels within the white matter and the cerebrospinal fluid were removed from the data by linear regression to reduce the effects of confounding factors.After that,a temporal filter $( 0 . 0 1 \\mathrm { - } 0 . 0 8 \\mathrm { H z } )$ was applied to reduce the effect of lowfrequency drift and high-frequency physiological respiratory and cardiac noise signals. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.ReHo Analysis. The ReHo analysis was performed in each subject with the program of 3dReHo in the AFNI software.Kendall's coefficient of concordance(KCC) value (also called ReHo value) was calculated to measure the similarity of the ranked time series of a given voxel to its nearest 26 neighbor voxels [22].By calculating the KCC value of every voxel in the whole brain,an individual ReHo map was obtained for each subject.All individual voxel-wise ReHo values were computed and standardized into ReHo $z$ -values by subtracting the mean ReHo obtained from the entire brain (i.e.,global ReHo,male $0 . 1 6 3 2 \\pm \\ : 0 . 0 2 0 5$ ，female $0 . 1 5 7 8 \\ \\pm$ 0.0113, $P > 0 . 0 5$ )and then dividingby the standard deviation [25-27]. Spatial smoothing was then performed with a Gaussian filter of $8 \\mathrm { m m }$ full-width half-maximum (FWHM) kernel in order to manage the anatomical variability and to improve the signal-to-noise ratio [l3].Before the intergroup comparison,all ReHo maps were spatially normalized to the standard Talairach atlas template. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/72a997e992d97a8e7a14d95ad8a6a5990f831872d90cec428e59454c9f187bfc.jpg",
+        "table_caption": [
+            "TABLEl: Cerebral gender differences in ReHo between males and females. "
+        ],
+        "table_footnote": [
+            "Note: BA, Brodmann area; L,left; R,right.The threshold was set to $P < 0 . 0 0 0 1$ $\\alpha < 0 . 0 5$ ,and cluster $\\geq 4$ (Monte Carlo simulation program AlphaSim). "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Regions</td><td rowspan=\"2\">Brodmann area</td><td rowspan=\"2\">Side</td><td colspan=\"3\">Coordinate (Talairach)</td><td rowspan=\"2\">Voxels</td><td rowspan=\"2\">z-value</td></tr><tr><td>Peak x</td><td>Peak y</td><td>Peak z</td></tr><tr><td></td><td></td><td></td><td>Female > male</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">Inferior parietal lobule</td><td rowspan=\"3\">BA40</td><td>L</td><td>-46.5</td><td>-31.5</td><td>32.5</td><td>43</td><td>4.83</td></tr><tr><td>L</td><td>-40.5</td><td>-34.5</td><td>32.5</td><td>8</td><td>4.26</td></tr><tr><td>L</td><td>-37.5</td><td>-10.5</td><td>29.5</td><td>17</td><td>4.32</td></tr><tr><td>Precentral gyrus Supramarginal gyrus</td><td>BA6 BA40</td><td>L</td><td>-46.5</td><td>-52.5</td><td>32.5</td><td>13</td><td>4.2</td></tr><tr><td>Middle cingulate gyrus</td><td>BA24</td><td>R</td><td>1.5</td><td>-19.5</td><td>32.5</td><td>10</td><td>4.17</td></tr><tr><td>Fusiform gyrus</td><td>BA20</td><td>R</td><td>52.5</td><td>-22.5</td><td>-24.5</td><td>4</td><td>4.09</td></tr><tr><td>Postcentral gyrus</td><td>BA2</td><td>L</td><td>-46.5</td><td>-25.5</td><td>35.5</td><td>4</td><td>4.43</td></tr><tr><td colspan=\"8\">Male > female</td></tr><tr><td>Precuneus</td><td>BA7</td><td>L</td><td>-4.5</td><td>-67.5</td><td>47.5</td><td>4</td><td>-4.09</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.Intergroup Analysis. To explore the ReHo differences between the male and the female groups,a second-level, random-effect, two-sample two-tailed $t$ -test was performed on the individual normalized ReHo maps ina voxel-by-voxel manner within the brain.Although age was not significantly different between groups,it was still included as a covariate to avoid any possible influence. The AFNI Monte Carlo simulation program AlphaSim was used to obtain a corrected significance level of $\\begin{array} { l l l } { P } & { < } & { 0 . 0 0 0 1 } \\end{array}$ and a minimum cluster size of 4 voxels $( 1 0 8 \\mathrm { m m } ^ { 3 } )$ in the group difference maps. The anatomical localization and labeling of the functional data was determined by both Talairach coordinates and three radiologists. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6.RSNs Analysis.For RSNsanalysis,the regions of interest (ROIs) of 12 RSNs were derived from our previous study [24].Using ICA analysis,the preprocessed time series of BOLD after head motion correction, smoothing,and spatial normalization were concatenated along time to form a 4- dimensional (4D) dataset.GIFT-toolbox [28] was used to decompose the 4D BOLD data into 20 mutually independent components. These analyses identified 12 RSNs for BOLD data. There were the DMN,left attention networks (LAtN),right attention network (RAtN),primary visual network(PVN),secondary visual network(SVN),SMN,AN, executive network (EN),dorsal medial prefrontal network (DMPFC),ventral medial prefrontal network (VMPFC), salience network(SN),and medial temporal limbic network (MTLN).TheROIs'ReHo of each subject was extracted from the individual normalized ReHo maps,and the mean ReHo of each subject was calculated by the program of 3dROIstats in the AFNI software. The ReHo of 12 RSNs was statistically compared between males and females using independent samples $t$ -test approach.The threshold was defined as the Bonferroni correction of $\\begin{array} { l l l } { P } & { < } & { 0 . 0 5 } \\end{array}$ (i.e., $\\begin{array} { l l l } { P } & { < } & { 0 . 0 5 / 1 2 = } \\end{array}$ 0.00417).Further,we also did an exploratory analysis (the threshold was set as $P < 0 . 0 5$ ),which reflects the exploratory nature. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.General Information. Fifty-six cases of males (mean age:25.93 years,range 20-43 years)and fifty-six cases of females (mean age: 26.46 years,range l8-44 years） were finally included in the second-level analysis.Age was not significantly different between groups.All subjects in this study had less than $2 \\mathrm { m m }$ translation and $2 ^ { \\circ }$ of rotation in any of the $x \\mathrm { - } , y \\mathrm { - }$ ,and $z$ -axes.Therefore,no subjects were removed from the data analysis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Cerebral ReHoDifferencesbetweenMalesand Females.It was showed that there existed significant differences in the intergroup comparison between genders.Significantlyhigher ReHo in the left precuneus was found in the males,and significantly higher ReHo in the right middle cingulate gyrus, right fusiform gyrus,left inferior parietal lobule,left precentral gyrus,left supramarginal gyrus,and left postcentral gyrus was found in the females (Table 1and Figure 1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.ReHoDifferencesofRSNs between MalesandFemales. The ReHo of PVN was found higher in males than females $( P ~ < ~ 0 . 0 0 4 )$ .In the exploratory analysis,we further found higher ReHo of the DMN,LAtN,PVN,SMN,EN,and DMPFC in females compared to males ( $\\left( P < 0 . 0 5 \\right)$ ).No gender differences were found in the other 6 RSNs (Table 2 and Figure 2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ae2e074159ea131847b63321927ff060fa6beaf05d094ed1353e00211fe1f4b.jpg",
+        "table_caption": [
+            "TABLE 2:Comparison of ReHo in RSNs between males and females. "
+        ],
+        "table_footnote": [
+            "Note:Dkotg;; network; prefrontal network; SN,salience network; MTLN,medial temporal limbic network.#Independent samples $t$ -test,significance threshold $P ~ < ~ 0 . 0 0 4$ (with Bonferroni correction).\\*Independent samples t-test,significance threshold $P < 0 . 0 5$ (uncorrected). "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>DMN</td><td>LAtN</td><td>RAtN</td><td>PVN</td><td>SVN</td><td>SMN</td><td>AN</td><td>EN</td><td>DMPFC</td><td>VMPFC</td><td>SN</td><td>MTLN</td></tr><tr><td>Male</td><td>0.411</td><td>-0.982</td><td>-0.759</td><td>4.390</td><td>3.737</td><td>0.356</td><td>-3.922</td><td>0.412</td><td>-0.003</td><td>-3.314</td><td>-0.637</td><td>-2.838</td></tr><tr><td>Female</td><td>1.780</td><td>0.226</td><td>0.069</td><td>0.810</td><td>3.257</td><td>2.475</td><td>-4.904</td><td>2.021</td><td>1.157</td><td>-3.387</td><td>-0.007</td><td>-3.245</td></tr><tr><td>t</td><td>2.258</td><td>2.741</td><td>1.803</td><td>-2.974</td><td>-0.538</td><td>2.186</td><td>-1.215</td><td>2.47</td><td>1.988</td><td>-0.095</td><td>1.243</td><td>-0.757</td></tr><tr><td>P</td><td>0.026*</td><td>0.007*#</td><td>0.074</td><td>0.004*</td><td>0.592</td><td>0.031*</td><td>0.227</td><td>0.015*</td><td>0.049*</td><td>0.925</td><td>0.217</td><td>0.451</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c87fee1bb1158bb3f571e4e138ab84b8fc0893a3f6e6575e7e64c289092859bd.jpg",
+        "img_caption": [
+            "FIGURE l: ReHo diffrences of cerebral regions between males and females (Monte Carlo simulation program AlphaSim, $P < 0 . 0 0 0 1$ ,cluster $\\mathrm { s i z e } \\geq 4$ ,and $\\alpha < 0 . 0 5$ ).Women showed greater ReHo thanmen inareas of the right middle cingulate gyrus (R.MCC),right fusiform gyrus (RFG),leftalle)ls (),tls)l), while men showed greater ReHo in the left precuneus.L,left; R,right. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This study applied ReHo analysis approach to investigate gender differences of resting-state in a large sample of adult healthy individuals.It was found that there existed gender difference in the PVN,LAtN,and some brain areas functionally related to gender differences in cognitive and behavior domains. These results suggest that males and females might have regional specific differences during the resting-state. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the 12 RSNs,the higher ReHo of PVN was found in males than females,which showed significant gender difference between males and females after Bonferroni correction.PVN is associated with visual processing and SMN isrelated to motor function [23]. The higher ReHo ofPVN in males might imply that males do better in visuospatial processing than females,which is consistent with previous anatomical and behavioral researches [ll-l3].In the exploratory analysis,females had higher ReHo of DMN, ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LAtN,SMN,EN,and DMPFC than males.As previous studies reported,DMN,LAtN,EN,and DMPFC are involved in a wide range of cognitive processes and memory function [29,30]. The results might suggest that women outperform men in some cognitive domains and emotion recognition processing,which is in line with previous researches [4,17]. Several previous studies have reported the gender differences of functional brain networks during rest [30-32]. However, there were some consistency and some inconsistency as well. Our findings were consistent with the fact that there were no significant differences between sexes in the functional connectivity of the brain areas within the SN reported by Weissman-Fogel et al.[3o],but they were inconsistent with our results of exploratory analysis that the EN and the DMN which they reported had no significant differences between genders.Another report [32] demonstrated that significant gender differences of resting-state activity were found in all networks.We suggested that the discrepancy might mainly result from the different methods they had used in their data analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/20e3d100546011da048a39848b77b10102ec373a492fa777d90b68574e13f235.jpg",
+        "img_caption": [
+            "FIGURE 2:Mean ReHo of 12 RSNs between males and females. Significantdifferences were observed in the PVN(with Bonferroni correction, $^ { \\# } P < 0 . 0 0 4 )$ .In the exploratory analysis,significant differences were observed in the DMN,LAtN,PVN,SMN,EN, and DMPFC as well as PVN (uncorrected, $^ { * } P \\ < \\ 0 . 0 5 )$ .Errorbar represented standarderror. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The specific brain areas in which gender difference of ReHo was found could be classified into two kinds.One kind was that female had higher ReHo and another kind was that male had higher ReHo. Six regions of greater ReHo were shown in females than males,including the right middle cingulate gyrus,right fusiform gyrus,left inferior parietal lobule,left precentral gyrus, left supramarginal gyrus,and left postcentral gyrus in the females. The inferior parietal lobule is a part of left attention network, which was identifed from BOLD data using ICA analysis.It is concerned with multiple aspects of sensory processing and sensorimotor integration [33],especially in the perception of emotions in facial stimuli [34],and also,it is concerned with language and body image [35-38]. The middle cingulate cortex is involved in many different functions,including negative affect, pain,and cognitive control [39].It has also reported that middle cingulate cortex receives widespread inputs, both directly and indirectly, from emotion-related brain regions [40] and may be a pivotal node of emotion and motor integration [4l,42].Mann et al. [43] observed that women had relatively larger cingulate gray matter volume than men and showed diferent patterns of age-related volume decline between men and women.Although there are still some disputes on the functionalities of fusiform gyrus,a relative convergent point is related to various cognitive functions [44],such as face and body recognition [45-48],orthography and reading [49-51], word recognition [52],and processing of color information [53-56]. Therefore,the higher ReHo of the above areas in females is consistent with the behavioral sex difference that women generally excel in language [14, 15], facial emotion recognition [16],and emotional memory tasks[4,17].Furthermore,the different ReHo areas of the precentral gyrus between genders were located in its inferior part,which represents the primary motor area of hand and orofacial area [57]. The anterior supramarginal gyrus,which showed regional specific differences between genders in the present study,is also a component of left attention network in our results of ICA processing. It is involved in tool action observation [58].Consistent with the previous studies [4,14- 17],these results might suggest that women excel better in hand and orofacial related tasks,something like fine motor skills, facial expression,and verbal fluency. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile,we found that higher ReHo in the specific region of the left precuneus in men than in women. The precuneus is a part of PVN in our network-wise analysis ROIs.It is strongly interconnected with the parietooccipital visual and oculomotor-related cortices [59]. The precuneus is involved with visuospatial processing [60-62], episodic memory [63], reflections upon self [64, 65],and awareness and conscious information processing [66,67]. These different processes may be selectively related to different subregions within the precuneus [6l]; for example, the posterior subregion,a part of PVN,was related to visual area [68].In this study, the posterior subregion of left precuneus showed higher regional homogeneity in men,which was consistent with the previous report [6l].In addition,we also found the higher ReHo of the PVN in males than females.Therefore,it might reflect that there existed difference in visuospatial processing between men and women [ll,l2] and provided further evidence to a converging point suggested by previous behavioral study; that is,men generally perform better in visuospatial processing than women [11-13]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A gender difference in cerebral regional homogeneity of adult healthy volunteers was also reported by Wang et al. [13].There were some consistency and inconsistency between their results and ours.The consistency was that both Wang and we found gender difference in resting-state function of healthy volunteers and women mainly exhibited higher ReHo in their left hemispheres.In this study,we adopted the independent samples and repeated the results of left hemispheres preponderance of ReHo in females,which strengthened the conclusion of the higher ReHo in females'left hemispheres concluded by Wang et al. [l3].However, the specific brain regions showing gender differences were not exactly the same.We thought the discrepancy mainly resulted from the difference in methodology. In Wang's study, a support vector machine-based MVPA approach was employed to identify the complex patterns of sex differences in brain structure and resting-state function,but in our study, the ReHo maps were compared between the males and the females using $t$ -test. Different data analysis methods can demonstrate different results [69,70],and the threshold selection canalso influence the results [7l].Thus,the result difference between this study and Wang's study might indicate different aspects of resting-state brain function via different analysis methods. In addition,age range may have an effect on resting-state homogeneity [2l,72,73]. Therefore,we would use different analysis methods and pay more attention to the effect of age in future studies in order to make the results more comprehensive. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Potential limitations of this study should be noted.First, in our study,age range of subjects is a little broader for men than women.As previous researchers reported [2l,72,73], age range is critical as it may have an effect on resting-state homogeneity.Although age was not significantly different between our groups and we had included age as a covariate to avoid any possible influence,it would be better to increase the sample size and minimize the age range in the future investigations.Second, the present study had not correlated the ReHo value with the behavioral data for no such data were collected in the experiment.In the future study, this factor should be taken into account. Third,although it is a general practice that global signal of ReHo was removed when doing group level analysis, Zuo et al. [25] reported that removing global effect would reduce reliability of ReHo.Therefore,we should improve our data processing methods in the future. Fourth, the results of DMN,LAtN,SMN,EN,and DMPFC in the present study are based on the exploratory analysis (i.e.,itdid not reach the threshold after Bonferroni correction although some of them are close).Therefore,these results should be replicated in the future. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary, the present study found gender differences in regional homogeneity of adult healthy volunteers within some of RSNs and cerebral cortices and indicated that men and women might have regional specific differences during the resting-state.Many of the specific regions showed in voxel-wise analysis belong to the RSNs that showed gender differences in the present study. These regional specific regions are mostly related to the functions of behavior and cognition. The findings are consistent with the gender differences in behavioral and cognitive domains and might improve our understanding of the gender differences from the perspective of brain function. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interests ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Theauthors declare that there is no conflict of interests regarding the publication of this paper. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors sincerely thank all the volunteers for their participation in this study. This study was supported by grants from the National Key Basic Research and Development Program (973) under Grant no.2010CB530500,the National Natural Science Foundation of China under Grant nos. 81202768,31171083,31230032,and 31471071,Anhui Provincial Natural Science Foundation under Grant no.l2o8o85MH147, Major Scientific Projects of Anhui Provincial Education Commission under Grant no.KJ20llZDo5, the Fundamental Research Funds for the Central Universities of China (WK2070000033),and 100 Talents Program of the Chinese Academy of Sciences (BJ2070000047). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]K.P.Cosgrove,C.M. Mazure,and J.K.Staley,“Evolving knowledge of sex differences in brain structure,function,and chemistry”Biological Psychiatry,vol. 62,no.8,pp.847-855, 2007. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2] J.S.Allen,H.Damasio,T.J.Grabowski,J.Bruss,and W. Zhang,“Sexual dimorphism and asymmetries in the gray-white composition of the human cerebrum” NeuroImage, vol.18, no. 4,pp.880-894,2003.   \n[3] C.D. Good,I. Johnsrude,J. Ashburner, R.N.A. Henson, K.J. Friston,and R.S.J. Frackowiak,“Cerebral asymmetry and the effects of sex and handedness on brain structure: a voxel-based morphometric analysis of 465 normal adult human brains, NeuroImage,vol.14, no.3,pp.685-700,2001.   \n[4] B. Crespo-Facorro,R.Roiz-Santianez,R.Pérez-Iglesias et al, “Sex-specific variation of MRI-based cortical morphometry in adult healthy volunteers: the effect on cognitive functioning” Progress in Neuro-Psychopharmacology and Biological Psychiatry,vol. 35,no.2, pp.616-623,2011.   \n[5] L.Fan, Y.Tang,B. Sun et al.,“Sexual dimorphism and asymmetry in human cerebellum: an MRI-based morphometric study\" Brain Research,vol.1353,pp. 60-73,2010.   \n[6] M.E.Frederikse,A.Lu,E.Aylward,P.Barta,and G.Pearlson, “Sex differences in the inferior parietal lobule”Cerebral Cortex, vol. 9, no.8, pp.896-901,1999.   \n[7] M.Ingalhalikar,A.Smith,and D.Parker,“Sex differences in the structural connectome of the human brain” Proceedings of the National Academy of Sciences of the United States of America, vol.1l, no.2,pp.823-828,2013.   \n[8] N.Raz,F. Gunning-Dixon,D.Head,K.M. Rodrigue,A. Williamson, and J. D. Acker,“Aging,sexual dimorphism, and hemispheric asymmetry of the cerebral cortex: Replicability of regional diferences in volume” Neurobiology of Aging, vol. 25, no. 3,pp. 377-396,2004.   \n[9] J.M.Goldstein,L. J. Seidman,N.J.Horton et al.,“Normal sexual dimorphism of the adult human brain assessed by in vivo magnetic resonance imaging\" Cerebral Cortex, vol.11, no.6,pp. 490-497,2001.   \n[10] R.C.Gur, F. Gunning-Dixon,W. B.Bilker,and R.E.Gur, \"Sex differences in temporo-limbic and frontal brain volumes of healthy adults\"Cerebral Cortex,vol.12,no.9,pp.998-1003, 2002.   \n[11] A. M. Rizk-Jackson, S.F Acevedo,D. Inman, D. Howieson, T. S.Benice,and J.Raber,“Effects of sex on object recognition and spatial navigation in humans”Behavioural Brain Research,vol. 173,no. 2, pp.181-190,2006.   \n[12] D.Voyer, S.Voyer,and M.P. Bryden，“Magnitude of sex differences in spatialabilities: a meta-analysis and consideration of critical vriables”’PychologicalBulltin,vol.I17,no. 250-270,1995.   \n[13] L.Wang,H. Shen,F. Tang,Y. Zang,and D. Hu,“Combined structural and resting-state functional MRI analysis of sexual dimorphism in the young adult human brain: an MVPA approach” NeuroImage,vol. 61, no.4, pp.931-940,2012.   \n[14] D.Kimura,\"Sex,sexualorientationand sex hormones influence human cognitive function” Current Opinion in Neurobiology, vol. 6, no. 2,pp. 259-263,1996.   \n[15] J. S.Hyde and M.C.Linn,“Gender differences in verbal ability: a meta-analysis”Psychological Buletin,vol.104,no.1,pp.53-69, 1988.   \n[16] Q. Rahman, G. D. Wilson,and S. Abrahams,“Sex,sexual orientation,and identification of positive and negative facial affect”Brain and Cognition,vol.54,no.3,pp.179-185,2004.   \n[17] T.Canli，J.E.Desmond,Z.Zhao,and J.D.E.Gabrieli, “Sex differences in the neural basis of emotional memories” Proceedings of the National Academy of Sciences of the United States of America,vol.99, no.16,pp.10789-10794,2002.   \n[18] N. Sharma,A.K.Ray, K.K. Shukla et al.,“Automated medical image segmentation techniques”Journal of Medical Physics,vol. 35, no.1,pp. 3-14,2010.   \n[19] B.A.Shaywitz,S.E.Shaywitz,K.R.Pugh et al.,“Sex differences in the functional organization of the brain forlanguage”Nature, vol. 373, no. 6515, pp. 607-609,1995.   \n[20] L. Cahill,“Why sex matters for neuroscience”Nature Reviews Neuroscience,vol.7,no.6,pp. 477-484,2006.   \n[21] B.B. Biswal,M.Mennes,X.-N. Zuo et al.,“Toward discovery science of human brain function”Proceedings of the National Academy of Sciences of the United States of America,vol.107, no. 10, pp. 4734-4739,2010.   \n[22] Y.Zang,T.Jiang,Y.Lu,Y.He,and L. Tian,“Regionalhomogeneity approach to fMRI data analysis” NeuroImage,vol. 22, no.1, pp.394-400,2004.   \n[23] J.S.Damoiseaux, S.A.R.B.Rombouts,F.Barkhof et al., “Consistent resting-state networks across healthy subjects” Proceedings of the National Academy of Sciences of the United States of America,vol.103, no.37, pp.13848-13853,2006.   \n[24] S.Zhu, Z.Fang,S.Hu,Z.Wang,and H.Rao,“Resting state brain function analysis using concurrent BOLD in ASL perfusion fMRI\" PLoS ONE,vol.8, no.6,Article IDe65884,2013.   \n[25] X.-N. Zuo,T. Xu,L. Jiang et al.,“Toward reliable characterization of functional homogeneity in the human brain: preprocessing,scan duration,imaging resolution and computational space”NeuroImage,vol. 65, pp.374-386,2013.   \n[26] S. Zheng, M. Zhang, X. Wang et al.,“Functional MRI study of working memory impairment in patients with symptomatic carotid artery disease'BioMed Research International,vol.2014, Article ID 327270,6 pages,2014.   \n[27] M.Dong,W. Qin,L. Zhao et al.,“Expertise modulates local regional homogeneity of spontaneous brain activity in the resting brain:an fMRI study using the model of skilled acupuncturists” Human Brain Mapping,vol. 35, no.3, pp.1074- 1084,2014.   \n[28] X.Wang, Z. Feng,D. Zhou et al.,“Dissociable self effects for emotion regulation: a study of chinese major depressive outpatients”BioMed Research International,vol.2014,Article ID 390865,1l pages,2014.   \n[29] R.L. Buckner, J. R.Andrews-Hanna,and D.L. Schacter,“The brain's default network:anatomy, function,and relevance to disease”Annals of the New York Academy of Sciences,vol.1124, no.l, pp.1-38,2008.   \n[30]I.Weissman-Fogel, M. Moayedi, K. S. Taylor, G. Pope,and K. D. Davis,“Cognitive and default-mode resting state networks: do male and female brains“rest” differently?” Human Brain Mapping, vol.3l, no.1,pp.1713-1726,2010.   \n[31] K.Wu,Y. Taki,K. Sato et al.,“Topological organization of functional brain networks in healthy children: differences in relation to age,sex,and intelligence”PLoS ONE,vol. 8,no. 2, Article ID e55347,2013.   \n[32] M. Filippi,P. Valsasina,P. Misci,A. Falini, G. Comi,and M. A.Rocca,“The organization of intrinsic brain activity differs between genders: a resting-state fMRI study in a large cohort of young healthy subjects” Human Brain Mapping, vol. 34, no. 6,pp.1330-1343,2013.   \n[33]D.M. Clower,R.A.West,J.C.Lynch,and P.L.Strick, \"The inferior parietal lobule is the target of output from the superior colliculus, hippocampus,and cerebellum” Journal of Neuroscience,vol.21, no.16,pp. 6283-6291,2001. 7   \n[34] J Radua,M.L. Philips,T.Russelletal., “Neural response tospecific components of fearful faces in healthy and schizophrenic adultsNeuromage,vol.49,no.1,pp.939-946,2010.   \n[35] K. Schulze and S. Koelsch,“Working memory for speech and music”Annals of the New York Academy of Sciences,vol.1252, no.l,pp.229-236,2012.   \n[36] C. Y. Wu,M.H.Ho,and S.H. Chen,“A meta-analysis of fMRI studies on Chinese orthographic,phonological,and semantic processing\"NeuroImage,vol. 63,no.1, pp.381-391,2012.   \n[37] O. Felician and P. Romaiguere,“Your body and mine: a neuropsychological perspective”Neurophysiologie Clinique,vol.38, no. 3,pp.183-187,2008.   \n[38] E.F Torrey,“Schizophrenia and the inferior parietal lobule” Schizophrenia Research,vol.97,no.1-3,pp.215-225,2007.   \n[39] Q.He,C. Chen, Q.Dong, G. Xue, Z.-L. Lu,and A. Bechara, “Gray and white matter structures in the midcingulate cortex region contribute to body mass index in Chinese young adults” Brain Structure and Function,2013.   \n[40] T. Paus,“Primate anterior cingulate cortex: where motor control,drive and cognition interface” Nature Reviews Neuroscience,vol. 2,no.6,pp.417-424,2001.   \n[41] R.J. Morecraft and G.W. van Hoesen,“Cingulate input to the primary and supplementary motor cortices in the rhesus monkey: evidence for somatotopy in areas 24c and 23c\" Journal of Comparative Neurology, vol. 322,no. 4,pp. 471-489,1992.   \n[42] M.G.Pereira,L.de Oliveira,F.S.Erthal et al.,“Emotion affects action: midcingulate cortex as a pivotal node of interaction between negative emotion and motor signals, Cognitive,Affective and Behavioral Neuroscience,vol.10,no.1,pp.94-106,2010.   \n[43] S.L. Mann,E.A. Hazlet, W.Byne etal.,“Anterior and posterior cingulate cortex volume in healthy adults: effects of aging and gender differences”Brain Research,vol.140l,pp.18-29,2011.   \n[44] N. M. Schenker-Ahmed and J. Annese,“Cortical mapping by magnetic resonance imaging(MRI) and quantitative cytological analysis in the human brain: a feasibility study in the fusiform gyrus” Journal of Neuroscience Methods,vol. 218, no. 1, pp.9-16,2013.   \n[45] V. Natu and A. J. O'Toole,“The neural processing of familiar and unfamiliar faces: a review and synopsis,British Journal of Psychology,vol.102, no.4,pp.726-747,2011.   \n[46] M.Meng,T. Cherian,G. Singal,and P. Sinha,“Lateralization of face processing in the human brain”Proceedings of the Royal Society B:Biologicaliences,vol.279,no735,p.05206, 2012.   \n[47] J.M.Contreras,M.R.Banaji,and J.P.Mitchell“Multivoxel patterns in fusiform face area differentiate faces by sex and race” PLoS ONE,vol. 8,no.7, Article ID e69684,2013.   \n[48] R.Bruffaerts,P.Dupont, S.De Grauwe et al.,“Right fusiform response patterns reflect visual object identity rather than semantic similarity NeuroImage,vol.83,pp.87-97,2013.   \n[49] K. Tsapkini and B.Rapp,“The orthography-specific functions of the left fusiform gyrus: evidence of modality and category specificity\"Cortex,vol.46,no.2,pp.185-205,2010.   \n[50] J.T. Devlin, H. L. Jamison,L. M. Gonnerman, and P. M. Matthews,\"Theroleofthe posteriorfusiform gyrusinreading\" Journal of Cognitive Neuroscience, vol. 18,no. 6, pp. 911-922, 2006.   \n[51] B.D.McCandliss,L.Cohen,and S.Dehaene,“The visual word form area: expertise for reading in the fusiform gyrus”Trends in CognitiveSciences,vol.7,no.7,pp.293-299,2003. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[52] D.J. Sharp,M.Awad,J.E.Warren,R.J. S.Wise,G.Vigliocco, and S.K. Scott,“The neural response to changing semantic and perceptual complexity during language processing” Human Brain Mapping, vol.31,no.3,pp.365-377,2010. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[53] T. Alison, G. McCarthy, A. Nobre,A. Puce,and A. Belger, “Human extrastriate visual cortex and the perception of faces, words, numbers,and colors”Cerebral Cortex,vol.4,no.5, pp. 544-554,1994.   \n[54] W. K. Simmons, V. Ramjee,M. S. Beauchamp, K. McRae,A. Martin,and L.W. Barsalou,“A common neural substrate for perceiving and knowing about color” Neuropsychologia, vol. 45, no.12,pp. 2802-2810,2007.   \n[55] A.Martin, J. V. Haxby, F M. Lalonde, C.L.Wiggs，and L.G.Ungerleider,“Discrete cortical regions associated with knowledge of color and knowledge of action” Science,vol. 270, no. 5233,pp.102-105,1995.   \n[56] X.Wang,Z. Han,Y. He,A.Caramazza,L.Song，and Y. Bi,“Where color rests: spontaneous brain activity of bilateral fusiform and lingual regions predicts object color knowledge performance\"NeuroImage,vol.76,pp.252-263,2013.   \n[57] C.R. Noback, N.L. Strominger,R. J. Demarest, and D.A. Ruggiero, The Human Nervous System: Structure and Function, Humana Press, 6th edition,2005.   \n[58] R.R. Peeters,G.Rizzolatti,and G.A.Orban,“Functional properties of the left parietal tool use region”NeuroImage, vol. 78,pp. 83-93,2013.   \n[59] G.R.Leichnetz,“Connections of the medial posterior parietal cortex (area 7m) in the monkey”Anatomical Record,vol. 263, no. 2, pp. 215-236,2001.   \n[60] R. Kawashima,P.E. Roland,and B.T. O'Sullivan,“Functional anatomy of reaching and visuomotor learning: a positron emission tomography study” Cerebral Cortex,vol. 5, no. 2, pp. 111-122,1995.   \n[61] S. Zhang and C.-S. R. Li,“Functional connectivity mapping of the human precuneus by resting state fMRI’ NeuroImage, vol. 59, no.4, pp.3548-3562,2012.   \n[62] M. Wallentin,E.Weed,L. Ostergaard, K. Mouridsen,and A. Roepstorf,\"Accessing the mental space-spatial working memory processes for language and vision overlap in precuneus Human Brain Mapping,vol.29,no.5,pp. 524-532,2008.   \n[63] D.Dörfel,A.Werner,M.Schaefer, R.von Kummer,and A.Karl, \"Distinct brain networks in recognition memory share a defined region in the precuneus,’European Journal ofNeuroscience,vol. 30,no.10,pp.1947-1959,2009.   \n[64] M.Freton,C. Lemogne,L.Bergouignan，P. Delaveau, S. Lehéricy,and P.Fossati,“The eye of the self: precuneus volume and visual perspective during autobiographical memory retrieval\"Brain Structure and Function,vol.219, no.3,pp.959- 968,2013.   \n[65] M. Cabanis,M.Pyka, S.Mehl et al.,“The precuneus and the insula in self-attributional processes” Cognitive,Affective and Behavioral Neuroscience,vol.13,no.2,pp.330-345,2013.   \n[66] A.E. Cavanna and M.R. Trimble,“The precuneus: a review of its functional anatomy and behavioural correlates” Brain, vol. 129, no. 3,pp.564-583,2006.   \n[67] B.A. Vogt and S. Laureys,“Posterior cingulate, precuneal and retrosplenial cortices: cytology and components of the neural network correlates of consciousness”Progress in Brain Research, vol.150,pp.205-217,2005.   \n[68] C.L. Colby， R.Gattass,C. R. Olson，and C. G.Gross, \"Topographical organization of cortical afferents to extrastriate visual area PO in the macaque:a dual tracer study”Journal of Comparative Neurology,vol. 269,no.3, pp.392-4l3,1988.   \n[69]D.Rubin,T. Fekete,and L.R.Mujica-Parodi,“Optimizing complexity measures for FMRI data:algorithm,artifact,and sensitivity,PLoS ONE,vol.8,no.5,ArticleID e63448,2013.   \n[70] S.M. Smith,D.Vidaurre,C.F.Beckmann et al.,“Functional connectomics from resting-state fMRI’Trends in Cognitive Sciences,vol.17, no.12,pp.666-682,2013.   \n[71]M.T.R.Stevens,R.C.N.D'Arcy,G.Stroink,D.B.Clarke, and S.D.Beyea,“Thresholds in fMRI studies: reliable for single subjects?” Journal of Neuroscience Methods,vol. 219,no.2, pp. 312-323,2013.   \n[72] M.P.Lopez-Larson,J. S.Anderson,M.A.Ferguson,and D. Yurgelun-Todd,“Local brain connectivity and associations with gender and age’Developmental Cognitive Neuroscience,vol.1, no. 2,pp.187-197,2011.   \n[73]W.Koch, S.Teipel, S.Mueller et al.,“Effects of aging on default mode network activity in resting state fMRI: does the method of analysis matter?” NeuroImage,vol.5l,no.1, pp.280-287,2010. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c710af33733a3d02d90564bf48862f1f7d7ed2e7987f5b215708ac8fa0133d0f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d7a7de126e6db25198d06e98bab49ab07f71f75535fca30e617675b958ec915.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "e Hindawi ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/511c7a56db48ecdcfd70ec3f4d8c0954bec3bcb26d88cc656487a3690649b575.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a70e52883a7ac2d2a73c27803df0ac0687f0d0088b7e871cae0bdf7d77a5b90.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Submit your manuscripts at http://www.hindawi.com ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/eae2369d2349732c7c1970a46d42b4ceaca297566a029274e66be4d00f098ea7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6caad90548569623421ef105487ebcd116b0caf038b5959ca4db80cf5899b29f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    }
+]

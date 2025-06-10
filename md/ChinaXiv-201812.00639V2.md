@@ -1,0 +1,240 @@
+# 理解双人肢体运动表达的友好和敌对意图的ERP证据
+
+# 黄 亮」杨 雪2,3黄志华3,4 王益文 2,3
+
+('闽南师范大学应用心理研究所，漳州363000)(福州大学心理与认知科学研究所，福州350116)(福州大学中国社会信任研究中心，福州 350116)(4福州大学数学与计算机科学学院，福州 350116）
+
+摘要已有的意图理解神经成像研究大多关注理解单一个体的中性或负性意图的脑功能定位，而大脑理解依靠双人肢体运动表达的友好和敌对意图的动态时间过程尚不清楚。本研究记录了20名健康被试完成三种不同意图推理任务时的脑电成分。三种意图分别为：1）友好意图；2）敌对意图；3）中性无互动意图。行为结果发现理解敌对意图的反应时最短。电生理学结果表明，在额中区的N250（170\~270ms）上，中性意图比友好和敌对意图均更负，且友好意图比敌对意图也更负；在大脑右半球的P300（270\~450ms）上，敌对意图比友好和中性意图均更正，且友好意图比中性意图也更正。对友好和敌对意图的N250和 P300 进行溯源分析分别定位于额中回（BA10）和脑岛（BA45）。结果表明大脑在多个阶段对双人肢体运动表达的互动意图进行分类理解，对负性敌对意图表现出较早的理解且晚期持续性的评价加工。
+
+关键词 心理理论；友好意图；敌对意图；双人互动；事件相关电位
+
+# 1引言
+
+社会互动意图理解能力是个体成功与他人进行互动交流的关键技能之一（Cacioppo,Berntson,&Decety,2010；王益文,黄亮,张振,宋娟，白丽英,2014;Wang,Huang,Zhang,Zhang,& Cacioppo,2015）。这种技能在区分他人是朋友还是敌人时显得尤为重要。大量实证研究（Carter&Pelphrey,2008; vanWount& sanfey,2008;Vrtickaet,Andersson,& Sander,2009）表明非言语行为，包括面部表情、肢体语言，提供了个体对他人互动意图进行归因的重要信息，有助于判断对方的行为意图是友好还是敌对的。依据心理哲学和认知语用学，互动（交际）意图指一个人（A）的行为目标在当下至少指向另外一个人（B），并被B所识别接收(Walter etal.,2004)。其中，双人依赖肢体运动来表达互动意图不仅是生活中一种常见且重要的社交情境，而且是个体在毕生发展（尤其是生命早期）与他人进行社会交往、相互学习和维持人际关系的重要手段，探察大脑如何理解双人肢体表达的不同性质的互动意图具有现实意义。已有部分学者（Grafton,2009;Ortigue,Sinigaglia,Rizzolatti,& Grafton,2010）提出具身模仿理论，认为当个体自己过去的动作经历与当前观察到的他人的动作一致时能够促进个体对他人互动意图的理解。当被观察者越为个体所熟悉时，越容易促进互动意图的理解（Cacioppo,Juan,&Monteleone,2017）。认知神经影像学研究已表明，额-顶动作观察网络和社会脑网络（包含内侧前额叶皮层（medial prefrontal cortex,mPFC），颞顶联合皮层（temporal parietal junction,TPJ）和后部颞上沟等区域）在理解双人肢体运动表达的互动意图中扮演着重要角色（Centelles,Assaiante,Nazarian,
+
+Anton,& Schmitz,2011）。尽管大多数神经成像研究（Ortigue et al,2010; Young& Saxe,2009）在探察理解中性意图的神经机制方面取得了一定进展，越来越多的研究开始逐渐由此转向理解带有情绪内容的动作意图方面迈进。在过去的五年里，绝大多数的神经成像研究（Decety&Cacioppo,2012;Sinke,Sorger,Goebel,&De Gelder,2010）集中揭示了消极性（疼痛或伤害）意图领域的脑动态加工网络，包括TPJ、背外侧 mPFC、杏仁核和扣带皮层等负责动作观察、疼痛、心理理论和道德判断的脑区。近来对积极性意图的认知神经机制的研究也有了新的进展。Yoder和Decety（2014）研究发现在两人互动的社会情境下，与伤害性动作相比，互助性动作显著激活了右侧背外侧PFC 和右侧 TPJ等两个一般被认为是负责自我-他人评价和道德决策判断的脑区。甘甜、石睿、刘超和罗跃嘉（2018）采用经颅直流电刺激技术证实右侧 TPJ在助人意图加工中的核心作用。以上神经成像研究对揭示大脑理解不同性质的互动意图的空间特征较有裨益。然而，由于功能性核磁共振技术（functional magneticresonance image,fMRI）的时间分辨率较低，对不同性质的互动意图（比如，友好意图和敌对意图）在这些大脑神经网络中的动态时空加工特征尚不清楚。
+
+正确理解不同性质的社会互动意图是个体生存与发展必备技能之一。只有准确而快速的理解他人的互动意图，我们才能正确地选择应对策略和反应方式，做出与对方展开合作还是应对冲突的决策（王益文等,2014;Wang etal.,2015）。认知推理他人不同性质的互动意图对于评价他人的行为是好还是坏，是有害还是无害，是友好还是敌对的是人类社会行为的一个重要成分（Blakemore＆Decety,2001;Malle&Holbrook,2012）。发展心理学研究发现2岁甚至更早的幼儿，与敌对个体相比，更多表现出对友好个体的偏好（Buon etal.,2014），且能依据互动双方共同或相反的评价来理解他们之间是朋友还是敌人（Liberman,Kinzler&Woodward,2014）。据研究者所知，目前采用高时间分辨率的事件相关电位（Event-relate potential,ERP）技术探察社会互动情境下不同性质的互动意图的神经动态加工时程的研究尚不多。Wang等人（2012）采用卡通漫画作为实验材料，研究结果发现了个体理解私人意图诱发的N250成分要显著负于交际意图，而交际意图在 $4 0 0 { \sim } 6 0 0 ~ \mathrm { m s }$ 时间窗口诱发的晚期正成分（late positive component,LPC）则显著正于私人意图，并据此提出理解私人意图（相当于不存在互动的生物运动）要先于理解交际（互动）意图的两阶段加工模型。Wang,Zheng,Lin,Wu 和 Shen（2011）及王益文、黄亮等人（2012）还发现，理解单人心理是理解互动心理的基础，两者属于心理理论不同层次的加工水平，并据此提出心理理论的多层次模型。然而上述研究并没有对不同性质的互动（交际)意图进行细致区分，上述理论模型的内涵有待进一步丰富并获得更多一致性证据的支持。Decety 和Cacioppo（2012）要求被试观看两种简短的包含道德内涵的动作场景：故意伤害行为和无意伤害行为。研究结果发现在刺激呈现后大脑右侧后部颞上沟（ $6 0 ~ \mathrm { m s }$ ）、杏仁核/颞极（ $1 2 2 ~ \mathrm { m s } ^ { \cdot }$ ）和腹内侧PFC（182ms）在观看故意伤害行为的场景时先后被激活。该研究揭示了大脑在道德认知较早阶段的快速信息加工时空特征（Decety&Cacioppo,2012）。Proverbio 等人（2011）采用高生态效度的图片材料，发现在合作性互动场景诱发的N2（ $1 6 0 { \sim } 2 8 0 ~ \mathrm { m s }$ ）波幅比情感性互动场景更负。王益文等人（2014）及Wang 等人（2015）在以往研究的基础上，采用ERP技术和生态效度更高的真人照片作为刺激材料，发现了在刺激呈现后较早阶段（ $1 7 0 { \sim } 2 7 0 ~ \mathrm { m s }$ ）友好意图诱发的N2成分要显著负于敌对意图，而晚期阶段（ $2 7 0 { \sim } 5 0 0 ~ \mathrm { m s }$ ）敌对意图的诱发的P3成分要显著正于友好意图，在 $7 0 0 { \sim } 8 0 0 ~ \mathrm { m s }$ 进一步发现互动意图（友好和敌对意图)和无互动意图的LPC 波幅存在显著差异。LPC 通常是指刺激呈现约 $3 0 0 ~ \mathrm { { m s } }$ 之后出现的一个正 ERP 成分，可能反映大脑对心理理论不同层次水平的加工（Wang etal.,2012）。Liu,Sabbagh,Gehring,&Wellman（2004）发现在大脑的左侧前额区，理解他人心理状态的LPC 成分（约在刺激呈现后 $8 0 0 ~ \mathrm { { m s } }$ ）与理解物理世界有显著差异。王益文、郑玉玮、沈德立、崔磊和闫国利（2012）采用四字成语做为材料考察解读互动心理和单个人心理的差异，发现在 $7 0 0 { \sim } 8 0 0 ~ \mathrm { m s }$ 时，在额中区的LPC只与解读互动心理有关。尽管上述研究进一步丰富了社会意图领域的研究，并对大脑理解友好意图和敌对意图（定义可详见黄亮、邓兆鑫、任翰林、林国耀、王益文（2018）的研究）的时空动态加工机制进行了直接的探察，但以往研究多采用头部掩蔽或黑白照片，实验材料的生态效度有待进一步提高。此外，王益文等人（2014）的研究中对中性无互动意图的设置可能导致：（1）被试可能通过简单的物理视觉线索（人物背对彼此）就能够将无互动和互动意图区分开来，不涉及到心理意图加工；（2）在日常生活中两人由初始时相向而立到接下来背对彼此站立，容易被观察者知觉为一种不友好的负性社交场景（如，两人不喜欢彼此或发生了冲突分歧）。其行为研究结果发现在正确率和反应时上均存在意图条件的主效应，也进一步表明三种条件可能在任务难度上存在显著差异，无法完全排除ERP成分受任务难度的影响。另外，王益文等人（2014）认为发生在脑内较早阶段的N2 成分仅与友好意图的理解有关联，而行为结果却显示理解友好意图的反应时显著长于其它条件，两者之间似乎并不能完全相互支持。尽管他们给予了较恰当的解释，认为是两种指标反映的心理加工阶段不同导致，但上述问题有待于进一步阐释说明。
+
+为考察大脑理解友好、敌对互动和中性无互动三种意图的动态时空加工时程，研究记录了被试观看两个人物肢体动作表达的三类意图的彩色照片并完成意图推理任务时的脑电变化，并进行脑溯源分析其空间特征。每个试次中包括两张照片，先后分别是动作准备及执行照片。值得说明的是，本研究中的中性无互动意图是严格参照Walter等人（2004）、Wang 等人（2012）及王益文、黄亮等人（2012）的操作定义进行实践,包含两个个体不相关联的私人意图内涵。基于以往的研究（Proverbio etal.,2011;Wang etal.,2015;王益文，黄亮等,2012；王益文等,2014），研究者假设在动作执行照片呈现后的较早加工阶段，中性意图诱发的N250成分会显著负于友好意图，且友好意图诱发的N250成分也会显著负于敌对意图，出现中性、友好和敌对意图加工的初步分离；而在加工晚期，理解敌对意图时诱发的P300成分可能显著正于友好意图和中性意图，理解敌对和友好互动意图的LPC成分也会显著正于中性意图，大脑理解不同性质的社会互动意图的动态时空特征不同。
+
+# 2 方法
+
+# 2.1被试
+
+20 名在校大学生（10女10男，年龄范围为 $1 9 \sim 2 5$ 岁，平均年龄为22.5岁），右利手，视力或者矫正视力正常，没有精神病史，在实验前均签署了知情同意书，实验后给予一定的报酬。
+
+# 2.2 实验材料
+
+实验范式参考王益文等人（2014）及Wang等人（2015）的研究范式，本研究采用两张照片（动作准备及执行照片）先后呈现的方式，使照片中人物的动作产生运动变化的景象，要求被试在第二张动作执行照片呈现时先理解清楚后再尽快判断照片中两个人物的活动场景（Decety&Cacioppo,2012;Ortigue etal.,2010）。为保证实验材料的生态效度，本研究的实验材料是采用数码相机拍摄，演员为两名男性在校研究生（年龄均为27岁，身高分别为178厘米和176厘米）和两名女性在校研究生（年龄分均为24岁，身高分别为165厘米和158厘米），同性别的演员处于同一场景，照片中左边的人物始终作为动作的发起者。实验条件分为三种：友好意图、敌对意图、中性无互动意图。第一种条件描述的是两名人物友好合作的场景，例如一名人物拿着矿泉水瓶然后递给另外一个人物，另外一个人物伸手去接（见图1a）；第二种条件描述的是两名人物敌对冲突的场景，例如一名人物拿着矿泉水瓶然后砸向另外一个人物，另外一个人物抬手去挡（见图1b）；第三种条件作为控制条件，描述的是两名人物之间不存在互动、各自独立活动的场景，例如一名人物拿着矿泉水瓶，然后该人物将矿泉水瓶放在自己嘴边，另外一个人物则自己看着手机（见图1c）。每种实验条件下拍摄了70组照片，每组照片由2张构成，因而每种条件下共有140张照片。由于三种条件下相对应的每组照片中的第一张动作准备照片是相同的，仅在于第二张动作执行照片不同，因此三种条件下总共280张照片（相关示例请见图1）。为了防止面部情绪和眼睛注视等线索对被试理解人物动作意图的干扰，所有照片经Photoshop对人物面部进行了马赛克处理，照片大小（ $4 \mathrm { c m } \times 3 \mathrm { c m }$ ）、像素（ $4 7 2 \times 3 5 4$ ）统一，颜色为彩色照片，照明度、对比度和饱和度一致。
+
+首先随机选取10名在校大学生（男女人数各半，年龄在19\~26岁之间），要求他们判断三种条件下每组照片（含动作准备和执行照片）中两个人物的活动场景：如果认为左边人物对右边人物是友好的，请按J键；如果认为左边人物对右边人物是无意图的（两人之间不存在互动），请按K键；如果认为左边人物对右边人物是敌意的，请按L键。每一组照片判断结束后，紧接着要求他们如实根据自身的感受对做出该判断的难易程度进行5点评定（“1"代表非常容易，“2"代表有些容易，“3”代表一般，“4"代表比较困难，“5"代表非常困难）。剔除反应时超过 $2 0 0 0 ~ \mathrm { { m s } }$ 和正确率低于 $60 \%$ 的照片，最后筛选出符合要求的每种条件下的照片各40组，选择其中10组作为练习实验材料，剩余的30 组照片（男性照片和女性照片各15组）作为正式实验材料。对三种条件下的任务难度等级评定进行单因素方差分析，结果发现不存在条件的显著差异， $F \left( 2 , 1 1 7 \right) = 2 . 0 3$ ， $\scriptstyle { p = 0 . 1 3 6 }$ 。该结果说明三种不同的意图条件不存在任务难度的显著差异。然后另外随机选取10名在校大学生（男女生人数各半，年龄在 $1 8 \sim 2 2$ 岁之间），要求他们对三种条件下的每组照片中两个人物活动的友好或冲突程度做 5点评定（“1"代表非常友好，“2"代表有些友好，“3"代表说不定，“4”代表有些冲突，“5"代表非常冲突）。经单因素方差分析发现，三种不同条件下的照片友好或冲突的程度差异极其显著， $F ( 2 , 1 1 7 ) { = } 1 1 1 1 . 0 0 .$ $p { < } 0 . 0 0 1$ 。进一步事后分析发现，友好条件下照片的得分（ $1 . 4 8 { \pm } 0 . 2 4 ^ { \cdot }$ ）要显著小于中性条件下照片的得分（ $3 . 0 0 { \scriptstyle \pm 0 . 1 6 } )$ ， $p { < } 0 . 0 0 1$ ，以及显著小于敌对条件下照片的得分（ $( 4 . 2 1 \pm 0 . 3 5 )$ ， $p { < } 0 . 0 0 1$ ，并且中性条件下照片的得分显著小于敌对条件下照片的得分， $p { < } 0 . 0 0 1$ 。以上分析表明三种条件下的照片描述的友好或冲突程度有很好的区分度。所有参与实验评定的被试均未参加正式实验。
+
+特别需要说明，在日常社会交往中，人们不仅通过观察对方的身体语言来获得其运动意图信息，而且常常将对方的面部表情和身体语言结合起来判断对方的意图。许多研究（Van Wount& Sanfey，2008; Carter & Pelphrey,2008;Vrticka,Andersson,& Sander,2009; Güroglu et al.,2008）发现，个体的不同效价的面部表情会影响到被试对个体意图的判断并影响到被试随后的决策行为。本研究中，我们对表演者的面部做了马赛克处理，减少了不同效价的面部表情以及眼睛注视等线索对身体语言理解的影响，从而避免了其他因素对实验结果的污染。另外，本研究采用彩色人物照片和添加女性动作演员，在实验材料的生态效度和对无关变量的控制等方面都改进了以往的研究（王益文，黄亮等，2012；王益文等,2014）。除此之外，所有照片的物理属性匹配很好，不同实验条件下照片中的人物和物体、以及人物身体朝向基本是完全一致的，排除了被试的脑电数据差异是由于不同物理属性和任务难度差异所造成的。
+
+![](images/75d63ebd24b957677317ad3264c45a59a79453c823b2d56a7a98c7ae7607bf1f.jpg)  
+图1实验流程图示
+
+# 2.3 实验设计
+
+被试内单因素三水平（意图水平：友好意图、敌对意图和中性意图）的脑认知实验设计。行为学指标为正确率和反应时，电生理学指标详见2.6部分。
+
+# 2.4 实验程序
+
+试验流程见图1。在每个试次中，被试首先会看到提醒其实验已开始的“ $^ { + }$ "注视点 $5 0 0 ~ \mathrm { { m s } }$ ，然后是一张持续 $1 0 0 0 ~ \mathrm { { m s } }$ 的动作准备照片，在 $4 0 0 { \sim } 6 0 0 ~ \mathrm { m s }$ 的随机间隔之后，呈现 $1 5 0 0 ~ \mathrm { { m s } }$ 的动作执行照片。在 $4 0 0 { \sim } 6 0 0 ~ \mathrm { m s }$ 随机间隔后进入下一个试次。试验总试次为270次，三种意图条件下各90次，呈现顺序是伪随机。整个试验分两段进行，中间让被试充分休息。实验任务为要求被试在呈现动作执行照片时，思考前后两张照片的内在联系，先理解准确后再尽快判断。判断方式为按键反应，为避免左、右手混淆，均用右手反应。如果你认为照片中的左边人对右边人是友好的，请按1键；如果你认为照片中左边人对右边人没有意图，请按2键；如果你认为照片中左边人对右边人是敌意的，请按3键。被试需要在 $1 5 0 0 ~ \mathrm { { m s } }$ 内做出反应，按键方式在被试间平衡，超过 $1 5 0 0 ~ \mathrm { { m s } }$ 视为未反应。正式实验前，被试先进行一个简短的练习实验以熟悉实验程序，练习实验与正式实验的材料不同。
+
+# 2.5 脑电记录
+
+采用国际 $1 0 { \sim } 2 0$ 系统扩展的64导电极帽，以NeuroScan系统记录EEG信号。脑电记录时所有电极参考置于左乳突的一只参考电极，离线分析时再次以置于右乳突的有效电极进行再参考，即从各导联信号中减去1/2该参考电极所记录的信号，转化为以双侧乳突的平均值为参考。同时记录双眼外侧的水平眼电（HEOG）和左眼上下眶的垂直眼电（VEOG）。滤波带通为 $0 . 0 5 { \sim } 1 0 0 \ \mathrm { H z }$ ,AC采样，采样频率为 $1 0 0 0 ~ \mathrm { H z / }$ 导，所有电极与头皮之间阻抗都小于 $5 \mathrm { k } \Omega$ 。对数据进行离线分析，矫正眼电伪迹,自动排除其他波幅大于 $\pm 7 5 \mu \mathrm { V }$ 的伪迹信号。
+
+# 2.6 ERP数据处理与统计分析
+
+在本研究中，仅对动作执行照片呈现时的脑电数据进行分析和叠加，并且根据照片呈现时的行为反应数据，对正确反应的EEG进行叠加平均。分析时程为动作执行照片呈现后 $8 0 0 ~ \mathrm { { m s } }$ ，该刺激呈现前 $2 0 0 ~ \mathrm { { m s } }$ 作为基线。本研究主要比较三类不同动作执行照片所诱发的ERPs成分的波幅的差异。采用SPSS16.0 软件包录入数据并进行统计分析。据已有研究（Wang,Ling,Yuan,Huang,& Shen,2010;
+
+Wang et al.,2012；王益文等人，2014)和本研究目的，选择9个电极点F3/FZ/F4、C3/CZ/C4、P3/PZ/P4,进行进一步的数据分析。图2显示了20名被试在三种条件下的 ERP总平均波形。从图上可以看出，三种条件（友好意图、敌对意图、中性意图）下均诱发明显的N250、P300 和LPC 成分。N250 和 P300的测量指标是峰值，其时间窗口分别为 $1 7 0 { \sim } 2 7 0 ~ \mathrm { m s }$ 和 $2 7 0 { \sim } 4 5 0 ~ \mathrm { m s }$ 。此外，从 $4 5 0 { \sim } 7 5 0 ~ \mathrm { m s }$ 以每 $1 0 0 ~ \mathrm { { m s } }$ 为间隔测量LPC 的平均波幅。对在上述9个电极点上测得的 ERPs成分的波幅进行3（意图水平：友好意图、敌对意图、中性意图） $\times 3$ （电极左右分布：左半球、中线、右半球） $\times 3$ （电极前后分布：额区、中央区、顶区）三因素重复测量方差分析。所有主效应和交互作用的 $p$ 值均采用Greenhouse-Geissr 法校正，事后配对比较采用 Bonferroni法校正。正式实验中每个实验条件的照片组重复3次，即每个条件下90个试次。去伪迹后，友好意图、敌对意图和中性意图三种条件下ERP总平均的有效叠加次数分别为70,71和72。用 sLORETA软件对友好和敌对意图条件下的N250 和P300 进行溯源定位，考察大脑理解友好和敌对互动意图的空间特征。
+
+# 3 结果
+
+# 3.1 行为结果
+
+友好、敌对和中性三种条件的平均正确率见表1。采用单因素重复测量方差分析发现，不存在正确率的显著差异， $F \left( 2 , \ 3 8 \right) = 3 . 4 0$ ， $p { > } 0 . 0 5$ 。该分析说明三种不同条件在任务难度上是基本相当的，与材料筛选中对实验任务难度的评定是相一致的。
+
+友好、敌对和中性三种条件的平均反应时见表1。采用单因素重复测量方差分析发现，存在反应时的显著差异， $F \left( 2 , \ 3 8 \right) = 4 2 . 7 4$ ， $p { < } 0 . 0 0 1$ ， $M S E { = } 1 7 4 1 . 6 6$ ， $\eta _ { p } { } ^ { 2 } \mathrm { = } 0 . 6 9$ 。事后分析发现，友好和中性条件的反应时均显著长于敌对条件， $p s { < } 0 . 0 0 1$ ，而友好与中性条件的反应时差异不显著， $p { > } 0 . 0 5$
+
+表1三种意图动作分类任务的正确率和反应时 $( M { \pm } S D )$   
+
+<html><body><table><tr><td>任务</td><td>正确率(%)</td><td>反应时(ms)</td></tr><tr><td>友好意图</td><td>93.22±3.07</td><td>829±111</td></tr><tr><td>敌对意图</td><td>95.19±1.51</td><td>716±93</td></tr><tr><td>中性意图</td><td>94.71±3.01</td><td>799±82</td></tr></table></body></html>
+
+# 3.2 ERP结果
+
+# 3.2.1 N250
+
+对N250的峰值进行3（意图水平） $\times 3$ （电极左右分布） $\times 3$ （电极前后分布）的三因素重复测量方差分析（见表2），发现意图水平的主效应差异极其显著， $F \left( 2 , 3 8 \right) = 1 5 . 9 7$ ， $p { < } 0 . 0 0 1$ ， $M S E { = } 6 . 5 9$ ， $\eta _ { p } ^ { 2 }$ $\scriptstyle = 0 . 4 6$ 。事后比较分析发现中性条件的波幅（ $- 2 . 7 2 { \pm } 0 . 7 9 \mu \nu$ ）比友好（ $- 1 . 6 9 { \pm } 0 . 6 8 \mu \nu$ ）和敌对条件0 $( - 1 . 2 4 \pm 0 . 8 2 \mu \nu$ ）均更负， $p s { < } 0 . 0 5$ ，而友好与敌对条件的波幅无显著差异， $p { > } 0 . 0 5$ （见图3a左侧）。
+
+统计分析结果还发现意图水平与电极前后分布的交互作用显著， $F ~ \left( ~ 4 , 7 6 ~ \right) ~ { = } 4 . 0 7$ ， $\scriptstyle p < 0 . 0 5$ ，$M S E { = } 3 . 1 6$ ， $\eta _ { p } { } ^ { 2 } = 0 . 1 8$ 。简单效应分析发现条件在全脑上均存在显著差异， $p s { < } 0 . 0 5$ 。事后进一步分析发现，在大脑额区，中性条件的波幅比友好和敌对条件均更负， $p s { < } 0 . 0 5$ ，且友好条件的波幅也比敌对条件也更负， $\scriptstyle p < 0 . 0 5$ 。在大脑中央区，中性条件的波幅比友好条件更负， $\scriptstyle { p < 0 . 0 5 }$ ，中性条件的波幅比敌对条件也更负， $p { < } 0 . 0 0 1$ ，友好与敌对条件的波幅则无显著差异， $p { > } 0 . 0 5$ 。在大脑顶区，仅发现中性条件的波幅比友好条件更负， $p { < } 0 . 0 1$ ，未发现其它显著差异。统计分析结果还发现意图水平与电极左右分布的交互作用， $F$ （4,76) $^ { - 3 . 3 7 }$ ， $\scriptstyle p < 0 . 0 5$ ， $M S E { = } 0 . 9 1$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 1 5$ 。简单效应分析发现条件在全脑上均存在显著差异， $p s { < } 0 . 0 0 1$ 。事后进一步分析发现，在大脑全脑上均发现中性条件的波幅比友好和敌对条件均更负， $p s { < } 0 . 0 5$ ，而友好和敌对条件的波幅则无显著差异， $p s { > } 0 . 0 5$ 。
+
+值得注意的是，统计分析结果显示意图水平与电极前后、左右分布的三重交互作用极其显著， $F$ （8,152） $\mathsf { \Omega } = 8 . 6 1$ ， $p { < } 0 . 0 0 1$ ， $\mathit { M S E } { = } 1 . 0 1$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 3 1$ 。该结果表明友好、敌对和中性三种条件在某些电极分布上存在显著差异。简单效应分析发现三种条件在大脑的F3、FZ、F4、C3、 $\mathrm { C z }$ 、C4、P3 和PZ 点均发现存在显著差异，仅在P4点未发现有显著差异。简单简单效应分析发现，在左侧额区（F3）和左侧中央区（C3），仅发现中性条件的波幅比敌对条件更负， $p s { < } 0 . 0 5$ ，未发现其它显著差异。在额中区（FZ），中性条件的波幅比友好和敌对条件均更负， $p s { < } 0 . 0 5$ ，且友好条件的波幅比敌对条件也更负， $\scriptstyle { p = 0 . 0 4 2 }$ 。在F4、CZ、C4、P3 和PZ，均发现中性条件的波幅比友好和敌对条件都更负， $p s < 0 . 0 5$ ，而友好与敌对条件的波幅则无显著差异， $p s { > } 0 . 0 5$ 。
+
+综上可知，在大脑额区（尤其在FZ点）发现了3种意图条件的两两分离，中性条件的N250 波幅比友好和敌对条件均更负，且友好条件的N250 波幅比敌对条件也显著更负。
+
+# 3.2.2 P300
+
+对 P300的峰值进行了三因素重复测量方差分析（见表2），发现意图水平的主效应差异极其显著， $F \left( 2 , 3 8 \right) = 1 9 . 8 5$ ， $p { < } 0 . 0 0 1$ ， $M S E { = } 2 7 . 8 4$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 5 1$ 。事后分析发现，敌对条件的波幅（ $1 0 . 7 3 { \scriptstyle \pm 0 . 0 6 \mu \nu } )$ 比友好（ $8 . 6 2 { \pm } 0 . 7 4 \mu \nu$ ）和中性条件（ $7 . 8 6 { \pm } 0 . 7 7 \mu \nu$ ）均更正， $p s { < } 0 . 0 1$ ，友好与中性条件的波幅也达到边缘显著差异， $\scriptstyle { p = 0 . 0 6 9 }$ （见图3a右侧）。
+
+统计分析结果还发现意图水平与电极前后分布的交互作用显著， $F \ ( 4 , 7 6 ) \ = 1 2 . 1 8$ ， $p { < } 0 . 0 0 1$ ，$M S E { = } 6 . 5 1$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 3 9$ 。简单效应分析发现，条件在全脑上均有显著差异， $F$ （2,38） $= 6 . 9 0 / 1 4 . 9 0 / 2 7 . 8 4$ $p s { < } 0 . 0 1$ 。事后进一步分析发现，在大脑额区，友好和敌对条件的波幅均比中性条件更正， $p s { < } 0 . 0 5$ ，友好与敌对条件则无显著差异， $p { > } 0 . 0 5$ 。在大脑中央区和顶区，均发现敌对条件的波幅比友好和中性条件都更正， $p s { < } 0 . 0 1$ ，而友好与中性条件则无显著差异， $p s { > } 0 . 0 5$ 。统计分析结果还发现意图水平与电极左右分布的交互作用， $F \ ( 4 , 7 6 ) \ = 1 5 . 2 3$ ， $p { < } 0 . 0 0 1$ ， $M S E { = } 2 . 6 4$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 4 5$ 。简单效应分析发现，条件在全脑上均存在显著差异， $p s { < } 0 . 0 1$ 。事后进一步分析发现，在大脑左半球，仅发现敌对条件的波幅比中性条件更正， $\scriptstyle p < 0 . 0 5$ ，未发现其它显著差异。在大脑中线，敌对条件的波幅比友好和中性条件均更正， $p s { < } 0 . 0 1$ ，友好与中性条件则无显著差异， $_ { p = 0 . 5 3 1 }$ 。在大脑右半球，敌对条件的波幅比友好和中性条件均更正， $p s { < } 0 . 0 0 1$ ，且友好条件比中性条件也更正， $p { < } 0 . 0 1$ 。该结果表明在大脑右半球，从中性、友好到敌对三种条件的激活程度呈现出阶梯递增的现象。
+
+值得注意的是统计分析结果显示条件与电极前后、左右分布的三重交互作用极其显著， $F ( 8 , 1 5 2 )$ （204号$_ { = 6 . 8 7 }$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle M S E = 1 . 2 6$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 2 7$ 。简单效应分析发现三种条件在大脑FZ、F4、Cz、C4、P3、PZ和P4 等点均发现存在显著差异，仅在F3和C3等点未发现有显著差异。简单简单效应分析却未发现在额中区（FZ）存在条件的显著差异， $p { > } 0 . 0 5$ 。在中央区（CZ）、左侧顶区（P3）、中部顶区（PZ）和右侧顶区（P4），敌对条件的波幅比友好和中性条件均更正， $p s { < } 0 . 0 1$ ，友好与中性条件的波幅则无显著差异， $p s { > } 0 . 0 5$ 。在右侧额区（F4）和右侧中央区（C4），敌对条件的波幅比友好和中性条件均更正， $p s { < } 0 . 0 5$ ，友好条件的波幅比中性条件也更正， $p s { < } 0 . 0 5$ 。该趋势与上面提到的右半球优势效应基本一致。
+
+综上可知，在大脑右半球（尤其在F4和C4点）发现了3种意图条件的两两分离，敌对条件的
+
+P300 波幅比友好和中性条件显著更正，且友好条件的P300 波幅比中性条件也显著更正。
+
+表2N250和P300 的波幅方差分析结果  
+
+<html><body><table><tr><td>时间窗□ (ms)</td><td>主效应 F (2,38)</td><td>条件与电极前后分 布交互作用 F (4,76)</td><td>条件与电极左右分 布交互作用 F (4,76)</td><td>条件与电极前后、 左右分布交互作用 F (8,152)</td><td>事后比较</td></tr><tr><td>170~270</td><td>15.97***</td><td>4.07*</td><td>3.37*</td><td>8.61***</td><td>1-2,2-3***,1-3*</td></tr><tr><td>270~450</td><td>19.85***</td><td>12.18***</td><td>15.23***</td><td>6.87***</td><td>1-2**,2-3***,1-3</td></tr></table></body></html>
+
+注：事后比较中1代表友好意图，2代表敌对意图，3代表中性意图.（\*\*\* $\scriptstyle p < 0 . 0 0 1$ ，\*\* $p { < } 0 . 0 1$ ＊， $p { < } 0 . 0 5$ ）
+
+![](images/58069d8c6773881628aa44a5aeebd0967c552f89c6a6eb019d1fee748d2043b5.jpg)  
+图2友好、敌意、中性意图条件下ERP总平均波形图
+
+# 3.2.3 LPC
+
+对 $4 5 0 { \sim } 7 5 0 ~ \mathrm { m s }$ 的平均波幅，以每 $1 0 0 ~ \mathrm { { m s } }$ 为间隔，做三因素重复测量方差分析（见表3）。统计分析结果发现在 $4 5 0 { \sim } 5 5 0 ~ \mathrm { m s }$ 时间窗口，存在意图水平的主效应差异， $F \ : \ : ( \ : 2 , \ : 3 8 \ : ) \ : \ : = 1 2 . 3 9 , p { < } 0 . 0 0 1 .$ $\scriptstyle M S E = 2 0 . 3 2$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 4 0$ 。事后分析发现，友好条件（ $6 . 1 4 { \scriptstyle \pm 0 . 7 6 \mu \nu }$ ）和敌对条件（ $6 . 9 4 { \scriptstyle \pm 0 . 9 5 \mu \nu }$ ）的波幅均比中性条件（ $4 . 6 5 { \scriptstyle \pm 0 . 7 8 \mu \nu }$ ）更正， $p { < } 0 . 0 1$ ，而友好与敌对条件则无显著差异， $p { > } 0 . 0 5$ 。
+
+统计分析结果还发现存在意图水平与电极前后分布的交互作用， $F ~ ( 4 , 7 6 ) ~ = 1 4 . 3 6 , p { < } 0 . 0 0 1$ $\scriptstyle M S E = 4 . 7 4$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 4 3$ 。简单效应分析发现在全脑区均存在条件的显著差异， $p s { < } 0 . 0 0 1$ 。事后进一步分析发现，在大脑额区和中央区，友好和敌对条件的波幅均比中性条件更正， $p s { < } 0 . 0 5$ ，而友好与敌对条件则无显著差异， $p s { > } 0 . 0 5$ 。在大脑顶区，敌对条件的波幅比友好和中性条件均更正， $p s { < } 0 . 0 1$ ，而友好与中性条件则无显著差异， $p { > } 0 . 0 5$ 。统计分析结果还发现存在意图水平与电极左右分布的交互作用， $F \ ( 4 , 7 6 ) \ = 6 . 1 6$ $p { < } 0 . 0 1$ ， $M S E { = } 2 . 9 7$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 2 5$ 。简单效应分析发现在大脑中线和右半球存在条件的显著差异， $p s { < } 0 . 0 0 1$ 。事后进一步分析发现，在大脑的中线，仅发现敌对条件的波幅比中性条件更正， $p < 0 . 0 1$ ，未发现其它显著差异。在大脑的右半球，敌对条件的波幅比友好和中性条件均更正，$p s { < } 0 . 0 5$ ，友好比中性条件的波幅也更正， $p { < } 0 . 0 0 1$ 。
+
+统计分析结果还发现存在意图水平与电极左右、前后分布的三重交互作用， $F ~ \left( 8 , 1 5 2 \right) ~ { = } 4 . 2 7$ 0$p { < } 0 . 0 1$ ， $\scriptstyle M S E = 1 . 2 5$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { = } 0 . 1 8 4$ 。简单效应分析发现三种条件在大脑的F3、FZ、F4、 $\mathrm { C z }$ 、C4、P3、PZ和 P4均发现存在显著差异，仅在C3未发现有显著差异。简单简单效应分析发现在左侧额区（F3）和额中区（FZ），仅发现友好条件的波幅比中性条件更正， $p s { < } 0 . 0 1$ ，未发现其它显著差异。在中央区（CZ），仅发现敌对条件的波幅比中性条件更正， $p { < } 0 . 0 1$ ，未发现其它显著差异。在右侧额区（F4）和左侧顶区（P3），友好和敌对条件的波幅均比中性条件更正， $p s { < } 0 . 0 0 1$ ，而友好与敌对条件的波幅则无显著差异， $p s { > } 0 . 0 5$ 。在右侧中央区（C4），友好和敌对条件的波幅均比中性条件更正， $p { < } 0 . 0 1$ ，敌对条件的波幅比友好条件也更正， $p { < } 0 . 0 1$ 。在中部顶区（PZ）和右侧顶区（P4），敌对条件的波幅比友好和中性条件均更正， $p s { < } 0 . 0 1$ ，而友好与中性条件的波幅则无显著差异， $p s { > } 0 . 0 5$ 。
+
+统计分析结果发现在 $5 5 0 { \sim } 6 5 0 ~ \mathrm { m s }$ 时间窗口，存在意图水平的主效应差异， $F ( 2 , 3 8 ) { = } 3 . 6 9$ ， $\scriptstyle p < 0 . 0 5$ ，$M S E { = } 3 3 . 5 7$ ， $\eta _ { p } { } ^ { 2 } \mathrm { = } 0 . 1 6$ 。事后分析仅发现友好条件的波幅（ $6 . 7 8 { \scriptstyle \pm 0 . 7 5 \mu \nu }$ ）比中性条件（ $5 . 2 9 { \pm } 0 . 8 2 { \mu \nu }$ 更正， $\scriptstyle p < 0 . 0 5$ ，而友好条件的波幅与敌对条件（ $6 . 5 4 { \pm } 0 . 9 0 { \mu } \nu$ ）无显著差异， $p { > } 0 . 0 5$ ，敌对条件与中性条件的波幅也无显著差异， $p { > } 0 . 0 5$ 。
+
+统计分析结果还发现存在意图水平与电极前后分布的交互作用， $F \ ( \ 4 , 7 6 ) \ = 9 . 1 0 , p { < } 0 . 0 0 1$ ，$\mathit { M S E } { = } 5 . 7 8$ ， $\scriptstyle \eta ^ { 2 } = 0 . 3 2$ 。简单效应分析发现在大脑额区和中央区存在显著差异， $p s { < } 0 . 0 1$ 。事后进一步分析发现，在大脑额区，仅发现友好条件的波幅比中性条件更正， $p { < } 0 . 0 1$ ，未发现其它显著差异。在大脑中央区，友好和敌对条件的波幅均比中性条件更正， $p s { < } 0 . 0 5$ ，友好与敌对条件则无显著差异， $\scriptstyle { p = 1 . 0 0 0 }$ 0统计分析结果还发现存在意图水平与电极左右分布的交互作用， $F ( 4 , 7 6 ) { = } 4 . 3 4$ ， $p { < } 0 . 0 1$ ， $\scriptstyle M S E = 2 . 9 5$ ， $\eta _ { p } ^ { 2 }$ $= 0 . 1 9$ 。简单效应分析发现仅在大脑右半球存在显著差异， $p { < } 0 . 0 0 1$ 。事后进一步分析发现，在大脑右半球，友好和敌对条件的波幅均比中性条件更正， $p s { < } 0 . 0 5$ ，友好与敌对条件则无显著差异， $p { > } 0 . 0 5$ 。
+
+统计分析结果还发现存在意图水平与电极左右、前后分布的三重交互作用， $F ~ ( 8 , 1 5 2 ) ~ = 2 . 4 2$ $\scriptstyle p < 0 . 0 5$ ， $\scriptstyle M S E = 1 . 4 1$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { { = } } 0 . 1 1$ 。简单效应分析发现三种条件在大脑F3、FZ、F4、C4 等点均发现存在显著差异。简单简单效应分析发现，在左侧额区（F3）仅发现友好条件的波幅比中性条件更正， $\scriptstyle p < 0 . 0 5$ ，未发现其它显著差异。在右侧额区（F4）和右侧中央区（C4），友好和敌对条件的波幅均比中性条件更正， $p s { < } 0 . 0 1$ ，友好与敌对条件的波幅则无显著差异， $p s { > } 0 . 0 5$ 。在额中区（FZ）未发现条件存在任何显著差异， $p { > } 0 . 0 5$ 。
+
+统计分析结果发现在 $6 5 0 { \sim } 7 5 0 ~ \mathrm { m s }$ 时间窗口，意图水平的主效应不显著（见表3）， $F \left( 2 , 3 8 \right) { = } 0 . 5 7$ ，$p { > } 0 . 0 5$ ， $\mathit { M S E } { = } 3 1 . 6 6$ ， ${ \eta _ { p } } ^ { 2 } \mathrm { { = } } 0 . 0 3$ 。尽管统计分析结果发现存在意图水平与电极前后分布、意图水平和电极左右分布的两个交互作用， $F \ ( 4 , 7 6 ) \ = 6 . 7 1 / 5 . 6 6$ ， $p s { < } 0 . 0 1$ ， $M S E { = } 5 . 0 7 / 3 . 3 0$ ， $\eta _ { p } { } ^ { 2 } = 0 . 2 6 / 0 . 2 3$ ，但进一步分析却未发现任何有统计学意义的显著差异。
+
+综上可知，在 $4 5 0 { \sim } 7 5 0 ~ \mathrm { m s }$ 的时间窗口，在大脑右半球（C4点等）发现了3种意图条件的LPC成分呈现出由存在两两差异到互动与中性条件的差异再到不同条件间的差异完全消失这种发展变化趋势。
+
+表3450\~750msLPC波幅方差分析结果  
+
+<html><body><table><tr><td>时间窗□ (ms)</td><td>主效应 F (2,38)</td><td>条件与电极前后分 布交互作用 F (4,76)</td><td>条件与电极左右分 布交互作用 F (4,76)</td><td>条件与电极前后、左 右分布交互作用 F (8,152)</td><td>事后比较</td></tr><tr><td>450~550</td><td>12.39***</td><td>14.36***</td><td>6.16**</td><td>4.27**</td><td>1-2,2-3**,1-3**</td></tr><tr><td>550~650</td><td>3.69*</td><td>9.10***</td><td>4.34**</td><td>2.42*</td><td>1-2,2-3, 1-3*</td></tr><tr><td>650~750</td><td>0.57</td><td>6.71**</td><td>5.66**</td><td>1.20</td><td>1-2, 2-3, 1-3</td></tr></table></body></html>
+
+注：事后比较中1代表友好意图，2代表敌对意图，3代表中性意图( $^ { \ast \ast \ast } p ^ { < 0 . 0 0 1 }$ ，\*\* $p { < } 0 . 0 1$ ， $^ { * } p { < } 0 . 0 5 )$
+
+# 3.3 脑地形图
+
+值得关注的是，从 $1 7 0 { \sim } 2 7 0 ~ \mathrm { m s }$ 三种条件的N250 波幅存在的显著差异，这种差异在在三种条件的脑地形图中的到印证，如图3（b左）所示。该图是根据三种条件在 $2 7 0 { \sim } 5 0 0 ~ \mathrm { m s }$ 时间窗口内的峰值做出，显示出与统计分析发现的条件与电极左右分布或条件与电极前后分布的显著交互作用一致，在全脑分布上，中性条件比友好和敌对条件的激活程度都更小，而友好和敌对条件的激活程度则没有显著差异。从 $2 7 0 { \sim } 5 0 0 ~ \mathrm { m s }$ 三种条件的P300 波幅存在显著差异。这种差异在三种条件的脑地形图中得到印证，如图3（b右）所示。该图是根据三种条件在 $2 7 0 { \sim } 5 0 0 ~ \mathrm { m s }$ 时间窗口内的峰值做出，显示出与统计分析发现的条件与电极左右分布或条件与电极前后分布的显著交互作用一致，在大脑顶区，敌对条件比友好和中性条件被更显著激活，而友好和中性条件的激活区域则没有显著差异；在大脑的右半球，从中性、友好到敌对三种条件呈现一种阶梯性激活增强的趋势。
+
+![](images/a0cee755aa1446b1410b919c24905b7448a00fea069a413288d233cb1c07165e.jpg)  
+图3三种条件下N250波幅（a左侧）和地形图（b左侧）以及P300的波幅（a右侧）和地形图(b右侧）
+
+# 3.4 sLORETA结果
+
+先用sLORETA软件分别对中性条件和友好条件、以及中性条件和敌对条件的N250 原始波进行溯源分析，发现抑制的脑区分别位于Brodmann 6区（BA6，见图4a）和Brodmann2区（BA2，见图4b），进行比较后均未发现活动存在显著差异的脑区。然后，对友好条件和敌对条件两种条件下的N250 原始波进行溯源分析，激活的脑区都主要位于Brodmann10区（BA10），额叶区的额中回（图4c），对两种条件下激活的脑区进行比较后未发现存在显著差异的脑区。对 P300 原始波进行了溯源分析，发现友好条件和敌对条件下，激活的脑区都主要位于BA45区，脑岛（图4d），对两种条件下激活的脑区进行比较后发现，在额叶、下叶（sublobar）和边缘叶等区域的39个体素上发现显著的负性电流差异（最大 $t$ 值为0.9 $6 , p { < } 0 . 0 1$ ），其中 $64 \%$ 的个体素位于额叶的额中回，额下回，额内侧回等区域， $18 \%$ 的个体素位于下叶的脑岛等区域，另外 $1 8 \%$ 的个体素位于前扣带回等区域。
+
+![](images/f28c2486cbaf903f81eb0484ccacddc1c972aa9b67e8485f8e47b59f7f748a6b.jpg)  
+图4 对中性意图与友好、敌对意图条件下的N250进行溯源分析的最大抑制脑区分别为BA6区（a）和BA2区（b）；对友好意图和敌对意图两种条件下N250 和P300进行溯源的最大激活脑区分别位于BA10区（c）和 BA45区（d)
+
+# 4讨论
+
+4.1N250反映大脑对互动意图中动作目标不同社会属性的初步分类
+
+本研究采用ERP技术考察大脑理解双人互动背景下基于肢体表达的友好和敌对互动意图的动态时空特征。本研究对正确率的分析结果显示三种意图条件无显著差异，反应时分析结果显示友好意图和中性意图的反应时均显著长于敌对意图，友好意图和中性意图的反应时没有显著差异，而王益文等人（2014）的研究则发现友好意图的正确率显著低于无互动意图，友好意图的反应时显著长于敌对意图和无互动意图，敌对意图与无互动意图的反应时无显著差异。本研究结果与王益文等人的研究结果不完全一致。究其原因在于两者在中性无互动意图内涵的建构上不同，本研究中的中性无互动意图是严格参照Walter等人（2004）、Wang 等人（2012）及王益文、黄亮等人（2012）的操作定义进行实践，克服了王益文等人（2014）研究中被试仅凭实验材料中人物身体朝向（背对彼此）这一外在物理特征来理解中性意图的不足，且排除了ERP成分受到任务难度等因素影响的潜在可能性。
+
+ERP 结果显示分布在大脑额区的友好意图的N250波幅比敌对意图显著更负，且中性意图的 N250波幅比友好意图也显著更负。换言之，从敌对意图、友好意图到中性意图的N250波幅呈现逐步更负的趋势。王益文、黄亮等人（2012）发现私人（中性无互动）意图的N250波幅比交际（互动）意图显著更负。王益文等人（2014)进一步将互动意图按动作目标的不同社会属性区分为友好和敌对意图，并发现友好意图的N2波幅比敌对意图显著更负。综合上述两项系列研究发现，从敌对意图到友好意图再到中性意图可能呈现一种阶梯性更负趋势，本研究结果与前人研究结果是基本一致的。Proverbio等人（2011）发现高生态背景下合作性互动动作诱发的N2（ $1 6 0 { \sim } 2 8 0 ~ \mathrm { m s }$ ）波幅比情感性互动动作显著更负。Decety&Cacioppo（2012）采用高密度 EEG 研究技术发现故意伤害性动作知觉在 $1 8 2 ~ \mathrm { m s }$ 左右激活了腹内侧PFC，反映了道德认知早期的快速信息加工阶段。本研究中敌对意图动作和友好意图动作均诱发了额区的N250成分，且出现了两者之间的分离，可能表明 N250反映了大脑对互动意图中不同动作目标社会属性的分类理解。至于王益文等人（2014）则发现友好意图的N2波幅显著大于敌对意图以及与无互动意图的差异也达到边缘显著，敌对意图与无互动意图的N2波幅则没有显著差异，本研究结果与前人研究结果不一致。王益文等人对无互动意图的设置可能导致被试能通过简单的物理视觉线索来理解该实验条件，而完全不涉及到心理意图加工；另外，在日常生活中两人背对彼此站立容易被观察者知觉为一种不友好的负性社交场景，因而在王益文等人的研究中理解无互动意图与敌对意图需要耗费的认知神经资源均较少且无显著差异。根据该思路，研究者认为N250成分可能反映了对互动意图动作目标的不同社会属性的分类加工，能够较早的区分敌对、友好和中性意图，且反应时结果也显示对敌对意图表现出较早的理解，而不是Wang等人（2014）提出的N2仅与友好意图的理解有关。此外，已有研究发现，相比动作量少的图片，包含较多动作的身体刺激会诱发较大的N170 波幅（Borhani,Borgomaneri,Ladavas,&Bertini,2016）。在本研究中，中性意图包含两个不相关联的人物身体动作，与友好和敌对意图相比，包含的动作内容更多，且友好意图在动作内容上或模糊程度上也比敌对意图更甚。因此N250在三种不同条件上的差异也可能反映了动作内容的复杂性或互动情境的模糊性。至于在时间进程上与前人研究不完全一致，可能是因为实验材料与任务不相同。
+
+认知神经科学研究已经表明，推测他人的意图需要依赖额-顶动作观察网络和一个假定的社会脑网络（Centelles et al.,2011）。多数研究者认为以上两个脑网络系统在动作理解中扮演着不同却互补的角色（Isoda,2016），然而还有一些研究者认为两者扮演的是完全独立的角色（Catmur,2015）。前者对偶发性社会动作进行一般性的加工，而后者对由于异常的运动特性所导致的意图理解进行加工（Georgescu etal.,2014）。本研究中，在大脑前额区域发现友好和敌对意图的皮层电流密度差异。确切的说，在大脑的额中区（FZ点）发现友好和敌对意图的N250波幅和皮层电流密度存在显著差异。另外，对友好和敌对意图的N250成分进行溯源分析的结果发现，两种条件下的最大激活区定位于 BA10区，额叶区的额中回，但激活程度不存在显著差异。近来，许多神经影像学研究（Maranesi,Livi,Fogassi,Rizzolatt,& Bonini,2014; Yoder &Decety,2014）发现背外侧 PFC 在理解单人抓握动作或双人互动动作时进行早期自上而下的预测加工中都被显著激活。Amoruso，Finisguerra 和 Urgesi（2018）认为背外侧PFC 可能在对他人基于情境的动作进行预期加工时扮演一般普遍性的角色。另外一项 fMRI研究发现额下回在理解手部动作传递的互动意图时被显著激活（Mottonen,Farmer,&Watkins,2016）。额中回作为邻近背外侧mPFC 和额下回的一个脑区，本研究结果再次表明前额皮层在理解肢体表达的友好和敌对意图动作时扮演重要角色。
+
+4.2 P300反映大脑对互动意图的不同社会情感意义的评价加工
+
+在 $2 7 0 { \sim } 4 5 0 ~ \mathrm { m s }$ ，ERP 结果发现在大脑右半球，敌对意图的P300 波幅比友好和中性意图更正，且友好意图比中性意图的P300波幅也更正。该结果与前人研究结果较一致。相关研究发现在加工威胁性的面孔或有威胁性的提示词语时诱发的P300/LPC 波幅更正(Moser,Huppert,Duval,& Simons,2008;Weymar,Bradley,Hamm,&Lang,2013）。敌对意图在本研究中含有威胁性的信息，诱发了更强的 P300波幅。王益文等人（2014）也发现，在大脑的顶区、中线和右半球，敌对意图的P3峰值比友好意图和中性无互动意图更正。上述研究均表明P300成分可能反映大脑对负性信息更强的注意和评价加工。然而，Wu等人（2014）发现，与中性刺激相比，负性刺激在女性的经期晚期（黄体期）比经期早期（卵泡期）诱发了显著的N2（ $1 5 0 { \sim } 3 0 0 ~ \mathrm { m s }$ ）。本研究结果与其不太一致，可能是由于刺激材料和实验任务不同所致。Wieser,McTeague 和 Keil（2011）认为高情绪效价的刺激，比如社会威胁线索，会在大脑中得到优先并持续的加工。本研究中，与友好意图相比，敌对意图的行为反应时显著的更短且诱发了更大的P300波幅。研究结果表明个体在理解具有负性社会情感意义的敌对意图时投入了较多的认知神经资源，可能包含了注意、感知和认知评价等复杂心理加工过程。个体对威胁性信息保持高度警觉性和深层次的加工有利于人类生存，符合进化学的观点。
+
+许多 fMRI脑成像研究（Sinkeetal.,2010;Decety etal.,2012）均发现被试的额-顶动作观察网络和负责加工道德违犯的大脑区域（TPJ、旁扣带皮层、内侧眶额皮层、杏仁核）在观看威胁性电影片段或图片时都被显著激活，且额-顶动作观察网络与这些区域的神经连接性也显著增强。Watanabe 等人（2012）发现前扣带皮层/腹内侧PFC 和背内侧PFC在健康被试基于非言语线索进行的友好或敌对判断时均被强烈激活。本研究发现与前人的研究结果部分一致。许多社会认知神经科学研究表明 P300成分主要分布在顶区，该区域在加工个体动作时的重要性得到了一致性的证据。在脑地形图中，意图条件主效应的差异在 $2 7 0 { \sim } 4 5 0 ~ \mathrm { m s }$ 时间窗口内的也得到印证，显示出在大脑顶区，敌对意图比友好和中性意图都被更显著激活。对友好和敌对意图的P300 成分进行溯源分析的结果发现，两种条件下的最大激活区位于BA45区，下叶的脑岛，且在额叶的额中回、额下回、额内侧回等区域，下叶的脑岛等区域，以及前扣带回等区域发现敌对意图的激活强度显著正于友好意图。许多关于情绪的脑成像研究（Gilead,Katzir,Eyal,&Liberman,2016）表明脑岛在加工基本情绪信息，包括愤怒等负性情绪中扮演重要的角色。脑岛是负责评价和情绪加工的脑神经网络重要组成部分之一，在整合情绪和认知加工中起着广泛的作用（Bermtson etal.,2011）。本研究结果也表明脑岛等区域可能在对友好和敌对意图的社会情感意义进行评价加工起着重要作用。意图条件在 $2 7 0 { \sim } 4 5 0 ~ \mathrm { m s }$ 时间窗口内的脑地形图中激活的差异反映出在大脑右半球，从中性意图、友好意图至敌对意图呈现一种阶梯性激活增强的趋势，与认知心理学中关于右半球在情绪加工中起重要作用的论断也是一致的。在本研究中，敌对意图作为一种威胁性的信号，可能不可避免的诱发了被试的某种负性情绪（如不愉悦）。友好和敌对意图在激活脑区的显著差异，可能表明了大脑理解不同性质的互动意图在 $3 0 0 ~ \mathrm { { m s } }$ 左右时开始进一步出现空间上的分离，对负性敌对意图的社会情感意义表现出优势评价加工。该结论一方面对前人（Bahnemann,Dziobek,Prehn,Wolf,&Heekeren,2010）提出的意图理解两阶段加工模型进行了补充，另一方面为心理理论的分层认知框架（HMCF）的假设模型（Wang et al.,2011,2012）提供了更丰富的神经电生理学证据。LPC成分在 $5 5 0 { \sim } 6 5 0 ~ \mathrm { m s }$ 发生互动意图与中性意图的分离，表明晚期阶段的LPC成分可能与更复杂的社会认知加工相关，可能反映了大脑对互动意图后续的理解加工，这与前人关于LPC（ $7 0 0 { \sim } 8 0 0 ~ \mathrm { m s }$ ）的发现（Wang etal.,2011,2012；王益文等,2014）是一致的。至于在时间进程上不完全重合，可能是由于实验材料的不同造成的。
+
+由于自闭症群体对互动情境下的双人肢体运动知觉存在损伤（Kaiser,&Pelphrey,2012），本研究将有助于为探查其社会互动缺陷的机制提供一个较好的范式。当然本研究中的ERP波幅还可能会受到不同的动作运动学特性的影响，因此在今后的研究中应该思考如何更好的加以控制，对本研究结果的推论也应当更加谨慎。此外，在部分关于动作意图的研究（Adenzato etal.,2017；黄亮等,2018）中发现意图理解的性别差异，以及意图影响肢体运动特征的新视角（Ansuini,Caval,Bertone,& Becchio,2015），值得我们在未来研究中深入探讨。
+
+# 5 结论
+
+综上所述，本研究采用 ERP 技术，主要从 N250 和 P300（时间进程）及其溯源分析（空间角度）考察了大脑理解双人肢体运动表达的友好和敌对互动意图的动态时空加工过程。结果表明：
+
+（1）在脑内早期阶段，N250成分表明大脑在 $2 5 0 ~ \mathrm { m s }$ 左右就对敌对、友好和中性意图从动作目标上进行了分类加工，三种意图条件的N250成分出现了两两分离。溯源分析发现该成分主要源于额中回。从行为反应时可以发现大脑对负性敌对意图表现出了最早的理解加工。
+
+（2）在脑内晚期阶段，P300成分表明大脑在 $3 0 0 ~ \mathrm { { m s } }$ 左右对敌对、友好和中性意图的社会情感性进一步进行了评价加工，三种意图条件的P300成分也出现了两两分离。溯源分析发现该成分主要源于脑岛。大脑右半球的加工优势效应表现出了对负性敌对意图的持续性评价加工。
+
+# 参考文献
+
+Adenzato,.,Brambila,.,anenti,R.,eLucia,L.,Trojano,L.,Garofalo,S.,..Coteli,. (7).Genderdirece in cognitive Theoryof Mind revealed bytranscranial direct curent stimulationon medial prefrontal cortex.Scientific Reports,7,41219.   
+Amoruso,L.，Finisguerra,A.，Urgesi,， C.(2018).Contextualizing action observation in the predictive brain:Causal contributions of prefrontal and middle temporal areas. NeuroImage,177, 68-78.   
+Ansuini,C.，Cavalo,A.，Bertone,C.，& Becchio,C.(2015).Intentions in the brain:theunveilingof Mister Hyde. Neuroscientist,21(2), 126-135.   
+Bahnemann,M.,Dziobek,1.,Prehn,K.,Wolf,I,& Hekeren,H.R.(2010).Sociology in the temporoparietal cortex: Common versus distinct processes.Social Cognitive and Affective Neuroscience,5(1),48-58.   
+Berntson,G.G.,Norman,G.J.,Bechara,A.,Brus,J.,Tranel,D.,&Cacioppo,J.T.(2011).The insulaandevaluative processes.Psychological Science,22(1),80-86.   
+Blakemore,S.J.,& Decety,J.(20ol).From the perception of action to the understanding of intention. Nature Review Neuroscience,2,561-567.   
+BorhaniK.,Borgomaneri S.,LadavasE.,&BertiniC.(20l6).Theefectof alexithymiaonearlyvisual processingofemotional body postures.Biological Psychology,115,1-8.   
+Buon,M.,Jacob,P.,Margules,S.,Brunet,I,Dutat,M.，Cabrol,D.,& Dupoux,E.(2O14).Friendorfoe?Earlysocial evaluation of human interactions.Plos ONE,9(2),e88612.   
+Cacioppo,J.T.Bertson,G.G.&Decety,J.(20l).ocialneurosienceandit'srelationshiptoocialpsychologycial Cognition, 28(6),675-685.   
+Cacioppo,S.,Juan,E.,& Monteleone,G.(20l7).Predicting IntentionsofaFamiliar SignificantOther Beyondthe Mirror Neuron System.Front Behav Neurosci,11,155.   
+Carter,E.J.,&Pelphrey K.A. (2008).Friend or foe?Brain systems involved in the perceptionof dynamic signalsof menacing and friendly social approaches.Social Neuroscience,3,151-163.   
+Catmur,C.(2015). Understanding intentions from actions:Direct perception，inference,and the roles of mirror and mentalizing systems.Consciousness and Cognition,36,426-433.   
+Centeles L.,Assaiante C.，Nazarian B.,Anton J.-L.，& Schmitz C.(2011).Recruitment of both the mirror and the mentalizing networks when observing the social interactions depicted by point-lights: A neuroimaging study.Plos One,6, e15749.   
+Decety，J.& Cacioppo S.(2012).The speed of morality:a high-densityelectrical neuroimaging study.Journalof Neurophysiology,108,3068-3072.   
+Gan,T.,Shi,R.,Liu,C.&LuoY.J. (2O18).Cathodaltranscranial directcurentstimulationontherighttemporo-parietal junction modulates the helpful intention processing.Acta Psychologica Sinica, 50(1),36-46.   
+[甘甜，石睿，刘超，罗跃嘉.(2018).经颅直流电刺激右侧颞顶联合区对助人意图加工的影响．心理学报,50(1), 36-46.]   
+Georgescu,A.L.,Kuzmanovic,B.,Santos,N.S.,Tepest,R.,Bente,G.,Titgemeyer,M.,&Vogeley,K.(014).Perceiving nonverbal behavior: neural corelates of processing movement fluencyandcontingency in dyadic interactions.Human Brain Mapping,35(4),1362-1378.   
+Gilead,M.，Katzir,M.,Eyal,T.,&Liberman，N.(2O16).Neuralcorrelatesof processing "self-conscious"vs."basic" emotions.Neuropsychologia,81,207-18.   
+Grafton,S.T.(2o09).Embodiedcognitionand the simulation of action to understand others.Annals New York Academyof   
+Guroglu,B.,Haselager,G.J.T.,VanLiershout,C.F.M.,Takashima,A.,Rijpkema,M.,&Fernandez,G.(O08)Whyare friendsspecial? Implementing a social interaction simulation task to probe the neural correlates of friendship. NeuroImage,39(2),903-910.   
+Huang,L.,Deng,Z. X.,Ren, H.L.,Lin,G.Y.,& Wang Y. W.(2018).Therole of stimulus ecologicalness and genders in understanding kind versus hostile intentions. Journal of Psychological Science,41(2), 435-440   
+[黄亮，邓兆鑫，任翰林，林国耀，王益文.(2018).材料生态性和性别因素对理解友好与敌对意图的影响．心理科学， 41(2),435-440.]   
+Isoda,M.(2016).Understanding intentional actions from observers'viewpoints:A social neuroscienceperspective. Neuroscience Research, 112,1-9.   
+Kaiser,M.D.,Pelphrey,K.A.(20l2).Disrupted action perception inautism:Behavioral evidene,neuroendophenotypes, and diagnostic utility. Developmental Cognitive Neuroscience, 2, 25-35.   
+Liberman,Z.,Kinzler,K.D.,& Woodward,A.L. (2O14).Friendsor foes:Infants useshared evaluations toinferothers' social relationships.Journal of Experimental Psychology: General, 143(3), 966-971.   
+Liu,D.,Sabbagh,M.A,Gehring,W.J.,& Welman,H.M. (2004).Decouping beliefs fromreality in the brain:An ERP study of theory of mind. Neuroreport,15(16), 991-995.   
+Male,B.F.,& Holbrook,J.(2012).Is therea hierarchyofsocial inferences?The likelihoodandspeedof inferring intentionality, mind,and personality. Journal of Personality and Social Psychology,102,661-684.   
+Maranesi,M.,Livi,A.,Fogassi,L.,izzolati,G,&Bonini,L.(2O)Mirorneuronactivationpriortoactionbrtio in a predictable context. The Journal of Neuroscience,34(45), 14827-32.   
+Moser，J.S.，Huppert,J.D.，Duval,E.，& Simons，R.F.(2008).Face procesing biases insocial anxiety:An electrophysiological study.Biological Psychology,78,93-103.   
+Motonen,R.,Farmer,H.，& Watkins K.E. (2016).Neural basis of understanding communicative actions:Changes associated with knowing the actor’s intention and the meanings of the actions.Neuropsychologia,81,230-237.   
+Ortigue,S.,SinigagliaC.RizzolatiG.,&Grafton,S.T. (2010). Understanding actionsofothers:Theelectrodynamicsof the left and right hemispheres. A high-density EEG neuroimaging study. Plos One,5,e12160.   
+Proverbio,A.M.，Riva,F.，Paganelli,L.，Cappa,S.F.,Canessa,N.，Perani,D.,& Zani,A.(2011).Neuralcodingof cooperative vs. affective human interactions: 150 ms to code the action's purpose. Plos One,6,e22026.   
+Sinke,C.B.A.,Sorger,B.，Goebel,R.,&DeGelder,B. (2010).Teaseorthreat? Judgingsocial interactions frombodily expressions.NeuroImage,49,1717-1727.   
+Van Wount,M.，& Sanfey,A.G.(2008).Friendorfoe:The effect of implicit trustworthinessjudgmentsin social decision-making. Cognition,108,796-803.   
+Vrticka,P.,Andersson,F.,&Sander,D.(o9).Memoryforfriendsorfoes:Thesocialcontext ofpastencounters with faces modulates their subsequent neural traces in the brain. Social Neuroscience,4,384-401.   
+Walter,H.,Adenzato,M.,Ciaramidaro,A.，Enrici,1,Pia,L.&Bara,B.G.(2o4).Understandingintentionsinocial interaction: The role ofthe anterior paracingulate cortex.Journal of Cognitive Neuroscience,16(10),1854-1863.   
+Wang,Y.W.,Huang,L.,Lin,C.,Zhang,.,Liang,F.,&Shen,D.(2O12).Spatio-temporal braindynamicsofunderstanding social versus private intentions: An electrical neuroimaging study. Neuroquantology,10,733-743.   
+Wang,Y.W.，Huang,L.,Xu,S.,Yuan,B.,XuY.J.,&LiH.Y. (2012).ERPtimecourse ofunderstanding privateversus communicative intentions.Acta Psychological Sinica, 44(12),1618-1627.   
+[王益文，黄亮，徐晟，袁博，徐艳娇，李洪玉.(2012).理解私人意图与交际意图的 ERP 证据．心理学报，44(12), 1618-1627.]   
+Wang,Y.W.,Huang,L.,Zhang Z.，Song,J.,&Bai,L.Y.（2014).Kindnessor hostility?Electrical brain dynamicsof understanding interactive intentions of other people. Science in China, Series C,Life Science,44(7),736-746.   
+[王益文，黄亮，张振，宋娟，白丽英.(2014)．友好还是敌对？理解互动意图的大脑动态时程．中国科学 生命科学， 44(7), 736-746.]   
+Wang,Y.W.,Huang,L.,Zhang,W.,Zhang,Z.,& Cacioppo,S.(2015).Spatio-temporal dynamicsof kind versus hostile intentions in the human brain: An electrical neuroimaging study. Social Neuroscience,10(3),253-267.   
+Wang,Y.W.,Ling,C.D.,Yuan,B.,Huang,L.,&Shen,D.L.(2010).Person perception precedes theoryof mind: An event related potential analysis.Neuroscience,170,238-246.   
+Wang,Y.W., Zheng,Y.W.,Lin,C.D.，Wu,J.，& Shen,D.L.(2011).Electrophysiological corelatesofreadingthe single-and interactive-mind. Frontier in Human Neuroscience,5,64.   
+Wang,Y.W.,Zheng,Y.W.,Shen,D.L.,Cui,L.,&Yan,G.L. (2012).Reading another's mind andReading the interactive mind from Chinese idioms: Evidience from eye-movements and ERPs.Acta Psychol Sin,44(1),100-111.   
+[王益文，郑玉玮，沈德立，崔磊，闫国利.(2012).解读成语中的他人心理与互动心理：来自眼动和 ERP 的证据．心理 学报,44(1),100-111.]   
+Watanabe,T.,，Yahata,N.，Abe,O.，Kuwabara，H.，Inoue，H.,，Takano,Y.,. Yamasue,H.(2012).Diminished medial prefrontal activity behind autistic social judgments of incongruent information. Plos ONE,7(6), e39561.   
+Weymar M.,Bradley M.M,Hamm A. O.,& Lang P.J. (2013).When fear forms memories: Threatof shock and brain potentials during encodingand recognition. Cortex, 49,819-826.   
+Wieser,M.J.,McTeague,L.M.,& KeilA. (20l1).Sustained preferential procesingof social threat cues: Bias without competition. Journal of Cognitive Neuroscience, 23,1973-1986.   
+Wu,H.,Chen, C., Cheng, D.， Yang，S.， Huang，R., Cacioppo，S.，&Luo，Y.J.(2014). The mediation efect of menstrual phase on negative emotion procesing: Evidence from N2. Social Neuroscience，9, 278-288.   
+Yoder,K.J.,&DecetyJ. (2O14).Thegood,thebad,andthejust: Justicesensitivitypredicts neuralresponseduringmoral evaluation of actions performed by others.Journal of Neuroscience,34,4161-4166.   
+Young,L.,& Saxe,R.(oo9).Innocentintention: Acorrelation between forgiveness foraccidentalarmand neuralactivity. Neuropsychologia, 47,2065-2072.
+
+# Brain Spatio-temporal Dynamics of Understanding Kind versus Hostile Intentions Based on Dyadic Body Movements
+
+HUANG Liang1; YANG Xue²,3; HUANG Zhihua3,4; WANG Yiwen2,3
+
+(Institute of Applied Psychology,Minnan Normal University, Zhangzhou363ooo,China) (Institute ofPsychological and Cognitive Sciences,Fuzhou University,Fuzhou350l16,China) (Center for China Social Trust Research,Fuzhou University,Fuzhou350116,China) (4College of Mathematics and Computer Science,Fuzhou University,Fuzhou 350l16,China)
+
+# Abstract
+
+Previous social neuroscience studies focused mainly on the neural networks that sustain an understanding of a single individual's neutral or negative intentions.However, few studies have explored those of different types of social interactive intentions performed by two or a number of individuals and their whole body movements.In addition，the spatio-temporal dynamics of understanding the kind and hostile intentions in the human brain also remain unclear.
+
+In order to address the above issue, the electroencephalograph (EEG) technique was employed to explore the dissociative neural correlates of understanding kind versus hostile intention. Twenty healthy participants were recruited for the experiment. Their behavioral data (accuracy and reaction time） and electrical brain activities were recorded while they were watching colorful photos depicting two actors’ actions and performingan intention inference task (IT).There were three diferent types of action intentions: kindnes, hostility and non-interactiveness (neutrality).The ERPdata was analyzed usig the Scan and sLoreta software in an off-line way.
+
+The Univariate Analysis of Variance (ANOVA) with repeated measures of mean accuracy showed no significant difference among three conditions,while a main effect of condition existed for reaction time. The reaction times of hostile intention were shorter than those of the kind and neutral intentions,while no significant diffrence was found between the lattr two conditions.The ERP data were analyzed using a three-way repeated measure ANOVA. The ANOVA factors were intention condition (kindness, hostility and neutrality)， laterality (left，midline and right areas）and caudality (frontal，central and parietal areas). Electrophysiological results showed,over the frontal area,a significantly more negative amplitude of N250 0 $1 7 0 { \sim } 2 7 0 ~ \mathrm { m s } )$ ）for neutral intention compared to kind and hostile intentions,and the N25O amplitudes for kind intention were also more negative than those for hostile intention, especially on the FZ electrode site. The source localization showed maximum activation in Broadman 10(BA10),in the vicinity of middle frontal gyrus,for N25O for kind and hostile intentions.At the later stage ‘ $( 2 7 0 { \sim } 4 5 0 ~ \mathrm { ~ m s } )$ ，the peak amplitudes of the P3oo for hostile intention were more positive than those for the kind and neutral intentions，and the P3oo amplitudes for kind intention were also more positive than those for neutral intention over the central,parietal areas as well as the right hemisphere.The maximum activation for P300 of kind and hostile intentions was found in BA45,located in the vicinity of insula,and a stronger activity existed for hostile intention compared to kind intention.
+
+These findings show that there is a spatio-temporal dynamic dissociation between kind and hostile intentions understanding in the brain. Altogether,the current study provides electrophysiological evidence underlying the kind,hostile interactive intentions and non-interactive (neutral) intention understanding,and suggests a prioritized and sustained processing for hostile interactive intention.The study enriches the contents of the two-stage intention-understanding model and the putative Hierarchical & Multi-level Cognitive Framework (HMCF) in Theory of Mind.
+
+Key wordsTheory of Mind; kind intention; hostile intention; dyadic interaction; ERP
+
+附录：实验材料（部分）
+
+![](images/a21039ccd118d2de6553e704fb83aadb49ede7bceab0c9b7c32f1781662619b7.jpg)

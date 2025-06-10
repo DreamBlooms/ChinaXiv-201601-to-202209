@@ -1,0 +1,136 @@
+# 临床研究
+
+# 窗体顶端瘦素、脂联素、游离脂肪酸与初诊2型糖尿病的关系
+
+林天浩，杨培雄潮州市潮安区人民医院，广东潮州515638
+
+摘要：目的检测初诊2型糖尿病患者瘦素、脂联素、游离脂肪酸水平，探讨2型糖尿病与瘦素、脂联素、游离脂肪酸间的相关性。方法通过口服糖耐量试验(OGTT)筛选60例未经药物治疗的T2DM患者和60名健康人（正常对照组)，测定各组病例空腹血糖、餐后2h血糖、糖化血红蛋白、空腹胰岛素、瘦素、脂联素、游离脂肪酸水平。结果同正常组比较，初诊2型糖尿病患者的瘦素水平、游离脂肪酸水平升高( $P { < } 0 . 0 5 )$ ，脂联素水平降低（ $P { < } 0 . 0 5 )$ ;空腹胰岛素水平、胰岛素抵抗指数均升高(P<0.05)。2型糖尿病患者瘦素、游离脂肪酸水平与空腹胰岛素水平和胰岛素抵抗指数均正相关(均 $P { < } 0 . 0 5 \$ ；脂联素与胰岛素抵抗指数负相关（ $\left( P { < } 0 . 0 5 \right)$ 。结论瘦素、脂联素、游离脂肪酸与2型糖尿病有较为密切的相关性，或可作为判断2型糖尿病进展及治疗效果的评价指标。
+
+关键词：2型糖尿病；瘦素；脂联素；游离脂肪酸
+
+选取2015年6月\~2016年2月间潮州市潮安区人民医院收治的T2DM初诊患者60例，男35例，女25例，年龄28\~78岁，均未用药;正常对照组60名，男32名，女28名，年龄27\~81岁，均为同期健康体检者。两组间年龄、性别均无显著性差异 $( P { > } 0 . 0 5 )$ ，均未服用降脂药物，具有可比性。
+
+# 1.4 观察指标
+
+糖尿病是严重危害人民群众生命健康的内分泌疾病，目前全球有大约1.7亿糖尿病患者，预计2030年患病人数将达到3.65亿1，而这其中大部分是2型糖尿病患者，防治2型糖尿病对于维护人类健康具有十分重大的意义。近年来诸多研究表明,瘦素、脂联素、游离脂肪酸水平(FFA)的异常，可导致其它诸多脂肪因子分泌及表达的异常，进而诱发糖脂代谢紊乱、炎症反应，影响胰岛素的分泌及功能的发挥，最终导致胰岛素抵抗和2型糖尿病的发生。厘清这数者与2型糖尿病之间的关系，不但有利于加深我们对2型糖尿病发生发展机理的认识，同时也有可能为2型糖尿病的早期诊断和疗效评估提供新的路径，有鉴于此我们检测了未经药物治疗的T2DM患者血清中瘦素、脂联素、游离脂肪酸的水平，探讨血清中瘦素、脂联素、游离脂肪酸与2型糖尿病间的内在规律，以期更好地指导2型糖尿病的临床诊治。
+
+空腹血糖(FPG)餐后2h血糖(2hPG)糖化血红蛋白(HBAlc)空腹胰岛素水平(FINS)瘦素(leptin)、脂联素(adiponectin）游离脂肪酸(FFA）胰岛素抵抗指数(HOMA-IR)
+
+# 1.5试剂和仪器
+
+空腹及餐后血糖检测的试剂由Beckman-Coulter公司提供，空腹胰岛素检测采用Beckman-CoulterDXI800全自动免疫分析仪及配套试剂。FFA检测采用Beckman-CoulterDXC800全自动生化分析仪及配套试剂。瘦素、脂联素的试剂由北京普博欣生物科技有限责任公司提供。
+
+# 1资料与方法
+
+# 1.1 纳入标准
+
+诊断标准参考2013年版的中国糖尿病指南2：(1)糖尿病症状 $\cdot +$ 任意时间 $\mathrm { P G } { \gtrless } 1 1 . 1 \ \mathrm { m m o l } / \mathrm { L } ( 2 0 0 \ \mathrm { m g } / \mathrm { d L } )$ 或(2) $\mathrm { F P G } { \geqslant } 7 . 0$ mmol/L ( $1 2 6 ~ \mathrm { m g / d L }$ 或（3)OGTT中$2 \mathrm { h P G } { \gtrless } 1 1 . 1 \mathrm { m m o l / L } ( 2 0 0 \mathrm { m g / d L } ) _ { \circ }$ （204号
+
+# 1.2 排除标准
+
+# 1.6统计学方法
+
+(1)其它类型糖尿病;(2)合并糖尿病急性并发症;(3)各脏器严重疾病者及自身免疫性疾病、恶性肿瘤；(4)使用过胰岛素、糖皮质激素、降脂药等影响糖脂代谢的药物。
+
+统计学软件采用SPSSl8.0软件，两组间比较采用t检验，计量资料符合正态分布者采用x检验和方差分析。计量资料不符合正态分布者采用非参数检验;各检测指标与2型糖尿病的关系采用Logistic回归分析。$P { < } 0 . 0 5$ 时认为有统计学意义。
+
+# 1.3 临床资料
+
+# 2结果
+
+# 2.1两组间临床资料比较
+
+收稿日期：2016-05-07作者简介：林天浩,E-mail:786206488@qq.com
+
+T2DM组与正常对照组在性别组成、年龄、体质量和体质量指数(BMI)等一般资料间无统计学意义差异$\scriptstyle \overbrace { P \mathrm { > } 0 . 0 5 }$ ，表1)。
+
+表1两组间临床资料比较( $_ { n = 6 0 }$   
+
+<html><body><table><tr><td>组别</td><td>年龄(岁)</td><td>体质量(kg)</td><td>BMI</td></tr><tr><td>T2DM组</td><td>51.4±13.6</td><td>65.4±14.2</td><td>25.1±4.8</td></tr><tr><td>正常组</td><td>49.3±16.2</td><td>64.5±15.1</td><td>22.7±5.3*</td></tr></table></body></html>
+
+注：与正常对照组比较， $^ { * } P { < } 0 . 0 5$
+
+# 2.2两组间组血糖胰岛素水平及胰岛素抵抗指数比较
+
+T2DM组空腹胰岛素水平 $1 9 . 5 2 { \scriptstyle \pm 2 . 0 1 } \mathrm { \ m U / L }$ 胰岛素抵抗指数 $1 2 . 8 { \pm } 3 . 7 \$ 与正常组空腹胰岛素水平 $1 3 . 2 2 \pm$ $2 . 1 1 \mathrm { \ m U / L }$ 、胰岛素抵抗指数 $3 . 1 { \pm } 2 . 5$ 比较， $P { < } 0 . 0 5$ ，认为有统计学差异。
+
+# 2.3两组间瘦素、脂联素、游离脂肪酸水平的比较
+
+T2DM组的瘦素及FFA水平均显著高于正常对照组(均 ${ \cal P } { < } 0 . 0 1 \$ )。T2DM组的脂联素水平均显著低于对照组(均 $P { < } 0 . 0 1$ ，表2)。
+
+表2两组间瘦素、脂联素、游离脂肪酸水平的比较   
+
+<html><body><table><tr><td>组别</td><td>瘦素(μg/L)</td><td>脂联素（μg/mL）</td><td>FFA(mmol/L)</td></tr><tr><td>T2DM</td><td>11.52±2.01*</td><td>3.24±2.75*</td><td>0.98±0.12*</td></tr><tr><td>正常组</td><td>5.22±2.11</td><td>7.34±3.65</td><td>0.58±0.42</td></tr></table></body></html>
+
+注：与正常对照组比较， $^ { * } P { < } 0 . 0 5$
+
+# 2.4瘦素、脂联素、FFA与各指标相关性
+
+T2DM组瘦素与BMI、FINS、HOMA-IR和游离脂肪酸呈显著正相关(均 $P { < } 0 . 0 5 )$ 。脂联素与HOMA-IR显著负相关 $( P { < } 0 . 0 5 )$ 。游离脂肪酸与BMI、腰围、FPG、FINS、2hPG、HOMA-IR均显著正相关(均 $P { < } 0 . 0 5$ ）
+
+# 3讨论
+
+T2DM是一种常见的、多发的内分泌代谢性疾病。胰岛素抵抗及胰岛β细胞功能缺陷为T2DM发病的重要机制。近年大量证据证明脂肪组织对胰岛素抵抗及糖尿病有重要影响，“脂肪组织毒性"和"脂肪科学”[3-4]等新概念也涌现出来,脂肪组织除储存脂质,调节能量代谢平衡外，还通过分泌多种"脂肪因子”调节糖、脂代谢平衡，如瘦素、脂联素等。脂肪组织功能紊乱与胰岛素抵抗密切相关，胰岛素抵抗多伴有肥胖。脂肪组织的量及分布、脂肪细胞的分化和大小等变化均可引起胰岛素抵抗[57]，近年有报道胰岛素抵抗最早出现于脂肪组织[8-9]。因此脂肪组织不仅是能量的储存器．更是一个重要的内分泌器官[10。在诸多"脂肪因子”中,瘦素是主要由白色脂肪组织产生的一类蛋白质激素，有较为广泛的生物效应，一个重要的机制就是作用于下丘脑的代谢调节中枢，起抑制食欲，增加能量消耗，抑制脂肪合成的作用。近年来研究表明，高瘦素血症和瘦素抵抗参与了胰岛素抵抗及T2DM的发生发展，甚至有研究认为，高瘦素血症及瘦素抵抗与胰岛素抵抗形成了恶性循环,共同加重了T2DM的发展。脂联素是一种由脂肪细胞分泌的内源性活性蛋白质产物，具有胰岛素增敏的作用,可促进肌肉组织中脂肪酸的氧化和糖吸收，加强胰岛素抑制糖异生的作用,抑制肝糖生成,进而改善胰岛素抵抗。脂联素是机体内糖脂代谢稳态调控网络中重要的一环。FFA可通过抑制胰岛素信号传导系统、抑制葡萄糖的摄取及糖原合成、促进糖异生等机制导致外周胰岛素抵抗及β细胞功能障碍。此外，高FFA水平所致的脂毒性是导致T2DM的另一个重要因素[1。在高血清FFA的情况下，大量自由基产生，进而激活氧化应激。而氧化应激与糖尿病的发病有着密切的联系。FFA参与了T2DM的发生、发展，因此控制好血清中FFA水平对于防治T2DM有重大的意义。因此，及早发现瘦素、脂联素、FFA等重要指标的异常并及时干预。对防治2型糖尿病意义重大。本研究检测了初诊T2DM患者的血清中瘦素、脂联素及FFA的水平，结果表明：(1)T2DM患者血清中瘦素和FFA水平较正常对照组显著升高;(2)与正常对照组比较,T2DM组FINS、HOMA-IR显著升高;(3)在T2DM组中，血清瘦素水平与BMI、FINS、HOMA-IR呈正相关。而BMI、FPG、FINS、HBAlc、HOMA-IR则与血清脂联素水平呈负相关。FFA与BMI、FPG、FINS、HBAlc、HOMA-IR呈显著正相关。瘦素、FFA、脂联素三者之间存在显著的相关性．瘦素与FFA两者间呈明显的正相关，而前两者与脂联素呈显著负相关。本研究结果与相关文献报道一致[12-13],相关文献报道T2DM患者的HOMA-IR和血清FFA水平与正常人比较差异均有统计学意义，同时FFA、瘦素、脂联素与血糖水平、糖化血红蛋白水平和HOMA-IR均呈正相关，这提示FFA、瘦素、脂联素与T2DM的相关性或是一个普遍的现象,进一步深入探讨上述几个因子在胰岛素抵抗和T2DM中的作用,对于更好的防治T2DM有重要的意义。此外，通过前瞻性的研究，探讨这三种指标在T2DM的诊断和疗效评价中的作用也是值得尝试的，而寻找能下调瘦素、游离脂肪酸，增加脂联素的药物也将为防治胰岛素抵抗及2型糖尿病带来新的希望。
+
+# 参考文献：
+
+[1]Wild S,Roglic G,Green A,et al.Global prevalence of diabetes: estimates for the year 2OoO and projections for 203o[J].Diabetes Care,2004,27(5): 1047-53.   
+[2]Eldor R,Raz I. Lipotoxicity versus adipotoxicity- The deleterious effects of adipose tissue on beta cells in the pathogenesis of type 2 diabetes[J].Diabetes Res Clin Pract,2006,74(1): S3-8.
+
+（下转311页）
+
+[9]尹中普,孙 晓.HIF-1α和GLUT-1在鼻咽癌组织中的表达及其临床 意义[J].中国肿瘤生物治疗杂志,2015,22(4):495-9.   
+[10] Tang CM,Yu J.Hypoxia-inducible factor-1 as a therapeutic target in cancer[J].JGastroenterol Hepatol, 2013,28(3): 401-5.   
+[11]Gravdal K,Halvorsen OJ,Haukaas SA,et al.Proliferation of immature tumor vessels is a novel marker of clinical progression in prostate cancer[J].Cancer Res,2009,69(11): 4708-15.   
+[12]Cha ST,Chen PS,Johansson G,et al. MicroRNA-519c suppresses hypoxia-inducible factor-lalpha expression and tumor angiogenesis [J].Cancer Res,2010,70(7): 2675-85.   
+[13]Ioannou M,Papamichali R,Kouvaras E,et al.Hypoxia inducible factor-lalpha and vascular endothelial growth factor in biopsies of small cell lung carcinoma[J].Lung,2009,187(5): 321-9.   
+[14]Baba Y,Nosho K,Shima K,et al.HIF1A overexpression is associated with poor prognosis in a cohort of 731 colorectal cancers [J].AmJPathol,2010,176(5): 2292-301.   
+[15]Peng Z,Shan C,Wang H,Expression of VHL and HIF-1alpha and its clinical significance in the lung cancer[J].J Central S Univ(Med Sci),2009,34(4):331-4.   
+[16]Hwang J,Rouhanizadeh M,Hamilton RT,et al.17 beta-Estradiol reverses shear-stress-mediated low density lipoprotein modifications [J].Free Radic Biol Med,2006,41(4): 568-78.   
+[17]吴冬,周亚燕,李先明,等.鼻咽癌组织中APE和HIF-1α表达的临床 意义[J].中国肿瘤临床,2009,36(13):755-8.   
+[18]Lindsay J，Esposti MD，Gilmore AP. Bcl-2 proteinsand mitochondria--specificity in membrane targeting for death [J]. Biochim Biophys Acta,2011,1813(4): 532-9.
+
+# 护理园地
+
+# 住院手术器械包装人员配置方案的对照分析
+
+林 英',郭记敏²  
+1四川省人民医院消毒供应中心,四川 成都 610072;²北京大学护理学院,北京 100191
+
+摘要：目的通过对住院手术器械包装流程中两种人员配置方案员工满意率、包装缺陷率的对比，分析两种人员配置的差异。方法研究按不同的人员配置方案分别设置为对照组和实验组：即以2014年2\~7月间的人员配置设为对照组；2014年8月\~2015年1月的人员配置为实验组。每组人员均为4人，在其他因素不变的情况下，通过各组员工对人员配置方案满意度以及器械包装缺陷率对比，比较两种不同人员配置的差异性。结果对照组人员配置满意率为 $6 1 . 5 \%$ ，实验组为 $9 6 . 2 \%$ $P { < } 0 . 0 5$ ，差异有统计学意义；对照组包装缺陷率为 $2 3 / \overline { { \mathcal { F } } }$ ，实验组为8.4/万， $P { < } 0 . 0 5$ ，差异有统计学意义。结论实践中优化人员配置可有效降低包装缺陷概率和提高员工岗位满意度，最终提高工作效率。  
+关键词：住院手术器械;包装；人员配置
+
+# Comparison and analysis of the staff allocation of the hospital surgical instrument
+
+LIN Ying,GUO JiMin
+
+CSSDofSalle'sialdolegeity
+
+Abstract:Objective Toanalyze the diference of2 staff alocation bycontrastingtheemployee satisfactionand therateof packaging defect when medical stafpackage hospital surgical instruments.Methods We compared the employeesatisfaction and the rateof packaging defect from experimental group with staffallocation in August 2014 to January2015 and control group with staff alocation in February 2014 to July 2014.Results Employeesatisfaction of the experimental group was $9 6 . 2 \%$ while the control group was $6 1 . 5 \%$ . There was a significant difference $( P { < } 0 . 0 5 )$ ; the rate of packaging defect in the experimental group was $8 . 4 / \mathrm { t e n }$ thousand while in the control group wa 23/ten thousand, the difference was significant $_ { ( P < 0 . 0 5 ) }$ . Conclusion Optimizing the staffallocationcould efectivelydecrease therateofpackaging defectand increase the employe satisfaction, eventually improve the work efficiency.
+
+Key Words: surgical instrument; packaging; staff allocation
+
+# （上接264页）
+
+[3]Nakao K.Adiposcience and adipotoxicity [J].Nat Clin Pract Endocrinol Metab,2009,5(2): 63.   
+[4]Tran TT,Yamamoto Y,Gesta S,et al.Beneficial effects of subcutaneous fat transplantation on metabolism[J].Cell Metab, 2008,7(5):410-20.   
+[5]Gavrilova O,Marcus-Samuels B,Graham D,et al．Surgical implantation of adipose tissue reverses diabetes in lipoatrophic mice [J].J Clin Invest,2000,105(3): 271-8.   
+[6]Viljanen AP,Lautamäki R,Järvisalo M,et al.Effects of weight loss on visceral and abdominal subcutaneous adipose tissue blood-flow and insulin-mediated glucose uptake in healthy obese subjects [J]. Ann Med,2009,41(2):152-60.   
+[7]Cahova M,Vavrinkovä H,Kazdovä L.Glucose-fatty acid interaction in skeletal muscle and adipose tissue in insulin resistance [J]. Physiol Res,2007,56(1): 1-15.   
+[8]Kieffer TJ,Habener JF.The adipoinsular axis:effects of leptin on pancreatic beta-cells[J].Am JPhysiol Endocrinol Metab,2O00,278 (1):E1-E14.   
+[9]Kershaw EE,Nier JS.Adipose tissue as aIl endocrine organ[J]．J Clin Endocrinol Metab,2004,89(5):2548-56.   
+[10]Resistance DI. Type 2 diabetes and atherosclerosis:the missing links [J].Diabetologia,2010, 53(7): 1270-87.   
+[11]陆秋涯,迟贞旎,陆怡德.空腹血清游离脂肪酸与2型糖尿病的关系 [J].检验医学,2012,27(9):725-7.   
+[12]王磊,朱 斌,秦灵灵,等.瘦素、脂联素、游离脂肪酸与2型糖尿病肝 郁脾虚证的关系[J].中日友好医院学报,2015,29(1):31-3,58.
+
+随着复用医疗器械由消毒供应中心(CSSD)集中管理供应模式在医院的应用，CSSD就担负着全院再生医疗用品的回收、清洗、包装、灭菌、贮存和发放工作，是医院感染控制的重要环节1。因此，越来越多地受到医院感染控制部门以及院领导的重视。工作人员也由传统的被照顾的老、弱、病、残护理工作人员转变为由具备较强工作能力的青年队伍组成。手术器械的处理是CSSD的核心工作，在我科将其分为门诊手术器械和住院手术器械，就包装环节分别由门诊手术包装操作台和住院手术包装操作台的工作人员完成，并且操作人员相对固定。而住院手术器械种类多、结构复杂、专科性强、配置要求严格，是CSSD工作的重点与难点，因此工作人员任务重、压力大。住院手术器械的包装是CSSD为住院手术提供灭菌合格、安全的复用诊疗器械的重要环节之一。尽管消毒供应中心在包装过程中已实行严格查对制度，但包装缺陷仍不可避免2]。在医院持续发展的进程中，随着医院手术量的增加，住院手术器械包装的工作量也日益增大，但限于医院现有人员和物质资源的限制，短期内医院既不能增加在职包装人员，又无法改变包装环境及操作设施，因此，如何保质保量地完成住院手术器械包装工作，实现患者诊疗安全，成为了CSSD重点关注的课题。本研究旨在探讨如何通过改革住院手术器械包装人员配置方案来提高员工满意度，降低包装缺陷率，以为促进CSSD的管理工作向科学化、标准化、规范化方向发展提供借鉴。
+
+# 1对象与方法
+
+# 1.1研究对象
+
+以本科室住院手术器械包装操作的工作人员为对象，均熟悉住院手术器械包装操作流程，共计26人，平均年龄为 $2 9 . 2 5 { \scriptstyle \pm 1 0 . 0 7 }$ 岁，工作年限1\~2年3人 $( 1 1 . 5 \% )$ _，3\~4年的15人 $( 5 7 . 7 \% )$ ） $\Rightarrow$ 年的8人 $( 3 0 . 8 \% )$ )；护士11人$( 4 2 . 3 \% )$ ，护师8人 $( 3 0 . 8 \%$ )，主管护师5人 $( 1 9 . 2 \% )$ ，技术工人2人 $( 7 . 7 \% )$ ；学历：本科5人 $( 1 9 . 2 \%$ )，大专16人$( 6 1 . 5 \% )$ ，中专3人 $( 1 1 . 5 \% )$ ，高中2人 $( 7 . 7 \% )$ ,其中男性1人，女性25人。
+
+# 1.2 方法
+
+设置实验组和对照组进行研究。由于本科室人员

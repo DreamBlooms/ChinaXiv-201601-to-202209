@@ -1,0 +1,223 @@
+# “固液”双层培养法诱导马铃薯‘米拉’试管薯的研究
+
+方志荣\*，周才懿，李佩华，清源(西昌学院，四川 西昌 615013)
+
+摘要:建立一套在组织培养室内诱导试管薯的方法，获得直接下田的马铃薯“种子”，以弥补夏季由于高温而不能生产原原种的不足，扩充原原种的数量。论文以马铃薯‘米拉（Mira）’品种的脱毒试管苗为试验材料，采用“固液双层”的培养方式，通过正交试验对‘米拉’试管苗壮苗生长阶段和试管薯诱导阶段的培养基进行了优化；同时通过单因素试验，研究了蔗糖浓度、光照条件和CCC 浓度对试管薯结薯的影响。结果表明：在“固液”双层培养中，‘米拉’壮苗培养阶段优化的培养基为：改良MS 培养基（MS培养基中硝酸铵变为 $2 \boldsymbol { 0 } 0 0 \mathrm { m g { \cdot } L } ^ { - 1 }$ 、硝酸钾变为 $2 \ 0 0 0 \ \mathrm { m g \cdot L ^ { - 1 } } ) + 5 0 0 \ \mathrm { m g \cdot L ^ { - 1 } C C C } + 0 . 1 \%$ 活性炭 $+ 0 . 1 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ I $\mathrm { ) A { - } 6 + 1 \ m g { \cdot } L ^ { - 1 } 6 { - } B A + 0 . 1 \ m g { \cdot } L ^ { - 1 } N A A + 3 \% }$ 蔗糖 $+ 6 \boldsymbol { \mathrm { g } } { \cdot } \boldsymbol { \mathrm { L } } ^ { - 1 }$ 琼脂， $\mathrm { P H } 5 . 8$ ；试管薯诱导及生长阶段优化的培养基为： $\mathbf { M } \mathbf { S } _ { 1 }$ 培养基（微量元素和铁盐的用量为MS 培养基的2倍） $+ 1 . 5 \%$ 活性炭 $+ 4 \mathrm { m g . L ^ { - 1 } } 6 { \cdot } \mathrm { B A } + 8 \%$ 蔗糖；在试管薯诱导阶段，弱光 $4 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 培养诱导的试管薯，在结薯指数、大薯率、薯块重量均优于暗培养。关键词:马铃薯，试管薯,6-苄基腺嘌呤，矮壮素，活性炭，胺鲜酯，组织培养
+
+中图分类号：Q945.51 文献标志码：A
+
+# Induction of microtuber of potato cultivar ‘Mira’ by “solid $+$ liquid' double layer culture
+
+FANG Zhirong\*, ZHOU Caiyi, LI Peihua, QING Yuan (Xichang College, Xichang 615013, Sichuan, China)
+
+Abstract:Microtubers which are produced by tissueculturehavebenefitsfordiseasefree potato production. If wecan obtain microtuber of potato that could be planted directly on the farm in the plant tissue culture room,it can be compensated that pre-elite seed potatoes couldn't be produced in Agricultural Hothouses in summer and increased the number ofpre-elite seed potatoes.Virus-free plantlets ofpotato cultivar ‘Mira' were used as experimental materials to induce potato microtuber by a two-step culture method. In the first step, nodal cutings (with one or two leaf） of potato plantletswere inoculatedsolid medium for culturing vigorous potato plantlats. After $2 0 { \mathrm { ~ d } } .$ ，liquid medium was adding on the solid medium toproceed to the second step for induction of potato microtuber. The optimum culture medium at the stage of culturing vigorous potato plantlats and induction of potato microtuber was obtainedby means of orthogonal design,and the effect of sucrose concentration,light condition and CCC concentration on induction of potato microtuber were also studied.The results showed that : the optimal medium at the stage of culturing vigorous potato plantlats was as follows: modified MS medium（ $\mathrm { N H _ { 4 } N O _ { 3 } }$ changed from 1 650 to $2 \boldsymbol { 0 0 0 } \mathrm { m g { \cdot } L } ^ { - 1 }$ and ${ \mathrm { K N O } } _ { 3 }$ changed from 1 900 to $2 0 0 0 \mathrm { m g { \cdot } L ^ { - 1 } }$ in MS medium） $+ 5 0 0 \mathrm { m g . L ^ { - 1 } C C C } + 0 . 1 \%$ activated carbon $+ 0 . 1 \mathrm { \ m g cdot L ^ { - 1 } D A - 6 + 1 \ m g { \cdot L ^ { - 1 } 6 } { \cdot B A + } }$ $0 . 1 ~ \mathrm { m g } \mathrm { . L } ^ { - 1 } ~ \mathrm { N A A } + 3 \%$ sucrose $+ \mathrm { ~ 6 ~ g { \cdot } L ^ { - 1 } }$ agar, $\mathrm { P H } ~ 5 . 8$ , the optimal medium at the stage of induction of potato microtuber was as follows: $\mathbf { M S } _ { 1 }$ medium（two times of $\mathrm { F e S O _ { 4 } }$ 0 $\mathrm { { N a } _ { 2 } E D T A ) }$ and trace elements of MS medium) $^ +$ $1 . 5 \%$ activated carbon $+ 4 \mathrm { m g . L ^ { - 1 } } 6 { \cdot } \mathrm { B A } + 8 \%$ sucrose.The results also indicate that illuminated with dim light for $4 \ \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ could obtain potato microtubers with higher frequency of tuberization and big microtubers than dark treatment. Theresultsindicated that“solid $^ +$ liquid” double layer culture couldbeappliedformass propagation ofpotato tubers‘Mira’at low cost in the plant tisse culture room,and could be increased the number of pre-elite seed potatoes.This method can also be used for the production of microtuber of other potato cultivars.
+
+Keywords: potato, microtuber, 6-BA, CCC,activated carbon,DA-6, tissue culture
+
+凉山州位于四川省的西南部，属于典型的高原山地，区内光照充足、昼夜温差大，十分有利于马铃薯的生长，是四川省马铃薯的主产区，尤其是二半山（海拔1500m）以上的彝族聚居区，马铃薯不仅是农民粮食的主要来源，也是经济的主要来源，在这些地区发展马铃薯产业是贫困彝区农民脱贫致富的重要渠道。2015年，凉山州马铃薯平均单产22.5 t·hm²，远远低于美国、比利时、新西兰等国的46.9～48.7t·hm²(世界粮农组织资料)。实践证明，推广应用脱毒种薯能显著提高马铃薯的产量和品质。目前，凉山州生产的脱毒种薯是以脱毒苗为基础，经过炼苗、洗苗、移栽驯化等繁琐、复杂的过程，脱毒种薯成本高，夏季网室大棚温度高，不能进行原原种生产，导致凉山州内脱毒种薯远远不能满足生产的需求。马铃薯脱毒试管薯（microtubers）是指通过培养瓶内的试管苗通过诱导培养，于叶腋内形成的直径为2～10mm 大小的块茎(Vander Zaag,1988)。马铃薯试管薯是继脱毒试管苗之后发展出来的一种种质保存和生产脱毒种薯的新形式，它体积小，重量轻，便于贮藏、运输和保存，而且可以作为“种子”在大田中大规模的种植，能加快脱毒种薯的繁殖，缩短种薯生产周期，而且能周年繁殖，应用已日益广泛。此外，马铃薯试管薯也被用在马铃薯基因工程研究中用作遗传转化的受体。
+
+影响马铃薯试管薯形成的因素很多，除与基因型(Khaliletal,2017；Gopal etal,2004)有关外，还受温度（蒋从莲和郭华春,2007；马伟清等,2010）、培养方式（帅正彬等,2004；白淑霞等,2002)、光照(Hussainet al,2006）、碳源(Gopal et al,2004）、矿质营养(Radouani&Lauer,2015；马伟青等,1999）、植物生长调节剂(Gopal et al,2004)等多种因素的影响。Pelacho 指出，只有在诱导结薯的前一阶段培养出茎干粗壮、根系发达、叶色浓绿的试管苗，才能获得优质、高产的试管薯(Pelacho and Mingo-Castel,1991)。因此，试管薯一般通过两步法诱导，即先将马铃薯脱毒试管苗接种到壮苗培养基上进行壮苗，然后在进行试管薯的诱导。不同培养方式诱导试管薯的研究表明：在相同浓度条件下，液体培养基诱导的试管薯在结薯率、薯块重量、薯块直径方面优于固体培养基(Piao et al,2003；白淑霞等,2002)。但是，液体培养操作繁琐，污染率高，而且试管苗容易折断，灭菌成本高。“固体 $^ +$ 液体”的“固液双层”培养方式虽然结薯率低一点，但是相比液体培养方式操作简单，污染率低，灭菌用电少，适合于大规模生产使用(帅正彬等,2004)。本试验采用“固液双层”培养体系，采用正交试验设计对壮苗阶段和试管薯诱导阶段的培养基成分进行了优化，并研究了光照、蔗糖浓度及CCC 浓度对试管薯结薯的影响，以期能找到操作简便、生长周期短的试管苗及试管薯的高效培养和诱导技术，也为试管薯的培养提供参考。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+供试材料为本实验室脱毒的‘米拉（Mira）'试管苗。在无菌条件下,将试管苗切成带 $_ { 1 \sim 2 }$ 个叶节的茎段后接种于继代培养基,每瓶 $1 5 { \sim } 2 0$ 苗，接种后的置于光照强度 $2 0 0 0 \mathrm { l x } { \sim } 4 0 0 0 \mathrm { l x }$ 、光照时间 $1 6 \mathrm { { h } } { \cdot } \mathrm { { d } } ^ { - 1 }$ 、温度 $2 5 { \pm } 2 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 的条件下培养至大约 $1 0 \mathrm { { c m } }$ 的高度备用。
+
+# 1.2 试验方法
+
+# 1.2.1 壮苗培养
+
+取出‘米拉’试管苗，在无菌条件下切成单节茎段，接种到壮苗培养基中，每瓶接种10 个茎段。壮苗培养基成分为：基础培养基 $^ +$ CCC $^ +$ 活性炭 $^ +$ DA-6 +1 mg·L 6-BA +0.1 mg·L NAA $+ 3 \%$ 蔗糖 $+ 6$ $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 琼脂，PH 5.8；基础培养基，CCC，AC 和DA-6 的成分和浓度水平采用四因素三水平的正交设计进行试验（表1），共9个处理，每个处理5瓶，接种后的培养瓶置于光照强度 $2 \ 0 0 0 \ \mathrm { l x } { \sim } 4 \ 0 0 0 \ \mathrm { l x }$ 、光照时间 $1 6 \ \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 、温度 $2 5 { \pm } 2 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 的条件下培养 $2 0 ~ \mathrm { d }$ ，统计各个处理的根数、茎粗、节间长度、鲜重和叶面积，找出适合‘米拉’脱毒试管苗的壮苗培养基。
+
+# 1.2.2 试管薯诱导培养
+
+试管薯的诱导采用固液双层培养的方法，在无菌条件将 $2 0 ~ \mathrm { m l }$ 无菌的液体培养基加入试管苗进行壮苗培养后的培养瓶中，液体培养基成分为：基础培养基 $^ +$ 蔗糖 $+  { \cdot } \mathbf { B } \mathbf { A } + \mathbf { \Gamma }$ 活性炭， $\mathrm { P H } 5 . 8$ 。基础培养基、6-BA、活性炭和蔗糖的组合和浓度采用四因素三水平的正交设计进行试验（表2），共9个处理，每处理5瓶，接种后在温度 $2 5 { \pm } 2 \ \mathrm { ~ \textdegree C }$ 、弱光 $4 \ \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 的条件下诱导结薯。诱导培养40d后，统计各处理的成薯指数（结薯数/结薯株数）、薯块重量(g)、大薯率(质量 $> 0 . 1 \ \mathrm { \ g } )$ 和薯块直径等，找出适合‘米拉’试管薯诱导的诱导培养基。
+
+Table 1 Factors and levels related to the best medium for virus-free plantlets vigorous growth
+
+表1壮苗培养基的因素和水平表  
+
+<html><body><table><tr><td>因素Factors 水平Levels</td><td>A、CCC 浓度 Concentration of CCC （ mg·L1)</td><td>B、活性炭浓度 Concentrationofactivated carbon （%）</td><td>C、培养基种类 Kind ofculture medium</td><td>D、DA-6 浓度 Concentration of DA-6( mg·L¹)</td></tr><tr><td>1</td><td>100(A1)</td><td>0.05(B1)</td><td>MS(C1)</td><td>0(D1)</td></tr><tr><td>2</td><td>200(A2)</td><td>0.1(B2)</td><td>改良 MS(C2)</td><td>0.1(D2)</td></tr><tr><td>3</td><td>500(A3)</td><td>0.15(B3)</td><td>2 MS(C3)</td><td>1(D3)</td></tr></table></body></html>
+
+注：改良MS 培养基为原MS 培养基中硝酸铵变为 $\overline { { 2 \ 0 0 0 \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } } }$ 、硝酸钾变为 $\overline { { 2 \ 0 0 0 \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } } }$ ；2MS 表示用量为原MS 培养基的2倍。
+
+Note: Modified MS medium means that $\mathrm { N H _ { 4 } N O _ { 3 } }$ has been changed from 1 650 to $2 \ 0 0 0 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ and ${ \bf K N O } _ { 3 }$ has been changed from 1 900 to $2 0 0 0 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ ,compared to MS medium; 2 MS medium means that the dosage was two times of MS medium.
+
+# 表2试管薯诱导培养基因素、水平表
+
+Table 2 Factors and levels related to the best medium for induction of potato microtuber   
+
+<html><body><table><tr><td>因素</td><td>Factors</td><td>A 蔗糖浓度 Concentration of</td><td>B 6-BA 浓度 Concentration of 6-BA（ mg.L-1）</td><td>C 活性炭浓度 Concentration of activated</td><td>D 培养基种类Kind of culture medium</td></tr><tr><td>水平Levels</td><td></td><td>sucrose(%)</td><td>2(B1)</td><td>carbon（%)</td><td>MS(D1)</td></tr><tr><td></td><td>1</td><td>8(Ai) 10(A2)</td><td>4(B2)</td><td>0.5(C1) 1.0(C2)</td><td>MS(D2)</td></tr><tr><td></td><td>2</td><td></td><td>6(B3)</td><td>1.5(C3)</td><td>MS2(D3)</td></tr><tr><td></td><td>3</td><td>12(A)</td><td></td><td></td><td></td></tr></table></body></html>
+
+注： $\mathbf { M } \mathbf { S } _ { 1 }$ 培养基将原MS培养基中的微量元素和铁盐的用量改为原来的2倍； $ { \mathbf { M } }  { \mathbf { S } } _ { 2 }$ 培养基将原MS 培养基中 $\mathrm { K H _ { 2 } P O _ { 4 } }$ 的用量改为 $3 4 0 \mathrm { m g { \cdot } L ^ { - 1 } }$ 。
+
+Note: $\mathbf { M S } _ { 1 }$ medium means that two times of $\mathrm { F e S O _ { 4 } }$ 0 $\mathrm { N a } _ { 2 } \mathrm { E D T A } )$ and trace elements of MS medium; $ { \mathbf { M } }  { \mathbf { S } } _ { 2 }$ means that $\mathrm { K H _ { 2 } P O _ { 4 } }$ has been changed from 170 to $3 4 0 \mathrm { m g { \cdot } L ^ { - 1 } }$
+
+# 1.2.3 单因素试验
+
+1.2.3.1光照对试管结薯的影响
+
+采用优化后的壮苗培养基进行壮苗培养， $2 0 \textup d$ 后向培养瓶中加入 $2 0 ~ \mathrm { m l }$ 的试管薯诱导优化培养基，然后将培养瓶分别放在 $2 5 { \pm } 2 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下弱光 $4 \ \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 、弱光 $8 \ \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 、或全黑暗条件下进行培养，每个处理5瓶，40天后观测，筛选利于试管结薯的光照条件。
+
+# 1.2.3.2 蔗糖浓度对试管结薯的影响
+
+采用优化后的壮苗培养基进行壮苗培养，20d后向培养瓶中加入 $2 0 ~ \mathrm { m l }$ 的无菌试管薯诱导培养基，诱导培养基中的蔗糖浓度为 $2 \%$ 、 $4 \%$ 、 $6 \%$ 、 $8 \%$ ，之后在 $2 5 { \pm } 2 ^ { \circ } \mathrm { C }$ 、弱光 $4 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 条件下进行培养， $4 0 \mathrm { d }$ 后观测，筛选利于试管结薯的蔗糖浓度。
+
+1.2.3.3矮壮素浓度对试管结薯的影响
+
+壮苗培养基采用改良MS 培养基 $+ \thinspace \mathrm { C C C } + 1 \%$ 活性炭 $+ 0 . 1 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ DA- ${ \cdot 6 + 1 \ \mathrm { m g { \cdot } L ^ { - 1 } 6 { \cdot } B A + 0 . 1 \ \mathrm { m g { \cdot } L ^ { - 1 } } } }$ $N \mathrm { A A } + 3 \%$ 蔗糖 $+ 6 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 琼脂， $\mathrm { P H } 5 . 8$ ，CCC的浓度为 $1 0 0 \mathrm { \ m g { \cdot } L ^ { - 1 } }$ 和 $5 0 0 \mathrm { m g { \cdot } L } ^ { - 1 }$ 进行试管苗的壮苗培养，20天后向培养瓶中加入 $2 0 \mathrm { m l }$ 的无菌试管薯诱导优化培养基，然后将培养瓶分别放在 $2 5 { \pm } 2 \ \mathrm { ^ \circ C }$ 下弱光 $4 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 条件下进行培养，每个处理5瓶， $4 0 \mathrm { d }$ 后观测，确定苗阶段培养基中不同CCC浓度对试管结薯的影响。
+
+# 1.3 数据收集和处理
+
+所有数据采用 SPSS22.0统计软件进行统计分析。其中，壮苗培养基和试管薯诱导培养基的优化采用极差分析和方差分析，单因素试验采用方差分析并用LSD（ $\mathsf { p } { < } 0 . 0 5$ ）法进行差异显著性检验。
+
+# 2结果与分析
+
+2.1壮苗培养中最佳培养条件分析
+
+2.1.1不同处理对试管苗根数的影响
+
+根为植物的营养器官之一，通过根可以吸收环境中的水分和养分供植物生长所用，因此根的数量是判断试管苗生长优劣的参数之一。从表3可以看出，处理组合为 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 2 }$ 培养出的根数最多，达到4.9根·株-1，且根的长势较理想；各因素各水平极差分析结果（表4）表明：各因素对根数的影响顺序为：培养基种类>活性炭 $> \mathrm { D A } { - } 6 > \mathrm { C C C }$ 。在改良的MS 培养基上根数相对较多，2MS 培养上的组培苗根数少，长势弱。诱导根的最优组合为： $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 1 }$ 。
+
+2.1.2不同处理对试管苗茎粗的影响
+
+植株的茎粗可以反应植株的生长的健壮程度，从表3可以看出，处理组合为 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 2 }$ 最健壮，达到$1 . 6 2 \mathrm { m m }$ 株"，其余的8个处理组合在茎粗上没有显著差异；各因素各水平极差分析结果（见表4）表明：CCC、活性炭、培养基种类、DA-6对茎粗的影响程度大致相等。
+
+2.1.3不同处理对试管苗节间长度的影响
+
+从表3可以看出，处理组合 $\mathbf { A } _ { 3 } \mathbf { B } _ { 3 } \mathbf { C } _ { 1 } \mathbf { D } _ { 2 }$ 节间长度最短，达到 $2 . 9 0 \mathrm { m m }$ ，处理组合为 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 2 }$ 节间长度为 $3 . 8 7 \mathrm { m m }$ ，但二者未表现出显著差异。处理组合 $\mathbf { A } _ { 1 } \mathbf { B } _ { 3 } \mathbf { C } _ { 3 } \mathbf { D } _ { 3 }$ 的节间长度最大，达到 $8 . 2 7 \mathrm { m m }$ 。各因素各水平极差分析结果（表4）表明，各因素对节间长度影响顺序为：培养基种类 $> \mathrm { C C C } > \mathrm { D A } { - } 6 >$ 活性炭。节间长度最短的优化培养基配方为： ${ \bf A } _ { 3 } { \bf B } _ { 2 } { \bf C } _ { 2 } { \bf D } _ { 2 }$ 。
+
+2.1.4不同处理对试管苗叶面积的影响
+
+叶片是植物进行光合作用的器官，叶面积的大小又与植株的健壮度相关。从表3可以看出，各处理组合之间,叶面积存在显著差异;其中,组合 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 2 }$ 叶面积最大,达到了 $0 . 2 7 \mathrm { c m } ^ { 2 }$ ；组合 $\mathbf { A } _ { 2 } \mathbf { B } _ { 3 } \mathbf { C } _ { 2 } \mathbf { D } _ { 1 } \mathbf { \cdot A } _ { 3 } \mathbf { B } _ { 1 } \mathbf { C } _ { 2 } \mathbf { D } _ { 3 } .$ $\mathbf { A } _ { 1 } \mathbf { B } _ { 3 } \mathbf { C } _ { 3 } \mathbf { D } _ { 3 }$ 、 $\mathbf { A } _ { 2 } \mathbf { B } _ { 1 } \mathbf { C } _ { 3 } \mathbf { D } _ { 2 }$ 最小，叶片较细。各因素各水平极差分析结果（表4）表明：各因素对叶面积的影响顺序为：培养基种类 ${ \approx } \mathrm { C C C } > \mathrm { D A } { - } 6 \approx$ 活性炭。叶面积最大的最优组合： $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 2 }$ 。
+
+表3壮苗培养正交试验结果与LSD分析结果  
+Table3Results of orthogonal test and LSD analysis at the stage of virus-free plantlets vigorous growth   
+
+<html><body><table><tr><td>处理 Treat- ment</td><td>组合 Combination</td><td>A CCC 浓度 Concentrati on of CCC （mg·L1）</td><td>B 活性炭浓度 Concentration of activated carbon （%）</td><td>C 培养基种类 Kind of culture medium</td><td>D DA-6浓 度 Concentra tion of DA-6 (mg·L1</td><td>根数(根·株) Number of root (root·plantlets-1)</td><td>茎粗 Stem diameter （mm）</td><td>鲜重（g株1） Fress biomass (g:plantlets-1)</td><td>节间长度 Internode length （mm）</td><td>叶面积 Leaf area (cm2)</td></tr><tr><td>1</td><td>AiBC2D2</td><td>100</td><td></td><td></td><td>）</td><td>4.9e</td><td>1.62b</td><td>0.20</td><td>3.87ab</td><td>0.27d</td></tr><tr><td>2</td><td>AiBCD1</td><td>100</td><td>0.1 0.05</td><td>C C1</td><td>0.1 0</td><td>2.3°</td><td>0.94a</td><td>0.12ab</td><td>7.23cde</td><td>0.14bc</td></tr><tr><td>3</td><td>A2B3C2D1</td><td>200</td><td>0.15</td><td>C1</td><td>0.1</td><td>0a</td><td>0.90a</td><td>0.11a</td><td>6.33cd</td><td>0.11a</td></tr><tr><td>4</td><td>ABCD3</td><td>200</td><td>0.1</td><td>C3</td><td>0</td><td>1.8bc</td><td>0.93a</td><td>0.11a</td><td>7.50de</td><td>0.12ab</td></tr><tr><td>5</td><td>A3BiC2D3</td><td>500</td><td>0.05</td><td>C</td><td>0.1</td><td>0</td><td>0.89a</td><td>0.14cd</td><td>4.97b</td><td>0.11a</td></tr><tr><td>6</td><td>A3B2C3D1</td><td>500</td><td>0.1</td><td>C1</td><td>1</td><td>1.5b</td><td>0.89a</td><td>0.12ab</td><td>4.40b</td><td>0.12ab</td></tr><tr><td>7</td><td>A3BCD2</td><td>500</td><td>0.15</td><td>C</td><td>0</td><td>3.4d</td><td>0.97a</td><td>0.11a</td><td>2.90a</td><td>0.15c</td></tr></table></body></html>
+
+<html><body><table><tr><td>8</td><td>AiBC3D3</td><td>100</td><td>0.15</td><td>C</td><td>1</td><td>0a</td><td>0.90a</td><td>0.13cd</td><td>8.27°</td><td>0.10a</td></tr><tr><td>9</td><td>AzBC3D2</td><td>200</td><td>0.05</td><td>C</td><td>1</td><td>2.3°</td><td>0.90a</td><td>0.13bed</td><td>4.37b</td><td>0.10a</td></tr></table></body></html>
+
+注：数字代表5个重复的平均值。相同字母表示差异不显著，不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下同。 Note:Data represent the mean value $\pm$ standard error from five replicates.Values followed by different letters differ at $P { < } 0 . 0 5$ between treatments by the LSD (the same is the case for all figures that follow). The same as follows.
+
+2.1.5不同处理对试管苗鲜重的影响
+
+植株的鲜重直接反应出其生产期间营养物质积累的多少，由于培养容器面积及高度有限，因此鲜重最能直接的反应出植株的健壮程度。从表3可以看出，处理组合 ${ \bf A } _ { 1 } { \bf B } _ { 2 } { \bf C } _ { 2 } { \bf D } _ { 2 }$ 鲜重最大，达每株 $0 . 2 0 \ \mathrm { g }$ ；处理组合$\mathbf { A } _ { 2 } \mathbf { B } _ { 3 } \mathbf { C } _ { 2 } \mathbf { D } _ { 1 }$ 、 ${ \bf A } _ { 2 } { \bf B } _ { 2 } { \bf C } _ { 1 } { \bf D } _ { 3 }$ 、 ${ \bf A } _ { 3 } { \bf B } _ { 3 } { \bf C } _ { 1 } { \bf D } _ { 2 }$ 鲜重最低，植株较纤细。各因素各水平极差分析结果（表4）表明：适当浓度的DA-6能促进试管苗鲜重的增加，四因素中对鲜重的影响最大，其次为CCC，培养基种类和活性炭的影响最小。鲜重最大的优化培养基配方为： $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 2 }$ 。
+
+综合考虑，本文选择 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 2 }$ 即：改良 $\mathrm { M S } + 1 0 0 \mathrm { m g . L ^ { - 1 } C C C } + 0 . 1 \%$ 活性炭 $+ 0 . 1 \ \mathrm { m g cdot L ^ { - 1 } } \ \mathrm { D A } { - } 6 + 1$ $\mathrm { m g . L ^ { - 1 } 6 - B A + 0 . 1 \ m g { \cdot } L ^ { - 1 } N A A } + 3 \%$ 蔗糖 $\cdot + 6 \ \mathrm { g { \cdot } L } ^ { - 1 }$ 琼脂， $\mathrm { p H } 5 . 8$ 作为壮苗培养基的优化培养基配方，利用该配方进行壮苗培养，根数、茎粗、鲜重、叶面积在所有处理中最大，而节间长度较短，达到壮苗培养要求。
+
+表4壮苗培养基各因素、各水平极差分析结果  
+Table4Range analysis of the factors and levels related to the best medium for virus-free plantlets vigorous growth   
+
+<html><body><table><tr><td rowspan="2">生理指标 Physiological index</td><td colspan="4">因素Facors</td><td rowspan="2">极差分析结果 Results ofrange analysis</td></tr><tr><td>A CCC 浓度 Concentration of CCC</td><td>B 活性炭浓度 Concentration of activated</td><td>C 培养基种类 Kind of culture</td><td>D DA-6浓度 Concentration of DA-6</td></tr><tr><td rowspan="5">根数(根·株) Number of root (root·plantlets-1)</td><td>K1</td><td>（mg:L¹) 2.38</td><td>carbon（%） 1.51</td><td>medium 1.25</td><td>（mg:L¹） 2.48</td><td>各因素对根数的影响顺序：培养基种类>活</td></tr><tr><td>K2</td><td>1.36</td><td>2.71</td><td>3.50</td><td>1.62</td><td>性炭>DA-6 > CCC Te order of factors affecting the number of roots</td></tr><tr><td>K3</td><td>1.61</td><td>1.12</td><td>0.60</td><td>1.25</td><td>was：Kind ofculture medium > Activated carbon>DA-6 >CCC 根数最多的最优组合：ABCDi</td></tr><tr><td>R</td><td>1.02</td><td>1.59</td><td>2.25</td><td>1.23</td><td>Theoptimal combinationwith maximum number of roots was:AjBCD1 2</td></tr><tr><td>K1</td><td>1.15</td><td>0.91</td><td>0.91</td><td>0.95</td><td>各因素对茎粗的影响顺序：CCC～活性炭～</td></tr><tr><td rowspan="4">茎粗 Stem diameter （mm）</td><td>K2</td><td>0.91</td><td>1.15</td><td>1.15</td><td>1.14</td><td>培养基种类~DA-6 Te order of factors affecting stem diameter</td></tr><tr><td>K3</td><td>0.92</td><td>0.92</td><td>0.92</td><td>0.90</td><td>was :CCC~Activated carbon ~ Kind of culture medium≈ DA-6</td></tr><tr><td>R</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>茎粗最大的最优组合：AiBCD The optimal combination with maximum stem</td></tr><tr><td>K1</td><td>0.15</td><td>0.13</td><td>0.13</td><td>0.11</td><td>diameter was:AiBCD2 各因素对鲜重的影响顺序:DA-6>CCC>培养</td></tr><tr><td rowspan="4">鲜重(g·株-1) Fress biomass (g:plantlets-1)</td><td>K2</td><td></td><td></td><td>0.14</td><td></td><td>基种类~活性炭 Te order of factors affecting fress biomass was:</td></tr><tr><td>K3</td><td>0.12</td><td>0.14</td><td></td><td>0.15</td><td>DA-6 > CCC >Kind ofculture medium Activated carbon</td></tr><tr><td>R</td><td>0.12 0.03</td><td>0.12 0.02</td><td>0.12 0.02</td><td>0.13 0.04</td><td>鲜重最大的最优组合：AiBCD The optimal combination with maximum fress</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>biomass was: ABCD2 各因素对节间长度的影响顺序：培养基种</td></tr><tr><td rowspan="4">节间长度 Internode length （mm）</td><td>K1</td><td>6.46</td><td>5.52</td><td>5.99</td><td>5.88</td><td>类>CCC>DA-6>活性炭 Te order of factors affecting internode length</td></tr><tr><td>K2</td><td>6.07</td><td>5.26</td><td>3.71</td><td>5.06</td><td>was：Kind ofculture medium > CCC ></td></tr><tr><td>K3</td><td>4.09</td><td>5.83</td><td>6.91</td><td>5.68</td><td>DA-长度最短的最优组合为：AB2C2D2 Theoptimal combinationwith maximum</td></tr><tr><td>R</td><td>2.37</td><td>0.57</td><td>3.2</td><td>0.82</td><td>internode length was: A3B2C2D2</td></tr><tr><td rowspan="2">叶面积 Leaf area (cm²)</td><td>K1</td><td>0.17</td><td>0.12</td><td>0.12</td><td>0.14</td><td>各因素对叶面积的影响顺序：培养基种类～</td></tr><tr><td>K2</td><td>0.11</td><td>0.17</td><td>0.17</td><td>0.16</td><td>Teur</td></tr></table></body></html>
+
+<html><body><table><tr><td>K3</td><td>0.13</td><td>0.12</td><td>0.11</td><td>0.11</td><td>carbon 叶面积最大的最优组合：AiBCD2</td></tr><tr><td>R</td><td>0.06</td><td>0.05</td><td>0.06</td><td>0.05</td><td>The optimal combination with maximum leaf area was: AjBCD2</td></tr></table></body></html>
+
+2.2试管薯诱导培养基及最佳培养条件分析
+
+2.2.1不同处理对试管薯成薯指数的影响
+
+从表5可知，不同处理组合对成薯指数有显著影响，处理组合 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 3 } \mathbf { D } _ { 2 }$ 成薯指数最大，达1.23，其次为处理组合 $\mathbf { A } _ { 3 } \mathbf { B } _ { 3 } \mathbf { C } _ { 3 } \mathbf { D } _ { 1 }$ ，成薯指数为0.87，其余组合成薯指数无显著差异。各因素、各水平极差分析结果（表6)表明：各因素对成薯指数的影响顺序为：6-BA $>$ 活性炭 $>$ 蔗糖 $>$ 培养基种类，适当浓度的6-BA能增加成薯指数，对成薯指数的影响最大，其次为活性炭，蔗糖和培养基种类对成薯指数的影响较小。成薯指数最大的培养基组合为 ${ \bf A } _ { 1 } { \bf B } _ { 2 } { \bf C } _ { 3 } { \bf D } _ { 2 }$ 。
+
+2.2.2不同处理对试管薯薯块重量的影响
+
+从表5可知，组合 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 3 } \mathbf { D } _ { 2 }$ 薯块重量最大，为每粒 $0 . 2 5 \ \mathrm { g }$ ，且与其它处理差异显著。极差分析结果（表6）表明，各因素对试管薯薯块重量的影响顺序为：6-BA $>$ 活性炭 $>$ 培养基种类 $>$ 蔗糖，表明可以通过适当调整6-BA 和活性炭浓度增加薯块重量。诱导薯块重量增加的最优培养基组合为 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 3 } \mathbf { D } _ { 2 }$ 。
+
+2.2.3不同处理对试管薯大薯率的影响
+
+从表5可知，处理组合 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 3 } \mathbf { D } _ { 2 }$ 大薯率最大，为 $6 6 . 1 5 \%$ ；处理组合 ${ \bf A } _ { 2 } { \bf B } _ { 3 } { \bf C } _ { 2 } { \bf D } _ { 2 }$ ， $\mathbf { A } _ { 3 } \mathbf { B } _ { 3 } \mathbf { C } _ { 3 } \mathbf { D } _ { 1 }$ 、 $\mathbf { A } _ { 1 } \mathbf { B } _ { 3 } \mathbf { C } _ { 2 } \mathbf { D } _ { 3 }$ 与 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 3 } \mathbf { D } _ { 2 }$ 无显著差异；处理组合 $\mathbf { A } _ { 1 } \mathbf { B } _ { 1 } \mathbf { C } _ { 1 } \mathbf { D } _ { 1 }$ 大薯率最小，为 $9 . 3 4 \%$ 。各因素、各水平极差分析结果（表6）表明，各因素对试管薯大薯率的影响顺序为：6-BA $>$ 培养基种类 $>$ 活性炭 $>$ 蔗糖；适当浓度的6-BA能增加大薯率，对大薯率的影响最大；培养基种类次之，增加 ${ \mathrm { K H } } _ { 2 } { \mathrm { P O } } _ { 4 }$ 的使用量能提高大薯率；活性炭和蔗糖对大薯率的影响相对较小。大薯率最高的培养基组合为 $\mathbf { A } _ { 1 } \mathbf { B } _ { 3 } \mathbf { C } _ { 3 } \mathbf { D } _ { 2 }$ 。
+
+2.2.4不同处理对试管薯薯块直径的影响
+
+从表5可知，处理组合 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 3 } \mathbf { D } _ { 2 }$ 薯块直径最大，达 $6 . 3 \mathrm { \ m m }$ ，与其它组合存在显著差异；处理组合$\mathbf { A } _ { 1 } \mathbf { B } _ { 1 } \mathbf { C } _ { 1 } \mathbf { D } _ { 1 }$ 薯块直径最小，仅为 $2 . 2 \mathrm { m m }$ 。各因素各水平极差分析结果（表6）表明，各因素对试管薯薯块直径的影响顺序为：活性炭 $>$ 培养基种类 ${ \approx } 6 .$ -BA $>$ 蔗糖；活性炭浓度的增加能提高薯块的直径，对薯块直径1的影响最大；其次为培养基种类和6-BA；蔗糖浓度影响最小。薯块直径最大的培养基组合为： $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 3 } \mathbf { D } _ { 2 }$ 。综合考虑，本文选择组合 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 3 } \mathbf { D } _ { 2 }$ ，即 $\mathbf { M S } _ { 1 } { + } 1 . 5 \%$ 活性炭 $+ 4 \mathrm { m g . L ^ { - 1 } 6 { - } B A } + 8 \%$ 蔗糖为试管薯诱导的适合培养基。
+
+Table5Results of orthogonal test and LSD analysis at the stage of induction of potato microtuber
+
+表5试管薯诱导正交试验结果和LSD分析结果  
+
+<html><body><table><tr><td>Tr理ent</td><td>Combination</td><td>A (%）</td><td>B</td><td>C</td><td>D culture</td><td>production</td><td>（g·tuber1)</td><td></td><td>(mm)</td></tr><tr><td>1</td><td>AB2C3D2</td><td></td><td>（mg:L¹）</td><td>carbon （%）</td><td>medium</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>AiBiCiD1</td><td>8</td><td>4</td><td>1.5</td><td>MS1</td><td>1.23℃ 0.63ab</td><td>0.25℃ 0.03a</td><td>66.15℃ 9.34a</td><td>6.3° 2.2a</td></tr><tr><td>3</td><td>AzBC2D2</td><td>8</td><td>2</td><td>0.5</td><td>MS MS1</td><td>0.53a</td><td>0.06ab</td><td>44.44bc</td><td>2.9ab</td></tr><tr><td>4</td><td>A2B2C2D1</td><td>10 10</td><td>6 4</td><td>0.5 1.0</td><td>MS</td><td>0.50a</td><td>0.08b</td><td>27.78ab</td><td>3.3ab</td></tr><tr><td>5</td><td>A3BiC2D2</td><td>12</td><td>2</td><td>1.0</td><td>MS1</td><td>0.47a</td><td>0.06ab</td><td>34.44ab</td><td>3.5b</td></tr><tr><td>6</td><td>A3B2CiD3</td><td>12</td><td>4</td><td>0.5</td><td>MS2</td><td>0.60a</td><td>0.05ab</td><td>32.14ab</td><td>2.7ab</td></tr><tr><td>7</td><td>A3BC3D1</td><td>12</td><td>6</td><td>1.5</td><td>MS</td><td>0.87b</td><td>0.06ab</td><td>45.77bc</td><td>3.4ab</td></tr><tr><td>8</td><td>A1B3C2D3</td><td>8</td><td>6</td><td>1.0</td><td>MS2</td><td>0.53a</td><td>0.07ab</td><td>45.83bc</td><td>3.4ab</td></tr><tr><td>9</td><td>A2BC3D3</td><td>10</td><td>2</td><td>1.5</td><td>MS2</td><td>0.53a</td><td>0.05ab</td><td>28.89ab</td><td>2.9ab</td></tr></table></body></html>
+
+# 2.3单因素试验结果
+
+2.3.1光照对结薯率的影响
+
+光照是影响是马铃薯试管薯形成的主要因素，由表7可知，随着光照时间的延长，弱光 $8 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 处理成薯指数和最大薯重显著增加；但平均薯重弱光 $8 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 与黑暗培养无显著差异；大薯率弱光 $8 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 处理明显低于与弱光 $4 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 及黑暗培养；而薯块直径则弱光 $4 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 和弱光 $8 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 处理高于黑暗培养。大薯率是试管薯诱导中的一个重要指标，因此，应该在保证大薯率的前提下，兼顾平均薯重、薯块直径和成薯指数等参数，因此，本文认为，最佳结薯的光照条件应为弱光处理 $4 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 。
+
+# 2.3.2蔗糖浓度对试管薯结薯的影响
+
+蔗糖浓度对试管薯有明显的诱导作用，从表8可以看出，随着蔗糖浓度的增加，成薯指数和大薯率显著增加；在 $8 \%$ 的蔗糖浓度下，成薯指数达1.25，大薯率达到 $9 5 . 6 3 \%$ ，最大薯重达到 $0 . 4 9 1 \ \mathrm { g }$ 粒；在薯块重量和薯块直径方面， $8 \%$ 的蔗糖浓度与 $4 \%$ 和 $6 \%$ 无显著差异、但明显高于 $2 \%$ （表8）。 $10 \%$ 和 $12 \%$ 的高蔗糖浓度下，试管薯的成薯指数、薯块重量、大薯率和薯块直径都明显下降(表6)，因此适宜的蔗糖浓度应为 $8 \%$ 。
+
+# 2.3.3矮壮素浓度对试管薯结薯的影响
+
+从表9可知， $5 0 0 \ \mathrm { \ m g { \cdot } L ^ { - 1 } }$ CCC 处理与 $1 0 0 \ \mathrm { \ m g { \cdot } L ^ { - 1 } }$ CCC 处理相比，成薯指数与最大薯重分别提高了$2 9 . 7 2 \%$ ， $1 4 . 7 1 \%$ 。因此，前期壮苗阶段，CCC 的浓度宜可采用 $5 0 0 \mathrm { m g { \cdot } L } ^ { - 1 }$ 。
+
+# 表6诱导培养基各因素、各水平极差分析结果
+
+le6Range analysis of the factors and levels related to the best medium for induction of potato microtuber
+
+<html><body><table><tr><td rowspan="2">Physgicaindex</td><td colspan="4">因素Facors</td><td rowspan="2">Resul差分析结果alysis</td></tr><tr><td></td><td></td><td>C</td><td></td></tr><tr><td rowspan="5">成薯指数 Index of</td><td></td><td></td><td></td><td>(%）</td><td></td></tr><tr><td>K1</td><td>0.80 0.54 0.52</td><td>0.59 0.50</td><td>0.67 0.74</td><td>各因素对成薯指数的影响顺序：6-BA>活性 炭 >蔗糖 >培养基种类 Teorder offactorsaffecting indexof 1</td></tr><tr><td>K2 K3</td><td>0.78 0.65 0.64</td><td>0.88</td><td>0.55</td><td>production was: 6-BA > Activated carbon> Sucrose> Kind ofculture medium</td></tr><tr><td>R</td><td>0.28</td><td>0.54 0.38</td><td>0.19</td><td>成薯指数最大的最优组合：AiBCD2 Theoptimal combination with maximum index of production was:ABCD2</td></tr><tr><td>K1</td><td>0.117</td><td>0.047</td><td>0.047 0.057</td><td>各因素对薯块重量的影响顺序：6-BA>活性</td></tr><tr><td rowspan="4">平均薯重 (g·粒-) Average weigrt （g·tuber-1)</td><td></td><td>0.063</td><td>0.127</td><td>0.070</td><td>0.123</td><td>炭 >培养基种类>蔗糖 Te order of factors affecting average tuber weight was:6-BA >Activated carbon>Kind</td></tr><tr><td>K2 K3</td><td>0.057</td><td>0.063</td><td>0.120</td><td>0.057</td><td>块重量最大的最优组合：AB2C3D2</td></tr><tr><td>R</td><td>0.06</td><td>0.08</td><td>0.073</td><td>0.066</td><td>Theoptimal combination with maximum average tuber weight was: AiB2C3D2</td></tr><tr><td>K1</td><td>40.44</td><td>24.22</td><td>28.64</td><td>27.63</td><td>各因素对大薯率的影响顺序：6-BA>培养基 种类 >活性炭>蔗糖</td></tr><tr><td rowspan="4">大薯率 Percentage of big tubers (%)</td><td>K2</td><td>33.70</td><td>42.02</td><td>36.02</td><td>48.34</td><td>Te order of factors affecting percentage of big tubers was： 6-BA > Kind of culture</td></tr><tr><td>K3</td><td>37.45</td><td>45.35</td><td>46.94</td><td>35.62</td><td>medium >Activated carbon> Sucrose 大薯率最大的最优组合：AiBCD</td></tr><tr><td>R</td><td>6.74</td><td>21.13</td><td>18.3</td><td>20.71</td><td>The optimal combination with percentage of big tubers Was: AiBCD2</td></tr><tr><td>K1</td><td>3.97</td><td>2.87</td><td>2.60</td><td>2.97</td><td>各因素对薯块直径的影响顺序：活性炭>培</td></tr><tr><td rowspan="4">薯块直径 Tuber diamter</td><td>K2</td><td>3.03</td><td>4.10</td><td>3.40</td><td>4.23</td><td>养基种类~6-BA>蔗糖 Te order of factors affecting tuber diameter was ：Activated carbon>Kind of culture</td></tr><tr><td>K3</td><td>3.20</td><td>3.23</td><td>4.20</td><td>3.00</td><td>薯e直径最大的最优组合为：AiB2C3D2</td></tr><tr><td>R</td><td>0.94</td><td>1.23</td><td>1.60</td><td>1.26</td><td>The optimal combination with maximum tuber diameter was: AiB2C3D2</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3 讨论
+
+在马铃薯试管结薯研究中，邱彩玲等（2008）发现，试管苗长势与试管薯均粒重成显著或极显著正相关，健壮的试管苗比幼嫩的试管苗容易结薯(鄢铮和郭德章,2004)，因此培育健壮的试管苗是生产较大试管薯的基础条件。固液双层培养方式由于可以对试管苗生长阶段和试管薯诱导及生长阶段进行调控，已成为试管薯诱导的常用方法(白淑霞等,2002；帅正彬等,2004；王瑞斌等,2006)。
+
+在马铃薯试管苗壮苗培养中，在原MS 培养基的基础上将硝酸铵变为 $2 0 0 0 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ 、硝酸钾变为2000  
+$\mathrm { m g \cdot L ^ { - 1 } }$ ，与 MS 和2倍MS 培养基相比，植株鲜重增加，叶面积增加，鲜重提高，植株长势粗壮，节间缩  
+短，这与马伟青等(1999)的研究结论一致；但在另外的研究中发现，2倍MS 培养基能促进马铃薯‘克新4表7不同光照条件对试管薯结薯的影响
+
+Table 7 Effect of different light conditions on induction of potato microtuber   
+
+<html><body><table><tr><td>处理 Treament</td><td>成薯指数 Index of production</td><td>平均薯重 (g·粒) weight g ubr)</td><td>大薯率 Prcentag g gtasrs</td><td>最大薯重 (g·粒) Ttght gstbet</td><td>薯块直径 Tuber diameter</td></tr><tr><td>黑暗培养 darkness</td><td>1.18±0.02a</td><td>0.160±0.002a</td><td>81.70±7.57b</td><td>0.304±0.005a</td><td>0.43±0.04a</td></tr><tr><td>弱光4h·d Dim light 4 h·d-1</td><td>1.25±0.02b</td><td>0.257±0.025b</td><td>95.63±2.63b</td><td>0.491±0.072a</td><td>0.67±0.03b</td></tr><tr><td>弱光8h·d Dim light 4 h·d'1</td><td>1.38±0.00</td><td>0.201±0.033a</td><td>63.97±0.33a</td><td>0.628±0.090b</td><td>0.58±0.03b</td></tr></table></body></html>
+
+注：数据代表5个重复的平均值 $\pm$ 标准差。下同。 Note:Data represent the mean value $\pm$ standard error from five replicates.The same as follows.
+
+Table 8 Effect of different sucrose concentration on induction of potato microtuber   
+
+<html><body><table><tr><td>蔗糖浓度 Concentration of sucrose(%)</td><td>成薯指数 Index of production</td><td>平均薯重 (g·粒) Average tuber weight （g·tuber-1)</td><td>大薯率 Percentage of big tubers (%)</td><td>最大薯重 (g·粒) The biggest tuber weight</td><td>薯块直径 diameter (mm)</td></tr><tr><td>2</td><td>0.53±0.03a</td><td>0.121±0.023a</td><td>30.00±5.77a</td><td>0.234±0.035a (g·tuber1)</td><td>0.490±0.059a</td></tr><tr><td>4</td><td>0.86±0.03b</td><td>0.240±0.030b</td><td>56.98±6.31b</td><td>0.354±0.009b</td><td>0.523±0.057ab</td></tr><tr><td>6</td><td>1.04±0.04c</td><td>0.261±0.009b</td><td>75.71±2.97℃</td><td>0.459±0.038bc</td><td>0.526±0.042ab</td></tr><tr><td>8</td><td>1.25±0.02d</td><td>0.257±0.025b</td><td>95.63±2.63d</td><td>0.491±0.072</td><td>0.672±0.026b</td></tr></table></body></html>
+
+# 表9不同CCC浓度对试管薯结薯的影响
+
+表8不同蔗糖浓度对试管薯结薯的影响  
+Table 9 Effect of different CCC concentration on induction of potato microtuber   
+
+<html><body><table><tr><td>CCC浓度 Concentration of CCC（mg·L1)</td><td>成薯指数 Index of production</td><td>平均薯重 (g·粒) Average tuber weight （g·tuber-1)</td><td>大薯率 Percentage of big tubers (%)</td><td>最大薯重 (g·粒) The biggest tuber</td><td>薯块直径 Tuber diameter (mm)</td></tr><tr><td>100</td><td>1.25±0.02</td><td>0.257±0.025</td><td>95.633±2.633</td><td>weight（g·tuber-1) 0.491±0.072</td><td>0.672±0.026</td></tr><tr><td>500</td><td>1.63±0.07</td><td>0.243±0.023</td><td>92.277±0.341</td><td>0.563±0.014</td><td>0.620±0.021</td></tr></table></body></html>
+
+号’和‘克新2号’试管苗的生长，使其健壮生长(金顺福等，1995)，这与本试验结果不一致，可能跟马铃薯的品种和基因型差异有关(Khalil et al,2017)。CCC 是一种植物生长延缓剂，常用于壮苗培养，能使试管苗节间缩短，茎粗、叶片数和有效扩繁节段数增加；过高浓度则引起毒害，如致高过度低矮、叶片反卷、叶片黄化脱落等现象(吴艳清等,2015)；本文发现， $1 0 0 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ CCC下植株鲜重最大， $5 0 0 ~ \mathrm { m g { \cdot } L ^ { - 1 } }$ CCC抑制了植物的生长，明显的缩短了节间长度，但是未表现出明显的毒性。胺鲜酯(DA-6,2-N，N-乙氨基乙基己酸酯)是广谱性细胞分裂素类植物生长调节剂，一定浓度的DA-6能提高了草莓植株的叶面积、光合速率以及叶绿素含量,增加草莓的单产(苗鹏飞等,2007)，DA-6在马铃薯试管苗的繁殖方面鲜有报，本试验发现，$0 . 1 \ \mathrm { m g \cdot L ^ { - 1 } }$ DA-6 使马铃薯‘米拉’试管苗植株鲜重、叶面积和茎粗增加，节间长度缩短，植株长势粗壮，因此DA-6可应用马铃薯试管薯的扩繁中。在培养基中加入适量的活性碳粉会促进试管苗的生长和生根(夏静波等,2011)，在本实验中， $0 . 1 \%$ 的活性炭对马铃薯‘米拉’试管苗的生长有促进作用，表现为根数、茎粗、鲜重和叶面积增加，节间缩短，植株健壮等效果，可用于壮苗培养。
+
+在马铃薯试管苗结薯培养中，将MS培养基中的微量元素和铁盐的用量改为原来的2倍，成薯指数、薯块重量、大薯率和薯块直径均得到提高。也有研究发现，将MS 培养基中的微量元素提高4倍，可以诱导结薯(刘仁祥,2001)；或将 MS 培养基中的铁盐的用量改为原来的2倍,可以增加薯块重量(张志军,2004)。我们在MS 培养基的基础上，将 $\mathrm { K H _ { 2 } P O _ { 4 } }$ 的用量改为 $3 4 0 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ ，成薯指数下降，大薯率增加。有研究表明，过高的磷酸二氢钾降低结薯数量，但薯块重量增加，并建议将培养基的磷浓度调整为 $2 5 5 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ （张志军,2004)，因此，MS 培养基中的微量元素、铁盐及 ${ \mathrm { K H } } _ { 2 } { \mathrm { P O } } _ { 4 }$ 的用量还可以通过试验进一步优化。在马铃薯试管薯结薯培养中，为了缩短生产周期，提高试管薯的产量和质量，使用外源激素是必要的，其中，6-BA是常用且效果最为显著的(胡云海和蒋先明，1989；杨宏羽等,2008)；本文研究发现，在设定的因素和水平下，6-BA对成薯指数，薯块重量，大薯率的影响最大，说明6-BA对马铃薯‘米拉’试管苗的结薯是必须的。高浓度的蔗糖（ $6 \% - 1 0 \%$ )是试管薯诱导过程中必不可少的条件(胡云海和蒋先明,1989；吕长文等,2004;Gopal etal.,2004)；马铃薯‘米拉’的结薯培养基中最适蔗糖浓度为 $8 \%$ （Elaleem etal,2015；胡云海和蒋先明,1989;KhalilLetal,2017)，较高或较低的蔗糖浓度会对试管薯的诱导及生长产生不利的影响，这与本研究结果相一致。活性炭作为一种吸附剂，在马铃薯试管薯的诱导方面具有明显的效果，促进马铃薯试管薯的生成， $1 . 5 \%$ 的活性炭增加了试管薯的成薯指数、薯块重量、大薯率和薯块直径，另外活性炭的加入减弱了培养基中的光照，促进了营养物质的转移，并吸附了代谢中产生的有害物质，从而促进结薯。光照是影响马铃薯试管薯形成的主要因，大多数的研究指出，试管薯的诱导及生长需要黑暗条件下完成(Hussain etal,2006；崔翠等,2001;Ali et al,2018;Elaleem et al,2015)；有研究表明，马铃薯‘米拉’结薯对光照不敏感(崔翠等,2001)，散射光是诱导‘米拉’结薯的最佳条件(赵佐敏,2005)；本文的试验结果则表明，在弱光4$\mathbf { h } { \cdot } \mathbf { d } ^ { - 1 }$ 条件下进行结薯培养，成薯指数、薯块重量、大薯率、最大薯重、薯块直径均高于暗培养，这与光照可以延迟叶片衰老（Slimmonetal,1989），不断的为试管薯的生长和发育提供能量有关。弱光 $4 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ 处理的试管薯在膨大期会超出液体培养基，因此采摘时发芽率高，而黑暗条件下诱导的试管薯采摘时发芽率低，有休眠期，这与帅正彬等(帅正彬等,2004)的研究结果一致。因此，利用这一特点，可以根据需要选择弱光或光照培养,需要立即播种的可以采用弱光诱导，需要贮藏、运输的试管薯，可以采用黑暗诱导。由于多数的试管薯着生在试管苗基部、少数着生在中上部，因此缩短节间的长度可以让更多的节间浸泡在诱导培养基中以产生更多的试管薯，通过试验我们发现前期壮苗采用 $5 0 0 \mathrm { m g \cdot L ^ { - 1 } C C C }$ 处理，可以使后期试管薯的成薯指数、最大薯重分别增加 $2 9 . 7 2 \%$ 和14.71。体积大的试管薯具有较高的发芽率，可以获得整齐一致的幼苗，生产上 $ { 0 . 5 \mathrm { ~ g ~ } }$ 以上的试管薯可以作为“种子”(Park et al,2009)直接用于生产，因此试管大薯的培养十分重要。
+
+本文通过试验研究，得出马铃薯‘米拉’“固液双层”培养法在试管苗壮苗培养及结薯诱导阶段培养基的配方及培养条件，获得了较高的成薯指数、薯块重量、大薯率和薯块直径，为该品种及其它马铃薯主栽品种的种薯快繁提供技术参考，有重要的科学及应用价值。
+
+# 参考文献
+
+ALI S,KHAN N,NOUROZF,et al,2018.Effects of sucrose and growth regulators on the microtuberizationof potato germplasm[J]. Pak JBot, 50(2): 763-768.   
+BAI SX,AN ZM,WANG J,et al,20O2.Effects of diferent methods on growth of plantlets and microtuber induction in potato[J].ChinJEco-Agric,10(2):40-41.[白淑霞，安忠民，王静，等,2002.不同培养方式 对马铃薯试管苗生长与试管薯诱导的影响[J]．中国生态农业学报,10(2):40-41.]   
+CUI C,HEFF, WANG JC,et al,20O1.Efects of photoperiod and carbon sources on the formation of microtubers of potato in vitro[J].JSWAgric Univ(Nat Sci Ed),23(6):547-548.[崔翠，何凤发，王季春，等,2001．光照 时间和碳源对试管薯形成的影响[J]．西南大学学报(自然科学版),23(6):547-548.]   
+ELALEEM KGA, MODAWI RS,KHALAFALLA MM, 2015. Microtuber induction of two potato (Solanum tuberosum L.) varieties namely, Almera and Diamant[J]. Int Res JBiol Sci, 4(3): 84-89.   
+GOPAL J, CHAMAIL A, SARKAR D,2O04.In vitro production of microtubers for conservation of potato germplasm: Effect of genotype,abscisic acid,and sucrose[J]. In Vitro Cell & Develop Biol-Plant, 40(5): 485-490.   
+HU YH,JIANG XM,1989.The effectof different kinds of sugar and ba on the formationof in vitro tubers of potato(solanum tuberosum L)[J]. Chin Potato J,3(4):203-206.[胡云海，蒋先明,1989.不同糖类和对马铃 薯试管薯的影响[J]．中国马铃薯,3(4):203-206.]   
+HUSSAIN I, CHAUDHRY Z, MUHAMMAD A, et al, 2006.Efect of chlorocholine chloride,sucrose and BAPon in vitro tuberization in potato (Solanum tuberosum L.cv.Cardinal)[J]. Pakistan JBot, 38(2):275-282.   
+JIANG CL,GUO HC,2O07.Efects of Exogenous Hormones and Temperature on the Formation of Potato Micro-tuber in Vitro[J].JYunnan Agric Univ,22(6):824-828.[蒋从莲，郭华春,2007．不同外源激素和培 养温度对马铃薯试管薯形成的影响[J].云南农业大学学报,22(6):824-828.]   
+JIN SF, JIANG CM,CUI ZG, et al,1995.Culturing vigorouspotato plantlets in vitro[J].Chin Potato J, 9(3):139-143.[金顺福，姜成模，崔哲官，等，1995.培育健壮马铃薯试管苗试验[J].马铃薯杂志，9(3): 139-143.]   
+KHALIL MM,ABD EL AAL AMH, SAMY MM,2017. Studies on Microtuberization of Five Potato Genotypes[J]. Egypt J Hort, 44(1): 91- 97   
+LIU RX，2Oo1.Effect of activated charcoal and inorganic nutrition on the induction of the test-tube potato[J]. Plant PhysiolCommun,37(4):295-298.[刘仁祥,2001．活性炭和无机盐对马铃薯试管薯的诱导效应简报 [J]．植物生理学通讯,37(4):295-298.]   
+LU CW，WANG JC，HE QX,et al， 2004.Influences of culture medium composition_and method on micro-tuberization of potato[J].JSW Agric Univ(Nat Sci Ed),26(1): 30-34.[吕长文，王季春，何庆学，等, 2004.诱导法与营养液配方对马铃薯试管结薯的影响[J]．西南大学学报(自然科学版)，26(1):30-34]   
+MA WQ, WANG PL, HUANG CH, et al,1999.Effect of nitrogen, phosphorus and potassium content in medium of growth in vitro cultured potato seedlings[J]. Shandong Agric Sci,149(4): 35-36.[马伟青，王培伦，黄传 红，等,1999．培养基中氮磷钾对马铃薯试管苗生长的影响[J].山东农业科学,149(4):35-36.]   
+Ma WQ,DONG DF, CHEN GX, et al,2010. Effect of Light Length,Light Intensity and Temperature on Microtuber Induction in vitro[J].Chin Potato J,24(5):257-62.[马伟清，董道峰，陈广侠，等，2010．光 照长度、强度及温度对试管薯诱导的影响[J]．中国马铃薯,24(5):257-62.]   
+MIAO PF,LIU GJ,SHAN SM,2007. Efect of DA-6on growth and fruitof strawberry[J]. China Fruit,125(3): 22-25.[苗鹏飞，刘国杰，单守明,2007.DA-6 对草莓生长结果影响试验[J]．中国果树,125(3): 22-25.]   
+PARK SW, JEON JH, KIM HS,et al,2009.The effect of size and quality of potato microtubers on qualityof seed potatoes in the cultivar ‘Superior'[J].Sci Hort, 120(1): 127-129.   
+PELACHO AM, MINGO-CASTEL AM,1991. Jasmonic Acid induces tuberization of potato stolons cultured in vitro[J]. Plant Physiology, 97(3): 1253-1255.   
+PIAO XC, CHAKRABARTY D, HAHN EJ, et al, 2003. A simple method for mass production of potato microtubers using a bioreactor system. Curr Sci 84:1129-1132   
+QIU CL,SUFF, WANG SP, et al,2O08. Correlations of White Sugar Concentration with in vitro Plantlet Vigor and Microtuber Yield of Potato[J].Chin Potato J,22(5):266-269.[邱彩玲，宿飞飞，王绍鹏,等,2008．白糖 浓度与马铃薯试管苗长势及试管薯产量的相关性[J]．中国马铃薯,22(5):266-269]   
+RADOUANI A,LAUER FI, 2015. Efect of NPK media concentrations on in vitro potato tuberization of cultivars Nicola and Russet Burbank[J]. Am JPotato Res, 92(2): 294-297.   
+SHUAI ZB,GUO JH, YANG B,et al,2O04.Effects of different culture condition on the induction of potato microtubers[J].Southwest China JAgric Sci,17(2):212-214.[帅正彬，郭江洪，杨斌，等,2004.不同培养条 件对马铃薯试管薯诱导的影响[J]．西南农业学报,17(2):212-214.]   
+SLIMMON T,MACHADO VS,COFFIN R，1989.The effect of light onin vitro microtuberization of potato cultivars[J]. Am Potato J, 66(12): 843-848   
+WANG RB,WANG D, SI HJ,2006. Study on induction of potato microtuber by interaction of edible sugar with activated charcoal[J].JGansu Agric Univ,41(4):35-40.[王瑞斌，王蒂，司怀军,2006．食用白糖和活性炭 互作诱导马铃薯试管薯的研究[J].甘肃农大学报,41(4):35-40.]   
+VANDER ZAAG D E.1988.Recent trends in development, production and utilization of the potato crop in the world [J]. APA Proceedings,1(1): 12-19.   
+WU YQ,WANG YY, ZHAOX P, et al, 2015.Different Doncentration of CCC Effects on the Growth of R6 Resistance Genes Potato Tube Seedings[J]. J Shaoguan Univ(Nat Sci Ed),36(4):41-45.[吴艳清,王游游，赵 旭鹏，等，2015.不同浓度对抗性基因马铃薯试管苗生长的影响[J]．韶关学院学报(自然科学版)，36(4): 41-5.]   
+XIA JB,XIA P, QIUGW, et al,2011. Application of Activated Carbon in Potatoes Tissue Culture[J]. Heilongjiang Agric Sci,203(5):16-17.[夏静波，夏平，邱广伟，等,2011.活性炭在马铃薯组织培养中的应用[J]．黑龙 江农业科学,203(5): 16- 17.]   
+YAN Z,GUO D Z，2004.The influence of plant hormones on microtuber production[J]. Chin Potato J, 18(2):84-86.[鄢铮，郭德章.2004.植物激素对马铃薯试管薯形成的影响[J]．中国马铃薯,18(2):84-86.]   
+YANG HY, WANG D,PAN X,20O8.Effect of hormone and culture methods on potato microtuber induction[J].J Gansu Agric Univ,43(2):74-77.[杨宏羽，王蒂，潘新,2008．外源激素及培养方式对马铃薯试管薯的诱 导效应[J]．甘肃农业大学学报,43(2):74-77.]   
+ZHANG ZJ, 2004. Studies on the microtuber propagation and regulation mechanism in potato [D]. Zhejiang: Zhejiang University:27-33.[张志军,2004．马铃薯试管薯快繁及其调控机理研究[D]．浙江：浙江大学: 27-33.]   
+ZHAO ZM,2005.Impact of various factors on the induction of microtubers[J]. Chin Potato J,19(5): 278-280. [赵 佐敏,2005．马铃薯组培中不同因素对诱导试管薯的影响[J]．中国马铃薯,19(5):278-280.]

@@ -1,0 +1,158 @@
+# DOI:10.5846/stxb201704120646
+
+谢东锋,张光灿,夏宣宣,郎莹.不同浓度酚酸对欧美杨I-107苗木生长和光合特性的影响.生态学报,2018,38(5)：1789-1798.XieDF,ZhangGC,XiaXXangYftsofoliccidsogrowthndotostesisfpuusurameca‘Neva’ctaolicaSinica,2018,38(5):1789-1798.
+
+# 不同浓度酚酸对欧美杨I-107苗木生长和光合特性的影响
+
+谢东锋}²,张光灿1，\*，夏宣宣³，郎莹²
+
+1山东省土壤侵蚀与生态修复重点实验室/国家林业局泰山森林生态站/山东农业大学林学院,泰安 271018  
+2临沂大学农林科学学院，临沂276000  
+3江苏省邮电规划设计院有限责任公司，南京210000 7
+
+摘要:模拟杨树人工林根际土壤酚酸累积,以杨树人工林二代连作土壤中酚酸含量为参考值(X),对欧美杨I-107（Populus×euramericana‘Neva'）一年生盆栽苗木进行不同浓度酚酸 $\mathrm { \phantom { = } ( 0 X , 0 . 5 X , 1 . 0 X ) }$ 处理,通过比较不同浓度酚酸对杨树苗木生长和生理生化特性的影响,来揭示酚酸胁迫对杨树生长的抑制作用和机理。结果表明：随酚酸浓度增加,杨树苗木净光合速率 $( P _ { \mathrm { ~ n ~ } }$ ）、气孔限制值 $( L _ { \mathrm { s } } )$ 、蒸腾速率( $\left| { { T _ { \mathrm { { r } } } } } \right.$ ）、水分利用效率（WUE）最大净光合速率( $\cdot P _ { \mathrm { n m a x } } )$ 、表观光合量子效率 ${ \textbf { ( } } \phi { \textbf { ) } }$ 、暗呼吸速率( $R _ { \mathrm { d } }$ ）、最大荧光 $\mathrm { ~ ( ~ } F _ { \mathrm { ~ m ~ } } )$ 、光系统ⅡI(PSI)实际光化学效率( $\phi _ { \mathrm { p s \parallel } }$ ）、PSⅡ最大光化学效率 $( F _ { \mathrm { v } } / F _ { \mathrm { m } }$ ）、叶绿素(Chl)荧光光化学淬灭 $( q P )$ 、表观光合电子传递速率(ETR）Chl含量和苗木总生物量显著降低，杨树苗木胞间 $\mathrm { C } \boldsymbol { 0 } _ { 2 }$ 浓度 $( C _ { \mathrm { i } } ) \setminus$ 光补偿点(LCP）、叶绿素初始荧光（20 $( F _ { \mathrm { { o } } } )$ 、非光化学淬灭(NPQ）、丙二醛(MDA)含量和苗木根茎比明显增大。结论:酚酸显著抑制杨树苗木的光合作用、蒸腾作用和呼吸作用,且酚酸浓度越大,抑制作用越强;随着酚酸浓度的增加,杨树苗木有机物积累明显降低,叶片细胞受到显著伤害。光合机构通过增加热耗散实施光保护,光合产物更多的向苗木地下部分分配,是杨树适应酚酸胁迫的生理对策。
+
+关键词：酚酸;光合作用；化感物质;胁迫；杨树
+
+# Effects of phenolic acids on the growth and photosynthesis of Populus × euramericana ‘ Neva'
+
+XIE Dongfeng1,²， ZHANG Guangcan1 XIA Xuanxuan³， LANG Ying²   
+ShdorU   
+station of State Forestry Administration, Tai'an 271018,China   
+2 College of Agricultureand Forestry Science，Linyi University，Linyi 276o0,China   
+3Jiangsu Post& Telecommunications Planning and Designing Institute，Nanjing 21oooo,China
+
+Abstract:Thedegradationof forestland productivityincontinuous-cropping poplar plantations isstronglyrelated to the accumulation of phenolicacids inthesoil.Therefore，the present studyaimedto examine theefectsof phenolicacid concentrationonthe photosyntheticcharacteristicsand growthtraitsof poplarand toclarifythe stress mechanismof phenolic acids on poplar growth.We established threetreatments（CK,0.5X,and1.OX），based on thefieldconcentration（X）of phenolicacids inthesoilof asecond-generationcontinuous-cropping poplar plantationandmeasuredthephysiological and biochemical parameters and growth indices of treated one-year-old black poplar cultivar I-107（Populus $\times$ euramericana ‘Neva’）. The results indicated that net photosynthetic rate $( P _ { \mathrm { { n } } } )$ ，stomatal limitation $( L _ { \mathrm { s } } )$ ，water use efficiency（WUE）, transpiration rate $( T _ { \mathrm { r } } )$ ，light-saturated net photosynthetic rate（ $( P _ { \mathrm { n m a x } } )$ ），apparent quantum yield $( \phi )$ ，dark respiration rate （204号 $( R _ { \mathrm { d } } )$ ，maximal fluorescence yield of the dark-adapted state $\left( F _ { \mathrm { m } } \right)$ ，effective quantum efficiency of PSII $( \phi _ { \mathrm { p s \parallel } } )$ ， potential quantum efficiency of PSII $( F _ { \mathrm { { v } } } / F _ { \mathrm { { m } } } )$ ，photochemical quenching coefficient $( \ q P )$ ，electron transport rate（ETR）, chlorophyll（Chl）content，and total biomassdecreasedsignificantlywith increasing concentrationsof phenolicacids, whereas the intercellular $\mathrm { C O } _ { 2 }$ concentration $( C _ { \mathrm { i } } )$ ,light compensation point （LCP），minimal fluorescence yield of the darkadapted state $( F _ { \mathrm { { o } } } )$ ，non-photochemical quenching（NPQ），malondialdehyde（MDA） content，and root/shoot ratio（R/S） increased significantly.Weconcluded that phenolicacid stress significantlyreduces the photosynthesis，transpiration and respirationof poplarand thatphenolicacid concentrationandthe inhibitionof the poplar'sphysiologicalactivitiesare positivelycorelated.With increasing phenolicacid concentrations，the organic matter acumulation of the poplarsedlings decreased significantly，and poplar leaf cells were seriouslydamaged.Therefore，poplarresponds to phenolicacid stress by increasing thedisspationof excess light energy to alleviate damage to thephotosyntheticapparatusunderstrong light conditions and by distributing photosynthates underground to promote root growth and nutrient absorption.
+
+Key Words:phenolic acid；photosynthesis ；allelochemical；stress；poplar
+
+杨树（Populus Linn.)尤其是黑杨派杨树是速生丰产林的重要树种,在我国华北、西北、黄河流域及长江流域部分地区大面积种植[1]。但由于造林地的有限性,在杨树人工林经营中多采取短轮伐期和多代连作模式，导致人工林产生了严重的地力衰退现象[2]。研究表明杨树人工林连作土壤中酚酸类物质(简称酚酸)的累积及其化感效应是人工林地力衰退的重要原因[34]。化感自毒物质是连作障碍产生的初始诱因[5],化感物质通过植物根系分泌至体外并逐渐在根际周围累积[6],通过阻碍养分吸收、降低根系生理活性和抑制土壤微生物活性等方式对植物产生影响,使作物产量和品质下降,进而产生连作障碍[24.7-8]。酚酸类物质是目前研究最多、活性较强的一类化感物质[9-10],也是化感自毒作用研究的重点,成为公认的化感自毒物质[1-12],而阿魏酸、对羟基苯甲酸、肉桂酸和香草醛等更是被认为是最主要的酚酸类物质[10,3]。
+
+许多学者对多种农林作物和药用植物进行了连作障碍的研究,如番茄[7]、棉花[8]、花生[14]、黄瓜[15]、苹果[16]、桉树[17]、杉木[18-19]、地黄[20]、广藿香[21]等。近几年来,由于木材需求日益旺盛,关于杨树人工林连作障碍的研究日渐受到重视,如谭秀梅等利用高效液相色谱法分析鉴定了杨树人工林连作土壤中累积的5种酚酸类物质(对羟基苯甲酸、苯甲酸、香草醛、阿魏酸、肉桂酸)及其含量[3],朱婉芮等根据谭秀梅测定的酚酸含量及土壤的吸附率设置了3种酚酸梯度,分析了酚酸和氮素交互作用对107杨细根形态的影响[22]。但是研究内容多为酚酸在林地的累积[2-4]及酚酸对土壤或根系的影响[223],尚缺乏关于不同浓度酚酸对杨树光合作用光响应特征、叶绿素荧光动力学特征、杨树叶片叶绿素含量和杨树生物量等生理生化方面的研究。本文模拟杨树人工林根际土壤酚酸累积,以黑杨派杨树欧美杨I-107（PopulusXeuramericana‘Neva’）1年生盆栽苗木为试验材料,通过加入不同浓度酚酸进行胁迫的方法,测定杨树苗木的光响应参数、叶绿素荧光参数、生化指标和生长指标,揭示不同浓度酚酸对杨树苗木生长和光合性能的影响,探讨酚酸胁迫对杨树生长的抑制作用和生理机制,为克服杨树连作障碍提供理论依据。
+
+# 1材料与方法
+
+# 1.1试验地概况
+
+试验地位于山东省泰安市南郊的山东农业大学林学试验站 $( 3 5 ^ { \circ } 3 8 ^ { \prime } - 3 6 ^ { \circ } 3 3 ^ { \prime } \mathrm { N } , 1 1 6 ^ { \circ } 0 2 ^ { \prime } - 1 1 7 ^ { \circ } 5 9 ^ { \prime } \mathrm { E } )$ ，属暖温带半湿润大陆性季风气候,年均降水量 $7 4 1 . 8 \mathrm { m m }$ ,降雨多集中在7一9月；年均气温 $1 2 . 9 ^ { \circ } \mathrm { C }$ ， $\geqslant 1 0 ^ { \circ } \mathrm { C }$ 年积温在2350— $4 7 7 7 \mathrm { ^ { \circ } C }$ ,无霜期 202d,土壤类型为棕壤,质地为沙壤土, $\mathrm { p H } = 8 . 4$ 。
+
+# 1.2 试验设计
+
+于2014 年3月中旬,将采自国家黑杨种质资源基地(位于山东省泰安市宁阳县高桥国有林场)地径约
+
+$1 \mathrm { c m }$ 的欧美杨I-1O7（PopulusXeuramericana‘Neva’)1年生苗木截成长 $2 0 \mathrm { c m }$ 的插穗,使用改良Hoagland营养液[24]在自然光下水培,每2天换一次营养液。待插穗下端出现根原基时(大约2周),选取大小一致的插穗扦插,每盆(内径 $3 0 \mathrm { c m }$ ，深 $2 8 \mathrm { c m }$ )一苗，以蛭石为培养基质(每盆8L),每5天浇一次营养液。于5月中旬开始试验,按照朱婉芮等的方法设置3个酚酸处理[22],以杨树人工林二代连作土壤中酚酸含量[3]为X,在培养液中按照CK、0.5X 和1.0X 加入酚酸(表1）,加入 $\mathrm { N a } _ { 2 } \mathrm { C O } _ { 3 }$ 将培养液 $\mathrm { \ p H }$ 值调为杨树人工林连作土壤pH值8.26[3]。试验采用随机区组设计,共6区组(对应6重复),每区组3小区(对应3处理)。每10天浇一次加入酚酸后的营养液,每次每盆浇2.0L,浇前第4天用蒸馏水冲洗基质以防酚酸累积。
+
+表13个处理中酚酸类物质的浓度  
+Table1 The concentrations of phenolic acids in three treatment   
+
+<html><body><table><tr><td>处理 Treatment</td><td>对羟基苯甲酸/(μg/mL) P-hydroxybenzoic acid</td><td>香草醛/(μg/mL) Vanillin</td><td>阿魏酸/(μg/mL) Ferulic acid</td><td>苯甲酸/(μg/mL) 肉桂酸/(μg/mL) Benzoic acid Cinnamic acid</td></tr><tr><td>CK</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0.5X</td><td>123</td><td>6</td><td>4</td><td></td></tr><tr><td>1.0X</td><td>247</td><td>11</td><td>7</td><td></td></tr></table></body></html>
+
+X 为杨树人工林二代连作田间土壤酚酸含量
+
+# 1.3 测定项目与方法
+
+# 1.3.1气体交换参数的测定
+
+光合作用是植物生存、生长的基础和关键生理过程,光响应是理解植物光合生理特征的重要方式[25]。于2014年7月中旬,进行光合作用光响应参数的测定。每个处理选3株生长健壮、无病虫害、苗高和地径一致的杨树苗木,每株苗木的中部选3片生长健壮的成熟叶片,做好标记,应用光合作用测定系统(CIRAS-2型,美国 PPS 公司)在典型晴天08:30—11:30 期间测定光响应参数,每个叶片重复3—4次。在测定时控制叶室$\mathrm { C O } _ { 2 }$ 浓度在 $3 8 0 { \pm } 5 . 0 { \mu } \mathrm { m o l / m o l }$ （使用液态 $\mathrm { C O } _ { 2 }$ 钢瓶），温度在26— $- 2 8 ^ { \circ } \mathrm { C }$ ,相对湿度在 $5 8 \% \pm 4 . 0 \%$ 。用人工光源(LED)控制光合有效辐射强度(PAR,简称光强），设置 $2 0 0 0 \ 、 1 6 0 0 \ 、 1 2 0 0 \ 、 1 0 0 0 \ 、 8 0 0 \ 、 6 0 0 \ 、 3 0 0 \ 、 2 0 0 \ 、 1 5 0 \ 、 1 2 0 \ 、$ $1 0 0 \phantom { 0 } { . 5 0 \phantom { 0 } 2 0 \phantom { 0 } 0 }  { \mu \mathrm { m o l } }  { \mathrm { m } } ^ { - 2 } \phantom { 0 }  { \mathrm { s } } ^ { - 1 }$ 共14个水平。仪器自动记录PAR( $\mu \mathrm { m o l } \textrm { m } ^ { - 2 } \textrm { s } ^ { - 1 }$ )、大气相对湿度 $( R H , \% )$ 、大气温度$( T _ { \mathrm { a } } , \mathcal { \mathrm { C } } )$ 、大气 $\mathrm { C O } _ { 2 }$ 浓度( $C _ { \mathrm { a } } , \mu \mathrm { m o l } \% \mathrm { o l } )$ 、胞间 $\overline { { \mathrm { C O } } } _ { 2 } ^ { \prime }$ 浓度 $( C _ { \mathrm { i } } , \mu \mathrm { m o l } / \mathrm { m o l } ) \mathrm { , }$ ）、净光合速率 $( P _ { \mathrm { n } } , \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 } ,$ ）、蒸腾速率 $\left( T _ { \mathrm { r } } , \mathrm { m m o l } \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 } \right.$ )等参数。绘制净光合速率的光响应曲线( $P _ { \mathrm { ~ n ~ } }$ -PAR),对 $\mathrm { P A R } { \leqslant } 2 0 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 阶段的光响应曲线做线性回归,计算暗呼吸 $R _ { \mathrm { d } } ( \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 } .$ ）、光补偿点（LCP， $\mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ )和光合量子效率 $( \phi , \mathrm { m o l / \Omega }$ mol）,根据光响应曲线的趋势估计最大净光合速率 $P _ { \mathrm { n m a x } } \left( { \mathrm {  ~ \mu  m o l ~ } } { \mathrm {  ~ m } } ^ { - 2 } { \mathrm {  ~ \mu ~ } } ^ { - 1 } \right) ^ { [ 2 6 ] }$ 。水分利用效率（water useefficiency,WUE）和气孔限制值（stomatal limitation, $L _ { \mathrm { s } }$ ）的计算[27]如下： $\mathrm { W U E } = P _ { _ n } / T _ { _ r } ; L _ { _ s } = 1 - C _ { i } / C _ { _ a }$ 。
+
+# 1.3.2叶绿素荧光参数的测定
+
+叶绿素荧光能够从能量代谢与转换的角度快速反映植物光合机构的运转状况,被视为快速、灵敏和无损伤地研究光合机理的探针[28]。在每株苗木的中部另外选取3片生长健壮的成熟叶片,做好标记,应用脉冲调制式荧光系统(FMS2.02型,英国 Hansatech 公司)测定叶绿素荧光参数。测定时间与光响应的测定同步,在典型晴天08：30—11;30 期间进行，饱和脉冲光设为 $5 0 0 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ ,每个叶片重复3次,仪器自动记录初始荧光 $( F _ { \mathrm { { o } } } )$ 、暗适应下最大荧光( $\boxed { F _ { \mathrm { m } } }$ ）、光下最大荧光 $( { F _ { \mathrm { m } } } ^ { \prime } )$ 、光下最小荧光 $( F _ { \mathrm { ~ o ~ } } ^ { \mathrm { ~ \tiny ~ \prime ~ } } )$ 、稳定荧光 $( F _ { \mathrm { { s } } } )$ 、电子传递速率（ETR)等参数。按Li等公式[29]计算以下参数：光系统ⅡI（PSⅡI）的最大光化学效率 $F _ { \mathrm { v } } / F _ { \mathrm { m } } = ( \ : F _ { \mathrm { m } } - F _ { \mathrm { o } } ) / F _ { \mathrm { m } }$ ;PS Ⅱ的实际光化学效率 $\phi _ { \mathrm { { p s } \parallel } } = ( { F _ { \mathrm { { m } } } } ^ { \prime } { - F _ { \mathrm { { s } } } } ) / { F _ { \mathrm { { m } } } } ^ { \prime }$ ;光化学淬灭系数 $q P { = } ( { F _ { \mathrm { m } } } ^ { \prime } { - } F _ { \mathrm { s } } ) / ( { F _ { \mathrm { m } } } ^ { \prime } { - } F _ { \mathrm { o } } ^ { \prime } )$ ;非光化学淬灭系数 $\mathrm { N P Q } { = } (  { F _ { \mathrm { m } } } { - }  { F _ { \mathrm { m } } } ^ { \prime } ) /  { F _ { \mathrm { m } } } ^ { \prime }$ 。
+
+# 1.3.3生化指标和生物量的测定
+
+叶绿素（Chl)含量用分光光度计法测定（采用无水乙醇提取），丙二醛（MDA）含量采用双组分光光度法测定[30]。生物量采用收获法测定,即在试验结束后,将各处理的试验植株(每处理6株)从盆内取出,剪下根、
+
+茎(枝）、叶后洗净，在 $8 5 \mathrm { ^ \circ C }$ 下烘干至恒重后称重。根茎比（Root/Shootratio, $R / S ) =$ 地下部分生物量（根系重)/地上部分生物量(茎 $^ +$ 枝 $+$ 叶重)。
+
+# 1.4 数据处理
+
+用Excel2007和SPSS 19.0软件对数据进行统计分析和作图,采用单因素方差分析（one-way ANOVA）和最小显著差异法(LSD）,在 $5 \%$ 水平上对各处理的测定结果进行差异显著性检验,不同字母表示差异显著(P<0.05），图表中数据为平均值 $\pm$ 标准误。 \~ 2
+
+# 2结果
+
+2.1不同酚酸处理下杨树苗木的气体交换参数
+
+在 $1 2 0 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 固定光强下,随着酚酸浓度的增加（CK、0.5X和1.0X）,杨树苗木净光合速率 $( P _ { \mathrm { ~ n ~ } } )$ 、气孔限制值 $( L _ { \mathrm { s } } )$ 、蒸腾速率 $( T _ { \mathrm { r } } )$ 和水分利用效率(WUE)明显降低(图1),而胞间 $\mathrm { C O } _ { 2 }$ 浓度 $\overline { { ( C _ { \mathrm { i } } ) } }$ 显著上升（图1C）,除0.5X 与CK处理 $T _ { \mathrm { r } }$ 差异不显著外,其他参数各处理间差异显著( $P { < } 0 . 0 5 )$ 。与CK相比,0.5X 和1.0X处理下 $P _ { \mathrm { ~ n ~ } }$ 分
+
+![](images/e2133808b0e1cca971c9c6d1ea92aa8c26c3159b97fd9c62b78fa8663a842dce.jpg)  
+图1在固定光强( $1 2 0 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ ）下不同酚酸处理的杨树苗木气体交换参数
+
+Fig.1Thephotosyntheticgas-exchangeparametersofPopulusunderdiferentconcentrationsofphenolicacidsinthesame photosynthetically active radiation ( $1 2 0 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 } .$ ）
+
+X 为杨树人工林二代连作田间土壤酚酸含量,不同小写字母表示差异显著( $\scriptstyle P < 0 . 0 5$ ）
+
+别降低了 $9 . 9 \%$ 和 $1 8 . 2 \%$ $L _ { \mathrm { s } }$ 降低了 $1 5 . 8 \%$ 和 $4 7 . 8 \%$ $T _ { \mathrm { r } }$ 降低了 $1 . 3 \%$ 和 $3 . 6 \%$ ,WUE 降低了 $8 . 8 \%$ 和 $1 5 . 1 \%$ ， $C _ { \mathrm { i } }$ 增加了$1 9 . 3 \%$ 和 $5 8 . 5 \%$ ,1.0X 处理下 $C _ { \mathrm { i } }$ 增加比例最高,表明 $C _ { \mathrm { i } }$ 对高浓度酚酸的反应敏感。
+
+与 $1 2 0 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 固定光强下的气体交换参数非常相似,杨树苗木在 $8 0 0 \mu \mathrm { m o l } \textrm { m } ^ { - 2 } \textrm { s } ^ { - 1 }$ 固定光强下的气体交换参数随酚酸浓度的增加， $P _ { \mathrm { n } } \sqrt { L _ { \mathrm { s } } , T _ { \mathrm { r } } }$ 和WUE 明显降低,而 $C _ { \mathrm { i } }$ 显著上升;与CK相比,0.5X和1.0X处理下$P _ { \mathrm { ~ n ~ } }$ 分别降低了 $1 1 . 2 \%$ 和 $2 0 . 3 \%$ $L _ { \mathrm { s } }$ 降低了 $1 2 . 7 \%$ 和 $4 3 . 6 \%$ ， $T _ { \mathrm { r } }$ 降低了 $1 . 1 \%$ 和 $3 . 7 \%$ ,WUE降低了 $1 0 . 2 \%$ 和$1 7 . 3 \%$ $C _ { \mathrm { i } }$ 增加了 $1 1 . 6 \%$ 和 $3 9 . 7 \%$ ,光强的降低导致杨树气体交换参数随酚酸浓度增加而变化的幅度有所改变,尤其是1.0X 处理的 $C _ { \mathrm { i } }$ 相对CK增加的幅度从 $5 8 . 5 \%$ 降为 $3 9 . 7 \%$ ，而 $T _ { \mathrm { r } }$ 变化最小，从 $3 . 6 \%$ 升为 $3 . 7 \%$ 可见光强和酚酸浓度都影响杨树的气体交换参数的大小,但是光强变化对光合作用的影响较大,对蒸腾作用的影响较小。
+
+# 2.2不同酚酸处理下杨树苗木的光响应参数
+
+随着光强增加，不同处理杨树苗木的净光合速率（204号 $( P _ { \mathrm { ~ n ~ } } )$ )呈相似的变化趋势（图2）。当 $\mathrm { P A R } { \leqslant } 2 0 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 }$ $\mathbf { s } ^ { - 1 }$ 时， $P _ { \mathrm { ~ n ~ } }$ 随光强增加呈线性上升,PAR是光合作用的主导因子;当光强继续增加时， $P _ { \mathrm { ~ n ~ } }$ 随光强增加缓慢上升到最大净光合速率( $P _ { \mathrm { n m a x } } .$ ），此时PAR达到光饱和点（LSP）,约为 $1 6 0 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ ,在该阶段 $P _ { \mathrm { ~ n ~ } }$ 随光强增加呈曲线上升，说明PAR不是该阶段主导因子， $T _ { \textrm { a } \setminus } R H _ { \textrm { \setminus } }$ （204号$C _ { \mathrm { a } } , C _ { \mathrm { i } }$ 等生理生态因子也对杨树苗木的光合作用产生重要影响;当光强超过LSP后，各处理的光响应曲线有较大差别，CK处理 $P _ { \mathrm { ~ n ~ } }$ 随光强增加变化极小，光合作用没有发生明显的光抑制，另外两个处理(0.5X和 $1 . 0 \mathrm { X } )$ 都出现 $P _ { \mathrm { ~ n ~ } }$ 随光强增加而明显降低的现象，表明酚酸处理导致杨树苗木在强光下产生光抑制,且酚酸浓度越高，发生光抑制的现象越明显。
+
+![](images/b21fd855e68432f85c46e30d9969f85a2685d4941d860ae32bd55c863d18154d.jpg)  
+图2不同酚酸浓度下杨树苗木的光响应曲线 Fig.2The light response curves of Populus under different concentrations of phenolic acid
+
+随着酚酸浓度的增加,各处理光响应参数呈显著差异( $P { < } 0 . 0 5 )$ ）， $P _ { \mathrm { n m a x } }$ 、光合量子效率 $( \phi )$ 和暗呼吸速率（204 $\left( R _ { \mathrm { d } } \right)$ 明显下降(图3A、3B、3C）,光补偿点(LCP)显著增加（图3D）。与CK相比, $0 . 5 \mathrm { X }$ 和1.0X 处理下 $P _ { \mathrm { n m a x } }$ 分别降低了 $1 0 . 3 \%$ 和 $1 7 . 8 \% , \phi$ 降低了 $1 3 . 0 \%$ 和 $3 0 . 9 \%$ $R _ { \mathrm { d } }$ 降低了 $3 . 1 \%$ 和 $1 7 . 9 \%$ ,LCP 增加了 $1 1 . 4 \%$ 和 $1 8 . 8 \%$ 。
+
+# 2.3不同酚酸处理下杨树苗木的叶绿素荧光参数
+
+随着酚酸浓度增加，各处理最大荧光( $\boldsymbol { F } _ { \mathrm { m } }$ )、PSⅡ实际光化学效率( $\phi _ { \mathrm { p s \parallel } }$ ）、PSⅡ最大光化学效率( $\boldsymbol { F } _ { \mathrm { v } } { }$ $\boldsymbol { F } _ { \mathrm { m } }$ ）、光化学淬灭系数 $( q P )$ 和表观光合电子传递速率(ETR)显著降低（图4B、4C、4D、4E、4G）,叶绿素初始荧光 $( F _ { \mathrm { o } } )$ 和非光化学淬灭(NPQ)明显升高（图4A、4F）,施加酚酸的处理(0.5X与1.0X)与CK间各参数呈显著差异 $( P { < } 0 . 0 5 )$ 。与CK 相比,0.5X 和1.0X 处理 $\boldsymbol { F } _ { \mathrm { m } }$ 降低了 $2 . 8 \%$ 和 $3 . 6 \%$ ， $F _ { \mathrm { v } } / F _ { \mathrm { m } }$ 降低了 $1 . 0 \%$ 和 $1 . 6 \% , \Phi _ { \mathrm { p s \ I I } }$ 降低了 $3 . 3 \%$ 和 $4 . 0 \%$ ,qP 降低了 $3 . 0 \%$ 和 $5 . 0 \%$ ,ETR 降低了 $1 2 . 0 \%$ 和 $2 7 . 5 \%$ $F _ { \mathrm { o } }$ 增加了 $4 . 9 \%$ 和 $5 . 7 \%$ ， $\mathrm { { N P Q } }$ 增加了$2 7 . 5 \%$ 和 $4 8 . 4 \%$ ,可见NPQ上升速度较快,该参数对酚酸比较敏感。
+
+# 2.4不同酚酸处理下杨树苗木的生化和生长参数
+
+随着酚酸浓度增加,各处理叶绿素(Chl)含量和总生物量显著降低（图 5B、5C),丙二醛（MDA)含量和根茎比明显升高(图5A、5D）,施加酚酸的处理(0.5X、1.0X)与CK间各参数均呈显著差异( $P { < } 0 . 0 5 )$ 。与CK相比，0.5X和1.0X处理Chl含量分别降低了 $9 . 2 \%$ 和 $1 8 . 0 \%$ ,苗木总生物量降低了 $1 3 . 3 \%$ 和 $3 2 . 3 \%$ ,苗木根茎比增加了 $9 . 2 \%$ 和 $1 0 . 9 \%$ ,MDA含量增加了 $3 1 . 3 \%$ 和 $1 4 6 . 7 \%$ 。可见MDA含量上升速度最快,该参数对酚酸比较敏感。
+
+![](images/ed16b23a941d8d43cb29210d755c731e3f3a68edb2bbb6788bfe1078a0e50b8e.jpg)  
+图3不同酚酸浓度下杨树苗木的光响应参数  
+Fig.3The light response parameters of Populus under different concentrations of phenolic acids
+
+# 3讨论
+
+植物根系分泌的酚酸具有较强的化感活性，不仅能影响其他植物和根际微生物群落,还能抑制植物自身的生长,进而产生连作障碍[6]。连作障碍不仅与酚酸造成土壤环境退化和土地生产力下降有关,还与酚酸等化感物质累积后对植物的毒害作用有关。酚酸首先刺激植物根部细胞的细胞膜,通过影响膜电位、膜透性和膜活性来影响细胞膜功能,并将信号传达至地上部分,影响植物酶活性,进而通过一系列机制影响植物的光合生理生化过程[31]。本文研究表明,随着酚酸浓度的增加,各处理 $P _ { \mathrm { _ n } \setminus } L _ { \mathrm { _ s } \setminus } T _ { \mathrm { _ r } \setminus } \mathrm { W U E } \setminus P _ { \mathrm { _ { n m a x } } \setminus } \phi \setminus R _ { \mathrm { _ d } \setminus } F _ { \mathrm { _ m } \setminus } F _ { \mathrm { _ v } } / F _ { \mathrm { _ m } \setminus }$ $\varPhi _ { \mathrm { P S } \parallel } \varPsi P$ 、ETR、Chl含量和总生物量明显降低, $C _ { \mathrm { i } } \setminus \mathrm { L C P } \setminus F _ { \mathrm { o } }$ 、NPQ、MDA含量和根茎比显著增加。
+
+3.1不同酚酸处理对杨树苗木气体交换参数的影响
+
+$P _ { \mathrm { ~ n ~ } }$ 和 $\phi$ 是光合机构运转状态的直观反映,是表征植物光合效率和光能利用能力的重要指标[32」， $P _ { \mathrm { ~ n ~ } }$ 越高，说明在强光下的光合效率越高， $\phi$ 越高,说明在弱光下的光合效率越高[26]。本文对杨树苗木叶片气体交换参数的观测表明,在固定光强下( $1 2 0 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 } .$ ）,随着酚酸浓度的增加（0X、0.5X和1.0X）,各处理 $P _ { \mathrm { ~ n ~ } }$ 、T和WUE 明显降低,这表明酚酸处理会降低杨树苗木的光合作用、蒸腾作用和水分利用效率,且下降程度随酚酸浓度的增加而显著增大；而 $C _ { \mathrm { i } }$ 显著上升,与 $\boldsymbol { P } _ { \mathrm { n } }$ 和 $L _ { \mathrm { s } }$ 的变化趋势相反,根据Farquhar和Sharkey气孔限制理论[33]可知，导致 $P _ { \mathrm { ~ n ~ } }$ 下降的主要原因是非气孔因素的限制,即酚酸胁迫导致杨树自身光合能力下降。有研究表明肉桂酸可降低光合作用关键酶-RuBP羧化酶的活性[34],对于酚酸处理下杨树光合能力下降是否与 RuBP羧化酶活性下降有关,还需要进一步研究。 $P _ { \mathrm { n m a x } }$ 表征了植物对强光的利用能力， $\phi$ 表征了植物对弱光的利用能力,LCP 表征了植物的需光特性[35],LCP 越低,说明植物对弱光的利用效率越高。本文对杨树苗木光响应参数的观测表明,随着酚酸浓度的增加,各处理 $P _ { \mathrm { n m a x } } \cdot \varPhi$ 降低和LCP 升高,表明酚酸胁迫降低了杨树苗木叶片在强光和弱光下的光合效率和光能利用能力。光合效率降低是光抑制最显著的特征[26],因此酚酸胁迫导致
+
+![](images/c5db0081e7aef2c7746c04332ef5c0dd71f32011437e419d09d3d276bdf9725c.jpg)  
+图4不同酚酸浓度下杨树苗木的叶绿素荧光参数
+
+Fig.4 The chlorophyllfluorescence parameters of Populus under diffrent concentrations of phenolic acids杨树苗木对强光的适应能力减弱,在强光下受到光抑制乃至光破坏的威胁增加。 $R _ { \mathrm { d } }$ 表示植物的线粒体呼吸[36],随着酚酸浓度的增加,各处理 $R _ { \mathrm { d } }$ 下降表明酚酸抑制杨树苗木的呼吸作用,且酚酸浓度越大,抑制作用越强。
+
+# 3.2不同酚酸处理对杨树苗木叶绿素荧光参数的影响
+
+$F _ { \mathrm { o } }$ 表征已经暗适应的光合机构光系统Ⅱ（PSII)反应中心全部开放时的荧光水平，可作为反应中心完好状态和光保护机理的判断依据， $F _ { \mathrm { o } }$ 增加被看成是PSⅡ反应中心不可逆破坏或可逆失活的结果[26]。 $\boldsymbol { F } _ { \mathrm { m } }$ 表征已经暗适应的光合机构PSⅡ反应中心全部关闭时的荧光水平,反映了通过光合机构光系统Ⅱ的电子传递情况[37]， $\boldsymbol { F } _ { \mathrm { m } }$ 降低是PSⅡ发生光抑制的一个特征[38]。 $F _ { \mathrm { v } } / F _ { \mathrm { m } }$ 表征已经暗适应的光合机构PSⅡ反应中心全部开放时的量子产额,反映了PSⅡ反应中心原初光能转化效率[39]， $\boldsymbol { F _ { \mathrm { v } } } / F _ { \mathrm { m } }$ 减小是发生光抑制的反映[26],是表示植物受胁迫程度的常用指标[40]。 $\phi _ { \mathrm { p s \parallel } }$ 表征光合机构PSⅡ反应中心部分关闭的情况下实际的量子产额,反映了PSⅡ反应中心实际的光能转化效率， $\phi _ { \mathrm { { p s } \parallel } } ^ { \prime }$ 变小是光合电子传递速率和 $\mathrm { C O } _ { 2 }$ 同化能力降低的反映[41]。ETR表征光合机构PSII反应中心传递电子,分配光反应所需光能的速率。本文研究中,各酚酸处理相对于对照 $\boldsymbol { F } _ { \mathrm { m } }$ 、$F _ { \mathrm { v } } / F _ { \mathrm { m } } \setminus \Phi _ { \mathrm { P S I I } }$ 、ETR显著降低， $\boldsymbol { F } _ { \mathrm { o } }$ 显著升高,表明酚酸胁迫导致杨树苗木光合机构PSⅡ反应中心发生不可逆破坏，原初光能转换效率、实际光能转换效率、光合电子传递速率和 $\mathrm { C O } _ { 2 }$ 同化能力降低,光合作用产生明显的光抑制,最终导致同化物积累减少,植株总生物量降低。 $q { \cal P }$ 和 NPQ分别表征植物光合机构PSⅡ天线色素吸收的光能用于光化学电子传递和热耗散的份额［42]。 $q P$ 反映了PSII反应中心的开放程度， $q { \cal P }$ 减小是 PSII 反应中心开放程度和电子传递速率降低的表现,NPQ反映了植物利用热耗散的方式释放过剩光能,以避免光损伤实现光保护的能力[43]。本文研究中,随着酚酸浓度的增加,各处理 $q { \cal P }$ 降低和 NPQ 升高说明酚酸胁迫使光合机构吸收的光能向光化学反应方向分配的份额减少,向天线色素热耗散分配的份额增加,这种热耗散增加的现象是杨树苗木为了减少PS Ⅱ反应中心过剩光能的积累,使光合机构减少光破坏实现光保护的重要措施。
+
+![](images/9864e8e70b63422075ae0cb4d1dd8bd1658867d97cb35205044396981b08a854.jpg)  
+图5不同酚酸浓度下杨树苗木丙二醛( $\mathbf { M D A } )$ 含量、叶绿素(Chl)含量、苗木总生物量和根茎比Fig.5The mealondialdehyde（MDA）content，chlorophyll（Chl）content，total biomassandroot/shootratioofPopulusunderdierentconcentrations of phenolic acids
+
+3.3不同酚酸处理对杨树苗木叶片叶绿素含量、丙二醛含量和苗木生物量的影响在逆境胁迫下植物对环境因子的变化高度敏感,光合机构常常是逆境伤害的首要位点。丙二醛（MDA)是植物遭受逆境时,细胞内产生的自由基超过了保护酶系统的清除能力,细胞膜发生膜脂过氧化的产物，MDA 含量可以作为反映植物遭受逆境伤害程度的指标[44]。本文研究中,随着酚酸浓度的增加,各处理间MDA含量显著增加( $P { < } 0 . 0 5 )$ ）,说明杨树苗木叶片细胞的膜系统在酚酸胁迫下发生了显著的膜脂过氧化现象,也就是说杨树苗木的叶片细胞在酚酸胁迫下受到严重伤害,且酚酸浓度越大细胞受到的伤害越严重。酚酸对细胞膜的破坏可能是化感作用所有效应的起点，其原因与酚酸抑制植物超氧化物歧化酶和过氧化氢酶活性有关[45]。有研究发现,地黄叶绿素(Chl)含量降低是因为连作胁迫下植株叶片细胞活性氧、自由基积累所带来的膜结构损伤[26]。Chl 是光合作用的物质基础,其含量是衡量植物光合作用强度和干物质积累能力的重要指标[46],在一定范围内光合速率随 Chl 含量的增大而增加[26]。本文研究中,随着酚酸浓度的增加,各处理Chl含量明显降低，一方面是因为酚酸胁迫导致杨树体内生物膜系统受损,Chl降解加快,另一方面是因为酚酸显著抑制林地土壤氮素的有效性[23]和杨树对硝态氮的吸收[47],而氮素是叶绿素合成不可缺少的元素[26],造成Chl合成受阻。本文研究中，随着酚酸浓度的增加，各处理总生物量降低，这是因为酚酸胁迫使杨树苗木光合效率和Chl 含量下降,光合作用受到抑制,最终导致同化物积累减少;随着酚酸浓度的增加,根茎比提高，是因为酚酸胁迫使杨树根系受损和氮素吸收受到抑制[47],而氮素营养水平对植株内有机物的运输和分配起到重要调节作用[48],导致地上部分光合产物更多的向地下部分分配[49],以促进根系生长来吸收养分,这也是杨树适应酚酸胁迫的一种生理策略。
+
+# 4结论
+
+酚酸显著抑制杨树苗木的光合作用、蒸腾作用和呼吸作用,且酚酸浓度越大,抑制作用越强;随着酚酸浓度的增加,杨树苗木有机物积累明显降低,叶片细胞受到显著伤害。光合机构通过增加热耗散实施光保护,光合产物更多的向苗木地下部分分配,是杨树适应酚酸胁迫的生理对策。（
+
+# 参考文献（References）：
+
+[1］张志翔.树木学(第二版).北京：中国林业出版社，2008：232-234.  
+[2］刘福德，姜岳忠，王华田，孔令刚，王迎.杨树人工林连作效应的研究.水土保持学报，2005，19（2)：102-105.  
+[3］谭秀梅，王华田，孔令刚，王延平.杨树人工林连作土壤中酚酸积累规律及对土壤微生物的影响.山东大学学报；理学版,2008,43(1)：14-19.  
+[4］王文波，马雪松,董玉峰，王华田,王延平，伊文慧.杨树人工林连作与轮作土壤酚酸降解细菌群落特征及酚酸降解代谢规律.应用与环境生物学报，2016，22(5)：815-822.  
+[5］侯慧，董坤，杨智仙，董艳，汤利，郑毅.连作障碍发生机理研究进展.土壤，2016,48(6)：1068-1076.  
+[6] 王延平，王华田.植物根分泌的化感物质及其在土壤中的环境行为.土壤通报，2010,41（2)：501-507.  
+[7] 康亚龙，景峰，孙文庆，谈建鑫，冉辉，蒋桂英.加工番茄连作对土壤理化性状及微生物量的影响.土壤学报，2016，53（2）：533-542.  
+[8」张亚楠，王兴祥，李孝刚，徐文华.连作对棉花抗枯萎病生理生化特性的影响.生态学报，2016,36(14)：4456-4464.  
+[9]WuFZ,WangXZ,XueCfectofamcacidonilmcrobalcaracteriticsineucersre.EuropeanJoualofSoilBiology，2009，45（4）：356-362.  
+[10]HuangLF，SongLX,XiaXJ,MaoWH,ShiKZouYH,YuJQ.Plant-oilfedbacksadsolsicknessrommechanismstoalcatioinagriculture. Journal of Chemical Ecology，2013，39(2）：232-242.  
+[11］吴林坤，林向民，林文雄.根系分泌物介导下植物一土壤-微生物互作关系研究进展与展望.植物生态学报，2014，38（3）：298-310.  
+[12]Bouoell,aHdeoptdooiislHderessp. vulgare） root exudates. BioControl, 2015, 60(3）: 425-436.  
+[13]HaZgstXocteofateeuetr320.  
+[14] 吴洪生，杨筱楠，周晓冬，孙波，秦江涛，刘晓利，满军，吴红兵，陈小青.磷石膏专用复混肥缓解红壤花生连作障碍效果.土壤学报，2013，50(5):1007-1013.  
+[15] 顾小龙，陈巍，蔡枫，庞冠，李瑞霞.配施木霉微生物肥对连作的影响.土壤学报，2016,53（5）：1296-1305.  
+[16] 王艳芳，潘凤兵，展星，王功帅，张国栋，胡艳丽，陈学森，毛志泉.连作苹果土壤酚酸对平邑甜茶幼苗的影响.生态学报，2015，35(19):6566-6573.刘立龙，杨彩玲，蒋代华，肖斌，崔俊峰.连栽桉树人工林不同代次土壤养分与酶活性的分析.热带作物学报，2013，34（11)：2117-2121.  
+18]ZhangQotetialeolosinooefepatantd：205-210.  
+[19］魏晓晓，王士亚，陈爱玲，叶义全，黄田盛，曹光球.不同化感型杉木无性系对连栽地的生理响应.森林与环境学报，2017，37（1)：22-28.  
+[20］张重义，尹文佳,李娟，杜家方，杨艳会，陈新建，林文雄.地黄连作的生理生态特性.植物生态学报，2010，34（5)：547-554.
+
+Au1，wu1G，Uen lang Jr，Song△Y，lu nevistdBrasileira de Farmacognosia,2015,25(2）:117-123.[22］朱婉芮，汪其同，刘梦玲，王华田，王延平，张光灿，李传荣.酚酸和氮素交互作用下欧美杨 107细根形态特征.植物生态学报，2015，39(12): 1198-1208.[23］王延平，王华田，许坛，倪桂萍，姜岳忠.酚酸对杨树人工林土壤养分有效性及酶活性的影响.应用生态学报，2013，24（3)：667-674.[24] 吴晓辉．常见眼子菜科沉水植物对浮游藻类的化感作用研究[D].武汉：中国科学院研究生院，2005.[25] LangY，WangM,ZhangGC，ZhaoQK.Experimentalandsiulatedightresponsesofphotosythesisinleavesofthetrespeciesundifferent soil water conditions.Photosynthetica,2013,51(3）：370-378.［26］许大全.光合作用效率.上海：上海科学技术出版社，2002.[27] BerryJA,alfo/odoisV;eet，boand Plant Productivity.New York，USA：Academic Press，1982：263-343.[28］李辉，张光灿，谢会成，许景伟，李传荣，孙居文.苯酚废水对垂柳叶片光合生理参数的影响.植物学报，2016，51（1)：31-39.[29]LiH，ZangGC,XieHC,iK，ZhangSY.TefetsofthphecocentratiosonhotosyntheticparametersofSlixbbylicaL.Photosynthetica，2015，53(3）：430-435.[30］蔡庆生.植物生理学实验.北京：中国农业大学出版社，2013.[31]EinhellFeopaCueausduturegoal/derjit，snellnopand applications.Washington，DC：American Chemical Society，1995：1-24.[32]XiaJB,ZgGC,ZagSSuaJK,ZoYYhHB,LuJT.otosytedwaterueracteritisihnaturashrubs on Shell Islands，Shandong，China.Plant Biosystems，2014,148(1）：109-117.[33]FarquharGD,SharkeyTD.Stomatalconductanceand photosynthesis.AnnualReviewofPlantPhysiology，19823（1）：317345.[34] Ye S F, Yu JQ,Peng Y H, Zheng JH, Zou L Y. Incidence of fusarium wilt in Cucumis sativus L s promoted by cinnamic acid，an autotoxin inroot exudates.Plant and Soil,2004,263（1）：143-150.[35] 张淑勇.黄土丘陵区主要树种抗旱生理特性及荧光动力机制[D].北京：中国林业科学研究院，2009.[36] 许大全.光合作用学.北京：科学出版社，2013：86-87.[37] 张守仁.叶绿素荧光动力学参数的意义及讨论.植物学通报，1999，16(4)：444-448.[38]裴斌，张光灿，张淑勇，吴芹，徐志强，徐萍.土壤干旱胁迫对沙棘叶片光合作用和抗氧化酶活性的影响.生态学报，2013，33（5)：1386- 1396.[39] Briantais JM，Dacosta J,Goulas Y，Ducruet J M，Moya I. Heat stress induces in leaves an increase of the minimum level of chlorophyllfluorescence, $\mathrm { ~ F _ { o } ~ }$ : A time-resolved analysis. Photosynthesis Research，1996,48(1/2): 189-196.[40]凌丽俐，彭良志，王男麒，邢飞，江才伦，曹立，淳长品.缺镁胁迫对纽荷尔脐橙叶绿素荧光特性的影响.生态学报，2013，3（1)：71-78.[41] Maxwell K,Jonhson G N.Chlorophyllfluoresc a practical guide. Journal of Experimental Botany，2000,51(345）：659-668.42]vanKoteOelJuseofoohfuoreenmeatueinanttrsiotossisResearch9）147-150.[43]BilgersaJtileeitoetsiatdbctsilyreduced photosynthetic capacity.Plant Physiology，1995，108(4）：1479-1486.[44］潘瑞炽，王小菁,李娘辉.植物生理学(第七版).北京：高等教育出版社，2012.[45] BaziramakengRLeroGardRREftsoficdamiccidsoebaepereabilityofoeanotsJouaofcalEcology，1995,21(9): 1271-1285.[46] 张艳楠，牛建明，张庆，杨艳，董建军.植被指数在典型草原生物量遥感估测应用中的问题探讨.草业学报，2012，21（1)：229-238.47 王华田，杨阳，王延平,姜岳忠，王宗芹.外源酚酸对欧美杨‘I-107’水培幼苗硝态氮吸收利用的影响.植物生态学报，2011，35（2)：214- 222.48 毛伟，李玉霖，崔夺，赵学勇，张铜会，李玉强.沙质草地不同生活史植物的生物量分配对氮素和水分添加的响应.植物生态学报，2014，38(2):125-133.［49］李辉．酚酸浓度和铵硝配比对杨树光合作用及氮代谢的影响[D].泰安：山东农业大学，2016.

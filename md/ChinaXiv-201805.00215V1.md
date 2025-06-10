@@ -1,0 +1,340 @@
+# 基于区块链机制的云计算环境下服务组合策略的研究
+
+王磊，赵晓永
+
+(北京信息科技大学信息管理学院，北京100192）
+
+摘要：云计算环境下服务组合具有规模大、复杂性高、失效类型多以及资源动态变化等特征，因此安全、可信的服务组合方案是云环境下海量服务资源灵活部署、按需提供的最大挑战。首先对区块链共识机制、智能合约及可编程特征进行深入分析，类比服务组合特征与流程，基于服务层次覆盖网络 SON（service overlay networks）理论提出一种可信度和可靠性更为突出的以区块链为底层基础设施的服务组合体系架构;此外，考虑区块链共识机制带来的安全策略，借鉴智能合约的功能与作用，提出了跨服务覆盖层的基于链路预测生存时间及服务强度最优策略的高效服务路径生成算法；进一步地，设计了带有单点信任度及交互紧密度指标的可信服务质量模型ToS(trust of service)，以及该 ToS 驱动下的服务路径选择算法。仿真结果表明，基于区块链机制的服务组合实现策略大大提升了组合服务执行的成功率及可用性。
+
+关键词：区块链；智能合约；服务组合；可信度 中图分类号：TP302.1 doi:10.3969/j.issn.1001-3695.2017.07.0688
+
+# Research on service composition strategy based on block chain mechanism in cloud computing environment
+
+Wang Lei, Zhao Xiaoyong (School ofInformation Management,Beijing InformationScience&Technology University,Beijing10o192,China)
+
+Abstract:As the features ofservicecompositionsuch aslargescale,highcomplexityarious failuresandresource dyamics, a safe and credible service composition sheme isone of the biggestchalenges for flexible deployment andon-demand providing.Based onthe critical analysis of block chain infrastructure,consensus mechanism and programmable features, contrastingto the characteristics and process ofweb servicecomposition,this paper developed an novel servicecomposition system architecture with much more credibility and reliability using serviceoverlay networks (SON)theory;Inaddition, considering the security strategies derived from block chain consensus mechanism,and making fulluseof smart contract's functionsand efects,this paper proposed an efective algorithm based onthe predictive route life time(RLT)and service intensity(SI)acrossoverlaynetworks forthegenerationofservicepaths.Besides,itdesignedabeterservice-pathselection algorithm which was decided bythe trusted qualityofservice(ToS) model with the single-node's tust index and interactive tightnes index.Thesimulationresults showthat theservicecompositionstrategybasedonblock chainmechanismha greatly increased the success rate and credibility of service components after composition.
+
+Key Words: block chain; smart contract; service composition; credibility
+
+# 0 引言
+
+随着云计算、大数据等技术的不断成熟与发展，信息处理架构已从松散耦合的单点计算模式演变为具有分布式、协同性、动态可重构且无处不在的多态融合框架，支撑上层运算所需要的计算、存储、网络、数据等资源都会以服务或服务组合的形式提供给合法终端，这意味着为上层应用带来丰富基础资源的同时也带来了巨大的挑战：更多资源的异构性、动态性及用户需求的复杂性与服务组合所预期的可靠性、可用性之间的对立关系愈发明显。
+
+从初期Web服务组合至Xasaservice的云资源服务资源的管理、调度及组合研究的深入，诸多的研究者及研究机构取得了一系列令人瞩目的成果。遗憾的是，由于服务资源、服务链路的高动态和失效类型多样化等特征决定了大多数服务组合的研究成果仍无法直接应用于云计算分布式环境中。因此，探索一种具有较强普适性且具有较高可信度的服务组合技术框架及解决方案成为服务计算领域亟待解决的关键科学问题之一。区块链作为移动/社交网络之后第五代计算范式，以保障信任为核心，促进交易、认证等多方面高效运行，为可靠、安全、可信的服务组合的研究带来了颠覆式的创新思路。
+
+本文在首先探究区块链技术的基础架构、基本原理和基本特征后，将区块链运维机制与服务资源发现、选择及组合等关键部分进行了特征对比和深度分析，最终确定服务组合与区块链的动态运行机制中的共性问题，抽象出服务资源与区块链节点、服务发现与共识算法、服务选择与智能合约、服务组合与区块附加等关键问题的对应关系。在此基础上，基于区块链基础架构和服务层次覆盖网SON 理论，提出了基于区块链的服务组合体系架构。本框架采用区块链本身安全可靠的共识策略和高可编程性的智能合约来构建服务组合执行的框架结构；在此体系架构基础之上，本文提出了跨服务覆盖层的基于链路预测生存时间及服务强度最优策略的服务路径生成算法；最终，构建可信服务质量模型ToS来驱动高可信度服务路径的选择。实验证明，本文所提出的体系架构、平台模型及算法具有正确性及可适用性，其研究成果将为云计算环境下分布式服务资源组合的研究提供有益补充。
+
+# 1 服务组合研究现状
+
+从早期的Web服务组合研究开始，人们一直致力于服务计算中服务资源统一管理、高效调度与可信组合的相关研究。尽管对服务组合并未形成统一的概念，但当前在云计算、大数据领域，人们将计算、存储、网络、应用程序等各类资源按照满足用户应用需求的前提进行协同、合成或编排，最终向上层快速提供满足用户复杂任务的各种IaaS/SaaS/PaaS/NaaS乃至DaaS等云服务，实现一致性、可靠性的服务资源保障支撑。
+
+事实上，云计算环境显著的开放、共享、动态、透明等特征以及更多资源的异构性与组合服务的可靠性、可用性之间的对立关系愈发明显。近年来越来越多的科研工作者关注服务组合可靠性及可信度的研究，取得了一系列令人瞩目的研究成果。例如在服务组合可信研究的方向上，文献[1面向服务移动社交网络提出基于信任的分布式服务组合方法，基于格模型建立分布式服务信任评估框架。文献[2]提出了一种面向大数据应用的跨私有云的可靠性服务组合的方法,基于K-均值聚类进行QoS历史记录的选择,在此之上驱动并完成服务组件的选择，该方法大大提高了跨云服务组合的有效性和私有云的可靠性及安全性。文献[3]提出一个Web服务可信体系结构，该体系架构以安全交互、联合身份和分布式策略为基础，为Web服务可信研究提供了有效参考。在服务容错机制的研究中，较为主流的一支是基于拜占庭将军问题解决服务执行中良性或恶意故障，以保障服务正常提供并运行，如文献[4]针对WebService中常用的故障容忍技术，提出了一种改进的、能够满足拜占庭容错的模块化的Web Service框架，大大提升了Web 服务中故障容忍的可靠性、可用性。文献[5]充分考虑Web服务的特点，设计了一个基于拜占庭容错的Checkpoint协议，即在复制品中定期创建检查点，检查点可在复制品状态转换时提供历史数据，大大提高了服务组合的可用性及可靠性。文献[6]提出了一个跨云的拜占庭容错模型，模型引入Shamir秘密共享的密钥分发与恢复算法，大大提高了系统的可靠性和云中数据的安全性。此外，服务组合可信方向的其他研究思路和解决方案也层出不穷，如文献[7]针对Web服务组合运行时故障的轻重程度，有针对性地实现了相应的在线处理策略,最大限度地保障服务顺利执行。文献[8]针对无线Adhoc网络提出一种基于启发式算法的多目标优化的服务信任策略，在动态网络及个性化服务需求下，将可信节点与任务进行最佳匹配，同时采用黑名单机制淘汰不可信节点，最大化实现服务的可用性及可靠性。
+
+# 2 区块链原理与服务组合流程对应分析
+
+随着以比特币为代表的数字加密货币的重磅应用，新兴的区块链技术逐渐成为学术界和产业界的热点研究课题。区块链技术的去中心化、共识机制和可编程等特点，使其在数字加密货币、金融和社会系统中有广泛的应用前景[9\~13]。
+
+事实上，区块链技术作为普适性底层技术框架，将会以可编程社会为主要特征的区块链3.0模式，融入到除金融外的其他领域和行业中，为分布式计算、分布式社会系统和分布式人工智能等领域提供去中心化的数据结构、去第三方信任的交互机制等领域的研究奠定坚实的信用基础和可行性技术参考。
+
+区块链本质是一种类云的分布式基础架构设施，各区块以链的方式组合在一起，节点基于价值交换协议参与到区块链的网络中来，以这种方式形成系统内所有节点共享的交易数据库。相似的分布式共识机制，服务计算中服务组合的研究思路也是在分布式服务资源中发现并选择特定的服务节点加入到服务执行路径中来形成满足用户需求的组合服务，从而实现服务资源的统一管理、整合和调度，用以支撑复杂的上层应用。
+
+类比云计算中服务资源组合同样去中心化和分布式计算范式的特征，本文将区块链技术与服务组合技术进行特征提取及分析，得到以下结论，如表1所示。
+
+表1区块链技术与服务组合特征比较  
+
+<html><body><table><tr><td>特征</td><td>区块链技术 服务组合</td></tr><tr><td>去中心化P2P节点权利义务对等</td><td>分布式资源平等分散</td></tr><tr><td>协同自治节点共同维护一致性数据服务组件共同维护服务路径</td><td></td></tr><tr><td>共识机制算力竞争保障数据一致性</td><td>自适应自组织满足</td></tr><tr><td></td><td>上层应用需求</td></tr><tr><td>智能合约能够自动执行合约算法自动执行服务选择、优化算法</td><td></td></tr></table></body></html>
+
+a）区块链和服务组合都体现了去中心化的思想。区块链系统中，不存在中心化的数据库，每个节点都维护着区块链的全部信息，节点的权利和义务对等；服务组合中分布式的服务资源分散、平等，服务组件基于满足功能及非功能服务质量（qualityofservice,QoS）属性进行服务组件的发现与选择，承
+
+载各功能的服务节点独立平等。
+
+b)区块链和服务组合都体现了自治协同性。区块链系统由网络中的所有节点共同运行和维护，不存在中央管控单元；类似的，在服务组合中，分布式服务资源按照既定服务组合策略动态调度、部署和组合。
+
+c）区块链和服务组合都具有共识机制。区块链技术的核心优势，通过封装网络节点的各类共识算法，能够在决策权高度分散的去中心化系统中使得各节点对区块数据有效达成共识；服务组合的共识在于各节点通过服务链路共同维护满足上层应用所需要的QoS服务质量的各维属性，在服务提供过程中一旦失效，服务资源会以自适应、自组织的方式进行服务路径的更新或重建。
+
+d）区块链和服务组合都具有智能化、合约化的特征。区块链系统可以提供灵活的代码脚本系统，支持用户创建高级的智能合约来实现复杂功能在全网所有节点自动化和智能化的执行和部署；服务组合作为服务路径的执行和部署同样具有可编程的特性，通过不同应用需求设置底层服务组件的发现、选择及执行路径优化等流程，实现灵活可编程的服务资源组合策略。区块链与服务组合的特征对比分析如图1所示。
+
+![](images/e9429514c50f5a5bcaceb6f38bf75f46da491f40b90ff7332eceb8c84836b160.jpg)  
+图1区块链网络层消息机制与服务组合链路建立的对比分析
+
+# 3 基于区块链的服务组合体系架构
+
+# 3.1设计基于服务层次覆盖网SON的服务组合体系架构
+
+本课题借鉴服务层次覆盖网SON设计思想，将区块链下服务组合体系结构从逻辑上划分为物理网络层、服务实例层、服务抽象层三个层次，并通过建立功能、服务、路由之间的映射关系，采用动态叠加部署策略抽象出了第四层：服务覆盖层。其体系架构如图2所示。
+
+a）服务抽象层。定义了用户请求与分布式服务组合系统之间的接口，将某上层用户的功能需求拆分为一系列的功能服务。b）服务实例层。在服务执行过程中实现了从抽象功能服务$f _ { i }$ 到具体服务实例 $s _ { \scriptscriptstyle k }$ 的动态选择与绑定，不同于传统的QoS 驱动服务实例的选择和服务路径的生成。本文构建可信服务质量驱动模型ToS，基于智能合约封装启发式可信任服务搜索算法来实现可信服务组合服务路径的确定。
+
+c）网络层。封装了区块链系统的组网方式、消息传播协议和数据验证机制等要素，提供基本的物理层传输、网络通信和网络层路由等功能。每个节点均会承担网络路由、验证区块数据、传播区块数据、发现新节点等功能。为提升计算性能，可将节点划分为全节点和轻量级节点，前者存储完整的区块链数据，后者则主要提供路由功能来完成数据校验。它向上层（服务实例层）提供必要的通信节点、通信协议和物理连接链路支持，并携带底层节点的移动及位置信息。
+
+d）服务覆盖层。服务覆盖层是对物理网络层、服务实例层及服务抽象层三层进行特征提取及抽象后构造的虚拟层，它生成并维护覆盖网络拓扑结构，同时为服务组合进程提供应用层的各种服务及物理层的节点移动信息，最终在服务覆盖层上进行服务组合执行路径的确定。
+
+![](images/24bb52f6e13fdbc42ec1e9cb379e9a36cdc94fe5f2a0fa185505759d5d7c1599.jpg)  
+图2基于服务覆盖网理论的区块链服务组合体系架构
+
+# 3.2设计SON+区块链基础结构的服务组合体系架构
+
+在此基础上，对服务覆盖层体系架构中区块链的基础架构和交互机制如图3所示，node1和node2是在互联网或以太网中存在的分布式节点，其类型可以是虚拟机、服务器或云等不同类型的服务节点，现对node1和node2的路由连接进行基于区块链的层次覆盖架构设计，由上至下依次为：
+
+a)用户信息层。用户A和B的基本信息，包括用户A的公钥、私钥；用户B的公钥、私钥。当信息发送者A使用信息接收者B的公钥对信息加密后再发送给B，用自己的私钥解密。
+
+b)P2P网络层。分布式网络包括分布式组网机制、数据传播机制和数据验证机制等，是利用广播形式向网络中的节点发出查询请求用以支撑上层服务发现、服务组合的底层路由机制的基本实现层。
+
+c)服务组合（智能合约层)。主要封装各类脚本、算法和智能合约，是区块链可编程特性的基础，也是完成可信服务组合重要的核心模块，本文将服务组件选择与服务执行路径确定的关键步骤放在区块链的连上代码执行。
+
+d)共识层。在分布式环境下，为保持数据一致性需求使用一致性协议。共识层主要封装网络节点的各类共识算法来实现区块链共识机制。本文使用工作证明PoW(ProofofWork)来完成一致性保障。
+
+e)数据层。数据层封装了底层数据区块以及相关的数据加密、时间戳以及一些必要的智能合约执行代码，也包括交易缓存、块缓存和运行时数据缓存。本文假定在低速环境下，交易用串行的方式来处理。
+
+![](images/7970f2d858ce3f140cb04f03a7502c8de2be5570bc7592d0f4089a02b5e0b62f.jpg)  
+图3区块链服务组合生态系统
+
+# 4基于可信服务质量ToS驱动的服务组合策略
+
+# 4.1基于可信服务质量ToS的智能合约
+
+本文在上述 $\mathrm { \ S O N { + } }$ 区块链体系架构中进行服务组合策略及算法的设计，提出可信服务组合服务质ToS模型，完成并驱动服务路径的选择及执行。基于区块链可编程特性，本文将封装服务组合策略及算法相关程序代码、预定义状态、转换规则、触发合约执行的情景及不同情景对应的动作等来构建智能合约。同时区块链实时监测智能合约状态，并通过核查外部数据源、确认满足特定触发条件后激活并执行合约。网中各个节点或自动执行或仅转发合约，直到服务生命周期结束，服务资源被撤销。
+
+智能合约的运作机理如图4所示。通常情况下，智能合约经各方签署后,以程序代码的形式附着在区块链数据上，经P2P 网络传播和节点验证后记入区块链的特定区块中。区块链可实时监控智能合约的状态。本文提出了基于区块链的可信服务模型 $T o S = \{ Q ^ { t a r g e t } , Q o T \}$ ,其中, $\boldsymbol { Q } ^ { t a r g e t }$ 代表用户所需的非功能需求属性； $\varrho _ { o T }$ 代表可信质量模型。
+
+![](images/66c828bedf55e4bcfca6dd8d1ca009db1c455aab3991508b7ecd6bc1d4533fde.jpg)  
+图4智能合约运行原理
+
+智能合约的触发条件为用户的服务组合请求。服务抽象层通过解析、拆分服务组合请求，将其映射为满足功能及非功能需求的逻辑组合方案，生成服务路径集合，可信服务组合流程如图5所示。
+
+![](images/b2921e474c92bdf76595e50f0a44cce2cee37bdea2a149f31912bdd4892e4213.jpg)  
+图5用户需求与功能图映射关系
+
+# 4.2 可信质量模型QoT的分析与设计
+
+本文将可信质量QoT（qualityof trust，QoT）建模为服务组件选择时对服务路径可信程度的评估，借鉴现有的研究成果[14]，可信质量可简化并建模为包含单点信任度、交互紧密度两属性集合的信任描述。
+
+a)单点信任度。在除源点和终点外的所有服务组件节点上的、在融合各种可信证据后所确定的单个服务组件自身能够提供的可信性水平保障能力值，记为 $\sigma _ { { } _ { i } }$ ，在服务路径的方向上聚合，可得到单点对整个组合服务影响为
+
+$$
+\sigma _ { { } _ { P ( s _ { 1 } , s _ { 2 } , . . . , n } ) } = \frac { \sum _ { i = 1 } ^ { n } \sigma _ { i } } { n }
+$$
+
+b)交互紧密度。定义在参与服务路径构建的服务组件间，基于组件开发信息所确定的兼容程度，组件紧密度记为 $\mu$ ，且μ∈[0,1]，在信任服务路径上的聚合应当遵循非线性且随跳数增多而减弱的原则，聚合方式如下：
+
+$$
+\mu _ { _ { P ( s _ { 1 } , s _ { 2 } \ldots s _ { n } ) } } = \frac { \prod _ { i , j \in n } u _ { _ { i } } } { n ^ { \omega } }
+$$
+
+其中： $\omega \geq 1$ 为控制减弱程度的参数。
+
+本文建立效用函数来衡量信任服务路径的可信水平构建，基于QoT各属性的效用函数如下，
+
+$$
+F _ { { P _ { ( s _ { 1 } , s _ { 2 } \ldots s _ { n } ) } } } = \alpha _ { { \pmb { C } } _ { P ( s _ { 1 } , s _ { 2 } \ldots s _ { n } ) } } + \beta { \pmb { \mu } } _ { { P _ { ( s _ { 1 } , s _ { 2 } \ldots s _ { n } ) } } }
+$$
+
+其中： $\alpha \cdot \beta$ 分别为单点信任度、交互紧密度的权重值。  
+$\alpha , \beta \in ( 0 , 1 )$ 且 $\alpha + \beta = 1$ 。
+
+# 4.3基于Blockchain的服务路径生成及服务路径选择算法
+
+# 4.3.1服务路径生成
+
+本文采用经典图论中有向无环图DAG理论来设计服务路径生成算法，鉴于云计算服务资源的高动态性，本文提出了基于服务强度及链路生存时间来最优选择下一服务实例的路径生成策略：在服务覆盖层SON中提取服务节点信息及服务链路当前状态来共同决策并驱动功能图中实现的服务组件实例化进程，该方法在增强服务路径稳定性及可靠性的同时最大限度的减小服务路径解空间，提高了服务组合的成功率及执行效率。
+
+为提高服务路径的稳定性及可靠性，本文考虑选择链路生存时间较长且服务强度较大的服务组件来完成相应的功能 $f _ { i }$ ，首先给出链路生存时间与服务强度的概念。
+
+定义1链路生存时间。即路由生存时间RLT（route lifetime）由相邻节点所维系的链路生存时间的最小值确定，即
+
+$$
+R L T = M i n \big \{ L E T ( l _ { i , j } ) \big \}
+$$
+
+其中： $l _ { i , j }$ 表示路由链路中相邻两节点之间的无线链路，$L E T ( l _ { i , j } )$ 为链路 $l _ { i , j }$ 的预测生存时间。当一个节点从另一个节点的通信范围内移出时，就会发生链路中断。
+
+定义2服务强度 $S I _ { \circ }$ 服务强度 $S I ( \$ (service intensity)是对车载终端 $N _ { _ i }$ 获取服务组件 $s _ { { } _ { j } }$ 能力的定量表达，可记做 $A b i _ { _ { N _ { i } } } ( s _ { _ { j } } )$ ，表达式为
+
+$$
+A b i _ { _ { N _ { i } } } ( s _ { i } ) = \alpha ^ { * } \frac { Q _ { i } } { d i s ( N _ { i } , N _ { j } ) }
+$$
+
+其中： $Q _ { j }$ 是节点 $N _ { _ j }$ 提供服务 $s _ { { } _ { j } }$ 的能力，与其发射功率成正比,$d i s ( N _ { i } , N _ { \ j } )$ 表示从当前节点 $N _ { _ i }$ 到节点 $N _ { _ j }$ 的跳数， $\alpha$ 为一个常数，并不影响服务发现的决策。
+
+在上述维度描述之上，本文提出的基于链路预测生存时间及服务强度最优策略来高效进行服务实例选择算法具体步骤如下：
+
+a)假定复合服务具有功能自动拆分能力，基于用户服务组合请求生成的服务组合方案DAG图中含有 $\mathbf { \Sigma } _ { m }$ 个服务组件：$S { = } \{ S _ { 1 } , ~ S _ { 2 } , \cdots , ~ S _ { n } \}$ ，系统预定义生成具有相同功能的每个服务组件所属服务区域： $S A { \left( S _ { j } \right) } { = } \left\{ s _ { j } ^ { 1 } , s _ { j } ^ { 2 } , \cdot \cdot \cdot , s _ { j } ^ { m _ { j } } \right\} { \left( 1 { \leq { j } \leq m } , m _ { j } > 0 \right) } ,$ （204号其中， $s _ { j } ^ { m _ { j } }$ 为具体的服务实例。如图6所示，其节点表示完成某种功能（任务）的服务区域。
+
+![](images/2aba8a581f6ba15c2348b19ce4dfe2fb4e91e8d264ef587289b0295790517fde.jpg)  
+图6组合服务DAG功能图
+
+b)在 DAG 图中，基于以下步骤判断当前节点速度 $V _ { _ i }$ 与前趋节点速度 $V _ { _ j }$ 的QoS是否保持一致：
+
+(a)假定当前节点 $V _ { _ i }$ 与前趋节点 $V _ { _ j }$ 所属的服务区域分别为$S A ( S _ { i } ) , S A ( S _ { j } ) \circ$ (b)对 $S A ( S _ { \mathbf { \eta } _ { j } } )$ 中的每个元素 $s _ { j } ^ { n } ( 1 \leq n \leq m _ { _ j } )$ ，与 $S A ( S )$ 中的所有元素 $s _ { i } ^ { n } \left( 1 \leq n \leq m _ { i } \right)$ 进行两两比较：若出现 $Q _ { s _ { j } ^ { n } } ^ { o u t } \notin Q _ { s _ { i } ^ { n } } ^ { i n }$ ，则将 $s _ { j } ^ { n }$ 从服务区域中删除；若出现 $Q _ { s _ { j } ^ { n } } ^ { o u t } \in Q _ { s _ { i } ^ { n } } ^ { i n }$ ，将 $s _ { j } ^ { n }$ 标记为有效候选服务。
+
+c)在服务覆盖层中提取节点服务信息、节点移动信息及物理网络层路由链路状态，依照定义1及定义2计算实现下一功能 $f _ { _ { i + 1 } }$ 的服务组件在当前节点 $V _ { _ i }$ 处的服务强度 $A b i _ { _ { N _ { i } } } ( s _ { _ { j } } )$ 以及服务组件所在链路预测生存时间 $t _ { _ { i j } }$ ，加权平均后排序。选择结果最优及次优的服务组件作为服务选择返回值生成最终服务路径，则构成一张子图 $G ^ { \prime } \big ( V ^ { \prime } , E ^ { \prime } \big )$ ，图的顶点 $V ^ { \prime }$ 为相应服务区域中实例化后的服务组件 $s _ { j } ^ { n }$ ，边 $E ^ { \prime }$ 表示两个服务实例 $V _ { _ i }$ 与前趋节点$V _ { _ j }$ 之间存在输入输出关系，同时实现服务强度及链路连通时间加权平均最优，并满足QoS一致性。以下为本文提出的服务路径生成算法。
+
+Generate service paths considering RLT and SI
+
+$$
+E ^ { * } = E ^ { * } \big \{ S _ { \iota } ^ { * }  S _ { \iota } ^ { * } \big \} : 3 \big \} \big \} \} \}
+$$
+
+$G ^ { \prime } ( V _ { \ast } ^ { \prime } , N ^ { \prime } )$ 即为所求
+
+# 4.3.2服务路径选择算法
+
+在现有满足用户功能需求的服务路径中，选择可信度及可用性最强的最佳路径作为服务组合的最终执行方案。因此，本节提出支持 $\mathrm { \ S O N { + } }$ 区块链结构的执行路径的可信服务质量ToS模型 $T o S = \{ Q ^ { t a r g e t } , Q o T \}$ 。假设基于可用性 $q _ { \scriptscriptstyle a \nu } ( P _ { \scriptscriptstyle s } , t )$ 、价格$q _ { { _ p r } } ( P _ { s } , t )$ 、可靠性 $q _ { _ { r e } } ( P _ { _ s } , t )$ 和时延 $q _ { _ { d e } } ( P _ { s } , t )$ 及可信质量 $Q o T ( P _ { s } , t )$ 五维属性作为衡量服务路径性能优劣的指标，由此来构建服务路径的服务质量参数评价体系 $M = [ q _ { i , j } ] \ : ( \begin{array} { c } { { } } \\ { { 1 \leq i \leq 5 } } \end{array} , \ 1 \leq j \leq r ^ { \mathrm { ~ ) ~ } }$ （204号参数评价矩阵，表达式为
+
+$$
+\begin{array} { r } { M = \left[ \begin{array} { l l l l l } { q _ { _ { \infty } } ( P _ { 1 } ) } & { q _ { _ { \infty } } ( P _ { 2 } ) } & { \Lambda } & { q _ { _ { \infty } } ( P ) } \\ & & & \\ & & & & \\ { q _ { _ { \infty } } ( P _ { 1 } ) } & { q _ { _ { \infty } } ( P _ { 2 } ) } & { \Lambda } & { q _ { _ { \infty } } ( P ) } \\ & & & & & \\ { q _ { _ { \infty } } ( P _ { 1 } ) } & { q _ { _ { \infty } } ( P _ { 2 } ) } & { \Lambda } & { q _ { _ { \infty } } ( P ) } \\ & & & & & \\ { q _ { _ { \infty } } ( P _ { 2 } ) } & { q _ { _ { \infty } } ( P _ { 2 } ) } & { \Lambda } & { q _ { _ { \infty } } ( P _ { \mathrm { r } } ) } \\ & & & & & \\ & & & & { Q ( P _ { 1 } ) } \end{array} \right] } \end{array}
+$$
+
+其中，矩阵中的每一行表示不同服务路径的同一种服务质量属性，矩阵中的每一列对应可用服务路径集合 $P _ { _ { r } }$ 中的一条服务执行路径。
+
+为简化起见，将5种ToS属性进行标度：
+
+$$
+1 = q _ { _ { a v } } \ , 2 = q _ { _ { r e } } \ , 3 = q _ { _ { p r } } \ , 4 = q _ { _ { d e } } \ , 5 = Q
+$$
+
+化简后的服务质量参数矩阵 $M$ 可表达为$N = ( q _ { _ { i j } } ( P _ { _ j } ) ; 1 \leq i \leq 5 , 1 \leq j \leq m )$ 。同时，本文也定义QoS 约束 $c$ ，$c$ 为一个五维特征向量，分别表示用户在可用性、可靠性、价格、时延和可信度五个方面的限定条件，表达为$C = \left. c _ { _ 1 } , c _ { _ 2 } , c _ { _ 3 } , c _ { _ 4 } , c _ { _ 5 } \right. = Q ^ { \mathrm { o } }$ 。为统一不同ToS 指标的度量单位，需要将不同类型的 ToS 属性进行标准化，使量化值在[0,I]之间。针对效益型属性（数值越高，服务质量越好）和代价型属性[15]（数值越低，服务质量越好）的区别，分别给出如下标准化公式：
+
+$$
+a _ { i , j } = \left\{ \begin{array} { c c } { { ( q _ { i , j } - q _ { j } ^ { \mathrm { m i n } } ) \big / ( q _ { j } ^ { \mathrm { m a x } } - q _ { j } ^ { \mathrm { m i n } } ) } } & { { i f q _ { j } ^ { \mathrm { m a x } } - q _ { j } ^ { \mathrm { m i n } } \not = 0 } } \\ { { } } & { { } } \\ { { 1 } } & { { i f q _ { j } ^ { \mathrm { m a x } } - q _ { j } ^ { \mathrm { m i n } } = 0 } } \end{array} \right.
+$$
+
+$$
+a _ { i , j } = \left\{ \begin{array} { c c } { { ( q _ { j } ^ { \mathrm { m a x } } - q _ { i , j } ) \big / ( q _ { j } ^ { \mathrm { m a x } } - q _ { j } ^ { \mathrm { m i n } } ) } } & { { i f q _ { j } ^ { \mathrm { m a x } } - q _ { j } ^ { \mathrm { m i n } } \not = 0 } } \\ { { } } & { { } } \\ { { 1 } } & { { i f q _ { j } ^ { \mathrm { m a x } } - q _ { j } ^ { \mathrm { m i n } } = 0 } } \end{array} \right.
+$$
+
+q"=max(q.j),1≤j≤m为第i维属性的最大值；同理q=min(qi.j),1≤j≤m为第i维属性的最小值。因此对服务质量参数矩阵 $M = ( q _ { i j } ( p _ { j } ) ; 1 \leq i \leq 5 , 1 \leq j \leq r )$ 运用上述公式标准化可得标准化矩阵 $N = ( a _ { _ i j } ( p _ { _ j } ) ; 1 \leq i \leq 5 , 1 \leq j \leq r )$ □
+
+标准化工作结束后，本文对服务执行路径进行两级打分(2-level)：第一级打分是用户约束级别，即过滤掉不满足用户某条件限制的服务执行路径，如延时不能超过20秒；对第一次过滤后的服务执行路径进行第二级筛选，对其进一步打分，最终由分数大小确定组合服务执行路径的性能优劣，进而得到用户服务请求的响应。
+
+$$
+s c o r e ( P _ { i } ) = \sum _ { i = 1 } ^ { 5 } ( a _ { _ i , j } * w _ { i } )
+$$
+
+其中： $w _ { i } \in \left[ 0 , 1 \right] \wedge \sum _ { i = 1 } ^ { 5 } w _ { i } = 1$ ，事实上不同用户对于不同的服务质量属性具有不同的侧重和偏好，因而在第二级打分环节中一个关键环节就是设定每个QoS指标的权重。权重的求解既要考虑用户主观感受还要考虑客观事实,因此本文采用多属性决策（multipleattributedecisionmaking，MADM）理论及主、客观赋权相结合的方法求解服务质量属性的权重[15], $w _ { i }$ 求解思路描述如下：
+
+设 $\boldsymbol { w } _ { j }$ 是服务属性 $q _ { j }$ 的权重，$\begin{array} { l } { { \displaystyle w _ { j } ^ { \star } \in w = \left( w _ { 1 } , w _ { 2 } , . . . , w _ { a } \right) ^ { \star } , \sum _ { j = 1 } ^ { a } w _ { j } = 1 , w _ { j } \geq 0 , j = 1 , 2 , . . . , a } } \end{array}$ ，对应可用服务路径集合 $P ^ { f } = \big \{ P _ { _ { s 1 } } , P _ { _ { s 2 } } , . . . , P _ { _ { s r } } \big \} , r \in N$ ,即 $\forall P _ { s i } , P _ { s j } \in P ^ { f }$ ，若 $P _ { _ { s i } } > P _ { _ { s j } }$ 当且仅当 $B _ { i } w ^ { \cdot } \geq B _ { j } w ^ { \cdot }$ $\geq B _ { j } w ^ { \cdot } , \quad w ^ { \cdot } = ( w _ { 1 } ^ { \cdot } , w _ { 2 } ^ { \cdot } , . . . , w _ { a } ^ { \cdot } ) ^ { \cdot } , \quad i , j = 1 , 2 , . . . , n  \ , \quad B \$ 是基于 $\boldsymbol { \varrho _ { o S } }$ 参数矩阵的标准阵， $B = \left[ b _ { i j } \right] _ { n \times m }$ ，即 $\boldsymbol { B } = ( B _ { _ 1 } , B _ { _ 2 } , . . . , B _ { _ n } ) ^ { ^ { \mathrm { { + } } } }$ ，$\dot { b _ { j } ^ { \cdot } } = \operatorname* { m a x } \left\{ b _ { _ { 1 j } } , b _ { _ { 2 j } } , . . . , b _ { _ { n j } } \right\}$ 。 $D = \left[ d _ { \boldsymbol { k } j } \right] _ { m \times m }$ 是属性比较矩阵，满足$d _ { _ { k j } } \geq 0 , d _ { _ { k j } } = 1 / d _ { _ { k j } } , d _ { _ { k } } = 1 , d _ { _ { k j } } \approx w _ { _ { k } } / w _ { _ { j } } , k , j = 1 , . . . , m$ ，其中$d _ { \scriptscriptstyle { k j } }$ 表示属性 $q _ { \scriptscriptstyle k }$ 较属性 $q _ { j }$ 的相对重要程度。
+
+经过上述分析， $\boldsymbol { w } _ { j }$ 可由如下公式确定权重值：
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle \operatorname* { m i n } f _ { 1 } = \sum _ { k = 1 } ^ { m } \sum _ { j = 1 } ^ { m } ( d _ { k j } w _ { j } - w _ { k } ) ^ { 2 } } \\ { \displaystyle \operatorname* { m i n } f _ { 2 } = \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { m } ( b _ { j } ^ { * } - b _ { i j } ) ^ { 2 } w _ { j } ^ { 2 } } \\ { \displaystyle s u b j e c t } & { t o \quad \sum _ { j = 1 } ^ { m } w _ { j } = 1 , w _ { j } \geq 0 , j = 1 , 2 , . . . , m } \end{array} \right.
+$$
+
+求解过程如下。为求解模型构造如下多目标规划：
+
+$$
+\begin{array} { l } { \displaystyle { \left\{ \operatorname* { m i n } f _ { \scriptscriptstyle 3 } = \alpha \sum _ { k = 1 } ^ { m } \sum _ { j = 1 } ^ { m } ( d _ { \scriptscriptstyle k j } w _ { j } - w _ { \scriptscriptstyle k } ) ^ { 2 } + \beta \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { m } ( b _ { j } ^ { \ast } - b _ { i j } ) ^ { 2 } w _ { j } ^ { 2 } \right. } } \\ { \displaystyle { \left. s u b j e c t \quad t o \quad \sum _ { j = 1 } ^ { m } w _ { j } = 1 , w _ { j } \geq 0 , j = 1 , 2 , . . . , m \right. } } \end{array}
+$$
+
+其中： $\alpha \ : , \ : \ : \beta$ 表示主客观赋权模式相对重要程度，并且满足$\alpha + \beta = 1 , \ 0 < \alpha , \beta < 1$ 。暂不考虑对 $\mathbf { \nabla } _ { m }$ 个权 $( w _ { j } \ge 0 , j = 1 , 2 , . . . , m )$ 的非负约束，构造Lagrange函数：
+
+$$
+L = \alpha \sum _ { k = 1 } ^ { m } \sum _ { j = 1 } ^ { m } ( d _ { k j } w _ { j } - w _ { k } ) + \beta \sum _ { k = 1 } ^ { m } \sum _ { j = 1 } ^ { m } ( b _ { j } ^ { * } - b _ { i j } ) ^ { 2 } w _ { j } ^ { 2 } + 2 \lambda ( \sum _ { j = 1 } ^ { m } w _ { j } - 1 )
+$$
+
+其中 $\lambda$ 是Lgrange函数，设 $\hat { \sigma } { \cal L } _ { \hat { \partial } w _ { h } } ~ , ~ { \cal I } , 2 , . . . , m$ 则
+
+$$
+\alpha \Bigg [ \sum _ { k = 1 } ^ { m } ( d _ { _ { k h } } w _ { _ { h } } - w _ { _ { k } } ) d _ { _ { k h } } - \sum _ { j = 1 } ^ { m } ( d _ { _ { k j } } w _ { _ { j } } - w _ { _ { h } } ) \Bigg ] + \beta \sum _ { i = 1 } ^ { n } ( b _ { _ i h } ^ { \ast } - b _ { _ i h } ) ^ { 2 } w _ { _ h } + \lambda = 0
+$$
+
+结合约束 $\sum _ { j = 1 } ^ { m } w _ { j } = 1$ ， $m + 1$ 个等式可以写成矩阵形式：
+
+$$
+{ \begin{array} { r l } { { \Big [ } Z } & { e { \Big ] } { \Big [ } w { \Big ] } = { \Big [ } 0 { \Big ] } } \\ { e } & { 0 { \Big ] } { \Big [ } \lambda { \Big ] } } \end{array} }
+$$
+
+$\begin{array} { r } { Z = \left[ \triangledown _ { z _ { i j } } \right] _ { m \times m } , w = \left( w _ { 1 } , w _ { 2 } , . . . , w _ { m } \right) ^ { \cdot } , e = \left( 1 , 1 , . . . , 1 \right) , O = \left( 0 , 0 , . . . , 0 \right) , Z = \left( 0 , 0 , 1 , . . . , 0 \right) , } \end{array}$ 的元素形式为
+
+$$
+\begin{array} { c } { { z _ { i j } = - \alpha ( d _ { i j } + d _ { _ { j } } ) \qquad , \qquad i \ne j i , j = 1 , 2 , . . . , m } } \\ { { \nonumber } } \\ { { z _ { _ i i } = \alpha ( \displaystyle \sum _ { k = 1 } ^ { m } d _ { _ k i } ^ { 2 } + m - 2 ) + \beta \displaystyle \sum _ { k = 1 } ^ { n } ( b _ { i } ^ { * } - b _ { _ k i } ) ^ { 2 } i = I , 2 , . . . , m } } \end{array}
+$$
+
+求解方程（40）可得
+
+$$
+w ^ { \ast } = Z ^ { - \prime } e / e ^ { \prime } Z ^ { - 1 } e
+$$
+
+$$
+\lambda = - \frac { 1 } { e ^ { ' } Z ^ { - } e }
+$$
+
+其中： $w ^ { * }$ 就是主客观模式确定的权值。至此，依据公式 $s c o r e ( P _ { i } ) = \sum _ { i = 1 } ^ { 5 } ( a _ { _ i , j } * w _ { i } )$ ，第二级筛选结果可得。值得注意的是， 如果第二次打分之后的候选执行路径仍不止一条，本文采用进 一步的最优服务淘汰机制进行决策：通过比较服务执行路径上 服务提供节点与服务请求节点的相对距离来进行过滤，将距离 最小的服务路径作为用户请求的响应返回给用户，算法实施步 骤如下：   
+基于Blockchain的服务路径选择算法   
+input:   
+A set of candidate paths $P ( t ) = \left\{ P _ { 1 } , P _ { 2 } , . . . , P _ { m } \right\}$ that each fulfils a given task t   
+A set of constraints on task $t$ -represented as a 5-element vector   
+$C = < c _ { 1 } , c _ { 2 } , c _ { 3 } , c _ { 4 } , c _ { 5 } >$   
+output: an optimal candidate paths $P _ { i } \in P ( t )$ that fulfils task t   
+initialization. Create $m \times 5$ matrix M   
+I-level filtering for $i = 1$ to $m$ do for $j = 1$ to5 do   
+if ${ ( q _ { i j } ( p _ { i } ) < c _ { j } ) }$ then delete column $M _ { ☉ }$ (i.e., paths $P _ { _ j }$ ) from M   
+A-level filtering Set $\mathbf { \xi } _ { l }$ as the number of column in updated M Generate normalized quality vector N from M using formula Use formula Score $( P _ { i } )$ to generate an $l$ -element vector (i.e.,scores   
+of $l$ paths) $V 1$ （204 Sort $\boldsymbol { V 1 }$ according to its valueina descending orderinto V2   
+Distance-based filtering $\&$ result return 让 $e l e m e n t ( V 2 , 1 ) = e l e m e n t ( V 2 , 2 )$ then Set $\mathbf { k }$ as the number of elements in $V 2$ that all have the   
+highest score Set $\scriptstyle \mathbf { X } = \mathbf { L }$ (the maximum diagonal length of the network   
+concerned) for $i = I$ to kdo calculate the distance y between the requesting node   
+and the service-providing node   
+represented by element(V2,1) locates 证 $y { < } \mathbf { x }$ then $\scriptstyle \mathbf { X } = \mathbf { y }$ （204号 return the first $P _ { _ i }$ where $s c o r e ( P _ { i } ) = = x$ （204号   
+else return $P _ { _ i }$ where $s c o r e ( P _ { i } ) = e l e m e n t ( V 2 , 1 )$ （204号
+
+# 5 仿真实验与分析
+
+# 5.1仿真场景设置
+
+本文的仿真环境拟采用北京信息科大学审计模拟云平台，该平台是前期基于国家科技支撑计划项目建设的满足IaaS 虚拟调度与管理的高性能计算与服务共享平台。平台以3台曙光天阔1620-G10服务器及1台天阔1840-GS服务器为核心架构，同时拖带15台高性能PC作为整个云平台的硬件基础，现有硬件环境可模拟一个高性能的计算环境。
+
+仿真实验在开源仿真框架CloudSim3.0上展开，本实验通过编写并设置网关组件来模拟3个中等规模的基础设施服务提供商，构建多云、多域虚拟网络体系并模拟区块链的网络服务环境。在架构设计基础上，使用的仿真数据为北京信息科技大学校园网在线视频数据库的实时流媒体文件。假定智能合约在子云之间的传输时延在 $[ 5 - 2 0 0 ] \mathrm { m s }$ 范围内随机生成，各原子服务的QoS属性参考公开数据集QWS：
+
+(http://www.uoguelph. $\mathrm { c a / } \cdot$ qmahmoud/qws/index.html)
+
+而随机生成。假定每节点上承载四种基本服务$\left\{ { { S } _ { 1 } } , { { S } _ { 2 } } , { { S } _ { 3 } } , { { S } _ { 4 } } \right\}$ ，对应实现功能为 $\{ f _ { 1 } , f _ { 2 } , f _ { 3 } , f _ { 4 } \}$ ，这些服务资源可
+
+随机组成含有 $k ( 1 \leq k \leq 4 )$ 个任务的满足用户需求的组合服务。  
+网络中随机选择客户节点，每隔 $1 0 \mathrm { m s }$ 产生一次服务组合请求。
+
+# 5.2 实验仿真与分析
+
+本节对该研究提出的基于区块链blockchain的服务路径选择算法与经典的先发现后组合算法以及随机算法进行比较，主要针对服务组合成功率（service composition success ratio,SCSR）进行评价：
+
+首先，揭示在不同服务密度下各算法建立服务组合的成功率 SCSR。本实验中，服务密度是指完成某一功能的服务副本数占节点总数的比值，这里设置其以 $5 \%$ 的步长从 $5 \%$ 增加到 $30 \%$
+
+![](images/b78239626906137a0284d515cb34c41f1764efff763975b3d3f041f11cf4e2fe.jpg)  
+图7不同算法服务组合成功率的比较
+
+由图7可以看出，无论是静态环境还是动态环境中，本文提出的基于区块链的服务组合策略较其他经典的服务组合算法Dis-Comp、Random-Comp 在服务组合成功率上有明显的优势。例如在动态环境中，服务密度为 $30 \%$ 时，Dis-Comp、RandomComp 两种算法对应的服务组合成功率为 $81 \%$ 和 $4 2 . 5 \%$ ，而基于Blockchain成功率高达 $9 6 . 5 \%$ 。在每种算法中，服务组合的成功率随着服务密度的增加而增加，这是主要服务密度增加导致更多的服务节点可用，提供了建立并选择更优服务执行路径的机会。比较图7（a)和（b）可以发现，本文提出的Blockchain算法实现的服务组合成功率动态环境均比静态环境中要高，这是由于节点移动带来了更多可用服务资源，而基于区块链的服务组合使得服务路径的可信度、可靠性均有明显增强，大大提高了建立最优服务路径的概率。
+
+接下来讨论不同服务组合算法中节点移动速度对服务组合可用性产生的影响。设置节点的平均运动速度为5，10，…，$3 0 ~ \mathrm { m / s }$ （步长为 $5 \mathrm { m / s } \mathrm { \dot { \Omega } }$ )，在这样的动态环境下针对本文的blockchain 服务路径选择算法以及Dis-Comp、Random-Comp 算法进行仿真实验。
+
+![](images/2ec8cd1b24ae68f9a2de8257698c307c0bcb2c454e37745b16d9840370336aa4.jpg)  
+图8服务可用性与节点速度的关系
+
+如图8所示，三种算法所建立的服务执行路径可用性都随着节点速度的增加而呈下降趋势。相比而言，本文提出的服务组合策略表现出了较好的性能，即在速度 $3 0 \mathrm { m / s }$ 时，服务可用性也近似达到了 $50 \%$ ，这是由于使用两次打分策略的基于区块链Blockchain机制的服务组合算法在服务执行路径选择的过程中充分基于可信服务质量进行可信服务组件的选择，从而提升组合服务的稳定性及可靠性，确保了服务可用性最高。
+
+# 6 结束语
+
+当前，区块链最重要的应用主要出现在数字加密货币领域，尽管其理论研究和应用呈现出爆发增长态势，但应用场景和领域较为有限，无法提供过多有益的参考。
+
+本文紧跟技术前沿，尝试性的将区块链基础理论和体系框架迁移到服务计算领域。首先深入分析并借鉴区块链去中心化、共识机制、智能合约等自身特征，基于区块链基础架构和服务层次覆盖网SON 理论，提出了基于区块链的服务组合体系架构，将区块链作为底层框架来支撑并指导服务发现、服务选择、服务路径生成以及最优服务路径确定等一系列服务组合的关键流程。仿真结果证明，本文所提出的服务组合框架结构、可信服务质量模型ToS、服务路径生成算法以及最佳服务路径选择算法具有正确性、有效性及合理性，该服务组合策略大大提高了云计算环境下组合服务执行的成功率及可用性。
+
+本研究思路将成为云计算环境下服务组合可信度及可靠性的研究提供有益补充，同时也为复杂网络环境中服务资源组合及优化提供更加有效的解决方案，提供了更加有效的选路策略以支撑上层应用的运行效率。
+
+# 参考文献：
+
+[1] 张涛，马建峰，习宁，等．面向服务移动社交网络中基于信任的分布式 服务组合方法[J].电子学报,2016,44(2):258-267.   
+[2]Dou Wanchun, Zhang Xuyun,Liu Jianxun,et al.HireSome-II: towards privacy-aware cross-cloud service composition for big data applications [J]. IEEE Trans on Parallel and Distributed Systems,2015,26 (2): 455-464.   
+[3]刘玲霞，王东霞，黄敏桓，等．一个Web 服务可信体系结构[J].计算 机科学,2014,41(12):30-32.   
+[4]王嫁香.拜占庭容错算法在WebService 服务提供上的研究与应用[D]. 济南：山东大学,2009.   
+[5]周伟，陈柳．基于拜占庭容错的Checkpoint 协议[J].计算机与现代化. 2013,(11): 104-107.   
+[6]AlZain MA.A Byzantine fault tolerance model for a multi-cloud computing [C]//Proc of the 16th IEEE International Conference on Computational Science and Engineering.2013:130-137.   
+[7]邹方，高春鸣.Web 服务组合运行中的容错架构[J].计算机工程,2008, 34 (18): 89-92.   
+[8]Wang Yating, Chen IR,Cho JH,et al. Trust-based task assignment with multi-objective optimization in service-oriented ad hoc networks [J].IEEE Trans on Network and Service Management,2016,14(1): 217-232.   
+[9]Beck R, Stenum C J,Lollike N,et al. Blockchain-the gateway to trust-free cryptographic transactions [Cl//Proc of the 24th European Conference on Information Systems.2016:1-14.   
+[10] Brandvold M,MolnarP,Vagstad K et al.Price discovery on Bitcoin exchanges [J]. Journal of International Financial Markets Institutions and Money.2015 (36):18-35.   
+[11]BuehlerK,Chiarella D,HeideggerH etal.Beyond the Hype:Blockchains in Capital Markets [J/OL].2015 [2016-09-23].htps://www.weusecoins. com/assets/pdf/library/McKinsey%20Blockchains%20in%20Capital%20 Markets_2015.pdf.   
+[12] Carminati B,Ferrari E,and Tran NH. Trustworthy and effective person-toperson payments over multi-hop MANETs [J]. Journal of Network and Computer Applications,2016 (60): 1-18.   
+[13]Florian Glaser. Pervasive Decentralisation of Digital Infrastructures:A Framework for Blockchain enabled System and Use Case Analysis [C]// Procs of the 5Oth Hawaii International Conference on System Science.2017: 1543-1552.   
+[14]王慧强，邹世辰，林俊宇，等．基于信任路径搜索的分布式虚拟化环境 下可信服务组件选择方法:HA-OTPS[J]．电子学报，2017,45(1):192- 199.   
+[15]樊志平，赵萱．多属性决策中权重确定的主客观赋权法[J].决策与决 策支持系统.1997,7(4):87-91

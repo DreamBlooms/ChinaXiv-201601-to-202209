@@ -1,0 +1,293 @@
+# 依恋对象回应方式对不同依恋类型幼儿支持提供预期修正的影响
+
+贾成龙 吴婷 孙莉 秦金亮（浙江师范大学杭州幼儿师范学院国际儿童研究院，杭州311231）
+
+摘要 依恋对象的敏感性回应是儿童安全依恋发展的重要前因。研究采用改编版依恋预期范式考察实时互动情境中依恋对象确定性和概率性回应对幼儿支持提供的预期及预期修正的影响。结果发现：相对不安全型依恋幼儿，初始预期中安全型幼儿更多预期依恋对象会向依恋者提供支持；幼儿能够基于依恋对象的确定性和概率性回应一致地修正对该对象是否提供支持的预期。同时，低水平回应对幼儿预期修正的影响高于高水平回应。研究表明 5岁左右幼儿能够基于实时互动中依恋对象的回应信息修正其对该依恋对象的预期，这对理解幼儿依恋表征的发展具有重要启示。
+
+关键词支持提供预期，依恋预期修正，回应方式，依恋类型，幼儿
+
+# 1引言
+
+亲子互动如何影响儿童毕生发展始终是依恋研究者的重要关切(Bosmans etal.,2015)。依恋是依恋者与依恋对象在互动过程中形成的情感联结(Bowlby,1969/1982)。已有研究多关注母亲相关特征与幼儿安全依恋发展的关系，如母亲的心理状态、其与伴侣的关系以及母亲回应方式等(Bakermans-Kranenburg et al., 2003; Belsky & Jaffee, 2006; Bernier et al., 2014;Fearon&Belsky,2016;Posada&Waters,2018)。但该类研究大多将幼儿视为环境信息的被动接受者，而非主动进行信息加工的认知主体(林青等,2013;Johnson& Chen,2011)。与该观点不同，预期加工理论认为，大脑并非被动感知信息，而是主动预测将要到来的信息(Clark,2013)。那么，作为加工主体的幼儿如何表征其与依恋对象的互动经验，并基于这些经验进行依恋互动呢？
+
+根据依恋理论，依恋互动经验以依恋表征的形式存储在记忆网络中(Dykas&Cassidy,2011; Posada&Waters,2018)。具体来说，幼儿在与依恋对象的互动中形成关于依恋互动的表征，这些表征包括一系列“如果-那么”成分(Bretherton,1911; Posada&Waters,2016;
+
+Waters&Waters,2006)。例如，如果我遇到困难，那么我会向妈妈求助；如果我向妈妈求助，那么妈妈会帮助我。因此，依恋表征的核心成分之一是依恋者对依恋对象未来行为、意图等的预期(Dykas& Cassidy,2011; Verhees et al.,2019)。依恋预期是指在依恋互动情境中对于依恋者或依恋对象相关行为和心理状态的预期，包括但不限于依恋对象是否提供支持的预期、依恋者是否接受帮助的预期以及帮助是否有效的预期等(Johnson et al.,2010;Posada &Waters,2016)。其中，依恋者关于依恋对象是否提供支持的预期(以下称为“支持提供预期”)是其他依恋预期的基础，也为研究者所关注。
+
+根据依恋理论，不同依恋类型个体对于依恋对象在自己遇到困难时是否提供支持会形成不同预期(Dykas& Cassidy,201)。具体来说，安全型儿童会倾向于预期自己未来遇到困难时父母会提供支持；焦虑型儿童预期父母会拒绝自己；而回避型则预期自己可以解决困难，无需依赖父母(Bosmans et al.,2013)。婴儿研究为该观点提供了支持性证据。研究发现安全型婴儿更多预期依恋对象会向遇到困难的依恋者提供支持，而不安全型婴儿则更多预期依恋对象不会提供支持(林青等,2014; Johnson et al.,2007; Johnson et al.,2010)。尽管存在以上证据，但尚未研究检验依恋类型对幼儿支持提供预期的影响。所以本研究关注的第一个问题是分离情境下依恋类型对幼儿支持提供预期的影响。
+
+在依恋互动中，依恋对象的许多特征都可能会影响幼儿支持提供预期，其中依恋对象回应方式格外值得关注。依恋对象回应方式是指依恋者发出需要信号时，抚养人对信号进行觉察、解释、进而做出反应的方式(Ainsworth et al.,1978)。研究表明，依恋对象回应方式是影响儿童安全依恋发展的关键因素(Bakermans-Kranenburg et al.,2003;Bermier et al.,2014;Posada&Waters,2018)。安全型幼儿的抚养人通常能够及时回应他们的需要；焦虑型幼儿的抚养人的回应则是侵入式和过度刺激性的；而回避型幼儿的抚养人则倾向于不回应幼儿需要(Belsky et al.,1984;Fearon& Belsky,2016)。干预研究进一步表明，提高母亲对婴儿信号的回应可以提高婴幼儿的依恋安全水平(Bakermans-Kranenburg et al.,2003；van dan Boom,1990)。
+
+尽管有许多研究关注依恋对象回应方式在儿童依恋发展中的作用问题，但鲜有研究在实时互动情境中考察依恋对象回应方式对幼儿依恋的影响。可能存在以下几点原因。其一，从概念上，传统上认为依恋相关的认知和行为模式相对稳定，在短时间内很难改变(贾成龙等,2020)。其二，从范式上，幼儿依恋的测量依赖陌生情景测验、依恋Q分类法等工具，这些工具不能探测幼儿依恋的实时变化。然而，“依恋预期”概念的引入使探究互动情境下依恋对象回应对幼儿依恋的影响成为可能。首先，从概念上，“预期”是信念系统的组成部分，既具有相对稳定性，也具有灵活性和动态性(Dweck,2008)。这与 Bowlby(1969/1982)提出的“工作模式(working model)”的概念一致，即内部工作模式是指一种动力性、可调整、情境敏感的复杂社会情境表征，具有可变性。其次，从范式上，预期在实验中更容易被实时测量，研究者可以追踪个体预期的动态变化过程探究依恋表征的动态变化(Bosmans et al.,2019)。
+
+Bosmans 等(2019)在互动情境下探究了抚养人支持有效性对 9-12 岁儿童对抚养人信任及支持寻求(support-seeking)行为的影响，发现儿童更信任互动中提供更多有效帮助的抚养人，也更多向其寻求帮助。而12个月大婴儿对于依恋对象的预期似乎取决于其依恋类型，而不受任务中互动经验的影响(Johnson etal.,2010)。这可能表明儿童幼儿基于依恋对象回应进行预期存在发展差异。那么幼儿能否根据依恋对象的回应对其将来的支持行为进行预期呢？根据依恋发展理论，3-6岁幼儿处于“目标修正依恋关系”阶段，他们在制定亲密寻求计划时，能够将与依恋对象互动的情境性信息纳入考虑，如依恋对象当前的活动和目标(Bowlby,1969/1982; Marvin et al,2016; Posada& Waters,2016)。再者，儿童发展研究表明 4岁以上幼儿可以比较依靠自身感知经验和依靠成人提供信息解决问题的有效性，进而选择更有效的方式(DiYanni&Kelemen,2008)，并且他们能够基于与原有知识冲突的证据进行因果推理(Kushnir&Gopnik,2007)。可见，5岁幼儿已经能够抽取情境信息，并基于这些信息进行预测。那么，5岁左右幼儿能否基于互动中依恋对象的回应信息对该对象将来的支持提供进行预期是本研究关注的第二个问题。
+
+现实生活中，依恋对象对幼儿的回应并非是确定的，而是概率性的。在讨论母亲行为特征对依恋个体差异影响时，Bowlby(1969/1982)采纳了Winnicott(1953)提出的“刚刚好妈妈(good enoughmother)”这一概念，认为母亲对年幼儿童的回应水平达到一定程度就足以保证儿童的健康发展。Bosmans 等(2019)为该观点提供了支持性证据，他们操纵了抚养人提供有效支持的概率，发现支持有效概率达到 $80 \%$ 时会提高儿童该对象的信任，回应概率为$20 \%$ 则会降低儿童对该对象的信任。那么，幼儿能够基于依恋对象的概率性回应进行支持提供预期呢？尚未有研究对该问题进行考察。儿童发展研究表明，4岁以上幼儿已经能够对概率性信息进行评估，并根据这些信息进行推测(Corriveau et al,2009; Kushnir ＆ Gopnik,2005)。这意味着5左右幼儿应该能够抽取情境中的概率信息进行预期。因此，本研究关注的第三个问题是5岁幼儿能否基于依恋对象的概率性回应修正其支持提供预期。
+
+本研究在社会预期范式(Johnson et al,2007; Johnson et al.,2010)基础上进行了改编，采用对幼儿更友好的卡通动物形象创设亲子互动情境，以更加生态的方式探究依恋对象的回应方式对不同依恋类型幼儿支持提供预期修正的影响。实验中确定性回应和概率性回应是两种不同的回应方式。两种回应方式不仅反映了幼儿寻求支持与依恋对象回应两个事件间的共变程度，也代表了两类不同性质的关系。确定性条件表明事件之间的关系是唯一的、不可改变的，而概率性关系则表明两者之间的关系不但多样的，而且可能会发生变化(Rapp& Wilkening,2005; Starling et al.,2018)。同时，研究表明对关系性质的认知会影响幼儿对将来发生事件的预期(Romberg＆ Saffran,2013)。因此，研究中两个实验分别探究确定性条件下(实验1)和概率性条件下(实验 2)依恋对象回应对不同依恋类型幼儿支持提供预期的影响。
+
+在目标修正依恋关系阶段，为了与依恋对象达成共享性亲密计划，幼儿需要与依恋对象进行协商(Marvin et al.,2016)。这意味幼儿必须承认依恋对象拥有内在想法、目标、计划和感受，并能够去中心化地理解依恋对象心理状态和行为之间客观的因果关系(Marvin,1977;Marvin et al.,2016)。因此，除先前研究关注的对依恋对象支持提供外显行为的预期，本研究还拓展到对依恋对象支持提供意愿这一心理状态的预期，以更完整地了解幼儿的支持提供预期。
+
+基于先前研究(林青等,2014; Johnson et al.,2007; Johnson et al.,2010),本研究假设：（1)在面对新依恋对象时，依恋类型会影响幼儿对该依恋对象支持提供的初始预期，相对不安全依恋幼儿，安全依恋幼儿更多预期依恋对象会且更愿意提供支持。(2)5 岁幼儿能够基于依恋对象的确定性回应对其支持提供预期进行修正，回应条件会提高幼儿支持提供预期，而无回应条件则会降低幼儿支持提供预期。(3)5岁幼儿能够基于依恋对象的概率性回应对支持提供预期进行修正，依恋对象较高水平的回应会提高幼儿对该对象未来支持提供的预期，而较低水平的回应则会降低幼儿的预期。
+
+# 2实验1依恋对象确定性回应对不同依恋类型幼儿支持提供预期修正的影响
+
+# 2.1研究目的
+
+探究依恋类型对幼儿关于依恋对象初始支持提供预期的影响，以及依恋对象确定性回应和确定性无回应对幼儿支持提供预期修正的影响。
+
+# 2.2研究方法
+
+# 2.2.1被试
+
+共161名5-6岁幼儿参与了本研究，其中3名幼儿未能完成依恋测量任务，7名幼儿未能完成依恋预期任务。最终纳入分析的被试为151名( $M = 5 . 6 6$ $S D = 0 . 2 9$ ，男生82人)。幼儿母亲 $5 5 . 8 3 \%$ 拥有本科及以上学历， $30 \%$ 拥有大专学历， $7 . 5 \%$ 拥有高中学历， $6 . 6 7 \%$ 拥有初中及以下学历。幼儿父亲 $5 2 . 9 4 \%$ 拥有本科及以上学习， $2 6 . 8 9 \%$ 拥有大专学历， $1 3 . 4 5 \%$ 拥有高中学历， $6 . 7 2 \%$ 拥有初中及以下学习。父母平均受教育年限为 $1 4 . 9 5 ( S D = 2 . 5 2 )$ 年和$1 4 . 9 6 ( S D = 2 . 3 0 )$ 年。根据国家职业分类修订工作委员会(2015)组织编写的《中华人民共和国职业分类大典》，对父亲和母亲职业进行分类，其中国家机关、党群组织、企事业单位负责人分别占 $2 . 7 \%$ 和 $2 . 8 \%$ ，专业技术人员分别占 $3 1 . 8 \%$ 和 $23 . 2 \%$ ，办事和有关人员分别占 $6 . 4 \%$ 和 $7 . 5 \%$ ，商业、服务业人员分别占 $4 6 . 4 \%$ 和 $45 . 3 \%$ ，生产、运输设备操作及有关人员分别占 $6 . 4 \%$ 和 $2 . 8 \%$ ，军人分别占 $0 . 9 \%$ 和 $0 \%$ ，不便分类的其他从业人员分别占 $5 . 5 \%$ 和 $1 8 . 9 \%$ 。研究开始前已取得幼儿监护人的知情同意。
+
+# 2.1.2 实验设计
+
+采用2(依恋类型：安全型、不安全型) $\mathbf { x } 2$ (回应方式：回应、无回应)的混合实验设计，其中依恋类型为被试间变量，回应方式为被试内变量，因变量为幼儿对依恋对象的行为和意愿预期评分。
+
+# 2.1.3任务与程序
+
+依恋故事完成测验。采用Bretherton 等(1990)开发的依恋故事完成测验(AttachmentStory Completion Task,ASCT)对幼儿依恋类型进行测量。ASCT旨在测量3-6 岁幼儿的依恋状况。任务包括一个热身故事（生日聚会）和5个依恋主题相关故事，顺序依次为：果汁洒了、膝盖受伤、卧室里有怪兽、与父母分离和与父母团聚。任务实施遵循 Bretherton 等(1990)研究的流程。任务由经过良好训练的主试实施，主试以富有情感的方式讲述故事以激活幼儿的依恋系统。对任务实施全程进行录像。采用标准的编码和依恋分类系统获取幼儿依恋状况，编码可以得到两个指标：依恋安全分数和依恋类型(Gloger-Tippelt& Kappler,2016)。依恋安全分数是一个单维得分，分数越高表示幼儿依恋安全程度越高，分数越低则表示依恋安全程度越低。幼儿依恋类型被分为安全型、回避型、焦虑型和无组织型四类。两个独立评分者分别对样本数 $20 \%$ 进行编码，计算评分者一致性信度。依恋安全分数的二次加权kappa系数为0.885，总体依恋分类的kappa系数为0.765。剩下 $80 \%$ 样本数据由其中一位研究者(第一作者)进行编码。幼儿平均依恋安全分数为 $2 . 3 0 ( S D = 0 . 8 5 )$ 。对于依恋类型，其中安全型幼儿69人，回避型46人，焦虑型26人，无组织型10人²。
+
+依恋预期任务。任务基于社会预期任务(Johnson et al.,2010)改编而成，以 Pygame 1.9.6编写和呈现。任务根据依恋对象是否回应依恋者分为两种条件：回应条件和无回应条件。每种条件包括三个阶段：基线阶段、学习阶段和测验阶段。使用卡通兔妈妈( $3 5 \mathrm { ~ x ~ } 7 0$ 像素)和小兔子( $2 5 \mathrm { ~ x ~ } 4 5$ 像素)动画呈现亲子互动情境。为增加幼儿的参与感，邀请幼儿进行“小兔子，猜猜猜”的游戏，并在任务前请幼儿转三圈、跳两下变成小兔子，然后进行后续任务。
+
+基线阶段，首先呈现分离事件(图1A)。兔妈妈和小兔子出现在一个三层山坡的底部，随后一起向右移动。靠近第一个上坡时，小兔子停止移动，兔妈妈继续向上移动至山的第二层，停止移动。然后，小兔子开始向上移动至第一个上坡的三分之二处，接着三次滑落到第一层。随后，播放真实幼儿哭声的音频，持续3.3秒。在此过程中，主试向幼儿讲述实验
+
+![](images/c9f0a8f5ce260fff4379baa2dfc2d72186445123fa3f29bff9a267d6dca0c699.jpg)  
+图1一试次实验任务流程示意图
+
+情境故事：兔妈妈和小兔子一起去爬山，妈妈很容易爬到了第二层，小兔子爬不上去，就伤心地哭了。然后请幼儿猜测兔妈妈是会回到小兔子身边帮助它，还是不理它自己爬到第三层。同时呈现两张分别描绘兔妈妈回到小兔子身边和兔妈妈位于山的第三层的图片让幼儿进行选择。图片的左右位置随机。若幼儿选择妈妈回到小兔子身边，则记为“1”，否则记为“0”。随后，呈现四个不同表情的图片(从左往右依次为：非常开心，开心，不开心和非常不开心，图如1A)，让幼儿对兔妈妈帮助小兔子的意愿进行评分。具体指导语为：“兔妈妈心里有四种情况，这个(指向非常开心表情)表示妈妈很愿意帮助小兔子，这个(指向开心表情)表示妈妈愿意表示帮助小兔子，这个(指向不开心表情)表示妈妈不愿意帮助小兔子，这个(指向非常不开心表情)表示妈妈很不愿意帮助小兔子。你觉得现在兔妈妈心里是哪种情况呢？”为了保证幼儿记住每个表情图片代表的意愿水平，每个试次均提醒幼儿每个表情图片代表的意愿程度。若幼儿选择“很愿意帮助”则记4分；“愿意帮助”则记3分；“不愿意帮助”记为2分；“很不愿意帮助”则记为1分。选择不同表情图片作为辅助幼儿意愿评分的工具，是因为在现实生活中母亲是否乐意提供支持通常伴随着情绪，情绪和意愿之间存在一定的一致性，这可以帮助幼儿更好进行意愿评分。预实验表明1个试次后幼儿就能理解任务，同时考虑到实验任务的时长，为了保持幼儿的兴趣，避免疲劳，分离事件只在第一个试次呈现，其他试次均以分离后场景(见图1A)作为开始。基线阶段包括4个试次。幼儿对依恋对象的行为预期分数等于幼儿预期兔妈妈会回到小兔子身边帮助它的试次数除以总试次数(4次)；意愿预期分数等于各试次幼儿意愿预期得分的均值。
+
+学习阶段(图1B)包括回应和无回应两种条件，分别以不同的兔妈妈-小兔子亲子对呈现(灰兔妈妈和小灰兔，粉兔妈妈和小粉兔)。该阶段以分离后场景开始，然后要求被试猜测兔妈妈是否会回到小兔子身边帮助它。被试回答完成之后，呈现反馈。在回应条件下，呈现兔妈妈回到小兔子身边的动画；而在无回应条件下，呈现兔妈妈向上移动到第三层的动画。每种条件包括6个试次，试次数是根据预实验确定的。
+
+测试阶段包括4个试次，与基线阶段后三个试次相同。第一个条件完成后，向儿童介绍第二组兔妈妈和小兔子，强调它们与第一组不同。两条件以区组的形式呈现，每种条件兔妈妈-小兔子的颜色、区组的顺序进行随机处理。
+
+邀请幼儿进行一个两阶段游戏。每个阶段完成ASCT和依恋预期任务中的一项，ASCT和依恋预期任务分两天进行，任务的先后顺序随机。两项任务在幼儿园安静的教室中以一对一的方式进行。每个任务结束后，向幼儿赠送贴纸作为礼物。
+
+# 2.1.4数据分析
+
+首先，为检验依恋类型对幼儿初始支持提供预期的影响，对不同依恋类型基线阶段幼儿行为预期和意愿预期进行独立样本t检验。基线阶段支持提供预期为向幼儿呈现的第一个回应条件的基线数据。其次，对依恋对象回应条件对不同依恋类型幼儿支持提供行为预期和意愿预期的影响，进行 2(依恋类型：安全型、不安全型)x3(回应条件：基线条件、回应条件、无回应条件)重复测量方差分析。不安全型依恋包括回避型依恋、焦虑型依恋和无组织型依恋。为进一步比较不安全型依恋子类型之间的差异，进行 2(依恋类型：回避型、焦虑型)x3(回应条件：基线条件、回应条件、无回应条件)重复测量方差分析。因为无组织型依恋人数较少，故未将其纳入分析。再者，对于依恋类型和回应条件对依恋行为和意愿预期改变量的影响，因为行为和意愿预期改变量数据不服从正态分布，采用非参数检验进行分析。行为预期改变量(change of behavior expectation, C-BE)或意愿预期改变量(change ofwillingness expectation,C-WE)等于每种条件测验阶段预期分数减去各对应条件基线阶段分数。因为两种条件预期的总体改变方向不同，为了比较两组差异，取无回应条件中C-BE和C-WE 的负数进行差异比较分析。需要时，在方差分析中采用Greenhouse-Geisser 进行球形度校正，采用Bonferroni方法进行 $p$ 值校正。统计分析使用R语言环境下的bruceR包进行(Bao,2020)。
+
+# 2.3结果
+
+# 2.3.1依恋类型对幼儿初始支持提供预期的影响
+
+对于基线阶段行为预期，安全型和不安全型幼儿均显著高于随机水平， $t \left( 6 8 \right) = 1 1 . 1 2$ ，$p < 0 . 0 0 1$ ，Cohen's $d = 2 . 7 0$ ， $9 5 \%$ CI [0.76,0.88]; $t \left( 8 1 \right) = 7 . 7 7$ ， $p < 0 . 0 0 1$ ，Cohen's $d { = } 1 . 7 3$ ，$9 5 \%$ CI [0.66,0.78]。同时，不安全型显著低于安全型， $t \left( 1 4 7 . 4 3 \right) = - 2 . 4 7$ $p = 0 . 0 1 5$ , Cohen's$d = - 0 . 4 1$ ， $9 5 \%$ CI[-0.18,-0.02]，但回避型和焦虑型两不安全依恋亚型不存在显著差异， $\mathbf { \Psi } _ { t }$ $( 5 9 . 5 0 ) = 0 . 4 8 \$ 0 $p = 0 . 6 3$ 。对于基线阶段意愿预期，不安全型显著低于安全型， $t \left( 1 4 0 . 8 3 \right) = -$ 2.66, $p = 0 . 0 0 9$ , Cohen's $d = - 0 . 4 5$ ， $9 5 \%$ CI[-0.49,-0.07]，但回避型和焦虑型两不安全依恋亚型不存在显著差异， $t \left( 5 2 . 9 7 \right) = 0 . 7 6 , p = 0 . 4 5$ 0
+
+# 2.3.2回应条件和依恋类型对支持提供预期的影响
+
+各条件下幼儿行为和意愿预期描述统计见表1。对幼儿行为预期的方差分析，结果表明回应条件主效应显著， $F \left( 1 . 7 7 , 2 6 3 . 0 3 \right) = 4 3 5 . 3 0$ ， $p < 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } { = } 0 . 7 4 5$ ，回应条件显著高于基线条件，而基线条件又显著高于无回应条件， $p \mathbf { s } < 0 . 0 0 1$ 。依恋类型主效应不显著， $F$ （204号 $( 1 , 1 4 9 ) = 0 . 5$ ， $p = 0 . 4 8$ 。依恋类型与回应条件交互作用显著， $F \left( 1 . 7 7 , 2 6 3 . 0 3 \right) = 3 . 9 2$ ， $p$ （204号$= 0 . 0 2 6$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } { = } 0 . 0 2 6$ ，简单效应分析表明，基线阶段安全型幼儿行为预期显著高于不安全型幼儿， $t \left( 1 4 9 \right) = 2 . 4 5$ ， $p = 0 . 0 1 5$ ，Cohen's $d = 0 . 4 9 5$ ， $9 5 \%$ CI [0.10,0.90]，但在回应和无回应条件下两者均无显著差异， $p \mathrm { s } > 0 . 0 5$ 。对于回避型和焦虑型幼儿行为预期的方差分析表明，与依恋类型相关的主效应和交互作用不显著， $p \mathbf { s } > 0 . 0 5$ 。
+
+表1行为预期与意愿预期在各条件下的均值(SD)  
+
+<html><body><table><tr><td rowspan="3"></td><td colspan="2">基线条件</td><td colspan="2">回应条件</td><td colspan="2">无回应条件</td></tr><tr><td>安全型</td><td>不安全型</td><td>安全型</td><td>不安全型</td><td>安全型</td><td>不安全型</td></tr><tr><td>行为预期</td><td>0.82(0.24)</td><td>0.72(0.25)</td><td>0.92(0.18)</td><td>0.92(0.19)</td><td>0.11(0.20)</td><td>0.16(0.29)</td></tr><tr><td>意愿预期</td><td>3.32(0.66)</td><td>3.04(0.62)</td><td>3.50(0.64)</td><td>3.49(0.52)</td><td>1.92(0.69)</td><td>2.04(0.78)</td></tr></table></body></html>
+
+对于幼儿的意愿预期方差分析表明(如图 2B)，回应条件主效应显著， $F \left( 1 . 6 6 , 2 4 7 . 1 7 \right) =$ 224.73， $p < 0 . 0 0 1$ ， $\mathfrak { \eta _ { p } } ^ { 2 } = 0 . 6 0 1$ ，回应条件意愿预期显著高于基线阶段，基线阶段又显著高于无回应条件， $p \mathbf { s } < 0 . 0 0 1$ 。依恋类型主效应不显著， $F \left( 1 , 1 4 9 \right) = 0 . 7 1$ ， $p = 0 . 4 0 2$ 。依恋类型和回应条件交互作用显著， $F ( 1 . 6 6 , 2 4 7 . 1 7 ) = 3 . 7 7$ ， $\begin{array} { r } { p = 0 . 0 3 2 } \end{array}$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 0 2 5$ ，简单效应分析表明，在基线阶段，安全型幼儿意愿预期显著高于不安全型幼儿， $p = 0 . 0 0 8$ 。对于不安全型幼儿，回应条件显著高于基线条件， $p \mathbf { s } < 0 . 0 0 1$ ，而对于安全型幼儿两者之间则无显著差异， $p > 0 . 0 5$ 。对回避型和焦虑型幼儿的意愿预期的方差分析发现，与依恋类型相关的主效应和交互作用不显著， $p \mathbf { s } > 0 . 0 5$ 。
+
+![](images/7fb2da7425bea61eefdb824ab9bb0f4c0d9e6fe42b10bb7ad72678f24caa2c16.jpg)  
+图2不同条件下幼儿依恋行为预期和意愿预期
+
+注：图中，“安全”为安全型幼儿，“不安全”为不安全型幼儿；误差线表示 $\pm 1$ 个标准误； $^ { * } p < 0 . 0 5$ ； $^ { * * } p < 0 . 0 1$ ； $\ast \ast \ast _ { p } <$   
+0.001。
+
+对于幼儿的意愿预期方差分析表明(如图 2B)，回应条件主效应显著， $F \left( 1 . 6 6 , 2 4 7 . 1 7 \right) =$ 224.73， $p < 0 . 0 0 1$ ， $\mathfrak { \eta _ { p } } ^ { 2 } = 0 . 6 0 1$ ，回应条件意愿预期显著高于基线阶段，基线阶段又显著高于无回应条件， $p \mathbf { s } < 0 . 0 0 1$ 。依恋类型主效应不显著， $F \left( 1 , 1 4 9 \right) = 0 . 7 1$ ， $p = 0 . 4 0 2$ 。依恋类型和回应条件交互作用显著， $F ( 1 . 6 6 , 2 4 7 . 1 7 ) = 3 . 7 7$ ， $\begin{array} { r } { p = 0 . 0 3 2 } \end{array}$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 0 2 5$ ，简单效应分析表明，基线阶段安全型幼儿意愿预期显著高于不安全型幼儿， $p = 0 . 0 0 8$ 。对于不安全型幼儿，回应条件显著高于基线阶段， $p \mathbf { s } < 0 . 0 0 1$ ，而对于安全型幼儿两者之间则无显著差异，$p > 0 . 0 5$ 。对回避型和焦虑型幼儿的意愿预期的方差分析发现，与依恋类型相关的主效应和交互作用不显著， $p \mathbf { s } > 0 . 0 5$ 。
+
+# 2.3.3回应条件和依恋类型对支持提供预期修正量的影响
+
+安全依恋分数与无回应条件行为预期改变量呈显著正相关， $r \left( 1 5 1 \right) = 0 . 2 7$ ， $p { < } 0 . 0 0 1$ ：而与回应条件下的改变量无显著相关， $r \left( 1 5 1 \right) = - 0 . 0 4 \$ ， $\mathnormal { p } = 0 . 6 4 9$ 。对于C-BE(见图3A)，曼-惠特尼U检验表明，无回应条件显著高于回应条件， $V = 5 1 2 1 . 5$ ， $p < 0 . 0 0 1$ $( M _ { \mathrm { \mathcal { \bar { L } } / \bar { \mu } / \mu \vdots } } = 0 . 6 8$ ，$S D = 0 . 3 7$ ; $M _ { \mathit { \Pi } / \vec { \jmath } / \vec { \jmath } \vec { \zeta } } = 0 . 3 9$ ， $S D = 0 . 4 2 \mathrm { ; }$ 。进一步Wilcoxon 符号秩检验表明，对于无回应条件，不安全型幼儿显著低于安全型幼儿， $W = 2 2 6 7 . 5$ ， $p = 0 . 0 3 0$ 0 $M _ { \mathrm { \it \ / \mathcal { K } \ / \mathcal { L } \ / = 0 . 5 5 } }$ ， $S D = 0 . 4 2$ ; $M _ { ☉ }$ $\mathcal { Z } ^ { \underline { { { \pi } } } \underline { { { \it { u } } } } } = 0 . 7 1$ ， $S D = 0 . 3 1 \$ )；而对于回应条件，两者不存在显著差异， $W = 3 0 8 2 . 0$ ， $p = 0 . 3 3 0$ (M不安全型 $= 0 . 4 0$ ， $S D = 0 . 4 0$ ; $M _ { ☉ \textcircled { < } \# } = 0 . 3 6$ ， $S D = 0 . 4 3 )$ 。安全型幼儿和不安全型幼儿不存在显著差异， $W = 6 8 7 . 5$ ， $p = 0 . 2 8 3$ 。此外，回避型和焦虑型幼儿无论在回应条件和无回应条件间均无显著差异， $p \mathrm { s } > 0 . 0 5$ 。
+
+![](images/a0e8f1996898f3330d928254c0888afe3a4d9ab87b5eac50157444a226a0a946.jpg)  
+图3不同条件下幼儿依恋行为预期改变量和意愿预期改变量
+
+注：图中，“安全”为安全型幼儿，“不安全”为不安全型幼儿；误差线表示 $\pm 1$ 个标准误； $^ { * } p < 0 . 0 5$ ； $^ { * * } p < 0 . 0 1$ ； $\ast \ast \ast \ast _ { p } <$   
+0.001；ns 表示没有达到显著。
+
+依恋安全分数与无回应条件意愿预期改变量呈显著正相关， $r \left( 1 5 1 \right) = 0 . 1 8$ ， $p = 0 . 0 2 4$ 而与回应条件下的意愿预期改变量无显著相关， $r \left( 1 5 1 \right) = - 0 . 0 8$ ， $p < 0 . 3 4 5$ 。对于C-WE(见图 3B)采用类似分析发现，无回应条件显著高于回应条件， $V = 6 2 0 6 . 0$ ， $p < 0 . 0 0 1$ （ $M$ 无回应$= 1 . 2 7$ ， $S D = 1 . 0 6$ ; $M _ { \mathit { \Pi } / \# / \hbar \gamma } = 0 . 7 7$ ， $S D = 0 . 9 9 \mathrm { \Omega }$ 。进一步分析表明，对于无回应条件，不安全型幼儿显著低于安全型幼儿， $W = 2 2 2 6 . 0$ ， $p = 0 . 0 2 3$ $( M _ { \mathrm { \tiny ~ \mathscr { K } \mathscr { L } } } = 1 . 0 0$ ， $S D = 1 . 0 3$ ； $M _ { ☉ H \backslash \mathscr { Y } } = 1 . 4 1$ ，$S D = 0 . 9 7 { \cdot }$ ；而对于回应条件，两者不存在显著差异， $W = 3 2 7 7 . 5$ ， $p = 0 . 0 9 0$ 0 $M _ { ☉ ☉ \iiiint } = 0 . 8 8$ $S D = 0 . 9 7$ ; $M _ { ☉ I E ^ { \prime } } = 0 . 6 3$ ， $S D = 1 . 0 1 \$ )。安全型幼儿和不安全型幼儿不存在显著差异， $W =$
+
+43576.0， $p = 0 . 4 2 7$ 。此外，回避型和焦虑型幼儿无论在回应条件和无回应条件间均无显著差异， $p \mathrm { s } > 0 . 0 5$ 。
+
+# 2.3 讨论
+
+实验1结果发现，依恋类型会影响幼儿对依恋对象支持提供行为和意愿预期，具体来说安全型幼儿对依恋对象支持提供的行为和意愿预期均显著高于不安全型幼儿，该结果支持假设(1)并与先前婴儿研究结果一致(林青等,2014; Johnson et al,2007; Johnson et al.,2010),这说明在面对新依恋对象时，幼儿能够基于其自身依恋经验对该依恋对象未来的支持提供行为进行预期。同时，与假设(2)一致，研究发现5岁幼儿能够基于依恋对象的确定性回应对其支持提供预期进行修正，即回应条件会提高幼儿支持提供预期，而无回应条件则会降低幼儿支持提供预期。这表明5岁幼儿能够从即时依恋互动中获得与依恋对象相关的特征信息，并能基于新习得信息对该依恋对象原有的预期进行修正，这也与幼儿推理研究结果一致(Gopnik et al.,2004; Kushnir& Gopnik,2007)。此外，研究发现幼儿在面对消极依恋互动经验时，更容易修正对依恋对象的预期，这可能反映了个体面对威胁时的一种适应性消极偏向。依恋预期修正的消极偏向可以避免因为高估依恋对象提供支持而在遇到困难时产生消极体验(Coan & Sbarra,2015;LoBue,2009)
+
+实验1考察了确定性条件下依恋对象的回应方式对幼儿依恋预期修正的影响，但生活中依恋对象的回应通常是概率性的。Bosmans等(2019)研究表明， $80 \%$ 可能是依恋对象提供有效支持促进儿童信任发展的“刚刚好”的标准，实验2按照他们实验中的概率设置，将依恋对象的回应概率设置为 $20 \%$ ， $50 \%$ 和 $80 \%$ ，探究依恋对象的概率性回应方式对幼儿依恋预期修正的影响。
+
+3 实验2依恋对象概率性回应对不同依恋类型幼儿支持提供预期修正的影响
+
+# 3.1研究目的
+
+探究依恋对象不同概率的回应（ $20 \%$ ， $50 \%$ ， $80 \%$ 对幼儿对依恋对象支持提供的预期修正的影响。
+
+# 3.2研究方法
+
+# 3.2.1 被试
+
+共95名5-6岁幼儿参与了本研究，其中3名幼儿未能完成依恋测量任务，2名幼儿未能完成依恋预期任务。最终纳入分析的被试为90名 $\mathit { T M } = 5 . 4 6$ $S D = 0 . 2 9$ ，男生45人)。幼儿母亲 46.07拥有本科及以上学历， $3 7 . 0 8 \%$ 拥有大专学历， $12 . 3 6 \%$ 拥有高中学历， $4 . 4 9 \%$ 拥有初中及以下学历。幼儿父亲 $50 . 5 6 \%$ 拥有本科及以上学习， $2 9 . 2 1 \%$ 拥有大专学历， $1 6 . 8 5 \%$ 拥有高中学历， $3 . 8 \%$ 拥有初中及以下学习。父母平均受教育年限为 $1 5 ( S D = 2 . 0 7 )$ 年和$1 4 . 9 6 ( S D = 1 . 9 8 )$ 年。根据国家职业分类修订工作委员会(2015)组织编写的《中华人民共和国职业分类大典》，对父亲和母亲职业进行分类，其中国家机关、党群组织、企事业单位负责人分别占 $4 . 4 \%$ 和 $1 . 1 \%$ ，专业技术人员分别占 $2 5 . 6 \%$ 和 $23 . 3 \%$ ，办事和有关人员分别占 $2 . 2 \%$ 和 $1 . 1 \%$ ，商业、服务业人员分别占 $3 2 . 2 \%$ 和 $3 3 . 3 \%$ ，生产、运输设备操作及有关人员分别占 $5 . 6 \%$ 和 $2 . 2 \%$ ，不便分类的其他从业人员分别占 $30 \%$ 和 $3 8 . 9 \%$ 。研究开始前已取得幼儿监护人的知情同意。
+
+# 3.2.2 实验设计
+
+采用2(依恋类型：安全型，不安全型) $\textbf { x } 3$ （回应概率： $20 \%$ ， $80 \%$ ， $50 \%$ 的混合实验设计，其中依恋类型为被试间变量，回应概率为被试内变量，因变量为幼儿对依恋对象的行为和意愿预期。
+
+# 3.2.3任务与程序
+
+依恋故事完成测验。任务实施过程与编码规则与试验1相同。两个独立评分者分别对样本数 $20 \%$ 进行编码，计算评分者一致性信度。依恋安全分数的二次加权kappa系数为0.83，依恋分类的kappa 系数为0.77。剩下 $80 \%$ 样本数据由其中一位研究者(第一作者)进行编码。幼儿平均依恋安全分数为 $2 . 2 2 ( S D = 0 . 9 3 )$ 。对于依恋类型，其中安全型幼儿41人，回避型33人，焦虑型10人，无组织型6人。
+
+依恋预期任务。本实验使用的依恋预期任务与实验1类似。根据Bosmans 等(2019)设置的依恋对象回应有效性概率条件，本实验根据依恋对象回应概率分为三种条件： $20 \%$ 回应条件， $80 \%$ 回应条件和 $50 \%$ 回应条件。每种条件以不同颜色(白色、灰色和粉色)的卡通兔妈妈和小兔子表示。依恋对象回应概率为学习阶段依恋对象回应试次数占该条件试次总数的比例。回应试次是指学习阶段反馈中兔妈妈回到小兔子身边的试次，而无回应试次则是指兔妈妈移动到第三层的试次。为了更加方便概率条件的创设，不同于实验1，实验2中每种条件学习阶段包括10个试次， $20 \%$ 、 $80 \%$ 和 $50 \%$ 条件下回应试次数分别为2次、5次和 8次。条件呈现顺序以及条件中试次顺序是随机的。其他与实验1任务一致。
+
+# 3.2.4数据分析
+
+数据分析思路与实验1相同。
+
+# 3.3结果
+
+# 2.3.1依恋类型对幼儿初始支持提供预期的影响
+
+对于基线阶段行为预期，安全型和不安全型均显著高于随机水平， $t \left( 4 0 \right) = 7 . 8 3$ ， $p <$ 0.001，Cohen's $d = 2 . 4 8$ ， $9 5 \%$ CI [0.70, 0.84]; $t \left( 4 8 \right) = 4$ ， $p < 0 . 0 0 1$ ，Cohen's $d = 1 . 1 5$ ， $9 5 \%$ CI[0.57,0.71]。同时，安全型幼儿 $( M = 0 . 7 7 , S D = 0 . 2 2 )$ 显著高于不安全幼儿 $\mathrm { T } M = 0 . 6 4$ $S D =$ $0 . 2 5 , t ( 8 7 . 7 9 ) = 2 . 5 , p = 0 . 0 1 3$ ,Cohen's $d = 0 . 5 4$ )，但回避型和焦虑型两不安全依恋亚型不存在显著差异， $t \left( 2 3 . 6 3 \right) = . 2 3 , p = 0 . 8 2$ 。对于基线阶段意愿预期，不安全型和安全型以及不安全依恋两亚型之间均不存在显著差异， $p \mathbf { s } > 0 . 0 5$ 。
+
+# 3.3.2概率条件和依恋类型对支持提供预期的影响
+
+各实验条件下幼儿支持提供行为预期和意愿预期的描述统计见表2。对行为预期(如图4A)，方差分析结果表明回应条件主效应显著， $F \left( 2 . 8 4 , 2 4 9 . 8 3 \right) = 3 2 . 4 5$ ， $p < 0 . 0 0 1$ ， ${ \mathfrak { n } } _ { \mathfrak { p } } ^ { 2 } =$ 0.269，基线阶段均显著高于三种回应条件， $p \mathrm { s } < 0 . 0 5$ ， $80 \%$ 和 $5 0 \%$ 回应条件均显著高于$20 \%$ 回应条件， $p \mathrm { s } < 0 . 0 0 1$ ，但 $80 \%$ 和 $5 0 \%$ 回应条件无显著差异， $p > 0 . 0 5$ 。依恋类型主效应边缘显著， $F \left( 1 , 8 8 \right) = 3 . 5 0$ ， $p = 0 . 0 6 5$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 0 3 8$ ，安全型边缘性高于不安全型幼儿。
+
+表2行为和意愿预期在各条件下的均值 $( S D )$   
+
+<html><body><table><tr><td rowspan="3"></td><td colspan="2">20%回应</td><td colspan="2">50%回应</td><td colspan="2">80%回应</td></tr><tr><td>安全型</td><td>不安全型</td><td>安全型</td><td>不安全型</td><td>安全型</td><td>不安全型</td></tr><tr><td>行为预期</td><td>0.38(0.20)</td><td>0.39(0.26)</td><td>0.55(0.21)</td><td>0.54(0.22)</td><td>0.66(0.21)</td><td>0.57(0.29)</td></tr><tr><td>意愿预期</td><td>2.32(0.45)</td><td>2.29(0.62)</td><td>2.62(0.53)</td><td>2.67(0.62)</td><td>2.94(0.59)</td><td>2.82(0.70)</td></tr></table></body></html>
+
+注：表中安全表示安全型依恋，不安全表示不安全型依恋。
+
+![](images/1811649586ee262a76083a3dc926b88253835a8aacc53bd78a878dbd438f97c1.jpg)  
+图4不同条件下幼儿依恋行为预期和意愿预期
+
+注：图中，“安全”为安全型幼儿，“不安全”为不安全型幼儿；误差线表示 $\pm 1$ 个标准误； $^ { * } p < 0 . 0 5$ ： $^ { * * * } p < 0 . 0 0 1$ 。
+
+依恋类型和预期条件交互作用不显著， $F \left( 2 . 8 4 , 2 4 9 . 8 3 \right) = 1 . 9 2$ ， $p = 0 . 1 3 0$ 。此外，对于回避型和焦虑型依恋幼儿行为预期的方差分析发现与依恋类型相关的主效应和交互作用均不显著， $p \mathrm { s } > 0 . 0 5$ 。
+
+对于意愿预期(如图4B)，方差分析表明回应条件主效应显著， $F ( 2 . 8 1 , 2 4 7 . 0 5 ) = 2 7 . 4 7$ $p < 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 2 3 8$ ，基线和 $80 \%$ 回应条件均显著高于 $50 \%$ 和 $20 \%$ 回应条件， $p \mathrm { s } < 0 . 0 5$ $50 \%$ 回应条件显著高于 $20 \%$ 回应条件， $p < 0 . 0 0 1$ ，但基线与 $80 \%$ 回应条件间差异不显著，$p > 0 . 0 5$ 。依恋类型主效应不显著， $F \left( 1 , 8 8 \right) = 0 . 6 9$ ， $p = 0 . 4 0 9$ 。依恋类型和预期条件交互作用不显著， $F \left( 2 . 8 1 , 2 4 7 . 0 5 \right) = 0 . 7 6$ ， $p = 0 . 5 1 0$ 。此外，对于回避型和焦虑型幼儿意愿预期的方差分析发现与依恋类型相关的主效应和交互作用不显著， $p \mathrm { s } > 0 . 0 5$ 。
+
+# 3.3.3回应方式和依恋类型对支持提供预期修正量的影响
+
+各条件下原始C-BE 和C-WE均值见表3。C-BE和W-BE的计算与实验1相同。对于C-BE(如图5A)，Friedman检验表明三种回应概率条件间存在显著差异，Friedman $\chi ^ { 2 } = 2 2 . 3 0$ $p < 0 . 0 0 1$ ，进一步曼-惠特尼U检验表明， $20 \%$ 回应条件显著高于 $80 \%$ 和 $5 0 \%$ 回应条件， $V =$ 2047.5， $p < 0 . 0 0 1$ ， $V = 2 2 1 5 . 0$ ， $p < 0 . 0 0 1$ ， $80 \%$ 和 $5 0 \%$ 回应条件无显著差异， $V = 1 2 4 0 . 5$ ，$\mathrm { \Delta } p { = } 0 . 8 4 3$ 。WilcoXon 符号秩检验表明，C-BE在安全和不安全两种依恋类型间差异不显著，注：“安全”为安全型幼儿，“不安全”为不安全型幼儿；误差线表示 $\pm 1$ 个标准误；\*\*\* $\mathrm { : } \boldsymbol { p } < 0 . 0 0 1$ ；ns 表示没有达到显著。
+
+表3各条件C-BE和C-WE的原始均值 $( S D )$   
+
+<html><body><table><tr><td></td><td colspan="2">20%回应条件</td><td colspan="2">50%回应条件</td><td colspan="2">80%回应条件</td></tr><tr><td></td><td>安全型</td><td>不安全型</td><td>安全型</td><td>不安全型</td><td>安全型</td><td>不安全型</td></tr><tr><td>C-BE</td><td>-0.34(0.30)</td><td>-0.26(0.37)</td><td>-0.05(0.31)</td><td>-0.06(0.24)</td><td>0.06(0.34)</td><td>0.07(0.38)</td></tr><tr><td>C-WE</td><td>-0.70(0.75)</td><td>-0.65(0.85)</td><td>-0.21(1.05)</td><td>-0.02(0.85)</td><td>0.15(1.00)</td><td>0.33(0.87)</td></tr></table></body></html>
+
+![](images/38357bb91d8c6904dd97d43e1e7885f423f38261aee4826472c4645808af42a5.jpg)  
+图5不同条件下幼儿依恋行为预期改变量和意愿预期改变量
+
+$W { = } ~ 9 3 8 6 . 5$ ， $p = 0 . 5 7 9$ 。此外，对于每种回应条件，安全型和不安全型幼儿均不存在显著差异， $p \mathrm { s } > 0 . 0 5$ 。此外，回避型和焦虑型C-BE不存在显著差异， $p > 0 . 0 5$ 。
+
+对于意愿预期改变量(如图 5B)，Friedman 检验表明三种回应概率条件间存在显著差异，Friedman $\chi ^ { 2 } = 1 6 . 2 2 , p < 0 . 0 0 1$ ，进一步检验表明 $20 \%$ 回应条件显著高于 $80 \%$ 回应条件和 $5 0 \%$ 回应条件， $V = 2 4 4 5$ ， $p = 0 . 0 0 3$ ， $V = 2 2 1 8$ ， $p < 0 . 0 0 1$ ， $80 \%$ 和 $5 0 \%$ 回应条件无显著差异， $V$ $= 1 6 6 8$ ， $p = 0 . 3 8 3$ 。C-BE在安全和不安全两种依恋类型间差异不显著， $W { = } 9 7 7 6$ ， $ { p } = 0 . 2 4 8$ 。此外，对于每种回应条件，安全型和不安全型幼儿均不存在显著差异， $p \mathrm { s } > 0 . 0 5$ 。此外，回避型和焦虑型C-BE不存在显著差异， $p > 0 . 0 5$ 。
+
+# 3.4 讨论
+
+本研究操纵了依恋对象的回应概率，结果发现相对基线， $80 \%$ 回应显著降低幼儿支持提供行为预期， $20 \%$ 和 $50 \%$ 条件则会显著降低行为和意愿预期，该结果与假设(3)一致。这表明5岁左右幼儿能够基于即时互动中依恋对象回应的概率性信息修正其对该对象的支持提供行为和意愿预期。对于预期修正的数量， $20 \%$ 回应条件显著高于 $80 \%$ 和 $50 \%$ 回应条件，这表明幼儿经历消极互动后其对依恋对象的预期修正更高，这与实验1结果一致。
+
+# 4综合讨论
+
+本研究通过操纵依恋对象对依恋者寻求支持的回应发现，当缺少依恋对象回应模式相关经验时，幼儿会基于自身依恋类型对依恋对象提供支持的行为和意愿进行预期；而当通过互动获得依恋对象回应模式信息后，无论是确定性回应模式还是概率性回应模式，幼儿均能够根据该信息一致地对该对象未来是否支持提供的预期进行修正。研究结果支持本研究的三个假设。
+
+# 4.1依恋类型对幼儿支持提供预期的影响
+
+依恋理论认为，个体先前依恋经验会引导其在陌生人际关系中的表现(Dykas&Cassidy,2011;Mohammadzade Naghashan et al.,2021)。安全型幼儿通常认为他人是可信任的，而不安全型幼儿则认为他人是不可信任的(王争艳等,2005;Bretherton&Munholland,2008)。与该观点一致，本研究发现相对不安全型幼儿，安全型幼儿在基线阶段更多预期依恋对象会向处于困境中的依恋者提供支持，这也与先前研究结果一致(林青等,2014; Johnson et al.,2007;Johnson etal.,2010)。同时，研究未发现回避型和焦虑型幼儿在支持寻求预期上的差异，这与先前婴儿研究的结果一致(林青等,2014; Johnson et al.,2010)。根据不安全依恋冲突模型(Ainsworth et al.,1978)，不安全型幼儿的支持寻求行为是渴望亲密和害怕亲密两种冲突动机相互作用的结果，且当环境威胁水平较低时，渴望亲密动机强于害怕亲密动机。而本研究中幼儿是对视频中依恋对象是否向困境中的依恋者提供支持进行预期，威胁程度较低，因此害怕亲密动机较弱，不足以使幼儿采取外显的依恋防御策略。
+
+解释偏向可能是依恋类型影响幼儿对依恋对象初始支持提供预期的可能机制(De Winteret al.,2016)。解释偏向会引导幼儿以与当前预期一致的方式对新经验进行加工(Beck,1964;De Winter et al.,2015)。自动化的依恋解释偏向会使幼儿能够迅速、有效地评估其与依恋对象的互动，进而选择恰当行为(DeWinter etal.,2016)。安全型儿童拥有一种安全解释偏向，他们对于母亲模糊行为的解释更加积极，这使得他们更可能将母亲感知为可得和具有支持性的，而不安全型儿童则与之相反(Bowlby,1969/1982; De Winter et al.,2016;Dykas & Cassidy,2011)。据此，在对新的依恋对象的时，不同依恋类型幼儿会以不同的方式对依恋对象的模糊行为进行解释和预期以符合自身的依恋经验。
+
+有趣的是依恋类型对5岁幼儿支持提供预期的影响仅限于基线阶段，而当幼儿获得与支持提供相关的直接证据时，他们将根据直接证据进行预期。这与婴儿研究结果不同，Johnson等(2010)研究发现12个月大婴儿对于依恋对象的预期取决于其依恋类型，而不受任务中互动经验的影响。这意味5岁幼儿已经能够灵活整合原有知识和当前互动信息，有选择地基于某类信息进行预期。与该观点一致，Kushnir和Gopnik(2007)发现4岁以上幼儿能够基于与自身原有知识冲突的新证据进行推论。从解释偏向的角度，当依恋对象是否提供支持相关信息十分明确时，幼儿对该行为做出其他可能解释的可能性降低，即明确的行为会削弱幼儿的解释偏向，这时幼儿更可能基于明确信息进行预期
+
+# 4.2依恋对象回应方式对幼儿依恋预期修正的影响
+
+研究表明，5岁幼儿已经能够在复杂的实时社会互动任务中抽取依恋对象行为特征相关的信息，并基于新信息对依恋对象的支持提供预期进行修正。这与儿童发展研究结果一致，4岁左右幼儿能够对共变性证据进行评估，经过两次观察就可以习得新的因果关系，并能基于该关系进行预测(Gopnik et al.,2004; Kushnir & Gopnik,2007)。5岁幼儿对新经验较高的学习能力使其能够使用这些新经验对原有预期进行修正。同时，本研究发现5岁幼儿不但能基于依恋对象的确定性回应进行预期修正，也能基于概率性回应进行预期修正。具体来说，幼儿预期修正的方向与依恋对象回应的性质一致，即较高水平回应会提高幼儿的预期，而较低水平回应会降低幼儿预期。与该结果一致，Bosmans等(2019)也发现养育者支持有效概率会影响儿童对其信任和未来的帮助寻求预期。
+
+同时，本研究发现幼儿的预期修正程度对依恋对象较低水平回应更敏感。这意味着相对积极互动，幼儿支持提供预期对消极互动更加敏感，这可能反应了个体面对潜在威胁时的一种适应性消极偏向。从进化的角度，对情境中威胁信息的迅速探测和识别，可以使个体快速逃离危险，增加存活几率 (LoBue,2009)。研究发现相对积极信息，个体消极信息更敏感(Coan＆ Sbarra,2015; Hughes et al.,2017)。同时，研究发现相对不安全型幼儿，安全型幼儿对消极回应更加敏感，即经历消极互动后安全型幼儿更大程度上修正其预期。根据社会基线理论，依恋关系是一种重要社会资源，安全型幼儿对其可靠的先验信念水平更高，因此，他们能够更好完成环境中的任务(Coan& Sbarra,2015)。这也与安全型幼儿对依恋相关信息加工更加开放、灵活，而不安全型幼儿更可能采用防御性加信息工策略的观点一致(Dykas & Cassidy, 2011)。
+
+# 4.3依恋对象回应方式影响依恋预期修正的可能机制
+
+从幼儿基于依恋对象回应进行支持提供预期可以分为信息获取和做出预期两个过程。幼儿获取依恋对象回应信息的过程可以视为一个强化学习过程(Bosmans et al.,2020)。根据预期误差最小化观点(Olsson etal.,2020)，幼儿关于依恋对象提供支持的预期价值与实际经历结果之间的差值(即预预期误差)更新其关于该依恋对象的价值。无论是在确定性回应还是概率性回应条件下，幼儿通过一系列预期-反馈过程调整自己随后的预期，使预期误差逐渐变小。在此过程中，目标导向学习系统会建构关于依恋对象回应的内部表征，幼儿可以很快将新信息纳入原有模型中，并对模型进行修正(Olssonet al.,2020)。另一种可能是幼儿根据依恋对象的回应模式形成了特质性的判断，如“这个妈妈是好的”。这与学习认知推断模型观点一致，即认为学习是习得关于事件间关系的命题性信念的过程 (De Houwer,2009)。学龄前儿童已经能够理解特质的稳定性，例如，研究表明3-5岁儿童常基于二分的特质推断对信息源进行整体性判断(Reyna & Brainerd,2011)。
+
+获得依恋对象支持提供信息后，幼儿则需要基于这些信息对该对象未来支持提供行为和意愿进行预期。本研究发现，5岁幼儿不但能够基于先前习得的依恋对象回应信息对该对象未来的行为进行预期，还能对其未来意愿进行与行为预期一致的推测和评估。这与先前研究结果一致，研究表明学前期幼儿心理状态推理能力的发展使其能够意识到外显行为和心理状态关联密切(Haver,&Justice,1993;Lagatuta& Kramer,2021)。幼儿信息获取方式不同，做出预期的过程也不同。若信息获取阶段习得的是依恋对象与其支持提供行为(US)之间的联结，那么幼儿将根据依恋对象反应的频率信息对其未来行为进行预期，进而根据行为模式特征对内部心理意愿进行推测。若信息获取阶段习得的是依恋对象的特质，那么幼儿将根据该特质对其未来的行为和意愿进行预期。尽管在这两种情况下，对于依恋对象意愿的预期均涉及心理理论，但前者反映的是从外显行为推测心理状态，特别是愿望，而后者反映的则是从心理特质推测愿望(黄天元,林崇德,2003;Wellman,1990,)。
+
+根据预期加工理论(Clark,2013)，幼儿支持提供预期修正不但受互动中依恋对象的支持提供行为信息影响，幼儿关于对依恋对象支持提供行为和意愿的现存知识(existingknowledge)也会影响预期修正，如幼儿对依恋对象支持提供的初始行为和意愿预期。幼儿对于意愿和行为的现存知识也可能也会影响预期修正。本研究发现，在确定性回应条件下，幼儿行为预期修正量高于意愿预期修正量。这可能是因为对幼儿来说，依恋对象意愿更可能与其稳定的人格特质相关联，更不容易改变。因此，相对行为预期修正，幼儿对意愿预期的修正更低。
+
+# 4.4不足与展望
+
+研究存在以下几点不足。其一，依恋作为一种情感联结，情感成分是区分依恋关系和其他关系的重要维度。依恋预期任务中使用卡通动物亲子对来呈现实验情境，幼儿通过观察亲子互动进行预期，这可能会减少幼儿依恋相关情绪的激活。未来研究可以使用更加生态的材料来探究依恋对象回应模式的作用，如基于幼儿与妈妈照片制作的刺激材料。其二，实验1和实验2中条件包含的试次数不同，这限制了对实验1和实验2结果的直接比较。其三，被试年龄均集中于5岁左右，无法考察依恋对象回应方式影响幼儿依恋预期修正的发展差异。未来研究将进一步从发展视角，探讨不同年龄阶段幼儿如何基于依恋对象的回应方式更新其依恋预期。
+
+# 5结论
+
+（1）5岁幼儿对新依恋对象支持提供的初始预期受自身依恋类型影响，相对不安全型   
+幼儿，安全型幼儿更倾向于预期依恋对象会且更愿意向依恋者提供支持。 （2）5岁左右幼儿能够基于实时互动中依恋对象的确定性和概率性回应修正其关于该   
+依恋对象是否提供支持的预期。 （3）相对高水平回应，依恋对象低水平回应对5岁幼儿支持提供预期修正的影响更大。   
+参考文献   
+Ainsworth,M. D.S.,Blehar,M.C., Waters,E.,& Wall,S.(1978). Patterns of attachment: A psychological study of the strange situation. Erlbaum.   
+Bakermans-Kranenburg,M.J.,Van IJzendoorn,M. H.,&Jufer,F. (20o3).Lessis more: Meta-analysis ofsensitivity and attachment interventions inearly childhood. Psychological Bulletin,129,195-215.   
+Bao,H.-W.-S. (2020). bruceR: Broadly useful collections and extensions of R functions. R package version 0.4.5. Retrieved from https://github.com/psychbruce/bruceR.   
+Belsky,J.，& Jaffee,S.(2006). The multiple determinants of parenting. In D.Ciccheti & D. Cohen (Eds.), Developmental psychopathology: Risk, disorder, and adaptation (2nd ed., Vol.3,pp.38-85). Wiley.   
+Belsky, J.,Rovine,M.,& Taylor,D.G.(1984).The Pennsylvania Infant and Family Development Project:I. The originsof individual differences in infant-mother attachment: Maternal and infant contributions.Child Development,55,718-728.   
+Bernier,A.,Mate-Gagne,C.,Belanger,M.E.,& Whipple,N. (2014).Taking stock of two decades of attachment transmission gap: Broadening the assessment of maternal behavior. Child Development,85(5),1852-1865.   
+Bosmans, G.,Bakermnas-Kranenburg,M. J. Vervliet,B., Verhees,M.W.F.T.,&van Ijzendoorn,M. H. (2020). A learning theory of atachment: Unraveling the black box of attchment development. Neuroscience and Biobehavioral Reviews,113,287-298.   
+Bosmans,G. Braet, C.，Heylen Joke,& De Raedt,R. (2015). Children’s attentional processing of mother and proximity seeking. PLoS One,10(4), e0124038.   
+Bosmans,G.,Koster,E.H. W.,Vandevivere,E.,Braet, C.,&De Raedt,R.(2013).Young adolescent's confidence in maternal support: Atentional bias moderates the link between attachment-related expectations and behavioral problems. Cognitive Therapy and Research,37, 829-839.   
+Bosmans,G., Waters,T.E.A.,Finet, C.,De Winter,S.,& Hermans,D. (2019). Trust development as an expectancylearning proces: Testing contingency effects. PLoS One,14(12), e0225934.   
+Bowlby, J. (1969/1982). Attachment and loss: Atachment (Vol.1). Basic Books.   
+Bretherton,I. (199o). Open communication and internal working models: The role in the development of attachment relationships. In R.Thompson (Ed.),Socioemotional development: The Nebraska Symposion on Motivation (pp. 57-113). University of Nebraska Press.   
+Bretherton,I.,& Munholland, K.A. (2oo8).Internal working models in attchment relationships: Elaboratinga central constructinattachmenttheory.InJ.Cassidy,P.R.Shaver,J.Cassidy,&P.R.Shaver(Eds.),Handbookof attachment: Theory, research,and clinical applications (pp.102-127).Guilford Press.   
+Bretherton,I., Ridgeway,D.,&Cassidy,J. (1990).Assessing internal working models ofthe attachment relationsip: An atachment story completion task for 3-year-olds.In M.T. Greenberg,D.Cicchetti,&E.M. Cummings (Eds.), Atachmentinthepreschoolyears: Theory,research,andintervention (pp.273-308).UniversityofChicagoPress.   
+Clark A. (2O13). Whatever next? Predictive brains,situated agents, and the future of cognitive science. The Behavioral and Brain Sciences,36(3),181-204.   
+Coan,J.A.,& Sbarra,D.A. (2015).Social baseline theory: The social regulationofrisk and effort. Current Opinion in Psychology,1,87-91.   
+Corriveau,K.H., Meints,K.,& Harrs,P.L. (2oo9).Early tracking of informant accuracyand inaccuracy.British Journal of Developmental Psychology, 27(2),331-342.   
+De Houwer,J.(oo9).The propositionalapproach tossociative learning as an alternative forassociation formation models. Learning & Behavior,37(1),1-20.   
+De Houwer, J.，& Beckers,T.(2O02).A review of recent developments in research and theories on human contingency learning. The Quarterly Journal of Experimental Psychology,55B (4),289-310. antecedents of infant attachment. Child Development, 68(4),571-591.   
+DiYanni, C.,& Kelemen, D.(20o8). Using a bad tool with good intention: Young children's imitation of adults’ questionable choices.Journal of Experimental Child Psychology, 101(4),241-261.   
+Dweck,C.S.(20o8). Can personality be changed? The role of beliefs in personalityand change. Curent Directions in Psychological Science,17(6),391-394.   
+Dykas,M.J.,& Cassidy,J. (2011).Attachment and the processing of social information acrossthe life span: Theory and evidence.Psychological Bulletin,137(1),19-46.   
+Fearon,R.M.P.& Belsky,J. (2016). Precursors of atachment security. In J. Cassidy & P.R. Shaver (Eds.), Handbook ofatachment: Theory,research, and clinical applications (3nd ed.,pp.507-533). Guilford Press.   
+Gloger-Tippelt, G.,& Kappler, G. (2016).Narrtives of attachment in middle childhood: Do gender,age,and riskstatus matter for the quality of attchment? Attachment & Human Development,18(6),570-595.   
+Gopnik,A.,Glymour, C.,Sobel,D.,Schulz,L.,Kushnir,T.,& Danks,D.(20o4).A theory of causal learning in children: Causal maps and Bayes nets.Psychological Review, 1l1,1-31.   
+Haver,K.G.& Justice,E. M.(1993). Children's understanding of intentions, emotions,and intention-emotion relationships.Modern Psychological Studies,1(2),7-12.   
+Huang,T.,& Lin,C.(2O03).Reviews on the studies ofchildren's trait-understanding in the research area of theory of mind. Advances in Psychological Science,11(2),184-192.   
+[黄天元,林崇德.(2003).关于儿童特质理解的心理理论研究.心理科学进展,11(2),184-192.]   
+Jia, C.,Liu,T.,Sun,L.,& Qin,J.(O2).Thedualityofattachment patten: Trait attachmentand state attachment. Advances in Psychological Science, 28(4), 626-637.   
+[贾成龙，刘廷廷,孙莉,秦金亮.(2020).个体依恋特征的二重性：特质性依恋与状态性依恋．心理科学进展， 28(4),626-637.]   
+Johnson, S. C.,& Chen,F. S. (2011). Socioemotional information processing in human infants: From genes to subjective construals. Emotion Review, 3(2),169-178.   
+Johnson, S.C.，Dweck,C.S.，& Chen,F.S.(2007).Evidence for infants'internal working modelsof attachment. Psychological Science,18(6),501-502.   
+Johnson,S.C.,Dweck,C.S.,Chen,F.S.,Stern,H.L.,Ok,S.J.,&Barth,M.(2010).At the intersectionof social and cognitive development: Internal working models ofattachment in infancy. Cognitive Science,34(5),807-825.   
+Kushnir,T.,& Gopnik,A. (2O07).Conditional probability versus spatial contiguity incausal learning: Preschoolers use new contingency evidence to overcome prior spatial assumptions. Developmental Psychology,43(1),186- 196.   
+Lagatuta, K. H.,& Kramer, H. J. (2O21). Advanced emotion understanding: Children's and adults knowledge that minds generalize from prior emotional events. Emotion,21(1),1-16.   
+Lin, Q.,Wang,Z.,Lu,S.,Liang,X.,He,Q., Wang,Z.,&etal. (2014). Internal working models oftoddlers: Abridge from Maternal Sensitivity to Toddlers'Attachment Behaviors.Acta Psychologica Sinica,46(3),353-366.   
+[林青,王争艳,卢珊,梁熙,贺琼,王朝,胡若时.(2014).从母亲的敏感性到学步儿的依恋安全性：内部工作模 式的桥梁作用.心理学报,46(3),353-366.]   
+LoBue,V. (2O9). More than just another face in the crowd: Superior detection of threatening facial expressions in children and adults.Developmental Science,12(2),305-313.   
+Marvin,R.S. (1977).An ethological-cognitive model for the attenuation of mother-child attachment behavior. In T. M. Alloway,L. Krames, & P.Pliner (Eds.)， Advances in the study ofcommunication and affct: Attachment behavior (Vol. 3, pp. 25-60). Plenum Press.   
+Marvin,R.S.,Britner, P.A.,& Russell, B.S.(2016). Normative development: The ontogenyof attchment in childhood.In J. Cassidy & P.R.Shaver (Eds.)，Handbook of attchment:Theory，research，and clinical applications (3nd ed., pp.273-290). Guilford Press.   
+Mohammadzade Naghashan,N.,Mazaheri,M.,Gustafsson,E.,SadeghiFiroozabadi,V.,& Zabihzadeh,A.(2021). Attachment and joint attention in infants: The role of expectation. Infancy.26,223-237.   
+Olsson,A., Knapska,E.,&Lindstrom,B. (2020).The neural and computational systems of social learning. Nature Review Neuroscience,21,197-212.   
+Rapp,A.F.,& Wilkening,F. (20o5). Children's recognitionofthe usefulness ofarecord: distinguishing deterministic and probabilistic events. European Journal of Developmental Psychology,2(4) 344-363.   
+Romberg,A.R.,& Safran,J.R.(2O13).Expectancy learning from probabilistic input by infants.Frontiers in Psychology,3,610,1-16.   
+Posada,G.,& Waters,H.S. (2018).I. Introduction: The co-construction of mother-child attchment partnership in early childhood.Monographs of the Society for Research in Child Development. 84(4),7-21.   
+Reyna,V.F.,&Brainerd,C.J.(2O11).Dual processes indecision making and developmental neuroscience: Afuzzytrace model. Developmental Review, 31(2-3),180-206.   
+Starling,S.J.,Reder,P.A.,& Aslin,R.N.(2O18).Probability learning in an uncertain world: How childrenadjust to changing contingencies. Cognitive Development, 48,105-116.   
+vanden Boom,D.(199o).Preventive interventionandthe qualityofmother-infant interaction and infant exploration in iritable infants.In W. Koops,H.J. G.Soppe,J.L.van der Linden, C.M. Molenaar,&J.J.F.Schroots (Eds.), Developmental psychology behind the dikes (pp. 249-270). Uitgeverji Eburon.   
+Verhes,M. W.F.T., Ceulemans,E.,van IJzendoorn,M.H.,Bakermans-Kranenburg,M.J.,& Bosmans,G. (2019). State attachment variability across distressng situations in middle childhood. Social Development,29(1),196- 216.   
+Wang,Z., Liu,Y., Yang,Y. (2005). Review on the researches of atachment working models, Advances in Psychological Science,13(05),629-639.   
+[王争艳,刘迎泽,杨叶.(2005).依恋内部工作模式的研究概述及探讨.心理科学进展,13(05),629-639.]   
+Waters,H.S.,& Waters,E. (2006).The attchment working models concept: Among other things,we build scriptlike representations of secure base experiences.Attachment & Human Development, 8(3),185-197.   
+Wellman, H. M. (1990). The children's theory of mind. MIT Press.   
+Winnicot,D. (1953).Transitional objects and transitional phenomena. International Journal of Psychoanalysis,34, 89-97.   
+Working Commitee for Revision of National Occupational Classification Code. (2015). The occupational classification code of the People's Republic of China.China Labor and Social Security Publishing House.   
+[国家职业分类大典修订工作委员会.(2015).中华人民共和国职业分类大典.中国劳动社会保障出版社.]
+
+# The effects of attachment figures’ response pattern on the supportgiving expectation revision of young children with different attachment styles
+
+# JIA Chenglong; WU Ting; SUN Li; QIN Jinliang (The International Institute for Child Study, Hangzhou College of Early Childhood Education, Zhejiang Normal University, Hangzhou 311231)
+
+# Abstract
+
+The sensitivity of caregivers plays a crucial role in the development of secure attachment relationships. According to the attachment theory， children internalize their interactions with attachment figures as the Internal Working Models (IWMs), which that guide their information processing and behavioral performance in intimate relationships later on. However, little has been known about how young children represent those atachment interactions.As a basic structure of IWMs,the attchment script is conceptualized as a set of attachment expectations. Studies have found that attachment figure's response patterns are related to young children's support-giving expectation. However, few studies have directly explored how attachment figures’ responses influence young children's attachment expectations. Using a real-time interaction task, the present study intended to examine how attchment figures' response pattern affected children's expectations of attachment figures’ support-giving behavior and willingness.
+
+In both experiments The Attachment Expectation Task (AET） was used to manipulate attchment figures' response pattrn, and the Attchment Story Completion Test (ASCT) was used to measure children's attchment styles. Experiment 1 adopted a 2 (response pattern: response/nonresponse) $\textbf { x } 2$ (attachment style: secure/insecure） mixed design to investigate how attachment figures' response pattern influenced children's support-giving behavior and willingness expectations under deterministic conditions. A total of 161 children 5-6 years of age were recruited (82 boys, mean age ${ } = 5 . 6 6 \pm 0 . 2 9$ years). Experiment 2 adopt a 3 (response pattern: $20 \%$ / $5 0 \% / \ 8 0 \% )$ x 2 (attachment style: secure/insecure) mixed design to investigate the effects of response pattrn on children's support-giving expectations under probabilistic response conditions.A total of 95 children 5-6 years of age participated (45 boys, mean $= 5 . 4 6 \pm 0 . 2 9$ years). Participants in both experiments were asked to finish the AET and the ASCT in two sessions.
+
+The results showed: (1） in new intimate relationships,secure children were more likely to expect attachment figures would and were more willing to provide support than insecure children (Experiment 1 &2); (2)children's expectation of support-giving behavior and wilingness increased under response condition but decreased under non-response condition (Experiment 1); (3) children's expectation of support-giving behavior and willingness significantly decreased under $20 \%$ and $50 \%$ （204号 response condition, however, under $80 \%$ response condition, only expectation of support-giving behavior decreased significantly (Experiment 2); (4) low-level response (non-response and $20 \%$ （204号 response condition） had a higher effect on children's expectation revision of behavior and willingness than high-level response (response, $80 \%$ ,and $50 \%$ condition) (Experiment 1 and 2).
+
+The results indicate that attachment styles influence 5- and 6-year-old children's initial attchment support-giving expectations for new atachment figures, and they can revise these expectations based on attachment figures’ response patterns. The current study enriches the empirical evidence on how attchment figures’ response influences children's atachment expectation revision in interpersonal interactions and extends our understanding of the organization and development of attachment representation. These findings also have important implications for the mechanism underlying secure attachment development in children.
+
+Key words support-giving expectation， attachment expectation revision， response pattern, attachment style, young children

@@ -1,0 +1,230 @@
+[
+    {
+        "type": "text",
+        "text": "Brief Communications ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spontaneous Vesicle Release Is Not Tightly Coupled to Voltage-Gated Calcium Channel-Mediated Ca²+ Influx and Is Triggered by a Ca²+ Sensor Other Than Synaptotagmin-2 at the Juvenile Mice Calyx of Held Synapses ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jinye Dai,1,2 Peihua Chen,1,3 Hao Tian,1,2 and Jianyuan $\\mathbf { S u n } ^ { 1 , 2 , 3 }$ StateKebe Academyofieesejo,nadterossaseeitefsdes, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is well known that voltage-gated calcium channels (VGCCs)-mediated $\\mathrm { C a } ^ { 2 + }$ influx triggers evoked synaptic vesicle release.However, the mechanisms of $\\mathbf { C a } ^ { 2 + }$ regulation of spontaneous miniature vesicle release (mini) remain poorly understood.Here we show that blocking VGCCsatejuveileice (C57BL/6)calyxofHeldsapsefledtoauseanimmediatecangeiniis.Istead,itultein a significant reduction $( \\sim 4 0 \\% )$ of mini frequency several minutes after theblockage.By recording VGCCactivityand single vesicle fusion events directlyathe presynaptic terminal, we found that minis did notcouple to VGCC-mediated $\\mathrm { C a } ^ { 2 + }$ entry,arguing foralack ofdirect correlation between mini and transient $\\mathbf { C a } ^ { 2 + }$ influx. Moreover, mini frequencies displayed a lower apparent $\\dot { \\mathrm { C a } } ^ { 2 + }$ cooperativity than those of evoked release.In agreement with this observation,abrogation of the $\\mathrm { C a } ^ { 2 + }$ sensor synaptotagmin-2 had no efect on apparent $\\mathrm { C a } ^ { 2 + }$ cooperativityofminis.Together,ourstudyprovidesthefirstdirectevidencethatspontaneous minisarenotmediatedbytransient $\\mathrm { C a } ^ { 2 + }$ signals through VGCCs and are triggered by a $\\mathrm { C a } ^ { 2 + }$ -sensing mechanism that is different from the evoked release at these microdomain VGCC-vesicle coupled synapses. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: $\\mathrm { C a } ^ { 2 + }$ sensor; spontaneous vesicle release; synaptic plasticity; VGCC ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Three types of synaptic vesicle fusion have been identified so far, namely evoked synchronous release,evoked asynchronous release,and spontaneous release (Pang and Sidhof,2OlO).Evoked release of vesicles is the major form of synaptic transmission and is initiated by $\\mathrm { C a } ^ { 2 + }$ influx via voltage-gated calcium channels (VGCCs; Katz and Miledi, 1970; Borst et al.,1995). These readily releasable vesicles are coupled to VGCCs so that each vesicle can be driven by the opening of a single or multiple $\\mathrm { C a } ^ { 2 + }$ channels (Stanley,1993; Wadel et al., 2007; Bucurenciu et al.,2010; Sheng et al.,20l2; Vyleta and Jonas, 20l4). Spontaneous minis are individual events functioning in synaptic maturation and synaptic plasticity (Axelsson and Thesleff,1959; McKinney et al.,1999; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Verhage et al., 200o; Tyler and Pozzo-Miller, 2003; Sutton et al., 2006;Lee et al.,2o1O),and are triggered byas yet unknown mechanisms.Despite a smallfraction of $\\mathrm { C a } ^ { 2 + }$ -independent spontaneous miniature vesicle releases (minis; Yamasaki etal.,2oo6), the large fraction of minis appears to be $\\mathrm { C a } ^ { 2 + }$ dependent. Three factors involved in $\\mathrm { C a } ^ { 2 + }$ -dependent mini induction have been proposed: （1） resting $\\mathrm { C a } ^ { 2 + }$ concentrations; (2） stochastic $\\mathrm { C a } ^ { 2 + }$ channel opening; and (3) $\\mathrm { C a } ^ { 2 + }$ release from internal $\\mathrm { C a } ^ { 2 + }$ stores (Pang and Sudhof,2OlO).Toa large extent,these mechanisms are related to VGCCs,because VGCC-mediated $\\mathrm { C a } ^ { 2 + }$ entry can increase intracellular $\\mathrm { C a } ^ { 2 + }$ concentrations,induce $\\mathrm { C a } ^ { 2 + }$ release from internal stores,or directly trigger vesicle release (Hubbard et al.,1968; Llano et al.,2000; Angleson and Betz,2001). However,it has not been tested rigorously how exactly VGCCs are involved in triggering minis,and some earlier reports using different types of synapses remain under debate (Scanziani et al., 1992; Vyleta and Smith,2011; Eggermann et al., 2012; Goswami et al.,2012;Vyleta and Jonas,2014).Noticeably, there is no experimental evidence that has proven unequivocally that minis are directly and instantly triggered by VGCC-mediated $\\mathrm { C a } ^ { 2 + }$ entry. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It was shown previously that synchronous vesicle release is triggeredby synaptotagmin (Syt)-1,Syt-2,and Syt-9(defined as fast sensors; Geppert et al.,1994; Sun et al.,2007; Xu et al.,2007), whereas the $\\mathrm { C a } ^ { 2 + }$ -sensing mechanisms for asynchronous vesicle release are still under investigation. Syt-7 and Doc2 were proposed recently as the candidate $\\mathrm { C a } ^ { 2 + }$ sensors for asynchronous release (Sun et al.,2007; Yao et al.,201l; Bacaj et al.,2013). In contrast,the mechanisms behind $\\mathrm { C a } ^ { 2 + }$ sensing during spontaneous vesicle release is far from elucidated (Kavalali etal.,2O11).A number of previous studies suggested that a mini is simplyan extensionof evoked synchronousrelease and mediatedbyafast sensor (Xu et al.,2009).However,other studies argued that proteins of the Doc2 familymediate $\\bar { \\mathrm { C a } ^ { 2 + } }$ -triggered minis (Groffen et al.,2010),which was challenged by subsequent studies (Pang et al., 2011; Bacaj et al.,2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d9b0ae19c694c50ce341a9061e4875c0abcaaca1be4fd0ca92d19db2c67d191.jpg",
+        "img_caption": [
+            "Figure1.VGCC-mediated ${ \\mathsf { G } } ^ { 2 + }$ influxregulates spontaneous vesicle release.A,Sampled presynaptic recording.Top,Depolarization at 20 ms from $- 8 0 \\ t 0 0 \\mathrm { m V } ;$ middle, ${ \\mathsf { G } } ^ { 2 + }$ current trace;bottom two panels,currenttraces (red)recorded after1 and 2 min extracellular application o $\\mathsf { f } 0 . 2 \\mathsf { m m } \\mathsf { C } \\mathsf { d } ^ { 2 + }$ contained bath solution.B,Normalized electricalcharge of ${ \\mathsf { G } } ^ { 2 + }$ influx versus time $( n =$ 5).C,Sampled minitracesbeforeandafter switching to normal (Ctrl $\\begin{array} { r } { \\begin{array} { r } { \\boldsymbol { n } = 1 7 } \\end{array} } \\end{array}$ and $\\mathsf { C d } ^ { 2 + }$ contained $2 \\mathsf { m m } [ { \\mathsf { C a } } ^ { 2 + } ] _ { \\mathrm { e } }$ bath solution $( \\mathsf { d } ^ { 2 + } , \\boldsymbol { \\eta } = 8 ,$ red).D,Average of normalized plot of mini frequency versus time at $2 \\mathsf { m m } [ { \\mathsf { C a } } ^ { 2 + } ] _ { \\mathrm { e } ^ { \\pm } } \\pmb { \\cal E } ,$ Sampled mini traces before and after switching to normal (Ctrl $\\cdot n = 1 1 \\cdot$ ),and $\\mathsf { C d } ^ { 2 + }$ contained $8 \\mathsf { m m } [ ( \\mathsf { a } ^ { 2 + } ] _ { \\mathrm { e } }$ bath solution $( \\mathsf { d } ^ { 2 + } , \\boldsymbol { \\eta } = \\mathsf { 8 } ,$ red) $\\pmb { F } ,$ Average of normalized plot of mini frequency versus time at $8 \\mathsf { m m } [ \\mathsf { C a } ^ { 2 + } ] _ { \\mathrm { e } }$ All the data in $\\pmb { D }$ and F were normalized to the recordings at the time of solution switching (as indicated by the arrowhead). ${ \\pmb 6 } , { \\pmb H } ,$ Cumulative probability of mEPSC amplitude before (black solid) and after (red dash) switching to normal(left)or $\\mathsf { C d } ^ { 2 + }$ (right) contained bath solution, with $[ \\mathsf { C a } ^ { 2 + } ] _ { \\mathrm { e } }$ d $2 \\mathsf { m m } ( { \\pmb G } )$ and $[ \\mathsf { C a } ^ { 2 + } ] _ { \\mathrm { e } }$ of $8 \\mathsf { m } _ { \\mathsf { M } } ( \\pmb { H } )$ ,respectively.Error bars indicate $\\pm S E M$ = $^ { \\ast } p < 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we used cell-attached patch recordingandpresynaptic/postsynaptic whole-cell recording at the calyx of Held synapses to address whether minis are directly triggered by $\\mathrm { C a } ^ { 2 + }$ influx through VGCCs.We further explored the mechanisms of $\\mathrm { C a } ^ { 2 + }$ -regulating spontaneous vesicle release by analyzing the $\\mathrm { C a } ^ { 2 + }$ dependence of minis at wild-type (WT) and Syt-2 knock-out (KO) synapses. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation and solutions.Brain slices(200 $\\mu \\mathrm { m }$ )containing the medial nucleus of the trapezoid body were prepared in a transverse orientation from P7-P9 mice (C57BL/6 of either sex） using standard procedures as described previously (Sun and ${ \\mathrm { W u , } }$ 2001; Sun et al., 2007).Breeding and genetic analysis of the mice lacking Syt-2 (Syt-2 KO, $Z 2 \\dot { B } ^ { - / - }$ ）were described in detail previously (Pang et al., 2006).All experiments involved presynaptic/ postsynaptic whole-cell recordings with an intracellular pipette solution containing the following (in mm): 125 K-gluconate,20 KCl, 4 MgATP, $1 0 ~ \\mathrm { { N a } }$ -phosphocreatine,0.3 GTP, 0.05 BAPTA/0.5 EGTA,and 10 HEPES $\\mathrm { p H } 7 . 2$ adjusted with KOH, if not mentioned.All recordings were made at room temperature using a bath solution containing the following (in mM): $1 2 0 { - } 1 2 5 ~ \\mathrm { \\ N a C l }$ ，25 ${ \\mathrm { N a H C O } } _ { 3 }$ or 22.5 HEPES,3 Myo-inositol, $2 \\ \\mathrm { N a }$ -pyruvate,2.5 KCl, $1 . 2 5 ~ \\mathrm { N a H } _ { 2 } \\mathrm { P O } _ { 4 } , 0 .$ 4 ascorbic acid,25 glucose, $0 . 1 { - } 8 \\ \\mathrm { C a C l } _ { 2 } .$ and $1 { - } 3 \\ \\mathrm { M g C l } _ { 2 }$ $\\mathrm { p H } ~ 7 . 4$ (when bubbled with $9 5 \\%$ （20 $\\mathrm { O } _ { 2 }$ and $5 \\%$ $\\mathrm { C O } _ { 2 }$ if not mentioned. Pharmacologically isolated $\\mathrm { C a } ^ { 2 + }$ currents used bath solution containing the following (in mM): $1 0 5 \\mathrm { { N a C l } }$ ,20 tetraethylammonium (TEA)-Cl, $2 . 5 ~ \\mathrm { K C l }$ ， $1 \\ \\mathrm { M g C l } _ { 2 }$ ，2 $\\mathrm { C a C l } _ { 2 }$ ,1 $2 5 \\mathrm { N a H } _ { 2 } \\mathrm { P O } _ { 4 } .$ ,25 glucose,0.4 ascorbic acid,3 Myo-inositol,2 Na-pyruvate,and 0.001 tetrodotoxin(TTX), $\\mathrm { p H } 7 . 4$ .Thepresynaptic pipette solution contained the following (in mM):125 Cs-gluconate, $2 0 ~ \\mathrm { K C l }$ ,4MgATP,10 Na-phosphocreatine,0.3 GTP,0.05 BAPTA, and 10 HEPES, $\\mathrm { p H } 7 . 2$ adjusted with CsOH. Presynaptic cell-attached recording was made with the pipette solution containing the following (in mM): $1 2 2 \\ \\mathrm { N a C l }$ ,3 Myo-inositol, 2 Na-pyruvate, $2 . 5 ~ \\mathrm { K C l }$ ,0.4 ascorbic acid, 25 D-glucose,20 HEPES,2 $\\mathrm { C a C l } _ { 2 }$ ,0.001 TTX,20 TEA-Cl,0.01 CNQX,and 0.05 D-AP-5,pH 7.4. Changing $\\mathrm { C a } ^ { 2 + }$ concentrations was always balanced by adjusting the concentration of NaCl to keep the osmolarity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$C a ^ { 2 + }$ current and mini recordings. Presynaptic and/or postsynaptic whole-cell recordings were obtained with a Multiclamp7ooBamplifier(Molecular Devices).Presynapticand postsynaptic currents were low-pass filtered at 10 and $4 \\mathrm { k H z }$ ,respectively. At $8 ~ \\mathrm { m M }$ 1 $[ \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { e } } ,$ presynaptic and postsynaptic whole-cell recordings were obtained with anAxopatch 2ooB amplifier(Molecular Devices) and an EPC-1O amplifier (HEKA),respectively. Presynaptic and postsynaptic currents were low-pass filtered at1O and $5 \\mathrm { k H z } ,$ respectively. All recordings were digitized at $5 0 \\mathrm { k H z } .$ if not mentioned.The pipette resistances were $_ { 4 - 6 }$ $\\mathbf { M } \\Omega$ for presynapses and $3 { - } 5 \\mathrm { M } \\Omega$ for postsynapses. ${ \\bar { \\mathrm { C a } } } ^ { 2 + }$ current and single $\\mathrm { C a } ^ { 2 + }$ channel current recordings were obtained with an EPC-1O amplifier and were low-pass filtered online at $5 \\mathrm { k H z }$ . Single $\\mathrm { C a } ^ { 2 + }$ channel currents were digitized at $2 0 ~ \\mathrm { k H z }$ and were filtered offline at $3 0 0 \\mathrm { H z }$ to display. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Capacitancemeasurement.Cell-attached capacitance measurements were performed with a lock-in amplifier SR850 (Stanford Research Systems）that was coupled with a modified EPC-8 patch-clamp amplifier (HEKA)，the gain was set to $2 0 / 5 0 \\mathrm { m V / p A }$ ,the filter was set to $3 0 \\mathrm { k H z }$ ,and capacitance(C-slow) and conductance(G-series) were set to $0 . 2 \\mathrm { p F }$ and 0.2 $\\mu \\mathrm { { S } }$ ，respectively,using the pipette solution with $1 0 \\mathrm { \\bar { m M } C a \\Lambda } ^ { 2 + }$ .A sine wave with root mean square (rms)amplitude of $1 5 0 ~ \\mathrm { m V }$ at $2 0 ~ \\mathrm { k H z }$ was superimposed on a command potential of $0 ~ \\mathrm { m V }$ .The real and imaginary outputs of the lock-in amplifier were filtered with time constant1 ms,24 dB.Pipettes were fire polished with a microforge and were coated with Sylgard or wax to reduce the capacitance noise. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data analysis.An IgorPro program (WaveMetrics)was used to offline detect minis (amplitudes $> 5 \\mathrm { \\ p A }$ ）and capacitance jumps.Mini frequency was analyzed by each minute recording. Statistical significance was determined using Student's t test. $P$ values $< 0 . 0 5$ were considered to be significant.Data values were reported as mean $\\pm \\operatorname { S E M }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Simulation. The process that a single $\\mathrm { C a } ^ { 2 + }$ channel opening drives vesicle fusion was simulated by a self-developed Igor program. The time points of single $\\bar { \\mathrm { C a } } ^ { 2 + }$ channel opening were set randomly by uniform or Gaussian distributionwithina $1 0 \\mathrm { m } s$ time window and preceded the mini event. The size of unitary single-channel current and opening lifetime probability are the same as those obtained from cell-attached recording.The simulated singlechannel current was embedded into the pseudo white noise traceswith an SD similar to that of ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A B 25 Ca2+ 真 vrwnntrnw_ C 1.2 10 Ca2+ 0.6 5 Ca2+ \\*4生8 04 50.2 2 Ca2+ -mehnhrMptmn8 0.0 1pA 1 5678910 100 ms [Ca2²+]pipette (mM)   \nC D wppwh Wvv [30 pA I0.1 pA 1 V 1 30pA 20pA 0.5 s 2 ms 10 ms 2 ms   \nE F Mdma wnnwuuN I30 pA 10.2 pA m hms L30 pA 20pA 0.3 s 2 ms 10 ms 2 ms   \nG H recordedtrace 1.0 recorded <<<>>>><\\~>}<>}> 0.6 simulated simulated trace 0.4 <<>>\\\\<>5>1>\\<<s 0.2 0.0 20 pA -20 -10 0 10 20 0.5s 0.5 ms noise level (pA)   \n1 J 120 国 E40 0 m 0.0 0 10 20 3040 0 10 20 30 40 open time (ms) open time (ms) MM 明 / 0 网 201 (AJ) 201 20 -80 5 ms 8 5ms ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "↑ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4c51f3c2a808ae1b7c4dce48775f3b7c87c6485597b6970f8f3c5e255aff044.jpg",
+        "img_caption": [
+            "Figure 3. ${ \\mathsf { G } } ^ { 2 + }$ currentandits temporalcorelation with capacitance up-stepincellattachedrecordingat presynapticrelease site.A,Sampled presynapticimaginary(Im)and real (Re) partoflock-in signals,as wellas $I _ { \\mathsf { G } }$ trace by cell-attached patch recording atthereleaseface.Theinwardunitarycurrentindicatessingle VGCCactivity.B,Sampledpresynapticimaginary(Im)andreal(Re) part of lock-insignals,as well as $I _ { \\mathtt { C a } }$ trace by cell-attached patch recording at the release face.The up-step of Im corresponds to a single vesicle fusion event-related membrane capacitance change.C,The averaged Im,Re,and $I _ { \\mathsf { C a } }$ traces aligned by the onset of capacitance from 52 spontaneous events.The timescale calibration is applicable to all the plots. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "the recorded presynaptic currents.A total of 50,ooo of these simulated traces were generated,and $4 0 \\%$ of these traces were defined as containing single-channel events. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine whether $\\mathrm { C a } ^ { 2 + }$ influx through VGCCs is required to trigger minis,we tested the effects of a nonselective inorganic VGCC blocker $\\mathrm { C d C l } _ { 2 }$ $\\left( 0 . 2 \\mathrm { m M } \\right)$ on the minis.Direct recording of ${ \\mathrm { C a } } ^ { 2 + }$ influx at the presynaptic calyx terminal revealed a substantially inhibited $\\mathrm { C a } ^ { \\bar { 2 } + }$ current by $\\dot { \\mathrm { C d } } ^ { 2 + }$ (Fig.1A,B).We then evaluated the effect of $\\operatorname { C d } ^ { 2 + }$ on minis (recorded as mEPSCs).We normalized mini frequencies to those of minis released during 1 min before perfusion of $\\operatorname { C d } ^ { 2 + }$ and found an ${ \\sim } 4 0 \\%$ reduction in the mini frequency after the $8 . 5 \\mathrm { m i n }$ incubation (Fig. $| 1 D |$ ).Notably, the $\\mathrm { C a } ^ { 2 + }$ influx was diminished within $1 \\mathrm { m i n }$ of $\\operatorname { C d } ^ { 2 + }$ application,whereas the significant suppression of minis could be detected at least $2 \\mathrm { m i n }$ later (Fig. $| 1 B , D \\rangle$ ).The elevated extracellular $\\mathrm { C a } ^ { 2 + }$ to $8 ~ \\mathrm { m M }$ significantly facilitated mini frequency (Fig. $1 E$ ).However,the similarreduction $( \\sim 4 0 \\% )$ in the mini frequency after the $8 . 5 \\ \\mathrm { m i n }$ incubation of $\\mathrm { C d C l } _ { 2 }$ was found as $[ \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { e } }$ of $2 \\mathrm { m M }$ (Fig. $1 F$ ). In addition,we analyzed the mEPSC amplitudes before and after addition of $\\operatorname { C d } ^ { 2 + }$ at ${ [ \\mathrm { C a } ^ { 2 + } ] } _ { \\mathrm { e } }$ of either 2or $8 \\mathrm { m M }$ and found that $\\mathrm { C d } ^ { 2 + }$ application does not change the distribution of mEPSC size(Fig. ${ 1 G } , { H }$ ).Therefore,itisrather unlikely that the $\\operatorname { C d } ^ { 2 + }$ -caused reduction of mini frequency is attributable to the rundown in mEPSC amplitude.Thus,our results demonstrate a significant and ${ [ \\mathrm { C a } ^ { 2 + } ] } _ { \\mathrm { e } }$ -independent time lapse between the VGCCs blockage and the resulting reduction in mini frequency. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To study the activity of single VGCCs,we used cell-attached patch recording at resting status (pipette holding potential, 0 $\\mathrm { m V }$ )incombinationwithdifferent $\\big [ \\dot { \\mathrm { C a } } ^ { 2 + } \\big ] _ { \\mathrm { p i p e t t e } }$ . The amplitude of single $\\mathrm { C a } ^ { 2 + }$ channel current was measured as $0 . 2 8 \\pm 0 . 0 1$ pA at 2 mM $[ \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { p i p e t t e } } ,$ and there was a positive correlation between this unitary current size and $[ \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { p i p e t t e } }$ (Fig. 2 A,B). Because P/Q-,N-,or R-type channels were reported to have similar conductance at the calyceal terminal (Sheng et al.,2Ol2),we did not categorize them further.If a mini is directly caused by VGCCmediated $\\mathrm { C a } ^ { 2 + }$ entry, then the ${ \\mathrm { C a } } ^ { 2 + }$ current signal should occur before the mini event.To test this hypothesis,we performed paired whole-cell patch-clamp recording on the calyceal terminal (at resting potential) and the postsynaptic principle cell at $2 \\mathrm { m M }$ $[ \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { e } }$ .In these experiments,the peak-to-peak noise in the presynaptic current recording was ${ \\sim } 2 0 ~ \\mathrm { p A }$ ，which was100 times larger than single $\\mathrm { C a } ^ { 2 + }$ channel current amplitude (Fig.2C,top). Toimprove the signal-to-noise ratio,we averaged the presynaptic current traces corresponding to 51,730 mini events from 46 synapses and obtained the peak-to-peak noise at ${ \\sim } 0 . 0 7 \\mathrm { p A }$ (Fig. $2 D$ ，top；rms, ${ \\sim } 0 . 0 5 ~ \\mathrm { p A }$ ).Surprisingly,with the averaging,a lack of the inwardcurrentsignalwasobserved, indicating that there was no significant temporal correlation between VGCCmediated $\\mathrm { C a } ^ { 2 + }$ influx and spontaneous vesicle release.This phenomenon was confirmed by the fact that we failed to detect the temporal correlation,even when $[ \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { e } }$ was increased to $8 ~ \\mathrm { m M }$ and the amplitude of single $\\mathrm { C a } ^ { 2 + }$ channel current was as high as ${ \\sim } 0 . 6 \\mathrm { p A }$ (Fig.2F). To validate that our methodcan indeeddiscriminate $\\mathrm { C a } ^ { 2 + }$ channel signals from the background noise in a reproducible manner,we performed a simulation in which a vesicle fusion is driven by single-channelopeningwithin a $1 0 \\mathrm { m } s$ time window preceding the mini event.The simulated single-channel current was embedded into the pseudo white noise traces on the basis that these traces had a deviation similar to that of the recorded presynaptic currents (Fig. $2 G \\mathbf { , } H$ ).We set the size of single-channel current as $0 . 2 8 \\mathrm { p A }$ ,and the channel opening lifetimes had the same probability as those obtained from cell-attached recording (Fig. $2 I , J$ ） whereby the time points of channel opening were set randomly by uniform or Gaussian distribution(Fig. $2 K , L ,$ top panels).We generated 50,ooo simulated traces and defined $4 0 \\%$ of them as containing single-channel events.After the averaging of these traces,one single-channel signal could be observed clearly (Fig. $2 K , L ,$ bottom panels). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To further rule out any mutual interference of electrical signaling between the presynaptic and postsynaptic measurement, we simultaneously assayed the presynaptic current and vesicle fusion (upward capacitance step） using cell-attached patch recording at $1 0 \\mathrm { m M }$ （204号 $[ \\bar { \\mathrm { C a } } ^ { 2 + } ] _ { \\mathrm { p i p e t t e } }$ .Underthiscondition,theamplitude of single-channel $\\mathrm { C a } ^ { 2 + }$ current should become detectable (Figs.2B,3A; He et al.,2006).Thus,we think that our system is competent for detectinga single-channel current signal. Consistently,no presynaptic signal was detected that correlated to the capacitance jump (Fig.3B).Fifty-two capacitance jump events werealigned,and the presynaptic current traceswere averaged, resulting in a reduction of the peak-to-peak noise to ${ \\sim } 0 . 5 8 ~ \\mathrm { p A }$ (rms, ${ \\sim } 0 . 4 1$ pA; Fig.3C).Even after this procedure,no presynaptic signal was detected.In summary,our data indicated that spontaneous vesicle release is not coupled, in any direct manner, to the ${ \\mathrm { C a } } ^ { 2 + }$ influx through VGCCs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because spontaneous releasable vesicles do not tightly couple to VGCCs,it is diffcult for Syt-2 to function as a $\\mathrm { C a } ^ { 2 + }$ sensor in minis attributable to its low $\\mathrm { C a } ^ { 2 + }$ affinity (Fedchyshyn and Wang,2005; Kaeser and Regehr,20l4). To test whether Syt-2 is a $\\mathrm { C a } ^ { 2 + }$ sensor for spontaneous minis,we compared the $\\dot { \\mathrm { C a } } ^ { 2 + }$ dependence of minis between WTand Syt-2 KO synapses.The mini frequency was measured at $[ \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { e } }$ of 0.1,1,2,and $5 ~ \\mathrm { m M }$ (Fig. 4A).Surprisingly,our results showed clearly that there is no difference in the $[ \\dot { \\mathrm { C a } } ^ { 2 + } ] _ { \\mathrm { e } }$ dependence of mini frequency between WT and KO (apparent cooperativity of 0.43 in WT and 0.47 in KO; Fig.4B). Furthermore, the apparent $\\mathrm { C a } ^ { 2 + }$ cooperativity for minis was significantly lower than that observed for evoked vesicle release (Borst and Sakmann,l996).These results suggest that, within the physiological $[ \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { e } }$ range, minis are essentially triggered by a sensor other than Syt-2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3e95c26271e3493ba3b34dce74f885db56f5cd67f3f7422e146881bcf0f545e.jpg",
+        "img_caption": [
+            "Figure 4. $[ { \\mathsf { C a } } ^ { 2 + } ] _ { \\mathrm { e } }$ dependence of mini frequency in WTand Syt-2KO synapses.A,Sampled mini traces recorded atdifferent $[ \\mathsf { C a } ^ { 2 + } ] _ { \\mathrm { e } }$ in WT and KO synapses.B, $[ \\mathsf { C a } ^ { 2 + } ] _ { \\mathrm { e } }$ dependence of mini froi $\\mathsf { K } 0$ (red). Error bars indicate $\\pm S E M$ # "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The present work demonstrated that at least $4 0 \\%$ of minis can be attributed to VGCCs at the calyx of Held synapse,because application of $0 . 2 \\ \\mathrm { m M } \\ \\mathrm { C d C l } _ { 2 }$ decreased the mini frequency by ${ \\sim } 4 0 \\%$ (Fig.1).The remaining $6 0 \\%$ of minis were possibly caused by ${ \\mathrm { C a } } ^ { { \\bar { 2 } } + }$ -independent mechanisms (Yamasaki et al., 2006),resting intracellular $\\mathrm { C a } ^ { 2 + }$ concentration (Lou et al., 2005; Sun et al., 2007), $\\mathrm { C a } ^ { 2 + }$ release from internal $\\mathrm { C a } ^ { 2 + }$ stores (Friel and Chiel, 2008),or $\\mathrm { C a } ^ { 2 + }$ -sensing G-proteins (Vyleta and Smith, 2011). Our results for VGCC-dependent minis are consistent with most of the previous reports showing that blocking of VGCCs reduces mini frequency by $\\sim 5 0 \\%$ (Goswami et al., 2012; Williams et al., 2012).However,a number of previous reports demonstrated that the addition of $\\operatorname { C d } ^ { 2 + }$ failed to alter spontaneous minis,as shown for CA3 pyramidal neurons (Scanziani et al.,1992)and excitatory cultured cortical synapses (Vyleta and Smith,2O11).We attribute the inconsistency in those previous reports to the specificity of synapses studied,because the latter synapses either display looser VGCC-vesicle association and/or have stronger intracellular $\\mathrm { C a } ^ { 2 + }$ buffers than most other synapses (Eggermann et al., 2012; Vyleta and Jonas,2Ol4).Alternatively, extracellular activation of presynaptic G-protein-coupled receptors in some synapses regulates spontaneous vesicle fusion more dominantly(Vyleta and Smith,2011). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here,we established three pieces of evidence supporting the notion that minis are not immediately triggered by $\\bar { \\mathrm { C a } } ^ { 2 + }$ entry. First,there is a time lapse between VGCC blockage and the resulting reduction in mini frequency after the addition of $\\mathrm { C d C l } _ { 2 }$ (Fig. $\\left| 1 D , F \\right|$ ).Second,no presynaptic current was detected corresponding to mini in averaging $> 2 5 , 0 0 0$ events (Fig. $2 D , F )$ 一 Third, no temporal coupling between $\\mathrm { C a } ^ { 2 + }$ influx current with respect to mini-related capacitance jumps was observed at $[ \\bar { \\mathrm { C a } ^ { 2 + } } ] _ { \\mathrm { p i p e t t e } }$ above $8 ~ \\mathrm { m M }$ (Fig. $3 B , C )$ . The lack in temporal correlation between $\\mathrm { C a } ^ { 2 + }$ influx and spontaneous minis suggests strongly that $\\mathrm { C a } ^ { 2 + }$ -dependent minis are determined by resting $[ \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { i } }$ (Fredj and Burrone,2009),and the $\\mathrm { C a } ^ { 2 + }$ -sensing mechanismis different from that for synchronousrelease (Kavalali et al.,2011; Ramirez and Kavalali, 2011). Our argument is supported by previous studies that reported for juvenile mice calyx type of synapses that VGCCs and vesicles are coupled in microdomains rather than nanodomains (Fedchyshyn and Wang, 2005; Eggermann et al.,2012) . ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Asa $\\mathrm { C a } ^ { 2 + }$ sensor for synchronous release, Syt-2 has a low ${ \\mathrm { C a } } ^ { 2 + }$ affinity with cooperativity of 4-5 (Borst and Sakmann, 1996; Schneggenburger and Neher, 2Ooo; Sun et al., 20o7; Kaeser and Regehr, ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2014).However,the observed apparent ${ \\mathrm { C a } } ^ { 2 + }$ cooperativity of minis is lower than that for synchronous release (Fig.4B; Borst and Sakmann,1996).It was argued that Syt-2 might have an allosteric modification that reduces the cooperativity at low $\\mathrm { C a } ^ { 2 + }$ concentrations (Lou et al.,20o5).However,the apparent $\\mathrm { C a } ^ { 2 + }$ dependence of minis at Syt-2KO synapses displayed a similar apparent $\\mathrm { C a } ^ { 2 + }$ cooperativity,indicating that the absence of Syt-2 does not affect the ${ \\mathrm { C a } } ^ { 2 + }$ cooperativity.Thus,we concluded that spontaneous vesicle release is not mediated by a fast $\\mathrm { C a } ^ { 2 + }$ sensor at the juvenile mice calyx of Held synapses,which is mechanistically distinct from evoked release (Kavalali et al.,2O1l; Ramirez and Kavalali,2O11). It was suggested previously that spontaneous vesicle release is triggered by the $\\mathrm { \\dot { C } a } ^ { 2 + }$ sensors for asynchronous release (Sun et al.,2oo7).Doc2 protein was proposed to be such a $\\mathrm { C a } ^ { 2 + }$ sensor, because Doc2 deficiency significantlyreduced both spontaneous and asynchronous release without altering synchronous release (Groffen et al.,2Olo; Yao et al., 2011).However, this notion was challenged by the result thatDoc2 modulates spontaneous vesicle release by a ${ \\mathrm { C a } } ^ { 2 + }$ -independent mechanism (Pang etal.,2O11). It will be of great interest to determine the ${ \\mathrm { C a } } ^ { 2 + }$ sensor(s) that has lower $\\mathrm { C a } ^ { 2 + }$ cooperativity and is essential for spontaneous vesicle release and to reveal the mechanisms that mediate spontaneous vesicle release. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Previously,it was reported that the coincidental opening of either multiple VGCCs or uncorrelated stochastic VGCC opening can trigger spontaneous vesicle release and that the fast sensors (Syt-1, Syt-2, or Syt-9) can function as $\\mathrm { C a } ^ { 2 + }$ sensors for spontaneous release (Xu etal.,2009).These tightly VGCC-coupled vesicles should be,in principle,releasable under action potential and belong to the readily releasable vesicle pool.It was suggested that these evocable spontaneous minis functionallymodulate subthresholdcellular membrane potential in these synapses (Ermolyuk etal.,2Ol3).However, these results could only be obtained so far in the synapses with nanodomain VGCC-vesicle coupling, such as GABAergic synapse onto cultured neocortical neurons (Williams et al.,20l2）or glutamatergic synapse onto small hippocampal synapses (Ermolyuk et al.,2013). Our data from the juvenile mice calyx of Held synapse provide the first set of experimental evidence that spontaneous vesicle release can be triggered indirectly by the $\\mathrm { C a } ^ { 2 + }$ entry through VGCCs and be mediated viaa different $\\dot { \\mathrm { C a } } ^ { 2 + }$ -sensing mechanism than evoked release.This viewis likely applicable to most synapses with a microdomain coupling between VGCCs and vesicles (Ohana and Sakmann, 1998; Meinrenken et al.,2002; Eggermann et al.,20l2). Possibly, this view can be partly applied to the synapses characterized by tight VGCC-vesicle coupling. For instance,in GABAergic synapses of cultured cortical neurons, $5 0 \\%$ ofvesicle release is EGTA sensitive (Maximov and Suidhof, 20o5). In this regard, they can, in part, be described as loosely coupled microdomain synapses. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Angleson JK,Betz WJ （2001） Intraterminal $\\operatorname { C a } ( 2 + )$ and spontaneous transmiter release at the frog neuromuscular junction.J Neurophysiol 85:287- 294.Medline   \nAxelssonJ,ThesleffS （1959）A study ofsupersensitivityin denervated mammalian skeletal muscle.J Physiol 147:178-193. CrossRef Medline   \nBacaj T,WuD,YangX,MorishitaW,ZhouP,Xu W,Malenka RC,SudhofTC (2013）Synaptotagmin-1 and synaptotagmin-7 trigger synchronous and asynchronous phases of neurotransmitter release.Neuron 80:947-959. CrossRef Medline   \nBorst JG,Sakmann B (1996） Calcium influx and transmitter release in a fast CNS synapse.Nature 383:431-434. CrossRef Medline   \nBorst JG,Helmchen F,Sakmann B （1995） Pre- and postsynaptic whole-cell recordings in the medial nucleus ofthe trapezoid body of the rat.JPhysiol 489:825-840.Medline   \nBucurenciu I, Bischofberger J,Jonas P (2010）A small number of open $\\mathrm { C a } 2 +$ channels trigger transmiter release at a central GABAergic synapse. Nat Neurosci 13:19-21. CrossRef Medline   \nEggermann E,Bucurenciu I, Goswami SP,Jonas P (2012） Nanodomain coupling between $\\mathrm { C a } ^ { 2 + }$ channels and sensors of exocytosis at fast mammalian synapses. Nat Rev Neurosci 13:7-21. CrossRef Medlie   \nErmolyuk YS,Alder FG,Surges $\\begin{array} { r } { \\mathbb { R } , } \\end{array}$ Pavlov IY, Timofeeva Y,Kullmann DM, Volynski KE (20l3）Differential triggering of spontaneous glutamate release by P/Q-,N- and R-type $\\operatorname { C a } 2 +$ channels. Nat Neurosci 16:1754- 1763. CrossRef Medline   \nFedchyshyn MJ,Wang LY (2005） Developmental transformation of the release modality at the calyx of Held synapse.J Neurosci 25:4l31-4140. CrossRef Medline   \nFredj NB,BurroneJ（20o9）A resting pool of vesicles is responsible for spontaneous vesicle fusion at the synapse.Nat Neurosci 12:751-758.CrossRef Medline   \nFriel DD,Chiel HJ (2oo8） Calcium dynamics: analyzing the $\\mathrm { C a } 2 +$ regulatory network in intact cells.Trends Neurosci 31:8-19.CrossRef Medline   \nGeppert M,Goda Y,Hammer RE,Li C,Rosahl TW, Stevens CF,Suidhof TC (1994） Synaptotagmin I:a major $\\operatorname { C a } 2 +$ sensor for transmitter release at a central synapse. Cell 79:717-727. CrossRef Medline   \nGoswami SP,Bucurenciu I, Jonas P (20l2）Miniature IPSCs in hippocampal granule cells are triggered by voltage-gated $\\mathrm { C a } ^ { 2 + }$ channels via microdomain coupling.JNeurosci 32:14294-14304. CrossRef Medline   \nGroffen AJ,Martens S,Diez Arazola R,Cornelisse LN,Lozovaya N,de Jong AP, Goriounova NA,Habets RL,Takai Y,Borst JG,Brose N,McMahon HT, VerhageM(2010）Doc2b is a high-affinity $\\mathrm { C a } 2 +$ sensor for spontaneous neurotransmiter release.Science 327:1614-1618. CrossRef Medline   \nHe L,Wu XS,Mohan R,Wu LG (2006） Two modes of fusion pore opening revealed by cell-attached recordings at a synapse.Nature 444:102-105. CrossRef Medline   \nHubbard JI,Jones SF,LandauEM（1968）On the mechanismby which calcium and magnesium affect the spontaneous release of transmitter from mammalian motor nerve terminals.JPhysiol 194:355-380. CrossRef Medline   \nKaeser PS,Regehr WG (20l4）Molecular mechanisms for synchronous, asynchronous,and spontaneous neurotransmitter release.Annu Rev Physiol 76:333-363.CrossRef Medline   \nKatz B,Miledi R(1970） Further study of the role of calcium in synaptic transmission.JPhysiol 207:789-801. CrossRef Medline   \nKavalali ET,Chung C,KhvotchevM,LeitzJ,Nosyreva E,Raingo J,Ramirez DM (2011） Spontaneous neurotransmission: an independent pathway for neuronal signaling?Physiology(Bethesda) 26:45-53.CrossRef Medline   \nLee MC,Yasuda R,Ehlers MD (2010） Metaplasticity at single glutamatergic synapses.Neuron 66:859-870. CrossRef Medline   \nLlano I, Gonzalez J,Caputo C,LaiFA, Blayney LM,Tan YP,Marty A (2000) Presynaptic calcium stores underlie large-amplitude miniature IPSCs and spontaneous calcium transients.Nat Neurosci 3:1256-1265. CrossRef Medline   \nLou X,Scheuss V,SchneggenburgerR (2005）Allosteric modulation of the presynaptic $\\mathrm { C a } 2 +$ sensor for vesicle fusion.Nature 435:497-501.CrossRef Medline   \nMaximov A, Sudhof TC （2005） Autonomous function of synaptotagmin 1 in triggering synchronous release independent of asynchronous release. Neuron 48:547-554. CrossRef Medline   \nMcKinney RA,Capogna M,Dürr R,Gahwiler BH, Thompson SM (1999) Miniature synaptic events maintain dendritic spines via AMPA receptor activation.Nat Neurosci 2:44-49. CrossRef Medline   \nMeinrenken CJ, Borst JG, Sakmann B (2002） Calcium secretion coupling at calyx of held governed by nonuniform channel-vesicle topography. JNeurosci 22:1648-1667. Medline   \nOhana O,Sakmann B (1998） Transmitter release modulation in nerve terminals of rat neocortical pyramidal cells by intracellular calcium buffers. JPhysiol 513:135-148.CrossRef Medline   \nPang ZP,Sudhof TC (2010) Cell biology of $\\operatorname { C a } ( 2 + )$ -triggered exocytosis. Curr Opin Cell Biol 22:496-505.CrossRef Medline   \nPang ZP,Sun J, Rizo J,Maximov A,Sudhof TC (2006） Genetic analysis of synaptotagm- in 2 in spontaneous and $\\operatorname { C a } 2 +$ -triggered neurotransmitter release.EMBO J25:2039-2050.CrossRef Medline   \nPang ZP,Bacaj T, Yang X, Zhou P, $\\mathrm { \\Delta X u W }$ ,SudhofTC(2011）Doc2 supports spontaneous synaptic transmission by a $\\mathrm { C a } ( 2 + )$ -independent mechanism. Neuron 70:244-251. CrossRef Medline   \nRamirez DM,Kavalali ET (20l1） Differential regulation ofspontaneous and evoked neurotransmitter release at central synapses.Curr Opin Neurobiol 21:275-282. CrossRef Medline   \nScanziani M,Capogna M,Gahwiler BH,Thompson SM (1992） Presynaptic inhibition of miniature excitatory synaptic currents by baclofen and adenosine in the hippocampus.Neuron 9:919-927.CrossRef Medline   \nSchneggenburger R,Neher E （20o0） Intracelllar calcium dependence of transmitter release rates at a fast central synapse. Nature 406:889-893. CrossRefMedline   \nSheng J,HeL,ZhengH,Xue L,LuoF,Shin W,Sun T,Kuner T,Yue DT, Wu LG (2012） Calcium-channel number critically influences synaptic strength and plasticity at the active zone. Nat Neurosci 15:998-1006. CrossRefMedline   \nStanley EF (1993） Single calcium channels and acetylcholine release at a presynaptic nerve terminal. Neuron 11:1007-1011. CrossRef Medline   \nSun JY,Wu LG (2oo1） Fast kinetics of exocytosis revealed by simultaneous measurements of presynaptic capacitance and postsynaptic currents at a central synapse.Neuron 30:171-182.CrossRef Medline   \nSun J,Pang ZP,Qin D,Fahim AT,Adachi R,Sudhof TC (2007)A dual（204号 $\\operatorname { C a } 2 +$ -sensor model for neurotransmiter release in a central synapse. Nature 450:676-682.CrossRef Medline   \nSutton MA,Ito HT,Cressy P,Kempf C,Woo JC,Schuman EM (2006）Miniature neurotransmission stabilizes synaptic function via tonic suppression of local dendritic protein synthesis.Cell 125:785-799. CrossRef Medline   \nTyler WJ,Pozzo-Miller L (2003） Miniature synaptic transmission and BDNF modulate dendritic spine growth and form in rat CAl neurones. J Physiol 553:497-509. CrossRef Medline   \nVerhage M,Maia AS,Plomp JJ, Brussaard AB,Heeroma JH,Vermeer H, Toonen RF,Hammer RE,van den Berg TK,Missler M,Geuze HJ,Südhof TC(20oo） Synaptic assembly of the brain in the absence of neurotransmitter secretion. Science 287:864-869. CrossRef Medline   \nVyleta NP,Jonas P (2014） Loose coupling between $\\mathrm { C a } 2 +$ channels and release sensors at a plastic hippocampal synapse.Science 343:665-670. CrossRef Medline   \nVyleta NP,Smith SM (2011） Spontaneous glutamate release is independent of calcium influx and tonically activated by the calcium-sensing receptor. JNeurosci 31:4593-4606.CrossRef Medline   \nWadel K,Neher E,SakabaT(2007）Thecoupling betweensynaptic vesicles and $\\mathrm { C a } 2 +$ channels determines fast neurotransmiter release.Neuron 53:563-575. CrossRef Medline   \nWillams C,Chen W,Lee CH,Yaeger D,Vyleta NP,Smith SM (2012） Coactivation of multiple tightly coupled calcium channels triggers spontaneous release of GABA.Nat Neurosci 15:1195-1197.CrossRef Medline   \nXu J,Mashimo T,Sudhof TC (2007） Synaptotagmin-1,-2,and -9: $\\operatorname { C a } ( 2 + )$ （20 sensors for fast release that specify distinct presynaptic properties in subsets of neurons. Neuron 54:567-581. CrossRef Medline   \nXuJ,Pang ZP,Shin OH,SudhofTC （2009） Synaptotagmin-1 functions as a $\\mathrm { C a } 2 +$ sensor for spontaneous release.Nat Neurosci 12:759-766. CrossRef Medline   \nYamasaki M,Hashimoto K,Kano M (2006) Miniature synaptic events elicited by presynaptic $\\mathrm { C a } 2 +$ rise are selectively suppressed by cannabinoid receptor activation in cerebellar Purkinje cells. J Neurosci 26:86-95. CrossRef Medline   \nYao J, Gaffaney JD,Kwon SE,Chapman ER(2011） Doc2 is a $\\mathrm { C a } 2 +$ sensor required for asynchronous neurotransmitter release.Cell 147:666-677. CrossRef Medline ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

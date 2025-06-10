@@ -1,0 +1,278 @@
+# 动态选择策略的和声教与学混合算法
+
+黎延海，拓守恒，雍龙泉(陕西理工大学 数学与计算机科学学院，陕西 汉中 723001)
+
+摘要：为提高对多种不同类型问题的优化性能，提出了一种基于和声搜索和教与学优化的混合优化算法(HHSTL)。在不同的进化阶段，HHSTL 算法依据种群活跃率及种群最优个体更新率动态地确定和声算法或教与学算法作为下一周期种群更新方式的比例，并在标准教与学算法中增加了“自学"策略来提高算法的全局寻优能力。通过16个不同类型的Benchmark函数进行仿真，并与7种优秀算法进行结果比较及WilcoXon秩和检验分析，结果表明HHSTL算法汲取了和声搜索和教与学优化算法的优点，具有求解精度高、稳定性好等特点，能够求解更多的较为复杂的优化问题。
+
+关键词：和声搜索；教与学优化；动态选择策略；“自学"策略 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.06.0399
+
+# Hybrid algorithm based on harmony search and teaching-learning-based optimization using dynamic selection strategies
+
+Li Yanhai, Tuo Shouheng, Yong Longquan (School of Mathematics &Computer Science Shaanxi UniversityofTechnology,Hanzhong Shaanxi 7230o1,China)
+
+Abstract:Thispaper presentsahybrid algorithm based on Harmony Search and Teaching-Learning-based Optimization (HHSTL）for solving various types of optimization problems.Indiferent evolution stages,HHSTL algorithm dynamically determines the proportionusing the harmony search (HS)or Teaching-Learning-based optimization (TLBO)algorithm as the means ofupdating the next generationofpopulationon basis ofthe population activityrate and population optimal individual renewal rate,in adition,it proposed a"self-study"strategytoimprove theglobaloptimization performanceof the TLBO algorithm.Itemployed16various types ofBenchmark functions to investigate theperformanceofHHSTL,andcompared with seven algorithms by Wilcoxon rank sum tests.The experimental results indicate that HHSTL algorithm adopted merits of HS and TLBO,andcan solve more complex optimization problems becauseofits high solution precisionand excellent stability. Key words: harmony search; teaching-learing-based optimization; dynamic selection strategies;“self-study”strategy
+
+在科学计算和工程技术中，经常会遇到类型各异的优化问题，单一的优化算法往往具有偏好性，适用的范围有限，因此，将具有不同优点的算法进行融合能够扩大求解问题的范围，具有重要的实际意义。和声搜索算法（harmony search，HS）[1,2]是Geem等人通过模拟现实中的乐队即兴创作过程而于2001年提出的一种启发式优化算法。HS算法具有较强的全局搜索能力，适用于多模态优化问题的求解，但局部开发能力较弱，使得在优化单模态问题时所得到的解的精度不高[3]。教与学优化算法（teaching-learning-based optimization，TLBO）是Rao 等人[4,5]受课堂教学过程启发在 2011 年提出的一种新的群体智能优化算法。TLBO 算法具有很强的收敛能力，已经被证明在很多标准优化函数及工程问题上相较于其他许多全局优化算法具有更好的表现，是一种有效的全局优化方法。但研究揭示[该算法在“教”阶段存在固有的起源偏差，对以坐标原点为最优解的问题有着原始的偏好，但对最优解不在原点的问题则优化效果不太理想。这两种算法具有不同的特点，适合解决的问题类型也各不相同，因此将两种算法进行融合，能达到优势互补，各取所长的效果。目前，关于将这两种算法相融合的研究主要有Aydogdu等人[7将HS策略融入TLBO算法而提出了混合算法，并应用于钢架结构设计问题；Tuo等人[8提出了面向高维复杂优化问题的HSTLBO算法，算法应用了一个自适应策略对两种算法进行了混合；Yong 等人[9]将TLBO 算法作为即兴创作新和声的一种策略，将两种算法进行了混合，并应用于非负线性最小二乘问题的求解；Ouyang等人[10]使用HS的即兴创作过程来优化“教阶段”的最优个体，而提出了HTLBO-HS 算法。现有这些混合算法在一定程度上提高了算法的性能，但并没有从根本上克服它们的固有缺点。使用合适的融合方式将两种算法进行混合，才能充分发挥它们各自的优点，取得优势互补的效果。为此，本文提出了一种和声教与学混合算法（hybridalgorithmbasedonHSandTLBO，HHSTL）。HHSTL 算法依据种群活跃率及种群最优个体更新率这两种机制动态地确定HS算法或TLBO算法在下一周期中作为种群更新方式的比例。利用国际上通用的16个不同类型的Benchmark 测试函数[11,12]进行仿真检验，并与七种优化算法（DIHS[13]、IHS[14]、RCGHS[15]、TLBO、ITLBO[16]、MATLBO[17]、TLBO-GC[18]）进行了比较,检验了所提算法的性能。
+
+# 1 和声搜索算法
+
+# 1.1标准和声搜索算法
+
+标准和声算法的基本步骤[1]如下：
+
+a）参数设置。
+
+设置问题的维数 $D$ ，和声记忆库的大小HMS，最大迭代次数 $T _ { \mathrm { m a x } }$ ，记忆库取舍概率HMCR，局部微调概率 $P A R$ ，局部微调步长 $B w$ 。
+
+b）随机初始化和声记忆库 $H M$ 。
+
+$$
+H M = \left[ \begin{array} { l } { x ^ { 1 } } \\ { x ^ { 2 } } \\ { \dots } \\ { x ^ { H M S } } \\ { x ^ { H M S } } \end{array} \right] = \left[ \begin{array} { l l l l } { x _ { 1 } ^ { 1 } } & { x _ { 2 } ^ { 1 } } & { \dots } & { x _ { D } ^ { 1 } } \\ { x _ { 1 } ^ { 2 } } & { x _ { 2 } ^ { 2 } } & { \dots } & { x _ { D } ^ { 2 } } \\ { \dots } & { \dots } & { \dots } & { \dots } \\ { x _ { 1 } ^ { H M S } } & { x _ { 2 } ^ { H M S } } & { \dots } & { x _ { D } ^ { H M S } } \end{array} \right]
+$$
+
+c）创作一个新的和声。
+
+每次迭代可产生一个新和声 $X ^ { n e w }$ 。新和声的每一个音调$x _ { i } ^ { n e w }$ $( i = 1 , 2 , \cdots , D )$ 按以下三种规则产生： $\textcircled{1}$ 以概率HMCR从和声记忆库 $H M$ 的第 $i$ 维 $[ x _ { i } ^ { 1 } , x _ { i } ^ { 2 } , \cdots , x _ { i } ^ { H M S } ]$ 中选择; $\textcircled{2}$ 将 $\textcircled{1}$ 中产生的$x _ { i } ^ { n e w }$ 以概率 $P A R$ 进行微调，方法如下：
+
+$$
+{ x _ { i } ^ { n e w } = x _ { i } ^ { n e w } \pm r a n d \cdot B w ( i ) }
+$$
+
+$\textcircled{3}$ 以概率 $1 - H M C R$ 在搜索空间内随机生成，具体如下：
+
+$$
+x _ { i } ^ { n e w } = x L _ { i } + r a n d \cdot ( x U _ { i } - x L _ { i } )
+$$
+
+d）更新和声记忆库。
+
+对步骤c）中产生的新和声 $X ^ { n e w }$ 进行评估，如果优于 $H M$ 中的最差和声 $X ^ { w o r s t }$ ，则用 $X ^ { n e w }$ 替换 $X ^ { w o r s t }$ ，否则转 $\mathbf { c } ) ^ { \vee }$ 。重复步骤c）d)，直到满足终止条件停止。
+
+# 1.2改进的和声算法
+
+为改进和声算法的性能，文献[14]提出了一种改进的和声算法（IHS)，算法对参数 $P A R$ 和 $B w$ 进行动态地调整。参数$P A R$ 随迭代的增加而线性增大， $B w$ 呈指数地递减。
+
+$$
+P A R ( t ) = P A R _ { \mathrm { m i n } } + \frac { P A R _ { \mathrm { m a x } } - P A R _ { \mathrm { m i n } } } { T _ { \mathrm { m a x } } } \times t
+$$
+
+$$
+B w ( t ) = B w _ { \mathrm { m a x } } \exp ( \frac { \ln ( \frac { B w _ { \mathrm { m i n } } } { B w _ { \mathrm { m a x } } } ) } { T _ { \mathrm { m a x } } } \times t )
+$$
+
+其中： $T _ { \mathrm { m a x } }$ 表示最大迭代次数； $t$ 为当前迭代次数； $P A R _ { \operatorname* { m a x } }$ 、$P A R _ { \mathrm { { m i n } } }$ 分别为最大、最小微调概率; $B w _ { \mathrm { m a x } }$ 、 $B w _ { \mathrm { m i n } }$ 分别为最大、
+
+最小微调步长。
+
+# 2 教与学优化算法
+
+# 2.1标准的教与学优化算法
+
+标准TLBO算法模拟了班级的教学和学习行为，主要包括“教"阶段和"学"阶段两个阶段。“教"阶段，老师向每位学员传授知识，提高班级的整体水平；“学"阶段，学员之间相互学习，取长补短，共同进步。基本步骤[4如下：
+
+a)参数设置。
+
+NP表示班级的人数(种群的规模)， $D$ 表示学习的科目数(问题的维数), $T _ { \mathrm { m a x } }$ 为最大迭代次数。
+
+b)在解空间随机初始化 $N P$ 位学员：
+
+$$
+X ^ { j } = X L + r a n d \cdot ( X L - X U )
+$$
+
+其中： $j = 1 , 2 , \cdots , N P$ ；rand为(0,1)间的随机数。
+
+c)“教"阶段。
+
+$$
+X _ { n e w } ^ { j } = X _ { o l d } ^ { j } + d i f f e r e n c e
+$$
+
+$$
+d i f f e r e n c e = r a n d ( 1 , D ) \times \left( X ^ { t e a c h e r } - T _ { _ { F } } \cdot X ^ { m e a n } \right)
+$$
+
+其中： $X _ { o l d } ^ { j }$ 、 $X _ { n e w } ^ { j }$ 分别表示第 $j$ 位学员 $X ^ { j }$ 在教学前、后的知识水平； $X ^ { t e a c h e r }$ 为老师（即适应度值最优的学员）；$T _ { \scriptscriptstyle F } = r o u n d ( 1 + r a n d ( 0 , 1 ) )$ 表示教学因子，取值为1或2；$X ^ { m e a n } = \frac { 1 } { N P } \sum _ { j = 1 } ^ { N P } X ^ { j }$ 为班级学员知识水平的均值。
+
+适应度值 $f ( \boldsymbol { X } ^ { j } )$ 反映了学员 $X ^ { j }$ 的学习成绩，教学完成后，如果 $f ( X _ { n e w } ^ { j } ) < f ( X _ { o l d } ^ { j } )$ ，则更新个体，即 $X ^ { j } = X _ { n e w } ^ { j }$ ，否则不更新。
+
+d)“学"阶段。
+
+学员 $X ^ { j }$ 从班级中随机抽取一个学员 $X ^ { r }$ ， $\boldsymbol { r } = 1 , 2 , \cdots , N P$ ，$r \neq j$ ，进行交流学习。
+
+$$
+\begin{array} { r } { X _ { n e w } ^ { j } = \left\{ \begin{array} { l l } { X _ { o l d } ^ { j } + r a n d \cdot ( X ^ { r } - X ^ { j } ) } & { f ( X ^ { r } ) < f ( X ^ { j } ) } \\ { X _ { o l d } ^ { j } + r a n d \cdot ( X ^ { j } - X ^ { r } ) } & { f ( X ^ { j } ) < f ( X ^ { r } ) } \end{array} \right. } \end{array}
+$$
+
+学习完成后，如果 $f ( X _ { n e w } ^ { j } ) < f ( X _ { o l d } ^ { j } )$ ，则更新个体，即$X ^ { j } = X _ { n e w } ^ { j }$ ，否则不更新。
+
+e）如果满足终止条件，则优化结束并输出最优解，否则转至c）继续。
+
+# 2.2教与学优化算法的改进
+
+TLBO算法具有较强的收敛能力，但易于陷入局部最优，尤其对中心旋转偏移的复杂问题，存在固有的缺陷。为增强算法的寻优性能，本文做了如下改进：
+
+a）班级中的最差成绩往往容易拉低班级的平均成绩，故用班级中的成绩最差者 $X ^ { w o r s t }$ 去替换班级平均水平 $X ^ { m e a n }$ ，可以尽快提升班级的整体水平，即
+
+$$
+d i f f e r e n c e = r a n d ( 1 , D ) \times \left( X ^ { t e a c h e r } - T _ { _ { F } } \cdot X ^ { w o r s t } \right)
+$$
+
+b）学生学习时，不仅会在同学之间进行交流，也会向老师求教，故对学习方式做如下改进：
+
+$$
+X _ { n e w } ^ { j } = \left\{ \begin{array} { l l } { X _ { o l d } ^ { j } + F \cdot [ \mu ( X ^ { r } - X ^ { j } ) + ( 1 - \mu ) ( X ^ { t e a c h e r } - X ^ { j } ) ] } & { f ( X ^ { r } ) < f ( X ^ { j } ) } \\ { X _ { o l d } ^ { j } + F \cdot [ \mu ( X ^ { j } - X ^ { r } ) + ( 1 - \mu ) ( X ^ { t e a c h e r } - X ^ { j } ) ] } & { f ( X ^ { j } ) < f ( X ^ { r } ) } \end{array} \right.
+$$
+
+$$
+\mu = 1 - \left( \frac { t } { T _ { \mathrm { m a x } } } \right) ^ { \frac { 1 } { 2 } }
+$$
+
+$\mu$ 的值随迭代的增加而逐渐减小，表明在迭代的前期，同学间的交流较多，但随着迭代的进行，学生会更多地向老师请教。 $F$ 表示学习因子，取值于(0,1)间。
+
+c）学生在学习之余，也会根据自己当前的学习状况，挑选部分感兴趣的课程进行"自学”，从而提升自己的学业水平。具体如下：对第 $i$ 门课程，产生一个(0,1)间的随机数rand，用于不同的“自学”方式。
+
+$$
+\boldsymbol { x } _ { n e w , i } ^ { j } = \left\{ \begin{array} { c c } { \boldsymbol { x } _ { o l d , i } ^ { j } + 2 \times ( r a n d - 0 . 5 ) \cdot \lambda } & { i f } & { r a n d < S C R } \\ { \boldsymbol { x } _ { i } ^ { L } + \mathrm { r a n d } \times \left( \boldsymbol { x } _ { i } ^ { U } - \boldsymbol { x } _ { i } ^ { L } \right) } & { e l s e i f } & { r a n d < S D R } \\ { \boldsymbol { x } _ { o l d , i } ^ { j } } & { o t h e r w i s e } \end{array} \right.
+$$
+
+$$
+\lambda = \lambda _ { \mathrm { m a x } } \times \left( \frac { \lambda _ { \mathrm { m i n } } } { \lambda _ { \mathrm { m a x } } } \right) ^ { \left( \frac { t } { T _ { \mathrm { m a x } } } \right) ^ { 2 } }
+$$
+
+$i = 1 , \cdots D , j = 1 , \cdots , N P$ 。其中：SCR（self-culture rate,SCR）为自学概率；SDR（self-development rate,SDR）为自我拓展率； $\lambda$ 表示自学步长， $\lambda _ { \operatorname* { m a x } } \mathrm { ~ , ~ } \lambda _ { \operatorname* { m i n } }$ 分别为最大、最小步长。
+
+对每一门课程，学生以SCR的概率进行自我调整，以SDR的概率在解空间随机搜素，进行自我拓展学习。为平衡算法在搜索过程中的空间扰动能力和局部寻优能力，设计自学步长随迭代的进行由max逐步动态缩小为λmin。
+
+# 3 “和声”-“教与学"混合优化算法
+
+对不同的优化目标，HS和TLBO算法所表现的优化性能各不相同，为充分发挥它们各自的优点，更有效地解决不同类型的优化问题，本文设计了一种动态选择策略，利用种群活跃率（AR）及种群最优个体更新率(BR)两种机制对两种算法进行了融合，动态地确定在下一周期中选择HS算法或TLBO算法作为种群更新方式的比例。
+
+# 3.1动态选择策略
+
+算法每经过 $T$ （选择周期)次迭代后使用DP（动态选择概率）来重新确定两种算法的选择比例。在第 $k$ 个选择周期，每次迭代首先生成一个随机数 $r ^ { ( k ) } \in \left( 0 , 1 \right)$ 。如果 $r ^ { ( k ) } < D P ^ { ( k ) }$ ，选择HS 算法来更新种群；否则，选择TLBO算法来更新种群。
+
+种群活跃率（AR） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 更新成功个体数/产生新个体总数
+
+种群最优个体更新率（ $\mathbf { \partial B R } ) =$ 种群最优个体更新次数/所产生种群的数目
+
+当 $k = 1$ 时，令 ${ \cal D } { \cal P } ^ { ( 1 ) } = 0 . 5$ ，对 $\cdot k = 2 , \cdots , \left[ \frac { T _ { \mathrm { m a x } } } { T } \right]$
+
+$$
+A R _ { H } ^ { ^ { ( k ) } } = \frac { c _ { 1 } ( k ) } { N P \times T \times D P ^ { ^ { ( k - 1 ) } } } , A R _ { T } ^ { ^ { ( k ) } } = \frac { c _ { 2 } ( k ) } { N P \times T \times ( 1 - D P ^ { ^ { ( k - 1 ) } } ) } ,
+$$
+
+$$
+B R _ { H } ^ { ( k ) } = \frac { b _ { 1 } ( k ) } { T \times D P ^ { ( k - 1 ) } } , B R _ { T } ^ { ( k ) } = \frac { b _ { 2 } ( k ) } { T \times ( 1 - D P ^ { ( k - 1 ) } ) } ,
+$$
+
+$$
+D P ^ { ( k ) } = \frac { A R _ { H } ^ { ( k ) } } { A R _ { H } ^ { ( k ) } + A R _ { T } ^ { ( k ) } } + \frac { B R _ { H } ^ { ( k ) } } { B R _ { H } ^ { ( k ) } + B R _ { T } ^ { ( k ) } }
+$$
+
+其中： $T _ { \mathrm { m a x } }$ 为最大迭代次数； $c _ { 1 } ( k ) , ~ c _ { 2 } ( k )$ 表示第 $k$ 个选择周期内分别使用 HS 和 TLBO 算法更新成功的个体数目； $b _ { 1 } ( k )$ 、$b _ { 2 } ( k )$ 表示第 $k$ 个选择周期内分别使用 HS 和 TLBO 算法更新种群最优个体的次数； $A R _ { H } ^ { ( k ) }$ 、 $A R _ { T } ^ { ( k ) }$ 分别表示第 $k$ 个周期内使用 HS 和 TLBO 算法所产生种群的活跃率； $B R _ { H } ^ { ( k ) }$ 、 $B R _ { T } ^ { ( k ) }$ 分别表示第 $k$ 个周期内使用HS 和 TLBO 算法所产生种群的最优个体更新率； $D P ^ { ( k ) }$ 为第 $k$ 个周期的动态选择概率。
+
+在第一个周期，两种算法以相同的概率被选择，公平竞争；在后面的每个周期，使用动态选择概率来决定两种算法的选择比例，哪种算法在迭代过程中更活跃，并且对算法寻优的贡献越大，被选择的概率也就越大。迭代过程中，种群更新成功个体的数目越多，表明算法越活跃，适用于所求解的问题，但算法活跃并不一定能使得种群的最优解得到更新，所以使用由种群活跃率和最优个体更新率共同确定的动态选择概率来决定新一代种群的更新方式，动态地确定两种算法的混合比例以适应不同的优化对象，能够充分发挥两种算法的长处，提高算法的寻优能力。针对不同的优化问题和同一问题的不同阶段，选择策略能够根据两种算法的具体表现动态地进行调节，充分发挥HS算法优秀的全局搜索能力和TLBO算法的快速收敛能力。
+
+# 3.2算法流程
+
+HHSTLBO算法的具体流程如图1所示。
+
+![](images/4a0ab46e27b7d2963d055e487b8b8958414a16c797f851ed7f3662ad306fa60e.jpg)  
+图1HHSTL 算法流程
+
+# 4 实验仿真测试
+
+为检验HHSTL算法的性能，将其与另外七种优秀算法（DIHS、HIS、RCGHS、TLBO、ITLBO、MTLBO、TLBO-GC）在16个不同类型的标准测试函数上进行仿真测试。其中， $\mathrm { F } _ { 1 } \sim$ $\mathrm { F } _ { 3 }$ 是单峰函数， $\mathrm { F } _ { 4 }$ 是混合函数， $\mathrm { F } _ { 5 } \sim \mathrm { F } _ { 1 2 }$ 是复杂的多峰函数，$\mathrm { F } _ { 1 3 } \sim \mathrm { F } _ { 1 6 }$ 是对4个经典的多峰函数进行了Shift操作，这些类型各异的标准函数能很好地测试算法的通用性。
+
+Fi：Sphere Function $\mathrm { F } _ { 2 }$ ：Sphere Shift Function   
+$\mathrm { F } _ { 3 }$ ：ZakhFunction $\mathrm { F } _ { 4 }$ :Bohachevsky Shift Function   
+F5：Ackley Function $\mathrm { F } _ { 6 }$ ：GriewankFunction   
+F7:LevyFunction F8：Schwefel2.22 Function   
+F9：Rastrigin Function （204号 $\mathrm { F } _ { 1 0 }$ ：MichalewicsFunction   
+$\mathrm { F } _ { 1 1 }$ ：Schwefel Function $\mathrm { F } _ { 1 2 }$ ：Schwefel2.26 Function   
+F13:AckleyShift Function   
+$\mathrm { F } _ { 1 4 }$ ：Griewank Shift Function   
+$\mathrm { F } _ { 1 5 }$ ：Rastrigin Shift Function   
+$\mathrm { F } _ { 1 6 }$ ：Schaffer Shift Function
+
+# 4.1实验环境与参数设置
+
+本文所有测试的环境为：戴尔PC 机IntelCore(TMi7-4790$3 . 6 \mathrm { G H z C P U } , 8 \mathrm { G B }$ 内存；Window7操作系统，MATLABR2014b软件。为保证测试的公平，各种算法采用相同的适应度函数评价次数（ $5 0 0 0 \times$ 维数)。比较算法的参数设置参考于原文献，设置具体如表1所示。
+
+表1参数设置  
+
+<html><body><table><tr><td>算法</td><td>种群大小</td><td>其他</td></tr><tr><td>DIHS</td><td>10</td><td>HMCR=0.99,PARmax =0.99,PARmin =0.15 Bwmax =(xU-xL)/20,Bwmn =(xU-xL)/(le+15)</td></tr><tr><td></td><td></td><td>Smx=200/D,Smin =20/D,fwmid =(xU-xL)/(le+4)</td></tr><tr><td>IHS</td><td>5</td><td>HMCR=0.95,PARmax =0.99,PARmin =0.45</td></tr><tr><td></td><td></td><td>Bwmax =(xU-xL)/20,Bwmin =0.0001</td></tr><tr><td>RCGHS</td><td>5</td><td>/</td></tr><tr><td>TLBO</td><td>10</td><td>/</td></tr><tr><td>ITLBO</td><td>40</td><td>/</td></tr><tr><td>MTLBO</td><td>10</td><td>SRmax =0.8,SRmin =0.3,SFR=0.35</td></tr><tr><td>TLBO-GC</td><td>10</td><td>/</td></tr><tr><td rowspan="4">HHSTL</td><td></td><td>HMCR=0.99,PARmax =0.99,PARmin =0.1,</td></tr><tr><td>10</td><td>F=0.35,Bwmax =max =(xU-xL)/10</td></tr><tr><td></td><td>BWmin =min =(xU-xL)/(le+15)</td></tr><tr><td></td><td>SCR=0.3,SDR=0.03,T=150</td></tr></table></body></html>
+
+# 4.2 实验结果与分析
+
+表2统计了16个测试函数在 $\scriptstyle \mathrm { { D = 1 0 0 } }$ 时的30次独立实验结果，包括每个算法的目标函数适应度值的最优值(Best)、平均值(Mean)、最差值（Worst）和方差（Std)。所测试的函数中除 $\mathrm { F } _ { 1 0 }$ 以外，理想最优值均为0，所以均值越接近0，表明算法收敛精度越高，而方差越小，表明运算结果的浮动范围越小，算法越稳定。
+
+从表2可以看出，RCGHS、TLBO、ITLBO及TLBO-GC算法在四个函数 $\mathrm { F } _ { 1 }$ 、 $\mathrm { F } _ { 2 }$ 、 $\mathrm { F } _ { 6 }$ 、 $\mathrm { F } _ { 8 }$ 能达到理论最优值，但在 $\mathrm { F } _ { 1 1 \sim \mathrm { F } _ { 1 6 } }$ 上效果明显很差；DIHS 算法在七个函数 $\mathrm { F } _ { 4 }$ 、F5、F6、F9、F11、$\mathrm { F } _ { 1 2 }$ ， $\mathrm { F } _ { 1 4 }$ 能取得最优值，IHS 算法在三个函数 $\mathrm { F } _ { 1 0 }$ ， $\mathrm { F } _ { 1 1 }$ 、 $\mathrm { F } _ { 1 2 }$ 能取得最优值，但它们在函数 $\mathrm { F } _ { 1 }$ 、 $\mathrm { F } _ { 2 }$ 、 $\mathrm { F } _ { 6 }$ 、 $\mathrm { F } _ { 8 }$ 上收敛精度都不高；而本文所提的HHSTL算法在16个测试函数上的平均值和方差均能获得最优值，说明所提算法综合了HS和TLBO两种算法的优点，具有较强的优化能力。为进一步分析实验结果，图2、3给出了八种算法30次独立运行的平均收敛曲线图和最优值分布盒图（ $\scriptstyle \mathbf { D = 1 } 0 0$ 维)。从收敛曲线图不难看出，本文算法对两个复杂优化函数（Rastrigin Shift Function、SchafferShiftFunction)的收敛曲线呈下降趋势，收敛效果明显优于其他算法，说明本文算法的全局搜索能力较强，不易陷入局部最优。从统计盒图可以看出，本文算法的30次最优值的分布基本呈一条直线，说明本文算法具有很好的稳定性。
+
+![](images/00a4b330b376fc32d1ac7d7c292d4c088eda7daa5ebce45c20dd4a1739899597.jpg)  
+图2收敛曲线图
+
+![](images/9e10e5de9ab505f938958e487bdefea4ce08e612ea706bbd2a994a1bd29fec37.jpg)  
+图3最优值分布统计盒图
+
+为检验本文算法与比较算法之间的差异性，表3列出了本文算法与七种比较算法在16个测试问题上30次独立运行结果的Wilcoxon 符号秩检验的P-value 值，“—”、“+”、“”分别表示比较算法与本文算法的成绩相比是差、好和相当（NaN表示算法成绩无差异）。
+
+从表3可以看出，七种比较算法在测试问题上没有优于本文算法的，DIHS 在七个问题上与本文算法相当，IHS 算法在六个问题上与本文算法相当，RCGHS、TLBO和ITLBO算法均在五个问题上与本文算法相当。由此可见，本文算法与比较算法在大多数测试问题上存在显著性差异，具有明显的统计意义。
+
+表2算法30次独立运行结果比较（ $\scriptstyle \mathbf { D = 1 0 0 }$ ）  
+
+<html><body><table><tr><td>ALG</td><td></td><td>Best</td><td>Mean Worst</td><td></td><td>Std</td><td>ALG</td><td>Best</td><td>Mean</td><td>Worst</td><td>Std</td></tr><tr><td></td><td>DIHS</td><td>2.88E-20</td><td>3.15E-20</td><td>3.61E-20</td><td>2.22E-21</td><td>DIHS</td><td>1.03E-17</td><td>1.18E-17</td><td>1.30E-17</td><td>7.73E-19</td></tr><tr><td></td><td>IHS</td><td></td><td></td><td>1.12E-26</td><td>6.56E-28</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>9.26E-27</td><td>1.03E-26</td><td></td><td></td><td>IHS</td><td>3.44E-24</td><td>4.00E-24</td><td>4.77E-24</td><td>4.47E-25</td></tr><tr><td>F1</td><td>RCGHS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>RCGHS</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>TLBO</td><td>00</td><td>００</td><td>00</td><td>００ F2</td><td>TLBO</td><td>00</td><td>00</td><td>００</td><td>00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>MTLBO</td><td>2.24E-84</td><td>2.62E-82</td><td>1.86E-81</td><td>5.75E-82</td><td>MTLBO</td><td>1.07E-81</td><td>1.48E-80</td><td>4.72E-80</td><td>1.46E-80</td></tr><tr><td></td><td>TLBO-GC</td><td>0</td><td>0</td><td>0</td><td>0</td><td>TLBO-GC</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>HHSTL</td><td>0</td><td>0</td><td>0</td><td>0</td><td>HHSTL</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>F3</td><td>DIHS</td><td>2.41E+02</td><td>2.80E+02</td><td>3.18E+02</td><td>3.12E+01</td><td>DIHS</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>IHS</td><td>1.40E+02</td><td>1.65E+02</td><td>1.98E+02</td><td>1.94E+01</td><td>IHS</td><td>0</td><td>3.26E-04</td><td>3.26E-03</td><td>1.03E-03</td></tr><tr><td></td><td>RCGHS</td><td>3.57E+13</td><td>3.87E+14</td><td>7.43E+14</td><td>2.33E+14</td><td>RCGHS</td><td>4.87E+03</td><td>4.92E+03</td><td>4.99E+03</td><td>3.50E+01</td></tr><tr><td></td><td>TLBO</td><td>1.43E-14</td><td>4.17E-132</td><td>4.31E-234</td><td>1.31-101 F4</td><td>TLBO</td><td>5.27E+01</td><td>1.62E+02</td><td>2.4E-02</td><td>5.94F+01</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>MTLBO</td><td>1.31E+02</td><td>1.91E+02</td><td>2.57E+02</td><td>3.41E+01</td><td>MTLBO</td><td>0</td><td>1.80E-14</td><td>1.28E-13</td><td>3.98E-14</td></tr><tr><td></td><td>TLBO-GC</td><td>1.63E-179</td><td>8.51E-153</td><td>8.50E-152</td><td>2.69E-152</td><td>TLBO-GC</td><td>2.98E+03</td><td>3.40E+03</td><td>3.69E+03</td><td>2.28E+02</td></tr><tr><td>F5</td><td>HHSTL DIHS</td><td>0</td><td>1.49E-262</td><td>1.49E-261</td><td>0</td><td>HHSTL</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td rowspan="12"></td><td></td><td>4.33E-10</td><td>4.48E-10</td><td>4.67E-10</td><td>1.10E-11</td><td>DIHS</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>IHS</td><td>2.28E-13</td><td>2.51E-13</td><td>2.71E-13</td><td>1.15E-14</td><td>IHS</td><td>0</td><td>7.40E-04</td><td>7.40E-03</td><td>2.34E-03</td></tr><tr><td></td><td>4.44E-15</td><td>4.80E-15</td><td>7.99E-15</td><td>1.12E-15</td><td>RCGHS</td><td>0</td><td>0</td><td>0</td><td></td></tr><tr><td>RCGHS</td><td>4.44E-15</td><td>6.93E-15</td><td>7.99E-15</td><td>1.72E-15</td><td>TLBO</td><td>0</td><td>0</td><td></td><td>0</td></tr><tr><td>TLBO</td><td>4.44E-15</td><td>6.93E-15</td><td>7.99E-15</td><td>F6 1.72E-15</td><td>ITLBO</td><td>0</td><td>0</td><td>0 0</td><td>0</td></tr><tr><td>ITLBO</td><td>5.06E-14</td><td>5.84E-14</td><td>6.48E-14</td><td>4.37E-15</td><td>MTLBO</td><td>0</td><td>4.395E-13</td><td>4.394E-12</td><td>0</td></tr><tr><td>MTLBO TLBO-GC</td><td>4.44E-15</td><td>6.57E-15</td><td>7.99E-15</td><td>1.83E-15</td><td>TLBO-GC</td><td>0</td><td>0</td><td>0</td><td>1.39E-12</td></tr><tr><td>HHSTL</td><td>8.88E-16</td><td>1.24E-15</td><td>4.44E-15</td><td>1.12E-15</td><td>HHSTL</td><td>0</td><td>0</td><td>0</td><td>0 0</td></tr><tr><td>DIHS</td><td>5.29E-20</td><td>6.02E-20</td><td>6.44E-20</td><td>3.77E-21</td><td>DIHS</td><td>1.085E-09</td><td>1.135E-09</td><td>1.178E-09</td><td></td></tr><tr><td>IHS</td><td>1.68E-26</td><td>2.01E-26</td><td>2.38E-26</td><td>2.45E-27</td><td>IHS</td><td>7.359E-13</td><td>7.83E-13</td><td>8.492E-13</td><td>2.927E-11</td></tr><tr><td>RCGHS</td><td>9.39E+00</td><td>9.49E+00</td><td>9.57E+00</td><td>5.01E-02</td><td>RCGHS</td><td>0</td><td>0</td><td>0</td><td>3.617E-14 0</td></tr><tr><td>TLBO</td><td></td><td>5.18E+00</td><td>6.18E+00</td><td>5.52E-01</td><td>TLBO</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>F7 TLBO-GC</td><td>4.15E+00 4.12E+00</td><td>4.62E+00</td><td>5.55E+00</td><td>4.47E-01</td><td>F8</td><td></td><td>0</td><td>0</td><td></td><td></td></tr><tr><td rowspan="12">F9</td><td>ITLBO</td><td></td><td>3.11E-21</td><td></td><td>9.24E-22</td><td>ITLBO MTLBO</td><td>4.207E-46</td><td>3.448E-45</td><td>0</td><td>0</td></tr><tr><td>MTLBO</td><td>1.24E-23 7.92E+00</td><td>5.67E-22 8.21E+00</td><td></td><td>2.26E-01</td><td></td><td></td><td></td><td>1.189E-44</td><td>4.129E-45</td></tr><tr><td></td><td></td><td>8.55E+00</td><td></td><td></td><td>TLBO-GC</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>HHSTL</td><td>4.86E-27</td><td>7.15E-27</td><td>9.04E-27</td><td>1.42E-27</td><td>HHSTL</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>DIHS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>DIHS</td><td>-9.93E+01</td><td>-9.93E+01</td><td>-9.91E+01</td><td>5.48E-02</td></tr><tr><td>IHS</td><td>0</td><td>3.04E-03</td><td>1.30E-02</td><td>5.05E-03</td><td>IHS</td><td>-9.94E+01</td><td>-9.94E+01</td><td>-9.93E+01</td><td>4.35E-02</td></tr><tr><td>RCGHS</td><td>0</td><td>0</td><td>0</td><td>0 2.71E+01</td><td>RCGHS</td><td>-4.09E+01</td><td>-3.80E+01</td><td>-3.06E+01</td><td>3.05E+00</td></tr><tr><td>TLBO</td><td>0</td><td>8.56E+00</td><td>8.56E+01</td><td>0</td><td>TLBO F10 ITLBO</td><td>-9.03E+01 -8.48E+01</td><td>-7.90E+01 -7.83E+01</td><td>-5.07E+01</td><td>1.12E+01</td></tr><tr><td>ITLBO MTLBO</td><td>0 4.80E+00</td><td>0 8.77E+00</td><td>0 1.20E+01</td><td>1.97E+00</td></table></body></html>
+
+表3Wilcoxon 符号秩检验的P-value( $: { \mathrm { D } } { = } 1 0 0$ ）  
+
+<html><body><table><tr><td>函数</td><td>DIHS</td><td>IHS</td><td>RCGHS</td><td>TLBO</td><td>ITLBO</td><td>MTLBO</td><td>TLBO-GC</td></tr><tr><td>F1</td><td>6.39E-05</td><td>6.39E-05</td><td>NaN</td><td>NaN</td><td>NaN</td><td>6.39E-05</td><td>NaN</td></tr><tr><td>F2</td><td>6.39E-05</td><td>6.39E-05</td><td>NaN</td><td>NaN</td><td>NaN</td><td>6.39E-05</td><td>NaN</td></tr><tr><td>F3</td><td>1.79E-04</td><td>1.79E-04</td><td>1.79E-04</td><td>1.79E-04</td><td>1.79E-04</td><td>1.79E-04</td><td>1.79E-04</td></tr><tr><td>F4</td><td>6.16E-05</td><td>1.71E-03</td><td>1.78E-04</td><td>1.78E-04</td><td>1.78E-04</td><td>2.72E-01</td><td>1.78E-04</td></tr><tr><td>F5</td><td>8.74E-05</td><td>8.45E-05</td><td>1.24E-04</td><td>9.14E-05</td><td>9.14E-05</td><td>7.57E-05</td><td>1.17E-04</td></tr><tr><td>F6</td><td>NaN</td><td>3.68E-01</td><td>NaN</td><td>NaN</td><td>NaN</td><td>7.79E-02</td><td>NaN</td></tr><tr><td>F7</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td></tr><tr><td>F8</td><td>6.39E-05</td><td>6.39E-05</td><td>NaN</td><td>NaN</td><td>NaN</td><td>6.39E-05</td><td>NaN</td></tr><tr><td>F9</td><td>NaN</td><td>1.49E-02</td><td>NaN</td><td>3.68E-01</td><td>NaN</td><td>6.39E-05</td><td>7.79E-02</td></tr><tr><td>F10</td><td>1.71E-03</td><td>2.12E-01</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td></tr><tr><td>F11</td><td>NaN</td><td>NaN</td><td>6.39E-05</td><td>6.39E-05</td><td>6.39E-05</td><td>6.29E-05</td><td>6.39E-05</td></tr><tr><td>F12</td><td>NaN</td><td>NaN</td><td>6.39E-05</td><td>6.39E-05</td><td>6.39E-05</td><td>6.34E-05</td><td>6.39E-05</td></tr><tr><td>F13</td><td>1.71E-03</td><td>2.12E-01</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td></tr><tr><td>F14</td><td>NaN</td><td>3.68E-01</td><td>6.39E-05</td><td>6.39E-05</td><td>6.39E-05</td><td>6.39E-05</td><td>6.39E-05</td></tr><tr><td>F15</td><td>4.56E-01</td><td>8.37E-03</td><td>1.11E-04</td><td>1.11E-04</td><td>1.11E-04</td><td>1.11E-04</td><td>1.11E-04</td></tr><tr><td>F16</td><td>1.21E-01</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td><td>1.83E-04</td></tr><tr><td>一</td><td>9</td><td>10</td><td>11</td><td>11</td><td>11</td><td>14</td><td>13</td></tr><tr><td>+</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>~</td><td>7</td><td>6</td><td>5</td><td>5</td><td>5</td><td>2</td><td>3</td></tr></table></body></html>
+
+# 4.3 选择周期T的分析
+
+混合算法经过T次迭代后需要根据动态选择概率来重新确定下一周期中两种算法作为种群更新方式的比例。为检验选择周期T对算法的影响，在六个测试函数上对T的不同取值进行了测试（ $\scriptstyle \mathrm { ~ D = } 3 0$ )。表4统计了30次独立实验的最优目标函数适应度值的平均值，图4给出了不同T值下30次测试的分布盒图。
+
+从表4可以看出，除函数GriewankshiftFunction外，多数测试函数在不同T值下得到的平均适应度值差异不是很大，说明所提算法对此参数不太敏感。根据表4和图4的结果，综合考虑解的精度及分布统计情况，本文取 $\scriptstyle \mathrm { T } = 1 5 0$ 。
+
+![](images/43a58a29dc30b10f809ebf39b8de6410972ccada8c530bd75a92b6eac714ae56.jpg)  
+图4不同T值下的最优值分布统计盒图
+
+表4不同T值下30次独立实验的最优目标函数的平均适应值  
+
+<html><body><table><tr><td>Function</td><td>T=5</td><td>T=50</td><td>T=100</td><td>T=150</td><td>T=200</td><td>T=300</td><td>T=500</td><td>T=1000</td></tr><tr><td>Schwefel Function</td><td>8.37E-12</td><td>7.28E-12</td><td>7.28E-12</td><td>7.28E-12</td><td>7.64E-12</td><td>8.37E-12</td><td>7.64E-12</td><td>7.64E-12</td></tr><tr><td>Levy Function</td><td>1.07E-29</td><td>9.05E-30</td><td>1.21E-29</td><td>1.57E-30</td><td>1.63E-29</td><td>3.06E-29</td><td>1.75E-29</td><td>1.32E-29</td></tr><tr><td>Schwefel2.26 Function</td><td>8.37E-12</td><td>7.28E-12</td><td>7.28E-12</td><td>7.28E-12</td><td>7.64E-12</td><td>8.37E-12</td><td>7.64E-12</td><td>7.64E-12</td></tr><tr><td>Ackley shift Function</td><td>7.18E-14</td><td>6.59E-14</td><td>7.59E-14</td><td>6.25E-14</td><td>6.79E-14</td><td>6.32E-14</td><td>6.84E-14</td><td>6.47E-14</td></tr><tr><td>Rastrigin shift Function</td><td>3.55E-16</td><td>2.49E-15</td><td>2.49E-15</td><td>3.55E-16</td><td>2.84E-15</td><td>2.13E-15</td><td>3.55E-16</td><td>1.07E-15</td></tr><tr><td>Griewank shift function</td><td>0</td><td>4.93E-03</td><td>0</td><td>0</td><td>6.40E-03</td><td>8.37E-03</td><td>3.94E-03</td><td>7.87E-03</td></tr></table></body></html>
+
+# 4.4动态选择策略分析
+
+为进一步分析本文算法所设计的动态选择策略，分别选择了单峰和复杂多峰函数进行了测试。图5给出了两种不同类型函数的动态选择概率变化曲线图。
+
+![](images/6afa35fc964b7b123e1f290a8e086f52478470779593003468b0ca996724f1c4.jpg)  
+图5动态选择概率变化曲线图
+
+从图5中可以看出，动态选择策略能够根据优化问题的特点和迭代过程中两种优化算法的具体表现动态地选择合适的更新策略来满足不同进化阶段的需求。对SphereFunction这样的单峰函数，TLBO算法因为良好的收敛能力，因而在整个优化过程中占据主导地位，选择概率明显高于HS算法；对
+
+Schwefel2.26Function这样的复杂多峰函数，由于存在多个局部极小值点，进化的前期需要进行全局搜索，HS算法因为较强的全局搜索能力而获得较高的选择比例，能快速定位最优解的有效区域。随着迭代的进行，两种算法的选择概率慢慢趋近，交替变化，在迭代的后期，TLBO 算法的选择概率增大，主要来进行精细搜索，提高解的精度。迭代过程中，两种算法都保持着一定的选择比例，HS算法能够维持种群的多样性，而TLBO算法能够加快收敛速度，提高解的精度。
+
+# 5 结束语
+
+为提高对多种不同类型问题的优化能力，本文提出了一种和声教与学混合优化算法一一HHSTL。算法使用由种群活跃率及种群最优个体更新率构成的动态选择概率将两种算法进行了有效地融合。通过在16个不同类型的Benchmark函数上对HHSTL算法及其他七种优秀算法进行仿真比较，统计结果显示，所提算法汲取了HS和TLBO两种算法的长处，优势互补，求解精度高，稳定性好，能在较多不同类型的优化问题上取得良好的效果。但因为HHSTL算法是由IHS和TLBO两种算法混合而成，参数较多，需要进行大量的测试。在后续研究中，可以设计有效的参数自适应策略来进行改进，也可以将该算法应用到实际的工程优化问题中，检验其具体实用性。
+
+# 参考文献：
+
+[1]Geem Z W,Kim JH,Loganathan G V.A new heuristic optimization algorithm: harmony search[J]. Simulation,20o1,2(2): 60-68.   
+[2] Lee K S,Geem Z W.A new meta-heuristic algorithm for continuous engineering optimization: harmony search theory and practice [J].Computer Methods in Applied Mechanics & Engineering,2005,194 (36):3902-3933.   
+[3]Wu Bin,Qian Cunhua,Ni Weihong,et al.Hybrid harmony search and artificial bee colony algorithm for global optimization problems [J]. Computers & Mathematics with Applications,2012,64 (8): 2621-2634.   
+[4]Rao R V, Savsani VJ, Vakharia D P.Teaching-learning-based optimization: an optimization method for continuous non-linear large scale problems [J]. Information Sciences,2012,183 (1):1-15.   
+[5]Rao R V,Patel V.Multi-objective optimization of two stage thermoelectric cooler using a modified teaching-learning based optimization algorithm [J]. Engineering Applications of Artificial Intelligence,2013,26(1): 430-445.   
+[6]Pickard JK, Carretero JA,Bhavsar VC.On the convergence and origin bias of the teaching-learning-based optimization algorithm [J].Applied Soft Computing,2016,46(9): 115-127.   
+[7] Aydogdu I,Akin A. Optimum design of steel space frames by hybrid teaching-learning based optimization and harmony search algorithms [C]// Proc of the 17th International Conference on Structural Engineering.2015. 2015: 1486-1493.   
+[8]Tuo Shouheng,Yong Longquan,Deng Fangan,et al.HSTLBO:a hybrid algorithm based on harmonysearch and teaching-learning-based optimization for complex high-dimensional optimization problems [J].Plos One,2017,12 (4): 1-23.   
+[9]Yong Longquan, Tuo Shouheng,Gao Kai. Harmony search with teachinglearning algorithm for nonnegative linear least square [J].Journal of Interdisciplinary Mathematics,2017,20(8):1661-1677.   
+[10] Ouyang Haibin,Ma Ge,Liu Guiyun,et al.Hybrid teaching-learning based optimization with harmony search for engineering optimization problems [C]// Proc ofthe 36th Chinese Control Conference.Dalian: IEEE Press,2017: 2714-2717.   
+[11] Herrera F,Lozano M,Molina D. Test suite for of soft computing on scalability of evolutionary other metaheuristics for large scale continuous problems [EB/OL].(2010). htp:/sci2s. ugr. es/eamhco/CFP.php.   
+[12] Zhao Shizheng, Suganthan PN,Das S. Self-adaptive differential evolution with modified multi-trajectory search for CEC'2010 large scale optimization [J].Lecture Notes in Computer Science,2010,15 (11): 1-10.   
+[13] Tuo Shouheng, Zhang Junying,Yong Longquan,et al.A harmony search algorithm for high-dimensional multimodal optimization problems [J]. Digital Signal Processing,2015,46: 151-163.   
+[14] Mahdavi M,Fesanghary M,Damangir E.An improved harmony search algorithm for solving optimization problems [J].Applied mathematics and computation,2007,188 (2):1567-1579.   
+[15]翟军昌，秦玉平．随机交叉全局和声搜索算法[J].计算机工程与应用, 2018,54(12): 21-26.(Zhai Junchang,Qin Yuping.Random crosser global harmony search algorithm [J]. Computer Engineering and Applications, 2018,54 (12): 21-26.)   
+[16] Chen Debao, Zou Feng,Wang Jiangtao,et al. An improved teachinglearning based optimization algorithm for solving global optimization problem[J]. Information Sciences,2015,297: 171-190.   
+[17]拓守恒，雍龙泉，黎延海，等．面向高维复杂多模态问题的教与学优化 求解算法[J].计算机应用研究,2017,34(7):1939-1945.(Tuo Shouheng, Yong Longquan,Li Yanhai,et al. Teaching-learning-based optimization algorithm for solving high-dimensional complex optimization problems with multimodality [J].Application Research of Computers,2017,34 （7): 1939-1945. )   
+[18] Ouyang Haibin, Gao Liqun,Kong Xiangyong,et al. Teaching-learning based optimization with global crossover for global optimization problems [J].Applied Mathematics and Computation,2015,265 (C): 533-556.

@@ -1,0 +1,222 @@
+[
+    {
+        "type": "text",
+        "text": "运动调节自噬改善心血管疾病预后的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0524 吴长勇1，保苏丽1，徐菲1，彭云珠1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】心血管疾病是全球人类死亡的主要原因。自噬是一种高度保守的新陈代谢途径，其中溶酶体降解细胞器和大分子物质并循环利用，对心血管稳态和功能至关重要，但过度或不足的自噬可导致心血管疾病。越来越多研究证明，运动是预防和改善心血管疾病预后的重要组成部分。运动调节自噬是双向和动态的过程。对于自噬过度或不足引起的心血管疾病，运动可恢复自噬水平及功能，延缓心血管疾病的进展，改善心室重构。探究运动对心血管疾病自噬的调节机制有益于改善预后，降低心血管疾病事件发生率，提高生活质量。本综述回顾自噬的主要作用机制及信号通路，以及运动调节自噬有益于改善心血管疾病预后作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】 运动；自噬；心血管疾病；综述",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Progress of Exercise-mediated Regulation of Autophagy in the Cardiovascular DiseasesWU Changyong1，BAO Suli1, XU Fei1，PENG Yunzhu1\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Departmentof Cardiology，theFirstAfiliated Hospitalof Kunming Medical University，Kunming 650032，Chind \\*Corresponding author:PENG Yunzhu，Chiefphysician，Doctoralsupervisor；E-mail:pengyunzhu0308@163.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】Cardiovascular disease is a leading cause of human death worldwide.Autophagy is a highly conserved metabolic pathwayin which lysosomes recycle substance bydegrading itself organellesand macromolecules,which is essentialforcardiovascularhomeostasisandfunction.However,excesiveorinsuficientautophagycouldleadtodierent cardiovasculardiseases.Increasing evidencehasdemonstratedthat exerciseisacriticalcomponentin the preventionand improvementofcardiovasculardisease outcomes.Movement regulatingautophagy,isbothabidirectionalandadynamic process.Forcardiovascular diseases caused byexcessive orinsuficientautophagy,exercise canrestore the leveland functionofautophagydelaytheprogressionofcardiovasculardiseases,andimproveventricularremodeling.Exploringthe regulatory mechanism of exerciseonautophagyincardiovasculardiseases is beneficial to improving the prognosis, reduces the incidence ofcardiovascular disease events,and improves thequalityoflife.In this article,we review autophagyand its related signalingpathways,aswellas exercise regulationofautophagy is beneficial toimprove the prognosis of cardiovascular diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Key Words】 Exercise； Autophagy； Cardiovascular Disease； Review",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "心血管疾病是全球人类死亡的主要原因，仍是我国城乡居民疾病死亡构成比的首位，其中每5例死亡中就有2例死于心血管病[2，这亟需有效策略管理心血管疾病并改善预后。自噬是一种细胞内降解系统，普遍存在细胞内发挥着维持内环境动态平衡和防御作用。正常水平的自噬保护细胞免受外界环境刺激，维持内环境稳态，而过度的自噬激活会导致不同细胞凋亡的另一种重要的细胞程序性死亡（被称为II型程序性死亡）[3]。近年来研究表明，自噬具有比预期更多的病理生理学功能，如发育、细胞内蛋白质及细胞器清除、抗衰老、细胞死亡、心脏重构、肿瘤抑制和抗原呈递[4。自噬是心血管疾病的重要调节机制，过度的自噬或自噬不足将导致心血管事件发生，最终诱导心力衰竭。因此，通过探究自噬的病理生理功能及其相关信号通路的分子机制，并发现新型有效治疗靶点有益于预防心血管事件，改善心功能提高患者生活质量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，国内外指南均指出心脏康复是二级预防的重要指标[5-]，且运动康复作为中心元素，有益于降低心血管疾病患者的再入院率、死亡率及心血管事件发生率，改善心功能，提高心血管疾病事件后的生存率[8-10]。另外，在心肌梗死、缺血再灌注损伤、心力衰竭等心血管疾病中研究证实，运动能减少心肌梗死面积、活性氧产生及炎症反应，增加梗死周围血管生成、降低心肌细胞调亡，改善细胞基质合成减轻心脏纤维化，改善心功能[11,12]。且运动通过调节自噬水平维持内环境稳态，发挥适应性保护心脏作用。但运动改善心血管疾病预后的机制仍未充分阐述清楚。在本文综述中，我们将从自噬及其主要信号通路角度总结运动调节自噬改善心血管疾病预后的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金项目（82160439）；云南省科技厅基础研究计划项目（202001AY070001-028）",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.650032云南省昆明市，昆明医科大学第一附属医院心内科\\*通讯作者：彭云珠，主任医师，博士生导师；E-mail:pengyunzhu0308@163.com",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2自噬概述以及在心血管疾病中的作用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自 1957年 Clark 和Ashford 首次发现自噬形成现象以来[13]，自噬在有机体的演变中发挥关键作用。自噬包括4个步骤：自噬的诱导、自噬小体的形成、降解和再利用[14],似乎每一步骤自噬在不同细胞环境中发挥不同功能（如图1）。自噬调控过程涉及多种信号通路，其中最经典的是 PI3K-AKT-MTOR 通路、AMPK 通路，而 AMPK 通路对细胞生长及氧化应激损伤起重要作用。心肌缺血缺氧时，增加AMP/ATP 比值，激活 AMPK 途径，抑制MTOR 复合物1活性，诱导自噬，促进线粒体合成 ATP，改善心肌能量代谢[15]。但 mTOR 通路调节自噬是双向的，早期被抑制促进自噬产生，晚期被激活避免过度自噬。自噬小体成熟的一个重要步骤是招募ULK1激酶复合物和PI3K 复合物稳定于自噬体膜上。ULK1复合物、LC3和ATG5-12-16L1在自噬体膜上相互作用促进自噬小体的成熟。Tian 等发现 $\\mathrm { p A T G 1 6 L 1 } ^ { \\mathrm { s 2 7 8 } }$ 与自噬小体形成生物学作用及自噬诱导速率密切相关，且遵循 LC3-II的速率，这可能为自噬的诱导和调控开辟新途径[16]。除此外，ATG7募集LC3-I到自噬体膜上，ATG5-12-16L1 依赖的磷脂酰乙醇胺(PE)脂化为LC3-II，对自噬体的成熟至关重要。成熟的自噬体与溶酶体融合成自噬溶酶体，在 ATG、Lamp1、Lamp2、UVRAG 等蛋白质协助一系列水解酶作用降解内容物，并回收用于蛋白质合成，维持细胞的能量代谢和质量守恒。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bfe2b3719b162d32cae00d9a50945d2b85f6771ad53554b6ae569a791865a5d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1：自噬过程概述及主要的信号通路机制。在自噬过程中ULK1激酶复合物包括 ATG13、ATG10、FIP200;PI3K 复合物包括 VPS34、ATG6/Beclin-1、ATG14 和p150。LC3-II和LC3-II/I比值可作为自噬含量及通量的标记物，LC3-II升高标志自噬体含量增加从而诱导自噬，相反，LC3-II减少可能是自噬通量增加导致其在溶酶体中被降解的结果；另外P62、Beclinl蛋白作也可作为自噬的标志物。注：AMP：一磷酸腺苷；ATP：三磷酸腺苷；P：磷酸；AMPK：腺苷酸激活蛋白激酶； $\\mathrm { M T O R }$ ：哺乳动物雷帕霉素靶蛋白；ULK1：Unc-51如自噬激活激酶1；ATG：自噬相关基因；FIP200：FAK家族激酶相互作用蛋白 $2 0 0 \\mathrm { { K D a } }$ ；PI3P：3-磷酸磷酯酰肌醇；VPS15：夜泡蛋白分选15；AMBRA1：自噬相关基因；Beclin1：自噬相关蛋白；BCL2：B细胞淋巴瘤2；LC3：微管相关蛋白1轻链3；P62：自噬相关蛋白。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "心肌细胞是终末期分化细胞，再生能力有限。心血管疾病进展到后期将产生共同的病理变化即心肌纤维化，导致心功能障碍，最后发展为心力衰竭。而自噬通过降解折叠错误或功能失调的蛋白质及损坏衰老的细胞器，促进 ATP产生，为心肌细胞提供能量，改善心肌细胞缺血缺氧，发挥保护性作用。因此，自噬维持心肌细胞的稳态具有重要作用。自噬可保护机体免受肾上腺素或压力负荷所致的心肌肥厚[17]。研究表明全球每年约有 $6 5 \\%$ 心肌梗死患者表现为心肌纤维化性心脏重构[18]，缺血缺氧诱导自噬能防止细胞肥大，清除心肌细胞功能障碍的线粒体，增加内质网应激，维持线粒体数量，恢复心肌细胞能量代谢。随着心血管疾病进展至心衰阶段时，机体通过MTOR和ER应激通路激活自噬，减少细胞凋亡与坏死，抑制心室重塑，改善心功能。但过度的自噬或自噬不足导致心血管疾病的恶化，在终末期心衰研究发现，自噬过度增加是心肌细胞进行性损失的主要驱动力，广泛发生细胞质破坏和核溶解，导致细胞坏死[19]，这可能是加重疾病恶化的原因之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "进一步研究发现，非编码RNAs（noncoding RNAs，ncRNAs）参与心肌细胞自噬的调节，成为心血管疾病重要的调控因子[20-23]。NcRNAs 是一类不编码蛋白的 RNAs，主要包括微小RNAs（microRNAs，miRNAs）、长链非编码RNAs（long noncoding RNAs，lncRNAs）和环状 RNAs（circular RNAs，circRNAs）等。其中 miRNAs 是一种长度约 $2 2 \\mathrm { n t }$ 的小分子单链RNA，具有高度保守性，主要机制是miRNAs通过碱基互补配对原则与靶mRNA的3'非翻译区（3'UTR）结合，诱导靶 mRNA 降解或抑制其翻译。在糖尿病心肌病中，miR-30c 的耗竭与 Becnl的诱导增强了糖尿病心肌细胞的自噬通量，且miR-30c直接结合到Becn1的 ${ \\mathrm { 3 } } ^ { \\prime }$ UTR 抑制Becn1表达，改善心脏结构及功能[24]；通过miR-55 1b17/PCDH17途径促进心肌细胞自噬，减少心肌纤维化形成，改善心功能[25]。然而，在肥厚型心肌病中发现，miR-29 族、miR-302-367族通过PTEN/AKT/MTOR 信号通路抑制自噬加重心肌肥厚，导致心功能障碍[26，27]。LncRNAs是长度大于 $2 0 0 \\mathrm { n t }$ 的ncRNAs，且根据他们与邻近编码区基因组的相对位置关系，可分为6种类型：正义lncRNAs、反义lncRNAs、基因间lncRNAs、内含子lncRNAs、增强子lncRNAs 和双向lncRNAs。LncRNAs 主要直接与 DNA 及蛋白质结合、海绵化miRNAs 等相互作用调节心血管疾病，但其生物学功能及分子机制尚未充分阐述清楚。Liang 等报道lncRNA 2810403D2Rik/AK007586/Mirf（心肌梗死调节因子）海绵化 miR-26a，靶向USP15激活自噬，减轻心脏损伤。此外，其他的lncRNAs，如lncRNA CAIF、lncRNA Chast 和 lncRNA H19，也是调控自噬参与心血管疾病的重要因子[29，30]。然而，circRNA 是一种新型的非线性内源性 ncRNA,具有保守性好、稳定性高等特征，主要通过PI3K、AKT、AMPK 等信号通路参与自噬调节。然而，因技术的局限性，ncRNAs 特别是lncRNAs 和circRNAs 的研究主要在体内实验进行证实，仍需面对动物与人类基因差异表达及是否对心血管本身存在严重不良反应等挑战。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3运动调节自噬改善心血管疾病",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运动调节自噬是双向的[31,32]（如图2）。自噬损伤和自噬水平的改变与多种疾病机制相关。研究报道在自噬缺陷的大鼠或患者中，自噬小体形成受损会导致受损的线粒体、蛋白质清除不足，导致多器官功能障碍和其他严重的不良结局[335]。自噬性空泡肌病主要包括 Pompe 病、Danon 病和X连锁肌病伴过度自噬（X-linked myopathy withexcessive autophagy，XMEA），其中 XMEA 是由 VMA21基因中的一个插入缺失引起，其特征是缓慢进行性肌无力和肌肉活检中过度自噬空泡的病理学，在 XMEA 患者肌肉检测到溶酶体 PH值增加和LC3 阳性空泡，这与突变的预测功能缺陷相符[36。37]。而对于自噬不足引起的心血管疾病，运动能上调自噬水平。而对于自噬过度所致的心血管疾病，运动则抑制自噬，使其恢复正常的自噬水平及功能，延缓心血管疾病的进展。此外，运动还可减少心肌梗死面积、梗死区域血管生成、增加梗死边缘区心脏特络细胞和抑制炎症反应，改善心室病理性重构[38]。有氧运动通过上调 AMPK活动来抑制mTOR 的磷酸化，改善心肌细胞自噬水平，防止心肌细胞凋亡和心脏功能障碍，且单项运动也可通过激活转录因子FOX03 和缺氧诱导因子1激活心脏自噬，间接上调 Beclin1表达3]。除此外，有氧运动介导自噬通过热休克蛋白70 相互作用蛋白的羧基端发挥心脏保护性作用[39]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d22b72e54b75975f93ecfd53f4918a91f2b98b567b6d7e7d7281a546a79b20bd.jpg",
+        "img_caption": [
+            "图2：运动诱导自噬的分子介质有益于心血管疾病。运动通过FOXO和TEEB 调控ATG家族的转录增加自噬能力，其中FOXO 是通过Akt/AMPK介导调节运动应答中自噬成分的转录，包括LC3和BNIP3等。AMPK和MTOR分别是运动诱导自噬的激活因子和抑制因子，与活性氧共同调节自噬通量，且AMPK可抑制MTOR。运动诱导自噬的有益作用包括降解受损的蛋白质和细胞器、提高线粒体氧化能力，降低心肌细胞凋亡，减少炎症反应及心肌纤维化形成，改善心脏纤维化及心功能。注：FOXO：叉头转录因子：ROS：活性氧；AMPK：腺苷酸激活蛋白激酶；MTOR：哺乳动物雷帕霉素靶蛋白。"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最近研究报道，运动可调节自噬水平或自噬通量，改善心功能，对心血管疾病有一定治疗指导作用[40]。在过度自噬的病理情况下，运动训练降低自噬活性阻碍心血管疾病的恶化[41]。心肌梗死后心肌细胞间质及细胞外基质增加导致心肌纤维化形成，而活性氧（reactive oxygen species，ROS）的过度产生是主要病理机制之一。研究表明，氧化应激诱导 Smyd1上调激活自噬，抑制心肌细胞间质增生和纤维化浸润，发挥保护心脏作用[42]。而运动调节自噬清除心肌梗死后受损及衰老的线粒体，调整心肌能量代谢，改善心室重构，降低心血管事件发生率[43-45]。不同的运动模式及强度对不同心血管疾病的保护机制仍未充分阐述清楚。通过建立心肌梗死小鼠模型进行跑台、抗阻等不同运动训练的研究表明，运动通过激活FNDC5/Irisin-PINK1/Parkin-LC3II/L-P62 信号通路上调线粒体自噬，增强抗氧化能力，抑制氧化应激，改善心功能”。在心力衰竭动物及患者研究表明，运动能改善心肌和线粒体自噬，提高射血分数及缩短分数，减轻心脏纤维化，改善心功能[46-8]。除此外，研究发现运动干预可刺激骨骼肌等远端器官的FSTL1的表达，通过DIP2A-Samd2/3信号通路，抑制心肌梗死大鼠心肌纤维化形成，改善心功能，为心脏康复提供新的思路[49]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除调节病理条件下的异常自噬外，有氧运动可以在不上调自噬通量的情况下维持心肌细胞自噬的稳态，发挥生理条件下的心脏保护作用，改善心功能。一项研究表明，2个月的大鼠进行习惯性运动5个月后，与对照组相比运动组的自噬通量未改变但LC3-II蛋白增加，有助于提高细胞自噬能力和心肌细胞做功效率[50]。在健康老年人中有氧运动8周后，分离外周血单个核细胞检测提示LC3-II/I比值、ATG12、ATG16 和Beclin1蛋白表达显著高于对照组，而 P62、ULK-1蛋白水平下降，且运动组峰值摄氧量也增加[51]。老年人进行 10 周的运动干预训练发现，没有改变自噬相关基因表达及蛋白标志物水平，但在训练2.5 小时后发现LC3-I增加，这可能与mTORC1活性增强抑制LC3-I到LC3-II脂化，从而抑制自噬[52]。此外，在一项21周的抗阻运动训练后发现，年轻男性的LC3-II蛋白水平增加，而不是中老年男性[53]。总体来说，运动训练可能是减弱衰老引起细胞自噬下降的一个因素。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4总结与未来展望 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "科学而有规律的有氧运动能提高机体的新陈代谢。近年来，运动对心血管疾病的保护作用越来越受到关注[54，55]。运动能提高心肌自噬水平，抑制心室重构，改善心脏功能。运动调节心肌自噬是双向的、动态的，一方面运动可上调自噬水平和增强细胞能力，延缓细胞衰老和预防心血管疾病；另一方面，运动可抑制自噬，减少细胞凋亡和坏死，改善心室重塑，从而改善心血管疾病的预后。但研究也发现过度的自噬能损伤心肌细胞甚至坏死程度增加[19]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运动调节自噬在心血管疾病中发挥保护性作用，在进行心脏运动康复训练中，考虑到个体差异，也存在相应问题：1）目前在基础与临床研究中可采用呼吸代谢系统或心肺运动实验检测V02和VCO2来定量运动处方，但不同的运动强度对不同年龄组确保运动诱导自噬对心血管疾病是否有益？2）给出运动处方时，应考虑急性期与慢性期，以及短期与长期运动训练之间的区别。并且结合心脏康复模式，如居家心脏康复、社区心脏康复模式、医院主导的心脏康复及混合型心脏康复模式，对这些问题的研究与探讨，有助于更好地证实运动调控自噬在心血管疾病的获益，并为创新型的临床心脏运动康复提供更好的指导。然而，运动改善心血管疾病预后的机制仍未充分阐述清楚。目前研究表明，运动除介导自噬调控其相关信号分子外，ncRNAs 特别是lncRNAs 和circRNAs 已成为心血管疾病中运动的重要调控因子，并有望成为生物标记物和新型靶向治疗策略，但其生物学功能及分子仍在探索中。因此，发现新的有效治疗靶点来预防心血管事件，改善患者的心功能及提高生活质量，对心血管疾病的生物学研究及临床心脏运动康复提供循证医学证据是至关重要的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：吴长勇负责论文的构思和设计、文献整理和撰写论文、图片制作；保苏丽、徐菲负责文献收集与整理；彭云珠负责文章的质控及审校，对文章整体负责，监督管理。本文无利益冲突。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文检索策略：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以“exercise， sport，autophagy，cardiovascular disease，myocardial infarction， ncRNA”为英文关键词检索 PubMed、Medline、Webof Science、SCI-hub；以“运动，自噬，心血管疾病，心肌梗死，非编码 RNA”为中文检索词检索中国知网、万方数据知识服务平台、维普网及中国生物医学文献服务系统。检索时间为建库至 2022-04-07。文献纳入标准：涉及心血管疾病的病理机制、自噬及其相关信号通路、心脏运动康复的基础研究及文献研究。文献排除标准：重复发表、数据记录不详细、文献年代久远、文献质量差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] VIRANI S S,ALONSOA,BENJAMINEJ,et al.Heart Disease and Stroke Statistics-2020 Update: A ReportFrom the American Heart Association[J]. Circulation,2020,141(9):e139-e596.DOI: 10.1161/cir.000000000000757.   \n[2]中国心血管健康与疾病报告 2020 概要[J]．中国循环杂志,2021,36(06):521-545.   \n[3]KROEMERGandLEVINEB.Autophagiccelldeath: thestoryofa misnomer[J].NatRevMolCelliol,008,9(12):004- 10.DOI: 10.1038/nrm2529. American Associauon olardovascuar anu umonary enaoauon,ne American HeartAsociauonanu n Ameican College of Cardiology[J]. Circulation,2019,140(1):e69-e89.DOI: 10.1161/cir.0000000000000663.   \n[6] 中国心血管疾病患者居家康复专家共识[J]．中国循环杂志,2022,37(02):108-121.   \n[7] PELLICCIA A,SHARMA S, GATI S,et al.2020 ESC Guidelines on sports cardiology and exercise in patients with cardiovascular disease[J]. Eur Heart J,2021,42(1):17-96. DOI: 10.1093/eurheartj/ehaa605.   \n[8] VEGA R B,KONHILAS JP, KELLY DP, et al.Molecular Mechanisms Underlying Cardiac Adaptation to Exercise[J]. Cell Metab,2017,25(5):1012-1026. DOI: 10.1016/j.cmet.2017.04.025.   \n[9]BERNARDOBC,OOIJYY, WEEKS KL,et al.Understanding KeyMechanisms ofExercise-Induced Cardiac Protection toMitigate Disease:Curent Knowledge and Emerging Concepts[J].Physiol Rev,2018,98(1):419-475.DOI: 10.1152/physrev.00043.2016.   \n[10] DOIMO S,FABRIS E,PIEPOLI M,et al.Impact of ambulatory cardiac rehabilitation on cardiovascular outcomes: a long-term follow-up study[J]. Eur Heart J,2019,40(8):678-685. DOI: 10.1093/eurheartj/ehy417.   \n[11] LIH, QIN S,LIANG Q,et al.Exercise Training Enhances Myocardial Mitophagy and Improves Cardiac Function via Irisin/FNDC5-PINK1/Parkin Pathway in MI Mice[J]. Biomedicines,2021,9(6)DOI: 10.3390/biomedicines9060701. [12] SANCHIS-GOMAR F,LAVIE CJ,MARiN J,et al.Exercise Effects On Cardiovascular Disease: From Basic Aspects To Clinical Evidence[J]. Cardiovasc Res,2021,DOI: 10.1093/cvr/cvab272.   \n[13]CLARK S L,JR.Celular diferentiation in the kidneys of newborn mice studies with the electron microscope[J]. J Biophys Biochem Cytol,1957,3(3):349-62. DO1: 10.1083/jcb.3.3.349.   \n[14] KLIONSKYD J,ABDEL-AZIZ A K,ABDELFATAH S,et al.Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)(1)[J]. Autophagy,2021,17(1):1-382. DOI: 10.1080/15548627.2020.1797280. [15]COSTA R, MORRISONA, WANG J,et al.Activated protein C modulates cardiac metabolism and augments autophagy in the ischemic heart[J]. JThromb Haemost,2012,10(9):1736-44. DOI: 10.111/j.1538-7836.2012.04833.x.   \n[16]TIAN W,ALSAADIR,GUOZetal.Anantibody foranalysis ofautophagy induction[J]. Nat Methods,2020,17(2):23- 239. DOI: 10.1038/s41592-019-0661-y.   \n[17] DU J,ZHANG C and ZHAO W.Autophagyand Hypertension[J].Adv Exp Med Biol,2020,1207:213-216.DOI: 10.1007/978-981-15-4272-5_14.   \n[18]HONG G,RUI G, ZHANG D,et al.A smartphone-asisted pressure-measuring-based diagnosis system foracute myocardial infarction diagnosis[J]. Int JNanomedicine,2019,14:2451-2464. DOI: 10.2147/ijn.S197541.   \n[19] CORSETTI G, CHEN-SCARABELLI C, ROMANO C,et al.Autophagy and Oncosis/Necroptosis Are Enhanced in Cardiomyocytes from HeartFailure Patients[J]. Med Sci Monit BasicRes,2019,25:33-44.DOI:10.12659/msmbr.913436. [20] ZHENGD,HUOM,LIB,etal.The RoleofExosomesand Exosomal MicroRNA in Cardiovascular Disease[J].Front Cell Dev Biol,2020,8:616161.DOI: 10.3389/fcell.2020.616161.   \n[21]YUAN Zand HUANG W.New Developments in Exosomal IncRNAs in Cardiovascular Diseases[J].Front Cardiovasc Med,2021,8:709169.DO1: 10.3389/fcvm.2021.709169.   \n[22] JUSIC A,THOMAS PB, WETTINGER S B,et al.Noncoding RNAs in age-related cardiovascular diseases[J]. Ageing Res Rev,2022,77:101610. DOI: 10.1016/j.arr.2022.101610.   \n[23]ZHU L,LI N,SUN L,et al.Non-coding RNAs: The keydetectorsand regulators in cardiovasculardisease[J]. Genomics,2021,113(1 Pt 2):1233-1246. DOI: 10.1016/j.ygeno.2020.10.024.   \n[24]CHENC,YANG S,LIH,etal.Mir30c Is Involvedin Diabetic Cardiomyopathythrough RegulationofCardiac Autophagy via BECN1[J]. Mol Ther Nucleic Acids,2017,7:127-139. DOI: 10.1016/j.omtn.2017.03.005.   \n[25] FENG Y,XU W, ZHANG W, et al.LncRNA DCRF regulates cardiomyocyte autophagy bytargeting miR-551b-5pin diabetic cardiomyopathy[J]. Theranostics,2019,9(15):4558-4566. DOI: 10.7150/thno.31052.   \n[26] SHI JY,CHENC,XU X,et al.miR-29a promotes pathological cardiac hypertrophybytargeting the PTEN/AKT/mTOR signaling pathwayand suppressing autophagy[J]. Acta Physiol (Oxf),2019,227(2):e13323.DOI: 10.111/apha.13323. [27] JINL, ZHOU Y,HANL, et al.MicroRNA302-367-PI3K-PTEN-AKT-mTORC1 pathway promotes the development of cardiachypertrophy throughcontrolingautophagy[J].In Vitro CellDevBiol Anim,2020,56(2):112-19.DOI: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10.1007/s11626-019-00417-5. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[28]LIANG H, SU X, WU Q,et al.LncRNA 2810403D21Rik/Mirf promotes ischemic myocardial injuryby regulating autophagy through targeting Mir26a[J].Autophagy,2020,16(6):1077-1091.DOI: 10.1080/15548627.2019.1659610. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[29]LIU CY,ZHANGYH,LIR B,et al.LncRNA CAIF inhibitsautophagyand atenuates myocardialinfarctionbyblocking p53-mediated myocardin transcription[J]. Nat Commun,2018,9(1):29.DOI: 10.1038/s41467-017-02280-y. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[30] ZHANGBF,JANG H, CHENJ,etalLncRNA H19 ameliorates myocardial infarction-induced myocardial injuryand maladaptive cardiacremodelingbyregulating KDM3A[J].J CellMol Med,2020,24(1):1099-1115.DOI: 10.1111/jcmm.14846.   \n[31]LEEY,KANGEB,KWONI,etal.Cardiac Kinetophagy Coincides with Activation ofAnabolic Signaling[J].Med Sci Sports Exerc,2016,48(2):219-26.DOI: 10.1249/mss.0000000000000774.   \n[32] CHENCY,HSUHC,LEEB C,etalExercise training improves cardiac function ininfarctedrabbits: involvementof autophagic functionand fatyacidutilization[J].EurJHeartFail,2010,12(4):323-30.DOI: 10.1093/eurjf/hfq028. [33] KOMATSU M, WAGURI S,UENO T,et al.Impairment of starvation-induced and constitutive autophagy in Atg7- deficient mice[J]. J Cell Biol,2005,169(3):425-34. DOI: 10.1083/jcb.200412022.   \n[34]HAZARI Y，BRAVO-SAN PEDRO J M,HETZ C，et al.Autophagy in hepatic adaptation to stres[J].J Hepatol,2020,72(1):183-196.DOI: 10.1016/j.jhep.2019.08.026.   \n[35]NICHENKOA S,SORENSENJR,SOUTHERN WM,etal.Lifelong UIk1-Mediated Autophagy Deficiency in Muscle Induces Mitochondrial Dysfunctionand Contractile Weakness[J].ItJMolSci,2021,22(4)DOI:10.3390/ijms22041937. [36]FERNANDESSA,ALMEIDA CF, SOUZALS,etal.Altered in vitro muscle diferentiationin X-linked myopathy with excessive autophagy[J]. Dis Model Mech,2020,13(2)DOI: 10.1242/dmm.041244.   \n[37]ALON T,SADEH M,LEVD,et al.X-linked myopathywith excessive autophagy: First report of an Israeli family presentingwithlateonsetlowerlimbgirdleweaknessJ].NeuromusculDisord,2021,31(9):854-858.DOI: 10.1016/j.nmd.2021.06.013.   \n[38]LIAO Z,LID,CHEN Y,et al.Early moderateexercise benefits myocardial infarction healing via improvementof inflammationand ventricularremodelling inats[J].JCellMolMed,019,23(12):8328-834.DOI:10.111jcmm.14710. [39] WILLIS MS,MINJN, WANG S,et al.Carboxyl terminus of Hsp70-interacting protein (CHIP)is required to modulate cardiachypertrophyandattnuateautophagy during exercise[J].Cell Biochem Funct,2013,31(8):724-35.DOI: 10.1002/cbf.2962.   \n[40] CAMPOS JC, QUELICONI B B,BOZIL HM, et al.Exercise reestablishes autophagic flux and mitochondrial quality control in heart failure[J]. Autophagy,2017,13(8):1304-1317. DOI: 10.1080/15548627.2017.1325062.   \n[41]TAO L, BEIY,LINS,et al.Exercise Training Protects Against Acute Myocardial Infarction via Improving Myocardial EnergyMetabolismandMitochondrial Biogenesis[J].CellPhysiolBiochem,2015,37(1):162-75.DOI:10.1159/0043034. [42] LIANG Q, CAIM, ZHANG J,et al.Role of Muscle-Specific Histone Methyltransferase (Smyd1) in Exercise-Induced CardioprotectionagainstPathological RemodelingafterMyocardial Infarction[J].IntJMol Sci2020,21(19)DOI: 10.3390/ijms21197010.   \n[43] BATISTADF,POLEGATOBF,DA SILVA R C,et al.Impact of Modality and Intensityof Early Exercise Training on VentricularRemodelingafterMyocardialInfarction[J].OxidMed Cell Longev,2020,2020:5041791.DOI: 10.1155/2020/5041791.   \n[44] JIA D, HOUL,LVY,et al.Postinfarction exercise training aleviatescardiac dysfunctionandadverse remodelingvia mitochondrialbiogenesisandSIRT1/PGC-1α/PI3K/Aktsignaling[J].JCellPhysiol,2019,234(12):23705-23718DOI: 10.1002/jcp.28939.   \n[45] SONG W, LIANG Q, CAI M, et al.HIF-1 $\\mathfrak { a }$ -induced up-regulation of microRNA-126 contributes to the effectiveness of exercise trainingon myocardialangiogenesis in myocardial infarctionats[J].JCellMolMed,2020,24(22):1297-12979. DOI: 10.1111/jcmm.15892.   \n[46] GUO C, CHEN MJ, ZHAO JR, etal.Exercise training improves cardiac function and regulates myocardial mitophagy differently in ischaemicand pressure-overload heart failure mice[J]. ExpPhysiol,2022,DOI:10.1113/ep090374.   \n[47]ANKER SDand COATSAJS.Exercise forFrail,Elderly Patients with Acute HeartFailure - AStrong StepForward[J]. N Engl J Med,2021,385(3):276-277. DOI: 10.1056/NEJMe2106140.   \n[48] BOZKURT B,FONAROW G C, GOLDBERG LR,et al.Cardiac Rehabilitation for Patients With HeartFailure: JACC ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Expert Panel[J]. JAm Coll Cardiol,2021,77(11):1454-1469. DOI: 10.1016/j.jacc.2021.01.030. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[49] XIY,HAOM,LIANG Q,etal.Dynamicresistance exercise increases skeletalmuscle-derivedFSTL1inducingcardiac angiogenesisviaDIP2A-Smad2/3 inrats followingmyocardial infarction[J].JSport Health Sci221,10(5):594-603.DOI: 10.1016/j.jshs.2020.11.010.   \n[50]TAMBT,PEIX M,YUNGBY,etal.Autophagic Adaptations toLong-term Habitual Exercise inCardiac Muscle[J].It J Sports Med,2015,36(7):526-34. DOI: 10.1055/s-0034-1398494.   \n[51] MEJiAS-PEnA Y,RODRIGUEZ-MIGUELEZ P,FERNANDEZ-GONZALO R,et al.Effcts of aerobic training on markers of autophagy in the elderly[J]. Age (Dordr),2016,38(2):33. DOI: 10.1007/s11357-016-9897-y.   \n[52]AAS S N,ToMMERBAKKED,GODAGER S,et al.Effects of acute andchronic strength training on skeletal muscle autophagy in frail elderly men and women[J].Exp Gerontol,2020,142:11122.DOI: 10.1016/j.exger.2020.11122. [53] HENTILa J,AHTIAINENJP,PAULSEN G,et al.Autophagy is induced byresistance exercise in young men,but unfolded proteiresposeisiducedregardlessofage[J].Actahysiol(Oxf),2018,224(1):e3069.DOI:10.111apha.069. [54]MOREIRA JB N,WOHLWEND M and WISLoFF U.Exercise and cardiac health: physiological and molecular insights[J]. Nat Metab,2020,2(9):829-839.DOI: 10.1038/s42255-020-0262-1.   \n[55]SEO DY,KWAK HB,KIMA H,et al.Cardiac adaptation toexercise training in health anddisease[J].Pflugers Arch,2020,472(2):155-168.DO1: 10.1007/s00424-019-02266-3. ",
+        "page_idx": 6
+    }
+]

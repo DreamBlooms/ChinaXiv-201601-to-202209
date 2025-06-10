@@ -1,0 +1,537 @@
+[
+    {
+        "type": "text",
+        "text": "Influence of Filling Ratio and Working Fluid Thermal Properties on Starting up and Heat Transferring Performance of Closed Loop Plate Oscillating Heat Pipe with Parallel Channels ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHI Weixiu1,2, PAN Lisheng ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.School of Environment and EnergyEngineering,Beijing Universityof Civil Enginering and Architecture,Beijing 100044, China   \n2. Beijing Key Lab ofHeating, Gas Supply, Ventilating and Air Conditioning Engineering,Beijing 10o044，China   \n3. State Key Laboratory of High-temperature Gas Dynamics,Institute of Mechanics, Chinese Academy of Sciences, Beijing 100190, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Using ethanol or acetone as the working fluid,the performance of starting up and heat transfer of closed-loop plate oscillating heat pipe with parallel channels (POHP-PC) were experimentally investigated by varying filling ratio,inclination, working fluids and heating power.The performance of the tested pulsating heat pipe was mainly evaluated by thermal resistance and walltemperature. Heating copper block and cold water bath were adopted in the experimental investigations. It was found that oscillating heat pipe with filing ratio of $50 \\%$ started up earlier than that with $70 \\%$ when heating input was $1 5 9 . 4 ~ \\mathrm { W } _ { ; }$ ,however, it has similar starting up performance with filling ratio of $50 \\%$ as compared to $70 \\%$ on the condition of heat input of $2 0 5 . 4 ~ \\mathrm { W } .$ And heat pipe with filling ratio of $10 \\%$ could not start up but directly transit to dry burning.A reasonable filling ratio range of $3 5 \\% - 7 0 \\%$ was needed in order to achieve better performance,and there are different optimal filing ratios with different heating inputs -the more heating input,the higher optimal filing ratio,and vice versa.However,the dry burning appeared easily with low filling ratio, especially at very low filling ratio, such as $10 \\%$ . And higher filling ratio, such as $70 \\%$ ,resulted in higher heat transfer（dry burning）limit.With filling ratio of $70 \\%$ and inclination of $7 5 ^ { \\circ }$ oscillating heat pipe with acetone startedupwith heating input of just 24W,but for ethanol,it needed to be achieved $6 8 ~ \\mathrm { W } _ { ; }$ ,Furthermore,the start time with acetone was similar as compared to that with ethanol.For steady operating state,the heating input with acetone was about $8 0 ~ \\mathrm { W } ,$ but it transited to dry burning state when heating input was greater than l6O W. However, for ethanol, the heating input was in vicinity of $1 6 0 ~ \\mathrm { W }$ ，Furthermore, thermal resistance with acetone was lower than that with ethanol at the same heating input of $1 2 0 \\mathrm { W }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:closed loop with parallel channels,plate pulsating heat pipe,filling ratio，working fluid thermal properties, start up,heat transfer performance ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the ongoing miniaturization of electronic components it comes the need for passive,efficient thermal management within high heat flux applications.Although conventional,wicked heat pipes have believed to be sufficient solutions for many applications,their performance is limited due to their inherent operating limitations and the less-favorable form factors.An alternate solution for passive thermal management,as first intro duced by Akachi[1], is the oscillating heat pipe (OHP). The OHP is wickless and typically exists as either a serpentine-arranged tube or channel engraved on a flat plate - called a flat-plate oscillating heat pipe (FP-OHP). The OHP is partially filled with working fluids including water,ethanol,acetone and other fluids and the channel/ tube is made sufficiently small as to result in surface tension allowing formation of liquid plugs and vapor bubbles,which can achieve pressure difference between evaporator and condenser to get OHP starting up and running. Successful OHP operation occurs by sustaining non-equilibrium conditions that result from an oscillatory pressure field via the constant phase change of the internal working fluid. The ever-changing pressure field and fluid phase induces the chaotic displacement and circulation of the internal working fluid. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/86ea980946053d6b95df872b98dd95653268b67331ec320586ad1d5c33a91380.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Nomenclature</td></tr><tr><td>m</td><td>mass (kg)</td><td>Greek letters</td><td></td></tr><tr><td>m</td><td>mass flow rate (kg/s)</td><td>T</td><td>time (s)</td></tr><tr><td>t</td><td>temperature(C)</td><td>Subscripts</td><td></td></tr><tr><td>Cp</td><td>constant pressure specific heat (J/(kg:C))</td><td>e</td><td>evaporation</td></tr><tr><td>R</td><td>thermal resistance(C/W)</td><td>C</td><td>condenser</td></tr><tr><td>Q</td><td>quantity of heat transfer (W).</td><td>out</td><td>outlet of cooling water</td></tr><tr><td></td><td></td><td>in</td><td>inlet of cooling water</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theperformance (running limits[2], temperature oscillation[3],heat transfer resistance ）of an OHP is known to depend on working fluid [4-5], filling ratio [6], channel geometry,number of serpentine-arranged turns, operating orientation,heating/cooling methods[7-9] and application [1O-13]. Furthermore, the investigation was also carried on by simulation or theory.D.Yin et al [14] investigated a mathematical model that predicted the filling ratio effect on the start-up power of a one-turn OHP.Results showed that the heat input needed to start the oscillating motion in an OHP depending on the filling ratio.When the filling ratio increased, the heat input required to start up the oscillating motion increased; furthermore, there existed an upper limit.This upper limit of the filling ratio was dependent on the properties of the working fluid.Balkrishna Mehta et al[15] investigated Taylor bubble-train flows of OHP and predicted its thermal performance according to hydrodynamic characteristics,phase-change process,and so on.Hao Peng et al[16] presented an advanced, fully nonlinear thermomechanical finite-element model that can simulate the parametrically excited oscillation of the liquid slug,the temperature distribution along the two-phase flow and the heat transfer performance of OHPs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unlike the tubular OHP,theFP-OHPhasaformfactor advantageous for high heat fluxes and further miniaturization and has been the topic of numerous experimental investigations.Thompson et al[17] investigated a three-dimensional flat-plate oscillating heat pipe (3D FPOHP) charged with either water or acetone by varying heating area, cooling temperature and operating orientation.It was found that the utilization of water as the working fluid generally provided the lowest thermal resistance for all experimental conditions investigated, but - unlike acetone - resulted in more severe temperature fluctuations in the evaporator during localized heating Wang et al.[18] put forward oscillating heat pipe with parallel channels and investigated start up performance. It was found that it can decrease heat input of starting up compared with serpentine-arranged OHP. Shi et al. [19] investigated a POHP-PC charged with either ethanol or acetone by varying volume of cooling water, inclination and other factors.The results show that gravity has great influence on heat transfer performances of pulsating heat pipe,when inclination decreased, thermal resistance became larger and heat transfer limit became lower. Heating power and cooling capacity need to be matched with each other, and heat transfer limit will become higher with higher match degree,especially on the condition of inclination. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The current investigation focuses on influence of filling ratio and working fluid thermal properties on starting up and heat transferring performance of POHP-PC. The effects of working fluid (water,ethanol or acetone), filling ratio,heat input and operating orientation were investigated. Furthermore, the amplitudes and frequency of temperature oscillations on the evaporator and condenser were observed as a means to further discover the effects of the investigated experimental parameters on heat pipe operation. The following investigation provides a novel structure for application of oscillating heat pipe in electricity cooling and energy recycle, and so on. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Prototype development ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The current POHP-PC was designed to possess a channel density and configuration novel for better heat transfer performance.The primary consideration was to have a sufficiently small channel diameter for inducing capillary action for the selected working fluids. The maximum allowable hydraulic diameter for a given working fluid,Dcrit, can be found by: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { \\mathrm { c r i t } } \\leq 2 \\sqrt { \\frac { \\sigma } { \\mathrm { g } ( \\rho _ { \\mathrm { l } } - \\rho _ { \\mathrm { v } } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "With the guidance of Eq.(1),a square channel crosssection with dimensions of $1 \\times 1 ~ \\mathrm { m m } ^ { 2 }$ ，was implemented for the closed-loop channel.A total of 4O vertical channels were milled on one side of the aluminum base plate and each channel was approximately $1 5 0 ~ \\mathrm { m m }$ long.The channels were parallel and connected with two horizontal channels in order to construct closed loop with multi-cycle loops,and the channel-to-channel wall thickness was also minimized to $0 . 5 \\mathrm { m m }$ .Acharging hole( $( \\rho 3 \\ \\mathrm { m m } )$ existed on one end of POHP-PC base plate - and intersected perpendicularly to the internal ‘return-section’of the closed-loop.The heat pipe was charged by evacuating the internal volume with a vacuum pump,and then controlling the amount of working fluid entering the heat pipe with precision valves and injector. The POHP-PC was charged to filling ratios of $0 . 1 ~ - ~ 0 . 7$ with either ethanol or acetone. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experimental setup ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The visualization and thermal performance of the POHP-PC was determined using the experimental setup shown in Fig.2-where, for a given heating input, temperature was measured while the heat pipe was in either the vertical (bottom-heating) or the other inclinations for both working fluids: ethanol or acetone. Parameters describing working fluid investigated were shown in Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/594150e586a366ac5e6a19b89df3f8aebe577f8905cd55b6e72b18f88176ec6f.jpg",
+        "table_caption": [
+            "Table 1Parameters describing working fluid investigated with vacuum degree of $0 . 0 9 6 \\mathrm { M P a }$ ： "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Working fluid</td><td>p/ (Mpa)</td><td>Tsat/ (K)</td><td>P1/ (kg:m-3)</td><td>Pv (kg:m3)</td></tr><tr><td>acetone</td><td>0.004</td><td>258.25</td><td>828.13</td><td>0.109</td></tr><tr><td>ethanol</td><td>0.004</td><td>286</td><td>794.9</td><td>0.077</td></tr><tr><td>Working fluid</td><td>Hg (kJ·kg*1)</td><td>g (N·m1)</td><td>(dp/dT)/ (Pa/K)</td><td>Cp (kJ-kg1·℃-1)</td></tr><tr><td>acetone</td><td>573.12</td><td>0.029</td><td>242</td><td>2.062</td></tr><tr><td>ethanol</td><td>932.58</td><td>0.023</td><td>250</td><td>2.43</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "POHP-PC had bulk dimensions of $9 1 . 5 \\times 1 8 2 \\times 3 ~ \\mathrm { m m } ^ { 3 }$ and wasmadebyaluminumplateof $3 \\mathrm { m m }$ whichsealed with bolts. Parameters describing flat plate oscillating heat pipe investigated were shown in Table 2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1d282ccb389561115bbf5d4e614de1b3265cbdffd82e5a59d49bee379454eb0.jpg",
+        "table_caption": [
+            "Table 2Parameters describing flat plate oscillating heat pipe investigated. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Channel distance d/mm</td><td>diectonal A/mm²</td><td>Channels number</td><td>Length L/mm</td></tr><tr><td>0.5</td><td>1×1</td><td>40</td><td>150</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In all cases,the cooling area was held constant and cooling was performed on two sides while temperature measurements were collected on the top of cooling water tank.However, heating was performed on one side while temperature was collected on the opposite, insulated side. The heating area was $3 2 . 5 \\ \\mathrm { c m } ^ { 2 }$ with different heating input and heating length was held constant for all experiments at $6 5 ~ \\mathrm { m m }$ （ $( \\pm 0 . 5 ~ \\mathrm { m m } )$ . The heating condition was accomplished by utilizing a copper heating block with three bar heaters embedded along its width. The heating block had bulk dimensions of $6 5 \\times 5 0 \\times 1 5 \\mathrm { m m } ^ { 3 }$ and was held tightly against one side of the POHP-PC with couplingbolt,and thermal grease was filled between heat pipe and heating block. The lower end of heating block was $1 0 \\mathrm { m m }$ faraway from the lower end of POHP-PC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To reduce all thermal contact resistances,thermal paste was applied between all thermal-mating surfaces on the heat pipe and all heater-to-spreader gaps. Sufficient fiberglass insulation was used to encapsulate the test system to reduce heat loss to the environment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cooling was accomplished by attaching a plastic cooling water tank to positioned each sides of heat pipe, as shown in Fig.2.One end of tank was connected with water-tap,and then the cooling water flew to water pool after absorbing heat. The cooling water tank had bulk dimensions of $9 1 . 5 \\times 6 0 \\times 1 5 ~ \\mathrm { m m } ^ { 3 }$ and had bending channels for in-series flow of temperature-controlled water which was circulated. The condenser length and area was held constant for all experiments at $9 1 . 5 ~ \\mathrm { m m }$ $( \\pm 0 . 5 ~ \\mathrm { m m } )$ and $5 4 . 9 ~ \\mathrm { c m } ^ { 2 }$ ,respectively. The upper end of tank was $3 5 ~ \\mathrm { m m }$ far away from the upper end of POHPPC.For the current investigation, the inlet temperature of cooling water was controlled at about $1 1 ^ { \\circ } \\mathrm { C }$ .Atiltable testing frame was used to position the heat pipe with different inclinations including both vertical and horizontal orientation and sufficient fiberglass insulation was used to encapsulate the test frame to reduce heat loss to the environment.Heating and cooling conditions were quantified using evaporator area and condenser area. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.1,a total of 6 thermocouples (Type-T. $\\pm 0 . 5 ^ { \\circ } \\mathrm { C } )$ were used for measuring temperatures at specific location.For all experiments, the thermocouples of evaporator,condenser and inlet and outlet of cooling water were respectively numbered as: $\\mathrm { T } _ { 1 } \\mathrm { - } \\mathrm { T } _ { 2 }$ ， $\\mathrm { T } _ { 3 } \\mathrm { - } \\mathrm { T } _ { 4 }$ ， $\\mathrm { T } _ { 5 } \\mathrm { - } \\mathrm { T } _ { 6 }$ Thermocouples were held firmly in position via plexiglass plate and bolts.All temperature measurements were collected by a data acquisition unit (HP-34970A)and computer. The unit can not only show and check the real time data but also save the pulsating curves.Heat input was voltage-controlled via a variable transformer. Current and voltage can be directly indicated by ammeter and voltmeter, respectively. Power input was gradually increased step-wise(1O-50 W) and, following the input of a higher power input, sufficient time $( 5 { - } 1 0 ~ \\mathrm { m i n } )$ was allowed for temperature measurements/oscillations to achieve a steady-state. Temperature measurements were then collected for 50o-1000 s during the steady-state OHP operation.Heat input to the OHP was calculated by compensating the power input with calculated heat losses to environment. All experiments ceased when the average evaporatortemperatureexceeded $1 0 0 ^ { \\circ } \\mathrm { C } - 1 1 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/12e3702ab35e39e7a836b886a12f3c7c561c3270a262c86d5f10406ffe2d5a01.jpg",
+        "img_caption": [
+            "Fig.1 Experimental setup 1.vacuum gauge,2. faucet,3. transformer,4.thermal-couple,5.data collector,6.working fluid injection port,7.the vacuum port,8.tap water tank,9.electronic scale "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e40d3140f003d9f36d329d0357dc32e6c70e1074b45e903130045134c6f0db5.jpg",
+        "img_caption": [
+            "Fig.2 Temperature oscillations vs. time for POHP-PC charged with ethanol at filling ratio of $70 \\%$ and $50 \\%$ in vertical orientation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data processing and uncertainty of experimental data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thermal resistance and wall temperature were investigated in order to analyze operating effects of POHP-PC. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta t$ was heat transfer temperature difference of evaporator and condenser and $\\boldsymbol { \\mathcal { Q } }$ was quantity of heat transfer. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta t$ and $\\boldsymbol { \\mathcal { Q } }$ were found by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta t = t _ { \\mathrm { e } } - t _ { \\mathrm { c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = \\dot { m } C _ { \\mathrm { p } } ( t _ { \\mathrm { o u t } } - t _ { \\mathrm { i n } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { m } = \\frac { m } { \\tau }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Accuracy or uncertainty of experimental results and derivative values is influenced by many factors such as the lack of accuracy in measurement equipments and approximations in data reduction relations.In this paper, only uncertainty of measurement equipment is studied. From measurement equipment information above,standard uncertainties of thermocouples, electronic scale,and stopwatch are $0 . 5 ^ { \\circ } \\mathrm { C }$ $0 . 0 0 1 / \\sqrt { 3 } \\mathrm { k g }$ and $0 . 0 1 { \\big / } { \\sqrt { 3 } } { \\mathrm { ~ s ~ } }$ respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$R$ isa function of quantity of heat transfer, temperature of evaporator and condenser as shown below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\Delta t / Q = \\frac { \\tau \\cdot \\left( t _ { \\mathrm { e } } - t _ { \\mathrm { c } } \\right) } { C _ { \\mathrm { p } } \\cdot m \\cdot \\left( t _ { \\mathrm { o u t } } - t _ { \\mathrm { i n } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then standard uncertainties of $R$ can be calculated by the equations below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { U _ { \\mathrm { R } } = R \\cdot \\left\\{ \\begin{array} { l l } { \\displaystyle U _ { \\mathrm { t } } \\cdot \\frac { \\hat { c } \\mathrm { l n } R } { \\hat { c } t _ { \\mathrm { e } } } \\Bigg ) ^ { 2 } + \\left( U _ { \\mathrm { t } } \\cdot \\frac { \\hat { c } \\mathrm { l n } R } { \\hat { c } t _ { \\mathrm { e } } } \\right) ^ { 2 } + \\left( U _ { \\tau } \\cdot \\frac { \\hat { c } \\mathrm { l n } R } { \\hat { c } \\tau } \\right) ^ { 2 } } & \\\\ { \\displaystyle + \\left( U _ { \\mathrm { m } } \\cdot \\frac { \\hat { c } \\mathrm { l n } R } { \\hat { c } m } \\right) ^ { 2 } + \\left( U _ { \\mathrm { t } } \\cdot \\frac { \\hat { c } \\mathrm { l n } R } { \\hat { c } t _ { \\mathrm { o u t } } } \\right) ^ { 2 } + \\left( U _ { \\mathrm { t } } \\cdot \\frac { \\hat { c } \\mathrm { l n } R } { \\hat { c } t _ { \\mathrm { i n } } } \\right) ^ { 2 } } & \\\\ { = R \\cdot \\displaystyle \\sqrt { 2 \\cdot \\left( \\frac { U _ { \\mathrm { t } } } { t _ { \\mathrm { e } } - t _ { \\mathrm { c } } } \\right) ^ { 2 } + \\left( \\frac { U _ { \\tau } } { \\tau } \\right) ^ { 2 } + \\left( \\frac { U _ { \\mathrm { m } } } { m } \\right) ^ { 2 } + 2 \\cdot \\left( \\frac { U _ { \\mathrm { t } } } { t _ { \\mathrm { o u t } } } \\right) ^ { 2 } } } & \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Standard uncertainties of experimental results are shown in analysis graphs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Startupperformance   \nCase I: Influence of filling ratio In an effort to further investigate the effect of working ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "fluid and filling ratio on the POHP-PC performance, the temperature oscillations occurring in the evaporator and condenser and thermal resistance were observed.Fig.2 provide the temperature oscillations of starting up charged with ethanol at filling ratio of $70 \\%$ and $50 \\%$ in vertical orientation with different heat input, respectively. Note that in order to provide a clearer description of the temperature oscillations,evaporator thermocouples measurements were displayed.As seen in Fig.2,it resulted that oscillating heat pipe with filling ratio of $50 \\%$ started up earlier than that with $70 \\%$ when heating input was $1 5 9 . 4 \\mathrm { W }$ ,however, on the condition of heat input of 205.4 W, it has similar starting up performance with filling ratio of $50 \\%$ as compared to $70 \\%$ . It was brought by adaptation between filling ratio and heating input, that is to say, higher filling ratio needed more heating input and lower filling ratio just needed less heating input. The working fluids could absorb energy more quickly with higher heating input and lead to phase transition of working fluids,which brought coexistence of vapor bubble and liquid plug and produced pressure difference between evaporator and condenser. At higher filling ratio,oscillating heat pipe needed to be able to accumulate more energy to reach a certain superheat degree and achieved phase transition and starting up.Furthermore,lower filling ratio can promote sufficient space for vapor bubble formation and expansion to contribute to cycle running. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 provide the temperature oscillations of starting up charged with ethanol at filling ratio of $10 \\%$ and heating input of $6 8 ~ \\mathrm { ~ W ~ }$ in vertical orientation.It was found that evaporation temperature increased continuously within $1 2 0 0 ~ \\mathrm { s } .$ ,but simultaneously, cooling water temperature difference of inlet and outlet and condenser temperature remained unchanged，which indicated that heat absorbing by evaporator could not be transited from evaporator to condenser,that is to say,it achieved heat transfer limit. It was also observed that liquid working fluid became the form of steam on the condition of very low filling ratio of $10 \\%$ ，which resulted in rising sharply of evaporator pressure and blocking liquid working fluid back to evaporator. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/980a2d0b40e1ab2a2c431f8553493cddaac734b290915292259c27c916c1874e.jpg",
+        "img_caption": [
+            "Fig. 3 Temperature oscillations vs. time for POHP-PC charged with ethanol at filling ratio of $10 \\%$ and heating input of 68W in vertical orientation "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Case I:Influence of working fluid thermal properties ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 provide temperature oscillations of starting up charged with ethanol and acetone at filling ratio of $70 \\%$ and inclination of $7 5 ^ { \\circ }$ with different heat input,respectively.In order to provide a clearer description of the temperature oscillations, all thermocouples measurements with acetone were displayed in Fig. 5. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As seen in Fig.4,it was found that oscillating heat pipe with acetone and ethanol has better starting up performance with heating input of $2 4 ~ \\mathrm { W }$ and $6 8 ~ \\mathrm { W } ,$ respectively.Furthermore, the start time with acetone was similaras compared to that with ethanol.It was also observed from Fig.5 that the evaporator temperature oscillations had the same pattern compared with condenser and outlet of cooling water with temperature rises in the evaporator beingaccompanied with simultaneous, similar magnitude temperature oscillations in the condenser and outlet of cooling water. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/05d8aef64fa23a7272113eefab004d026920f6bb1cbc9de0ac7e2075a5e89889.jpg",
+        "img_caption": [
+            "Fig. 4 Temperature oscillations vs.time for POHP-PC charged with ethanol and acetone at filling ratio of $70 \\%$ and inclination of $7 5 ^ { \\circ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/95ebda73d809d7d523ebc2f0481f014c8637e48aac5272adfff5e6a04ea08377.jpg",
+        "img_caption": [
+            "Fig. 5 Temperature oscillations vs.time for POHP-PC charged with acetone at filling ratio of $70 \\%$ ,inclination of $7 5 ^ { \\circ }$ and heating input of 24W "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The starting up of oscillating heat pipe was influenced by working fluid thermal properties including surface tension,latent heat of vaporization and saturation temperature.Thermal properties of the three values of acetone were significantly lower than that of ethanol, therefore,acetone generated a phase change and nucleate boiling phenomenon more easier with relatively smaller heating input compared with ethanol, which brought out lower starting power. It was generally believed that some properties of working fluids,such as smaller latent heat of vaporization,lower boilingpoint,higher rate of pressure to temperature $( \\mathrm { d } \\mathsf { p } / \\mathrm { d } \\mathsf { T } )$ ,was beneficial to starting up for oscillating heat pipe within a reasonable filling ratio. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Heat transfer properties ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CaseI:Influence of filling ratio ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 describe the effective thermal resistance of the POHP-PC with different filling ratios( $50 \\%$ 。 $70 \\%$ and $8 5 \\%$ ）charged with ethanol at inclination of $9 0 ^ { \\circ }$ .In general,the thermal resistance decreased nonlinearly with heat input and with higher operating temperatures.The lowest thermal resistance,approximately $0 . 2 7 ^ { \\circ } \\mathrm { C } / \\mathrm { W } ,$ was achieved during all the experiments with a cooling temperature of $1 0 ^ { \\circ } \\mathrm { C }$ , bottom heating and using ethanol as the working fluid.However, there were different lowest thermal resistance with different heating input and filling ratio.For instance，the lowest thermal resistance with heat input of $1 1 0 ~ \\mathrm { ~ W ~ }$ ，approximately $0 . 4 3 ^ { \\circ } \\mathrm { C } / \\mathrm { W } ,$ was achieved with filling ratio of $50 \\%$ ,however,with heating input of 21O W, the lowest thermal resistance was $0 . 2 7 ^ { \\circ } \\mathrm { C } / \\mathrm { W }$ on the condition of $70 \\%$ ，During the experiments,the thermal resistance with filling ratio of $8 5 \\%$ were relatively higher than other conditions.This was partially due to the fact that when the heating input decreased, the working fluid of lower filling ratio started up and operated with relative less energy, that is to say, oscillating heat pipe possessed better properties during narrow energy range.And then, there was no longer reflected the heat transfer advantage with $50 \\%$ at heating input rising as high as $1 5 0 \\mathrm { W }$ ，which mainly because that more energy can be transferred by more working fluid. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When filling ratio increased to $8 5 \\%$ ，there were more working fluid resulting that liquid volume increased and vapor volume reduced, which brought that there was not enough space provided to the vaporization of the liquid and it was not conducive to formation of larger pressure difference of condenser and evaporator,at the same time, increasing of working fluid will cause the increasing of flow friction. From reasons shown above,it may be seen thathigher filling ratio, $8 5 \\%$ or more than $8 5 \\%$ ,resulted in higher thermal resistance.It was shown in Fig.6,the optimal filling ratio was $50 \\%$ during heating input of 100 $\\sim 1 5 0 \\mathrm { W } ,$ ，while thatwas $70 \\%$ for $1 5 0 \\sim 2 1 0 \\mathrm { W }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d332dccb2d20b7947982f4324c6b03b49ea9d79184805a49608223863e352180.jpg",
+        "img_caption": [
+            "Fig.6Thermal resistance vs.heating input for POHP-PC charged with ethanol at inclination of $9 0 ^ { \\circ }$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/418199dd7b3bb57b69c63c5a72afbc37a88654d519fb0d91db05c04825bc1994.jpg",
+        "img_caption": [
+            "Fig.7Thermal resistance vs.heating input for POHP-PC charged with acetone at inclination of $9 0 ^ { \\circ }$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 describe the effective thermal resistance of the POHP-PC with different filling ratios( $50 \\%$ ， $70 \\%$ and $8 5 \\%$ ）charged with acetone at inclination of $9 0 ^ { \\circ }$ .Figs. 8-11 provide temperature oscillations charged with acetone at different filling ratios,respectively.From results shown in Fig.7,it was found that it possessed similar thermal resistance trend from $3 5 \\%$ to $8 5 \\%$ as compared to that with ethanol.For instance,when filling ratio was $50 \\%$ ，the thermal resistance decreased nonlinearly with heating input increasing as high as $1 1 0 \\ \\mathrm { W } _ { : }$ ，but then,it began to rise which brought by dry burning due to high heating input.In addition, the heat transfer effect with $3 5 \\%$ was best on the condition of heating input lower than 80 W.However, the thermal resistance with the lowest filling ratio of $10 \\%$ increased continuously with heating input increasing,because that oscillating heat pipe can not start up but directly transit to dry burning.And it may be seen that the evaporation temperature of $10 \\%$ was rising sustained and slowly from results shown in Fig. 8. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In general, from results shown in Figs.6-11, it was found that steady operation of oscillating heat pipe should be within a reasonable filling ratio range of $3 5 \\%$ $70 \\%$ ，and there was an optimal point with different heating input - the more heating input, the higher optimal filling ratio,and vice versa. However, the dry burning appeared easily with low filling ratio,especially at very low filling ratio,such as $10 \\%$ . And higher filling ratio, such as $70 \\%$ ,resulted in higher heat transfer（dry burning） limit. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a0d20bc30e3c4e344f91ca1670857f4c63bfc7fc92cf42ad8d14b188060fd0c.jpg",
+        "img_caption": [
+            "Fig.8Temperature vs. time for POHP-PC charged with acetone at filling ratio of $70 \\%$ and inclination of $9 0 ^ { \\circ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e3ce52df78ded479ab38e39d3b59cb9b0372b82072bd29bc6ccf75e6f1ed907.jpg",
+        "img_caption": [
+            "Fig.9Temperature vs. time for POHP-PC charged with acetone at filling ratio of $50 \\%$ and inclination of $9 0 ^ { \\circ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3fe050d762545b68611ca5bec93c511c7760631c068974099b60907539f6a54.jpg",
+        "img_caption": [
+            "Fig.10Temperature vs. time for POHP-PC charged with acetone at filling ratio of $3 5 \\%$ and inclination of $9 0 ^ { \\circ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c47bac62090c354197cbc210e92690ddc1671d60453aed3c880013efaa03bd52.jpg",
+        "img_caption": [
+            "Fig.11Temperature vs. time for POHP-PC charged with acetone at filling ratio of $10 \\%$ and inclination of $9 0 ^ { \\circ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Case I :Influence of working fluid thermal properties ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figs.12-13 describe the effective thermal resistance of the POHP-PC with filling ratio of $70 \\%$ charged with ethanol and acetone at inclinations of $7 5 ^ { \\circ }$ and $6 0 ^ { \\circ }$ ，respectively.From the results shown in Figs.12-13,it was found that oscillating heat pipe with acetone possessed heat transfer advantage within lower heating input and ethanol was suitable for higher heating input during experiments regardless of inclinations ( $7 5 ^ { \\circ }$ and $6 0 ^ { \\circ }$ ).For instance,it was seen from Fig. 12 that oscillating heat pipe with acetone operated steadily with heating input of about $8 0 ~ \\mathrm { W }$ ，but it transited to dry burning state when heating input was greater than 16O W. However, for ethanol, oscillating heat pipe run stably with heating input in vicinity of $1 6 0 ~ \\mathrm { W }$ 、Furthermore,thermal resistance with acetone was lower as compared to ethanol with the same heating input of $1 2 0 \\mathrm { W } .$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As can be seen from Table 1, thermal properties of acetone,relative to ethanol, such as lower saturation temperature and minimum latent heat of vaporization, was conducive to the starting up and running of oscillating heat pipe,because that phase variation and pressure difference between evaporator and condenser was easily formed. Moreover, higher ratio of pressure to temperature $( \\mathrm { d } \\mathsf { p } / \\mathrm { d } \\mathsf { T } )$ indicate that larger pressure fluctuations could be brought by smaller temperature variation, which promoted heat transfer effectively. However, ethanol possessed not only higher latent heat of vaporization and saturation temperature but also higher viscosity compared with acetone,which resulted in running of oscillating heat pipe on condition of higher heating input. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/81d5feb5220e4f75f7e8b02b0b697483ef8c72fc39574eab9b49326e43606498.jpg",
+        "img_caption": [
+            "Fig.12Thermal resistance vs.heating input for POHP-PC with filling ratio of $70 \\%$ at inclination of $7 5 ^ { \\circ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c1a6f6c1f0bda4726a9bc32ca5f11ba13847311b950948673656b81e59d6574.jpg",
+        "img_caption": [
+            "Fig.13Thermal resistance vs.heating input for POHP-PC with filling ratio of $70 \\%$ and inclination of $6 0 ^ { \\circ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Concluding Remarks ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The investigated closed loop plate oscillating heat pipe was proven to eficiently manage heat fluxes and to operate successfully under experimental conditions. The conclusions are as follows. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. Oscillating heat pipe with filling ratio of $50 \\%$ started up earlier than that with $70 \\%$ when heating input was $1 5 9 . 4 ~ \\mathrm { W } _ { ; }$ ,however, on the condition of heat input of $2 0 5 . 4 ~ \\mathrm { W } ,$ it has similar starting up performance with filling ratio of $50 \\%$ as compared to $70 \\%$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2. Oscillating heat pipe with $10 \\%$ filling ratio can not start up but directly transit to dry burning. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3. With filling ratio of $70 \\%$ and inclination of $7 5 ^ { \\circ }$ ,Oscillating heat pipe with acetone started up with heating input of just $2 4 \\mathrm { W }$ ，but for ethanol,it needed to be achieved 68W,Furthermore, the start timewith acetone Was similar as compared to that with ethanol. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Oscillating heat pipe should be within a reasonable filling ratio range of $3 5 \\% - 7 0 \\%$ ,and there was an optimal point with different heating input - the more heating input. the higher optimal filling ratio,and vice versa.However, the dry burning appeared easily with low filling ratio, especially at very low filling ratio,such as $10 \\%$ .And higherfillingratio,such as $70 \\%$ ,resultedinhigherheat transfer（dry burning） limit. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5. Oscillating heat pipe with acetone operated steadily with heating input of about $8 0 ~ \\mathrm { W }$ ,butit transited to dry burning state when heating input was greater than $1 6 0 ~ \\mathrm { W }$ However, for ethanol,oscillating heat pipe run stably with heating input in vicinity of 16O W. Furthermore, thermal resistance with acetone was lower as compared to ethanol with the same heating input of $1 2 0 \\mathrm { W }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Project 51306198 supported by National Natural Science Foundation of China, Project 00921915023 supported by Organization Department of Beijing,Project NR2013K07 supported by Beijing Key Lab of Heating, Gas Supply, Ventilating and Air Conditioning Engineering and Project 331614013 supported by BeijingUniversity of Civil Engineering and Architecture are gratefully acknowledged. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]H.Akachi,US Patent No.4921041,1990   \n[2]Yang H H,Khandekar S,Groll M, Operational limit of closed loop pulsating heat pipes. Applied Thermal Engineering 2008; 28: 49-59.   \n[3]Kim S, Zhang Y, Choi J,Effects of fluctuations of heating and cooling section temperatures on performance of a pulsating heat pipe, Applied Thermal Engineering 2013; 58 (1): 42-51.   \n[4]Xue Zhh, Qu W, Experiment study on effect of inclination angles to ammonia pulsating heat pipe.Chinese Journal of Aeronautics 2014; 27(5): 1122 -1127.   \n[5]Wang XH, Zheng HC, Si MQ,Han XH, Chen GM, Experimental investigation of the influence of surfactant on the heat transfer performance of pulsating heat pipe. International Journal ofHeat and Mass Transfer 2O15;83: 586-590.   \n[6]Lin Z,Wang S, Chen J, Experimental study on effective range of miniature oscillating heat pipes.Applied Thermal Engineering 2011; 31(5): 880-886.   \n[7]Xian H ZH, Xu W J, Zhang Y N, Experimental investigations of dynamic fluid flow in oscillating heat pipe under pulse heating. Applied Thermal Engineering 2014; 88(9): 376-383.   \n[8]Han X,Ma HB, Jiao AJ,et al. Investigations on the heat transport capability of a cryogenic oscillating heat pipe and its application in achieving ultra-fast cooling rates for cell vitrification cryopreservation. Cryobiology 2008; 56: 195-203.   \n[9]Natsume K,Mito T, Yanagi N,et al. Heat transfer performance of cryogenic oscillating heat pipes for effective cooling of superconducting magnets, Cryogenics 2011; 51: 309-314.   \n10]Clement J,Wang X, Experimental investigation of pulsating heat pipe performance with regard to fuel cell cooling application.Appl. Therm.Eng.2013；50(1): 268-274.   \n[11]Rittidech S,Wannapakne S.Experimental study of the performance of a solar collector by closed-end oscillating heat pipe(CEOHP).Applied Thermal Engineering 2007; 27: 1978-1985.   \n[12]Rittidech S, Donmaung A, Kumsombut K. Experimental study of the performance of a circular tube solar collector with closed-loop oscillating heat-pipe with check valve (CLOHP/CV). Renewable Energy 2009; 34: 2234-2238.   \n[13]Nuntaphan A, Vithayasai S, Vorayos N. Use of oscillating heat pipe technique as extended surface in wire-on-tube heat exchanger for heat transfer enhancement. International Communications in Heat and Mass Transfer 2010; 37: 287-292.   \n[14]Yin D,Rajab H,Ma HB,Theoretical analysis of maximum filling ratio in an oscillating heat pipe. international Journal ofHeat and Mass Transfer 2014,74:353-357.   \n[15]Balkrishna M,Khandekar S,Taylor bubble-train flows and heat transfer in the context of Pulsating Heat Pipes. International Journal ofHeat and Mass Transfer 2O14; 79: 279-290.   \n[16]Peng H, Frank Pai P, Ma HB,Nonlinear thermomechanical finite-element modeling,analysis and characterization of multi-turn oscillating heat pipes.International Journal of Heat and Mass Transfer 2014; 69: 424-437.   \n[17]Thompson S M, Cheng P, Ma H B,An experimental investigation of a three-dimensional flat-plate oscillating heat pipe with staggered microchannels. International Journal ofHeat and Mass Transfer 2011;54:3951-3959.   \n[18]Wang Y,Li W Y, Operation performance of a closed loop pulsating heat pipe with parallel channels.Journal of Chinese Society of Power Engineering 2011, 31(4): 273- 277.   \n[19]Shi, W X,Pan,L S,Li, W Y, Experiment Study on Influence of Inclination and Cooling Condition on Heat Transfer Performance of Closed Loop Plate Pulsating Heat Pipe with Parallel Channels. Journal of Chemical Industry and Engineering 2014; 665(2): 532-537. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

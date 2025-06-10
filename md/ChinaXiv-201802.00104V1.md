@@ -1,0 +1,128 @@
+# S弯进气道优化对其内流场及性能影响研究
+
+刘 雷 宋彦萍 陈焕龙 陈 浮（哈尔滨工业大学能源科学与工程学院，哈尔滨150001)
+
+摘要：在数值研究大量附面层吸入对某半埋入式S弯进气道内部流场及气动性能影响的基础上，以ISIGHT软件为平台对其进行优化，并详细对比优化前后进气道内部流动特性及性能变化，结果表明：因吸入大量附面层内低能流体，进气道内出现流动分离，周向总压畸变和旋流畸变相对均匀进气工况均显著增加；优化后，旋流畸变和周向总压畸变分别下降约 $4 4 . 4 6 \%$ 和 $4 . 0 9 \%$ 中心线趋于前后缓急相当，扩压器前段截面面积缓慢递增，而在接近出口时急速增加，气流在此区间迅速扩压；不同厚度附面层吸入工况下，优化后进气道气动性能相比优化前均有所改善，但流动分离现象始终存在。
+
+关键词：S弯进气道；优化；附面层；总压畸变；旋流畸变中图分类号：V211.48 文献标识码：A
+
+# Investigation on Effect of S-shaped Inlet Optimization to Internal Flow Characteristic and aerodynamic performance
+
+LIU Lei, SONG Yan-Ping, CHEN Huan-Long, CHEN Fu (SchoolofEnergy Science and Engineering,Harbin Instituteof Technology,Harbin15ooo1,China)
+
+Abstract:Based on the numerical simulation of the efect of large boundary ingestion on a half flush-mounted S-duct inlet internal flow field and aerodynamic performance,optimization of the diffuser was preceded with the software ISIGHT were adopted as platform. And then aerodynamic performance and internal flow Characteristic of the prototype and the optimization are compared and show that flow separation appear in the difuser,and also the circumferential total pressure distortion and swirl distortion increase dramatically due to large boundary ingestion. After optimization,the circumferential total pressure distortion and the swirl distortion reduces about $4 4 . 4 6 \%$ and $4 . 0 9 \%$ separately. In addition,geometry of the optimization also changes a lot.The centerline tends to more modest at the entrance while rapider atthe exit.The cros-section area ascends slowly at the starting segment,but increases dramatically and results in rapid static pressre increase near the exit. Moreover,aerodynamic performance all improve after optimization in three different conditions researched in this paper while flow separation always exists.
+
+Key words: S-shaped inlet; optimization; boundary layer; total pressure distortion; swirl distortion
+
+# 0引言
+
+进气道作为推进系统的重要组成部分，在设计时，不仅要考虑在整个飞行包线内为发动机提供充足的高品质气流[1]，还要考虑其气动布局约束及隐身性能要求。近年来，S弯进气道因结构紧凑、迎风面积小、隐身性好等诸多优点，受到国内外学者广泛青睐。然而，特有的S形管沿流向逐渐扩张，存在较大的逆压梯度，进入进气道的气流很难贴附于极度弯曲的管道壁面，容易发生流动分离现象[2]。同时，由于离心力作用，两个弯道处上下壁面的压力分布刚好相反[3]；周向上，在横向逆压梯度的驱动下产生严重的二次流。因此，S弯进气道出口畸变通常较为严重，详细分析其内部流动特性并通过流动控制或优化手段有效改善其出口气流品质显得十分必要，尤其是吸入大量附面层的半埋入式S弯进气道。
+
+针对S弯进气道内部流动特性、优化及流动控制等问题，国外学者很早就开展了研究。文献[4]采用试验手段对某S形扩压管内部流动情况进行了研究，为后续数值方法验证提供了依据。文献[5]运用本征正交分解法对某S弯进气道进行多学科、多目标优化设计，结果表明气动性能及电磁性能皆考虑时，优化所得进气道气动性能提高幅度小于只考虑气动性能优化得到的结果。文献[6]利用漩涡发生器控制二次流发展，有效的改善了某S弯进气道气动性能。
+
+目前，国内学者也做了大量工作，但就研究对象而言，大多集中于常规有隔道S弯进气道、埋入式S弯进气道以及无附面层隔道超音速S弯进气道。改善进气道出口气流品质所用手段方面，大多采用扰流器[7]、合成射流[8]等流动控制方式，运用优化手段的研究相对较少。文献[9]在不考虑唇口、隔道及附面层吸入的情况下，对某C形入口的亚音速S形进气道内通道部分进行了优化设计，优化后其出口总压恢复系数系数有较大幅度提高。
+
+本文在数值研究大量附面层吸入对某半埋入式亚音速S弯进气道内部流场结构及气动性能影响的基础上，以ISIGHT优化软件为平台对其扩压器部分进行优化，并详细分析了优化对其气动性能以及流场的影响。
+
+# 1物理模型
+
+半埋入式S进气道几何模型如图1所示。计算所用网格均为结构化网格，总数约100万；入口边界给定总温总压，优化时考虑 $20 \%$ 进气道入口截面高度的附面层吸入，总压分布以CEL（CFXexpressionlanguage）方式给定，出口给定背压，湍流模型采用SST模型。
+
+![](images/dcdff94637bf57400a5f3df3dfdf4e36b799f12c96859ed1d0fc5610b84e325e.jpg)  
+图1模型及边界条件 Fig.1Model and boundary   
+图2优化流程图Fig.2Theflowchartofoptimization
+
+# 2进气道优化
+
+进气道优化即在保证扩压器进出口截面面积和中心偏距以及沿程截面形状不变的前提下，通过改变扩压器中心线及沿程截面面积分布来改变其几何结构，进而选取气动性能最佳的进气道。中心线分布由基准中心线、Hicks-Henne型函数及其系数组合而成。沿程截面由上下两部分，且都采用超椭圆描述。和中心线分布类似，沿程截面长短轴分布由原型长短轴分布、型函数及其系数组合而成。具体中心线及沿程截面长短轴分布如式（1）、式（2）所示：
+
+$$
+y ( x ) = y _ { 0 } ( x ) + \sum _ { k = 1 } ^ { 5 } c _ { k } f _ { k } ( x )
+$$
+
+$$
+b ( x ) = b _ { 0 } ( { \bf x } ) / \operatorname* { m a x } ( b _ { 0 } ( { \bf x } ) ) + \sum _ { k = 6 } ^ { 1 0 } c _ { k } f _ { ( k - 5 ) } ( x )
+$$
+
+$$
+c ( x ) = c _ { 0 } ( { \bf x } ) / \operatorname* { m a x } ( c _ { 0 } ( { \bf x } ) ) + \sum _ { k = 1 1 } ^ { 1 5 } c _ { k } f _ { ( k - 1 0 ) } ( x )
+$$
+
+$$
+f _ { k } ( x ) = \sin ^ { 2 } ( \pi x ^ { e ( k ) } ) \mathrm { ~ , ~ } e ( k ) = \lg ( 0 . 5 ) / \log ( x _ { k } )
+$$
+
+式中， $x$ 为扩压器中心线沿程横坐标相对扩压器长度的无量纲值; $y _ { 0 } ( x )$ 为基准中心线即优化前进气道中心线分布， $b _ { 0 } ( x )$ 同时为原型进气道沿程截面上半部分长、短半轴（上半部分截面长短轴相等）和下半部分长半轴分布； $c _ { 0 } ( x )$ 为原型进气道沿程截面下半部分短半轴分布。
+
+$f _ { k } ( x )$ 为Hicks-Henne 型函数，当 $k { = } 1$ 、2、3、4、5时， $x _ { k }$ 分别等于0.30、0.45、0.60、0.75、0.9。优化变量选取式（1）、式（2）中系数 $\scriptstyle { c _ { k } }$ ，共有15个；优化算法使用非支配排序遗传算法（NSGA-II）。整个优化过程在Isight优化软件平台上进行，具体优化流程如图2所示。
+
+1.由变量值 ${ \Rightarrow } { y ( x ) }$ 。 $b ( \boldsymbol { x } )$ ,c(x)  
+2.应用程序生成几何数据 Isight  
+3.建立几何模型/生成网格 组新变量值 优化软件平台4.数值仿真计算V  
+5.分析结果 $\Rightarrow$ 总压恢复系数?6.达到目标？ NY7.得最优几何模型
+
+# 3结果分析
+
+# 3.1原型分析
+
+图3为均匀进气（即不考虑附面层吸入）和 $20 \%$ 入口截面高度附面层吸入两种工况下，原型进气道对称面及出口总压及流线分布。很明显，相比均匀进气工况，吸入附面层内低能流体后进气道出口截面总压畸变程度更加严重。第1弯位置开始出现气流分离，出口形成大尺度"对涡"结构，截面底部显著低能流体覆盖约 $1 3 5 ^ { \circ }$ 扇形区域。此外，在总压畸变影响下，进气道出口出现总温畸变，且吸入 $20 \%$ 入口截面高度的附面层后总温畸变程度明显增大。综上，大量附面层吸入的半埋入式S弯进气道出口畸变相比常规S 弯进气道要严重很多，对其实施优化或流动控制显得十分必要。
+
+![](images/d007b878688a50e907f3870deca01473aadb3ba2fcfe33cb12508531c44128ee.jpg)  
+图3原型对称面及出口总温总压、流线分布
+
+Fig.3Total pressureandtreamlinedistributionofprototypeoncrosssectioninstreamwisedirection,symmetryplaneand exit
+
+# 3.2优化结果分析
+
+图4给出了优化前后进气道几何结构变化。显然，优化后中心线前半部分相比原型更加平缓，后半部分更加急促，整体上趋向于前后缓急相当。沿程截面面积方面，优化后模型仅在横坐标为 $0 { \sim } 0 . 1$ 段时相比原型略有增加，扩压能力增强；就递增速率而言，优化后扩压器在[0,0.7]区间内增加缓慢，而在[0.7,1.0]区间内明显高于原型，截面面积在此段急剧增加至出口截面面积，气流迅速扩压，呈现出“后发力"的特点，整体上与前缓后急分布差别相对较小。
+
+图4优化前后几何结构变化  
+![](images/533324ecefeecd88d31ac4b4d3a9323cd50772a2cbd2df372ccfe4933193a690.jpg)  
+Fig.4 Geometry variation before and after optimization
+
+表1为优化前后各方案下进气道总体性能参数。可以看出，吸入 $20 \%$ 入口截面高度的附面层后，原型进气道总压恢复系数相比均匀进气工况下降约$0 . 3 3 \%$ ，周向总压畸变和旋流畸变几乎成倍增加，这一点进一步验证了图3所示进气道对称面及出口总压分布。优化后，总压恢复系数略有提高，旋流畸变和周向总压畸变分别下降约 $4 4 . 4 6 \%$ 和 $4 . 0 9 \%$ 。
+
+表1各方案下进气道性能参数  
+Table 1 Performance parameter of inlet in schemes   
+
+<html><body><table><tr><td>Scheme</td><td>8</td><td>0</td><td>DC(150)</td><td>SC(150)</td></tr><tr><td>Prototype</td><td>0.00*H</td><td>0.9928</td><td>0.0033</td><td>0.0231</td></tr><tr><td>Prototype</td><td>0.20*H</td><td>0.9895</td><td>0.2725</td><td>0.0936</td></tr><tr><td>Optimization</td><td>0.20*H</td><td>0.9907</td><td>0.2614</td><td>0.0520</td></tr><tr><td>Prototype</td><td>0.25*H</td><td>0.9904</td><td>0.3751</td><td>0.0797</td></tr><tr><td>Optimization</td><td>0.25*H</td><td>0.9911</td><td>0.3519</td><td>0.0399</td></tr><tr><td>Prototype</td><td>0.30*H</td><td>0.9910</td><td>0.4791</td><td>0.0663</td></tr><tr><td>Optimization</td><td>0.30*H</td><td>0.9916</td><td>0.4585</td><td>0.0263</td></tr></table></body></html>
+
+为进一步分析进气道优化对其内部流动特性及气动性能的影响，本文对 $2 5 \%$ 和 $30 \%$ 入口截面高度附面层吸入两种工况也做了研究。由表1可知，3种不同厚度附面层吸入工况下，优化后进气道总体性能都明显优于原型， $2 5 \%$ 入口截面高度附面层吸入时，周向总压畸变和旋流畸变分别下降 $6 . 2 \%$ 和$4 9 . 9 5 \%$ ， $30 \%$ 时分别下降约 $4 . 3 \%$ 和 $6 0 . 2 5 \%$ 。同时，可以看出，随着附面层厚度增加，进气道总压恢复逐渐增加，出口总压畸变逐渐增强，旋流畸变逐渐减小。出现上述变化主要是由于本文是在假定进气道入口总温、下壁面静压及主流区总压不变的情况下，考虑附面层的增加。因此，入口附面层增厚相当于入口马赫数下降，而总压恢复系数随入口马赫数的减小而增加，旋流畸变随其减小而减小。
+
+图5为三种工况下，优化前后进气道出口总压及流线分布，显然，随着附面层厚度的增加，出口低能流体区域面积逐渐增大。优化后，出口低能流体区域面积及“对涡”尺度相比优化前都有所减小。图6给出了进气道对称面上总压及流线分布。可以看出，三种不同厚度附面层吸入工况下优化后气流分离起始位置相对于优化前都向后移动，但分离现象一致存在。因此，优化对进气道气动性能及内部流场的改善力度相对有限，进一步改善需在优化的基础上考虑吹吸气或者扰流器等流动控制手段。
+
+![](images/d3e276fdd81e9952bac8cf368cfb98e99c2ae299de89a5e24c881e3cc227b94c.jpg)  
+图5三种工况下优化前后进气道出口总压及流线分布
+
+![](images/19b22cc2f1da478c764081c52230851ee21b09b3c607f8d206487098e93a3766.jpg)  
+Fig.5 Total pressure and streamline distribution at exit in three conditions before and after optimization   
+图6三种工况下优化前后进气道对称面总压及流线分布
+
+Fig.6 Total presure and streamline distribution on symmetry plane in three conditions before and after optimization
+
+# 4结论
+
+数值研究附面层吸入对某半埋入式S弯进气道内部流场和气动性能影响的基础上，对其进行优化并详细对比优化前后结果，得出结论如下：
+
+（1）因吸入大量附面层，进气道内出现流动分离，周向总压畸变和旋流畸变相对均匀进气工况均显著增加，优化后，旋流畸变和周向总压畸变分别下降约 $4 4 . 4 6 \%$ 和 $4 . 0 9 \%$
+
+（2）优化后进气道中心线分布趋向于前后缓急相当，截面面积在 $\mathrm { { X / L } }$ 等于[0.0.7]的区间内增加缓慢，而在[0.7,1.0]区间内急剧增加，气流迅速扩压，呈现出"后发力"的特点；
+
+（3）三种不同厚度附面层吸入工况下，优化后进气道气动性能均有所改善，但流动分离现象始终存在，进一步改善需在优化的基础上考虑流动控制。
+
+# 参考文献
+
+[1]梁德旺,李博.无隔道进气道反设计及附面层排除机理分 析[J].航空学报,2005,26(3):286-289;   
+[1]LIANG Dewang,LI Bo.Reverse design of diverterless inlet and mechanism of diversion of boundary layer[J].Acta Aeronautica et Astronautica Sinica,2005,26(3):286-289;   
+[2]陈占军,王晋军.合成射流改善S形进气道流场特性的研 究[J].中国科学:技术科学,2012,42(9):1054-1060;   
+[2]CHEN Zhanjun, WANG Jinjun. Numerical investigation on synthetic jet flow control inside an S-inlet duct.Sci China Tech Sci,2012,42(9):1054-1060;   
+[3]Seddon J,Goldsmith E L.Intake aerodynamics[J].London: Blackwell Science,1999;   
+[4] Wellborn SR,Reichert B A, Okiishi TH.An experimental investigation of the flow in a diffusing S-duct [R].AIAA Paper,1992,92-3622;   
+[5]Zhang JM,Wang C F, Lum K Y. Multidisciplinary design of S-shaped intake[J].AIAA Paper,2008,2008-7060;   
+[6] Reichert B A，Wendt B J. Improving diffusing S-duct performance by secondary flow control[R].AIAA paper, 1994,94-03 65;   
+[7]任三星,李学来,郭荣伟．埋入式进气道流场控制研究[J] 航空学报,21(3),2000;   
+[7]REN Sanxing,LI Xuelai,GUO Rongwei.Flow field control on the submerged inlet[J].Acta Aeronautica et Astronautica Sinica,21(3),2000;   
+[8] 李斌斌,程克明,顾蕴松.斜出口合成射流激励器S进气道 分离流动控制[J]实验流体力学.2012,26(2):34-37;   
+[8]LI Binbin, CHENG Keming,GU Yunsong. Separation flow control of beveled synthetic jet actuator in S-shaped inlet[J]. Journal of Experiments in fluid mechanics,2012,26 (2):34-37;   
+[9] 康磊.亚音速进气道的优化设计[D].哈尔滨:哈尔滨工业 大学,2006;   
+[9] KANG Lei. Optimization design of subsonic inlet[D] Harbin: Harbin Institute of Technology, 2006;

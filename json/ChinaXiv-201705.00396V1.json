@@ -1,0 +1,306 @@
+[
+    {
+        "type": "text",
+        "text": "Dynamic magnetic characteristics of $\\mathrm { F e _ { 7 8 } S i _ { 1 3 } B _ { 9 } }$ amorphous alloy subjected to operating temperature ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aina He a,b, Anding Wanga,b,\\*, Shiqiang Yue ab, Chengliang Zhao ab, Chuntao Chang ab\\*, He Menab, Xinmin Wangab, Run-Wei Liab ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyLboratorfgetictelsdvicsgiuteftelchoodcefeb   \nZhejiang 315201,China   \nbZhejiangrcetfedcigiteteod   \nAcademy of Sciences,Ningbo 315201,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nAmorphous alloy   \nDynamic magnetic characteristic   \nCore loss   \nComplex permeability ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The operating temperature dependence of dynamic magnetic characteristics of the annealed $\\mathrm { F e _ { 7 8 } S i _ { 1 3 } B _ { 9 } }$ amorphous alloy core was systematically investigated.The core loss,magnetic induction intensity and complex permeability of the amorphous core were analyzed by means of AC $B { - } H$ loop tracer and impedance analyzer.Itis found that the operating temperature below $4 0 3 \\mathrm { K }$ has little impact on core loss when the induction (B) is less than $1 . 2 5 \\mathrm { T } .$ As $B$ becomes higher,core loss measured at high temperature becomes higher. For the cores measured at power frequency, the $B$ at $8 0 \\mathrm { { A / m } }$ and the coercivity $( H _ { \\mathrm { c } } )$ at 1 T decline slightly as the temperature goes up.Furthermore,the real part of permeability $( \\mu ^ { \\prime } )$ increases with the rise of temperature.The imaginary part of permeability $( \\mu ^ { \\prime \\prime } )$ maxima shifts to lower frequency side with increasing temperature,indicating the magnetic relaxation behavior in the sample.In addition, with the rise in the operating temperature of the annealed amorphous core,the relaxation time tends to increase. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fe-based amorphousalloys have emerged asanattractive core material for transformers,inductors and electric motors due to their excellent soft magnetic properties such as high saturation magnetization,high permeability,low coercivityand low core loss [1-4].Since the power transmission and energy conversion systems often work under the AC magnetic field with a various amplitude and frequency,it is extremely essential to study the dynamic magnetic properties of the amorphous magnetic cores. Great efforts have been devoted to describe the various factors which influence the dynamic magnetic characteristics,e.g. the thermal treatment conditions [5,6], the DC current excitation[7- 9],the non-sinusoidal excitation [1O], the AC magnetic field amplitude [11,12].However, few investigations have been done on analyzing the AC magnetic properties of ferromagnetic amorphous alloys at various operating temperature. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless,thermal consideration is one of the most critical aspects of electronics design,because of the components can be heated by external sources and their own energy losses.Inductors and transformers are often designed for significant temperature rise in order to accommodate the operating temperature or optimize cost,size,and performance.Therefore,it is important for the magnetic designer to understand the behavior of magnetic cores at elevated temperatures.Having this understanding isalso vital for selecting the best type of material for each application,and for ensuring that the magnetic device will be functionally safe at its maximum operating temperature.It is necessary to investigate the temperature dependence of dynamic magnetic characteristics of the amorphous alloy core. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper, the dynamic magnetic characteristics including magnetic induction intensity,core loss and magnetic permeability under different operating temperature in the annealed $\\mathrm { F e _ { 7 8 } S i _ { 1 3 } B _ { 9 } }$ amorphous alloy cores are systematically investigated.The research is carried out by means of complex permeability measurements as a function of two independent variables, $\\scriptstyle { \\mu = \\mu ^ { \\prime } ( f , T ) - }$ $i \\mu ^ { \\prime \\prime } ( f , T )$ ,where $f$ is the AC frequency,Tis the operating temperature and $i$ is the imaginary number. Furthermore,the relations among the magnetic relaxation frequency,relaxation time and the operating temperature are illustrated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Commercial amorphous alloy ribbon prepared by single copper rollermelt-spinningtechniquewith nominal composition $\\mathrm { F e } _ { 7 8 } \\mathrm { S i } _ { 9 } \\mathrm { B } _ { 1 3 }$ 1 $( \\mathsf { a t \\% } )$ and thickness of about $2 3 \\mu \\mathrm { m }$ was bought and cut into $1 5 \\mathrm { m m }$ wide. The as-quenched ribbon was wound automatically into the toroidal core with the inner diameter of $2 0 . 4 \\ : \\mathrm { m m }$ and the outer diameter of $3 1 . 3 \\mathrm { m m }$ .For measuring the dynamic magnetic properties of the amorphous alloy,the core samples were isothermally annealed at $6 9 3 \\mathrm { ~ K ~ }$ for $6 0 \\mathrm { m i n }$ (the optimal annealing condition） in a flowing Argon atmosphere to remove residual strain.A coating was applied then for dielectric protection and extra physical strength.The as-quenched and annealed ribbons were confirmed to be full amorphous structure by X-ray diffraction (XRD）with Cu Kα radiation.Enameled copper wire which can bear the measurement temperature were chosen for the winding coil. The operating temperature from room temperature to $4 3 3 \\mathrm { K }$ was adjusted by putting the core in a muffle furnace. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In situ measurement for the AC hysteresis loops and core loss were performed by using AC B-H loop tracer under the frequency of $5 0 \\mathrm { H z }$ .The exciting coil and searching coil are 2O turns and 2 turns,respectively. Complex permeability at a frequency range from $1 0 0 \\mathrm { H z }$ to $1 0 \\mathrm { M H z }$ of the amorphous core with 2O turns coil was in situ measured by using an impedance analyzer (Agilent 4294) equipped witha test fixture(16o47E).The amplitude of AC current was kept at constant value during the frequency sweep (with 2o1 discrete frequencies) to produce the constant amplitude of AC magnetic field on the sample. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The complex permeability spectrum,containing of frequency dependence of real and imaginary part of complex permeability, is expressed asa complexquantity havea form, $\\mu { = } \\mu ^ { \\prime } { - } i \\mu ^ { \\prime \\prime }$ . Thereal and imaginary parts of the complex permeability was calculated based on the equivalent circuit by the following relations [13-15]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu ^ { \\prime } = \\frac { 2 \\pi L _ { s } } { \\mu _ { 0 } N ^ { 2 } h \\ln \\left( \\frac { O D } { I D } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu ^ { \\prime \\prime } = \\frac { R _ { s } - R _ { 0 } } { f \\mu _ { 0 } N ^ { 2 } h \\ln \\left( \\frac { O D } { I D } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\mu ^ { \\prime }$ is the real part of the complex permeability that describes the inductive part which store the energy. $\\mu ^ { \\prime \\prime }$ is the imaginary part of the complex permeability that represents the dissipative part which contribute to energy loss. $\\mu ^ { \\prime }$ and $\\mu ^ { \\prime \\prime }$ both vary with frequency and temperature. $L _ { s }$ and $R _ { s }$ are the equivalent inductance $( H )$ and resistance $( \\Omega )$ of the core with winding. $R _ { 0 }$ is the DC resistance of enameled copper windings $( \\Omega ) . f$ is the measuring frequency $( \\mathsf { H z } ) . \\ N$ is the number of turns of windings. $h$ is the height of the toroidal core (mm). OD and $I D$ are the outer and the inner diameter of the toroidal core (mm). $\\mu _ { 0 }$ is the permeability of free space: $4 \\pi \\times 1 0 ^ { - 7 } \\left( \\mathrm { H / m } \\right)$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The AC B-H loops of the annealed $\\mathrm { F e } _ { 7 8 } \\mathrm { S i } _ { 9 } \\mathrm { B } _ { 1 3 }$ amorphous toroidal core at the frequency of $5 0 \\mathrm { H z }$ were measured under operating temperature of 343 K,373K and $4 3 3 \\mathrm { K } .$ The results are presented in Fig.1.It can be observed that the applied magnetic field $( H )$ increases with increasing operating temperature when the magnetic induction intensity (B) achieve same values.In order to gain a $B$ up to $1 . 3 5 \\mathrm { T } ,$ the applied $H$ are $1 1 5 \\ : \\mathrm { A / m }$ under $3 4 3 \\mathrm { K } , 1 4 5 \\mathrm { A } /$ m under $3 7 3 \\mathrm { K }$ and $1 8 0 \\mathrm { A } / \\mathrm { m }$ under $4 3 3 \\mathrm { K } ,$ ,respectively.Fig.1also shows that the area within the AC hysteresis loops generally increaseswith the rise in the temperature.The area enclosed by the hysteresis loops is directly related to the core loss.It has been accepted that the total core loss contains of three parts [16,17]: (1) the hysteresis loss determined by the dynamic hysteresis loops, (2） the eddy current loss caused when the lines of flux pass through the core,including electric current in it,and(3） the residual loss caused by the magnetic relaxation or the magnetic after-effect. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fe785435c45eff629a283176ad4ccd76b97390ff8195afb920e6a87465b435a.jpg",
+        "img_caption": [
+            "Fig.1.Temperature dependence of AC $B { - } H$ loopsata frequency of $f { = } 5 0 \\operatorname { H z }$ for annealed $\\mathrm { F e _ { 7 8 } S i _ { 9 } B _ { 1 3 } }$ amorphous alloy toroidal core. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since the AC hysteresis curves and core loss are very useful information from the application point, the temperature dependence of core loss at the frequency of $5 0 \\mathrm { H z }$ as a function of magnetic induction intensity are also measured.As shown in Fig.2,the influence of operating temperature on core loss is not obvious when the induction(B) is less than $1 . 2 5 \\ : \\mathrm { T }$ AsB becomes higher,core loss measured at high temperature becomes higher. Take the sample measured at $B { = } 1 . 3 5 \\mathrm { T }$ and $f { = } 5 0 \\operatorname { H z }$ for an example,the core losses are $0 . 3 3 1 \\mathrm { W / K g }$ under 343 K, $0 . 3 4 9 \\mathrm { W / K g }$ under 373 K,and $0 . 4 0 3 \\mathrm { W / K g }$ under 433 K,respectively(shown in Table 1). The $P _ { 1 . 3 5 / 5 0 }$ increased $3 4 . 5 \\%$ at $4 0 3 \\mathrm { K }$ compared with that at room temperature (293 K). It indicates the core loss of the amorphous core is sensible to the temperature when $B$ is more than $1 . 2 5 \\ : \\mathrm { T }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e27f28754d4c054f93c986d9878da02d15c0648009f02cbbd3af3d9a972dbb4.jpg",
+        "img_caption": [
+            "Fig.2.Temperature dependence of core loss at a frequency of $f { = } 5 0 \\operatorname { H z }$ as a function of magnetic induction intensity for annealed $\\mathrm { F e _ { 7 8 } S i _ { 9 } B _ { 1 3 } }$ amorphous alloy toroidal core. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/aca2938404ce6b9938db7087c9fe48d23ed449e55faa59721504d9c104bed134.jpg",
+        "table_caption": [
+            "Table 1 Magnetic properties of annealed $\\mathrm { F e _ { 7 8 } S i _ { 9 } B _ { 1 3 } }$ amorphous alloy toroidal core measured under different temperatures. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Temperature,T(K)</td><td>B80/50 (T)</td><td>Hc1/50 (A/m)</td><td>P1.35/50 (W/Kg)</td></tr><tr><td>293</td><td>1.386</td><td>4.75</td><td>0.319</td></tr><tr><td>343</td><td>1.325</td><td>4.71</td><td>0.331</td></tr><tr><td>373</td><td>1.309</td><td>4.68</td><td>0.349</td></tr><tr><td>403</td><td>1.272</td><td>4.67</td><td>0.427</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dd76fadeb3fbc3a83661654e894cee0bdb678f38cb1fe77c7a3bc398c102019.jpg",
+        "img_caption": [
+            "Fig.3.The real part $\\left( \\mu ^ { \\prime } , \\ a \\right)$ and the imaginary part $( \\mu ^ { \\prime \\prime } , \\mathsf { b } )$ of the complex permeability as a function of frequency for the annealed $\\mathrm { F e _ { 7 8 } S i _ { 9 } B _ { 1 3 } }$ amorphous alloy toroidal core at selected operating temperatures and the constant magnetic field amplitude ${ H _ { m } } { = } 0 . 1 2 \\mathrm { \\ A / m }$ 、The inset illustrates the variation of $\\mu ^ { \\prime }$ as a function of frequency from $2 \\mathrm { k H } z$ to $2 0 \\mathrm { k H z }$ at different temperatures and ${ H _ { m } } \\mathrm { { = } } 0 . 1 2 \\mathrm { { A / m } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 1 also shows the temperature dependence of the magnetic induction intensity and coercivity $( H _ { \\mathrm { c } } )$ for the annealed $\\mathrm { F e } _ { 7 8 } \\mathrm { S i } _ { 9 } \\mathrm { B } _ { 1 3 }$ amorphous core measured at the frequency of $5 0 \\mathrm { H z }$ It is observed that the $B$ at $8 0 \\mathrm { { A / m } }$ and the $H _ { \\mathrm { c } }$ at $1 \\mathrm { T }$ both decline slightly as the temperature goes up. For example, the $B _ { 8 0 / 5 0 }$ and $H _ { \\mathrm { c 1 / 5 0 } }$ only reduced $8 . 2 \\%$ and $1 . 7 \\%$ at $4 0 3 \\mathrm { K }$ compared with $2 9 3 \\mathrm { K } ,$ respectively.To keep loss low,softmagnetic coresare not operated near saturation in many applications.Here, $B _ { 8 0 / 5 0 }$ is magnetic induction intensity at $5 0 \\mathrm { H z }$ under the applied magnetic field of $8 0 \\mathrm { A } / \\mathrm { m } , H _ { c 1 / 5 0 }$ is coercivity at $5 0 \\mathrm { H z }$ under the induction of $^ { 1 \\mathrm { T } , }$ $P _ { 1 . 3 5 / 5 0 }$ is core loss at $5 0 \\mathrm { H z }$ under the induction of $1 . 3 5 \\mathrm { T } .$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the frequency dependence of complex permeability spectra measured at various operating temperatures and in the frequency range from $1 \\mathrm { k H z }$ to $1 0 \\mathrm { M H z }$ .It can be found from the complex permeability curves exhibit a typical Debye-type relaxation character.Because the real part of the complex permeability $\\left( \\mu ^ { \\prime } \\right)$ measured under low magnetic field with amplitude $H _ { \\mathrm { m } }$ $= 0 . 1 2 \\ : \\mathrm { A / m }$ ，itcan be considered as the initial permeability.In Fig.3a, the variation of $\\mu ^ { \\prime }$ with the increase of frequency can be separated into three distinct regimes:(1) remain fairly constant in a wide frequency range from low frequencies to $2 0 \\mathrm { k H z }$ (2) slowly decrease with an increase in frequency from $2 0 \\mathrm { k H z }$ to $1 0 0 \\mathrm { k H z }$ and (3) sharply fall when the frequency is higher than $1 0 0 ~ \\mathrm { k H z }$ .For the annealed $\\mathrm { F e } _ { 7 8 } \\mathrm { S i } _ { 9 } \\mathrm { B } _ { 1 3 }$ amorphous toroidal core,the variation of $\\mu ^ { \\prime }$ with frequency is attributed to the domain wall motion and the magnetic relaxation[18]. The $\\mu ^ { \\prime }$ keeps constant at low frequencies because of the domain wall are pinned and the magnetization process is associated with the reversible movements of domain wall (domain wall bulging).As frequency increases, $\\mu ^ { \\prime }$ reducing toward very low values can be attribute to the magnetic relaxation dispersion. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The variation in the imaginary part of the complex permeability $( \\mu ^ { \\prime \\prime } )$ with frequency measured at different operating temperatures is shown in Fig.3b.It is observed that the $\\mu ^ { \\prime \\prime }$ varies with increasing frequency also having three distinct regimes:(1） slowly decreaseat $f { < } 1 0 \\mathrm { k H z }$ ，(2）increase witha rise in frequency from $1 0 \\mathrm { k H z }$ to $1 \\mathrm { M H z }$ ,and(3) sharply fall when the frequency isabove $1 \\mathrm { M H z }$ The $\\mu ^ { \\prime \\prime }$ goes through maximum at a frequency about $1 \\mathrm { M H z }$ ,which is connected to the relaxation frequency of domain wall bulging designated as $f _ { \\mathrm r }$ [15].Further, it is noticed from these figures that the peaks of $\\mu ^ { \\prime \\prime }$ shift to lower frequency side with increasing temperature,indicating the magnetic relaxation process in the sample.The increase of the maxima of $\\mu ^ { \\prime \\prime }$ with elevating temperature can be explained from the increased in the resistance of the sample. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inset of Fig.3a shows the curves of $\\mu ^ { \\prime }$ verses temperature at the given frequency range from $2 \\mathrm { k H z }$ to $1 0 \\mathrm { k H z }$ .It can be clearly observed that $\\mu ^ { \\prime }$ increases with the temperature rises.In the annealed amorphous core,the permeability shift with changing temperature is relatively large.When measured at $f { = } 2 \\operatorname { k H } z$ and $H _ { \\mathrm { m } } = 0 . 1 2 \\ : \\mathrm { A / m } , \\ : \\mu ^ { \\prime }$ follows an increasing tendency from 1937 at 293K to 2536 at $4 3 3 \\mathrm { K } .$ The percentage shift of $\\mu ^ { \\prime }$ increased $1 5 \\%$ at $3 2 3 \\mathrm { K }$ $2 2 \\%$ at $3 7 3 \\mathrm { K }$ and $31 \\%$ at $4 3 3 \\mathrm { K }$ compared with room temperature,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to get a clearer visualization of relaxation processes caused by the change of the frequency and temperature,the simple construction of a Cole-Cole plot can be realized by plotting of the complex permeability in the complex plane,where each point is obtained at different frequency.The evolution of Cole-Cole plots of the complex permeability under the magnetic field amplitude ${ H _ { \\mathrm { m } } } { = } 0 . 1 2 \\ : \\mathrm { A / m }$ is depicted in Fig.4.The variation of $\\mu ^ { \\prime \\prime }$ with $\\mu ^ { \\prime }$ has been shown at different temperatures.The corresponding frequency for each point increases from right to left.The shape of plotsis temperature dependent and semicircle.The curvesattain lagercurvatureas the temperature increases.All these semicircles merge and terminate on the $\\mu ^ { \\prime }$ axisat higher frequency side.The domain wall bulging shows a clear relaxation behavior,as confirmed by the semicircles in the Cole-Cole plots. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Frequency dependence of relative quality factor (Q） for the annealed $\\mathrm { F e } _ { 7 8 } \\mathrm { S i } _ { 9 } \\mathrm { B } _ { 1 3 }$ amorphous alloy toroidal core under different temperatures has been displayed in Fig.5.Relative quality factor calculated from the loss factor (tan $\\delta _ { \\cdot }$ .tan $\\delta$ and $\\boldsymbol { Q }$ can be explained as: tan $\\delta \\mathrm { = } \\mu ^ { \\prime \\prime } / \\mu ^ { \\prime }$ ， $Q = 1 / \\tan \\delta$ 、For all the measured temperatures,the Qcurves show similar trend with the frequency.The value of Q increases with the rise in frequency showing a sharp maximum and then decreasing with the further increase in frequency. From the $Q - f$ curves,it also can been found that the value of $\\boldsymbol { Q }$ increases as the temperature rises.Highest value of Q of the annealed core was recorded at $4 3 3 \\mathrm { K }$ Generally, the energy loss is related to domain wall motion,domain wall bowing,and localized variation of the flux density.Moreover,losses of amorphous soft magnets might also arise due to the other factor:hysteresis loss, eddy current loss and residual loss. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f12e1f4af0a0e875de94158f7e060838f07768c8f1c15435ea99b804bf847ce.jpg",
+        "img_caption": [
+            "Fig.4.Evolution of Cole-Cole Plots of the complex permeability for annealed $\\mathrm { F e _ { 7 8 } S i _ { 9 } B _ { 1 3 } }$ amorphous alloy toroidal core under selected operating temperatures and the magnetic field amplitude ${ H _ { m } } \\mathrm { { = } } 0 . 1 2 \\mathrm { { A / m } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7285ebd171003a7696e105841f46914b2dcdf22996e4a109afbc369a02b71790.jpg",
+        "img_caption": [
+            "Fig.5.Frequency dependence of relative $\\boldsymbol { \\cdot } \\boldsymbol { \\mathrm { Q } }$ factor for the annealed $\\mathrm { F e } _ { 7 8 } \\mathrm { S i } _ { 9 } \\mathrm { B } _ { 1 3 }$ （204 amorphous alloy toroidal core under selected operating temperatures. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the influence of the activation energy on domain wall motion process with different frequencies.For the annealed $\\mathrm { F e } _ { 7 8 } \\mathrm { S i } _ { 9 } \\mathrm { B } _ { 1 3 }$ amorphous alloy toroidal core measured at $H _ { m }$ $= 0 . 1 2 \\ : \\mathrm { A / m }$ ,the $\\mu ^ { \\prime }$ as a function of temperature is shown in Fig.6. The $\\mu ^ { \\prime }$ increases with the increase of temperature measured at four frequencies.Activation energies of these frequencies can be gotten by using Kissinger equation as follow: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln ( \\mu ^ { \\prime } ) = \\mathrm { ~ - ~ } \\frac { E } { R T } + C o n s t\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/586e19036c08c9bcd6e877cc6f7c39f437e1fdeac74882770e94e06615a7820d.jpg",
+        "img_caption": [
+            "Fig.6.Temperature dependence of the real part of complex permeability, $\\mu ^ { \\prime }$ for the annealed $\\mathrm { F e _ { 7 8 } S i _ { 9 } B _ { 1 3 } }$ amorphous alloy toroidal core measured at different frequencies and the constant magnetic field amplitude ${ H _ { m } } { = } 0 . 1 2 \\mathrm { \\ : A / m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/21f5305d33c6fcf5c4120793eca53670d5a45a084cf48bfe3dedba8262e1b246.jpg",
+        "img_caption": [
+            "Fig.7.Kissinger plots of $\\ln ( \\mu ^ { \\prime } )$ versus $1 / T$ for the annealed $\\mathrm { F e } _ { 7 8 } \\mathrm { S i } _ { 9 } \\mathrm { B } _ { 1 3 }$ amorphous alloy toroidal core. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $R$ is the universal gas constant: $8 . 3 1 4 \\mathrm { J } / \\mathrm { m o l } / \\mathrm { K } , 1$ is theabsolute temperature.Thus $E$ can be gained from the slop of straight line indirectly. Three Kissinger plots are shown in Fig.7.The obtained activation energies $E _ { 1 }$ ， $E _ { 2 }$ and $E _ { 3 }$ measured at $2 0 \\mathrm { k H z }$ $1 0 0 ~ \\mathrm { k H z }$ and $2 0 0 ~ \\mathrm { k H z }$ are $2 . 1 4 \\mathrm { k J } / \\mathrm { m o l } , 2 . 5 9 \\mathrm { k J } / \\mathrm { m o l }$ and $3 . 0 3 \\mathrm { k J } / \\mathrm { m o l }$ respectively.This result indicates that the frequency increases the activation energies of domain wall displace.Higher activation energy for the sample with higher frequency means the domain wall motion process is required to overcome a higher energy barrier [19]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is interesting to found that the relaxation frequency $( f _ { \\mathrm { r } } )$ shifts towards lower frequency side with increasing temperature (shown in Fig.8),which can be explained as follows.The relaxation time $( \\tau _ { \\mathrm { r } } )$ has been deduced from the corresponding frequency of the peak values by using the relation $\\omega _ { \\mathrm { r } } \\tau _ { \\mathrm { r } } = 1$ ，where $\\omega _ { \\mathrm { r } } { = } 2 \\pi f _ { \\mathrm { r } } ,$ and the relaxation time ${ \\tau _ { \\mathrm { r } } } { = } 1 / \\left( 2 \\pi f _ { \\mathrm { r } } \\right)$ [20]. From Fig. 8, the $\\tau _ { \\mathrm { r } }$ is found to increase with the temperature rising.The relaxation time basically gives an estimate of the dynamics of the magnetic relaxation process occurring in the sample. Every deactivation of one magnetization mechanism results in a decrease of $\\mu ^ { \\prime }$ and an occurrence of single peak in $\\mu ^ { \\prime \\prime }$ frequency dependence.This magnetic relaxation behavior resultsin the dispersion of magnetic permeability. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4b8fc541576c2f45fd38a7354aebfb74875d1fce97c3ee787f6808619251192.jpg",
+        "img_caption": [
+            "Fig.8.Temperature dependence of Relaxation frequency and Relaxation time for the annealed $\\mathrm { F e _ { 7 8 } S i _ { 9 } B _ { 1 3 } }$ amorphous alloy toroidal core. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The influence of operating temperature on the dynamic magnetic characteristics including magnetic induction intensity,core lossand magnetic permeability of the annealed $\\mathrm { F e _ { 7 8 } S i _ { 1 3 } B _ { 9 } }$ amorphous alloy cores were systematically investigated.The AC hysteresis curves confirm that the area within the AC hysteresis loops generally increases with the rise of temperature.The influence of operating temperature on core loss is not obvious when the induction(B） is less than $1 . 2 5 \\mathrm { T } .$ As $B$ becomes higher,core loss measured at high temperature becomes bigger. The $P _ { 1 . 3 5 / 5 0 }$ increases $3 4 . 5 \\%$ at $4 0 3 \\mathrm { K }$ compared with that at room temperature (293K).For the cores measured at power frequency, the $B$ at $8 0 \\mathsf { A } /$ m and the coercivity $( H _ { \\mathrm { c } } )$ at $1 \\mathrm { T }$ decline slightlyas the temperature goes up.The representative $B _ { 8 0 / 5 0 }$ and $H _ { \\mathrm { c 1 / 5 0 } }$ only reduced $8 . 2 \\%$ and $1 . 7 \\%$ at $4 0 3 \\mathrm { K }$ compared with $2 9 3 \\mathrm { K } ,$ respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The complex permeability analysis reveals that high $\\mu ^ { \\prime }$ and low $\\mu ^ { \\prime \\prime }$ values are observed at low frequencies.The $\\mu ^ { \\prime }$ increases with the rise in temperature,and the $\\mu ^ { \\prime \\prime }$ goes through maximum at a frequency about $1 \\mathrm { M H z }$ .Further,the peaks of $\\mu ^ { \\prime \\prime }$ shift to lower frequency side with increasing temperature,indicating the magnetic relaxation process in the sample.The increase of the maxima of $\\mu ^ { \\prime \\prime }$ with elevating temperature can be explained from the increased resistance of the sample.The relaxation time is found to increase with increasing temperature. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank Shaoxiong Zhou and Wenzhi Chen for insightful discussions.The support from Qingdao Yunlu Energy Technology Co.,Ltd.is also appreciated.This work was supported by the National Scientific and Technological Support Projects no. 2013BAEO8BO1．National Natural Science Foundation of China (Grant No. 51201174).Ningbo International Cooperation Projects (2015D10022). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] R.Hasegawa, Advances in amorphous and nanocrystalline magnetic materials, JMMM 304 (2006)187-191. [2] Y. Ogawa,M. Naoe, Y. Yoshizawa, R. Hasegawa, Magnetic properties of high Febased amorphous material, JMMM 304(2006) e675-e677. [3] C.H. Hsu, Effect of uneven surface on magnetic properties of Fe-based amorphous power transformer, World Acad. Sci. Eng. Technol. 5 (2011) 873-877. [4] S. Dobák,J. Fizer, P. Kollar, Effect of a DC transverse magnetic field on the magnetization dynamics in FeCuNbSiB ribbons and derived nanostructured powder cores,J.Alloy. Compd.651 (2015)237-244. [5] C.H. Hsu, Y.H. Chang, Systematic study of low loss amorphous core transformers:design and testing,in:Proceedings of the 8th WSEAS International Conference on Instrumentation, Measurement, Circuits and Systems,2009,pp. 234-239. [6] B.Francoeur, P. Couture, Continuous-annealing method for producing a flexible, curved, soft magnetic amorphous alloy ribbon, J. Appl. Phys. 111 (2012) 07A309. [7] F. Fiorillo, DC and AC magnetization processes in soft magnetic materials, JMMM 242-245 (2002) 77-83. [8] X.Y. Wang, C.W. Lu, F. Guo, Z.C. Lu, D.R. Li, S.X. Zhou, New Fe-based amorphous compound powder cores with superior DC-bias properties and low loss characteristics, JMMM 324 (2012) 2727-2730. [9] H. Qin, Z. Zhenghou, Structure and DC superimposition characteristic of Fe7gSigB13 amorphous alloys, Rare Metal. Mater. Eng. 44 (2015) 1340-1344.   \n[10] J. Szynowski, R. Kolano, A. Kolano-Burian, L.K. Varga, Dynamic magnetic properties of the Fe-based alloys under non-sinusoidal excitation, JMMM 320 (2008) E841-E843.   \n[11] M. Carara, M.N. Baibich,R.L.Sommer,Magnetization dynamics as derived from magneto impedance measurements, J. Appl. Phys. 88 (20o0) 331.   \n[12] I. Betancourt, Magnetization dynamics of amorphous ribbons and wires studied by inductance spectroscopy, Materials 4 (2010) 37-54.   \n[13] Y. Ding, T. Qiu, X. Liu, Y. Long, Y. Chang, R. Ye, Permeability-frequency spectra of $( \\mathrm { F e _ { 1 - x } } \\mathrm { C o _ { x } } ) _ { 7 3 . 5 } \\mathrm { C u _ { 1 } N b _ { 3 } S i _ { 1 3 . 5 } B _ { 9 } }$ nanocrystalline alloys under different magnetic fields, JMMM 305 (2006) 332-335.   \n[14] J. Fuzerova,J.Fuzer, P. Kollar, R. Bures,M. Faberova, Complex permeability and core loss of soft magnetic Fe-based nanocrystalline powder cores, JMMM 345 (2013) 77-81.   \n[15] j. Fuzer, S. Dobak, P. Kollar, Magnetization dynamics of FeCuNbSiB soft magnetic ribbons and derived powder cores, J. Alloy. Comp. 628 (2015) 335-342.   \n[16] Y. Okazaki, Loss deterioration in amorphous cores for distribution transformers,JMMM160(1996)217-222.   \n[17] Daichi Azuma, Core loss in toroidal cores based on Fe-Based amorphous metglas 2605HB1 Alloy, IEEE Trans. Magn.47 (2011) 3460-3462.   \n[18] R. Valenzuela, Low-frequency magnetoimpedance: domain wall magnetization processes, Physica B 299 (2001) 280-285.   \n[19] P. Vojtanik, Magnetic relaxations in amorphous soft magnetic alloys, JMMM 304 (2006) 159-163.   \n[20] B. Ramesh, S. Ramesh, R.V. Kumar, M. Lakshmipathi Rao, AC impedance studies on LiFe ${ \\underline { { \\mathbf { \\delta \\pi } } } } _ { 5 - \\mathbf { x } } \\mathbf { M } \\mathbf { n } _ { \\mathbf { x } } 0 _ { 8 }$ ferrites, J. Alloy. Compd. 513 (2012) 289-293. ",
+        "page_idx": 4
+    }
+]

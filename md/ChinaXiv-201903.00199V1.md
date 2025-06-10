@@ -1,0 +1,153 @@
+# DOI:10.11931/guihaia.gxzw201812047
+
+# 番荔枝科（Annonaceae）传粉室类型及其演化意义
+
+成梅1,2,3，徐凤霞1,3\*
+
+（1．中国科学院华南植物园，资源保护与可持续利用重点实验室，广州510650；2.中国科学院大学，北京100049；3．广东省数字植物园重点实验室，广州510650）
+
+摘要：花部结构与传粉者协同进化是有花植物成功演化的关键原因，在番荔枝科的植物中传粉室是一个非常明显的花部结构。由于该科花瓣的大小、轮数及每轮花瓣数、花瓣间的连合方式等高度多样，导致其传粉室形态也高度多样。番荔枝科107属植物中68属报道了详细的花部结构。该文根据开花期传粉室的闭合情况将这68属的传粉室分为开放型、半闭合型和闭合型3类。其中24属具开放型传粉室；38属具半闭合型传粉室；26属具闭合型传粉室。约17属具2种或3种传粉室类型。不同传粉室类型的植物与传粉者之间具有一定的对应关系，蜂类和蝇类主要为开放型传粉室或传粉室空间较大的半闭合型和闭合型传粉室植物传粉；蓟马主要为半闭合型与闭合型传粉室植物传粉。古热带和新热带是番荔枝科植物的分布中心。分布于古热带的植物种数最多，但传粉室类型和传粉者较单一；分布于新热带的植物种数相对较少，但传粉室类型与传粉者都高度多样。已有研究表明非洲是番荔枝科植物的起源地，开放型传粉室的植物主要分布于热带非洲，普遍存在于各族早期分化的属中，并且均由小甲虫进行传粉，是该科较原始的传粉室类型。半闭合型分布于热带非洲、热带亚洲及热带美洲，闭合型传粉室主要分布于热带亚洲，这两类传粉室植物的传粉者也较多样，是番荔枝科植物中较进化的传粉室类型。
+
+关键词：番荔枝科，传粉室，类型，传粉，演化中图分类号： 文献标识码：A
+
+# Classification of pollination chamber and evolution significance of Annonaceae
+
+CHENG Mei1,2,3, XU Fengxia1, 3\* ( 1.Key Laboratory of Plant Resources Conservation Utilization, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou 510650, China; 2. University of Chinese Academy of Sciences, Beijing 100049,China; 3. Guangdong Provincial Key Laboratory ofDigital Botanical Garden, Guangzhou 510650, China ）
+
+Abstract: Floral structure co-evolution with pollinators is a key factor of the success of evolution in flowering plants. In Annonaceae,polination chamber is a characteristic feature of floral structure.As diversity of the flower size, perianth whorls,the number of petals per whorl and the connecting pattrn between petals, leading to annonaceous morphology of pollination chamber hightly diversity.The floral structure of 68 of total 107 genera in Annonaceae was reported to date. According to the closed degree of the pollination chamber during anthesis, pollnation chambers of the 68 genera were classified into three types: open type, partially closed type and tightly closed type. It suggests that 24 genera existing the open type pollination chamber; 38 genera existing the partially closed type and 26 genera existing the tightly closed type. Approximately 17 genera contain 2 or 3 types of pollination chamber. Different pollination chamber types have a correspondent relationship to different pollinators.The bees and flies mainly pollinate species with open pollination chamber, as well as pollinate species that partially closed and tightly closed chamber with larger space of chamber. The thrips mainly polinate partially closed and tightly closed species. Old-tropics and Neotropics are the distribution center of Annonaceae. The species distributed in Old-tropics are very abundant but the types of chambers and polinators are very unitary. The species distributed in Neotropics are fewer, but the types of chambers and pollnators are very diversity. Previous studies have suggested that Africa is the origin center of Annonaceae. Open pollination chamber mainly distributed in African tropics,and commonly existed in the genera of earlier differentiate,which polinated by small beetles. It was considered that open polination chamber is the ancestral trait in Annonaceae. Partially closed type distributed in African tropics,Asian tropics and American tropics,and tightly closed type mainly distributed in Asian tropics. Pollinators of both are diversity. So,the chambers of partially closed and tightly closed are more derived in Annonaceae.
+
+Key words: Annonaceae, pollination chamber, type, pollination, evolution
+
+# 1、番荔枝科概况
+
+番荔枝科（Annonaceae）是基部被子植物木兰目（Magnoliales）中较进化且物种数最多的科。根据Gu0,etal.(2017）的系统发育分为4亚科，107属，2400 多种。4个亚科分别为：蒙蒿子亚科(Anaxagoreoideae)、Ambavioideae、番荔枝亚科(Annonoideae)和 Malmeoideae。番荔枝科泛热带分布，是热带植物区系主要科之一(Kessler,1993)。
+
+番荔枝科植物为典型的两性花，雌雄异熟且雌性先熟；萼片与花瓣分化明显；花被片多2轮，少数1轮，每轮3，内轮与外轮分化明显。该科植物的传粉室（PollinationChamber)使其花部结构显著区别于其他科植物。传粉室是Gottsberger(1970）首次针对番荔枝科植物提出的，即在开花期花瓣向花中心收缩或靠合形成的一个空间结构。现存的被子植物中，肉豆蔻科（Myristicaceae)(Armstrong & Drummond,1986)、龙脑香科(Dipterocarpaceae)(Momose,et al.,1998）和天南星科（Araceae）（Young,1986）等均有类似传粉室的结构(Roubik,et al.,2005)。与其他科植物相对保守的形态结构相比，番荔枝科传粉室形态高度多样(Saunders,2010)。
+
+# 2、传粉室分类研究现状与意义
+
+花瓣的大小、轮数及每轮花瓣数、花瓣间的连合方式、花部运动等都决定传粉室的形态建成(Li,etal.,2016)，而这些性状在番荔枝科植物中高度多样，这是该科植物传粉室形态多样化的主要原因。传粉室多样性反映了番荔枝科花部形态多样性，而对复杂多样的形态结构进行归类是研究番荔枝科传粉室演化的重要前提。关于番荔枝科传粉室分类的研究非常少，目前仅有的报道是 Saunders(2010）根据形成传粉室的花瓣的形状、结合位置和结合方式的差异，将番荔枝科的传粉室分为0-VII种类型，0型开花期花瓣完全伸展不形成传粉室；I型由几乎直立的花瓣形成，花瓣边缘轻微接触；II型花瓣基部在生殖器官周围收缩形成；II型由顶端聚合的内轮花瓣组成；IV型由边缘聚合的船形内轮花瓣形成；V型由顶端开口的碗状花冠形成；VI型由顶端覆瓦状的内轮花瓣形成，在内轮花瓣基部有小开口，外轮花瓣有时向外伸展；VII型是由基部融合的花瓣或离生花瓣形成的花冠筒组成。此外，邵云云(2017）研究了番荔枝科10属12种植物的花部结构特征及其传粉生物学，认为番荔枝科传粉室与传粉者存在协同进化的关系。
+
+Saunders 对番荔枝科植物传粉室的分类细致全面，但由于番荔枝科的花部结构本就复杂多样，按照花瓣的形状和连合方式归类的各类型传粉室之间界限不明显，不同类型间形态特征明显重叠，并且8种类型散布于番荔枝科各属中。导致在进行番荔枝科花部结构的形态描述或传粉室演化的研究中不便引用。因此对番荔枝科传粉室重新分类以建立界限明显且更具概括性和更易理解的传粉室类型很有必要。
+
+据现有研究结果统计，番荔枝科107属植物中,68属具详细的花部形态描述(表1,2,3)，本文通过分析这68属植物的传粉室形态将其分为开放型、半闭合型和闭合型3类。揭示其传粉室与其传粉者和地理分布之间的联系，探讨番荔枝科传粉室的演化规律。为研究番荔枝科植物的花部结构多样性和演化提供新的数据。也可为番荔枝科的分类学、系统演化及传粉生物学提供一定的参考。
+
+开放型、半闭合型、闭合型传粉室的具体分类依据如下：
+
+（1）开放型传粉室：花瓣离生，开花期花瓣裂片向外伸展不形成空间结构，生殖器官完全暴露，没有传粉室形成。即Saunders的0型传粉室。
+
+已报道的68属中，24属具开放型传粉室（表1)。此类型的植物花相对较大，花色较鲜艳，呈红色、紫色、紫褐色或棕色。花期香味不明显或释放类似蘑菇、麝香、腐烂物或粪便的气味，花部无明显产热现象(Gottsberger,et al.,2003,Gottsberger,2012)。如大花紫玉盘（Uvaria grandiflora Roxb.）（图版1：A）、紫玉盘（U.macrophylla Roxb.）（图版1：B）。
+
+表1番荔枝科开放型传粉室类群  
+Table 1Open pollination chamber groups in Annonaceae   
+
+<html><body><table><tr><td>亚科 Subfamily</td><td>族名</td><td>属名 Tribe name Genes name</td><td>传粉昆虫 Pollinator</td><td>地理分布 Distrubition</td><td>参考文献 References</td></tr><tr><td>Anaxagoreoideae</td><td></td><td>Anaxagorea</td><td>S</td><td>tropics,central, northern America</td><td>热带亚洲、美洲中、南AsiananHeusden,992,Sers,</td></tr><tr><td>Ambavioideae</td><td></td><td>Lettowianthus</td><td></td><td>坦桑尼亚Tanzania</td><td>Van Heusden,1992, Saunders,2010</td></tr><tr><td>Ambavioideae</td><td></td><td>Mezzettia</td><td>S</td><td>马来西亚，苏门答腊、婆罗洲 Malaysia, Sumatra, Borneo</td><td>Saunders, 2012</td></tr><tr><td>Ambavioideae</td><td></td><td>Tetrameranthus</td><td>S,B</td><td>i、C伦比亚、秘鲁</td><td>VanHeusden,1992, Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Bocageeae Mkilua</td><td></td><td></td><td>非洲东部 Eastern Africa</td><td>Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Bocageeae Porcelia</td><td></td><td>M</td><td>美洲、巴拿马 America,Panama Gotsberger,1999</td><td></td></tr><tr><td>Annonoideae</td><td></td><td>Guatterieae Guatteria</td><td>S</td><td>新热带 Neotropics</td><td>Saunders,2012,Van Heusden,1992</td></tr><tr><td>Annonoideae</td><td>Duguetieae Duguetia</td><td></td><td>S,M,T</td><td>南美、非洲中西部 Northem American, central, eastern Africa</td><td>Saunders,2010,2012,Gottsberger,2012</td></tr><tr><td>Annonoideae</td><td>Annoneae Annona</td><td></td><td>S,M,F</td><td>巴西、秘鲁 Brazil, Peru</td><td>Gottsberger,2012, Saunders,2012</td></tr><tr><td>Annonoideae</td><td></td><td>Annoneae Anonidium</td><td>S</td><td>非洲Africa</td><td>Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Annoneae Asimina</td><td></td><td>S,M,B,F</td><td>美洲、加拿大America,Canada</td><td>Gtsden,2dersVa</td></tr></table></body></html>
+
+<html><body><table><tr><td>亚科 Subfamily</td><td>族名</td><td>属名 Tribe name Genes name</td><td>传粉昆虫 Pollinator</td><td>地理分布 Distrubition</td><td>参考文献 References</td></tr><tr><td>Annonoideae</td><td>Monodorea Asteranthe</td><td></td><td>一</td><td>非洲东部 Eastern Africa</td><td>Saunders,2010</td></tr><tr><td>Annonoideae</td><td>Monodorea Mischogyne</td><td></td><td>S</td><td>非洲 Africa</td><td>Saunders,2010</td></tr><tr><td>Annonoideae</td><td></td><td>Monodorea MonocyclanthusS</td><td></td><td>非洲西部 wester Africa</td><td>Saunders,2012</td></tr><tr><td>Malmeoideae</td><td>Miliuseae Polyalthia</td><td></td><td>S</td><td>热带亚洲、几内亚、澳大利亚 Asian tropics,Guinea,Australia</td><td>Van Heusden,1992, Saunders, 2010</td></tr><tr><td>Annonoideae</td><td>e Monodorea Uvariopsis</td><td></td><td>S,F</td><td>非洲Africa</td><td>Saunders,2012,Gottsberger,2012,2014</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Dielsiothamnus</td><td>S</td><td>非洲东部 Eastern Africa</td><td>Saunders, 2012</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Monanthotaxis</td><td></td><td>热带非洲、马达加斯加 African tropics,Madagascar</td><td>Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Toussaintia</td><td></td><td>非洲中部 Central Africa</td><td>Saunders, 2012</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Uvaria</td><td>S,B,C,F</td><td>马来西亚、澳大利亚</td><td>Gottsberger,2012</td></tr><tr><td>Malmeoideae</td><td>Piptostigma Sirdavidia</td><td></td><td></td><td>非洲 Africa</td><td>Guo, et al., 2017</td></tr><tr><td>Malmeoideae</td><td>Malmeeae Unonopsis</td><td></td><td>S,B</td><td>巴西中部Central Brazil</td><td>Gottsberger,2012</td></tr><tr><td>Malmeoideae</td><td></td><td>Miliuseae Huberantha</td><td></td><td>新几内亚、马来西亚 New Guinea, Malaysia</td><td>Guo,et al.,2017,Turmer& Utteridge, 2017</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Trivalvaria</td><td>一</td><td>热带亚洲 Asian tropics</td><td>Van Heusden,1997</td></tr></table></body></html>
+
+（2）半闭合型传粉室：花瓣基部收缩或顶端裂片向花中心靠合形成部分开放的空间结构。多数植物在花瓣基部形成一小孔为传粉孔，因传粉室未紧密闭合，即使在传粉孔被花瓣遮挡阶段，传粉者仍可自由进出传粉室。即 Saunders 的I、II、IV、V、VI、VII型及III型的金钩花属（Pseuduvaria）。
+
+已报道的68属中，38 属具半闭合型传粉室（表 2)。花瓣1轮或2轮(Saunders,2010)，肉质增厚，多为白色、黄色、绿色或红色。花期释放浓烈的类似果实或带刺激性的气味，多伴随产热现象(Gottsberger,et al.,2003,Gottsberger,2012,Saunders,2012)。如爪哇木（Anaxagorea javanica Blume）（图版1:C）、丝柄假鹰爪（Desmos filipes (Ridl.) Ridl.）（图版1：D）、野独活（Miliusa chunii W.T.Wang）（图版1:E）、海南暗罗（Polyalthia lauii Merr.）（图版1：F）、金钩花（Pseuduvaria trimeraW.G.Craib）（图版1：G）。
+
+表2番荔枝科半闭合型传粉室类群  
+Table 2Partially closed pollination chamber groups in Annonaceae   
+
+<html><body><table><tr><td>亚科 Subfamily</td><td>族名 Tribe name</td><td>属名 Genus name</td><td>传粉昆虫 Pollinator</td><td>地理分布 Distribution</td><td>参考文献 Reference</td></tr><tr><td></td><td></td><td></td><td></td><td>热带亚洲、美洲中部，南部</td><td></td></tr><tr><td>Anaxagoreoideae</td><td></td><td>Anaxagorea</td><td>S</td><td>America</td><td>Asian tropics,central, northern of Van Heusden, 1992, Saunders,2010</td></tr><tr><td>Ambavioideae</td><td></td><td>Cananga</td><td>S</td><td>亚洲Asian</td><td>Saunders,2012</td></tr><tr><td>Ambavioideae</td><td></td><td>Drepananthus</td><td>S</td><td>马来西亚、秘鲁 Malaysia, Peru</td><td>Saunders,2012</td></tr><tr><td>Ambavioideae</td><td></td><td>Meiocarpidium</td><td></td><td>非洲中部 Central Africa</td><td>VanHeusden9,</td></tr><tr><td>Annonoideae</td><td>Bocageeae</td><td>Cymbopetalum</td><td>S,M</td><td>墨西哥、非洲、美洲中南部 Mexico,Africa,central, northem Schatz,1985,Gottsberger,1999,2012</td><td></td></tr></table></body></html>
+
+注：S.小甲虫;M.大甲虫;C.蟑螂;T.蓟马;F.蝇类;B.蜂类；“"表示传粉者未知。引用Guo,et al.,2017 的发育系统。下同。 Note: S.Smallbeetle; M. Big beetle; C.Cockroach; T.Thrip; F.Fly; B.Bee;“-" means missing data. Phylogeny adapted from Guo, et al.,2017. The same below.
+
+<html><body><table><tr><td>亚科 Subfamily</td><td>族名 Tribe name</td><td>属名 Genus name</td><td>传粉昆虫 Pollinator</td><td>地理分布 Distribution</td><td>参考文献 Reference</td></tr><tr><td>Annonoideae</td><td>Bocageeae</td><td>Hornschuchia</td><td></td><td>巴西 Brazil</td><td>Johnson & Murray,1995</td></tr><tr><td>Annonoideae</td><td>Guatterieae</td><td>Guatteria</td><td>S</td><td>新热带 Neotropics</td><td>Saunders,2012,Van Heusden,1992</td></tr><tr><td>Annonoideae</td><td>Xylopieae</td><td>Artabotrys</td><td>S</td><td>A带非洲、亚opis,</td><td>Guo,et al.,2018</td></tr><tr><td>Annonoideae</td><td>Xylopieae</td><td>Tetrameranthus</td><td>S,T</td><td>巴西，哥伦比亚和秘鲁 Brazil,Colombia,Peru</td><td>Van Heusden,1992, Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Xylopieae</td><td>Xylopia</td><td>S,T</td><td>亚马逊、塞拉多 Amazon,</td><td>Wetber & Gtrge, 19s,</td></tr><tr><td>Annonoideae</td><td>Duguetieae</td><td>Duguetia</td><td>S,T,M</td><td>美洲、洲中acental， western Africa</td><td>Saunders,2010,2012, Gottsberger, 2012</td></tr><tr><td>Annonoideae</td><td>Duguetieae</td><td>Fusaea</td><td>M</td><td>新热带 Neotropics</td><td>Veheusde2</td></tr><tr><td>Annonoideae</td><td>Duguetieae</td><td>Letestudoxa</td><td>S</td><td>非洲 Africa</td><td>Van Heusden,1992,Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Duguetieae</td><td>PseudartabotrysS</td><td></td><td>非洲 Africa</td><td>Van Heusden,1992,Guo, et al.,2018</td></tr><tr><td>Annonoideae</td><td> Annoneae</td><td>Annona</td><td>S,M,F</td><td>巴西、秘鲁 Brazil, Peru</td><td>Gotsberger</td></tr><tr><td>Annonoideae</td><td>Annoneae</td><td>Anonidium</td><td>S</td><td>非洲 Africa</td><td>Van Heusden,1992,Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Annoneae</td><td>Disepalum</td><td></td><td>热带亚洲 Asian tropics</td><td>Li, et al., 2016</td></tr><tr><td>Annonoideae</td><td>Monodoreae</td><td>Hexalobus</td><td></td><td>热带非洲 Africa tropics</td><td>Van Heusden,1992,Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Monodoreae</td><td>Isolona</td><td>S</td><td>热带非洲、马达加斯加 Africa tropics,Madagascar</td><td>Van Heusden,1992,Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Monodoreae</td><td>Uvariodendron</td><td>S,M</td><td>eral ater of Afica</td><td>Van Heusden,1992, Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Monodoreae</td><td>Sanrafaelia</td><td></td><td>洲ra f Afica</td><td>Verdcourt, 2001</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Desmos</td><td>S</td><td>亚洲、澳大利亚 Asian,Australia Saunders,2012,Guo,et al.,2018</td><td></td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Fissistigma</td><td>S</td><td>非洲、亚洲 Africa,Asian</td><td>Saunders, 2012</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Friesodielsia</td><td>S</td><td>热带亚洲、热带非洲 Asian tropics,Africa tropics</td><td>Saunders,2012,Guo, et al.,2018</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Melodorum</td><td></td><td>亚ral</td><td>Gotse</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Monanthotaxis</td><td></td><td>A带非洲、加斯</td><td>Van Heusden,1992, Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Uvaria</td><td>S</td><td>马西s亚、澳大利亚</td><td>2ais&Ioue97</td></tr><tr><td>Malmeoideae</td><td>Piptostigmateae Annickia</td><td></td><td>一</td><td>热带非洲 Africa tropics</td><td>Van Heusden, 1992</td></tr><tr><td>Malmeoideae</td><td>Piptostigmateae Piptostigma</td><td></td><td>S</td><td>刚果、几内亚 Congo,Guinea Gotsberger,2012,Ghogue,et al.,2017</td><td></td></tr><tr><td>Malmeoideae</td><td>Piptostigmateae Brieya</td><td></td><td></td><td>刚果Congo</td><td>Ghogue, et al.,2017</td></tr><tr><td>Malmeoideae</td><td>Malmeeae</td><td>Unonopsis</td><td>S,B</td><td>巴西中部 Central Brazil</td><td>Gottsberger,2012, Gottsberger, et al.,</td></tr><tr><td>Malmeoideae</td><td>Malmeeae</td><td>Sapranthus</td><td>S,F,B</td><td>墨西哥、美洲中北部 Mexico,VanHeusden,1992</td><td>2018</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Alphonsea</td><td>S,B</td><td>central, northern of America 热带亚洲 Asian tropics</td><td>Van Heusden, 1992,Xue, et al., 2017</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Marsypopetalum</td><td></td><td>热带亚洲 Asian tropics</td><td>Van Heusden,1992,Xue, etal.,2011</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Meiogyne</td><td>S</td><td>马来西亚 Malaysia</td><td>Van Heusden,1992,Saunders,2010</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Miliusa</td><td></td><td>热带亚洲、新几内亚 Asian tropics,New Guinea</td><td>Van Heusden,1992, Saunders,2010</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Polyalthia</td><td></td><td>热s带亚洲、新几亚inea</td><td>Van Heusden,1992,Gottsberger,2012</td></tr><tr><td>Malmeoideae</td><td></td><td>Pseuduvaria</td><td>S F</td><td>亚洲、澳大利亚 Asian,Australia Gotsberger,2012,Pang,etal.,2013</td><td></td></tr></table></body></html>
+
+（3）闭合型传粉室：开花期花瓣向花中心紧密聚合或花瓣基部极度收缩形成封闭空间，在花期某个阶段传粉孔被外轮花瓣堵住使室外与室内完全隔绝，此阶段任何昆虫都不能进出传粉室。即 Saunders 的III型传粉室和ⅡI型传粉室中的鹰爪花属（Artabotrys）（图版1：H)和暗罗属（Polyalthia）的某些物种（如沙煲暗罗（P.obliqua Hook.f.& Thomson)）（邵云云，2017)。
+
+已报道的68属中，26属具闭合型传粉室（表3)。此类型植物内外轮花瓣分化明显（如银钩花属、哥纳香属、番荔枝属）（图版1：I，J，L)，或仅有一轮花瓣（皂帽花属（Dasymaschalon)）（图版1：K)，花瓣肉质增厚，白色、黄色、奶油色、绿色或棕色，花期伴随明显的产热现象(Gottsberger,2012,Saunders,2012)。
+
+表3番荔枝科闭合型传粉室类群  
+Table 3Tightly closed pollination chamber groups in Annonaceae   
+
+<html><body><table><tr><td>亚科 Subfamily</td><td>族名 Tribe name</td><td>属名 Genus name</td><td>传粉昆虫 Pollinator</td><td>地理分布 Distribution</td><td>参考文献 Reference</td></tr><tr><td>Anaxagoreoideae</td><td></td><td>Anaxagorea</td><td>S</td><td>热带亚洲、美洲中部Asian tropics,VanHeusden,992,Gotsberger,2016</td><td></td></tr><tr><td>Ambavioideae</td><td></td><td>Ambavia</td><td>S</td><td>central, America 马达加斯加Madagascar</td><td>Saunders,2010</td></tr><tr><td>Ambavioideae</td><td></td><td>Cyathocalyx</td><td>S</td><td>热带亚洲 Asian tropics</td><td> Wng &Saunders,00,aers</td></tr><tr><td>Ambavioideae</td><td></td><td>Cleistopholis</td><td>S</td><td>非洲中西部Centra etem</td><td>Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Bocageeae</td><td>Cymbopetalum S,M</td><td></td><td>墨西哥、美洲中南部 Mexico,central, northern America</td><td>Schatz,1985,Gottsberger,1999,2012</td></tr><tr><td>Annonoideae</td><td></td><td>Froesiodendron -</td><td></td><td>美洲热带 America tropics</td><td>Johnson& Murray,1995</td></tr><tr><td>Annonoideae</td><td>Bocageeae Bocageeae</td><td>Porcelia</td><td>M</td><td>美洲、巴拿马America,Panama</td><td>Gottsberger,1999</td></tr><tr><td>Annonoideae</td><td>Bocageeae</td><td>Trigynaea</td><td>T</td><td>美洲热带 America tropics</td><td>Gottsberger,1999</td></tr><tr><td>Annonoideae</td><td>Xylopieae</td><td>Artabotrys</td><td>S</td><td>热带非洲、热带亚洲</td><td>Guo, et al.,2018</td></tr><tr><td>Annonoideae</td><td>Annoneae</td><td>Annona</td><td>S,M,F</td><td>Africa tropics, Asian tropics 巴西、秘鲁 Brazil,Peru</td><td>Gottsberger,1989, Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Annoneae</td><td>Goniothalamus S,F</td><td></td><td></td><td>澳大利亚、亚洲 Australia,Asian Gottsberger,20l2,Van Heusden,1992</td></tr><tr><td>Annonoideae</td><td>Guatterieae</td><td>Guatteria</td><td>S</td><td>新热带 Neotropics</td><td>Saunders,2012,Van Heusden,1992</td></tr><tr><td>Annonoideae</td><td>Annoneae</td><td>Neostenanthera</td><td></td><td>非洲中西部 Central, westem</td><td>Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Annoneae</td><td>Disepalum</td><td></td><td>Africa 热带亚洲 Asian tropics</td><td>Li, et al.,2016</td></tr><tr><td>Annonoideae</td><td>Monodoreae Monodora</td><td></td><td>F</td><td>热带非洲 Africa tropics</td><td>Saunders,2012</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Dasymaschalon S</td><td></td><td>热带亚洲 Asian tropics</td><td>Saunders,2010,2012,Guo, et al.,2018</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Friesodielsia</td><td>S</td><td>热带亚洲、热带非洲 Asian tropics,Africa tropics</td><td>Saunders,2012, Guo,et al.,2018</td></tr><tr><td>Annonoideae</td><td>Uvarieae</td><td>Mitrella</td><td>S</td><td>亚洲、新几内亚 Asian,New</td><td>Saunders,2010</td></tr><tr><td>Malmeoideae</td><td>Malmeeae</td><td>Bocageopsis</td><td>T</td><td>亚马逊Amazon</td><td>Gottsberger,et al.,2003</td></tr><tr><td>Malmeoideae</td><td>Malmeeae</td><td>Oxandra</td><td>S,T</td><td>亚马逊、巴西 Amazon, Brazil</td><td>Gottsberger,2012</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Mitrephora</td><td>S</td><td>热带亚洲 Asian tropics</td><td>张勇梅,2014</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Orophea</td><td>T</td><td>热带亚洲 Asian tropics</td><td>Van Heusden, 1992</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Pseuduvaria</td><td>F</td><td>亚洲、澳大利亚</td><td>Pang, et al.,2013, Gottsberger,2012</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Popowia</td><td>T</td><td>热带亚洲、新几内亚 Asian, New Guinea</td><td>Gottsberger, et al.,2003</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Polyalthia</td><td>S</td><td>热带亚洲、新几亚uinea</td><td>Van Heusden,1992,Gottsberger,2012</td></tr><tr><td>Malmeoideae</td><td>Miliuseae</td><td>Trivalvaria</td><td></td><td>热带亚洲 Asian tropics</td><td>Van Heusden, 1997</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3、传粉室功能
+
+传粉室对吸引传粉者提高植物传粉效率具有非常重要的作用，已证实的传粉室功能如下：（1）吸引传粉者并将其留在传粉室内。番荔枝科植物的花瓣在开花期产生气味并通过产热作用促进气味散发帮助传粉者定位花朵位置。此外部分甲虫蓟马等昆虫怕光，传粉室阴暗，可为其提供温暖安全的避难所。传粉者在此聚集、交配与产卵且可取食肉质花瓣、花粉、柱头粘液和花蜜(Gottsberger,1999,2012)。因此传粉室可让传粉者在花室内停留数小时至数天，直至花药开裂传粉者才带着满身花粉离开(Gottsberger,1989)。（2）选择有效传粉者。由于特定的花部形态和食物报酬，只有像甲虫和蓟马这样体型较小的昆虫才能通过尺寸较小的传粉孔进入花内，通过这样的机制可选择性筛选访花者，阻止“无效"传粉者进入花内。保证传粉效率的同时避免植物资源浪费和生殖器官损伤(Gotsberger,1999)。（3）通过花粉贴现和传粉者陷阱等机制提高传粉效率。花粉贴现即雄花期释放的花粉除了传粉者带走一小部分外，大部分掉落在传粉室内，当有新的传粉者进入时又可以带走一部分，大大增加传粉量且避免花粉资源的浪费(Saunders,2010,Gotsberger,2012)。传粉者陷阱是指通过传粉室闭合将传粉昆虫留在花内直到传粉完成才释放其离开的花或花序构成的结构(Lau,etal.,2017)。在番荔枝科某些植物中，原本闭合的传粉室会在前雌花期外轮花瓣打开，露出传粉孔便于传粉昆虫进入，之后花瓣再次闭合挡住传粉孔，使传粉者被完全困在传粉室内，直到雄蕊开裂花药释放且花瓣从花梗上脱落后传粉者才携带满身花粉离开(Gottsberger&Webber,2018)。（4）自身机械保护，肉质增厚的花瓣或多或少地覆盖生殖器官，不仅保护了花器官免遭其他昆虫的啃食同时也保护了雌雄蕊的完整(邵云云,2017)。
+
+Plate IPollination chamber's morphology of different types in Annonaceae注：A，B.开放型传粉室。A.大花紫玉盘；B.紫玉盘； $\mathbf { C - G }$ 半闭合型传粉室。C.爪哇木；D.丝柄假鹰爪，去掉一个外轮花瓣；E.野独活；F．海南暗罗；G．金钩花； $\scriptstyle \mathbf { H - L }$ 闭合型传粉室。H.毛叶鹰爪；I．银钩花；J.景洪哥纳香；K.喙果皂帽花；L.山刺番荔枝。
+
+![](images/bf37a6ccff66790a641150066cd15014db334adc824b47cc591ef32e98b881a5.jpg)  
+图版I番荔枝科不同类型的传粉室形态
+
+Note: Floral diversity in Annonaceae: the pollination chamber's morphology of different types.A,B. Open type pollination chamber.A. Uvaria grandiflora Roxb.; B. U. macrophylla Roxb.; C-G.Partially closed type pollination chamber. C.Anaxagorea javanica Blume; D.Desmos filipes (Ridl.) Ridl. One of the inner petals were removed; E.Miliusa chuniiW.T.Wang;F.Polyalthia lauiMerr.; G.Pseuduvaria trimera W.G.Craib; H-L. Tightly closed type pollnation chamber.H.Artabotrys pilosus Mer.& Chun; I. Mitrephora thorelii Pierre; J. Goniothalamus cheliensis Hu; K.Dasymaschalon rostratum Mer.& Chun; L. Annona montana Macfad.
+
+# 4、番荔枝科传粉室与传粉者和地理分布的关系
+
+# 4.1、传粉室类型与植物的系统演化
+
+已报道的68属植物中，24属具开放型传粉室（表1)；38属具半闭合型传粉室（表2)；26 属具闭合型传粉室(表3)。其中17属具2种或3种传粉室类型。根据Guo,etal.(2017）的系统发育研究，番荔枝科共4亚科15族，最原始的蒙蒿子亚科3类传粉室均有；在 Subfam.Ambavioideae中，3种类型传粉室在各属中独立演化，其中较早分化的Tetrameranthus 和Lettowianthus 均为开放型传粉室(Van Heusden,1992,Saunders,2010,2012)，其它7属中3类传粉室散乱分布。在 Subfam.Annonoideae 的7族中，Tribe Bocageeae 的 Mkilua 最早分化，具开放型传粉室；与其亲缘关系最近的TribeGuatterieae 也具开放型传粉室。在进一步分化的族（Annoneae，Monodoreae，Uvarieae）中，各族最早分化的属内均具开放型传粉室（图1)。较晚分化出的 Subfam.Malmeoideae 包含8族48属，但该亚科系统发育支持率较低，花部形态数据缺乏。研究较为集中的TribeMiliuseae，3类传粉室均存在，但开放型传粉室较少，主要以半闭合型和闭合型传粉室为主(Van Heusden,1992,1997,Saunders,2010,Gottsberger,2012)（图1)。可见，将番荔枝科的传粉室归类为开放型、半闭合型与闭合型3类，其演化规律与该科系统演化相关。而按照 Saunders 将番荔枝科传粉室分为8类的方法，也揭示了开放型传粉室（即 Type0）均在早期分化的分支中存在，但8种传粉室类型太过繁杂且仅从形态学水平上无法直观地揭示其它7类（TypeI-VII）的演化规律及其与系统演化的相关性。
+
+![](images/c623e426a59fe9dc997280156f36dfc475e62b5a3b3d3287d455438384466f33.jpg)
+
+注：根据Li&Gilbert,2013 该科在中国分布有24属，图中标出了22属的中文名。剩余的林冠木属和娄林果属分别被并入紫玉盘属和番荔枝属中。分类系统引用Guo,etal.,2017。
+
+Note:Acorrding to Flora of China,the family distributed 24 genera in China. There noted Chinese names of 22 genera. Besides, Cyathostemma and Rollinia were correspondingly transferred to Uvaria and Annona. Phylogeny adapted from Guo, et al., 2017.
+
+Fig.1Different types of pollination chamber in Annonaceae
+
+# 4.2、传粉室类型与植物的地理分布
+
+具开放型传粉室的24属，其中16属主要分布于非洲、新几内亚、马达加斯加和马来西亚，根据 Takhtajan(1986）世界植物区系划分均属于古热带植物区系。其余8属分布于新热带（巴西、秘鲁、哥伦比亚、美洲中部和南部）和澳大利亚植物区系（表1)。
+
+具半闭合型传粉室的38属中，23 属主要分布于古热带（非洲、热带亚洲、刚果、几内亚、马达加斯加)，其余15属分布于新热带（美洲中部和南部、墨西哥、马来西亚、巴西、秘鲁、亚马逊）和澳大利亚(表2)。
+
+具闭合型传粉室的26属中，16属主要分布于古热带（非洲、热带亚洲、新几内亚），8属主要分布于新热带(墨西哥、美洲中部和南部、巴拿马、巴西、秘鲁、南美热带)。Pseuduvaria和Cymbopetalum 横跨两个区系，前者分布于古热带和澳大利亚，后者分布于古热带和新热带（表3)。
+
+综上所述，番荔枝科植物传粉室类型与其地理分布相关。具开放型传粉室的植物主要分布于热带非洲（约占具开放型传粉室植物总属数的一半）（表1)，具闭合型传粉室的植物主要分布于热带亚洲（约占具闭合型植物总属数的一半）（表3)。而具半闭合型传粉室的属分布较广且物种数最多，在热带非洲、热带亚洲和热带美洲均有分布（表2)。此外，17属同时具2种或3种传粉室类型，蒙蒿子属、番荔枝属、Guatteria 和暗罗属三种类型的传粉室均有，且前三个属都主要分布于新热带。
+
+# 4.3、传粉室类型与传粉者
+
+番荔枝科传粉者多样，小甲虫、大甲虫、蓟马、蝇类、蜂类和蟑螂等皆为有效传粉者。已知传粉者的42属植物中，小甲虫为有效传粉者的有32属，是该科最主要的传粉者，存在于各类型传粉室中；蜂类和蝇类为有效传粉者的分别有5属和8属，主要存在于开放型传粉室的植物中；蓟马为有效传粉者的有8属，主要存在于半闭合和闭合型传粉室植物中。结果表明，番荔枝科不同传粉室类型的植物与其传粉者具有一定的对应关系。在早期分化的蒙蒿子亚科和Ambavioideae 植物均只由小甲虫传粉（Tetrameranthus 除外)，其它传粉者均在较晚分化的番荔枝亚科和Malmeoideae 中出现，其中大甲虫主要为番荔枝亚科植物传粉，蟑螂仅为紫玉盘属植物传粉。此外，传粉者多样性与植物的地理分布也有联系，分布于古热带的植物在同一属内的只存在一种传粉者，多数由小甲虫传粉，少数由大甲虫（Piptostigma、Uvariodendron、Porcelia、Fusaea）或蓟马（Popowia、Trigynaea、Bocageopsis）传粉（表1,2,3)。相反，分布于新热带的植物传粉者较多样，即使同属植物内亦具多种传粉者，如番荔枝属同时具小甲虫、大甲虫和蝇类三种传粉者（表2)。并且分布于不同地区的同属植物，其传粉者也会出现分化，例如在 Sapranthus 植物中，分布于美洲中部的主要由小甲虫和蜂类传粉，而分布于美洲北部和墨西哥的主要由蝇类传粉(Van Heusden,1992)。
+
+# 5、结论
+
+根据开花期传粉室形态将番荔枝科传粉室分为3类，开放型（24属)；半闭合型（38属）和闭合型（26属)。开放型传粉室植物花瓣相对较大较薄，而半闭合型和闭合型传粉室的植物花瓣尺寸相对较小且多肉质增厚，并伴随明显的产热现象。不同传粉室类型的植物对传粉者具有一定的选择效应，蜂类和蝇类主要为开放型传粉室的植物传粉；蓟马主要为半闭合和闭合型传粉室植物传粉。分布于古热带的植物种数最多，但传粉室类型和传粉者较单一；分布于新热带的植物种数相对较少，但传粉室类型与传粉者都高度多样。3类传粉室中半闭合型传粉室种数最多，分布最广。具开放型传粉室的植物主要分布于热带非洲，普遍存在于各族早期分化的属中，并且均由小甲虫传粉，是该科较原始的传粉室类型。半闭合型分布于热带非洲、热带亚洲及热带美洲，闭合型传粉室主要分布于热带亚洲，二者传粉者都较多样，是较进化的传粉室类型。
+
+致谢：本文图版中的所有图片皆由中科院华南植物园的邵云云提供，在此表示诚挚的感谢。
+
+# 参考文献
+
+ARMSTRONG JE，DRUMMOND BA，1986.Floral biology of Myristica fragrans Houtt. (Myristicaceae), the nutmeg of commerce [J]. Biotropica, 18(1): 32-38.   
+DEROIN T, BIDAULT E, 2017. Floral anatomy of Pseudartabotrys Pellgrin (Annonaceae), a monospecific genus endemic to Gabon [J].Adansonia, 39(2): 111-123.   
+GHOGUE JP, SONKE B, COUVREUR TLP, 2017. Taxonomic revision of the African genera Brieya and Piptostigma (Annonaceae) [J]. Plant Ecol Evol, 150(2): 173-216.   
+GOTTSBERGER G, 2016. The reproductive biology of the early-divergent genus Anaxagorea (Annonaceae),and its significance for the evolutionary development of the family [J].Acta Bot Brasil, 30(2): 313-325.   
+GOTTSBERGER G, GOTTSBERGER IS,WEBBER AC,et al., 2018.Populations of Unonopsis guatterioides (Annonaceae） in Amazonas and Minas Gerais, Brazil, potentially represent different species: Floral scent, flower characters and pollinators revisited [J]. Biochem Syst Ecol, 78(78): 17-20.   
+GOTTSBERGER G，WEBBER AC, 2018. Nutritious tissue in petals of Annonaceae and its function in pollination by scarab beetles [J]. Acta Bot Brasilica, 32(2): 279-286.   
+GOTTSBERGER IS,GOTTSBERGER G,WEBBER AC,2003.Morphological and functional flower characteristics of new and old world Annonaceae with respect to their mode of pollination [J]. Taxon, 52(2): 701-718.   
+GUO X，TANG CC， THOMAS DC，et al.， 2017. A mega-phylogeny of the Annonaceae: taxonomic placement of five enigmatic genera and support for a new tribe, Phoenicantheae [J]. Sci Rep, 7(1): 7323.   
+GUO X, THOMAS DC, SAUNDERS RMK,2018. Organ homologies and perianth evolution in the Dasymaschalon alliance (Annonaceae): inner petal loss and its functional consequences [J]. Front Plant Sci, 9: 174.   
+JOHNSON DM， MURRAY NA， 1995. Synopsis of the tribe Bocageeae (Annonaceae)， with revisions of Cardiopetalum, Froesiodendron, Trigynaea, Bocagea,and Hornschuchia [J]. Brittonia, 47(3): 248-319.   
+KUBITZKI K, 1993. The families and genera of vascular plants[M]// Kesser, PJA. Annonaceae: Flowering plants dicotyledons: Magnoliid, Hamamelid and Caryophyllid families. Berlin: Springer: 63-158.   
+LAU JYY, Guo X, Pang CC, et al., 2017. Time-dependent trapping of pollinators driven by the alignment of floral phenology with insect circadian rhythms [J]. Front Pl Sci, 8: 11-19.   
+LI BT,GILBERT MG. 2013. Annonaceae [M] // Flora of China editorial committee, Flora of China: Vol 19. Beijing: Sci & Mo Bot Gard: 672-713.   
+LI PS，PANG CC， SAUNDERS RMK， 2016. Contrasting pollination ecology of Disepalum species (Annonaceae): evolutionary loss of the floral chamber and partial breakdown of protogyny associated with a shift in pollination system [J]. Bot J Linn Soc,182(3): 708-718.   
+MMOOSE K， NAGAMITSU T， 1998. Thrips cross-polination of Popowia pisocarpa (Annonaceae) in a lowland dipterocarp forest in Sarawak [J]. Biotropica, 30(3): 444-448.   
+NAGAMITSU T, INOUE T, 1997. Cockroach pollination and breeding system of Uvaria elmeri (Annonaceae) in a lowland mixed-dipterocarp forest in Sarawak [J]. Amer J Bot, 84(2): 208-213.   
+PANG CC, SCHARASCHKIN T, SU YCF, et al.， 2013. Functional monoecy due to delayed anther dehiscence: a novel mechanism in Pseuduvaria mulgraveana (Annonaceae)[J]. Plos One,8(3): e59951.   
+ROUBIK DW, SAKAI S,KARIM A，2005.Pollination ecology and the rain forest [M] // ROUBIK DW. Pollination ecology and the rain forest. New York: Springer: 174.   
+SAUNDERS RMK, 2012. The diversity and evolution of polination systems in Annonaceae [J]. Bot JLinn Soc, 169(1): 222-224.   
+SAUNDERS RMK, 2010. Floral evolution in the Annonaceae: hypotheses of homeotic mutations and functional convergence [J]. Biol Rev Camb Phil Soc, 85(3): 571-591.   
+SCHATZ GE, 1985.A new Cymbopetalum (Annonaceae） from Costa Rica and Panama with observations on natural hybridization [J]. Ann Mo Bot Gard, 72(3): 535-538.   
+SHAO YY, 2O17. Structural characters of flowers in selected Annonaceae species and their adaptations to pollination.Beijing:Univ Chin Acad Sci.[邵云云,2017.番荔枝科几种植 物花部结构特征及其传粉适应．北京：中国科学院大学.]   
+TAKHTAJAN A,1986.Floristic regions of the world [J]. Science, 236(4797): 100.   
+THOMAS AL,1981. Ultrastructural characters of the polen grains of African Annonaceae and their significance for the phylogeny of primitive Angiosperms [J]. Pollen et Spores, 23: 5-36.   
+TURNER IM, UTTERIDGE TMA, 2017. Annonaceae in the Western Pacific: geographic patterns and four new species [J]. Eur J Taxon, 339: 1-44.   
+VAN HEUSDEN ECH, 1992. Flowers of Annonaceae: Morphology, classification and evolution (Blumea Supplement 7) [M]. Leiden: Rijksherbarium: 1-218.   
+VAN HEUSDEN ECH, 1997. Revision of the southeast Asian genus Trivalvaria (Annonaceae) [J]. Nord J Bot, 17(2): 169-180.   
+VERDCOURT B, 2001. The Fruit of Sanrafaelia rufonammari Verdc. (Annonaceae)[J]. Kew Bull,   
+56(3): 755-757.   
+WANG RJ, SAUNDERS RMK, 2006. The genus Cyathocalyx (Annonaceae) in the Philippines [J]. Syst Bot, 31(2): 285-297.   
+WALKER JW,1971. Contributions to the polen morphology and phylogeny of the Annonaceae. Annonaceae. I. Grana, 11(1): 45-54.   
+WEBBER AC，GOTTSBERGER G，1995.Floral biology and polination of Bocageopsis multiflora and Oxandra euneura in Central Amazonia, with remarks on the evolution of stamens in Annonaceae [J]. Feddes Repertorium, 106(5-8): 515-524.   
+XUE B, SHAO YY, SAUNDERS RMK, et al., 2017. Alphonsea glandulosa (Annonaceae), a new species from Yunnan, China [J].Plos One,12(2): e0170107.   
+XUE B，SU YCF，MOLS JB,et al.，2011. Further fragmentation of the polyphyletic genus Polyalthia (Annonaceae): molecular phylogenetic support for a broader delimitation of Marsypopetalum [J]. Syst Biodivers, 9(1): 17-26.   
+YANG GF, LIU Y, XU FX, 2013. Pollen morphology of Melodorum fruticosum Lour.[J]. Plant Sci J,31(05): 439-444[阳桂芳，刘永，徐凤霞,2013.美乐多（Melodorum fruticosum Lour.）花粉形态观察[J]．植物科学学报,31(05):439-444.]   
+YOUNG HJ, 1986. Beetle pollination of Dieffenbachia longispatha (Araceae) [J]. Amer J Bot, 73(6): 931-944.   
+ZHANG YM, 2014. Pollination biology and structure of related floral organs of Mitrephora tomentosa (Annonaceae) Beijing:Univ Chin Acad Sci.[张勇梅,2014．银钩花（番荔枝 科）传粉生物学及相关花部结构特征研究．北京：中国科学院大学.]

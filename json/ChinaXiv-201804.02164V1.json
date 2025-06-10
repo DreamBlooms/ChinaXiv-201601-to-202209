@@ -1,0 +1,636 @@
+[
+    {
+        "type": "text",
+        "text": "基于分解和多策略变异的多目标差分进化算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "童旅杨a，董明刚a,b，敬超ab ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(桂林理工大学 a.信息科学与工程学院;b.广西嵌入式技术与智能系统重点实验室，广西 桂林 541004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：差分进化是一种有效的优化技术，已成功用于多目标优化问题。但也存在Pareto最优集合的收敛慢和多样性差等问题。针对上述不足，提出了一种基于分解和多策略变异的多目标差分进化算法(MODE/DMSM)。该算法利用基于分解的方法将多目标优化问题分解为多个单目标优化问题；通过高效的非支配排序方法选择具有良好收敛性和多样性的解来指导差分进化过程；采用了多策略变异方法来平衡进化过程中收敛性和多样性。在ZDT和DTLZ的10个测试函数上的仿真结果表明，本文算法在Parato最优集合的收敛性和多样性优于其他六种代表性多目标优化算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多目标优化；差分进化；分解；多策略变异中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.01.0028",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multiobjective differential evolution algorithm based on decomposition and multi-strategy mutation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tong Lyuyanga, Dong Mingganga, bt, Jing Chaoa, b (a.ColegeofInformation Science&Engineering,b.GuangxiKeyLaboratoryofEmbedded Technology&IntellgentSystem, Guilin University of Technology,Guilin Guangxi 5410o4, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Diffrential evolution algorithm is an eficientoptimization technique that has been sucesfullyappliedto multiobjectiveoptimizationproblems.However,there arealso somedefects,i.e.the slowconvergenceand poordiversityof thePareto optimal set.Addressng these issues,this paper presentedamultiobjectivediferential evolution algorithmbasedon decomposition and mult-strategy mutation (MODE/DMSM).MODE/DMSM utilized the decomposition-based approach to decomposea multiobjective optimization problem into multiple single-objective optimization problems.Moreover, MODE/DMSMadopted theefficientnon-dominated sorting approach to select solutions which have both good convergence and diversity to guide thediferential evolutionary processEventually,MODE/DMSM employedthe multi-strategy mutation approachtobalance theconvergenceand diversity in the evolutionaryprocess.Theresultsof simulations on10 testfunctions of ZDT and DTLZ show that MODE/DMSM outperforms than the other six representative multiobjective optimization algorithms in terms of the good convergence and diversity of the Pareto optimal set. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: multiobjective optimization; diferential evolution; decomposition; multi-strategy mutation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在优化问题中存在同时需要优化两个或者多个互相冲突的目标问题，这类问题称为多目标优化问题[1](multiobjectiveoptimizationproblem,MOP)。多目标问题没有单个最优解，其最优解是一个Pareto 解集。Pareto 解集的收敛性和多样性是衡量多目标算法的重要指标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多目标进化算法(multiobjective evolutionaryalgorithms,MOEA)是基于种群模拟生物进化全局优化算法，已经广泛应用解决多目标问题。当前多目标进化算法主要分为三类：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a）基于Pareto占优的多目标进化算法采用Pareto支配来  \n选择非支配解，如NSGAII[2]和SPEA2[3]。b)基于评估指标的多目标进化算法采用某种评估指标来选  \n择非支配解，如IBEA[4]和HypE[5]。c)基于分解技术的多目标进化算法将多目标问题分解成一  \n组单目标优化问题。如 Zhang 和Li提出了一种基于分解的多  \n目标进化(MOEA/D)算法[6，该算法将多目标问题分解成多个单  \n目标问题来求解，然后用基因遗传算法(geneticalgorithm，GA)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "求解这些单目标问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "差分进化算法[7](differential evolution，DE）是一种简单高效的全局优化进化算法（evolutionaryalgorithm，EA)，已经应用于多目标问题求解。Zhong和Zhang 提出了一种带有随机编码策略的自适应多目标差分进化算法(AS-MODE)[8]，使用 DE中一种简单的变异策略来生成新种群。Venske提出一种自适应的多目标差分进化算法(ADEMO/D)[9]。Jiang 提出了一种基于两阶段策略和小生境指导方案的改进MOEA/D(MOEA/D-TPN)[10],该算法中DE作为基础优化算法。文献[11]提出了基于分解的差分进化算法(MOEADDE)[II]，使用DE 代替 MOEA/D中GA算法，通过分解的方法更新种群。总体来看，多目标进化算法主要采用单一的变异策略，导致Pareto 解集的收敛性和多样性不够理想。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了提高Pareto解集的收敛性和多样性，本文在MOEADDE的基础上提出了一种基于分解和多策略变异的多目标差分进化算法(MODE/DMSM)。算法采用改进Tchebycheff分解方法将一个多目标问题分解为一组单目标优化子问题，同时生成一系列均匀分布的权重向量。为了兼顾收敛性和多样性，算法采用高效非支配排序对种群进行排序并保存了非支配解和一部分较好的解。算法利用多策略变异差分进化算法来引导种群向真实的Pareto前沿收敛同时均匀分布，实现收敛性和多样性的平衡。与其他典型的多目标优化算法进行仿真比较，结果表明本文提出的算法在解决多目标问题时在收敛性和多样性具有一定的优势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关背景",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1多目标优化问题 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般的多目标问题，以最小化形式为例，具有 $n$ 个决策变量和 $M$ 个优化目标，可表示为如下形式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { l } { { \\mathrm { m i n i m i z e ~ F } } ( x ) = ( f _ { 1 } ( x ) , . . . , f _ { m } ( x ) ) } \\\\ { { \\mathrm { s u b j e c t ~ t o : ~ x } } \\in \\Omega } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x = \\{ x _ { 1 } , . . . , x _ { n } \\} \\in \\Omega \\subset R ^ { n }$ 称为决策向量；$F ( x ) = ( f _ { 1 } ( x ) , \\ldots f _ { m } ( x ) ) \\in R ^ { m }$ 称为目标向量； $\\Omega$ 为决策空间。以下是多目标问题引出的几个相关定义和术语。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1Pareto 支配[2]。假设 $\\boldsymbol { x } , \\boldsymbol { x } ^ { * } \\in \\Omega$ 是多目标问题的可行解，并且 $x ^ { * }$ 对 $x$ 是Pareto支配的，记为 $x ^ { * } \\prec x$ ，当且仅当",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\forall i = 1 , . . . , m , f ( x ^ { * } ) \\leq f ( x ) \\land F ( x ^ { * } ) \\neq F ( x )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2Pareto 最优解集 $\\ ! ^ { [ 1 2 ] }$ 。Pareto 最优解集（Pareto Set,简称PS）是所有Pareto最优解的集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P } S = \\{ x ^ { ' } | \\lnot \\exists x \\in \\Omega , x \\prec x ^ { * } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3Pareto 最优前沿[12l。Pareto 最优前沿(Pareto front,PF)是Pareto最优解集PS中的解对应目标函数值组成的集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP F = \\{ F ( x ^ { * } ) { \\big \\vert } x ^ { * } \\in P S \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2基于Tchebycheff多目标分解方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分解方法将多目标优化问题转换成单目标优化问题，给每个个体分配一个不同的权重向量来缓解目标之间的冲突。常见的分解方法有切比雪夫(Tchebycheff)方法[6]。传统的Tchebycheff分解方法公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { m i n i m i z e : g ( x \\mid \\lambda , z ^ { * } ) = \\operatorname* { m a x } _ { 1 \\leq i \\leq m } \\{ \\lambda _ { i } \\left| f _ { i } ( x ) - z _ { i } ^ { * } \\right| \\} } }$ subject to : $\\mathbf { X } \\in \\Omega$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda _ { i }$ 为第 $i$ 个权重向量； $z ^ { * } = ( z _ { 1 } ^ { * } , . . . z _ { m } ^ { * } )$ 为更新过程中的理想点； $z _ { i } = \\operatorname* { m i n } \\{ f _ { i } ( x ) \\vert x \\in \\Omega \\}$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3差分进化算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "差分进化算法是 Storn 和Price 提出的一种基于种群的随机搜索算法，主要通过变异、交叉和选择等操作来进行智能搜索。DE与其他进化算法的主要区别在于变异操作，目前被广泛采用的变异操作如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DE/rand/1[13]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i , G } = x _ { r _ { 1 } , G } + F \\cdot ( x _ { r _ { 2 } , G } - x _ { r _ { 3 } , G } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DE/rand-to-best/1[13]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i , G } = x _ { r _ { 1 } , G } + F \\cdot ( x _ { b e s t , G } - x _ { r _ { 1 } , G } ) + F ( x _ { r _ { 2 } , G } - x _ { r _ { 3 } , G } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DE/best/1[13]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i , G } = x _ { b e s t , G } + F \\cdot ( x _ { r _ { 1 } , G } - x _ { r _ { 2 } , G } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $r _ { \\mathrm { { l } } }$ ， $r _ { 2 }$ 和 $r _ { 3 }$ 是从种群规模 $N P$ 中随机产生的3个互不相等的整数， $G$ 为当前种群的进化代数， $F$ 为缩放因子，best表示当前最好个体的下标。 $\\nu$ 和 $x$ 分别表示变异向量和种群的个体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于分解和多策略变异的多目标差分进化算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 多目标分解方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tchebycheff函数是在基于分解的MOEAs中使用的最常见类型的聚合函数之一。在本文中采用了文献[14]中改进的Tchebycheff函数[14]，这种改进的Tchebycheff函数在原始函数上有两个优点。首先，均匀分布的权向量导致目标空间中搜索方向的均匀分布；其次，每个权重向量对应于位于PF上唯一的解[15]。这两个优点在一定程度上缓解了多样性保存的困难。改进的 Tchebycheff 公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { m i n i m i z e : g ( x \\mid } } \\lambda , \\operatorname { z ^ { * } } { \\big ) } = \\operatorname* { m a x } _ { 1 \\leq i \\leq m } \\{ \\left| f _ { i } ( x ) - z _ { i } ^ { * } \\right| / \\lambda _ { i } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $z ^ { * }$ 为理想点， $\\lambda _ { i }$ 为权重向量。 $\\lambda _ { i } \\geq 0$ ，如果 $\\mathscr { \\lambda } _ { i } = 0$ ，将设置 $\\lambda _ { i } = 1 0 ^ { - 6 }$ 。Das 和Dennis[16]提出标准边界交叉（NBI）技术被广泛的应用在目标空间生成权重向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { c } { \\lambda _ { i } = ( \\lambda _ { i } ^ { 1 } , . . . , \\lambda _ { i } ^ { M } ) } \\\\ { \\lambda _ { i } ^ { j } \\in \\{ \\displaystyle \\frac { 0 } { H } , . . . , \\displaystyle \\frac { H } { H } \\} , \\sum _ { j = 1 } ^ { M } \\lambda _ { i } ^ { j } = 1 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：将每维目标分割成 $H$ 个相等的区间， $M$ 为目标个数，则生成的权重向量的数量 $N = C _ { H + M - 1 } ^ { H }$ 。假设将三维空间每维目标分割成2个相等的区间，生成权重向量的个数 $N = C _ { 2 + 3 - 1 } ^ { 2 } { = } 6$ ，图1是在三维空间上生成权重向量的示意图。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/61dec7421856e0eef75f069d276e502024cdd33090df6f2fe0e19c6846bd1fd1.jpg",
+        "img_caption": [
+            "图1权重向量生成示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用了上述的方法生成权重向量，首先，均匀分布的权重向量使得在目标空间中搜索方向是均匀分布。其次，每个权重向量和理想点让每个个体趋向Pareto 前沿。在一定程度上，增加了种群的多样性和收敛性",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2高效非支配排序策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文运用了高效非支配排序[17]来保存比较优的解。这种方法首先根据第一个目标值对种群 $P$ 中的 $N$ 个解进行升序排序，其中 $N$ 是种群大小。如果两个解的第一个目标函数值相同，则按第二个目标函数值排序。一直持续到种群中的所有个体都被排序。如果解在所有目标函数值中都相同，它们的顺序可以是任意的。对于这个经过排序的种群 $P$ ，如果 $m < \\boldsymbol { n }$ ，解 $p _ { m }$ 将永远不会被解 $p _ { n }$ 支配，因为 $p _ { m }$ 中至少存在一个目标，其值小于 $p _ { n }$ 中相同目标。表明这两种解之间只存在两种可能的关系： $p _ { m }$ 支配 $p _ { n }$ ，或者 $p _ { m }$ 和 $\\mathfrak { p } _ { \\mathtt { n } }$ 互不支配。本文通过高效的非支配排序通过对种群进行排序，选出前面 $N / 2$ 个个体作为NDbest解集，既保留了非支配解集，又保留了一些较好的解来增加NDbest 解集的多样性。高效非支配排序的伪代码如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高效非支配排序策略（ENS)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$F { = }$ empty； $/ { ^ * } \\mathrm { F }$ 为前沿的集合\\*/  \n把种群 $P$ 按照第1个目标函数值进行升序排序，如果两个解的第一个  \n目标函数值相同，则按第二个目标函数值排序，一直持续到种群中的  \n所有个体都被排序；  \nfor all $P [ n ] \\in$ sorted $P$ do$\\scriptstyle x = \\operatorname { s i z e } ( F ) ;$ （204号$k { = } 1$ ：while true do从 $F [ k ]$ 的最后一个到第一个解与比较 $P [ n ]$ ·if $F [ k ]$ 中没有解支配 $P [ n ]$ then把 $P [ n ]$ 添加到 $F [ k ]$ ：break;else$k { + } +$ if $k { > } x$ then$x { + } 1$ ；把 $P [ n ]$ 添加到新的前沿；break;end ifend ifend while",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "end for return F; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另外，本文的差分进化算法需要从NDbest解集中随机选择个体来引导进化过程，在NDbest解集中的非支配解集来引导种群收敛，又同时考虑了NDbest 解集中一些较好的解来增加种群的多样性。NDbest解集将会用于下面的多策略变异操作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 多策略变异操作",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "差分进化算法中变异策略会影响整个种群的更新，因此选择合适的变异策略是改善整个算法性能的关键。“DE/rand/1\"变异策略针对种群的多样性有很好的效果，但是收敛性不足可能不能推进收敛过程，而如果选择收敛性强的策略“DE/rand-to-best/1”，可能又因为多样性差从而导致种群早熟收敛。因此，在选择合适的变异策略上，尽可能兼顾其收敛性和多样性，从而有效的推进进化的过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种多策略变异。在进化初期，让DE/rand/1变异策略发挥其全局搜索的能力增加种群的多样性，随着进化过程的进行，本文提出了一种新的变异策略“DE/rand-to-NDbest/1\"，通过上一代高效非支配排序选择出NDbest解集来指导进化过程进一步增强收敛性，从而达到了收敛性和多样性的平衡，最后运用二项式交叉和多项式变异。“DE/rand-to-NDbest/1\"变异策略如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：NDbest表示当前种群高效非支配排序最优集中随机个体的下标，rand表示0到1的随机数。二项式交叉如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i , G } = x _ { r _ { 1 } , G } + r a n d \\cdot ( x _ { \\scriptscriptstyle { N D b e s t , G } } - x _ { r _ { 1 } , G } ) + F ( x _ { r _ { 2 } , G } - x _ { r _ { 3 } , G } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\overline { { y } } _ { i , G } ^ { j } = \\left\\{ \\begin{array} { l l } { \\nu _ { i , G } ^ { j } } & { i f ( r a n d _ { j } ( 0 , 1 ) \\leq C R ) o r ( j = j _ { r a n d } ) , j = 1 , 2 , \\ldots D } \\\\ { x _ { i , G } ^ { j } } & { o t h e r w i s e } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $C R$ 是交叉概率， $j _ { r a n d }$ 为1到 $D$ 中随机产生的一个整数，以保证尝试向量 $\\overline { { y } }$ 与当前个体 $x$ 不相同。多项式变异公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i , G } ^ { j } = \\left\\{ \\begin{array} { c c } { - _ { j } ^ { j } } & { i f ( r a n d _ { j } ( 0 , 1 ) \\leq p _ { m } ) } \\\\ { - _ { j } ^ { j } } & { o t h e r w i s e } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { i } ^ { j } = \\left\\{ \\begin{array} { c c } { { ( 2 + r a n d ) ^ { \\frac { 1 } { \\eta + 1 } } - 1 } } & { { i f ( r a n d \\leq 0 . 5 ) } } \\\\ { { 1 - ( 2 - 2 ^ { * } r a n d ) ^ { \\frac { 1 } { \\eta + 1 } } } } & { { o t h e r w i s e } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $p _ { { \\scriptscriptstyle m } }$ 为变异比率， $b _ { i }$ 和 $a _ { i }$ 分别是第 $i$ 个决策变量的上下界，$\\eta$ 是分布指数。多策略变异的伪代码如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多策略变异操作",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "if $r a n d \\leq 1 - ( G / G _ { \\mathrm { m a x } } ) ^ { 2 } / { \\ast } \\mathrm { r a n d }$ 是0到1随机生成的随机数\\*/ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i , G } = x _ { r _ { 1 } , G } + F \\cdot ( x _ { r _ { 2 } , G } - x _ { r _ { 3 } , G } ) / { * } \\mathrm { D E } / \\mathrm { r a n d } / 1 ^ { * } /\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i , G } = x _ { r _ { 1 } , G } + r a n d \\cdot ( x _ { \\scriptscriptstyle { N D b e s t , G } } - x _ { r _ { 1 } , G } ) + F ( x _ { r _ { 2 } , G } - x _ { r _ { 3 } , G } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "else ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4MODE/DMSM算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MODE/DMSM 算法总体流程如下:a)初始化种群；b)采用2.2中方法对种群进行高效的非支配排序选出前N/2个个体作为 NDbest集；c)采用2.3中方法多策略变异产生子代y；d)采用2.3中方法改进的Tchebycheff分解方法更新种群中的个体;e)采用2.2中方法对种群进行高效的非支配排序选出前 $N / 2$ 个个体作为NDbest集;f)如果满足停止条件，算法停止，输出 $P F$ 否则返回步骤c)继续执行。MODE/DMSM算法的伪代码如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Algorithm:pseudocodeofMODE/DMSM随机初始化种群 $P$ ，设置种群数量 $N$ 和最大评估次数MAX_FES,计算群体每个个体适应度值和每个目标最优适应度值 $\\boldsymbol { z } ^ { * } = ( \\boldsymbol { z } _ { 1 } ^ { * } , . . . , \\boldsymbol { z } _ { m } ^ { * } )$ ，随机生成 $N$ 个权重向量 $\\lambda = ( \\lambda _ { 1 } , \\ldots , \\lambda _ { N } )$ 。计算权重向量之间的欧式距离，并且找出每个权重向量距离最近的 $T$ 个权重向量 $\\lambda ^ { \\mathrm { i _ { l } } } , . . . , \\lambda ^ { i _ { r } }$ ，其索引是（204号 $B ( i ) = \\{ \\mathbf { i } _ { 1 } , . . . , \\mathbf { i } _ { T } \\}$ 。设置邻域个体选择概率 $\\delta$ 为0.9，子代替换父代的最大数量 $n _ { r }$ 为2， $F E S { = } N _ { \\circ }$ （204号",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过2.2中方法高效的非支配排序（ENS）进行非支配排序选出 $N / 2$ 个  \n个体作为NDbest。  \nwhileFES<Max_FESdofor $i = 1$ to $N$ do随机产生0到1的随机数rand生成$A = \\left\\{ \\begin{array} { c } { { B ( i ) i f ( r a n d < \\delta ) } } \\\\ { { \\{ 1 , . . . N \\} \\ o t h e r w i s e } } \\end{array} \\right.$ 按 2.3 中方法多策略变异DE 更新种群生成新的 解 $y$ 如果 $y$ 超出了边界的范围 $\\Omega$ ，在边界里随机生成新值代替 $y$ 0计算个体的适应度值，更新 $\\boldsymbol { z } ^ { * } = ( \\boldsymbol { z } _ { 1 } ^ { * } , . . . , \\boldsymbol { z } _ { m } ^ { * } )$ 。for $j = 1$ 0 $m$ doif $z _ { j } ^ { * } > f _ { j } ( y )$ then（204 $z _ { j } ^ { * } = f _ { j } ( y )$ end ifend for更新种群的解,设置 $\\scriptstyle c = 0$ while $\\neg ( c = n _ { r } | i s e m p t y ( A ) )$ do随机从 $A$ 中取出索引 $k$ if $\\begin{array} { r l } & { \\mathrm { ~ g } ( \\mathrm { y } \\mid \\boldsymbol { \\lambda } _ { k } , \\mathbf { z } ^ { * } ) \\leq \\mathrm { g } ( \\mathbf { x } _ { k } \\mid \\boldsymbol { \\lambda } _ { k } , \\mathbf { z } ^ { * } ) } \\\\ & { \\mathbf { x } _ { k } = \\mathbf { y } : } \\\\ & { c { = } c { + } 1 ; } \\end{array}$ end if从 $\\boldsymbol { A }$ 中清除索引 $k$ end while$\\scriptstyle { F E S = F E S + N ; }$ （2end for通过2.2中方法高效的非支配排序(ENS)进行非支配排序选出 $N / 2$ （20个个体作为NDbest  \nend while",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设算法的种群大小为 $N$ ，目标数为 $M$ ，领域大小为T。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据文献[18]可知，MOEADDE 的时间复杂度为O(MNT)[18]。由于 $T { < } N$ 且 $T$ 与 $N$ 相关，MOEADDE的时间复杂度为 $O ( M N ^ { 2 } )$ 。MOEADDE在种群进化中始终采用单一的变异算子，而MODE/DMSM在MOEADDE基础上增加了多策略变异算子没有额外增加算法时间复杂度；另外，MODE/DMSM运用了高效非支配排序，根据文献[17]可知，高效非支配排序所需要的最好情况的时间复杂度是 $O ( M N \\sqrt { N } )$ ，最坏情况的时间复杂度是$O ( M N ^ { 2 } )$ [17]，故MODE/DMSM的时间复杂度为 $O ( M N ^ { 2 } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实验及结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了测试本文算法MODE/DMSM的性能，选取4种代表性多目标算法进行对比，分别是MOEAD[、NSGAII[9]、RVEA[20]、MOEADDE[11]、NSLS[21]和 MOEAIGDNS[22]。所有的算法都是在多目标进化算法开源平台PlatEMO[23]上运行。实验仿真的环境都是在 Intel(R) Core(TM)i7-7700HQ CPU、16G 内存、 $2 . 8 \\mathrm { G H z }$ 主频，win1064位操作系统的计算机上MatlabR2016a 运行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1测试函数及评价指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用文献[24]提出 ZDT1-ZDT4、ZDT6[24]和文献[25]提出DTLZ1-DTLZ5[25]的10 个测试函数来测试本文算法MODE/DMSM的有效性。评价指标采用世代距离GD(Generation Distance)[26]、反向世代 距离IGD(InvertedGeneration Distance)[27]和超体积 HV(Hypervolume)[28]来评价解集的收敛性和多样性。其计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG D ( P , P ^ { * } ) = \\frac { \\sum _ { \\nu \\in p } d ( \\nu , P ^ { * } ) } { | P | }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI G D ( P ^ { * } , P ) { = } \\frac { \\sum _ { \\nu \\in { p ^ { * } } } d ( \\nu , P ) } { \\mid P ^ { * } \\mid }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH V ( P ) = V o l \\left( \\bigcup _ { x \\in P } [ f _ { 1 } ( x ) , z _ { 1 } ^ { * } ] \\times \\ldots \\times [ f _ { m } ( x ) , z _ { m } ^ { * } ] \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 ${ \\bf \\nabla } \\cdot { \\cal P } _ { \\bf \\Pi }$ 为所得的Pareto 前沿， $\\boldsymbol { P } ^ { * }$ 为最优的Pareto 前沿， $\\boldsymbol { d } ( \\nu , \\boldsymbol { P } ^ { * } )$ 表示目标空间上 $\\nu$ 与 $\\boldsymbol { P } ^ { * }$ 中最近解之间的欧式距离， $V o l ( \\cdot )$ 记为Lebesgue 测度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2实验参数设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法在每个测试函数上独立运行30次，设置种群规模NP为100，最大函数评估次数Max_FES为30000，多项式变异$\\scriptstyle \\eta = 2 0$ 、 $p _ { m } = 1 / D$ 。文本算法 MODE/DMSM 的缩放因子 $F$ 为0.5，交叉概率 $C R$ 为0.2；MOEADDE 的缩放因子 $F$ 为0.5，交叉概率 $C R$ 为1；本文MODE/DMSM和MOEADDE 中的邻域个体选择概率 $\\delta$ 为0.9，子代替换父代的最大数量 $n _ { r }$ 为2；MOEAD、NSGAIII、RVEA、NSLS和MOEAIGDNS中交叉率$p _ { m } = 1$ 、 $\\eta _ { c } = 3 0$ ；RVEA中惩罚因子变化率为 $\\alpha = 2$ ，参考点调整频率 $f _ { r } = 0 . 1$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MODE/DMSM与MOEAD、NSGAIII、RVEA、MOEADDE、NSLS、MOEAIGDNS测试于ZDT和DTLZ测试函数上分别在",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GD、IGD和HV标准下的30次独立运行的平均值和标准差统计结果如表1-3所示，本文采用Wilcoxon秩和检验进行比较突出算法之间差异的显著性，显著性水平为0.05，表中“ $^ +$ ”、“-”、“\"”分别表示其他算法明显优于、明显劣于和近似于MODE/DMSM，其中最好的结果用不同颜色的字体表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表1中的数据在GD标准下可以看出，本文提出的算法MODE/DMSM分别在2个测试函数(ZDT6、DTLZ5)上近似于MOEAD；在2个测试函数(ZDT3、ZDT6)上近似于 NSGAIII;在1个测试函数(ZDT6)上近似于RVEA;在1个测试函数(ZDT6)上近似于MOEADDE，在两个测试函数(ZDT3、ZDT6)上近似于MOEAIGDNS。在其余的测试函数下，MODE/DMSM优于MOEAD、NSGAIII、RVEA、MOEADDE、NSLS、MOEAIGDNS。总体上，MODE/DMSM在8个测试函数(ZDT1\\~4、DTLZ1\\~3、DTLZ5)上得到最好的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表2中的数据在IGD标准下可以看出，MODE/DMSM在8个测试函数（ZDT1\\~4、ZDT6、DTLZ1、DTLZ3、DTLZ5）上优于MOEAD；MODE/DMSM在5个测试函数（ZDT1、ZDT3\\~4、DTLZ3\\~4）上优于NSGAIII；MODE/DMSM在7个测试函数（ZDT1\\~4、ZDT6、DTLZ3、DTLZ5）上优于RVEA;MODE/DMSM在8个测试函数（ZDT1\\~4、DTLZ1\\~4）上优于MOEADDE;MODE/DMSM在8个测试函数(ZDT1\\~4、ZDT6、DTLZ1、DTLZ3\\~4）上优于NSLS,MODE/DMSM在6个测试函数（ZDT1\\~2、ZDT4、ZDT6、DTLZ3\\~4）上优于MOEAIGDNS。总体上，MODE/DMSM在5 个测试函数(ZDT1\\~4、DTLZ3)上得到最好的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表3中的数据在HV标准下可以看出，MODE/DMSM在8个测试函数（ZDT1\\~4、ZDT6、DTLZ1、DTLZ3、DTLZ5）上优于MOEAD；MODE/DMSM在7个测试函数（ZDT1\\~4、DTLZ1、DTLZ3、DTLZ4）上优于NSGAIII；MODE/DMSM在8 个测试函数(ZDT1\\~4、ZDT6、DTLZ1、DTLZ3、DTLZ5)上优于RVEA;MODE/DMSM在8个测试函数(ZDT1\\~4、DTLZ1\\~4）上优于MOEADDE;MODE/DMSM在9个测试函数(ZDT1\\~4、ZDT6、DTLZ1\\~4）上优于NSLS 和 MOEAIGDNS。总体上，MODE/DMSM在6个测试函数(ZDT1\\~4、DTLZ1、DTLZ3)上得到最好的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/060a1bb1854e13130cd0959b962fe62318df9e533a6a35cefda0ed4d56047de4.jpg",
+        "table_caption": [
+            "表1测试函数在GD标准下实验统计结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Problem</td><td>M</td><td>MOEAD</td><td>NSGAIII</td><td>RVEA</td><td>MOEADDE</td><td>NSLS</td><td>MOEAIGDNS</td><td>MODE/ DMSM</td></tr><tr><td rowspan=\"2\">ZDT1</td><td rowspan=\"2\">2</td><td rowspan=\"2\">4.1652e-4</td><td rowspan=\"2\">9.2005e-5</td><td rowspan=\"2\">3.2302e-3</td><td rowspan=\"2\">1.0803e-3</td><td rowspan=\"2\">5.1423e+0</td><td rowspan=\"2\">7.3084e-5</td><td rowspan=\"2\"></td></tr><tr><td>1.2125e-5</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">2</td><td rowspan=\"2\">(1.19e-4) - 9.4598e-4</td><td rowspan=\"2\">(3.45e-5) - 6.3058e-5</td><td rowspan=\"2\">(8.28e-4) - 3.3958e-3</td><td rowspan=\"2\">(6.49e-4) - 9.5758e-4</td><td rowspan=\"2\">(9.68e-1) -</td><td rowspan=\"2\">(2.47e-5) - 4.6044e-5</td><td rowspan=\"2\">(9.29e-6) 7.8375e-6</td></tr><tr><td>6.8252e+0</td></tr><tr><td rowspan=\"2\">ZDT2</td><td rowspan=\"2\"></td><td rowspan=\"2\">(6.22e-4) -</td><td rowspan=\"2\">(2.31e-5) -</td><td rowspan=\"2\">(1.44e-3) -</td><td rowspan=\"2\"></td><td rowspan=\"2\">(1.37e+0)-</td><td rowspan=\"2\">(2.01e-5)-</td><td rowspan=\"2\">(5.78e-6)</td></tr><tr><td>(5.12e-4) -</td></tr><tr><td rowspan=\"2\">ZDT3</td><td rowspan=\"2\">2</td><td rowspan=\"2\">1.5232e-3</td><td rowspan=\"2\">6.6748e-5</td><td rowspan=\"2\">3.3952e-3</td><td rowspan=\"2\">2.1661e-3</td><td rowspan=\"2\">6.0136e+0</td><td rowspan=\"2\">5.0231e-5</td><td rowspan=\"2\">4.9466e-5</td></tr><tr><td>(2.21e-3) -</td></tr><tr><td rowspan=\"2\">ZDT4</td><td rowspan=\"2\">2</td><td rowspan=\"2\">(1.94e-3)- 1.7281e-3</td><td rowspan=\"2\">(5.54e-5) ≈ 2.9247e-4</td><td rowspan=\"2\">(1.25e-3) -</td><td rowspan=\"2\">2.8039e-2</td><td rowspan=\"2\">(1.26e+0) - 3.6696e-1</td><td rowspan=\"2\">(1.33e-5) ≈ 3.7083e-4</td><td rowspan=\"2\">(1.14e-5) 4.4888e-5</td></tr><tr><td>2.1164e-3</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">(1.04e-3) -</td><td rowspan=\"2\">(1.72e-4) -</td><td rowspan=\"2\">(8.00e-4)-</td><td rowspan=\"2\">(1.71e-2) -</td><td rowspan=\"2\">(9.17e-2) -</td><td rowspan=\"2\">(2.27e-4) -</td><td rowspan=\"2\">(1.59e-5)</td></tr><tr><td></td></tr><tr><td rowspan=\"2\">ZDT6</td><td rowspan=\"2\">2</td><td rowspan=\"2\">8.1940e-4 (2.22e-4) =</td><td rowspan=\"2\">6.2187e-5 (6.02e-5) =</td><td rowspan=\"2\">3.8055e-3</td><td rowspan=\"2\">2.4356e-3 (1.09e-2) ≈</td><td rowspan=\"2\">7.5549e-2 (6.84e-2) -</td><td rowspan=\"2\">2.0133e-4 (2.96e-4)≈</td><td rowspan=\"2\">1.6643e-2 (2.24e-2)</td></tr><tr><td>(1.37e-3)≈</td></tr><tr><td rowspan=\"2\">DTLZ1</td><td rowspan=\"2\">3</td><td rowspan=\"2\">3.3229e-4</td><td rowspan=\"2\">2.6684e-4</td><td rowspan=\"2\">2.8930e-4</td><td rowspan=\"2\">2.8448e-2</td><td rowspan=\"2\">5.1296e-2</td><td rowspan=\"2\">4.3197e-4</td><td rowspan=\"2\">1.8284e-4</td></tr><tr><td></td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">(1.46e-4) - 5.0524e-4</td><td rowspan=\"2\">(1.14e-4) -</td><td rowspan=\"2\">(1.34e-4) -</td><td rowspan=\"2\">(1.28e-1) -</td><td rowspan=\"2\">(3.14e-2) -</td><td rowspan=\"2\">(1.95e-4) -</td><td rowspan=\"2\">(8.07e-6)</td></tr><tr><td>5.1379e-4</td></tr><tr><td rowspan=\"2\">DTLZ2</td><td rowspan=\"2\">3</td><td rowspan=\"2\">(2.64e-6)</td><td rowspan=\"2\">5.0326e-4 (5.75e-6)-</td><td rowspan=\"2\">(2.22e-5) -</td><td rowspan=\"2\">8.1839e-4 (6.15e-5) -</td><td rowspan=\"2\">1.2919e-3 (1.92e-4)</td><td rowspan=\"2\">6.8633e-4 (4.44e-5) -</td><td rowspan=\"2\">4.9107e-4 (1.71e-5)</td></tr><tr><td></td></tr><tr><td rowspan=\"2\">DTLZ3</td><td rowspan=\"2\">3</td><td rowspan=\"2\">1.7300e-1 (3.98e-1) -</td><td rowspan=\"2\">3.3643e-1 (8.69e-1) -</td><td rowspan=\"2\">1.8290e-1</td><td rowspan=\"2\">4.4169e-1</td><td rowspan=\"2\">5.6068e+0</td><td rowspan=\"2\">1.8665e-1</td><td rowspan=\"2\">2.6823e-2</td></tr><tr><td>(1.84e-1) - (8.35e-1) -</td></tr><tr><td rowspan=\"2\">DTLZ4</td><td rowspan=\"2\">3 (1.81e-4) ≈</td><td rowspan=\"2\">3.7487e-4</td><td rowspan=\"2\">4.9923e-4</td><td rowspan=\"2\">5.1017e-4</td><td rowspan=\"2\">8.6356e-4</td><td rowspan=\"2\">(1.01e+0) - 5.2988e-3</td><td rowspan=\"2\">(5.67e-1) - 6.2166e-4</td><td rowspan=\"2\">(6.84e-2) 4.7772e-4</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/112b1bea4fbb2cb46953f23de85f3ec3c1d13c41331cc9c53ce138a816cad849.jpg",
+        "table_caption": [
+            "表2测试函数在IGD标准下实验统计结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Problem</td><td>M</td><td>MOEAD</td><td>NSGAIII</td><td>RVEA</td><td>MOEADDE</td><td>NSLS</td><td>MOEAIGDNS</td><td>MODE/ DMSM</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/bcbc51eb53f8f0369f7fc5efdc82e3b54409c25815afc9ff11e028901130ba5e.jpg",
+        "table_caption": [
+            "表3测试函数在HV标准下实验统计结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">ZDT1</td><td rowspan=\"2\">2</td><td rowspan=\"2\">1.6602e-2</td><td rowspan=\"2\">5.3384e-3</td><td rowspan=\"2\">3.2468e-2</td><td rowspan=\"2\">1.1745e-2</td><td rowspan=\"2\">7.1899e+0</td><td rowspan=\"2\">6.4159e-3</td><td rowspan=\"2\">3.9653e-3</td></tr><tr><td></td></tr><tr><td></td><td>2</td><td>(2.12e-2)- 4.8749e-2</td><td>(5.40e-3)- 4.9106e-3</td><td>(2.01e-2)- 4.4291e-2</td><td>(5.73e-3) - 9.6554e-3</td><td>(2.06e+0)- 8.5175e+0</td><td>(8.65e-3)- 1.6885e-2</td><td>(3.96e-5) 3.9602e-3</td></tr><tr><td>ZDT2</td><td></td><td>(7.15e-2)-</td><td>(3.15e-3)≈</td><td>(5.38e-2) -</td><td>(3.74e-3)-</td><td>(1.79e+0)-</td><td>(2.58e-2) -</td><td>(4.39e-5)</td></tr><tr><td>ZDT3</td><td>2</td><td>2.8498e-2 (2.75e-2)-</td><td>6.0005e-2 (7.59e-2)-</td><td>8.2320e-2</td><td>2.8014e-2</td><td>7.6289e+0</td><td>3.6516e-2</td><td>1.1575e-2</td></tr><tr><td rowspan=\"2\">ZDT4</td><td rowspan=\"2\">2</td><td></td><td></td><td>(5.14e-2) -</td><td>(2.04e-2) -</td><td>(1.93e+0)-</td><td>(3.76e-2) ~</td><td>(3.71e-4)</td></tr><tr><td>2.1374e-2</td><td>1.0630e-2</td><td>4.6528e-2</td><td>2.1136e-1</td><td>8.3338e-1</td><td>9.0156e-3</td><td>4.1580e-3</td></tr><tr><td>ZDT6</td><td></td><td>(1.26e-2) - 7.3477e-3</td><td>(2.06e-2)- 3.1696e-3</td><td>(4.93e-2) - 2.7225e-2</td><td>(1.14e-1) - 3.1064e-3</td><td>(1.97e-1)- 6.5237e-3</td><td>(1.43e-2)- 3.5963e-3</td><td>(1.29e-4) 3.2963e-3</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">2</td><td>(1.46e-3) -</td><td>(2.56e-4) +</td><td>(7.75e-3)-</td><td></td><td></td><td></td><td></td></tr><tr><td>2.0988e-2</td><td></td><td></td><td>(9.11e-6) +</td><td>(1.77e-3)-</td><td>(3.88e-4) -</td><td>(9.80e-5)</td></tr><tr><td rowspan=\"2\">DTLZ1</td><td rowspan=\"2\">3</td><td></td><td>2.0825e-2</td><td>2.1209e-2</td><td>4.9475e-2</td><td>2.8327e-1</td><td>2.0138e-2</td><td>2.0750e-2</td></tr><tr><td>(4.36e-4) -</td><td>(3.44e-4) ≈</td><td>(2.23e-3)≈</td><td>(6.55e-2) -</td><td>(1.96e-1)-</td><td>(7.85e-4) +</td><td>(7.37e-5)</td></tr><tr><td rowspan=\"2\">DTLZ2</td><td rowspan=\"2\">3</td><td>5.4467e-2</td><td>5.4497e-2</td><td>5.4508e-2</td><td>7.5988e-2</td><td>5.6350e-2</td><td>5.1570e-2</td><td>5.6600e-2</td></tr><tr><td>(1.43e-6) +</td><td>(9.15e-5) +</td><td>(1.25e-4) +</td><td>(8.30e-4) -</td><td>(7.54e-4) ≈</td><td>(5.61e-4) +</td><td>(7.36e-4)</td></tr><tr><td rowspan=\"2\">DTLZ3</td><td rowspan=\"2\">3</td><td>1.2828e+0</td><td>5.6226e-1</td><td>8.7055e-1</td><td>2.2512e+0</td><td>1.7435e+1</td><td>2.7297e-1</td><td>2.5802e-1</td></tr><tr><td>(2.71e+0) -</td><td>(8.11e-1) -</td><td>(9.05e-1) -</td><td>(4.18e+0) -</td><td>(3.85e+0)-</td><td>(4.12e-1) -</td><td>(5.05e-1)</td></tr><tr><td rowspan=\"2\">DTLZ4</td><td rowspan=\"2\">3</td><td>3.8164e-1</td><td>1.6816e-1</td><td>5.4487e-2</td><td>1.5330e-1</td><td>2.9700e-1</td><td>1.6585e-1</td><td>6.0017e-2</td></tr><tr><td>(3.41e-1) ≈</td><td>(2.10e-1) -</td><td>(4.54e-5) +</td><td>(8.37e-2) -</td><td>(6.82e-2)-</td><td>(2.10e-1) -</td><td>(1.63e-3)</td></tr><tr><td>DTLZ5</td><td>3</td><td>3.3778e-2 (6.92e-5) -</td><td>1.3344e-2</td><td>7.9796e-2</td><td>1.4375e-2</td><td>5.1314e-3</td><td>4.1794e-3</td><td>2.2831e-2</td></tr><tr><td colspan=\"2\" rowspan=\"2\"></td><td>1/8/1</td><td>(1.68e-3) +</td><td>(1.26e-2)-</td><td>(9.07e-5) +</td><td>(2.40e-4) +</td><td>(5.24e-5) +</td><td>(8.29e-5)</td></tr><tr><td colspan=\"2\">+/-/≈</td><td>3/5/2</td><td>2/7/1</td><td>2/8/0</td><td>1/8/1</td><td>3/6/1</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d93be09b6d0bb1015f57a7dd328549c71b2dfc3045f822e5a62a21f987870d73.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Problem</td><td>M</td><td>MOEAD</td><td>NSGAIII</td><td>RVEA</td><td>MOEADDE</td><td>NSLS</td><td>MOEAIGDNS</td><td>MODE/ DMSM</td></tr><tr><td rowspan=\"2\">ZDT1</td><td rowspan=\"2\">2</td><td rowspan=\"2\">8.5700e-1</td><td rowspan=\"2\">8.6904e-1</td><td rowspan=\"2\">8.2655e-1</td><td rowspan=\"2\">8.5580e-1</td><td rowspan=\"2\">0.0000e+0</td><td rowspan=\"2\">8.6834e-1</td><td>8.7143e-1</td></tr><tr><td></td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">(1.60e-2) - 4.7374e-1</td><td rowspan=\"2\">(4.76e-3) - 5.3484e-1</td><td rowspan=\"2\">(1.59e-2) - 4.7327e-1</td><td rowspan=\"2\">(9.74e-3)- 5.2297e-1</td><td rowspan=\"2\">(0.00e+0)-</td><td rowspan=\"2\">(7.21e-3)-</td><td rowspan=\"2\">(9.01e-5) 5.3829e-1</td></tr><tr><td>0.0000e+0</td></tr><tr><td rowspan=\"2\">ZDT2</td><td rowspan=\"2\">2</td><td rowspan=\"2\">(7.90e-2) -</td><td rowspan=\"2\">(7.60e-3)-</td><td rowspan=\"2\">(5.53e-2) -</td><td rowspan=\"2\">(8.25e-3)-</td><td rowspan=\"2\"></td><td rowspan=\"2\">5.1430e-1 (3.73e-2)-</td><td rowspan=\"2\">(5.78e-5)</td></tr><tr><td>(0.00e+0) -</td></tr><tr><td rowspan=\"2\">ZDT3</td><td rowspan=\"2\">2</td><td rowspan=\"2\">9.8476e-1</td><td rowspan=\"2\">9.5422e-1</td><td rowspan=\"2\">9.0636e-1</td><td rowspan=\"2\">9.7045e-1</td><td rowspan=\"2\">0.0000e+0</td><td rowspan=\"2\">9.8196e-1</td><td rowspan=\"2\">1.0201e+0</td></tr><tr><td></td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">2</td><td rowspan=\"2\">(3.82e-2)- 8.4079e-1</td><td rowspan=\"2\">(9.67e-2)- 8.6296e-1</td><td rowspan=\"2\">(5.99e-2)-</td><td rowspan=\"2\">(3.85e-2) -</td><td rowspan=\"2\">(0.00e+0) -</td><td rowspan=\"2\">(4.61e-2)-</td><td rowspan=\"2\">(1.83e-4) 8.7086e-1</td></tr><tr><td>5.7036e-1</td></tr><tr><td rowspan=\"2\">ZDT4</td><td rowspan=\"2\"></td><td rowspan=\"2\">(1.60e-2) -</td><td rowspan=\"2\">(1.58e-2) -</td><td rowspan=\"2\">8.2191e-1 (3.77e-2)-</td><td rowspan=\"2\">(1.52e-1) -</td><td rowspan=\"2\">4.1779e-2 (4.70e-2)-</td><td rowspan=\"2\">8.6339e-1 (1.07e-2)-</td><td rowspan=\"2\">(2.57e-4)</td></tr><tr><td></td></tr><tr><td rowspan=\"2\">ZDT6</td><td rowspan=\"2\">2</td><td rowspan=\"2\">4.2470e-1 (2.45e-3) -</td><td rowspan=\"2\">4.3277e-1 (7.94e-4) ≈</td><td rowspan=\"2\">3.9550e-1</td><td rowspan=\"2\">4.3342e-1</td><td rowspan=\"2\">4.3003e-1</td><td rowspan=\"2\">4.3119e-1</td><td rowspan=\"2\">4.3297e-1</td></tr><tr><td>(2.18e-4) +</td></tr><tr><td rowspan=\"2\">DTLZ1</td><td rowspan=\"2\">3</td><td rowspan=\"2\">1.3947e-1</td><td rowspan=\"2\">1.3965e-1</td><td rowspan=\"2\">(1.16e-2)- 1.3953e-1</td><td rowspan=\"2\">1.2506e-1</td><td rowspan=\"2\">(1.69e-3)- 4.9144e-2</td><td rowspan=\"2\">(9.93e-4) - 1.3676e-1</td><td rowspan=\"2\">(4.24e-4) 1.4000e-1</td></tr><tr><td></td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">(4.29e-4) - 7.4465e-1</td><td rowspan=\"2\">(3.23e-4) -</td><td rowspan=\"2\">(8.34e-4)-</td><td rowspan=\"2\">(2.44e-2) -</td><td rowspan=\"2\">(5.26e-2) -</td><td rowspan=\"2\">(8.88e-4) -</td><td rowspan=\"2\">(1.80e-5)</td></tr><tr><td>7.0005e-1</td></tr><tr><td rowspan=\"2\">DTLZ2</td><td rowspan=\"2\">3</td><td rowspan=\"2\">(4.54e-5) +</td><td rowspan=\"2\">7.4463e-1 (9.42e-5) +</td><td rowspan=\"2\">7.4446e-1 (2.90e-4) +</td><td rowspan=\"2\"></td><td rowspan=\"2\">7.3781e-1 (1.87e-3)-</td><td rowspan=\"2\">7.2068e-1 (4.67e-3)-</td><td rowspan=\"2\">7.4425e-1 (2.98e-4)</td></tr><tr><td>(1.84e-3)-</td></tr><tr><td rowspan=\"2\">DTLZ3</td><td rowspan=\"2\">3</td><td rowspan=\"2\">3.2185e-1 (3.07e-1) -</td><td rowspan=\"2\">3.6040e-1</td><td rowspan=\"2\">2.3777e-1</td><td rowspan=\"2\">3.3787e-1</td><td rowspan=\"2\">0.0000e+0</td><td rowspan=\"2\">5.1204e-1</td><td rowspan=\"2\">6.1475e-1</td></tr><tr><td>(3.03e-1) -</td></tr><tr><td rowspan=\"2\">DTLZ4</td><td rowspan=\"2\">3 (2.31e-1) ≈</td><td rowspan=\"2\">5.3426e-1</td><td rowspan=\"2\">(2.91e-1) - 6.7613e-1</td><td rowspan=\"2\">(2.55e-1) - 7.4451e-1</td><td rowspan=\"2\"></td><td rowspan=\"2\">(0.00e+0)- 5.3580e-1</td><td rowspan=\"2\">(2.44e-1) - 6.6337e-1</td><td rowspan=\"2\">(2.71e-1) 7.4378e-1</td></tr><tr><td>6.7798e-1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文绘制出求解ZDT和DTLZ问题Pareto前沿分布图来直观的了解改算法的性能。图2展示了MODE/DMSM算法在ZDT、DTLZ系列测试函数上某次独立运行的Pareto 前沿分布图，从图2(a)\\~(j)可以看出MODE/DMSM在ZDT、DTLZ系列测试函数上能获得所得到的非支配解集能够较好的逼近真实的PF并且分布均匀。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "终上所述，针对ZDT和DTLZ测试函数上，MODE/DMSM算法无论从GD、IGD 还是HV 标准下都比MOEAD、NSGAIII、RVEA、MOEADDE、NSLS、MOEAIGDNS的收敛性和多样性要好。MODE/DMSM算法在处理多目标问题有较好的性能，进一步体现了算法的有效性。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/967a737d3dc1877707755d53abe558f847b0179d13288af977f9d792f5e50d4b.jpg",
+        "img_caption": [
+            "",
+            ""
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3ad6eb255c62cb8f4c73f36f16ad1e857bb9016956c2b7fa513de96b3493784.jpg",
+        "img_caption": [
+            "图2MODE/DMSM算法在ZDT、DTLZ 函数上的Pareto 前沿分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对多目标问题，本文提出了一种基于分解和多策略变异的多目标差分进化算法MODE/DMSM。本文运用一种改进Tchebycheff分解方法将一个MOP分解为一组单目标优化子问题，通过标准边界交叉(NBI)技术生成一系列均匀分布的权重向量，并采用了高效非支配排序有效保存了非支配解和一部分较优的解，达到增加收敛性同时增加其多样性，同时，所提出多策略在进化前期有效保持了种群的多样性，后期达到了收敛性和多样性的平衡。MODE/DMSM在多目标测试函数集ZDT和DTLZ的10个测试函数上进行了仿真实验，并与MOEAD、NSGAIII、RVEA、MOEADDE、NSLS和MOEAIGDNS算法进行了对比，结果表明所提出的算法在求解两个或三个目标的多目标问题时在收敛性和多样性具有一定的优势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢：本文的实验环境是安徽大学BIMK团队开发的多目标进化算法PlatEMO开源平台。对BIMK团队提供的帮助，在此致以衷心的感谢！",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1].Zhou A,Qu B Y,Li H,et al.Multiobjective evolutionary algorithms: a survey of the state of the art[J].Swarm and Evolutionary Computation,2011, 1(1): 32-49.   \n[2].Deb K,Pratap A,Agarwal S,et al.A fast and elitist multiobjective genetic algorithm: NSGA-II[J].IEEE Trans on Evolutionary Computation,2002,6 (2): 182-97.   \n[3].Zitzler E,Laumanns M, Thiele L. SPEA2: improving the strength Pareto evolutionary algorithm [R]. Zurich: Swiss Federal Institute of Technology, 2001.   \n[4].Zitzler E,Kinzli S.Indicator-based selection in multiobjective search [C]// Proc of International Conference on Parallel Problem Solving from Nature. [S.1.] : Springer, 2004.   \n[5].Bader J, Zitzler E.HypE:an algorithm for fast hypervolume-based manyobjective optimization [J].Evolutionary Computation,2011,19(1): 45-76.   \n[6].Zhang Q,Li H.MOEA//D: a multiobjective evolutionary algorithm based on decomposition [J].IEEE Trans on Evolutionary Computation,2007,11 (6): 712-731.   \n[7].Das S, Suganthan PN. Differential evolution: a survey of the state-of-theart[J].IEEE Trans on Evolutionary Computation,2011,15(1): 4-31.   \n[8]. Zhong JH, Zhang J.Adaptive multi-objective differential evolution with stochastic coding strategy [C]/ Proc of the 13th Annual Conference on Genetic and Evolutionary Computation.New York: ACM Press,2011: 665- 72.   \n[9].Venske S M, Goncalves R A, Delgado MR.ADEMO//D: multiobjective optimization byan adaptive differential evolutionalgorithm[J]. Neurocomputing,2014,127: 65-77.   \n[10]. Jiang S, Yang S.An improved multiobjective optimization evolutionary algorithm based on decomposition for complex pareto fronts [J].IEEE Trans on Cybernetics.2016,46 (2): 421-437.   \n[11] .Li H, Zhang Q.Multiobjective optimization problems with complicated Pareto sets,MOEA//D and NSGA-II [J].IEEE Trans on Evolutionary Computation,2009,13 (2): 284-302.   \n[12]．周爱民，张青富，张桂戌．一种基于混合高斯模型的多目标进化算法 [J]．软件学报,2014,25(5):913-28.   \n[13].Das S,Mullick S S,Suganthan P N.Recent advances in differential evolution - An updated survey [J]. Swarm and Evolutionary Computation, 2016,27: 1-30.   \n[14] .Yuan Y, Xu H,Wang B,et al. Balancing Convergence and diversity in decomposition-based many-objective optimizers [J].IEEE Trans on Evolutionary Computation,2016,20 (2): 180-198.   \n[15]. Zhao S Z, Suganthan PN, Zhang Q. Decomposition-based multiobjective evolutionary algorithm with an ensemble of neighborhood sizes [J].IEEE Trans on Evolutionary Computation,2012,16 (3): 442-446.   \n[16].Das I,Dennis JE.Normal-boundary intersection: a new method for generating the pareto surface in nonlinear multicriteria optimization problems [J]. SIAM Journal on Optimization,1998,8 (3): 631-657.   \n[17] . Zhang X,Tian Y, Cheng R,et al. An efficient approach to nondominated sorting for evolutionary multiobjective optimization [J]. IEEE Trans on Evolutionary Computation,2015,19 (2): 201-13. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]．王亚辉，吴金妹，贾晨辉．基于动态种群多策略差分进化模型的多目",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "标进化算法[J]．电子学报,2016,44(6):1472-80.   \n[19].Deb K, Jain H.An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part i: solving problems with box constraints [J].IEEE Trans on Evolutionary Computation, 2014,18 (4): 577-601.   \n[20] .Cheng R,Jin Y, Olhofer M,et al.A reference vector guided evolutionary algorithm for many-objective optimization [J].IEEE Trans on Evolutionary Computation,2016,20 (5): 773-91.   \n[21].Chen B,ZengW,Lin Y,et al.A new local search-based multiobjective optimization algorithm[J].IEEE Trans on Evolutionary Computation,2015, 19(1):50-73.   \n[22].Tian Y, ZhangX,ChengR,et al.A multi-objective evolutionary algorithm based on an enhanced inverted generational distance metric [C]//Proc of IEEE Congress on Evolutionary Computation.2016.   \n[23].Tian Y,ChengR,Zhang X,et al.PlatEMO:a MATLAB platform for evolutionary multi-objective optimization [Educational Forum] [J].IEEE Computational Intelligence Magazine,2017,12(4): 73-87.   \n[24].Zitzler E,Deb K,Thiele L.Comparison of multiobjective evolutionary algorithms:empirical results [J].Evolutionary Computation,2ooo,8 (2): 173-195.   \n[25]．Deb K,Thiele L,Laumanns M,et al.Scalable test problems for evolutionary multiobjective optimization[C]//Evolutionary Multiobjective Optimization Theoretical Advances and Applications.20o5:105-45.   \n[26] .Veldhuizen DAV,Lamont G B.On measuring multiobjective evolutionary algorithm performance [C]//Proc ofCongress on Evolutionary Computation. 2000.   \n[27]．Zhang Q,Zhou A，Jin Y. RM-MEDA:a regularity model-based multiobjective estimation of distribution algorithm [J].IEEE Trans on Evolutionary Computation,2008,12(1): 41-63.   \n[28] .Yuan Y,XuH,Wang B,et al.Anew dominance relation-based evolutionary algorithm for many-objective optimization [J].IEEE Trans on Evolutionary Computation,2016,20(1): 16-37. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

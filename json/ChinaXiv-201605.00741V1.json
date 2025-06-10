@@ -1,0 +1,460 @@
+[
+    {
+        "type": "text",
+        "text": "All ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops oflight-sensitive ctenophore photoprotein berovin bind magnesium ions: The spatial structure of $\\mathrm { M g } ^ { 2 + }$ -loaded apo-berovin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ludmila P.Burakova a,b.c.1, Pavel V. Natashin a,b.c.1, Natalia P.Malikovab,Fengfeng Niu cd,Mengchen Pu, Eugene S. Vysotski b,\\*, Zhi-Jie Liu a.c.d,\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aInstituteofolecularandClinicalMedicine,KunmingMedicalUniversity,Kunmingo5ooina   \nbotb   \nNationalbatyfcmolelesttefiedefsdeg   \ndiHuman Institute,ShanghaiTech University,99 Haike Road,Shanghai201210,hina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 24 September 2015   \nReceived in revised form 24 November 2015   \nAccepted 25 November 2015   \nAvailable online 2 December 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nBioluminescence   \nCoelenterazine   \nAequorin   \nObelin   \nCalcium ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Light-sensitive photoprotein berovin accounts fora bright bioluminescence of ctenophore Beroe abyssicola. Berovin is functionally identical to the well-studied ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins of jellyfish, however in contrast to those it is extremely sensitive to the visible light. Berovin contains three EF-hand $\\mathsf { C a } ^ { 2 + }$ -binding sites and consequently belongs to a large family of the EF-hand ${ \\mathsf { C a } } ^ { 2 + }$ -binding proteins.Here we report the spatial structure of apo-berovin with bound $\\mathrm { M g } ^ { 2 + }$ determined at $1 . 7 5 \\mathring { \\mathrm { A } } .$ The magnesium ion is found in each functional EF-hand loop ofaphotoprotein and coordinated by oxygen atoms donated by the side-chain groups of aspartate, carbonyl groups of the peptide backbone,or hydroxyl group of serine with characteristic oxygen- $\\cdot \\mathrm { M g } ^ { 2 + }$ distances. As oxygen supplied by the side-chain of the twelfth residue of all ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops participates in the magnesium ion coordination,it was suggested that ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops of berovin belong to the mixed $\\mathsf { C a } ^ { 2 + } / \\mathsf { M g } ^ { 2 + }$ rather than ${ \\mathsf { C a } } ^ { 2 + }$ -specific type.In addition,we report an effect of physiological concentration of $\\mathrm { M g } ^ { 2 + }$ on bioluminescence of berovin (sensitivity to ${ \\mathsf { C a } } ^ { 2 + }$ ,rapid-mixed kinetics,light-sensitivity,thermostability,and apo-berovin conversion into active protein).The different impact of physiological concentration of $\\mathrm { M g } ^ { 2 + }$ on berovin bioluminescence as compared to hydromedusan photoproteins was atributed to diferent afinities of the ${ \\mathsf { C a } } ^ { 2 + }$ -binding sites of these photoproteins to $\\mathrm { M g } ^ { 2 + }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015 Elsevier B.V.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins are single-chain proteins which are responsible for the light emission of a variety of marine organisms [1]. The best known and best studied of these are aequorin,first isolated in 1962 by Shimomura et al.[2] from the jellyfish Aequorea victoria, and obelin from the hydroid Obelia longissima [3]. The ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins are “precharged\"bioluminescent proteins that are triggered to emit light by binding calcium or certain other inorganic ions. The reaction does not require the presence of molecular oxygen or any other cofactor - the photoprotein and the triggering ion are the only components required for light emission.Since the energy emitted as light is derived from the “charged\"photoprotein,the photoprotein molecule reacts only once,i.e.,it does not“turn over\"as an enzyme does.In this respect,as well as in the lack of a requirement for molecular oxygen or any other cofactor,the reaction is strikingly different from that of classical bioluminescent systems in which an enzyme (luciferase) catalyzes the oxidation of a smaller organic substrate molecule (luciferin） yielding the product in the excited state and following light emission[1].However the oxygen is involved ina photoprotein bioluminescence - $0 _ { 2 }$ is needed for the formation of an active photoprotein from apoprotein and coelenterazine at ${ \\mathsf { C a } } ^ { 2 + }$ -free conditions.In fact,the photoprotein is an enzyme containing the stabilized reaction intermediate,2-hydroperoxycoelenterazine,which is tightly but non-covalently bound within inner protein cavity.The photoprotein light emission reaction is an oxidative decarboxylation of peroxysubstituted coelenterazine with the elimination of carbon dioxide and generation of the protein-bound product,coelenteramide,in the $S _ { 1 }$ excited state [4,5]. The excited product then relaxes to the ground state accompanied by light emission with a maximum within the range $4 6 5 { - } 4 9 5 \\mathrm { n m }$ ,depending on the photoprotein type [6]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioluminescence of ctenophores (comb jellies） ubiquitously distributed in the oceans [7] is also caused by ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins [1].Although ctenophore photoproteins are identical to hydromedusan photoproteins in many properties [8,9],in contrast of these,they are extremely sensitive to UVand visible light. Ctenophore photoproteins lose the ability to bioluminescence on exposure to light over its entire absorption spectral range [10,11]. In the past decade,cDNA genes encoding ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins from ctenophores Beroe abyssicola[12],Bolinopsisinfundibulum[13,14],Mnemiopsisleidyi[15, 16],and Bathocyroe fosteri [17] have been cloned.The comparison of ctenophore photoprotein amino acid sequences with those of aequorin [18,19],clytin [20,21],and mitrocomin [22] from the jellyfish A.victoria, Clytia gregaria,and Mitrocoma cellularia,respectively,and obelins [23, 24] from the hydroids O.longissima and O.geniculata revealed a very lowdegree of identity (only $2 9 . 4 \\%$ ）[12,17].This suggests that ctenophore photoproteins represent a novel type of ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins which differs from hydromedusan photoproteins. However,despite the differences,both ctenophore and hydromedusan ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins contain three ${ \\mathsf { C a } } ^ { 2 + }$ -binding motifs formed bytwo $\\alpha$ -helices that flank a canonical sequence loop region consisting of 12 contiguous residues which supply the oxygen ligands for ${ \\mathsf { C a } } ^ { 2 + }$ coordination [25].The crystal structures of ${ \\mathsf { C a } } ^ { 2 + }$ ， regulated photoproteins from different organisms determined in the past decade [26-29] confirmed the existence of helix-loophelix structures in photoproteins,three of which can bind calcium ions [29-31].This structure feature brings photoproteins into the family of EF-hand ${ \\mathsf { C a } } ^ { 2 + }$ -binding proteins [32].These proteins are the extensively studied protein familyas theyare involved ina regulation of numerous cellular functions from fertilization,contraction,cell differentiation and proliferation,to apoptosis and cancer through control of $\\{ \\mathsf { C a } ^ { 2 + } \\} _ { \\mathrm { i } }$ [33]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins have attracted great interest owing to their broad applications in analytical assays in vivo and in vitro [3].However,the main use of photoproteins derives from their ability to emit light on ${ \\mathsf { C a } } ^ { 2 + }$ binding,allowing them to be applied to detect calcium ionswithin living cells [34,35].Despite the availability of otherrecombinant photoproteins,only aequorin is widely used as an intracellular ${ \\mathsf { C a } } ^ { 2 + }$ indicator though there are a number of shortcomings that limit its utility.The most significant drawback is that physiological concentrations of magnesium ions [36] considerably slow the bioluminescence response of aequorin on a sudden change of ${ \\mathsf { C a } } ^ { 2 + }$ concentration and decrease its sensitivity to calcium [37,38] that is obviously caused by competition of $\\mathrm { M g } ^ { 2 + }$ with calcium for ${ \\mathsf { C a } } ^ { 2 + }$ -binding sites [39]. Bioluminescence of other ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins is less sensitive to magnesium[4O] that is apparently due to the variations in amino acid composition of the ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops and,consequently, lead to different affinities to $\\mathrm { M g } ^ { 2 + }$ .For instance,only ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops Iand III of aequorin bind magnesium ions [39].At that, the affinities of ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops to $\\mathrm { M g } ^ { 2 + }$ were found to be different though the degree of identity ofamino acid sequences of these loops is $6 6 . 7 \\%$ It should be pointed out that there is no direct evidence of binding magnesium ions by the ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops of other ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we report the crystal structure of apoberovin from B.abyssicola with three magnesium ions bound at its ${ \\mathsf { C a } } ^ { 2 + }$ -binding sites determined at $1 . 7 5 \\mathring { \\mathrm { A } }$ resolution,as well as the effect of $\\mathrm { M g } ^ { 2 + }$ on berovin bioluminescence properties. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materialsand Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All reagents were used as received without further purification unless otherwise stated and were obtained from Sigma-Aldrich.The coelenterazine Was purchased from Prolume Ltd (Pinetop, USA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Protein Production and Purification ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To produce protein,the plasmid p22-BA containing the gene encoding apo-berovin from B.abyssicola without any purification tags[12],was transformed into E. coli cells strain BL21(DE3)- ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CodonPlus-RIPL(Novagen,USA).Then the transformed cells were cultivated with vigorous shakingat $3 7 ^ { \\circ } \\mathrm { C }$ in LB medium containing ampicillin and induced with $1 \\mathrm { m M }$ IPTG when the culture reached an ${ \\tt O D } _ { 6 0 0 }$ of 0.6.After addition of IPTG,the cultivation was continued for $^ { 3 \\mathrm { ~ h ~ } }$ .Most of the apo-berovin produced was accumulated inside E.coli cells in inclusion bodies that can be easily isolated by centrifugation.The apo-berovin was purified as previously described [12,41, 42].For crystallization experiments,the apo-berovin was prepared by dilution of apoprotein sample in $6 \\mathrm { M }$ urea obtained after chromatography on DEAE Sepharose Fast Flowin buffer $2 \\mathrm { m M }$ EDTA, $1 0 \\mathrm { m M }$ Tris-HCl pH 9.O and the following concentration on Amicon centrifugal filters(Millipore,USA).For bioluminescence measurements, the berovin was prepared by dilution of apoprotein sample in $6 \\mathrm { M }$ urea obtained after chromatography on DEAE Sepharose Fast Flow in buffer0.5MNaCl,5mMEDTA, $2 0 ~ \\mathrm { m M }$ Tris-HCl pH 9.0, concentration on Amicon centrifugal filters,and incubation with coelenterazine (apoprotein/coelenterazine molarratio 1/1.1）overnight at $4 ^ { \\circ } \\mathsf C$ The coelenterazine concentration was determined using the absorption coefficient $\\varepsilon _ { 4 3 5 \\ \\mathrm { n m } } = 9 8 0 0 \\ \\mathrm { c m } ^ { - 1 } \\ \\mathrm { M } ^ { - 1 }$ [1].To separate apoprotein from the charged berovin the photoprotein was additionally purified by ion-exchange chromatography on Mono Q column (GE Healthcare) equilibratedwith $5 \\mathrm { m M }$ EDTA, $2 0 ~ \\mathrm { m M }$ Tris-HCl pH7.2.Before loading on the Mono Q column, the berovin sample was diluted 2O-fold with $5 \\mathrm { m M }$ EDTA, $2 0 \\mathrm { m M }$ Tris-HCl pH7.2.The berovin was eluted witha linearsalt gradient(O-O.5 MNaCl in $5 \\mathrm { m M }$ EDTA, $2 0 \\mathrm { m M }$ Tris-HCl pH7.2). The obtained protein samples were of high purity according to SDS PAGE. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Obelin and aequorin were produced and purified as described elsewhere [41,42]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2. Crystallization,Data Collection, Structure Solution, and CrystallographicRefinement ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The initial crystallization trial was carried out with apo-berovin sample in concentration of $1 4 . 5 \\mathrm { m g } \\mathrm { m L } ^ { - 1 }$ .A Mosquito crystallization robot(TTP LabTech,UK) and 384 commercially available conditions were used for initial screening.A cluster of translucent rods (about $0 . 0 0 5 \\times 0 . 0 1 \\times 0 . 0 3 ~ \\mathrm { m m }$ in size）was grown in 3 weeks at $4 ~ ^ { \\circ } C$ in $0 . 2 \\mathrm { ~ M ~ }$ magnesium format, $2 0 \\%$ PEG 3350, $\\mathsf { p H } 6 . 5$ （PEG ION,Hampton Research,USA).The apo-berovin crystals suitable for diffraction data collection were grown in1 week at $1 6 ^ { \\circ } C$ after manual optimization of this condition with different apo-berovin concentrations using the hanging-drop vapor-diffusion technique.The best crystals $( 0 . 0 5 \\times 0 . 1 \\times 0 . 2 \\mathrm { m m } )$ were obtained atapo-berovin concentration of $2 0 \\mathrm { m g } \\mathrm { m L } ^ { - 1 }$ .The crystals were frozen in liquid nitrogen in a cryoprotectant solution of glycerol.The diffraction data set was collected at wavelength of $0 . 9 7 9 2 \\mathring { \\mathrm { A } }$ at beamline BL17U1 of the Shanghai Synchrotron Radiation Facility(Shanghai,China).Data reduction was carried out with the HKL2ooO suite [43].Phases were determined by molecular replacementwith PHASER [44] using apo-berovin structure (PDB entry 4MNO）[29]as search model.The final models were refined with PHENIX[45] and REFMAC5 [46].Manual adjustments to the model were performed with the program COOT [47].The final refinement statisticsare shown in Table 1.Visualizationand superposition of the molecular structures Was carried out using PyMol (DeLano Scientific LLC). Atomic coordinates and structure factors have been deposited in the Protein Data Bank under accession code 5BPJ. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Calcium Concentration-Effect Curve ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Measurements were performed with EDTA-free solutions of the photoproteins.EDTA was removed from the photoprotein by gel filtration on a DSalt plastic column(Pierce,USA).The column was equilibrated and eluted with $1 5 0 ~ \\mathrm { m M }$ KCl, $5 ~ \\mathrm { m M }$ Pipes, $\\mathsf { p H } 7 . 0$ which had been passed twice through freshly washed beds of Chelex-1oo chelating resin（Sigma-Aldrich）to remove the trace ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Measurements with berovin were carried out under dim red light in orderto avoid itsphotoinactivation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0c1d93e7cfecf70e0fd4c8918002e4a812104f7047992dd6792597db423baef.jpg",
+        "table_caption": [
+            "Table 1 Summary of crystallographic statistics. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Statistics</td><td>Value</td></tr><tr><td>Resolution range/A</td><td>50.00-1.75 (1.81-1.75)</td></tr><tr><td>Wavelength/A</td><td>0.9792</td></tr><tr><td>Data processing</td><td></td></tr><tr><td>Space group</td><td>C2</td></tr><tr><td>Cell dimensions/A</td><td>a = 94.82,b= 33.16,c= 72.07</td></tr><tr><td>Unit cell angles</td><td>α= 90,β= 126.7,γ= 90</td></tr><tr><td>Unique reflections</td><td>15170 (576)</td></tr><tr><td>Completeness (%)</td><td>83.01 (32.16)</td></tr><tr><td>Mean I/o (I)</td><td>20.62 (2.01)</td></tr><tr><td>Redundancy</td><td>3.20 (1.90)</td></tr><tr><td>Refinement</td><td></td></tr><tr><td>Resolution range/A</td><td>24.59-1.75</td></tr><tr><td>Rwork; Rfree (%)</td><td>22.19 (40.35); 24.34 (31.50)</td></tr><tr><td>Mean B factor/A²</td><td>50.80</td></tr><tr><td>Protein atoms (solvent)</td><td>1515 (97)</td></tr><tr><td>RMSD bond length/A</td><td>0.014</td></tr><tr><td>RMSD bond angle/°</td><td>1.48</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "amounts of ${ \\mathsf { C a } } ^ { 2 + }$ .Photoprotein containing fractions were identifed by the bioluminescence assay.To avoid possible contamination with EDTA,only the first few protein fractions to come off the column were used to determine the $\\mathsf { C a } ^ { 2 + }$ concentration-effect curve. CaEGTA buffers (total $\\mathrm { \\Delta } [ \\mathrm { E G T A } ] = 2 \\ : \\mathrm { m M } _ { \\cdot }$ ）wereused to establish ${ \\mathsf { C a } } ^ { 2 + }$ concentrations below $1 0 ^ { - 5 } \\mathrm { { M } }$ ,and simple dilutions of $\\mathsf { C a C l } _ { 2 }$ (in a Chelexscrubbed solution of $1 5 0 \\mathrm { m M }$ KCl, $5 \\mathrm { m M }$ PIPES,pH7.O) were used for the range of ${ \\mathsf { C a } } ^ { 2 + }$ concentrations from $1 0 ^ { - 6 }$ to $1 0 ^ { - 2 } ~ \\mathrm { M }$ The ${ \\mathsf { C a } } ^ { 2 + }$ buffers were prepared using the two stock-solution method [48]. Peak lightintensity(L) was measured after $1 0 \\mu \\mathrm { L }$ of the photoprotein solution was forcefully injected into $1 ~ \\mathrm { m L }$ of the test solution by constant-rate syringe(Hamilton,USA).All measurements were carried out at $2 0 ^ { \\circ } \\mathsf C$ using a luminometer equipped with a temperature-stabilized cuvette block supplied by neutral-density filters with different transmission coefficients to fit light signals from low to saturated calcium concentrations ranging over approximately $5 { - } 8 ~ \\log$ units depending on photoprotein [40,49] or coelenterazine analog used [1,5O].The apparent dissociation constant $\\left( K _ { \\mathrm { d } } \\right)$ was determined as described elsewhere [40]. The stated error is the standard deviation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.Rapid-Mixing Kinetic Measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The light response kinetics after sudden exposure to calcium was determined at $2 0 ^ { \\circ } \\mathsf C$ with an SX20 stopped-flow machine (cell volume $2 0 { \\mu \\mathrm { L } }$ ,dead-time $1 . 1 \\mathrm { m s }$ )(Applied Photophysics,UK).The temperature was supported witha circulating water bath.The light kinetics was examined for EDTA-free solution of the berovin at $[ \\mathsf { C a } ^ { 2 + } ]$ of 0.1 and $2 0 ~ \\mathrm { m M }$ .The ${ \\mathsf { C a } } ^ { 2 + }$ syringe contained $4 0 \\mathrm { m M } \\mathrm { C } \\mathsf { a } ^ { 2 + }$ ， $3 0 ~ \\mathrm { m M }$ KCl, $5 \\mathrm { m M }$ PIPES buffer, $\\mathrm { p H } ~ 7 . 0$ or $0 . 2 \\mathrm { \\ m M \\ C a } ^ { 2 + }$ ， $1 5 0 \\ \\mathrm { m M }$ KCl, $5 ~ \\mathrm { m M }$ PIPES, $\\mathrm { p H } 7 . 0$ for the calcium concentrations of 20 or $0 . 1 ~ \\mathrm { m M }$ ,respectively. The photoprotein was dissolved in a ${ \\mathsf { C a } } ^ { 2 + }$ -free solution of $1 5 0 ~ \\mathrm { m M }$ KCl, $5 \\mathrm { m M }$ PIPES, $\\mathsf { p H } 7 . 0$ to hold the same ionic strength of solutions. Both syringes Were pre-washed with the EGTA solution and then, thoroughly,with deionized water.The solutions were mixed in equal volumes.The rise and decay rate constants were calculated bya oneexponential fit with Sigma Plot as described previously [4O].The rise and decay rate constants are the mean of the corresponding constants determined from about ten shots,and the stated error is the standard deviation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When measurements for ${ \\mathsf { C a } } ^ { 2 + }$ concentration-effect curves and kinetics were to be made with magnesium ions,the samples were pre-equilibrated for $^ { 1 \\mathrm { ~ h ~ } }$ with $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ .All other solutions used in these measurements (Ca-EGTA buffers,dilutions of $\\mathsf { C a C l } _ { 2 }$ ,and ${ \\mathsf { C a } } ^ { 2 + }$ solution in a syringe for rapid-mixing kinetic measurements）also contained $1 \\mathrm { m M } \\mathrm { M g } ^ { 2 + }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1. Overall Structure ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The spatial structure of apo-berovin loaded with $\\mathrm { M g } ^ { 2 + }$ retains the same two-domain globular scaffold characteristic of the different ligand-dependent conformation states [6,31] of ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins and ${ \\mathsf { C a } } ^ { 2 + }$ -dependent coelenterazine-binding protein from luminous soft coral Renilla muelleri [51,52] (Fig.1).The final model of apo-berovin includes 180 of the 2o8 amino acids（1515 atoms)and 97 solvent molecules(Table 1).Residues1-3,27-36, 159 and 195-2o8 are not visible in the electron-density maps,as is frequently observed for structures of other ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although overall structures of apo-berovin bound with $\\mathrm { M g } ^ { 2 + }$ and $\\mathsf { C a } ^ { 2 + }$ are almost identical (the RMsDs for main- and side-chain atoms are only 0.65 and $1 . 5 4 \\mathring { \\mathrm { A } } ,$ respectively),there are certain local structure distinctions between $\\mathrm { M g } ^ { 2 + } .$ and ${ \\mathsf { C a } } ^ { 2 + }$ -bound apo-berovin structures (Table 2),which are most likely due to the binding of different ions. For instance,the structural differences of the main-and side-chain atoms of EF-hands Iand IVare bigger than those of EF-hands II and III, and the distinctions of the side-chain atoms of loops Il and IVare greater than those of loop I,also capable to bind ion,and loop II having no consensus sequence for ion coordination (Table 2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2eec3dc31f62ae3e47c2e72ca9bda175f49a2e97a1e155ff829f80e9692c056f.jpg",
+        "img_caption": [
+            "Fig.1.Superposition of the overall structures of apo-berovin bound with $\\mathrm { M g ^ { 2 + } }$ (blue) and ${ \\mathsf { C a } } ^ { 2 + }$ (yellow).Magnesium and calcium ions are shown as blue and yellow balls respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c4e2c69b2eb69abb8600ca3ea5397429e698a038ec0ede82fb717b60d349f53.jpg",
+        "table_caption": [
+            "Table 2 The RMSD values of apo-berovin with bound $\\mathrm { M g } ^ { 2 + }$ Vs. ${ \\mathsf { C a } } ^ { 2 + }$ -bound apo-berovin. "
+        ],
+        "table_footnote": [
+            "§The RMSDs were calculated using “Superpose\"from the CP4 suite [53]. "
+        ],
+        "table_body": "<html><body><table><tr><td>Structural parts of apo-berovin</td><td>RMSD of main-chain/side-chain atoms (A)$</td></tr><tr><td>Overall (10-193)</td><td>0.65/1.54</td></tr><tr><td>N-terminal domain (10-122)</td><td>0.39/1.44</td></tr><tr><td>C-terminal domain (123-193)</td><td>0.65/1.59</td></tr><tr><td>EF-hand I(36-69)</td><td>0.41/1.67</td></tr><tr><td>EF-hand II (72-120)</td><td>0.29/1.17</td></tr><tr><td>EF-hand III (124-158)</td><td>0.38/1.24</td></tr><tr><td>EF-hand IV(161-193)</td><td>0.78/1.79</td></tr><tr><td>Loop I(46-57)</td><td>0.27/0.67</td></tr><tr><td>Loop II (91-102)</td><td>0.24/0.72</td></tr><tr><td>Loop III (138-149)</td><td>0.41/1.46</td></tr><tr><td>Loop IV (172-183)</td><td>0.27/1.49</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2. $C a ^ { 2 + } .$ -Binding Sites ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The magnesium ions are found in each of the functional EF-hand loops I, II,and IV of apo-berovin (Figs.1 and 2).In contrast to calcium ion requiring seven oxygen atoms for its coordination within EF-hand loop, $\\mathrm { M g } ^ { 2 + }$ is coordinated by six oxygen atoms arranged in an octahedral geometry [33].These oxygen atoms are contributed by the carboxylic side-chain groups of aspartate,carbonyl groups of the peptide backbone or hydroxyl group of serine (Fig.2,left).Glutamate residues located in the twelfth position of each ${ \\mathsf { C a } } ^ { 2 + }$ -binding loop providea monodentate ligand for $\\mathrm { M g } ^ { 2 + }$ (Fig.2,left) as compared to a bidentate ligand (Fig.2,right) in the case of ${ \\mathsf { C a } } ^ { 2 + }$ coordination. It is interesting to note that we did not find rotation of the $C _ { \\alpha ^ { - } } C _ { \\beta }$ bond of Glu as it takes place in parvalbumin (Fig.3C),for example,and which,as is assumed,plays a key role inadapting the number of co-ordination ligands of the EF-hand loops for the different cations [54,55].In apo-berovin,the repositioning of Glu side-chains in the 12-th position of each EF-hand loop is small relative to the structure of ${ \\mathsf { C a } } ^ { 2 + }$ loaded apo-berovin.For some reason we did not find the sixth oxygen ligand for coordination of $\\mathrm { M g } ^ { 2 + }$ in loops Iand III(Fig.2,left). Of note is that often this function can carry out oxygen of water molecule as it takes place at ${ \\mathsf { C a } } ^ { 2 + }$ coordination [33].The average distances between magnesium ion and oxygen are 2.24,2.29,and $2 . 3 1 \\mathring { \\mathsf { A } }$ for loops I, III,and IV,respectively,and is shorter as compared to ${ \\mathsf { C a } } ^ { 2 + }$ bound within EF-hand loops of apoberovin (2.36,2.39,and $2 . 3 8 \\mathring { \\mathrm { A } }$ for loops I, III,and IV,respectively) (Table SI) with an average distance $( { \\sim } 2 . 4 \\mathring \\mathrm { A } )$ between oxygen ligands and calcium ion [25,33].It should be noted that the average distance between $\\mathrm { M g } ^ { 2 + }$ and oxygen ligands in apo-berovin is somewhat longer than that observed in the loops of other EF-hand ${ \\mathsf { C a } } ^ { 2 + }$ -binding proteins $( \\sim 2 . 1 \\mathring \\mathrm { A } )$ [25,33]. However, the apo-berovin is no exception in this regard; in some other EF-hand ${ \\mathsf { C a } } ^ { \\bar { 2 } + }$ -binding proteins,for example,in spatial structure of $\\mathrm { M g } ^ { 2 + }$ -bound RLC(regulatory lightchain) of myosin [56],the distances between magnesium and oxygen ligands also exceed an average value (Fig.3B). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The EF-hand ${ \\mathsf { C a } } ^ { 2 + }$ -binding proteins contain two kinds of ${ \\mathsf { C a } } ^ { 2 + }$ -binding sites,which are classified as mixed $\\mathsf { C a } ^ { 2 + } / \\mathsf { M g } ^ { 2 + }$ and ${ \\mathsf { C a } } ^ { 2 + }$ -specific types depending on their selectivity and afinity for cations. The affinity to $\\mathrm { M g } ^ { 2 + }$ of mixed $\\mathsf { C a } ^ { 2 + } / \\mathsf { M g } ^ { 2 + }$ -binding sites is several folds higher as compared to ${ \\mathsf { C a } } ^ { 2 + }$ -specific sites [33].Despite a high selectivity for ${ \\mathsf { C a } } ^ { 2 + }$ in the resting cells at low $[ \\mathsf { C a } ^ { 2 + } ]$ ${ \\mathsf { C a } } ^ { 2 + }$ -specificsites may also be occupied by $\\mathrm { M g } ^ { 2 + }$ owing to the excess of this cation.However, in contrast to ${ \\mathsf { C a } } ^ { 2 + }$ coordination,only residues of N-terminal part of ${ \\mathsf { C a } } ^ { 2 + }$ -binding loop in positions 1,3,5,and 7 (other two oxygen ligands derive from water molecules）are involved in $\\mathrm { M g } ^ { 2 + }$ binding (e.g.as it was found for calbindin $\\mathsf { D } _ { \\mathsf { 9 K } }$ [57]).The mixed $\\mathsf { C a } ^ { 2 + } /$ $\\mathrm { M g } ^ { 2 + }$ -binding sites coordinate $\\mathrm { M g } ^ { 2 + }$ in almost the same manner as they bind ${ \\mathsf { C a } } ^ { 2 + }$ ; the oxygen ligand of side-chain of the twelfth residue of loop also participates in $\\mathrm { M g } ^ { 2 + }$ binding. There is only one distinction - the twelfth residue grants two oxygen ligands for ${ \\mathsf { C a } } ^ { 2 + }$ and only one oxygen ligand for $\\mathrm { M g } ^ { 2 + }$ (Fig.3 B, C).Thus,as the arrangement of $\\mathrm { M g } ^ { 2 + }$ within ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops of apo-berovin (Fig.2,left) is characteristic of the mixed $\\mathsf { C a } ^ { 2 + } / \\mathsf { M g } ^ { 2 + }$ -binding sites,we may soundly assume that all ${ \\mathsf { C a } } ^ { 2 + }$ -binding sites of berovin belong to this type. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Calcium Concentration-Effect Relation and Rapid-Mixing Kinetics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 shows ${ \\mathsf { C a } } ^ { 2 + }$ concentration-effect relations for the recombinant berovin and two hydromedusan photoproteins aequorin and obelin with and without $1 \\mathrm { m M } \\mathrm { M g } { \\mathrm { C l } _ { 2 } }$ .The ${ \\mathsf { C a } } ^ { 2 + }$ concentration-effect curves are log-log plots with light intensities expressed in terms of the ratio $\\mathrm { L } / \\mathrm { L } _ { \\mathrm { i n t } }$ which utility for representation of ${ \\mathsf { C a } } ^ { 2 + }$ concentration-effect curves has already been discussed [24,41].Similar to other ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins,the recombinant berovin responds to the change of $[ \\mathsf { C a } ^ { 2 + } ]$ in the range of $\\sim 1 0 ^ { - 8 } { - } 1 0 ^ { - 4 } \\mathrm { M }$ (Fig. 4). The apparent dissociation constants $\\left( K _ { \\mathrm { d } } \\right)$ characterizing the sensitivity of photoprotein to calcium determined from ${ \\mathsf { C a } } ^ { 2 + }$ concentration-effect curves using a two-state model [40,58] amount to $4 0 \\pm 3$ $4 5 \\pm 5$ ,and $9 1 \\pm 1 0 \\mathrm { n M }$ for berovin,aequorin,and obelin,respectively,i.e.the sensitivity of berovin without $\\mathrm { M g } ^ { 2 + }$ is the same as for aequorin but exceeds that of obelin. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins like other EF-hand ${ \\mathsf { C a } } ^ { 2 + }$ -binding proteins function in the cells in the presence of a $1 0 ^ { 2 } – 1 0 ^ { 4 }$ -fold excess of $\\mathrm { M g } ^ { 2 + }$ . Fig.4 summarizing the effect of $1 \\ \\mathrm { m M } \\ \\mathrm { M g ^ { 2 + } }$ on ${ \\mathsf { C a } } ^ { 2 + }$ concentration-effect relations for the recombinant berovin,aequorin, and obelin shows that $\\mathrm { M g } ^ { 2 + }$ noticeably affects only berovin and aequorin,but does not influence obelin.Despite the fact that the $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ shifts the ${ \\mathsf { C a } } ^ { 2 + }$ concentration-effect curve of berovin to the right similar to aequorin,the impact of this cation on ${ \\mathsf { C a } } ^ { 2 + }$ concentration-effect curves is nevertheless different.While the aequorin ${ \\mathsf { C a } } ^ { 2 + }$ concentration-effect curves obtained with and without magnesium ions become identical close to the saturating ${ \\mathsf { C a } } ^ { 2 + }$ (Fig. 4B), the presence of 1 mM $\\mathrm { M g } ^ { 2 + }$ shifts the ${ \\mathsf { C a } } ^ { 2 + }$ concentration-effect curve of berovin near the saturating $[ \\mathsf { C a } ^ { 2 + } ]$ as well (Fig.4A).Magnesium also decreases the affinity of ${ \\mathsf { C a } } ^ { 2 + }$ -binding sites of photoproteins (in the presence of $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + } \\ K _ { \\mathrm { d } }$ equals to $1 2 5 \\pm 2 2$ $8 3 \\pm 5$ ,and $1 3 2 \\pm 1 1 { \\mathrm { ~ n M } }$ for berovin,aequorin,and obelin,respectively) due to competition of this cation with ${ \\mathsf { C a } } ^ { 2 + }$ . The effect of $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ is more pronounced for berovin than for aequorin and obelin that is evidently caused by different affinity and selectivity of ${ \\mathsf { C a } } ^ { 2 + }$ -binding sites of these photoproteins to $\\mathrm { M g } ^ { 2 + }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins reveal a very low light emission in ${ \\mathsf { C a } } ^ { 2 + }$ -free solutions (called ${ \\mathsf { C a } } ^ { 2 + }$ -independent luminescence [59]) that is a result of a spontaneous decarboxylation reaction of the bound 2-hydroperoxycoelenterazine initiated by protein structural fluctuations (Fig.4).Again,the effect of $\\mathrm { M g } ^ { 2 + }$ is different for berovin,aequorin, and obelin.In case of aequorin $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ decreases the level of ${ \\mathsf { C a } } ^ { 2 + }$ -independent luminescence whereas ${ \\mathsf { C a } } ^ { 2 + }$ -independent luminescence of berovin and obelin slightly goes up in the presence of $\\mathrm { M g } ^ { 2 + }$ Fig.5 shows the stopped-flow records of berovin light signals obtained at two concentrations of ${ \\mathsf { C a } } ^ { 2 + }$ in the presence of $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ and without addition of cation.The rate constants for the rising and decayphases of the berovin light signalsare summarized in Table 3. Berovin reveals the lowest rate for the rise of the luminescence signal among ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins tested and even aequorin which has the lowest rate for rise of the luminescent signal $( k _ { \\mathrm { r i s e } } = 1 2 3 \\pm$ $1 \\ s ^ { - 1 }$ ）[40] is 6-fold faster than berovin. Of note is that the $k _ { \\mathrm { r i s e } }$ value of berovin at $[ \\mathsf { C a } ^ { 2 + } ]$ close to saturating $( 1 0 ^ { - 4 } \\mathrm { M } )$ is somewhat higher than that at saturating ${ \\mathsf { C a } } ^ { 2 + }$ concentration. The presence of $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ does not influence the rate of rise of berovin light signal at $2 0 \\mathrm { \\ m M }$ ${ \\mathsf { C a } } ^ { 2 + }$ (Fig.5A,left)，but slightly reduces $k _ { \\mathrm { r i s e } }$ value at $0 . 1 \\ \\mathrm { m M } \\ C a ^ { 2 + }$ (Fig. 5A,left). The effect of $\\mathrm { M g } ^ { 2 + }$ on $k _ { \\mathrm { r i s e } }$ at $0 . 1 ~ \\mathrm { m M }$ $\\mathsf { C a } ^ { 2 + }$ is very similar to the impact of $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ on a rise phase of light signals of obelins,clytin,and mitrocomin [4O].However,in contrast to berovin,the effect of $\\mathrm { M g } ^ { 2 + }$ on a rise phase for these photoproteins appears even at saturating $[ \\mathsf { C a } ^ { 2 + } ]$ of $2 0 ~ \\mathrm { m M } .$ A stronger effect of $\\mathrm { M g } ^ { 2 + }$ on the rise phase is observed only for aequorin; the $k _ { \\mathrm { r i s e } }$ value drops almost twice in the presence of $1 \\mathrm { m M } \\mathrm { M g } ^ { 2 + }$ [40]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/35fd44c395740cc60535bd7bee18fa41a2326cd8f0422a9d67fbf49c2f268adf.jpg",
+        "img_caption": [
+            "Fig.2. Apo-berovin ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops I(A),I (B),and IV (C) bound with $\\mathrm { M g ^ { 2 + } }$ (left, blue) and ${ \\mathsf { C a } } ^ { 2 + }$ (right, yelow,4MNo).Magnesium and calcium ions are shown as green and gray balls,respectively.Water molecules are shown as red balls. Distances are in A. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The decay kinetics of berovin can be satisfactorily characterized by a single rate constant(Table 3) similar to that of aequorin[4O].While the rise of berovin light signal is significantly lower even as compared to \"slow\"aequorin,the decay rate of berovin luminescence signal is faster than in the case of aequorin $( k _ { \\mathrm { d e c a y } } = 0 . 8 1 \\pm 0 . 0 1 s ^ { - 1 } ;$ ,clytin $( k _ { \\mathrm { d e c a y } } =$ $0 . 8 8 \\pm 0 . 0 1 { s } ^ { - 1 } ,$ ,and mitrocomin $( k _ { \\mathrm { d e c a y } } = 1 . 1 0 \\pm 0 . 0 1 s ^ { - 1 } )$ , but significantly lower than that for obelin $( k _ { I \\mathrm { d e c a y } } = 4 0 . 0 0 \\pm 1 . 7 5 s ^ { - 1 }$ $k _ { \\mathrm { 2 d e c a y } } =$ $4 . 8 0 \\pm 0 . 0 5 \\ : s ^ { - 1 }$ ） [40]. Again, $\\mathrm { M g } ^ { 2 + }$ influences the luminescence decay rate of berovin only at $0 . 1 \\mathrm { \\ m M \\ C a } ^ { 2 + }$ （Fig.5B,right）( $1 \\ \\mathrm { m M \\ M g ^ { 2 + } }$ reduces $k _ { \\mathrm { d e c a y } }$ value more than 1.5 times) and has no effect at saturating $[ \\mathsf { C a } ^ { 2 + } ]$ of $2 0 \\mathrm { m M }$ (Fig.5A,right). Of note is that in case of hydromedusan photoproteins $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ a little slows down the decay rates even at saturating $[ \\mathsf { C a } ^ { 2 + } ]$ [40]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The different effects of $\\mathrm { M g } ^ { 2 + }$ on sensitivity to calcium and bioluminescence kinetics of berovin,aequorin,and obelin are most likely caused by different affnity and selectivity of ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops to $\\mathrm { M g } ^ { 2 + }$ of these photoproteins.Although all ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins known to date contain ${ 3 } \\mathsf { C a } ^ { 2 + }$ -binding loops characteristic of EF-hand ${ \\mathsf { C a } } ^ { 2 + }$ -binding proteins consisting of 12 contiguous residues,the loop amino acid sequences are quite differentin berovin,aequorin,and obelin (Fig. 6).These distinctions,especially in residues donating oxygen ligand for cation coordination(positions 1,3,5,7,9,and 12),may account for different affinities and selectivities of ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops to $\\mathrm { M g } ^ { 2 + }$ explaining the different effect of this cation on bioluminescence and why only two ${ \\mathsf { C a } } ^ { 2 + }$ -binding sites of aequorin can bind magnesium, whereas $\\mathrm { M g } ^ { 2 + }$ was found in all berovin ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops（Fig.2, left).Although many attempts have been made to identify the key residues which determine the belonging of binding loop of EF-hand ${ \\mathsf { C a } } ^ { 2 + }$ -binding proteins to either ${ \\mathsf { C a } } ^ { 2 + }$ -specific or mixed $\\mathsf { C a } ^ { 2 + } / \\mathsf { M g } ^ { 2 + }$ type,the selectivity mechanism is still obscure. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e24a3fb37465906ae297e2e4dda39f5564f519ff2a94c9a907829e4699d59da8.jpg",
+        "img_caption": [
+            "Fig.3.Apo-berovin (loop II)(A),RLC of myosin (PDB code 1WDC)(B),and parvalbumin (PDB code 4PAL) (C) $\\mathsf { C a } ^ { 2 + }$ -binding loops bound with $\\mathrm { M g ^ { 2 + } }$ .Magnesium ions and water molecules are shown as green and red bals,respectively. Distances are in A. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The kinetic model suggested for the bioluminescence reaction of the photoprotein aequorin [59] assigns $k _ { \\mathrm { r i s e } }$ and $k _ { \\mathrm { d e c a y } }$ constants to steps corresponding to oxidative decarboxylation of the bound 2-hydroperoxycoelenterazine and conformational changes in the photoprotein in response to ${ \\mathsf { C a } } ^ { 2 + }$ binding,respectively.It was suggested that the water molecule situated close to the N1 atom of ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c80a8a585e086d922bb959942707977a6ca0067ec3318ee69c1512aca293f84.jpg",
+        "img_caption": [
+            "Fig. 4. ${ \\mathsf { C a } } ^ { 2 + }$ concentrationefectuesforeombatbroin(A)qurin)ndbelin()fromO.ogissmaitout(circes)andi $\\mathrm { M g } ^ { 2 + }$ (triangles).Filled symbols, Ca-EGTA buffers;open symbols,dilutions of $\\mathrm { C a C l } _ { 2 }$ L,lightintensityatthe particular ${ \\mathsf { C a } } ^ { 2 + }$ concentration, $\\mathrm { L } _ { \\mathrm { i n t } } ,$ total light intensity at saturating ${ \\mathsf { C a } } ^ { 2 + }$ concentration. Before measurements with magnesium ions,photoprotein samples were pre-equilibrated with 1 mM $\\mathrm { M g ^ { 2 + } }$ for $^ { 1 \\mathrm { h } }$ The measurements were performed at $2 0 ^ { \\circ } \\mathsf C$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfd202e5823bbd772f14652db2ef22edb84230f249d78eea466c3a9707ded7b2.jpg",
+        "img_caption": [
+            "Fig.5.Stopped-flow records of the light signal for recombinant berovin with $2 0 \\mathrm { m M C a } ^ { 2 + }$ (A)and $0 . 1 \\mathrm { m M } \\mathsf { C a } ^ { 2 + }$ (B) without (solid line) and with 1 mM $\\mathrm { M g } ^ { 2 + }$ (dashed line).The panels on te malized to its own maximum.Sampling intervals were $0 . 1 5 \\mathrm { m s }$ and $1 . 2 5 \\mathrm { m s }$ for the rising phase and the ful-time course,respectively.Before measurements,berovin was pre-equilibrated with $1 \\mathrm { m M } \\mathrm { M g } ^ { 2 + }$ for $^ { \\textrm { 1 h } }$ .The measurements were performed at $2 0 ^ { \\circ } \\mathsf C .$ ",
+            "Fig.6.Comparison of amino acid sequences of $\\mathsf { C a } ^ { 2 + } .$ -binding loops of berovin with those of obelin and aequorin. Dots indicate the sequence positions in which the amino acid residues are identical. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2-hydroperoxycoelenterazine within photoprotein cavity catalyzes the decarboxylation reaction of a substrate by protonation of the dioxetanone anion [6,31]. Recently, the crystal structure of Y138F obelin mutant was determined [6O].Despitea high degree of similarity of the overall structure and internal cavity of Y138F mutant with those of wild type obelin,a water molecule corresponding to that near the N1 atom of 2-hydroperoxycoelenterazine in wild type obelin was missing in Y138F mutant.Inaddition,this mutant has revealed much slower kinetics for the rise phase of a light signal as compared to the wild type obelin [6o].These findings have provided additional support for proposed hypothesis.The structure of ctenophore photoprotein with 2- hydroperoxycoelenterazine is unavailable yet.As the $k _ { \\mathrm { r i s e } }$ value for berovin is much less than that even for the slowest aequorin and because chemical bioluminescence reaction mechanism in ctenophore photoproteins most likely is the same as in jellyfish photoproteins,we can reasonably suggest that the corresponding water molecule in the internal cavity of berovinmay be absent too.It maybea cause of the slow kinetics of light signal rise phase as compared to hydromedusan photoproteins. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.Effect of $M g ^ { 2 + }$ on Stability of Berovin and Activation of apo-Berovin with Coelenterazine ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The magnesium has been shown to have a profound stabilizing effect on aequorin [39].We also tested the influence of physiological concentration of $\\mathrm { M g } ^ { 2 + }$ on some berovin properties such as thermostability, light-sensitivity,and formation of an active photoprotein from apoberovin,coelenterazine,and oxygen.These experiments were performed with EDTA-free berovin ina buffer $1 5 0 ~ \\mathrm { m M }$ KCl, $5 \\mathrm { m M }$ PIPES, $\\mathsf { p H } 7 . 0$ which mimic ${ \\mathsf { C a } } ^ { 2 + }$ -free ionic intracellular environment.In contrast to aequorin for which the addition of magnesium ions enhanced its thermostability [39], the presence of $1 \\mathrm { m M M g ^ { 2 + } }$ increased thermostability of berovinat room temperature onlya little;after $6 0 \\mathrm { - h }$ incubation berovin preserves 4 and $1 . 3 \\%$ of initial light activity with and without $\\mathrm { M g } ^ { 2 + }$ ,respectively (Fig.7A).The $\\mathrm { M g } ^ { 2 + }$ addition does not noticeablyaffect the resistance of berovinto lightaswell;after1-h irradiation berovin preserves only 0.043 and $0 . 0 0 2 \\%$ of initial light activity with and without $1 \\mathrm { m M } \\mathrm { M g } ^ { 2 + }$ ,respectively (Fig. 7B). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7bcf8f3c23dce97a30000f580e3e6b7b85304b05e5e41b24719b3b0f80dc32aa.jpg",
+        "table_caption": [
+            "Table 3 Rate constants for the rise and decay of bioluminescence for recombinant berovin. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">[Ca²+] (mM)</td><td colspan=\"2\">Krise (s-1)</td><td colspan=\"2\">Kdecay (s-1)</td></tr><tr><td>Without Mg² +</td><td>With 1 mM Mg²+</td><td>Without Mg² +</td><td>With 1 mM Mg²+</td></tr><tr><td>20</td><td>16.3 ± 0.08</td><td>16.1 ± 0.1</td><td>2.50 ± 0.01</td><td>2.52 ± 0.01</td></tr><tr><td>0.1</td><td>20.3 ± 0.07</td><td>17.4 ± 0.1</td><td>1.29 ± 0.01</td><td>0.76 ± 0.01</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition to sensitivity to light,another feature distinguishing ctenophore photoproteins from those of jellyfish is that the best conditions[12] for in vitro conversion of apo-berovin into active photoprotein fromapoprotein,coelenterazine,and oxygen are at $\\mathsf { p H 9 . 0 }$ with a presence of $0 . 5 \\mathrm { ~ M ~ N a C l }$ ,while hydromedusan apophotoproteins can be ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Identity   \nBerovin DLDSDGKMEMDE $1 0 0 . 0 \\frac { \\circ } { \\circ }$   \nObelin .INGN..ITL.. $4 7 . 1 \\%$   \nAequorin .VNHN.RISL.. $3 3 . 3 \\frac { 0 } { 0 }$ Loop l   \nBerovin DDDGDGTVDVDE 100.0%   \nObelin .K..S..ITL.. 58.3%   \nAequorin .K.QN.AISL.. 41.7% Loop IlI   \nBerovin DTDKSGKLERTE 100.0%   \nObelin .L.N..D.DVD. $5 0 . 0 \\%$   \nAequorin .I.E..Q.DVD. $5 0 . 0 \\%$ Loop IV ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9c715b4c98ce3b93c18a750c594a76b957bad8472e9fe4a478322a13cb32d6d.jpg",
+        "img_caption": [
+            "Fig.7.Bioluminescent activity of berovin before(1) and after(2) incubation during $6 0 \\mathrm { h }$ at room temperature in the dark(A)and irradiation by visible light during 1h (B)without (black) and with 1 mM $\\mathrm { M g ^ { 2 + } }$ (gray). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "effectively converted into active photoproteins at neutral pH and low ionic strength.These conditions are far from physiological conditions within animal cells,even for highly tailored cells like photocytes.Moreover,in contrast to clytin which sequence has signal peptide for direction of photoprotein into mitochondria [61] where pH is more alkaline than in cell cytoplasm [62], the berovin does not comprise any targeting sequence which could direct photoprotein into some cell compartment where such untypical intracellular environment could be supported. Thus,it is evident that the formation of an active berovin has to occur in cytoplasm of cells where pH is close to neutral. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To simulate intracellular conditions at apo-berovin conversion into active photoprotein,we used the $\\mathsf { C a }$ -EGTA buffer ensuring $[ \\mathsf { C a } ^ { 2 + } ]$ of $1 . 0 \\times 1 0 ^ { - 8 } \\mathrm { M }$ which mimics $[ \\mathsf { C a } ^ { 2 + } ]$ in cytoplasm of a \"resting\"mammalian cells and EDTA-free apo-berovin sample in $1 5 0 ~ \\mathrm { m M }$ KCl, $5 ~ \\mathrm { m M }$ PIPES, $\\mathrm { p H } 7 . 0$ in order not to disturb $[ \\mathsf { C a } ^ { 2 + } ]$ ,ionic strength,and pH. The apo-berovin charging was performed both without and with $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ . In the experiments with magnesium,apo-berovin was pre-equilibrated with $1 \\mathrm { m M } \\mathrm { M g } ^ { 2 + }$ for $^ { 1 \\mathrm { h } }$ before coelenterazine adding since the affinity to ${ \\mathsf { C a } } ^ { 2 + }$ of EF-hand ${ \\mathsf { C a } } ^ { 2 + }$ -binding sites is higher than for $\\mathrm { M g } ^ { 2 + }$ .Fig.7 shows the kinetics of apo-berovin conversion into active photoprotein at conditions mimicking the physiological conditions and in the buffer of high ionic strength [12] at $\\mathsf { p H 9 . 0 }$ and 7.2,containing $5 \\mathrm { m M }$ EDTA.Although the presence of $\\mathrm { M g } ^ { 2 + }$ increases the yield of an active berovin at physiological conditions almost tenfold, the efficiency of apo-berovin conversion into active photoprotein in a buffer with $0 . 5 \\mathrm { M }$ $\\mathsf { N a C l }$ is considerably higher,evenat neutral pH(Fig.8).Since such a high ionic strength is hardly possible in cytoplasm,even in the cells of marine animals,we may reasonably suggest that aside from the low $[ \\mathsf { C a } ^ { 2 + } ]$ $\\mathrm { M g } ^ { 2 + }$ ，coelenterazine,and oxygen,some additional “intracellular players\"may be involved in the process of conversion of apo-berovin into active photoprotein in vivo in order to provide the high yield of charged protein and,consequently,a bright bioluminescence of ctenophores [1].The fact that apo-berovin can be converted into active photoprotein in cytoplasm of CHO cells [12] suggests that intracellular \"factors\"required for effective apo-berovin charging in photocytes of ctenophore may also be present in other types of mammalian cells and consequently may be some kinds of widespread compounds. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b285a4221008356e804167daa677a1be3540f19475743b30493c598866769e2.jpg",
+        "img_caption": [
+            "Fig.8.Kinetics of apo-berovin conversion into active photoprotein in $\\mathsf { C a }$ -EGTAbuffer $( [ \\mathsf { C a } ^ { 2 + } ] = 1 . 0 \\times 1 0 ^ { - 8 } \\mathrm { M }$ $1 5 0 ~ \\mathrm { m M }$ KCl, $5 \\mathrm { m M }$ PIPES, pH 7.2) $( \\bullet )$ ,Ca-EGTA buffer with $1 \\ \\mathrm { m M \\ M g ^ { 2 + } \\ ( | }$ 1),in bufferO.5MNaCl, $5 ~ \\mathrm { m M }$ EDTA, $5 0 ~ \\mathrm { m M }$ Tris-HCl, pH 7.4 $( \\blacktriangle )$ and pH 9.0 (←).The apo-berovin charging Was performed at $8 ^ { \\circ } C$ in the dark. The apo-berovin concentration was $0 . 9 \\mu \\mathrm { M }$ ；theapo-berovin to coelenterazine ratio was1:15. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study we report for the first time the spatial structure of the light-sensitive ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoprotein berovin from the ctenophore B. abyssicola determined in its apoform bound with magnesium ions.The spatial structure demonstrates that each functional EF-hand loop of apo-berovin binds $\\mathrm { M g } ^ { 2 + }$ with separation of oxygen to $\\mathrm { M g } ^ { 2 + }$ specific for this cation (Fig.2,Table SI).Since oxygen ligand, donated by side-chain of the twelfth residue of the ${ \\mathsf { C a } } ^ { 2 + }$ -binding loop,is involved in $\\mathrm { M g } ^ { 2 + }$ coordination (Fig.2,left) that is a distinctive feature of the mixed $\\mathsf { C a } ^ { 2 + } / \\mathsf { M g } ^ { 2 + }$ -binding sites,we suggest that all ${ \\mathsf { C a } } ^ { 2 + }$ -binding loops of berovin belong to the mixed $\\mathsf { C a } ^ { 2 + } / \\mathsf { M g } ^ { 2 + }$ rather than ${ \\mathsf { C a } } ^ { 2 + }$ -specific type.As the affinity to $\\mathrm { M g } ^ { 2 + }$ of the mixed $\\mathsf { C a } ^ { 2 + } / \\mathsf { M g } ^ { 2 + }$ -binding sites exceeds that of ${ \\mathsf { C a } } ^ { 2 + }$ -specific binding sites[33],we attribute the more pronounced effect of physiological $[ \\mathrm { M g } ^ { 2 + } ]$ on berovin sensitivity to ${ \\mathsf { C a } } ^ { 2 + }$ ,as against to that of aequorin and obelin (Fig.4),to different affinities of ${ \\mathsf { C a } } ^ { 2 + }$ -binding sites of these photoproteins to $\\mathrm { M g } ^ { 2 + }$ that is most likely due to the differences of their loop amino acid sequences (Fig.6).At the same time the impact of $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ on rapid-mixed stopped-flow kinetics of berovin light signal is less pronounced and appears only at $[ \\mathsf { C a } ^ { 2 + } ]$ which 2oo-fold less than,e.g.in the case of aequorin. Of note is that the rate of rise of berovin light signal is 6-fold lower even as compared to “slow\"aequorin,suggesting the lack of catalytic water molecule near the N1 atom of 2-hydroperoxycoelenterazine within the substrate-binding cavity of berovin [6o].In addition,we showed that $1 \\ \\mathrm { m M } \\ \\mathrm { M g } ^ { 2 + }$ does not influence the berovin thermostability and its sensitivity to light but increases the yield of an active photoprotein at apo-berovin charging at conditions mimicking intracellular environment (Fig.8). It is of note that although the presence of magnesium increases efficiency of apo-berovin conversion in vitro,the yield of an active berovinis less than that in the buffer with high ionic strength,suggesting the involvement of some additional intracellular factors in this process in photocytes of ctenophores.In summary,the presented studies bring further insight into the functioning of both ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins and other proteins belonging to superfamily of EF-hand ${ \\mathsf { C a } } ^ { 2 + }$ -binding proteins. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article.Table S1 contains information about the distances between oxygen ligands and cations in apo-berovin spatial structures. Supplementary dataassociated with thisarticle can be found in the online version,at http://dx.doi.org/10.1016/j.jphotobiol.2015.11.012. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was partially supported by the state budget allocated to the fundamental research at the Russian Academy of Sciences (project No.O1201351504) and the program“Molecular and Cellular Biology\" of the Russian Academy of Sciences.This work was also supported by the CAS President's International Fellowship Initiative (PIFI),National Natural Science Foundation of China(grant:3133oo19),Ministry of Science and Technology of China (grant:2014CB910400). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] O.Shimomura, Bioluminescence: Chemical Principles and Methods,World Scientific, Singapore, 2006.   \n[2] O.Shimomura,F.H. Johnson, Y. Saiga, Extraction,purification and properties of aequorin,a bioluminescent protein from the luminous hydromedusan, Aequorea, J. Cell. Comp. Physiol.59 (1962) 223-239. [3]E.S.Vysotski,S.V.Markova,LA. Frank, Calcium-regulated photoproteins of marine coelenterates,Mol. Biol. 40 (2006) 355-367. [4] O. Shimomura, F.H. Johnson, Structure of the light-emitting moiety of aequorin, Biochemistry 11(1972) 1602-1608. [5] MJ. Cormier,K. Hori, Y.D. Karkhanis,J.M. Anderson, J.M. Wampler,J.G.Morin,J.W. Hastings,Evidence for similar biochemical requirements for bioluminescence among the coelenterate, J. Cell. Physiol.81(1973) 291-297. [6]E.S.Vysotski,J. Lee, ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins:structural insight into the bioluminescence mechanism, Acc. Chem. Res.37 (2004) 405-415. [7] S.H.D. Haddock, J.F. Case,Bioluminescence spectra of shallow and deep-sea gelatinous zooplankton: ctenophores, medusae and siphonophores,Mar. Biol.133 (1999) 571-582. [8] W.W.Ward,H.H. Seliger, Extraction and purification of calcium-activated photoproteins from the ctenophores Mnemiopsis sp.and Beroe ovate, Biochemistry 13 (1974) 1491-1499. [9] W.W.Ward,H.H.Seliger,Properties of mnemiopsin and berovin, calcium-activated photoproteins from the ctenophores Mnemiopsis sp.and Beroe ovate, Biochemistry 13(1974) 1500-1510.   \n[10] W.W.Ward, H.H.Seliger, Action spectrum and quantum yield for the photoinactivation of mnemiopsin,a bioluminescent photoprotein from the ctenophore Mnemiopsis sp. Photochem. Photobiol.23(1976) 351-363.   \n[11] M. Anctil, O. Shimomura,Mechanism of photoinactivation and re-activation in the bioluminescence system of the ctenophore Mnemiopsis, Biochem. J.221 (1984) 269-272.   \n[12] S.V.Markova,LP.Burakova,S.Golz,N.P.Malikova,LA.Frank, E.S.Vysotski,The lightsensitive photoprotein berovin from the bioluminescent ctenophore Beroe abyssicola: a novel type of $\\mathsf { \\bar { C } } \\mathsf { a } ^ { 2 + }$ -regulated photoprotein,FEBS J.279 (2012) 856-870.   \n[13]S.Golz,S.Markova,L. Burakova,L. Frank,E.Vysotski,Isolated Photoprotein Bolinopsin,and the Use Thereof,2005 (WO/2005/000885).   \n[14] S.Golz,E.Vysotski, S.Markova,L. Burakova,L. Frank,Isolated Photoprotein gr-Bolinopsin and Use Thereof,2006 (WO/2006/108518).   \n[15]M.Aghamaali,V.Jafarian, R.Sariri, M.Molakarimi,B.Rasti, M.Taghdir,R. Sajedi, S. Hosseinkhani, Cloning， sequencing,expression and structural investigation of mnemiopsin from Mnemiopsis leidyi:an attempt toward understanding ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins,Protein J.30 (2011) 566-574.   \n[16] C.E. Schnitzler, K.Pang,M.L Powers, A.M. Reitzel,J.F. Ryan,D.Simmons,T.Tada,M. Park,J. Gupta,S.Y.Brooks,R.W. Blakesley,S. Yokoyama,S.H.Haddock,M.Q. Martindale,A.D. Baxevanis, Genomic organization, evolution,and expression of photoprotein and opsin genes in Mnemiopsis leidyi: a new view of ctenophore photocytes,BMC Biol.10 (2012) 107.   \n[17] M.L Powers, A.G.McDermott, N.C. Shaner,S.H. Haddock, Expression and characterization of the calcium-activated photoprotein from the ctenophore Bathocyroe fosteri: insights into light-sensitive photoproteins, Biochem. Biophys.Res. Commun. 431 (2013) 360-366.   \n[18]S.Inouye,M.Noguchi,Y.Sakaki,Y.Takagi,T.Miyata,S.Iwanaga,T.Miyata,F.suj, Cloning and sequence analysis of cDNA for the luminescent protein aequorin, Proc. Natl. Acad.Sci. U.S.A.82 (1985)3154-3158.   \n[19] D.C.Prasher,R.O.McCann,M.Longiaru,M.J. Cormier,Sequence comparisons of complementary DNAs encoding aequorin isotypes, Biochemistry 26 (1987) 1326-1332.   \n[20] S. Inouye,F.I. Tsuji, Cloning and sequence analysis of cDNA for the ${ \\mathsf { C a } } ^ { 2 + }$ activated photoprotein,clytin,FEBS Lett.315(1993) 343-346.   \n[21]S.V.Markova,LP.Burakova,LAFrank,S.Golz,KA.Korostileva,E.S.VysotskiGren fluorescent protein from the bioluminescent jellyfish Clytia gregaria: cDNA cloning, expression,and characterization of novel recombinant protein, Photochem. Photobiol. Sci.9 (2010) 757-765.   \n[22] T.F.Fagan, Y. Ohmiya, J.R. Blinks,S. Inouye,F.I. Tsuji, Cloning,expression and sequence analysis of cDNA for the ${ \\mathsf { C a } } ^ { 2 + }$ binding potoeiitocoi Lett. 333 (1993) 301-305.   \n[23] B.A. Illarionov, V.S.Bondar, V.A. Illarionova,E.S. Vysotski, Sequence of the cDNA encoding the ${ \\mathsf { C a } } ^ { 2 + }$ -activated photoprotein obelin from the hydroid polyp Obelia longissima,Gene 153 (1995) 273-274.   \n[24]S.V. Markova,E.S. Vysotski,J.R. Blinks,LP.Burakova, B.C.Wang,J. Lee, Obelin from the bioluminescent marine hydroid Obelia geniculata: cloning,expresson, and comparison of some properties with those of other ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoproteins, Biochemistry 41 (2002) 2227-2236.   \n[25]N.C. Strynadka,M.N. James, Crystal structures of the helix-loop-helix calciumbinding proteins, Annu. Rev. Biochem. 58 (1989) 951-998.   \n[26] J.F. Head, S. Inouye,K. Teranishi, O. Shimomura, The crystal structure of the photoprotein aequorin at $2 . 3 \\mathring { \\mathrm { A } }$ resolution,Nature 405 (2000) 372-376.   \n[27] Z.J. Liu,E.S. Vysotski,L. Deng,J.Lee,J. Rose,B.C.Wang, Atomic resolution structure of obelin: soaking with calcium enhances electron density of the second oxygen atom Substituted at the C2-position of coelenterazine, Biochem. Biophys. Res. Commun. 311 (2003) 433-439.   \n[28]M.S.Titushin,Y.Feng,G.A.Stepanyuk,Y.Li,S.V.Markova,S.Golz,B.C.Wang,J.Lee,J. Wang, E.S.Vysotski,ZJ.Liu,NMR-derived topologyofaGFP-photoproteinenergy transfer c0mplex,J. Biol. Chem.285 (2010) 40891-40900.   \n[29] G.A. Stepanyuk,Z.J. Liu,LP. Burakova,J. Lee,J. Rose,E.S.Vysotski, B.C.Wang, Spatial structure of the novel light-sensitive photoprotein berovin from the ctenophore Beroe abyssicola in the $\\mathsf { \\Gamma } _ { \\mathsf { C } } \\mathsf { a } ^ { 2 + }$ -loaded apoprotein conformationstate,Biochim. Biophys. Acta 1834 (2013) 2139-2146.   \n[30] L.Deng,E.S.Vysotski,S.V. Markova,Z.J. Liu,J. Lee,J. Rose,B.C.Wang,All three （204号 ${ \\mathsf { C a } } ^ { 2 + }$ binding loops of photoproteins bind calciumions: the crystal structures of calcium-loaded apo-aequorinand apoobelin,Protein Sci.14(2005) 663-675.   \n[31] ZJ.LiuGA.Stepanyuk,ES.Vysotski,J.Lee,S.VMarkova,N.P.Malikova,B.C.Wang, Crystal structure of obelin after ${ \\mathsf { C a } } ^ { 2 + }$ -triggered bioluminescence suggests neutral coelenteramide as the primary excited state,Proc. Natl. Acad. Sci. U. S. A. 103 (2006) 2570-2575.   \n[32]H. Kawasaki,S. Nakayama,R.H. Kretsinger,Clasification and evolution of EF-hand proteins,Biometals 11(1998) 277-295.   \n[33] J.L. Gifford,M.P.Walsh,HJ.Vogel,Structuresand metal-ion-binding properties of the ${ \\mathsf { C a } } ^ { 2 + }$ -binding helix-loop-helix EF-hand motifs,Biochem.J. 405 (2007) 199-221.   \n[34]M. Bonora, C. Giorgi, A. Bononi, S. Marchi, S. Patergnani, A. Rimessi, R. Rizzuto, P. Pinton, Subcellular calcium measurements in mammalian cells using jelyfish photoprotein aequorin-based probes, Nat. Protoc. 8 (2013) 2105-2118.   \n[35]D. Ottolini,T.Cali, M. Brini, Measurementsof ${ \\mathsf { C a } } ^ { 2 + }$ concentration with recombinant targeted luminescent probes,Methods Mol. Biol. 937 (2013) 273-291.   \n[36] H.Ebel,T. Gunther,Magnesium metabolism: a review,J. Clin. Chem. Clin. Biochem. 18 (1980) 257-270.   \n[37] F.G. Prendergast,The use of photoproteins in the detection and quantitation of $\\mathrm { C a } ^ { 2 + }$ in biological systems,Trends Anal. Chem.1 (1982) 378-383.   \n[38] J.R. Blinks, Use of photoproteins as intracellular calcium indicators, Environ.Health Perspect. 84(1990) 75-81.   \n[39] W.Ohashi,S.Inouye,T.Yamazaki, H. Hirota,NMR analysis of the $\\mathrm { M g } ^ { 2 + }$ -binding properties of aequorin, a $\\mathrm { C a } ^ { 2 + }$ -binding photoprotein, J. Biochem.138 (2005) 613-620.   \n[40] N.P. Malikova,LP_Burakova,S.V. Markova,E.S.Vysotski, Characterization_of hydromedusan ${ \\mathsf { C a } } ^ { 2 + }$ regulated photoproteins as_a tool for measurement of ${ \\mathsf { C a } } ^ { 2 + }$ concentration, Anal. Bioanal. Chem. 406 (2014) 5715-5726.   \n[41]B.A. Ilarionov,LA.Frank,V.A.Illrionova,V.SBondar,E.S.Vysotski,JR.Blnks, Recombinant obelin: cloning and expression of cDNA,purification and characterization as a calcium indicator, Methods Enzymol.305 (20oo) 223-249.   \n[42]E.S.Vysotski,Z.J.Liu,J. Rose,B.C.Wang,J.Lee,Preparationand X-raycrystallographic analysisofrecombinantobelinrystals difracting tobeyond1.1A,ActaCrytaogr. D Biol. Crystallogr.57(2001) 1919-1921.   \n[43] Z. Otwinowski,W.Minor,Processing ofX-ray diffraction data collected inoscillation mode,Methods Enzymol.276 (1997) 307-326.   \n[44]A.J. McCoy, R.W. Grosse-Kunstleve,P.D. Adams, M.D.Winn,L.C. Storoni, R.J. Read Phaser crystallographic software,J. Appl. Crystallogr. 40 (2007) 658-674.   \n[45] P.D. Adams,P.V.Afonine, G.Bunkoczi,V.B.Chen,LW.Davis,N.Echols,J.Head,LW. Hung, GJ. Kapral, R.W. Grosse-Kunstleve, et al.,PHENIX: a comprehensive Pythonbased system for macromolecular structure solution,Acta Crystallogr.D Biol. Crystallogr. 66 (2010) 213-221.   \n[46] G.N. Murshudov,P.Skubak, A.A. Lebedev,N.S. Pannu, R.A. Steiner, R.A. Nicholls,M.D. Winn,F.Long, A.A. Vagin,REFMAC5 for the refinement of macromolecular crystal structures, Acta Crystallogr. D Biol. Crystallogr. 67 (2011) 355-367.   \n[47] P.Emsley, K. Cowtan, Coot: model-building tools for molecular graphics, Acta Crystallogr.D Biol. Crystallogr. 60 (2004) 2126-2132.   \n[48] M. Klabusay, JR. Blinks,Some commonly overlooked properties of calcium buffer systems: a simple method for detecting and correcting stoichiometric imbalance in CaEGTA stock solutions, Cell Calcium 20 (1996) 227-234.   \n[49]JRBlinksUseof-regulatedpotopoteinsasitrelar ${ \\mathsf { C a } } ^ { 2 + }$ indicators, Methods Enzymol.172(1989) 164-203.   \n[50]R. Gealageas, N.P.Malikova,S.Picaud,AJ. Borgdorf,LP. Burakova,P.Brulet,E.S. Vysotski, R.HDodd,Bioluminescent propertiesof belinand aequorin with novel coelenterazine analogues, Anal. Bioanal. Chem. 406 (2014) 2695-2707.   \n[51]G.A.Stepanyuk,ZJ.Liu,S.V.Markova,LA.Frank,J.Lee,E.S.Vysotski,B.CWang, Crystal structure of coelenterazine-binding protein from Renilla muelleri at 1.7 A: why it is not a calcium-regulated photoprotein,Photochem. Photobiol. Sci. 7 (2008) 442-447.   \n[52] G.A. Stepanyuk, Z.J. Liu, E.S. Vysotski,J.Lee,J.P.Rose, B.C.Wang, Structure based mechanism of the ${ \\mathsf { C a } } ^ { 2 + }$ -induced releaseofcoelenterazinefromtheRenillabinding protein, Proteins 74 (2009) 583-593.   \n[53]M.D.Winn, C.C. Ballard,K.D. Cowtan, E.J. Dodson,P. Emsley,P.R. Evans, R.M. Keegan,E.B. Krissinel, A.G. Leslie,A. McCoy,S.J. McNicholas, G.N. Murshudov, N.S. Pannu,E.A. Potterton, H.R. Powel, R.J. Read, A. Vagin, K.S.Wilson, Overview ofthe CCP4 suite and current developments,Acta Crystallogr.DBiol. Crystallogr. 67 (2011) 235-242.   \n[54] J.P. Declercq, B. Tinant, J. Parello,J. Rambaud, Ionic interactions with parvalbumins. Crystal structure determination of pike 4.10 parvalbumin in four different ionic environments,J. Mol. Biol. 220 (1991) 1017-1039.   \n[55]D. Allouche,J. Parello, Y.H. Sanejouand, $\\mathsf { C a } ^ { 2 + } / \\mathsf { M g } ^ { 2 + }$ exchange in parvalbumin and other EF-hand proteins. A theoretical study,J.Mol. Biol.285(1999) 857-873.   \n[56] A. Houdusse, C. Cohen, Structure of the regulatory domain of scallop myosin 2 A resolution: implication for regulation, Structure 4 (1996) 21-32.   \n[57]M. Andersson,A.Malmendal,S.Linse,I.Ivarsson, S.Forsén,L.A.Svensson, Structural basis for the negative allostery between $\\mathsf { C a } ^ { 2 + } .$ and $\\mathrm { M g ^ { 2 + } }$ -binding in the intracellular ${ \\mathsf { C a } } ^ { 2 + }$ -receptor calbindin $\\mathrm { D } _ { \\mathrm { 9 k } } ,$ Protein Sci.6 (1997) 1139-1147.   \n[58]D.G. Allen, J.R. Blinks, F.G. Prendergast, Aequorin luminescence: relation of light emission to calcium concentration-a calcium-independent component, Science 195 (1977) 996-999.   \n[59] J.W.Hastings, G.Mitchell,P.H. Mattingly, J.R. Blinks,M.Van Leeuwen, Response of aequorin bioluminescence to rapid changes in calcium concentration, Nature 222 (1969) 1047-1050.   \n[60]P.V. Natashin,W.Ding,E.V.Eremeeva, S.V.Markova,J.Lee,E.S.Vysotski, Z.J.Liu, Structures of the ${ \\mathsf { C a } } ^ { 2 + }$ -regulated photoprotein obelin Y138F mutant before and after bioluminescence support the catalytic function of a water molecule in the reaction,Acta Crystallogr.D Biol. Crystallogr.70(2014) 720-732.   \n[61]C.Fourrage, K.Swann,J.R. Gonzalez Garcia, A.K. Campbel, E. Houliston, An endogenous green fluorescent protein-photoprotein pair in Clytia hemisphaerica eggs shows co-targeting to mitochondria and efficient bioluminescence energy transfer, Open Biol.4 (2014) 130206.   \n[62]J.R. Casey, S.Grinstein,J. Orlowski, Sensors and regulators of intracellular pH, Nat. Rev.Mol. Cell Biol.11(2010) 50-61. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,653 @@
+[
+    {
+        "type": "text",
+        "text": "振动条件下铁路继电器寿命预测研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李文华　马思宁　沈培根　王　楠（河北工业大学电气工程学院天津300130）",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/846c400204f35fb0ed177fa24f11037e08582e8abdcd0655c33a673d44fe83ca.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李文华男 1973年生，教授，研究方向为电器可靠性及检测技术、新能源发电和并网技术。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：铁路继电器工作中的可靠性与安全性是确保各种铁路设备正常工作的必须要求，在列车控制方面发挥着重要的作用。本文根据加速试验原理与试验条件制定了在振动应力下铁路继电器的加速寿命试验方案，并通过加速寿命试验获得了铁路继电器触点接触压降的数据。选择接触压降作为继电器性能退化特征参数，利用小波阈值法对得到的接触压降数据进行去噪处理，并建立了EEMD-RBF预测模型对继电器寿命进行预测。对 EEMD-RBF与RBF 的误差进行对比分析，结果表明 EEMD-RBF 模型预测精度更高。最后，根据预测出来的寿命，运用逆幂律方程预测出正常振动应力水平下铁路继电器的寿命。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：铁路继电器振动应力失效试验小波阈值去噪EEMD-RBF 寿命预测中图分类号：TM581",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on Life Prediction of Railway Relay under Vibration ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/62f8d8aed491d44bb36594ddf637209dd5a52404d2a72177963cb93b36110676.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Wenhua Ma Sining Shen Peigen Wang Nan （Hebei University of TechnologyTianjin300130China ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马思宁女 1991年生，硕士，研究方向为电器可靠性及检测技术。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Reliability and safety of railway relay in its work is a must to ensure that the various railway equipment can work normally.As a result, railway relay plays an important role in the train control. In this paper, according to the test conditions and the principle of accelerated test, the accelerated life test plan of railway relay under vibration has been made,also the relay contact point voltage data are acquired in the accelerated life test. The contact voltage is chosen as the relay characteristic parameter indicating performance degradation and wavelett hreshold method is introduced in order to improve the quality of contact point voltage data. At the same time,EEMD-RBF model is established to predict the life of relay.By analyzing the errors between EEMD-RBF and RBF, it shows that the EEMD-RBF model has a better prediction accuracy.Finally, based on the predicted life,the inverse power law equation is used to extrapolate railway relay life under the normal vibration stress. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Railway relay, vibration stress, degradation test, wavelet threshold denoising,EEMD-RBF life prediction ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "铁路继电器是铁路设备中主要的开关器件，它是一种闭合或断开控制电路专用的多路开关。随着近年来现代工业水平的快速提高，很多机器正朝着高速、高压、高温的方向发展，技术水平快速提高的同时，工程失效的因素也逐渐增多，振动与疲劳则是其中重要的因素。如今环境因素对继电器寿命的影响越来越多，因此铁路对继电器有着严格的要求，如使用寿命长；在振动、温度等外界环境发生变化的情况下，仍能保持高的电气绝缘强度等[1]。本文利用加速寿命试验的方法，以铁路继电器为研究对象，在振动环境下对其进行性能退化和寿命预测的研究。本文的研究对象采用某型号的铁路信号继电器，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5223b64165b8fa6d826c2f2c92afcac364a1051d851af75257aece021e3296a.jpg",
+        "img_caption": [
+            "图1铁路信号继电器Fig.1Railway signal relay"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 铁路信号继电器的工作原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "信号继电器是指应用于铁路信号中的各类继电器的统称，是铁路信号控制系统中不可或缺的器件。其基本结构如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec590485811db247dd94fea47f0a40370db8b368c2aa35befe8b1d6b1d96050a.jpg",
+        "img_caption": [
+            "图2信号继电器结构示意图",
+            "Fig.2 Schematic diagram of signal relay structure "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电磁系统和接点系统是信号继电器两大结构。电磁系统包括线圈、固定的铁心、轭铁以及可动的衔铁。线圈水平安装在铁心上，分为前圈和后圈。采用双线圈可以增强控制电路的适应性和灵活性，实际应用中可根据电路需要选择单线圈控制或者双线圈控制。铁心采用软磁材料，具有较高的磁通密度和较小的剩磁。衔铁由蝶形钢丝片固定在轭铁刀刃上，主要作用是实现电磁能和机械能的转换。值得注意的是，与典型的电磁继电器不同，为了增加衔铁重量，信号继电器的衔铁上还铆有重锤片，使得在线圈断电时利用重力强制将前接点断开。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "接点系统包括动接点和静接点。无极继电器每 组接点包括前接点、中接点和后接点，并采用两排 纵列式联动结构，八组接点同步动作。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3振动条件下铁路继电器的恒加速试验",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来出现的加速退化试验为继电器可靠性评价提供了新的手段[2]。由于铁路继电器使用寿命较长，因此本文选用加速寿命试验的方法进行试验，并按试品失效的时间来表征，用少量的试品在相对较少的时间里完成试验。由于恒加速试验的实施过程、数据分析等相对简单，寿命评估结果较准确[3-4]，因此本文采用恒加速试验方案。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文所用样品为某型号铁路继电器，在进行试验之前，随机抽取合格产品，检查确定继电器的外罩是否透明清晰，继电器的所有零部件有无表面缺陷、脱落等[5]。本次试验共使用的试品数为20个，平均分为4组，即每组5个试品在不同的振动应力水平下进行加速寿命试验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1确定失效判据与应力水平",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，在进行试验之前要制定试品的失效判据。失效判据的确定对试验结果的影响是十分重要的，这是由于制定的失效判据不同会导致不一样的试验结果，后期的数据分析也会不一样。通过继电器工作原理可知，电磁继电器最容易失效的部位是触点，触点间接触电阻过大是造成接触失效的主要形式[]。因此，根据继电器可靠性试验方法中失效判据的规定和项目合作企业的要求，本文选用触点接触压降大于0.5V作为失效判据指导试验的进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其次，是加速应力水平的确定，本试验的应力类型是在室温条件下的振动应力。通过查阅相关资料可知，正弦振动试验主要是用于模拟电工电子产品的运输、使用等过程，并用来研究由于振动环境对其造成的影响，故本文采用定频正弦振动。根据GB/T7417—2010的规定和产品的使用说明书，振动幅值为 $0 . 4 5 \\mathrm { m m }$ ，最低振动频率定为 $2 0 \\mathrm { { H z } }$ ，振动方向为垂直方向的正弦运动。根据企业要求，最高振动频率定为 $1 0 0 \\mathrm { H z }$ 。按照等应力分布的原则，在最高应力水平 $x _ { \\mathrm { k } }$ 与最低应力水平 $x _ { 1 }$ 之间增加两个中间应力水平 $x _ { \\mathrm { m 1 } }$ 和 $x _ { \\mathrm { m } 2 }$ ，即",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ { \\begin{array} { l } { x _ { \\mathrm { m l } } = \\left( 2 x _ { \\mathrm { l } } + x _ { \\mathrm { k } } \\right) / 3 = 4 6 . 6 7 } \\\\ { x _ { \\mathrm { m 2 } } = \\left( 2 x _ { \\mathrm { k } } + x _ { \\mathrm { l } } \\right) / 3 = 7 3 . 3 3 } \\end{array} } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为试验方便，将4个振动频率水平分别调整为$2 0 \\mathrm { { H z } }$ 、 $4 7 \\mathrm { H z }$ 、 $7 3 \\mathrm { H z }$ 、 $1 0 0 \\mathrm { H z }$ 。综合实际试验条件和时间问题，在缺乏足够前期摸底试验数据的前提下，每组试品在不同振动应力水平下进行试验，若在一个多月后仍无明显失效情况，本文便允许停止试验，退化参数的采集时间为每隔1h一次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2试验设备",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次试验的振动环境是由某型号的电动式振动台提供的，如图3所示，目的是为铁路信号继电器的加速寿命试验提供加速应力。电动振动台是力学环境试验的重要设备，主要由振动台台体、振动控制仪、功率放大器和冷却装置等组成。铁路信号继电器作为试件放到振动台体上对其做振动加速试验，检测它的可靠性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如元件、器件内部的热骚动等内部原因，使得到的试验数据引入了噪声和干扰，这些噪声信息的存在并不合理，对建模处理的精确度造成极大的影响。因此，为减少干扰的影响，需对预测变量进行前期预处理[]。目前常用的小波是一种比较常见的去噪方法[8-9]，主要为以下3种：相关性去噪算法、模极大值去噪算法和小波阈值去噪算法[10]。本文采用小波阈值去噪法实现对铁路继电器最大接触压降时间序列的噪声平滑。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）本文选取db4作为小波函数对噪声信号进行3层分解。将 $1 \\sim 3$ 层的高频波动序列分别记为$d _ { 1 }$ 、 $d _ { 2 }$ 、 $d _ { 3 }$ ，第三层的低频趋势序列记为 $a _ { 3 }$ 。三层分解模型如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/33044103a28a169915ad469701f6dadfe43023a376c6bbf12b1d0662bb5a8193.jpg",
+        "img_caption": [
+            "图4三层分解模型",
+            "Fig.4Three layers decomposition model "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）使用“Rigrsure”为无偏似然估计阈值类型选择各层的阈值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）最后用SNR和RMSE两个指标对去噪效果进行衡量。这里以铁路继电器在振动频率 $1 0 0 \\mathrm { H z }$ 的条件下1#试品的接触压降信号为例，小波去噪后的部分去噪结果见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/70e7a2f7233dd904d2840c8ae4f11eec5f6635dac46606b31a1d6f052f2e1bc2.jpg",
+        "img_caption": [
+            "图3振动台体Fig.3Vibration table"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1部分去噪结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a92a16fd7fc901db0210b0b60da95ab6c1f02cffd61082d1100393a382f0715.jpg",
+        "table_caption": [
+            "Tab.1 Partial denoising results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间/h</td><td colspan=\"2\">触点接触压降Uj/V</td></tr><tr><td>原始值</td><td>去噪后</td></tr><tr><td>1</td><td>0.409</td><td>0.396</td></tr><tr><td>2</td><td>0.427</td><td>0.37</td></tr><tr><td>3</td><td>0.379</td><td>0.36</td></tr><tr><td>：</td><td>：</td><td>：</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4铁路继电器接触压降数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所研究的铁路继电器有16对触点，包括8对常开触点和8对常闭触点。在振动应力作用下，只要有1对触点发生失效，就会导致整个继电器失效，本试验测试的是触点的接触压降，那么继电器的寿命取决于它的若干触点中接触电阻最大的触点寿命。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在试验过程中，由于如工业干扰等外部原因或",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2为在振动频率 $1 0 0 \\mathrm { H z }$ 的应力下，5台试品触点接触压降的去噪评价指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/38cebf0ca0699ff0d1cc09994b90533b8d63444f7a202cb1f799b413cee9812f.jpg",
+        "table_caption": [
+            "表2去噪评价指标",
+            "Tab.2 Denoising evaluation index "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">评价指标</td><td colspan=\"5\">试品</td></tr><tr><td>1#</td><td>2#</td><td>3#</td><td>4#</td><td>5#</td></tr><tr><td>SNR/dB</td><td>55.915 6</td><td>46.973 9</td><td>48.597 6</td><td>53.7438</td><td>50.8785</td></tr><tr><td>RMSE</td><td>0.0222</td><td>0.0352</td><td>0.0374</td><td>0.0251</td><td>0.0322</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，计算得到小波阈值去噪的SNR高达 $5 5 . 9 1 5 \\ 6 \\mathrm { d B }$ ，RMSE为0.0222，结果表明去噪效果良好，有助于提高后续预测过程的预测精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 铁路继电器的寿命预测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1 EEMD分解",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经验模态分解吸取了小波变换多分辨的优势，同时克服了小波变换中需选取小波基与确定分解尺度的困难。但当分析的数据不是纯由白噪声组成的时候，EMD分解就会出现模态混叠的现象，即出现分解混乱的情况。为此，本文提出改进算法——聚合经验模态分解（EnsembleEmpiricalModeDecomposition，EEMD）。EEMD的基本原理是利用噪声的统计特性来有效避免混叠现象。在原始信号中叠加服从（0， $\\left( \\alpha \\varepsilon \\right) ^ { 2 } ,$ ）正态分布的高斯白噪声，然后进行多次EMD分解，高斯白噪声在多次试验叠加的情况下相互抵消，原始信号中的有用信号在多次加入白噪声的试验后作为均值保留下来[1]。因此，EEMD是对EMD方法的较大改进。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对铁路继电器触点最大接触压降时间序列$X ( t )$ 进行EEMD分解，过程如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）在 $X ( t )$ 信号上加入白噪声。（2）将加入白噪声的序列进行多次EMD分解,得到IMF序列。(3）每次加入不同的白噪声序列，反复步骤(1）和步骤（2)。（4）把分解得到的各个IMF的均值作为最终的结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2EEMD仿真结果 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里以铁路继电器在振动频率 $1 0 0 \\mathrm { H z }$ 的条件下某一试品的接触压降信号为例，对触点最大接触压降序列进行EEMD分解，结果如图5所示。从图中可以看出，EEMD将信号分为8层，模态混叠得到了抑制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[eugis 1. 100 200 300 400 500 600 700 800 900 1000  \nIHI W T-0.i0 100 200 300 400 500 600 700 800 900 1000  \nHII 0.10 <>>>>>>j> }<>>\\~><>>>>>>>><><<>\\<>>>}>>>><<>{><>>>>>>\\<< <)(\\>>>>>\\\\~>>>\\>>\\~>\\> T-0.i0 100 200 300 400 500 600 700 800 900 1000  \nHII -0.05 $n _ { 1 } = 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 0 , 1 , 1 , 1 , 0 , 1 , 1 , 1 , 0 , 1 , 1 , 1 , 0 , 1 , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 0 , 1 , 1 , 1 , 1 0 , 1 , 1 , 1 , 1 , 1 , 1 , 0 1 $ 0 100 200 300 400 500 600 700 800 900 1000  \nJH4 0.020 V ><>>> > <>>>> >>< >>> T  \n-0.020 100 200 300 400 500 600 700 800 900 1000  \nSHII 0.02 T  \n-0.020 100 200 300 400 500 600 700 800 900 1000  \n9HI 0.010 T  \n-0.01 100 200 300 400 500 600 700 800 900 1000×10-3  \nLHNI 505 T0 100 200 300 400 500 600 700 800 900 1000×10-3  \n'RSS 1 T100 200 300 400 500 600 700 800 900 1000时间/h",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.3搭建EEMD－RBF神经网络预测模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RBF神经网 络（RadialBasisFunctionNeuralNetwork，RBFNN）具有最佳逼近和全局最优的性能，广泛应用于函数逼近和分类问题。RBF神经网络是一种高效的前馈式神经网络，拓扑结构分为输入层、隐含层和输出层。其输入到输出的映射为非线性，隐含层空间到输出空间的映射为线性，RBF网络通过非线性基函数的线性组合实现了从输入空间到输出空间的非线性转换。隐含层的RBF一般选用中心点径向对称且衰减的高斯函数。与BP神经网络相比，RBF网络学习速度大大加快，并有效避免陷入局部极小值。利用RBF神经网络，对经过",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EEMD分解接触压降序列得到的7个IMF和1个RES序列分别进行预测并叠加，分解序列预测模型流程图如图6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe23ecb3e41b80a0f88d18bc34d22f02c52c6f47ada334f12c0539340d08218e.jpg",
+        "img_caption": [
+            "图6预测流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文用Matlab的神经网络工具箱构建RBF网络，根据理论分析构建模型如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）选取训练样本集和预测样本集。本文选取900个样本用于RBF神经网络的训练，59个样本用作网络验证。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）网络参数的设置。调用Matlab 中的newrb(函数构建RBF网络。其中，newrb(的功能是建立一个径向基神经网络，格式为net $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ newrb(P，T,goal，spread，MN, $D F _ { , }$ 。设置网络的均方误差$\\mathrm { g o a l } = 0 . 0 0 1$ 。其中，扩展速度 spread 越大，需要的隐藏神经元越多，函数拟合越平滑；spread设定很小，网络性能变差，并可能会出现过拟合现象。所以具体设置时要不断尝试不同的spread值，直至满足要求。经过多次调试，扩展速度spread $= 1 0$ 时预测精度最高。神经元的最大数目MN和径向基函数的分布常数DF为默认值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.4仿真结果分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证经EEMD分解对RBF神经网络预测模型精度的影响，增加了没有经EEMD分解，只有RBF神经网络对原始序列的预测图。图7～图14是RBF神经网络对IMF序列进行预测的结果图，图15是经EEMD分解的RBF神经网络预测与未经EEMD分解的RBF预测对比图。表3显示的是两种模型的误差，本文选取和方差SSE和方均误差MSE",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对其进行分析，定义如下",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { S S E } } = \\sum _ { i = 1 } ^ { n } ( f ( i ) - { \\hat { f } } ( i ) ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M S E } = \\frac { 1 } { n } \\sqrt { \\sum _ { i = 1 } ^ { n } ( f ( i ) - \\hat { f } ( i ) ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7d8ba7260f15e1cd5780b148719a884c70eb0063c448c8a7c72092e99418f40.jpg",
+        "img_caption": [
+            "图7IMF1预测值与真实值对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b60c3bf6699164b78f12c13b9ff66889d232ce952a1a61b550456247da7094d2.jpg",
+        "img_caption": [
+            "Fig.6Predictive flow chart ",
+            "图8IMF2预测值与真实值对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3669bec96937cc86729bcab274293ebad3d5d4344bb46303be5b28f0e452faca.jpg",
+        "img_caption": [
+            "Fig.7The IMF1 forecast compared to the real value ",
+            "Fig.8The IMF2 forecast compared to the real value ",
+            "图9IMF3预测值与真实值对比图",
+            "Fig.9The IMF3forecast compared to the real value "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据仿真结果可知，EEMD-RBF模型预测结果的各项指标都明显优于未经EEMD分解的RBF模型，由此可见EEMD对数据的平稳化处理较大程度地提高了RBF模型的预测精度。所以本文选择EEMD-RBF模型对铁路继电器振动加速寿命试验的4个不同振动应力点下的试品数据进行循环滚动预",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f070f383e07f78d5553a9f638c06741a3a2d47ee012940864e82486b3332b86a.jpg",
+        "img_caption": [
+            "图10IMF4预测值与真实值对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/34a8e28ed43227eb0456254a7263eed91b93e7eba970e1c239f8e0fffd064a65.jpg",
+        "img_caption": [
+            "Fig.10The IMF4 forecast compared to the real value "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1312afe279133b0877f616f2fb855524317fac0485b046445d470f40d76852ca.jpg",
+        "img_caption": [
+            "图11IMF5预测值与真实值对比图",
+            "图12IMF6预测值与真实值对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d398b43968b69beb0d98c6c6452d48e33ac241400257df4ff89ab8f79f96efe0.jpg",
+        "img_caption": [
+            "Fig.12The IMF6 forecast compared to the real value ",
+            "图13IMF7预测值与真实值对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.13The IMF7 forecast compared to the real value ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d7abd0639b4663da1087b26da806723a2de50d56f71e8169488c95824124f43.jpg",
+        "img_caption": [
+            "图14RES预测值与真实值对比图",
+            "Fig.14The RES forecast compared to the real value "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c36569fe8a18582af117e703a01255ca3daabbaf408db83475d2c1ad5f2b9138.jpg",
+        "img_caption": [
+            "Fig.11The IMF5 forecast compared to the real value ",
+            "图15两种模型预测结果对比图",
+            "Fig.15The comparison of the two models' prediction results "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3两种模型的误差",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a7cd19bef415b0b36d2b060412cb792124821c53290a2222d39c8d8744fcec9.jpg",
+        "table_caption": [
+            "Tab.3The error of the two models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>预测模型</td><td>RBF模型</td><td>EEMD-RBF 模型</td></tr><tr><td>SSE</td><td>2.39</td><td>0.69</td></tr><tr><td>MSE</td><td>0.040 5</td><td>0.011 7</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "测，得到各应力下的寿命值，见表4。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(单位：h) ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b289f8bd02d1b8add3837b3566c3f386c77b50c6294a846abd271c559e4f8f0.jpg",
+        "table_caption": [
+            "表4不同振动应力下铁路继电器的寿命预测Tab.4Life prediction of railway relay under differentvibration stress"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">振动频率/Hz</td><td colspan=\"5\">试品</td></tr><tr><td>1#</td><td>2#</td><td>3#</td><td>4#</td><td>5#</td></tr><tr><td>100</td><td>8909</td><td>8910</td><td>9003</td><td>9010</td><td>9 015</td></tr><tr><td>75</td><td>15 876</td><td>15 884</td><td>15 903</td><td>16 005</td><td>15 892</td></tr><tr><td>45</td><td>25198</td><td>25256</td><td>25203</td><td>25 491</td><td>25 247</td></tr><tr><td>20</td><td>49 001</td><td>49 056</td><td>49125</td><td>49106</td><td>49 013</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "多步滚动预测过程中，随着预测步数的增加，预测误差也会增大，当预测模型的输入全部为预测值代替实测值时，预测的效果更差。随着模型的复杂性增加，数据处理量越大，耗时越长，很难在短时间内得到产品的储存寿命预测结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.5正常振动应力下的寿命预测",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据本文所用型号的铁路继电器的产品使用说明书中的规定，正常工作环境中，振动频率不大于$1 5 \\mathrm { H z }$ ，振幅不大于 $0 . 4 5 \\mathrm { m m }$ ，所以继电器的退化过程相当缓慢，试验周期长，往往得不到失效数据，为了得到正常应力下的寿命值，可以通过加速寿命试验建立继电器的退化回归预测模型，外推得到正常应力水平下的预测寿命。在振动应力的作用下，铁路继电器失效寿命的逆幂律方程为",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "能退化数据，并对继电器的寿命进行了预测。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用集合经验模态分解（EEMD）对接触压降序列特性做深度挖掘分解，并建立了EEMD-RBF预测模型对继电器的参数进行预测。并对比了EEMD-RBF模型与RBF预测模型，仿真结果表明,EEMD-RBF预测模型的精度更高。最后用此模型对4个振动应力下的继电器分别进行滚动预测，根据推导出的逆幂律方程，外推出铁路继电器在正常振动应力水平下的寿命。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = { \\frac { 1 } { d S ^ { \\alpha } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = { \\mathrm { e } } ^ { 1 3 . 9 1 7 9 } S ^ { - 1 . 0 1 4 5 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对上式取对数，得",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = a - \\alpha \\ln S\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $T = \\ln \\ t$ ； $a = - \\ln d ,$ 。可以看出，寿命的对数与振动应力的对数呈线性关系。为了使预测结果相对保守，取各振动应力水平下试品的最小预测寿命，用最小二乘法得出待定参数 $\\boldsymbol { a }$ 和 $\\alpha$ 的估计值， $a =$ 1 $\\ln d = 1 3 . 9 1 7 ~ 9$ ， $\\alpha = 1 . 0 1 4 5$ 。所以继电器寿命和振动应力间的关系式见式 (5)，图16为加速寿命曲线。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c1bb4323db005064471fbf5d584015a9b4ff2dc9af3ed7c97bfcc524f4fff19.jpg",
+        "img_caption": [
+            "图16加速寿命曲线 Fig.16Accelerated life curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过推出的方程可推算出铁路继电器在正常振动应力下的寿命。最后外推得出铁路继电器在振幅$0 . 4 5 \\mathrm { m m }$ ，振动频率为 $1 5 \\mathrm { H z }$ 、 $1 0 \\mathrm { H z }$ 、 $5 \\mathrm { H z }$ 情况下的寿命值分别为 $7 2 ~ 8 0 2 \\mathrm { h }$ 、109440h、219680h，约为8.3107年、12.4932年、25.0777年。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 结论 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文利用了在振动应力下加速寿命试验的方法，以铁路继电器为研究对象，得到了其接触压降的性",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 聂畅．提高地铁车辆继电器可靠性的方法探讨[J].电力机车与城轨车辆，2012，35(2)：78-79,84.  \n[2] 钟强晖，张志华，梁胜杰．基于多元退化数据的可靠性分析方法[J]．系统工程理论与实践，2011,31(3): 544-551.Zhong Qianghui, Zhang Zhihua, Liang Shengjie.Reliability analysis approach based on multivariatedegradation data[J]. Systems Engineering-Theory &Practice,2011,31(3): 544-551.  \n[3] 陈循，张春华，汪亚顺，等．加速寿命试验技术与应用[M]．北京：国防工业出版社，2013.  \n[4] 陈文华，崔杰，潘骏，等．航天电连接器振动可靠性试验与分析[J]．航空学报，2003，24(4)：342-345.Chen Wenhua, Cui Jie,Pan Jun, et al. Reliability testand statistical analysis of electrical connector undervibration stress[J].Acta Aeronautica et AstronauticaSinica,2003,24(4): 342-345.  \n[5] 骆燕燕，王兴贵，陆俭国，等．电磁继电器贮存寿命预测理论与试验方案的研究[J]．低压电器,2005(9): 49-54.Luo Yanyan, Wang Xinggui, Chen Jianguo, et al.Study on the prediction theory and test plan ofstorage life for electromagnetic relays[J].LowVoltage Apparatus,2005(9): 49-54.  \n[6] 刘帼巾，陆俭国，王海涛，等．接触器式继电器的失效分析[J]．电工技术学报，2011，26(1)：81-85.Liu Guojin, Chen Jianguo, Wang Haitao, et al.Failure analysis of contactor relay[J]. Transactions ofChina Eletrotechnical Soiety,2011,26(1): 81-85.  \n[7] 许文博，武晓春，邢建平．一种新的小波阈值去噪方法[J]．兰州交通大学学报，2012，31(3)：120-124.Xu Wenbo,Wu Xiaochun, Xing Jianping.A newmethod for wavelet threshold denoising[J]. JournalofLanzhou Jiaotong University,2012,31(3):120-124.  \n[8] 章浙涛，朱建军，匡翠林，等．小波包多阈值去噪法及其在形变分析中的应用[J]．测绘学报，2014,43(1):13-20.Zhang Zhetao,Zhu Jianjun,Kuang Cuilin,etal. Multi-threshold wavelet packet de-noisingmethodand its application in deformation analysis[J].Acta Geodaeticaet Cartographica Sinica,2014,43(1):13-20.  \n[9] 吴光文，王昌明，包建东，等．基于自适应阈值函数的小波阈值去噪方法[J]．电子与信息学报，2014，36(6)：1340-1347.Wu Guangwen,Wang Changming,Bao Jiandong,et al.A wavelet threshold de-noising algorithmbased on adaptive threshold function[J]. Journal ofElectronics & Information Technology, 2014,36(6):1340-1347.  \n[10] 朱建军，章浙涛，匡翠林，等．一种可靠的小波去噪质量评价指标[J]．武汉大学学报，2015,40(5):688-694.Zhu Jianjun,Zhang Zhetao,Kuang Cuilin,et al.A reliable evaluation indicator of wavelet de-noising[J].Geomatics and Information Science ofWuhan University, 2015,40(5): 688-694.  \n[11] 杨永锋，吴亚锋．经验模态分解在振动分析中的应用[M]．北京：国防工业出版社，2013.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（上接第7页）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Lin Zhuying.An analytic algorithm for DuHamel integral by generalized functions[J].Journal of Huazhong University of Science and Technology, 1994,22(4):30-35. [23] Maksiejewski JL.Losses in conductors due to current surges taking the skin effect into account[J]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IET Proceedings Generation Transmission and Distribution,1990,137(2): 80-84. [24] Maksiejewski JL.Evaluation of thermal characteristics of conductors under surge currents taking the skin effect into account[J].IET Proceedings Generation Transmission and Distribution,1990, 137(2): 85-91. ",
+        "page_idx": 7
+    }
+]

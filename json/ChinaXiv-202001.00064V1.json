@@ -1,0 +1,417 @@
+[
+    {
+        "type": "text",
+        "text": "气候变化和人类活动对干旱区植被生产力的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦景秀},²，郝兴明¹²，张颖²，花顶1,2（1中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011;2中国科学院大学,北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在全球变化的背景下,植被生产力发生了一系列的变化，如何定量的评估中国西北干旱区气候变化和人类活动对植被生产力的影响,对于应对气候变化，促进“一带一路”生态建设以及美丽中国建设具有重要的意义。以新疆为研究区，以植被净第一性生产力(NPP)作为评价指标，分析了2001—2016年气候变化和人类活动对植被恢复和退化的影响。结果表明：（1）从2001—2016年，植被NPP有明显变化趋势的面积占植被覆盖区总面积的 $3 4 . 0 2 \\%$ ，其中 $3 0 . 5 8 \\%$ 的面积呈现恢复趋势， $3 . 4 4 \\%$ 的面积呈现退化趋势， $N P P$ 平均每年增加 $6 3 4 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ( $\\mathrm { G g } = 1 0 ^ { 9 } \\ \\mathrm { g } )$ 。（2）由人类活动和气候变化引起植被恢复的面积占植被NPP变化总面积的 $4 2 . 0 3 \\%$ 和 $3 0 . 5 8 \\%$ ;在上述两个区域， $N P P$ 平均每年增加量分别为 $3 1 9 \\mathrm { \\ G g \\ C \\cdot ^ { - 1 } }$ 和 $5 9 ~ \\mathrm { G g } \\mathrm { C } \\cdot \\mathrm { a } ^ { - 1 }$ 。由人类活动和气候变化引起植被退化的面积占 $N P P$ 变化总面积的 $5 7 . 6 3 \\%$ 和 $1 9 . 4 5 \\%$ ;其中，在上述两个退化区域， $N P P$ 平均每年分别减少 $6 8 { \\mathrm { ~ G g ~ C ~ } } \\cdot { \\mathrm { ~ a ~ } } ^ { - 1 }$ 和 $7 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。（3）不同植被类型中，人类活动对农作物、荒漠、草地、高山植被的恢复作用大于退化作用，对森林、灌丛、沼泽的退化作用大于恢复作用；气候变化对沼泽的退化作用大于恢复作用，对其他6种植被类型的恢复作用大于退化作用。总体上，人类活动是影响新疆植被恢复和退化的主要原因。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：净初级生产力；气候变化；人类活动；干旱区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植被净第一性生产力（NPP)是指绿色植物在单位面积、单位时间内所积累的有机干物质总量[1]。植被NPP作为评价植被恢复和退化的重要指标，对调节生态环境、减缓温室效应和平衡碳循环具有重要的意义[2-3]。植被的恢复和退化不仅受到气候变化的影响，人类活动也是其重要影响因素。目前，中国正面临着严重的沙漠化问题,沙漠化已经严重影响了区域的生态环境和社会经济发展，尤其是在西北干旱与半干旱地区[4]。新疆作为西北主要干旱半干旱地区之一，面临着巨大生态环境压力[5]。在新疆开展气候变化和人类活动对植被生产力的影响研究，能够了解影响新疆植被恢复和退化的主要原因，为应对气候变化、生态恢复建设和丝绸之路沿线经济的开发提供科学指导，同时为干旱区生态系统研究和陆地生态系统碳循环研究提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，在西北干旱区已经进行了许多关于气候变化对植被NPP影响的研究，研究表明气候变化对植被NPP的影响主要通过气温和降水要素来影响，而且降水与植被NPP呈明显的正相关关系，气温与植被 NPP呈弱的负相关关系[6-8]。但很少有研究能够定量评估人类活动对植被NPP的影响，由于人类活动方式和地域的差异，加上目前研究方法的局限性，使得很难定量评估人类活动对植被NPP的影响。也有一些学者对人类活动影响进行了定量化研究,研究的方法主要有残差趋势法[9-10],该方法只适用于大范围长时间段的分析，而且在建立植被生长关系与气候因子的关系时没有排除人为因素的影响。降水利用效率分析法[11-12],是将雨水利用效率RUE(定义为NPP/降水)乘以最大降雨量得到的NPP预测值与实际NPP值求差作为人类活动对植被的影响，该方法在无人为影响RUE的划分上存在很大不确定性。陆地生态系统动态模拟法[13-14],该方法是依据生态系统基本原理，构建的一个多因子驱动、多元素、多重时空的一个生态系统过程模型，它能够通过机理直接计算人为影响值，但涉及的参数较多，过程较复杂。总体来说，上述方法各有不足。因此，本研究通过植被潜在生产力与实际生产力的残差法来定量评估人类活动的相对作用。植被潜在生产力是指植被NPP只受到自然条件（主要为气温、降水)的影响，其计算的植被NPP为无人类活动影响下植被演替的最高形态；而植被实际生产力是指植被NPP受到气候变化和人类活动综合作用的结果，潜在生产力与实际生产力的差值即定义为人类活动的影响。其中植被实际NPP和潜在NPP分别利用CASA模型和周广胜模型来估算。CASA模型[15-16]和周广胜模型[17-19]在已有的研究中证明了其可靠性，并被广泛应用于植被NPP的研究中。本研究的主要目的是：（1）定量评估2001—2016 年气候变化和人类活动对新疆植被恢复和退化的相对作用。（2）揭示不同植被类型受到气候变化和人类活动影响程度的大小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆 $( 7 3 ^ { \\circ } 4 0 ^ { \\prime } \\sim 9 6 ^ { \\circ } 1 8 ^ { \\prime } \\mathrm { E } \\mathrm { } , 3 4 ^ { \\circ } 2 5 ^ { \\prime } \\sim 4 8 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { N } )$ 位于我国西北地区，总面积为 $1 6 6 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,约占我国总面积的1/6。新疆四面环山，地形主要以山地和平原为主，北部为阿尔泰山，中部为天山山脉，南部为昆仑山脉，三山之间为准格尔盆地和塔里木盆地，构成了“三山夹两盆”的地理环境。新疆深居内陆，远离海洋，且四周环山，独特的地理位置，形成了典型的温带大陆性气候。新疆年均降水量约 $1 5 0 ~ \\mathrm { m m }$ ，年均气温为 $9 \\sim 1 2 \\ \\mathrm { { ‰ } }$ ,北疆降水量多于南疆，南疆气温高于北疆。新疆的主要植被类型按照中国植被图例的第一级制图标准进行划分，大致可以分为6类，草原、森林、荒漠、沼泽、灌丛和高山植被(图1），植被分类中的沼泽和荒漠均指由沼泽植被和荒漠植被组成的植被群落。荒漠和草原是新疆的主要植被类型，荒漠和草原的面积分别占整个植被面积的 $5 2 \\%$ 和 $28 \\%$ 。为了分析气候变化和人类活动对植被生产力的影响，最后将耕地归为农作物一类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NDVI数据来自美国国家航天局NASA,数据集为 2001—2016年逐月的MODIS陆地标准产品MOD13A1（http://ladsweb.nascom.nasa. gov/data/）。时间分辨率为16d,空间分辨率为 $5 0 0 \\ \\mathrm { m } \\times 5 0 0 \\ \\mathrm { m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气象数据来自中国气象数据网（http：//datacma.cn/data/），包括研究区99个气象站点2001—2016年日平均气温 $( \\mathrm { ‰ }$ 、日降水量( $\\mathbf { \\dot { \\Pi } } _ { \\mathrm { m m } } )$ ）、日照时数(h)等数据。植被类型数据来自地球系统科学数据共享平台 $1 : 1 \\ 0 0 0 \\ 0 0 0$ 植被类型数据集。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3ff43d1b6dc5f2ea6c87dd97f9c66e433fbdc7a808ff6ba5cdfb80fb47bf1ca.jpg",
+        "img_caption": [
+            "图1新疆植被类型和气象站点分布",
+            "Fig.1Spatial distribution of vegetation types and meteorological stations in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1估算植被实际生产 $\\pmb { \\mathcal { D } } \\left( N P \\pmb { P } \\right)$ 本研究利用1993 年POTTER[20]等建立的CASA 模型来估算植被的实际生产力，CASA模型的主要输入参数为植物所吸人的光合有效辐射（APAR）和光能利用率$( \\varepsilon )$ 。NPP计算方法如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN P P ( x , t ) = A P A R ( x , t ) \\times \\varepsilon ( x , t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $x$ 表示空间位置； $\\mathbf { \\chi } _ { t } ^ { }$ 表示时间； $N P P ( x , t )$ 代表像元 $x$ 在 $\\mathbf { \\chi } _ { t }$ 月份的植被净第一性生产力( $\\mathrm { ~ ( ~ g ~ C ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ：$\\mathrm { ~ d ~ } ^ { - 1 }$ ） $A P A R ( x , t )$ 为像元 $x$ 在 $\\mathbf { \\chi } _ { t }$ 月吸收的光合有效辐射 $( \\mathbf { M J } \\cdot \\mathbf { m } ^ { - 2 } \\cdot \\mathbf { d } ^ { - 1 } \\cdot \\mathbf { \\tau } ,$ ）；代表像元 $x$ 在 $\\mathbf { \\chi } _ { t }$ 月的实际光能利用率 $\\mathrm { ~ ( ~ g ~ C ~ } \\cdot \\mathrm { ~ M ~ J ~ } ^ { - 1 }$ )。植被所吸收的光合有效辐射$( A P A R )$ 是由太阳总辐射量和植被对光合有效辐射的吸收比例来确定，计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA P A R ( \\boldsymbol { x } , t ) = S O L ( \\boldsymbol { x } , t ) \\times F P A R ( \\boldsymbol { x } , t ) \\times 0 . 5\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $S O L$ 表示像元 $x$ 在 $\\mathbf { \\chi } _ { t }$ 月的太阳总辐射量（MJ·$\\mathrm { ~ m ~ } ^ { - 2 }$ );常数0.5表示植被所能利用的太阳有效辐射占太阳总辐射的比例； $F P A R$ 表示植被对光合有效辐射的吸收比例，其值取决于植被类型和植被的覆盖状况，而NDVI能够很好的反映植被的覆盖状况。模型中FPAR和光能利用率 $\\boldsymbol { \\varepsilon }$ 的计算方法见参考文献[20]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2估算植被潜在生产 $\\pmb { \\mathcal { D } } \\left( N P \\pmb { P } \\right)$ 本研究在估算植被潜在生产力时，采用国内应用广泛的周广胜等建立的气候生产力模型,模型计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN P P = R D I \\overset { ? } { ( } 1 + R D I + R D I \\overset { ? } { ( } 2 ) \\mathrm { E X P } ^ { ( } - \\overset { > } { \\mathcal { S } } \\overset { \\dots } { \\dots } 6 . 2 5 R D I )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR D I = ( 0 . 6 2 9 + 0 . 2 3 7 \\times P E R - 0 . 0 0 3 ~ 1 3 \\times P E R ^ { 2 } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R D I$ 为辐射干燥度； $P E R$ 为可能蒸散率。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP E R = { \\frac { P E T } { r } } = B T \\times { \\frac { 5 8 . 9 3 } { r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB T = { \\ o { \\sum { t } } { \\int { 3 6 5 } } } = { \\ o { \\sum { T } } { \\Big / { 1 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $P E T$ 为年可能蒸散量 $\\left( { \\bf m m } \\right) ; B T$ 为年平均生物温度 $( \\mathrm { ‰ }$ ； $\\mathbf { \\chi } _ { t }$ 和 $T$ 分别为 $> 0 \\mathrm { ~ \\% ~ }$ 与 $< 3 0 ~ \\mathrm { { ^ { c } C } }$ 的日平均温度和月平均温度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3植被净初级生产 $\\pmb { \\ x }$ 变化趋势分析NPP作为评价植被生产力的重要指标，通过分析NPP的变化趋势，能够反映植被的恢复或退化状况。本研究采用一元线性回归分析法，来研究2001一2016 年新疆植被NPP的变化趋势，并用 $F$ 检验对NPP的变化趋势进行显著性检验，详细计算方法见参考文献[5]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.4气候变化和人类活动对植被恢复和退化的评估方法为了定量评估气候变化和人类活动对植被生产力的影响，可以通过计算每年植被NPP的变化量来评估。本研究定义了3种：第1种是实际NPP的变化量( $( N _ { A } )$ ;第2种是潜在NPP的变化量$( N _ { P } )$ ;第3种为人类活动对植被NPP的影响( $( N _ { H } )$ ，可以通过计算潜在 $N P P$ 变化量跟实际NPP变化量的残差来获得( $\\mathit { \\Pi } ^ { ' } N _ { \\mathit { H } } = \\mathit { N } _ { \\mathit { P } } - N _ { \\mathit { A } } \\mathit { \\Pi } _ { }$ ，差值的正负表示影响的方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了区分气候变化和人类活动对植被NPP的恢复或退化作用，可以通过计算 $N _ { A } \\setminus N _ { P } \\setminus N _ { H }$ 的斜率$K _ { A } \\ 、 K _ { P }$ 和 $K _ { \\scriptscriptstyle H }$ 来实现。 $K _ { A }$ 为正代表植被实际生产力处于恢复状态，反之植被的实际生产力正在退化。 $K _ { P }$ 为正代表气候变化有利于植被生长，植被处于恢复状态，反之气候变化不利于植被的生长，植被处于退化状态。 $K _ { \\scriptscriptstyle H }$ 为正代表人类活动不利于植被生长，使植被处于退化状态； $K _ { \\scriptscriptstyle H }$ 为负代表人类活动促进植被生长，使植被处于恢复状态。为了评估气候变化和人类活动对新疆2000一2016年植被NPP的恢复或退化作用，可以通过表1定义的6种情景来识别。当植被呈恢复状态( $\\dot { \\left| K _ { A } > 0 \\right| }$ ），通过分析潜在生产力的变化趋势 $( K _ { P } )$ 和人类活动影响的生产力的变化趋势 $( K _ { H } )$ ，来识别植被恢复的主导作用。当植被呈退化状态( $\\left| K _ { A } < 0 \\right. \\rangle$ ），通过分析潜在生产力的变化趋势( $\\ \\cdot$ )和人类活动影响的生产力的变化趋势 $( K _ { H } )$ ，来识别植被退化的主导作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1评估气候变化和人类活动对植被恢复或退化的相对作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b17f096a5f545899f359da3f3c4a22f9a25b7c6b6faedfb1d0a71bfddee61678.jpg",
+        "table_caption": [
+            "Tab.1 Relative effects of climate changes and human activities on vegetation restoration or degradation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>情景</td><td>Kp</td><td>KH</td><td>气候变化和人类 活动的相对作用</td></tr><tr><td>植被恢复</td><td>情景1</td><td>>0</td><td>>0</td><td>气候变化主导植被恢复</td></tr><tr><td>(KA >0)</td><td>情景2</td><td><0</td><td><0</td><td>人类活动主导植被恢复</td></tr><tr><td rowspan=\"3\">植被退化</td><td>情景3</td><td>>0</td><td><0</td><td>共同作用主导植被恢复</td></tr><tr><td>情景4</td><td><0</td><td><0</td><td>气候变化主导植被退化</td></tr><tr><td>情景5</td><td>>0</td><td>>0</td><td>人类活动主导植被退化</td></tr><tr><td>(KA<0)</td><td>情景6</td><td><0</td><td>>0</td><td>共同作用主导植被退化</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.12001—2016年植被实际NPP变化趋势分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "受气候变化和人类活动的影响，新疆2001一2016年各地区年平均植被NPP存在显著的空间差异（图2a）。除去裸地和未利用地外，总体上新疆植被NPP从北到南呈减少趋势，山地和绿洲区的植被NPP高于平原地区。其中，北疆的伊利山区植被NPP最高，其次是阿尔泰山、天山的山区和绿洲区，平原地区植被NPP最低。南疆植被NPP的高值区位于塔里木盆地周围的绿洲区，而昆仑山、阿尔金山等山地地区植被NPP次之，平原地区植被NPP最低。新疆整个植被覆盖区的年平均植被NPP为$7 4 \\mathrm { ~ g ~ C ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 } .$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过对新疆2001—2016年植被NPP变化趋势进行 $F$ 检验得出（图2b），新疆植被NPP整体上呈增加趋势，但在局部地区植被NPP呈现减少趋势。植被NPP没有明显变化趋势的面积占植被总面积的 $6 5 . 9 8 \\%$ ,通过显著性检验的面积占植被总面积的 $3 4 . 0 2 \\%$ 。其中，植被NPP呈显著增加、极显著增加、显著减少、极显著减少趋势的面积分别占植被总面积的 $1 1 . 2 3 \\% 1 9 . 3 5 \\% 1 . 9 2 \\% 1 . 5 2 \\%$ 。整体上新疆植被 NPP 每年增加约 $6 3 3 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ( $\\mathrm { G g } =$ $1 0 ^ { 9 } \\ \\mathbf { g } )$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2气候变化和人类活动对植被恢复和退化的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从新疆整个植被覆盖区可以看出，气候变化和人类活动对植被的恢复作用明显大于对植被的退化作用(图3a)。人类活动、气候变化以及人类活动和气候变化的共同作用促进植被恢复的面积分别占整个植被恢复面积的 $4 2 . 0 3 \\% . 3 0 . 5 8 \\% . 2 7 . 3 9 \\%$ ；造成植被退化的面积，分别占整个植被退化面积的$5 7 . 6 3 \\% . 1 9 . 4 5 \\% . 2 2 . 9 2 \\%$ （图3b）。人类活动在植被的恢复和退化中所占面积比重最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人类活动、气候变化以及人类活动和气候变化的共同作用促进植被NPP每年增加约 $7 5 9 \\mathrm { \\ G g \\ C \\cdot }$ （20$\\mathbf { a } ^ { - 1 }$ （图3c)。其中，由人类活动引起植被恢复的植被 NPP每年增加约 $3 1 9 \\mathrm { \\ G g \\ C \\cdot ^ { - 1 } a ^ { - 1 } }$ ;由气候变化引起植被恢复的植被 NPP 每年增加约 $5 9 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ：由气候变化和人类活动的共同作用引起植被恢复的植被 NPP 每年增加约 $3 8 1 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。人类活动、气候变化以及人类活动和气候变化的共同作用导致植被NPP每年减少约 $1 2 6 \\mathrm { \\ G g \\ C \\cdot { \\ a } } ^ { - 1 }$ （图3c）。其中，由人类活动引起植被退化的植被NPP每年减少约 $6 8 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ;由气候变化引起植被退化的植被NPP每年减少约 $7 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ;由气候变化和人类活动共同作用引起植被退化的植被NPP每年减少约 $5 1 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。气候变化和人类活动的共同作用在植被的恢复作用中起主要作用，其次是人类活动，气候变化对植被的恢复作用最弱。在植被的退化作用中，人类活动起主要作用，人类活动和气候变化的作用次之，气候变化对植被的退化作用最弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 气候变化和人类活动对不同植被类型NPP的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同植被类型受气候变化、人类活动以及二者共同作用所引起的恢复程度不同（图4a）。农作物、草原和荒漠受到人类活动、气候变化及二者共同作用的影响较大;森林、灌丛、高山植被、沼泽受到三者的影响较小。其中，农作物受人类活动恢复作用的影响最大,每年 NPP 增加 $1 8 9 . 3 \\mathrm { \\ G g \\ C \\cdot \\mathrm { \\Omega a } } ^ { - 1 }$ 。荒漠和草原次之，每年 $N P P$ 分别增加 $7 8 . 3 \\mathrm { \\ G g \\ C \\cdot ^ { - 1 } a ^ { - 1 } }$ 、$4 3 . 3 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。人类活动的恢复作用对森林、灌丛、高山植被、沼泽影响最小，每年NPP总共增加约$7 . 5 \\mathrm { \\ G g \\ C \\cdot \\ a } ^ { - 1 }$ 。气候变化的恢复作用相对于人类活动以及人类活动和气候变化的共同作用来说，各种植被类型受到气候变化的影响最小。其中，对荒漠植被而言，受气候变化的恢复作用最大， $N P P$ 每年增加约 $3 3 . 8 3 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ;草原次之,NPP 每年增加约 $1 5 . 2 1 \\mathrm { ~ G g ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ;其他5种植被类型受气候变化的恢复作用最小,每年 NPP 总共增加约 $1 0 . 5 2 ~ \\mathrm { G g }$ $\\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。而气候变化和人类活动的共同恢复作用对农作物影响最大,每年NPP增加约 $1 8 3 . 6 ~ \\mathrm { G g } \\mathrm { ~ C ~ }$ ：$\\mathrm { ~ a ~ } ^ { - 1 }$ ;草原和荒漠次之, $N P P$ 每年分别增加约104.7$\\mathrm { G g } \\mathrm { C } \\cdot \\mathrm { a } ^ { - 1 }$ 和 $7 1 \\mathrm { ~ G g ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。至于其它5种植被受共同恢复作用的影响较小， $N P P$ 每年总共增加约$2 1 . 6 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同植被类型受气候变化、人类活动和二者共同作用所造成的退化作用不同（图4b)。其中，人类活动对草原的退化作用影响最大的。因人类活动影响每年草原 NPP 减少约 $4 2 . 7 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。人类活动对农作物、森林和荒漠的退化作用次之，每年NPP分别减少约 $7 . 1 \\mathrm { ~ G g ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 } \\cdot 7 . 2 \\mathrm { ~ G g ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 、$7 . 2 \\mathrm { \\ G g \\ C \\cdot a } ^ { - 1 }$ 。人类活动对灌丛、高山植被和沼泽的退化作用最小，每年NPP总共减少约 $3 . 3 { \\mathrm { ~ G g ~ C ~ } } \\cdot$ （204号$\\mathrm { ~ a ~ } ^ { - 1 }$ 。气候变化对荒漠和草原的退化作用影响最大，每年 NPP分别减少约 $2 . 8 \\mathrm { ~ G g ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 } \\cdot 2 . 2 \\mathrm { ~ G g ~ C ~ } \\cdot$ $\\mathrm { ~ a ~ } ^ { - 1 }$ 。气候变化对其他5 种植被影响较小,每年 $N P P$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/11b95ff334882a13fabdfa029c8e68995fba82392aaa48a16e9a30d79d25f001.jpg",
+        "img_caption": [
+            "秦景秀等：气候变化和人类活动对干旱区植被生产力的影响",
+            "审图号：GS(2019)2461号"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d876228481d0a055b813a78e986b80d154ca9b64d3cd1021a2c8f126dfd90705.jpg",
+        "img_caption": [
+            "图2新疆2001—2016 年年平均植被 NPP(a)和变化趋势显著性检验(b)Fig.2Average annual vegetation $N P P$ （a）and trend test（b）in Xinjiang from 20O1 to 2016",
+            "图3气候变化和人类活动对植被的影响",
+            "Fig.3Effects of climate changes and human activities on vegetation NPP change "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：CD、CHD 和HD表示气候变化、共同作用和人类活动对植被的退化作用;CR、CHR 和HR 表示对植被的恢复作用;NC表示没有明显恢复或退化作用",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总共减少约 $1 . 5 \\mathrm { \\ G g \\ C \\cdot { \\ s ^ { - 1 } } }$ 。气候变化和人类活动的共同作用对植被的退化作用中，对草原的影响最大,每年 NPP 减少约 $3 7 . 8 ~ \\mathrm { G g } ~ \\mathrm { C } ~ \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。对农作物的影响次之,每年 NPP 减少约 $7 . 4 \\mathrm { \\ G g \\ C \\cdot ^ { - 1 } a ^ { - 1 } }$ 。对其他5种植被退化作用的影响最小，每年NPP总共减少 $5 . 9 \\mathrm { \\ G g \\ C \\cdot ^ { - 1 } }$ 。总体上,新疆不同植被的 NPP都呈增加趋势，植被NPP增加或减少的主要原因都是由于人类活动的影响，人类活动的恢复作用大于退化作用；不同植被类型中对植被NPP增加贡献最大的是农作物。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/426931ba834a32640bd3208096ea30324b674150da68df93e34b44221f8276b9.jpg",
+        "img_caption": [
+            "Fig.4Effects of climate changes and human activities on different vegetation types "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7dc6462bf26cd83e8ae082fc2bbdaa28c0ead6ca10affec7cce819c48bcdce67.jpg",
+        "img_caption": [
+            "图4气候变化和人类活动对不同植被类型影响",
+            "图52001—2016 年新疆受到气候变化影响的植被 NPP与降水(a)和气温(b)的响应Fig.5VegetationNPPafectedbyclimatechangeresponsetoprecipitation（a）andtemperature（b）inXinjiangfrom2Oolto2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "YANG 等[21]在生态恢复工程对新疆植被 NPP的影响研究中表明，2009 年新疆总的植被NPP为（20 $9 5 7 6 7 . 4 \\mathrm { ~ G g ~ C ~ }$ ,平均植被 $N P P$ 为 $6 0 . 1 4 \\mathrm { ~ g ~ C ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ·$\\mathbf { a } ^ { - 1 }$ 。黄秉光等[22]对新疆近55a初级生产力的研究发现,植被 NPP平均值为 $9 2 . 4 \\mathrm { ~ g ~ C ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。而在本研究中，2001—2016 年除去荒地外新疆年平均NPP为 $8 9 3 ~ 2 5 . 6 ~ \\mathrm { G g } \\mathrm { ~ C ~ }$ ,平均植被NPP介于二者之间为 $7 4 \\textrm { g C } \\cdot \\textrm { m } ^ { - 2 } \\cdot \\textrm { a } ^ { - 1 }$ ,计算结果具有合理性。YANG等[4]在研究气候变化和人类活动对北疆植被恢复和退化的相对作用中表明，人类活动是新疆植被恢复的主要原因，这与本研究结果一致，不同的是本研究中对新疆植被生产力增加占比最大的是农作物，其次是荒漠和草原，这说明之前的研究忽略了农作物对植被生产力的贡献。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过将受到气候变化影响的植被NPP分别与气温和降水做空间相关性分析，结果显示降水与植被NPP的正相关与负相关并存（图5a），正负相关所占的面积比分别为 $0 . 9 1 \\% . 4 4 . 3 9 \\%$ ，总体呈明显的正相关关系。气温与植被 $N P P$ 的关系同样是正负相关并存（图5b），正负相关所占的面积比分别为$1 3 . 0 7 \\% . 3 2 . 1 8 \\%$ ，总体呈弱的负相关。上述研究表明气候变化能够通过气温和降水等因素影响植被的生长[23],尤其降水成为植被生长的限制性因子。相关研究表明，在过去的 $1 5 \\mathrm { ~ a ~ }$ 中，新疆降水量和气温整体呈增加趋势,呈现暖湿现象，对植被生产力产生了有利影响[24-25]。这与本文的研究结果一致,气候变化整体上促进了植被的恢复，植被NPP净增加$5 2 . 8 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。然而,人类活动的干扰,如过度放牧、过度采伐、过度利用土地和水资源等其他形式，破坏了植被的覆盖，导致植被的退化。在过去的50a里，由于经济社会发展和人口的增加导致了草原和森林的过度开发，草地向农田的急剧转变，导致西北地区自然植被迅速退化。本研究结果表明，人类活动是植被退化的主要因素，占总退化面积的$5 7 . 6 \\%$ 。相反,人类活动可以通过围栏放牧、禁止放牧、退耕还林和实施生态修复工程等方式对植被恢复发挥积极作用[26-28]。1999 年以来,我国开展了退耕还林还草和天然林保护项目。1999—2011年新疆退耕还林还草面积达到 $8 1 . 2 1 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ，占西北地区同期退耕还林还草总面积的 $1 0 . 8 \\%$ ,植被覆盖度明显增加[27];1999—2017 年新疆天然林保护区内的林地面积达到了 $2 1 0 . 4 8 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,占新疆林地总面积的 $4 5 . 2 3 \\%$ [29]。这些积极的人类活动对研究区植被的恢复产生了显著的影响。本研究结果显示，总体上人类活动对植被的恢复作用明显大于人类活动的退化作用。除了森林、灌丛和沼泽外，人类活动对草地、荒漠和高山植被都产生了积极的恢复作用，自然植被NPP净增加 $6 8 . 6 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。本文的研究结果表明，实施积极的生态保护措施，不仅对今后控制和减缓植被退化有很大的参考价值，在应对气候变化对植被生长产生的不利影响方面同样发挥积极的作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文以NPP为指标，利用遥感数据、气象站点数据、植被类型数据，定量评估了新疆2001一2016年气候变化和人类活动对植被生产力的相对贡献。得出以下主要结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）2001—2016年来新疆植被NPP呈上升趋势。植被恢复区的面积与植被退化区的面积比约为$9 : 1$ 植被 $N P P$ 净增加 $6 3 4 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。（2）人类活动在植被的恢复和退化中起主导作用。人类活动和气候变化在植被恢复过程中所占的面积比分别为 $4 2 \\% , 3 1 \\%$ ,在植被退化过程中所占的面积比分别为 $58 \\%$ 、 $1 9 \\%$ 。人类活动和气候变化在植被恢复过程中所占的 $N P P$ 比值分别为 $42 \\%$ 、$8 \\%$ ,在植被退化过程中所占 $N P P$ 比值分别为 $54 \\%$ 、$5 \\%$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）不同植被类型受到恢复和退化作用明显的是农作物、草原、荒漠、森林。灌丛、高山植被和沼泽受到的恢复和退化作用较弱。但每种植被NPP都呈增加趋势，农作物、草原、荒漠、森林、灌丛、高山植被、沼泽的 NPP 分别增加约 $2 9 3 \\mathrm { \\textrm { G g C } } \\cdot \\mathrm { \\textrm { a } } ^ { - 1 }$ 、$1 4 8 \\mathrm { ~ G g ~ C ~ ^ { - } ~ a ~ ^ { - 1 } ~ } { } _ { \\times } 1 7 1 \\mathrm { ~ G g ~ C ~ ^ { - } ~ a ~ ^ { - 1 } ~ } { } _ { \\times } 0 . 1 2 \\mathrm { ~ G g ~ C ~ ^ { - } ~ a ~ ^ { - 1 } ~ } .$ $4 \\mathrm { \\ G g \\ C \\bullet \\mathrm { \\Large ~ a ^ { - 1 } ~ } } { \\surd \\mathrm { \\ G g \\ C \\bullet \\mathrm { \\Large ~ a ^ { - 1 } ~ } } } , 0 . 8 \\mathrm { \\ G g \\ C \\bullet \\mathrm { \\Large ~ a ^ { - 1 } ~ } }$ 。其中农作物对 $N P P$ 的贡献最大,约占每年 $N P P$ 增加总量的 $4 6 . 2 3 \\%$ 。其次是荒漠和草原,分别占 $N P P$ 增加总量的 $2 7 . 1 0 \\% . 2 3 . 3 8 \\%$ 。其余植被占 $3 . 2 9 \\%$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于具体的人为要素涉及较多，本文在定量评估人类活动对植被生产力的影响时没有具体指出人类活动中的哪些因素影响植被生产力，是本研究的不足之处，未来在具体人为要素如何影响植被生产力方面有待进一步研究。在全球气候变化的背景下，预估未来气候变化对植被生产力的影响，对应对未来气候变化的不确定性所带来的影响具有重要的意义，因此这将是进一步研究的重点内容。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] FIELD CB,RANDERSONJT,MALMSTROMC M.Global net primary production：Combining ecology and remote sensing[J]. Remote Sensing of Environment,1995,51(1):74-88.   \n[2]杨红飞,刚成诚,穆少杰，等.近10 年新疆草地生态系统净初 级生产力及其时空格局变化研究［J].草业学报,2014，23 (3）:39 -50.[YANG Hongfei,GANG Chengcheng,MU Shaojie, et al.Analysis of spatio-temporal variation in net primary productivity of grassland during the past 1O years in Xinjiang[J].Acta Prataculturae Sinica,2014,23（3）:39-50.]   \n[3]孙云晓,王思远,常清,等.青藏高原近30 年植被净初级生产 力时空演变研究[J].广东农业科学，2014，41（13)：160-166. [SUN Yunxiao,WANG Siyuan,CHANG Qing,et al. Study on spatial-temporal variation of net primary productivity for the Tibetan Plateau in recent 3O years[J]. Guangdong Agricultural Sciences, 2014,41(13):160 -166.]   \n[4] YANGHF,YAOL,WANGYB,etal.Relative contribution of climate change and human activities to vegetation degradation and restoration in north Xinjiang,China[J].The Rangeland Journal, 2017,39(3) :289.   \n[5］杜金桑,于德永.气候变化和人类活动对中国北方农牧交错区 草地净初级生产力的影响[J].北京师范大学学报（自然科学 版）,2018,54(3）:365-372.[DU Jinshen,YU Deyong.Effects of climate change and human activities on the net primary productivity of grassland in the farming-pastoral ecotone of northern China [J].Journal of Beijing Normal University（Natural Science Edition）,2018,54(3) :365-372.]   \n[6] 王玉辉,周广胜.内蒙古羊草草原植物群落地上初级生产力时 间动态对降水变化的响应[J].生态学报，2003，24(6)：1140- 1145.[WANG Yuhui,ZHOU Guangsheng. Responses of temporal dynamicsof aboveground net primary productivity of leymus chinensis community to precipitation fluctuation in Inner Mongolia [J].Acta Ecologica Sinica,2003,24(6）:1140 -1145.]   \n[7］张山清,普宗朝,伏晓慧,等.气候变化对新疆自然植被净第一 性生产力的影响[J].干旱区研究,2010,27(6)：905－914. [ ZHANG Shanqing,PU Zongchao,FU Xiaohui,etal.Effectof climate change on NPP of natural vegetation in Xinjiang[J].Arid Zone Research,2010,27(6） :905-914.]   \n[8］刘亚荣,贾文雄,黄玫,等.近51年来祁连山植被净初级生产 力对气候变化的响应[J].西北植物学报,2015,35（3）：601- 607.［LIU Yarong,JIA Wenxiong,HUANG Mei,et al.Response of vegetation net primary productivity to climate change in the Qilian Mountains since recent 51 years[J].Acta Botanica Boreali-Occidentalia Sinica,2015,35(3）:601-607.]   \n[9]EVANS J,GEERKEN R.Discrimination between climate and human-induced dryland degradation[J].Journal of Arid Environments,2004,57(4) :535-554.   \n[10]WESSELS K J,PRINCE S D,MALHERBE J,et al.Can human-induced land degradation be distinguished from the efects of rainfall variability?A case studyin South Africa[J].Journal of Arid Environments,2007,68(2）:271 - 297.   \n[11］杜加强,舒俭民,张林波.基于植被降水利用效率和 NDVI的黄 河上游地区生态退化研究[J].生态学报,2012,32（11）： 3404-3413.[DU Jiaqiang,SHU Jianming,ZHANG Linbo.Analysis of ecosystem degradation and recovery using precipitation use efficiency and NDVI in the headwater catchment of the Yellow River Basin[J].Acta Ecologica Sinica,2012,32（11）:3404- 3413.]   \n[12]LI HX,LIU G H,FUB J. Spatial variations of rain-use efficiency along a climate gradient on the Tibetan Plateau;A satellite-based analysis[J]. International Journal of Remote Sensing,2013,34 (21):7487 -7503.   \n[13］田汉勤,刘明亮,张弛,等.全球变化与陆地系统综合集成模 拟——新一代陆地生态系统动态模型（DLEM)［J].地理学 报,2010,65（9）:1027-1047.[TIAN Hanqin,LIU Mingliang, ZHANG Chi,et al. The dynamic land ecosystem model（DLEM) for simulating terrestrial processes and interactions in the context of multifactor global change[J].Acta Geographica Sinica,2010, 65(9):1027 -1047.]   \n[14]TIAN H,CHEN G S,LIU M L,et al. Model estimates of net primary productivity,evapotranspiration,and wateruse eficiency in the terrestrial ecosystems of the southern United States during 1895- 2007[J].Forest Ecology& Management,2010,259（7）:1311 1327.   \n[15]LOBELL DB,HICKE JA,ASNERGP,et al. Satellite estimates of productivity and light use efficiency in United States agriculture, 1982—1998[J].Global Change Biology,2010,8(8）:722-735.   \n[16] ZHU W Q,PAN Y Z,LONG Z H,et al. Estimating net primary productivity of terrestrial vegetation based on GIS and RS:A case study in Inner Mongolia,China[J]. Journal of Remote Sensing, 2005,9(3): 300 -307.   \n[17］周广胜,张新时.自然植被净第一性生产力模型初探[J].植物 生态学报,1995,19（3）:193－200.[ZHOU Guangsheng， ZHANG Xinshi.A natural vegetation NPP model[J].Chinese Journal of Plant Ecology,1995,19(3）:193-200.]   \n[18］周广胜,郑元润,罗天祥,等.自然植被净第一性生产力模型及 其应用[J].林业科学,1998,34（5）:2-11.[ZHOU Guangsheng,Zheng Yuanrun,LUO Tianxiang,et al.NPP model of natural vegetation and itsapplication in China[J].Scientia Silvae Sinicae,1998,34(5) :2 -11.]   \n[19］叶永昌,周广胜,殷晓洁.1961—2010 年内蒙古草原植被分布 和生产力变化—基于 MaxEnt 模型和综合模型的模拟分析 [J].生态学报,2016,36（15）：4718-4728.[YE Yongchang, ZHOU Guangsheng,YIN Xiaojie. Change in distribution and productivity of steppe vegetation in Inner Mongolia during 1961 to 2010：Analysis based on MaxEnt model and synthetic model[ J]. Acta Ecologica Sinica,2016,36(15）:4718-4728.]   \n[20]POTTER C S,RANDERSON J T,FIELD C B,et al. Terrestrial ecosystem production：A process model based on global satellite and surface data[J].Global Biogeochemical Cycles,1993,7（4）： 811 -841.   \n[21]YANG HF,MU S J,LI JL.Efects of ecological restoration pro jects on land use and land cover change and its influences on territorial NPP in Xinjiang,China[J]. Catena,2014,115（4）:85- 95.   \n[22］黄秉光,杨静,黄玫.近55 a新疆植被净初级生产力的时空变 化[J].沙漠与绿洲气象,2018,（4):90-94.[HUANG Bingguang,YANG Jing,HUANG Mei. The spatiotemporal variationof net primary productivity of vegetation in Xinjianginrecent 55 years[J]. Desert and Oasis Meteorology,2018,(4）:90-94.]   \n[23]WU YY,WU Z F.Quantitative assessment of human-induced impacts based on net primary productivity in Guangzhou,China[J]. Environmental Science and Polution Research,2018,25（12）: 11384 - 11399.   \n[24］殷刚,李兰海,孟现勇,等.新疆 1979—2013 年降水量时空变 化特征和趋势分析［J].华北水利水电大学学报（自然科学 版）,2017,38(5）:19-27.[YIN Gang,LI Lanhai,MENG Xinyong,et al.A research of precipitation trend fluctuation in Xinjiang from 1979 to 2O13[J].Journal of North China University of Water Resources and Electric Power（Natural Science Edition）,2017,38 (5):19 -27.]   \n[25］郝兴明,李聪,李卫红,等.北疆西部近50a来气候、水文变化 趋势及其与北大西洋/北极涛动的关系[J].中国沙漠,2011, 31（1）:191-198.[HAO Xingming,LICong,LI Weiong,etal. Response of climate and hydrology change to North Atlantic Oscillation and Arctic Oscilltion in the west of northern Xinjiag during the last fifty years[J].Journal of Desert Research,2011,31 (1) :191 -198.]   \n[26]HAO X M,LI W H. Impacts of ecological water conveyance on groundwater dynamics and vegetation recovery in the lower reaches of the Tarim River in northwest China[J].Environmental Monitoring & Assessment,2014,186(11）) :7605.   \n[27］苏冰倩,王茵茵,上官周平.西北地区新一轮退耕还林还草规 模分析［J]．水土保持研究,2017,24（4）:59-65.［SU Bingqian,WANG Yinyin,SHANGGUAN Zhouping. Analysis on the scale of a new period of returning farmland to forestland and grassland in northwest China[J]. Research of Soil and Water Con",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[28]LIUR,XIAO L L,LIU Z,et al. Quantifying the relative impacts of climate and human activities on vegetation changes at the regional scale[J].Ecological Indicators,2018,93:91-99. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29］谭博文，罗章龙.新疆天然林保护与森林生态效益[J].河南农业,2017,（2）：37.[TANBowen,LUOZhanglong.Naturalforestprotection and forest ecological benefit in Xinjiang[J].Agricultureof Henan,2017,(2):37.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Effects of climate change and human activities on vegetation productivity in arid areas ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "QINJing-xiu12，HAOXing-ming12，ZHANGYing12，HUDing (1State Key Laboratory of Desert and Oasis Ecology,Xinjiang Institute ofEcologyand Geography,Chinese Academyof Science,Urumqi 830011,Xinjiang,China；2Universityof Chinese Academyof Science,Beijing100049,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Climate change and human activities are the two main factors afecting vegetation restoration and degradation.How toquantitatively evaluate the impactsof climatechange and humanactivitiesonvegetationrestoration and degradation is of great significance for addresing climate change,construction of ecological restoration and economic developmentalong the Silk Road,In this paper,net primary productivity（NPP）is used asan indicator to evaluatevegetation restorationanddegradation,and climate productivityand productivity affctedby human activities are usedas indicators for assessing climatechange and human activities for vegetation restoration and degradation. Xinjiang is located in thearidregion of northwestern China,with a typical temperate continental climateand extremely fragile ecological environment.The annual average precipitation is less than $2 0 0 ~ \\mathrm { { m m } }$ . The main vegetation types are desert and grassland,accounting for $52 \\%$ and $28 \\%$ of the total vegetation area. Based on the MODIS spatial resolution of $5 0 0 \\mathrm { ~ m ~ } N D V I$ data from 20O1 to 2O16 and 99 meteorological data and vegetation type data,the CASA model and Zhou Guangsheng model wereused to calculate the actual productivity and climate productivity of vegetation,and the difference between climate productivityandactual productivity was defined the impactof human activities.Using the methods of linear regression analysis and $F$ -test,the effects of climate change and human activities on vegetation productivityand productivityof different vegetation types were separated by analyzingthe trends of vegetationproductivity,soas to evaluate the efectsquantitativelyofbothonvegetationrestorationand degradation. The results showed that the area where vegetation $N P P$ has a significant change trend accounts for $3 4 . 0 2 \\%$ of the total vegetation coverage area from 2OO1 to 2016 in Xinjiang,only $3 . 4 4 \\%$ area underwent degradation,whereas $3 0 . 5 8 \\%$ area experienced restoration.The area of vegetation restoration caused by human activities and climate change accounts for respectively $4 2 . 0 3 \\%$ and $3 0 . 5 8 \\%$ of the total area of vegetation NPP change,the vegetation NPP was increased by $3 1 9 \\mathrm { \\ G g \\ C \\cdot a ^ { - 1 } }$ and $5 9 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,respectively.The area of vegetation degradation caused by human activities and climate change accounts for $5 7 . 6 3 \\%$ 和19. $45 \\%$ of the total area of vegetation $N P P$ （20 change,the vegetation NPP decreased $3 1 9 \\mathrm { \\ G g \\ C \\cdot ^ { - 1 } a ^ { - 1 } }$ ， $5 9 ~ \\mathrm { G g } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,respectively. Different vegetation types are subject to diferent dominant roles in the processof restorationand degradation.Restoration was domination by humanactivities incrops,desert,grassand,alpinevegetation,whereas degradation wasdomination byhumanactivities in forest,shrub,and swamp.Except for swamp,restoration was domination by climate in seven vegetation types.In general, $N P P$ in different vegetation types is increasing,especially crops,deserts and grasslands. The $N P P$ was increased by $2 9 3 \\mathrm { \\ G g \\ C \\cdot a ^ { - 1 } }$ $1 7 1 \\mathrm { \\ G g \\ C \\cdot a } ^ { - 1 }$ and $1 4 8 \\mathrm { \\ G g \\ C \\cdot { \\ a } } ^ { - 1 }$ respectively. The results of these studies indicate that thevegetation in Xinjiang is recovering,and human activities arethe main influencing factors of vegetationrestoration.In particular,crops contributethe most to Xinjiang vegetation productivity,andthe climatechange generally promoted the increase of vegetation $N P P$ in Xinjiang. Through the correlation analysis between vegetation $N P P$ and climate factors,it showed that precipitation has a significant positive correlation with vegetation $N P P$ . There is a weak negative correlation between temperature and vegetation $N P P$ ,and water conditions have become the main limiting conditions for vegetation growth. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:net primary productivity;climate change；human activities ；arid areas ",
+        "page_idx": 8
+    }
+]

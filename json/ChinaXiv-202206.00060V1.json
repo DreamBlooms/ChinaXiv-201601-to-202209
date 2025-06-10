@@ -1,0 +1,950 @@
+[
+    {
+        "type": "text",
+        "text": "基于任务与巡航方向相关性分析的无人机任务分配",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "何杏宇1,²，付冲‘，杨桂松1，赵子豪²，李梓源²(1.上海理工大学 光电信息与计算机工程学院，上海 200093;2.上海理工大学 出版印刷与艺术设计学院，上海200093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在有限能耗下提高任务执行效率是无人机系统中一个关键问题，然而现有的无人机任务分配方法忽视了任务与无人机巡航方向的相关性对能耗和时延的影响。为此，提出一种基于任务与巡航方向相关性分析的无人机任务分配方法，该方法包括任务筛选和基于共识的冲突解决两个阶段。在第一阶段，该方法首先利用任务与无人机巡航方向的夹角为单个无人机筛选出无折返任务，然后提出兼顾能耗和时间紧迫性的任务筛选算法从无折返任务中筛选出交互前候选任务。在第二阶段，该方法在多个无人机交互候选任务列表后，根据任务在这多个无人机巡航方向上的能耗效用参数和时延评估值来解决它们之间的任务冲突。经实验验证，提出的方法能够获得更低的任务平均能耗和平均时延。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：无人机任务分配；相关性分析；巡航方向；能耗中图分类号：TP393 doi:10.19734/j.issn.1001-3695.2022.03.0125",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UAV task allocation based on relevance analysis between tasks and cruise directions ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "He Xingyu1, ², Fu Chong1, Yang Guisongl†, Zhao Zihao², Li Ziyuan² (1.SchoolofOticlectical&mputerEnginengUnesityfanghaifoience&holggi; 2.College ofCommunication&ArtDesign,UniversityofShanghai forScience&Technologyhanghai20o93,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To achieve high eficiency with limitation of energy consumption is a keyproblem in the system of UAVs. In existing UAVtask alocation methods,therelevance between tasksandUAVcruise directions is neglected,which may further influence the energy consumptionand delayof task accomplishment.In view of this,this paper proposed an UAV task allcationmethodbasedontherelevance analysis between tasksand cruise directions.This method includes two phases: task screning phase andconflictresolution phase based onconsensus.Inthefirst phase,this method selectsout tasks without turning back foran UAVaccording to angles between thecruise direction of the UAVand directions ofthese tasks,then designsanalgorithm tofurtherselectcandidate tasksbefore interactionfromthe tasks without turningback accordingto their energyconsumption utility parameters andtime urgency parameters.Inthe second phase,this method solves tasks conflicts between UAVs after exchanging oftheir candidate tasks acording to energyconsumption utility parameters and time delay parameters ofthesetasks in diferent cruise directionsof these UAVs.Simulation results verifythatthe proposed methodcan achieve lower average task energy consumption and average task delay. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: UAV task allocation; relevance analysis; cruise direction; energy consumption ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着智能制造、无线通信、人工智能等相关技术的快速发展，无人自主系统也日趋成熟。其中，无人机具有机动性和灵活性等优势，且不受交通状况和周围环境的影响，阿里巴巴和亚马逊在他们的配送服务中引入了无人机配送模式[1]。虽然无人机在任务配送中拥有上述优点，但由于其能量有限不能长时间持续提供服务，对配送系统的任务分配产生较大局限性。因此，在有限能耗下提高任务执行效率是无人机系统中的一个重要问题，而任务分配方法是解决该问题的关键。现有的无人机任务分配方法主要包括集中式任务分配和分布式任务分配方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在集中式任务分配方法中，现有研究为优化无人机能耗主要根据任务属性进行分组聚类[2-4]、利用启发式算法优化任务完成顺序[5\\~7]，以及根据任务的时空属性进行任务分配[8\\~10]。集中式任务分配算法简单，具有获取全局最优解的潜力，但是依然存在缺点。当任务的离散程度较大时，聚类结果误差较大，很难通过聚类的方法生成一组相似度较高的任务分配序列实现能耗的协同优化；而利用启发式算法优化任务的完成顺序的研究，与传统的旅行商问题相似，在优化能耗时容易陷入局部最优；在考虑任务时空属性的任务分配研究中，需要综合考虑任务时间和空间多种因素对能耗的影响，求解空间过大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在分布式任务分配方法中，现有研究为优化无人机能耗，主要采用基于博弈论的分布式任务分配方法[1I\\~13]、基于拍卖的分布式任务分配方法[14\\~16]，以及基于共识的分布式任务分配方法[17\\~18]。分布式任务分配系统不需要像集中式任务分配系统一样需要一个全局的中央服务器，系统内的每架无人机都可以根据获取的信息独立决策，在任务分配过程中这种独立决策会引发多无人机间的冲突问题，可根据博弈、拍卖、共识等策略进行交互解决冲突问题，同时分布式系统还具有较高的并发性、可扩展性，去中心，以及适应动态环境的优点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经分析本文发现，上述两类方法在为无人机分配任务时，为了提升系统性能，考虑了能耗、路径长短和完成时间等多种影响因素，而未直接分析任务方向与无人机巡航方向的相关性。在进一步研究中，本文利用现有算法进行实验时还发现，当把任务完成截止时间的约束条件放宽松时，任务和无人机巡航方向相关性程度越高的任务越容易被优先执行。通过上述发现，本文获得两方面的启发：1)任务与无人机巡航方向的相关性对系统性能有非常重要的影响，尤其可以减少无人机因任务方向不一致带来的折返开销，那么本文可以尝试在进行任务分配时对该因素进行直接分析和考量；2)在任务分配时直接考虑任务与无人机巡航方向的相关性会导致一些不具有方向相关性但完成截止时间约束比较严格的任务无法及时执行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为此，根据第一点启发，本文将提出一种基于任务与巡航方向相关性分析的无人机任务分配方法，通过利用任务与巡航方向相关性来优化系统能耗；另一方面，本文将通过合理设置多个无人机巡航方向的配合，从而避免第二点启发中的问题，使得完成截止时间紧迫的任务总能找到一个和自己任务方向相关性高的无人机，但这又会带来不同巡航方向无人机之间的任务冲突问题，为此，本文的任务分配方法将采用基于共识的分布式框架。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有的基于共识的分布式任务分配方法主要包括任务筛选和基于共识的冲突解决两个阶段[19]。在第一阶段主要通过优化能耗、时延来筛选任务，例如根据无人机与任务发布位置间的距离筛选任务[20]，以及根据任务的等待时间筛选任务[21]，筛选任务时并未考虑到无人机巡航方向对能耗和时延的影响，在应对本文提出的无人机往返巡航的场景中存在较大局限；在第二阶段主要通过能耗最小的共识解决任务冲突[20]，以及任务成本的评估指标最小的共识解决任务冲突[21]，在解决任务冲突时并未考虑到无人机巡航方向对能耗、时延、任务成本等评估指标的影响，在应对本文提出的无人机往返巡航的场景中存在较大局限。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具体地，在本文任务分配方法的任务筛选阶段，该方法首先根据任务方向与无人机巡航方向的夹角为单个无人机筛选出无折返任务，然后定义任务能耗效用参数和时间紧迫性参数，并根据两者的综合评估值，提出一种任务筛选算法为单个无人机从无折返任务中筛选出交互前候选任务列表；在本文任务分配方法的共识冲突解决阶段，该方法提出一种冲突解决算法，在多个无人机交互候选任务列表后，根据任务在不同无人机巡航方向上的能耗效用参数和时延性能参数评估值来解决多个无人机之间的任务冲突。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文构建了一个基于任务与巡航方向相关性的分布式无人机任务分配模型，如图1所示。在该模型中，无人机集合表示为 $W = \\{ w _ { 1 } , w _ { 2 } , . . . , w _ { m } \\}$ ，多架无人机在一对固定充电站之间往返飞行并执行任务(这对充电站分别被称为这些无人机的巡航起点站和终点站，无人机经过起点站和终点站都需要停留进行任务获取和能量补充)，任意一个无人机 $\\boldsymbol { w } _ { j }$ 都可用六元组 $( O _ { w _ { j } } ( x , y ) , Q _ { w _ { j } } ( x , y ) , E _ { w _ { j } } , V _ { w _ { j } } , H _ { w _ { j } } , T _ { w _ { j } } )$ 表示， $O _ { w _ { j } } ( x , y )$ 为无人机 $\\boldsymbol { w } _ { j }$ 巡航起点站的坐标， $Q _ { w _ { j } } ( x , y )$ 为无人机 $\\boldsymbol { w } _ { j }$ 巡航终点站的坐标， $E _ { w _ { j } }$ 表示无人机 $\\boldsymbol { w } _ { j }$ 的最大能量储备， $V _ { w _ { j } }$ 表示无人机 $\\boldsymbol { w } _ { j }$ 的飞行速度， $H _ { w _ { j } }$ 表示无人机 $\\boldsymbol { w } _ { j }$ 的飞行高度(为避免无人机发生碰撞，为每架无人机设置不同的飞行高度)， $T _ { w _ { j } }$ 表示无人机 $\\boldsymbol { w } _ { j }$ 巡航起飞的时间，同一充电站相同巡航方向上无人机起飞时间间隔为 $\\Delta T$ ，且固定一对充电站点的两架无人机将同时相向巡航(巡航起点站 $O _ { w _ { j } } ( x , y )$ 和终点站 $Q _ { w _ { j } } ( x , y )$ 之间的连线方向表示无人机 $\\boldsymbol { w } _ { j }$ 的巡航方向)。根据文献[22]无人机能耗与飞行时间的关系，可以通过任意一架无人机 $\\boldsymbol { w } _ { j }$ 的最大能量储备 $E _ { w _ { j } }$ ，计算出无人机 $w _ { j }$ 每轮巡航的最大飞行时间 $t _ { w _ { j } }$ ，计算如下所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { w _ { j } } = \\frac { E _ { w _ { j } } } { f \\big ( V _ { w _ { j } } \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $E _ { w _ { j } }$ 为无人机 $\\boldsymbol { w } _ { j }$ 的最大能量储备， $f \\left( { { V } _ { w _ { j } } } \\right)$ 表示无人机 $\\boldsymbol { w } _ { j }$ 以速度 $V _ { w _ { j } }$ 匀速飞行的功率，每对充电站之间相同巡航方向上的无人机巡航起飞间隔 $\\Delta T$ 满足如下约束：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta T \\le \\frac { 1 } { m ^ { ' } } \\times t _ { w _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathrm { ~ \\bf ~ \\it ~ { ~ m ~ } ~ }$ 表示为每对充电站之间单个巡航方向的无人机数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "任意一个任务 $a _ { i }$ 都可用三元组 $( O _ { a _ { i } } ( x , y ) , Q _ { a _ { i } } ( x , y ) , T _ { a _ { i } } )$ 表示，$O _ { a _ { i } } ( x , y )$ 表示任务 $a _ { i }$ 取货点的坐标， $Q _ { a _ { i } } ( x , y )$ 表示任务 $a _ { i }$ 配送点的坐标， $T _ { a _ { i } }$ 表示任务 $a _ { i }$ 要求的最晚配送时间，取货点 $O _ { a _ { i } } ( x , y )$ 和配送点 $Q _ { a _ { i } } ( x , y )$ 之间的连线可定义为任务 $a _ { i }$ 的方向。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bac6f566e46b09bb1ad000d286dd00f5d06f9490ed34d0ad92e1465fc871df16.jpg",
+        "img_caption": [
+            "图1无人机任务分配模型",
+            "Fig.1UAV task allocation model "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每个充电站不仅具有充电能力，而且可以接收其任务覆盖范围内(任务覆盖范围半径为无人机巡航起点站和终点站之间的距离，无人机的通信半径是任务覆盖范围半径的两倍)的配送任务，彼此在通信范围内的充电站之间可以进行任务交互，无人机在每经过一个充电站后将能量储备恢复到最大，并获取充电站接收的任务集(每当无人机结束一轮巡航，当前所在充电站变换为巡航起点站，对应的另一充电站变换为巡航终点站)，以及通过本文提出的分布式任务分配方法生成每轮巡航(从巡航起点站到终点站)可执行的无冲突任务列表。该任务分配方法包括任务筛选阶段和基于共识的冲突解决阶段两个阶段，该方法在具有相同起飞时间的多个无人机之间执行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在任务筛选阶段，无人机将通过两轮筛选从在起点站获取的任务中筛选出到达终点站之前可执行的候选任务列表，在第一轮筛选中，单个无人机先将从起点站获取的任务放入以起点站为原点和以其巡航方向(巡航起点站和终点站之间的连线方向)为Y轴的新坐标系中，然后删除纵坐标小于0以及与无人机巡航方向夹角余弦值小于0的任务，从而筛选出并生成单程巡航可执行的无折返任务列表(无折返任务取货点的纵坐标总是小于它配送点的纵坐标，确保无人机总是先经过任务的取货点再到达该任务的配送点)，这一轮筛选是本文方法对任务与巡航方向相关性的第一层分析与利用。在第二轮筛选中，首先，单个无人机根据第一轮筛选出的任务的取货点和配送点的纵坐标进行递增排序，并生成该任务列表的轨迹序列，然后计算任务的能耗效用参数和时间紧迫性参数，并根据这两个参数的综合评估值从无折返任务列表中筛选出能耗效用参数值较小和时间紧迫性参数较大的任务，从而生成交互前的候选任务列表。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在基于共识的冲突解决阶段，无人机之间进行信息交互(交互信息包括无人机的交互前候选任务列表，以及其他无人机信息)，并根据交互的信息解决相互之间的任务冲突问题，以生成各自的无冲突任务列表。具体地，如果一个任务的原始坐标在多个无人机的交互前候选任务列表中，则该任务在这多个无人机之间存在冲突。当一个任务存在冲突时，本文方法根据该任务在不同无人机巡航方向上的能耗效用参数和时延性能参数的综合评估值来选择执行该任务的无人机，以解决任务冲突，这是本文方法对任务与巡航方向相关性的第二层分析与利用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 基于任务与巡航方向相关性分析的任务分配",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1任务筛选阶段",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "任务筛选阶段包含两轮任务筛选：在第一轮筛选中，为了避免折返，无人机主要根据任务与其巡航方向夹角的余弦值来筛选无折返任务。在第二轮筛选中，为降低无人机能耗和时延，无人机主要根据任务的能耗效用参数和时间紧迫参数从无折返任务中来筛选出交互前候选任务列表。本文将以无人机 $\\boldsymbol { w } _ { j }$ 为例对两轮任务筛选进行详细说明。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1第一轮任务筛选",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在第一轮任务筛选中，无人机 $\\boldsymbol { w } _ { j }$ 获取其巡航起点站的任务集 $A$ 后，需要筛选出飞往巡航终点站之前可执行的无折返任务列表 $A _ { w _ { j } }$ ，其具体筛选步骤包括：1)无人机 $\\boldsymbol { w } _ { j }$ 获取任务集$A$ 中所有任务在以其巡航起点站 $O _ { w _ { j } } ( x , y )$ 为原点和以其巡航方向为Y轴的新坐标系中的坐标；2)无人机 $w _ { j }$ 删除 $A$ 中纵坐标小于0以及与无人机 $\\boldsymbol { w } _ { j }$ 巡航方向夹角余弦值小于0的所有任务(被删除的任务一定存在于与无人机巡航方向夹角余弦值不小于0的，其他巡航方向上的无人机的无折返任务列表中，若被删除的任务为紧急配送任务，则可由其他巡航方向上的无人机执行)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述步骤中涉及的坐标系变换过程如图2所示，无人机$\\boldsymbol { w } _ { j }$ 以其巡航起点站 $O _ { w _ { j } } ( x , y )$ 为原点，以其巡航方向为 $\\mathrm { \\Delta Y }$ 轴，以巡航方向的垂线为 $\\mathrm { \\Delta } X$ 轴建立新坐标系 $\\boldsymbol { \\mathrm { X } } - \\boldsymbol { \\mathrm { O } } _ { w _ { j } } - \\boldsymbol { \\mathrm { Y } } ^ { \\prime }$ ，为了获取任务集 $A$ 中所有任务在新坐标系中的坐标，需要计算新坐标系$\\boldsymbol { \\mathrm { X } } ^ { \\prime } - \\boldsymbol { \\mathrm { O } } _ { w _ { j } } - \\boldsymbol { \\mathrm { Y } } ^ { \\prime }$ 相对于旧坐标系 X-O-Y 旋转的角度和平移的距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据无人机 ${ w _ { j } }$ 在旧坐标系X-O-Y内巡航起点站和终点站 $O _ { w _ { j } } ( x , y ) , Q _ { w _ { j } } ( x , y )$ 的坐标，可以计算出新坐标系 $\\boldsymbol { \\mathrm { X } } - \\boldsymbol { \\mathrm { O } } _ { w _ { j } } - \\boldsymbol { \\mathrm { Y } } ^ { \\prime }$ 相对于旧坐标系X-O-Y旋转的角度 $\\varphi _ { w _ { j } }$ ，计算如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi _ { w _ { j } } = \\frac { \\pi } { 2 } - \\arctan \\left( \\frac { Q _ { w _ { j } } ( y ) - O _ { w _ { j } } ( y ) } { Q _ { w _ { j } } ( x ) - O _ { w _ { j } } ( x ) } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据无人机 $\\boldsymbol { w } _ { j }$ 在旧坐标系 X-O-Y 内巡航起点站 $O _ { w _ { j } } ( x , y )$ 的坐标，可计算出新坐标系 $\\boldsymbol { \\mathrm { X } } - \\boldsymbol { \\mathrm { O } } _ { w _ { j } } - \\boldsymbol { \\mathrm { Y } } ^ { \\prime }$ 相对于旧坐标系X-O-Y平移的距离，如图2所示，新坐标系 $\\boldsymbol { \\mathrm { X } } - \\boldsymbol { \\mathrm { O } } _ { w _ { j } } - \\boldsymbol { \\mathrm { Y } } ^ { \\prime }$ 相对于旧坐标系 X-O-Y向右平移的距离为 $O _ { w _ { j } } ( x )$ ，向上平移的距离为 $O _ { w _ { j } } ( y )$ 。由此，将任务集 $A$ 中任务的取货点和配送点放入新坐标系$\\boldsymbol { \\mathrm { X } } ^ { \\cdot } - \\boldsymbol { \\mathrm { O } } _ { w _ { j } } - \\boldsymbol { \\mathrm { Y } } ^ { \\cdot }$ 内，任务集 $A$ 中任意一个任务 $a _ { i }$ 取货点 $O _ { a _ { i } } ( x , y )$ 转换后的坐标 $O _ { a _ { i } } ^ { w _ { j } } ( x , y )$ 计算如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l } { O _ { a _ { i } } \\left( x \\right) = O _ { a _ { i } } ^ { w _ { j } } \\left( x \\right) \\times \\cos \\left( \\varphi _ { w _ { j } } \\right) + O _ { a _ { i } } ^ { w _ { j } } \\left( y \\right) \\times \\sin \\left( \\varphi _ { w _ { j } } \\right) + O _ { w _ { j } } \\left( x \\right) } \\\\ { O _ { a _ { i } } \\left( y \\right) = O _ { a _ { i } } ^ { w _ { j } } \\left( y \\right) \\times \\cos \\left( \\varphi _ { w _ { j } } \\right) - O _ { a _ { i } } ^ { w _ { j } } \\left( x \\right) \\times \\sin \\left( \\varphi _ { w _ { j } } \\right) + O _ { w _ { j } } \\left( y \\right) } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e938ed302b83994660b79b01f1a13e75aaf9c14467da0864ba8d1aa4898d0fc.jpg",
+        "img_caption": [
+            "图2无人机坐标系转换 ",
+            "Fig.2UAV coordinate system conversion "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为避免无人机 $w _ { j }$ 执行任务时发生折返，需要删除取货点或配送点纵坐标为负的任务，以及删除任务方向与无人机 $\\boldsymbol { w } _ { j }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "巡航方向夹角余弦值为负(任务与无人机巡航方向夹角大于$9 0 ^ { \\circ } .$ 的任务，计算如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cos ( \\angle \\alpha _ { w _ { j } , a _ { i } } ) =\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\left( \\left( Q _ { a _ { i } } ^ { w _ { j } } \\left( x \\right) - O _ { a _ { i } } ^ { w _ { j } } \\left( x \\right) \\right) \\times \\left( Q _ { w _ { j } } ^ { w _ { j } } \\left( x \\right) - O _ { w _ { j } } ^ { w _ { j } } \\left( x \\right) \\right) + \\left( Q _ { a _ { i } } ^ { w _ { j } } \\left( y \\right) - O _ { a _ { i } } ^ { w _ { j } } \\left( y \\right) \\right) \\times \\left( Q _ { w _ { j } } ^ { w _ { j } } \\left( y \\right) - O _ { w _ { j } } ^ { w _ { j } } \\left( y \\right) \\right) \\right) } { \\sqrt { \\left( Q _ { a _ { i } } ^ { w _ { j } } \\left( x \\right) - O _ { a _ { i } } ^ { w _ { j } } \\left( x \\right) \\right) ^ { 2 } + \\left( Q _ { a _ { i } } ^ { w _ { j } } \\left( y \\right) - O _ { a _ { i } } ^ { w _ { j } } \\left( y \\right) \\right) ^ { 2 } } \\times \\sqrt { \\left( Q _ { w _ { j } } ^ { w _ { j } } \\left( x \\right) - O _ { w _ { j } } ^ { w _ { j } } \\left( x \\right) \\right) ^ { 2 } + \\left( Q _ { w _ { j } } ^ { w _ { j } } \\left( y \\right) - O _ { w _ { j } } ^ { w _ { j } } \\left( y \\right) \\right) ^ { 2 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\angle \\alpha _ { w _ { j } , a _ { i } }$ 表示任务 $a _ { i }$ 与无人机 $\\boldsymbol { w } _ { j }$ 巡航方向的夹角。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2第二轮任务筛选",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在第二轮任务筛选中，当无人机 $w _ { j }$ 的无折返任务列表 $A _ { w _ { j } }$ 中所有任务完成总能耗大于无人机 $w _ { j }$ 的能耗阈值 $E _ { w _ { j } }$ 时，它需要对 $A _ { w _ { j } }$ 中任务的能耗效用参数和时间紧迫程度进行综合评估，并根据评估结果进行任务删除。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了便于评估任务能耗以及避免任务执行过程中产生折返，无人机 $\\boldsymbol { w } _ { j }$ 对任务列表 $A _ { w _ { j } }$ 中的任务按照纵坐标排序进行路径规划。如图3所示，无人机 $w _ { j }$ 对任务列表 $A _ { w _ { j } }$ 内的任务的取货点和配送点的纵坐标进行递增排序，生成一条从无人机$w _ { j }$ 巡航起点站 $O _ { w _ { j } } ( x , y )$ 出发，经过 $A _ { w _ { j } }$ 中所有任务的取货点和配送点，并返回无人机 $\\boldsymbol { w } _ { j }$ 巡航终点站 $Q _ { w _ { j } } ( x , y )$ 的轨迹序列 $F _ { A _ { w _ { j } } }$ 。在轨迹序列 $F _ { A _ { w _ { j } } }$ 中，每个任务的取货点和配送点并不一定是一对连续的点，在第一轮任务筛选中通过删除任务方向与无人机巡航方向夹角大于 $9 0 ^ { \\circ }$ 的任务，能够确保每个任务取货点的纵坐标总是小于它配送点的纵坐标，使得无人机总是先经过任务的取货点再到达该任务的配送点。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/08e38d495c4a34384cc1295243ba93aab3a0ee5f590a1cde29896d5e8d2abbf3.jpg",
+        "img_caption": [
+            "图3无人机任务轨迹序列的生成",
+            "Fig.3Generation of UAV tasks trajectory sequence "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了避免产生迁回路径，若存在纵坐标相同的轨迹点，则从这些横坐标最大和最小的轨迹点中选出与轨迹序列中纵坐标最接近，且稍小于的轨迹点最近的轨迹点作为这些轨迹点中的第一次序点(无人机最先经过的点)。如果第一次序点是这些轨迹点中横坐标最大的，则其余轨迹点按照横坐标递减排序，否则按照横坐标递增排序，例如图3中存在纵坐标相同的三个轨迹点 $F _ { A _ { w _ { j } } } ^ { 2 } , F _ { A _ { w _ { j } } } ^ { 3 } , F _ { A _ { w _ { j } } } ^ { 4 }$ ，其中横坐标最大和最小的轨迹点分别为 $F _ { A _ { w _ { j } } } ^ { 2 } , F _ { A _ { w _ { j } } } ^ { 4 }$ ，与 $F _ { A _ { w _ { j } } } ^ { 2 } , F _ { A _ { w _ { j } } } ^ { 4 }$ 纵坐标最近且稍小的轨迹点为 $F _ { A _ { w _ { j } } } ^ { 1 }$ 轨迹点 $F _ { A _ { w _ { j } } } ^ { 2 }$ 与 $F _ { A _ { w _ { j } } } ^ { 1 }$ 间的距离最近，所以 $F _ { A _ { w _ { j } } } ^ { 2 }$ 为 $F _ { A _ { w _ { j } } } ^ { 2 } , F _ { A _ { w _ { j } } } ^ { 3 } , F _ { A _ { w _ { j } } } ^ { 4 }$ 中的第一次序点，且 $F _ { A _ { w _ { j } } } ^ { 2 }$ 为横坐标最大的轨迹点，由此在路径规划时这三个轨迹点按照横坐标递减排序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "无人机 $w _ { j }$ 按照上述方法进行路径规划生成轨迹序列 $F _ { A _ { w _ { j } } }$ 后，如果发现轨迹序列 $F _ { A _ { w _ { j } } }$ 所需能耗超出其能耗阈值 $E _ { w _ { j } }$ (若能耗未超出阈值 $E _ { w _ { j } }$ ，停止第二轮任务筛选，并直接将 $\\boldsymbol { A } _ { \\boldsymbol { w } _ { j } }$ 作为无人机 $\\boldsymbol { w } _ { j }$ 的交互前候选任务列表)，需要根据任务在当前轮次的时间紧迫性参数以及它的一对轨迹点(任务的取货点和配送点)在轨迹序列 $F _ { A _ { w _ { j } } }$ 中的能耗效用参数来决定是否将该任务从轨迹序列 $F _ { A _ { v _ { j } } }$ 中筛除，具体过程如算法1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1第二轮任务筛选算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：任意一架无人机 ${ \\boldsymbol { w } _ { j } }$ 的无折返任务列表 $A _ { w _ { j } }$ ，及其能量阈值 $E _ { w _ { j } }$ 输出：任意一架无人机 $\\boldsymbol { w } _ { j }$ 交互前候选任务列表 $A _ { w _ { j } } ^ { * }$   \n1. $A _ { w _ { j } }$ 中任务取货点和配送点，按照纵坐标递增排序，生成 $A _ { w _ { j } }$ 的轨迹序列 $F _ { A _ { v _ { j } } }$   \n2.if任务取货点和配送点纵坐标相同  \n3．从这些横坐标最大和最小的轨迹点中选出与轨迹序列中纵坐标",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最接近，且稍小于的轨迹点最近的轨迹点作为这些轨迹点中的第一次序点",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4．if 第一次序点是这些轨迹点中横坐标最大的  \n5. 其余轨迹点按照横坐标递减排序  \n6. else  \n7. 其余轨迹点按照横坐标递增排序  \n8. end  \n9.end",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10．根据式(10)计算任意一个任务 $a _ { i }$ 在轨迹序列 $F _ { A _ { v j } }$ 中的能耗效用参数和时间紧迫性参数的评估值 $P _ { A _ { w _ { j } } , a _ { i } }$ ，并通过遍历找出轨迹序列中最大的评估值作为无人机 ${ \\boldsymbol { w } _ { j } }$ 筛选任务的初始阈值 $\\Theta _ { A _ { w _ { j } } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11.while ( ${ E } _ { { A } _ { w _ { j } } } - { E } _ { w _ { j } } > \\varepsilon$ ）   \n12.if $P _ { A _ { w _ { j } } , a _ { i } } \\geq \\Theta _ { A _ { w _ { j } } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13．从 $A _ { w _ { j } }$ 中删除任务 $a _ { i }$ ，及其在轨迹序列 $F _ { A _ { w j } }$ 中的一对轨迹点，并计算轨迹序列 $F _ { A _ { w _ { j } } }$ 的能耗 $E _ { A _ { w _ { j } } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14． else ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. 根据式(11)更新 $\\Theta _ { A _ { w _ { j } } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16． end ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17.end ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在算法1中，对于 $A _ { w _ { j } }$ 中任意一个任务 $a _ { i }$ ，在当前轮次的时间紧迫参数 $D _ { A _ { w _ { j } } , a _ { i } }$ 计算如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { A _ { w _ { j } } , a _ { i } } = 1 - \\frac { 1 } { 1 + e ^ { \\frac { T _ { 0 } - T _ { a _ { i } } } { C _ { 1 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $C _ { 1 }$ 为常数用来调节时延在区间上的分布， $T _ { a _ { i } }$ 表示任务 $a _ { i }$ 要求的最晚配送时间， $T _ { 0 }$ 表示当前时刻。任务 $a _ { i }$ 的时间紧迫性参数评估值越大表示完成该任务的紧迫性越小，该任务越应该被删除，由此根据任务 $a _ { i }$ 的时间紧迫性参数评估值筛选任务，可以优化无人机完成任务的总时延。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于 $A _ { w _ { j } }$ 中任意一个任务 $a _ { i }$ ，其取货点 $O _ { a _ { i } } ^ { w _ { j } } \\left( x , y \\right)$ 和配送点$Q _ { a _ { i } } ^ { w _ { j } } \\left( x , y \\right)$ 在 $A _ { w _ { j } }$ 的轨迹序列 $F _ { A _ { v _ { j } } }$ 中对应的轨迹点分别为 $F _ { A _ { w _ { j } } } ^ { m } , F _ { A _ { w _ { j } } } ^ { n }$ 。在算法1中，当评估轨迹点 $F _ { A _ { v j } } ^ { m }$ 的能耗效用参数时，可根据轨迹点 $F _ { A _ { w _ { j } } } ^ { m }$ 相邻的两个轨迹点 $F _ { A _ { w _ { j } } } ^ { m - 1 } , F _ { A _ { w _ { j } } } ^ { m + 1 }$ 进行评估，如图4所示，三个相邻的轨迹点 $F _ { A _ { w _ { j } } } ^ { m - 1 } , F _ { A _ { w _ { j } } } ^ { m } , F _ { A _ { w _ { j } } } ^ { m + 1 }$ 两两相连形成一个三角形，在该三角形中，轨迹点 $F _ { A _ { w _ { j } } } ^ { m - 1 }$ 和 $F _ { A _ { w _ { j } } } ^ { m }$ 间飞行能耗与轨迹点 $F _ { A _ { w _ { j } } } ^ { m }$ 和 $F _ { A _ { w _ { j } } } ^ { m + 1 }$ 间飞行能耗之和，与轨迹点 $F _ { A _ { w _ { j } } } ^ { m - 1 }$ 和 $F _ { A _ { w _ { j } } } ^ { m + 1 }$ 间飞行能耗的差值可以评估轨迹点 $F _ { A _ { v j } } ^ { m }$ 的能耗效用参数 $E _ { F _ { A _ { v _ { j } } } ^ { s } }$ ，计算如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ E _ { F _ { A _ { w _ { j } } } ^ { m } } = 1 - e ^ { - \\left( \\frac { E _ { F _ { A _ { w _ { j } } } ^ { m - 1 , m } } + E _ { F _ { A _ { w _ { j } } } ^ { m , m + 1 } } - E _ { F _ { A _ { w _ { j } } } ^ { m - 1 , m + 1 } } } { C _ { 2 } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $C _ { 2 }$ 为常数用来调节能耗在区间上的分布， $E _ { F _ { \\hat { \\mathcal { M } } _ { j } } ^ { m - 1 , m } }$ 表示轨迹点 $F _ { A _ { w _ { j } } } ^ { m - 1 }$ 和 $F _ { A _ { w _ { j } } } ^ { m }$ 间飞行能耗，可通过轨迹点 $F _ { A _ { w _ { j } } } ^ { m - 1 }$ 和 $F _ { A _ { w _ { j } } } ^ { m }$ 间距离 $L _ { F _ { A _ { i _ { j } } } ^ { m - 1 , m } }$ 与能耗的关系计算出，在文献[22]中无人机能耗和飞行距离的关系表示如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { { F _ { A _ { w _ { j } } } ^ { m - 1 , m } } } = \\frac { L _ { F _ { A _ { w _ { j } } } ^ { m - 1 , m } } } { V _ { w _ { j } } } \\times f \\left( V _ { w _ { j } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $f \\left( { { V } _ { w _ { j } } } \\right)$ 表示无人机 $\\boldsymbol { w } _ { j }$ 以速度 $V _ { w _ { j } }$ 匀速飞行的功率，轨迹点$F _ { A _ { w _ { j } } } ^ { m - 1 }$ 和 $F _ { A _ { w _ { j } } } ^ { m }$ 间距离 $L _ { { F } _ { \\mathrm { A } _ { \\epsilon _ { j } } } ^ { w - 1 , w } }$ 可通过欧氏距离求解出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同理，任务 $a _ { i }$ 配送点 $Q _ { a _ { i } } ^ { w _ { j } } \\left( x , y \\right)$ 在 $A _ { w _ { j } }$ 的轨迹序列中对应的轨迹点 $F _ { A _ { w _ { j } } } ^ { n }$ 能耗效用参数为 $E _ { F _ { A _ { v _ { j } } } ^ { n } }$ ，任务 $a _ { i }$ 能耗效用参数的评估值$E _ { A _ { w _ { j } } , a _ { i } }$ 计算如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { A _ { w _ { j } } , a _ { i } } = \\frac { E _ { F _ { A _ { w _ { j } } } ^ { m } } + E _ { F _ { A _ { w _ { j } } } ^ { n } } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "轨迹点的能耗效用参数反映的是轨迹点在轨迹序列中对整体能耗的影响，在轨迹序列 $F _ { A _ { w j } }$ 中，轨迹点 $F _ { A _ { w _ { j } } } ^ { m } , F _ { A _ { w _ { j } } } ^ { n }$ 的能耗效用参数 $E _ { { { { \\scriptscriptstyle F } } _ { { \\scriptscriptstyle A _ { v _ { j } } } } ^ { n } } } , E _ { { { \\scriptscriptstyle F } } _ { { \\scriptscriptstyle A _ { v _ { j } } } } ^ { n } }$ 越大表示选择该轨迹点额外增加的能耗越多，轨迹点 $F _ { A _ { w _ { j } } } ^ { m } , F _ { A _ { w _ { j } } } ^ { n }$ 在轨迹序列 $F _ { A _ { w _ { j } } }$ 中越应该被删除，由此根据任务$a _ { i }$ 取货点和配送点在轨迹序列 $F _ { A _ { w _ { j } } }$ 中对应的轨迹点 $F _ { A _ { w _ { j } } } ^ { m } , F _ { A _ { w _ { j } } } ^ { n }$ 的能耗效用参数筛选任务可以优化无人机完成轨迹序列中任务的总能耗。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/67decb86a0f76a82c30a8520c1cc4f9290d35db05d922b8fd14e21fdafa87e02.jpg",
+        "img_caption": [
+            "图4无人机任务能耗效用参数评估"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Energy consumption utility parameters evaluation of UAV tasks任务 $a _ { i }$ 基于能耗效用参数 $E _ { A _ { w _ { j } } , a _ { i } }$ 和时间紧迫性参数 $D _ { A _ { w _ { j } } , a _ { i } }$ 的综合评估值计算如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { { A _ { w _ { j } } } , { a _ { i } } } = \\mu \\times { D _ { { A _ { w _ { j } } } , { a _ { i } } } } + ( 1 - \\mu ) \\times { E _ { { A _ { w _ { j } } } , { a _ { i } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mu$ 用来调节能耗效用参数和时间紧迫性参数的比重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "无人机 $\\boldsymbol { w } _ { j }$ 从 $A _ { w _ { j } }$ 的轨迹序列中筛选出能耗效用参数和时间紧迫性参数综合评估值较大的任务，为此需要设定能耗效用参数和时间紧迫性参数评估的初始阈值 $\\Theta _ { A _ { w _ { j } } }$ ，初始阈值可通过遍历轨迹序列中所有轨迹点，计算其能耗效用参数和时间紧迫性参数的综合评估值，选择其中最大的评估值作为初始阈值，当任务能耗效用参数和时间紧迫性参数的综合评估值大于等于该阈值时，将该任务取货点和配送点对应的轨迹点从 $A _ { w _ { j } }$ 的轨迹序列 $F _ { A _ { v _ { j } } }$ 中删除。在算法1中，每删除一轮任务后，需要判断轨迹序列 $F _ { A _ { w _ { j } } }$ 中剩余轨迹所需的能耗是否满足能耗约束。如果是，则更新 $\\Theta _ { A _ { w _ { j } } }$ 值，继续进行下一轮任务删除，否则算法结束。 $\\Theta _ { A _ { w _ { j } } }$ 迭代更新公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Theta _ { A _ { w _ { j } } } = \\left( 1 - \\frac { 1 } { e ^ { n ^ { - e } } } \\right) \\times \\Theta _ { A _ { w _ { j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $n$ 表示无人机 $\\boldsymbol { w } _ { j }$ 删除轨迹点的第 $n$ 轮迭代(遍历一次轨迹序列称为一轮迭代)，阈值 $\\Theta _ { A _ { w _ { j } } }$ 随着迭代次数的增加不断减少，随着迭代次数的增加 $\\Theta _ { A _ { w _ { j } } }$ 减少地越来越慢。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在算法1中，通过迭代更新阈值，不断删除能耗效用参数和时间紧迫性参数的综合评估值大于阈值的任务，直到无人机轨迹序列内的任务的总能耗收敛，收敛条件如下所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| { E _ { A _ { w _ { j } } } - E _ { w _ { j } } } \\right| \\leq \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $E _ { A _ { w _ { j } } }$ 表示无人机 $\\boldsymbol { w } _ { j }$ 完成删除任务后的无折返任务列表$A _ { w _ { j } }$ 内的任务的总能耗， $\\varepsilon$ 表示无人机 $w _ { j }$ 完成 $A _ { w _ { j } }$ 内的任务的总能耗与无人机 $\\boldsymbol { w } _ { j }$ 最大能量储备的差值，当能耗差值收敛到区间 $\\displaystyle \\big [ - \\varepsilon , \\varepsilon \\big ]$ 时，则停止任务筛选，从而生成无人机 $\\boldsymbol { w } _ { j }$ 的交互前候选任务列表 $A _ { w _ { j } } ^ { * }$ ，而未被选中的任务将在后续巡航中被执行，或者由其他无人机执行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2基于共识的冲突解决阶段",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在基于共识的冲突解决阶段，无人机间交互彼此的候选任务信息，再根据交互的信息解决任务冲突。交互的信息包括飞往巡航终点站之前可执行的交互前候选任务列表对应的轨迹序列中轨迹点的序列号、轨迹点的原始坐标、轨迹点转换后的坐标，以及无人机的最大能量储备。例如，无人机 ${ \\boldsymbol { w } _ { j } }$ 需要提供给其他无人机的交互信息包括飞往巡航终点站之前可执行的交互前候选任务列表 $A _ { w _ { j } } ^ { ' }$ ， $A _ { w _ { j } } ^ { ' }$ 对应的轨迹序列 $F _ { A _ { w _ { j } } ^ { * } }$ 的序列号，轨迹序列 $F _ { A _ { w _ { j } } ^ { * } }$ 中每个轨迹点在旧坐标系X-O-Y内的原始坐标，以及轨迹序列 $F _ { A _ { w _ { j } } ^ { * } }$ 中每个轨迹点在新坐标系（204号 $\\boldsymbol { \\mathrm { X } } - \\boldsymbol { \\mathrm { O } } _ { w _ { j } } - \\boldsymbol { \\mathrm { Y } } ^ { * }$ 内转换后的坐标，如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "无人机根据任务对应轨迹点在旧坐标系内的原始坐标来判断任务是否在无人机之间存在冲突。具体地，如果某个任务两个轨迹点在旧坐标系X-O-Y内的原始坐标同时在多个无人机交互信息中出现，则说明该任务在这多个无人机之间存在冲突。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9e99222c665dd32384f655b8f843f8c59874e09a2c140cb474e0ba5e2ecd03c.jpg",
+        "table_caption": [
+            "表1无人机 ${ \\boldsymbol w _ { j } }$ 任务信息",
+            "Tab.1Tasks information ofUAV $w _ { j }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>轨迹序列号</td><td>原始坐标</td><td>转换后的坐标</td><td>最大能量储备</td></tr><tr><td>1</td><td>Oa (x,y)</td><td>Oa (x,y)</td><td></td></tr><tr><td>2</td><td>Oa(x,y)</td><td>O (x,y)</td><td>Ew</td></tr><tr><td>3</td><td>Qa(x,y)</td><td>Qa(x,y)</td><td></td></tr><tr><td>4</td><td>Qa (x,y)</td><td>Qa'(x,y)</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在图5中，无人机 $w _ { j }$ 收到了无人机 $w _ { k }$ 和 $w _ { l }$ 的交互信息后，然后根据三者的交互前候选任务列表 $A _ { w _ { j } } ^ { \\prime } , A _ { w _ { k } } ^ { \\prime } , A _ { w _ { l } } ^ { \\prime }$ 的轨迹序列 $F _ { A _ { n _ { j } } ^ { \\ast } } , F _ { A _ { n _ { k } } ^ { \\ast } } , F _ { A _ { n _ { j } } ^ { \\ast } }$ 的轨迹点在旧坐标系X-O-Y内的原始坐标来获取在无人机 $w _ { j } , w _ { k } , w _ { l }$ 之间发生冲突的任务。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e25e50179fdd53bc81bb1f908cd164063de411a075e3b493a6daac1df1e841a4.jpg",
+        "img_caption": [
+            "图5无人机冲突解决 Fig.5UAV conflict resolution "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当任务冲突发生在多个无人机之间，则需要判断这多个无人机各自交互信息中包含的任务列表所需的能耗是否低于各自的能耗阈值，如果只有一个无人机的判断结果为是，则该无人机直接被选定为该任务的执行者，如果存在两个以上的无人机的判断结果为是，则需要这两个以上的无人机中执行任务冲突解决算法；如果这多个无人机的判断结果都为否，则在这多个无人机之间执行任务冲突解决算法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "例如，无人机 $\\boldsymbol { w } _ { j }$ 在无人机 $w _ { k }$ 和 $w _ { l }$ 之间执行任务冲突解决算法的具体过程如算法2所示。具体地，在算法2中，无人机 $\\boldsymbol { w } _ { j }$ 根据交互信息自行判断并生成冲突任务列表。冲突任务列表中的任务根据其配送点对应的轨迹点在旧坐标系X-O-Y内的Y坐标降序排列。并且在算法2中，无人机 $w _ { j }$ 需要分别计算冲突任务在不同无人机巡航方向上(无人机 $w _ { j } , w _ { k } , w _ { l }$ 的巡航方向上)的能耗效用参数和时延性能参数，并根据这两个参数综合评估出冲突任务由哪架无人机执行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法2无人机共识冲突解决算法",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "输入：任意一架无人机 $\\boldsymbol { w } _ { j }$ 交互前候选任务列表 $A _ { w _ { j } } ^ { ' }$ ，及其轨迹序列 $F _ { A _ { w _ { j } } ^ { * } }$   \n的序列号，轨迹序列 $F _ { A _ { w _ { j } } ^ { * } }$ 中每个轨迹点在旧坐标系X-0-Y内的原始坐  \n标，以及在新坐标系 $\\boldsymbol { \\mathrm { X } } ^ { \\prime } - \\boldsymbol { \\mathrm { O } } _ { w _ { j } } - \\boldsymbol { \\mathrm { Y } } ^ { \\prime }$ 内转换后的坐标  \n输出：任意一架无人机 ${ \\boldsymbol { w } _ { j } }$ 解决冲突后的任务列表 $A _ { w _ { j } } ^ { * }$   \n1.遍历无人机交互信息，当任务两个轨迹点在旧坐标系 $x - 0 - Y$ 内的  \n原始坐标同时在多架无人机的交互信息中，把该任务放到无人机冲突  \n任务列表 $A ^ { o }$ 中  \n2.计算每架无人机完成交互前候选任务列表的能耗，并判断能耗是否  \n低于各自的能耗阈值  \n3.if只有一架无人机判断结果为是  \n4．该无人机直接选定为其所有冲突任务的执行者  \n5.e1seif存在两个及以上的无人机判断结果为是  \n6．继续执行算法解决任务冲突  \n7.elseif判断结果为否  \n8．继续执行算法解决任务冲突  \n9.end  \n10.while（ $A ^ { o } \\neq \\emptyset$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11．根据冲突任务取货点和配送点在轨迹序列中对应的轨迹点的纵坐标进行递增排序，并从轨迹序号最大的任务开始解决冲突",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12．根据式(17)计算冲突任务在不同无人机巡航方向上能耗效用参数和时延性能参数的综合评估值，基于该评估值最小的共识解决冲突",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13．更新任意一架无人机 $\\boldsymbol { w } _ { j }$ 的任务列表 $A _ { w _ { j } } ^ { ' }$ ，及其轨迹序列 $F _ { A _ { n _ { j } } ^ { * } }$ ，以及冲突任务列表 $A ^ { o }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14.end ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15. $A _ { w _ { j } } ^ { * } { = } A _ { w _ { j } } ^ { * }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下面将结合图5对算法2处理冲突任务的过程进行详细说明，例如任务 $a _ { i }$ 为无人机 $\\boldsymbol { w } _ { j }$ 的冲突任务列表中的一个任务，任务 $a _ { i }$ 的取货点和配送点在 $A _ { w _ { j } } ^ { ' } , A _ { w _ { k } } ^ { ' } , A _ { w _ { l } } ^ { ' }$ 的轨迹序列 $F _ { _ { A _ { w _ { j } } } } , F _ { _ { A _ { w _ { k } } } } , F _ { _ { A _ { q } } }$ 中对应的轨迹点分别为 $F _ { { \\cal A } _ { q _ { i } } } ^ { m } , F _ { { \\cal A } _ { q _ { i } } } ^ { n } , F _ { { \\cal A } _ { q _ { i } } } ^ { q }$ 和 $F _ { A _ { v _ { j } } ^ { \\prime } } ^ { m i } , F _ { A _ { v _ { k } } ^ { \\prime } } ^ { n ^ { \\prime } } , F _ { A _ { v _ { l } } ^ { \\prime } } ^ { q ^ { \\prime } }$ ，任务 $a _ { i }$ 在无人机$w _ { j } , w _ { k } , w _ { l }$ 的巡航方向上能耗效用参数和时延性能参数是不同的，算法2将选择能耗效用参数和时延性能参数综合评估值最小的巡航方向对应的无人机作为任务 $a _ { i }$ 的执行者。任务 $a _ { i }$ 在 $A _ { w _ { j } } ^ { * }$ 的轨迹序列 $F _ { A _ { w _ { j } } ^ { * } }$ 中的时延性能参数计算如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { A _ { w _ { j } } ^ { \\prime } , a _ { i } } = 1 - e ^ { - \\frac { t _ { A _ { w _ { j } } ^ { \\prime } , a _ { i } } } { C _ { 3 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\boldsymbol { c } _ { 3 }$ 为常数用来调节延时在区间上的分布， $t _ { \\dot { A _ { w _ { j } } } , a _ { j } }$ 表示任务$a _ { i }$ 在 $A _ { w _ { j } } ^ { * }$ 轨迹序列中时延的估计值，根据文献[22]无人机能耗与时间的关系，计算如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { A _ { w _ { j } } , a _ { i } } = \\frac { E _ { w _ { j } } - E _ { F _ { A _ { w _ { j } } } ^ { m }  Q _ { w _ { j } } ^ { w _ { j } } ( x , y ) } } { f ( V _ { w _ { j } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $E _ { w _ { j } }$ 为无人机 $\\boldsymbol { w } _ { j }$ 的最大能量储备， $E _ { _ { F _ { A _ { i j } } ^ { \\psi }  Q _ { _ { \\psi _ { j } } ^ { \\psi } } ^ { \\psi _ { j } } ( x , y ) } }$ 表示在 $A _ { w _ { j } } ^ { * }$ 的轨迹序列 $F _ { A _ { w _ { j } } ^ { * } }$ 中从轨迹点 $F _ { A _ { w _ { j } } } ^ { m }$ 到达无人机 $w _ { j }$ 航终点站 $Q _ { w _ { j } } ^ { w _ { j } } \\left( x , y \\right)$ 对应的轨迹点无人机的飞行能耗，再根据无人机 $\\boldsymbol { w } _ { j }$ 的最大能量储备 $E _ { w _ { j } }$ 与 $E _ { { \\scriptscriptstyle F } _ { \\scriptscriptstyle { A _ { p } } } ^ { n i } ,  Q _ { \\scriptscriptstyle { W _ { J } } } ^ { * j } ( x , y ) }$ 的差值估算完成任务 $a _ { i }$ 的时延。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假设任务 $a _ { i }$ 取货点和配送点在 $A _ { w _ { j } } ^ { * }$ 的轨迹序列中对应的轨迹点分别为 $F _ { A _ { w _ { j } } } ^ { m } , F _ { A _ { w _ { j } } ^ { * } } ^ { m ^ { * } }$ ，与任务筛选阶段能耗效用参数的评估方法相同，任务 $a _ { i }$ 在 $A _ { w _ { j } } ^ { * }$ 的轨迹序列中的能耗效用参数的评估值，可以通过 $a _ { i }$ 的取货点和配送点在 $A _ { w _ { j } } ^ { * }$ 的轨迹序列中对应的轨迹点 $F _ { A _ { w _ { j } } ^ { * } } ^ { m } , F _ { A _ { w _ { j } } ^ { * } } ^ { m ^ { * } }$ 的能耗效用参数的评估值计算出，其中轨迹点$F _ { A _ { w _ { j } } } ^ { m }$ 的能耗效用参数计算如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { F _ { A _ { w _ { j } } } ^ { m } } = 1 - e ^ { - \\left( \\frac { E _ { F _ { A _ { w _ { j } } } ^ { m - 1 , m } } + E _ { \\check { A } _ { w _ { j } } ^ { m , m + 1 } } - E _ { F _ { A _ { w _ { j } } } ^ { m - 1 , m + 1 } } } { C _ { 2 } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同理，轨迹点 $F _ { A _ { n _ { j } } } ^ { m ^ { * } }$ 对应的能耗效用参数为 $E _ { _ { F _ { _ { \\lambda _ { j } } } ^ { m } } }$ ，任务 $a _ { i }$ 在$A _ { w _ { j } } ^ { * }$ 的轨迹序列 $F _ { A _ { w _ { j } } ^ { * } }$ 中(在无人机 $\\boldsymbol { w } _ { j }$ 的巡航方向上)的能耗效用参数的评估值计算如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { _ { A _ { w _ { j } } ^ { \\prime } } , a _ { i } } = \\frac { E _ { _ { F _ { A _ { w _ { j } } } ^ { m } } } + E _ { _ { F _ { A _ { w _ { j } } ^ { m } } ^ { m } } } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "任务 $a _ { i }$ 在 $A _ { w _ { j } } ^ { * } , A _ { w _ { k } } ^ { * } , A _ { w _ { l } } ^ { * }$ 的轨迹序列 $F _ { A _ { w _ { j } } ^ { * } } , F _ { A _ { w _ { k } } ^ { * } } , F _ { A _ { q _ { i } } ^ { * } }$ 中能耗效用参数和时延性能参数的综合评估值计算如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { A _ { n _ { j } } , a _ { i } } = \\mu \\times T _ { A _ { n _ { j } } ^ { * } , a _ { i } } + ( 1 - \\mu ) \\times E _ { A _ { n _ { j } } ^ { * } , a _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { _ { A _ { u _ { k } } ^ { \\prime } , a _ { i } } } = \\mu \\times T _ { _ { A _ { u _ { k } } ^ { \\prime } , a _ { i } } } + ( 1 - \\mu ) \\times E _ { _ { A _ { u _ { k } } ^ { \\prime } , a _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { { A _ { n _ { l } } } , { a _ { i } } } = \\mu { \\times } T _ { { A _ { n _ { l } } } , { a _ { i } } } + ( 1 - \\mu ) { \\times } E _ { { A _ { n _ { l } } } , { a _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "无人机 $\\boldsymbol { w } _ { j }$ 根据任务 $a _ { i }$ 在无人机 $w _ { j } , w _ { k } , w _ { l }$ 的巡航方向上能耗效用参数和时延性能参数的综合评估值最小的共识解决冲突问题，选择评估值最小的无人机执行冲突任务 $a _ { i }$ 。无人机$\\boldsymbol { w } _ { j }$ 每解决一个冲突任务就需要更新无人机 $w _ { j } , w _ { k } , w _ { l }$ 的任务列表 $A _ { w _ { j } } ^ { * } , A _ { w _ { k } } ^ { * } , A _ { w _ { l } } ^ { * }$ 及其对应轨迹序列 $F _ { A _ { n _ { j } } ^ { * } } , F _ { A _ { n _ { k } } ^ { * } } , F _ { A _ { n _ { j } } ^ { * } }$ ，后续冲突任务列表中冲突任务的时延性能参数和能耗效用参数计算都是基于更新后的任务列表和轨迹序列进行的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "每个无人机在解决完所有冲突后，还需要判断解决完所有冲突后的任务列表对应的轨迹序列所需要的能耗是否满足自身的能耗约束，如果判断结果为是，则需要添加新的任务。在添加任务的过程中既要满足能耗约束，又要避免新的任务",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冲突。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文继续以无人机 $w _ { j }$ 为例对任务添加过程进行说明，详细过程如算法3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "算法3无人机冲突解决后的任务添加算法输入：任意无人机 ${ \\boldsymbol { w } _ { j } }$ 解决冲突后的任务列表 $A _ { w _ { j } } ^ { * }$ ，无折返任务列表 $A _ { w _ { j } }$ 输出：无人机每轮巡航最终可执行的无冲突任务执行列表 $A _ { w _ { j } } ^ { \\mathfrak { R } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. $A _ { w _ { j } } ^ { \\mathfrak { R } } { = } A _ { w _ { j } } ^ { * }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.if $E _ { w _ { j } } - E _ { A _ { w _ { j } } ^ { * } } \\leq \\varepsilon$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3．无须添加任务，返回无冲突任务列表 $A _ { w _ { j } } ^ { \\mathfrak { R } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.else ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.根据式(21)计算任务能耗效用参数和时间紧迫性参数综合评估值 的阈值 $\\Theta _ { A _ { w _ { j } } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6．if 存在 $a _ { i } , a _ { i } \\in A _ { w _ { j } }$ &&a ${ \\bf \\Phi } _ { i } \\notin A _ { w _ { j } } ^ { * }$ 的能耗效用参数和时间紧迫性参数的评估值 $P _ { A _ { w _ { j } } , a _ { i } } < \\Theta _ { A _ { w _ { j } } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7．if添加任务 $a _ { i }$ 到无人机 ${ w _ { j } }$ 的任务列表 $A _ { w _ { j } } ^ { * }$ 后的总能量$E _ { { \\scriptscriptstyle A _ { \\mathrm { w } _ { j } } } } \\leq E _ { w _ { j } }$ （204号",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8. 选择能耗效用参数和时延性能参数综合评估值最小的任务 $a _ { i }$ 添加到无人机 ${ w _ { j } }$ 的任务列表 $A _ { w _ { j } } ^ { \\mathfrak { R } }$ 中",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9. end ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10. end ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "11.end ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在算法3中，无人机 $w _ { j }$ 从无折返任务列表 $A _ { w _ { j } }$ 中选择能耗效用参数和时间紧迫性参数的综合的评估值小于阈值 $\\Theta _ { A _ { w _ { j } } }$ 的任务进行添加，约束如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { A _ { w _ { j } } , a _ { z } } < \\Theta _ { A _ { w _ { j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $P _ { A _ { w _ { j } } , a _ { z } }$ 表示任务 $a _ { z }$ 在 $A _ { w _ { j } }$ 中能耗效用参数和时间紧迫性参数的综合评估值，与任务筛选阶段任务的综合评估值计算方法相同， $\\Theta _ { A _ { w _ { j } } }$ 是由在 $A _ { w _ { j } }$ 中最后一轮迭代筛选任务的阈值与倒数第二轮迭代的阈值的平均值，计算如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Theta _ { A _ { w _ { j } } } = \\frac { \\Theta _ { A _ { w _ { j } } } ^ { n - 1 } + \\Theta _ { A _ { w _ { j } } } ^ { n } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\Theta _ { A _ { w _ { j } } } ^ { n }$ 表示任务筛选阶段第 $n$ 迭代的阈值，即最后一轮迭代的阈值，它与第 $^ { n - 1 }$ 轮迭代的阈值的平均值，为新添加任务在 $A _ { w _ { j } }$ 中能耗效用参数和时间紧迫性参数综合评估值的阈值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "若存在多个符合能耗效用参数和时间紧迫性参数约束的任务，则需选择能耗效用参数和时延性能参数综合评估值在$A _ { w _ { j } } ^ { * }$ 中最小的任务(为了避免产生新的任务冲突)，与冲突解决阶段任务的综合评估值计算方法相同，此外，还需要判断添加该任务到 $A _ { w _ { j } } ^ { * }$ 后无人机 $\\boldsymbol { w } _ { j }$ 的总能耗是否小于其最大能量储备。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { { \\scriptscriptstyle A _ { w _ { j } } ^ { * } } } \\leq E _ { w _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "若能耗小于无人机的最大能量储备，则可以添加该任务到无人机 $w _ { j }$ 无冲突任务列表 $A _ { w _ { j } } ^ { \\Re }$ 中，直到不再满足无人机 $\\boldsymbol { w } _ { j }$ 能耗的约束条件，则停止添加任务。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 实验评估 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1参数设置 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了对本文方法的性能进行评估，本文在matlab中对相关算法进行实验仿真，相关参数如表2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了评估本文方法，本文实验将其与现有方法迭代启发式随机事件调度算法[8]和带时间约束的分布式任务调度算法[21]进行平均能耗和平均时延的性能比较(其中文献[8]的算法是典型的集中式方法并在后文称为对比算法1，文献[21]的算法是典型的分布式方法并在后文称为对比算法2，平均能耗指的是单位距离任务的完成能耗，可通过总能耗除以任务的总距离计算得出，平均时延指的是单位距离任务的完成时延，可通过总时延除以任务的总距离计算得出，任务的总距离表示所有任务取货点到配送点的距离之和)。其中，为了分析本文定义的能耗效用参数和时延参数对本文算法的影响，本文实验对本文算法的参数做了三种不同设置，可称为本文算法的三种变体：只考虑能耗效用参数(在后文称为变体1)、只考虑时延参数(在后文称为变体2)，以及同时考虑能耗效用参数和时延参数(在后文称为变体3)。另外为了评估本文算法在不同应用场景中的性能，本文实验设置三种可选场景，如图6，这三种场景分别为巡航方向夹角 $9 0 ^ { \\circ }$ 的场景1，图6(a)所示，巡航方向夹角 $1 2 0 ^ { \\circ }$ 的场景2，图6(b)所示，巡航方向夹角 $1 8 0 ^ { \\circ }$ 的场景3，图6(c)所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c4d60db55a071ab865f2bfc37c36233c6acc3c71f2a45f3e67c74678a789312.jpg",
+        "table_caption": [
+            "表2仿真参数Tab.2Simulation parameters"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>设置</td></tr><tr><td>每对充电站之间单个巡航方向的无人机数m</td><td>5</td></tr><tr><td>充电站数</td><td>[3,5]</td></tr><tr><td>任务数n</td><td>[100,1000]</td></tr><tr><td>无人机巡航起点站和终点站间的距离</td><td>25</td></tr><tr><td>任务最晚完成时间</td><td>4</td></tr><tr><td>每架无人机速度</td><td>65</td></tr><tr><td>每架无人机最大能量储备</td><td>65</td></tr><tr><td>每架无人机的飞行时间间隔△T</td><td>0.2</td></tr><tr><td>C,C,C3</td><td>20</td></tr><tr><td>£</td><td>3</td></tr><tr><td>μ</td><td>0.5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecfcfb37416b6a5b02f27694d1188c094e8f7ce7ecbdd91a1e6c50df967ba96c.jpg",
+        "img_caption": [
+            "图6三种场景下无人机任务分配",
+            "Fig.6UAV task allocation under three scenarios "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2不同算法的性能比较",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1不同算法的任务平均能耗",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在图6(a)的场景下，本文算法的三种变体与两种对比算法的任务平均能耗情况如图7所示。随着任务数增加本文算法的三种变体和对比算法任务平均能耗先上升后趋于稳定，上升和稳定的任务区间较为相近，且本文算法的三种变体在平均能耗的性能上均明显优于对比算法1和对比算法2。这是因为对比算法1和对比算法2都未考虑任务与无人机巡航方向的相关性对能耗的影响，而本文算法根据定义的能耗效用参数等计算任务与无人机巡航方向的相关性，避免无人机执行折返任务和能耗效用参数较大的任务。具体地，对比算法1无人机由于需要不断返回调度中心补充能量，增加额外的任务接收成本，因此对比算法1的任务平均能耗高于本文算法的三种变体，而对比算法2由于采用局部的任务成本评估指标解决任务冲突，未考虑任务相互依赖关系对能耗的影响，也将导致任务的能耗成本增加，因此对比算法2的任务平均能耗高于本文算法的三种变体。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于本文算法的三种变体，仅考虑能耗效用参数时(本文算法变体1)平均能耗最小，同时考虑能耗效用参数和时延参数时(本文算法变体3)平均能耗较大，仅考虑时延参数时(本文算法变体2)平均能耗最大，这是因为根据定义的能耗效用参数分配任务无人机接收任务的能耗成本更小。当任务数大于700时平均能耗趋于稳定，这是因为当任务足够密集且均匀时，无人机接收任务的成本增加不明显，任务数小于700时平均能耗不断增加，这是因为初始时刻任务稀疏，无人机优先完成能耗效用参数较小的任务，无人机接收任务的能耗成本随着任务数的增加不断变大。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a1efaf9f2bfcc12145f2cf2ce1cd76b579317141fd40e983f12c712f1915c5e.jpg",
+        "img_caption": [
+            "图7不同算法任务平均能耗"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在图6(a)的场景下，本文算法的三种变体与两种对比算法的任务平均时延情况如图8所示。随着任务数增加，本文算法的三种变体和对比算法任务平均时延先不变后不断增加，不变和增加的任务区间不超过100，且本文算法的三种变体在平均时延的性能上均明显优于对比算法1，较优于对比算法2。这是因为对比算法1和对比算法2都未考虑任务与无人机巡航方向的相关性对时延的影响，而本文算法根据定义的时间紧迫性参数和时延性能参数等计算任务与无人机巡航方向的相关性，避免无人机执行折返任务和时间紧迫性参数以及时延性能参数较大的任务。具体地，对比算法1无人机需要不断返回调度中心补充能量，增加额外的时间成本，因此对比算法1的任务平均时延明显高于本文算法的三种变体，而对比算法2在任务筛选阶段通过最小化等待时间生成预分配任务序列，减少了任务的完成时延，但依然忽视了任务相互依赖关系对时延的影响，因此对比算法2的任务平均时延较高于本文算法的三种变体。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对于本文算法的三种变体，仅考虑时延参数时(本文算法变体2)平均时延最小，同时考虑能耗效用参数和时延参数时(本文算法变体3)平均时延较大，仅考虑能耗效用参数时(本文算法变体1)平均时延最大，这是因为根据定义的时延参数分配任务无人机接收任务的时间成本更小。当任务数小于500时平均时延为0，这是因为任务数较少时无人机有足够能量完成任务，当无人机能耗达到其最大能量储备时，剩余任务可能由后续时间间隔内的无人机或者返程的无人机执行，当完成时间超过任务规定的最晚完成时间时任务发生延迟，并且随着任务数的增加平均时延不断增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d1b1c30c1e2158e15099d17a295e21581756e21d974538e322d9366fe54ece6.jpg",
+        "img_caption": [
+            "图8不同算法任务平均时延",
+            "Fig.8Average task delay of different algorithms "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3不同场景下的性能比较",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.1不同场景下的任务平均能耗",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文算法在三种场景下的任务平均能耗的情况如图9所示。随着任务数的增加本文算法三种场景下的平均能耗都是先不断增加后趋于稳定。在任务数较少时三种场景下任务平均能耗相近，随着任务数的增加三种场景下任务的平均能耗都不断增加后趋于稳定。这是因为本文算法定义的能耗效用参数在不同无人机的巡航方向上不同，三种场景下无人机的数量和巡航方向都不相同，无人机巡航方向的夹角越小，无人机数量越多，无人机执行任务的能耗越小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在场景1中，根据任务的能耗效用参数进行任务筛选时，场景1不同充电站点的无人机间的夹角较小且密集，在筛选任务时，任务的能耗效用参数较小，在解决无人机间的冲突任务时，冲突任务的能耗效用参数在不同无人间的最值更小，因此场景1任务平均能耗最小，场景2较大，场景3最大。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/462ff6306e208e155df9afe906ad71ee2ba5757d134d031d801dba74567e8dbf.jpg",
+        "img_caption": [
+            "Fig.7Average task energy consumption ofdifferent algorithms 3.2.2不同算法的任务平均时延 ",
+            "图9三种场景下的任务平均能耗"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.2不同场景下的任务平均时延",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文算法在三种场景下任务平均时延的情况如图10所示。随着任务数的增加，本文算法三种场景下的平均时延都是先不变后不断增加。任务数较少时三种场景下任务的平均时延都为0，随着任务数的增加，三种场景下任务的平均时延不断增加。这是因为本文算法定义的时间紧迫性参数和时延性能参数评估值在不同无人机的巡航方向上不同，三种场景下无人机的数量和巡航方向都不相同，无人机间巡航方向的夹角越小，无人机数量越多，无人机执行任务的时间越短。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在场景1中，根据任务的时间紧迫性参数和时延性能参数评估值进行任务筛选时，由于场景1中无人机间的夹角较小且密集，筛选出的任务完成时间较小，在解决无人机间的冲突任务时，冲突任务的时延性能参数评估值在不同无人间的最值更小，因此场景1平均时延最小，场景2平均时延较大，场景3平均时延最大。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d10ad9a85bc92951a22533aa4dd3cd68706955779e9e6be1cd697f49fac8dfa.jpg",
+        "img_caption": [
+            "Fig.9Average task energy consumptionin three scenarios ",
+            "图10三种场景下的任务平均时延Fig.10Average task delay in three scenarios"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文提出了基于任务与巡航方向相关性分析的无人机任务分配方法。与现有方法不同的是，本文考虑了任务与无人机巡航方向之间的相关性对无人机任务能耗和时延的影响，在任务筛选阶段根据任务方向与无人机巡航方向夹角的余弦值筛选任务，从而避免无人机折返，在任务冲突解决阶段根据任务在不同无人机巡航方向上能耗效用参数和时延参数的综合评估值不同从而解决任务冲突。实验证明，本文方法可获得更低的任务平均能耗和平均时延，在后续，本文作者将关注和研究无人机的异构性对任务分配的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Song BD,Park K.Persistent UAV delivery logistics: MILP formulation and efficient heuristic [J].Computers & Industrial Engineering,2018, 120: 418-428.   \n[2]Fu Zhangjie,Mao Yuanhang,He Daojing,et al. Secure multi-UAV collaborative task allocation [J].IEEE Access,2019,7: 35579-35587.   \n[3]Jiao Ziqiang,Yao Peiyang，Zhang Jieyong，et al.MAV/UAV task coalition phased-formation method [J]. Journal of Systems Engineering and Electronics,2019,30 (02):184-196.   \n[4]Wang Jian, Zhang Qianyin,Feng Gang,et al. Clustering strategy of UAV network based on deep Q-learning [C]// IEEE the 2Oth International Conference on Communication Technology (ICCT） .Piscataway,NJ: IEEE Press,2020:1684-1689.   \n[5]Gómez Lagos J,Candia Véjar A,Encina F.A new truck-drone routing problem for parcel delivery services aided by parking lots [J].IEEE Access,2021,9:11091-11108.   \n[6]Huang Haiping,Hu Chengxi, Zhu Jie,et al. Stochastic task scheduling in UAV-based intelligent on-demand meal delivery system [J].IEEE Trans on Intelligent Transportation Systems,2021:1-15.   \n[7]Shao Jun, Cheng Jin, Xia Boyuan,et al.Anovel service system for longdistance drone delivery using the\"Ant Colony+A\\*\"algorithm [J].IEEE Systems Journal,2021,15 (3): 3348-3359.   \n[8]Liu Zhaonian,Huang Gaofei, Zhong Qihong,et al. UAV-aided vehicular communication design with vehicle trajectory's prediction [J].IEEE Wireless Communications Letters,2021,10 (6):1212-1216.   \n[9]Wu Xueli,Yin Yanan,Xu Lei,et al.Multi-UAV task allocation based on improved genetic algorithm [J].IEEE Access,2021,9:100369-100379.   \n[10]王冬冬，何胜学，路扬．考虑基站选址的UAV 交通巡视路径超级时 空网络模型[J].计算机应 用研究,2019,36(9):4.(Wang Dongdong, He Shengxue,Lu Yang.UAV trafic patrolling path planning superspace-time network model considering base station locationproblem [J]. Application Research of Computer,2019,36 (9):4.)   \n[11] Luan Heyu,Xu Yitao,Liu Dianxiong,et al.Energy efficient task cooperation for multi-UAV networks:a coalition formation game approach [J].IEEE Access,2020,8:149372-149384.   \n[12] Messous M,Senouci S.A game theory based efficient computation offloading in an UAV network [J].IEEE Trans on Vehicular Technology, 2019,68 (5): 4964-4974.   \n[13] Zhu Shichao,Gui Lin,Cheng Nan,et al. Joint design of access point selection and path planning for UAV-assisted cellular networks [J].IEEE Internet of Things Journal,2020,7(1):220-233.   \n[14] Duan Xiaojun,Liu Huiying,Tang Hong,et al.A novel hybrid auction algorithm for multi-UAVs dynamic task assignment [J].IEEE Access, 2020,8:86207-86222.   \n[15] Liang Jin.Research on distributed task allocation algorithm for unmanned aerial vehicles based on consensus theory [C]// Chinese Control and Decision Conference,2016: 4892-4897.   \n[16] Lee H, Jung S,Kim J.Distributed and autonomous aerial data collection in smart city surveillance applications [C]/ IEEE VTS the 17th Asia Pacific Wireless Communications Symposium (APWCS),2021:1-3.   \n[17] Turner J,Meng Q,Schaefer G,et al. Fast consensus for fully distributed multi-agent task allocation [C]// Proc of the 33rd Annual ACM Symposium,2018: 832-839.   \n[18] Zitouni F,Harous S,Maamri R.A distributed approach to the multi-robot task allocation problem using the consensus-based bundle algorithm and ant colony system [J]. IEEE Access,2020,8:27479-27494.   \n[19] Chen Xinye,Zhang Ping,Li fang,et al.A cluster first strategy for distributed multi-robot task allocation problem with time constraints [C]// 2018 WRC Symposium on Advanced Robotics and Automation (WRC SARA),2018:102-107.   \n[20] Zhao Wanqing,Meng Qinggang,Chung P.A heuristic distributed task allocation method for multivehicle multitask problems and its application to search and rescue scenario [J].IEEE Transactions on Cybernetics, 2016,46 (4): 902-915.   \n[21] Turner J,Meng Q, Schaefer G,et al. Distributed task rescheduling with time constraints for the optimization of total task allocations in a multirobot system [J].IEEE Trans on Cybernetics,2018,48 (9): 2583- 2597.   \n[22]东方，吴媚，朱文捷，等．物联网环境下面向能耗优化的无人机飞行 规划[J].东南大学学报:2020,50(3):8.(Dong Fang,Wu Mei, Zhu Wenjie,et al.Energy efficient flightplang for UAVin IOTenvironment [J].Journal of Southeast University,2020,50 (3): 8.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

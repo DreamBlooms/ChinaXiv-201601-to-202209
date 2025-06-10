@@ -1,0 +1,499 @@
+[
+    {
+        "type": "text",
+        "text": "大口黑鲈对磷的最适需求量以及高水溶性磷酸一二氢钙的相对生物学利用率研究时博 $^ 1$ 郁欢欢」　郑银桦 $^ 1$ 吴秀峰」陈沛 $^ 1$ 梁旭方薛敏 1,2\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国农业科学院饲料研究所，国家水产饲料安全评价基地，北京100081；2.农业部饲料生物技术重点开放实验室，北京100081；3.华中农业大学水产学院，武汉",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "430070) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验在低磷基础饲料中添加不同水平的磷酸二氢钙(MCP)和高水溶性磷酸一二氢钙(MDCP)，通过研究其对大口黑鲈生长性能、氮和磷的消化率与沉积率以及全鱼和椎骨磷含量与全鱼粗灰分含量的影响，确定大口黑鲈对磷的最适需求量以及高水溶性MDCP 相对于MCP的生物学利用率。首先配制低磷基础饲料，然后在低磷基础饲料基础上分别添加8.86、11.08、13.29、15.51 g/kg MCP，以及 9.34、11.67、14.01、 $1 6 . 3 4 ~ \\mathrm { g / k g }$ 高水溶性MDCP，使得2种磷酸盐所提供的磷均分别为 $2 . 0 , \\ 2 . 5 , \\ 3 . 0 , \\ 3 . 5 \\mathrm { g / k g }$ ，9 种试验饲料分别命名为P0、P2、P2.5、P3、P3.5、DP2、DP2.5、DP3、DP3.5。每种饲料饲喂4个重复的初始体重为（ $\\cdot 8 . 5 { \\pm } 0 . 1 \\$ ）g 的大口黑鲈，每个重复40尾鱼，养殖周期为8周。结果显示：饲料中添加不同水平的 MCP和高水溶性MDCP均显著提高了大口黑鲈的增重率、磷消化率与沉积率和全鱼粗灰分含量$( P { < } 0 . 0 5 )$ ，且2种磷源对以上指标的影响差异不显著（ $( P { > } 0 . 0 5 )$ 。随MCP 添加水平的升高，大口黑鲈的增重率和全鱼粗灰分含量均呈先上升后稳定的趋势，磷沉积率有先上升后降低的趋势，均以P0 组最低。随高水溶性MDCP 添加水平的升高，大口黑鲈的增重率和磷消化率呈现持续上升的趋势，磷沉积率有先上升后降低的趋势，以P0组磷沉积率最低，DP3 组磷沉积率最高。分别以增重率和磷沉积率为指标，通过斜率比法计算得出高水溶性MDCP 相对于MCP的生物学利用率分别为 $100 \\%$ 和 $1 1 8 \\%$ 。以MCP为磷源，饲料可消化磷含量为 $0 . 5 1 \\%$ 时，增重率和磷沉积率达到最高。以高水溶性MDCP为磷源，饲料可消化磷含量为 $0 . 5 2 \\%$ 时，磷沉积率达到最高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大口黑鲈；磷酸二氢钙；高水溶性磷酸一二钙；磷需求量；生物学利用率中图分类号：S963 文献标识码：A文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大口黑鲈（Micropterus salmoides），又名加州鲈，隶属鲈形目（Perciforme），太阳鱼科（Ceutrarchidac），黑鲈属（Micropterus）。大口黑鲈为肉食性温水鱼类，由于其具有生长迅速、抗病力强、适温性广、肉质鲜美等特点，现已推广全国各地，成为我国淡水养殖业中的一类重要品种[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "磷作为一种必需的矿物元素，在动物营养中发挥着重要作用。磷是骨骼和鳞片的重要组成成分，也是ATP 和磷酸肌酸的组成成分，参与体内能量代谢；磷以磷脂的方式促进脂类物质和脂溶性维生素的吸收，同时以磷酸根的形式参与糖、脂类和蛋白质等的代谢；血液中的磷酸盐同时还是动物体内重要的缓冲物质，参与维持体内酸碱平衡[2]。磷虽然在动物体内扮演着重要的角色，但是也是造成水体富营养化的主要元素之一。目前，在水产养殖业中，不同形式的磷酸盐效价差异较大，过量或者未被有效利用的磷元素被排入到水环境中，直接引起水体的富营养化，导致藻类的大量繁殖和水体缺氧，杀死水生生物，使水体不适合人类使用[3-4]。因此，研究鱼类对磷的最适需求量或寻找高效的磷酸盐，不仅可以满足鱼类生长和生理健康的需求，同时可以在一定程度上减少磷对水体的污染。本试验通过在低磷基础饲料中分别梯度添加磷酸二氢钙（monocalciumphosphate，MCP）和高水溶性磷酸一二钙（monodicalcium phosphate with high solubility，MDCP）2 种磷酸盐，以生长性能、氮和磷的消化率与沉积率、全鱼和椎骨磷含量与全鱼粗灰分含量为依据，研究大口黑鲈对饲料中磷的最适需求量以及高水溶性MDCP 相对于MCP 的生物学利用率，为大口黑鲈饲料的配制提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验鱼 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验用水产靶动物为大口黑鲈，于2016年5月购自佛山市三水白金水产种苗有限公司。试验正式开始前，试验鱼在养殖系统中暂养4周，暂养期间投喂暂养饲料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验饲料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MCP为分析纯级别，无色薄片状，钙含量为 $1 5 . 1 \\%$ ，磷含量为 $2 2 . 6 \\%$ ， $2 0 \\mathrm { ~ \\textdegree C }$ 下水中溶解度为 $1 . 9 9 \\ \\mathrm { g }$ ，购自国药集团化学试剂有限公司。高水溶性MDCP采用直接法生产，浓磷酸与碳酸钙发生化学反应，同时生成磷酸氢钙和MCP 的结晶体混合物，受试物高水溶性MDCP钙含量为 $14 . 7 \\%$ ，磷含量为 $2 1 . 4 \\%$ ， $2 0 \\mathrm { ~ \\textdegree C }$ 下水中溶解度为 $0 . 3 7 \\ \\mathrm { g }$ ，由云天化股份有限公司提供。MCP 和高水溶性MDCP水溶性磷含量（占总磷的百分比)分别为 $9 2 . 0 \\%$ 和 $84 . 5 \\%$ 根据HG/T3776-2005规定的饲料级MDCP水溶性磷含量 $240 \\%$ ，本试验所用的高水溶性MDCP水溶性磷含量远高于国家标准规定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在大口黑鲈低磷基础饲料（P0）配方中不添加外源磷，经检测其本底磷含量为 $6 . 6 \\ : \\mathrm { g / k g }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在低磷基础饲料配方基础上，分别添加8.86、11.08、13.29、15.51g/kg MCP，以及9.34、11.67、14.01、 $1 6 . 3 4 ~ \\mathrm { g / k g }$ 高水溶性 MDCP，使得2种磷源所提供的磷均分别为2.0、2.5、3.0、$3 . 5 \\ : \\mathrm { g / k g }$ 。低磷基础饲料命名为P0，添加MCP的4种试验饲料依次命名为P2、P2.5、P3、P3.5，添加高水溶性 MDCP 的4 种试验饲料依次命名为DP2、DP2.5、DP3、DP3.5。另外，在饲料中添加 $0 . 1 \\%$ 的三氧化二钇（ $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ ）作为测定养分消化率的指示剂。物料经超微粉碎，均匀混合后，使用双螺杆挤压膨化机（洋工机械TSE65）挤压膨化，制成颗粒饲料，自然晾干后于-20℃储存备用。试验饲料组成及营养水平见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲料组成及营养水平",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/59c89984ee5e376b3080981d8e28571bf57e9d51571fb71ea3ec43b135e99d11.jpg",
+        "table_caption": [
+            "Table 1 Composition and nutrient levels of experimental diets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td colspan=\"9\">饲料Diets</td></tr><tr><td></td><td>P0</td><td>P2</td><td>P2.5</td><td>P3</td><td>P3.5</td><td>DP2</td><td>DP2.5</td><td>DP3</td><td>DP3.5</td></tr><tr><td colspan=\"10\">原料 Ingredients</td></tr><tr><td>鱼粉 Fish meal</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td></tr><tr><td>大豆浓缩蛋白soybean protein concenrate</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td><td>20.0</td></tr><tr><td>豆粕 Soybean meal</td><td>10.0</td><td>10.0</td><td>10.0</td><td>10.0</td><td>10.0</td><td>10.0</td><td>10.0</td><td>10.0</td><td>10.0</td></tr><tr><td>棉籽浓缩蛋白 Cottosed protein concentrate </td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td></tr><tr><td>谷腕粉 Wheat gluten meal</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>磷虾粉 Krill meal</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>水解羽毛粉 Hydrolyzed feather meal</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>鱼油Fish oil</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td></tr><tr><td>大豆油 Soybean oil</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>预混料 Premix1)</td><td>1.63</td><td>1.63</td><td>1.63</td><td>1.63</td><td>1.63</td><td>1.63</td><td>1.63</td><td>1.63</td><td>1.63</td></tr><tr><td>面粉 Wheat flour</td><td>15.0</td><td>15.0</td><td>15.0</td><td>15.0</td><td>15.0</td><td>15.0</td><td>15.0</td><td>15.0</td><td>15.0</td></tr><tr><td>微晶纤维素 Microcrystalline cellulose</td><td>9.37</td><td>8.48</td><td>8.26</td><td>8.04</td><td>7.82</td><td>8.44</td><td>8.20</td><td>7.97</td><td>7.74</td></tr><tr><td>酵母提取物 Yeast extract</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>磷酸二氢钙 MCP</td><td></td><td>0.89</td><td>1.11</td><td>1.33</td><td>1.55</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">高水溶性磷酸一二钙High soluble MDCP</td><td></td><td></td><td></td><td></td><td>0.93</td><td>1.17</td><td></td><td>1.40</td><td>1.63</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td></td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td colspan=\"9\">营养水平（干物质基础）Nutrient levels（DMbasis）</td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>46.7</td><td>47.1</td><td>47.3</td><td>47.3</td><td>47.3</td><td></td><td>46.8</td><td>47.3</td><td>46.8</td><td>47.2</td></tr><tr><td>粗脂肪 Crude lipid</td><td>12.1</td><td>11.4</td><td>12.5</td><td></td><td>12.2</td><td>11.6</td><td>11.4</td><td>12.1</td><td>12.1</td><td>12.4</td></tr><tr><td>粗灰分 Crude ash</td><td>6.84</td><td>7.79</td><td>7.79</td><td></td><td>8.08</td><td>8.24</td><td>7.74</td><td>7.51</td><td>7.98</td><td>7.95</td></tr><tr><td>总能 Gross energy/(MJ/kg)</td><td>20.1</td><td>19.9</td><td>20.1</td><td></td><td>20.0</td><td>20.5</td><td>20.0</td><td>20.1</td><td>20.1</td><td>20.1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/494a120a1f49c95f9181d00e3c76b7f87053477b8c41e5635cea59bab125f236.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>0.66</td><td>0.91</td><td>0.94</td><td>0.98</td><td>1.04</td><td>0.90</td><td>0.94</td><td>0.99</td><td>1.05</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲料提供 Vitamin premix provided the following per kg of diets:V $^ { \\prime } \\mathrm { A } 2 0 \\mathrm { m g } , \\mathrm { V B } _ { 1 } 1 0 \\mathrm { m g } , \\mathrm { V B } _ { 2 } 1 5$ mg， $\\mathrm { V B } _ { 6 } 1 5 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 8 \\mathrm { m g }$ ，VE $4 0 0 \\mathrm { { m g } }$ ， $\\mathrm { V K } _ { 3 } 2 0 \\mathrm { m g }$ ， $\\mathrm { V D } _ { 3 } ~ 1 0 ~ \\mathrm { m g }$ ，烟酸胺niacinaminde $1 0 0 ~ \\mathrm { { m g } }$ ，维生素C 磷酸酯钙 VC phosphate calcium（ $3 5 \\%$ ） $1 0 0 0 \\mathrm { m g }$ ，肌醇inositol $2 0 0 ~ \\mathrm { { m g } }$ ，泛酸钙 calcium pantothenate 40mg，生物素 biotin $2 \\ : \\mathrm { m g }$ ，叶酸 folic acid $1 0 \\mathrm { m g }$ ，玉米蛋白粉 corn gluten meal $1 5 0 ~ \\mathrm { m g }$ ， $\\mathrm { C u S O 4 ^ { \\cdot } S H _ { 2 } O }$ 10 mg,$\\mathrm { F e S O _ { 4 } { \\cdot } H _ { 2 } O \\ 3 0 0 \\ m g }$ ， $Z _ { \\mathrm { n S O } _ { 4 } \\cdot \\mathrm { H } _ { 2 } \\mathrm { O } ~ 2 0 0 ~ \\mathrm { m g } }$ ， $\\mathrm { M n S O _ { 4 } { \\cdot } H _ { 2 } O \\ 1 0 0 \\ m g }$ ， $\\mathrm { K I O } _ { 3 } 8 0 \\mathrm { m g }$ ， $\\mathrm { N a _ { 2 } S e O _ { 3 } 1 0 \\ m g }$ ， ${ \\mathrm { C o C l } } _ { 2 } { \\cdot } 6 { \\mathrm { H } } _ { 2 } \\mathrm { O }$ 5mg， $\\mathrm { N a C l 1 0 0 m g }$ ，沸石粉 zeolite $6 9 5 \\mathrm { m g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3分组及饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验在国家水产饲料安全评价基地（北京，南口）室内循环流水养殖系统中进行。随机挑选体质健康、个体均匀的大口黑鲈[平均初始体重为 $\\phantom { 0 } { 8 . 5 3 \\pm 0 . 0 1 }$ ）g]，分配到容积为 $0 . 2 6 \\mathrm { m } ^ { 3 }$ 的圆锥形养殖桶中。本试验设计9个组，分别投喂1种试验饲料，每组包含4个（桶）重复，每桶养殖40尾鱼，试验周期8周。每天表观饱食投喂2次，投喂时间分别为08:00和16:00。定期检测水质，水质条件保持在溶氧（DO)浓度 ${ > } 7 . 0 \\ \\mathrm { m g / L }$ ，总氨氮（ $\\mathrm { \\cdot N H _ { 4 } ^ { + } { - } N } \\rangle$ 浓度 ${ < } 0 . 3 ~ \\mathrm { m g / L }$ $\\mathrm { p H } { = } 7 . 5 { \\sim } 8 . 5$ ，水温（ $2 3 { \\pm } 1$ ）℃。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验进行到第2周时，开始每天在大口黑鲈的排粪高峰期（通过前1周的养殖过程，观察排粪高峰所在时间段）进行粪便收集，用虹吸法收集包膜完整成形粪便用于饲料中磷和氮消化率的测定，粪便样品保存在 $- 2 0 \\mathrm { ~ \\textdegree ~ }$ 条件下冻干待测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8周生长试验结束后，禁食 $2 4 \\mathrm { h }$ ，然后分别对各桶鱼称重并统计摄食量、存活数，用于计算生长指标。每桶随机取4尾鱼，测量体长、体重、内脏重、肝脏重，用于计算形体指标。每桶随机取6尾鱼，三氯叔丁醇麻醉后尾静脉取血，采用氟化钠草酸钾抗凝剂，在4℃、4000$\\mathbf { r } / \\mathrm { m i n }$ 的条件下离心 $1 0 \\mathrm { m i n }$ ，取上层血浆保存于-80℃冰箱中待测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4指标测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1生长指标和形体指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各指标计算公式如下：摄食率（feeding rate，FR， $0 \\%$ ） $= 1 0 0 \\times$ 总摄食量/{[（鱼末重 $\\cdot ^ { + }$ 鱼初重 $+$ 死鱼总重）/2]试验天数}；存活率（survival rate， $\\mathrm { S R } , \\% ) = 1 0 0 \\times \\colon$ 终末鱼数量/初始鱼数量;增重率（weight gain rate，WGR $\\%$ ） $= 1 0 0 \\times$ 体增重/初始体重;特定生长率(specific growth rate， $\\mathrm { S G R , \\% ( d ) } { = } 1 0 0 { \\times } ( \\mathrm { l n }$ 初始均重-ln 终末均重)/试验天数;饲料系数（feed conversion ratio，FCR） $\\scriptstyle =$ 摄食量/（终末鱼重 $^ +$ 死亡鱼重-初始鱼重);肥满度（condition factor，CF， $\\mathbf { g } / \\mathbf { c m } ^ { 3 }$ ） $\\scriptstyle =$ 平均体重/平均体长；肝体比（hepatosomatic index，HSI， $\\%$ ） $= 1 0 0 \\times$ 肝脏重/体重;脏体比（viscerasomatic index, $\\mathrm { V S I } , \\%$ ） $= 1 0 0 \\times$ 内脏重/体重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2营养成分分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 种磷酸盐在水中溶解度的检测方法均为析晶法，水溶性磷含量采用磷钼酸喹啉重量法（GB 22549-2017、GB 22548-2017）测定。饲料中水分、粗灰分、粗蛋白质、粗脂肪含量和总能分别采用105℃常压干燥法（GB/T6435-2006）、550℃灼烧法（GB/T6438-2007）、凯氏定氮法（GB/T6432-1994）、全脂肪测定法和氧弹仪燃烧法（GB/T6432-1994）测定。粪便样品及饲料中磷含量采用电感耦合等离子体原子发射光谱（ICP-AES）法检测。全鱼和椎骨磷含量采用钼黄分光光度计法（GB/T6437-2002）检测。全鱼粗灰分含量测定方法同饲料中粗灰分含量测定方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.3磷和氮消化率 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "磷和氮消化率的计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA D C \\mathrm { d } = 1 0 0 \\times \\left( 1 - \\frac { N \\mathrm { f } } { N \\mathrm { d } } \\times \\frac { M \\mathrm { d } } { M \\mathrm { f } } \\right) _ { \\circ }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $A D C _ { \\mathrm { d } }$ 表示某营养成分（磷或氮）消化率 $( \\% )$ ; $M _ { \\mathrm { d } }$ 表示饲料中标记物（ $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ ）的百分含量 $( \\% )$ ; $M _ { \\mathrm { f } }$ 表示粪便中标记物（ $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ ）的百分含量 $( \\% )$ ; $N _ { \\mathrm { d } }$ 表示饲料中该营养成分的百分含量 $( \\% )$ ； $N _ { \\mathrm { f } }$ 表示粪便中该营养成分的百分含量 $( \\% )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "磷和氮沉积率的计算公式如下：磷沉积率 $( \\% ) { = } 1 0 0 { \\times } ( W _ { \\mathrm { t } } { \\times } W _ { \\mathrm { t p h } } { - } W _ { 0 } { \\times } W _ { \\mathrm { 0 p h } } ) / ( W _ { \\mathrm { f } } { \\times } W _ { \\mathrm { f p h } } ) ;$ 氮沉积率 $\\mathrm { ( \\% ) { = } 1 0 0 \\times ( \\it W _ { t } \\times \\it W _ { t p } - \\it W _ { 0 } \\times \\it W _ { 0 p } ) / ( \\it W _ { f } \\times \\it W _ { f p } ) \\circ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $W _ { 0 }$ 表示初重 $\\mathbf { \\tau } ( \\mathbf { g } )$ ; $\\boldsymbol { W _ { \\mathrm { t } } }$ 表示末重 $\\mathbf { \\tau } ( \\mathbf { g } )$ ; $W _ { \\mathrm { t p h } }$ 表示终末全鱼磷含量 $( \\% )$ ； $W _ { \\mathrm { 0 p h } }$ 表示初始全鱼磷含量 $( \\% )$ ； $W _ { \\mathrm { t p } }$ 表示终末全鱼氮含量 $( \\% )$ ； $W _ { 0 \\mathrm { p } }$ 表示初始全鱼氮含量 $( \\% )$ ；Wf表示饲料投喂量 $( \\% )$ ;； $W _ { \\mathrm { f p h } }$ 表示饲料磷含量 $( \\% )$ ； $W _ { \\mathrm { f p } }$ 表示饲料氮含量 $( \\% )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5数据统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所有试验数据均以平均值 $\\pm$ 标准误（mean $\\scriptstyle 1 \\pm \\mathrm { S E }$ ）表示，数据分析使用软件SPSS20.0进行单因素方差分析（one-way ANOVA）和双因素方差分析（two-wayANOVA)，通过Duncan氏多重比较法检验差异显著性，显著水平为 $P { < } 0 . 0 5$ 。以回归系数分值评估，分别采用折线模型和二元回归模型分析大口黑鲈饲料中磷的最适需求量，并采用可消化磷(可消化磷 $\\varprojlim .$ 总磷$\\times$ 磷消化绿)计算磷的最适需求量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设定MCP的生物利用率为 $100 \\%$ ，采用斜率比法计算高水溶性MDCP相对于MCP的生物学利用率。以MCP为标准物，设其回归方程的斜率为 $\\mathbf { \\hat { b } } _ { \\mathrm { s } }$ ，高水溶性MDCP为受试物，回归方程的斜率为b，则高水溶性MDCP的相对生物学利用率计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水溶性MDCP的相对生物学利用率 $( \\% ) = 1 0 0 \\times$ 受试物回归方程的斜率 $( \\mathsf { b } _ { \\mathrm { t } } )$ /标准物回归方",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "程的斜率（ $\\left( \\mathsf { b } _ { \\mathrm { s } } \\right)$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1饲料中添加不同水平MCP和高水溶性MDCP对大口黑鲈生长性能的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验结束时，各组大口黑鲈的存活率均在 $9 9 \\%$ 以上。不同磷源和磷添加水平对大口黑鲈生长性能的影响见表2。单因素方差分析结果显示，饲料中添加不同水平的MCP和高水溶性MDCP均显著提高大口黑鲈的增重率和特定生长率（ $P { < } 0 . 0 5 )$ ，显著降低饲料系数和肥满度$\\scriptstyle P < 0 . 0 5 .$ )。随着MCP添加水平的升高，大口黑鲈的增重率有先上升后稳定的趋势，以P0组最低，显著低于其他各组（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ ；随高水溶性MDCP添加水平的升高，大口黑鲈的增重率一直处于上升的趋势，以P0组最低，显著低于其他各组（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\$ 。双因素方差分析结果显示，磷源对大口黑鲈各生长指标均无显著影响（ $P { > } 0 . 0 5 \\$ )，且磷源与磷添加水平在各生长指标上不存在显著的交互作用（ $_ { . P > 0 . 0 5 } )$ 。由于大口黑鲈增重率随高水溶性MDCP添加水平的升高持续上升，尚未到达平台期。因此，本试验选取MCP组增重率为评价指标，进行折线模型分析，得到大口黑鲈增重率最高时饲料可消化磷含量为 $0 . 5 1 \\%$ （图1)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c04db23c597e4483a4d390d9a5d88aa2e68dc0e6412217b96529516933dbf88e.jpg",
+        "img_caption": [
+            "图1饲料可消化磷含量与大口黑鲈WGR之间关系的折线模型分析",
+            "Fig.1Broken-line analysis ofthe relationship between dietary digestible phosphorus content and WGR of largemouth bass "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 饲料中添加不同水平MCP和高水溶性MDCP对大口黑鲈氮和磷消化率与沉积率的影响不同磷源和磷添加水平对大口黑鲈氮和磷消化率与沉积率的影响见表3。单因素方差分析结果显示，饲料中添加不同水平的MCP和高水溶性MDCP均显著提高了大口黑鲈的磷消化率和沉积率。随MCP添加水平的升高，磷消化率有上升的趋势，以P0组最低，显著低于其他各组（ $_ { . P < 0 . 0 5 } )$ )；磷沉积率有先上升后降低的趋势，以P0组最低、P2.5组最高，这2组与其他组均有显著差异（ $( P { < } 0 . 0 5 )$ 。随高水溶性MDCP添加水平的升高，磷消化率有上升的趋势，以P0组最低、DP3.5组最高，这2组与其他组均有显著差异（ $P { < } 0 . 0 5 )$ ；磷沉积率有先上升后降低的趋势，以P0组最低、DP3组最高，这2组与其他组均有显著差异（ $( P { < } 0 . 0 5 )$ 。随MCP和高水溶性MDCP添加水平的升高，氮消化率与沉积率均无规律性变化。双因素方差分析结果显示，磷源对大口黑鲈的氮和磷消化率与沉积率均无显著影响 $( P { > } 0 . 0 5 )$ ，且磷源与磷添加水平在氮和磷消化率与沉积率上不存在显著的交互作用（ $. P { > } 0 . 0 5 \\$ )。选取MCP组磷沉积率为评价指标，进行二元回归模型分析，得到大口黑鲈磷沉积率最高时的饲料可消化磷含量为$0 . 5 1 \\%$ 。选取高水溶性MDCP组磷沉积率为评价指标，进行折线模型分析，得到大口黑鲈磷沉积率最高时的饲料可消化磷含量为 $0 . 5 2 \\%$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8a1cc4340880587fb52ec0f79c4a2391fd10a03e90de9479f1d2f2aed65b2ca.jpg",
+        "img_caption": [
+            "图2饲料可消化磷含量与大口黑鲈磷沉积率之间关系的二元回归模型分析(以MCP为磷源) Fig.2Binary regresson model analysis of the relationship between dietary digestible phosphorus content and PRR of largemouth bass（MCP as phosphorus source) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1974c1aa0a5140aa041371c4bdca8570e833d9c323f10d400bc0dac2fe010360.jpg",
+        "img_caption": [
+            "图3饲料可消化磷含量与大口黑鲈磷沉积率之间关系的折线模型分析(以高水溶性MDCP为磷源) Fig.3Broken-line analysis of the relationship between dietary digestible phosphorus content and PRR of largemouth bass（MDCP as phosphorus source） "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3 饲料中添加不同水平MCP和高水溶性MDCP对大口黑鲈全鱼和椎骨磷含量以及全鱼粗灰分含量的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同磷源和磷添加水平对大口黑鲈全鱼和椎骨磷含量以及与全鱼粗灰分含量的影响见表4。单因素方差分析结果显示，饲料中添加不同水平的MCP和高水溶性MDCP均显著提高大口黑鲈的椎骨磷含量和全鱼粗灰分含量 $( P { < } 0 . 0 5 )$ 。随着MCP添加水平的升高，全鱼粗灰分含量有先增加后稳定的趋势，以P0组最低，显著低于其他各组( $\\scriptstyle \\cdot - 0 . 0 5$ )。随着高水溶性MDCP添加水平的升高，全鱼粗灰分含量有增加的趋势，以P0组最低，显著低于其他各组( $. P { < } 0 . 0 5 )$ 。双因素方差分析结果显示，磷源对全鱼和椎骨磷含量以及全鱼粗灰分含量均无显著影响$( P { > } 0 . 0 5 )$ ，且磷源与磷添加水平在全鱼和椎骨磷含量以及全鱼粗灰分含量上不存在显著的交互作用（ $_ { . P > 0 . 0 5 ) }$ ）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4高水溶性MDCP相对于MCP的生物学利用率",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "分别以增重率和磷沉积率为指标，高水溶性MDCP相对于MCP的生物学利用率见表5。由表中数据可知，以增重率和磷沉积率为指标，高水溶性 MDCP 相对于MCP 的生物学利用率分别为 $100 \\%$ 和 $1 1 8 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表5高水溶性MDCP相对于MCP的生物学利用率",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 5Biological availability of MDCP relative to MCP of MDCP ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0988d7628ce8e503ca15e3926896bbab64887fbdda165c0e7e9e88b5f0c914b2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标 Criteria</td><td>回归方程 Regression equation</td><td>R²</td><td>相对生物学利用率 Relative biological availability/%</td></tr><tr><td rowspan=\"2\">增重率 WGR</td><td>MCP:Y=464.52X+319.28</td><td>0.98</td><td>100</td></tr><tr><td>MDCP:Y=465.06X+315.54</td><td>0.96</td><td></td></tr><tr><td rowspan=\"2\">磷沉积率 PRR</td><td>MCP:Y=36.96X+40.953</td><td>0.84</td><td>118</td></tr><tr><td>MDCP:Y=43.539X+39.524</td><td>0.94</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1饲料中添加不同水平MCP和高水溶性MDCP对大口黑鲈生长性能的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究结果显示，在摄食率没有显著差异的情况下，随着MCP添加水平的升高，大口黑鲈的增重率有增加的趋势。这说明，在一定范围内，磷添加水平的升高对大口黑鲈生长性能有促进作用，这与在卡特拉鱼（Catla catla）[5]、胭脂鱼（Myxocyprinus asiaticus）[6]、黑鲷(Black seabream）[7]、黑线鲟鱼（Acipenser sinensis）[8]、鳟鱼（Squaliobarbus ourriculus）[9]、欧洲白鱼（Alburnus alburnus）[10]上的研究结果一致，表明在一定范围内磷的添加可以促进鱼体的生长，提高鱼体的增重率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究结果显示，P0组的特定生长率显著低于其他组，而饲料系数显著高于其他组。这说明磷的缺乏会导致大口黑鲈生长受阻，这与在吉富罗非幼鱼（Oreochromis niloticus ）[1]、西伯利亚鲟鱼（Acipenser baeriBrandt）[12]、牙鲆（Paralichthys olivaceus）[13]、大菱鲆（Scophthalmusmaximus）[13]上的研究结果一致，表明鱼类在低磷饲料下会表现出生长不良和饲料利用效率降低。这有可能是由于，在低磷情况下，大部分的磷用于维持其他的生理代谢，导致用于生长的磷不足。也有研究表明幼龄的动物对营养素的缺乏比晚期发育阶段更敏感，这是因为在快速生长阶段可以更有效地利用体内的营养物质[13]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究结果还显示，P0组的肥满度显著高于其他组。有研究表明，磷协同钙可以促进骨骼的发育，同时钙、磷的吸收存在相互促进作用[14]。同时，还有研究表明，磷对脂肪也具有一定的影响，磷的增加导致鱼体脂肪含量的降低[8]。可能是由于以上2种因素的共同作用导致添加磷后鱼体肥满度降低。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2饲料中添加不同水平MCP和高水溶性MDCP对大口黑鲈氮和磷消化率与沉积率的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "营养物质的消化率是用来衡量动物对营养成分消化和吸收效率的指标，营养物质的沉积率是用来衡量营养物质在动物体内沉积效率的指标。本研究发现，饲料中添加不同水平MCP和高水溶性MDCP对大口黑鲈的氮消化率均没有产生显著影响，且各组氮消化率均在$96 \\%$ 左右。但是，饲料中添加不同水平的MCP和高水溶性MDCP后，大口黑鲈氮沉积率均有不同程度的升高，且P2.5组氮沉积率显著高于P0组。这表明，在一定范围内升高磷添加水平可以提高鱼体蛋白质含量。Roy等[发现磷的缺乏不仅会引起脂肪的沉积，同时还会引起鱼体蛋白质含量的降低。Cheng等[15]发现肌肉中蛋白质的含量会因磷的缺乏而下降。Roy等推测其原因可能是由于磷的缺乏抑制了脂肪酸的β氧化，而长链脂肪酸进入线粒体进行氧化前，需要经过酶活化生成脂酰辅酶A，这一过程中每激活1分子的脂肪酸需要消耗2个ATP，而磷的缺乏可以抑制这一过程，从而导致机体脂肪供能作用降低，从而选择了蛋白质作为能量的来源[8]。磷的消化率代表了鱼体对磷的消化吸收程度，能比增重率更加直接地反映出磷的可利用性[16]。本研究结果显示，P0组的磷消化率和沉积率显著低于其他各组。这与在建鲤（Cyprinus carpio var.Jian）[17]上的研究结果类似，表明低磷条件下会阻碍鱼体对磷的消化与体内磷的沉积。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3 饲料中添加不同水平MCP和高水溶性MDCP对大口黑鲈全鱼和椎骨磷含量以及全鱼粗灰分含量的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在研究鱼类磷需求量时，全鱼磷含量通常作为主要的判定标准之一[18-19]。由于鱼类大部分磷存在于骨骼中，而且骨骼参与磷的代谢，因此椎骨磷的含量通常也被作为确定饲料中最适磷含量的参考标准之一[8,20]。本研究中，饲料中添加不同水平MCP和高水溶性MDCP对大口黑鲈全鱼磷含量的影响不显著。这一结果表明，在缺磷的情况下，鱼体内的磷并没有大量流失。这与在金头鲷（Sparus aurata）[21]和美洲慈鲷（Cichlasoma urophthalmus）[2]上的研究结果一致，说明全鱼磷含量受饲料磷含量的影响较小。这可能是由于，骨基质是一种有机成分，主要由无机矿物质和胶原组成，在矿化过程中沉积为钙的羟基化聚合物$[ \\mathrm { C a } _ { 1 0 } ( \\mathrm { P O } _ { 4 } ) _ { 6 } ( \\mathrm { O H } ) _ { 2 } ]$ ，其中钙与磷的比例为5:3[8]。而此过程中仅有少部分的磷沉积在骨骼中，大部分的磷以磷酸钙的形式储存在体内，用于软骨组织的生长，当体内磷缺乏时，首先会利用骨骼中的磷，从而导致钙的大量流失，所以磷的缺乏以钙的流失为特征，而不是以体内磷的流失为特征[15.24]。本研究中，P0组椎骨磷含量显著低于添加磷酸盐的各组，这一结果表明磷的缺乏会导致沉积在椎骨中的磷减少，这与在黑鲷[23]上的研究结果一致。但是，添加磷酸盐的各组间椎骨磷含量差异不显著。由于本试验在测定椎骨磷时未经脱脂处理，其中可能会有因存在少量磷脂所导致的误差，这可能是添加磷酸盐的各组间椎骨磷含量差异不显著的原因之一。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "全鱼粗灰分含量也常被作为评价鱼体磷含量状况的指标[24]。本研究显示，饲料磷添加水平显著影响全鱼粗灰分含量。全鱼粗灰分与饲料磷添加水平之间这种正相关关系在先前的研究[25-26]中都有发现。例如，在西伯利亚幼鲟上的研究发现，全鱼粗灰分含量受饲料磷添加水平的显著影响，且随饲料磷添加水平的升高不断上升[27]。在黑鲷上的研究发现，全鱼粗灰分含量随饲料磷添加水平的升高而上升[28]，同时在翘嘴红舶（Erythroculter ilishaeformis）上也有类似的发现[29]。本研究结果表明，当饲料总磷含量小于 $0 . 9 8 \\%$ 时，全鱼粗灰分含量与饲料磷添加水平间的正相关关系显著，当饲料总磷含量大于 $0 . 9 8 \\%$ 时，全鱼粗灰分含量与饲料磷添加水平间的正相关关系减弱。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4高水溶性MDCP相对于MCP的生物学利用率",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前，对于水产动物而言，生物学利用率最高的磷酸盐为MCP，同时也是生产中应用最多的磷酸盐。例如，陈冰等[30]对平均体重为0.3g的奥尼罗非鱼（Oreochromisniloticus $\\mathcal { G } \\times$ Oreochromisaureus）饲喂含有MCP、磷酸氢钙、磷酸二氢钾和磷酸二氢钠的饲料，以特定生长率为评价指标，得出其相对于MCP的生物学效价分别为 $100 \\%$ 、 $9 9 \\%$ 、 $9 7 \\%$ 和 $7 5 \\%$ 。赵朝阳等[31]在鱼（Hemibarbus maculatus Bleeker）饲料中分别添加MCP、磷酸氢钙和磷酸钙，以磷消化率为评价指标，得出MCP、磷酸氢钙和磷酸钙相对于MCP的生物学利用率分别为 $1 0 0 . 0 0 \\%$ 、 $7 6 . 8 4 \\%$ 和 $5 3 . 7 7 \\%$ 。杨雨虹等[32]在鲤鱼（Cyprinus carpio）饲料中分别加入MCP、磷酸氢钙、磷酸钙、磷酸氢钙与磷酸二氢钙混合物、骨粉作为磷源，发现磷的消化率分别为 $4 4 . 5 6 \\%$ 、 $3 2 . 1 4 \\%$ 、 $2 2 . 0 4 \\%$ 、 $3 3 . 4 9 \\%$ 和 $10 . 5 9 \\%$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本试验将高水溶性MDCP应用到水产动物上，以前人的研究结果为依据，选取MCP为标准，研究高水溶性MDCP的相对生物学利用率。研究结果表明，以增重率和磷沉积率为衡量指标，高水溶性MDCP相对于MCP的生物学效价分别为 $100 \\%$ 和 $1 1 8 \\%$ ，本试验所用高水溶性MDCP含有较高水平的水溶性磷（占总磷的 $8 4 . 5 \\%$ )，远高于国家标准中规定的饲料级磷酸一二钙水溶性磷含量（不低于总磷的 $40 \\%$ ）。磷酸盐中水溶性磷含量会影响其利用率，水溶性磷含量越高，其利用率越高[33]。此外，本试验所用高水溶性MDCP结晶混合物中MCP所占比例较高，MCP利用率高于磷酸氢钙，是水产饲料中利用率较高的磷酸盐[30-31]。本试验结果表明，高水溶性MDCP在生产上可以替代MCP在水产饲料中使用，同时还具有价格低于MCP的优势。此外，添加高水溶性MDCP之后大口黑鲈的增重率一直处于上升的趋势，未达到平台期，说明饲料中添加高水溶性MDCP对大口黑鲈可能具有更高的生长潜能。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本试验分别以MCP 和高水溶性MDCP为磷源，得出大口黑鲈对磷的最适需求量。目前，鱼类对磷需求量的研究基本采用高效价的磷酸二氢盐为磷源。例如，以MCP 为磷源，史氏鲟幼鲟（Acipenser schrencki）磷的需求量为 $0 . 8 8 \\% \\sim 1 . 0 0 \\% ^ { [ 3 4 ] }$ ；西伯利亚幼鲟磷需求量为$0 . 6 9 \\% ^ { [ 2 8 ] }$ ；军曹鱼（Rachycentron canadum）磷需求量为 $0 . 9 1 \\% \\sim 0 . 9 5 \\% ^ { [ 1 6 ] }$ 。以磷酸二氢钾为磷源，吉富罗非鱼成鱼磷的需求量为 $0 . 8 8 \\% { \\sim } 1 . 2 3 \\% ^ { [ 3 5 ] }$ ；鱼磷需求量为 $0 . 9 1 \\% { \\sim } 1 . 1 7 \\% ^ { [ 3 1 ] } .$ 9以磷酸二氢钠为磷源，花鲈（Lateolabraxmaculatus）幼鱼磷需求量为 $1 . 7 1 \\% ^ { [ 3 6 ] }$ 。但是，有关以高水溶性MDCP为磷源，获取水产动物对磷的需求量的研究尚未见报道。本研究通过比较2种磷源的生物学利用率，同时以磷沉积率为指标获得较为一致的磷需求量，所以能更加准确的说明大口黑鲈对饲料中磷的最适需求量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以MCP为磷源，饲料可消化磷含量为 $0 . 5 1 \\%$ 时，增重率和磷沉积率达到最高。以高水溶性MDCP为磷源，饲料可消化磷含量为 $0 . 5 2 \\%$ 时，磷沉积率达到最高。以增重率和磷沉积率为指标，高水溶性 MDCP 相对于MCP 的生物学效价分别为 $100 \\%$ 和 $1 1 8 \\%$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]李二超,陈立侨.大口黑鲈的营养需要研究进展[J].现代农业科技,2011(21):312-316,318.   \n[2]孙宏君,刘冰,曲强.钙、磷对动物的重要影响[J].畜牧兽医科技信息,2009(9):18.   \n[3]萧培珍,张宝彤,唐精,等.鱼类磷营养需求及原料消化率研究进展[J].中国饲 料,2009(2):34-37.   \n[4] SUGIURA S H,MARCHANT D D,KELSEY K,et al.Effluent profile of commerciall used low-phosphorus fish feeds[J].Environmental Pollution,2006,140(1):95-101.   \n[5] SUKUMARAN K,PAL A K,SAHU N P,et al.Phosphorus requirement of Catla (Catla catla Hamilton) fingerlings based on growth,whole - body phosphorus concentration and non - faecal phosphorus excretion[J].Aquaculture Research,2009,40(2):139-147.   \n[6] YUAN Y C,YANG H J,GONG S Y,et al.Dietary phosphorus requirement of juvenile Chinese sucker,Myxocyprinus asiaticus[J].Aquaculture Nutrition,2015,17(2):159-169.   \n[7] SHAO Q J,MA J J,XU Z R,et al.Dietary phosphorus requirement of juvenile black seabream,Sparus macrocephalus[J].Aquaculture,2008,277(1/2):92-100.   \n[8] ROY P K,LALL S P.Dietary phosphorus requirement of juvenile haddock (Melanogrammus aeglefinus L.)[J].Aquaculture,2003,221(1/2/3/4):451-468.   \n[9] RODEHUTSCORD M,GREGUS Z,PFEFFER E.Effect of phosphorus intake on faecal and non-faecal phosphorus excretion in rainbow trout (Oncorhynchus mykiss) and the consequences for comparative phosphorus availability studies[J].Aquaculture,2000,188(3/4):383-398.   \n[10] JOKINEN E 1,VIELMA J,AALTONEN T M,et al.The effect of dietary phosphorus deficiency on the immune responses of European whitefish (Coregonus lavaretus L.)[J].Fish & Shellfish Immunology,2003,15(2):159-168.   \n[11] 姚鹰飞.吉富罗非鱼幼鱼和成鱼饲料有效磷及钙磷比的研究[D].硕士学位论文.武汉:华 中农业大学,2012.   \n[12] 郑秋珊.西伯利亚幼鲟(Acipenser baeri)磷需要量的研究[D].硕士学位论文.哈尔滨:东北 农业大学,2009.   \n[13]朱琳.大菱鲆和牙鲆无机盐锌、磷的营养生理研究[D].硕士学位论文.青岛:中国海洋大 学,2011.   \n[14] SUGIURA S H,HARDY R W,ROBERTS R J.The pathology of phosphorus deficiency in   \nfish—a review[J].Journal of Fish Diseases,2004,27(5):255-265.   \n[15] CHENG K M,HU C Q,LIU Y N,et al.Effects of dietary calcium,phosphorus and calcium/phosphorus ratio on the growth and tissue mineralization of Litopenaeus vannamei ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "reared in low-salinity water[J].Aquaculture,2006,251(2/3/4):472-483. [16] 刘仙钦.军曹鱼(Rachycentron canadum)幼鱼饲料中适宜磷源、磷水平以及钙磷比研究[D]. 硕士学位论文.广州:广东海洋大学,2010. [17] 秦巍仑,杨毅,冷向军,等.不同磷酸二氢钙含量饲料中添加植酸酶对建鲤生长、磷利用、 体组成和消化酶活性的影响[J].上海海洋大学学报,2015,24(3):383-390. [18] ZHANG C X,MAI K S,AI Q H,et al.Dietary phosphorus requirement of juvenile Japanese seabass,Lateolabrax japonicus[J].Aquaculture,2006,255(1/2/3/4):201-209. [19] ZHANG C X,AI Q H,MAI K S,et al.Dietary lysine requirement of large yellow croaker,Pseudosciaena crocea R[J].Aquaculture,2006,253(1/2/3/4):123-127. [20] BAEVERFJORD G,ASGARD T,SHEARER K D.Development and detection of phosphorus deficiency in Atlantic salmon,Salmo salar L.,parr and post-smolts[J].Aquaculture Nutrition,1998,4(1):1-11. [21] PIMENTEL-RODRIGUES A M,OLIVA-TELES A.Phosphorus requirements of gilthead sea bream (Sparus aurata L.) juveniles[J].Aquaculture Research,2015,32(S1):157-161. [22] CHAVEZ-SANCHEZ C,MARTINEZ-PALACIOS C A,MARTINEZ-PEREZ G,et al.Phosphorus and calcium requirements in the diet of the American cichlid Cichlasoma urophthalmus (Giünther)[J].Aquaculture Nutrition,2015,6(1):1-9. [23] 熊文.磷源和磷浓度对黑鲷幼鱼生长性能的影响[D].硕士学位论文.杭州:浙江大学,2010. [24] SKONBERG D I,YOGEV L,HARDY R W,et al.Metabolic response to dietary phosphorus intake in rainbow trout (Oncorhynchus mykiss)[J].Aquaculture,1997,157(1/2):11-24. [25] BUREAU D P,CHO C Y.Phosphorus utilization by rainbow trout (Oncorhynchus mykiss):estimation of dissolved phosphorus waste output[J].Aquaculture,1999,179(1/2/3/4):127-140. [26] SCHAFER A,KOPPE W M,MEYER-BURGDORFF K H,et al.Effects of a microbial phytase on the utilization of native phosphorus by carp in a diet based on soybean meal[J].Water Science and Technology,1995,31(10):149-155. [27] 郑秋珊,张文璐,徐奇友,等.饲料中不同水平磷对西伯利亚幼鲟(Acipenser baeri)血浆生化 指标的影响[J].水产学杂志,2009,22(1):38-41. [28] 胡王龙.饲料磷对黑鲷幼鱼生长和组织生化指标的影响[D].硕士学位论文.杭州:浙江大 学,2005. [29] 陈建明,叶金云,潘茜,等.翘嘴鱼种对磷的需求量[J].水生生物学报,2007,31(1):99-103. [30] 陈冰,潘庆,郑卫川,等.不同磷源对奥尼罗非鱼幼鱼生长性能的影响[J].饲料工 业,2007,28(10):26-28. [31] 赵朝阳,周洪琪,陈建明,等.花对饲料中磷的营养需求[J].水产学报,2008,32(4):614-620. [32]杨雨虹,郭庆,陈松波,等.鲤鱼对不同磷源磷生物学利用率的研究[J].东北农业大学学 报,2006,37(4):484-488. [33] 钟观运.不同磷源对黑鲷幼鱼生长性能的影响[D].硕士学位论文.杭州:浙江大学,2009. [34] 文华,严安生,高强,等.史氏鲟幼鲟对饲料中磷的需要量[J].水产学报,2008,32(2):242-248. [35] 蒋明,姚鹰飞,文华,等.吉富罗非鱼成鱼对饲料中有效磷的需要量[J].水产学 报,2013,37(11):1725-1732. [36] 林小勇.花鲈幼鱼饲料磷需要量研究[D].硕士学位论文.杭州:浙江大学,2007. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Study on Optimum Requirement for Phosphorus and Relative Biological Availability of High Soluble Monodicalcium Phosphate of Largemouth Bass (Micropterus salmoides)   \nSHI BolYU Huanhuan1ZHENG YinhualWU Xiufeng1CHEN Pei'LIANG Xuefang³ XUE Min1,2\\* ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1.National Aquafeed Safety Assessment Station, Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing 10o081, China; 2. Key Laboratory ofFeed Biotechnology of Ministry of Agriculture, Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing, 10o081, China; 3. Collge of Fisheries, Huazhong Agricultural University, Wuhan 430070, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this experiment, various levels of monocalcium phosphate (MCP) and high soluble monodicalcium phosphate (MDCP) were added to low-phosphorus basal diet, in order to study the effects of them on growth performance, apparent digestibility coefficients of phosphorus (ADCp) and nitrogen (ADCn)，retention ratios of phosphorus (PRR） and nitrogen value (NRR), phosphorus content of vertebra and whole body,and ash content of whole body,and to determine the optimum requirement for phosphorus and the biological availability of high soluble MDCP relative to MCP of largemouth bass (Micropterus salmoides). A low-phosphorus basal diet was prepared firstly,and then 8.86,11.08,13.29 and $1 5 . 5 1 ~ \\mathrm { g / k g }$ of MCP,and 9.34, 11.67,14.01 and $1 6 . 3 4 ~ \\mathrm { g / k g }$ of high soluble MDCP were added into the low-phosphorus basal diet to equally supply 2.0, 2.5, 3.0 and $3 . 5 ~ \\mathrm { g / k g }$ of phosphorus,respectively. The nine experimental diets were accordingly named P0,P2, P2.5,P3.0, P3.5 and DP2.0, DP2.5,DP3.0, DP3.5. Each diet was fed to four replicates with 40 largemouth bass $( 8 . 5 { \\pm } 0 . 1 ) \\$ ）gin each replicate for 8 weeks.The results showed as follows: diets supplemented with different levels of MCP and high soluble MDCP both significantly increased the weight gain rate (WGR), ADCp, PRR and whole body ash content of the largemouth bass $( P { < } 0 . 0 5 )$ ,but there were no significant differences in them between the two phosphorus sources ( $( P { > } 0 . 0 5 )$ . With the MCP supplemental level increasing, the WGR and whole body ash content were increased firstly and then went in a stabilization trend,the PRR was increased firstly and then declined,and all of them in PO group were lowest. With the high soluble MDCP supplemental level increasing, the WGR and ADCp were showed an upward tendency, the PRR was increased firstly and then decreased,and the lowest and highest values were observed in PO and DP3 groups,respectively $( P { < } 0 . 0 5 )$ . The biological availability of high soluble MDCP relative to MCP is $100 \\%$ and $1 1 8 \\%$ based on the WGR and PRR through slope method, respectively. With MCP as the source of phosphorus,the WGR and PRR reach the highest when dietary digestible phosphorus content is $0 . 5 1 \\%$ . With high soluble MDCP as the source of phosphorus, the PRR reached the highest when dietary digestible phosphorus content is $0 . 5 2 \\%$ ： Key words: largemouth bass (Micropterus salmoides); monocalcium phosphate; high soluble ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "monodicalcium phosphate; phosphorus requirement; relative biological availability ",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/570aa6c13f5fdbba3ec52ff85bc8f81cb486939e00a2235a8f48146cab10a1fc.jpg",
+        "table_caption": [
+            "表2不同磷源和磷添加水平对大口黑鲈生长性能的影响",
+            "Table2Effectsof diferent phosphorus sourcesand phosphorus supplemental levelsongrowth performanceoflargemouthbas "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td rowspan=\"2\">磷源 Phosphorus source (A)</td><td colspan=\"5\" rowspan=\"2\">磷添加水平 Phosphorus supplemental level （B）/(g/kg)</td><td rowspan=\"2\">平均值Mean</td><td rowspan=\"2\"></td><td colspan=\"3\">双因子方差分析P值 P-value of two-way ANOVA</td></tr><tr><td></td><td>A B</td><td></td><td>AXB</td></tr><tr><td>增重率</td><td>MCP</td><td>310±23A 0</td><td>2.0 429±12B</td><td>2.5</td><td>440±7B</td><td>3.0 465±9C</td><td>3.5 464±17C</td><td>449±7</td><td>>0.05</td><td><0.05</td><td>>0.05</td></tr><tr><td>WGR/%</td><td>MDCP</td><td>310±23X</td><td>415±2Y</td><td>446±6YZ</td><td></td><td>447±2Yz</td><td>472±4Z</td><td>445±8</td><td></td><td></td><td></td></tr><tr><td></td><td>平均值 Mean</td><td>310±23a</td><td>422±10b</td><td>443±4b</td><td>456±11c</td><td></td><td>468±8c</td><td></td><td></td><td></td><td></td></tr><tr><td>特定生长率</td><td></td><td>2.50±0.12A</td><td>2.98±0.04B</td><td>3.01±0.02B</td><td></td><td>3.09±0.03B</td><td>3.09±0.05B</td><td></td><td>>0.05</td><td><0.05</td><td>>0.05</td></tr><tr><td>SGR/ (%/d)</td><td>MCP MDCP</td><td>2.50±0.12X</td><td>2.92±0.06Y</td><td>3.03±0.02Y</td><td></td><td>3.03±0.07Y</td><td>3.12±0.01Y</td><td>3.04±0.02 3.03±0.03</td><td></td><td></td><td></td></tr><tr><td></td><td>平均值 Mean</td><td>2.50±0.12a</td><td>2.95±0.03b</td><td>3.02±0.01b</td><td></td><td>3.06±0.04b</td><td>3.11±0.03b</td><td></td><td></td><td></td><td></td></tr><tr><td>饲料系数</td><td>MCP</td><td>1.12±0.11B</td><td>0.94±0.01A</td><td>0.91±0.01A</td><td></td><td>0.91±0.01A</td><td></td><td></td><td>>0.05</td><td><0.05</td><td></td></tr><tr><td>FCR</td><td>MDCP</td><td>1.12±0.11Y</td><td>0.94±0.01x</td><td>0.97±0.03X</td><td></td><td>0.93±0.00X</td><td>0.89±0.01A</td><td>0.91±0.01</td><td></td><td></td><td>>0.05</td></tr><tr><td></td><td>平均值 Mean</td><td>1.12±0.11b</td><td>0.94±0.01a</td><td>0.94±0.02a</td><td></td><td></td><td>0.90±0.00X</td><td>0.94±0.01</td><td></td><td></td><td></td></tr><tr><td>摄食率</td><td>MCP</td><td>2.35±0.09</td><td>2.27±0.02</td><td>2.23±0.02</td><td></td><td>0.92±0.01a</td><td>0.90±0.00a</td><td></td><td>>0.05</td><td></td><td></td></tr><tr><td>FR/%</td><td>MDCP</td><td></td><td>2.24±0.03</td><td>2.39±0.08</td><td>2.28±0.01 2.30±0.03</td><td></td><td>2.22±0.01</td><td>2.25±0.01</td><td></td><td>>0.05</td><td>>0.05</td></tr><tr><td></td><td>平均值 Mean</td><td>2.35±0.09 2.35±0.09</td><td>2.26±0.02</td><td>2.31±0.05</td><td>2.29±0.02</td><td></td><td>2.24±0.01</td><td>2.29±0.03</td><td></td><td></td><td></td></tr><tr><td>肥满度</td><td>MCP</td><td>1.77±0.04B</td><td>1.61±0.02A</td><td>1.61±0.01A</td><td>1.63±0.02A</td><td></td><td>2.23±0.01</td><td></td><td>>0.05</td><td></td><td></td></tr><tr><td>CF/（g/cm³）</td><td>MDCP</td><td>1.77±0.04Y</td><td>1.63±0.02X</td><td>1.63±0.02X</td><td>1.64±0.03X</td><td></td><td>1.64±0.00A</td><td>1.62±0.01</td><td></td><td><0.05</td><td>>0.05</td></tr><tr><td></td><td>平均值 Mean</td><td>1.77±0.04b</td><td>1.62±0.02a</td><td>1.62±0.01a</td><td>1.64±0.02a</td><td></td><td>1.66±0.04X</td><td>1.64±0.01</td><td></td><td></td><td></td></tr><tr><td>肝体比</td><td>MCP</td><td>1.97±0.16A</td><td>2.16±0.06AB</td><td>2.49±0.12B</td><td>2.16±0.06AB</td><td></td><td>1.65±0.02a</td><td></td><td>>0.05</td><td>>0.05</td><td></td></tr><tr><td>HSI/%</td><td>MDCP</td><td>1.97±0.16X</td><td>2.11±0.05XY</td><td>2.01±0.14XY</td><td>1.90±0.15x</td><td></td><td>2.08±0.11A 2.25±0.10Y</td><td>2.22±0.05 2.07±0.06</td><td></td><td></td><td>>0.05</td></tr><tr><td></td><td>平均值 Mean</td><td>1.97±0.16</td><td>2.14±0.04</td><td>2.25±0.09</td><td>2.03±0.08</td><td></td><td>2.17±0.09</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>MCP</td><td></td><td></td><td></td><td></td><td></td><td></td><td>7.57±0.07</td><td>>0.05</td><td>>0.05</td><td></td></tr><tr><td>脏体比</td><td></td><td>7.80±0.24</td><td>7.49±0.14</td><td>7.75±0.13</td><td>7.60±0.09</td><td>7.43±0.16</td><td></td><td></td><td></td><td></td><td>>0.05</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/c494d9406012d4d42a63272055c18027d020381856c96dc29aa77061110ce09b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "同行数据肩标不同字母表示差异显著（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ )。MCP：磷酸二氢钙；MDCP：高水溶性磷酸一二氢钙。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">VSI/%</td><td>MDCP</td><td>7.80±0.24</td><td>7.54±0.08</td><td>7.33±0.07</td><td>7.53±0.17</td><td>7.35±0.15</td><td rowspan=\"2\">7.44±0.06</td></tr><tr><td>平均值 Mean</td><td>7.80±0.24</td><td>7.52±0.09</td><td>7.54±0.07</td><td>7.57±0.09</td><td>7.39±0.12</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Values in the same row with different letter superscripts mean significant difference( $\\scriptstyle P < 0 . 0 { \\dot { ) } }$ . MCP: monocalcium phosphate; MDCP: monodicalcium phosphate with high solubility. The same as below. ",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/47d2a1ff2b12613574a9153aa731db452d6410a3013184277f9e2a6bf7d5f246.jpg",
+        "table_caption": [
+            "表3不同磷源和磷添加水平对大口黑鲈氮和磷的消化率与沉积率的影响",
+            "Table3Effectsofdiffrentphosphorussourcesandphosphorussupplemental levelsonDCp,ADCn,RR,NRRoflargemouthbass $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td>磷源</td><td colspan=\"6\">磷添加水平 Phosphorus supplemental level</td><td colspan=\"3\">双因子方差分析P值</td></tr><tr><td>Phosphorus</td><td></td><td></td><td></td><td>（B）/(g/kg)</td><td></td><td>平均值 Mean</td><td colspan=\"3\">P-value of two-way ANOVA</td></tr><tr><td></td><td>source (A)</td><td>0</td><td>2.0</td><td>2.5</td><td>3.0</td><td>3.5</td><td></td><td>A</td><td>B</td><td>AXB</td></tr><tr><td>磷消化率</td><td>MCP</td><td>42.8±1.1A</td><td>49.8±1.7B</td><td>50.8±2.6B</td><td>51.6±0.6BC</td><td>52.7±0.8BC</td><td>51.2±0.8</td><td>>0.05</td><td><0.05</td><td>>0.05</td></tr><tr><td>ADCp</td><td>MDCP</td><td>42.8±1.1x</td><td>50.1±1.6Y</td><td>50.6±2.7Y</td><td>50.1±2.2Y</td><td>56.4±1.2z</td><td>51.8±1.1</td><td></td><td></td><td></td></tr><tr><td></td><td>平均值 Mean</td><td>42.8±1.1a</td><td>49.9±1.1b</td><td>50.7±1.7b</td><td>50.8±1.1b</td><td>54.5±1.0c</td><td></td><td></td><td></td><td></td></tr><tr><td>磷沉积率</td><td>MCP</td><td>39.5±5.22A</td><td>50.5±1.2B</td><td>52.6±0.9C</td><td>51.5±2.5B</td><td>51.5±1.0B</td><td>51.5±0.7</td><td>>0.05</td><td><0.05</td><td>>0.05</td></tr><tr><td>PRR</td><td>MDCP</td><td>39.5±5.22X</td><td>47.3±1.9Y</td><td>51.2±3.4Y</td><td>54.6±0.9z</td><td>53.1±1.6Y</td><td>51.5±1.2</td><td></td><td></td><td></td></tr><tr><td></td><td>平均值 Mean</td><td>39.5±5.22a</td><td>48.9±1.2b</td><td>51.9±1.7b</td><td>53.0±1.4b</td><td>52.3±0.9b</td><td></td><td></td><td></td><td></td></tr><tr><td>氮消化率</td><td>MCP</td><td>96.2±0.2</td><td>95.3±0.6</td><td>96.1±0.3</td><td>96.1±0.3</td><td>96.0±0.5</td><td>95.9±0.2</td><td>>0.05</td><td>>0.05</td><td>>0.05</td></tr><tr><td>ADCn</td><td>MDCP</td><td>96.2±0.2</td><td>95.9±0.2</td><td>95.7±0.2</td><td>94.9±0.6</td><td>95.8±0.4</td><td>95.6±0.2</td><td></td><td></td><td></td></tr><tr><td></td><td>平均值 Mean</td><td>96.2±0.2</td><td>96.1±0.3</td><td>95.6±0.3</td><td>95.9±0.2</td><td>95.5±0.4</td><td></td><td></td><td></td><td></td></tr><tr><td>氮沉积率</td><td>MCP</td><td>32.9±3.1A</td><td>36.7±0.9AB</td><td>37.0±1.1AB</td><td>40.9±0.6B</td><td>36.9±1.1AB</td><td>36.9±1.1</td><td>>0.05</td><td><0.05</td><td>>0.05</td></tr><tr><td>NRR</td><td>MDCP</td><td>32.9±3.1X</td><td>37.1±0.7XY</td><td>35.2±1.9X</td><td>37.7±1.4Y</td><td>36.7±1.0XY</td><td>36.7±0.6</td><td></td><td></td><td></td></tr><tr><td></td><td>平均值 Mean</td><td>32.9±3.1a</td><td>34.9±1.7b</td><td>36.9±0.5ab</td><td>36.1±1.1b</td><td>39.3±0.9b</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/1160ea356c27229e1bcc470e9e38cafa40317cd655880fa7ad9b63eb0130966f.jpg",
+        "table_caption": [
+            "e "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td rowspan=\"2\">磷源 Phosphorus source (A)</td><td colspan=\"5\">磷添加水平 Phosphorus supplemental level （B） /(g/kg)</td><td rowspan=\"2\">平均值 Mean</td><td colspan=\"3\">双因子方差分析P值 P-value of two-way ANOVA</td></tr><tr><td>0</td><td>2.0</td><td>2.5</td><td>3.0</td><td>3.5</td><td>A</td><td>B</td><td>AXB</td></tr><tr><td>椎骨磷</td><td>MCP</td><td>4.41±0.09A</td><td>5.76±0.19B</td><td>6.14±0.38B</td><td>6.20±0.20B</td><td>5.95±0.42B</td><td>6.01±0.15</td><td>>0.05</td><td><0.05</td><td>>0.05</td></tr><tr><td>Phosphorus</td><td>of MDCP</td><td>4.41±0.09X</td><td>5.68±0.43Y</td><td>5.45±0.38Y</td><td>5.75±0.39Y</td><td>6.29±0.33Y</td><td>5.79±0.19</td><td></td><td></td><td></td></tr><tr><td>vertebra</td><td>平均值 Mean</td><td>4.41±0.09a</td><td>5.72±0.22b</td><td>5.79±0.28b</td><td>5.97±0.23b</td><td>6.12±0.26b</td><td></td><td></td><td></td><td></td></tr><tr><td>全鱼磷</td><td>MCP</td><td>1.92±0.18</td><td>1.93±0.06</td><td>1.90±0.12</td><td>2.06±0.05</td><td>2.04±0.13</td><td>1.98±0.05</td><td>>0.05</td><td>>0.05</td><td>>0.05</td></tr><tr><td>Phosphorus of</td><td>MDCP</td><td>1.92±0.18</td><td>2.10±0.05</td><td>2.05±0.08</td><td>1.93±0.16</td><td>2.09±0.12</td><td>2.04±0.05</td><td></td><td></td><td></td></tr><tr><td>whole body</td><td>平均值 Mean</td><td>1.92±0.18</td><td>2.02±0.10</td><td>1.98±0.05</td><td>2.00±0.07</td><td>2.07±0.08</td><td></td><td></td><td></td><td></td></tr><tr><td>全鱼粗灰分</td><td>MCP</td><td>8.79±0.31A</td><td>11.02±0.24B</td><td>11.14±0.23B</td><td>12.03±0.28C</td><td>12.03±0.28C</td><td>11.53±0.17</td><td>>0.05</td><td><0.05</td><td>>0.05</td></tr><tr><td>Ash of whole body</td><td>MDCP</td><td>8.79±0.31x</td><td>10.83±0.48Y</td><td>10.72±0.24Y</td><td>11.31±0.21YZ</td><td>11.62±0.16Yz</td><td>11.11±0.16</td><td></td><td></td><td></td></tr><tr><td></td><td>平均值 Mean</td><td>8.79±0.31a</td><td>10.92±0.25b</td><td>10.92±0.17b</td><td>11.60±0.21°</td><td>11.80±0.17℃</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 16
+    }
+]

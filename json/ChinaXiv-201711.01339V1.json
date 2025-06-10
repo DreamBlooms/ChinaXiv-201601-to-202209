@@ -1,0 +1,494 @@
+[
+    {
+        "type": "text",
+        "text": "利用GPS测速估算接收机载体运动方位角",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李佳威1,²，李芳³，何瑞珠4（1.中国科学院国家天文台，北京100012；2.中国科学院大学，北京100049；3.中国科学院物理研究所，北京100190；4.中国电子科技集团公司第七研究所，广东广州510310)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：运动载体的方位角信息对导航定位十分重要。一般认为，全球定位系统(GlobalPositioning System，GPS)等卫星定位系统无法利用单接收机进行角度测量，因此也就无法直接获得单接收机载体的相关角度信息。全球定位系统等本身虽然无法对用户终端进行测姿，但却能够在测速的基础上解算获得运动中接收机载体的实时方位角。对这一原理进行了研究和阐述，并对其精度水平进行了分析。通过基于车载定位的实测试验，与磁力计传感器的角度测量结果进行对比，对方法的可行性和精度水平进行了验证。结果表明，利用全球定位系统测速的方法虽然无法进行接收机测姿方位角的估算，但对接收机运动方位角的估算是切实可行的，其精度与载体运动速度有关；当接收机载体达到一定的运动速度时，即能获得较高的精度水平。由此估算获得的方位角信息亦能作为一项状态量作用于定位结果的卡尔曼滤波等模型中，进一步提高滤波模型的精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：卫星导航；速度测量；角度测量；磁力计图分类号：TN96 文献标识码：A 文章编号：1672-7673(2017)01-0045-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "角度(方位角)信息在导航定位中具有重要的作用。在获得运动载体的方位角后，可以确定车辆的行驶方向、船舶的航行航向，从而确定其运动轨迹。在车载导航等领域，还能够结合电子地图，利用方位角信息更好地进行地图匹配与修正。并且还可以在对定位解算数据进行后处理的误差滤波模型中引人和结合角度信息，得到更加丰富的状态量，从而优化滤波模型，以获得更理想的滤波效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一般认为全球定位系统等能够解算得到用户的三维坐标位置、三维运动速度、加速度及加加速度等信息，却不能实时进行角度测量，也就无法直接获得接收机运动载体的瞬时方位角。因此只能根据两个定位点进行事后计算，以得到两点间的方位角信息。然而，这种做法缺乏实时性，也会由于单点定位的误差较大而导致精度较差。为此，很多卫星定位终端被整合与安置了陀螺仪、加速度计、磁力计等传感器，以实时获得一定精度的方位角信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实际上，全球定位系统等本身虽然无法对用户终端进行测姿，但却能够测量和计算得到接收机载体的运动方位角信息。这使得在很多情况与场合下，能够降低终端成本，不依赖额外的硬件设备即能根据全球定位系统自身的测量数据进行角度测量。本文针对这一问题进行了研究，提出了在全球定位系统测速的基础上，通过简单的原理与方法估算得到接收机载体的运动方位角信息。并且通过误差传递原理对估算精度进行具体分析与预测。最后，在车载实测试验中对其进行了分析和验证。实验结果表明，基于简单的原理与方法，即能在全球定位系统速度测量的基础上实时估算得到接收机运动载体的方位角信息，并且在多种应用情况下，还能获得较高的精度水平。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1卫星导航测速原理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全球定位系统接收机的测速方法可根据原理分为被动式、主动式两大类。其中被动式测速应用较为广泛，易于实现全天候、全测程和高精度的测速[1]。采用被动测速方式的运动载体只要安装全球定位系统接收机，便可按照用户所要求的时间间隔，在动态定位的同时实时测得整个运行轨道上各点处的运行速度，而运行载体本身不需要发射任何信号[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卫星和用户接收机之间的相对运动导致观测到的卫星信号频率发生变化。这种多普勒频移通常通过卫星接收机中的载波跟踪环测得。已知卫星速度，则多普勒频移可用来计算接收机速度。多普勒频移也称为距离变化率，可视为相对速度矢量在卫星视线方向上的投影。但是，由于接收机钟差变化率（即频率偏移量)的影响，测量结果有偏差，实际测量得到的是伪距变化率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由载波相位测量得到的伪距增量与平均伪距变化率成正比，或者说与时间间隔内用户相对于卫星的速度在卫星视线方向上的投影成正比。接收机运动载体的三维速度 $( \\dot { X } _ { u } , \\dot { Y } _ { u } , \\dot { Z } _ { u } )$ 与站星距离变化率 $\\dot { \\rho _ { j } }$ 之间的关系为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\rho _ { j } } = \\big [ \\left( X _ { j } - X _ { u } \\right) \\big ( \\dot { X _ { j } } - \\dot { X _ { u } } \\big ) ~ + ~ \\big ( Y _ { j } - Y _ { u } \\big ) \\big ( \\dot { Y _ { j } } - \\dot { Y _ { u } } \\big ) ~ + ~ \\big ( Z _ { j } - Z _ { u } \\big ) \\big ( \\dot { Z _ { j } } - \\dot { Z _ { u } } \\big ) \\big ] / r _ { j u }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n~ + ~ c ( \\dot { d } ~ \\tau _ { r } - \\dot { d } ~ \\tau _ { s } ) ~ + \\dot { L } _ { i o n } ^ { j } ~ + \\dot { L } _ { t r o p } ^ { j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，各参量的含义定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) $( \\dot { X _ { j } } , \\dot { Y _ { j } } , \\dot { Z _ { j } } )$ 与 $( X _ { j } , Y _ { j } , Z _ { j } )$ 分别为第 $j$ 颗卫星的三维运动速度和位置； $( X _ { u } , Y _ { u } , Z _ { u } )$ 为运动载体的位置，由全球定位系统信号实测结果计算而得，可视为已知量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2) $r _ { j u }$ 为用户至第 $j$ 颗卫星的几何距离,由 $( X _ { j } , Y _ { j } , Z _ { j } )$ 于 $( X _ { u } , Y _ { u } , Z _ { u } )$ 计算而得，可视为已知量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3） $\\dot { \\rho _ { j } }$ 为站星距离变化率，由全球定位系统接收机按下式测得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\rho _ { j } } = \\left[ N - \\left( { f _ { u } } - { f _ { j } } \\right) \\Delta T \\right] \\left( c / { f _ { u } } \\right) \\Delta T ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\scriptstyle { \\mathcal { f } } _ { u }$ 为接收机实际接收的载波频率； $f _ { j }$ 为第 $j$ 颗卫星发射的载波频率； $N$ 为全球定位系统接收机实测的积分多普勒频移计数； $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 为电磁波的传播速度； $\\Delta T$ 为全球定位系统接收机测速更新率，即由用户拟定的测速时刻 $t _ { 1 } , \\ t _ { 2 }$ 之间的时间间隔。这些参数均已知，因此 $\\dot { \\rho _ { j } }$ 也可视为已知量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4） $\\textit { i } _ { \\tau _ { r } }$ 为接收机时钟偏差变化率（钟速），一般为 $1 ~ \\mathrm { { n s / s } }$ 。当测速精度要求达到每秒亚米级甚至更高时，必须考虑其影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（5） $\\textit { i } \\tau _ { s }$ 为卫星时钟偏差变化率，小于 $0 . 1 ~ \\mathrm { { n s / s } }$ ，可略去。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(6) $\\dot { L } _ { \\mathrm { i o n } } ^ { j }$ 、 $\\dot { L } _ { \\mathrm { t r o p } } ^ { j }$ 分别为电离层、对流层的时延变化率。因测速间隔通常较短(秒级)，故有 $\\dot { L } _ { \\mathrm { i o n } } ^ { j } = \\dot { L } _ { \\mathrm { t r o p } } ^ { j } = 0 ,$ 。（7） $( \\stackrel { \\cdot } { X _ { j } } , \\stackrel { \\cdot } { Y _ { j } } , \\stackrel { \\cdot } { Z _ { j } } )$ 为全球定位系统卫星的三维运行速度，有",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { \\displaystyle { \\dot { X } } _ { j } ^ { 1 } = \\frac { 1 } { q } ( X _ { j } ^ { 2 } - k X _ { j } ^ { 1 } ) } } \\\\ { { \\displaystyle { \\dot { Y } } _ { j } ^ { 1 } = \\frac { 1 } { q } ( Y _ { j } ^ { 2 } - k Y _ { j } ^ { 1 } ) } } \\\\ { { \\displaystyle { \\dot { Z } } _ { j } ^ { 1 } = \\frac { 1 } { q } ( Z _ { j } ^ { 2 } - k Z _ { j } ^ { 1 } ) } } \\end{array} \\right. ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $k$ 、 $q$ 为与地球引力、卫星轨道等有关的参量，均可计算求得；上标1、2分别表示接收机在测速的 $t _ { 1 }$ 、 $t _ { 2 }$ 时刻所获得的数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由上述对(1)式的分析可见，共有接收机的三维速度 $( \\dot { X } _ { u } , \\dot { Y } _ { u } , \\dot { Z } _ { u } )$ 、接收机时钟钟速 $\\dot { d } \\tau _ { r } 4$ 个未知数[3]。故观测4颗可视卫星，按照(1)式联立4个方程即可求解。在单点定位工作中，卫星接收机即按上述过程解算，获得测速结果。由此还可进一步求解，得到加速度、加加速度等参数[4-5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2利用速度分量估算运动载体方位角",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由上节中的讨论可知，利用4颗以上卫星，可以解算得到接收机载体在东、北、天等各个方向上的速度分量。实际上，利用这些速度分量即可估算得到运动载体在空间的方向角信息。特别地，对于",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "车辆、船舶等可视为在二维平面上运动的载体，只需利用东、北两个方向上的速度分量即可。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图1，在解算得到接收机载体在正东方向上的速度向量 $\\stackrel {  } { v _ { \\scriptscriptstyle \\frac { \\ m } { \\ m } } }$ 与在正北方向上的速度向量 $\\stackrel {  } { v _ { \\mathrm { \\scriptscriptstyle \\mathrm { \\perp } \\mathrm { \\ell } } } }$ 后，即可合成得到一个速度向量合成：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vec { v } _ { \\textsc { s h f } } = \\vec { v } _ { \\textsc { f k } } + \\vec { v } _ { \\textsc { f l } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不考虑硬件与数据输出延迟，在观测瞬间，可记接收机载体在正东方向上的行驶距离为 $\\vert \\vec { v } _ { \\mathcal { \\bar { H } } } \\vert \\cdot \\mathrm { d } \\Delta T$ ，在正北方向上的行驶距离为 $\\mid \\vec { v } _ { \\mathrm { 4 t } } \\mid \\cdot \\mathrm { d } \\Delta T _ { \\mathrm { c } }$ 。对于 $\\stackrel {  } { v } _ { \\widehat { \\stackrel { \\triangledown } { \\Pi } } } \\stackrel {  } { \\ x }$ 与正北方向的夹角 $\\alpha$ ，有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = \\arctan \\frac { | \\widehat { v } _ { \\scriptscriptstyle \\mathscr { H } } | } { | \\widehat { v } _ { \\scriptscriptstyle \\mathscr { H } } | } \\mathrm { ~ . ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由（5)式可计算得到每次观测瞬间接收机载体的方位角 $\\alpha$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3精度分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/03e0043fb6cbfc46202376fa74bbabf87af28a3877792650c4761d8f0ef7cf75.jpg",
+        "img_caption": [
+            "图1利用速度分量确定方位角Fig.1Determining azimuth angle byvelocity component"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1影响全球定位系统测速的误差源分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在20 世纪90年代，全球定位系统接收机速度估算的主要误差源是由选择可用性(Selective Availability，SA)政策引起的卫星时钟频率抖动 $\\textit { i } \\tau _ { s }$ 。如今选择可用性政策已被撤销，该项误差已经可以忽略不计。而电离层、对流层延迟和多径效应在短时间内的变化较小，加上现在接收机的更新频率较快，所以一般也可忽略。对于中等速度以下的接收机，速度测量的主要误差来源是预测的卫星位置 $( X _ { j } , Y _ { j }$ ，$Z _ { j } .$ )和速度 $( \\stackrel { \\cdot } { X _ { j } } , \\stackrel { \\cdot } { Y _ { j } } , \\stackrel { \\cdot } { Z _ { j } } )$ ）的误差[6]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从(1)式可以看出，卫星轨道误差对站星距离变化率的影响可概算为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } \\dot { \\rho _ { j } } = \\big [ ( \\dot { X _ { j } } - \\dot { X _ { u } } ) \\mathrm { d } X _ { j } + \\big ( \\dot { Y _ { j } } - \\dot { Y _ { u } } \\big ) \\mathrm { d } Y _ { j } + \\big ( \\dot { Z _ { j } } - \\dot { Z _ { u } } \\big ) \\mathrm { d } Z _ { j } \\big ] / r _ { j u } \\mathrm { ~ . ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假定站星距离 $r _ { j u }$ 为 $2 0 0 0 0 \\mathrm { k m }$ ，卫星运行速度为 $3 . 2 \\mathrm { k m / s }$ 。当卫星轨道误差为 $1 0 \\mathrm { ~ m ~ }$ 时，对站星距离变化率的最大影响约为 $1 . 6 \\mathrm { m m } / \\mathrm { s }$ ；当卫星轨道误差为 $1 0 0 \\mathrm { m }$ 时，其影响增加到 $1 . 6 \\mathrm { c m / s }$ 。目前，国际全球卫星导航系统服务(International Global Navigation Satelite System Service，IGS)公布的全球定位系统广播星历精度为 $1 . 6 \\mathrm { ~ m ~ }$ ，卫星钟差的精度为 $7 ~ \\mathrm { { n s } } ^ { [ 7 ] }$ 。因此，卫星轨道误差对全球定位系统测速精度的影响很小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于卫星速度误差而言，则通过方向余弦直接作用于站星距离变化率。在取消选择可用性政策后，利用广播星历计算卫星速度精度优于 $1 \\ \\mathrm { m m / s ^ { [ 8 ] } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果用户是高动态的，那么还有另外的问题。由于距离增量只给出一个时间间隔内的平均速度，所以很显然，高加速度和速度突变的情况会带来误差。另一方面，这种高动态还会使得接收机相位噪声变大，从而引入额外的误差。由于这些误差的存在，美国国防部并没有给出全球定位系统速度估算的具体性能指标[6]。根据经验来看，现在市场上大多数的全球定位系统单频导航接收机，其三维方向上的测速精度一般在 $0 . 3 ~ \\mathrm { m / s }$ 以内 ${ ( 1 \\sigma ) }$ ；而基于差分全球定位系统（Differential Global PositioningSystem，DGPS）、载波相位差分技术（Real-Time Kinematic，RTK)等方法的测速精度，则能够达到厘米/秒甚至更高[5]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2方位角估算精度分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由(5)式可知，在二维平面上获得方位角的精度主要取决于接收机在正东与正北两个方向上的速度分量 $\\stackrel {  } { v _ { \\scriptscriptstyle \\mathscr { H } } }$ 、 $\\stackrel {  } { v _ { \\mathrm { \\tiny - 1 \\mathrm { E } } } }$ 。记 $\\mid \\overline { { { v } } } _ { \\mathcal { F } } \\mid = x \\mathrm { ~ , ~ } \\mid \\overline { { { v } } } _ { \\mathrm { 4 k } } \\mid = y$ ，对(5)式进行偏微分处理可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\mathrm { d } \\alpha = \\left( \\arctan \\frac { x } { y } \\right) ^ { \\prime } \\big | x \\mathrm { d } x + \\left( \\arctan \\frac { x } { y } \\right) ^ { \\prime } \\big | y \\mathrm { d } y } \\\\ { \\displaystyle = \\frac { y } { x ^ { 2 } + y ^ { 2 } } \\mathrm { d } x - \\frac { x } { x ^ { 2 } + y ^ { 2 } } \\mathrm { d } y . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由误差协方差传播率[9可得方位角 $\\alpha$ 的方差为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\alpha } ^ { 2 } = { \\left( { \\frac { y } { x ^ { 2 } + y ^ { 2 } } } \\right) } ^ { 2 } \\sigma _ { x } ^ { 2 } + { \\left( { \\frac { x } { x ^ { 2 } + y ^ { 2 } } } \\right) } ^ { 2 } \\sigma _ { y } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为简化公式，假定接收机载体在正东与正北方向上的速度误差大小相同，有 $\\sigma _ { { } _ { x } } = \\sigma _ { { } _ { y } } = \\sigma _ { { } _ { v } }$ 。则(8)式可转化为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\alpha } = \\frac { \\sigma _ { v } } { \\sqrt { x ^ { 2 } + y ^ { 2 } } } = \\frac { \\sigma _ { v } } { \\sqrt { | \\vec { v } _ { \\ / \\ll } | ^ { 2 } + | \\vec { v } _ { \\ / \\oplus } | ^ { 2 } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\sqrt { \\mid \\stackrel {  } { v _ { \\scriptscriptstyle \\mathscr { K } } } \\mid ^ { 2 } + \\mid \\stackrel {  } { v _ { \\scriptscriptstyle \\mathscr { K } } } \\mid ^ { 2 } }$ 即为载体在二维平面上的合成运动速度 $| \\stackrel {  } { v } _ { \\widehat { \\stackrel { \\triangledown } { \\Pi } } } \\rangle$ 。故(9)式可进一步简化为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\alpha } = \\frac { \\sigma _ { v } } { | \\stackrel {  } { v } _ { \\oplus \\oplus \\oplus } | } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由(10)式可以看出，估算得到的方位角精度取决于载体在二维平面上速度的大小 $| \\stackrel {  } { v } _ { \\widehat { \\stackrel {  } { \\operatorname { \\varepsilonstrut } } } { \\operatorname { \\varepsilonstrut } } }  |$ 以及载体在正北和正东方向上速度的误差 $\\boldsymbol { \\sigma } _ { v }$ 。由上文可知，对于一般的全球定位系统单频导航接收机，其 $\\sigma _ { v }$ 的大小一般不超过 $0 . 3 \\mathrm { m } / \\mathrm { s } ( 1 \\sigma )$ ；而基于差分全球定位系统、载波相位差分技术等方法的测速精度，则能够达到厘米/秒甚至更高。因此，不妨分别取 $\\sigma _ { v } = 0 . 3 \\mathrm { m } / \\mathrm { s }$ 及 $\\sigma _ { v } = 0 . 0 5 \\mathrm { m } / \\mathrm { s }$ ，并根据 $| \\stackrel {  } { v } _ { \\widehat { \\stackrel {  } { \\scriptscriptstyle \\Theta } } { \\scriptscriptstyle \\sharp } \\widehat { \\chi } } |$ 的值对$\\sigma _ { \\alpha }$ 的估算精度进行考察。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5580556e94b912774e321ca21703da3dbe6db77b2d2d3bcbde02917534ca5ae4.jpg",
+        "table_caption": [
+            "表1方位角估算精度预测",
+            "Table 1Prediction of estimated azimuth's accuracy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>合成</td><td>(m/s)</td><td>1</td><td>5</td><td>10</td><td>20</td><td>50</td></tr><tr><td>σ（°）</td><td>0 =0.3 m/s</td><td>17. 19</td><td>3.44</td><td>1. 72</td><td>0.86</td><td>0.34</td></tr><tr><td></td><td>σ=0.05 m/s</td><td>2.86</td><td>0.57</td><td>0.29</td><td>0.14</td><td>0.06</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表1中可以看出，当该方法应用在行人的运动方向判定时，由于 $| \\stackrel {  } { v } _ { \\widehat { \\stackrel { \\triangledown } { \\Pi } } } \\rangle$ 的值较小（人均步行速度约为 $1 { \\sim } 2 ~ \\mathrm { m / s }$ )，因此方位角估算的误差偏大。而当应用在车载导航情况下时，由于车辆的平均行驶速度约在 $1 0 { \\sim } 2 0 ~ \\mathrm { m / s }$ 之间，所以能够获得较精确的方位角估算值：对于一般单频单点定位的全球定位系统民用接收机，其方位角估算误差优于 $3 ^ { \\circ } ( 1 \\sigma )$ ；而基于载波相位差分技术等高精度定位方法的方位角估算精度，则优于 $0 . 5 ^ { \\circ } ( 1 \\sigma )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4实测试验及结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为验证方法的可行性与有效性，于2013年10月在北京进行了车载定位实验。将一个典型磁力计模块固定安置在车辆顶盖上，且其正北指向与车辆车头方向平行，如图2。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea594ff374131d80f02d7ecdcc1f278d67a5761c1eba5ab9f7d443ae35479933.jpg",
+        "img_caption": [
+            "图2磁力计安置示意图",
+            "Fig.2A magnetometer mounted on the car "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先，将磁力计模块固定不动，以测量其真实角度测量误差。数据输出窗口如图3，其中最右列为磁力计角度测量值，输出间隔为 $0 . 5 \\mathrm { ~ s ~ }$ 。经过一小时的静止测量，计算得到该磁力计模块的角度测量误差为 $1 \\sigma { = } 0 . 8 8 ^ { \\circ }$ 。另外，在实验中还需注意对磁力计的输出数据进行磁偏角的修正。在北京地区，磁偏角值约为 $5 . 8 3 3 ^ { \\circ }$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf4c73d8500717449b9910dc4275ebe797e19658d6244e2c4d70abd1145d3e77.jpg",
+        "img_caption": [
+            "图3磁力计角度数据输出窗口",
+            "Fig.3The output window of magnetometer angle data ",
+            "图4磁力计输出的方位角与解算所得方位角的比较",
+            "Fig.4Comparison of calculated azimuth angle and azimuth angle output by the magnetometer "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在完成上述准备工作后，车辆开始分别以约 $5 \\mathrm { m / s }$ 、 $1 0 ~ \\mathrm { m / s }$ 、 $2 0 ~ \\mathrm { m / s }$ 的速度行驶大致相等的时间。与此同时，通过串口实时读取一典型全球定位系统单频接收机定位模块的输出数据(包括单频接收机获得的星历、伪距等信息），利用上述方法解算得到车辆行驶的瞬时方位角，并与磁力计输出的方位角信息进行比较，两者之间的差异如图4。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "yrrrilieliiee 20 车辆以约 ${ 5 \\mathrm { m / s } }$ 行驶时   \n-10   \n-20   \n0 100 200 300 400 500 Measurement epoch (0.5s)   \nrrrrrer nieee 20 车辆以约 $1 0 \\mathrm { m / s }$ 行驶时   \n10   \nwMmwwWwWMmy   \n-10   \n-20   \n0 100 200 300 400 500 Measurement epoch (0.5s)   \nrrrrierieee 20 车辆以约 $2 0 \\mathrm { m / s }$ 行驶时   \n10   \n0 Ys<>><>3>>>\\~\\>-><3>>><<<>(><>3>>>>>?>\\<>><><S>11<<3<>si   \n-10   \n-20   \n0 100 200 300 400 500 Measurement epoch (0.5s) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "需要对图4说明的是，实际上解算得到的方位角与磁力计输出的方位角之间总是存在大约 $5 ^ { \\circ }$ 的固定偏差。这主要由采用的坐标系与磁力计的坐标系的偏差引起。另外，磁力计本身的系统测量偏差，模块固定在车辆上时与车辆前后轴方向上的偏差以及磁偏角修正的残差也会引入系统误差中。这个固定偏差不会影响实验结果。图4中的统计结果是由实测结果减去固定偏差后得到的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "记由本方法解算得到的方位角为 $\\alpha _ { 1 }$ ，磁力计输出的方位角为 $\\alpha _ { 2 }$ ，两者之间的差异为 $\\Delta \\alpha$ ：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\alpha = \\alpha _ { 1 } - \\alpha _ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据图4 中的数据，由(12)式计算得到 $\\Delta \\alpha$ 的均方根误差 $\\sigma _ { \\Delta \\alpha }$ ：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { _ { \\Delta \\alpha } } = \\sqrt { \\frac { 1 } { n - 1 } \\sum _ { i = 1 } ^ { n } \\left( \\Delta \\alpha \\right) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $n$ 为观测历元的个数。而根据误差传播率有",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\alpha _ { 1 } } ^ { 2 } + \\sigma _ { \\alpha _ { 2 } } ^ { 2 } = \\sigma _ { \\Delta \\alpha } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可得",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\alpha _ { 1 } } = \\sqrt { \\sigma _ { \\Delta \\alpha } ^ { 2 } - \\sigma _ { \\alpha _ { 2 } } ^ { 2 } } \\mathrm { ~ . ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "又已知 $\\sigma _ { { _ { \\alpha _ { 2 } } } } = 0 . 8 8 ^ { \\circ }$ ，可由（13)式计算得到各不同行驶速度下的 $\\sigma _ { \\alpha _ { 1 } }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "按上述过程分别计算车辆以 $5 \\mathrm { m / s }$ 、 $1 0 ~ \\mathrm { m / s }$ 、20 m/s 的速度行驶时，得到的方位角误差σα1。结果见表2。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可以看出，表2中的实验结果与表1中的预测分析基本一致，验证了方法的可行性和精度，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2不同运动速度下的方位角解算误差",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e22dcd335baed60eb99a6836236bb6c241853aac6b65bacd720c6dd36b7f7b95.jpg",
+        "table_caption": [
+            "Table 2Azimuth calculation error with different velocity "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>一 0合成</td><td>5m/s</td><td>10 m/s</td><td>20 m/s</td></tr><tr><td>α1</td><td>4.45°</td><td>2.32°</td><td>1. 19°</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于全球定位系统本身角度及姿态测量能力的不足，为实现对接收机终端的角度测量，在很多定位终端被整合与安置了陀螺仪、加速度计、磁力计等传感器。实际上，全球定位系统等本身虽然无法对用户终端进行测姿以获得各种姿态角，但却能够在测速的基础上，实时解算获得接收机载体的运动方位角。本文对这一原理进行了研究和阐述，并对其精度水平与误差指标进行了推导和分析。最后，在车载定位的基础上，通过与磁力计角度测量值的对比，对该方法进行了验证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验与分析结果表明，利用单频全球定位系统测速进行接收机运动方位角估算的方法切实可行，且原理简单、计算方便。方法的精度与接收机载体的运动速度有关，当载体达到一定的运动速度时,即能获得较高的精度水平，能够满足一般性导航定位的精度需求。根据这个特性，该方法尤其适用于车载定位、船舶导航等领域，能够不依赖于磁力计、陀螺仪等外部设备获得一定的方位角测量精度，具有良好的应用价值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另外值得指出的是，由于能够获得较高的精度，因此该方法估算得到的方位角信息还能作为一项状态量作用于对定位解算结果进行后处理的卡尔曼滤波等模型中，从而优化滤波方法，获得更理想的滤波效果。这也是值得深入研究和探讨的一个方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 陆学智，张文林，谢世杰.全球定位系统测量接收机的性能分析［J].测绘通报，2004，42(11): 23-25.Lu Xuezhi， Zhang Wenlin，Xie Shijie. Characteristic analysis of geodetic GPS receivers[J].Bulletin of Surveying and Mapping，2014，42(11） : 23-25.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2] Zhu Jun，Tang Bin，Wu Wei,et al.Design and implementation of a cueing wideband digital EW receiver ［J]. Journal of Electronic Science and Technology of China，2006,4（3）:257-264.   \n[3] May M，Kreisher E，Nasuti T,et al. Evaluation of GPS receiver ranging accuracy [C]// IEEE Position Location and Navigation Symposium. 1990.   \n[4] 何羚，秦开宇.卫星导航接收机测速精度测量方法研究［J]．电子科技大学学报，2008，37 (3): 354-357. He Ling，Qin Kaiyu. Study of precision measurement methodology of motion velocity measuring for satellite navigation receiver [J]. Journal of University of Electronic Science and Technology of China，2008，37(3):354-357.   \n[5] 杨龙.GPS测速精度研究及应用［D].青岛：国家海洋局第一海洋研究所，2007.   \n[6] Kaplan E D.Understanding GPS:principles and applications ［M].Boston:Artech House Publisher，1996.   \n[7] 王甫红，张小红，黄劲松.GPS单点测速的误差分析及精度评价［J］.武汉大学学报：信息 科学版，2007，32(6)：515-519. Wang Fuhong，Zhang Xiaohong，Huang Jinsong. Error analysis and accuracy assessment of GPS absolute velocity determination with SA off［J].Geomatics and Information Science of Wuhan University，2007，32(6):515-519.   \n[8] Serrano L，Kim D,Langley R B,et al.A GPS velocity sensor:how accurate can it be? -a first look ［C]// Proceedings of the National Technical Meeting of the Institute of Navigation. 2004.   \n[9] 武汉大学测绘学院测量平差学科组.误差理论与测量平差基础［M].武汉：武汉大学出版 社，2003. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Azimuth Estimation of a Moving Receiver by GPS Speed Measurement ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Li Jiawei $^ { 1 , 2 }$ ，Li Fang³,He Ruizhu4 (1.NationalAstroicaleat，scadefic，ilna,ail@asc；.Ui Chinese AcademyofSciences，Beijing109,China；3.InstituteofPhysics，Chinese AcademyofSciences，Beijing10019,China; 4.The 7th Research Institute of China Electronics Technology Group Corporation,Guangzhou 51O310,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The azimuth of a moving receiver is of vital importance for navigation and positioning. Generally，satellite systems such as GPS are considered that they cannot measure azimuthal angle with a single receiver，so，related angle information of a single receiver cannot be obtained directly，either.This paper proposes that these systems can get the real-time azimuth of a moving receiver through real-time resolution on the basis of speed measurement，albeit they themselves may not be able to measure the posture of the user terminal.This paper also studies and elaborates the principle above and analyzes itsprecision.The feasibility and precision of this method are verified by comparing the angle measurement results of magnetometer sensor in the actual measurement experiment of vehicle positioning.Results show that using GPS speed measurement to estimatethe azimuth ofa moving receiver is feasible，although it is impossible to estimate the azimuth of the posture of the user terminal.And the precision is related to the speed of the receiver—when the receiver moves up to certain speed，high precision can be obtained.Moreover，the azimuth information gotten by the method can also be usedas a quantity of state in such modelsas Kalman filtering of positioning results and further improve its accuracy. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words: Satellite navigation； Speed measurement； Angle measurement； Magnetometer",
+        "page_idx": 6
+    }
+]

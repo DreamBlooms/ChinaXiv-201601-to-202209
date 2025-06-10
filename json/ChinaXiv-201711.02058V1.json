@@ -1,0 +1,451 @@
+[
+    {
+        "type": "text",
+        "text": "白晶芝，赵源，吴凤芝．盐碱胁迫对黄瓜嫁接苗根际土壤细菌和真菌群落结构及丰度的影响[J].中国生态农业学报， 2017,DOI: 10.13930/j.cnki.cjea.170302 BaiJZ,ZhaoY,WuFZ.Effectsofsaline-alkali stress on structureandbacteria/fungicommunityabundance inrhizosphere soil of grafted cucumber seedlings[J]. ChineseJournal ofEco-Agriculture,2017,DOI: 10.13930/j.cnki.cjea.170302 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "盐碱胁迫对黄瓜嫁接苗根际土壤细菌和真菌群落结构及丰度的影响\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白晶芝，赵源，吴凤芝(东北农业大学园艺学院哈尔滨150030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了解盐碱胁迫对黄瓜嫁接苗根际土壤细菌和真菌群落结构的影响，本研究以2种耐盐碱砧木‘华砧$1 0 8 ^ { \\circ } ( \\mathrm { T 1 } )$ 、神力铁木砧'(T2)和2种盐碱敏感砧木‘辉太郎'(S1)、京欣砧6号'(S2)为试材，自根苗作为对照，以混合盐(盐分摩尔比为 $\\mathrm { N a H C O _ { 3 } : N a _ { 2 } S O _ { 4 } : N a C l : N a _ { 2 } C O _ { 3 } = 4 : 2 : 2 : 0 . 1 5 } ,$ 浓度为 $1 0 0 \\mathrm { m m o l { \\cdot } L ^ { - 1 } }$ 、 $\\mathrm { p H } 9 . 0$ 的处理液处理 $2 0 \\mathrm { ~ d ~ } , \\ 3 0 \\mathrm { ~ d ~ }$ ，40d(定植 $3 0 \\mathrm { d }$ 、40d、50d)，利用PCR-DGGE技术，研究了盐碱胁迫对不同砧木嫁接的黄瓜幼苗根际土壤微生物群落结构和丰度的影响。结果表明，耐盐碱的砧木品种T1、T2根际土壤真菌DGGE图谱条带数显著高于盐碱敏感的 S2和自根苗对照CK，并且耐盐碱的品种T2土壤细菌的 Shannon-Wiener指数与均匀度指数均显著高于盐碱敏感的品种S1、S2和自根苗对照CK。耐盐碱品种T1的细菌16S rDNA基因拷贝数在定植50d时显著高于盐碱敏感的品种及自根苗；在定植40d时，耐盐碱的砧木T2真菌ITS基因拷贝数显著高于盐碱敏感的品种以及黄瓜自根苗；定植 50d时，耐盐碱的砧木真菌ITS基因拷贝数显著高于盐碱敏感的品种，但与自根苗差异不显著。不同耐盐碱性砧木嫁接黄瓜幼苗根际土壤微生物群落结构组成和丰度存在差异。以上研究表明，随着盐碱胁迫时间的增加，耐盐碱性不同的砧木嫁接苗根际土壤微生物群落丰度与结构多样性产生了较大差异，间接改变了土壤微生态环境，致使土壤微生物数量和丰富度也发生改变。耐盐碱的砧木品种可能通过改善土壤微环境来加强其自身的耐盐碱特性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：盐碱胁迫；黄瓜嫁接；耐盐性砧木；土壤微生物群落中图分类号：S642.2 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of saline-alkali stress on structure and bacteria/fungi community abundance in rhizosphere soil of grafted cucumber seedlings ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BAI Jingzhi, ZHAO Yuan,WU Fengzhi\\*\\* (College of Horticulture and Landscape Architecture,Northeast Agricultural University,Harbin 150030,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Two saline-alkali tolerantandtwo saline-alkali sensitive rootstocks wereusedto graft cucumbertodetermine the efectofsaline-alkali tressonmicrobialcommunitystructures inrhizospheresoilof graftedcucumberseedlings.Theaimof thestudy was to explore mechanisms of salt-alkali tolerance of grafted cucumber and promote cucumber cultivation,and further enhance improvement of saline lands.The two saline-alkali tolerant rootstocks were‘Huazhen $1 0 8 ^ { \\circ }$ （T1）and ‘Shenlitiemuzhen’(（T2),thetwosaline-alkali sensitiverootstocks were‘Huitailang'(S1）and‘Jingxinzhenliuhao’(S2),and then the own-rootseedlingsofcucumberwereusedasthecontrol.The physicalandchemical propertiesofsoil wereadjusted after 10 days of grafted cucumber seedling planting for salinity using $1 0 0 \\ \\mathrm { m m o l { \\cdot } L ^ { - 1 } }$ mixed salts solution, and the pH adjusted to alkalinity at 9.0. The molar ratio of the mixed salt solution was $\\mathrm { N a H C O _ { 3 } : N a _ { 2 } S O _ { 4 } : N a C l : N a _ { 2 } C O _ { 3 } = 4 : 2 : 2 : 0 . 1 5 }$ ： Soils of different treatments were sampled after 30,40 and 50 days of seedlings planting.And PCR-DGGE technique was usedto study microbial communitystructure and species abundance in rhizosphere soil under cucumber seedlings graftedon diferent rootstocks.The results indicated that band numberin DGGEof saline-alkali tolerantrootstocks was significantly higher than thatofsaline-alkali sensitiverotstock S2andown-rootcucumber.Atthe same time,both Shannon-Wiener index ofrhizosphere soilbacteriaand evennessindexof saline-alkali tolerantrootstock T1were significantlyhigherthan hoseof thetwo saline-alkali sensitive rotstocks andown-root cucumber.The number ofcopiesof16S rDNA gene of bacteriaof saline-alkali tolerant rootstock Tlwassignificantly higher than thatof saline-alkalitolerantrootstocks S2andown-root cucumber after 50 daysof growth.The number of copies of ITS gene offungi of saline-alkalitolerantrootstock T2 was significantly higher than that of saline-alkali sensitive rootstocks and own-root cucumber after 40 days of growth. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The number of copies of ITS gene of fungi of saline-alkali tolerant rotstocks was significantly higher than that of saline-alkali sensitive rootstocks,though there wasno significant diferencebetween thegraftedandown-rootcucumber sedlingsafter 50 days of growth.Cucumber seedlings graftedon diffrent rootstocks had significant diferences in both rhizosphere soil microbialcommunity structure compositionand species abundanceunder saline-alkali stres,whichbecame greater with increasing stress time,andchangedsoil micro-environment.Insaline land,saline-alkali tolerantrootstock changed soil environment, and consequently improved grafted cucumber saline-alkali tolerance. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Saline-alkali stress; Grafted cucumber; Saline-alkali resistant rootstock; Soil microbialcommunity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国盐渍土的总面积大约为3487万 $\\mathrm { h m } ^ { 2 }$ ，耕地中有760万 $\\mathbf { h } \\mathbf { m } ^ { 2 }$ 发生不同程度的盐碱化，约占总耕地面积的四分之一。黑龙江省的盐碱地面积为116 万 $\\mathrm { h m } ^ { 2 }$ ，占全省总土地面积的 $3 \\% ^ { [ 1 - 2 ] }$ ，且盐渍化的土壤面积和程度正在不断加重，使设施蔬菜的生长和品质受到影响，从而阻碍了我国设施蔬菜产业的发展[3]。黄瓜(Cucumis sativus L.)是我国设施蔬菜的主栽作物之一，其根系再生能力较差，耐盐性较弱,如何减轻和克服土壤盐害是设施黄瓜生产中亟待解决的问题。研究表明，嫁接可大大提高黄瓜的耐盐性[4]，且嫁接黄瓜操作简单、生产成本低、产品安全可靠，因此，采用嫁接提高黄瓜的耐盐性是切实可行的好方法。瓜类和茄科类蔬菜进行嫁接栽培是克服土壤盐渍化的一项有效措施[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤环境的变化会影响到微生物群落组成、数量及其分布[。研究发现，盐碱胁迫影响了土壤微生物的活性，降低了微生物碳、氮量，造成了微生物对有机质分解作用的下降[7]，同时还会影响植物生长、光合作用以及营养物质的吸收和转运[8]，因此土壤盐碱胁迫是影响作物生长发育和产量的主要的非生物胁迫之一[9]。土壤微生物对土壤有机质分解和营养元素矿化起着重要作用，是植物营养元素的活性库，可作为评价土壤质量的重要指标之一[10]。研究表明，土壤微生物数量随着土壤盐害程度的升高而降低，细菌、放线菌数量与土壤全盐含量呈显著负相关，细菌数量与土壤有机质含量呈极显著相关[11-14]。有研究表明，同种植物的不同品种根系分泌物组成不同，引起根际微生物群落结构的改变，从而影响土壤养分的形成、积累以及植物的抗逆性等[15]。不同种类的砧木嫁接可不同程度地提高嫁接苗根际土壤细菌的多样性，从而有助于提高西瓜[Citrullus lanatus（Thunb.）Matsum.et Nakai]嫁接苗的抗性[16]。嫁接可改变茄子(Solanum melongenaL.)根际微生物种群数量和结构，增加有益菌数量，进而增强茄子的抗病性[17]。前人对蔬菜嫁接的研究多集中在抗病[18]、耐湿、耐低温上，而关于抗盐[19]，尤其是砧木对复杂盐碱耐性及其作用机理研究还较少，而关于同种植物的不同品种砧木嫁接对植物根际土壤微生物群落结构和丰度的影响与植物耐盐碱性是否存在一定的关系鲜见报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究旨在进一步明确设施蔬菜盐碱胁迫与土壤微生物的关系，通过模拟黑龙江等地的设施盐碱土壤成分配制处理液，采用PCR-DGGE 技术研究盐胁迫对不同耐盐碱砧木嫁接黄瓜的土壤微生物群落结构和丰度的影响，深入挖掘嫁接黄瓜的耐盐碱机理，为盐碱地改良提供可靠的理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验试材 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于 2013年 2—11月于东北农业大学设施工程中心节能日光温室和园艺学院蔬菜生理生态研究室进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试品种：黄瓜嫁接砧木采用耐盐碱的‘华砧 $1 0 8 ^ { \\circ } ( \\mathrm { T } 1 )$ 、‘神力铁木砧'(T2)和盐碱敏感砧木‘辉太郎\"(S1)、‘京欣砧6号'(S2)[20]；接穗黄瓜品种为‘津春9号’，由天津科润黄瓜研究所研制育成，‘津春9号'黄瓜自根苗(CK)作对照。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试土壤：取自东北农业大学设施工程中心大棚，为多年瓜类连作黑土。基本理化性质为；有机质含量 $2 1 . 7 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { 1 }$ ，全氮含量 $0 . 1 2 5 \\%$ ，碱解氮 $5 4 . 6 ~ \\mathrm { m g \\cdot k g ^ { - 1 } }$ ，速效磷 $3 6 . 9 4 ~ \\mathrm { m g { \\cdot k g ^ { - 1 } } }$ ，速效钾 $1 7 7 . 9 ~ \\mathrm { m g } \\cdot \\mathrm { k g } ^ { \\mathrm { ~ l ~ } }$ ，$\\mathfrak { p H }$ 为 7.37,EC 为 $5 9 3 ~ { \\mu \\mathrm { S } } { \\cdot } \\mathrm { c m } ^ { 1 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黑龙江盐碱地主要盐分组成为NaC1、 $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ 、 $\\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 }$ 、 ${ \\mathrm { N a H C O } } _ { 3 }$ ，其中 ${ \\mathrm { H C O } } _ { 3 } .$ 含量占阴离子总量的一半左右，且 $\\mathrm { ( C O _ { 3 } ^ { 2 } \\mathrm { + H C O _ { 3 } } ^ { - } }$ 》 $( \\mathrm { S O } _ { 4 } ^ { 2 } { + } \\mathrm { C l } { - }$ 的质量比在1\\~2之间，平均 $\\mathsf { p H }$ 在 8.72 左右[13]。本试验采用盐浓度为 $1 0 0 ~ \\mathrm { \\ m m o l { \\cdot } L ^ { \\frac { 1 } { \\cdot } } }$ ， $\\mathfrak { p H } \\ 9 . 0$ 的盐碱液进行盐碱胁迫处理，处理液配制各盐分摩尔比为${ \\mathrm { N a H C O } } _ { 3 }$ ： $\\mathrm { N a _ { 2 } S O _ { 4 } \\colon \\ N a C l { : } \\ N a _ { 2 } C O _ { 3 } { = } 4 \\colon 2 \\colon 2 \\colon 0 . 1 5 }$ 。试验选用2个耐盐碱和盐碱敏感黄瓜嫁接砧木T1、T2、S1、S2，以‘津春9号'黄瓜自根苗作对照(CK)，共5个处理。每个重复12盆,3次重复，随机排列，并设有保护行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接穗黄瓜采用常规育苗，嫁接采用插接法，嫁接苗成活后待接穗长至3叶1心时，定植到规格为$1 8 0 \\ \\mathrm { m m } { \\times } 2 3 0 \\ \\mathrm { m m }$ 的塑料盆中，每盆装土壤 $3 ~ \\mathrm { k g }$ ，同时将磷酸二铵和硫酸钾两种化肥按质量比 $1 : 1$ 混合施入，每盆 $\\textrm { \\tiny 8 g }$ ，定植后10d每盆浇入1L盐碱液，保证每盆土壤中盐水的量浸透土壤而不渗出，使其总盐终浓度为 $3 . 0 8 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { \\mathrm { ~ 1 ~ } }$ ，其中 $\\mathrm { N a H C O } _ { 3 } 1 . 3 7 \\ \\mathbf { g } { \\cdot } \\mathbf { k } \\mathbf { g } ^ { 1 }$ ， $\\mathrm { N a _ { 2 } S O _ { 4 } } ~ 1 . 1 6 \\mathrm { g \\cdot k g ^ { - 1 } }$ ， $\\mathrm { N a C l 0 . 4 8 \\ g { \\cdot } k g ^ { \\mathrm { 1 } } }$ ， $\\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 } 0 . 0 6 5$ （204号$\\mathbf { g } { \\cdot } \\mathbf { k } \\mathbf { g } ^ { \\mathrm { ~ } 1 }$ 。为防止渗盐，盆底无排水孔，之后常规管理。分别在定植后 $3 0 \\mathrm { ~ d ~ }$ 、40d、50d(盐碱胁迫 $2 0 ~ \\mathrm { d }$ 、$3 0 \\mathrm { d } , 4 0 \\mathrm { d } )$ ，每个重复随机取3株黄瓜植株，并用抖根法收集其根际土，过80目筛，保存于 $\\mathrm { - 8 0 ~ \\textdegree C }$ 冰箱中，用于根际土壤总DNA 的提取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤总 DNA的提取：采用 Power Soil?DNA Isolation Kit(MO BIO Laboratories,CA,USA)试剂盒对植株根际土壤微生物总DNA进行提取。土壤细菌16SrDNA的扩增采用对大多数细菌的16S rDNA通用的引物对GC-338f 和 518r 进行 $\\mathrm { P C R } ^ { [ 2 1 ] }$ 。土壤真菌ITS 区的扩增采用对大多数真菌的ITS 区序列的通用引物ITS1-F、ITS4、GC-ITS1-F 和 ITS2 进行巢式 PCR[22]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "变性梯度凝胶电泳(DGGE)：制备 $8 \\%$ (细菌和真菌)的聚丙烯酰胺凝胶，其中变性剂浓度从上到下依次增加。细菌变性剂浓度从 $40 \\%$ 到 $7 5 \\%$ ， $100 \\%$ 的变性剂为 $7 ~ { \\mathrm { m o l } } { \\cdot } { \\mathrm { L } } ^ { 1 }$ 的尿素和 $40 \\%$ 去离子甲酰胺)。用 D-code System 电泳仪(Bio-Rad Lab,LA,USA)，电压 $7 5 ~ \\mathrm { V } ,$ ，温度 $6 0 \\ \\mathrm { ^ \\circ C }$ ，电泳 $1 2 \\mathrm { ~ h ~ }$ 后，将胶完整取出用 $1 : 3 3 0 0 ( \\nu / \\nu )$ GelRed (Biotium,USA)染色 $2 5 \\mathrm { m i n }$ 。用UVPlabwork4.6成像系统照相。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物总DNA 的提取:采用Power Soil $\\textsuperscript { \\textregistered }$ DNA Isolation Kit(MO BIO Laboratories, CA,USA)试剂盒对植物根际总DNA进行提取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实时定量 PCR 分析采用 IQ5 real-time PCR system(Bio-Rad Lab,LA,USA)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验中原始数据的整理采用 Microsoft Excel(Office 2010)软件完成；数据处理采用 SAS 8.1软件,方差分析使用 ANOVA 过程，聚类分析使用 SPSS 16.0 软件。DGGE 的指纹图谱分析采用 Bio-RadQuantityone 4.5软件对 DGGE 图谱进行数字化、标准化分析，主成分分析采用Canoco for Windows 4.5software[23]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同耐盐碱性砧木嫁接苗根际土壤微生物群落结构的差异",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1土壤细菌群落结构的差异",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1可知，在定植后30d(盐碱胁迫 20 d)，不同耐盐碱性砧木嫁接苗根际土壤细菌 DGGE 图谱无明显差异。主成分分析的两个主要成分PC1和PC2分别代表总变量的 $2 6 . 5 \\%$ 和 $1 4 . 5 \\%$ 。自根苗CK的散点位置与嫁接苗各处理的散点位置距离较远，说明自根苗的根际土壤细菌群落结构与嫁接苗处理存在差异，但是耐盐碱砧木嫁接苗和盐碱敏感处理散点分布比较均匀，说明在盐碱胁迫 20d时，耐盐碱性不同的砧木嫁接苗根际土壤细菌结构组成相似。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2可知，在定植后40 d(盐碱胁迫 30 d)，不同耐盐碱性砧木嫁接苗根际土壤细菌 DGGE 图谱无明显差异。PCA分析图2耐盐碱的砧木嫁接苗(T1、T2)的散点距其他处理较远，盐碱敏感的砧木嫁接苗散点位置相近，但与自根苗有一定距离，说明耐盐碱性不同的砧木嫁接苗以及自根苗对照间的根际土壤细菌群落结构组成产生较大差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图3可知，在定植后 50d(盐碱胁迫40 d)，不同耐盐碱性砧木嫁接苗根际土壤细菌 DGGE 图谱无明显差异。PCA分析图中耐盐碱的砧木嫁接苗T1与 T2的散点基本在同一象限，盐碱敏感的砧木嫁接苗散点位置与自根苗有一定距离，说明耐盐碱性不同的砧木嫁接苗以及自根苗对照间的根际土壤细菌群落结构组成产生较大差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1308e945cea7cf85d3275a68afa4567f2347fc90e55523831643070ae9144f8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7a8ba092af971c7cef199480516f0f5e4e041adef0ff8f9942fb4a9410bc017.jpg",
+        "img_caption": [
+            "图1定植后30d(盐碱胁迫 20 d)不同砧木黄瓜嫁接苗根际土壤细菌 DGGE 图谱(a)及其主成分分析图(b)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1DGGE profile(a)andPCAanalysis (b)ofthe rhizosphere soil bacteriaof grafted cucumber with diferentrootstock ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "after 30 days planting (20 days saline-alkali stress) T1 和T2为抗盐砧木‘华砧 108'和‘神力铁木砧',S1和 S2 为盐敏感砧木‘辉太郎'和‘京欣砧6号';CK 为黄瓜自根苗。Tl and T2 are saline-alkali-tleatubostocsfazd‘iteu;deialsiieubf “Huitailang'and‘Jingxinzhenliuhao';CK is own-root seedling of cucumber. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a6bd0f21423285d193030083952ea12543826543c0a58e0312e6062b805285b.jpg",
+        "img_caption": [
+            "图2定植后40d(盐碱胁迫30d)不同砧木黄瓜嫁接苗根际土壤细菌 DGGE 图谱(a)及其主成分分析图(b)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2DGGE profile(a)andPCAanalysis (b)oftherhizosphere soilbacteriaof graftedcucumber withdiferentrotstocl ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "after40 daysplanting(3O days saline-alkali stress) T1 和 T2为抗盐砧木‘华砧 108'和‘神力铁木砧',S1和 S2 为盐敏感砧木‘辉太郎'和‘京欣砧6号';CK 为黄瓜自根苗。Tl and T2 are salie-alkali-erabstosfHau';asibstsf ‘Huitailang' and‘Jingxinzhenliuhao'; CK is own-root seedling of cucumber. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d14cbcf61ab947ca79ba0234fd7792f4e1ebc16dfe1397ac55ebef8d07c7d72d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f8a316a6d88523597953dd9d30b6d8822be83b5e5a78dd553e45d8b313bb226.jpg",
+        "img_caption": [
+            "图3定植后 50d(盐碱胁迫40 d)不同砧木黄瓜嫁接苗根际土壤细菌DGGE 图谱(a)及其主成分分析图(b)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "after50 days planting (4O days saline-alkali stress) T1 和 T2 为抗盐砧木‘华砧 108'和'神力铁木砧’，S1和 S2 为盐敏感砧木‘辉太郎'和‘京欣砧6号'；CK 为黄瓜自根苗。T1 and T2 are saline-alkali-tsd‘iie'；dasiiebf “Huitailang'and‘Jingxinzhenliuhao';CK is own-root seedling of cucumber. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如表1所示，在定植30 d(盐碱胁迫 20 d)时，自根苗对照(CK)的根际土壤细菌 DGGE 图谱条带数显著高于耐盐碱性砧木嫁接苗(T2) $( P { < } 0 . 0 5 )$ ，而各处理间的 Shannon-Wiener 指数与均匀度指数均没有差异。在定植 40 d(盐碱胁迫30 d)时，各处理间的条带数没有差异；耐盐碱性砧木嫁接苗(T1)的Shannon-Wiener指数与均匀度指数均显著高于盐碱敏感砧木嫁接苗(S1) $_ { ( P < 0 . 0 5 ) }$ 。在定植50d(盐碱胁迫 40 d)时，自根苗对照(CK)的条带数显著高于盐碱敏感砧木嫁接苗(S1)；耐盐碱性砧木嫁接苗(T2)的Shannon-Wiener指数与均匀度指数均显著高于盐碱敏感砧木嫁接苗(S1) $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/817d8774f85f67095a7f40e873fef5683d30d7a4ee28225c530705d5b31b6ca9.jpg",
+        "table_caption": [
+            "表1盐碱胁迫下不同耐盐碱性黄瓜砧木嫁接对不同取样时间土壤细菌DGGE图谱的条带数和多样性指数的影叶Table1Effectofrotstock varieties ofcucumberonsoil bacteria DGGE profile band numberand diversity indexes at"
+        ],
+        "table_footnote": [
+            "T1和T2为抗盐砧木‘华砧108'和神力铁木砧'力铁S1和S2为盐敏感砧木‘辉太郎\"和‘京欣砧6号';CK为黄瓜自根苗。同列同一定植后天数的数据后不同小写字母表示不同处理间差异显著 $_ { ( P < 0 . 0 5 ) }$ 。T1 and T2 are saline-alkali-tolerant cucumber rootstocks of‘HuazhenlO8'and‘Shenlitieun';ndeiaaisiibstocftaldJg;CKisofcucumberDifeetlowealetsitcfortedaeieldplantingeasiatdierateogedifferent treatments."
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">different sampling times under saline-alkali stress</td></tr><tr><td>定植后天数 Days after field planting (d)</td><td>处理 Treatment</td><td>条带数 Number of bands</td><td>Shannon-Wiener指数 Shannon-Wiener index</td><td>均匀度指数 Evenness index</td></tr><tr><td>30</td><td>T1</td><td>47.3±0.6ab</td><td>3.22±0.06a</td><td>0.74±0.01a</td></tr><tr><td rowspan=\"8\">40</td><td>T2</td><td>44.7±2.5b</td><td>3.21±0.15a</td><td>0.74±0.03a</td></tr><tr><td>S1</td><td>48.0±0.0ab</td><td>3.26±0.04a</td><td>0.75±0.01a</td></tr><tr><td>S2</td><td>46.3±3.2ab</td><td>3.24±0.10a</td><td>0.74±0.02a</td></tr><tr><td>CK</td><td>50.0±3.6a</td><td>3.33±0.06a</td><td>0.77±0.01a</td></tr><tr><td>T1</td><td>47.3±2.5a</td><td>3.31±0.48a</td><td>0.77±0.01a</td></tr><tr><td>T2</td><td>47.3±1.5a</td><td>3.02±0.15ab</td><td>0.70±0.04ab</td></tr><tr><td>S1</td><td>48.3±3.2a</td><td>2.84±0.29b</td><td>0.66±0.07b</td></tr><tr><td>S2</td><td>46.0±1.0a</td><td>3.08±0.04ab</td><td>0.72±0.01ab</td></tr><tr><td rowspan=\"6\">50</td><td>CK</td><td>46.3±0.6a</td><td>3.08±0.17ab</td><td>0.72±0.04ab</td></tr><tr><td>T1</td><td>42.0±1.7ab</td><td>3.12±0.06ab</td><td>0.73±0.01ab</td></tr><tr><td>T2</td><td>43.7±3.8ab</td><td>3.23±0.10a</td><td>0.76±0.02a</td></tr><tr><td>S1</td><td>40.3±0.6b</td><td>3.04±0.10b</td><td>0.72±0.02b</td></tr><tr><td>S2</td><td>43.0±2.0ab</td><td>3.11±0.09ab</td><td>0.73±0.02ab</td></tr><tr><td>CK</td><td>45.0±1.0a</td><td>3.14±0.03ab</td><td>0.74±0.01ab</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2土壤真菌群落结构的差异",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图4可知，定植后30 d(盐碱胁迫 20 d)，不同耐盐碱性砧木嫁接苗根际土壤真菌 DGGE 图谱无明显差异。PCA分析图中耐盐碱的砧木嫁接苗T1与T2 的散点距离较近，距离自根苗(CK)和盐碱敏感(S1、S2)较远，说明两个耐盐碱的砧木嫁接苗根际土壤真菌群落结构差异不大，但与其他处理，特别是自根苗的根际土壤真菌群落结构组成产生较大差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图5可知，在定植后40 d(盐碱胁迫30 d)，不同耐盐碱性砧木嫁接苗根际土壤真菌DGGE 图谱无明显差异。PCA分析图中耐盐碱的砧木嫁接苗T1与 T2 的散点在同一象限，盐碱敏感(S1、S2)的散点基本在同一象限，而与自根苗(CK)的散点距离比较远，说明嫁接苗与自根苗的根际土壤真菌群落结构组成存在较大差异，每个处理的3个散点位置比较集中，说明各处理重复性比较好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图6可知，在定植后50 d(盐碱胁迫 40 d)，不同耐盐碱性砧木嫁接苗根际土壤真菌 DGGE 图谱无明显差异。PCA分析图中耐盐碱的砧木嫁接苗T1与T2的散点比较集中，与盐碱敏感的 S2 基本在同一象限,S1和 S2的散点位置有一定距离，说明这2个砧木品种土壤真菌有一定差异；砧木嫁接苗与自根苗(CK)的散点距离较远，说明砧木嫁接苗与自根苗对照存在较大差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c5738a8c9ada313cd2359a885831dc523f455802953f15b80c77f76db985855.jpg",
+        "img_caption": [
+            "图4定植后 30d(盐碱胁迫 20d)不同砧木黄瓜嫁接苗根际土壤真菌DGGE 图谱(a)及其主成分分析图(b)Fig.4DGGEprofile(a)andPCAanalysis (b)of therhizosphere soilfungi of grafted cucumber with differentrootstocksafte30 days planting (2O days saline-alkali stress)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "T1 和 T2为抗盐砧木‘华砧 108'和‘神力铁木砧’，S1和 S2为盐敏感砧木‘辉太郎'和‘京欣砧6号'；CK 为黄瓜自根苗。T1 and T2 are aline-alkal-toleratccbrotstosof‘Hua8d‘Slit’；daeiaalissitieubestsf Huitailang'and‘Jingxinzhenliuhao';CK is own-root seedling of cucumber. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/16d395eac71dbef31a28ca427fb51a50eef28cfeff7a5dbad2e2f8d982f18d36.jpg",
+        "img_caption": [
+            "图5定植后40d(盐碱胁迫30d)不同砧木黄瓜嫁接苗根际土壤真菌 DGGE 图谱(a)及其主成分分析图(b)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "T1 和 T2为抗盐砧木‘华砧 108'和‘神力铁木砧’,S1和 S2 为盐敏感砧木‘辉太郎'和‘京欣砧6号'；CK 为黄瓜自根苗。T1 and T2 are salie-alkali-atubrtcsf0d‘eitiez'；dalsiiebstf “Huitailang'and‘Jingxinzhenliuhao'; CK is own-root seedling of cucumber. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9984f59fcd8b02d5481bad430ffd7a4c7f96b2ed61252b058c2c1550931222d4.jpg",
+        "img_caption": [
+            "Fig.5DGGEprofile (a)andPCAanalysis (b)of therhizosphere soilfungiof graftedcucumber withdifferentrootstocksafte 40 days planting(30 days saline-alkali stress) ",
+            "图6定植后 50d(盐碱胁迫40d)不同砧木黄瓜嫁接苗根际土壤真菌 DGGE 图谱(a)及其主成分分析图(b)",
+            "Fig.6DGGE profile (a)and PCAanalysis (b)oftherhizosphere soilfungiof grafted cucumberwith diferent rootstocksaf "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "50 days planting (40 days saline-alkali stress) T1 和T2为抗盐砧木‘华砧 108'和‘神力铁木砧',S1和 S2 为盐敏感砧木‘辉太郎'和‘京欣砧6号';CK 为黄瓜自根苗。Tland T2 are saline-alkali-tleatcucuerostosofHuaz8d‘Sitieu;deslialalsitiecubtf “Huitailang'and‘Jingxinzhenliuhao';CK is own-root seedling of cucumber. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在定植30d和40d(盐碱胁迫 $2 0 \\mathrm { d }$ 和30d)时，各处理间的条带数、Shannon-Wiener指数和均匀度指数均没有差异 $( P { < } 0 . 0 5 )$ 。在定植50d(盐碱胁迫40d)时，耐盐碱性砧木嫁接苗(T1、T2)的条带数显著高于盐碱敏感砧木嫁接苗(S2)和自根苗对照(CK） $( P { < } 0 . 0 5 )$ ；耐盐碱性砧木嫁接苗(T2)的Shannon-Wiener 指数与均匀度指数均显著高于盐碱敏感砧木嫁接苗(S1、S2)和自根苗对照(CK) $( P { < } 0 . 0 5 )$ (表2)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8dd8290f7b6959547040d61ffc9cc29322f5253ee6923a8695d7cc2791c4036.jpg",
+        "table_caption": [
+            "表2盐碱胁迫下不同耐盐碱性黄瓜砧木嫁接对不同取样时间土壤真菌DGGE图谱的条带数和多样性指数的影响Table 2Effectofrootstock varieties ofcucumberon soil fungi DGGE profile band number and diversity index at different"
+        ],
+        "table_footnote": [
+            "T1和 T2 为抗盐砧木‘华砧108'和‘神力铁木砧',S1和S2为盐敏感砧木‘辉太郎'和‘京欣砧6号';CK为黄瓜自根苗。同列同一定植后天数的数据后不同小写字母表示不同处理间差异显著 $_ { ( P < 0 . 0 5 ) }$ 。T1 and T2 are saline-alkali-tolerant cucumber rootstocks of‘Huazhenl08'and‘Shenlitieu';deaaiiistocfuldJg;CKisfcucumber.Dieetlowerstsioforteedtefldplantingeasiantdieresateogtedifferent treatments."
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">sampling times under saline-alkali stress</td></tr><tr><td>定植后天数 Days after field</td><td>处理 Treatment</td><td>条带数 Numberofbands</td><td>Shannon-Wiener指数 Shannon-Wienerindex</td><td>均匀度指数 Evenness index</td></tr><tr><td>planting (d) 30</td><td>T1</td><td>14.7±1.2a</td><td>1.45±0.16a</td><td>0.44±0.05a</td></tr><tr><td rowspan=\"8\">40</td><td>T2</td><td>15.3±0.6a</td><td>1.51±0.25a</td><td>0.45±0.08a</td></tr><tr><td>S1</td><td>13.7±1.5a</td><td>1.39±0.15a</td><td>0.43±0.04a</td></tr><tr><td>S2</td><td>12.7±1.2a</td><td>1.52±0.13a</td><td>0.42±0.05a</td></tr><tr><td>CK</td><td>14.3±1.2a</td><td>1.52±0.13a</td><td>0.46±0.04a</td></tr><tr><td>T1</td><td>16.7±0.6a</td><td>1.93±0.38a</td><td>0.55±0.11a</td></tr><tr><td>T2</td><td>17.7±2.1a</td><td>2.01±0.47a</td><td>0.57±0.13a</td></tr><tr><td>S1</td><td>17.0±2.0a</td><td>1.80±0.35a</td><td>0.51±0.10a</td></tr><tr><td>S2</td><td>17.7±1.5a</td><td>2.02±0.37a</td><td>0.57±0.10a</td></tr><tr><td rowspan=\"6\">50</td><td>CK</td><td>19.0±1.0a</td><td>1.88±0.05a</td><td>0.53±0.02a</td></tr><tr><td>T1</td><td>24.7±2.5ab</td><td>2.14±0.41ab</td><td>0.55±0.11ab</td></tr><tr><td>T2</td><td>30.7±6.8a</td><td>2.78±0.72a</td><td>0.72±0.18a</td></tr><tr><td>S1</td><td>19.7±1.2bc</td><td>2.00±0.29b</td><td>0.52±0.07b</td></tr><tr><td>S2</td><td>16.7±0.6cd</td><td>1.83±0.05b</td><td>0.48±0.01b</td></tr><tr><td>CK</td><td>11.3±0.6d</td><td>1.01±0.10c</td><td>0.27±0.02c</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2不同耐盐碱性砧木嫁接苗根际土壤微生物群落丰度的差异",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图7结果表明，随着黄瓜生长，真菌ITS 基因拷贝数呈增加趋势。在定植30d(盐碱胁迫20d)，盐碱敏感砧木嫁接苗(S1)的真菌ITS 基因拷贝数要显著低于处理及自根苗对照。在定植40d(盐碱胁迫 30d)，耐盐碱砧木嫁接苗(T2)的真菌ITS 基因拷贝数要显著高于盐碱敏感砧木嫁接苗(S1、S2)以及黄瓜自根苗对照(CK)。在定植40 d(盐碱胁迫 20 d)，耐盐碱砧木嫁接苗(T1、T2)处理的真菌ITS 基因拷贝数要显著高于盐碱敏感砧木嫁接苗(S1、S2)处理，与自根苗对照差异不显著。在定植 $3 0 { \\sim } 5 0 \\mathrm { ~ d ~ }$ ，耐盐减弱的 S1处理的真菌ITS基因拷贝数均低于其他处理及自根苗对照。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图8看出，随着黄瓜生长，细菌16SrDNA基因拷贝数呈缓慢上升趋势，在定植30d(盐碱胁迫$2 0 ~ \\mathrm { d } )$ ，自根苗的细菌16SrDNA基因拷贝数显著高于耐盐碱砧木(T1、T2)( $_ { ( P < 0 . 0 5 ) }$ ；在定植40d时(盐碱胁迫 30 d)，自根苗与耐盐碱性砧木T1、T2的细菌16S rDNA基因拷贝数要显著高于盐碱敏感砧木品种 $\\mathrm { S } 1 ( P { < } 0 . 0 5 )$ ；在定植 50d(盐碱胁迫40d)，耐盐碱砧木T1的土壤细菌数量显著高于其他处理（204号 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f5f61ced0e8049fbaf5be52993450cc8d220bc2de5edefcbcbe0dffa738fcfb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图7盐碱胁迫下不同耐盐碱性黄瓜砧木嫁接对不同取样时间土壤真菌(a)和细菌(b)群落丰度的影响g.7Effectof rootstock varieties ofcucumber on soilfungi(a)and bacteria(b)communityabundance at diferent sampl"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "times under saline-alkali stressT1和 T2 为抗盐砧木‘华砧 108'和‘神力铁木砧',S1和 S2为盐敏感砧木‘辉太郎'和‘京欣砧6号';CK为黄瓜自根苗。同一取样时间不同小写字母表示不同处理间差异显著 $_ { ( P < 0 . 0 5 ) }$ 。Tl and T2 are saline-alkali-tolerant cucumber rootstocks of‘HuazhenlO8'and‘Shenlitiemuzhen'; S1andS2aresliaalsiiebotstocsfitaladJgio;CKistdigfitlowercases letters forthe same samplingtime meansignificantdiferences atO.05 levelamong the differenttreatments.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物是土壤环境条件变化的敏感指标，土壤质量在一定程度上由土壤微生物的群落结构和多样性来反映[24]。根际土壤微生物种群数量和比例能够影响植物的生长状况和产量、土壤的健康程度以及土传病害发生的几率和危害程度[25]。土壤细菌是土壤微生物的重要组成部分，它在数量和种类上超过其他土壤有机体，并能分解各种有机物质。有研究表明，盐碱胁迫会在一定程度上破坏土壤中的微生物群落结构，降低土壤中细菌的含量[26]。真菌是常见的土壤微生物之一，可以分解纤维素、淀粉、树胶、木质素以及较易分解的蛋白质和糖类，在腐殖质的形成过程和土壤团粒的稳定作用中，发挥着重要的作用。不同砧木黄瓜嫁接苗及自根苗的根际土壤细菌与真菌DGGE图谱存在许多共同条带，表明具有这些条带基因的土壤微生物不受砧木嫁接、采样时期和盐碱处理的影响，在土壤中比较稳定，与包静[27]的研究结果一致。对土壤细菌与真菌DGGE 图谱数据化处理后进行主成分分析，结果表明,耐盐碱不同的砧木嫁接苗PCA散点距离随着盐碱胁迫时间的增加而加大，土壤微生物群落结构产生了较大差异，这与赵久成[1的研究结果相吻合。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物多样性影响土壤生态系统的结构、功能及过程，是维持土壤生产力的重要组分[28]，微生物群落结构研究中常用的指数包括均衡性指数、丰富性和多样性指数[29]。本试验研究结果发现，耐盐碱砧木嫁接苗根际土壤真菌和细菌的 Shannon-Wiener 指数与均匀度指数均显著高于盐碱敏感的砧木嫁接苗和自根苗对照，表现出不同耐盐碱砧木品种间根际土壤真菌和细菌群落结构的变化，该结果与吴凤芝等[15]的研究结果一致。前人研究表明，在盐胁迫条件下，耐盐黄瓜品种真菌 ITS 和细菌 16SrDNA 基因拷贝数基因拷贝数高于盐敏感品种，在定植后30d和50d达到显著水平 $( P { < } 0 . 0 5 ) ^ { [ 3 ] }$ 。本研究中，在盐碱胁迫条件下，随着黄瓜生长，真菌ITS 基因拷贝数呈增加趋势。在定植 $5 0 ~ \\mathrm { d }$ ，耐盐碱砧木T1、T2 的土壤真菌 ITS 基因拷贝数呈显著增高趋势，耐盐碱砧木 T1的土壤细菌16S rDNA 基因拷贝数也显著高于其他处理，表现出品种间显著差异，说明盐碱胁迫可能在一定程度上抑制土壤有机质的分解与腐殖质的形成，从而改变真菌和细菌的数量。这可能是由于耐盐碱能力不同的砧木品种根系分泌物的组成与含量不同，从而使植株根际真菌和细菌的数量产生差异，该结果与Ling等[30的研究结论具有相似性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由此可见，随着盐碱胁迫时间的增加，不同耐盐碱性砧木嫁接苗的根际土壤微生物群落结构差异逐渐显现，可能是由于盐碱成分影响了土壤理化性状以及植物根系的生长，不同植株生长受到的抑制程度不同，同时，植物根系分泌有益物质发生变化，导致土壤微生物的生长繁殖受到不同程度影响[31-32]，因此，不同耐盐碱性砧木嫁接苗土壤微生物群落结构产生了较大差异。耐盐碱的品种可能正是由于通过改善其土壤中微生物的数量及丰富度来加强自身的耐盐碱性。本试验采用荧光定量与PCR-DGGE方法相结合研究盐碱胁迫对不同砧木嫁接苗根际土壤细菌和真菌群落结构与丰度的影响，土壤真菌与细菌群落丰度和DGGE图谱条带数变化趋势基本一致，这也进一步说明两种方法的结合能够说明土壤微生物的动态变化，为黄瓜在盐碱地的优质高产提供了理论依据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]李德文，唐中华，刘英，等．黑龙江省盐碱地土壤无机碳分布特征[J].安徽农业科学,2015,43(15):85-87 Li D W,Tang Z H,Liu Y,et al.Distribution characteristicsof soil Inorganiccarbon of saline-alkaline land in heilongjiang province[J]. Journal of Anhui Agricultural Sciences, 2015, 43(15): 85-87   \n[2]路晓筠，项卫东，郑光耀，等．盐碱地改良措施研究进展[J].江苏农业科学,2015,43(12):5-8   \nLu X J,Xiang WD,Zheng G Y,etal.Research progress of the improvement measures of saline-alkali soil[J]. Jiangsu Agricultural Sciences,2015,43(12): 5-8   \n[3]赵索．不同耐盐黄瓜品种根区土壤微生态学特征的研究[D]．哈尔滨：东北农业大学,2012   \nZhao S.Research of cucumber of different cultivars varieties root zoot soil micro-ecosystem features[D].Harbin: Northeast Agricultural University, 2012   \n[4]朱进．嫁接提高黄瓜幼苗耐盐性的生理机制研究[D]．武汉：华中农业大学,2007 Zhu J.Study of physiological mechanism on grafting increasing the salt toleranceofcucumber seedlings[D]. Wuhan: Huazhong Agricultural University, 2007   \n[5]Rivero R M,Ruiz JM,Romero L.Role of grafting in horticultural plants under stress conditions[J].Food, Agriculture & Environment, 2003,1(1): 70-74   \n[6]Gamalero E，Berta G,Glick BR.The use of microrganisms to facilitate the growth of plants in saline soils[M//Khan M, Zaidi A,Musarrat J. Microbial Strategies for Crop Improvement. Berlin,Heidelberg: Springer, 2009:1-22   \n[7]Muhammad S,MulerT,Joergensen RG.Relationships between soil biologicaland other soil properties insaline and alkaline arable soils from the Pakistani Punjab[J]. Journal of Arid Environments,2008,72(4): 448-457   \n[8]Parida AK,Das AB.Salt tolerance and salinity efectson plants:Areview[J].Ecotoxicology and Environmental Safety,2005,60(3): 324-349   \n[9]Lei B,Huang Y,Xie JJ,et al. Increased cucumber salt tolerance by graftingon pumpkin rootstock and after application of calcium[J]. Biologia Plantarum,2014, 58(1): 179-184   \n[10] 张立芙．盐胁迫和黄瓜根系分泌物对土壤微生物的影响[D]．哈尔滨：东北农业大学,2009   \nZhangLF.The impactionof cucumber root exudates onsoil microbial under salt stress[D].Harbin: Northeast Agricultural University, 2009   \nLiF X,Guo Y Z,Xu X. Research progressof the microbial characteristics of saline-alkali soil[J]. Journalof Anhui Agricultural Sciences, 2011, 39(23): 14065-14067   \n[12]孔涛，张德胜，徐慧，等．盐碱地及其改良过程中土壤微生物生态特征研究进展[J].土壤,2014,46(4):581-588   \nKong T,Zhang DS,Xu H,etal.Microbial ecological characteristicsofalkaline-saline landsand its ameliorationproess: A review[J]. Soil, 2014, 46(4): 581-588   \n[13]周玲玲，孟亚利，王友华，等．盐胁迫对棉田土壤微生物数量与酶活性的影响[J]．水土保持学报，2010，24(2): 241-246   \nZhou LL,Meng YL, Wang YH,et al.Effects ofsalinity stresson coton field soil microbequantity and soil enzyme Activity[J]. Journal of Soil and Water Conservation,2010, 24(2): 241-246   \n[14]康贻军，杨小兰，沈敏，等．盐碱土壤微生物对不同改良方法的响应[J].江苏农业学报,2009,25(3):564-567   \nKang YJ,Yang XL,Shen M,etal.Response of microbial ecologicalcharacters to different methods of amelioration in saline-alkali soil[J]. Jiangsu Journal of Agricultural Sciences,2009,25(3): 564-567   \n[15]吴凤芝，包静，刘淑芹．盐胁迫对黄瓜根际土壤细菌群落结构和生长发育的影响[J]．园艺学报，,2010,37(5): 741-748   \nWuF Z,Bao J,Liu S Q.Efects of salt stress onrhizospheric soil bacterial community structure and cucumber yield[J]. Acta Horticulturae Sinica,2010,37(5): 741-748   \n[16] 赵久成．嫁接对西瓜根际土壤微生物多样性及生物学性状的影响[D]．南宁：广西大学,2014   \nZhao JC.Efect of grafting onsoil microbial diversity and biological properites inrhizosphereof watermelon[D].Nanning: Guangxi University, 2014   \n[17] 尹玉玲，周宝利，李云鹏，等．嫁接对茄子根际土壤微生物种群的化感效应[J]．园艺学报，2008，35(8)：1131- 1136   \nYin YL,Zhou BL,LiYP,etal.Alelopathic efects of graftingohizosphere microorganisms populationofeggplants[J]. Acta Horticulturae Sinica,2008,35(8): 1131-1136   \n[18]FornerJB,Alcaide A.La mejora genetica de patronesdeagrios tolerantes atristeza en Espaia: 20 anos de historia (I)[J]. Levante Agricola,1993,325: 261-267   \n[19]Fernandez-Garcia N,Martinez V,Cerd A,et al. Water and nutrient uptake of grafted tomato plants grownunder saline conditions[J]. Journal of Plant Physiology,2002,159(8): 899-905   \n[20] 赵源，吴凤芝．盐碱胁迫对不同砧木黄瓜嫁接苗生长及根区土壤酶活性的影响[J]．中国蔬菜,2014,(5):33-38   \nZhao Y,WuFZ.Efects of saline stresson growth and rhizoplane soil enzyme activities ofcucumber seedling graftedon different rootstocks[J]. China Vegetables,2014, (5): 33-38   \n[21] Muyzer G,de Waal E C,Uiterlinden A G.Profiling of complex microbial populations by denaturing gradient gel electrophoresis analysis of polymerase chain reaction-amplified genes coding for 16S rRNA[J].Applied and Environmental Microbiology, 1993,59(3): 695-700   \n[22] Gardes M,Bruns TD.ITS primers with enhanced specificity for basidiomycetes-application to the identificationof mycorrhizae and rusts[J]. Molecular Ecology,1993,2(2): 113-118   \n[23]XuYX,Wang G H,Jin J,etal.Bacterial communities insoybeanrhizosphere inresponse tosoil type,soybean genotype,and their growth stage[J]. Soil Biology and Biochemistry,2009,41(5): 919-925   \n[24] Garbeva P,van Veen JA,van Elsas JD. Microbial diversity in soil: Selectionof microbial populations by plant and soil type and implications for disease suppressiveness[J]. Annual Review of Phytopathology, 2004,42: 243-270   \n[25]吴凤芝，安美君．西瓜枯萎病抗性及其嫁接对根际土壤微生物数量及群落结构的影响[J].中国农业科学，2011, 44(22): 4636-4644   \nWu F Z,An MJ.Eects of watermelon cultivars with different resistances to Fusarium oxysporum f.sp.niveum and grafting on rhizosphere soil microorganism populationand community structure[J].Scientia Agricultura Sinica,2011, 44(22): 4636-4644   \n[26] Ibekwe A M,PossJA,Grattn SR,etal. Bacterial diversity in cucumber (Cucumis sativus)rhizosphere inresponse to salinity,soil pH,and boron[J]. Soil Biology and Biochemistry,2010, 42(4): 567-575   \n[27] 包静．盐胁迫对黄瓜根系分泌物及土壤微生物的影响[D]．哈尔滨：东北农业大学,2009   \nBao J.Efcts of salt stress on cucumber root exudates and soil microorganisms[D].Harbin:Journal of Northeast Agricultural University, 2009   \n[28]TaylorJP,Wilson B,Mils MS,et al.Comparisonof microbial numbers and enzymatic activities insurface soils and subsoils using various techniques[J]. Soil Biology and Biochemistry,2002,34(3): 387-401   \n[29]Joynt J,BischoffM,TurcoR,etal.Microbialcommunityanalysisofsoilscontaminated withlead,chromiumand petroleum hydrocarbons[J].Microbial Ecology,2006,51(2):209-219   \n[30]Ling N,Song Y,Raza W,etal.Theresponseofroot-assciatedbacterialcommunitytothegraftingof watermelo[J]. Plant and Soil,2015,391(1/2): 253-264   \n[31]吕可，潘开文，王进闯，等．花椒叶浸提液对土壤微生物数量和土壤酶活性的影响[J].应用生态学报，2006, 17(9): 1649-1654   \nLv K,Pan K W, Wang JC,etal. Efects of zanthoxylum bungeanum leaf extract on soil microbequantity and enzyme activities[J]. Chinese Journal of Applied Ecology,2006,17(9): 1649-1654   \n[32] DinkelakerB,Romheld V,Marschner H.Citricacid excretionand precipitationofcalcium citrate in the rhizosphere of white lupin (Lupinus albus L.)[J].Plant, Cell & Environment,1989,12(3): 285-292 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

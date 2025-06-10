@@ -1,0 +1,189 @@
+# DOI:10.5846/stxb201510092035
+
+段亮亮,满秀玲,俞正祥,刘玉杰,朱宾宾.森林干扰对大兴安岭北部森林小流域径流情势的影响.生态学报,2017,37（5)：1421-1430.DuanLL,ManX，uZX,Lu,Zusfsisbcoosfalfresaeilig，China.Acta Ecologica Sinica,2017,37(5）:1421-1430.
+
+# 森林干扰对大兴安岭北部森林小流域径流情势的影响
+
+段亮亮，满秀玲\*，俞正祥，刘玉杰，朱宾宾东北林业大学，哈尔滨150040
+
+摘要：为了解大兴安岭森林流域水文过程对森林干扰的响应,利用近配对流域方法,排除了气候变量的时空差异,对比研究了森林干扰后大兴安岭北部典型森林小流域( $< 1 0 0 \ \mathrm { k m } ^ { 2 }$ )洪峰径流(High flow）和枯水径流（Low flow)径流情势（Flow regimes）的变化趋势。结果表明,森林干扰对枯水径流情势影响显著,与对照流域(小北沟流域)相比,森林干扰(占流域总面积的 $6 . 7 4 \%$ )使老沟河流域平均枯水径流流量降低了 $2 6 . 5 8 \%$ ,平均枯水径流变异系数值增加了 $3 6 . 7 7 \%$ ，并且差异达到极显著水平( $P { < } 0 . 0 1 \ \mathrm { \ i }$ 。另一方面,森林植被的干扰相对增加了森林小流域的洪峰流量、历时和变异性,但与对照流域相比差异均未达到统计显著水平,说明小面积的森林植被干扰未能引起流域洪峰径流情势的显著变化。进一步对配对流域的径流浮动系数（Flashines Index)的分析发现,森林干扰显著增加了森林小流域的径流浮动性,研究时段内干扰流域的径流浮动系数为0.078,是对照流域（0.057)的1.37倍。大兴安岭北部森林小流域的天然径流情势（Naturalflow regimes）对森林干扰比较敏感,在与水文循环联系紧密的区域（例如河岸带),小范围的森林干扰便可以引起径流情势的显著变化,这在未来该地区森林和水资源的管理中需要特别注意。
+
+关键词：径流情势;森林干扰；枯水径流;洪峰径流
+
+# The effects of forest disturbance on flow regimes of a small forested watershed in northern Daxing'anling， China
+
+DUAN Liangliang，MAN Xiuling\*，YU Zhengxiang，LIU Yujie，ZHU Binbin College of Forestry，Northeast Forestry University，Harbin 15O040,China
+
+Abstract：The natural flowregimesof rivers havebeenthreatened byclimate changeand increased humanactivities，which could consequentlyaffecttheirheathand integrity.Forestdisturbanceandclimatevariabilityaretwoof themostcritical drivers afecting hydrological processesin forested watersheds.Despitean increasedunderstandingof therelationship between climate changeand flow regimes,，few investigations havebeenconductedonhow forest disturbance influences flow regimes.Moreover，existing researches have notaccounted fortheeffects of climatevariabilityon flow regimeswhen assessing theefects offorest disturbance.In the present study，the paired watershedsapproach，which canaccount for temporal and spatial variations of climate，was applied to a typical small forested watershed( $< 1 0 0 ~ \mathrm { k m } ^ { 2 }$ ）in northern Daxing'anlingto investigatetheefectsofforest disturbanceonflowregimes.Theresultsshowedthatlow-flowregimes were more sensitive than high-flow regimes to forest disturbance.Even though the area offorest disturbance was only $6 . 7 4 \%$ of the total watershed area（Laogouhe watershed），the average magnitude ( $0 . 4 7 ~ \mathrm { m m }$ ）of low flows was lower by $2 6 . 5 8 \%$ and the average variability（O.39）of low flows was higher by $3 6 . 7 7 \%$ than those of low flows（ $0 . 6 0 \ \mathrm { m m }$ and 0.28,respectively）in the control watershed（Xiaobeigou watershed）.Besides，thedifferences inlow flowmagnitudeandvariabilitybetween he paired watersheds were statistically significant （ $P { < } 0 . 0 1$ ).In contrast，the magnitude，duration，and variability of high flowsin hedisturbed watershed were greater thanthoseinthecontrolwatershed,butnostatistical significance was found, sugesting thatthesmallforestdisturbancedidnotsignificantlyafect theflowregimesof highflowsinthestudyregion. Basedontheresultsof theflashiness index，theflashinessofflows was significantlyincreasedbyforestdisturbance.The flashinessindex inthedisturbed watershed wasO.O78duringthe whole studyperiod,whichis1.37timeslargerthanhatof thecontrolwatershed（O.O57).Theseresults indicatethatthenaturalflowregimesofsmallforested watersheds innorthern Daxing'anlingaresensitiveto forestdisturbance.Sincesmallscaledisturbanceinthestudyareacan lead to significant changes in flow regimes，more focus should be applied to forest disturbance and water resources in future management.
+
+Key Words:flow regimes； forest disturbance；low flow；high flow
+
+径流情势,包括流量、历时、时机、频率以及变异性,能够反映诸如洪峰和枯水径流等特定水文事件特征[1],稳定的径流情势对维持水生生物多样性和河流生态系统功能完整性至关重要[2-3]。
+
+气候变化和森林干扰是森林流域径流改变的两大驱动因素[4],对径流情势的改变也起着关键作用[5]。气候变化,通过降水和气温的改变直接影响流域的水分输入和蒸散发,从而影响流域径流情势[6]。例如,在伊朗 Karkheh 河流域,Masih等发现,1961—2001年间降水量的变化是径流情势改变的主要原因,4月和 5月降水的降低引起枯水径流的降低,而冬季洪峰流量的增加也是由于降水增加引起的。另一方面,在森林流域,森林干扰通过改变诸如林冠截留,土壤水分渗透以及蒸散发直接影响流域径流情势[8]。在智力La Reina流域, $7 9 . 4 \%$ 的森林全部皆伐以后,年均径流增加了 $1 1 0 \%$ ,而平均洪峰径流量增加了 $3 2 \% ^ { [ 9 ] }$ 。Zhang 和$\mathrm { \mathbb { W } e i } ^ { [ 1 0 ] }$ 对加拿大 British Columbia 省 Baker Creek 流域森林干扰前后的洪峰径流和枯水径流情势的研究发现,与对照期(1964—1990）相比，森林干扰期（1990—2009)洪峰径流和枯水径流流量分别增加了 $3 1 . 4 \%$ 和$1 6 . 0 \%$ ,同时,森林干扰使洪峰径流年内的发生时机显著提前,使洪峰径流发生频率以及变异性明显增加,而枯水径流的变异性明显降低。Schnorbus 和 Alila[11]对比加拿大Redfish 流域森林采伐前后的洪峰流量发现，当采伐区域的海拔高度在流域海拔高度的 $6 0 \%$ 以上时,洪峰流量才会出现显著( $\alpha = 0 . 0 5$ )变化，在1.25—100a的重现期内,每小时和每天的洪峰变化量分别在 $6 \%$ 一 $14 \%$ 和 $5 \% - 1 4 \%$ 之间。
+
+尽管以上的研究在气候变化和森林干扰与森林流域径流情势的关系方面做出了贡献,但大多没有考虑气候变化和森林干扰对径流情势产生的交互效应。尤其在森林干扰与径流情势关系的研究中,干扰的不同时期,降水和空气温度等气象因素的时空差异会对径流情势造成影响[6],影响森林干扰与径流情势关系研究的可靠性。移除森林流域气候的时空差异对径流情势的影响,研究森林干扰与森林流域径流情势的关系面临较大挑战。近配对流域方法,以两个拥有相似流域特征和气候条件但经历不同森林干扰的相邻森林小流域（ $< 1 0 0 \ \mathrm { k m } ^ { 2 }$ )为研究对象,以没有森林干扰的流域为对照,研究同一时期内森林干扰对研究流域水文过程产生的影响,可以有效的剔除气候的时空差异,广泛的应用于植被变化所引起的水文过程改变的研究中[12-13],同时为森林干扰与径流情势关系的研究提供了一个有效的途径。
+
+大兴安岭是我国境内唯一寒温带明亮针叶林区，森林覆盖率在 $70 \%$ 以上。虽多年平均降水量不高（500mm 左右),但是区域内水系发达,河网密布,这与森林的水源涵养功能密切相关[1415]。森林干扰会导致蒸散发降低以及径流系数的增加,可能在短期内增加地表径流量。然而森林干扰后林冠截留量减少,枯枝落叶层变薄以及土壤结构的破坏会导致土壤侵蚀量增加[16],土壤持水能力降低,从而破坏森林涵养水源,消洪补枯的能力,增加洪水和干旱等极端水文事件的发生频率[17]。并且由于地处高寒地区,土层薄,植物群落演替过程缓慢,植被一旦遭到破坏,很难恢复。所以,揭示森林干扰与水文过程的关系,对大兴安岭地区森林管理和水资源的可持续利用具有重要意义。本文利用近配对流域方法,以大兴安岭北部典型森林小流域,老沟河流域（干扰流域， $9 9 . 2 3 ~ \mathrm { k m } ^ { 2 }$ )和小北沟流域(对照流域， $6 6 . 4 4 ~ \mathrm { k m } ^ { 2 }$ )为研究对象。研究由于金矿开采造成的老沟河流域森林植被干扰对径流情势的影响，以期揭示大兴安岭森林变化与水文过程的关系，为大兴安岭地区森林和水资源管理以及区域生态安全保护提供理论支持。
+
+http://www.ecologica.cn
+
+# 1 研究地概况
+
+研究地区位于黑龙江省大兴安岭北部(图1),地形以低山丘陵为主,坡度平缓,海拔550— ${ \bf \nabla } \cdot 7 9 1 \textrm { m }$ 。该区属于寒温带季风气候,根据漠河气象站的资料显示,1959—2012年年均降水量为 $4 3 3 . 5 7 ~ \mathrm { { m m } }$ ,多集中在6—9月，年均气温为 $- 4 . 2 9 ^ { \circ } \mathrm { C }$ ,年均最高气温 $4 . 3 1 \mathrm { { ^ { \circ } C } }$ ,年均最低气温 $- 1 1 . 8 1 ^ { \circ } \mathrm { C }$ ,年均日照时数 $2 4 2 6 . 9 7 \textrm { h }$ ,年均风速1.92$\mathrm { m / s }$ ,年均相对湿度 $7 0 \%$ 。地带性土壤为棕色针叶林土,土层厚度在15— $\cdot 4 0 \ \mathrm { c m }$ ,并有永冻层存在。森林植被属于泛北极植物区欧亚植物亚区大兴安岭植物区系,地带性植被类型为寒温性明亮针叶林，以兴安落叶松（Larix gmelinii)为优势种,其它乔木树种有樟子松（Pinus sylvestris var.mongolica）、白桦（Betula platyphylla）和山杨(Populus davidiana）等。
+
+# 2研究方法
+
+# 2.1 流域选择
+
+本研究在前期大量踏查的基础上,选择2个具有相似地形特征的典型森林小流域作为配对流域,即老沟河流域和小北沟流域(图1）。其中老沟河流域(Laogouhe watershed，LGH)是典型的干扰流域,该流域由于历史上的金矿开采,导致了河岸森林植被以及土壤结构较大面积的破坏,形成了沿河床两侧典型的干扰区域。根据 2013 年遥感影像（图1,取自google map 2013年2月)计算流域的总干扰面积为 $6 . 6 9 \ \mathrm { k m } ^ { 2 }$ ,占流域总面积的 $6 . 7 4 \%$ 。小北沟流域(Xiaobeigou watershed，XBG)为对照流域,流域森林植被未受干扰。结合现场踏查和2013 年国家林业资源二类调查数据,将配对流域具体特征整理于表1。配对流域的地貌特征、植被情况和土壤类型基本一致,可以排除其对径流情势造成的影响。除了以上干扰因素外,多年永久冻土的空间分布差异也会对多年冻土区河流径流情势产生显著的影响[18-19]。配对流域均处于兴安-贝加尔多年冻土区的连续多年冻土区内[20],多年冻土分布状况一致,可以排除由于多年冻土分布差异的影响。
+
+![](images/41e69d51cce1db3e888f26de02091fa3fcb417e3cf074e3a7f0a4fe21164cb9b.jpg)  
+图1配对流域地理位置及老沟河流域干扰情况  
+Fig.1The location of paired watersheds and the disturbance in Laogouhe watershed
+
+表1配对流域特征  
+Table1 Characteristics of the paired watersheds   
+
+<html><body><table><tr><td>流域 Watersheds</td><td>流域面积 Area /km²</td><td>海拔 Elevation /m</td><td>树种组成 Composition of</td><td>郁闭度 Canopy density</td><td>土壤类型 Soil type</td></tr><tr><td>老沟河流域 LGH</td><td>99.23</td><td>600—791</td><td>Tree species 6落3白1山-樟</td><td>0.6</td><td>棕色针叶林土</td></tr><tr><td>小北沟流域 XBG</td><td>66.44</td><td>550—779</td><td>6落3白1山+樟</td><td>0.6</td><td>棕色针叶林土</td></tr></table></body></html>
+
+LGH：Laogouhe watershed；XBG：Xiaobeigou watershed
+
+# 2.2 数据收集
+
+在所选的2个森林小流域下游,选择河道窄、河岸规整的断面布设水位自记仪（Onset HOBO U20-001-04型)（简称为R1，R2），记录间隔设为 $3 0 ~ \mathrm { m i n }$ 。观测时段为2014年5月7日至2014年10月7日，有连续5个月的水位数据。通过绘制水位-流量关系曲线,得到观测期内连续流量数据。根据 $0 . 5 \mathrm { ~ h ~ }$ 连续流量数据计算得到逐日径流量,并根据流域集水区面积的大小,将逐日径流转换为流域径流深。由于地形和地域差异导致的降水空间异质性会影响流域的水文过程[21]。本研究中,配对流域的地形差异不大,且流域面积较小( $< 1 0 0$ $ { \mathrm { k m } } ^ { 2 }$ ),降水的空间异质性较小。为了降低降雨的观测误差,将降雨自计仪（Onset HOBO RG3-M)设置于配对流域中间位置的林外（简称P1)。并在正文中通过绘制配对流域日径流量的双累积曲线(Double Mass Curve）来检验降雨观测的可靠性。
+
+# 2.3 研究指标的确定
+
+洪峰径流和枯水径流是2个重要的水文变量,反映河流水资源状况和水文过程[22]。流量过程曲线反映某一时期内等于或超过某一径流值的累计频率,被广泛的用来定义洪峰径流和枯水径流[13.23],本研究中,洪峰径流定义为等于或超过流量过程曲线上 $5 \%$ 频率的径流值,枯水径流定义为等于或低于流量过程曲线上95%频率的径流值[10,24]。
+
+本研究选径流情势中的流量、历时和变异性3个指标来研究洪峰及枯水径流的径流情势。其中,流量为发生洪峰径流和枯水径流时每天的流域径流深( $\mathbf { \dot { \Omega } } _ { \mathrm { m m } } \mathbf { \dot { \Omega } } ,$ ，历时为发生洪峰径流和枯水径流的总时间（h），变异性为洪峰径流和枯水径流流量与平均径流深之间的差值绝对值( $\mathbf { \chi } _ { \mathrm { m m } } )$ /平均径流深( $\mathrm { { ' } } \mathrm { { m m } }$ )。为了揭示配对流域以上3个指标间的差异性,分别对其绘制box-plot图,并进行了非参数Mann-Whitney $\mathrm { ~ U ~ }$ 差异性检验。同时在变异性中引入径流浮动系数（Flashiness Index）[25],将整个研究时段按涨水和落水分为3个涨水时段和3个落水时段,分别计算每个时段以及整个研究时段的径流浮动系数,径流浮动系数的计算见公式（1)。
+
+$$
+{ \mathrm { F I n d e x } } = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } \left| q _ { i } - q _ { i - 1 } \right| } { \displaystyle \sum _ { i = 1 } ^ { n } q _ { i } } }
+$$
+
+式中， $q$ 为日径流深,i为时间， $q _ { i }$ 表示第 $i$ 天的径流深， $n$ 为研究时段的总天数。
+
+# 3结果与分析
+
+# 3.1 配对流域径流量特征
+
+双累积曲线通过绘制两个水文变量的累积值曲线，检测2个变量在研究时段内变化趋势的一致性[26]以及研究时段内干扰对2水文变量的影响[27]。本研究中双累积曲线首先被应用在配对流域全年的日径流深。由于研究时段内配对流域没有受到明显干扰，一旦双累积曲线出现明显拐点，那么可能是配对流域的流域特征存在显著差异，或者是配对流域在观测时段内降雨量存在显著差异，说明配对流域选择不合理。从图2可见，配对流域的累积日径流深在整个研究时段内呈现出极显著的线性关系（ $P <$ 0.000），没有出现明显的拐点，说明配对流域选择合理，配对流域的日径流深的变化趋势基本一致。
+
+从图3可见，配对流域均属于降雨主导型的森林小流域。与双累积曲线的结果相似，研究时段内，配对流域对降雨的响应比较一致,春季第1次较大降雨之前(5月20日)2流域均处于枯水期,伴随着第1场大雨（降雨量 $3 0 . 6 0 \ \mathrm { m m }$ ),配对流域形成了第1次洪峰,老沟河流域(干扰流域)和小北沟流域(对照流域)径流深分别从降雨开始前的 $0 . 6 7 ~ \mathrm { m m }$ 和 $0 . 7 2 ~ \mathrm { m m }$ 增加至洪峰值 $1 . 6 0 \ \mathrm { m m }$ 和 $1 . 5 3 ~ \mathrm { m m }$ 。尽管本次降雨量不大,但是流域的径流量短时间内大幅升高并形成洪峰,可能是由于前期冬季积雪融水大量储存在冻土溶解后的活动层中,增加了土壤水分饱和度,提高了降雨过程中的径流系数[28],从而使本次降雨快速形成了洪峰过程。本次持续降雨过后,洪峰逐渐消退,老沟河流域径流量降幅要明显高于小北沟流域,2流域在夏季最大的降雨过程前出现径流量的低点,分别为 $0 . 5 3 ~ \mathrm { m m }$ 和 $0 . 6 7 ~ \mathrm { m m }$ 。而随着夏季最大降雨（7月8日单日降雨量 $4 2 . 4 \ \mathrm { m m } ^ { \cdot }$ )之后出现全年的最大洪峰,老沟河流域和小北沟流域洪峰径流深分别为 $1 . 8 7 ~ \mathrm { m m }$ 和 $2 . 1 2 ~ \mathrm { m m }$ ,此次洪峰之后径流量随着降雨量的逐渐减小而降低,并在9月份进入秋季枯水径流期。从全年配对流域对降雨的响应来看,老沟河流域在经历枯水期(春季和秋季)后对降雨的响应更显著,例如6月7日,7月4日以及8月27日降雨后老沟河流域径流深 $( 1 . 1 0 , 1 . 4 0 , 1 . 0 5 \ \mathrm { m m } )$ 分别较小北沟流域径流深 $( 1 . 0 3 , 1 . 2 2 , 0 . 8 4 \ \mathrm { m m } )$ 高 $5 . 9 2 \%$ ， $1 4 . 3 2 \%$ 及$2 5 . 1 7 \%$ 。而在退水期以及枯水期,老沟河流域的径流深均低于小北沟流域。
+
+![](images/9f470f80ad8103b069bd3e63e00d12ed1386bea3f4f923464a2658bc3d242e9c.jpg)  
+图2老沟河流域与小北沟流域日径流量双累积曲线及其线 性回归关系 Fig.2Double mass curve of cumulative dailyflowsXiaobeigou watershed versus Laogouhe watershed with the best-fitted linear regression
+
+![](images/5425698cfad12acb74e4abd8c28ddb76316bd48c02820498a4da71a18b31f17d.jpg)  
+Fig.3The relationship between the daily flows of paired watersheds and precipitation
+
+# 3.2配对流域洪峰、枯水径流流量特征
+
+首先绘制配对流域的流量过程曲线，从图4可知，在超过流量过程曲线上累积 $3 0 \%$ 频率径流量的区间上配对流域的径流量比较接近，而在低于 $30 \%$ 频率径流量的区间内，老沟河流域(干扰流域)的径流量要明显低于小北沟流域（对照流域），说明森林干扰显著降低流域的枯水期径流量，而对丰水期径流量的影响较小。
+
+进一步在流量过程曲线上确定洪峰流量和枯水径流流量，并进行对比研究。从图5可见，干扰流域和对照流域洪峰流量平均值分别为 $1 . 5 4 ~ \mathrm { m m }$ 和 $1 . 5 5 \ \mathrm { m m }$ ,差异不显著( $P = 0 . 6 0 \$ )。而枯水径流差异明显，干扰流域的枯水径流流量明显低于对照流域，干扰流域的平均值( $0 . 4 7 ~ \mathrm { m m }$ )比对照流域( $\mathrm { ' } 0 . 6 0 \ \mathrm { m m } \mathrm { \cdot }$ 低 $2 6 . 5 8 \%$ ,并且，最高值、最低值以及中位数均有相似的趋势。根据非参数 Man-WhitneyU差异性检验的结果可知,枯水径流流量间存在极显著差异( $\scriptstyle { \big ( } P < 0 . 0 1 { \big ) }$ 。
+
+![](images/d3625ec105ae6c96895eecd6f5737bce0682d9b0640ea4fab6390836be1bd779.jpg)  
+图3研究时段配对流域径流过程与降雨量的关系  
+图4近配对流域日径流流量过程曲线  
+Fig.4Daily flow duration curves for the paired watersheds
+
+# 3.3配对流域洪峰、枯水径流历时特征
+
+以 $0 . 5 \mathrm { ~ h ~ }$ 为步长对配对流域的洪峰径流和枯水径流历时进行统计。结果显示,森林干扰显著提高了洪峰径流历时，研究时段内干扰流域洪峰径流历时( $2 0 2 . 5 \mathrm { ~ h ~ }$ )较对照流域( $1 6 3 . 0 \mathrm { ~ h ~ } \$ )提高了 $3 9 . 5 \mathrm { ~ h ~ }$ 。但干扰流域的枯水径流历时( $\mathrm { 1 4 8 . 5 ~ h } ^ { \cdot }$ )显著降低，较对照流域( $\mathrm { 1 8 5 . 5 ~ h }$ 低 $3 7 \mathrm { ~ h ~ }$ 。以7月8日至7月13日研究时段内最大的洪峰过程为例,对比了配对流域在洪峰过程中的洪峰径流历时差异。由图6可见,干扰流域在强降雨后从洪峰径流阈值到洪峰峰值用时( $\left| 1 0 . 5 \mathrm { ~ h } \right.$ 明显小于对照流域 $\left( 1 8 . 0 \mathrm { h } \right)$ ，而干扰流域的退水过程要略长于对照流域，分别用时 $6 0 . 5 \mathrm { ~ h ~ }$ 和 $5 2 . 5 \mathrm { ~ h ~ }$ ，以后开始降低至各自洪峰径流阈值以下。可见森林干扰降低了流域洪峰产流对降雨的响应时间,但是洪峰的消退时间有所增加。
+
+![](images/75c15d0e8cfd4950efb8a237e4f496789be9a91ca4194ad75661725fc010dd07.jpg)  
+Fig.5Themagnitude of highand low flows for thepaired watershedsand theresults of Mann-Whitney U
+
+![](images/02239722ce727ec6dbbc283e9b1aa40db009ecf8cc52d31634cb76a26d1ae49f.jpg)  
+图5近配对流域洪峰、枯水径流流量及Mann-WhitneyU检验结果  
+图6配对流域洪峰径流历时特征分析——以2014-7-8日至2014-7-12日洪峰过程为例  
+Fig.6Theanalysisof high flow durationcharacteristicsfor thepaired watersheds from2014-7-8 to2014-7-12
+
+3.4配对流域洪峰、枯水径流变异性特征
+
+由图7可知,干扰流域洪峰径流变异系数略大于对照流域,其平均值分别为0.99和0.86,但是差异没有达到统计显著水平( $P { = } 0 . 1 2 5 \rangle$ ）,森林干扰虽然提高了流域洪峰径流的变异性,但是效果并不显著。另一方面,干扰流域的枯水径流变异性显著提高(图7),干扰流域枯水径流变异系数的平均值和中位数分别为0.39 和0.38,与对照流域相比,分别增加了 $3 6 . 7 7 \%$ 和 $3 6 . 9 9 \%$ ,并且差异性达到了统计极显著水平( $P { < } 0 . 0 1 \rangle$ 。枯水径流变异系数的大幅增加,说明其对森林干扰更加敏感,森林干扰使枯水期径流量大幅度偏离年均径流量。
+
+为了进一步探究配对流域河川径流在研究时段内的变异性,本文引入径流浮动系数。浮动性由径流变化率表示,浮动性大的径流有较快的径流变化率,而稳定的径流有比较慢的径流变化率[1]。本研究中,整个研究时段划分为3个涨水时段和3个落水时段,分别计算不同时段和全年的径流浮动系数（图8）。结果表明（表2）,森林干扰使老沟河流域的径流浮动系数显著增加,所有涨水时段和落水时段的径流浮动系数均明显大于对照流域。其中以枯水期,即时段Ⅱ的差异最为明显,干扰流域时段Ⅲ涨水浮动系数(0.160)是对照流域(0.074)的2.15倍,落水浮动系数(0.049)是对照流域(0.029)1.71倍。并且,干扰流域整个研究时段的径流浮动系数(0.078)明显大于对照流域(0.057）。
+
+![](images/41a449576f39dadbf9256bb2e6c75f79f4664dcd8d9bdc579a26f4fdc2b0b8da.jpg)  
+图7近配对流域洪峰、枯水径流变异性及Mann-WhitneyU检验结果
+
+![](images/6e6ba0119d28400f5c30dc82f45bfef58e67ad8fe65d7d9f1fec39c311fb0beb.jpg)  
+图8配对流域涨水、落水时段划分示意图
+
+Fig.8Schematic diagramof dividingof rising and recessionphases for thepaired watersheds inthe studyperiod
+
+表2配对流域不同时段径流浮动系数  
+Table 2Flashiness index of different phases for the paired watershed:   
+
+<html><body><table><tr><td rowspan="2">研究时段 Study period</td><td colspan="2">老沟河流域LGH</td><td colspan="2">小北沟流域 XBG</td></tr><tr><td>涨水浮动系数</td><td>落水浮动系数</td><td>涨水浮动系数</td><td>落水浮动系数</td></tr><tr><td>I</td><td>0.086</td><td>0.069</td><td>0.078</td><td>0.052</td></tr><tr><td>Ⅱ</td><td>0.243</td><td>0.044</td><td>0.174</td><td>0.037</td></tr><tr><td>Ⅲ</td><td>0.160</td><td>0.049</td><td>0.074</td><td>0.029</td></tr><tr><td>均值 Average</td><td>0.163</td><td>0.054</td><td>0.109</td><td>0.039</td></tr><tr><td>全研究时段 The whole study period</td><td>0.078</td><td>0.057</td><td></td><td></td></tr></table></body></html>
+
+# 4讨论
+
+4.1森林植被干扰对枯水径流情势的影响研究发现,老沟河流域森林植被干扰引起了流域枯水径流情势的显著变化,平均枯水径流流量降低了
+
+$2 6 . 5 8 \%$ （相对于对照流域），枯水径流变异性平均值增加了 $3 6 . 7 7 \%$ （相对于对照流域)，并且与对照流域之间均存在极显著差异( $P { < } 0 . 0 1 )$ 。 $\mathrm { L i u } ^ { [ 2 4 ] }$ 等研究发现,1968—1984年与1957—1967 年相比,梅江流域 $10 \%$ 左右森林覆盖率的降低导致了枯水径流流量降低了 $3 0 . 1 \%$ ,变异性增加了 $3 . 2 \%$ 。Gebrehiwot[29]等人对埃塞俄比亚Koga 流域( $2 6 6 ~ \mathrm { k m } ^ { 2 }$ )的研究表明,1957 年至1986 年森林覆盖率从 $1 6 \%$ 降低至 $1 \%$ ,在森林覆盖率降低后,流域的枯水径流出现明显的降低。同时,也有研究得到相反的结论,例如,Zhang 和Wei[1]在加拿大 BritishColumbia省 Baker Creek 流域发现,森林干扰期(1990—2009)的平均枯水径流流量比对照期（1964—1990）显著增加了 $1 6 . 0 \%$ ,而枯水径流的变异系数从未干扰时期的0.12 减小至森林干扰期的 $0 . 0 6$ 。相似的结论也在其他流域被发现[30-31]。可见森林干扰对流域枯水径流情势的影响在不同流域存在较大差异。
+
+Penna[32]等研究表明,枯水期河川径流的补给主要来自于水分饱和状态下的河岸带。本研究中,尽管森林植被干扰面积不大（占流域总面积 $6 . 7 4 \%$ )，但是干扰区域主要集中在河岸。一方面由于森林植被的减少林冠截留和枯落物蓄水作用会明显降低[334],在降雨过程中更多的降雨以地表径流方式补充到河川径流,而对深层土壤和地下水系统的补给相对较少[35]。另一方面,森林植被干扰破坏了河岸土壤结构,由于地处季风气候区,夏季的强降雨对河岸造成了一定程度的侵蚀,土壤渗透性和持水能力明显降低[36],使枯水期坡面的壤中流无法补给河川径流，从而导致了干扰流域枯水径流流量显著( $P { < } 0 . 0 1 \ \cdot$ )降低，变异性显著( $\scriptstyle P < 0 . 0 1 { \mathrm { ~ } } )$ 升高。但是在森林植被十扰以后,如果土壤只受到微弱的破坏，土壤持水能力没有受到影响,森林植被的十扰降低流域蒸散发总量以及林冠截留量,从而使流域土壤水分增加,进而会增加枯水径流流量[23]。总之,枯水径流情势的变化受到森林干扰程度,干扰区域的不同而异,未来的研究中需要根据干扰的具体情况来分析枯水径流情势改变的原因。
+
+# 4.2森林植被干扰对洪峰径流情势的影响
+
+本文研究发现,配对流域洪峰流量十分接近,尽管干扰流域的洪峰径流历时和变异性均大于对照流域,森林植被的干扰在一定程度上增加了流域洪峰历时和变异性,但是差异没有达到统计显著水平。前人的研究表明,森林植被的干扰增加洪峰流量[9,37-38]、历时[24]和变异性[10,24],但是由于干扰面积以及干扰区域的不同存在显著的差异。通常,洪峰流量随着森林干扰面积的增加和干扰程度的加剧而增加[39],但是由于流域特征和洪峰径流产流机制的不同,其对森林干扰的响应在不同流域间差异明显[40]。在加拿大 British Columbia 省内的源头流域，直到皆伐面积增加到 $20 \%$ 至 $30 \%$ 之前，洪峰流量的增加都不显著,并且洪峰流量随着皆伐区域海拔的降低而逐渐增加[37]。在江西省梅江流域,自1950 年至1972年,森林覆盖率降低了 $1 1 . 2 \%$ ,使洪峰流量显著增加了 $1 0 . 4 \%$ ,洪峰发生时机明显提前[24]。通过配对流域法,Jones 和 $\mathrm { G r a n t } ^ { [ 3 9 ] }$ 发现 $2 5 \%$ 的皆伐能够引起$5 0 \%$ 洪峰流量的增加。本研究中,洪峰径流情势没有发生显著改变,可能是由于森林干扰面积相对较小,而流域的面积相对较大,流域弹性较好[41],减弱了森林干扰对流域洪峰径流的影响。另一方面,洪峰的发生一般伴随较大的降雨过程,大量研究表明,随着降雨强度的增加林冠截留率降低[14,42-43]、枯枝落叶层和土壤水分迅速饱和[34,42],此时河川径流主要来源于坡面产流,而不是地势较低的河岸带[32]。本研究中,森林干扰主要集中在河岸区域,所以对洪峰径流情势影响较小。
+
+# 5结论
+
+(1)通过配对流域方法研究大兴安岭森林小流域植被干扰对径流情势的影响。研究发现,大兴安岭森林小流域枯水径流情势对森林干扰十分敏感,尽管森林干扰面积较小,占流域总面积的 $6 . 7 4 \%$ ,但是相对于对照流域森林干扰后平均枯水径流流量降低了 $2 6 . 5 8 \%$ ,枯水径流变异性平均值增加了 $3 6 . 7 7 \%$ 0
+
+(2)森林植被的干扰一定程度上增加了森林小流域的洪峰径流流量、历时和变异性,但均未达到统计显著水平,说明小面积的森林植被干扰（占流域总面积的 $6 . 7 4 \%$ )未能引起该地区洪峰径流情势的显著变化。
+
+# 参考文献（References）：
+
+[1]PoffNLlanJD,BainMB,KarJR,PrestegardKL,RichterBD,SparksRE,StrombergJC.Thenaturalflowregie.Bicice,
+
+http://www.ecologica.cn
+
+[2]HartDDneliiaalplgirshsitsfotaAalevSystematics，1999，30(1）:363-395.  
+[3]BuSE，ArthingtonAH.BasicprinciplesandeologcalconsequencesofalteredflowregiesforaquaticbiodiversityEnviotalManagement，2002，30(4）：492-507.  
+[4]WeiXH，ZhangMF.Quantfyingstreamflowchangecausedbyforestdisturbanceatalargespatiacale：asinglewatershedstudyWaterResources Research,2010,46(12):W12525.  
+[5]YangZ,ZouY，WegerJ,UebrokSecausesofregiessithesiaridHailutuRiverrthestCina.HdroEarth System Sciences，2012，16(1)：87-103.  
+[6]SchneiderC,LaizéCLR,AcranMC,FrkM.HowillliatechangemodifyriverfloegiesinEropeHydrologndEarthSysteSciences，2013，17(1)：325-339.  
+[7]MasihIUenbokSaskeySatinVtreamfloredsndiatelinkagesineZgosoutans,ranClaticag，,104(2) : 317-338.  
+[8]BruijlLdrolcalcisftroalts：tgeiluos&vit(1):185-228.  
+[9]IrouméA,aOHberunoffdakfespotbrestdfrestioutCile.Hroalr,20(1) 37-50.  
+[10]ZhangMF，WeiXH.lteratioflesauedyargescaleforstdstubaedrolagewatesdinteiofBritish Columbia,Canada.Ecohydrology，2014,7(2）： 544-556.  
+[11]SchnorbusM,lilaY.ForestharvetingimpactsonthepeakflowregieintheColumbiaMountainsofsoutheasteBritishCoubiaaninvestigation using long-term numerical modeling.Water Resources Research,2004,40(5）：W05205  
+[12]BoschJeweJDeveofctexperitseteictofgetatiohagsoateredndeaotasoJournal of Hydrology，1982,55(1/4）： 3-23.  
+[13]BrownAE,ZhangL,MaonTA，WesteAW,VertesyRA.Areviewofpairedcatchmenstudiesfordeteiningchangesinteredresulting from alterations in vegetation.Journal of Hydrology，2005，310(1/4）：28-61.  
+[14］李奕，满秀玲，蔡体久，盛后财.大兴安岭山地樟子松天然林土壤水分物理性质及水源涵养功能研究.水土保持学报，2011,25（2）：87-91, 96-96.  
+[15］田野宏，满秀玲,李奕，盛后财,段亮亮.大兴安岭北部天然次生林枯落物及土壤水文功能研究.水土保持学报,2013，27(6)：113-118,129- 129.  
+16]aaACcodlelilof forest management.Forest Ecology and Management，2003，180(1/3）：361-374.  
+[17]RobinsonM,Cognard-PlancqAL,CosandeyC,DavidJ,DurandP,FuhrerHW,HallR,HendriquesMO,MarcV,MCarthyR,MDoelM，MrtinC,isbetT,O'DeaP，RodgersMZolerA.tudiesofteimpactofforestsonpeakflowsandbaseflows:aEuropeanperspective.Forest Ecology and Management，2003，186(1/3）：85-97.  
+[18]YeBS，YangDQ，ZangZL，aneD.VariationofhydrologicalregimewithperafrostcoverageoverLenaBasininSiberiaJoualfGeophysical Research-Atmospheres，2009,114：D07102  
+[19] Woo MK,KaneS,angrgsinaroshilrsdra,19(2) : 237-254.  
+[20]WeiZ,JinHJ,ZhangJM,YS,HanXJ,JYJ,HeRX,ChangXL.PredetionofpermafrosthangesinNortheasterChinaerachanging climate. Science China Earth Sciences，2011,54(6): 924-935.  
+[21]LuceCazgoHenZsingmoaintelowstelieeasegacathtUSA.Science，2013，342(6164)：1360-1364.  
+[2]PffN，ZimmeranJKH.Eolgicalresponsestoalteredflowregimes：aiteraturereviewtoinforthescienceandmanageentofenvironmental flows.Freshwater Biology，2010,55(1）：194-205.  
+[23]Smakhtin V.Low flow hydrology:a review.Journal of Hydrology，2001,240(3/4）:147-186.  
+[24]Liu WF，WeiXH,FanHB,GuoXM,LiuYQ,ZhangMF,LiQResposeofloregimestodfoestationandrefoestationinindominated large watershed of subtropical China.Hydrological Processes，2015,29(24）：5003-5015.  
+[25]BakerDardfrerJWssderacteritdplcaiotdesteiesdaJournal of the American Water Resources Association，2004,40(2）:503-522.  
+[26]WeiXHuWZouCQantifgeatiotrtiosoretchgatiilitdroiageacritical review of research methods.Water，2013，5(2)：728-746.  
+27]KosteraJfroageaalblidcesuala9(7)：1911-1917.  
+[28] YamazakiY,KubotaJataTuglisyV,uyaasoalagsinofracteritofrostwatershdmountainous region of eastern Siberia.Hydrological Processes，20O6,20(3）：453-467.  
+[29] GebrehiwotSGayeishoK.orestcovedtreafoindwaterftbueileoplemetingbseatioaldatalishcommunity perception.Ambio,2010,39(4）：284-294.  
+[30BentGtsrestagtctipotsdod-atQabsetraaForest Ecology and Management,2001，143(1/3）：115-129.  
+[31]RobinsonupattsealtierestigreafosinlantsidWalocalProcesses，2005，19(6)：1213-1226.  
+32]PenaDeldHAoaaGeeflsueohshldfeioonalpine headwater catchment.Hydrology and Earth System Sciences,2011,15(3）：689-702.  
+[33］周彬，韩海荣，康峰峰，程小琴，宋娅丽，刘可，李勇．太岳山不同郁闭度油松人工林降水分配特征.生态学报，2013，33（5)：1645- 1653.  
+[34］张远东，刘世荣，罗传文，张国斌，马姜明.川西亚高山林区不同土地利用与土地覆盖的地被物及土壤持水特征.生态学报，2009,29(2):627-635.  
+[35]ZhngMF，WeiXhtsfuaiforstubceotrealoinargewatersdineentraltefroiCanada.Hydrology and Earth System Sciences，2012，16(7）：2021-2034.  
+[36]Zhou GY,WeiXH,LuoY,ZhangMF,LiYL,QiaoYN,LiuHG,WangCL.ForestrecoveryandriverdischargeattheregioalalefGuangdong Province，China.Water Resources Research,2010,46(9）：W09503  
+[37]Schous,ileafegiangfoloforthestigiowdoatedsinfectsfrvestreaevaodchannel connectivity.Water Resources Research，,2013，49(1）： 517-535.  
+[38]LinY，WeiXHTheimpatofargesaleforestharvestingonhdroginheWilowwatersdofCentralBrisolubaJoualfHydrology，2008,359(1/2）：141-149.  
+[39]JonesJA，GrantGE.eakflowresponsetarutingandradsinsalandlargebsins，wsteCascades，regon9,2（4):959-974.  
+[40]StorckPothbeeeplcoGdireroelrerston peak stream flow in the Pacific Northwest.Hydrological Processes，1998，12(6）：889-904.  
+[41]PilgrimH,Cordery,BaronBCEfectsofcatcentsizeonunofrelatioshps.JoualofHydrolg98,58（3/4）：-221.  
+[42] 田野宏，满秀玲，刘茜，李奕.大兴安岭北部白桦次生林降雨再分配特征研究.水土保持学报，2014，28（3)：119-123，133-133.  
+[43] 刘玉杰，满秀玲，盛后财.大兴安岭北部兴安落叶松林穿透雨延滞效应.应用生态学报，2015，26(11)：3285-3292.

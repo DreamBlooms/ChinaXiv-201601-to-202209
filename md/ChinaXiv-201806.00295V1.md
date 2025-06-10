@@ -1,0 +1,150 @@
+# 氢脉泽调制技术和研究
+
+王国瑞”²，杜燕，李锡瑞
+
+（1.中国科学院上海天文台，上海 200030；2.中国科学院大学，北京 100049;3.北京卫星导航中心，北京
+
+100094)
+
+摘要：对于氢原子钟，由于微波谐振腔的腔牵引效应以及外部环境温度的变化，影响谐振腔的振荡频率，导致氢原子钟长期频率稳定度降低。为了修正这种情况，使用腔自动调谐方式实现谐振腔的频率稳定在工作频率上。目前国内外主要采用的腔自动调谐技术包括 3种：外部探测信号调谐方式、微波腔频率开关调谐方式和 $Q _ { a }$ 调制方式。将对外部探测信号调谐方式和微波腔频率开关调谐方式进行分析，并在上海天文台 SOHM-4 型外部探测信号调谐方式的基础上进一步探索微波腔频率开关调谐方式。基于数字信号处理器进行电路设计与程序开发，最终在SOHM-4型氢原子钟上实现腔自动调谐。
+
+关键词：腔自动调谐；氢原子钟；外部探测信号调谐；微波腔频率开关调谐中图分类号：TB939文献标识码：A 文章编号：1671-7673（2018）03
+
+随着现代科技的发展，高精度的时频测量有了广泛的应用，如航空航天、卫星发射及监控、地质测绘、导航通信、电力传输、通信同步网的构建、VLBI应用等方面I。原子钟作为一种精确且稳定的时间标准因运而生。目前，氢原子钟是应用较多的原子钟之一。氢原子频标具有优良的频率稳定度和准确度，但是，该频标也有其固有的缺点，由于使用高有载品质因数的微波谐振腔，其振荡频率随着腔的谐振频率的变化而变化，即所谓的腔牵引效应。另外，输出回路效应以及外界环境因素的改变等都影响谐振腔的振荡频率[2]。
+
+腔自动调谐技术最早由H.Peters 于1982 年提出[3]。目前，应用较广的腔自动调谐系统实现方式包括3种：外部探测信号调谐方式、微波腔频率开关调谐方式和 $Q _ { a }$ 调制方式。接下来结合上海天文台 SOHM-4 型主动氢原子钟和俄罗斯VCH-1003M型主动氢原子钟对外部探测信号调谐方式和微波腔频率开关调谐方式进行介绍和分析。
+
+# 1腔牵引效应
+
+当谐振腔的谐振频率与原子的跃迁频率不一致时，原子的跃迁频率随着谐振腔振荡频率的变化而变化，产生腔牵引效应。腔牵引效应的公式如下[2];
+
+$$
+\Delta f _ { 0 } = \Delta f _ { c } \cdot Q _ { c } / Q _ { l } ,
+$$
+
+其中， $\Delta f _ { 0 }$ 为氢原子钟输出频率的变化； $\Delta f _ { c }$ 为谐振腔的腔频变化； $Q _ { c }$ 为谐振腔的有载品质因数； $Q _ { \imath }$ 为氢原子的谱线品质因数。
+
+主动型氢原子钟典型的 $Q _ { c } = 4 6 0 0 0$ ， $Q _ { l } = 1 . 1 { \times } 1 0 ^ { 9 }$ 。根据公式：
+
+$$
+\frac { \Delta f _ { 0 } } { f _ { 0 } } = \frac { Q _ { c } } { Q _ { l } } . \frac { \Delta f _ { c } } { f _ { 0 } } ,
+$$
+
+其中， $f _ { 0 }$ 为 $1 . 4 \mathrm { G H z }$ 。由(2)式可以得出，如果使氢原子钟的长期频率稳定度保持在 $1 0 ^ { - 1 4 }$ 量级，那么谐振腔的频率变化范围要控制在1Hz以内，这对谐振腔的调谐精度提出了较高的要求。
+
+虽然腔牵引效应影响比较小，但是它使得氢原子钟的长期频率稳定度变差，导致氢原子钟的性能无法满足实际工程需求。因此，高效实用的腔自动调谐系统显得尤为重要。
+
+# 2长期频率稳定度
+
+主动型氢原子钟的频率稳定度表示为[4]：
+
+$$
+\sigma _ { _ { y } } ( \tau ) = { \frac { 1 } { Q _ { a } \sqrt { \tau } } } \sqrt { \frac { k T } { 2 P _ { a } } } \qquad \tau \geq 1 0 s \quad ,
+$$
+
+其中， $Q _ { a }$ 为氢原子谱线品质因数； $\tau$ 为测量时间； $k$ 为玻尔兹曼常数 $( 1 . 3 8 \times 1 0 ^ { - 2 3 } J / K )$ ; $T$   
+为氢脉泽绝对温度； $P _ { a }$ 为氢原子提供给谐振腔的功率。
+
+由(3)式可以看出，氢脉泽的频率稳定度与测量时间 $\tau$ 相关，随着 $\tau$ 的变化以 $\sqrt { \tau }$ 作改进然而由于静态磁场和腔牵引效应等物理因素的影响，使得氢原子钟的长期频率稳定度变差，导致这一公式并非始终成立，重要影响部分如表1。对于静态磁场问题，采用多层磁屏蔽系统保证稳定的磁场。针对腔牵引效应，通过恒温系统和腔自动调谐系统解决频移问题。
+
+表1物理因素对氢脉泽频率的影响  
+Table1Effects of physical factors on hydrogen maser frequency   
+
+<html><body><table><tr><td>Physical factors</td><td>Equation</td><td>Frequency offset</td><td>Stability floor</td></tr><tr><td rowspan="2">Magnetic field</td><td>2.773×10 ×B² vm</td><td>2.10-13</td><td>10-15~10-16</td></tr><tr><td>V Qc (-v) Q</td><td>~0</td><td>10-14~10-16</td></tr></table></body></html>
+
+# 3外部探测信号调谐
+
+外部探测信号调谐是指利用外部信号，它是法国人C.Audoin于1981年提出[5]。在该调谐方式中，一个外部信号被注入谐振腔，这个信号会被调谐，调谐后的信号通过谐振腔后被解调出来。目前该技术主要应用于上海天文台的氢原子钟，代表是 SOHM-4型主动氢原子钟。
+
+SOHM-4型原子钟采用的外部探测信号为方波信号，其自动调谐原理图如图1，自动调谐系统方框图如图2。使用混频器将 $2 0 . 4 0 5 \pm \ : f _ { m } \mathrm { M H z }$ 信号与1.4GHz 的微波信号混频形成一个调制信号，其中 $f _ { m }$ 为方波探测信号。将该调制信号注入谐振腔，当谐振腔的频率和探测信号频率的平均值不相等时，经过谐振腔耦合环输出的信号被调幅。调幅后的信号同步检波出误差信号，将误差信号通过积分电路产生压控电压来调谐谐振腔内的变容二极管，将谐振腔响应曲线由图1中虚线响应拉回至实线响应，以此来稳定谐振腔的频率，从而实现自动调谐。
+
+![](images/df0ea559ea618b134b24b5dcf45e371f4f9d24486dafeb43627764ccddb0a99c.jpg)  
+图1方波探测调谐原理图
+
+![](images/4f6980d02703c2d6af795319669f3afafb00b278b53e0f6360c3ffbb17ac3b39.jpg)  
+Fig.1Schematic diagram of square detection tuning   
+图2方波探测调谐框图  
+Fig.2Block diagram of square detection tuning
+
+该方波信号探测自动调谐方式得到了较好的信噪比。但由于载波信号可能干扰脉泽信号，影响脉泽信号的固有短期频率稳定度，这是方波探测信号调谐方法的难点。与此同时，通过电路板产生射频信号，产生的射频信号可能受环境等因素的干扰，这些因素在某种程度上会对氢脉泽的频率稳定度产生一定的影响。频率稳定度测试表明：注入谐振腔的方波探测信号使得氢原子种的短期频率稳定度受到了一定的影响，而它的长期频率稳定度得到了一定的改善。
+
+# 4微波腔频率开关调谐
+
+# 4.1原理分析
+
+微波腔频率开关调谐方式是使用某个微波腔频率开关的方式，在两个与跃迁频率等间距的腔频间切换。该种调谐技术主要应用于美国和俄罗斯的主动型氢原子钟中[6-8]，典型代表有VCH-1003M和MHM-2010。VCH-1003M的腔频自适应原理图如图3，腔频调谐框图如图4。
+
+![](images/1c6f4e2db4a2ff89116c04d2db9ba149fb06fb42ae6935d22c34670c3b85288f.jpg)  
+图3微波腔频率开关调谐原理图
+
+![](images/59e506fda1ecfc7b11333c12026a9fe69f0e140d6736d4ab661445e61beadfa3.jpg)  
+Fig.3Schematic diagram of microwave cavity frequency switch tuning   
+图4VCH-1003M微波腔频率开关调谐框图
+
+# Fig.4VCH-1oo3MBlock diagram of microwave cavity frequency switch tuning
+
+该腔调谐系统在谐振腔内安装有3个耦合环，其中有一个耦合环用于耦合氢脉泽信号，另外两个带有变容二极管的耦合环用于调谐。调制信号发生器产生一个 $8 7 . 2 \mathrm { H z }$ 的方波信号作用于模数转换器2，模数转换器2产生两种不同的电压 $U _ { c }$ ，使得谐振腔频率连续切换在两个共振频率之间，频率差值即为图2中 $\ b { f _ { w } }$ 。如果谐振腔平均频率 $\overline { { f _ { c } } }$ 偏离了氢原子钟频率$f _ { 0 }$ ，则脉泽输出信号被调制，产生了调制电压 $\Delta V$ 0
+
+经过运算放大电路和低通电路后的 $8 7 . 2 \mathrm { H z }$ 方波信号作为失谐信号作用于同步检波器。另一路 $8 7 . 2 \mathrm { H z }$ 方波信号通过移相等电路消除信号传播时延后送至同步检波器。同步检波器产生“ $+$ "和""脉冲控制模数转换器1，调节作用于变容二极管的输出电压 $U _ { c }$ ，从而实现自动调谐。腔频切换的频率比较快，维持每个腔频的时间在0.01s 的量级。这个调制时间大于谐振腔对电磁信号的响应时间（约为 $1 0 ^ { - 5 } \mathrm { s }$ ），小于原子的弛豫时间（约为1s），使得整个腔频切换过程对氢脉泽信号的振荡状态不产生任何影响，即不影响氢脉泽信号固有的频率稳定度，这是该调谐方式的一大优点。
+
+频率稳定度测试表明VCH-1003M的长期频率稳定度得到了改善，已经进入 $1 0 ^ { - 1 6 }$ 量级，且没有影响氢脉泽信号的短期频率稳定度和氢脉泽输出信号的相位噪声。
+
+# 4.2实验结果
+
+当通过信号发生器向谐振腔注入87Hz的方波信号后，从耦合环取出1.4GHz 的射频信号，经过隔离放大器、混频器、中频放大器以及积分器等作用于变容二极管，实现调谐，其中变容二极管的调节范围为： $0 { \sim } 9 \mathrm { V }$ 。实验表明，手动调节加在变容二极管上的电压时，当注入变容二极管的电压为1V，5V，9V时，与参照原子钟的频差如图5。根据(4)式，即腔牵引公式和变容二极管灵敏度公式，将频差转换为电压信号，可以得出，在0\~9V的范围内的某个电压值，能够实现将某个电压加在变容二极管上时，实现调谐的目的。
+
+![](images/e8f66a9828e97afae5ab069409b36804d8f3ccd9b8cc45fbd5ac4399d90ac801.jpg)  
+图5频差图  
+Fig.5Frequency difference
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \displaystyle \frac { \Delta f } { f _ { 0 } } = \frac { Q _ { c } } { Q _ { l } } \cdot \frac { \Delta f _ { c } } { f _ { 0 } } } \\ { \displaystyle K _ { \nu } = \frac { \Delta f } { f _ { 0 } } } \end{array} \right. } \end{array}
+$$
+
+微波腔频率开关调谐方式的实现框图如图6。由于输出的脉泽信号为射频信号，需要通过混频器将射频信号转换为中频信号，同时通过中频放大器放大微弱的中频信号。将中频放大信号送至幅度检波器进行检波，检波产生的半波信号送至ADC 进行采样，DSP对ADC转换后的数字信号进行处理，再将处理后的数字信号送至DAC，从而转换为电压信号，作用于变容二极管，最终实现对谐振腔的自动调谐。
+
+![](images/9013de50765ccc9b20398de66e15cdafad65cd23951242b82a382e1ca8f05fe7.jpg)  
+图6微波腔频率开关调谐框图  
+Fig.6Block diagram of microwave cavity frequency switch tuning
+
+# 5结语
+
+关于主动型氢原子钟相关技术的研究已经进行了半个多世纪，其技术理论日趋成熟。近些年主动型氢原子钟的研究主要集中在技术的优化提升上，从而达到更高的频率稳定度。其中，技术优化的一个方向是研究新的调谐方式，以期高效地实现自动调谐。目前采用微波腔频率开关调谐或外部探测信号调谐方式进行调谐的主动型氢原子钟的频率稳定度指标如表2所示。
+
+表2主动型氢原子钟频率稳定度指标  
+Table 2Indexes of frequency stability of active hydrogen atomic clock   
+
+<html><body><table><tr><td>Capibility</td><td>CHV-75A</td><td>VCH-1003M</td><td>“ MHM-2010”</td><td>SHM-4</td></tr><tr><td>Allan Variance</td><td></td><td></td><td></td><td></td></tr><tr><td>1s</td><td>1.5×1013</td><td>1. 5× 10-13</td><td>1.5 × 10-13</td><td>6 ×10-13</td></tr><tr><td>10s</td><td>2.5×10-14</td><td>2.5×10-14</td><td>2×10-14</td><td>8×10-14</td></tr><tr><td>10²s</td><td>7×10-15</td><td>6×10-15</td><td>5×10-15</td><td>3×10-14</td></tr><tr><td>10s</td><td>2×10-15</td><td>2×10-15</td><td>2×10-15</td><td>9×10-15</td></tr><tr><td>104s</td><td>1×10-15</td><td>1.5×10-15</td><td>1.5×10-15</td><td>3×10-15</td></tr><tr><td>1d</td><td>7×10-16</td><td>7×10-16</td><td>2×10-16</td><td>2×10-15</td></tr><tr><td>tec CATogy</td><td></td><td></td><td></td><td>Extrenal signal</td></tr></table></body></html>
+
+从表2可以看出，采用微波腔频率开关调谐方式的VCH-1003M等氢原子钟的长期频率稳定度要优于采用外部探测信号调谐方式的 SOHM-4 型氢原子钟。产生这种结果的部分原因可能是微波腔频率开关调谐方式的辅助电子学系统设计比外部探测信号调谐方式简单，引入了较少的电子噪声，提高了电子学系统的性能，从而提升长期频率稳定度。
+
+在接下来的研究中，将进一步在上海天文台 SOHM-4 型氢原子钟的自动调谐系统的基础上，采用微波腔频率开关调谐方式实现腔自动调谐，以期提高氢原子钟的长期频率稳定度。
+
+# 参考文献：
+
+[1] 安艳.基于DSP的主动型氢钟腔自动调谐系统设计[D].北京：中国科学院研究生院，2007.   
+[2] 翟造成，张为群，蔡勇，等．原子钟基本原理与时频测量技术[M].上海：上海科学技术文献出版社，2009.   
+[3] Peters H E. Experimental results of the light-weight hydrogen maser development program[C]//36th Annual Symposium on Frequency Control. 1982: 240-248.   
+[4] Gatler LS， Searle CL. Some aspects of the theory and measurement of frequency fluctuations in frequency standards[J].Proceedings of the IEEE,1966， 54: 136-154.   
+[5]Audoin C. Fast cavity auto-tuning systems for hydrogen masers[J]. Revue De Physique Appliquée，1981，16(3):125-130.   
+[6]Demidov N， Vorontsov V，Belyaev A,et al.Studies of a short and long-term stability of an active hydrogen maser with stand alone cavity auto-tuning[C]// European Frequency and Time Forum (EFTF)，2012: 488-493.   
+[7] Demidov N A，Logatchev VA， Gorev VS.Investigation of frequency stability of active hydrogen maser with autonomouscavity auto-tuningusing frequency switching method[C]//European Frequency and Time Forum(EFTF). 2005: 310-313.   
+[8] Peters HE. Design and construction of new hydrogen masers using cavity frequency switching servos[C]// 38th Annual Symposium on Frequency Control. 1984: 420-427.
+
+# The technology and research of hydrogen maser modulation
+
+Wang Guorui1,2，Du Yan³，Li Xirui1
+
+(1.Shanghai Astronomical Observatory， Chinese Academy of Sciences， Shanghai 200030,
+
+China，Email: wgr@shao.ac.cn;
+
+2.University of Chinese Academy of Sciences，Beijing 1OoO49，China;
+
+3． Beijing Satellite Navigation Center， Beijing 1OO094， China）
+
+Abstract:For hydrogen atomic clock,the oscillation frequency of the cavity will be affected due to the cavity pulling efect of the microwave cavity and the temperature change of the external environment.This affection results in the decrease of the long-term stability of the hydrogen
+
+atomic clock.In order to correct this situation, using cavity auto-tuning methods to stabilize the cavity frequency at service frequency.At present,main technology of auto-tuning of cavity consists of three kinds:external detection signal tuning mode,microwave cavity frequency switch tuning mode and $Q _ { a }$ modulation mode.In this paper,we analyze the tuning mode of external detection signal and microwave cavity frequency switch.In addition,make further exploration of the microwave cavity frequency switch tuning method based on external detection signal tuning mode ofShanghai Astronomical Observatory SOHM-4 hydrogen atomic clock.We make circuit design and program development on digital signal processor.Consequently,cavity auto-tuning method will be implemented on SOHM-4 hydrogen atomic clock.
+
+Key words: Cavity auto-tuning； Hydrogen atomic clock; External detection signal tuning; Microwave cavity frequency switch tuning

@@ -1,0 +1,316 @@
+# 一种求解汽车外流问题的可扩展数
+
+# 值算法
+
+闫争争1+，陈荣亮1，赵宇波1，蔡小川1.2(中国科学院深圳先进技术研究院 工程与科学计算研究室 深圳518055)2 (美国科罗拉多大学博尔德分校计算机系 博尔德 80309)
+
+摘要：受车型复杂、雷诺数高等因素影响，汽车外流场流动的数值计算规模巨大且难以精确求解。发展高效并行算法以利用超级计算平台资源成为该领域的研究热点。本文提出一种全隐格式的可扩展并行Newton-Krylov-Schwarz 算法对某真实汽车的外流场流动问题进行计算，并与商业软件计算结果进行对比。数值结果显示，本文的算法在超过2000个处理器规模下仍具有很好的并行可扩展性。
+
+关键词：直接数值模拟；Navier-Stokes方程；并行计算；区域分解算法;
+
+# 中图分类号：
+
+# A scalable numerical method for simulating the external flows around car
+
+The high-fidelity numerical simulation of unsteady flowsaround car is a very challenging computational problem because of thehuge computation caused by high Reynolds number and complex geometry. In this paper, we present a scalable parallel Newton-Krylov-Schwarz based fully implicit algorithm for the full unsteady incompressible flows around car. and we also compare our results with results obtained from commercial CFD software.Our algorithm shows very good parallel scalability on a supercomputer with over two thousand processors.
+
+# 1引言
+
+在汽车工业中，车体外型的空气动力学分析涉及车辆设计、测试和制造等诸多环节，直接决定了车辆的能耗比、安全性乃至美观性，同时也对乘客的舒适感以及道路周边噪声环境产生重要影响。获取车体外流场流体流动数据是进行车型气动分析的前提，工程师只有在速度、压力等物理参量的基础上才能通过一系列分析手段得到车型的阻力系数、气动力矩等评价车型的直观数据，因此外流场流动问题对汽车空气动力学研究意义重大。
+
+最初，风洞实验是获取外流场数据的主要技术手段，通过全尺寸或比例模型在风洞中的测试结果来调整实际车型的几何尺寸与构形。根据Buchheim的经验，开发一款新的车型需要1000小时的风洞实验[1]，显然这种方法需要非常长的设计周期，严重影响车型定型与市场推广。近二十年来，利用计算机来求解流体流动的控制偏微分方程组，并通过得到的流场来研究流动现象的计算流体力学（ComputationalFluidDynamics，CFD）技术广泛应用于在汽车设计领域，掀起了数字化设计的浪潮，现已成为不可或缺的技术手段，其应用程度已经成为评价工程设计先进水平的主要标志[2]。与风洞实验相比，CFD技术虽有助于工程师达到数字化，灵活性与低成本的理想设计模式，但复杂的几何构造、多变的运行环境等因素带来的庞大计算量使得汽车外流场精确模拟极其困难，使得计算能力成为汽车工程计算面对的最直接也最重要问题。总体而言，目前影响计算流体力学技术应用的两个关键因素有如下两点：
+
+# 1.流动模型的选取
+
+在流体力学中，雷诺数Re作为一个无量纲量用来表征流体运动中惯性力与粘性力之比，Re越大表明流体运动中对流越占优，体现到具体的计算过程中便是控制方程离散后得到的方程组非线性越强，对求解造成巨大困难。而汽车外流场流动为典型的高雷诺数流动，一般大于 $1 0 ^ { 6 }$ ，采用未添加任何近似流动模型的直接数值模拟(DNS)方法进行精确求解需要极高的时间、空间分辨率，而早期低下的计算机硬件水平导致该方法只限于低雷诺数的简单流动，常常作为一种研究手段而无法应用于工程领域。目前，为降低计算量，保证可计算性，世界各主流厂商普遍利用高性能并行工作站结合近似模拟方法如基于统计理论的雷诺平均Navier-Stokes方程(ReynoldsaveragedNavier-Stokes，RANS)方法[3,4]，基于流动分解技术的大涡模拟(largeeddysimulation,LES)方法[5,6]以及脱体涡模拟(Detached Eddy Simulation）方法来进行外流场计算并以此为基础进行车型分析与优化。这些方法本质上是降低了求解精度，其结果不可避免的对汽车产品设计与分析造成影响。随着人们对汽车低能耗比需求的日益强烈，汽车外型设计呈现精细化的趋势。上述近似模拟方法已经逐渐满足不了高精度车型设计的需求
+
+# 2.高效能求解器
+
+包括汽车外流场问题在内，计算流体力学技术的核心是求解流体控制方程经有限元等方法离散后所形成的稀疏方程组。计算精度要求提高、车型复杂化以及大雷诺数对流占优特点的凸显，使得该稀疏方程组的规模十分巨大且伴随着强烈的非线性，求解异常困难。近年来，大型并行计算机的出现为计算能力提供了有力的保障，而研究适用于求解大规模非线性稀疏方程组的高可扩展并行算法与计算机硬件资源匹配已经成为计算机辅助工程领域非
+
+常重要的研究方向[8]。
+
+为获取高精度的汽车外流场信息，本文采用直接数值模拟方法对流体流动进行模拟。由于直接数值模拟方法的计算规模与雷诺数的三次方成正比，庞大的计算量对计算机的硬件与算法都有极高的要求。基于国家超算深圳中心的曙光星云超级计算平台，本文通过对大规模非线性系统进行高效求解器和预处理技术的研究，提出一种可扩展并行Newton-Krylov-Schwarz算法。非线性方程采用非精确Newton方法进行求解，在每个Newton步，Jacobian系统通过经过基于区域分解方法的限制加性Schwarz预条件子处理后使用以GMRES方法为代表的Krylov子空间迭代法作为线性求解器进行求解。为验证算法，本文首先对障碍物绕流标准问题进行研究，所获得的流场数值结果与风洞试验数据及商业软件计算结果进行对比。随后，作为应用，我们对某真实汽车的外流场问题进行计算。数值结果显示，本文提出的算法计算所得流场数值结果相较于商业软件所得计算结果更为精确，而算法的并行测试结果显示，本文的算法在扩展至数千处理器平台时仍具有非常良好的可扩展并行性能。
+
+本文的结构如下：第一节简要介绍汽车外流场的数值模拟技术的现状与趋势；第二节对流体控制方程及本文采取的有限元离散格式进行介绍；NKS 算法描述以及相关数值实验分列于第三、四节；最后在第五节做出全文的总结与展望。
+
+# 2汽车外流场流体控制方程及其有限元离散
+
+# 2.1流体控制方程
+
+数值模拟技术通过计算流体控制方程以获取流体运动区域的离散解，汽车周围流体流动速度一般低于 $ { 0 . 3 \mathrm { M a } }$ ，可视为不压缩Newton流，因此采用三维非定常不可压Navier-Stokes方程描述汽车外流场流动：
+
+![](images/7540d1c380b2c5e9486c606cfac4a51b1ae042ef253b08e2444982708e69c7af.jpg)
+
+其中 $\rho$ 、 $p$ 及 $\mu$ 分别为空气密度、压力和动力粘度系数， $\scriptstyle \mathbf { u } = \alpha , \scriptscriptstyle { V } , \scriptscriptstyle { W } ,$ 为速度向量， $\scriptstyle \sum \gamma \mathbf { H } \log ( 2 \pi )$ 为柯西压力张量，其中，【为特征张量，。该连续方程及动量守恒方程由初始条件：
+
+# T nsate /
+
+以及边界条件：
+
+$$
+\begin{array} { l l } { \mathbf { u } } & { \mathbf { \equiv } \mathbf { g } \mathbf { \equiv } \mathbf { \Phi } _ { \mathbf { C } } \mathbf { \equiv } \mathbf { \Phi } _ { \mathbf { C } \mathbf { A } } \mathbf { \equiv } \mathbf { \Psi } _ { \mathbf { C } \mathbf { A } } } \\ { \mathbf { u } } & { \mathbf { \equiv } \mathbf { \Theta } _ { \mathbf { C } } \mathbf { \equiv } \mathbf { \Phi } _ { \mathbf { C } \mathbf { B } } \mathbf { \equiv } \mathbf { \Psi } _ { \mathbf { C } \mathbf { A } } } \\ { \mathbf { \qquad } } & { \mathbf { \equiv } \mathbf { \pm } \mathbf { \Theta } _ { \mathbf { C } \mathbf { B } } \mathbf { \equiv } \mathbf { \Phi } _ { \mathbf { C } \mathbf { B } } \mathbf { \equiv } \mathbf { \Phi } _ { \mathbf { C } \mathbf { A } } } \end{array} ,
+$$
+
+约束，其中 $\Gamma _ { i n l e t }$ 为速度进口边， $\Gamma _ { w a l l }$ 为车体表面及计算区域边界，设为无滑移壁面边界， $\Gamma _ { o u t l e t }$ 为采用远场边界条件即自由出流边界，g为进口边界条件给定的速度。
+
+# 2.2控制方程离散
+
+为了获取流体流动数值解，数值模拟技术是通过将控制偏微分方程按照某种离散格式离散，然后转化为各个计算节点上的代数方程组，最后求解得到各节点上的值来获取整体流场的近似解，因此离散化与代数化是数值计算的前提。对于本文的瞬态问题，偏微分方程的离散在空间和时间上都有体现，选取合适的时空离散格式对后续求解算法有重要影响。
+
+空间离散格式方面，考虑到高阶的有限元在离散化后所形成的矩阵非零元素过多从而影响算法整体的并行可扩展性，结合并行计算的特点，我们采用低阶的 $P _ { 1 } - P _ { 1 }$ 有限元格式对空间进行离散。
+
+通过对计算区域 $\Omega$ 进行剖分得到非结构四面体网格 $\mathcal T ^ { h } = \{ K \}$ ，定义测试函数及权函数空间：
+
+$$
+\mathcal { U } = \{ \mathbf { u } ( \cdot , t ) ~ | ~ \mathbf { u } ( \cdot , t ) \in [ H ^ { 1 } ( \Omega ) ] ^ { 3 } , \quad \mathbf { u } ( \cdot , t ) = \mathbf { g } \quad \mathrm { o n } \quad \Gamma _ { i n l e t } \} ,
+$$
+
+$$
+\begin{array} { r } { \mathcal { U } _ { 0 } = \{ \mathbf { u } ( \cdot , t ) \ | \ \mathbf { u } ( \cdot , t ) \in [ H ^ { 1 } ( \Omega ) ] ^ { 3 } , \quad \mathbf { u } ( \cdot , t ) = \mathbf { 0 } \quad \mathrm { o n } \quad \Gamma _ { i n l e t } \cup \Gamma _ { w a l l } \} , } \end{array}
+$$
+
+$$
+\mathcal { P } = \{ p ( \cdot , t ) ~ | ~ p ( \cdot , t ) \in L ^ { 2 } ( \Omega ) \} _ { \circ }
+$$
+
+Navier-Stokes方程（1）的弱形式可描述为寻求 $\mathbf { u } \in \mathcal { U }$ 及 $p \in \mathcal P$ 使得所有$\Phi \in \mathcal { U } _ { \mathrm { 0 } }$ ， $\varphi \in \mathcal P$ 满足：
+
+$$
+\begin{array} { r l } & { \rho \int _ { \Omega } \frac { \partial \mathbf { u } } { \partial t } \cdot \Phi d \Omega + \mu \int _ { \Omega } \nabla \mathbf { u } : \nabla \Phi d \Omega + \rho \int _ { \Omega } ( \mathbf { u } \cdot \nabla ) \mathbf { u } \cdot \Phi d \Omega } \\ & { - \int _ { \Omega } p \nabla \cdot \Phi d \Omega + \int _ { \Omega } ( \nabla \cdot \mathbf { u } ) \varphi d \Omega = \int _ { \Omega } \mathbf { f } \cdot \Phi d \Omega } \end{array}
+$$
+
+有限维试函数及全函数空间可以表示为：
+
+$$
+\begin{array} { r l } & { \{ \mathbf { u } ^ { h } ( \cdot , t ) \mid \mathbf { u } ^ { h } ( \cdot , t ) = \sum _ { i = 1 } ^ { N _ { u } } \Phi _ { i } ^ { h } \mathbf { u } _ { i } ^ { h } ( \cdot , t ) , \quad \mathbf { u } ^ { h } ( \cdot , t ) = \mathbf { g } \quad \mathrm { o n } \quad \Gamma _ { i n l e t } \} , } \\ & { \mathbf { u } ^ { h } ( \cdot , t ) \mid \mathbf { u } ^ { h } ( \cdot , t ) = \sum _ { i = 1 } ^ { N _ { u } } \Phi _ { i } ^ { h } \mathbf { u } _ { i } ^ { h } ( \cdot , t ) , \quad \mathbf { u } ^ { h } ( \cdot , t ) = \mathbf { 0 } \quad \mathrm { o n } \quad \Gamma _ { i n l e t } \cup \Gamma _ { w a l l } \} , } \\ & { \qquad \mathcal { P } ^ { h } = \{ p ^ { h } ( \cdot , t ) \mid p ^ { h } ( \cdot , t ) = \sum _ { i = 1 } ^ { N _ { p } } \varphi _ { i } ^ { h } p _ { i } ^ { h } ( \cdot , t ) \} _ { \circ } } \end{array}
+$$
+
+其中 $N _ { u }$ ， $N _ { p }$ 为速度与压力的总节点数， ${ \bf u } _ { i } ^ { h } \in {  R } ^ { 3 }$ ， $p _ { i } ^ { h } \in R$ 为节点处速度与
+
+压力值。由于 $P _ { 1 } - P _ { 1 }$ 元不满足LBB 条件，因此，通过添加适当的稳定项[9]，空间离散有限元系统可表示为：
+
+$$
+\begin{array} { r l } & { \rho \int _ { \Omega } \frac { \partial \mathbf { u } ^ { h } } { \partial t } \cdot \Phi ^ { h } d \Omega + \mu \int _ { \Omega } \nabla \mathbf { u } ^ { h } \colon \nabla \Phi ^ { h } d \Omega + \rho \int _ { \Omega } ( \mathbf { u } ^ { h } \cdot \nabla ) \mathbf { u } ^ { h } \cdot \Phi ^ { h } d \Omega } \\ & { - \int _ { \Omega } p ^ { h } \nabla \cdot \Phi ^ { h } d \Omega + \int _ { \Omega } ( \nabla \cdot \mathbf { u } ^ { h } ) \varphi ^ { h } d \Omega + \sum _ { K \in { \mathcal { T } } ^ { h } } \left( \nabla \cdot \mathbf { u } ^ { h } , \tau _ { c } \nabla \cdot \Phi ^ { h } \right) _ { K } } \\ & { \sum _ { K \in { \mathcal { T } } ^ { h } } \left( \frac { \partial \mathbf { u } ^ { h } } { \partial t } + ( \mathbf { u } ^ { h } \cdot \nabla ) \mathbf { u } ^ { h } + \nabla p ^ { h } , \tau _ { m } ( \mathbf { u } ^ { h } \cdot \nabla \Phi ^ { h } + \nabla \varphi ^ { h } ) \right) _ { K } } \\ & { = \int _ { \Omega } \mathbf { f } \cdot \Phi ^ { h } d \Omega + \sum _ { K \in { \mathcal { T } } ^ { h } } \left( \mathbf { f } , \tau _ { m } ( \mathbf { u } ^ { h } \cdot \nabla \Phi ^ { h } + \nabla \varphi ^ { h } ) \right) _ { K } } \end{array} ,
+$$
+
+时间项方面，本文采用了全隐时间格式离散进行离散。全隐格式由于减轻甚至消除了CFL条件对时间步长的限制，在进行大规模数值计算时具有一定优势。具体地，针对上述不可压Navier-Stokes方程，选取隐式向后Euler有限差分格式对时间项离散，即将控制方程（1）离散为如下非线性代数方程：
+
+$$
+\begin{array} { r } { \frac { x ^ { n } - x ^ { n - 1 } } { \Delta t } = S ( x ^ { n } ) } \end{array}
+$$
+
+其中 $\Delta t$ 为时间步长， $S ( x ^ { n } )$ 为在第 $n$ 时间步经空间离散后形成的半离散系统。至此，问题化解为在每个时间步求解非线性方程组：
+
+$$
+F ^ { n } ( x ^ { n } ) = 0
+$$
+
+# 3 Newton-Krylov-Schwarz 算法
+
+在每个时间步内，经有限元离散后形成的系统（3）规模十分巨大且由于对流占优而具有很强的非线性。求解此类大规模的病态问题时，一般均需借助大型并行计算机及相应的可扩展性算法进行求解。实际上，多数基于偏微分方程的工程应用与科学计算问题如污染扩散模拟、数值天气预报等最终都会形成稀疏的线性或非线性方程组，由于在现实生活中这些问题多以非线性的方式存在且往往规模巨大，因此大规模稀疏非线性方程组的求解方法成为数值计算领域的研究热点。非线性方程组的求解通常包含线性化、线性求解器构造以及预处理等多个步骤，本文据此进行相关非线性方程组求解算法的研究。
+
+目前非线性方程组线性化方法中最常用且有效的是Newton 型方法。其中，非精确Newton 方法虽然需要求解原始的Jacobian 矩阵，但是却不需要精确求解，可通过求解精度来达到计算量与收敛速度的平衡。在线性求解器方面，由于直接法求解大规模线性方程组对计算机内存及速度要求过高而不现实，因此目前使用迭代法求解大规模非线性系统几乎成为唯一选择。本文基于Krylov 子空间的迭代方法构造线性求解器。上述两种方法结合为Newton-Krylov 迭代法，该方法的核心是在每个非线性迭代步通过采用Krylov子空间迭代法求解一个雅可比线性方程组从而获得Newton
+
+增量。
+
+无论在线性、非线性迭代法中，预条件子都起到加速收敛的作用，在数值算法构造中占据重要地位。其作用是以较低的额外代价换取迭代次数的大幅降低和求解时间的有效减少，预条件子的构造往往依赖于所研究的物理问题[10]，对预条件子的改进是提高整个数值算法性能的关键。Dry ja和 Widlund[1]的研究表明，区域分解方法既可以作为迭代法也更适合于作为其他高效迭代求解器的预条件子。同时区域分解预条件子由于其“分而治之”的特点，尤其适合于当前流行的分布式并行计算机环境。
+
+基于上述方法，本文提出了使用与求解汽车外流场问题的Newton-Krylov-Schwarz（NKS）算法。使用非精确Newton 算法作为非线性求解器，在每个非精确 Newton 步里使用由基于区域分解方法的 Schwarz预处理算子来加速Krylov算法求解Jacobian方程。其详细步骤列举如下：
+
+# NKS 算法：
+
+步骤1：使用前一个时间步的解作为初始值X"=X"-1,步骤2：对 $k = 0 , 1 , \cdots$ 执行以下步骤，直至收敛，步骤2.1：构造Jacobian 矩阵 $\mathbf { J } _ { k } ^ { n }$
+
+步骤2.2：采用带有预处理的Krylov子空间方法（如GMRES）非精确求解如下 Jacobian 系统 $\begin{array} { r } { { \bf J } _ { k } ^ { n } ( { \bf M } _ { k } ^ { n } ) ^ { - 1 } { \bf M } _ { k } ^ { n } { \bf S } _ { k } ^ { n } = - { \bf F } ^ { n } ( { \bf X } _ { k } ^ { n } ) , } \end{array}$
+
+步骤2.3：通过线性搜索获得步长 $\tau _ { k } ^ { n }$ ，
+
+步骤2.4：更新迭代解 $\mathbf { X } _ { k + 1 } ^ { n } = \mathbf { X } _ { k } ^ { n } + \boldsymbol { \tau } _ { k } ^ { n } \mathbf { S } _ { k } ^ { n } ,$ 0在此步骤中， $\mathbf { J } _ { k } ^ { n }$ 为待求非线性方程组 $\mathbf { F } ^ { n } ( { \mathbf { X } } )$ 在点 $\mathbf { X } _ { k } ^ { n }$ 处的全Jacobian 矩阵,$\mathbf { M } _ { k } ^ { n }$ 为一水平加性 Schwarz 预条件算子，其具体形式参见相关文献[12]，步骤2.2中非精确是指求解Jacobian系统时满足如下条件即可：
+
+$$
+\parallel \mathbf { J } _ { k } ^ { n } ( \mathbf { M } _ { k } ^ { n } ) ^ { - 1 } \mathbf { M } _ { k } ^ { n } \mathbf { S } _ { k } ^ { n } + \mathbf { F } ^ { n } ( \mathbf { X } _ { k } ^ { n } ) \parallel \leq \eta _ { k } ^ { n } \parallel \mathbf { F } ^ { n } ( \mathbf { X } _ { k } ^ { n } ) \parallel
+$$
+
+式中 $\eta _ { k } ^ { n }$ 为线性求解器的相对收敛误差。
+
+在本研究中，我们使用该算法求解2.2节中控制方程离散后形成的非线性系统（3）。
+
+本章介绍的算法基于阿贡国家实验室开发的开源可移植并行软件包PETSc（ Parallel Extensible Toolkits for Scientific Computing） [13]实现。PETSc基于基础线性代数子程序库（BLAS)，线性代数包LAPACK以及消息传递接口库MPI等构成线性求解器、非线性求解器以及时间步进积分器三个主要的组件，为用户提供了包括求解大规模稀疏线性方程组的多种 Krylov子空间方法在内的丰富的算法以及预条件子，在高性能计算平台上具有强大的偏微分方程数值求解能力。目前PETSc已经成功应用于优化问题、生物医学、计算流体动力学等多类工程与科学计算问题。
+
+本文的数值实验皆在国家超算深圳中心的曙光星云超级计算机上展开，该计算平台的科学计算分区拥有640个计算节点，每个节点配置双路六核心Intel5650@2.76GHz处理器与 24GB内存，共计7680个CPU处理核心，网络互联方式为InfiniBand4万兆网络，操作系统为Linux。
+
+# 4数值算例
+
+在本节，我们首先研究了较低雷诺数下外流场流动标准测试问题来验证算法的正确性与并行性能。通过流场信息与并行性能两方面对算法进行评价。随后，我们从工程实际问题出发对真实尺寸、高雷诺数的汽车外流场进行计算。本节采用NKS 算法所获取的结果与风洞试验以及目前主流的商用计算流体力学软件CFX的计算结果进行对比来验证算法的正确性。为使实验结果具有可比性且有对比价值，NKS算法与商业软件进行数值计算时均采用同样的几何模型、流体材料属性、计算区域、有限元网格以及初始及边界条件。
+
+# 4.1障碍物绕流标准问题
+
+为了支持及开展基于高性能计算机的流体数值模拟研究工作，德国研究基金通过优先支持项目（PriorityResearchProgram）资助了多种典型流动的数值模拟研究工作。通过开展大量的风洞试验获取相关流场信息，为验证数值模拟算法提供了丰富有效的对比数据，障碍物绕流问题便是其中之一。车辆的外部流场属于典型的绕流问题，本节采用 NKS 算法对其中两类绕流标准问题进行计算，所获取的结果与风洞试验以及CFX的计算结果进行对比来验证算法的正确性。
+
+# 4.1.1障碍物标准绕流问题模型
+
+本小节的数值算例为圆柱体与长方体外部绕流[14]，如图1所示,
+
+![](images/133e25153771f4ca748807ae628a4386d48eca0043e3e80ac0e8140d83352588.jpg)  
+图1障碍物标准绕流问题模型及计算区域尺寸（上：圆柱体；下：长方体）
+
+进口为给定的垂直于入口面速度 $U$ ，出口为自由流边界，其余边界为无滑移壁面边界。物性参数为：动力粘度系数 $\mu = 1 . 0 \times 1 0 ^ { - 3 } k g / m s$ ，密度$\rho = 1 . 0 k g / m ^ { 3 }$ ；特征长度取边长或直径 $D = 0 . 1 m$ 。计算区域剖分后四面体网格数约为 $5 . 1 \times 1 0 ^ { 6 }$ ，自由度 $D O F = 3 . 6 \times 1 0 ^ { 6 }$ 。
+
+本例中Newton-Krylov-Schwarz 算法各参数设置如下：线性与非线性相对误差分别设置为 $1 . 0 \times 1 0 ^ { - 4 }$ 和 $1 . 0 \times 1 0 ^ { - 6 }$ ；CFX中，采用二阶向后Euler格式对时间项进行离散。残差收敛条件设置为均方根（Root Mean Square，RMS）误差设为 $1 . 0 \times 1 0 ^ { - 6 }$ ，在16核处理器条件下进行计算。
+
+# 4.1.2 流场数值结果
+
+在外流场分析中，气动力及其系数如阻力系数 $C _ { d }$ 、升力系数 $C _ { l }$ 等是衡量气动性能的最重要的参数。因此本文对计算所得的气动参数进行比较。此外，我们还在障碍物迎风面及背风面设置两个观测点$a ( x _ { a } , y _ { a } , z _ { a } ) = ( 0 . 4 5 , 0 . 2 0 , 0 . 2 0 5 ) .$ 和 $b ( x _ { b } , y _ { b } , z _ { b } ) = ( 0 . 5 5 , 0 . 2 0 , 0 . 2 0 5 )$ ，使用两点间的压力差 $\Delta P = \Delta P t = P ( x _ { a } , y _ { a } , z _ { a } , t ) - P ( x _ { a } , y _ { a } , z _ { a } , t )$ 来观测与对比流场的数值结果。对于两个障碍物算例，本文对比了其稳态与瞬态两种情况，列于表1。
+
+<html><body><table><tr><td>Case</td><td>Obstacle</td><td>Type</td><td>Inflow condition</td></tr><tr><td>S1</td><td>Square</td><td>Steady</td><td>U(0,y,z)=16Umyz(H-y)(H- z)/H4</td></tr><tr><td>S2 S3</td><td>Cylinder Square</td><td></td><td>V =W=0, Um =0.45m/s U(0,y,z,t)=16Umyz(H-y)(H- z)sin(πt/8)/H4</td></tr><tr><td>S4</td><td>Cylinder</td><td>Transient</td><td>V=W=0,Um= 2.25m/s</td></tr></table></body></html>
+
+在瞬态算例中，总时间 $T = 8 s$ ，时间步长取 $\Delta t = 0 . 0 8 s$ ，气动系数 $C _ { d }$ 和 $C _ { l }$ 取最大值 $C _ { d m a x }$ 与 $C _ { l m a x }$ ， $\mathbf { \Omega } _ { a }$ 与 $b$ 点压力值 $P$ 取时刻 $t = 8 s$ 的值。
+
+表1障碍物绕流测试算例  
+表2针对障碍物扰流问题NKS 算法、CFX以及风洞试验结果对比  
+
+<html><body><table><tr><td>Case</td><td>Results</td><td>Cd</td><td>C</td><td>△P</td></tr><tr><td rowspan="3">S1</td><td>NKS</td><td>7.661</td><td>0.077</td><td>0.175</td></tr><tr><td>CFX</td><td>7.721</td><td>0.0748</td><td>0.174</td></tr><tr><td>Experiment</td><td>7.500~ 7.700</td><td>0.060~ 0.080</td><td>0.172~ 0.180</td></tr><tr><td rowspan="3">S2</td><td>NKS</td><td>6.139</td><td>0.010</td><td>0.171</td></tr><tr><td>CFX</td><td>6.225</td><td>0.013</td><td>0.165</td></tr><tr><td>Experiment</td><td>6.050~ 6.250</td><td>0.008~ 0.010</td><td>0.165~175</td></tr><tr><td rowspan="3">S3</td><td>NKS</td><td>4.382</td><td>0.034</td><td>-0.145</td></tr><tr><td>CFX</td><td>4.378</td><td>0.010</td><td>-0.140</td></tr><tr><td>Experiment</td><td>4.300~ 4.500</td><td>0.010~ 0.050</td><td>-0.140~ -0.120</td></tr><tr><td rowspan="3">S4</td><td>NKS</td><td>3.267</td><td>0.002</td><td>-0.113</td></tr><tr><td>CFX</td><td>3.298</td><td>0.004</td><td>-0.109</td></tr><tr><td>Experiment</td><td>3.200~ 3.300</td><td>0.002~ 0.004</td><td>-0.090~ -0.110</td></tr></table></body></html>
+
+NKS、CFX以及风洞试验结果对比列于表2。从对比结果我们可以看出，本文提出的算法与商业软件计算结果接近，同样都在风洞试验所得数据误差范围之内，证明了数值方案以及算法的正确性。
+
+# 4.1.3并行可扩展性结果
+
+本小节给出基于NKS算法计算圆柱形障碍物标准绕流问题的并行可扩展性结果。两套不同规模的网格，分别约含 $5 . 1 \times 1 0 ^ { 6 }$ 个四面体单元（ $\mathrm { \Delta D O F = }$ $3 . 6 \times 1 0 ^ { 6 }$ ）和 $1 . 3 \times 1 0 ^ { 7 }$ 个四面体单元 $\mathrm { ( D O F ~ = ~ 9 . 1 \times 1 0 ^ { 6 } ~ }$ )，被用于可扩展性的测试。在本例中固定时间步长 $\Delta t = 4 . 0 \times 1 0 ^ { - 3 } s$ ，在计算过程中，NKS算法中线性与非线性相对误差分别设置为 $1 . 0 \times 1 0 ^ { - 6 }$ 和 $1 . 0 \times 1 0 ^ { - 1 2 }$ 。为减小计算量，取前20时间步的数值结果的平均值。
+
+表3NKS算法障求解碍物绕流问题的并行性能  
+
+<html><body><table><tr><td>np</td><td colspan="3">DOF=3.6 × 106</td><td colspan="3">DOF=9.1 × 106</td></tr><tr><td></td><td>Newton</td><td>GMRES</td><td>Time</td><td>Newton</td><td>GMRES</td><td>Time</td></tr><tr><td>64</td><td>2.9</td><td>57.67</td><td>182.54</td><td></td><td>1</td><td></td></tr><tr><td>128</td><td>2.9</td><td>58.48</td><td>94.57</td><td>1</td><td>-</td><td></td></tr><tr><td>256</td><td>2.9</td><td>59.47</td><td>53.28</td><td>3.1</td><td>65.63</td><td>137.08</td></tr><tr><td>512</td><td>2.9</td><td>62.17</td><td>34.73</td><td>3.1</td><td>68.43</td><td>76.51</td></tr><tr><td>1024</td><td>2.9</td><td>65.00</td><td>27.67</td><td>3.0</td><td>74.10</td><td>49.86</td></tr><tr><td>2048</td><td>1</td><td></td><td>1</td><td>2.9</td><td>79.97</td><td>38.49</td></tr></table></body></html>
+
+表3列出了不同处理器条件下计算的可扩展并行数值结果。其中Newton，GMRES和Time分别表示为每个时间步内非线性迭代次数、线性迭代次数以及计算时间（单位为秒）。
+
+为了更加清晰地展示可扩展性性能，本文将并行数值结果以加速比的形式列图2中。加速比通常用来衡量并行系统或程序并行化的性能和效果。在本论文中加速比是指固定计算规模，以最低核数所需计算时间基准，增加并行处理器个数后计算时间与基准时间之比的倒数。理想加速比是指线性的加速情况。
+
+![](images/fb1b5d2a365ca7f0531c33b08f045d862d657bfd36885c6172a02053329f0b44.jpg)  
+图2汽车外流场模拟中每时间步的平均计算时间及加速比
+
+并行数值结果显示非精确Newton方法使非线性迭代次数Newton非常少，非线性迭代次数几乎与处理器个数无关。线性迭代次数GMRES随核数的增加而略微增加。计算时间与加速比等数值结果显示针对低雷诺数问题，在 $\mathrm { D 0 F } ~ = ~ 3 . 6 \times 1 0 ^ { 6 }$ 的算例中，当核数小于1024时，计算效率在65以上，当核数达到1024时，计算效率会有所下降，这并不是算法使然而是由计算规模不足造成的。当进行分区计算时，如果子区域的规模较小，那么在整体求解时间中子区域间通信时间所占的比例将会提高，导致计算效率的降低。整体而言，本文提出的并行NKS 算法具有非常好的可扩展性，当处理器个数达到2048时并行效率仍在 $5 0 \%$ 左右。
+
+# 4.2汽车外流场问题
+
+# 4.2.1汽车几何模型与计算区域
+
+在分析车型空气动力学性能前，首先需要使用数字化建模技术对原始设计车型进行几何建模。本文采用三维CAD软件依据某真实车型全尺寸数据进行模型构造。如图3所示，整车长 $\pmb { I } \equiv \pmb { I } \pmb { \overbrace { \mathbf { B } \mathbf { B } } } \pmb { C } \pmb { S } \pmb { I } \pmb { m }$ ，车宽 $W { \mathop { : } } { \mathop { \mathbf { \mathit { \imath } } } } \mathbf { \mathit { \lambda } } \mathbf { \mathit { \lambda } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } } \mathbf { \mathit { \Sigma } }$ 车高 $\pmb { / { \cal E } \pmb { \mathrm { k H 1 } } \pmb { 3 3 } \pmb { m 0 } }$ ，轴距 $\scriptstyle B = { \mathrm { I S E } } { \mathrm { G m } }$ 。
+
+在研究外流场问题时，车体表面附近区域及尾流区域的流体分布情况是我们主要的研究对象，但由于流体的连续介质特性以及边界条件的影响，往往需要将车体置入某个封闭的计算区域 $\Omega$ ，然后针对整个Ω进行分析求解。 $\Omega$ 的选取与计算问题有关， $\Omega$ 必须足够大以尽量避免区域壁面对车体外流场的影响，同时还要兼顾整体计算量的大小。此外，在剖分网格时，为保证计算精度，生成的网格需涵盖整个车体复杂结构的所有主要表面特征，即所谓的包面技术。包面技术在进行外流场计算时十分重要，是能够实现复杂模型外流场计算的关键所在。因此，网格在车体表面往往需要加密至极小。文献5指出计算区域边界应距模型 ${ 7 } \sim 1 0$ 倍车高，在工程应用上取3倍车高对精度影响不大却能极大减少计算量，尾流出口边界应距模型 $5 \sim 1 0$ 倍车高，因此本文计算区域选为
+
+，如图3所示，平
+
+面 $Z = 0$ 为车体对称面，坐标原点位于车体前端在地面的投影处。
+
+![](images/8d29c7e03fc364d9a63c0a4b0a3456a407bb5d83770d4bc2cb9775c197a50588.jpg)  
+图3汽车三维CAD模型及计算区域示意图
+
+非结构四面体网格 $T ^ { h } = \{ K \}$ 的剖分是进行有限元计算的前提，在本算例中，通过商用软件ICEMCFD对计算区域 $\Omega$ 进行非结构网格剖分，在划分网格时，我们对车体壁面等对流体运动影响较大以及尾流区等对汽车气动分析关系密切区域进行加密处理。经剖分后，本算例的非四面体网格总数约为 $1 . 2 \times 1 0 ^ { 7 }$ ，自由度约为 $D O F = 1 . 0 3 \times 1 0 ^ { 7 }$ ，车身附近网格尺寸达到毫米量级。算法的实现需要对计算区域即离散后的网格进行分区以使用区域分解方法构造适当的预条件子。通过调用开源软件包ParMETIS[16进行网格分区，一般分区的个数与处理器个数相等，且各个分区所计算的自由度个数近似相同以达到负载平衡，如图4所示。
+
+![](images/430a8c9eff454e802f5215974fcc2b03ef6e8a83c8583953a828bc3381ad2781.jpg)  
+图4汽车外流场网格剖分与区域分解示意图
+
+选取 $2 5 ^ { \circ } \mathrm { C }$ 标准大气压下空气参数，密度 $\scriptstyle \mathcal { P } \triangleq \mathbf { 1 } \mathbf { 1 } ⨏ \mathbf { 8 } \mathbf { \pi } \mathbf { 8 } \mathbf { \mathcal { J } } \mathbf { \mathcal { M } } ^ { 3 }$ ，动力粘度系数$\angle C = \angle B = \angle D = \angle C$ 。设进口速度 $V _ { i n } = 3 0 t$ ，时间步长 $\Delta t = 0 . 0 1 _ { \mathrm { S } }$ ，计算1s 内流场的变化情况。算法中的线性和非线性求解器的相对收敛误差分别取为 $1 0 ^ { - 4 }$ （20和 $1 0 ^ { - 6 }$ 。分别取 $u _ { T } = 3 0 m / s$ 为特征速度，车高 $H = 1 . 4 1 m$ 为特征长度，计算雷诺数
+
+$$
+\mathrm { R e } = \frac { \rho u _ { T } H } { \mu } = \frac { 1 . 1 8 5 k g / m ^ { 3 } \times 3 0 m / s \times 1 . 4 1 m } { 1 . 8 3 1 \times 1 0 ^ { - 5 } k g / m s } = 2 . 7 3 8 \times 1 0 ^ { 6 }  _ { . }
+$$
+
+为验证数值计算结果的正确性，我们采用汽车工业中普遍采用的商业CFD软件ANSYS.CFX对添加标准 $k - \varepsilon$ 湍流模型，相同网格数、边界条件的问题进行数值模拟，获得的数值结果用于与本文算法获取的数值结果进行对比。在CFX中，瞬态项采用二阶向后Euler格式，均方根残差（RMS）收敛误差为10-5
+
+# 4.2.2 流场数值结果
+
+以阻力系数 $\mathrm { C _ { d } } _ { \mathrm { { } d } }$ ，为代表的空气动力学系数是影响车型设计的最主要参数，设计人员往往据此来评判车型的能耗比以及气动安全性能。本文中首先对 $0 { \sim } 1 \mathrm { s }$ 时间内NKS算法与CFX计算得到阻力系数 $C _ { d }$ 进行比较，瞬态数值结果列于图5。阻力系数对比图显示，两种算法计算得到的阻力系数基本一致。
+
+![](images/d653a6baf92d20c111e7804d313bb62188895ee0e5203cb6b249399a511b5ade.jpg)  
+图5汽车阻力系数数值结果对比
+
+随后，我们取 $t = 1$ s 时刻两种算法的流场结果进行比较。首先我们比较了车身表面静压（单位为帕)，如图6所示。
+
+![](images/276d9f7fa9fa1b7985b1c7b38e7223e385b31431829dc867ebb11fb06919178d.jpg)  
+图6汽车车体前身压力分布对比云图（左：CFX，右：NKS）
+
+静压的大小与分布与汽车所受的气动力直接相关，NKS与CFX的计算结果均显示车身表面静压呈对称分布。静压高值分布于车体前身、前挡风玻璃、后视镜以及车轮的迎风面。车前身其余部分压力稍高于大气压，车体顶部、车窗与车体边缘处静压在较小。
+
+![](images/566d5178988f00e416552733b68a42054debb19c306fd539ddd14731f52eaef3.jpg)  
+图7车体对称面（ $z = 0$ ）二维流线图（上：CFX，下：NKS）
+
+在图7所示车体截面流线分布中，我们也注意到NKS算法所获取的流场结果在车挡风玻璃、车尾及近地面附件能够捕捉到更细小的涡，显示出更详细的流场信息。
+
+# 4.2.3并行可扩展性结果
+
+本小节给出基于NKS算法求解汽车外流场的并行可扩展性数值结果，实验所取网格自由度约为 $1 . 0 3 \times 1 0 ^ { 7 }$ ， Newton 非线性迭代与 Krylov 子空间方法线性迭代收敛误差分别设置为 $1 0 ^ { - 6 }$ 和 ${ { 1 0 } ^ { - 1 2 } }$ ，数值结果取前 20个时间步的平均值。
+
+表4汽车外流场模拟中NKS算法的并行性能  
+
+<html><body><table><tr><td>np</td><td>Newton</td><td>GMRES</td><td>Time</td></tr><tr><td>256</td><td>2.9</td><td>90.4</td><td>226.0</td></tr></table></body></html>
+
+<html><body><table><tr><td>512</td><td>2.9</td><td>106.2</td><td>141.1</td></tr><tr><td>1024</td><td>2.9</td><td>114.0</td><td>85.6</td></tr><tr><td>2048</td><td>2.9</td><td>119.6</td><td>60.5</td></tr></table></body></html>
+
+表4列出了不同处理器条件下计算的可扩展并行数值结果。Newton,GMRES和Time分别表示为每个时间步内非线性迭代次数、线性迭代次数以及计算时间（单位为秒)。为了更加清晰地展示可扩展性性能，本文将并行数值结果以加速比的形式列于图8中。
+
+![](images/54fd59854e1180409974fac68e5b342df6e6a2055a8a0ce90b5fc4bcb4bdfea1.jpg)  
+图8每时间步平均计算时间与加速比
+
+从并行测试结果我们可以看到，由于采用了前一时间步的结果作为初始值，每个时间步的非线性迭代次数Newton非常少，非线性迭代次数几乎与处理器个数无关。随着计算核数的增加，线性迭代次数GMRES略微增加。计算时间等并行数值结果显示我们的算法具有非常好的可扩展性，处理器个数达到2048时并行效率仍在 $5 0 \%$ 左右。
+
+# 5结论
+
+复杂几何造型、高雷诺数导致汽车外流场的精确数值求解因计算规模巨大、非线性强而极难展开，是目前工程计算领域中非常具有挑战性的问题。寻求稳定、可扩展的高效并行数值算法以获取时效性强且可置信的数值结果是工程实际应用的关键所在。本文提出一种并行的Newton-Krylov-Schwarz算法来求解控制方程有限元离散后形成的大规模稀疏非线性方程组。基于该算法，本文首先对较低雷诺的标准绕流问题进行求解，流场结果与风洞试验数据以及商业CFD软件计算结果进行对比，验证了算法的准确性。随后作为应用，本文对真实尺寸的汽车外流场流体流动进行数值模拟。流场数值结果以及并行数值结果表明本文提出的算法在数千核处理器条件下仍具有良好的并行可扩展性能。
+
+# 参考文献：
+
+[1]张英朝.汽车空气动力学数值模拟技术［M］．北京:北京大学出版社,2011.[2]阎超，都彦喆.CFD 技术及其在大飞机研制中的应用[J]．航空制造技术,2008,(14):42-44.
+
+[3]Guilmineau E.Computational study of flow around a simplified car body [J].Journal of wind engineering and industrial aerodynamics,20o8,96(6): 2O7-1217.   
+[4]Han T. Computational analysis of three-dimensional turbulent flow over a bluff body in ground proximity [J].AIAA Journal,1989,7:1213-1219.   
+[5]Krajnovic S,Davidson L. Flow around a simplified car,part 1: large eddy simulation [J]．Journal of Fluids Engineering,2005,127(5): 907-918.   
+[6]Howard RJA,Pourquie M.Large eddy simulation of an Ahmed reference model [J]. Journal of Turbulence,2002,3 (5):1-18.   
+[7] Guilmineau E,Chikhaoui O,Deng GB,et al. Cross wind effects on a simplified car model bya DES approach [J].Computers & Fluids,78:29-40.   
+[8] 邱剑，顾兆林．利用高阶分区并行算法实现直接数值模拟[J]．计算力学学报, 2008,25(1): 20-24.   
+[9] Franca LP and Frey SL.Stabilized finite element method: II.The incompressible Navier-Stokes equations [J]. Comput. Methods Appl．Mech. Engrg.，1992，99: 209-233.   
+[10] Knoll D and Keyes DE.Jacobian-free Newton-Krylov methods: A survey of approaches and applications [J].J. Comput.Phys.,2004,193:357-397.   
+[11] Dryja M and Widlund OB.Towards a unified theory of domain decomposition algorithms for elliptic problems [M].New York University，Courant Institute of Mathematical Sciences,Division of Computer Science,1989.   
+[12] Cai XC and Sarkis M.A restricted additive Schwarz preconditioner for general sparse linear systems [J]. SIAMJ. Sci. Comput.,1999,21: 792-797.   
+[13] Balay S,Buschelman K,Gropp WD,et al. PETSc Users Manual [R].Argonne National Laboratory,2012.   
+[14] Schafer M and Turek S.Benchmark computations of laminar flow around a cylinder [M].Vieweg $^ +$ Teubner Verlag,Springer,1996.   
+[15]王夫亮．侧风作用下的汽车气动特性研究[D]．吉林：吉林大学,2009.   
+[16] KarypisG，AggarwalR,Schloegel， etal．ParMETIS home page, http://glaros.dtc.umn.edu/gkhome/metis/parmetis/overview. 作者简介：   
+闫争争，博士研究生，主要研究方向为可扩展并行计算，计算力学。 E-mail:zz.yan $@$ siat.ac.cn
+
+基金项目：中国科学院知识创新工程重要方向项目(KJCX2-EW-L01)
+
+在外流场分析中，气动力及其系数如阻力系数 $C _ { d }$ 、升力系数 $C _ { l }$ 等是衡量  
+气动性能的最重要的参数，气动力的计算公式如下：  
+阻力 $F _ { d }$
+
+$$
+F _ { d } = \int _ { S } \left( \mu { \frac { \partial v _ { t } } { \partial n } } n _ { y } - p n _ { x } \right) d S
+$$
+
+升力 $F _ { l }$
+
+$$
+F _ { l } = - \int _ { S } \left( \mu \frac { \partial v _ { t } } { \partial n } n _ { x } - p n _ { y } \right) d S
+$$
+
+其中 $S$ 为障碍物表面积， $n _ { x }$ 、 $n _ { y }$ 分别为 $S$ 在 $x$ 、 $y$ 方向的法向向量， $v _ { t }$ 为沿着 $S$ 的 切向向量 $t = ( n _ { y } , - n _ { x } , 0 )$ 方向的切向速度分量。与阻力及升力相对应的阻力系数 $C _ { d }$ 与升力系数 $C _ { l }$ 定义如下：
+
+$$
+C _ { d } = \frac { 2 F _ { d } } { \rho \overline { { U } } ^ { 2 } D H }
+$$
+
+$$
+C _ { l } = \frac { 2 F _ { l } } { \rho \overline { { U } } ^ { 2 } D H }
+$$
+
+其中 $\overline { { U } } ( t ) = 4 U ( 0 , H / 2 , H / 2 , t ) / 9$ 为定义的特征速度，同样用于计算雷诺数：
+
+$$
+R e = \frac { \rho \overline { { U } } D } { \mu } = \frac { 1 . 0 k g / m ^ { 3 } \cdot 2 . 2 5 m / s \cdot 0 . 1 m } { 1 . 0 \times 1 0 ^ { - 3 } k g / ( m \cdot s ) } = 2 2 5
+$$
+
+可见Benchmark问题的雷诺数较低。
+
+为了对比其他流场信息，除了气动系数外，我们还在障碍物迎风面及背风面设置

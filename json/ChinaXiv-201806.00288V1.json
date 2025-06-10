@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "1.26米红外望远镜测光处理管线设计与实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "钟文杰¹，邓辉l\\*，刘应波’，袁聿海¹，李长华“，黄伟荣¹，付泰¹，王锋12 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．广州大学天体物理中心/物理与电子工程学院，广东广州,5100062．中国科学院云南天文台，云南昆明，6500113．中国科学院国家天文台，北京，100101",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：1.26m 红外望远镜是一台由国家天文台和广州大学联合建设的望远镜系统，测光观测是该望远镜的重要观测手段之一。但当前一直存在数据处理周期较长、处理过程基本需要人工处理等问题。为了提高广州大学合作团队的数据处理能力，提出了一种面向1.26m红外望远镜半自动的测光处理管线，该管线在获取原始数据后，基于当日的观测记录重建FITS 头文件信息，随后管线系统自动对图片进行预处理、定位目标星源、计算出目标星等相关操作，最后获得可利用的测光数据。这种方式高效、便捷，同时精度也得到了保证，它把当前主流测光模式中繁杂的、需要不断重复的步骤交由程序运行，从而节省了时间，显著提高了工作效率，解决了当前光学测光模式中图像数据的处理跟不上数据产出的大难题，满足了广大科研工作者的需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：1.26米红外望远镜；测光；数据处理；管线中图分类号：P111.2;TP311.1文献标识码：文章编号：1672-7673(2018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.26 米红外望远镜是由中国科学院南京天文仪器中心研制，于1985 年安置在兴隆基地并投入使用，并在近几年进行了全面升级改造。目前1.26 米红外望远镜不仅配备有近红外成像系统，还配备有三通道光学成像系统，该系统包含3个CCD 相机，分别对应g、r、i3个波段，适应望远镜焦比为 $F / 8$ ，分辨率达到0.117角秒/像素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，绝大部分台站对测光数据处理仍然依赖于手动，效率低下，拖延了科研工作的进度，无法满足科研工作者的需求。当前测光数据处理一般采用国际流行的测光软件IRAF 中APPHOT或 DAOPHOT包进行。首先通过获取本底、平场、暗场和目标图像等信息，对目标图像进行预处理后，在IRAF中通过imexa命令获得合适的半宽和标准差，然后进行相关参数的设定，最后进行测光操作，就可以得到一张图像的星等、通光流量等信息。在处理中不断重复以上步骤，直到处理完所有目标图片后，把所有图像中的星等信息绘制成光变曲线。在数据处理过程中，观测目标星和标准星都需要手工选定，如果一次处理几十上百幅图像，数据处理人员会感觉到非常疲劳，也容易出错。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对这种情况，对特定的望远镜系统研制一套测光处理管线，能够基本自动完成数据处理，提交准确的结果供科学家后续处理分析,大幅降低人工投入，加快科学数据产出，具有",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "明显的应用价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "天体测光，即对天体光亮度的测量，天文学中用CCD相机把天体的光亮度信息记录下来，保存为fits图像，方便进行后续的研究。CCD 相机于1969 年问世，并于20世纪90年代初被广泛用于天体测光，文[2]在研究CCD的平场改正精度对CCD测光精度的影响时，得出了CCD平场改正精度与CCD测光精度成正比关系的结论。文[3]在对BLLac天体3C66A进行测光研究时，获得了孔径参数的设定与仪器星等误差的关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测光处理是天文数据处理中的常用功能。多年来很多天文学家开发了相应的测光软件，如当前最为普及的 IRAF、IDL 等软件中均有成熟的测光软件模块。近几年来，随着 Python在天文软件中普及使用，Photutils软件包被开发出来，并集成到Astropy 软件包中，进一步推动了Python 的发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对具体的测光处理，国内外均对测光数据处理的效率与精度开展了前期研究。如文[4]在研究星团 NGC1664 和星团 NGC2168 的生长曲线时，把自己设计的软件与IRAF 的 APPHOT包进行内部精度比较，得出中等亮度的星和暗星在测量的内部精度方面稍优于IRAF的结论。文[5]通过比较两种快速星像匹配算法，得出基于向量的方法更优的结论。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据的测试与批量处理针对近年来不同的望远镜系统也出现了一些良好的成果。如针对Thacher天文台的测光程序,Michael研发了Photometry Pipeline的相关程序,效率很高，但却因图像预处理、星像匹配等因素影响其精度。这些程序已经具有较完整的功能，可以针对特定的系统进行半自动的数据处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参考上述的研究成果，结合已有的软件系统或软件包，针对国家天文台和广州大学共建的1.26 米望远镜的特定需求，开发研制一套完整的数据处理管线是可能的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.系统整体框架",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近十年来，互联网的快速发展和软件技术的飞速进步为天文软件的开发打下了良好的基础。要开发一套实用的天文测光管线的难度已经大幅下降，基本上每个功能或算法都可以找到相应的软件代码。特别是除了单机上可以运行的软件包（软件系统）以外，目前有大量的部署在互联网上天文应用系统，在线提供相应的天文数据搜索、查询和处理服务。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为此，开发国家天文台-广州大学共建的1.26m 红外望远镜的测光处理管线系统，核心在于如何有效集成这些软件资源，通过更为合理的流程与关键技术的实现获得稳定、可靠的软件系统。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1支持软件和环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为快速地构建数据处理管线，在软件开发中，直接采用了如下软件开发包。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）astropy 软件包。其中 astropy.io 适用于编辑、读取、存储 fits 文件的信息，是编写天文软件必不可少的工具包；astropy.wcs（全称 World Coordinate System，即世界坐标系）用于管理fits文件中世界坐标系的转换;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）ccdproc包，实现CCD 图像的处理，计算增益与读出噪声、合并图像等功能；（3）SExtractor软件，SExtractor是astromatic 中的软件包，具有探测天文图像中的光源、计算天文图像中合适的半宽与背景偏差和孔径测光等功能，它具有较好的分辨和分解能力，能够快速分辨天体与噪声，区分部分重叠的天体，适合进行星像提取与图像测光；（4）SCAMP包8可以根据 SExtractor包提取的星像信息与已有的星表进行匹配，并得到fits图像所在的天区信息（即望远镜的指向)，它的计算速度快、灵活性好。（5）在线星表，为了快速实现对数据的处理，系统中采用了GAIA星表作为位置测定星表，采用了 SDSS-R9 为测光星表。在开发中，直接使用astroquery软件包访问在线星表。为了解决观测中经常使用星名，或者不同星表星编号不同的问题，在开发中直接利用Simbad提取相应的观测目标信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2系统流程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1给出了整个系统实现中一个FITS文件的数据处理流程。从图1可以看出，当前的数据处理流程依赖于观测日志文件，根据日志中的数据判断当前需要进行的处理，同时整个数据处理过程完全依赖于FITS文件头中的信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6efe72237849ff0e24d1a7ed85df1c5961552e414ecfbceda400c49a6885d401.jpg",
+        "img_caption": [
+            "图1数据处理流程示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.关键问题与解决",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1FITS文件预处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前1.26m望远镜采用观测助手观测模式，在每天观测完成后，由观测助手手工编制一个观测日志文件，这个文件与所有的观测数据存放在同一目录。为适应本处理管线的需要，需要手工生成如下格式的数据文件，结构如表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/812201771f648152b623ef2949fc64f5a14395ef9053aecec43d7c92082115ca.jpg",
+        "table_caption": [
+            "表1观测日志示意表 Table 1 Observational log file format "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1,10,bias,1,，</td></tr><tr><td>116,125,skyflat,1,,</td></tr><tr><td>126,135,dark,300，，</td></tr><tr><td>11,53,3C454.3,300,22:53:57,+16:08:53</td></tr><tr><td>55,94,PKS0235+164,300,02:38:38.9301,+16:36:59.275</td></tr><tr><td>96,114,0J287,300,08:54:48,+20:06:30</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这个观测日志是标准的CSV格式，前两个数表示编号的起始与结束。后面是观测目标（或者是平场、暗场、本底)，随后是曝光时间，最后两个是观测目标的望远镜指向。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据观测日志的信息，重写观测获得的原始FITS文件是非常必要的。目前，从 $1 . 2 6 \\mathrm { { m } }$ 望远镜获得的原始FITS 文件存在FITS 头不规范的问题。最为关键的是缺少数据自动处理所必须的若干重要信息，包括望远镜的粗指向信息（赤经,赤纬）、观测台址坐标、曝光时间等。这一信息的缺失，一方面影响后续的数据处理，更重要的是对后续的数据归档和其它团队的科研协作等方面都存在明显的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在系统设计中，利用astropy.io 软件包打开fits 文件的 header，利用 read、write等命令读取其中的信息，并对其中缺失的部分进行填补，不合理的部分在咨询后修改。具体修改的字段见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/048dfff88f2597abd6b8ba02ba54adb460d7731fae1aa4504a4beefb0ed9c267.jpg",
+        "table_caption": [
+            "表 2FITS头中写入的字段Table 2Theheaderinformationin the FITS file"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>字段</td><td>拟填入值</td><td>备注</td></tr><tr><td>1</td><td>OBSERVAT</td><td>NAOC</td><td>Observatory name</td></tr><tr><td>2</td><td>LATITUDE</td><td>'+40:23:45'</td><td>LATITUDE</td></tr><tr><td>3</td><td>LONGITUD</td><td>'117:34:38'</td><td>LONGITUD</td></tr><tr><td>4</td><td>OBJECT</td><td>OJ287</td><td>观测目标，如OJ287等</td></tr><tr><td>5</td><td>RA</td><td>ra_str</td><td>望远镜粗指向</td></tr><tr><td>6</td><td>DEC</td><td>dec_str</td><td>望远镜粗指向</td></tr><tr><td>7</td><td>RADESYS</td><td>FK5</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fdb1480ec07646beaf53e22098d78e0e03158a34238d45cd265c20fda9d10463.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "上述信息的补全是整个数据自动处理的关键，比如CTYPE1和CTYPE2定义了CCD与观测天区的对应关系，此外部分数据是在后期经过精确匹配后再填入的值，如CD1_1等。"
+        ],
+        "table_body": "<html><body><table><tr><td>8</td><td>DATE-OBS</td><td>EXPDATE</td><td>观测日期</td></tr><tr><td>9</td><td>TIME-OBS</td><td>EXPSTART 观测时间</td><td></td></tr><tr><td>10</td><td>IMAGETYP</td><td>obj_name</td><td>bias,dark,skyflat,object</td></tr><tr><td>11</td><td>WCSAXES</td><td>2</td><td>/Getlmage: Number WCS axes</td></tr><tr><td>12</td><td>EQUINOX</td><td>2000.0</td><td>Astrometry Equinox</td></tr><tr><td>13</td><td>CTYPE1</td><td>RA--TAN</td><td>RA的切线投影</td></tr><tr><td>14</td><td>CTYPE2</td><td>DEC--TAN</td><td>DEC的切线投影</td></tr><tr><td>15</td><td>CRPIX1</td><td>(2536+1)/2</td><td>×轴参考点，中心点（像素）</td></tr><tr><td>16</td><td>CRPIX2</td><td>(3358+1)/2</td><td>y轴参考点，中心点（像素）</td></tr><tr><td>17</td><td>CRVAL1</td><td>ra</td><td>参考点的RA</td></tr><tr><td>18</td><td>CRVAL2</td><td>deg</td><td>参考点的DEC</td></tr><tr><td>19</td><td>CUNIT1</td><td>deg</td><td>单位</td></tr><tr><td>20</td><td>CUNIT2</td><td>deg</td><td>单位</td></tr><tr><td>21</td><td>EXPTIME</td><td>exp_time</td><td>Integration Time</td></tr><tr><td>22</td><td>CD1_1</td><td>cdelt</td><td>Degrees/pixel，×轴比例尺</td></tr><tr><td>23</td><td>CD1_2</td><td>0</td><td>DegreesCCDX轴倾斜角度</td></tr><tr><td>24</td><td>CD2_1</td><td>0</td><td>Degrees</td></tr><tr><td>25</td><td>CD2_2</td><td>-cdelt</td><td>Degrees/pixelY轴比例尺</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2平场与暗流改正",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "平场与暗流的改正对测光有一定的影响。在实际处理中，利用ccdproc 软件包，实现了图像的改正。程序可以在当天的观测数据中提取两张本底（Bias）与两张平场（Flat）图像，计算得到增益（Gain）与读出噪声（ReadNoise）的值。随后将所有本底图像先合并再取平均，得到的图像为合并后的本底。然后把平场图像分别减去合并后的本底图像再合并取平均，得到处理后的图像为合并后的平场。最后把所有目标源的图像先减去合并后本底图像，再除以合并后的平场图像。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "需要说明的是，由于CCD的暗流低于0.1电子/像素/s，所以暗场的影响很小，因此不做暗场处理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3指向判断与坐标修正",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SExtractor采用矩方法定心，根据fits头文件的粗指向、比例尺等信息，把fits 图像中高于背景信噪 3sigma 光源的像素信息提取出来并记录，然后 SCAMP 包则根据SExtractor提取出来的星像信息通过网络与已有的星表Gaia进行图像配对，尽管望远镜有小幅度的偏移和旋转，但在完成图像匹配后，SCAMP包计算出望远镜精确的指向以及CCD 准确的比例尺（scale）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图2，其中红色区域表示星表中应存在的源，绿色区域表示匹配较好的源，背景黑框为实验时几十帧的fits图像，网格线为天球坐标系，纵坐标为时角，横坐标为赤纬。然后把可以准确定位到视场所在天球坐标系上位置(望远镜指向)的图像进行注册，成功注册的fits 图像文件记为goodfits，部分偏移视场过于严重或双重曝光而导致不能匹配的fits文件称为badfits。往后的操作只对goodfits进行处理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另外，SExtractor 还计算出图像中最优的半宽，对于暗弱的天体则需要把信噪比参数调低，才能方便后续测光程序的运行。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0a094f1f194ffe2a51b33b4d8472e3ebc18d33100c1fa51403ddb34e58d9072.jpg",
+        "img_caption": [
+            "图2GAIA星表与FITS图像文件的匹配示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2GAIA star and FITS image files matching diagram ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过这一处理，完全回避了由于望远镜指向误差或跟踪误差带来的影响。也就是说，只要给出观测目标的赤经和赤纬，就一定可以在观测图像中找到该目标的精确位置，而不再需要人工点击选择。此外，对于这一视场中的标准星，也可以反过来通过星表先查询，再通过位置精确找出这些标准星所在的像素值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4测光星与标准星的选择",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据测光星的编号，程序可以自动获取其坐标，而标准星需要挑选离测光星较近，且亮度较高的星作为参考（由于图像的偏移与旋转，导致不同图像显示出来的视场不一样，选取较远的星容易偏离视场，选取较暗的达不到标准星的效果)，以 $1 . 2 6 \\mathrm { { m } }$ 红外望远镜为例，该探测器CCD阵列为 $2 5 3 6 * 3 3 5 8$ ，实际天文观测视场为 $4 . 5 1 ^ { \\circ } \\times 5 . 9 8 ^ { \\circ }$ ，实际处理中，需要判断这一天区观测的第一张图和最后一张图，判断共同存在的星像位置，再根据星表中的星等信息，自动选择并找出标准星（control_star)，这样的模式充分利用了在线的星表服务，避免了人工点击，从而提高了计算效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.系统部署与性能",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1系统部署",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于计算机性能的显著提高，运行本文的程序并不需要很高的硬件配置。在中国虚拟天文台和阿里云的支持下，程序直接部署在阿里云的云端。硬件配置为4核CPU，内存64GB。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "操作系统采用Ubuntu 16.04LTS。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所有的自行开发程序代码采用Python3编写完成。为了简化系统部署，Python3的解释器直接采用Anaconda 3.0。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2运行过程与性能",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以广州大学利用国家天文台1.26m 红外望远镜获取的 2016年11月1号一天数据中的OJ287为例，实验一共采用g、r、i3个波段的fits 观测图片57张，总观测时间近4时30分，程序运行的总时间约为7分30秒，完成了从FITS 头重建、星像坐标搜索、计算最优孔径、孔径测光等全过程，整个过程一次完成，无需人工干预。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "部分运行过程说明如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1、最优孔径的选择。根据测光孔径与信噪比的关系，程序采用信噪比最大时的孔径作为测光的最优孔径，如图3，最优孔径的像素不会因太少而失去太多的通光，也不会因太多而把背景流量计算进来（约0.68倍FWHM[9-10]），采用最优孔径的精度最高，但最优孔径不能包含目标源的全部流量（如图4红圈)，因此需要孔径校正与测光补偿[910]。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9e25082547bb11084285f1ec1434a3e80484e20c1abb3707d1585a0aa19fa72.jpg",
+        "img_caption": [
+            "图3测光孔径与信噪比的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 The relationship between Aperture Radius and SNR ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1ca02752542b5989d38b63f11d6b1834fe970ca4981f44d25e836b15d1f311d.jpg",
+        "img_caption": [
+            "图4采用最优孔径（红圈）的测光星图像 Fig.4Meteor star image with the best aperture "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2、测光星与标准星（控制星）的选择。目前，测光星根据FITS 文件中的OBJECT 字段来获得，再通过在线调用 SIMBAD的相应服务，获取测光星的赤经和赤纬。标准星是为相对测光使用，程序自动计算中，可以准确地找出测光星和标准星，并完成相应的测光处理。结果如图5。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dfdd20de3cff656d837f22bc4360f27a06676fec711ce3e98c6618d143c238c.jpg",
+        "img_caption": [
+            "图5(a)标准星的星等随时间的变化，(b)测光星OJ287的星等随时间的变化，图中竖线为误差棒，表示星等的不确定度"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.5(a) shows the variations of the standard star magnitude, (b)shows the variations of the photometric star OJ287magnitude, vertical line means the error range which express the uncertainty of the magnitude ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3存在的一些问题讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "自动测光处理管线高效便捷，可以给科研工作者带来很多的便利，但在实现与当前应用的过程中，也注意到它的一些局限性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）采用 SExtractor和 SCAMP 进行视场内星像匹配，可以非常准确地判断出当前视场中心的赤径和赤纬，同时也可以非常精确地得到像素比例尺、CCD 的安装倾斜角度等信息，这为自动数据处理打下了坚实的基础，但相对来说，这样的方式计算相对较慢，对中央处理器要求相对较高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）对部分信噪比较差的或偏移严重的图像就没有办法自动处理。这一类数据只能根据观测者的要求进行后续手工处理。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）标准星（控制星）的选择目前还是基于星等信息，但在实际处理问题时可能需要固定某一颗星为标准星，这与程序中标准星的选择会产生一定的矛盾，需要在后续工作中继续完善。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.总结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文实现了一个自动测光的管线系统，只需要观测人员生成观测日志，就可以实现对FITS 头的完善与部分关键信息的补写，随后所有的测光处理过程由程序自动处理，最终得到科学、有效的数据，这种方式准确高效；整体来看，研究成果达到了原定的需求，取得了较好的运行效果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "感谢国家天文台-阿里云天文大数据联合研究中心对本项工作的支持。感谢国家天文台吴宏研究员的意见。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Stetson PB.DAOPHOTO: a computer program for crowded-field stellar photometry[J].Publications of the Astronomical Society of the Pacific,1987,99 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(613） :191-222.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2]刘新德，张云，卢汝为，等.CCD平场改正精度对CCD 测光精度的影响[J]．云 南天文台台刊,1988(1):72-76. Liu Xinde, Zhang Yun, Lu Ruwei, et al. Effects of the correction accuracy of the CCD flat fieldon the CCD photmetrilacuracy[J]. Publications of Yunnan Observatory, 1988(1):72-76.   \n[3]邱光良，梁继华，苏云宝,等．CCD 测光孔径参数研究[J]．云南师范大学学报, 2011,31(4):26-29.   \nQiuGuangliang，Liang Jihua, SuYunbao，et al． Research for aperturein CCD photometry[J]. Journal of Yunnan Normal University, 2O11,31(4):26-29.   \n[4]曾开华,彭青玉．高精度恒星孔径测光注释[J]．天文研究与技术,   \n2010,7(2):124-131. Zeng Kaihua, Peng Qingyu. Notes on High Precision Aperture Photometry of Stars[J].Astronomical Research & Technology,2010,7(2):124-131.   \n[5]任俊杰,彭青玉．两种快速星像匹配算法的比较[J]．天文研究与技术一国家天文   \n台台刊,2010,7(2):115-123.   \nRengJunjie, Peng Qingyu. Comparison of two fast object matching algorithms[J]. Astronomical Research & Technology—Publications of National Astronomical Observatories of China, 2010,7(2):115-123.   \n[6]Mommert M. PHOTOMETRYPIPELINE: an automated pipeline for calibrated photometry[J]. Astronomy & Computing, 2017,18:47-53.   \n[7]阮志锋,邬文弢.SExtractor及其在深度巡天研究中的应用[J]．天文研究与技术, 2016, 13(2): 266-272. Yuan Zhifeng，Wu Wentao. The SExtractor and its application in deep sky surveys[J].Astronomical Research & Technology, 2016,13(2):266-272.   \n[8]BertinE.Automaticastrometricandphotometriccalibrationwith   \nSCAMP[C]//Astronomical Data Analysis Software and Systems XV ASP   \nConference Series.2005.   \n[9]Mighell KJ. Algorithms for CCD stellar photometry[C]//Astronomical Data ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Analysis Software and Systems XV ASP Conference Series.1999:317-328. [10]Mighell KJ. CCD aperture photometry[C]//Astronomical Data Analysis Software and Systems XV ASP Conference Series.1999:50-55. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Design and Realization of Photometric Processing Pipeline for ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.26m Infrared Telescope ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZHONG Wenjiel,DENG Hui1, LIU Yingbo1,YUAN Yihai1,LI Changhua³, HUANG Weirong1, FU Tai1, WANG Feng1,2 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1．Astrophysics Center/Institute of Physics and Electronic Engineering, Guangzhou University Guangzhou, Guangzhou, 51ooO6, China,Email: denghui $@$ gzu.edu.cn; 2. Yunnan Observatories, Chinese Academy of Sciences,Kunming, 65oo11, China;3.National Astronomical Observatory, Chinese Academy of Sciences, Beijing,1O010, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The1.26m infrared optical telescope is a telescope system co-constructed by the National Astronomical Observatories and Guangzhou University. Photometry is one of the important means of the telescope observation. However, the data processing for observational data is a significant problem in current system. In order to speed upthe processing performance, in this paper, wepresents a semi-automatic photometric processing pipeline for the 1.2-meter infrared telescope.After obtaining the original data, the pipeline system would rebuild the FITS header information according to the observation log of the day.And then,allthe FITS images would be processed automatically including searchingstar positions, calculating the grow line and FTHW of the stars, computing target magnitude and saving the final results. Thepipeline proposed in the study is efficient, convenient and accurate.It combined fullcomplicated and repetitive steps in the current mainstream metering mode into the program so as to save unnecessary labor time, significantly improving work efficiency. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: 1.26 meters infrared telescope; Photometry; Data Processing; Pipeline ",
+        "page_idx": 9
+    }
+]

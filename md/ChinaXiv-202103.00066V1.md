@@ -1,0 +1,162 @@
+# AIRS辐射亮温在中亚地区的偏差分析及适用性
+
+马玉芬²，李如琦³，张萌³，买买提艾力·买买提依明¹²，张广兴1.2（1.中国气象局乌鲁木齐沙漠气象研究所,新疆 乌鲁木齐830002；2.中亚大气科学研究中心,新疆乌鲁木齐830002；3.新疆气象台，新疆 乌鲁木齐830002)
+
+摘要：中亚地区常规观测站点稀少,需借助星载高光谱AIRS资料分析出该地区数值预报最优初始场。以CRTM中输入探空模拟出的AIRS辐射亮温为参考值,分析了AIRS 观测亮温偏差，并评估了AIRS卫星资料在中亚数值天气预报业务系统中的适用性。结果表明：(1）各通道模拟所选站点上空亮温最大正偏差的平均值约为3.3K,最大负偏差的绝对值约为 $2 . 6 \mathrm { K } _ { \circ } ( 2 )$ 多个站点平均的AIRS 观测辐射亮温整体略高于模拟亮温，其概率密度分布比单个站点更加接近正态分布曲线。（3）AIRS的同化改善了RMAPS-CA对位势高度、温度、比湿等高空要素的预报效果，并未改善高空风速的预报。对各个要素,AIRS的同化改善幅度在低层较高层大。同化后,位势高度、温度、比湿和风速的预报RMSE分别小于 $2 0 \mathrm { g p m } \cdot 2 \mathrm { K } \cdot 8 { \times } 1 0 ^ { - 4 } \mathrm { k g } { \cdot } \mathrm { k g } ^ { - 1 }$ 以及 $5 \mathrm { m \cdot s ^ { - 1 } }$ 。
+
+关键词：AIRS；中亚；辐射亮温；偏差分析；适用性
+
+中亚地区位于欧亚大陆腹地，是北半球最大的干旱、半干旱地区。中亚地区泛指亚洲中部，及伊朗、阿富汗、巴基斯坦、印度的部分地区也应属于中亚范畴[]。受中纬度西风带的控制，中亚地区为典型的大陆性气候[2]，冰雪融水为该地区的重要水源补给[3],研究及预报中亚地区的降水及温度变化等已成为广大气象工作者的研究热点[4]。然而，由于常规观测稀疏[5-6],要分析出该地区数值天气预报系统的最优初始场，仅依靠少量的常规观测资料远远不够，还需借助高分辨率的星载大气红外探测器AIRS资料[7-10]
+
+先进的红外光谱新型探测设备AIRS是美国宇航局AQUA卫星上携带的众多仪器之一，是能采集2378个停贷的热红外辐射的高光谱红外探测仪。采用红外光栅分光技术，高光谱分辨率 $\vartheta / \Delta \vartheta \approx$ 1200，每天全球覆盖2次,可以连续在 $3 . 7 { \sim } 1 5 . 4 ~ { \mu } \mathrm { m }$ 的光谱范围内观测地球大气及变化。AIRS的扫描宽度为 $1 6 5 0 ~ \mathrm { k m }$ 。AIRS的星下点空间分辨率为$1 3 . 5 \mathrm { k m }$ ,垂直分辨率 $1 \mathrm { k m }$ ，每2.667s横向扫描1次，扫描角度 $\pm 4 9 . 5 ^ { \circ }$ ，每个观测视场包含2378个光谱取样,90个视场组成一个扫描线,扫描线长 $1 6 5 0 \mathrm { k m }$ ，每 $6 ~ \mathrm { m i n }$ 的135条扫描线组成一个景，每天全球有240个景的观测，其中约120个景在白天，而另外120个景在夜间。AIRS的大多数信道在光谱响应和灵敏度方面表现出优异的性能[1]。但观测与模拟辐射之间的系统偏差客观存在，使得其推广应用仍然面临许多问题。在AIRS直接同化应用到数值预报业务系统[12]之前，须将卫星观测亮温进行质量控制[13]和偏差订正[14-15],而偏差分析[16]是偏差订正的第一步。国内分析AIRS反演温湿度廓线偏差的研究较多[17],分析AIRS探测亮温偏差的研究并不多见[18]。目前,AIRS辐射亮温业务已经应用于我国数值预报中心的数值天气预报业务系统，并提高了数值预报准确率[19-20],但在中亚数值天气预报业务系统RMAPS-CA（Regional Meso-scale Analysis andPredictionSysteminCenterAisa)尚未开展AIRS辐射亮温资料的同化。
+
+鉴于此,本研究首先通过与CRTM(CommunityRadiativeTransferModel)2i模拟亮温相比，分析了AIRS卫星亮温的偏差分布特征，然后用美国国家大气研究中心(NCAR)开发的中尺度模式WRF(ARW)V4.0 及其三维变分同化系统WRF-3DVAR[22-23],以
+
+2016年7月1日晴空天气为例，评估了AIRS卫星资料RMAPAS-CA中的同化效果，为AIRS2在RMAPAS-CA中的业务同化应用奠定技术基础。
+
+# 1资料和方法
+
+# 1.1资料
+
+本文所用的辐射亮温资料是AIRS的一级产品，可从GDAS(global data assimilation system)免费获取(ftp:/ftpprd.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/）AIRS每天有00UTC，06UTC，12UTC，18UTC共4个时次的二进制BUFR格式数据文件，每个时次的数据为将每个时次前后 $3 \mathrm { ~ h ~ }$ 的数据拼接到一起生成的文件。在日常的数值天气预报业务同化中，常用到的AIRS的281个辐射亮温通道，故在本次偏差分析及适用性评估中，仅对其中的281个通道进行研究。本文所用的探空资料观测时间为2016年7月1个月，每日观测2次，分别为07:15、19:15(北京时)。本研究用于驱动区域数值预报模式的全球背景场为$0 . 5 ^ { \circ }$ 的GFS(Global Forecast System）
+
+# 1.2 方法
+
+文中用到的辐射传输模式CRTM（CommunityRadiativeTransferModel)是由卫星资料同化联合中心（Joint Center for Satellite Data Assimilation,JCS-DA)开发的快速辐射传输模式，它是针对卫星资料同化而开发的，对云雨条件下的卫星观测的模拟计算能力较强。CRTM模式主要由前向模块、切线性模块、伴随模块以及K矩阵模块等4个模块组成，主要功能模型包括下垫面发射反射模型、气溶胶吸收反射模型、云吸收散射模型、气体吸收模型和辐射传输方程求解模块。本研究利用WRF模式对研究区域和时间进行预报，得到CRTM模拟亮温所需的地表类型和云量等相关参数，然后参考CRTM中LOAD_ATM.in文件中的温度、气压等7项要素的格式将TTAA格式的探空报文资料处理成98层的廓线，进一步输入到CRTM模式中，模拟出AIRS红外亮温，并以此为真值，分析通过与AIRS观测亮温的偏差。
+
+本文将RMAPS-CA的母网格区域作为研究区域。该系统使用的中尺度模式是WRF(ARW)V4.0,模拟采用单层网格方案(图1)。具体的数值模拟方案[24]见表1。
+
+由于GFS中首先已同化了AIRS观测，故在设计数值试验时，用了提前6h的GFS预报场作为背景场，即用2016年6月30日18：00的GFS预报场作为2016年7月1日00：00的背景场。NR试验中不同化任何资料，而AIRS试验同化2016年7月1日00：00的AIRS资料，依此类推。
+
+![](images/56d289ec794b16c3693392fffa031687c2be99835dee084cc775cf4b824fba96.jpg)  
+图1研究区示意图Fig.1 Target region
+
+表1数值模拟方案  
+Tab.1 Numerical simulation schemes   
+
+<html><body><table><tr><td>参数名称</td><td>参数设置</td></tr><tr><td>初始条件和边界条件</td><td>GFS (0.5°x0.5°)</td></tr><tr><td>中心点</td><td>(43.55N,87.85E)</td></tr><tr><td>格点</td><td>712 km×532 km</td></tr><tr><td>格距</td><td>9 km</td></tr><tr><td>垂直层数</td><td>50</td></tr><tr><td>模式层顶气压</td><td>10 hPa</td></tr><tr><td>时间步长</td><td>10 s</td></tr><tr><td>微物理过程方案</td><td>Thompson</td></tr><tr><td>长波辐射方案</td><td>RRTMG scheme</td></tr><tr><td>短波辐射方案</td><td>RRTMG scheme</td></tr><tr><td>积云对流方案</td><td>Kain-Fritsch</td></tr><tr><td>陆面过程方案</td><td>Noah Land Surface Model</td></tr><tr><td>边界层方案</td><td>ACM2</td></tr></table></body></html>
+
+# 2偏差分析
+
+分析中亚地区的AIRS亮温偏差，首先要知道该区域AIRS资料的空间分布情况。对2016年7月1日的00UTC、06UTC、12UTC和18UTC4个时次的AIRS辐射亮温观测（图2中的 $X$ )按照气压(P)属性进行分层，各层对应气压范围见表2。
+
+表2对AIRS辐射率观测的气压分层设定  
+Tab.2Pressure layerssetupofobservedAIRS radiance   
+
+<html><body><table><tr><td>分层序号</td><td>最大气压/hPa</td><td>最小气压/hPa</td></tr><tr><td>1</td><td>50</td><td>10(模式层顶)</td></tr><tr><td>2</td><td>100</td><td>50</td></tr><tr><td>3</td><td>150</td><td>100</td></tr><tr><td>4</td><td>200</td><td>150</td></tr><tr><td>5</td><td>300</td><td>200</td></tr><tr><td>6</td><td>500</td><td>300</td></tr><tr><td>7</td><td>700</td><td>500</td></tr><tr><td>8</td><td>1000(模式层底)</td><td>700</td></tr></table></body></html>
+
+从图2可以看到，在 $\mathrm { 0 0 U T C } { \pm } 3 \mathrm { h }$ 时间窗口内，绝大多数观测集中在中亚偏西地区。在中国的偏西偏北地区分布稀疏，且主要以 $\mathrm { P } < 5 0 \ \mathrm { h P a }$ 的高层亮温观测为主(图2a)。在 $0 6 \mathrm { U T C } \pm 3 \mathrm { ~ h ~ }$ 时间窗口内，AIRS_AQUA扫描带有2个，偏西的1个扫描带扫过中国新疆和西藏的大部分区域，而偏东的扫描带扫过内蒙古和甘肃直至云南的中国中部一带，且在中国境内的亮温观测多在气压大于 $7 0 0 \mathrm { { h P a } }$ 以下的低空。而低空亮温观测由于受到地表辐射、地形等因素的影响，使得其与CRTM模拟的探空亮温可能有较大偏差。在 $1 2 \mathrm { U T C } \pm 3 \mathrm { ~ h ~ }$ 时间窗口内（图2b），AIRS_AQUA绝大多数观测集中在中亚偏西地区。在中国的偏西偏北地区分布较 $\mathrm { 0 0 U T C } { \pm } 3 \mathrm { h }$ 时间窗口内的AIRS辐射亮温观测数量更稀疏，也主要以 $\mathrm { P } <$ $5 0 \mathrm { { h P a } }$ 的高层亮温观测为主(图2c)。在 $1 8 \mathrm { U T C } { \pm } 3 \mathrm { h }$ 时间窗口内，AIRS_AQUA扫描带有2个，偏西的1个扫描带扫过中国新疆、甘肃和青藏高原大部，而也较 $0 6 \mathrm { U T C } { \pm } 3 \mathrm { h }$ 时间窗口内的东部扫描带整体向东偏移了约5个经度(图2d)。
+
+鉴于AIRS辐射亮温观测在中亚地区的分布情况（图2），结合RMAPS-CA的母网格覆盖范围（图1)，本文选择了 $0 6 \mathrm { U T C } { \pm } 3 \mathrm { ~ h ~ }$ 和 $1 8 \mathrm { U T C } \pm 3 \mathrm { ~ h ~ } 2$ 个时间窗口内覆盖中国西部地区的扫描带里的探空站作为代表站点(表1)。与此同时，因 $0 0 \mathrm { U T C } \pm 3 \mathrm { ~ h ~ }$ 和
+
+![](images/fd3531488e8d455eb97dec9ede8d268cabc0237d2d0b7e6f654284cec5d63f15.jpg)  
+图2AIRS辐射亮温空间分布  
+Fig.2Spatial distribution ofAIRS brightness temperature (BT)
+
+$1 2 \mathrm { U T C } { \pm } 3 \mathrm { ~ h ~ } 2$ 个时间窗口内AIRS_AQUA扫描带的星下点与RMAPS-CA的母网格中心偏离较远，可能导致模拟的探空亮温与观测亮温出现较大偏差，而这种大偏差的亮温观测在业务同化时也会被WRF-DA自动剔除，故不选择这2个时段内的卫星扫描带内的探空站点进行研究。
+
+在筛选出的站点(表3)中，我们选择在站点经纬度 $\pm 0 . 2 ^ { \circ }$ 范围内、离观测站点距离最短、观测时间间隔最小的AIRS辐射亮温与CRTM模拟的探空亮温对比进而分析AIRS辐射亮温。此处分析的AIRS辐射亮温，仅限于在数值天气预报业务系统同化模块中常用的281个通道。受限于上述空间配对方法，筛选出了表2中的12个站点，分析了2016年7月1一31日(塔中站加密观测实验持续时间)期间各个站点的整月辐射亮温平均偏差(图3)。
+
+从代表探空站点的AIRS的亮温偏差(图4)可以看到，各个站点处模拟出的探空亮温数量各不相同，均小于预期模拟出的281个通道数，模拟出的通道数量最大值191在伊宁站，最小值65在塔中站，仅塔中站和民丰站模拟探空亮温通道数在100以下，其余10个站的通道数在163\~190之间，约占了所有281个亮温通道数的 $5 8 \% { \sim } 6 8 \%$ 。与此同时，各通道模拟探空亮温偏差有正有负，整体偏差范围在 $- 4 . 0 \mathrm { K } { \sim } 4 . 0 \mathrm { K }$ 。各站的最大和最小偏差不同，且最小偏差的绝对值小于最大偏差的绝对值，最大偏差的平均值约为3.3，最小偏差的绝对值约为2.6。其中，明丰站的最大偏差比其他11个探空站的最大偏差小，仅为0.6，最小偏差的绝对值也比其他11个探空站小，最小偏差仅为-0.6(表1)。
+
+资料偏差符合正态分布的特点是三维变分资料同化的必要条件之一。为进一步探讨探空模拟亮温与AIRS观测亮温的偏差，我们绘制了亮温偏差的概率密度分布直方图，并拟合了其高斯概率密度分布曲线。GaussAmp函数的一般形式为：
+
+$$
+f ( x ) = y _ { 0 } + a \mathrm { e } ^ { - \left( x - b \right) ^ { 2 } / 2 c ^ { 2 } }
+$$
+
+式中： $\boldsymbol { a } , \boldsymbol { b }$ 与 $\boldsymbol { c }$ 为实数常数，且 $a > 0$ 。 $\mathbf { \Omega } _ { a }$ 为高斯概率密度曲线的峰值。 $\textit { b }$ 为峰值对应的横坐标，即均数。 $\mathbf { \Psi } _ { c }$ 为标准差。 $y _ { 0 }$ 为概率密度曲线的基数。假设一般的正态总体在某个特定区间的概率总体用COD来表示。
+
+从代表站点的AIRS的亮温偏差概率密度曲线基态值 $y _ { 0 }$ 来看，12个探空站中仅伊宁、库车、喀什、民丰、塔中站的模拟AIRS辐射亮温偏差概率密度曲线的基态在2.0以下，比较接近正态曲线的 $y _ { 0 } { = } 0$ 。另外的7个探空站模拟AIRS辐射亮温偏差概率密度曲线与正态分布相差较远， $y _ { 0 }$ 在2.0以上，最大达到了3.46，在阿勒泰站。
+
+由图4可知，从峰值 $a$ 来看，12个探空站的模拟AIRS辐射亮温偏差概率密度曲线的峰值最大值为24.77，在阿勒泰站；最小值为8.10，在库车站。另外的10个探空站中，库车、民丰、塔中站的峰值也较小，在10以下，其余7个站的峰值在 $1 0 \sim 2 0$ 之间。从均数 $b$ 来看，12个探空站的模拟AIRS辐射亮温偏差概率密度曲线的均数在 $- 0 . 6 \sim 0 . 8 8$ 之间，绝对值均小于1。其中绝对值的最大值0.88在喀什站，说明喀什站的的概率密度曲线的对称性较差，最小值-0.28在塔城站和克拉玛依站，说明这2个站的概率密度曲线的对称性较好。从标准差 $\boldsymbol { c }$ 来看，模拟AIRS辐射亮温偏差概率密度曲线的标准差在 $0 . 0 3 \sim$ 0.19之间。其中，民丰站和阿克苏站的标准差最小。整体来看，伊宁站、库车站、和田站、塔中站模拟AIRS辐射亮温偏差概率密度较接近正态分布，阿勒泰、阿克苏、库尔勒站模拟AIRS辐射亮温偏差概率密度与正态分布相差最远，其余站居中。
+
+表3代表站点亮温值及相关参数  
+Tab.3Mean bias of BT over the selected sounding sites and other relevant parameters   
+
+<html><body><table><tr><td>序号</td><td>探空站点</td><td>探空站点经纬度</td><td>通道数</td><td>最大偏差</td><td>最小偏差</td><td>基态</td><td>峰值</td><td>均数</td><td>标准差</td></tr><tr><td>1</td><td>阿勒泰</td><td>(88.08E,47.73N)</td><td>179</td><td>3.8</td><td>-2.8</td><td>3.46</td><td>22.05</td><td>-0.35</td><td>0.13</td></tr><tr><td>2</td><td>塔城</td><td>(83.00E,46.73N)</td><td>179</td><td>4.0</td><td>-2.8</td><td>2.68</td><td>11.38</td><td>-0.28</td><td>0.35</td></tr><tr><td>3</td><td>克拉玛依</td><td>(84.86E,45.63N)</td><td>179</td><td>4.0</td><td>-2.8</td><td>3.22</td><td>10.89</td><td>-0.29</td><td>0.34</td></tr><tr><td>4</td><td>伊宁</td><td>(81.33E,43.95N)</td><td>190</td><td>3.0</td><td>-2.6</td><td>0.21</td><td>11.07</td><td>0.61</td><td>1.30</td></tr><tr><td>5</td><td>乌鲁木齐</td><td>(87.65E,43.78N)</td><td>163</td><td>3.4</td><td>-3.4</td><td>2.01</td><td>13.00</td><td>-0.60</td><td>0.39</td></tr><tr><td>6</td><td>阿克苏</td><td>(80.23E,41.12N)</td><td>186</td><td>3.2</td><td>-2.2</td><td>2.82</td><td>19.87</td><td>0.50</td><td>0.18</td></tr><tr><td>7</td><td>库车</td><td>(83.07E,41.72N)</td><td>171</td><td>3.4</td><td>-3.2</td><td>-0.03</td><td>8.10</td><td>0.44</td><td>1.72</td></tr><tr><td>8</td><td>库尔勒</td><td>(86.13E,41.75N)</td><td>170</td><td>4.0</td><td>-2.8</td><td>2.69</td><td>15.19</td><td>0.43</td><td>0.24</td></tr><tr><td>9</td><td>喀什</td><td>(75.75E,39.48N)</td><td>187</td><td>2.8</td><td>-2.2</td><td>1.89</td><td>13.19</td><td>0.88</td><td>0.59</td></tr><tr><td>10</td><td>民丰</td><td>(82.72E,37.07N)</td><td>77</td><td>0.6</td><td>-0.8</td><td>1.47</td><td>11.58</td><td>1.31</td><td>0.24</td></tr><tr><td>11</td><td>和田</td><td>(79.93E,37.13N)</td><td>179</td><td>3.0</td><td>-2.8</td><td>1.07</td><td>9.92</td><td>-0.45</td><td>0.86</td></tr><tr><td>12</td><td>塔中</td><td>(83.63E,39.04N)</td><td>65</td><td>3.6</td><td>-3.0</td><td>0.84</td><td>8.23</td><td>0.75</td><td>1.15</td></tr></table></body></html>
+
+![](images/38b0897e4a46bd28b38e47d289f5c1d9103d29ccec01b8f7d62db5499ca4317e.jpg)  
+图3代表探空站点的AIRS的亮温偏差   
+Fig.3 BIAS ofAIRS BT over the selected sounding stations
+
+与单个站点的偏差概率密度分布相比，12个探空站点的平均偏差概率密度分布更加接近正态分布曲线，其概率密度曲线的基态值 $y _ { 0 } { \approx } 3 . 4 4$ ,峰值 $a { \approx }$ 100,均值 $b$ 约等于0.33，表示多个站点平均的AIRS辐射亮温观测整体略高于CRTM模拟的探空亮温，月平均正偏差为 $0 . 3 3 \mathrm { K }$ 。标准差 $c { \approx } 1 . 7 4$ （图5）。
+
+# 3适用性评估
+
+从偏差分析的结果可以看到，虽然AIRS辐射亮温的平均偏差多在2K以内且偏差概率密度接近正态分布，但个别通道的月平均偏差值仍然较大。为进一步分析AIRS辐射亮温资料在中亚区域的适用性，我们设计了一组AIRS辐射率同化的敏感性实验，在不进行资料同化的控制试验(NR)基础上，设计了AIRS红外辐射亮温资料同化试验（AIRS）。
+
+鉴于AIRS辐射亮温观测的空间分布，我们在进行同化效果评估时，仅对位势高度、温度和比湿等高空要素的模拟值相对于模拟区域的探空值的偏差(BIAS)和均方根误差(RMSE)进行定量分析。由于假设为真值的探空资料时间间隔为 $1 2 \mathrm { h }$ ,故我们对模式积分初始时刻(以下简称00UTC)及积分 $1 2 \mathrm { h }$ （以下简称12UTC）和 $2 4 \mathrm { h }$ （以下简称24UTC)这3个时次的高空要素BIAS和RMSE分别进行对比分析，比较有无AIRS辐射率同化对各高空要素在各个时
+
+![](images/fcc8e996c82a8d0c53e64fefcb3be46d6a776c17d28824e36d354a70ef05ea3a.jpg)  
+图4代表探空站点模拟的AIRS亮温偏差概率密度分布 Fig.4Frequency density ofAIRSBT over the selected sounding stations
+
+次预报准确率的影响。
+
+（1）从位势高度场预报BIAS（图6a)和RMSE（图7a)来看。在00UTC，NR实验中，位势高度预报BIAS整体为正，且在 $8 5 0 \mathrm { { h P a } }$ 的低层达到了最大值约 $1 2 0 ~ \mathrm { g p m }$ 。而在AIRS实验中, $2 0 0 \mathrm { { h P a } }$ 以下的低空位势高度预报RMSE较NR实验有较明显的减小，低空的位势高度正BIAS调整为负，BIAS绝对值减小。在 $2 0 0 \mathrm { { h P a } }$ 以上的高空，AIRS同化对位势高度的预报为负效果。在12UTC，NR实验中，位势高度预报BIAS整体为负且随高度变化不大，仅在200hPa以上的高空为正。BIAS绝对值和均方根均在$2 0 \mathrm { g p m }$ 以内。与NR实验相比，AIRS实验 $5 0 0 \mathrm { { h P a } }$ 以下的低空位势高度预报RMSE有所减小，其上各层效果不明显。在24UTC，NR实验中，位势高度预报
+
+![](images/444ce436f037ad2c4ba031339e5603b9cbfecb52987afeec99d3f3ddd99e25d7.jpg)  
+图5模拟的AIRS亮温站点平均偏差概率密度分布 Fig.5Frequency density distribution of averaged BIAS of the simulatedAIRSBT
+
+BIAS整体为负且随高度变化不大。BIAS绝对值均在 $2 0 \mathrm { g p m }$ 以内，仅在 $1 0 0 \mathrm { { h P a } }$ 附近的高空为正BIAS,RMSE在 $2 5 \ \mathrm { g p m }$ 以内，且在 $2 0 0 \ \mathrm { h P a }$ 附近RMSE最小。在AIRS实验中，位势高度预报BIAS整体也为负且随高度变化不大。BIAS绝对值均在 $2 0 \ \mathrm { g p m }$ 以内，仅在 $1 0 0 \mathrm { { h P a } }$ 附近的高空为正BIAS，RMSE在25gpm 以内,且在 $2 0 0 \mathrm { { h P a } }$ 附近RMSE最小。与NR实验相比，AIRS同化对24UTC的位势高度的预报整体为负效果。综合来看，对位势高度的预报，AIRS同化在00UTC和12UTC时次为正效果，在24UTC为负效果，同化效果在各个时次在 $5 0 0 \ \mathrm { h P a }$ 以下的低层整体较优。
+
+(2）从高空温度场预报BIAS（图6b)和RMSE（图7b)来看，在00UTC，AIRS实验各层温度预报BI-AS绝对值和RMSE均比NR实验小，而在12UTC和24UTC整体较NR大。从BIAS来看，在各个预报时次，AIRS辐射率同化使得 $3 0 0 \mathrm { { h P a } }$ 以上的高空各层温度整体变暖，其下变冷，调整幅度最大在 $8 5 0 \mathrm { h P a }$ 以下的低层。同化AIRS后，各层温度偏差绝对值和RMSE均在2K以内。
+
+![](images/65923933c8d7f9e93e97f00da65dd2cb35d2b1f56d226d9323f660f27454fc0b.jpg)  
+图6高空要素预报偏差  
+Fig.6Forecast bias of spacial meteorological variables
+
+![](images/fc08529fd68c2148a987a9a2edcd82a25d4e0ff9f56196f9f3b424a58f18a8be.jpg)  
+图7高空要素预报均方根误差   
+Fig.7Forecast RMSE of spacial meteorological variables
+
+（3）分析比湿预报BIAS（图6c）和RMSE（图7c）。比湿(specific humidity)是指在一团湿空气中，水汽的质量与该团空气总质量(水汽质量加上干空气质量)的比值。AIRS辐射率同化在各个时次对比湿场预报都产生了不同程度的改进。由于NR实验和AIRS实验中，明显的BIAS均出现在 $3 0 0 \mathrm { { h P a } }$ 以下的低空，故以下主要分析 $3 0 0 \mathrm { { h P a } }$ 以下比湿的预报BIAS和RMSE。与NR实验相比，AIRS实验在各个预报时效对比湿场预报的RMSE整体较小，说明AIRS同化对比湿预报整体为正效果。同化后，比湿场的RMSE在各层均小于 $8 { \times } 1 0 ^ { - 4 } \mathrm { k g } { \cdot } \mathrm { k g } ^ { - 1 }$ 。
+
+(4）分析高空风速预报的BIAS(图6d)和RMSE（图7d)。同样的，在各个预报时次，AIRS的同化对$8 5 0 \mathrm { { h P a } }$ 以下的低层的风速调整幅度最大，但同化并未产生明显的正效果。
+
+# 4结论与讨论
+
+文章分析了AIRS观测卫星亮温的偏差分布特征，评估了AIRS卫星资料同化效果，得到如下结论：
+
+（1）在所选的12个探空站上空，各通道模拟探空亮温最大偏差的平均值约为 $3 . 3 \mathrm { ~ K ~ }$ ,最小偏差的绝对值约为 $2 . 6 \mathrm { K }$ 。伊宁站、库车站、和田站、塔中站模拟AIRS辐射亮温偏差概率密度较接近正态分布，阿勒泰、阿克苏、库尔勒站模拟AIRS辐射亮温偏差概率密度与正态分布相差最远，其余站居中
+
+（2）与单个站点的偏差概率密度分布相比，12个探空站点的平均偏差概率密度分布更加接近正态分布曲线，其概率密度曲线的基态值 $y _ { 0 } { \approx } 3 . 4 4$ ，峰值 $a { \approx } 1 0 0$ ,均值 $b$ 约等于0.33，表示多个站点平均的AIRS辐射亮温观测整体略高于CRTM模拟的探空亮温，月平均正偏差为 $0 . 3 3 \mathrm { K }$ 。标准差 $c { \approx } 1 . 7 4$ O
+
+（3）AIRS的同化改善了RMAPS-CA对位势高度、温度、比湿等高空要素的预报效果，并未改善高空风速的预报。对各个要素，AIRS的同化改善幅度在低层较高层大。同化后，位势高度、温度、比湿和风速的预报RMSE分别小于 $2 0 \mathrm { g p m } \cdot 2 \mathrm { K } \cdot 8 { \times } 1 0 ^ { - 4 } \mathrm { k g }$ $\mathbf { k g } ^ { - 1 }$ 以及 $5 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 。
+
+需要说明的是，限于加密探空实验的时间，本研究在偏差分析时，仅选择了2016年7月1个月作为研究时间段。由于中亚地区下垫面植被覆盖相对较少，使得地表辐射在夏季非常大，而在冬季没有积雪覆盖的区域则相对较小。故本文偏差分析的结论并不一定适用于其他季节。另外，考虑到研究成果业务转化的可能性，本研究在评估AIRS的适用性时，是基于RMAPS-CA来进行同化分析的，该系统采用的是3DVAR同化方法。如果采用更为先进的4DVAR同化方法，同化效果可能会更好。
+
+# 参考文献(References)：
+
+[1]陈发虎,黄伟,靳立亚,等.全球变暖背景下中亚干旱区降水变 化特征及其空间差异[J].中国科学:地球科学,2011,41(11): 1647-1657.[Chen Fahu,Huang Wei,Jin Liya,et al. Spatiotemporal precipitation variations in the arid Central Asia in the context of global warming[J]. Science China Earth Sciences,2O11,41 (11): 1647-1657.]   
+[2]盛承禹.世界气候[M].北京:气象出版社,1988:121-139. [Sheng Chengyu. World Climate[M] Beijing: China Meteorological Press,1988:121-139.]   
+[3]程彦培,张发旺,董华,等.基于MODIS卫星数据的中亚地区水 体动态监测研究[J].水文地质工程地质,2010,37(5):33-37. [Cheng Yanpei, Zhang Fawang,Dong Hua, et al. Wetland dynamic monitoring in Central Asia based on MODIS image[J]. Hydrogeology& Engineering Geology,2010,37(5): 33-37.]   
+[4]张雪芹,李敏姣,孙通.大气红外探测器(AIRS)资料揭示的中亚 地区上对流层水汽时空变化特征[J].干旱区研究,2013,30(6): 951-957.[Zhang Xueqin,Li Minjiao,Sun Tong.Spatiotemporal variation of water vapor in upper troposphere over Central Asia based on AIRS satelite retrieval[J].Arid Zone Research,2013,30 (6): 951-957.]   
+[5]李江风.塔克拉玛干沙漠和周边山区天气气候[M].北京:科学 出版社,2OO3.[Li Jiangfeng.Weather and Climate in Taklimakan Desert and Surrounding Mountainous Areas[M]. Beijing: Science Press,2003.]   
+[6]普宗朝,张山清,李景林,等.近47a塔克拉玛干沙漠周边地区 气候变化[J].中国沙漠,2010,30(2):413-421.[Pu Zongchao, Zhang Shanqing,Li Jinglin,et al. Climate change around Taklimakan Desert in recent 47 years[J]. Journal of Desert Research, 2010,30 (2): 413-421.]   
+[7]WilliamL Smith,吕月华.卫星探测的大气资料对改进天气预报 是渺茫的或是起关键作用[J].气象科技,1992(4):7-17.[William L Smith,Lyu Yuehua.The atmospheric data detected by satelites are of litle or critical importance to the improvement of weather forecast [J]. Meteorological Science and Technology,1992 (4): 7-17.]   
+[8]吴雪宝,Paul Menzel,Allen Huang.高光谱红外卫星资料反演大 气和云参数ICI//农业生态与卫早遥感应用技术学术交流会论 文摘要集,2006.[Wu Xuebao,Paul Menzel,Allen Huang.Retrieval of atmospheric and cloud parameters from hyperspectral infrared satelite data [C]/Proceedings of the Symposiumon Agricultural Ecology and Satellite Remote Sensing Application Technology, 2006.]   
+[9] 董超华,李俊,张鹏.卫星高光谱红外大气遥感原理和应用[M]. 北京：科学出版社,2013.[Dong Chaohua,Li Jun, Zhang Peng. PrincipleandApplicationof Satelite Hyperspectral Infrared Atmospheric Remote Sensing [M]. Beijing: Science Press, 2013.]   
+[10] 马玉芬,李曼,史莲梅.单个掩星事件湿度场资料同化实验[J]. 干旱区研究,2013,30(6):1113-1121.[Ma Yufen,Li Man, Shi Lianmei.Dataassmilation experiment of humidity fieldof single occultation event[J].Arid Zone Research,2013,30(6): 1113-1121.]   
+[11] Aumann H H, Chahine M T.AIRS/AMSU/HSB on the Aqua mission: Design， science objectives,data products,and processing systems[J]. IEEE Transactions on Geoscience and Remote Sens ing, 2003,41(2): 253-264.   
+[12]Mcnally AP,Wats PD,Smith JA,et al. The assimilation of AIRS radiance data at ECMWF[J]. Quarterly Journal of the Royal Meteorological Society,2006,132(616): 935-957.   
+[13]王根,张华,杨寅.高光谱大气红外探测器AIRS 资料质量控制 研究进展[J].地球科学进展,2017,32(2):139-150.[Wang Gen, Zhang Hua, Yang Yin. Research progress of air data quality control of hyperspectral atmospheric infrared detector[J]. Progress in Earth Science,2017,32 (2): 139-150.]   
+[14]Dee D P. Bias and data assmilation[J]. Quarterly Journal of the Royal Meteorological Society,2005,131(613): 3323-3343.   
+[15] 张华,薛纪善,庄世宇,等.GRAPeS 三维变分同化系统的理想 试验[J].气象学报,2004,62(1):31-41.[ Zhang Hua,Xue Jishan, Zhuang Shiyu,et al. Ideal experiment of three-dimensional variational assimilation system[J]. Acta Meteorologica Sinica, 2004, 62 (1): 31-41.]   
+[16] 杨凤娟,亢燕铭,刘琼,等.新疆地面太阳辐射及其CERES/SSF 卫星资料适用性研究[J].干旱区研究,2019,36(6):1401-1410. [Yang Fengjuan, Kang Yanming,Liu Qiong, et al. Surface solar radiation in Xinjiang and the applicability of CERES/SSF satellite data[J]. Arid Zone Research,2019,36(6): 1401-1410.]   
+[17] 朱国富,薛纪善,张华,等.GRAPES变分同化系统中卫星辐射 率资料的直接同化[J].科学通报,2008,53(20):2421-2427. [Zhu Guofu, Xue Jishan, Zhang Hua, et al. Direct assimilation of satelite emissivity data in variational assmilation system[J]. Scientific Bulletin,2008,53 (20): 2421-2427.]   
+[18]Banghua Yan JL M. JCSDA community radiative transfer model (CRTM)[J].American Geophysical Union,2005,122.   
+[19] 刘志权,张凤英,吴雪宝,等.区域极轨卫星ATOVS 辐射偏差订 正方法研究[J].气象学报,2007,65(1):113-123.[Liu Zhiquan, Zhang Fengying,Wu Xuebao,et al.Study on radiation bias correction method of regional polar orbiting satellite ATOVS[J].Acta Meteorologica Sinica,2007,65 (1): 113-123.]   
+[20] 丁伟钰,万齐林.“珍珠"台风卫星红外通道亮温的数值模拟[J]. 大气科学,2008,32(3):572-580.[Ding Weiyu,Wan Qilin. Numerical simulation of brightness temperature of satellite infrared channel of typhoon pearl[J]. Atmospheric Science,2Oo8,32(3):   
+572-580.] [21]Barker D M,Huang W,Guo Y R,et al.A three- dimensional (3DVAR) data assimilation system for use with MM5: Implementation and initial results[J].Monthly Weather Review,2OO4,132(4):   
+897-914. [22]Weng Fuzhong.Advances in radiative transfer modeling in support of satellite data assimilation[J].Journal of the Atmospheric Sciences,2007,64(11): 3799-3807.   
+[23]Han Y,WengF,LiuQ,etal.A fast radiative transfer model for SSMIS upper atmosphere sounding channels[J]. Journal of Geophysical Research Atmospheres,2007,112(D11):10．1029/ 2006JD008208.   
+[24]丁明月,王俐俐,辛渝,等.WRF云微物理参数化方案对新疆暴 雨模拟能力的TS评分分析[J].干旱区研究,2019,36(6):1411- 1418.[Ding Mingyue,Wang Lili,Xin Yu,et al.TS score of WRF cloud microphysical parameterization scheme to the simulation capability of precipitation in Xinjiang[J].Arid Zone Research,2019, 36(6): 1411-1418.]
+
+# Bias analysis and applicability evaluation of the atmospheric infrared sounder (AIRS) radiance in Central Asia
+
+MA Yufen'²， LI Ruqi²， ZHANG Meng³， Ali Mamtimin'²， ZHANG Guangxing1,² (1.Institute of Desert Meteorology,CMA,Urumqi 830o02,Xinjiang, China;2.Central Asia Atmospheric Science Research Center,Urumqi 830oo2,Xinjiang, China； 3.Xinjiang Meteorological Observatory,Urumqi 830002, Xinjiang, China)
+
+Abstract: Due to a scarcity of observation sites,only a smallamount of conventional observation data on the temporal and spatial distribution of temperature and humidity in Central Asia can be obtained,which makes analysis dificult.High-resolutionair infrared detector(AIRS)data can effectively fillthe gap.In this paper, the radiance temperature of AIRS simulated by the input radiosonde in the Community Radiative Transfer Model was utilized as the reference value,deviations in the brightness temperature of the AIRS observation were analyzed, and the applicability of AIRS satelite data in the Central Asia numerical weather forecast operation system was evaluated.First, it shows that the average value of the maximum positive deviation of brightness temperature over the selected stations was approximately $3 . 3 \mathrm { ~ K ~ }$ ， and the absolute value of the maximum negative deviation was approximately $2 . 6 \mathrm { ~ K ~ }$ . Second, the average brightness temperature of the AIRS observation in multiple stations was slightly higher than the overall simulated brightness temperature，and its probability density distribution was closer to the normal distribution curve than that of a single station.Finally,the assimilation of AIRS improved the prediction efect of RMAPS-CA on the geopotential height, temperature,specific humidity, and other high-altitude elements,but did not improve the prediction of high-altitude wind speed.For each factor, the assimilation improvement range of AIRS was larger at the lower and higher levels.After assmilation,the root mean square error of the geopotential height,temperature,specific humidity,and wind speed were less than 20 gpm, $2 \mathrm { K }$ $8 { \times } 1 0 ^ { - 4 } \mathrm { k g } { \cdot } \mathrm { k g } ^ { - 1 }$ and $5 \mathrm { m \cdot s ^ { - 1 } }$ ,respectively. It should be noted that, due to the time limitations imposed on the encrypted sounding experiment,only one full month in July 2016 was selected as the research time period in the deviation analysis of this study.Due to the relatively less vegetation coverage on the underlying surface in Central Asia,the surface radiation was large in summer,while the area without snow cover in winter was relatively small.Therefore,the conclusion of the deviation analysis in this paper is not necessarily applicable to other seasons.In addition,considering the posibility of a business transformation of the research results,this study was based on Rapid-Refresh Multiscale Analysis and Prediction System-Central Asia (RMAPS-CA) to carry out assimilation analysis when evaluating the applicability of AIRS.The system uses the three-dimensional variationaldata assmilation (3DVAR)method.Ifamoreadvanced four-dimensional variationaldata assmilation (4DVAR) assimilation method is adopted, the assimilation effect may improve.
+
+Keywords: AIRS; Central Asia; radiative brightness temperature; bias analysis; applicability

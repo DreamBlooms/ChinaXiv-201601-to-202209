@@ -1,0 +1,438 @@
+[
+    {
+        "type": "text",
+        "text": "Soil bacterial characteristics between surface and subsurface soils along a precipitation gradient in the Alxa Desert, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TENG Zeyu1.2\\*, XIAO Shengchun1, CHEN Xiaohong³, HAN Chao1.2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1KeyLaboratoryofEcohydrologyof Inland River Basin,Northwest InstituteofEco-Environmental Resources,Chinese Academy of Sciences,Lanzhou 73oooo,China;   \n2 University of Chinese Academy of Sciences,Beijing 100049,China;   \n3 KeyLaboratoryofDesertand Desertification,Northwest InstituteofEco-Environment and Resources, ChineseAcademyof Sciences,Lanzhou 730ooo,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Bacteria in desert soil have unique phylogeny and important ecological functions,and their responses to changes in precipitation need further attention.However, relevant studies have mainly focused on the surface soil,and studies on the responses of bacteria at diferent soil depths to variations in precipitation are rare. Thus, we used 16S rDNA high-throughput sequencing to investigate the changes in soil bacterial distribution along a mean annual precipitation gradient $( 5 0 - 1 5 0 ~ \\mathrm { m m } )$ in the Alxa Desert, China,and compared the variation characteristics in the surface soil layer $( 0 { - } 1 0 ~ \\mathrm { c m } )$ and subsurface soil layer $\\mathrm { ~ ( 1 0 { - } 2 0 ~ \\ c m ) }$ . Results showed that soil bacterial communities significantly changed along the precipitation gradient in both soil layers. However,the subsurface soil layer could support bacterial communities with higher diversity and closer internal relationships but more internal competition than the surface soil layer. Additionally，compared with the surface soil layer， variations in diversity and co-occurrence paterns in the subsurface soil layer were more in line with the changes in the mean annual precipitation, while bacterial community structure was less variable in the subsurface soil layer. Compared with the mean annual precipitation,soil moisture had litle influence on the structure and diversity of soil bacterial community but had a high corelation with intercommunity connectivity. Therefore，soil moisture might play a complex role in mediating environmental conditions and soil bacterial community characteristics. Due to the different responses of surface and subsurface soil bacteria to the changes in precipitation, it is necessary to distinguish different soil layers when predicting the trends in desert soil bacterial conditions associated with precipitation,and prediction of subsurface soil bacteria may be more accurate. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: precipitation gradient; soil layer; soil bacterial community structure; diversity;co-occurrence pattern ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Compared with humid climate zones,arid regions are more sensitive and vulnerable to climate change (Yi et al.,2O14).Especially for middle and low latitude deserts, changes in precipitation may be the environmental factor with the greatest impact on ecosystem dynamics (Loarie et al., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2010; Yi et al., 2O14). Furthermore, changes in water conditions induced by climate change will affect the structure and function of soil microbial community (Azua-bustos et al.,2O12; Tomiolo et al.,2O15),and such changes can affect the release or storage of soil carbon (Cregger et al., 2014).Due to the severe environmental constraints on higher plant and animal life in the desert, soil microbial communities are considered to play a more critical ecological role (Pointing and Belnap,2Ol2) and have more potential to maintain the stability of soil ecosystem in the desert (Cruz-Martinez et al.， 2O09). Moreover, soil microbes are affected by both deterministic and nondeterministic factors (Zhou et al.,2004,Johnson et al.,2O17),and the response degrees of soil microbe to changes in moisture differ (Manzoni et al., 2Ol2). Therefore,before predicting how desert ecosystems will change in the context of future climate change,it is necessary to continue to deepen the understanding of the impact of precipitation changes on desert soil microorganisms. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In view of the phylogenetic and functional peculiarities of desert soil microorganisms (Fierer et al.,2012)，many studies have addressed the impacts of changes in precipitation or water conditions on these organisms (Clark et al.,2009;Angel et al.,2010; Bachar et al.,201O; Bachar et al.,2012; Barnard et al.,2013; Huang et al.,2015; Maestre et al.,2015; Tripathi et al., 2017; Zhang et al.，2O18). Moreover, since soil microbes and organic carbon inputs are generally concentrated on the soil surface (Zvyagintsev et al.,1994), most of these studies concentrated on the soil surface or did not distinguish soil layers.However, microbial community composition could be affected by different soil hydrothermal and aeration conditions with changes in soil layers (Brockett et al.,2Ol2).Due to the harsh environmental conditions in the desert, nutrient content and microbial biomass in the deeper soil (e.g., $1 0 { - } 2 0 \\mathrm { c m } )$ can be even higher than those in the surface soil and are worth investigating (Rodriguez-Zaragoza et al.， 2Oo5; Shamir and Steinberger,2O07; Fang et al.,2O13). Therefore,microorganisms in the subsurface soil may not only respond to precipitation changes but also play a more important ecological role. In some hyperarid deserts,such as the Atacama Desert, research involving in soil microbes tends to avoid the surface soil with extreme environments and instead targets the deeper soil (Orlando et al., 2010; Jones et al.,2O17; Neilson et al.,2O17).However, studies on how the deeper soil microbes respond to precipitation and how their responses differ from those of surface soil are rare. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Alxa Desert in Northwest China seems to be an ideal research area,as it is a transitional zone between steppe and typical desert zones,and possesses distinct transitional features (Xiao et al., 2017). Mean annual precipitation (MAP) declines from east to west, decreasing from $2 0 0 ~ \\mathrm { { m m } }$ at the foot of the Helan Mountains to less than $5 0 ~ \\mathrm { m m }$ in the desert area (Li et al., 2009). However, very few studies have focused on soil microbial changes along precipitation gradients in the deserts of this region. Therefore, we selected the study area with a MAP gradient from 150 to 50 mm in the Alxa Desert and used high-throughput 16S rDNA sequencing to analyze the soil bacterial community structure (SBCS), diversity and soil bacterial co-occurrence patern between the surface and subsurface soil layers.We also investigated the environmental factors that might influence the structure and diversity of soil bacteria. Our hypotheses are as follows: (1) bacterial distribution in the two considered soil layers will both significantly change along the precipitation gradient; (2) change in bacterial conditions will be greater in the surface soil layer than in the subsurface soil layer; and (3） variations of bacteria along the precipitation gradient will differ between the two soil layers,with that in the subsurface layer being more consistent with the transitional characteristics of local environment. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Alxa Plateau is a part of Inner Mongolian Plateau,located in the western region of the Inner Mongolia Autonomous Region， China. Geographically， it includes the Alxa Desert that comprises three major deserts,i.e., Ulan Buh Desert, Tengger Desert and Badain Jaran Desert. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Xerophytes constitute the main vegetation (Li et al.,2OO9） in the Alxa Desert. Affected by topography, inland rivers and anthropogenic activities, vegetation coverage varies significantly, and sand dunes tend to be fixed in a western to eastern direction. Alxa Desret is characterized by a continental climate within an intermediate temperate zone (Xiao et al.,2O17).The annual mean temperature ranges from $6 . 0 ^ { \\circ } \\mathrm { C }$ to $8 . 5 ^ { \\circ } \\mathrm { C }$ .Precipitation is mainly concentrated between July and September, and MAP gradually decreases in a southeastern to northwestern direction. Evaporation increases from southeast $( 2 4 0 0 \\ \\mathrm { m m } )$ ）to northwest( $( 4 7 0 0 \\ \\mathrm { m m } )$ .Wedivided the area into three different subregions based on their precipitation: typical desert (Td), steppe desert (Sd), and desertified steppe (Ds),with MAPs of approximately 50,100 and $1 5 0 ~ \\mathrm { m m }$ ,respectively (Li et al., 2009; Pei et al., 2011). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Sampling method ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "About 3 to 4 sampling sites were selected within each MAP-related subregion in mid to late August 2O17. No precipitation was observed at least $3 \\mathrm { ~ d ~ }$ before sampling occurred at each site. We divided the sampled soil into layer A (surface, $0 { \\mathrm { - } } 1 0 \\ \\mathrm { c m } ,$ and layer B (subsurface, $1 0 { - } 2 0 ~ \\mathrm { c m }$ ） (Rodriguez-Zaragoza et al., 2005; Shamir and Steinberger, 20O7; Fang et al.,2013). Information on sampling sites and environmental conditions is provided in Table 1.No biological soil crusts were detected in the sampling sites,while wind-blown sand was found to be widely distributed. To ensure consistency in other environmental factors，we collcted all the samples from semi-fixed sand dunes at the edge of the desert,which closely represent the overall feature coverage of the study area (Li et al.,2OO9). At each sampling site, we selected three Nitraria tangutorum Bobr. shrubs with normal growth behaviour for sampling. All soil samples were collected below the canopy, approximately $1 5 \\ \\mathrm { c m }$ from the base of shrubs. Around three shrubs, we collected soil samples 5 times (approximately $2 5 0 ~ \\mathrm { g } )$ from each of the two layers and mixed 15 samples (5 samples $\\mathbf { \\nabla } \\times 3$ shrubs） from each layer to make a composite sample.A total of 20 composite samples were collected for all 3 subregions (1O sampling sites $\\times 2$ soil layers),and then these samples were sealed in the sterilized bags and kept at $4 ^ { \\circ } \\mathrm { C }$ in the laboratory. Partial samples were stored in a freezer at $- 8 0 ^ { \\circ } \\mathrm { C }$ until high-throughput sequencing was performed, and the remaining parts of the soil samples were used to determine environmental parameters after air drying. At the time of sampling，we also tested the samples for soil moisture content (SMC, $\\mathrm { { g / g ) } }$ and investigated the vegetation conditions. In addition, we also sampled mature leaves from the shrubs to analyze the stoichiometric characteristics of $N .$ tangutorum. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9c2d755b6df196bc64e8da237c52ab1eacd0953336522222e7565b8b3c43a47.jpg",
+        "table_caption": [
+            "Table 1 Location and environmental characteristics of sampling sites "
+        ],
+        "table_footnote": [
+            "Note:MAP,mean annual precipitation. "
+        ],
+        "table_body": "<html><body><table><tr><td>Type</td><td>Sampling</td><td>Latitgiteaed</td><td>Elevation</td><td>Dominant species</td><td>Coverage</td><td>Soil type</td></tr><tr><td rowspan=\"3\">Typical (MAP=50 mm)</td><td>Td1</td><td>400522*N</td><td>1031</td><td>Nitraria tangutorum,Haloxylon</td><td>7.01</td><td rowspan=\"3\">Gra-brson</td></tr><tr><td>Td2</td><td>4123148N</td><td>904</td><td>Reaumuria sonodendr, Caligonum mongolicum</td><td>2.95</td></tr><tr><td>Td3</td><td>41917'53\"N</td><td>794</td><td></td><td>3.18</td></tr><tr><td rowspan=\"4\">MAP00 mm)</td><td>Sd1</td><td>402121N</td><td>1278</td><td></td><td>17.93</td><td rowspan=\"4\">Gray-brsoin</td></tr><tr><td>Sd2</td><td>1008</td><td>1089</td><td></td><td>15.45</td></tr><tr><td>Sd3</td><td>103°55'08\"E</td><td>1471</td><td>Pearl russianthistle</td><td>26.87</td></tr><tr><td>Sd4</td><td>3937'164N</td><td>1232</td><td></td><td>12.29</td></tr><tr><td rowspan=\"4\">Desertified steppe (MAP=150 mm)</td><td>Ds1</td><td>3831634\"N</td><td>1394</td><td>Nitraria tansthrum,Cragana</td><td>35.66</td><td rowspan=\"4\">Gray desert soil</td></tr><tr><td>Ds2</td><td>38°54'33\"N, 105°30'15\"E</td><td>1345</td><td>Oxytropis aciphylla,Reaumuria</td><td>52.76</td></tr><tr><td>Ds3</td><td>37°54'02\"N,</td><td></td><td>songarica,Ammopiptanthus mongolicus,</td><td></td></tr><tr><td></td><td>105°12'31\"E</td><td>1416</td><td>Zygophyllum xanthoxylon</td><td>28.44</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Soil bacterial DNA extraction and library preparation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This step was carried out by the Novogene Genome Sequencing Company and the cetyltrimethylammonium bromide/sodium dodecyl sulfate extraction methods were used. To meet the criteria for subsequent data analysis,we performed the extraction of DNA from each sample 3 times to represent biological replicates. Each replicate was used in sequencing and library preparation individually. DNA amplification involved 341F (5'-CCTAYGGGRBGCASCAG-3'） and 806R （5'-GGACTACNNGGGTATCTAAT-3'） primer pair,which corresponds to the 16S V3-V4 regions in bacteria (Michelsen et al., 2014). The following polymerase chain reaction (PCR） protocol was used $( 3 0 . 0 ~ \\mu \\mathrm { L } )$ ： $( 2 \\times )$ Phusion $\\textsuperscript { \\textregistered }$ High-Fidelity PCR Master Mix $( 1 5 . 0 \\mu \\mathrm { L }$ , New England Biolabs,USA), $2 \\mu \\mathrm { M }$ F-primers $( 1 . 5 \\mu \\mathrm { L } )$ $2 ~ \\mu \\ M$ R-primers $( 1 . 5 ~ \\mu \\mathrm { L } )$ ， $1 0 . 0 ~ \\mu \\mathrm { L }$ template DNA $( 1 ~ \\mathrm { n g / \\mu L } )$ , and ultrapure $\\mathrm { H } _ { 2 } \\mathrm { O }$ （20 $( 2 . 0 \\mu \\mathrm { L } )$ . PCR was performed as follows: initial denaturation at $9 8 ^ { \\circ } \\mathrm { C }$ for $1 ~ \\mathrm { m i n }$ ， followed by denaturation at $9 8 ^ { \\circ } \\mathrm { C }$ for $1 0 ~ \\mathrm { s }$ ,annealing at $5 0 ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { s }$ ,extension at $7 2 ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { s }$ (30 repetitions),and $7 2 ^ { \\circ } \\mathrm { C }$ for 5 min. Electrophoresis was conducted to separate PCR products in $2 \\%$ agarose gel, and target DNA was recovered by cutting strips from the gel. PCR products were purified using the GeneJETTM Gel Extraction Kit (Thermo Fisher Scientific, USA). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The construction of library was carried out by using the Ion Plus Fragment Library Kit (Thermo Fisher Scientific,USA).The library was established following quantification and testing by applying the Qubit $\\textsuperscript { \\textregistered }$ 2.0Fluorometer(Thermo Fisher Scientific,USA),and the Ion S5TM XL System (Thermo Fisher Scientific，USA） was used for sequencing，generating approximately 465 bp single-end reads. We used Cutadapt (v1.9.1) to filter low-quality reads (Martin, 2O11),and then assigned single-end reads to samples based on their unique barcodes and truncated by cutting off the barcode and primer sequences. Spliting sequences were referred to as raw reads.To obtain high-quality clean reads, we used the UCHIME algorithm to compare the reads with those in the species annotation database to detect and remove chimaeric sequences (Edgar et al., 2011; Haas et al., 2011). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Determination of environmental factors ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the environmental factors,we measured SMC, $\\mathrm { p H }$ ，vegetation coverage (COV),soil nutrient factors (contents of soil organic carbon (SOC),total nitrogen (TN),total carbon (TC), available nitrogen (AN)，total phosphorus (TP)，available phosphorus (AP） and available potassium (AK)), soil salinity-related factors (contents of the ions $S 0 _ { 4 } ^ { 2 - }$ ， $\\mathrm { C l ^ { - } }$ ${ \\mathrm { H C O } } _ { 3 } { } ^ { - }$ $\\mathrm { \\Delta N a ^ { + } }$ $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ $\\mathrm { C a } ^ { 2 + }$ ， $\\mathrm { K ^ { + } }$ and electric conductivity (EC))，N. tangutorum stoichiometric factors (total carbon (TCn),total nitrogen (TNn),and total phosphorus(TPn))，and soil particle size distribution (SPSD). Determination of related environmental factors was carried out in the Key Laboratory of Ecohydrology of the Inland River Basin, Chinese Academy of Sciences. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sequencing data were analysed by Novogene Company (Beijing, China). Sequences with $2 9 7 \\%$ similarity were assigned by Uparse (v7.0.1001, http://drive5.com/uparse/) to the same operational taxonomic unit (OTU).We used Silva database (v132, https://www.arbsilva.de/） to annotate taxonomic information based on Mothur algorithm (Quast et al.,2O13). We used Muscle software (v3.8.31, htp://www.drive5.com/muscle/) for multiple sequence alignment (Edgar et al., 2004) to study the phylogenetic relationships between OTUs and dominant species in different samples or groups. Finally，we normalized data related to OTU abundance using a sequence quantity standard corresponding to the sample with the least sequences and rarefaction. We performed subsequent alpha and beta diversity analyses based on the normalized data output. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Four common alpha diversity indices were calculated with QIME software (v1.7.O) and used to investigate the diversity within a community: Chaol，Shannon $( H )$ ，Simpson $( D )$ and phylogenetic diversity (PD） whole tree (genetic relationship within a community). For beta diversity，we calculated unweighted UniFrac distance values using QIME software (v1.7.0) based on OTU relationships. Then we used OTU abundance data to further calculate weighted UniFrac distance values (Lozupone et al., 2O11). In this study,we selected weighted UniFrac distance values as the basis for relevant beta diversity analysis.To conduct beta diversity analysis,we used analysis of molecular variance (AMOVA,calculated with Mothur software (v1.29.0) to reflect the intragroup differences and assess the significance differences between groups (Excoffier et al.，1992；Rivas et al., 2O13).Linear discriminant analysis effect size (LEfSe, http://uttenhower.sph.harvard.edu/galaxy） was used to identify biomarkers (Segata et al.,2011） among MAP-related subregions and soil layers. Default linear discriminant analysis (LDA) threshold was set at ${ \\ge } 4$ . The Psych and Vegan packages of R software(v2.15.3） were used to screen and ordinate environmental factors.We used network topology analysis to reflect the differences in soil bacterial co-occurrence patterns among MAP-related subregions and soil layers.To remove the influence of community richness differences,we made the numbers of bacterial genera in each group consistent (25O genera). The threshold for correlation was determined at $r { > } 0 . 8 0$ and $P { < } 0 . 0 5$ conditions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Differences in SBCS and alpha diversity along the precipitation gradient between soi layers ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A total of 3,503,236 raw reads were obtained for 60 samples，and 2,949,861 clear reads 0 $8 6 . 4 6 \\% - 9 6 . 0 7 \\% )$ were obtained after quality control. After filtering out unknown results，we detected 7301 OTUs across 60 samples according to the annotation results.A total of 496 genera were annotated，belonging to 201 families，101 orders，36 classes and 38 phyla （without undefined taxa). The dominant phyla in the soils were Actinobacteria ( $3 5 . 6 6 \\%$ $( \\pm 1 3 . 1 8 \\% ) ,$ ）， Proteobacteria $3 0 . 5 7 \\%$ （20 $( \\pm 8 . 0 0 \\% ) _ { . } ^ { \\cdot }$ ),andBacteroidetes（ $1 3 . 1 6 \\%$ （20 $( \\pm 1 0 . 7 9 \\% )$ ） (Fig.1).The dominant genera in the soils were Arthrobacter $( 5 . 8 9 \\% )$ ，Sphingomonas $( 3 . 7 8 \\% )$ and Nocardioides $( 3 . 3 2 \\% )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/79a1bfa846fab90b2978bfac0622bd815b02dd903c337989f1542c2e976bfa87.jpg",
+        "img_caption": [
+            "Fig.1Relative abundanceof soil bacterial at phylum level in different MAP (mean annual precipitation)-related subregions and soil layers. Td, typical desert( $5 0 \\mathrm { m m }$ precipitation); Sd,steppe desert ( $1 0 0 ~ \\mathrm { { m m } }$ precipitation); Ds, desertified steppe ( $1 5 0 \\mathrm { m m }$ precipitation); A, $_ { 0 - 1 0 \\mathrm { c m } }$ soil layer; B, $1 0 { - } 2 0 ~ \\mathrm { c m }$ soil layer. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the statistical results for four commonly used alpha diversity indices.Layer B had significantly higher(Wilcoxon rank-sum test, $P { < } 0 . 0 5 ) ,$ ）values for all indices than layer A. This result indicated that layer B had more species (richness)，greater evenness and greater evolutionary distance within the community. More importantly, there were obvious differences in the changes between the two soil layers along the precipitation gradient. The diversity of layer B increased rapidly and linearly,whereas that of layer A did not have these features. In particular, there were no significant differences between Sd.A and Ds.A for all four indices.In terms of the differences in SBCS among different treatments (Table 2)，the change in SBCS along the precipitation gradient between soil layers exhibited some similar characteristics. For example, in both layers, difference between Td and Sd was larger than that between Sd and Ds. However, unlike the diversity results,the results showed that difference in SBCS along the precipitation gradient was greater in layer A than in layer B. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LEfSe analysis can provide more detailed information on the differences in SBCS among subregions in each soil layer (Figs. 3, S1 and S2). Along the precipitation gradient, a total of five phyla were identified as the major phyla.Td subregion was characterized by a high abundance of Bacteroidetes and Firmicutes.In contrast, Sd and Ds subregions were characterized by a high abundance of Actinobacteria,Acidobacteria and Chloroflexi. It is remarkable that, compared with layer A,there were only a few biomarkers in layer B in Sd subregion. The abundance of the most major differential phylum in layer B was more in line with the change in MAP and showed a continuous increase or decrease along the precipitation gradient. In layer A, however, only Firmicutes exhibited this characteristic. Comparing the two soil layers， we found a higher abundance of Proteobacteria and Bacteroidetes in layer A than in layer B (Fig.4). In contrast, layer B had a higher abundance of Chloroflexi and Acidobacteria,which was similar to the characteristics of Sd or Ds subregion. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/35e708e30f261ebaef5fbe4c407c0e49dbad333fef9fd8dd7930b4d80640ed30.jpg",
+        "img_caption": [
+            "Fig.2Alpha diversity index in different MAP-related subregions and soil layers.Td,typical desert ( $5 0 ~ \\mathrm { m m }$ precipitation); Sd, steppe desert ( $\\mathrm { 1 0 0 ~ m m }$ precipitation); Ds,desertified steppe ( $1 5 0 ~ \\mathrm { m m }$ precipitation); A, 0-10 cm soil layer;B, $1 0 { - } 2 0 ~ \\mathrm { c m }$ soil layer;PD,phylogenetic diversity. The lowercase letters indicate significant differences among different treatments at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8160c23d44d8d1cd5ec6afb0a8e44c1495b37708496350a196853ace5586df3.jpg",
+        "table_caption": [
+            "Table 2Result of analysis of molecular variance (AMOVA)in diferent MAP-related subregions and soil layers "
+        ],
+        "table_footnote": [
+            "Note:Td,typical desert( $5 0 \\mathrm { m m }$ precipitation); Sd,steppe desert ( $1 0 0 ~ \\mathrm { { m m } }$ precipitation);Ds,desertified steppe ( $\\mathrm { 1 5 0 ~ m m }$ precipitation); A, $0 { \\mathrm { - } } 1 0 \\ \\mathrm { c m }$ soil layer;B, $1 0 { - } 2 0 ~ \\mathrm { c m }$ soil layer. "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>F value</td><td>P value</td><td>1 Group</td><td>F value</td><td>P value</td></tr><tr><td>Ds-Sd</td><td>3.021</td><td>0.008</td><td>Td.A-Sd.A</td><td>16.727</td><td><0.001</td></tr><tr><td>Sd-Td</td><td>12.343</td><td><0.001</td><td>Td.A-Ds.A</td><td>15.883</td><td><0.001</td></tr><tr><td>Ds-Td</td><td>12.203</td><td><0.001</td><td>Sd.A-Ds.A</td><td>4.081</td><td>0.004</td></tr><tr><td>Td.A-Td.B</td><td>5.069</td><td>0.007</td><td>Td.B-Sd.B</td><td>4.615</td><td><0.001</td></tr><tr><td>Sd.A-Sd.B</td><td>7.222</td><td><0.001</td><td>Td.B-Ds.B</td><td>7.022</td><td><0.001</td></tr><tr><td>Ds.A-Ds.B</td><td>17.155</td><td><0.001</td><td>Sd.B-Ds.B</td><td>2.925</td><td>0.014</td></tr><tr><td>A-B</td><td>13.404</td><td><0.001</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) Ds.A p 一 B Nocdrdiaatophilaceae Sd.A 一 C:Q Frankiales Bacterojdetes = d: Cellulomonadaceae Td.A act 一 一 e: H locardioidaceae opionjbacteriales P teria 一 0 lentifiedActinobacteria 5 二 jtjnophagaceae 一 tinophagales □ ■ clobacteriaceae 一 k： ymenobacteraceae Acidobacteria □ 1:0 ytophagales □ m: lavobacteriaceae   \nChloroflex □ □ n:o O:C Bacteroidia lavobacteriales 一 p: hloroflexia 一 q: unidentifiedNostocales 一 ostocales   \nP 一 S: lanococcaceae 一 t:o Bacillales 一 u: Bacilli 二 V: Longimicrobiaceae F 中 E = 二 Y x: 0 Beillalckiaceae Longimirobiales S 二 a0:f Rhodobacteraceae = a2 Sphingomonadaceae □ a3 0 hjngomonadales = a4 0 unidentifiedAlphaproteobacteria Z a5: C Alphaproteobacteria 3a33 4 1 a6 BufkhntiderdGammaproteobacteria 一 a8: Gammaproteobacteria (b) Ds.B acteroidetes a:f_Nitriliruptoraceae Sd.B Td.B pBac cc_Nitriliruptoria b:o_Nitriliruptorales V d:oSolirubrobacterales fle e:cThermoleophilia □ f:f_Micrococcaceae g：oMicrococcales h:fCyclobacteriaceae Q i:f_Hymenobacteraceae piirirtss Acidobactenia Cytoproales i:o_Thermomicrobiales m:c_Chloroflexia po n:f_Bacillaceae o:oBacillales p:cBacilli q:f_Gemmatimonadaceae □ r:o_Gemmatimonadales s:c_unidentified Gemmatimonadetes t:oRhizobiales u:fRhodobacteriaceae vo_Rhodobacterales w:fSphingomonadaceae x:o_Sphingomonadales 4 MX y:c_Alphaproteobacteria ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Based on canonical correlation analysis (CCA) and after the screening of environmental factors according to VIF analysis,we identified 9 environmental factors (Table 3） showing the highest correlation with SBCS in each soil layer (Fig. 5).Results showed that the effects of major environmental factors were similar between two soil layers,and the main environmental factors can be divided into two distinct clusters. One cluster including MAP, COV and AN was positively correlated with the abundance of dominant genera in Sd and Ds subregions (such as Nocardioides and Microvirga).The other cluster including salt ions ( $\\mathrm { C a } ^ { 2 + }$ and $\\mathrm { C l ^ { - } }$ ),TP and VCS was positively correlated with the abundance of dominant genera in Td subregion (such as Rhodococcus and Pontibacter).However,correlations between environmental factors and SBCS were different between two soil layers.Environmental factors that had higher correlations with SBCS in layer B were mainly soil salt ions and soil EC,while SBCS in layer A had higher correlations with more types of environmental factors, such as MAP, coverage, available AN, VCS and N. tangutorum stoichiometric factors (e.g., TCn) (Table 4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0046ce739c9e6144c25ecf608685a4c77cbbf156a546a0cc4dbe29b3bbfc862.jpg",
+        "img_caption": [
+            "Fig.4Cladogram generated according to LEfSe analysis for the soil layers and biomarkers showing statistical significance at LDA ${ \\geq } 4$ .Red and green circles represent the bacteria enriched in the A and B soil layers, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, correlation between environmental factors and diversity differed between two soil layers (Fig. S3),and only $\\mathrm { C a } ^ { 2 + }$ was significantly $( P { < } 0 . 0 1 )$ correlated with all the diversity indices of both soil layers. Interestingly, many environmental factors that were strongly associated with SBCS of layer A (e.g., pH, MAP, VCS and COV), were significantly related to the diversity of layer B(Table 4; Fig. S3).By contrast, environmental factors that were strongly associated with SBCS of layer B (e.g., $\\mathrm { C a } ^ { 2 + }$ ， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ and $\\mathrm { C l ^ { - } }$ ),were still significantly related to the diversity of the same layer. This finding indicated that variation patern of SBCS and diversity along the precipitation gradient was quite different in layer A, while in layer B,it was relatively consistent. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3Differences in co-occurrence pattern between soil layers ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on the relative abundance data at the genus level, we used network topology analysis to reflect the differences in soil bacterial co-occurrence pattrns among the MAP-related subregions and soil layers.The results (Table 5） demonstrated that layer B showed a more obvious and monotonous trend than layer A,clustering coeficient (CC) and graph density (GD) increased with increasing precipitation,and the average path length (APL） continued to decrease. This result indicates that a greater amount of precipitation can support denser and more tightly connected communities. Considering that the richness (Chaol index) increased with increasing MAP,this effect may actually be magnified. However，with the increase in precipitation, proportion of negative relationship (PNR) between nodes also continued to increase. This finding suggests that a greater amount of precipitation also leads to increased intergeneric competition in layer B.However,in layer A,changes in CC,GD and PNR were not consistent with the trend of MAP.In particular, Sd.A treatment with moderate precipitation had the highest CC and highest PNR but the lowest GD (Table 5). This result can be interpreted as the intergeneric competition is stronger and the range of close intergeneric associations is strictly limited in layer A in Sd subregion. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In terms of the correlation between environmental factor and intergeneric interaction (Fig. S4), we found that MAP and COV were significantly correlated with all network parameters, TP and salt ions were significantly $( P { < } 0 . 0 5 )$ correlated with multiple network parameters.It is worth mentioning that soil moisture likely had no significant effect on SBCS and bacterial diversity in this study (Mantel test, $r { < } 0 . 1 0 \\rangle$ ,but it still showed a strong and significant $( P { < } 0 . 0 1 )$ correlation with the variables describing the internal relationships of soil bacterial community(GD and APL). Correlation between GD and soil moisture ( $_ { r = 0 . 6 5 2 }$ ， $P { < } 0 . 0 1$ ） was even higher than that between GD and MAP ( $\\scriptstyle \\cdot = 0 . 5 4 5$ ， $P { < } 0 . 0 5 \\rangle$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f8ba4892c852e10e0c19e8bf02243c42f9a2e27c52fb9f4fd73459b4632a4dc.jpg",
+        "table_caption": [
+            "Table 3Differences in environmental factors (soil nutrients,moisture,salinity, $\\mathrm { \\ p H }$ ,particle size distribution, $N .$ （20 tangutorum stoichiometric characteristic and vegetation coverage) in diferent MAP-related subregions and soil layers "
+        ],
+        "table_footnote": [
+            "Note:SOC,soilrganiccarbon;,totalitrogen;TC,totalarbon;Totalposphorus;ANavailabletrogen;APalable phosphorus;AK,available potassium; SMC,soil moisture content;EC,electricconductivity;VCS,very coarse sand $( 2 . 0 0 { - } 1 . 0 0 ~ \\mathrm { m m } )$ ： CS,coarse sand $\\mathrm { 1 . 0 0 { - } 0 . 5 0 ~ m m }$ ；MS,medium sand $\\mathrm { 0 . 5 0 { - } 0 . 2 5 \\ m m }$ ;FS,fine sand $( 0 . 2 5 { - } 0 . 1 0 ~ \\mathrm { m m } )$ ;VFS,very fine sand (O.10-0.05 mm); silt, particle size is $0 . 0 5 0 { - } 0 . 0 0 2 ~ \\mathrm { m m }$ ；clay,particle size is $< 0 . 0 0 2 \\ \\mathrm { m m }$ ; TCn,total carbon of $N .$ tangutorum; TNn,total nitrogen of $N .$ tangutorum; TPn,total phosphorus of $N .$ tangutorum;COV,coverage.Td, typical desert $5 0 ~ \\mathrm { m m }$ precipitation)；Sd,steppe desert 1 $\\mathrm { 1 0 0 ~ m m }$ precipitation);Ds,desertified steppe ( $1 5 0 ~ \\mathrm { m m }$ precipitation);A, $0 { \\mathrm { - } } 1 0 ~ \\mathrm { c m }$ soil layer; B, $1 0 { - } 2 0 ~ \\mathrm { c m }$ soil layer. The lowercase letersareWilcoxon'sranksumtestresults,andthelowercaseleterswithinthesamerowindicatesignificant diferencesamong different treatments at $P { < } 0 . 0 5$ level.Mean $\\pm \\mathrm { S D }$ .The abbreviations are the same in Figs.5,S3,S4 and Table 4. "
+        ],
+        "table_body": "<html><body><table><tr><td>Index</td><td>Td.A</td><td>Td.B</td><td>Sd.A</td><td>Sd.B</td><td>Ds.A</td><td>Ds.B</td></tr><tr><td>SOC (g/kg)</td><td>1.11±0.71a</td><td>0.89±0.35a</td><td>1.09±0.53a</td><td>0.84±0.21a</td><td>1.62±1.15a</td><td>1.33±0.86a</td></tr><tr><td>TN (g/kg)</td><td>0.16±0.06b</td><td>0.21±0.05ab</td><td>0.26±0.10ab</td><td>0.21±0.10ab</td><td>0.31±0.11a</td><td>0.20±0.10ab</td></tr><tr><td>TC (g/kg)</td><td>3.85±0.66a</td><td>4.76±0.53a</td><td>5.87±4.16a</td><td>4.10±1.99a</td><td>4.61±4.02a</td><td>4.07±3.78a</td></tr><tr><td>TP (g/kg)</td><td>0.28±0.07a</td><td>0.30±0.11a</td><td>0.25±0.03a</td><td>0.21±0.05b</td><td>0.16±0.04c</td><td>0.15±0.02c</td></tr><tr><td>AN (mg/kg)</td><td>15.10±9.82b</td><td>16.28±12.12b</td><td>32.39±9.59a</td><td>33.95±3.69a</td><td>27.54±10.5ab</td><td>25.27±9.11ab</td></tr><tr><td>AP (mg/kg)</td><td>1.58±0.20b</td><td>1.42±0.54b</td><td>2.15±0.12ab</td><td>2.25±1.91ab</td><td>3.10±1.03a</td><td>1.58±0.63b</td></tr><tr><td>AK (mg/kg)</td><td>99.60±31.33b</td><td>113.43±16.60b</td><td>155.63±40.83a</td><td>112.05±39.01b</td><td>127.27±47.86ab</td><td>135.57±46.21ab</td></tr><tr><td>SMC (%)</td><td>1.33±0.78b</td><td>2.47±0.01a</td><td>1.30±0.60b</td><td>2.66±1.00a</td><td>3.07±0.76a</td><td>3.92±1.55a</td></tr><tr><td>SO² (cmol/kg)</td><td>4.77±4.75b</td><td>10.31±5.83a</td><td>1.95±3.31b</td><td>1.92±3.31b</td><td>0.12±0.10c</td><td>0.09±0.06c</td></tr><tr><td>Cl- (cmol/kg)</td><td>17.55±28.02a</td><td>5.76±6.24a</td><td>0.50±0.10b</td><td>0.15±0.10bc</td><td>0.07±0.01c</td><td>0.07±0.01c</td></tr><tr><td>HCO3 (cmol/kg)</td><td>0.27±0.06b</td><td>0.23±0.04c</td><td>0.36±0.08ab</td><td>0.38±0.08a</td><td>0.38±0.06a</td><td>0.39±0.06a</td></tr><tr><td>Ca²+ (cmol/kg)</td><td>2.97±2.09b</td><td>7.71±4.36a</td><td>1.90±3.07bc</td><td>1.82±3.07bc</td><td>0.32±0.08c</td><td>0.27±0.05c</td></tr><tr><td>Mg2+ (cmol/kg)</td><td>0.63±0.80a</td><td>0.44±0.29a</td><td>0.18±0.13b</td><td>0.17±0.13b</td><td>0.11±0.08b</td><td>0.12±0.04b</td></tr><tr><td>K+ (cmol/kg)</td><td>0.13±0.11a</td><td>0.12±0.06a</td><td>0.04±0.04b</td><td>0.04±0.04b</td><td>0.04±0.02b</td><td>0.05±0.01b</td></tr><tr><td>Na+ (cmol/kg)</td><td>15.78±25.01a</td><td>6.10±6.29a</td><td>0.34±0.21b</td><td>0.32±0.21b</td><td>0.02±0.03c</td><td>0.05±0.02c</td></tr><tr><td>EC (dS/m)</td><td>8.04±11.31a</td><td>5.06±3.86a</td><td>1.36±6.14a</td><td>4.34±6.15a</td><td>0.31±0.03b</td><td>0.39±0.05b</td></tr><tr><td>pH</td><td>7.44±0.16b</td><td>7.38±0.05b</td><td>7.67±0.16a</td><td>7.80±0.16a</td><td>7.72±0.08a</td><td>7.70±0.12a</td></tr><tr><td>VCS (%)</td><td>5.91±2.71a</td><td>3.22±3.63b</td><td>0.22±0.44c</td><td>0.03±0.07d</td><td>0.72±0.66c</td><td>0.33±0.29c</td></tr><tr><td>CS (%)</td><td>14.30±5.99a</td><td>8.89±6.82ab</td><td>3.84±1.02b</td><td>5.95±5.24b</td><td>21.07±18.57a</td><td>13.05±11.79a</td></tr><tr><td>MS (%)</td><td>21.58±9.17a</td><td>21.28±8.50a</td><td>26.69±8.40a</td><td>25.57±15.04a</td><td>27.67±17.71a</td><td>27.31±16.48a</td></tr><tr><td>FS (%)</td><td>43.32±7.39a</td><td>48.24±7.74a</td><td>47.26±10.84a</td><td>50.13±21.77a</td><td>32.89±18.77a</td><td>40.77±12.22a</td></tr><tr><td>VFS (%)</td><td>11.13±5.53ab</td><td>12.66±3.23a</td><td>8.78±3.91ab</td><td>7.90±5.14b</td><td>11.43±9.37ab</td><td>11.47±6.58ab</td></tr><tr><td>Silt (%)</td><td>3.20±1.61a</td><td>4.82±2.31a</td><td>11.20±11.19a</td><td>9.10±9.37a</td><td>5.33±7.42a</td><td>6.20±7.99a</td></tr><tr><td>Clay (%)</td><td>0.57±0.50a</td><td>0.88±0.67a</td><td>2.03±2.27a</td><td>1.32±1.67a</td><td>0.89±1.55a</td><td>0.87±1.51a</td></tr><tr><td>TCn (g/kg) 384.71±6.85a</td><td colspan=\"2\"></td><td colspan=\"2\">377.66 ± 4.24b</td><td colspan=\"2\">377.23±7.59b</td></tr><tr><td>TNn (g/kg)</td><td colspan=\"2\">18.39±1.92a</td><td colspan=\"2\">20.45 ± 7.31a</td><td colspan=\"2\">21.32±6.94a</td></tr><tr><td>TPn (g/kg)</td><td colspan=\"2\">1.23±0.08ab</td><td colspan=\"2\">1.52 ± 0.78a</td><td colspan=\"2\">1.15±0.09b</td></tr><tr><td>COV (%)</td><td colspan=\"6\">4.38±1.98c 18.14 ± 5.67b 38.95±10.82a</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/cba432b6d5db2272b709dbae10119e47cec86eddb3349910f08b965fc1491d3c.jpg",
+        "img_caption": [
+            "Fig.5Canonical correlation analysis (CCA)ordination of bacterial community structure at the genus level in relation to major environmental factors in layers A(a) and B (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b746c8b3f7f40b3ae0c986b3159d6996aa67d68bac476fd57913b380e7f18e11.jpg",
+        "table_caption": [
+            "Table 4Mantel test comparing the correlation between environmental factors and soil bacterial community structureinlayerAandlayerB "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Layer A</td><td>r value</td><td>P value</td><td>Layer B</td><td>r value</td><td>P value</td></tr><tr><td>VCS</td><td>0.7811</td><td><0.001</td><td>Ca2+</td><td>0.7993</td><td><0.001</td></tr><tr><td>Na+</td><td>0.6744</td><td><0.001</td><td>SO4-</td><td>0.7242</td><td><0.001</td></tr><tr><td>pH</td><td>0.6366</td><td><0.001</td><td>C1-</td><td>0.6586</td><td><0.001</td></tr><tr><td>MAP</td><td>0.6125</td><td><0.001</td><td>Na+</td><td>0.6384</td><td><0.001</td></tr><tr><td>CI-</td><td>0.5879</td><td><0.001</td><td>HCO3</td><td>0.5660</td><td><0.001</td></tr><tr><td>SO-</td><td>0.5877</td><td><0.001</td><td>K+</td><td>0.4798</td><td><0.001</td></tr><tr><td>EC</td><td>0.5766</td><td><0.001</td><td>TP</td><td>0.4403</td><td><0.001</td></tr><tr><td>Ca²+</td><td>0.5717</td><td><0.001</td><td>Mg2+</td><td>0.4013</td><td>0.002</td></tr><tr><td>Mg2+</td><td>0.4498</td><td><0.001</td><td>pH</td><td>0.3987</td><td><0.001</td></tr><tr><td>K+</td><td>0.4090</td><td><0.001</td><td>EC</td><td>0.3601</td><td><0.001</td></tr><tr><td>AN</td><td>0.3987</td><td><0.001</td><td>VCS</td><td>0.3558</td><td><0.006</td></tr><tr><td>COv</td><td>0.3099</td><td>0.003</td><td>MAP</td><td>0.3397</td><td><0.001</td></tr><tr><td>TCn</td><td>0.2961</td><td><0.001</td><td>AN</td><td>0.2644</td><td><0.001</td></tr><tr><td>AP</td><td>0.2855</td><td>0.004</td><td>COV</td><td>0.2077</td><td>0.009</td></tr><tr><td></td><td></td><td></td><td>VFS</td><td>0.2020</td><td>0.008</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2d202d641b1de82b6b7464bf4a03a8a1be7b497e90d978c9b9837769f394011.jpg",
+        "table_caption": [
+            "Table 5Parameters of network topology analysis (genus level) in different MAP-related subregions and soil layers "
+        ],
+        "table_footnote": [
+            "Note:Communityichnessofeachgrouphadbenmodifiedtobeconsistent(25Ogenera).MD,modularity;CC,clusteringcoicient; GD,graphdensity;APL,veragepathlength;PNR,proportioofgativerelationship.Theabreviatiosare tesameinFgureS4. "
+        ],
+        "table_body": "<html><body><table><tr><td>Type</td><td>MD</td><td>CC</td><td>GD</td><td>APL</td><td>PNR (%)</td></tr><tr><td>Td.A</td><td>0.6502</td><td>0.4980</td><td>0.0242</td><td>4.443</td><td>24.41</td></tr><tr><td>Sd.A</td><td>0.5014</td><td>0.5539</td><td>0.0230</td><td>4.272</td><td>39.15</td></tr><tr><td>Ds.A</td><td>0.3332</td><td>0.5299</td><td>0.0354</td><td>3.691</td><td>25.14</td></tr><tr><td>Td.B</td><td>0.5216</td><td>0.5267</td><td>0.0332</td><td>4.072</td><td>28.19</td></tr><tr><td>Sd.B</td><td>0.5512</td><td>0.5407</td><td>0.0489</td><td>3.576</td><td>36.01</td></tr><tr><td>Ds.B</td><td>0.3704</td><td>0.5721</td><td>0.0527</td><td>3.303</td><td>40.14</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Different bacterial variation characteristics between soil layers along a precipitation gradient can represent the effects of soil depth on the soil microbial response to climate change. Such an effect may change the degree and trend of the bacterial response to precipitation change.In this study, there were obvious differences between soil layers with the changes in soil bacterial conditions along the precipitation gradient. The results showed that in layer B,with the increase in precipitation， soil bacterial diversity, connectivity within community and intergeneric negative interactions also increased (Fig.2; Table 5).The change in SBCS was also more consistent with the change in diversity in that layer. In contrast, SBCS of layer A changed more dramatically along the precipitation gradient than that of layer B (Table 2),but soil bacterial diversity changes were limited (Fig. 2). Furthermore, changes in most parameters of co-occurrence patterns in layer A did not fit the changes in MAP.The above results are consistent with our first and third hypotheses but partly not with the second hypothesis.The differences in environmental factors between the two soil layers were mainly nonsignificant (Table 3),and the effects of the main environmental factors on SBCS were also similar (Fig. 5). Nevertheless, soil moisture may be an important factor that causes different soil bacterial variation characteristics along the precipitation gradient between the two soil layers. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In general, differences in precipitation affect soil microorganisms by influencing changes in soil moisture (Zhang et al.， 2O18). However， correlation between soil moisture and SBCS/diversity in our study was very low $( r { < } 0 . 1 0 )$ . This result should be due to the differences in soil salinity (Table 3), which distorted the biological availability of soil moisture (Zahran,1997; Rath et al.，2O17） among subregions. Even so，we found that SMC was still the only environmental factor with significant differences between soil layers throughout the study area, and the biomarkers in layer B were similar to those in the humid subregions (Figs. 3 and 4). Therefore,soil moisture may still be one of the main factors leading to the difference in soil bacterial conditions between the two soil layers.More importantly, we found that there was still a high correlation between SMC and connectivity within bacterial community. This finding should be related to the strong control of soil moisture over the diffusion of microbial resources (Banerjee et al., 2Ol6). Our results show the particularity of the co-occurrence patterns of soil bacteria when faced with changes in SMC and show the different effects of MAP and SMC on soil bacteria.This result helps to explain the reason for the different characteristics of soil bacteria between different soil layers along the precipitation gradient. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Due to the high heterogeneity of abiotic environments in soil, there are many disconnected pores that filed by air or water (Kuzyakov and Blagodatskaya, 2O15). As soil becomes drier, there is less water in soil pores,resulting in disconnected resource islands (Schimmel, 2O18).For drier desert surface,there is less water in soil pores and may create more disconnected soil niches. This condition may affect the community structure, diversity and co-occurrence patterns of soil bacteria at the same time. On the one hand,such relatively isolated niches may provide shelter for different types of soil microorganisms and lead to increased diversity (Stovicek et al.,2017). However, selection pressures generated by extreme surface environmental conditions (e.g., large temperature differences and strong ultraviolet radiation） tend to reduce the diversity of layer A, and these environmental conditions do not improve with increasing precipitation within a certain range.Due to the combined influence of the above factors,diversity of soil bacteria in layer A did not change significantly with precipitation in this study. On the other hand,the disconnected niche formed by a low SMC can weaken the intercommunity connectivity and may further weaken the stability of SBCS in layer A. As a result, SBCS in layer A changed more dramatically than that in layer B with the changes in precipitation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Vegetation is closely related to soil microorganisms. Although the vegetation types were consistent in this study,vegetation can still indirectly affect soil microorganisms by changing the soil environment. For example, shrub mulching can increase soil infiltration capacity and reduce evaporation in shallow soil (Scholes et al.,1997). It has been suggested that such retention of soil moisture by vegetation may be most significant in areas with a low precipitation (e.g.，Td subregion) (D'Odorico et al., 2O07). This condition can explain why the moisture content in Sd subregion was slightly lower than that in Td subregion in layer A (Table 3) and may further result in the more unique soil bacterial co-occurrence pattrn observed in Sd.A treatment (Table 5). In addition, vegetation itself also responds to changes in precipitation and changes the impact on soil microorganisms. In arid regions, there is a strong competition between soil microorganisms and aboveground vegetation for nitrogen and phosphorus due to limited soil nutrients (Cui et al., 2018).With increasing precipitation，the competitiveness of vegetation for nutrients can be enhanced (Dijkstra et al., 2O15). In this study,soil available nitrogen and total phosphorus were the few soil nutrient factors with a high correlation with SBCS (Table 4). Contents of soil AN and TP in Ds subregion were even lower than those in Sd subregion with increasing vegetation coverage (Table 3). Such nutrient limitations may offset the environmental gain from increased precipitation on soil bacteria and lead to a small difference in SBCS between Sd and Ds subregions.Notably,Alxa Desert is one of the main invasion channels of the East Asian winter monsoon (Yao et al., 2O11),and most litter can be blown away or buried as a result of intense blown sand activity.For other deserts,the accumulation of liter under the canopy or the presence of biological crust may result in a significant difference in the extent of such nutrient limitation between layers. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For long-term climate change,the stability of soil environmental conditions will also affect the response degree of soil bacteria.A more stable soil environment will alow more time for soil bacteria to acclimate.For the surface soil, intense evaporation and rapid infiltration lead to a rapid SMC change. Such a rapid change in SMC,or called re-wet, can lead to a short period of increasing mortality and decreasing diversity of soil bacteria (Schimmel,2O18). For the deeper soil,the drying of the upper layers prevents soil moisture migration and further evaporation (Noy-Meir,1973; Epstein et al.,1997). Therefore,the deeper soil can maintain a higher SMC and more stable moisture condition than surface soil. However, in addition to increasing drought, climate change can lead to more severe and erratic precipitation events (Easterling et al., 2000). Severe precipitation events are beneficial to supplementing deep SMCs and maintaining them for a relatively long time. Considering that desert soil microorganisms have evolved various physiological strategies to resist drought (Barnard et al.,2O13), short-term SMC improvements can also lead to a long-term response of soil bacterial community. Thus,how changes in precipitation patterns affect the stability of soil environment at different depths and how microbes respond at different depths still need further study. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study,soil bacterial status at both the surface and subsurface was found to significantly vary along the precipitation gradient.Differences in soil salinity and nutrient limitation afected the difference degree in SBCS in adjacent subregions and can affect both soil layers. However, variation in each soil layer along the gradient also differed: response of SBCS was more intense in layer A, while layer B was more consistent with the precipitation gradient in terms of diversity and co-occurrence patterns. Layer B can support communities with higher diversity and closer internal relationships but more internal competition than layer A.The changes in these variables were more in line with the changes in MAP.Therefore,it is necessary to distinguish the response of surface and subsurface soil bacteria to changes in precipitation. In addition, soil moisture content may play multiple roles in mediating environmental conditions and soil bacterial community characteristics. When predicting the trends in desert soil bacterial conditions associated with precipitation, it is necessary to distinguish surface and subsurface soils. The trends of bacterial condition in surface soil needs to consider the influence from more types of environmental factors,and the specific depths at which these factors can affect are need to specific research. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the National Key Research and Development Program of China (2016YFC0501001) and the Key Laboratory Cooperative Research Project of Chinese Academy of Sciences.We ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "thank the Novogene Company (Beijing, China) for 16S sequencing service and technical support. The English was polished with the help of American Journal Experts (AJE). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Angel R,Soares MIM,UngarED,etal.2O10.Biogeographyofsoilarchaeaandbacteriaalongasteepprecipitationgradient. The International Society for Microbial Ecology Journal, 4(4): 553-563.   \nAzua-Bustos A,Urrjola C,VicuaR.2l2.Lifeatthedryedge: Microorganismsof theAtacama Desert.FEBLeters,86(18): 2939-2945.   \nBacharA,Al-Ashhab A,Soares MIM,etal.2O10.Soil microbial abundance and diversityalong a low precipitation gradient.Microbial Ecology,60: 453-461.   \nBachar A,Soares MIM,GillorO.20l2.The effectof resource islands onabundance and diversityof bacteria inarid soils. Microbial Ecology, 63(3): 694-700.   \nBanerjee S,Helgason B,Wang L,et al.2O16.Legacy efectsof soil moisture on microbialcommunity structure and $\\mathrm { N } _ { 2 } \\mathrm { O }$ （204 emissions.Soil Biology and Biochemistry,95: 40-50.   \nBarnard RL,OsboreCA,Firestone MK.0l3.Responsesofsoilbacterialand fungalcommunities toextremedesicationand reweting.The International Society for Microbial Ecology Journal,7(11): 2229-2241.   \nBrockettBFT,Prescot CE,Grayston SJ.2O12.Soilmoistureis the majorfactorinfluencing microbialcommunitystructure and enzyme activities across seven biogeoclimatic zones in western Canada.Soil Biology and Biochemistry,44(1):9-20.   \nClarkJS,CampbellJH,GrizzleH,etal.O09oilicrobialcommunityresponsetodroughtadprecipitationvariablitynth Chihuahuan Desert. Microbial Ecology,57(2): 248-260.   \nCregger MA,McDowellNG,PangleRE,et al.2O14.The impactof precipitationchanges onnitrogencycling inasm-arid ecosystem.Functional Ecology,28(5): 1534-1544.   \nCruz-MartieK,utleKBrodieEetal..sitestrogasoalsposlcroalosoiareoeilt tolong-termhangsiinfaltanovelinggaland.eItetioalSocietyforcrobalEologyJoual(6):7744.   \nCui YX,FangLC,GuoXB,etal.2O18.Responsesofsoilmicrobialommunitis tonutrientlimitationinthedesertgrssand ecological transition zone. Science of the Total Environment, 642: 45-55.   \nDijkstraFA,HeMZ,Johansen MP,etal.215.Plantand microbialuptakeof nitrogenandphosphorus afectedbydroughtusing （20 $^ { 1 5 } \\mathrm { N }$ and ${ } ^ { 3 2 } \\mathrm { P }$ tracers. Soil Biologyand Biochemistry,82:135-142.   \nDOdoricoP,CaylorK,OkinGS,etal.20o.Onsoilmoisture-vegetationfeedbacksandtheirposibleeectsonthedyamicsof dryland ecosystems.Journal of Geophysical Research Atmospheres,112: G04010.   \nEasterlingDR,EventsJLGrosmmanPY,etal.o.Obseedvarabilityadtredsinxtremeclimateevents:Abefrie. Bulletin of the American Meteorological Society,81(3):417-425.   \nEdgar RC.2o04.MUSCLE: multiplesequence alignment with highacuracyand highthroughput.Nucleic Acids Research,2(5): 1792-1797.   \nEdgarR C，HaasB J，Clemente JC，et al.2011.UCHIMEimprovessensitivityand speed of chimera detection.Bioinformatics,27(16):2194-2200.   \nEpstein HE,Lauenroth WK,BurkeIC.1997.Effectsoftemperature and soil textureonANPPin the USGreatPlains.Ecolog, 78(8): 2628-2631.   \nExcofferL,SmouseP,QuatroJ.1992.Analysisof molecularvariance inferedfrommetric distances amongDNAhaplotypes: application to human mitochondrial DNA restriction data. Genetics,131(2): 479-491.   \nFangF,HuYK,GongYM,etal.2O13.Desertsoilorganiccarboncharacterizedbytheverticaldistributionof soilmicrobial carbon.Journal of Desert Research,33(3): 777-781.(in Chinese)   \nFiererN,LefJW,AdamsBJ,etal.12.Crossbiom metagenomicaalysesofsoilmicrobalommunitiesandtheructioal atributes.Proceedings oftheNational Academyof Sciences ofthe United Statesof America,109(52): 21390-21395.   \nHaasBJ,Gevers D,Earl A M,etal.2011Chimeric 16srRNA sequence formationand detection in Sanger and 454-pyrosequenced PCR amplicons.Genome Research,21: 494-504.   \nHuang G,LiY,SuYG.2O15.Efectsofincreasingprecipitationonsilmicrobialcommunitycompositionandsoilrespiationin a temperate desert, northwestern China. Soil Biology and Biochemistry,83: 52-56.   \nJohnsonRM,RamodJB,GunnigleE,etal.2O17.NamibDesert edaphic bacterial,fungalandarchaealcommunitiesssmble through deterministic proceses butare influenced by diferent abiotic parameters.Extremophiles,21(2):381-392.   \nJones DL,Olivera-ArdidS,KlumppE,etal.20l7.Moistureactivationndcarbouse eficiencyofsoil microbialcommities along an aridity gradient in the Atacama Desert. Soil Biology and Biochemistry,117: 68-71.   \nKuzyakov Y,Blagodatskaya E.2015.Microbial hotspotsandhot moments insoil:concept &review.Soil Biologyand Biochemistry,83:184-199. Alxa Plateau: Prerequisites forconservingshrubdiversityin extreme arid desert regions.Science in China,52:669-680.(in Chinese)   \nLoarie S R,Duffy PB,Hamilton H,et al. 2010.The velocity of climate change.Nature,462:1052-1055.   \nLozupone C,LladserME,KnghtsDetal.2Ol1.UniFrac:anefectivedistance metricformicrobialcommunitycomparisonThe International Society for Microbial Ecology Journal, 5(2):169-172.   \nMaestreFT,Delgado-BaquerzoM,JefriesTC,etal.Ol5.Increasingaridityreducessoilicrobialdiversityandabundancein global drylands.ProceedingsoftheNationalAcademyofSciencesofthe United StatesofAmerica,112(51):15684-15689.   \nManzoniS，SchimelJP,Porporato A.2O12.Responsesof soil microbial communities to water stress:Results froma meta-analysis.Ecology,93(4): 930-938.   \nMartinM.2O11.Cutadaptremovesadaptersequences fromhigh-throughputsquencingreads.EMBnet Joual,17(1):10-12.   \nMichelsen CF,Pedas P,Glaring MA,et al.2014.Bacterial diversityin Greenlandicsoilsasafectedbypotatocroppingand inorganic versus organic fertilization. Polar Biology,37: 61-71.   \nNeilsonJW，CaliffK，Cardona C，etal.2O17.Significant impactsofincreasingaridityonthearidsoil microbiome.mSystems,2(3): 224-231.   \nNoy-Meir I.1973.Desert ecosystems: Environment and producers.AnnualReview ofEcology and Systematics,4: 25-51.   \nOrlando J,AlfaroM,BravoL,etal.2Olo.Bacterial diversityandoccurrnceofammonia-oxidizingbacteriaintheAtacama Desert soil during a \"desert bloom\" event. Soil Biology and Biochemistry,42(7):1183-1188.   \nPei H,ZhuZY,LiangCZ.2O11.EcologicalEnvironment CharacteristicsandEcological ProtectioninAlxa Desert Area.Beijing: China Meteorological Press,12-13.(in Chinese)   \nPointing SB,BelnapJ.20l2.Microbialcolonzationandcontrols indrylandsystem.NatureReviews Microbiology,10(8):55-562.   \nQuast C,Pruess E,Yilmaz P,etal.2013 The Silva ribosomal RNA gene database project: improved data processingand web-based tools.Nucleic Acids Research,41: 590-596.   \nRath KM,MaheshwariA,Rousk J.2O17.The impactof salinityonthe microbialresponse todryingandreweting insoil.Soil Biology and Biochemistry,108:17-26.   \nRivas M N,BurtonOT,WiseP,etal.2l3.Amicrobiotasignatureassciated with experimentalfoodallrgypromotes ergic sensitization and anaphylaxis.Journal of Allergy and Clinical,131(1): 201-212.   \nRodriguez-ZaragozaS,MayzlishE,SteinbergerY.2Oo5.Verticaldistributionofthefre-livingamoebapopulation insoilunder desert shrubs in the Negev Desert, Israel.Applied and Environmental Microbiology,71(4): 2053-2060.   \nSchimmelJP.2O18.Life indrysoils:effectsofdroughtonsoil microbialcommunitiesand processes.Annual ReviewofEcology Evolution and Systematics,49: 409-432.   \nScholes RJ,Archer SR.1997.Tre-grass interactions inSavannas.Annual ReviewofEcologyand Systematics,28:517-544.   \nSegata N,LzardJ,WaldronL,etal.201.Metagenomicbiomarkerdiscoveryandexplanation.Genome Biology,2(6):R60.   \nShamirI,Steinberger Y.2Oo7.Vertical distributionandactivityofsoil microbialpopulation inasandy desert ecosystem. Microbial Ecology,53: 340-347.   \nStovicekA,imM,OrD,etal.27.Microbialcommunityresposetodrationdesiccationcylesindesertsoil.ietific Reports,7: 45735.   \nTomiolo S,vanderPuten WH,TielborgerK.2O15.Separating theroleofbiotic interactionsandclimate indeterminingadaptive response of plants to climate change. Ecology,96(5): 1298-1308.   \nTripathiBM,Moroenyane I, Chen S,etal.2O17.Trends intaxonomic andfunctional compositionof soil microbiome along a precipitation gradient in Israel.Microbial Ecology,74:168-176.   \nXiao SC,ChenXHDing AJ.20l7.Study process ofclimate changes,environmentevolutionanditsdriving mechanisminthe last two centuries in the Alxa Desert.Journal of Desert Research,37: 1102-1110.(in Chinese)   \nYao ZY,XiaoJHLiCX,etal.2O1.Regionalcharacteristicsofduststormsobserved intheAlxaPlateauof China from1961 to 2005.Environmental Earth Sciences,64: 255-267.   \nYi CX，Wei SH，Hendrey G.2014.Warming climate extends dryness-controlled areasof terrestrial carbon sequestration. Scientific Reports,4: 5472-5477.   \nZahran HH.1997.Diversity,adaptationandactivityof thebacterialflorainsaline environments.BiologyandFertilityof Soils, 25: 211-223.   \nZhangLH,XieZK,ZhaoRF,etal.2018.Plant,microbialcommunityandsoil propertyresponsestoan experimental precipitation gradient in a desert grassland.Applied Soil Ecology,127: 87-95.   \nZhou JZ, XiaBC,Huang H S,et al.2O04.Microbial diversityand heterogeneity insandysubsurface soils.Applied and Environmental Microbiology,70:1723-1734.   \nZvyagintsevDG,RitzK,DightonJ,etal.994.VerticalDistributioofMicrobialCommunitiesinSoilsHoboken,Newersey: John Wiley& Sons Ltd.,29-37. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e024bd32a335ed33e07c0590a63ec4f5ebbad2c2dacdc9254f88fb064ff056c.jpg",
+        "img_caption": [
+            "Fig. S1Histogram of linear discriminant analysis (LDA） score distribution shows the categories with LDA score greater than the set value $( \\geq 4 )$ in layer A $( 0 { - } 1 0 ~ \\mathrm { c m } )$ along the precipitation gradient. The length of the histogram indicates the magnitude of the influence of biomarkers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/007c7f8b3a3e1c62e6e9699c7caa1b048410892c721205ab07f3579c65841613.jpg",
+        "img_caption": [
+            "Fig. S2Histogram of linear discriminant analysis (LDA） score distribution shows the categories with LDA score greater than the set value $( \\geq 4 )$ in layer B ( $\\mathrm { 1 0 { - } } 2 0 ~ \\mathrm { c m } )$ along the precipitation gradient. The length of the histogram indicates the magnitude of the influence of biomarkers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/18d39c99747a7f3f9933e2fa94fab5f50451efc9dcd42f8e10b06279009123ca.jpg",
+        "img_caption": [
+            "Fig.S3Major environmental factors associated with alpha diversity in layers A (a)and B (b).Environmental factors are significantly correlated with at least one alpha diversity index.Asterisks indicate significance of the Spearman's $r$ correlation. \\*, $P { < } 0 . 0 5$ level; $^ { * * }$ $P { < } 0 . 0 1$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2292b0c1e961b07e7d0153613962fa56394ab881bae60a8b000b099e4d13839.jpg",
+        "img_caption": [
+            "Fig.S4Major environmental factors associated with parameters of network topology analysis.Environmental factors are significantly correlated with at least one parameter.Asterisks indicate significance ofthe Spearman's $r$ correlation. \\*, $P { < } 0 . 0 5$ level; $^ { * * }$ $P { < } 0 . 0 1$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    }
+]

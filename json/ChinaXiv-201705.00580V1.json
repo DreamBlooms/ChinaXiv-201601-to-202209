@@ -1,0 +1,151 @@
+[
+    {
+        "type": "text",
+        "text": "Ultrafast carrier dynamics in $\\mathsf { s n O } _ { \\mathbf { x } }$ thin films ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhong-guo Li,1Lingyan Liang,2,@) Hongtao Cao,2 Zhengguo Xiao,1 Xingzhi Wu,1 Yu Fang,3   \nJunyi Yang,³Tai-Huei Wei,1and Ying-lin Song1 3,a)   \nDepartment of Physics,Harbin Institute ofTechnology,Harbin 15ool,China   \n2Division of Functional Materials and Nano Devices,Ningbo Instituteof Material Technology and   \nEngineering,Chinese Academy ofSciences,Ningbo 31520l,China   \n3College of Physics,Optoelectronics and Energy,Soochow University,Suzhou 215o06,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We studied the carrier dynamics in a series of $\\mathrm { S n O _ { x } }$ thin films using femtosecond transient absorption (TA） spectroscopy. The observed carrier relaxation was found to be strongly dependent on thin film stoichiometry.The TA spectra corresponding to free carriers,trapped carriers,and state flling were observed in the picosecond time region for $\\mathrm { S n O } _ { 2 }$ ， $\\mathrm { { { S n O } _ { x } } }$ ，and $\\mathrm { { \\cal S n O } }$ film, respectively.The TA decay kinetics of allfilms were best fit with a tri-exponential decay model with fast (1 ps),medium $( \\sim 1 0 \\ \\mathrm { p s } )$ ，and slow (ns） components.Our results revealed the carrier relaxation and recombination processes in $\\mathrm { S n O _ { x } }$ thin films,identifying the critical role of stoichiometry in photo-induced phenomena. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Oxide semiconductor materials have garnered tremendous attention in the last decade owing to their diverse applications in transparent electronics,sustainable energy,etc.1-3 Among the variety of oxide semiconductors,tin oxide is of special interest because of its excellent stoichiometry flexibility,remarkable microstructure tunability,and wide optical band gap.4.5 While the n-type tin dioxide $( \\mathrm { S n O } _ { 2 } )$ has been widely explored in various applications,such as solar cells and gas sensors, the p-type tin monoxide(SnO) has received ever-increasing research interest in recent years due to its moderate carrier mobility and unique ambipolar conductivity.6-17 A fundamental understanding of the carrier dynamics in photo-excited semiconductor materials is of great importance for improving the efficiency of many optoelectronic and photocatalytic devices.18-21 The ultrafast optical spectroscopy(UOS) has been proved to be a very promising tool for studying the thermalization,trapping,and recombination ofphoto-excited carriers in various oxide semiconductors.22-27 Pervious experimental studies revealed that defect states in $\\mathrm { S n O } _ { 2 }$ play a critical role in the carrier decay kinetics, resulting in a sub-nanosecond decay process.28.29 However,despite extensivestudies of ultrafast carrier recombination in n-type $\\mathrm { S n O } _ { 2 }$ nanostructures,30-33the knowledge of free-carrier dynamics in p-type SnO remains hitherto unclear.Therefore，it is essential to study the ultrafast carrier dynamics in stoichiometric modified $\\mathrm { S n O _ { x } }$ materials for deeper understanding the fascinating photophysical properties of tin oxide. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this letter, the ultrafast carrier dynamics in $\\mathrm { S n O _ { x } }$ thin films were investigated as a function of compositional variation using femtosecond transient absorption（TA） spectroscopy. The TA spectra of pristine SnO film showed a dominant bleaching peak at ${ \\sim } 5 0 0 \\mathrm { n m }$ ，which is attributed to state-filling of optical transition near the band edge.On the contrary,photo-induced absorption by free carrier absorption and defect-related absorption were observed in the stoichiometric $\\mathrm { S n O } _ { 2 }$ and oxygen deficient $\\mathrm { { S n O } _ { \\mathrm { { x } } } }$ films.In all films, the photo-excited carriers relaxed over three different time scales and the free carriers showed long lifetimes up to a few nanoseconds. Our results revealed a quantitative picture of carrier relaxation and recombination processes in tin oxide semiconductors,which could be useful for the potential utilization of tin oxide in future device applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { { S n O } _ { \\mathrm { { x } } } }$ films used in this study were prepared on quartz glasses using reactive rf magnetron sputtering under various oxygen partial pressure $( P _ { \\mathrm { O } } )$ ，with a thickness of ${ \\sim } 2 0 0 \\mathrm { n m }$ .Details about the film fabrication and various property characterizations can be found elsewhere.34 The femtosecond TA spectroscopy was performed using a standard white-light pump-probe measurements.The excitation pulse at $3 5 5 \\mathrm { n m } ( 3 . 4 9 \\mathrm { e V } )$ emitted from an optical parametric amplifier pumpedbya Yb:KGWfemtosecond laser 0 $1 . 2 0 \\mathrm { e V }$ ,190 fs,and $6 \\mathrm { k H z }$ ）was chopped with a frequency of $1 3 7 \\mathrm { H z }$ and focused loosely on the sample flms.The typical pump fluence was $< 1 0 0 \\mu \\mathrm { J } / \\mathrm { c m } ^ { 2 }$ . The white-light probe pulse was generated by focusing a $1 . 2 \\mathrm { e V }$ laser pulse onto a sapphire plate.The transmitted probe pulse after the sample filmswas detected by a Si photodetector after a monochromator.The differential transmittance signals, $\\Delta \\mathrm { O D }$ ，were obtained by comparing the transmittance of probe pulses with and without the pump pulses using lock-in detection. The temple resolution of the measurement system was ${ \\sim } 2 8 0$ fs.All measurements were performed at room temperature.Further details can be found inRef.35. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Figure 1(a) shows the XRD patterns of the $\\mathrm { S n O _ { x } }$ films at various $P _ { \\mathrm { O } }$ .Atlow $P _ { \\mathrm { O } } { } ;$ ，clear XRD peakswere observed, which can be unambiguously assigned to those of the $\\alpha { - } \\mathrm { S n O }$ crystal structure $( { \\mathrm { P 4 } } / { \\mathrm { n m m } }$ ，JCPDS card No.06-0395). Further increasing the $P _ { \\mathrm { O } }$ above $1 0 . 7 \\%$ ，the XRD patterns became broad and featureless,indicating the amorphous nature of the films.This result is consistent with the previous report.34,36Thecrystallnityof the films wereelucidated based on the XRD data to be nanocrystalline,amorphous, and polycrystalline for $\\mathrm { S n O } _ { 2 }$ ， $\\mathrm { { S n O } _ { x } }$ ，and $\\mathrm { S n O }$ ，respectively. Figure 1(b) presents the linear transmittance spectra of the $\\mathrm { S n O _ { x } }$ films.As the $P _ { \\mathrm { O } }$ increased, the optical bandgap of the $\\mathrm { S n O _ { x } }$ films increases continuously from ${ \\sim } 2 . 8 6 \\mathrm { e V }$ to $3 . 7 \\mathrm { e V }$ which is in a good agreement with the previous report.15.34,37 Furthermore,the optical transmittance spectra clearly demonstrate that there is absorption below the band edge,which is related to the shallow defect state within the band gap. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa2144fc56ad317f3c4ce9522f2b7c51d0bec0829e38b8bbf323cc5b8bd5231d.jpg",
+        "img_caption": [
+            "FIG.1.(a) XRD patterns of the $\\mathrm { S n O } _ { 2 }$ $\\mathrm { { S n O } _ { \\mathrm { { x } } } }$ ，and SnO films deposited with different oxygen pressure $( P _ { \\mathrm { O } } )$ .The dotted lines indicate the $\\scriptstyle { \\alpha - \\mathrm { S n O } }$ phase (space group $\\mathrm { P 4 / n m m }$ ).(b)The transmittance spectra of the $\\mathrm { S n O _ { x } }$ films. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 illustrates the typical TA spectra of $\\mathrm { S n O } _ { 2 }$ $\\mathrm { S n O _ { x } }$ ,and SnO films at various time delays under $3 5 5 \\mathrm { n m }$ pulses excitation，respectively. The pump photon energy $( 3 . 4 9 \\mathrm { e V } )$ Was utilized to near resonance with or higher than the band gap energy of the tin oxide films.To eliminate the possible effect of excitation photon energy on carrier dynamics,femtosecond pump-probe measurements were carried out with $2 . 4 1 \\mathrm { e V }$ $( 5 1 5 \\mathrm { n m } )$ photons corresponding to twophoton absorption well above the band edge.The results appear to be identical with the data under $3 . 4 9 \\mathrm { e V }$ excitation. In order to avoid second-order charge recombination,all the measurements were performed by keeping the laser fluence less than $3 0 \\mu \\mathrm { J } / \\mathrm { c m } ^ { 2 }$ .In the $\\mathrm { S n O } _ { 2 }$ film,we observed a Drudelike free carrier response and a broad absorption peak centered at $5 3 0 \\mathrm { n m } \\ ( 2 . 3 4 \\mathrm { e V } )$ almost immediately after excitation.This absorption band is consistent with the pervious photoluminescence(PL）experiment,which is ascribed to defect state in the bandgap of $\\mathrm { S n O } _ { 2 }$ .38 It is worth noticing that the observed spectral change is analogous to that of the benchmark oxide semiconductors $\\mathrm { T i O } _ { 2 }$ ，indicating carrier relaxation in thenanocrystalline $\\mathrm { S n O } _ { 2 }$ film is similar to the nanocrystalline $\\mathrm { T i O } _ { 2 }$ 224 As the delay time increases,the ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a59a4b003d796a1f7edd8fb659b34c4215b99bc9ebd4deca98d28095af183ea.jpg",
+        "img_caption": [
+            "FIG.2.Transient absorption spectra of the $\\mathrm { S n O } _ { 2 }$ ， $\\mathrm { { S n O } _ { x } }$ ，and SnO films excited with $3 5 5 \\mathrm { n m }$ $3 . 4 9 \\mathrm { e V }$ laser pulses at fluence of $1 4 \\mu \\mathrm { J } / \\mathrm { c m } ^ { 2 }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$2 . 3 4 \\mathrm { e V }$ absorption band rapidly broadens and vanishes after tens of picoseconds，leaving a broad and featureless TA spectrum persists up to a few nanoseconds. In the oxygen deficient $\\mathrm { S n O _ { x } }$ film, the strong absorption band at $5 3 0 \\mathrm { n m }$ can be clearly identified at very early time delays.This result indicates that a large number of defect states form in the amorphous $\\mathrm { S n O _ { x } }$ film，which effectively trap the photoexcited carriers.With an increase in the delay time,the $5 3 0 \\mathrm { n m }$ absorption band shows a small blueshift,which could be attributed to the crossover between shallow defect state near the band edge to deep defect state located in the forbidden gap.26 Contrary to the $\\mathrm { S n O } _ { 2 }$ film, the relaxation of the $5 3 0 \\mathrm { n m }$ absorption band proceeds much slowly in the $\\mathrm { S n O _ { x } }$ film.After 3O ps,a distinct TA signal is still observable over the whole spectrum. Then, the spectrum gradually loses its structure in about hundreds of picoseconds.Finally,only a large and featureless continuum and a faint absorption band signal are detectable for time delays up to nanosecond regime.This result indicates that the carrier lifetime is rather long in the $\\mathrm { S n O _ { x } }$ film. In polycrystalline SnO film, however, laser excitation leads to an instantaneous buildup of bleaching feature with maximum at ${ \\sim } 5 0 0 \\mathrm { n m }$ $ { ( 2 . 4 9 \\mathrm { e V } ) }$ ，while a positive absorption signal in the $5 7 0 { - } 6 4 0 \\mathrm { n m }$ region is evident which is attributed to free carrier absorption.The observed bleaching of interband transition is smaller than the optical band gap determined by linear transmittance measurement,which indicates the defect-related bleaching is dominant in the visible regime.The amplitude of TA signal indicates that the concentration of defect states in the polycrystalline $\\mathrm { { \\cal S n O } }$ film is smaller than the amorphous $\\mathrm { S n O } _ { 2 }$ or $\\mathrm { S n O _ { x } }$ films,which is consistent with the previous PL measurements.10,38Following theintensebleaching,the TA spec trum decays within tens of picoseconds,resulting in a nearly featureless and positive continuum which extends over the entire investigated spectral range after 25O ps time delay. The quartz substrate was also measured under the same experimental conditions and found to have negligible response.We confirmed that no photo-induced damage of the sample was observed during our experiments,and the TA signal is repeatable at different spot of the $\\mathrm { S n O _ { x } }$ films. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The normalized TA decay dynamics of $\\mathrm { S n O } _ { 2 }$ ， $\\mathrm { S n O _ { x } }$ ,and SnO films are shown in Figs. 3(a)-3(c) for a probe photon energy of $2 . 3 3 \\mathrm { e V }$ ,respectively. For all of the samples studied,no excitation-intensity-dependent decay process was observed until the pump fluence was larger than $4 6 \\mu \\mathrm { J } / \\mathrm { c m } ^ { 2 }$ Othonos et al.reported the intensity threshold for high order effects such as Auger recombination take place at $5 0 \\mu \\mathrm { J } / \\mathrm { c m } ^ { 2 }$ for $\\mathrm { S n O } _ { 2 }$ nanowires.28 Therefore, our measurements were conducted in the low perturbation regime.The decay curves show a pulse-width-limited instantaneous rise,followed by a multi-exponential recovery.This characteristic behavior is observed for all probing wavelengths.The first 2O ps decay dynamics of all three films are composed of a fast and a slow decay component with time constants $\\tau _ { 1 }$ of 1 ps and $\\tau _ { 2 }$ of tens of picoseconds,respectively.And the carrier decay in long time scale was rather slow with lifetime $\\tau _ { 3 }$ of up to a few nanoseconds. The experimental data can be fitted by a convolution between the instrument response function and a tri-exponential decay model ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d78789fbccddec9c73e8417a5fb7a8fa480d3a8aa0d4c41f4c1aa677a42786be.jpg",
+        "img_caption": [
+            "FIG.3.Normalized transient absorptiondecaydynamics extractedat $2 . 3 3 \\mathrm { e V }$ 1 $( 5 3 2 \\mathrm { n m } )$ for (a) $\\mathrm { S n O } _ { 2 }$ ，(b) $\\mathrm { { S n O } _ { \\mathrm { { x } } } }$ ，and(c）SnO films under weak excitationconditions,respectively. The red lines are theoretical fitting results.The green curves represent the instrument response function. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta T ( t ) = R _ { I R F } \\otimes \\left[ \\sum _ { i = 1 , 3 } A _ { i } \\exp \\left( - \\frac { t } { \\tau _ { i } } \\right) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta T ( \\mathrm { t } )$ is the normalized transmittance change, $R _ { \\mathrm { I R F } }$ is the instrument response function, $\\tau _ { \\mathrm { i } }$ and $A _ { \\mathrm { i } }$ are the time constants and amplitudes,respectively. The fitting parameters obtained for the three films are summarized in Table I.The relative uncertainty for both decay times and amplitudes is ${ \\sim } 1 5 \\%$ . It can be found that the model fits the experimental data very well. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here,we consider the origin of the observed carrier recombination dynamics in tin oxide films.It is known that photo-generated carriers can follow different decay pathways,which depends on crystallinity and stoichiometry of the semiconductor materials.In amorphous $\\mathrm { S n O } _ { 2 }$ and $\\mathrm { S n O _ { x } }$ films,the TA signal due to free carrier absorption and defect-related absorption appears immediately after pump excitation,indicating that the thermalization of hot photoexcited carriers via carrier-carrier scattering and defect trapping is accomplished on the order of hundredsof femtoseconds.Similar ultrafast carrier relaxation was also reported for other oxides.22.24 The fast decay component $( \\sim 1 \\mathrm { p s } )$ was observed for both films and found to be powerindependent under our experimental conditions.This result indicates that the high order carrier-carrier interaction processes such as Auger recombination are not important. Therefore,we attribute the fast decay to the redistribution of photo-generated carriers among the shallow defect states below the band edge.The relatively slow decay component could be assigned to the nonradiative relaxation of carriers toward deeper trap states in the band gap.Finally,the long decay component is related to the carrier recombination from this deep trap state to the valence band. The timescale we observed is analogous to the carrier relaxation time in $\\mathrm { S n O } _ { 2 }$ nanowires reported by Othonos et al.28 And similar carrier decay process has been recently observed in other semiconductor materials.39.40 In the polycrystalline SnO film, the negative TA signal peaking at ${ \\sim } 5 0 0 \\mathrm { n m }$ emerges at very early time delays,which is attributed to the ultrafast bleaching of the defect state.After photo-excitation，the relaxation of bleaching on a few picoseconds time scale is assigned to the cooling of hot carriers to the band edge or shallow defect state.Similar to the $\\mathrm { S n O } _ { 2 }$ and $\\mathrm { S n O _ { x } }$ cases, these shallow trapped carriers gradually relax into deep trap states on 1O ps time scale. These trapped carriers have a long lifetime $( \\sim 2 \\mathrm { n s } )$ ,and thermal activation of carriers in the trap states induces absorption signal up to a few nanoseconds. Regardless of the decay mechanisms,we note that at less $24 \\%$ of photo-excited carriers in all three flms remain for time delay longer than 1ns.The observed long lifetime of carriers is extremely useful for photocatalytic and transparent electronics applications.Therefore,our results demonstrate that the sputtered $\\mathrm { { S n O } _ { \\mathrm { { x } } } }$ thin films are promising candidate materials for applications in solar cells,thin film transistors,sensor, etc. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/767c1ac886ded9a173d14e8c3f5da3492db4a0685e685f12b82cd2b392ddfe54.jpg",
+        "table_caption": [
+            "TABLE I. Summary of fitting parameters for transient absorption dynamics of tin oxide films. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>A1</td><td>T1(ps)</td><td>A2</td><td>T2(ps)</td><td>A</td><td>T3(ns)</td></tr><tr><td>SnO2</td><td>0.59</td><td>1.0</td><td>0.16</td><td>9.5</td><td>0.22</td><td>2.2</td></tr><tr><td>SnOx</td><td>0.48</td><td>1.2</td><td>0.18</td><td>12.0</td><td>0.29</td><td>1.8</td></tr><tr><td>SnO</td><td>0.51</td><td>1.3</td><td>0.23</td><td>10.5</td><td>0.22</td><td>1.9</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In summary,we studied the ultrafast carrier dynamics of $\\mathrm { S n O } _ { 2 }$ $\\mathrm { S n O _ { x } }$ ,and $\\mathrm { \\Delta S n O }$ thin films prepared by magnetron sputtering using femtosecond transient absorption measurements. The thin film stoichiometry was found to play a critical role in determining the optical properties and dynamics of photogenerated carriers. The transient absorption signals corresponding to the free carrier absorption,defect-related absorption,and photo-bleaching were observed in $\\mathrm { S n O } _ { 2 }$ ， $\\mathrm { S n O _ { x } }$ and $\\mathrm { { \\cal S n O } }$ films,respectively.Kinetics of these transients was fitted well with a multi-exponential decay model with fast $( \\sim 1 \\mathrm { p s } )$ ，medium $( \\sim 1 0 \\mathrm { ~ p s ) }$ ，and long(ns） time constants under weak excitation fluence conditions. Our results elucidate the carrier relaxation mechanism of tin oxide materials, which is necessary for further optimizing the operation of SnO-based devices. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The authors acknowledge the support of the Chinese National Program onKeyBasicResearch Project (2012CB933OO3)， andtheNationalNaturalScience Foundation of China (Grant No.11104289 and 61274095). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { K }$ Nomura,H. Ohta,A. Takagi,T. Kamiya,M. Hirano,and H. Hosono, Nature 432,488 (2004).   \n$^ 2 \\mathrm { E }$ Fortunato,P.Barquinha,and R.Martins，Adv.Mater.24,2945 (2012).   \n3L. Sang,Y. Zhao,and C.Burda, Chem.Rev.114,9283 (2014).   \n4D.S.Ginley,H. Hosono,and D. C. Paine, Handbook of Transparent Conductors (Springer,Berlin,2010),Chap.6.   \n5M. Batzill and U. Diebold, Prog. Surf. Sci. 79,47 (2005).   \n6Y. Ogo, H. Hiramatsu, K. Nomura, H. Yanagi,T. Kamiya, M. Hirano,and   \nH.Hosono,Appl.Phys.Lett.93,032113 (2008).   \n7K．Nomura,T.Kamiya，and H. Hosono，Adv.Mater.23，3431 (2011).   \n8E.Fortunato,R. Barros,P.Barquinha,V.Figueiredo,S.K.Park,C.S. Hwang,and R.Martins,Appl.Phys.Lett.97,052105 (2010).   \n9L. Y. Liang, Z. M. Liu, H. T. Cao,and X. Q. Pan, ACS Appl. Mater. Interfaces 2,1060 (2010).   \n10W. Guo,L. Fu, Y. Zhang, K. Zhang, L. Y. Liang, Z. M. Liu, H. T. Cao, and X.Q.Pan,Appl.Phys.Lett.96,042113 (2010).   \n11L. Y. Liang, H. T. Cao, X. B.Chen, Z. M. Liu,F. Zhuge, H. Luo,J. Li, Y. C.Lu,and W.Lu, Appl. Phys.Lett.100,263502 (2012).   \n${ } ^ { 1 2 } \\mathrm { J }$ A. Caraveo-Frescas,P. K. Nayak,H. A. Al-Jawhari, D.B. Granato, U. Schwingenschlogl,and H.N.Alshareef,ACS Nano 7,5160 (2013).   \n${ } ^ { 1 3 } \\mathrm { J } .$ A. Caraveo-Frescas,M. A. Khan,and H. N. Alshareef, Sci. Rep.4,5243 (2014).   \n$^ { 1 4 } \\mathrm { \\dot { M } }$ K.Hota,J.A.Caraveo-Frescas,M.A.McLachlan，and H. N. Alshareef, Appl.Phys.Lett.104,152104 (2014).   \n$^ { 1 5 } \\mathrm { N }$ F. Quackenbush,J.P.Allen,D.O.Scanlon,S.Sallis,J.A.Hewlett,A. S.Nandur,B.Chen,K.E.Smith,C.Weiland,D.A.Fischer,J.C.Woicik, B.E.White,G.W.Watson,andL.F.J.Piper,Chem.Mater.25,3114 (2013).   \n$^ { 1 6 } \\mathrm { H }$ 、N. Lee,H. J. Kim,and C. K. Kim, Jpn. J. Appl.Phys.,Part 1 49, 020202 (2010).   \n${ } ^ { 1 7 } \\mathrm { J }$ H. Han,Y.J.Chung,B.KPark,S.K.Kim,H.S.Kim,C.G.Kim,and T.M. Chung, Chem.Mater.26,6088 (2014).   \n$^ { 1 8 } \\mathrm { A }$ Othonos,J.ApplPhys.83,1789(98).   \n$^ { 1 9 } \\mathrm { V }$ I. Klimov,J Phys.Chem.B104,6112(000).   \n$ { ^ 2 ^ { 0 } \\mathrm { D } }$ A. Wheeler andJ. Z. Zhang, Adv.Mater.25,2878 (2013).   \n$^ { 2 1 } \\mathrm { J }$ B.Baxter,C.Richter,and C.A.Schmutenmaer,Annu.Rev.Phys. Chem. 65,423 (2014).   \n$^ { 2 2 } \\mathrm { Y }$ Tamaki,A.Furube,M. Murai,K. Hara,R. Katoh,andM.Tachiya, Phys. Chem. Chem.Phys.9,1453 (2007).   \n$^ { 2 3 } \\mathrm { D }$ A.Wheeler,Y.Ling,R.J. Dillon,R. C.Fitzmorris, C. G. Dudzik,L. Zavodivker,T.Rajh,N.M. Dimitrijevic,G.Millhauser,C.Bardeen,Y. Li,and J. Z. Zhang,J.Phys. Chem.C117,26821 (2013).   \n$^ { 2 4 } \\mathrm { L }$ Triggiani,A.Bruneti,A.Aloi,R.Comparelli，M.L.Curri，A. Agostiano,M. Striccoli,and R.Tommasi, J.Phys.Chem.C 118,25215 (2014).   \n25T. Shin,E.Lee,S.Sul,H. Lee,D.S. Ko,A. Benayad, H. S. Kim, and G. S.Park, Opt.Lett.39,5062 (2014).   \n26Y.Yamada,T.Nakamura,S.Yasui,H.FunakuboandY.Kaeitsu, Phys. Rev.B 89,035133 (2014).   \n27S.Y.Smolin,M.D.Safetta,G.W.Gugliett,J. B.BaxterandS.J. May Appl. Phys.Lett.105, 022103 (2014).   \n$^ { 2 8 } \\mathrm { { A } }$ Othonos,M.Zervos,andD.TsokouNanoscaleRes.Let48 (2009).   \n29A.Kar,M.AtrosioMeyanDJGoolaGPWit _and M. Dutta,Nanotechnology 22,285709 (2011).   \n30J.J. Cavaleri, D.P.Colombo,Jr.,andR. M.Bowman, J. Phys.Chem. B 102,1341 (1998).   \n$^ { 3 1 } \\mathrm { K }$ Tvrdy,P.A. Frantsuzov,and P. V. Kamat,Proc.Natl. Acad. Sci. U.S.A. 108,29 (2011).   \n${ } ^ { 3 2 } \\mathrm { P }$ Tiwana,P.DocamoM..Johston,H.J.aitand..Hez ACS Nano 5, 5158 (2011).   \n${ } ^ { 3 3 } \\mathrm { D }$ Tsokkou,A.Othonos,and M.Zervos,Appl.Phys.Lett.100,133101 (2012).   \n$^ { 3 4 } \\mathrm { { H } }$ Luo,L. Y. Liang, H. T. Cao, Z. M. Liu,and F. Zhuge, ACS Appl. Mater.Interfaces 4, 5673 (2012).   \n$^ { 3 5 } Z$ G.Li,R. ZhaoW.W.Li,H.Y. Wang,H.Yang,andY.L.Song,Appl. Phys.Lett.105,162904 (2014).   \n$^ { 3 6 } \\mathrm { P }$ C. Hsu, C. J. Hsu, C.H.Chang,S.P.Tsai, W.C.Chen, H. H Hsieh, and C. C. Wu, ACS Appl. Mater. Interfaces 6, 13724 (2014).   \n$^ { 3 7 } \\mathrm { T }$ Toyama,Y.SeoKonishiHamotoR.ormotoY.Nisikawa and Y.Tsutsumi, Thin Solid Films 555,148 (2014).   \n38A.Kar,M.A.StroscioM.Dutta,J. Kumari,and M. Meyyappan,Appl. Phys.Lett.94,101905 (2009).   \n$^ { 3 9 } \\mathrm { L }$ Q.Phuong,M.Okano,Y.Yamada, G.Yamashita,T. Morimoto,M. Nagai,M.Ashida,A. Nagaoka,K. Yoshino,and Y.Kanemitsu,Appl. Phys. Lett.105,231902 (2014).   \n$^ { 4 0 } \\mathrm { C }$ Y.Yang,C.T.Chia, H.Y.Chen,S.Gwoand K. H.Lin,Appl.Phys. Lett. 105,212105 (2014). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,195 @@
+# DOI:10.5846/stxb201704110632
+
+吕笑天,吕永龙,宋帅,王铁宇.气候变化与人类活动双重驱动的冷水湖泊富营养化.生态学报,2017,37（22)：7375-7386.LuXT,LuYogngtroteldsofatedcticlcaSinica,2017,37(22) :7375-7386.
+
+# 气候变化与人类活动双重驱动的冷水湖泊富营养化
+
+吕笑天1²，吕永龙1,2，\*，宋帅}，王铁宇1
+
+1中国科学院生态环境研究中心城市与区域生态国家重点实验室，北京100085  
+2中国科学院大学，北京100049
+
+摘要：富营养化对水生生态系统造成的负面影响已在世界范围内广泛发生,尤其对淡水水源地湖泊的水环境质量影响深远,进而引起当地居民的饮用水安全与健康隐患。在人类活动和气候变化的双重驱动下,富营养化辐射的范围不断扩大,从过去主要集中于温带大型浅水湖泊已经扩展到寒冷地区的冷水湖泊。分析了近年来世界范围内高寒地区冷水湖泊富营养化的趋势特征与研究进展,探讨了气候变化、人类干扰(农业活动、畜牧业生产、管理措施不当等)在不同地区冷水湖泊富营养化进程中的作用。在未来的研究中,应进一步加强对冷水湖泊富营养化机制的探讨,并对已有富营养化症状的湖泊进行生态修复,以确保冷水湖泊生态系统健康并改善饮用水源地的环境质量。
+
+关键词：冷水湖泊;富营养化;气候变化;营养盐
+
+# Eutrophication in cold-water lakes driven by combined effects of climate change and human activities
+
+LU Xiaotian12， LU Yonglong1,2,\*， SONG Shuai¹， WANG Tieyu'
+
+1StateKeyLaboratorofUrbanndRegioalEcologyResearchCenterforco-EiromentalSciences，ChineseAcademyofSciences，Beijin 100085，China   
+2 University of Chinese Academy of Sciences，Beijing 1ooo049，China
+
+Abstract：Eutrophicationhas becomeoneofthemostserious threats toaquaticecosystems inthe world,especiallyto water qualityof lakesas drinking water sources，and further posed negative efectson the healthof localresidents.With the combined drivers of climatechangeand human activities，eutrophication has expanded from shallow lakes in temperature Zonetowater lakes incoldareas（namedascold-water lakes）.Trends，characteristicsandresearchadvances in eutrophicationofcold-waterlakes throughouttheworld were summarized.Besides，influences of climate change and human activities，including agriculturalactivities，livestock farmingand misguided policies，oneutrophication processesof coldwater were alsoanalyzed.Inthefuture research，eutrophication mechanism ofcold-water lakes should be further explored and ecological restorationis desiderated toensure theecosystem healthofthecold-water lakesand improve thequalityof drinking water.
+
+Key Words: cold-water lakes ；eutrophication；climate change；nutrients
+
+# 富营养化已经成为影响世界各地水资源环境的重大问题,对水体质量安全和水生生态系统健康有深刻影
+
+响[1-2]。湖泊富营养化问题是湖泊水体在自然环境因子和人类活动的双重影响下,大量营养盐输入湖泊使水体逐步由生产力水平较低的贫营养状态向生产力水平较高的富营养状态变化的一种现象。随着自然环境的变迁,湖泊经历发生、发展、衰老直至消亡的必然过程,由湖泊形成初始阶段的贫营养逐渐向富营养过渡,直至最后消亡。在自然条件下,湖泊的这种演变过程是极为缓慢的,但在人类活动的影响下,这种演化过程大大加快,人为的富营养化(Cultural Eutrophication)引起的环境问题日益严重[3-4]。近几十年来,工业化、城市化的快速推进伴随着污水排放量日益增大,湖泊水环境富营养化趋势明显,引起了世界范围的关注。已有大量研究报道富营养化污染来源、发生机制、浮游藻类与营养盐负荷相互作用与关系等,但研究多集中于低纬度、人口密集的温暖流域,而随着气候变化作用的逐渐凸显[5-8],富营养化影响区域不断扩大,较高纬度地区或人类活动影响相对较少的高山冷水湖泊也开始逐步表现出富营养化的症状。本文将围绕气候变化和人类活动对冷水湖泊富营养化的驱动作用,对近年来寒冷地区冷水湖泊富营养化的特征与研究进展进行综述。
+
+# 1冷水湖泊生态系统的脆弱性
+
+冷水湖泊一般属于高海拔的高山湖泊,或位于高纬度地区,由于气候原因,导致全年水温偏低[9]。这些湖泊大部分发育时间较长,地处偏远,以前极少受到人类活动干扰,在世界很多地区是饮用水的发源地。通常这些地区的大气层更为稀薄,溶解性有机碳浓度也较低,使得冷水湖泊常处于高紫外线暴露水平[10]。同时年均气温一般低于 $0 ^ { \circ } \mathrm { C }$ ,水温大部分时间低于 $4 ^ { \circ } \mathrm { C }$ ,一年中有5—9个月的冰期[11]。紫外线和低温条件的联合作用使得这类湖泊生态系统的垂直结构与平原湖泊截然不同,严酷的自然条件对生物体的生存较为不利。
+
+因为气候较为寒冷,冷水湖泊的解冻期和适宜浮游植物生长期较短,营养盐含量偏低,周围陆生植物覆盖较少,冷水湖泊生境更易因周边环境的改变和污染而遭到破坏,成为环境变化的敏感区和指示器[10,12-13]。有证据表明,高海拔地区气候变暖的幅度有明显的海拔依赖性,气候变化在高山区域存在放大效应,气候变暖在冰雪反照率反馈效应、水汽-云-辐射反馈效应、水汽与辐射通量反馈和气溶胶等作用下,速率正在加快。而高海拔地区快速变暖会加剧山区生态环境、冰冻圈、水文循环和生物多样性的变化,由此可能带来一系列环境问题,造成冷水湖泊的萎缩退化,深刻改变冷水湖泊的生态系统结构特征与功能服务[14-16]。
+
+冷水湖泊一般为静水生态系统,水量的补给主要来自流域的冰川和积雪融水,以及降雨带来的径流,而水量的减少则是由于蒸发和渗流效应[17-18]。在冷水湖泊生态系统中,硅藻占据浮游藻类的优势地位,湖泊细菌类群则以放线菌为主。经过全球变化背景下多环境过程的相互作用,藻类群落结构与冷水湖泊环境显示出同步变化的特征,原有的优势种群大多被星杆藻和巴豆叶脆杆藻等取代[19-22]。由于冷水湖泊会从大气中吸收大量的营养盐成分,因此对大气沉降量及化学组成变化都非常敏感[23]。而人为活动已经显著改变了大气化学组成和关键营养元素的全球流动性[24]。同时,冷水湖泊对外界干扰尤其外来鱼种引入的抵抗性较差[25]。有研究发现,亚洲高山湖泊生态系统在人类活动和全球气候持续变暖的影响下,生态系统将进一步退化,可能会产生严重的富营养化问题,该区域淡水供应形势将更为严峻[26]。但是目前全球针对冷水湖泊研究仍主要集中于有毒化学品在高海拔地区的"蒸馏效应”[12],对其富营养化进程的关注严重不足。水体富营养化问题在气候变化和人类活动的双重驱动下,向冷水湖泊地区的快速蔓延,已成为冷水湖泊生态系统研究的新热点和新挑战。
+
+# 2气候变化对冷水湖泊富营养化的驱动作用
+
+从统计学意义上看，气候变化是指气候平均状态在较长的时间尺度上(以年或若干年为尺度)产生重要改变的气候变动,而人类活动被认为是近百年来全球气候变化的主要原因。工业革命以来,化石燃料大量燃烧、土地利用变化等人类活动加剧,大气温室气体浓度大幅增加,扰动了全球的能量平衡从而引起全球气候变暖[27-29]。目前研究已观察到的气候变化症状主要表现在3个方面:全球地表温度升高、海平面上升及北半球积雪面积的下降[30]。
+
+http://www.ecologica.cn
+
+# 2.1湖泊生态系统对全球气候变化的响应
+
+湖泊生态系统作为水生态系统的重要组成，为居民供水和经济发展提供饮用水源,担负和提供了多重生态系统服务功能。大量研究表明,湖泊生态系统对气候变化敏感,湖泊与流域环境的变化密切相关,整个流域对气候变化的响应都可由湖泊生态系统综合反映,因而湖泊被看作气候变化的信号指示器和累积调节器[31-38]
+
+气候变化对湖泊生态系统的影响及湖泊对气候变化响应的关键参数主要包括3个方面;湖泊的物理、化学及生物特性,这些响应参数能够通过气候变化对流域的作用而直接或间接地反映出气候对湖泊的影响(表1)。
+
+表1湖泊生态系统参数对气候变化的响应  
+Table1 Responses of lake ecosystem parameters to climate change   
+
+<html><body><table><tr><td>参数</td><td>响应</td></tr><tr><td>Parameters</td><td>Responses References 0.02—0.11 [39-42]</td></tr><tr><td>表水层水温的年均上升Rised temperature of surface water per year/C</td><td></td></tr><tr><td>分层期增长 Increasing degree during stratified period/d</td><td>[42-44]</td></tr><tr><td>间冰期增加 Increasing degree during interglacial period/(d/10a)</td><td>[35，45-46]</td></tr><tr><td>TN Total nitrogen/(μg/L)</td><td></td></tr><tr><td>TP Total phosphorus/(μg/L)</td><td></td></tr><tr><td>蓝藻细菌Cyanobacteria/(μgchla/L)</td><td></td></tr><tr><td>桡足类 Copepoda/(μg C/L)</td><td></td></tr></table></body></html>
+
+（1）物理特性参数包括表层及上层水温的升高[48-49],水位的波动[50-52],冰期与间冰期的变化[53-54]：在很多湖泊已经观察到温水层的变暖趋势,湖泊的表水层温度被认为是大气层变暖的良好指标,全球湖泊夏季表层水温的年均增温率为 $0 . 0 3 4 ^ { \circ } \mathrm { C }$ [55],而下层滞水带温度的响应行为更为复杂,与湖泊的形态和季节因素等相关[56-57]。通过影响水柱的密度梯度、水温垂直的非均匀变化会导致湖泊的垂直分层、热稳定性和温跃层深度的长期变化,而这种长期变化又将改变湖泊的混合和循环模式[58]；
+
+(2)化学特性参数包括营养盐浓度与比例、溶解性有机碳和溶解氧浓度[59-62]：湖泊的许多化学特性可以反映地表变化过程。气候因素会影响到风化速率、降水、径流、火灾频率、陆生植物初级生产力等,进而影响到陆源营养盐的负荷,改变湖泊的营养盐浓度和比例[63-6]。溶解性有机碳(DOC)浓度是湖泊多维响应的综合结果,包括水体透明度、热吸收、湖泊自身代谢、流域径流的增加、永久冻土的消融、植被覆盖和湿地的变化等，从而可以很好地反映陆地环境的变迁[59,62,67-68]。由于氧气水平与气温和热力学结构密切相关,湖泊的溶解氧浓度也能指示气候的变迁[69]；
+
+（3）生物参数包括浮游动植物生长发育模式的改变与种类组成[70-73]、外来入侵种的优势扩张等[74]：浮游生物已广泛应用于生态系统变化的指示,由于它们能对微小的热力学改变进行快速响应,可以通过物候学的改变反映气候变化。对于鱼类和桡足类等寿命较长的有机体来说,气候变暖可以加速其发育过程[75-76]。增温通常会加快个体生物的生长和发育速度[77],物种组成的变化也可在较长的地质时间尺度上指示气候的改变,比如在较高温度下,水华藻类——蓝藻细菌较其他浮游植物种类更具竞争优势[78]。
+
+# 2.2气候变化与湖泊富营养化
+
+对淡水湖泊系统来说,气候变化正通过改变降雨模式、土壤升温、冰川融化等增加营养盐负荷的面源,从而驱动富营养化加速发展[79-80]。气候变化作用的机理如图1所示：
+
+(1)气候变暖的直接作用;增暖效应会促进蓝藻细菌更适应较高温度环境的有害藻类生长,增加浮游植物的初级生产力,加快藻型湖泊形成;(2)气候变暖的间接作用：由于杂食性鱼类更偏爱温暖水体,它们的快速繁殖会取代浮游动物成为优势种群,从而减少了湖泊生态系统自身对藻类的控制能力,间接促进藻类的过度增殖;(3)降水模式转变：改变湖泊营养物质的入湖通量及水体的水力停留时间,最终导致水体富养化的
+
+![](images/952149e7d05d83349a5e40ef0e0fade3e2bd1bc0576443df8dd79be9538cf4bd.jpg)  
+图1气候变化对湖泊富营养化的驱动作用(在[5]基础上改进)   
+Fig.1Lake eutrophication driven by climate change（modified from Ref.[5])
+
+发生[5] 。
+
+为了评估湖泊生态系统对气候变化和流域内环境因子变化所产生的响应,可以进行水质采样测定、浮游植物群落现场调查和气候数据分析,而由于湖泊长期监测数据的缺乏,时间序列的演化过程分析往往非常困难,古湖沼学发展了多种利用湖泊沉积物的多代用记录来重现湖泊生态系统变化情况的方法[81]。同时,很多考虑气候因子变化的研究湖泊富营养化的模型方法也在不断探索和发展。如对气候因子和湖泊环境因子进行相关分析的数理统计与分析模型、将气候因子作为变量加入或进行耦合的生态动力学模型、模拟不同气候情景下湖泊富营养化影响的系统生态学模型、浮游植物生态机理性模型、智能算法等[82]。
+
+# 2.3气候变化对冷水湖泊富营养化的触发作用
+
+以往研究的富营养化水体多分布于温带地区,野外观测结果也发现“水华”多在夏季温度最高时发生。从生态位的角度看,不同的浮游藻类最适生长的温度范围不同,硅藻适应的温度较广,在15— $3 5 \mathrm { ^ { \circ } C }$ 之间均可生长良好,但以 $2 0 { \ - } 3 0 \%$ 时为最佳,绿藻为 20— $2 5 \mathrm { { ^ circ C } }$ ,蓝藻为20- $3 0 \%$ ,夏季蓝藻数量的增加可能是水温升高的直接结果[8]。一般认为水温在 $1 7 \%$ 以下时,不会大量发生水华,而当温度上升到 $2 8 ^ { \circ } \mathrm { C }$ 左右时,由于其它藻类的生长受到抑制,蓝藻很容易形成优势种群而大量暴发[83]。如典型平原淡水浅水湖泊——太湖 $\textcircled { 3 0 ^ { \circ } 5 5 ^ { \prime } - }$ $3 1 ^ { \circ } 3 3 ^ { \prime } \mathrm { N } , 1 1 9 ^ { \circ } 5 2 ^ { \prime } - 1 2 0 ^ { \circ } 3 6 ^ { \prime } \mathrm { E } )$ 微囊藻水华频繁发生,水华爆发时水温波动范围 25- $3 0 \mathrm { { ^ { \circ } C } }$ ,室内实验表明太湖微囊藻的最适生长温度为30— $3 5 \mathrm { { ^ \circ C } }$ [84]。对于冷水湖泊来说,在营养盐加富作用诱导下,也可能引起水体富营养化。冷水湖泊年均气温较低,夏季最高水温约 $1 5 { - } 2 0 ^ { \circ } \mathrm { C }$ ,但是由于上文所述的气候变暖在高海拔地区的放大效应,在过去 20 年间,冷水湖泊年均水温已经上升了 $2 ^ { \circ } \mathrm { C }$ ,预计至2100 年会上升 $7 \%$ 。而温度会直接影响植物的光合作用和呼吸作用,增温会提高光能自养的生产者的光饱和效率,从而增加植物生长速率和生物量的累积[86]。因此,全球气候变化,尤其是夏季水温的上升将大大促进藻类的生长,从而触发有害藻华和富营养化的发生发展进程。
+
+内蒙古呼伦湖 $\langle 4 8 ^ { \circ } 3 1 ^ { \prime } - 4 9 ^ { \circ } 2 0 ^ { \prime } \mathrm { N } , 1 1 6 ^ { \circ } 5 8 ^ { \prime } - 1 1 7 ^ { \circ } 4 8 ^ { \prime } \mathrm { E } \rangle$ 是我国地理位置最北的大湖,由于水体中营养盐浓度上升,自1980s以来呼伦湖开始出现富营养化的趋势,2009年起夏季有蓝藻水华爆发,水体中总氮TN 和总磷 TP 浓度达 $3 . 3 4 6 \mathrm { { m g / L } }$ 和 $0 . 4 3 5 \mathrm { m g / L ^ { [ 8 7 ] } }$ 。有研究认为呼伦湖位于呼伦贝尔草原,其营养物质主要来源于草场,近些年来气候的暖干使入湖流量大大减少[87-88],入湖河流中 TN 和 TP 浓度也比 1980s 大幅增加,而水量的减少又使水体中氮磷浓度因浓缩效应急剧上升,最终引起铜绿微囊藻的过度增殖。此外,冰盖效应、低出水量以及沉积物对营养盐的释放作用会进一步恶化水质状况[89]。将呼伦湖蓝藻爆发情况与太湖进行比较后发现,尽管呼伦湖营养盐浓度高于太湖，其蓝藻爆发强度和时长均低于太湖，可能与呼伦湖夏季气温较低有关。由于该流域人类活动的干扰较小,呼伦湖的富营养化状况更多的受自然的气候因素影响和控制[89-90]。新疆的博斯腾湖 $( 4 1 ^ { \circ } 4 6 ^ { \prime } - 4 2 ^ { \circ } 0 8 ^ { \prime } \mathrm { N } , 8 6 ^ { \circ } 1 9 ^ { \prime } - 8 7 ^ { \circ } 2 8 ^ { \prime } \mathrm { E } )$ 位于天山山脉中段南麓,是中国最大的内陆淡水湖泊,也是干旱地区代表性湖泊。李红等对博斯腾湖的浮游植物群落结构特征进行调查后发现,该湖泊全年浮游植物硅藻为主,在夏-秋季形成硅藻-绿藻型以富营养型的浮游藻类为优势类群,年平均水温 $1 6 . 1 4 ^ { \circ } \mathrm { C }$ ,最高水温不超过 $2 6 . 5 \mathrm { ^ { \circ } C }$ ,适合喜低温的硅藻生长繁殖,基于Canoco 的多变量分析也表明环境变量共解释了浮游植物群落总变异的 $5 4 . 5 \%$ ,水温是影响浮游植物分布最重要的环境因子[91]。乌伦古湖 $( 4 6 ^ { \circ } 5 2 ^ { \prime } - 4 7 ^ { \circ } 2 8 ^ { \prime } \mathrm { N } , 8 7 ^ { \circ } 0 0 ^ { \prime } - 8 7 ^ { \circ } 3 0 ^ { \prime }$ E)在新疆准格尔盆地北部,该湖区气候寒冷干燥,降水稀少。刘宇等于2006年11月—2008 年 $7$ 月按季度对乌伦古湖浮游植物的群落结构组成及时空分布规律进行为期两年的调查,得到的结果为湖泊种类组成以绿藻门和硅藻门为主,群落结构组成时空变化明显,水温、总磷、高锰酸盐指数、透明度是影响浮游植物现存量时空变化的主要环境因子。其中,水温对现存量的季节分布影响极为显著,总磷对现存量的水平分布和垂直分布有极为显著的影响,水质评价为中营养-富营养水平,处于轻度污染状态。该研究认为乌伦古湖是内陆封闭型湖泊,水体换水周期长,本地年蒸发量是降水量的近16倍,而全球气候变暖、降雨减少,乌伦古河及额尔齐斯河由于人为径流调节,致使入湖淡水补给减少,因此导致乌伦古湖水位下降,盐碱化进程加速。周围农业开发,面源污染加剧,则加速了该湖向富营养化发展[92]。
+
+在对气候和外界干扰的响应中,湖泊的区域性自然地理等特征会影响水体状况。Jeppesen 等人认为,在北欧的温带地区(如丹麦),流域内极端气候事件以及地表径流的增加使得更多的营养负荷进入湖泊,然而这并不意味着水体中更高的年均营养盐浓度,与此相反,进水中的营养盐浓度可能由于水量增加的稀释作用而降低。而在温暖的南欧地区,降水稀发蒸发强烈,在未来会更加明显,地中海地区的地表径流预估会减少高达$3 0 \% - 4 0 \%$ ,西班牙和土耳其可能是受害最深的地区。磷负荷会随着径流的减少而减少,但是浓度可能会由于水量的减少反而上升[29]。Sickman 等人以Emerald 湖 $( 3 6 ^ { \circ } 3 5 ^ { \prime } 4 9 ^ { \prime \prime } \mathrm { N } , 1 1 8 ^ { \circ } 4 0 ^ { \prime } 2 9 ^ { \prime \prime } \mathrm { W }$ ,海拔 $2 8 0 0 \mathrm { m }$ )作为美国加州内达华山脉地区高海拔小型湖泊的代表,对该区域的高山湖泊在1980—20 世纪末营养状态的变迁进行了评价。他们监测到整个区域湖泊水体中P 含量都有明显上升趋势,因而排除了地域性P污染源（如城市和农村的地表径流)的作用。Emerald 湖的总磷浓度在1983—1999 年中增长了1倍,有富营养化趋势出现。在分析 Emerald 湖的磷来源时,用一级近似法对流域的磷源和磷汇通量做了评估,结果表明湖泊沉积物( $3 0 0 0 ~ \mathrm { k g } )$ 和流域的土壤 $( 2 1 0 0 ~ \mathrm { k g } )$ 是Emerald 湖最大的磷储存库,大气沉降作用和气候变化作用引起的P在水体中的循环过程被认为是内达华山区高山湖泊磷负荷增加的主要来源[93]。Saros 等人对洛基山脉中段位于美国黄石国家公园东北部的熊牙山脉高山湖泊（大部分海拔超过 $2 5 0 0 \mathrm { m }$ )进行了调研，主要研究了Beartooth湖沉积物记录的硅藻群落结构,发现截至1995 年左右,该湖泊的硅藻群落表现出典型的高山湖泊特征—以小型脆杆藻属为主,此后巴豆叶脆杆藻和广源小环藻在总硅藻群落结构中的比例快速上升,对该区域其他3个湖泊进行对比研究后也有类似结果。在分析这种湖泊浮游植物群落结构变更的驱动力时,他们认为该区域在过去一个世纪中大型降水(主要以降雪的形式)发生率的增加,提高了该区域大气氮沉降的速率,抬升了湖泊水体营养水平并改变了水体中营养元素的动态变化,而气候变化导致的湖泊热力分层特性改变也对群落结构产生了影响[94-95]
+
+全球气候变化对冷水湖泊富营养化的驱动表现出区域性特征,在干旱半干旱地区,气候的暖干效应大大减少了冷水湖泊的径流补给,湖泊水量减少、水位卜降，营养盐富集和浓缩，在水温上升的协同作用下触发了富营养化的进程;而在相对湿润地区,气候条件的改变使降水频率和强度大大增加,大气沉降作用导致更多的氮磷营养盐进入湖泊,水体营养负荷显著增加,改变了湖泊的营养水平和浮游植物群落结构。
+
+# 3人类活动加速冷水湖泊的富营养化
+
+冷水湖泊由于地理位置偏僻、地形地貌复杂、气候寒冷等自身条件的特殊性,生物多样性小,流域生态系统偏于单一、脆弱,环境承载力低,对人类干扰的缓冲和自净能力较差,它们会更容易在流域人类活动的压力下产生富营养化,而目前对冷水湖泊富营养化进程的研究与关注相对较少。
+
+乌梁素海( $\langle 4 0 ^ { \circ } 3 6 ^ { \circ } - 4 1 ^ { \circ } 0 3 ^ { \prime } \mathrm { ~ N } , 1 0 8 ^ { \circ } 4 3 ^ { \prime } - 1 0 8 ^ { \circ } 5 7 ^ { \prime } \mathrm { ~ E } \rangle$ 是黄河改道形成的河迹浅水湖泊，它是全球范围内干旱草原及荒漠地区极为少见的大型多功能湖泊,也是地球同一纬度最大的湿地。由于接收了大量农业灌溉排水及生活和工业污水乌梁素海自1990s 起水体富营养化不断加重,成为芦苇和沉水植物大量生长的草型富营养化湖泊,水体流动性不断下降,水体处于严重缺氧状态。而植物腐败后又构成二次污染,湖泊水质进一步恶化[%]。Yang 等人分别运用水质参数法、修正卡森指数法和营养状态综合指数法对乌梁素海的富营养化状况进行评价,分别得到的结果为中度富营养化、富营养化和轻度富营养状态[97]。Bemd 等人在博斯腾湖入湖开都河三角洲边缘及湖体中分别采集了沉积物深钻和浅钻样品,并用放射性碳定年法进行年代鉴定。研究发现,在所有的浅钻短芯沉积物样品的表层,磷酸盐含量呈现急速增加的趋势,可能主要与富含营养盐的农业灌溉用水大量排入有关，而最顶层约 $1 3 \mathrm { { c m } }$ 的沉积物由营养丰富的淤泥以及大量的绿藻和硅藻的残骸。在过去的150 年里博斯腾湖水质不断趋于富营养化,这很可能是由化肥的大量使用引起[98]。Liu等人分别调查了新疆博斯腾湖和玛纳斯湖表层沉积物中8种甾醇类化合物含量与分布,研究表明,在所有的样品中,粪甾醇的含量都显著低于植物甾醇， $\beta$ -谷甾醇是最主要的植物甾醇。高浓度的植物甾醇表明这两个湖泊都有明显富营养化趋势。绝大部分人类排泄物的污染源来自邻近居民聚集地和进水口的样点，而只有少数沉积物没有受到污染,说明了流域内人口密度和人类活动压力的增加[99]。Liu等人运用沉积学、地球化学以及孢粉学数据,重建了乌伦古湖全新世以来的环境与气候变迁历程,以绿藻门盘星藻属的丰度为指标,指示由于水土流失以及施用牛粪肥料和化学肥料的人类干扰所引起水体的营养水平升高。重建的古湖沼学结果表明,距今约560年左右开始,盘星藻丰度急剧上升,体现了该流域人类活动的强度大大增加引起营养盐水平的增长[100]。
+
+位于北阿坎德邦的库蒙-喜马拉雅山脉湖泊群,由于其自身独特的自然条件,成为印度北部最主要的旅游胜地。近年来的水土流失、违章建筑施工、每年旅游旺季的汽车尾气排放以及游轮的大量使用等,使得湖区水体发生富营养化和水质恶化[10-102]。湖区中 Nainital 湖海拔最高( $1 9 3 8 \mathrm { m }$ ),并拥有较高人口密度,居民约50000 人[103-104],湖泊四周为地势不稳的陡坡所围绕,易于发生塌方和滑坡,湖体富营养化情况较为严重。Nainital 湖的富营养化问题自1980年开始就有研究报道,Pant等人于1977年9月—1978年8月对该湖进行野外调查,结果发现,该湖泊热力分层特性属于暖-单循环湖,表层水中可溶性磷酸盐浓度范围为0.0065—$0 . 0 7 \mathrm { m g / L }$ ,全年大部分时间都远高于富营养化阈值 $( 0 . 0 1 \mathrm { m g / L } )$ ,浮游植物群落中的优势种也出现了如微囊藻、鱼腥藻、衣藻等富营养化的指示种类。研究认为由于流域内旅游输入和定居人口的不断增加,生活污水大量排放使该湖富营养化进程大大加快[105]。Ali等人于1997 年对 Nainital 湖进行季度性采样后发现,湖水富含硝酸盐 $( 0 . 5 5 { \mathrm { - } } 1 . 5 9 { \mathrm { m g / L } } )$ 和氨氮 $( 0 . 0 2 5 { - } 0 . 3 2 9 \mathrm { { m g / L ) } }$ ,直接造成了浮游植物与大型水生植物的过度生长，水华的发生以铜绿微囊藻为主。相对自然输人,生活和市政污水的排放可能是该湖泊的主要污染源,附近森林枯枝落叶层以及沉积物的输入作用也不可忽视[103]。Gupta 等人于2006 年按月对 Nainital湖进行水样分层采集,得到水体月均水温为 $9 . 7 { - } 1 8 . 9 6 ^ { \circ } \mathrm { C }$ ,表层水温最高可达 $1 7 . 4 \mathrm { ^ { \circ } C }$ ;可溶性磷酸盐含量为0.094—0.193mg/L,全年整个湖泊平均值为 $( 0 . 1 3 0 { \pm } 0 . 0 5 5 7 ) \mathrm { m g / L }$ ;水体年均透明度仅 $1 . 2 3 \mathrm { m }$ ,显示水体已经处于超富营养状态,较低的透明度会阻碍水体对太阳光照的吸收,从而对区域小气候产生负面影响。同时该研究认为Nainital 湖水体的高 $\mathrm { \ p H }$ 、低 N/P 值会对蓝藻水华的发生起到促进作用[106]。Choudhary 等人于2004 年12月在湖水最深处采集了两个 $4 0 { - } 4 5 \mathrm { c m }$ 长度的沉积柱,以沉积物中色素含量作为生物标志物分析,结果表明近年来浮游植物群落结构逐渐转为以蓝藻为优势种类,而沉积物C/N为10—15,认为沉积物有机质主要来源为藻源性，流域的地表径流并没有增加水体的陆源性有机质[107]。然而,Purushothaman 等人认为湖泊沉积物中 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { K } _ { 2 } \mathrm { O }$ 的高值水平表明流域有较为严重的水土流失发生,部分磷的来源是以地表径流的方式从流域的磷灰石矿物进入了湖体中,最终使得湖水中总磷含量达到了中等-重度富营养化水平[101]。
+
+温尼伯湖 $( 5 2 ^ { \circ } 7 ^ { \prime } \mathrm { N } , 9 7 ^ { \circ } 1 5 ^ { \prime } \mathrm { W } )$ ,是加拿大重要冰川淡水湖泊。自20 世纪90 年代中期以来,异形蓝藻水华爆发的规模增长了近一倍,研究认为蓝藻水华是磷负荷和浓度增长的结果。影响P增加的因素主要包括两方面;牧业生产和化肥的使用,以及温尼伯市及附近流域人类活动的作用;另一方面为气候变化的影响,近年来流域内春季洪水频率和强度的增加,大大加强了磷从地表进入水体的迁移过程。从营养盐来源看,流域畜牧业不断发展,为了满足作物生长对N的需求,大量动物粪肥被施用于作物,使得P过量,湖水P负荷大大增加,湖水 N/P比低,浮游植物群落结构以固氮类的蓝藻细菌为主。从气候变化看,1995 年以来流域降水增加，春季融雪降水季径流大大增加,使水文学的负荷增加,从而导致营养盐可获得性增加的放大效应,成为温尼伯湖的“双重灾难”[108]。Zhang 等人于 2002—2007 年运用WASP 模型对温尼伯湖水质富营养化状况进行评估，该模型包括氮磷的营养盐循环过程和3个浮游植物功能组(非蓝藻细菌,固氮类蓝藻,非固氮类蓝藻）,模型对浮游植物群落结构的时空特征有很好的重现性。蓝藻主要在夏季季末出现于北部流域,其中非固氮类蓝藻比例有增加趋势,而非蓝藻细菌会在春季出现在南部流域。通过对多种营养盐削减的情景分析,研究认为增加氮磷的负荷比(P 削减 $> 1 2 \%$ ,N削减 $< 7 \%$ )对提高温尼伯湖水质较为有效[109]。
+
+贝加尔湖 $\left( 5 2 ^ { \circ } \mathrm { N } , 1 0 6 ^ { \circ } \mathrm { E } \right)$ )位于东欧俄罗斯西伯利亚地区,是全球气候和环境变化的敏感区域,被联合国教科文组织(UNESCO)列为世界物质文化遗产地。近年来人类干扰的压力,加剧了对贝加尔湖生态系统功能的影响。贝加尔湖的一些浅水湾、色楞格河三角洲流域以及南部流域的沿岸区域,浮游植物生物量近年来大大上升,这些趋势被认为是近岸出现富营养化趋势的证据[49,110]。2011年夏季在贝加尔湖近岸 Listvyanka 村庄附近的水域中,出现了底栖丝状绿藻水华,该村庄最近每年吸引了超过35000人次游客前来观光,而当地和游船码头均没有污水处理厂。7—8月,Kravtsova等人对该区域进行了底栖植物群落和水样进行了野外采样和勘测,结果发现,近底层水中 $\mathrm { P O } _ { 4 } ^ { 3 - }$ -P和 $\mathrm { N H } _ { 4 } ^ { + }$ -N分别高达 $4 2 3 ~ \mu \mathrm { g / L }$ 和 $1 8 9 8 ~ \mu \mathrm { g / L }$ ,微生物学参数在村庄附近沿岸湖水断面中均有超标现象;贝加尔湖的开阔水域中也出现了以往历史记录的水生植物群落中非典型种类—水绵。这种底栖植物群落结构的改变表明当地近岸水域已经处于富营养化初级阶段,政府和相关管理部门应建设集中式污水处理设施来处理村庄居民和大量游客产生的生活污水,减少对湖岸营养盐和大肠菌群的输人[]
+
+Bennion等人运用古湖沼学技术，对英国的106个湖泊 $( 5 0 ^ { \circ } - 5 8 ^ { \circ } \mathrm { N } )$ )沉积物记录进行分析后发现，富营养化已经影响了区域内所有不同类型湖泊， $> 5 0 \%$ 的湖泊的群落结构发生了明显改变[12]。外来物种的入侵会改变湖泊生态系统结构,可能会引起有害藻类的过度增殖,而Winfield 对英国主要的4大淡水湖泊（罗蒙湖$5 6 ^ { \circ } 7 ^ { \prime } \mathrm { ~ N ~ }$ ;内伊湖 $5 4 ^ { \circ } 3 7 ^ { \prime } \mathrm { N }$ ;巴拉湖 $5 2 ^ { \circ } 5 3 ^ { \prime } \mathrm { N }$ ;温德米尔湖 $5 4 ^ { \circ } 2 1 ^ { \prime } \mathrm { N }$ )外来鱼种生物入侵情况进行了研究,认为入侵的鲤鱼科适于更富营养化、更温暖的环境生活,而研究流域内营养盐的不断加富以及气候变暖使得水温上升,反过来又大大加速了入侵种不断增殖,最终成为优势种群的进程[113]。
+
+综上所述,人类活动的驱动作用主要包括：（1）冷水湖泊流域人口压力增大带来了大量生活和市政污水的排放;(2）在人口日趋密集的背景下,流域农业和畜牧业活动强度大大增加,肥料的使用和水土流失成为冷水湖泊营养盐负荷的主要外源;（3）社会经济效益驱动下的水利工程建设、旅游开发、经济鱼类的引入等使流域水生态环境不断恶化,加速了湖泊富营养化。
+
+# 4结论和展望
+
+湖泊是淡水生态系统的重要单元,作为饮用水源地的载体,湖泊富营养化在全球范围内的发生发展，正深刻影响流域的人口资源配置、生态安全格局与社会经济发展。冷水湖泊有其自身独特的自然条件和营养发育特征,在气候变化和人类干扰不断加剧的大背景下,目前世界各地已有许多冷水湖泊相继表现出富营养化症状和趋势。由于冷水湖泊生态系统的敏感性和脆弱性,在气候变化和人类活动的双重驱动下,其富营养化进程正不断加速。温度上升促进了有害藻类的过度增殖,降水模式的改变影响了营养盐的外源性负荷,与此同时,人口压力增加、人类活动干扰强度触发了冷水湖泊富营养化发生发展的级联效应,冷水湖泊流域也因此进入水质恶化的恶性循环。
+
+气候变化因素和外源性营养负荷的增加,对湖泊水动力学、热力学分层、生态系统结构等影响深远。未来的研究方向应加强对在气候变化和人类活动双重驱动力作用下冷水湖泊富营养化机制的研究;关注冷水湖泊富营养化的演化规律及浮游植物的生态响应,预测和调控冷水湖泊营养状态的变迁过程,控制冷水湖泊富营养化恶化的态势,保护高山和寒冷地区生态系统的完整性和栖息地的生物多样性;研究富营养化湖泊的生态修复对策与措施,为冷水湖泊流域管理政策的制定实施提供科学支持。
+
+# 参考文献（References）：
+
+[1]Ansari AA,GillS S.Eutrophication：Causes，Consequences and Control. Vol.2.Netherlands: Springer,2014.  
+[2]LuYL，WangRS,ZhangYQ,SuHQ，WangP,JenkinsA,FerierRC，BaileyM,SquireG.EcosystemhealthtowardssustainabiltyEcosystem Health and Sustainability,2015,.1(1)：1-15.  
+[3]Bennett E M,Carpenter SR,Caraco NF.Human impact on erodable phosphorus and eutrophication;a global pective：increasing accumulationof phosphorus insoil threatens rivers,lakes，and coastal oceans with eutrophication.BioScience,20l,51(3):227-234.  
+[4]Paerl H W.Assessing and managing nutrient-enhanced eutrophication in estuarine and coastal waters effects of human and climaticperturbations.Ecological Engineering，2006,26(1）：40-54.  
+[5]MossB,KtenS,Meroff,aarbeeRWeppesenE,aeN,HvesK，cerotG,LZW,DeMstrL,erlH,er.Allied attack：climate change and eutrophication. Inland Waters，2011,1(2）：101-105.  
+[6]Mooij WM,HulsmanS,DeSenerpontDomisLN,NoletBA,BodelierPLE,BoersC,PiresLMD,GonsHJ,elingsBW,oosR,PortieljeR,WolfsteinK,mesEHR.epctfatehngeolksineNlands：vieqaticEcolo0,9(4)：381-400.  
+[7]JonesJrekeutrts，troatidlaeg/nB,dobalEtagdsg，2014:273-279.  
+[8]PerlHW,PaulVJ.Climatechange:linkstogobalexpansionofharmfulcyanobacteria.WaterResearch,2O12，46(5）：1349-136.  
+[9]SwansonED，BergersenEP.Grasscapstockingodelforcoldwaterlakes.NorthAmericanJoualofFsheriesanagement，988，8（):284-291.  
+[10]RoseKC，WiliasoCE，SarosJE,SomagaR,FischerJ.DiferencesinUVrasparencndthaltructurebetweelpinedsubalpine lakes:implications for organisms.Photochemical & Photobiological Sciences，2009,8（9）：1244-1256.  
+[11]CatalanJ,Vearaelj,doesHcusU,Kra,erFrberi,tuckE,enu,caT,CamareroL,GousmitGH,KpekJ,emckeG,ivingstoeD,MlerB,autio,isko,orariS,okaF,trueck,M.Seasonalecosystemvariabilityinremotemountainlakes；implicationsfordetectingcimaticsignalsinsedimentrecords.JoualofPaleolimnology，2002，28(1） :25-46.  
+[12]WiliasoCE，ddsW，ratTK，alrAakedrestielsofviotalaeieeialdoscprocesses.Frontiers in Ecology and the Environment，2008,6(5）: 247-254.  
+[13] 李均力，方晖，包安明，杨辽.近期亚洲中部高山地区湖泊变化的时空分析.资源科学，2011，33（10)：1839-1846.  
+[14] 张渊萌，程志刚.青藏高原增暖海拔依赖性研究进展.高原山地气象研究，2014，34（2）：91-96.  
+[15] RangwalaI,SinskyE,MilerJR.Amplifedwamingprojectiosforiglitudeegionsoftortmsphereid-latitudesfroCmodels.Environmental Research Letters，2013，8（2）:024040.  
+[16] MountainResearchIitiativeEDWWorkingGoup.Elevatio-dependentwaingoutainregiosoftheorldNatureCliateChang，0l,5(5): 424-430.  
+[17]SngCuagB,KeLHadsKetesgofllkeatereioetchagsetanPatedreview.ISPRS Journal of Photogrammetry and Remote Sensing，2014,92：26-37.  
+18]SmaRfarUdatiooflilkJoualoftostdtoboBol/2) : 35-42.  
+[19SarosJEedooeldislakes：mplicationsforrecentphytoplanktoncommunityreorganzationsCanadianJoualofFisheriesndAquaticciences，Oo，6（7）：phytoplankton dynamics in three peri-alpine lakes overa periodof 28 years.Freshwater Biology，2004,49(1）：98-115.  
+[21]KssmanCEH,WillaoCE,oseKC,arosJEesposeofplaoiaelketiputsofisoledogancaonutrient enrichment and trophic forcing.Limnology and Oceanography,2013,58（3）: 867-880.  
+[22]AnevillOameter，trailospouscreaendliateabilitediatosofschoinpoplaktohagoEuropean peri-alpine lakes.Freshwater Biology，2005,50(10）：1731-1746.  
+[23]Braeltkngtuolustdaesefpspstieof the Wind River Range，Wyoming，USA.Biogeochemistry，2014，120(1/3）：259-278.  
+[24]BrahneyJ，aowld，Ward，alantA,NeffJCIospericospousploaleingglobalalineLakestGlobal Biogeochemical Cycles，2015,29（9）：1369-1383.  
+25]KnapelOisiso）401-421.  
+[26]LiuJB,Ruhland KM,ChenJH,XuYY,ChenSQ，Chen QM,HuangW,Xu QH,ChenFH,SmolJP.Aerosol-weakened summermonsoons decrease lake fertilization on the Chinese Loess Plateau.Nature Climate Change,2O17,7（3）：190-194.  
+[27]Hegh-GuldergO，BrunoJF.Theimpactofcliatechangeontheworldsmarineecosystems.Science,0128（5985）：2-1528.  
+[28]HanseJatoedyR,K,LeaWeia-Eade.obleperaturehangoedigoftioalcaefthe United States of America，2006,103（39）：14288-14293.  
+[29]JeppesenE,KrovangB,Meroff,SondergardM，HansenK,AndersenHE,LuridsenTL,LiboriusenL，BekligluM,OenA,OlesenJE.Climatechangeefectsonrunoff，catchmentphosphorusloadingandlakeeologicalstate，andpotentialadaptationsJoualofEnvironmental Quality，2009,38（5）：1930-1941.  
+[30]SolomonS.CliateChange2hehysicalScienceBsis：WorkingGroupICoributiontoeFourthAessmentReprtoftheCC.Cambridge：Cambridge University Press，2007.  
+[31]Arctic Climate Impact Assessment.Impacts of A Warming Arctic-Arcti Climate Impact Assessment. Cambridge， UK: Cambridge University Press,2004:1-1.  
+[32]RosenzeigC,CasassG,KarolyDJ,ImesonA,LiuC,MenzelA，RawlinsS，RotTL,SeguinB,TryjanowskiP.Assesmentofervedchangesandresponsesinnaturalandmanagedsystems//ParyML,CanzianiOFPalutikofJPvanderLindenPJ,HansonCE,ds.CateChange,2O7：pacts，daptatodVueailtttiofWokinoturthsesnteportftIteotalPanel on Climate Change. Cambridge，UK:Cambridge University Press，2007:79-131.  
+[33]AdrianR，O'ReillyCM,ZagareseH，Baines SB，Hessen DO,KellerW,Livingstone DM，Sommaruga R，StraileD,Van Donk E,Weyhenmeyer GA，Winder M.Lakes assentinelsofclimate change.Limnology andOceanography,2O09,54（6):2283-2297.  
+[34]SchindeDW,BaleySE,ParkerBR,BeatyKG,CruikshankDR,eEJ,SchderEU,StaintonP.TheefetslimatiaingothepropertiesfeallakesndstreasatteExperintalLakesreaorthwesteOtarioiologndOceangapy96,4（）：1004-1017.  
+[35]MagusonJJ,RobertsonDM,BensonBJ，WyeRH,LivingstoneDM,Arai T,AsselRA,BaryRG,CardV,KustE,GranNG,ProwseTD,StewartKVuliskiV.stocaltredsinlakendrivericecoverinthrtHemispere.Sie,o,（4）：1743-1746.  
+[36] VerburgP，HeckyRE,KlingHEcologicalcosequencesofacenturyofwaringinLakeTanganyika.Sience,,30（63）：50507.  
+[37]] O'ReillyCM，AlinSR，PlisnerPD,CohenAS,MKeeB.CimatechangedereasesaquaticcosystemproductityofLakeTanganika,Africa. Nature，2003,424(6950): 766-768.38] WiliamsnCE,arosJEcetWFlJkesadesessntiels,ntegandreglatosfiateangLdOceanography，2009，54(6part2）：2273-2282.  
+[39] ArhondisisGB,retM,DeGaspriC,SinderDE.EfectsfiaticvarabitothethalproerisofLakeWasngtoLiolgyand Oceanography，2004，49（1）：256-270.  
+4]GietC，QueTEfetoftperaturehangsoeeproductiveccefrachinakeGeaf83t.JoualofFishiolog，2006,69(2): 518-534.  
+[41]HaptonSE,esteL,ooe,KatS,DsB,oEStyyearsfviotalagiheodsrgestaterlake-Lake Baikal，Siberia.Global Change Biology，2008，14（8）：1947-1958.  
+[42]AustiJSkeupetepeurereesigoidlyalpeaues  
+[43]LivingtoDpctofulaateaeealtrucurefargetepatetluropealaetia(1/2):205-225.  
+[44]WinderM,ShindlerDE.Climatechangeucouplesrohicinteractiosinaaquaticcosstem.Eology，O04,85（8）：106.  
+[45]ToddMC,MackayAW.Large-scaleclimaticcontrolsonLakeBaikalicecover.JournalofClimate,2Oo3,16(19)：3186-3199.  
+[46]AsselRA.Classficationofanal GeatLakesicecycles:wintersof197-2002JoualofClimate，2,18(22):4895-4905.  
+[47]ShimodaY,AzimME，PerharG,Ramin M,KeneyMA，Sadraddini S，GudimovA，ArhonditsisGB.Ourcurentunderstandingoflakeecosystemespose toimatechange:hathavewealllaedfroeorthtmperatedeeplakesJalofGreatLakesResearch,37(1):173-193.  
+[48]CoatsR,Perez-LosadaJ,SchladowG,RichardsR,GoldmanC.ThewarmingoflakeTahoe.ClimaticChange,2006,76(1/2）：121-148.  
+[49]Moore MV,HamptonSE,Izmest'evaLR,SilowEA,PeshkovaEV,PavlovBK.Climatechange and the world's“sacredsea" -Lake Baikal,Siberia.BioScience，2009,59(5）：405-417.  
+[50]vanderKamG，KeirD，Evans MS.Long-te waterlevelchangesinlosed-basinlakesoftheCaadianraries.CadianWaterRsoucJournal，2008,33（1）： 23-38.  
+[51]Rodionov SN.Global and Regional Climate Interaction: The Caspian Sea Experience.Netherlands:Springer 194.  
+[52]GhanbariRravoereceetosphericelecotisGratLakesatervelsndegioaliatedvasaterResources，2008，31（10）：1284-1298.  
+[53]SporkaF,iigstouchlikE，urekJalasJtertepeauresdeikesofTtratasi,6(S18) : S77-S90.  
+[54]LivingstoeDMAdranR.ModelinghratioofinteiteticeoverolakeforliatehangestudiesLiologndOcap，2009,54(5):1709-1722.  
+[55]O'ReilyCM,SharmaS，GrayDK,Hampton SE,ReadJS,RowleyRJ,SchneiderP,LentersJD,McIntyrePB，Kraemer BM,WeyhenmeyerGA,StraleD,DongB,AdrianR,Alan MG,AnnevieO,ArvolaL,AustinJ,BaileyJL,BaronJS,BrookesJD,de EytE,DokulilMT,HmilonDasK,HetheringonALigisSHoo,stevaLR,JokKD,KagurK,KsprakM,KuusistoE,LeshkevichG,LivingstoneD,MacntyreS,MayL,MelackJM,Muelr-NavarrDC,NaumenkoM,NgesP,Nges,ortR P,PlisnierPD,RigosiA,RimmerA,Rogora M,RudstamLG,RusakJA,SalmasoN,SamalNR,SchindlerDE,SchladowSG,SchidM,SchmidtSR,SilowE,Soylu ME,TeubnerK,VerburgP，VoutilainenA，WatkinsonA，WiliamsonCE,ZhangGQ.Rapidandhighlyvariable warming of lake surface waters around the globe. Geophysical Research Leters，2015,42(24):10773-10781.  
+[56]GerteDdisirsisftrhtOlkd(2): 448-455.  
+[57] StraileD，JohnkK，HennoR.omplexefectsofwinterwarmingonhephysicochemicalcharacteristicsofadeeplake.LimnologyandOceanography，2003，48（4）：1432-1438.  
+58]LivingefinfitallReview of Hydrobiology，2008,93(4/5）: 404-414.  
+[59]TranviL,ong』A,otB,isellS,rigRG,BatoreJ,ill,inyK,FortiK,KnollLB,Kre,KutserT,LarsenS,LaurionI,LeechDM,McCaliterSL,McKnightDM,MelackJM,OveroltE,PorterJA,PrairieY,RenwickWH,RolandF，ShermanBS,chinderDW,obekS,emblayA,VMJ,VerschorAvonWachenfeldtE，WeyeneyerG.asdervoirsas regulatorsofcarboncyclingand climate.Limnologyand Oceanography，2009,54（6part2）:2298-2314.  
+[60] ParkerBR，VinebokeRD，SchindlerDW.Recentlateereesalteralinelakecosystms.ProcedingsoftheNatioalAcadeyofSciences of the United States of America,2008,105(35）:12927-12931.  
+[61] JankowskiT,tosteecoferonefoeeels,thermalstabilityndholimeticoyendepletioimplicatiosforaaerld.LiologandOceanogaph，O6,1（2）：-819.  
+[62] Keer WPateosKedelatsderatstandacidification insmallBoreal Shieldlakes.Canadian JournalofFisheriesand Aquatic Sciences,2008,65(5)：786-795.  
+63]BergtosepofisGlobal Change Biology，2006，12（4）: 635-643.  
+[64]KellyEN，SchindlerDW,LouisVLS，DonaldDB，VladickaKE.ForestfreincreasesmercuryaccmulationbyfishesviafodwebrestructuringandcreasedeuyiputsrocesofeioalAdeyofiencofeUitedStatesofmeica（1）：19380-19385.
+
+Biology，2006，12（5）:862-882.[66]Westerling AL,Hidalgo HG,Cayan DR,Swetnam TW.Warming and earlier spring incre tern U.S.forest wildfire activity. Science,2006,313(5789) : 940-943.[67]EvansCDakJeieetiasioceposoils.Global Change Biology，2006，12（11）：2044-2053.[68]BenoyG，CashK,uleyE，WoaF.CarbodaicsilakesofeoralforestunderaangingcliatenviroentalRevies,,15(NA): 175-189.[69]HansoC,CarpeterSR,ArstrongDEtaleyEratTK.Lakedioleoanccarboanddisovedygenaingdriefrom days to decades.Ecological Monographs，2006,76(3）：343-363.[70]WinderHunterDTempalaatioofoplaktoncomuitsedtoialfingOeolgia08，6(）：79192.[71]BlencknerT,AdrianR,Livingstone DM,JenningsE，WeyhenmeyerGA，George DG,Jankowski T,Jarvinen M,Aongh C N, Noges T,StraileD,TubrK.gealelaticigauesscrossEuropmeaanalsisobalCngBgo（）14.[72]WinderetrJE,dSGkeangfousaldpaoatoofeclSciences，2009，276(1656):427-435.[73]Seebens H,Straile D,Hoegg R,Stich HB,Einsle U.Population dynamics of a freshwater calanoid cope sto changesintrophic status and climate variability.Limnology and Oceanography，2007,52(6)：2364-2372.[74]RahelFJ，Olden JD.Assessing the efetsofclimatechange oaquatic invasive s vation Biology，2008，22(3）:521-533.[75]WinderderEsigo,itAisuptedasoaloorkineouatdaofresateropdyitewarming.Limnology and Oceanography，2009,54（6part2）：2493-2505.[76]AdrianR，WilhelmS，Gerten D.Life-historytraitsof lake planktonspecies I maygovert their phenological response to climate warming. GlobalChange Biology，2006，12(4）：652-661.[77]Blenckner T.Aconceptual modelof climate-related efectson lakeecosystems.Hydrobiologia，2005，533（1）:1-14.[78]Wagner C，Adrian R. Cyanobacteria dominance：quantifying the effects f climate change.Limnology and Oceanography，2009，54（6part2）:2460-2468.[79]JeppesenE,ssBeoHCaraoLeMesterL,FeuchtmayrH,ergener,Hetig,urdsenL,,MalmquistHJ,MayL,MeeroffM,OsonJS,SonsMBVeroeveJT.Interactionofclimatechangeandeutropicatio//Kean,Battarbee R W，Moss B,eds. Climate Change Impacts on Freshwater Ecosystems. Oxford: Blackwell，2010:19-151.[80]JeppesenE,KrovangB,lesenJE,AudetJ，SndergaardM,HofmanCC,AndersenHE,LauridsenTL,LiboriusenL,LarsenSE,Beklioglu M,MeroffOzenA，OzkanK.CliatechangeefetsontrogenloadingfroultivatedcatchmentsinErope：impiatiofornitrogenretention，ecological stateof lakesand adaptation.Hydrobiologia,2011,663(1）：1-21.81]SolJoofesinitstackesfutilreoskeosFsate5():43-59.[82］苏洁琼，王烜，杨志峰.考虑气候因子变化的湖泊富营养化模型研究进展.应用生态学报，2012,23(11)：3197-3206.[83]O'NeilJDvisWufordA，oblerCJeisefafulcyobacterabos：eotetialoftrocatoditechange.Harmful Algae，2012，14：313-334.[84] Ke Z X,Xie P,Guo L G. Controlling factors of spring summer phytoplankton succession in Lake Taihu（Meiliang Bay，China).Hydrobiologia,2008, 607(1) : 41-49.[85]HolzapelAVbokeREvtalwangieassiasiootetialofliekeuitiyporedslobalChange Biology，2005，11（11）：2009-2015.[86] Winder M,Sommer U.Phytoplankton response to a changing climate.Hydrobiologia,2012,698(1）：5-16.[87] Li Z,Zhang ZB,JiangFY,WangSW,WangFJ.LakeHulun Chi（continuousChitwo).Nimenggu:Nimenggu Culture Press,2008.[88] XueB,Qu WC,WangSM,MaY,DickmanMD.LakelevechangesdocumentedbysedimentproperiesanddiatomofHulunLake,Chinasincethe late Glacial. Hydrobiologia,2003,498（1/3）：133-141.[89]ChuaiX，enX,ngLZengiA,ZoHfsofaticgdthoocctiisokeutropatiecoregions.International Journal of Environmental Science and Technology，2012,9(3）：503-514.[90]ChenXF,uaiXYangYZaoHYliaticaingdvegangucedheigcoentratooforganicateinaku,large shallow eutrophic steppe lake in northern China.Science of the Total Environment,2O12,431:332-338.[91］李红，马燕武，祁峰，谢春刚，陈朋.博斯腾湖浮游植物群落结构特征及其影响因子分析.水生生物学报，2014，38（5）：921-928.
+
+[92］刘宇.新疆乌伦古湖浮游植物群落结构的时空变化规律[D].武汉：华中农业大学，2009.  
+[93]SickanJOelackJloEvidecefutritctfelevatolsineedaalfidOceanography，2003，48(5）：1885-1892.  
+[94]SarosE,teradiSJWolfengtDRecetchgsinatcoityrucureofsiearoiag,U.S.A.Arctic，Antarctic，and Alpine Research,2003,35(1)：18-23.  
+[95]SarosJE，AdersoJTolofhaocatoCoteldisplaisfolbalviroentalaestlclReviews,2015,90(2): 522-541.  
+[96］郭嘉，韦玮，于一雷，宋香静，张曼胤，李胜男.乌梁素海湿地富营养化研究进展.生态学杂志，2015,34(11)：3244-3252.  
+[97]YangH,YuH,GuRH,HaoY,ZangYJessmentofEutropatioinliagsuhaiLake.AdvancedMateralsResearch4,9-959：1098-1102.  
+[98]Wunnemann B，Mischke S，ChenFH.Aholocene sedimentaryrecord from Bosten Lake，China.Palaeogeography Palaeoclimatology ,Palaeoecology，2006，234(2/4）：223-238.  
+[99]LiuJ，,JiZstrcoofscetsaand Manas Lake,Xinjiang.Environmental Science and Polution Research,2016,23(6）：5892-5901.  
+[100]LiuXQ，HerzscuU,henJ，angQF,XioXY.HoloceneevontalandcliaticchangesiferedfroWunguLakeiXinjiang，China.Quaternary Research,2008，70(3）：412-425.  
+[101]PurushothamanP，MishraS，DasA，ChakrapaniGJ.SedimentandhydrobiogeochemistryofLakeNainital，Kumaun Himalaya，India.Environmental Earth Sciences，2012,65(3）：775-788.  
+[102]PurshoanP,aaniGJrusgestryentslieaaaasdiaAalGeosciences，2015 8（2）:701-709.  
+[103]liM,aaiUl,iSaaceristdeeeal（U.Plemacrophytesandphytoplankton inbiomonitoringandphytoremediationoftoxic metalions.Chemosphere，99,39（12）：2171-2182.  
+[104]Dash,otraTakrataldtealiHrgal(6)：1089-1099.  
+[105]PantMAEcforeroatifeiulfatefeelPollution Series B, Chemical and Physical,1980,1(2)：149-161.  
+[106]Gupta,gdaliSewarP,ingh,uptaRWtehmistyftoallakeofIdlakeiniauarand//rfTaal2007：The 12th World Lake Conference.India：International Lake Environment Committee，2007.  
+[107]CoaryouthiGBgclofetalsiakea，India. Journal of Paleolimnology，2009,42(4)：571-586.  
+[108]SchinderDWHeckyRE,MCullughGK.TeapideutropcatioofLakeWiipeg：grenngudergbalchange.JoualofGreatLakesResearch，2012, 38 Suppl3:6-13.  
+[109]ZagYpaoeikeJofLh,38 Suppl 3: 158-173  
+[0]PopovsayaGolgicalotigofplaktoinakeBikal.qaticosteHealhandagentoo）.  
+[111]KravtsovaLS,zboldinaLA,anevIV,omkinaGV,RodioovaEV,DoyshevaV,SakirkoMV,TmbergIV,Kto,KravchenkoOS,KupchinskyAB.NearshorebenthicbloomsofilamentousgrenalgaeinakeBaikal.JoualofGreatLakesResearh2014,40(2) : 441-448.  
+[112] BennionH，SimpsonGL.TheuseofdiatomrecordstoestablishreferenceconditionsforUKlakessubjecttoeutrophication.JoualofPaleolimnology，2011,45(4）:469-488.113] WinfieldIJerJsiigslefdteadlesdgadiUK experience.Hydrobiologia，2011,660(1）：93-103.

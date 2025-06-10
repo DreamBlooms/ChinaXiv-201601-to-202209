@@ -1,0 +1,733 @@
+[
+    {
+        "type": "text",
+        "text": "基于切换拓扑的多智能体协作控制研究综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢光强，阳 开，李杨，徐峰(广东工业大学 计算机学院，广州 510000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：多智能体系统一直是众多学科领域研究的主要研究对象，基于切换拓扑的多智能体协作控制理论研究作为多智能体系统研究的重要部分，一直是近年来的热点。为了推进基于切换拓扑的多智能体协作控制理论研究，在广泛调研现有文献和最新成果的基础上，从一致性问题、分布式优化问题和分布式估计问题三个方面对该领域的发展现状进行了总结；探讨了诸如一致性协议的设计、一致性协议的性能分析方法及其优缺点、分布式优化的实现方式和分布式估计的实际应用。最后指出当前该领域尚未解决的问题和未来的研究方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多智能体；切换拓扑；协作控制 中图分类号：TP18 doi:10.3969/j.issn.1001-3695.2018.01.0124 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Review of research on multi-agent cooperative control based on switching topology ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xie Guangqiang, Yang Kai, Li Yang†, Xu Feng (School of Computers Guangdong University of Technology,Guangzhou 51oooo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Multi-agent system has always ben the main research subjectin many disciplines.The multi-agentcollaborative control theorybasedonswitchtopologyis animportant part of multi-agentsystem researchand has beenahot spotinrecent years.Inorderto promotecooperativecontrol theoryof multi-agent basedonswitched topology,based on theextensive investigationoftheexistingliteratureandthelatestachievements,this paperdiscussesthedevelopmentofthisfieldfromthree aspects: theconsistency problem,the distributedoptimization problemandthe distributed estimation problem Thestatus quo is summarized;such as the designof the agreement，the performance analysis of theagreement and its advantagesand disadvantages,tealzationofdistrbutedoptimzationandthepracticalaplcationofdstrbutedetimation.Fialyitpots out the outstanding issues in the field and the future research directions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:multi agents; switching topology; cooperative control ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多智能体系统是由多个具有独立自主能力的智能体为了完成某个复杂任务通过局部协作和相互作用而形成的系统。多智能体系统由于其健壮、可靠、高效等特性，在控制领域和人工智能领域获得广泛的关注。研究人员[1,2]开创性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地将多智能体系统一致性协议性能与网络的代数连通性联系起来，依靠控制理论工具建立起多智能体系统稳定性[3]分析方法，采用“分治”[4的策略优化多智能体系统的整体运作性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究多智能体系统，主要是通过分布式控制多个简单智能体进行协同合作来完成复杂的任务。在实际应用中，多个智能体之间协同合作[5的复杂性与多智能体系统的网络拓扑结构有着密切联系。而多智能体系统的网络拓扑结构时常发生变化，一般称这种时变的拓扑结构为切换拓扑结构[。形成切换拓扑的原因多是由于智能体的位置变化和智能体之间的通信连接与断开。切换拓扑结构可以用动态图 $G { \\big ( } s { \\big ( } t { \\big ) } { \\big ) }$ 表示，其中 $s ( t )$ 是切换信号。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由现实环境的复杂多变，基于切换拓扑的多智能体协同控制的应用十分广泛，在工业制造中，例如用多智能体系统进行大型物体或危险品的搬运。在航天领域，将卫星、探测器等航天器编队进行宇宙探测，不仅能提高系统的可靠性，还可以完成单个航天器无法完成的任务。在恶劣环境下，用智能体代替人类进行探索未知环境的任务。在军事领域中，将装甲兵视为智能体，构建起层次化的兵力智能体组织结构，完成协同作战。所以基于切换拓扑的多智能体系统协调控制的研究一直是热点研究领域，主要问题包括一致性问题[7-21]、分布式优化问题[37-48]和估计问题[49-60]等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1多智能体系统一致性问题 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多智能体系统一致性问题是多智能体协调控制研究中重要的研究方面。一致性是指在有限时间内，多智能体系统里的所有智能体的某一状态量根据分布式控制协议进行变化，最终能趋于相等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一致性问题主要包括聚集[7]、一致性追踪[8]、双向一致性[9,10]等问题。然而在实际场景中扰动或通信范围的的限制等情况都会导致智能体间的通信连接中断，意味着系统的拓扑结构随着时间变化，所以基于切换拓扑的一致性问题更贴近实际，成为当前的一致性问题研究热点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1一致性协议",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于切换拓扑结构的连续时间一致性协议[1]如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { i } \\left( t \\right) = \\sum _ { j \\in N _ { i } ( t ) } a _ { i j } ( t ) ( z _ { j } \\left( t \\right) - z _ { i } \\left( t \\right) )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $N _ { i } \\left( t \\right)$ 表示变化的邻域， $a _ { i j } \\left( t \\right)$ 是变化的拓扑图 $\\boldsymbol { G }$ 在时刻$t$ 的邻接矩阵中的相应元素。该协议用方阵表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { Z } = - L Z\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $L$ 表示多智能体系统网络图的拉普拉斯矩阵。多智能体系统通过处理邻域信息使得整个系统最终趋于一致的充分必要条件为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { t  \\infty } ( z _ { j } ( t ) - z _ { i } ( t ) ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jadbabaie等人[1]研究了基于无向拓扑图的一阶线性多智能体系统，并证明只要多智能体系统的切换拓扑是连通的，那么智能体状态值最终会趋于一致。同时提出了一种分布式一致性控制协议：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { u } _ { i } } ( t ) = \\displaystyle \\frac { 1 } { 1 + { { n } _ { i } } ( { { t } _ { i k } } + { { b } _ { i } } ( { { t } _ { i k } } ) ) } \\Big ( \\Big ( { { n } _ { i } } ( { { t } _ { i k } } ) + { { b } _ { i } } ( { { t } _ { i k } } ) \\Big ) { { \\theta } _ { i } } ( t ) } \\\\ { ~ - \\sum _ { j \\in N _ { i } ( { { t } _ { i k } } ) } { { \\theta } _ { j } } ( t ) - { { b } _ { i } } ( { { t } _ { i k } } ) { { \\theta } _ { 0 } } \\Big ) , t \\in \\Big [ { { t } _ { i k } } , { { t } _ { i k } } + { { \\tau } _ { i } } \\Big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\tau _ { i }$ 是预先设定的正数称保留时间， ${ \\boldsymbol { t } } _ { 0 } , { \\boldsymbol { t } } _ { 1 } , \\dots$ 是无限时间序列， $t _ { i ( k + 1 ) } - t _ { i k } = \\tau _ { i }$ $k \\geq 0$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ren 等人[12]将Jadbabaie的成果拓展到有向图中，研究表明如果有向切换拓扑图集包含足够多的生成树，则多智能体系统能最终收敛。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一致性问题研究拓展到线性二阶多智能体系统，Lin等人[13]基于连通的无向切换拓扑图利用线性转换和构造Lyapunov函数的方法，得到多智能体系统收敛的标准条件，但该方法并未拓展到有向图以及更高阶系统中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HajarA等人[14]研究了二阶有向切换拓扑多智能系统一致性问题，给出了一个充分条件，在该条件下，所有智能体的状态信息都将接近相同值，从而系统最终收敛。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到高阶的线性多智能体系统，SuY等人[15]将一类基于无向切换拓扑结构的线性多智能体系统一致性问题转换为矩阵的稳定性问题，最终系统得到稳定的收敛值。由于SuY的方法不能应用在有向拓扑图中，文献[16]设计了一种新的分布式一致性控制协议，若有向切换拓扑图包含足够多的生成树，那么系统在该协议下可收敛。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实际场景中的非线性因素众多，所以在研究线性连续时间多智能体系统一致性问题的过程中，研究人员逐渐开始重视非线性连续时间多智能体系统的一致性问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[17]基于非线性多智能体系统设计了动态一致性协议，在该协议作用下多智能体系统能保证收敛到Lyapunov意义下的稳定均衡。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[18]研究了具固有非线性项的基于有向切换拓扑图的 多智能体系统一致性问题，若固有非线性项满足Lipshitz条件， 则采用变量变换方法将一致性问题转换为局部稳定性问题求解。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[19]研究了基于无向切换拓扑的非线性系统一致性问题，提出了一种非光滑一致性算法，并证明了有限时间内算法的收敛性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于切换拓扑结构的离散时间一致性协议如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { i } \\left( k + 1 \\right) = z _ { i } \\left( k \\right) + \\varepsilon \\sum _ { j \\in N _ { i } \\left( k \\right) } a _ { i j } \\left( k \\right) \\left( z _ { j } \\left( k \\right) - z _ { i } \\left( k \\right) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用矩阵的方式表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ { \\big ( } k + 1 { \\big ) } = D { \\big ( } k { \\big ) } Z { \\big ( } k { \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $N _ { i } \\big ( k \\big )$ 表示第 $i$ 个智能体变化的邻域， $a _ { i j } \\left( k \\right)$ 是邻接矩阵中的相应元素， $\\varepsilon$ 表示调整因子，一般取 $\\bigl ( 0 , \\lambda \\bigr ] , 0 \\leq \\lambda \\leq 1$ ，${ \\cal D } \\big ( k \\big ) = I - \\varepsilon L \\big ( k \\big )$ ， $I$ 是单位矩阵， $L ( k )$ 是非负矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Vicsek等人[20]提出了著名的Vicsek模型，模型通用形式描述如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ( t + 1 ) { = } \\sum _ { j = 1 } ^ { N } a _ { i j } ( t ) x _ { j } \\left( t - \\tau _ { j } ^ { i } ( t ) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { i } ( t )$ 是智能体 $i$ 在时刻 $t$ 的状态， $a _ { i j } \\left( t \\right) \\geq 0$ 是增益系数,$\\Sigma _ { j = 1 } ^ { N } a _ { i j } \\left( t \\right) = 1 , ~ \\tau _ { j } ^ { i } \\left( t \\right)$ 是智能体 $j$ 到智能体 $i$ 的传输延时。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于切换拓扑的多智能体系统的传统分析方法是构造Lyapunov 函数，但文献[21]证明了基于离散时间切换拓扑的一致性算法不存在通用二次Lyapunov函数，所以研究人员开创出多种新颖方法来研究一致性问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chen 和Ho 等人[22.23]提出了一种收缩集的方法分析具切换拓扑和时延的离散时间多智能体系统的收敛性，并进一步得到了一个线性多智能体系统收敛速率的上边界。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Xiao 等人[29]使用无限随机矩阵乘积法证明了对于一个随机矩阵 $A$ ，如果 $G ( A )$ 包含一个生成树和带自环的根，则 $A$ 是SIA的，从而构造遍历系数来解决带时延的一致性问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lin 等人[24]提出使用一种分布式受限控制算法，每个智能体的速度被限制在一个非凸集内，线性多智能体系统在该算法作用下最终收敛。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chen等人[25]构造了一类非线性函数，如果函数满足所设定的条件，且拓扑图是初始连通的，则智能体状态最终会趋于一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2一致性协议性能分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1随机矩阵的无限乘积法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Jadbabie 和Ren等人 $[ 2 6 , ~ 2 7 ]$ 构造以下的遍历系数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda ( A ) = 1 - \\operatorname* { m i n } _ { i 1 , i 2 } \\Sigma _ { j = 1 } ^ { N } \\operatorname* { m i n } \\left\\{ a _ { i 1 , j } , a _ { i 2 , j } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$A = \\left( a _ { i j } \\right) _ { i , j = 1 } ^ { N }$ 是一个随机矩阵。若考虑到时滞[28·29]，只要随机矩阵 $A$ 的拓扑图包含生成树和有一个自环的根节点。随机矩阵的无限乘积法就可以应用到带时延的线性Vicsek模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2公共李亚普洛夫函数构造",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[30]采用有限时间Lyapunov稳定性理论设计了基于无向切换拓扑图的连续时间非线性一致性算法，解决了有限时间平均一致性问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[31]采用构造多项式Lyapunov函数来研究非线性多智能体系统的一致性问题，得到的系统一致性约束条件更宽松。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[32]基于二阶线性多智能体系统，提出若无向切换拓扑图是初始连通，利用线性转换和构造Lyapunov 函数，从而得到二阶多智能体系统的一致性标准条件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 归谬法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "归谬法在文献[33]中被提出，其主要思想是当 $\\tau _ { j } ^ { i } \\left( t \\right) = 0$ 时，定义如下规则：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { M ( t ) = \\displaystyle \\operatorname* { m a x } _ { i = 1 , . . . , N } x _ { i } ( t ) } } \\\\ { { m ( t ) = \\displaystyle \\operatorname* { m i n } _ { i = 1 , . . . , N } x _ { i } ( t ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果 $\\left\\{ G _ { i } \\right\\} _ { i = 1 } ^ { \\infty }$ 是连通的，则 ${ \\mathrm { l i m s u p } } _ { t  \\infty } M ( t ) = { \\mathrm { l i m i n f } } _ { t  \\infty } m ( t )$ ,即所有智能体状态值最终能趋于一致，该方法在无领导协作与领导跟随协作场景中能有效运用到很多不同类型的Vicsek模型中。1.2.4李亚普洛夫指数计算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chen等人[34]提出定义矩阵集合 $B$ 的李亚普洛夫指数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho ( A ) = \\operatorname* { s u p } _ { A \\in \\mathrm { B } } \\operatorname* { l i m s u p } _ { t \\to \\infty } { \\frac { \\log \\left\\| x _ { t } \\right\\| } { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过将通用线性多智能体系统的收敛性能计算转变成给定矩阵集合的李亚普洛夫指数计算的方法，从而得出多智能体系统收敛能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5集合构造法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "集合构造法在文献[35]中被提出，主要思想是构造了以下集合：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal V } _ { t , k } = \\Big \\{ i \\in { \\cal V } : m _ { i } ( t ) \\geq \\alpha ^ { k B } \\Big \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $B$ 是最大时延， $m \\big ( 0 \\big ) = 0 , M \\big ( 0 \\big ) = 1$ 。Blondel 证明了存在一些 $\\boldsymbol { t } ^ { * }$ 满足 $V _ { t ^ { * } , n } = V$ 。重复以上过程，带时滞的多智能体系统将达到指数型的收敛速率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6集合值分析法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Moreau[3]重新定义了多智能体稳定性，提出用集合值函数来分析衡量多智能系统的稳定性，令x表示有限维欧几里得空间，映射 $f : \\mathbb { N } \\times \\chi \\to \\chi$ ，则存在一个半连续的集合值函数$V : \\chi \\to \\chi$ ，满足：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle x \\in V \\big ( x \\big ) , \\forall x \\in \\chi } \\\\ { \\displaystyle V \\big ( f \\big ( t , x \\big ) \\big ) \\subseteq V \\big ( x \\big ) , \\forall t \\in \\mathbb { N } , \\forall x \\in \\chi } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 . 2 . 7 ~ \\mathrm { M }$ 矩阵法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chapman 等人[36基于 $\\mathbf { \\Omega } _ { M }$ 矩阵理论进行非线性动力学系统渐进稳定性分析，定义非对角元素均为非正的实矩阵集合 $z _ { N }$ ，若 $A \\in Z _ { N }$ ，且是非奇异矩阵，则称 $A$ 是 $M$ 矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { N } = \\left\\{ A = \\left( a _ { i j } \\right) \\in \\mathbb { R } ^ { N \\times N } : a _ { i j } < 0 \\mathrm { \\ } i f \\mathrm { \\ } i \\neq j , i , j = 1 , . . . , N \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 分布式优化问题",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分布式优化4是通过多个智能体之间的协调合作有效的解决大规模复杂优化问题，即每一个智能体都控制着自己所了解的子问题，而不了解其他智能体所知道的信息，必须通过局部信息交互获得一个最优的解决方案。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着云计算、大数据等技术的快速发展，为优化多智能体系统性能，提高系统的收敛速率、模型的鲁棒性及稳定性的分布式优化方法[37得到了越来越多的重视。在基于切换拓扑多智能体协调合作中，对分布式优化的传统研究方式是使用目标代价函数，为能进一步减少计算和通信，则用基于事件的控制方式等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 目标代价函数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[4]首先研究了基于一致性框架条件下的分布式多智能体优化问题:最小化 $\\Sigma _ { i = 1 } ^ { n } f _ { i } ( x ) , x \\in \\mathbb { R } ^ { n }$ ，每个 $f _ { i } : \\mathbb { R } ^ { n }  \\mathbb { R }$ 是一个凸函数。并将平均一致性算法和标准次梯度方式结合，提出了一个类一致性算法：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ( k + 1 ) = \\sum _ { j = 1 } ^ { N } a _ { i j } ( k ) x _ { j } ( k ) - \\alpha g _ { i } ( x _ { i } ( k ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha$ 是步长， $g _ { i } \\big ( x _ { i } ( k ) \\big )$ 是 $f _ { i } \\left( x \\right)$ 在 ${ { x } } = { { x } } _ { i } ( k )$ 时的次梯度，但该分布式解法要求次梯度的步长是均方可加的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wang等人[38]进一步放宽了次梯度的步长限制条件，证明了若次梯度的步长选择遵循不可和的原则，能得到更好的多智能体系统收敛速率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于一类局部目标凸函数，将分布式追踪算法与分布式估",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算法相结合的方案被Lin等人[39]提出，同时设计了一种自适应分布式算法，用于处理通用局部可微目标凸函数，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使得局部目标函数的导数收敛到0，多智能体状态值将在有限时间内趋于一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在分布式优化问题研究中的代价函数一般是一系列凸函数的和，而代价函数也可以由非凸函数来构成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PaoloDL等人[40]基于动态一致原则利用连续凸近似技巧，构造了在整个智能体网络中传播并计算的非凸平滑函数，从而以渐进收敛的方式得到非凸优化问题的解。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bea3b2e7f58550134c293c97afef8a746404ba542dc0b3b36375d6394d8ee01d.jpg",
+        "table_caption": [
+            "表1一致性性能分析方法"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>方法特点</td></tr><tr><td>随机矩阵无限乘积法 [26]-[29]</td><td>该方法要求系统矩阵必须是随机矩阵，若系统 网络拓扑包含生成树以及自环根节点，则可用 于时滞线性vicsek模型系统。</td></tr><tr><td>公共李亚普洛夫函数 构造[30]-[32]</td><td>该方法用于系统稳定性分析，依赖特定条件， 如系统矩阵左perron向量相等，且在切换拓扑 下不一定存在相应公共李亚普洛夫函数</td></tr><tr><td>归谬法[33]</td><td>该方法要求多智能体系统网络拓扑图在演化过 程中保持最终点连通，用于不带时滞的线性 vicsek模型的系统。 该方法将一致性问题转为给定矩阵集的</td></tr><tr><td>[34]</td><td>李亚普洛夫指数计算Lyapunov 指数数值计算，用于分析计算系统收 敛能力，能泛化到更普遍的切换多智能体系 统。</td></tr><tr><td>集合值分析法[3]</td><td>该方法用于非线性多智能体系统的收敛、稳定 性分析，需满足应用限制条件：切换多智能系 统满足凸性假设。</td></tr><tr><td>集合构造法[35]</td><td>该方法要求多智能体系统网络拓扑图在演化过 程中保持点连通，用于带时延的线性vicsek模 型系统。</td></tr><tr><td>M矩阵法[36]</td><td>该方法利用M矩阵的左右零空间刻画系统的固 有性质和模型的稳定性，用于非线性系统稳定 性分析。</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文献[41]采用非凸代价函数提出了一种分布式的近似双次梯度算法，能使智能体渐进收敛于近似问题的对偶解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2基于事件的控制方式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dimarogonas等人 $[ 4 2 , ~ 4 3 ]$ 首次提到将事件触发机制用于多智能体系统中，定义智能体 $i$ 的测量误差：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { i } \\left( t \\right) = x _ { i } \\left( t _ { k } ^ { i } \\right) - x _ { i } \\left( t \\right) ~ t \\in \\left[ t _ { k } ^ { i } , t _ { k + 1 } ^ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从而设立了事件触发条件：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { i } ^ { 2 } = \\frac { \\sigma _ { i } a \\left( 1 - a \\big | N _ { i } \\big | \\right) } { \\big | N _ { i } \\big | } z _ { i } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "调整因子 $\\sigma _ { i } \\in \\left( 0 , 1 \\right)$ ,平方误差和 $\\begin{array} { r } { \\left| N _ { i } \\right| = \\sum _ { j \\in N _ { i } } e _ { j } ^ { 2 } } \\end{array}$ ，参数",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 < a < \\left( 1 / \\left| N _ { i } \\right| \\right) , \\mathrm { z } _ { i } = \\textstyle \\sum _ { j \\in N _ { i } } \\left( x _ { i } - x _ { j } \\right) \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wu等人[44]利用预先估计的相邻智能体的状态信息设计了相应的事件触发函数，并提出了一种分布式事件触发通信协议。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于事件触发方式，若依据先前接收的数据和信息在控制更新时间内预先计算了下一个事件时间，则为自触发方式，自触发方式能节省更多的能量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文献[45]将事件触发系统与数据采样控制相结合从而设计了分布式自触发一致性算法，能有效分析普遍网络拓扑下的事件触发一致性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文献[46]放宽了多智能体系统要求网络拓扑连通性高的条件，在传感器网络中使用自触发的策略降低单个智能体的功耗频率来降低系统的整体能耗。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "事件的触发使得两个智能体通过无向边进行连接，从而基于智能体自己的状态更新控制器称为边事件驱动的控制方式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Xiao 等人[47]认为每个信息连接都是独立定义的边事件，从而建立了一种采用边事件驱动的数据采样框架用于达到分布式状态一致性要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Meng等人[48]研究了多积分器在切换网络中的基于边事件驱动的数据采样一致性问题，并分析了双向交互和领导跟随情况下的智能体状态一致性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 分布式估计问题",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分布式估计器对全局系统进行估计[49]，同时估计器互相通信将各自对于全局系统估计状态进行传输，最终实现估计状态与真实状态一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于智能体间通信的连接与断开，网络拓扑是动态变化的，且全局信息的缺失，使得分布式控制愈加复杂。在现实场景中，运用分布式估计策略[50在有限时间内估计一些全局信息，从而设计局部控制器使得多智能体系统稳定成为当前的研究重点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Zhang等人[51研究了受干扰的联合估计和控制问题，采用Kalman滤波的方式设计估计器如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\hat { z } _ { k } = \\left( I + G _ { k } \\left( W _ { k } + R _ { k } \\right) ^ { - 1 } \\right) ^ { - 1 } z _ { k } ^ { P } } \\\\ { + \\left( I + \\left( R _ { k } + W _ { k } \\right) G _ { k } ^ { - 1 } \\right) ^ { - 1 } p _ { k } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $k$ 表示时刻序列， $\\boldsymbol { p } _ { k }$ 是测量向量， $z _ { k } ^ { P }$ 是预测向量， $G _ { k }$ 是权重矩阵， $\\left( I + G _ { k } \\left( W _ { k } + R _ { k } \\right) ^ { - 1 } \\right) ^ { - 1 } G _ { k }$ 是误差协方差矩阵。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Federico 等人[52]使用一种扩散最小均方的策略对分布式估计问题进行了深入的研究，并建立起扩散LMS算法的框架结构，该分布式估计算法对整个系统的节点和链路故障具有良好的鲁棒性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文献[53]采用分布式同步估计和控制的方法，将分布式估计器用于控制算法的设计，同时对智能体间的合作提出了一个算法设计框架，这对解决联合估计和控制问题有极大的推进作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "文献[54]利用最优滤波方法将局部传感器数据融入到环境的全局模型中,使得每个移动传感器的信息通过通信网络进行扩散。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在智能体协同合作完成任务的过程中，多智能体系统的通信拓扑需要时刻保持整体连通，故多智能体系统使用分布式估计算法预测下一时刻系统通信图的状态从而保证通信图的连通性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "文献[55，56]基于无向拓扑图和代数连通性的分散估计性质提出了一种基于梯度的控制策略，并依据该策略设计了控制算法，应用该算法能保证通信图的全局连通性，而无须维护系统之间的局部连通性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "文献[57]基于有向图提出了一种以分布式方法实现迭代的分层估计过程，并设计了PI平均一致性估计器：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\dot { \\bar { z } } _ { k } \\right] = \\left[ { - \\gamma I - k _ { p } L _ { B } \\mathrm {  ~ \\ k ~ } _ { i } L _ { B } ^ { T } } \\right] \\left[ \\bar { z } _ { k } \\right] _ { + } \\left[ \\gamma I \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（20 $k = 1 , 2$ ,设计参数 $\\gamma , k _ { p } , k _ { i } > 0 .$ （号 $\\boldsymbol { I } \\in \\boldsymbol { R } ^ { N \\times N }$ ${ \\bf { O } } \\in {  { R } } ^ { N \\times N }$ 分别为单位矩阵和相应维度的零矩阵, $\\boldsymbol { L } _ { B }$ 是平衡矩阵。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为将分布式估计算法应用在无线传感器网络、环境监测等要求多智能体系统具有高可扩展性、强鲁棒性以及低功耗的场景，行业内的研究者们已经做了大量的尝试。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yan 等人[50.58]通过将无线传感器网络进行节点划分的方式设计了一种基于信息一致的估计算法，使两种节点能协同合作，实现了对温度分布的准确估计。随后Yan进一步考虑了环境噪声提出了一种新的基于信息一致估计的追踪算法，从而能提高追踪目标的精确度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Liu等人[59]在分层无线认知网络中使用分布式估计方案预测无线电环境地图，用于显示地理区域上的无线电信号强度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Wang等人[49.60]研究了分布式动态状态估计问题，提出了不仅能保证信息估计准确性并能更有效利用信息资源的分布式复杂信息融合算法，同时将算法应用到目标可以有多个隐含模型以及具切换马尔科夫链的场景，收到了良好的效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于切换拓扑的多智能体系统协作控制一直是控制领域的研究热点。经过长期的研究，基于线性系统的一致性问题研究已形成一套理论框架体系，研究者们开始重视基于非线性系统的一致性问题、基于符号图的一致性问题等更贴近现实社会环境的研究。同时，利用事件触发方式等分布式优化方法和分布式估计方法更有效率的实现多智能体系统的协同合作也取得了较大进展。虽然当前的理论研究和实验已经解决了许多切换拓扑下多智能体协同合作的技术难题，但仍然有相当多重要且具挑战性的研究问题待深入研究：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)当前大部分的研究是基于多智能体间的相互合作，而很少提及竞争，而在现实中竞争不仅存在而且依据“优胜劣汰”原则推动了整个群体结构变化，在群体合作中发挥着积极的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)在分布式协议下，一些智能体基于有限的局部信息无法预测到群体行为，致使一些智能体的行为不受控制。智能体失控造成的影响在动态变化的网络拓扑中进一步被放大从而导致整个多智能体系统不稳定。所以在控制协议设计中如何去平衡分布式和集中式，最终保证系统的稳定仍待研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)多智能体系统的收敛性与网络拓扑图的连通性有密切联系，但研究者们发现智能体之间更多的联系并不总能促进整个系统更快收敛。所以单个智能体在其邻域内刷选出一部分“重要”智能体进行合作交流不仅能保证相同的收敛速率更能减少整个系统的能耗。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Olfati-Saber R,Murray R M.Consensus problems in networks of agents with switching topology and time-delays [J].IEEE Trans on Automatic Control,2004,49 (2): 1520-1532.   \n[2]Olfati-Saber R.Flocking for multi-agent dynamic systems: algorithms and theory[J].IEEE Trans on Automatic Control,2006,51(3): 401-420   \n[3] Moreau L. Stability of multiagent systemswith time-dependent communication links [J].IEEE Trans on Automatic Control,20o5,50 (2): 169-182.   \n[4]Nedic A, Ozdaglar A.Distributed subgradient methods for multi-agent optimization [J].IEEE Trans on Automatic Control,2009,54(1): 48-61.   \n[5] Cao Yongcan,Yu Wenwu,Ren Wei,et al. An overview ofrecent progress in the study of distributed multi-agent coordination [J].IEEE Trans on Industrial Informatics,2013,9(1): 427-438.   \n[6] 谢光强，章云．多智能体系统协调控制一致性问题研究综述[J].计算 机应用研究，2011,28(6):2035-2039.(Xie Guangqiang，Zhang Yun. Survey of consensus problem in cooperative control of multi-agent systems [J].Application Research of Computers,2011,28 (6): 2035-2039.)   \n[7] Chen Weisheng,Li Xiaobo,Ren Wei,et al.Adaptive consensus of multiagent systems with unknown identical control directions based on a novel Nussbaum-type function [J].IEEE Trans on Automatic Control,2014,59 (7): 1887-1892.   \n[8]Wen Guanghui, Duan Zhisheng, Chen Guanrong,et al. Consensus tracking of multi-agent systems with Lipschitz-type node dynamics and switching topologies [J].IEEE Trans on Circuits and Systems I: Regular Papers,2014, 61 (2): 499-511.   \n[9]Zhang Hongwei, Chen Jie.Bipartite consensus of general linear multi-agent systems [C]//Proc of American Control Conference.2014: 808-812.   \n[10] Cheng Meiling, Zhang Hongwei,Jiang Ye.Output bipartite consensus of heterogeneous linear multi-agent systems [C]// Proc of the 35th Chinese Control Conference.2016: 8287-8291. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[11] Jadbabaie A,Lin Jie,Morse A S.Coordination of groups of mobile autonomous agentsusing nearest neighborrules [J]. IEEE Trans on Automatic Control,2003,48(6): 988-1001. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[12] Ren Wei, Beard R W. Consensus seeking in multiagent systems under dynamically changing interaction topologies [J].IEEE Transon Automatic Control,2005,50 (5): 65-661   \n[13] Lin Peng,Jia Yingmin.Consensus of a class of second-order multi-agent systems with time-delayand jointly-connected topologies [J]. IEEE Trans on Automatic Control,2010,55 (3): 778-784.   \n[14] Atrianfar H,Haeri M. Synchronousconsensus of double-integrator continuous-time multi-agent systems with switching topologies and time Varying delays [C]// Proc of the 54th Annual Conference on Decision and Control. 2016: 2205-2210.   \n[15] Su Youfeng, Huang Jie.Stability ofa class oflinear switching systems with applicationsto two consensus problems [J]. IEEE Trans on Automatic Control,2012,57(6): 1420-1430.   \n[16] Su Shize,Lin Zongli. On distributed consensus control of higher-order systems with dynamically changing directed interaction topologies [C]// Proc of the 34th Chinese Control Conference.2015:7102-7107.   \n[17] Qing Hui,Haddad W M.Distributed nonlinear control algorithms for network consensus [J]. Automatica,2008,44 (9): 2375-2381.   \n[18] Liu Kaien,Xie Guanming,Ren Wei,et al. Consensus for multi-agent systems with inherent nonlinear dynamics under directed topologies [J]. Systems& ControlLetters,2013,62(2):152-162.   \n[19] CorteS J.Finite-timeconvergent gradient flows with applications to network consensus [J].Automatica,2006,42 (11): 1993-2000.   \n[20] Vicsek T,Czirok A,Ben-Jacob E,et al.Novel type of phase transition in a systemof self-driven particles [J]. Physical Review Letters,1995,75 (6): 1226.   \n[21] Olshevsky A,Tsitsiklis JN. On the nonexistence of quadratic Lyapunov functions for consensus algorithms[J].IEEE Trans on Automatic Control, 2008,53 (11): 2642-2645.   \n[22] Chen Yao,HoDWC,Lu Jinhu,etal. Convergence rate analysis fordiscretetime multi-agent systems with time-varying delays[C]// Proc of the 29th Chinese Control Conference. 2010: 4578-4583   \n[23] Chen Yao,Ho Daniel WC,Lü Jinhu,etal.Convergence rate for discretetime multiagent systems with time-varying delays and general coupling coefficients[J]. IEEE Trans on Neural Networks and Learning Systems, 2016,27 (1): 178-189.   \n[24] Lin Peng,Ren Wei,Gao Huijun.Distributed velocity-constrained consensus of discrete-time multi-agent systems with nonconvex constraints,switching topologies,and delays [J].IEEE TransonAutomatic Control,2016.   \n[25] Chen Yao,Lü Jinhu,Lin Zongli. Consensusof discrete-time multi-agent systems with transmission nonlinearity[J].Automatica,2013,49(6): 1768 1775.   \n[26] Jadbabaie A,Lin Jie,Morse A S.Coordination of groups of mobile ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "autonomous agents using nearest neighbor rules [J].IEEE Trans on ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "automatic control,2003,48(6): 988-101.   \n[27]Ren Wei,Beard R W.Consensus seeking in multiagent systems under dynamically changing interaction topologies [J]. IEEE Trans on Automatic Control,2005,50 (5): 655-661.   \n[28] Lin Peng,Jia Yingmin. Consensus ofsecond-order discrete-time multi-agent systems with nonuniform time-delays and dynamically changing topologies [J]. Automatica,2009,45 (9): 2154-2158.   \n[29] Xiao Feng,Wang Long. State consensus for multi-agent systems with switching topologiesand time-varying delays [J].International Journal of Control,2006,79 (10): 1277-1284.   \n[30] Wang Long,Xiao Feng.Finite-time consensus problems for networks of dynamic agents [J]. IEEE Trans on Automatic Control,2010,55 (4): 950- 955   \n[31] Liang Quanyi,She Zhikun,Wang Lei,et al. General Lyapunov functions for consensus of nonlinear multiagent systems [J]. IEEE Trans on Circuits $\\&$ Systems II Express Briefs,2017,64(10):1232-1236.   \n[32] Lin Pei,Jia Yingmin.Consensus of a class of second-order multi-agent systems with time-delayand jointly-connected topologies [J]. IEEE Trans on Automatic Control,2010,55 (3): 778-784.   \n[33] Li Sanjiang，Wang Huaiqing. Multi-agent coordinationusing nearest neighbor rules: revisiting the Vicsek model[J].Computer Science,2004.   \n[34] Chen Yao,Lü Jinhu,Dong Hairong,et al. On the Lyapunov exponent of consensus algorithm [Cl//Proc of the 10th World Congress on Intelligent Control and Automation. 2012: 931-936.   \n[35] BlondelVD,Hendrickx JM,OlshevskyA,etal. Convergencein multiagent coordination,consensus，and flocking [C]// Proc of the 44th IEEE Conference on Decision and Control. 2005.   \n[36] Chapman A,Mesbahi M. Stability analysis of nonlinear networks via Mmatrix theory:Beyond linear consensus [C]// Proc of American Control Conference. 2012: 6626-6631.   \n[37] Lin Peng,Ren Wei, Song Yongduan. Distributed multi-gent optimization subject to nonidentical constraints and communication delays [M].[S.1.]: Pergamon Press,Inc.2016.   \n[38] Wang Peng,Lin Peng,Ren Wei,et al. Distributed Subgradient-based multiagent optimization with more general step sizes [J]. IEEE Trans on Automatic Control,2016,PP(99): 1-1.   \n[39] Lin Peng,Ren Wei,Song Yongduan,et al.Distributed optimization with he consideration of adaptivity and finite-time convergence [C]// Proc of American Control Conference. 2014: 3177-3182.   \n[40] Di Lorenzo P, Scutari G.Distributed nonconvex optimization over networks [C]// Proc of IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing.2016: 229-232.   \n[41] Zhu Minghui, Martinez S.An approximate dual Subgradient algorithm for multi-agent non-convex optimization[J]. IEEE Trans on Automatic Control, 2013, 58 (6): 1534-1539.   \n[42] Dimarogonas D V,Johansson KH.Event-triggered cooperative control [C]// Proc of European Control Conference.2009:3015-3020.   \n[43] Dimarogonas D V,Frazzoli E,Johansson KH. Distributed event-triggered control for multi-agent systems [J].IEEE Trans on Automatic Control,2012, 57 (5): 1291-1297.   \n[44] Wu Zhengguang,Xu Yong,Lu Renquan,et al. Event-triggered control for consensus of multiagent systems with fixed//switching topologies [J].IEEE Trans on Systems Man& Cybernetics Systems,2017,PP(99):1-11.   \n[45] Liu Bo,Lu Wenlian, Jiao Licheng,et al.A new approach to self-triggered consensus analysis in networks with switching topologies [C]//Proc of the 28th Chinese Control and Decision Conference.2016:220-224.   \n[46] Xiao Feng，Meng Xiangyu,Chen Tongwen．Average sampled-data consensus driven by edge events [C]// Proc of the 31st Chinese Control Conference.2012: 6239-6244.   \n[47] Wang Hongming,Fan Yuan. Iterative self-triggered consensus of multiagent systems under dynamically changing graphs [C]//Proc of the 27th Chinese Control and Decision Conference.2015:3475-3480.   \n[48] Xiao Feng,Meng Xianyu,Chen Tongwen. Sampled-data consensus in switching networks of integrators based on edge events [J]. International Journal of Control,2015,88 (2): 391-402.   \n[49] Qin Jiahu,Ma Qichao,Shi Yang,et al.Recent Advances in Consensus of Multi-Agent Systems:A Brief Survey [J].IEEE Trans on Industrial Electronics,2017,64 (6): 4972-4983   \n[50] Wang Shaocheng,Ren Wei.On the Consistency and Confidence of Distributed Dynamic State Estimation in Wireless Sensor Networks [C]/ Proc of IEEE Conference on Decision and Control. 2015:3069-3074.   \n[51] Yan Jing,Chen Cailian,Luo Xiaoyuan,et al. Topology optimisation-based distributed estimation in relay assisted wireless sensor networks [J].Control Theory& Applications Iet,2014,8(18): 2219-2229.   \n[52] Zhang Fumin,Leonard Ehrich Naomi. Cooperative Filters and Control for Cooperative Exploration [J].IEEE Trans on Automatic Control,2010,55 (3): 650-663.   \n[53] Cattivelli F S,Sayed A H.Diffusion LMS strategies for distributed estimation [J].IEEE Trans on Signal Processing,2010,58 (3):1035-1048.   \n[54] Yang Peng,Freeman R A,Lynch K M. Multi-agent coordination by decentralized estimation and control[J].IEEE Trans on Automatic Control, 2008,53 (11): 2480-2496.   \n[55] Lynch K M, Schwartz IB,Yang Peng,et al. Decentralized environmental modeling by mobile sensor networks [J].IEEE Trans on Robotics,2008,24 (3): 710-724.   \n[56] Sabatini L, Chopra N, Secchi C.On decentralized connectivity maintenance for mobile robotic systems [Cl// Proc of the 5Oth IEEE Conference on Decision and Control and European Control Conference.2011: 988-993.   \n[57] Sabatini L, Secchi C, Chopra N. Decentralized connectivity maintenance for networked Lagrangian dynamical systems [C]// Proc of IEEE International Conference on Robotics and Automation.2012:2433-2438.   \n[58] Sabatini L, Secchi C,Chopra N.Decentralized estimation and control for preserving the strong connectivity of directed graphs [J]. IEEE Trans on Cybernetics,2015,45 (10): 2273.   \n[59] Yan Jing,Xu Ziqiang,Luo Xiaoyuan,et al.Consensus estimation based underwater target tracking with acoustic sensor networks [C]// Proc of Control Conference. 2016: 7837-7842.   \n[60] Liu Jianzhi, Chen Cailian,Mi Shichao,et al. Secure distributed estimation of radio environment map in hierarchical wireless cognitive radio networks [C// Proc of the 27th Chinese Control and Decision Conference.2015: 1476-1481.   \n[61] Wang Shaocheng,Ren Wei, Chen Jie.Fully distributed state estimation with multiple model approach [C]//Proc of the 55th Conference on Decision and Control. 2016:2920-2925. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

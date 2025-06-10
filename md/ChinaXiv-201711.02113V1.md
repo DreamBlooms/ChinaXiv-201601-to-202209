@@ -1,0 +1,142 @@
+枯草芽孢杆菌芽孢表面展示外源功能蛋白的应用
+
+冯　杰」 王振华² 潘康成1\*
+
+(1.四川农业大学动物医学院，成都 611130；2.成都农业科技职业学院畜牧兽医分院，成都
+
+# 611130)
+
+摘要：枯草芽孢杆菌是一种好氧的可直接用于人和动物的益生菌菌种，在不利条件下可以被诱导产生芽孢。芽孢具有特殊的构造及独特的生理特征，研究者们发现枯草芽孢杆菌芽孢是酶和免疫原等外源性功能蛋白的理想的锚定载体，以枯草芽孢杆菌芽孢衣壳蛋白作为分子载体，直接利用芽孢吸附作用和共价固定等方法使外源蛋白锚定在芽孢表面。目前已有多种酶蛋白、抗原蛋白和其他功能蛋白成功展示在枯草芽孢杆菌芽孢表面。本文主要对枯草芽孢杆菌芽孢结构及芽孢表面展示外源蛋白技术的策略和应用前景进行阐述。
+
+关键词：枯草芽孢杆菌；芽孢表面展示；共价固定；载体中图分类号：S811.6 文章标识码： 文章编号：
+
+枯草芽孢杆菌(Bacillus subtilis)是产芽孢的革兰氏阳性菌，因其益生特性及芽孢良好的抗逆性而备受研究者青睐。芽孢表面展示技术是利用芽孢特殊的构造，采用一定的策略将外源性功能蛋白锚定在芽孢表面，使该蛋白发挥更佳的功能及稳定性。Isticato 等[1首次利用芽孢衣蛋白CotB作为锚定蛋白，将破伤风毒素的C 片段(TTFC)成功地展示在芽孢表面。芽孢表面展示技术凭借其操作简单、重组芽孢的稳定性好等特点，现已成功地应用于黏膜疫苗、生物催化、生物降解和诊断工具等多个领域。枯草芽孢杆菌芽孢表面展示技术现在逐渐发展为以基因重组和非基因重组2种锚定方式的表面展示策略[2]。基因重组方式是以芽孢衣蛋白如CotB、CotC、CotE、CotG、CotZ 和OxdD等作为锚定蛋白，将外源蛋白与芽孢衣蛋白进行融合表达展示在芽孢表面[1,3-7]；非基因重组方式是利用芽孢与外源蛋白的吸附作用或使用交联剂如戊二醛等将外源蛋白锚定在芽孢表面[8-9]。
+
+# 1芽孢的形成及结构
+
+# 1.1 芽孢形成
+
+枯草芽孢杆菌在遭受不利条件下，经过一系列时序性和空间性的基因表达，最后形成圆形或椭圆形的休眠体——芽孢，以抵御不良环境。枯草芽孢杆菌营养性细胞形成芽孢与一系列反馈和前馈反应密切相关[10]。外界环境通过激活内部磷酸化级联反应，影响关键转录蛋白 Spo0A 的磷酸化水平来调控营养性细胞向芽孢化转变。Spo0A 蛋白低水平的磷酸化促进生物膜形成；高水平的磷酸化启动芽孢化过程[1]。细菌一旦选择启动进入芽孢化，在经过一个耗时、高耗能和不可逆的过程后，最后在子代水平形成芽孢。
+
+芽孢化过程大致分为以下几个阶段[10]。首先，营养性细胞在环境压力下选择启动进入芽孢化，复制后的染色质分别通过RacA蛋白锚定在细胞两极。然后，隔膜将细胞分裂为不对称的前芽孢和母细胞，随后oF和oE 因子分别在前芽孢和母细胞中被激活；激活后的oF和oE 因子调节相关基因的表达，使前芽孢被母细胞"吞没”，成为被2层膜—细菌细胞壁和薄层肽聚糖包裹的结构，并且还激活前芽孢和母细胞中oG和oK因子。母细胞参与调控前芽孢皮层和芽孢衣各层的合成与组装，最后，母细胞在自溶酶的作用下裂解并释放出成熟的芽孢。
+
+# 1.2 芽孢结构
+
+芽孢是一种抗逆性极强的休眠体，在抵抗辐射、高温和化学物质等方面十分突出。枯草杆菌芽孢从内向外依次由核心、皮层和芽孢衣组成。核心包含细菌基因组DNA及相关蛋白，含水量极低，脱去的水分由2,6-吡啶二羧酸（pyridine-2,6-dicarboxylic acid，DPA）替代，基因组DNA与 $\alpha / \beta$ 型的小型的酸溶性孢子蛋白(small,acid soluble spore proteins，SASP)结合。SASP对休眠期芽孢抵抗外界刺激（如湿热、干燥和过氧化氢等对基因组DNA的损伤）和避免芽孢死亡具有重要作用[12]。DPA在芽孢抵抗紫外线、维持核心脱水状态、芽孢的休眠状态和萌发过程都具有重要作用[13-14]。皮层是由前芽孢内外孢子膜间特殊的肽聚糖组成，使芽孢能够抵抗高温和干燥。芽孢衣由里到外依次为基层、内衣壳蛋白、外衣壳蛋白和皮质4层蛋白层，由70多种蛋白组成，是芽孢的第1道屏障。芽孢衣的组装被认为是从SpoVM蛋白与前芽孢外孢子膜表面相互作用开始的。SpoVM蛋白是一种由26个氨基酸组成的α螺旋的两亲性蛋白，长度不超过 $4 \mathrm { n m }$ ，SpoVM蛋白通过与SpoIVA蛋白和前芽孢外孢子膜的相互作用，然后将SpoIVA蛋白锚定在前芽孢外孢子膜表面[15]。Ramamurthi等[16-17]研究认为，SpoVM蛋白的长度和结构与前芽孢外孢子膜的凸面结构对引导SpoIVA蛋白正确锚定在外孢子膜表面具有重要作用。
+
+芽孢形态发生蛋白是一类与芽孢在各层组装过程中发挥主要功能但不影响母细胞中基因表达的蛋白，芽孢衣能正确组装很大程度上依赖于各层芽孢形态发生蛋白的正确表达，如SpoIVA 突变株虽然能在前芽孢外组装衣壳蛋白层，但是蛋白层只能以游离的形式存在，而不能锚定在前芽孢外孢子膜表面；SpoVM 突变株的衣壳只能部分并且混乱的锚定在前芽孢表面；safA、cotE 分别是内、外衣壳衣壳蛋白层组装所必需的[18]。
+
+# 2芽孢表面展示技术策略
+
+# 2.1 基因重组
+
+基因重组的芽孢表面展示外源蛋白的策略主要基于外源DNA与衣壳蛋白DNA的基因融合。工程菌在形成芽孢时，外源蛋白随着衣壳蛋白的表达而表达，最后融合蛋白通过衣壳蛋白锚定在芽孢表面，并且不会影响芽孢结构和功能[19]。芽孢表面展示策略根据融合基因重组方式可分为游离型和整合型。游离型是将载有融合基因的重组质粒导入宿主，进行复制和表达；整合型是在融合基因的两端加上同源臂，线性化的质粒载体将融合基因以双交换的方式整合到宿主基因组上，进行复制和表达。游离型重组方式操作简便，但是具有重组质粒的不稳定性特点，而整合型重组方式具有良好的遗传稳定性。
+
+用于芽孢表面展示的游离型重组方式的质粒载体大多是由来自于杆菌属的质粒与大肠杆菌pBR322或其衍生质粒构成的嵌合质粒载体，如 pHP13、pHPS9、pCSK1 和 pLJ7 等[20-21]。大多数游离型质粒载体都是以衣壳蛋白启动子作为穿梭质粒中融合蛋白的启动子，在芽孢形成时被激活，表达融合蛋白，最后通过衣壳蛋白锚定在芽孢表面。Nguyen 等[22报道，使用异丙基硫代半乳糖苷(IPTG)化学诱导型启动子的穿梭质粒 pQAS34 和 pQAS32，在芽孢化的t2 期加入诱导剂 IPTG，相对于依靠衣壳蛋白自身启动子的工程菌，能够在芽孢表面检测到更多的目的蛋白表达。
+
+整合载体的基本构成是由大肠杆菌pBR322 或其衍生质粒的非自主复制的质粒骨架、可以筛选枯草芽孢杆菌的抗性基因和与枯草芽孢杆菌染色体DNA 同源的一段DNA片段组成。同源的DNA 片段大多是以amyE、thrC、lacA、pyrD、gltA 和 scaA 等非必需基因作为整合位点[21]，抗性基因插入在同源片段中间，并且在同源片段中间包含一个或多个酶切位点以引入外源片段。这类质粒因为没有枯草芽孢杆菌的复制起点，在整合质粒导入枯草芽孢杆菌后不能自主复制，只能通过整合到宿主染色体上，随着细胞复制而复制。整合在染色体上的融合基因随着芽孢衣蛋白启动子启动而表达，最后锚定在芽孢表面上。
+
+# 2.2 非基因重组
+
+非基因重组的芽孢表面展示策略是将芽孢与已纯化的外源蛋白一起孵育，由于芽孢和外源蛋白之间静电和疏水作用力的相互作用，使得外源蛋白吸附在芽孢表面[23]。Donadio 等[24]认为，外源蛋白可能在孵育过程中发生渗透作用，通过了芽孢皮质和外衣蛋白层，与内衣蛋白发生相互作用，从而达到比较牢固锚定外源蛋白的效果。近年来又出现了使用戊二醛等作为交联剂的方法，利用戊二醛与芽孢和外源蛋白反应产生的共价键，将外源蛋白固定在芽孢表面。这种非基因重组的方法不仅不依靠特定的芽孢衣蛋白，相对于基因重组方法而言，能在芽孢表面锚定更多的目的蛋白，并且非基因重组芽孢不会向环境引入抗性基因。
+
+# 3芽孢表面展示技术的应用
+
+枯草芽孢杆菌具有良好的发酵基础和生产技术，且芽孢拥有极强的抗逆性，使得芽孢表面展示技术的应用范围极为广泛。目前，枯草芽孢杆菌芽孢表面展示技术已广泛用于黏膜疫苗、疫苗佐剂、多聚蛋白、生物治理和饲料用酶制剂等的生产。
+
+# 3.1在生产黏膜疫苗方面的应用
+
+枯草芽孢杆菌是公认的优良益生菌菌种，其芽孢有极强的抗逆性，能够顺利通过胃到达肠道，被 M 细胞摄入，与派伊尔氏结中的抗原提呈细胞发生相互作用[25-26]，刺激机体发生黏膜和体液免疫应答，这些特性赋予了枯草杆菌作为黏膜疫苗递呈载体或佐剂的独特优势。同时，重组芽孢还具备对储存和运输条件要求相对较低、使用重组芽孢免疫动物的免疫方式简单、可减少免疫过程对动物造成的应激等优势。
+
+Duc 等[27通过口服和滴鼻重组TTFC 的工程菌芽孢RH103免疫小鼠，均能诱导产生特异性分泌型免疫球蛋白A（sIgA）、免疫球蛋白M（IgM）和以免疫球蛋白G（IgG）1、IgG2b为主的Th2 型免疫反应，说明以重组芽孢免疫动物，能诱导机体产生局部黏膜免疫和全身的体液免疫应答，攻毒试验结果显示，口服和滴鼻重组芽孢小鼠能经受皮下注射20倍剂量半数致死量 $\left( \mathrm { L D } _ { 5 0 } \right)$ 破伤风毒素攻击。Zhou 等[3]利用游离型质粒pUS186作为载体，使用CotC作为锚定蛋白，将幽门螺旋杆菌脲酶成功的展示在芽孢表面，口服重组芽孢，能够刺激机体产生黏膜和体液免疫应答，三免后攻毒试验表明能够显著减少 $( 8 4 \% )$ 胃内幽门螺旋杆菌附着数量。本实验室刘明刚等[28]以 CotB 作为锚定蛋白展示鸡白痢沙门氏菌外膜蛋白C 基因(OmpC),可分别为2倍和10倍剂量 $\mathrm { L D } _ { 5 0 }$ 攻毒的鼠伤寒沙门氏菌感染的小鼠提供 $100 \%$ 和 $50 \%$ 的保护力，同时还发现采用微生态制剂常用剂量即 $1 { \times } 1 0 ^ { 6 } \mathrm { C F U / g }$ 饲粮拌料给予小鼠，产生的肠黏膜抗体和血清抗体效果更优。Huang 等[8]采用吸附的方法将GST-Cpa247-37o 融合蛋白锚定在芽孢表面，口服和滴鼻2种免疫方式均能产生相当的抗体水平，抵抗6倍剂量 $\mathrm { L D } _ { 5 0 }$ 毒素攻击。Manki等[29]用吸附有灭活H5N1病毒粒子的灭活芽孢，通过滴鼻的方式免疫小鼠，能够更早检测到特异性抗体的产生和更高的抗体水平。Aps 等[30-31研究发现，芽孢还可以作为DNA疫苗佐剂，用吸附有质粒DNA疫苗的芽孢免疫小鼠，能提高特异性抗体水平和CD8+T细胞的活化水平。
+
+# 3.2在生产多聚蛋白方面的应用
+
+由于芽孢特殊的形成过程，赋予外源蛋白在重组芽孢中的独特的展示过程。外源蛋白在母细胞中合成后无需跨膜直接组装在芽孢表面。这对于生产多聚体形态下才有活性的蛋白具有独特优势。通过芽孢表面展示技术将酶固定在芽孢表面，不仅使酶纯化和回收方式简单化，还能提高酶的活性和稳定性。Kim 等[32]在枯草芽孢杆菌芽孢表面成功展示了具有良好生物活性的链霉亲和素，证明多聚蛋白可以在芽孢表面正确组装。Richter 等[33]发现，展示在芽孢表面的碱性磷酸酶的二硫键也能正确形成。Sirec 等[34采用吸附的方法将 $\beta \mathrm { . }$ 半乳糖苷酶成功展示在芽孢表面，使得吸附在芽孢表面的酶对酸性环境 $\mathrm { ( p H = 4 ) }$ 和高温(75、 $8 0 \ \mathrm { { ^ circ C } }$ 条件下的耐受能力增加。通过芽孢表面展示技术将有活性的多聚蛋白锚定在芽孢表面，证明该技术适用于生产多聚蛋白，为生产多聚蛋白提供了新的选择。
+
+# 3.3在生物治理环境污染领域的应用
+
+随着环境污染微生物治理领域的研究，生物酶凭借其环保性和催化效率高等优点，生物酶催化技术也运用到环境污染的治理上来。Chen 等[4将一种重要的工业酶——腈水解酶锚定在芽孢表面，简化了酶的纯化和回收过程，提高了酶对温度、pH 和化学试剂的耐受能力。酶耐受力的提高对处理工业废水的复杂条件时保持高效催化效率有很重要的意义。Falahati-Pour 等[35]使用 1-(3-二甲氨基丙基)-3-乙基碳二亚胺和 N-羟基硫代琥珀酰亚胺(EDC-NHS)作为交联剂，将有机磷水解酶共价锚定在芽孢表面。这种固定方法使得酶在不同pH 和温度条件下的活性都显著提高，并且在6次循环使用后，酶活性几乎没有降低，循环使用10次后，仍能保持 $80 \%$ 的酶活。这对解决环境中有机磷农药环境残留问题提供了生物修复新方法。
+
+# 3.4特定功效的微生态制剂
+
+通过芽孢表面展示技术构建特定功效的菌株，克服了传统益生菌存在筛选过程复杂、效果单一、针对性不强等缺点，为筛选出特定功效的菌株提供了便利。芽孢表面展示技术已经尝试应用到饲料用酶制剂的生产上。Potot 等将微生物来源的植酸酶展示在芽孢表面，由于芽孢的稳定性，使得表面展示的酶获得更好的稳定性，有望解决传统饲料用酶制剂生产中固态发酵质量不稳定、酶产量低及在饲料制粒和储存过程中酶活性损耗等问题。冯凡[36]还在人胰岛素原和锚定蛋白的融合蛋白基因之间加入一段肠激酶作用位点，以重组芽孢饲喂家蚕，能够在家蚕血淋巴内检测到人胰岛素原，证明芽孢展示的重组蛋白能够被肠激酶消化，吸收进入家蚕血淋巴。
+
+# 4小结
+
+枯草芽孢杆菌芽孢表面展示技术凭借其独特的优势，现已被开发出多种展示策略，使芽孢成为一个多用途载体。芽孢拥有极强的抗逆性，储存方式简单，能顺利通过胃肠道屏障，还可以和抗原递呈细胞发生相互作用；同时枯草芽孢杆菌还是一种益生菌，具有调节肠道菌群、提高机体免疫力等益生特征，这些都赋予了枯草芽孢杆菌芽孢作为极佳的黏膜疫苗递呈载体和免疫佐剂的特性。最近发现芽孢还可以作为DNA疫苗的载体，相信今后芽孢表面展示技术还会为设计新型疫苗提供新思路。枯草芽孢杆菌除了对增强疫苗免疫效果、提高外源活性蛋白的功能起着重要作用外，还可发挥其微生态学效应的功能，也为研究和开发特定功效的微生态制剂提供新的方向。芽孢表面展示技术可以直接将酶固定在芽孢表面，展示在芽孢表面的酶拥有更好的稳定性，且纯化和回收方法简单，这对生物催化行业固定载体提供了新选择。使用2种锚定蛋白或不同的芽孢表面展示策略构建多功能重组芽孢，将会使芽孢成为了一个多功能的载体。相信随着对枯草芽孢杆菌芽孢表面展示技术研究的深入，今后枯草芽孢杆菌芽孢表面展示技术将会在更多的领域发挥重要的作用。
+
+参考文献：
+
+[1]ISTICATO R,CANGIANO G,TRAN H T,et al.Surface display of recombinant proteins on
+
+Bacillus subtilis spores[J].Journal of Bacteriology,2001,183(21):6294-6301.
+
+[2] ISTICATO R,RICCA E.Spore surface display[J].Microbiology Spectrum,2014,2(5):351-366. [3]ZHOU Z,GONG S,LI X M,et al.Expression of Helicobacter pylori urease B on the surface of Bacillus subtilis spores[J].Journal of Medical Microbiology,2015,64(1):104-110.
+
+[4]CHEN H,CHEN Z,NI Z,et al.Display of Thermotoga maritima MSB8 nitrilase on the spore surface of Bacillus subtilis using out coat protein CotG as the fusion partner[J].Journal of Molecular Catalysis B:Enzymatic,2016,123:73-80.
+
+[5] HINC K,IWANICKI A,OBUCHOWSKI M.New stable anchor protein and peptide linker suitable for successful spore surface display in B.subtilis[J].Microbial Cell Factories,2013,12(1):22.
+
+[6]HOSSEINI- ABARI A,KIMB G,LEE S H,et al.Surface display of bacterial tyrosinase on spores of Bacillus subtilis using CotE as an anchor protein[J].Journal of Basic Microbiology,2016,56（12） :1331-1337.
+
+[7]POTOT S,SERRA C R,HENRIQUES A O,et al.Display of recombinant proteins on Bacillus subtilis spores,using a coat-associated enzyme as the carrier[J].Applied and Environmental Microbiology,2010,76(17):5926-5933.
+
+[8]HUANG JM,HONG H A,VAN TONG H,et al.Mucosal delivery of antigens using adsorption to bacterial spores[J].Vaccine,2010,28(4):1021-1030.
+
+[9] GHAEDMOHAMMADI S,RIGI G,ZADMARD R,et al.Immobilization of bioactive protein A from Staphylococcus aureus (SpA) on the surface of Bacillus subtilis spores[J].Molecular Biotechnology,2015,57(8):756-766.
+
+[10] TAN I S,RAMAMURTHI K S.Spore formation in Bacillus subtilis[J].Environmental Microbiology Reports,2014,6(3):212-225.
+
+[11] HIGGINS D,DWORKIN J.Recent progress in Bacillus subtilis sporulation[J].FEMS Microbiology Reviews,2012,36(1):131-148.
+
+[12] SETLOW P.I will survive:DNA protection in bacterialspores[J].Trendsin Microbiology,2007,15(4):172-180.   
+[13]SLIEMAN T A,NICHOLSON W L.Role of dipicolinic acid in survival of Bacillus subtilis sporesexposed toartificial and solar UV radiation[J].Applied and Environmental Microbiology,2001,67(3):1274-1279.   
+[14]MAGGE A,GRANGER A C,WAHOME P G,et al.Role of dipicolinic acid in the germination,stability,and viability of spores of Bacillussubtilis[J].Journal of Bacteriol0gy,2008,190(14):4798-4807.   
+[15]GILL R L,CASTAING JP,HSIN J,et al.Structural basis for the geometry-driven localization of a small protein[J].Proceedings of the National Academy of Sciences,2015,112(15):E1908-E1915.   
+[16]RAMAMURTHI K S,CLAPHAM K R,LOSICK R.Peptide anchoring spore coat assembly to the outer forespore membrane in Bacillus subtilis[J].Molecular Microbiol0gy,2006,62(6):1547-1557.   
+[17] RAMAMURTHI K S,LECUYER S,STONE H A,et al.Geometric cue for protein localization in a bacterium[J].Science,2009,323(5919):1354-1357.   
+[18]MCKENNEY P T,DRIKS A,EICHENBERGER P.The Bacillus subtilis endospore:assembly and functions of the multilayered coat[J].Nature Reviews Microbiology,20l3,11(1):33-44. [19]ROSALES-MENDOZA S,ANGULO C.Bacillus subtilis comes of age as a vaccine production host and delivery vehicle[J].Expert Review of Vaccines,2015,14(8):1135-1148. [20]SCHUMANN W.Production of recombinant proteins in Bacillus subtilis[J].Advances in
+
+Applied Microbiology,2007,62:137-189.
+
+[21] YANG M M， ZHANG W W， ZHANG X F， et al.Construction and characterization of a novel maltose inducible expression vector in Bacillus subtilis[J].Biotechnology Letters,2006,28(21):1713-1718.
+
+[22] NGUYEN Q A,SCHUMANN W.Use of IPTG-inducible promoters for anchoring recombinant proteinson the Bacillussubtilisspore surface[J].Protein Expression and Purification,2014,95(3):67-76.
+
+[23] RICCA E,BACCIGALUPI L,CANGIANO G,et al.Mucosal vaccine delivery by non-recombinant spores of Bacillus subtilis[J].Microbial Cell Factories,2014,13(1):115.
+
+[24] DONADIO G,LANZILLI M,SIREC T,et al.Localization of a red fluorescence protein adsorbed on wild type and mutant spores ofBacillussubtilis[J].Microbial Cell Factories,2016,15(1):153.
+
+[25]BATISTA M T,SOUZA R D,PACCEZ J D,et al.Gut adhesive Bacillus subtilis spores as a platform for mucosal delivery of antigens[J].Infection and Immunity,2014,82(4):1414-1423.
+
+[26]MOU C,ZHU L,XING X,et al.Immune responses induced by recombinant Bacilus subtilis expressing the spike protein of transmissible gastroenteritisvirus in pigs[J].Antiviral Research,2016,131:74-84.
+
+[27]DUC L H,HONG H A,Fairweather N,et al.Bacterial spores as vaccine vehicles[J].Infection and Immunity,2003,71(5):2810-2818.
+
+[28]刘明刚,戴茜茜,徐毓琴,等.以CotB 为分子载体表面展示鸡白痢沙门氏菌OmpC 的重组枯草杆菌芽孢对小鼠免疫效果的研究[J].中国预防兽医学报,2015,37(12):966-969.
+
+[29]SONG M,HONG H A,HUANG J M,et al.Killed Bacillus subtilis spores as a mucosal adjuvant for an H5N1 vaccine[J].Vaccine,2012,30(22):3266-3277.
+
+[30]APS L R M M,DINIZ M O,PORCHIA B F M M,et al.Bacillus subtilis spores as adjuvants for DNA vaccines[J].Vaccine,2015,33(20):2328-2334.
+
+[31]APS L R,TAVARES M B,ROZENFELD JH,et al.Bacterial spores as particulate carriers for gene gun delivery of plasmid DNA[J].Journal of Biotechnology,2016,228:58-66.
+
+[32] KIM J H,LEE C S,KIM B G.Spore-displayed streptavidin:a live diagnostic tool in biotechnology[J].Biochemical and Biophysical Research Communications,20o5,331(1):210-214.
+
+[33]RICHTER A,KIM W,KIM J H,et al.Disulfide bonds of proteins displayed on spores of Bacillus subtilis can occur spontaneously[J].Current Microbiology,2015,71(1):156-161.
+
+[34] SIREC T,STRAZZULLI A,ISTICATO R,et al.Adsorptionof $\beta$ galactosidaseof Alicyclobacillus acidocaldarius on wild type and mutants spores of Bacillus subtilis[J].Microbial Cell Factories,2012,11(1):100.
+
+[35]FALAHATI- POUR S K,LOTFI A S,AHMADIAN G,et al.Covalent immobilization of recombinant organophosphorus hydrolase on spores of Bacillus subtilis[J].Journal of Applied Microbiology,2015,118(4):976-988.
+
+[36]冯凡.枯草芽孢杆菌表面展示人胰岛素原及其口服降血糖功效评估[D].博士学位论文.  
+镇江：江苏大学,2015,64-78.
+
+Application of Bacillus subtilis Spore Surface Display of Functional Heterologous Protein FENG Jie1 WANG Zhenhua²PAN Kangcheng1 /
+
+(1. College of Veterinary Medicine, Sichuan Agricultural University, Chengdu 611130, China; 2. Branch College of Animal Husbandry and Veterinar, Chengdu Vocational College of Agricultural Science and Technology, Chengdu 611130, China)
+
+Abstract: Bacillus subtilis is an aerobic positive bacteria which is used as a probiotic for both human and animal. It can be induced to differentiate into the spore by unfavorable condition of circumstances. Because of the special structure and physiological characteristics of Bacillus subtilis spore,researchers found that the spore was the ideal vector of enzymes and antigens, and had been used the coat protein as a carrier, adsorption or covalent methods to display foreign proteins on the surface of the spore. Now, some enzymes, antigens and other functional proteins have successes to be displayed on the spore. The paper introduced the structure of Bacillus subtilis spore,the technology of spore surface display and its application.
+
+Key words: Bacillus subtilis; spore surface display; covalent immobilization; vector

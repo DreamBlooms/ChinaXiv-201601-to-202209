@@ -1,0 +1,204 @@
+# 古尔班通古特沙漠不同类型生物结皮对草本植物多样性影响
+
+李彬¹，武志芳¹，陶冶²，周晓兵²，张丙昌1（1.山西师范大学地理科学学院,山西 临汾041000；2.荒漠与绿洲生态国家重点实验室，中国科学院新疆生态与地理研究所，新疆 乌鲁木齐830011)
+
+摘要：选择古尔班通古特沙漠的北部(一号点）、中部(二号点）、南部(三号点)3个不同样点的裸沙和藻结皮、地衣结皮与苔藓结皮3种生物结皮类型,对比研究了草本植物多样性的差异性及其主要环境影响因素。结果表明：(1）不同生物结皮类型的土壤理化性质有明显差异,土壤有机质、全氮、全磷、全钾含量以及黏粒、粉粒和细沙的含量随生物结皮演替显著上升,而中沙和粗沙的含量呈显著下降趋势,在沙漠不同区域呈现明显的空间异质性，二号样点中裸沙和藻结皮的养分含量和pH明显低于一号点和三号点。（2）草本植物的物种丰富度和Shannon-Wiener指数随生物结皮发育呈明显上升趋势,草本植物的物种组成、群落结构在不同类型生物结皮和沙漠不同区域均具有显著差异。（3）在土壤理化特征中,有机质、速效P和全K含量,以及pH和粉粒含量是影响草本植物分布的关键因子。（4）不同类型生物结皮之间的微地形和种类组成差异、种子生物学特性以及生物结皮在不同尺度下的土壤环境异质性共同影响草本植物在生物结皮中的物种组成和丰度，最终导致草本植物群落结构在生物结皮中的演替变化。
+
+关键词：生物结皮；演替；草本植物；物种多样性；古尔班通古特沙漠
+
+生物结皮(BiologicalSoilCrusts）广泛分布在世界干旱半干旱地区[1],是干旱半干旱荒漠地表景观的重要组成之一，它们是由蓝藻、真核藻类、细菌、真菌、地衣、藓类与土壤颗粒胶结形成的一种复杂的有机复合体[2-3]。生物结皮通过光合固碳作用和固氮作用增加土壤中的有机碳和氮，有效提高土壤肥力；同时可以有效防止风蚀、水蚀、保持土壤水分、促进植被演替进而稳定生态系统3，在荒漠生态系统中发挥着不可替代的生态功能[4-5]
+
+从裸沙到成熟的苔藓结皮是一个非常复杂的演替过程，生物结皮在不同的演替发育阶段，其优势物种不同。根据生物结皮的优势物种组成，将其分为藻结皮、地衣结皮、藓结皮3个阶段6。最开始裸沙时，土壤表面是松散的沙粒，无任何结皮形成或存在物理结皮，通过显微观察和培养试验表明,裸沙阶段有丝状蓝藻殖入[]。在适宜环境下，裸沙中的蓝藻不断生长繁殖，数量增多，其中丝状种类通过缠绕捆绑作用和粘结作用将松散的沙粒紧密结合在一起，开始形成藻结皮[8]。早期藻结皮是以微鞘藻为主的丝状蓝藻构成，颜色较浅，随着藻结皮的进一步发育，颜色逐渐变深，具异性胞的固氮蓝藻和一些球形蓝藻或绿藻增多，即发育成深色藻结皮[2]。深色藻结皮中蓝藻或绿藻可以与真菌结合地衣,结皮进一步增厚(厚度 $1 { \sim } 2 ~ \mathrm { c m } .$ )，表面变得崎岖不平,粗糙度增加，发育成地衣结皮[69]。在沙丘垄间低地的灌丛下，在一些地衣结皮中开始出现藓类，藓类个体逐渐增多，甚至发育成苔藓纯群，生物结皮演替为藓结皮,其厚度可达 $2 { \sim } 3 ~ \mathrm { c m } ^ { [ 1 0 - 1 1 ] }$ 。
+
+在荒漠生态系统中，生物结皮的发育将有利于增加土壤养分和盐分，土壤逐渐由粗质地变为细质地,土壤孔隙度变大[12]。结皮土壤这些特性的改变会影响维管束植物的萌发、幼苗建成、定居和存活，进而影响物种多样性[2-3.13-15]。在沙坡头地区和科尔沁沙地，生物结皮的发育有助于提高种子库密度，表现为藓结皮种子库密度显著高于藻结皮[16-17]。然而，在古尔班通古特沙漠中，藻结皮的种子数量、丰富度和多样性均显著高于地衣和藓结皮[18]。对于同种结皮而言，湿润处理的结皮种子库密度显著高于干旱处理结皮[17]。土壤种子库是植被更新和物种多样性的物质基础，与植物多样性有密切的关系。进一步的研究表明，致密的生物结皮层对种子植物多样性有降低作用，生物结皮的适度干扰有利于增加植物多样性，而严重干扰会降低植物多样性[19]
+
+不同类型生物结皮影响种子库已开展了大量研究，多数研究认为生物结皮演替有利于增加种子库的密度和多样性。然而，对草本植物多样性和不同类型生物结皮的响应是否有类似的规律，哪些土壤环境因子将影响草本植物的多样性，为验证以上科学问题，本文以古尔班通古特沙漠为研究区，研究生物结皮演替对草本植物多样性及其关键环境影响因子，有助于我们进一步理解生物结皮与植物的互作关系。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+古尔班通古特沙漠位于新疆准噶尔盆地腹地$( 4 4 ^ { \circ } 1 1 ^ { \prime } { \sim } 4 6 ^ { \circ } 2 1 ^ { \prime } \mathrm { N }$ $8 4 ^ { \circ } 3 1 ^ { \prime } { \sim } 9 0 ^ { \circ } 0 0 ^ { \prime } \mathrm { E } )$ ,面积是 $4 . 8 8 \times$ $1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ ,是我国最大的固定和半固定沙漠[20]。该沙漠降水季节分配较为均匀,年降水量是 $7 0 { \sim } 1 5 0 ~ \mathrm { m m }$ ，年蒸发量为 $2 0 0 0 { \sim } 2 8 0 0 \ \mathrm { m m }$ ,年平均气温 $5 { \sim } 5 . 7 ~ \mathrm { \% }$ ，属于典型的温带大陆性干旱气候[21-22]。古尔班通古特沙漠土壤以荒漠灰钙土为主。该沙漠由蛇麻黄(Ephedradistachya）、梭梭（Haloxylonammoden-dron）、白梭梭(Haloxylonpersicum)和其他沙生植物构成的小半乔木群落广泛发育；由于该沙漠冬季具稳定的积雪期，丰富的雪冰融水有利于生物结皮发育,短命类植物丰富[11,23]。此外,该沙漠地表还有发育良好的生物结皮，在沙漠不同沙垄地貌部位有较强的选择分布特征[24]
+
+# 1.2 研究方法
+
+1.2.1 野外取样在2019年5月底，对古尔班通古特沙漠相距 $6 0 \mathrm { k m }$ 的一号点 $( 4 5 ^ { \circ } 0 6 ^ { \prime } \mathrm { N } , 8 7 ^ { \circ } 6 1 ^ { \prime } \mathrm { E } )$ ，二号点 $( 4 4 ^ { \circ } 8 5 ^ { \prime } \mathrm { N } , 8 7 ^ { \circ } 8 3 ^ { \prime } \mathrm { E } )$ 和三号点 $( 4 4 ^ { \circ } 5 5 ^ { \prime } \mathrm { N } , 8 8 ^ { \circ } 2 4 ^ { \prime } \mathrm { E } )$ 3个样点进行了植物多样性调查(图1)。一、二、三号点年降水量依次为 $7 6 . 2 6 ~ \mathrm { m m } \cdot 1 0 9 . 7 2 ~ \mathrm { m m } \cdot 1 3 9 . 2 4$ $\mathrm { m m } ^ { [ 2 5 ] }$ 。每个样点选择裸沙和藻结皮,地衣结皮,藓结皮3种类型结皮(分别代表不同演替阶段）（图2),裸沙和3种类型结皮随机设置5个样方，样方大小为 $ { 1 \mathrm { ~ m } } \times  { 1 \mathrm { ~ m ~ } }$ 。采用网格法，记录样方内观察到植物的种名，测量相应的株数、株高和冠幅，参照《中国植物志》和《新疆植物志》进行物种鉴定。
+
+在各样方内采用5点法收集土壤样品，用来分析土壤理化性质。首先用土壤采样器分层采集土样，取样深度 $0 { \sim } 2 ~ \mathrm { c m }$ 和 $2 { \sim } 5 ~ \mathrm { c m }$ 。将所采土样混合均匀后装入封口塑料袋内标记好并及时运回实验室，在自然状态下风干后测定其理化特性。
+
+1.2.2土壤理化性质测定方法生物结皮理化特性采用常规方法测定：土壤有机质采用重铬酸钾容量法；全氮采用开氏法；全磷采用酸溶钼锑抗比色法;全钾采用NaOH熔融-火焰光度法；速效磷采用0.5$\mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } \ \mathrm { N a H C O } _ { 3 }$ 浸提-钼锑抗比色法;速效氮采用碱解扩散法；速效钾采用原子吸收法; $\mathrm { \ p H }$ 采用酸度计测定1:1土水比悬液；总盐利用 $2 0 ~ \mathrm { m L } ~ 1 { : } 5$ 的土壤水浸提液干燥后称重法[26]；土壤粒径测定采用干筛分法和激光粒度仪测定相结合的方法;粗沙 $( > 0 . 5 ~ \mathrm { m m } )$ 和中沙 $( 0 . 2 { \sim } 0 . 5 ~ \mathrm { m m }$ )采用干筛法(筛孔直径分别为$0 . 2 ~ \mathrm { m m }$ 和 $0 . 5 ~ \mathrm { m m }$ ；细沙( $2 0 { \sim } 2 0 0 ~ \mu \mathrm { m }$ ）、粉粒(2\~20$\mu \mathrm { m } ,$ 和黏粒 $( < 2 \mu \mathrm { m } )$ 采用激光粒度仪确定。1.2.3物种多样性测定方法物种多样性用物种丰富度(单位面积的物种数7)和Shannon-Wiener多样性指数来表征；通过物种优势度来确定优势物种，优势度用重要值表示。
+
+![](images/432d6ba8ce8b7bcf77b0c4cc57f2a2a680e2dd7ae9f1bc43524d3617bde62f75.jpg)  
+图1古尔班通古特沙漠采样点位置示意图  
+Fig.1Sampling sites in the Gurbantunggut Desert
+
+![](images/97c57be11942f835353b50af82181671ee90f99011ce477319a48fa7f0b02b12.jpg)  
+图2古尔班通古特沙漠生物结皮演替过程 Fig.2Succession process of biological crust in the Gurbantunggut Desert
+
+Shannon-Wiener多样性指数：
+
+$$
+H = - \sum _ { i = 1 } ^ { s } ( P _ { i } ) \mathrm { l n } P _ { i }
+$$
+
+式中： $s$ 为植物物种总数； $N$ 为所有植物物种的植物总数； $P _ { i }$ 为第 $i$ 种植物的植物数占总植物数的比例。
+
+重要值 $\mathrm { I V } \left( \% \right) =$ （相对密度 $+$ 相对盖度 $+$ 相对高度)/3式中：相对密度、相对盖度、相对高度参照常规方法计算[26]
+
+1.2.4数据处理采用单因素方差分析(one-wayANOVA)对不同类型生物结皮和不同样点的土壤理化特性和植物多样性指数进行显著性分析，若差异显著，进一步通过多重(LSD)检验差异显著性（SPSS21)。植物群落结构的差异显著性通过PAST软件中PerMANOVA进行分析。通过PCA分析古尔班通古特沙漠不同站点的土壤环境因子的差异性(Canoco5.0），通过RDA分析植物群落结构与环境因子之间的相互关系，采用Manteltest进一步确定影响群落分布的主要环境因子(PASSaGE)。
+
+# 2 结果分析
+
+# 2.1不同类型生物结皮对土壤理化性质的影响
+
+通过对古尔班通古特沙漠生物结皮不同类型的理化性质分析，发现结皮的演替有益于有机质的积累、营养元素的富集。在结皮层，有机质、全N、$\mathrm { N H _ { 4 } { - } N , N O _ { 3 } { - } N } .$ 速效磷和速效钾含量随生物结皮的演替均呈极显著上升趋势( $\scriptstyle { \phantom { - } } P < 0 . 0 1$ ),藓结皮达到峰值，显著高于其他演替阶段。全P和全K含量在不同演替阶段差异不显著( $( P { > } 0 . 0 5 )$ 。在生物结皮的演替过程中，总盐含量呈增加趋势，地衣结皮和藓结皮显著高于裸沙和藻结皮 $( P { < } 0 . 0 1 \$ ）， $\mathrm { \ p H }$ 随结皮演替呈先上升后下降趋势，藻结皮和地衣结皮显著高于藓结皮 $( P { < } 0 . 0 5 )$ 。土壤质地在结皮演替过程中逐渐由粗质地向细质地转化，黏粒、粉粒和细沙的比例显著提高( $( P { < } 0 . 0 1 )$ ,中沙和粗沙的比例呈显著下降趋势(表1)。
+
+在结皮下层，有机质在演替的前3个阶段（裸沙、藻结皮、地衣结皮)呈缓慢上升，但变化不显著，当演替至藓结皮，其有机质含量显著高于其他3个阶段。全 $\mathrm { N } , \mathrm { N O } _ { 3 } – \mathrm { N }$ 和速效P、全P、全K含量随结皮演替显著增加( $\scriptstyle \cdot < 0 . 0 5$ 或 $\scriptstyle P < 0 . 0 1 { \mathrm { . } }$ ）， $\mathrm { { N H _ { 4 } } \mathrm { { - N } } }$ 和速效K在生物结皮不同演替阶段无显著差异。总盐和 $\mathrm { \ p H }$ 变化趋势与结皮层类似，但 $\mathrm { \ p H }$ 略低于结皮层。结皮下层土壤粒径在演替过程中与结皮层有相同的变化趋势 $( P { < } 0 . 0 1 \$ ）。
+
+# 2.2草本植物多样性指数分析
+
+在古尔班通古特沙漠生物结皮中，草本植物的物种丰富度仅在三号点地衣结皮显著高于其他阶段，其他样点植物丰富度在不同生物结皮演替阶段差异均不显著。在沙漠 $6 0 ~ \mathrm { k m }$ 尺度的不同样点中，植物丰富度表现出一定的差异，如位于沙漠中部的二号样点，其地衣结皮的植物丰富度低于沙漠偏西部一号点和南部的三号点，三号点藓结皮的植物丰富度显著高于一号和二号样点。沙漠南部三号点生物结皮中植物Shannon-Winner指数随结皮演替呈显著上升趋势，但在沙漠中西部的一号点和二号点植物Shannon-Winner指数在生物结皮不同演替阶段无显著差异。Shannon-Winner指数在沙漠不同样点的差异表现不明显，仅在一号点的地衣结皮中植物Shannon-Winner指数显著高于二号点(图3）。
+
+(）（手）  
+[qe   
+
+<html><body><table><tr><td rowspan="2">理化特性</td><td colspan="4">结皮层(0~2 cm)</td><td colspan="4">结皮下层(2~5cm)</td></tr><tr><td>裸沙</td><td>藻结皮</td><td>地衣结皮</td><td>苔藓结皮</td><td>裸沙</td><td>藻结皮</td><td>地衣结皮</td><td>苔藓结皮</td></tr><tr><td>有机质/(g·kg)</td><td>2.88±2.29Bb</td><td>3.91±0.55Bb</td><td>4.30±0.37Bb</td><td>6.62±0.71Aa</td><td>2.06±0.45Bb</td><td>2.12±0.50Bb</td><td>2.42±0.26Bb</td><td>3.88±0.61Aa</td></tr><tr><td>全氮/(g·kg)</td><td>0.12±0.03Cc</td><td>0.21±0.03Bb</td><td>0.23±0.03Bb</td><td>0.38± 0.01Aa</td><td>0.06±0.01Cd</td><td>0.12±0.02Bc</td><td>0.16±0.04Bb</td><td>0.21±0.03Aa</td></tr><tr><td>硝态氮/(mg·kg²)</td><td>18.44±7.42Cc</td><td>38. 65±6.22ABb</td><td>35.52±2.27Bb</td><td>50.64±10.62Aa</td><td>2.18±0.57Cc</td><td>3.92±0.49BCb</td><td>4.67±1.18Bb</td><td>7.35±1.59Aa</td></tr><tr><td>铵态氮/(mg·kg")</td><td>14.63±1.38Bb</td><td>29.04±13.36ABb</td><td>26.18±4.74Bb</td><td>49.69±17.47Aa</td><td>12.18±1.75a</td><td>12.53±0.81a</td><td>12.51±0.75a</td><td>13.55±1.17a</td></tr><tr><td>全磷/(g·kg)</td><td>0.39±0.12a</td><td>0.42±0.05a</td><td>0.43±0.01a</td><td>0.45±0.02a</td><td>0.35±0.02Bc</td><td>0.40±0.05ABb</td><td>0.39±0.02ABb</td><td>0.44±0.01Aa</td></tr><tr><td>全钾/(g·kg")</td><td>21.60±0.74b</td><td>22.40±0.69a</td><td>22.52±0.41a</td><td>22.59±0.30a</td><td>21.07±0.21b</td><td>21.24±0.38ab</td><td>21.40±0.40ab</td><td>21.70±0.51a</td></tr><tr><td>速效磷/(mg·kg")</td><td>2.74±0.52Bb</td><td>3.14±0.30Bb</td><td>3.09±0.38Bb</td><td>4.41±0.55Aa</td><td>3.15±0.92Bb</td><td>3.27±0.60Bb</td><td>3.41±0.65Bb</td><td>5.14±0.90Aa</td></tr><tr><td>速效钾/(mg·kg=)</td><td>92.2±75.91Bb</td><td>115.8±27.26ABb</td><td>135.20±18.95ABab</td><td>189.00±5.61Aa</td><td>104.20±82.67a</td><td>115.80±22.47a</td><td>122.00±12.31a</td><td>151.80±4.55a</td></tr><tr><td>总盐/(mg·g")</td><td>0.11±0.01Bc</td><td>0.11±0.01Bc</td><td>0.14±0.01Ab</td><td>0.17±0.02Aa</td><td>0.11±0.01Bbc</td><td>0.11±0.01Bc</td><td>0.12±0.01Bb</td><td>0.15±0.02Aa</td></tr><tr><td>pH</td><td>8.05±0.42ab</td><td>8.32±0.06a</td><td>8.36±0.08a</td><td>7.93±0.21b</td><td>7.57±0.16Bc</td><td>7.84±0.09Aa</td><td>7.73±0.07ABab</td><td>7.66±0.09ABbc</td></tr><tr><td>黏粒(<2μm)/%</td><td>0.70±0.38Bc</td><td>0.93±0.23Bbc</td><td>1.35±0.14ABb</td><td>1.96±0.67Aa</td><td>0.59±0.11Cc</td><td>0.77±0.08BCc</td><td>1.05±0.11Bb</td><td>1.66±0.34Aa</td></tr><tr><td>粉粒(2~20 μm)/%</td><td>2.84±0.62Bb</td><td>3.20±0.92Bb</td><td>3.36±0.77ABb</td><td>5.42±1.93Aa</td><td>2.29±0.39Bc</td><td>2.49±0.44Bbc</td><td>2.95±0.62Bb</td><td>4.54±0.35Aa</td></tr><tr><td>细沙(20~200 μm)/%</td><td>66.03±5.07Bc</td><td>69.36±4.18ABbc</td><td>74.83±1.89Aa</td><td>71.78±1.50ABab</td><td>64.07±1.91Bc</td><td>67.08±1.90Bb</td><td>73.63±2.09Aa</td><td>71.57±0.82Aa</td></tr><tr><td>中沙(0.2~0.5 mm)/%</td><td>21.83±2.23Aa</td><td>19.66±2.82ABa</td><td>16.09±1.67Bb</td><td>16.26±1.22Bb</td><td>20.37±0.53Aa</td><td>18.38±0.45Bb</td><td>15.33±0.72Cc</td><td>15.40±0.39Cc</td></tr><tr><td>粗沙(> 0.5 mm)/%</td><td>8.64±3.68Aa</td><td>6.70±1.84ABab</td><td>4.44±1.02Bb</td><td>4.67±1.26ABb</td><td>13.11±2.10Aa</td><td>12.25±2.02Aa</td><td>7.35±1.34Bb</td><td>7.50±0.45Bb</td></tr></table></body></html>
+
+注：数值为平均值 $\stackrel { \cdot } { \_ }$ 标准差，不同小写字母表示在同一样点不同生物结皮类型差异显著( $\lceil P < 0 . 0 5 \rceil$ ),不同大写字母表示同一结皮类型在不同样点差异显著（ $\scriptstyle \cdot - 0 . 0 5$ 。
+
+![](images/a978691a9097ae10b0784fb6d6a310bbce74537f8e172f7511065b51d960bdfe.jpg)  
+图3草本植物在不同类型生物结皮的物种多样性指数  
+Fig.3Species diversity indexatdifferent types of biological soil crust
+
+# 2.3生物结皮植物物种组成
+
+通过调查发现古尔班通古特沙漠共有物种31种，隶属于14科31属。除裸沙部分样点外，尖喙牛儿苗（Erodiumoxyrrhynchum）和囊果苔草（Carexphysodes)几乎在生物结皮所有演替阶段均占明显的优势。另外,在裸沙中狭果鹤虱(Lappula semiglabra)和琉苞菊(Hyaleapulchella)占明显的优势,一号点和三号点裸沙中的尖喙牛儿苗优势度显著低于生物结皮的其他阶段;条叶庭荠(Alyssumlinifoli-um)是藻结皮和地衣结皮阶段常见优势物种(表2)。
+
+在沙漠相距 $6 0 \mathrm { k m }$ 左右的不同样点中，草本植物的优势物种也存在一些差异。如在裸沙中，二号点为尖喙牛儿苗和琉苞菊，一号点和三号点优势种为囊果苔草。在藻结皮阶段，除尖喙牛儿苗和囊果苔草外，条叶庭介和琉苞菊在三号点占有明显优势，优势度分别是 $2 2 . 8 7 \% \pm 1 2 . 8 1 \%$ 和 $2 1 . 0 7 \% \pm$ $9 . 2 7 \%$ ，一号点和二号点样点则分别为小花荆芥(Nepetamicrantlm）和琉苞菊，其优势度分别是$1 6 . 7 5 \% \pm 1 1 . 8 6 \%$ 和 $1 5 . 7 2 \% \pm 1 1 . 7 7 \%$ ，在一号样点所调查样方中，未发现琉苞菊植株个体。在地衣结皮中，条叶庭介在三号点优势度！ $( 2 0 . 9 9 \% \pm 1 7 . 3 3 \%$ 显著高于一号点！ $( 6 . 0 6 \% \pm 5 . 9 6 \%$ ),而在二号点样方中未有发现。
+
+# 2.4生物结皮类型和土壤理化性质对草本植物群落结构的影响
+
+RDA分析表明(图4)，生物结皮植物群落结构和土壤理化因子的降维排序结果可解释累积总变异的 $4 2 . 4 \%$ ,其中第一轴和第二轴分别解释累积总变异的 $1 3 . 6 3 \%$ 和 $9 . 6 2 \%$ 。在小尺度上,古尔班通古特沙漠生物结皮类型影响草本植物群落结构。在同一样点，总体而言，不同类型的结皮草本植物群落结构具明显的差异，二号样点中地衣结皮和藓结皮、以及三号样点藻结皮和地衣结皮样方中的植物群落接近，具有重叠现象，说明生物结皮样方中有混生现象；在 $6 0 \mathrm { k m }$ 距离尺度上，发现同种结皮类型在不同样点之间亦表现出明显的差异性。Per-MANOVA分析表明，生物结皮类型对植物群落结构的影响均达到极显著水平( $_ { \scriptstyle P < 0 . 0 1 }$ )。比如，在沙漠3个研究样点均发现裸沙样方中的植物群落结构与地衣结皮和藓结皮中的植物群落差异呈显著或极显著水平；另外，一号点藻结皮与地衣结皮和藓结皮之间的植物群落之间、以及二号点和三号点裸沙与藻结皮的植物群落结构之间差异均显著( $_ { ( P < 0 . 0 5 ) }$ （20号或极显著水平 $( P { < } 0 . 0 1 )$ 。生物结皮中的植物群落在沙漠不同样点之间也呈显著的差异，如一号点藻结皮、地衣结皮中的植物群落与二号点和三号点的相同结皮样方中的植物群落均有显著的差异，且多数呈极显著水平( $\scriptstyle { \cdot } P < 0 . 0 1 { \dot { } }$ );同样，二号点与三号点之间多数结皮类型中的植物群落结构呈显著差异( $P <$ 0.05)(表3)。
+
+RDA分析还表明，裸沙中的植物群落与中沙1 $0 . 2 { \sim } 0 . 5 ~ \mathrm { m m }$ 、粗沙( ${ \mathrm { > } } 0 . 5 ~ \mathrm { m m } ,$ )呈正相关，藻结皮和地衣结皮中的植物群落结构与 $\mathrm { N O } _ { 3 } – \mathrm { N }$ $\mathrm { \Delta N H _ { 4 } { - } N }$ ，全K、速效P和pH呈正相关，而藓结皮中的植物群落则与有机质、全N、全P、速效K、粉粒、黏粒和细沙含量存在显著的正相关关系(图4)。Manteltest进一步分析，发现生物结皮处于不同演替阶段中的植物群落与速效磷 ( $\scriptstyle 1 = 0 . 2 8 3$ ， $\scriptstyle P = 0 . 0 0 1$ ）、 $\mathrm { \ p H }$ （ $\scriptstyle { \begin{array} { l } { r = 0 . 0 9 9 } \end{array} }$ ， $P =$ 0.021）粉粒 $\left( r = 0 . 2 5 1 , P { = } 0 . 0 0 9 \right)$ 呈显著的正相关关系，而与有机质 $( r { = } { - } 0 . 1 4 3 , P { = } 0 . 0 3 8 )$ 和全 $\mathrm { K } ( { \it r } = - 0 . 1 4 1$ ，$\scriptstyle P = 0 . 0 4 6$ )呈显著负相关(表4)，这表明生物结皮中的有机质、速效P和全K含量、以及 $\mathrm { \ p H }$ 和粉粒含量是影响植物分布的关键环境因子。
+
+（）2麦  
+
+<html><body><table><tr><td rowspan="2">物种名</td><td colspan="4">一号点</td><td colspan="4">二号点</td><td colspan="4">三号点</td></tr><tr><td>裸沙</td><td>藻结皮</td><td>地衣结皮</td><td>苔藓结皮</td><td>裸沙</td><td>藻结皮</td><td>地衣结皮</td><td>苔藓结皮</td><td>裸沙</td><td>藻结皮</td><td>地衣结皮</td><td>苔藓结皮</td></tr><tr><td>尖喙牛儿苗 Erodium oxyrrhynchum</td><td>6.43±9.14</td><td>29.31±20.55</td><td>27.83±5.93</td><td>20.85±8.03</td><td>29.27±11.28</td><td>28.78±3.52</td><td>31.05±2.73</td><td>13.49±10.69</td><td>2.30±3.22</td><td>18.96±8.81</td><td>24.46±4.81</td><td>26.37±10.48</td></tr><tr><td>囊果苔草 Carex physodes</td><td>19.59±18.83</td><td>24.11±15.30</td><td>12.95±9.14</td><td>24.11±5.27</td><td>0</td><td>43.00±16.87</td><td>43.63±10.52</td><td>18.83±3.68</td><td>30.23±27.73</td><td>17.63±16.53</td><td>13.45±14.77</td><td>5.28±7.28</td></tr><tr><td>硬萼软紫草 Arnebia decumbens</td><td>0</td><td>1.28±2.86</td><td>2.88±6.45</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.52±1.16</td><td>1.80±2.47</td><td>0</td></tr><tr><td>假狼紫草 Nonea caspica</td><td>0</td><td>4.11±5.79</td><td>4.00±8.95</td><td>0</td><td>7.38±16.51</td><td>0</td><td>0</td><td>0.42±0.93</td><td>2.87±6.42</td><td>0.89±2.00</td><td>3.63±5.04</td><td>0</td></tr><tr><td>狭果鹤虱 Lappula semiglabra</td><td>12.06±12.38</td><td>0</td><td>0</td><td>0</td><td>21.99±19.52</td><td>0</td><td>0</td><td>0</td><td>14.61±12.16 0</td><td></td><td>0</td><td>0</td></tr><tr><td>篇蓄Polygonum aviculare</td><td>3.20±7.15</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>刺沙蓬 Salsola ruthenica</td><td>1.13±1.56</td><td>8.02±5.60</td><td>21.98±8.10</td><td>0.98±2.19</td><td>1.01±2.25</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1.75±3.91</td><td>0</td><td>0</td></tr><tr><td>角果藜 Ceratocarpus arenarius</td><td>0</td><td>3.24±4.70</td><td>0.41±0.91</td><td>0</td><td>0</td><td>1.72±3.86</td><td>0</td><td>0.23±0.51</td><td>0</td><td>0</td><td>0.41±0.92</td><td>1.70±3.81</td></tr><tr><td>对节刺Horaninovia ulicina</td><td>1.24±1.72</td><td>5.72±5.35</td><td>3.58±6.45</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1.39±1.96</td><td>0</td></tr><tr><td>卷果涩芥 Malcolmia scorpioides</td><td>3.10±4.52</td><td>0.83±1.85</td><td>7.26±6.95</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>条叶庭荠Alyssum linifolium</td><td>15.23±19.24</td><td>1.95±4.36</td><td>6.06±5.96</td><td>0</td><td>3.73±8.33</td><td>7.16±4.11</td><td>0</td><td>3.17±7.09</td><td>9.46±14.64</td><td>22.87±12.81</td><td>20.99±17.33</td><td>17.90±7.32</td></tr><tr><td>弯e曲四齿eurata</td><td>0</td><td>0.44±0.98</td><td>1.86±4.16</td><td>0</td><td>1.43±3.20</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>丝叶芥Leptaleum filifolium</td><td>0</td><td>0</td><td>2.24±5.00</td><td>2.50±3.45</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>沙葱Allium mongolicum</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5.29±11.83</td></tr><tr><td>顶冰花 Gagea lutea</td><td>10.40±23.26</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>琉苞菊Hyalea pulchella</td><td>0</td><td>0</td><td>1.96±4.39</td><td>0</td><td>26.50±25.54</td><td>15.72±11.77</td><td>6.79±7.14</td><td>4.89±6.69</td><td>12.08±17.54</td><td>21.07±9.27</td><td>8.94±5.46</td><td>8.85±6.67</td></tr><tr><td>小甘菊 Cancrinia discoidea 疏齿千里光</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2.82±6.30</td><td>1.31±2.94</td><td>0</td></tr><tr><td>Senecio subdentatus</td><td>18.22±16.78</td><td>2.54±5.69</td><td>1.05±2.36</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8.37±8.44</td><td>0</td><td>0.96±2.14</td><td>0</td></tr><tr><td>白茎绢蒿 Seriphidium terraealbae</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2.42±5.40</td><td>0</td><td>0</td><td>0</td><td>10.31±9.50</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>2.11±4.72</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>小花荆芥 Nepeta micrantlm</td><td>0</td><td>16.75±11.86</td><td>2.42±3.39</td><td>1.49±1.49</td><td>2.10±4.70</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3.57±2.84</td></tr><tr><td>簇花芹 Soranthus meyeri</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8.73±19.53</td><td>0</td><td>0</td><td>0</td></tr><tr><td>齿稃草 Schismus arabicus</td><td>0.66±0.90</td><td>0.57±1.26</td><td>3.51±5.77</td><td>1.36±1.88</td><td>2.06±4.60</td><td>3.61±4.08</td><td>9.21±6.94</td><td>2.98±2.84</td><td>0</td><td>0.40±0.89</td><td>0</td><td>6.16±7.13</td></tr><tr><td>东方旱麦 tale</td><td>4.32±6.30</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2.06±2.83</td><td>0</td><td>0</td><td>0</td><td>1.64±3.66</td><td>1.06±2.36</td></tr></table></body></html>
+
+Tab.3PerMANOVAanalysis of diferences inplantcommunitystructure inbiologicalcrustsof GurbantunggutDese   
+
+<html><body><table><tr><td></td><td>I-裸沙</td><td>I-藻 结皮</td><td>I-地衣 结皮皮</td><td>I-苔藓 结皮皮</td><td>Ⅱ-裸沙</td><td>Ⅱ藻结皮</td><td>Ⅱ-地衣 结皮皮</td><td>Ⅱ-苔藓 结皮皮</td><td>Ⅲ-裸沙</td><td>Ⅲ-藻 结皮</td><td>Ⅲ-地衣 结皮皮</td><td>Ⅲ-苔藓 结皮</td></tr><tr><td>I-裸沙</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I-藻结皮</td><td>0.1615</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I-地衣结皮</td><td>0.0079</td><td>0.0401</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I-苔藓结皮</td><td>0.0082</td><td>0.0158</td><td>0.0644</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ⅱ-裸沙</td><td>0.0506</td><td>0.0233</td><td>0.0074</td><td>0.0063</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ⅱ-藻结皮</td><td>0.0078</td><td>0.0078</td><td>0.0089</td><td>0.0071</td><td>0.0073</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ⅱ-地衣结皮</td><td>0.0066</td><td>0.0074</td><td>0.0081</td><td>0.007</td><td>0.0082</td><td>0.9076</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ⅱ-苔藓结皮</td><td>0.0411</td><td>0.1073</td><td>0.1388</td><td>0.3991</td><td>0.0393</td><td>0.0079</td><td>0.0096</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ⅲ-裸沙</td><td>0.4605</td><td>0.0157</td><td>0.0084</td><td>0.0074</td><td>0.0177</td><td>0.0082</td><td>0.0081</td><td>0.0066</td><td></td><td></td><td></td><td></td></tr><tr><td>Ⅲ-藻结皮</td><td>0.0571</td><td>0.0265</td><td>0.007</td><td>0.0083</td><td>0.0211</td><td>0.0173</td><td>0.0079</td><td>0.0377</td><td>0.0076</td><td></td><td></td><td></td></tr><tr><td>Ⅲ-地衣结皮</td><td>0.0073</td><td>0.0166</td><td>0.0079</td><td>0.0416</td><td>0.0086</td><td>0.0242</td><td>0.023</td><td>0.1734</td><td>0.0087</td><td>0.2164</td><td></td><td></td></tr><tr><td>Ⅲ-苔藓结皮</td><td>0.0068</td><td>0.0076</td><td>0.0173</td><td>0.031</td><td>0.0169</td><td>0.0081</td><td>0.0074</td><td>0.1502</td><td>0.0094</td><td>0.0543</td><td>0.8252</td><td></td></tr></table></body></html>
+
+注：I代表一号点;Ⅱ代表二号点;Ⅲ代表三号点。
+
+![](images/f150402d922d3296fef5d73e42c9620dc00fcf0f6983dd52a4336e31fe039bb4.jpg)  
+图4古尔班通古特沙漠生物结皮中草本植物群落结构与土壤理化性质的关系  
+Fig.4 Relationship between plant community structure and soil physico-chemical properties in the Gurbantonggut Desert
+
+# 3讨论
+
+在本研究中，生物结皮不同演替阶段的草本植物物种组成、优势度和群落结构均呈明显的差异，在沙漠相距 $6 0 \mathrm { k m }$ 左右的不同样点中，植物群落结构也存在显著差异。造成这种差异的主要原因可能与植物种子的生物学特性、生物结皮物种组成、演替过程引起的土壤理化特征的变化以及沙漠不同样点之间的土壤异质性存在密切关系。
+
+表3古尔班通古特沙漠生物结皮中植物群落结构差异性的PerMANOVA分析  
+表4植物群落与理化性质的Manteltest分析 Tab.4 Mantel test analysis of plant community and physicochemical properties   
+
+<html><body><table><tr><td>理化性质</td><td>r</td><td>P</td></tr><tr><td>有机质/(g·kg-1)</td><td>-0.143</td><td>0.038*</td></tr><tr><td>全氮/(g·kg-1)</td><td>-0.103</td><td>0.100</td></tr><tr><td>硝态氮/(mg·kg-1)</td><td>0.004</td><td>0.939</td></tr><tr><td>铵态氮/(mg·kg-1)</td><td>-0.021</td><td>0.801</td></tr><tr><td>全磷/(g·kg-1)</td><td>-0.103</td><td>0.100</td></tr><tr><td>全钾/(g·kg-1)</td><td>-0.141</td><td>0.047°</td></tr><tr><td>速效磷/(mg·kg-1)</td><td>0.283</td><td>0.001**</td></tr><tr><td>速效钾/(mg·kg-1)</td><td>-0.115</td><td>0.089</td></tr><tr><td>总盐/(mg·g)</td><td>-0.002</td><td>0.979</td></tr><tr><td>pH</td><td>0.099</td><td>0.021°</td></tr><tr><td>黏粒(<2μm)/%</td><td>0.241</td><td>0.007**</td></tr><tr><td>粉粒(2~20μm )/%</td><td>0.251</td><td>0.009**</td></tr><tr><td>细沙 (20~200 μm)/%</td><td>-0.084</td><td>0.271</td></tr><tr><td>中沙 (0.2~0.5 mm)/%</td><td>0.084</td><td>0.231</td></tr><tr><td>粗沙(> 0.5 mm)/%</td><td>-0.063</td><td>0.463</td></tr></table></body></html>
+
+注：\*代表 $P { < } 0 . 0 5$ ;\*\*代表 $P { < } 0 . 0 1$ 。
+
+# 3.1生物结皮微地形和种子生物学特性对植物多样性的影响
+
+在本研究中，植物物种组成和优势度在生物结中的琉包菊优势度显者高于地衣结皮和鲜结皮；一号点和三号点裸沙中的尖喙牛儿苗优势度显著低于生物结皮的其他阶段;条叶庭荠是藻结皮和地衣结皮阶段常见优势物种。蛇麻黄是藓结皮中占明显优势的标志性物种。引起这种变化的主要原因可能与生物结皮演替导致的微环境变化和种子生物学特性有关。生物结皮的发育也能改变土壤表面的微地形,在裸沙中均是松散的沙土，藻结皮土壤表面光滑，但藻结皮很难保持完整和紧实状态,会存在一些细小裂缝，为小种子的殖入提供了条件28；地衣结皮明显增加了土表的粗糙度,表面崎岖不平,植物种子更易于在凹陷的微生境中殖入,增加了种子与土壤接触的程度,这可能有助于种子吸水和发芽[29];藓结皮在古尔班通古特沙漠以大小不一的斑块存在，藓结皮斑块藓类植物密集成群分布，对一些植物种子或根接触土壤设置物理屏障，不利于种子植物在藓结皮中萌发和定居[24.30]。在生物结皮对种子萌发的实验证实了藓结皮显著抑制沙漠一些植物种子的萌发,如梭梭、粗枝猪毛菜（Salsola subcrassa）心叶驼绒藜(Ceratoides ewers-manniana)和角果藜[31]。不同微形态的生物结皮对植物不同形态的种子具有一定的筛选作用。如狭果鹤虱种子背部被小瘤状突起,背面中央有数短刺且种皮坚硬[32],易于固定在裸沙表面,在适宜条件下有助于种子的萌发。尖喙拢牛儿苗具锥形繁殖体,其果实带有芒、刚毛、柔毛等附属物,芒基部具有一段螺旋结构，当空气湿润时发生解螺旋运动，能够穿透生物结皮成功定局，并被生物结皮提供的微环境所庇护[33]。因此，尖喙牛儿苗在多数生物结皮类型中成为优势物种，与其种子特殊的形态结构密不可分。囊果苔草果实的泡状果囊和琉苞菊的果实的冠毛均适于风力传播[34],决定了它们的种子分布相对均匀，不同类型生物结皮微地形的差异对大小和形态不同的种子分布。同时,植物种子的生物学特性差异亦会影响其多样性,如囊果苔草种子存在休眠现象,低温贮藏可显著提高囊果苔草种子的萌发率[35，冬季不同的雪盖深度对土壤温度的影响可能会影响休眠的解除,从而影响种子萌发。条叶庭荠繁殖体的粘液现象使其具粘沙能力,是种子降低位移、适应流沙或干旱环境的一种有效手段36]。
+
+# 3.2生物结皮类型及物种组成对植物多样性的影响
+
+本研究发现,植物群落结构在不同类型生物结皮中表现出显著的差异，植物多样性在不同类型结皮也表现出一定的差异,如在一号点和三号点样方中出现的草本和半灌木植物的物种丰富度随结皮演替呈逐渐上升趋势,地衣结皮最高，而在藓结皮明显下降。三号点生物结皮中植物 Shannon-Win-ner指数在结皮演替过程中亦显著升高。这与生物结皮不同演替阶段的物种组成有密切关系。裸沙微生物种类和数量均很低，土壤养分非常匮乏，裸沙中植物相对较少,多是耐贫瘠的短命植物,如尖喙牛儿苗、囊果苔草、狭果鹤虱、条叶庭荠和琉苞菊[12,20,37-38]。当藻结皮形成后,蓝藻、真核藻类及其他光合固碳微生物种类和数量逐渐增加,其光合作用增加了土壤中有机碳源,对荒漠表层土壤养分的提高起着关键作用[2.38]；当藻结皮发育为地衣结皮，结皮中地衣植物和其中的藻类使光合能力进一步增强,为土壤积累更多的碳素[10.39];同时,地衣结皮中固氮微生物种类和数量进一步增多，其固氮作用增加了土壤中氮素含量4°。在生物结皮演替过程中,细菌和真菌生物量显著增加,其中的异养微生物通过对有机质的矿化作用增加了养分的有效性，土壤中养分的增加将支持更多植物种类和个体的生长[41-42]。前期研究表明,在古尔班通过古特沙漠沙垄坡部和垄间低地藻结皮和地衣结皮中有大量的种子植物，包括小花荆芥、琉苞菊、尖喙牛儿苗、角果藜、囊果苔草、条叶庭芥等，说明藻结皮和地衣结皮对种子植物的萌发和存活具有一定的促进作用[43-44]。研究还发现,生物结皮中不同蓝藻的胞外多糖对植物种子的萌发具一定的影响作用，如具鞘微鞘藻、眼点伪枝藻胞外多糖对琉苞菊种子萌发具有明显的抑制作用,但对粗枝猪毛菜的种子萌发表现为低浓度抑制、高浓度促进作用;具鞘微鞘藻对小花荆芥种子萌发无明显的促进，但眼点伪枝藻和地木耳对小花荆芥种子萌发具有抑制作用[45]。藓结皮地表多被致密的藓类植物所覆盖[24],密集的苔藓层对维管植物种的殖入和萌发具有明显的抑制作用,这可能是由于密集的苔藓层的阻隔作用，阻碍了种子与土壤直接接触,另一方面,苔藓植物具有极强的吸水能力[4，与维管束植物的种子存在强烈的水分竞争关系，使得植物种子难以获取足够的水分，因此藓结皮对植物种子的阻挡作用和对水分的竞争作用，使植物种子很难进人土壤萌发，使其物种数和个体大幅降低。古尔班通古特沙漠藓结皮样方中均存在大量的蛇麻黄，其优势度占绝对优势地位，这主要是因为蛇麻黄和藓结皮的优势物种赤肋齿藓之间存在密切的关系，蛇麻黄可以为藓类植物遮阴，在降雨时对雨水起到富集作用，为苔藓植物的生长提供了适宜的生境。
+
+# 3.3生物结皮在不同尺度下的土壤环境异质性对植物多样性的影响
+
+土壤中大多数生命物质有机质、全 $\mathrm { \Delta N , N H _ { 4 } { - N } }$ 和 $N _ { 3 } { \mathrm { - } } \mathrm { N }$ 、速效磷和速效钾含量随生物结皮的演替呈显著升高趋势。生物结皮演替过程中土壤养分的逐渐增加为维管植物的存活和生长提供了宝贵的养分条件，直接影响着维管植物种子的散布、萌发和定居[2]。庄伟伟等[47]发现生物结皮的存在显著增加了尖喙牛儿苗、条叶庭介和琉苞菊3种荒漠草本植物对N和K的吸收，而对P的吸收无显著影响。
+
+生物结皮中的植物群落在沙漠相距 $6 0 \mathrm { k m }$ 的不同样点之间呈显著或极显著的差异，植物群落与有机质、速效磷、全 $\mathrm { K , p H }$ 、粉粒呈显著的相关关系，这表明植物群落受土壤养分、 $\mathrm { \cdot \ p H }$ 和土壤质地等综合因素的影响。对沙漠不同样点土壤理化特征的PCA分析发现，三号点结皮层的土壤理化特征与一号点和二号点呈现明显的差异，第一轴和第二轴分别解释总变异的 $5 3 . 5 1 \%$ 和 $1 6 . 1 7 \%$ (图5)，这表明在沙漠的不同区域的土壤理化特征存在明显的异质性，土壤空间异质性影响养分的供应，在一定程度上影响着植物的物种组成和丰度，导致植物的群落结构发生显著的变化。在古尔班通古特沙漠研究发现,土壤有机质、N和P的含量差异和生物结皮发育形成了微生境的差异性，全钾、有效N和电导率与蛇麻黄、白茎绢蒿和沙蒿(Artemisia desertorum)群落中草本植物的物种丰富度呈正相关,而pH与物种丰富度呈负相关关系，这也证实了土壤异质性对植物多样性的影响[48-49]。研究还发现生物结皮能够影响白梭梭、蛇麻黄、角果藜、涩芥和狭果鹤虱等荒漠植物对土壤中N元素的吸收，增加了它们在荒漠生态系统的适应能力[50]。生物结皮对有机碳的积累促进了土壤微生物和酶活性的提高，通过矿化作用为植物的萌发生长提供有效养分[2]。在森林生态系统研究表明，碱解氮和速效磷是能被植物直接利用的土壤养分，对植物的影响作用较大，N/P越高，物种丰富度越低，说明P元素在植物生长中发挥的关键作用[51]。在祁连山中度退化和重度退化草地中,研究发现有效P、速效N、有机质和 $\mathrm { \ p H }$ 因子对植被生物量呈明显的正相关关系[52]。本研究中，二号样点中裸沙和藻结皮的养分含量明显低于一号点和三号点（如 $\mathrm { N O } _ { 3 } – \mathrm { N }$ 、有机质、全N、全P和 $\mathrm { \ p H }$ ),二号点地衣结皮的全 $N _ { \mathrm { \bullet } } \mathrm { N O } _ { 3 } – \mathrm { N \_ N H \mathrm { - } N } .$ 速效钾和 $\mathrm { \ p H }$ 亦低于一号点和三号点;三号点裸沙中速效磷、粉粒和黏粒含量显著高于另两个样点。这些样点土壤养分、pH和土壤质地的差异造成了明显的土壤环境异质性，为植物的存活和生长提供了多样的环境，从而影响草本植物的物种组成和群落结构。
+
+![](images/27210ff9df128c20f89322b3b996263bb0205b7e5b882a5dbd729e72788a3027.jpg)  
+图5生物结皮理化特征的空间异质性分析  
+Fig.5Spatial heterogeneity of physicochemical factors
+
+# 4结论
+
+在古尔班通古特沙漠，生物结皮不同类型影响草本植物的物种组成和群落结构。尖喙牛儿苗和囊果苔草几乎在生物结皮各类型均占明显的优势；藻结皮与裸沙、地衣结皮和藓结皮之间的植物群落之间呈显著或极显著水平。不同生物结皮类型的微地形差异和物种组成、种子的不同生物学特性和不同尺度中的土壤环境异质性共同影响草本植物在生物结皮中的物种组成和丰度，最终导致草本植物群落结构在生物结皮中的演替变化。生物结皮中的有机质、速效磷、全钾 $\mathrm {  ~ \cdot ~ } \mathrm {  ~ \ p H ~ }$ 和粉粒是影响植物群落结构的关键土壤理化因子。
+
+致谢：感谢王敬竹老师、尹本丰老师、李永刚博士、陆永兴博士在野外调查时给予的大力帮助。
+
+# 参考文献(References):
+
+[1]Eldridge D J, Greene R S B.Microbiotic soil crusts: A review of their roles in soil and ecological processes in the rangelands of Australia[J]. Australian Journal of Soil Research,1994,32(3): 389-415.   
+[2]Belnap J, Lange O L. Biological Soil Crusts: Structure,Function, and Management[M].Berlin,Heideberg,New York,Hong Kong, London,Milan,Paris,Tokyo: Springer,2003.   
+[3]李新荣,张元明,赵允格.生物土壤结皮研究:进展、前沿与展望 [J].地球科学进展,2009,24(1):11-24.[Li Xinrong, Zhang Yuanming, Zhao Yunge.A study of biological soil crusts: Recent development,trend and prospect[J]. Advances in Earth Science,2009, 24 (1): 11-24.]   
+[4]Bowker MA.Biological soil crust rehabilitation in theory and practice: An underexploited opportunity[J]. Restoration Ecology,2007, 15(1): 13-23.   
+[5]刘永定,胡春香,张文军.荒漠蓝藻环境生物学与生物土壤结皮 固沙[M].北京:科学出版社,2013.[Liu Yongding,Hu Chunxiang,Zhang Wenjun.Environmental Biology of Desert Cyanobacteria and Biological Soil Crusting and Sand Fixation[M].Beijing: Science Press, 2013.]   
+[6]Lan SB, Wu L, Zhang DL. Successional stages of biological soil crusts and their microstructure variability in Shapotou region (China)[J].Environmental Earth Sciences,2012,65(1):77-88.   
+[7]Zhang B C, Zhang Y M, Zhao JC. Microalgal species variation at different successional stages in biological soil crusts of the Gurbantunggut Desert,Northwestern China[J]. Biology and Fertility of Soils,2009,45(5): 539-547.   
+[8]Zhang Y M. The microstructure and formation of biological soil crust in their early developmental stage[J]. Chinese Science Bulletin,2005,50: 117-121.   
+[9]Hu C X,Liu Y D.Primary succession of algal community structure in desert soil[J].Acta Botanica Sinica,2003,45(8): 917-924.   
+[10]Zhang B C, Zhang Y Q,Li X Z. Successional changes of fungal communitiesalong the biocrust development stages[J]. Biology and Fertility of Soils,2018,54: 285-294.   
+[11]Zhang Y M, Chen J,Wang L.The spatial distribution patterns of biological soil crusts in the Gurbantunggut Desert,Northern Xinjiang, China[J]. Journal of Arid Environments,2007,68(4): 599-610.   
+[12] Zhang B C,Zhou X B, Zhang Y M. Responses of microbial activities and soil physical-chemical properties to the successional process of biological soil crusts in the Gurbantunggut Desert, Xijiang [J]. Journal of Arid Land,2015,7(1): 101-109.   
+[13] Li XR,Jia X H,LongL Q.Eects of biological soil crusts on seed bank,germination and establishment of two annual plant species in the Tengger Desert (N China)[J]. Plant and Soil,2005,277(1- 2): 375-385.   
+[14]Su YG,Li XR, Zheng JG.The efect of biological soil crusts of different successional stages and conditions on the germination of seeds of three desert plants[J]. Journal of Arid Environments, 2009,73(10): 931-936.   
+[15]Belnap J,Prasse R,Harper K T. Influence of biological soil crusts on soil environments and vascular plants[C]//Belnap J, L OL. Biological Soil Crusts: Structure,Function，and Management. New York: Springer,Berlin Heidelberg,2003: 281-300.   
+[16] 苏延桂,李新荣,陈应武,等.生物土壤结皮对荒漠土壤种子库 和种子萌发的影响[J].生态学报,2007,27(3):938-946.[Su Yangui,Li Xinrong, Chen Yingwu,etal.Efects of biological soil crusts on soil seed bank and seed germination of desert plants in North China[J]. Acta Ecologica Sinica,2007,27(3): 938-946.]   
+[17] 郭轶瑞,赵哈林,左小安,等.科尔沁沙地生物结皮的土壤种子 库特征[J].水土保持学报,2007,21(6):187-191.[Guo Yirui, Zhao Halin, Zuo Xiao'an,et al.Characteristics of crust soil seed bank in Horqin Sandy Land [J]. Journal of Soil and Water Conservation,2007,21(6): 187-191.]   
+[18] 陈荣毅,张元明,潘伯荣,等.古尔班通古特沙漠土壤养分空间 分异与干扰的关系[J].中国沙漠,2007,27(2):257-265.[Chen Rongyi, Zhang Yuanming,Pan Borong,et al. Relation between disturbance andspatial heterogeneityof soilnitrationin Gurbantunggut Desert[J]. Journal of Desert Research,2007,27(2): 257-265.]   
+[19]Hernandez R R, Sandquist D R.Disturbance of biological soil crust increases emergence of exotic vascular plants in California sage scrub[J]. Plant Ecology,2011,212(10): 1709-1721.   
+[20] 张立运,陈昌笃.论古尔班通古通沙漠植物多样性的一般特点 [J].生态学报,2002,22(11):1923-1932.[Zhang Liyun,Chen Changdu.On the general characteristics of plant diversity of Gurbantunggut Sandy Desert[J]. Acta Ecologica Sinica,2002,22 (11): 1923-1932. ]   
+[21] 王雪芹,张元明,蒋进.古尔班通古特沙漠南部沙垄水分动态 一兼论积雪融化和冻土变化对沙丘水分分异作用[J].冰川 冻土,2006,28(2): 262-268.[Wang Xueqin, Zhang Yuanming, Jiang Jin.Variation patern of soil water content in longitudinal dune in the Southern part of Gurbantinggit Desert: How snowmelt and frozen soil change affect the soil moisture[J]. Journal of Glaciology and Geocryology,2006,28(2): 262-268.]   
+[22] 张元明.荒漠地表生物土壤结皮的微结构及其早期发育特征 [J].科学通报,2005,50(1): 42-47.[Zhang Yuanming.Microstructure and early development characteristics of crusts in desert surface biological soil[J]. Chinese Science Bulletin,2005,50(1): 42-47.]   
+[23]Zhang Y M,Wang HL,Wang XQ,et al. The microstructure of microbiotic crust and its influence on wind erosion for a sandy soil surface in the Gurbantunggut Desert of northwestern China[J]. Geoderma,2006,132(3-4): 441-449.   
+[24] 张元明,潘惠霞,潘伯荣.古尔班通古特沙漠不同地貌部位生物 结皮的选择性分布[J].水土保持学报,2004,18(4):61-64. [Zhang Yuanming,Pan Huixia,Pan Borong.Distribution characteristics of biologicalcrust onsanddune surface in Gurbantunggut Desert,Xinjiang[J]. Journal of Soil and Water Conservation,2004, 18(4): 61-64.]   
+[25] Zhang B C,Li R H, Xiao P,et al. Cyanobacterial composition and spatial distribution based on pyrosequencing data in the Gurbantunggut Desert,Northwestern China[J].Journal of Basic Microbiology,2016,56(3): 308-320.   
+[26] Zhang B C, Zhou X B, Zhang Y M.Responses of microbial activities and soil physical-chemical properties to the successional process of biologicalsoilcrustsintheGurbantungut Desert, Xinjing [J]. Journal of Arid Land,2015,7(1): 101-109.   
+[27] 郭水良,于晶,陈国奇.生态学数据分析—方法、程序与软件 [M].北京：科学出版社,2015:60-63[Guo Shuiliang,Yu Jing, Chen Guoqi.Ecological Data Analysis:Methods,Procedures and Software[M]. Beijing: Science Press,2015: 60-63.]   
+[28] Liu Y B, Zhao L N,Wang Z R,et al. Changes in functional gene structure and metabolic potential of the microbial community in biological soil crusts along a revegetation chronosequence in the Tengger Desert [J]. Soil Biology& Biochemistry,2018,126: 40-48.   
+[29]Deines L,Rosentreter R,Eldridge D J,et al.Germination and seedling establishment of two annual grasses on lichen-dominated biological soil crusts[J].Plant and Soil,2007,295(1-2): 22-35.   
+[30] 龙利群,李新荣.土壤微生物结皮对两种一年生植物幼苗存活 和生长的影响[J].中国沙漠,2003,23(6):53-57.[Long Liqiong, Li Xinrong.Effects of soil microbiotic crusts on seedling survival and sedling growth of two annual plants[J]. Journal of Desert Research,2003,23(6): 53-57.]   
+[31] 李国栋,张元明.生物土壤结皮与种子附属物对4种荒漠植物 种子萌发的交互影响[J].中国沙漠,2014,34(3):725-731.[Li Guodong,Zhang Yuanming.Interactive effects of biological soil crusts and seed appendages on seed germination of four desert species [J]. Journal of Desert Research,2014,34(3): 725-731.]   
+[32] 聂华丽,张元明,吴楠,等.生物结皮对5种不同形态的荒漠植 物种子萌发的影响[J].植物生态学报,2009,33(1):161-170. [Nie Huali, Zhang Yuanming,Wu Nan,et al. Effects of siolocical crusts on the germination offive desert vascular plants with diferent seed morphologies [J]. Chinese Journal of Plant Ecology,2009, 33(1): 161-170.]   
+[33] 王莎莎,张元明.尖喙牛儿苗繁殖体外部形态特征[J].生态学 杂志,2010, 29(5):855-861.[Wang Shasha, Zhang Yuanming. Morphological characteristics of Erodium oxyrrhynchum diaspore [J]. Chinese Journal of Ecology,2010,29(5): 855-861.]   
+[34]张学涛.三种菊科短命植物的生殖生态学研究[D].乌鲁木齐: 新疆农业大学,2006.[Zhang Xuetao.The Reproductive Ecology on Three Species of Ephemeral Plants in Asteraceae [D]. Urumqi: Xinjiang Agricultural University,2006.]   
+[35]布海丽且姆·阿卜杜热合曼.中国干旱区18种豆科植物和短命 植物囊果苔草的种子萌发特性研究[D].北京:中国科学院大 学,2015.[Buhailim Abdu Therhaman. Study on Seed Germination Characteristics of 18 Species of Leguminous Plants and Shortlived Carex physodes in Arid Regions of China [D]. Beijing: University of Chinese Academy of Sciences,2015.]
+
+[36]宋明方.准噶尔荒漠150种植物传播体形态特征及其生态适应
+
+[D].乌鲁木齐：中国科学院新疆生态与地理研究所,2009. [Song Mingfang.Morphological Characteristics of 150 Plant Vectorsin Junggar Desert and Their Ecological Adaptation[D]. Urumqi: Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences,2009.]   
+[37] 王雪芹,蒋进,雷加强,等.古尔班通古特沙漠短命植物分布及 其沙面稳定意义[J].地理学报,2003,58(4):598-605.[Wang Xueqing,Jiang Jin,Lei Jiaqiang,etal. The distribution of ephemeral vegetation on the longitudinal dune surface and its stabilization significance in the Gurbantunggut Desert[J]. Acta Geographica Sinica,2003,58(4): 598-605.]   
+[38] Zhang B C, Kong W D,Wu N,et al. Bacterial diversity and community along the succession of biological soil crusts in the Gurbantunggut Desert, Northern China[J]. Journal of Basic Microbiology, 2016,56(6): 670-679.   
+[39]Housman D C,Powers H H, Collins A D,et al. Carbon and nitrogen fixation differ between successional stages of biological soil crusts in the Colorado Plateau and Chihuahuan Desert[J]. Journal of Arid Environments,2006,66(4): 620-634.   
+[40]Yeager C M,Kornosky JL,Housman D C,et al.Diazotrophic com munity structure and function in two successional stages of biological soil crusts from the Colorado Plateau and Chihuahuan Desert[J]. Applied and Environmental Microbiology,2004,70(2): 973-983.   
+[41] 李新荣,回嵘,赵洋.中国荒漠生物土壤结皮生态生理学研究 [M].北京:高等教育出版社,2016:1-45.[Li Xinrong,Hui Rong, Zhao Yang.Eco-physiology of Biological Soil Crusts in Desert Regions of China [M]. Beijing: Higher Education Press,2016: 1-45.]   
+[42] Xu L, Zhu BJ,Li C N,et al. Development of biological soil crust prompts convergent succession of prokaryotic communities[J]. Catena, 2020,187: 104360.   
+[43] 张元明,杨维康,王雪芹,等.生物结皮影响下的土壤有机质分 异特征[J].生态学报,2005,25(12):3420-3425.[Zhang Yuanming,Yang Weikang, Wang Xueqin,etal.Influence of cryptogamic soil crusts on accumulation of soil organic matter in Gurbantunggut Desert, northern Xinjiang,China [J].Acta Ecologica Sinica,2005,25(12): 3420-3425.]   
+[44] 张元明,陈晋,王雪芹,等.古尔班通古特沙漠生物结皮的分布 特征[J].地理学报,2005,60(1): 53-60.[Zhang Yuanming, Chen Jin,Wang Xueqin,et al.The distribution patternsof biological soil cust in Gurbantunggut Desert[J].Acta Geographica Sinica, 2005,60(1): 53-60.]   
+[45] 龚健,张丙昌,索菲娅.生物结皮中优势蓝藻胞外多糖对几种荒 漠草本植物种子萌发的影响[J].中国沙漠,2015,35(3):639- 644.[ Gong Jian, Zhang Bingchang, Sophia.Influence of exopolysaccharides from dominant cyanobacteria in microbiotic crusts on seed germination of several desert herbaceous plants [J]. Journal of Desert Research,2015,35(3): 639-644.]   
+[46] 吴鹏程.中国科学院植物研究所苔藓标本室的足迹[J].植物杂 志,1998(4): 14-15.[Wu Pengcheng. Footprint of moss herbarium, institute of botany,Chinese academy of sciences[J].Plants,1998 (4): 14-15.]
+
+[47]庄伟伟,周晓兵，张元明.生物结皮对古尔班通古特沙漠3种荒 漠草本植物生长特性与元素吸收的影响[J].植物研究,2017, 37(1):37-44.[ZhuangWeiwei,Zhou Xiaobing,Zhang Yuanming.Effects of biological soil crusts on growth and nutrient uptake in three desert herbs in the Gurbantunggut Desert,Northwestern China [J].Bulletin of Botanical Research,2O17,37(1): 37-44.]
+
+[48]Tao Y,Zhang Y M. Seasonal changes in composition and distribution of herbaceous plants on sand dunes in Gurbantunggut Desert of China[J]. Vegetos-An International Journal of Plant Research, 2013,26(2):80-87.
+
+[49]李亚萍,蒋进,宋春武,等.莫索湾地区典型沙丘土壤因子与短 命植物物种多样性的关系[J].干旱区研究,2018,35(4):912- 919.[Li Yaping, Jiang Jin, Song Chunwu,et al.Relationship Between soil factors and ephemeral plant species diversity on typical sand dunes in the Mosuowan Region[J]. Arid Zone Research, 2008,35(4): 912-919.]
+
+[50]张元明,聂华丽.生物土壤结皮对准噶尔盆地5种荒漠植物幼 苗生长与元素吸收的影响[J].植物生态学报,2011,35(4):380- 388.[Zhang Yuanming,Nie Huali.Effects of biological soil crusts on seedling growth and element uptake in five desert plants in Junggar Basin,western China[J].Chinese Journal of Plant Ecology,2011,35(4): 380-388.]
+
+[51]刘晓,丛静,卢慧,等.典型阔叶林的物种多样性分布和环境解 释[J].生态科学,2016,35(4):125-133.[Liu Xiao,Cong Jing,Lu Hui,et al.Distribution of species diversity and environmental interpretation of typical broadleaved forests[J]. Ecological Science, 2016,35(4): 125-133.]
+
+[52] 张建贵,王理德,姚拓,等.东祁连山不同退化草地植物群落特 征与土壤养分特性[J].水土保持学报,2019,33(1):227-233. [Zhang Jiangui,Wang Lide,Yaotuo,et al. Characteristics of plant community and soil nutrient of different degraded grasslands in East Qilian Mountains [J]. Journal of Soil and Water Conservation, 2019,33(1): 227-233.]
+
+# Effects of biological soil crust type on herbaceous diversity in the Gurbantunggut Desert
+
+LI Bin'，WU Zhifang'，TAO $\mathrm { Y e } ^ { 2 }$ ，ZHOU Xiaobing²， ZHANG Bingchang' (1.School of GeographicalSciences,Shanxi Normal University,LinfenO41ooo,Shanxi, China; 2.State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography,Chinese Academy of Sciences,Urumqi 830O11,Xinjiang, China)
+
+Abstract: As pioneer community and ecosystem engineers in desert ecosystems, biological soil crusts (BSCs) play critical roles in maintaining soil surface stability and improving ecosystem function in arid regions. BSCs affect the seed dispersal,germination,and survival of vascular plants.However,the efectofBSCs on herbaceous plant diversity in the Gurbantunggut Desert is stillunknown.In this study,we investigated the factors influencing herbaceous plant diversityin bare sand and three BSC types (algae,lichen,and moss crusts) in northern,central, and southern regions of the Gurbantunggut Desert.We detected significant differences in soil physicochemical properties among BSC types.For example,soil organic mater,total N,total P,total K,clay,silt,and fine sand contents significantly increased with BSC development; however, sand and coarse sand contents declined significantly. Moreover, spatial heterogeneity was obvious among desert regions.The nutrient content and pH in bare sandand algal crusts at Site 2 were lower than those at Sitel and Site 3.Herbaceous plant richness and Shannon-Wiener diversity increased with BSC successon. The species composition and community structure also varied significantly among BSC types and desert areas. Soil physicochemical properties,soil organic matter, available P,total K,pH,and silt were identifiedas key factors shaping the herbaceous plant community structure. Thechanges in microtopographyand species composition in diferent BSC types,biological properties of seeds and soil,and environmental heterogeneity may all contribute to herbaceous plant species composition and abundance in BSCs, leading to herbaceous plant community succession.
+
+Keywords: biological soil crusts； successon; herbaceous plant; species diversity； Gurbantunggut Desert

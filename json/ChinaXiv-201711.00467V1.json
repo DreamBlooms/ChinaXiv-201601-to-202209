@@ -1,0 +1,552 @@
+[
+    {
+        "type": "text",
+        "text": "王悦赵同科 邹国元杨金凤田 壮　李新荣\\*(北京市农林科学院植物营养与资源研究所，北京100096)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：畜禽养殖舍是重要的氨气 $\\mathrm { ( N H } _ { 3 } )$ 排放源，了解畜禽舍 $\\mathrm { N H } _ { 3 }$ 排放特性及其减排措施对于畜禽健康生产和环境健康均具有重要意义。本文综述了国内外有关猪、鸡、牛3种主要畜禽养殖舍内的 $\\mathrm { N H } _ { 3 }$ 排放特性，对于不同畜禽舍内影响其 $\\mathrm { N H } _ { 3 }$ 排放的关键影响因素进行了探讨，并对3种畜禽舍的 $\\mathrm { N H } _ { 3 }$ 排放因子进行了比较，总结了当前广泛采用的各类畜禽舍内的$\\mathrm { N H } _ { 3 }$ 减排技术，包括从源头的饲料优化、排泄后粪便添加剂使用、舍内空气净化处理以及外排空气过滤装置等，构建了全方位的畜禽舍 $\\mathrm { N H } _ { 3 }$ 减排措施体系，对于了解畜禽舍 $\\mathrm { N H } _ { 3 }$ 排放特性，以及减排措施的选择具有重要参考意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：畜禽舍；氨气；排放特性；减排技术中图分类号：S811 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "畜禽养殖是重要的氨气(NH3)排放源。Myles[1]估计，对于全球来说，农业NH占全球 $\\mathrm { N H } _ { 3 }$   \n排放的 $6 0 \\%$ 以上；其中畜牧业 $\\mathrm { N H } _ { 3 }$ 排放是全球 $\\mathrm { N H } _ { 3 }$ 排放最重要的来源，占到全球 $\\mathrm { N H } _ { 3 }$ 排放的  \n$3 9 \\% ^ { [ 2 ] }$ 。在美国和欧洲畜，牧业产生的粪便被广泛用作作物肥料，因而其畜牧业产生的 $\\mathrm { N H } _ { 3 }$   \n排放可以达到两地区 $\\mathrm { N H } _ { 3 }$ 排放的 $8 0 \\% ^ { [ 3 - 4 ] }$ 。中国是重要的养殖大国，中国畜牧业 $\\mathrm { N H } _ { 3 }$ 排放占到  \n中国 $\\mathrm { N H } _ { 3 }$ 排放的 $6 0 \\%$ ，占到全球人为NH3排放总量的 $1 3 . 6 \\% ^ { [ 5 ] }$ 。随着中国社会经济的进一步发  \n展，中国人均对肉蛋奶产品的需求将进一步增加，中国畜禽养殖业 $\\mathrm { N H } _ { 3 }$ 排放将进一步增加。畜禽场NH3的排放对畜禽自身健康有极大的影响。 $\\mathrm { N H } _ { 3 }$ 是公认的应激源，是动物圈舍内  \n最有害的气体。 $\\mathrm { N H } _ { 3 }$ 可诱导家禽、猪等动物多种呼吸道疾病的发生[，导致禽类的腹水症、",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2017-04-14",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家重点研发计划项目（2017YFD0801405)；国家自然科学基金项目(31702154);国家重点研发计划项目（2016YFD0800903）；公益性行业（农业）科研专项经费项目(201503107)；北京市自然科学基金（8142018）  \n作者简介：王悦（1989—)，女，浙江丽水人，助理研究员，博士，主要从事畜禽养殖空气环境质量研究。E-mail: yuewang2008 $@$ 126.com  \n\\*通信作者：李新荣，副研究员，E-mail:xr0955@sina.com眼疾等[7]，降低畜禽的生长、生产性能[6]，甚至造成死亡率升高[8]。为了保证畜禽场的环境质量，保证畜禽的健康生长，国家相关部门分别对各种畜禽舍的 $\\mathrm { N H } _ { 3 }$ 浓度设置了指标要求。如NY/T 388-1999《畜禽场环境质量标准》中要求猪舍、牛舍、禽舍NH3浓度需分别保持在$2 5 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 、 $2 0 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 和 $ { 1 0 { \\sim } } 1 5  { \\mathrm { m g } } /  { \\mathrm { m } } ^ { 3 }$ 以下[9]。  \n畜禽养殖业 $\\mathrm { N H } _ { 3 }$ 的排放不仅影响到了畜禽自身的健康生长，同时畜禽养殖排放的大量 $\\mathrm { N H } _ { 3 }$ 已成为重要的大气环境污染源。 $\\mathrm { N H } _ { 3 }$ 的大量排放会造成水体富营养化污染，生态系统的酸化[10]；此外，研究已经证明， $\\mathrm { N H } _ { 3 }$ 也是大气气溶胶的重要前体物，其通过大气化学反应生成的硝酸铵、硫酸铵等是大气气溶胶细粒子 $\\mathrm { P M } _ { 2 . 5 }$ 的重要组成部分[II]，并对灰霾的形成有重要影响[12]。在中国日益严格的环保标准之下，中国畜禽养殖业 $\\mathrm { N H } _ { 3 }$ 排放控制已经成为制约畜禽养殖业发展的重要命题。  \n畜禽养殖舍作为畜禽养殖 $\\mathrm { N H } _ { 3 }$ 排放的重要源头，研究畜禽舍的 $\\mathrm { N H } _ { 3 }$ 排放特性及其减排措施对于畜禽健康生产和环境健康均具有重要意义。本文选取了中国最主要的3种畜禽—一猪、鸡、牛，对国内外畜禽养殖过程中有关畜禽舍的 $\\mathrm { N H } _ { 3 }$ 排放及减排的研究进行综述，以期在中国未来集约化养殖过程中为畜禽养殖舍 $\\mathrm { \\cdot N H } _ { 3 }$ 排放监测以及后续减排措施的设计提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1不同畜禽舍 $\\mathrm { N H } _ { 3 }$ 排放特性",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1猪舍 $\\mathrm { N H } _ { 3 }$ 排放 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "垫料型猪舍相比传统水泥地面、深坑系统猪舍 $\\mathrm { \\cdot N H } _ { 3 }$ 排放量低（表1)。朱志平等[13]研究报道垫料型猪舍 $\\mathrm { N H } _ { 3 }$ 春夏季平均浓度在 $5 . 9 { \\sim } 6 . 8 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 之间，传统水泥地面对照舍为14.5\\~16.7$\\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 之间，垫料型猪舍内 $\\mathrm { N H } _ { 3 }$ 的平均浓度只有传统水泥地面对照舍的 $4 0 \\%$ 。Kim等[14]的研究也显示，深坑系统和固液分离系统猪舍的 $\\mathrm { N H } _ { 3 }$ 排放浓度以及排放量均是垫料舍相应指标的$2 { \\sim } 3$ 倍（表1）。 $\\mathrm { N H } _ { 3 }$ 主要是猪尿液和粪便在空气中挥发造成，垫料可以将粪便和尿液吸收和混合，可以减少其挥发的可能性；同时垫料内可以形成优良的好氧厌氧复合环境，利于硝化反硝化细菌活动使 $\\mathrm { N H } _ { 3 }$ 转化为一氧化二氮（ $\\mathbf { N } _ { 2 } \\mathbf { O }$ ）和氮气（ $\\mathbf { \\dot { N } } _ { 2 }$ ）排放；而水泥地面或者深坑等液体管理方式使粪便与空气有更大的表面接触面积，因而造成更高的 $\\mathrm { N H } _ { 3 }$ 排放[13-14]。但是也有部分研究认为垫料系统相比深坑系统具有更高的NH3排放[15]，研究人员认为可能是垫料堆积内部发酵后产生高温、pH升高所致。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于自然通风猪舍，季节变化对舍内NH3浓度具有明显的影响。一般情况下，冬季舍由于通风量低，造成舍内NH3浓度明显高于夏季，但是排放通量处于全年最低水平。朱志平等[16]对育肥猪舍 $\\mathrm { N H } _ { 3 }$ 排放研究结果显示，2004年7月（夏季）舍内 $\\mathrm { N H } _ { 3 }$ 平均浓度为 $\\langle 3 . 4 4 \\pm 2 . 3 4 \\$ ）$\\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ，2005年1月（冬季）舍内 $\\mathrm { N H } _ { 3 }$ 平均浓度为（ $1 0 . 0 9 { \\scriptstyle \\pm 4 . 6 0 }$ ） $\\mathrm { m g / m ^ { 3 } }$ ，相应的排放通量分别为1564、 $4 4 4 ~ \\mathrm { m g / }$ （AU·h） ( $1 \\mathrm { A U } = 1$ animal unit $\\mathrm { \\ t = 5 0 0 ~ k g }$ 动物质量)。夏季猪舍通风量大，舍内 $\\mathrm { N H } _ { 3 }$ 浓度相对较低，但是排放通量却呈现较高水平；而冬季由于关窗保温，通风量低，造成冬季舍内 $\\mathrm { N H } _ { 3 }$ 浓度很高，但是 $\\mathrm { N H } _ { 3 }$ 排放通量却最低。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3abade46060f1ae907aab4b254cfc860f6bbf46dab53bca04db8bc763cb168ed.jpg",
+        "table_caption": [
+            "表1猪舍 $\\mathrm { N H } _ { 3 }$ 浓度和排放统计",
+            "Table 1Summary of $\\mathrm { N H } _ { 3 }$ concentration and emission reported for pig houses "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">国家 Country</td><td rowspan=\"2\"></td><td rowspan=\"2\">生长阶段 Growth stage</td><td rowspan=\"2\">舍内粪便管理方式 In-house manure management method</td><td rowspan=\"2\">通风方式 Ventilation type</td><td rowspan=\"2\">浓度 Concentration/(mg/m³)</td><td colspan=\"2\">排放因子</td><td rowspan=\"2\">参考文献 Reference</td></tr><tr><td></td><td>Emission factor kg/(AU·a)</td></tr><tr><td rowspan=\"2\">韩</td><td></td><td>育肥猪</td><td>深坑式</td><td>自然通风</td><td>2.1~10.2</td><td>g/（头·d） 6.8</td><td>16.59</td><td></td></tr><tr><td>国 育肥猪</td><td></td><td>固液分离式</td><td></td><td></td><td>6.3</td><td>15.39</td><td>Kim 等[14]</td></tr><tr><td>Korea</td><td></td><td>育肥猪</td><td>垫料式</td><td>自然通风 自然通风</td><td>3.1~9.5 0.8~5.1</td><td>2.0</td><td>4.96</td><td></td></tr><tr><td>中 China</td><td>国</td><td>育肥猪</td><td>垫料式</td><td>自然通风</td><td>5.9±2.7</td><td>16.0~29.4</td><td>36.5~54.0</td><td>Dong 等[17]</td></tr><tr><td>中</td><td>国</td><td>育肥猪</td><td>垫料式</td><td>自然通风</td><td>5.9~6.8</td><td></td><td></td><td></td></tr><tr><td>China</td><td></td><td>育肥猪</td><td>传统水泥舍</td><td>自然通风</td><td>14.5~16.7</td><td></td><td></td><td>朱志平等[13]</td></tr><tr><td>中国 China</td><td></td><td>育肥猪</td><td>干清粪</td><td>自然通风</td><td>3.4~10.7</td><td>2.6~10.2</td><td>3.9~14.0</td><td>朱志平等[16]</td></tr><tr><td>丹 Denmark</td><td>麦</td><td>育肥猪</td><td>深坑式</td><td>机械通风</td><td></td><td>4.7~6.5</td><td>11.2~16.6</td><td>Zong 等[18]</td></tr><tr><td>比利时</td><td></td><td></td><td>垫料式</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Belgium</td><td></td><td>妊娠期</td><td></td><td>机械通风</td><td></td><td>7.5~8.4</td><td>5.7~6.4</td><td>Philippe 等[19]</td></tr><tr><td>美国USA</td><td></td><td>妊娠猪 妊娠猪</td><td>深坑式 塞流式</td><td>机械通风</td><td>11.15±5.43</td><td></td><td>11.83</td><td>Rahman 等[20]</td></tr><tr><td>荷</td><td>兰</td><td>育成猪</td><td>深坑式</td><td>机械通风 机械通风</td><td>5.37±2.25 2.2~3.3</td><td>0.7~1.2</td><td>4.20 6.9~11.5</td><td>Aarnink 等[21]</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 鸡舍 $\\mathrm { N H } _ { 3 }$ 排放 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "清粪频率对鸡舍内 $\\mathrm { N H } _ { 3 }$ 排放具有重要影响。Mendes等[22]认为蛋鸡舍内 $\\mathrm { N H } _ { 3 }$ 排放速率随着粪便堆积的时间指数增加，可能是由于鸡粪中的大量有机氮在贮存过程中缓慢分解形成 $\\mathrm { N H } _ { 3 }$ 排放[23]。高床系统、垫料系统和清粪带系统被广泛地应用于鸡的饲养中。采用高床饲养，鸡粪可能在鸡舍内存储半年到一年才被处理出舍外；采用垫料饲养，鸡粪排泄后与垫料混合在一起一直贮存在舍内，因而高床系统和垫料系统舍内一般 $\\mathrm { N H } _ { 3 }$ 浓度相对较高（表2）[24-25]。相比高床系统，清粪带系统由于可以较高频率地将鸡粪送出舍外（如每日1次），可以使鸡舍内保持较好的环境[25-26]，舍内 $\\mathrm { N H } _ { 3 }$ 浓度明显低于其他清粪系统条件下的 $\\mathrm { N H } _ { 3 }$ 浓度（表2）。Liang等[25]研究发现，高床饲养的蛋鸡舍内 $\\mathrm { N H } _ { 3 }$ 浓度可以达到 $6 . 8 { \\sim } 8 2 . 0 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ，但是清粪带系统的蛋鸡舍内NH3浓度仅为 $0 . 8 { \\sim } 5 . 3 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "垫料使用时间的长短对鸡舍内 $\\mathrm { N H } _ { 3 }$ 排放具有重要影响。如Koerkamp等[27]报道垫料舍肉鸡的 $\\mathrm { N H } _ { 3 }$ 排放因子在 $0 . 2 1 { \\sim } 0 . 4 8 ~ \\mathrm { g } /$ （只·d），但是在Casey等[24]的研究中，垫料舍肉鸡的 $\\mathrm { N H } _ { 3 }$ 排放因子达到1.21\\~1.66 g/（只·d）。Casey等[24]研究中指出，在美国，垫料一般会被至少使用1年，长久使用过程中垫料上累积的大量鸡粪中部分有机氮逐渐转化为氨氮，造成 $\\mathrm { N H } _ { 3 }$ 排放升高。Bums等[28]直接对比了肉鸡舍内采用新垫料和老垫料对舍内 $\\mathrm { N H } _ { 3 }$ 排放的影响，采用新垫料时舍内NH3排放为（ $\\langle 0 . 4 9 { \\scriptstyle \\pm 0 . 3 7 }$ ）g/（只·d）[（ $1 2 . 3 6 { \\scriptstyle \\pm 9 . 3 6 }$ ）g/（舍·d）]，采用老垫料时为 $( 0 . 5 8 { \\pm } 0 . 3 5 ) \\mathrm { g / }$ （只·d）[（ $1 4 . 5 5 { \\scriptstyle \\pm 8 . 9 9 }$ ）g/（舍·d)]。  \n通风系统的优良性对于鸡舍 $\\mathrm { N H } _ { 3 }$ 排放具有极显著影响。相比规模化养殖舍，简易鸡舍一般采取自然通风，不能对通风进行有效控制，导致NH浓度远远超标，部分简易鸡舍冬季 $\\mathrm { N H } _ { 3 }$ 浓度甚至可以超过 $1 0 0 \\mathrm { m g / m ^ { 3 [ 2 9 ] } }$ 。相比自然通风，机械通风则可以较好地对鸡舍的环境进行调控，使 $\\mathrm { N H } _ { 3 }$ 浓度一直保持在较低范围内，同时机械通风舍内肉鸡死亡率是自然通风舍的1/2（ $4 . 5 \\%$ Vs. $1 0 . 5 \\%$ )，饲料转换率相较更好（1.98 vs.2.66)；同时，肉鸡体重大，且出现结膜炎的概率较低[30]。  \n此外，包括鸡的生长日龄以及季节的变化等都会对舍内 $\\mathrm { N H } _ { 3 }$ 浓度或者 $\\mathrm { N H } _ { 3 }$ 排放造成影响。对于具有生长周期变化的肉鸡饲养来说，日龄增长的影响非常显著。Pescatore 等[31]将肉鸡的生长周期分为4个阶段，在 $< 1 0$ 日龄时， $\\mathrm { N H } _ { 3 }$ 排放因子由 $0 { \\sim } 0 . 5 7 \\ \\mathrm { \\ g } /$ （只·d）逐渐上升到>48 日龄的0.71\\~2.34g/（只·d）。对于季节变化的影响，一般来说在冬季通风量较低",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "； 的条件下，舍内 $\\mathrm { N H } _ { 3 }$ 浓度显著高于夏季[32]；但是整体 $\\mathrm { N H } _ { 3 }$ 排放通量同时受通风量的影响，」夏季由于通风量大， $\\mathrm { N H } _ { 3 }$ 排放通量高于冬季[33]。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8513fc86bf2ce7b7f4edad424b48da44112ada4146b46c55611e144b9ef84bf4.jpg",
+        "table_caption": [
+            "表2鸡舍 $\\mathrm { N H } _ { 3 }$ 浓度和排放统计",
+            "Table 2Summary of $\\mathrm { N H } _ { 3 }$ concentration and emission reported for poultry houses "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">国家 Country</td><td rowspan=\"2\">鸡种类 Poultry type</td><td rowspan=\"2\">季节 Season</td><td rowspan=\"2\">舍内粪便管理方式 In-house manure management method</td><td rowspan=\"2\">通风 Ventilation type</td><td rowspan=\"2\">浓度 Concentration/(mg/m3)</td><td colspan=\"2\">排放因子 Emission factor</td><td rowspan=\"2\">参考文献 Reference</td></tr><tr><td>g/herd/d</td><td>kg/AU/yr</td></tr><tr><td rowspan=\"2\">中国China</td><td rowspan=\"2\">肉鸡</td><td rowspan=\"2\"></td><td rowspan=\"2\">清粪带</td><td rowspan=\"2\">机械通风</td><td rowspan=\"2\">5.39 (0.30~19.20)</td><td></td><td></td><td rowspan=\"2\">周忠凯等[26]</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"2\">阿尔及利亚 Algeria</td><td rowspan=\"2\">肉鸡</td><td rowspan=\"2\"></td><td rowspan=\"2\">垫料</td><td rowspan=\"2\">自然通风</td><td rowspan=\"2\">7.1~31.2</td><td></td><td></td><td rowspan=\"2\">Alloui等[30]</td></tr><tr><td>6.8~19.5</td><td></td></tr><tr><td rowspan=\"2\">美国USA</td><td rowspan=\"2\">肉鸡</td><td rowspan=\"2\"></td><td rowspan=\"2\">垫料</td><td rowspan=\"2\">机械通风</td><td rowspan=\"2\">14~52</td><td rowspan=\"2\">1.21~1.66</td><td>83.2~108.8</td><td rowspan=\"2\">Casey 等[24]</td></tr><tr><td>24.09</td></tr><tr><td rowspan=\"2\">Canada</td><td rowspan=\"2\">大 肉鸡</td><td rowspan=\"2\"></td><td rowspan=\"2\">垫料 温暖季节</td><td rowspan=\"2\">机械通风</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td></td><td rowspan=\"2\">Roumeliotis 等[33]</td></tr><tr><td></td></tr><tr><td rowspan=\"4\">中国China</td><td rowspan=\"4\">肉鸡</td><td rowspan=\"4\">冬季</td><td>垫料</td><td rowspan=\"4\"></td><td>12.88±9.90 14.67±6.92</td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\">问鑫[32]</td></tr><tr><td>网上平养</td><td>机械通风</td></tr><tr><td>垫料</td><td>6.27±2.67</td></tr><tr><td>网上平养</td><td>8.61±2.35</td></tr><tr><td rowspan=\"2\">美国USA</td><td rowspan=\"2\">蛋鸡</td><td rowspan=\"2\"></td><td>高床</td><td>机械通风</td><td>6.8~82</td><td>1.06</td><td>120.82</td><td rowspan=\"2\">Liang 等[25]</td></tr><tr><td>清粪带</td><td>机械通风</td><td>0.8~5.3</td><td>0.14</td><td>16.06</td></tr><tr><td>中国China</td><td>蛋鸡</td><td>四季</td><td>每日清粪</td><td>自然通风</td><td></td><td>0.12±0.04</td><td>12.19</td><td>Zhu 等[34]</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.3牛舍 $\\mathrm { N H } _ { 3 }$ 排放 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "相比其他畜禽舍，牛舍在牛的整个生长过程中一般保持较低的温度，同时一般会配备刮粪板系统以保持较好的舍内环境，因而 $\\mathrm { N H } _ { 3 }$ 排放一般较低。在有关奶牛舍NH排放的相关研究中， $\\mathrm { N H } _ { 3 } .$ 浓度一般保持在 $0 . 0 3 { \\sim } 6 . 5 0 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ， $\\mathrm { N H } _ { 3 }$ 排放量为5.8\\~134.4 g/(头 $\\mathbf { \\nabla } \\cdot \\mathbf { d } .$ ） $[ 1 . 9 6 { \\sim } 3 7 . 0 \\mathrm { k g / }$ (AU $\\cdot$ a）]（表3）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "牛舍一般以自然通风为主，自然通风舍内环境受季节变化影响大，舍内温度的变化对$\\mathrm { N H } _ { 3 }$ 排放影响显著。自然通风奶牛舍内，冬季 $\\mathrm { N H } _ { 3 }$ 浓度最低，同时 $\\mathrm { N H } _ { 3 }$ 排放量也最低(表3)[35-36]。对于高寒地区的奶牛或者肉牛生产，冬季保温的必要性可能会促使密闭式牛舍的建造。王亚男等[37研究了中国坝上草原高寒地区有窗密闭奶牛舍的 $\\mathrm { N H } _ { 3 }$ 浓度，其中特牛舍 $\\mathrm { N H } _ { 3 }$ 浓度最高为 $5 . 2 8 ~ \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ，奶牛舍 $\\mathrm { N H } _ { 3 }$ 最高浓度不超过 $9 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 。张杰等[38]研究了冬季屋顶机械负压通风方式对肉牛舍空气环境质量的影响，测得牛舍内 $\\mathrm { N H } _ { 3 }$ 浓度在 $\\mathrm { 1 { \\sim } 4 \\ m g / m ^ { 3 } }$ 。不同于生猪饲养和禽类饲养，牛的饲养除需要牛舍外，一般都会匹配一定的运动场。因而除牛舍会产生 $\\mathrm { N H } _ { 3 }$ 排放外，运动场也是牛场 $\\mathrm { N H } _ { 3 }$ 排放的重要来源。Pereira等[39]研究了奶牛舍以及运动场的NH排放，认为一般运动场的 $\\mathrm { N H } _ { 3 }$ 排放占到全部排放的 $6 9 \\% { \\sim } 9 2 \\%$ 。在运动场阶段的 $\\mathrm { N H } _ { 3 }$ -N损失占饲粮摄入氮的 $5 . 3 \\% { \\sim } 9 . 2 \\%$ ，占到排泄氮的 $7 . 1 \\% { \\sim } 1 2 . 0 \\%$ 。同时，舍外运动场上 $\\mathrm { N H } _ { 3 }$ 排放受环境影响更大，一般春夏季 $\\mathrm { N H } _ { 3 }$ 排放最高，春夏季排放的 $\\mathrm { N H } _ { 3 }$ 可以占到全年排放的 $7 2 \\%$ 。McGinn等[40]采用扩散法研究了整个奶牛场（包括牛舍、运动场、氧化塘、道路、饲料间等）的 $\\mathrm { N H } _ { 3 }$ 排放，约为 $1 4 0 ~ \\mathrm { g / }$ （头·d），以 $\\mathrm { N H } _ { 3 }$ 形式损失的氮占到饲粮摄入氮的$6 3 \\%$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/9226dcd765be655b059b7b2438bc5cb5a658693a0f42aeb8a2e166444c5c9e1e.jpg",
+        "table_caption": [
+            "表3牛舍 $\\mathrm { N H } _ { 3 }$ 浓度和排放统计",
+            "Table 3Summary of $\\mathrm { N H } _ { 3 }$ concentration and emission reported for cattle houses "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">国家</td><td colspan=\"2\">牛舍种类</td><td colspan=\"2\">舍内粪便管理方式</td><td rowspan=\"2\"></td><td>监测月份或季节</td><td rowspan=\"2\">通风方式</td><td rowspan=\"2\">浓度</td><td colspan=\"2\">排放因子</td><td rowspan=\"2\">参考文献</td></tr><tr><td>Country</td><td>Cattle house</td><td>In-house</td><td>manure management</td><td> Monitoring month or</td><td></td><td>Emission factor</td></tr><tr><td></td><td>Type</td><td></td><td>method</td><td></td><td></td><td>season</td><td>type</td><td>Concentration/(mg/m3)</td><td>g/herd/d</td><td>kg/AU/yr</td><td>Reference</td></tr><tr><td>美</td><td>国</td><td>开放式奶牛舍</td><td>刮粪板系统</td><td></td><td></td><td>冬天</td><td>自然通风</td><td>0.18(0.03~3.33)</td><td></td><td>1.96</td><td>Schmidt 等[36]</td></tr><tr><td>USA</td><td></td><td></td><td></td><td></td><td></td><td>夏天</td><td></td><td>0.87(0.24~3.73)</td><td></td><td>4.21</td><td></td></tr><tr><td></td><td></td><td></td><td>混泥土地面，刮粪板系统</td><td></td><td></td><td>8~12月</td><td></td><td></td><td></td><td>12.7~37.0</td><td></td></tr><tr><td>丹 Denmark</td><td>麦</td><td>开放式奶牛舍</td><td>混泥土地面，刮粪板+水冲系统</td><td></td><td></td><td>8~12月</td><td>自然通风</td><td></td><td></td><td>4.4~11.9</td><td>Zhang 等[41]</td></tr><tr><td></td><td></td><td></td><td>漏缝地板，刮粪板系统</td><td></td><td></td><td>8~12月</td><td></td><td></td><td></td><td>6.8~14.0</td><td></td></tr><tr><td>瑞</td><td>典</td><td></td><td>漏缝地板，水冲系统</td><td></td><td></td><td>8~12月</td><td></td><td></td><td></td><td>5.1~31.0</td><td></td></tr><tr><td>Sweden</td><td></td><td>开放式奶牛舍</td><td>刮粪板系统</td><td></td><td></td><td>2~5月</td><td>自然通风</td><td>2.4±1.0</td><td>23.5(5.8~99.1)</td><td>7.1(3.5~13.14)</td><td>Ngwabie 等[42]</td></tr><tr><td>德 Germany</td><td>国</td><td>开放式奶牛舍</td><td>刮粪板系统</td><td></td><td></td><td>7~8月</td><td>自然通风</td><td>0.5~5</td><td>93.6~134.4</td><td>15.77~35.92</td><td>Fiedler 等[43]</td></tr><tr><td>美</td><td>国</td><td></td><td></td><td></td><td>冬天</td><td></td><td></td><td></td><td>6.6~17.0</td><td></td><td></td></tr><tr><td>USA</td><td></td><td>开放式奶牛舍</td><td>刮粪板系统</td><td></td><td>夏季</td><td></td><td>自然通风</td><td></td><td>32~33</td><td></td><td>Flesch 等[35]</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>秋季</td><td></td><td></td><td></td><td>16~37</td><td></td><td></td></tr><tr><td>中</td><td>国</td><td>密闭式奶牛舍</td><td>人工清粪</td><td></td><td>冬天</td><td></td><td>机械通风 2~9</td><td></td><td></td><td></td><td>王亚男等[37]</td></tr><tr><td>China</td><td></td><td>密闭式犊牛舍</td><td>人工清粪</td><td></td><td>冬天</td><td></td><td>自然通风</td><td>1~5.28</td><td></td><td></td><td></td></tr><tr><td>美 USA</td><td>国</td><td>肉牛饲喂场</td><td></td><td></td><td>一年</td><td></td><td>自然通风</td><td>0.28~0.57</td><td>85.3</td><td>45.79</td><td>Rhoades 等[44]</td></tr><tr><td>中</td><td>国</td><td>半开放式肉牛</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>China</td><td>舍</td><td></td><td></td><td></td><td></td><td>冬季</td><td>机械通风</td><td>1~4</td><td></td><td></td><td>张杰等[38]</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2畜禽舍NH3排放对比",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "将收集到的有关生猪、奶牛、肉牛、蛋鸡、肉鸡舍 $\\mathrm { N H } _ { 3 }$ 排放的相关文献数据结果采用R3.3.1软件进行统计得到箱形图（图1和图2）。在各种畜禽舍中，肉鸡舍NH浓度最高，牛舍 $\\mathrm { \\Delta N H _ { 3 } }$ 浓度最低；其中蛋鸡舍的 $\\mathrm { N H } _ { 3 }$ 排放受舍内粪便管理方式影响巨大，采用高床饲养的蛋鸡舍内$\\mathrm { N H } _ { 3 }$ 浓度和 $\\mathrm { N H } _ { 3 }$ 排放通量在各类畜禽舍中最高，而每日清粪管理的蛋鸡舍 $\\mathrm { N H } _ { 3 }$ 浓度和排放通量则均处于较低的水平。 $\\mathrm { N H } _ { 3 }$ 排放除受畜禽舍舍内管理方式差异的影响外，各畜禽排泄粪便自身特性的差异对 $\\mathrm { \\cdot N H } _ { 3 }$ 排放也有影响。李路路[45]采用人工气候箱控制存储条件，对比了不同畜禽（猪、奶牛、肉牛、蛋鸡、肉鸡）粪便贮存77d中的 $\\mathrm { N H } _ { 3 }$ 排放，发现蛋鸡、肉鸡粪便的$\\mathrm { N H } _ { 3 }$ 排放总量是猪的 $1 . 9 \\sim 2 . 4$ 倍，是牛的 $6 . 6 \\sim 1 7 . 4$ 倍。鸡粪内部较高的总氨氮（TAN）含量可能是造成其 $\\mathrm { N H } _ { 3 }$ 高排放的主要因素，蛋鸡粪初始TAN含量为 $1 2 . 3 ~ \\mathrm { g / k g }$ 湿粪，而牛粪为1.2\\~1.9 g/kg湿粪，猪粪为 $4 . 6 ~ \\mathrm { g / k g  i }$ 湿粪。周忠凯等[26]研究表明，肉鸡在整个生产期内舍内以NH3形式排放的氮占粪便排泄总氮的 $5 0 \\%$ 以上。Koerkamp等[27]对英国、荷兰、丹麦、德国4个国家的不同畜禽舍（牛舍、猪舍、禽舍）内的气体排放进行了监测，发现牛舍、猪舍、禽舍内 $\\mathrm { N H } _ { 3 }$ 浓度分别为低于 $6 . 1 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 、 $3 . 8 { \\sim } 1 3 . 7 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 、 $3 . 8 { \\sim } 2 2 . 8 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ； $\\mathrm { N H } _ { 3 }$ 排放通量分别为2.76\\~15.75 kg/ （AU $\\cdot$ a）、5.69\\~32.86 kg/（AU $\\cdot$ a）、 $5 . 2 7 { \\sim } 9 5 . 4 1 \\mathrm { k g / }$ （AU $\\cdot$ a），明确证明了鸡舍巨大的NH3排放潜力。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c820c59fc8595e06c72fef1dd8003f94c1d82831739ad509e16824120918dbb7.jpg",
+        "img_caption": [
+            "图1各畜禽舍内 $\\mathrm { N H } _ { 3 }$ 浓度"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa782d79b2f0a5e10d06552ac89376a4f8e21b6fc42158c24c0207f36ece46f6.jpg",
+        "img_caption": [
+            "图2各畜禽舍 $\\mathrm { N H } _ { 3 }$ 排放通量",
+            "Fig.1NH3 concentration in different livestock houses ",
+            "Fig.2 $\\mathrm { N H } _ { 3 }$ emission flux in different livestock houses "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$3 \\mathrm { \\Delta N H _ { 3 } }$ 减排措施",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1优化饲粮组成采用低蛋白质饲粮减少 $\\mathrm { N H } _ { 3 }$ 排放。饲粮中含氮物质的摄入是导致畜禽 $\\mathrm { N H } _ { 3 }$ 排放的源头，在合理范围内减少饲粮蛋白质含量对于 $\\mathrm { N H } _ { 3 }$ 排放控制具有明显效果。Burgos等[46]研究指出，随着奶牛饲料粗蛋白质（CP）含量从 $2 1 \\%$ 减少到 $1 5 \\%$ ，排泄粪便中 TAN 含量从 $5 0 8 . 7 \\mathrm { m g / L }$ 下降为 $2 2 8 . 2 \\mathrm { m g / L }$ ，排放的 $\\mathrm { N H } _ { 3 }$ 从 $1 4 9 \\ : \\mathrm { g } / \\$ （头 $\\mathbf { \\nabla } \\cdot \\mathbf { d } ^ { \\cdot }$ ）下降为 $5 7 \\ \\mathrm { g } / \\$ （头·d)；经由 $\\mathrm { N H } _ { 3 }$ 损失的氮占初始氮摄入的比例由 $20 \\%$ 下降为 $12 \\%$ 。同时在有关猪的研究中发现采用低蛋白质饲粮可将猪舍 $\\mathrm { N H } _ { 3 }$ 排放减少 $5 8 \\% [ 4 7 ]$ 。但是如果将饲粮CP含量降低到 $10 \\%$ 以下，将会影响小公牛的生长[48]。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "采用饲料添加剂减少 $\\cdot \\mathrm { N H } _ { 3 }$ 排放。通过使用饲料添加剂优化饲粮组成，以此提高畜禽对氮的吸收，继而减少氮的排泄，最终获得 $\\mathrm { N H } _ { 3 }$ 减排的目的。被证明对于 $\\mathrm { \\cdot N H } _ { 3 }$ 减排有效的饲料添加剂包括丝兰提取物、干全酒糟及其可溶物（DDGS）、麦麸、大豆壳、酶益生素等。研究发现，猪饲粮中添加丝兰提取物，机械通风口排出 $\\mathrm { N H } _ { 3 }$ 的浓度可以从 $1 . 1 0 \\mathrm { \\ m g } / \\mathrm { m } ^ { 3 }$ 降低至$0 . 8 9 { \\sim } 0 . 9 9 \\mathrm { m g / m } ^ { 3 [ 4 7 ] }$ ；蛋鸡饲粮中分别添加DDGS、麦麸和大豆壳，7d累积 $\\mathrm { N H } _ { 3 }$ 排放由对照组的 $3 . 9 \\ : \\mathrm { g / k g }$ 粪便干物质减少为1.9、2.1和 $2 . 3 ~ \\mathrm { g / k g }$ 粪便干物质[49]；蛋鸡饲粮中加入 $5 ~ \\mathrm { g / k g }$ 的酶益生素可以将 $\\mathrm { N H } _ { 3 }$ 排放减少 $2 1 \\%$ ，同时可显著降低料蛋比，极显著提高产蛋率、平均蛋重[50]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2使用粪便添加剂",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "用于畜禽舍内 $\\mathrm { N H } _ { 3 }$ 减排的粪便添加剂有很多种类，但是主要是通过降低粪便的pH或者通过对 $\\mathrm { N H } _ { 3 }$ 的吸附作用来达到 $\\mathrm { N H } _ { 3 }$ 减排的目的，常用的粪便添加剂包括硫酸盐、稀硫酸、沸石等。在鸡舍的垫料上加入硫酸氢钠，可使鸡舍NH排放减少 $5 0 \\%$ 左右；同时硫酸盐的使用对饲料转化率和体重都无显著影响，且脚垫质量提高[51]。通过添加硫酸盐，垫料的pH和氨氮含量降低，但是总氮和有机氮含量提高[51]。Neerackal等[52]在实验室中模拟了奶牛粪污酸化对 $\\mathrm { N H } _ { 3 }$ 的减排效果，采用 $1 \\ \\mathrm { m o l / L }$ 的稀硫酸将循环使用的牛舍冲洗水pH保持在4.5，发现酸化可使牛舍粪污的 $\\mathrm { N H } _ { 3 }$ 排放减少 $70 \\%$ ；同时保持牛舍冲洗水闭环回冲2次的使用效率，可使硫酸的使用量减少 $82 \\%$ ，具有很好的经济实用性。斜发沸石作为一种无腐蚀、无害的垫料添加剂，在应用于肉鸡垫料舍 $\\mathrm { \\Delta N H } _ { 3 }$ 的控制时可使肉鸡舍内 $\\mathrm { N H } _ { 3 }$ 浓度降低 $6 0 \\% ^ { [ 5 3 ] }$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3采用舍内喷雾 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在实际应用中，一般会将舍内喷雾对NH的减排作用和对颗粒物（PM）的减排作用结合考虑。喷雾一般包括喷酸雾或者喷洒酸性电解水（acidic electrolyzed water）。Jensen[54]采用喷酸雾的方法对猪舍内的NH3和PM进行减排。保持酸雾pH为5.5，同时确保粪便收集池内猪粪pH一直低于5.5，短期的观察结果表明猪舍内 $\\mathrm { N H } _ { 3 }$ 浓度可以从 $6 . 1 { \\sim } 7 . 6 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 降低到$0 . 8 { \\sim } 1 . 5 ~ \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ，可吸入性颗粒物可以从 $1 . 0 0 ~ \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 降低到 $0 . 2 8 ~ \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ，总颗粒物从 $2 . 7 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 降低到 $1 . 2 \\mathrm { \\ m g } / \\mathrm { m } ^ { 3 }$ ；猪的生长性能获得提高，同时粪便中氮素的提高有益于粪便的肥料化利用。采用微酸性电解水对于减少舍内PM排放具有很好的效果（减排效率达到 $7 1 \\% \\sim 8 9 \\%$ ），但是即使控制电解水为酸性条件（如pH为3或5），却并不一定能保证舍内 $\\mathrm { N H } _ { 3 }$ 排放的下降;研究认为微酸性电解水过高的喷洒量若导致垫料含水率相比不喷洒组升高 $2 { \\sim } 3$ 倍，则造成$\\mathrm { N H } _ { 3 }$ 排放显著上升[55]。除对 $\\mathrm { N H } _ { 3 }$ 和PM的作用效果外，微酸性电解水可以通过氧化作用有效地控制畜舍内病原微生物，但这种技术仍局限于小范围测试，大面积推广问题仍待解决。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4采用专用的空气捕集系统",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在专用的空气捕集系统中，各类 $\\mathrm { N H } _ { 3 }$ 的吸收剂不是直接铺洒于粪便上，而是通过将吸收剂置于一定的设施内，通过将气体直接捕集至这一设施内以实现对 $\\mathrm { N H } _ { 3 }$ 的减排处理。垫料舍内 $\\mathrm { N H } _ { 3 }$ 主要来自于垫料上粪便的分解，Lahav等[56]认为垫料附近（ $1 0 \\mathrm { c m }$ 以内）的NH浓度是舍内空气中 $\\mathrm { N H } _ { 3 }$ 浓度的1倍，如果将垫料产生的 $\\mathrm { N H } _ { 3 }$ 直接捕集处理则能获得很好的 $\\mathrm { N H } _ { 3 }$ 处理效果。Rothrock等[57]改进了酸液的使用办法，通过将酸液置于具有气体透过性的膜管中来吸收鸡粪产生的 $\\mathrm { N H } _ { 3 }$ ；膜管可以放置于鸡舍垫料表面或者内部， $\\mathrm { N H } _ { 3 }$ 透过膜管壁被酸液吸收形成铵盐。实验室研究结果证明，采用此项技术，鸡粪排放 $\\mathrm { N H } _ { 3 }$ 中 $9 6 \\%$ 可以被酸吸收管吸收，对于畜舍环境健康具有极佳的效果。Lahav等[56则是将酸液放置于舍外，采取单独的气管放置于垫料附近，利用气泵吸取垫料附近的 $\\mathrm { N H } _ { 3 }$ ，将其通入舍外的酸吸收系统中进行处理，其中酸吸收系统内酸液pH控制在0\\~5；当 $\\mathrm { N H } _ { 3 }$ 饱和时，换新的酸吸收液；此装置对于 $\\mathrm { N H } _ { 3 }$ 的减排效率达到 $100 \\%$ 。舍外 $\\cdot \\mathrm { N H } _ { 3 }$ 吸收的方法在肉鸡舍5周的小试中取得了较好的效果，但是未来大规模的应用效果仍需要进一步验证。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.5采取外排空气中 $\\mathrm { N H } _ { 3 }$ 的减排手段",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "除了在舍内通过各种方式对空气中的 $\\mathrm { N H } _ { 3 }$ 直接减排外，通过一定的手段处理外排空气中的 $\\mathrm { N H } _ { 3 }$ ，虽然不能直接减少舍内 $\\mathrm { N H } _ { 3 }$ 的浓度，但是对于畜禽舍向环境中 $\\mathrm { N H } _ { 3 }$ 的排放具有明显的减排效果。常用的处理手段包括空气洗涤、生物滴滤、生物过滤，它们的共同特点是一般均应用于机械通风舍，通过将通风系统与过滤装置进行组合，畜禽舍外排的空气通过通风系统全都进入相关装备进行处理以进行NH3的排放控制，但是均可能会对通风效果造成影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.5.1空气洗涤器",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "空气洗涤器通常呈塔式结构，在塔内部填充孔隙率大，比表面积大的惰性物质或者无机材料；水或者酸液可以从填充塔的顶部往下喷淋，而污染气体则是以横向或者上升的方式注入填充塔，因而使液体和污染气体能有充分的接触，以使气体分子从气相转移到滤料表面的液相环境中进行处理。用于空气洗涤的部分滴滤液持续循环，部分将被排出并被新鲜的液体替代以保持气体的处理效果。空气洗涤的效果取决于气液两相中污染物质的浓度差，气液接触表面积和接触时间[58]。在酸洗涤塔中，通过在液体中添加硫酸等， $\\mathrm { \\ p H }$ 一般被控制在4以内，在较好的运行条件下 $\\mathrm { N H } _ { 3 }$ 的减排效率可以达到 $90 \\% { \\sim } 9 9 \\%$ ；通过清水的添加使吸收液中硫酸铵浓度保持在 $1 5 0 ~ \\mathrm { g / L }$ 左右，耗水量一般每猪位每年在 $7 0 \\mathrm { L }$ ，每肉鸡位每年在 $2 \\mathrm { L } ^ { \\left[ 5 8 \\right] }$ 。在较高的进气 $\\mathrm { N H } _ { 3 }$ 浓度（ $7 5 . 9 \\mathrm { \\ m g } / \\mathrm { m } ^ { 3 }$ ）下，一级洗涤系统对 $\\mathrm { N H } _ { 3 }$ 清除效率较低（ $3 5 \\%$ ），此时通过将其改进为二级或三级塔系统， $\\mathrm { N H } _ { 3 }$ 清除效率可以上升为 $5 7 \\% { \\sim } 6 4 \\% ^ { [ 5 9 ] }$ 。Hadlocon等[60]对Manuzon等[59]构建的三级淋洗系统内部的喷嘴结构等进一步优化，在实验室条件下可使在进气 $\\mathrm { N H } _ { 3 }$ 浓度为 $7 5 . 9 { \\sim } 3 0 3 . 6 ~ \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ 的条件下， $\\mathrm { N H } _ { 3 }$ 减排效果显著提高到 $74 \\% \\sim 8 6 \\%$ 。同时，Hadlocon等[61]对三级酸洗涤塔在1个存栏量为799\\~1000头的深坑式猪舍的应用效果进行了1年的现场监测， $\\mathrm { N H } _ { 3 }$ 年均减排效率可以达到 $8 8 \\%$ ，水和酸液的消耗速率在四季均较低，年均消耗量分别为2.5和 $0 . 1 7 \\mathrm { L } / \\mathrm { d }$ ，每日耗电量在 $0 . 5 6 \\mathrm { k W \\cdot h }$ 。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.5.2生物滴滤系统",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "不同于酸洗涤，生物滴滤是指将溶解的NH通过细菌转化为其他含氮物质以此达到 $\\mathrm { N H } _ { 3 }$ 减排目的的过滤器。生物滴滤系统内部主要由惰性的填充物料，如陶瓷、塑料等构成，填充物料始终保持潮湿的状态，通常微生物附着在填充物料表面形成一层膜， $\\mathrm { N H } _ { 3 }$ 首先被吸收到水中,之后被膜上的硝化细菌[主要是亚硝化单胞菌(Nitrosomonas)和硝化杆菌(Nitrobacter)]氧化为亚硝酸根 $( \\mathrm { N O } _ { 2 } ^ { - } )$ ，并最终转化为硝酸根 $( \\mathrm { N O } _ { 3 } { } ^ { - } ) ^ { [ 6 2 ] }$ 。长期监测结果显示生物滴滤对 $\\mathrm { N H } _ { 3 }$ 的清除效率可以达到 $3 5 \\% { \\sim } 9 0 \\%$ ，平均效率达到 $70 \\%$ 。相比酸洗涤，生物滴滤对水消耗量较大，每猪位每年达到 $7 9 0 \\mathrm { L }$ ，每肉鸡位每年达到 $2 5 \\mathrm { L } ^ { [ 5 8 ] }$ 。Melse等[63]对于肉鸡舍和育肥猪舍实际应用的生物滴滤系统的 $\\mathrm { N H } _ { 3 }$ 减排效果进行了1年的监测，发现 ${ \\mathrm { N H } } _ { 3 }$ 减排效率可以达到 $71 \\% \\sim 8 6 \\%$ 。Andreasen等[64]对一个现场运行的猪舍生物滴滤过滤器的 $\\mathrm { N H } _ { 3 }$ 减排效果进行了评价，该生物滴滤过滤器以陶粒（leca）作为介质，空床停留时间（EBRT）设置为 $1 . 7 { \\sim } 8 . 9 \\mathrm { ~ s ~ }$ ，可以将猪舍排出的 $\\mathrm { N H } _ { 3 }$ 减少 $9 6 \\%$ ；在应用100d之后，发现了一定的堵塞现象，但是粉尘过滤器的安装可以减少这一问题。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.5.3 生物过滤器",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "生物过滤器是一种经济有效的畜禽舍废气处理方法[65]。通过生物过滤器，污染气体通过湿润的介质（如堆肥），其中水溶性的气体被溶解于介质中，随后被微生物分解为无害或者低害的成分。Hood等[65]研究了以堆肥和木屑为介质的猪舍生物过滤器，发现当进气 $\\mathrm { N H } _ { 3 }$ （204号浓度低于 $1 . 1 \\mathrm { \\ m g } / \\mathrm { m } ^ { 3 }$ 时， $\\mathrm { N H } _ { 3 }$ 减排效率达到 $9 0 \\%$ 。Tymczyna等[66]研究了生物过滤器处理蛋鸡舍排出气体的效果，过滤介质为 $3 5 \\%$ 的泥煤、 $3 5 \\%$ 灰黄泥炭、 $10 \\%$ 大麦秸秆以及 $10 \\%$ 来自污水处理厂的污泥和 $10 \\%$ 马舍粪便的堆肥，35d后过滤器仍运行稳定， $\\mathrm { N H } _ { 3 }$ 的生物过滤去除效率为 $36 \\% { \\sim } 8 9 \\%$ 。Akdeniz等[67]现场研究了生物过滤器在奶牛舍、猪舍的应用效果，发现现场试验中 $\\mathrm { N H } _ { 3 }$ 的减排效果与中试规模的减排效果接近， $\\mathrm { N H } _ { 3 }$ 减排效果在 $5 3 \\% { \\sim } 6 4 \\%$ 。同时，研究指出，若是过滤基质使用年限超过3年，则需要测试其压降性能；同时需要经常性地加水以提高生物过滤器的气体减排效率，但是加水过多则会引起 $_ { \\mathrm { . N _ { 2 } O } }$ 排放[67]。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "综上所述，畜禽舍是重要的 $\\mathrm { N H } _ { 3 }$ 排放源，畜禽种类的差异、舍内粪便管理方式的差异、通风方式的差异、生长日龄及季节的变化等都会对畜禽舍内的 $\\mathrm { N H } _ { 3 }$ 排放产生影响。在猪、鸡、牛3种畜禽舍中，由于鸡粪相比猪粪和牛粪具有更高的TAN含量，造成鸡舍内极高的$\\mathrm { N H } _ { 3 }$ 浓度，猪舍次之，而牛舍内 $\\mathrm { N H } _ { 3 }$ 浓度最低；对于畜禽养殖舍 $\\mathrm { N H } _ { 3 }$ 排放的控制应该集中在对鸡舍和猪舍的环境控制上。控制畜禽舍舍内 $\\mathrm { N H } _ { 3 }$ 排放的措施主要有通过低蛋白质饲粮或者采用饲料添加剂的方式调控饲粮组成，或者采用粪便添加剂、空气喷雾等，而采用空气洗涤器、生物过滤、生物滴滤等装置一般将与畜禽舍的机械通风装备相结合，可以有效减少畜禽舍外排空气中的 $\\mathrm { N H } _ { 3 }$ 浓度。在试验研究中已经探索出了多种高效的畜禽舍 $\\mathrm { N H } _ { 3 }$ 减排手段，但是在实际生产过程中由于成本、可操作性、便捷性等问题导致很多减排手段仍不能进行很好地推广应用，通过科学技术研究进一步提高这些方法的应用性仍是当前迫切需要解决的实际问题。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1] MYLES L T.Atmospheric science:underestimating ammonia[J].Nature Geoscience,2009,2(7):461-462. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[2]CLARISSE L,CLERBAUX C,DENTENER F,et al.Global ammonia distribution derived from infrared satellite observations[J].Nature Geoscience,2009,2(7):479-483.   \n[3]EMEP/EEA.Chapter 3.B:Manure management[M]//EEA.EEA air pollutant emission inventory guidebook.Copenhagen:Publications Office of the European Union,2013:3.   \n[4]EPA.Our nation's air status and trend through 2Oo8[J/OL].U.S.Environmental Protection Agency,2010[2010-02-01].https://ntl.bts.gov/lib/33000/33800/33856/fulreport.pdf.   \n[5]PAULOTF,JACOB D J,PINDER R W,et al.Ammonia emissons in the United States,European Union,and China derived by high - resolution inversion of ammonium wet deposition data:Interpretation with a new agricultural emissions inventory (MASAGE_NH3)[J].Journal of Geophysical Research:Atmospheres,2014,119(7):4343-4364.   \n[6]QUARLES C L,KLING H F.Evaluation of ammonia and infectious bronchitis vaccination stress on broiler performance and carcass quality[J].Poultry Science,1974,53(4):1592-1596.   \n[7]MILES D M,OWENS P R,ROWE D E.Spatial variability of liter gaseous flux within a commercial broiler house:Ammonia,nitrousoxide,carbon dioxide,and methane[J].Poultry Science,2006,85(2):167-172.   \n[8] MILES D M,BRANTON S L,LOTT B D.Atmospheric ammonia is detrimental to the performance of modern commercial broilers[J].Poultry Science,2004,83(10):1650-1654.   \n[9]中华人民共和国农业部质量标准办公室.NYT388-1999 畜禽场环境质量标准[S].北京: 中华人民共和国农业行业标准,1999.   \n[10] ERISMAN J W,SUTTON M A,GALLOWAY J,et al.How a century of ammonia synthesis changed the world[J].Nature Geoscience,2008,1(10):636-639.   \n[11] KIANG C S,STAUFFER D,MOHNEN V A.Possibilities for atmospheric aerosol formation involving NH3[J].Nature Physical Science,1973,244(134):53-54.   \n[12] SUN J Y,ZHANG Q,CANAGARATNA M R,et al.Highly time-and size-resolved ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "characterization of submicron aerosol particles in Beijing using an Aerodyne Aerosol Mass Spectrometer[J].Atmospheric Environment,2010,44(1):131-140. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[13] 朱志平,康国虎,董红敏,等.垫料型猪舍春夏育肥季节的氨气和温室气体状况测试[J].中国农业气象,2011,32(3):356-361.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[14] KIM K Y,KO H J,KIM H T,et al.Quantification of ammonia and hydrogen sulfide emited from pig buildings in Korea[J].Journal of Environmental Management,2Oo8,88(2):195-202. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[15] CABARAUX JF,PHILIPPE F X,LAITAT M,et al.Gaseous emissions from weaned pigs raised on different floor systems[J].Agriculture,Ecosystems & Environment,2009,130(3/4):86-92. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[16]朱志平,董红敏,尚斌,等.育肥猪舍氨气浓度测定与排放通量的估算[J].农业环境科学学报，2006,25(4):1076-1080.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[17] DONG H,KANG G,ZHU Z,et al.Ammonia,methane,and carbon dioxide concentrations and emissions of a hoop grower-finisher swine barn[J].Transactions of the ASABE,2009,52(5):1741-1747. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[18] ZONG C,LI H,ZHANG G Q.Ammonia and greenhouse gas emissions from fattning pig house with twotypesofpartialpitventilationsystems[J].Agriculture,Ecosystems& Environment,2015,208:94-105. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[19] PHILIPPE F X,LAITAT M,WAVREILLE J,et al.Influence of permanent use of feeding stalls as living area on ammonia and greenhouse gas emissions for group-housed gestating sows kept onstraw deep-litter[J].Livestock Science,2013,155(2/3):397-406. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[20] RAHMAN S,NEWMAN D.Odor,ammonia,and hydrogen sulfide concentration and emissions from two farrowing-gestation swine operations in North Dakota[J].Applied Engineering in Agriculture,2012,28(1):107-115. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[21] AARNINK A J A,KEEN A,METZ J H M,et al.Ammonia emission paterns during the growing periods of pigs housed on partially slatted floors[J].Journal of Agricultural Enginering Research,1995,62(2):105-116. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[22] MENDES L B,XIN H,LI H.Ammonia emissions of pullets and laying hens as affected by stocking density and manure accumulation time[J].Transactions of the ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ASABE,2012,55(3):1067-1075. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[23] AARNINK A J A,VERSTEGEN M W A.Nutrition,key factor to reduce environmental load from pig production[J].Livestock Science,2007,109(1/2/3):194-203. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[24] CASEY K D,GATES R S,SHORES R C,et al.Ammonia emissions from a US broiler house—comparison of concurrent measurements using three different technologies[J].Journal of the Air & Waste Management Association,2010,60(8):939-948. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[25] LIANG Y,XIN H,TANAKA A,et al.Ammonia emissions from U.S. poultry houses:part I一 Layer houses[C]//Proceedings of Third International Conference on Air Pollution from Agricultural Operations.Raleigh,NC:AmericanSocietyofAgricultural and Biological Engineers,2003:147-158. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[26] 周忠凯,朱志平,董红敏,等.笼养肉鸡生长过程 $\\mathrm { N H } _ { 3 }$ 、 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 、 $\\mathrm { C H } _ { 4 }$ 和 $\\mathrm { C O } _ { 2 }$ 的排放[J].环境科学,2013,34(6):2098-2106)",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[27] KOERKAMP P W G G,METZ J H M,UENK G H,et al.Concentrations and emissions of ammonia in livestock buildings in Northern Europe[J].Journal of Agricultural Engineering Research,1998,70(1):79-95. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[28] BURNS R T,XIN H W,GATES R S,et al.Ammonia emissions from broiler houses in the southeastern United States[C]/International Symposium on Air Quality and Waste Management for Agriculture.Broomfield,Colorado:American Society of Agricultural and Biological Engineers,2007. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[29]王妮,徐海花,张万福,等.商品肉鸡舍内环境因子含量测定及分布规律研究[J].家畜生态学报,2012,33(5):83-86.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[30] ALLOUI N,ALLOUI M N,BENNOUNE O.et al.Effect of ventilation and atmospheric ammonia on the health and performance of broiler chickens in summer[J].Journal of World's Poultry Research,2011,3(2):54-56. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[31] PESCATORE A J,CASEY K D,GATES R S.Ammonia emissons from broiler houses[J].The Journal of Applied Poultry Research,2005,14(3):635-637. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[32] 问鑫.不同平养方式对鸡舍环境和肉鸡福利的影响[D].硕士学位论文.长沙:湖南农业大",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "学,2015:25-29.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[33] ROUMELIOTIS T S,DIXON B J,VAN HEYST B J.Characterization of gaseous pollutant and particulate mater emission rates from a commercial broiler operation part I :observed trends in emissions[J].Atmospheric Environment,2010,44(31):3770-3777. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[34] ZHU Z,DONG H,ZHOU Z,et al.Ammonia and greenhouse gases concentrations and emissions ofa naturally ventilated laying hen house in Northeast China[J].Transactions of the ASABE,2011,54(3):1085-1091. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[35] FLESCH T K,HARPER L A,POWELL JM,et al.Inverse-dispersion calculation of ammonia emissions from Wisconsin dairy farms[J].Transactions of the ASABE,2009,52(1):253-265. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[36] SCHMIDT D R,JACOBSON L D,JANNI K A.Continuous monitoring of ammonia,hydrogen sulfide and dust emissions from swine,dairy and poultry barns[C]//2oO2 ASAE Annual Meeting.Chicago,Illinois:American Society of Agricultural and Biological Engineers,2002:024060. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[37]王亚男,冯曼,李宏双,等.坝上地区奶牛舍和犊牛舍冬季有害气体的检测[J].中国畜牧兽医,2016,43(6):1635-1640.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[38]张杰,帕合尔鼎,马娟,等.冬季屋顶机械负压通风方式对肉牛舍空气环境质量的影响[J].黑龙江畜牧兽医,2015(7):1-5.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[39] PEREIRA J,MISSELBROOK T H,CHADWICK D R,et al.Ammonia emissions from naturally ventilated dairy cattle buildings and outdoor concrete yards in Portugal[J].Atmospheric Environment,2010,44(28):3413-3421. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[40] MCGINN S M,FLESCH T K,CRENNA B P,et al.Quantifying ammonia emissions from a cattle feedlot using a dispersion model[J].Journal of Environmental Quality,2007,36(6):1585-1590. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[41] ZHANG G,STROM J S,LI B,et al.Emission of ammonia and other contaminant gases from naturally ventilated dairy catte buildings[J].Biosystems Engineering,20o5,92(3):355-364. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[42] NGWABIE N M,JEPPSSON K H,GUSTAFSSON G,et al.Effects of animal activity and air temperature on methane and ammonia emissions from a naturally ventilated building for dairy cows[J].Atmospheric Environment,2011,45(37):6760-6768. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[43] FIEDLER A M,MUULLER H J.Emissions of ammonia and methane from a livestock building natural cross ventilation[J].Meteorologische Zeitschrift,2O11,2O(1):59-65. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[44] RHOADES M B.PARKER D B,COLE N A,et al.Continuous ammonia emision measurements from a commercial beef feedyard in Texas[J].Transactions of the ASABE,2010,53(6):1823-1831. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[45]李路路.粪污存储过程中温室气体和氨气排放特征与减排研究[D].硕士学位论文.北京:中国农业科学院，2016:18",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[46] BURGOS S A,EMBERTSON N M,ZHAO Y,et al.Prediction of ammonia emission from dairy cattle manure based on milk urea nitrogen:relation of milk urea nitrogen to ammonia emissions[J].Journal ofDairy Science,2010,93(6):2377-2386. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[47] PANETTA D M,POWERS W J,XIN H,et al.Nitrogen excretion and ammonia emissons from pigs fed modified diets[J].Journal of Environmental Quality,2O06,35(4):1297-1308. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[48] COLE N A,DEFOOR P J,GALYEAN M L,et al.Efects of phase-feeding of crude protein on performance,carcass characteristics,serum urea nitrogen concentrations,and manure nitrogen of finishing beef steers[J].Journal of Animal Science,2006,84(12):3421-3432. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[49] ROBERTS S A,XIN H,KERR B J,et al.Efects of dietary fiber and reduced crude protein on nitrogen balance and egg production in laying hens[J].Poultry Science,20o7,86(8):1716-1725. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[50]李海英,陈文亮,古丽娜,等.加酶益生素对蛋鸡生产性能及发酵粪中氨气和硫化氢释放量的影响[J].中国畜牧兽医,2008.35(12):15-17.",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[51] LI H,LIN C Y,COLLIER S,et al.Assessment of frequent liter amendment application on ammonia emission from broilers operations[J].Journal of the Air & Waste Management Association,2013,63(4):442-452. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[52] NEERACKAL G,JOO H,NDEGWA P,et al.Manure pH management for mitigating ammonia emissions from manure flush dairy barns[C]//ASABE Annual International Conference Proceedings.Montreal:ASABE,2014. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[53]BAJWA S,GADIRAJU H.Laboratory evaluation of clinoptilolite for ammonia emission ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "mitigation from broiler liter[C].International Symposium on Air Quality and Waste Management for Agriculture.Broomfield,Colorado:American Society of Agricultural and Biological Engineers,2007.   \n[54] JENSEN A O.Changing the environment in swine buildings using sulfuric acid[J].Transactions of the ASAE,2002,45(1):223-227.   \n[55] CHAI L L,ZHAO Y,XIN H W,et al.Reduction of particulate mater and ammonia by spraying acidic electrolyzed water onto liter of aviary hen houses-a lab-scale study[C]//2O16 ASABE Annual International Meeting.Orlando,Florida:American Society of Agricultural and Biological Engineers,2016.   \n[56] LAHAV O,MOR T,HEBER A J,et al.A new approach for minimizing ammonia emissions from poultry houses[J].Water,Air,and Soil Polution,2008,191(1/2/3/4):183-197.   \n[57] ROTHROCK M,Jr,SZOGI A A,VANOTTI M B.Recovery of ammonia from poultry litter using gas-permeable membranes[J].Transactions of the ASABE,2010,53(4):1267-1275.   \n[58] MELSE R W,OGINK N W M.Air scrubbing techniques for ammonia and odor reduction at livestock operations:Review of on-farm research in the Netherlands[J].Transactions of the ASAE,2005,48(6):2303-2313.   \n[59] MANUZON R B,ZHAO L Y,KEENER H M,et al.A prototype acid spray scrubber for absorbing ammonia emissions from exhaust fans of animal buildings[J].Transactions of the ASABE,2007,50(4):1395-1407.   \n[60] HADLOCON L J S,MANUZON R B,ZHAO L Y.Optimization of ammonia absorption using acid spray wet scrubbers[J].Transactions of the ASABE,2014,57(2):647-659.   \n[61] HADLOCON L J S,ZHAO L Y,MANUZON R B,et al.An acid spray scrubber for recovery of ammoniaemissionsfromadeep-pitswinefacility[J].Transactionsofthe ASABE,2014,57(3):949-960.   \n[62] MUDLIAR S,GIRI B,PADOLEY K,et al.Bioreactors for treatment of VOCs and odours—A review[J].Journal of Environmental Management,2010,91(5):1039-1054.   \n[63] MELSE R W,MOSQUERA J.Nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ emissions from biotrickling filters used for ammonia removal at livestock facilities[J].Water Science and Technology,2014,69(5):994-1003.   \n[64] ANDREASEN R R,RIIS A L,MORTENSE K.Removal efficiencies in full-scale biotrickling filters used to clean pig house exhaust air[J].Agricultural Engineering International:CIGR Journal,2015,17(3):33-42.   \n[65] HOOD M C,SHAH S B,KOLAR P,et al.Biofiltration of ammonia and ghgs from swine gestation barn pit exhaust[J].Transactions of the ASABE,2015,58(3):771-782.   \n[66] TYMCZYNA L,CHMIELOWIEC-KORZENIOWSKA A,SABA L.Biological treatment of laying houseair with open biofilteruse[J].PolishJournalofEnvironmental Studies,2004,13(4):425-428.   \n[67] AKDENIZ N,JANNI K A.Ful-scale biofilter reduction efficiencies assessed using portable 24-hour sampling units[J].Journal of the Air & Waste Management Association,2012,62(2):170-182. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Research Statues of Ammonia Emission Characteristics and Mitigation Technologies from Livestock Houses WANG Yue1ZHAO Tongke ZOU Guoyuan YANG Jinfeng TIAN Zhuang LI Xinrong\\* (Institute of Plant Nutrition and Resources, Beijing Academy of Agriculture and Forestry Sciences, Beijing 100096, China) Abstract: Livestock houses are an important ammonia $\\left( \\mathrm { N H } _ { 3 } \\right)$ emission source,understanding the ammonia emission characteristics and mitigation technologies is of high importance to the livestock healthy production together with achieving high environmental benefits. The $\\mathrm { N H } _ { 3 }$ （204号 emission characteristics of three major livestock houses, including pig, poultry and catle houses were reviewed in this paper,and the key influencing factors for $\\mathrm { N H } _ { 3 }$ emission in each livestock house also were discussed and compared. The commonly used in-house $\\mathrm { N H } _ { 3 }$ mitigation technologies were summarized in this review. The mitigation technologies included the feed optimization on source,using the manure additive after manure being excreted, and the air cleaning infrastructures and the exhaust air filtering devices,to build a comprehensive mitigation system for livestock house $\\mathrm { N H } _ { 3 }$ emission. The result of this study was of high importance for understanding the $\\mathrm { N H } _ { 3 }$ emission characteristics from livestock houses,and also for a reasonable choice of mitigation technologies for livestock house $\\mathrm { N H } _ { 3 }$ emission. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Key words: livestock house; ammonia; emission characteristic; mitigation technology ",
+        "page_idx": 22
+    }
+]

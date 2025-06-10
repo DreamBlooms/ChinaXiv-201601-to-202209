@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "Structure and function of Mycobacterium smegmatis 7-keto-8-aminopelargonic acid (KAPA) synthase ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shanghua Fana,1, De-Feng Lib,1, Da-Cheng Wangb,Joy Flemingb, Hongtai Zhangb, Ying Zhoub, Lin Zhouc, Jie Zhoud, Tao Chenc, Guanjun Chena\\*, Xian-En Zhangb,\\*\\*, Lijun Bib,\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aStateKeyLboratoryofcrobialechnology,hoolofifeciences,andongUniversityJinanhandongCin   \nbNatioboobo   \ncCenter forTuberculosis Control ofGuangdong Province,Guangdong 51o63o,China   \nd The 4th People's Hospital,Foshan,Guangdong 5280o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 15 September 2014   \nReceived in revised form 24 October 2014   \nAccepted 10 November2014   \nAvailable online 18 November 2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nMycobacteriumsmegmatis   \nBiotin synthesis pathway   \n7-Keto-8-aminopelargonic acid (KAPA)   \nsynthase   \nCrystal structure   \nActive site ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The biotin biosynthesis pathway isan atractive target for development of novel drugs against mycobacterial pathogens,however there are as yet no suitable inhibitors that target this pathway in mycobacteria. 7-Keto-8-aminopelargonic acid synthase(KAPA synthase, BioF)is the enzyme which catalyzes the first committed step of the biotin synthesis pathway,but both its structure and function in mycobacteria remain unresolved. Here we present the crystal structure of Mycobacterium smegmatis BioF(MsBioF). The structure revealsan incomplete dimer,and the active site organization is similar to,butdistinct from Escherichia coli 8-amino-7-oxononanoate synthase (EcAONS),the E.coli homologue of BioF.To investigatethe influence of structural characteristics on thefunction of MsBioF,we deleted bioFin M.smegmatis and confirmed that BioF is required for growth in the absence of exogenous biotin.Based on structural and mutagenesis studies,we confirmed that pyridoxal $5 ^ { \\prime }$ -phosphate(PLP) binding site residues His129, Lys235 and His2OO are essential for MsBioF activity in vivo and residue Glu171 playsan important,but not essentialrole in MsBioFactivity.The N-terminus (residues 1-37)isalso essential for MsBioF activity in vivo.The structure and function of MsBioF reported here provides further insights for developing new anti-tuberculosis inhibitors aimed at the biotin synthesis pathway. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2014 Elsevier Ltd.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biotin is an essential cofactor for enzymes that function in the carboxylation,decarboxylation,and transcarboxylation reactions found in processes such as fatty acid biosynthesis,gluconeogenesis,and amino acid metabolism(Moss and Lane,1971).While plants and microorganisms can synthesize biotin (Cronan and Lin,2011), mammals must obtain it from exogenous sources (Said,2009). Accumulating evidence shows that the de novo biotin biosynthesis pathway is essential for the survival and growth of mycobacteria ina variety of living environments (Keer etal.,2ooO; Sassetti and Rubin, 2003; Rengarajan et al., 2005; Dey et al., 2010; Woong Park et al.,2011;Yu et al., 2011). The biotin biosynthesis pathway has therefore been considered as a potential target for the development of new antibiotics. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The biotin synthesis pathway can divided into two parts,namely biotin pimelate moiety synthesis and four subsequent conserved steps carried out by four committed enzymes (Salaemae et al., 2011；Lin et al.,201O),namely 7-keto-8-aminopelargonic acid synthase (KAPAS or BioF)，7,8-diaminopelargonic acid synthase (DAPAS or BioA),dethiobiotin synthetase(DTBS or BioD)and biotin synthase(BS or BioB).KAPA synthase,the enzyme catalyzing the first committed step of the biotin synthesis pathway,isa pyridoxal $5 ^ { \\prime }$ -phosphate(PLP)-dependent enzyme belonging to subclass I of the aminotransferase family (Alexeev et al.,1998;Bhor et al., 2006). Ithas been studied in detail in microbes like Escherichia coli (Alexeev et al., 1998;Webster et al., 2000; Alexeev et al., 2006), Bacillus subtilis (Snapper etal.,199O) and Bacillus sphaericus (Bower et al.,1996;Ploux and Marquet,1996;Ploux et al., 1999). Similarities in the sequences of the enzymes in these organisms and the reactions they catalyze suggest that they share a common catalytic mechanism(Bhor et al.,2Oo6). The crystal structures of KAPA synthase from E. coli (PDB code 1BSO,Alexeev etal.,1998) and Francisella tularensis SCHU S4（PDB code 4IW7）have been solved.The structure of E.coli 8-amino-7-oxononanoate synthase (EcAONS),the E.coli KAPA synthase homologue,consists of two protomers,each protomer being composed of three domains,the small N-terminal,large central and C-terminal domains.Its cofactor,pyridoxal $5 ^ { \\prime }$ -phosphate (PLP),iscovalentlyattached to Lys236and can be seen in the X-ray structure at the junction between the $\\beta$ -sheets at the bottom of the deep cleft formed between the central and C-terminal domains (PDB code 1DJE,Webster et al.,2O0O).The othercatalytic site residues:His133,Glu175,Asp204 and His207, arelocated in the central domain,flanking the cleft.Though both the structure and the mechanism of the E.coli homologue of BioF, EcAONS,have been well studied, the structure and function of BioF in mycobacteria remains unresolved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The genome sequence of Mycobacterium tuberculosis contains twobioF genes(bioF1,Rv1569orMtbioF1andMtbioF2,Rv0032 or MtbioF2) (Salaemae etal.,2O11).Targeted gene knockout studies of MtbioF1 in M.tuberculosis have provided indirect evidence that there is no redundancy between the two genes.Deletion of MtbioF1 using a transposon insertion method highly attenuated growth in vitro and in mice (Sassetti and Rubin, 2Oo3;Dey et al., 2010). TheMycobacteriumsmegmatis genome encodes only one bioF gene (MSMEG_3189,MsbioF).MsBioF shares $7 6 \\%$ identity with MtBioF1 and $3 5 \\%$ identitywiththeBioFdomainofMtBioF2.The study ofBioA and BioD,the enzymes catalyzing the second and third of the four conserved steps in M.tuberculosis biotin synthesis suggests that there are significant differences between the enzymes in the biotin synthesis pathway of mycobacteria and those of other organisms (Dey et al., 201O). In contrast to B. sphaericus (Ploux et al.,1999), D-alanine is a substrate rather than a competitive inhibitor of BioF in M.tuberculosis,demonstrating the broad substrate specificity of the mycobacterial enzyme (Bhor et al.,2oo6).We therefore expect that mycobacterial BioF mayalso be different from that in other organisms. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here we present the structure of MsBioF determined using the molecular replacement method.To study its structural characteristics,we knocked out the bioF gene in M. smegmatis.We found that the bioF gene is essential for the growth of M.smegmatis in the absence of exogenous biotin.Phenotypes of the M. smegmatis bioF deletion mutant were complemented by the expression of M. tuberculosis bioF1 but not bioF2,suggesting that BioF playsa conserved role in mycobacterial biotin biogenesis.Based on structural analysis and site-directed mutagenesis,we determined the putative catalytic site residues ofMsBioF and confirmed which residues are essential for M. smegmatis to grow in the absence of exogenous biotin.Our results also confirmed that dimerization of the two MsBioF protomers via domain swapping is essential for biotin synthesis.Design of inhibitors that prevent domain swapping in the MsBioF dimer may be a suitable strategy for inactivating MsBioF, and therefore inhibiting the biotin synthesis pathway in mycobacterial pathogens. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Strains,media and culture conditions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "M.smegmatis MC2 155 and its derivatives were grown in Sauton's liquid medium containing $0 . 0 2 \\%$ tyloxapol (for growth curve determination),or in Middlebrook 7H9 liquid medium (Difco) supplemented with $10 \\%$ albumin-dextrose-saline (ADS)(for vector construction),or on Middlebrook 7H11 agar plates containing $1 0 \\%$ OADC supplement（Becton Dickinson）and $0 . 5 \\%$ glycerol unless otherwise stated.As required,hygromycin B (50 or $1 5 0 \\mathrm { m g / m L }$ 一， kanamycin $( 3 0 \\mathrm { m g / m L } )$ , X-Gal $( 5 0 \\mu \\mathrm { g } / \\mathrm { m L } )$ and sucrose $( 2 \\% , \\mathrm { ~ w ~ } / \\mathrm { v } )$ were added to the cultures.Biotin (Sigma),at a concentration of $1 \\mu \\mathrm { M }$ ,wasadded as indicated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Cloning, expression,purification,and crystallization of MsbioF ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The procedures used have been described in detail elsewhere (Fan et al.,2O14). Briefly,the coding gene of MsbioF was cloned into expression plasmid pET28a(Invitrogen) with His6 and a recombinant TEV protease (tobacco etch virus protease）cleavage site at the N-terminus,and the resulting plasmid,pET28a:MsbioF,was then transformed into E.coli BL21.MsBioF protein expression was induced with IPTG and MsBioF protein was then purified through sequential chromatographic steps on the following columns:a Ni-NTA(Novagen） column,HiPrep 26/1O Desalting Column,QSepharose anion exchange column and a Superdex 75 1O/300 GL column.Initial hanging-drop vapour-diffusion crystallization conditions for the purified protein were screened using Crystal Screen 1and Crystal Screen 2(Hampton Research,USA)at 298K.Crystals suitable for diffraction experiments were obtained within 14 days using the condition $0 . 0 5 \\mathrm { M }$ DL-Malic acid $\\mathsf { p H } 7 . 5$ containing $2 0 \\% \\mathrm { ( w / v ) }$ polyethylene glycol 3350. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Data collection,structure determination and refinement ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theprocedures used have been described in detail elsewhere (Fan et al.,2O14). Prior to the collection of diffraction data,crystals were quickly transferred to correspondingcryoprotectant solutions containing $5 \\% ( \\mathrm { v / v } )$ glycerol, then flash-frozen in liquid nitrogen. Diffraction data was collected from a single crystal on beamline 17 U of the Shanghai Synchrotron Radiation Facility using an ADSC $\\mathsf { Q 3 1 5 C C D }$ detector. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The crystal structure of MsBioFwas solved by molecular replacement using the structure of EcAONS(PDB code 1BSO)as the search model. Further model refinement was carried out using PHENIX. Data collection and refinement statistics are given in Table 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.MsbioFdeletion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The M.smegmatis MsbioF deletion strain(△MsbioF strain) was constructed using the unmarked deletion strategy described by Parish and Stoker (2ooO),except that we used overlap PCR rather than restriction endonuclease digestion to construct a mutant allele.Briefly,to generate the mutant allele,the $3 ^ { \\prime }$ -portionofMsbioF and its upstream region,and the $5 ^ { \\prime }$ -portion of MsbioF and its downstream region were amplified by PCR.We then fused these two ${ \\sim } 1 2 0 0$ bp amplicons by overlap extension PCR to generate the mutant allele.The mutant allele was digested with Not Iand XhoIand cloned into a similarly digested p1NIL plasmid (a kind gift from Tanya Parish) resulting in plasmid p1NIL-MA.The Pac I cassette from pGOAL19 (hyg,lacZ, $\\mathrm { P _ { h s p 6 0 } } \\mathrm { - } s \\mathrm { a c B } \\dot { }$ ）was then cloned into the single Pac I site of p1NIL-MA to generate the suicide delivery vector p1NIL-MM which contained the complete MsbioF knockout cassette.To enhance the transformation of electrocompetent M.smegmatis cells,plasmid DNA p1NIL-MM was treated withNaOH/EDTA $( 0 . 2 \\mathrm { m M } / 0 . 2 \\mathrm { m M } )$ (Hindsetal.,1999). Transformants were selected on hygromycin/kanamycin/X-Gal platesand single cross-over transformants were blue.Single cross-over transformants were streaked out into 7H9 liquid culture,resuspended and incubated for $3 { - } 4 \\mathrm { h }$ .Wethen plated part of the incubated culture onto sucrose X-Gal plates.The white colonies,all double cross-overs,were $\\mathsf { K a n } ^ { \\mathsf { S } }$ and resistant to sucrose.PCR and Western blotting were used to distinguish wild-type and mutant cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b486671dcfaf05b6194c2175f71082480ff67f105a0f0827b35dd72f64681a4e.jpg",
+        "table_caption": [
+            "Table 1 Data collection,structure determination,and refinement statistics for MsBioF. "
+        ],
+        "table_footnote": [
+            "$^ { \\mathrm { ~ \\scriptsize ~ \\{ ~ \\} ~ } } R _ { \\mathrm { m e r g e } } = \\sum h k l \\sum i ^ { \\mathrm { ~ \\scriptsize { ~ \\it ~ { ~ I ~ } ~ } } } i ^ { \\mathrm { { ~ \\scriptsize { ~ I ~ } ~ } } } { } _ { i } ^ { \\mathrm { { ~ \\scriptsize { ~ I ~ } ~ } } } { } _ { i } ^ { \\mathrm { { ~ \\scriptsize { ~ I ~ } ~ } } } - \\langle I ( h k l ) \\rangle \\lvert I \\sum { } _ { ^ { \\mathrm { ~ \\scriptsize { ~ h ~ k ~ l ~ } ~ } } } \\sum _ { i } I _ { i } ( h k l )$ where $I _ { i } ( h k l )$ is the intensity of the ith measurement of reflection hkl. $\\sum _ { i } ^ { \\overline { { \\phantom { i } } } }$ is the sum over the individual measurements of a reflection and $\\sum { } _ { h k l }$ is the sum over all reflections. "
+        ],
+        "table_body": "<html><body><table><tr><td>Data collection</td><td></td></tr><tr><td>Space group</td><td>P21</td></tr><tr><td>Cell dimensions</td><td></td></tr><tr><td>a,b,c(A)</td><td>70.51,91,56,108.71</td></tr><tr><td>α,β,γ(）</td><td>90.0,97.78,90.0</td></tr><tr><td>Wavelength (A)</td><td>1.5418</td></tr><tr><td>Resolution (A)</td><td>40.12-2.30 (2.42-2.30)</td></tr><tr><td>Rmerge+ (%)</td><td>11.9 (37.6)</td></tr><tr><td></td><td>7.4 (2.7)</td></tr><tr><td>Refinement statistics</td><td></td></tr><tr><td>Resolution (A)</td><td>40.12-2.30</td></tr><tr><td>No.reflections</td><td>60,733</td></tr><tr><td>Rwork/Rfree</td><td>0.242/0.277</td></tr><tr><td>Protein atoms</td><td>10,302</td></tr><tr><td>Water molecules</td><td>411</td></tr><tr><td>B-factors (A²)</td><td></td></tr><tr><td>Protein</td><td>40.6</td></tr><tr><td>Water</td><td>36.9</td></tr><tr><td>R.m.s.deviations</td><td></td></tr><tr><td>Bond lengths (A)</td><td>0.005</td></tr><tr><td>Bond angles (°)</td><td>1.06</td></tr><tr><td>Ramachandran plot</td><td></td></tr><tr><td>Core region (%)</td><td>97.31</td></tr><tr><td>Allowed region (%)</td><td>2.11</td></tr><tr><td>Generous region (%)</td><td>0</td></tr><tr><td>Disallowed region (%)</td><td>0.58</td></tr><tr><td>Average B-factor (A)</td><td>40.5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All gene disruptions were tested by PCR using flanking DNA sequencesas primers and were further confirmed by DNA sequencing of the PCR products. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.Complementation plasmid and merodiploid strain construction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To complement the △MsbioF strain,the coding sequence of MsbioF was PCR-amplified from M.smegmatis MC2155 genomic DNAusingprimers MsbioF-Fand MsbioF-R,which contain BamH I and Hind II restriction sites,respectively.It was then digested by BamHIandHindIandcloned intoa similarlydigested pMV261 plasmid.For heterologous complementation with M. tuberculosisMtbioF1,the gene was amplified from M. tuberculosis H37Rv genomic DNA usingprimers MtbioF1-Aand MtbioF1-B and cloned into pMV261.The MtbioF2 genewasalso amplified and cloned into vectorpMV261.To identify the active site of MsBioF,site-directed mutagenesis was performed at putative catalytic site residues His129,Cys136,Glu171,Asp200,His203 and Lys235 of MsBioF.All mutations were performed according to the method of Shenoy and Visweswariah (2oo3).To investigate the role of the α1 helix of the N-terminal domain in vivo,we constructed two expression vectors containing MsBioF N-terminal truncation mutants with deletions of residues 1-37 and 1-22,respectively.All plasmids constructed are summarized in Table S1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The resulting vector was transformed into the M. smegmatis △MsbioF strain by electroporation,and transformants were selected using kanamycin.Protein levels in cell extracts from all strains were analyzed by SDS-PAGE( $1 0 0 \\mathrm { m g }$ of cell extracts were loaded on the gel) followed by Western blotting performed using polyclonal anti-MsBioF according to standard procedures(Towbin etal.,1979).All strains constructed are summarized in Table S1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6.Antibody production and Western blotting ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MsBioF was first purified using the above method,except that the N-terminal 6xHis tag was removed with TEV Protease before nickel column purification.MsBioF antiserum was then obtained byimmunizing mice with purified recombinant MsBioF.To detect MsBioF,its homologue MtBioF,and their mutants,1mL of M. smegmatis stationary phase cells was harvested.Cell pellets were resuspended in $5 0 \\mathrm { m L }$ Laemmli sample buffer and then boiled at $3 6 3 \\mathrm { K }$ for $3 0 \\mathrm { m i n }$ .Samples were subjected to $12 \\%$ SDS-PAGE, followed by transfer to a nitrocellulose membrane.The nitrocellulose membrane was blocked in $1 \\times \\mathrm { P B S T }$ with $5 \\% ( \\mathrm { w / v } )$ nonfat milk for $^ { 1 \\mathrm { h } }$ at room temperature and then incubated overnight at $4 ^ { \\circ } \\mathsf C$ with a 1:5oo dilution of MsBioF antiserum.After Washing the membrane three times with PBST,bound primary antibody was detected by incubating with a secondary HRP-linked anti mouse IgG(1:5ooo,GE,Healthcare)and chemiluminescentsubstrate(ECLplus substrate,GE,Healthcare）according to the manufacturer's instructions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7.Determination of the activity ofmycobacterial BioF and its mutants in vivo ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To identifywhether the expression of BioF and its mutants is required for the growth of M.smegmatis MC2155 in liquid medium, the wild-type strain of M.smegmatis MC2155,the mycobacteral bioF mutant and merodiploid strains were grown in $5 \\mathrm { m L }$ 7H9 culture containing ADC for $2 { \\ - } { - } 3 { \\mathrm { ~ d ~ } }$ at $3 7 ^ { \\circ } \\mathsf { C }$ until stationaryphase.Then a $1 \\mathrm { m L }$ culture was centrifuged(6ooo rpm,5 min, $4 ^ { \\circ } C$ )andresuspended in $1 \\mathrm { m L }$ Sauton's medium supplemented with tyloxapol, and this procedure was repeated three times. $3 0 \\mu \\mathrm { L }$ of the final suspension was used to inoculate flasks containing $1 5 \\mathrm { m L }$ of Sauton's medium supplemented with tyloxapol,with or without $1 \\mu \\mathrm { M }$ biotin.Cultures were incubated at $3 7 ^ { \\circ } \\mathsf { C }$ and the absorption of $5 0 0 \\mu \\mathrm { L }$ culture samples was determined at $\\lambda 6 0 0 \\mathrm { n m }$ every 3 or $6 \\mathrm { h }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Crystal structure ofMsBioF ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The three-dimensional structure of apo MsBioFwas determined to $2 . 3 \\mathring { \\mathsf { A } }$ resolution with an $R _ { \\mathrm { c r y s t a l } }$ of 0.242 and an $R _ { \\mathrm { f r e e } }$ of 0.277. Refinement statistics are summarized in Table 1.Each asymmetric unit of the cell contains four monomers.The structure indicates that the enzyme forms an incomplete symmetric homodimer(protomers A and B) within the crystal(Fig.1A),consistent with the structure of homologous protein EcAONS (Alexeev et al.,1998). The 6X-histidine tag and residues 1-37 could not be traced in the electron density map of protomer B of the 4O4 residue full-length MsBioF,presumably due to flexibility inresidues1-37.In protomer A,however,only the histidine tags and the N-terminal regions (residues1-10) could notbe seen.The motif of residues 1-37 corresponds to the small N-terminal domain of EcAONS(Fig.1C).Though we could not trace the His-tag and the N-terminus (residues 1-10 in protomer Aand residues 1-37 in protomer B)we observed enough space in the crystal to accommodate them and propose that the N-terminal His-tag does not interfere with crystal packing,or the formation of the intermediate dimer described in the following section (Carson et al.,2007). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The structure of protomerB solved here consists of two domains centered on $\\beta$ sheets,corresponding to the larger central domain and the C-terminal domain of EcAONS,respectively(Fig.1B). By contrast,protomer A not only includes the larger central domain and C-terminal domain but also an N-terminal helix (residues 11-23）which is separated from the central domain by a loop (residues 24-37）and forms an intermolecular strap connecting the larger central domain of protomer A to protomer B (Fig.1A). The larger central domain and C-terminal domain are composed of amino acid residues 38-283 and 284-382,respectively.The larger central domainis the core and majordomain,and is formed from six parallel $\\beta$ strands, $\\beta 1$ ,β6,β5, $\\beta 4$ β2and $\\beta 3$ ,with the antiparallel strand $\\boldsymbol { \\beta 7 }$ interposed between $\\beta 1$ and $\\beta 6 .$ .Thesheet is surrounded byalpha helices ${ \\alpha } 3 { \\mathrm { - } } { \\alpha } 1 0$ ，with helix $\\propto 2$ being on the periphery (Fig.1B).Helices $\\alpha 2 , \\alpha 4 , \\alpha 5 , \\alpha 9$ and $\\propto 1 0$ of protomers A and B form the contact surface of the dimer (Fig.1A). The C-terminal domain consists of a three-stranded antiparallel $\\beta$ sheet formed by $\\beta$ strands $\\beta 8$ ，β9,and $\\beta 1 0$ ,and three helices $( \\propto 1 1 - \\alpha 1 3 )$ whichlie against the $\\beta$ -strands (Fig.1B).The central domain and C-terminal domain forma deep cleft.As previously reported(Webster et al, 2000; Alexeev et al.,1998), the cofactor PLP binds to Lys235 at the bottom of the cleft. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4627cf3b82a8aa401860ee8f69ba5c1cead2c9ecd5a88d6b7d4f45333c7d5447.jpg",
+        "img_caption": [
+            "Figvelo theao belig Overall and N-terminal domain structure superposition of MsBioF on EcAONS with two views $7 5 ^ { \\circ }$ apart around the horizontal.The structure of MsBioF and EcAONS are in cyanadredsieleaeordredoe. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although there is only $3 7 \\%$ sequence identity between MsBioF and EcAONS,their three dimensional structures are almost the same.Superposition of the MsBioF and E.coli AONS structures (PDB code 1BSO) reveals one significant difference in their overall structure (Fig. 1C).The residues connecting the α1 of the N-terminal small domain and the central domain form a twostranded $\\beta$ -sheet in EcAONS.However,the corresponding segment inMsBioF isshorter than that in EcAONS and cannot fold into a two-stranded $\\beta$ -sheet,but rather forms a loop (Fig.1C).This loop is flexible and may contribute to the disorder of N-terminal helix $\\propto 1$ in protomer B.In addition，the flexible loop could disturb the dimerization of MsBioF via domain swapping of helix $\\propto 1$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Sequence alignment and structure superposition reveals the putative catalytic site ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The binding of cofactor PLP and substrate binding are key stepsin the MsBioF catalytic mechanism.However,we failed to co-crystallize MsBioF and PLP/substrate.Our mass spectrometry ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A B Glu175 His133 Glu171 Asp200 Asp203 His129 His203 Protomer B 258-264 His207 Lys235 Lys236 ProtomerA21-33 ProtomerB 68-79   \nC αl eeeeeeeee MsBioF MTFAGISPIALADIECRRPAEGLRREIRVREPVA EIDIASNEYLGLSOHEDVIDGGVEALRTRCGCAGGSRIVICNTEIHEAEEHO 88 ECAONS MSRCEKINEALDPFRAALAIRRYPVAOCACRWLVAIDROYNESSNIYIGLSHHEQIIFANCCAEOECVCSGGSGHVSCYSVPHCALDEE 92 Consensus W i a lrrpva sncylgls hp ggggsvg hae MsBioF LASELCAESAIVESSCYIANLCAIVALSGPGSIIVSIAISHASIVEACRISEARVWSPERIVLAVIAAIZAFTEERAVVTDSVESADCDIAPIRDLHA 188 ECAONS LAEWLCYSFAIIEISCEEANCAVIZAMVAKEDRIVADRISHASIIEZASISPSQLFREAENIVTHLARILASECPGCLVVTECVESUDCDSAPIAEIQO 192 Consensusla lg alf sgan a ivd Ishasl als h cv 1a vvte vfs dcd apl MsBioF VCRRHCALIIVDEAHCIGVRCTRCQCLIHEVCIACAPDIVMTTISEALCSOCAVIGPEAVEAHIIDTARSEIEDTCLAEZAVCZASZ2IRVLLAEPOR 288 ECAONS VTOOENGWIMVDDAHCTGVICECCRC...SCWICKVKPELIVVIEGRGECVSCPAVICSSTVADYLIOEARHIIYSTSMPEACAOALEASIAVIFRDEGD 289 Consensusv h1vdag gvggg 1 tkggavl V aritpaaalv MsBioF AFAVLIFAADIAT..IAGVTEZE ..VSAVVSVIICDPEIAVCZZPACLDECVRVGCFFPPTVIAGTSRIRIAAFASLTDEENAIAFOVITIVIATA 380 EcAONS AR..EKLVSIIAREFAGVODIPETIALSOSAICPIIVCDNSRAICLAEKLRQOCRVIAIFPPTVEAGTARIRITLTZAHEMCDIDRLIEVIHGNG... 384 Consensusar 1 agv p sa icd a a g V rpptvragt rlrl a vl MsBioF FA 382 ECAONS 384 Consensus ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "experiments did not demonstrate the formation of a covalent complex between PLP and MsBioF.Binding between MsBioF and cofactor PLP was too weak to be detected in ITC experiments, suggesting that MsBioF does not readily react with PLP to form a covalent complex in vitro.We thus used homologue modeling to study the interaction between MsBioF and PLP,as well as its substrates. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The catalytic reaction mechanism of 7-keto-8-aminopelargonic synthase (EcAONS) in E.coli has been elaborated in detail(Webster et al.,2000; Alexeev et al., 1998,2006). 7-Keto-8-aminopelargonic acid-PLP(KAM) isan external aldimine intermediate product of the reaction and the structure of the KAM-AONS complex has also been resolved (PDB code 1DJ9,Webster et al., 200O). Here we modeled 7-keto-8-aminopelargonic acid-PLP(KAM） into the structure of MsBioF by aligning itwith the homologous structure 1DJ9(Webster et al.,20oO) containing KAM. As shown in Fig.2A,both subunits of the‘catalytic dimer'contribute to an active site to bind KAM,which liesat the subunit and domain interface.The PLP head ofKAM is located in the bottom of the cleft between the large domain and the C-terminal domain of one protomer.The long tail of pimeloylCoA lies in the cavity formed by the small N-terminal domain and the C-terminal domain of one monomer and the large domain of the other.Combining structural information with that obtained from sequence alignment of MsBioF and EcAONS,we identified five conserved residuesin MsBioF,His129,Glu171,Asp200,His203 and Lys235,corresponding to residues His133,Glu175,Asp204, His207,and Lys236 in EcAONS,as putative catalytic site residues (Fig.2B and C).All these residues are located on the loops of the large domain except for Glu171 which liesat the terminus of $\\beta 4$ These residues interact with the PLP head of KAM,and the long carbonchain ofKAMis surrounded by three loops,residues21-33 of one protomer(A),and residues 72-83 and 258-264 of the other protomer (B)(Fig.2B).According to previous reports,atom NZ of Lys235 in the putative active site can covalently bind atom C4A of cofactor PLP,the carboxylate of Asp2oO is hydrogen-bonded to atom N1 of PLP,and atom O3 of PLP is hydrogen-bonded to His203 (Alexeev etal.,1998). Glu171 is negatively charged and pairs with Ser175(Ser179 in EcAONS) to remove the proton from the O3 of PLP byinteractingwith His133,and His207 (Webster et al.,2000).The location and orientation of Glu171,Asp2o0,His203,and Lys235 are very similar to those in EcAONS.However,residue His129 has two different conformations differing from each other mainly by main chain conformation and imidazole ring orientation: the imidazole ring of the His129 of one protomer faces in the opposite direction of the cleft,while the His129 of the other protomer faces in the same directionas that in EcAONS.AsHis133 in EcAONS formsa parallel, stacked arrangement with the PLP ring via the side chain and plays animportant role in the mechanism (Webster et al.,2ooo;Alexeev et al.,1998),we speculate that the side chain (an imidazolyl group) conformation of His129 in MsBioF may be regulated by its adjacent residues,translocating from the former to the latter conformation, and is then involved in PLP recognition,in a manner similar to that described for EcAONS. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f2dbe9bbc85bb9876d8732117d7f535dd0cebbb1d9162f8480d361d15cce98b.jpg",
+        "img_caption": [
+            "Figda de asis wtstrainandMsbioFstrainswithananti-MsBioFantiserum.Lanes1-4,MsbioFstrais;Lanes5-,wt;Lane7,control:purifedMsiF. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.MsbioFisrequired forthe growth ofM.smegmatisinthe absenceofexogenousbiotin ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The MsBioF coding gene islocated between MsbioA (MSMEG_3188）and MsbioD (MSMEG_3190),and there isa 4bp overlap between bioFand bioD.To maintain the integrity of the other genes,we deleted the intermediary 1o83 bp section of the MsbioF gene,generatinga MsbioFunmarked mutant (△MsbioF) usinga two-step cross-over method (Fig.3A)(Parish and Stoker, 2000).The △MsbioF mutant strains were confirmed by PCR (Fig.3B),DNA sequencing and Western blotting(Fig.3C). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c448cb81859cac742452b9394f241d403e9692e78fe25e62e1571c7b1d14ace3.jpg",
+        "img_caption": [
+            "Figsioioo exogeoubiotdo Msitro andilesepori "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c461ae2cbe96148aa047122c5637b27390c9e7c06463b2557d411ac6ae39e005.jpg",
+        "img_caption": [
+            "Fig5 Growthfcomleassoltasbshpa sFindividual cultures and are representative of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We cultured the wild type M.smegmatis strainand the △MsbioF strain in Sauton's medium with and without biotin.As expected, in the presence of $1 \\mu \\mathrm { M }$ exogenous biotin,the wild type strain and the △MsbioF strain both grew with a similar growth curve. In the absence of exogenous biotin,the wild type strain still grew, but the △MsbioF strain did not (Fig.4A and B).To further confirm that the inability of the △MsbioF strain to grow in the absence of exogenous biotin was actually caused by knockout of MsbioF,we constructed pMV261:MsbioF,a complementary plasmid containingthe MsbioF gene,usingWestern blottingto show that it could express MsBioF.Results showed that,like the wild type,the complemented mutant strain could grow in the presence or absence of biotin (Fig.4C).Together,these results show that MsbioF plays anessential role in the growth of M.smegmatis in theabsence of exogenous biotin.In addition,we determined the minimal concentration ofbiotin required for△MsbioF to growat the same rateas the wild type.When the concentration of biotin was lower than 5 nM,△MsbioF showed little or no growth (Fig.4D).The growth of △MsbioF reached wild type level only when the biotin concentrationwas higher than $5 0 \\mathrm { n M }$ ,which isat least5-fold greaterthan the concentration of biotin in normal human plasma(Mock and Malik, 1992).These observations on M.smegmatis,together with previous reports on M. tuberculosis (Sassetti and Rubin,2OO3;Dey et al., 2010),indicate that de novo synthesis of biotinis required forboth fast-growing and slow-growing mycobacteria. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.Site-directed mutagenesis identified the key residues of MsBioFinvolvedinbiotinsynthesis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To determine which of the putative catalytic site residues are essential for the activity of MsBioF in vivo,we constructed complementaryplasmids containingMsBioF site-directed mutants in which these residues were substituted with alanine.We then compared the growth of these merodiploid strains containing site mutantswith that of the wild type M.smegmatis strain.Mutation of His129 (Fig.5A), Asp200 (Fig.5B) and Lys235(Fig.5D) resulted in complete loss of growth in merodiploid strains,suggesting that these residues are essential for the role of MsBioF in the biotin synthesis pathway.Mutation of Glu171 led to growth attenuation in M.smegmatis (Fig.5E),while mutation of His203(Fig.5C) had no influence on growth.These results suggest that His129,Asp200 and Lys235 are required for the activity of MsBioF,that Glu171 has a significant influence on,but is not essential for MsBioF activity,and that His2o3 does not play an important role in biotin synthesis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/be69cd14a0e96b8e9e70f30d0796f263d6928c9fdecebaabf5dd1c76f90b3f4b.jpg",
+        "img_caption": [
+            "igesll ithat sF34 cel olt peie a the web version of the article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.Dimerization ofMsBioF via domain swapping is essential for biotinsynthesis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The structure of EcAONS shows that its dimer is formed mainly via swapping of the small N-terminal domain (Alexeev et al.,1998). In the structure of MsBioF,only the small N-terminal domain of protomer A interacted with protomer B,the N-terminal domain of which could not be traced.To determine the role of the small N-terminal domain in the activity of MsBioF,we analyzed the activity of MsBioF truncation mutants lacking residues 1-37 or 1-22 (Fig.6A).△MsbioF was not complemented by the expression of either of these two MsBioF truncation mutants (Fig.6C and D), indicating that the small N-terminal domain,i.e. $\\propto 1$ ,is essential for the activity of MsBioF.These results,together with a previous report that the small N-terminal domain of homologous protein EcAONS playsan important role in dimer formation (Alexeev etal., 1998),led us to conclude that the active state of MsBioF in vivo isa dimer.Analyzing the dimer structure of MsBioF,we found that only one small N-terminal domain can be seen swapping with the other monomer.This may be because the structure resolved here is an intermediate state in which domain swapping cannot be completely visualized due to the flexibility of the loop between $\\propto 1$ and the central domain. In addition, the loop of the small Nterminal domain,corresponding to residues 23-37 in MsBioF,may be involved in binding the substrate in the cleft(Alexeev etal.,1998) afterdimerizationofEcAONS.Therefore,residues1-37ofMsBioF contribute to MsBioF dimerization via residues 1-22 and to substrate binding via residues 23-37 and are important for MsBioF activityin biotin synthesis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.6.TheroleofMsbioFinM.smegmatis growth canbereplaced byMtbioF1butnotbyMtbioF2 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have shown that MtbioF1 is essential not only for in vitro growth but also for growth and establishment of infection in vivo (Minnikin et al., 2002; Sassetti and Rubin,2003; Woong Park etal.,2O11).As inM.tuberculosis,the MsbioFknock-out strain (△MsbioF) did not grow in liquid media in the absence of biotin and could be rescued with exogenous biotin (Fig.1A and B). In addition,all mycobacterial species contain BioF.M. smegmatis contains onlyone copy of the bioF gene（MSMEG_3189）while M. tuberculosis containstwo copies (bioF1(Rv1569）and bioF2(Rv0032)) (Salaemae etal.,2O11).Though there isa high level of active residue sequenceidentitybetweenMtbioF1andMtbioF2,onlyMtbioF1has been shown to play an essential role in M. tuberculosis growth in vitro and M. tuberculosis infection and survival in mice (Dey et al.,2O1O;Sassetti and Rubin,2Oo3). This indicates that there is noredundancy between MtbioF1 and MtbioF2.The M.smegmatis protein MsBioF protein shares $7 6 \\%$ identitywith the M.tuberculosis protein MtBioF1and $3 5 \\%$ identity with the BioF domain of MtBioF2, and active sites are conserved in the three proteins.Here,to determine if the role of BioF is conserved across the mycobacteria,we assessed whether MtbioF1 and MtbioF2 could complement for the deletionof MsbioF.ComplementationwithMtbioF1 removed the dependence of M.smegmatis △MsbioFon exogenous biotin(Fig.7A), but complementation with MtbioF2 was unable to do so (Fig.7B). We constructeda MtBioF2 truncation lacking theadditional acetyltransferase domain that is present inMtBioF2 but notMtBioF1and observed its BioF activity(Fig.7C).Results showed that the MtBioF2 truncation was also not able to complement △MsbioF,suggesting thatMtBioF2 isunlikelyto playarole in biotin synthesis.BioF thus playsa conserved role in mycobacterial biotin synthesis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this study,we have determined the structure of MsBioF, the KAPA synthase enzyme of the M.smegmatis biotin synthesis pathway,and investigated its function by generatingan MsbioF deletion strain (△MsbioF).A recent report on the structures of BioA and BioD in M.tuberculosis suggests that there are significant differences between M. tuberculosis and other organisms in enzymes involved in the biotin synthesis pathway (Dey et al.,201O). Our studyhas confirmed thatthere are also distinct differences between MsBioF and EcAONS,the homologue of MsBioF in E.coli.We have shown that the key MsBioF residues involved in biotin synthesis in vivo (Fig.5), for example,are different from those of EcAONS (Alexeev etal., 1998). Alexeev etal. (1998) speculated that His207 in EcAONS may play an important role in substrate binding and catalysis through formation of a hydrogen-bond with atom O3 of PLP.However,in our study,mutation of His2o3,the residue corresponding to His2O7 in MsBioF,had no influence on the growth of M. smegmatis (Fig.5C). In contrast to His133 of EcAONS,His 129, the corresponding residue in MsBioF,has two conformations which may be regulated by its adjacent residues.In addition,residues 23-37,which connect the α1 of the N-terminal small domain and the central domain,forma flexible loop in MsBioF,while the corresponding segment in EcAONS folds into a two-stranded $\\beta$ -sheet (Fig.1C).The flexibility of this loop made it difficult to resolve the complete structure of protomer B,resulting in the structure of MsBioF presented here beingan incomplete dimer.To identify the role of the N-terminal domain,we complemented △MsbioF with MsBioF truncation mutants lacking residues 1-37 or 1-22 (Fig.6A). Results confirmed that the N-terminal domain,especially helix $\\alpha$ 1of MsBioF,is essential for biotin synthesis (Fig. 6C and D). This,together with a previous report that the N-terminal domain plays an important role in the dimerization of EcAONS (Alexeev et al.,1998),led us to conclude that dimerization of MsBioF via domain swapping is required for MsBioF activity.Our functional experiments on MtBioF1(Fig.2A),in agreement with sequence alignments(Fig. S1),indicate that the function and structure of BioFis conserved among the mycobacteria.Although amiclenomycin,a natural product isolated from Streptomyces lavendulae (Mann and Ploux,2oo6),can inhibit the growth of M.tuberculosisin vitro through inhibiting BioA(Okami etal.,1974), it has been shown to be inactive ina mouse model of M.tuberculosis (Kitahara et al.,1975),possibly due to its poor pharmacokinetic behavior (Woong Park etal.,2O11).The structural and functional characteristics of mycobacterial BioF elaborated here thus provide two new insights for the design of inhibitors of the biotin synthesis pathwayinmycobacteria.Firstly,inhibitorswhich target keyresidues (His129,Asp2o0 and Lys235) of the active site could be designed to prevent PLP binding.It has been reported that although PLP can covalently attach to Lys236 in the active site of EcAONS,the enzyme isapt to lose the PLP cofactor during crystallization (Webster et al., 2000;Alexeev et al.,1998). Our results indicate that this phenomenon also exists in MsBioF.Based on our study and a previous report on EcAONS,we propose that bonding between all KAPA synthase enzymes and cofactor PLP is weak.Designing inhibitors to prevent the binding of PLP to mycobacterial BioF should thus be considered.Secondly,anti-mycobacterial drugs could be designed to interfere with the dimerization of BioF. Only the N-terminal domain of one protomer Was observed here in the MsBioF dimer structure,suggesting that helix α1 is wobbly and the dimerization of MsBioF through domain swapping is prone to instability. Therefore,anti-mycobacterial drugs designed to target dimerization of mycobacterial BioFwould likely inhibit the biotinsynthesis pathway.One potential strategy would be to design a hydrocarbon stapled peptide drug (Walensky and Bird, 2014;Walensky et al., 2004) to inhibit the dimerization of MsBioF by competitively binding the central domain and N-terminal domain. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/451303e7edf37ce5bbf180bab40bccb9ccaec9284a56dbb903651239de613d8f.jpg",
+        "img_caption": [
+            "Fig.7.The role of MsBioF in M. smegmatis survival can be replaced by MtBioF1 but not by MtBioF2.(A) Growth of complementary strain △MsbioF-MtbioF1.(B) Growth of complementary strain △MsbioF-MtbioF2.(C) Growth of complementary strain △MsbioF-MtbioF2-BioFdomain.Open circles represent data in the absence of exogenous biotin,and closed circles represent data in the presence of exogenous biotin. Data presented are from individual cultures and are representative of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In summary,this structural study is the first to solve the structure of a mycobacterial KAPA synthase and demonstrates that pyridoxal $5 ^ { \\prime }$ -phosphate(PLP) binding site residues His129,Lys235 and His2OO are essential for MsBioF activity in vivo,and that dimerization of MsBioF via domain swapping is required for biotin synthesis inM.smegmatis.We furthervalidated that de novo biotin synthesis is required inM.smegmatis.Our study of the structure and function of MsBioF provides new insights into the role mycobacterial BioF plays in biotin synthesis and also open up avenues for the development of novel inhibitors against mycobacterial pathogens suchasM.tuberculosis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Chinese Ministry of Health (Grant No: 2013ZX10003006)， the Chinese Ministry of Science and Technology (973 Program Grant Nos:2011CB910300, 2013CB911501)，the Chinese Academy of Sciences (Grant No: KSZD-EW-Z-Oo6)and the National Natural Science Foundation of China (Grant No:31400127). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AppendixA. Supplementary data ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data associated with this article can be found，in the online version, at http://dx.doi.org/10.1016/ j.biocel.2014.11.006. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Alexeev D,Alexeeva M, Baxter RL,Campopiano DJ,Webster SP,Sawyer L.The crystal structure of 8-amino-7-oxononanoate synthase: a bacterial PLP-dependent, acyl-CoA-condensing enzyme.JMol Biol 1998;2:401-19.   \nAlexeev D,Baxter RL,Campopiano DJ, Kerbarh O,Sawyer L,Tomczyk N,et al. Suicide inhibition of alpha-oxamine synthases: structures of the covalent adducts of 8-amino-7-oxononanoate synthase with trifluoroalanine. Org Biomol Chem 2006;7:1209-12.   \nBhor VM, Dev S,Vasanthakumar GR, Kumar P,Sinha S,Surolia A. Broad substrate stereospecificity of the Mycobacterium tuberculosis 7-keto-8-aminopelargonic acid synthase: spectroscopic and kinetic studies.J Biol Chem 20o6;35:25076-88.   \nBower S,Perkins JB, Yocum RR,Howitt CL,Rahaim P,Pero J. Cloning,sequencing, and characterization of the Bacillus subtilis biotin biosynthetic operon.JBacteriol 1996;178:4122-30.   \nCarson M, Johnson DH,McDonald H, Brouillette C,Delucas LJ. His-tag impact on structure. Acta Crystallogr Sect D: Biol Crystallogr 2007;63:295-301.   \nCronan JE,Lin S. Synthesis of the α,ω-dicarboxylicacid precursor of biotin by the canonical fatty acid biosynthetic pathway. Curr Opin Chem Biol 2011;15:407-13.   \nDeyS,Lane JM,Lee RE,Rubin EJ，Sacchettini JC. Structural characterization of the Mycobacterium tuberculosis biotin biosynthesis enzymes 7,8-diaminopelargonicacid synthase and dethiobiotin synthetase. Biochemistry 2010;49:6746-60.   \nFan S, Li D,Fleming J, Hong_Y, Chen T, Zhou L, et al. Purification and X-ray crystallographic analysis of 7-keto-8-aminopelargonic acid (KAPA) synthase from Mycobacterium smegmatis. Acta Crystallogr Sect F: Struct Biol Cryst Commun 2014;F70:1372-5.   \nHinds J, Mahenthiralingam E, Kempsell KE,Duncan K, Stokes RW,Parish T,et al. Enhanced gene replacement in mycobacteria. Microbiology 1999;145:519-27.   \nKeer J,Smeulders MJ, Gray KM,Williams HD.Mutants of Mycobacterium smegmatis paired in stationary-phase survival. Microbiology 20oo;146:2209-17.   \nKitahara T, Hotta K, Yoshida M,Okami Y.Biological studies of amiclenomycin. J Antibiot (Tokyo) 1975;28:215-21.   \nLin S,Hanson RE,Cronan JE. Biotin synthesis begins by hijacking the fatty acid synthetic pathway. Nat Chem Biol 2010;9:682-8.   \nMann S,Ploux O.7,8-Diaminoperlargonic acid aminotransferase from Mycobacterium tuberculosis,a potential therapeutic target. Characterization and inhibition studies. FEBS J2006;273:4778-89.   \nMinnikin DE,Kremer L, Dover LG,Besra GS.The methyl-branched fortifications of Mycobacterium tuberculosis. Chem Biol 2002;9:545-53.   \nMock DM,Malik MI. Distribution of biotin in human plasma: most of the biotin is not bound to protein. Am J Clin Nutr 1992;56:427-32.   \nMoss J, Lane MD.The biotin-dependent enzymes. Adv Enzymol Relat Areas Mol Biol 1971;35:321-442   \nOkami Y, Kitahara T,Hamada M, Naganawa H, Kondo S.Studies on a new amino acid antibiotic,amiclenomycin. J Antibiot (Tokyo) 1974;27:656-64.   \nParish T,Stoker NG. Use of a flexible cassette method to generate a double unmarked Mycobacterium tuberculosis tlyA plcABC mutant by gene replacement. Microbiology 2000;146:1969-75.   \nPloux O, Marquet A. Mechanistic studies on the 8-amino-7-oxopelargonate synthase,a pyridoxal-5'-phosphate-dependent enzyme involved in biotin biosynthesis. Eur JBiochem 1996;1:301-8.   \nPloux O, Breyne O,Carillon S, Marquet A. Slow-binding and competitive inhibition of 8-amino-7-oxopelargonate synthase,a pyridoxal-5'-phosphate-dependent enzyme involved in biotin biosynthesis, by substrate and intermediate analogs. Kinetic and binding studies. EurJ Biochem 1999;259:63-70   \nRengarajan J, Bloom BR, Rubin EJ. Genome-wide requirements for Mycobacterium tuberculosis adaptation and survival in macrophages. Proc Natl Acad Sci U S A 2005;102:8327-32.   \nSalaemae W,Azhar A, Booker GW,Polyak SW.Biotin biosynthesis in Mycobacterium tuberculosis: physiology, biochemistry and molecular intervention. Protein Cell 2011;2:691-5   \nSassetti CM, Rubin EJ. Genetic requirements for mycobacterial survival during infection. Proc Natl Acad Sci U S A 2003;100:12989-94.   \nShenoy AR, Visweswariah SS. Site-directed mutagenesis using a single mutagenic oligonucleotide and Dpnl digestion of template DNA. Anal Biochem 2003;319:335-6   \nSaid HM. Cell and molecular aspects of human intestinal biotin absorption. J Nutr 2009;139:158-62.   \nSnapper SB,Melton RE,MustafaS,KieserT,Jacobs WR.Isolation and characterization of efficient plasmid transformation mutants of Mycobacterium smegmatis. Mol Microbiol 1990;4:1911-9.   \nTowbin H, Staehelin T, Gordon J. Electro-phoretic transfer of proteins from polyacrylamide gels to nitrocellulose sheets: procedure and some applications. Proc Natl Acad Sci U S A 1979;76:4350-4.   \nWalensky LD,Kung AL,EscherI,Malia TJ,Barbuto S,Wright RD,et al.Activation of apoptosis in vivo by a hydrocarbon-stapled BH3 helix. Science 2004;305:1466-70.   \nWalensky LD, Bird GH. Hydrocarbon-stapled peptides: principles, practice, and progress.J Med Chem 2014;15:6275-88.   \nWebster SP,Alexeev D,Campopiano DJ,Watt RM,Alexeeva M,Sawyer L,et al. Mechanism of 8-amino-7-oxononanoate synthase: spectroscopic, kinetic, and crystallographic studies. Biochemistry 20o0;3:516-28.   \nWoong Park S,Klotzsche M,Wilson DJ,Boshoff HI,Eoh H,Manjunatha U,etal.Evaluating the sensitivity of Mycobacterium tuberculosis to biotin deprivation using regulated gene expression. PLoS Pathogens 2011;7:e1002264.   \nYu J, Niu C,Wang D,LiM,Teo W,Sun G,et al.MMAR_277O,a new enzyme involved in biotin biosynthesis, is essential for the growth of Mycobacterium marinum in macrophages and zebrafish. Microbes Infect 2011;13:33-41. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

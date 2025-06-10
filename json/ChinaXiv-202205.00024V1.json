@@ -1,0 +1,547 @@
+[
+    {
+        "type": "text",
+        "text": "Exploring the influencing factors of COVID19 vaccination willingness: A mixed-method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "study in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yue Su 1,2, Sijia Li 1,2,Feng Huang1,2, Jia Xue3\\*,and Tingshao Zhu 1,2 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 CAS Key Laboratory of Behavioral Science, Institute of Psychology, Chinese Academy of Sciences,Beijing 100101, China; suy $@$ psych.ac.cn (Y.S.); lisj $@$ psych.ac.cn (S.L.); huangf@psych.ac.cn (F.H.); tszhu $@$ psych.ac.cn (T.Z.)   \n2Dept. of Psychology, University of Chinese Academy of Sciences, Beijing 1Ooo49, China   \n3Factor-Inwentash Faculty of Social Work & Faculty of Information, University of Toronto Toronto M5S 1A1, Canada; jia.xue $@$ utoronto.ca (J.X.)   \nCorrespondence: tszhu@psych.ac.cn (T.Z.), jia.xue@utoronto.ca (J.X.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The outbreak of COVID-19 has caused enormous damage to individuals' normal life and society's development. Recently, with the emergence of novel coronavirus variants, people around the world are still under the attck of COVID-19.And vaccine uptake is considered one of the most effective methods to defend against this epidemic.However, many people hold hesitant attitudes towards the COVID-19 vaccine. For the vaccination promotion work, it is important to find out what factors would influence the intention of vaccination. With the aim of practical use, this study identifies two main themes of this factor structure,that is, non-manipulable factors and manipulable factors.This study uses semi-structured interviews to explore the influencing factors related to vaccination willngness.For the interview results analysis,this study employs a mixed-method, which combines qualitative thematic analysis and quantitative topic modeling. The thematic analysis identifies nine key factors and topic modeling identifies seven key factors.After gathering and discussing these key factors,this study confirmed ten key factors as final factors.More specifically, non-manipulable factors contain Effectiveness and safety of vaccines and Vaccine feasibility,and manipulable factors include Convenience of vaccine, Responsibility, External reference,Necessity and urgency of vaccination uptake, Perceived threat, Perceived benefits, Scientific and objective expression, and Policy requirement. This study investigates key influencing factors that would affect public vaccination intentions in China and provides specific guidelines for vaccination promotion for authorities and public health workers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: influencing factor, vaccination intention, vaccine uptake, vaccination willingness, thematic analysis, semi-structured interview, topic model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the outbreak of the COVID-19 epidemic in December 2019,almost every country in the world has suffered a lot during a long period. Despite the general public,professonals，and authorities having made huge eforts to fight COVID-19 and made multiple measures to prevent the transmission of the coronavirus,it is hard to take total control ofthis epidemic transmission till now. And at present, vaccination uptake is still considered one of the most efcient methods to protect people from virus infection and build group immunity to deter epidemic spread. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, many people hold hesitant attitudes towards the COVID-19 vaccine. Vaccine hesitancy is considered an important problem when promoting vaccination uptake. SAGE (The Strategic Advisory Group of Experts on Immunization), which is a working group of WHO (World Health Organization) defines vaccine hesitancy as“delay in acceptance or refusal of vaccines despite availability of vaccine services. Vaccine hesitancy is complex and context-specific, varying across time, place,and vaccines”(The SAGE Vaccine Hesitancy Working Group, 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, many researchers have focused on COVID-19-related vaccine hesitancy and explored what factors could influence the intentions of the vaccine.Age, gender, and occupation are found to be associated with vaccine hesitancy (Wake, 2O21). Besides, more in-depth research has been conducted. Wang and colleagues (2021） use an online questionnaire to investigate COVID-19 vaccination uptake intentions and influencing factors among overseas and domestic university students.They find that perceived benefits, perceived barriers,and cues to action were important influencing factors related to COVID-19 vaccination intention. In addition to a questionnaire, an interview is also a useful approach for a deep and specific investigation of how people think when talking about COVID-19 vaccination uptake. Mugur and collagues (2021) conducted interviews with women leaving jails and find that for vaccine promotion, health education needs to be strengthened,and mistrust, misinformation, and conspiracy theories need to be decreased (Geana, Anderson, & Ramaswamy, 2021). And a qualitative study based on semi-structured interviews explores the perceptions of and hesitancy toward COVID-19 vaccination in older Chinese adults in Hong Kong and identifies barriers to vaccination and motivations for vaccination as two main themes (Siu, Cao,& Shum,2022). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is hard for researchers to reach an agreement on the influencing factors related to vaccination intention.This may be associated with the differences in participants, periods,and analysis methods. Focusing on the analysis methods, we intend to employ a mixed-method to make a better and deeper analysis of the interview results, which includes the traditional qualitative method as well as the quantitative machine learning method.The first analysis method is based on thematic analysis and manual coding.The other was with the application of topic modeling algorithms. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As we all know, the analysis of interview results mainly concentrates on manual coding. Researchers need to read and discuss transcripts carefully to make a consensus. However, new methods have emerged to analyze text contents in recent years,and topic modeling is a pretty popular approach in text analysis (Blei, Ng,& Jordan,2003； Steyvers & Griffiths, 2006). Topic modeling is an unsupervised machine learning method and could provide multiple word clusters as the main topics for the understanding of the basic and underlying dimensions of linguistic data (Atkins et al.,2012).For example, Xue and colleagues use topic modeling to analyze tweets related to COVID-19 with the aim of public discourse investigation and identified 10 key themes of these tweets (Xue et al., 2O2O). Except for social media texts, interview transcripts are also appropriate materials for topic modeling,and we confirm the use of topic modeling in the couple-therapy trial as well (Atkins et al., 2O12). However, as far as we know, topic modeling has not been used in the COVID-19 related interview study. In our study, we intend to use topic modeling as a supplementary and quantitative method for text data analysis.By the combination of manual coding and topic modeling, we could provide a novel and comprehensive perspective for the interview transcript analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our study aims to identify the influencing factors related to COVID-19 vaccine wilingness in ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "China and provide references for vaccination promotion for authorities and public health workers. From a practical perspective, we want to focus on the factors that are of great practical value in vaccination promotion work. Thus,we have identified two main themes of the influencing factor structure,one is non-manipulable factors,and the other is manipulable factors.Non-manipulable factors refer to the factors that are directly related to the COVID-19 vaccine itself, such as experiment results and objective data. And thus,the core contents of these factors are hard to change and should keep the same no matter where or how these contents are published,such as vaccination rate.And manipulable factors refer to the factors that are indirectly related to the COVID-19 vaccine and commonly focus on outside circumstances rather than vaccine information per se.These factors are usually easy to manipulate in practice to influence the feelings of individuals. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Study 1 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Method ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We used semi-structured interviews to explore the influencing factors related to the COVID-19 vaccine. We aimed to investigate what people were concerned about the COVID-19 vaccine and what information would drive people to get vaccinated more actively. The interview guide was developed by four psychological experts (two teachers in the department of psychology and two students majoring in psychology） and they agreed on this interview guide after discussion and analysis.This interview guide contained two sections,one was about the concerns that people may have about a vaccine,and the other was about the persuasive information and influencing factors that people raised. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Participant recruitment ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The participants were recruited by purposive and snowball sampling. By this sampling method, we aimed to recruit participants to maximize the diversity in age, gender, educational level, and geographical location. More specifically, the participant recruitment advertisements were posted on social media,and people who were interested in this interview would fill out the questionnaire contained in the advertisement and leave their phone number and available time. And we would select interested participants to interview to enrich the demographic information of our data sample. The participants were compensated with a cash reward as a thank for their time and contribution. The reward was paid based on the interview time and there was also a bonus according to the performance of participants,that is,2 Yuan per minute and O-3O Yuan bonus. Our study was approved in advance by the Ethics Committee of the Institute of Psychology, Chinese Academy of Sciences (approved number: H15009). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Datacollection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There were six trained students majoring in psychology involved in this experiment and interviews were carred out by one of these interviewers.Allinterviews were performed on Tencent Meeting, which was a remote meeting application providing easy-to-use and reliable cloud video and audio-conferencing services.These interviews lasted approximately 30-60 minutes. Informed consent was obtained by each participant. And interviews were audio-recorded for further analysis. The data collction ended and the sample size was confirmed when the data acquired from interviews reached a saturation point and there were no novel ideas arising (Marban-Castro et al., ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2021). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The audio recordings were transcribed verbatim by the interviewers.Then,researchers performed thematic analysis to code interview data manually. In this research, we followed the thematic analysis steps proposed by Braun and Clarke (Bell et al.，202O）which included familiarizing ourselves with our data, generating initial codes,searching for themes, reviewing themes, defining and naming themes,and producing the report (Braun,& Clarke, 2Oo6).To enhance the rigor of the analysis,the initial code development and the subsequent theme generation and definition were discussed between two researchers (the first author and the second author) and reached a final agrement (Bell et al.,202O). Thus,the codes and themes were confirmed. We also selected concrete examples for each theme. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Result ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Demographic information ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12 participants were included in our study. Table 1 showed the demographic information of our interview participants.The mean age of participants was 25.83,and the standard deviation was 2.98. To be more specific, the maximum age was 34,and the minimum was 23.Among these participants, 6 were male and 6 were female, which was a balanced gender ratio.As for education level, we found that one participant had a college diploma and eleven participants were bachelor's degree and above. The geological distribution of our participants was rather diverse. 5 participants were located in eastern China, 4 were situated in central China,and 3 were located in western China. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f08f2b20f8200a18b2f6c70ec0cb21d0462a072b6d69299cb8b8e260397abc49.jpg",
+        "table_caption": [
+            "Table 1. Demographic information of interview participants "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Characteristics</td><td>N=12</td></tr><tr><td>Age (Mean± SD)</td><td>25.83 ± 2.98</td></tr><tr><td>Gender n (%)</td><td></td></tr><tr><td>Male</td><td>6 (50%)</td></tr><tr><td>Female</td><td>6 (50%)</td></tr><tr><td>Education level n (%)</td><td></td></tr><tr><td>High school (including technical secondary school) and below</td><td>0 (0%)</td></tr><tr><td>College (three-year or two-year college diploma)</td><td>1 (8.33%)</td></tr><tr><td>Bachelors and above</td><td>11 (91.67%)</td></tr><tr><td>Location</td><td></td></tr><tr><td>Eastern China</td><td>5 (41.67%)</td></tr><tr><td>Central China</td><td>4 (33.33%)</td></tr><tr><td>Western China</td><td>3 (25.00%)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interviewresult ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After finishing all interviews, we analyzed interview transcripts.31 initial codes were generated, please refer to more details in Appendix. Then, these 31 codes were grouped into 9 key factors,and these 9 factors were grouped into 2 main themes.The final interview results were shown in Table 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Theme 1: Non-manipulable factor ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "One key factor was divided into non-manipulable factors,that is, the effectiveness and safety of vaccines. This factor meant that the vaccine would not pose a threat to personal safety. More specifically, this factor emphasized the detailed and clear, scientific,and rigorous explanations of vaccination uptake conditions, application groups of vaccination, vaccination restrictions, and possible adverse reactions.For example, participants indicated that they were pretty worried about the side effects after vaccination. And some participants wanted to know more about why some people were not suitable for vaccination. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Theme 2:Manipulable factors ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Manipulable factors contained 8 key factors, including the convenience of vaccine,responsibility, external reference, necessity and urgency of vaccination uptake, perceived threat, perceived benefits, scientific and objective expression, and policy requirement. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The convenience of vaccines referred to the costs that individuals need to consider and pay in the process of vaccination, such as distance, and time. Participants mentioned that if there were lots of vaccination sites and it was convenient to get vaccinated, they would be more willing to get the COVID-19 vaccine. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Responsibility meant that people hold the awareness,emotion,and belief that an individual should be responsible for himself and others,family and group,country and society. Moreover, they also have the corresponding conscious attitude that an individual should abide by norms,accept responsibility, and fulfill obligations. Some participants indicated that vaccination uptake is a sign of being responsible to others and society. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "External reference meant that when an individual intended to take a certain behavior or form a certain attitude, he would use a specific individual or group as the reference and comparison object. These reference objects included the specific social group, the majority of people in the society, people around him or her, and people with different political and cultural backgrounds. Some participants mentioned that how people around them see vaccines were important for them. And if near friends and family chose to get vaccinated, these participants would also approve ofthe vaccine. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The necessty and urgency of vaccination uptake emphasized the intensity and urgency degree of the need for vaccination that individuals felt under the current social and epidemic situation.Several participants mentioned that news reports that the domestic confirmed cases began to grow would increase theirintentionof vaccination. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Perceived threat referred to people feling some threats to freedom when some acts with the aim of persuasion interfere with individual free choice. Some participants indicated that lots of reports said people must get a vaccination instead of should get a vaccination, that kind of expression made them hard to accept the COVID-19 vaccine. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Perceived benefits meant benefits perceived by individuals after vaccination. For example, participants mentioned that they would get vaccinated actively if it was easier to go in and out of campus. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Scientific and objective expression emphasized that the vaccine-related information should avoid containing arbitrary or ambiguous expressions, provide pros and cons of vaccination from an objective perspective,and use accurate and easy-to-read language. Some participants mentioned that they heard the effectiveness rate of COVID-19 vaccines in Brazil was not high. And they thought it was pretty honest to publish such information instead of mere praise of vaccine. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Policy requirements meant that an individual would abandon his or her own opinion and behave by policy demands,and group regulations. Some participants indicated that if the authority authorized mandatory vaccination against COVID-19, they would obey this requirement and get vaccinated. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/88ec2a3a751f9c6870cab37979ce627d9386ec43708692f50ad2d9072d865597.jpg",
+        "table_caption": [
+            "Table 2.Key factors and codes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>The main theme, the key factor, and codes</td></tr><tr><td>Non-manipulable factor</td></tr><tr><td>Effectiveness and safety of vaccines</td></tr><tr><td>Vaccine safety, The restriction of vaccination uptake,Introduction of vaccine general information， Specific explanation of vaccination requirement, Data exhibition,</td></tr><tr><td>Vaccine effectiveness, Providing a comparison</td></tr><tr><td>Manipulable factors</td></tr><tr><td>Convenience of vaccine</td></tr><tr><td>Convenience of vaccine</td></tr><tr><td>Responsibility</td></tr><tr><td>Responsibility External reference</td></tr><tr><td>Group identification, Conformity,Reference group,In-group pressure, Psychological</td></tr><tr><td>distance，Vicarious experience， Specialization， Credibility. Attraction， Official</td></tr><tr><td>position, Unofficial position</td></tr><tr><td>Necessity and urgency of vaccination uptake</td></tr><tr><td>Risk perception, Scarcity, Deadline strategy</td></tr><tr><td>Perceivedthreat</td></tr><tr><td>Perceived threat</td></tr><tr><td>Perceived benefits</td></tr><tr><td>Vaccination certification, Personal involvement degree,Extra benefits</td></tr><tr><td>Scientific and objective expression</td></tr><tr><td>Dual role persuasion, Certainty of vaccination information, Popular science Policyrequirement</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Study 2 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Method ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on the transcripts obtained in Study 1, we collcted all sets of words spoken by participants. More specifically, we defined a set of words spoken by a certain participant as one document and we got 12 documents in total. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Before conducting a topic model, we used Python to preprocess all documents to ensure the quality and interpretability of analysis results.The preprocessing steps include the following three steps: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.We removed all special symbols except for English characters, Chinese characters,and numbers. It should be noted that allinterviews were conducted in Chinese and all documents were written in Chinese.But considering some English-related expressions,such as mRNA，also appeared in interviews, we kept English characters as well. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. We used Jieba to conduct word segmentation. Jieba was a Python package and was commonly used in Chinese segmentation. In our analysis, Jieba was called in Python to separate sentences into words and phrases. Considering new terminologies and expressions are being developed constantly as the world changes, we added some specific terms into the built-in user dictionary in Jieba, such as Bilibili, Health Code,and Li Jiaqi. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. We removed stop words and words whose length was less than 2 characters in the segmentation results of documents. This word elimination could reduce the appearance of irrelevant terms and noises and enhance the performance of the topic model algorithm(Calderon,de la Vega,& Herrero, 2020). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We got the final dataset which was ready for topic modeling. Then, we used Latent Dirichlet Allocation (LDA) algorithm to explore the main topics and structures of the dataset. LDA was a common topic modeling method and was frequently used in the investigation of multiple topics in a set of documents (Ramage et al., 2009; Xue et al., 2020). LDA was a probabilistic model and could infer latent thematic structures from documents without prior knowledge or manual labels (Calderon, de la Vega,& Herrero,2020).The Mallet version ofLDA was implemented in the Python package Gensim and was considered to perform better than LDA (Wang & Li,2O20). Therefore, we used the Mallet version of LDA to build the topic model and investigate the thematic patterns of documents. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The number of topics was an important parameter for the model performance. To determine the appropriate number of topics, we tried different numbers of topics that varied from 2 to 30 and calculated the coherence score for each model.A coherence score was advisable to be used in the measurement of model performance. The higher coherence score indicated a more precise model (Calderon,de la Vega,& Herrero,202O). Based on the coherence score,the most appropriate number of topics was chosen and the final model of topics was confirmed. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the next step, we employed pyLDAvis to visualize the topic model result. pyLDAvis was a Python package providing the visual interface for inter-topic distance (Chuang et al.,2O12). Each bubble in the inter-topic distance map represented a topic and meanwhile, the area of the bubble meant the prevalence of the topic (Hariman, Vries,& Smeets, 2018). And the distances of topics were multidimensionaly scaled onto two axes (Sievert & Shirley,2014).The relatively big and nonoverlapping bubbles in the map would suggest a proper topic model result (Hariman, Vries,& Smeets,2018). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The last step of topic modeling was to analyze, identify and describe themes according to the results of the LDA algorithm. After identifying the number of topics in LDA, two authors (Y.S and S.L) discussed the top 20 keywords of each topic and reviewed the corresponding expressions in interview transcripts.Then, they reached an agreement on the label and description of each theme. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Result ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To determine the appropriate number of topics for topic modeling, we calculated the coherence score for each topic model. Figure l presented the coherence score result for each topic model, which was built on a different number of topics. We finally chose 7 as the most appropriate number of topics for topic modeling based on two considerations.First, when the number of the topics was as 7, the coherence scores were at a high level indicating the good performance of the topic model. Second, our corpus was not very large,and too much number of topics would dilute the main focus of our text materials. Thus, in comparison with other numbers of topics with rather high coherence scores, such as 16 and 18, number 7 contained the important topics as much as possible,on the one hand,and avoided the risk of confusing the main focus,on the other (Lyu,Le Han,& Luli, 2021). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea8e13a5b5aa78f5f7adea6fd7203e2eb348b1dc2544295f7ca1503eb1aed118.jpg",
+        "img_caption": [
+            "Figure 1. Coherence score for each topic model built on a different number of topics "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The inter-topic distance map was shown in Figure 2.Each bubble represented a topic from Topic 1 to Topic 7 in our study. And the bubbles in Figure 2 were relatively big and not overlapped, which suggested a good topic model and confirmed the reasonability of topic number 7. The topics are ordered in descending order of prevalence in the corpus (Hariman, Vries,& Smeets,2018). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4dd3144fe1f6e3770cba662c0bfa37653af31a41d58f01a3646c1ad41be38bb4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 1 showed the result of the topic models with 7 topics and the top 20 relevant words of each topic in the corpus.The numbers of topics were by the numbers shown in the inter-topic distance map. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e508788c45d4d43a0aba8593d566938e9a78b57091c05f17e66c04fd2b1d8fcf.jpg",
+        "table_caption": [
+            "Table1. the topic model result with 7 topics and the relevant words "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Topic</td><td>The top 20 relevant word</td><td>% of tokens</td></tr><tr><td>1</td><td>Vaccine, get vaccinated, nation, attitude, around, information, promote, COVID-19,lots of, friend, matter, others,basically, really, job,official,18.8 afterall, China,wait-and-see, several</td><td></td></tr><tr><td>2</td><td>Vaccine, that sort of, school, a little, popular science, community, two- shot, WeChat Moments,do not get vaccinated, is there any, influence, reason, time, first shot, second shot, three-shot, inconvenient, social, one-shot, life</td><td>15.5</td></tr><tr><td>3</td><td>Get vaccinated, side effect, school, thing, classmate,do not want to, matter, do not get vaccinated, body, suggestion, doctor, video, mentality, definitely, in this regard, six months, a few days, domestic,willingness, fear</td><td>14.3</td></tr><tr><td>4</td><td>Get vaccinated,definitely， influence，COVID-19 vaccine，adverse reactions,nation，concerns,a crowd of people,if, worry,epidemic, place, nucleic acid, a lot of, infect, allergy, child, impression, on earth, on the Internet</td><td>13.9</td></tr><tr><td>5</td><td>Information, influence, focus on, policy, particularly, Weibo,I will, said to be,publicity, research and development, thing,precautions, like this, 12.9 sometimes, effect, increase,remember, because of,observe,video feel like,a little,news,kind of,epidemic,for,concerns,popular,</td><td></td></tr><tr><td>6</td><td>situation,accept, particularly, time,infect, not quite,antibody, free,12.7 national people, less than, TikTok, effect</td><td></td></tr><tr><td>7</td><td>Get vaccinated，vaccine,media,America,lots of, safety，probably, reports,temporary, be from, factors,data, scientific,appointment, tell,12 authority, indeed, this piece of, risk, the vaccination rate</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "After analysis and discussion of the seven topics grouped by topic modeling, we identified these 7 topics as our final topic categories,labeled each topic,and grouped these seven topics into two themes, which was by the theme structure that we suggested before.This result was shown in Table 2. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f33d79371fabcc48292b60487e775d8367693c7eae32e4b9c2a48efa98a7cf0.jpg",
+        "table_caption": [
+            "Table 2. Seven topics produced by LDA with labeled names and examples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Theme and topics</td><td>Examples</td></tr><tr><td colspan=\"2\">Theme 1: Non-manipulable factors Some people, I think, maybe a little scarred psychologically. They are uncertain</td></tr><tr><td colspan=\"2\">Topic#3 Side effectsof the</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Another point may be related to doctors, such as the video channels or TikTok accounts of doctors. If doctors post videos to further explain the effects of the COVID-19 vaccine,as well as side effects and adverse reactions, and if they demonstrate such information very clearly,..... I think I will definitely be willing to get vaccinated. (Interview #5) There are some individuals with uncommon constitutions, such as suffering from allergies and purpura before. Can this group, on earth, get this vaccine? Some people asked me,“My child has had purpura before, can he get vaccinated? His   \nTopic #4 school asks him to get vaccinated, can he?” Then I'm not very clear about this.   \nVaccine (Interview #8)   \nfeasibility In fact, I still don't understand why we need to do a nucleic acid test once a week even after vaccine uptake? All our hospitalized patients need nucleic acid tests. But some family members did not cooperate with us.They claimed that they have been vaccinated, so they didn't need a nucleic acid test.(Interview #8) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Theme 2: Manipulable factors ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Topic #1 TheAnd the feelings of the people around me about being vaccinated will be more   \ninfluences convincing for me. (Interview #2)   \nfromothers’ (l) want to wait first and see the reactions of whom have already gotten   \nexperiences vaccinated. (Interview #6) Even if he goes to the vaccination site for vaccination, it is still possible to fail to get vaccinated. And he has to wait for the second shot after geting the first shot,   \nTopic #2 The and sometimes the third shot is also required. He may feel it is not worthy to cost   \npotential such time. (Interview #4)   \ncosts during There is a piece of news,for example, that vaccines willbe delivered to your home or your community. And time to get vaccinated is within a reasonable   \nvaccination period， such as just going downstairs or walking for a few minutes. The   \nprocess vaccination process is very fast and convenient. Such a situation can also make me more willing (to get vaccinated).(Interview #11) If I can see a very authoritative popular science document that can make people like me who are not willing to think about things easy to understand, then I would feel I understand it and consider getting vaccinated. Especially for the distinctions among different types of vaccines, the period that vaccines are effective,and the precautions of vaccination, the popular science document   \nTopic #5 should explain these aspects clearly and concisely. (Interview #4)   \nDirect and Take the lecture that I just mentioned as an example the content of the lecture is   \ntransparent to popularize why this vaccine can be developed in such a short period and it   \ninformation runs ahead many steps compared to other countries. If these questions could be popularized in a layman-friendly way, I would be more willing to get vaccinated. Because now everyone only knows that the vaccine has been developed and is available for the public,but they do not know how it was developed in fact. (Interview #7)   \nTopic #6In this area where I live,the epidemic is not very serious,and the protection work   \nPositive is very good. When the epidemic was the worst, people in our area were not   \nperception of infected. After the vaccine is available, it does not matter for many people to get ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/57eeafb3b6934a3c5e0618fe9e3d50213b3824f490bdfe75f6e3803944bd878f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>epidemic situation Topic #7 SafeIthink the official media,academicians,such as Nanshan Zhong,and the remarks</td><td>vaccinated. As long as we don't go out, we will be fine. Many people think so. After all, people hold the opinion that we were all safe in this area when the epidemic was so severe,and now the epidemic has passed for so long, (Interview #3) In the case that everyone is vaccinated, he can also be considered safe. That is, if everyone could block the chain of transmission, then he doesn't need to get</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Theme 1: Non-manipulable factors ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This theme contained two topics,and these two topics both focused on the information which was directly related to the COVID-19 vaccine itself. The first topic (Topic #3) was named “Side effects of COVID-19 vaccine\".This topic concentrated on the concerns about the side effects of the vaccines. More specifically, how their body would feel when people get vaccinated makes them worried.The second topic (Topic #4) was labeled “Vaccine feasibility\". This topic referred to the explanation of the feasibility range of vaccines,that is, what kind of people could get vaccinated, what kind of people should wait, what kind of people should deny vaccination,and in what situation vaccination would be useful and on what situation full vaccination would not be enough, and other epidemic protection approaches are also required (e. g. nucleic acid test). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Theme 2: Manipulable factors ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This theme contained five topics,and these topics mainly focused on the influences of external factors instead of vaccine information.The first topic (Topic #1) was named “The influences from others’experiences\".This topic meant that people would refer to the experiences and behaviors of other people when deciding on vaccination uptakes,such as friends and coleagues. The feedback of others was of great value to them. The second topic (Topic #2) was labeled “The potential costs during the vaccination process\".This topic included two aspects. One was the social pressure that people might occur if they would not get vaccinated. The other was the costs of time and energy that people should pay if they would consider getting vaccinated. In a word, they were allthe costs that people should consider when they made a plan about vaccination. The name of the third topic (Topic #5) was “Direct and transparent information\". This topic emphasized that the language and expression related to the vaccine should be unambiguous and direct, sincere and transparent. The fourth topic (Topic $\\# 6$ ） was named “Positive perception of the epidemic situation\". This topic referred to the necessity of vaccination uptake, and when people felt positive about living circumstances and thought the infection risk was low, people might be more unwiling to get vaccinated.The fifth topic (Topic #7) was labeled “Safe and reliable information related to COVID19 vaccine\". This topic showed people's attention to trustworthy information related to vaccine safety. More specifically, oficial media, medical professionals, and scientific reports that support and verify vaccine safety would have some impact on some people. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study explored influencing factors related to public vaccination willingness based on semistructured interviews. We recruited 12 participants in our experiment and obtained verbatim transcripts of each interview. The first study used thematic analysis to code transcripts manually. The thematic analysis identified one key factor in the theme “non-manipulable factors”,and eight key factors in the theme “manipulable factors”. The second study employed the topic modeling method LDA to examine the semantic pattern of transcripts.The topic modeling confirmed two key factors in the theme“non-manipulable factors”,and five key factors in the theme “manipulable factors\". ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The mixed analysis methods provided two similar but also subtly different results.For the theme “non-manipulable factors”,the thematic analysis identified one key factor, the Effectiveness, and safety of vaccines.The topic model identified two key factors, Side efects of the COVID-19 vaccine and Vaccine feasibility. We found that topic modeling confirmed more factors than thematic analysis.And it was obvious that the safety contained in the effectiveness and safety of vaccines focused on the side effects that vaccines may cause, which was similar to the Side effects of the COVID-19 vaccine. However, Vaccine feasibility emphasized the situation and group that vaccines should and should not apply. Such factor found the semantic connection between the targeted group and useful situation, which was different from the concentration on effectiveness and safety of vaccines and indeed supplemented a new perspective of non-manipulable factors. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For the theme“Manipulable factors”,the thematic analysis identified eight key factors, that is, Convenience of vaccine, Responsibility, External reference, Necessity and urgency of vaccination uptake， Perceived threat， Perceived benefits， Scientific and objective expression， Policy requirements. Topic model identified five key factors,which were The influences from others' experiences, The potential costs during the vaccination process, Direct and transparent information, Positive perception of epidemic situation, Safe and reliable information related to the COVID-19 vaccine. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "According to the meanings of these factors discussed above,we found that External reference was prety similar to The influences from others’ experiences,and Scientific and objective expression was similar to Direct and transparent information. Besides,the Convenience of the vaccine was partly similar to The potential costs during the vaccination process, because the latter also mentioned the social pressure related to vaccination, which was included in the External reference in the thematic analysis.Moreover, Safe and reliable information related to the COVID19 vaccine in topic modeling was also included in external reference in thematic analysis. In addition,one interesting finding was one factor that both included in two methods was presented in different directions. The necessity and urgency of vaccination uptake focused on the pressure and risk from situations make people feel urgent and be more active to get the vaccination. Meanwhile, Positive perception of an epidemic situation concentrated on the positive feeling of the epidemic would decrease the public's willingness to vaccination. Nevertheless, these two factors both emphasize the necessity of vaccine uptake.Besides,the thematic analysis also found Responsibility, Perceived threat, Perceived benefits,and Policy requirements, which were not included in topic modeling.Therefore,these findings suggested that for manipulable factors,the thematic analysis provided more detailed and distinct results than topic modelig. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Above all, after taking both thematic analysis and topic modeling into consideration, we added Vaccine feasibility to non-manipulable factors based on our thematic analysis results,and finally identified ten key factors related to COVID-19 vaccination intention. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Some factors in this study were also identified in the previous study. In a systematic review writen by Wake (2021)，perceived risk of COVID-19, norms, perceived benefit of vaccine, perceived vaccine barriers, perceived eficacy of the COVID-19 vaccination, COVID-19 vaccine safety concerns were considered to be associated with the willingness of COVID-19 vaccine uptake (Wake,2O21).However,as far as we know,this is the first study to take Vaccine feasibility, Responsibility, and Policy requirement as distinct key factors and incorporate them into a complete factor structure, which could provide diverse perspectives to discuss how to increase public vaccination intention. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study used a mixed-method to analyze interview results. Our findings suggested that it is feasible to use thematic analysis with the supplementation of topic modeling. In most cases, the thematic analysis could provide detailed insights. In contrast,the topics obtained by the topic model were relatively rough. However, topic modeling could find some novel relationships ignored by people sometimes. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "There were some developed models to explain influencing factors related to vaccination willingness. SAGE working group proposed the 3C model including confidence, convenience, and complacency (MacDonald, 2015). Thomson et al. (2016） suggested the 5A model including acceptance，access， awareness， affordability， and activation （Thomson，Robinson，& ValléeTourangeau, 2016). These models all summarized influencing factors into a mature system and formed a good theory. Different from these models,this study focused on the practical value and framed our factor structure into two themes,that is,non-manipulable factors and manipulable factors.As far as we know,this was the first study to propose one influencing factor structure related to the COVID-19 vaccine based on practical application. This structure could provide a clear view of how these factors should be used in the real world. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Our findings deepened the understanding of related factors that would influence the public COVID-19 vaccine uptake intention in China and contributed to the guideline of targeted vaccination promotion programs. Based on key factors proposed in this study, authorities and public health workers could focus on one or several factors according to the specific social situation and epidemic condition. For example, if the COVID-19 outbreak started in a country near our country, authorities could emphasize the severity and risk this country faced. Then, people may feel they were still not far from COVID-19 and their awareness of vaccination would be raised. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study aimed to explore the influencing factors related to COVID-19 vaccination intention in China.And we used semi-structured interviews and employed mixed methods to analyze interview results,including thematic analysis and topic modeling. Results suggested thematic analysis could produce a more detailed analysis than topic modeling in general. However, topic modeling could examine novel relationships among expressons of participants and ofer a new perspective. In conclusion, we identified ten key factors in our study. More specifically, the Effectiveness and safety of vaccines and Vaccine feasibility were divided into non-manipulable factors, Convenience of vaccine,Responsibility, External reference,Necessity and urgency of vaccination uptake,Perceived threat,Perceived benefits， Scientific and objective expression，and Policy requirements were divided into manipulable factors. We suggested authorities and public health workers could focus on key factors proposed in this study and carry out a targeted vaccination promotion program. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Atkins,D. C., Rubin,T. N., Steyvers,M., Doeden,M.A., Baucom, B.R.,& Christensen,A.   \n(2012). Topic models: a novel method for modeling couple and family text data.Journal of family   \npsychology,26(5), 816. Bell,S., Clarke,R., Mounier-Jack, S., Walker,J.L.,&Paterson,P.(202O).Parents'and guardians   \nviews on the acceptability of a future COVID-19 vaccine: A multi-methods study in   \nEngland. Vaccine, 38(49), 7789-7798. Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet allcation. Journal of machine   \nLearning research, 3(Jan), 993-1022. Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in   \npsychology, 3(2), 77-101. Calderón, C.A., de la Vega, G.,& Herrero, D.B.(2020).Topic modeling and characterization of   \nhate speech against immigrants on Twitter around the emergence ofa far-right party in Spain. Social   \nSciences,9(11), 188. Chuang, J.,Ramage,D., Manning,C., & Heer, J. (2012,May). Interpretation and trust: Designing   \nmodel-driven visualizations for text analysis. In Proceedings of the SIGCHI conference on human   \nfactors in computing systems (pp. 443-452). Geana, M. V., Anderson, S., & Ramaswamy, M. (2021). COvID-19 vaccine hesitancy among   \nwomen leaving jails: A qualitative study. Public Health Nursing, 38(5), 892-896. Hariman,N., Vries,M.D., & Smeets,I. (2018,November). Topic modeling for exploring cancer  \nrelated coverage in journalistic texts. In Benelux conference on artificial intelligence (pp. 43-51).   \nSpringer, Cham. Lyu, J. C.,Le Han, E.,& Luli, G.K. (2021). COVID-19 vaccine-related discussion on Twiter:   \ntopic modeling and sentiment analysis.Journal ofmedical Internet research,23(6), e24435. MacDonald，N.E.(2015).Vaccinehesitancy:Definition,scope and   \ndeterminants. Vaccine,33(34), 4161-4164. Marban-Castro,E., Pons-Duran, C., Garcia-Otero,L., Chen, H., Herrera,L.B., Gil, M. D. M..   \n& Enguita-Fernandez, C. (2021). Acceptability of clinical trials on COVID-19 during pregnancy   \namong pregnant women and healthcare providers: a qualitative study. International journal of   \nenvironmental research and public health, 18(20),10717. Ramage, D.， Hall， D., Nalapati, R.，& Manning,C. D. (2009,August). Labeled LDA: A   \nsupervised topic model for credit atribution in multi-labeled corpora. In Proceedings of the 2009   \nconference on empirical methods in natural language processing (pp. 248-256). Sievert, C., & Shirley, K. (2014, June). LDAvis: A method for visualizing and interpreting topics.   \nIn Proceedings ofthe workshop on interactive language learning, visualization, and interfaces (pp.   \n63-70). Siu, J. Y. M., Cao,Y.,& Shum, D.H. (2022). Perceptions of and hesitancy toward COVID-19   \nvaccination in older Chinese adults in Hong Kong: a qualitative study. BMC geriatrics,22(1),1-16. Stevvers. M.. & Grifiths.T. (2006). Probabilisuic topic models.In T. Landauer. D. McNamara.   \nS. Dennis, & W. Kintsch (Eds.), Latent semantic analysis: A road to meaning, (pp. 427-448).   \nMahwah,NJ: Eribaum. The SAGE Vaccine Hesitancy Working Group. Report of the SAGE working group on vaccine   \nhesitancy. 2014;   \nhttp://www.who.int/immunization/sage/sage_wg_vaccine_hesitancy_aprl2/en/index.html Thomson,A.,Robinson,K.,& Vallee-Tourangeau, G. (2016). The 5As: A practical taxonomy for   \nthe determinants of vaccine uptake. Vaccine, 34(8),1018-1024. Wake,A. D. (2021). The willingness to receive COVID-19 vaccine and its associated   \nfactors:\"vaccination refusal could prolong the war of this pandemic”-a systematic review. Risk   \nmanagement and healthcare policy,14,2609. Wang, J.,& Li, C. (2020, July). Research on User Satisfaction of Video Education Application   \nBased on Reviews. In 2020 IEEE 10th International Conference on Electronics Information and   \nEmergency Communication (ICEIEC) (pp.340-343). IEEE. Xue, J., Chen,J., Chen, C., Zheng, C.,Li, S.,& Zhu, T. (202O).Public discourse and sentiment   \nduring the COVID 19 pandemic: Using Latent Dirichlet Alocation for topic modeling on   \nTwitter. PloS one,15(9), e0239441. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/522f71025a42955a582644990d853c830420e6023900109be81a0d5d393d6c0d.jpg",
+        "table_caption": [
+            "Appendix.31 Codes generated from the interview transcripts "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Code name</td><td>Operational definition</td></tr><tr><td>1</td><td>Vaccine safety</td><td>The vaccine does not pose a threat to personal safety, such as a low incidence rate of serious adverse reactions, and the good health</td></tr><tr><td>2</td><td>Vaccine effectiveness</td><td>condition of population after vaccination The effective result and effective time period. That is,vaccine could protect individuals from the infection of corona virus with a high probability,and vaccine is effective in a specific period of</td></tr><tr><td>3</td><td>Convenience</td><td>time. ofCosts that need to be considered in the process of vaccination, such</td></tr><tr><td>4</td><td>vaccine</td><td>as distance, time. TherestrictionofThe specific groups that are not suitable for vaccination</td></tr><tr><td>5</td><td>vaccination uptake Introduction vaccine general</td><td>ofBasic information about vaccine, such as the components of vaccine.</td></tr><tr><td>6</td><td>information of</td><td>Specific explanationExplanation of specific behaviors and requirements in the process vaccinationof vaccine promotion, such as the specific reasons for people who are not suitable for vaccination</td></tr><tr><td>7</td><td>requirement Unofficial position</td><td>The publisher of the information is not the official media, but some medias with a neutral political position and no political purpose.</td></tr><tr><td>8 9</td><td>Official position Scarcity</td><td>The confidence in public power. The scarcer the product, the more people want it. This means that</td></tr><tr><td></td><td></td><td>people are more likely to desire or demand products if they are told they are hard to get.</td></tr><tr><td>10 11</td><td>Data exhibition Popular science</td><td>Provide specific numeric values in the expression. Provide vaccine-related scientific information for public in</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "12 Responsibility ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "accurate, rigorous, and easy-to-read language.   \nPeople hold the awareness,emotion and belief that an individual should be responsible for himself and others, family and group, country and society. And they also have the corresponding conscious atitude that an individual should abide by norms, accept responsibility, and fulfill obligations.   \nThe individual realizes that he belongs to a particular social group, and at the same time recognizes the emotion and value that group brings to him. This group identification willform a kind of spiritual cohesion, which to some extent regulates the values and moral norms of group members.   \nIndividuals' subjective judgments about how safe their current environment is, how serious the epidemic is,and how much their infection risk of is.   \nAn individual tends to follow group norms to form beliefs,and attitudes and take behaviors.   \nAn individual abandons his or her own opinion and behaves in accordance with policy demands, group regulations.   \nSpecializationmeansthecharacteristicsofinformation disseminator,includingprofessionalability，well-trained knowledge and rich experience.   \nTrustworthiness means information receivers believe that the communicator is able and willing to provide objective, fair, true and effective information. Communicator should be sincere, honest and objective, and have no specific communication motives and intentions.   \nAttraction means we are more likely to follow a request from someone we admire or like.   \nThe information of pros and cons should be both provided.   \nActs with the aim of persuasion. Such acts can be regarded as a threat to freedom if they interfere with individual free choice. Increase compliance by indicating to individuals that they have limited time to obtain certain benefits.   \nPeople who take the COVID-19 vaccine will get certification in a certain form, such as the unique health code.   \nIndividuals' subjective experience of the relationship between the personal life and vaccination uptake.   \nAdditional benefits except for vaccine benefits per se.   \nProvide different quality and different effects of goods for users to compare and choose.   \nAn individual or group who work as a reference when a person forms an attitude   \nIndividuals can gain knowledge about vaccination by observing how others behave. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "13 Group identification   \n14 Risk perception   \n15 Conformity   \n16 Policy requirement   \n17 Specializations   \n18 Credibility   \n19 Attraction   \n20 Dual role persuasion   \n21 Perceived threat   \n22 Deadline strategy   \n23 Vaccination   \ncertification   \n24 Personal   \ninvolvement degree   \n25 Extra benefits   \n26 Providing   \ncomparison   \n27 Reference group   \n28 Vicarious experience ",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd51aa303c757e1ca6153d4b4df38c06b7a4581832afa3060c560daec6474cba.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>29 In-group pressure</td><td>An influence that a group has on its members. When a group member's thoughts or behaviors conflict with group norms, members feel a mental pressure that they need to abide by group</td></tr><tr><td>30 Certainty</td><td>norms in order to maintain their relationship with the group. ofDoes not contain arbitrary or ambiguous expressions.</td></tr><tr><td>vaccination information 31 Psychological</td><td>The emotional or psychological distance that an individual</td></tr></table></body></html>",
+        "page_idx": 16
+    }
+]

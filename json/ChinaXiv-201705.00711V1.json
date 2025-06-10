@@ -1,0 +1,290 @@
+[
+    {
+        "type": "text",
+        "text": "Esrrb Activates Oct4 Transcription and Sustains Self-renewal and Pluripotency in Embryonic Stem Cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Receivdf Xiaofei Zhang+51, Juan Zhang\"1,Tao Wang\\*, Miguel A. Esteban\\*,and Duanqing Pei\\*2 FromtheStemCellandCancerBiologyGroup,LaboratoryofRegenerativeBologySouthChinaInstituteforStemCelBiology andRegenerativeMedicine,GuangzhouInstituteofBiomedicineandHealth,ChineseAcademyofSciences,Guangzhou51063, China,thechoolofifeencesUivesityiencedchlogofna,Hefe7indtebatf StemCellBologeprtmentofloicaenedtecolgytiutefomicinholficin University,Beijing100084,Chind ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The genetic program of embryonic stem (ES)cells is orchestrated bya core of transcription factors that has OCT4, SOX2,and NANOG as master regulators.Protein levels of these core factors are tightly controlled by autoregulatory and feed-forward transcriptional mechanisms in order to prevent earlydifferentiation.Recent studieshave shown that knockdown of Esrrb (estrogen-related-receptor $\\pmb { \\beta }$ ),amember of the nuclear orphan receptor family,induces differentiation of mouse ES cells cultured in the presence of leukemia inhibitory factor.Itwas however not known how knocking down Esrrb exertsthis effect.HereinwehaveidentifiedtwoESRRB binding sites in the proximal $5 ^ { \\prime }$ -untranslated region of the mouse Oct4 gene,one of which is in close proximity to a NANOG binding site.Both ESRRB and NANOG are necessary for maintaining the activity of this promoter in ES cell lines.We have also demonstrated that the two transcription factors interact through their DNA binding domains.This interaction reciprocally modulates their transcriptional activities and may be important to fine-tune ES cell pluripotency.Supporting all of these data,stable transfection of Esrrb in ES cell lines proved sufficient to sustain their characteristics in the absence of leukemia-inhibitory factor.In summary,our experiments help to understand how Esrrb coordinates with Nanog and Oct4 to activate the internal machinery of ES cells. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two defining properties of $\\mathrm { E S } ^ { 3 }$ cells are the capacity to generate all cell types of an organism (pluripotency) and the ability to remain in a proliferative undifferentiated state (self-renewal).Despite the existence of differences,both human and mouse ES cells obtained from the inner mass of blastocysts can be cultured for prolonged periods of time without losing these two characteristics (1-3).Remarkably,the successful reprogramming of somatic cells to an embryonic-like state by nuclear transfer or less efficiently by fusion with ES cells demonstrated that specific factors exist in these cells that not only maintain but also can induce pluripotency $( 4 - 7 )$ . Understanding the molecular principles governing ES cell pluripotency is of outstanding interest for clinical purposes,as for example it may allow faithful differentiation into specific lineages or tissues. Recent large scale studies involving DNA microarray analysis upon forced differentiation of ES cells,chromatin immunoprecipitation (ChIP)-on-chip analysis,RNA interference,and proteomics approaches,have proven very powerful to gain insight into the internal machinery of ES cells (8-1O).These and other reports have shaped an interlaced transcriptional network orchestrated by three transcription factors: OCT4, SOX2,and NANOG (11).A substantial proportion of the genes targeted by the three factors are transcription factors as well，making understandable how three proteins alone can control the complex ES cell behavior.Remarkably, the levels of these core factorsmust be tightly coordinated to prevent early differentiation．Forexample，repression orinactivation ofOct4 differentiates ES cells along the trophoectodermal lineage, whereas high levels of Oct4 can also cause differentiation mainly into primitive endoderm-like derivatives (12). OCT4, SOX2,and NANOG frequently co-occupy the promoters of their target genes and also bind to their respective own promoters to modulate their own expression.In addition,all three factors can bind to and activate the Oct4 promoter(11). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As the amount of knowledge has increased, new constituents have been added to the ES cell pluripotency network, among whichareTcf3,Rest,andEsrrb(8,9).Tcf3andRestactatleastin part by controlling the transcription levels of the main core factors (13,14). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ESRRB and the related $\\operatorname { E S R R } \\alpha$ and $- \\gamma$ share significant homology with the estrogen receptor and belong to the superfamily of nuclear receptors (l5).They are classified as orphan receptors because they bind to DNA and are transcriptionally active in the absence of identified exogenous ligand (l6). ESRRB can be co-immunoprecipitated as part of the protein complexassociated with NANOG in ES cells (1O),but the functional significance of this interaction was not known.In addition,Esrrb knockdown using either short hairpin RNAlentiviruses or small interfering RNA oligonucleotides induces ES cell differentiation(8,9).Possiblyrelated to this,Esrrb is essential foradequate placental development, with Esrrb null mutant mice displayingabnormal trophoblast proliferation and precocious differentiation toward the giant cell lineage (17). In this report,we have investigated how Esrrb relatesto the fundamental ES cell regulators Oct4 and Nanog and have also demonstrated that forced expression of Esrrb alone is enough to maintainES cell characteristics. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURES ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell Lines,Culture Media,and Primary AntibodiesHEK293T cells,mouse ES cell lines CGR8 and E14T,and mouse embryonic carcinoma cell lines P19 and F9 were cultured in Dulbecco's modified Eagle's medium high glucose (Invitrogen) with $1 0 \\%$ (HEK293T), $1 5 \\%$ (P19 and F9),or $20 \\%$ (CGR8 and E14T) of fetal bovine serum (Hyclone) and penicillin/streptomycin.Medium for ES cells also contained LIF (1000 units/ml; Chemicon),nonessential amino acids (100 mM; Invitrogen), $0 . 5 5 \\mathrm { m M } 2$ -mercaptoethanol(Invitrogen),1 mM pyruvate sodium (Invitrogen),and $2 \\ \\mathrm { m M }$ GlutaMAX (Invitrogen).Stable transfectants were prepared by transient transfection with pPyCAGIP containing Esrrb or Nanog and selection with puromycin (Fluka).Alkaline phosphatase (AP）staining was performed using a kit from Chemicon. Antibodiesused for this study were anti-NANOG and antiESRRB (made by us),anti-FLAG (Sigma),anti-Myc (Abcam), and anti-OCT4(Santa Cruz Biotechnology,Inc., Santa Cruz, CA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plasmidsand TransfectionProcedures-pPyCAGIPplasmids containing mouse NANOG full-length or deletions N1 (amino acids1-197),N3 (amino acids1-247),and N4 (amino acids 1-197/248-305)，and FG-CD (amino acids 156-305) and NHWVP16 and NHVP16 plasmids have been described before (18-20).N5 and N6 were prepared by inserting PCR products encoding amino acids 1-95 (N5) of NANOG or 96-156 (N6) into a modified pCR3.1 II with green fluorescent protein and a Myc tag in the $\\mathrm { N H } _ { 2 }$ -terminal edge.pPyCAGIP plasmids containing full-length mouse ESRRB and deletions E1 (amino acids 1-211),E2 (amino acids 1-168),E3 (amino acids 169-433),E4 (amino acids 212-433),and E5 (amino acids 93-433) were generated by inserting PCR products into a modified pPyCAGIP plasmid containing an amino-terminal FLAG or Myc tag. NANOG luciferase reporter plasmid p5N and the luciferase reporter plasmid containing the Oct4 promoter have been described before (18,21); the pS2-luciferase plasmid was a kind gift fromDr.Vincent Giguere (McGill UniversityHealth Center,Montreal, Canada) (22).Mutagenesis of the Oct4 promoter was performed using Pyrobest DNA polymerase (Takara) and DpnI (New England Biolabs) digestion.Primers were muNanog- ${ \\bf \\nabla } \\cdot { \\bf F } _ { \\mathbf { \\Omega } }$ 0 $5 ^ { \\prime }$ -gccatcctggcccatGACCAggttgagtacttgtttagg)，muNanog-R ( $\\cdot 5 ^ { \\prime }$ -cctaaacaagtactcaaccTGGTCatgggccaggatggc)， muEsrrb-P1- ${ \\bf \\nabla } \\cdot { \\bf F } _ { \\mathbf { \\Omega } }$ 0 $\\cdot 5 ^ { \\prime }$ -ggattgtccagccaaTTccattgtcctgccccctccc), muEsrrb-P1-R( $\\cdot 5 ^ { \\prime }$ gggaagggggcaggacaatggAAtggctggacaatcc), muEsrrb-P1-F( $5 ^ { \\prime }$ -gaattatcaggagttcaaTTCcagcttgtttatag), muEsrrb-P2-R( $5 ^ { \\prime }$ -ctataaaacaagctgGAAttgaactcctgataattc). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c70cb0bd552b76fe7a2ecdc7af68102cf69e03bdeb1fca35af040d7490053131.jpg",
+        "img_caption": [
+            "FIGURE 1. Endogenous NANOG and ESRRB interact in ES cells.Lysates from untransfected mouse CGR8 ES cells were immunoprecipitated with antibodies against NANOG or ESRRB; rabbit preimmune serum was used as a control.Immunoprecipitates $( I P )$ ora percentage $( 5 \\% )$ of the total lysate $( L )$ were blotted for NANOG and ESRRB.One representative experiment of three is shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All newly prepared plasmids were verified by sequencing. Lipofectamine 2ooo (Invitrogen) was used for all transfections. Cellswereharvested $2 4 \\mathrm { h }$ aftertransfection for Western blotting and luciferase activity measurement and after $^ { 4 8 \\mathrm { ~ h ~ } }$ for immunoprecipitation assays.Luciferase activity was measured using the dual luciferase reporter assay system from Promega. Transfections were carried out as duplicates and repeated at least three times. The indicated luciferase reporter genes (0.2 $\\mu \\mathrm { g } )$ and either pPyCAGIP vector(control) or the indicated expression vectors $( 0 . 5 ~ \\mu \\mathrm { g } )$ were used; pCMV-Renilla (0.005 $ { \\mu } \\mathrm { g } )$ wasused for normalization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Western Blotting and Immunoprecipitation-Cells were lysed in radioimmune precipitation buffer with protease inhibitormixture(Sigma） and phenylmethylsulfonyl fluoride (Amersco).Membranes were developed using AP with nitro blue tetrazolium and 5-bromo-4-chloro-3-indolyl phosphate or ECL.For immunoprecipitation,cells were transfected in $6 0 \\mathrm { - m m }$ dishes and lysed on ice in $4 0 0 \\mu \\mathrm { l }$ ofTNEbuffer $\\mathrm { \\zeta } 5 0 \\mathrm { \\ m M }$ Tris-HCl, $\\mathrm { p H } ~ 7 . 5$ P $1 5 0 \\ \\mathrm { m M \\ N a C l }$ ： $0 . 5 \\%$ Nonidet P-40, $1 ~ \\mathrm { m M }$ EDTA) with protease inhibitor mixture and phenylmethylsulfonyl fluoride.We used anti-FLAG-conjugated agarose beads from Sigma or anti-ESRRB and anti-NANOG combined with protein A/G-Sepharose beads (Sigma); $5 0 \\mu \\mathrm { l }$ of the lysate supernatant was saved for the input control. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ChIP-DNA-protein complexes were cross-linked by adding $1 \\%$ formaldehyde to cells cultured in $1 0 \\mathrm { - c m }$ dishes,crosslinking was stopped with glycine. Cells were lysed on ice usinga buffer containing $5 ~ \\mathrm { m M }$ PIPES, $\\mathrm { p H } 8 . 1$ D $8 5 ~ \\mathrm { m m ~ K C l }$ $0 . 5 \\%$ Nonidet P-40,and protease inhibitor mixture.Nuclei wererecovered by centrifugation and extracted with nuclei lysisbuffer ( $\\mathrm { \\zeta } 5 0 \\mathrm { m M }$ Tris-HCl, $\\mathrm { p H } 8 . 1$ ， $1 0 ~ \\mathrm { m M }$ EDTA, $1 \\%$ SDS with protease inhibitors and phenylmethylsulfonyl fluoride) onice.Chromatin samples were sonicated on ice and centrifuged,and supernatants were precleared with protein A-Sepharose beads pretreated with salmon sperm (Sigma). Corresponding antibodies were incubated overnight with the samples in rotation at $4 ^ { \\circ } \\mathrm { C } ;$ rabbit preimmune serumwas used as control antibody.Fresh protein A-Sepharose beads with salmon sperm were added afterward,incubated for $2 \\mathrm { h }$ and washed in rotation at room temperature sequentially withlowsaltbuffer( $0 . 1 \\%$ SDS, $1 \\%$ Triton X-100,2 mM TrisHCl, $\\mathrm { p H } 8 . 1$ ， $1 5 0 \\ \\mathrm { m M \\ N a C l ) }$ ,highsaltbuffer $( 0 . 1 \\%$ SDS, $1 \\%$ Triton X-100, $2 ~ \\mathrm { m M }$ Tris-HCl, $\\mathrm { \\ p H \\ 8 . 1 }$ ， $5 0 0 ~ \\mathrm { m M } ~ \\mathrm { N a C l } _ { , }$ ，LiCl buffer ( $0 . 2 5 \\mathrm { ~ M ~ }$ LiCl, $1 \\%$ Nonidet P-40, $1 \\%$ deoxycholate, $1 \\mathrm { m M }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8965f83dde3166320c62d15593b46b79ea0375203bddfb2f69253d888c1cf913.jpg",
+        "img_caption": [
+            "FIGURE 2.NANOG and ESRRB interact through their DNA binding domains.A,the scheme shows the respective protein domains contained in mouse NANOG deletions N1,N3,N4,N5,N6,FG,and FG-CD.ND, amino-terminal transactivation domain; $H D ,$ homeodomain and corresponds to the DNA binding domain of NANOG.The carboxyl-terminal transactivationdomain of NANOG is composed ofthe CD1,WR,and CD2 subdomains.Panels on the right-hand side show Western blots with anti-NANOG (left),anti-Myc(middle), or anti-FLAG (right) of lysates from transiently transfected HEK293T cells and demonstrate adequate expression and sizes of these constructs.One representative experiment is shown.B,the scheme depicts mouse ESRRB andthe domains containedin deletions E1-E5;the DNA binding domain of ESRRB contains the entire Cdomain and alsoa part of D.On the right-hand side,Western blots using anti-FLAG (left)or anti-Myc (right)antibodies demonstrate adequate expressonand sizes of these constructs in transiently transfected HEK293T cells.One representative experiment is shown. $C { - } F ,$ immunoprecipitation $( I P )$ with the indicated antibodies of HEK293Tcels transiently transfected with the indicated plasmids.A fraction $( 5 \\% )$ of the total lysate (Input) was used as a control.Arows (black)are used to indicate heavy and light immunoglobulinchainsand,where convenient,also (in red NANOG and ESRRB deletions.One representativeexperiment of four is shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EDTA, $1 0 ~ \\mathrm { m M }$ Tris-HCl, $\\mathrm { p H } 8 . 0 \\dot { }$ ) and finally two times in TE buffer. Chromatinwaseluted with $5 0 0 ~ \\mu \\mathrm { l }$ of elution buffer $( 5 0 \\mathrm { m M } \\mathrm { N a H C O _ { 3 } } ;$ $1 \\%$ SDS）at room temperature. RNase A (Ameresco） and NaCl were added to the eluates,and samples were incubated at $6 5 ~ ^ { \\circ } \\mathrm { C }$ for $4 { - } 5 \\mathrm { h }$ to reverse the cross-linking. DNA was precipitated with ethanol. The following primers were used for PCR amplification: P1 forward ( $\\cdot 5 ^ { \\prime }$ -ggggattggggctcaggagggggt),P1 reverse ( $\\cdot 5 ^ { \\prime }$ -tctccctccccccacctcctcatc)，P2 forward 0 $\\cdot 5 ^ { \\prime }$ -atgtgctatgtgtagctgtgtgta)， P2 reverse ( $5 ^ { \\prime }$ -tagccaggacagagttctgagcct),control forward $' 5 ^ { \\prime }$ -gatggaatactgtgctctgaaaac)，and control reverse 0 $\\cdot 5 ^ { \\prime }$ -catcctctggagagcctaaaacat). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ElectrophoreticMobilityShiftAssay—Nuclear extracts were obtained using an extraction kit from Keygene.Equal protein amounts were incubated with the corresponding biotin-labeled DNA probes using the Chemiluminescent Nucleic Acid Detection Module (Pierce).The gel was transferred to a charged nylon membrane (Millipore)before developing.For supershift experiments,antibodies were added to the reaction mixtures. ProbeswereEsrrb-P1 (forward, $5 ^ { \\prime }$ -attgtccagccaaggccattgtcctgc; reverse, $5 ^ { \\prime }$ -gcaggacaatggccttggctggacaat),Esrrb-P2 (forward, $5 ^ { \\prime }$ -caggagttcaagggcagcttgtt; reverse, $5 ^ { \\prime }$ -aacaagctgcccttgaactcctg)，and Nanog (forward, $5 ^ { \\prime }$ -gagccatcctggcccattcaagggttg; reverse, $5 ^ { \\prime }$ -caacccttgaatgggccaggatggctc). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence-Cells were fixedin $4 \\%$ paraformaldehyde, washed with phosphate-buffered saline,andblocked for $6 0 ~ \\mathrm { { m i n } }$ with $1 0 \\%$ fetal bovine serum in phosphate-buffered saline containing $0 . 1 \\%$ Triton X-1oo. Secondary antibody goat anti-mouse IgM TRITC was purchased from Southern Biotech.All antibodies were diluted in $2 \\%$ fetal bovine serum in phosphatebuffered saline;cells were washed with phosphate-buffered saline and mounted on $8 0 \\%$ glycerol.A confocal microscope (LEICA TCS SP2 AOBS) was used for visualization. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/23eda123f88bca766874e7252f680a535ca9d4586eb6a410382ee371bc24893c.jpg",
+        "img_caption": [
+            "FIGURE3.ESRRB and NANOG reciprocally modulate their transactivation ability in pluripotent cells. A,pluripotent mouse CGR8 ES cells and P19 and F9 mouse embryonic carcinoma cellines were cotransfectedwitha NANOGluciferase reporterand eitherempty vectororNanog.Esrrboremptyvector was also co-transfected with Nanog.One representative experiment of three is shown. $B ,$ scheme showing the domains contained in the chimeric NANOG NHWVP16 and NHVP16 proteins.Western blot of transiently transfected HEK293T cels demonstrates adequate expression and respective molecular weights of NHWVP16 and NHVP16.One representative experiment is shown.C,pluripotent CGR8,P19,and F9 cells were co-transfected with NANOG luciferase reporter and empty vector or NHWP16 and NHVP16; Esrb or empty vector were also co-transfected as indicated.One representative experiment of three is shown. D,Esrb and either empty vectoror Nanog were co-transfected with ESRRB luciferase reporter in pluripotent CGR8,P19,and F9 cells.The same cellines were co-transfected with the ESRRB reporterand either empty vector or Esrrb; NHWVP16 or empty vector was also co-transfected with Esrrb (right).One representative experiment of three is shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Real Time Reverse Transcription-PCR-RNA extraction was performed using TRIzol (Invitrogen).Equal amounts of RNA were retrotranscribed using RTAce (Toyobo),and real time reverse transcription-PCR experiments were performed using SYBR Green (Takara) and an ABI machine. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Samples were normalized on the basis of $\\beta$ -actin values.Primers used for this study are available upon request. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ESRRB andNANOG Interact through Their DNA Binding Domains-Previously，immunoprecipitation and subsequent mass spectrophotometry analysis has identified ESRRB as a putative NANOG-interacting protein (1O).We verified this interaction in mouse CGR8 ES cells by immunoprecipitation with antiNANOG oranti-ESRRB and Western blotting (Fig.1). Next, we mapped the domains involved in this interaction. Deletion mutants of NANOG and ESRRBwereoverexpressedin HEK293T cells, which do not express endogenous ES cell markers (e.g. Nanog or Oct4). Deletions N1,N3, N4, N5, N6,and FG-CD of NANOG; and deletions E1-E5 of ESRRB are represented in Fig.2,A and $B$ NANOG N1, N3, N4,and FG-CD have been described by us before (18); FG-CD is fused to the Gal4 DNA binding domain and a FLAG tag. NANOG N5 and N6 have an aminoterminal green fluorescent protein and a Myc tag.ESRRB full-length is fused to either Myc or FLAG.All ESRRB deletions are fused to an amino-terminal FLAG tag.Western blotting with anti-NANOG,anti-Myc, or anti-FLAG antibodies showed efficient expression of these constructs (Fig. $^ { 2 , A }$ and $B _ { . }$ ). Full-length NANOG (N) was co-immunoprecipitated with full length ESRRB-FLAG (E),and the interaction wasmaintained with ESRRB deletions E1 and E5 but not with deletions E2-E4,which lack all or part of the DNA binding domain (Fig. 2C). NANOG full-length and deletions N1,N2,N3,and N6,but not N5 (lacks DNA binding domain), coimmunoprecipitated with ESRRBFLAG (Fig. $2 , D$ and $E _ { \\mathrm { { \\ell } } }$ . Immunoprecipitation with anti-FLAG antibodies ofcellsoverexpressing NANOG ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FG-CD and Myc-ESRRB (Myc-E) demonstrated that ESRRB does not interact with the carboxyl-terminal domain of NANOG (Fig. 2F).Taken together,our results indicate that the interaction between ESRRB and NANOG is mediated through their respective DNA binding domains. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A   \n-2212 ggaggttgta gccgaccct gcccctcccc ccaggaggt tgagagttct Labeled probe + + + + + + + +   \n-2162 gggcagacgg cagatgcata acaaaggtgcatgatagctc tgccctgggg -2112gcagagaagatggttggggaggggtccctctcgtcctagcccttccttaa Unlabeledprobe 1 1 + - . 1 +   \n-2062tctgctattgaggaagctttgtgaacttggcggcttccaagtcgctgcct Myc-Esrrb NE - + + + - + + +   \nttc Anti-Myc 1 + 1 + =   \n-1912 agagggccag agagatggcccctcagccac cctggggat gactggacc   \n-1862catgtggtagaaggagggacttccacadatgtgctatgt gtagctgtgt   \n-1812gtaggtacat acacaccttaaaataaaac gcaatttt tcaaagtc   \n-1762 tcagggtgaa tttggtgaag tcgatgaagc tgaggcagga gaattatcag   \n12tcaattttcatcta EsrrbP1 Esrrb   \n612eg P2   \n-1512 tcaccctggg gccttcgttcagagcatggt gtaggagcag acagacaaac   \n-1462 accatcctt gcagacaggc actctgaggg ctattctctt gcaaagataa   \n-1412ctaagcaccaggccagtaat gggatcctcagactgggcccagaaaaccac   \n-1362tctagggaag ttcagggtaggctctctgca ccccctcctc ctaatcccgt   \n-1312ctccttagtgtctttccgccagcacaggaatgggggaggg gtgggtgacg   \n2 freeprobe- free   \n-1162 gggatgggg ctcaggagggttggggag caggaagttg tccccagg probe   \n-12cgagg u   \n-912 tcccccagtc cctcccaggcccctttgaac ctgaagtcagatatttcttc   \n-862 tctctacccacctcccacccgttgggtttctccacccaggaactaggctg Labeled probe + + + +   \n-812 gaagcctgggatgaggaggtggggggagggagaactgagaatcttgagga   \n-762 aagaggcccc ggccttaact gtgaggggat ggagcctggg tgcaggtctt Unlabeledprobe - - - +   \n-712 atgggggttggggggtggttagtgtctaatctaccaacctggacaacaca NanogNE 1 + + +   \n-662 -612 agatggaatactgtgctctgaaaacgcagagccagcacttctctggggtc tctggggacatatctggttggggctcggggtcccatggtgtagagcctct Control Anti-Nanog = +   \n-562 aaactctggaggactggaggtgcaatggctgtcttgtcctggccttggac   \n-512 atgggctgaa atactgggtt cacccatatc taggactctagacgggtggg   \n-462 taagcaagaactgaggagtggccccagaaataattggcacacgaacattc   \n-412 aaegttgtccacggttccc NanogP1   \n-312 agcaactggtttgtgaggtgtccggtgacc caaggcaggggtgagaggac   \n-262 cttgaaggtt gaaaatgaaggcctcctggggtcccgtcctaagggttgtc   \n-212 ctgtccagacgtccccaacctccgtctggaagacacaggcagatagcgct   \n-162 cgcctcagtt tctcccacc ccacagctct gctcctccac ccacccagg   \n-112 ggcggggccagaggtcaaggctagagggtgggattggggagggagaggtg   \n-62 aaaccgtccc taggtgagcc gtctttccac caggcccccg gctcggggtg   \n-12 cccaccttcc cc freeprobe   \nC antibody oantibody S Antibody Antibody NO InP No P Anti-Esrrb Anti-Nanog Control ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "moderately inducedESRRB mediated-transcriptional activity in P19 and F9 cells and more potently in CGR8 ES cells (Fig. $3 D _ { \\cdot } ^ { \\cdot }$ ).Thissynergistic effect was more dependent on the CD2 domain of NANOG than theWR,sinceitwasabolished when NHWVP16 (which only lacks CD2) wasoverexpressed together with ESRRB and the pS2 reporter (Fig. $3 D _ { , } ^ { \\cdot }$ ).Hence,the interaction between ESRRB and NANOG has the potential to reciprocally modulate the transcriptional activityof both. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A B Oct4promoter F9cells + +1 ATGferase 25 25 5 山 Oct42.2kpromoter Nanog binding site Estrogen related receptor bindingsite 0 Vector Nanog Nanog Esrrb + Esrrb   \nC Oct4promoter CGR8cells 3000 1000 0 WT 377 muEsrrbP1 muEsrrb P2 muNanog P1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ESRRB and NANOG Independently Activate Oct4 Transcription—Given the above results,we speculated that ESRRB might be controlling ES cell behavior by binding to and activating the promoters of key ES cell core factors. We chose Oct4 as a putative target because tight control of Oct4 levels is essential to prevent ES cell differentiation (12).Using the MAT-INSPECTOR program (Genomatix)，we identified two degenerate ESRRB DNA binding sites (ESRRB-P2 and ESRRB-P1) (25) in the mouse proximal Oct4 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ESRRB and NANOG Reciprocally Modulate Their Transactivation Ability in Pluripotent Cells-NANOG was originally described as a transcriptional repressor (23,24).We have previously reported that it can also act as a potent transactivator (18),thanks to two unusually potent transactivation domains (WR and CD2) located in the carboxyl-terminal edge (see Fig. 2A).We thus hypothesized that the interaction between ESRRB and NANOG might result in increased transcriptional activity of the latter,since this could potentially explain why Esrrb knockdown induces ES cell differentiation.Paradoxically, forced expression of Esrrb in CGR8 and mouse embryonic carcinoma cell lines (P19 and F9) repressed the activation mediated by NANOG of a reporter gene containing NANOG binding sites (Fig.3A).A similar experiment was performed using chimeric proteins ofNANOG that lack either the CD2 terminal domain (NHWVP16) or the entire carboxyl-terminal transactivation domain (CD1,WR,and CD2) (NHVP16) and are fused to the viral VP16 transactivation domain (see scheme in Fig. 3B).Western blotting showed potent expression of both NANOG fusion proteins in HEK293T cells (Fig.3B).ESRRB reduced the activity of both NHWVP16 and NHVP16 in pluripotent cells (Fig.3C),demonstrating that the repressive effect does not involve the carboxyl-terminal transactivation domain of NANOG. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ESRRB can bind to specific DNA response elements and activate transcription (e.g. in the case of the pS2 gene) (22).We evaluatedwhetherNANOGcouldinfluence ESRRB transactivation ability in this setting.Forced expression of NANOG promoter (Fig. 4A).ESRRB-P1 is located near a putative NANOG site.Specific binding of ESRRB or NANOG to these sequences was demonstrated by electrophoretic mobility shift assay with labeled oligonucleotide sequences that comprise either ESRRB-P2 or ESRRB-P1 or the NANOG binding site.Nuclear extracts were prepared from HEK293T cells transiently transfected with Myc-Esrrb or Nanog.ESRRB bound to both ESRRB-P1 and ESRRB-P2，and NANOG bound to its putative cognate sequence (Fig. 4B). Binding was effectively eliminated in both cases when anti-Myc or anti-NANOG antibodies were added to the reaction mixture (Fig.4B).ChIP analysis of CGR8 cells stably expressing MycEsrrb (to increase efficiency of the capture) further demonstrated that both ESRRB-P2 and P1 are bona fide ESRRB binding sites (Fig. 4C). Only the DNA fragment containing the NANOG binding site could be immunoprecipitated with anti-NANOG antibodies in CGR8 cells stably expressing NANOG-Flag (Fig.4C).We next used a luciferase reporter plasmid containing the Oct4 promoter described in Fig.4A (see the scheme in Fig. 5A).Overexpression of Nanog and Esrrb activated the Oct4 promoter reporter in F9 when transfected individually,but co-transfection did not result in synergybut rather in antagonism (Fig.5B).This effect could be related to the above described interplaybetween ESRRBand NANOG.Overexpression of either transcription factor in CGR8 cells could only activate the Oct4 reporter modestly (data not shown)，which is probably due to high levels of endogenous Esrrb and Nanog. We therefore mutated ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c53690b878a2c57298b5decf34828144c094b83c9dd870faa8001a69f46a561.jpg",
+        "img_caption": [
+            "FIGURE 6.Esrrb is suicient to maintain ES pluripotency and self-renewal intheabsence ofLIF.A,CGR8 cellinestablytransfected with emptyvectororMyc-Esrrb were cultured inthe presenceofLIFordeprivedof LIFfor6days,afterwhich phase-contrast pictures were taken.Mostif notal colonies remained undiferentiated in Esrrb-overexpresing LIFcultured in either condition.This behaviorwas reproduced in multiple experiments.B,representative AP staining of the same cellines with orwithout LIF.Quantification is shown in the right panel.This pattern was maintained in multiple experiments. $C ,$ real time reverse transcription-PCR of selected genesassociated withEScellpluripotency ordifferentiation.One representative experimentofthree is shown. $D ,$ immunofluorescence microscopy(IF) with anti-NANOG and anti-OCT4 of the same CGR8 cell lines. Representative fields are shown.The experiment was repeated three times. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ESRRB-P1 and ESRRB-P2 or the NANOG binding site; the latter 2 mutations had a potent effect in reducing the basal activity of the Oct4 promoter in CGR8 cells (Fig. 5C).In conclusion,ESRRB and NANOG independently bind to and activate Oct4 transcription. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Esrrb Can Sustain ES Cell Pluripotency and Self-renewal in the Absence of LIF-To investigate whether Esrrb alone is sufficient to maintain ES cell characteristics,we stably transfected CGR8 (Fig.6) and E14T cells (Fig.7) with either empty vector or Esrrb.The resulting cell lines were then cultured in the presence or absence of LIF for 6 days,after which cell morphology and AP activity were evaluated (Figs. $6 , A$ and $B$ 0 and 7,A and $B$ ).AP staining was high in Esrrb-overexpressing ES cells cultured without LIF and faint or absent in the control. Esrrb-overexpressing colonies also retained the classic compact morphology with welldefined bordersofdedifferentiated ES cell colonies，whereas control cells were flat and displayed abundant cytoplasmic prolongations.Real time reverse transcription-PCR analysis of ES cell marker genes,including Nanog and Rex1,demonstrated comparablelevels in Esrrb-stable ES cell lines cultured with or without LIF (Figs. 6C and 7C).LIF depletion in Esrrb-stable ES cellsdid not influence mRNA levels of genes (Fgf5 and T) known to increase after ES cell differentiation (Figs.6C and 7C).In addition,immunofluorescence staining for NANOG and OCT4 showed homogeneous high levelsin ESRRB-overexpressing CGR8 cells cultured without LIF and low in the control (Fig. $6 D _ { , } ^ { \\prime }$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The list of proteins involved in controlling ES cell behavior is growing steadily. In many cases, like it happens with ESRRB,it is poorly understood how they exert their roles.ESRRB has been reported to interact with the ES cell master regulator NANOG (10).Multiple other proteins also interact with NANOG, and some of them are also transcription factors.It is,for example,the case of Dax1,Sall4,and NF- $\\cdot \\kappa \\mathrm { B }$ (10,26,27). Small interfering RNA for Daxl or Sall4 induces differentiation of ES cells (28，29)．Dax1 belongs，like Esrrb，to the family of orphan nuclear receptors and has a known role in the establishment and maintenance of steroid-producing tissues like the testis and the adrenal gland (30).How Daxl helps control pluripotencyisprobablyunrelated to its role in steroidogenesis.Sall4 isa member of the Spalt-like familyof proteins; Sall4 co-occupies with NANOG the promoters of many genes and is needed for NANOG-mediated transactivation of these targets (26).High levels of NF- $\\kappa \\mathrm { B }$ induce differentiation of ES cells by activating lineage-specific programs. NF- $\\kappa \\mathrm { B }$ binds to the WR transactivation domain of NANOG,and this results in repression of the transcriptional activity of the latter (27). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ESRRB can bind to specific DNA recognition sequences and is transcriptionally active in the absence of exogenously added ligand.Two ESRRB binding sites were identified in the proximal mouse Oct4 promoter,one of which is responsible for maintaining Oct4 transcription together with NANOG. The positive effect of ESRRB on Oct4 may on its own explain ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A E14T B E14TAP staining LIF+ LIF- LIF+ LIFa a 8880800   \nGoieer Geeeer C . C   \nCesea Cest a b C d   \neereseeege Nanog Rex1 FGF5 T 161412100420 .l 8.6.4 8 5 F F LIF F T 当 公 F F F F F X 作 tor o 8 Esrrb Vector /ector S D Esrrb ector ctor 办 Esrrb ector e ctor 7 Esrrb le e ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/44de61670036b4a366e600e122e756cf6cdf7d931b3ad35444dc58059b09ee9f.jpg",
+        "img_caption": [
+            "FIGURE7.EsrrbissuficienttomaintainESpluripotencyandself-renewalintheabsenceofLIF.A,E14Tcell lines stably transfected with empty vectoror Myc-Esrrb wereculturedin the presenceofLIFordeprived of LIF for6days,afterwhich phase-contrast pictures were taken.Mostifnotallcolonies remained undiferentiated in Esrrb-overexpressng LIF cultured in eithercondition.This behavior was reproduced in multiple experiments. B,representative ${ \\mathsf { A P } }$ staining of the same cell lines with or without LIF.Quantification is shown in the right panel.This pattern was maintained in multiple experiments.C,real time reverse transcription-PCRof selected genesassociated with ES cellpluripotency ordiffrentiation.One representative experimentof three is shown. ",
+            "FIGURE8.Scheme of how the interplay between Esrrb,Nanog,and Oct4 helps control pluripotency in ES cells.This figure summarizes the results presented in this paper and also the data reported by others (31,32). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "whysmall interferingRNAfor Esrrb inducesdifferentiation. Further supporting this idea,we have demonstrated that overexpression of Esrrb alone is able to maintain self-renewal and pluripotency in ES cells in the absence of LIF(see the scheme in Fig. 8).While our manuscript was under review,ChIP-on-chip analysis in mouse ES cells demonstrated the existence of ESRRB binding sites through the whole genome (31).Many of these potential ESRRB target genes comprise OCT4, SOX2,and NANOG-regulated genes and include the respective promoters of these core ES cell regulators too.Also,van den Berg etal.(32) demonstrated that ESRRB binds to Nanog,Rest,and Rex1 promoters.For the former twopromoters,bindingofESRRB to its cognate sequence required Oct4 being bound to a nearby site. Thiswas,however,not needed for ESRRB binding to the Rex1 promoter.Paradoxically,ESRRB was capable of transactivating Nanog and Rexl promoters but not Rest. In the context of our study, ESRRB could repress the ability of NANOG to transactivate a NANOG reporter gene,whereas NANOG had the opposite effect on ESRRB.This suggests that the interplay between both factors mayreciprocallyaffecttheirability to activate common targets and thus fine-tune ES cell pluripotency.But this interplayis likely to be target-specific and complex. Likewise,it is conceivable that the numberofESRRB-interacting proteins in ES cells will extend beyond OCT4 and NANOG in the same way that most ES cell transcription factors interact with and cross-regulate each other.Future work will be important to evaluate these considerations. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments-We thankY.Q.Ding,W.Li,C.Huang,and K.S.   \nChen for assistance. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.Evans,M.J.,and Kaufman,M.H.(1981) Nature 292,154-156   \n2.Martin,G.R.(1981) Proc.Natl.Acad.Sci.U. S.A.78,7634-7638   \n3.Thomson,J.A., Itskovitz-Eldor,J.,Shapiro,S.S.,Waknitz,M.A., Swiergiel,J.J.,Marshall,V.S.,and Jones,J.M.(1998) Science 282,1145-1147   \n4.Tada,M.,Takahama,Y.,Abe,K.,Nakatsuji,N.,and Tada,T.(2oo1) Curr. Biol. 11,1553-1558   \n5.Cowan,C.A.,Atienza,J.,Melton,D.A.,and Eggan,K.(2oo5) Science 309, 1369-1373   \n6.Silva,J.,Chambers,I.，Pollard,S.,and Smith,A.(20O6) Nature 441, 997-1001   \n7.Wilmut,I., Schnieke,A.E., McWhir,J.,Kind,A.J.,and Campbell, K.H. (1997) Nature 385,810-813   \n8．Ivanova,N.,Dobrin,R.,Lu,R.,Kotenko,I.,Levorse,J.,DeCoste,C., Schafer,X.,Lun,Y.,and Lemischka,I.R.(2006) Nature 442,533-538   \n9.Loh,Y.H.,Wu,Q., Chew,J.L., Vega,V.B.,Zhang,W.,Chen,X.,Bourque, G.,George,J.,Leong,B.,Liu,J.,Wong,K.Y.,Sung,K.W.,Lee,C.W.,Zhao, X.D.,Chiu,K.P.,Lipovich,L.,Kuznetsov,V.A.,Robson,P., Stanton, L. W.,Wei, C.L.,Ruan, Y.,Lim, B.,and Ng,H.H. (2006) Nat. Genet. 38, 431-440   \n.0．Wang,J.,Rao,S., Chu,J., Shen,X.,Levasseur,D.N.,Theunissen,T.W., and Orkin,S.H.(2006) Nature 444,364-368   \n1.Boyer,L.A.,Lee,T.I.,Cole,M.F.,Johnstone,S.E.,Levine, S.S., Zucker, J.P.,Guenther,M.G.,Kumar,R.M.,Murray,H.L.,Jenner,R.G.,Gifford, D.K.,Melton,D.A.,Jaenisch,R.,and Young,R.A. (2005) Cell 122, 947-956   \n12.Niwa,H.,Miyazaki,J.,and Smith,A.G.(200O) Nat. Genet.24,372-376   \n13. Cole,M.F.,Johnstone, S.E.,Newman,J.J.,Kagey,M.H.,and Young,R.A. (2008) Genes Dev.22,746-755   \n14.Singh,S.K.,Kagalwala,M.N.,Parker-Thornburg,J.,Adams,H.,and Majumder,S.(2008) Nature 453,223-227   \n15.Giguere,V.,Yang,N.,Segui,P.,and Evans,R.M.(1988) Nature 331,91-94   \n16.Giguere,V.(1999) Endocr. Rev.20,689-725   \n17.Mitsunaga,K.,Araki,K.,Mizusaki,H.,Morohashi,K.,Haruna,K.,Nakagata,N.,Giguere,V.,Yamamura,K.,and Abe,K.(2004) Mech.Dev.121, 237-246   \n18.Pan,G.,and Pei,D.(2005)J.Biol.Chem.280,1401-1407   \n19. Shi,W.,Wang,H.,Pan,G.,Geng,Y.,Guo,Y.,and Pei, D.(2006) J. Biol. Chem. 281,23319-23325   \n20．Wang,Z.,Ma,T.,Chi,X.,and Pei,D.(2008)J.Biol. Chem.283,4480-4489   \n21．Pan,G.,Li,J.,Zhou,Y.,Zheng,H.,and Pei,D.(2OO6) FASEB J.20, 1730-1732   \n22.Lu,D.,Kiriyama,Y.,Lee,K.Y.,and Giguere,V.(20o1) Cancer Res. 61, 6755-6761   \n23.Chambers,I.,Colby,D.,Robertson,M.,Nichols,J.,Lee,S.,Tweedie,S.,and Smith,A.(2003) Cell113,643-655   \n24.Mitsui,K.,Tokuzawa,Y.,Itoh,H.,Segawa,K.,Murakami, M.,Takahash, K.，Maruyama，M.，Maeda,M.，and Yamanaka,S.(20o3)Cell 113, 631-642   \n25．Pettersson,K.,Svensson,K.,Mattsson,R., Carlsson,B., Ohlsson,R.,and Berkenstam,A.(1996) Mech.Dev.54,211-223   \n26.Wu,Q.,Chen,X.,Zhang,J.,Loh,Y.H.,Low, T.Y.,Zhang,W.,Zhang,W., Sze,S.K.,Lim,B.,and Ng,H.H.(2006)J. Biol. Chem.281,24090-24094   \n27．Torres,J.,and Watt,F.M.(2008) Nat.Cell Biol.10,194-201   \n28．Niakan,K.K.,Davis,E.C.,Clipsham,R.C.,Jiang,M.,Dehart,D.B., Sulik, K.K.,and McCabe,E.R.(2006) Mol.Genet.Metab.88,261-271   \n29.Zhang,J.,Tam,W.L.,Tong, G.Q.,Wu, Q., Chan,H.Y.,Soh,B.S.,Lou,Y., Yang,J.,Ma,Y.,Chai,L.,Ng,H.H.,Lufkin,T.,Robson,P.,and Lim,B. (2006) Nat. Cell Biol.8,1114-1123   \n30.Niakan,K.K.,and McCabe,E.R.(2005) Mol.Genet.Metab.86,70-83   \n31.Chen,X.,Xu,H.,Yuan,P.,Fang,F.,Huss,M.,Vega,V.B.,Wong,E., Orlov,Y.L.,Zhang,W., Jiang,J., Loh,Y.H.,Yeo,H.C.,Yeo, Z.X, Narang，V.，Govindarajan,K.R.,Leong，B.，Shahab,A.，Ruan,Y., Bourque,G.,Sung,W.K.,Clarke,N.D.,Wei,C.L.,and Ng,H.H.(2008) Cell 133,1106-1117   \n32. van den Berg,D.L., Zhang,W.,Yates,A.,Engelen,E., Takacs,K.,Bezstarosti,K.,Demmers,J.,Chambers,I.,and Poot,R.A.(2oo8) Mol. Cell Biol. 28,5986-5995 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Esrrb Activates Oct4 Transcription and Sustains Self-renewal and Pluripotency in Embryonic Stem Cells Xiaofei Zhang, Juan Zhang,Tao Wang,Miguel A. Esteban and Duanqing Pei ",
+        "text_level": 1,
+        "page_idx": 9
+    }
+]

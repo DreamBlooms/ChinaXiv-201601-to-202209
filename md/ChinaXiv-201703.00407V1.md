@@ -1,0 +1,207 @@
+# DOI:10.5846/stxb201509041825
+
+赵鹏,徐先英,屈建军,张进虎,马全林,张慧文,徐高兴,马俊梅,吴永梅.民勤绿洲荒漠过渡带人工梭梭群落与水土因子的关系.生态学报,2017， 37(5) :1496-1505. ZhaoP,XuXY,QuJJ,ZhangJH,MaQL,ZhangHW,XuGX,MaJM，WuYM.Relationshipsbetwenartfical Haloxylonamodendron communitiesand soil-water factors in Minqin oasis-desert ecotone.Acta Ecologica Sinica,2O17,37(5）:1496-1505.
+
+# 民勤绿洲荒漠过渡带人工梭梭群落与水土因子的关系
+
+赵鹏1,2,4，徐先英²，\*，屈建军1,³，张进虎²，马全林²，张慧文²，徐高兴²，马俊梅²， 吴永梅5
+
+1中国科学院寒区旱区环境与工程研究所沙漠与沙漠化重点实验室，兰州730000  
+2甘肃省治沙研究所，荒漠化与风沙灾害防治国家重点实验室培育基地，兰州730070  
+3中国科学院寒区旱区环境与工程研究所敦煌戈壁荒漠研究站，敦煌736200  
+4中国科学院大学，北京100049  
+5巴里坤哈萨克自治县花园乡人民政府林业工作站，哈密839200
+
+摘要：作为绿洲可持续发展的重要生态屏障,人工梭梭群落的演替关系着民勤绿洲的生态安全。以民勤绿洲边缘人工梭梭群落为研究对象,在野外调查的基础上,采用双向指示种分类（TWINSPAN)和典范对应分析（CCA)数量生态学方法分析了人工梭梭群落与水土环境因子的关系。结果表明：(1)TWINSPAN方法将人工梭梭群落划分为4个群丛类型：群丛I梭梭 $\cdot ^ { + }$ 白刺-沙蒿-盐生草（Haloxylon ammodendron+Nitraria tangutorum - Artemisia frigida-Halogeton glomeratus）群丛 $\mathbb { I }$ 梭梭 $^ +$ 沙拐枣-沙米（Haloxylonammodendron $^ +$ Calligonum mongolicum-Agriophyllum squarrosum）、群丛I梭梭 $^ +$ 白刺-芦苇（Haloxylon ammodendron $^ +$ Nitrariatangutorum-Phragmites australis）群丛V梭梭 $\cdot ^ { + }$ 怪柳 $^ +$ 盐爪爪（Haloxylon ammodendron $^ +$ Tamarix ramosissima $^ +$ Kalidium foliatum）;(2)CCA排序第1轴代表生境水分及有机质梯度的变化,第2轴代表生境土壤盐分的环境梯度。Monte Carlo 检验和前项选择结果表明，人工梭梭群落演替的环境调控因子排序为土壤水分( $10 \%$ ） $>$ 有机质 $\mathrm { ( 9 . 7 \% ) > p H ( 8 . 8 \% ) > }$ 速效磷 $( 8 . 4 \%$ )>土壤沙粒0 $7 . 8 \%$ )>地下水埋深 $( 7 . 8 \% ) >$ 样方距离绿洲之间的距离 $( 7 . 2 \% ) >$ 全氮 $( 6 . 9 \% ) >$ 电导率 $( 6 . 7 \% )$ ）。TWINSPAN分类结果在CCA样方-环境因子排序图中有较好的反映,分类和排序结果较为吻合。（3)土壤含水量、酸碱度、沙粒体积百分比、速效磷、有机质、全氮、电导率与空间因子样方与绿洲的距离解释了物种格局变化的 $1 9 . 8 \%$ ,其中土壤因子占 $1 5 . 6 \%$ ,地下水因子占 $1 . 1 \%$ ，土壤与地下水因子交互作用解释部分占 $3 . 1 \%$ 。对于 $5 0 \%$ 以上未能被解释的变异部分，可能归咎于未被选取的环境因子如降水、风蚀沙埋、封禁或者随机过程。
+
+关键词：绿洲荒漠过渡带；人工梭梭群落；水土因子；关系
+
+# Relationships between artificial Haloxylon ammodendron communities and soilwater factors in Minqin oasis-desert ecotone
+
+ZHAO Peng1,2.4，XU Xianying2\*，QU Jianjun1,3，ZHANG Jinhu²，MA Quanlin²，ZHANG Huiwen $^ 2$ ，xt Gaoxing²,MA Junmei²,WU Yongmei5
+
+1Kelbortoeefdddedf730000，China  
+2StateKeyLaboatoryreingaseofDsertfationndAeolianSandDisasterCombating，GansuDesertControlReseachstuteanzo730070，China  
+基金项目：国家科技支撑计划资助项目（2012BAD16B0203）；兰新高铁特大风区风沙灾害防治技术资助项目（HHS-TSS-STS-1504)；国家自然科  
+学基金资助项目（41361004）；国家重点基础研究发展计划资助项目（2012CB723203）；甘肃省沙生植物保护利用科技创新团队资助项目  
+(1207TTCA002)  
+收稿日期：2015-09-04；网络出版日期:2016-07-13  
+\*通讯作者Corresponding author.E-mail：xyingxu $@$ 163.com
+
+http ://www.ecologica.cn
+
+3Dunuanddtodd science，Dunhuang 736200,China   
+4University ofChinese Academy of Sciences，Beijing 1OoO49，China   
+5Forestry station of Huayuan town，Kazak autonimous county of Balikun,Hami 8392Oo,china
+
+Abstract：Theecological safetyof Minqinoasis dependson the evolutionof artificial Halxylonammodendron communities thatactsas importantbarriersandpromotes thecontinual developmentof theoasis.Therelationship betweenartificial $H$ ammodendroncommunitiesand environmental factors was evaluatedand analyzed using thequantitativeecology methods, two-way indicator speciesanalysis（TWINSPAN）and canonical correspondenceanalysis（CCA）in this research.The results sowed that（1）there were 4types of associations inartificial H.ammodendron communitiesusing TWINAPAN: Association I H. ammodendron $^ +$ Nitraria tangutorum-Artemisia arenaria - Halogeton glomeratus ； Association I H. ammodendron $^ +$ Calligonum mongolicum - Agriophyllum squarrosum；Association II H.ammodendron $^ +$ Nitraria tangutorum $^ +$ Phragmites australis；Association N H.ammodendron $^ +$ Tamarix ramosissima $^ +$ Kalidium foliatum.（2）The first axis of CCA ordinationrepresented theenvironmental gradient of waterandsoil organic mater，meanwhile soil electrical conductivitywasreflected bysecondaxisof CCAordination.Forward selectionand Monte Carlo test suggestedthatthe ordinationof environmental factors determining speciesdistributionofartificial H.ammodendroncommuniteswassoil water content ( $10 \%$ )>soil organic matter $\left( 9 . 7 \% \right) > \mathrm { p H } \left( 8 . 8 \% \right) >$ available phosphorus ( $8 . 4 \%$ ） $>$ sand $( 7 . 8 \%$ ）>groundwater depth （ $7 . 8 \%$ ） $>$ distance between oasis and desert $( 7 . 2 \% ) >$ total nitrogen ( $6 . 9 \%$ ） $>$ electrical conductivity $( 6 . 7 \%$ ).The classificationresultsof TWINSPAN were exactlyreflected in theCCAtwo-dimensionalordination diagram forsamplesand environmental variables.（3）PCCArevealed thatsoil factorssuch assoil water content，organic mater，sand，electrical conductivity，available phosphorus，total nitrogen, $\mathrm { \ p H }$ ，and groundwater factors together explained $1 9 . 8 \%$ of the variance in species distribution of artificial $H$ 、ammodendron communities.Soil factors alone explained $1 5 . 6 \%$ of the variance, groundwater factors accounted for $1 . 1 \%$ of the variance，and the interaction between soil and groundwater factors explained （204号 $3 . 1 \%$ of the variance.The partitioning of variance using the PCCA helped identify the important habitat factors regulating species distribution of artificial $H .$ ammodendron communities at the study site.However,the fact that more than half of the variance wasunaccounted forbythefactors studied suggested thatotherinfluences that were not examinedcouldalso playa roleindetermining theoccurrenceand distributionof artificial H.ammodendroncommunities，suchasrain events，wind erosion，and sand burying，as well as banned and random events.
+
+Key Words:oasis-desert ecotone；artificial H.ammodendron community；soil and water factors；relationships
+
+植物群落与环境因子之间的关系是认识特定生境、景观和区域植被群落组成与结构的最重要的基础问题之一[1]。受气候、环境条件和群落内在动态变化的影响,植被群落是一个连续变化的动态实体,及时掌握特定区域植被和环境的关系有助于预测植被群落的演替变化[2]。梭梭（Haloxylon ammodendron）,属于超强抗逆植物,具有较高的生态经济价值,是西北干旱沙区优良的防风固沙造林树种。民勤有人工梭梭林近 3.5 万$\mathbf { h } \mathbf { m } ^ { 2 }$ ,占人工林总面积的 $5 1 . ~ 5 \%$ ,在固沙林中占主导地位。由于气候变化和地下水超采,人工梭梭林均出现不同程度的退化现象,直接威胁到民勤绿洲的生态安全,其恢复与重建已成为当务之急[3]。近年来学者们围绕民勤人工梭梭抗逆性[4]、土壤[5-7]、降水截留[8]、枝条构型[9]、防风固沙功能[10]、光合及蒸腾[1-12]、更新[13]、种群特征[14-16]、鼠害[17]、病虫害[18]、衰退及恢复[19-22]进行了大量有益研究,而关于人工梭梭群落现阶段的演替类型了解不够,物种分布对多元环境因子综合作用响应的量化研究还很缺乏。梭梭具有二态根系,既可以利用降雨也可以利用地下水[23],根际微区土壤“肥岛”[24]、“湿岛”[25]现象导致的物种效应对其演替有潜在影响。除了水分因子外,土壤盐碱度、养分条件也是人工梭梭群落演替的重要驱动因素。干旱区地下水是影响植被分布、生长、种群演替以及物种多样性的关键自然因素。绿洲荒漠间的空间相对位置决定了微地貌条件进而通过水热再分配影响植被群落演替。植被-环境关系的排序方法可以定量地确定影响植物群落类型变化及其分布的关键环境因子[26]。与DCA、DCCA相比,CCA 更适合沙地植被分布格局研究及其环境的解释[27]。为此,本文选择土壤、地下水、空间因子3大类共12个环境因子,运用TWINSPAN和CCA 结合的数量生态学方法,研究不同演替类型人工梭梭群落物种分布与水土环境因子的定量关系,揭示人工梭梭群落退化演替的主导环境驱动因子,以期为人工科学恢复提供依据。
+
+# 1研究材料与方法
+
+# 1.1 研究区概况
+
+研究区位于巴丹吉林沙漠东南缘的民勤绿洲荒漠过渡带( $1 0 2 ^ { \circ } 5 5 ^ { \prime } 1 4 "$ 一 $1 0 3 ^ { \circ } 3 7 ^ { \prime } 2 2 ^ { \prime \prime } \mathrm { E }$ ， $3 8 ^ { \circ } 3 4 ^ { \prime } 5 8 ^ { \prime \prime }$ 一 $3 9 ^ { \circ } 0 6 ^ { \prime }$ $2 1 ^ { \prime \prime } \mathrm { N } \dot { }$ )。该区属于典型的温带大陆性荒漠气候,年均气温 $7 . 4 ~ \mathrm { ^ { \circ } C }$ ， $\geqslant 1 0 ^ { \circ } \mathrm { C }$ 积温 $3 2 4 8 . 8 \mathrm { ^ q C }$ ;年均降水量 $1 1 3 ~ \mathrm { m m }$ ，多集中在7、8、9三个月，占全年降雨量的 $7 3 \%$ ;年均蒸发量 $2 6 4 4 ~ \mathrm { m m }$ ,是降水量的24倍。天然植被以灌木、半灌木为主,占植物种类的 $7 4 . 4 \%$ ;1 年生草本植物随季节降水而变化,是荒漠植被的重要组成部分[28]。1956年中国科学院治沙队从内蒙、新疆引进梭梭种子,开展育苗、造林试验,获得成功。此后,因地制宜,就地取材，开发了梭梭 $^ +$ 粘土沙障的固沙造林模式,极大地提高了梭梭造林的成活率和保存率,推动了梭梭在民勤乃至河西和西部地区的发展[29]。在过去的几十年,民勤绿洲边缘大量营造以梭梭为主的人工防风固沙林,现已形成人工-天然植被群落。此外，常见的天然植物有：白刺（Nitraria tangutorun）、沙拐枣（Calligonummongolicum）、沙蒿（Artemisia arenaria）、多枝怪柳（Tamarix ramosissma）、芦苇（Phragmites australis）、盐爪爪（Kalidium foliatum）、红砂（Reaumuria soongarica）、沙蓬（Agriophyllum squarrosum）、雾冰藜（Bassiadasyphylla）、猪毛菜(Salsola collina)等。地带性土壤为灰棕漠土、非地带性土壤为风沙土、草甸土和草甸沼泽土,灌淤土是最主要的耕作土壤。
+
+# 1.2样地设置及植物群落调查
+
+2012年8月沿民勤红崖山水库至青土湖的绿洲-荒漠环境梯度,参考人工梭梭林空间分布及生长状况,选择典型分布区域共设置6条样带，每条样带沿绿洲-荒漠梯度间隔 $5 0 0 \mathrm { m }$ 设置一个样地(图1)。植物群落调查采用样方法,每个样地包括3个平行设置间隔 $3 0 \mathrm { m }$ 的 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 灌木样方重复,分别记录每个样方内灌木的种类、数量、高度、冠幅。同时在每个灌木样方内沿对角线设置3个 $\mathrm { 1 m } { \times } 1 \mathrm { m }$ 的草本样方，调查样方内草本植物种的种类、个体数、盖度、高度。共调查植物样方384个,灌木样方96个,草本样方288个。采用重要值作为各种植物在群落中的优势度指标,表示不同植物在群落中的功能地位。重要值的计算采用日本学者沼田真，1979 的计测方法[30]。调查过程中用GPS 记录每个样地的经纬度、海拔以及与绿洲之间的距离。
+
+重要值 $\mathrm { I V } =$ （相对密度 $+$ 相对频率 $^ +$ 相对盖度 $^ +$ 相对高度）／4
+
+# 1.3 土壤分析
+
+每个样地土壤采样深度 $1 0 0 \ \mathrm { c m }$ ,分层随机重复采样。即0—5、5—20、20—40、40—60、60—80、80—100cm 共6层,每层随机取3个土壤样品混合均匀后带回实验室,风干、过 $2 ~ \mathrm { m m }$ 的筛去除砾石和其他杂物,进行土壤理化性质测定。土壤有机质,重铬酸钾容量法;全氮,凯氏法;速效磷, $0 . 5 \mathrm { m o l / L }$ 氢氧化钠熔融-钥锑抗比色法；土壤水分：烘干法;土壤机械组成,用马尔文激光粒度仪测定;土壤 $\mathrm { \ p H }$ 值：电位法;电导率：采用水土比5:1浸提,电导法测定水溶性盐总量。本文将每个样地分层化验结果取平均值代表样地的土壤理化性质。
+
+# 1.4地下水位的空间插值
+
+调查收集样地及其周围的地下水位数据,对样地及周围没有观测井的区域,采用95个绿洲及周边观测井2012年地下水位监测数据(数据来源：武威水文水资源局),结合已调查的地下水位数据,在ArcGIS 10.2软件的地统计模块中运用克里格空间插值方法,建立研究区地下水埋深的空间分布图。参照已有每个调查样方的经纬度、海拔等地理位置信息,最终获得每个样方地下水埋深数据。
+
+# 1.5 数据分析
+
+采用双向指示种分析（Two-way indicator species analysis,TWINSPAN)对人工梭梭群落进行数量分类划分群丛类型,分类软件采用WINTWIN3.2。CCA排序及PCCA 分析采用国际标准生态学软件Canoco 5,排序分析方法如下:先对物种重要值-样方数据进行采用除趋势对应分析（Detrend Correspondence Analysis,DCA）,根据DCA排序轴的梯度长度选择适宜的排序方法。一般排序轴梯度长度 $< 3$ 时,宜采用线性模型排序;梯度长度 $\cdot > 4$ 时,宜采用单峰模型排序;梯度长度介于3和4之间,两种模型都适合[31]。排序前对所环境因子进行RDA 筛选,若某环境因子的变异膨胀因子（Inflation factor) $> 2 0$ ,表明与其他环境因子有多重共线性,对模型的贡献很小可以舍去。
+
+![](images/b3199c927399f90a59c0c5dd7df0ea59ec355c0190685f085fd1026e587339db.jpg)  
+图1调查样方分布图  
+Fig.1The distribution of plots
+
+# 2结果与分析
+
+# 2.1人工梭梭群落类型划分
+
+TWINSPAN的划分结果如图2,图3所示,从图2中可以看出各个植物种的观测值集中分布在矩阵对角线附近,生态型相似的植物种聚集分布。依据群落生境特征的指示种和优势种命名群丛类型,最终得到人工梭梭群落4个群丛如下：
+
+群丛I(Ass.H.ammodendron $+$ Nitraria tangutorum - Artemisia frigida -Halogeton glomeratus）为梭梭 $^ +$ 白刺-沙蒿-盐生草。包括样方1、2、15、17、18、19、20、21、22、27,伴生种有沙拐枣、霸王、红砂、柠条、沙生针茅、花花柴、画眉草、盐生草、大叶补血草、猪毛菜、五星蒿、虫实、芦苇、冷蒿。
+
+群丛II（Ass.H.ammodendron $^ +$ Calligonum mongolicum-Agriophyllum squarrosum）为梭梭 $^ +$ 沙拐枣-沙米。包括样方3、5、6、7、8、9、10、11、12、13、14、16,伴生种有白刺、怪柳、红砂、沙蒿、芦苇、猪毛菜、五星蒿、画眉草、大叶补血草、虫实、花棒、虎尾草、骆驼蓬。
+
+http://www.ecologica.cn
+
+群丛III（Ass.H.ammodendron $^ +$ Nitraria tangutorumPhragmitesaustralis）为梭梭 $^ +$ 白刺-芦苇。包括样方4、28、29、30、31、32，伴生种有沙拐枣、沙米、画眉草、盐生草、五星蒿、大叶补血草。
+
+群丛N（Ass.H.ammodendron $^ +$ Tamarix ramosissima$^ +$ Kalidiumfoliatum）为梭梭 $+$ 怪柳 $^ +$ 盐爪爪。包括样方23、24、25、26，伴生种有黑果枸杞、灰绿藜、画眉草、虫实、芦苇、盐生草、五星蒿、苦豆子、大叶补血草、猪毛菜。
+
+# 2.2人工梭梭群落的CCA 排序
+
+人工梭梭群落物种重要值-样方矩阵的DCA排序表明，所有轴的梯度长度最大为2.9，应选择线性模型（RDA）。但考虑到物种数据中0值较多，基于线性模型的RDA在0值很多的时候容易产生问题。研究证明CCA排序法更适合于沙地植被分布格局研究及其环境的解释[27],因此选用CCA排序法。12个环境因子经过冗余筛选，膨胀因子小于20的有9个。CCA排序结果表明：所有典范排序轴通过统计检验( $P = 0 . 0 0 2$ ），CCA排序的前3个排序轴特征值占总特征值的 $7 2 . 2 6 \%$ ，包含了绝大部分信息，故采用前两轴的数据分析人工梭梭群落与环境因子的关系（表1）。
+
+根据9个环境变量与CCA序轴的相关性分析可知（表2)，土壤水分、全氮、速效磷、有机质、样方与绿洲之间的距离与CCA第1轴极显著正相关，其中土壤水分与CCA第1轴正相关性最强，其次是土壤有机质，地下水埋深与其呈显著负相关关系，土壤沙粒、酸碱度与其呈极显著负相关关系，表明CCA第1轴代表生境水分及有机质的变化梯度。土壤EC与CCA第2轴极显著正相关，土壤沙粒含量与其显著正相关，表明CCA排序
+
+121122 12 1 11111 223332222257791218034567890123648901234563 Ara 3555-434- 00006 Res 23 5 00008 Cak 0000  
+20 stg 0000  
+21 Arf 0000  
+22 Zyo 0000  
+28 Kac 00002 Cal -4345455445455554 00017 Hes 4 00019 Ags 3-2--4-3445555334224424-35- 0001  
+11 Bad 2531- 222- 1-3 555542- 4443-3 0001  
+13 Sac 222322-222- 2332222232 0001  
+15 Pha 34233433-1 0001  
+16 Sop 2 0001  
+19 Chv 00011 Hal 45555555545555554555554555554444 0014 Nit 555555535531 1544444-454 010  
+12 Hag 1-1122232 1223- -3 010  
+14 Erp 52- 32-423- 2 010  
+10 Lia 24- -433 5 011  
+17 Com 22 1 2 -2-52-5- 0115 Tar 55 3445 10  
+18 Peh 2 3 10  
+23 Lyr 25- 11  
+25 Kaf 533- 11  
+27 Che 2 1100000000000000000000000000001111000000000011111111111111111100011111110000000000001111110000111001111111111011111
+
+Ara:沙蒿 Artemisia sphaerocephala;Arf:冷蒿 Artemisia frigida;Ags: 沙蓬Agriophyllum squarrosum;Bad;雾冰藜 Basia dasyphylla;Cak： 柠条锦鸡儿 Caraganakorshinskii；Cal：沙拐枣Calligonum mongolicum;Chv：虎尾草Chlorisvirgata；Com：虫实Corispermum mongolicum；Che；灰绿藜Chenopodium glaucum；Erp：画眉草 Eragrostis pilosa;Hes：细枝岩黄芪 Hedysarum scoparium;Hal：梭梭 Halxylon ammodendron; Hag：盐生草Halogeton glomeratus;Kac：花花 柴karelinia caspia;Kaf：盐爪爪Kalidium foliatum;Lia：黄花补血草 Limoniumaureum；Lyr：黑果枸杞Lycium ruthenicum；Nit：白刺 Nitraria tangutorum;Pha：芦苇Phragmites australis；Peh：骆驼蓬 Peganum harmala;Res：红砂Reaumuria soongarica;Stg：沙生针茅 Stipa glareosa;Sac：猪毛菜 Salsola collina；Sop：苦豆子 Sophora alopecuroides;Tar：多枝怪柳 Tamarix ramosissima;Zyo：戈壁霸王 Zygophyllum gobicum
+
+第2轴代表生境土壤盐分和粒度组成的环境梯度,其中土壤电导率与CCA第2轴相关性最强。为避免冗余变量的共轭效应,在CCA分析中向前选择（Forward selection）,并进行MonteCarlo检验（表3），筛选出对人
+
+表1人工梭梭群落物种变异的CCA排序  
+Table1 The CCA analysis of the species variance of artificial H.ammodendron communities   
+
+<html><body><table><tr><td>排序轴 Axis</td><td>第I轴 Axis I</td><td>第二轴 AxisII</td><td>第三轴 Axis II</td><td>第四轴 Axis IV</td></tr><tr><td>特征值 Eigenvalues</td><td>0.226</td><td>0.170</td><td>0.085</td><td>0.067</td></tr><tr><td>物种-环境因子相关性 Correlation between species and soil factors</td><td>0.896</td><td>0.839</td><td>0.734</td><td>0.765</td></tr><tr><td>物种数据累计百分比方差 Cumulative percentage variance of species</td><td>14.24</td><td>24.98</td><td>30.34</td><td>34.55</td></tr><tr><td>物种-环境因子关系数据累计百分比方差</td><td></td><td></td><td></td><td></td></tr><tr><td>Cumulative percentage variance relation between species and environment factors</td><td>32.13</td><td>56.37</td><td>68.44</td><td>77.95</td></tr></table></body></html>
+
+![](images/e370c5c08413527270e183117e1649c089efe0e174ad06d540e9e33ab1865e40.jpg)  
+图3研究区人工梭梭群落32个样方双向指示种分析的分类结果
+
+Fig.3Theclassificationresultsof32plotsof artificialH.ammodendroncommunities byTWINSPAN in studyal工梭梭林群落物种分布影响极显著的环境因子有土壤水分、有机质、 $\mathrm { \nabla \cdot \ p H }$ 、速效磷、土壤沙粒、地下水埋深、土壤电导率。其中,土壤水分是人工梭梭群落物种分布最重要的环境调控因子。
+
+Table 2Correlation between environment factors and ordination axis   
+
+<html><body><table><tr><td>环境变量</td><td>第一轴</td><td>第二轴</td><td>第三轴</td><td>第四轴</td></tr><tr><td>Environment factors</td><td>Axis I</td><td>Axis II</td><td>Axis III</td><td>Axis IV</td></tr><tr><td>土壤水分 Soil water content</td><td>0.7204 **</td><td>0.0097</td><td>0.0673</td><td>0.1581 -0.0159</td></tr><tr><td>土壤沙粒 Sand 全氮 Total Nitrogen</td><td>-0.5477 **</td><td>-0.3515 *</td><td>-0.0219</td><td></td></tr><tr><td>速效磷 Available Phosphorus</td><td>0.4911**</td><td>0.201</td><td>0.2939</td><td>0.2118</td></tr><tr><td>有机质 Soil organic material</td><td>0.5948 **</td><td>-0.1478</td><td>-0.191</td><td>0.3685 *</td></tr><tr><td>酸碱度 pH</td><td>0.6807 **</td><td>0.203</td><td>0.102</td><td>-0.0616</td></tr><tr><td>电导率 Electrical conductivity</td><td>-0.6104** 0.1328</td><td>-0.2413 0.6203 **</td><td>0.0792</td><td>-0.2264</td></tr><tr><td>地下水埋深 Depth of groundwater</td><td>-0.4416 *</td><td>-0.2609</td><td>0.0526 -0.4689 **</td><td>-0.0895 -0.1951</td></tr><tr><td>样方与绿洲之间的距离</td><td></td><td></td><td></td><td></td></tr><tr><td>Distance between samples and oasis</td><td>0.5142 **</td><td>-0.2653</td><td>0.0491</td><td>-0.3345</td></tr></table></body></html>
+
+\*P<0.05，\* \*P<0.01
+
+表2环境因子与排序轴的相关关系  
+表3环境因子的重要性排序和显著性检验结果  
+Table 3Rank of importance and significance test of environmental factors   
+
+<html><body><table><tr><td>环境因子 Environmental factor</td><td>重要性排序 Importance rank</td><td>环境因子所占的解释量/% Variance explains of environmental factors</td><td>F</td><td>P</td></tr><tr><td>土壤水分 Soil water content</td><td>1</td><td>10</td><td>3.3</td><td>0.002 **</td></tr><tr><td>有机质 Soil organic material</td><td>2</td><td>9.7</td><td>3.2</td><td>0.002**</td></tr><tr><td>pH</td><td>3</td><td>8.8</td><td>2.9</td><td>0.004**</td></tr><tr><td>速效磷 Available phosphorus</td><td>4</td><td>8.4</td><td>2.8</td><td>0.002**</td></tr><tr><td>土壤沙粒 Sand</td><td>5</td><td>7.8</td><td>2.6</td><td>0.008 **</td></tr><tr><td>地下水埋深 Depth of groundwater</td><td>6</td><td>7.8</td><td>2.3</td><td>0.008 **</td></tr><tr><td>样i方距离绿洲之间的距ndesert</td><td>7</td><td>7.2</td><td>2.3</td><td>0.012 *</td></tr><tr><td>全氮 Total nitrogen</td><td>8</td><td>6.9</td><td>2.2</td><td>0.036 *</td></tr><tr><td>电导率 Electrical conductivity</td><td>9</td><td>6.7</td><td>2.1</td><td>0.02*</td></tr></table></body></html>
+
+\*P<0.05，\* \* P<0.01
+
+TWINSPAN分类结果在CCA样方-环境因子排序图中有较好的反映(图4)，人工梭梭群丛类型的变化基本反映了CCA排序前两轴的环境梯度。人工梭梭群落4个群丛类型I、Ⅱ、Ⅲ、V大致从左往右依次排开，大致反映了水分梯度的变化。类型I梭梭 $^ +$ 白刺-沙蒿-盐生草群丛生境土壤具有较高的电导率,距离绿洲较远,该群丛分布在勤锋滩封育保护区人为干扰小；类型II梭梭 $+$ 沙拐枣-沙米群丛距离绿洲较近，生境土壤沙粒、酸碱度高，地下水埋深大。该群丛主要分布在坝区绿洲边缘，人工梭梭衰退严重，固定沙丘活化，沙拐枣定居与扩张。类型Ⅲ梭梭 $^ +$ 白刺-芦苇群丛距离绿洲距离远，生境土壤全氮、速效磷、水分、有机质含量高，主要分布在西渠镇扶拱绿洲边缘。类型V梭梭 $^ +$ 怪柳 $^ +$ 盐爪爪群丛生境地下水埋深高，土壤水分、养分条件最好，主要分布在青土湖人工植被恢复区。人工梭梭群落样方与环境因子的CCA排序图直观的表现了各群丛类型空间分布与环境因子间的密切关系。
+
+# 2.3人工梭梭群落物种分布影响因子的变异分离
+
+研究区域属于荒漠绿洲区，环境因子的空间异质性大。本研究考虑土壤变量和地下水变量的综合作用。群落物种空间分布的变化可分为以下4个部分：（1)纯土壤因子导致的群落内部的生态学过程变化的结果;(2)纯地下水因子引起的变化;(3)土壤因子和地下水因子交叉作用导致的变化(图5），用来解释土壤和地下水因子的相关或耦合强度。（4)不能由土壤和地下水因素解释的部分，包括由于降水、气候干旱、空间相对位置的差异导致的种间、群落间相互作用强度的变化，以及由随机波动引起的变化。
+
+变异分离结果见图5，可以看出植被格局土壤因子解释的部分占 $1 5 . 6 \%$ ，植被格局地下水因子解释的部分仅占 $1 . 1 \%$ ,土壤因子与地下水因子交互作用解释的部分为 $3 . 1 \%$ ,未解释的部分占 $8 0 . 2 \%$ 。土壤含水量、酸碱度、沙粒体积百分比、土壤速效磷、有机质、全氮、电导率与地下水因子共解释了 $1 6 . 7 \%$ 的植被格局的变异。土壤因子解释的部分远远大于地下水因子解释的部分。
+
+![](images/d442ed5f5a2783c5226ee7657b4f6924062a4aae4f2dfa48a6a135abb95c3a24.jpg)  
+图4人工梭梭群落样方与环境因子的CCA排序图
+
+![](images/fbd1d16d5319ddc7a3ecee636355b399ee179d8e25b506f3113b3f21f9129f03.jpg)  
+Fig.4CCA two-dimensional ordination diagram for samples and environmental variablesof artificialH.ammodendron communities pH,土壤酸碱度;depthof groundwater，地下水埋深;sand，土壤沙 粒体积百分比;distance between oasis and desert，样方距离绿洲的 距离;available phosphors，土壤速效磷;soil water content，土壤含水 量;soil organic matter,土壤有机质;total nitrogen，土壤全氮含量; electrical conductivity，土壤电导率   
+图5人工梭梭群落物种分布的土壤、地下水因子的方差变异 分离 Fig.5Variance partitioning of soil and spatial factorsin explaining of species distribution of artificial ${ \textbf { \em H } }$ 、ammodendron communities
+
+# 3讨论与结论
+
+特定的植被组成和类型对环境条件的差异具有指示作用,TWINSPAN分类结果反映了人工梭梭群落随生境梯度变化的演替关系。TWINSPAN 首先将沙蒿、沙拐枣、沙米、白刺、梭梭等旱生植物和盐生怪柳、盐爪爪、黑果枸杞分开,表明显著差异的环境条件导致了群落的植物组成和类型的间断性。进一步将民勤绿洲边缘人工梭梭群落划分为4个群丛类型：群丛I梭梭 $^ +$ 白刺-沙蒿-盐生草、群丛Ⅱ梭梭 $. +$ 沙拐枣-沙米、群丛Ⅲ梭梭$^ +$ 白刺-芦苇、群丛V梭梭 $^ +$ 怪柳 $^ +$ 盐爪爪。4个群丛类型的演变代表了生境梯度的变化，同时也是人工梭梭群落与天然植物群落在特定生境条件下演替的结果。已有研究将民勤人工梭梭群落沿着流动沙地-半流动沙地-固定沙地的演替过程划分为梭梭-一年生植物群聚、梭梭-一年生植物-灌木群聚和梭梭-灌木群聚3类[15],忽视了植被群落演替过程中特定物种的指示作用。民勤沙区人工梭梭普遍退化，尤其在西沙窝一带退化更为严重,林内沙拐枣植株的数量明显增多,存在向沙拐枣群落演替的趋势[32]。群丛类型Ⅱ梭梭 $\cdot +$ 沙拐枣-沙米主要分布在梭梭衰退后固定沙丘活化的半流动、流动沙丘,固沙先锋植物沙拐枣和沙米定居与扩张,反映了这种演替趋势。退化演替的趋势指示了植被在生境方面的进一步分异和未来植被的方向。
+
+CCA 排序结果表明,土壤水分是民勤人工梭梭群落演替的重要调控因子。民勤梭梭人工林 $9 7 . 5 6 \%$ 分布在流动、半固定、固定沙丘,丘间平坦地、风蚀残积山坡、山前洪积扇和平缓假戈壁也有零星分布,但流动沙丘的水分条件梭梭生长最好[20]。梭梭种群以中幼林为主体,为增长型种群[14]。在成长过程中,沙丘水分递减，梭梭因水分亏缺而自然稀疏化,且在10a林龄以内自然稀疏过程最明显。当林龄达到15a以上时,植株普遍枯梢,生长不良,植株个体增大缓慢[16]。干旱荒漠区,植物更新能力的大小反映其适应干旱风沙环境的能力。由于冬季降水少和春旱的双重作用,使区域土壤水分长期处于匮缺状态不能满足梭梭种子萌发和幼苗存活的需要[13],造成民勤人工梭梭保苗率低[33]不能完成种群的自我更新。
+
+人工梭梭群落演替过程中,生长状况随立地类型的不同而不同,沿着流动沙丘-半固定沙丘-固定沙丘为衰退型,这种衰退与土壤水分含量有关[15]。不同林龄的梭梭林内土壤表层 $_ { 0 - 3 0 \mathrm { c m } }$ 含水量主要受自然降雨控制,土壤 $5 0 \mathrm { c m }$ 以下的含水量比较稳定,可以作为梭梭利用的水分来源[5]。梭梭林地浅层土壤水分主要来源于夏末和秋初的自然降雨，随着林龄的增加，林地逐渐形成土壤结皮，随之降雨补充浅层土壤水分的能力降低,而对土壤深层水和地下水的利用又不足以维持其正常生长是梭梭衰退的重要原因[23]。土壤结皮在起到固沙和保护梭梭免遭风蚀的同时,明显限制水分下渗并引起土壤干旱,加速了人工梭梭的退化。风沙土含水率低于 $0 . 8 2 4 \%$ ,梭梭死亡,介于 $0 . 8 2 4 \% - 1 . 3 0 \%$ 之间，处于退化状态，高于 $1 . 3 \%$ ，生长正常。土壤水分是影响人工梭梭最直接的生态因子[34],本文研究结论与此一致。
+
+梭梭耐盐碱能力强,流动沙丘造林30 年后林地含盐量最高为 $0 . 1 8 5 \%$ ,不影响梭梭的生长发育[35],可忍耐土壤含盐量 $6 \%$ 的盐分[36]。跟无梭梭分布的区域相比,梭梭林地土壤总碱度低而速效钾、有机质含量高[37]。较塔木苏格和阿右旗梭梭苗木种源,民勤梭梭的耐盐能力最强[38]。北疆绿洲-荒漠过渡带梭梭中心各土壤要素含量均高于周围,表现出“肥岛”和"盐岛"特征,且具有明显的物种效应[39]。群落稳定性随土壤水分和盐分增加不显著提高,而土壤 $\mathrm { ~ C ~ } _ { \mathrm { { N } , \mathrm { { P } , \mathrm { { S } , \mathrm { { C a } , N a , M g } } } } }$ 和 $\mathrm { C u }$ 等大部分元素的增加有助于提高群落稳定性，其中土壤P对群落稳定性的提高最为显著[40]。除土壤水分外,土壤有机质 $\mathrm { \Phi _ { \cdot } p H }$ 、速效磷也影响着人工梭梭群落的演替。
+
+PCCA 分析表明,土壤含水量、酸碱度、沙粒体积百分比、土壤速效磷、有机质、全氮、电导率与地下水因子解释了物种格局变化的 $1 9 . 8 \%$ ,未解释的部分占 $8 0 . 2 \%$ ,归咎于未被选取的环境因子如降水、风蚀沙埋、封禁或者随机过程。随着全球变化的加剧,降水改变正导致荒漠生态系统中植物用水策略的适应性变化。对降水变化响应的种间差异性影响着荒漠植物群落组成。古尔班通古特沙漠南缘梭梭通过形态调节和较强的气孔控制保持光合能力有效利用降水形成的浅层土壤水维持生存,降水增多对其产生正效应,预示着梭梭可能在未来种间竞争和群落演替中占有优势[41]。中、大量降雨是准噶尔盆地南缘荒漠区梭梭的维持水源之一[42],民勤梭梭对降水下限要求不严， $1 8 0 \mathrm { m m }$ 降水量是建立人工梭梭林的上限[34]。梭梭种子为喜光种子,种子萌发率随着沙埋深度的增加呈减小趋势， $2 \mathrm { c m }$ 为最佳沙埋深度,出土的幼苗对于梭梭种群更新贡献最大[43]。古尔班通古特沙漠南缘梭梭在0一 $\cdot 3 \mathrm { c m }$ 深度有出苗现象，最佳沙埋深度为 $0 . 5 ~ \mathrm { c m }$ ;白梭梭在 $0 { - } 5 ~ \mathrm { c m }$ 深度有出苗现象，最佳沙埋深度为0一 $\cdot 3 \ \mathrm { c m }$ 。出苗所需时间受沙埋影响显著,白梭梭耐沙埋能力、在沙生环境下生长能力均比梭梭强[44]。
+
+http://www.ecologica.cn
+
+综上所述,人工梭梭群落演替的环境驱动因子包括土壤水分、有机质、 $\mathrm { \ p H }$ 、速效磷、土壤沙粒、地下水埋深、土壤电导率,其中土壤水分是关键驱动因子。此外还包括降水、气候干旱、风蚀沙埋以及人为扰动等驱动因子,人工梭梭演替的趋势由上述所有内外部因素多时空尺度耦合作用决定。
+
+# 参考文献（References）：
+
+[1]BARBOURMG,URKJH,TWD.TrestrialPlantEcolgyMenloParkCalifoia：CumngsPublishgCompany1987：13-236[2]BURKEasiatodaftufukluftais，aaleeato)53-60.  
+[3］王继和,马全林.民勤绿洲人工梭梭林退化现状、特征与恢复对策．西北植物学报，2003,23（12）：2107-2112.  
+[4］康建军,王锁民,杨自辉.钠、硅及钠硅互作提高梭梭抗旱性的研究.中国沙漠,2012,32（3)：793-800.  
+[5］朱雅娟,贾志清,刘丽颖,刘海涛.民勤绿洲外围不同林龄人工梭梭林的土壤水分特征.中国沙漠,2011,31（2）：442-546.  
+[6］刘乃君.人工梭梭林对沙地土壤理化性质的影响.土壤通报，2008,39(6)：1480-1482.  
+[7］席军强,杨自辉,郭树江,王强强,张剑挥,王多泽.人工梭梭林对沙地土壤理化性质和微生物的影响.草业学报,2015,24（5）：44-52.[8］徐先英,严平,郭树江,柴成武.干旱荒漠区绿洲边缘典型固沙灌木的降水截留特征.中国沙漠，2013,33(1)：141-145.  
+[9］许强,杨自辉,郭树江,王强强.梭梭不同生长阶段的枝系构型特征.西北林学院学报，2013,28（4)：50-54.  
+[10］马瑞,王继和,刘虎俊,魏林源,李瑞军,孙涛.不同密度梭梭林对风速的影响.水土保持学报，2009,23（2）：249-252.  
+[11]田新民,赵长明,邓建明,张晓玮,陈拓,任贾文,王根轩.沿民勤绿洲荒漠过渡带分布的4种优势植物光合生理响应.草业学报，2011,20(4):108-115.  
+[12］徐先英,孙保平,丁国栋,郭树江,柴成武.干旱荒漠区典型固沙灌木液流动态变化及其对环境因子的响应.生态学报,2008，28（3)：895-905.  
+[13]陈芳,纪永福,张锦春,丁峰,刘有军,刘虎俊,王芳琳.民勤梭梭人工林天然更新的生态条件.生态学杂志,2010,29（9)：1691-1695.[14］李进军,薛斌瑞,柴宗政.民勤县荒漠-绿洲交错带梭梭种群的数量动态及分布格局.东北林业大学学报，2013,41（8)：27-31,101-101.[15］刘有军,刘世增,纪永福,张锦春,陈芳,王芳琳.民勤绿洲人工梭梭林群落结构及种群生态特征.干旱区研究，2014，31（1)：94-99.[16] 常兆丰,韩福贵,仲生年,张应昌,何芳兰,柴成武.民勤沙区人工梭梭林自然稀疏过程研究.西北植物学报，2008,28(1)：147-154.[17］张三亮,刘荣堂.荒漠梭梭林大沙鼠为害及不同生境类型对其巢域选择的影响.草原与草坪，2008,（5）：11-14.  
+[18］马世存,顾振东,李进军,张有佳,闫好原,任巧兰,许明,张杰.石羊河下游干旱荒漠区梭梭人工林病害发生种类及防治对策.甘肃林业科技，2012,37(3):36-39.  
+[19］黄子琛,刘家琼,鲁作民,丁声怀,王继和.民勤地区梭梭固沙林衰亡原因的初步研究.林业科学,1983,19（1）：82-87.  
+[20］纪永福,李强民,张锦春,陈芳,丁峰,王吉金,刘虎俊,王芳琳,刘有军,王功时.民勤不同立地条件下人工梭梭林生长状况研究.甘肃林业科技，2010,35(3)：1-6,34-34.  
+[21］马全林,王继和,赵明,詹科杰,刘虎俊.退化人工梭梭林的恢复技术研究.林业科学研究，2006,19(2)：151-157.  
+[22］张锦春,纪永福,王芳琳,陈芳,王基金,王功时,曹虎.民勤退化人工梭梭种群雨养恢复试验研究.西北林学院学报,2010,25（1)：77-81.[23］朱雅娟,贾志清.秋季巴丹吉林沙漠东南缘人工梭梭林水分来源.林业科学,2012,48（8）：1-5.  
+[24］李从娟,马健,李彦,李惠.梭梭和白梭梭主根周围土壤养分的梯度分布.中国沙漠,2011,31（5）：1174-1180.  
+[25］杨艳凤,周宏飞,徐利岗.古尔班通古特沙漠原生梭梭根区土壤水分变化特征.应用生态学报，2011,22（7)：1711-1716.  
+[26]HOPFENSPERGERKN,BURGINAJ,SCHOEPFERVA,HELTONAM.ImpactsofSaltwaterIncursiononPlantCommunitis，AnaerobicMicrobial Metabolism,andResulting RelationshipsinaRestoredFreshwater Wtland.Ecosystems,2014,17(5）：79-807.  
+[27］周欣,左小安,赵学勇,王少昆,刘川,张婧,吕朋,张建鹏.科尔沁沙地植物群落分布与土壤特性关系的DCA、CCA及DCCA分析.生态学杂志，2015,34(4):947-954.  
+[28］刘虎俊,王继和,常兆丰,马全林,杨自辉,詹科杰.石羊河下游荒漠植物区系及其植被特征.生态学杂志,2006,25(2）：113-118.[29］刘家琼,黄子琛,鲁作民,丁声怀,王继和.对甘肃民勤人工梭梭林衰亡原因的几点意见.中国沙漠，1982,2（2）：44-56.  
+[30］戈峰.现代生态学.北京：科学出版社，2000:1- 263  
+[31]LepSJ，SmilauerP.MultivariateAnalysisof Ecological Data Using CANOCO.Cambridge：Cambridge UniversityPress，2003.  
+[32］常兆丰,仲生年,韩福贵,张应昌,何芳兰,柴成武,李爱德,张景春.民勤沙区主要植物群落退化特征及其演替趋势分析.干旱区研究，2008,25(3):382-388.  
+[33］丁峰,纪永福,陈芳,张锦春,刘有军,王芳琳.民勤梭梭林自然更新苗的空间分布特征.甘肃林业科技，2011,36（3）：7-11.[34］马全林,王继和,朱淑娟.降水、土壤水分和结皮对人工梭梭（Haloxylon ammodendron）林的影响.生态学报,200,27（12）：5057-5067.  
+[35］刘光祖,王大为.人工梭梭林地土壤理化性质的测定.甘肃林业科技，1989,14(4)：25-28.  
+[36］高岩,张汝民,姚云峰,何敬宇,宋英春.盐胁迫对梭梭（HaloxylonammodendzonBge.）幼苗体内保护酶系统活性的影响.内蒙古大学学报（自然科学版），1997，28（2)：110-113.  
+[37］张瑾,贾宏涛,盛建东.北疆荒漠植被梭梭林立地土壤特征及其空间变异性研究.新疆农业大学学报，2007,30（2）：33-37.  
+[38］郭春秀,李德禄,刘虎俊,赵翠莲,刘淑娟.不同种源梭梭苗木耐盐性盆栽试验.甘肃农业大学学报，2008,43(6)：110-112.  
+［39］任雪.北疆绿洲-荒漠过渡带灌木“肥岛"效应特征及其环境学意义研究[D].石河子：石河子大学,2008.  
+［40］张雪妮.荒漠植物群落演替及其营养元素驱动研究[D].乌鲁木齐：新疆大学,2014.  
+[41]许皓,李彦,邹婷,谢静霞,蒋礼学.梭梭（Haloxylon ammodendron）生理与个体用水策略对降水改变的响应.生态学报,2007，27（12）：5019-5028.  
+[42］吕金岭,张希明,吕朝燕,刘国军.准噶尔盆地南缘荒漠区梭梭维持水源初步研究.中国沙漠，2013,33（1)：110-117.  
+[43］王国华,赵文智.埋藏深度对梭梭（Haloxylon ammodendron）种子萌发及幼苗生长的影响.中国沙漠，2015,35（2）：338-344.  
+[44］李惠,李彦,范连连.两种梭梭出苗对生境土壤基质互换与沙埋深度的响应.干旱区研究,2011,28(5）：780-788.

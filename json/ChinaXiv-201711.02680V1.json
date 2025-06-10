@@ -1,0 +1,514 @@
+[
+    {
+        "type": "text",
+        "text": "HOG1抑制剂调节球头三型孢菌多元醇生产及机理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾丽娜'李良智l'2\\*郭伟强1顾竟生1姚雪梅1鞠鑫1（1苏州科技大学化学生物与材料工程学院，江苏苏州215009；2新加坡国立大学生物科学系新加坡117543)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】采用HOG1抑制剂对球头三型孢菌产多元醇进行调控。【方法】向培养基中加入 SB239063、SB202190和SB203580三种抑制剂进行发酵实验，比较三种抑制剂对发酵的影响。【结果】实验结果表明 SB239063可以降低球头三型孢菌细胞内胞浆3-磷酸甘油脱氢酶（ctGPD）的酶活，提高赤藓糖还原酶（ER）的酶活。此外对 HOG1和Phospho-HOGl的Westemblot结果分析显示，SB239063还会抑制球头三型孢菌细胞内HOG1的脱磷酸化。最终添加 $1 0 \\mathrm { { \\mu m o l / L } }$ SB239063使发酵 $1 2 0 \\mathrm { h }$ 后的多元醇产物中甘油产量下降 $20 . 5 7 \\%$ ，赤藓糖醇产量提高 $3 1 . 1 6 \\%$ ，底物转化率提高 $2 4 . 7 3 \\%$ 。【结论】SB239063可以降低球头三型孢菌产甘油的能力，提高赤藓糖醇的产量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：球头三型孢菌；HOG1抑制剂；赤藓糖醇；赤藓糖还原酶 中图分类号：Q789 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The regulation on polyols production by Trichosporonoides oedocephalis with HOG1 inhibitors and its mechanism ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GU Li-Na1LI Liang-Zhil 2\\*GUO Wei-Qiang'GUJing-Sheng1YAO Xue-Mei'JU Xin1 (1School of chemistry， biology， and materials engineering， Suzhou University of Science and Technology,Suzhou,Jiangsu 215o09,China；²Department of Biological Sciences，National Universityof Singapore, Singapore 117543) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] To regulate the production of polyolsby Trichosporonoides oedocephalis employing HOG1 inhibitors.[Methods] SB239063, SB202190 and SB203580 were added into the medium to conduct fermentation experiments,and we compared the influence of three inhibitors on the fermentation. [Results]The experimental results showed SB239063 would decrease the ctGPD enzyme activity of Trichosporonoides oedocephalis,and enhance Erythritol reductase (ER） enzyme activity at the same time.Furthermore, the western blot analysis of HOG1 and Phospho-HOG1demonstrated that SB239063 also inhibited the dephosphorylation of HOG1. After $1 2 0 \\mathrm { ~ h ~ }$ fermentation,the addition of $1 0 \\mu \\mathrm { m o l / L }$ SB239063 decreased glycerol production by $20 . 5 7 \\%$ and increased erythritol production by $3 1 . 1 6 \\%$ . In other words, the conversion rate of glucose was increased by $2 4 . 7 3 \\%$ .[Conclusion] SB239063 weakened the ability to produce glycerol of Trichosporonoides oedocephalis and therefore promoted erythritol yield. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Trichosporonoides oedocephalis;HOG1 inhibitors; Erythritol; Erythritol reductase ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赤藓糖醇（1，2，3，4-丁四醇）是一种天然的四碳糖醇，它通常存在于自然界的一些蘑菇和水果中[] 它具有常见糖醇（如山梨糖醇）的许多典型功能特性，且在酸、碱和热的环境中有高稳定性，甜度和蔗糖相近，因此特别适宜做食品甜味剂[2]。特别地，由于赤藓糖醇的摄入不会影响人的血糖水平，因此它也适用于糖尿病人[3-5]。目前，赤藓糖醇已经成为国际认可的食品添加剂，它在食品、医药以及化工行业的应用越来越广泛。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内外有关赤藓糖醇的研究已经深入到酶学和分子的水平[67]。特别地，文献指出在啤酒酵母（Saccharomyces cerevisiae）发酵过程中，渗透压诱导甘油等多元醇的生产受高渗透压甘油途径（high osmolarityglycerol pathway,HOG）调节，其中 HOG 信号途径的级联系统由三种蛋白激酶组成,核心分子是 MAPKHOG1[8,9]。因此，HOG1信号途径在调控多元糖醇生产的问题实际上也已开始受到国外研究者的关注，如2005年Kayingo 等初步开展了白色念珠菌(Candida albicans)MAP激酶HOG1信号途径分别对多元醇甘油和D-阿拉伯糖醇的积累的调控研究，发现对于D-阿拉伯糖醇的生产，在氧胁迫（如添加 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ）下部分地依赖于HOG1信号途径，而在提高温度的热冲击下，D-阿拉伯糖醇的生产不依赖于HOG1信号途径的调节，通过改变培养环境的压力可以多途径地调控白色念珠菌累积甘油和D-阿拉伯糖醇的量[10]。显然，HOG1信号途径与微生物多元醇的生产调控和相关代谢途径中关键酶的调节都是有联系的。2011年，Peter 等首先自行设计HOG1抑制剂来研究酵母的MAP 激酶信号途径[]。但是，目前对于HOG1抑制剂添加对耐高渗透压酵母产多元醇及代谢途径关键酶的影响尚未见有报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "球头三型孢菌（Trichosporonoides oedocephalis）是一种能生产赤藓糖醇的耐高渗酵母，本课题组研究表明该菌以葡萄糖为底物生产赤藓糖醇时常伴随着甘油的产生,导致了赤藓糖醇生产能力降低和分离难度增加[12-14]。因此，本文系统研究 SB239063、SB202190 和SB203580等HOG1抑制剂对球头三型孢菌发酵产多元醇及相关代谢的影响。通过综合分析抑制剂添加造成的甘油和赤藓糖醇合成量变化、菌体生物量变化、ctGPD 酶活、ER 酶活和细胞活力等参数，并结合对 HOG1和Phospho-HOG1表达水平的Westerm blot 分析等，阐明HOG1抑制剂调控多元醇生产的影响机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 菌株 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "耐高渗酵母球头三型孢菌T.oedocephalisATCC16958购自美国标准菌种收藏所（ATCC）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2主要试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "抑制剂 SB239063、SB202190 和SB203580 购买自上海皓元生物医药科技有限公司，一抗 Phospho-p38 MAPK (Thr180/Tyr182)、二抗 HRP-linked Anti-rabbit IgG 购买自 Cell SignalingTechnology(CST)，一抗 HOG1 Antibody (y-215)、二抗 goat anti-rabbit IgG-HRP 购买自 SantaCruz Biotechnology。磷酸二羟丙酮（DHAP）购买自 Sigma。赤藓糖、NADH、NADPH 购买自Aladdin。葡萄糖、氯化钾、氯化钠、硫酸镁、磷酸二氢钾等试剂购买自国药集团化学试剂有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3培养基",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1种子培养基",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "酵母浸粉 $1 0 \\ \\mathrm { g / L }$ ，蛋白陈 $2 0 \\ \\mathrm { g / L }$ ，葡萄糖 $2 0 \\ \\mathrm { g / L }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2发酵培养基",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "酵母浸粉 $1 0 \\ \\mathrm { g / L }$ ，葡萄糖 $2 0 0 \\ \\mathrm { g / L }$ ，磷酸二氢钾 $0 . 5 { \\mathrm { g / L } }$ ，硫酸镁 $0 . 5 { \\mathrm { g / L } }$ ，氯化钾 $4 0 ~ \\mathrm { g / L }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4培养方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 种子培养 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从 $4 ^ { \\circ } \\mathrm { C }$ 保存的斜面培养基上刮取一环菌接种到 $5 0 ~ \\mathrm { m L }$ 种子培养基中，在 $3 0 ^ { \\circ } \\mathrm { C }$ 、 $2 0 0 ~ \\mathrm { r / m i n }$ 的摇床条件下培养 $4 8 \\mathrm { h }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2发酵培养 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将种子液以 $10 \\%$ 的接种量接种于发酵培养基中，其中摇瓶的装液量为 $5 0 \\mathrm { m L }$ 发酵培养基装于 $2 5 0 \\mathrm { m L }$ 锥形瓶中，置于 $3 0 ^ { \\circ } \\mathrm { C }$ 、转速 $2 0 0 \\mathrm { r / m i n }$ 的摇床中发酵 $1 2 0 \\mathrm { h }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.1多元醇含量测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多元醇含量的测定采用高效液相色谱法（HPLC)。取 $1 0 ~ \\mathrm { m L }$ 发酵样品， $1 4 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $2 0 \\mathrm { m i n }$ ，然后将上清液稀释适当倍数后通过 $0 . 2 2 \\mu \\mathrm { m }$ 膜过滤后进样，分析过程使用安捷伦1260 高效液相色谱仪，采用NH2P-504E（ $2 5 0 \\ : \\mathrm { m m } \\times 4 . 6 \\ : \\mathrm { m m }$ ，Shodex，Japan）色谱柱，检测器为蒸发光散射检测器（ELSD)。样品分析条件为：柱温 $3 0 ^ { \\circ } \\mathrm { C }$ ，流动相：乙腈：水（70:30），流速： $0 . 7 ~ \\mathrm { m L } / \\mathrm { m i n }$ 。ELSD的漂移管温度设为 $3 5 \\mathrm { ^ \\circ C }$ ，氮气流量为 $1 . 6 \\mathrm { L } / \\mathrm { m i n }$ ，增益值为1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.2生物量测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过测定细胞的干重来确定生物量浓度。即将发酵液在 $1 4 0 0 0 ~ \\mathrm { r / m i n }$ 下离心 $2 0 \\mathrm { m i n }$ ，去上清，将沉淀用去离子水清洗两遍后，再次离心。将细胞沉淀物在 $8 0 ^ { \\circ } \\mathrm { C }$ 烘箱中烘干至恒重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.3葡萄糖测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取发酵上清液经适当稀释，用装有葡萄糖氧化酶膜的生物传感分析仪（SBA-40C）直接测定分析葡萄糖含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.4抑菌圈试验和细胞活性测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "抑菌圈实验的操作步骤如下：首先，培养基中加入 $4 0 0 \\ \\mathrm { g / L }$ 葡萄糖以营造高渗透压环境。在超净工作台上倒完平板后，静置 $2 \\mathrm { h }$ ，使培养基充分凝固。然后将菌液用 $0 . 9 \\%$ 的生理盐水稀释适当比例后，取 $1 \\mathrm { m L }$ 菌液涂布平板。取相同大小的圆形滤纸片，将它们置于平板的相应位置，然后将浓度为 $1 0 ~ \\mathrm { m M }$ 的抑制剂溶液、无菌水、DMSO均匀滴加到圆形滤纸片上，并浸润滤纸片。将平板在超净工作台上再次静置 $^ { \\textrm { 1 h } }$ ，使滤纸片与培养基表面贴合后，将其转移至 $3 0 ^ { \\circ } \\mathrm { C }$ 的恒温培养箱中培养，定期观察平板的生长情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 MTT（噻唑蓝）法检测细胞活性的方法大多应用于免疫细胞等分析[15,16]，但也有报道显示 MTT方法可用于酵母等真菌的活力测定[17,18]。本研究采用 MTT 法测定球头三型孢菌细胞活性的实验参照前述参考文献并作适当改动后进行，即向EP管中加入 $2 0 0 \\mu \\mathrm { L }$ 细胞悬液和 $3 0 ~ \\mu \\mathrm { L }$ 浓度为 $5 \\mathrm { m g / m L }$ 的 MTT，在 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 恒温箱中孵育 $3 \\mathrm { h }$ 。然后将EP管离心(14000$\\mathrm { r } / \\mathrm { m i n } , 2 0 \\mathrm { m i n }$ )去上清，细胞用 $1 \\mathrm { X P B S } ( \\mathrm { p H } 7 . 0 )$ 清洗一遍后，向EP管中加入 $1 0 0 ~ \\mu \\mathrm { L }$ Formazan溶解液，置于 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 孵育 $6 \\mathrm { { h } }$ 。孵育结束后，充分混合EP管，离心( $ { 1 4 0 0 0 }  { \\mathrm { r / m i n } }$ ， $2 0 \\mathrm { m i n } .$ ）将 EP 管中的上清转移至96孔板，同时以只含无菌培养基和MTT溶液的 EP管中得到的上清作为对照，用酶标仪测定 $5 7 0 \\mathrm { n m }$ 处的吸光值。由于 $\\mathrm { O D } _ { 5 7 0 }$ 值的大小与菌体生物量有关，因此细胞活力的计算公式设为：细胞活力 $= \\mathrm { O D } _ { 5 7 0 } /$ X (X为菌体生物量)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.5 Western Blot 分析 H0G1 和 Phospho-H0G1表达水平",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将 SB239063、SB202190 和 SB203580 添加到发酵培养基中，同时以无菌水作为对照。发酵培养相应时间后，进行细胞裂解提取总蛋白，裂解得到的蛋白根据 BCA试剂盒的说明书进行蛋白浓度定量，根据每个上样孔内的蛋白总量一致的原则计算每个孔的蛋白上样体积。蛋白变性：加入5X的 SDS-PAGE 蛋白上样缓冲液，将蛋白样品和上样缓冲液充分混合后，在沸水浴中加热 $3 { - } 5 \\ \\operatorname* { m i n }$ 以充分变性蛋白。按照SDS-PAGE凝胶配制试剂盒的说明书配制$10 \\%$ 浓度的浓缩胶和分离胶。电泳结束后将胶小心取出，转移到转膜装置中， $4 0 0 \\mathrm { m A }$ 转膜$2 \\mathrm { h }$ 。膜的封闭与抗体孵育：转膜结束后，取出PVDF 膜，将其放入 $5 \\%$ 的BSA溶液(用TBST配制)中室温封闭1h。用 TBST 洗去封闭液后，加入稀释好的一抗Phospho-p38MAPK，4℃C孵育过夜。用TBST将膜在摇床上缓慢洗涤3次，每次 $1 5 ~ \\mathrm { m i n }$ 。然后加入稀释好的二抗HRP-linked Anti-rabbit IgG，在 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 孵育 $3 \\mathrm { { h } }$ ，加入TBST充分洗涤三次，每次 $1 5 \\mathrm { m i n }$ 。向膜上滴加ECL试剂，覆盖目标蛋白区域，置于化学发光成像仪中曝光显影。显影结束后，将PVDF膜置于蒸馏水中漂洗 $5 \\mathrm { m i n }$ ，弃蒸馏水，加入适量western一抗二抗去除液，在摇床上漂洗 $5 \\mathrm { m i n }$ 。弃westem一抗二抗去除液，加入蒸馏水漂洗一次。然后再加入足量蒸馏水，在摇床上漂洗 $5 \\mathrm { m i n }$ 。之后重新进行膜的封闭，孵育一抗HOG1Antibody、二抗 goatanti-rabbitIgG-HRP，显影曝光。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.6胞浆3-磷酸甘油脱氢酶（ctGPD）酶活测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测定方法参照文献进行[19]。 $3 0 ^ { \\circ } \\mathrm { C }$ 条件下 $1 \\mathrm { m i n }$ 消耗1μmolNADH所需的酶量定义为1 个酶活单位(U)。比酶活用每毫克细胞蛋白的酶活性表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.7赤藓糖还原酶（ER）酶活测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测定方法参照文献进行[20]，并作适当调整。反应缓冲体系为： $5 0 \\mathrm { m m o l / L }$ 磷酸盐缓冲液（ $\\mathrm { p H } 6 . 5 \\AA )$ ， $1 2 \\mathrm { m m o l / L }$ 赤藓糖，0.2mmol/LNADPH。酶反应温度为 $3 7 ^ { \\circ } \\mathrm { C }$ 。 $3 7 ^ { \\circ } \\mathrm { C }$ 条件下下 $1 ~ \\mathrm { m i n }$ 催化1umolNADPH氧化所需的酶量定义为一个酶活单位。比酶活用每毫克细胞蛋白的酶活性表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1HOG1抑制剂添加对球头三型孢菌发酵产多元醇的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于预实验数据分析，本研究采用向发酵培养基中加入终浓度为 $1 0 \\mathrm { \\textmu m o l { } L }$ 的SB239063、SB202190和SB203580，发酵 $1 2 0 \\mathrm { h }$ 后，测定相关发酵参数，结果如图1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "添加 SB239063、SB202190和 SB203580的发酵产物中甘油含量分别为 $1 9 . 3 4 \\mathrm { g } / \\mathrm { L } . 2 2 . 7 8 \\mathrm { g } / \\mathrm { L }$ 和 $2 1 . 0 9 \\mathrm { g / L }$ ，比对照组 $( 2 4 . 3 5 \\ \\mathrm { g / L }$ ）分别降低了 $20 . 5 7 \\%$ 、 $6 . 4 5 \\%$ 和 $1 3 . 3 9 \\%$ ，赤藓糖醇的产量分别为 $4 2 . 5 6 \\ \\mathrm { g / L }$ 、 $3 4 . 4 6 ~ \\mathrm { g / L }$ 和 $3 4 . 2 2 \\ \\mathrm { g / L }$ ，比对照组的 $3 2 . 4 5 \\mathrm { g / L }$ 分别提高了 $3 1 . 1 6 \\%$ 、 $6 . 1 9 \\%$ 和 $5 . 4 5 \\%$ （图1A)。因此，在这三种 HOG1抑制剂中，SB239063 提高赤藓糖醇产量的作用效果最显著。图1(B)中的菌体生物量数据显示，添加HOG1抑制剂的培养基中最终的菌体浓度均低于对照组，但总体来看，HOG1抑制剂对菌体生长的抑制作用并不强烈，因为添加SB203580最终可得到 $2 6 . 8 9 \\ : \\mathrm { g / L }$ 的菌体浓度，仅仅比对照组（ $2 8 . 3 6 \\ \\mathrm { g / L }$ ）降低了 $5 . 1 8 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1（C）中残糖数据显示，发酵 $1 2 0 \\mathrm { h }$ 后，对照组培养基中的葡萄糖浓度为 $1 0 . 7 \\ : \\mathrm { g / L }$ ，而添加 SB239063 的培养基中，葡萄糖浓度仅为 $3 . 6 \\ \\mathrm { g / L }$ ，这说明 SB239063对菌体细胞利用葡萄糖有一定的促进作用，反之，添加 SB203580 和 SB202190 的培养基中最终的葡萄糖浓度分别为 $1 7 . 5 \\ \\mathrm { g / L }$ 和 $1 6 . 3 ~ \\mathrm { g / L }$ ，说明这两种抑制剂阻碍了发酵后期葡萄糖的进一步消耗。此外对发酵末期（ $1 2 0 \\mathrm { h }$ ）细胞活力的测定结果如图1（D）所示（把对照组的细胞活力规定为$100 \\%$ )，很明显，三种HOG1抑制剂均使细胞活力有所降低，且对细胞活力的抑制作用从强到弱依次为 SB239063、SB203580 和 SB202190，但经 SB239063处理过的球头三型孢菌，其细胞活力仍高达对照组的 $87 \\%$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另外，三种HOG1抑制剂对球头三型孢菌产多元醇发酵过程的影响产生差异的原因可能有两个：第一，由于 SB239063、SB202190 和 SB203580 均为p38αMAPK的抑制剂，其对 $\\mathfrak { p } 3 8 \\mathfrak { a }$ 的IC50分别为 $4 4 ~ \\mathrm { n M }$ 、 $5 0 ~ \\mathrm { n M }$ 和 $0 . 3 \\mathrm { - } 0 . 5 ~ \\mu \\mathrm { M }$ 。很显然，SB239063是三种抑制剂中最高效的。而HOG1与 $\\mathfrak { p } ^ { 3 8 \\mathrm { ~ d ~ } }$ 有着极高的相似性，在氨基酸水平上有着 $51 \\%$ 的同一性[1]。第二，SB202190 和 SB203580均为吡啶咪唑结构，而 SB239063为嘧啶咪唑结构。化学结构的不同可能导致抑制剂与其作用底物结合的作用力产生差异，并因此影响最终的抑制效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合以上分析，我们发现三种HOG1抑制剂对T.oedocephalis 的生长、底物利用和细胞活力均有一定影响，最终都不同程度地降低了甘油产量，提高了赤藓糖醇的产量。为了进一步阐明抑制剂的作用影响及机理，接下来我们进一步研究了添加抑制剂的发酵过程曲线，并采用Western blot方法等对三种抑制剂处理后T.oedocephalis 细胞内HOG1的相关表达进行了分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b25cc7689f9e66b24cc4783d52ecee80d67c96286505cedef5d265f1d73b49b9.jpg",
+        "img_caption": [
+            "图1HOG1抑制剂对球头三型孢菌发酵的影响",
+            "Fig.1The effect of HOG1 inhibitors on the fermentation ofT.oedocephalis "
+        ],
+        "img_footnote": [
+            "(A)甘油和赤藓糖醇产量(B)菌体干重(C)残糖浓度(D)细胞活力"
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(A）production of glycerol and erythritol (B) cell dry weight(C) residual glucose (D)cellviability ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2添加H0G1抑制剂产多元醇发酵过程分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在发酵 $^ { 0 \\mathrm { h } }$ 向发酵培养基中加入 SB203580、SB202190 和 SB239063,终浓度均为 $1 0 ~ \\mu \\mathrm { M }$ 同时以无菌水作为对照对照。分别在发酵 $2 4 \\mathrm { h }$ 、 $4 8 \\mathrm { { h } }$ 、 $7 2 \\mathrm { { h } }$ 、 $9 6 \\mathrm { h }$ 和 $1 2 0 \\mathrm { h }$ 取样检测多元醇产量、细胞干重、残糖浓度。结果如图2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d75777a04b00919a24805964f3133b704aaaf7f8f3e827d3914e5ed9a3d28801.jpg",
+        "img_caption": [
+            "图2添加HOG1抑制剂的发酵时间曲线",
+            "Fig.2 The fermentation curve with HOG1 inhibitors against time "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(A）甘油产量(B）赤藓糖醇产量(C)细胞干重(D)残糖 (A） production of glycerol (B) production of erythritol (C) cell dry weight (D） residual glucose ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图2(A)中的甘油产量数据显示，添加 SB203580、SB202190 和 SB239063 的培养基，在发酵 $1 2 0 \\mathrm { h }$ 后，最终的甘油浓度都低于对照组 $( 2 4 . 3 5 \\ \\mathrm { g / L } )$ ，且分别降低了 $1 3 . 3 9 \\%$ 、 $6 . 4 5 \\%$ 和$20 . 5 7 \\%$ 。图 2(B)中的赤藓糖醇产量数据显示，三种抑制剂都有利于赤藓糖醇的合成，且SB239063的提高作用最为明显，最终的赤藓糖醇产量较对照组的 $3 2 . 4 5 ~ \\mathrm { g / L }$ 提高了 $3 1 . 1 6 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "另外，关于HOG1抑制剂对细胞生长的影响，虽然2.1中通过细胞活力测定实验，结果表明三种 HOG1抑制剂均会降低细胞活力，但图2(C)中的细胞干重数据仍表明抑制剂的添加对球头三型孢菌细胞的生长无明显阻碍作用。这是因为在细胞的快速生长期（ $0 { - } 4 8 \\mathrm { h } \\dot { , }$ ，细胞活力仍维持在很高的水平（ $90 \\%$ 以上)，而且菌体细胞的生长主要与细胞周期内DNA和蛋白质的合成、有丝分裂以及细胞凋亡有关。因此，MTT实验呈现出的细胞活力数据并不能完全代表细胞的生长情况。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图2(D)中的发酵液中残余葡萄糖数据表明，SB239063的添加使得细胞在发酵后期(72h-120h)的耗糖速率加快，提高了葡萄糖的利用率。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3添加HOG1抑制剂抑菌圈实验和酵母细胞活性测定",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了探究添加三种抑制剂提高赤藓糖醇产量的作用机理，首先我们用 $1 0 \\mathrm { m M }$ 的三种抑制剂和 $5 0 ~ \\mathrm { m M }$ 的 SB203580，按照实验部分描述的方法实施进行了抑菌圈实验，结果如图3所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5cfb44be485b683d3115a60236b0e3b7150ccef9939fc78595de846d795aa892.jpg",
+        "img_caption": [
+            "图3添加H0G1抑制剂形成的抑菌圈"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(A）抑制剂的浓度为 $1 0 \\ \\mathrm { m M }$ (B）SB203580的浓度为 $5 0 \\ \\mathrm { m M }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.3The formation of non-proliferating cells halos around the filter discs because of the addition of HOG1 inhibitors (A) 10 mMinhibitors (B) $\\mathbf { 5 0 \\ m M }$ SB203580 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图3(A)显示，在滴加 SB203580、SB202190 和 SB239063三种抑制剂的圆形滤纸片周围，菌体出现了生长被抑制的现象，产生了抑菌圈，而滴加无菌水和DMSO的对照组周围并未出现明显抑菌现象。此外，图3(B)中的抑菌圈较(A)更为明显。抑菌圈的出现，说明这三种抑制剂可以进入球头三型孢菌细胞内，且抑制剂浓度越高，对菌体生长的抑制作用越强。另外，为了监测整个发酵周期内添加抑制剂对菌体代谢的影响，我们采用MTT法检测了细胞在发酵进程不同时间点的细胞活性，因为此MTT方法所得结果与细胞干重有关，故细胞活性用 $\\mathrm { O D } _ { 5 7 0 } /$ 细胞干重(g)来表示，结果如表1所示(将对照组的活性设为 $100 \\%$ ）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/dca6d9c412a62bab0479226e6b5b2735bb81e5bd51553884f14769afe1e4360b.jpg",
+        "table_caption": [
+            "表1MTT法测定球头三型孢菌细胞活性 $( \\% )$ ",
+            "Table.1 Determination of cell viability of T.oedocephalis with MTT assay "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Time (h)</td><td>control</td><td>SB202190</td><td>SB203580</td><td>SB239063</td></tr><tr><td>24</td><td>100</td><td>99 ± 2</td><td>96±3</td><td>90±1</td></tr><tr><td>48</td><td>100</td><td>92 ±1</td><td>94 ±2</td><td>96±3</td></tr><tr><td>72</td><td>100</td><td>96± 2</td><td>87±1</td><td>80±1</td></tr><tr><td>96</td><td>100</td><td>95±1</td><td>86±1</td><td>81±1</td></tr><tr><td>120</td><td>100</td><td>94±1</td><td>92±2</td><td>87±2</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表1数据显示,抑制剂的添加对球头三型孢菌细胞的活性有一定的抑制作用，总体而言，三种抑制剂对菌体细胞的抑制作用由强到弱依次为：SB239063、SB203580 和 SB202190。尽管 SB239063对细胞活性有一定抑制，但细胞活性也一直处于 $80 \\%$ 以上的水平，且菌体生长的旺盛期 $( 0 \\mathrm { h } \\mathrm { - } 4 8 \\mathrm { h } )$ 内，细胞活性几乎未受到影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4Western Blot 检测 HOG1和Phospho-HOG1表达水平",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对发酵培养 24h 的 T.oedocephalis 细胞进行HOG1和 Phospho-HOG1表达水平的测定。显影结果如图4所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在高渗条件下细胞中的HOG1会被其上游因子Pbs2迅速磷酸化[21]，而HOG1的脱磷酸化需要依靠其自身的激酶活性[22,23]。图2中Western blot 分析结果表明：经过 SB239063 处理的T.oedocephalis 细胞中Phospho-HOG1的表达量明显高于对照组，这说明 SB239063 抑制了 HOG1的脱磷酸化，即 SB239063 降低了球头三型孢菌细胞内 HOG1的激酶活性，从而影响了该菌株甘油和赤藓糖醇的生产。而 SB202190 和 SB203580对 HOG1活性的抑制作用并不明显。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SB202190SB203580SB239063control Phospho HOG1 HOG1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图4HOG1和Phospho-HOG1的Western blot 分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure4 The Western blot analysis ofHOG1 and Phospho-HOG1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5H0G1抑制剂对ctGPD和ER酶活的影响 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "球头三型孢菌发酵葡萄糖产生甘油的代谢途径为：首先糖酵解的中间代谢产物磷酸二羟丙酮(DHAP)在胞浆NAD $+$ -依赖的3-磷酸甘油脱氢酶(ctGPD)催化下被还原成3-磷酸甘油(G3P)，这一过程以NADH为氢供体。接着，G3P在3-磷酸甘油酯酶(GPP)的作用下脱去磷酸基团，最终生成甘油[24]。在甘油合成途径中，ctGPD为限速酶[25]。酵母中的赤藓糖醇合成是从磷酸戊糖途径的中间代谢物4-磷酸赤藓糖开始的，4-磷酸赤藓糖历经脱磷酸化过程和还原过程得到赤藓糖醇。也就是说,赤藓糖还原酶即为催化最后一步还原反应的关键酶[26,27]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "鉴于ctGPD 和ER分别是甘油合成和赤藓糖醇合成途径中的关键酶，为明确抑制剂添加造成甘油和赤藓糖醇产量差异的作用机理，分析这两种酶的酶活变化尤为重要。ctGPD 和ER 的酶活分析结果如表2和表3所示。添加抑制剂 SB202190的酵母细胞中ctGPD 酶活总体略微低于对照组，但相差量不大。添加抑制剂 SB203580的细胞中ctGPD 比酶活在 $2 4 \\mathrm { h } { - } 7 2$ h 时间段内低于对照组，且 $4 8 \\mathrm { { h } }$ 时ctGPD的比酶活只有对照组的0.45倍，在 $9 6  { \\mathrm { h } }  { - } 1 2 0  { \\mathrm { h } }$ 时间段内高于对照组。添加抑制剂 SB239063的细胞中ctGPD酶活在5个时间点均低于对照组。三种抑制剂的ctGPD 酶活趋势和最终的甘油产量是相对应的(最终的甘油产量从高到低依次为：对照组、SB202190、SB203580 和 SB239063)。与此同时，三种抑制剂的添加使得发酵前期 $( 2 4 \\mathrm { h } { - } 4 8 \\mathrm { h } )$ 的酵母细胞中ER的酶活均有所降低，而在发酵中后期 $( 7 2 \\mathrm { h } \\mathrm { - } 1 2 0 \\mathrm { h } )$ ，添加SB239063的细胞中ER的酶活较对照组有明显提高，在 $7 2 \\mathrm { { h } }$ 时，其ER酶活为对照组的1.33倍，而添加 SB203580 和 SB202190 的细胞中ER 酶活与对照组相差较小，且在 $1 2 0 \\mathrm { h }$ 时低于空白组。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ctGPD 和ER的酶活数据表明 SB239063 的添加对球头三型孢菌细胞内代谢网络中的关键酶造成了影响，总体而言，是降低了ctGPD的活力，提高了ER的活力，这也进一步解释了添加适量的抑制剂可以实现赤藓糖醇产量提高的原因。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebc634be96dc14d59e51c6cacbe5e605bdc3614308ea812a42d29970e83f1735.jpg",
+        "table_caption": [
+            "表2HOG1抑制剂对ctGPD酶活的影响 Table2The effect ofHOG1 inhibitors on the specific activity of ctGPD "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">发酵时间 Time(h)</td><td colspan=\"4\">ctGPD 酶活</td></tr><tr><td></td><td>SpecificactivityofctGPD(mU/mgprotein)</td><td></td><td></td></tr><tr><td></td><td>control</td><td>SB202190</td><td>SB203580</td><td>SB239063</td></tr><tr><td>24</td><td>18.67±0.29</td><td>18.37±0.32</td><td>11.55 ± 0.25</td><td>15.03 ± 0.31</td></tr><tr><td>48</td><td>17.58 ± 0.26</td><td>17.33 ± 0.17</td><td>7.79 ± 0.09</td><td>14.23 ± 0.28</td></tr><tr><td>72 96</td><td>6.99 ± 0.18 4.28 ± 0.16</td><td>6.64 ± 0.36 4.18 ± 0.24</td><td>5.85 ± 0.12 5.43 ± 0.11</td><td>6.12 ± 0.13 4.05 ± 0.08</td></tr><tr><td>120</td><td>3.26 ± 0.13</td><td>3.23 ± 0.19</td><td>3.47 ± 0.08</td><td>3.17 ± 0.07</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/22d6bbd20b7eee590dcbc1940531e16bd0209c5a66b304ddcbe8fd1c57ac04e6.jpg",
+        "table_caption": [
+            "表3HOG1抑制剂对ER酶活的影响 Table 3The effect of HOG1 inhibitors on the specific activity of ER "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">发酵时间 Time(h)</td><td colspan=\"4\">ER酶活</td></tr><tr><td>control</td><td>SpecificactivityofER(mU/mgprotein)</td><td>SB203580</td><td>SB239063</td></tr><tr><td>24</td><td>327.59±10.23</td><td>SB202190 240.33 ± 7.39</td><td>251.57± 10.31</td><td>278.03 ± 11.21</td></tr><tr><td>48</td><td>227.63 ± 8.76</td><td>180.77 ± 6.29</td><td>167.83 ± 2.78</td><td>196.58 ± 9.73</td></tr><tr><td>72</td><td>126.52 ± 7.82</td><td>127.79 ± 6.34</td><td>129.26 ± 2.81</td><td>168.53 ± 5.27</td></tr><tr><td>96</td><td>104.49 ± 5.43</td><td>108.12 ± 5.76</td><td>110.41 ± 1.98</td><td>136.32 ± 4.19</td></tr><tr><td>120</td><td>87.34 ± 3.86</td><td>78.93 ± 3.21</td><td>80.13 ± 1.76</td><td>92.73 ± 2.17</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Hogl信号途径在调控多元糖醇生产的问题越来越多的受到研究者的关注，美国学者Kayingo 等初步开展了白色念珠菌(Candida albicans)MAP 激酶HOG1信号途径分别对多元醇甘油和D-阿拉伯糖醇的积累的调控研究，其研究思路主要是通过对比野生菌和HOG1基因敲除的工程菌产多元醇的情况[10]，作者课题组也采用HOG1基于敲除的方法探究工程菌与野生菌产多元醇的变化[14]；在2013年，西班牙学者的研究结果又进一步指出氧胁迫能显著地刺激白色念珠菌野生菌RM-100 海藻糖和D-阿拉伯糖醇生产的增加，但环境压力诱导海藻糖的生产是不依赖于HOG1信号途径的调节，D-阿拉伯糖醇部分依赖于HOG1信号途径的调节[28]。这些研究都表明了研究HOG1信号途径在多元醇生产过程的调控作用具有重要的意义。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "因此，本文的研究以调控甘油生产的Hog1信号途径为研究切入点，首次采用了小分子化学抑制剂的添加策略来研究耐高渗透压酵母球头三型孢菌的发酵调控。研究重点针对球头三型孢菌在高糖条件下发酵生产赤藓糖醇，但常常伴随大量甘油副产物产生的问题，基于HOG1对甘油合成的调控，选择了三种HOG1抑制剂 SB239063、SB202190 和 SB203580 添加到发酵培养基中，发酵 $1 2 0 \\mathrm { h }$ 后，与对照相比甘油产量降低，赤藓糖醇产量提高，其中SB239063的作用效果最为明显。Westem blot分析结果表明，SB239063可以抑制T.oedocephalis 细胞中HOG1的脱磷酸化，进而阻碍HOG1正常作用的发挥。同时，SB239063的添加可以降低 T.oedocephalis 细胞内甘油合成关键酶 ctGPD 的活力，提高赤藓糖醇合成关键酶ER的活力。最终，经过 $1 2 0 \\mathrm { h }$ 的发酵，添加 $1 0 \\mu \\mathrm { m o l } / \\mathrm { L S B } 2 3 9 0 6 3$ 的发酵产物中，甘油产量比对照组降低 $2 0 . 5 7 \\%$ ，赤藓糖醇产量比对照组提高 $3 1 . 1 6 \\%$ ，添加 SB239063、SB202190、SB203580以及对照组的底物转化率分别为 $2 3 . 0 0 \\%$ 、 $1 9 . 6 9 \\%$ 、 $2 0 . 1 3 \\%$ 、 $1 8 . 4 4 \\%$ 。即添加SB239063、SB202190和SB203580分别将底物转化率提高了 $2 4 . 7 3 \\ \\%$ 、 $6 . 7 8 \\%$ 和 $9 . 1 6 \\%$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文的研究为耐高渗透压酵母多元醇的发酵生产调控奠定了新的技术基础，进一步的研究可以在生物反应器中放大进行。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献 [1] Jovanovic B， Mach RL，Machaigner AR. Erythritol production on wheat straw using Trichoderma reesei[J]. AMB Express, 2014, 4(1):1-12 [2] Hashino E，Kuboniwa M,Alghamdi SA，et al. Erythritol alters microstructure and metabolomic profiles of biofilm composed of Streptococcus gordonii and Porphyromonas gingivalis[J]. Molecular Oral Microbiology, 2013, 28(6):435-451 [3] Xiao SR,Li JD. Erythritol characteristics and its application[J]. Food and Nutrition in China,2008 (5): 26-28 (in Chinese) 肖素荣，李京东．赤藓糖醇的特性及应用[J]．中国食物与营养,2008 (5):26-28 [4] Zhang JL, Yao J. The Research of Erythritol in Preventing Caries [J].Medical Recapitulate.   \n2010,16(4): 570-571 (in Chinese) 张佳丽，姚军．赤藓糖醇在龋病预防中的应用[J]．医学综述,2010,16(4):570-571 [5] Mirohczuk AM，Biegalska A， Dobrowolski A. Functional overexpression of genes involved in erythritol synthesis in the yeast Yarrowia lipolytica[J]. Biotechnology for Biofuels, 2017,10:77 [6] Deng HH,Han Y,Liu YY,et al. Identification of a newly isolated erythritol-producing yeast and cloning of its erythrose reductase genes.Journal of Industrial Microbiology & Biotechnol0gy.2012,39(11):1663-1672 [7]Kobayashi Y, Yoshida J, Iwata H, et al. Gene expression and function involved in polyol biosynthesis of Trichosporonoides megachiliensis under hyper-osmotic stress[J]. Journal of Bioscience and Bioengineering, 2012, 115(6): 645-650 [8] Wu XC, Hu SJ, Qian KX. HOG-MAPK pathway in Yeast. Chinese Journal of Cell Biology.   \n2005,27(3): 247-252 (in Chinese) 吴雪昌，胡森杰，钱凯先．酵母HOG-MAPK 途径[J]．中国细胞生物学学报,2005,   \n27(3): 247-252 [9] Ruan HH,Li XC，Lan B,et al. High Osmolarity Glycerol MAP Kinase Signal Transduction Pathway. Chinese Journal of Cell Biology, 2006,28(5): 651-655(in Chinese) 阮海华，李西川，兰蓓,等．高渗透压甘油信号转导途径[J].细胞生物学杂志,2006,   \n28(5): 651-655 [10] Kayingo G, Wong BW. The MAP kinase Hoglp differentially regulates stress-induced production and accumulation of glycerol and d-arabitol in Candida albicans[J]. Microbiol0gy,2005,151(9): 2987-2999 [11] Dinér P, Vilg JV, Kjellén J, et al. Design, synthesis,and characterization of a highly effective Hogl inhibitor: a powerful tool for analyzing MAP kinase signaling in yeast[J]. PLoS One.2011, 6(5): e20012 [12] Li LZ, Zhang HX, Fu JL, et al. Enhancement of Ribitol Production during Fermentation of Trichosporonoides oedocephalis ATCC 16958 by Optimizing the Medium and Altering Agitation Strategies[J]. Biotechnology and Bioprocess Engineering, 2012, 17(2): 236-241   \n[13] Li LZ， Yang TY， Hu CY，et al. Transformation of the yeast Trichosporonoides oedocephalis[J]. Antonie van Leeuwenhoek journal of microbiology， 2016, 109(2): 305-309   \n[14] Li LZ， Yang TY, Guo WQ，et al. Construction of an efficient mutant strain of Trichosporonoides oedocephalis with HOGl gene deletion for production of erythritol[J]. Journal of Microbiology & Biotechnology, 2016, 26(4):700-709   \n[15] Bownik A. In vitro effects of staphylococcal leukocidin LukE/LukD on the proliferative ability of lymphocytes isolated from common carp (Cyprinus carpio L.)[J]. Fish & Shellfish Immunology, 2006, 20(4): 656-659   \n[16] Pentinen P, Pelkonen J，Huttunen K，et al. Interactions between Streptomyces californicus and Stachybotrys chartarum can induce apoptosis and cell cycle arrest in mouse RAW264.7 macrophages[J]. Toxicology & Applied Pharmacology, 2005, 202(3): 278-288   \n[17]Sanchez NS，Konigsberg M. Using Yeast to Easily Determine Mitochondrial Functionality with 1-(4,5-Dimethylthiazol-2-yl)-3,5-diphenyltetrazolium Bromide (MTT) Assay[J]. Biochemistry and Molecular Biology Education, 2006, 34(3): 209-212   \n[18] Ryu YH, Kim YH, Lee JY, et al. Effects of background fluid on the efficiency of inactivating yeast with non-thermal atmospheric pressure plasma[J]. PLoS One, 2013, 8(6): e66231   \n[19] Wang ZX， Zhuge J. The key enzymes of metabolisms of glycerol in Candida glycerolgenesis. Acta Microbiologica Sinica. 2000, 40(2): 180-187 (in Chinese) 王正祥，诸葛健．产甘油假丝酵母甘油代谢关键酶的研究[J]．微生物学报,2000, 40(2): 180-187   \n[20] Ookura T, Azuma K, Isshiki K, et al. Primary structure analysis and functional expression oferythrosereductasesfromerythritol-producingfungi(Trichosporonoides megachiliensis SNG-42)[J]. Bioscience,Biotechnology, and Biochemistry, 2005, 69(5): 944-951   \n[21] O'Rourke SM,Herskowitz I, O'Shea EK,et al. Yeast go the whole HOG for the hyperosmotic response[J]. Trends in Genetics, 2002,18(8): 405-412   \n[22] Macia J, Regot S, Peeters T, et al. Dynamic Signaling in the Hogl MAPK Pathway Relies on High Basal Signal Transduction[J]. Science Signaling. 2009,2(63): ra13   \n[23] Westfall PJ, Thorner J. Analysis of mitogen-activated protein kinasesignaling specificity in response to hyperosmotic stress: Use of an analog-sensitive HOG1 allele[J]. Eukaryotic Cell,2006, 5(8): 1215-1228   \n[24] Chen XZ, Wang ZX, Zhuge J. Progress in Glycerol Metabolism and its Physiological Function in Yeast Cells. China Biotechnology,2010, 30(5) : 140-148 (in Chinese) 陈献忠，王正祥，诸葛健．酵母细胞甘油代谢与生理功能研究进展[J]．中国生物工 程杂志,2010,30(5):140-148.   \n[25] Remize F, Barnavon L, Dequin S. Glycerol Export and Glycerol-3-phosphate Dehydrogenase, but Not Glycerol Phosphatase,Are Rate Limiting for Glycerol Production in Saccharomyces cerevisiae[J]. Metabolic Engineering, 2001, 3(4) : 301-312.   \n[26] Moon HJ, Jeya M, Kim IW,et al. Biotechnological production of erythritol and its applications[J]. Applied microbiology and biotechnology, 2010, 86(4) : 1017-1025.   \n[27] Sawada K, Taki A， Yamakawa T,et al. Key role for transketolase activity in erythritol production by Trichosporonoides megachiliensis SN-G42[J]. Journal of bioscience and bioengineering,2009,108(5) : 385-390   \n[28] Sanchez-Fresneda R, Guirao-Abad JP, Argiuelles A,et al. Specific stress-induced storage of trehalose, glycerol and d-arabitol in response to oxidative and osmotic stress in Candida albicans[J]. Biochemical and Biophysical Research Communications, 2013， 430(4) : 1334-1339. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

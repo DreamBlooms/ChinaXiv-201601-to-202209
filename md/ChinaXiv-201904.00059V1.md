@@ -1,0 +1,263 @@
+# 迭代自组织哈希算法
+
+韩雪莲，田爱奎+，王 振，卢海涛(山东理工大学 计算机科学与技术学院，山东 淄博 255000)
+
+摘要：为了解决现有哈希算法的中心点不确性和离散编码的表达有限的问题，提出迭代自组织哈希算法(iterativeself-organizing hashing，ISOH)。该算法采用迭代自组织数据分析量化空间，以提高近邻检索准确率；在聚类中心初始化方面，使用最远平均距离方法选择初始聚类中心，避免初始聚类中心的随机性；为解决固定编码长度所表示的二值编码种类有限的问题，提出建立多重编码机制；在时间复杂度方面，ISOH 算法采用乘积空间，以较低的代价得到更长的编码。实验结果表明，在SIFT、GIST和CIFAR10数据集上与K均值哈希和可扩展图哈希等具体化哈希算法相比，ISOH算法能有效提高近邻检索的准确率。
+
+关键词：迭代自组织数据分析；多重编码；乘积空间；最远平均距离中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.10.0811
+
+Iterative self-organizing hashing algorithm
+
+Han Xuelian, Tian Aikui+,Wang Zhen, Lu Haitao (College ofComputer Science&Technology,Shandong UniversityofTechnology,Zibo Shandong 2550oo,China)
+
+Abstract:Tofixtherandomnessofteclustercentersand the limitedrepresentationof the discrete binarycodes,this paper presentedamethodtermedIterative Self-organizing Hashing (ISOH）.Thisalgorithmemployedthe Iterative Self-organizing Data Analysis to quantify the original space.As aresult,the above measurement improves theretrieval accuracylargely.During initializing the clustering centers,this method utilized the farthest average distance to fix the randomnessproblem.As the fixed binary bitscan represent a limited number of the codes,the hash based image ANN retrieval method has poor performance.To this end,this paper established themulti-encoding mechanism.In terms of the trainingtime complexity,this method employed the product space mechanism to obtain longer encoding results atalower cost.This paper conducted the comparative experiments in SIFT,GISTand CIFAR10 datasets.The experimental results show that ISOH is superior K-means Hashing and Scalable Graph Hashing etc. in achieving image ANN retrieval.
+
+Key words: iterative self-organizing data analysis; multiple coding; product space; farthest average distance
+
+# 0 引言
+
+随着互联网技术应用的成熟，图像、视频等数据呈现爆炸式增长，如何在海量数据中快速找到人们感兴趣的图像已成为研究热点。早在20世纪70年代人们就已经提出基于文本的图像检索技术[1,2]，采用人工标注图像的方法检索相似图像，操作简单，检索速度较快。但随着图像规模不断扩大，人工标注图像变得越来越困难。同时，由于文字描述不能确切地表达图像的语义信息，导致某些检索结果不符合用户的需求，如必应、百度和360搜索引擎上搜索关键词“篮球”，结果如图1所示。从图中可以看出，返回图像中除篮球外，还有篮球明星、篮球筐和篮球场地等。为了解决基于文本的图像检索技术的不足，学者们提出了基于树结构的图像检索技术[3]。
+
+基于树结构的图像检索技术[3]以树结构存储图像特征，并为每个叶子节点设定一个阈值。在检索近邻图像时，利用每一层的树型结构，快速剔除大部分数据来提高近邻检索速度。以K-D[4]树为例，其工作方式(图2)因形似大树而得名，通过对查询空间的不断细分，并对细分后的空间进行同时查询，从而达到加快检索速度的目的。但是随着特征维度的增加，基于树型索引结构的检索效率将变低。为解决这一问题，学者们引入了基于哈希的图像检索技术[5]。
+
+基于哈希的图像检索技术[5的基本思想是将高维浮点向量表示成紧凑二进制编码，并根据汉明距离检索近邻点。最早的哈希算法是局部敏感哈希算法(locality sensitive hashing,LSH)[]，其随机生成线性哈希映射函数，并根据数据点与线性哈希函数的映射结果生成二进制编码。LSH算法的哈希函数是随机生成的，对训练数据的依赖性较弱，需要生成相对较长的二进制编码才能产生较好的近邻检索效果。为了保证采用紧凑二进制编码也能得到较优的近邻检索结果，Shen和Weiss 等人[7,8]提出谱哈希算法(spectral hashing,SH)，通过分割谱图来学习数据点的二进制编码。其图形建模的复杂度高，而且要求数据集服从均匀分布，可是实际数据集并不符合这一要求。针对图形建模复杂度高的问题，Jiang等人[9提出了可扩展图哈希算法(scalable graph hashing,SGH)。该算法可以通过特征变换方式有效地逼近整个图，无须再显式计算成对的相似图矩阵。但是在实际应用中，SGH算法在进行特征变换时，参数 $\rho$ 需要通过交叉验证技术来调整。与基于图的哈希算法不同，主成分分析哈希算法(principalcomponentanalysishashing，PCAH)[l0]和随机旋转哈希算法(randomrotating hashing，RR)[1,12]采用超立方体量化和编码浮点数据，但超立方体顶点是固定的，灵活性差，对数据点集的空间分布适应能力弱。K均值哈希算法(K-means hashing,KMH)[5,13,14]通过K-means对数据集聚类，数据间的距离用相对应的聚类中心间的距离近似，达到允许超立方体进行拉伸的效果，具有较好的灵活性，但是K-means算法的初始聚类中心的选择是任意的，聚类效果不稳定，而且聚类中心数在聚类过程中是固定不变的，导致KMH算法的近邻检索性能不佳。
+
+![](images/13464da9c0d318d1ba84ec7a43a106131d4fc4d1e16ce606b092dee875877310.jpg)  
+图1搜索文本“篮球”的检索结果  
+图2K-D树结构 Fig.2 K-D tree structure
+
+为解决上文中提到的几种算法存在的灵活性差、准确率低等问题，本文提出了迭代自组织哈希算法(ISOH)，采用迭代自组织数据分析(iterative self-organizing data analysisISODATA)[15]、最远平均距离方法、多重编码[16]和乘积空间[5,17]等技术，使算法具有高准确率。其算法流程如图3所示。首先，通过乘积空间对训练数据集和测试数据集进行预处理(图3(a))；其次，利用相似性保持方法获得聚类中心Z，并根据聚类中心对训练数据集(预处理后)和测试数据集(预处理后)进行归类操作(图3(b))；然后，建立多重编码机制对其进行编码(图3(c))；最后，计算汉明距离 $h ( X _ { i t } , Y _ { j t } ) { \ t }$ 图3(d)）。
+
+本文算法具有如下创新点：
+
+a）在空间量化方面，ISOH算法使用了迭代自组织数据分析[16算法。与KMH算法相比，ISODATA算法可根据各个类所包含数据点的实际情况，动态地调整聚类中心的数目，以达到较好地编码效果。
+
+b)为解决初始聚类中心的随机性和盲目性的问题，本文使用最远平均距离方法选择初始聚类中心。最远平均距离方法先将全体样本点作为一类，其平均值作为第一个聚类中心点，距离第一个聚类中心点最远样本点为第二个聚类中心点，之后依次对类中样本点数多者进行分裂处理，直到聚类中心数到达给定数目为止。
+
+c）本文建立多重编码[1机制，有效解决了基于哈希的图像检索技术中由固定编码长度导致表示种类有限的问题。
+
+d）为了能以较低的代价得到更长的编码，ISOH算法运用乘积空间[5,17]，通过对原始空间进行平衡划分，再对每个子空间进行相应操作来降低算法的时间复杂度。
+
+![](images/f3c9a0b2c76550d5f35f3ff18c737b24bfff1a8b75b5f830982cba0cf70ce9c9.jpg)  
+Fig.1Retrieval results of search text "basketball"   
+图3ISOH算法总体框架  
+Fig.3Overall framework of ISOHalgorithm
+
+# 1 相似性保持算法
+
+# 1.1相似性保持 ISODATA 算法
+
+KMH[14]算法中的聚类中心是随机生成的，导致近邻检索性能不稳定。除此之外，KMH算法的聚类中心数是定值，在没有先验条件的情况下，由预先给定值得到的聚类效果并不理想。ISODATA 算法[15]根据实际情况动态调整聚类中心数，解决了KMH算法聚类中心不可调的问题，但存在初始聚类中心选择盲目性和无法准确设定阈值的问题。为此，本文进行如下改进。
+
+# 1.1.1聚类中心初始化
+
+现多数算法常采用最大化原则生成初始聚类中心点[18],但所生成的聚类结果受第一个初始聚类中心点和比例系数 $\theta$ 的影响，并且时间复杂度高，需要通过计算全体样本点与已确定聚类中心点之间的距离来确定新聚类中心点。
+
+为了解决上述问题，本文提出了一种新的初始聚类中心方法，称为最远平均距离法，包含三步：a)将全体样本点的平均值作为第一个聚类中心点，以解决随机性问题；b)选取与第一个聚类中心点之间的距离最远的样本点作为下一个聚类中心点，并依据最近邻原则将样本点划分为两类；c依次划分样本点数目较多的类，直到满足阈值。伪代码如算法1所示。
+
+# 1.1.2分裂与合并的阈值
+
+ISODATA算法[15]通过人机交互修改分裂与合并的阈值，费时费力。针对以上问题，本文对ISODATA算法的阈值进行相应改进。
+
+算法1初始化聚类中心输入：数据集 $X { = } \{ x _ { 1 } , x _ { 2 } , { \ldots } , x _ { n } \}$ 。
+
+输出：初始聚类中心 $\scriptstyle { Z = \left\{ z _ { 1 } , z _ { 2 } , \ldots , z _ { K } \right\} }$ 。
+
+1 初始化 $\mathsf { c o u n t = \{ c o u n t [ \dot { \imath } ] \mid \dot { \imath } = 1 , 2 , \ldots , K \} , K ^ { \prime } \backslash }$
+
+2 设定中心点为第一个聚类中心 $z _ { 1 }$ ，样本点数目为count $[ 1 ] = n$
+
+3重复
+
+3.1 找出count中的最大值，并将最大值的索引存入max;
+
+3.2在 $Z _ { m a x }$ 所在类中，选取距离聚类中心 $Z _ { m a x }$ 最远的样本点作为第$\scriptstyle { K ^ { \prime } + 1 }$ 个聚类中心点；
+
+3.3利用最近邻原则进行归类，更新聚类中心点；
+
+3.4统计每类样本点数目count;
+
+3.5直到 $K ^ { \prime } { = } K$ 为止；
+
+分裂阈值：不同维度上的标准差反映了样本在特征空间不同方向上与聚类中心的位置偏差。如果某个类中样本分散程度较大且样本数量较多，则对其进行分裂操作。若每类分量中标准差的最大值为 $\sigma _ { j m a x , j = 1 , 2 , . . . , N _ { c } }$ ，则令 $s$ 为全体 $\sigma _ { j a m x }$ 的平均值，分裂阈值 $\theta _ { s }$ 为
+
+$$
+\theta _ { s } = \alpha \times S , \alpha > 1
+$$
+
+合并阈值：对数据集进行类别划分时，应保证最小化类内距离，最大化类间距离[19]。在类别间最短距离的设定问题上，本文引入了最小生成树[20]，其权重值由各个聚类中心间的距离值表示。假定权重和为 $S _ { w }$ ，则合并阈值为
+
+$$
+\theta _ { c } = \beta \frac { S _ { w } } { N _ { c } - 1 }
+$$
+
+其中： $0 < \beta { < } 1$ ； $N _ { c }$ 是聚类中心数。
+
+# 1.2相似性保持目标函数
+
+ISODATA算法在空间量化时会产生量化误差，且采用汉明距离近似代替欧式距离会产生相似性误差。为减小算法误差，若通过罗列所有可能为单元空间分配最优的索引，其时间复杂度高。例如，当编码长度为 $b$ 时，则分配方式有 $( 2 ^ { b } ! )$ 种可能。为此，本文交替优化式(3)中的目标函数，同时最小化量化误差和相似性误差。
+
+$$
+E = E _ { q u a n } + \lambda E _ { a f f }
+$$
+
+其中： $E _ { q u a n }$ 表示量化误差，其定义如式(4)所示。其中： $i ( x )$ 表示包含样本点 $x$ 的码字索引； $c _ { i ( x ) }$ 表示索引为 $i ( x )$ 的码字；$T$ 是样本点数为 $n$ 的训练数据集。
+
+$$
+E _ { \boldsymbol { q u a n } } = \frac { 1 } { n } \sum _ { \boldsymbol { x } \in T } \left. \boldsymbol { x } - \boldsymbol { c } _ { \boldsymbol { i } ( \boldsymbol { x } ) } \right. ^ { 2 }
+$$
+
+相似性误差是使各个码字分配到的索引可以更近似地表示各码字之间的欧氏距离。相似性误差的公式为
+
+$$
+E _ { a f f } = \sum _ { i = 0 } ^ { k - 1 } \sum _ { j = 0 } ^ { k - 1 } w _ { i j } ( d ( c _ { i } , c _ { j } ) - d _ { h } ( i , j ) ) ^ { 2 }
+$$
+
+其中： $w _ { i j } { = } n _ { i } n _ { j } / n ^ { 2 } ; n$ $n _ { i }$ 和 $n _ { j }$ 分别表示索引为 $i$ 和 $j$ 的样本点数;$d ( c _ { i } \ , \ c _ { j } )$ 表示码字 $c _ { i }$ 与 $c _ { j }$ 之间的欧氏距离： $d ( c _ { i } \ , \ c _ { j } )$ 表示码字$c _ { i }$ 与 $c _ { j }$ 之间的欧氏距离； $\boldsymbol { d } _ { \boldsymbol { h } } ( { \boldsymbol { i } } , { \boldsymbol { j } } )$ 表示索引 $i$ 与 $j$ 之间的汉明距离。
+
+综上，本文迭代优化目标函数(3)的过程如下：
+
+a）分配步骤，固定码字优化索引。
+
+将每个样本点分配到距离它最近的码字上。
+
+b)更新步骤，固定索引优化码字。
+
+任何码字的更新取决于所有其他的码字。所以本文顺序优化每个码字 $c _ { j }$ ，其他码字固定。
+
+$$
+\begin{array} { r } { c _ { j } = \arg \operatorname* { m i n } _ { \boldsymbol { c } _ { j } } ( \frac { 1 } { n } \displaystyle \sum _ { \boldsymbol { x } ; i ( \boldsymbol { x } ) = j } \left\| \boldsymbol { x } - \boldsymbol { c } _ { j } \right\| ^ { 2 } } \\ { + 2 \lambda \displaystyle \sum _ { i ; i \neq j } w _ { i j } ( d ( \boldsymbol { c } i , \boldsymbol { c } j ) - d _ { h } ( i , j ) ) ^ { 2 } ) } \end{array}
+$$
+
+其中： $\lambda$ 为常量(在本文中 $\lambda { = } 1 0 ^ { \circ }$ ； $d _ { h } ( i , j ) \triangleq \nu \cdot h ^ { 1 / 2 } ( i , j )$ 表示修正后的索引间汉明距离； $h ^ { 1 / 2 }$ 是汉明距离的平方根； $\nu$ 是常量，在算法中由主成分哈希算法初始化。
+
+综上，相似性保持算法的基本流程如图4所示。
+
+# 2 编码
+
+# 2.1多重编码
+
+由于ISODATA算法得到的聚类数目可能会大于给定的聚类数量，而固定长度的二进制编码所能表示二值编码的种类数量是有限的。当编码长度为 $b$ 时，其编码种类只能表示$K { = } 2 ^ { b }$ 种。若最终聚类中心数目 $K$ 大于给定值 $K$ ，则会超出编码范围。
+
+![](images/61a92150befe1188028e191b6d012fc4fe2b156c04dd1b4ea1b9aee561dfd4e2.jpg)  
+图4相似性保持方法流程  
+Fig.4Flow chart of similarity preservation method
+
+若样本点被分成了五个簇，长度为2的编码只能表示4个聚类中心点。为解决上述问题，本文先将聚类中心点分成$\scriptstyle 1 = 2 6$ 类，然后再对其进行编码，如图5所示。从图5中可以看出，聚类中心点经过聚类后， $c 4$ 和c5归为一类，映射为相同二值码。这种编码方式可避免聚类中心数超出编码范围，但失去了ISODATA算法的聚类优点，而且检索性能较低，复杂度较高。为解决以上问题，本文引入了多重编码[16]，其基本思想是为数据点分配多组二进制编码，并根据平均汉明距离(式(7))检索近邻点。若二进制编码长度为 $b$ ，二重编码能表示的数量为 $2 ^ { 2 b }$ ， $L$ 重编码能表示的数量就是 $2 ^ { L b }$ 。
+
+$$
+d ( X _ { i } , Y _ { j } ) = \sum _ { l = 1 } ^ { L } d _ { h } ( X _ { i } ( l ) , Y _ { j } ( l ) ) / \mathbf { L }
+$$
+
+其中： $X _ { i }$ 表示训练数据集的第 $i$ 个样本点； $Y _ { j }$ 表示测试数据集的第 $j$ 个样本点； $X _ { i } ( l )$ 表示 $X _ { i }$ 的第 $l$ 组编码； $d _ { h } ( X _ { i } ( l ) , Y _ { j } ( l ) )$ 表示 $X _ { i } ( l )$ 与 $Y _ { j } ( l )$ 之间的汉明距离； $L$ 表示为 $L$ 重编码。
+
+如图6所示，本文采用二重哈希映射函数对数据集进行编码，为样本点分配两组二进制编码，数据点 $( c 4 , c 1 )$ 和 $( c 4 , c 5 )$ 之间的平均汉明距离均为0.5，则在汉明空间内检索 $c 4$ 的近邻点时，会同时返回 $^ { c 1 }$ 和 $^ { c 5 }$ 。
+
+![](images/aec4a87b77fb5f33a553b326091194ec6a423455c68a9af6bb41da8b6f92f980.jpg)  
+图5基于k-means 聚类的编码示例
+
+![](images/1fc55abb15bbfb0db49566c238d3e0a2b0aa96c935b158cf10e1d91bcfc0006e.jpg)  
+Fig.5Coding example based on K-means clustering
+
+# 2.2推广到乘积空间
+
+当编码长度 $b$ 很大时，需要计算和存储 $2 ^ { b }$ 大小的码书，而ISODATA算法很难给出太大的码书。为了解决这一问题，在本文中通过将 $D$ 维空间划分为 $M$ 个子空间，再对每个子空间进行相应操作。在划分子空间时，期望划分后的子空间是相互独立的，且每个子空间的方差是均衡的。
+
+在本文中使用主成分分析算法[2I]，求前 $D$ 个最大主成分元素，将所有的主成分元素按递减的方式排序，再按从大到小的方式先将 $M$ 个主成分元素分别分配到 $M$ 个桶内，之后依次向特征值总和最小的桶内分配主成分元素，每个桶内最多存放 $D / M$ 个主成分元素，直到所有元素分配完为止。采用上述方式可以将 $D$ 维空间均衡地划分为 $M$ 个子空间。这样ISOH算法在编码长度很大的情况下，仍然可以产生很大的码书。
+
+# 3 实验
+
+# 3.1 数据集
+
+在本文中，使用的三种公开数据集分别是SIFT1M[22]、GIST[22]和CIFAR10[23]。SIFT1M数据集包含 $1 0 ^ { 6 }$ 个128维的训练数据点和 $1 0 ^ { 4 }$ 个查询数据点。在实验中从 $1 0 ^ { 6 }$ 个128维的特征点中随机选取 $1 0 ^ { 4 }$ 个数据点做训练数据集，查询数据集是从 $1 0 ^ { 4 }$ 个查询数据集中随机选取 $1 0 ^ { 3 }$ 个。GIST数据集包含 $5 \times 1 0 ^ { 5 }$ 个训练数据集， $1 0 ^ { 3 }$ 个查询数据集，在实验中从 $5 \times$ $1 0 ^ { 5 }$ 个训练数据集中随机选取了 $1 0 ^ { 4 }$ 个数据点做训练数据集。CIFAR10数据库中的数据点是GIST特征，它是从CIFAR10数据库图像中提取出来的，总共有 $6 \times 1 0 ^ { 4 }$ 个数据点，随机选取 $1 0 ^ { 3 }$ 个数据点做测试数据集， $1 0 ^ { 4 }$ 个数据点做训练数据集。
+
+# 3.2评价指标
+
+本文中使用较为广泛的评价标准：召回率(recall)[24]和平均均匀准确率(mean average precision,mAP)[23]。召回率(recall)表示在已经返回的检索结果中，真正近邻数据点索占的比例，其公式为
+
+$$
+\mathrm { R e c a l l } = \frac { \# ( r e t r i e \nu e d r e l e \nu a n t p o i n t s ) } { \# ( a l l r e l e \nu a n t p o i n t s ) }
+$$
+
+其中：#(retrievedrelevantpoints)表示返回结果中真正近邻数据点的数量；#(allrelevantpoints)表示数据集中所有近邻数据点的数量。
+
+平均均匀准确率 $( m A P )$ 的值反映的是算法返回近邻数据点的速率，其值越大，表示算法返回真正近邻点的速率越快。$m A P$ 值的公式如式（9）所示。
+
+$$
+m A P = \frac { 1 } { | Q | } \sum _ { i = 1 } ^ { Q } \frac { 1 } { K _ { i } } \frac { j } { r a n k ( j ) }
+$$
+
+其中： $| { \cal Q } |$ 表示查询数据集的大小； $K _ { i }$ 表示第 $i$ 个查询数据点的真正近邻点的数量 $; j$ 表示查询数据点的第 $j$ 近邻点;rank(j)返回查询数据点的第 $j$ 近邻点在查询结果中的序号。
+
+# 3.3 结果与讨论
+
+将ISOH算法和现有的一些算法进行比较，所有与ISOH算法进行比较的算法的代码都是使用公开默认设置。实验中使用的三种公开数据集分别是SIFT1M、GIST和CIFAR10，选择的测试真值是近邻欧氏距离 $( N N { = } 1 0 )$ ，测试的编码长度分别是 $B { = } 3 2$ 、64和128位。实验结果如图7\~9所示。
+
+![](images/708521bdc9db9e1aa86e5999dbc9a4afab53803f48afb17aa27a3442e421cbb7.jpg)  
+Fig.6Coding examples based on multiple hash functions   
+图7七种哈希方法对GIST数据集分别进行32、64和128位编码的近邻检索性能对比结果
+
+![](images/f31e1d82fe95a91356a22b6ba6e98463f3d4e1eac5bf07af7d5a5feb782a11c6.jpg)  
+图6基于多重哈希函数的编码示例  
+7ANN search performance of seven hashing methods on GISTdataset encoded using 32,64,and128 bit code   
+图87种哈希方法对CIFAR10数据集分别进行32、64和128位编码的近邻检索性能对比结果8ANN search performance of seven hashing methods on CIFARl0 dataset encoded using 32,64,and 128 bit c
+
+![](images/9cfe5ac3e64f1f1487a259c96d6c178625f58467dbccb17fb3b220e6fba3f3e4.jpg)  
+图97种哈希方法对 SIFT1M数据集分别进行32、64和128位编码的近邻检索性能对比结果  
+ANN search performance of seven hashing methods on SIFT1M dataset encoded using32,64,and 128 bit codes
+
+从以上实验结果可知，ISOH算法的检索性能一直处于最优状态。在SIFT数据集上，KMH算法虽然检索性能表现较优，但是从图7\~9的实验结果中可以看出，ISOH算法不仅在SIFT数据集上的性能一直处于KMH算法之上，而且在其他两种公开数据集上其性能也明显高于KMH算法；RR算法在SIFT数据集上，编码长度为128bit时，其检索性能良好，但是在其他状态下一直处于较低状态；PCAH算法在编码长度较小的情况下，其检索性能相对较好，然而当编码长度变大，其检索性能不佳。SH算法在三种数据集上的检索性能处于中上状态，却始终没有超过ISOH算法。在CIFAR10数据集上，尽管SGH算法检索性能较优，但是与ISOH算法相比，其检索性能较弱。LSH算法在图9(c)中的检索性能较好，可是在其他情况下检索性能较差。
+
+[able1Map values of each algorithm on GIST datasets $\%$   
+
+<html><body><table><tr><td>bit</td><td colspan="2">32</td><td colspan="2">64</td><td colspan="2">128</td></tr><tr><td>NN</td><td>10</td><td>100</td><td>10</td><td>100</td><td>10</td><td>100</td></tr><tr><td>ISOH</td><td>1.78</td><td>10.40</td><td>2.37</td><td>12.09</td><td>3.54</td><td>15.11</td></tr><tr><td>KMH</td><td>1.21</td><td>8.26</td><td>2.55</td><td>10.53</td><td>2.76</td><td>11.94</td></tr><tr><td>RR</td><td>0.99</td><td>4.97</td><td>1.70</td><td>9.36</td><td>3.15</td><td>14.66</td></tr><tr><td>PCAH</td><td>1.24</td><td>6.63</td><td>1.56</td><td>7.34</td><td>1.81</td><td>7.25</td></tr><tr><td>LSH</td><td>0.39</td><td>2.20</td><td>0.69</td><td>3.60</td><td>1.82</td><td>8.95</td></tr><tr><td>SGH</td><td>1.39</td><td>7.95</td><td>2.05</td><td>11.34</td><td>3.19</td><td>12.99</td></tr><tr><td>SH</td><td>1.26</td><td>6.65</td><td>2.05</td><td>11.50</td><td>3.22</td><td>14.96</td></tr></table></body></html>
+
+表2各种算法在CIFAR10数据库上的mAP值 $/ \%$
+
+表1各种算法在GIST数据库上的mAP值 $\%$   
+
+<html><body><table><tr><td>bit</td><td colspan="2">32</td><td colspan="2">64</td><td colspan="2">128</td></tr><tr><td>NN</td><td>10</td><td>100</td><td>10</td><td>100</td><td>10</td><td>100</td></tr><tr><td>ISOH</td><td>8.54</td><td>40.73</td><td>13.43</td><td>49.42</td><td>16.64</td><td>49.41</td></tr><tr><td>KMH</td><td>5.20</td><td>30.73</td><td>9.64</td><td>39.06</td><td>12.86</td><td>46.05</td></tr><tr><td>RR</td><td>1.74</td><td>12.74</td><td>3.76</td><td>22.75</td><td>5.87</td><td>29.25</td></tr><tr><td>PCAH</td><td>3.66</td><td>17.75</td><td>4.08</td><td>18.40</td><td>3.87</td><td>17.15</td></tr><tr><td>LSH</td><td>0.66</td><td>6.73</td><td>2.28</td><td>15.87</td><td>5.13</td><td>27.34</td></tr><tr><td>SGH</td><td>8.17</td><td>37.58</td><td>12.43</td><td>48.67</td><td>16.43</td><td>58.15</td></tr><tr><td>SH</td><td>5.07</td><td>29.89</td><td>6.98</td><td>35.85</td><td>9.40</td><td>41.27</td></tr></table></body></html>
+
+表3各种算法在SIFT1M数据库上的mAP值 $/ \%$
+
+Table 2Map values of each algorithm on CIFAR10 datasets/%   
+Table 3Map values of each algorithmon SIFT1M datasets $\%$   
+
+<html><body><table><tr><td>bits</td><td colspan="2">32</td><td colspan="2">64</td><td colspan="2">128</td></tr><tr><td>NN</td><td>10</td><td>100</td><td>10</td><td>100</td><td>10</td><td>100</td></tr><tr><td>ISOH</td><td>14.99</td><td>60.89</td><td>26.22</td><td>74.51</td><td>33.85</td><td>81.58</td></tr><tr><td>KMH</td><td>14.66</td><td>60.11</td><td>25.56</td><td>74.69</td><td>33.46</td><td>81.28</td></tr><tr><td>RR</td><td>12.12</td><td>53.08</td><td>16.10</td><td>61.24</td><td>26.46</td><td>79.56</td></tr><tr><td>PCAH</td><td>12.28</td><td>52.57</td><td>14.92</td><td>56.27</td><td>13.26</td><td>48.21</td></tr><tr><td>LSH</td><td>6.15</td><td>31.97</td><td>12.14</td><td>52.33</td><td>22.56</td><td>71.08</td></tr><tr><td>SGH</td><td>1.91</td><td>8.84</td><td>6.21</td><td>20.92</td><td>17.80</td><td>52.08</td></tr><tr><td>SH</td><td>13.53</td><td>56.34</td><td>21.80</td><td>69.16</td><td>28.58</td><td>75.86</td></tr></table></body></html>
+
+从以上近邻检索实验结果可知，ISOH算法的近邻检索性能优于其他算法。LSH算法中的哈希映射函数是随机生成其稳定性差，近邻检索性能偏弱。SH算法需要假定数据集服从均匀分布，而本文给出的三种数据库都不是均匀分布，其近邻检索性能较弱。SH算法在构建数据点间的相似图时，其时间复杂度高。为了降低时间复杂度，SGH算法通过特征转换方式构建相似图，但是为得到较好的检索结果，需要通过人机交互方式不断调整参数 $\rho _ { \circ }$ PCAH算法将位于映射函数平面两侧的近邻点映射为不同的二进制编码，其汉明距离相应增加，导致近邻检索性能相对较弱。RR算法通过旋转被特征向量映射后的数据集减小量化误差，可是该算法的旋转矩阵是随机生成的，算法性能稳定性差。KMH算法使用K-means算法进行空间量化，但其预先给定聚类中心数目，适应性差，使得检索性能较弱。
+
+ISOH算法近邻检索方面优于其他算法可从准确率方面得到直观体现。七种哈希算法在三种不同的数据集上的准确率如表1\~3所示。从表中可以看出，ISOH 算法的准确率高于其他算法。与RR 和PCAH 算法相比，ISOH 算法使用了自适应较强地ISODATA算法进行空间量化，允许超立方体进行拉伸，从而使单元空间划分更加细致，算法的准确率显著提高。如表3所示，在SIFT1M数据集中，编码长度 $\scriptstyle B = 1 2 8$ 和近邻检索真值 $N N { = } 1 0 0$ 时，ISOH算法的准确率高达 $8 1 . 5 8 \%$ 相较于PCAH的 $4 8 . 2 1 \%$ ，整整提高了 $3 3 . 3 7 \%$ 的准确率。在比较算法中，虽然SH在三个数据集上的准确率相对较好，但是一直处于中等水平。SGH算法在GIST数据集上的准确率仅次于ISOH算法，但是在SIFT上的准确率较差。经实验结果证实ISOH算法在CIFAR10、GIST、SIFT1M等最常用数据集中，不管是在编码长度为32、64还是128，ISOH算法的准确率相较于KMH、PCH、RR、LSH、SH和SGH算法等都有明显提高。
+
+ISOH在聚类中心初始化的问题上，使用最远平均距离方法，避免了初始聚类中心选择上的随机性和盲目性。在现有哈希算法[6,8,10,11,14]中，由于固定编码长度表示种类有限，导致检索精度下降，本文引入了检索精度较高的多重编码。ISOH 算法在不指定数据集的情况下，检索性能也能表现良好。通过各项实验数据的对比，可以清晰地发现ISOH算法在各方面具有明显优势。
+
+# 4 结束语
+
+与KMH算法相比，ISOH算法使用最远平均算法初始化聚类中心，保证了聚类中心选择的可靠性。ISOH算法可根据样本点的实际情况动态地设定阈值，无须再试探性地修改阈值，降低了算法的训练复杂度。较使用固定编码长度的编码方式，多重编码表示的种类更多，而且算法检索准确率更高。乘积空间的使用，使算法能以较低代价学习更长的编码。经实验证实，ISOH 算法的近邻检索性能优于 KMH、RR、PCAH、LSH、SH和SGH算法。
+
+# 参考文献：
+
+[1]Chen Tianlang,Xu Chenliang,Luo Jiebo.Improving text-based person search by spatial matching and adaptive threshold [C]// Proc of IEEE Winter Conference on Applications of Computer Vision．2018: 1879-1887.   
+[2]Li Wen,Duan Lixin,Xu Dong,et al. Text-based image retrieval using progressive multi-instance learning [C]// Proc of IEEE International Conference on Computer Vision.2011: 2049-2055.   
+[3] Chen Shizhi,Yang Xiaodong,Tian Yingli.Discriminative hierarchical K-means tree for large-scale image classification [J]. IEEE Trans on Neural Networks & Learning Systems,2017,26 (9): 2200-2205.   
+[4]Silpaanan C,Hartley R.Optimised KD-trees for fast image descriptor matching[C]//Proc of IEEE Conference on Computer Vision & Pattern Recognition. 2008:1-8.   
+[5]Wang Jun,Liu Wei,Kumar S,et al.Learning to hash for indexing big data:a survey [J].Proceedings of the IEEE 2015,104(1): 34-57.   
+[6]Datar M,Immorlica N,Indyk P,et al.Locality-sensitive hashing scheme based on p-stable distributions [C]// Proc of the 20th Symposium on Computational Geometry.2004: 253-262.   
+[7]Shen Fumin,Zhou Xiang,Yang Yang,et al.A fast optimization method for general binary code learning [J]. IEEE Trans on Image Processing, 2016,25 (12):5610-5621.   
+[8]Weiss Y,Torralba A，Fergus R.Spectral hashing [C]// Proc of International Conference on Neural Information Processing Systems. 2008: 1753-1760.   
+[9]Jiang Qingyuan，Li Wujun. Scalable graph hashing with feature transformation [C]// Proc of International Conference on Artificial Intelligence.2015: 2248-2254.   
+[10] Gong Yunchao,Lazebnik S. Iterative quantization:a procrustean approach to learning binary codes [C]// Proc of Computer Vision & Pattern Recognition.2011: 817-824.   
+[11] Gong Yunchao,Lazebnik S,Gordo A,et al. Iterative quantization: a procrustean approach to learning binary codes for large-scale image retrieval[J]. IEEE Trans on Pattern Analysis and Machine Intelligence, 2013,35 (12): 2916-2929.   
+[12] Jegou H, Douze M, Schmid C,et al.Aggregating local descriptors into a compact image representation [J].Proc CVPR，2010,238(6): 3304-3311.   
+[13] Irie G,Arai H,Taniguchi Y.Alternating co-quantization for cross-modal hashing [C]// Proc of IEEE International Conference on Computer Vision. 2016: 1886-1894.   
+[14] HeKaiming,Wen Fang， Sun Jian．K-meanshashing:an affinity-preserving quantization method for learning binary compact codes [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.2013:2938-2945.   
+[15] Ball G H,Hall D J.A novel method of data analysis and classification [M]//Data Analysis Machine Learning & Knowledge Discovery.2003.   
+[16] Xia Yan,He Kaiming,Wen Fang,et al.Joint inverted indexing [C]// Proc of IEEE International Conference on Computer Vision.2013: 3416-3423.   
+[17] Jegou H,Douze M,Schmid C.Product quantization for nearest neighbor search [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2010,33 (1): 117-128.   
+[18] Gu Hongbo,Zhao WanPing.Cluestering algorithm based on max-min distance for students'score analysis in universities and applications [J]. Journal of Hebei University of Engineering,2010.   
+[19] He Yan,Ye Qiaolin,Liu Yingan,et al. The gepsvm classifier based on Ll-norm distance metric [M].2016.   
+[20] Jiang Bo, Zhang Li.Research on minimum spanning tree based on prim algorithm [J].Computer Engineering & Design，2009，30(13): 3244-3247.   
+[21] Gupta A,Barbu A.Parameterized principal component analysis [J]. Pattern Recognition,2018,78 (6): 215-227.   
+[22] Jegou H,Douze M,Schmid C.Product quantization for nearest neighbor search.[J].IEEE Trans on Pattern Analysis & Machine Intelligence,2011,33 (1): 117.   
+[23] Torralba A,Fergus R,Freeman W T.80 Million tiny images: a large data set for nonparametric object and scene recognition [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2008,30(11):1958-1970.   
+[24] Fu Xiping，Mccane B,Mils S,et al. Nokmeans:non-orthogonal k-means hashing [C]// Proc of Asian Conference on Computer Vision. 2014: 162-177.

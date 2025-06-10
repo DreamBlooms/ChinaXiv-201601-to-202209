@@ -1,0 +1,405 @@
+[
+    {
+        "type": "text",
+        "text": "基于UHD185成像光谱仪的冬小麦叶绿素监测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王伟东，常庆瑞，王玉娜(西北农林科技大学资源环境学院，陕西 杨凌712100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以关中地区冬小麦为研究对象,无人机为平台搭载的UHD185成像光谱仪获得冬小麦农田高光谱影像，并从中提取波段信息,以传统光谱指数和新光谱指数为自变量构建预测模型，比较模型精度并制作冬小麦叶片叶绿素含量分布图。结果表明：各预测模型中以新光谱指数构建的预测模型精度明显高于传统光谱指数模型,其中，SPAD-NDSI模型精度最高（ $R ^ { 2 } { = } 0 . 6 3 0 8$ ,RMSE $_ { : = 1 . 9 7 6 6 }$ );通过反演叶片叶绿素分布图并对填图结果进行检验可知，SPAD-NDSI模型填图效果最佳( $R ^ { 2 } { = } 0 . 7 0 1 3$ ,RMSE $: = 1 . 4 5 4 8$ ),可以作为冬小麦叶片叶绿素含量无人机高光谱影像遥感反演估算的基本模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：UHD185；高光谱影像；冬小麦；叶绿素；光谱指数；预测模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物体内包含多种色素，其中最主要的3大色素为叶绿素、类胡萝卜素和花青素，它们广泛存在于植物的茎、叶、花和果实中，并且随着生存环境的变化使植物体表现出不同的颜色[1]。植物体内的叶绿素是进行光合作用吸收和传递光能的主要物质，其含量与植物的光合能力、发育阶段有较好的相关性[2],是表征作物生长监测、病虫害胁迫、以及营养状况的重要指标[3]。目前,对叶片叶绿素的检测方法主要分为两种：一是传统方法测量，主要有高效液相色谱法[4]、分光光度计法[5]、微波法[6]]等，这些方法应用广泛，适用性强，但是提取叶绿素过程复杂繁琐,普遍具有破坏性[7],容易导致叶绿素含量损失[8-9]。二是基于叶片叶绿素对光的吸收和透射原理开发的手持便携式叶绿素计，如SPAD-502叶绿素计,它能快速、非破坏性地测定叶绿素水平[10],但仪器必须接触测定，工作量较大，费时费力，而且无法达到实时动态监测的目的，难以满足目前人们对于大区域病害监测的需求\",因此，需要一种精确且高效的方法来预测叶绿素含量[12]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，利用高光谱遥感技术反演预测植被理化指数的方法取得重大进步[13-15]。高光谱波段具有多而窄的特点[16],在农业生产应用和植物生理研究方面有着巨大的发展潜力[17]。已有学者表明，通过现有传统光谱指数构建的预测模型，可以有效地对一种或多种植物叶片叶绿素含量进行反演[18-19],但是当作物种类发生变化时，传统光谱指数并不一定适用，可能需要进一步修正[20],因此寻找新光谱指数具有必要性。冬小麦作为我国重要的粮食作物之一[21],其研究尤为重要。因此,本文以关中地区的冬小麦为研究对象，通过无人机搭载CubertUHD185成像光谱仪获取光谱数据，利用SPAD-502型手持式叶绿素仪获取叶绿素相对含量数据，将传统光谱指数和Matlab软件计算得到的新光谱指数与叶绿素含量进行相关分析，构建预测模型，比较模型之间的精度并制作冬小麦叶片叶绿素含量分布图，确定冬小麦叶片叶绿素相对含量的最优预测模型，为冬小麦农田信息快速获取与生长状况监测提供科学依据和有效手段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1试验设计与样点选择",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "试验地设置在陕西省咸阳市乾县梁山镇齐南村 $\\langle 1 0 8 ^ { \\circ } 0 7 ^ { \\prime } \\mathrm { E } , 3 4 ^ { \\circ } 3 8 ^ { \\prime } \\mathrm { N } \\rangle$ ,该地位于关中平原中段、渭北高原南缘，属温带大陆性季风气候,年平均气温",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$1 3 . 1 ^ { \\circ } \\mathrm { C }$ ,年平均降水量 $5 7 3 \\sim 5 9 2 \\mathrm { m m }$ ,农业种植一般一年一熟。试验共设36个小区，小区面积为 $9 \\mathrm { m } \\times$ $1 0 \\ \\mathrm { m } { = } 9 0 \\ \\mathrm { m } ^ { 2 }$ ，试验供试品种为小偃22。试验于冬小麦抽穗期(2017年4月14日)进行，每个小区选取2个样点，并记录样点坐标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2叶绿素相对含量测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叶绿素的测定采用SPAD-502型手持式叶绿素仪，该仪器能够保证对植物叶片叶绿素无损精准测量，可以为农业生产提供重要的信息[22]。测定时，在样点附近挑选长势相同的小麦10株，选择沿主茎自上而下的第1片叶片，从叶柄至叶尖分段测量6次，求平均值后为该叶片的叶绿素相对含量，再将10片叶子平均得到该样点叶片的叶绿素相对含量（用SPAD表示）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3高光谱影像获取与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用八旋翼无人机搭载CubertUHD185成像光谱仪(简称UHD)获取遥感影像数据，该光谱仪可在$0 . 1 ~ \\mathrm { m s }$ 内获得 $4 5 0 \\sim 9 5 0 \\ \\mathrm { n m }$ 波长范围内，采样间隔为$4 \\mathrm { n m }$ 的126个波段的高光谱影像。无人机拍摄时间与地面试验数据采集同时进行，于11:00—12:00 晴朗无风、视野良好的环境中飞行，设置飞行高度为$1 0 0 \\mathrm { ~ m ~ }$ ,镜头垂直朝下，航向重叠度 $80 \\%$ ，旁向重叠度 $60 \\%$ ，获取的高光谱影像地面分辨率为 $0 . 3 \\mathrm { ~ m ~ }$ ，每幅影像幅宽约 $1 6 \\mathrm { m }$ 。UHD185相机1次拍摄可获得1组空间分辨率为1000像元 $\\mathrm { \\times 1 0 0 0 }$ 像元的全色灰度图像和1组空间分辨率50像元 $\\times 5 0$ 像元高光谱影像，影像处理流程如图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最后，在ENVI5.3软件中识别出小麦地块，根据地面测量对应的样点位置坐标构建半径为 $0 . 3 \\mathrm { ~ m ~ }$ 的兴趣区(regionof interest,ROI）,以ROI范围内地物的平均反射率光谱值作为该样点冬小麦叶片反射率光谱，得到各样点的光谱反射率数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4光谱指数选择 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "光谱指数主要从两个方面选取，一是从传统的多种可用于叶绿素含量测定的高光谱指数中选取了基于光谱面积和基于光谱位置的11类指数[23（表1)；二是利用高光谱数据波段多而窄的特点，通过Matlab软件计算 $4 5 0 \\sim 9 5 0 ~ \\mathrm { n m }$ 波段范围内任意2波段组合的3类新光谱指数[24-26],并计算3类新光谱指数与叶绿素含量的相关系数 $( r )$ ，再利用Matlab制作3类光谱指数的相关性等势图，根据 $r$ 最大原则，选取波段组合的新光谱指数进行叶绿素相对含量研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5预测模型建立与优化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以抽穗期为例，将采集的72个样本数据按叶绿素值进行排序，采用分层抽样的方法抽取48个样本作为建模集，12个样本作为验证集1，另外12个样本作为验证集2。将建模集SPAD值与选取的各类光谱指数进行相关性分析，以相关性达到显著水平的指数分别作为自变量构建叶绿素相对含量的预测模型。采用决定系数 $\\left( R ^ { 2 } \\right)$ 和均方根误差(RMSE)等指标来评价不同模型的拟合和预测能力， $R ^ { 2 }$ 越接近1，RMSE越小，表示模型拟合能力和预测能力越好[27]。最后，选取较优预测模型在ENVI中进行高光谱影像反演填图，得到研究区SPAD分布图，使用验证集2对填图精度进行检验",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6438152d5a709e27766013b5d0c03dbf4bc46efeedead7675d56c6d9f9246cd.jpg",
+        "img_caption": [
+            "图1高光谱影像的处理流程",
+            "Fig.1Process flow of hyperspectral imageries "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1用于叶绿素反演的高光谱指数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/59b41d52ff800d2eb7af8d4d5410132e9594d7090cd2d0952575fcda138bd0a0.jpg",
+        "table_caption": [
+            "Tab.1 Hyperspectral index for SPAD inversion "
+        ],
+        "table_footnote": [
+            "注：R和R表示任意2个波段的反射率;i和j表示任意波段位置。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>光谱特征指数</td><td>计算公式或定义</td></tr><tr><td rowspan=\"5\">基于光谱面积</td><td>蓝边面积(Sblue)</td><td>490～530nm波长范围内一阶微分的总和</td></tr><tr><td>黄边面积(Syellaw）)</td><td>562～642nm波长范围内一阶微分的总和</td></tr><tr><td>红边面积(Sred)</td><td>682~762nm波长范围内一阶微分的总和</td></tr><tr><td>蓝边内最大一阶微分值(Db)</td><td>波长490～530nm内一阶微分光谱最大值</td></tr><tr><td>蓝边位置(入blue)</td><td>Db对应的波长位置</td></tr><tr><td rowspan=\"6\">基于光谱位置</td><td>黄边内最大一阶微分值(Dy)</td><td>波长562~642nm内一阶微分光谱最大值</td></tr><tr><td>黄边位置(λyellow)</td><td>562～642nm一阶微分的最大值对应的波长位置</td></tr><tr><td>红边内最大一阶微分值(D.)</td><td>波长682～762nm内一阶微分光谱最大值</td></tr><tr><td>红边位置(λred)</td><td>682～762nm一阶微分的最大值对应的波长位置</td></tr><tr><td>绿峰反射率最大值(Rg)</td><td></td></tr><tr><td>红谷反射率最小值(R)</td><td>波长510～562nm范围光谱反射率最大值 波长650~690nm范围光谱反射率最小值</td></tr><tr><td rowspan=\"3\">新光谱指数</td><td>差值指数(DSI)</td><td>R-Rj</td></tr><tr><td>比值指数(RSI)</td><td>R/Rj</td></tr><tr><td>归一化指数(NDSI)</td><td>(R-Rj)/(R+R)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1冬小麦叶片叶绿素含量及其高光谱特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2是对抽穗期冬小麦叶片叶绿素含量统计，共72组样本数据，从表中可以看出，抽穗期冬小麦叶片叶绿素相对含量最大值为60.07，最小值为43.00,平均值为53.57。从图2a中可以看出，不同叶绿素含量叶片反射率变化趋势相似。在可见光范围，叶片反射率在 $5 5 0 \\ \\mathrm { n m }$ 处形成反射峰，反射率在0.05左右，在 $6 7 0 \\mathrm { n m }$ 波段附近出现吸收谷；在 $5 5 0 \\sim$ $6 8 0 ~ \\mathrm { n m }$ 波段范围内，随着叶绿素含量的增加，反射率降低，这是由于随着叶绿素的增加，叶片光合作用加强，对光能的吸收和利用较多，导致光谱反射率不断降低；在 $6 8 0 \\sim 7 5 0 ~ \\mathrm { n m }$ 波段范围反射率急剧增加，在 $8 0 0 \\ \\mathrm { n m }$ 波段附近达到最高，而后开始下降。在一阶导数光谱图2b中，红边波段得到显著增强,红边波段的一阶导数光谱是整个波段范围的最大值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表2冬小麦叶片叶绿素含量统计分析",
+            ""
+        ],
+        "table_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e4873574c89cf1ff3a7fe024294ac9e5ca8657978d26eb94beb13ff066247e1.jpg",
+        "img_caption": [
+            "图2不同SPAD冬小麦叶片原始光谱与一阶导数光谱",
+            "Fig.2 Original spectrum and first derivative spectrum of winter wheat leaves with diferent SPAD "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2冬小麦叶片叶绿素预测模型的构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对建模集样点的SPAD值与传统光谱指数进行相关性分析，结果如表3所示。样本容量为48时，相关系数达到0.2845，即为显著相关，达到0.3683则为极显著相关。相关分析结果表明，SPAD值与 $\\mathrm { \\sf S } _ { \\mathrm { r e d } }$ （红边面积） $\\phantom { + } \\mathrm { . D } _ { \\mathrm { r } }$ (红边一阶微分最大值)的相关性达到了显著相关水平，相关系数为0.3581和0.3558，与 $\\mathrm { S _ { b l u e } }$ (蓝边面积)达到极显著相关水平，相关系数为-0.4076。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用Matlab软件计算 $4 5 0 \\sim 9 5 0 \\ \\mathrm { n m }$ 波段范围内",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3冬小麦叶片叶绿素含量与光谱参数相关性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9444c2b067459cd597c772af29b22e78043e86f0de391cd843848e317a96ab31.jpg",
+        "table_caption": [
+            "Tab.3 Correlation between SPAD and spectral parametersinwinterwheatleaves "
+        ],
+        "table_footnote": [
+            "注：\\*表示在0.05水平上显著相关，\\*\\*表示在0.01水平上显著相关。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td>光谱指数</td><td>相关系数</td></tr><tr><td>Sblue</td><td>-0.4076**</td></tr><tr><td>Syelw</td><td>-0.1025</td></tr><tr><td>Sred</td><td>0.3581*</td></tr><tr><td>Db</td><td>-0.2195</td></tr><tr><td>入blue</td><td>0.1203</td></tr><tr><td>D</td><td>-0.0668</td></tr><tr><td>yellw</td><td>0.0543</td></tr><tr><td>D</td><td>0.3558*</td></tr><tr><td>λred</td><td>0.2464</td></tr><tr><td>R</td><td>-0.2355</td></tr><tr><td>R</td><td>0.0012</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "任意2波段组合的RSI、DSI、NDSI三类新光谱指数，并计算新光谱指数与冬小麦叶片叶绿素含量的相关系数 $( r )$ ，同时制作各新光谱指数的相关性等势图(图3)。从图中可以看出，三类新光谱指数相关系数均有超过0.3683达到极显著相关水平的区域，依据相关系数的大小选取用于构建基于无人机高光谱预测模型的新光谱指数波段组合(表4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过表3和表4可知，相关性达到显著相关水平的分别为Sblue、Sred、Dr、RSI、DSI、NDSI,以6类光谱参数为自变量构建一元预测模型(表5)。从表中可以看出， $R ^ { 2 }$ 最高的是SPAD-NDSI模型，为0.6308，RMSE同样最小，为1.9766,其次为SPAD-DSI和 SPAD-RSI, $R ^ { 2 }$ 分别为0.4664和0.5619，RMSE分别为2.1126和2.1168。由此可见，以新光谱指数为自变量构建的预测模型明显优于传统光谱参数。使用验证集1对各模型精度进行检验，由表5可知,新光谱指数模型的验证集 $R ^ { 2 }$ 高于传统光谱指数模型，RMSE低于传统指数模型，其中SPAD-NDSI为最优模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3冬小麦叶片叶绿素值高光谱影像反演及精度 检验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在ENVI5.3软件中，使用SPAD-RSI模型、SPAD-DSI模型和SPAD-NDSI模型分别对高光谱影像进行反演填图，获得研究区冬小麦叶片叶绿素值分布图(图4)，在分布图中选取未参与建模的验证集2的12个采样点进行叶绿素值统计(表6)。从表",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a)抽穗期-RSI (b)抽穗期-DSI (c)抽穗期-NDSI   \n8 04 950 03 9500 543 3200023 20002233 w/ 8060050 200023   \n500 0.4 500 -0.4 500 0.4   \n450 -0.5 450 450 -0.5 450 550 650 750850 950 450 550 650 750 850 950 450 550650 750 850 950 波长/nm 波长/nm 波长/nm ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e12896c6e23074870ff09371aa1297f2b2ee38b8e1eb654263d803a10c346511.jpg",
+        "table_caption": [
+            "表4对叶绿素敏感的光谱指数入选波段、公式及相关系数",
+            "Tab.4 Spectral index,formula and correlation coefficient for spectral index sensitive to SPAD "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>光谱指数</td><td>表达式</td><td>入选波段R/nm</td><td>入选波段R/nm</td><td>相关系数</td></tr><tr><td>RSI</td><td>R/R2</td><td>950</td><td>562</td><td>0.5153**</td></tr><tr><td>DSI</td><td>R--R2</td><td>494</td><td>562</td><td>0.4775**</td></tr><tr><td>NDSI</td><td>(R-R2)/(Ri+R2)</td><td>538</td><td>946</td><td>0.5277**</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/96a662a692ff3da0a3b0c8f996582b8246ebc87a91d1e9ebf7ab261d88724cc1.jpg",
+        "table_caption": [
+            "Tab.5Estimation model of SPAD in winter wheat leaves based on spectral index "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">预测模型</td><td rowspan=\"2\">回归方程</td><td colspan=\"2\">建模集</td><td colspan=\"2\">验证集1</td></tr><tr><td>R</td><td>RMSE</td><td>R</td><td>RMSE</td></tr><tr><td>SPAD-Sblue</td><td>y=-1000000x²+6630.8x+44.62</td><td>0.4211</td><td>2.5358</td><td>0.2426</td><td>2.6007</td></tr><tr><td>SPAD-Sred</td><td>y=134.39x+42.702</td><td>0.4067</td><td>2.2227</td><td>0.2202</td><td>2.3533</td></tr><tr><td>SPAD-Dr</td><td>y=1397.2x+43.492</td><td>0.4411</td><td>2.1574</td><td>0.2683</td><td>2.4517</td></tr><tr><td>SPAD-DSI</td><td>y=-0.0004x²-0.1554x+39.327</td><td>0.4664</td><td>2.1126</td><td>0.4437</td><td>2.1306</td></tr><tr><td>SPAD-RSI</td><td>y=-1.1945x²+9.7324x+34.731</td><td>0.5619</td><td>2.1168</td><td>0.4834</td><td>1.9635</td></tr><tr><td>SPAD-NDSI</td><td>y=-21.244x+41.207</td><td>0.6308</td><td>1.9766</td><td>0.5691</td><td>1.7664</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd943583b6d493f715bec7e3c3b99be99634047dd2f3b603e379b3d475022b65.jpg",
+        "img_caption": [
+            "图4不同模型冬小麦叶片SPAD反演估测Fig.4Inversion estimation of SPAD in differentwinter wheatleaves"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中可以看出，各预测模型中，SPAD-NDSI模型的预测均值为53.7457，最为接近实测均值，其次是SPAD-RSI模型，预测均值为54.7553，效果最差的是SPAD-DSI模型，预测值整体低于实测值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用验证集2数据对填图结果进行精度检验如图5所示，从图中可以看出，以SPAD-NDSI模型斜率最高，为0.6267,其次是 SPAD-RSI模型和 SPAD-DSI模型，斜率分别为0.4469和0.409;SPAD-NDSI模型的 $R ^ { 2 }$ 最高为0.7013，RMSE最小为1.4548，由此可知，SPAD-NDSI模型能较为准确地反映研究区的叶绿素值，反演填图精度最高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过分析不同叶绿素相对含量的冬小麦叶片高光谱可知，在可见光范围，叶片反射率在 $5 5 0 \\ \\mathrm { n m }$ 附近形成反射峰，反射率在0.05左右，在 $6 7 0 ~ \\mathrm { n m }$ 波段处出现吸收谷；在 $5 5 0 \\sim 6 8 0 \\ \\mathrm { n m }$ 波段范围内，随着叶绿素含量增加，反射率降低,这是由于随着叶绿素的增加，叶片光合作用加强，对光能的吸收和利用较多，可以通过这一特征进行冬小麦健康状况诊断。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文光谱指数的选取将传统光谱指数与新光谱指数相结合，传统光谱指数应用较为广泛，但是构建的模型精度有待提高。本研究利用高光谱遥感波段多而窄的特点，通过Matlab软件计算 $4 5 0 \\sim$ $9 5 0 ~ \\mathrm { n m }$ 波段范围内任意2波段的RSI、DSI和NDSI三类光谱指数与叶绿素含量的相关系数，通过相关性等势图确定新光谱指数。以新光谱指数为自变量构建的预测模型相较于传统光谱指数模型，精度有很大提高，并且较为稳定，可以作为冬小麦叶片叶绿素含量预测的最优模型，为快速、无损检测冬",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d57040374bca8ac80eb05ef858a5f85077c28dc32a298387e96439f869e7b3b4.jpg",
+        "table_caption": [
+            "表5基于光谱指数的冬小麦叶片叶绿素含量预测模型",
+            "表6叶片叶绿素实测值与填图估测值统计 ",
+            "ab.6Statistical characteristics of measured values of leaf SPAD and estimated values of mappin; "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型</td><td>最小值</td><td>最大值</td><td>平均值</td><td>标准差</td></tr><tr><td>SPAD-实测值</td><td>49.8667</td><td>60.0667</td><td>54.1472</td><td>2.5254</td></tr><tr><td>SPAD-DSI</td><td>40.4496</td><td>45.4496</td><td>42.1997</td><td>1.2990</td></tr><tr><td>SPAD-RSI</td><td>51.6071</td><td>57.9493</td><td>54.7553</td><td>1.3950</td></tr><tr><td>SPAD-NDSI</td><td>50.7920</td><td>57.8458</td><td>53.7457</td><td>1.8900</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "58 (a) 46 (b) 58(c) R5 54 36 44 RMSE-20053 552 809 52 41 51 51 40 ■ 50 50 5254 5658 60 50 52 54 5658 60 50 52 54 5658 60 SPAD-实测值 SPAD-实测值 SPAD-实测值 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "小麦生长状况提供技术支持。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前，低空无人机成像光谱技术在农业领域的应用还处于探索阶段，需要大量实验进行验证，本文仅以抽穗期冬小麦数据样本进行研究，样本数量较少，后期研究应通过大量数据进行模型优化，进一步提高模型反演精度和适用性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）不同含量叶绿素的冬小麦叶片反射率变化趋势相似，在 $5 5 0 \\mathrm { n m }$ 波段附近形成反射峰，在 $6 7 0 \\mathrm { n m }$ 波段处出现吸收谷，在 $5 5 0 \\sim 6 8 0 \\mathrm { n m }$ 范围内，随着叶绿素含量增加，反射率降低;在 $6 8 0 \\sim 7 5 0 ~ \\mathrm { n m }$ 波段范围反射率急剧增加，在 ${ 8 0 0 } \\mathrm { n m }$ 波段附近达到最高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）利用新光谱指数构建的预测模型精度明显高于传统光谱指数模型，以SPAD-NDSI模型精度最高， $R ^ { 2 }$ 为0.6308，RMSE为1.9766，其次为SPAD-RSI和SPAD-DSI模型，决定系数分别为0.5619和0.4664;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）分别使用SPAD-NDSI、SPAD-RSI、SPAD-DSI模型对研究区高光谱影像进行反演填图，结果SPAD-NDSI模型的 $R ^ { 2 }$ 最高为0.7013，RMSE最小为1.4548，可以作为最优模型为区域冬小麦叶片叶绿素含量无损快速测量提供技术支持。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Vina A,Gitelson A A.Sensitivity to foliar anthocyanin content of vegetation indices using green reflectance[J]. IEEE Geoscience & Remote Sensing Letters,2011,8(3): 464-468.   \n[2] 梁亮,杨敏华,张连蓬,等.基于SVR算法的小麦冠层叶绿素含 量高光谱反演[J].农业工程学报,2012,28(20):162-171,294. [Liang Liang,Yang Minhua, Zhang Lianpeng,et al.Hyperspectral inversion of chlorophyll content in wheat canopy based on SVR algorithm[J]. Transactions of the Chinese Society of Agricultural Engineering,2012,28 (20): 162-171,294.]   \n[3]Cone K C,Olsen O A.Anthocyanin Synthesis in Maize Aleurone Tissue[M]. Endosperm.Springer Berlin Heidelberg,2007.   \n[4]Romerafernández M,Berrueta L A, Garmónlobato S,et al.Feasibility study of FT-MIR spectroscopy and PLS-R for the fast determination of anthocyanins in wine[J].Talanta, 2012,88(1): 303-310.   \n[5]刘秀英,申健,常庆瑞,等.基于可见/近红外光谱的牡丹叶片花 青素含量预测[J].农业机械学报,2015,46(9):319-324.[Liu Xiuying,Shen Jian, Chang Qingrui,et al.Prediction of anthocyanin content in peony leaves based on visible/near infrared spectroscopy[J].Transactions of the Chinese Society of Agricultural Machinery,2015,46(9): 319-324.]   \n[6]容晨曦,张秀玲,李铁柱,等.响应面试验优化微波法提取刺玫 籽原花青素的工艺[J].食品科学,2016,37(18):41-46.[Rong Chenxi,Zhang Xiuling,Li Tiezhu,et al. Optimization of microwave method for extracting proanthocyanidins from acarina seeds by response surface methodology[J]. Food Science,2016,37(18): 41-46.]   \n[7]王丽爱,马昌,周旭东,等.基于随机森林回归算法的小麦叶片 SPAD值遥感估算[J].农业机械学报,2015,46(1):259-265. [Wang Li'ai,Ma Chang, Zhou Xudong,et al.Estimation of wheat leaf SPAD value using RF algorithmic modeland remote sensing data[J].Transactions of the Chinese Society for Agricultural Machinery,2015,46(1): 259-265.]   \n[8]徐彩平,刘霞,陈宇炜.浮游植物叶绿素a浓度测定方法的比较 研究[J].生态与农村环境学报,2013,29(4):438-442.[Xu Caiping,Liu Xia, Chen Yuwei. Comparison of methods for determination of phytoplankton chlorophyll-a[J]. Journal of Ecology and Rural Environment, 2013,29(4): 438-442.]   \n[9]薛香,吴玉娥.小麦叶片叶绿素含量测定及其与 SPAD值的关 系[J].湖北农业科学,2010,49(11): 2701-2702.[Xue Xiang,Wu Yu'e.Chlorophyll content determination and its relationship with SPAD value in wheat[J]. Hubei Agricultural Sciences,2010,49 (11): 2701-2702.]   \n[10] 李振海,王纪华,贺鹏,等.基于Dualex 氮平衡指数测量仪的作 物叶绿素含量估算模型[J].农业工程学报,2015,31(21):191- 197.[Li Zhenhai,Wang Jihua,He Peng,et al.Modelling of crop chlorophyll content based on Dualex[J]. Transactions of the Chinese Society of Agricultural Engineering,2015,31(21): 191-197.]   \n[11] 田明璐,班松涛,常庆瑞,等.高光谱影像的苹果花叶病叶片花 青素定量反演[J].光谱学与光谱分析,2017,37(10):3187- 3192.[Tian Minglu,Ban Songtao, Chang Qingrui,et al. Quantitative inversion of anthocyanins in apple mosaic disease leaves by hyperspectral imagery[J]. Spectroscopy and Spectral Analysis,2017, 37(10): 3187-3192.]   \n[12] Steele MR, Gitelson AA,Rundquist DC,et al. Nondestructive estimation of anthocyanin content in grapevine leaves[J].American Journal of Enology& Viticulture,2009,60(1): 87-92.   \n[13] 刘京,常庆瑞,刘淼,等.基于SVR算法的苹果叶片叶绿素含量 高光谱反演[J].农业机械学报,2016,47(8):260-265,272.[Liu Jing,Chang Qingrui,Liu Miao,et al.Chlorophyll content inversion with hyperspectral technology for apple leaves based on support vector regression algorithm[J]. Transactions of the Chinese Society for Agricultural Machinery,2016,47(8): 260-265,272.]   \n[14]丁希斌,刘飞,张初,等.基于高光谱成像技术的油菜叶片 SPAD 值检测[J].光谱学与光谱分析,2015,35(2):486-491. [Ding Xibin,Liu Fei, Zhang Chu,et al. Prediction of SPAD value in oilseed rape leaves using hyperspectral imaging technique[J]. Spectroscopy and Spectral Analysis,2015,35 (2): 486-491.]   \n[15] 李媛媛,常庆瑞,刘秀英,等.基于高光谱和BP神经网络的玉米 叶片 SPAD值遥感估算[J].农业工程学报,2016,32(16):135- 142.[Li Yuanyuan,Chang Qingrui,Liu Xiuying,et al. Remote sensing estimation of SPAD value of corn leaves based on hyper spectral and BP neural network [J]. Transactions of the Chinese Society of Agricultural Engineering,2016,32(16):135-142.]   \n[16] 黄敏,朱启兵.基于SVD的苹果粉质化高光谱散射图像特征提 取[J].光谱学与光谱分析,2011,31(3):767-770.[Huang Min, Zhu Qibing.Feature extraction of apple powdered hyperspectral scattering image based on SVD[J]. Spectroscopy and Spectral Analysis,2011,31(3): 767-770.]   \n[17]Gitelson A A,Merzlyak M N,Chivkunova O B. Optical properties and nondestructive estimation of anthocyanin content in plant leaves[J]. Photochemistry & Photobiology,2010,74(1): 38-45.   \n[18]Mark S,Anatolya G, Donald R.Nondestructive estimation of leaf chlorophyll content in grapes[J]. American Journal of Enology & Viticulture,2008,59(3): 299-305.   \n[19] Gamon JA, Surfus JS.Assessing leaf pigment content and activity with a reflectometer[J]. New Phytologist,2010,143(1): 105-117.   \n[20] 侯新杰,蒋桂英,白丽,等.高光谱遥感特征参数与棉花产量及 其构成因子的关系研究[J].遥感信息,2008(2):10-16.[Hou Xinjie,Jiang Guiying,Bai Li,et al. Study on the relationship between hyperspectral remote sensing characteristic parameters and coton yield and its constituent factors[J]. Remote Sensing Information, 2008 (2): 10-16.]   \n[21] 贺佳,刘冰峰,郭燕,等.冬小麦生物量高光谱遥感监测模型研 究[J].植物营养与肥料学报,2017,23(2):313-323.[He Jia,Liu Bingfeng, Guo Yan,et al. Study on hyperspectral remote sensing monitoring model of winter wheat biomass[J]. Journal of Plant Nutrition and Fertilizer,2017,23(2): 313-323.]   \n[22]Erhard E Pfundel, Ghozlen N B, Meyer S,et al. Investigating UV screening in leaves by two different types of portable UV fluorimeters reveals in vivo screening by anthocyanins and carotenoids[J]. Photosynthesis Research,2007,93(1-3): 205-221.   \n[23] 顾峰,丁建丽,葛翔宇,等.基于Sentinel-2数据的干旱区典型 绿洲植被叶绿素含量估算[J].干旱区研究,2019,36(4):924- 934.[Gu Feng,Ding Jianli,Ge Xiangyu,et al.Estimation of chlorophyll content of typical oasis vegetation in arid areas based on Sentinel-2 data[J]. Arid Zone Research,2019,36 (4): 924-934.]   \n[24] 刘雅清,王磊,赵希妮,etal.基于GF-1/WFV时间序列的绿洲 作物类型提取[J].干旱区研究,2019,36(3):781-789.[Liu Yaqing,Wang Lei, Zhao Xini,et al.Extraction of oasis crop types based on GF-1/WFV time series [J].Arid Zone Research,2019, 36 (3): 781-789.]   \n[25] 张东彦,刘良云,黄文江,等.利用图谱特征解析和反演作物叶 绿素密度[J].红外与激光工程,2013,42(7):1871-1881.[Zhang Dongyan,Liu Liangyun,Huang Wenjiang,et al. Analysisand inversion of crop chlorophyll density using map features[J]. Infrared and Laser Engineering,2013,42(7): 1871-1881.]   \n[26] Inoue,Yoshio,Sakaiya,et al. Diagnostic mapping of canopy nitrogen content in rice based on hyperspectral measurements[J]. Remote Sensing of Environment,2012,126(6829): 210-221.   \n[27]田明璐.西北地区冬小麦生长状况高光谱遥感监测研究[D].杨 凌：西北农林科技大学,2017.[Tian Minglu. Hyperspectral Remote Sensing Monitoring of Winter Wheat Growth in Northwest China[D]. Yangling: Northwest A&F University,2017.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SPAD monitoring of winter wheat based on a UHD185 imaging spectrometer ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WANG Wei-dong， CHANG Qing-rui， WANG Yu-na (CollegeofNaturalResourcesandEnvironment,NorthwestA&FUniversity,Yangling721oo,Shaani,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder to explorethe feasibilityof UAV hyperspectral image monitoring of chlorophyll relative content in winter wheat leaves,this paper takes winter wheat in the Guanzhong area as the research object and obtains a hyperspectral image of the winter wheat field by using UAV as a platform to equip UHD185 imaging spectrometer and extracts band information from it.The prediction model wasconstructed using the traditional spectral index and the new spectral indexdetermined by Matlab software as the independent variable.Theaccuracy of each model was compared,and the chlorophyllcontent distribution mapof winter wheat leaves was made using a higher precision model.The results show that the accuracy of the prediction model constructed by the new spectral index in each prediction model is significantly higherthan thatof the traditional spectral index model.Among them,the SPADNDSI model has the highest accuracy ( $R ^ { 2 }$ =0.6308,RMSE=1.9766), followed by SPAD-RSI and SPAD-DSI. By inverting the leaf chlorophylldistribution mapand testing the mapping results,the SPAD-NDSI model has the best mapping effect ( $R ^ { 2 }$ =0.7013,RMSE=1.4548),and the best prediction effect can be used as the chlorophyllcontent of winter wheat leaves. We used the basic model of remote sensing inversion estimation of UAV hyperspectral imagery. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: UHD185；hyperspectral imagery；winter wheat; chlorophyll spectral index;； prediction model",
+        "page_idx": 7
+    }
+]

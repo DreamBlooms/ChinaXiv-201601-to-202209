@@ -1,0 +1,288 @@
+2 赵红霞1,2.3陈启明1,2.3 黄燕华1,2,3曹俊明1,2,3\*王国霞1,2,3 陈 冰1,2.3 陈晓瑛1,2.3  
+3 （1.广东省农业科学院动物科学研究所，广州510640；2.农业部华南动物营养与饲料重点实  
+4 验室，广州510640；3.广东省畜禽育种与营养研究重点实验室，广州510640）  
+5 摘要：本试验旨在研究饲料精氨酸水平对黄颡鱼(Pelteobagrus fulvidraco)幼鱼生长性能、  
+6 消化吸收相关指标、免疫功能和抗氧化能力的影响。选取初始体均重为（ $1 . 1 3 { \scriptstyle \pm 0 . 0 2 }$ ）g的  
+黄颡鱼幼鱼700尾，随机分为5组（每组4个重复，每个重复35尾鱼），分别投喂精氨酸水  
+平为 $2 . 4 4 \%$ ， $2 . 6 4 \%$ ， $2 . 8 1 \%$ ， $3 . 0 1 \%$ 和 $3 . 2 3 \%$ 的等氮等脂试验饲料（蛋白质水平为 $42 \%$ 和脂  
+9 肪水平为 $9 \%$ )。试验期 $5 6 \mathrm { d }$ 。结果显示：1）与 $3 . 2 3 \%$ 组相比， $2 . 6 4 \%$ 组和 $2 . 8 1 \%$ 组黄颡鱼幼  
+10 鱼的增重率(WGR)显著升高（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ， $2 . 6 4 \%$ 组、 $2 . 8 1 \%$ 组和 $3 . 0 1 \%$ 组黄颡鱼幼鱼的饲料系  
+11 数（FCR）显著降低（ $P { < } 0 . 0 5$ )。2）黄颡鱼幼鱼的胃蛋白酶和淀粉酶活性在 $3 . 0 1 \%$ 组达到最  
+12 高，显著高于 $2 . 4 4 \%$ 组（ $P { < } 0 . 0 5 \$ ）； $2 . 8 1 \%$ 组和 $3 . 0 1 \%$ 组黄颡鱼幼鱼的胃脂肪酶活性显著高于  
+13 其他各组( $. P { \ < } 0 . 0 5 )$ ； $2 . 6 4 \%$ 、 $2 . 8 1 \%$ 组、 $3 . 2 3 \%$ 组黄颡鱼幼鱼的肝脏淀粉酶活性显著高于 $2 . 4 4 \%$   
+14 组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ 。 $2 . 6 4 \%$ 组、 $2 . 8 1 \%$ 组、 $3 . 0 1 \%$ 组和 $3 . 2 3 \%$ 组黄颡鱼幼鱼的肠道碱性磷酸酶（AKP)  
+15 活性显著高于 $2 . 4 4 \%$ 组（ $P { < } 0 . 0 5 \ \cdot$ ）； $2 . 6 4 \%$ 组、 $2 . 8 1 \%$ 组黄颡鱼幼鱼的肠道 $\gamma \cdot$ 谷氨酰转移酶  
+16 （ $\gamma$ GT）活性显著高于 $2 . 4 4 \%$ 组、 $3 . 0 1 \%$ 组和 $3 . 2 3 \%$ 组（ $P { < } 0 . 0 5$ )。3） $2 . 8 1 \%$ 组和 $3 . 0 1 \%$ 组黄  
+17 颡鱼幼鱼的血清一氧化氮(NO)含量显著高于 $2 . 4 4 \%$ 组 $. P { < } 0 . 0 5 )$ ， $2 . 6 4 \%$ 组、 $2 . 8 1 \%$ 组、 $3 . 0 1 \%$   
+18 组和 $3 . 2 3 \%$ 组黄颡鱼幼鱼的血清白细胞介素- $\cdot 1 \beta$ （IL-1β）含量均显著低于 $2 . 4 4 \%$ 组 $_ { \cdot } P { < } 0 . 0 5 )$ ，  
+19 $2 . 8 1 \%$ 组黄颡鱼幼鱼的血清白细胞介素-6(IL-6)含量显著低于 $2 . 4 4 \%$ 组和 $2 . 6 4 \%$ 组 $( P { < } 0 . 0 5 )$ 。  
+20 4） $2 . 6 4 \%$ 组黄颡鱼幼鱼血清谷胱甘肽过氧化物酶（GSH-Px）和过氧化氢酶（CAT）活性显  
+21 著高于 $2 . 4 4 \%$ 组（ $\scriptstyle P < 0 . 0 5 .$ ， $3 . 0 1 \%$ 组黄颡鱼幼鱼血清丙二醛（MDA）含量显著低于 $2 . 6 4 \%$   
+22 组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。由此得出，饲料中适宜水平的精氨酸可提高黄颡鱼幼鱼的WGR，降低FCR，  
+23 增强消化吸收能力、免疫功能和抗氧化能力。以黄颡鱼幼鱼的WGR和血清NO含量为评价  
+24 指标，经二次回归模型分析得出黄颡鱼幼鱼对饲料中精氨酸的需求量分别为 $2 . 7 4 \%$ （占饲料  
+25 蛋白质的 $6 . 4 5 \%$ ）和 $2 . 9 4 \%$ （占饲料蛋白质的 $6 . 9 2 \%$ ）°  
+26 关键词：黄颡鱼；精氨酸；消化吸收；免疫；抗氧化  
+27中图分类号：S963 文献标识码：A 文章编号：
+
+29 精氨酸作为鱼类的必需氨基酸，在生物体内参与多种代谢反应，如蛋白质、尿素和鸟氨  
+30 酸的合成，谷氨酸和脯氨酸的代谢，肌酸和多胺的合成，胰岛素和胰高血糖的排泄等[1-2],  
+31 对促进鱼类生长、增强鱼体免疫、提高抗应激能力有着重要的作用。研究表明，饲料中高于  
+32 $2 . 2 3 \%$ 的精氨酸可以显著提高黑鲷（Sparusmacrocephalus）的增重和特定生长率[3]；高于  
+33 $1 . 1 5 \%$ 的精氨酸可以显著降低尼罗罗非鱼（OreochromisniloticusL.）[4]的饲料系数；高于  
+34 $1 . 0 0 \%$ 的精氨酸可以提高斑点叉尾（Ictalurus punctatus）的蛋白质效率[5]； $3 . 3 1 \%$ 的精氨酸  
+35 可以显著提高斜带石斑鱼（Epinepheluscoioides）的蛋白质沉积率[]；高于 $2 . 7 6 \%$ 的精氨酸  
+36 可以提高美国红鱼（Sciaenopsocellatus）血清溶菌酶活性[7]； $1 . 1 \%$ 的精氨酸和 $0 . 7 5 \%$ 的谷氨  
+37 酸可以减少养殖水体温度变化对大西洋鲑（Salmo salarL.）产生的应激[8]。  
+38 黄颡鱼（Pelteobagrus fulvidraco）属鲶形目，科，黄颡鱼属。其肉质细嫩、味道鲜美、  
+39 无肌间刺[9]，有独特风味，是营养丰富的动物性食品[10]。因为优良的肉质，黄颡鱼不仅在国  
+40 内有很好的销量，日本、韩国和东南亚也是潜在的市场[11]。为满足市场需求，我国近年的黄  
+41 颡鱼规模化养殖不断增加，对黄颡鱼营养需求的研究也成为热点。Zhou等[12]研究了黄颡鱼  
+42 对精氨酸的适宜需要量。沈勇等[13]通过检测黄颡鱼消化酶活性和养分消化率探讨饲料精氨  
+43 酸与赖氨酸配比对黄颡鱼消化吸收的影响。本实验室前期研究表明，饲料中适宜水平的精氨  
+44 酸可显著提高黄颡鱼幼鱼的生长性能和抗氨氮应激能力[14]。但是，关于饲料中精氨酸水平  
+45 对黄颡鱼幼鱼消化吸收相关酶活性、免疫功能和抗氧化能力影响方面的研究尚不多见。为丰  
+46 富精氨酸在黄颡鱼研究领域的应用成果，本试验通过在饲料中添加不同水平的精氨酸，研究  
+47 其对黄颡鱼幼鱼生长性能、消化吸收相关酶活性、免疫功能和抗氧化能力的影响，评估精氨  
+48 酸在黄颡鱼实用饲料中的适宜添加水平，为精氨酸在黄颡鱼配合饲料中的应用提供理论依  
+49 据。  
+50 1材料与方法  
+51 1.1 试验设计
+
+以鱼粉、豆粕为主要蛋白质源，面粉为主要糖源，鱼油、豆油为主要脂肪源，以丙氨酸作为等氮替代物，通过添加不同水平的精氨酸（ $L .$ -精氨酸盐酸盐，纯度 $2 9 9 \%$ ，购自宁波大榭开发区海德氨基酸工业有限公司)，配制成精氨酸水平分别为 $2 . 4 4 \% \times 2 . 6 4 \% \times 2 . 8 1 \% \times 3 . 0 1 \%$ 和 $3 . 2 3 \%$ 的5种等氮等脂（蛋白质水平为 $42 \%$ ，脂肪水平为 $9 \%$ ）实用饲料，饲料蛋白质和脂肪水平等参照本实验室前期研究[15]设定。饲料原料经粉碎后过60目筛，按配方准确称取，各种饲料原料逐级混匀后，于NH-10型捏合机中（华南理工大学科技实业总厂）加入鱼油、豆油，混合均匀后，加适量水在B20强力搅拌机（广州市番禺力丰食品机械厂，）中搅拌，用SLX-80型双螺杆挤压机（华南理工大学科技实业总厂）制成 $1 . 5 \mathrm { m m }$ 的条状，在G-500型造粒机（华南理工大学科技实业总厂）中制成颗粒饲料， $5 5 \ \mathrm { ^ \circ C }$ 烘干，自然冷却后放入密封袋，置于 ${ } - 2 0 \ { } ^ { \circ } { \mathrm { C } }$ 冰箱中保存备用。试验饲料组成及营养水平见表1，试验饲料氨基酸组成见表2。
+
+64 Table 1 Composition and nutrient levelsofexperimental diets (air-dry   
+65
+
+表1试验饲料组成及营养水平 (风干基础)  
+
+<html><body><table><tr><td>oasis) %</td><td colspan="5"></td></tr><tr><td rowspan="2">项目Items</td><td colspan="5">饲料精氨酸水平 Dietaryarginine level/%</td></tr><tr><td>2.44</td><td>2.64</td><td>2.81</td><td>3.01</td><td>3.23</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鱼粉Fish meal</td><td>25.00</td><td>25.00</td><td>25.00</td><td>25.00</td><td>25.00</td></tr><tr><td>豆粕 Soybean meal</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td></tr><tr><td>菜籽粕Rapeseed meal</td><td>9.00</td><td>9.00</td><td>9.00</td><td>9.00</td><td>9.00</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td></tr><tr><td>面粉Wheat flour</td><td>20.50</td><td>20.66</td><td>20.82</td><td>20.98</td><td>21.14</td></tr><tr><td>鱼油Fish oil</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td></tr><tr><td>豆油 Soybean oil</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td></tr><tr><td>维生素预混料Vitaminpremix1)</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>矿物质预混料 Mineralpremix2)</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>磷酸二氢钙 Ca(H2PO4)2</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>维生素C酯VitaminCester</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>氯化胆碱 Cholinechloride</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>L-精氨酸盐酸盐 L-Arg·HCl</td><td></td><td>0.24</td><td>0.48</td><td>0.72</td><td>0.96</td></tr></table></body></html>
+
+<html><body><table><tr><td>丙氨酸Alanine</td><td>2.00</td><td>1.60</td><td>1.20</td><td>0.80</td><td>0.40</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质CP</td><td>42.8</td><td>42.0</td><td>42.6</td><td>42.4</td><td>42.6</td></tr><tr><td>粗脂肪EE</td><td>8.9</td><td>9.0</td><td>9.3</td><td>8.7</td><td>8.7</td></tr><tr><td>粗灰分Ash</td><td>7.9</td><td>7.9</td><td>7.9</td><td>7.9</td><td>7.9</td></tr><tr><td>水分Moisture</td><td>7.0</td><td>6.7</td><td>6.8</td><td>6.9</td><td>6.8</td></tr></table></body></html>
+
+1 每千克维生素预混料含有 Contained the following per kg of vitamin premix：VA 3 200$0 0 0 \mathrm { I U }$ ， $\mathrm { V B } _ { 1 } 4 \mathrm { g }$ ， $\mathrm { V B } _ { 2 } \mathrm { ~ 8 ~ g ~ }$ ， $\mathrm { V B } _ { 6 } 4 . 8 \ \mathrm { g }$ ， $\mathrm { V B } _ { 1 2 } 1 6 \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } \textrm { l } 6 0 0 0 0 0 0 \mathrm { I U }$ ，VE $1 6 \mathrm { g }$ ， $\mathrm { V K } 4 \mathrm { g }$ ，泛酸钙 calcium pantothenate $\boldsymbol { 1 6 \mathrm { ~ g ~ } }$ ，叶酸 folic acid $ { 1 . 2 8 \mathrm { ~ g ~ } }$ ，烟酸 nicotinic acid $2 8 \mathrm { \ g }$ ，肌醇inositol $4 0 \ \mathrm { g }$ ，生物素biotin $6 4 ~ \mathrm { m g }$ 。
+
+2每千克矿物质预混料Contained the following per $\mathbf { k g }$ of mineral premix: $\mathrm { M g S O _ { 4 } { \cdot } H _ { 2 } O }$ 12 g， $\mathrm { C a } ( \mathrm { I O } _ { 3 } ) _ { 2 } 9 \mathrm { g }$ ， $\operatorname { K C l } 3 6 \mathrm { g }$ ，Met- $\mathrm { \cdot } \mathrm { C u } 1 . 5 \mathrm { g }$ ， $\mathrm { Z n S O _ { 4 } { \cdot } H _ { 2 } O \ 1 }$ 0g， $\mathrm { F e S O _ { 4 } { \cdot } H _ { 2 } O \ 1 \ \mathrm { g } }$ ，Met-Co $2 5 0 \mathrm { m g }$ ， $\mathrm { N a S e O _ { 3 } } 0 . 0 0 3 6 \mathrm { g } .$
+
+3）营养水平为实测值。Nutrient levelsweremeasured values.
+
+表2试验饲料氨基酸组成（风干基础)  
+Table 2  Amino acid composition of experimental diets (air-dry basis)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">饲料精氨酸水平Dietaryarginine level/%</td></tr><tr><td>2.44</td><td>2.64</td><td>2.81</td><td>3.01</td><td>3.23</td></tr><tr><td>必需氨基酸 Essentialaminoacids</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>精氨酸Arg</td><td>2.44</td><td>2.64</td><td>2.81</td><td>3.01</td><td>3.23</td></tr><tr><td>组氨酸His</td><td>0.96</td><td>0.96</td><td>0.97</td><td>0.97</td><td>0.98</td></tr><tr><td>异亮氨酸Ile</td><td>1.75</td><td>1.76</td><td>1.75</td><td>1.76</td><td>1.76</td></tr><tr><td>亮氨酸Leu</td><td>3.32</td><td>3.38</td><td>3.36</td><td>3.36</td><td>3.36</td></tr><tr><td>赖氨酸Lys</td><td>2.46</td><td>2.50</td><td>2.48</td><td>2.47</td><td>2.49</td></tr><tr><td>蛋氨酸Met</td><td>0.67</td><td>0.69</td><td>0.67</td><td>0.69</td><td>0.69</td></tr><tr><td>苯丙氨酸Phe</td><td>1.85</td><td>1.88</td><td>1.86</td><td>1.88</td><td>1.87</td></tr><tr><td>苏氨酸Thr</td><td>1.61</td><td>1.62</td><td>1.61</td><td>1.62</td><td>1.62</td></tr><tr><td>氨酸Val</td><td>2.01</td><td>2.02</td><td>2.02</td><td>2.02</td><td>2.02</td></tr><tr><td colspan="6">非必需氨基酸 Non-essentialamino acids</td></tr></table></body></html>
+
+<html><body><table><tr><td>丙氨酸 Ala</td><td>4.36</td><td>4.02</td><td>3.60</td><td>3.21</td><td>2.80</td></tr><tr><td>天冬氨酸Asp</td><td>3.55</td><td>3.60</td><td>3.58</td><td>3.58</td><td>3.59</td></tr><tr><td>谷氨酸Glu</td><td>7.70</td><td>7.85</td><td>7.78</td><td>7.81</td><td>7.81</td></tr><tr><td>甘氨酸Gly</td><td>2.22</td><td>2.24</td><td>2.22</td><td>2.24</td><td>2.23</td></tr><tr><td>丝氨酸Ser</td><td>2.08</td><td>2.10</td><td>2.10</td><td>2.11</td><td>2.10</td></tr><tr><td>酪氨酸Tyr</td><td>1.16</td><td>1.20</td><td>1.15</td><td>1.18</td><td>1.18</td></tr></table></body></html>
+
+# 1.2 试验鱼与饲养管理
+
+试验用黄颡鱼幼鱼购自广东省清远市黄沙渔业基地。养殖试验在广东省农业科学院动物科学研究所水产研究室室内循环水养殖系统中进行，养殖用水为曝气的自来水，进水速率为 $1 . 5 \mathrm { L } / \mathrm { m i n }$ ，试验系统由直径 $8 0 ~ \mathrm { c m }$ 、高 $7 0 \ \mathrm { c m }$ 的圆柱形玻璃纤维桶组成，容水量约为$3 0 0 \mathrm { L }$ 。试验开始前将黄颡鱼幼鱼在室外水泥池中暂养2周，期间投喂商品饲料（蛋白质水平为 $40 \%$ ，脂肪水平为 $9 . 5 \%$ )，每天2次（08:30和18:30）。暂养结束后，选取初始体均重为 $\langle 1 . 1 3 { \pm } 0 . 0 2 \$ ）g的黄颡鱼幼鱼700尾，随机分为5组，每组4个重复，每个重复35尾鱼，分别投喂5种精氨酸水平的试验饲料。投喂量为体重的 $5 \% { \sim } 6 \%$ ，每天08:30和18:30各投喂1次，上午投喂 $40 \%$ ，下午投喂 $60 \%$ ，根据摄食情况调整投喂量。养殖系统采取循环水过滤系统，定时换水，定期测定水质，试验期间水温 $2 9 . 5 { \sim } 3 3 . 0 ~ \mathrm { ^ { \circ } C }$ ，自然光源，氨氮浓度 $< 0 . 2 0$ $\mathrm { m g / L }$ ，亚硝酸盐浓度 ${ < } 0 . 0 1 \ \mathrm { m g / L }$ ，溶氧浓度 ${ > } 6 . 0 \ \mathrm { m g / L }$ ， $\mathrm { p H } 7 . 4 { \sim } 7 . 9$ 。养殖试验为期 $5 6 \mathrm { d }$ 。
+
+# 1.3样品采集
+
+养殖试验结束后停食 $2 4 \mathrm { h }$ ，称量终末体重并统计存活数。从每个重复随机选取15尾鱼，放入 $1 2 0 \mathrm { m g / L }$ 的 MS-222 溶液中麻醉，随机取10尾静脉取血， $4 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液分装制备血清， $- 8 0 \ { ^ { \circ } C }$ 冰箱保存备用；剩下的5尾于冰上迅速解剖和剥离胃、肝脏和肠道， $- 8 0 \ { ^ { \circ } C }$ 冰箱保存，用于消化吸收相关酶活性的测定。
+
+# 1.4指标测定
+
+# 1.4.1生长性能指标计算
+
+存活率（survival rate，SR， $\%$ ） ${ \bf \Pi } = 1 0 0 \times$ 终末尾数/初始尾数；  
+增重率（weight gain rate，WGR， $\%$ ） $= 1 0 0 \times$ （终末体重-初始体重）/初始体重；  
+饲料系数（feed conversion ratio，FCR） $\scriptstyle { \mathbf { \alpha } } = { \mathbf { \beta } }$ 饲料摄入量/（终末体重-初始体重）。
+
+# 1.4.2 饲料营养成分检测
+
+饲料营养成分采用AOAC（1984）[17]中方法测定。其中，水分含量采用 $1 0 5 \mathrm { ~ \textdegree ~ }$ 烘干恒重法测定，粗蛋白质含量采用凯氏定氮法测定，粗脂肪含量采用索氏抽提法测定，粗灰分含量采用高温 $5 5 0 \mathrm { ~ \textdegree C }$ 马弗炉灰化法测定。饲料经盐酸水解后采用高效液相色谱仪（HPLC）分析系统（LC1260，安捷伦科技公司）安捷伦ZORBAXc18（ $1 5 0 \ \mathrm { m m } \times 5 \ \mu \mathrm { m }$ ）测试柱测定氨基酸组成。
+
+# 1.4.3 血清免疫、抗氧化指标和胃、肝脏、肠道消化吸收相关指标测定
+
+血清免疫、抗氧化指标和胃、肝脏、肠道消化吸收相关酶活性采用试剂盒检测，试剂盒均购自南京建成生物工程研究所，具体测定方法参照试剂盒所附说明书。血清免疫指标：血清一氧化氮(NO)、补体4(C4)、免疫球蛋白(IgM)、白细胞介素-1β(IL-1β)、白细胞介素-6(IL-6)、肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ (TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ )含量，血清抗氧化指标：超氧化物歧化酶(SOD)、过氧化物酶(POD)、谷胱甘肽过氧化物酶(GSH-Px)、过氧化氢酶(CAT)活性与总抗氧化能力(T-AOC)及丙二醛（MDA）含量。消化吸收相关指标：胃、肝脏和肠道蛋白酶、脂肪酶、淀粉酶活性，肠道碱性磷酸酶(AKP)、 $\gamma \cdot$ 谷氨酰转移酶（ $\gamma$ GT）、 $\mathrm { { N a ^ { + } / K ^ { + } } }$ -ATP酶（ $\mathrm { { N a ^ { + } K ^ { + } } }$ -ATPase）活性及内皮素（ET-1）含量。
+
+# 1.5数据统计与分析
+
+试验数据用平均值 $\pm$ 标准差（mean $\pm \mathrm { S D }$ ， $\scriptstyle n = 4$ ）表示，采用SPSS20.0软件进行统计分析。先对试验数据开展方差齐性检验，满足方差齐性条件则进行单因素方差分析（one-wayANOVA)，差异显著再用Tukey's检验方法进行多重比较；方差齐性条件不满足的，则用Dunnett'sT3检验法进行多重比较。差异显著性水平为 $P { < } 0 . 0 5$ 。
+
+2结果与分析
+
+# 2.1黄颡鱼幼鱼的生长性能
+
+各组黄颡鱼幼鱼养殖56d后的存活率均为 $100 \%$ ，未出现死亡情况。由表3可知，随着饲料中精氨酸水平的升高，黄颡鱼幼鱼的WGR呈先升后降、FCR呈先降后升趋势，在 $2 . 6 4 \%$ 组分别达到最大值和最小值。与 $3 . 2 3 \%$ 组相比， $2 . 6 4 \%$ 组和 $2 . 8 1 \%$ 组黄颡鱼幼鱼的WGR显著升高（ $P { < } 0 . 0 5 )$ ， $2 . 6 4 \%$ 组、 $2 . 8 1 \%$ 组和 $3 . 0 1 \%$ 组黄颡鱼幼鱼的FCR显著降低（ $P { < } 0 . 0 5 )$ 。以黄颡鱼幼鱼的WGR和FCR为评价指标，经二次回归模型分析得出黄颡鱼幼鱼对饲料中精氨酸的需求量分别为 $2 . 7 4 \%$ （占饲料蛋白质的 $6 . 4 5 \%$ ）（图1）和 $2 . 7 5 \%$ （占饲料蛋白质的$6 . 4 7 \%$ ）（图2）。
+
+表3投喂含不同精氨酸水平饲料56d后黄颡鱼幼鱼的生长性能  
+Table 3 Growth performance of juvenile yellow catfish fed diets supplemented with various levels of arginine for 56 days   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">饲料精氨酸水平 Dietary arginine level/%</td></tr><tr><td>2.44</td><td>2.64</td><td>2.81</td><td>3.01</td><td>3.23</td></tr><tr><td>初始体重 IBW/g</td><td>1.13±0.01</td><td>1.13±0.01</td><td>1.15±0.01</td><td>1.12±0.02</td><td>1.14±0.02</td></tr><tr><td>终末体重</td><td>22.27±0.74ab</td><td>22.79±0.68b</td><td>22.86±0.54b</td><td>22.14±0.61ab</td><td>21.73±0.34a</td></tr><tr><td>FBW/g</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>增重率 WGR/%</td><td>867.03±56.36ab</td><td>914.04±51.73b</td><td>892.88±44.43b</td><td>882.52±25.63ab</td><td>815.09±19.76a</td></tr><tr><td>饲料系数FCR</td><td>0.79±0.02ab</td><td>0.77±0.02a</td><td>0.78±0.02a</td><td>0.78±0.01a</td><td>0.81±0.01b</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with no letter or the same letter superscripts mean no significant difference $( P > 0 . 0 5 )$ , while with different small letter superscripts mean significant difference ( $P$ ${ < } 0 . 0 5 )$ ). The sameas below.
+
+![](images/137f062f893b2b98a1462faef4288d253e14eaf40b447e188a44a2ffeee4df8b.jpg)  
+图1饲料精氨酸水平与黄颡鱼幼鱼增重率的关系
+
+![](images/fff3db58bf28978777934b986cca9d121ef30a32fab7a8712143e1337514eb8b.jpg)  
+Fig.1 Relationship between dietary arginine level and WGR of juvenile yellow catfish   
+图2饲料精氨酸水平与黄颡鱼幼鱼饲料系数的关系  
+Fig.2 Relationship between dietary arginine level and FCR of juvenile yellow catfish
+
+# 2.2 黄颡鱼幼鱼消化酶活性
+
+由表4可知，黄颡鱼幼鱼的胃蛋白酶和淀粉酶活性在 $3 . 0 1 \%$ 组达到最高，显著高于 $2 . 4 4 \%$ 组（ $P { < } 0 . 0 5 \ '$ 。 $2 . 8 1 \%$ 组和 $3 . 0 1 \%$ 组黄颡鱼幼鱼的胃脂肪酶活性显著高于其他各组（ $P { < } 0 . 0 5 )$ 。$2 . 6 4 \%$ 组、 $2 . 8 1 \%$ 组、 $3 . 2 3 \%$ 组黄颡鱼幼鱼的肝脏淀粉酶活性显著高于 $2 . 4 4 \%$ 组（ $P { < } 0 . 0 5 \$ 。饲
+
+料中精氨酸水平对黄颡鱼幼鱼的肝脏蛋白酶、脂肪酶活性和肠道蛋白酶、脂肪酶、淀粉酶活性没有产生显著影响（ $. P { > } 0 . 0 5 )$ 。
+
+表4投喂含不同精氨酸水平饲料56d后黄颡鱼幼鱼的消化酶活性  
+Table 4 Digestive enzyme activities of juvenile yellow catfish fed diets supplemented with various levels of arginine for 56 days   
+
+<html><body><table><tr><td colspan="7">valiouslevels ghmeforSodays</td></tr><tr><td rowspan="3">项目Items</td><td rowspan="3"></td><td colspan="5">饲料精氨酸水平 Dietary arginine level/%</td></tr><tr><td>2.44</td><td>2.64</td><td>2.81</td><td>3.01</td><td>3.23</td></tr><tr><td>927.08±1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td rowspan="6">蛋白酶Protease /(U/mg prot)</td><td>胃</td><td></td><td>073.47±17</td><td>007.37±136</td><td>367.82±378.</td><td>159.42±447.4</td></tr><tr><td>Stomach</td><td>52.35a</td><td>4.45a</td><td>.14a</td><td>59b</td><td>3ab</td></tr><tr><td>肝脏</td><td>222.74±1</td><td>237.82±13.</td><td>237.86±64.</td><td>224.31±25.3</td><td>243.47±41.28</td></tr><tr><td>Liver</td><td>3.17</td><td>10</td><td>11</td><td>6</td><td></td></tr><tr><td>肠道</td><td>577.45±7</td><td>580.30±89.</td><td>642.71±154</td><td>637.26±94.3</td><td>637.84±125.6</td></tr><tr><td>Intestine</td><td>5.06</td><td>25</td><td>.76</td><td>3</td><td>4</td></tr><tr><td rowspan="6">脂肪酶Lipase /(U/g prot)</td><td>胃</td><td>116.32±2</td><td>139.48±29.</td><td>200.63±37.</td><td>201.25±43.3</td><td>119.41±24.33a</td></tr><tr><td>Stomach</td><td>5.18a</td><td>02a</td><td>12b</td><td>4b</td><td></td></tr><tr><td>肝脏</td><td>51.33±13.</td><td>60.69±19.1</td><td>59.36±20.8</td><td>57.06±15.38</td><td>52.76±14.66</td></tr><tr><td>Liver</td><td>61</td><td>8</td><td>7</td><td></td><td></td></tr><tr><td>肠道 Intestine</td><td>62.05±3.9 3</td><td>61.76±2.78</td><td>73.52±9.57</td><td>55.39±7.86</td><td>68.84±7.96</td></tr><tr><td>胃</td><td>33.65±6.2</td><td>42.67±9.37</td><td>49.11±12.6</td><td>66.87±18.78</td><td></td></tr><tr><td rowspan="5">淀粉酶Amylase /(U/mg prot)</td><td>Stomach</td><td>3a</td><td>ab</td><td></td><td>b</td><td>44.22±11.56ab</td></tr><tr><td>肝脏</td><td></td><td></td><td>6ab</td><td>10.27±0.77a</td><td></td></tr><tr><td>Liver</td><td>8.38±1.36 a</td><td>14.50±4.12 b</td><td>15.82±3.15b</td><td>b</td><td>13.50±2.68b</td></tr><tr><td>肠道</td><td>27.96±1.5</td><td></td><td></td><td></td><td></td></tr><tr><td>Intestine</td><td>3</td><td>28.54±2.30</td><td>30.94±3.04</td><td>31.21±3.35</td><td>31.13±5.22</td></tr></table></body></html>
+
+# 2 2.3 黄颡鱼幼鱼肠道吸收相关指标
+
+由表5可知， $2 . 6 4 \%$ 组、 $2 . 8 1 \%$ 组、 $3 . 0 1 \%$ 组和 $3 . 2 3 \%$ 组黄颡鱼幼鱼肠道AKP活性显著高于 $2 . 4 4 \%$ 组（ $_ { . P < 0 . 0 5 } )$ 。 $2 . 6 4 \%$ 组和 $2 . 8 1 \%$ 组黄颡鱼幼鱼肠道 $\cdot \gamma \cdot$ -GT活性显著高于 $2 . 4 4 \%$ 组、
+
+$3 . 0 1 \%$ 组和 $3 . 2 3 \%$ 组（ $. P { < } 0 . 0 5$ )。饲料中精氨酸水平对黄颡鱼幼鱼肠道 $\mathrm { { N a ^ { + } / K ^ { + } } }$ -ATPase活性和ET-1含量没有产生显著影响（ $_ { P > 0 . 0 5 ) }$ 。
+
+表5投喂含不同精氨酸水平饲料56d后黄颡鱼幼鱼的肠道碱性磷酸酶、 $\gamma \cdot$ 谷氨酰转移
+
+酶、 $\mathrm { N a ^ { + } / K ^ { + } A T P }$ 酶活性和内皮素1含量
+
+Table 5 Intestinal AKP, $\gamma$ -GT, $\mathrm { { N a ^ { + } K ^ { + } } }$ -ATPase activities and ET-1 content of juvenile yellow catfish fed diets supplemented with various levels of arginine for 56 days   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">饲料精氨酸水平 Dietaryarginine level/%</td></tr><tr><td>2.44</td><td>2.64</td><td>2.81</td><td>3.01</td><td>3.23</td></tr><tr><td>碱性磷酸酶 AKP/(U/g prot)</td><td>81.93±7.37a</td><td>137.58±20.79b</td><td>145.65±26.81b</td><td>129.91±12.78b</td><td>162.68±32.66b</td></tr><tr><td>γ-谷氨酰转移酶 γ-GT/(U/g prot)</td><td>18.35±4.11a</td><td>24.19±5.27b</td><td>26.76±3.14b</td><td>19.49±5.60a</td><td>19.63±4.50a</td></tr><tr><td>Na+/K+-ATP 酶 Na+/K+-ATPase/(U/mg prot)</td><td>3.16±0.72</td><td>3.50±0.99</td><td>3.13±1.05</td><td>2.99±0.33</td><td>3.48±0.72</td></tr><tr><td>内皮素1ET-1/(ng/L)</td><td>21.43±3.23</td><td>19.80±4.38</td><td>22.16±3.17</td><td>19.43±3.98</td><td>23.67±4.08</td></tr></table></body></html>
+
+# 161 2.4黄颡鱼幼鱼的血清免疫指标
+
+162 由表6可知， $2 . 8 1 \%$ 组和 $3 . 0 1 \%$ 组黄颡鱼幼鱼血清NO含量显著高于 $2 . 4 4 \%$ 组（ $( P { < } 0 . 0 5 )$ ，  
+163 $2 . 6 4 \%$ 组、 $2 . 8 1 \%$ 组、 $3 . 0 1 \%$ 组和 $3 . 2 3 \%$ 组黄颡鱼幼鱼血清 $\mathrm { I L } \mathrm { - } 1 \beta$ 含量显著低于 $2 . 4 4 \%$ 组  
+164 （ $\scriptstyle P < 0 . 0 5 .$ ， $2 . 4 4 \%$ 组和 $2 . 6 4 \%$ 组黄颡鱼幼鱼血清IL-6含量显著高于 $2 . 8 1 \%$ 组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ 。饲  
+165 料中精氨酸水平对黄颡鱼幼鱼血清C4、IgM、TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 含量未产生显著影响（ $. P { > } 0 . 0 5 )$ 。以黄  
+166 颡鱼幼鱼血清NO含量为评价指标，经二次回归模型分析得出黄颡鱼幼鱼对饲料中精氨酸的  
+167 需求量为 $2 . 9 4 \%$ （占饲料蛋白质的 $6 . 9 2 \%$ ）（图3）。
+
+168 表6投喂含不同精氨酸水平饲料56d后黄颡鱼幼鱼的血清免疫指标 169 Table 6 Serum immune indexes of juvenile yellow catfish fed diets supplemented with various 170 levels of arginine for 56 days   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">饲料精氨酸水平 Dietary arginine level/%</td></tr><tr><td>2.44</td><td>2.64</td><td>2.81</td><td>3.01</td><td>3.23</td></tr><tr><td>一氧化氮</td><td>148.74±6.27a</td><td>167.79±16.71ab</td><td>171.15±9.22b</td><td>185.43±25.26b</td><td>166.25±19.51 ab</td></tr><tr><td>NO/(μmol/L) 补体 4 C4/(g/L)</td><td>0.02±0.00</td><td>0.02±0.02</td><td>0.03±0.00</td><td>0.03±0.02</td><td>0.04±0.02</td></tr><tr><td>免疫球蛋白M</td><td>0.29±0.00</td><td>0.32±0.02</td><td>0.30±0.04</td><td>0.32±0.06</td><td>0.31±0.02</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="7">IgM/(g/L)</td></tr><tr><td>白介素-1β</td><td>15.24±5.71b</td><td>3.90±1.66a</td><td>5.19±1.80a</td><td>4.27±2.35a</td><td>6.25±3.08a</td></tr><tr><td>IL-1β/(ng/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>白介素-6</td><td>46.21±3.52c</td><td>45.95±2.85℃</td><td>41.75±2.50ab</td><td>44.54±2.43bc</td><td>44.09±1.03bc</td></tr><tr><td>IL-6/(ng/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肿瘤坏死因子-α</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TNF-α/(ng/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>61.40±29.53</td><td>90.73±82.48</td><td>90.60±12.05</td><td>96.58±44.65</td><td>81.05±34.11</td></tr></table></body></html>
+
+![](images/995e02ab865d1bc1127f71d7e14734a5ace5780f283b32fb604f95dcf91dd644.jpg)  
+图3 饲料中精氨酸水平与黄颡鱼幼鱼血清NO含量的关系
+
+Fig.3 Relationship between dietary arginine level and serum NO content of juvenile yellow
+
+catfish
+
+# 2.5 黄颡鱼幼鱼血清抗氧化指标
+
+由表7可知， $2 . 6 4 \%$ 组黄颡鱼幼鱼血清GSH-Px 活性显著高于 $2 . 4 4 \%$ 组（ $. P { < } 0 . 0 5 \$ ， $2 . 6 4 \%$ 组黄颡鱼幼鱼血清CAT活性显著高于 $2 . 4 4 \%$ 组、 $3 . 0 1 \%$ 组和 $3 . 2 3 \%$ 组（ $\scriptstyle \cdot < 0 . 0 5 .$ ， $3 . 0 1 \%$ 组黄颡鱼幼鱼血清MDA含量显著低于 $2 . 6 4 \%$ 组（ $\scriptstyle P < 0 . 0 5 .$ )。饲料中精氨酸水平对黄颡鱼幼鱼血清 SOD、POD 活性和 T-AOC 未产生显著影响（ $P { > } 0 . 0 5 )$ 。
+
+表7投喂含不同精氨酸水平饲料56d后黄颡鱼幼鱼的血清抗氧化指标
+
+various levels of arginine for 56 days   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">饲料精氨酸水平 Dietary arginine level/%</td></tr><tr><td>2.44</td><td>2.64</td><td>2.81</td><td>3.01</td><td>3.</td></tr><tr><td>谷胱甘肽过氧化物酶GSH-Px/(U/mL)</td><td>163.65±15.60a</td><td>303.18±80.83b</td><td>198.53±65.19ab</td><td>192.83±36.50ab</td><td>258.68</td></tr><tr><td>过氧化氢酶CAT/(U/mL)</td><td>3.30±0.58a</td><td>5.38±0.63b</td><td>3.89±1.01ab</td><td>2.95±0.12a</td><td>3.68</td></tr><tr><td>超氧化物歧化酶SOD/(U/mL)</td><td>66.72±0.86</td><td>68.38±9.18</td><td>67.68±2.96</td><td>66.44±4.64</td><td>69.87</td></tr><tr><td>过氧化物酶POD/(U/mL)</td><td>45.96±9.52</td><td>56.46±17.23</td><td>43.04±0.66</td><td>37.86±5.35</td><td>47.88</td></tr><tr><td>总抗氧化能力T-AOC/(U/mL)</td><td>2.07±0.90</td><td>1.51±0.76</td><td>1.89±1.05</td><td>2.79±0.83</td><td>1.71</td></tr><tr><td>丙二醛 MDA/(nmol/L)</td><td>8.60±0.35ab</td><td>9.57±0.18b</td><td>9.39±0.81ab</td><td>8.18±0.57a</td><td>8.58±</td></tr></table></body></html>
+
+3讨论
+
+# 3.1饲料精氨酸水平对黄颡鱼幼鱼生长性能的影响
+
+精氨酸可以参与体内蛋白质及多胺的合成，促进生长[1-2]。已有研究表明，精氨酸可以提高鱼类的生长性能[3-6]。本试验结果表明，随着饲料精氨酸水平的升高，黄颡鱼幼鱼的WGR升高、FCR 降低，在 $2 . 6 4 \%$ 组分别达到最大值和最小值，说明适宜水平的精氨酸可以提高黄颡鱼幼鱼的生长性能。利用二次回归模型拟合WGR和饲料精氨酸水平，得出黄颡鱼幼鱼对饲料中精氨酸的需求量为 $2 . 7 4 \%$ （占饲料蛋白质的 $6 . 4 5 \%$ )。该结果在鱼类精氨酸需求量范围（占饲料蛋白质的 $3 . 8 \% { \sim } 8 . 1 \%$ ）[12,18-21]之内。随着饲料精氨酸水平的进一步升高，黄颡鱼幼鱼的生长性能呈现下降趋势，该现象与在金鲳(Trachinotus ovatus)[ll、尼罗罗非鱼(OreochromisniloticusL.)[3]和军曹鱼(Rachycentron canadum)[18]等上的研究结果类似。在对哺乳动物中的研究发现，饲料中过量的精氨酸导致动物生长性能下降可能是由于精氨酸-赖氨酸的拮抗作用造成的，但是这一作用在鱼类中是否存在还存在争议[2]。Berge等[19]和廖英杰等[20]的研究认为，大西洋鲑（Salmo salar）和团头鲂存在精氨酸-赖氨酸拮抗现象，而Alam等[21]和Zhou等[12]研究结果则认为牙鲆（Paralichthysolivaceus）和黄颡鱼不存在精氨酸-赖氨酸拮抗现象。沈勇等[13]发现黄颡鱼饲料中精氨酸与赖氨酸比值约为1.20时，能够显著促进生长性能，但饲料中赖氨酸添加量过量则抑制黄颡鱼的生长。在黄颡鱼中是否存在精氨酸-赖氨酸拮抗现象还有待于进一步研究。
+
+3.2饲料精氨酸水平对黄颡鱼幼鱼消化酶活性的影响
+
+消化酶是生物体内催化各种生化反应的一类特殊的蛋白质，主要作用是消化和分解生物体从外界所摄取的食物，为生长和发育提供所需的各种营养物质[22]。王际英等[23]研究发现，饲料精氨酸水平可以显著影响仿刺参肠道蛋白酶的活性，对脂肪酶和淀粉酶活性无显著影响。Chen等[24]的研究表明，精氨酸可以显著提高建鲤蛋白酶和脂肪酶的活性，对淀粉酶活性无显著影响。王连生等[25]试验证明，饲料中添加精氨酸显著提高杂交鲟前肠蛋白酶和淀粉酶活性。本试验结果表明，饲料中适宜水平的精氨酸显著提高了黄颡鱼幼鱼胃蛋白酶、脂肪酶和淀粉酶活性及肝脏淀粉酶活性。精氨酸对不同鱼类消化酶活性的影响不尽相同，影响鱼类消化酶活性的因素有很多，如食性、生长阶段、理化因子（如水温、pH、盐度等）、营养与饲料（饲料原料、饲料添加剂等）等[26]。沈勇等[13]研究发现，饲料中精氨酸/赖氨酸为2.19/2.61组黄颡鱼的肝脏、肠道胰蛋白酶活性显著高于精氨酸/赖氨酸为3.07/2.61、2.19/3.65和3.08/3.65组，胃蛋白酶活性在饲料精氨酸/赖氨酸为1.74/2.08、1.74/30.2和2.63/2.08组显著高于其他各组。本试验结果与之不同，黄颡鱼幼鱼胃蛋白酶和淀粉酶活性在精氨酸水平为$3 . 0 1 \%$ 时达到最高，胃脂肪酶活性在精氨酸水平为 $3 . 0 1 \%$ 达到最高，肝脏淀粉酶活性在精氨酸水平为 $2 . 6 4 \%$ ， $2 . 8 1 \%$ 和 $3 . 2 3 \%$ 时较 $2 . 4 4 \%$ 时显著升高。精氨酸来源、精氨酸/赖氨酸、饲料组成等军可能影响精氨酸的利用，从而导致黄颡鱼幼鱼消化酶活性出现较大差异。
+
+3.3饲料精氨酸水平对黄颡鱼幼鱼肠道吸收相关指标的影响
+
+肠道不仅在消化吸收营养物质过程中发挥着重要作用，而且是集内分泌、免疫、屏障等功能为一体的重要器官，鱼类肠道健康对于鱼体的整体健康起到非常重要的作用[27-28]。AKP、γ-GT、Na+K+-ATPase活性和ET-1含量是反映肠道对营养物质代谢、转运和消化吸收功能的指标，目前尚未见关于精氨酸对黄颡鱼肠道AKP、 $\gamma$ GT、 $\mathrm { { N a ^ { + } K ^ { + } } }$ -ATPase活性和ET-1含量影响的相关报道。本试验中，饲料精氨酸水平对黄颡鱼幼鱼肠道 $\mathrm { { N a ^ { + } K ^ { + } } . }$ -ATPase活性和ET-1含量没有产生显著影响。分布于动物肠道上皮刷状缘细胞表面的肠型碱性磷酸酶(IAKP)与维生素D、钙、氨基酸、胆固醇、脂类和葡萄糖等多种营养物质吸收有关[29-30]。本试验结果显示，饲料中添加精氨酸显著提高黄颡鱼幼鱼肠道AKP活性，表明精氨酸可以增强黄颡鱼肠道的吸收能力，促进营养物质的代谢。 $\gamma$ -GT是谷氨酸循环的关键酶，能促进氨基酸向细胞内转运，为蛋白质生物合成提供原料[31]。本试验发现， $2 . 6 4 \%$ 组和 $2 . 8 1 \%$ 组黄颡鱼幼鱼肠道γ-GT 活性显著高于 $2 . 4 4 \%$ 组、 $3 . 0 1 \%$ 组和 $3 . 2 3 \%$ 组，表明饲料中适宜水平的精氨酸能够提高黄颡鱼幼鱼肠道 $\cdot \gamma$ -GT活性，促进体内氨基酸的转运。
+
+3.4饲料精氨酸水平对黄颡鱼幼鱼免疫功能的影响
+
+鱼类和哺乳动物一样，具有非特异性和特异性免疫功能，能通过黏膜屏障、组织和体液中各种免疫细胞和因子共同抵御病原入侵[32]。补体系统可以被抗原-抗体复合物激活或直接被抗原激活，结合到抗原表面，也可以被外源细菌凝集素和炎症初期产生的蛋白共同激活，辅助非特异性和特异性免疫[33]。C4是补体系统中的主要成分，是体内具有酶原活性的球蛋白[34]。本试验条件下，饲料精氨酸水平对血清C4含量无显著影响，与廖英杰等[20]在团头鲂幼鱼上的研究结果一致。大量研究表明，鱼类能进行体液和细胞免疫应答，而免疫球蛋白是鱼类特异性体液免疫应答的主要介质[35]。本试验研究显示，精氨酸对黄颡鱼幼鱼血清IgM含量无显著影响。NO既是肿瘤免疫、微生物免疫的效应分子，又是多种免疫细胞的调节因子。在本试验中，随着饲料中精氨酸水平的升高，黄颡鱼幼鱼血清NO含量呈现先上升后下降的趋势，表明饲料中添加适量的精氨酸可以增强黄颡鱼幼鱼发免疫功能。炎症是常见的病理过程，可以生于机体各部位的组织和各器官，参与炎症反应的各种细胞因子主要有 IL-1β、IL-6和TNF-α等。Zheng等[36]研究发现，精氨酸可以降低断奶仔猪肝脏IL-6和TNF- $\mathbf { \nabla } \cdot \boldsymbol { a }$ 的mRNA表达量。Tan等[37]的研究显示，精氨酸可以降低肉鸡肠道IL-1β的mRNA表达量。本试验结果亦显示，饲料精氨酸水平的升高可以降低黄颡鱼幼鱼血清促炎因子IL-1β、IL-6的含量，表明精氨酸可以在一定程度上缓解黄颡鱼机体的炎症反应，与Holen等[38]在大西洋鲑上得出的结论一致。
+
+# 3.5饲料精氨酸水平对黄颡鱼幼鱼抗氧化能力的影响
+
+氧自由基反应和脂质过氧化反应是机体新陈代谢活动重要的组成部分，在正常状态下两者通过不断地协调以维持机体许多生理生化和免疫反应[39]。GSH-Px、CAT、SOD 和POD是生物体抗氧化防御系统重要的酶类，可以清除体内活性氧自由基，保护细胞膜及细胞内的核酸。脂质过氧化反应主要是指在氧自由基诱发下发生生物膜不饱和脂肪酸中的一系列自由基反应，是氧自由基诱导的主要有害变化之一。MDA的含量常常可反映机体内脂质过氧化的程度，间接反映细胞受损伤的程度[40-41]。饲料中精氨酸水平为 $2 . 6 4 \%$ 时黄颡鱼血清GSH-Px和CAT活性得到显著提高，说明适宜水平的精氨酸能够有效增强黄颡鱼鱼体的抗氧自由基能力。该结果与Wang等[42]在草鱼上的研究结果一致。精氨酸可以显著降低黄颡鱼血清MDA含量，有效缓解体内细胞因过氧化而损伤的程度[12]。本研究结果也显示，饲料中精氨酸水平为3.01%时黄颡鱼幼鱼血清MDA含量显著低于精氨酸水平为 $2 . 6 4 \%$ 时。强俊等[43]研究报道，鱼类通过增加代谢来应对环境胁迫，氧自由基的产生也随之增加，SOD与CAT活性的增加可视为生物体对新陈代谢的适应，以减轻脂质过氧化损伤。研究表明，饲料中精氨酸水平对大菱鲆[44]和石斑鱼[45]血清 SOD活性无显著影响。本试验结果与之相似，饲料中精氨酸水平对黄颡鱼幼鱼血清 SOD 活性无显著影响。但Buentello 等[46]和吴俊光等[47]的研究则分别表明饲料中精氨酸水平能显著提高斑点叉尾和杂交鲟血清 SOD活性。精氨酸对鱼体抗氧化能力的影响可能与饲料组成、精氨酸水平、物种间差异、养殖条件等有关。
+
+4结论
+
+饲料中适宜水平的精氨酸可提高黄颡鱼幼鱼的WGR，降低FCR，增强消化吸收能力、免疫功能和抗氧化能力。以黄颡鱼幼鱼的WGR和血清NO含量为评价指标，经二次回归模型分析得出黄颡鱼幼鱼对饲料中精氨酸的需求量分别为 $2 . 7 4 \%$ （占饲料蛋白质的 $6 . 4 5 \%$ ）和$2 . 9 4 \%$ （占饲料蛋白质的 $6 . 9 2 \%$ )°
+
+参考文献：
+
+[1] LIN H Z,TAN X H,ZHOU C P,et al.Effect of dietary arginine levels on the growth performance,feed utilization,non-specific immune response and disease resistance of juvenile golden pompano Trachinotus ovatus[J].Aquaculture,2015,437:382-389.   
+[2] LUO Z,LIU Y J,MAI K S,et al.Advance in researches on arginine requirement for fish:a review[J].水产学报,2004,28(4):450-459.   
+[3] YUE Y R,ZOU Z Y,ZHU J L,et al.Effects of dietary arginine on growth performance,feed utilization,haematological parameters and non-specific immune responses of juvenile Nile tilapia (Oreochromis niloticus L.)[J].Aquaculture Research,2015,46(8):1801-1809.   
+[4] POHLENZ C,BUENTELLO A,LE J HELLAND S,et al.Effects of dietary arginine supplementation on growth,protein optimization and innate immune response of channel catfish Ictalurus punctatus (Rafinesque 1818)[J].Aquaculture Research,2014,45(3):491-500.
+
+[5] LUO Z,LIU Y J,MAI K S,et al.Effects of dietary arginine levels on growth performance and body composition of juvenile grouper Epinephelus coioides[J].Journal of Applied Ichthyol0gy,2007,23(3):252-257.
+
+[6]CHENG Z Y,BUENTELLO A,GATLIN II D M.Effects of dietary arginine and glutamine on growth performance,immune responses and intestinal structure of red drum,Sciaenops ocellatus[J].Aquaculture,2011,319(1/2):247-252.   
+[7] OEHME M,GRAMMES F,TAKLE H,et al.Dietary supplementation of glutamate and arginine to Atlantic salmon (Salmo salar L.) increases growth during the first autumn in sea[J].Aquaculture,2010,310(1/2):156-163.   
+[8]李波,樊启学,张磊,等.不同溶氧水平下氨氮和亚硝酸盐对黄颡鱼的急性毒性研究[J].淡水 渔业,2009,39(2):31-35.   
+[9] 黄钧,杨淞,覃志彪,等.云斑、泥鳅和瓦氏黄颡鱼的含肉率及营养价值比较研究[J].水生 生物学报,2010,34(5):990-997.   
+[10] PAN J L,DING S Y,GE J C,et al.Development of cryopreservation for maintaining yellow catfish Pelteobagrus fulvidraco sperm[J].Aquaculture,2008,279(1/2/3/4):173-176.   
+[11] GAO C,YANG R B,HU W B,et al.Ontogeny of the stomach in yellow catfish (Pelteobagrus fulvidraco):detection and quantifictation of pepsinogen and $\mathrm { H ^ { + } / K ^ { + } }$ -ATPase gene expression[J].Journal of Animal Physiology and Animal Nutrition,2013,97(1):20-26.   
+[12] ZHOU Q C,JIN M,ELMADA Z C,et al.Growth,immune response and resistance to Aeromonas hydrophila of juvenile yellow catfish,Pelteobagrus fulvidraco,fed diets with different arginine levels[J].Aquaculture,2015,437:84-91.   
+[13]沈勇,邱其浚,孙龙生,等.饲料精氨酸/赖氨酸配比对黄颡鱼生长及消化性能的影响[J].水 产科学,2018,37(2):152-158.   
+[14]CHEN Q M,ZHAO H X,HUANG Y H,et al.Effects of dietary arginine levels on growth performance,body composition,serum biochemical indices and resistance ability against ammonia-nitrogen stress in juvenile yellow catfish (Pelteobagrus fulvidraco)[J].Animal Nutrition,2016,2(3):204-210.   
+[15] ZHAO H X.CAO J M.HUANG Y H.et al.Effects of dietarv nucleotides on
+
+growth,physiological parameters and antioxidant responses of juvenile yellow catfish Pelteobagrus fulvidraco[J].Aquaculture Research,2017,48(1):214-222.
+
+315 [16] 孙纪伟,齐遵利.β-葡聚糖对江黄颡鱼生长性能、血清生化指标的影响[J].河北渔   
+316 业,2017(3):1-4.   
+317 [17]AOAC.Official methods of analysis[S].14th ed.Washington,D.C.:Association of Official   
+318 Analytical Chemists,1984:152-163.   
+319 [18] REN M C,AI Q H,MAI K S.Dietary arginine requirement of juvenile cobia (Rachycentron   
+320 canadum)[J].Aquaculture Research,2014,45(2):225-233.   
+321 [19] BERGE G E,LIED E,SVEIER H.Nutrition of Atlantic salmon (Salmo salar):the   
+322 requirement and metabolism of arginine[J].Comparative Biochemistry and Physiology Part   
+323 A:Physiology,1997,117(4):501-509.   
+324 [20] 廖英杰,刘波,任鸣春,等.精氨酸对团头鲂幼鱼生长、血清游离精氨酸和赖氨酸、血液生   
+325 化及免疫指标的影响[J].中国水产科学,2014,21(3):549-559.   
+326 [21] ALAM M S,TESHIMA S I,KOSHIO S,et al.Arginine requirement of juvenile Japanese   
+327 flounderParalichthysolivaceusestimatedbygrowthandbiochemical   
+328 parameters[J].Aquaculture,2002,205(1/2):127-140.   
+329 [22] 孙翰昌,徐敬明,庞敏.饲料蛋白水平对瓦氏黄颡鱼消化酶活性的影响[J].水生态学杂   
+330 志,2010,3(2):84-88.   
+331 [23] 王际英,李宝山,张德瑞,等.饲料中添加精氨酸对仿刺参幼参生长、免疫能力及消化酶活   
+332 力的影响[J].水产学报,2015,39(3):410-419.   
+333 [24]CHEN G F,FENG L,KUANG S Y,et al.Effect of dietary arginine on growth,intestinal   
+334 enzyme activities and gene expression in muscle,hepatopancreas and intestine of juvenile   
+335 Jian carp (Cyprinus carpio var. Jian)[J].British Journal of Nutrition,2012,108(2):195-207.   
+336 [25] 王连生,吴俊光,徐奇友,等.饲料中精氨酸水平对杂交鲟幼鱼肠道消化酶活性及形态结   
+337 构的影响[J].大连水产学院学报,2017,32(1):51-55.   
+338 [26]黄瑾,熊邦喜,陈洁,等.鱼类消化酶活性及其影响因素的研究进展[J].湖南农业科   
+339 学,2011(5):29–131,141.   
+340 [27]米海峰,孙瑞健,张璐,等.鱼类肠道健康研究进展[J].中国饲料,2015(15):19-22.   
+341 [28] 宋霖,蔡春芳,叶元土,等.四种植物蛋白对黄颡鱼肠道形态结构的影响[J].淡水渔   
+342 业,2012,42(6):54-60.   
+343 [29] LALLES J P.Intestinal alkaline phosphatase:novel functions and protective   
+344 effects[J].Nutrition Reviews,2014,72(2):82-94.
+
+[30]张继平,林建成,谢进金,等.草鱼碱性磷酸酶的分离纯化与部分性质研究[J].厦门大学学报(自然科学版),2005,44(5):684-687.
+
+[31] KOVACS-NOLAN J,RUPA P,MATSUI T,et al.In vitro and ex vivo uptake of glutathione (GSH) across the intestinal epithelium and fate of oral GSH after in vivo supplementation[J].Journal of Agricultural and Food Chemistry,2014,62(39):9499-9506.   
+[32]ZHU L Y,NIE L,ZHU G,et al.Advances in research of fish immune-relevant genes:a comparative overview of innate and adaptive immunity in teleosts[J].Developmental & Comparative Immunology,2013,39(1/2):39-62.   
+[33] HOLLAND M C H,LAMBRIS JD.The complement system in teleosts[J].Fish & Shellfish Immunol0gy,2002,12(5):399-420.   
+[34]崔红红,刘波,戈贤平,等.肌醇对氨氮应激下团头鲂幼鱼免疫的影响[J].水产学 报,2014,38(2):228-236.   
+[35]张立颖,赵萌.鱼类免疫球蛋白的研究进展[J].水产科学,2009,28(11):701-705.   
+[36]ZHENG P,YU B,HE J,et al.Protective effects of dietary arginine supplementation against oxidative stress in weaned piglets[J].British Journal of Nutrition,2013,109(12):2253-2260.   
+[37] TAN J Z,APPLEGATE T J,LIU S S,et al.Supplemental dietary $L$ -arginine attenuates intestinal mucosal disruption during a coccidial vaccine challenge in broiler chickens[J].British Journal of Nutrition,2014,112(7):1098-1109.   
+[38] HOLEN E,ESPE M,ANDERSEN S M,et al.A co culture approach show that polyamine turnover is affected during inflammation in Atlantic salmon immune and liver cels and that arginine and LPS exerts opposite effects on p38MAPK signaling[J].Fish & Shelfish Immunology,2014,37(2):286-298.   
+[39]郭勤单,王有基,吕为群.温度和盐度对褐牙鲆幼鱼渗透生理及抗氧化水平的影响[J].水 生生物学报,2014,38(1):58-67.   
+[40] KONG X F,WU G Y,LIAO Y P,et al.Effects of Chinese herbal ultra-fine powder as a dietary additive on growth performance,serum metabolites and intestinal health in early-weaned piglets[J].Livestock Science,2007,108(1/2/3):272-275.   
+[41] 周艳玲,孙育平,黄燕华,等.饲料中添加谷胱甘肽对黄颡鱼幼鱼组织谷胱甘肽含量、免疫 及抗氧化性能的影响[J].水生生物学报,2018,42(4):728-735.   
+[42] WANG B,LIU Y,FENG L,et al.Effects of dietary arginine supplementation on growth performance,flesh quality,muscle antioxidant capacity and antioxidant-related signalling moleculeexpression in young grasscarp (Ctenopharyngodon idella)[J].Food Chemistry,2015,167:91-99.   
+[43] 强俊,徐跑,何杰,等.氨氮与拥挤胁迫对吉富品系尼罗罗非鱼幼鱼生长和肝脏抗氧化指 标的联合影响[J].水产学报,2011,35(12):1837-1848.   
+[44] LI Y,WANG Y J,WANG L,et al.Influence of several non-nutrient additives on nonspecific immunity and growth of juvenile turbot,Scophthalmus maximus L.[J].Aquaculture Nutrition,2008,14(5):387-395.   
+[45]ZHOU Q C,ZENG W P,WANG H L,et al.Dietary arginine requirement of juvenile yellow grouper Epinephelus awoara[J].Aquaculture,2012,350 - 353:175-182.   
+[46] BUENTELLO J A,REYES-BECERRIL M,DE JESUS ROMERO-GERALDO M,et al.Effects of dietary arginine on hematological parameters and innate immune function of channel catfish[J].Journal of Aquatic Animal Health,2007,19(3):195-203.   
+[47]吴俊光,王连生,王常安,等.饲料中精氨酸水平对杂交鲟幼鱼抗氧化能力及血清生化指 标的影响[J].大连海洋大学学报,2016,31(3):272-279.   
+Effects of Dietary Arginine Level on Digestive and Absorptive Related Indexes, Immune Function and Antioxidant Ability of Juvenile Yellow Catfish (Pelteobagrus fulvidraco) ZHAO Hongxia1,2.3 CHEN Qiming1,2.3HUANG Yanhua1,2,3CAO Junming1,2,3\* WANG Guoxia1.2.3CHEN Bing1,2.3CHEN Xiaoying1.,23 (1. Institute of Animal Science, Guangdong Academy ofAgricultural Sciences, Guangzhou 510640, China; 2. Guangdong Public Laboratory of Animal Breeding and Nutrition, Guangzhou 510640, China; 3. Guangdong Key Laboratory of Animal Breeding and Nutrition, Guangzhou 510640, China)   
+Abstract: This experiment was conducted to investigate the effects of dietary arginine level on   
+digestive and absorptive related indexes, immune function and antioxidant ability of juvenile
+
+yellow catfish (Pelteobagrus fulvidraco). Five isonitrogenous and isolipidic diets ( $42 \%$ protein and $9 \%$ lipid) were formulated to contain graded levels of arginine ( $2 . 4 4 \%$ $2 . 6 4 \%$ $2 . 8 1 \%$ ， $3 . 0 1 \%$ and $3 . 2 3 \%$ of diet, respectively). Seven hundred juvenile yellow catfish with an initial average body weight of $( 1 . 1 3 { \pm } 0 . 0 2 ) \$ g were randomly divided into 5 groups with 4 replicates of 35 fish each and each group was fed with one of the diets. The experiment lasted for 56 days. The results showed as follows: 1) the weight gain rate (WGR) of juvenile yellow catfish in $2 . 6 4 \%$ and $2 . 8 1 \%$ groups was significantly higher than that in $3 . 2 3 \%$ group $( P { < } 0 . 0 5 )$ . The feed conversion ratio (FCR) of juvenile yellow catfish in $2 . 6 4 \%$ ， $2 . 8 1 \%$ and $3 . 0 1 \%$ groups was significantly decreased when compared with $3 . 2 3 \%$ group $( P { < } 0 . 0 5 )$ . 2) There were significantly higher activities of stomach protease and amylase in $3 . 0 1 \%$ group than those in $2 . 4 4 \%$ group $( P { < } 0 . 0 5 )$ , and there was significantly higher activity of stomach lipase in $2 . 8 1 \%$ and $3 . 0 1 \%$ groups than that in other groups $( P { < } 0 . 0 5 )$ . The activity of liver amylase in $2 . 6 4 \%$ ， $2 . 8 1 \%$ and $3 . 2 3 \%$ groups was significantly higher than that in $2 . 4 4 \%$ group $( P { < } 0 . 0 5 )$ . The activity of intestinal alkaline phosphatase (AKP) in $2 . 6 4 \%$ $2 . 8 1 \%$ $3 . 0 1 \%$ and $3 . 2 3 \%$ groups was significantly higher than that in $2 . 4 4 \%$ group $( P { < } 0 . 0 5 )$ . The activity of intestinal $\gamma$ glutamyl transferase ( $\gamma$ GT) in $2 . 6 4 \%$ and $2 . 8 1 \%$ groups was significantly higher than that in $2 . 4 4 \%$ ， $3 . 0 1 \%$ and $3 . 2 3 \%$ groups $( P { < } 0 . 0 5 )$ . 3) Serum nitric oxide (NO) content in $2 . 8 1 \%$ and $3 . 0 1 \%$ groups was significantly higher than that in $2 . 4 4 \%$ group $( P { < } 0 . 0 5 )$ . There was significantly lower content of serum interleukin- $1 \beta$ (IL-1β) in $2 . 6 4 \%$ ， $2 . 8 1 \%$ ， $3 . 0 1 \%$ and $3 . 2 3 \%$ groups than that in $2 . 4 4 \%$ group $( P { < } 0 . 0 5 )$ ， and there was significantly lower content of serum interleukin-6 (IL-6) in $2 . 8 1 \%$ group than that in $2 . 4 4 \%$ and $2 . 6 4 \%$ groups $( P { < } 0 . 0 5 )$ . 4) The serum glutathion peroxidase (GSH- $\mathrm { \cdot P x }$ ） and catalase (CAT) activities in $2 . 6 4 \%$ group were significantly higher than those in $2 . 4 4 \%$ group $( P { < } 0 . 0 5 )$ . The serum malondialdehyde (MDA） content in $3 . 0 1 \%$ group was significantly lower than that in $2 . 6 4 \%$ group $( P { < } 0 . 0 5 )$ . In conclusion, optimal dietary arginine levels can increase the WGR, decrease FCR， and enhance the digestion and absorption capacity， immune function and antioxidant ability of juvenile yellow catfish. A quadratic regression analysis on WGR or serum
+
+NO content against dietary arginine level indicate that dietary arginine requirement of juvenile yellow catfish is estimated to be $2 . 7 4 \%$ or $2 . 9 4 \%$ of diet ( $6 . 4 5 \%$ or 6.92 of dietary protein). Key words: yellow catfish (Pelteobagrus fulvidraco ） ; arginine; digestion and absorption; immune; antioxidant

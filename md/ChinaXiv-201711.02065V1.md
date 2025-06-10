@@ -1,0 +1,182 @@
+段然，汤月丰，王亚男，王伟政，白玲玉，吴翠霞，文炯2，曾希柏.不同施肥方法对双季稻区水稻产量及氮素流失的影响  
+研究[J].中国生态农业学报,2017,DOI:10.13930/j.cnki.cjea.170420  
+DuanR,TangYF,WangYN,WangWZ,BaiLY,WuCX,WenJ,ZengXB.Effctsofdifferentfertilization modesonice yielc  
+andnitrogen loss inpaddysoilsunder doublecroppingrice[J].Chinese Journal of Eco-Agriculture，2017,DOI  
+10.13930/j.cnki.cjea.170420
+
+# 不同施肥方法对双季稻区水稻产量及氮素流失的影响研究
+
+段然'，汤月丰²，王亚男¹，王伟政²，白玲玉¹，吴翠霞¹，文炯²，曾希柏1\*\*(1．中国农业科学院农业环境与可持续发展研究所/农业部农业环境与气候变化重点开放实验室北京100081;
+
+2．岳阳市农业科学研究所 岳阳414000)
+
+摘要：为保障粮食安全，减少稻田生态系统氮肥投入，提高氮肥利用率和减少氮素流失成为重要的农业和环境措施。本研究在位于湖南岳阳的农业部岳阳农业环境科学观测实验站开展为期1年的早稻、晚稻田间试验，比较了不施肥(T1)、尿素常规施肥(T2，施 $\mathrm { N } 2 8 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ ， $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 6 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ ， $\mathrm { K } _ { 2 } \mathrm { O } ~ 1 2 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } ,$ 、控释肥常规施用(T3，施 $\mathrm { ~ N ~ } 2 3 0 \mathrm { ~ k g } { \cdot } \mathrm { h m } ^ { 2 }$ 、 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 6 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ 、$\mathrm { K } _ { 2 } \mathrm { O } \ 1 2 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } ,$ 、高量控释肥侧条施用(T4，施 $\mathrm { ~ N ~ } 2 3 0 \mathrm { ~ k g } { \cdot } \mathrm { h m } ^ { 2 }$ 、 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 3 8 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ 、 $\mathrm { K _ { 2 } O } ~ 1 2 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } ,$ 、中量控释肥侧条施用(T5,施 $\mathrm { ~ N ~ } 1 8 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ ， $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 2 3 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ 、 $\mathrm { K } _ { 2 } \mathrm { O } ~ 1 2 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } )$ 及低量控释肥侧条施用(T6，施 $\mathrm { ~ N ~ } 1 4 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ 、 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 2 3 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ ， $\mathrm { K } _ { 2 } \mathrm { O }$ 120$\mathrm { k g \cdot h m } ^ { 2 } ,$ 下氮肥的养分利用率、作物产量及氮素流失情况，以期为稻田氮素合理利用提供理论依据。研究结果表明，控释肥侧条施用可有效提高水稻的产量及其构成要素，提高氮肥利用率和减少面源流失。1)在减少稻田秧苗数量和氮肥施用量的条件下,T4处理的水稻早晚稻产量分别比T2处理增加 $1 3 . 1 7 \%$ 和 $4 . 7 2 \%$ ，与T3处理相比亦分别增加 $7 . 2 7 \%$ 和 $1 . 7 4 \%$ ；2)侧条施肥处理有效降低了稻田氮素流失量,年氮流失量为 $0 . 4 6 6 { \sim } 0 . 6 7 3 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { 2 }$ ，比常规施肥处理降低地表径流氮流失量 $3 . 5 4 \% { \sim } 2 9 . 3 6 \%$ ;3)侧条施肥有效提高了氮肥利用率,T4处理的氮肥利用率分别是T2、T3处理的1.70倍和1.22倍。因此，采用合适的施肥方式、配施适量控释氮肥可获得较高的产值和收益。高量控释肥侧条施用(T4)是本研究区域最佳的施肥模式，对实现现代化农业生产的高产高效、资源节约和生态环境保护具有重要意义。
+
+关键词：水稻；控释肥；侧条施肥；氮肥利用率；氮流失；面源损失率；洞庭湖中图分类号：S511;S606 文献标识码：A
+
+# Effects of different fertilization modes on rice yield and nitrogen loss in paddy soils under double cropping rice"
+
+DUAN Ran',TANG Yuefeng2, WANG Yanan1, WANG Weizheng2,BAI Lingyu, WU Cuixia', WEN Jiong2, ZENG Xibail\*\* (1.Institute ofAgricultural Environmentand Sustainable Development, Chinese Academyof Agricultural Sciences /Key LaboratoryofAgricultural Environment,MinistryofAgriculture,Beijing 10oo81,China; 2.Yueyang Agricultural Sciences
+
+Institute,Yueyang 414000,China)
+
+Abstract:Toensurefoodsecuritytherehasbeenanextravagantuseofnitrogen (N)fertilizerinpaddyfields.Both theincrease inN fertilizereffciencyandreduceinNloss inpaddysoilsareimportant inagriculturalmanagementandenvironmentalprotection.Here, weinvestigatedtheeffctsof sidebarfertilizationonpaddyyields,NuseeficiencyandNlossinpaddysoilsandto provide reference for improvement of rice $\mathrm { \Delta N }$ utilization. Six fertilization treatments were used in the study 一 control (T1),common fertilizers with conventional fertilization method(T $2 , \mathrm { N } \ 2 8 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } \ 1 6 5 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ + $\mathrm { K } _ { 2 } \mathrm { O } ~ 1 2 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } )$ ，slow-release fertilizer with conventional fertilization method ( $\mathrm { T } 3 , \mathrm { N } 2 3 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 6 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ $\mathrm { K } _ { 2 } \mathrm { O } ~ 1 2 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } )$ , high slow-release fertilizer plus side bar application (T4, $2 3 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 3 8 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ $\mathrm { K } _ { 2 } \mathrm { O } ~ 1 2 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } ,$ , medium slow-release fertilizer plus side bar application (T5, $\textrm { N } 1 8 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ $\mathrm { \Delta } _ { 2 } \mathrm { O } _ { 5 } \ 1 2 3 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ $\mathrm { K } _ { 2 } \mathrm { O } \ 1 2 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } )$ and low slow-release fertilizer plus side bar application $( \mathrm { T 6 } , \mathrm { N } ~ 1 4 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ ， $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } \ 1 2 3 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ $\mathrm { K } _ { 2 } \mathrm { O } \ 1 2 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } ,$ ). The study was done in one cropping calendar at the Agricultural Environmental Sciences Observation Station in Yueyang City,Hunan Province,China.Theresultsshowed thatcombined aplication of slowrelease N fertilizer and side bar application method increased rice yield,promoted N utilization rate and reduced $\mathrm { ~ N ~ }$ loss in paddy fields. Particularly for T4, yields of both early and late rice in T4 increased respectively by $1 3 . 1 7 \%$ and $4 . 7 2 \%$ , and decreased rice planting density and applied $\mathrm { \Delta N }$ amount,compared with T2.The yields of both early and late rice under T4 treatment were $7 . 2 7 \%$ and $1 . 7 4 \%$ higher,respectively, than that of T3 treatment. $3 . 5 4 \% - 2 9 . 3 6 \%$ ； Side bar fertilization significantly reduced N loss due to surface runoff decreasing by $3 . 5 4 \% - 2 9 . 3 6 \%$ ,compared with T2 treatment.An annual amount of N loss was $0 . 4 6 6 { - } 0 . 6 7 3 \mathrm { \ k g ( N ) } { \cdot } \mathrm { h m } ^ { 2 }$ under sidebarfertilization.SidebarfertilizationsignificantlyincreasedNuseeffciency.NuseeffciencyunderT4treatmentwas1.70and 1.22 times thatofT2andTtreatments,respectively.Highsow-releasefertilizerplussidebarapplicationwas thebestfertilation modeinthe studyarea.Ourresults werebeneficialfrimprovingproductivityeficiencyinagricultural,esourcesandenvioental protection.
+
+Keywords:Rice;Slowrelease fertilizer;Sidebarfertilization;Nitrogenuseeficiency;Nitrogenloss；Surfacesourcelossrate; Dongting Lake
+
+农业面源污染是导致水体污染的最主要原因之一，全世界 $60 \%$ 以上的地表水环境问题是由农业活动引起的[1]。双季稻区 $( 2 8 ^ { \circ } 4 4 ^ { \prime } { \sim } 2 9 ^ { \circ } 3 5 ^ { \prime } \mathrm { N }$ ， $1 1 1 ^ { \circ } 5 3 ^ { \prime } { \sim } 1 1 3 ^ { \circ } 2 8 ^ { \prime } \mathrm { E } )$ 粮食产量(水稻为主)占湖南省粮食总产量的 $30 \%$ 。近些年，由于氮肥的过量和不合理施用导致湖区发生面源污染并引发水体富营养化现象日益突出[2]。南方水稻区超量施氮的农户比例高达 $6 0 \% { \sim } 9 0 \% ^ { [ 3 ] }$ ，利用 $^ { 1 5 } \mathrm { N }$ 标记氮肥的研究结果表明，稻田氮肥的损失率多达$3 0 \% { \sim } 7 0 \% ^ { [ 4 ] }$ 。高密度、高强度的农业生产不仅降低了养分利用效率和施肥效益，同时提高了径流水中养分含量，进而影响下游水域生态，造成水质下降、水体恶化。因此，减少氮素从源头上进入水体，做到源头控制，是控制农业面源污染的关键。洞庭湖区研究表明以相当数量的有机肥代替化肥可以减少氮肥流失，且水稻产量不受显著影响[5。同样，太湖区域稻田研究表明适当减少氮肥投入不会减少水稻产量，却可以显著提高氮肥利用率和氮素损失[。缓控释肥料由于其利用率高、肥效好，成为解决上述问题的有效途径之一。目前国内外许多学者致力于控释氮肥的应用研究和推广。研究结果表明缓释尿素施用可增加根区氮素含量并且提高水稻叶片谷氨酰胺合成酶、谷氨酰胺 $\mathfrak { a }$ -酮戊二酸转移酶和硝酸还原酶活性。同样的施氮水平，施用缓释尿素比常规尿素的氮素利用率高 $20 \%$ 以上，且在减 $30 \%$ 施用量条件下产量仍比施常规尿素高$3 \% { \sim } 5 . 9 \% ^ { [ 7 ] }$ 。郑磊等[8研究结果表明，适量硫膜可改善土壤Ca、 $\mathbf { M g }$ 的活化程度，提高水稻氮素吸收利用率,增加水稻产量。纪雄辉等9采用 $^ { 1 5 } \mathrm { N }$ 标记技术，研究控释氮肥在早稻种植期间氮素利用率和硝态氮的淋溶损失情况发现，一次性全量作基肥施用控释氮肥与尿素分二次施用相比，稻谷产量提高 $7 . 0 \%$ 以上，控释氮肥氮利用率比纯尿素施用高 $3 5 . 9 \%$ ，硝氮损失的氮素降低 $2 7 . 1 \%$ 。此外， $\mathrm { \Delta X u }$ 等[10发现稻田氮肥在控释肥配合浇水非漫灌的水分管理方式下通过氨挥发的损失为 $2 3 . 7 3 \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { 2 }$ ，要显著低于淹水稻田和传统施肥处理。
+
+在控释肥施用方式上，当前一般采用传统施肥技术撒施或均匀深施，尽管控释肥可以随着作物需求而缓慢释放，但在空间上却无法实现集约化利用。侧条施肥技术是一套包括育秧、插秧前准备、插秧和施肥及栽后管理等技术规程的综合性施肥管理措施[1]，其核心要点是利用机械化操作，合理控制栽培密度，并将缓释肥料施于秧苗侧 $3 { \mathord { \sim } } 4 ~ { \mathrm { c m } }$ ，深度为 $3 { \sim } 5 ~ \mathrm { c m }$ 。由于该技术的促产保肥优势明显，湖南、宁夏和黑龙江等地正进行大面积试点和推广。刘汝亮等[12]在宁夏一季水稻引黄灌区研究表明，侧条施肥技术显著提高了水稻地上部吸氮量和氮肥偏生产力，降低了氮素的表观损失量。目前，通过水稻侧条施肥技术实现控释肥料施用及其对水稻产量、肥料利用率、土壤养分田间径流损失等的影响仍研究较少，特别是该项技术在与我国重要湖区毗邻的水稻主产区的应用研究明显不足。本研究针对洞庭湖区水稻生产中的氮盈余问题，以双季稻种植为基础，通过水稻侧条施肥技术开展田间小区试验，探讨常规种植模式下不同肥料侧条施肥技术对作物产量、肥料利用率、土壤养分以及田间径流液的影响，以期为该区作物合理施肥、区域农业面源污染的防控和洞庭湖区水环境的保护提供科学依据和技术支撑。
+
+# 1材料与方法
+
+# 1.1 试验区概况
+
+试验地点位于农业部岳阳农业环境科学观测试验站( $1 1 2 ^ { \circ } 4 4 ^ { \prime } 1 4 ^ { \prime \prime } \mathrm { E }$ ， $2 8 ^ { \circ } 5 7 ^ { \prime } 1 1 ^ { \prime \prime } \mathrm { N } \rangle$ ，属亚热带地区，气候温暖温润，光照充足，雨量适度，年均气温 $1 7 ^ { \circ } \mathrm { C }$ ，年均降雨量 $1 \ 4 0 0 \ \mathrm { m m }$ ，年日照时数 $1 7 2 2 . 1 { \sim } 1 8 1 6 \mathrm { h }$ 。试验地土壤为洞庭湖沉积物发育的潮土，土壤质地为黏壤, $\mathsf { p H } 5 . 6 7$ ，有机质 $3 6 . 3 ~ \mathrm { g { \cdot k g } ^ { 1 } }$ ，全氮 $1 . 4 ~ \mathrm { g { \cdot k g ^ { - 1 } } }$ ，全磷0.6$\mathbf { g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 }$ ，有效钾 $9 8 \ \mathrm { m g { \cdot k g ^ { - 1 } } }$ 。
+
+# 1.2 试验内容与方法
+
+# 1.2.1 试验设计
+
+根据所在地区当前常规施肥方法，田间小区试验设以下处理：1)不施肥料，T1；2)常规施肥，T2；3)施用控释肥,T3;4)高量控释肥侧条施肥,T4;5)中量控释肥侧条施肥,T5;6)低量控释肥侧条施肥,T6。各处理具体施肥量见表1。控释肥料由山东施可丰化工有限公司生产，含 $\mathrm { ~ N ~ } 1 5 . 0 \%$ 、 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 5 . 0 \%$ 、 $\mathrm { K } _ { 2 } \mathrm { O } \ 1 5 . 0 \%$ 。农民常规施肥处理氮素用尿素 $( \mathrm { N } , 4 6 \% )$ ，磷肥用钙镁磷肥 $( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } , 1 4 \% )$ ，钾肥用氯化钾 $( \mathrm { K } _ { 2 } \mathrm { O } , 6 0 \% )$ 。控释肥料全部作为基肥在插秧时一次施入土壤。T3处理在整田时做基肥施入；T4、T5和T6处理侧条施肥使用日本生产的Minoru牌4轮4排型插秧施肥机作业，播秧时施入，施肥深度 $5 \ \mathrm { c m }$ ，肥料距离植株根系 $5 \ \mathrm { c m }$ ，植株行距33cm，植株株距 $1 4 \mathrm { c m }$ ；常规施肥处理 $80 \%$ 的氮素肥料和全部磷钾肥料在整田时做基肥施入，剩余 $20 \%$ 氮肥在水稻分蘖期(早稻5月10日，晚稻8月6日)追肥以面状撒施施入。
+
+供试水稻品种早稻为‘岳优27'，晚稻为‘岳优9113’。早稻试验3月30日开始育秧,4月30日插秧，7月20日收获；晚稻6月28日育秧,7月25日插秧,10月27日收获。T1、T2和T3处理早稻株行距为 $1 6 \mathrm { c m } { \times } 2 0 \mathrm { c m }$ ，晚稻株行距为 $2 0 \thinspace \mathrm { c m } { \times } 2 5 \thinspace \mathrm { c m }$ ；T4、T5和T6处理早稻株行距为 $1 2 \mathrm { c m } { \times } 3 3 \mathrm { c m }$ ，晚稻株行距为 $1 4 \mathrm { c m } { \times } 3 3 \mathrm { c m }$ 。试验小区长$1 5 \mathrm { m }$ ，宽 $5 . 2 ~ \mathrm { m }$ （施肥机宽度 $1 . 3 ~ \mathrm { m } ^ { \times 4 }$ 列 $\lvert = 5 . 2 \ \mathrm { m } \$ ，面积 $7 8 ~ \mathrm { m } ^ { 2 }$ 。所有小区水稻种植前用双层塑料膜隔离，地下埋深 $3 0 \mathrm { c m }$ ，地面田埂高 $3 0 \mathrm { c m }$ ，以减少小区间的侧渗和串流。每个小区都设有单独的排水口和灌水口，单排单灌，每个处理重复3次，小区随机区组排列(表1)。
+
+表1不同处理的肥料种类、施用方法和施肥量  
+
+<html><body><table><tr><td></td><td colspan="2">处理Treatment</td><td colspan="3">早稻 Early rice</td><td colspan="3">晚稻 Late rice</td><td colspan="3">合计Total</td></tr><tr><td>代码 Code</td><td>肥料种类 Fertilizer type</td><td>施用方法 application method</td><td>N</td><td>P2O5</td><td>KO</td><td>N</td><td>P2O5</td><td>KO</td><td>N</td><td>P2O5</td><td>KO</td></tr><tr><td>T1</td><td>不施肥Control 尿素、钙镁磷肥、</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 280</td><td>0 165</td><td>0 120</td></tr><tr><td>T2</td><td>氯化钾Urea, calcium magnesium phosphate, chloride of potash</td><td>常规方法 Conventional method</td><td>130</td><td>90</td><td>60</td><td>150</td><td>75</td><td>60</td><td></td><td></td><td></td></tr><tr><td>T3</td><td>控释肥</td><td>常规方法 Conventional method</td><td>110</td><td>90</td><td>60</td><td>120</td><td>75</td><td>60</td><td>230</td><td>165</td><td>120</td></tr><tr><td>T4</td><td>Slow release</td><td>高量+侧条施肥 High rate + side bar application</td><td>110</td><td>63</td><td>60</td><td>120</td><td>75</td><td>60</td><td>230</td><td>138</td><td>120</td></tr><tr><td>T5</td><td>fertilizer</td><td>中量+侧条施肥 Medium rate + side bar application</td><td>90</td><td>63</td><td>60</td><td>90</td><td>60</td><td>60</td><td>180</td><td>123</td><td>120</td></tr><tr><td>T6</td><td></td><td>低量+侧条施肥 Low rate+ side bar application</td><td>70</td><td>63</td><td>60</td><td>70</td><td>60</td><td>60</td><td>140</td><td>123</td><td>120</td></tr></table></body></html>
+
+# 1.2.2试验观测指标及测定方法
+
+水稻生育期内(不包括晒田期间)以导致田面水高度发生变化的降水为有效降水。采集田间蓄水样品.每小区用小勺以梅花形随机取5点，共 $1 0 0 0 ~ \mathrm { { m L } }$ 存入矿泉水瓶中。所取样品迅速放入冰箱 $( 5 ^ { \circ } \mathrm { C }$ 以下)中冷藏保存。每季作物收获后，各小区作物均单独收获、拷种并测定产量，成熟植株样品分地上部营养体和籽粒两部分统计产量；植株地上部在 $1 0 5 ^ { \mathrm { ~ \circ ~ } } \mathrm { C }$ 下杀青 $3 0 \mathrm { m i n }$ ， $7 0 ^ { \circ } \mathrm { C }$ 下烘干至恒重。同时，取各小区以梅花型采样法采集5个点的 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土壤样品，混匀后取部分鲜样分析其中硝态氮含量，剩余 $0 . 5 \mathrm { k g }$ 左右土壤经风干、磨细过2mm筛后保存。在整个生长季，共成功获取有径流降雨5次。土壤硝态氮采用1mol·L-KCI溶液浸提，用双波长紫外吸光度校正法测定；分别采用半微量凯氏法与 $\mathrm { H C l O } _ { 4 } { \mathrm { - H } } _ { 2 } \mathrm { S O } _ { 4 }$ 消化-钼锑抗比色法测定土壤全量氮、磷含量；水样全氮采用过硫酸钾氧化-紫外分光光度法测定，全磷采用过硫酸钾氧化-钼蓝比色法测定[13]。
+
+# 1.3 数据计算与统计分析
+
+稻谷产量以风干籽粒产量计算，含水量为 $1 3 \%$ ；流失的氮量等于整个监测周期中各次径流水中污染物浓度与径流水(或淋溶水)体积乘积之和。文中径流总量为全年有效降水时流失量总和。计算公式如下:
+
+$$
+P { = } \sum _ { i = 1 } ^ { \infty } C _ { i } V _ { i }
+$$
+
+式中， $P$ 为污染物流失量， $C _ { i }$ 为第 $i$ 次径流(或淋溶)水中氮、磷浓度， $V _ { i }$ 为第次径流水体积。
+
+肥料吸收量 $\scriptstyle \cdot =$ 植株籽粒中含量 $\cdot +$ 植株秸秆含量 (2)肥料利用率 $\scriptstyle . =$ (施肥区吸收量-空白区吸收量)/施肥量 (3)所测数据用SPSS13.0软件进行多重比较检验。
+
+# 2结果与分析
+
+# 2.1不同施肥处理水稻产量的变化
+
+从不同施肥处理对水稻稻谷产量影响的结果看(图1)：施肥均促进了水稻产量的提高，虽然从统计的结果来看，同样施肥量处理(T3和T4)早晚水稻产量之间差异不显著，但控释肥减氮 $1 8 \%$ 、侧条施肥的T5处理与控释肥未减量、常规施肥的T3处理差异不显著，说明侧条施肥技术在减少氮肥施用的情况下可以保证水稻的产量。此外，就平均产量而言，在早稻季,T4处理比T3处理高 $7 . 2 8 \%$ ，在晚稻季,T4处理比T3处理高 $1 . 7 5 \%$ 。而相对于尿素常规施肥处理(T2)，利用侧条施肥技术，在每公顷减少 $4 0 \mathrm { k g }$ 控释肥施用量(T6)的情况下，仍然可以保持水稻产量，早稻( $\phantom { 0 } { 5 } 3 5 6 . 9 4 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } ,$ 和晚稻 $( 7 ~ 0 7 3 . 3 9 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } )$ 产量无显著变化。
+
+![](images/fa7ea47d67b64c7e41db588c4735ed7a543847ececbb08830f822d372939dca0.jpg)  
+图1不同施肥处理对水稻产量的影响  
+Fig.1Effects of different fertilization treatments on rice output
+
+水稻产量构成主要受单株穗数、穗粒数及千粒重影响。由于采用侧条施肥方式的水稻种植密度低于常规处理，因此有效穗数也低于T2与T3(表2)，农民习惯种植的处理T3的水稻最后成穗数最高，在早晚稻季分别达326.1 个 $\cdot \mathrm { m } ^ { 2 }$ 、315.9个 $\cdot \mathrm { m } ^ { 2 }$ ，远高于侧条施肥的3个处理；但采用侧条施肥处理的穗粒数均高于T3，千粒重也略有提高，这种差异弥补了有效穗数低的不足，使得侧条施肥处理在产量构成上与常规施肥达到了平衡。T2与T3处理各产量构成要素指标无显著差异。
+
+Table 2 Effects of different fertilization treatments on the component of rice   
+
+<html><body><table><tr><td rowspan="4">稻季 Rice season 早稻 Early</td><td>处理</td><td>株高</td><td>穗长</td><td>有效穗数</td><td>穗粒数</td><td>千粒重</td></tr><tr><td>Treatment</td><td>Plant height (cm)</td><td>Ear length (cm)</td><td>Ears (×104-hm-2)</td><td>Grains number per ear</td><td>1000-grain weight (g)</td></tr><tr><td>T1</td><td>78.5±1.2b</td><td>14.0±0.5b</td><td>268.9±7.9b</td><td>67.5±6.5c</td><td>25.2±1.1a</td></tr><tr><td>T2</td><td>91.4±2.9a</td><td>15.7±2.5ab</td><td>303.8±7.5a</td><td>83.5±7.1b</td><td>25.3±0.5a</td></tr><tr><td rowspan="5">rice</td><td>T3</td><td>94.7±5.0a</td><td>15.8±2.3ab</td><td>326.1±15.0a</td><td>80.1±4.0b</td><td>25.5±0.6a</td></tr><tr><td>T4</td><td>93.9±3.4a</td><td>16.5±0.7a</td><td>260.3±15.2b</td><td>107.7±10.2a</td><td>26.4±1.0a</td></tr><tr><td>T5</td><td>92.1±4.1a</td><td>16.3±1.0a</td><td>260.5±10.3b</td><td>99.6±8.0a</td><td>26.4±1.4a</td></tr><tr><td>T6</td><td>89.4±2.5a</td><td>15.5±2.2ab</td><td>264.9±9.2b</td><td>84.4±5.3b</td><td>25.6±0.9a</td></tr><tr><td>T1</td><td>80.4±3.2b</td><td>13.5±0.8b</td><td>249.3±5.7c</td><td>72.8±9.2c</td><td>25.0±1.6a</td></tr><tr><td rowspan="5">晚稻 Late rice</td><td>T2</td><td>93.6±4.3a</td><td>14.9±0.2a</td><td>324.0±10.0a</td><td>94.9±17.9b</td><td>26.2±1.5a</td></tr><tr><td>T3</td><td>92.5±6.0a</td><td>15.2±0.6a</td><td>315.9±8.5a</td><td>103.7±10.2b</td><td>26.5±1.2a</td></tr><tr><td>T4</td><td>99.1±4.5a</td><td>15.7±1.0a</td><td>285.1±8.6b</td><td>125.6±2.3a</td><td>26.8±2.1a</td></tr><tr><td>T5</td><td>90.3±5.2a</td><td>15.5±1.1a</td><td>282.5±3.2b</td><td>118.1±1.9b</td><td>27.3±2.5a</td></tr><tr><td>T6</td><td>92.7±3.6a</td><td>15.4±0.9a</td><td>274.34±6.5b</td><td>115.3±3.6b</td><td>26.6±0.9a</td></tr></table></body></html>
+
+不同小写字母表示在 0.05 水平差异显著。Different lowercase letters mean significant difference at $5 \%$ level.
+
+# 2.2不同施肥处理对水稻土氮素含量的影响
+
+表 3 结果表明：不同施肥处理对土壤总氮影响不显著，但均显著高于不施肥处理，且早晚稻之间差异不显著。对土壤硝态氮和铵态氮的影响与季节和施肥处理有关，早稻水稻土样品硝态氮和铵态氮含量均以T4为最高，与侧条施肥的另外两个处理T5和T6差异显著，但与两常规施肥处理T2和T3的差异不显著。而对于晚稻水稻土样品,T4 处理的硝态氮含量显著高于T2和T3处理。除T1和T5 处理外，早稻土壤样品硝态氮含量均显著高于晚稻，而所有处理土壤铵态氮含量均为早稻高于晚稻。晚稻铵态氮含量最高只有$1 . 7 1 \ \mathrm { m g \cdot k g ^ { - 1 } ( T 5 ) }$ ，而早稻水稻土最高铵态氮含量是其8.14 倍(T4)。
+
+表2不同施肥处理对水稻产量构成因素的影响  
+表3不同施肥处理对水稻土氮素含量影响分析  
+Table 3 Effects of different fertilization treatments on the nitrogen content of paddy soil   
+
+<html><body><table><tr><td rowspan="3">处理 Treatment</td><td colspan="3">早稻Early rice</td><td colspan="3">晚稻Late rice</td></tr><tr><td>总氮</td><td>硝态氮</td><td>铵态氮</td><td>总氮</td><td>硝态氮</td><td>铵态氮</td></tr><tr><td>Total nitrogen</td><td>NO3-N</td><td>NH4+-N</td><td>Total nitrogen</td><td>NO3--N</td><td>NH4+-N</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>(g·kg-1)</td><td>(mg.kg1)</td><td>(mg:kg-1)</td><td>(g:kg-1)</td><td>(mg-kg1)</td><td>(mg·kg1)</td></tr><tr><td>T1</td><td>10.13±0.71b</td><td>9.57±0.88bc</td><td>9.73±2.48abc</td><td>9.50±0.70a</td><td>8.80±0.70ab</td><td>1.22±0.39a</td></tr><tr><td>T2</td><td>14.02±3.11a</td><td>12.26±3.29abc</td><td>10.88±3.30abc</td><td>12.04±0.31a</td><td>6.47±0.77bc</td><td>1.08±0.33a</td></tr><tr><td>T3</td><td>15.72±1.70a</td><td>13.04±4.39ab</td><td>12.48±2.26ab</td><td>11.03±2.62a</td><td>6.21±0.80c</td><td>1.01±0.22a</td></tr><tr><td>T4</td><td>15.70±0.92a</td><td>17.93±3.47a</td><td>13.92±1.39a</td><td>11.14±1.41a</td><td>9.32±2.12a</td><td>1.17±0.19a</td></tr><tr><td>T5</td><td>12.91±0.80ab</td><td>6.41±4.71c</td><td>7.95±2.12c</td><td>9.62±0.70a</td><td>9.55±1.87a</td><td>1.71±0.46a</td></tr><tr><td>T6</td><td>13.83±1.51a</td><td>9.72±0.55bc</td><td>9.04±0.71bc</td><td>11.40±1.03a</td><td>7.26±0.41abc</td><td>1.47±0.47a</td></tr></table></body></html>
+
+不同小写字母表示在0.05 水平差异显著。Different lowercase letters mean significant difference at $5 \%$ level.
+
+# 2.3不同施肥处理肥料氮素的面源损失率
+
+综合分析来看，不同施肥处理均伴随着氮素从土壤转移到水体造成的损失(图2)，而侧条施肥技术在减少氮素损失方面显著优于普通常规施肥和控释肥常规施肥。氮素的主要释放发生在施肥之后 $2 0 \mathrm { d }$ 内。以释放比例计算，早稻总氮前 20d 释放占整个生长期的比例范围为 $6 6 . 4 4 \% ( \mathrm { T 6 } ) { \sim } 8 4 . 2 0 \% ( \mathrm { T } 2 )$ ，铵态氮为$7 0 . 5 6 \% ( \mathrm { T 6 } ) { \sim } 8 2 . 8 4 \% ( \mathrm { T } 2 )$ ，硝态氮为 $8 1 . 2 7 \% ( \mathrm { T 5 } ) { \sim } 8 7 . 3 0 \% ( \mathrm { T 3 } )$ ，有机氮为 $4 5 . 3 6 \% ( \mathrm { T 5 } ) { \sim } 8 3 . 8 1 \% ( \mathrm { T 2 } )$ ；晚稻的情况为：总氮 $7 7 . 3 0 \% ( \mathrm { T 6 } ) { \sim } 9 1 . 5 2 \% ( \mathrm { T } 2 )$ ，铵态氮 $7 9 . 8 6 \% ( \mathrm { T } 4 ) { \sim } 9 2 . 4 2 \% ( \mathrm { T } 2 )$ ，硝态氮 $8 8 . 6 7 \% ( \mathrm { T } 2 ) { \sim } 9 4 . 8 2 \% ( \mathrm { T } 3 )$ ，有机氮 $6 3 . 5 9 \% ( \mathrm { T 6 } ) { \sim } 9 1 . 3 5 \% ( \mathrm { T } 2 )$ 。
+
+而以损失量来计算(图3),T2处理损失量最高，其总氮损失最高可达 $9 . 5 7 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ ，铵态氮损失量为3.74$\mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ ；损失量最低的是 T6 处理。侧条施肥技术有效地降低了稻田氮素流失的数量，年际氮流失量仅为$4 . 6 6 { \sim } 6 . 7 3 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ ，相比常规施肥，降低地表径流氮流失量为 $3 . 5 4 \% { \sim } 2 9 . 3 6 \%$ 。此外，氮素损失主要与施肥时间有关，降雨对其也有一定影响，主要影响总氮、铵态氮和有机氮。如果在氮肥施用后 $2 0 \mathrm { ~ d ~ }$ 内发生降雨将会显著增加稻田氮损失。
+
+![](images/9f13ac98af8bd4e63cc0f1925fac1099f6d482ba53b738f4d79ceda271bead42.jpg)  
+图2不同施肥处理水稻生长季氮素面源损失分析  
+Fig.2Efects of different fertilization treatments on Nloss from surface water in the rice growth season5月6日、6月17、7月8日、8月4日和10月3日有降雨发生。TPrecipitation occurred on Jun.6,Jun.17,Jul.8,Aug.4and Oct.3.
+
+![](images/6aeb6ade52853ee341db6956c2abea701e03c33816d6f1f33e739a691cfdd817.jpg)  
+图3不同施肥处理的氮素损失量 ig.3Effects of different fertilization treatments on loss of different N forms
+
+# 2.4不同施肥处理氮肥利用情况
+
+不同施肥处理的氮肥利用率结果显示(图4):除 T6 处理外，早晚稻对氮肥的利用效率并不存在显著差异，但施肥处理之间存在显著差异；无论是侧条施肥还是常规施肥技术，高控释肥施肥量的氮肥平均利用率均高于常规普通施肥(T2)处理；就施氮量而言，尿素常规施肥处理早晚稻氮肥利用率分别为 $2 2 . 7 9 \%$ 和$2 1 . 2 8 \%$ ，而低量控释肥侧条施肥处理早稻氮肥利用率则为 $2 1 . 1 8 \%$ ，晚稻为 $34 . 2 8 \%$ 。T4处理早稻氮肥利用率可达 $3 8 . 8 2 \%$ ；而 T5处理早晚稻的氮肥利用率均高于T3 处理，分别为 $3 7 . 2 5 \%$ 和 $3 8 . 1 8 \%$ 。以上数据均说明侧条施肥有利于提高稻田系统氮肥的使用效率。
+
+![](images/79f5f01d20db41c47b40fd8b86125f774d3c9af7d385aa2ef3466729cb4c01b8.jpg)  
+图4不同施肥处理的氮肥利用分析
+
+Fig.4 Effects of different fertilization treatments on nitrogen fertilizer utilization efficiency 下同小写字母表示在 0.O5 水平差异显著。Different lowercase letters mean significant difference at $5 \%$ level.
+
+# 3讨论
+
+稻田土壤大量氮肥施用通常造成地表水富营养化，地下水硝态氮超标，温室气体 ${ \bf N } _ { 2 } \mathrm { O }$ 释放增加和氮利用率低等问题。侧条施肥技术配以缓释肥已成为缓解上述稻田环境问题的主要手段之一。已有研究表明，与传统的地表撒施相比，氮肥深施不仅能减少氮素的损失，而且侧条深施肥会在根系周围形成浓度较高的肥区，在很大程度上实现了根区施肥的要求[14]，有利于刺激根系的生长和吸收，增加作物产量[15]。另外，将大颗粒控释氮肥深施，可以降低氮肥用量，提高氮肥利用率[16]，减少氨挥发和地表径流流失[17-18]。如Inubushi等[19]研究表明稻田控释氮肥深施( $\mathrm { 1 5 ~ c m } )$ 有利于水稻对氮肥的利用，利用率最高为 $71 . 9 \%$ ，远高于传统氯化铵施肥方式的 $2 6 . 0 \%$ 。纪雄辉等[研究显示施用控释氮肥，早稻期间的稻田土壤氮素利用率比施用尿素高$3 5 . 9 \%$ ，控释氮肥的硝态氮淋溶损失量比施用纯尿素降低 $2 7 . 1 \%$ ，且稻谷产量能提高 $7 . 0 \%$ 以上。在本研究中,高量控释肥侧条施用处理(T4)的氮肥利用率是尿素常规施肥处理(T2)的1.70倍，是控释肥常规处理(T3)的1.22倍，而且利用侧条施肥技术，在氮肥减量(早晚稻分别减量 $2 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ 和 $3 0 \ \mathrm { k g \cdot h m } ^ { 2 } \cdot$ 的情况下，早晚稻产量分别比尿素常规施肥处理(T2)增加 $1 3 . 1 7 \%$ 和 $4 . 7 2 \%$ ，即使与控释肥常规处理(T3)比较早晚稻产量也分别增加 $7 . 2 7 \%$ 和 $1 . 7 4 \%$ 。此外，晚稻生产中比尿素常规施肥处理(T2)减少 $53 \%$ 氮肥施用量的处理(T6)仍然可以获得相当水平的水稻产量，即使在减少秧苗数近1/3的情况下，仍然获得与T2和T3处理相当的籽粒产量，同时千粒重略有上升。这些研究结果表明在在双季稻区，侧条施肥技术在保证水稻产量的基础上，可减少化肥施用量，提高氮肥利用率，成为水稻施肥的优势技术。此外，稻田水中不同形态氮素(铵态氮、硝态氮、可溶性有机氮和总氮)之间浓度变化有显著相关性 $( P { < } 0 . 0 5 )$ ，表明所施氮肥在不同处理中的转化主要受当地土壤理化性质影响而与施肥处理方式关系不大。
+
+采用侧条施肥技术并配合缓释肥料，可以显著提高水稻地上部对氮素的吸收量，提高肥料利用率，同时降低肥料流失对环境的污染。张爱平等[19研究结果表明，侧条施用高缓释肥处理的水稻氮素投入比常规施肥处理降低约 $40 \%$ 仍保证获得相当的水稻产量，且氮素回收率为 $5 4 . 5 \% { \sim } 6 3 . 5 \%$ ，高于常规施肥处理的$3 6 . 9 \%$ ，全氮渗漏损失量 $( 1 4 . 8 6 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } )$ 明显低于常规施肥处理 $( 2 3 . 4 3 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 } )$ ；刘汝亮等[12]研究发现侧条施肥处理的氮肥偏生产力为 $1 3 9 . 1 { \sim } 6 7 . 8 \ \mathrm { k g { \cdot } k g ^ { - 1 } }$ ，显著高于常规施肥处理的 $2 3 . 7 ~ \mathrm { k g ^ { . } k g ^ { . } } 1$ ，且侧条施肥的表观损失量为 $2 3 . 2 { \sim } 6 1 . 9 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ ，远低于常规施肥处理的 $1 7 4 . 2 \mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ 。本研究中，侧条施肥方法能有效降低径流水中氮流失数量，且早晚稻变化趋势一致，两年间年氮流失量为 $0 . 4 6 6 { \sim } 0 . 6 7 3 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { 2 }$ ，相比常规施肥，降低地表径流氮流失量 $3 . 5 4 \% { \sim } 2 9 . 3 6 \%$ 。这一结果与李恩尧等[21]在洞庭湖旱地玉米减量施肥的年氮流失量 $0 . 2 2 { \sim } 0 . 4 8$ $\mathrm { k g } { \cdot } \mathrm { h m } ^ { 2 }$ ，降低地表径流氮 $1 2 . 5 4 \% { \sim } 2 8 . 6 8 \%$ 结果相符。
+
+稻田土壤施肥后的养分释放速率与肥料种类、用量、施肥时间和施肥位点有关。常规施肥前9d是氮素流失的关键时期，而侧条施肥处理的氮素释放周期长，流失区间可达 $3 0 \mathrm { d } ^ { [ 2 0 ] }$ 。控释氮肥能显著降低该时期的表层水和所发生的径流液中的氮素浓度，从而显著削减水稻全生育期内的TN径流损失量。控释肥不同形态氮素最大释放量与其氮素累积释放量的变化规律一致，且施肥之后表层水总氮、铵态氮浓度分别在施肥后15\~30 d内达到高峰，然后随着时间的延长而迅速下降[22-23]；施肥15 d内表层水氮素浓度高，如果施肥后20d内发生降雨径流事件，径流损失量将显著增加[23]。因而，本试验结果也证明降雨径流对稻田氮素损失的影响主要与施肥时间间隔有关，且氮肥释放主要集中在施肥之后的20d之内。这一结果与洞庭湖区双季稻田尿素和控释氮肥的对比研究结果类似[24]。本研究表明，侧条施肥技术有效降低了农田养分的流失，但侧条施入的肥料在土壤中的微生物转化及对根系的影响还需要进一步研究。
+
+# 4结论
+
+田间土壤肥力管理，应综合考虑作物生长发育规律和需肥特性，做到养分供需平衡，减少肥料的投入。缓释肥料配合侧条施肥技术作为一种提高肥料利用率和减少面源污染的有效措施，已经在我国湖南、宁夏、黑龙江等地试点推广，湖南省还建立了侧条施肥相关的技术规程以规范其应用。本研究结果充分证明侧条施肥技术在提高氮肥利用率，减少面源污染和提高水稻产量方面的优势，在将来的水稻种植中应用前景广阔。
+
+1)与尿素常规施肥相比，除低氮量控释肥侧条施用处理外，其他减氮缓控释肥处理(包括侧条施肥和控释肥常规施肥)水稻产量并无显著性差异。控释肥配合侧条施用技术在保证产量的前提下，可以适当地减少氮肥投入。此外，生长期田面水各形态氮素的数据也表明，侧条施肥技术可有效降低地表径流氮流失量，提高氮素利用率。
+
+2)土壤氮素数据表明侧条施肥技术在确保水稻产量、降低肥料投入的情况下，对保持或增加土壤肥力水平起到积极的作用。
+
+3)由于农田是面源污染的重要来源，侧条施肥技术可减少稻田氮素的投入和降低氮素流失，从而降低面源污染的风险。
+
+稻田氮素转化不仅有物理化学的过程，以微生物介导的生物地球化学过程一直以来是稻田土壤氮素转化的研究重点。侧条施肥技术改变了传统施肥方式中肥料分布和扩散的方式，是否存在"微际肥域"[14]效应及其对微生物氮素转化过程的影响值得我们进一步开展相关研究工作。
+
+# 参考文献References
+
+[1]TimUS,JollyR.Evaluatingagricultural nonpoint-sourcepollutionusing integrated geographic information-systemsand hydrologic/water quality model[J]. Journal of Environmental Quality,1994,23(1): 25-35   
+[2]全为民，严力蛟．农业面源污染对水体富营养化的影响及其防治措施[J].生态学报,2002,22(3):291-299   
+Quan WM,YanLJ.Efectsofagriculturalnon-pointsourcepolutiononeutrophicationofwaterbodyanditscontrolmeasure[J]. Acta Ecologica Sinica,2002,22(3): 291-299   
+[3] 张智峰，张卫峰．我国化肥施用现状及趋势[J]．磷肥与复肥,2008,23(6):9-12   
+Zhang ZF,ZhangWF.esiationndtrendffertilizerapplicationinhina[J].ospate&CompoundFertilzer8,3(6): 9-12   
+[4] 朱兆良．农田中氮肥的损失与对策[J]．土壤与环境,2000,9(1):1-6   
+Zhu ZL.LossoffertizerNfromplants-soilsystemandthestrategiesandtechniques foritsreduction[J].SoilandEnviomental Sciences,2000,9(1):1-6 late-rice in Northen Hunan[J]. Hunan Agricultural Sciences,2012,(7): 59-61   
+[6]QiaoJ,YangLZ,YanTM,etal.NitrogenfertilizerreductioninriceproductionfortwoconseutiveyearsintheTaiuLake area[J].Agriculture,Ecosystems & Environment,2012,146(1):103-112   
+[7]YangYC,ZhangM,LiYC,etal.Controledreleaseureaimprovednitrogeuseiciencyactiviiesofleafenzm,dice yield[J]. Soil Science Society of America Journal,2012, 76(6): 2307-2317   
+[8]郑磊，张民，杨越超，等．控释肥及硫膜对土壤性质和水稻生长发育的影响[J].水土保持学报,2009,23(2):193-197 ZhengL,Zhang M,Yang YC,et al.Effectsofcontroled release fertilizerand sulfur-coating leftfrom SCUonrice growthand soil property[J]. Journal of Soil and Water Conservation,2009,23(2): 193-197   
+[9] 纪雄辉，郑圣先，聂军，等．稻田土壤上控释氮肥的氮素利用率与硝态氮的淋溶损失[J].土壤通报，2007,38(3): 467-471   
+Ji XH,ZhengSX,NieJetal.Nitrogenrecoveryandntrateleacingfroacontrolledreleasentrogenfertilizeriaiatd paddy soil[J]. Chinese Journal of Soil Science, 2007, 38(3): 467-471   
+[10] XuJZ,PengSZ,YangSH,etal.Ammonia volatizationlosses fromarice paddywithdiferent irigationand nitrogen managements[J]. Agricultural Water Management, 2012,104: 184-192   
+[11]段然，白玲玉，曾希柏．一季水稻侧条施肥插秧技术规程(HNZ027-2013)[S],湖南省农业厅,2013.   
+Duan R,Bai L Y, Zeng X B.One season ricetransplanting and side bar fertilization technicalregulations (HNZ027-2013)[S], Agricultural Department of Hunan Province, 2013.   
+[12] 刘汝亮，李友宏，王芳，等．缓释肥侧条施肥技术对水稻产量和氮素利用效率的影响[J].农业资源与环境学报，2014, (1): 45-49   
+Liu RL,LiYH,WangF,etal.Efectofslow-releasefertlizersidebarfertilization technologyonriceyieldand nitrogenuse eficiency[J]. Journal of Agricultural Resources and Environment,2014,(1): 45-49   
+[13]鲍士旦．土壤农化分析[M].北京：中国农业出版社,2000   
+Bao S D.Soil and Agricultural Chemistry Analysis[M]. Beijing: Agricultural Publishing House of China, 2000   
+[14]王火焰，周健民．根区施肥——提高肥料养分利用率和减少面源污染的关键和必需措施[J].土壤，2013,45(5): 785-790   
+Wang HY,ZhouJM.Root-zone fertilization—Akeyand necessaryapproach toimprove fertlizeruse eficiencyandreduce non-point source pollution from the cropland[J]. Soils,2013,45(5): 785-790   
+[15]吴敬民，姚月明，陈永芳，等．水稻基肥机械深施及肥料运筹方式效果研究[J].土壤通报,199,30(3):110-112 Wu JM,YaoYM,ChenYF,etal.Efectofdeepferilizationonricefieldandfertilizer maagement[J]. ChineseJouralfSoil Science,1999,30(3): 110-112   
+[16]GaudinR,upuyJ.Ammonacalnutritionoftransplantedricefertilizedwithlargeurea granules[J].AgronomJoural999, 91(1): 33-36   
+[17] 朱兆良．中国土壤氮素研究[J]．土壤学报,2008,45(5):778-783   
+Zhu Z L. Research on soil nitrogen in China[J]. Acta Pedologica Sinica, 2008,45(5): 778-783   
+[18]段亮，段增强，常江．地表管理与施肥方式对太湖流域旱地氮素流失的影响[J]．农业环境科学学报，2007,26(3): 813-818   
+DuanL,Duan ZQ,Chang J.Effect ofsurface managementandfertilization modeonnitrogenrunofffromuplandin TaihuLake region[J]. Journal of Agro-Environment Science,2007,26(3): 813-818   
+[19]Inubushi K,Acquaye S,Tsukagoshi S,etal.Efectsofcontrolled-releasecoatedurea(CRCU)onsoilmicrobialbiomssNin paddy fields examinedby the15N tracer technique[J].Nutrient Cycling in Agroecosystems,2002,63(2/3): 291-300   
+[20] 张爱平，刘汝亮，杨世琦，等．基于缓释肥的侧条施肥技术对水稻产量和氮素流失的影响[J]．农业环境科学学报,2012, 31(3): 555-562   
+Zhang AP,LiuRL,YangSQ,etal.Efectofsidebarfertilizationtechnologybasedonslow-releasefertilizeronriceyieldnd nitrogen losses[J]. Journal of Agro-Environment Science,2012,31(3): 555-562   
+[21] 李恩尧，邱亚群，彭佩钦，等．洞庭湖红壤坡地玉米生态拦截技术对产量和径流氮磷的影响[J]．中国农学通报，2011, 27(9): 137-142   
+Li EY,Qiu YQ,PengPQ,etal.Theecological interception technlogyandefectsonmaizeyieldandsurfacerunoffinedsoil slopes of Dongting Lake[J]. Chinese Agricultural Science Bulletin,2011,27(9): 137-142   
+[22]郑圣先，肖剑，易国英．淹水稻田土壤条件下包膜控释肥料养分释放的动力学与数学模拟[J]．磷肥与复肥,2005,20(4): 8-11   
+Zheng SX,XiaoJ,YiGY.Kineticsand mathematicsimulatioofnutrientrelease fromcoatedcontroledrelease fertilzerunder   
+the condition of flooded paddy soil[J].Phosphate & Compound Fertilizer,20o5,20(4): 8-11   
+[23] 董燕，王正银．缓/控释复合肥料不同形态氮素释放特性研究[J]．中国农业科学,2006,39(5):960-967   
+DongY,Wang ZY.Studyonrelease characteristics ofdiferent forms ofnitrogen nutrients ofslow/controlldreleasecompound   
+fertilizer[J]. Scientia Agricultura Sinica,2006,39(5): 960-967   
+[24]纪雄辉，郑圣先，鲁艳红，等．施用尿素和控释氮肥的双季稻田表层水氮素动态及其径流损失规律[J].中国农业科学，   
+2006,39(12): 2521-2530   
+Ji XH,ZhengSX,LuYH,et al.Dynamicsoffloodwater nitrogenand itsrunoflossurea andcontrolled release nitrogen   
+fertilizer application regulation in rice[J]. Scientia Agricultura Sinica,2006,39(12): 2521-2530

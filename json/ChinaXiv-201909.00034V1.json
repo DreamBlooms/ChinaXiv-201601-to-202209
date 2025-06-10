@@ -1,0 +1,557 @@
+[
+    {
+        "type": "text",
+        "text": "石家庄地区大气水汽的反演模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "武紫超1²，胡引翠1,²，田冰1,²，程雅琪1²，张文静1,2（1．河北省环境演变与生态建设实验室,河北石家庄050024;2．河北师范大学资源与环境科学学院,河北 石家庄050024)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究大气水汽的反演及了解其时空变化，对有效评估大气生态服务功能具有重要现实意义。基于石家庄地区CE-318 观测的大气水汽数据,结合探空水汽数据和地面水汽压数据,运用传统回归分析、改进型回归分析、分段反演等方法,构建传统回归模型、基于CE-318的大气水汽改进型模型和分季节模型3种大气水汽反演模型，并经过精度对比评估选出适用于研究区的大气水汽最优反演模型。检验结果表明,基于CE-318的大气水汽改进型反演模型的各项精度检验指标均为3个模型中的最佳值，是该地区最优的大气水汽反演模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大气水汽；CE-318；探空；地面水汽压；反演模型；石家庄 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大气水汽含量是进行遥感定量反演工作必须要考虑的一个关键参数[1]，同时水汽循环又是预测气候变化的一个重要参量，影响着地表气候的演变，因此,获取连续性的大气水汽数据始终是相关领域探讨的热门话题。目前，在技术方式上，大气水汽的反演方法分为遥感法和实测法，遥感法又可根据设备安放位置的不同可分为卫星遥感和地基遥感。卫星遥感的优势是可获取大面积的水汽时空分布信息，且卫星遥感水汽产品众多[2]；目前学者更倾向于多源遥感数据一体化来反演水汽,如王永前等[3]基于物理统计思想设计了一个融合多源遥感数据的水汽反演算法，该算法极大地缩减了多云天气条件的影响;此外,对卫星降水产品的校正[4也是该方向的一个热门研究话题。地基遥感主要有地基 $\\mathrm { G P S } ^ { [ 5 ] }$ 和地基CE-318(太阳光度计)等，运用这些方法的优势在于受地表辐射和反射的影响很小，探测精度更高;其中地基CE-318太阳仪是近几年地基遥感中的一种简便的常规探测方法[。利用其 $9 3 6 \\ \\mathrm { n m }$ 水汽吸收通道所获太阳辐射数据,基于改进型Langley算法[7反演的水汽具有监测精度高、时间分辨率高和耗能低的优势。实测法主要是高空资料计算[8]即利用探空气球测出大气中每一层的湿度、气温、气压等气象因素，采用空间外推和内插算法推算出大气水汽的含量。运用这些方式研究大气水汽的反演，了解其时空变化规律，对监测周边大气水汽环境演变、加强生态环境建设具有重要的现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "有关研究表明[9，大气水汽与地面水汽压二者拥有很好的关联性，可利用两者之间相应的规律性建立关系模型，成为一种新的估算大气水汽的方法，估算精度也很高。王研峰等[1探讨了高原地区上空水汽含量与地面水汽压之间的相关性，发现二者之间存在二次多项关系，并证实该关系式具备一定的实用价值。姚俊强等[11-12]以天山山区为研究区,运用探空水汽数据建立了与地面水汽压的关系式，并推算了天山山区的水汽含量，解析了该地域大气水汽的时空布局及其与气象要素的关系。潘韬等[13]基于统计思维探究了大气水汽与地面水汽压之间的相关性，构建出二者关系计算模型，并以GIS为分析平台，完成了对大气水汽空间布局的仿真模拟。张丹等[14]利用MODIS 反演的水汽数据和地面常规气象材料,构建了中国以逐月地面水汽压来估算大气水汽的统计模型，并对模型精准度做了相应误差检验,结果证明该模型算法是一种切实可行的方法。其他学者[15-16]也在相关领域做了深入的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鉴于前人所做地面水汽压反演大气水汽模型的研究工作，可发现其大部分采用传统经验模型法进行反演分析，这使模型反演结果存在一定程度的精度误差。另外，模型反演精度也会受地理环境复杂程度和气候状况的影响较大，因此仍需根据研究区的实际情况，构建适合研究区的反演模型。本文通过改进型回归模型法，结合2016年10月至2017年9月石家庄地区的CE－318观测大气水汽数据、探空水汽数据和地面水汽压数据，构建石家庄地区上空大气水汽反演模型，以提供适用于该地区估测大气水汽含量的新方法，为监测空中大气水汽含量的长时间序列变化提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 数据来源及处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用的CE-318观测数据源于可自动工作的新型CE－318地基太阳光度计所获取的数据，该仪器在 $9 3 6 ~ \\mathrm { n m }$ 波段处有吸收水汽的特性，联合$8 7 0 ~ \\mathrm { n m }$ 和 $1 \\ 0 2 0 \\ \\mathrm { n m }$ 波段通道可反演出大气柱水汽含量(17]。仪器架设点地理坐标为 $3 8 . 0 0 ^ { \\circ } \\mathrm { N }$ ，$1 1 4 . 5 2 ^ { \\circ } \\mathrm { E }$ ,经定标和安装后正常工作，观测时间为日升到日没，北京时冬半年为08：00—18：00,夏半年7：00—19：00。观测所获数据均为1.5级去云高质量数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "探空数据来自美国NCDC（TheNationalClimat-ic Data Center）的IGRA 数据库[ftp://ftp.ncdc.no-aa. gov/pub/data/ghcn/daily/(2017-10-20)],该数据集已经过严格质量控制[18]。考虑到石家庄地区无探空站点，经对比地形地貌和气候等自然条件相对一致的情况下，从数据集中下载距离石家庄水平距离最近和海拔高度相差无几的位于 $3 7 . 1 8 ^ { \\circ } \\mathrm { N }$ $1 1 4 . 3 5 ^ { \\circ } \\mathrm { E }$ 的邢台探空站所获资料进行水汽反演。探空仪器观测时间只有UTC0时和UTC12时，数据包含的变量有各大气压层的气温、温度露点差、气压、风速和风向等，根据这些变量利用探空积分法可反演计算出整个垂直大气层的大气水汽值[19]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地面水汽压数据源于国外Meteomanz.com 服务网，该网站可提供来自全球各气象站点官方发布的气象数据，从中下载石家庄地区2016年10月到2017年9月的小时级（UTC00、UTC03、UTC06、UTC09、UTC12、UTC18和UTC21)变量数据；之后利用马格纳斯经验公式，根据所获气温和相对湿度两种气象要素计算出当地水汽压值。考虑到数据的准确性，笔者将中国气象数据网中公布的2000 年1月至2017年3月月均水汽压值与Meteomanz.com网站上相应计算出的月均水汽压值（共207组数据)进行了对比分析，发现它们的相关系数为0.9997，在0.01的置信区间上极显著相关，并且通过了 $F$ 和 $T$ 检验，说明该网站上数据准确度和可靠性很高，可用来做科学研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据筛选处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过晴好少云天气下数据量的筛选，研究期间2016年10月至2017年9月CE-318观测的大气水汽可用数据量为 $1 4 7 \\mathrm { ~ d ~ }$ 。但是由于CE-318观测受环境限制，在落日与阴雨天气或空气质量很差时，仪器停止观测;并且UTC12时所获探空数据等于石家庄地区北京时20时的数据，太阳此刻即将或早已落山,CE-318仪器暂停工作。此外，本文获取的地面水汽压同样是以世界时为基准进行计算的。考虑到3种数据在研究时段一致性的问题，只选取UTC0时刻数据作为研究样本。在进行UTC0时CE-318观测水汽转化和计算时，依照探空探测时间大约1h为准，选取CE－318仪器在当天23：30至次日0：30反演的大气水汽取均值，得到UTC0时的CE-318实测水汽值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2大气水汽反演模型的构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过数据异常值的剔除和筛选，共提取出127组同一时刻的数据用于模型构建。同时，将127组数据分为2组：构建模型数据和模型检验数据；分组依据为：根据CE-318观测水汽值将全部数值重新排序，在排列数值中从低到高每隔4个数值抽取1个数值用来误差检验，这样原始数据被分成102组建模数据及25组模型检验数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1传统回归模型法构建CE-318大气水汽反演模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以建模数据中地面水汽压为模型中的自变量，CE-318观测水汽为模型中的因变量，用统计软件建立二者的6种估算模型类型，分别为指数函数、线性函数、对数函数、乘幂函数、二次函数和三次函数(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从表1可以看出，6种回归模拟方程都通过了0.01的显著性 $F$ 检验。相比决定系数 $( R ^ { 2 } )$ 可知，二次函数和三次函数的 $R ^ { 2 }$ 最高且相同，均为0.9242，本着计算简便性的原则，选取二次函数作为地面水汽压 $( E _ { \\mathrm { f f } \\parallel \\parallel } )$ 与CE－318观测水汽( $P W _ { \\mathrm { C E } - 3 1 8 } \\ )$ 的最优关系模型选择，表达式为：$P W _ { \\scriptscriptstyle \\mathrm { C E - 3 1 8 } } = 0 . 0 0 1 ~ 6 E _ { \\scriptscriptstyle \\mathrm { \\sharp [ \\vec { \\mathrm { H } } ] } } ^ { 2 } + 0 . 1 0 1 ~ 4 E _ { \\scriptscriptstyle \\mathrm { \\sharp [ \\vec { \\mathrm { H } } ] } } ~ + 0 . 2 8 0 ~ 3$ (1)",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/de07af5eb7894f9b0337a42e50cfff26f01786e35a4196d670d9adfde940ebca.jpg",
+        "table_caption": [
+            "Tab.1The fitting results of water vapor and surface vapor pressure observed by CE-318 "
+        ],
+        "table_footnote": [
+            "注： $_ y$ 为 $P W _ { \\mathrm { C E } - 3 1 8 }$ 值， $x$ 为 $E _ { \\mathrm { f } \\underline { { \\mathrm { f } } } \\underline { { \\mathrm { f } } } \\underline { { \\mathrm { f } } } \\underline { { \\mathrm { \\Pi } } } }$ 值； $S E$ 为标准误。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td>模型类型</td><td>回归模拟方程</td><td>R²</td><td>r</td><td>SE</td><td>F</td><td>a =0.01</td></tr><tr><td>指数函数</td><td>y =0.476 4e0.089 2x</td><td>0.855 8</td><td>0.9251</td><td>0.0483</td><td>547.99</td><td>P<0.01</td></tr><tr><td>线性函数</td><td>y=0.146 4x +0.103 5</td><td>0.917 4</td><td>0.9578</td><td>0.035 4</td><td>1 110.20</td><td>P<0.01</td></tr><tr><td>对数函数</td><td>y =1.221ln(x）-0.801 4</td><td>0.769 6</td><td>0.877 3</td><td>0.059 0</td><td>334.05</td><td>P<0.01</td></tr><tr><td>乘幂函数</td><td>y =0.23x0.835 1</td><td>0.9042</td><td>0.950 9</td><td>0.037 5</td><td>975.75</td><td>P<0.01</td></tr><tr><td>二次函数</td><td>y=0.0016x² +0.101 4x +0.280 3</td><td>0.924 2</td><td>0.961 4</td><td>0.0339</td><td>1 220.06</td><td>P<0.01</td></tr><tr><td>三次函数</td><td>y = -1×10-6x³ +0.0017x² +0.100 8x +0.2818</td><td>0.924 2</td><td>0.961 4</td><td>0.0338</td><td>1 220. 12</td><td>P<0.01</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/df92579e36ce11f3471741e5cec0bce9685182b70ecd1aae46dc6a3f0957d8ca.jpg",
+        "table_caption": [
+            "表1CE-318观测水汽与地面水汽压回归方程拟合结果",
+            "表2探空观测水汽与地面水汽压回归方程拟合结果 ",
+            "Tab.2The fiting results of water vapor and surface vapor pressure from sounding observation "
+        ],
+        "table_footnote": [
+            "注 ${ \\mathfrak { s y } }$ 为 $P W _ { ☉ }$ 值， $x$ 为 $E _ { \\mathrm { f f } \\parallel , \\overrightarrow { \\mathbb { H } } }$ 值。"
+        ],
+        "table_body": "<html><body><table><tr><td>模型类型</td><td>回归模拟方程</td><td>R²</td><td>1</td><td>SE</td><td>F</td><td>a =0.01</td></tr><tr><td>指数函数</td><td>y =0.3548e0.106 6x</td><td>0.8463</td><td>0.919 9</td><td>0.061 0</td><td>421.38</td><td>P<0.01</td></tr><tr><td>线性函数</td><td>y=0.165 8x-0.101</td><td>0.917 5</td><td>0.957 9</td><td>0.040 0</td><td>1 112.13</td><td>P<0.01</td></tr><tr><td>对数函数</td><td>y =1.378 3ln(x)-1.117 2</td><td>0.764 8</td><td>0. 874 5</td><td>0.067 5</td><td>325.19</td><td>P<0.01</td></tr><tr><td>乘幂函数</td><td>y =0.143 4x1.0163</td><td>0.927 6</td><td>0.9631</td><td>0.0398</td><td>1 124.25</td><td>P<0.01</td></tr><tr><td>二次函数</td><td>y=0.002x² +0.110 5x+0.1163</td><td>0.925 6</td><td>0.9621</td><td>0.0380</td><td>1 244.35</td><td>P <0.01</td></tr><tr><td>三次函数</td><td>y = -3×10-6x +0.002 2x² +0.108 9x +0.120 5</td><td>0.925 6</td><td>0.9621</td><td>0.038 0</td><td>1 243.76</td><td>P<0.01</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2改进型回归模型法构建CE-318大气水汽反演模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1基于探空观测水汽的常规反演模型建立探空观测水汽与地面水汽压之间相关联程度，构建基于探空观测水汽的常规反演模型。运用统计回归分析方法，在置信度为 $9 9 \\%$ 的区间内，利用线性函数、指数函数、乘幂函数、对数函数、二次函数和三次函数等6种方程类型,拟合探空观测水汽( $\\left. P W _ { \\sharp \\sharp \\sharp } \\right.$ ）与地面水汽压( $E _ { \\mathrm { f f } \\parallel , \\perp \\parallel } )$ 的回归表达式（表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2结果可看出，探空观测水汽与地面水汽压二者具有很好的相关性，且6个方程的拟合结果都能通过0.01极显著水平 $F$ 检验，符合统计学要求。其中 $R ^ { 2 }$ 为0.9276的乘幂函数拟合效果最好，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP W _ { \\sharp \\sharp \\sharp } = 0 . 1 4 3 ~ 4 E _ { \\sharp \\sharp \\sharp } ^ { 1 . 0 1 6 ~ 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2基于探空与CE-318的大气水汽修正模型",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在进行修正模型构建之前需对CE－318和探空两种探测手段的水汽计算结果进行对比分析，以确保修正模型建立的科学性和严谨性。图1分别是两种观测手段计算水汽结果的趋势图和拟合图。由图1a 明显看出，二者大气水汽值随时间演变趋势基本一致,峰值和谷值接近,说明两种手段均能观测出大气水汽的时间变化信号。不过，二者大气水汽在具体数值上有一定的差异，系统误差和偶然误差的存在以及两种观测仪器所处位置不同，相对地势和海拔有一定差距；此外，同一时刻两种仪器所在地气象条",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc17fbab76fc730d716119505022b71534f24d11f4ccb71154ad04a0bef28948.jpg",
+        "img_caption": [
+            "注： $P W _ { \\mathrm { C E } - 3 1 8 }$ 为CE-318 观测水汽， $P W _ { \\{ \\stackrel { \\ldots } { \\hbar } \\stackrel { \\ldots } { \\Sigma } \\} }$ 为探空观测水汽。下同。",
+            "图1CE-318与探空计算所得水汽值趋势图(a)和散点图(b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Compared results of water vapor charts and scatter charts between CE-318 and sounding observatio 件不同等，都会导致误差的出现。由图1b显示，二 者紧密分散在一条直线周围， $R ^ { 2 }$ 达到了0.9523，可 见两者相关度很高，说明它们之间拥有很好的线性 关联性。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4dcd1a306245fb405da813186733113d2edbd26fe585f51ab98c0393dfbe7f15.jpg",
+        "table_caption": [
+            "Tab.3The fitting results of water vapor from sounding and CE-318 observation "
+        ],
+        "table_footnote": [
+            "注 $_ { : y }$ 为 $P W _ { \\mathrm { C E } - 3 1 8 }$ 值， $\\mathbf { \\Psi } _ { x }$ 为 $P W _ { ☉ * \\xrightarrow { * } }$ 值。"
+        ],
+        "table_body": "<html><body><table><tr><td>模型类型</td><td>回归模拟方程</td><td>R²</td><td>1</td><td>SE</td><td>F</td><td>a=0.01</td></tr><tr><td>指数函数</td><td>y =0.526 7e0.508 6x</td><td>0.833 2</td><td>0.912 8</td><td>0.061 5</td><td>300.56</td><td>P<0.01</td></tr><tr><td>线性函数</td><td>y=0.862 3x +0.2251</td><td>0.953 4</td><td>0.976 4</td><td>0.026 5</td><td>2 047.07</td><td>P<0.01</td></tr><tr><td>对数函数</td><td>y =1.194 9ln(x)+1.531 7</td><td>0.820 8</td><td>0.906 0</td><td>0.0521</td><td>458.08</td><td>P<0.01</td></tr><tr><td>乘幂函数</td><td>y =1. 135x0.806 5</td><td>0.939 0</td><td>0.969 0</td><td>0. 027 0</td><td>1 980.27</td><td>P<0.01</td></tr><tr><td>二次函数</td><td>y = -0.015 3x² +0.936 4x +0.176 9</td><td>0.954 1</td><td>0.976 8</td><td>0.0263</td><td>2 079.74</td><td>P<0.01</td></tr><tr><td>三次函数</td><td>y =0.000 2x -0.016 6x² +0.939 2x +0.175 7</td><td>0.954 1</td><td>0.9768</td><td>0.0263</td><td>2 079.72</td><td>P<0.01</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同样，基于统计回归分析法对探空与CE-318观测水汽2组数据进行6种回归模型的拟合，拟合情况见表3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表3中 $R ^ { 2 }$ 能够看出，前4种模型对两者的拟合效果都不太理想，而 $R ^ { 2 }$ 为0.9541的二次函数和三次函数拟合度最高，而且都通过了0.01极显著水平的 $F$ 检验，,同样出于计算简便性考虑，选取二次函数方程作为PW探空与CE－318观测水汽的回归模型，其表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP W _ { \\scriptscriptstyle \\mathrm { C E - 3 1 8 } } = - 0 . 0 1 5 ~ 3 P W _ { \\scriptscriptstyle \\mathrm { B E \\div 5 } } ^ { 2 } + 0 . 9 3 6 ~ 4 P W _ { \\scriptscriptstyle \\mathrm { B E \\div 5 } } +\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3CE-318 大气水汽反演模型的建立将式(2)和式(3)进行整合，得到地面水汽压与CE-318观测水汽的相关关系，构建CE－318大气水汽反演模型，从而可以对长时间序列的大气水汽动态进行监测,为合理利用大气水汽提供决策支持。地面水汽压与CE-318观测水汽的回归模型表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP W _ { \\mathrm { C E - 3 1 8 } } = - 0 . 0 0 0 3 E _ { \\pm \\boxplus } ^ { 2 . 0 3 2 6 } + 0 . 1 3 4 3 E _ { \\pm \\boxplus } ^ { 1 . 0 1 6 3 } +\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0. 176 9 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过该回归模型计算得出的CE－318大气水汽模拟值，与CE-318大气水汽实测值进行对比，二者 $R ^ { 2 }$ 达到了0.9148,标准误差0.3643，拟合效果较为理想",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3分季节构建CE-318大气水汽反演模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑到由于运用单一长时间序列地面水汽压估算大气水汽含量的精准度问题，通过传统四季划分的指标,将CE－318大气水汽取值划分为春、夏、秋、冬4个区间段(表4)，在不同的区间段内选取相应的地面水汽压，按照上述改进型回归模型法的原理进行CE-318大气水汽反演模型的构建。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4分季节模型下建模数据和检验数据统计量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f2711f9273ae1b73de65d5224d21177413ceecd4d2fa8c3de8f4f2eb01e2f64.jpg",
+        "table_caption": [
+            "表3探空观测水汽与 $\\mathbf { C E - 3 1 8 }$ 观测水汽回归方程拟合结果",
+            "Tab.4Statistic results of modeling data and test data under the seasonal models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分段类别</td><td>建模数据量</td><td>模型检验数据量</td></tr><tr><td>春</td><td>34</td><td>9</td></tr><tr><td>夏</td><td>22</td><td>5</td></tr><tr><td>秋</td><td>23</td><td>5</td></tr><tr><td>冬</td><td>23</td><td>6</td></tr><tr><td>总计</td><td>102</td><td>25</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在构建模型时，同样在不同季节区间段内分别按照指数函数、线性函数、对数函数、乘幂函数、二次函数和三次函数6种方式进行模型的构建，之后根据 $R ^ { 2 }$ 选取各季节区间段内的最优模型为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 0 1 3 \\ 3 E _ { \\mathrm { j } \\oplus \\mathrm { f f f } } ^ { 1 . 8 7 0 8 } \\ + 0 . 0 4 0 \\ 9 E _ { \\mathrm { j } \\oplus \\mathrm { f f f } } ^ { 0 . 9 3 5 4 } \\ - 0 . 0 0 5 E _ { \\mathrm { j } \\oplus \\mathrm { f f f } } ^ { 1 . 8 1 0 4 } \\ + 0 . 4 0 6 \\ 9\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { P \\ l _ { \\mathbb { W } _ { \\mathrm { G E - 3 1 S } } } = \\ 0 . 0 0 0 \\ 3 E _ { \\mathbb { H } \\mathrm { H } } ^ { 6 } - 0 . \\ 0 0 0 \\ 1 E _ { \\mathbb { H } \\mathrm { H } } ^ { 5 } + 0 . \\ 0 4 8 \\ 4 E _ { \\mathbb { H } \\mathrm { H } } ^ { 4 } - 0 . \\ 0 0 2 \\ 2 E _ { \\mathbb { H } \\mathrm { H } } ^ { 3 } + 0 . \\ 3 0 0 \\ 9 E _ { \\mathbb { H } \\mathrm { H } } ^ { 2 } + 1 3 . \\ 5 1 9 \\ 8 } \\\\ & { \\ l _ { 0 . 2 3 7 } E _ { \\mathbb { H } \\mathrm { H } } ^ { 6 , 7 3 6 } } \\\\ & { \\ 0 . \\ 2 3 4 \\ 6 E _ { \\mathbb { H } \\mathrm { H } } ^ { 0 . 8 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对地面水汽压按模型进行计算，得到CE-318大气水汽模拟值，将CE-318大气水汽模拟值与CE-318大气水汽实测值进行对比，结果见表5。各",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "季节分段区间内，CE-318大气水汽的模拟值和实测值具有较高相关性，其中冬季的最低( $\\cdot R ^ { 2 } = 0 . 5 8 3 ~ 1 \\cdot$ ），但总体 $R ^ { 2 }$ 达到了0.93，标准误差为0.3302。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e294db0b857bd59121a436c7cdfcb211c871093075000d4f2343c8492f7c57d2.jpg",
+        "table_caption": [
+            "Tab.5The fitting results of seasonal interval regression model "
+        ],
+        "table_footnote": [
+            "注 $_ y$ 为 $P W _ { \\mathrm { C E } - 3 1 8 }$ 值， $\\mathbf { \\Psi } _ { x }$ 为 $E _ { \\mathrm { f f } \\parallel , \\overrightarrow { \\mathbb { H } } }$ 值。"
+        ],
+        "table_body": "<html><body><table><tr><td>季节区间</td><td>最优模型</td><td>R²</td><td></td><td>SE</td><td>F</td><td>a =0.01</td></tr><tr><td>春</td><td>y=1.012 1x +0.002 3</td><td>0.8561</td><td>0.9253</td><td>0.038 5</td><td>190. 42</td><td>P<0.01</td></tr><tr><td>夏</td><td>y =1.140 3x -0.564 9</td><td>0.702 8</td><td>0.838 4</td><td>0.112 0</td><td>47.30</td><td>P<0.01</td></tr><tr><td>秋</td><td>y=1.128 2x -0.132 6</td><td>0.804 9</td><td>0.897 2</td><td>0.069 2</td><td>86.64</td><td>P<0.01</td></tr><tr><td>冬</td><td>y =1.065 7x -0.017 5</td><td>0.5831</td><td>0.763 6</td><td>0.032 2</td><td>29.38</td><td>P<0.01</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3模型综合分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1建模前后大气水汽与地面水汽压的相关性比较 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过比较建模前和建立不同模型后的大气水汽与地面水汽压之间的相关性，可直观地观察出各模型的优劣情况，因此，从比较建模前大气水汽与地面水汽压数据、建立传统模型及改进模型后的大气水汽与地面水汽压数据、划分季节后的大气水汽与地面水汽压数据之间的相关性来研究大气水汽与地面水汽压之间的关系，结果如表6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表6石家庄地区建模前后大气水汽与地面水汽压相关性对比",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9998ffb45a7bad735fb89d15f113a9481fdd293ad4780388c210ee67dec9e99.jpg",
+        "table_caption": [
+            "表5分季节区间回归模型法拟合结果",
+            "Tab.6Compared results of the correlation between atmospheric water vapor and surface vapor pressure before and after modeling in Shijiazhuang area "
+        ],
+        "table_footnote": [
+            "注： $P W$ 为大气水汽， $E _ { \\mathrm { f f } \\parallel , \\parallel \\mathrm { f f } }$ 为地面水汽压。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">季节</td><td rowspan=\"2\">建模前 PW-E地面</td><td colspan=\"2\">建模后PW-E地面</td></tr><tr><td>传统模型</td><td>改进模型</td></tr><tr><td>全年</td><td>0.957 8</td><td>0.9963</td><td>0.999 8</td></tr><tr><td>春季</td><td>0.922 3</td><td>0.9947</td><td>0.998 6</td></tr><tr><td>夏季</td><td>0.838 6</td><td>0.979 8</td><td>0.990 0</td></tr><tr><td>秋季</td><td>0.905 7</td><td>0.9803</td><td>0.9980</td></tr><tr><td>冬季</td><td>0.761 8</td><td>0.9997</td><td>0.999 5</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表6可得，全年及不同季节建模后大气水汽与地面水汽压的相关性均有所提高，其改进模型所",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "得大气水汽与地面水汽压的相关性除冬季外均为最高，全年两者的相关值无限接近于1，可见，改进模型更能体现大气水汽与地面水汽压之间的关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2模型精度检验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了探讨各模型反演大气水汽的情况，需对其进行精确度评估，以检验模型的有效性。用于检验的数据包括地面水汽压值和CE-318实测水汽值。将地面水汽压数据分别带入到各模型中进行计算，得到CE-318大气水汽模拟值，进而可利用CE-318大气水汽模拟值与实测值的相关关系来检验和评价模型的反演精度。根据6个指标，即总体预测精度 $\\cdot ^ { R ^ { 2 } }$ 、标准误 $( S E )$ 、均方根误差（RMSE）、平均标准误差(MSE）和平均绝对误差（MAE)对模型精度进行对比说明。各模型拟合结果及精度对比结果如图2和表7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结果显而易见，3个模型中实测值与模拟值的相关程度较好， $R ^ { 2 }$ 都在0.8以上，由此可知,这3个模型的预测精准度都较高，具有一定的可行性和科学性。通过3个模型的各个指标对比可发现，在总体预测精度比较上，改进型回归模型的精准度最高，其次为分季节回归模型和传统回归模型；在 $R ^ { 2 } , S E$ 和RMSE比较上，改进型回归模型的指标值最低，其次为传统回归模型和分季节回归模型；在MSE和MAE的指标对比上，同样是改进型回归模型的指标",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "y-1073 0 e10836x-0-0268 y=0.92 5x+0.189 8。 o   \n2520 。& oo 2520 % oo 2520 8 。 。 。   \n1.5 1.5 1.5   \n1.0 8 1.0 6 1.0   \n0.5 8 。 0.5 e8o8 。 0.5 。 7   \n0 1.0 2.0 3.0 4.0 0 1.0 2.0 3.0 4.0 0 1.0 2.0 3.0 4.0 PW 模拟值/(g·cm-2) PW 8模拟值/(g·cm-2) PW 模拟值 $( \\mathbf { g } \\cdot \\mathbf { c m } ^ { - 2 } )$ CE-318 CE-318 CE-318 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Analyzedresultsofthecorrelationbetwee measuredandsimulated valuesof atmospheric watervaporobserved byCE-318 under different models ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b03ad3ebed14cdd5def5aa7dddae767d260119250b30f344fabc2e192f14d0b9.jpg",
+        "table_caption": [
+            "Tab.7 Comparison of the model accuracy "
+        ],
+        "table_footnote": [
+            "注：MSE为平均标准误差， $S E$ 为标准误，RMSE为均方根误差， $M A E$ 为平均绝对误差。"
+        ],
+        "table_body": "<html><body><table><tr><td>模型</td><td>总体预测精度/%</td><td>R</td><td>MSE</td><td>SE</td><td>RMSE</td><td>MAE</td></tr><tr><td>传统回归模型</td><td>76.72</td><td>0.883 0</td><td>0.141 3</td><td>0.082 0</td><td>0.409 8</td><td>0.282 5</td></tr><tr><td>改进型回归模型</td><td>79.06</td><td>0.892 7</td><td>0.137 5</td><td>0.078 5</td><td>0.405 0</td><td>0.275 0</td></tr><tr><td>分季节回归模型</td><td>77.65</td><td>0.822 5</td><td>0.153 8</td><td>0.1010</td><td>0.510 7</td><td>0.307 6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "值最低，其次为传统回归模型和分季节回归模型所以，通过各指标对比得出结果为：改进型回归模型的各指标均最佳，精度最高，可以作为石家庄地区上空大气水汽反演的最优估算模型",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 模型适用性分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以北京地区 $3 9 . 9 9 2 ^ { \\circ } \\mathrm { N } , 1 1 6 . 3 1 0 ^ { \\circ } \\mathrm { E }$ 为例,对该模型进行普适性分析。所用CE－318水汽数据源于美国AERONET全球气溶胶探测网站，地面水汽压数据源自Meteomanz.com 服务网。同样,按照时间一致性原则经过数据筛选处理之后，将UTC0时的地面水汽压值代入改进型模型中，得出的水汽结果与实测结果进行对比分析，用来检验该模型的普适性。对比效果如表8和图3所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb8f1ed290f0d169dc49b505d64a540d7cbaa879b3e474fe2bf22772e66166de.jpg",
+        "img_caption": [
+            "图3CE-318大气水汽实测值与模拟值 相关性分析 ",
+            "Fig.3Analyzed results of correlation between the measured and simulated values of atmospheric water vapor from CE-318 observation "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/487c16a84876310cb7d0aaf8da5c82eaa9119fd1c51256a00b3a22da830c50de.jpg",
+        "table_caption": [
+            "表7各模型精度对比",
+            "表8模型相关性及精度对比",
+            "Tab.8 Comparison of model correlation and accuracy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">相关性(全年)对比</td><td></td><td colspan=\"5\">结果精度对比</td></tr><tr><td>建模前PW-E地面</td><td>建模后PW-E地面</td><td></td><td>总体预测精度/%</td><td>R²</td><td></td><td></td><td>RMSE</td></tr><tr><td>0.955 4</td><td>0.991 7</td><td>传统模型</td><td>70.74</td><td>0.952 5</td><td>0.032 5</td><td></td><td>0.3848</td></tr><tr><td></td><td>0.999 7</td><td>改进模型</td><td>74.11</td><td></td><td>0.959 0</td><td>0.0302</td><td>0.589 2</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在相关性比较上，北京地区建模前后大气水汽与地面水汽压相关性呈现效果与石家庄地区一致，都是改进型模型两者的相关性最高，极接近于1。其次，从两种水汽值的精度对比和拟合效果上也可看出，除均方根误差指标上改进模型较劣于传统模型之外，其他指标均优于传统模型，尤其是总体预测精度高于传统模型近4个百分点，这说明该模型也可很好地适用于北京地区。研究效果表明该模型可推广到其他地区(如京津冀地区)使用，具有一定的普适性。但受地理环境和气候因素的影响，在使用时需根据地区实际情况，对模型参数稍加修改，便可适用于所有有需求的地区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大气水汽是反映大气环境变化的一个重要因子，长时间监测其动态变化,对生态系统服务评价、环境保护和社会生产发展具有重要的参考价值。笔者首先建立探空水汽与地面水汽压的常规水汽模型，再利用CE-318水汽与探空水汽之间的关系进行修订，从而构建基于CE－318的大气水汽改进型反演模型，并进一步依照四季构建分季节的大气水汽反演模型，最终运用相关指标对模型做精准度检验对比，选出适合该地区的最优反演模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用研究数据构建出传统回归模型「公式（1)]、基于CE-318的大气水汽改进型反演模型[公式（4)]及分季节构建的CE－318大气水汽改进型反演模型[公式(5）]。经模型参数的相关性分析及精准度验证，3个模型的反演结果都较为理想。其中，基于CE-318的大气水汽反演模型的反演结果各项检验指标均为最佳，故选取其为研究区域的最优模型，表明该模型可为石家庄地区大气水汽的反演监测提供新的思路和方法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文建模数据为点状数据源时刻，故基于单站CE-318实测数据，并加入探空这一变量修正参数构建的改进型模型所得结果为点状大气水汽值。可依照降水前大气水汽含量会有快速升高过程的现象，根据点状水汽值制作该站点的大气水汽时间序列图，用来进行水汽日变化、季节变化及年际变化等时间方向上的气候分析。同时，也可根据需求利用合适的空间插值法将点状大气水汽数据拟合为面状结果，制作区域水汽分布图，有利于水汽分布的动态变化检测，以揭示天气状况形成发展和移动的规律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于本文在研究时选取UTC0时作为3种数据的可对比时刻，这必然会造成其他时间有效数据的大量牺牲，对模型的建立和使用增加了时间上的限制条件。在之后的研究中，可通过整理历史数据以增加其他时刻或改进数据筛选与处理的方法，最大限度地提高所获数据的利用率，以期提高模型的精度和拓展模型的普适性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]覃志豪,ZhangMinghua,Arnon Karnieli,等.用陆地卫星TM6 数据演算地表温度的单窗算法〔J].地理学报,2001,56（4）：456-466.[Qin Zhihao,Zhang Minghua,Arnon Karnieli,et al.Mono-window algorithm for retrieving land surface temperature formLandsat TM6 data[J].Acta Geographica Sinica,2001,56（4）：456 -466.]  \n[2] 王玉丹，陈浩，刘璨然，等.ITPCAS和CMORPH两种遥感降水产品在陕西地区的适用性[J].干旱区研究,2018,35（3）：579 -588.[Wang Yudan,Chen Hao,Liu Canran,et al.Applica-bility of ITPCAS and CMORPH precipitation datasets over ShaanxiProvince[J].Arid Zone Research,2018,35（3）:579-588.]  \n[3]王永前，施建成，王皓,等.基于多源遥感数据陆面大气水汽反演的物理统计算法研究［J].中国科学：地球科学，2016，46(1）:43-56.[Wang Yongqian,Shi Jiancheng,WangHao,et al.Physical statistical algorithm for precipitable water vapor inversionon land surface based on multi-source remotely sensed data[J].Scimce China-Earth Sciences,2016,46(1）:43-56.]  \n[4]李慧，杨涛,何祺胜,等.新疆天山山区TRMM卫星降水数据的复合校正方法[J].干旱区研究，2017，34（3）：585-590.［LiHui,Yang Tao,He Qisheng,et al. Composite correction method ofTRMM satelite precipitation data in the Tianshan Mountains,Xin-jiang[J].Arid ZoneResearch,2017,34(3）:585-590.]  \n[5]马思琪,周顺武,王毅勇,等.JICA项目地基GPS大气可降水量资料精度检验[J].干旱区研究，2017，34（3）：575－584.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[Ma Siqi,Zhou Shunwu,Wang Yiyong,etal.Accuracy test of JICA project ground-based GPS precipitable water vapor[J].Arid Zone Research,2017,34(3) :575-584.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]李成,黄秋燕,覃志豪.CE-318 太阳光度计及探空数据反演 水汽含量与MODIS近红外水汽产品对比[J].地球信息科学 学报,2017,19（7）:994-1 000.［Li Cheng,Huang Qiuyan,Qin Zhihao.Comparison of water vapor content retrieved by CE-318 Sun-photometer,Radiosonde data and MODIS near infrared data [J].Journal of Geo-Information Science,2017,19（7）: 994- 1 000.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7]胡秀清,张玉香,黄意玢,等.利用太阳辐射计 $9 4 0 \\ \\mathrm { n m }$ 通道反 演大气柱水汽总量[J].气象科技,2001,29(3）：12-17.[Hu Xiuqing,Zhang Yuxiang,Huang Yifen,etal.Inversionof atmospheric column water vapor with 94O nm channel of solar radiometer [J].Meteorological Science and Technology,2001,29（3）:12 - 17.]   \n[8]申彦波,王炳忠,王香云,等.整层大气水汽含量统计外推方法 应用讨论[J].高原气象,2016,35（1）：181-187.[Shen Yanbo,Wang Bingzhong,Wang Xiangyun,et al.Discussion on application of statistical extrapolation method for whole integrated water vapor content[J].Plateau Meteorology,2016,35（1）:181-187.]   \n[9]李国翠,李国平,刘凤辉,等.华北地区水汽总量特征及其与地 面水汽压关系[J].热带气象学报,2009,25（4）：488-494.［Li Guocui,Li Guoping,LiuFenghui,etal. Characteristicsof precipitable water vapor and their relationship with surface vapor pressure in North China[J].Journal of Tropical Meteorology,20o9,25（4）： 488 - 494. ]   \n[10］王研峰,尹宪志,黄武斌,等.黄土高原半干旱地区大气可降水 量研究[J].冰川冻土,2015,37（3）:643-649.[Wang Yanfeng,Yin Xianzhi,Huang Wubin,et al.Study of the precipitable water over the semi-arid regions of the Loess Plateau[J]. Journal of Glaciology and Geocryology,2015,37（3）:643-649.]   \n[11］姚俊强,杨青,胡文峰,等.天山山区空中水汽含量及与气候因 子的关系[J].地理科学,2013,33（7）:859-864.[Yao Junqiang,Yang Qing,Hu Wenfeng,et al. Characteristics analysis of water vapor contents around tianshan mountains and the relationships with climate factors[J]. Scientia Geographica Sinica,2013, 33(7) :859-864.]   \n[12］姚俊强,杨青,黄俊利,等.天山山区及周边地区水汽含量的计 算与特征分析[J].干旱区研究,2012,29(4):567-573.[Ya Junqiang,Yang Qing,Huang Junli,et al. Computation and analysis of water vapor content in the tianshan mountains and peripheral regions,China[J].Arid Zone Research,2012,29(4） :567 -573.]   \n[13］潘韬,吴绍洪,刘玉洁,等.纵向岭谷区地表大气水汽含量的气 候学计算[J].地理科学进展,2012,31（3）：293－302.[Pan Tao,Wu Shaohong,Liu Yujie,et al.Climatological calculation of land surface atmospheric water vapor content in longitudinal rangegorge region[J]. Progress in Geography,2012,31（3）:293- 302.]   \n[14］张丹,刘昌明,付永锋,等.基于 MODIS 数据的中国地面水汽 压模拟与分析[J].资源科学,2012,34（1）:74－80.[Zhang ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dan,Liu Changming,Fu Yongfeng,et al.Estimation and analysis of near surface vapor pressure in China based on MODIS data[J]. Resources Science,2012,34(1):74-80.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15]李颖,张俊东，罗鹏.大气可降水量估算模型研究[J].气象与 环境科学,2013,36(2）:21-25.[Li Ying,Zhang Jundong,Luo Peng.Research on estimation model of atmospheric precipitable watervapor[J].Meteorological and Environmental Sciences,2013, 36(2):21-25.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16]郭洁，李国平.川渝地区大气可降水量的气候特征以及与地面水汽量的关系[J].自然资源学报，2009，24（2）：344－350.[Guo Jie,Li Guoping.Climatic characteristics of precipitable watervapor and relations to surface water vapor column in Sichuan andChongqing region[J]. Journal of Natural Resources,2Oo9,24(2）:",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "344 -350.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17]任宜勇，李霞，吕鸣，等.CE318太阳光度计观测资料应用前景 及其解读[J].气象科技,2006,34(3）:349-352.[Ren Yiyong， Li Xia,Lu Ming,et al.Application prospect of measurement by sun photometer CE318 and retrieval methodology[J].Meteorological Science and Technology,2006,34(3） :349-352.]   \n[18]DurreI,VoseRS,WuertzDB.Overview of the integrated global radiosonde archive[J].Journal of Climate,2006,19(1）:53-68.   \n[19]王炳忠，申彦波.我国上空的水汽含量及其气候学估算[J].应 用气象学报,2012,23（6）：763-768.[Wang Bingzhong,Shen Yanbo.Atmospheric vapor content over china and its climatological evaluation method[J].Journal of Applied Meteorological Science, 2012,23(6):763-768.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Inversion Model for Atmospheric Water Vapor over the Shijiazhuang Area ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WUZi-chao2²，HUYin-cui²，TIAN Bing²，CHENGYa-qi²，ZHANG Wen-jing1 (1.Hebei ProvinceLaboratoryofEvironmental Eolutionnd Ecological Construction,Shijazhuang O5o4,Hebei,China; 2.College of ResourcesandEnvironmental Sciences,Hebei Normal University,ShijiazhuangO5oo24,Hebei,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Itisof important practical significance for effectively assesing the functions of atmospheric ecological services and strengthening the construction of ecological environmentto study the inversion of atmospheric water vapor and understand its spatiotemporal change.Based on the CE -318 observed atmospheric vapor data,sounding data and surface vapor pressure data,the traditional regression model,CE -318-based atmospheric water vapor inversion model and seasonal model wereconstructed bytraditional regression analysis and improved regression analysis.The optimal inversion model of atmospheric vapor over the study area was selected by the accuracy evaluation analysis.The main conclusions are as folows：The inversion resultsof the three modelsconstructed were all relatively satisfactory,and the inversionresults ofthe atmospheric watervapor inversion modelbasedon CE-318 were the mostaccurate.Its item inspection indexes were the best values in the accuracy tests of the three models,and he atmospheric water vapor inversion models were optimal for the study area. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:atmospheric vapor；CE -318；sounding；surface water vapor pressure；inversion model； Shijiazhuang ",
+        "page_idx": 7
+    }
+]

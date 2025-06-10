@@ -1,0 +1,427 @@
+# 冷轧高强钢板淬火过程板形瓢曲缺陷演变规律研究
+
+张清东 林 潇 曹 强 卢兴福 张勃洋 胡树山(北京科技大学机械工程学院 北京100083)
+
+摘要针对已有板形瓢曲浪形缺陷冷轧高强钢板的淬火过程，应用ABAQUS有限元分析平台及其UMAT二次开发功能，建立淬火过程温度-组织-应力应变多场耦合的有限元仿真模型，研究淬火过程高强钢板的弹塑性变形行为及其对初始板形瓢曲缺陷的改变。通过热模拟实验结果对该有限元仿真模型进行了验证，模拟再现了已瓢曲高强钢板的淬火过程及弹塑性变形，获得了板形瓢曲浪形在淬火过程中的演变规律，指出钢板宽度方向上的温度梯度以及依先后顺序相变所引起的钢板纵向延伸变形沿宽度方向上分布不均匀，导致原有板形瓢曲浪形发生改变，甚至可以生成新的瓢曲浪形。定义了描述板形瓢曲浪形改变程度的指标，X如浪高变化率、浪宽变化率、浪距变化率，定量揭示横向温差、张力等工艺参数对冷轧高强钢板淬火过程交板形变化的影响规律。搭建实验室冷轧钢板火实验研究系统，开展具有单边浪板形瓢曲缺陷钢板的淬火实验，实验结果与仿真计算结果取得定性一，本工作的数值模拟方法建立了冷轧高强钢淬火过程工艺参数和板形缺陷变化之间的联系，为标热处理过程提供了支撑。
+
+关键词 高强钢，淬火，瓢曲，边中浪，数值模拟
+
+中图分类号 TG156.34
+
+# FLATNESS DEFECT EVOLUTION OF COLD-ROLLED HIGH STRENGTH STEEL STRIP DURINCQUENCHING PROCESS
+
+ZHANG Qingdong, LIN Xiao, CAO Qiang, LU Xingfu, ZHANG Boyang, HU Shushan School of Mechanical and Engineering, Universityl cience and Technology Beijing, Beijing lOo83, China Correspondent: LIN Xiao, Tel: (010)62332334, E-mail: ustb_linxiao@ 163.com Supported by National Natural Science Foundation of China (No.51575040) and National Science and Technology Support Project (No.2011BAE13B05) Manuscript received 2016-06-27, in revised form 2017-01-16
+
+ABSTRACT Quenching is a key process in cold-rolled high strength steel manufacturing for the improvement of the material strength and plasticity.The quenching,however, may bring initial flatness defects of the steel strips, which causes problems for subsequent production process. It is thus necessry to study the flatness defects evolution during the quenching process.Using the secondary development of ABAQUS subroutine UMAT, this work establishes a temperature-microstructure-stress coupling finite element modeling (FEM) model to simulate the quenching process of the high strength steel with initial buckling defects.Thermal simulation experiments are further conducted to verifythe present FEM model.Then,the elastic-plastic deformation behavior of the steel plates and its effects on flatnessbuckling during the quenching process is investigated using the FEM model. As a consequence,the buckling defect evolution mechanism in heat treatment process is obtained for the cold-rolled high strength stee. The flatnesschange or the forming ew flatness defect is mainly caused by the longitudinal extension arising from temperature gradient_and the X quential phase transformation different in width and 7   
+transverse directions. Change rates of the wave height, width,and length are used to describe the flatness change X   
+degree, quantifying the influence of etensionand initial transverse temperature difference on flatness change. The simulation shows that the tensionhas a positive correlation with the improvement of initial bucking defects. X   
+The initial edge waves bece more severe after quenching along with the appearafce of the new quarter waves, when the initial temperature of strip center is higher than that of the edge. On th Contrary, the initial central waves become more serious when the initial temperature of strip center is lower. Meanwhile, joint impact of the ?4   
+tension and the initial transverse temperature difference on wave eight is reVealed for the application of industrial practice.Furthermore,quenching experiments of the high strength steel plates with initial single edge wave buckling defects are carried out using the experiment/ Mem in lab.Different sides of the plates quench into the water tank to reproduce the sequence of the phase change.The simulation and experiments produce consistent results qualitatively. This work makes connections between technological parameters and flatness change during quenching process, which can provide support to industrial heat treatment of high strength steel.
+
+KEY WORDS high strength steel, quenching, buckling,edge wave, central buckling, numerical simulation
+
+冷轧高强度钢板带是钢铁行业板带材中的高附加值产品，广泛应用于航空、航天、船舶、输油管道、桥梁、汽车等领域[1]。热处理能够提高冷轧高强钢板的强度和塑性[2-5]，获得较好的综合力学性能[]。在热处理前后，冷轧高强带钢板形往往存在瓢曲缺陷和翘曲缺陷[7.8]，统称为板形平直性缺陷。带钢热处理后仍存在的严重板形缺陷不仅使该产品无法达到用户的质量要求，也对热处理机组及后序工序生产的通板性、通过性和运行稳定性产生不利影响。因此，研究冷轧高强钢板带淬火过程板形瓢曲的变化原因及规律，探索减少淬火后带钢板形缺陷的对策技术，对提高冷轧高强钢的板形质量具有重要意义。
+
+目前，对冷轧高强钢板带淬火过程的数值模拟研究， ${ \mathrm { w } } { \mathrm { u } }$ 等9对淬火过程中钢板表层和心部的温度和应力分布随时间的变化情况进行了研究，对不同部位的冷却速率对应力分布的影响进行了说明。刘国勇等[10]利用 ANSYS 三维有限元对中厚钢板淬火过程的应力应变场和温度场进行了数值模拟，分析了钢板板形良好情况下的应力、塑性应变及宏观尺度变形的特点。目前关于淬火过程的研究中，板形瓢曲缺陷的生成与演变尚未见报道。但针对退火过程的板形瓢曲缺陷已有较多研究。比如，有研究[1认为，连退炉内钢板热瓢曲的产生是由辊凸度造成钢板宽度方向张力不均匀而产生的压缩应力，及钢板宽度方向温度不均匀产生的温度应力共同作用的结果。研究[12-15]指出，带钢纵向局部不均匀拉伸引起的横向诱导压应力导致了瓢曲现象的产生，并运用钢板的板形屈曲及后屈曲理论分析了退火炉内高温态下钢板的板形屈曲临界条件，认为浪形缺陷是由初应变导致的屈曲变形。文献[16\~18]对中浪瓢曲问题中的后屈曲路径及高次局部浪形的彩屈曲变形过程进行了解析求解，建立了退火过程的带钢热瓢曲行为的力学模型，运用有限元软件对带钢变形的影响规律进行研究。上述研究主要关注板形瓢曲生成过程，针对有初始板形缺陷的钢板带在热处理W过程中板形变化的研究相对较少；另外，以上研究没有考虑钢板热处理过程中相变对板形的影响。根据XLequesne 等[19]对厚板辊式淬火过程行的温度-组织-应力应变多场耦合模拟发现，相变对模拟计算结果有较大影响。因此，本工作针对冷轧高强钢板淬火过程板形瓢曲的演变问题，基于 ABAQUS 有限元软件，通过对温度场-组织场-应历场的模拟，研究具有初始板形瓢曲缺陷冷轧高强钢板带的淬火过程，揭示淬火过程中板形瓢曲缺陷的演变规律，探索淬火过程的板形控制策略。》、分
+
+1淬火过程温度-组织-应力场的有限元实现
+
+浅吊
+
+# 1.1淬火过程的数学模型
+
+邮
+
+淬火是材料温度场、组织场和应力应变场相互耦合作用的工艺过程[20.21]。在连续水淬过程中，冷轧高参强钢板经过高冷却速率的喷水 $^ +$ 穿水式冷却过程，由高温急速冷却至水温，内部组织发生急剧变化，实现奥氏体向马氏体转变。在这一过程中，钢板会发生收缩变形，也会发生相变膨胀变形[22]，还有因钢板边部与中心温降的时间差和温度差所导致的不均匀热应变、相变应变、相变塑性应变[23.24]。在淬火过程中，材料的全应变增量 $\mathrm { d } \varepsilon$ 可表示为弹性应变增量 $\mathrm { d } \varepsilon ^ { \mathrm { e } }$ 、塑性应变增量 $\mathrm { d } \pmb { \varepsilon } ^ { \mathrm { p } }$ 、热应变增量 $\mathrm { d } \varepsilon ^ { \mathrm { t h } }$ 、相变应变增量dε"和相变塑性应变增量 $\mathrm { d } \varepsilon ^ { \mathrm { t p } }$ 之和：
+
+$$
+\mathrm { d } \pmb { \varepsilon } = \mathrm { d } \pmb { \varepsilon } ^ { \mathrm { e } } + \mathrm { d } \pmb { \varepsilon } ^ { \mathrm { p } } + \mathrm { d } \pmb { \varepsilon } ^ { \mathrm { t h } } + \mathrm { d } \pmb { \varepsilon } ^ { \mathrm { t r } } + \mathrm { d } \pmb { \varepsilon } ^ { \mathrm { t p } }
+$$
+
+$$
+\mathrm { d } \pmb { \varepsilon } ^ { \mathrm { e } } = \pmb { D } _ { e } ^ { - 1 } \mathrm { d } \pmb { \sigma } + \frac { \partial \pmb { D } _ { e } ^ { - 1 } } { \partial T } \pmb { \sigma } \mathrm { d } T + \sum _ { I = 1 } ^ { N } \frac { \partial \pmb { D } _ { e } ^ { - 1 } } { \partial f _ { \mathrm { I } } } \pmb { \sigma } \mathrm { d } f _ { \mathrm { I } }
+$$
+
+$$
+\mathrm { d } \pmb { \varepsilon } ^ { p } { = } \mathrm { d } \lambda \frac { \partial f } { \partial \pmb { \sigma } } , f = f ( \pmb { \sigma } , \pmb { \varepsilon } ^ { \mathrm { p } } , T , f _ { I } ) { = } 0
+$$
+
+$$
+\textrm { d } \pmb { \mathscr { E } } ^ { t h } = \alpha \textrm { d } T + \sum _ { I = 1 } ^ { N } \int _ { T _ { 0 } } ^ { T } \alpha _ { I } \textrm { d } T \textrm { d } f _ { I } \textrm { , } \pmb { \mathscr { \alpha } } = \left\{ \sum _ { I = 1 } ^ { N } \alpha _ { I } f _ { I } \quad \sum _ { I = 1 } ^ { N } \alpha _ { I } f _ { I } \quad \sum _ { I = 1 } ^ { N } \alpha _ { I } f _ { I } \quad 0 \quad 0 \quad 0 \right\} ^ { \mathrm { T } }
+$$
+
+$$
+d \pmb { \mathscr { \varepsilon } } ^ { t r } = \sum _ { I = 1 } ^ { N } \beta _ { I } d f _ { I } \ , \quad \pmb { \beta } _ { I } = \left\{ \beta _ { I } \quad \beta _ { I } \quad \beta _ { I } \quad 0 \quad 0 \quad 0 \right\} ^ { \mathrm { T } }
+$$
+
+$$
+\mathrm { d } \pmb { \varepsilon } ^ { \mathrm { t p } } = 3 \sum _ { I = 1 } ^ { \mathrm { N } } K _ { I } \pmb { \sigma } ^ { \prime } \bigl ( 1 - f _ { I } \bigr ) \mathrm { d } f _ { I }
+$$
+
+式中， $D _ { \mathrm { e } }$ 为弹性矩阵； $f _ { I }$ 为 $I$ 相的相体积分数；dλ为塑性因子； $T$ 为温度； $f$ 为与应力 $\sigma , \ \varepsilon ^ { \mathrm { p } }$ 、 $T$ 、相变等有关的屈服条件，本工作采用改进的 Johnson-Cook(J-C)本构模型[25]并结合混合法则得到； $\alpha$ 为材料总热膨胀系数， $\alpha _ { I }$ 为 $I$ 相的热膨胀系数； $N$ 代表不同相数量的自然数； $\beta _ { I }$ 为 $I$ 相的相变膨胀系数； $K _ { I }$ 为 $I$ 相的相变塑性系数； $\sigma ^ { \prime }$ 为其偏张量。
+
+1.2数值模拟平台的建立
+
+建立淬火过程温度场-组织场-应力场三场耦合仿真平台，采用弹塑性增量本构关系，利用 Newton 迭代法求解；定义奥氏体体积分数状态变量的初值为1,体为0，马氏体增量为0；马氏体相变动力学模型选用 Koistinen-Marburger 模型；材料参数，如弹性模量、双线性模型中塑性部分的斜率、屈服强度等都是温度和相体积分数的函数，因此本工作首秃过实验确定多项式来表达各种相(奥氏体、马氏体)的各材料 过宝书参数与温度的关系，而后根据线性混合法则算当前增量步的材料参数。
+
+# 1.3仿真模型的热模拟实验验证
+
+禹
+
+为验证三场耦合仿真模型，将 轧高强钢板淬火过程的数值模拟结果与热 拟实验结果进行对比。利X用Gleeble3500热模拟试验机将宽度 $1 2 ~ \mathrm { m m }$ 的试样均匀加热至 $9 5 0 \mathrm { ~ \textdegree C }$ ，保温后以 $5 0 ~ \mathrm { ^ { \circ } C / s }$ (大于该材料临界冷速)的速率冷却至室温，温度降至 $5 0 0 \mathrm { ^ \circ C }$ 时施加轴向张力。 武 花
+
+图1为冷轧高强钢板在不同张力下全淬火过程宽向位移的实验值计算值对比。可见，两者吻合良好。
+
+![](images/8189c7cea8d959055f2502b283bfc083e3701c6bc80d77ebcc0712b6fa6682bd.jpg)  
+图1不同张力下冷轧高强钢板淬火过程宽向位移随温度的变化
+
+Fig.1 Transverse displacement versus temperature during quenching process of cold-rolled high strength steel strip under different tensions
+
+2高强钢板淬火过程的温度-组织-应力应变场多场耦合数值模拟
+
+根据板形生成理论，淬火前钢板的初始板形瓢曲缺陷产生于前工序塑性加工中产生的宽向不均匀分布残余应变(初应变)引起钢板的屈曲及后屈曲变形，而板形瓢曲缺陷的变化也是由于钢板发生新的不均匀纵向延伸导致原始宽向初应变分布改变而引起的[26]。因此本研究从初应变出发，并始终围绕初应变的变化，建立有瓢曲缺陷钢板淬火过程的有限元模拟模型，揭示其变化机理与规律。
+
+# 2.1有限元模型的建立
+
+工业生产中最常见的双侧边浪缺陷及中浪缺陷的表达式分别如下：
+
+$$
+W ( x , y ) = A { \Bigg ( } 1 - \cos { \frac { \pi x } { 2 b } } { \Bigg ) } ^ { n } \cos { \frac { \pi y } { a } }
+$$
+
+$$
+W ( x , y ) { \stackrel { \lesssim } { \to } } { \underset { a } { \bigotimes } } { \underset { a } { \mathcal { H } } } { \cos } { \frac { \pi x } { \operatorname { \pi } ^ { \chi } } } { \Biggr ) } ^ { n } { \cos } { \frac { \pi y } { a } }
+$$
+
+式中，W为浪形轮廓线的空间位置， $x$ 和 $y$ 为浪形轮廓上某一点的横纵坐标， $b$ 为半板宽， $2 a$ 为浪距，A为浪高， $n$ 为自然数。
+
+海
+
+选择尺寸为 $4 0 0 0 \ \mathrm { m m } { \times } 1 0 0 0$ m 网 $\mathbf { m } \mathbf { m }$ 的钢板建立三维有限元模型。存在初始边浪缺陷的钢板，考虑对称性建立对称模型如图2a所示在初始中浪缺陷的钢板，建立整体模型如图2b所示，钢板厚向位移反 报最大值所在的纵向轮廓线郎为浪形轮廓线。
+
+![](images/631eebd555183c28d18cfc252cfbf4b519970bf20d701180b461fff11e734e1a.jpg)  
+图2存在初始边浪缺陷和存在初始中浪缺陷的模型
+
+Fig.2 Models of steel sheet with initial edge wave (a) and initial central wave (b)
+
+为定量分析淬火过程前后板形瓢曲缺陷变化情况，定义浪高 $R _ { \mathrm { w } }$ 、浪高变化率 $K _ { \mathrm { R } }$ 、浪宽变化率 $K _ { \mathrm { b } }$ 、浪距变化率 $K _ { \mathrm { a } }$ 如下：
+
+$$
+R _ { \mathrm { { w } } } = y _ { \operatorname* { m a x } } - y _ { \operatorname* { m i n } }
+$$
+
+式中， $y _ { \mathrm { m a x } }$ 为所取浪形轮廓线的最高点， $y _ { \mathrm { m i n } }$ 为所取浪形轮廓线的最低点。
+
+$K _ { \mathrm { R } }$ 表示热处理前后浪高的差值与初始浪高的比值，表达式为：
+
+$$
+K _ { _ R } = \frac { R _ { _ 0 } - R _ { _ w } } { R _ { _ 0 } } { \times } 1 0 0 \%
+$$
+
+式中， $R _ { 0 }$ 为钢板初始浪高。
+
+$K _ { \mathrm { b } }$ 为热处理前后浪宽差值与初始浪宽的比值，表达式为：
+
+$$
+K _ { _ b } = \frac { b _ { _ 0 } - b _ { _ w } } { b _ { _ 0 } } \times 1 0 0 \%
+$$
+
+式中， $b _ { 0 }$ 为钢板的初始浪宽， $b _ { \mathrm { w } }$ 为钢板热处理后的浪宽。
+
+同时对浪宽规定如下：对于淬火前的初始浪形缺陷，定义浪宽为从板宽方向浪高最大值所在的纵向纤维条处至浪高为 $1 \ \mathrm { m m }$ 所在的纵向纤维条处的距离；若该处淬火前不存在初始浪形，但在热处理后出现了新的浪形时，新浪形的浪宽定义为从板宽方向浪高最大值所在的纵向纤维条处至浪高为 $0 . 0 1 \mathrm { m m }$ 所在的纵向纤维条处的距离。
+
+$K _ { \mathrm { a } }$ 为热处理前后浪距差值与初始浪距的比值，表达式为：
+
+$$
+K _ { _ a } = \frac { a _ { 0 } - a _ { _ w } } { a _ { 0 } } \times 1 0 0 \%
+$$
+
+式中， $a _ { 0 }$ 为钢板的初始浪距， $\boldsymbol { a } _ { \mathrm { w } }$ 为钢板热处理后的浪距。
+
+此外，定义热处理前后边浪及中浪的浪距为浪形轮廓线中相邻2个波峰或波谷之间的距离。
+
+2.2 有初始板形瓢曲缺陷高强度钢板淬火过的板形演变机理 L
+
+首先对淬火过程的板形演变行为进行研。选取典型工况条件模拟整个带钢淬火过程：钢板的初始缺A陷为边浪，厚度为 $1 \mathrm { m m }$ ，初始浪高4mm，初始浪距为 $5 0 0 \mathrm { m m }$ ，初始浪宽为 $1 0 0 \mathrm { m m }$ ,工艺张力为 $1 0 \mathrm { { M P a } }$ 存在初始横向温差 $. 1 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ （即边部温度高于中部 $1 0 \ \mathrm { ^ { \circ } C }$ ，横向温度呈二次分布)。
+
+报
+
+图3所示为淬火过程钢板表层马氏体相变全进程。可以看出，带钢由 $9 0 \mathrm { \dot { 0 } ^ { \circ } C }$ 降温0.773s后表层中部开始发生马氏体相变，降温0.818s后表层边部开始发生马氏体相变海淬火过程分为3个阶段：第I阶段为钢板从高温降至马氏体相变开始点温度前，此时中部、边部均未发生马氏体相变，对应时间区间为0-0.773 s；第I阶段为仅钢板中部发生马氏体相变，时间图为 $\yen 123,456$ ；第IⅢ阶段为钢板边部及中部均发生马氏体相变的阶段，时间区间为0.818s\~淬火结
+
+国
+
+![](images/f0f97228e8e4995a0863ac5f73908560f1a535ff18fda18ff5e250afd5eb9d5a.jpg)  
+图3淬火过程钢板表层马氏体体积分数变化
+
+# Fig.3 Martensite volume fraction of steel strip during quenching process
+
+图4为对应上述3阶段中钢板边浪浪高随时间变化曲线。淬火过程第I阶段钢板边浪浪高增大，主要源于钢板边部与中部的热应变差逐渐增大。总应变差中各应变差随时间变化如图 5a 所示。可见，在第I阶段，钢板边部与中部的相变应变差、相变塑性应变差及塑性应变差均为0，但受热应变宽度方向不均匀分布的影响，钢板在第I阶段边部与中部的热应变差从0逐渐增至0.0016，同时浪高从初始 $4 \mathrm { m m }$ 增至5.06mm，且二者变化趋势吻合，因而边部与中部的热应变差是边浪浪高增大的主要原因。热变差增大是由于第I阶段中钢板温度高，而在此温度区间冷却水与钢板表面的传热形式主要为膜沸腾，接触表面有大量气泡产生，阻碍了钢板与冷却水的热交换，换热系数随钢板温度的升高而降低，因此与中部相比，初始温度4较高的边部换热系数较大，进而使钢板边部的降温速率小于中部[27-29]。由于钢板中部的降温速率大于边部，导致钢板中部热应变与边部热应变的差值越来越大。高由初始的 $4 \mathrm { m m }$ 小幅降至 $3 . 6 9 \mathrm { m m }$ 是模拟中对高沙温钢板施加张力的结果。
+
+![](images/22e6586aed690b2e6dbe08a511d960a092f08f5ea470bed1b47c6e8fe80d248c.jpg)  
+图4淬火过程中钢板边浪浪高变化  
+Fig.4 Change of edge wave height during quenching process
+
+![](images/5402d08b35ff418b1b7227b295adaaf2725393cb3e0cecb29688ccfc2904414b.jpg)
+
+Fig.5 Differences of strainsbetween edge region and central region of steel strip in stages I(a), I (b)and I(c)
+
+第II阶段边部、中部应变差如图 5b 所示。随着淬火过程继续，钢板边部与中部的热应变差先增大后减小；受钢板温度场分布的影响，钢板自表层至心部、自中部至边部依次发生相变膨胀，相变应变均为正值，且随着时间延长，钢板边部相变应变与中部相变应变的差值逐渐减小；纵向相变塑性应变与马氏体相变体积分数密切相关，且随着时间的延长，钢板边部纵向相变塑性应变与中部纵向相变塑性应变的差值呈增大趋势；由于钢板中部比边部先发生马氏体相变，中部的屈服强度明显增大后使边部更难发生塑性变形，随着时间的延长，钢板边部纵向塑性应变与中部纵向塑性应变的差值增大。此外，钢板表层先于心部发生马氏体相变，钢板表层塑性应变小于钢板心部。综上所述，在钢板淬火第 ⅡI阶段，受热应变、相变应变、纵向相变塑性应变及纵向塑性应变宽向分布不均的影，钢板边部的纵向应变整体上小于中部，且随着时间的延长，由相变和温度梯度引起的钢板边部与中部应变差减小，因此钢板边浪浪高在这一过程中减小。
+
+图 5c 为第IⅢ阶段钢板表层边部与中部的应变差。可以看出，随着时间的延长，钢板表层与边部的热X应变差减小，相变应变差增大，纵相变塑性应变差减小，而纵向塑性应变差基本不变。在温度梯度和相变的共同作用下，钢板边部与中部的应变差先增大后减小，钢板边浪浪高先增大后减小。
+
+从上述图3\~5可知，底率火过程中由于机械力、热延伸以及相变分别引起的纵向应变相互叠加共同改变了钢板的原始初应变，从而进一步改变了钢板的瓢曲缺陷，即边浪的大小，6所示为钢板淬火后的厚诊向位移。进一步分析仿真数据发现，对于选定的仿真工况条件，淬火完成后钢板浪高减小，浪高变化率为V$1 9 . 2 2 \%$ ；浪距也减小，浪距变化率为 $1 . 1 7 \%$ ；浪宽同时减小浪宽变化率为 $1 . 6 7 \%$ 。
+
+![](images/594cc14e785bf027568f9a1b5b6955f8c353758835347b04bc42895dae980ff8.jpg)  
+图5第I、II、IⅢI阶段钢板表层边部与中部的应变差  
+图6钢板淬火完成后的厚向位移
+
+Fig.6 Displacement in thickness direction $( \mathrm { U } 2 / \mathrm { m m } )$ of steel strip after quenching
+
+3淬火过程工艺参数对边浪的影响规律
+
+# 3.1张力的影响规律
+
+连续热处理生产工艺要求在淬火过程中对带钢必须施加一定的工艺张力。经温度场-组织场-应力场三场耦合有限元模型仿真，淬火过程张力对边浪指标变化率的影响如表1所示。可以看出，对于钢板初始边浪缺陷，随着张力由 $5 \ \mathrm { M P a }$ 逐渐增至 $3 0 ~ \mathrm { M P a }$ ，钢板浪高变化率上升 $2 8 . 0 6 \%$ ，浪宽变化率增幅 $2 \%$ ，说明张力增大对板形初始边浪的浪高和浪宽均具有改善能力；浪距变化率减幅 $0 . 1 6 \%$ 显示张力淬火有增大浪距、改善边浪的能力，只是随着张力增大，改善能力略有下降。
+
+Table1 Influence of tension on change rate of edge wave after quenching   
+
+<html><body><table><tr><td>Tension /MPa</td><td>Wave height decrease /%</td><td>Wave length increase / %</td><td>Wave width decrease / %</td></tr><tr><td>5</td><td>8.58</td><td>1.1</td><td>0.4</td></tr><tr><td>10</td><td>15.15</td><td>1.06</td><td>0.8</td></tr><tr><td>15</td><td>21.29</td><td>1.03</td><td>1.2</td></tr><tr><td>20</td><td>28.86</td><td>1.01</td><td>1.63</td></tr><tr><td>25</td><td>31.97</td><td>0.97 布</td><td>2</td></tr><tr><td>30</td><td>36.64</td><td>0.94</td><td>2.4</td></tr></table></body></html>
+
+3.2初始横向温差的影响规律
+
+本
+
+![](images/db0dc73120107f2060b4bb8fca42b3ba8e0458b4283b2e2dd53b45eab6ca11dc.jpg)
+
+初始横向温差对钢板浪形改变程度的影响见表2。定义初始横向温差 $\Delta T$ 为带钢中部温度与边部温度的梦 水  
+差值。可看出，随着△T由0 $\mathrm { { } ^ { \circ } C }$ 增至 $2 0 \ \mathrm { ^ { \circ } C }$ ，边浪浪高、浪宽变化率分别下降 $8 8 . 2 5 \%$ 和 $3 . 7 5 \%$ ，浪距变化  
+率先减小后增至原值附近，最大降幅 $0 . 1 4 \%$ 。显示带钢边、中部初始疆差越大K淬火对初始边浪的浪高、X  
+浪宽指标改善越明显，该温差也会削弱对浪距的改善能力。7
+
+W表2初始横向温差对淬火前 浪指标变化率影响
+
+Table2 Influence of initial transverse temperature diferenon change rate of edge wave after quenching
+
+表1张力对淬火前后边浪指标变化率影响  
+
+<html><body><table><tr><td>△T/℃</td><td colspan="3">Wave height decrease / %7 Wave length increase / % Wave width decrease / %</td></tr><tr><td>-20</td><td>48.86</td><td>1.15</td><td>2.5</td></tr><tr><td>-15</td><td>47.46</td><td>1.14</td><td>2.4</td></tr><tr><td>-10</td><td>32.07</td><td>1.12</td><td>1.88</td></tr><tr><td>-5</td><td>28.08</td><td>1.07</td><td>1.75</td></tr><tr><td>0</td><td>26.86</td><td>1.01</td><td>1.63</td></tr><tr><td>5</td><td>17.71</td><td>1.07</td><td>1</td></tr><tr><td>10</td><td>-1.75</td><td>1.12</td><td>0.13</td></tr><tr><td>15</td><td>-7.82</td><td>1.14</td><td>-0.13</td></tr><tr><td>20</td><td>-19.39</td><td>1.15</td><td>-1.25</td></tr></table></body></html>
+
+Note: $\Delta T$ is the initial temperature difference between strip center and edge
+
+同时，仿真计算结果显示，正的初始横向温差使钢板淬火后在大约板宽1/4的位置产生了新的瓢曲浪形，即四分之一浪，其浪高和浪宽变化率与初始横向温差正相关，浪距变化率与初始横向温差负相关，如表3所示。初始横向温差 $1 0 \ \mathrm { { ^ \circ C } }$ 淬火后厚向位移云图(图7)显示了新生浪形情况。图8和9所示厚向位移分布图表明，正温差淬火不仅能够产生四分之一浪，还将产生轻微的向下C翘和向下L翘。这些现象体现着热处理对板形缺陷变化的复杂影响。
+
+Table3 Influence of initial transverse temperature difference on new-formed quarter wave after quenching
+
+表3初始横向温差对淬火后新生四分之一浪形的影响  
+
+<html><body><table><tr><td>△T/ ℃</td><td>Wave shape</td><td>Wave height of quarter wave / mm</td><td>Wave width of quarter wave / mm</td><td>Wave length of quarter wave / mm</td></tr><tr><td>-20</td><td>Edge wave</td><td></td><td></td><td></td></tr><tr><td>-15</td><td>Edge wave</td><td>方</td><td></td><td></td></tr><tr><td>-10</td><td>Edge wave</td><td></td><td></td><td></td></tr><tr><td>-5</td><td>Edge</td><td>7</td><td></td><td></td></tr><tr><td>0</td><td>Edge way</td><td></td><td></td><td></td></tr><tr><td>5</td><td>Edge Vé+ quarter wave</td><td>0.11</td><td>90 A</td><td>494.51</td></tr><tr><td>10</td><td>Edge wave + quarter wave</td><td>0.25</td><td>164</td><td>494.4</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1520</td><td></td><td></td><td>23.3</td><td>494.33</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+Fig.7 Displacement in thickness direction with an initial transverse temperature difference of $1 0 \ \mathrm { { ^ \circ C } }$
+
+![](images/76061551d9bd401d03a6251a663dd2ce9620382a92678bae1a37c2021f4b6a22.jpg)  
+图 $8 1 0 ^ { \circ } \mathrm { C }$ 初始横向温差淬火后新生分之一浪波峰波谷厚向位移分布
+
+![](images/bff0bf9610347089ebfd13d6fcf1bdc8153c54d3d018e8f09335a402cc3faa52.jpg)  
+图 $9 1 0 \ \mathrm { { ^ \circ C } }$ 初始横向温差下钢板淬火后厚向位移沿长度方向分布
+
+Fig.9 Displacement in thickness direction along longitudinal direction after quenching with an initialtransverse
+
+temperaturedifferenceof $1 0 \ \mathrm { { ^ \circ C } }$
+
+针对上述特殊现象，调取分析淬火过程中应力应变数据发现，该新生四分之一浪的初应变来源于由于温度分布与初始边浪的共同作用所导致的带钢在对应位置的局部张应力较大并引起明显拉伸变形，该拉伸应变又使对应位置的应力由正转负，并进一步引起钢板发生屈曲变形而生成新的四分之一浪。图10 给出了该新生四分之一浪产生全过程的钢板纵向应力即张应力横向分布的演变。从淬火开始局部拉应力升高并导致拉伸变形，到淬火过程拉伸应变使应力由正变负，反映了该四分之一浪的产生机理和过程。
+
+![](images/df2fe0eff2c876e55dcb37ca7329b16315c8197ce819238fd20982103f12c117.jpg)  
+Fig.10 Change of strip longitudinal stress distribution over time
+
+进一步观测淬火过程板温度变化还发现，在带钢边部及中部分别从 890爱 $9 0 0 \mathrm { ~ \textdegree ~ }$ 下降至马氏体开始转变温度的过程中，由于水介质的膜沸腾的影响，使带钢表面换热系数与温度负相关，并造成带钢横向W温差由初始的 $1 0 \mathrm { ~ \textdegree ~ }$ 进一步增至 $5 0 \ \mathrm { ^ \circ C }$ 以上。温差造成的非均匀分布热应变及带钢初始边浪共同使钢板张应X力横向分布严重不均匀，在带钢宽向1/4处出现较大拉应力最终导致四分之一浪的产生。
+
+综上可以得出：（1）当初始横向温差为正值时，淬火后除加剧初始边浪缺陷外，还会产生四分之一浪珍缺陷；四分之一浪使板形缺陷呈高次多项式分布，大了后工序对板形的控制难度[30]，应避免出现此种情况。(2）当初始横向温差为负值和较小的正值或者温差为零时，边浪都变小即板形质量变好，且边浪浪高变化率、浪距变化率及浪宽变化率均随初始横向温差线性变化。
+
+3.3有初始边浪缺陷钢板热处理过程中板形控制对策
+
+仿真研究表明，改善初始板形缺陷需要张力与初始温差的综合作用。为此，对常见的钢板规格(厚度1mm)及初始板形边浪缺陷(浪高 $4 \mathrm { m m }$ ，浪宽 $1 0 0 \mathrm { m m }$ ，浪距 $5 0 0 \mathrm { m m } ,$ ，仿真计算不同张力和不同初始横向温差工况下的边浪浪高变化率，如表4所示。由于初始横向温差为正的情况导致初始边浪加剧及四分之一浪缺陷，应是生产中尽力避免的情况，因此更不能作为改善板形的对策措施。表4进一步说明，在淬火过程中，初始横向温差为负和张力的作用对于钢板初始边浪的浪高起到改善作用，其中初始横向温差影响更明显。在相同张力的作用下，随着初始横向温差减小，淬火后初始边浪改善幅度下降；在相同初始横向温差下，随着张力增大，初始边浪浪高改善幅度增大，浪距改善幅度减小。因此在工业生产中，针对有初始边浪缺陷钢板的淬火过程，应采取较大的初始横向负温差和较大的钢板张力。
+
+Table4 Decrease of edge wave height in different quenching conditions   
+
+<html><body><table><tr><td>Tension／MPa</td><td>△T=0</td><td>△T=-10 ℃</td><td>△T =-20℃</td></tr><tr><td>10</td><td>15.15%</td><td>23.28%</td><td>41.32%</td></tr><tr><td>20</td><td>26.86%</td><td>32.07%</td><td>48.86%</td></tr><tr><td>30</td><td>36.64%</td><td>40.10%</td><td>55.53%</td></tr></table></body></html>
+
+4淬火工艺参数对初始中浪的影响
+
+茶
+
+4.1张力的影响规律
+
+表4不同工艺参数淬火过程后的初始边浪浪高下降比例  
+
+<html><body><table><tr><td>Tension /MPa</td><td>Wave height decrease / % Wave</td><td>49 gth increase / %</td><td>Wave width decrease / %</td></tr><tr><td>5</td><td>4.23</td><td>1.1</td><td>0.13</td></tr><tr><td>10</td><td>7.55</td><td>1.08</td><td>0.44</td></tr><tr><td>15</td><td>10.8</td><td>1.05</td><td>0.96</td></tr><tr><td>20</td><td>13.99</td><td>1.03</td><td>1.67</td></tr><tr><td>25</td><td>17.29</td><td>1</td><td>2.08</td></tr><tr><td>30</td><td>20.76</td><td>0.98</td><td>2.29</td></tr></table></body></html>
+
+张力对钢板淬火后中浪浪形的影响见表。可以 出，在淬火过程中施加张力使该过程能够减小初始中浪的浪高和浪宽，微弱增加浪距。随着张力由 $5 \ \mathrm { M P a }$ 增至 $3 0 ~ \mathrm { M P a }$ ，钢板淬火后中浪浪高改善幅度增加4$1 6 . 5 3 \%$ ，显示张力的增加对改善夜中浪浪高最为显著，同时浪宽变化率增大 $2 . 1 6 \%$ ，浪距变化率减小$0 . 1 2 \%$ 。这说明张力的增大使淬火过程对初始中浪浪高和浪宽的改善幅度提高而对初始中浪浪距有微弱反作用。 成 X
+
+# 表5张力对淬火前后中浪指标变化率影响
+
+方
+
+Table5 Influence of tension on change rate of central wave after quenching
+
+# 4.2初始横向温差的影响规律
+
+初始横向温差对钢板淬火后中浪浪形的影响如图11 所示。可见，钢板初始横向温差对钢板初始中浪的影响非简单线性相关。
+
+![](images/07ddc82a314b87e3b29d8f1fa007010da41b6ad4afe534a71a080a03ca8120e7.jpg)  
+图11初始横向温差对淬火后中浪浪高、浪宽和浪距的影响
+
+Fig.11 Influence of initial transverse temperature difference on central wave height (a),central wave length and width (b) after quenching
+
+图12为初始温差为 $. 2 0 \mathrm { ~ \textdegree ~ }$ 下淬火后钢板厚向位移。由图可见，当初始横向温差为负值时，钢板淬火后中浪浪高减小的同时也诱发了钢板的四分之一浪。
+
+![](images/f4aede0ad8cf77ebc164469a88340bd57f2cc04da79c747f4be25906fc06d4c1.jpg)
+
+# 图12初始横向温差为 $. 2 0 \mathrm { ~ \textdegree C }$ 时钢板淬火后厚向位移
+
+Fig.12Displacement of thickness direction when $\Delta T \mathrm { = } \mathrm { - } 2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$
+
+沿宽度方向及长度方向分别观察淬火后的节点位移，分布如图13所示。显然，上述具有负温差工况下也产生了新生的四分之一浪，并且分析可知该四分之一浪的产生原因、机理和过程均与前文边浪钢板的正温差淬火时类似，但是没有同时产生可见的C翘和L翘。表6给出了在不同初始负温差下的新生四分之一浪的大小。
+
+![](images/1fc837f477bf7cd864b752a22340656edf89e2ebb2885ed231b4f6c088bbf978.jpg)  
+图13 新生四分之一浪波峰波谷厚向位移分布和厚向位移沿长度方向分布
+
+Fig.13 Displacement in thickness direction of the quarter buckle peak and valley along width direction (a) and displacement in thickness direction along longitudinal direction (b) $( \Delta T { = } 2 0 \ ^ { \circ } \mathrm { C }$ ）
+
+# 表6初始横向温差对钢板淬火后浪形的影响
+
+Table 6 Influence of initial transverse temperature difference on wave shape after quenching   
+
+<html><body><table><tr><td>△T</td><td>Wave height of quarter wave</td><td>Wave width of quarter wave</td><td>Wave length of quarter wave</td></tr><tr><td>℃</td><td>mm</td><td>mm</td><td>mm</td></tr><tr><td>-20</td><td>0.08</td><td>151.28</td><td>494.35</td></tr><tr><td>-15</td><td>0.05</td><td>137.64</td><td>494.37</td></tr><tr><td>-10</td><td>0.03</td><td>127.81</td><td>494.43</td></tr><tr><td>-5</td><td>0.02</td><td>96.84</td><td>494.63</td></tr></table></body></html>
+
+茶
+
+同样调取分析淬火过程应力应变数据，图14给出了该新生四分之一浪产生全过程的钢板纵向应力即张应力横向分布的演变。从淬火开始局部拉应力升高奔导致拉伸变形，到淬火过程拉伸应变使应力由正变沙负，反映了该四分之一浪的产生过程。
+
+![](images/ea39cd8e7b3b1d8f5a3ae02404638c91af47db8cd3aaabbd43cbbb060507ea7c.jpg)  
+图14带钢纵向应力分布随时间的变化  
+Fig.14 Change of strip longitudinal stress distribution over time
+
+进一步观察淬火过程钢板温度变化可以发现，淬火开始前，带钢边部初始温度为 $9 1 0 \mathrm { ~ \textdegree C }$ ，中部初始温度为 $8 9 0 \ \mathrm { ^ { \circ } C }$ ，初始温差为 ${ } _ { - 2 0 \mathrm { ~ } \mathrm { { ' C } } }$ 。淬火过程中，由于带钢表面与水介质的换热系数的影响，使温差由 $2 0 \ { ^ { \circ } C }$ 进一步增大至超过- $8 0 ~ \mathrm { { ^ { \circ } C } }$ ，该温差造成的非均匀分布热应变和初始中浪缺陷共同使钢板张应力横向分布严重不均匀，在钢板宽度1/4 处出现较大拉应力并最终导致四分之一浪的产生。
+
+4.3有初始中浪缺陷钢板热处理过程的板形控制对策建议运用温度场-组织场-应力场三场耦合仿真平台，对工业生产中常见的钢板规格(厚度 $\mathrm { 1 ~ m m } )$ 及板形初始中浪浪形(浪高 $4 \mathrm { m m }$ ，浪宽 $4 0 0 \mathrm { m m }$ ，浪距 $5 0 0 \mathrm { m m } ,$ ，采用不同张力和不同初始横向温差进行淬火过程的有限元仿真，得到各工况淬火前后的中浪浪高变化，如表7所示。
+
+表7有初始中浪缺陷钢板淬火过程不同工艺参数下的边浪浪高变化率
+
+Table 7 Change rate of central wave height in different conditions   
+
+<html><body><table><tr><td>Tension /MPa</td><td>△T=0</td><td>△T=10 ℃</td><td>△T=20 ℃</td></tr><tr><td>10</td><td>7.55%</td><td>1.43%</td><td>8.77%</td></tr><tr><td>20</td><td>13.99%</td><td>8.18%</td><td>15.57%</td></tr><tr><td>30</td><td>20.76%</td><td>12.88%</td><td>22.03%</td></tr></table></body></html>
+
+茶
+
+因此，在实际生产过程中，针对有初始中浪缺陷钢板的淬火过程，建议采取无初始横向温差或较大的初始横向负温差以及适当加大钢板张力的策略以控制中浪。X
+
+5大尺寸冷轧高强钢板淬火实验及仿真比较
+
+搭建高强钢板淬火实验平台；存在单侧边浪板形缺陷的高强度薄钢板进行淬火实验。钢板材质为  
+22MnB5，化学成分(质量分数，%C0.23，Si0.31，Mn1.12，Cr0.15，A056，B0.0025，Fe余量。X  
+按规格 $4 0 0 ~ \mathrm { { m m } { \times } 2 0 0 ~ \mathrm { { m m } { \times } 0 { \times } 3 ~ \mathrm { { m m } } } }$ 对有边浪一侧钢板进行局部线切割制样，制作实验样板20个。具体实验X  
+方案如下：（1）淬火前测量钢板边浪浪高、浪宽及浪距；(2）将钢板热至奥民体化温度以上，保温3min  
+使其充分奥氏体化；(3）将有边浪一侧贴近淬水槽水面并快速铅垂淬入，模拟钢板初始温差为正；(4）将无长  
+边浪一侧贴近淬水槽水面并快速铅垂淬入，模拟钢板初始横温差为负；(5）淬火完成后测量浪形指标。
+
+对 20次淬火实验结果进行实测及总结。图15为钢板按2种方式分别淬火后的边浪浪高、浪距及X浪宽，虚线分别对应钢板初始边浪浪高、浪距及浪宽。可以看出，有边浪一侧先淬火后，钢板的边浪浪高大于其初始边浪浪高；无边浪一侧先淬火后，钢板的边浪浪高小于其初始边浪浪高；淬火前后的边浪浪距变化不大；同时，大部分有边浪一侧先淬火后的钢板边浪浪宽与淬火前相比有所增大，而大部分无边浪一侧先淬火后的边浪浪宽与初始浪宽相比有所减小。实验结果与仿真计算规律吻合。
+
+在实际生产企业的带钢连续淬火过程中，炉辊的辊形也将对带钢的张力分布产生影响，但由于研究条件所限本文未考虑炉辊的影响。
+
+![](images/7304b9f074b085516954f6d71a5a775c1a7c1e13a345f083e2d93fc9c96ff172.jpg)
+
+# 图15不同方式淬火后钢板边浪浪高、浪宽及浪距
+
+Fig.15 Edge wave height (a),edge wave length (b)and edge wave width (c) of steel sheet with diferent quenching methods
+
+4结论
+
+(1）基于ABAQUS 有限元软件，结合冷轧板带生产实际工艺及产品，建立了有初始板形瓢曲缺陷高强度钢板热处理过程的温度-组织-应力应变三场耦合有限元模型，研究了钢板双边浪和中浪瓢曲缺陷在淬火过程中的演变行为及规律。
+
+(2）淬火过程会使钢板的初始板形瓢曲缺陷发生永久性变化，而导致这一永久性变形的钢板纵向塑性延伸变形来自于相变和张力拉伸引起的塑性应变。当初始板形、张力、横向温度分布及依先后顺序的相变所共同导致张应力横向分布不均匀并导致钢板局部受粒伸产生塑性变形后，钢板的初始板形瓢曲缺陷将永久改变，甚至会产生新的四分之一浪。 当方
+
+(3）在水淬过程中，带钢温度由奥氏体化温度以上快速降低时，钢板表面换热系数的分布特征使初始X4钢板横向温差进一步增大，并由此化了淬过程对带钢板形的影响。同时，通过对比分析有、无初始横向温差的钢板淬火前后的瓢曲缺陷变化可知，可以合理利用初始横向温差实现对初始板形瓢曲缺陷的有效茶 彩改善。因此提出相应的板形控制策略建议：针对初始中浪、边浪缺陷，分别采取较大的初始横向负、正温差，同时适当加大钢板张力对初始板形进行调控。 、方
+
+武
+
+(4）为了验证钢板淬火过程有限元模拟模型，在实验室条件下，通过钢板淬火实验研究了不同淬火方W4式对初始边浪浪高的影响，表明初始横向温差为负可有效降淬火后钢板边浪浪高，实验结果与仿真研究店所得到的板形变化规律定性一致。 从
+
+金预参考文献
+
+[1] Kang YL. Lightweight Vehicle, Advanced high strength steel and energy-saving and emission reduction [J]. Iron Steel,2008,43(6): 1
+
+(康永林．汽车轻量化先进高强钢与节能减排[J]．钢铁,2008,43(6):1)
+
+[2] Rong YH. Advanced Q-P-Tsteels with ultrahigh strength-high ductility[J]. Acta Metal. Sin.,2O11,47: 1483 (戎咏华．先进超高强度-高塑性Q-P-T钢 [J].金属学报,2011,47:1483)
+
+[3] Wang L J, Cai Q W, Yu W, et al. Microstructure and mechanical properties of 15OO MPa grade ultra-high strength low alloy steel [J]. Acta Metall. Sin., 2010, 46: 687
+
+(王立军，蔡庆伍，余 伟等．1500MPa 级低合金超高强钢的微观组织与力学性能[J]．金属学报，2010，46:687)
+
+[4] Wang Y,Zhang K,Guo ZH,et al. A new effect of retained austenite on ductility enhancement of low carbon Q-P-T steel [J]. Acta Metall. Sin., 2012, 48: 641
+
+(王 颖，张 柯，郭正洪等．残余奥氏体增强低碳Q-P-T钢塑性的新效应 [J].金属学报,2012,48:641) [5] Jia XS,Zuo X W,Chen NL,et al. Microstructure and properties of Q235 steel treated by novel Q-P-Tprocess [J]. Acta Metall. Sin., 2013, 49: 35
+
+(贾晓帅，左训伟，陈乃录等．经新型Q-P-T工艺处理后Q235 钢的组织与性能[J].金属学报,2013,49:35)   
+[6] Ju B, Wu HB,Tang D,etal. Effect of microstructure evolution on mechanical properties of ultra-high strength   
+wear resistance steel [J]. Acta Metall. Sin., 2014, 50: 1055   
+(巨 彪，武会宾，唐 获等．微观组织演变对超高强耐磨钢板力学性能的影响 [J].金属学报,2014,50:1055)   
+[7] Zhu D M,Liu G Y, Li L H,et al. Research of Martensite transformation on technical parameters of   
+non-Restraint quenching [J]. Iron Steel, 2008,43(1): 50 汉   
+(朱冬梅，刘国勇，李龙海等．相变对无约束淬火控冷工艺参数的影响 [J]．钢铁,2008,43(1):50) X4   
+[8] Qiao X, Yu F, Liu Y. Flatness ( rol of th plate in the process of quenching [J]. J. Iron Steel Res. 2011,   
+23(suppl.1): 159   
+(乔 馨，于 峰，刘 源．薄格钢板率火过程中的板形控制 [J].钢铁研究学报,26II,23(增刊1):159)   
+[9] Wu YL, Wang D C, Kong L. Analysis of transverse flatness distribution of steplate during the quenching X   
+process [J]. Adv. Mater. Res.,2015,1095: 689 Y   
+[10] Liu G Y,Li M W, Zhang S J. Thermal numerical simulatio nd experirhent in quenching process of medium   
+and heavy plate [J]. J. Iron Steel Res., 2007,19(8): 51   
+(刘国勇，李谋渭，张少军．中厚板淬火过程的热力数值模拟及实验 [J]．钢铁研究学报,2007,19(8):51)   
+[11] Kaseda Y,Masui T. Control of buckling and crossbow in strip processing lines [J]. Iron Steel Eng.,1994,71:   
+14   
+[12] Zhang QD,Chang TZ,Dai JB,etal.Finite element simulation of the transverse distributionof tensile stress   
+in the strip during continuous annealing process [J]. J. Univ. Sci. Technol. Beijing,20o6,28: 1162   
+(张清东，常铁柱，戴江波等．连退线上带钢张应力横向分布的有限元仿真[J]．北京科技大学学报,2006,28:   
+1162   
+[13] ZhangQ D,Chang T Z,Dai JB.Theory and experiment of the strip transverse buckling under high   
+temperature [J]. Chin. J. Mech. Eng.,2008,44(8): 219   
+(张清东，常铁柱，戴江波．带钢高温态横向瓢曲的理论与试验 [J]．机械工程学报,2008,44(8):219)   
+[14] Zhang QD,Liu Z Z, Zhou X M,et al. Research on strip profile buckling deformation during continuous
+
+annealing process [J]. Shanghai Met., 2005,27(4): 27
+
+(张清东，刘赞赞，周晓敏等．带钢在连续退火过程中的板形屈曲变形原因分析 [J]．上海金属，2005，27(4): 27)   
+[15] Lu X F. Study on buckling and warping deformation of steel strip[D]. Beijing: University of Science and Technology Beijing, 2015   
+(卢兴福．钢板带板形瓢曲与翘曲变形行为研究 [D]．北京：北京科技大学,2015)   
+[16] Dai JB, Zhang QD, Chen X L, et al. Large thermo-deflection of steel strip being processed in continuous anneal furnace [J]. Chin. J. Mech. Eng., 2003,39(12): 71   
+(戴江波，张清东，陈先霖等．连续退火炉内带钢的热态大挠度变形分析 [J]．机械工程学报，2003，39(12): 71) 茶   
+[17] Dai JT, Zhang Q D. Analysis and experiment on ceal buckling and postbuckling of thin cold-roled sheet X   
+[J]. Chin. J. Mech. Eng., 2011, 47(2): 44   
+X   
+(戴杰涛，张清东．冷轧薄板中浪板影缺陷的屈曲及后屈曲理论与轧制试验研究[J]．机械工程学报，2011, 贝   
+47(2): 44)   
+DE   
+[18] Dai JT, Zhang QD,y.Analysis oflocal buckling for thin cold-rolled strip Y. Eng. Mech.,2011,28(10): 236 X   
+淡   
+(戴杰涛，张清东，秦 剑．薄宽冷轧带钢局部板形屈曲行为解析研究 [J].工程力学,2011,28(10): 236) V   
+[19] Lequesne C, Pensis O, Renard M, et al.Roller pressu quench process of steel plate modelling [A]. Proceedings of the 14th International Conference on Material Forming,ESAFORM2011 [C]. Melvill: American Institute of Physics,2011: 115 网   
+[20] Liu Z, Wu Z J, Wu J Z. Numerical Simulation of Heat Treatment Processing [M]. Beijing: Science Press, 1996: 1   
+(刘庄，吴肇基，吴景之．热处理过程的数值模拟．北京：科学出版社,1996:1)   
+[21]De Oliveira W P, Savi M A, Pacheco P MC L. Finite element method applied to the quenching of steel cylinders using a multi-phase constitutive model [J]. Arch. Appl. Mech., 2013,83: 1013   
+[22] Zhou Z F, Wang X Y, Gu JF. Numerical simulation of eccentric cylinder quenching process[J]. J. Mech. Eng., 2011, 47(12): 62   
+(周志方，王晓燕，顾剑锋．偏心圆环淬火过程的数值模拟 [J]．机械工程学报,2011,47(12):62)   
+[23] Song G S,Liu X H, Wang G D,et al. Numeric simulation on the effct of phase transformation on quenching stress of 22CrMo steel [J]. J. Plast. Eng.,2006,13(2): 75 (宋广胜，刘相华，王国栋等．相变对 22CrMo 钢淬火应力影响的数值模拟 [J]．塑性工程学报，2006,13(2): 75)   
+[24] He L F,Li H P, Zhao G Q.FEM simulation of temperature,phase-transformation and stress/strain in quenching process [J]. Trans. Mater. Heat Treat., 2011, 32(1): 128   
+(贺连芳，李辉平，赵国群．淬火过程中温度、组织及应力/应变的有限元模拟[J]．材料热处理学报，2011, 32(1): 128)   
+[25] Zhang QD, Cao Q, Zhang XF.A modified Johnson-Cook model for advanced high-strength steels over a wide range of temperatures [J]. J. Mater. Eng. Perform., 2014, 23: 4336   
+[26] Sun C Y,Zeng P, Zhao S X,et al. Distortion prediction of larger-size plate for armour steel during quenching [J]. Heat Treat. Met., 2008,33(8): 73 净   
+(孙朝阳，曾攀，赵书行等．装甲防护厚板淬火过程形畸变的预测 [J].金属热处理,2008,33(8):73) 沙   
+[27] Wang C, Wang Z D, Yuan G,et al. Heat transfer during quenching by plate roller quenching machine [J]. J. Iron Steel Res. Int.,2013,20(5): 1 管 海   
+[28] Cheng H M,Wang H G, Chen T L. Solution of heat conduction inverse problem for steel 45 during quenching [J]. Acta Metall/ n.,1997,33: 467   
+(程赫明，王洪纲，陈铁力.45 钢淬火过程中热传导方程逆问题求解[J金属学 1997,33: 467)   
+[29] Cheng BS,Xiao NM,LiDZ,etal. Sensitivityanalysis of the effect of interfacial heat transfer coefficient on W   
+distortion simulation during quenching [J]. Acta Metall. Sin., 201 48:696 9617   
+(程柏松，肖纳敏，李殿中等．界面换热系数对淬火过程变形模拟影响的敏感性分析 [J]．金属学报,2012,48: 696) 风 今   
+[30] Wang XH,Li YY, Wang Y,etal. Control of asymmetric higher order flattess incold rolling mill[J].Steel Roll., 2008, 25(3): 25
+
+(王训宏，李有元，王 勇等．冷轧机组不对称高次浪形的控制 [J]．轧钢,2008,25(3):25)

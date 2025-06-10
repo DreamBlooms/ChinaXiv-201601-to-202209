@@ -1,0 +1,43 @@
+# Droplets of ³He-4He mixtures
+
+Hualin Shi, S.T. Chui\*
+
+Bartol Research Institute,University ofDelaware,Newark,DE19716,USA
+
+# Abstract
+
+We study the properties of $^ 3 \mathrm { H e } - ^ { 4 } \mathrm { H e }$ mixture droplets using a phenomenological density functional. The structure of a liquid drop with and without vortices is investigated using Monte Carlo simulations. $\copyright$ 2000 Elsevier Science B.V.All rightsreserved.
+
+Keywords:Droplet; $^ 3 \mathrm { H e } - ^ { 4 } \mathrm { H e }$ mixture;Quantum fluid
+
+Droplets of mixtures provide a unique opportunity to test and enhance our understanding of finite size effects and the effects of boundary on the phase segregation between $^ 3 \mathrm { H e }$ and $^ { 4 } \mathrm { H e }$ .The study of liquid-helium mixture droplets has been a subject of great theoretical and experimental interest recently.In this work we present Monte Carlo simulations on the structure of $^ 3 \mathrm { H e } - ^ { 4 } \mathrm { H e }$ mixture droplets with and without vortices.
+
+The total free energy for a liquid-helium mixture of $^ 3 \mathrm { H e }$ and $^ { 4 } \mathrm { H e }$ canbeexpressedas[1] $E = \int ( E _ { 3 } + E _ { 4 } + E _ { 3 4 } ) \mathrm { d } r$ with $E _ { 3 } = ( \hbar ^ { 2 } / 2 m _ { 3 \mathrm { e f f } } ) \tau _ { 3 } ( { \boldsymbol { r } } ) +$ d3|Vp( $\begin{array} { r } { r ) | ^ { 2 } + \frac { 1 } { 2 } b _ { 3 } \rho _ { 3 } ( r ) ^ { 2 } + \frac { 1 } { 2 } c _ { 3 } ^ { \prime } \rho _ { 3 } ( r ) ^ { 2 } \rho ( r ) ^ { \gamma _ { 3 } } + \frac { 1 } { 2 } c _ { 3 } ^ { \prime \prime } \rho _ { 3 } ( r ) ^ { 2 + \gamma } } \end{array}$ 3， $E _ { 4 } = ( \hbar ^ { 2 } / 2 m _ { 4 } ) | V \varPsi _ { 4 } ( r ) | ^ { 2 } + d _ { 4 } | V \rho _ { 4 } ( r ) | ^ { 2 } + { \frac { 1 } { 2 } } b _ { 3 }$ p3(r)²+ ${ \textstyle \frac { 1 } { 2 } } c _ { 4 } \rho _ { 4 } ( r ) ^ { 2 } \rho ( r ) ^ { \gamma _ { 4 } }$ ， $E _ { 3 4 } = d _ { 3 4 } \ : V \rho _ { 3 } ( r ) V \rho _ { 4 } ( r ) + b _ { 3 4 } \rho _ { 3 } ( r ) \rho _ { 4 } ( r ) \ : +$ $c _ { 3 4 3 4 } \rho _ { 3 } ( r ) \rho _ { 4 } ( r ) \rho ( r ) ^ { \gamma _ { 3 4 } }$ where $\rho _ { i } ( \boldsymbol { r } )$ is the particle density of the $^ { i } \mathrm { H e }$ $\rho ( r )$ is the total density $\rho ( r ) = \rho _ { 3 } ( r ) + \rho _ { 4 } ( r ) .$ and $m _ { i }$ are the atomic masses.The macroscopic wave function of $^ { 4 } \mathrm { H e }$ is $\Psi _ { 4 } ( r ) = \sqrt { \rho _ { 4 } ( r ) } \mathrm { e } ^ { \mathrm { i } \phi }$ The $^ 3 \mathrm { H e }$ densitydependent effective mass $\hbar ^ { 2 } / 2 m _ { 3 \mathrm { e f f } } = \hbar ^ { 2 } / 2 m _ { 3 } ( 1 - \rho _ { 3 } ( \pmb { r } ) /$ $\rho _ { 3 c } - \rho _ { 4 } ( r ) / \rho _ { 4 c } ) ^ { 2 }$ is fitted to the experimental pressure dependence in the bulk liquid.In the Thomas-Fermi approximation,the kinetic energy densities of $^ 3 \mathrm { H e }$ can be expressed as $\begin{array} { r } { \tau _ { 3 } ( r ) = \frac { 3 } { 5 } ( 3 \pi ^ { 2 } ) ^ { 2 / 3 } \rho _ { 3 } ( r ) ^ { 5 / 3 } + \frac { 1 } { 1 8 } ( \nabla \rho _ { 3 } ( r ) ) ^ { 2 } / } \end{array}$ $\rho _ { 3 } ( r ) + { \textstyle \frac { 1 } { 3 } } \ : V ^ { 2 } \rho _ { 3 } ( r )$
+
+From this energy functional the structure and energetics of $^ 3 \mathrm { H e } - ^ { 4 } \mathrm { H e }$ mixed drops without vortices have been studied by means of density functional approach (DFA)[2].The density distribution of $^ { 4 } \mathrm { H e }$ and $^ 3 \mathrm { H e }$ without vortices were obtained by solving a set of coupled self-consistent equations (Euler equations for the energy density). In all these calculations,spherical symmetry is assumed.In the case of dilute Bose gas mixture trapped in a symmetric potential, there exist asymmetric solutions [3].It is not clear whether these symmetric solutions of $^ 3 \mathrm { H e } - ^ { 4 } \mathrm { H e }$ mixed drops are really ground states of the system.Our calculation also provides the density distribution at finite vorticity for the first time.
+
+Here we directly find out the lowest energy configuration with no symmetry restrictions by means of Monte Carlo techniques through simulated annealing. We approximate the volume integral of the energy functional bya discrete sum.We sample a lattice inside a sphere of radius $2 R$ consisting of 4O sites along the diameter,makinga total of 33 398 sites.We use the Metropolis algorithm,start our simulation with high temperature,then decrease it to a verylow temperature step by step.This is an annealing process and the final configuration should be the lowest energy configuration.
+
+Because of the strong interactions between the helium atoms, the particle number is a very sensitive function of the chemical potential.We thus carry out the simulations with fixed particle numbers.
+
+Fig.1 shows the density structure of mixed droplets with different particle number.Because the mass of $^ 3 \mathrm { H e }$ is smaller than $^ { 4 } \mathrm { H e } .$ ,its quantum pressure is larger than that of $^ { 4 } \mathrm { H e }$ ： $^ 3 \mathrm { H e }$ is therefore outside of $^ { 4 } \mathrm { H e }$ 、As can be seen,the structure is symmetric. The average energy
+
+![](images/808b521f89859794e35cb85627646b1e52c846c7231fbd3617267d696b42ebfd.jpg)  
+Fig.1.Density distributions of $^ 3 \mathrm { H e } \ ( \mathrm { a } , \mathrm { c } )$ and ${ ^ { 4 } \mathrm { H e } } \ (  { \mathbf { b } } ,  { \mathrm { d } } )$ with particle numbers $N _ { 3 } = 1 0 0 0$ and $N _ { 4 } = 3 0 0 0$ for (a) and (b), $N _ { 3 } = 3 0 0 0$ and $N _ { 4 } = 1 0 0 0$ for (c) and (d).
+
+$E / ( N _ { 3 } + N _ { 4 } )$ is- 5.368 for the case of ${ \cal N } _ { 3 } =$ 1000, $N _ { 4 } = 3 0 0 0$ ，and-3.107 for the case of $N _ { 3 } =$ 3000, $N _ { 4 } = 1 0 0 0$
+
+The structure is different when there is a vortex in $^ { 4 } \mathrm { H e }$ The density distributions are given by Fig.2.It shows that $^ 3 \mathrm { H e }$ will occupy and expand the size of the vortex hole of liquid $^ { 4 } \mathrm { H e }$ .At the same time, there are still some $^ 3 \mathrm { H e }$ atoms on the outside surface of $^ { 4 } \mathrm { H e } .$ This comes from an effective attractive potential for $^ 3 \mathrm { H e }$ on the surface of $^ { 4 } \mathrm { H e }$ [4,5].With high vorticity, the vortex hole of $^ { 4 } \mathrm { H e }$ is larger and the surface attraction inside creates a hole in liquid $^ 3 \mathrm { H e }$ density which is shown in Fig. 2(c).
+
+![](images/da280f9b6f15a70762d52d0790a672e9d4f95f9ae3a1a74d4b16e4365c12263c.jpg)  
+Fig.2.Density distributions of $^ 3 \mathrm { { H e } \ ( a , c ) }$ and ${ ^ 4 } \mathrm { H e } \ (  { \mathbf { b } } ,  { \mathrm { d } } )$ with a vortex in $^ { 4 } \mathrm { H e }$ The vorticity is $m = 1$ for (a) and (b), $m = 7$ for (c)and(d).The particle numbers are: $N _ { 3 } = 1 0 0 0$ and $N _ { 4 } = 3 0 0 0$
+
+This work is supported by a grant from NASA (NAG8-1427). We acknowledge helpful conversation with Ping Ao and V.Ryzhov.
+
+# References
+
+[1]M.Guilleumas,D.M.Jezek,M.Pi,M.Barranco,J.Navarro,Phys.Rev.B 51 (1995)1140.   
+[2]M. Barranco,M.Pi, S.M.Gatica,E.S.Hernandez,J.Navarro,Phys.Rev.B 56 (1997) 8997.   
+[3]S.T.Chui,P.Ao,Phys.Rev.A 59(1999)1473.   
+[4]S.Stringari,J. Treiner,Phys.Rev.B 36 (1987) 8369.   
+[5]N.Pavloff,J.Treiner,J.Low Temp.Phys.83(1991) 15.

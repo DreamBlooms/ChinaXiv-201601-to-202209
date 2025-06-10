@@ -1,0 +1,451 @@
+[
+    {
+        "type": "text",
+        "text": "Environmental factors influencing snowfall and snowfall prediction in the Tianshan Mountains, Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xueting1,2, LI Xuemei1,2\\*, LI Lanhai³, ZHANG Shan1,², QIN Qirui1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lFaculty of Geomatics,Lanzhou Jiaotong University,Lanzhou 73oo7o, China;   \n2Gansu Provincial Engineering Laboratory for National Geographic State Monitoring,Lanzhou 730070,China;   \n3State Key Laboratoryof DesertandOasisEcology,Xinjiang Instituteof Ecologyand GeographyChinese Academyof Sciences, Urumqi 830011, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Snowfallis one of the dominant water resources in the mountainous regions and is closely related to the development of the local ecosystem and economy.Snowfall predication plays a critical role in understanding hydrological processes and forecasting natural disasters in the Tianshan Mountains,where meteorological stations are limited. Based on climatic,geographical and topographic variables at 27 meteorological stations during the cold season (October to April) from 1980 to 2015 in the Tianshan Mountains located in Xinjiang of Northwest China,we explored the potential influence of these variables on snowfall and predicted snowfall using two methods: multiple linear regresson (MLR) model (a conventional measuring method) and random forest (RF) model (a non-parametric and non-linear machine learning algorithm). We identified the primary influencing factors of snowfall by ranking the importance of eight selected predictor variables based on the relative contribution of each variable in the two models. Model simulations were compared using diferent performance indices and the results showed that the RF model performed better than the MLR model, with a much higher $R ^ { 2 }$ value( $\\mathrm { R } ^ { 2 } { = } 0 . 7 4$ ；R²,coefficient of determination) and a lower bias error( $\\mathrm { \\ R S R { = } } 0 . 5 1$ · ${ \\mathrm { R S R } } ,$ the ratio of root mean square error to standard deviation of observed dataset). This indicates that the non-linear trend is more applicable for explaining the relationship between the selected predictor variables and snowfall. Relative humidity,temperature and longitude were identified as three of the most important variables influencing snowfalland snowfall prediction in both models, while elevation,aspect and latitude were of secondary importance,followed by slope and wind speed. These results will be beneficial to understand hydrological modeling and improve management and prediction of water resources in the Tianshan Mountains. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:snowfall prediction; snowfall fraction;random forest; multiple linear regression; predictor variables; Tianshan Mountains ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: ZHANG Xueting,LI Xuemei,LILanhai,ZHANG Shan,QIN Qirui.2019.Environmental factors influencing snowfallandsnowfallprediction in the Tianshan Mountains,Northwest China.Jourmal of AridLand,11(1):15-28. https://doi.0rg/10.1007/s40333-018-0110-2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The arid and semi-arid regions in Northwest China,located in the hinterland of the Eurasian continent in the mid-latitudinal zone,are sensitive to global climate change (Chen et al., 2014). Climate in Northwest China has gradually changed from warm-dry to warm-wet since 1987 (Shi et al.,2O07).Both temperature and precipitation have shown increasing trends in Northwest ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "China, particularly in the mountainous regions within the last 5O years (Li et al., 2013). Results from Füssel and Jol (2Ol2) suggest that variations in temperature and precipitation within a wide range of mountainous regions are much greater than the global average. Snowfall, the major component of solid precipitation and the defining constituent in the mountainous regions,is regarded as a crucial index of climate fluctuations coupled with snow cover (Piazza et al., 2014; Mir et al., 2015). Winter snowfall often accumulates on the ground and translates into snow cover, which increases surface albedo and impacts surface runoff and energy budget (Dai, 2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mountainous regions are often characterized by complex topography and diverse landscapes, with various forms of precipitation occurring at different elevation gradients and seasons. For example,rain falls in warm areas at lower elevations while snowfall often occurs in cold areas at higher elevations (Marks et al.， 2O13). The amount of snowfall is extremely important in the mountainous regions because of the process of snow accumulation and melt (Zhang et al., 2012; Krasting et al.,2013; Yu et al.,2015). Snowfall is also closely related to local tourism and has attracted research interests in natural disasters, such as avalanches (Scipion et al.,2O13; Nair et al., 2017; Vrotsou et al., 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Xinjiang of China, the Tianshan Mountains are typically referred to as a \"solid reservoir\". Precipitation primarily occurs in the form of snowfall in winter, which accounts for more than $30 \\%$ of the total annual precipitation in the western Tianshan Mountains (Lu et al., 2O16).Alpine regions also have snowfall in summer (Shen et al., 2016). Approximately 373 rivers originate from the Tianshan Mountains and the variations in runoff are closely related to climate change (Xu et al., 2O14; Wang et al., 2O16). The Tianshan Mountains have an annual runoff of $4 7 . 4 \\times 1 0 ^ { 9 }$ $\\mathrm { m } ^ { 3 }$ ，accounting for $54 \\%$ of the total river runoff from Xinjiang (Hu，20o4). Moreover, the Tianshan Mountains have some of the most extensive modern midlatitude glaciers,which are located at an altitude of $3 5 0 0 \\mathrm { ~ m ~ a . s . l }$ . despite continuing glacial melt due to global warming (Sorg et al.,2012; Chen et al.,2017). Glacial meltwater contributes to the stable base flow for rivers in the alpine basins (Zhang et al., 2O16). Water resources from snowmelt and glacial meltwater in the Tianshan Mountains play a key role in the continental hydrologic cycle,agriculture and industry development in Xinjiang. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous research in the Tianshan Mountains primarily focused on describing the temporal and spatial variations in snowfall quantity and snow cover， such as days of snow cover and snow-covered area (Xu and Qiu,1996; Li et al.,2012; Liu et al., 2012; Guo and Li, 2015; Zhang et al.,2015; Chen et al.,2016,2017; Li et al.,2016; Jing et al.,2017; Tang et al.,2017). The northern Tianshan Mountains are the principal area of snowfall in China when considering snowfall quantity and day metrics (Liu et al., 2012; Zhang et al., 2015). Winter snowfall in the Tianshan Mountains has exhibited a significant increasing trend and cyclical variations since 1961,and showed a clear heterogeneity at the spatial scale (Xu and Qiu, 1996; Li et al., 2012). Guo and Li (2015） and Chen et al. (2016) found that the ratio of snowfall to precipitation (snowfall fraction) has decreased in parts of the middle Tianshan Mountains in recent years, accompanied by increases in temperature. Jing et al. (2O17) applied a general circulation model (GCM) to investigate future changes in snowfall and precipitation in the Tianshan Mountains and north of the Kunlun Mountains. They proposed that both the average annual snowfall and snowfall fraction will decrease significantly by the end of the $2 1 ^ { \\mathrm { s t } }$ century. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The numbers of meteorological stations are limited in the mountainous regions, especially at higher elevations with abundant snowfall.The traditional approach for estimating snowfall based on meteorological data assumes that the relationship between snowfall and elevation is constant (Clark and Andrew, 2Oo6). However, this approach has been proven inaccurate due to the scarcity of meteorological stations and the spatial variability of snowfall in the mountainous regions (Asaoka and Kominami, 2012). Asaoka and Kominami (2012) reconstructed the distribution of snowfall in the mountainous regions of Japan using satellite observations,and Scipion et al. (2013) obtained estimates of alpine snowfall amount using radar application. Yet, forecasts of meteorological elements were inaccurate because radar coverage in the mountainous regions are sparse due to the influence of topographic blocking (Wetzel et al.,20o4; Clark and Andrew, 2006). Global and regional models have both overestimated and underestimated annual snowfall at different elevation levels；however, a weather research and forecasting (WRF） model could perform well in an area with complex topography, although it requires a high resolution (Ikeda et al., 201o; Rasmussen et al., 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the mountainous regions, moist airflow is forced upward along the windward slope because of orographic effects,leading to increased localized precipitation.In addition, the complex terrain and landform of the mountainous regions have been well-characterized. Therefore,the influence of topography on precipitation (quantity and type) cannot be ignored in the mountainous regions. Recent studies have established linear relationships of precipitation with geographical and topographic variables,which were then used to estimate precipitation in the Tianshan Mountains (Ji and Chen, 2O12; Zhang et al., 2015).A similar linear function was also used to model precipitation with three independent variables,including longitude,latitude and elevation, in the Appalachian Mountains (Padoan et al., 2Oo9). Some studies parameterized only a single or a few variables of topography and climate to detect their impact on snowfall(Karl and Groisman,1993; Davis et al.，1999; Perry and Konrad, 2006； Asaoka and Kominami, 2012). In general, most studies have focused on precipitation estimates or used a physical model to simulate snowfall with various model resolutions.There is a lack of multivariate coupled and non-linear methods to estimate snowfall accurately， especially in the mountainous regions where meteorological observations are scarce. Thus,it is critical to explore the main driving factors on snowfall to improve its estimation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study，we introduced a relatively novel machine learning algorithm to identify the primary variables influencing snowfall using the level of importance of the selected variables in the random forest (RF） model and multiple linear regression (MLR) model. The proposed RF model has been widely applied to ecological modeling (Munoz and Felicisimo,2004; Cutler, 2007). Tinkham et al. (2014) recently used the model to determine the distribution of snow depth in a mountain catchment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The objectives of this study were to (1) evaluate the main controlling factors of snowfall in the Tianshan Mountains in Xinjiang by identifying and ranking the order of independent variables, and (2) predict snowfall using the RF and MLR models.We further compared the performance of each model with the measured data. Accurate snowfall predictions are critical to better understanding surface hydrological cycle processes and parameterizing hydrological models and the spatial variability of snowfall distribution in the mountainous regions with complex topography. Furthermore,accurate modeling will also be a valuable input in assessments of water resources,local ecosystems and economies in the mountainous regions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Tianshan Mountains in Xinjiang of Northwest China extend $1 7 0 0 ~ \\mathrm { k m }$ from east to west with a width of $2 5 0 { - } 3 0 0 ~ \\mathrm { k m }$ ，which account for more than $34 . 5 \\%$ of the total area of Xinjiang (Hu, 2004) (Fig.1). Far from the ocean, the mountainous regions are predominantly characterized by temperate continental arid climate. Geographically, the Tianshan Mountains separate the Xinjiang into northern and southern parts,resulting in regional climate differences. Influenced by the westerlies and topography, precipitation in the Tianshan Mountains shows uneven spatial and temporal distribution, with precipitation higher on the northern slope than the southern slope. The Tianshan Mountains are composed of a series of mountains, basins and plains. Less precipitation occurs in the intermountain basins and more precipitation in the mountain regions. The average elevation of the ridgeline is $4 0 0 0 \\mathrm { ~ m ~ }$ a.s.l.in the Tianshan Mountains,and the temperature is particularly affected by the elevation. Annual average temperature in the Tianshan Mountains varies spatially,lower on the northern slope while higher on the southern slope,and lower in the mountains while higher in the plains. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generally,daily snowfall is recorded as liquid water equivalent when snow occurs.Mountainous precipitation is measured using weighing gauges, which have not distinguished between solid and liquid precipitation since 1980. Thus, we obtained daily snowfall data by separating solid and liquid precipitation based on temperature calculated by Zhang et al. (2Ol7） from 27 meteorological stations in the Tianshan Mountains. The study period was defined as October to April (cold season) during the period from 1980 to 2015 because $9 9 \\%$ of snowfall occurs between October and April annually (Guo and Li,2O15). The variables afecting snowfall mainly include climatic, geographical and topographic records. Climate data that included daily temperature, relative humidity and wind speed were derived from the National Meteorological Information Center in China (htp://data.cma.cn). Topographic factors (including elevation, slope and aspect) were obtained from a digital elevation model (DEM) at a $3 0 \\mathrm { - m }$ resolution provided by the Geospatial Data Cloud in China (http://www.gscloud.cn). A double mass curve method was applied to achieve data quality control by detecting outliers.The RF model is robust even with observations with missing and noise features. The prediction of the response variable can be implemented even with partially built trees; therefore, it is unnecessary to preprocess any missing data before inputting (Antipov and Pokryshevskaya,2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9d14cd9a55ccf5e80fc376bd986da0a5273ea06c355f2c29df171cb21ad69de.jpg",
+        "img_caption": [
+            "Fig.1Overview ofthe Tianshan Mountains and distribution of the 27 meteorological stations used in this study "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Prediction models ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, we used the MLR model and RF model to predict the amount of snowfall by applying several predictor variables and response variable.The MLR model was used as a linear statistical method to explain the variance of dependent variable and multiple independent variables and to explore the degree of correlation among these variables. The MLR model was implemented using the lm function in R software. The metrics lmg was employed to evaluate the contribution of each predictor variable to the model because it measured the relative contribution of each variable to the coefficient of determination.The lmg was also executed in R software using the Relaimpo package (Grömping, 2006; Kousari et al., 2011; Oliveira et al., 2012). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RF model, a non-linear and non-parametric machine learning algorithm proposed by Breiman (2001),is assembled with a variety of decision trees generated from classfication and regression trees (CART). The regression technique was selected to make predictions combining with multiple regression trees. Each regression tree was built by bootstrap samples, which were from the whole calibration datasets by randomly selecting a characteristic subset of the predictor variables to split at each node (Genuer et al.,2O1O). The corresponding output is the average of the individual regression tree. It is less susceptible to the problem of overfitting and no pruning step is required with the improved prediction accuracy compared with CART (Antipov and Pokryshevskaya, 2Ol2). A prominent feature of the RF model is that it leaves out one third of the samples from the original sets as out-of-bag (OOB) samples to validate forecast accuracy (Oliveira et al., 2012). OOB samples were not used for fiting the regression tree in the process of the RF model construction but were used to calculate the importance of predictor variables and estimate the prediction error.In other words,unbiased estimation of prediction error was built using OOB samples without any other independent test sets or cross-validation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There is a criteria to measure the variable importance on the basis of the mean decrease in accuracy $( \\mathrm { { \\% I n c M S E } } )$ in the RF model, which is more reliable than the Gini importance,a biased measure of impurity decrease (Strobl et al.， 2008; Genuer et al., 2010). The RF model was implemented using the Random Forest package in R software. To run the model, it is essential to define three prior parameters (ntree,the number of trees to grow in the model; mtry, the number of variables randomly sampled as candidates at each split; and nodesize,the minimum size of terminal nodes) in the forest. An optimal ntree value was set as 5Oo (see Palmer et al.(2007) for a detailed explanation). The value of mtry was set to 3 for 8 predictor variables (the number of predictor variables divided by 3 for the regression). Increasing or decreasing the mtry value had very little impact on model performance while a small change was found in the ranking of variable importance. Oliveira et al. (2Ol2) also found that the mtry value had an insignificant effect on the sequence of variable importance. The value of nodesize was set to 5 (default value) when building regression trees, namely the minimum number of the leaf. A larger nodesize would cause smaller trees to grow but take less time. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Model performance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The dataset was randomly divided into two independent sections: $70 \\%$ of data for calibration and remaining $30 \\%$ of data for validation (period from October 1980 to April 2015). The evaluation indices of model performance for calibration and validation are as follows:coefficient of determination $( R ^ { 2 } )$ , index of agreement $( d )$ and the ratio of root mean square error to standard deviation of observed dataset $( R S R )$ . They are described as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = \\frac { \\displaystyle \\left[ \\sum _ { i = 1 } ^ { N } \\left( O _ { i } - \\overline { { O } } \\right) \\left( P _ { i } - \\overline { { P } } \\right) \\right] ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { N } \\left( O _ { i } - \\overline { { O } } \\right) ^ { 2 } \\sum _ { i = 1 } ^ { N } \\left( P _ { i } - \\overline { { P } } \\right) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd = 1 . 0 - \\left[ { \\frac { \\sum _ { i = 1 } ^ { N } \\left( P _ { i } - O _ { i } \\right) ^ { 2 } } { \\sum _ { i = 1 } ^ { N } \\left( \\left| P _ { i } - { \\overline { { O } } } \\right| + \\left| O _ { i } - { \\overline { { O } } } \\right| \\right) ^ { 2 } } } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR S R = \\frac { \\left[ \\sqrt { \\sum _ { i = 1 } ^ { N } \\left( O _ { i } - P _ { i } \\right) ^ { 2 } } \\right] } { \\left[ \\sqrt { \\sum _ { i = 1 } ^ { N } \\left( O _ { i } - \\overline { { O } } \\right) ^ { 2 } } \\right] } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $O _ { i }$ and $P _ { i }$ are the observed and predicted values, respectively; $\\overline { { o } }$ and $\\overline { { P } }$ are the mean observed and predicted values,respectively; and $N$ is the number of observations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $R ^ { 2 }$ index was employed to characterize the degree of collinearity between the predicted and observed values and to describe the proportion of the variance that the prediction model could explain. A higher $R ^ { 2 }$ value often expresses the lower error of the variance. The parameter $d$ proposed by Willmott (1981） is a normalizing measure index concerning the extent of forecast error and variation of the model. The $d$ value ranges from O to 1. The complete agreement between the outcome of predictions and observations results in a value of 1.A higher $d$ value corresponds to a better consistency in terms of the predicted and observed data.The $d$ value index is sensitive to detect the additive and proportional variances between the predicted and observed values, while the $R ^ { 2 }$ value index is insensitive.Moreover, the $R ^ { 2 }$ and $d$ indices are equally hypersensitive to extremely observed values (Legates and McCabe Jr, 1999). Another performance index, RSR (ranging from O to $\\infty$ ),was employed to standardize the model error estimates in combination with an statistical index of root mean square error and the standard deviation of observations (Moriasi et al., 2007).A lower RSR value indicates a beter model simulation accuracy. The model prediction result is regarded as perfect when the $R S R$ value is calculated as O. Meanwhile, the value of root mean square error for a well-described error index is 0. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Descriptive statistics of environmental variables ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A statistical description of snowfall and climatic, geographical and topographic variables during the model calibration and validation periods during 1960-2015 is presented in Table 1.Highly similar statistical results for each variable are shown.It is possible that there was no significant difference between the two groups (calibration and validation) of variables $( P { > } 0 . 0 5 )$ based on the results of variance analysis (ANOVA). This similarity revealed that the validation dataset can be representative of the calibration dataset. The response variable, i.e.,snowfall, had higher standard deviation (SD） and coefficient of variation (CV） values,indicating a greater variability in snowfall over the year during both calibration and validation periods. The mean value of temperature was negative, resulting in a negative CV value. The CV value of temperature exhibited the strongest variation among variables.In comparison,relative humidity exhibited a moderate variation and geographical factors (longitude and latitude） showed a lower variation with CV values less than $7 . 0 0 \\%$ . The CV values for other topographic properties ranged from $54 . 8 5 \\%$ to $1 6 2 . 5 3 \\%$ in both datasets, indicating that topographic factors had a greater heterogeneity in the study area. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/32ff70a49de23762e8faff6ec723917c1458c55689ae148e9b34f6924c5fd5a0.jpg",
+        "table_caption": [
+            "Table1Descriptive statistics for snowfalland climatic,geographical and topographic factors for the calibration and validation datasets "
+        ],
+        "table_footnote": [
+            "Note:T,temperature;RH,relativehumidity；WS,windspeed;Lo,longitude;La,latitude;Ele,elevation;Maxmaximum;Min, minimum; SD,standard deviation;CV,coefficient of variation;C,calibration $\\scriptstyle ( n = 6 3 2$ );V,validation $( n { = } 2 7 4 )$ .The units of maximum, minimum,mean and standard deviation are consistent with the variables. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Statistic</td><td>Snowfall (mm)</td><td>T(C)</td><td>RH (%)</td><td>WS (m/s)</td><td>Lo()</td><td>La(°)</td><td>Ele (m)</td><td>Aspect (°)</td><td>Slope (°)</td></tr><tr><td rowspan=\"2\">Max</td><td>C</td><td>149.10</td><td>7.09</td><td>197.17</td><td>7.47</td><td>94.70</td><td>44.97</td><td>3545.00</td><td>353.66</td><td>34.90</td></tr><tr><td>V</td><td>133.30</td><td>7.05</td><td>77.84</td><td>7.52</td><td>94.70</td><td>44.97</td><td>3545.00</td><td>353.66</td><td>34.90</td></tr><tr><td rowspan=\"2\">Min</td><td>C</td><td>0.10</td><td>-17.68</td><td>33.47</td><td>0.36</td><td>75.25</td><td>39.47</td><td>-8.00</td><td>8.13</td><td>0.75</td></tr><tr><td>V</td><td>0.10</td><td>-16.50</td><td>33.77</td><td>0.32</td><td>75.25</td><td>39.47</td><td>-8.00</td><td>8.13</td><td>0.75</td></tr><tr><td rowspan=\"2\">Mean</td><td>C</td><td>31.75</td><td>-0.85</td><td>60.52</td><td>1.93</td><td>84.70</td><td>42.74</td><td>1216.75</td><td>177.25</td><td>4.05</td></tr><tr><td>V</td><td>29.79</td><td>-0.98</td><td>59.22</td><td>2.08</td><td>84.78</td><td>42.65</td><td>1234.64</td><td>172.82</td><td>4.08</td></tr><tr><td rowspan=\"2\">SD</td><td>C</td><td>30.47</td><td>4.24</td><td>13.28</td><td>1.11</td><td>5.28</td><td>1.52</td><td>721.19</td><td>100.49</td><td>6.41</td></tr><tr><td>V</td><td>29.02</td><td>4.53</td><td>11.10</td><td>1.33</td><td>5.30</td><td>1.46</td><td>769.66</td><td>94.80</td><td>6.62</td></tr><tr><td>CV</td><td>C</td><td>95.99</td><td>-498.26</td><td>21.94</td><td>57.50</td><td>6.24</td><td>3.55</td><td>59.27</td><td>56.69</td><td>158.38</td></tr><tr><td>(%)</td><td>V</td><td>97.39</td><td>-460.40</td><td>18.75</td><td>63.84</td><td>6.25</td><td>3.43</td><td>62.34</td><td>54.85</td><td>162.53</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Importance of predictor variables ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows significant correlations of snowfall with all variables $( P { < } 0 . 0 5 )$ excluding wind speed,although most $r$ values have a lower number $( | r | < 0 . 5 0 )$ . Climatic variables,including relative humidity and temperature，were strongly positively and negatively correlated with snowfall,， with $r$ values of 0.64 and $- 0 . 5 3$ ，respectively. A moderate correlation was obtained between latitude and snowfall $\\left( r { = } 0 . 3 8 \\right)$ ，whereas the remaining predictor variables were weakly (positively or negatively） correlated with snowfall $( r { < } 0 . 2 2 )$ . The results indicate that the relationships between the predictor variables and snowfall may be difficult to model as an absolutely linear correlation. However, the RF model provides a non-linear estimation method to explore their correlations.The relative importance of the selected predictor variables in the RF model is presented in Figure 2. The relative humidity, temperature and longitude are the three most important predictor variables influencing snowfall variance. The correlation analysis results also showed the highest relevance for relative humidity and temperature. The other predictor variables, including elevation,aspect, latitude and slope,are of secondary importance for snowfall dynamics. Although the ranking of wind speed was identified as the lowest, its minor importance for snowfall variance should not be ignored. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2987bfba071680fa0640318241e9705c1bbdcac46a502fb5db738e8727cea9b.jpg",
+        "table_caption": [
+            "Table 2Correlation coefficients between snowfall and predictor variables "
+        ],
+        "table_footnote": [
+            "Note:RH,relative humidity;\\*\\*,significant correlation at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Temperature</td><td>RH</td><td>Elevation</td><td>Longitude</td><td>Latitude</td><td>Aspect</td><td>Slope</td><td>Wind speed</td></tr><tr><td>P value</td><td>0.000**</td><td>0.000**</td><td>0.000**</td><td>0.000**</td><td>0.000**</td><td>0.000**</td><td>0.000**</td><td>0.367</td></tr><tr><td></td><td>-0.53</td><td>0.64</td><td>0.12</td><td>-0.21</td><td>0.38</td><td>-0.20</td><td>0.15</td><td>0.03</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/de47ad2c448ddea5dddaafce24baf5e78e5cd8cbda780fbab8fef306bafe7739.jpg",
+        "img_caption": [
+            "Fig.2Importance of predictor variables obtained from the random forest model.RH,relative humidity; IncMSE, mean decrease in accuracy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 Performance of the MLR model ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The model parameters for the eight predictor variables obtained from the MLR model are presented in Table 3.A moderate correlation between snowfall and covariates was derived, with $R ^ { 2 }$ value of 0.41 (adjusted $R ^ { 2 } { = } 0 . 4 0 \\dot { }$ ), implying that $40 \\%$ of the total variance in snowfall can be explained by the MLR model. All estimated parameters for the selected predictor variables displayed a high level of significance $( P { < } 0 . 0 0 1 )$ )，except for elevation，wind speed and slope, which had a low significance level( ${ P / { > } 0 . 1 0 0 ) }$ . According to the lmg sorting results,relative humidity, temperature and longitude had greater contributions in the regression model, followed by latitude,aspect and elevation，while wind speed and slope contributed the least to the regression model with lmg values less than $1 . 0 0 0 \\%$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4Performance of the RF model ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The ntree, mtry and nodesize parameters in the calibration period of the RF model were 500, 3 and 5, respectively, according to the selection standard for the specific parameter (see Section 2.3). A larger proportion of the total variance in snowfall was explained in this model, with $R ^ { 2 }$ values of 0.70 and 0.74, $d$ values of 0.90 and 0.93,and $R S R$ values of O.55 and O.51 during the calibration and validation periods，respectively (Table 4). These results clearly showed the desirable performance and prediction capability of the RF model. The observed and predicted values of snowfall for the validation samples from the RF and MLR models are presented in Figure 3. Generally speaking, the RF model performed much beter than the MLR model in predicting snowfall. The predicted results are better when the observed snowfall values are less than $3 0 ~ \\mathrm { m m }$ in both models. However, the overall predicted snowfall amounts were overestimated for low values and underestimated for high values. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c6360be1141ef616a0c4f0a2908d47d864841a5e65eb7b26347df3c11a44bdb.jpg",
+        "table_caption": [
+            "Table 3Parameter estimation results from the multiple linear regression model "
+        ],
+        "table_footnote": [
+            "Note:RH, relative humidity. "
+        ],
+        "table_body": "<html><body><table><tr><td>Variable</td><td>Estimate</td><td>Standard error</td><td>t value</td><td>P value</td><td>lmg (%)</td></tr><tr><td>Constant</td><td>-10.119</td><td>56.747</td><td>-0.178</td><td>0.858</td><td></td></tr><tr><td>RH</td><td>0.319</td><td>0.098</td><td>3.248</td><td>0.000</td><td>8.391</td></tr><tr><td>Temperature</td><td>-2.104</td><td>0.410</td><td>-5.121</td><td>0.000</td><td>7.978</td></tr><tr><td>Longitude</td><td>-2.561</td><td>0.271</td><td>-9.439</td><td>0.000</td><td>7.864</td></tr><tr><td>Latitude</td><td>5.835</td><td>1.210</td><td>4.821</td><td>0.000</td><td>6.149</td></tr><tr><td>Aspect</td><td>-0.072</td><td>0.012</td><td>-5.997</td><td>0.000</td><td>5.152</td></tr><tr><td>Elevation</td><td>0.002</td><td>0.002</td><td>0.553</td><td>0.580</td><td>3.341</td></tr><tr><td>Wind speed</td><td>-0.694</td><td>0.975</td><td>-0.712</td><td>0.476</td><td>0.770</td></tr><tr><td>Slope</td><td>0.098</td><td>0.191</td><td>0.512</td><td>0.608</td><td>0.389</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/483dfc51e08c10c9492cf1f5134745b73edd91a6843cf6d8645143895b795601.jpg",
+        "table_caption": [
+            "Table 4Results of the random forest model "
+        ],
+        "table_footnote": [
+            "Note: $R ^ { 2 }$ ,coefcient of determination;RSR,theratioofroot mean square error to standard deviation of observed dataset; $d$ ,index of agreement. "
+        ],
+        "table_body": "<html><body><table><tr><td>Evaluation indices</td><td>Calibration sample</td><td>Validation sample</td></tr><tr><td>R</td><td>0.70</td><td>0.74</td></tr><tr><td>RSR</td><td>0.55</td><td>0.51</td></tr><tr><td>d</td><td>0.90</td><td>0.93</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2aefcae8fa87a5493b0ef4543a81aaf9ef0e48a901679e9aa5dec25eb0ada089.jpg",
+        "img_caption": [
+            "Fig.3Correlation of observed and predicted snowfall results obtained from the (a)random forest model and (b) multiple linear regression model using the validation samples "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1Impacts of predictor variables on snowfall ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results from both the RF and MLR models indicate that relative humidity and temperature had particularly important effects on snowfall Relative humidity and air temperature at low levels are strongly affected by the liquid water amounts and the density of snowflakes at the near surface (Roebber et al.,2003). Karl and Groisman (1993) found that the liquid water equivalent of fresh snow is a function of temperature,relative humidity and other factors. Temperature changes will affect the percentage of precipitation forms and snowmelt regimes, and the amount of snowfall would decrease with a decreasing ratio of snowfall to total precipitation (Kousari et al., 2011; Krasting et al., 2013; Kapnick et al., 2014). Changes in relative humidity may influence the variation in the rate of water vapor formation in the troposphere. O'Gorman and Muller (2010) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and Kousari et al. (2O11） found that precipitation evaporation would increase with increasing temperature and decreasing relative humidity. Thus, we propose that changes in temperature and relative humidity may also impact the forms of precipitation. According to Figure 4a, temperature generally exhibited an increasing trend at allthe 27 meteorological stations (stations that above the auxiliary line of $y { = } 0$ ),with 14 stations showing a statistically significant increasing trend $( P { < } 0 . 0 5 )$ based on the Mann-Kendall trend test. In contrast,relative humidity showed a decreasing trend in the majority of the 27 meteorological stations (stations that below the auxiliary line of $y { = } 0$ ), with 1l stations exhibiting a statistical significance at the $P { < } 0 . 0 5$ level (Fig. 4a). Snowfall changes showed an upward trend at most stations, with only 6 stations showing a statistically significant increasing trend (Fig. 4b). Furthermore, the increase in temperature and decrease in relative humidity were not correlated with a coherent decrease in snowfall for statistically significant stations at elevations below $1 5 0 0 \\ \\mathrm { m }$ . There are two explanations for this observation. First, the significant increase in snowfallin the Tianshan Mountains probably offsets the partial decrease in snowfall arising from the increase in temperature (Guo and Li, 2015). Second,the limited meteorological stations at higher elevation highlight the clear changes in relative humidity and snowfall at lower elevation under the marked increase in temperature. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0793cb3cc4954f475c066465ee95151eed9de9353cd00fb4f36f3dd63e46f230.jpg",
+        "img_caption": [
+            "Fig.4Scatterplots of (a)change rates of temperature and RH (relative humidity) versus elevation, (b) change rate of snowfall versus elevation,and (c) change rate of snowfall versus longitude.RL,regression line; open boxes $( \\boxed { } )$ indicate change rate of RH at non-statistically significant stations; black boxes $\\mathbf { ( } \\equiv \\mathbf { \\overline { { 0 } } ) }$ indicate change rate of RH at statistically significant stations; Open upward triangles $( \\triangle )$ indicate change rate of temperature at non-statistically significant meteorological stations； black upward triangles $\\mathbf { \\Psi } ( \\mathbf { \\blacktriangle } )$ indicate change rate of temperature at statistically significant stations;open downward triangles (O）indicate change rate of snowfallat non-statistically significant stations; and black downward triangles $\\mathbf { \\Pi } ( \\bullet )$ indicate change rate of snowfall at statistically significant stations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Snowfall amount is considered closely related to elevation due to the decrease in temperature with increasing elevation, and temperature can more easily reach the melting point at lower elevation than at higher elevation (Serquet et al.,2011; Rahman et al.,2013). As shown in Figure 4b,there was a significant negative correlation between the change rate of snowfall and elevation. However, the changes in both temperature and relative humidity exhibited a non-significant correlation with elevation. Therefore， the impacts of other potential factors and even microphysical process on the relationship of the change rate in snowfall and elevation should be studied more comprehensively in the future. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Longitude, a geographical factor, was the third most important variable in both the RF and MLR models in our study. The impact of latitude in the RF model was considerably less important, but it ranked the fourth in the MLR model. A significant positive correlation between the change rate of snowfall and longitude is shown in Figure 4c.Latitude can impact the spatial changes in air temperature while longitude may have an influence on wind speed (Kwon and Fu, 2013). Snow may be redistributed by the wind when it fals on the surface (Erickson et al., 2005). Nonetheless,the east-west extension of the Tianshan Mountains is mainly influenced by westerly circulation and wet arctic air masses. Prevailing westerlies can bring moist air masses to the mountains from the Atlantic and Arctic Oceans. However, the high mountains in the west prevent wet airflow from the westerlies,leading to variations in precipitation with longitude at a local scale (Zhang et al.,2015; Lu et al., 2016). In addition, meteorological stations in the Tianshan Mountains are unevenly distributed in space; hence,longitudinal zonality of snowfall would be more pronounced than latitude under the influence of topography. Similar studies also found a correlation between different forms of precipitation and these two variables (longitude and latitude). Zhang et al. (2O15） found that annual precipitation has a distinct longitudinal and latitudinal zonality in the Tianshan Mountains,with an M-shaped distribution of precipitation with longitude and a saddle-shaped distribution of precipitation with latitude. Ji and Chen (2012) revealed that longitude primarily impacts the distribution of precipitation in the middle Tianshan Mountains. Wi et al. (2012） pointed out that in the Colorado River Basin, snowfall shows a significant decrease in all latitude-altitude bands except the highest latitude and altitude. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study, aspect was considered as a moderately important factor on snowfall and it ranked the fifth position in the RF model and MLR model. The north and south aspects tend to be dominate in the Tianshan Mountains. The northern and southern slopes are the shade and sunny slopes,respectively. The shade and sunny slopes present different regional climate regimes due to distinct differences in solar radiation, water vapor sources and topographic feature. The shade slope tends to be on the windward side, mainly influenced by westerly airflows with associated precipitation from orographic lifting. The sunny slope is likewise a leeward slope， which is controlled by downward flow with less precipitation compared with the shade slope (Yang et al., 2007; Guo and Li, 2O15). Throughout the study period, snowfall and relative humidity on the northern slope were clearly larger than those on the southern slope, while wind speed exhibited the opposite tendency (Fig. 5).Li et al. (20l2) also found that winter snowfall on the northern slope of the Tianshan Mountains is significantly greater than that on the southern slope.Moreover, relative humidity is generally higher on the northern slope than on the southern slope,while near-surface temperature lapse rate shows an inverted pattern in this area (Shen et al., 2016). A higher wind speed would decrease the temperature gradient through its influence on air flow. Therefore, the spatial variation in relative humidity, wind speed and near-surface temperature lapse rate influenced by topography and local climate could result in a spatial variation in snowfall between the northern and southern slopes.For both the RF and MLR models, slope and wind speed were the least important variables. However, these two variables are influenced by aspect, which would develop some primary control on snow accumulation and redistribution (Anderton et al., 2004; Anderson et al., 2014). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d173e8652d7d3fb406ddd475353fbee01742540e022571743d88d2919fad6baf.jpg",
+        "img_caption": [
+            "Fig.5Variations in (a) snowfall and(b)RH(relative humidity)and wind speed during the period 1980-2015on the northern and southern slopes in the Tianshan Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2Comparison of the RF and MLR models ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Results of the RF and MLR models indicate a distinct difference in model performance during both the calibration and validation periods.The RF model obtained an obviously higher predictive accuracy than the MLR model, with $R ^ { 2 }$ values of O.74 and 0.44, $d$ values of 0.93 and 0.77, and RSR values of O.51 and 0.75 for the two models,respectively (Fig. 3). The RF model reflected a robust predictive ability, indicating its good applicability in explaining non-linear relationships between the predictor variables and response variable. The MLR model could only partly interpret the variance in snowfall. Notably, the RF model does not need to assume a correlation between the dependent variable and independent variables,and it is less sensitive to some datasets with improper error distributions. Similar comparisons between the RF and MLR models have been proposed by Lopatin et al. (2016) and Zhang et al. (2017) for ecological studies. We found that relative humidity, temperature and longitude were the top three most important contributors to snowfall among all the predictor variables from both the two models.The similar ranking of variable importance in both models showed that climatic factors played a major role in influencing snowfall compared with other influencing variables.It is likely that the RF model could accurately identify the degree of relative importance of variables while it is still being unable to characterize the kinds of effect that these variables may have on the results (Kovdienko et al.,201O).Elevation was the fourth most important variable in the RF model, but it ranked the sixth in the MLR model, which demonstrated that the non-linear relationship was an excellent interpretation of the association between elevation and snowfall. Ning (2013） also found a parabolic-shaped relationship between elevation and mean annual precipitation in the Tianshan Mountains. Temperature will generally vary with the change in elevation. Greater snowfall usually occurs at higher elevation, where the temperature is commonly lower than $0 ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Varying the out-of-bag samples and rerunning the RF model during the calibration period would generate different rankings of variable importance (Goudarzi， 2O16). When the RF algorithm was repeated several times and trained with the same datasets,the first three most important variables were broadly identical at the completion of each model while the rankings of other less important predictor Variables changed slightly. In addition,removing lesser important variables,such as slope and wind speed, did not improve the prediction performance of the model. Other studies also found that removing unconnected variables in the RF model had little impact on the results (Palmer et al.，2O07). Similarly, in the MLR model,when variables that are insignificantly related or have a minor relative contribution $( l m g { < } 1 \\% )$ ，such as slope and wind speed,were removed, the adjusted coefficient of determination of the model was similar to the original model, indicating that simplifying the model will not impact the model accuracy. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Snowfall prediction is scarce and difficult in the Tianshan Mountains due to regional differences and complex topography. In this study, we utilized different regression approaches to explore the potential driving factors influencing snowfall, i.e., climate, geography and topography. The RF model performed better than the MLR model. It (out-of-bag method) is insensitive to outliers or missing data,and has improved prediction ability for non-linear correlations compared with a similar model (CART). Relative humidity, temperature and longitude were the three most important variables influencing snowfall. Elevation， aspect and latitude were of secondary importance, followed by slope and wind speed. We propose that the impact of climate on snowfall is larger than the topography in general. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Despite the difference in results between the two models,the order of the three most important variables was the same in each model. Furthermore, the significantly important variables listed in this study may be limited,and it may be possible to identify more variables which may influence snowfall. Future studies may focus on identifying more closely related variables to better understand the influences these factors on snowfall in the Tianshan Mountains and to further improve model precision. The RF method could be extended to different regions with superior predictor variables, providing potential insights into regional differences in snowfall amount. In addition， these results will be beneficial to understand hydrological modeling and improve management and prediction of water resources in the mountainous regions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the National Key Research and Development Program of China (2017YFB0504201)，the National Natural Science Foundation of China (41761014，41401050）and the Foundation of A Hundred Youth Talents Training Program of Lanzhou Jiaotong University. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AndersonBT,McNamaraJP,MarshallHP,etal214.Insights intothehysicalprocessescontrollingcoelationsbetwen snow distribution and terrain properties.Water Resources Research,50(6): 4545-4563.   \nAnderton SP,White SM,AlveraB.2O04.Evaluationof spatial variabilityin snow water equivalent fora high mountain catchment.Hydrological Processes,18(3): 435-453.   \nAntipovEA,Pokryshevskaya EB.2012.Massappraisal of residential apartments:Anapplicationof random forest for valuation and a CART-based approach for model diagnostics.Expert Systems with Applications,39(2):1772-1778.   \nAsaokaY,KominamiY.20l2.Spatial snowfalldistributioninmountainousreas estimatedwithasowmodelandsatelie remote sensing. Hydrological Research Letters,6(6): 1-6.   \nBreiman L.2001. Random forests.Machine Learning,45(1): 5-32.   \nChenYN,LiZ,FanYT,etal.2O14.Research progressontheimpactofclimate changeonwaterresouresinthearidrgionof Northwest China.Acta Geographica Sinica, 69(9):1295-1304.(in Chinese)   \nChen YN,LiWH,Deng HJ,etal.2O16.Changes inCentral Asia's water tower: past,presentandfuture.Scientific Reports, 6(1): 35458.   \nChenYN,LiZ,FangGH,etal.2O17.Impactofclimatechangeonwaterresources inthe Tanshan Mountians,CentralAsia. Acta Geographica Sinica,72(1):18-26.(in Chinese)   \nClark MP,Andrew G S.2O06.Probabilistic quantitative precipitation estimation in complex terain.Journal of Hydrometeorology,7(1): 3-22.   \nCutler DR,EdwardsTC,BeardKH.,etal.20.Randomforestsforclassificationincology.Ecology88(11):782792.   \nDai A.2008.Temperatureand pressure dependence of therain-snow phase transition over land and ocean.Geophysical Research Letters,35(12): 1-6.   \nDavis RE,LowitMB,KnappenbergerPC,tal.199.Aclimatologyfsowfal-temperaturerelationships inaada.Joual of Geophysical Research,104(D10): 11985-11994.   \nErickson TA,Wiliams MW,Winstral A.2Oo5.Persistenceof topographiccontrolsonthe spatial distributionofsnow in rugged mountain terrain, Colorado, United States.Water Resources Research,41(4):1-17.   \nFussel HM,JolA.2O12.Climatechange,impactsand vulnerabilityinEurope2O12an indicator-based report.Luxembourg: Publications Office of the European Union.   \nGenuer R,PogiJM,Tuleau-Malot C.2010.Variableselection usingrandom forests.Pattern Recognition Leters,31(14): 2225-2236.   \nGoudarzi N. 2016.Free variable selection QSPR study to predict ${ } ^ { 1 9 } \\mathrm { F }$ chemical shifts of some fluorinated organic compounds using Random Forest and RBF-PLS methods.Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy,158: 60-64.   \nGromping U.oo6.Relativeimportance forlinearregresion inR:thepackagerelaimpo.JouralofStatistical Software,7(l): 139-147.   \nGuo LP,LiL H.2015.Variation of the proportionof precipitation occuring as snow in the Tian Shan Mountains,China. International Journal of Climatology,35(7):1379-1393.   \nHu RJ.2004.Physical Geographyof the Tianshan Mountains in China.Beijing: China Environmental Science Pres,2-4.(in Chinese)   \nIkeda K,Rasmussen R,Liu C,et al.2O10.Simulationof seasonal snowfallover Colorado.Atmospheric Research,97(4): 462-477.   \nJi X,Chen YF.2012.Characterizing spatial patterns of precipitation based on corrected TRMM ${ } _ { 3 } \\mathrm { B } _ { 4 3 }$ data over the mid Tianshan Mountains of China. Journal of Mountain Science,9(5): 628-645.   \nKapnick SBS,DelworthTLT,Ashfaq M,etal.2O14.Snowfallesssensitiveto warming inKarakoramthaninHimalayas due to aunique seasonal cycle. Nature Geoscience,7(11): 834-840.   \nKarl TR,Groisman PY.1993.Recent variations of snow coverand snowfallin North America and theirrelation to precipitation and temperature variations. Journal of Climate, 6(6): 1327-1344.   \nKousariMR,Ekhtesasi MR,Tazeh M,etal.2Ol1Aninvestigationof the Iranian climaticchangesbyconsidering the precipitation,temperature,andrelativehumidityparameters.TheoreticalandApplied Climatology,103(3-4):321-335.   \nKovdienko NA,PolishchukPG,MuratovEN,etal.2O10.Applicationofrandom forestand multiple linearregression techniques to QSPR prediction ofanaqueous solubility for military compounds.Molecular Informatics,29(5):394-406.   \nKrastingJP,BroccoliAJ,ixonKW,etal0l.FuturechangesiortherhmispheresowfallJuraloflmate,6(2): 7813-7828.   \nKwonTJ,FuL.2013.Evaluationofalternative criteria fordetermining theoptimallocationofRWIS stations.Journalof Modern Transportation,21(1):17-27.   \nLegatesDR,McCabe Jr GJ.1999.Evaluating the useof \"goodnessoffit\" measures in hydrologic and hydroclimatic model validation. Water Resources Research,35(1): 233-241.   \nLiBF,Chen YN,Shi X,etal.2013.Temperatureand precipitationchangesin different environments inthearidregionof northwest China. Theoretical and Applied Climatology,112(3-4):589-596.   \nLiX M,GaoP,LiQ,etal.2O16.Muti-paths impact fromclimatechange onsnowcover in Tianshan Mountainous areaof China. Climate Change Research,12(4): 303-312.(in Chinese)   \nLi X S,Zhang MJ， Wang BL,etal.2O12.The changecharacteristicsof winter snowfallsnowconcentration degree and concentration period in the Tianshan Mountains.Resources Science,34(8):1556-1564.(in Chinese)   \nLiu YL,RenGY,YuHM.2012.Climatologyofsnowin China.ScientiaGeographica Sinica,32(10):1176-1185.(inChinese)   \nLopatin J,DolosK,HerandezHJ,etal.2O16.Comparinggeneralizedlinearmodelsandrandomforesttomodelvascularplant species richness usingLiDAR data inanatural forest incentral Chile.Remote Sensing ofEnvironment,173(315):200-210.   \nLu H,Wei W S,Liu M Z,etal.2O16. Variations in seasonal snow surface energy exchange during asnowmelt period: an example from the Tianshan Mountains,China.Meteorological Applications,23(1):14-25.   \nMarks D,WinstralA,RebaM,etal.2O13.An evaluationofmethods fordetermining during-storm precipitationphaseand the rain/snow transition elevation at the surface in a mountain basin.Advances in Water Resources,55(3): 98-110.   \nMirRA,JainSK,arafAK,etal.20l5.Decline insnowfallinesponsetotemperaturein Satlujbasi,westernHalaya. Journal of Earth System Science,124(2): 365-382.   \nMoriasi DN,ArnoldJG, VanLiew MW,etal.2oo7.Model evaluation guidelines forsystematicquantificationofaccuracyin watershed simulations.Transactions of the ASABE,50(3): 885-900.   \nMunoz J,Felicisimo A M.2004.Comparison of statistical methods commonlyused in predictive modeling.Journalof Vegetation Science,15(2): 285-292.   \nNair HC,Padmalal D,Joseph A,et al.2017.Delineationof groundwater potential zones inriver basins using geospatial tools—an example from southern western Ghats,Kerala,India.Journal of Geovisualizationand Spatial Analysis，1:5, doi:https://doi.org/10.1007/s41651-017-0003-5.   \nNingL K.2013.Studyon the influence of iopographyand geomorphologyonprecipitation over Tianshan Mountains,Central Asia.MSc Thesis.Shihezi: Shihezi University.(in Chinese)   \nOGorman PA,Muller C J.2010. How closely do changes in surface and column water vapor folow Clausius-Clapeyron scaling in climate change simulations? Environmental Research Letters,5(5): 025207.   \nOliveira S,OehlerF,San-Miguel-yanzJ,etal.012.Modeling spatial pattrsoffireoccurrence in Mediterranean Europe using Multiple Regression and Random Forest.Forest Ecology and Management, 275(4): 117-129.   \nPadoan SA,Ribatet M, Sisson SA.2O09.Likelihood-based inference for max-stable processes.Journalof the American Statistical Association,105(489): 263-277.   \nPalmerD,O'boyle N,GlenR,etal.20o7.Randomforest models topredictaqueous solubility.JournalofChemical Information and Modeling,47(1): 150-158.   \nPerry L,Konrad C.20o6.Relationships between NW flow snowfalland topography in the Southern Appalachians,USA. Climate Research,32(1):35-47.   \nPiazza M, Boé J, Terray L, et al. 2014.Projected $2 1 ^ { \\mathrm { s t } }$ century snowfall changes over the French Alps and related uncertainties. Climatic Change,122(4): 583-594.   \nRahmanK,Maringanti C,Beniston M,etal.2O13.Streamflow modeling in a highly managed mountainous glacier watershed using SWAT: The upper Rhone River watershed case in Switzerland. Water Resources Management,27(2): 323-339.   \nRasmussen R,Liu C,Ikeda K,etal.2011.High-resolutioncoupled climaterunoff simulationsof seasonal snowfallover Colorado: A process study of current and warmer climate. Journal of Climate,24(12): 3015-3048.   \nRoebberPJ,Bruening SL,SchultzDM,etal.2Oo3.Improving snowfallforecasting bydiagnosingsnow density.Weatherand Forecasting,18(2): 264-287.   \nScipionDE,MottR,LehningM,etal.20l3.Seasonalsmallscalespatialvariabilityinlpinesnowfallandsnowaccuulation. Water Resources Research,49(3): 1446-1457.   \nSerquetG,MartyC,DulexJP,etal.2O11.Seasonaltrendsandtemperaturedependenceofthesnowfallprecipitation-dayratio in Switzerland.Geophysical Research Letters,38(7):14-18.   \nShen YJ,Shen Y,Goetz J,etal.2O16.Spatial-temporalvariationof near-surfacetemperature lapseratesoverthe Tianshan Mountains,Central Asia.Journal of Geophysical Research: Atmospheres,121(23): 14006-14017.   \nShiYF,Shen YP,Kang ES,et al.2O07.Recent and future climatechange innorthwest China.Climatic Change,80(3-4): 379-393.   \nSorgA,BolchT,StofelM,etal.2O12.Climatechange impactsonglaciersandrunof inTien Shan(CentralAsia).Nature Climate Change,2(10): 725-731.   \nStrobl C,BoulesteixAL,Kneib T,etal.o08.Conditional variableimportanceforandom forests.BMCBioinformatics,9(): 307.   \nTang ZG,Wang J,Wang X,et al.2O17.Spatiotemporal variationofsnow cover in Tianshan Mountains basedon MODIS. Remote Sensing Technology and Application,32(3):556-563.(in Chinese)   \nTinkham WT,Smith AMS,MarshallHP,etal.2014.Quantifying spatial distributionofsnowdepth errors fromLiDARusing Random Forest.Remote Sensing of Environment,141(2):105-115.   \nVrotsouK,FuchsGAdrienkoN,etal.20l7.Aninteractiveapproachfoexplorationoffowsthroughdirection-basedeng Journal ofGeovisualization and Spatial Analysis,1(1-2):1,doi: https:/doi.org/10.1007/s41651-017-0001-7.   \nWangL,LiuHL,BaoAM,etal.0l6.Estimatingthesensitivityofrunoff toclimatechangeianalpine-valeywatersedof Xinjiang, China.Hydrological Sciences Journal, 61(6): 1069-1079.   \nWetzelM,Meyers M,BorysR,etal.2O04.Mesosale snowfallpredictionandverificationinmountainousterainWeatherand Forecasting,19(5): 806-828.   \nWiS,DominguezF,Durcik M,etal.2O12.Climate changeprojectionofsnowfalin the ColoradoRiverBasinusing damical downscaling.Water Resources Research,48(5):205-210.   \nWillmott C J.1981. On the validation of models.Physical Geography,2(2):184-194.   \nXu JR,Qiu JQ.1996.A studyon snowfall variation in the Tianshan Mountains during therecent 3O winters.Journal of Glaciology and Geocryology,18(S1):123-128. (in Chinese)   \nXu L G, Zhu ML,HeB,et al.2014.Analysis of waterbalance in Poyang LakeBasinand subsequentresponse to limate change.Journal of Coastal Research,68:136-143.   \nYang J,Fang G H,Chen YN,etal.2O17.Climatechangein the Tianshan and northern Kunlun Mountains basedon GCM simulation ensemble with Bayesian model averaging. Journal of Arid Land, 9(4): 622-634.   \nYang Q,Cui C X,Sun CR,etal.2007.Snow cover variation during 1959-2003 in Tianshan Mountains,China.Advances in Climate Change Research,3(2): 80-84.(in Chinese)   \nYu JY,ZhangGQ,YaoTD,etal.2015.Developingdailycloud-freesnowcomposite products from MODIS Terra-Aqua and IMS for the Tibetan Plateau.IEEE Transactions on Geoscience & Remote Sensing,54(4): 2171-2180.   \nZhangFY,BaiL,LiLH,etal.0l6.Sensitivityofrnof toclimaticvariabilityinthenortherandsouthernslopesof the Middle Tianshan Mountains,China. Journal of Arid Land, 8(5): 681-693.   \nZhang GXie H,Yao T,etal.20l2.Snowcoverdynamicsoffourlakebasinsover TibetanPlateauusing timeseries MODIS data (2001-2010).Water Resources Research,48(10):10529.   \nZhang H,WuPB,YinAJ,etal.2O17.Predictionofsoilorganiccarbon inan intensivelymanagedreclamation zoneofeastern China:Acomparisonof multiple linear regresions and the random forest model.Scienceof the Total Environment,592: 704-713.   \nZhang XT,LiX,GaoP,etal.2O17.Separationof precipitationformsbasedondifferent methods inTianshan Mountainous Area,Northwest China. Journal of Glaciology and Geocryology,39(2):235-244.(in Chinese)   \nZhang ZF,Xi S,LiuNetal.20l5.Snowfallchange characteristics in China froml96lto20l2.Resources Science,37(9): 1765-1773. (in Chinese)   \nZhang ZY,HeHL,LiuL,etal.2O15.Spatialdistributionofrainfallsimulationandthecauseanalysis inChina's Tianshan Mountains area.Advances in Water Science,26(4): 500-508.(in Chinese) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

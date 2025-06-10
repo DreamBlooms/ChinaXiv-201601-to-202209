@@ -1,0 +1,243 @@
+酵母硒对产蛋后期蛋鸡生产性能、蛋品质、抗氧化与脂代谢及其相关基因表达的影响！
+
+杨 玉孙煜孙宝盛 朱倩张俊珍 高鹏飞（山西农业大学动物科技学院，太谷030801）
+
+摘要：本试验旨在研究酵母硒对产蛋后期蛋鸡生产性能、蛋品质、抗氧化与脂代谢及其相关基因表达的影响。选用69 周龄、健康海兰褐蛋鸡432只，随机分为4个组，每组6个重复，每个重复18 只鸡。对照组饲喂基础饲粮（含 $0 . 2 \mathrm { m g / k g }$ 亚硒酸钠，以硒计），试验组在基础饲粮的基础上添加0.2、0.6、 $1 . 0 \mathrm { m g / k g }$ （以硒计）酵母硒，预试期2周，正试期8周。结果表明：1）与对照组相比，饲粮中添加0.2、0.6 和 $1 . 0 \mathrm { m g / k g }$ 的酵母硒显著提高了产蛋率（ $_ { . { P < 0 . 0 5 } }$ ），并显著降低了料蛋比（ $\cdot P { < } 0 . 0 5 ^ { \cdot }$ ）；饲粮中添加 $0 . 2 \mathrm { m g / k g }$ 的酵母硒显著增加了平均日采食量（ $. P { < } 0 . 0 5$ ）。此外， $0 . 6 \mathrm { m g / k g }$ 组的料蛋比显著低于0.2 和 $\mathrm { 1 . 0 \ m g / k g }$ 组( $. P { < } 0 . 0 5$ ）。2）与对照相比，饲粮中添加 $0 . 2 \mathrm { m g / k g }$ 的酵母硒显著增加了第14天的蛋壳颜色( $( P { < } 0 . 0 5 )$ ；饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 的酵母硒极显著提高了第42天的蛋壳强度( $( P { < } 0 . 0 1 )$ ，显著增加了第42天的蛋壳厚度（ $\scriptstyle \cdot - 0 . 0 5$ ）；饲粮中添加 $1 . 0 \mathrm { m g / k g }$ 的酵母硒显著提高了第14 天的蛋白高度和第42天的蛋壳强度，显著增加了第 42天的蛋壳厚度（ $P { < } 0 . 0 5$ ）。随着饲粮中酵母硒添加量的增加，蛋黄硒含量极显著提高（ $P { < } 0 . 0 1$ ）。3）与对照组相比，饲粮中添加 $0 . 2 \mathrm { m g / k g }$ 的酵母硒极显著提高了血浆总超氧化物歧化酶(T-SOD)活性 $( P { < } 0 . 0 1 )$ ，显著降低了血浆丙二醛（MDA）含量 $( P { < } 0 . 0 5 )$ ：饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 的酵母硒极显著提高了血浆谷胱甘肽过氧化物酶（ $\mathrm { G S H - P x }$ ）、T-SOD活性和总抗氧化能力（T-AOC）及肝脏GSH- $\mathbf { \cdot P x }$ 活性（ $\cdot P { < } 0 . 0 1$ ），显著降低了血浆MDA含量（ $\cdot P { < } 0 . 0 5$ ）；饲粮中添加 $1 . 0 \mathrm { m g / k g }$ 的酵母硒极显著提高了血浆GSH $\mathbf { \cdot P x }$ 、T-SOD及肝脏GSH $\mathbf { \cdot P x }$ 活性（ $_ { \cdot  { P } < 0 . 0 1 }$ ），显著提高了血浆T-AOC（ $\scriptstyle \cdot P < 0 . 0 5 .$ ），并极显著降低了MDA的含量（ $\cdot P { < } 0 . 0 1$ ）。4）与对照组相比，饲粮中添加0.6和 $1 . 0 \mathrm { m g / k g }$ 的酵母硒显著降低了肝脏胆固醇和蛋黄甘油三酯含量（ $\cdot P { < } 0 . 0 5 \$ ）；饲粮中添加1.0$\mathrm { m g / k g }$ 的酵母硒还极显著降低了肝脏甘油三酯含量（ $_ { \cdot  { P } < 0 . 0 1 }$ ）。0.6和 $1 . 0 \mathrm { m g / k g }$ 组的肝脏胆固醇和蛋黄甘油三酯含量均显著低于 $0 . 2 \mathrm { m g / k g }$ 组（ $\cdot P { < } 0 . 0 5$ ）。5）与对照组相比，饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 的酵母硒极显著提高了肝脏谷胱甘肽过氧化物酶 $1 ( G P x 1 )$ 、硫氧还蛋白还原酶1（Trxr1）、固醇调节元件结合酶1c（SREBP- $S R E B P  – 1 c$ ）mRNA的相对表达量（ $_ { \cdot  { P } < 0 . 0 1 }$ ），极显著降低了3-羟基-3-甲基戊二酸单酰辅酶A还原酶（HMGCR）mRNA的相对表达量（ $_ { \cdot  { P } < 0 . 0 1 }$ ），而对胆固醇 $7 a .$ 羟化酶（Cyp7a1）mRNA的相对表达量无显著影响（ $P { > } 0 . 0 5$ ）。由此可见，饲粮中添加酵母硒可提高产蛋后期蛋鸡生产性能、蛋壳强度、蛋黄硒含量，改善机体抗氧化性能和胆固醇代谢能力。通过回归分析得出，饲粮（含 $0 . 2 0 ~ \mathrm { m g / k g }$ 亚硒酸钠形式的硒）中添加 $0 . 6 0 { \sim } 0 . 7 7 \mathrm { m g / k g }$ 酵母硒的效果较好。
+
+关键词：酵母硒；产蛋后期蛋鸡；蛋品质；抗氧化；脂代谢中图分类号：S816 文献标识码：A 文章编号：
+
+硒被认为是饲粮中必需的营养成分已有40 余年。传统的补硒方法是在饲粮中添加亚硒酸钠作为硒源添加剂，但亚硒酸钠存在毒性强、使用不安全、生物利用率较低、环境污染大、具有氧化作用等问题，许多国家已规定饲料中禁止使用无机硒。有机硒在动物体内具有吸收率高、生物活性强、毒性低、环境污染小等特点[1]。缺硒可导致克山病、癌症、白内障、心血管与抑郁症等疾病发生，所以富硒鸡蛋已成为补硒的重要媒介。研究表明，添加富硒益生菌能显著提高蛋鸡的产蛋率、日产蛋量和蛋重，降低料蛋比，而添加无机硒对这些指标均无显著影响[2]。添加酵母硒和富硒苜蓿能显著提高罗曼蛋鸡的产蛋率，而添加亚硒酸钠对其产蛋率没有显著影响[3l，硒源和水平对蛋鸡血液硒含量、谷胱甘肽过氧化物酶（GSH-Px）活性和总抗氧化能力（T-AOC）有显著影响，有机硒较无机硒更易于沉积在鸡蛋、肝脏和肌肉等组织中[4-7]，显著提高鸡蛋中硒含量[8-10]和 GSH-Px 活性[1-12]。添加硒后，鸡蛋的哈氏单位（评价蛋新鲜度的重要指标之一）下降幅度降低，其中添加有机硒减缓哈氏单位下降的效果优于无机硒[2]。赵玉鑫[13]研究表明，饲粮中添加亚硒酸钠后，对蛋鸡血清胆固醇和甘油三酯含量无显著影响，但有降低趋势。王泽明[14]研究表明，饲粮中添加不同硒源对蛋鸡血浆胆固醇和甘油三酯含量无显著影响。而Ata 等研究表明，添加有机硒和无机硒及其互作可显著降低血浆胆固醇含量，增加蛋黄硒含量，其中以 $0 . 4 \mathrm { m g / k g }$ 有机硒组效果最佳。硒对鸡生产性能、抗氧化功能、血浆胆固醇含量等方面的研究已有报道，但其结果不一，分子机理方面的研究甚少。鉴于此，本试验通过在饲粮中添加不同水平的酵母硒，探讨其对产蛋后期蛋鸡生产性能、蛋品质、抗氧化与脂代谢及其相关基因表达的影响，并对其分子机理做初步探讨，旨在确定其适宜添加水平，为合理利用酵母硒、提高蛋硒含量提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+试验用酵母硒（selenium yeast，SY）购自奥特奇生物有限公司，硒含量 $2 0 0 0 \mathrm { m g / k g }$
+
+# 1.2 试验时间与地点
+
+试验于2015年6月11日至 2015年8月21日在山西省大同市大同县建鑫养殖场和山西农业大学动物遗传育种与动物营养省级重点实验室进行。
+
+# 1.3 试验设计
+
+试验选用69周龄、健康的海兰褐蛋鸡 432只，随机分成4组，每组6个重复，每个重复18只。对照组饲喂基础饲粮（含 $0 . 2 \mathrm { m g / k g }$ 亚硒酸钠，以硒计），试验组在基础饲粮的基础上分别添加0.2、0.6和 $1 . 0 \mathrm { m g / k g }$ （以硒计）酵母硒。预试期2周，期间对照组与试验组的产蛋率和蛋重均无显著差异（ $. { \cal P } { > } 0 . 0 5$ ），随后开始正式试验，正试期8周。基础饲粮组成及营养水平见表1。
+
+表1 基础饲粮组成及营养水平(风干基础)   
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料Ingredients</td></tr><tr><td>玉米 Corn 64.60</td></tr><tr><td>豆油 Soybean oil 0.40</td></tr><tr><td>豆粕 Soybean meal 23.10</td></tr><tr><td>菜籽粕 Rapeseed meal 1.00</td></tr><tr><td>碳酸氢钙CaHPO4 1.29</td></tr><tr><td>石粉 Limestone 8.70</td></tr><tr><td>食盐 NaCl 0.21</td></tr><tr><td>蛋氨酸 Met 0.06</td></tr><tr><td>维生素预混料 Vitamin premixl 0.06</td></tr><tr><td>维生素E粉VEpowder 0.01</td></tr><tr><td>胆碱 Choline 0.15</td></tr><tr><td>微量元素预混料 Trace mineral premix2) 0.20</td></tr><tr><td>小苏打 NaHCO3 0.20</td></tr></table></body></html>
+
+<html><body><table><tr><td>壳红素 Shell red pigment 0.02</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels</td></tr><tr><td>代谢能 ME/(MJ/kg) 11.64</td></tr><tr><td>粗蛋白质 Crude protein 15.92</td></tr><tr><td>赖氨酸Lys 0.71</td></tr><tr><td>蛋氨酸 Met 0.31</td></tr><tr><td>钙Calcium 3.73</td></tr><tr><td>磷Phosphorus 0.56</td></tr></table></body></html>
+
+1每千克维生素预混料含有 Contained the following per $\mathbf { k g }$ of vitamin premix:维生素A乙酸脂 retinol acetate 51 000 000 IU, $\mathrm { V D } _ { 3 }$ 13 500 000 IU，DL-α-生育酚乙酸酯 $D L$ -α-tocopheryl acetate $5 0 0 0 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 }$ $\mathrm { K } _ { 3 } 5 0 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 5 0 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 }$ $2 5 0 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } ~ 1 4 ~ 0 0 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 6 5 \mathrm { m g }$ ，叶酸 folic acid $4 0 0 0 \mathrm { m g }$ ，烟酰胺 nicotinamide $9 0 0 0 0 { \mathrm { ~ m g } }$ ， $D$ -泛酸钙 $D$ -calcium pantothnate $3 2 0 0 0 ~ \mathrm { { m g } }$ ， $D$ 生物素 $D$ -biotin $1 0 0 ~ \mathrm { { m g } }$ 。
+
+2 每千克微量元素预混料含有 Contained the following per $\mathbf { k g }$ of trace mineral premix: Mn (as manganese sulfate) $6 0 \ \mathrm { g }$ Fe (as ferrous sulfate) $6 0 ~ \mathrm { g }$ , Cu (as copper sulfate) $\textrm { 8 g }$ ，Se (as sodium selenite) $1 0 0 ~ \mathrm { { m g } }$ ， $Z \mathrm { n }$ (as zinc sulfate) 60g,I(as potassium iodide) $1 3 0 ~ \mathrm { m g }$ 。
+
+# 1.4 饲养管理
+
+试验鸡采用立体三层笼养，每笼3只，鸡只自由采食与饮水，自然光照并补充人工光照到 $1 6 \mathrm { h }$ 温度（ $2 0 { \pm } 2$ ） $\mathrm { { } ^ { \circ } C }$ ，相对湿度 $50 \% \sim 6 0 \%$ ，自然通风结合纵向负压通风；其他均按养殖场常规程序进行。
+
+# 1.5样品采集与测定
+
+# 1.5.1 生产性能
+
+试验期间每日记录各重复的产蛋数、产蛋总重量，每7d结料1次，记录各重复耗料重，计算平均日采食量，然后以重复为单位统计产蛋率、平均蛋重和料蛋比。
+
+# 1.5.2 蛋品质
+
+试验第14、28、42、56天，每个重复随机抽取3枚鸡蛋测定蛋重、蛋形指数、蛋壳强度、蛋白高度、哈氏单位、蛋黄颜色、蛋壳厚度，取其平均值。
+
+# 1.5.3 血浆及组织相关指标
+
+试验结束时每重复随机选取1只健康状况良好且体重接近的蛋鸡，空腹翅静脉采血 $5 \mathrm { m L }$ ，3500 $\mathbf { r } / \mathrm { m i n }$ 离心 $1 0 \mathrm { m i n }$ 制备血浆，分装后于 ${ } - 2 0 { } ^ { \circ } \mathrm { C }$ 保存。随后颈静脉放血致死，采用无菌操作迅速取出肝脏
+
+放入液氮中，置于 $- 8 0 ~ ^ { \circ } \mathrm { C }$ 待测。按照相应试剂盒测定血浆GSH-Px活性、T-AOC、总超氧化物歧化酶（T-SOD）活性与丙二醛（MDA）、胆固醇、甘油三酯含量以及肝脏GSH- $\mathbf { \cdot P x }$ 活性与胆固醇和甘油三酯含量，试剂盒购自南京建成生物工程研究所。
+
+# 1.5.4 蛋黄相关指标
+
+试验结束时每重复选取2枚鸡蛋称重，破壳后分离蛋清和蛋黄，使用氢化物发生原子荧光分析方法测定蛋黄硒含量；使用相应试剂盒试剂盒测定蛋黄胆固醇和甘油三酯含量，试剂盒购自南京建成生物工程研究所。
+
+# 1.5.5 肝脏RNA提取和反转录
+
+采用Trizol法提取肝脏组织RNA。用 $1 \%$ 琼脂糖凝胶电泳、核酸蛋白仪测定RNA完整性、浓度和纯度。按照反转录试剂盒说明合成cDNA， ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 保存备用。
+
+# 1.5.6 引物设计
+
+根据测序数据库中谷胱甘肽过氧化物酶 $1 ( G P x 1 )$ 、胆固醇 $7 a$ -羟化酶（Cyp7a1）、固醇调节元件结合酶 $\mathbf { l c } ( S R E B P  – 1 c )$ 、硫氧还蛋白还原酶1(Trxr1）、3-羟基-3-甲基戊二酸单酰辅酶A还原酶(HMGCR)的序列，设计其引物，由华大基因（北京）合成。引物序列见表2。
+
+# 表2引物序列
+
+Table 2 Primer sequences   
+
+<html><body><table><tr><td>基因 Genes</td><td>GenBank 登录号 GenBank accession</td><td>引物序列 Primer sequence(5'-3')</td><td>产物大小 Product length/bp</td></tr><tr><td>谷胱甘肽过</td><td>No. NM_001277853</td><td>F:ACGGCGCATCTTCCAAAG</td><td>73</td></tr><tr><td>氧化物酶1</td><td></td><td>R:TGTTCCCCCAACCATTTCTC</td><td></td></tr><tr><td>GPx1</td><td></td><td></td><td></td></tr><tr><td>胆固醇7α-羟</td><td>NM_001001753</td><td>F:CCGAGTTGCTAAGGAGGATT</td><td>191</td></tr><tr><td>化酶Cyp7al</td><td></td><td>R:CGTTGCGGTAGAAGTCAGTC</td><td></td></tr><tr><td>固醇调节元</td><td>NM_204126</td><td>F:GCCCTCTGTGCCTTTGTCTTC</td><td>130</td></tr><tr><td>件结合酶1c</td><td></td><td>R:ACTCAGCCATGATGCTTCTTCC</td><td></td></tr><tr><td>SREBP-1c</td><td></td><td></td><td></td></tr><tr><td>硫氧还蛋白</td><td>NM_001030762</td><td>F:TACGCCTCTGGGAAATTCGT</td><td>107</td></tr><tr><td>还原酶1</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>R:CTTGCAAGGCTTGTCCCAGTA</td><td></td></tr><tr><td>Trxr1</td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>3-羟基-3-</td><td>NM_204485</td><td>F:CTGCAGGAAACAATCTGGAC</td><td>126</td></tr><tr><td>甲基戊二酸</td><td></td><td>R:GCTTTGGTTGATGACTCTGCT</td><td></td></tr><tr><td>单酰辅酶A</td><td></td><td></td><td></td></tr><tr><td>还原酶</td><td></td><td></td><td></td></tr><tr><td>HMGCR</td><td></td><td></td><td></td></tr><tr><td>β-肌动蛋白</td><td>X00182</td><td>F:TGCGTGACATCAAGGAGAAG</td><td>300</td></tr><tr><td>β-actin</td><td></td><td>R:TGCCAGGGTACATTGTGGTA</td><td></td></tr></table></body></html>
+
+# 1.5.7 实时荧光定量PCR
+
+以合成的cDNA为模板，按照 SYBR?Premix Ex TaqTMII试剂盒（大连 TaKaRa 有限公司）说明书，在实时荧光定量PCR仪上进行PCR，反应条件为：预变性 $9 5 \mathrm { ~ \textdegree ~ } 3 0 \mathrm { ~ s ~ }$ ，聚合酶链式反应 $9 5 ^ { \circ } \mathrm { C } 5 \mathrm { ~ s ~ }$ ， $6 0 ~ \mathrm { { ^ \circ C } }$ 34 s,共45个循环。熔解曲线分析程序为： $9 5 ^ { \circ } \mathrm { C } 1 0 \mathrm { ~ s ~ }$ ， $6 0 \ \mathrm { ^ { \circ } C 1 \ m i n }$ ，随后温度以每 $1 0 \mathrm { ~ s ~ } 0 . 5 \mathrm { ~ } \mathrm { ~ \textdegree ~ }$ 的速度上升至 $9 5 \ \mathrm { ^ \circ C }$ 。采用相对定量分析法，以 $\beta$ -肌动蛋白（ $\beta$ -actin）作为内参基因，采用 $2 ^ { - \Delta \Delta C t }$ 法计算目的基因mRNA 相对表达量。
+
+# 1.6 数据处理与统计分析
+
+采用 SPSS19.0统计软件对数据进行单因素方差分析。所有数据均以“平均值 $\pm$ 标准差"表示，用Duncan 氏法比较组间差异显著性，采用LSD法对差异显著的数据进行极显著差异比较，并对相应的数据进行线性和二次曲线回归分析。
+
+# 2结果与分析
+
+2.1饲粮中添加酵母硒对产蛋后期蛋鸡生产性能的影响
+
+由表3可知，与对照组相比，饲粮中添加0.2、0.6 和 $1 . 0 \mathrm { m g / k g }$ 的酵母硒显著提高了产蛋率( $( P { < } 0 . 0 5 )$ ，并显著降低了料蛋比（ $\scriptstyle \cdot < 0 . 0 5$ ），但对平均蛋重无显著影响（ $. P { > } 0 . 0 5$ ）；饲粮中添加 $0 . 2 \mathrm { m g / k g }$ 的酵母硒显著增加了平均日采食量（ $\cdot P { < } 0 . 0 5$ ）。产蛋率、平均蛋重和平均日采食量各试验组之间均无显著差异（ $P { > } 0 . 0 5$ ），但 $0 . 6 \mathrm { m g / k g }$ 组的料蛋比显著低于0.2 和 $1 . 0 \mathrm { m g / k g }$ 组 $\cdot P { < } 0 . 0 5$ ）。
+
+表3饲粮中添加酵母硒对产蛋后期蛋鸡生产性能的影响  
+Table 3Effects of selenium yeast supplementation on performance of laying hens at late laying period   
+
+<html><body><table><tr><td>酵母硒添加量</td><td>产蛋率</td><td>平均蛋重</td><td>平均日采食量</td><td>料蛋比</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>Selenium yeast additive amount/(mg/kg)</td><td>Laying rate/%</td><td>Average egg weight/g</td><td>ADFI/g</td><td>Feed/egg</td></tr><tr><td>0</td><td>71.27±5.46a</td><td>65.88±2.66</td><td>119.83±0.49a</td><td>2.69±0.01a</td></tr><tr><td>0.2</td><td>77.19±2.33b</td><td>64.61±3.69</td><td>121.17±0.45b</td><td>2.55±0.01b</td></tr><tr><td>0.6</td><td>77.72±1.65b</td><td>65.62±4.30</td><td>120.39±0.50ab</td><td>2.48±0.01c</td></tr><tr><td>1.0</td><td>77.11±2.05b</td><td>63.90±3.58</td><td>120.72±0.64ab</td><td>2.56±0.01b</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $\scriptstyle { \mathcal { P } } < 0 . 0 5$ ），不同大写字母表示差异极显著（ $\cdot P { < } 0 . 0 1$ ），无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5$ ）。表5、表6和表7同。
+
+In the same column,values with different small letter superscripts mean significant difference（ $P < 0 . 0 5$ ），and with different capital letter superscripts mean extremely significant difference（ $P < 0 . 0 1$ ），while with no or the same letter superscripts mean no significant difference（ $P { > } 0 . 0 5$ ）.The same as Table 5,Table6 and Table 7.
+
+# 2.2饲粮中添加酵母硒对产蛋后期蛋鸡蛋品质的影响
+
+由表4可知，与对照相比，饲粮中添加 $1 . 0 \mathrm { m g / k g }$ 的酵母硒显著提高了第14天的蛋白高度 $_ { , P < 0 . 0 5 ) }$ ：饲粮中添加 $0 . 2 \mathrm { m g / k g }$ 的酵母硒显著增加了第14天的蛋壳颜色（ $\cdot P { < } 0 . 0 5$ ）；饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 的酵母硒极显著提高了第42天的蛋壳强度（ ${ \cdot } P { < } 0 . 0 5$ ），添加 $1 . 0 \mathrm { m g / k g }$ 的酵母硒显著提高了第 42天的蛋壳强度（ $\scriptstyle \cdot - P < 0 . 0 5$ ）；饲粮中添加0.6和 $\mathrm { 1 . 0 \ m g / k g }$ 的酵母硒显著增加了第42天的蛋壳厚度（ $\cdot P { < } 0 . 0 5$ ）。随着饲粮中酵母硒添加量的增加，蛋黄硒含量极显著提高（ $P { < } 0 . 0 1$ ）。
+
+Table 4Efects of selenium yeast supplementation on egg quality of laying hens at late laying period
+
+表4饲粮中添加酵母硒对产蛋后期蛋鸡蛋品质的影响  
+
+<html><body><table><tr><td rowspan="2">项目</td><td rowspan="2">时间 Time</td><td colspan="4">酵母硒添加量 Selenium yeast additive amount /(mg/kg)</td></tr><tr><td>0</td><td>0.2</td><td>0.6</td><td>1.0</td></tr><tr><td></td><td>第14天Day</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>14</td><td>4.54±1.01b</td><td>5.56±0.68ab</td><td>5.52±0.81ab</td><td></td></tr><tr><td>蛋白高度</td><td>第28天Day</td><td></td><td></td><td></td><td>5.80±0.24a</td></tr><tr><td>Albumen height/mm</td><td>28</td><td>5.78±1.33</td><td>5.36±1.16</td><td>5.43±1.16</td><td>4.98±0.58</td></tr><tr><td></td><td>第42天Day</td><td>5.55±0.81</td><td>5.34±0.84</td><td>5.88±1.18</td><td>5.56±1.24</td></tr><tr><td></td><td>42</td><td>4.80±1.70</td><td>4.50±0.80</td><td>5.20±1.20</td><td>4.70±2.00</td></tr><tr><td></td><td>第56天Day</td><td></td><td></td><td></td><td></td></tr><tr><td>哈氏单位</td><td>56</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第14天Day</td><td>58.72±11.40</td><td>68.36±6.07</td><td>70.00±8.19</td><td>69.74±3.91</td></tr><tr><td>Haugh unit</td><td>14</td><td>71.53±11.50</td><td>70.04±8.70</td><td>69.28±11.20</td><td>66.52±4.57</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>第28天Day 70.47±6.51</td><td>69.76±7.16</td><td>73.62±9.62</td><td></td><td>71.38±10.71</td></tr><tr><td></td><td>28</td><td>61.60±10.90</td><td>59.66±6.86</td><td>67.47±9.68</td><td>60.13±21.70</td></tr><tr><td></td><td>第42天Day</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>42</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第56天Day</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>56</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第14天Day</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>14</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第28天Day</td><td>1.31±0.04</td><td>1.32±0.06</td><td>1.34±0.02</td><td>1.33±0.03</td></tr><tr><td>蛋形指数</td><td>28</td><td>1.32±0.02</td><td>1.35±0.04</td><td>1.33±0.03</td><td>1.34±0.06</td></tr><tr><td>Egg shape index</td><td>第42天Day</td><td>1.35±0.06</td><td>1.36±0.05</td><td>1.35±0.03</td><td>1.35±0.05</td></tr><tr><td></td><td>42</td><td>1.33±0.08ab</td><td>1.33±0.04ab</td><td>1.27±0.03b</td><td>1.36±0.07a</td></tr><tr><td></td><td>第56天Day</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>56</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第14天Day</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>14</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第28天Day</td><td>4.83±0.41b</td><td>6.00±1.09a</td><td>4.67±0.51b</td><td>5.33±0.82ab</td></tr><tr><td>蛋黄颜色</td><td>28</td><td>6.00±1.41</td><td>5.60±1.34</td><td>4.83±1.17</td><td>5.83±1.33</td></tr><tr><td>Yolk color</td><td>第42天Day</td><td>6.00±1.41</td><td>5.6±1.34</td><td>6.17±1.33</td><td>6.33±1.51</td></tr><tr><td></td><td>42</td><td>5.66±1.15</td><td>6.16±1.33</td><td>6.80±2.17</td><td>6.00±1.15</td></tr><tr><td></td><td>第56天Day</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>56</td><td></td><td></td><td></td><td></td></tr><tr><td>第14天Day</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>14</td><td>2.92±0.37</td><td>3.13±0.59</td><td>2.97±0.16</td><td>2.93±.046</td></tr><tr><td>蛋壳强度</td><td>第28天Day</td><td>2.89±0.35</td><td>3.06±0.57</td><td>3.16±0.40</td><td>3.16±0.81</td></tr><tr><td>Eggshell strength/</td><td>28</td><td>2.28±0.74Bb</td><td>2.97±0.78ABab</td><td>3.58±0.79Aa</td><td>3.40±0.32ABa</td></tr><tr><td>kg/m²</td><td>第42天Day</td><td>2.43±0.77</td><td>2.77±0.86</td><td>2.97±0.77</td><td>3.16±0.86</td></tr></table></body></html>
+
+第56天Day
+
+<html><body><table><tr><td colspan="6">56</td></tr><tr><td colspan="6">第14天Day</td></tr><tr><td></td><td>14 第28天Day</td><td>0.36±0.02</td><td>0.37±0.04</td><td>0.37±0.02</td><td>0.37±0.03</td></tr><tr><td>蛋壳厚度</td><td>28</td><td>0.34±0/03</td><td>0.36±0,04</td><td>0.35±0.02</td><td>0.35±0.03</td></tr><tr><td>Eggshell thickness/mm</td><td>第42天Day</td><td>0.34±0.02b</td><td>0.36±0.03ab</td><td>0.38±0.02a</td><td>0.38±0.02a</td></tr><tr><td></td><td>42</td><td>0.37±0.03</td><td>0.35±0.05</td><td>0.38±0.03</td><td>0.38±0.02</td></tr><tr><td></td><td>第56天Day</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>56</td><td></td><td></td><td></td><td></td></tr><tr><td>蛋黄硒含量</td><td>第56天Day</td><td></td><td></td><td></td><td></td></tr><tr><td>Yolk selenium content/ (× 10² μg/g)</td><td>56</td><td>28.74±0.96A</td><td>36.66±1.62B</td><td>49.59±1.40C</td><td>60.08±1.40D</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $\mathrm { \Delta } P { < } 0 . 0 5$ ），不同大写字母表示差异极显著（ $\cdot P { < } 0 . 0 1$ ），无字母或相同字母表示差异不显著（ $\cdot \mathrm { \partial } P { > } 0 . 0 5$ ）。
+
+In the same row, values with different small letter superscripts mean significant difference( $\cdot P { < } 0 . 0 5 \dot { } ,$ ）,and with different capital letter superscripts mean extremely significant difference( $P { < } 0 . 0 1$ ）,while with no or the same letter superscripts mean no significant difference（ $P { > } 0 . 0 5 )$ ：
+
+2.3饲粮中添加酵母硒对产蛋后期蛋鸡抗氧化指标的影响
+
+由表5可知：与对照组相比，饲粮中添加 $0 . 2 ~ \mathrm { m g / k g }$ 的酵母硒极显著提高了血浆T-SOD 活性1 $_ { . { \cal P } < 0 . 0 1 }$ ），显著降低了血浆MDA含量（ $. P { < } 0 . 0 5$ ），而对血浆GSH $\mathbf { \cdot P x }$ 活性、T-AOC及肝脏GSH-Px活性无显著影响（ $\cdot P { > } 0 . 0 5$ ）；饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 的酵母硒极显著提高了血浆GSH $\mathbf { \cdot P x }$ 、T-SOD 活性和 T-AOC 及肝脏 GSH $\mathbf { \cdot P x }$ 活性 $( P { < } 0 . 0 1 )$ ），显著降低了血浆MDA 含量 $( P { < } 0 . 0 5 )$ ；饲粮中添加 $1 . 0 \mathrm { m g / k g }$ 的酵母硒极显著提高了血浆GSH-Px、T-SOD及肝脏GSH- $\mathbf { \cdot P x }$ 活性 $( P { < } 0 . 0 1$ ），显著提高了血浆T-AOC,并极显著降低了MDA 的含量（ $_ { \scriptstyle P < 0 . 0 1 }$ ）。
+
+表5饲粮中添加酵母硒对产蛋后期蛋鸡抗氧化指标的影响  
+Table 5Effects of selenium yeast supplementation on antioxidant indexes of laying hens at late laying   
+
+<html><body><table><tr><td colspan="5">period</td></tr><tr><td>酵母硒添加量</td><td colspan="4">血浆 肝脏谷胱甘肽过氧化</td></tr><tr><td>Selenium yeast</td><td></td><td>plasma</td><td></td><td>物酶</td></tr><tr><td>additive</td><td>谷胱甘肽过氧化物酶</td><td>总抗氧化能力</td><td>总超氧化物歧化酶</td><td>丙二醛</td><td>Liver GSH-Px/</td></tr><tr><td>amount/(mg/kg)</td><td>GSH-Px/(U/mL)</td><td>T-AOC/(U/mL)</td><td>T-SOD/(U/mL)</td><td>MDA/(nmol/mL)</td><td>(U/mL)</td></tr></table></body></html>
+
+<html><body><table><tr><td>0</td><td>79.62±1.94A</td><td>17.07±0.33Aa</td><td>117.66±1.55A</td><td>5.92±0.61Aa</td><td>9.67±0.47A</td></tr><tr><td>0.2</td><td>80.66±2.05A</td><td>17.42±0.36Aab</td><td>121.28±0.23B</td><td>3.73±1.42ABb</td><td>9.94±0.11A</td></tr><tr><td>0.6</td><td>97.49±2.00C</td><td>18.99±1.16Bb</td><td>156.21±1.84D</td><td>3.97±0.98ABb</td><td>16.33±0.48C</td></tr><tr><td>1.0</td><td>89.17±2.06B</td><td>18.21±1.03ABb</td><td>146.57±1.14C</td><td>2.89±0.90Bb</td><td>14.15±1.64B</td></tr></table></body></html>
+
+2.4饲粮中添加酵母硒对产蛋后期蛋鸡脂代谢指标的影响
+
+由表6可知，与对照组相比，饲粮中添加0.2、0.6 和 $1 . 0 \mathrm { m g / k g }$ 的酵母硒对血浆胆固醇和甘油三酯含量均无显著影响（ $P > 0 . 0 5$ ）；饲粮中添加 $1 . 0 ~ \mathrm { m g / k g }$ 的酵母硒极显著降低了肝脏甘油三酯含量（ $_ { . { \cal P } < 0 . 0 1 }$ ），显著降低了肝脏胆固醇含量（ $. P { < } 0 . 0 5$ ）；饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 的酵母硒显著降低了肝脏胆固醇含量（ $( P { < } 0 . 0 5 )$ ；饲粮中添加 $0 . 2 \mathrm { m g / k g }$ 的酵母硒对肝脏胆固醇和甘油三酯含量均无显著影响 $\cdot P >$ 0.05）；饲粮中添加0.6、 $1 . 0 \mathrm { m g / k g }$ 的酵母硒显著降低了蛋黄甘油三酯含量（ $\scriptstyle \cdot P < 0 . 0 5$ ），而对蛋黄胆固醇含量无显著影响（ $\scriptstyle P > 0 . 0 5 .$ ）。3个试验组间，0.6和 $\mathrm { 1 . 0 \ m g / k g }$ 组的肝脏胆固醇和蛋黄甘油三酯含量均显著低于 $0 . 2 \mathrm { m g / k g } ( P { < } 0 . 0 5 )$ ，且 $1 . 0 \mathrm { m g / k g }$ 组的甘油三酯含量还极显著低于0.2和 $0 . 6 \mathrm { m g / k g }$ 组 $( P { < } 0 . 0 1 )$ 。
+
+# 表6饲粮中添加酵母硒对产蛋后期蛋鸡脂代谢指标的影响
+
+Table 6Effects of selenium yeast supplementation on lipid metabolism indexes of laying hens at late laying period   
+
+<html><body><table><tr><td rowspan="3">酵母硒添加</td><td colspan="2">血浆</td><td colspan="2">肝脏</td><td colspan="2">蛋黄</td></tr><tr><td colspan="2">Plasma/（mmol/L） 胆固醇</td><td colspan="2">Liver/ (mg/g) 胆固醇</td><td colspan="2">Yolk/（mg/g)</td></tr><tr><td>TCHO</td><td>甘油三酯 TG</td><td>TCHO</td><td>甘油三酯 TG</td><td>胆固醇</td><td>甘油三酯</td></tr><tr><td>0</td><td>3.16±0.06</td><td>16.64±1.59</td><td>11.86±0.49a</td><td>26.74±0.55A</td><td>TCHO 13.37±0.57</td><td>TG 219.58±13.00a</td></tr><tr><td>0.2</td><td>3.02±0.18</td><td>16.96±2.83</td><td>11.63±0.57a</td><td>26.63±0.53A</td><td>13.44±0.50</td><td>217.31±15.69a</td></tr><tr><td>0.6</td><td>3.15±0.23</td><td>16.69±3.26</td><td>9.78±0.69b</td><td>26.01±0.46A</td><td>13.09±0.38</td><td>215.16±9.83b</td></tr><tr><td>1.0</td><td>3.01±0.14</td><td>17.32±3.20</td><td>9.99±0.59b</td><td>21.86±0.70B</td><td>13.03±0.49</td><td>213.21±5.70b</td></tr></table></body></html>
+
+2.5饲粮中添加酵母硒对产蛋后期蛋鸡肝脏抗氧化、脂代谢相关基因mRNA 相对表达量的影响由表7可知，与对照组相比，饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 的酵母硒极显著提高了肝脏GPx1、Trxrl、SREBP-1cmRNA的相对表达量（ $_ { \cdot \textcircled { P < 0 . 0 1 } }$ ），极显著降低了HMGCRmRNA的相对表达量（ $_ { . { P < 0 . 0 1 } }$ ），
+
+而对Cyp7almRNA的相对表达量无显著影响（ $P { > } 0 . 0 5 \$ ）。
+
+7饲粮中添加酵母硒对产蛋后期蛋鸡肝脏抗氧化、脂代谢相关基因mRNA相对表达量的影响 Table 7Effects of selenium yeast supplementation on mRNA relative expression levels of antioxidant and lipid metabolism related genes in liver of laying hens at late laying period   
+
+<html><body><table><tr><td>酵母硒添加量 Selenium yeast additive</td><td>谷胱甘肽 过氧化物酶1 GPx1</td><td>硫氧还蛋白还原 酶 Trxr1</td><td>胆固醇7α-羟化酶 Cyp7a1</td><td>胆固醇调节元件 结合蛋白 SREBP-1c</td><td>3-羟基-3-甲基 戊二酸单酰辅酶 A还原酶</td></tr><tr><td>amount/(mg/kg) 0</td><td>1.00±0.16A</td><td>1.00±0.16A</td><td>1.00±0.27</td><td>1.00±0.11A</td><td>HMGCR 1.00±0.09A</td></tr><tr><td>0.6</td><td>2.54±0.44B</td><td>3.18±0.51B</td><td>1.07±0.12</td><td>2.46±0.55B</td><td>0.70±0.04B</td></tr></table></body></html>
+
+# 2.6模型估测产蛋后期蛋鸡对酵母硒的需要量
+
+回归分析表明，蛋黄硒含量、血浆GSH-Px 活性、T-AOC、T-SOD 活性、MDA含量及肝脏GSH-Px活性均随酵母硒添加量的增加呈显著的二次曲线变化（表8）。就生产性能而言，酵母硒的适宜添加量为 $0 . 6 0 { \sim } 0 . 6 5 \mathrm { m g / k g }$ ；就蛋黄硒含量而言，酵母硒的适宜添加量为 $2 . 2 5 \mathrm { m g / k g }$ ；就血浆GSH $\mathbf { \cdot P x }$ 活性、T-AOC、T-SOD 活性及肝脏GSH-Px 活性而言，酵母硒的适宜添加量为 $0 . 6 7 { \sim } 0 . 7 7 \mathrm { m g / k g } \circ$ （20
+
+表8蛋鸡相关指标与酵母硒需要量的回归模型  
+Table 8Regresson model for related indexes of laying hens and selenium yeast requirement   
+
+<html><body><table><tr><td></td><td>回归模型</td><td>决定系数 Coefficient (R2)</td><td>P值 P-value</td><td>酵母硒添加量 Selenium yeast additive amount/(mg/kg)</td></tr><tr><td>Items C</td><td>Regression model y=0.046x+0.738</td><td>0.115</td><td>0.105</td><td></td></tr><tr><td rowspan="3">产蛋率Laying rate/%</td><td>y=-0.159x2+0.207x+0.721</td><td>0.214</td><td></td><td rowspan="3">0.65</td></tr><tr><td></td><td></td><td>0.08</td></tr><tr><td>y=0.404x+120.346</td><td>0.101</td><td>0.682</td></tr><tr><td rowspan="2">平均日采食量 ADFI/g 料蛋比 Feed/egg</td><td>y=-1.65x²+2.07x+120.18</td><td>0.225</td><td>0.881</td><td rowspan="2">0.63</td></tr><tr><td>y=-0.115x+2.622</td><td>0.341</td><td>0.416</td></tr><tr><td>蛋黄硒含量</td><td>y=0.59x2-0.70x+2.68</td><td>0.983</td><td>0.088</td><td>0.60</td></tr><tr><td>Yolk selenium content/ （× 10²</td><td>y=31.16x+29.745</td><td>0.994 0.999</td><td>0.003 0.009</td><td>2.25</td></tr><tr><td>ug/g）</td><td>y=-8.91x2+40.13x+28.83</td><td></td><td></td><td></td></tr><tr><td>血浆谷胱甘肽过氧化物酶 活性</td><td></td><td>0.477</td><td>0.309</td><td></td></tr><tr><td>Plasma GSH-Px activity/</td><td>y=13.005x+80.883 y=-38.48x²+51.74x+76.92</td><td>0.745</td><td>0.000</td><td>0.67</td></tr><tr><td>（U/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td>血浆总抗氧化能力</td><td>y=1.403x+17.291</td><td>0.527</td><td>0.274</td><td>0.67</td></tr></table></body></html>
+
+<html><body><table><tr><td>Plasma T-AOC/(U/mL)</td><td>y=-4.20x²+5.63x+16.86</td><td>0.476</td><td>0.015</td><td></td></tr><tr><td>血浆总超氧化物歧化酶活</td><td></td><td>0.683</td><td>0.174</td><td></td></tr><tr><td>性</td><td>y=35.217x+119.582</td><td>0.864</td><td>0.000</td><td>0.77</td></tr><tr><td>Plasma T-SOD activity/</td><td>y=-66.34x²+102.01x+112.75</td><td></td><td></td><td></td></tr><tr><td>(U/mL) 血浆丙二醛含量</td><td></td><td>0.685</td><td>0.172</td><td></td></tr><tr><td>Plasma MDA</td><td>y=-2.392x+5.204 y=2.57x²-4.98x+5.47</td><td>0.539</td><td>0.006</td><td>0.97</td></tr><tr><td>content/(nmol/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td>肝脏谷胱甘肽过氧化物酶</td><td>y=5.755x+9.933</td><td>0.612</td><td>0.218</td><td>0.74</td></tr><tr><td>活性 Liver GSH-Px</td><td>y=-12.13x2+17.97x+8.68</td><td>0.765</td><td>0.000</td><td></td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲粮中添加酵母硒对产蛋后期蛋鸡生产性能的影响
+
+有关硒对蛋鸡生产性能的研究结果各异。胡华锋等3研究发现，添加酵母硒和富硒苜蓿能显著提高罗曼蛋鸡的产蛋率，而添加亚硒酸钠对其产蛋率没有显著影响；Gjorgovska 等[15]研究表明，饲粮中添加酵母硒能改善蛋鸡的生产性能；Pavlovic 等[16]发现酵母硒可以使蛋鸡的产蛋量显著提高；而孙庆艳等[]和 Delezie 等[17]研究表明，添加不同的硒源和硒水平对蛋鸡的生产性能并无显著影响。本试验结果表明，饲粮中添加不同水平酵母硒后产蛋率均显著升高，料蛋比均显著降低，与Gjorgovska 等「16」选用80周龄蛋鸡所得结果一致，说明添加酵母硒可改善产蛋后期蛋鸡机体的硒代谢，影响促性腺激素释放，提高产蛋率。
+
+# 3.2饲粮中添加酵母硒对产蛋后期蛋鸡蛋品质的影响
+
+蛋品质主要通过蛋壳厚度、蛋壳强度、蛋形指数、蛋白高度、哈氏单位和蛋黄颜色等指标来综合判断。蛋壳强度和蛋壳厚度直接影响鸡蛋的破损率，哈氏单位直接反映鸡蛋新鲜程度及蛋白品质。
+
+研究表明，饲粮中添加酵母硒对蛋壳厚度的影响不显著[18]；夏季在饲粮中添加酵母硒，蛋壳厚度、蛋白高度和哈氏单位均显著提高[19]；添加酵母硒可提高蛋壳重与蛋壳强度[20]。而 Pavlovic 等[16]研究表明，饲粮中添加酵母硒对蛋壳品质、蛋壳厚度、蛋壳强度和蛋形指数均无显著影响。本试验结果显示，饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 的酵母硒可显著提高6周末的蛋壳强度和蛋壳厚度，与Invermizzi等[20]所得结果一致。其原因可能是蛋鸡采食酵母硒后体内硒易沉积于蛋壳膜和蛋壳中，具体机理有待进一步研究。
+
+3.3饲粮中添加酵母硒对产蛋后期蛋鸡蛋黄硒、胆固醇和甘油三酯含量的影响
+
+Han 等[12]研究发现，与对照组相比，补硒显著提高了蛋中硒的含量。Bennett 等[21]也发现，在饲粮硒添加量在一定范围内时，蛋硒含量会随硒添加量的增加而增加，其中有机硒效果优于无机硒。Paton[22]得出饲粮硒含量与蛋硒含量基本呈正相关。本试验中蛋黄硒含量随饲粮中酵母硒添加量的增加而增加，所得结果与Paton[22]的研究结果相符。
+
+关于酵母硒对蛋黄胆固醇和甘油三酯含量影响的研究较少。本试验中，饲粮中添加酵母硒有降低蛋黄胆固醇含量的趋势，但效果不显著；饲粮中添加0.6、 $1 . 0 \mathrm { m g / k g }$ 的酵母硒可显著降低蛋黄甘油三酯含量，这与李静等[23]的研究结果不符。李静等[23]研究发现，饲粮中添加酵母硒能降低蛋鸡蛋黄中胆固醇含量，其主要原因可能是升高了蛋鸡血清高密度脂蛋白胆固醇（HDL-C）含量，降低了极低密度脂蛋白胆固醇（VLDL-C）含量所致，具体机制有待进一步研究。
+
+3.4饲粮中添加酵母硒对产蛋后期蛋鸡抗氧化及其相关基因表达的影响
+
+GSH-Px 和 T-SOD 作为机体抗氧化体系的重要酶，在抗氧化过程中发挥重要作用。其中GSH- $\mathbf { \cdot P x }$ 的活性中心为硒代半胱氨酸，由4个含硒代半胱氨酸亚基组成，所以机体硒水平直接反映GSH-Px 活性。研究表明，饲粮中添加硒可显著提高母鸡血清GSH-Px 活性[12]；饲粮中添加 $0 . 3 ~ \mathrm { m g / k g }$ 酵母硒可显著提高肉鹅血清中GSH- $\mathbf { \cdot P x }$ 和 T-SOD 活性，同时 MDA 含量显著降低[24]；在饲粮中添加利用啤酒废酵母制备得到的酵母硒，肉鸡肝脏GSH- $\mathbf { \cdot P x }$ 活性可随酵母硒添加量的增加而升高[25]。本试验发现，饲粮中添加适量的酵母硒可显著或极显著提高蛋鸡血浆GSH-Px、SOD 活性，T-AOC 与肝脏 GSH-Px 活性，并显著或极显著降低血浆MDA 含量，与上述研究结论相符，且随着酵母硒添加量的增加高抗氧化性能呈先上升后下降的趋势，以添加 $0 . 6 \mathrm { m g / k g }$ 酵母硒时血浆GSH-Px、T-SOD 活性,T-AOC 和肝脏GSH-Px活性达到峰值。虽然在添加 $1 . 0 \mathrm { m g / k g }$ 酵母硒时较添加 $0 . 6 \mathrm { m g / k g }$ 酵母硒时抗氧化性能整体有所降低，但与对照组相比， $1 . 0 \mathrm { m g / k g }$ 组上述指标仍显著或极显著高于对照组，说明酵母硒添加量在 $1 . 0 \mathrm { m g / k g }$ 范围内均可提高机体抗氧化性能，但以添加 $0 . 6 \mathrm { m g / k g }$ 酵母硒时最好。
+
+现已发现，在GSH $\mathbf { \cdot P x }$ 中， $\mathbf { G P x - 1 }$ 在肝脏中活性最高，是细胞中含量最丰富的硒蛋白；Trxr1也是衡量机体抗氧化功能的重要指标之一，其活性也主要受机体硒含量的影响，但饲粮中添加硒源及硒水平对 $G P x 1$ 和 Trxr1表达量的影响说法不一。为了进一步探讨酵母硒抗氧化的分子机制，本试验测定了饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 酵母硒对蛋鸡肝脏 $G P x 1$ 和 TrxrlmRNA 相对表达量的影响，结果发现饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 可极显著提高蛋鸡肝脏 $G P x 1$ 和Trxr1mRNA的相对表达量。高建忠[26]在仔猪饲粮中添加亚硒酸钠和富硒益生菌后发现，二者对仔猪肝脏GPx1mRNA 相对表达量的影响不显著；缺硒可造成大鼠肝脏 $G P x 1$ mRNA相对表达量降低，补硒可提高大鼠肝脏 $G P x 1$ mRNA 相对表达量[27]。Lu 等[28]的研究表明，随着机体硒含量的升高，Trxrl和Trxr2蛋白表达量增加，缺硒使大鼠肝脏TrxrlmRNA表达量下降为正常大鼠的 $1 5 \%$ ，而 $G S H  – P x$ mRNA表达量仅下降了正常大鼠的 $2 \%$ ，而本试验在正常饲粮中添加 $0 . 6 \mathrm { m g / k g }$ 酵母硒，蛋鸡肝脏TrxrlmRNA相对表达量的提高幅度也高于GPx1mRNA,说明 TrxrlmRNA 受硒状态调节幅度高于GPx1mRNA[29]。
+
+# 3.4饲粮中添加酵母硒对产蛋后期蛋鸡脂代谢的影响
+
+肝脏是合成蛋鸡体内胆固醇的主要器官，当体内胆固醇含量较高时，SREBP-1c可促进脂肪酸生成并与胆固醇合成胆固醇酯，从而消耗胆固醇[30]，而 HMGCR 是胆固醇合成过程中的限速酶[31-33]。
+
+关于硒对蛋鸡血液、肝脏胆固醇和甘油三酯含量影响的研究很少，赵玉鑫[12]研究表明，饲粮中添加亚硒酸钠后蛋鸡血清胆固醇和甘油三酯含量与对照组相比差异不显著，但有降低趋势。李静等[23]研究发现，饲粮中添加 $0 . 5 ~ \mathrm { { m g / k g } }$ 富硒酵母对蛋鸡血清胆固醇和甘油三酯含量的影响不显著。王泽明[14]也指出，饲粮中添加不同硒源对蛋鸡血浆胆固醇和甘油三酯含量无显著影响。本试验结果表明，饲粮中添加酵母硒对蛋鸡血浆胆固醇和甘油三酯含量无显著影响，与上述研究结果一致。但饲粮中添加0.6和 $1 . 0 \mathrm { m g / k g }$ 酵母硒可显著降低蛋鸡肝脏胆固醇含量，添加 $1 . 0 \mathrm { m g / k g }$ 酵母硒可极显著降低蛋鸡肝脏甘油三酯含量，添加 $0 . 6 \mathrm { m g / k g }$ 酵母硒可极显著提高肝脏 SREBP-1cmRNA相对表达量，极显著降低蛋鸡肝脏 HMGCRmRNA 相对表达量，这与肝脏胆固醇和甘油三酯含量减少的结果相吻合，可见酵母硒可通过影响SREBP-1c和HMGCRmRNA的表达来影响机体脂代谢。
+
+# 4结论
+
+饲粮中添加酵母硒可提高产蛋后期蛋鸡的生产性能、蛋壳强度、蛋黄硒含量，改善机体抗氧化性能和胆固醇代谢能力。通过回归分析得出，以饲粮（含 $0 . 2 0 \mathrm { m g / k g }$ 亚硒酸钠形式的硒）中添加 $0 . 6 0 \sim$ $0 . 7 7 \mathrm { m g / k g }$ 酵母硒的效果较好。
+
+# 参考文献:
+
+[1] TASHJIAN D H,HUNG S S O.Selenium absorption,distribution,and excretion in white sturgeonorally dosed with L-selenomethionine[J].Environmental Toxicology andChemistry,2006,25(10):2618-2622.  
+[2] 潘翠玲.有机硒源在蛋鸡生产中的应用及其机理研究[D].博士学位论文.南京:南京农业大学,2008.  
+[3] 胡华锋,黄炎坤,介晓磊,等.3种硒源对蛋鸡生产性能、蛋硒含量及转化率的影响[J].动物营养学报2013,25(7):1603-1609.
+
+WANG Y X,ZHAN X A,YUAN D,et al.Influence of dietary selenomethionine supplementation on
+
+performance and selenium status of broiler breeders and their subsequent progeny[J].Biological Trace Element Research,2011,143(3):1497-1507.   
+[5] YUAN D,ZHAN X A,WANG Y X.Effects of selenium sources and levels on reproductive performance and selenium retention in broiler breeder,egg,developing embryo,and 1-day-old chick[J].Biological Trace Element Research,2011,144(1/2/3):705-714.   
+[6] CHEN G,WU J,LI C.Effect of different selenium sources on production performance and biochemical parameters of broilers[J].Animal Physiology and Animal Nutrition,2013,98(4):747-754.   
+[7] PILARCZYK B,JANKOWIAK D,TOMZA-MARCINIAK A,et al.Selenium concentration and glutathioneperoxidase(GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ ）activity in serum of cowsat different stagesof lactation[J].Biological Trace Element Research,2012,147(1/2/3):91-96.   
+[8] ANUT C,ORAWAN C,PIYANETE C.Effect of sodium selenite and Zinc-L-selenomethionine on performance and selenium concentrations in eggs of laying hens[J].Asian-Australasian Journal of Animal Science,2008,21(7):1048-1052.   
+[9] ATTIA Y A,ABDALAH A A,ZEWEIL H S,et al.Effect of inorganic or organic selenium supplementation on productive performance,egg quality and some physiological traitsof dual-purpose breeding hens[J].Czech Journal of Animal Science,2010,55(11):505-519.   
+[10] SHI L G,XUN W J,YUE W B,et al.Effect of sodium selenite,Se-yeast and nano-elemental selenium on growth performance,Se concentration and antioxidant status in growing male hens[J].Small Ruminant Research,2011,96(1):49-52.   
+[11] 孙庆艳,武书庚,张海军,等.饲粮中添加不同硒源对产蛋鸡生产性能和抗氧化能力的影响[J].动 物营养学报,2016,28(4):1177-1185.   
+[12] HAN X J,QIN P,LI W X,et al.Effect of sodium selenite and selenium yeast on performance,egg quality,antioxidantcapacity,and selenium depositionoflayinghens[J].Poultry Science,2017,96(11):3973-3980.   
+[13] 赵玉鑫“富硒益生菌"在蛋鸡生产中的应用研究[D].硕士学位论文.南京:南京农业大学,2007.   
+[14] 王泽明.不同硒源对蛋鸡生产性能、蛋品质及血液生化指标的影响[D].硕士学位论文.北京:中 国农业科学院,2013.   
+[15] GJORGOVSKA N,KIRIL F,VESNA L,et al.The effect of diferent levels of selenium in feed on egg production,egg quality and selenium content in yolk[J].LucrriStiintifice-Universitatea de StiinteAgricolesiMedicinVeterinar,SeriaZootehine,2012,57:270-274.   
+[16] PAVLOVIC Z,MILETIC I,JOKIC Z,et al.The effect of dietary selenium source and level on hen production and egg selenium concentration[J].Biological Trace Element Research,2009,131(3):263-270.   
+[17] DELEZIE E,ROVERS M,VAN DER AA A,et al.Comparing responses to different selenium sources and dosages in laying hens[J].Poultry Science,2014,93(12):3083-3090.   
+[18] ARPASOVA H,HASCIK P,HANOVA M,et al.Effect of dietary sodium selenite and se-enriched yeast on egg-shell qualitative parameters of laying hens eggs[J].Journal of Central European Agriculture,2010,11(1):99-104.   
+[19] 郭云霞,黄仁录,郝庆红,等.夏季日粮中添加酵母硒对柴鸡生产性能及蛋中硒沉积的影响[J]河 北农业大学学报,2006,29(2):96-99.   
+[20] INVERNIZZI G,AGAZZI A,FERRONI M,et al.Effects of inclusion of selenium-enriched yeast in the diet of laying hens on performance,eggshell qualityand selenium tissue deposition[J].Italian Journal of Animal Science,2013,12(1):el.   
+[21] BENNETTDC,CHENGKM.Seleniumenrichmentoftableeggs[J].Poultry Science ,2010,89(10):2166-2182.   
+[22] PATON N D.Organic selenium in the nutrition of laying hens:effects on egg selenium content,egg quality andtransfertodevelopingchickembryo[D].Ph.D.Thesis.Kentucky:Universityof Kentucky,2001.   
+[23] 李静,井婧,李绍钰,等.硒和铬对蛋鸡脂质代谢及鸡蛋硒含量的影响[J].动物营养学 报,2009,21(4):540-545.   
+[24] 王娜,王宝维,孙鹏,等.不同硒源对肉鹅免疫与抗氧化功能的影响[J].吉林农业大学学 报,2010,32(4):428-432,452.   
+[25] 李锋，陈敏，梁新乐.酵母硒对肉鸡免疫器官及组织GSH $\mathbf { \cdot P x }$ 活力的影响[J].安徽农业科 学,2010(4):200-202.   
+[26] 高建忠.不同硒源对仔猪和羔羊免疫功能和抗氧化能力的影响及机理研究[D].硕士学位论文. 南京:南京农业大学,2005.   
+[27] SHERRI W S,ACHDEV R A.Selenium regulation of transcript abundance and translational efficiency of glutathione peroxidase-1 and -4 in rat liver[J].Biochemical Journal,20o1,357:851-858.   
+[28] LU J,HOLMGREN A.Selenoproteins[J].Journal of Biological Chemistry,2009,284(2):723-727.   
+[29] HADLEY K B,SUNDE R A.Selenium regulation of thioredoxin reductase activity and mRNA levels in rat liver[J].The Journal of Nutritional Biochemistry,2002,12(12):693-702.   
+[30] 魏宁波,刘红云,汪海峰,等.固醇调控元件结合蛋白在胆固醇代谢中作用机制的研究进展[J].中
+
+国畜牧杂志,2013,49(5):80-84.
+
+[31] STORMO C,KRINGEN M K,GRIMHOLT R M,et al.A novel 3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMGCR) splice variant with an alternative exon 1 potentially encoding an extended N-terminus[J].BMC Molecular Biology,2012,13:29.
+
+[32] BJARNADOTTIR O,ROMERO Q,BENDAHL P O,et al.Targeting HMG-CoA reductase with statinsinawindow-of-opportunitybreastcancertrial[J].BreastCancerResearch& Treatment,2013,138(2):449-508.
+
+[33] YEGANEH B,WIECHEC E,ANDE S R,et al.Targeting the mevalonate cascade as a new therapeuticapproachin heart disease,cancerand pulmonarydisease[J].Pharmacology& Therapeutics,2014,143(1):87-110.
+
+Effects of Selenium Yeast Supplementation on Performance, Egg Quality, Antioxidant and Lipid Metabolism and Their Related Gene Expression of Laying Hens at Late Laying Period
+
+YANG Yu SUN Yu SUN BaoshengZHU Qian ZHANG Junzhen GAO Pengfei (Collge of Animal Science and Technology, Shanxi Agricultural University, Taigu O30801, China)
+
+Abstract: This experiment was to investigate the effects of selenium yeast supplementation on performance, egg quality,antioxidant and lipid metabolism and their related gene expression of laying hens at late laying period.Three hundred and twenty-four healthy Hyline brown hens at 69 weeks of age were randomly divided into 4 groups with 6 replicates per group and 18 hens per replicate.The hens in control group were fed with a basal diet containing $0 . 2 ~ \mathrm { m g / k g }$ sodium selenite (as selenium). The others in experimental groups were fed the basal diet added with O.2, O.6 and $1 . 0 ~ \mathrm { m g / k g }$ selenium yeast (as selenium). The preliminary experiment was lasted for 2 weeks and the formal experiment lasted for 8 weeks.The results showed as follows: 1) compared with the control group,diet added with O.2, 0.6 and $1 . 0 ~ \mathrm { m g / k g }$ selenium yeast significantly increased the laying rate and significantly reduced the feed/egg （20 $( P { < } 0 . 0 5 )$ ; diet added with $0 . 2 ~ \mathrm { m g / k g }$ selenium yeast significantly increased the average daily feed intake （2 $( P { < } 0 . 0 5 )$ . Moreover, the feed/egg in 0.6 and $1 . 0 ~ \mathrm { m g / k g }$ groups was significantly lower than that in 0.2 $\mathrm { m g / k g }$ group $( P { < } 0 . 0 5 )$ . 2) Compared with the control group, diet added with $0 . 2 ~ \mathrm { m g / k g }$ selenium yeast significantly increased the yolk color at day 14 $( P { < } 0 . 0 5 )$ ； diet added with $0 . 6 ~ \mathrm { m g / k g }$ selenium yeast extremely significantly increased the eggshel strength at day 42 $( P { < } 0 . 0 1 )$ ), and significantly increased the eggshell thickness at day 42 $( P { < } 0 . 0 5 )$ ; diet added with $0 . 6 ~ \mathrm { m g / k g }$ selenium yeast significantly increased the albumen height at day 14 and the eggshell strength and eggshell thickness at day 42 ( $( P { < } 0 . 0 5 )$ .With the selenium yeast additive amount increasing， the yolk selenium content extremely significantly increased $( P { < } 0 . 0 1 )$ . 3） Compared with the control group, diet added with $0 . 2 ~ \mathrm { m g / k g }$ selenium yeast extremely significantly increased the plasma total superoxide dismutase (T-SOD) activity $( P { \ < } 0 . 0 1 )$ ，and significantly decreased the plasma malondialdehyde (MDA) content $( P { < } 0 . 0 5 )$ ; diet added with $0 . 6 \mathrm { m g / k g }$ （20 extremely significantly increased the plasma glutathion peroxidase (GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ ） and T-SOD activities, total antioxidant capacity (T-AOC） and liver GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ activity $( P { < } 0 . 0 1 )$ ，and significantly decreased the plasma malondialdehyde (MDA） content $( P { < } 0 . 0 5 )$ ; diet added with $1 . 0 ~ \mathrm { m g / k g }$ extremely significantly increased the plasma GSH- $\mathbf { \cdot P x }$ and T-SOD and liver GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ activities $( P { < } 0 . 0 1 )$ ， significantly increased the plasma T-AOC $( P { < } 0 . 0 5 )$ , and significantly decreased the plasma malondialdehyde (MDA) content （20 $( P { < } 0 . 0 1 )$ . 4) Compared with the control group, diet added with 0.6 and $1 . 0 \ \mathrm { m g / k g }$ selenium yeast significantly decreased the liver cholesterol and yolk triglyceride contents $( P { < } 0 . 0 5 )$ ; diet added with 1.0 $\mathrm { m g / k g }$ selenium yeast extremely significantly decreased the liver triglyceride content $( P { < } 0 . 0 1 )$ ). The liver cholesterol and yolk triglyceride contents in 0.6 and $1 . 0 ~ \mathrm { m g / k g }$ groups were significantly lower than those in $0 . 2 ~ \mathrm { { m g / k g } }$ group $( P { < } 0 . 0 5 )$ . 5）Compared with the control group,diet added with $0 . 6 ~ \mathrm { m g / k g }$ （20 selenium yeast extremely significantly increased the mRNA relative expresson levels of glutathion peroxidase 1 $( G P x 1 )$ , thioredoxin reductase 1 （Trxrl） and sterol regulatory element-binding protein-1c (SREBP $1 c$ ） inliver $( P { < } 0 . 0 1 )$ ，andextremelysignificantlydecreased theliver 3-hydroxy-3-methylglutaryl coenzyme A reductase（HMGCR ）mRNA relative expression level $( P { < } 0 . 0 1 )$ ，while had no significant difference in liver cholesterol $7 a$ -hydroxylase（Cyp7al）mRNA relative expression level $( P { > } 0 . 0 5 )$ . It can be concluded that selenium yeast supplementation can increase the performance, eggshell strength and yolk selenium content, and improve the antioxidant ability and cholesterol metabolism capacity. By the analysis of regression, the better effects are found when added 0.60 to $0 . 7 7 \mathrm { m g / k g }$ selenium yeast into the diet based on $0 . 2 \mathrm { m g / k g }$ sodium selenite（as selenium）. Key words: selenium yeast; laying hens at late laying period; egg quality; antioxidant; lipid metabolism

@@ -1,0 +1,479 @@
+[
+    {
+        "type": "text",
+        "text": "Phospho-selective mechanisms of arrestin conformations and functions revealed by unnatural amino acid incorporation and 19F-NMR ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fan Yang1,2.3, Xiao $\\mathsf { Y u } ^ { 2 , 3 }$ ,Chuan Liu², Chang-Xiu ${ \\mathsf { Q } } { \\mathsf { u } } ^ { 2 } .$ , Zheng Gong2, Hong-Da Liu2,Fa-Hui Li1, Hong-Mei Wang3， Dong-Fang ${ \\mathsf { H e } } ^ { 2 , 3 }$ Fan $\\mathsf { Y i } ^ { 4 } ,$ Chen Song5, Chang-Lin Tian6, Kun-Hong Xiao7,8, Jiang-Yun Wang1 & Jin-Peng Sun2.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Specific arrestin conformations are coupled to distinct downstream effectors,which underlie the functions of many $\\mathsf { G }$ -protein-coupled receptors (GPCRs). Here,using unnatural amino acid incorporation and fluorine-19 nuclear magnetic resonance ( $^ { \\cdot 1 9 } \\mathsf { F }$ -NMR） spectroscopy， we demonstrate that distinct receptor phospho-barcodes are translated to specific $\\beta$ -arrestin-1 conformations and direct selective signaling.With its phosphate-binding concave surface, $\\beta$ -arrestin-1'reads'the message in the receptor phospho-C-tails and distinct phosphointeraction patterns are revealed by $^ { 1 9 } \\mathsf { F }$ -NMR.Whereas all functional phosphopeptides interact with a common phosphate binding site and induce the movements of finger and middle loops，different phospho-interaction patterns induce distinct structural states of $\\beta$ -arrestin-1 that are coupled to distinct arrestin functions.Only clathrin recognizes and stabilizes GRK2-specific $\\beta$ -arrestin-1 conformations. The identified receptor-phosphoselective mechanism for arrestin conformation and the spacing of the multiple phosphatebinding sites in the arrestin enable arrestin to recognize plethora phosphorylation states of numerous GPCRs,contributing to the functional diversity of receptors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "G -protein-coupled receptors (GPCRs) convert extracellular stimuli to intracellular signalling cascades primarily through G proteins or arrestin-mediated pathways1-4. G proteins transduce signals by regulating the levels of second messengers, whereasarrestinsrecruit distinct downstream proteins to either desensitize receptors or initiate their own signalling pathways5-10.Recently，significantconformational changes in arrestin have been observed following specifc phosphopeptide binding or the formation of a receptor/arrestin complex.For example, the crystal structure of the V2-vasopressin receptor carboxy-terminal-phosphopeptide (V2R-phosphopeptide $( \\mathrm { V } 2 \\bar { \\mathrm { R p p } } ) / \\beta$ -arrestin-1 complex revealed that the binding of $\\mathrm { V } 2 \\mathrm { R p p }$ induced the rotation of the amino domain of $\\beta$ -arrestin-1 with respect to its C-terminal domainl1.In another study,data obtained by electron microscopy (EM) and hydrogen-deuterium exchange mass spectrometry studies revealed increased dynamics in both the $\\mathrm { N } .$ and C-terminal domains of $\\beta$ -arrestin-1after $\\beta 2$ -adrenergic receptor $( \\beta 2 \\mathrm { A R } ) / \\beta$ -arrestin-1 complex formation2. These results suggest that the structural plasticity of $\\beta$ -arrestins underlies their important cellular functions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Arrestinsaremulti-functionalproteins7,l2.Previous studies have indicated that two distinct features of these proteins—ligand-induced receptor conformation and receptor phosphorylation barcodes—contribute to the specific arrestin conformations thatdictateselected arrestin functions5,13. Questions regarding these elements are core issues in the study of signal transduction by GPCRs,in particular given the plethora of phosphorylation_states and receptor conformations of numerous receptors,14-17.However, the precise mechanism bywhich arrestin conformation is determined based on either a ligand-induced receptor-specific conformation or a selective phospho-barcode remains uncertain.Moreover,various receptors have no defined phosphorylation sequence information that correlates with their distinct arrestin-mediated functions, despite the existence of a myriad of evidence supporting the essential roles of phosphorylation and of negatively charged residues in the cytoplasmic regions of receptors in arrestinmediated receptor endocytosis and other functions14,16-18. These findings raise the question of whether specific phospho-barcodes exist to direct barcode-selective arrestin functions.If such barcodes exist, then the method by which they are decoded by arrestins and translated into particular arrestin conformations remains unknown.The structural heterogeneity and flexibility of active arrestins have hampered the characterization of arrestin conformations by crystallography or EM,and all active arrestin conformations determined to date have been obtained by stabilizing arrestin complexes with conformationally selective antibodies2,11. Therefore,it is desirable to develop alternative approaches to detect conformational changes in arrestins and decipher the phospho-selective mechanisms underlying distinct arrestin functions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently,site-directed fluorine-19 nuclear magnetic resonance 0 $^ { 1 9 } \\mathrm { F }$ -NMR) spectroscopy has been used as a powerful approach for characterizing the dynamic conformational changes of large signalling protein complexes or membrane proteins1.In addition, we have developed an efficient method for incorporating the unnatural amino acid 3,5-difluorotyrosine (F2Y) into proteins by expanding the genetic code of Escherichia $c o l i ^ { 1 9 , 2 0 }$ . In the present study，by using this method to incorporate F2Y at specific locations in $\\beta$ -arrestin-1,we demonstrated that $\\beta$ -arrestin-1 reads receptor phospho-C-tail messages with its phosphate-binding concave surface,which harbours atleast ten potential phosphatebinding sites (numbered 1-7 according to the binding mode of V2Rpp to $\\beta$ -arrestin-1 in the complex structure of $\\mathrm { V } 2 \\mathrm { R p p } /$ $\\beta$ -arrestin-1,with A1-A3 indicating additional phosphatebinding sites).Although all functional phosphopeptides interact withphosphate-binding site1of $\\beta$ -arrestin-1， different GRK-phosphopeptides(GRKpps）interact with $\\beta$ -arrestin-1 through distinct phospho-interaction patterns that are coupled to selective cellular functions.Whereas GRK2-phosphopeptides (GRK2pps） interact with $\\beta$ -arrestin-1 within a phospho-binding sequence of the 1-4-6-7 pattern and promote clathrin recruitment， the GRK6-phosphopeptide (GRK6pp） interacts with $\\beta$ -arrestin-1 through a different 1-5 sequence and provides the SRC signalling order. Moreover, $^ { 1 9 } \\mathrm { F }$ -NMR spectra provide direct biophysical evidence for the presence of at least three unique active $\\beta$ -arrestin-1 structural states corresponding to different phospho-binding patternsand only one of these structural states is recognized by clathrin.In cells,the mutation ofkey residues in specific phosphate-binding sites selectively abolished different $\\beta$ -arrestin-1 functions downstream of several receptors,suggesting that the identified phospho-pattern-selective mechanism of $\\beta$ -arrestin-1 conformation and function might be common to at least a subset of GPCR family members.Our results provide mechanistic insight into how the structural plasticity of $\\beta$ -arrestin-1 enables its recognition of specific phospho-patterns and translates these phospho-messages into distinct structural rearrangements and functional outcomes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The development of ${ } ^ { 1 9 } \\mathbf { F }$ -NMR probes of $\\mathfrak { \\textbf { \\beta } }$ -arrestin-1. The seven phosphate-binding sites revealed from the crystal structure of the $\\bar { \\mathrm { V } } 2 \\mathrm { R p p } / \\beta$ -arrestin-1 complexallowed the identification of at least 127 potential phosphate-interacting patterns. It is useful to develop phosphate-binding sensors to reveal how $\\beta$ -arrestins finetune the phospho-pattern from a large number of receptors11. Accordingly，we selected eight positions that covered all phosphate-binding sites in the crystal structure of the $\\mathrm { V } 2 \\mathrm { R p p } /$ $\\bar { \\boldsymbol { \\beta } }$ -arrestin-1 complex at which to incorporate F2Y (Fig. la-c and Supplementary Figs 1-4). The $^ { 1 9 } \\mathrm { F }$ -NMR spectra revealed two types of conformational states after $\\mathrm { \\Delta V 2 R p p }$ binding:a slow exchange state (Y21） and a fast exchange state (Y63 and all other F2Y-incorporated positions) (Fig. 2a,b and Supplementary Tables 1-4). Paramagnetic titration experiments suggested that V2Rpp binding induced a structural state with greater solvent accessibility at the Y21 position (Supplementary Fig. 5). The phosphopeptide concentration dependence of the chemical shift of F2Y-Y63 and the increased area of the upfield shift peak of Y21-F2Y are consistent with concentration-dependent clathrin recruitment in the glutathione S-transferase (GST) binding assay, indicating the existence of a good structure-function relationship (Supplementary Fig. 6 and Supplementary Table 3).In particular, all F2Y positions that directly interacted with phosphate displayed an upfield shift after $\\mathrm { \\Delta V 2 R p p }$ binding (Fig. 2a and Supplementary Tables 1 and 2).By contrast,the binding of V2Rpp to V8-F2Y,which localizes to the $\\beta$ -strandIofarrestin and forms hydrophobic interactions with L365 of the $\\mathrm { \\Delta V 2 R p p }$ displayed a downfield shift in the $^ { 1 9 } \\mathrm { F }$ -NMR spectra (Fig. 2a). In addition, the binding of V2R5p to $\\beta$ -arrestin-1 caused an upfield shift of the $^ { 1 9 } \\mathrm { F }$ -NMR spectra at K107-F2Y but not at Y63-F2Y (Fig.2c and Supplementary Table 2).Therefore, these F2Y probes may serve as phospho-pattern detectors to monitor the increasing negative charges after the binding of phosphorylated receptor or nucleic acid molecules21,22. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To study phosphopeptide-induced arrestin conformational changes,we next chose residues for F2Y incorporation that do not directly interact with $\\mathrm { \\Delta V 2 R p p }$ (Fig. $^ { 1 \\mathrm { b } , \\mathrm { c } }$ and Supplementary Figs 7 and 8).Active crystal structures of the $\\mathrm { V } 2 \\mathrm { R p p } / \\beta$ -arrestin-1 complex and a rod-arrestin splicing variant,p44,were compared with their inactive structural partners,and the results revealed a common pattern of diferences11,23(Fig.2d).Inadditionto selecting residues that might exhibit broad conformational changes after activation,we attempted to study positions that are naturally occupied by $\\mathrm { Y }$ or $\\mathrm { ~ F ~ }$ to minimize the effects of mutation.All of the substitutions were tested using cellular and in vitro analyses to ensure that arrestin functions were not affected (Supplementary Figs 4 and 9-12). The $^ { 1 9 } \\mathrm { F }$ -NMR spectra of $\\beta$ -arrestin-1 alone at the Y209-F2Y position revealed a state of slow exchange between two peaks; these peaks were reduced to a single peak after V2Rpp binding (Fig. 2e).Furthermore,the amplitude of the $^ { 1 9 } \\mathrm { F }$ -NMR chemical shifts induced by V2Rpp binding at the F2Y-incorporated sites increased in the order F277, Y209,Y249, F75 and T136,and these increases were proportional to the increased root mean square deviation differences between the crystal structures of the $\\beta$ -arrestin-1/V2Rpp complex and $\\beta$ -arrestin-1 alone at the corresponding positions (Fig. 2e,f and Supplementary Tables 1 and 3).Although the chemical shift and root mean square deviation are different variables,both increased together,reflecting a substantial structural rearrangement at these positions following arrestin activation.Therefore, the insertion of F2Y at these positions can be used as a $^ { 1 9 } \\mathrm { F }$ -NMR probe to detect dynamic arrestin conformational changes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc59ec9202a4580756179b5bd37800d1700823e19e343a2ce35e9d8babd2b3e5.jpg",
+        "img_caption": [
+            "Figure 1| The development of $1 9 F$ -NMR probes via the incorporation of F2Y at specific positions of $\\mathfrak { \\textbf { \\beta } }$ -arrestin-1. (a) Schematic flowchart of the incorporation of F2Y into $\\beta$ -arrestin-1.Forexample,the $\\beta$ -arrestin-1-Y63-F2Y protein was acquired by co-transfection of $\\beta$ -arrestin-1 mutant plasmid and thepEVOL-F2mddgsecithdsjahtmbrsorsertsseutasi F2Yintheculturemedum.Tepurityoftheprotenwaseterindbyelectroporesis(idlepael)Tepurifdproteinassubjectedtotrysin digestion and analysed by MS/MS spectroscopy,which indicates the presence of the F2Y-G-R fragment, MW 413, ${ \\mathsf { b } } _ { 3 } ^ { + 1 }$ ,F2Y-G-R-E-D,MW 657 and ${ \\mathsf { b } } _ { 5 } ^ { + 1 }$ 1 for example.These results confirmed that F2Y was incorporated into $\\beta$ -arrestin-1at Y63. $m / z ,$ mass/charge ratio.(b) Frontal view of the F2Y incorporation sites in the inactive $\\beta$ -arrestin-rystaucture(BGelow).F2copoationitessosp-teractionprobes(R7K1,16,0 K138,R165ad4atictlteactitreoidFinoo36inedeo7iha between $\\beta$ strands XIl and XIV, Y249 between $\\beta$ strands XVand XVI, L338 in the splice loop and N375 adjacent to the classic clathrin-binding box are shownincyan.Thedashedlinsdepictthestructuralportionnotresolvedbycrystalography.(c)FYincorporationsitesinteactive $\\beta$ -arrestin-1 structure (PDB: 4JQl).The bound V2Rppis shown in magenta.The seven phosphate-binding sites are indicated by green circles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GRK phosphorylation determines $\\mathfrak { \\textbf { \\beta } }$ -arrestin-1 function. The individual receptor seven-transmembrane core and specific phosphorylation patterns are two determinants of specific arrestin functions2,5,13.The GRK6-phosphorylated $\\beta 2 \\mathrm { A R }$ imparts $\\beta$ -arrestin-2 conformations that specifically activate ERK2, whereas GRK2-phosphorylated $\\mathsf { \\beta } 2 \\mathrm { A } \\bar { \\mathrm { R } }$ exerts _more pronounced effectsonreceptorinternalization(Table1)5,6,24,25Although these studies demonstrated that the functions of $\\beta$ -arrestin-2are defined by different GRKs in the cells,whether the conformation andsignallingof $\\beta$ -arrestin-1 are regulated byselective GRK-encoded receptor phosphorylation pattern has not been examined. Therefore,we generated a BRET sensor (Rluc- $\\cdot \\beta$ arrestin-1-YFP） to monitor the conformational change of $\\beta$ -arrestin-1 in cells. Stimulation with $1 0 \\mu \\mathrm { M }$ isoproterenol (ISO) significantly increasedthe BRET signal of Rluc$\\beta$ -arrestin-1-YFP, indicating a conformational changeof $\\beta$ -arrestin-1 after $\\beta 2 \\mathrm { A R }$ activation (Fig. 3a).However，the ISO-induced BRET signal was significantly reduced by the knockdown of either GRK2 or GRK6,indicating important roles of GRK in mediating the $\\beta$ -arrestin-1 conformational change after receptor activation (Fig.3a). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wenext investigated whether receptor phosphorylation by different GRKsproduced different signalling outcomes downstreamof $\\beta$ -arrestin-1. Formation of thereceptor/ $\\beta$ -arrestin-1/SRC (or SRC family member HCK,FGR or YES) ternary complexes has been demonstrated to regulate multiple cellular functions downstream of various receptors,including, but not limited to,anti-apoptotic effects,granule exocytosis, colorectal carcinoma cell migration，bacterial adhesionto endothelial cells and the proliferation of pancreatic $\\beta$ -cells26-31. Therefore,we inspected the roles of different GRKs in $\\beta$ -arrestin1-mediatedSRC activation. WhereasGRK6knockdown significantly decreased SRC activation downstream of $\\beta 2 \\mathrm { A R }$ activation, GRK2 knockdown increased SRC activation (Fig. 3b). Together with previous research,these experiments demonstrate that GRK2 and GRK6_encode distinct $\\beta$ -arrestin-1 conformations and functions in cells5,8,28-30,32 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To further evaluate whether these distinct cellular outcomes regulated by different GRKs are due to the generation of specific phosphorylation information in the receptor C-tail that is decoded by $\\beta$ -arrestin-1,we synthesized specific GRK2- or ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ee289b7e8693225cb17505a01a0cc25388d6aadd6b7001cfa41e5b23f142202.jpg",
+        "img_caption": [
+            "Figure 2|Application ot $1 9 F .$ -NMR probes of $\\mathfrak { \\textbf { \\beta } }$ -arrestin-1 allowed the detection ot phosphate binding and structural changes by $1 9 F$ -NMR ",
+            "spectroscopy.(a) Upfield shifts in the ${ ^ { 1 9 } \\mathsf { F } }$ -NMR spectra of F2Y-phospho-sensing-probes of $\\beta$ -arrestin-1 are observed in response to $V 2 R p \\mathsf { p }$ binding. The chemical shifts are referenced to trifluoroacetic acid (TFA, $- 7 6 . 5 \\mathsf { p p m } )$ as an internal standard. (b) ${ ^ { 1 9 } \\mathsf { F } }$ -NMR spectra of $\\beta$ -arrestin-1-Y21-F2Y and ${ \\mathfrak { \\beta } }$ arestin-6-FertitroitVpp.Lft:tostictpaseebedforttratiitVppeaat6. increased (representing the V2Rpp-bound state) as the peak at $- 1 3 0 . 1 8 1 \\mathsf { p . p . m }$ .(representing the state of $\\beta$ -arrestin-1alone) decreased,indicatingaslow conforatioaleaeRightsigeaseedfotmicalsftaridesposetofrestocetratiof suggestingtatdfoatiaagatispddg5pcchistp (pT347,pS350 and $\\mathsf { p S 3 5 7 } ;$ ,caused an upfield shift at the K1O7-F2Y position butno detectable change at the Y63-F2Y position $( \\Delta \\mathsf { p . p . m . } < 0 . 0 5 )$ . (d) Plots of the distance root mean square deviations (RMSDs) for individual residues between inactive $\\beta$ -arrestin-1 and the V2Rpp-bound $\\beta$ -arrestin-1 complex (upper panel) and between inactive rod arrestin and its constitutively active $\\mathsf { p } 4 4$ variant (lower panel).The vertical axis shows all heavy-atom RMSDs per arrestin residue.The colour code shown in the upper right corner of the panel indicates the $\\mathsf { C a }$ deviation of each residue.The three loops that exhibit major conformational changes are highlighted: finger loop,red;middle loop,light blue;and lariat loop,light yellow.(e)The ${ ^ { 1 9 } \\mathsf { F } }$ -NMR spectra of $\\beta$ -arrestin-1 incorporatingidldofotialagfctiatiRpp.atelatile of the $^ { 1 9 } \\mathsf { F }$ -NMR chemical shift for specific F2Y incorporation sites. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GRK6-phosphorylated β2AR C-tails and examined their effects on the biochemical properties of $\\beta$ -arrestin-1 (Table1).The GRK2-phosphorylated $\\bar { \\beta 2 } \\mathrm { A R }$ C-tail were separated into two segments，GRK2App and GRK2Bpp，owingto difficulties encountered with synthesis.Protein kinase A (PKA） also phosphorylates $\\beta 2 \\mathrm { A R }$ and we used the PKA-phosphorylated $\\beta 2 \\mathrm { A R }$ peptide $( { \\mathrm { P K A p p } } )$ asacontrol,because PKA does not affect arrestin recruitment?².In vitro, the $\\mathrm { \\Delta V 2 R p p }$ and GRK2pp induce formation of the $\\beta$ -arrestin-1/clathrin complex,whereas the GRK6pp and V2Rpp promote the formation of the $\\beta$ -arrestin1/SRC complex (Fig.3c,d).By contrast, the PKA-phosphopeptide did not promote the formation of either the arrestin/clathrin complex or the arrestin/SRC complex (Fig.3c,d).Taken together, thesefindingsreveal that the GRK6-mediated receptor phosphorylation pattern specifically activates SRC,whereas the ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GRK2-mediated receptor phosphorylation pattern selectively recruits clathrin, thus facilitating receptor endocytosis (Table 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Phospho-interaction patterns are deciphered by $^ { 1 9 } \\mathrm { F }$ -NMR. $\\mathrm { \\Delta V 2 R p p }$ ,GRK2App,GRK2Bpp and GRK6pp have 11,8,9 and 4 phosphates or negatively charged residues,respectively. Specifc phospho-binding patterns may correspond to distinct arrestin functions. We next used $^ { 1 9 } \\mathrm { { F } }$ -NMR spectroscopy of the F2Y phospho-sensors to detect the negative charge-sensing patterns of $\\beta$ -arrestin-1 after stimulation with specific phosphopeptides. Allof the GRK-phosphopeptides, but not the PKAphosphopeptides,induced an upfield chemical shift at Y63 (phosphate-binding site 1） (Fig. 4a). Specifically，GRK2App and GRK2Bpp caused upfield chemical shifts in $^ { 1 9 } \\mathrm { F }$ -NMR spectroscopy at positions K11，K294，K107 and Y21，which surround phosphate-binding sites 4,6 and 7,whereas GRK6pp binding specifically induced an upfield chemical shift at R7, corresponding to phosphate-binding site 5 (Fig. 4a,b and Supplementary Table 2). A small amplitude of an upfield chemical shift was also observed at Rl65 after GRK6pp binding. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/60b2c92d3ac8ff80a42c64ff71ac3654e847bee38553aa512d1fd12572b2f8a9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table1|Summary of the signalling and biochemical properties of receptor phosphorylation barcodes encoded byvarious kinases.</td></tr><tr><td rowspan=\"2\">Phospho- Sequence barcode</td><td rowspan=\"2\"></td><td colspan=\"2\">Biochemical properties</td><td colspan=\"3\">Cellular functions</td></tr><tr><td>Clathrin binding</td><td>SRC binding</td><td>Arrestin conformational change</td><td>Internalization</td><td>SRC Desensitization activatin</td></tr><tr><td rowspan=\"3\">Full-@- V2Rpp: V2R GRK2-D β2AR</td><td>343ARGpTPPpSLGPQDEpSCpTpTApSpSpSLAKDTSS371</td><td>+++</td><td>十++</td><td>+</td><td>+ ND</td><td>ND</td></tr><tr><td>GRK2Bpp:</td><td>十+</td><td></td><td>+</td><td>+</td><td>十</td></tr><tr><td>357NGNpTGEQpSGYHVEQEKENKLLCEDLPGTE385 GRK2App:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">GRK6-@- β2AR PKApp: β2AR PKA-</td><td>386DFVGHQGTVPpSDNIDpSQGRNCpSTNDpSLL413 GRK6pp:</td><td>+++</td><td>+</td><td></td><td>+ +</td><td>+</td></tr><tr><td>343RRSIKAYGNGYpSpSNGNTGEQSGYHVEQ370</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>251DGRTGHGLRRpSpSKFCLKEHKALKTLGI|280</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6fbe88b358f8b2d047fc3f1b320fce6fa281decb50c68d0095f404d3bad9d12.jpg",
+        "img_caption": [
+            "-',no significant change; $^ { \\prime } +$ , significant change but the change is less than twofold; $\" + + \"$ and $' + + + \"$ ,significant change with more than twofold or with more than threefold, respectively; ND, not letermined. ",
+            "Figure 3|Different phospho-barcodes encode different arestin functions and conformations.(a)Activation of $\\beta 2$ -AR-induced conformational changes in $\\beta$ -arrestin-1as measured using intramolecular BRET.Plasmids encoding a $\\beta$ -arrestin-1 BRET biosensor(Luc- $\\cdot \\beta$ -arrestin-1-YFP)and Flag-β2-AR were transiently co-transfected in HEK293 cells.After starvation,the cells were stimulated with ISO ( ${ \\langle 1 0 \\mu N \\rangle }$ for10 min.The effects of GRK phosphorylation of β2-AR on ISO-induced $\\beta$ -arrestin-1conformationalchange were probed using siRNA-mediatedGRKknockdown.(b)Arepresentative westernbloting is shown for the effects of knockdown of specific GRKs in $\\beta 2$ -AR-mediated proto-oncogene tyrosine-protein kinase (SRC) activation.Left panel: HEK293 cells thatweretransietlyedi-ereuladiOf,dnaelofd6nd SRCactivatiotatletiseifiseeditoel.steotepreseatifasttt experimentsissooteeftigtpael:westeblotsigalsofpospC46a)ereuatfdusingdsiomeryndareexpredasfold changeversusbasallevel.WhereasGRK6isrequiredforSRCactivationdownstreamofβ2-ARactivation,GRK2isanegativeregulatorof $\\beta 2$ -AR-induced SRC activation.(a,b) At least three independent experiments were performed. # $: P < 0 . 0 5$ ,ISO-stimulated cells are compared with unstimulated cells. （20 $^ { \\star } P < 0 . 0 5 ,$ $^ { \\star \\star } P < 0 . 0 1$ $^ { \\star \\star \\star } P < 0 . 0 0 5 ;$ GRK siRNA-treated cellsare compared with control siRNA-treated cels. (c,d) Efects of phospho-peptide binding on $\\beta$ -arrestin-1/clathrincomplex formation $\\mathbf { \\eta } ( \\bullet )$ or $\\beta$ -arrestin-1/SRC-SH2-SH3-kinase-three domain (SRC3D) complex formation (d). $\\beta$ -arrestin-1 $( 3 0 0 { \\mathsf { n M } } )$ （ was incubated with an equal concentration of various phosphopeptides and either GST-clathrin 1-494 $\\mathbf { \\eta } ( \\bullet )$ or GST-SRC3D (d).The complexes were pulled down using GST beads and the amount of $\\beta$ -arrestin-1 bound to clathrin or SRC3D was monitored using a specific $\\beta$ -arrestin-1antibody (left panel in each figure).At least three independent experiments for each assay were performed.Western blot signals of $\\beta$ -arrestin-1 bound to clathrin $\\mathbf { \\eta } ( \\bullet )$ or SRC3D (d)from the left panels were quantified using densitometry and are shown as columns (right panel). $^ { \\star \\star } P < 0 . 0 1$ $^ { \\star \\star \\star } P < 0 . 0 0 5$ phosphopeptide stimulated $\\beta$ -arrestin-1/clathrin complex formation $\\mathbf { \\eta } ( \\bullet )$ or $\\beta$ -arrestin-1/SRC complex formation $( { \\pmb d } )$ are compared with the basal state. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "However, this chemical shift was not due to the binding of a phosphate or a negative charge residue at phosphate binding site 2 or 3,as the binding of GRK6pp caused no significant chemical shift at either K11-F2Y,K138-F2Y or R62-F2Y (Fig.4a and Supplementary Fig.13 and Supplementary Table 2).Rather, the chemical shift at R165-F2Y after GRK6pp binding may reflect a ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/44c6b641369596cf79c63e30bf2cd745b2de1def91fdfef7562d704db67780e1.jpg",
+        "img_caption": [
+            "Figure 4丨The phospho-interaction pattern of $\\beta$ -arrestin-1 was deciphered via the $1 9 F$ -NMR spectra.(a) Effects of diffrent phosphopeptide binding on the $^ { 1 9 } \\mathsf { F }$ -NMR spectra on $\\beta$ -arrestin-1-F2Y phospho-sensing probes. (b)Specific phospho-binding patterns revealed by $^ { 1 9 } \\mathsf { F }$ -NMR spectra that correlate to theirboalllaotlaespegailadteacispifo site localized in the $\\beta$ -arrestin-1N terminus.Grey bals indicate that no significant chemical shift increase $( \\Delta \\mathsf { p . p . m . } < 0 . 0 5 )$ wasdetected by the phospho sensoraroundthespecificsite.ThebndingofthesevenphosphatesitesbyVRppromotedbthclathrinandSCbndingTwoGR2ppsdisplaed similarospbdigpasndedatiigutotteactoigpatef 5,which may correlate with its SRC function.(c) Effects of binding of GRK6pp mutants on the $^ { 1 9 } \\mathsf { F }$ -NMR spectra on $\\beta$ -arrestin-1-R7-F2Yand Y63-F2Y phospho-sensing probes.(e) Efects of binding of GRK2pp mutants on the $^ { 1 9 } \\mathsf { F }$ -NMR spectra on $\\beta$ arresti-1 phospho-sensing probes.(d,f) Structural representionofamodelofspecifiinteractiosbeteenteegativecagedGK6pp/RKpesideandtesiuelocalidinposbndig sites of $\\beta$ -arrestin-1.The model was generated by application of the Pl-LZerD algorithm using $\\mathsf { V } 2 \\mathsf { R p p } / \\beta$ -arrestin-1 complex structure (PDB: 4JQl) as a template and adjusted by results from ${ ^ { 1 9 } \\mathsf { F } }$ -NMR spectra. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NATURE COMMUNICATIONS |6:8202|DOl: 10.1038/ncomms9202|www.nature.com/naturecommunications conformational change at Rl65 or an interaction with Rl65 by a negatively charged residue with an unknown manner.A simplified phospho-interaction model of different phosphopeptides and their relations to arrestin functions are summarized in Fig.4b. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tofurthercharacterizehowthesephosphopeptides interact with specific phosphate-binding sites of $\\bar { \\beta }$ -arrestin-1, we selectively mutated the negatively charged residues of these phosphopeptides to alanine and tested their effects on clathrin or SRC recruitment in vitro.Two mutations of GRK6pp and three mutations of GRK2pp affected phosphopeptide-induced $\\beta$ -arrestin-1/SRC or $\\beta$ -arrestin-1/clathrin interaction,respectively (Supplementary Figs 14 and 15).Importantly,the mutation of $\\mathtt { p S 3 5 5 }$ in GRK6pp selectively eliminated the upfield chemical shift at the Y63-F2Y position，whereas the mutation of E369A specifically abolished the upfield chemical shift at the R7-F2Y position after phosphopeptide binding (Fig. 4c).Therefore,the pS355 of GRK6pp interacts with phosphate-binding site 1 and E369 interacts with phosphate-binding site 5 in the phosphatebindingconcavesurfaceof $\\beta$ -arrestin-1(Fig.4dand Supplementary Table 7). Similarly, $^ { 1 9 } \\mathrm { F }$ -NMR spectroscopy with selective GRK2pp mutations indicated that pT360,E373 and E379/D380 specifically interact with phosphate-binding sites 1,4 and $6 / 7$ ,respectively (Fig. 4e,f). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Phospho-barcodes induce structural changes in $\\mathfrak { \\textbf { \\beta } }$ -arrestin-1. The specific phosphopeptide/arrestin interaction pattern should trigger substantial arrestin conformational rearrangements.We next inspected the ${ } ^ { 1 9 } \\mathrm { F } .$ -NMR spectrum of F2Y incorporation positions outside of the phosphopeptide interacting region. The binding of phosphate site 1 by GRK-phosphopeptides may provide the driving force for the repositioning of the finger loop and middle loop, which is aprelude to receptor core binding2,33 All of the GRK-phosphorylated peptides consistently induced downfield chemical shifts at residue 75 in the finger loop and at residue 136 in the middle loop (Fig. 5a and Supplementary Table 5). Therefore， exceptfor PKApp， thecommon conformational changes that occur in the finger loop (residue 75）and middle loop (residue l36） regions that are induced in GRK-phosphopeptide binding(phosphate-Y63 interaction) might enable the interaction with the receptor cores for fully phosphorylated receptor/arrestin associations.Another important common structural feature of GRK-phosphopeptide binding is the downfield chemical shift at N375,which indicates the displacement of the C-tail of $\\beta$ -arrestin-1,despite the interaction of GRK2pp and GRK6pp with arrestin through different phosphate-binding sites in their C-terminal regions(sites 6and 7 for GRK2pp and site 5 for GRK6pp; Figs ${ \\mathrm { 1 b , \\bar { c } } } ;$ ,4b and 5a). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In particular，the interaction of GRK2pps (GRK2App and GRK2Bpp) with phosphate-binding site 4 enables the rotation of K294,releasing D290 and D297 from the polar core (Fig.4a,b,e,f). The rearrangement of the polar core may lead to prominent twisting of the lariat loop,which facilitates the binding of the receptor transmembrane domain or clathrin. In addition, negatively charged residues_or phosphates of both GRK2App and GRK2Bpp bind to phosphate sites 6 and7,which disrupts the hydrophobic interactions between F388 and Y21/K107,resulting in the displacement of the C-tail and the conformational change at the amphipathic $\\textsf { \\textsf { Q } }$ -helix and the first two $\\beta$ -strands of $\\beta$ -arrestin-1. By contrast, although the binding of GRK6pp may also partially release the C terminus of $\\bar { \\beta }$ -arrestin-l,asit significantly increases the negative charge around R7 and causes a downfield shift at the Y2i position,it does not change the chemical shift at K294 or K107 (Fig. 4a-d and Supplementary Table 2).Therefore,selective GRK-phosphopeptide interaction patterns might result in distinct arrestin structural states. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Accordingly，GRK2pp specifically induced a structural change at Y249 in the loop between $\\mathbf { \\dot { \\beta } }$ -strands XV and XVI,and L338-F2Y in the splice loop (Fig. 5b and Supplementary Table 5).By contrast,the GRK6pp,but not the GRK2pp or PKA-phosphopeptides,induced a specific structural change at F277-F2Y in the end of the lariat loop (Fig.5c).Moreover, only V2Rpp induced a downfield chemical shift at the Y209-F2Y position in the $^ { 1 9 } \\mathrm { F }$ -NMR spectra，whereas all other tested phosphopeptides caused no significant effect (Fig. 5d and Supplementary Table 6). This conformational change at Y209 may be correlated with the binding of V2Rpp to phosphatebinding sites 2 or 3of $\\beta$ -arrestin-1，which are the only two phosphate-binding sites that are not covered by GRK- or PKA-phosphopeptides (Fig. 4b). Taken together, these findings show that these phospho-barcode-induced structural rearrangements potentially enable the imparting of distinct functions of $\\beta$ -arrestin-1 through clathrin,SRC,ERK or other downstream effector proteins (Fig. 5e). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Clathrin-induced structural alterations in $\\beta$ -arrestin-1. The GRK2-encoded arrestin conformation recruits clathrin and promotes receptor endocytosis. Clathrin-mediated phosphoreceptor/arrestin complex trafficking is proposed to involve two distinct regions， the classic clathrin binding(CCB） box $^ { 3 7 6 } \\mathrm { L I E L D } ^ { 3 8 \\widetilde { 0 } }$ and the eight aminoacid splice loop34All F2Y mutations in the CCB box impaired the formation of the phosphopeptide/arrestin/clathrincomplex(Supplementary Fig. 11). Thus,we selected L338-F2Y in the splice loop and N375-F2Y adjacent to the CCB box, to monitor clathrin-induced arrestin conformational changes.The binding of clathrin to the activated $\\beta$ -arrestin-1 in the presence of V2Rpp or GRK2pp led to a substantial chemical shift of the $^ { 1 9 } \\mathrm { F }$ -NMR signals at Y249-F2Y, L338-F2Y and N375-F2Y (Fig. 6a-c).Although GRK6pp also induced a structural change atN375-F2Y,clathrin binding caused no additional chemical shift (Fig. 6a).Moreover, the binding of clathrin to the phosphopeptide-occupied $\\beta$ -arrestin-1 did not affect the chemical shift at F277,a GRK6-specific structural site (Fig. 6d).These findings suggest that clathrin recognizes GRK2-encoded specific arrestin conformations of the splice loop, the CCB box and the loop between $\\beta$ -strands XV and XVI; however,clathrin does not recognize GRK6pp-encoded arrestin conformations. In particular，although V2Rpp and GRK2pp induce different amplitudes in the chemical shifts at L338-F2Y, Y249-F2Y and N375-F2Y,which suggests structural plasticity at these positions,the chemical shifts of the signals assigned to these positions in the ternary complexes of V2Rpp/arrestin/clathrin orGRK2pp/arrestin/clathrin exhibit no detectable differences (Fig. 6a-c).These results indicate that clathrin recognizes different phosphopeptide/arrestin intermediates and stabilizes the ternary complex to a common structural state at these positions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We next assessed the efect of the paramagnetic relaxation agent chromium acetylacetone $( \\mathrm { C r } )$ on the $^ { 1 9 } \\mathrm { F }$ -NMR spectra of F2Y-N375 of $\\beta$ -arrestin-1 in the presence of clathrin and different GRKpp.The $^ { 1 9 } \\mathrm { F }$ -NMR spectra of F2Y-N375 revealed that the N375 position in the $\\beta$ -arrestin-1 alone or in the $\\mathrm { G R K 2 p p } /$ $\\beta$ -arrestin-1/clathrin ternary complex is less susceptible to line broadening by Cr than the $\\mathrm { \\tilde { G R K } { 2 p p } / \\beta }$ -arrestin-1 complex or the $\\mathrm { G R K 6 p p } / \\beta$ -arrestin-1 complex plus clathrin,indicating that F2Y-N375 is less readily solvent accessible in $\\beta$ -arrestin-1 alone or the $\\mathrm { G R K 2 p p / \\beta }$ -arrestin-1/clathrin complex (Fig. 6eand Supplementary Fig. l6). Therefore,a model was built in which the C-terminal region of $\\beta$ -arrestin-1 was dislodged after GRKpp binding，which was protected by clathrin in the $\\mathrm { G R K } 2 \\mathrm { p p } /$ $\\beta$ -arrestin-1 complex but not in the $\\mathrm { G R K 6 p p / \\beta }$ -arrestin-1 complex (Fig. 6f). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8d43ee6ab8e7c2919d3c205f9507884552214da46e8fa98e45f6be87628db7f.jpg",
+        "img_caption": [
+            "Figure 5 | $1 9 F .$ -NMR spectra revealed the different structural states of $\\beta$ -arrestin-1in response to different phospho-binding patterns. (a) Common structural changes that occur after $\\beta$ -arrestin-1activation induced by the bindingoffunctional phosphopeptides.These results suggest theexistence of common conformational states representing $\\beta$ -arrestin-1 activation after functional phosphopeptide binding.(b) Specific structural rearangements after GRK2ppbidindiructalagtsai.dydfoatial position(e)Popododelsilustratigteecetorospbarodeceddistictestiforatiostatdictatesecifidostr signalingeospoatedtalfetoriaeextedsitasm.teactiittorospilu structural rearrangement of $\\beta$ -arrestin-1thatincludes residues inthefingerloop (such as F75)and the middle loop(such as T136);theseresidues (in purple)mightpartipateintheeceptortransmemberanecoeinteraction.DiferentGRKsencodediferentconformationsintheC-lobeof $\\beta$ -arrestin-1. GRK2encodesspecificonformationsofY249andL338(bluerangles),hichrerecognizedbyathrin (inblue)GRK6ncodedistinct $\\beta$ -arrestin-1 conformationsuchsthofoatiofFedtragle)icightegdyigalngroteinsschCidii V2Rpp-induced conformational change is localized at Y2O9 (in orange). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 |19F-NMR spectra revealed the structural alteration of $\\beta$ -arrestin-1in response to the binding of Clathrin. Chemical shifts after phosphopeptide/ $\\beta$ arrestin-1/clathrinternarycomplexformatioatspecificF2incorpoationsites:atN375-F2Yclosetotheclasicclathrin-bidingbox (a),at L388 in the splice loop (b) and at Y249-F2Y (c).(d) No significant changes $( \\Delta \\mathsf { p . p . m . } < 0 . 0 5 )$ were observed for the chemical shiftsat F277-F2Y position in the ${ ^ { 1 9 } \\mathsf { F } }$ -NMRspectrafterclathrinbinding.e)Pramagnetictitratioexperiments.AstheoncentrationoftheCrincreased,thefullwidthat half maximum of the 1D- $^ { 1 9 } \\mathsf { F }$ -NMR spectra at the F2Y-N375 position of the $\\beta$ -arrestin-1/GRK2Bpp complex significantly increased $( \\Delta p . \\mathsf { p . m . } = 2 5 \\mathsf { H Z } )$ ） followed by the $\\beta$ -arrestin-1/GRK6 complex in the presence of clathrin $( \\Delta p . \\mathsf { p . m . } = 1 6 \\mathsf { H } Z ;$ ，and then the $\\beta$ -arrestin-1/GRK2Bpp/clathrin ternary complex （20 $( \\Delta p . \\mathsf { p } . \\mathsf { m } . = 5 \\mathsf { H } Z ;$ and the $\\beta$ -arrestin-1alone $\\langle \\Delta p . \\mathsf { p } . \\mathsf { m } . = 4 \\mathsf { H } Z \\rangle$ ,indicatinga greater protective effectof $C r$ at the N375 position of the $\\beta$ -arrestin-1/GRK2Bpp complex in theabsenceofclathrin.(f)Acartoonilustrationofthephospho-pattern-encoded structuralrearrangementsof $\\beta$ -arrestin-1and its subsequent stabilizatiobyathrinbndingeedballindicatestheposateAtoughthendingofGK2App,GRK2BppandV2Rppallausedapartial dislodging of the C terminus of $\\beta$ -arrestin-1,theresulting structural states induced bydiferent phosphopeptides could be diferent.Clathrin binding stabilized all these phosphopeptide-occupied arrestins to a single state. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Phospho-decision mechanisms of $\\mathfrak { \\textbf { \\beta } }$ -arrestin-1 functions. To further characterize the functional outcomes of the specific phospho-interaction pattern and the accompanying structural rearrangementsof $\\beta$ -arrestin-1, wegeneratedsystematic $\\beta$ n-1 mutants that covered all seven V2R phosphatebinding sites and a partial lariat loop deletion construct. Mutations of all residues in phosphate-binding sites 2 or 3 had no ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "significant effects on clathrin or SRC binding. By contrast, destroying phosphate-binding site 1 by Y63/R65/K77. is essential for the finger loop rearrangement,elimii   \na N375F2Y +Clathrin b L338F2Y +Clathrin -135.69 No shift -135.66 No peptide -135.99No shift 1-135.97 No peptic -134.74 + 0.68 shift -135.42 V2Rpp -135.34 +0.37 shift -135.71 V2Rpp -135.21 + 0.21 shift -135.42 GRK2App -134.93 +0.77 shift -135.70 GRK2Ap -135.00 + 0.45 shift -135.45GRK2Bpp 135.85 -0.14 shift -134.99 GRK2Bp -135.39 No shift -135.36GRK6pp -135.97 No shift -135.97 GRK6pp -130 -140 -130 -140 -130 -140 -130 -140 19F chemical shift (p.p.m.)   \nC Y249F2Y +Clathrin d F277F2Y +Clathrin -134.80 -0.31 shift -134.49 No peptide -135.31 No shift -135. 31 No peptidi -134.17 +0.42 shift -134.59 V2Rpp -135.34 No shift -135.33 GRK2App -134.02 +0.56 shift 134.58 GRK2App -135.32 No shift -135.32 GRK2Bpp -134.07 +0.50 shift -134.57 GRK2Bpp -134.79 -0.31 shift -134.48 GRK6pp -135.05_No shift -135.04GRK6pp -130 -140 -130 -140 -130 -140 -130 -140 19F chemca shift (p.p.m.)   \ne N375F2Y N375F2Y+GRK2Bpp N375F2Y+GRK2Bpp+Clathrin N375F2Y+GRK6pp+Clathrin Acetylacetone chromium 62.25 HZ 74.80 HZ 69.42 HZ 68.92 HZ 5mM 61.26 HZ 69.87 HZ 68.52 HZ 68.52 HZ 3mM 58.45 HZ 56.45 HZ 65.51 HZ 58.35 HZ 1mM A 58.52 HZ 49.53 HZ 64.01 HZ 52.85 HZ 0 mM T T T T T 1 1   \n-135 -136 -135 -136 -135 -136 -135 -136 19F chemical shift (p.p.m.)   \nf GRK2App GRK2Bpp V2Rpp +Clathrin CCB box Clathrin （204号 $\\beta$ -Arrestin-1 Multiple conformations Single conformation ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "wI Pull down : Clathrin Pulldown : SRC Site3 Pull down : Clathrin Pull down : SRC IB:BP-aesn V2F GRKGRAK26 、GR GRK6 PB: B-Arrestn-1 2F V2F 1A IB: GST 1/K160 Site 1 IB: β-Arrestin-1 ！！ -2A Site 6-7 Pull down : Clathrin Pull down : SRC C IB: BATres X11/K160 P:pB-Arrestn-1 GRK25 V2R Peptide -2:3 65 /K10A IB: β-Arrestin-1 Y63A IB: GST Y21/K107 IB: β-Arrestin-1 IB: GST 1 Y63/R65 -2A Site 4 Pull down : Clathrin Pull down : SRC IB: β-Arrestin-1 IB: GST /K107 -2A IB:GST IB: β-Arrestin-1 IB:GSTe2 pu .. Y63/R65 K77-3A Peptide 5EE5 2 V2FGRKO IB -Areti1-1 IB: β-Arrestin-1 IB: GST K107A 2 K10E K294A 20K28 Peptide GRGR 2 IB: β-Arrestin-1 R62A Site 5 IB: GST Lariat loopdeletion 1G R62/K160 -2A Pe Pepr R62/K160 IB: GST R165-3A IB: GST ！ i /R7A IB: GST ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "clathrin and SRC binding (Fig. 7 and Supplementary Fig. 17). More interestingly, the GRK2pp-stimulated clathrin binding was significantly reduced by mutations of phosphate-binding sites 6 and 7 (Y21A/K107A/K1oE)and was entirely eliminated by a single mutation of R25A in phosphate-binding site4. However,these mutations have no significant effects on the GRK6pp-induced $\\mathrm { { S R C / \\beta } }$ -arrestin-1 interaction.Furthermore,the interruption of the GRK6pp-specific interacting site by R7A significantly reduced the phosphopeptide-induced SRC binding but had no noticeable effect on clathrin binding. Accordingly, partial deletion of the lariat loop close to the F277 position,which only exhibits structural rearrangement after GRK6pp binding, resulted in a decreased phosphopeptide-induced SRC interaction (Fig.7 and Supplementary Fig.17).These results indicated that phosphate-binding sites 4,6 and 7 govern phosphopeptideinduced clathrin binding,whereas phosphate-binding site 5 defines the SRC interaction. The binding of phosphopeptides to phosphate-binding site 1 primes both SRC and clathrin recruitment. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Consistent with these biochemical results,the interruption of phosphate-bindingsite4byR25Aselectively impaired $\\beta$ -arrestin1/clathrin interaction downstream of $\\beta 2 \\mathrm { A } \\mathrm { \\dot { R } }$ activation,whereas destroying phosphate-binding site 5specifically eliminated ISO-induced $\\beta$ -arrestin-1/SRC association (Fig. 8a).A similar result for arrestin/partner interactions by specific phosphointeraction patterns was also observed in CCKAR for clathrin and in SSTR2 for clathrin and SRC(Fig. $8 \\mathrm { b , c }$ ).Therefore,this newly identified phospho-pattern decision mechanism also underliesatleastasubsetof GPCRs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Understanding the coding mechanisms and structural basis of arrestin-mediated GPCR signalling is currentlya central issue in receptor biology that may have important implications for new drug development.In contrast to the tremendous effort focused on understanding the functional significance of the conformationalheterogeneityof receptors1,35-39,the imprtance of the structural plasticity of arrestin has only just begun to be analysed11,40-42Recent studieshave suggestedthat ligandspecific receptor conformation is correlated with,and that the C-terminal phosphorylation pattern defines,specific arrestin conformations that dictate selective signalling pathways1,5,13. The marked conformational rearrangement of arrestin in the crystal structure of the $\\beta$ -arrestin-1/V2Rpp/Fab30 complex provides considerable insight into the structural properties of arrestin and further supports the idea that specific conformations underlie selective arrestin functions².However， this crystal structure only presents a static picture for a single activated arrestin conformation. Certain important structural features that are highly relevant to arrestin functions,such as various loops and the final 5O amino acids at the C terminus of arrestin, are absent from the structure of the $\\beta$ -arrestin-1/V2Rpp complex because of poor electron densities11.Moreover，the ways in which the specific structural states of arrestins are defined by specific phosphorylated cytoplasmic regions of a receptor or by ligand-occupied receptor conformations remain uncertain and correlations between specific arrestin conformations and distinct arrestin functions have not been established.In addition,the flexible nature of the arrestin structure has hampered crystallographic analysis in the absence of stabilization by conformation-specific antibodies. In this context, we have developed a series of F2Y-based structural sensors in $\\beta$ -arrestin-1 through unnatural amino acid incorporation (Fig. la-c). These sensors enabled us to use $^ { 1 9 } \\mathrm { F }$ -NMR spectroscopy to inspectphospho-interactionpatternsandresidue-specific structural information in $\\beta$ -arrestin in different active states (Fig. 2a,e). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Although there is no apparent phospho-sequence identity between GRK2App_and GRK2Bpp, $^ { 1 9 } \\mathrm { F }$ NMR spectra of F2Y incorporated into the phosphate-binding sites of $\\beta$ -arrestin-1 indicated that these phosphopeptides interact with $\\beta$ -arrestin-1 through identical phosphate-binding sites (1-4-6-7) (Table 1 and Fig.4b).In contrast,a different phospho-interaction pattern was observed for the interaction between GRK6pp and $\\bar { \\beta }$ -arrestin-1 (1-5) (Fig. 4b).Analyses of $^ { 1 9 } \\mathrm { F }$ -NMR spectra allowed us to reveal structural changes common to all functional phosphopeptide binding. These common changes include alterations to residue F75 in the finger loop,T136 in the middle loop and N375 in the C-terminal region (Fig. 5a).Recent EM and crystallographic studies have suggested that the finger loop of arrestins is inserted into transmembrane (TM)helices and intracellular loops of receptorsafterreceptor/arrestincomplexformation2,43. Therefore,structural changes at the finger loop and middle loop may be an important common mechanism in promoting the formation of tight receptor/arrestin complexes after arrestin reads specific receptor phosphorylation signals.Apart from the polar core of the central portion of the $\\beta$ -arrestin-1 protein，the C-terminal tail of $\\beta$ -arrestin-1 (encompassing N375）runs in the opposite direction to the finger loop and the middle loop.Two potentially different modes of binding between $\\beta$ -arrestin-1 and clathrin in a non-stimulated state have been proposed by the complex structure of clathrin and $\\beta$ -arrestin-1 (ref.34).However, the interaction mode between active arrestin and clathrin has not been defined.In the present study,relaxation experiments at position N375 with different conditions enabled us to demonstrate that the C-terminal region of $\\beta$ -arrestin-1 is protectedinthe $\\mathrm { G R K } 2 \\mathrm { B p p } / \\beta$ -arrestin-1/clathrinternary complex (Fig. 6e,f).Thus,our results suggest that the receptor and clathrin interact with $\\beta$ -arrestin-1 in opposite directions to form a sandwich-like structure during receptor internalization. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a76f17894283b890bee72b49987eedb5689f6e57727e912ba5cbde0a8d57ee2e.jpg",
+        "img_caption": [
+            "Figure8丨Phosp-paeselectivemechaismsofspecificrrestinunctiosrecomonforatastasubsetofs.a）Teobnding pattern of $\\beta$ arestin-1determinsselectivearrstinfunctionsdowstreamof2ARincels.HEK293cellswereco-transfectedwitFlag-ARand wild-type HA- $\\cdot \\beta$ -arrestin-1orspecific phosphate-binding site mutants(R25A for site 4and R7A for site 5),then stimulated with $1 0 \\mu \\mathsf { M }$ isoproterenol (ISO) for 15 min.The $\\beta$ -arrestin-1 was immunoprecipitated by HA-antibody-conjugated agarose and the formation of the $\\beta$ -arrestin-1/clathrinor $\\beta$ -arrestin-1/SRC was detected by specific clathrin or SRC antibodies.R25A or R7A selectively disrupted the ISO-induced $\\beta$ -arrestin-1/clathrin complex formation or the ISO-induced $\\beta$ -arrestin-1/SRC complex formation,respectively.(b,c) The phospho-binding pattern of $\\beta$ -arrestin-1 determines selective arrestin interaction withclathrinorCwstreaofomatsaticeptor2(T2,Fig4candolecytoininAecetorCKFigd.eFlag-SSTR2 and HA- $\\beta$ -arrestin-1 plasmids were co-transfected in HEK293 cels.The cells were starved and then stimulated with $1 \\mu \\mathsf { M }$ somatostatin $\\mathbf { \\eta } ( \\bullet )$ or $2 \\mu \\mathrm { M } \\subset \\mathsf { C K } \\cdot 8 \\mathsf { s }$ (d)for15 min,respectively.The somatostatin promoted both clathrin and SRC recruitment for $\\beta$ -arrestin-1,whereas the CCK-8s only promoted $\\beta$ -arrestin-1/clathrin interaction.The site 4 mutation R25A selectively disrupted $\\beta$ -arrestin-1/clathrin interaction after somatostatin or CCK-8s application and the site 5 mutation R7A impaired the $\\beta$ -arrestin-1/SRC complex formation after somatostatin stimulation.(a-c) Representative western bltingsfromatlastteexperimentsareootheleftandtheatistsfroatlasttidepedentexperietesowoti $^ { \\star } P < 0 . 0 5$ $^ { \\star \\star } P < 0 . 0 1 ;$ thefectsofmutantswerecomparedwiththewildtype.(d)Aproposedmodelforarrestinsignalingencodedbythephospho-C-tail ftheGPCR.oebidinetisirtsiuteLfteat-d speifiraaliddsfai GPCR signalling. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "More importantly, $^ { 1 9 } \\mathrm { F }$ -NMR spectra at other F2Y-incorporated sites provide direct biophysical evidence for the presence of at least three unique active $\\beta$ -arrestin-1 structural states corresponding to different phospho-binding patterns.The change at F277 is specific to GRK6pp (phospho pattern 1-5),the changes at the Y249 and L338 positions are specific to GRK2pp (phospho pattern 1-4-6-7) and the change at the Y209 position is unique to V2Rpp (phospho pattern-1-2-3-4-5-6-7) (Fig. 5b-d). By maintaining or disrupting the polar core of $\\beta$ -arrestin-1,specific interactions at phosphate-binding site 4 may play a causative role in discriminating among distinct arrestin conformations induced by the binding of different GRKpps.Accordingly, the change in $^ { 1 9 } \\mathrm { F }$ -NMR spectra at GRK2-specific sites but not GRK6-specific sites after clathrin binding,in combination with GST pull-down and cellular studies,further confirms the coupling of distinct arrestin structural states to selective arrestin functions (Figs $6 \\mathrm { a } - \\mathrm { b }$ 0 7 and 8a-c).Taken together,the experiments in our study elucidate a key step in the working mechanism of GPCRs; in particular,the phospho-barcode of the receptor is harboured in the phosphate-binding concave surface of $\\beta$ -arrestin-1 and translated by arrestin into specific structural states that direct distinct arrestin-mediated functions (Fig. 8d). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In addition to revealing the phospho-coding mechanism of the specific functions of $\\beta$ -arrestin-1, $^ { 1 9 } \\mathrm { F }$ -NMR spectroscopy enabled us to probe for dynamic and subtle conformational changes at specific F2Y-incorporated sites.For example，the $^ { 1 9 } \\mathrm { F }$ -NMR spectra reveal the presence of both slow and fast exchanges between different conformations at the Y21-F2Y and Y209-F2Y positions (Fig. $| 2 \\mathrm { a } , \\mathrm { b } , \\mathrm { e } )$ .Specifically，Y21-F2Y consists of two components after $\\mathrm { \\Delta V 2 R p p }$ binding, indicating the presence of two independent equilibria between locally different conformations in the presence of the $\\mathrm { \\Delta V 2 R p p }$ . Increasing the $\\mathrm { \\Delta V 2 R p p }$ concentration lead to the increased size of the upfield-shifted peak of F2Y-Y21 at position -135.22 (Fig. 2b and Supplementary Table 3). Moreover, the dose-response curve of V2Rpp-stimulated clathrin recruitment was directly correlated with the increased peak area of F2Y-Y21 at the -135.22 position，suggesting that the equilibriumat -135.22 represents an ‘active'arrestin conformation (Supplementary Fig.6). It is worth noting that Y21 forms a hydrophobic interaction with the F388 of the C-tail,which is important in maintaining the ‘three elements interaction'in the ‘inactive’arrestin structure (Supplementary Fig.5c).In the previous model, binding of the phosphorylated receptor C-tail removed the proximal C-terminal region of $\\beta$ -arrestin. Consistent with this hypothesis,the paramagnetic relaxation experiment at Y21 suggested that V2Rpp binding induced greater solvent accessibility at the -135.22 equilibrium position (Supplementary Fig. 5). Similar to the binding of V2Rpp, the binding of GRK2App and GRK2Bpp to $\\beta$ -arrestin-1 induced two independent equilibria at the Y21-F2Y position (Fig.4a). The population of active peaks (at the -135.05 position) induced by GRK2pp binding was smaller than that caused by V2Rpp binding,consistent with the lower efficacy of GRK2pp in promoting clathrin recruitment than that of V2Rpp (Fig.3d). Interestingly,even in the saturated V2Rpp concentration，half of the F2Y-Y21 of $\\beta$ -arrestin still presented as an ‘inactive’ structural state (peak at $- 1 3 0 . 1 8 )$ (Fig.2b).This result indicated the possibility that not all $\\beta$ -arrestin-1 proteins are activated during the signal transduction, or that the complete activation of $\\beta$ -arrestin-1 requires other activating elements,such as binding of the receptor transmembrane core. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In contrast to visual arrestin that forms oligomersin physiological conditions, the full-length $\\beta$ -arrestin-1 is mainlya monomerinsolution44.However,atruncated versionof $\\beta$ -arrestin-1 (1-382)exists as mixtures of monomer and dimer, which implies that the oligomerization state of $\\beta$ -arrestin-1might beregulated under appropriate physiological conditions45. Among the 17 F2Y-incorporated positions of $\\beta$ -arrestin-1 in the present study,the Y249 and L338 positions are in the vicinity of the dimer interface of the truncated $\\beta$ -arrestin-1 (1-382) (Supplementary Fig. 18).Although our NMR experiments used full-length $\\beta$ -arrestin-1,which is unlikely to form dimers during data collection, the observed $^ { 1 9 } \\mathrm { F }$ -NMR changes at these positions may reflect the fact that the binding of phosphopeptide or clathrin can change the oligomerization propensity of $\\beta$ -arrestin-1 under specific cellular conditions.Recently, the functional importance of homodimerization and heterodimerization has been extensively studied at the receptor level38,46,47.Although the functional relevance of arrestin oligomers remains relatively unknown, oligomeric forms of visual arrestins have been observed under physiological conditions and studies have found that $\\beta$ -arrestins concentrate in specific subcellularlocalizations to allow for dimer formation after receptor activation48-50.The formationof $\\beta$ -arrestin oligomers might provide a platform for the binding of receptor dimers or other downstream effectors,including ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Mdm2 or other proteins50,leading to the formation of higherorder functional complexes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we have clarified a longstanding question regarding the receptor phospho-coding mechanism that dictates selective $\\beta$ -arrestin-1 structural features and signalling. The phosphate-binding sites along the N terminus of $\\beta$ -arrestin-1 are arranged ina shape that is similar to the holes ina flute and arrestin moves differently according to the instructions of the phospho-receptor ‘fingers'.Whereas a receptor-encoded 1-4-6-7 pattern determines the specific $\\beta$ -arrestin-1 conformation for clathrin recruitment,a different receptor ‘tune,'1-5,provides the SRC signalling order (Fig. 8d). Moreover,the $\\mathrm { ~ N ~ }$ terminus of $\\beta$ -arrestin-1 harbours three potential additional phosphatebinding sites (A1-A3; Supplementary Fig.19). The combination of all phosphate-binding sites in a single arrestin allows the expression of more than 1,0o0 patterns $( 2 ^ { \\ Y _ { 0 } } - 1 = 1 , 0 2 3 )$ that allow it,in theory,to produce a plethora of arrestin conformations, facilitating numerous downstream protein interactions51.Most of the phosphorylation binding sites of $\\beta$ -arrestin-1 consist of conserved residues，indicating their common roles in the recognition of phospho-barcodes in different arrestin members and across different species (Supplementary Figs 2 and 3). Activation of the same $\\mathrm { { } ^ { \\circ } G }$ subtype protein-coupled GPCR' can have distinct functions in cells.Although some functional differences are attributed to the duration and concentration of increased levelsofsecond messengers52，many functional differences__in receptors may result from distinct arrestin functions53,54.The revealedabilityofarrestintoread and translatevariousphosphorylationpatternsthroughits phosphate-binding concave surface contributes to the diverse functions of more than 80o GPCRs present in the human genome. The phospho-receptor C-tail may work together with different ligand-induced receptor conformations and orchestrate the breadth of GPCR signalling complexity. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Reagents.The monoclonal anti-phospho-SRC (pTyr-4l6,2101),anti-GST (2622)and anti-YFP (2555) antibodies were from Cell Signaling. The anti-c-SRC (60315-1-Ig),anti-GRK2 (13990-1-AP)and anti-GRK6 (11439-1-AP) antibodies were from Proteintech (Chicago,USA).The monoclonal anti-Flag M2 antibody (F3165)were purchased from Sigma.The anti- $\\cdot \\beta 2 \\mathrm { A R } ( \\ s c - 5 6 9 )$ ,anti-haemagglutinin (HA)(sc-7392) and anti-Clathrin (sc-12734) antibodies were from Santa Cruz. Most of the antibodies are used at a l:1,ooo dilution,except for anti-clathrin antibodyat1:5oo.The HA andFlag beadswere purchased from Sigma. Glutathione-Sepharose 4B and Ni-NTA Agarose were from Amersham Pharmacia Biotech.V2Rpp and GRK2App were synthesized by the Tufts University core facility (Boston, USA).GRK2Bpp,GRK6pp and PKApp were synthesized by China Peptides Co., Ltd.(Shanghai, China). The monoclonal anti- $\\cdot \\beta$ -arrestin-1 antibody was a generous gift from Dr Lefkowitz at Duke University.All of the other reagents were from Sigma. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Constructs. The pcDNA3.0-Flag-β2AR (Flag-β2AR), $\\beta$ -arrestin-1-YFP, pcDNA3.1-Luc- $\\cdot \\beta$ -arrestin-2-YFP and pCDNA3.1-Clathrin constructs were generous gifts from Dr Lefkowitz at Duke University21,32.The chicken c-SRC (residues 87-531,containing SH3,SH2 and catalytic domains) was a generous gift from Dr Zhong-yin Zhang at Indiana University and John Kuriyan at UC Berkeley5,56.For F2Y-incorporated proteinexpression,the pEVO-F2YRS plasmid used has been described previouslyl9.To monitor the $\\beta$ -arrestin-1 conformational change,the BRET sensor for $\\beta$ -arrestin-1 (pcDNA3.1-Luc $\\cdot \\beta$ 1 arrestin-1-YFP) was created by in-Fusion of the $\\beta$ -arrestin-1-YFP plasmid with the pcDNA3.1-Luc- $\\cdot \\beta$ -arrestin-2-FPconstruct57,58For $E$ coli expression, the full-length wild-type complementary DNAs of bovine $\\beta$ -arrestin-1 was subcloned into the NdeI/XhoI sites of the pET22b vector with the C-terminal His tag.DNA encoding residues 1-494 of human clathrin and chicken c-SRC (residues 87-531, containing SH3,SH2 and catalytic domains) were sub-cloned into a PGEX-6P1 expression vector with an N-terminal GST tag for E.coli expression and GST pull-down assays.The $\\beta$ -arrestin-1 mutations Y21TAG,Y63TAG,F75TAG, T136TAG,Y249TAG,F277TAG,L338TAG,L379TAG,F75Y,T136Y,F277Y, L338Y and L379Y were generated using the Quikchange mutagenesis kit (Stratagene).Al of the constructs and mutations were verified by DNA sequencing. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cell culture,siRNA and transfection.HEK 293 cells were attained from ATCC and cultured at $3 7 ^ { \\circ } \\mathrm { C }$ and $5 \\% \\mathrm { C O } _ { 2 }$ in DMEM containing $1 0 \\%$ （204号 $\\mathbf { \\Pi } ( \\mathbf { v } / \\mathbf { v } )$ fetal bovine serum and penicillin-streptomycin $( 5 , 0 0 0 \\mathrm { I U l ^ { - 1 } } ;$ .GRK2 or GRK6 expression was silenced in HEK 293 cells using a specific small interfering RNA (siRNA) duplex. The GRK2 target sequences were $5 ^ { \\prime }$ -AAGAAGUACGAGAAGCUGGAG ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ and the GRK6 target sequences were $5 ^ { \\prime }$ -AACAGUAGGUUUGUAGUGAGC- $3 ^ { \\prime }$ as previously described5,59.60. Cells were transfected with GRK siRNA,control siRNA (a non-targeting 25-nt siRNA) or other plasmids by Lipofectamine 20o0 according to the manufacturer's instructions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Western blotting.To examine the roles of GRK2 and GRK6 in $\\beta 2$ -AR-mediated SRC activation,selective siRNA towards specific GRK and Flag $\\beta 2 \\mathrm { A R }$ plasmids were co-transfected into HEK-293 cells.After $2 4 \\mathrm { h }$ of transfection,the cells were starved for $^ { 4 \\mathrm { h } }$ and then stimulated with ISO $( 1 0 \\mu \\mathrm { M } )$ at the indicated times. Subsequently,the cells were washed three times with cold PBS and then collected in coldlysis buffer( $\\mathrm { 5 0 m M }$ Tris pH 7.5, $1 5 0 \\mathrm { m M N a C l }$ $1 \\%$ Triton X-100, $1 \\mathrm { m M }$ EGTA,1mM ${ \\mathrm { N a } } _ { 3 } { \\mathrm { V O } } _ { 4 } .$ （ $5 0 \\mathrm { m M N a F }$ 5 $0 . 2 5 \\%$ （204号 $\\mathrm { ( m / v ) }$ sodium deoxycholate, $1 0 \\%$ （20 $\\mathbf { \\Pi } ( \\mathbf { v } / \\mathbf { v } )$ （204号 glycerol,a protease inhibitor cocktail tablet and $5 \\mathrm { m M }$ IAA).The cell lysates were centrifuged for $1 5 \\mathrm { m i n }$ after $3 0 \\mathrm { m i n }$ of end-to-end rotation at $4 ^ { \\circ } \\mathrm { C }$ Lysate protein concentrations were determined using the Bradford protein assay.Equal amounts of lysate proteins were subjected to SDS-PAGE and western blotting. SRC-416 phosphorylation was detected using a specific antibody.The original pictures for uncropped gels are shown in Supplementary Figs 20 and 21. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Co-immunoprecipitation.To examine the effects of $\\beta$ -arrestin-1 mutants on ISO-induced $\\beta 2 \\mathrm { A R } / \\beta$ -arrestin-1 complex formation,the co-immunoprecipitation experiment was performed61,62.In detail, HEK293 cels were co-transfected with Flag-β2AR and $\\beta$ -arrestin-1-YFP mutants.Twenty-four hours after transfection, the cells were starved for $\\boldsymbol { 4 \\mathrm { h } }$ and then stimulated with ISO $( 1 0 \\mu \\mathrm { M } )$ for $1 0 \\mathrm { m i n }$ The cell lysates were subjected to immunoprecipitation using anti-FLAG beads incubated overnight at ${ 4 } ^ { \\circ } \\mathrm { C } .$ Immune complexes were analysed by western blotting with specific antibodies.The associated $\\beta$ -arrestin 1-YFP was detected using an anti-YFP antibody. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To examine the effects of $\\beta$ -arrestin-1 mutants on ISO,CCK-8s or somatostatin induced clathrin $\\beta$ -arrestin-1 or $\\mathrm { { S R C / \\beta } }$ -arrestin-1 complex formation downstream of ${ \\mathrm { ~ } } \\mathrm { { \\ B } } 2 { \\mathrm { A R } } ,$ CCKAR and SSTR2;HEK293 cells were co-transfected withFlag-β2AR/HA- $\\beta$ -arrestin-1,Flag-CCKAR/HA $\\beta$ -arrestin-1 orFlag-SSTR2/ HA- $\\beta$ -arrestin-1,respectively.Different HA $\\cdot \\beta$ -arrestin-1 mutations were used to detect the contribution of the phosphate-binding sites of $\\beta$ -arrestin-1 during the arrestin/clathrin or arrestin/SRC complex formatin.Forty-eight hours after transfection,the cells were starved for $^ { 8 \\mathrm { h } }$ and then stimulated with ISO ${ \\bf \\nabla } _ { [ 0 \\mu \\bf { M } }$ for activation of $\\beta 2 \\mathrm { A R } )$ ，CCK-8s $( 2 \\mu \\mathrm { M }$ foractivation of CCKAR)or somatostatin L $\\mathrm { i } \\mu \\mathrm { M }$ for activation of SSTR2) for $1 5 \\mathrm { m i n }$ .The cell lysates were subjected to immunoprecipitation using anti-HA beads incubated overnight at $4 ^ { \\circ } \\mathrm { C }$ Immune complexes were analysed by western blotting with specific antibody towards clathrin or pSRC4l6,respectively.Representative western blots from at least three experiments are shown in Fig.8. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Confocal microscopy. Confocal microscopy experiment was performed3o.The plasmids encoding the $\\beta$ -arrestin-1 BRET biosensor(Luc $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ -arrestin-1-YFP) or $\\beta$ -arrestin-1-YFP mutants were transiently co-transfected with Flag-β2AR in HEK-293 cells.Twenty-four hours after transfection,the cells were plated on fibronectin-coated, $3 5 \\mathrm { - m m }$ ，glass-bottom plates.After $^ { 4 \\mathrm { h } }$ of starvation,the cells were stimulated with ISO $( { 1 0 } \\mu { \\mathrm { M } } )$ for $1 0 \\mathrm { m i n }$ .The translocation of $\\beta$ -arrestin-1 was monitored by VT-Infinity Confocal Imaging System. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BRETassay. The plasmids Luc- $\\beta$ -arrestin-1-YFP,Flag- $\\cdot \\beta 2 \\mathrm { A R }$ and different siRNAs were transiently co-transfected in HEK-293 cells.Twenty-four hours after transfection,HEK-293 cells were distributed in fibronectin-coated 96-well microplates.Before the BRET assay,cells were washed three times with PBS and then cells were incubated with coelenterazine h (final concentration, ${ 5 \\mu \\mathrm { M } } )$ for 5 min. Subsequently,the cells were stimulated with $1 0 \\mu \\mathrm { M }$ ISO for $1 0 \\mathrm { m i n }$ and light emissionwas detected $4 6 0 { - } 5 0 0 \\mathrm { n m }$ for Luc and $5 1 0 { - } 5 5 0 \\mathrm { n m }$ foryellow fluorescent protein (YFP))usinga multilabel reader(Mithras Luria Bertani 940;Berthold Technologies).The BRET signal was determined as the ratio of the light emitted by YFP and the light emitted by Luc. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Expression and purification of native $\\mathfrak { \\textbf { \\beta } }$ arrestin-1.TheplasmidpET22b- $\\cdot \\beta$ arrestin 1 was transformed into BL21 E.coli.The transformed BL21 cells were cultured and induced with $0 . 3 \\mathrm { m M }$ isopropyl- $\\cdot \\beta$ -D-thiogalactoside (IPTG) at an $\\mathrm { O D } 6 0 0 \\mathrm { n m }$ of 0.8.After growing overnight at $2 5 ^ { \\circ } \\mathrm { C }$ ,the cells were harvested, re-suspended in lysis buffer $2 0 \\mathrm { \\dot { m } M }$ Tris-HCl pH 8.0, $1 5 0 \\mathrm { m M N a C l } _ { , }$ and lysed by sonication.The bacterial lysate was next centrifuged and the supernatant was purified by Ni-NTA affinity chromatography and Superdex 2Oo according to the manufacturer's instructions (GE Healthcare). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Expression and purification of F2Y-incorporated proteins.For the expression of $\\beta$ -arrestin-1 F2Y proteins,pEVOL-F2YRS was co-transformed with different pET22b- $\\beta$ -arrestin-1 TAG mutations into BL21 (DE3).A single colony was grown overnight at $3 7 ^ { \\circ } \\mathrm { C }$ in Luria Bertani (LB) medium.Five litres of the transformed cells were then induced with $0 . 3 \\mathrm { m M }$ IPTG and $0 . 0 2 \\%$ L-arabinose at an $\\mathrm { O D } 6 0 0 \\mathrm { n m }$ of 1.0 in the presence of $0 . 5 \\mathrm { m M } \\mathrm { \\ F } 2 \\mathrm { Y }$ .After growing overnight at $2 5 ^ { \\circ } \\mathrm { C }$ the cells were harvested and resuspended in buffer containing $2 0 \\mathrm { m M }$ Tris-HCl $\\mathrm { p H } 8 . 0$ and $1 5 0 \\mathrm { m M } \\mathrm { N a C l }$ .The bacterial lysate was centrifuged and the supernatant was purified by Ni-NTA affinity chromatography and gel filtration chromatography. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Trypsin digestionand MS/MS analysis. The $\\beta$ -arrestin-1-F2Y protein was subjected to electrophoresis and the protein band was cut into small plugs and washed twice in $2 0 0 \\mu \\mathrm { l }$ distilled water for $1 0 \\mathrm { m i n }$ .The gel bands were dehydrated in $1 0 0 \\%$ acetonitrile for $1 0 \\mathrm { m i n }$ and dried in a Speedvac (Labconco) for $\\sim 1 5 \\mathrm { { m i n } }$ Disulfide bonds were reduced by adding $1 0 \\mu \\mathrm { l }$ of $1 0 0 \\mathrm { m M }$ dithiothreitol (DTT) and subsequently alkylated by $4 0 \\mathrm { m M }$ IAA, $2 5 \\mathrm { m M }$ $\\mathrm { N H _ { 4 } H C O _ { 3 } }$ for $4 5 \\mathrm { m i n }$ at room temperature in the dark.The sample was then mixed with trypsin by a ratio of 100:1 in Tris buffer and digested at $3 7 ^ { \\circ } \\mathrm { C }$ for $1 2 \\mathrm { h }$ .Digestion was stopped by adding formic acid to $1 \\%$ final concentration.Digested samples were purified and desalted, and re-dissolved in $3 0 \\mu \\mathrm { l } \\ 5 0 \\%$ （20 $\\mathrm { C H 3 C N } / 0 . 1 \\%$ CF3COOHbuffer before MS/MS analysis. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "LC-MS/MS analysis was performed using a Thermo Finnigan LTQ linear ion trap mass spectrometer in line with a Thermo Finnigan Surveyor MS Pump Plus HPLC system.The peptides generated by trypsin digestion were loaded onto a trap column (300SB-C18, $5 \\times 0 . 3 \\mathrm { m m }$ $5 \\mu \\mathrm { m }$ particle) (Agilent Technologies,Santa Clara,CA),which was connected through a zero dead volume union to the self-packed analytical column (C18, $1 0 0 \\mu \\mathrm { m }$ i $. \\mathrm { d } \\times 1 0 0 \\mathrm { m m }$ 5 $3 \\mu \\mathrm { m }$ particle) (SunChrom,Germany).The peptides were then eluted over a gradient ( $0 \\mathrm { - } 4 5 \\%$ B in $5 5 \\mathrm { m i n }$ ， $4 5 \\mathrm { - } 1 0 0 \\%$ Bin $1 0 \\mathrm { m i n }$ ，where $\\mathrm { B } = 8 0 \\%$ Acetonitrile, $0 . 1 \\%$ formic acid)at a flow rate of $5 0 0 \\mathrm { n l } \\mathrm { m i n } ^ { - 1 }$ and introduced online into the linear ion trap mass spectrometer (ThermoFisher Corporation, San Jose,CA）using nano electrospray ionization.MS data were analysed by Bioworks 3.2 software. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Expression and purification of clathrin and SRC 3D proteins.GST-tagged Clathrin or SRC 3D Protein was expressed in BL21 $E$ coli.In brief,51 of GST-tagged Clathrin or SRC 3D-transformed $E .$ coli was cultured,induced by $0 . 3 \\mathrm { m M }$ IPTG and pelleted by centrifugation. The cell pellets were resuspended in $5 0 \\mathrm { m l }$ of a GST buffer containing $2 5 \\mathrm { m M }$ Tris-HCl at $\\mathrm { \\ p H \\ 8 . 0 }$ ,150 mMNaCl, $0 . 5 \\%$ （204 Triton X-100, $5 \\%$ glycerol, $2 \\mathrm { m M }$ EDTA and $1 \\mathrm { m M }$ DTT.The bacterial lysate was centrifuged and the supernatant was collected and incubated with $2 \\mathrm { m l }$ of glutathione-Sepharose 4B for $^ { 2 \\mathrm { h } }$ .The beads were washed three times and the bound GST-Clathrin protein or GST-SRC protein was eluted with $1 0 \\mathrm { m M }$ GSH for GST pull-down experiments.To acquire clathrin for phospho-peptide/ $^ { \\prime } { \\beta }$ -arrestin1/clathrin complex formation,GST-Clathrin bound to GST beads was mixed with HRV-3C protease for $^ { 1 2 \\mathrm { h } }$ at ${ 4 ^ { \\circ } \\mathrm C }$ .The cleaved protein was concentrated to $5 0 0 \\mu \\mathrm { l }$ and subjected to gel filtration using a Superdex 2Oo column (GE Healthcare) before beingadded to the phosphopeptide/ $\\beta$ -arrestin-1 complex. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Clathrin/SRC-binding assay.Binding of clathrin or SRC to $\\beta$ -arrestin-1 was performed as previously described7,63,64,In detail, $3 0 0 { \\mathrm { n M } }$ wild-type $\\beta$ -arrestin-1 from F2Y incorporated proteins were first mixed with specific phosphopeptides and incubated in binding buffer $2 0 \\mathrm { m M }$ Tris-HCl, $\\mathrm { \\ p H \\ 8 . 0 }$ ，150 mMNaCl, $2 \\mathrm { m M }$ （20 EDTA, $1 \\mathrm { m M }$ DTT)at room temperature for $3 0 \\mathrm { m i n }$ .After the incubation, $1 0 \\mu \\mathrm { M }$ GST-clathrin or GST-SRC protein was added and incubated for another1hat room temperature.Subsequently, $1 0 \\mu \\mathrm { l }$ of GST beads were added to the mixture. After $^ { 2 \\mathrm { h } }$ of end-to-end rotation at ${ 4 } ^ { \\circ } { \\mathrm { C } } ,$ the beads were collected and washed six times with cell lysis buffer.After removing the supernatant in the final wash,the samples were re-suspended in $2 \\times \\ \\mathrm { { S D S } }$ loading buffer and boiled for $1 0 \\mathrm { m i n }$ .The arrestin/clathrin or arrestin/SRC complexes were analysed by western blotting.For each experiment,a western blot representative of at least three independent experiments is shown in Figures. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "NMR experiments.To detect phosphopeptide-induced arrestin conformational changes, $5 0 \\mu \\mathrm { M }$ $\\beta$ -arrestin-1 F2Y proteins were mixed with or without a threefold molar ratio of phosphopeptides(V2Rpp,GRK2App,GRK2Bpp,GRK6pp or PKApp)and incubated in binding buffer ( $2 0 \\mathrm { m M }$ Tris-HCl pH 8.0,150 mMNaCl, $1 0 \\%$ $\\mathrm { D } _ { 2 } \\mathrm { O } _ { \\ell } ^ { \\cdot }$ with end-to-end rotation at room temperature for $3 0 \\mathrm { m i n }$ .To detect the arrestin conformational change after clathrin binding,an equal molar of clathrin was added to the arrestin or arrestin/phosphopeptide complex and incubated for another $3 0 \\mathrm { m i n }$ .The protein samples were then subjected to $^ { 1 9 } \\mathrm { F }$ -NMR experiments. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For the titration experiment, $5 0 \\mu \\mathrm { M }$ （204号 $\\beta$ -arrestin-1-Y21-F2Y or $\\beta$ -arrestin-1-Y63- F2Y proteins were mixed at different ratios (0.3:1,1:1,3:1 and 9:1) of the V2Rpp andincubated in bindingbuffer( $2 0 \\mathrm { m M }$ Tris-HCl pH 8.0, $1 5 0 \\mathrm { m M }$ NaCl, $1 0 \\%$ ${ \\bf D } _ { 2 } \\mathrm { O } ) _ { , } ^ { \\backslash }$ at room temperature for $3 0 \\mathrm { m i n }$ .The proteins were then subjected to 19F NMR experiments. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "All NMR data were collected using an Agilent OD2 600 spectrometer fitted with a $5 \\mathrm { - m m }$ broad band probe. The $^ { 1 9 } \\mathrm { F } ^ { 9 0 ^ { \\circ } }$ pulse lengths were $9 . 9 \\mu \\mathrm { s }$ and the spectra were typically obtained using 15,ooo scans and a recovery delay of 1s.Data were processed using $1 0 \\mathrm { - H z }$ Lorentzian line broadening and were referenced to the internal TFA standard $( - 7 6 . 5 \\mathrm { p . p . m . } )$ .All of the spectra were recorded at $2 5 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1.Liu,J.J.,Horst,R.,Katritch,V.,Stevens,R.C.& Wuthrich,K.Biased signaling pathways in beta2-adrenergic receptor characterized by 19F-NMR. Science 335, 1106-1110 (2012).   \n2.Shukla,A.K.etal.VisualizationofarestnrecruitmentbyaG-protencoupld receptor. Nature 512,218-222 (2014).   \n3. Strachan,R.T.etal.Divergent transducer-specificmolecular efcacies generate biased agonism at a G protein-coupled receptor (GPCR).J. Biol. Chem. 289, 14211-14224 (2014).   \n4. Lefkowitz,R.J.& Shenoy,S.K. Transduction of receptor signals by beta-arrestins. Science 308,512-517 (2005).   \n5.Nobles,K.N.et al. Distinct phosphorylation sites on the beta(2)-adrenergic receptor establish a barcode that encodes differential functions of beta-arrestin. Sci. Signal. 4,ra51 (2011).   \n6. Hara,M.R.et al. A stress response pathway regulates DNA damage through beta2-adrenoreceptors and beta-arrestin-1.Nature 477,349-353 (2011).   \n7．Xiao,K.et al.Global phosphorylation analysis of beta-arrestin-mediated signaling downstream of a seven transmembrane receptor (7TMR).Proc. Natl Acad. Sci.USA 107,15299-15304 (2010).   \n8.Goodman,Jr O.B.et al. Beta-arrestin acts as a clathrin adaptor in endocytosis of the beta2-adrenergic receptor. Nature 383,447-450 (1996).   \n9.Perry,S.J. et al. Targeting of cyclic AMP degradation to beta 2-adrenergic receptors by beta-arrestins.Science 298,834-836 (2002).   \n10.Beaulieu,J. M.et al.An Akt/beta-arrestin 2/PP2A signaling complex mediates dopaminergic neurotransmission and behavior. Cell122,261-273 (2005).   \n11.Shukla,A.K. et al. Structure of active beta-arrestin-1 bound to a G-protein-coupled receptor phosphopeptide. Nature 497,137-141 (2013).   \n12.Xiao,K.et al. Functional specialization of beta-arrestin interactions revealed by proteomic analysis.Proc.Natl Acad.Sci. USA104,12011-12016 (2007).   \n13.Rahmeh,R.et al. Structural insights into biased G protein-coupled receptor signaling revealed by fluorescence spectroscopy.Proc.Natl Acad.Sci. USA109, 6733-6738 (2012).   \n14.Busillo,J.M.et al. Site-specific phosphorylation of CXCR4 is dynamically regulated by multiple kinases and results in differential modulation of CXCR4 signaling.J. Biol. Chem.285,7805-7817 (2010).   \n15.Butcher,A.J.et al. Concomitant action of structural elements and receptor phosphorylation determines arrestin-3 interaction with the free fatty acid receptor FFA4.J. Biol. Chem.289,18451-18465 (2014).   \n16.Butcher,A.J.etalDirentialG-roteioupledrecptrpspaion provides evidence for a signaling bar code.J.Biol. Chem.286,1i506-11518 (2011).   \n17.Morgan,D.J.et al.Mutation of putative GRK phosphorylation sites in the cannabinoid receptor 1(CBiR) confers resistance to cannabinoid tolerance and hypersensitivity to cannabinoids in mice.J. Neurosci.34,5152-5163 (2014).   \n18.Delom,F.& Fessart,D.Roleof phosphorylation inthecontrol ofclathrinmediated internalization of GPCR.Int.J. Cell Biol.2011,246954 (2011).   \n19.Li,F.et al.A genetically encoded 19F NMR probe for tyrosine phosphorylation. Angew. Chem.Int.Ed.Engl.52,3958-3962 (2013).   \n20.Liu, C. C.& Schultz,P.G.Adding new chemistries to the genetic code. Annu. Rev.Biochem.79,413-444 (2010).   \n21.Kotula,J.W.et al. Targeted disruption of beta-arrestin 2-mediated signaling pathways by aptamer chimeras leads to inhibition of leukemic cell growth. PLoS ONE 9,e93441 (2014).   \n22. Patel, D.J.&Wang,ZReadoutofepigeeticmodifcationsAnu.Rev Biochem.82,81-118 (2013).   \n23.Kim,Y.J. et al. Crystal structure of pre-activated arrestin p44. Nature 497, 142-146 (2013).   \n24. Ren,X. R.etal. Diferent G protei-coupledreceptor kinases governGprotein and beta-arrestin-mediated signaling of V2 vasopresin receptor.Proc. Natl Acad. Sci. USA 102,1448-1453 (2005).   \n25.Kim,J.et al.Functional antagonism of different G protein-coupled receptor kinases for beta-arrestin-mediated angiotensin I receptor signaling.Proc.Natl Acad. Sci.USA 102,1442-1447 (2005).   \n26.Talbot,J.,Joly,E.,Prentki,M.& Buteau,J. beta-Arrestinl-mediated recruitment of c-Src underlies the proliferative action of glucagon-like peptide-1 in pancreatic beta INS832/13 cells.Mol. Cell.Endocrinol. 364,65-70 (2012).   \n27.Buchanan,F. G.et al. Role ofbeta-arrestin 1 in the metastatic progression of colorectal cancer.Proc.Natl Acad.Sci.USA 103,1492-1497 (2006).   \n28.Coureuil, M.et al. Meningococcus Hijacks a beta2-adrenoceptor/beta-Arrestin pathway to cross brain microvasculature endothelium.Cell 143,1l49-1160 (2010).   \n29.Barlic,J.et al. Regulationof tyrosine kinaseactivation and granule release through beta-arrestin by CXCRI.Nat.Immunol.1,227-233 (2000).   \n30.Luttrel,L.M.et al. Beta-arrestin-dependent formation of beta2 adrenergic receptor-Src protein kinase complexes. Science 283,655-661 (1999). facilitated by formationofa beta-arrestin-dependent scaffolding complex. Proc.Natl Acad.Sci. USA97,11086-11091 (2000).   \n32.Violin,J.D.,Ren,X.R.& Lefkowitz,R.J.G-protein-coupled receptor kinase specificity for beta-arrestin recruitment to the beta2-adrenergic receptor revealed by fluorescence resonance energy transfer.J. Biol. Chem. 281, 20577-20588 (2006).   \n33.Gurevich,V.V.& Gurevich,E.V.The molecular acrobatics of arrestin activation.TrendsPharmacol.Sci.25,105-111(2004).   \n34.Kang,D.S.et al. Structure of an arrestin2-clathrin complex reveals a novel clathrin binding domain that modulates receptor traficking. J. Biol. Chem. 284, 29860-29872 (2009).   \n35.Kahsai,A.W.et al.Multiple ligand-specific conformations of the beta2 adrenergic receptor. Nat. Chem. Biol.7,692-700 (2011).   \n36.Nygaard, R.et al. The dynamic process of beta(2)-adrenergic receptor activation. Cell 152,532-542 (2013).   \n37.Bokoch,M.P.et al. Ligand-specific regulation of the extracelllar surface of a G-protein-coupled receptor.Nature 463,108-112 (2010).   \n38.Xue,L.et al. Major ligand-induced rearrangement of the heptahelical domain interface in a GPCR dimer.Nat.Chem.Biol.11,134-140 (2015).   \n39.Damian,M.et al. Ghrelin receptor conformational dynamics regulate the transition from a preassembled to an active receptor:Gq complex.Proc. Natl Acad. Sci.USA 112,1601-1606 (2015).   \n40.Kim,M.et al. Conformationof receptor-bound visual arrstin.Proc.Natl Acad. Sci. USA 109,18407-18412 (2012).   \n41.ZhuangetalIentofisinctsti-etsigt diffrent functional forms of rhodopsin.Proc.Natl Acad.Sci. USA 110, 942-947 (2013).   \n42. Charest,P.GTerilln,.&Bouvier,M.Monitorigagonist-proted conformational changes of beta-arrestin in living cels by intramolecular BRET. EMBO Rep.6,334-340 (2005).   \n43.Szczepek, M.et al. Crystal structure of a common GPCR-binding interface for G protein and arrestin.Nat. Commun.5,4801 (2014).   \n44.Milano,S.K,Pace,HCKi,Y.reer,C.&Benvic,J.can functions of arrestin-2 revealed by crystal structure and mutagenesis. Biochemistry 41,3321-3328 (2002).   \n45.Han,M., Gurevich,V.V., Vishnivetskiy,S.A,Sigler,P.B.& Schubert, C. Crystal structure of beta-arrestin at 1.9A: possible mechanism of receptor binding and membrane Translocation. Structure 9,869-88o (2001).   \n46.Bellot,M.et al. Dual agonist occupancy of AT1-R-alpha2C-AR heterodimers results in atypical Gs-PKA signaling.Nat.Chem. Biol.11,271-279 (2015).   \n47.Bouvier,M.,Heveker,N.,Jockers,R.,Marullo,S.& Millgan,G.BRETanalysis of GPCR oligomerization: newer does not mean better. Nat. Methods 4,3-4 author reply 4 (2007).   \n48.Hirsch,J.A.hubert,C.,Gurevich,V.V.&iglerP.B.The2.8tal structure of visual arrestin:a model for arrestin's regulation.Cell97,257-269 (1999).   \n49.Schubert, C.et al. Visual arrestin activity may be regulated by self-association. J. Biol. Chem.274,21186-21190 (1999).   \n50.BoularanCetalBeta-arrestilgomerzatiotrolsthe Mdm2-dependent inhibition of p53.Proc.Natl Acad.Sci. USA 104, 18061-18066 (2007).   \n51.Shenoy,S.K.&Lefkowitz,R.J. Beta-arrestin-mediated receptor trafficking and signal transduction. Trends Pharmacol. Sci.32,521-533 (2011).   \n52.De Marinis,Y. Z. et al. GLP-1 inhibitsand adrenaline stimulates glucagon release by differential modulation of N-and L-type $\\mathrm { C a } 2 +$ channel-dependent exocytosis. Cell Metab.11,543-553.   \n53.Shukla,A.K., Xiao,K.& Lefkowitz,R.J. Emerging paradigms of beta-arrestindependent seven transmembrane receptor signaling. Trends Biochem. Sci. 36, 457-469 (2011).   \n54.Reiter,E.,Ahn,S., Shukla,A.K.& Lefkowitz,R.J.Molecular mechanism of beta-arrestin-biased agonism at seven-transmembrane receptors.Annu.Rev. Pharmacol. Toxicol. 52,179-197 (2012).   \n55.Levinson,N.M.et al. Structural basis for the recognition of c-Src by its inactivator Csk.Cell 134,124-134 (2008).   \n56.Yu,X.etal.Structure,ibitorndregulatorymechansmofLy a lymphoid-specific tyrosine phosphatase implicated in autoimmune diseases. Proc.Natl Acad.Sci.USA 104,19767-19772 (2007).   \n57.Shukla,A.K.etal. Distinctconformationalchanges inbeta-arrstinreport biased agonism at seven-transmembrane receptors.Proc.Natl Acad.Sci. USA 105,9988-9993 (2008).   \n58.Charest,P.G,eillo,S.&ouvier,.oitoringagnistproted conformational changes of beta-arrestin in living cells by intramolecular BRET. EMBO Rep.6,334-340 (2005).   \n59.Heitzler,D.et al. Competing G protein-coupled receptor kinases balance G protein and beta-arrestin signaling.Mol. Syst.Biol.8,590 (2012).   \n60.Chen, W.et al. Activity-dependent internalizationof smoothened mediated by beta-arrestin 2 and GRK2. Science 306,2257-2260 (2004).   \n61.Wang,H.M.et al.A stress response pathway in mice upregulates somatostatin level and transcription in pancreatic delta cells through Gs and beta-arrestin 1. Diabetologia 57,1899-1910 (2014).   \n62.Wang,H.M.et al.The catalytic region and PEST domain of PTPN18 distinctly regulate the HER2 phosphorylation and ubiquitination barcodes.Cell Res. 24,   \n1067-1090 (2014).   \n63.Xiao,K.et al.Activation-dependent conformational changes in {beta}-arrestin 2.J.Biol. Chem.279,55744-55753 (2004).   \n64.Nobles,K.N.et al.The active conformation of beta-arrestinl:direct evidence for the phosphate sensor in the N-domain and conformational differences in the active states of beta-arrestinsl and -2.J. Biol.Chem.282,21370-21381 (2007). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr Dang-sheng Li for stimulating discussions and Dr Xin Xie for critical reading of the manuscript.We acknowledge support from the National Key Basic Research Program of China (2012CB910402 to J.-P.S.,2015CB856203 to J.-Y.W.and 2013CB967700 to X.Y.),the National Natural Science Foundation of China (2132521l to J.-Y.W.,31271505 to J.-P.S.and 31370016 to F.-H.L.),the Shandong Natural Science Fund for Distinguished Young Scholars (JQ201320 to X.Y.and JQ201517 to J.-P.S.),the Fundamental Research Fund of Shandong University (20l4JCo29 to X.Y.)and the Program for Changjiang Scholars and Innovative Research Team in University (IRT13028).We thank Ms Shan-shan Zang and Dr Xue-hui Liu of the Core Facility of Protein Research,Institute of Biophysics,Chinese Academy of Sciences,for their help in the NMR data collection,analysis and valuable discussion. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "J.-P.S.,J.-Y.W.and F.Y.designed all of the experiments.F.Y. purified both F2Y incorporated $\\beta$ -arrestin1and clathrin.F.Y.also functionallycharacterized $\\beta$ -arrestin-1,optimized, collected and analysed the $^ { 1 9 } \\mathrm { F }$ -NMR data and performed the BRET assay. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "K.-H.X.,F.Y.and F.Yi.performed the HDXMS experiments and designed key experiments.F.Y.and F.Yi. performed other mass spectrometry experiments.X.Y.made the arrestin,clathrin and SRC constructs,and designed and supervised all of the cellular assays. C.L., C.-X.Q.,F.-H.L.and D.F-.H. purified F2Y-incorporated $\\beta$ -arrestin-1,clathrin and SRC-3D.H.-M.W. performed the confocal microscopy and co-immunoprecipitation assays. Z.G.and H.-D.L.carried out the cellular studies. C.-L.T.initiated the $^ { 1 9 } \\mathrm { F }$ -NMR experiments.C.S.,J.-P.S.and F.Y.performed molecular dynamics and molecular modelling.J.-P.S.,J.-Y.W.and X.Y.supervised the overall project designand execution. F.Y.,X.Y.,H.-M.W.and J.-P.S.participated in data analysis and interpretation. J.-Y.W. conceived the F2Y incorporation and $\\mathrm { ^ { 1 9 } F }$ -NMR experiments.F.Y.,X.Y.andJ.-P.S.wrote the manuscript.All of the authors have seen and commented on the manuscript. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Additional information ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Information accompanies this paper at http://www.nature.com/ naturecommunications ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests:The authors declare no competing financial interests ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Reprints and permission information is available online at http://npg.nature.com/ reprintsandpermissions/ ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article:Yang,F.et al.Phospho-selective mechanisms of arrestin conformations and functions revealed by unnatural amino acid incorporation and $^ { 1 9 } \\mathrm { F }$ -NMR.Nat.Commun.6:8202 doi:10.1038/ncomms9202(2015). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license,visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 14
+    }
+]

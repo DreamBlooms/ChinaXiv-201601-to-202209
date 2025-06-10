@@ -1,0 +1,246 @@
+# 基于卫星遥感的祁连山及甘肃中部地区云宏观特征 ①
+
+宋琦明'²，张武，苏亚乔'，陈艳'，杨昆³，赵桂清²，曹刚4（1．兰州大学大气科学学院，半干旱气候变化教育部重点实验室,甘肃兰州730000;
+
+2．中国人民解放军95171部队，广东广州510000;
+
+3．中国人民解放军93886部队,新疆乌鲁木齐83001；4．中国酒泉卫星发射中心,甘肃 酒泉 735000)
+
+摘要：利用2007—2010年CloudSat和CALIPSO卫星遥感资料以及中国国家气象信息中心（CMDC)提供的地面降水资料(1996—2016年),对祁连山区、甘肃中部及石羊河流域的不同云类型宏观特征进行了分析。结果表明：各研究区域总云分数的季节变化较一致,较大值出现在春夏季，均超过 $7 0 \%$ 。总云分数的高值区主要集中在祁连山南坡,与降水量高值区分布一致。积状云云分数最大值出现在夏季,积状云降水频率高于层状云。云层以单层云为主，云厚度均超过 $2 . 0 \ \mathrm { k m }$ ,春季甘肃中部的单层云厚度最大达 $3 . 0 \ \mathrm { k m } ; 2$ 层云夹层比3层云的夹层厚度要厚。产生降水的云中积状云和单层云的发生频率较高。各区域云频率随高度分布趋势大致相同，层状云出现的高度在距地表 $0 . 5 \ \mathrm { k m }$ 到 $1 2 . 0 \ \mathrm { k m }$ ,云频率峰值均在高度 $6 . 0 \ \mathrm { k m }$ 左右出现；积状云云频率随高度分布较层状云明显偏低，峰值出现在 $1 . 5 \ \mathrm { k m }$ 左右高度。
+
+关键词：云；降水；CloudSat；CALIPSO；祁连山；甘肃
+
+水资源安全是国家和社会稳定发展的重要保障，联合国发布的《世界水发展报告》宣称，截正到2030年，全世界现存的水资源量只能满足全球 $6 0 \%$ 的人使用[1-3]。我国西北地区地处欧亚大陆腹地,是我国主要的干旱半干旱区，面积占到全国的$3 1 . 7 6 \%$ ，而水资源量仅占全国的 $8 \%$ 。由于缺水干旱,使西北地区生态环境的脆弱程度加剧[4-5]。导致粮食减产，使农业生产安全受到威胁，引发被迫性的社会移民或迁徙，影响到社会的稳定。
+
+在地球系统中，水是所有生命赖以生存的保障。海洋、河流、湖泊等地表的水经过蒸发形成水汽，在大气环流的作用下被输送到各地形成降水，补充到积雪和冰川，形成地表径流以及渗透成地下水，最终又通过河流流向海洋，完成地球系统的水循环。中国西北地区远离海洋，常年盛行西风气流，将上游有限的水汽长途输送到下游；东亚季风可以为我国带来大量水汽，但只能影响到陕西、宁夏、内蒙古及甘肃东部部分地区；西南风也会从孟加拉湾给西北地区带来水汽[6。王守荣等[6研究指出,整个西北地区的全年水汽总输入为 $1 \ 0 6 1 . 9 \ \mathrm { m m }$ ,水汽的净输入量仅为 $3 1 . 1 \ \mathrm { m m }$ ，只有 $1 4 . 4 \%$ 形成了降水，大部分水汽属于“过路水”。可以看出提高空中水资源开发利用是有效改善西北地区水资源现状的一个重要途径。大气中的液态或固态水(冰晶)是以云、雾等形式存在的，云的移动和聚散就是水汽的输送、聚集和流失，云的状态和变化是形成降水的基础。对云的探测国内外目前主要采取的方法包括地基观测、飞机探测(空基)和卫星遥感(天基)等。与地基观测相比，空基具有空间优势，但在时间上劣于地基，二者的共同短板是只能获得有限区域的观测结果。卫星遥感观测方式空间覆盖广，且时空分辨率也在不断提高。随着卫星技术的发展，卫星遥感云产品日益增多，目前在研究中常见的有CloudSat、CALIP-SO、MODIS 等卫星遥感云产品资料。陈勇航等[7]利用ISCCP资料对西北地区15种不同类型的云的特征进行了分析，定性的给出了有利于人工增雨作业的参考区域。宜树华等[8利用 ISCCP 资料对西北地区云的分布特征和季节变化进行分析，发现西北地区在高大山脉处存在云量的极大值，云量与地形有很好的一致性。陈少勇等[9-10]研究表明,西北地区的降水年变化与云水含量较大的层状云变化较相似，夏季降水与积状云的发展有较明显的关系。然而，这些被动遥感卫星资料不能反映云内部结构及垂直分布特征，CloudSat卫星所搭载的雷达（CPR)可以探测到云内部，这对于深入了解云内部结构起到非常重要的作用。王帅辉等[1]使用CloudSat 云分类数据，分析了中国及周边地区各类云的云量和垂直结构，得出了高层云云量在副热带地区最少，在中国西北和青藏高原地区最多等结论,Luo 等[12]利用CloudSat和CALIPSO遥感卫星云产品，分析了东亚季风区和印度季风区的云层垂直位置分布。
+
+本文拟对与降水关系密切的层状云和积状云、单层云和多层云的时空特征进行研究，重点是云的宏观特征分析，为进一步了解西北地区空中云水资源分布与变化、人工影响天气的作业条件筛选及作业效果的检验等提供科学依据。
+
+# 1资料与方法
+
+# 1.1 资料
+
+CloudSat卫星于2006年4月28日与CALIPSO一起在美国发射升空，并于2006年6月1日正式加入“A-Train"观测系统，该观测系统所属的卫星互相配合在同一轨道上实现了准同步主、被动多波段对地球的观测[13]。CloudSat卫星上搭载的仪器是云廓线雷达（CloudProfilingRadar，CPR），它是美国喷气动力实验室(JPL)和加拿大空间局(CSA)联合开发的 $9 4 ~ \mathrm { G H z }$ 往星下点观测的雷达，该雷达能够通过距离公式来测量云的后向散射能量(14。该卫星所在的太阳同步轨道离地约 $7 0 5 ~ \mathrm { k m }$ ，卫星绕地球一周被称为一个扫描轨道，一个轨道的扫描时间约为99$\operatorname* { m i n }$ ,扫描长度约为 $4 0 \ 0 2 2 \ \mathrm { k m }$ ，每条轨道有36383个星下像素点，CPR的每个星下点的垂直剖面有125层，每层的高度约为 $0 . 2 4 ~ \mathrm { k m }$ ，即垂直探测高度约为 $3 0 ~ \mathrm { k m }$ ，其星下点的水平分辨率约为 $2 . 5 \ \mathrm { k m }$ （沿轨）×1.4 km(跨轨）（15]
+
+CloudSat原始观测数据经过数据处理中心(DPC)处理后，生成9个L1B(经过了辐射订正、地理定标和传感器单位处理的资料）和L2B（与L1B数据有着相同分辨率和覆盖范围的地球物理参数反演资料），这其中就含有本文所使用的L2B结合了CloudSat卫星云廓线雷达和CALIPSO卫星激光雷达资料的云分类产品2B-CLDCLASS-LIDAR。该产品可以提供云层数、云顶云底高度、云类型和识别降水非降水云等宏观物理参量，因为该数据是Cloud-Sat和CALIPSO两颗主动遥感卫星结合反演的数据，故相比于MODIS等被动遥感卫星精度更高更准确（16]。
+
+本文研究区域为中国西北地区，覆盖范围$3 5 ^ { \circ } \sim 4 0 ^ { \circ } \mathrm { N } , 9 6 ^ { \circ } \sim 1 0 6 ^ { \circ } \mathrm { E }$ 。CloudSat和 CALIPSO关于云分类的可用资料时间范围为2007—2010 年。主要使用了2B-CLDCLASS-LIDAR数据中的云分类、云底云顶高度、云量和降水云识别，其中云类型进一步分为层状云类(高层云、层云、雨层云）和积状云类(高积云、层积云、积云、深对流云）。此外，在对地面降水信息的分析中使用了研究区域内1996—2016年的中国地面降水月值 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 格点数据集。
+
+本文中主要统计参数定义如下：
+
+（1）云分数：定义为区域内探测到的有云的雷达廓线数（即CPR所探测的云廓线）与总雷达廓线数之比[17],即
+
+$$
+P = ( N _ { c } / N _ { t } ) \times 1 0 0 \%
+$$
+
+式中： $P$ 为云分数； $N _ { c }$ 是区域内探测到的有云的雷达廓线数； $N _ { _ t }$ 是区域内探测到的总雷达廓线数。各类云的云分数以此类推。需要说明的是，云与地球辐射能量系统中云量指的是特定CERES视场中有云格点数和区域总格点数之比，因此本文中云分数定义与云量定义在统计意义上具有一致性。在统计云分数的区域分布图时，将所选择的区域划分为$0 . 2 5 ^ { \circ } \times 0 . 2 5 ^ { \circ }$ 的网格，然后照上述方法统计出每个网格上的云分数，以此得到云分数分布图。
+
+(2）云出现频率及其随高度的变化：将整个区域的云层按相对高度划分为60层，每层0.25$\mathrm { k m } ^ { [ 1 6 ] }$ 。统计云在每一高度层中出现频次和整层出现的总频次，然后计算各个高度层中云出现的频率。此处要注意的是，有些云发展旺盛，很可能贯穿好几层，则所有层都进行统计。云在各层出现的频率定义为（即云频率）：
+
+$$
+F ( h ) = ( N _ { h } / N ) \times 1 0 0 \%
+$$
+
+式中： $N$ 为区域内探测到的有云的雷达廓线数; $N _ { \mathfrak { h } }$ 为探测到的某一高度层有云的雷达廓线数（层状
+
+云、积状云类似）。
+
+（3）多层云的夹层厚度：以上层云云底高度减去下层云云顶高度作为该夹层的厚度，用以表征在存在多层云时水汽的垂直分布状态。云层之间的夹层中液态水含量很少，相对湿度较低，如果夹层厚度过大，上层降落下来的雨滴或冰晶在夹层中会蒸发或升华，不利于降水云的增长，即夹层的厚度会直接影响到云和降水的发展。
+
+# 1.2 研究区域的划分
+
+我国西北地区幅员辽阔，地形复杂。山区的降水和雪冰融化是西北地区重要的水资源来源[18]本文依托黄河上游流域的地理特点，基于对水资源重要源地、人口密集地区及其与典型缺水地区相关流域的考量，选取了祁连山区（A区）、甘肃中部（含宁夏南部部分地区，B区)以及石羊河流域(C区)（图1）。祁连山是我国高大山系之一，地处欧亚大陆中心，东起乌鞘岭，西至当金山口，海拔高度基本上都在 $3 5 0 0 \mathrm { ~ m ~ }$ 以上，水资源丰富，是我国西部生态安全的重要屏障[19]。甘肃中部及宁夏南部部分地区位于中国二级阶梯上，地处干旱半干旱地区，也是亚洲季风影响的边缘区，作为西北地区人口和工业最为密集的地区,是水资源需求较高的地区[20 -21] 。
+
+![](images/2f75169c757cda6c906f5744760b8c40100b4cb962caaf7dc53032f194993b6f.jpg)  
+图1研究区域示意图Fig.1The study areas
+
+石羊河发源于祁连山北坡，汇集了祁连山东段冷龙岭、乌鞘岭、毛毛山以北山区的雪冰融水和降水，河流途径高山及农业区，末端消失于腾格里沙漠和巴丹吉林沙漠之间的民勤地区，该区对农业生产及土地荒漠化都有重要意义。
+
+# 2结果与分析
+
+# 2.1 降水量的时空特征
+
+2.1.1降水空间分布降水量的分布和变化在一定程度上反映了水汽及云宏观特征。由图2可以看出，降水的空间分布与地理环境有着密切的关联。在春、夏和秋季降水量是沿着祁连山山脉的走势，呈近似东南一西北走向分布。水汽受高大地形的抬升影响，沿着山脉容易形成降水，且降水主要集中在山脉的南侧，这是因为该地区的水汽来源主要是由西南风从孟加拉湾输送而来的[。
+
+![](images/9c29ec2a5db5f5cba623c4e4a373087ac8bc4af6e119d14c4396373f8b144f7c.jpg)  
+图2研究区域降水量季节空间分布  
+Fig.2Spatial and seasonal distribution of precipitation in the study areas
+
+夏季祁连山区南侧为降水量高值区，可达$3 0 0 \sim 4 0 0 ~ \mathrm { m m }$ ,其次是甘肃中部，约 $2 0 0 \ \mathrm { m m }$ 。石羊河流域降水量远小于前两个研究区域，且沿流域自上而下减少。秋季祁连山区和甘肃中部降水量较为接近，集中在 $7 0 \sim 1 2 0 \ \mathrm { m m }$ ,冬季的降水在整个研究区域分布较为均匀，且平均降水量小于 $1 5 \ \mathrm { m m }$ 。春季降水量分布形势大体上和秋季接近，在数值上较秋季偏小。
+
+2.1.2降水年变化从图3可以看出，降水主要集中在夏季，冬季很少。祁连山区和甘肃中部的峰值均出现在7月，分别达到 $1 0 1 . 2 \ \mathrm { m m }$ 和 $6 6 . 5 \ \mathrm { m m }$ ，石羊河流域峰值出现在7、8月，降水量仅为 $4 3 . 5 ~ \mathrm { m m }$ 。夏季祁连山区的降水量远大于甘肃中部和石羊河流域，而春、秋和冬季各研究区域之间的降水量无明显的差异。
+
+![](images/208f26d10f60572406401584282f19acc6611c5ee298dfa8c59e27825e58d40e.jpg)  
+图3研究区域多年平均月降水量变化  
+Fig.3Variation of mean monthly precipitation in the study areas
+
+# 2.2 云宏观特征
+
+2.2.1层状云、积状云云分数表1是研究区域2007一2010年云分数统计。其中，祁连山区总云分数约为 $6 6 . 1 \%$ ,甘肃中部约为 $6 9 . 7 \%$ ,石羊河流域约为 $6 3 . 6 \%$ 。陈勇航等[使用ISCCP资料统计西北区域云量的年平均值大于 $6 0 \%$ ,与本文结论较为一致。
+
+从表1中还可以看出，在祁连山区不论是层状云还是积状云的云分数都比甘肃中部多 $1 \%$ 左右。可能是因为祁连山地处山区，水汽条件和地形因素都有利于云的形成与维持。祁连山区和甘肃中部的
+
+# 表1研究区域云分数特征
+
+Tab.1 Cloud fraction characteristics in the study areas/%   
+
+<html><body><table><tr><td>区域</td><td>总云分数</td><td>层状云</td><td>积状云</td></tr><tr><td>祁连山区</td><td>66.11</td><td>36.28</td><td>37.37</td></tr><tr><td>甘肃中部</td><td>69.67</td><td>35.32</td><td>36.23</td></tr><tr><td>石羊河流域</td><td>63.55</td><td>32.39</td><td>29.62</td></tr></table></body></html>
+
+![](images/ef6b1d5bb1a318f5e45ea9f1d0480d71b25a495aa38b1331a44d91e3b14abf6c.jpg)  
+  
+图4各季节云分数变化   
+Fig.4Seasonal variation of cloud fraction
+
+积状云比层状云的云分数多 $1 \%$ 左右，石羊河流域的层状云分数比积状云分数多 $3 \%$ 左右，石羊河一民勤一线地处腾格里沙漠和巴丹吉林沙漠之间，地势较为平坦，故层状云相对较多。
+
+从图4a可以看出，祁连山区总云分数在春季最大，达到 $7 6 . 7 \%$ ，总云分数在春夏两季平均比秋冬两季高出约 $20 \%$ 。层状云分数最大值出现在春季，为 $4 9 . 6 \%$ ,积状云分数最大值则出现在夏季，约为$5 2 . 3 \%$ 。在冬春两季以层状云为主，积状云相对较少，两类云量的差值约达 $14 \%$ 。而在夏秋季积状云较层状云多，夏季最大差值约达 $20 \%$ 。甘肃中部（图4b)四季的总云分数以春夏季最大，约 $7 5 . 2 \%$ ，秋季次之，约 $6 5 . 8 \%$ ,最小为冬季，约 $6 1 . 2 \%$ 。冬季的层状云分数远大于其他季节，约为 $4 7 . 7 \%$ 。积状云分数则是以夏季最大，约 $4 6 . 7 \%$ 。石羊河流域（图4c)的总云分数夏季最大，约为 $7 1 . 5 \%$ ,其次是春季,秋冬两季较相似。层状云分数冬季最大，约$4 3 . 8 \%$ ,而积状云分数则是夏季最大，约 $3 8 . 4 \%$ 0
+
+结合图5，从3个区域对比来看，总云分数的高值区主要集中在祁连山南坡。从时间上来看，总云分数的较大值集中出现在春夏两季。祁连山区和甘肃中部春夏季的总云分数达 $7 5 \% \sim 7 6 \%$ ，而石羊河流域的总云分数仅在夏季达到了 $7 2 \%$ 。在秋冬两季，祁连山区和石羊河流域的总云分数差别不大，而甘肃中部总云分数比另2个区域多 $8 \%$ 左右。祁连山区层状云分数的最大值出现在春季，而甘肃中部和石羊河流域则出现在冬季。3个地区的积状云分数最大值均出现在夏季，祁连山区夏季积状云分数约达 $5 2 . 3 \%$ 。总的来说，3个区域总云分数的季节变化趋势较接近，祁连山区和石羊河流域的总云分数季节波动更大，而甘肃中部的总云分数平均值比较大，层状云和积状云云分数的季节差异比较明显。值得关注的是，3个区域的夏季积状云分数突出明显，也充分体现出了夏季对流旺盛，有利于积状云的
+
+形成与发展。
+
+从云分数的空间分布来看，与降水量时空分布有着较好的对应关系。夏季，整个研究区域总云分数较大，降水量也在同一时间段较大，祁连山区南侧总云分数较周围偏大，相应的降水量也较大。对层状云和积状云云分数的统计结果表明，积状云云分数的季节差异很大，3个研究区域均在夏季出现最大值，这与降水量在夏季最大有较好的对应关系。而层状云的季节差异较小且与降水量的对应关系并不明确，说明研究区域积状云对季节性降水有重要贡献。
+
+由表2（用发生频率来表示降水时出现层状云或积状云的雷达廓线数与总廓线数之比）可以看出，研究区域降水层状云和积状云的出现频率远小于非降水，最大不超过 $14 \%$ 。降水时积状云的出现频率均大于降水层状云，且季节差异明显。研究区域的降水积状云贡献最为突出，降水层状云在全年的发生频率差异不大，均在 $2 \% \sim 5 \%$ 。结合云分数来看，西北干旱半干旱区并不缺少云，但缺少可以发生降水的云。
+
+2.2.2单层云和多层云云分数在实际大气条件下，云在垂直空间方向的分布状况是比较复杂的，既有单层云也有多层云。多层云的存在，使得云对太
+
+![](images/6e861e52c0adcfa8115ba63f14d26fb6ce89fe16df3c3e58ad80cd90428caef0.jpg)  
+图5研究区域总云分数空间分布  
+Fig.5Spatial distribution of total cloud fraction in the study areas
+
+# 表2降水层状云积状云发生频率季节变化
+
+Tab.2Seasonal variation of occurrence frequency of precipitation stratiform cloud and cumulus cloud /%   
+
+<html><body><table><tr><td></td><td>冬季</td><td>春季</td><td>夏季</td><td>秋季</td></tr><tr><td>A区层状云</td><td>2.37</td><td>5.16</td><td>3.06</td><td>2.23</td></tr><tr><td>A区积状云</td><td>5.93</td><td>12.53</td><td>10.50</td><td>8.48</td></tr><tr><td>B区层状云</td><td>2.65</td><td>2.94</td><td>2.69</td><td>2.49</td></tr><tr><td>B区积状云</td><td>4.75</td><td>7.97</td><td>3.80</td><td>5.73</td></tr><tr><td>C区层状云</td><td>3.97</td><td>3.43</td><td>1.74</td><td>0.82</td></tr><tr><td>C区积状云</td><td>7.60</td><td>7.83</td><td>4.74</td><td>6.70</td></tr></table></body></html>
+
+阳辐射和降水的影响变得更为复杂。以下对研究区域单层云和多层云的特征进行分析。
+
+从图6可以看出，3个研究区域的单层云的云分数远大于2层云和3层云（统计表明超过3层云的云分数均小于 $1 \%$ ,故不对其进行统计）。冬、春、夏和秋单层云云分数分别是，祁连山区： $4 0 . 4 8 \%$ 、$4 9 . 4 7 \% . 4 8 . 0 8 \% . 4 2 . 1 5 \%$ ;石羊河流域： $4 0 . 2 1 \%$ 、39. $57 \%$ 、54. $18 \%$ 、45. $02 \%$ ；甘肃中部: $3 5 . 4 1 \%$ 、$3 9 . 0 8 \% . 5 2 . 5 0 \% . 4 4 . 9 3 \%$ ，多层云中2层云云分数又远大于3层云，冬、春、夏和秋季2层云云分数分别是，祁连山区：11. $14 \%$ 、21. $03 \%$ 、20. $37 \%$ 、$9 . 8 8 \%$ ;石羊河流域：11. $89 \%$ 、21. $3 7 \%$ 、 $1 3 . 9 6 \%$ 、$1 0 . 8 6 \%$ ;甘肃中部：18. $1 1 \%$ 、27. $06 \%$ 、15. $4 6 \%$ 、$1 6 . 6 2 \%$ 。3层云云分数除了甘肃中部春季达到了$7 . 0 5 \%$ ,其余均小于 $5 \%$ 。这与陈超等[22]、彭杰等[23]以及汪会等[24]的研究较为一致,即以单层云为主，多层云中2层云占多数。
+
+祁连山区单层云云分数在冬春两季大于其他研究区域,四季的单层云分数较均一，在 $4 0 \% \sim 5 0 \%$ ;甘肃中部和石羊河流域夏秋两季单层云云分数明显大于冬春两季。3个区域中2层云云分数在春季均超过 $20 \%$ ，祁连山区2层云云分数在夏季远超过其他2个区域。祁连山区2层云云分数春夏季高于冬秋季，甘肃中部和石羊河流域2层云云分数在春季高于夏、秋和冬季。综上所述，研究区域的云层主要是以单层云为主，春夏季稍高于秋冬季，2层云总体偏少。
+
+从表3（用发生频率来表示降水时出现单层云或多层云的雷达廓线数与总廓线数之比）可以看出，降水单层云及多层云发生频率远小于非降水（小于 $10 \%$ ）。在降水云中，祁连山区单层云发生频率在全年均大于多层云，甘肃中部和石羊河流域仅在夏秋两季单层云发生频率大于多层云，春季多层
+
+![](images/43f8b91707fc82c63915180dd3a42807c8096cf39d640405f2667cb334043919.jpg)  
+图6单层云与多层云云分数季节变化 Fig.6Seasonal variation of single-layer cloud and multi-layer cloud fractions
+
+# 表3降水单层云多层云发生频率季节变化
+
+Tab.3Seasonal variation of occurrence frequency of precipitation single-layer and multi-layer cloud /%   
+
+<html><body><table><tr><td></td><td>冬季</td><td>春季</td><td>夏季</td><td>秋季</td></tr><tr><td>A区单层云</td><td>4.32</td><td>7.56</td><td>8.90</td><td>7.29</td></tr><tr><td>A区多层云</td><td>1.92</td><td>5.51</td><td>3.06</td><td>1.91</td></tr><tr><td>B区单层云</td><td>2.02</td><td>3.56</td><td>5.11</td><td>4.65</td></tr><tr><td>B区多层云</td><td>2.71</td><td>5.10</td><td>1.05</td><td>2.47</td></tr><tr><td>C区单层云</td><td>4.12</td><td>3.07</td><td>5.91</td><td>6.17</td></tr><tr><td>C区多层云</td><td>3.41</td><td>4.92</td><td>0.45</td><td>0.80</td></tr></table></body></html>
+
+云发生频率较单层云稍大。
+
+# 2.2.3云频率随高度的变化
+
+# （1）总体特征
+
+图7是3个研究区域不同季节云频率垂直分布图（文中的高度均为距离地表的相对高度）。从总体上来看，祁连山区云频率峰值出现的高度相对于甘肃中部及石羊河流域偏低，可能是因为祁连山区的海拔高度相对较高的缘故,这与丁晓东等[16的研究结果较为一致。冬季，甘肃中部的云频率垂直分布呈双峰形，一个峰值出现在 $1 ~ \mathrm { k m }$ 左右,另一个出现在 $7 ~ \mathrm { k m }$ 左右；石羊河流域的云频率峰值出现在6$\mathrm { k m }$ 的位置，而祁连山区的云频率峰值则在 $5 ~ \mathrm { k m }$ 左右。春季，3个区域的云频率随高度分布形状较一致,峰值出现在 $6 \sim 8 ~ \mathrm { k m }$ ,石羊河流域云频率百分占比相对于另2个区域较小。在夏秋两季云频率垂直分布主要集中在较低范围内，较冬春两季明显偏低，在夏秋两季祁连山区的云频率峰值均出现在1.5$\mathrm { k m }$ 高度，且峰值均大于甘肃中部,两者的云频率峰值相差约 $10 \%$ 。在夏季,石羊河流域在 $6 ~ \mathrm { k m }$ 以下云频率垂直分布基本上与甘肃中部相似，在 $6 ~ \mathrm { k m }$ 以上，随高度增加云频率相较于甘肃中部越小,但整体大于祁连山区。在秋季，石羊河流域在 $3 ~ \mathrm { k m }$ 以下的云频率廓线基本和甘肃中部重合，峰值出现在1.5$\mathrm { k m }$ 高度位置。
+
+# （2）层状云
+
+从图8中可以看出，层状云出现的高度在$0 . 5 \sim 1 2 ~ \mathrm { k m }$ 。3个研究区域的层状云云频率垂直变化的趋势大致相同，但整体上甘肃中部的云频率峰值要大于祁连山区及石羊河流域。冬季，祁连山区的云频率峰值出现的位置明显低于另2个区域。在$5 ~ \mathrm { k m }$ 以下，秋冬两季祁连山区云频率大于另2个区域，春夏两季3个区域云频率垂直分布廓线几乎重合。 $5 ~ \mathrm { k m }$ 以上，夏秋冬三季云频率分布从高到低依次是甘肃中部、石羊河流域和祁连山区，在春季石羊河流域和祁连山区的云频率垂直分布廓线几乎重合且小于甘肃中部。在 $6 ~ \mathrm { k m }$ 左右高度甘肃中部和石
+
+![](images/a1acaa2614a8cebdb01e261a664dda45343f2e47fb05dfac623380cff3fee49a.jpg)  
+Fig.7 Vertical distribution of cloud frequencies over the study areas in different seasons
+
+![](images/f10f22809f727956307271f1846d4e63e823d1c361a1dc763d2ab7149093b08e.jpg)  
+图7研究区域各季节云频率垂直分布  
+图8研究区域各季节层状云云频率垂直分布
+
+Fig.8Vertical distribution of stratiform cloud frequency over the study areas in different seasons 羊河流域的层状云频率要大于祁连山区，秋冬季节 祁连山区层状云频率峰值出现高度较低。
+
+# （3）积状云
+
+从积状云云频率垂直分布来看（图9），云频率垂直分布较层状云明显偏低，四个季节中，3个研究区域的云频率峰值所在的高度大致相等。在夏季祁连山区的云频率峰值明显大于另2个研究区域，约达 $6 5 \%$ ,高度在 $1 . 5 ~ \mathrm { k m }$ 左右，而另2个区域约为$4 0 \%$ ,且峰值范围比较宽,高度在 $1 \sim 4 ~ \mathrm { k m }$ 。夏季祁连山区虽然积状云发展的云层厚度相对另2个研究区域较小，但是积状云频率却远大于另2个区域，甘肃中部和石羊河流域的积状云整体云层发展得更旺盛。
+
+综上所述，祁连山区云层的(相对)高度相对另2个研究区域较低，3个区域的积状云相对于层状云高度偏低，在 $6 ~ \mathrm { k m }$ 以上甘肃中部的层状云是相对较多的，积状云在 $1 . 5 \ \mathrm { k m }$ 高度出现的频率很高。夏季甘肃中部和石羊河流域积状云发展旺盛，祁连山区在低空相对不旺盛的积状云较多。云频率垂直分布反映了研究区域在空中云水资源的垂直分布，从大体上来看层状云的人影作业高度要高于积状云的高度，有针对性的来分析作业区域云垂直分布，有利于从宏观上把握人工影响天气作业的时机以及作业区域，为改进人工影响天气的作业效果提供参考信息。2.2.4单层云和多层云云底云顶高度以及夹层厚度不同高度上云的厚度和多层云不同层之间夹层厚度从直观上反映了云的发展状况，也是人工影响天气作业的一个重要参考指标。图10和表4是3个研究区域的各季节单层云、2层云、3层云的各层(底或顶)高度、厚度和夹层厚度。从总体上可以看出，3个研究区域的云层发展高度均是3层云最高。从单层云来看，春季云底及云顶高度最高，甘肃中部的春季单层云厚度最大，达到 $3 . 0 \ \mathrm { k m }$ ；秋季的云底云顶高度最低，云厚在 $2 . 0 \sim 2 . 5 ~ \mathrm { k m }$ ,夏冬两季云底云顶高度均相差不多。2层云中，春夏两季的云底顶高度均高于秋冬两季，四个季节中甘肃中部的2
+
+![](images/59482f3694c2598769a899859f7072bc559b7548187cbf21728fe7a0525c9fd4.jpg)  
+图9研究区域各季节积状云云频率垂直分布  
+Fig.9Vertical distribution of cumulus cloud frequency over the study areas in diffrent seasons   
+图10单层云与多层云高度季节变化  
+Fig.1OSeasonal variation of height of single-layer cloud and multi-layer cloud
+
+(a)祁连山区 (b)甘肃中部 (c)石羊河流域 12 12 12 18/ 4 曲曲 山幽曲幽曲 2 单层云 2层云 3层云 单层云 2层云 3层云 单层云 2层云 3层云
+
+注：每幅图中线条从左至右依次为冬春夏秋，竖直线长度表示云层的厚度，两端的标识表示云底云顶。
+
+表4研究区域云层厚度  
+Tab.4Cloud thickness over the study areas   
+/km   
+
+<html><body><table><tr><td>区域</td><td>季节</td><td>单层云</td><td>2层</td><td>2层</td><td>2层</td><td>3层</td><td>层</td><td>3层</td><td>上层层</td><td>3层</td></tr><tr><td>祁连山区</td><td>春季</td><td>2.85</td><td>1.55</td><td>2.01</td><td>1.81</td><td>1.15</td><td>1.84</td><td>1.05</td><td>1.18</td><td>1.30</td></tr><tr><td></td><td>夏季</td><td>2.73</td><td>1.71</td><td>1.99</td><td>1.67</td><td>1.21</td><td>1.72</td><td>1.04</td><td>1.83</td><td>1.33</td></tr><tr><td></td><td>秋季</td><td>2.12</td><td>1.10</td><td>2.11</td><td>1.40</td><td>0.92</td><td>1.52</td><td>0.63</td><td>1.40</td><td>1.12</td></tr><tr><td></td><td>冬季</td><td>2.08</td><td>1.19</td><td>1.55</td><td>1.48</td><td>0.72</td><td>1.19</td><td>0.66</td><td>1.21</td><td>1. 13</td></tr><tr><td>甘肃中部</td><td>春季</td><td>3.04</td><td>2.01</td><td>2.23</td><td>2.17</td><td>1.49</td><td>1.53</td><td>1.32</td><td>1.99</td><td>1.56</td></tr><tr><td></td><td>夏季</td><td>3.03</td><td>1.51</td><td>2.74</td><td>1.44</td><td>0.94</td><td>2.14</td><td>1.19</td><td>2.39</td><td>1.05</td></tr><tr><td></td><td>秋季</td><td>2.48</td><td>1.66</td><td>2.53</td><td>1.46</td><td>1.49</td><td>1.33</td><td>0.95</td><td>2.28</td><td>1.30</td></tr><tr><td></td><td>冬季</td><td>2.23</td><td>1.06</td><td>2.71</td><td>1.91</td><td>0.82</td><td>1.72</td><td>1.14</td><td>1.58</td><td>1.43</td></tr><tr><td>石羊河</td><td>春季</td><td>2.09</td><td>1.97</td><td>2.14</td><td>1.62</td><td>1.21</td><td>1.48</td><td>0.99</td><td>1.43</td><td>1.31</td></tr><tr><td></td><td>夏季</td><td>2.78</td><td>1.22</td><td>2.40</td><td>1.28</td><td>0.56</td><td>1.33</td><td>0.80</td><td>2.03</td><td>1.07</td></tr><tr><td></td><td>秋季</td><td>2.23</td><td>1.10</td><td>2.36</td><td>2.07</td><td>0.86</td><td>1.09</td><td>0.51</td><td>1.91</td><td>2.22</td></tr><tr><td></td><td>冬季</td><td>2.33</td><td>1.43</td><td>1.61</td><td>1.68</td><td>1.23</td><td>0.97</td><td>0.73</td><td>1.28</td><td>1.73</td></tr></table></body></html>
+
+层云底层和顶层较厚，夹层厚度均保持在 $2 . 0 \sim 2 . 3$ km。3层云中祁连山区和甘肃中部在夏季云顶高度最高，且春夏季高于秋冬季，而石羊河流域则是在春季最高。值得注意的是石羊河流域在秋季3层云最顶层的厚度达到了 $2 . 2 2 ~ \mathrm { k m }$ 。除了祁连山区春秋季、甘肃中部冬季以及石羊河流域春季是下层夹层大于上层夹层，总的来看其夹层厚度是上层夹层大于下层夹层。
+
+综合来看，3个研究区域的单层云和多层云的平均高度呈现出春夏季大于秋冬季的特点，单层云平均高度在春季达到最大值,秋季为最小值，而祁连山区和甘肃中部多层云平均高度则是在夏季达到最大值，石羊河流域是春季达到最大值，祁连山区在秋季为最小值，甘肃中部和石羊河流域在冬季为最小值。从表4可以看出，单层云的厚度明显比多层云厚；2层云中除个别季节外，是以上层云厚大于下层云;3层云中显著的特点是中层云最薄，再者是2层云夹层比3层云的夹层厚度要大。
+
+# 3结论
+
+本文利用2007—2010年CloudSat和CALIPSO卫星反演云参数资料及中国国家气象信息中心（CMDC）1996—2016年的“中国地面降水月值$0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 格点数据集”，分析了祁连山区、甘肃中部和石羊河流域的云宏观结构特征及其与降水的关系，主要的结论如下：
+
+（1）在祁连山区，由于水汽及地形因素，沿着山脉的走势区域容易形成降水，降水主要集中在夏季且大部分发生在山脉的南侧。总云分数的高值区主要集中在祁连山脉南坡。
+
+（2）研究区域总云分数较大值都集中出现在春夏两季，祁连山区和甘肃中部春夏季的总云分数为$7 5 \% \sim 7 6 \%$ ，而石羊河流域的总云分数仅在夏季达到了 $7 2 \%$ 。祁连山区层状云分数的最大值出现在春季( $4 9 . \ 6 \%$ )，积状云分数最大值出现在夏季$( 5 2 . 3 \% )$ )。甘肃中部冬季的层状云分数远大于其他3个季节 $( 4 7 . 7 \%$ )，积状云分数以夏季最大L $4 6 . 7 \%$ )。石羊河流域层状云分数在冬季达到最大 $( 4 3 . 8 \%$ ），而积状云分数夏季最大 $( 3 8 . 4 \%$ ）。积状云的多少对季节性降水有举足轻重的作用。
+
+（3）研究区域的云层主要是以单层云为主。单层云和多层云的平均高度呈现出春夏季大于秋冬季的特点，单层云的厚度明显比多层云厚，2层云主要是以上层云厚于下层云，3层云最显著的特点是中层云最薄，此外2层云夹层比3层云的夹层厚度要厚。夹层的存在及其厚薄对云的发展可能会有一定影响，因此在云模式中夹层厚度也是值得考虑的因素。祁连山区全年降水单层云发生频率均大于多层云。
+
+（4）祁连山区云层所在高度较另2个研究区域偏低，而3个区域的积状云相对于层状云高度偏低。在 $6 ~ \mathrm { k m }$ 高度上甘肃中部春夏季的层状云频率峰值更为突出，积状云在 $1 . 5 ~ \mathrm { k m }$ 高度出现的频率较高。夏季甘肃中部和石羊河流域积状云发展较为旺盛，而祁连山区在低空相对不旺盛的积状云较多。
+
+（5）研究区域的降水积状云对降水的贡献最为突出。通过分析降水时出现层状云或积状云的雷达廓线数与总廓线数之比表明，降水时积状云的出现频率均大于层状云，且季节差异明显;降水时层状云和积状云的出现频率远小于非降水，最大不超过$14 \%$ 。结合云分数来看，西北干旱半干旱区并不缺少云，但缺少可以发生降水的云。
+
+本文使用的卫星遥感产品是目前公认的比较好的云特征多参数反演资料，遗憾的是资料时段有限，对分析结果的精度会有一定影响。期待有更好的长期资料，为深入了解云的垂直结构特征提供更丰富的信息。
+
+致谢：感谢NASA提供的CloudSat数据和中国国家气象信息中心(CMDC)提供的数据。
+
+# 参考文献（References）：
+
+[I」学志斐.水贫源女全与一币一路 战峪头施[J」.中国地质大 学学报（社会科学版）,2017,17（3）:45-53.[Li Zhifei.Water security and the implementation of“One Belt-One Road”strategy [J].Journal of China University of Geosciences （Social Sciences Edition）,2017,17(3) :45-53.] [2]Chellaney B.Water,Peace,and War[M].New York:Rowman & Littlefield,2014. [3]Surie,South M D.Asia's water crisis:A problem of scarcity amid abundance[EB/OL].http://asiafoundation.org/2015/0.3/25/ south-asias-water-crisis-a-problrm-of-scarcity-amid-abundance/,   
+2017 -02 -21. [4]周莹，尚志强，贾彪.西北地区水资源现状及存在的问题[J]. 内蒙古水利,2012(4）:37-39.[Zhou Ying,Shang Zhiqiang,Jia Biao.Present situation and existing problems of water resources in Northwest China[J].Inner Mongolia Water Resources,2012（4）:   
+37 -39.] [5]陈亚宁,杨青,罗毅,等.西北干旱区水资源问题研究思考[J]. 干旱区地理,2012,35（1):1-9.[Chen Yaning,Yang Qing,Luo Yi,et al.Ponder on the issues of water resources in the arid region of Northwest China[J].Arid Land Geography,2012,35(1):1-9.] [6]王守荣,郑水红,程磊.气候变化对西北水循环和水资源影响 的研究[J].气候与环境研究,2003,8（1）：43-51.〔Wang Shourong,Zheng Shuihong,Cheng Lei. Studies on impacts of climate change on water cycle and water resources in Northwest China [J].Climatic and Environmental Research,2003,8（1）：43-   
+51.] [7」陈勇航,陈艳,黄建平,等.中国西北地区云的分布及其变化趋 势[J].高原气象,2007,26（4）:741-748.[Chen Yonghang, Chen Yan,Huang Jianping,et al.Distribution and variation trend of cloud over Northwestern China[J].Plateau Meteorology,2007,   
+26(4) :741 -748.]
+
+[8]宜树华，刘洪利,李维亮，等.中国西北地区云时空分布特征的初步分析〔J].气象，2003，29（1）：7-11.［YiShuhua，Liu
+
+Hongli,Li Weiliang,et al.Spatial and temporal distributions of cloud over Northwest of China[J].Meteorological Monthly,2003, 29(1):7 -11.)
+
+[9]陈少勇,石光普，董安祥,等.祁连山层状云的时空分布及其环流特征分析[J].中国沙漠，2010，30（4）：946-953.[ChenShaoyong,Shi Guangpu,Dong Anxiang,et al. Temporal and spatialdistribution of stratiform clouds over Qilian mountains and circula-tion characteristic[J]. Journal of Desert Research,201,30（4）:946 -953.]
+
+[10］陈少勇,徐科展,董安祥,等.祁连山积雨云的时空分布及其环 流特征〔J].干旱区研究,2010,27（1）：114-120.[Chen Shaoyong,Xu Kezhan,Dong Anxiang,et al.Analysis onspatialdistribution of cumulonimbus and its circulation characteristics over the Qilian mountains[J].Arid Zone Research,2010,27(1）:114 -120.]   
+[11］王帅辉,韩志刚,姚志刚,等.基于CloudSat 资料的中国及周边 地区各类云的宏观特征分析[J].气象学报,2011,69（5）：883 -899.[Wang Shuaihui,Han Zhigang,Yao Zhigang,et al.An analysis of cloud types and macroscopic characteristics over China and its neighborhood based on the CloudSat data[J].Acta Meteorologica Sinica,2011,69(5） :883-899.]   
+[12]Luo Yali, Zhang Renhe,Wang Hui. Comparing occurrences and vertical structures of hydrometeors between eastern China and the Indian Monsoon region using CloudSat/CALIPSO data[J]. Climate,2008,22:https://doi.org/10.1175/2008JCLI2606.1   
+[13]Stephens G L,Vane D G,Tanelli S,et al. CloudSat mission:Performance and early science after the first year of operation[J]. Journal of Geophysical Research Atmospheres,2Oo8,113（D8）： 2 036 -2 044.   
+[14]臧海佳,王旻燕,李占清.美国对地观测系统卫星资料产品及 服务［M].北京：气象出版社,2011.［Zang Haijia,Wang Minyan,Li Zhanqing.U.S.Earth Observation System Satelite Data Products and Services[M]. Beijing: China Meteorological Press, 2011. ]   
+[15］周毓荃,赵姝慧.CloudSat卫星及其在天气和云观测分析中的 应用[J].大气科学学报,2008,31（5）:603-614.[Zhou Yuquan,Zhao Shuhui. CloudSat satellite and its application in weather and cloud observation[J].Transactions of Atmospheric Sciences,2008,31(5）:603 -614.]   
+[16]丁晓东,黄建平,李积明,等.基于主动卫星遥感研究西北地区 云层垂直结构特征及其对人工增雨的影响[J].干旱气象， 2012,30(4）:529-538.[Ding Xiaodong,Huang Jianping,Li Jiming,et al. Study on cloud vertical structure feature over northwest China based on active satellte remote sensing and its influence on precipitation enhancement[J].Journal of Arid Meteorology,2012, 30(4) :529 -538.]   
+[17]Hagihara Y,Okamoto H,Yoshida R.Development of a combined CloudSat-CALIPSO cloud mask to show global cloud distribution [J].Journal of Geophysical Research Atmospheres,2O10,115 （D4）:https://doi.org/10.1029/2009JD012344.
+
+[18]李泽椿，周毓荃,李庆祥，等.人工增雨是缓和干旱半干旱地区 水资源匮乏的一个补充途径[J].沙漠与绿洲气象，2006，29 (1):1-6.[Li Zechun,Zhou Yuquan,Li Qingxiang,et al.A sdditional way for alleviating water resources shortage in arid and semiarid region:Precipitation stimulation[J].Desert and Oasis Meteorology,2006,29(1) :1-6.]
+
+[19]张良，王式功，尚可政，等.祁连山区空中水资源研究[J].干旱 气象,2007,25（1）:14-20.[Zhang Liang,Wang Shigong,Shang Kezheng,et al.Research on vapor and precipitation resources over the Qilian mountain area[J].Arid Meteorology,2007,25（1）:14 -20.]
+
+[20]Huang J,ZhangW,Zuo J,etal.An overview of the semi-arid climate and environment research observatory over the loess plateau [J].Advances in Atmospheric Sciences,2008,25(6）:906 -921.
+
+[21]Jing X,Huang J,Wang G,etal. The effects of clouds and aerosols on net ecosystem CO2 exchange over semi-arid loess plateau of Northwest China[J].Atmospheric Chemistry Physics,2010,10： 8 205 -8 218.
+
+[22]陈超,郭晓军，邱晓斌，等.中国华北地区云垂直结构及云水含量卫星遥感研究[J].气象与环境学报，2015，31（5）：159-164.［Chen Chao,Guo Xiaojun,Qiu Xiaobin,et al.Analysis ofcloud vertical structure and cloud water content over North Chinabased on satellite remote sensing data[J]. Journal of Meteorologyand Environment,2015,31(5）:159-164.]
+
+[23]彭杰，张华，沈新勇.东亚地区云垂直结构的CloudSat卫星观测研究[J].大气科学,2013,37（1）：91-100.[PengJie,ZhangHua,Shen Xinyong.Analysis of vertical structure of clouds in EastAsia with CloudSat data[J].Chinese Journal of Atmospheric Sci-ences,2013,37(1) :91-100.]
+
+[24]汪会，罗亚丽，张人禾.用CloudSat/CALIPSO 资料分析亚洲季 风区和青藏高原地区云的季节变化特征[J].大气科学，2011， 35(6）:1117-1 131.[Wang Hui,Luo Yali,Zhang Renhe.Analyzing seasonal variation of clouds over the Asian Monsoon regions and the Tibetan plateau region using CloudSat/CALIPSO data[J]. Chinese Journal of Atmospheric Sciences,2011,35（6）:1 117 - 1 131. ]
+
+# Cloud Macro-Features over the Qilian Mountains and Central Gansu Based on Satellite Remote Sensing
+
+SONG Qi-ming12， ZHANG Wu’，SU Ya-qiaol，CHEN yan’，YANG Kun $^ 3$ ， ZHAO Gui-qing²， CAO Gang4   
+(1.CollegeofAtmospheric Sciences,Lanzhou University,KeyLaboratoryof SemiaridClimate Changeunder the Ministry of Education,Lanzhou 730000,Gansu,China；2. Unit 95171 of PLA,Guangzhou 510000,Guangdong,China;   
+Unit 93886ofPLA,Urumqi830oo1,Xinjiang,China；4.Juquan SateliteLaunch Center,Jiuquan73500,Gansu,China)
+
+Abstract：In this study,the CloudSat and CALIPSO satelite remote sensing data from 2007 to 201O and the precipitation data provided by China National Meteorological Information Center（CMDC）from1996 to 2016 were used to analyze the macroscopic characteristics of different cloud types over the Qilian Mountains,central Gansu Provinceandthe Shiyang River Basin.The results showed that the seasonal variation of total cloud fraction over the each research area was consistent,and its high values ocurred mostly in spring and summer.The areas with high values of total cloud fraction were mainly located in the southern slope of the Qilian Mountainsas those with high values of precipitation.The maximum value of cumulus cloud fraction occurred in summer,and the precipitation frequency of cumulus cloud was higher than thatof stratiform cloud.Single-layer cloud was dominant,and its thickness was over $2 . 0 \ \mathrm { k m }$ . The maximum thickness of single-layer cloud over central Gansu was $3 . 0 \ \mathrm { k m }$ in spring.The thickness of two-layer clouds was thicker than that of thre-layer clouds.Cumulus cloud and single-layer cloud producing precipitation occurred more frequently.The distribution trend of cloud frequency with the height over each research area was similar,the altitude of stratiform cloud ranged from $0 . 5 ~ \mathrm { k m }$ to $1 2 . 0 \ \mathrm { k m }$ in altitude,and the peak frequency appeared around $6 . 0 \ \mathrm { k m }$ in altitude.The distribution altitude of cumulus cloud frequency was obviously lower than that of stratiform cloud,and the peak value occurred around $1 . 5 ~ \mathrm { k m }$ in altitude.
+
+Key words:cloud； precipitation； CloudSat； CALIPSO；Qilian Mountains；Gansu

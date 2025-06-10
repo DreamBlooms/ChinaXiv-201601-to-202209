@@ -1,0 +1,405 @@
+[
+    {
+        "type": "text",
+        "text": "干旱区间歇性生态输水对地下水位与植被的影响机理研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "古力米热·哈那提²，王光焰²，张　音24，刘迁迁²，苏里坦²（1新疆水利水电科学研究院水资源研究所,新疆乌鲁木齐830049；2中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011;3新疆塔里木河流域干流管理局,新疆库尔勒841000；4 中国科学院大学,北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：塔里木河下游生态系统作为典型的干旱区生态系统,对水分具有较强的依赖性。为了解塔里木河下游间歇性生态输水对地下水埋深变化、植被生长的关系，得出地下水埋深、植被生长变化及间歇性生态输水过程之间的相互影响机理，以塔里木河下游英苏断面为研究区，基于达西定律、植物根系吸水速率计算方法，以及2009—2015年生态输水一地下水位变化—NDVI变化相互耦合关系，对三者之间相互影响过程及影响机理进行定性与定量分析。结果表明：(1）输水效益的显现是一个漫长的过程,地下水的响应和下游植被的生态响应均在一个大的空间和时间尺度上将逐步显现,另外由于植物生长具有季节性，当年地下水埋深值在一定程度上可影响次年植物生长。（2)多年研究表明，当地下水埋深低于 $7 \\mathrm { ~ m ~ }$ 时，满足乔、灌木植物生长需求；低于 $6 \\mathrm { ~ m ~ }$ 时，满足草本植物生长需求。（3）在年总输水量为固定情况下，一年两次是利于河岸植被恢复的最适宜输水次数。由于生态输水一地下水位变化—NDVI变化存在一定的滞后期，建议每年春季4\\~5月份和夏季7\\~8月份作为输水期。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：塔里木河下游；间歇性生态输水；地下水位；NDVI中图分类号：P641.2 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在干旱区，所有水资源类型中地下水最为重要[1]。塔里木河地处西北干旱区,属于典型的大陆性气候，流域内干旱少雨，蒸发强烈，自然环境严酷、生态退化严重，植被生长所需水分几乎都来自地下水,地下水成为维系其生态系统的关键[2-3]。20 世纪70年代初期，塔里木河下游修建人工水库，致使下游 $3 2 1 ~ \\mathrm { k m }$ 河道彻底断流，地下水位大幅度下降。为解决卜游地下水位过低问题，有关部门利用博斯腾湖持续高水位的有利时机，对塔里木河下游实施应急生态输水工程[4]。然而由于生态输水源头博斯腾湖来水量和农业灌溉等客观因素的限制，塔里木河下游多年来输水方案的起始日期、输水历时及输水量在不同输水年具有一定的差异，使得不同年份间歇性生态输水引起生态响应过程的不确定性增加，因此充分了解间歇性输水对河岸附近生态系统的影响机理，对输水生态效益评价具有重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水分是生态系统循环的关键，如何快速的获取水分转化运移规律，一直是国内外土壤水分研究的重点和热点。PHILIP[5]在分析和总结前人成果的基础上，于1966年提出了较完整的关于土壤一植物一大气连续体（Soil-Plant-Atmosphere Continuum,SPAC)的概念，在整个SPAC系统内，水分经由土壤到达植物根表皮一进人根系后一通过植物茎，到达叶片，再由叶片气孔扩散到空气层，最后参与大气的湍流交换，形成一个统一的、动态的相互反馈连续系统。康绍忠等[以小麦生育期 SPAC水分传输机理研究为基础，在整体和相互反馈关系上建立了农田“五水\"(大气水、地面水、地下水、土壤水、植物水)转化的动力学模式，为生态水分转化机理研究提出了比较系统的方法。塔里木河下游生态系统作为典型干旱区生态系统，对水分具有较强的依赖性，鉴于基于SPAC系统、“五水\"转化机制，构建了间歇性生态输水一地下水一植物生长耦合变化体系研究框架，以期充分了解英苏断面内以地下水为核心的生态系统运营体系，评价生态恢复状况，并综合输水源头年内水位变化概况、植物不同生长阶段水分需求量等指标对最优生态输水时间进行探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区英苏监测断面，位于新疆塔里木河下游其文阔尔河上，距离大西海子水库约 $6 1 ~ \\mathrm { k m }$ ，是下游输水监测的核心位置。区域内干旱少雨而蒸发强烈，大气降水对地下水几乎不产生补给，地下水的主要补给来源是区域内的河道。已有研究表明[],生态输水期间，塔里木河下游生态输水过程对单侧河岸影响宽度超过 $\\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ ,并且随着输水量的增加，其影响宽度呈现增加的趋势，而河道断流期间，由于河道地下水的自补给，地下水埋深波动范围也超过$\\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ 。因此，为全面掌握英苏监测断面处地下水埋深的动态变化情况，分别利用距离生态输水河道$5 9 \\mathrm { ~ m ~ } , 3 0 0 \\mathrm { ~ m ~ } , 5 0 0 \\mathrm { ~ m ~ }$ 及 $7 5 0 \\mathrm { ~ m ~ }$ 范围内的C3、C4、C5、C6监测井，对河岸约 $7 5 0 \\mathrm { ~ m ~ }$ 范围的地下水埋深进行动态变化监测（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据分析与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1流域试验观测与数据处理塔里木河下游水分转化特性，自输水源头开始至作用于生态系统，主要有间歇性生态输水过程，地下水侧向非稳定流此，本研究以塔里木河下游英苏监测断面为研究区，补给作用对地下水位的影响过程，植物根系吸水供给及植物一潜水蒸散发作用。在此过程中间歇性生态输水为塔里木河下游生态系统水分主要来源，地下水为生态系统水源的储藏形态，植物生长变化为生态恢复效益的评价指标。对于2008年，主要对干流河道进行生态输水，对下游几乎无生态输水过程，有效的避免了前期间歇性输水过程的滞后影响效应对地下水埋深变化值的影响。基于此，本研究以2009 年为时间研究起点,分别选取距离河道 $5 9 \\mathrm { ~ m ~ }$ 、$3 0 0 \\mathrm { ~ m ~ } . 5 0 0 \\mathrm { ~ m ~ } . 7 5 0 \\mathrm { ~ m ~ }$ 范围内的 $\\mathrm { C } 3 , \\mathrm { C } 4 , \\mathrm { C } 5 , \\mathrm { C } 6$ 监测井在间歇性生态输水期间地下水埋深变化值，对2009—2015年7a间歇性输水平均流量及地下水埋深变化值进行分析研究。根据干旱区水文特点，将塔里木河下游水循环过程划分为生态输水过程一地下水位变化一植物生长变化，在此基础上，获取了英苏断面2009—2015年间歇性输水流量数据，2009—2015年地下水位变化数据，以及2009一2015年对应监测井位置的 NDVI（Normalized Difference Vege-tationIndex)变化数据。其中，地下水位及NDVI变化选取1个月为一个时间变化节点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2水分转化运移动力学机理在塔里木河下游河段，生态输水源头为大西海子水库，在间歇性生态输水过程中，输水径流沿河道运移。地下水的运动包括纵向和横向两种径流形式[8],纵向流动的地下水随地表径流沿河道运移，流动速度主要受地形的影响，其中大西海子水库附近平均海拔较高，英苏断面附近平均海拔较低。在横向上，地下水径流主注： $H$ ：地下水位； $D$ ：地下水埋深； $X$ ：河岸距离；s：水位变化值;S：坐标轴要受河水位的影响，在输水一断流交替出现的过程中，地下水渗流场运动过程中各个运动要素（水位、流速、流向等)随时间产生一定变化，具有非稳定流特性。根据达西定律（Darcy’slaw），地下水实际流动速度 $u$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bdcca25096f84bd0dfe887265105c625a21651050fc209a0aa9ea2e8254f1b0.jpg",
+        "img_caption": [
+            "图1英苏断面水分运移转化示意图",
+            "Fig.1Water migration schematic diagram of Yingsu section "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = \\frac { v } { n } = \\frac { k i } { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { v }$ 为地下水渗流流速； $n$ 为含水介质的孔隙度;$k$ 为含水层渗透系数； $i$ 为地下水运动的水力梯度。其中，由于地下水非稳定流影响，水力坡度 $\\mathbf { \\chi } _ { i }$ 随河岸距离呈非稳定变化，此时 $\\boldsymbol { u }$ 已不再是断面平均流速，而是渗流断面中任一点的流速[9]。在非稳定流条件下，地下水实际流速则为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = { \\frac { k { \\frac { 1 } { m } } \\sum _ { a = 1 } ^ { m } { \\frac { H _ { a } } { x _ { a } } } } { n } } = { \\frac { k } { m n } } \\sum _ { a = 1 } ^ { m } { \\frac { H _ { a } } { x _ { a } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $m$ 为非稳定流条件下河岸不同渗流过程的阶段数， $x _ { a }$ 为非稳定流相邻两个渗流阶段的河岸距离差； $H _ { a }$ 为 $\\boldsymbol { x } _ { a }$ 距离差内的水位差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于植被变化，本研究所用遥感数据为Land-sat5 $\\mathrm { T M }$ 。根据研究区上方云覆盖情况和塔里木河下游主要植被生长季的时间选择了2104—2016 年$3 / 2 2 { \\mathrm { - } } 1 0 / 1 6$ 时间段影像数据,通过大气校正，得到地表反射率。用每期的近红外波段与红波段计算得到每期的 $N D W$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN D V I = { \\frac { N I R - R } { N I R + R } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $N I R$ 为近红外反射率； $R$ 为红波段反射率。对于TM数据， $_ { N I R , R }$ 分别为B4和B3波段的反射率。在植被处于中、低覆盖度时，NDVI将随覆盖度的增加而迅速增大。塔里木河下游植被稀少，植被以典型耐干旱植物类型为主，对地下水位变化较敏感。地下水通过影响作物的根系生长，影响作物的根冠关系和冠层的光合作用，对植物生长发生作用，进而促进NDVI变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于根系吸水速率 S[10]",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = b ( z ) \\times T _ { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $z$ 为土层深度; $T _ { a }$ 为植物蒸腾量； $b ( z )$ 表示归一化植物根系吸水能力的分布。 $b ( z )$ 可表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb ( z ) = \\frac { b ^ { \\prime } ( z ) } { \\int _ { L r } b ^ { \\prime } ( z ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $L r$ 为根系的最大深度 $( \\mathrm { c m } ) ; b ^ { \\prime } ( z )$ 为根系吸水能力的分布。由于不同植物根系分布不均匀，当土层深度 $z < 0 . 2 L r , b ^ { \\prime } \\left( z \\right) \\ = \\ 1 . 6 6 6 7 / L r$ ;当 $0 . 2 L r$ $< z < 1 \\ L r , b ^ { \\prime } \\left( z \\right) \\ = \\ 2 . 0 8 3 \\ 3 \\left( 1 - z / L r \\right) / L r$ ;当 $\\mid 1 L r <$ $z , b ^ { , } \\left( z \\right) \\ = \\ 0 .$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于植物蒸腾量 $\\boldsymbol { T } _ { a _ { } }$ ，目前联合国粮农组织（FAO）[11]推荐的 Penman-Monteith 公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\it { a } } = E T _ { \\it { a } } = \\frac { 0 . 4 0 8 \\Delta ( R _ { \\it { n } } - G ) + \\gamma \\frac { 9 0 0 } { T + 2 7 3 } u _ { 2 } ( e _ { s } - e _ { a } ) } { \\Delta + \\gamma ( 1 + 0 . 3 4 u _ { 2 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\lambda$ 为蒸发潜热 $( \\mathbf { M J } \\cdot \\mathbf { k g } ^ { - 1 }$ ）； $\\Delta$ 为饱和水气压 曲线的斜率 $( \\mathrm { { k P a } \\cdot \\mathrm { { \\mathcal { C } } ^ { - 1 } } } ) ;$ （204号 $\\gamma$ 为湿度计常数（ $\\mathbf { k P a }$ ： $\\mathcal { \\mathbf { C } } ^ { \\mathbf { \\alpha } - 1 }$ ）； $R _ { n }$ 为净辐射量; $G$ 为土壤热通量; $T$ 为平均 气温 $( \\mathcal { C } ) : u _ { 2 }$ 为地面以上 $2 \\mathrm { ~ m ~ }$ 高处的风速( $_ { \\mathrm { ~ m ~ } } \\cdot$ $\\mathbf { s } ^ { - 1 } ) : e _ { s }$ 为空气饱和水汽压 $( \\mathrm { \\ k P a } ) ; e _ { a }$ 为空气实际水 汽压 $\\left( \\mathrm { { k P a } } \\right)$ 0 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1生态输水一地下水位变化特征分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作为塔里木河下游地下水唯一补给性水源，生态输水过程对塔里木河下游地下水波动具有重要作用，为了解塔里木河下游河段不同生态输水过程对河岸附近地下水位的影响，可根据地下水埋深波动状况与生态输水作用进行耦合分析（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，在河道输水期间，由于含水层渗透系数的限制，在短期内，临近河道地下水埋深波动较大，然而远离河道地下水埋深波动并未受到较大的影响，生态输水作用影响河岸附近地下水埋深变化会产生一定时段的滞后期，且随着距离河道的增加，滞后期增长。本研究所涉及的 $^ { \\mathrm { C 3 } } , \\mathrm { C 4 } , \\mathrm { C 5 } , \\mathrm { C 6 }$ 监测井分布在距河道 $7 5 0 \\mathrm { ~ m ~ }$ 范围内，处于河道输水影响缓冲区内，在生态输水期间，由于滞后效应，地下水埋深变化在短期内并不能对生态输水产生响应，因此在运用非稳定流理论对地下水模拟过程中，除了考虑河道附近水位边界变化之外，还需综合考虑滞后效应所引起的地下水埋深滞后变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于地下水补给量的差异，随着间歇性生态输水过程的持续，塔里木河下游河道地下水位的总趋势是上升的，但离河道不同距离处的地下水位上升幅度有所不同，且波动规律具有一定的差异。根据公式(2），在不同河岸距离 $x$ 处，取渗透系数 $k$ 在$1 \\sim 5 \\ \\mathrm { m } \\cdot \\ \\mathrm { d } ^ { - 1 }$ 之间,土壤孔隙度 $n$ 约为 $3 5 \\%$ ,地下水水力坡度 $\\mathbf { \\chi } _ { i }$ 在 $1 5 \\% \\sim 3 0 \\%$ 之间,计算出 $x$ 距离处不同监测井地下水埋深变化滞后期，以2009一2015不同年分内生态输水期为时间起点，综合滞后期，得到地下水埋深变化理论滞后期统计结果(表1）。由表1可知,在不同年份生态输水期间, $^ { \\mathrm { C 3 } } , \\mathrm { C 4 } , \\mathrm { C 5 } , \\mathrm { C 6 }$ 监测井由于河岸距离的不同，地下水埋深变化的滞后期由近到远在1\\~9个月之间。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/96854c66d87550858789cb09cae747887ce6736e017e8439c1b7303d7dc45871.jpg",
+        "img_caption": [
+            "图2生态输水与地下水埋深变化耦合图",
+            "Fig.2Coupling diagram of ecological water conveyance and groundwater depth change "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0eea671efed429b4246aaf1d6e8fe400511b819c51bc422933a656f3ddfac2fc.jpg",
+        "table_caption": [
+            "表12009一2015年不同监测井地下水埋深变化理论滞后期统计结果",
+            "Tab.1Statistics of lagged period of groundwater depth change in diferent wels during 2009—201 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">输水日期</td><td colspan=\"4\">输水滞后期</td></tr><tr><td>C3</td><td>C4</td><td>C5</td><td>C6</td></tr><tr><td>2009/5~2009/6</td><td>2009/6~2009/7</td><td>2009/8~2009/9</td><td>2009/10~2009/11</td><td>2010/2~2010/3</td></tr><tr><td>2010/6~2010/7</td><td>2010/7~2010/8</td><td>2010/9~2010/10</td><td>2010/11~2010/12</td><td>2011/3~2011/4</td></tr><tr><td>2010/7~2010/11</td><td>2010/8~2010/12</td><td>2010/10~2011/2</td><td>2010/12~2011/4</td><td>2011/4~2011/8</td></tr><tr><td>2011/1</td><td>2011/2</td><td>2011/4</td><td>2011/6</td><td>2011/10</td></tr><tr><td>2011/4~2011/11</td><td>2011/5~2011/11</td><td>2011/7~2012/1</td><td>2011/9 ~2012/4</td><td>2012/1~2012/8</td></tr><tr><td>2012/4~2012/6</td><td>2012/5~2012/7</td><td>2012/7~2012/9</td><td>2012/9~2012/11</td><td>2013/1~2013/3</td></tr><tr><td>2013/4~2013/5</td><td>2013/5~2013/6</td><td>2013/7~2013/8</td><td>2013/9 ~2013/10</td><td>2014/1~2014/2</td></tr><tr><td>2013/8~2013/9</td><td>2013/9~2013/10</td><td>2013/11~2013/12</td><td>2014/1~2014/2</td><td>2014/5~2014/6</td></tr><tr><td>2014/6</td><td>2014/7</td><td>2014/9</td><td>2014/11</td><td>2015/3</td></tr><tr><td>2015/8~2015/9</td><td>2015/9~2015/10</td><td>2015/11~2015/12</td><td></td><td></td></tr><tr><td>2015/9~2015/11</td><td>2015/10~2015/12</td><td>2015/12~</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2地下水位一NDVI变化特征分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "塔里木河下游植物类型主要包括以胡杨（Populuseuphratica）等为主的乔木类型，怪柳（Tamarixchinensis）、黑刺（Lyciumruthenicum）等为主的灌木类型,以及芦苇（Phragmitescommunis）、胀果甘草(Glycyrrhiza inflata）、鹿角草（Glossogyne tenuifolia）等为主的草本类型[12]。参考下游地表植被光谱响应关系，及多年NDVI变化情况，将NDVI值域划分为7类[13]：值域在 $0 . 2 5 \\sim 0 . 1$ ,主要为胡杨、怪柳混合带;值域在 $0 . \\mathrm { ~ 1 ~ } \\sim 0 . \\mathrm { ~ 0 9 ~ }$ ，主要为草甸带;值域在$0 . 0 9 \\sim 0 . 0 8$ ，主要为草甸、沙漠混合带;值域在0.08$\\sim 0 . 0 7$ ,主要为轻度荒漠化带;值域在 $0 . 0 7 \\sim 0 . 0 6$ .主要为中度荒漠化带;值域在 $< 0 . 0 6$ ,主要为重度荒漠化带。根据多年植物生长季平均NDVI统计分析，得到不同河岸距离植被概况表（表2）。由表可知，英苏断面植物生长以河道为中心边界向外围辐散，且随着河岸距离的增加，植物类型由乔木、灌木向低矮草本转变。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水分是植物存活、生长和分布过程中必需的重要资源，植物在不同环境条件下长期适应而形成了由一整套相关联性状组成的水分调节策略[14]。植物通过根系从土壤中吸收水分，根的发育时间、新根和老根的更新速率、根系在土壤区域中的空间分布，以及土壤的理化性质、气象条件等的不同都会影响根系对水分的吸收[15]。塔里木河下游沿河两岸分布的荒漠河岸林主要是非地带性植被，它们依靠地下水供给其蒸腾和蒸发[16]。在塔里木河下游区域,根系吸水主要靠蒸腾拉力驱动的压力流来吸收水分，植物通过根系从土壤中吸收水分然后经过根木质部向上输送供给植物的新陈代谢活动，影响不同时期NDVI值变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d3a9ce92f15449235a31428f71a5395127699cd3bf4a43a1bec59662cf7c7d4.jpg",
+        "table_caption": [
+            "表2英苏断面不同监测井植被概况",
+            "Tab.2Vegetation of different monitoring wells in Yingsu section "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>监测井</td><td>C3</td><td>C4</td><td>C5</td><td>C6</td></tr><tr><td>河岸距离／m</td><td>59</td><td>300</td><td>500</td><td>750</td></tr><tr><td>NDVI</td><td>0.116</td><td>0.108</td><td>0.085</td><td>0.074</td></tr><tr><td>植被类型</td><td>胡杨、柽 柳混合</td><td>胡杨、柽 柳混合</td><td>草甸、沙漠 混合带</td><td>轻度 沙漠化</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3为 $\\mathrm { C } 3 , \\mathrm { C } 4 , \\mathrm { C } 5 , \\mathrm { C } 6$ 监测井地下水—NDVI变化耦合关系图，由图可知，2009一2010年，地下水埋深值较大，且随时间变化呈现小幅度增加的趋势，使得年内植物生长季各月份NDVI值均较小，并且不同月份NDVI变化不明显。2010—2013年地下水埋深显著减小，在此期间，年内各月份NDVI变化较显著，自植物发芽期一生长期一落叶期，均呈现较显著的正态分布生长变化，从总体变化趋势来看，地下水埋深与NDVI变化趋势呈现明显的负相关关系。其中，C3、C4监测井附近以多年生乔木、灌木为主，根系分布深，且距离河道较近，生态输水对地下水埋深变化影响显著，因此年内植物生长变化显著；C5、C6监测井以草本植物为主，植物根系分布浅，且距离河道较远，生态输水对地下水埋深变化影响相对较小，地下水埋深相对较深,使得NDVI年内变化较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe3e6e1184c0d44db4d298bea5f631e75af5027736f85c7e60991d0cac9f6388.jpg",
+        "img_caption": [
+            "图3地下水位—NDVI变化耦合图",
+            "Fig.3Coupling diagram of groundwater level-NDVI variation "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另外，由图3可知，由于年内植物生长期有限，地下水埋深在一定程度上可影响次年植物生长，主要表现为土壤水含量增加，年内NDVI值增长幅度较大，其中以2012—2013年最为显著，主要原因为2012 年平均输水流量较大，使得河岸附近地下水埋深减小，植物可利用水量增加，对2013年植物生长具有一定的促进作用。NDVI值年内变化显著作为典型干旱区的塔里木河下游河段，植物对水源补给敏感性较强，在植物生长时期，地下水埋深变化短期内即可对植物生长产生影响，且影响效果显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于地下水埋深对植物影响时间较长，为了解多年来生态输水引起的地下水埋深变化对植物生长的影响，利用二维变化关系图（图4），对塔里木河下游英苏断面河岸带多年NDVI平均值在时间及空间尺度上变化关系进行研究。在水平空间尺度上，随着河岸距离的增加，NDVI呈现线性减小的趋势，一方面与不同河岸距离植被类型有关，另一方面与不同河岸距离地下水埋深值不同有关;另外，不同年份线性递减的幅度不一致，其中2010年递减幅度最小，2015年递减幅度最大，主要与当年生态输水量有关，导致不同年份地下水埋深值不同，进而影响植物生长状况差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在时间尺度上，自2009—2015年，河岸附近NDVI总体呈现线性递增的趋势，表明多年生态输水作用对英苏断面生态恢复具有促进作用,其中2009—2010 年期间，河岸 $7 5 0 \\mathrm { ~ m ~ }$ 范围内NDVI平均值呈现减小的趋势，与地下水埋深较大有关;2010一2013年期间，河岸附近 $7 5 0 \\mathrm { ~ m ~ }$ 范围内 $N D V I$ 平均值持续呈现增长趋势，其中2010—2012 年地下水埋深值持续性减小,2012—2013 年地下水埋深增加，然",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.15IAIN 0.12 m0.060.030C32011 C4年份 2013 C6 C5 监测井2015",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "而在2013年河岸 $7 5 0 \\mathrm { ~ m ~ }$ 范围内NDVI平均值显著增加，表明在一定地下水埋深水平上，可对次年生长期植物生长变化产生一定的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综合图3、图4可知，短期内生态输水量的不足，对植物总体生长状况影响不大，主要原因是气孔敏感性差异决定植物在干旱胁迫时采取不同的水分调节对策。研究表明，荒漠地区降水极其稀少，植物受干旱胁迫严重[16]。干旱区植物具有等水调节的能力，也即是植物随环境条件变化而调节气孔开闭[17]。随着干旱加剧,植物需水量增加、叶蒸腾速率太低时，植物的水分调节对策会由非等水调节转换为等水调节，以便确保植物水力系统的安全；而当土壤水含量增加时，气孔对植物蒸腾的调节力度便会下降[18-19]。干旱区植物对水分变化敏感,在短期内即可做出相应的应对变化，因此在水源供给量有限的情境下，间歇性水源供给在一定程度上可满足塔里木河下游英苏断面生长。通过C3、C4 监测井多年地下水埋深与月植物生长关系变化可知，当地下水埋深低于 $7 \\mathrm { ~ m ~ }$ 时，基本满足乔木、灌木植物的生长需求,当地下水埋深低于 $6 \\mathrm { ~ m ~ }$ ,以乔木、灌木为主的河岸附近植被量呈现较明显的增幅;通过C5、C6监测井多年地下水埋深与月植物生长关系变化可知，当地下水埋深低于 $6 \\mathrm { ~ m ~ }$ 时，基本能满足植物正常生长需要，当地下水埋深低于 $4 \\mathrm { ~ m ~ }$ 时,对草本植物生长具有一定的促进作用,NDVI值增幅明显。另外，同种植物在不同生长季生长状况存在差异，所需水分量也存在一定差异,根据植物生长特征,其生长期范围在3月16日 $\\sim 1 0$ 月22日之间,其中3\\~4月为植物生长初期，6\\~9为蒸发量最大时期，两段时期分别为植物生长需水量最重要及最大的时期,在此期间,水量供给对植物生长具有重要作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）输水效益的显现是一个漫长的过程，地下水的响应和下游植被的生态响应均在一个大的空间和时间尺度上将逐步显现。生态输水期间，在短期内，临近河道地下水埋深波动较大，而远离河道地下水埋深波动并未受到较大的影响，生态输水作用影响河岸附近地下水埋深变化会产生一定时段的滞后期，且随着距离河道的增加，滞后期增长，本研究所涉及的河岸 $7 5 0 \\mathrm { ~ m ~ }$ 范围内地下水埋深变化响应滞后期基本维持在9个月内。植物对水分变化敏感，在短期内即可对地下水埋深波动做出相应的应对变化，另外，由于植物生长具有季节性，当年地下水埋深值在一定程度上可影响次年土壤水含量，进而影响植物生长。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）多年研究表明，当地下水埋深低于 $7 \\mathrm { ~ m ~ }$ 时，基本满足乔木、灌木植物的生长需求，当地下水埋深低于 $6 \\mathrm { ~ m ~ }$ ,以乔木、灌木为主的河岸附近植被量呈现较明显的增幅。对于草本植物，当地下水埋深低于$6 \\mathrm { ~ m ~ }$ 时，基本能满足其正常生长需要，当地下水埋深低于 $4 \\mathrm { ~ m ~ }$ 时，对其生长具有一定的促进作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）植物在干旱胁迫时，短期内植物总体生长状况影响不大，长期干旱胁迫会影响植物生长。其中3\\~4月植物萌发期为植物生长最重要时期，6\\~8月为植物生长最茂盛时期，依据本研究中对塔里木河下游地下水位的长期监测数据与NDVI变化数据的结合分析，在年总输水量固定的情况下，一年两次是利于河岸植被恢复的最适宜输水次数。由于生态输水一地下水位变化一NDVI变化存在一定的滞后期，建议每年春季4～5月份和夏季7～8月份作为输水期。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］KHADEMM,AFSHARMH.Ahybridized GA withLP-LP model for the management of confined groundwater[J].Ground Water, 2015,53(3):485-492.   \n[2］苏里坦,关东海,王兴勇,等.塔里木河下游胡杨林耗水数值模 型[J].水科学进展,2014,25（4）：511-517.[SULitan,GUAN Donghai,WANG Xingyong,et al.Numerical model of water consumption ofPopulus euphratica in the lower reaches of Tarim River [J].Advances in Water Science,2014,25(4）:511-517.]   \n[3］宋郁东,樊自立,雷志栋,等.中国塔里木河水资源与生态问题 研究［M].乌鲁木齐：新疆人民出版社,2000：37－56.［SONG Yudong,FAN Zili,LEI Zhidong,et al.Research on water resources and ecology of Tarim River,China[M]. Urumqi:Xinjiang People' s Publishing House,2000:37 -56.]   \n[4]CHEN YN,ZHANG XL,ZHU XM,etal.Analysis on the ecological benefits of the stream water conveyance to the dried-up river of thelower reaches of Tarim River,China[J].Science in China SeriesD:Earth Sciences,2004,47(11):1053-1064.   \n[5] PHILIP JR.Plant water relations:Some physical aspects[J].Annual Review of Plant Physiology,1966,17(1):245-268.   \n[6] 康绍忠，蔡焕杰，刘晓明，等.农田\"五水”相互转化的动力学模 式及其应用[J].西北农林科技大学学报：自然科学版，1995， (2):1-9.[KANG Shaozhong,CAI Huanjie,LIU Xiaoming,et al. The dynamic model of air,surface,ground,soil and plant water interrelation and its application[J]. Journal of Northwest A&F University:Natural Science Edition,1995,(2):1-9.]   \n[7］刘迁迁,古力米热·哈那提,苏里坦,等.塔里木河下游河岸带 地下水埋深对生态输水的响应过程[J].干旱区地理,2017,40 (5）:979 -986.[LIU Qianqian,HANATI Gulimire,SU Litan,et al.Response process of groundwater table to ecological water conveyance in the lower reaches of Tarim River riparian zone[J].Arid Land Geography,2017,40(5):979-986.]   \n[8］杨鹏年,邓铭江,李霞,等.塔里木河下游间歇输水下地下水响 应宽度——以塔里木河下游英苏断面为例[J].干旱区研究， 2008,25(3）:331-335.[YANG Pengnian,DENG Mingjiang,LI Xia,et al. Respond width of groundwater level after conveying stream water to the lower reaches of the Tarim River,Xinjiang[J]. Arid Zone Research,2008,25(3）:331-335.]   \n[9]刘亚坤.水力学[M].2版.北京：中国水利水电出版社,2016： 358-373.[LIU Yakun.Hydraulics[M].2nd ed.Beijing:China Water & Power Press,2016:358 -373.]   \n[10]HOFFMAN G J,GENUCHTEN M V.Soil properties and efficient water use: Water management for salinity control[R].Limitations to Efficient Water Use in Crop Production.1983:73 -85.   \n[11]ALLEN R G,PEREIRA L S,RAES D,et al. Crop evapotranspiration: Guidelines for computing crop water requirements[R]. Rome,Italy:FAO,1998.   \n[12］王希义,徐海量,潘存德,等.塔里木河下游地下水埋深对草本 植物地上特征的影响[J].生态学杂志,2015,34（11)：3057- 3064.[WANG Xiyi,XU Hailiang,PAN Cunde,et al. The influence of groundwater depth on aboveground herbaceous characteristics in the lower reaches of Tarim River[J].Chinese Journal of Ecology,2015,34（11） :3057-3064.]   \n[13］盛昊,李均力,杨辽,等.MODIS-NDVI时序数据分析方法研 究——以塔里木河下游第七次秋季输水为例[J].干旱区地 理,2007,30(2）:251-256.[SHENG Hao,LI Junli,YANG Liao, et al.MODIS-NDVI time series method;A case study on the 7th autumn ecologic water conveyance in the lower of Tarim River[J]. Arid Land Geography,2007,30(2）:251-256.]   \n[14］罗丹丹,王传宽,金鹰.植物水分调节对策:等水与非等水行为 [J].植物生态学报,2017,41（9）:1020-1032.[LUO Dandan, WANG Chuankuan,JIN Ying.Plant water-regulation strategies: Isohydric versus anisohydric behavior[J].Chinese Journal of Plant Ecology,2017,41(9）:1020-1032.]   \n[15]ALBASHA R,MAILHOL J C,CHEVIRON B. Compensatory uptake functions in empirical macroscopic root water uptake modelsexperimental and numerical analysis[J].Agricultural Water Management,2015,155（2008）:22 -39.   \n[16］徐海量,宋郁东,王强,等.塔里木河中下游地区不同地下水位 对植被的影响[J].植物生态学报,2004,28（3）:400－405. XU Hailiang,SONG Yudong,WANG Qiang,et al. The ffect of groundwater level on vegetation in the middle and lower reaches of the Tarim River,Xinjiang,China[J].Chinese Journal of Plant Ecology,2004,28(3） :400-405.]   \n[17］付爱红,陈亚宁,李卫红.中国黑河下游荒漠河岸林植物群落 水分利用策略研究[J].中国科学：地球科学,2014，（4)：693- 705.[FU Aihong,CHEN Yaning,LI Weihong.Water use strategies of the desert riparian forest plant community in the lower reaches of Heihe River Basin,China[J].Science China: Earth Sciences,， 2014,(4) :693-705.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18］KLEIN T.The variability of stomatal sensitivity to leaf water potential across tree species indicates a continuum between isohydric and anisohydric behaviours[J].Functional Ecology,2O15,28（6）： 1313-1320. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19]ROGIERS SY,GREERDH,HATFIELDJM,et al.Stomatal response of an anisohydric grapevine cultivar to evaporative demand, available soil moisture and abscisic acid[J].Tree Physiology, 2012,32(3):249. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Influence mechanism of intermittent ecological water conveyance on groundwater level and vegetation in arid land ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HANATI Gulimire $^ { 1 , 2 }$ ，WANG Guang-yan³， ZHANG Yin24，LIU Qian-qian $^ { 2 , 4 }$ ， SU Li-tan²   \n(1Xinjiang Instituteof WaterResourcesandHydropower Research,Urumqi830049,Xinjang,China；2StateKeyLaboratoryof   \nDesertandOasisEcology,XinjiangnstituteofEcologyandGeographyCA,Urumqi830ol1,Xinjiang,China；3angeent Bureau of the Main Streamof Xinjiang Tarim River Basin,Korla 8410o0,Xinjiang,China；4Colege of Resources and Environment,University ofChineseAcademyofScience,Beijing1Ooo49,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:As the typicalarid area ecosystem,the ecosystem in lowerreaches of Tarim River,Xinjiang,China,has astrong dependence on water.Taking Yingsu-section in the lower reaches of Tarim River as the study area,this paperanalyzed qualitatively and quantitativelythe interaction processand the mechanism among the ecological water conveyance,the underground water level change and NDVI change basedon Darcy'slaw,the calculation method of water absorption rate of plant root system and the intercoupling relationship between ecological water conveyance, underground water level change and NDVI change from 2O09 to 2015.The results indicate the folowing conclusions:（1）It takes a long time forthe water conveyance to take effect.The response of the groundwater and the ecological response of vegetation in the lower reaches are graduall revealed atalarge spatio-temporal scale,and there is alinear growth with the increaseof riverbank distance.The study usedmonitoring wells C3,C4,C5,C6 with the distance fromthe riverwayof 59,3Oo,50o,750 meters respectively,and foundthat there was a lag periodof one to nine months during water conveyance.In addition,due to the seasonal nature of plant growth,the groundwater depth value in one year canafect the plant growth inthe next year to acertain degree.（2）The research over years show that when the groundwater depth value is lessthan seven meters,the growth demand of tree and shrub plants is met. For herbaceous plants,when the groundwater depth value is less than six meters,the growth demand is met.（3) When theannual total water supply is fixed,the optimum number of water conveyance for restoration of riverbank vegetation is twice a year.Because there is a certain lag period on the ecological water conveyance—thechange in thegroundwater level—the changes in NDVI,it is recommended that the water conveyance should be held from April to Mayand from July to August.In that way,water supplywill havean influence on plant germination from March to April which is the most important periodof plant growth,and have an influenceon plant flourishing period from June to August which is the period of maximum water demand. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:lower reaches of Tarim River；groundwater level；intermitent ecological water conveyance；NDVI ",
+        "page_idx": 7
+    }
+]

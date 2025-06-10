@@ -1,0 +1,202 @@
+# 钙敏感受体降低血压并改善高血压视网膜血管改变
+
+10.12114/j.issn.1007-9572.2022.0520
+
+赵佳琪1，刘薇1，唐娜1，王腊梅1，屈媛媛²，席冬梅1，钟华1，何芳1\*  
+基金项目：国家自然科学基金项目（31960187）；中国医学科学院中央级公益性科研院所基本科研业务费专项资金  
+资助项目（2020-PT330-003）  
+1.832002 新疆维吾尔族自治区石河子市，石河子大学医学院病理生理教研室/新疆地方病与民族病教育部重点实验  
+室/国家卫生健康委中亚高发病防治重点实验室2.832002 新疆维吾尔族自治区石河子市，石河子大学医学院第一  
+附属医院呼吸内科  
+\*通信作者：何芳，教授；E-mail：fangf2002shz $@$ 126.com
+
+【摘要】背景尽管临床及基础实验中已关注到钙敏感受体在高血压疾病中的作用和机制，但其在高血压视网膜疾病中的作用和机制仍缺乏相关研究。目的 探讨钙敏感受体（CaSR）在高血压视网膜中的表达水平以及与高血压心肌重塑与视网膜血管改变的关系。方法 选取15只8周龄同源健康正常血压大鼠（WKY）作为正常血压（WKY）组，30只同周龄的自发性高血压大鼠（SHR）随机分为高血压（SHR）组及抑制剂（SHR+NPS2143）组。SHR+NPS2143 组腹腔注射CaSR 抑制剂NPS2143。通过无创血压仪监测大鼠血压。通过苏木精和伊红染色（HE）检测视网膜病理变化。通过马松染色（Mason）观察大鼠心肌胶原沉积。通过免疫组织化学染色、实时荧光定量PCR（qRT-PCR）观察CaSR和血管内皮生长因子A（VEGFA）在视网膜的分布和表达。结果与8W、24WWKY相比，同周龄SHR组血压升高（ $P < 0 . 0 5 )$ ），视网膜结构紊乱，厚度增加（ $\cdot P < 0 . 0 5 \dot { . }$ ），且网膜中CaSR表达水平降低，VEGFA表达水平升高（ $\cdot P < 0 . 0 5 )$ ，NPS2143干预至24W 时可明显升高 SHR血压 $( P < 0 . 0 5 )$ ），视网膜结构紊乱加重，厚度显著增加（ $\cdot P < 0 . 0 5 )$ ），且网膜中CaSR表达进一步减少，VEGFA表达进一步升高（ $P$ $< 0 . 0 5$ ）。与同周龄WKY相比，8WSHR组 $\mathrm { H W / B W \% }$ 、LVW/BW%无统计学差异，心肌胶原堆积未见显著增加中 $( P > 0 . 0 5 )$ ），24W SHR 组比重升高，心肌胶原堆积增加，NPS2143干预至24W时可明显升高SHR 的$\mathrm { H W / B W \% }$ 、 $\mathrm { L V W / B W \% }$ ，明显增加SHR的心肌胶原堆积面积（ $\cdot P < 0 . 0 5$ ）。结论CaSR可以降低血压，改善心肌重塑，通过抑制VEGFA表达延缓高血压引起的视网膜血管病变的发生发展。
+
+【关键词】 钙敏感受体；原发性高血压；血管内皮生长因子；视网膜血管；心肌重塑
+
+Calcium-sensitive receptors lower blood pressure and improve retinal vascular changes in hypertension   
+ZHAO Jiaqi',LIU Weil, TANG Nal, WANG Lamei, QU Yuanyuan2, XI Dongmei', ZHONG Hual, HE Fang1\*   
+1. KeyLaboratoryofEducationMinistryofXinjiang Endemicand Ethnic diseases/NHCKeyLaboratory forPreventionand TreatmentofCentralAsiaHigh Incidence Diseases/DepartmentofPathophysiologySchoolofMedicine,ShiheziUniversity Shihezi, Xinjiang 832002, China;   
+2.Departmentof respiratory medicine,the First Afiliated Hospital of Shihezi University School of Medicine,Shihezi, Xinjiang 832002, China   
+\*Corresponding author: HE Fang， Professor; E-mail: fangf2002shz@126.com
+
+[Abstract] Background Although clinical and basic experiments have paid atention to the role and mechanism of calcium-sensing receptors in hypertensive diseases,there is stilla lack of relevant research on its role and mechanism in hypertensive retinal diseases. Objective To investigate the expresion levels of calcium-sensitive receptors (CaSR) in the hypertensive retina andthe relationship with myocardialremodeling and retinal vascularchanges inhypertension.Methods Fifteen 8-week-old homologous healthy normotensiverats (WKY)were selectedas the normotensive（WKY）group,nd 30 same-week-old spontaneously hypertensive rats (SHR)were randomly divided into the hypertensive (SHR) group and the inhibitor(SHR+NPS2143) group.the SHR $^ +$ NPS2143 group was injected intraperitoneally with the CaSR inhibitor NPS2143. Blood pressure were monitored by non-invasive blood pressure monitor.Retinal pathological changes were detected by hematoxylinand eosin staining (HE).Myocardial collagendeposition was observedbyMasson staining.The distributionand expression of CaSR and vascular endothelial growth factorA(VEGFA)in theretina were observedbyimmunohistochemical
+
+# ChinaXiv合作期刊
+
+staining and quantitative real-time fluorescence PCR (qRT-PCR).Results Compared with 8W and 24W WKY,the SHR group at the same week of age had increased blood pressure ( $\begin{array} { r } { P < 0 . 0 5 , } \end{array}$ ,retinal structural disorder, increased thickness ( $P <$ 0.01),and reduced levels of CaSR expression and increased levels of VEGFA expresson in the retina $( \mathbf { P } < 0 . 0 1$ ),NPS2143 intervention up to 24W significantly increased SHR blood pressure ( $\begin{array} { r } { P < 0 . 0 5 \ ' } \end{array}$ , retinal structural disorder aggravated with a significant increase in thickness $\begin{array} { r } { { \cal P } < 0 . 0 1 } \end{array}$ ),and a further decrease in CaSR expression and a further increase in VEGFA expression in the retina $( P < 0 . 0 1 \$ ). Compared with the same week-old WKY, there was no statistical difference in $\mathrm { H W / B W \% }$ （204号 and $\mathrm { L V W / B W \% }$ in the 8W SHR group,and no significant increase in myocardial collagen accumulation was seen $( P > 0 . 0 5 )$ ， while $\mathrm { H W / B W \% }$ and $\mathrm { L V W / B W \% }$ were elevated and myocardial collagen accumulation was increased in the 24W SHR group, and NPS2143 intervention up to 24W significantly elevated $\mathrm { H W / B W \% }$ and $\mathrm { L V W / B W \% }$ in SHR. significantly increased the area of myocardial collagen accumulation in SHR $( P < 0 . 0 5 )$ . Conclusion CaSR lowers blood pressure,improves myocardial remodeling,and delays the development of hypertension-induced retinal vasculopathy by inhibiting VEGFA expression.
+
+[Key Words] Calcium-sensing receptor;Essential hypertension;Vascular endothelial growth factor;Retinalvesels; Myocardial remodeling
+
+高血压是一种常见的心血管疾病，高血压的持续进展可引起心、脑、全身血管系统多个靶器官损害[1，因此血压的监测对高血压的防控具有重要意义。视网膜血管作为全身唯一可以直接通过肉眼观察的血管，关注其变化对高血压的进展评估具有一定的价值[2]。
+
+钙敏感受体（calcium-sensing receptor，CaSR）是G蛋白偶联受体C家族的成员之一，存在于甲状旁腺、肾脏、肠道、骨骼等系统中[3]，在感知细胞外钙离子和维持细胞内外 $\mathrm { C a ^ { 2 + } }$ 稳态的信号通路中起关键作用[4]。本课题组前期研究发现，CaSR激动剂可有效降低血压，改善心肌重塑[5。2018年CaSR 首次在大鼠视网膜中被发现，并证明 CaSR的表达降低与糖尿病视网膜病变发生有关，但CaSR在高血压视网膜血管中的影响尚未见报道。
+
+血管内皮生长因子（vascular endothelial growth factor,VEGF）是诱导血管生成的重要细胞因子，与高血压有着密切联系[7]。临床上局部注射抗VEGF 药物（如雷珠单抗，阿柏西普），可减少高血压性视网膜新生血管的生成。但大多数人对此治疗会产生抵抗力，治疗效果不佳，同时抗VEGF药物也可引起血管收缩与舒张功能失衡，导致全身血压升高[8]。在多项研究中发现，CaSR 可与VEGF共同参与心血管疾病的发展[9-1]。故本研究通过探究CaSR 在高血压大鼠心脏与视网膜血管中的作用，分析CaSR与VEGF在高血压视网膜血管病变中的关系，以期对高血压及高血压靶器官损害的防治提供新思路。
+
+# 1材料与方法
+
+# 1.1 实验动物
+
+7周龄清洁级健康雄性自发性高血压大鼠（spontaneously hypertensive rats，SHR）及同源相同周龄正常血压大鼠（wistar-kyoto rats，WKY）从北京维通利华实验动物有限责任公司购买（许可证编号：SCXK京2021-0006），体重约 $1 8 0 \mathrm { g }$ 。实验经石河子大学医学院第一附属医院医学伦理委员会批准，批准号：A2020-164-01。
+
+大鼠喂养的环境和条件：在通风良好的房间内，光照与黑暗时间为 $1 2 \mathrm { h } / 1 2 \mathrm { h }$ ，房间内温度控制在 $2 2 ^ { \circ } \mathrm { C }$ 左右，湿度保持在 $50 \%$ 左右。喂养环境安静整洁，避免嘈杂。在饲养的过程中，要确保大鼠饮水、饮食自由充足，将所有大鼠按照不同的分组放置在不同的鼠笼中进行饲养。
+
+# 1.2 主要试剂和仪器
+
+NPS2143（美国R&D公司）；CaSR单克隆抗体（武汉三鹰公司）；VEGFA单克隆抗体（武汉博士德公司）；HE 染液（江苏碧云天公司）；DAB显色剂（北京中山金桥公司）；PCR 引物（上海生工生物工程有限公司）；FirstStrand cDNA Synthesis Kit（北京全式金公司）；SYBR Green PCR Kit（上海赛默飞世尔科技公司）；DNA markerII（上海赛默飞世尔科技公司）；TrizolReagent（美国Invitrogen 公司）；PCR 核酸扩增仪（日本 Takara 公司）；低温超速离心机（美国Thermo 公司）；OLYMPUS TH4-20O 倒置显微镜（日本 SANYO 公司）。
+
+# 1.3 方法
+
+1.3.1分组
+
+7周龄雄性WKY及同源相同周龄 SHR大鼠共45只，适应性饲养1周以适应环境，随后随机分为3组：正常血压（WKY）组（ $\mathrm { n } { = } 1 5$ ）；高血压（SHR）组（ $\mathrm { \Delta } \cdot \mathrm { n } { = } 1 5$ ）；抑制剂（ $\cdot \mathrm { S H R } { + } \mathrm { N P S } 2 1 4 3 )$ 组（ $_ { \mathrm { n = 1 5 } }$ ）。其中 SHR+NPS2143组将CaSR 抑制剂 NPS2143以 $4 . 5 \mathrm { m g / k g \cdot d }$ 剂量给予腹腔注射，WKY 组和 SHR 组注射等量生理盐水。
+
+# 1.3.2取材
+
+眼球：分别在持续干预0周（8周龄）、8周（16周龄）和16周（24周龄）时每组随机选取5只大鼠，麻醉后处死大鼠，快速摘出左眼并于 $1 { \times } \mathrm { P B S }$ 缓冲液中稍加清洗，浸没于 $4 \%$ 多聚甲醛溶液中， $4 ~ \mathrm { { ^ \circ C } }$ 保存用于制作病理切片。摘出右眼于 $1 { \times } \mathrm { P B S }$ 缓冲液清洗后，置于装有 $4 \%$ 多聚甲醛溶液的培养血中固定90分钟后， $\mathrm { 1 { \times } P B S }$ 缓冲液反复清洗后，移至立式显微镜下。眼科有齿镊夹住视神经断端，固定眼球，用角膜剪沿角巩膜缘剪下角膜。用镊子将晶状体挑出后，用 $\mathbf { 1 } { \times } \mathbf { P } \mathbf { B } \mathbf { S }$ 缓冲液冲洗剩余眼球内壁，去除残留玻璃体后，用镊子将视网膜完整剥离下来后转移至EP管，标记后、 $. 8 0 ~ \mathrm { ^ { \circ } C }$ 冰箱保存。
+
+心脏：分别在持续干预0周（8周龄）、8周（16周龄）和16周（24周龄）时每组随机选取5只大鼠，麻醉后处死大鼠，用组织剪剪开胸骨，露出心脏。迅速取出心脏，分离出左心室，称重并记录，计算心脏/体重 $\mathrm { \langle H W / B W \% }$ ）和左心室/体重！ $\mathrm { { ' L V W / B W \% } }$ ）。后将心肌组织洗净后包裹在锡箔纸中，储存在 ${ } . 8 0 \ \mathrm { { ^ { \circ } C } }$ 冰箱中，以便日后检测目标蛋白。
+
+# 1.3.3血压测量
+
+用 Softron BP-98A（SOFTRON，日本）大鼠尾部无创血压计测量各组大鼠尾部动脉的收缩压（systolic bloodpressure，SBP）和舒张压（diastolic blood pressure，DBP），用公式计算平均动脉压（mean arterial pressure，MAP）（ $\mathbf { M A P = } 1 / 3$ （3xDBP十SBP-DBP））。室温下，将大鼠固定在大鼠箱中，尾根放置并固定在血压计的充气尾套中，每只大鼠重复测量三次，并取平均值。
+
+# 1.3.4Masson染色
+
+心肌组织于 $4 \%$ 多聚甲醛缓冲液中固定 $2 4 \mathrm { ~ h ~ }$ 。梯度酒精脱水后石蜡包埋切片，切片厚 $5 ~ { \mu \mathrm { m } }$ 。用Masson 染色，显微镜下观察。随机选取每个组织的3个显微镜场并摄片（ $\times 4 0 0$ 放大率），使用Image-ProPlus6.0 软件分析计算胶原面积。摘除的各组大鼠眼球于 $4 \%$ 多聚甲醛溶液中固定 $2 4 \mathrm { ~ h ~ }$ 后，石蜡包埋切片，切片厚 $5 ~ { \mu \mathrm { m } }$ 。用伊红-苏木素染色，显微镜下观察视网膜结构变化，随机选取每个组织的3个显微镜场并摄片（ $\times 4 0 0$ 放大率），
+
+# $1 . 3 . 5 \mathrm { H E }$ 染色
+
+摘除的各组大鼠眼球于 $4 \%$ 多聚甲醛溶液中固定 $2 4 \mathrm { ~ h ~ }$ 后，石蜡包埋切片，切片厚 $5 ~ { \mu \mathrm { m } }$ 。用伊红-苏木素染色，显微镜下观察视网膜结构变化，随机选取每个组织的3个显微镜场并摄片（ $\times 4 0 0$ 放大率），用ImageJ软件测量视网膜各层厚度。
+
+# 1.3.6免疫组织化学染色
+
+切片去石蜡后，高压抗原修复 $1 0 \mathrm { { m i n } }$ ，内源性过氧化物酶抑制剂室温 $1 0 \mathrm { { m i n } }$ ，而后将视网膜切片与抗CaSR的一级大鼠单克隆抗体（1:50）、抗VEGFA的一级大鼠单克隆抗体（1:50）在 $4 ^ { \circ } \mathrm { C }$ 下孵育过夜。次日PBS 缓冲液冲洗3遍后，将切片与辣根过氧化物酶结合的二抗在 $3 7 ^ { \circ } \mathrm { C }$ 下孵育半小时。冲洗后滴加DAB 溶液显色，紫木苏复染，脱水封片。显微镜下观察并摄片（ $\times 4 0 0$ 放大率）。
+
+# 1.3.7实时荧光定量聚合酶链式反应（qRT-PCR）
+
+从24 周龄各组的视网膜组织中提取总RNA，NanoDrop 2000 超微量分光光度计测量总RNA 的浓度和纯度。使并根据制造商的手册将 $3 \mathrm { m g }$ 总RNA 逆转录为 cDNA。qRT-PCR 在包含 SYBR Green/Fluorescein qPCR MasterMix、正向引物、反向引物和cDNA的反应体系（ $2 0 ~ \mu \mathrm { L } )$ ）中进行。基因的相对表达量与GAPDH（内部参考基因)进行了归一化。采用 ABI7500 实时 PCR 系统进行操作。CaSR、VEGFA 和GAPDH的引物来自上海生工生物工程有限公司，引物序列如表1所示。
+
+表1引物序列 Table1Primer sequences   
+
+<html><body><table><tr><td>基因</td><td>引物序列 (5'-3')</td></tr><tr><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>GAPDH</td><td>F:GACATGCCGCCTGGAGAAAC</td></tr><tr><td>VEGFA</td><td>R:AGCCCAGGATGCCCTTTAGT F:CCCTGGCTTTACTGCTGTACC</td></tr><tr><td></td><td>R:CTTCATGGGCTTTCTGCTCCC</td></tr><tr><td>CaSR</td><td>F:ACGAGCCTCAGAAGAATGCC</td></tr><tr><td></td><td></td></tr><tr><td></td><td>R:TCCGCATCTGCACACTGTAG</td></tr></table></body></html>
+
+1.4 统计学分析
+
+采用SPSS24.0软件进行统计分析，实验所得数据以均数 $\cdot \pm$ 标准差（ $\bar { x } { \pm } S$ ）表示。多组间比较采用单因素方差分析，组间两两比较时，若方差齐时，采用 SNK检验；若方差不齐时，采用Dunnett-t3 检验。以 $\mathsf { P } < 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+$2 . 1 \mathrm { C a S R }$ 对大鼠血压的影响
+
+与8W、24WWKY相比，同周龄SHR组SBP,DBP及MAP升高（ $\cdot P < 0 . 0 5 .$ ），且24W时较8W升高更为显著（ $( P < 0 . 0 5 )$ ），NPS2143干预至24W时可明显升高 SHR的SBP，DBP和MAP（ $\cdot P < 0 . 0 5$ ）（图1）。
+
+注：A:SBP；B:DBP；C:MAP。 $^ { * } P { < } 0 . 0 5$ ，SHR组 $\nu s$ 同周龄WKY 组； $^ { * * } P { < } 0 . 0 5$ ，24周龄各组 $\nu s 8$ 周龄各组;  
+$^ { \# } P { < } 0 . 0 5$ ， $\mathrm { S H R + N P S } 2 1 4 3$ 组 $\mathbf { \sigma } _ { \nu \mathbf { { \mathcal { S } } } }$ 同周龄 SHR组。
+
+![](images/80fefa6988e1b601417d979978db040af992718ecc893c8ebec06682972e66e0.jpg)  
+图1CaSR对大鼠血压的影响  
+Figure1EffectofCaSR on blood pressure in rats
+
+$2 . 2 \mathrm { C a S R }$ 对大鼠心肌重塑的影响
+
+与同周龄WKY相比，8WSHR组 $\mathrm { H W / B W \% }$ 、LVW/BW $\%$ 无统计学差异！ $( P > 0 . 0 5 ) \$ ），24WSHR组 $\mathrm { H W / B W \% }$ 、$\mathrm { L V W / B W \% }$ 显著升高( $. P < 0 . 0 5 )$ ，NPS2143干预至24W 时可明显升高 SHR 的 $\mathrm { H W / B W \% }$ 、LVW/BW $\%$ （ $\cdot P < 0 . 0 5 )$ ;Masson 染色结果显示：与同周龄WKY相比，8W SHR 组心肌胶原堆积未见显著增加（ $\cdot P > 0 . 0 5 )$ ，24W SHR组心肌胶原堆积显著升高（ $\cdot P < 0 . 0 5 \dot { . }$ ），NPS2143干预至24W时可明显增加SHR的心肌胶原堆积面积（ $P < 0 . 0 5$ ）（图2）。
+
+# ChinaXiv合作期刊
+
+注：A：HW/BW%；B：LVW/BW%；C：心肌组织马松染色图像（ $\times 4 0 0$ ）；D：C的定量分析。 $^ { * } P { < } 0 . 0 5$ ; $* * P { < } 0 . 0 1$ ；\*\*\* $P { < } 0 . 0 0 1$ （
+
+![](images/699178d0a4be08141797e3ef80817562326c311d7a823576554df8ebc6263074.jpg)  
+图2CaSR对大鼠心肌重塑的影响  
+Figure 2Effectof CaSR on myocardial remodelingin rats
+
+# 2.3大鼠视网膜结构变化
+
+8W、24W SHR 组视网膜各层排列不规则，其中内界膜不规则较为明显，神经纤维层疏松，而 SHR+NPS2143组以上改变更加明显。与WKY组相比，各周龄SHR组视网膜总厚度均增加（ $\textstyle P < 0 . 0 5 ,$ ），且24W较8W增厚更明显 $\cdot P < 0 . 0 5 )$ ），8W 时SHR 组视网膜增厚以内丛状层增厚为主 $( P < 0 . 0 5 )$ ，24W时 SHR 组内丛状层与内核层均增厚（ $( P < 0 . 0 5 )$ ，NPS2143干预至24W时SHR的视网膜总厚度显著增加（ $\cdot P < 0 . 0 5$ ），且内丛状层与内核层均增厚（ $( P < 0 . 0 5$ ）（表2-4，图3）。
+
+Table 2Comparison of total retinal thickness of rats in each groul   
+
+<html><body><table><tr><td>分组</td><td>8 weeks</td><td>24 weeks</td><td>t值</td><td>p值</td></tr><tr><td>WKY</td><td>56.08±4.69</td><td>95.01±1.36**</td><td>14.430</td><td>0.000</td></tr><tr><td>SHR</td><td>72.18±9.02*</td><td>112.89±8.69***</td><td>12.290</td><td>0.000</td></tr><tr><td>SHR+NPS2143</td><td>70.63±2.63</td><td>193.24±29.15***#</td><td>36.670</td><td>0.000</td></tr></table></body></html>
+
+注： $^ { * } P { < } 0 . 0 5$ ，SHR 组vs 同周龄WKY组； $^ { * * } P { < } 0 . 0 5$ ，24周龄各组 $\nu s \ 8$ 周龄各组； $^ { \# } P { < } 0 . 0 5$ ，SHR+NPS2143 组vs同周龄 SHR组。
+
+表2各组大鼠视网膜总厚度比较（ $\bar { x } \mathrm { { \pm } S }$ ， $n { = } 1 5$ ， $\mu \mathrm { m }$ ）  
+表3各组大鼠视网膜内丛状层厚度比较（ $\bar { x } \mathrm { { \pm } S }$ ， $n { = } 1 5$ ，μm)  
+le 3 Comparison of intraretinal plexiform layer thickness of rats in each grouj   
+
+<html><body><table><tr><td>分组</td><td>8 weeks</td><td>24 weeks</td><td>t值</td><td>p值</td></tr><tr><td>WKY</td><td>12.59±1.99</td><td>22.23±1.69**</td><td>4.544</td><td>0.001</td></tr><tr><td>SHR</td><td>19.76±0.51*</td><td>33.94±3.16****</td><td>6.744</td><td>0.000</td></tr><tr><td>SHR+NPS2143</td><td>19.33±0.58</td><td>55.33±9.95**#</td><td>17.120</td><td>0.000</td></tr></table></body></html>
+
+注： $^ { * } P { < } 0 . 0 5$ ，SHR 组vs 同周龄WKY组； $^ { * * } P { < } 0 . 0 5$ ，24周龄各组vs8周龄各组； $^ { \# } P { < } 0 . 0 5$ ， $\mathrm { S H R + N P S } 2 1 4 3$ 组vs同周龄 SHR组。
+
+表4各组大鼠视网膜内核层厚度比较（ $\bar { x } \mathrm { { \pm } S }$ ， $n { = } 1 5$ ， $\mu \mathrm { m }$ ））  
+Table 4Comparison of inner retinal layer thickness of rats in each group   
+
+<html><body><table><tr><td>分组</td><td>8 weeks</td><td>24 weeks</td><td>t值</td><td>p值</td></tr><tr><td>WKY</td><td>5.81±0.63</td><td>12.09±1.21**</td><td>6.650</td><td>0.000</td></tr><tr><td>SHR</td><td>7.45±0.57</td><td>15.59±1.05*,**</td><td>11.180</td><td>0.000</td></tr><tr><td>SHR+NPS2143</td><td>7.87±0.96</td><td>25.27±2.46**#</td><td>22.810</td><td>0.000</td></tr></table></body></html>
+
+注： $^ { * } P { < } 0 . 0 5$ ，SHR 组vs 同周龄WKY组； $^ { * * } P { < } 0 . 0 5$ ，24周龄各组vs8周龄各组； $^ { \# } P { < } 0 . 0 5$ ，SHR+NPS2143 组vs同周龄 SHR 组。
+
+![](images/33fc3ed56c34927b43450779d899d702971d84826e04b672eacdf8be56526f30.jpg)  
+图3大鼠视网膜结构变化（HE 染色 $\times 4 0 0$ ） Figure 3 Structural changes in the rat retina
+
+2.4大鼠视网膜组织中CaSR、VEGFA定位与表达
+
+8W 时，WKY组CaSR免疫阳性产物主要分布于内界膜及神经节细胞层，胞质呈深棕黄色，阳性产物表达较强，SHR 组CaSR 免疫阳性产物主要分布于少数神经节细胞的胞浆中，阳性产物表达较弱；与之相反的是，WKY组 VEGFA 免疫阳性产物主要分布于少数神经节细胞的胞浆中，阳性产物表达较弱，SHR组VEGFA 免疫阳性主要产物分布于神经节细胞层、内核层及外丛状层，胞质呈深棕黄色，阳性产物表达较强。qRT-PCR结果显示：与WKY组相比，24WSHR组视网膜中CaSR相对表达水平降低（ $\cdot P < 0 . 0 5 \dot { s } .$ ），VEGFA相对表达水平升高（ $P < 0 . 0 5 )$ ），NPS2143干预至24W时SHR视网膜中CaSR相对表达水平降低，VEGFA相对表达水平升高（ $( P < 0 . 0 5$ ）（图4）。
+
+主：A：视网膜免疫组化染色图像（ $\times 4 0 0 ^ { \cdot }$ ）；B,C:CaSR,VEGFA的 mRNA 定量分析。 $* * * P { \ < } 0 . 0 0 1$ ； \*\*\*\*P<0.0001c
+
+![](images/41b453edc5944d48b9b58cc0fec4c6a468ae85fd23f531cf63b69f3266ae49d4.jpg)  
+图4大鼠视网膜组织中CaSR、VEGFA定位与表达  
+Figure 4 Localization and expression of CaSR and VEGFA in retinal tissues
+
+3讨论
+
+长期高血压控制不良可造成心脏结构发生变化，包括左心室舒张功能障碍、左心室肥厚、心肌收缩功能障碍，最终引发心力衰竭。相较于血压正常的患者，光学相干断层扫描（OCT）检查观察到高血压患者的视网膜多层结构反射不平整，厚度增厚[2]。临床上对于高血压引起的靶器官损害主要以全身降压，营养神经，辅以局部注药，但疗效并不显著。
+
+CaSR 通过调节多种信号途径发挥生物学效应，参与高血压的发生发展。激活CaSR，可以抑制肾素的分泌，进而降低血管紧张素II（Angiotensin ⅡI，Ang II）和醛固酮的水平，使血压降低[13]。而CaSR介导的多种功能主要与亲水的细胞外结构（ECD）有关，其除了能与多价阳离子（如 $\mathrm { C a } ^ { 2 + }$ ， $\mathbf { M } \mathbf { g } ^ { 2 + }$ ， $\mathrm { G d ^ { 3 + } }$ 等）[14]、多胺类（如精胺等）及某
+
+# ChinaXiv合作期刊
+
+些抗生素（如新霉素等）直接结合外，也受到别构激动剂（西那卡塞、calindol）和别构抑制剂（NPS2143 和Calhex-231）的影响[15]。为了探究CaSR 在高血压心肌重塑及视网膜血管病变的作用，我们通过建立自发性高血压大鼠模型并给予CaSR 别构抑制剂NPS2143来加以证明，结果发现高血压大鼠血压升高，视网膜中CaSR 表达减少，视网膜结构紊乱，总厚度增加，给予NPS2143 处理后，高血压大鼠血压进一步升高，视网膜中CaSR含量减少，视网膜结构紊乱加重，提示高血压引起的视网膜血管病变与CaSR表达降低有关，而在8W时，与正常血压大鼠相比，高血压大鼠 $\mathrm { H W / B W \% }$ 、 $\mathrm { L V W / B W \% }$ 未见明显改变，也无明显心肌胶原沉积，至24W时，高血压大鼠 $\mathrm { H W / B W \% }$ 、$\mathrm { L V W / B W \% }$ 显著升高，心肌胶原沉积增加，给予NPS2143干预加重了心肌纤维化程度。由于心肌肥厚早期的可逆转性，高血压患者发现左心室肥厚之后，积极有效的降血压治疗可以最大限度的延缓病情进展，降低并发症的发生率[2]。而高血压视网膜结构改变早于心肌病变，提示可以通过视网膜血管检查评估高血压心肌重塑状态，且视网膜检查相较心脏检查更为简单易行，便于基层及社区医院的开展，也极大提高了患者尤其是高龄患者的医从性，有助于高血压的筛查及早期防控，延缓高血压引起的心功能不全，降低意外与病死率。
+
+早期研究中被发现，当患者发生高血压时，血清中VEGF表达水平升高[16。研究指出VEGF可通过提高电压依赖性钙通道的激活电压，减少细胞外钙离子进入细胞内[I7]，可刺激血管生成[18]。哺乳动物的VEGF家族由五种糖蛋白组成：VEGFA、VEGFB、VEGFC、VEGFD 和胎盘生长因子[19]，其中 VEGFA是血管生成的关键媒介，通过与血管内皮细胞上表达的VEGF受体-1（VEGFR-1）和VEGF受体-2（VEGFR-2）结合，影响血管通透性和血管新生[9]。本研究发现，高血压大鼠视网膜中VEGFA表达增加。临床上将抗VEGF单克隆抗体作为血管生成抑制剂，通过阻断 VEGF改善视网膜缺血和缺氧，抗VEGF 治疗已被推荐为视网膜静脉阻塞（RVO）的一线治疗方法[20,21]。然而大多数人最终会对目前的血管生成抑制剂疗法产生抵抗力，减弱治疗效果，因此提出通过应用G蛋白偶联受体可以降低 VEGF抑制剂的耐药性[22]。在使用了CaSR 抑制剂 NPS2143 处理后，高血压大鼠视网膜中CaSR 进一步减少，VEGFA表达明显增加。提示CaSR抑制剂通过减少CaSR活化，加重VEGF的作用，进而加剧高血压视网膜缺血缺氧的发生。提示临床中可通过拟钙剂与VEGF抑制剂的联合应用，在降低血压的同时，降低机体对VEGF抑制剂的抵抗力，加强药物在高血压中的治疗效果。
+
+综上所述，通过应用CaSR抑制剂，减少CaSR活化，使细胞内外钙离子浓度失调，加重VEGF引起的新生血管生成，加剧高血压引起的心肌重塑与视网膜血管病变的发展，且视网膜血管病变发生早于心脏，这也为临床高血压及其引起的靶器官损害的早期防控提供了新思路。但本研究也存在一定的不足，CaSR 激活后可降低VEGFA 表达，但其在眼压上作用上因实验仪器的局限未能加以证明，这有待后续继续研究。
+
+作者贡献：赵佳琪提出研究选题方向，进行文章的构思与设计，负责数据收集和统计学分析；赵佳琪、刘薇、唐娜、王腊梅负责撰写论文初稿和论文修订；刘薇、唐娜、屈媛媛、席冬梅负责数据收集、统计学分析、绘制图表；钟华、何芳进行数据复核，负责文章的质量控制及审校，对文章整体负责；所有作者确认了论文的最终稿。
+
+本文无利益冲突。
+
+# 参考文献
+
+[1]THOMAS U,CLAUDIO B,FADI C,et al. 2020 International societyof hypertension global hypertension practice guidelines [J]. Jhypertens,2020,38 (6): 982-1004. DOI: 10.1097/HJH.0000000000002453.   
+[2] 陶相宜，董志军，董微丽．高血压性视网膜病变与高血压靶器官损害的相关关系分析[J]．河北医药,2017,39 (13): 2004-2007. DOI: 10.3969/j.issn.1002-7386.2017.13.024. TAO XY,DONG ZJ,DONG WL.Analysis of the corelation between hypertensive retinopathyand hypertensive target organ damage [J]. Hebei Med J,2017,39 (13): 2004-2007.DOI: 10.3969/j.issn.1002-7386.2017.13.024.   
+[3] BENEDETTO DP, RUSCITTI P, VADASZ Z,et al. Macrophages with regulatory functions,a possible new therapeutic perspective in autoimmune diseases [J]. Autoimmun Rev，2019，18 (10):102369.DOI: 10.1016/j.autrev.2019.102369.   
+[4]TANR SG,LEE CHL,DIMKE H,et al.Theroleof calcium-sensing receptor signaling in regulating transepithelial calcium transport [J]. Exp Biol Med (Mayw00d),2021, 0: 1-13. DOI: 10.1177/15353702211010415.
+
+# ChinaXiv合作期刊
+
+[6]JIANG P,HUANGR,MAN,etal.TheExpresionofcalciumsensing receptorinnormaland diabeticrat eyes[J].Med Sci Monit, 2018, 24: 706-710. DOI: 10.12659/msm.905657.   
+[7]ABDELRE-N,DALIA Z, MOHAMMEDE,et al.The role ofvildagliptin in treating hypertensionthrough modulating serum VEGF in diabetic hypertensive patients [J].J Cardiovasc Pharmacol Ther,2019,24 (3):254-261.DOI: 10.1177/1074248418817345.   
+[8] 董志超，吕海辰．血管内皮生长因子信号通路抑制剂相关高血压研究进展[J].大连医科大学学报,2022,44 (01): 1-8. DONG Z C,LV H C.Advances in the study of hypertension associated with inhibitors of vascular endothelial growth factor signaling pathway[J]. JDalian Med Uni,2022,44 (01): 1-8.   
+[9] YAMAMURAA,NAYEEM MJ,SATO M. Roles of growth factors on vascular remodeling in pulmonary hypertension [J].Folia Pharmacol Jap,2021,156 (3): 161-165.DOI: 10.1254/fpj.21006.   
+[10]王秀力，姜世强，刘颖，等．慢病毒介导Wnt蛋白5A基因过表达对骨髓间充质干细胞移植治疗心肌梗死大鼠的 影响[J].中华实验外科杂志,2021,38(09):1720-1723. WANG X L, JIANG S Q,LIU Y, et al. Eect oflentivirus-mediated Wnt protein 5A gene overexpression on myocardial infarction inrats treated withbone marrow mesenchymalstemcelltransplantation[J].ChinJExp Surg,2021,38(09): 1720-1723.   
+[11] ZHANG Y, YIN W H, YANG F,et al.VEGF121 mediates post-hypoxia cardioprotective efects via CaSR and mitochondria-dependentprotease pathway[J].Arq Bras Cardiol,2021,117(3): 476-483.DOI: 10.36660/abc.20190902.   
+[12]刘银和，蒋自培，董海曙，等.□级高血压性视网膜病变黄斑区OCT 及血管成像特征[J].中华眼视光学与视觉 科学杂志,2021,23 (10): 736-744. LIU Y H, JIANG Z P, DONG H S, et al. OCT and angiographic features of macular area in grade II hypertensive retinopathy [J]. Ophthalmol Visual Sci,2021, 23 (10): 736-744.   
+[13] MAILLARD MP, TEDJANI A, PERREGAUX C,et al. Calcium-sensing receptors modulate renin release in vivo and in vitro in the rat[J].JHypertens,2009,27 (10): 1980-1987.DOI: 10.3760/cma.j.cn115909-20210526-00216.   
+[14] HUANG Y, ZHOU Y B, YANG W, et al. Identification and dissection of $\mathrm { C a } ^ { 2 + }$ -binding sites in the extracellular domain of $\mathrm { C a } ^ { 2 + } .$ -sensing receptor [J].The JBiol Chem,2007,282 (26): 19000-19010.DOI: 10.1097/HJH.0b013e32832f0d22.   
+[15] WIDLERL,ALTMANNE,BEERLIR,etal.1-Alkyl-4-phenyl-6-alkoxy-1H-quinazolin-2-ones: a novel seriesofpotent calcium-sensing receptor antagonists [J].JMed Chem,2010,53(5): 2250-2263.DOI: 10.1074/jbc.M701096200.   
+[16] WANGYH, ZHANG X Y,HAN Y Q,et al. Eficacy ofcombined medication of nifedipine and magnesium sulfate on gestational hypertensionandthe efectonPAPP-A,VEGF,NO,Hcyand vWF[J].Saudi JBiolSci,2019,26 (8): 2043- 2047. DOI: 10.1021/jm901811v.   
+[17]MAYY,LIKY,WANGJJ,et al. Vascular endothelial growth factor acutelyreduces calcium influx via inhibitionof the $\mathrm { C a } ^ { 2 + }$ channels in rat hippocampal neurons[J].J Neurosci Res，2009，87 (2): 393-402.DOI: 10.1016/j.sjbs.2019.08.012.   
+[18]MOCCIAF.Calcium signaling in endothelial colony formingcels inhealth and disease[J].AdvExpMed Biol,2020, 1131: 1013-1030. DOI: 10.1002/jnr.21859.   
+[19] OHM,RHOSB,SONC,etal. Nonproteolyticcalpain-6 interacts with VEGFAand promotes angiogenesis by increasing VEGF secretion[J].SciRep,2019,9(1): 15771.DOI: 10.1007/978-3-030-12457-1_40.10.1038/s41388-020-01444-3   
+[20] CAMPOCHIAROPA,BHISITKULR B,SHAPIRO H,et al. Vascular endothelial growth factor promotes progressive
+
+# ChinaXiv合作期刊
+
+retinal nonperfusion in patients with retinal veinoclusion [J].Ophthalmology，2013，120(4):795-802.DOI:   
+10.1038/s41598-019-52364-6. [21] CAMPOCHIAROPA, WYKOFFCC,SHAPIRO H,et al. Neutralization of vascular endothelial growth factor slows progression ofretinal nonperfusion in patients with diabetic macular edema[J]. Ophthalmology,2014,121(9):1783-   
+1789. DOI: 10.1016/j.ophtha.2012.09.032. [22] AZADAK,ZHABYEYEVP,VANHAESEBROECKB,etal. Inactivationofendothelialcellphosphoinositide3-kinase （20 $\beta$ inhibitstumor angiogenesisand tumorgrowth [J].Oncogene， 2020，39 (41): 6480-6492.DOI:   
+10.1016/j.ophtha.2014.03.021.

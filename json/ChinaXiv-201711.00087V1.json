@@ -1,0 +1,349 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201607081399 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马志波,肖文发,黄清麟,庄崇洋.生态学中的点格局研究概况及其在国内的应用.生态学报,2017,37（19):6624-6632.MaZB,XiaoaQangCvoftpaalsiogdiloiactao7(19)：6624-6632.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态学中的点格局研究概况及其在国内的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马志波1,²，肖文发1，\\*，黄清麟²，庄崇洋",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国林业科学研究院森林生态环境与保护研究所，北京100091  \n2中国林业科学研究院资源信息研究所，国家林业局林业遥感与信息技术重点实验室，北京100091",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：点格局分析是研究生态学格局的工具之一，近年来在生态学中的应用越来越多。为深入了解点格局分析方法在国内的研究与应用情况,以所总结的研究进展、一般步骤和基本要点为背景,分析评述了1996—2015年期间以点格局为主题的国内中文核心期刊文献。结果表明,在国内生态学格局研究中,应用研究占据主导地位,研究对象广泛,包括以树木为主的乔、灌、草等不同生活型的植物,甚至包括景观;基础研究,包括概括性统计量、零模型与点过程模型等方面,以及专用软件工具包的开发等研究薄弱。在应用中存在一定问题,主要表现为：概括性统计量使用单一,且以 Ripley的K-函数及其变形为主;零模型（或点过程模型)是科学问题的统计表达,但是有一半以上的研究未明确给出零模型。建议在未来应用研究中重视多种统计量的组合使用和原假设的建立,在探讨热带、亚热带森林等具有复杂空间结构系统的多样性格局时,考虑对象的不同世代和系统的不同垂直层次,并加强多变量或三维概括性统计量的开发、点格局分析方法与动态过程模型的结合研究等工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：格局；生态学；概括性统计量；零模型；群落物种多样性格局",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A review of point pattern analysis in ecology and its application in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Zhibo1,2， XIAO Wenfa1,\\*， HUANG Qinglin²， ZHUANG Chongyang2   \n1 Research Instituteof Forest EcologyEnvironmentand Protetion，Chinese Academyof Forestry，Beijing 1091,China   \n2ResearchstitefesesocefateiedeofFrestryLbtfFesteotesindt   \nTechnology，State Forestry Administration,Beijing 10o091,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Point paternanalysis,i.e.,spatial point patternanalysis（SPPA）isatoolused inecological pattrnresearch and has recently become increasingly popularin eology.Tobeter understand SPPA researchand itsapplication in China, in this review we examined articles regarding SPPA published from1996to 2015 in China，which was based ona summary ofthe research progress，using stepsand key points of SPPA.Itwas found that most articles focused onapplicationresearch. Althoughtherewere extensivestudy objects，including forests，shrubs，grasslands，and landscapes，trees in forest communities were the main focus in allthese appication studies.Fundamental studies were foundto beunderdeveloped, such as studies regarding summary statisticsand nullmodels or point process models in SPPA，andthe developmentof specific software packages for SPPA.Two important problems were found in SPPA aplications:Firstly，although thereare many alternatives，researchers preferred single summary statistics and only selected the $K$ -function or its transformations; and secondly,although selecting null modelsasnull hypotheses wasa key step in SPPA，more thanhalf of theresearch examineddidnotspecifyexplicitnullmodels.Therefore，itisrecommended thatdiferent typesofsummarystatisticsare used to capture detailed spatial patern structures，and the ecological questionsor hypotheses shouldbe clearly statedand correctlytranslated intostatisticallanguage，i.e.，thenullmodelandtests.Verticallayersanddiferentgenerationsshould alsobe considered when studying systems with complex spatial structures，suchas in tropicalrainforestsand subtropical evergreen broad-leaved forests.To enhance basic SPPAapplications，these aspectsdiscussd should bestrengthened. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words : point pattrn； ecology ； summary statistics； null model； community biodiversity pattern",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近20年来,空间格局分析引起了越来越多生态学家的关注,它已成为联系生态学过程、研究物种分布与共存机制、检验多样性维持相关假说的一个重要途径[1-16]。由于格局与尺度关系密切,而点格局分析方法能揭示不同尺度的格局,因此点格局分析方法是空间格局分析的最主要方法[17-19]。点格局可以保留影响生态学对象格局的过程的痕迹、保存描述生态学对象特征的属性的取值[1-1],因此,通过点格局分析能提取到关于潜在过程的有价值信息[20-23]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "要使用空间格局提供的信息,首先要精确描述它们的空间结构。空间统计学家用概括性特征（summarycharacteristics）[18],亦称概括性统计量（summary statistics）[20],来实现这一目的。最广为人知的概括性统计量是Ripley 的 $K$ 函数[24],表示给定距离 $\\boldsymbol { r }$ 内格局的点的期望值。除了 $K$ 函数,还有很多其他形式的概括性统计量,描述点格局的不同方面[18,20]。这些概括性统计量的计算可通过 $\\bar { \\bf \\Phi }$ 语言[25]程序包“spatstat”[19]和“spatialsegregation”[26],以及 Programita[20,27]、ADE- $4 ^ { [ 2 8 ] }$ 等专门软件包来实现。商业软件 SAS（SAS/STAT13.2)也增加了点格局分析程序。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国际上,在应用研究需求增加的激励下,点格局分析的基础研究十分活跃,成果丰富,但较偏重数学和统计学理论,不易理解和掌握,在应用研究中使用最多的仍然是 $K$ 函数,有些方法已提出20 年以上却仍不为广大生态学家熟悉[29]。在国内,有学者介绍了点格局分析方法[30]、总结了研究与应用概况[31-3],但是对使用步骤、基本要点缺乏系统总结。只有个别国内学者就点格局分析方法本身做了研究[34-37],大量存在的是应用研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "概括而言,点格局分析包括数据的收集与分类、概括性统计量的选择、零模型的选择与检验3个主要步骤,目的是通过比较观测格局与根据随机过程或者零模型模拟产生的格局,判断生态学对象在不同尺度上的分布类型、建立与潜在过程之间的联系。数据的分类与零模型的选择非常重要,前者与所研究的科学问题和具体分析方法的选择有密切联系,后者是检验生态学假说的桥梁,但是这两个方面又最容易被忽视,特别是作为原假设的零模型,在国外应用研究中很少被明确的声明[29],国内情况如何,不得而知。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为此,本文结合点格局分析方法的基本原理,总结了点格局分析主要步骤和其中包含的要点及研究进展，并以此为参照,对国内近20年(1996—2015年)点格局分析方法的研究与应用情况进行比对和评价,提出建议和展望。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1文献检索方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在\"超星发现”平台的“中文核心”“CSCD”和“EI\"库中,检索“1996—2015”期间以“点格局\"或“空间点格局\"为主题的所有“期刊\"文献,共得到232条结果。又根据英文文献查阅结果进行补充检索,得到总计238篇中文期刊文献,涉及生物学、经济学、天文学、社会学、环境学、医学和工业技术7大领域(图1A）。根据摘要、研究方法和结论,缩小范围到生态学科,最终保留189篇中文期刊文献(图1B)用于点格局分析方法在国内研究与应用情况分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文只检索期刊文献,不能包括所有研究成果(不含图书、论文集、学位论文),但是按上述方法进行文献检索可保证检索对象的代表性。在分析国内文献前,本文通过检索相同主题的英文期刊文献（检索平台;ISIWeb of Knowledge 核心库)和查阅工具书[17-20],总结了点格局分析方法的主要步骤,介绍了其中的要点和相应的研究进展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2点格局分析方法研究进展",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1点过程与点格局的定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在数学中， $d$ 维实数集 $\\mathbb { R } ^ { d }$ 中的点过程就是随机数 $N$ 在可测度的空间[N,N]中的取值,其中N为 $\\mathbb { R } ^ { d }$ 的点的所有序列 $\\left\\{ x _ { n } \\right\\}$ 族,满足局部有限性条件,即每一个 $\\mathbb { R } ^ { d }$ 的有界子集只包括有限数量的点[38]。术语“过程”是一种习惯表达,在大多数情况下并不代表时间动态,因此用“随机点场(random point field)”这一术语更为确切[39]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一个点格局就是一个点过程的一个实现(realization）[18]。可以把点格局理解为从某一区域（或集合)抽取的一群点,而点过程就是无规律(即随机)点格局的数学模型[17-18]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 主要步骤及要点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进行生态学点格局分析，首先要收集数据并对数据进行归类,然后选择概括性统计量并根据观测数据求出结果。最后,选择零模型并进行模拟运算,根据观测结果与模拟结果的比较,判断不同尺度上生态学对象的分布格局,并根据生态学理论,建立分布格局与生态学过程之间的联系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)数据收集及其分类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "点格局数据,就是具有坐标的、被抽象化为点的生态学对象[40]。这些点被限定在一定面积的、被称为观察窗的样地内[19]。观察窗通常为方形、长方形或圆形等规则形状,但不绝对[9-20],大小取决于所研究的科学问题,例如,当关注大尺度的环境因子对物种分布的影响时,需要足够大的观察窗把典型的环境变异包含在内。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "点格局数据还可以包括生态学对象的属性（树木的大小、龄级、存亡状态等),即所谓的标记（marks）。根据类型的多寡（一种林木,多种林木）、标记的有无和标记的类型（指定量还是定性的标记),可以把点格局数据分成10个类型[20]。数据类型与所研究的科学问题（如:单变量格局通常关注格局类型与对应尺度分析,多变量格局关注对象之间的关联性)和具体的分析方法联系密切，因此明确数据类型十分必要。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)选择概括性统计量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文根据文献和专著[17-20,24,27,39,41-43]总结常见概括性统计量列于表1。单变量形式可方便地拓展为多变量形式[19],且多以完全随机（complete spatial random，CSR)为假设条件[18],故表1只列出基于CSR 的单变量形式。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ab9906985ed019fe09a03b201ad91d41286217c121592ffaed9d2d2c14b0af8.jpg",
+        "table_caption": [
+            "表1点格局分析常用概括性统计量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Table 1 Common summary statistics in point pattern analysis</td></tr><tr><td>概括性统计量 Summary statistics</td><td>符号 表达式 Symbol Expression</td><td>参数的含义 Notes of parameters</td></tr><tr><td>密度 Intensity</td><td>入 λ =E(N(B))/v(B)</td><td>E(N(B))：任意集合B中的平均点数；v(B)：B的面积</td></tr><tr><td>Ripley的K函数 Ripley's K-function</td><td>K(r) K(r)= λ-¹E[·]</td><td>E[·]：在以任意一点为圆心、r为半径的圆内点数的期望 值，不包括圆心</td></tr><tr><td>K(r)的变形</td><td>L(r) L(r）= √K(r)/π</td><td>参考K(r)</td></tr><tr><td>transformations of K(r)</td><td>L(r) L2(r)= √K(r)/π- r</td><td>参考K(r)</td></tr><tr><td>配对相关函数 pair correlation function</td><td>g(r) g（r）=K（r）</td><td>K（r）：关于r的K函数的导数</td></tr><tr><td>圆环统计量</td><td>2mπr 0(r) 0(r)=λg(r)</td><td>O(r)：以任意一点为圆心、半径为r、宽为dr 的圆环内点数</td></tr><tr><td>O-ring statistic 最近邻体统计量</td><td>F(r) F(r)= P{d(u,X)≤r}</td><td>的期望值,不包括圆心 F(r)表示从一个固定位置u（u∈R²），到离它最近一点</td></tr><tr><td>nearest-neighbor statistic</td><td>G(r) G(r)=P{d(w,X)≤r}</td><td>xi(xi∈X)的距离的累计分布函数.将u改为任意点u (w∈X)即G(r).X代表某个点格局</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(i)一阶统计量密度 $\\lambda$ 给出待查位置周围小范围内单位面积的平均点数[18],密度函数 $\\lambda ( x )$ 与位置 $x$ 周围的点密度呈正比。密度函数 $\\lambda ( x )$ 反映了异质性的一个重要方面,即局部点密度的变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(ii)二阶统计量 $K ( r )$ 函数[24]用于判断不同尺度的格局类型,它提出较早、应用广泛。其变形 $L _ { 1 } ( r ) \\lrcorner L _ { 2 }$ $( r )$ 函数较好地解决了 $K ( r )$ 估计值的波动性(均值和方差随尺度 $\\boldsymbol { r }$ 的变化而变化),也得到了广泛应用[18,41]。应注意， $K ( r )$ 的定义决定了它（及其变形)的计算是个累计过程,小尺度上的效应会传递到大尺度上[27,42],从而影响对所观测格局的分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$g ( r )$ 函数[39] $. 0 ( r )$ 统计量[43]与 $K ( r )$ 有一定关系,但它们基于圆环内的点进行计算,不存在累积效应。空间统计学家 Stoyan D.一直积极提倡使用 $g ( r )$ 函数[39]。 $g ( r )$ 函数被认为是最好的二阶统计量[18],但直到近期才有研究[27,42,445]注意到它,因此无论是在国外[29]还是国内（图1B)应用研究使用的概括性统计量中，$K \\cdot$ -函数与其变形占主导地位。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(iii)最近邻体统计量 $\\boldsymbol { F } ( \\boldsymbol { r } )$ 被称为“真空函数（empty-space function）”,是“点-事件（point-event）”的分布， $\\boldsymbol { G } ( \\boldsymbol { r } )$ 即最近邻体距离分布函数,是“事件-事件（event-event）”的分布[19-20]。 $F ( r ) \\setminus G ( r )$ 均为累积分布函数,能保留(空白区的和最近邻体的)平均距离之外的有用信息,除了稳态格局,也可以用于描述非稳态格局。$\\boldsymbol { F } ( \\boldsymbol { r } )$ 也作 $H _ { s } ( r )$ ,称作球形接触分布（spherical contact distribution）。 $\\boldsymbol { G } ( \\boldsymbol { r } )$ 也作 $D ( r )$ ,可扩展到 $D _ { k } ( r ) \\mathrm { ~ , } k ( k = 1$ ，（20 $2 , \\cdots , n )$ 是到典型点由近到远排序的相邻个体的序号[18,20]。由最近邻体（nearest-neighbor，NN)扩展到第 $k$ 个邻体（kth nearest-neighbor, $k \\mathrm { N N } \\dot { }$ ),可描述格局的大尺度结构特征,应用实例可参考一项关于热带林空间结构的研究[46]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1中的二阶统计量可以较容易的扩展到双变量形式,用于分析两两对象之间的关系[17-20,47],即对象之间是相互吸引、排至还是不发生相互作用。有时候需要用到带有标记的概括性统计量,常见的有标记连接函数（mark connection function）和标记相关函数（mark correlation function）。前者适用于带有定性标记的点格局数据,后者适用于带有定量标记的点格局数据,表达式可参考相关文献[18,20]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "处理更多变量（意味着更多类型的对象）、更复杂的结构是空间统计学家们努力的一个方向。有研究者在常见的“种—面积关系”和 Ripley 的 $K ( \\stackrel { \\triangledown } { \\boldsymbol { r } } )$ 函数基础上,提出了“单个种-面积关系”（individual species-arearelationship，ISAR）[48],用于测量以某个物种为典型点时,不同尺度上的物种多样性结构,由此推断它对群落物种多样性的作用。还有研究者在二阶统计量 $K ( r )$ 函数基础上提出三阶统计量[49]和对应的软件包[19]。空间统计学家还进行了很多针对异质点过程的研究[50-55],提出了异质版的基于 $K ( r )$ 函数的概括性统计量[56],和异质版的基于最近邻体距离的 $F ( r ) \\ 、 G ( r )$ 和 $J ( r )$ 函数[57]。一些模型研究方法[58-59],特别是动态的时空格局模型[54,60]也值得注意,它们能帮助生态学家探讨与生态学格局动态性相关的科学问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)选择零模型和点过程模型",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态学家们通过零模型和点过程模型来检验生态学假说。根据前人的总结[20],零模型和点过程模型有3种用途,(i)析因,根据对观测格局特征的全面了解,找出格局的成因,即格局背后的过程是什么;(ii)求证，通过建立原假设和备择假设,验证已有生态学理论和学说(假说)的正确性;(ii)多重模型推断和拟合,它是(ii)的扩展,通过增加备择假设的数目来找出最受观测数据支持的假说,这种多角度分析模式能减少在建立过程与格局之间联系时遇到的生物学限制和统计推断问题[23」,例如对位于古田山和 BCI岛两块生物多样性长期监测大型样地的研究[6],采用了同质泊松过程、异质泊松过程、同质托马斯过程和异质托马斯过程4种零模型检验扩散限制和异质性的单独效应以及它们的交互效应，并借助统计指标对4种模型对观测数据的描述能力进比较,找出了最佳模型。虽然点过程模型的统计学基础研究正处于发展初期[23],但是在参数估计方法和应用[19,61-65]方面已取得一定进展。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于单变量格局,最简单、最重要的点过程是同质泊松过程(homogeneous Poisson process）,它具有稳态和各向同性的性质[18,26],其重要用途是检验完全随机（complete spatial randomness,CSR)格局。在分析经常遇到的空间异质性时,如果格局只由非生物因子驱动,使用异质泊松过程(heterogeneous Poisson process,HPP）,其建立基础是可变动的密度函数,可以用参数或非参数方法估计[19,27,66]。聚集是另一种常见现象（例如,林木幼苗在灌木层中的聚集分布）,使用聚集过程(cluster processes）也称泊松聚集过程（Poisson cluster processes）对该现象进行检验。泊松聚集过程是一大类的统称,其中使用最多的是托马斯聚集过程（Thomas clusterprocess）。复杂的托马斯过程可描述大斑块中的小斑块格局,例如多种草本植物聚集形成的大斑块中单独某一物种的小斑块。若要描述种间关系,在拟合模型时需要Gibbs 或 Markov 过程等更为复杂的程序[67]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于双变量格局,常用零模型有“前提条件（antecedent condition，AC)”、环形转换(toroidal shift，TS）同质泊松过程和异质泊松过程[20]。前提条件零模型用于描述一种格局对另一种格局形成控制的情形,例如森林群落中,成熟大树对幼树格局的形成具有影响。若两种格局没有明显的相对优势,则使用环形转换检验两种格局的独立性。对于带有标记的格局,常用的零模型是随机标签,亦称独立标记(random labeling，RL；orindependent marking，IM）[27,68]保持生态学对象位置不变的同时令标记（标记的取值)随机变换,它用于评价对于所有位置,标记过程是否以空间相关的方式发挥作用。随机标签与格局独立性检验不同[69],应避免误用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3国内研究状况与评价",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 国内研究概况",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在1996—2015年期间,国内以点格局或空间点格局为主题的238篇期刊文献中（图1A）,生物学科优势明显（占总数 $8 8 \\%$ ),其中又以生态学格局研究最多,共计189 篇，占总数的 $7 9 \\%$ 。在1996—2006 年期间,每年发表的研究文献较少,2006 年后研究总量和生态学研究数量都开始有较大幅度的增加（图1B）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在生态学格点局研究中,绝大多数属于群落生态学范畴,它们以群落地段为观察窗,以植物个体为对象进行研究。以森林景观为观察窗、以林分为对象(把景观中的林分抽象化为一个个的点)进行研究的只占总数的 $3 \\%$ （图1C)。在群落水平的研究中，以林木为对象的占主导地位（占生态学研究总数的 $71 \\%$ ),其次是草本（ $1 5 \\% )$ 和灌木 $( 9 \\% )$ ）,研究两种或两种以上生活型植物的占 $3 \\%$ ,与森林景观的研究数量相当。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "有 $8 8 \\%$ 的研究只使用一种概括性统计量分析点格局(图1D),其中使用最多的是 $K ( r )$ 函数族中的 $L _ { 1 } ( \\mathbf { r } )$ 或 $L _ { 2 } ( r )$ 函数（见表1），占总数的 $5 7 \\% 6 ( \\rho ( \\boldsymbol { r } )$ 和 $g ( r )$ 函数有一定的使用量,分别占 $1 5 \\%$ 和 $7 \\%$ 。“单个种一面积关系”（ISAR)及其变形( $\\mathrm { I S A R } + _ { \\mathrm { \\Delta } }$ ）最近邻体距离方法(NN)应用不多,分别占 $3 \\%$ 和 $2 \\%$ 。其它方法（other-半方差分析、分形分析、小波分析、位置图的统称)与指数判断方法(IND）[69]也有应用（图1D),但比重不大,都是 $2 \\%$ 。使用两种概括性统计量的期刊文献中,出现最多的组合是 $K ( r )$ 和NN,占 $5 \\%$ ,其余组合中几乎都有 $K$ $( r )$ 出现（图1D)。在所有189 篇生态学点格局研究期刊文献中,使用 $K ( r )$ 函数及其变形的统称合计130 篇,占 $70 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在零模型选择方面,使用单变量概括性统计量(图1E)的期刊文献中，有 $6 1 \\%$ 未明确指定零模型;有 $20 \\%$ 的文献根据分析，从完全随机（CSR)和异质泊松过程（HP）中选择零模型；有 $1 5 \\%$ 使用CSR;有个别研究$( 4 \\% )$ 使用3个或者更多零模型作为备择假设,探讨多种可能的潜在过程对观测格局的影响。使用双变量分析两两对象间关系时（图1F），也有超过一半的研究（占 $5 8 \\%$ )未明确指定零模型;有 $2 2 \\%$ 的文献使用前提条件(AC)零模型, $12 \\%$ 使用CSR零模型， $5 \\%$ 使用随机标签（RL），其它占4种情况占剩余的 $5 \\%$ ,具体见图1F。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2国内研究状况评价",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文所分析的189 篇国内期刊文献中,只有4篇进行了点格局分析方法研究,分别探讨 $L ( r )$ 函数的边缘校正方法[35-36]、样方数量与形状对分析结果的影响[37]、和随机区块法在点格局分析中的应用[38],另有综述性文献3篇[31-33],其余182篇均为应用研究。可见,国内生态学点格局研究中,应用研究占据主导地位,方法研究和软件工具开发工作薄弱,二阶或更高阶概括性统计量、零模型及点过程模型等基础研究方面几乎空白。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "全面分析格局特征是空间格局研究的重要部分,也是探讨产生格局的潜在过程的前提条件,尽管研究者建议使用不同统计量的组合来全面刻画所观测的格局[18,70],但大部分国内研究只使用一种统计量（占总数的(A)学科分布比例;(B)年刊发量；(C)研究对象;(D)概括性统计量（“ ${ \\bf \\Phi } + { \\bf \\Phi } ^ { \\dagger }$ ;原函数的变形);(E)单变量分析采用的零模型(NS：未指明：CSR:完全随机;HP:异质泊松过程);(F)双变量分析采用的零模型(AC:前提条件;RL;随机标签;TS:环形变换;MW:移动窗口）",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e88033424d1b07cfb222c8a0dd02adbde957143b6b5679b69b2c6109cf5a3269.jpg",
+        "img_caption": [
+            "图1文献检索分析结果",
+            "Fig.1Results of the literature reviewed "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$8 8 \\%$ ），且以 $K \\cdot$ -函数族为主（占总数的 $70 \\%$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在生态学点格局分析中,所关注的科学问题用统计学语言表达即为零模型和点过程模型,应像常规统计分析一样,明确声明所研究的问题及原假设,并做出检验[29],第一步通常是证实数据含有由异质性引起的非随机结构,而在下一步推断或者检验潜在的生态学过程时,可能需要更多特定的点过程模型。如果需要对预测做出检验,应当根据生态学理论和知识建立点过程的原假设。已经有国内研究注意到并开始使用多种备择假设，但是仍有相当一部分研究未明确给出零模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4建议与展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近年来,点格局分析方法的统计基础研究与软件开发工作得到了飞速发展，可供应用研究选择的不只是一种概括性统计量、一种零模型,为了更全面细致的描述所观测格局、并根据结果做出科学合理的推断,建议使用多种概括性统计量的组合,并明确声明和检验零模型或点过程模型。空间与时间的结合能更好地反映现实,任何生态学过程都具有自身的时间维度,因此,无论是基础研究还是应用研究,今后都应予以重视。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "垂直结构是空间结构的一部分,对于空间复杂的群落类型,如高度达数十米的热带雨林,在不同的高度分布着不同的光照、水分、养分、温度、湿度等环境因子,有着各异的生物多样性格局。当感兴趣的是群落多样性的垂直格局时,需要使用三维点格局分析方法,理论上由平面扩展到三维分析是可行的,但是三维概括性统计量[19]是否适用于解决垂直结构复杂的生态系统,还有待检验。如何实现三个维度坐标的同步精确测量,同样期待来自实践的答案。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "观测到的格局通常不是单一过程的结果,检验它们的相对重要性是当前研究的热点之一[71-72]。由于生态学过程的尺度依赖性,不考虑空间尺度,就无法理清这些过程的相对重要性[73]。对浙江古田山亚热带天然阔叶林树种分布的研究表明,环境因素的相对重要性(确定性因素)随着样地面积的缩小而变小,而随机因素的相对重要性增大[74]。对巴拿马BCI岛热带雨林的研究表明,随研究尺度由 $5 0 \\mathrm { ~ h m } ^ { 2 }$ 扩大到 $1 5 6 0 \\ \\mathrm { h m } ^ { 2 }$ ,生态位的重要性增大而中性过程的重要性降低[75]。可见,不考虑尺度效应情况下研究物种分布和群落多样性维持机制,得到的结果可能是无意义的[73],在今后的点格局分析方法的应用研究中,特别是生态学机理研究中,怎样强调尺度的重要性都不过分。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]HeFeJg  \n[2]BolkerB，acalaSWUsingomenteatistderstaastiallieatialpeftioiolicalsstialPopulation Biology，1997,52(3）：179-197.  \n3]okercalaatloteidestedfsAmerican Naturalist，1999,153(6）：575-602.  \n[4]HectorA,SchmidB,BeierkuhnleinC,CaldeiraMC,DiemerM,DimitrakopoulosPG,FinnJA,ritasH,GllePS,GodJ,aisR,Hogberg P,Hu-DanellK,JoshiJ，JumpponenA,KorerC,LeadeyPW,LoreauM,MinnsA,MulderCPH,'DonovanG,OtwySJ,PereiraJS,Pri,eadDJhererLoren,uleED,ntourasASD,SpehnE,ryC,mbisAY,adFI,YachiS,LawtoJH.lantdivesityndprouctivityexpermentsinEuropeagrassads.iene，99,86(54）：-2.  \n[5]ChesonP.Mechanismsof maintenanceofspeciesdiversity.AnualreviewofEcologyand Systematics,2Ooo,31:34-66.  \n[6] Loreau M,NaeemS,IchaustiP,engtssonJ,GrmeJP,Hector,HooperDU,HustonM,aaeliD,SchmdB,manD,WardleA.Biodiversityand ecosystem functioning：curent knowledge and future challenges.Science,20o1,294（5543）：804-808.  \n[7]MuellDPuresDW,Law.UitingpateandprcessinplantecolgrendsiEolg&Evolutio6）：53  \n[8] TilmanD，Reich,KsJ，WdinD,elke,anC.iersitydproductityinloeassadexpe294(5543) : 843-845.KrafNJB,ValeciaR,ckrluctialtratsdncbasedeouityeblyinazoanforestie,022(5901):580-582.  \n[10]BrowinlproisldlslEcology，2011,99(6)：1402-1414.  \n[11]VlzqECadiniiritespeatotsioistroalfalVegetation Science，2015,26(6）：1068-1079.  \n[12]MyFuthgadTovigoduaceistrtistraledsatialteroicalforestrocfRoyal Society B,2015,282(1802）:20141657.  \n[13］高福元，石福习.基于不同零模型的三江平原沼泽湿地主要物种小尺度点格局分析.生态学报，2015,35（7)：2029-2037.  \n[14]郭屹立，王斌，向悟生，丁涛，陆树华，黄俞淞，黄甫昭,李冬兴,李先琨.广西弄岗北热带喀斯特季节性雨林监测样地种群空间点格局分析.生物多样性，2015，23(2)：183-191.  \n[15］王磊，孙启武，郝朝运，田胜尼，张姗姗，陈一锟，张小平.皖南山区南方红豆杉种群不同龄级立木的点格局分析.应用生态学报，2010,21(2): 272-278.  \n[16］魏彦波，程艳霞，李金功，王贵春.植物多样性促进种支配局域空间多样性结构.北京林业大学学报，2014,36(6)：66-72.  \n[17] Diggle PJ.StatisticalAnalysis of Spatialand Spatio-Temporal Point Paterns.3rded.New York，USA：CRCPress，2013.  \n[18] ianJPenitoH,totatislalsdelingaialteU:s  \n[19]BadeleyA,ubakE,TuerRSpatialPointPates；MethodologandApplcatioswithR.BocaRaton,L,USA:CRCres15.  \n[20] WiegandT,Moloney KA.Handbk of Spatial Point-Pater Analysis in Ecology.BocaRaton,FL,USA：CRCPress,2013.  \n[21] WiegandT,Jelsiingedeinealifoofoland application.Oikos，2003，100(2）：209-22.  \n22]WegdttellsE106-E140.  \n[2]Middii.  \n[24]RipleyBD.Thesecond-orderanalysisof stationarypoint processes.Joural ofApplied Probability，1976,13(2)：255-266.  \n[25]RCoraagEoitutidtfitltigur（4)[2016-06-19]. http://www.R-project.org/.  \n26]Rjalalfaiaeisuedaoaoatis)4.  \n[27]WiegandT,MoloneyKA.Rings，circles，andnull-modelsforpointpaten analysis inecologyOikos，0004（2）:2-229.  \n28]DrayS，ufourABee4pacagepleentinghualtagaforolgistsJaloftatistalSofare4)-.  \n[29]VlzquzE,artiGetinS，oloeKA，iegadTAevauatiooftetatefsatiltpaeasoga，9(11):1042-1055.  \n[30] 张金屯.植物种群空间分布的点格局分析.植物生态学报，1998，22（4)：344-349.  \n[31] 沈志强，卢杰，华敏，方江平.204-2013年我国空间格局分析的方法——点格局分析法研究文献分析.北方园艺，2015，（11）：197-200.  \n[32] 李明辉，何风华，刘云，潘存德.林分空间格局的研究方法.生态科学,2003,22(1)：77-81.  \n[33] 兰国玉，雷瑞德.植物种群空间分布格局研究方法概述.西北林学院学报，2008，18（2)：17-21.  \n[34] 时培建，戈峰，杨清培，王建国.点格局分析中边缘校正的一种新算法及其应用.生态学报，2009，29（2）：804-809.  \n[35] 欧阳芳，戈峰，袁哲明，曾菊平．点格局分析函数的边缘校正及其在昆虫种群格局分析中的应用.生态学报，2009,29(4)：1804-1813.  \n[36] 陈永刚，汤孟平，施拥军，葛宏立，胡芸.样方形状对空间点格局的性能影响分析——以天目山阔叶林为例.地理研究，2012，31（4)：665-671.  \n[37] 张春雨，赵秀海.随机区块法在空间点格局 分析中的应用.生态学报，2008，28（7）：3108-3115.  \n[38] BadeleyA，GregoriP，MateuJ,StoicaR,Stoyan D.Case Studiesin SpatialPointProcess Modeling.NewYork，USA:Springer，2006.  \n[39] StoyanD,StoyanH.Fractals，RandomShapesandPointFields:MethodsofGeometricalSttistics.NewYork;John Wiley&Sons，1994.  \n[40]CutlerNA,BelyeaL,DgoreAJSpatialpatesfmicositeoloisatoontwoyounglavaflowsonMoutHekl,elandJoualfVegetation Science,2008，19（2）: 277-286.  \n[41]BesagJrtiotoeiscuiofDr.pley'sr.JoualofteRoalSatistalocietyrsB979）195.  \n[42]erltstsfltit2006，187(1) : 59-82.  \n[43]WiegandloKAvserFndigthilinldapesrucuedlaia：talplirspective. The American Naturalist，1999,154(6):605-627.44] Condit R,PitmaN,LeighEGJ,ChveJ,TrborgJ,FosterRB,NuezP,AgularS,ValeiaR,VillG,Mule-LandauHC,ososE,Hubbell S P.Beta-diversity in tropical forest trees.Science,2002,295(5555）：666-669.SchurrM,odofiloScumacrJSpatialpaefoatioinaridsblandpriprdictedvesusedcharacteristics.Plant Ecology，2004，173（2）: 271-282.  \n[46]HubbellS,HeF,CoditR,rda-de-AguaL,KelerJ,StegeHT.HowaytreespeciesaretheretheAmazonandowafthwillgo extinct?Proceedingsof theNatinalAcademyofScienesoftheUnited StatesofAmerca008，105(S1）：498-11504.  \n[47]LotwickHBeofoalyisatialpofaltyoftsoualofaltitl（Methodological），1982，44（3）：406-413.  \n[48]WiegannatileCatileIAUHuthdaseerucueesifrestsrocNational Academy of Sciences of the United States of America,2007，104(48）：19029-19033.  \n[50]DigleJ,meRubiVroE，hetdAGoigcoderalysisfogenetalntprocegcontrol data.Biometrics，2007，63(2）：550-557.  \n[51]LinYCagLW,YngKC，WangHH,SunIFPintpaesoftreisributiodeteedbyabitatheterogeneityispesallimitation.Oecologia,2011，165（1）：175-184.  \n[52]GuaYJlostratiroefoesltalofaStatistical Association，2007,102(480）：1377-1386.  \n[53Wagepep  \n[54]GabreEigledlfogussaraltpostatatidc  \n[55] Downs JA,HelerJH,LoraammR,SteinO,DanielC,OnoratoD.Acuracyofhomerangestimatorsfomogeeousadinhoogeeouspoint patterns.Ecological Modelling，2012，225：66-73.  \n[56]Bdelel，gepeesndaerictatiofteactioiogestaatiaNeerlandica，2000,54（3）：329-350.  \n[57] VanLieshoutM，ddeleyAJ.AnparametricmeasreofspatialinteractioninointpaesStatsticaelanica996（）：344-361.  \n[58] Illian JB,Hendrichsen D K.Gibbs point process models with mixed effects.Environmetrics，2010,21(3/4):341-353.  \n[59]liaSSHueHAffitplesaialtposselsgdaoA).The Annals of Applied Statistics，2012,6(4):1499-1530.  \n[60]Mpler J,Ghorbani M. Aspects of second-order analysis of structured i poin Statistica Neerlandica,2012,66(4) : 472-491.  \n[61]ShenGC,Yu MJ,Hu XS,MiXC,RenHB,Sun IF,Ma KP.Species-a ea relationships explained by the joint efects of dispersal limitationand habitat heterogeneity.Ecology，2009,90(11）：3033-3041.  \n[62]WangXGWegnd,Wof，HweRaviesS,HaoZSatialpaesftreseciescessintwoteperateforestsalfEcology，2011,99(6)：1382-1393.  \n[63]TanakaUgatatoaeetadeeetapricalJal43-57.  \n64]erkidgaetel2015,9(2):2706-2731.  \n[65]Law R,Ilian J， Burslem D FR P， Gratzer ( unatilleke C V S,GunatillekeIA UN.Ecological information from spatial paterns of plants:insights from point process theory. Joumal of Ecology，2009,97(4）: 616-628.  \n66]GanYpositelieaahifgsatialtproessoelsalofmcaStatitaloato(476): 1502-1512.  \n[67]Genet A， Grabarnik P,Sekretenko ${ \\bf \\partial } ) ,$ Pothier D.Incorporating the mechanisms underlying inter-tree competition intoarandom point process modelto improve spatial tree analysis in forestry.Ecological Modelling，2014,288：143-154.  \n[68]Goreaud F，Pelissier R.Avoiding misinterpretation of biotic interactions with the intertype $K _ { 1 2 }$ -function：population independencevs.randomlabelling hypotheses of Vegetation Science,2003，14(5）: 681-692.  \n[69] 马钦彦，负二项式分布及种群格局检验分析.北京林业大学学报，2009,31（3）：1-5.  \n[70] WiegandT，HFubbellaaisoofaryacteitfoatifgtsioloa1,36(1): 92-103.  \n[71]WiegdatlatludTthscuiialEcology，2007,88（12）:3088-3102.  \n[72]ZhangCLaXaledcugaaititefrsttoManagement,2014，316：110-116.  \n[73]ChaseJM.Spatialscaleresolvesthenicheversus neutral theorydebate.Jouralof Vegetation Science,2O14,25(2）:319-322.  \n[74]LegendrePiXC,RenHB,aMJ,SunIF,HFL.Partitogetadiverstinubtropcalbrod-leavedforestfCia.Eol2009,90(3):663-674.  \n[75]GarzoXeSdAOlfHesfpgalesotoirJournal of Vegetation Science,2014,25(2）：349-362.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

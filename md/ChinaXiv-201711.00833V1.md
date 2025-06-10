@@ -1,0 +1,188 @@
+断奶日龄对五指山仔猪生长性能和血清生化指标的影响荀文娟 周汉林 侯冠或\*曹婷　施力光（中国热带农业科学院热带作物品种资源研究所，儋州571737）
+
+摘要：本试验旨在研究断奶日龄对五指山仔猪生长性能和血清生化指标的影响。选取日龄相近 $( \pm 1 \mathrm { d } )$ 、体重[（ $0 . 5 6 { \scriptstyle \pm 0 . 0 7 }$ ）kg]相近的五指山仔猪96头，随机分成4组，每组设4个重复，每个重复6头猪。4组仔猪分别在21、28、35和42日龄断奶。试验从8日龄开始，至56日龄结束，试验期间定期测定体重、采食量和血清生化指标。结果表明：各组仔猪断奶后平均日增重（ADG）出现不同程度的下降，且断奶日龄越早，ADG下降幅度越大；35日龄断奶组和42日龄断奶组 $2 1 { \sim } 2 8$ 日龄、 $2 8 { \sim } 3 5$ 日龄、 $3 5 { \sim } 4 2$ 日龄、 $4 9 { \sim } 5 6$ 日龄阶段的ADG 显著高于21日龄断奶组( $. P { < } 0 . 0 5$ )。各组仔猪断奶后平均日采食量显著增加( $( P { < } 0 . 0 5 )$ ，42日龄以后，各组ADFI无显著差异（ $. P { > } 0 . 0 5$ )。21日龄断奶组、28日龄断奶组、35日龄断奶组血清总蛋白（TP)、白蛋白（ALB）、免疫球蛋白G（IgG）、免疫球蛋白M（IgM)含量以及谷丙转氨酶（ALT）、谷草转氨酶（AST）、乳酸脱氢酶（LDH）活性在断奶后7d均发生显著变化( $( P { < } 0 . 0 5 )$ ，并以21日龄断奶组波动最大；与35日龄断奶组和42日龄断奶组相比，21日龄断奶组28、35日龄时血清 TP、ALB、IgG、IgM含量显著降低 $( P { < } 0 . 0 5 )$ ，ALT、AST、LDH 活性显著提高( $( P { < } 0 . 0 5 )$ ，到 56 日龄时，血清TP、IgG、IgM含量仍显著低于35日龄断奶组和42日龄断奶组 $( P { < } 0 . 0 5 )$ 。21日龄断奶组血清甘油三酯（TG)、胆固醇（CHOL）含量在 $2 8 \sim 5 6$ 日龄间存在显著变化 $( P { < } 0 . 0 5 )$ ，35日龄断奶组和42日龄断奶组血清 TG、CHOL含量在整个试验期均无显著变化（ $P { > } 0 . 0 5 \rangle$ )。35日龄断奶组血清TP、ALB、
+
+IgG、IgM含量以及ALT、AST、LDH活性除在42日龄时与42 日龄断奶组存在显著差异$( P { < } 0 . 0 5 )$ 外，其余时间点与42日龄断奶组均无显著差异（ $. P { > } 0 . 0 5$ )。由此得出，35或42日龄断奶的五指山仔猪在生长性能、血清生化指标及免疫机能方面优于21日龄断奶的五指山仔猪。
+
+关键词：断奶日龄；五指山仔猪；生长性能；血清生化指标；免疫球蛋白中图分类号：S816 文献标识码：A 文章编号：
+
+在现代养猪生产中，为了提高母猪繁殖率和降低饲养成本，仔猪早期断奶已成为普遍采用的先进技术之一。然而，在断奶期，由于生理、营养和环境的突然改变，断奶应激及病原微生物侵袭，导致仔猪易出现"断奶仔猪应激综合征”，往往引起仔猪采食量下降、生长阻滞、腹泻和免疫功能降低等[l。血液中生理生化指标与动物代谢、营养及健康状况密切相关，是反映动物机体或器官的代谢和健康状况的重要指标。因此，研究断奶日龄对仔猪生长性能及血清生化指标的影响，对实际生产具有很重要的意义。关于断奶日龄对仔猪生长发育方面影响的研究报道较多，一般通过检测血液生理生化、消化、粪便以及免疫学等指标来评价仔猪适宜的断奶日龄。Colson 等[2研究发现，28 日龄断奶仔猪日采食量和生长速度显著高于21日龄断奶仔猪。周芬等[3研究发现，仔猪断奶后第1周，平均日增重（ADG）和平均日采食量（ADFI）增加缓慢，至第2周显著增加，且28 日龄断奶仔猪生产性能显著高于23日龄断奶仔猪，表明 28日龄断奶的仔猪所受的断奶应激小于23日龄断奶的仔猪。朱锋钊等[4通过比较不同断奶日龄（14、21、28日龄）梵净山特种野猪仔猪在60 日龄时的体重、饲料转化率、断奶后腹泻率发现，断奶日龄越早，断奶后腹泻越严重，且对仔猪生长性能产生负面影响。可见，断奶应激对仔猪的体重、增重、采食量的影响较大，且断奶日龄越早其影响越大。然而,Kalita 等[5研究了不同断奶日龄（28、35 和 42日龄）对仔猪生长性能的影响，结果发现，至42日龄时，不同断奶日龄仔猪体重无显著差异，与上述研究结果不一致，可能与猪品种和饲粮类型有关。
+
+五指山猪产于海南省，是我国体型最小、体重最轻的珍稀品种，具有体型小、抗逆性强、遗传稳定、性成熟早、肉质鲜美等诸多特点，2000 年被农业部确定为国家级畜禽品种资源保护品种，是海南省特色畜禽种质资源。目前对五指山猪的研究多侧重于肉质性状以及分子遗传特异性等方面。长期以来，由于养殖方式落后、技术水平低等诸多制约因素，对五指山仔猪早期断奶的相关研究甚少。鉴于此，本试验拟研究断奶日龄对五指山仔猪生长性能及血清生化指标的影响，以客观评价断奶日龄对仔猪的应激程度，为科学确定五指山仔猪断奶日龄提供理论和实践依据。
+
+1材料与方法
+
+1.1 试验设计
+
+选择日龄相近 $( \pm 1 \mathrm { d } )$ 、体重[ $( 0 . 5 6 { \pm } 0 . 0 7$ ）kg]相近的五指山仔猪96头，随机分成4组，每组设4个重复，每个重复6头猪（公母各占1/2)。4组仔猪分别在21、28、35和42日龄断奶，仔猪从8日龄开始诱食，按常规程序进行免疫，至56日龄结束。断奶时间为各组设定的断奶日龄当天的20:00—21:00，断奶时赶走母猪，仔猪仍留在原处。试验期间仔猪仔培舍温湿度、通风量及光照等均满足仔猪要求，环境卫生条件良好，基础饲粮的配制参照《五指山猪养殖技术规程》（2007)，其组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of the basal diet (air-dry basis） $\%$ （20 项目Items 含量Content 原料Ingredients 玉米Corn 42.00 膨化大豆 Extruded soybean 34.30 鱼粉Fish meal 8.00 乳清粉Whey powder 11.00
+
+小麦麸Wheat bran 2.00  
+石粉 Limestone 0.50  
+磷酸氢钙 $\mathrm { C a H P O _ { 4 } }$ （204号 1.20  
+微量元素预混料 Trace mineral premixl) 0.50  
+维生素预混料 Vitamin premix2) 0.50  
+合计 Total 100.00  
+营养水平 Nutrient levels3)  
+消化能 DE/（MJ/kg） 14.10  
+粗蛋白质 CP 22.84  
+钙Ca 0.88  
+有效磷 AP 0.60  
+赖氨酸Lys 1.35  
+苏氨酸 Thr 0.96  
+蛋氨酸 $^ +$ 半胱氨酸Met+Cys 0.70
+
+1每千克饲粮中含 One kilogram of diets contained the following:Cu $1 6 . 5 \mathrm { m g }$ ,Fe $1 0 0 ~ \mathrm { { m g } }$ ,Mn 35 mg, Zn 100mg， Se $0 . 3 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 3 ~ \mathrm { { m g } }$ 。
+
+2每千克饲粮中含 One kilogram of diets contained the following:VA12 00 IU,VD3 3 00 IU,VE 80 IU,
+
+VK $2 . 5 ~ \mathrm { m g }$ ，叶酸folic acid $1 . 5 \mathrm { m g }$ ，烟酸nicotinic acid $4 0 \mathrm { m g }$ ，泛酸 pantothenate $2 0 \mathrm { m g }$ ，生物素 biotin 0.20mg， $\mathrm { V B } _ { 1 } 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 . 0 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 5 ~ \mathrm { m g }$ 。
+
+3）消化能为计算值，其余为实测值。DE was acalculated value,while the others were measured values.
+
+1.2样品采集及测定
+
+试验期间，各组分别于21、28、35、42、49、56日龄清晨对所有试验仔猪进行空腹称重，计算 $2 1 { \sim } 2 8$ 日龄、 $2 8 { \sim } 3 5$ 日龄、 $3 5 { \sim } 4 2$ 日龄、 $4 2 { \sim } 4 9$ 日龄和 $4 9 { \sim } 5 6$ 日龄阶段的ADG,
+
+每日观察猪群生长情况，记录每个重复仔猪每天的喂料量和剩料量，计算 $2 1 \sim 2 8$ 日龄、 $2 8 \sim$   
+35日龄、 $3 5 { \sim } 4 2$ 日龄、 $4 2 { \sim } 4 9$ 日龄和 $4 9 { \sim } 5 6$ 日龄阶段的 ADFI。各组每个重复分别于28、35、42、49、56日龄晨饲前随机抽取2头仔猪，公母各1头，  
+每头猪从前腔静脉采血 $1 0 \mathrm { m L }$ ，静置 $3 0 \mathrm { m i n }$ 后， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取血清分装于1.5  
+mL离心管， $- 2 0 \mathrm { ~ \textdegree C }$ 保存，用于血清生化指标的测定。血清生化指标测定方法：采用双缩脲终点法检测总蛋白(TP)含量；采用溴甲酚绿比色法  
+检测白蛋白(ALB)含量；采用分光光度法检测谷丙转氨酶(ALT)、谷草转氨酶(AST)活性；采  
+用酶剂法检测胆固醇(CHOL)、甘油三酯(TG)含量；采用脲酶法检测尿素氮(UN)含量；采用  
+比色法检测乳酸脱氢酶(LDH)活性；采用免疫比浊法检测免疫球蛋白G（IgG)、免疫球蛋白  
+M（IgM）含量。上述指标测定所用试剂盒均购自南京建成生物工程研究所。
+
+# 1.3 数据分析
+
+采用 SPSS17.0统计软件中的ANOVA 程序进行单因素方差分析，采用Duncan氏法对差异显著者进行多重比较，以 $P { < } 0 . 0 5$ 作为差异显著性判断标准，结果用平均值±标准差（mean±SD）表示。
+
+2结果与分析
+
+2.1断奶日龄对五指山仔猪生长性能的影响
+
+断奶日龄对五指山仔猪生长性能的影响见表2。各组仔猪断奶后 ADG 出现不同程度的下降，且断奶日龄越早，ADG 下降幅度越大。  
+35日龄断奶组和42日龄断奶组 $2 1 { \sim } 2 8$ 日龄、 $2 8 { \sim } 3 5$ 日龄、 $3 5 { \sim } 4 2$ 日龄、 $4 9 { \sim } 5 6$ 日龄阶段  
+ADG显著高于21日龄断奶组( $. P { < } 0 . 0 5 \$ )， $4 2 { \sim } 4 9$ 日龄阶段ADG在各组间差异不显著( $( P { > } 0 . 0 5 )$ 。  
+从整个采样期（ $2 1 { \sim } 5 6$ 日龄阶段）来看，35日龄断奶组和42日龄断奶组ADG 显著高于 21  
+日龄断奶组和28日龄断奶组（ $_ { . P < 0 . 0 5 } )$ ）°各组ADFI在断奶后大幅度增加。 $2 1 { \sim } 2 8$ 日龄阶段，21日龄断奶组ADFI显著高于其
+
+他3个组（ $P { < } 0 . 0 5 )$ ； $2 8 { \sim } 3 5$ 日龄阶段，21日龄断奶组和28日龄断奶组ADFI显著高于35日龄断奶组和42日龄断奶组（ $P { < } 0 . 0 5 )$ ； $3 5 { \sim } 4 2$ 日龄阶段，42日龄断奶组ADFI显著低于其他3个组 $( P { < } 0 . 0 5 )$ ; $4 2 { \sim } 4 9$ 日龄和 $4 9 { \sim } 5 6$ 日龄阶段，各组ADFI均无显著差异( $( P { > } 0 . 0 5 )$ 。
+
+表2断奶日龄对五指山仔猪生长性能的影响  
+Table 2Effects of weaning day on growth performance of Wuzhishan piglets g   
+
+<html><body><table><tr><td>项目Items</td><td>日龄</td><td colspan="4">断奶日龄Weaning day</td></tr><tr><td></td><td>Days of age</td><td>21</td><td>28</td><td>35</td><td>42</td></tr><tr><td>平均日增重 ADG</td><td>21~28</td><td>7.14±1.86Db</td><td>75.29±8.20Aa</td><td>86.61±9.23BCa</td><td>90.39±10.21ABa</td></tr><tr><td></td><td>28~35</td><td>28.18±7.50Cb</td><td>35.24±3.43Bb</td><td>97.71±12.05ABa</td><td>105.95±14.61Aa</td></tr><tr><td></td><td>35～42</td><td>48.89±10.51Bc</td><td>51.19±7.03Bc</td><td>70.71±8.88Cb</td><td>98.69±8.55ABa</td></tr><tr><td></td><td>42～49</td><td>73.53±5.49A</td><td>78.03±6.57A</td><td>92.00±11.99BC</td><td>81.19±11.15B</td></tr><tr><td></td><td>49～56</td><td>85.67±8.14Ac</td><td>93.16±12.67Abc</td><td>116.59±14.08Aa</td><td>108.81±10.08Aab</td></tr><tr><td></td><td>21~56</td><td>48.68±7.86c</td><td>66.57±5.90b</td><td>92.73±18.23a</td><td>97.01±14.10a</td></tr><tr><td>平均日采食量</td><td>21~28</td><td>33.31±5.36Ca</td><td>15.17±1.15Db</td><td>14.36±1.93Db</td><td>8.58±1.95Db</td></tr><tr><td>ADFI</td><td>28～35</td><td>85.08±4.93Ba</td><td>88.20±3.54Ca</td><td>32.32±4.28Db</td><td>16.74±3.29Dc</td></tr><tr><td></td><td>35~42</td><td>116.52±29.18Ba</td><td>121.35±12.80Ba</td><td>126.86±11.43Ca</td><td>35.48±4.74Cb</td></tr><tr><td></td><td>42~49</td><td>164.29±22.53A</td><td>165.04±21.11A</td><td>172.42±20.89B</td><td>140.61±11.85B</td></tr><tr><td></td><td>49~56</td><td>196.09±30.70A</td><td>187.27±27.66A</td><td>210.15±33.07A</td><td>193.70±14.11A</td></tr></table></body></html>
+
+同列数据肩标不同大写字母表示差异显著 $\scriptstyle ( P < 0 . 0 5 )$ ，同行数据肩标不同小写字母表示差异显著( $P <$ 0.05)。下表同。
+
+In the same column,values with different capital letter superscripts mean significant difference ( $\scriptstyle \cdot < 0 . 0 5$ ；in the same row,values with different small letter superscripts mean significant difference ( $\cdot P { < } 0 . 0 5$ ).The same as
+
+below.
+
+2.2断奶日龄对五指山仔猪血清 TP、ALB、IgG、IgM含量的影响  
+断奶日龄对五指山仔猪血清ALB、TP、IgG、IgM含量的影响见表3。  
+各组仔猪断奶后血清ALB含量均不同程度的降低。从各组别看，21日龄断奶组断奶后血清 ALB 含量下降幅度较大，恢复时间较长，在28 日龄与49 和 56 日龄间存在显著差异(P$< 0 . 0 5 )$ ；而 35 日龄断奶组和 42日龄断奶组在整个试验期内变化比较平稳，没有出现显著差异 $( P { > } 0 . 0 5 )$ 。从各日龄看，42日龄断奶组血清ALB含量在28、35、42及56日龄时显著高于21日龄断奶组( $\scriptstyle ( P < 0 . 0 5 )$ ；35 日龄断奶组血清 ALB含量在28、35日龄时显著高于 21日龄断奶组 $( P { < } 0 . 0 5 )$ ；42 日龄断奶组血清ALB 含量在42日龄时显著高于35 日龄断奶组(P$< 0 . 0 5 )$ ；血清 ALB 含量在49 日龄时各组间差异不显著 ${ \it P } { > } 0 . 0 5 )$ 。  
+血清 TP 含量变化与ALB 相似，各组仔猪在断奶后均出现不同程度的降低。从各组别看，28日龄断奶组在断奶后7d血清 TP含量显著下降( $\scriptstyle ( P < 0 . 0 5 )$ ；35 日龄断奶组血清 TP 含量在42日龄时显著降低 $( P { < } 0 . 0 5 )$ ，到 49日龄时，与断奶前已无显著差异 $( P { > } 0 . 0 5 )$ ；42日龄断奶组血清 TP 含量在整个试验期内变化比较平稳，没有出现显著差异 $( P { > } 0 . 0 5 )$ 。从各日龄看，35 日龄断奶组和42日龄断奶组血清TP含量在28、35、56 日龄时显著高于21日龄断奶组 $( P { < } 0 . 0 5 )$ ；42日龄断奶组血清TP含量在42日龄时显著高于其他3组 $( P { < } 0 . 0 5 )$ ；血清 TP 含量在49 日龄时组间差异不显著 ${ ( P { > } 0 . 0 5 ) }$ 。  
+从各组别看，21日龄断奶组、28日龄断奶组、35日龄断奶组血清 $\mathrm { I g G }$ 、IgM含量在断奶存在显著变化 $\scriptstyle ( P < 0 . 0 5 )$ ；42 日龄断奶组血清 IgG、IgM含量变化比较平稳，在整个试验期差异不显著 ${ ( P { > } 0 . 0 5 ) }$ 。从各日龄看，与21日龄断奶组相比，28日龄断奶组血清IgG含量在 28、42日龄时显著提高 $( P { < } 0 . 0 5 )$ ，血清IgM含量在28日龄时显著提高 $( P { < } 0 . 0 5 )$ ；35日龄断奶组血清 $\mathrm { I g G }$ 、IgM 含量在 28、35、49 和56日龄时显著提高 $( P { < } 0 . 0 5 )$ ；42日龄断奶组血清IgG 含量在 28、35、42 和56 日龄时显著提高 $( P { < } 0 . 0 5 )$ ，血清 $\mathrm { I g } \mathrm { M }$ 含量在28、35、
+
+表3断奶日龄对五指山仔猪血清ALB、TP、IgG、IgM含量的影响  
+Table 3Effects of weaning age on serum ALB,TP,IgG and IgM contents of Wuzhishan piglets g/L   
+
+<html><body><table><tr><td>项目</td><td>日龄</td><td colspan="4">断奶日龄 Weaning day</td></tr><tr><td>Items</td><td>Daysof</td><td>21</td><td>28</td><td>35</td><td>42</td></tr><tr><td></td><td>age</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>28</td><td>43.30±2.43Cb</td><td>61.08±5.83ABa</td><td>60.44±3.64ABa</td><td>62.75±9.42a</td></tr><tr><td></td><td>35</td><td>44.32±2.93Cb</td><td>45.57±1.84Db</td><td>61.21±4.63ABa</td><td>64.40±6.86a</td></tr><tr><td>总蛋白 TP</td><td>42</td><td>47.31±5.00BCb</td><td>52.43±1.44Cb</td><td>51.77±6.06Bb</td><td>63.36±5.06a</td></tr><tr><td></td><td>49</td><td>50.21±1.98B</td><td>55.13±2.59BC</td><td>58.53±7.95AB</td><td>58.43±6.70</td></tr><tr><td></td><td>56</td><td>55.83±1.32Ab</td><td>62.37±4.40Aab</td><td>64.32±4.24Aa</td><td>66.10±4.00a</td></tr><tr><td></td><td>28</td><td>19.93±2.26Cb</td><td>32.50±3.75Aa</td><td>32.37±4.89a</td><td>33.36±3.99a</td></tr><tr><td></td><td>35</td><td>22.33±1.56BCb</td><td>21.20±3.35Bb</td><td>33.36±5.94a</td><td>35.39±5.85a</td></tr><tr><td>白蛋白 ALB</td><td>42</td><td>21.52±2.83BCb</td><td>22.54±1.91Bb</td><td>27.20±6.30b</td><td>36.21±1.97a</td></tr><tr><td></td><td>49</td><td>24.87±1.31AB</td><td>27.37±5.04AB</td><td>29.07±6.33</td><td>29.77±2.58</td></tr><tr><td></td><td>56</td><td>28.27±1.83Ab</td><td>30.63±4.71Aab</td><td>33.30±1.95ab</td><td>35.17±1.23a</td></tr><tr><td></td><td>28</td><td>1.71±0.15Cb</td><td>2.24±0.25Aa</td><td>2.18±0.16Aa</td><td>2.19±0.08a</td></tr><tr><td></td><td>35</td><td>1.82±0.13BCb</td><td>1.87±0.13Bb</td><td>2.24±0.13Aa</td><td>2.22±0.11a</td></tr><tr><td>免疫球蛋白GIgG</td><td>42</td><td>1.75±0.11BCc</td><td>2.02±0.21ABb</td><td>1.92±0.35Bbc</td><td>2.26±0.07a</td></tr><tr><td></td><td>49</td><td>1.90±0.08ABb</td><td>2.01±0.17ABab</td><td>2.21±0.06Aa</td><td>2.09±0.20ab</td></tr><tr><td></td><td>56</td><td>2.04±0.06Ab</td><td>2.11±0.15ABab</td><td>2.30±0.17Aa</td><td>2.20±0.08ab</td></tr><tr><td>免疫球蛋白MIgM</td><td>28</td><td>0.44±0.06Cb</td><td>0.78±0.06Aa</td><td>0.73±0.08ABa</td><td>0.77±0.07a</td></tr><tr><td></td><td>35</td><td>0.51±0.04BCb</td><td>0.53±0.05Cb</td><td>0.76±0.07Aa</td><td>0.72±0.04a</td></tr></table></body></html>
+
+42 0.51±0.04BCb 0.53±0.03Cb 0.61±0.10Bb 0.78±0.10a  
+49 0.54±0.03ABb 0.57±0.05BCb 0.66±0.04ABa 0.74±0.04a  
+56 0.59±0.03Ab 0.65±0.04Bab 0.75±0.04Aa 0.72±0.08a
+
+2.3断奶日龄对五指山仔猪血清TG、CHOL、UN含量的影响
+
+断奶日龄对五指山仔猪血清TG、CHOL、UN含量的影响见表4。从各组别看，21日龄断奶组和28日龄断奶组血清TG含量在 $2 8 { \sim } 5 6$ 日龄间存在显著变化 $( P { < } 0 . 0 5 )$ ，而 35 日龄断奶组和42日龄断奶组在整个试验期内没有显著变化( $P { > } 0 . 0 5 )$ 。从各日龄看，28日龄断奶组血清 TG 含量在 28 日龄时显著高于21日龄断奶组( $\scriptstyle ( P < 0 . 0 5 )$ ;35 日龄断奶组血清 TG含量在28、35日龄时显著高于21日龄断奶组 $( P { < } 0 . 0 5 )$ ；42日龄断奶组血清 TG 含量在 28、35、42、49日龄时显著高于21日龄断奶组 $( P { < } 0 . 0 5 )$ ；各组血清TG 含量在56日龄时已没有显著差异 $( P { > } 0 . 0 5 )$ 。从各组别看，21日龄断奶组血清CHO 含量在 $2 8 { \sim } 5 6$ 日龄间存在显著变化( $\scriptstyle \overbrace { P < 0 . 0 5 ) }$ ，28 日龄断奶组、35日龄断奶组和42日龄断奶组在整个试验期内没有显著变化 $( P { > } 0 . 0 5 )$ 。从各日龄看，21日龄断奶组血清CHOL 含量在28 日龄时显著高于其他3组 $( P { < } 0 . 0 5 )$ ；35日龄断奶组血清CHOL含量在49日龄时显著高于42 日龄断奶组 $( P { < } 0 . 0 5 )$ ；血清CHOL含量在其他时间点各组间差异不显著 $( P { > } 0 . 0 5 )$ 。从各组别看，21日龄断奶组、28日龄断奶组、35日龄断奶组仔猪血清UN 含量均在断奶后7d出现不同程度的上升，到56日龄时，各组血清UN含量均显著低于断奶后7d时( $P$ $< 0 . 0 5 )$ ；而 42日龄断奶组仔猪在断奶前后血清UN含量差异不显著 $( P { > } 0 . 0 5 )$ 。从各日龄看，血清UN 含量在整个试验期各组间差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+表4断奶日龄对五指山仔猪血清TG、CHOL、UN含量的影响
+
+Table 4Effects of weaning age on serum TG,CHOL and UN contents of Wuzhishan piglets mmol/L
+
+<html><body><table><tr><td>Items</td><td>Days</td><td>21</td><td>28</td><td>35</td><td>42</td></tr><tr><td></td><td>of age</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>28</td><td>0.26±0.03Cb</td><td>0.63±0.05Aa</td><td>0.60±0.11a</td><td>0.64±0.08a</td></tr><tr><td>甘油三酯 TG</td><td>35</td><td>0.40±0.03Bb</td><td>0.40±0.02Bb</td><td>0.62±0.20a</td><td>0.67±0.04a</td></tr><tr><td></td><td>42</td><td>0.42±0.04Bb</td><td>0.42±0.17Bb</td><td>0.51±0.02b</td><td>0.70±0.06a</td></tr><tr><td></td><td>49</td><td>0.48±0.08ABb</td><td>0.47±0.09ABb</td><td>0.47±0.25b</td><td>0.68±0.15a</td></tr><tr><td></td><td>56</td><td>0.56±0.09A</td><td>0.55±0.06AB</td><td>0.58±0.06</td><td>0.60±0.32</td></tr><tr><td></td><td>28</td><td>3.16±0.57Aa</td><td>2.21±0.27b</td><td>2.24±0.09b</td><td>2.32±0.22b</td></tr><tr><td>胆固醇 CHOL</td><td>35</td><td>2.53±0.22AB</td><td>2.60±0.34</td><td>2.31±0.24</td><td>2.25±0.31</td></tr><tr><td></td><td>42</td><td>2.44±0.45AB</td><td>2.48±0.39</td><td>2.06±0.36</td><td>2.30±0.39</td></tr><tr><td></td><td>49</td><td>2.40±0.32ABab</td><td>2.35±0.20ab</td><td>2.05±0.24b</td><td>2.88±0.35a</td></tr><tr><td></td><td>56</td><td>2.29±0.35B</td><td>2.30±0.14</td><td>2.10±0.31</td><td>2.28±0.52</td></tr><tr><td></td><td>28</td><td>3.17±0.72A</td><td>2.58±0.09AB</td><td>2.55±0.34AB</td><td>2.43±0.42</td></tr><tr><td>尿素氮UN</td><td>35</td><td>2.91±0.06AB</td><td>2.94±0.44A</td><td>2.43±0.17AB</td><td>2.51±0.26</td></tr><tr><td></td><td>42</td><td>3.04±0.42AB</td><td>2.87±0.64AB</td><td>3.00±0.43A</td><td>2.32±0.22</td></tr><tr><td></td><td>49</td><td>2.59±0.30AB</td><td>2.64±0.15AB</td><td>2.30±0.38AB</td><td>2.57±0.47</td></tr><tr><td></td><td>56</td><td>2.34±0.21B</td><td>2.18±0.19B</td><td>2.13±0.18B</td><td>2.03±0.17</td></tr></table></body></html>
+
+2.4断奶日龄对五指山仔猪血清ALT、AST和LDH活性的影响
+
+断奶日龄对仔猪血清ALT、AST和LDH活性的影响见表5。从各组别看，21日龄断奶组、28日龄断奶组和35日龄断奶组血清ALT 活性再整个实  
+验期存在显著变化( $\scriptstyle \overbrace { P } { < } 0 . 0 5 )$ ，42日龄断奶组在整个试验期内未出现显著变化 $( P { > } 0 . 0 5 )$ 。从  
+各日龄看，28 日龄断奶组血清 ALT活性在28日龄时显著低于21日龄断奶组 $( P { < } 0 . 0 5 )$ ；35  
+日龄断奶组和42 日龄断奶组血清 ALT活性在28、35、49 日龄时显著低于21日龄断奶组( $P$ $< 0 . 0 5 \rangle$ ；42日龄断奶组血清ALT活性在42日龄时显著低于其他3组 $( P { < } 0 . 0 5 )$ ；到56日龄时，各组血清 ALT 活性差异均不显著 $( P { > } 0 . 0 5 )$ 。  
+从各组别看，21日龄断奶组、28日龄断奶组和35日龄断奶组血清AST、LDH活性存在显著变化 $( P { < } 0 . 0 5 )$ ，42日龄断奶组在整个试验期内未出现显著变化 $( P { > } 0 . 0 5 )$ 。从各日龄看，35日龄断奶组和42日龄断奶组血清AST活性在28、35日龄时显著低于21日龄断奶组 $( P { < } 0 . 0 5 )$ ；42日龄断奶组血清AST活性在42日龄时显著低于其他3组 $( P { < } 0 . 0 5 )$ ；49日龄以后，各组血清LDH、AST 活性差异均不显著 $( P { > } 0 . 0 5 )$ 。
+
+表5断奶日龄对五指山仔猪血清ALT、AST和LDH活性的影响  
+Table 5Effects of weaning age on serum ALT,AST and LDH activities of Wuzhishan pigletsU/L   
+
+<html><body><table><tr><td>项目</td><td>日龄 Days of</td><td colspan="4">断奶日龄Weaning day</td></tr><tr><td>Items</td><td>age</td><td>21</td><td>28</td><td>35</td><td>42</td></tr><tr><td></td><td>28</td><td>74.67±6.03Aa</td><td>35.47±2.20Cb</td><td>31.00±1.87Bb</td><td>29.33±2.12b</td></tr><tr><td>谷丙转氨酶</td><td>35</td><td>62.31±7.02Ba</td><td>69.34±4.05Aa</td><td>35.02±3.56Bb</td><td>30.64±4.79b</td></tr><tr><td>ALT</td><td>42</td><td>60.36±3.79Ba</td><td>55.67±7.02Ba</td><td>56.00±8.54Aa</td><td>32.63±3.22b</td></tr><tr><td></td><td>49</td><td>53.33±4.17Ba</td><td>49.72±3.26BCa</td><td>38.32±2.52Bb</td><td>36.36±5.02b</td></tr><tr><td></td><td>56</td><td>42.48±1.85C</td><td>37.43±5.32C</td><td>32.57±1.91</td><td>33.07±9.17</td></tr><tr><td></td><td>28</td><td>163.28±17.04Aa</td><td>116.48±12.01ABb</td><td>103.30±10.43Bb</td><td>100.51±13.35b</td></tr><tr><td></td><td>35</td><td>147.11±6.43ABa</td><td>144.67±20.21Aa</td><td>114.55±7.88Bb</td><td>105.53±20.23b</td></tr><tr><td>谷草转氨酶</td><td>42</td><td>148.07±10.54ABa</td><td>142.42±13.20Aa</td><td>141.65±13.01Aa</td><td>108.33±13.85b</td></tr><tr><td>AST</td><td>49</td><td>130.25±9.18BC</td><td>133.51±20.33AB</td><td>120.35±7.25B</td><td>123.62±25.59</td></tr><tr><td></td><td>56</td><td>114.31±6.68C</td><td>110.55±4.77B</td><td>105.52±11.37B</td><td>105.89±14.53</td></tr><tr><td>乳酸脱氢酶</td><td></td><td></td><td>613.33±79.01Cb</td><td></td><td></td></tr><tr><td></td><td>28</td><td>1118.33±106.09Aa</td><td></td><td>591.53±35.76Bb</td><td>576.57±39.02b</td></tr><tr><td>LDH</td><td>35</td><td>792.33±57.83Bb</td><td>1125.34±105.77Aa</td><td>620.00±61.50Bb</td><td>604.38±40.51b</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>42</td><td>785.05±42.16Bab</td><td>778.52±75.04Bab</td><td>867.67±152.10Aa</td><td>611.33±60.28b</td></tr><tr><td>49</td><td>690.71±37.64BC</td><td>683.67±58.50BC</td><td>630.10±63.91B</td><td>708.00±85.86</td></tr><tr><td>56</td><td>630.14±77.92C</td><td>621.35±39.51C</td><td>631.42±84.02B</td><td>627.67±107.30</td></tr></table></body></html>
+
+3讨论
+
+研究表明，断奶日龄影响断奶后仔猪的生产性能[。顾宪红等[7研究了断奶日龄（17、21、28、35日龄）对仔猪生长性能的影响，结果发现断奶日龄对仔猪体重、ADG、ADFI均产生了显著影响，且断奶（21日龄）越早，这些指标下降的幅度越大。周芬等3报道，28日龄断奶仔猪断奶后7和14d的ADG、ADFI均显著高于23日龄断奶仔猪，表明 28 日龄断奶仔猪遭受的断奶应激较小。郑心力等[8比较了不同断奶日龄（21、28、35、42日龄）对临高仔猪生产性能的影响，结果发现随着断奶日龄的增加，生长性能得到提高，35、42 日龄断奶仔猪在60 日龄时的体重、ADG、料重比都明显优于21、28 日龄断奶仔猪。本试验也发现，不同断奶日龄仔猪在断奶后ADG 均出现不同程度的下降，且断奶日龄越早，ADG下降幅度越大，恢复时间越长，21日龄断奶组在 $4 9 { \sim } 5 6$ 日龄阶段的ADG 仍显著低于35日龄断奶组和42 日龄断奶组。断奶可促进采食，各组仔猪的 ADFI在断奶后均显著增加，42日龄以后，各组仔猪的 ADFI无显著差异，表明断奶日龄是影响断奶后仔猪采食量和日增重的重要因素，21日龄断奶仔猪断奶后需要的恢复时间较长，这可能是由于早期断奶（21日龄）仔猪由于遭受断奶应激，导致肠道屏障功能受损，从而使生长性能显著下降，具体机制还有待进一步研究研究。从整个试验期来看，35日龄断奶组和42日龄断奶组仔猪的 ADG显著高于21日龄断奶组和28日龄断奶组，说明35和42日龄断奶仔猪遭受断奶应激较小。血清 TP 由ALB和GLB 组成，血液中TP含量可反映机体的蛋白质代谢状况和免疫力;ALB 由肝脏合成，是机体蛋白质的主要来源之一，具有运输营养物质、维持血浆渗透压稳定等功能[9]。本试验中，21日龄断奶组、28 日龄断奶组、35日龄断奶组血清 TP、ALB 含量在断奶后7d均显著降低，21日龄断奶组波动最大，恢复时间最长。与35日龄断奶组和
+
+42 日龄断奶组相比，21日龄断奶组血清TP、ALB含量在28、35 日龄时均显著降低，到 56日龄时，血清 TP含量仍低于35 日龄断奶组和42 日龄断奶组，表明35日龄后断奶可促进仔猪消化吸收，提高仔猪对机体蛋白质的代谢，增强机体免疫力。血清免疫球蛋白含量或效价高低是反映机体体液免疫水平的重要指标。IgM是参与机体初次免疫应答的主要抗体;IgG是血清中主要介导体液免疫的抗体，能抵抗多种细菌与毒素的侵袭[10]。有研究表明，早期断奶应激会降低体液免疫水平，抑制细胞免疫能力[I]。本试验中，血清 IgG、IgM含量变化趋势与 TP、ALB一致，这与前人研究结果[12-13]相似，表明35 日龄后仔猪已经建立了比较完善的免疫系统，产生免疫球蛋白的能力比较强，可以有效抵御断奶应激。血液 TG 和 TCHO 含量是检测体脂代谢状况的重要指标[14-15]。本试验中，21日龄断奶组血清 TG、CHOL 含量在 $2 8 { \sim } 5 6$ 日龄间存在显著变化，而 35 日龄断奶组和 42日龄断奶组血清TG、CHOL含量在整个试验期均无显著变化，说明早期断奶对仔猪机体脂肪的代谢影响比较大。UN 是含氮物质(蛋白质和氨基酸)代谢的主要终产物，血液中 UN 含量可以较准确的反映动物机体蛋白质代谢与氨基酸之间的平衡状况，蛋白质代谢良好时血液中UN 含量下降[16]。早期断奶可导致仔猪血液UN 含量升高[17]。本试验结果发现，21日龄断奶组、28 日龄断奶组、35日龄断奶组仔猪血清UN含量均在断奶后出现显著上升，且断奶日龄越早，血清UN含量恢复时间越长，21日龄断奶组、28日龄断奶组、35 日龄断奶组血清UN含量分别在 $2 8 { \sim } 5 6$ 日龄、 $3 5 { \sim } 5 6$ 日龄、 $4 2 { \sim } 5 6$ 日龄间存在显著变化，该结果进一步表明，断奶日龄越早，对机体蛋白质的正常代谢的影响越大，从而导致蛋白质分解加强，体内蛋白质沉积减少。
+
+AST 和ALT作为评价肝功能的重要指标，可以反映肝脏的受损情况。正常情况下血液中这2种酶的活性很低，是当肝脏受到损伤或处于应激状态，这2种酶进入血液，导致血液中活性升高，因此，其活性变化可反映肝脏和心脏受损伤状况和机体遭受应激情况[18-19]。张庆坤等[20研究发现，14日龄断奶的仔猪在断奶7d后血清 ALT、AST 活性均不同程度提高，而 21、28 和 35 日龄断奶的仔猪这2 种酶的活性则有不同程度降低。杨晶晶[2比较了不同断奶日龄（14、21、28和35日龄）对仔猪血液ALT、AST 活性的影响，结果发现各断奶日龄仔猪在42 日龄时血液 ALT、AST 活性无显著差异。本试验中，21日龄断奶组、28 日龄断奶组和35日龄断奶组血清ALT、AST活性在断奶后7d均显著升高，其中以21日龄断奶组变化幅度最大，各组之间血清 ALT、AST活性分别在56、49 日龄时达到无显著差异。结合张庆坤等[20]、杨晶晶[21的研究结果，说明断奶日龄越早，断奶后一定时间内对血清 ALT、AST 活性的影响越大，影响时间越长，表明仔猪遭受应激的程度越大，对肝脏损伤越大。LDH是糖酵解途径中重要的酶，当机体发生损伤、病变、不良反应等疾病时，血清中LDH的活性升高[22]。LDH活性的变化常被作为反映应激对仔猪影响的指标[12]。本试验中，21日龄断奶组、28日龄断奶组和35日龄断奶组血清LDH 活性在断奶后7d均出现显著升高，其中以 21 日龄断奶组波动最大，21日龄断奶组血清 LDH 活性在 28、35 日龄时显著高于35日龄断奶组和42日龄断奶组，各组血清LDH活性在49日龄以后达到无显著差异，与血清 ALT、AST活性的变化规律基本一致，说明断奶日龄越早，对机体产生的负面影响越大，进而影响仔猪的正常生长，与前人研究结果[12.21]相似。
+
+4结论
+
+$\textcircled{1}$ 与21日龄断奶相比，35或42日龄断奶可改善五指山仔猪的生长性能，提高血清TP、ALB、IgG、IgM含量，降低血清AST、ALT、LDH活性。
+
+$\textcircled{2}$ 综合分析各项指标，五指山仔猪在35或42日龄断奶的效果要优于21日龄断奶。
+
+# 参考文献：
+
+[1] TAN B,LI X G,KONG X F,et al.Dietary $L$ -arginine supplementation enhances the immune status in early-weaned piglets[J].Amino Acids,2009,37(2):323-331.
+
+[2] COLSON V,ORGEUR P,FOURY A,et al.Consequences of weaning piglets at 21 and 28 days on growth,behaviour and hormonal responses[J].Applied Animal Behaviour
+
+Science,2006,98(1/2):70-88.
+
+[3] 周芬,冯培刚,张莉莉,等.断奶日龄对仔猪生产性能和消化酶活性的影响[J].畜牧与兽医,2009,41(6):27-29.
+
+[4] 朱锋钊,杜秀园.不同断奶日龄对梵净山特种野猪仔猪生产性能的影响[J].南方农业,2014,8(21):124-125.
+
+[5] KALITA G,BURAGOHAIN R,SAIKIA P,et al.Effect of weaning age on growth performance and feed conversion efficiency of Large White Yorkshire (LWY） piglets under intensive system of management in Mizoram[J].International Journal of Scientific Research in Science and Technology,2015,1(4):90-94.
+
+[6] VARLEY E A.The neonatal pig:development and survival[M].Leeds:CAB International,1995. [7] 顾宪红,张宏福,李长忠,等.断奶日龄和日龄对仔猪生产性能及主要消化器官重量的影响 [J].动物营养学报,2004,16(1):23-29.
+
+[8]郑心力,魏立民,晁哲,等.断奶日龄对临高仔猪生产性能的影响[J].广东农业科学,2013,40(1):114-115,130.
+
+[9] CHIKHOU F H,MOLONEY A P,ALLEN P,et al.Long-term effects of cimaterol in Friesian steers:I .Growth,feed efficiency,andselected carcasstraits[J].JournalofAnimal Science,1993,71(4):906-913.
+
+10]崔治中,崔保安.兽医免疫学[M].北京:中国农业出版社,2004:42-44.
+
+[11] KELLY D J,O'BRIEN J J,MCCRACKEN K J.Effect of creep feeding onthe incidence,duration and severity of post-weaning diarrhoea in pigs[J].Research in Veterinary Science,1990,49(2):223-228.
+
+[12] 冷静,朱仁俊.不同日龄断奶应激对仔猪血液生化和免疫指标的影响[J]).安徽农业科学,2010,38(4):1853-1854,1880.
+
+[13] 张振斌,蒋宗勇,林映才,等.超早期断奶应激对仔猪血清生化指标的影响[J].中国畜牧杂志,2000,36(2):15-17.
+
+[14] 宁豫昌,赵绪永,王静.绞股蓝对断奶仔猪生长性能、血液生化指标和免疫功能的影响[J].中国畜牧杂志,2014,50(7):74-78.
+
+[15]王镜岩,朱圣庚,徐长法.生物化学[M].3版.北京:高等教育出版社,2002.  
+[16] ROSEBROUGH R W,STEELE N C,MCMURTRY J P.Effect of protein level andsupplementallysineon growth and urea cycleenzymeactivity inthepig[J].Gr0wth,1983,47(4):348-360.  
+[17] 吴金节,龙彩虹,张德群,等.早期断奶应激对仔猪血清生化指标的影响[J].中国兽医学报,2000,20(3):261-263.  
+[18] CHENG W H,VALENTINE B A,LEI X G.High levels of dietary vitamin E do not replacecellular glutathione peroxidase in protecting mice from acute oxidative stress[J].The Journalof Nutrition,1999,129(11):1951-1957.  
+[19] 段铭,高宏伟,梁鸿雁.吡啶羧酸铬对肉仔鸡血清生化指标及肝脏中相关酶基因表达的影响[J].畜牧兽医学报,2003,34(4):336-339.  
+[20] 张庆坤,张宏福,秦加华,等.不同日龄断奶对仔猪血清五种酶活性影响的研究[J].黑龙江畜牧兽医,2007(4):38-40.  
+[21] 杨晶晶.断奶日龄对仔猪抗氧化功能、生长相关激素及功能基因表达影响的研究[D].硕士学位论文.天津:天津农学院,2016:10-18.  
+[22] 袁雪波,马黎,陈克鳞,等．炭和竹醋液对断奶仔猪生长性能、血液生理生化指标和抗氧化性能的影响[J].华中农业大学学报,2013,32(3):88-93.
+
+# Piglets
+
+XUN Wenjuan ZHOU Hanlin HOU Guanyu+\* CAO Ting SHI Liguang (1.Tropical Crops Genetic Resources Institute, Chinese Academy of Tropical Agricultural Sciences,Danzhou571737,China)
+
+Abstracts: This experiment was conducted to study the effects of weaning age on growth performance and serum biochemical indices of Wuzhishan piglets.A total of 96 Wuzhishan piglets with the similar age ( $\boldsymbol { \pm } 1$ day） and the average body weight of $( 0 . 5 6 { \pm } 0 . 0 7 ) \$ kg were randomly divided into 4 groups with 4 replicates per group and 6 piglets per replicate. Piglets in those 4 groups were weaned at the age of 21, 28, 35 and 42 days,respectively. The experiment was carried out from 8 to 56 days of age,and body weight, feed intake and serum biochemical indices were regularly determined. The results showed that the average daily gain (ADG) of piglets in the four groups was decreased to varying degrees after weaning. The earlier the weaning day, the more decrease of ADG. The ADG in 35-day-old and 42-day-old weaned groups was significantly higher than that of 21-day-old weaned group at the age of 21 to 28 days,28 to 35 days,35 to 42 days and 49 to 56 days $( P { < } 0 . 0 5 )$ .Weaning could significantly increase the average daily feed intake (ADFI) of piglets in the four groups,and the ADFI of piglets had no significant difference among the four groups at 42 days of age $( P { > } 0 . 0 5 )$ .The contents of total protein (TP)，albumin (ALB), immunoglobulin G (IgG), immunoglobulin M (IgM),and the activities of glutamic oxalacetic transaminase (AST), alanine aminotransferase (ALT) and lactate dehydrogenase (LDH) in serum in 21-day-old, 28-day-old and 35-day-old weaned groups were significantly changed at 7 days post-weaning $( P { < } 0 . 0 5 )$ ，and the largest fluctuation was observed in 21-day-old weaned group.
+
+Compared with the 35-day-old and 42-day-old weaned groups, the serum TP, ALB, IgG and IgM contents were significantly decreased ( $\lceil P { < } 0 . 0 5$ )，and the serum ALT,AST and LDH activities were significantly increased in 21-day-old weaned group $( P { < } 0 . 0 5 )$ . The serum TP, IgG and IgM contents were still lower in 21-day-old weaned group than 35-day-old and 42-day-old weaned groups at 56 days of age $( P { < } 0 . 0 5 )$ . The serum triglyceride (TG) and cholesterol contents (CHOL) contents in 21-day-old weaned group were significantly changed during 28 to 56 days of age （204号 $( P { < } 0 . 0 5 )$ ，while these had no significant difference during whole experimental period in the 35-day-old and 42-day-old weaned groups $( P { > } 0 . 0 5 )$ .In addition to significant differences existed at the age of 42 days $( P { < } 0 . 0 5 )$ ,there were no significant difference in serum TP,ALB,IgG and IgM contents,and AST, ALT and LDH activities between the 35-day-old and 42-day-old weaned groups $( P { > } 0 . 0 5 )$ . It is suggested that Wuzhishan piglets weaned at 35 or 42 days of age are beter than those weaned at 21 days of age in growth performance,serum biochemical indices and immune function.   
+Key words: weaning age; Wuzhishan piglets; growth performance; serum biochemical indices; immunoglobulin

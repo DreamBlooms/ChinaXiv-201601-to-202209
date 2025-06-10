@@ -1,0 +1,292 @@
+[
+    {
+        "type": "text",
+        "text": "广西地不容非药用部位化学成分研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张汝胜1,²，李霞¹，黄永林²，王亚凤²，阳丙媛²，李典鹏²，何瑞杰2\\*（1．桂林理工大学 化学与生物工程学院，广西 桂林 541006；2.广西植物功能物质研究与利用重点实验室，广西壮族自治区中国科学院广西植物研究所，广西 桂林 541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：广西地不容（Stephaniakwangsiensis）为防己科藤本植物，主要分布于广西，其药用部位（块根）中药名为“金不换”，有镇静、杀虫、抗炎、抗肿瘤、抗病毒、抑菌作用，也用于治疗阿尔茨海默病。为了充分利用该植物资源，明确广西地不容非药用部位中的化学成分，发现相关的活性成分。该研究综合运用正相 SephadexLH-20、正相硅胶、正相聚酰胺、MCIgelCHP 20P等多种柱色谱法对广西地不容非药用部位甲醇提取物进行分离纯化，所得单体化合物的结构经MS、 $\\mathrm { ^ { 1 } H _ { \\ I M R } }$ 、 $^ { 1 3 } \\mathrm { C }$ NMR等波谱学数据的分析以及相关文献的对照进行鉴定，同时用滤纸法对分离得到的化合物开展抗细菌（大肠杆菌、金色葡萄球菌、枯草芽孢杆菌）和抗真菌（尖孢镰刀菌）的活性评价。结果表明：（1）从该植物中分离得到的10个化合物分别鉴定为吐叶醇（1）、蚱蜢酮（2）、异紫堇定碱（3）、2-0- $\\cdot \\beta$ -D-glucopyranosyl-D-arabinitol （4）、(9S,12S,13S)-trihydroxyoctadeca-(10E,15Z)-dienoicacid（5）、magnoflorine（6）、corchoionosideC（7）、委陵菜酸（8）、紫堇定碱（9）、克班宁（10)。其中化合物1、2、4、5、6、7、8为首次从该植物中分离得到，化合物1、2、4、5、7、8为首次从该属植物中分离得到，化合物4为首次从天然产物中分离得到。（2）在所试验的化合物浓度为 $6 ~ \\mathrm { { m g } \\cdot \\mathrm { { m L } ^ { - 1 } } }$ 时，化合物1、2、5对大肠杆菌具有弱抑菌作用；化合物2对金色葡萄球菌也有弱的抑菌活性；化合物3和8对枯草芽孢杆菌有弱的抑制作用。广西地不容非药用部位含丰富的活性成分，具有开发利用的潜力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：广西地不容，化学成分，结构鉴定，生物碱，抑菌活性中图分类号：Q946 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chemical constituents from non-medicinal parts of Stephania kwangsiensis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金（32060108，82060764）；广西自然科学基金（2018GXNSFAA294033，2018GXNSFAA281078)；中国博士后专项基金（200626)；广西植物研究所基本业务费（桂植业18004)；广西创新驱动发展专项基金(桂科 AA18118015)；广西植物功能物质研究与利用重点实验室开放基金(ZRJJ2020-2，ZRJJ2018-19)；省部共建药用资源化学与药物分子工程国家重点实验室资助课题（CMEMR2019-B13)；广东省重点领域研发计划资助（2020B111110003)；中央引导地方科技发展专项（桂科 2011010）[Supported by the National Natural Science Foundation of China (32060108,82060764); NaturalScience Foundation of Guangxi (2018GXNSFAA294033,2018GXNSFAA281078); China Postdoctoral ScienceFoundation (2O0626)；Fundamental Research Fund of Guangxi Institute of Botany(18O04)；GuangxiInnovation-Driven Development Special Fund (AA18118015)； Guangxi Key Laboratoryof FunctionalPhytochemicals Research and Utilization of Open Fund Project (ZRJJ2020-2，ZRJJ2018-19)； State KeyLaboratory for the Chemistry and Molecular Engineering of Medicinal Resources,Guangxi Normal University(CMEMR2019-B13); Key-Area Research and Development Program of Guangdong Province (2020B111110003);Special Project of Central Government Guiding Local Science and Technology Development （20111010）]。作者简介：张汝胜（1996-)，硕士研究生，主要从事天然产物的研究与开发，(E-mail)527264216@qq.com。\\*通信作者：何瑞杰，博士，副研究员，主要从事天然产物化学的研究与开发利用，(E-mail)heruijie937 $@$ 163.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Rusheng1,²，LI Xia'， HUANG Yonglin²，WANG Yafeng²，YANG Bingyuan²,LI Dianpeng²， HE Ruijie2\\*",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1.CollegeofChemistryand Bioengineering,Guilin UniversityofTechnology,Guilin 541oo6,Guangxi,China;2. Guangxi Key Laboratory of Functional Phytochemicals Research and Utilization, Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences,Guilin 541006,Guangxi, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Stephania kwangsiensis,a vine plant of the Stephaniaceae family, is mainly spread in Guangxi, China.The roots of S.kwangsiensis,“Jin Bu Huan”in Chinese, is often used for sedative,insecticidal,anti-inflammatory,anti-tumor,antiviral,anti-bacterial,as well as for the treatment of Alzheimer's disease.In order to make full use of the title plant resources,clarify its chemical components，and find the relevant active compounds，the methanol extracts of non-medicinal parts of this plant was isolated using various chromatographic methods such as positive phase Sephadex LH-2O, positive phase silica gel, positive phase polyamide,and MCI gel ${ \\mathrm { C H P } } 2 0 { \\mathrm { P } }$ .The structures of the isolated components were determined by MS, $\\mathrm { ^ { 1 } H N M R }$ ， $^ { 1 3 } { \\bf C } { \\bf N M R }$ and other spectroscopic data analysis,as well as comparison with relevant literatures. The activities of the isolated compounds from S. kwangsiensis against bacteria (Escherichia coli, Staphylococcus aureus, Bacillus subtilis) and fungi (Fusarium oxysporum) were evaluated using filter paper method. The results were as follows:(1） 10 compounds obtained from the non-medicinal parts of this plant were identified as vomifoliol (1)，grasshopper ketone (2), isocorydine(3),2-0 $\\cdot \\beta \\cdot$ -D-glucopyranosyl-D-arabinitol(4),(9S,12S,13S)-trihydroxyoctadeca- $( 1 0 E , 1 5$ （204号 Z)-dienoic acid (5), magnoflorine (6), corchoionoside C (7), tormentic acid (8), corydine (9), and crebanine (10).Among of them, compounds 1,2, 4,5,6,7 and 8 were isolated from this plant for the first time. Compounds 1, 2,4, 5,7 and 8 were firstly obtained from this genus plants. And compound 4 was found from natural products for the first time.(2) At concentration of $6 \\mathrm { { m g } \\cdot \\mathrm { { m L } ^ { - 1 } } }$ Compounds 1, 2 and 5 show weak antibacterial activities against Escherichia coli; Compound 2 exhibits weak antibacterial activities against Staphylococcus aureus; Compounds 3 and 8 display weak antibacterial activities against Bacillus subtilis. The non-medicinal parts of Stephania kwangsiensis contains large numbers of active components and have the potential of development and utilization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Stephania kwangsiensis,chemical constitutes, structural identification, alkaloid, antibacterial activity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "广西地不容（Stephaniakwangsiensis）属于防己科（Menispermaceae）千金藤属（Stephania）多年生草质落叶藤本植物，长可达 $3 \\mathrm { m }$ 有余，块根通常扁球形，叶互生，纸质；叶柄于叶基部 $1 { \\sim } 1 . 5 ~ \\mathrm { c m }$ 处盾状着生，长 $4 { \\sim } 9 \\ \\mathrm { c m }$ ；叶片三角状圆形至近圆形，主要产于广西西北部至西南部，生于石灰岩地区的山地灌丛（中国科学院中国植物志委员会，1996)。防己科植物多含有丰富的生物碱，具有较高的药用价值。广西地不容药用部位（块根）也含有丰富的生物碱，具有很好的生物活性，如镇痛和抗炎作用（罗昱澜等，2017）、抑菌活性（邓业成等，2006）、杀虫活性（邓业成和徐汉虹，2005）、抗病毒活性（郝静等，2008)。在临床上主要用于镇痛、解热（王宪楷和赵同芳，1990）、镇静（金国章，1987）等作用。广西地不容作为广西地方特色药用植物，其非药用部位（茎、叶）的资源存量巨大，所以对于野生资源日益匮乏的今天，从非药用部位中寻找可替代药用部位中一些有效成分的研究显得尤其重要。广西地不容植物富含生物碱，该类成分在分离纯化的过程中极易被柱材料吸附，造成拖尾严重，收率低的问题，因此生物碱的分离一直是当今天然产物研究领域的一个热点和难点问题。本研究以广西地不容非药用部位（茎、叶）为研究对象，依托现代先进的仪器设备，采用SephadexLH-20、碱化硅胶、聚酰胺、MCIgelCHP 20P等多种柱色谱法、现代波谱学技术以及现代药理学技术拟探讨：（1）广西地不容非药用部位甲醇提取物中的化学成分，结果得到10个化合物，它们的结构如图1所示。（2）所分离得到的部分化合物的抗菌活性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4eb5365f7b2fddaa16132b2bebe2f6446c9b7d814cabc09f303f7b4d97bb13c.jpg",
+        "img_caption": [
+            "图1化合物1-10结构",
+            "Fig.1 Chemical structures of compounds 1-10 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料、仪器和试剂",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "广西地不容地上部分于2019年8月在广西桂林恭城瑶族自治县采集得到，经广西植物研究所黄俞淞副研究员鉴定为广西地不容（Stephaniakwangsiensis）非药用部位，标本（编号：20190824）被保存于广西植物功能物质研究与利用重点实验室。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "仪器：MAT95XP 高分辨质谱（美国，Thermo）、Brucker Avance IIIHD-500 MHz 超导核磁共振波谱仪（瑞士，Brucker 公司）、OSB-2100 油浴锅、真空泵（上海爱朗仪器有限公司）、HH·BII-360-S-II恒温培养箱（上海跃进医疗器械厂)、SW-CJ-1F 超净工作台（苏净集团安泰公司）、TQZ-312振荡器（上海精宏实验设备有限公司）、YXQ-LS-50SII高压灭菌锅（上海博讯实业有限公司医疗设备厂）、Sephadex LH-20（GE Healthcare Bio-Science AB,Sweden）、MCI gel CHP20P（ $7 5 \\sim 1 5 0 ~ \\mu \\mathrm { m }$ ；MitsubishiChemical,Tokyo，日本)；试剂：硅胶（ $2 0 0 \\sim 3 0 0$ 目，青岛海洋化工有限公司）、聚酰胺（ $1 0 0 \\sim 2 0 0$ 目，江苏长丰化工有限公司）、TLC 薄层色谱板（德国Merck 公司）、LB营养琼脂（青岛高科技工业园海博生物技术有限公司）、LB肉汤（青岛高科技工业园海博生物技术有限公司）、氨苄青霉素（上海源叶生物科技有限公司）、 $9 9 \\%$ 生物技术级二甲基亚砜（DMSO，上海麦克林生化科技有限公司）、提取与分离所使用的试剂皆为实验室常用分析纯。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试菌种：大肠杆菌（Escherichia coli）、金色葡萄球菌（Staphylococcus aureus）、枯草芽孢杆菌（Bacillus subtilis）、尖孢镰刀菌（Fusarium oxysporum)，均由桂林理工大学化学与生物工程学院李海云老师课题组提供。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 提取和分离",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取干燥广西地不容地上部分 $4 . 2 \\mathrm { k g }$ ，粉碎后用甲醇室温浸提3次，每次 $3 0 \\mathrm { L }$ ，每次一周，合并过滤提取液，经减压浓缩后得到浸膏 $ { 4 8 0 . 1 \\mathrm { ~ g ~ } }$ 。浸膏加蒸馏水溶解使其混悬后使用石油醚、乙酸乙酯、正丁醇各萃取3次，减压回收萃取溶剂，得石油醚萃取物 $4 4 . 0 ~ \\mathrm { g }$ ，乙酸乙酯萃取物 $3 3 . 4 ~ \\mathrm { g }$ ，正丁醇萃取物 $8 0 ~ \\mathrm { g }$ 。取正丁醇萃取物 $7 5 \\mathrm { ~ g ~ }$ 上MCI柱层析（ $( 7 \\mathrm { c m } \\times 8 0 \\mathrm { c m } )$ )，用甲醇-水（ $0 \\%$ 、 $10 \\%$ 、 $20 \\%$ 、 $30 \\%$ 、 $40 \\%$ 、 $50 \\%$ 、 $60 \\%$ 、 $70 \\%$ 、 $80 \\%$ 、 $90 \\%$ 、 $100 \\%$ ）进行梯度洗脱，经TLC 薄层层析合并得到12个馏分：Fr.1\\~12。Fr.1（ $2 6 . 3 ~ \\mathrm { g }$ ）进行SephadexLH-20柱色谱（甲醇-水， $0 \\% \\sim 1 0 0 \\%$ ，每 $20 \\%$ 一个梯度）分离纯化，得到5个馏分，Fr.1-1\\~Fr.1-5。将Fr.1-1（ $\\begin{array} { r } { 1 6 . 8 \\mathrm { ~ g ~ } } \\end{array}$ ）进行反复SephadexLH-20 柱层析（ $20 \\%$ 甲醇-水）得到化合物4 $( 8 . 7 ~ \\mathrm { g } )$ 。Fr.2(3.6g)用二氯甲烷:甲醇:水体系（36:1:0.1，18:1:0.1，9:1:0.1，v/v/v）进行硅胶柱层析，得到6个馏分， $\\mathrm { F r } . 2 \\substack { - 1 \\sim } \\mathrm { F r } . 2 \\substack { - 6 }$ 。将Fr.2-2（ $\\cdot 1 . 2 \\mathrm { ~ g ~ } )$ ，用二氯甲烷:甲醇体系（100:0\\~50:50，v/v）进行聚酰胺柱层析，得到9个馏分，Fr.2-2-1\\~Fr.2-2-9。将Fr.2-2-1（ $0 . 2 \\ \\mathrm { g }$ ）用二氯甲烷：甲醇（1:1,v/v)进行 SephadexLH-20 柱色谱分离纯化得到化合物 $\\mathbf { 1 } ( 1 2 . 0 \\mathrm { m g }$ 、2 $\\left. 3 . 0 \\mathrm { m g } \\right.$ 、3 (6.1mg)、8 $\\left. 5 . 3 \\ \\mathrm { m g } \\right.$ 。Fr.3 $( 8 . 4 \\ \\mathrm { g } )$ 用二氯甲烷:甲醇体系（1:1，v/v）进行反复SephadexLH-20柱色谱分离，得到6个馏分， $\\mathrm { F r } . 3 \\substack { - 1 \\sim } \\mathrm { F r } . 3 \\substack { - 6 }$ 将Fr.3-3( $\\mathrm { 1 . 5 g }$ )用二氯甲烷:甲醇:水体系(18:1:0.1,9:1:0.1，8:2:0.2，v/v/v）进行反复硅胶柱层析等色谱技术分离纯化，最终得到化合物5（4.5$\\mathrm { m g }$ 、6 $\\left( 5 . 1 ~ \\mathrm { m g } \\right)$ 、7 $\\left( 6 . 3 \\mathrm { m g } \\right)$ 、9 $( 1 1 . 0 \\mathrm { m g } )$ 、10（ $\\left. 3 . 3 \\mathrm { m g } \\right.$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结构鉴定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物 $\\mathbf { 1 } \\colon \\mathrm { C } _ { 1 3 } \\mathrm { H } _ { 2 0 } \\mathrm { O } _ { 3 }$ ，无色固体，[α] $+ 3 6 . 0 ^ { \\circ }$ 0 $\\stackrel { \\cdot } { c } = 0 . 1 6$ ,MeOD)。HR-ESI-MS m/z: 225.1461 $\\mathrm { \\left[ M \\mathrm { + H } \\right] ^ { + } }$ ， $\\mathrm { ^ { 1 } H }$ -NMR $( 5 0 0 ~ \\mathrm { M H z }$ ,MeOD) δ: 5.88 (1H, s,H-4), 5.79 (2H, d, $J = 6 . 3 ~ \\mathrm { H z }$ ,H-7, H-8), 4.37 (1H, m, H-9), 2.51 (1H, d, $J = 1 6 . 9 \\ : \\mathrm { H z }$ ,H-2), 2.16 (1H, d, $J = 1 6 . 9 \\ : \\mathrm { H z }$ ,H-2), 1.93 (3H, d, $J =$ $1 . 4 \\ : \\mathrm { H z }$ ,H-13), 1.24 (3H,d, $J = 6 . 4 ~ \\mathrm { H z }$ ,H-10),1.04 (3H, s,H-12),1.01 (3H, s,H-11)。 $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz, MeOD) 8: 42.4 (C-1), 50.7 (C-2), 201.4 (C-3),130.0 (C-4), 163.9 (C-5), 79.5 (C-6), 127.1 (C-7),136.9 (C-8), 68.7 (C-9),24.5 (C-10),23.8 (C-11),23.4 (C-12),19.6 (C-13)。以上数 据与文献(Zhangetal.,2021)报道一致，故鉴定化合物1为吐叶醇。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物2: $\\mathrm { C _ { 1 3 } H _ { 2 0 } O _ { 3 } }$ ，无色固体， $[ \\mathrm { a } ] _ { \\mathrm { D } } ^ { 2 5 } - 2 7 . 0 ^ { \\circ } \\left( c = 0 . 1 , \\mathrm { M e O D } \\right)$ 。HR-ESI-MS m/z: 247.1281 $\\mathrm { \\left[ M + N a \\right] ^ { + } }$ ， $\\mathrm { ^ { 1 } H }$ -NMR( ${ 5 0 0 } \\mathrm { M H z }$ ,MeOD) $\\delta$ : 5.84 (1H, s,H-8), 4.23 (1H, m, H-3), 2.23 (1H, m, H-4a),2.20 (3H,s,H-10),1.93 (1H, m, H-2a),1.42 (1H, m, H-2b),1.39 (6H,s,H-12,13),1.30 (1H, m, H-4b), 1.16 (3H, s,H-11)。 $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz, MeOD) $\\delta$ : 37.0 (C-1), 49.9 (C-2), 64.4 (C-3),49.7 (C-4),72.5 (C-5),120.0 (C-6),211.6 (C-7),101.1(C-8),201.0 (C-9),26.5 (C-10), 29.3 (C-11),32.3(C-12),30.8 (C-13)。以上数据与文献（Le et al.,2019）报道一致，故鉴定化合物 2 为蚱蜢酮。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物3: $\\mathrm { C } _ { 2 0 } \\mathrm { H } _ { 2 3 } \\mathrm { N O } _ { 4 }$ ，黑灰色油状， $[ \\mathrm { { a } ] _ { \\mathrm { { D } } } ^ { 2 5 } }$ $+ 2 7 4 ^ { \\circ }$ 0 $\\overset { \\cdot } { c } = 1$ ,MeOD)。HR-ESI-MS m/z: 342.1685 $\\mathrm { \\left[ M \\mathrm { + H } \\right] ^ { + } }$ ， $\\mathrm { ^ { 1 } H }$ -NMR( ${ 5 0 0 } \\mathrm { M H z }$ ,MeOD) δ: 6.86 (1H, d, $J { = } 8 . 1 \\ \\mathrm { H z }$ ,H-9), 6.83 (1H, d, $J = 8 . 1 \\ \\mathrm { H z }$ H-8),6.71 (1H, s,H-3),2.86 (1H, d, $J = 1 3 . 2 \\mathrm { H z }$ ,H-6),2.31 (1H, t, $J = 1 3 . 2 \\mathrm { H z }$ ,H-5),8.70 (1H, s, H-11), 3.69 (3H, s,1-OMe),3.90 (6H,s,2,10-OMe),3.04 (3H,s,N-Me)。 $^ { 1 3 } \\mathrm { C }$ NMR(125 MHz, MeOD) $\\delta$ : 143.0 (C-1), 150.6 (C-2), 116.0 (C-3),29.4 (C-4), 50.0 (C-5), 62.2 (C-6), 35.9 (C-7), 120.7 (C-8),112.7 (C-9),150.3 (C-10),144.2 (C-11),126.0 (C-12),127 (C-13), 130.2 (C-14), 129.0 (C-15), 125.0 (C-16), 44.0 (C-17), 54.0 ( $2 \\mathrm { - O C H } _ { 3 } ,$ ,64.3 ( $\\mathrm { \\underline { { 1 - O C H _ { 3 } } } } ,$ ,56.5 ( $_ { 1 0 - \\mathrm { O C H } _ { 3 } } ,$ )。以上数 据与文献（邓业成和徐汉虹，2004）报道一致，故鉴定化合物3为异紫堇定碱。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物4: $\\mathrm { C } _ { 1 2 } \\mathrm { H } _ { 2 4 } \\mathrm { O } _ { 1 0 }$ ，灰色结晶， $[ \\mathrm { a } ] _ { \\mathrm { D } } ^ { 1 6 } - 1 5 . 6 0 ^ { \\circ }$ 0 $\\overset { \\cdot } { c } = 3 . 2$ ,DMSO).HR-ESI-MS m/z: 329.1418 $\\mathrm { [ M + H ] } ^ { + }$ ${ } ^ { 1 } \\mathrm { H } \\cdot$ -NMR( ${ 5 0 0 } \\mathrm { M H z }$ ,DMSO- $d _ { 6 }$ )δ:5.75 (1H, s,H-2),4.62 (1H, s,H-2'),4.43 (1H, s,H-3), 4.37 (1H, s,H-6), 4.19 (1H, d, $J { = } 7 . 9 \\operatorname { H z }$ ,H-1'),3.74(1H,m,H-3'),3.13(2H,m,H-5),1.80 (1H, m, H-4)。 $^ { 1 3 } \\mathrm { C }$ NMR ( $1 2 5 \\mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ） $\\delta$ : 63.85 (C-1), 79.5 (C-2), 72.5 (C-3), 72.8 (C-4), 67.9 (C-5), 68.1 (C-6),101.5 (C-1'), 74.3 (C-2'), 77.6 (C-3'), 71.5 (C-4), 78.1 (C-5'), 63.1 (C-6')。以 上数据与文献(Kaneda,1990)报道一致，故鉴定化合物4为2-O- $\\cdot \\beta$ -D-glucopyranosyl-D-arabinitol。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物5 $\\mathrm { : C _ { 1 8 } H _ { 3 2 } O _ { 5 } }$ ，白色固体， $[ \\mathrm { { a } ] _ { \\mathrm { { D } } } ^ { 2 5 } }$ - $1 0 . 9 0 ^ { \\circ }$ （ $\\overset { \\cdot } { c } = 1 . 0 1 \\overset { \\cdot } { \\underset { \\cdot } { \\mathrm { \\Omega } } }$ , MeOD).HR-ESI-MS m/z: 315.2151 $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ， $\\mathrm { ^ { 1 } H }$ -NMR (500 MHz, MeOD) δ: 5.68 (2H, m,H-10,11), 5.42 (2H, m,H-15,16),4.02 (1H, m,H-9),3.90 (1H, m, H-12),3.44 (1H, m, H-13),2.25 (2H, m, H-14),2.04 (2H, m, H-2),1.59 (1H, m,H-3),1.36 (1H, m, H-8),1.59 (1H, m,H-7),1.30 (6H,brm,H-4,5.6),0.90 (3H, t, $J = 7 . 5$ Hz,H-18)。 $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz,MeOD) δ: 177.8 (C-1), 35.0 (C-2),26.1 (C-3),30.6 (C-4), 30.4 (C-5),30.2 (C-6),26.5 (C-7),38.3 (C-8), 73.0 (C-9),136.5 (C-10),131.1 (C-11), 75.8 (C-12), 76.5 (C-13),31.5 (C-14),126.4 (C-15),134.4 (C-16),21.7 (C-17),14.57 (C-18)。以上数据与文献 (Ying et al.， 2007)报道一致，故鉴定化合物5为 (9S,12S,13S)-trihydroxyoctadeca-( $_ { 1 0 E , 1 5 Z ) }$ -dienoic acid。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物6: $\\mathrm { C _ { 2 0 } H _ { 2 4 } N O _ { 4 } }$ ，黑色油状。HR-ESI-MS m/z:343.1758 $\\mathrm { [ M + H ] } ^ { + }$ ， $\\mathrm { ^ 1 H }$ -NMR ${ ( 5 0 0 ~ \\mathrm { { M H z } } }$ MeOD) $\\delta \\colon 6 . 7 8$ (1H, d, $J { = } 7 . 9 \\operatorname { H z }$ ,H-9), 6.66 (1H, d, $J { = } 7 . 9 \\mathrm { H z }$ ,H-8),6.37 (1H,s,H-3),4.09 (1H, d, $J = 1 3 . 8 ~ \\mathrm { H z }$ ,H-15), 3.60 (3H,s, $1 0 \\mathrm { - O C H } _ { 3 } ^ { \\cdot }$ ),3.53(1H,brd, $J = 1 2 . 4 ~ \\mathrm { H z }$ ,H-1), 3.71 (3H, s, $2 \\mathrm { - O C H } _ { 3 } ,$ ),3.35 (3H,s, $\\mathrm { \\bf N - C H } _ { 3 } .$ ),2.90 (3H, s, $\\mathrm { \\bf N - C H } _ { 3 } .$ ),2.72 (1H,m,H-4),2.60 (2H,brt, $J = 1 2 . 9 \\mathrm { H z }$ H-7)。 $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz, MeOD) $\\delta$ : 148.0 (C-1), 152.4 (C-2), 122.5 (C-3a), 110.1 (C-3), 24.7 (C-4), 62.4 (C-5),126.3 (C-7a), 31.7 (C-7), 118.4 (C-8), 11.2 (C-9), 151.2 (C-10),147.6 (C-11), 122.8 (C-12), 118.0 (C-13),121.3 (C-14), 71.0 (C-15), 56.5 ( $\\begin{array} { r } { \\mathbf { \\nabla - O C H } _ { 3 } . } \\end{array}$ ,54.0 $\\mathrm { ( N \\mathrm { - } C H _ { 3 } ) }$ ,56.3 ( $\\begin{array} { r } { \\mathbf { \\nabla - O C H } _ { 3 } , } \\end{array}$ ）， 43.6 $( \\mathrm { N - C H } _ { 3 } )$ 。以上数据与文献（李海滨，2006；王建忠等，2013）报道一致，故鉴定化合 物6为 magnoflorine。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物7: $\\mathrm { C } _ { 2 0 } \\mathrm { H } _ { 3 2 } \\mathrm { O } _ { 7 }$ ，橙黄色油状， $[ \\mathbf { a } ] _ { \\mathrm { D } } ^ { 2 2 }$ $+ 6 0 . 4 ^ { \\circ }$ 0 $( c = 0 . 9 6$ ,MeOD)。HR-ESI-MS m/z: 385.2206 [M-H]， ${ } ^ { 1 } \\mathrm { H } \\cdot$ -NMR (500 MHz, MeOD) $\\delta$ : 5.94 (1H, d, $J = 1 5 . 6 \\ \\mathrm { H z }$ ,H-7), 5.84 (1H, s, H-4), 5.70 (1H, dd, $J = 1 5 . 6$ $7 . 3 ~ \\mathrm { H z }$ ,H-8), 4.5 (1H, m,H-9), 4.24 (1H, d, $J = 7 . 8$ Hz,H-1'-Glc), 3.82 (1H, dd, $J = 1 1 . 9$ ,2.3 Hz,H-6a'),3.60 (1H, dd, $J = 1 1 . 9$ ,6.1Hz,H-6b'),3.18 (4H, m,H-2', 3', 4', 5'), 2.58 (1H, d, $J = 1 6 . 8 ~ \\mathrm { H z }$ ,H-2a), 2.15 (1H, d, $J = 1 6 . 8 ~ \\mathrm { H z }$ ,H-2b),1.89 (3H, s,H-11), 1.26 (3H, d, $J = 6 . 4 ~ \\mathrm { H z }$ ,H-10),1.01 (3H, s,H-12),0.99 (3H, s,H-13)。 $^ { 1 3 } \\mathrm { C }$ NMR(125 MHz, MeOD) $\\delta$ : 42.4 (C-1), 50.8 (C-2),201.3 (C-3), 127.1 (C-4),167.2 (C-5), 80.0 (C-6), 133.8 (C-7), 133.7 (C-8), 74.7 (C-9), 22.2 (C-10), 19.6 (C-11), 23.5 (C-12),24.7 (C-13),101.3 (C-1), 75.0 (C-2'),78.2 (C-3'), 71.7 (C-4'), 78.4 (C-5'), 62.8 (C-6')。以上数据与文献（Yoshikawa et al., 1997）报道一致，故鉴定化合物7为corchoionosideC。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物8: $\\mathrm { C _ { 3 0 } H _ { 4 8 } O _ { 5 } }$ ，灰色无定形粉末， $[ \\mathrm { a } ] _ { \\mathrm { D } } ^ { 1 8 }$ 1 $- 2 1 . 7 ^ { \\circ }$ 0 $\\stackrel { \\cdot } { c } = 0 . 1 2$ ,MeOD)。HR-ESI-MS m/z: 487.3354 [M-H]。 ${ } ^ { 1 } \\mathrm { H } \\cdot$ -NMR( ${ 5 0 0 } \\mathrm { M H z }$ ,MeOD) $\\delta$ ： 5.28 (1H, t, $J = 4 . 0 \\ : \\mathrm { H z }$ ,H-12), 3.84 (1H, m, H-2),2.50 (1H, s,H-18),1.34 (3H, s,H-27),1.29 (3H, d, $J = 5 . 2 \\ : \\mathrm { H z }$ ,H-30),1.19 (3H, s,H-29), 1.00 (3H, s, H-23)。 $^ { 1 3 } \\mathrm { C }$ NMR (125MHz, MeOD) $\\delta$ : 48.5 (C-1), 69.5 (C-2), 84.5 (C-3), 39.5 (C-4), 56.7 (C-5), 19.3 (C-6), 33.6 (C-7), 40.5 (C-8), 48.4 (C-9), 39.0 (C-10),24.6 (C-11), 129.4 (C-12),140.0 (C-13),42.6 (C-14),29.6 (C-15),26.6 (C-16), 49.3 (C-17), 55.0 (C-18), 73.6 (C-19), 43.0 (C-20),27.3 (C-21), 39.5 (C-22), 29.6 (C-23), 17.5 (C-24),17.1 (C-25),17.5 (C-26), 24.9 (C-27),181.0(C-28),27.1(C-29),16.6(C-30)。以上数据与文献（许琼明等，2009)报道一致， 故鉴定化合物8为委陵菜酸。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物9: $\\mathrm { C } _ { 2 0 } \\mathrm { H } _ { 2 3 } \\mathrm { N O } _ { 4 }$ ，黑色油状。HR-ESI-MS m/z:342.1685 $\\mathrm { [ M + H ] } ^ { + }$ ， $\\mathrm { ^ 1 H }$ -NMR ${ \\bf \\zeta } 5 0 0 { \\bf M H z }$ ， MeOD) $\\delta$ : 7.15 (1H, d, $J = 8 . 2 \\ : \\mathrm { H z }$ ,H-9), 7.02 (1H, d, $J = 8 . 2 \\ : \\mathrm { H z }$ ,H-8), 6.81 (1H, s,H-3), 2.58 (3H, s,H-17), 3.68 (3H, s, $2 \\mathrm { - O C H } _ { 3 } .$ ), 3.91 (3H, s, $1 0 \\mathrm { - O C H } _ { 3 } ^ { \\cdot }$ ),3.86 (3H, s, $\\mathrm { 1 1 - O C H _ { 3 } } .$ 。 $^ { 1 3 } \\mathrm { C }$ NMR (125MHz,MeOD) $\\delta$ : 143.2 (C-1), 150.5 (C-2), 113.5 (C-3),29.28 (C-4), 62.3 (C-5), 64.3 (C-6), 35.9 (C-7),125.6 (C-8),112.8 (C-9),153.5 (C-10),145.5 (C-11),127.0 (C-12),119.3 (C-13), 120.6 (C-14), 131.2 (C-15), 128.8 (C-16), 43.9(C-17), 53.8 ( $2 \\mathrm { - O C H } _ { 3 } ,$ ,56.3( $\\mathrm { 1 1 - O C H } _ { 3 } .$ ,56.6 $\\mathrm { \\underline { { 1 0 \\mathrm { - } O C H _ { 3 } } } }$ ） 以上数据与文献（邓业成和徐汉虹，2004）报道一致，故鉴定化合物9为紫堇定碱。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物 $\\mathbf { 1 0 } { : } \\mathrm { C } _ { 2 0 } \\mathrm { H } _ { 1 9 } \\mathrm { N O } _ { 4 }$ ,黄色针晶。HR-ESI-MS m/z:338.1372 $\\mathrm { [ M + H ] } ^ { + }$ ， $\\mathrm { ^ 1 H }$ -NMR ( ${ 5 0 0 } \\mathrm { M H z }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MeOD)δ:7.99(1H,d, $J = 8 . 6 \\ : \\mathrm { H z }$ ,H-11),7.06(1H, d, $J = 8 . 6 \\mathrm { H z }$ ,H-10),6.71(1H,s,H-3),6.25 (1H, d, $J = 1 . 5 \\ : \\mathrm { H z }$ $\\mathrm { O C H } _ { 2 } \\mathrm { O }$ , 6.1 (1H,d, $J = 1 . 5 \\ : \\mathrm { H z }$ $\\mathrm { O C H } _ { 2 } \\mathrm { O }$ ),4.09 (3H, s, $\\mathrm { \\bf 8 - O C H } _ { 3 }$ ),4.00 (3H, s, $9 \\mathrm { - O C H } _ { 3 } ^ { \\cdot }$ ),2.77 (3H, s, $\\mathrm { \\Delta N C H _ { 3 } }$ ） $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz,MeOD)δ: 142.2 (C-1), 123.2 (C-1a),146.7 (C-2),107.0 (C-3), 126.7 (C-3a), 29.35 (C-4), 53.8 (C-5), 44.2 (C-6), 62.0 (C-6a), 27.0 (C-7), 116.7 (C-7a), 152.2 (C-8), 146.0 (C-9), 110.4 (C-10), 124.8 (C-11),130 (C-11a),100.7 ( $\\mathrm { \\langle O C H _ { 2 } O \\rangle }$ ， 55.9 $\\mathrm { \\underline { { { 8 \\mathrm { - } } O C H _ { 3 } } } }$ ,60.8 $9 \\mathrm { - O C H } _ { 3 } ^ { \\cdot }$ )。以上数据与文献（彭树林等，1992）报道一致，故鉴定化合 物10为克班宁。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3体外抗菌活性的研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1培养基的配置 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "固体培养基的配置：称取LB营养琼脂 $8 \\mathrm { g }$ 使其完全溶解于 $2 0 0 ~ \\mathrm { m L }$ 蒸馏水中，使用 $1 2 1 ^ { \\circ } \\mathrm { C }$ 高温灭菌20分钟，备用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "液体培养基的配置：称取LB 肉汤 $\\boldsymbol { 5 } \\mathrm { \\textrm { g } }$ 于 $2 0 0 ~ \\mathrm { m L }$ 蒸馏水中使其完全溶解，使用 $1 2 1 ^ { \\circ } \\mathrm { C }$ 高温灭菌20分钟，备用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2体外抗菌实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用滤纸片法测定其抑菌圈的大小。使用DMSO 作为溶剂，准确称取各个化合物使其配置成 $6 \\mathrm { { m g } { \\cdot } \\mathrm { { m L } ^ { - 1 } } }$ 的样品溶液来测定各个化合物对各种菌的抑制效果。具体的实验步骤如下（胡野，2004)。（1）将实验所用到的滤纸片、镊子、培养皿、三角刮刀、移液枪头等用品用干净的报纸包好后放入高温灭菌锅中，在 $1 2 1 ~ ^ { \\circ } \\mathrm { C }$ 下高温杀菌 $2 0 \\ \\mathrm { m i n }$ ，备用。（2）菌种接种：将指示菌种采用划线法接种于制备好的琼脂斜面培养基上，然后在 $3 6 \\pm 1 ~ ^ { \\circ } \\mathrm { C }$ 的培养箱里培养 $2 4 \\mathrm { ~ h ~ }$ 后放入冰箱内保存，备用。（3）菌悬液的配置：在相应的琼脂斜面培养基上用接种环把培养好的菌种内取一环菌种到对应的液体培养基中，在 $3 7 \\pm 1 ~ ^ { \\circ } \\mathrm { C }$ 下进行恒温震荡 $2 4 \\mathrm { h }$ 。再将培养好的菌悬液取 $1 0 0 ~ \\mu \\mathrm { L }$ ，用无菌水稀释300倍，使菌悬液稀释到 $1 0 ^ { 6 } { \\sim } 1 0 ^ { 8 } \\mathrm { C F U { \\cdot } m L ^ { - 1 } }$ 并置于 $4 ~ ^ { \\circ } \\mathrm { C }$ 中冷藏，备用。（4）样品溶液的配置：将准备好的 $0 . 6 ~ \\mathrm { c m }$ 大小的滤纸片经过高温灭菌后，浸泡在配好浓度的样品溶液中以及空白对照溶液中1h左右。(5)抑菌圈的测定：在无菌操作台中用移液枪吸取 $2 0 0 ~ \\mu \\mathrm { L }$ 菌悬液于平板固体培养基上，先使用三角刮刀在培养基上均匀涂抹，然后放入直径为 $0 . 6 ~ \\mathrm { c m }$ 完全浸满样品的滤纸片，在 $3 6 \\pm 1 ~ ^ { \\circ } \\mathrm { C }$ 下培养 $2 4 \\mathrm { ~ h ~ }$ ，最后测定其抑菌圈直径。实验平行3次，并用DMSO作为阴性对照，氨苄青霉素（AMP，$1 0 0 \\mathrm { m g \\cdot m L ^ { - 1 } }$ ：称取 $1 0 0 \\mathrm { m g }$ 氨苄青霉素溶解于 $\\mathrm { 1 m L 1 m o l { \\cdot } L ^ { - 1 } H C l }$ 中）作为阳性对照。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分别用大肠杆菌、金色葡萄球菌、枯草芽孢杆菌、尖孢镰刀菌作为供试菌，从广西地不容非药用部位中分离得到的化合物经滤纸片法测定其抑菌圈的直径。测定结果如表1所示。结果显示，与阳性对照AMP比较，化合物1、2、5对于大肠杆菌的抑制作用显著降低( $_ { ( P < 0 . 0 5 ) }$ ，化合物2对金色葡萄球菌的抑制率极显著低于阳性对照AMP的抑制率（ $P { < } 0 . 0 1 \\ \\cdot$ ，化合物3和8对枯草芽孢杆菌有弱的抑制作用，但无显著性差异（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1广西地不容非药用部位化学成分的抑菌活性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb29eccebe49a097811d575c40573f07cc05cc9cd8e8e17f1f83cd11a5f110e6.jpg",
+        "table_caption": [
+            "Table 1 Antimicrobial activity of chemical constituents from non-medicinal parts of Stephania ",
+            "kwangsiensis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">kwungsiensts</td></tr><tr><td rowspan=\"4\">样品 Sample</td><td colspan=\"4\">抑菌圈直径Φ (cm)</td></tr><tr><td>大肠杆菌</td><td>金色葡萄球菌</td><td>枯草芽孢杆菌</td><td>尖孢镰刀菌</td></tr><tr><td>Escherichia</td><td>Staphylococcus</td><td>Bacillus subtilis</td><td>Fusarium oxysporum</td></tr><tr><td>coli</td><td>aureus</td><td></td><td></td></tr><tr><td>1</td><td>0.7*</td><td>0.6</td><td>0.6</td><td>0.6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f03371bfdb750800dd51fff15202fd0822bf1f935d1edd5e6a1a01243da9ec8e.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：与阳性对照组比较， $^ { * } P { < } 0 . 0 5$ ， $^ { * * } P { < } 0 . 0 1$ ： Note: Compared with positive control group, $^ { * } P { < } 0 . 0 5$ ， $^ { * * } P { < } 0 . 0 1$ 。 "
+        ],
+        "table_body": "<html><body><table><tr><td>2 0.7* 0.8** 0.6</td></tr><tr><td>0.6 0.6 0.6 0.7 0.6</td></tr><tr><td>3</td></tr><tr><td>5 0.7* 0.6 0.6 0.6</td></tr><tr><td>8 0.6 0.6 0.7 0.6 DMSO</td></tr><tr><td>0.6 0.6 0.6 0.6 AMP 1.7 2.2 1.4 1.6</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论与结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "该研究从广西地不容非药用部位醇提物中分离鉴定出4个阿朴啡生物碱。其中异紫堇定碱（3）是“解痊宁”的主要成分，具有很好的止泻功效（沈雅琴，1998)，在临床上主要用于治疗胃肠、胆、血管等痊挛所致的疼痛；Magnoflorine（6）具有使心血管系统处于高动力状态的效用，有利于运动员较长时间维持高强度运动能力，有抗疲劳功效（吕莹等，2001)；克班宁（10）具有抗心律失常的作用（淤泽溥等，1992)，可诱导人类癌细胞的G1阻滞和凋亡作用（Wongsirisirt etal.,2012)，以及通过抑制 MAPKs 和Akt信号通路表现出抗炎活性（Intayoungetal.,2016)。邓业成等（2006）研究发现广西地不容药用部位（块根）的提取物具有广谱抗菌作用，而我们从广西地不容非药用部位中所分离得到的化合物在浓度为6$\\mathrm { { m g } { \\cdot } \\mathrm { { m L } ^ { - 1 } } }$ 时对实验所选用的菌种均显示较弱的抑制作用，因此对于非药用部位是否存在较强的抗菌成分有待进一步研究。广西地不容植物富含生物碱，使用普通柱层析分离会因不可逆吸附产生导致样品损失量大，使用了氨蒸汽碱化硅胶柱材料，极大地改善不可逆吸附的产生，提高了分离效率（刘吉华等，2013)，该方法为广西地不容植物其他部位以及其他生物碱的分离提供了方法指导。同时广西地不容的非药用部位（茎、叶）作为中药“金不换”的一个副产物，其蕴含多种生物碱成分，如异紫堇定碱、magnoflorine、克班宁已在临床中被广泛使用，因此该部分资源开发潜力巨大，随着更多化学成分被发现及其药理研究的深入，该部位有作为新药源的可能。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chinese Botanical Society Editorial Board of Chinese Academy of Sciences，1996.FloraReipublicae Popularis Sinicae(Volume 30,Division 1)[M]. Beijing: Science Press: 67-69.[中国科学院中国植物志委员会，1996.中国植物志(第三十卷第一分册)[M].北京：科学出版社：67-69.]  \nDENG YC, LI JR, GAO CW, et al., 2O06. Inhibitory activity of the extract from the root tubers ofStephania kwangsiensis and its compounds against pathogenic fungi and bacteria[J]. Plant Prot,32(4):43-46.[邓业成，李洁荣，高成伟，等，2006.广西地不容提取物及其化合物的抑菌活性[J]．植物保护，32(4)：43-46.]  \nDENG YC, XU HH, 2Oo5. Studies on Insecticidal activities and active ingredients of Stephaniakwangsiensis Lo.[J].SciAgric Sin,38(3): 523-527.[邓业成，徐汉虹，2005．广西地不容的杀虫活性及有效成分研究[J]．中国农业科学,38(3)：523-527.]  \nDENG YC, XU HH,2004. Alkaloids from the tubers of Stephania kwangsiensis[J]. J GuangxiNorm Univ(Nat Sci Ed),22(4):73-77.[邓业成，徐汉虹，2004．广西地不容块根生物碱成分研究[J]．广西师范大学学报(自然科学版),22(4)：73-77.]  \nHAO J,WANG YF, ZHANG MY, et al., 2008. Experimental study on the activity of crudeextracts from Stephania against coxsackievirus ${ \\bf B } _ { 3 }$ virus in vitro[J]. Jiangsu J Tradit Chin Med,40(9):83-84.[郝静，王一飞，张美英，等，2008．地不容粗提物体外抗柯萨奇 $\\mathbf { B } _ { 3 }$ 病毒活性作用的实验研究[J]．江苏中医药，40(9)：83-84.]  \nJIN GZ,1987(6). Pharmacologic progress of l-tetrahydropalmatine and it second generation newdrugs- l-Stepholidine[J].Acta Pharm Sin,22(6): 472-480.[金国章，1987．左旋四氢巴马汀和它的第二代新药——左旋千金藤丁碱的药理研究进展[J]．药学学报,22(6)：472-480.]  \nHU Y, 2004. Fundamentals of microbiology and immunology[M]. Zhengzhou: ZhengzhouUniversity Press:190-196.[胡野，2004．微生物学与免疫学基础[M]．郑州：郑州大学出版社：190-196.]  \nINTAYOUNG P, LIMTRAKUL P, YODKEEREE S, 2015.Anti-inflammatory activities ofcrebanine by inhibition of NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ and AP-1 activation through suppressing MAPKs and Aktsignaling in LPS-Induced RAW264.7 macrophages[J]. Biol Pharm Bull, 39(1): 54-61.  \nKANEDA M, 1990. Lilioside a from lilium longiflorum: synthesis and absolute configuration[J].Phytochemistry, 29(11): 3559-3564.  \nLUO YL, LIAO ZZ, LIAO LQ, et al.， 2017. Analgesic and anti-inflammatory effects of totalalkaloid in Stephania kwangsiensis in vivo[J]. Drug Eval Res, 40(10): 1424-1427.[罗昱澜，廖曾珍，廖露琴，等,2017．广西地不容总生物碱体内抗炎镇痛作用研究[J]．药物评价研究，40(10): 1424-1427.]  \nLIU JH, YU BY, WANG Y,2013. A process for separating alkaloids from Cordyamine by alkalisilica gel,CN103214477A[P].[刘吉华，余伯阳，王严，2013．一种利用碱化硅胶分离紫堇达明生物碱的工艺，CN103214477A[P].  \nLE C,LE TL, NHI N, et al., 2O19. Megastigmanes and flavones from Polyalthia thoreliicollectedin Nam Dong,Thua Thien Hue[J]. Vietnam J Chem,57 (2): 250-254.  \nLIU ZM, HR JP, ZHONG XL, 2O08. Betulinic acid and their active abstracted from Camptothecaacuminata by environmental method[J]. Environ Sci Technol,31(1): 139-141.[刘展眉，何洁萍,钟雪莲，2008．用清洁方法从喜树果中提取白桦脂酸等有效成分[J].环境科学与技术，31(1): 139-141.]  \nLI HB,2OO6. Studies on the chemical constituents of Sinomenium actum (thumb) rehd.et wils[J]. JGuiyang Med Coll,31(4):344-345.[李海滨，2006．青藤生物碱成分的研究[J]．贵阳医学院学报，31(4)：344-345.]  \nLU Y, NIU YP, QU TM, 2001. Mechanism on magnoflorine against sport fatigue[J]. J ZhengzhouUniv (Nat SciEd),33(4):77-81.[吕莹，牛英鹏，曲天敏，2001．木兰花碱消除运动性疲劳的机理[J]．郑州大学学报(自然科学版)，33(4)：77-81.]  \nLUO YL,LI J, MAO LJ, et al., 2015. Advances in studies on chemical constituents, pharmacologyand quality control of alkaloids in Stephania kwangsiensis[J]. J Youjiang Med Univ Natl, 37(2):304-306.[罗昱澜，李江，毛柳珺，等，2015．广西地不容生物碱化学成分、药理及质量控制研究进展[J]．右江民族医学院学报，37(2)：304-306.]  \nPENG SL, CHEN L, ZHANG GL, et al.,1992. Studies on medicinal isoquinoline alkaloids 一II.alkaloids of Stephania brachyandra[J].Nat Prod Res Dev,4(1): 14-18.[彭树林,陈蕾,张国林，等，1992.药用异喹啉生物碱的研究—II.白线薯生物碱[J].天然产物研究与开发，4(1):14-18.]  \nPAN QM,LI YH, HUA J, et al., 2015. Antiviral matrine-type alkaloids from the rhizomes ofSophora tonkinensis[J]. J Nat Prod, 78(7): 1683-1688.  \nSHEN YQ,1998. Anti diarrhea and anti-inflammatory effects of isocorydine[J]. NW Pharm J,13(2):67-68.[沈雅琴，1998．异紫堇定的抗腹泻和抗炎作用[J]．西北药学杂志，13(2)：67-68.]  \nWANG XK, ZHAO TF, 1990. Distributions and biological activities of alkaloids from genusStephania[J].ChinPharmJ,25(1):3-6.[王宪楷，赵同芳，1990.千金藤属植物中生物碱成分的分布及其生物活性[J]．中国药学杂志，25(1)：3-6.]  \nWANG JZ,LIAO J,LEI Y, et al.,2013. Study on the alkaloid constituents of Cyclea racemose[J].West Chin JPharm Sci,28(1):6-9.[王建忠，廖静，雷宇，等，2013．轮环藤中生物碱成分的研究[J]．华西药学杂志，28(1)：6-9.]  \nWONGSIRISIN P, YODKEEREE S, POMPIMON W, et al., 2012. Induction of G1 arrest andapoptosis in human cancer cells by crebanine,an alkaloid from Stephania venosa[J]. ChemPharm Bull, 60(10): 1283-9.  \nXU QM, CHEN GQ,FAN JY, et al., 2009. Chemical constituents of roots of Boehmeria nivea[J].Chin JChin Mat Med,34(20):2610-2612.[许琼明，陈国庆，范金胤，等，2009.苎麻根化学成分研究[J]．中国中药杂志，34(20)：2610-2612.]  \nYING KQ, YAN YZ, DOU DQ, et al., 2007. Two new α-pyrones and other components from thecladodes of Opuntia dillenii[J]. Arch Pharm Res,30(6): 665-669.  \nYOSHIKAWA M, SHIMDA H, SAKA M, et al., 1997. Medicinal foodstuffs. v. moroheiya.(1):Absolute stereostructures of corchoionosides A, B,and C, histamine release inhibitors from theleaves of Vietnamese Corchorus olitorius L.(Tiliaceae)[J]. Chem Pharm Bull, 45(3): 464-469.  \nYU ZP,MA YS, ZHAO ZX, et al.,1992. Antiarrhythmic effect of crebanine[J]. Chin J Chin MatMed,17(11):685-687.[淤泽溥，马云淑，赵子仙，等，1992．克班宁的抗心律失常作用[J].中国中药杂志，17(11):685-687.]  \nZHANG XX, LI G, DENG Q, et al., 2021. Vomifoliol isolated from mangrove plant Ceriops tagalinhibits the NFAT signaling pathway with CN as the target enzyme in vitro[J]. Bioorg MedChem Lett, 48(5): 128235.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,219 @@
+# 不同注意形式调节听感觉门控的神经机制
+
+雷铭李朋波
+
+（北京第二外国语学院旅游科学学院，北京100024）
+
+摘 要前脉冲抑制（PPI）是听感觉门控的测量模型，反映了听觉系统的早期信息选择功能。尽管 PPI的主要神经环路位于脑干，研究发现PPI可以被注意自上而下调节。然而，已有研究并未区分不同注意（特征注意和空间注意）对 PPI 的特异性调节，并且神经机制方面的研究集中于听皮层区域，仍缺乏对皮层下机制的探讨。在以往研究的成果基础之上，借助听觉信息加工的双通路模型，采用行为测量、脑电和脑成像技术，揭示特征和空间两种注意调节PPI 的神经活动在听觉系统中的层次性神经表达。包括1）建立特征注意和空间注意调节PPI的统一行为模型，考察两种注意调节PPI的时间动态性异同；2）两种注意调节PPI的脑干分离机制，即前脉冲刺激包络和精细结构成分加工在注意调节 PPI中的作用差异；3）两种注意调节PPI的关键脑区和脑网络差异。
+
+关键词注意；听感觉门控；前脉冲抑制；双通路模型
+
+# 1问题提出
+
+听觉信息加工是人类大脑最基本最重要的认知机能之一。然而，面对海量的听觉输入信息，听觉系统的信息处理能力有限。这就意味着听觉系统必须对信息进行选择，将有限的神经资源集中于重要的听觉信息进行优先加工。大脑实现这种选择重要听觉信息的功能离不开两种机制，一种是位于前脑的听觉注意（attention）机制，另一种是位于脑干的听感觉门控（auditory sensorygating）机制。听感觉门控反映了大脑对听感觉刺激的早期加工能力，能特异性的抑制无关感觉刺激的输入，从而保证大脑高级认知过程（如记忆、思维、决策等）不受感觉刺激超载影响(Csomor et al.,2014; Jones et al.,2016)。目前研究者普遍认为，听感觉门控机制反映了大脑的早期信息选择能力，是一种自动化的加工机制，涉及到的神经环路主要位于脑干(Davis &Gendelman,1977;Liet al.,2009)；听觉注意机制对信息的选择反映了高级认知过程，涉及到的脑区主要在皮层区域（Chen et al.,2014;Fritz et al.,2007)。注意一直是心理学和认知神经科学的研究热点，可以将注意分为基于特征的注意、基于空间的注意和基于客体的注意。不过，注意和感觉门控并不是独立的两个加工过程，人类和动物研究都发现注意对听感觉门控存在自上而下的调节 (Du et al.,2009,2010,2011b; Hazlet et al.,2003,2007; Lei et al.,2014; Li et al.,2009)。
+
+惊反射的前脉冲抑制（prepulse inhibition,PPI）是学术界所公认的一种人和动物共有的听感觉门控测量模型，指引发惊反射的强刺激之前（ $3 0 { \sim } 5 0 0 ~ \mathrm { m s }$ ）出现了一个弱感觉刺激（即前脉冲刺激）对随后出现的惊反射的抑制。尽管PPI的主要神经环路位于脑干（综述见Davis，2006)，反映了早期信息的选择性加工机制，前人的研究发现PPI会受到高级认知过程（如注意）自上而下（top-down）的调节（Liet al.,2009；杜忆，李量，2011)，这种注意调节 PPI在实验大鼠（Duet al.,2009,2010,2011; Lei et al.,2014)和人类被试中(Lei et al.,2018; Yang et al.,2017)都得到证实。然而，已有研究仅仅涉及了某一种注意对PPI调节的行为表现，并未区分不同注意形式（如空间注意和特征注意）对 PPI自上而下的特异性调节，并且前人对注意调节PPI神经机制的研究集中于听觉皮层区域，迄今尚未有研究对人类注意调节PPI的皮层下神经机制进行探讨。那么，能否在同一行为范式中考察两种注意对 PPI的调节呢？这种 PPI注意调节在听觉皮层、听觉脑干、听觉高级认知网络中有怎样的神经表现呢？
+
+以往的动物和人类研究已证实视觉信息在大脑皮层内沿两条分离的通路进行加工，一条是枕颞通路或腹侧通路，负责视觉物体识别，称为“what”通路；另一条是枕顶通路或背侧通路，主要加工物体之间的空间联系以及引导朝向物体的运动，称为“where”通路（de Haan＆Cowey,2011；Goodale& Milner，1992)。最近的研究表明人类的听觉信息加工也包括两条分离的通路，“what”通路负责听觉模式识别，“where”通路负责加工听觉物体的空间信息，这就是听觉信息加工的双通路模型（dual-pathway model）（Arnott, Binns,Grady,& Alain,2004；Romanski et al.,1999; Wang et al.,2008;Zundorf,Lewald,& Karnath,2016)。同时，听觉信息加工的双通路模型不仅指大脑皮层分别加工听觉空间和内容的信息，这种“what”和“where”的双通路信息加工在皮层下就已经存在（Smith et al.,2002;Luo et al.,2017)。本研究构想在前人研究的基础上，拟通过一系列行为学、脑电、脑成像研究证实特征注意和空间注意对 PPI 的调节同样符合听觉信息加工的双通路模型，即特征和空间注意对 PPI的调节在听觉脑干、听觉皮层、听觉高级认知网络中的神经表达同样包括两条分离的“what”通路和“where”通路。
+
+# 2研究现状及发展动态分析
+
+# 2.1惊反射和前脉冲抑制(PPI)
+
+惊反射是人和动物共有的一种对强刺激的全身性反射活动 (Landis&Hunt,1939)，具有潜伏期短、刺激累加作用强、动态反应范围宽等特点。例如，对头部的突然撞击激活了人体的听觉、前庭觉和三叉神经觉系统，引发一个强的全身性惊反射活动，这种惊反射的防御机制是在进化过程中应对头部撞击形成的保护机制（Yeomans etal.,2002)。惊反射的神经环路比较简单，外界刺激通过耳蜗核、三叉神经核、以及前庭神经核纤维投射到尾侧桥脑网状核（caudal pontinereticular nucleus,PnC)，该结构中的巨型细胞发出投射纤维到脑神经运动核和脊髓中的运动或者前运动神经元（综述见Yeomans et al.,2002）。惊反射可以被情绪和学习所调节，威胁性刺激（对人类来说可以是恐惧性电影片段，对动物来说可以是与足底电击匹配的刺激)可以增强惊反射，而中性电影片段和悲伤的电影片段则不影响惊反射 (Roskam＆Koch,2006)。另外的研究表明，奖赏刺激或者威胁降低的刺激（对人类来说可以是美好图片，对大鼠来说可以是与奖赏相关的刺激）可以减弱惊反射(Filionet al.,1998)。目前，惊反射可以用来研究恐惧、焦虑、敏感性、内稳态等多种情绪状态，在临床精神病学中有广泛的应用(Raji&Mulsant,2008)。
+
+惊反射是应对威胁性刺激的迅速的自我保护行为，对人和动物适应环境有重要的意义。但是，惊反射的出现也会干扰人和动物正在进行的认知和行为活动。为适应复杂的生存环境，中枢神经系统也进化出了一种人和动物所共有的能抑制惊反射的门控机制（图1所示)：当在引发惊反射的强刺激之前（ $3 0 { \sim } 5 0 0 ~ \mathrm { m s }$ ）出现了一个弱感觉刺激（即前脉冲刺激）时，尽管该弱感觉刺激不能引起惊反射，但对惊反射有抑制作用，这种抑制作用被称为前脉冲抑制（prepulseinhibition, PPI)。
+
+目前研究认为，PPI的神经环路主要位于皮层下的脑干部位。解剖学上的研究证实PPI的神经环路位于皮层下的脑干，包括听觉中脑下丘（inferior colliculus,IC），上丘深/中层（deeper,intermediate layers of superior colliculus）以及桥脑脚被盖核（pedunculopontine tegmental nucleus,PPTg）在内（Swerdlow et al.,2001; Swerdlow et al.,2008)。不过，尽管 PPI的主要神经环路位于脑干水平，PPI环路与感觉皮层、运动系统、边缘系统等都存在广泛的神经联系，使 PPI受到复杂的调节作用。比如，动物研究发现，PPI受到边缘皮质-纹状体-苍白球-丘脑环路（cortico-striato-pallido-thalamic circuitry,CSPT环路）的调节（Swerdlow et al.,2001）。脑成像研究也证实，正常人类被试的 PPI环路涉及包括额叶、纹状体、海马、脑岛、前扣带回、丘脑等多个脑区（Campbell et al.,2007; Hazlett et al.,2001; Kumari et al.,2008)。可见，PPI涉及的复杂神经网络从脑干经由丘脑到高级皮层多个区域，这也为PPI受到高级认知过程自上而下的调节提供了生物学基础。
+
+![](images/d5d83b4cd0e7ad7c1f72dbbb1c93364075e1ec1fbddde17154a3988e82532d56.jpg)
+
+# 2.2注意对PPI自上而下的调节及其神经机制
+
+目前的动物行为学、人类行为测量和部分神经科学证据表明，注意可以自上而下的调节PPI。
+
+# 2.2.1特征选择性注意对PPI的调节
+
+人类研究和动物实验都发现特征选择性注意可以增强PPI(Blumenthal et al.,2015;Dawsonet al.,1993; Dawson et al.,2000; Hazlet et al.,2003; Hazlett et al.,2007; Poje &Filion,2017）。人类研究中通常采用“注意前脉冲刺激（attention-to-prepulse）”范式，给被试呈现两种频率不同的纯音作为前脉冲刺激，标准纯音的长度是5s，探测纯音长度是8s，要求被试默数其中一种频率的探测纯音的个数，同时忽略另外一种频率的纯音（Hazlett,et al.,2003; Hazlett,et al.,2007）。研究发现，注意前脉冲刺激条件下引起的 PPI大于忽略前脉冲刺激条件，证明注意前脉冲刺激特征对 PPI 有增强作用(Hazlett,et al.,2003; Hazlett,et al.,2007; Poje&Filion,2017）。Hazlett 等人进一步考察了特征选择性注意调节 PPI 的神经机制，发现注意前脉冲刺激条件下，丘脑前核与背内侧核 BOLD 信号激活大于忽略条件，说明丘脑参与了PPI特征选择性注意调节的神经环路(Hazlett etal.,2001)。此外，动物研究发现，对一个前脉冲声音（如 $1 3 0 0 \mathrm { H z }$ 复合纯音）进行恐惧条件化可使该声音具有生态学意义并引起大鼠对该声音的注意，进而特异性地增强由该声音引起的 PPI (Du,et al.,2009;Du,et al.,2010)。更进一步的研究发现，情绪注意对 PPI的调节具有刺激特征特异性，对具有某种特征（如 $1 3 0 0 \mathrm { H z }$ 复合纯音而非 $2 3 0 0 \mathrm { H z }$ 复合纯音）的前脉冲刺激的选择性情绪注意可以增强 PPI (Du,etal.,2010，2011）。
+
+然而，上述特征选择性注意调节 PPI的范式并不完美。一般的PPI范式中前脉冲刺激的长度在 $2 0 { \sim } 2 0 0 ~ \mathrm { m s }$ 之间，而Hazlett 等人的实验中前脉冲刺激长度是5s甚至8s。罗欢团队研究发现，人类的注意具有时间震荡的节律性（Song et al.,2014;Wang& Luo,2017)，被试的注意不可能一直长时间保持在需要注意的某频率的声音上，也就是说被忽略的纯音也会有一些注意资源的分配。此外，在该范式的fMRI实验中，前脉冲刺激长度是5 s甚至8s，由于BOLD信号具有滞后性，前脉冲刺激长度过长，BOLD 信号反映的可能是对前脉冲刺激的感觉加工（sensoryprocessing)，而不是感觉门控（sensory gating）信息。那么一个值得研究的问题就是：如果前脉冲刺激采用传统PPI范式中的刺激设置，前脉冲刺激时长设定为 $2 0 { \sim } 2 0 0 ~ \mathrm { m s }$ ，注意某一种前脉冲刺激而忽略某一种前脉冲刺激时，对前脉冲刺激特征的选择性注意是否会增强PPI，其相应的神经机制是什么？
+
+# 2.2.2空间选择性注意对PPI的调节
+
+空间选择性注意也可以增强 PPI (Lei et al.,2014;Lei et al.,2018;Wu et al.,2016b)。在一个嘈杂的听觉环境中，听者不仅听到来自声源的直达声，同时还听到多个时间延后的反射声。如果直达声和反射声之间的时间足够短（1\~10ms 左右，取决于声音的类型)，由于时间延后的反射声像被领先的直达声捕捉(Lietal.,2005)，听者只感到一个来自领先声源处的融合声像，即一个听觉客体(Litovsky et al.,1999)。这种现象被称为听觉优先效应（precedence effect)。优先效应可以出现在人类以及大鼠、猫、猫头鹰等实验动物中(Lei et al.,2014;Lei et al.,2018;Wu et al.,2016a) 。
+
+在实验室模拟条件下，利用优先效应可以使不相关的声音信号在知觉上产生空间分离或者空间重合，进而调节空间选择性注意。举例来讲（图2所示)，当左右两个喇叭都播放A、B两个不同声音时（图2a)，如果对A声音来讲，左喇叭提前 $3 \mathrm { m s }$ ，而对B声音来讲，右喇叭提前3 ms，则两个喇叭发出的A声音就会有主观融合，其声像来自左喇叭。同样，两个喇叭发出的B 声音也会有主观融合，其声像来自右喇叭。这样，A、B两个声像就会出现知觉空间分离（图2 b)。相反，如果A、B两个声音都是左喇叭领先右喇叭 $3 \mathrm { \ m s }$ ，两个声像就会出现知觉空间重合（图2c)。因为两个声音都由这两个喇叭发出，所以并没有客观的分离，进而不影响信噪比。当左右喇叭位置相对于听者对称时，这种知觉分离也不影响声像的知觉密度。基于优先效应的声像之间的知觉空间分离反映了听觉认知系统对听觉客体特征的加工和空间属性的加工之间的整合。这种知觉空间分离可以使听者忽视一个声源的声像，而同时选择性地强化对另一个声源声像的空间选择性注意（Li etal.,2009）。
+
+![](images/e6302ee6d9f5f0c1d1f36573c74322b231094916295beaa2145ee42eecbe04ef.jpg)  
+图2知觉空间分离示意图。A声音（音乐符号）和B声音（宽波符号）之间物理关系（图a），知觉空间分离（图b）和知觉空间重合（图c）
+
+信号刺激和掩蔽刺激之间的知觉空间位置的分离可以促进空间选择性注意集中在目标信号上，从而提高对目标言语的识别成绩 (Freyman et al.,2004,2008;Wu et al.,2016a; Wu et al.,2005;Zheng et al.,2016）。脑成像结果表明，掩蔽条件下的知觉空间分离促进听觉言语识别会激活听觉注意网络中顶上小叶的活动 (Zheng et al.,2016)。脑电研究发现，知觉空间分离可以增强被试对目标刺激的选择性注意，特异性的提高目标刺激的皮层诱发电位N1P2成分 (Lei et al.,2018;Zhang et al.,2014)。动物行为研究表明，知觉空间分离可以增强 PPI (Du et al.,2011b; Lei et al.,2014)。在大鼠的实验中，知觉空间分离可以增强大鼠的空间选择性注意，提高大鼠的 PPI (Du etal.,2009,2010；Lei,et al.,2014)，并且前脉冲抑制与掩蔽噪声之间的知觉空间分离对 PPI的增强依赖于后顶叶内兴奋性谷氨酸的传递(Du et al.,2011)。这一结果在多个实验中得到验证 (Lei etal.,2014;Wuetal.,2016)。我们最新的研究将动物PPI的研究范式应用到人类被试中，发现知觉空间分离也可以增强人类被试的 PPI (Lei et al.,2018; Yang et al.,2017）。
+
+PPI是精神分裂症公认的内表型之一。早在1978年,Braff等人就发现精神分裂症患者的 PPI显著低于正常对照(Braff,et al.,1978)，这一结果在后面的实验中得到多次验证。注意缺陷也是公认的精神分裂症內表型之一。一项跟踪研究显示，后期发展成精神分裂症谱系障碍的高危人群在未出现任何临床症状的初期就可检测出注意的缺损(Smith& Comblatt,2005)。因此，注意也是精神分裂症的内表型之一，并且与 PPI关系密切(Javitt et al.,2015)。注意和PPI都是大脑选择重要信息并且抑制无关信息干扰的机制，并且均可作为精神分裂症早期识别和筛查的内表型，但是目前关于二者关系的研究还不多见。Hazlett 等人的研究发现，在精神分裂症患者中，不仅基线 PPI有缺失，注意对 PPI的调节也有缺失，但只有注意对PPI调节的缺失才与精神分裂症特异性症状的严重程度有显著的相关(Hazlett,etal.,2007)。在早期社会隔离建立的精神分裂症动物模型研究中，早期社会隔离只减弱成年后大鼠的PPI，但却能完全消除对PPI的恐惧条件化性增强和知觉分离性增强(Du,etal.,2009;Du,et al.,2010)。因此，PPI注意调节的缺失与精神分裂症的关系更为密切，加强注意对PPI调节的认知和神经机制研究对于理解精神分裂症的发病机理，探索新的内表型指标有重要意义。
+
+然而，尽管特征选择性注意和空间选择性注意调节PPI的行为研究已经取得很大进展，但是很少有研究将特征注意和空间注意对 PPI的调节综合考察。同时，关于注意调节 PPI的神经机制研究仍在起步阶段，注意调节PPI的皮层机制和皮层下机制仍不清楚。仅有少量的研究涉及了注意调节 PPI的皮层机制。例如，脑影像研究发现丘脑前核与背内侧核 BOLD 信号增强与特征选择性注意调节PPI相关 (Hazlett et al.,2001)。掩蔽条件下的知觉空间分离促进听觉言语识别会激活听觉注意网络中顶上小叶的活动（Zheng etal.,2016)。目前，我们最新脑电研究发现，知觉空间分离可以增强PPI，并且知觉空间分离可以增强对前脉冲刺激的神经表征，表现为前脉冲刺激诱发的皮层脑电成分N1/P2 的增强，并且PPI的知觉空间分离增强与N1成分的知觉空间分离增强正相关（Lei etal.,2018)。可能的原因是N1反映了听皮层的活动，相关脑区位于听觉颞叶脑区，包括赫氏回（Heschl'sgyrus）和颞上沟（STP)，而P2反映了非通道特异性的高级皮层活动，相关脑区主要定位于联合皮层。这也进一步说明知觉空分离增强 PPI是通过增强对前脉冲刺激的早期皮层诱发电位（N1)，从而增强对前脉冲刺激的空间选择性注意，进而增强 PPI(Lei et al, 2018) 。
+
+以上研究提示，特征选择性注意和空间选择性对PPI的调节涉及到了不同的神经环路。但是，目前的研究尚未关注特征选择性注意和空间选择性注意对 PPI的共同（或特异性）调节，两种注意调节PPI的神经机制异同也不清楚。
+
+# 2.2.3注意调节PPI的皮层下机制和频率追随反应（FFRs）
+
+如前说述，在以往的注意调节PPI神经机制研究中，主要关注了注意调节PPI的皮层机制，但是注意对PPI调节的皮层下机制目前还不清楚。目前研究认为，PPI的神经环路主要位于皮层下的脑干部位。解剖学上的研究证实PPI的神经环路位于皮层下的脑干，包括听觉中脑下丘（inferior colliculus,IC），上丘深/中层（deeper、intermediate layers of superior collculus）以及桥脑脚被盖核（pedunculopontine tegmental nucleus,PPTg）在内，然而，皮层下的脑干部位是如何参与特征选择性注意和空间选择性注意对PPI的调节的目前还不清楚。
+
+频率追随反应（frequency following responses,FFRs）是一种源自听觉脑干的神经群体的放电活动，反应了神经元对中低频听觉刺激的精确锁相活动（Chandrasekaran＆ Kraus,2010; Du etal.,2011a;Kraus et al.,2017; Marsh et al.,1970)。人类头皮脑电记录的FFRs 可以反映对 $1 . 5 \mathrm { \ k H z }$ 以内的声音锁相活动 (Glaser etal.,1976)，动物颅内电生理记录的FFRs可以反映 $4 \mathrm { k H z }$ 以内的声音锁相活动 (Ping etal.,2008)。FFRs反应了听觉脑干的神经活动，脑干既是双耳信息传递到大脑中的重要中转通路，又受到诸多下行皮层网络的调节，因此脑干的神经活动反应了感觉信息加工与高级认知之间的交互作用，是研究高层注意调节底层PPI的理想脑区。
+
+在人类被试中，FFRs 能够反应神经元群体对复杂声音刺激关键成分的加工(Coffey et al.,2017)，相对于传统的听觉脑干诱发电位（ABR，一般使用click 或者纯音)，FFRs 可以选择的听觉刺激从简单纯音（Chimento& Schreiner，1990；Galbraith，1994）直到复杂的语音刺激(Aiken & Picton, 2008; Akhoun et al., 2008; Krishnan et al., 2004; Russo et al.,2004; Song et al.,2008）和音乐（Musacchia et al.,2007)。同时，FFRs 研究也发现，目标信号引起的FFRs可以受到注意调节 （Galbraith et al.,2003; Hairston et al.,2013; Lehmann& Schönwiesner,2014)、短期训练（Skoe & Kraus,2012; Song et al.,2008; Song et al.,2012)、长期经验 （Chandrasekaran & Kraus,2010;Musacchia etal.,2007).等的影响。已有研究报告对目标声音的空间选择性注意都可以增强下丘的FFRs (Duet al.,201la;Wilson&Krishnan,2005)，反映了空间注意增强对目标信号表征的皮层下机制。
+
+更重要的是，通过适当的信号处理方式（希尔伯特变换)，可以从FFRs信息中分离出快速变化的声音精细结构(temporal fine structure）的锁相反应以及变化较为缓慢的包络结构（envelope）的锁相反应（Aiken& Picton,2008；Ananthakrishnan et al., 2015;Luo et al., 2017;Wang & Li,2017)。根据听觉信息加工的双通路模型，“what"和"where"的双通路信息加工在皮层下就已经存在（Armot et a.,2004;Wang et al.,2008)。Smith 等人认为，精细结构的加工可能更多的与声音的空间定位有关，而包络的加工可能与声音客体和语义有关，进而它们分别形成了听觉皮层的空间（where）环路与内容（what）环路的声学基础，这就是2002年提出的"精细结构-包络双分离假说"(Smith et al.,2002)，是对听觉信息加工的双通路模型在皮层下表现的具体描述。因此，FFRs 不仅是研究注意调节PPI的中脑机制的重要工具，而且可以反映包络结构和精细结构在特征注意和空间注意调节 PPI 中的不同作用。因此，一个有意思的研究问题是：下丘是否在注意调节 PPI的神经环路中起到重要作用?特征选择性注意和空间选择性注意对 PPI的调节，是否与 FFRs 信息中的包络加工和精细结构加工一一对应?
+
+# 3研究构想
+
+本研究可以采用听觉行为测量、头皮脑电（EEG）、功能性磁共振成像（fMRI）技术，系统研究特征选择性注意和空间选择性注意对 PPI的调节作用及在听觉系统多个层级的神经机制。首先建立特征选择性注意和空间选择性注意共同调节PPI的行为范式，以 EEG 为测量手段，在皮层水平上考察两种注意调节PPI的时间动态性差异；同时在皮层下水平考察两种注意调节 PPI的脑干分离机制，重点探讨前脉冲刺激包络成分和精细结构成分加工在两种注意调节 PPI 中的作用差异；最后，以fMRI为测量手段，考察特征注意和空间注意调节PPI的关键脑区和脑网络活动异同。具体来说，我们计划开展如下三个方面的研究（图3所示)。
+
+![](images/1a07f0e50fec61dae7189462d925435d0b649dc403d699dd3eddfe1a5b5d644c.jpg)  
+图3本研究研究内容示意图
+
+# 3.1不同注意形式调节PPI的时间动态性异同
+
+如前所述，特征注意和空间注意均可以调节PPI。脑电技术具有毫秒级别的时间分辨率，是研究两种注意调节PPI的时间动态性加工机制的理想工具。在“注意前脉冲刺激（attention-to-prepulse）”范式中，对某个前脉冲刺激特征的注意（如 $4 0 0 \mathrm { { H z } }$ 纯音而非 $8 0 0 \mathrm { H z }$ 纯音）可以增强PPI(Hazlettet al.,2003,2007）。神经层面的脑电研究发现，PPI出现时前脉冲刺激诱发的脑电成分P50（50ms-75ms）、N1（75ms-150ms）、P2（150-200ms）显著变化，而 P30（10-40ms）成分没有变化（Simons and Perlstein,1996)。目前研究者认为P30 反映了对前脉冲刺激的瞬时探测，而P50反映了对前脉冲刺激的感觉加工,P30反映了快速的内侧丘系通路活动，而 P50 反映了慢速的外侧丘系的活动，这一结果支持了PPI中对前脉冲刺激的“加工-保护”理论（Graham,1975)。同样，前人发现PPI出现时 P50、N1等反映听觉信息早期加工的脑电成分增强，而 P2 和N2 等反映听觉信息后期加工的脑电成分没有变化(Simons and Perlstein,1996)。以上结果提示，对前脉冲刺激特征的信息加工主要表现在信息加工的早期成分，以P50、N1成分为主，而晚期成分P2和N2不受影响。
+
+另外，如前所述，在空间注意调节 PPI 范式中，前脉冲刺激与背景噪声之间的知觉空间分离可以增强对前脉冲刺激的空间选择性注意,进而增强PPI。我们的一项 ERP研究发现(Let et al,2018)，知觉空间分离可以增强PPI，同时增强对前脉冲刺激的神经表征，表现为皮层诱发电位N1/P2 的反应增强，更重要的是，PPI的知觉空间分离增强与皮层诱发电位N1成分的知觉空间分离增强正相关，而与P2成分的知觉空间分离增强无关。
+
+N1反映了听皮层的活动，相关脑区位于听觉颞叶脑区，包括颞中回（Heschl's gyrus）和颞上沟（STP）（Naatanen et al.,1987)，而P2反映了非通道特异性的高级皮层活动，相关脑区主要定位于联合皮层（Crowley etal.,2004)。另一项脑损伤研究发现，IPL（顶下小叶）损伤的病人对听觉刺激反应的N1成分显著降低，而P2成分不受影响，顶下小叶是听觉空间选择性注意的重要脑区，因此N1成分与听觉空间选择性注意密切相关（Woods etal.,1993)。不过，前人的ERP 研究仅使用简单白噪声作为前脉冲刺激，并未考察更复杂的窄带噪声或者元音作为前脉冲刺激情况下的PPI，因此并未考察听觉晚期脑电成分，如N2的反应。可以推测，对前脉冲刺激空间信息的加工主要表现在信息加工的稍晚期成分，以 N1、N2 成分为主，早期成分 P50 可能不受影响。
+
+此外，在言语感知的研究中，Du等人综合考察了听觉信息的频率线索和空间线索在语音分离中作用，发现被试可以分别利用频率线索和空间线索提高对目标语音的识别，被试利用两种线索提高语音识别的成绩在行为上具有线性叠加的作用。进一步的MEG研究发现，频率线索和空间线索都会引起目标语音诱发的脑磁（AEF）反应N1成分（110ms 峰值）的增强，而且频率线索和空间线索引起的N1成分增强具有线性叠加的特点，也就是说频率和空间线索同时出现时N1成分的增加基本等同于频率线索和空间线索单独出现时N1成分增加之和。因此，我们推测，特征选择性注意和空间选择性注意对PPI的调节可能都会影响听皮层诱发的脑电成分N1，两种注意对PPI的增强对N1成分的影响可能是相互独立的，存在线性叠加的关系。
+
+根据听觉信息加工的双通路模型，听觉皮层的空间（where）环路与内容（what）环路对听觉信息的加工速度不同（Amottet al.,2004;Wang et al.,2008)，因此，不同注意形式对 PPI 的调节作用可能具有不同的时间动态性。不过，前人的研究结果和我们的工作并不能证明这一点。造成这一现象的原因有是在每一个研究中，只是分别测量特征选择性注意调节 PPI或者空间注意调节PPI，并没有将两种注意调节PPI在同一被试、同一项研究中进行测量。因此，在研究一中，我们将采用行为测量和脑电技术，建立特征选择性注意和空间选择性注意调节 PPI的统一范式，分别考察特征选择性注意调节 PPI和空间选择性注意调节 PPI的时间动态性异同。我们推测，1）特征选择性注意和空间选择性注意对PPI的调节具有不同的时间动态特征，特征选择性注意对 PPI 的调节发生在信息加工的早期阶段，反映了对刺激特征的快速加工，主要与早期脑电成分P50特异性相关；2）空间选择性注意对PPI的调节发生在信息加工的稍晚阶段，反映了对刺激空间线索的慢速加工，主要与晚期脑电成分 N2 特异性相关；3）特征选择性注意和空间选择性注意对PPI的调节均与听皮层密切相关的脑电成分N1有关，而且两种注意对PPI的调节影响 N1成分具有独立性，表现为两种注意对N1成分的增强具有线性叠加的关系，即两种注意共同对N1成分的增强与两种注意分别对N1成分的增强相加类似。
+
+# 3.2特征选择性注意和空间选择性注意调节PPI的脑干分离机制
+
+如前所述，频率追随反应（frequency following responses,FFRs）是一种源自听觉脑干的神经群体的放电活动，反应了神经元对中低频听觉刺激的精确锁相活动（Chandrasekaran& Kraus,2010;Du et al.,201la; Kraus et al.,2017; Marsh et al.,1970)。目前在人类被试中使用头皮电生理记录的方法记录FFRs已经非常成熟（Kraus etal.,2017）。FFRs反应了听觉脑干的神经活动，脑干既是双耳信息传递到大脑中的重要中转通路，又受到诸多下行皮层网络的调节，因此脑干的神经活动反应了感觉信息加工与高级认知之间的交互作用，是研究高层注意调节底层PPI 的理想脑区。
+
+FFRs 能够反应神经元群体对复杂声音刺激关键成分的加工（Coffey etal.,2017)，更重要的是，通过适当的信号处理方式（希尔伯特变换），可以从FFRs 信息中分离出快速变化的声音精细结构（temporal fine structure）的锁相反应以及变化较为缓慢的包络结构（envelope）的锁相反应（Aiken & Picton, 2008; Ananthakrishnan et al.,2015; Luo et al.,2017; Wang & Li,2017）。以往的研究证实，声音的这两个成分（精细结构和包络结构）在中枢中的表达是可以被记录和测量的。例如，实验动物的听神经和听觉中脑下丘 (Luoetal.,2017)的听觉诱发反应都可以准确的表达包络和精细结构这两种声音成分。此外，人类被试FFRs 也可以被分解为包络和精细结构两个成分(Aiken et al.,2008)。这为研究特征注意和空间注意调节PPI的脑干表达分离机制提供了可行的记录方法，即可以分别记录对目标声音信号神经反应的包络成分和精细结构成分。
+
+2002年，Smith等人提出“精细结构-包络双分离”假说，认为精细结构主要参与语音信号的空间定位，而包络成分主要负责携带语义信息，进而它们分别形成了听觉皮层的空间（where）环路与内容（what）环路的声学基础。这一假说与经典的听觉系统"where"和"what"双通路模型构成了优美的对应，因此，“精细结构-包络双分离"假说被认为是听觉信息加工的双通路模型在听觉脑干的具体表现（Smith et al.,2002;Luo et al.,2017）。已有研究报告对目标声音的空间选择性注意都可以增强下丘的 FFRs（Du et al.,201la; Du et al.,2012; Wilson& Krishnan,2005），近期的动物神经电生理研究进一步证实了脑干中空间线索对同时呈现的声音信号的分离加工与记录到的FFRs中的精细结构成分有关 (Luo etal.,2017)。因为声音刺激的包络主要对声音的内容识别起重要作用(Ding et al.,2016,2017)，是形成内容（what）环路的声学基础，我们推测，特征注意对 PPI 的调节可能与目标信号的脑干包络结构表达增强有关。而声音刺激的精细结构信息对声音的空间定位起主要作用(Luoet al.,2017)，是形成空间（where）环路的声学基础，因此，我们推测空间注意对 PPI 的调节可能与目标信号的脑干精细结构表达增强有关。特征注意和空间注意对PPI的增强在脑干神经表达中出现分离。
+
+此外，特征注意和空间注意对PPI 调节的脑干机制和皮层机制的对应关系也是值得研究的问题。听觉感觉信号的中枢表达存在编码策略的层级变化，脑干的神经编码具有很高的冗余性，而听皮层的神经编码整体显现出稀疏编码的策略 (Ding et al.,2016,2017)。因此，大脑皮层上高频的精细结构的时序性表达较脑干有极大的减弱，但是包络的时序性表达还很明显。Ding 等人发现大脑听皮层通过EEG 和 MEG 技术可以记录到反映言语音节节律的delta和 theta 波段的包络成分 (Ding etal.,2016,2017)。因此，在皮层水平上，听皮层可以通过时频分析，得到对言语信号的包络成分反应（如Gama，Theta，Delta波段神经震荡指标）。通过对同一个被试进行脑干频率追随反应（FFRs）记录和皮层诱发电位记录（EEG），可以考察特两种注意对PPI 的调节的皮层下机制和皮层机制的对应关系。已有研究发现下丘和听皮层对窄带噪声包络信息的表征非常接近，而且注意条件下，二者记录到的电生理信号表现出Gama频带（ $5 0 \mathrm { - } 1 0 0 ~ \mathrm { H z }$ ）的同步活动增强（Luo，2017）。因此我们预测，特征选择性注意调节PPI可以增强听觉脑干表达中的声音信号包络成分，同时在皮层上可以进一步观察到信号包络成分的神经表达增强。二者在注意条件下记录到的电生理信号在Gama波段的反应同步性增强。
+
+因此在研究二中，我们将采用利用脑电技术（EEG）记录人类脑干频率追随反应（FFRs），在研究一建立的特征选择性注意和空间选择性注意调节 PPI 的统一范式上，分别考察特征选择性注意调节 PPI 和空间选择性注意调节 PPI的脑干分离机制。我们推测，特征注意和空间注意对 PPI的调节在脑干表现出分离的作用：1）特征选择性注意对PPI的调节与前脉冲刺激的脑干包络结构表达增强有关；2）空间选择性注意调节PPI与前脉冲刺激的脑干精细结构表达增强有关。综合研究一和研究二的内容，我们对注意调节 PPI的皮层和脑干的反应关系有如下基本假设，3）特征注意和空间注意分别调节前脉冲刺激的脑干表达中的包络结构和精细结构，在皮层下水平对 PPI进行初步注意调节。特征选择性注意调节 PPI可以增强听觉脑干表达中的声音信号包络结构，同时，信号包络结构的增强在皮层上有进一步的加强。二者在注意条件下记录到的电生理信号在Gama 波段的反应同步性增强。
+
+# 3.3特征选择性注意和空间选择性注意调节PPI的关键脑区和脑网络
+
+根据听觉信息加工的双通路模型，特征和空间注意调节 PPI 的神经表达不仅存在加工速度的差异，二者的脑区激活模式同样存在差异。以往研究发现，神经层面上，fMRI研究发现，注意前脉冲刺激特征条件下，丘脑前核与背内侧核 BOLD 信号激活大于忽略条件，说明丘脑参与了PPI特征注意调节的神经环路 (Hazlett et al.,2001)。精神分裂症患者的研究表明，正常被试在注意前脉冲刺激特征条件下，额-纹状体-丘脑（frontal-striatal-thalamic,FST）环路中的背外侧前额叶、纹状体、丘脑背内侧核激活，而精神分裂症患者的FST环路相关脑区激活减弱（Hazlettetal.,2008)。动物神经药理学研究发现，对某种频率的前脉冲刺激恐惧条件化可以选择性的提高该频率前脉冲刺激引起的PPI(Du etal.,2011)，这种PPI的恐惧条件化增强表现出刺激特异性，并且依赖于杏仁核和初级听皮层兴奋性谷氨酸的传递 (Duet al.,2011)。以上结果提示，特征选择性注意对 PPI 的调节可能涉及包括丘脑、初级听皮层、纹状体、额叶等脑区，也就是听觉信息加工的what 腹侧通路中的重要脑区。
+
+同时，人类和动物的行为研究均证实知觉空间分离也可以调节 PPI (Lei et al.,2014,2018)。神经层面上，知觉空间分离促进言语识别的fMRI研究发现，目标言语刺激与掩蔽言语刺激之间的知觉空间分离显著地激活了顶上小叶、楔前叶、额下回、额中回、前扣带回以及尾状核等脑区（Wu et al.,2016; Zheng et al.,2016)。这表明，知觉空间分离促进言语识别过程涉及到了听觉系统以外的额叶、顶叶、扣带回和基底神经节等多个脑网络环路的活动。动物研究页发现，知觉空间分离可以增强PPI(Lei et al.,2014)，且这种知觉空间分离引起的 PPI增强与后顶叶兴奋性谷氨酸的传递有密切关系 (Duet al.,2011)。因此可以推测，楔前叶、顶下小叶及其所在的背侧通路（where 通路）可能是利用知觉空间分离线索提高PPI的重要神经基础之一。
+
+因此在研究三中，我们将采用脑成像技术，在研究一建立的特征选择性注意和空间选择性注意调节PPI的统一范式上，分别考察特征选择性注意调节PPI和空间选择性注意调节PPI的关键脑区和脑网络。我们推测，1）特征选择性注意和空间选择性注意对PPI的调节可能具有不同的关键脑区，特征选择性注意对 PPI的调节涉及听觉what 通路中的脑区，主要包括听觉丘脑、初级听皮层、纹状体、颞上回在内；2)空间选择性注意调节PPI涉及听觉where 通路中的脑区，包括初级听皮层、楔前叶、顶下小叶在内；3）特征注意调节PPI和空间注意调节 PPI虽然是不同注意形式对 PPI的调节，由于听觉信息加工的双通路的神经网络有部分重叠，因此二者都可能涉及一些共同脑区的激活，例如听觉加工中枢的初级听皮层、注意网络中的额叶的活动以及抑制功能的脑区如尾状核：初级听皮层作为听觉加工的中枢脑区，对听觉信息的加工起到承上启下的作用，因此两种注意形式对 PPI 的调节都涉及初级听皮层的活动增强；特征注意网络和空间注意网络的研究发现二者在高级皮层区域，如背外侧前额叶存在共同的激活，因此两种注意形式对 PPI的调节在经历了不同神经通路之后，可能共同激活背外侧前额叶的活动；最后，PPI的注意调节涉及到对目标信号的注意增强以及对干扰信息的加工抑制，因此，某些抑制功能相关的脑区，如尾状核的功能可能会激活。
+
+# 4理论建构
+
+人和动物在面对复杂的信息输入时，会利用感觉门控系统抑制无关感觉刺激的输入，保证重要感觉信息的深度加工（Du et al.,2011; Yeomans et al.,2002）。当突然出现一个强的感觉刺激时，人和动物会出现一个强烈的全身性反射活动，称为惊反射，这是信息加工的第一个层次。惊反射对人和动物的生存至关重要，可以让生物体对威胁性刺激快速地做出反应。不过惊反射也会干扰正在进行的行为和认知活动，为了保证重要行为和认知活动的进行，中枢系统发展出了一种抑制惊反射的门控机制：前脉冲抑制，这是信息加工的第二个层次，反映了对惊反射的调节作用。尽管作为一种前注意门控过程的 PPI的神经环路位于脑干，但它与感觉皮层、联合皮层、运动系统、边缘系统等都有广泛的联系，并受到自上而下的注意调节（Lietal.,2009）。本研究假设，基于空间的注意和基于特征的注意可以增强PPI，这是感觉门控信息加工的第三个层次，反映了对 PPI的调节作用（杜忆，李量，2011）。根据听觉信息加工的双通路模型，空间注意和特征注意对 PPI 的调节具有不同的神经基础，本研究将建立统一的特征注意和空间注意调节 PPI的行为模型，考察空间注意和特征注意调节PPI在听觉脑干、听觉皮层、高级皮层中的加工速度和激活模式的异同。基于指导语让被试注意某一频率的刺激而忽略另一种频率的刺激是常用的听觉特征注意的范式，基于听觉优先效应的知觉空间分离范式可以很好地引起被试对目标刺激的空间选择性注意。因此，将对特定频率的注意和知觉空间分离范式相结合，可以在行为上测量特征注意和空间注意对 PPI的共同调节，以及一种注意形式对 PPI的单独调节作用。这个新的行为模型为进一步研究选择性注意增强PPI的神经机制提供了重要前提。
+
+结合前人的研究发现和本文的研究理论假设，注意调节 PPI的神经活动在听觉系统同样具有层次性表现。听觉系统信息加工具有层次性，同时听觉感觉信号的中枢表达存在编码策略的层级变化，脑干的神经编码具有很高的精确性和冗余性，而听皮层的神经编码整体显现出稀疏编码的策略。脑干可以精确的表达听觉信号的精细结构成分和包络成分，听皮层上高频的精细结构表达较脑干有极大的减弱，但是包络的表达还很明显。首先，在脑干水平，特征注意对 PPI的调节可能与目标信号的脑干包络结构表达增强有关，空间注意对 PPI的调节可能与目标信号的脑干精细结构表达增强有关。脑干精细结构主要参与语音信号的空间定位，而包络成分主要负责携带语义信息，在听觉脑干水平，特征注意和空间注意对 PPI 的增强在脑干神经表达中出现分离，支持了听觉加工的双通路模型。其次，在听皮层水平，特征选择性注意和空间选择性注意对 PPI的调节具有不同的时间动态特征，特征选择性注意对 PPI的调节发生在信息加工的早期阶段，反映了对刺激特征的快速加，而空间选择性注意对 PPI 的调节发生在信息加工的稍晚阶段，反映了对刺激空间线索的慢速加工。脑电研究从时间动态性的角度进一步考察听觉加工双通路加工速度的分离。最后，在高级皮层水平，特征选择性注意对PPI的调节涉及听觉 what通路中的脑区，空间选择性注意调节 PPI涉及听觉where 通路中的脑区。脑成像研究进一步证实了两种注意调节PPI具有不同的脑激活模式，从皮层水平验证了听觉加工的双通路模型。
+
+同时，特征注意和空间注意对前脉冲抑制的调节也具有共同规律。尽管大脑对前脉冲刺激的特征注意和空间位置注意分别依赖于听觉信息加工的“what”通路和“where”通路，但特征注意和空间注意的神经网络有部分重叠，两种注意对 PPI的调节也涉及一些共同的脑区。前人的动物研究发现，初级听皮层在空间注意调节PPI和情绪注意调节PPI中均起到重要作用（Duetal.,2011）。PPI脑环路中位于脑干的上丘深层（deeper layers of the superior colliculus，DpSC)同样参与了空间注意和情绪注意对 PPI 的调节，有可能通过前脑对前脉冲刺激的自上而下调节和中脑前脉冲信号表征自下而上的调节两个通路共同起作用（Ding etal.,2019）。最新的动物研究表明，大鼠的内侧无颗粒额叶皮层（the medial agranular cortex，AGm）在空间注意和情绪注意对 PPI的强化调节中也起了作用，AGm 神经投射到背内侧纹状体，再到脑干黑质的网状部，进而实现对 PPI的注意调节（Meng et al.,2020）。因此，我们认为听觉加工中枢的初级听皮层、上丘、次级运动皮层（对应大鼠的AGm区域）等脑区在不同注意对PPI的强化调节中共同起作用。
+
+最后，本研究具有临床应用前景。精神分裂症患者表现出的诸多认知障碍可能与早期信息加工紊乱有关(Javitt& Sweet,2015;Jones et al.,2016)，感觉门控及其高级认知调节异常被认为是精神分裂症重要的病理生理基础之一。因此，本研究探讨注意调节感觉门控的认知和神经机制，对理解精神分裂症的病理机理、探索潜在的生物标记物、辅助疾病的早期客观诊断和干预有重要意义(雷铭，田晴，王传跃，李量，2017)。本研究同样具有工业应用前景。语音识别一直是人工智能的重要课题之一。许多算法可以很好地识别安静条件下的语音信号，但是和人脑相比，计算机在嘈杂环境下的语音识别要逊色很多。本研究考察大脑在嘈杂环境下的感觉门控过程如何受到不同注意形式自上而下的调节，对于其神经机制的研究或能为计算机语音识别技术的发展带来启示。
+
+# 参考文献
+
+杜忆，李量.(2011).对听感觉运动门控自上而下调节的动物模型和神经机制．心理科学进展,19(7),944-958.   
+雷铭，田晴，王传跃，李量.(2017)．精神疾病前脉冲抑制研究．中华行为医学与脑科学杂志,26(2),188-192.   
+Aiken, S. J.,&Picton,T. W. (20o8).Envelope and spectral frequency-following responses to vowel sounds. Hearing Research,245(1-2),35-47.   
+Akhoun,I.,Gallego,S.,oulin,A.,Ménard,.,Veuillet,E.,Bergervachon,C...Thaivan,H.(o8).Thetempoal relationship between speech auditory brainstem responses and the acoustic patern of the phoneme $/ \mathrm { b a } /$ in normal-hearing adults. Clinical Neurophysiology， 119(4), 922-933.   
+Ananthakrishnan,S., Krishnan,A.,& Bartlet,E.(2015). Human frequencyfollowingresponse: Neural representation of envelope and temporal fine structure in listeners with normal hearing and sensorineural hearing Los. Ear and Hearing,37(2), 41-48.   
+Arnott S.R.,Binns,M. A.,Grady,C.L.,& Alain,C. (2o04). Assessing the auditory dual-pathway model in humans. NeuroImage, 22(1), 401-408.   
+Blumenthal,T.D.,Reynolds,J.Z.,&Spence,T.E. (2015).Support for the interuptionand protection hypothesesof prepulse inhibition of startle: Evidence from a modified atention network test. Psychophysiology, 52(3),397- 406.   
+Braff,D.,Stone,C.,Callaway,E., Geyer,M., Glick,1.,&Bali,L.(978).Prestimulus effects onhuman startlereflex in normals and schizophrenics. Psychophysiology, 15(4),339-343.   
+Campbell,L.E.,Hughes,M.,Budd,T.W.,Cooper,G.,Fulham,W.R.,Karayanidis,F.,..Case,V.(20).Primarynd secondary neural networks of auditory prepulse inhibition: A functional magnetic resonance imaging study of sensorimotor gating of the human acoustic startle response.European Journal of Neuroscience,26(8),2327- 2333.   
+Carlson,S.,& Willot, J.F. (1996).The behavioralsalience of tones as indicated byprepulse inhibition ofthe startle response: Relationship to hearing loss and central neural plasticity in C57BL/6J mice. Hearing Research, 99(1), 168-175.   
+Chandrasekaran, B.,& Kraus, N. (2Ol0). The scalp-recorded brainstem response to speech: Neural origins and plasticity. Psychophysiology, 47(2),236-246.   
+Chen,J., He, Y., Zhu, Z., Zhou,T.，Peng, Y.， Zhang, X.，& Fang,F. (2014). Atention-dependent early cortical suppression contributes to crowding. The Journal of Neuroscience, 34(32),10465-10474.   
+Chimento,T. C.,& Schreiner, C.E. (199o). Selectively eliminating cochlear microphonic contamination from the frequency-following response. Electroencephalography and Clinical Neurophysiology, 75(2), 88-96.   
+Coffey,E.B.,Musacchia,G.,& Zatorre,R.J. (20l7).Cortical Corelatesof the AuditoryFrequency-Following and Onset Responses: EEG and fMRI Evidence. Journal of Neuroscience the Offcial Journal of the Society for Neuroscience, 37(4),830-838.   
+Crowley,K.E.,& Colrain,I. M. (2004). Areviewofthe evidence for2beinganindependentcomponent proces: Age, sleep and modality. Clinical neurophysiology,115(4),732-744.   
+Csomor,P.A.,Preler,K.H.,Geyer,M.A.,Studerus,E.,Huber,T.,&Vollenweider,F.X.(2014).Influenceof aripiprazole,risperidone,and amisulpride on sensory and sensorimotor gating in healthy“low and high gating" humans and relation to psychometry. Neuropsychopharmacology, 39(10), 2485-2496.   
+Davis,M.(2Oo6).Neural systems involved in fear and anxiety measuredwith fear-potentiated startle.American Psychologist, 61(8),741-752.   
+Dawson,M.E.,Hazlet,E.A.,Filion,D.L.,Nuechterlein,K.H.,&Schel,A.M.(1993).Atentionandshzia: impaired modulation of the startle reflex. Journal ofAbnormal Psychology,102(4), 633-641.   
+Dawson,M.E.,chell,A..Halett,E.A.,ueherlen,K.H,ion,D..().Onhelialnie meaning of impaired sensorimotor gating in schizophrenia. Psychiatry Research, 96(3),187-197.   
+de Haan,E.H.F.,& Cowey，A. (20l1).On the usefulness of“what”and“where”pathways in vision.Trends in Cognitive Sciences, 15(10), 460-466.   
+Ding,N.,Mellni,L.,Zhang,H.,ian,X.andPoeppelD. (2Ol6),Cortical trackingofhierarcical linguisticstructurs in connected speech, Nature Neuroscience,19(1),158-164.   
+Ding,N.,Patel,A.D.,Chen,L.,ButlerH.,Luo,C.,ndPoeppel,D.(17)Tempra Modulations inSpeechand Music. Neuroscience and Biobehavioral Reviews, 96(3),187-197.   
+Ding,Y.,Xu,N.,Gao,Y.,Wu,Z.,&Li,L. (2O19).Theroleofthedeeperlayersofthesuperior coliculus inattentional modulations of prepulse inhibition. Behavioural Brain Research, 364,106-113.   
+Du, Y.,Li,J.Y.,Wu,X.H.,&Li,L. (2o9).Precedence-efect-induced enhancementof prepulse inhibitioninsocially reared but not isolation-reared rats. Cognitive Affective & Behavioral Neuroscience, 9,44-58.   
+Du, Y.,Kong,L., Wang,Q., Wu, X.,&Li,L. (201la).Auditory frequency-following response: aneurophysiological measure for studying the "cocktail-party problem". Neuroscience and Biobehavioral Reviews,35(10),2046- 2057.   
+Du,Y.,Wu, X.,&Li,L. (2o10).Emotional learning enhances stimulus-specific top-down modulationofsensorimotor gating in socially reared rats but not isolation-reared rats.Behavioural Brain Research,2O6(2),192-201.   
+Du, Y.,Wu, X.,&Li,L. (2011b). Differentially organized top-down modulation of prepulse inhibition of startle.The Journal of Neuroscience, 31(38), 13644-13653.   
+Filion,D.L., Dawson,M.E.，& Schell，A. M. (1998).The psychological significance of human startleeyeblink modification: A review. Biological Psychology, 47(1),1-44.   
+Freyman,R.L., Balakrishnan, U.,& Helfer,K.S.(2o04). Effect of number of masking talkers and auditory priming on informational masking in speech recognition. The Journal ofthe Acoustical Society of America,115(5),2246 2256.   
+Freyman,R.L.,Balakrishnan,U.,& Helfer,K.S. (2o08).Spatialrelease from masking with noise-vocoded speech.The Journal of the Acoustical Society of America, 124(3),1627-1637.   
+Fritz,J.B.,Eilali,M.,David,S.V.,&Shamma,S.A.(oo).Auditoryatention—focusing thesearchlighonsound. Current Opinion in Neurobiology, 17(4), 437-455.   
+Galbraith,G.C.(1994).Two-channel brain-stem frequency-folowing responses to pure tone and missing fundamental stimuli. Electroencephalography and Clinical Neurophysiology, 92(4),321-330.   
+Galbraith，G.C.，Olfman，D.M.，& Huffman，T.M.(2003).Selective attention affects human brain stem frequency-following response. Neuroreport, 14(5), 735-738.   
+Glaser,E.M.,Suter,C.M.,Dasheif,R.,&Goldberg,A. (1976).Thehumanfrequency-followingresponse: Itsbeavior during continuous tone and tone burst stimulation. Electroencephalography and Clinical Neurophysiology, 40(1), 25-32.   
+Goodale,M. A.,& Milner, A. D. (1992). Separate Visual Pathways for Perception and Action. Trends in Neurosciences, 15(1), 20-25.   
+Graham,F.(1975).The more or less startling effcts of weak prestimulation. Psychophysiology,12,238-248.   
+Hairston，W.D.,Letowski，T.R.，& Mcdowell,K.(2013). Task-related suppresson of the brainstem frequency following response. PloS one, 8(2), e55215.   
+Hazlet,E.A.,Buchsbaum,M.S.,Tang,C.Y.,Fleischman,M.B.,Wei,T.C.,Byne,W.,& Haznedar,M.M.(2001) Thalamic activation during an attention-to-prepulse startle modification paradigm: A functional MRI study. Biological Psychiatry, 50(4),281-290.   
+Hazlet,E.A.,Levine,J.,uchsbum,.S.,ilverman,J..,New,A,Sevin,E.,ever,L.J. (2).Dicit atentional modulation of the startle response in patients with schizotypal personality disorder. American Journal of Psychiatry, 160(9),1621-1626.   
+Hazle,E.A.,Romero,M.J.,Haznedar,M.M.,New,A.S., Goldstein,K.E.,Newmark,R.E.,...Buchsbaum,M.S. (2007).Deficient attentional modulation of startle eyeblink is associated with symptom severity in the schizophrenia spectrum. Schizophrenia Research, 93(1-3),288-295.   
+Huang,Y.,Huang,Q.,Chen, X.,Qu,T., Wu, X.,& Li,L. (2008).Perceptual integration between target speech and target-speech reflection reduces masking for target-speech recognition in younger adults and older adults. Hearing Research,244(1), 51-65.   
+Javitt,D.C.,& Sweet,R.A. (20l5).Auditory dysfunction inschizophrenia: Integrating clinical and basic features. Nature Reviews Neuroscience, 16(9), 535-550.   
+Jones,L.A.,Hils,P.J.,Dick,K.M,Jones,S.P.,&Bright,P.(16).Cognitive mechanisms associated withauditory sensory gating. Brain and Cognition,102,33-45.   
+Kraus,N., Anderson, S.,& White-Schwoch, T. (2017). The Frequency-following response: A window into human communication. Boston, MA:Springer International Publishing.   
+Krishnan,A.,Xu,Y., Gandour,J.T.,& Cariani,P.A. (2oo4). Human frequency-followingresponse: representationof pitch contours in Chinese tones. Hearing Research,189(1-2),1-12.   
+Kumari,V.,Antonova,E.,& Geyer,M.A. (2o8).Prepulseinhbitionand "psychosis-pronenessinhealthyindividuals: AfMRI study. European Psychiatry the Journal of the Association of European Psychiatrists,23(4),274-282.   
+Landis,C., & Hunt, W. A. (Eds.). (1939). The startle pattern. New York: Farrar and Rinehart.   
+Lehmann, A.,& Schonwiesner,M. (2014).Selective atention modulates human auditory brainstem responses: Relative contributions of frequency and spatial cues. PloS one, 9(1), e85442.   
+Lei,M.,Luo,L,Qu,T,Ja,H.,&Li,L.(O14).Perceived location specificityinperceptalseparation-inducedbutnot fear conditioning-induced enhancement of prepulse inhibition in rats. Behavioural Brain Research,269,87- 94.   
+Lei,M.,Zhang,C.，&Li,L.(2O18).Neural correlates of perceptual separation-induced enhancement of prepulse inhibition of startle in humans.Scientific Reports,8,1-10.   
+Li,L.,Du,Y.,Li,N.,Wu,X.,&Wu,Y. (2o9).Top-down modulationof prepulseinhibitionofthe startlereflexin humans and rats. Neuroscience & Biobehavioral Reviews,33(8), 1157-1167.   
+Li,L., Qi,J.G.,He,Y.,Aain,C.,&Scheider,B.A.(2o5). Atributecaptureinthe precedenceeectforlong-duration noise sounds. Hearing Research,202(1-2),235-247.
+
+Light, G.A.,& Braf,D.L.(2Oo3).Sensory gating deficits inschizophrenia:can we parse the effects of medication, nicotine use,and changes in clinical status? Clinical Neuroscience Research,3(1),47-54.
+
+Light,G.A.，& Swerdlow, N.R. (2014).Neurophysiological biomarkers informing the clinical neuroscience of schizophrenia: mismatch negativityand prepulseinhibition ofstartle. Electrophysiologyand Psychophysiology in Psychiatry and Psychopharmacology (pp. 293-314). Boston, MA: Springer.   
+Luo,L.,Wang, Q.,&Li,L. (20l7).Neural representations ofconcurrent sounds withoverlapping spectra inratinferior colliculus: Comparisons between temporal-fine structure and envelope.Hearing Research,353,87-96.   
+Marsh,J.T.,Worden,F.G.,&Smith,J.C.(197).Auditory frequency-follwingresponse: neural orartifact?Science, 169(3951), 1222.   
+Meng,Q.,Ding,Y.,Chen,L.,&Li,L.(2O2O).The medial agranular cortex mediates atentional enhancement of prepulse inhibition of the startle reflex. Behavioural Brain Research, 383,112511.   
+Musacchia, G.,Sams,M.,Skoe,E.,&Kraus,N.(2oo7). Musicians haveenhanced subcorticalauditoryand audiovisual processing of speech and music. Proceedings of the National Academy of Sciences of the United States of America, 104(40), 15894.   
+Naatanen,R.,&Picton,T.(1987).The N1 waveof the human electric and magnetic response to sound: Areview and an analysis of the component structure. Psychophysiology, 24(4),375-425.   
+Ping,J.,Li,N., Galbraith,G.C.,Wu,X.,&Li,L. (2o08).Auditoryfrequency-follwingresponses inratipsilateral inferior coliculus. Neuroreport, 19(14),1377-1382.   
+Poje，A.B.，& Filion，D.L.(2017).Eratum to: The effects of multiphasic prepulses on automatic and attention-modulated prepulse inhibition. Cognitive Processing, 1-1.   
+Romanski,L.M.,Tian,B.,Fritz,J.,Mishkin,M.,Goldman-Rakic,P.S.,&Rauschecker,J.P. (199).Dualstreamsof auditory afferents target multiple domains in the primate prefrontal cortex. Nature Neuroscience, 2(12),1131- 1136.   
+Roskam,S.,& Koch,M. (2o06). Enhanced prepulse inhibition of startle using salient prepulses inrats.International Journal of Psychophysiology, 60(1),10-14.   
+Raji, T.K.,& Mulsant,B.H. (2O8). Natureand course of cognitive function in late-life schizophrenia: a systematic review. Schizophrenia Research,102(1),122-140.   
+Russo，N.，Nicol,T.，Musacchia,G.，& Kraus，N.(2004).Brainstem responses to speech syllables.Clinical Neurophysiology Offcial Journal of the International Federation of Clinical Neurophysiology,115(9),2021- 2033.   
+Skoe,E.,& Kraus,N. (20l2).Alitle goes along way: how the adult brain is shaped by musical traininginchildhood. Journal of Neuroscience the Offcial Journal of the Society for Neuroscience,32(34),11507.   
+Slater,J.，Skoe,E.，Strait,D.L.，O'ConnellS.，Thompson,E.，& Kraus,N.(2015).Music training improves speech-in-noise perception: Longitudinal evidence from a community-based music program. Behavioural Brain Research,291,244-252.   
+Smith, Z. M., Delgute, B.,& Oxenham, A. J. (2002). Chimaeric sounds reveal dichotomies in auditory perception. Nature, 416(6876), 87-92.   
+Smith,C.W.,& CormblattB.(2005).Atention deficits in the development of schizophrenia: Recent evidence from genetic high-risk and prodromal studies. Current Psychosis & Therapeutics Reports,3(4),152-156.   
+Song, J.,Skoe,E.，Wong,P.,&Kraus,N. (2oo8).Plasticityintheadult humanauditorybrainstem folowingshort-term linguistic training. Journal of Cognitive Neuroscience,20(10),1892-1902.   
+Song,J.H.，Skoe,E.，Banai,K.，& Kraus,N.(2012).Training to improve hearingspeech in noise:Biological mechanisms. Cerebral Cortex, 22(5),1180-1190.   
+Song,K.,Meng,M., Chen,L., Zhou,K.,& Luo,H. (2014). Behavioral oscilations in attention: Rhythmic $\mathfrak { a }$ pulses mediated through 0band. Journal of Neuroscience the Offcial Journal of the Society for Neuroscience,34(14), 4837-4840.   
+Swerdlow,N.R.,Karban,B.,Ploum,Y.,Sharp,R.,Geyer,M.A.,&Eastvold,A. (2O1).Tactileprepuff inhibitionof startle in children with Tourete's syndrome: In search of an“fMRI-friendly” startle paradigm. Biological Psychiatry, 50(8),578-585.   
+Swerdlow, N.R.,Light, G.A.,Sprock,J.,Calkins,M.E., Green,M.F., Greenwood,T.A.,.. Nuechterlein,K.H. (2014).Deficient prepulse inhibition in schizophrenia detected by the multi-site COGS. Schizophrenia Research,152(2),503-512.   
+Swerdlow,N.R.,Weber,M.,Qu,Y.,ight,G.A.,&Braf,D.L. (28).Realisticexpectations ofprepulseinhibitionin translational models for schizophrenia research. Psychopharmacology,199(3),331-388.   
+Wan,L.,Thomas,Z.,Pisipati,S.,Jarvis,S.P.，& Boutros,N.N.(O17).Inhibitorydeficitsinprepulse inhibition, sensory gating,and antisaccade eye movement in schizotypy. International Journal of Psychophysiology，114, 47-54.   
+Wang，Q.，& Li, L. (2017). Dierences between auditory frequency-following responses and onset responses: Intracranial evidence from rat inferior colliculus. Hearing Research,357,25-32.   
+Wang,Y.,& Luo,H. (2O17).Behavioral oscilation in face priming: Prediction about face identity is updated at a theta-band rhythm. Progress in Brain Research, 36(1),84-90.   
+Wilson, J.R.,& Krishnan,A. (2oo5).Human frequency-follwing responses to binaural masking level.Journalof the American Academy of Audiology, 16(3),184-192.   
+Woods,D.L., Knight,R.T.,& Scabini,D.(1993).Anatomical substrates ofauditory selective atention: Behavioral and electrophysiological efects of posterior association cortex lesions. Brain Research Cognitive Brain Research, 1(4), 227–232.   
+Wu, C.,Zheng,Y.,Li,J.,Wu,H.,She,S.,Liu,S.,..Li,L.(2016a).Brain substrates underlyingauditoryspeech priming in healthy listeners and listeners with schizophrenia.Psychological Medicine,1-11.   
+Wu,M.,Li,H.,GaoY.,Lei,M.,Tng,X.,Wu,X.,&Li,L. (22).Adding irrelevantinformationtothecontentprime reduces the prime-induced unmasking effect on speech recognition. Hearing Research,283(1),136-143.   
+Wu,X.,Wang,C.,Chen,J.,，Qu,H.,Li, W., Wu,Y.,..Li,L. (2005). The efect of perceived spatial separationon informational masking of Chinese speech. Hearing Research, 199(1-2),1-10.   
+Wu,Z.M.,Yu,D.,Jia,H. X.,&Liang,L. (206b).Diffrent effectsofisoation-rearingand neonatalMK-80ltreatment on attentional modulations of prepulse inhibition of startle in rats. Psychopharmacology, 233(17),1-14.   
+Yang,N. B.,Tian,Q.,Yu,F.,，Bo,Q.J.,Liang, Z.,Liang,L.,& Wang,C. Y. (2017). Deficits of perceived spatial separation induced prepulse inhibition in patients with schizophrenia: relationships to symptoms and neurocognition. BMC Psychiatry, 17(1),135-142.   
+Yeomans,J.S.,Li,L.,cot,B.W.,&Frankland,P.W.(2o2).Tactile,acousticandvestibularsystemsumtoeicite startle reflex. Neuroscience and Biobehavioral Reviews, 26(1),1-11.   
+Zhang, C.,Lu,L., Wu,X.,&Li,L. (2014).Atentional modulation oftheearlycortical representationof speech signals in informational or energetic masking. Brain and Language, 135, 85-95.   
+Zheng,Y.,Wu,C.,Li,J.,Wu,H.,She,S.,Liu,S.,..Li,L. (2O16).Brain substrates ofperceivedspatialseparation between speech sources under simulated reverberant listening conditions in schizophrenia. Psychological Medicine,46(3), 477-483.   
+Zindorf,I. C.,Lewald,J.,& Karnath, H.-O.(2o16).Testing thedual-pathwaymodel forauditory processng in human cortex. Neurolmage, 124,672-681.
+
+# Neural mechanism underlying the attentional modulation of auditory sensory gating
+
+LEI Ming; LI Pengbo
+
+(School of Tourism Sciences, Beijing International Studies University, Beijing 10oo24, China)
+
+Abstract: Prepulse inhibition (PPI) is considered as a measurement of sensory gating, reflecting the function of early auditory sensory information selection. Although the main neural correlates of PPI lie in the brainstem, previous researches have revealed that PPI could be top-down modulated by attention. However, different forms of attention, such as feature-based attention and spatial attention, have not been investigated together in the specific modulation of PPI.Moreover, the neural mechanism of attentional modulation of PPI in humans has been focused on the cortical level, whereas the subcortical mechanism has remained unclear. Based on the dual-pathway model for auditory processing, the present project aims to use behavioral testing, electroencephalogram recording and functional magnetic resonnance imaging， to investigate the various levels of neural representations of attentional modulation of PPI in the auditory system. The paper will 1） establish the behavioral paradigm of feature-based attentional and spatially attentional modulation of PPI, and examine the temporal dynamic processing diferences between feature-based attentional modulation and spatially attentional modulation of PPI; 2) use brainstem frequency following responses (FFRs) to examine the subcortical neural mechanism of two types of attentional modulation of PPI, focusing on the envelope and fine structure processing differences of prepulse stimuli in the two types of attentional PPI modulation; 3) investigate the key brain areas and neural networks involved in feature-based attentional modulation and spatially attentional modulation of PPI.
+
+Keyword: attention; auditory sensory gating; prepulse inhibition; dual-pathway model

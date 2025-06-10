@@ -1,0 +1,88 @@
+临床研究
+
+# 双能CT检查在痛风性关节炎中的应用价值
+
+任 洁'，周 毅'，吴会霞'，朱丽花1，蔡香然²  
+暨南大学附属第一医院'风湿科，影像科，广东广州510630
+
+摘要：目的探讨双能CT(DECT)检查在痛风性关节炎中的应用价值。方法61例痛风性关节炎患者、30例强直性脊柱炎（AS)及30例类风湿关节炎(RA)患者行第2代DECT对最痛部位包括手腕关节或肘关节或膝关节或足踝关节及腰椎、骨盆和骶骼关节进行扫描。用DE Image view处理软件独立分析、评价,以检查部位有绿色伪彩结晶沉积作为诊断依据。记录患者人口统计学资料、血尿酸水平。3例痛风患者穿刺活检检查尿酸盐结晶，与DECT结果进行比对。10例入组时DECT显示有尿酸盐结晶沉积的慢性痛风患者服用降尿酸药物6月后复查相同关节部位DECT,比较治疗前后尿酸盐沉积情况。结果 痛风性关节炎组、AS组、RA组DECT $( + )$ 分别为 $9 8 . 4 \%$ (60/61), $1 3 . 3 \%$ (4/30) $6 . 7 \%$ (2/30) $( \chi ^ { 2 } { = } 9 5 . 5 2 2 , P { < } 0 . 0 5 )$ 。21例急性痛风性关节炎患者中$\mathrm { \Delta D E C T ( + ) }$ 为 $9 5 . 2 \% ( 2 0 / 2 1 )$ ,40例慢性痛风性关节炎患者中 $\mathrm { \Delta D E C T ( + ) }$ 为 $1 0 0 \% ( 4 0 / 4 0 )$ 。3组高尿酸血症患者比例分别为 $6 0 . 7 \%$ (37/61), $30 \%$ (9/30)， $2 3 . 3 \% ( 7 / 3 0 )$ 。3组高尿酸血症的患者中DECT $( + )$ 分别为 $9 7 . 3 \% ( 3 6 / 3 7 )$ ， $4 4 . 4 \%$ (4/9), $2 8 . 6 \% ( 2 / 7 ) ( \chi ^ { 2 } =$ 24.197, $P { < } 0 . 0 5 \$ 。痛风组共发现344处尿酸盐结晶,最常出现结晶沉积的部位依次为第一跖趾关节 $( 2 2 . 1 \%$ ）、第一趾中远端$( 1 9 . 8 \%$ ）、跟骨（ $1 7 . 4 \%$ ）、腔骨下端 $( 1 3 . 4 \%$ ),AS组共发现17处尿酸盐结晶，RA组共发现5处尿酸盐结晶。3例穿刺活检发现尿酸盐结晶的痛风患者,DECT在活检部位均检测到绿色标记的尿酸盐沉积。10例DECT显示有尿酸盐结晶沉积的慢性痛风患者服用降尿酸药物6月后复查相同关节DECT,发现局部尿酸盐结晶减少。结论 DECT可以清晰显示尿酸盐结晶,有助于痛风与其他关节炎的鉴别诊断及随防。
+
+关键词：痛风;双能CT;尿酸盐结晶;类风湿关节炎;强直性脊柱炎
+
+# Value of dual-energy computed tomography in the diagnosis of gouty arthritis
+
+RENJiel,ZHOYi',WUHuixia,ZHihual,CAIXiangn DepartmentofmtolpametdoysttedHsalfsitygo
+
+Abstract: ObjectiveToinvestigate the valueof dual-energycomputed tomography(DECT)inthe diagnosis of goutyarthritis. Methods Sixty-one patients with gout,30 with ankylosing spondylitis and 30 with rheumatoid arthritis were included in the study.DECTsansoftheands,wrists,elbows,fet,ankles,knees,umbar,pelvisandsacroiliacjointwereperford.For post-processing,a color-coding gout software protocol was used.The demographic data and blood uric acid levels were recorded.For 3 gout patients,the findings of puncturebiopsy and DECT were compared.Ten gout patients with urate rystal deposition upon recruitment underwent DECT scans again after a 6-month urate-lowering therapy. Results The positivity rates of DECTscan difered significantlyamong thepatients with gout,ankylosing spondylitis and rheumatoidarthritis $[ 9 8 . 4 \%$ (60/61), $1 3 . 3 \%$ $( 4 / 3 0 )$ ，and $6 . 7 \%$ (2/30), respectively; $\chi ^ { 2 } { = } 9 5 . 5 2 2 ,$ $P { < } 0 . 0 5 \dot { }$ ). Of the 21 patients with acute gouty arthritis, 20 $( 9 5 . 2 \% )$ showed positiveDECT finding,and allthe 40patients with chronic gouty arthritis showed positive findings.Inthe patients with patients with gout,ankylosing spondylitis and rheumatoid arthritis, the positivity rates of hyperuricemia were $9 7 . 3 \% ( 3 6 /$ 37), $4 4 . 4 \% ( 4 / 9 ) ,$ and $2 8 . 6 \% ( 2 / 7 ) ,$ respectively $\scriptstyle \langle \chi ^ { 2 } = 2 4 . 1 9 7 ,$ $P { < } 0 . 0 5$ ). A total of 344 urate deposition sites were detected in the gout patients, involving most commonly the first metatarsophalangeal joint $( 2 2 . 1 \% )$ , the middle and distal end of the first phalanges of the toes $( 1 9 . 8 \% )$ ), thecalcaneus $( 1 7 . 4 \% )$ , and the inferior extremity of the tibia $( 1 3 . 4 \% )$ . Seventeenand5uratedeposition sites were found inankylosing spondylitis patients and rheumatoid arthritis patients,respecitvely.The10 gout patients receiving a 6-month urate-lowering therapy showed decreased urate deposition on DECT scan. Conclusions DECT scan can detect urate deposition to allow differentiation diagnosis and follow-up in gout patients.
+
+Key words: gout; dual energy ct; urate crystal; rheumatoid arthritis; ankylosing spondylitis
+
+痛风是一种嘌呤代谢障碍导致血尿酸增高、尿酸钠结晶沉积在关节、软组织和肾脏而引起炎性反应的代谢性障碍性疾病，而尿酸盐结晶的沉积一直缺乏简便可靠且无创的诊断方法。最近开发的双能CT(DECT)检查能鉴别组织成分、显示特定组织[1-3]。近年来，国内外多项研究报道DECT检查在发现关节尿酸盐结晶沉积中具有重要的价值[46。笔者采用DECT检测痛风患者及强直性脊柱炎、类风湿关节炎患者肿痛关节是否存在尿酸盐结晶沉积,探讨DECT检测尿酸盐结晶的敏感性和特异性，从而了解其在临床痛风性关节炎中的应用价值。
+
+# 1资料与方法
+
+1.1一般资料
+
+选择2012年10月\~2013年11月在暨南大学附属第一医院风湿科门诊及住院部就诊的痛风患者61例，其中男58例，女3例，平均年龄 $4 8 . 2 { \pm } 1 4 . 3 \$ 岁。AS患者30例，其中女3例，男27例，平均年龄 $3 5 { \pm } 7 . 4$ 岁。RA患者30例，均为男性，平均年龄 $5 2 . 7 { \pm } 1 1 . 5 \$ 岁。61例痛风患者均符合1977年美国风湿病学会制定的痛风临床诊断标准。临床症状为四肢关节的突然疼痛或反复疼痛，病程 $6  { \mathrm { h } }  { \sim } 2 0$ 年,平均6.8年。急性痛风性关节炎典型表现是第一跖趾关节疼痛，常午夜发病，可自行缓解;慢性痛风性关节炎有明显痛风结节产生，累及多个关节，可出现功能障碍甚至畸形。50例RA患者均符合1987年美国风湿病学会修订的RA分类标准。50例AS患者均符合1984年美国风湿病学会修订的AS分类标准。RA患者及AS患者均之前未诊断过痛风。患者血尿酸为$2 4 6 { \sim } 7 3 4 ~ \mathrm { \mu m o l / L }$ ,其中血尿酸水平正常91例，升高70例。患者检查部位为疼痛最明显的关节，其中行手腕关节扫描24例，肘关节扫描7例，膝关节扫描44例，足关节扫描53例，踝关节扫描26例，骶髂关节4例，骨盆2例，腰椎2例。
+
+# 1.2 方法
+
+1.2.1CT扫描所有病例均采用东芝320排动态螺旋CT机(AquillionONE)扫描。患者四肢关节DECT扫描辐射剂量为 $0 . 0 9 \mathrm { m S v }$ ，骨盆及腰椎扫描辐射剂量为$2 . 2 5 \mathrm { m S v } _ { \ast }$ 。
+
+1.2.2图像分析扫描结束后，将数据传至工作站，启动应用程序内的DEimageview软件。此软件通过调节3个组织(软组织、尿酸盐结晶和骨组织)CT值处理，通过多平面重建(MPR）容积再现技术(VRT)呈现。
+
+1.2.3结果分析根据不同物质CT衰减系数的不同，将检测到的尿酸盐结晶标记为绿色。由两位有经验的放射科诊断医生采用双盲法对所有病例尿酸盐结晶的有无和分布进行记录分析，其中足趾趾甲或皮肤处散在斑点状绿色伪彩标识作为软组织伪影处理。有不同意见时请第三位医生仲裁。
+
+# 2结果
+
+# 2.1两组与痛风组比较
+
+61例痛风患者中，60例患者检查部位均见散在片状或点状绿色伪彩标识， $\mathrm { \Delta D E C T ( + ) }$ 为 $9 8 . 4 \% ( 6 0 / 6 1 )$ O其中21例急性痛风性关节炎患者中 $\mathrm { { D E C T } ( + ) }$ 为 $9 5 . 2 \%$ (20/21)，40例慢性痛风性关节炎患者中 $\mathrm { \Delta D E C T ( + ) }$ 为$1 0 0 \% ( 4 0 / 4 0 )$ 。DECT对痛风诊断的敏感性为 $9 8 . 4 \%$ ○3例穿刺活检发现尿酸盐结晶的痛风患者，DECT在活检部位均检测到绿色标记的尿酸盐沉积，主要分布于关节、骨内及周围软组织内(图1、2)。AS组、RA组DECT$( + )$ 分别为 $1 3 . 3 \% \big ( 4 / 3 0 \big ) \int _ { } ^ { } 6 . 7 \% \big ( 2 / 3 0 \big )$ ，两组与痛风组相比差异具有统计学意义 $( \chi ^ { 2 } { = } 9 5 . 5 2 2 , P { < } 0 0 5 )$ 0
+
+# 图1痛风患者双足CT扫描图
+
+![](images/8b51a254962854407b6aa314fc44321943f0db997142353f32c79782c98438be.jpg)  
+Fig.1 Cross sectional CT scan (left)and pseudo color image (right) of the feet of a gout patient.The arrows show uric acid depositionin the bilateral first metatarsophalangealjoint, around the second-five metatarsal bone and soft tissue and within the tendon.   
+图2痛风患者双膝CT扫描图
+
+Fig.2 Cross sectional CT scan (left) and pseudo color image (right) of the bilateral knees of a gout patient. The arrows show bilateral uric acid deposition in both knees and in the rear soft tissues.
+
+# 2.2痛风组、AS组、RA组情况
+
+痛风组、AS组、RA组高尿酸血症患者比例分别为$6 0 . 7 \% ( 3 7 / 6 1 ) , 3 0 \% ( 9 / 3 0 ) , 2 3 . 3 \% ( 7 / 3 0 )$ 。3组高尿酸血症的患者中 $\mathrm { \Delta D E C T ( + ) }$ 分别为 $9 7 . 3 \%$ (36/37), $4 4 . 4 \%$ (4/
+
+9） $. 2 8 . 6 \% ( 2 / 7 ) ( P \mathrm { < } 0 . 0 5 )$ ,AS组、RA组与痛风组DECT$\left( + \right)$ 比较差异有统计学意义 $( \chi ^ { 2 } { = } 2 4 . 1 9 7 , P { < } 0 . 0 5 )$ 0
+
+# 2.3尿酸盐结晶状况
+
+痛风组共发现344处尿酸盐结晶，最常出现结晶沉积的部位依次为第一跖趾关节 $( 2 2 . 1 \%$ )、第一趾中远端（ $1 9 . 8 \%$ ）、跟骨 $( 1 7 . 4 \%$ ）、腔骨下端 $( 1 3 . 4 \%$ ，AS组共发现17处尿酸盐结晶，RA组共发现5处尿酸盐结晶。10例DECT显示有尿酸盐结晶沉积的慢性痛风患者服用降尿酸药物6月后复查相同关节DECT，发现局部尿酸盐结晶明显减少。
+
+# 3讨论
+
+痛风的诊断目前主要依靠临床表现和生化检查，但缺乏特异性。部分患者可为无症状性高尿酸血症，并没发展为痛风;而痛风急性发作期的患者，血尿酸水平可在正常范围。本文中61例痛风患者，仅37例血尿酸水平高于正常值。关节腔穿刺或痛风石活检发现尿酸盐结晶是确诊痛风的金标准,但受关节液结晶数量不足、部位受限等因素制约，较难普遍开展；同时，该方法为有创性，可发生感染、穿刺损伤等并发症，患者不易接受。DECT扫描是应用两个相互垂直的球管发射出不同能量进行同时同层扫描，经探测器接收后对两种能量下采集的不同密度物质的信息进行分析。根据物质对不同能量X线衰减特性的不同，表现出组织相对应的CT值变化，进而可以区分、标识、分离并鉴别成像的组织或物体[7-9]。第二代DECT的改进,使得双能量扫描在临床的应用更加方便[1]。尽管检查时患者会受到一定量的辐射，但痛风成像部位多为不敏感的外周关节，本实验中患者四肢关节DECT扫描辐射剂量为 $0 . 0 9 \mathrm { m S v }$ ，患者所有外周关节全部扫描总剂量接近于每人每年接受的自然辐射源的平均剂量[],故其辐射剂量是在可接受范围内。
+
+本组61例痛风的患者中有60例双能CT发现关节局部有尿酸盐沉积，只有1例急性痛风性关节炎患者未在肿痛的关节发现尿酸盐结晶,而在40例慢性痛风性关节炎患者中均检测到尿酸盐结晶，可见DECT对慢性痛风诊断有很高的敏感性，对急性痛风患者检出率也比较高，与文献[12-14]报道较一致。3例穿刺活检发现尿酸盐结晶的痛风患者，DECT在活检部位均检测到绿色标记的尿酸盐沉积，提示DECT检查结果与活检结果有良好的一致性,与Glazebrook等[15]研究结果相接近。
+
+30例AS患者中有9例患者存在高尿酸血症，其中有4例在肿痛关节DECT发现有尿酸盐结晶沉积;30例RA患者中有高尿酸血症患者7例，有2例在肿痛关节发现有尿酸盐沉积。上述结果提示我们，AS、RA患者可合并痛风存在，当患者出现明显关节红肿热痛时需警惕痛风可能。DECT可帮助我们判断患者肿痛关节是本身风湿性疾病活动还是痛风急性发作。
+
+综上所述，DECT作为一种无创检查方法，可以清晰显示尿酸盐结晶，有助于痛风的诊断及随防。
+
+# 参考文献：
+
+[1]Grainger R, Taylor WJ,Dalbeth N,et al. Progress in measurement instrument s for acute and chronic gout studies[J].JRheumatol, 2009,36(10): 2346-55.   
+[2]Gruber M,Bodner G,Rath E,et al.Dual-energy computed tomography compared with ultrasound in the diagnosis of gout[J]. Rheumatology (Oxford),2014,53(1): 173-9.   
+[3]Nicolaou S,Yong-Hing CJ, Galea-Soler S,et al. Dual-Energy CTas a potential new diagnostic Tool in the management of gout in the acute seting[J].American Journal of Roentgenology, 2010,194(4): 1072-8.   
+[4]Sun Y,Ma L, Zhou Y,et al.Features of urate deposition in patients with gouty arthritis of the foot using dual-energy computed tomography[Z],2013: 15.   
+[5]Manger B,LellM, Wacker J,et al. Detectionof periarticularurate deposits with dual energy CT in patients with acute gouty arthritis [J].Ann Rheum Dis,2012,71(3): 470-U186.   
+[6]刘炜,薛华丹,曾学军,等.双能量CT检测痛风患者尿酸盐沉积的初 步应用[J].中国医学科学院学报,2010,32(6):645-8.   
+[7]Thomas C, Krauss B,Ketelsen D,et al. Differentiation of urinary calculi with dual energy CT: effect of spectral shaping by high energy Tin filtration[J]. Invest Radiol,2010,45(7): 393-8.   
+[8]Dalbeth N,Aati O,Gao A,et al. Assssment of tophus size:a comparisonbetweenphysicalmeasurementmethodsand dualenergy computed tomography scanning[J]. J Clin Rheumatol, 2012,18(1): 23-7.   
+[9]Bacani AK,Mccollough CH,Glazebrook KN,et al. Dual energy computed tomography for quantification of tissue urate deposits in tophaceous gout: help from modern physics in the management of an ancient disease[J]. Rheumatol Int,2012,32(1): 235-9.   
+[10]Karcaaltincaba M,Aktas A. Dual-energy CT revisited with multidetector CT: review of principles and clinical applications[J]. Diagn Interv Radiol,2011,17(3): 181-94.   
+[11]Choi HK,Al-Arfaj AM,Eftekhari A,et al. Dual energy computed tomography in tophaceous gout[J]. Ann Rheum Dis,2009,68(10): 1609-12.   
+[12]Nicolaou S, Yong-Hing CJ, Galea-Soler S,et al. Dual-energy CTas a potent ial new diagnost ic tool in the management of gout in the acute sett ing[J].AJR,2010,194(4): 1072-8.   
+[13] Sun C,Miao F,Wang XM,et al.An initial qualitative study of dual-energy CT in the knee ligaments[J]. Surg Radiol Anat, 2008, 30(5): 443-7.   
+[14]Ma DS,Peterson JJ, Garner HW,etal. Clinical utilityof dualenergy CT for evaluation of tophaceous gout[J]. Radiographics,2011, 31 (5): 1365-75.   
+[15]Glazebrook KN, Guimaraes LS, Murthy NS,et al. Identificat ion of intraarticular and periart icular uric acid crystals with dual-energy CT:initial evaluation[J]. Radiology,2011,261(2): 516-24.
+
+(编辑：孙昌朋)

@@ -1,0 +1,168 @@
+# 基于无人机影像探讨格氏考天然林林窗数量分布及其影响因素
+
+卢尧舜』²，何中声l，2\*，罗丽洁」’²，刘金福l’²，施友文，沈彩霞（1.福建农林大学林学院，福建福州350002；2.生态与资源统计福建省高校重点实验室，福建福州350002；3.三明莘口格氏栲自然保护区管理站，福建三明365000）
+
+摘要：探讨格氏栲(Castanopsis kawakamii)天然林林窗数量特征及其空间分布对预测森林种群动态变化及演替具有重要意义。采用无人机航拍获取格氏栲天然林正射影像图并结合野外调查，通过提取林窗特征参数和计算植被覆盖率探讨林窗空间分布及其影响因素。结果表明:(1）保护区内格氏考天然林植被覆盖率为 $7 5 . 5 3 \%$ ，部分地区出现一定面积裸露土地。(2）研究区林窗空隙率为 $2 . 4 0 \%$ ，密度为6.50个 $\cdot / \mathrm { h m } ^ { 2 }$ ，平均林窗面积为 $3 6 . 8 6 \mathrm { m } ^ { 2 }$ 。(3）研究区林窗数量随林窗面积增加呈负指数分布，以微、小和中型林窗为主，林窗面积 $1 0 0 \mathrm { m } ^ { 2 }$ 以上的数量较少。(4）低海拔林冠层覆盖度好，中海拔地区林窗个体数和平均林窗面积较大，高海拔地区林窗密度和空隙率相对较大。林窗主要分布在缓坡和斜坡上，其平均面积、密度和林窗空隙率也明显较高。西和南方位林窗数量较多，北、西北和东南方向林窗密度和空隙率相对较大。格氏栲天然林植被覆盖率较高，以微、小和中型林窗为主，地形因子通过改变林窗面积、林窗密度和林窗空隙率特征，驱动了格氏栲天然林林窗数量与空间分布格局。研究旨在为无人机在森林林窗应用提供理论依据。
+
+关键词：林窗，地形因子，无人机，植被覆盖率，格氏栲天然林中图分类号：Q948 文献标识码：A
+
+# Using uav images to explore the quantitative characteristics and influencing factors of forest gaps in Castanopsis kawakamii
+
+# natural forest
+
+LU Yaoshun $^ { 1 , 2 }$ ，HE Zhongsheng1,2\*，LUO Lijie1,2， LIU Jinfu $^ { 1 , 2 }$ ， SHI Youwen³， SHEN Caixia³ (1. College ofForestry, Fujian Agriculture and Forestry University,Fuzhou 35o02, China; 2. Key Laboratory of Fujian Universities for Ecology and Resource Statistics,Fuzhou 35o002, China; 3. Administration Station of Castanopsis kawakamii Nature Reserve in Xinkou of Sanming,
+
+Sanming 365000, Fujian, China)
+
+Abstract: It is great significance to explore the quantitative characteristics of C.kawakamii natural forest gaps and its spatial distribution.It could help us to predict the C. kawakami forest population dynamics and its successon. In this paper,the orthoimage of C. kawakami natural forest was obtained by using unmanned aerial vehicle (UAV) and field investigation. Then we extracted the characteristics factors for forest gaps and calculated the vegetation coverage to explore the forest gap spatial distribution and its influence factors.The study area is $1 5 4 . 3 5 ~ \mathrm { h m } ^ { 2 }$ ，dominated by $C$ ，kawakamii species,which accounted for $2 2 . 0 5 \%$ of total area in this reserve. The results showed that: (1） The vegetation coverage of the $C .$ kawakamii natural forest is $7 5 . 5 3 \%$ in this reserve. However,there exists a certain area of bare land in this reserve.(2) There are 1003 forest gaps, with a total area of $3 6 9 6 8 . 9 7 ~ \mathrm { m } ^ { 2 }$ ,and the average of forest gap area is $3 6 . 8 6 \mathrm { m } ^ { 2 }$ . The gap ratio and density of forest gaps are $2 . 4 0 \%$ and $6 . 5 0 \ \mathrm { i n d } / \mathrm { h m } ^ { 2 }$ .(3) The number of forest gaps has a negative exponential distribution with the increasing of gap area.This forest dominated by tiny,smalland medium gaps,and few gaps with area above $1 0 0 ~ \mathrm { m } ^ { 2 }$ .(4) Forest canopy coverage is good in the low elevation,and the number and average area is relative more in the middle elevation, while high elevation has higher gap density and gap ratio.Forest gaps mainly distributed on the gentle and incline slope,ant their average area,density,and ratio was relatively high.There are many forest gaps in the west and south direction,and the gap density and ratio are relatively large in the north，northwest，and southeast direction. Gap border trees through crown inclination growth promotes forest closure,thus the forest gap ratio is relatively low.The vegetation coverage of $C$ . kawakamii natural forest is relatively high,and dominated by tiny, small and medium area of forest gaps. Topographic factors drive the quantitative and spatial distribution of forest gaps by changing the gap area, density and ratio of $C$ ，kawakamii natural forest. The research aims to provide a theoretical basis for the application of UAV in forest gaps.
+
+Key words: Forest gaps, topographic factor, unmanned aerial vehicle (uav), vegetation coverage; Castanopsis kawakamii natural forest
+
+林窗是森林生态系统中最普遍、最重要的小尺度干扰，导致了微环境异质性与森林资源再分配，是森林生态系统的重要驱动力。林窗数量和面积是林窗重要特征(冯大兰等,2013)，反映了森林受干扰的频率(涂云博,2008)，并影响群落组成与变化，对森林生物多样性维持具有重要意义。然而，传统林窗采用样线法调查，受到森林面积及道路可进入性限制，不能有效解析林窗分布及覆盖率，导致林窗研究结果的随机性与不确定性，难以准确描述林窗生态学过程。
+
+为解析林窗在森林中分布格局，有必要借助新的技术手段获得林冠层和地理信息。其中，无人机遥感技术正逐步应用，如无人机搭载机载激光雷达(LiDAR)可用于林窗识别、面积及几何特征估测(刘峰等,2015)，高精度数字表面模型(Digital surface model，DSM)可准确描述林冠层变化。目前，无人机遥感技术可用于森林资源调查，如森林蓄积预测(冯家莉等,2013;Cheung et al.,2017)；森林景观三维重建(李祥等,2017;Gobeil et al.,2002)、植被覆盖动态变化监测(Setiawan et al.,2016)、林区规划等(代婷婷等,2018;Paneque-Galvez et al.,2014)。相比于传统卫星和航空遥感，无人机近地面遥感平台凭借高精度、低成本、应用周期短和受环境约束小等特点(Zhang et al.,2016)，弥补了卫星和航空遥感在林窗监测精度不足，可有效统计林窗面积并对分析其影响因素。为此，根据无人机航拍获取正射影像图去开展林窗识别、数量与面积统计、划分林窗类型，可为无人机在林窗应用提供依据。
+
+格氏栲（Castanopsis kawakamii），又名吊皮锥，为壳斗科高大珍稀乔木，目前多以零星分布散生在天然林中。福建三明格氏栲天然林，是我国目前现存保护较好、面积最大的一片格氏考天然林。然而，天然林中格氏栲种群年龄结构呈明显倒金字塔型，种群平均年龄在100a 以上(He etal.,2019)，过熟的种群由于受到自然和人为干扰导致林冠层出现破碎化(Buajan et al.,2018)，天然林林窗数量增多。前期研究发现林窗可有效促进格氏考幼苗更新(何中声,2012a)，而目前格氏栲天然林林窗数量及空间分布尚不明确，限制了采用林窗促进格氏栲幼苗更新技术的实施和推广。如何准确监测林窗数量特征、空间分布及其主要驱动因子，就成为促进格氏栲林窗更新的关键问题，对未来开展促进格氏考林窗更新及天然林保护具有重要意义。为此，采用无人机遥感技术对格氏栲天然林林窗进行监测，探讨天然林林窗数量组成及林窗特征，分析地形因子在林窗形成过程中的作用，为深入了解格氏考天然林的演替规律以及合理经营提供科学依据。
+
+# 1研究区概况
+
+福建省三明格氏栲天然林位于福建省中西部的三明市莘口镇小湖村 $( 2 6 ^ { \circ } 0 7 ^ { \prime } { \sim } 2 6 ^ { \circ } 1 0 ^ { \prime } \mathrm { N } .$ 、 $1 1 7 ^ { \circ } 2 4 ^ { \prime } \sim$ $1 1 7 ^ { \circ } 2 7 ^ { \prime } \mathrm { E } )$ ，地处武夷山脉东南部，海拔 $1 8 0 { \sim } 6 0 4 | \mathrm { m }$ ，属于中亚热带湿润季风性气候，年均气温 $1 9 . 5 \mathrm { ^ \circ C }$ ，年均降雨量为 $1 5 0 0 \mathrm { m m }$ ,年平均相对湿度 $7 9 \%$ ；土壤类型主要为铁质高活性强酸土(Heetal.,2012;He etal.,2019)。格氏栲天然林乔木层主要由格氏栲、米褚(C.carlesii)、马尾松(Pinus massoniana)、木荷(Schimasuperba)、杉木(Cunninghamia lanceolata)和桂北木姜子(Litsea subcoriacea)等，以格氏栲为主要优势树种(何中声等,2012b)，森林覆盖率高，形成了典型的亚热带森林群落特征。
+
+# 2研究方法
+
+# 2.1无人机航测
+
+2017年11月在福建三明格氏考自然保护区使用大疆精灵4无人机设置航线由南向北按往复直线飞行进行拍摄，拍摄高度距地面约 $5 0 0 \mathrm { m }$ ，拍摄时气象条件良好，影像不受气象因素影响。影像包括红(R)、绿(G)、蓝(B)3波段，空间分辨率为 $0 . 1 \mathrm { ~ m ~ }$ ，使用Pix4D mapper无人机航测数据处理系统合成正射影像图，并输出数字表面模型(DSM)。航测共有影像86张，通过导入多个控制点对照片进行几何校正。为减少针叶树种对林窗分布造成影响并结合地面踏查，选取天然林中格氏栲集中分布的区域，面积为 $1 5 4 . 3 5 \mathrm { h m } ^ { 2 }$ ，占保护区总面积的 $2 2 . 0 5 \%$ (图1)。
+
+![](images/5f6e4261829ff0ae2032dc43bf0709a4379506bcc24568b8ebafd2e54b1825c5.jpg)  
+图1格氏考天然林无人机正射影像 Figl.Uavorthophotoimageof C.kawakamii natural forest
+
+![](images/74c3d4e989509dc9b3236d6a1e32a2c56ee8da13b5f61f022b04bef3a034efd7.jpg)  
+图2林窗分布图  
+Fig. 2 Distribution of forest gaps
+
+# 2.2影像处理
+
+# 2.2.1ArcGIS10.2对影像处理
+
+格氏栲是亚热带常绿阔叶树种，树冠呈半球形(宋永昌,2004)，树冠具有较稳定色彩且容易识别。将校正后栅格图导入ArcGIS 10.2，利用光照、树种间不同冠形及颜色色差，采用人眼识别手动将林窗沿边缘勾勒出来，避免研究区内道路、建筑等因素对林窗判读造成误差，绘出林窗分布图(图2)。林窗海拔根据1：1万的DEM图获取。结合格氏栲林自身特点以及近年来研究，将格氏考天然林林窗定义为面积 $5 \mathrm { m } ^ { 2 }$ 以上的不连续性区域(Schliemann& Bockheim,2011；吴庆贵等,2016)，且冠层高度低于成熟林林冠层 $( 2 0 ~ \mathrm { m } )$ 。研究区域中格氏栲天然林为过成熟林，冠层高度均在 $2 0 \mathrm { m }$ 以上。结合格氏考天然林林窗面积大小及分布特点，将林窗面积在 $5 { \sim } 2 4 ~ \mathrm { m } ^ { 2 }$ 划分为微林窗， $2 5 { \sim } 4 9 ~ \mathrm { m } ^ { 2 }$ 为小林窗， $5 0 { \sim } 9 9 ~ \mathrm { m } ^ { 2 }$ 为中林窗， $1 0 0 { \sim } 1 9 9 ~ \mathrm { m } ^ { 2 }$ 为大林窗， $2 0 0 { \sim } 3 9 9 ~ \mathrm { m } ^ { 2 }$ 为特大林窗，面积大于 $4 0 0 \mathrm { m } ^ { 2 }$ 以上为超大林窗。
+
+# 2.2.2植被覆盖率计算
+
+UAV-HiRAP3.0是一款以决策树算法为基础和原理的无人机影像处理软件。决策树算法能够根据对象的多种特征，自动从海量数据中筛选、挖掘数据，在影像识别、分类领域广泛应用(韩东等,2018)。由公式(I)计算出格氏栲植被覆盖率:
+
+$$
+F V C { = } ( P _ { i } ) / P { \times } 1 0 0 \%
+$$
+
+式中，FVC为格氏栲覆盖度， $P _ { i }$ 为植被分类图中格氏考像素的个数， $P$ 为植被分类图中像素总数中 $\scriptstyle \vdots =$ 木本/草本)计算过程由UAV-HiRAP3.0软件自动完成。
+
+(1）使用图像编辑软件Photoshop采集正射影像中的格氏考自然保护区植被像元和其它地物类型的样本，根据格氏考自然保护区植被样本与其它地物类型样本训练集，建立的训练集可明显区分植被覆盖区与建筑、道路、水库区域等。
+
+(2)UAV-HiRAP3.0软件将根据样本训练集建立颜色特征与分类类别的二叉树分类模型。
+
+(3）利用生成的决策树模型，对格氏栲样地的正射图进行识别分类，基于分类后的植被图，利用公式（I）分别计算森林植被覆盖度。
+
+# 2.3林窗特征参数
+
+选取林窗面积、林窗平均面积、林窗空隙率和林窗密度4个林窗特征参数。林窗面积，采用ArcGIS10.2在影像上勾勒的林窗不规则多边形的面积。林窗平均面积，指林窗总面积与林窗数量的比值。林窗空隙率，指林窗总面积与实验区域总面积的比值，表示森林受干扰的强度。林窗密度，指单位面积(1$\mathrm { h m } ^ { 2 } )$ 内林窗数量，反映林窗的变化速度(沈泽昊等,2001)。
+
+由公式(II)计算出格氏考自然保护区林窗密度:
+
+$$
+\scriptstyle G D = N / A \quad \scriptstyle ( { \mathrm { ~ I I ~ } } )
+$$
+
+式中，GD 为林窗密度(gap density)， $N$ 为林窗数量， $A$ 为面积(area)单位为 $\mathrm { h m } ^ { 2 }$ 。
+
+由公式(III)计算出格氏考自然保护区林窗空隙率:
+
+$$
+G F { = } A i / A \qquad ( \mathrm { I I I } )
+$$
+
+式中，GF为林窗空隙率(gap fraction)， $\mathbf { \nabla } _ { A i }$ 为林窗总面积， $A$ 实验区域总面积。
+
+林窗地形参数提取以保护区1/10000 地形图为基础，扫描处理后形成数字地图，提取等高线并应用最小曲面法对等高线进行转化得到DEM图。在此基础上，应用坡度和坡向类型提取法得到研究区坡度和坡向属性，并对提取的地形属性进行统计分析，得出保护区海拔、地形和坡向的特征值。
+
+# 2.4地形因子对林窗分布的影响
+
+为探究地形因子对格氏栲天然林林窗的形成及其分布格局的影响，依据保护区DEM图，将研究区划分为6个海拔梯度：海拔梯度 $\mathrm { ~ I ~ } ( 1 5 0 { - } 2 0 0 \mathrm { m } )$ 、海拔梯度 $\mathrm { I I } \left( 2 0 0 { - } 2 5 0 \mathrm { m } \right)$ 、海拔梯度II $( 2 5 0 - 3 0 0 \mathrm { m } )$ 、海拔梯度 $\mathrm { I V } ( 3 0 0 { - } 3 5 0 \ \mathrm { m } )$ 、海拔梯度 $\mathrm { V } ( 3 5 0 – 4 0 0 \mathrm { m } )$ 、海拔梯度VI(400-450 m);4个坡度梯度：平坡(0-5)、缓坡 $( 6 - 1 5 ^ { \circ } )$ 、斜坡 $( 1 6 - 2 5 ^ { \circ } )$ 和陡坡 $( 2 6 - 3 5 ^ { \circ } )$ ；8个坡向方位：北、东北、东、东南、南、西南、西和西北方向。采用三因素方差分析探讨地形因子单独及其交互作用和林窗面积的影响，并根据地形因子和林窗面积大小进行主成分分析，分析地形因子对格氏考天然林林窗的形成的作用，数据分析采用R3.6.1的FactoMineR包完成。
+
+# 3结果与分析
+
+# 3.1格氏考自然保护区植被覆盖率
+
+根据林窗分布数量(图2)遵循各典型植被覆盖面积、种类与研究区总面积之间的比例，借助Photoshop 7.0选取了32块具有明显特征的格氏考保护区典型植被样本，以及43块其他地物特征(林窗、建筑、水库、水泥地、道路等)，根据UAV-HiRAP3.0在线软件自动生成的格氏栲植被覆盖率(图 5)。采用目视解译和机器分类相对比的方法进行了验证和评估，格氏考自然保护区植被覆盖度为 $7 5 . 5 3 \%$ 总体精度为 0.77,Kappa 系数为 0.64,根据 Kappa 系数判断标准达到高度一致性(Paneque-Galvez et al,2014)，结果可信。
+
+![](images/27a50805933553c8fe50189d1fd451e7533e83309b873a6bfefe5eb5a2636564.jpg)  
+图3格氏栲天然林植被覆盖率
+
+Fig.3 Vegetation coverage of $C$ kawakamii natural forest
+
+# 3.2格氏考天然林林窗面积大小与分布特征
+
+在格氏栲天然林 $1 5 4 . 3 5 \mathrm { h m } ^ { 2 }$ 面积内共有林窗1003个(图2)，总面积 $3 6 9 6 8 . 9 7 \mathrm { m } ^ { 2 }$ ,平均面积 $3 6 . 8 6 \mathrm { m } ^ { 2 }$ 最大为 $5 7 1 . 3 9 \mathrm { m } ^ { 2 }$ ，最小 $5 . 0 0 \mathrm { m } ^ { 2 }$ ；林窗空隙率为 $2 . 4 0 \%$ ，密度为6.50个/ $\scriptstyle \mathrm { h m } ^ { 2 }$ 。将格氏栲天然林林窗面积划分为6类(表1)，发现样地内多为面积较小的林窗，其中小于 $5 0 ~ \mathrm { m } ^ { 2 }$ 的林窗数达801个，占林窗总数 $7 9 . 8 6 \%$ ，总面积为 $1 4 6 3 4 . 9 7 ~ \mathrm { m } ^ { 2 }$ ；面积较大的林窗出现频率较小，大于 $1 0 0 \mathrm { m } ^ { 2 }$ 的林窗仅74个，占林窗总数 $7 . 3 8 \%$ ，面积为 $1 3 6 9 7 . 1 2 \mathrm { m } ^ { 2 }$ ；其中大于 $2 0 0 \mathrm { m } ^ { 2 }$ 的特大林窗数量仅占林窗总数 $1 . 8 0 \%$ 。该区域格氏栲天然林林窗个体数呈负指数分布 $( y = 1 6 6 8 . 3 e ^ { - 0 . 9 4 2 x }$ ， $R ^ { 2 } { = } 0 . 9 8 )$ ，表现出以中小型为主，小林窗多，大林窗少的特点(表1)。
+
+表1格氏考天然林林窗分布特征  
+Tablel The characteristics of forest gaps distribution of C. kawakamii natural forest   
+
+<html><body><table><tr><td>林窗面积 Gap area (m²)</td><td>林窗数量</td><td>数量比例</td><td>面积比例 Area percent (%)</td><td>林窗类型</td></tr><tr><td>5-25</td><td>Gap no. (ind) 603</td><td>No. percent (%) 60.12%</td><td>20.76%</td><td>Gap types 微林窗</td></tr><tr><td>25-50</td><td>198</td><td>19.74%</td><td>18.83%</td><td>小林窗</td></tr><tr><td>50-100</td><td>128</td><td>12.76%</td><td>23.36%</td><td>中林窗</td></tr><tr><td>100-200</td><td>56</td><td>5.58%</td><td>20.52%</td><td>大林窗</td></tr><tr><td>200-400</td><td>13</td><td>1.30%</td><td>9.68%</td><td>特大林窗</td></tr><tr><td>>400</td><td>5</td><td>0.50%</td><td>6.85%</td><td>超大林窗</td></tr><tr><td>合计Total</td><td>1003</td><td>100.00%</td><td>100.00%</td><td></td></tr></table></body></html>
+
+# 3.3地形因子对格氏考林窗分布格局的影响
+
+地形因子对林窗的形成及其分布格局的影响见表2。在低海拔 $1 5 0 { - } 2 0 0 ~ \mathrm { m }$ 时林窗数量、总面积、平均面积、密度和空隙率最小，说明该海拔地区森林相对比较连续，冠层覆盖度较高；高海拔地区林窗数量和面积较少，但由于高海拔区域面积较少，总体上林窗密度最大，空隙率也相对较高；中海拔地区 $2 0 0 { - } 3 5 0 \ \mathrm { m }$ 林窗数量多，总面积和平均面积均较大。林窗主要分布在缓坡和斜坡上，其数量和面积分别占林窗总数和面积的 $91 . 7 \%$ 和 $9 4 . 4 \%$ ，平均面积、密度和林窗空隙率也明显大于平坡和陡坡；陡坡林窗个体数、密度和空隙率均最少。不同坡向林窗分布主要以西和南方位为主，其数量和面积分别占林窗总数和面积的 $8 3 . 9 \%$ 和 $8 7 . 6 \%$ ；东和东南方向林窗平均面积较小，南方向林窗平均面积较大；北、西北和东南方向林窗密度相对较大，均在10 个/ $\mathrm { h m } ^ { 2 }$ 以上；北方向林窗空隙率较高，东方向林窗空隙率较低。地形因子和林窗面积的三因素方差分析表明单独效应和交互效应对林窗面积的影响不显著 $( p { > } 0 . 0 5 )$ 。同时，林窗面积和坡度、坡向及海拔相关性不显著。在此基础上，根据地形因子和林窗面积大小进行主成分分析，坡度和坡向因子相互关系紧密，不同面积大小林窗主成分结果基本重合，表明地形因子的综合作用影响了格氏考天然林林窗的形成及其特征。
+
+表2地形因子对林窗分布格局的影响  
+Table 2 The characteristic of forest gaps distribution in different elevation gradients   
+
+<html><body><table><tr><td colspan="2">因子 Factor</td><td>数量 No.</td><td>总面积 Total area (hm2)</td><td>平均面积 Average area (m2)</td><td>密度 Density (ind·hm-2)</td><td>空隙率 Gap ratio (%)</td></tr><tr><td rowspan="7">海拔 Elevation</td><td>海拔I(150-200 m) Elevation I(150-200 m)</td><td>50</td><td>0.15</td><td>29.19</td><td>2.21</td><td>0.66%</td></tr><tr><td>海拔II(200-250 m) Elevation II(200-250 m)</td><td>379</td><td>1.41</td><td>37.12</td><td>8.27</td><td>3.08%</td></tr><tr><td>海拔III(250-300 m) Elevation III(250-300 m)</td><td>186</td><td>0.7</td><td>37.6</td><td>5.33</td><td>2.00%</td></tr><tr><td>海拔IV(300-350 m) Elevation IV(300-350 m)</td><td>249</td><td>1.02</td><td>41.12</td><td>8.14</td><td>3.33%</td></tr><tr><td>海拔V(350-400 m) Elevation V(350-400 m)</td><td>77</td><td>0.23</td><td>29.63</td><td>5.31</td><td>1.59%</td></tr><tr><td>海拔V I(400-450 m) Elevation V I(400-450 m)</td><td>62</td><td>0.19</td><td>31.05</td><td>10.44</td><td>3.20%</td></tr><tr><td>平坡(0-5°) Straight slope(0-5°)</td><td>69</td><td>0.17</td><td>24.94</td><td>5.29</td><td>1.32%</td></tr><tr><td rowspan="2">坡度 Slope</td><td>缓坡(6-15o) Gentle slope (6-15°)</td><td>549</td><td>1.97</td><td>35.81</td><td>6.43</td><td>2.30%</td></tr><tr><td>斜坡(16-25) Incline slope (16-25°)</td><td>371</td><td>1.52</td><td>41.06</td><td>7.11</td><td>2.92%</td></tr><tr><td rowspan="8">坡向 Position</td><td>陡坡(26-35o) Steep slope (26-35°)</td><td>14</td><td>0.04</td><td>25.39</td><td>3.70</td><td>0.94%</td></tr><tr><td>北 North</td><td>28</td><td>0.10</td><td>35.90</td><td>12.44</td><td>4.47%</td></tr><tr><td>东北 Northeast</td><td>8</td><td>0.03</td><td>32.36</td><td>7.41</td><td>2.40%</td></tr><tr><td>东East</td><td>40</td><td>0.09</td><td>23.54</td><td>5.63</td><td>1.32%</td></tr><tr><td>东南 Southeast</td><td>85</td><td>0.23</td><td>27.26</td><td>11.81</td><td>3.22%</td></tr><tr><td>南 South</td><td>204</td><td>0.94</td><td>45.95</td><td>6.63</td><td>3.05%</td></tr><tr><td>西南 Southwest</td><td>302</td><td>1.20</td><td>39.80</td><td>4.96</td><td>1.97%</td></tr><tr><td>西West</td><td>185</td><td>0.63</td><td>33.79</td><td>5.89</td><td>1.99%</td></tr><tr><td>西北 Northwest</td><td>151</td><td>0.48</td><td>31.80</td><td>11.11</td><td>3.53%</td></tr></table></body></html>
+
+# 4小结与讨论
+
+# 4.1无人机精确监测与格氏考自然保护区植被覆盖率
+
+目前，福建三明格氏栲天然林面临林冠层破碎化和林窗数量多的问题，迫切需要准确评估天然林林窗数量与空间分布，并以此为根据加强对格氏栲种群的更新与保护。与人工调查相比，小型无人机监测可以使得森林资源的动态调查更具灵活性和经济性(Torresan et al.,2017)。格氏栲天然林的植被覆盖率为 $7 5 . 5 3 \%$ ，整体植被覆盖率较高。正射影像中部分地区出现一定面积的裸露地，除去道路、建筑和水库等区域，在于:(1)格氏考天然林存在少量面积在 $2 0 0 \mathrm { m } ^ { 2 }$ 以上的特大林窗，从图像分类看类似于裸地。(2)格氏栲自然保护区部分区域为人工培育的杉木幼龄林，其针形树冠导致影像上存在星空状分布的裸露地面。两种情况可能导致影像判读的格氏栲天然林植被覆盖率低于实际情况，说明格氏栲天然林林相整齐，具有典型的中亚热带常绿阔叶林外貌特征。
+
+# 4.2格氏考天然林林窗分布基本特征
+
+格氏栲天然林为典型亚热带常绿阔叶林，林窗以微型、小中型林窗为主，大林窗数量较少，其中面积 $1 0 0 \mathrm { m } ^ { 2 }$ 以上的林窗占林窗总数的 $7 . 3 8 \%$ ，而微型、小中型林窗的数量则为 $9 2 . 6 2 \%$ ，林窗数量与面积大小呈现明显的负指数函数关系。根据巴拿马热带雨林研究结果(Hubbelletal.,1999)， $5 0 \mathrm { h m } ^ { 2 }$ 的样地内林窗的数量与面积大小也呈负指数函数关系，并与广东鼎湖山( $2 0 \mathrm { h m } ^ { 2 }$ 样地)和浙江天童山 $( 2 0 \mathrm { h m } ^ { 2 }$ 样地)的分布规律一致(隋丹丹等,2017；张志国,2012)。鼎湖山林窗空隙率为 $1 3 . 7 2 \%$ ，天童山的林窗空隙率为 $1 3 . 0 6 \%$ (隋丹丹等,2017；张志国,2012)，格氏栲天然林的林窗空隙率明显偏小，仅为 $2 . 4 0 \%$ ，可能有以下原因：(1)研究选取的是以格氏考为主的阔叶林，种群已成熟，阔叶树呈圆形或椭圆形树冠，林木个体之间的间隙较小，植被覆盖率较高，林窗空隙率较低；(2)林窗测量方法不同导致林窗面积测算结果有较大差别。基于地面半球面影像法可以实际测量林窗面积(胡理乐等,2010)，但测量耗时效率较低；而研究基于无人机遥感平台测量林冠层林窗面积，精度较高且计算效率高，有助于了解森林林窗总面积；(3)林木个体对光照、空间资源利用非常充分。亚热带地区的气候和环境非常适合格氏考等植被生长，微林窗和小林窗中边界木通过偏冠生长导致森林进一步郁闭，调查发现天然林树木偏冠现象明显(何中声等,2011)，导致森林覆盖率大，森林空隙率相对较小。
+
+# 4.3海拔梯度对林窗分布的影响及其规律
+
+海拔、坡度和坡向是影响林窗数量与大小分布的主要因子。低海拔地区林窗的个体数、平均面积、密度和空隙率均较小，林冠层覆盖度好；中海拔地区林窗个体数和平均林窗面积较大；高海拔地区林窗密度和空隙率相对较大(表2)。林窗主要分布在缓坡和斜坡上，平均面积、密度和林窗空隙率也明显大于平坡和陡坡。林窗分布主要以西和南方位为主，其数量和面积均较高；北、西北和东南方向林窗密度相对较大，林窗空隙率也较高，东方向林窗空隙率较低。地带性植被的林窗特征是干扰、地形及森林结构相互作用的结果(隋丹丹等,2017)。小尺度上，地形因子变异导致温度、降水、光照等环境因素变化(彭闪江等,2003;Deng et al.,2013;He etal.,2015)，这些环境因素与森林群落相互作用直接影响树木的分布和林窗的形成(Sinha et al.,2018; Zebarth et al.,2002；朱霖等,2012)。
+
+研究基于无人机正射影像探讨格氏考天然林林窗数量特征、空间分布及其影响因素，而林窗数量分布与特征受多种因素影响，如林窗形成原因、地形及植被分布，有待于根据机载激光雷达数据提取相关因子进一步分析。此外，结合格氏考开花季节无人机影像采用神经网络模型对格氏栲种群进行判别和统计，从而对其分布区进行适宜性评价，也有待于未来进一步研究。
+
+# 参考文献
+
+BUAJAN S,LIU JF,HE ZS,et al.,2018.Effect of gap sizes on specific leaf area and chlorophyllcontents at the Castanopsis kawakamii natural reserve forest, China[J]. Forests, 9(11): 682,10.3390/f9110682.   
+CHEUNG K,KATOHM, HORISAWA M.2017.Forest resource measurements by combination of terrestrial laser scanning and drone use [J]. ISPRS JPhotogramm, XLI-3/W3: 27-31.   
+DAI TT,MA J, XU YN, 2018.Application of unmanned aerial vehicle (UAV) image automatic stitching in landscape planning based on Agisoft Photo Scan[J]. J Nanjing For Univ (Nat Sci Ed), 42(4): 165-170. [代婷婷，马骏，徐雁南,2018．基于Agisoft PhotoScan的无人机影像自动拼接在风景园林规划中的 应用[J]．南京林业大学学报(自然科学版),42(4):165-170.]   
+DENG Z,CHEN X,XIE Y,et al.， 2013. Plasticity of the clonal growth in the wetland sedge Carex brevicuspis along a small-scale elevation gradient in Dongting lake wetlands, China[J]. Ann Bot Fenn,
+
+50(3): 151-159.
+
+FENG DL, ZHANG LN, HUANG ZH, et al.,2013.Efects of gap size on the seed germination and seedling growth of Castanopsis carlesi and Castanopsis fargesi[J]. JNorthwest A & F Univ (Nat Sci Ed), 41(6):   
+61-66.[冯大兰，张丽楠，黄仲华，等,2013．林窗大小对小叶栲和栲树种子萌发及幼苗生长的影响 [J]．西北农林科技大学学报(自然科学版),41(6):61-66.] FENG JL,LIU K, ZHU YH, et al., 2015. Application of unmanned aerial vehicles to mangrove resources monitoring[J].Trop Geogr,35(1):35-42.[冯家莉，刘凯，朱远辉，等,2015．无人机遥感在红树林资 源调查中的应用[J]．热带地理,35(1):35-42.] GOBEIL J, VILLARD M. 2002.Permeability of Three boreal forest landscape types to bird movements as determined from experimental translocations[J]. Oikos, 98(3): 447-458. HAN D, WANG HZ, ZHENG BY, et al.， 2018. Vegetation type classification and fractional vegetation coverage estimation for an open elm (Ulmus pumila) woodland ecosystem during a growing season based on an unmanned aerial vehicle platform coupled with decision tree algorithms[J]. Acta Ecol Sin,   
+38(18):6655-6663.[韩东，王浩舟，郑邦友，等,2018.基于无人机和决策树算法的榆树疏林草原植 被类型划分和覆盖度生长季动态估计[J].生态学报,38(18):6655-6663.] HE ZS,2012a. Study on the Micro-environment Characteristics and Seedlings Dynamic Regeneration in Castanopsis kawakamii Natural Forest Gaps[D]. Fuzhou: Fujian Agriculture and Forestry University. [何中声,2012a．格氏考天然林林窗微环境特征及幼苗更新动态研究[D]．福州：福建农林大学.] HE ZS,LIU JF,SUSJ,etal.,2015. Effects of forest gaps on soil properties in Castanopsis kawakamii nature forest[J]. PLoS ONE,10(10): e141203. He ZS,Liu JF, Wu CZ, et al.,2012. Effects of forest gaps on some microclimate variables in Castanopsis kawakamii natural forest[J]. J Mt Sci, 9(5): 706-714. HE ZS,LIU JF, ZHENG SQ,et al.,2011. Study on the characteristics of gap border trees in Castanopsis kawakamii natural forest[J].JFujian For Coll,31(3):207-211.[何中声，刘金福，郑世群，等,2011.格 氏栲天然林林窗边界木特征研究[J]．福建林学院学报,31(3)：207-211.] HE ZS,LIU JF, ZHENG SQ,et al.,2012b. Effects of forest gap disturbance on plant species diversity and stability in regeneration layers of Castanopsis kawakamii natural forests[J]. Plant Sci J，2004(4):   
+435-448．[何中声，刘金福，郑世群,等,2012b．林窗对格氏栲天然林更新层物种多样性和稳定性 的影响[J]．植物科学学报,30(02):133-140.] He ZS,Wang LJ,Jiang L,et al.,2O19.Effect of microenvironment on species distribution patrns in the regeneration layer of forest gaps and Non-gaps in a subtropical natural forest, China[J]. Forests,10(2):   
+90,10.3390/f10020090. HU LY,LI JS, WU XP, et al., 2010. Rewiews on methods of measuring geometric characteristics of forest gaps involving gap size, gap shape, and the height of canopy trees surrounding the gap[J]. Acta Ecol Sin,   
+30(7):1911-1919.[胡理乐，李俊生，吴晓莆，等,2010．林窗几何特征的测定方法[J]．生态学报,   
+30(7): 1911-1919.] HUBBELL SP,FOSTER RB, O'BRIEN ST, et al.,1999. Light-Gap disturbances, recruitment limitation,and tree diversity in a neotropical forest[J]. Science, 283(5401): 554-557. LI X, ZHENG YW, DAI CY, et al., 2017. Research progress of forest information acquisition based on Unmanned Aerial Vehicle (UAV) Image[J].World For Res,30(4): 41-46.[李祥，郑淯文，戴楚彦，等,   
+2017．基于无人机影像的森林信息获取研究进展[J]．世界林业研究,30(4):41-46. LIU F,TAN C, WANG H, et al., 2015. Characterization of mid-subtropical evergreen broad-leaved forest gap based on light detection and ranging (LiDAR)[J]. Chin JAppl Ecol, 26(12): 3611-3618.[刘峰，谭畅, 王红，等,2015．基于机载激光雷达的中亚热带常绿阔叶林林窗特征[J]．应用生态学报,26(12): 3611-3618.   
+PANEQUE-GALVEZ J, MCCALL M, NAPOLETANO B,et al., 2014. Small drones for community-based forest monitoring: An assessment of their feasibility and potential in tropical areas[J]. Forests,5(6): 1481-1507.   
+PENG SJ, HUANG ZL,XU GL,et al.,2003.Effects of habitat heterogeneity on forest community diversity in Dinghushan Biosphere Reserve[J].Guihaia,(5):391-398.[彭闪江，黄忠良，徐国良，等,2003．生 境异质性对鼎湖山植物群落多样性的影响[J]．广西植物,(5):391-398.]   
+SCHLIEMANN, SA,BOCKHEIM, JG. 2011. Methods for studying treefall gaps: A review[J]. Forest Ecol Manage,261,1143-1151.   
+SETIAWAN Y, KUSTIYO K, DARMAWAN A. 2016.A simple method for developing near real-time nationwide forest monitoring for Indonesia using MODIS near- and shortwave infrared bands[J]. Remote Sens Lett, 7(4): 318-327.   
+SHEN ZH,LI DX, WANG GF,2001. Studies on the gap disturbance of the mountain mixed forests of evergreen and deciduous broad-leaved species at MT. Dalaoling in the Three Gorges I. the essential characteristics of the gaps[J]. Chin JPlant Ecol,(3): 276-282.[沈泽昊，李道兴，王功芳,2001．三峡大 老岭山地常绿落叶阔叶混交林林隙干扰研究I.林隙基本特征[J]．植物生态学报,(3):276-282.]   
+SINHA S,BADOLA H K, CHHETRI B,et al. 2018. Effect of altitude and climate in shaping the forest compositions of Singalila National Park in Khangchendzonga Landscape, Eastern Himalaya, India[J]. J Asia-Pacific Biodivers,11(2): 267-275.   
+SONG YC,2004. Tentative classification scheme of evergreen broad-leaved forests of China[J]. Chin JPlant Ecol,(4):435-448.[宋永昌,2004.中国常绿阔叶林分类试行方案[J]．植物生态学报,(4):435-448.]   
+SUI DD,WANG Y,LIAN JY, et al.， 2017. Gap distribution paterns in the south subtropical evergreen broad-leaved forest of Dinghushan[J].Biodivers,25(4):382-392.[隋丹丹，王悦，练琚愉，等,2017. 鼎湖山南亚热带常绿阔叶林林窗分布格局及其成因[J].生物多样性,25(4):382-392.]   
+TORRESAN C, BERTON A, CAROTENUTO F,et al.,2017. Forestry applications of UAVs in Europe: A review[J]. Int JRemote Sens, 38(8-10): 2427-2447.   
+TU YB, 2008. Study on the characteristics of gap and its influence on community regeneration in Taibai Redwood Forest[D].Shaanxi Normal Univ.[涂云博,2008．太白红杉林林窗特征及其对群落更新的 影响研究[D]．陕西师范大学.]   
+WU QG,TAN B, YANG WQ, et al.,2016.Efects of gap sizes on the lignin degradation of foliar litter in a subalpine forest[J].Acta Ecol Sin,36(18): 5701-5711.[吴庆贵，谭波，杨万勤，等,2016．亚高山森林 林窗大小对凋落叶木质素降解的影响[J]．生态学报,36(18):5701-5711.]   
+ZEBARTH B J, REES H, WALSH J, et al., 2002. Soil variation within a hummocky podzolic landscape under intensive potato production[J]. Geoderma, 110(1): 19-33.   
+ZHANG J,HU J,LIAN J, et al.,2016. Seeing the forest from drones: Testing the potential of lightweight drones as a tool for long-term forest monitoring[J]. Biol Conserv,198: 60-69.   
+ZHNG ZG,2012. A study on disturbance and the tree species diversities of gaps in an evergreen broad-leaved forest in Tiantong, Zhejiang Province[J].East China Normal University.[张志国,2012.天童常绿阔叶 林的林窗干扰特征及物种多样性研究[D]．华东师范大学.]   
+ZHU L, XU H, ZUO Z, et al.,2012. Analysis of the factors impacting on gap regeneration of Pinus densata in Shangri-la Area[J].JSWFor Univ,32(2): 57-61.[朱霖，胥辉，左政，等,2012．香格里拉高山松林 窗更新影响因子分析[J]．西南林业大学学报,32(2):57-61.]

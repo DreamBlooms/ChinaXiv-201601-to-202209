@@ -1,0 +1,432 @@
+[
+    {
+        "type": "text",
+        "text": "基于降维Gabor特征和决策融合的高光谱图像分类",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨秀杰'，高丽²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.重庆电子工程职业学院，数字媒体学院，重庆 401331;2.西南大学 学生工作处，重庆 400715)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对传统高光谱图像分类算法忽略空间特征这个问题，提出一种基于Gabor特征和决策融合的高光谱图像分类算法。首先，通过系数相关矩阵智能地对相邻和高相关光谱带进行分组；接着，在PCA投影子空间中提取每组中的 Gabor 特征，以量化局部方向和尺度特征；然后，结合保留非负矩阵分解的局部性以减少这些特征子空间的维度；最后，对降维特征进行高斯混合模型分类，并使用对数分类池决策融合规则将分类结果合并。实验结果表明，所提算法优于传统和现有的共计8种先进的分类算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高光谱图像；分类；Gabor特征；高斯混合模型；决策融合；PCA投影 中图分类号：TP751 doi:10.19734/j.issn.1001-3695.2018.09.0670 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hyperspectral image classification based on dimensionality reduction Gabor feature and decision Fusion ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yang Xiujiel, Gao Li² (1.SchoolOFDigital Media,ChongqingCollgeofElectronic Engineering,Chongqing401331,China;2.DeptofStudent Work,Southwest University,Chongqing 400715,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aimingatthe problemof ignoringspatial features in traditional hyperspectralimage classificationalgorithm,this paper proposed ahyperspectral image clasification algorithm basedon dimensionality reduction Gabor feature anddecision fusion.Firstly,theadjacentandhypercorrelatedspectralbandsare intelligently groupedbycoefficientcorelationmatrix. Then,Gabor features in each group are extracted fromthePCA projection subspace toquantify the local direction and scale features.Then,the dimensionalityofthese feature subspaces is reduced bypreservingthe localityof thedecompositionof nonegative matrices.Finally，the reduced dimension features are clasified by Gaussian mixture model，and the classificationresults aremerged bydecision fusionrules.Experimentalresultsshowthatthe proposed algorithmis superior to eight kinds of traditional and existing advanced classification algorithms. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: hyperspectral image; classication; Gabor features; Gaussmixed model; decision Fusion; PCA projection ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高光谱图像（hyperspectralimage,HIS）为每个像素记录数百个光谱带，提供高光谱分辨率和增强的稳健图像分类潜力[1.2]。然而，高维度也降低了统计分类器的泛化能力，如高斯类条件统计的最大似然估计分类器[3]。通常需要使用降维算法将HSI数据投影到较低维空间，包括传统主成分分析[4],Fisher线性判别分析LDA[5]以及这些方法的许多变体。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在文献[6]提出一种基于高斯混合模型和马尔可夫随机场的高光谱图像分类方法，将局部保持非负矩阵分解以及局部Fisher判别分析部署为预处理，以减少高斯混合模型分类器的数据维数，同时保留数据内的多模态结构。文献[7]提出一种基于核的基于RBF核的SVM高光谱图像分类特征选择方法，可以根据计算系数的大小来实现特征小子集和特征排序这两个属性。由于SVM对 HSI 维数不敏感，而Markov随机场(Markovrandomfield,MRF)可以捕获复杂的空间背景信息，SVM-MRF已经用于HIS的分类。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "另外还有其他关于HIS分类的方法，如局部二值模式、稀疏表示和机器学习。文献[8]中采用局部二值模式来提取局部图像特征，并此采用特征级融合和决策级融合局部二值模式特征，最后采用极限学习机作为分类器。文献[9]提出一种非局部加权联合稀疏表示分类方法，分类性能优于其他基于稀疏度的算法和经典SVM方法。文献[10]利用深度学习特征的稀疏表示进行遥感图像分类，使用卷积神经网络从高水平的图像数据中提取深度特征，使用稀疏表示分类框架特征分类。文献[11]使用叠加稀疏自动编码器的空间特征学习用于高光谱图像分类，能够从未标记数据中自适应地学习合适的特征表示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在文献[12]中，已经证明在PCA投影子空间中提取的二维Gabor特征对于HSI分类是有效的。在文献[13]中，提出了两种基于Gabor特征和导数特征的融合分类算法，以实现HSI分类的优越性能。文献[14]提出一种基于三维Gabor 特征的协同表示方法用于HSI分类，该方法能够降低分类方法的计算复杂度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文研究了现有高光谱图像分类方法，考虑到原始光谱特征和空间特征，提出一种基于Gabor特征和决策融合的高光谱图像分类算法，该方法可以将相关光谱进行智能分组，在PCA投影子空间中提取每组中的Gabor特征，并对空间特征进行降维，最后使用决策融合规则对高斯混合模型分类器的分类结果进行合并，最终实现高光谱图像的分类。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 本文分类方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相关系数矩阵用于对光谱带进行分组，然后PCA投影子空间中的Gabor纹理用于提取空间光谱特征。在特征提取之后，采用局部保持非负矩阵分解(localitypreservingnon-negative matrix factorization,LPNMF)用于减少特征子空间的维度。随后应用高斯混合模型(Gaussian mixture model,GMM)分类器以获得本地标签。最后应用对数意见池(logarithmicopinionpool,LOGP)决策融合方法合并所有分类结果。分类融合系统被设计用于高光谱图像分类任务，具体流程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c56144e10e4d1f6f6e1cd323aaf5913373908ad5758fce86d6c21af1f1fb419.jpg",
+        "img_caption": [
+            "图1本文分类方法流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1波段选择 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高光谱图像被相关系数矩阵(correlationcoefcientmatrix,CCM)划分为连续空间。假设 $f ( x , y )$ 表示原始的高光谱图像，而 $g ( x , y )$ 表示地面真实图像，互相关函数定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh ( l , k ) = \\frac { \\displaystyle \\sum _ { x = 1 } ^ { M } \\sum _ { y = 1 } ^ { N } \\big [ f \\left( x + l , y + k \\right) - u _ { f } \\big ] \\big [ g \\left( x , y \\right) - u _ { g } \\big ] } { \\sqrt { \\displaystyle \\sum _ { x = 1 } ^ { M } \\sum _ { y = 1 } ^ { N } \\big [ f \\left( x , y \\right) - u _ { f } \\big ] ^ { 2 } \\bigg ] ^ { \\left[ \\displaystyle \\sum _ { x = 1 } ^ { M } \\sum _ { y = 1 } ^ { N } \\big [ g \\left( x , y \\right) - u _ { g } \\big ] ^ { 2 } \\right] } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\boldsymbol { u } _ { f }$ 是 $f ( x , y )$ 的平均值， $u _ { g }$ 是 $g ( x , y )$ 的平均值， $\\mathbf { \\xi } _ { l }$ 表示行数， $k$ 表示列数。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { f } = \\frac { 1 } { M \\times N } { \\sum _ { x = 1 } ^ { M } } { \\sum _ { y = 1 } ^ { N } } f \\left( x , y \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { f } = { \\frac { 1 } { M \\times N } } { \\sum _ { x = 1 } ^ { M } } { \\sum _ { y = 1 } ^ { N } } g \\left( x , y \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dd24b57ae2606e1542e56c234ad492093ed4e210320768306fdb16e27ac63ce.jpg",
+        "img_caption": [
+            "Fig.1Flow chart of classification method ",
+            "Fig.2Correlation coefficient matrix "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分区子空间提供增加的类分离，而子空间之间的统计依赖性是最小化。例如，IndianPines数据集（波段数为220）自然被划分为五个组。这五组对应于驻留在CCM对角线上的五个浅色块，如图2所示。在每组中，这些带彼此高度相关，由于光谱带{104-108}和{150-163}是吸水带波段，则去除这些波段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 Gabor变换 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Gabor滤波器是由高斯包络调制的正弦函数，可以被视为取向依赖带通滤波器，并且可以有效地捕获HSI空间特征提取的物理结构的方向和比例。然而，HSI在很宽的频谱范围内包含大量的频谱信息，并且波长间隔相对较小，这增加了分类任务中的处理复杂性和统计病态调节。为了提高效率，本文在Gabor特征提取之前考虑了降维，由于在PCA投影特征空间中提取的Gabor特征已被证明可以提供非常好的结果，本文在特征提取过程中采用了这种降维策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在二维的坐标(a,b)中，Gabor滤波器，包括实部和虚部，可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { g \\left( a , b ; \\delta , \\theta , \\psi , \\sigma , \\gamma \\right) = \\displaystyle \\exp \\left( - \\frac { a ^ { 2 } + \\gamma ^ { 2 } b ^ { \\prime 2 } } { 2 \\sigma ^ { 2 } } \\right) } } \\\\ { { \\displaystyle \\qquad \\times \\exp \\left( j \\left( 2 \\pi \\frac { a ^ { * } } { \\delta } + \\psi \\right) \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\delta$ 代表正弦因子的波长， $\\psi$ 是相位偏移， $\\gamma$ 是空间纵横比（默认值在文献[10]中设置为0.5）指定Gabor函数支持的椭圆度。 $\\scriptstyle { \\psi = 0 }$ 和 $\\scriptstyle { \\psi = \\pi / 2 }$ 返回Gabor滤波器的实部和虚部。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\scriptstyle a ^ { \\prime } = a \\cos \\theta + b \\sin \\theta  \\\\ { b ^ { \\prime } = - a \\sin \\theta + b \\cos \\theta } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在式(5)(6)中， $\\theta$ 表示Gabor核之间的取向分离角，参数$\\sigma$ 是高斯的标准推导包络线由 $\\delta$ 和空间频率带宽 $b w$ 确定。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\frac { \\delta } { \\pi } \\sqrt { \\frac { \\ln 2 } { 2 } } \\frac { 2 ^ { b w } + 1 } { 2 ^ { b w } - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文提出的融合分类系统中，首先考虑了每个带通的八个方向 $( 0 , \\frac { \\pi } { 8 } , \\frac { \\pi } { 4 } , \\frac { 3 \\pi } { 8 } , \\frac { \\pi } { 2 } , \\frac { 5 \\pi } { 8 } , \\frac { 3 \\pi } { 4 } , \\frac { 7 \\pi } { 8 } )$ ，并对系统参数进行了优化，得到了最优的分类结果。，在图3中给出了不同 $\\delta$ ， $b w$ 和PC（主成分的数量）的总分类精度(overallclassificationaccuracy, OA)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ea3f545825516bcfcece197bb46a1fdc56ef4a78b5a8078af360a1ee3354fa7.jpg",
+        "img_caption": [
+            "图2相关系数矩阵 ",
+            "图3不同参数的整体分类准确度",
+            "Fig.3Overall classification accuracy of different parameters "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可以观察到 $\\delta$ 和PC的最佳值分别为65和3，在所本文分类算法中，选择 $b w = 4$ ，而该参数对分类性能不敏感。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3局部保持非负矩阵分离 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LPNMF结合了非负矩阵分解(non-negativematrixfactorization，NMF)和局部保持投影(locality-preservingprojection，LPP)的优点，这导致仅使用加法运算的基于部件的表示，其中内部几何结构也保留在嵌入空间中。LPNMF的优点可以使其成功对 HIS 进行降维。另外 LPNMF 结合",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GMM分类器能够实现HIS的高精度分类，LPNMF的目标函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO = \\sum _ { i = 1 } ^ { d } \\sum _ { j = 1 } ^ { n } \\Biggl ( x _ { i , j } \\log \\frac { x _ { i , j } } { y _ { i , j } } - x _ { i , j } + y _ { i , j } \\Biggr ) + \\lambda \\Re\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $Y { = } \\{ y _ { i , j } \\} { = } U V ^ { \\cal T }$ ，而 $\\lambda$ 是正则化参数，式(8)的第一部分是非负矩阵分解的通常目标函数，它使用 $\\boldsymbol { \\cal X }$ 和 $Y$ 之间的Kullback-Leibler散度。而 $\\Re$ 用于在降维子空间 $V \\left( t < d \\right)$ 中的点之间强制一个几何局部约束。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathfrak { R } = \\frac { 1 } { 2 } \\sum _ { j , s = 1 } ^ { n } \\sum _ { q = 1 } ^ { t } \\left( \\nu _ { j , q } \\log \\frac { \\nu _ { j , q } } { \\nu _ { s , q } } - \\nu _ { s , q } \\log \\frac { \\nu _ { s , q } } { \\nu _ { j , q } } \\right) W _ { j , s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $W$ 是测量原始空间 $\\boldsymbol { \\cal X }$ 中点之间距离的边缘权重矩阵，该矩阵遵循LPP理论，用于保持数据分布的固有几何形状。下面的乘法法则用于最小化函数 $\\mathbf { \\Psi } _ { t }$ 并估计矩阵U和 $\\mathrm { \\Delta V }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i , q } \\gets u _ { i , q } \\frac { \\sum _ { j } \\left( x _ { i , j } \\nu _ { j , q } \\right) / \\sum _ { q } \\left( u _ { i , q } \\nu _ { j , q } \\right) } { \\sum _ { j } \\nu _ { j , q } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { q } =  [ \\sum _ { i } u _ { i , q } I + \\lambda L ] ^ { - 1 } [ \\begin{array} { c } { \\nu _ { 1 , q } \\sum _ { i } \\frac { x _ { i , 1 } u _ { i , q } } { \\sum _ { q } ( u _ { i , q } \\nu _ { 1 , q } ) } } \\\\ { \\nu _ { 2 , q } \\sum _ { i } \\frac { x _ { i , 2 } u _ { i , q } } { \\sum _ { q } ( u _ { i , q } \\nu _ { 2 , q } ) } } \\\\ { \\vdots } \\\\ { \\nu _ { n , q } \\sum _ { i } \\frac { x _ { i , n } u _ { i , q } } { \\sum _ { q } ( u _ { i , q } \\nu _ { n , q } ) } } \\end{array} ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\nu _ { k }$ 是 $\\boldsymbol { V }$ 的 $k ^ { t h } \\ , \\ I$ 是 $\\scriptstyle n \\times n$ 单位矩阵， $\\boldsymbol { L }$ 是 $W$ 的图拉普拉斯算子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4高斯混合模型和决策融合",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GMM可以被视为两个或更多个普通高斯分布的组合，在典型的GMM表示中， $\\boldsymbol { X } = \\left\\{ \\boldsymbol { x } _ { i } \\right\\} _ { i = 1 } ^ { n }$ 在 $\\Re ^ { d }$ 中的概率密度函数被写为 $K$ 个高斯分量的总和。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( X ) { = } \\sum _ { k } ^ { K } \\alpha _ { k } N \\mathopen { } \\mathclose \\bgroup \\left( X , \\mu _ { k } , \\Sigma _ { k } \\aftergroup \\egroup \\right) \n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $N ( X , \\mu _ { k } , \\Sigma _ { k } )$ 表示混合物的 $k ^ { t h }$ 高斯分量。 $\\alpha _ { k } \\mathrm { ~ , ~ } \\mu _ { k } \\mathrm { ~ , ~ } \\Sigma _ { k }$ 是混合物组分的数量，由参数矢量 $\\Theta = \\left\\{ \\alpha _ { k } , \\mu _ { k } , \\Sigma _ { k } \\right\\}$ 表示。一旦确定了每GMM的最佳组件数 $\\boldsymbol { K }$ ，利用迭代优化策略对混合模型参数进行估计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文的研究是在Gabor特征和决策融合系统的背景下进行的。一个多分类器系统，接着是决策融合过程，解决了小样本问题，保证了成组带的鲁棒识别。研究了对数分类池(logarithmicopinionpool,LOGP)的分类策略,LOGP需要使用每个分类器的个体后验概率 $p _ { i } \\left( w _ { i } \\left| x \\right. \\right)$ ， ${ \\bigl ( } i = 1 , 2 , \\cdots , n { \\bigr ) }$ 来估计全局类成员关系：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle C \\big ( w _ { j } | x \\big ) = \\prod _ { i = 1 } ^ { n } p _ { i } \\big ( w _ { j } | x \\big ) ^ { \\alpha _ { i } } } } \\\\ { { \\qquad \\quad \\Rightarrow \\log C \\big ( w _ { j } | x \\big ) = \\prod _ { i = 1 } ^ { n } \\alpha _ { i } \\log p _ { i } \\big ( w _ { j } | x \\big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha _ { i }$ 是 $i ^ { t h }$ 分类器的置信度分数， $w$ 是类标签， $i$ 是分类器索引， $n$ 是分类器的数量， $j$ 在分类器组中检测到类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文实验对象是IndianPines高光谱遥感数据集，该数据集是由美国国家航空航天局红外成像光谱仪(administration'sairborne visible/infrared imaging spectrometer,AVIRIS)传感器收集。该数据集代表了一个植被分类场景，具有 $1 4 5 ^ { * } 1 4 5$ 像素和220个光谱带，空间分辨率为 $2 0 \\mathrm { m }$ 。原始的印度松树数据集包括16个陆地覆盖类别，其中一些包含少量样本。由于这样的少量训练样本所获得的概率分布不能很好地表示它们的统计特性，所以本文选择了像素较多的八类子集，对于这个数据集，平均每组50个训练样本和8624个测试样本（测试和训练的比率约为21.6:1）被设置用于实验。本文仿真实验是在笔记本电脑的MATLAB2013a中实现的，笔记本电脑配置为250G内存和i7处理器，win10操作系统。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了量化所本文算法的有效性，将本文算法与其他算法进行比较，其他方法包括：传统的SVM、SVM-马尔可夫随机场模型(SVM-MarkovRandomField,SVM-MRF)、局部化的Fisher 判别分析-高斯混合模型(Local FisherDiscriminantAnalysis-GaussianMixedMode,LFDA-GMM)、局部保持非负矩阵分解-高斯混合模型(locality-preservingnon-negativematrixfactorization-GMM,LPNMF-GMM)、局部Fisher判别分析-高斯混合模型-马尔可夫随机场模型(LFDA-G-MRF)、局部保持非负矩阵分解-高斯混合模型-马尔可夫随机场模型(LPNMF-G-MRF)、决策融合高斯混合模型-局部化的Fisher判别分析(DG-LFDA)和决策融合高斯混合模型-局部保持非负矩阵分解(DG-LPMN)。图4给出不同算法对高光谱数据的分类结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d8ee2b4d5cc48b4a2ce83691e25a2eefeea7e6b793dd4ce0ee29140c4986733.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/738ba0e210088833566afeff7a3a114247f3f04f39ae30d47545a71e60fc18ac.jpg",
+        "img_caption": [
+            "图4IndianPines数据集地面实况和分类图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图中可以看出，本文算法对高光谱图像分类效果最好，优于其他8种分类算法，这是因为本文算法能够对相邻特征的局部信息和高光谱图像的多模型结构进行保护，故其视觉效果明显优于其他几种分类算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1给出了高光谱图像的总体分类准确度(overallclassificationaccuracy,OA)和Kappa(k)系数的分类结果，本次实验取20次实验平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1不同算法的高光谱图像分类性能指标",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/badc1dfef1bc2a06219b44cc3ffa608b5d22c17f12785ef0340504ad66a60e01.jpg",
+        "table_caption": [
+            "Table 1Performance indices of hyperspectral image classification using different algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>OA(%)</td><td>Kappa</td></tr><tr><td>SVM</td><td>77.46(±1.71)</td><td>0.7337(±0.0195)</td></tr><tr><td>SVM-MRF</td><td>88.04(±1.14)</td><td>0.8578(±0.0135)</td></tr><tr><td>LFDA-GMM</td><td>64.17(±2.04)</td><td>0.5767(±0.0218)</td></tr><tr><td>LPNMF-GMM</td><td>73.01(±1.67)</td><td>0.6806(±0.0194)</td></tr><tr><td>LFDA-G-MRF</td><td>82.09(±2.89)</td><td>0.7840(±0.0351)</td></tr><tr><td>LPNMF-G-MRF</td><td>88.17(±2.59)</td><td>0.8491(±0.0303)</td></tr><tr><td>DG-LFDA</td><td>93.23(±1.15)</td><td>0.9192(±0.0170)</td></tr><tr><td>DG-LPNMF</td><td>95.60(±0.74)</td><td>0.9473(±0.0089)</td></tr><tr><td>本文算法</td><td>99.22(±0.46)</td><td>0.9907(±0.0055)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有表1中数据可以得到，本文算法的OA达到 $9 9 . 2 2 \\%$ ，比传统SVM高约 $2 2 \\%$ ，比SVM-MRF高 $1 1 \\%$ ，比DG-LPNMF高 $4 \\%$ ；本文算法Kappa达到0.9907，比LFDA-GMM高0.414,比LPNMF-GMM高0.3101，比SVM高0.257，本文方法的OA、Kappa和标准差都是最优性能，对于高光谱图像的分类性能优于其他8种现有算法。图5给出了训练样本量和分类准确率的关系曲线。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图5可以看出，训练样本数量对本文算法的影响较小，即随着训练样本的增加，本文算法的OA增幅较小，训练样本数量对LFDA-G-MRF 算法的影响最大，随着训练样本的增加，LFDA-G-MRF的OA值增幅较大。另外，本文算法的OA 在不同训练样本的数量下都优于其他算法，从而导致更清晰、更平滑的分类图，说明本文算法的有效性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种高光谱图像分类算法，即基于Gaber特征和高斯混合模型的融合决策算法，解决传统分类算法只考虑光谱特征而忽略空间特征的问题。该算法首先使用相关系数矩阵对HSI的相关频带进行分组，然后使用Gabor纹理从每个组中提取空间频谱特征。为了保留相邻像素的局部结构，采用LPNMF将高维子空间投影到较低维子空间上，之后对降维特征执行GMM分类，调用基于LOGP的决策融合方法将这些结果组合成每个像素的单个分类决策。实验结果表明，本文算法优于传统算法和现有先进算法，且分类准确率在很少样本数下就能达到较高的OA值，能够产生更清晰、平滑的分类图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/01d07e9a20d0252043d38546580eba8e3669c2221c096c864659a0da1cd12d04.jpg",
+        "img_caption": [
+            "Fig.4Ground truth and classification map of Indian Pines dataset ",
+            "图5分类准确率与训练样本量的关系",
+            "Fig.5Relationship between classification accuracy and training sample size "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Ye Minchao,Qian Yuntao,Zhou Jun.Multitask sparse nonnegative matrix factorization for joint spectral-spatial hyperspectral imagery denoising [J]. IEEE Trans on Geoscience and Remote Sensing,2015,53 (5): 2621-2639.   \n[2]Sun Kang,Geng Xiurui,Ji Luyan.Exemplar component analysis:a fast band selection method for hyperspectral imagery [J].IEEE Geoscience and Remote Sensing Letters,2015,12(5): 998-1002.   \n[3]李铁，张新君．基于联合协同表示与SVM决策融合的高光谱图像分 类研究[J].计算机应用研究，2017,34(6):1913-1916.(li tie,zhang xinjun.Research of hyperspectral image classification based on joint collaborative representation and SVM models with decision fusion [J]. Application Research of Computers,2017,34(6): 1913-1916.)   \n[4]Kang Xudong，Xiang Xuanlin，Li Shutao，et al. PCA-based edge-preserving features for hyperspectral image classification [J]. IEEE Transactions on Geoscience and Remote Sensing,2017,55(12): 7140-7151.   \n[5]Zhou Yicong,Peng Jiangtao,Chen C.L.Philip.Dimension reduction using spatial and spectral regularized local discriminant embedding for hyperspectral image classification [J].IEEE Trans on Geoscience and Remote Sensing,2015,53(2):1082-1095.   \n[6]Li Wei,Prasad S,Fowler JE.Hyperspectral image classification using Gaussian mixture modelsand Markov random fields [J].IEEE Geoscience and Remote Sensing Letters,2014,11(1):153-157.   \n[7]Kuo B C,Ho HH,Li C H,et al.A kernel-based feature selection method for SVM with RBF kernel for hyperspectral image classification [J].IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,2014,7(1): 317-326.   \n[8]Li Wei,Chen Chen,Su Hongjun,et al.Local Binary Patterns and Extreme Learning Machine for Hyperspectral Imagery Classification [J]. IEEE Trans.Geoscience and Remote Sensing,2015,53(7): 3681-3693.   \n[9]Zhang Hongyan,Li Jiayi,Huang Yuanchen,et al.A nonlocal weighted joint sparse representation classification method for hyperspectral imagery [J].IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,2014,7(6): 2056-2065.   \n[10] Liang Hemin,Li Qi.Hyperspectral imagery classification using sparse representations of convolutional neural network features [J].Remote Sensing,2016,8(2): 99-115.   \n[11] Tao Chao，PanHongbo，Li Yansheng，et al．Unsupervised spectral-spatial feature learning with stacked sparse autoencoder for hyperspectral imagery classification [J].IEEE Geoscience and Remote Sensing Letters,2015,12 (12): 2438-2442.   \n[12] Li Wei,Du Qian.Gabor-filtering-based nearest regularized subspace for hyperspectral image classification [J].IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing，2O14，7(4): 1012-1022.   \n[13] Ye Zhen,Bai Lin,Nian Yongjian.Decision fusion for hyperspectral image classification based on multiple features and locality-preserving analysis [J].European Journal of Remote Sensing,2O17,5O（1）： 166-178.   \n[14] Jia Sen,Shen Linin,Li Qingquan.Gabor feature-based collaborative representation for hyperspectral imagery classification [J].IEEE Trans on Geoscience and Remote Sensing,2015,53 (2):1118-1129. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

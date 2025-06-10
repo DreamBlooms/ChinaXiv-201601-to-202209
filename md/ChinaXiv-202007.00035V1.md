@@ -1,0 +1,448 @@
+# PandaDB：一种面向异构数据的智能融合管理系统
+
+沈志宏1,赵子豪1,2,王华进¹,刘忠新¹,胡川1,2,周园春』
+
+1(中国科学院计算机网络信息中心北京100190)2(中国科学院大学 北京 100049)通讯作者：沈志宏,E-mail:bluejoe@cnic.cn
+
+摘要：随着大数据应用的不断深入，大规模结构化、非结构化数据带来的异构数据的融合管理、关联计算和即席查询需求日益突出。现有异构数据融合管理技术与系统存在着数据模型表示能力弱、查询执行实时性差等问题。本文提出了适用于结构化、非结构化数据融合管理和语义计算的智能属性图模型，并定义了相关属性操作符和查询语法。基于该模型实现了异构数据融合管理系统PandaDB，并详细介绍了PandaDB 的总体架构、存储机制、查询机制、属性协存、AI算法调度和分布式架构。测试实验和案例证明，PandaDB的协存机制和分布式架构具备较好的性能加速效果，并可应用在关联数据发布、个人相册管理、学术图谱实体消歧等融合数据智能管理的场景。
+
+关键词:数据管理系统;融合管理;数据模型;数据查询;人工智能;中图法分类号：TP311
+
+# PandaDB: An intelligent management system for heterogeneous data
+
+SHEN Zhi-Hong1， ZHAO Zi-Hao1,2，WANG Hua-Jin1，LIU Zhong-Xin1，HU Chuan1,2， ZHOU Yuan-Chun1 (Computer Network Information Center, Chinese Academy of Sciences,Beijing 1O0190, China) 2(University of Chinese Academy of Sciences,Beijing lOoo49,China)
+
+Abstract:Duetotherapiddevelopmentofbigdataappications,thereisaincreasingrequirementofdatafusiomanagement,combined analysisandad-ocqueriesforlargscalestructured/unstructureddataExistinghterogeneousdatamanagementtechologieshavesome problems,suchasweakdatamodelrepresentatioabilityandieientueryexecutio.Thisaperproposesanintellgentproprtyaph modelsuitableforstructuredandunstructureddatafusionmanagementandsemanticcomputing,withsomerelated propertyoperatorsnd querysyntax.Basedonthismodel,weimplementaheterogeneousdatafusionmanagementsystemcaledPandaDB.Thispaperdepictedthe architecture,storagemechanism,querymchanism,propertyco-storage,AalgoritshedulingddistributedacitectureofPadaD. Testexperimentsandcasesshowthateco-storagemechanismanddistrbutedchitectureofpandadbhavegoodperformanceacceleration efectsadcanbapldioesenariosoffusiondataintellgentmaageentsuchasnkeddatapublsngpsoalpolbm management,academic atlas entity disambiguation,and so on.
+
+Key words: Data Management System; Data Fusion; Data Model; Data Query;AI;
+
+# 1引言
+
+大数据时代，随着各类应用的推广使用，数据产生速度越来越快、数据体量越来越大。一方面，数据采集技术的迅猛发展使得数据的结构更多样、种类更加丰富，这种多元异构特点的一个重要体现是非结构化数据占有较大比重。有研究表明，视频、音频、图片等非结构化数据占据高达 $8 5 \%$ 的比例[1]；另一方面，数据中台、知识图谱等数据管理/分析技术得到了广泛的应用。数据中台要求被管理数据能够同时支持多种应用；知识图谱要求对底层数据进行关联分析，并支持用户进行交互式查询，均提出了对结构化/非结构化数据进行融合管理、关联计算和即席查询的需求。
+
+与结构化数据已具备完善成熟的数据库管理与分析系统相比，非结构化数据由于其结构和内容的复杂性，实现高效数据管理和分析具有较大的难度，具体体现为：1）管理难度大，相对于结构化数据，非结构化数据占有更大的空间，出于读写效率考虑，非结构化数据往往单独存在于文件系统，或者对象存储系统；2）分析难度大，非结构化数据内容比较复杂，传统查询技术只能针对元数据进行检索，无法查询非结构化数据所蕴含的丰富的内部信息；3）交互式查询，传统的RDBMS 模型不适合对结构化数据和非结构化数据内在信息进行统一表示，因此在传统关系型数据模型下，无法实现对非结构化数据中信息的交互式查询。其根本原因有两方面：
+
+一方面在于，传统的关系模型、属性图模型不能有效揭示和表达非结构化数据的内在信息。为了实现对非结构化数据内在信息的分析查询，需要从模型层面出发，设计相应的表达和查询方法。有学者提出将数据和 Schema 表示为边缘标记图，以此替代非结构化数据底层类型约束的缺失[2]。但该方法仅提出一种为非结构化数据添加 Schema的方法，不能实现对非结构化数据中信息的自由检索。Li等人提出从基本属性、语义特征、底层特征和原始数据等四个角度定义非结构化数据[3]，但这种方法依赖于预定义并不适用于非结构化数据的即时交互查询。近年来有学者提出在非结构化数据流上实施抽取RDF 三元组的方法[4]，该方法只实现了三元组的抽取，不能支持对非结构化数据内部信息的交互式查询，且并不具备数据管理系统的基本能力。
+
+另一方面在于，传统的数据管理方法是将结构化数据和非结构化数据分开存储的。非结构化数据通常存储在文件系统或者对象存储系统，并将其路径存储在关系数据库中；或者将非结构化数据在数据库中存储为二进制大对象（BLOB，Binary Large OBject），当应用获取数据的时候，返回一个二进制数组或者数据流。这两种方法在性能和功能上都不令人满意[1][5]。针对此问题，研究人员提出了一系列非结构化数据管理系统[3][7[8]，这些系统综合考虑了非结构化数据体积大、结构复杂的特点，设计了合适的存储模型，从底层存储出发，一定程度上解决了非结构化数据的存储和管理问题，但其提供的查询服务仅基于文件对象本身和元数据，不能提供对非结构化数据内部信息的查询能力。
+
+综上所述，目前结构化/非结构化数据的融合管理存在如下难点：
+
+传统的数据模型表示能力弱，无法实现异构数据中多元信息的统一表示：非结构化数据内在信息属于原始数据中的衍生信息，这种信息在针对数据本身的建模方法中缺少合理的表示。应设计合理的数据模型，实现对异构数据内在多元信息的统一表达；对异构数据进行关联分析的实时性差，无法支持交互式查询：系统应能动态地响应查询请求。当前非结构化数据信息的自动抽取依赖于AI算法。因此应该设计合理的AI算法集成机制，使系统支持对非结构化数据信息抽取能力的动态扩展；
+
+为实现对结构化/非结构化数据的融合管理、关联计算和即席查询，本文提出了智能属性图模型及其查询语法。智能属性图模型在属性图的基础增加了对非结构化数据的表达能力，以及结构化和非结构化数据之间的互操作能力。
+
+本文在第2节给出了属性图扩展模型和相关概念，包括层叠属性图、智能属性图、次级属性等，并提出了属性操作符和查询语法。在第3节中给出了基于智能属性图模型的一个系统设计和具体实现。在第4节中通过实验和案例验证了该系统的效率及可行性。第5节介绍了与本文研究相关的工作。最后，对未来研究可能面临的挑战进行了展望。
+
+# 2概念设计
+
+传统属性图模型无法有效表达非结构化属性，本节提出属性图扩展模型，以解决非结构化属性的有效表
+
+达问题，然后介绍针对属性图扩展模型的语义操作和查询语法设计，以支持因引入非结构化属性及其次级属性带来的新查询特性。
+
+# 2.1属性图扩展模型
+
+传统属性图模型可以形式化表示为 $\scriptstyle { \mathrm { G } } =$ (V,E,P)，其中G 表示全体数据，V 表示数据中的实体集合，E表示实体间的关系集合，P表示数据集中实体的属性集合。
+
+针对图片、语音、文本这样的非结构化属性，属性图模型无法有效揭示其蕴含的内在信息（如：某类顶点的photo 属性蕴含有“车牌号”信息)，内在信息的表达通常是离线且不完全的：
+
+. 离线：将非结构化属性转化为结构化、半结构化属性的ETL过程属于对数据的预处理；. 不完全：ETL方式需要根据所需提取的目标结构化、半结构化属性逐案实现，无法枚举其中蕴含的全部结构化、非结构化属性。
+
+为增强对非结构化属性的描述能力，本文针对属性图模型进行了扩展，提出层叠属性图模型和智能属性图模型。
+
+定义2-1:具备以下特征的属性图被称为层叠属性图(CascadingProperty Graph):
+
+1）层叠属性图 $\mathbf { G } ^ { \mathrm { c } }$ 可以表示为 $\mathbf { G } ^ { \mathrm { c } } \mathrm { = \thinspace \left( V , E , P ^ { \mathrm { P } } , P ^ { \mathrm { N } } \right) }$ ，其中PP是基本属性（Primitive Property）集合，PN是内嵌式属性（Nested Property）集合；  
+2) 基本属性的值为文本、数值等基本数据类型；  
+3) 内嵌式属性的值为另外一个属性图;
+
+定义2-2:具备以下特征的属性图被称为智能属性图（Intelligent PropertyGraph)：
+
+1） 智能属性图 $\mathbf { G } ^ { \mathrm { I } }$ 可以表示为 $\mathbf { G } ^ { \mathrm { I } } \mathbf { = } \ \left( \mathrm { V } , \mathrm { E } , \mathrm { P ^ { \mathrm { I } } } \right)$ ，其中 $\mathrm { { \bf \Pi } } ^ { \mathrm { p } \mathrm { { I } } }$ 为智能属性;  
+2) 智能属性 $\mathrm { \bf ~ P ^ { I } }$ 具有 $\mathrm { P ^ { p } / P ^ { N } }$ 二象性，即具有基本属性和内嵌式属性两个状态；  
+3) 在 $\mathbf { G } ^ { \mathrm { I } }$ 中，存在展开操作 $\psi$ ，可满足 $\mathrm { { P ^ { N } = \Psi ( P ^ { P } ) } }$ ，即将基本属性PP展开为内嵌式属性 $\mathrm { P ^ { N } }$ ·  
+4) 在 $\mathbf { G } ^ { \mathrm { I } }$ 中，存在语义计算操作 $\xi$ ，可满足 $\sigma = \xi \left( \mathbf { G } _ { 1 , \mathbf { G } _ { 2 } ^ { \mathrm { I } } } ^ { \mathrm { I } } \right)$ ，即针对 $\mathbf { G } ^ { \mathrm { I } } \mathbf { 1 }$ 和 $\mathbf { G } _ { 2 } ^ { \mathrm { I } }$ 两个智能属性进行语义  
+计算，得到结果 $\sigma$ ;
+
+定义2-3:针对内嵌式属性 $\mathsf { P } _ { \mathrm { ~ \tiny ~ i ~ } } ^ { \mathrm { N _ { \mathrm { ~ \tiny ~ i ~ } } ~ } }$ ，其具有次级属性（Sub-property）pis:
+
+1） 存在 $\mathrm { V _ { i } , P ^ { N } _ { i } \in G ^ { c } }$ ， $\mathrm { \Delta V _ { i } }$ 是层叠属性图中的节点， $\mathrm { P ^ { N } } _ { \mathrm { i } }$ 是某个节点 $\mathrm { \Delta V _ { i } }$ 的内嵌式属性；  
+2) $\mathrm { P ^ { N } \Sigma _ { i } }$ 的值可以表示为 $\mathbf { G } _ { \mathrm { n i } }$ ， $\mathrm { G } _ { \mathrm { n i } } - \mathrm { V } _ { \mathrm { n } } = \emptyset$ $\mathrm { \Delta V _ { n } { - } V _ { n 1 } { = } \Delta P _ { n i } }$ 的值可以表示为属性图 $\mathrm { \bf G } _ { \mathrm { n i } }$ ，且 $\mathbf { G } _ { \mathrm { n i } }$ 的顶点集$\mathrm { V _ { n } }$ 中仅包含一个顶点 $\mathrm { \Delta V _ { n l } }$   
+3） 顶点 $\mathrm { \Delta V _ { n l } }$ 的属性集合 $\mathbf { P } ^ { \mathrm { 1 S } }$ ，其中的任一元素 $\mathbf { P } ^ { \mathrm { 1 S _ { j } } }$ 被称为 $\mathrm { \Delta V _ { i } }$ 的次级属性；
+
+采用智能属性，可以表达结构化属性和非结构化属性。图1示出一个智能属性图，针对Car类型的顶点carl，具有一个内嵌式属性 photo，执行展开操作后，carl 具有两个次级属性：photo->plateNumber 和photo->model。
+
+![](images/7cf12f7ed5dd727c7a201215b8ca2eac4716bd29a4bbce2c291e0cf87d492719.jpg)  
+Fig.1Intelligent Property Graph Model   
+图1智能属性图模型
+
+# 2.2属性操作符
+
+根据定义2-2，本文定义了针对智能属性的次级属性抽取操作符和语义相似度操作符：
+
+次级属性抽取操作符：次级属性抽取操作符 $_ - >$ 用以从抽取智能属性中蕴含的次级属性，如针对photo属性执行photo->plateNumber，即可抽取到photo 中的车牌号；语义相似度操作符：传统属性图查询语言中的谓词（Predicate)，只支持对属性进行比较，如 $\ d = \cdot \ > \sqrt { \frac { \ d } { \ d t } } \ d$ （2<、正则匹配等。本文针对属性新增\~：、:、 $\because$ 等拓展谓词，以表达非结构化属性之间的相似关系、相似度、包含等关系。
+
+Table.1 Semantic Similarity Operators   
+表1语义相似度操作符  
+
+<html><body><table><tr><td>操作名称</td><td>符号</td><td>含义</td><td>示例</td></tr><tr><td>SemanticCompare</td><td>：</td><td>计算x和y之间的相似度</td><td>x::y=0.7</td></tr><tr><td>SemanticLike</td><td>~</td><td>计算x和y是否相似?</td><td> x~:y=true</td></tr><tr><td>SemanticUnlike</td><td>！：</td><td>计算x和y是否不相似?</td><td>x!:y=false</td></tr><tr><td>SemanticIn</td><td><</td><td>计算x是否在y里</td><td>x<:y=true</td></tr><tr><td>SemanticContain</td><td>Y:</td><td>计算x是否包含y</td><td>y>:x=true</td></tr></table></body></html>
+
+在属性图模型中，非结构化属性由于其内在信息的不可见性，非结构化属性之间的计算操作支持有限。根据定义2-1、2-2、2-3和属性操作符的特性，智能属性图模型可以实现非结构化属性内在信息的在线、完全表达。
+
+·在线：从非结构化属性中提取结构化、半结构化信息（即次级属性）的过程是按需触发的，无需对非结构化属性进行专门的预处理。  
+： 完全：在底层查询机制的支持下，可以实现针对非结构化属性的直接运算；次级属性根据查询语句生成，无需预先定义，因而也无需逐案实现从非结构化属性中提取各种蕴含属性的ETL过程。
+
+因此，智能属性图模型非常适合结构化/非结构化数据的统一表达，基于智能属性图模型构建的数据库管理系统，可实现结构化/非结构化数据的融合管理。
+
+# 2.3 查询语法
+
+本文针对智能属性图模型，基于标准化的Cypher查询语言进行扩展，形成CypherPlus 语言。CypherPlus语言在语法层面引入次级属性抽取操作符、非结构化属性操作符、非结构化属性字面值等新特性，从而支持对非结构化属性的表达和语义操作。
+
+（1）BlobLiteral：用于表达非结构化属性字面值，格式如<schema://path>，其中 schema 可以为 FILE、HTTP(S)、FTP(S)、BASE64 等多种类型。如图2所示;
+
+![](images/c8fabf4e3ca0157f5a895fd18765729097be029f5bdb652e1ea049915f40d9b5.jpg)  
+Fig.2 GrammerdefinitionofBlobLiteral
+
+（2）SubPropertyExtraction：用于表达次级属性的抽取操作，如图 3所示，其中 PropertyKeyName 为次级属性的名称;
+
+![](images/77539af9c3bdbfde84c11961eb5763e8cb2f9c86e1ff8440659045f9bcac7a21.jpg)  
+Fig.3 Grammer definition ofSubPropertyExtration   
+图3SubPropertyExtraction 语法定义
+
+（3）SemanticComparison ：包括 SemanticCompare、 SemanticLike、 SemanticUnlike、 SemanticIn、SemanticContain 等操作符。以 SemanticLike为例，它用以指示两个属性的值是否相似，语法定义如图4所示，其中 AlgorithmName 为指定计算的算法名称，Threshold 为阈值，AlgorithmName 和 Threshold 为可选项，该情况下执行引擎则采用默认的比较器和阈值。
+
+![](images/e9b868c615e0aff4be367eee2b866cb9b143063cfa1184d316981cd43755af70.jpg)  
+图2 BlobLiteral语法定义  
+Fig.4Grammer definition of SemanticLike   
+图4SemanticLike 语法定义
+
+例如，针对图1的数据模型，可以查找与车牌号为'HHMF442'的车相似的车，查询语句如下：Q1: match (c1:CAR), (c2:CAR) where c1.photo\~:c2.photo and c1- $\cdot >$ plateNumber $\mathbf { \bar { \rho } } =$ HHMF442’ return c2
+
+查询语句Q1可以形式化地描述为：
+
+$$
+\pi _ { B } ( : \sim _ { A , B _ { p h t o t o } } \cap F _ { \mathrm { A } _ { p h o t o  p l a t e N u m b e r } } \cap F _ { A , B _ { l a b e l : c a r } } )
+$$
+
+# 3系统实现
+
+为实现结构化、非结构化数据的融合管理和关联查询分析，本文采用智能属性图模型，基于 Neo4j 开源版本，设计并实现了原生支持 AI图数据库管理系统PandaDB。本部分3.1小节介绍PandaDB 的总体架构，3.2到3.6分别介绍各模块的设计思路和实现细节。
+
+# 3.1 总体架构
+
+PandaDB 以智能属性图模型的形式组织数据，数据的存储形态被分为图结构数据、结构化属性数据和非结构化属性数据三部分。其中，图结构数据指图的节点和边等描述图结构的数据；结构化属性数据指数值、字符串、日期等类型的数据；非结构化属性数据泛指除结构化数据之外的数据，如视频、音频、图片、文档等。PandaDB以BLOB 对象的形式存储非结构化数据，并将其表示为实体（节点）的属性。根据上述三类数据的应用特点，PandaDB设计了分布式多元存储方案：
+
+分布式图数据：基于传统的图数据库保存图结构数据和属性数据，在每个节点上保存相同的数据副本；结构化属性协存：基于ElasticSearch、Solr等外部存储实现大规模结构化属性数据的索引;1 BLOB存储：基于HBase、Ceph 等存储系统实现非结构化属性数据的分布式存储;
+
+![](images/19f65ac127bcd37b409cd7106ce5be835cff251d570ae211633a549896fbb9aa.jpg)  
+Fig.5Architecture of PandaDB图5PandaDB 总体架构设计
+
+PandaDB总体架构如图5所示，重要模块描述如下：
+
+存储引擎：维护本地的图结构数据，调度外部属性存储，按需为查询引擎提供服务；外部存储：包括基于 ElasticSearch 的结构化属性协存和基于HBase 的 BLOB 存储两部分;查询引擎：解析并执行CypherPlus 查询;1 AIPM：AI模型服务框架，通过模型和资源管理，实现AI模型的灵活部署、高效按需运行，同时有效屏蔽AI模型之间的依赖。
+
+PandaDB 集群采用了无主架构设计，其中PandaNode 是单个节点，包含查询引擎和存储引擎两部分。属性数据和非结构化数据存储在外置分布式存储工具中，单个节点只保存图结构数据，通过属性存储接口与外置存储交互。
+
+# 3.2 存储机制
+
+PandaDB将 BLOB 引入了Neo4j 的类型系统，同时对 Neo4j的存储结构进行了改造。存储结构如图6所示，除了 Neo4j使用区，BLOB 的属性字段同时记录了BLOB的元数据，包括：唯一标识 blobid、长度 length
+
+和MIME类型。
+
+![](images/28d594f05ee64d210cff46492c8c3fc8bfb9891470b4f0e95133b1a29994bfb6.jpg)  
+Fig.6Design of BLOB storage structure   
+图6BLOB存储结构设计
+
+为实现对外部 BLOB 存储系统的调用，设计 BlobValueManager 接口，定义了 getById(O/storeO/discard(等操作方法。作为 BlobValueManager 的一个实现，HbaseBlobValueManager 基于 Hbase 集群实现 BLOB 数据的存取。在该方案中，为支持大规模 BLOB 的存储，Hbase 被设计成包含100个列的宽表，采用blobid/100作为HBase 表的 rowkey， $b l o b \% 1 0 0$ 对应于Hbase 的某一列。
+
+为加速 BLOB 的读取，BLOB 的内容读取被封装为一个 InputStream，在用户通过 Bolt 协议获取 BLOB 内容或进行语义计算的时候，这种流式读取的机制提高了运行的性能。
+
+多元存储带来了存储事务安全的复杂性，客户端在写入数据时，将写操作请求发送到PandaDB的Leader节点，然后由Leader 节点执行具体的写入操作。如图7所示，Leader节点的具体操作流程如下：
+
+（1）Leader节点开启事务，执行Cypher 解析，翻译成具体的执行操作；（2）向 BLOB存储引擎发送请求，执行 BLOB数据的写入操作。若执行失败，则向上回滚，标记事务失  
+败；（3）若BLOB数据写入成功，则执行图结构数据和结构化属性数据的写入操作。若执行失败，则向上回  
+滚，标记事务失败；（4）将结构化属性数据的修改，同步到协存。若执行失败，则向上回滚，标记事务失败;（5）执行事务提交；（6）关闭事务，返回操作成功。
+
+![](images/2f80b8cc8875b1c731735b19826708a7bf2d63b40d0d55f26658689c190e1dcb.jpg)  
+Fig.7 Write Transaction process in PandaDB   
+图7PandaDB存储事务处理流程
+
+# 3.3 查询机制
+
+PandaDB 查询引擎主要实现查询语句的解析、逻辑计划的生成与优化、物理计划的选择与执行。基于Neo4j，PandaDB查询引擎主要改进如下几个部分：
+
+（1）解析阶段：增强Cypher 语言的解析规则，支持 BLOB 字面常量（BlobLiteral）、BLOB二级属性的抽取操作符（SubPropertyExtraction），以及属性语义计算操作符（SemanticComparison）；  
+（2）语法检查阶段：针对 BlobLiteral、SubPropertyExtraction、SemanticComparison 执行形式检查，如发现非法的BLOB路径，非法的语义算子和阈值等；  
+（3）计划优化阶段：针对 BlobLiteral的操作进行优化，针对大规模属性过滤情形，采用谓词下推策略等；  
+（4）计划执行阶段：充分调度属性协存模块、AIPM模块，以及BLOB存储模块，实现高效的属性优先过滤、BLOB获取与语义计算；一个典型的查询流程如图8所示。
+
+![](images/4900eb320fd607179cc92e66ba3d1c74c9980be80f99b262dd498153c03aace9.jpg)  
+Fig.8CypherPlus Query Process
+
+图9从查询语法、查询计划、执行引擎三个层面示出PandaDB 查询机制的设计。
+
+![](images/89f087ea002ad2db04541c24fbf57f96d7971b9f65772a12ee49b3cf79adbc6a.jpg)  
+图8CypherPlus 查询流程  
+Fig.9Query Mechanism of intelligent property graph   
+图9智能属性图查询机制
+
+# 3.4 属性数据协存
+
+PandaDB 引入属性数据协存机制，主要加速节点属性的过滤查询效率、实现属性数据的全文索引。目前，PandaDB支持ElasticSearch作为协存引擎。
+
+![](images/1e47532b3b49ccb8de7a3f8eda96c924b221d96d106504e619db880de2ae797f.jpg)  
+Fig.10Write progress of property co-store module in PandaDB   
+图10PandaDB 协存模块的写入流程
+
+图10示出PandaDB协存模块的写入流程，实现方法描述如下：
+
+（1）属性数据在ElasticSearch中的存储结构：每个Neo4j 图数据库对应协存引擎（ElasticSearch）中的一个独立的索引，每个节点的属性数据和标签数据均组织成 ElasticSearch中的一个文档，其中节点在 Neo4j数据库中的ID作为文档的ID，节点属性标签作为文档的属性标签，节点属性数据作为文档的属性数据，设置特殊的属性标签用于存储节点的标签数据。Neo4j 中的数值、字符串、坐标、日期、时间等属性数据类型分别转换为ElasticSearch中的对应数据类型;
+
+（2）属性写入及更新：为了保证 Neo4j数据库中的本地数据和 ElasticSearch中的数据保持一致,PandaDB对 Neo4j中事务操作执行模块(Operations）中的节点更新部分进行了扩展,设计 ExternalPropertyStore用于存储在Neo4j事务中执行的所有操作。例如当Neo4j数据库执行插入节点、添加标签、设置属性、删除节点等操作的同时，也将对应的操作数据缓存到 ExternalPropertyStore 中，当 Neo4j 数据库执行事务提交操作的同时将缓存的操作数据同步到ElasticSearch 中；
+
+（3）属性过滤：为了基于协存实现节点属性过滤，PandaDB 对 Neo4j 的cypher查询执行计划进行了改造，将节点属性过滤谓词下推到协存管理模块。然后根据谓词过滤条件生成 ElasticSearch 的检索请求，最后将命中的文档（节点）列表返回给查询引擎做进一步筛选。为了避免大量查询结果增大网络传输延迟，PandaDB采用了异步分批的方式传递的查询结果。
+
+# 3.5AI算法调度
+
+AI算法调度主要包括本地算法驱动管理和AI算法服务框架。
+
+（1）本地算法驱动管理：为针对不同类型的 BLOB 执行不同的抽取器（SubPropertyExtractor）和语义比较器（SemanticCompartor），制定了如图11所示的驱动管理规则库。图 11中的 DogOrCatClasifier 用以抽取宠物类型，适用于blob/image 类型的属性；CosineStringSimilarity用以计算两个文本串的余弦相似度，仅适用于两个 string 类型的属性。
+
+![](images/8cbb0a94aa600e32bd63f5f2c7926893db1926d8b943f925273261cd379a582d.jpg)  
+Fig.11Extractor and Semantic comparator matching rule set
+
+（2）AI算法服务框架：AIPM用以屏蔽不同AI模型之间的依赖冲突问题，降低人工智能模型的部署和维护难度，便于PandaDB 按需扩展AI算子。该模块通过容器技术屏蔽了不同算法之间的依赖冲突，并实现了AI算子的快速部署。图12给出了AIPM与系统之间的交互逻辑。系统以HTTP请求的方式向AIPM发出查询请求，请求的路径与AI算法具有对应关系，AIPM接受到查询请求，调用对应的AI算法处理数据，以Json 字符串的形式返回结果。为了增强 AI算子的可扩展性，AIPM设计了统一的集成接口，并要求算子提供对这些接口的支持。
+
+![](images/8811d5e82274c47c01ea4838435afb71cc7f72abc4d59100db56e120d4d263c2.jpg)  
+Fig.12Interaction of PandaDB and AIPM图12AIPM与PandaDB交互框架
+
+![](images/7f9cc0170c92824136a998c3758a418dbbab141912effcb30c388c14eb143c92.jpg)  
+图11抽取器和语义比较器匹配规则库  
+Fig.13AI model management Framework   
+图13AI模型管理框架
+
+# 3.6分布式架构
+
+为提升对高并发查询请求的响应能力，PandaDB 采用分布式架构。通过 Zookeeper 维护当前可用的节点列表、集群最新数据版本和集群状态。集群共有四种状态，分别是 Ready、PreWrite、Writing、Written，其中
+
+Ready 表示集群正常对外提供服务，响应一切读、写请求；PreWrite 和Writing 分别是预写状态和写状态，不响应新的请求；Written 表示写完成，立即跳转到 Ready 状态。用户程序通过PandaDriver与集群交互，图14是 PandaDB对写请求的响应示意图，当PandaDriver 接收到用户发出的写请求时，响应步骤如下：
+
+（1）判断当前节点状态，只有当前集群处于Ready状态时，才执行下一步操作，否则等待集群变为 Ready状态。若集群处于Ready，则通过 Zookeeper选举 leader node;  
+（2）建立与leadernode之间的连接，向leadernode发出写请求;  
+（3）leader node向其他节点发出预写通知，并将集群状态置为PreWrite，此时不再响应新的读/写请求，对于原有的读请求，继续提供服务直至结束；  
+（4）当系统中没有正在执行的读任务后，leader node向其他节点发出写指令，指令的内容为CypherPlus语句;  
+（5）各节点执行CypherPlus 语句开始写数据，系统进入Writing 状态。PandaDB 采用属性外置的设计，因此对外置属性的写操作仅由leader node发起;  
+（6）写操作完成后，leader node向 Zookeeper 更新数据版本，数据版本的作用是，判断节点本地数据是否是最新的，集群状态置为Written;  
+（7）返回结果，集群状态变为Ready。
+
+![](images/04903afdcf4dd4ba5f8b17431152cbd79717a3752bcfbe21faeb149f784c41ec.jpg)  
+Fig.14Process of write request handling in PandaDB cluster 图14PandaDB集群写操作处理流程示意图 Table.2 Step and cluster status in write progress
+
+表2写操作响应步骤与集群状态  
+
+<html><body><table><tr><td>操作序号</td><td>集群状态</td></tr><tr><td>1,2</td><td>Ready</td></tr><tr><td>3</td><td>PreWrite</td></tr><tr><td>4,5</td><td>Writing</td></tr><tr><td>6</td><td>Written</td></tr><tr><td>7</td><td>Ready</td></tr></table></body></html>
+
+图15 是系统对读请求的响应流程示意。当用户发出读请求时，PandaDriver 在 Zookeeper 上随机选取一个可用节点，建立与该节点的连接，然后发送查询语句。PandaNode接收查询语句后，进行语句解析、语义分析、生成逻辑计划、执行等过程，并将结果返回给PandaDriver。
+
+![](images/40f8e7c9921d6a8dccda716db7d70c28d51176cbd2e49ac089b765781456abbe.jpg)  
+Fig.15Process of read request handling in PandaDB cluster   
+图15PandaDB 集群读操作处理流程示意图
+
+# 4系统效果评估
+
+为充分验证PandaDB的性能和功能，本文设计了5个测试实验或案例，针对属性协存和分布式方案进行性能测试，同时通过3个应用案例验证PandaDB 对结构化和非结构化数据的融合管理能力。
+
+# 4.1属性协存性能测试
+
+为验证基于 ElasticSearch 属性协存方案的性能，设计本测试，对 Neo4j 和引入协存方案后的 PandaDB的查询性能进行对比，测试环境如表3所示。
+
+Table.3Information about test environment   
+
+<html><body><table><tr><td>测试环境</td><td>环境描述</td></tr><tr><td rowspan="2">服务器软硬件环境</td><td>5台同等配置的物理服务器，单台服务器配置为： CPU:32 颗 Intel(R) Xeon(R) CPUE5-2640 v3 @ 2.60GHz</td></tr><tr><td>内存：128GB 硬盘：6TB7200RPMSASHDD</td></tr><tr><td rowspan="3">测试软件版本</td><td>网络：1000 mbps互联</td></tr><tr><td>操作系统：CentOSLinux release7.7.1908 (Core)</td></tr><tr><td>Neo4j：3.5.6（社区版） PandaDB：v0.0.2（开发版）</td></tr><tr><td>环境部署</td><td>ElasticSearch：6.5.0 5台服务器均部署了ElasticSearch; 4台服务器部署PandaDB;</td></tr><tr><td>测试数据</td><td>1台服务器部署Neo4j；（注：该Neo4j版本仅支持单节点部署） 图数据集：1亿节点（包含6种标签)，17亿关系（包含10种类型）</td></tr><tr><td></td><td>（注：此数据集来自于实际科技知识图谱项目，其中实体包括人员、机构、论文 等内容。)</td></tr></table></body></html>
+
+测试的数据集选取的Cypher查询语句如表4所示，分别进行多次测试并取执行时间的平均值。为避免冷启动带来的性能影响，测试前分别对系统进行了预热。
+
+# Table.4 Query statement in propery co-store test
+
+表3测试环境信息  
+表4协存方案验证测试的查询语句  
+
+<html><body><table><tr><td>编号</td><td>测试语句</td><td>测试类型描述</td></tr><tr><td>Q-1</td><td>match (n:paper) where n.country="Malta" return count(n) ;</td><td>节点查询（单属性精准过滤）</td></tr><tr><td>Q-2</td><td>match (n:person) where n.org STARTS WITH"Shanghai" return count(n);</td><td>节点查询(单属性模糊匹配)</td></tr><tr><td>Q-3</td><td>match (n:paper) where n.country ="United States" and n.citation =10 return count(n);</td><td>节点查询(双属性精准过滤)</td></tr><tr><td>Q-4</td><td>match(n:person） where n.org STARTS WITH "Shanghai" and n.citations=1 return count(n);</td><td>节点查询（模糊匹配与精准匹 配结合的双属性过滤）</td></tr><tr><td>Q-5</td><td>match (n:person) where n.citations=100 and n.citations5=200 return count(n);</td><td>节点查询(双属性精准过滤)</td></tr></table></body></html>
+
+Table.5Test result for property co-store   
+
+<html><body><table><tr><td>Q-6</td><td>match (n:person) where n.citations=192 and n.citations5=204 and n.nationality="France" return count(n);</td><td>节点查询（三属性精准过滤）</td></tr><tr><td>Q-7</td><td>match (n:person) where n.citations=192 and n.citations5=2O4 and n.nationality="France" and n.publications5=5 return count(n);</td><td>节点查询(四属性精准过滤)</td></tr><tr><td>Q-8</td><td>match(startNode:paper)-[r]->(other)wherestartNode.country="Japan" and startNode.citation=5 return count(other);</td><td>关系查询（返回末端节点信 息）</td></tr><tr><td>Q-9</td><td>match (n:person)-[r:work_for]->(other) where n.org starts with "Beijing"and n.citations = 1 return count(r)</td><td>关系查询 (返回关系信息)</td></tr><tr><td>Q-10</td><td>match (startNode:person{personId:'32'}） optional match (startNode)-[r:write_person] - (other) return count(other)</td><td>关系查询（可选关系匹配）</td></tr></table></body></html>
+
+表5协存方案验证测试结果  
+
+<html><body><table><tr><td rowspan="2">测试语 句编号</td><td colspan="2">平均执行时间（单位： ms）</td><td rowspan="2">执行时 间比值</td></tr><tr><td>Neo4j</td><td>PandaDB</td></tr><tr><td>Q-1</td><td>184</td><td>189</td><td>0.97</td></tr><tr><td>Q-2</td><td>96.5</td><td>97.5</td><td>0.98</td></tr><tr><td>Q-3</td><td>1001.5</td><td>55</td><td>18.20</td></tr><tr><td>Q-4</td><td>426</td><td>42</td><td>10.14</td></tr><tr><td>Q-5</td><td>358</td><td>309</td><td>1.15</td></tr><tr><td>Q-6</td><td>304.5</td><td>51.5</td><td>5.91</td></tr><tr><td>Q-7</td><td>94</td><td>52.5</td><td>1.79</td></tr><tr><td>Q-8</td><td>2,658</td><td>2,210</td><td>1.20</td></tr><tr><td>Q-9</td><td>453</td><td>415</td><td>1.09</td></tr><tr><td>Q-10</td><td>53</td><td>62</td><td>0.85</td></tr></table></body></html>
+
+![](images/294be4bff4a9f4f0725f065feef59d6e01ef4e9bccb2b78639c3e1b65cb746d0.jpg)  
+Fig.16 Comparison of query time in co-store   
+图 16协存方案查询响应时间对比
+
+从测试结果可看出，由于采用了ElasticSearch作为节点属性的协存和索引，在上述查询语句执行测试中，PandaDB占据明显优势，尤其在节点多属性过滤查询和模糊匹配查询中性能平均提升2\~6倍。
+
+# 4.2分布式性能测试
+
+为验证分布式架构带来的查询相应能力的提升，在独立的物理机集群上部署了PandaDB，同时部署了Neo4j单机版，对分布式查询性能进行评估，测试环境如表3所示。
+
+Cypher语句如表6所示,分别进行了冷启动和热启动两组测试，测试中的Cypher语句在Neo4j和PandaDB中均是并发执行的。
+
+Table.6 Query statement in distributed solution test   
+表6分布式方案测试使用的查询语句  
+
+<html><body><table><tr><td>编号</td><td>Cypher语句</td></tr><tr><td>Q-1</td><td>Match (n:paper) where toInteger(n.publishDate)>20ooo00 return distinct n.paperType,count(n.paperType)</td></tr><tr><td>Q-2</td><td>Match(n) return distinct labels(n),count(n)</td></tr><tr><td>Q-3</td><td>Match (n)-[r:org_paper]->(m) where n.cnName contains '医院'AND m.citation>5 Return count(m)</td></tr><tr><td>Q-4</td><td>Match(n:person) return n.chineseName Order By n.influenceScore Desc limit 25</td></tr><tr><td>Q-5</td><td>Match(n:person) With distinct n.chineseName as name,count(n.chineseName)as counts where counts>l return name,</td></tr><tr><td>Q-6</td><td>counts Matchp=(nl:dictionary_ccs）<-[rl:criterion_belong_ccs]-(n2:criterion）<-[r2:org_criterion]-(n:organization) [r:org_criterion]->(n3:criterion）-[r3:criterion_belong_ccs]->(n4:dictionary_cs）Wherenotn1.dictionaryId=</td></tr><tr><td>Q-7</td><td>n4.dictionaryId return count(n) Match(n:paper) where n.paperType contains '期刊' return count(n)</td></tr><tr><td>Q-8</td><td>Match(n:patent) where toInteger(n.awardDate) >20180000 return count(n)</td></tr><tr><td>Q-9</td><td>Match(n:paper_keywords) where n.times_all>1 return count(n)</td></tr><tr><td>Q-10</td><td>Match(n:patent) where n.chineseName contains '装置'return count(n)</td></tr></table></body></html>
+
+Table.7Response time for queries in distributed solution test表7分布式方案查询响应时间（单位：ms）  
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="3">冷启动</td><td colspan="3">热启动</td></tr><tr><td colspan="2">响应时间（单位：ms）</td><td rowspan="2">比值</td><td colspan="2">响应时间（单位：ms）</td><td rowspan="2">比值</td></tr><tr><td>Cypher 语句</td><td>Neo4j</td><td>PandaDB</td><td>Neo4j</td><td>PandaDB</td></tr><tr><td>Q-1</td><td>超时</td><td>262,915</td><td></td><td>89,141</td><td>66,487</td><td>1.34</td></tr><tr><td>Q-2</td><td>202,853</td><td>68,989</td><td>2.94</td><td>103,148</td><td>58,021</td><td>1.77</td></tr><tr><td>Q-3</td><td>超时</td><td>超时</td><td></td><td>295,611</td><td>162,833</td><td>1.81</td></tr><tr><td>Q-4</td><td>超时</td><td>163,062</td><td></td><td>73,422</td><td>45,873</td><td>1.60</td></tr><tr><td>Q-5</td><td>超时</td><td>271,975</td><td></td><td>179,365</td><td>152,377</td><td>1.17</td></tr><tr><td>Q-6</td><td>156,421</td><td>47,506</td><td>3.29</td><td>81,991</td><td>52,755</td><td>1.55</td></tr><tr><td>Q-7</td><td>135,344</td><td>113,123</td><td>1.19</td><td>28,887</td><td>16,659</td><td>1.73</td></tr><tr><td>Q-8</td><td>398,781</td><td>170,393</td><td>2.34</td><td>20,733</td><td>18,613</td><td>1.11</td></tr><tr><td>Q-9</td><td>478,595</td><td>7,786</td><td>61.46</td><td>8,067</td><td>7,864</td><td>1.02</td></tr><tr><td>Q-10</td><td>1,068,889</td><td>7,437</td><td>143.72</td><td>6,364</td><td>9,614</td><td>0.66</td></tr></table></body></html>
+
+![](images/0318f1848835d5bab413858def7b208a7cd44854f875dd039119330f02345e68.jpg)  
+Fig.17Comparison of response time in cold boot test
+
+![](images/f824214984b76dbe20a686c83c28cf87bd2369dc7eef1161c5570785b4dfa4cd.jpg)  
+Fig.18Comparison of response time in hot boot test   
+图 17分布式方案冷启动查询响应时间对比  
+图 18分布式方案热启动查询响应时间对比
+
+表7是在冷启动和热启动条件下分别测试得到的结果，图17和图18是对结果的对比展示，其中单次查询响应时间超过300秒则认为系统无响应。由测试结果可以看出，在上述并发测试中，采用了4个节点的分布式架构方案的PandaDB平均响应时间是单节点的Neo4j的1/2到1/3。
+
+# 4.3案例1：关联数据发布
+
+关联数据（Linked Data）的概念由 Berners-Lee 于2006 年提出[9]，其原理是用一种轻型的、可利用分布数据集及其自主内容格式、基于标准的知识表示与检索协议、可逐步扩展的机制实现可动态关联的知识对象网络，并支持在此基础上的知识组织和知识发现。
+
+关联数据的发布机制和方法研究，即如何把原始数据发布成机器可理解、Web可访问的RDF 数据，是关联数据一直以来的研究热点[10]。目前绝大部分的关联数据集都采用两种方式来发布数据：一种诸如 D2RQ[1]等在线映射的方法，即将存储在关系数据库中的数据转换成关联数据；另外一种则采用诸如 Virtuoso、3Store等系统将处理完的RDF数据存储起来，再进行发布。这两种方案存在着明显的不足，即无法很好的处理非结构化数据以及与结构化数据之间的关联。在关联数据中，非结构化数据可以发布成普通的 HTTPURL，但由于数据库本身不具备非结构化数据的管理能力，因此需要额外的手段来发布非结构化数据的内容，并维护它们与结构化信息之间的关联。
+
+如图19所示，采用 PandaDB 的融合管理引擎，可以解决关联数据发布过程中结构化、非结构化数据的统一发布问题。
+
+![](images/82b1d4a1e3cbd71ced961a23a010ffaed83def11716be98b52a5e557317f34e1.jpg)  
+Fig.19Changes on ProcessComparison ofLinked Publishing Linked Data   
+图 19关联数据发布方式与流程变化
+
+本案例借鉴D2RQ的映射机制，制定了实体结构化信息和非结构化信息的映射规则：
+
+（1）实体映射：将一条实体映射成一个RDF Resource，默认 HTTP URI为 http://<baseuri>/<nodeid>;（2）标签映射：实体的标签映射成is_a语句；（3）关系映射：实体间的关系映射成RDFlink，链接的谓词采用关系的标签；（4）属性映射：每个属性映射成一条 $<$ 主，谓，宾 $>$ 三元组，属性名称被映射成一个RDF谓词；（5）BLOB 值映射：将BLOB 值发布成一条Web可访问的HTTPURI，可以定制其路径，默认路径为http://<baseuri>/<blobid>，将根据元数据信息自动将 Length 和 ContentType 写入HTTPResponse 的头部;通过在线映射生成的关联数据集效果如图 20所示。与传统的发布方式相比，该方案支持非结构化数据的发布，同时自动维护与实体之间的关联。
+
+# 沈志宏 等:PandaDB：一种面向异构数据的智能融合管理系统
+
+![](images/d30077d8e2ef61ed9c755c464def967f472f56d84cf79519637ddca71f935abe.jpg)
+
+Fig.20Publishing Linked data based on PandaDB 图 20基于PandaDB 实现关联数据的发布
+
+# 4.4案例2：个人相册管理
+
+照片属于典型的非结构化数据，目前通常采用文件系统进行管理。为了支持扩展信息的检索，往往需要在文件系统之外增加结构化信息的标注信息，如：人物、事件、地点等。另外，如果需要针对照片内容进行高级检索，如：查找所有出现小狗的照片，则需要开发、部署AI程序，通过进程调用实现检索目的。可以看出，这种多样化的需求需要借助于3个独立的系统完成，如图21所示。
+
+![](images/521a1cd447625032a042b891939fdd20f56c97498d22b4c37d5d72c8096e4bfb.jpg)  
+Fig.21Diversified queries for albums requires building multiple systems
+
+本案例基于PandaDB 构建个人相册管理原型系统，该系统支持文件系统的图片批量导入，采用智能属性图模型实现图片的管理，同时提供了开放的标注接口，可以为图片增加新的属性。借助于 PandaDB 的次级属性抽取能力，原型系统可支持针对图片的高级搜索，如：查找所有出现小狗的照片，查找所有包含小孩的照片，以及查找所有相似的照片，如图所示。
+
+![](images/358d31175f6120abe04891144b6e482726b4944730bd0e1abd5192e021110e89.jpg)  
+图 21相册的多样化查询需要构建多个系统  
+Fig.22PandaDB supports diversified query requirements   
+图 22PandaDB可满足多样化查询需求
+
+# 4.5案例3：学术图谱实体消岐
+
+学术图谱泛指以学术内容为主体的领域知识图谱，AMiner[12]和AceKG[13]是其中的典型代表。实体消岐的目的是解决信息中名称指向不明及名称歧义问题，学术知识图谱数据中通常出现学者重名、不同机构的简称或缩写相同等情况，因此图谱创建过程中通常面临实体消岐问题。目前大多数实体消岐方法都以聚类为基础，文献[14][15][16]使用表层特征值计算实体间相似度，但这种方法不能充分利用上下文特征。因为基于表层特征的方法面临信息不足的问题，有学者尝试引入外部信息，如WikiPedia中的信息，将这些知识资源作为实体的扩展特征，辅助提升聚类准确性，代表工作如[17][18]。文献[19][20]使用图计算的方法，充分利用网络数据的结构信息，但并不具有很好的普适性。近年来，随着深度学习技术的巨大进步，有学者利用embedding技术[21]和神经网络技术[22]这类方法相比于传统方法具有更好的效果，但准确性方面仍不能满足人们的预期。本案例基于PandaDB，提出了一种融合结构化属性和非结构化属性的消歧方法。如图23所示，某学术图谱中有两个姓名分别为Park Bill和TomGreen的人物节点以及一个名为Data Vis 的论文节点,需要判断T.Green和 Tom Green 是否为同一实体，从而判断 Park Bill和 Tom Green之间是否存在合作关系。由于论文中存在的属性数据不足，消歧很有困难。基于PandaDB对非结构化信息抽取及语义比较能力，可以充分利用 Tom Green的照片以及论文作者照片列表，从而达到消歧目的。图23下半部分给出了完成该操作的CypherPlus 语句，其中 $<$ 操作符表示包含关系，只需要找到对应的节点，判断 n.photo<:p.screenshot 成立与否，即可计算出二者之间是否存在合作关系。
+
+![](images/e654e659cd16b9c07033b2e95f815b517f3dd0e772f7b9b28fdee2bde490a0c9.jpg)  
+Fig.23Diagram of Entity Disambiguation based on PandaDB   
+图 23基于PandaDB 实现实体消岐示意图
+
+# 5相关工作
+
+AI与数据库的交叉研究一直是学术界研究的热点内容。AI与数据库的融合存在AI4DB(AIforDatabase）和 DB4AI（Database for AI）两个方向[23]。AI4DB 旨在通过 AI技术提高 DB 的效率和能力，如自动化数据库参数调优[24]-[26]、基数估计[27]、索引推荐[28]、查询优化[29][30]等。DB4AI，是以数据库为AI算法提供数据服务，供算法进行训练和学习。例如，借助数据库的统一SQL 接口，为用户提供自定义的函数协助构建模型；通过数据库张量计算协助模型训练；通过持久化AI模型以重复使用。
+
+人工智能技术的发展，使这项技术被大范围地应用到图像识别、语音识别、机器翻译等领域中。卷积神经网络（ConvolutionalNeural Network，CNN)在物体识别领域被广泛应用并取得不错的成绩[31][35]。文献[31]提出基于深度学习的R-CNN(Regions with CNN)方法，该方法将传统物体检测的平均精度由 $34 . 3 \%$ 提升到$66 \%$ 。在之后的几年，又出现了很多代表性的模型，如 SPP-NET(Spatial Pyramid Pooling Network)[32]、FastR- CNN[33]、Faster R-CNN[34]和 YOLO(You Only Look Once)[35]。这些模型在 R-CNN 的基础上提高了检测精度并缩短了检测的时间，YOLO甚至可以对图片进行实时检测。语音识别已经有三十多年的研究历史[36],从上个世纪八十年代的隐马尔可夫模型[37]，到二十一世纪初的帧级别的深度神经网络模型[38]、CTC模型[39],到 2012 年的深度循环神经网络模型[40]，再到2014年的注意力机制运用到语音识别[41]，再到 2016年深度卷积神经网络[42]被用于大规模的语音识别系统。语音识别系统从最初的手动提取特征到如今的端对端的神经网络模型，准确率已经接近 $9 7 \%$ 。AI技术对非结构化数据的分析能力，以及其在准确性、效率方面的巨大提升为异构数据的信息抽取和语义计算提供了良好的技术基础。
+
+在数据管理领域，属性图模型[431是一种常用的管理图数据的数据模型，属性图中的节点和关系都可以被赋予标签和关联任意键值对形式的属性[44]。属性图增加了节点和边的信息,同时又没有改变图的整体结构。目前,属性图模型被图数据库业界广泛采用[45][46],包括著名的图数据库 Neo4j[47]、Titan[48]等。Neo4j 是目前应用较为广泛的一款开源图数据库，其具有从原生图数据存储到可视化插件，再到图数据分析插件的丰富生态。JanusGraph[49]是在 Titan 基础上开发的一种基于属性图的分布式图数据库。JanusGraph 采用存储层和查询引擎分离的设计，可以使用Cassandra 或 HBase 作为存储层。JanusGraph 通过使用第三方分布式索引库
+
+ElasticSearch、Solr 和 Lucene 实现检索功能。其他的图数据库还包括：Amazon 的 Neptune[50]、微软的 AzureCosmosDB[51]、TigerGraph[52]、OrientDB[53]等。
+
+随着大数据时代的来临，海量数据的存储与计算使得单机服务已经无法满足需求，越来越多的任务需要分布式系统支持。保证分布式系统的可靠性和一致性至关重要。解决这个问题的一个著名算法是由Lamport 提出的 Paxos 算法[54][55]。此后为了适应不同的工程环境，研究人员在 Paxos 的基础上提出了很多新的算法[56]。比较著名的有 Multi-Paxos[57][58]、Liskov等人提出的VR(viewstamped replication)算法[59][60]、雅虎公司设计的ZAB(Zookeeper's atomic broadcast)算法[61]、Ongaro 等人提出的 Raft 算法[62]等。
+
+# 6总结与展望
+
+本文从结构化/非结构化数据进行融合管理、关联计算和即席查询需求角度出发，分析了目前数据融合管理方面缺少统一表示、不支持交互式查询等难点。在此基础上提出了具备对异构数据实现统一表示能力的智能属性图模型，并提出了针对在线查询和计算的属性操作符与查询语法。在第3节，本文提出了基于智能图模型的分布式数据融合管理系统PandaDB，该系统实现了结构化、非结构化数据的高效存储管理，并提供了灵活的AI算子扩展机制，具备对多元异构数据内在信息的即席查询能力。测试实验和案例证明，PandaDB 的协存机制和分布式架构具备较好的性能加速效果，同时PandaDB可应用在关联数据发布、个人相册管理、学术图谱实体消歧等多元异构数据融合管理的场景。
+
+目前 PandaDB还存在着一些不足，如：一方面，AIPM模块与系统相对独立部署，这种模式降低了系统的耦合性，有利于扩展和维护，但面对大规模的非结构化数据信息查询请求时，模块间信息传输的开销较大。未来应研究更为合理的AI功能集成机制，结合多元异构数据即席查询的场景特性设计任务调度方法，提升系统性能。另一方面，从智能属性中抽取内嵌式属性的操作，目前还缺乏有效的缓存和预测机制，造成即席抽取的过程延时较大。PandaDB 将进一步结合应用，进一步提升系统的性能和稳定性，从而提升多元异构数据融合管理的能力。
+
+# References:
+
+[1]GaagA，KohnA，LindemannU.Function-based SolutionRetrievaland Semantic SearchinMechanical Engineering[C]/Proceedings the 17th International Conference on Enginering Design（ICED 09）.2009:147-158.   
+[2]BunemanP,Davidson S,Fernandez M,etal.Adingstructuretounstructureddata[C/ternationalConferenceonDatabase Theory.Springer,Berlin,Heidelberg,1997:336-350.   
+[3]LiW,LangB.AtetraedraldatamodelfoustructureddatabaseJ].SientaSnica(formationis),10,(8):39-5(in Chinese with English abstract).   
+[4]GerberD,HellmaS,hmaL,etal.ReatieRDFextractionfromunstructureddatastreams[C//terationalsmanticeb conference.Springer,Berlin,Heidelberg,2013:135-150.   
+[5]Sears R,VanIngenC,GrayJ.Toblobornottoblob:Largeobjectstorageinadatabaseorafilesystem?[J].arXivpreprint cs/0701168,2007.   
+[6]ZhuY,DuN,TianH,etal.LaUD-MS:anextensiblesytemforustructureddata managementC/2thInteratialsiaPacific Web Conference.IEEE,2010:435-440.   
+[7]Zhang Xiaoet al.Managing alargeshared bank of databyusing Fre-Table[C]Proceedings ofthe12th Asia-Pacific Web Conference(APWeb 2010),Busan,Korea,Apr 6-8,2010:441 446.   
+[8]ZhouNN,Zhang X,etal.DesignandImplementationofAdaptive Storage Management SysteminMyBUD[J].JournalofFrontiers of Computer Science & Technology,2012,6(O8):673-683 (in Chinese with English abstract).   
+[9]Berers-LeeT.Design Issues: Linked Data[EB/OL].[2017-12-29]. htps://www.w3.org/DesignIssues/LinkedData.html.   
+[10]ttps://ww.w3.org/DesignIsses/LinkedData.html.Linked data : open research problems. Consuming Linked Data Tutorial, World Wide Web Conference 2010[EB/OL].[2012-10]. htp://ww.slideshare.net/juansequeda/07-openresearchproblems   
+[11]Bizer C,SeaborneA:D2RQ-treating non-RDFdatabases asvirtual RDFgraphs[C].In:Proceedingsof Proceedingsof the 3rd International Semantic Web Conference (ISWC2004).2004: 26   
+[12]TangJ.AMiner:Towardunderstandingbig scholardata[C]ProcedingsofteninthACMinternationalconferenceonwebsearch and data mining.2016: 467-467.   
+[13]WangR,YanY,WangJ,etal.Acekg:Alarge-scale knowledge graphforacademicdata mining[C//ProcedingsofthethCM international conference on information and knowledge management. 2018: 1487-1490.   
+[14]Bagga A,BaldwinB.Entity-ased Cross-Document Coreferencing Using theVector Sace ModelC/36th Anual Meetingof the Asociation forComputationalLinguisticsand17th International ConferenceonComputationalLinguistics,Volume1.1998: 79-85.   
+[15]Pedersen T,PurandareA,Kulkarni A.Namediscriminationbyclusteringsimilarcontexts[C]/International Conferenceon Intelligent Text Processingand ComputationalLinguistics.Springer,Berlin,Heidelberg,2Oo5:226-237.   
+[16]Chen Y,MartinJH.Towardsrobustunsupervisedpersonalnamedisambiguation[C/Proceedingsofthe2oJointConferenceon Empirical Methods inNaturalLanguage Processingand Computational NaturalLanguage Learning (EMNLP-CoNLL).2007:190- 198.   
+[17]Cucerzan S.Large-scale named entitydisambiguationbasedon Wikipediadata[C]Proceedingsof theOO7 jointconferenceon empirical methods innaturallanguage processing andcomputational naturallanguage learning (EMNLP-CoNLL).Oo7:708-716.   
+[18]Han X,ZhaoJ.Named entitydisambiguationbyleveraging wikipedia semantic knowledge[C]/Procedingsof the18th ACM conference on Information and knowledge management. 2oo9: 215-224.   
+[19]HassellJleman-MezaB,ArparI.Ontolg-riventomaticentitydisambiguationiustructuredtxtC/teatioal Semantic Web Conference.Springer,Berlin,Heidelberg,2Oo6: 44-57.   
+[20]MinkovE,Cohen WW,NgAY.Contextual searchand name disambiguation inemailusing graphs[C]/Proceedingsof the 29th anual international ACM SIGIR conference on Research and development in information retrieval.206: 27-34.   
+[21]Zhang B,Al Hasan M.Name disambiguationinanonymized graphs using network embeding[C//Procedingsof te2017ACM on Conference on Information and Knowledge Management. 2017: 1239-1248.   
+[2]Huang H,HeckL,JiH.Leveragingdeepneuralnetworksandknowledgegraphsforentitydisambiguation[J].arXivpreprint arXiv:1504.07678,2015.   
+[23]Li GL,Zhou XH. XuanYuan:AnAI-native databasesystems.RuanJian Xue Bao/Journal ofSoftware,2O20,31(3):831-844 (in Chinese with English abstract). http:/www.jos.org.cn/1000-9825/5899.htm   
+[24]hang J,LiuY,ZhouK,LiG.Anend-toendautomaticclouddatabase tuningsystemusingdeepreinforcement learing.In:Proc. of the SIGMOD.2019.   
+[25]Li G,Zhou X,GaoB,LiS.Qtune:A query-awaredatabase tuning system with depreinforcement earning.Proc.of he VLDB Endowment, 2019.   
+[26]Wang W,Zhang M,ChenG,Jagadish HV,OoiBC,TanK.Database meetsdeplearning: Chalenges andopportunities.IGMOD Record,2016,45(2):1722.   
+[27]KipfA,KipfT,RadkeB,LeisV,onczPA,KemperA.Leardcardinalities:Estimatingcorelatedjos withdeepleang.I: Proc.of the CIDR.2019.   
+[28]PedrozoWG,Nievola JC,RibeiroDC.Anadaptiveaproachforindex tuning withlearing clasifiersystemsonhybridstorage environments.In: Proc.of the HAIS.2018.716729.   
+[29]KrishnanS,Yang Z,GoldbergK,HelersteinJM,StoicaILearing tooptimizejoinqueries withdepreinforcementlearing. CoRR,abs/1808.03196,2018.   
+[30]Marcus R,Papaemmanouil O.Deepreinforcement learningfor joinorder enumeration.In:Proc.of the lst Intl Workshopon Exploiting Artificial Inteligence Techniques for Data Management.2O18.3:13:4.   
+[31]GIRSHCKR,DONAHUEJ,DARRELLT,etal.Richfeature hi-erarchiesforaccurateobjectdetectionandsemanticsgmetation [C]//Procedingsof the2014IEEEConferenceon Computer Visionand Pattrn Recognition.Piscataway，NJ:IEEE，2014:580 -587.   
+[3]HEK，ZHANGX，KENS，etal.Spaualpyramiapoing indeepconvouuonalnetworksIorVsuairecognuon[C/ roceeangs of the 13th European Conference on Computer Vision.Berlin: Springer，2O14: 346-361.   
+[3]GRSHICKR.FastR-CNN[C//Procedingsofthe 2015IEEE Intermational ConferenceonComputer Vision.Piscataway，NJ: IEEE，2015:1440-1448.   
+[34]REN S Q，HE KM，GIRSHICK R，et al.FasterR-CNN: towardsreal-timeobject detection with region proposal networks[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence，2O15，PP(99):1-9.   
+[35]REDMONJ，DIVVALA S，GIRSHICK R，et al.Youonlylook once: unified，real-timeobject detection[EB/OL].2016-01- 20]. http://ai2-website.s3.amazonaws.com/publications/YOLO.pdf.   
+[36]HouYM,Zhou HQ,Wang ZY.Overviewof speechrecognitionbasedondeep learning[J].Application ResearchofComputers, 2017,34(08): 2241-2246 (in Chinese with English abstract).   
+[37]Juang B H,RabinerLR.Hidden Markov models forspeech recognition[J].Technometrics,1991,33(3):251-272.   
+[38]GravesA，Jurgen Schmidhuber.Framewise phonemeclasificationwith bidirectionalLSTMandother neural network architectures[J]. Neural Networks,2005,18(5-6):602-610.   
+[39]Graves A，SantiagoFerandez,GomezF.Connectionist temporal clasification:labellingunsegmented sequence data with recurrent neural networks[C]// International Conference on Machine Learning.ACM,2006.   
+[40]Graves A.Sequence Transduction with Recurrent Neural Networks[J].Computer ence,2Ol2,58(3):235-242.   
+[41]ChorowskiJ,BadanauDChoK,etal.End-toendContinuous SpeechRecognitionusingAentio-basedRecurrntN:First Results[J]. Eprint Arxiv,2014.   
+[42]Sercu T,Goel V.Advances in Very Deep Convolutional Neural Networks forLVCSR[C]//Interspeech 2016.2016.   
+[43]Ehrig H,PrangeU,TaentzerG.Fundamental theoryfortypedatributed graphtransformation.[J].LectureNotesinComputer ence,2004,3256:161-177.   
+[44]Robinson I,Webber J,Eifrem E.Graph Databases[M]. O'Reilly Media,Inc.2013.   
+[45]Wang X, ZouL,WangCK,Peng P,Feng ZY. Research on Knowledge Graph Data Management: A Survey[J].Ruan Jian Xue Bao/Journal of Software,2019,30(O7):2139-2174 (in Chinese with English abstract).   
+[46]R.(2012).Acomparisonofcurent graph database models.Paperpresentedatthe2012IEEE28th International Conferenceon Data Engineering Workshops.   
+[47]The Neo4j Team.The Neo4j Manual v3.4. 2018. htps://neo4j.com/docs/developer-manual/current/   
+[48] Spmallette. Titan—Distributed graph database.2018. http:/titan.thinkaurelius.com/   
+[49] JanusGraph Authors.JanusGraph—Distributed graph database.2O18.http://janusgraph.org/   
+[50] Amazon Web Services,Inc.Amazon Neptune—Fast,reliablegraph database build forcloud.2018.htps://ws.amazon.com/ neptune/   
+[51] Microsoft Azure.Microsoft Azure Cosmos DB.2018.htps:/docs.microsoft.com/en-us/azure/cosmos-db/introduction   
+[52] TigerGraph.TigerGraph—The first native parallel graph.2O18.https://www.tigergraph.com/   
+[53]Callidus Software Inc.OrientDB-multi-model database.2018. htp://orientdb.com/   
+[54] Lamport L.The part-time parliament[J].ACM Transactions on Computer Systems,1998,16 (2) :133-169   
+[55] Lamport L.Paxos made simple[J].ACM SIGACT News,2001,32 (4) :18-25   
+[56] Wang J,Zhang MX,Wu YW,Chen K,ZhengWM.Paxos-like Consensus Algorithms:A Review[J].Journal of Computer Research and Development,2019,56(04): 692-707 (in Chinese with English abstract).   
+[57]Lamport L.Paxos made simple[J].ACM SIGACT News,2001,32 (4) :18-25   
+[58]ChandraTD,GriesemerD,Redstone J.Paxos made live:Anengineering perspective[C/Procofthe26th Annual ACMSympon Principles of Distributed Computing (PODC'07) .New York:ACM,2007:398-407   
+[59]OkiB,LiskovB.Viewstampedreplicatio:Ageneralprimary-copymethodtosupporthighly-availabledistributedsystemsC/Proc of the 7th Annual ACM Symp on Principles of Distributed Computing (PODC'88).New York:ACM,1988:8-17   
+[60]Liskov B, Cowling J.Viewstamped replication revisited[R].Cambridge,MA:MIT CSAIL,2012   
+[61]MedeirosZookeeper’stomicbroadcastprotocol:TeoryndpracticeOtakaarisp:altUversityholfic 2012
+
+# 沈志宏 等:PandaDB：一种面向异构数据的智能融合管理系统
+
+[62]OngaroD,OusterhoutJInsearchofanunderstandableconsensusalgorithm[C]/Procofthe2O14USENIXAnualTechnicalConf (ATC'14) .Berkeley,CA:USENIXAssociation,2014:305-319
+
+# 附中文参考文献：
+
+[3]李未，郎波．一种非结构化数据库的四面体数据模型[J].中国科学：信息科学,2010,40(08):1039-1053.[8]周宁南,张孝,孙新云,琚星星,刘奎呈,杜小勇,王珊.MyBUD 自适应分布式存储管理的设计与实现[J].计算机科学与探  
+索,2012,6(08):673-683.  
+[23]李国良,周煊赫.轩辕:AI原生数据库系统[J].软件学报,2020.31(03):831-844.  
+[36]侯一民,周慧琼,王政一.深度学习在语音识别中的研究进展综述[J].计算机应用研究,2017,34(08):2241-2246.  
+[45]王鑫,邹磊,王朝坤,彭鹏,冯志勇.知识图谱数据管理研究综述[J].软件学报,2019,30(07):2139-2174.  
+[56]王江,章明星,武永卫,陈康,郑纬民.类Paxos 共识算法研究进展[J].计算机研究与发展,2019,56(04):692-707.

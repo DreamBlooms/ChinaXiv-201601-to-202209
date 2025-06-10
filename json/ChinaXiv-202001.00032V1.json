@@ -1,0 +1,487 @@
+[
+    {
+        "type": "text",
+        "text": "新疆昌吉州东部平原区地下水水文地球化学演化分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雷米²，周金龙¹²，吴彬1²，范薇¹²，张杰1,2（1．新疆农业大学水利与土木工程学院,新疆 乌鲁木齐830052；2．新疆水文水资源工程技术研究中心,新疆 乌鲁木齐830052)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探究新疆昌吉州东部平原区地下水水质演化过程,采用数理统计、Piper三线图、Gibbs 图和离子比法对昌吉州东部平原区2016年63组地下水水质取样点及54组2012—2015年地下水水质监测数据进行分析。结果表明：昌吉州东部平原区2012年地下水阳离子平均含量总体为 $\\mathrm { { C a } ^ { 2 + } > K ^ { + } + N a ^ { + } > M g ^ { 2 + } }$ ,阴离子平均含量总体为$\\mathrm { H C O } ^ { 3 - } > \\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { C l } ^ { - }$ ；从2013年开始， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 逐渐增大, $\\mathrm { C a } ^ { 2 + }$ 逐渐减小;到2016年阳离子平均含量总体为 $\\mathrm { { C a } } ^ { 2 + } >$ $\\mathrm { K } ^ { + } + \\mathrm { N a } ^ { + } > \\mathrm { M g } ^ { 2 + }$ ,阴离子平均含量总体为 $\\mathrm { H C O } _ { 3 } ^ { - } > \\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { C l } ^ { - }$ 。水化学类型由2012 年 $\\mathrm { { H C O } _ { 3 } \\mathrm { { \\mathrm { - C a } } \\cdot \\mathrm { { M g } ( \\mathrm { { C a } } \\cdot \\mathrm { { N a } } , } } }$ $\\mathrm { C a \\cdot N a \\cdot M g } ^ { \\cdot }$ 型向2016年 $\\mathrm { H C O _ { 3 } \\cdot S O _ { 4 } - C a \\cdot N a \\cdot M g ( C a \\cdot M g , C a \\cdot N a ) }$ 演化,这主要与含水介质的风化作用和蒸发浓缩作用有关，而蒸发浓缩作用更加体现在承压水区的上部潜水中。地下水中 $\\mathbf { N a } ^ { + } \\cdot \\mathbf { K } ^ { + }$ ） $\\mathrm { C l } ^ { - }$ 主要来自岩盐的溶解； $\\mathrm { C a } ^ { 2 + }$ ） $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 主要来自蒸发岩溶解； $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 主要来自石膏( $\\mathrm { ( c a S O _ { 4 } } \\cdot 2 \\mathrm { H } _ { 2 } \\mathrm { O }$ )和芒硝( $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 } \\cdot 1 0 \\mathrm { H } _ { 2 } \\mathrm { O }$ )的溶解。 $| \\mathrm { C l } ^ { - }$ 、$\\mathrm { S O } _ { 4 } ^ { 2 - }$ 除来自岩盐的溶解外,还受到人类活动的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：平原区；地下水；水文地球化学；演化；昌吉；新疆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地卜水化学成分主要受自然因素（气象、地表水、植物土壤、地层岩性)和人为因素(地下水混合开采、污染物排放、人工回灌)影响，是地下水与环境长期作用的产物[1]。前人通过不同的方法[2-4]，分析地下水化学成分的形成过程,掌握地下水水化学演化规律，为合理的地下水开发利用和水资源保护提供科学依据，尤其是对于地下水资源匮乏的绿洲区,地下水化学成分的研究显得格外重要[5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "昌吉州东部位于新疆天山北麓，准噶尔盆地东南部，是天山北坡重要的经济带之一，拥有横跨吉木萨尔、奇台、木垒3个县，素有“煤海”之称的新疆准东经济技术开发区，是我国目前最大的露天矿群。丰富的矿产资源促使工业发展已成为昌吉州主导产业，仅“十二五”期间，昌吉州工业产值就提高了$1 0 . 0 \\% ^ { \\left[ 6 - 7 \\right] }$ 。随着工业化规模和农业耕地面积不断扩大，昌吉州东部地下水水位持续下降，1983—2011年地下水最大降深为 $2 4 . 8 \\mathrm { ~ m ~ }$ （奇台县），出现区域性地下水超采现象。昌吉州东部地处内陆干旱区，地下水资源总量有限，具有时空分布不均的特点，地下水水位下降的同时对地下水的化学组分影响也越来越大，地下水化学成分的改变将严重制约工业、农业的发展[8]。因此,对研究区地下水水文地球化学演化分析具有重要意义，而目前，对于研究区地下水水文地球化学演化研究较少。本文以2016年昌吉州东部63组地下水水样检测数据，分析昌吉州东部地下水化学成分的形成过程，同时利用54眼地下水水质监测井2012—2016年的水质检测数据，揭示该地区地下水化学成分演化特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区与研究方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "昌吉州东部包括：阜康市，奇台县、吉木萨尔县、木垒县等县市,地理坐标介于 $8 8 ^ { \\circ } 1 5 ^ { \\prime } \\sim 9 2 ^ { \\circ } 1 9 ^ { \\prime } \\mathrm { E }$ ，$4 3 ^ { \\circ } 1 4 ^ { \\prime } \\sim 4 5 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { N }$ ,总面积为 $4 7 ~ 0 0 6 . 0 ~ \\mathrm { k m } ^ { 2 }$ ,其中平原区面积为 $1 5 ~ 4 6 6 . 6 ~ \\mathrm { k m } ^ { 2 }$ 、沙漠面积为 $2 3 ~ 3 3 7 . 9 ~ \\mathrm { k m } ^ { 2 }$ 、山区面积为 $8 \\ 2 0 1 . 5 \\ \\mathrm { k m } ^ { 2 }$ 。研究区降水稀少、蒸发强烈，多年平均降水量 $1 9 0 . 0 ~ \\mathrm { m m }$ ,蒸发量为 $1 ~ 9 0 0 . 0 \\sim$ $2 7 0 0 . 0 \\ \\mathrm { m m }$ ,年平均气温为 $5 \\sim 7 . 5 ~ ^ { \\circ } \\mathrm { C }$ ,属温带大陆性干旱气候,为典型的干旱绿洲区[9-10]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "昌吉州东部在地质单元上由南到北依次为博格达复背斜、准噶尔中央凹陷、奇台隆起、阿尔曼特·卡拉麦里山隆起，出露地层依次为第四系、石炭系、泥盆系。研究区主要位于准噶尔中央凹陷、奇台隆起单元上，出露地层以第四系地层为主，地层岩性颗粒由南到北逐渐变细,以卵石、砂砾石、砂、亚砂土为主。山前倾斜平原是地下水主要补给区，主要以河谷潜流、暴雨洪流入渗、渠系与田间灌溉回归入渗等方式补给地下水，形成单一结构潜水含水层（地下水埋深大于 $5 \\mathrm { ~ m ~ }$ )。地下水总体径流方向为南北向，水力坡度为 $3 \\text{‰}$ ,到冲积、风积平原含水介质为细颗粒或弱透水层，地下水径流条件差，以垂向交替运动为主，形成上部潜水－下层承压水的双层或多层结构含水层（地下水埋深 $5 \\sim 2 0 0 \\mathrm { ~ m ~ }$ ），排泄方式以泉水溢出、蒸发、侧向径流排泄和人工开采为主[11]。昌吉州东部典型水文地质剖面见图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在系统收集研究区水文地质条件、人类活动情况基础上，于2016年对昌吉州东部平原区开展地下水水质调查，按照《区域地下水污染调查评价》（DZ/T0288-2015），采集地下水水样63组，其中承压水区35组、潜水区28组（图2），水样严格按照《地下水环境监测技术规范》（HJ/T164-2004)进行采集、",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "I-I号剖面  \n1400 水平比例尺1：2000000 1400ZK-24垂直比例尺 $1 : 2 0 0 0 0$ 976.40  \n1200 107° 68° 12 90° 108 -12001.04Q=24.25 859.00 M400110° 731.10 S=1.8 47.0 91.32 0205 2 3.8800泰 109.32162.00 砖孔编号32600 海拔高度886.00 600220.33 图例 潜水位砂卵砾石 砂砾石400- ZZ亚砂土 ZZ2亚黏土 TTTTT -4002黏土 砂岩 $\\scriptstyle \\mathbf { M } = 0 . 8 1$ 402.35 $\\scriptstyle \\mathbf { Q } = 1$ 080.00[涌水量（ $\\mathbf { m } ^ { 3 } \\cdot \\mathbf { d } ^ { - 1 }$ ）]砾岩 砂砾岩 矿化度（孔深） $\\mathrm { { S } = 4 . 3 2 }$ 〔涌水量（ $\\mathbf { m } ^ { 3 } \\cdot \\mathbf { d } ^ { - 1 }$ ）]",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d86e7a43b8f710169329fe1eff31687768a45c0e7eb0e90ebe5d7e27eee9259.jpg",
+        "img_caption": [
+            "注：砖孔剖面在图上略有放大。 ",
+            "图1昌吉州东部平原区典型水文地质剖面",
+            "Fig.1A typical hydrogeology profile in the eastern plains in Changji Hui Autonomous Prefecture ",
+            "图22012—2015 年地下水水质监测井与2016 年地下水采样井位置示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Locationsof thegroundwaterqualitymonitoringwelsfrom2012to2Ol5andthegroundwatersamplingwellsin20保存和送样。水样采集前用蒸馏水清洗容器3次，再装入容量为 $1 ~ 0 0 0 ~ \\mathrm { m L }$ 的聚乙烯瓶中，同时对所取水样进行过滤。阴离子样品过滤完成后立即密封保存，阳离子样品加入纯硝酸至 $\\mathrm { p H } < 2$ 后立即密封保存。另外，收集了54眼地下水水质监测井的水质监测数据（数据来源于昌吉州水利科学技术研究所），数据可靠性利用电荷平衡误差 $E$ 进行分析，测定误差 $E < \\pm 5 \\%$ ,其中 $E = ( T Z ^ { + } - T Z ^ { - } ) / ( T Z ^ { + } + T Z ^ { - } )$ ;正电荷总量 $T Z ^ { + } = \\gamma ( \\mathrm {  ~ K ~ } ^ { + } + \\mathrm {  ~ N a ~ } ^ { + } + 2 \\mathrm {  ~ C a ~ } ^ { 2 + } + 2 \\mathrm {  ~ M ~ } _ { \\mathrm { { g } } } ^ { 2 + } \\ ,$ ；负电荷总量 $T Z ^ { - } = \\gamma ( \\mathrm { \\small ~ H C O } _ { 3 } ^ { - } \\ : + \\ : 2 \\mathrm { C O } _ { 3 } ^ { 2 - } \\ : + \\ : \\mathrm { C l } ^ { - } \\ : + \\ : 2 \\mathrm { S O } _ { 4 } ^ { 2 - } )$ 。水质监测井信息如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 样品检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水样检测由昌吉州水利科学技术研究所严格按照《生活饮用水卫生标准 $\\left( { \\mathrm { G B 5 7 4 9 } } - 2 0 0 6 \\right) \\rangle$ 对地下水样进行检测,检测的主要项目为 $\\mathrm { \\ p H } , \\mathrm { K } ^ { + }$ 、 $\\mathrm { { N a } ^ { + } }$ 、$\\mathrm { C a } ^ { 2 + }$ 、 $\\mathrm { . } \\mathrm { M g } ^ { 2 \\mathrm { + } }$ ） $\\mathrm { C l } ^ { - }$ ） $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { C O } _ { 3 } ^ { 2 - }$ ） $\\mathrm { H C O } _ { 3 } ^ { - }$ 、总硬度（TH）、矿化度（TDS）等指标。 $\\mathrm { \\ p H }$ 采用玻璃电极法测定，$\\mathrm { ~ K ~ } ^ { + } \\cdot \\mathrm { N a } ^ { + }$ 采用火焰原子吸收分光光度法测定， $\\mathrm { C O } _ { 3 } ^ { 2 - }$ 、$\\mathrm { H C O } _ { 3 } ^ { - } \\cdot \\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { M g } ^ { 2 + } \\cdot \\mathrm { T H }$ 采用乙二胺四乙酸二钠滴定法测定， $\\mathrm { C l } ^ { - }$ 采用硝酸银容量法测定， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 采用硫酸钡比浊法测定，TDS采用重量法测定。 $\\mathrm { { N a } ^ { + } }$ 检测下线为 $0 . 0 1 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ， $\\mathrm { ~ K ~ } ^ { + }$ 检测下线为 $0 . 0 5 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ $\\mathrm { C O } _ { 3 } ^ { 2 - }$ ） $\\operatorname { H C O } _ { 3 } ^ { - }$ 、TH、 $\\mathrm { C a } ^ { 2 + }$ 、 $\\mathrm { M g } ^ { 2 + }$ 、 $\\mathrm { C l } ^ { - }$ 检测下线为1.0$\\mathbf { m } \\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 }$ $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 检测下线为 $5 . 0 \\ \\mathrm { m g \\cdot L ^ { - 1 } }$ ,TDS不确定度为 $\\pm 0 . 1 \\ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/095e5c95775636735f9591c9fe748b130b11545c0594e955c578aef62f7c55ef.jpg",
+        "table_caption": [
+            "表1地下水监测井信息",
+            "Tab.1 Information of the groundwater monitoring wells "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>监测井(地下水类型)</td><td>监测地点</td><td>监测年份</td><td>监测井(地下水类型)</td><td>监测地点</td><td>监测年份</td></tr><tr><td>C1（承压水）</td><td>木垒县雀仁乡</td><td>2012—2016</td><td>C33（承压水）</td><td>吉木萨尔县三台镇</td><td>2012—2016</td></tr><tr><td>C2(潜水)</td><td>木垒县乌兹别克乡</td><td>2012—2016</td><td>C34（承压水）</td><td>吉木萨尔县北庭镇</td><td>2012—2015</td></tr><tr><td>C3（承压水）</td><td>木垒县乔仁乡</td><td>2012—2016</td><td>C35(潜水）</td><td>吉木萨尔县吉县老台乡</td><td>2012—2016</td></tr><tr><td>C4(潜水)</td><td>木垒县西吉尔镇</td><td>2012—2016</td><td>C36(潜水)</td><td>吉木萨尔县三台镇</td><td>2012—2016</td></tr><tr><td>C5(潜水）</td><td>木垒县西吉尔镇</td><td>2012—2016</td><td>C37（承压水）</td><td>吉木萨尔县庆阳湖乡</td><td>2012—2016</td></tr><tr><td>C6(潜水)</td><td>奇台县塔塔尔乡</td><td>2012—2016</td><td>C38（承压水）</td><td>吉木萨尔县庆阳湖乡</td><td>2012—2016</td></tr><tr><td>C7(潜水)</td><td>奇台县东湾乡</td><td>2012—2016</td><td>C39（承压水）</td><td>吉木萨尔县吉木萨尔镇</td><td>2012—2016</td></tr><tr><td>C8(潜水）</td><td>奇台县西北湾乡</td><td>2012—2016</td><td>C40（承压水）</td><td>吉木萨尔县北庭镇</td><td>2012—2016</td></tr><tr><td>C9（承压水）</td><td>奇台县西北湾乡</td><td>2012—2016</td><td>C41（承压水）</td><td>吉木萨尔县三台镇</td><td>2012—2016</td></tr><tr><td>C10（承压水）</td><td>奇台县西北湾乡</td><td>2012—2016</td><td>C42（承压水）</td><td>吉木萨尔县博林公司</td><td>2012—2016</td></tr><tr><td>C11（承压水）</td><td>奇台县西北湾乡</td><td>2012—2016</td><td>C43(潜水）</td><td>吉木萨尔县二工乡</td><td>2012—2016</td></tr><tr><td>C12（承压水）</td><td>奇台县西北湾乡</td><td>2012—2016</td><td>C44(潜水)</td><td>吉木萨尔县二工乡</td><td>2012—2016</td></tr><tr><td>C13（承压水）</td><td>奇台县西北湾乡</td><td>2012—2016</td><td>C45（承压水）</td><td>阜康市阜北农场</td><td>2012—2016</td></tr><tr><td>C14（承压水）</td><td>奇台县西北湾乡</td><td>2012—2016</td><td>C46(潜水)</td><td>阜康市城关镇</td><td>2012—2016</td></tr><tr><td>C15(潜水)</td><td>奇台县古城乡</td><td>2012—2016</td><td>C47（承压水）</td><td>阜康市六运湖农场</td><td>2012—2016</td></tr><tr><td>C16(潜水)</td><td>奇台县古城乡</td><td>2012—2016</td><td>C48(潜水）</td><td>阜康市九运街镇</td><td>2012—2016</td></tr><tr><td>C17（承压水）</td><td>奇台县西地镇</td><td>2012—2016</td><td>C49(潜水）</td><td>阜康市九运街镇</td><td>2012—2016</td></tr><tr><td>C18（承压水）</td><td>奇台县西地镇</td><td>2012—2016</td><td>C50（承压水）</td><td>阜康市上户沟乡</td><td>2012—2016</td></tr><tr><td>C19（承压水）</td><td>奇台县西地镇</td><td>2012—2016</td><td>C51(潜水）</td><td>阜康市上户沟乡</td><td>2012—2016</td></tr><tr><td>C20（承压水）</td><td>奇台县坎尔孜乡</td><td>2012—2016</td><td>C52（承压水）</td><td>阜康市滋泥泉子镇</td><td>2012—2015</td></tr><tr><td>C21(潜水）</td><td>奇台县老奇台镇</td><td>2012—2016</td><td>C53（承压水）</td><td>阜康市滋泥泉子镇</td><td>2012—2015</td></tr><tr><td>C22（承压水）</td><td>奇台县五马场</td><td>2012—2016</td><td>C54(潜水)</td><td>阜康市滋泥泉子镇</td><td>2012—2016</td></tr><tr><td>C23（承压水）</td><td>奇台县西地镇</td><td>2012—2016</td><td>C55(潜水)</td><td>阜康市滋泥泉子镇</td><td>2012—2015</td></tr><tr><td>C24（承压水）</td><td>奇台县五马场</td><td>2012—2016</td><td>C56(潜水)</td><td>阜康市滋泥泉子镇</td><td>2012—2015</td></tr><tr><td>C25(潜水）</td><td>奇台县三个庄子乡</td><td>2012—2016</td><td>C57（承压水）</td><td>阜康市上户沟乡</td><td>2012—2015</td></tr><tr><td>C26(潜水)</td><td>吉木萨尔县老台乡</td><td>2012—2016</td><td>C58(潜水)</td><td>阜康市上户沟乡</td><td>2012—2015</td></tr><tr><td>C27（承压水）</td><td>吉木萨尔县庆阳湖乡</td><td>2012—2016</td><td>C59(潜水）</td><td>阜康市三工乡</td><td>2012—2016</td></tr><tr><td>C28（承压水）</td><td>吉木萨尔县庆阳湖乡</td><td>2012—2016</td><td>C60(潜水）</td><td>阜康市城关镇</td><td>2012—2015</td></tr><tr><td>C29(潜水）</td><td>吉木萨尔县二工乡</td><td>2012—2016</td><td>C61(潜水)</td><td>阜康市东湾林场</td><td>2012—2015</td></tr><tr><td>C30（承压水）</td><td>吉木萨尔县三台镇</td><td>2012—2016</td><td>C62(潜水）</td><td>阜康市上户沟乡</td><td>2012—2016</td></tr><tr><td>C31（承压水）</td><td>吉木萨尔县县苗圃</td><td>2012—2016</td><td>C63（承压水）</td><td>阜康市水磨沟乡</td><td>2012—2016</td></tr><tr><td>C32（承压水）</td><td>吉木萨尔县老台乡</td><td>2012—2016</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1地下水化学类型演化特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运用数理统计方法对昌吉州东部平原区地下水水质数据进行了整理和计算（图3和表2）。由图3可以看出，昌吉州东部平原区2012年地下水中阳离子平均含量总体为： $\\mathrm { { C a } ^ { 2 + } > K ^ { + } + N a ^ { + } > M g ^ { 2 + } }$ ，阴离子平均含量总体为： $\\mathrm { H C O } _ { 3 } ^ { - } > \\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { C l } ^ { - }$ 。由于在不同的TDS下，水中盐类溶解度不同。从2013 年开始,TDS 逐渐增大; $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 也逐渐增大; $\\mathrm { C a } ^ { 2 + }$ 逐渐减小;2014—2015年，地下水中阳离子平均含量总体为： $\\mathrm { K ^ { + } + N a ^ { + } > C a ^ { 2 + } > M g ^ { 2 + } }$ ,阴离子平均含量总体为： $\\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { H C O } _ { 3 } ^ { - } > \\mathrm { C l } ^ { - }$ ;到 2016 年,TDS 平均值降至 $4 9 3 . 6 \\ : \\mathrm { \\ m g } \\ : \\cdot \\mathrm { \\ L } ^ { - 1 }$ 时，阳离子平均含量总体为：$\\mathrm { C a ^ { 2 + } > K ^ { + } + N a ^ { + } > M g ^ { 2 + } }$ ;阴离子平均含量总体为：$\\mathrm { H C O } _ { 3 } ^ { - } > \\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { C l } ^ { - }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据不同水文地质单元，分别选取地下水补给区井点C5、径流区井点C25、排泄区井点C1为研究对象，各离子浓度变化如表2所示。地下水补给区由于受岩石风化作用的影响，监测井C5中 $\\mathrm { ~ K ~ } ^ { + } ~ +$ $\\mathrm { N a } ^ { + } \\cdot \\mathrm { M g } ^ { 2 + }$ ） $\\mathrm { C l } ^ { - }$ 含量减少， $\\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { H C O } _ { 3 } ^ { - } \\cdot \\mathrm { S O } _ { 4 } ^ { 2 - }$ 增加。而地下水径流区、排泄区受岩石风化作用较弱，受人类活动影响较大,C25 监测井中 $\\mathrm { K ^ { + } + N a ^ { + } \\cdot C a ^ { 2 + } } .$ $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 、 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { C l } ^ { - }$ 增加, $\\mathrm { H C O } _ { 3 } ^ { - }$ 减少;C1 监测井中$\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ） $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ：、 $\\mathrm { C a } ^ { 2 + }$ 增加, $\\mathrm { C l } ^ { - }$ 、 $\\mathrm { H C O } _ { 3 } ^ { - }$ 减少。为反映平原区地下水化学特征，运用AquanChen软件绘制了2012—2016年地下水化学类型（图4）。由图4可以看出,地下水化学类型由 2012 年 $\\mathrm { H C O } _ { 3 } \\mathrm { ~ - ~ } \\mathrm { C a } \\mathrm { ~ \\cdot ~ } \\mathrm { M g }$ （ $\\mathrm { \\bf ~ \\underline { { \\tau } } { a } ~ } \\cdot \\mathrm { \\bf ~ N } \\mathrm { \\bf { a } } \\mathrm { \\mathrm { \\bf ~ \\underline { { \\tau } } { a } } } \\mathrm { \\bf ~ \\cdot ~ } \\mathrm { \\bf ~ N } \\mathrm { a } \\mathrm { \\bf ~ \\cdot ~ } \\mathrm { \\bf ~ M } \\mathrm { \\bf { g } } )$ 型逐渐向2013年 $\\mathrm { 5 0 } _ { 4 }$ ·$\\mathrm { \\Delta H C O _ { 3 } \\ - C a \\ \\cdot \\ N a \\left( \\ C a \\ \\cdot \\ M g \\Omega _ { \\mathrm { { s } } } \\ C a \\ \\cdot \\ N a \\ \\cdot \\ \\ M g \\ \\right) }$ 型过渡；",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6500358e31611a34954536503c1928b9bd230c5002b9676bf509a775b160a838.jpg",
+        "img_caption": [
+            "图32012—2016年昌吉州东部平原区地下水水化学参数变化",
+            "Fig.3Variation of groundwater hydrochemical parameters in the eastern plains in Changji Hui Autonomous Prefecture from 2012 to 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b095346abe80807f86c443d49c6c82787d8f90a9eb5feb6f7c1827a9c145169f.jpg",
+        "table_caption": [
+            "表22012一2016年监测井地下水水化学特征统计",
+            "Tab.2Statistic results of groundwater hydrochemical parameters of monitoring wells from 2012 to 2016/（mg·L "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>监测井</td><td>年份</td><td>K++Na+</td><td>Ca² +</td><td>Mg² +</td><td>HCO3</td><td>SO-</td><td>Cl-</td><td>TDS</td><td>TH</td><td>pH</td></tr><tr><td rowspan=\"7\"></td><td>2012</td><td>125.1</td><td>95.1</td><td>43.9</td><td>199.4</td><td>146.0</td><td>108.0</td><td>717.0</td><td>418.0</td><td>8.39</td></tr><tr><td>2013</td><td>121.5</td><td>104.0</td><td>38.4</td><td>235.1</td><td>282.0</td><td>92.0</td><td>873.0</td><td>418.0</td><td>7.98</td></tr><tr><td>2014</td><td>106.4</td><td>98.3</td><td>39.3</td><td>264.0</td><td>270.0</td><td>75.0</td><td>853.0</td><td>407.0</td><td>7.68</td></tr><tr><td>2015</td><td>86.0</td><td>63.7</td><td>36.6</td><td>163.2</td><td>240.0</td><td>96.0</td><td>685.0</td><td>310.0</td><td>8.00</td></tr><tr><td>2016</td><td>74.6</td><td>107.0</td><td>50.7</td><td>231.4</td><td>184.0</td><td>96.0</td><td>743.0</td><td>476.0</td><td>7.81</td></tr><tr><td>平均值</td><td>102.7</td><td>93.6</td><td>41.8</td><td>218.6</td><td>224.4</td><td>93.4</td><td>774.2</td><td>405.8</td><td>7.97</td></tr><tr><td>标准差</td><td>22.0</td><td>17.4</td><td>5.7</td><td>38.5</td><td>57.9</td><td>11.9</td><td>83.9</td><td>60.0</td><td>0.27</td></tr><tr><td></td><td>变异系数</td><td>0.21</td><td>0.18</td><td>0.14</td><td>0.18</td><td>0.26</td><td>0.13</td><td>0.11</td><td>0.15</td><td>0.03</td></tr><tr><td rowspan=\"8\">C25</td><td>2012</td><td>93.0</td><td>80.1</td><td>22.8</td><td>220.3</td><td>89.0</td><td>76.0</td><td>581.0</td><td>294.0</td><td>8.20</td></tr><tr><td>2013</td><td>144.4</td><td>134.0</td><td>68.4</td><td>205.2</td><td>331.0</td><td>173.0</td><td>1 056.0</td><td>616.0</td><td>7.97</td></tr><tr><td>2014</td><td>225.5</td><td>107.0</td><td>34.1</td><td>166.0</td><td>359.0</td><td>114.0</td><td>1 006.0</td><td>407.0</td><td>8.15</td></tr><tr><td>2015</td><td>111.6</td><td>61.9</td><td>71.7</td><td>208.8</td><td>182.0</td><td>132.0</td><td>767.0</td><td>450.0</td><td>7.73</td></tr><tr><td>2016</td><td>173.7</td><td>148.0</td><td>65.4</td><td>176.2</td><td>375.0</td><td>123.0</td><td>1 061.0</td><td>639.0</td><td>7.62</td></tr><tr><td>平均值</td><td>149.6</td><td>106.2</td><td>52.5</td><td>195.3</td><td>267.2</td><td>123.6</td><td>894.2</td><td>481.2</td><td>7.93</td></tr><tr><td>标准差</td><td>52.5</td><td>35.9</td><td>22.4</td><td>23.1</td><td>125.6</td><td>34.9</td><td>212.6</td><td>145.4</td><td>0.25</td></tr><tr><td>变异系数</td><td>0.35</td><td>0.34</td><td>0.43</td><td>0.12</td><td>0.47</td><td>0.28</td><td>0.24</td><td>0.30</td><td>0.03</td></tr><tr><td rowspan=\"7\"></td><td>2012</td><td>216.9</td><td>99.8</td><td>21.4</td><td>156.4</td><td>184.0</td><td>87.0</td><td>765.0</td><td>337.0</td><td>7.95</td></tr><tr><td>2013</td><td>121. 459</td><td>104</td><td>38.4</td><td>235.1</td><td>282</td><td>92</td><td>873</td><td>418</td><td>7.98</td></tr><tr><td>2014</td><td>236.53</td><td>97.7</td><td>22.8</td><td>161.1</td><td>475</td><td>90</td><td>1083</td><td>338</td><td>7.73</td></tr><tr><td>2015</td><td>141. 11</td><td>84</td><td>24.3</td><td>126.9</td><td>372</td><td>98</td><td>846</td><td>310</td><td>8.09</td></tr><tr><td>2016</td><td>152.35</td><td>99.7</td><td>27.5</td><td>149</td><td>355</td><td>60</td><td>867</td><td>367</td><td>7.75</td></tr><tr><td>平均值</td><td>173.7</td><td>97.0</td><td>26.9</td><td>165.7</td><td>333.6</td><td>85.4</td><td>886.8</td><td>354.0</td><td>7.90</td></tr><tr><td>标准差</td><td>50.2</td><td>7.6</td><td>6.8</td><td>41.0</td><td>108.4</td><td>14.8</td><td>117.9</td><td>41.1</td><td>0.16</td></tr><tr><td></td><td>变异系数</td><td>0.29</td><td>0.08</td><td>0.25</td><td>0.25</td><td>0.32</td><td>0.17</td><td>0.13</td><td>0.12</td><td>0.02</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f867c9e3fa713bf892fe168271df5482293895af4a0fd367bb53145875b05dc.jpg",
+        "img_caption": [
+            "图4地下水水化学 Piper三线图",
+            "Fig.4Piper diagrams of groundwater hydrochemical parameters "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2014 年和2015 年地下水以 $\\mathrm { S O } _ { 4 } \\cdot \\mathrm { H C O } _ { 3 } - \\mathrm { N a } \\cdot \\mathrm { C a } \\ \\cdot$ $\\mathrm { { M g } ( \\mathrm { { C a } \\cdot \\mathrm { { M g } _ { \\mathrm { { \\ell } } } \\mathrm { { N a } \\cdot \\mathrm { { C a } ) } } } } }$ 型为主;到2016年阴阳离子分别以 $\\mathrm { H C O } _ { 3 } ^ { - }$ ） $\\mathrm { C a } ^ { 2 + }$ 为主,化学类型为 $\\mathrm { H C O } _ { 3 } \\cdot \\mathrm { S O } _ { 4 } \\ \\cdot$ ，$\\mathrm { { C a } \\cdot \\mathrm { { N a } \\cdot \\mathrm { { M g } ( \\mathrm { { C a } \\cdot \\mathrm { { M g } _ { \\mathrm { { \\cdot } } \\mathrm { { C a } \\cdot \\mathrm { { N a } ) } } } } } } } }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从空间上看，2016年昌吉州东部地下水化学类型分布较分散，山前倾斜平原潜水区阳离子 $\\mathrm { ~ K ~ } ^ { + } +$ $\\mathrm { N a } ^ { + } \\cdot \\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { M g } ^ { 2 + }$ 平均值分别为51.9、65.7、28.5$\\mathbf { m } \\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 }$ ;阴离子 $\\mathrm { H C O } _ { 3 } ^ { - }$ 、 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { C l } ^ { - }$ 平均值分别为$1 6 3 . 3 \\ 、 1 2 1 . 4 \\AA . 4 6 . 0 \\enspace \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ,TDS平均值为476.7$\\mathbf { m } \\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 }$ 。从山前倾斜平原潜水区到风积平原承压水区各化学组分的含量和TDS逐渐增加，到风积平原承压水区阳离子 $\\mathrm { K ^ { + } + N a ^ { + } \\setminus \\Omega C a ^ { 2 + } \\setminus M g ^ { 2 + } }$ 平均值分别为 $5 2 . 2 , 6 4 . 5 , 3 1 . 9 \\mathrm { ~ m g ~ } \\cdot \\mathrm { ~ L } ^ { - 1 }$ ;阴离子 ${ \\mathrm { H C O } } _ { 3 } ^ { - }$ 、$\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { C l } ^ { - }$ 平均值分别为 $1 6 1 . 5 , 1 2 6 . 0 , 4 7 . 3 , \\mathrm { m g } .$ $\\mathrm { ~ L ~ } ^ { - 1 }$ ,TDS 平均值为 $4 8 4 . 1 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 。越靠近沙漠区各化学组分含量越高,在靠近沙漠区（C1、C3、C17、C18、C32、C33、C41、C45、C50）阳离子 $\\mathrm { K ^ { \\alpha + } + N a ^ { \\alpha + } }$ 、$\\mathrm { C a } ^ { 2 + }$ 、 $\\mathrm { M g } ^ { 2 + }$ 平均值分别为 $9 5 . 6 \\ 、 6 8 . 0 4 . 2 6 . 4 \\mathrm { ~ m g } \\cdot$ ${ \\mathrm { L } } ^ { - 1 }$ ;阴离子 $\\mathrm { H C O } _ { 3 } ^ { - }$ ） $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ） $\\mathrm { C l } ^ { - }$ 平均值分别为155.7、$1 6 0 . 0 \\ 、 6 5 . 6 \\enspace \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ,TDS 平均值为 $5 7 6 . 8 ~ \\mathrm { { \\ m g } ~ } \\cdot$ ，${ \\mathrm { L } } ^ { - 1 }$ ,这主要是沿地下水流向地下水中的各种离子不断增加,导致水中的 TDS 也不断增大。由表2 可以看出,监测井C5中 $\\mathrm { \\ p H }$ 相对监测井C1、C25 较高，这主要是由于地下水补给区受岩石风化作用比较明显，风化时产生较多的碱性物质造成的。地下水水化学类型由潜水区的 $\\mathrm { H C O _ { 3 } \\cdot \\mathrm { S O _ { 4 } - C a \\cdot \\mathrm { M g } ( \\ C a \\cdot \\mathrm { \\Lambda } } }$ （20$\\mathrm { { N a } , \\mathrm { { C a } , \\mathrm { { C a } \\cdot \\partial \\mathrm { { N a } \\cdot \\partial \\mathrm { { M g } } } } } }$ ） $\\mathrm { { H C O } _ { 3 } \\cdot \\mathrm { { S O } _ { 4 } \\cdot \\mathrm { { C l } ^ { - } \\mathrm { { C a } \\cdot \\mathrm { { M g } } } } } }$ （ $\\mathrm { { C a } \\cdot \\mathrm { { N a } \\cdot \\mathrm { { M g } _ { \\mathrm { { \\cdot } } } C a ) } } }$ 型向承压水区 $\\mathrm { H C O } _ { 3 } - \\mathrm { C a } \\cdot \\mathrm { N a }$ ·$\\mathrm { M g \\ _ H C O _ { 3 } \\cdot \\ S O _ { 4 } - C a \\cdot \\ N a ( C a \\cdot \\ N a \\cdot \\ M g \\ , C a \\cdot \\ M g ) }$ （204号型过渡，最终在末端以 $\\mathrm { H C O _ { 3 } \\cdot \\mathrm { S O _ { 4 } \\mathrm { - N a \\cdot \\mathrm { C a } ( \\mathrm { N a \\ \\cdot \\mathrm { } } } } }$ （20$\\mathrm { C a } \\cdot \\mathrm { M g } { \\it \\cdot }$ 中 $\\mathrm { \\Omega _ { \\mathrm { { M C O } _ { 3 } \\cdot \\mathrm { { S O } _ { 4 } \\cdot \\mathrm { { C l } - \\mathrm { { N a } \\cdot \\mathrm { { C a } ( \\mathrm { { N a } \\cdot \\mathrm { { C a } \\cdot \\mathrm { { M g } ) } } } } } } } } } }$ （204号型为主。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2地下水各化学组分之间相互关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为反应地下水中各化学组分相关强度和来源的一致性，利用SPSS软件对昌吉州东部潜水和承压水各化学组分别进行Pearson分析（表3、表4）。相关系数 $R$ 在 $0 . 0 \\sim 0 . 2$ 之间，相关强度为无或极弱；在$0 . 2 \\sim 0 . 4$ 之间,相关强度为弱；在 $0 . 4 \\sim 0 . 6$ 之间，相关强度为中等；在 $0 . 6 \\sim 0 . 8$ 之间,相关强度为强；在 $0 . 8 \\sim 1 . 0$ 之间,相关强度为极强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3、表4可以看出，在潜水中， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 与 $\\mathrm { K ^ { + } + }$ $\\mathrm { N a } ^ { + } \\cdot \\mathrm { C a } ^ { 2 + }$ 相关系数大于0.8,相关性极强; $\\mathrm { C l } ^ { - }$ 与$\\mathrm { C a } ^ { 2 + }$ 相关系数为0.83,相关极强； $\\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { M g } ^ { 2 + }$ 相关系数为0.73，相关性强。研究区地层中主要矿物包括硫酸盐、碳酸盐、硅酸盐、岩盐，硫酸盐矿物以石膏和芒硝为主，碳酸盐矿物以方解石、白云石为主，硅酸盐矿物以石英、云母、长石为主。由此初步断定潜水区潜水中 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 和 $\\mathbf { \\mathrm { C l } ^ { - } }$ 主要来源是硫酸盐和岩盐的溶解， $\\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { M g } ^ { 2 + }$ 具有相同来源,主要来自白云石的溶解。从单一结构潜水区到承压水区，$\\mathrm { S O } _ { 4 } ^ { 2 - }$ 与 $\\mathbf { \\mathrm { C l } ^ { - } }$ 不断增加,而相关性降低,说明 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、$\\mathrm { C l } ^ { - }$ 除了岩盐和硫酸盐溶解外可能还有其他来源。在潜水和承压水中,TDS 与 $\\mathrm { K ^ { + } + N a ^ { + } \\setminus { C a } ^ { 2 + } \\setminus { M g } ^ { 2 + } }$ 、$\\mathrm { H C O } _ { 3 } ^ { - }$ 、CI都具有较好的相关性（相关系数大于0.6)，说明 $\\mathrm { K ^ { + } + N a ^ { + } \\setminus C a ^ { 2 + } \\setminus { \\bf M g } ^ { 2 + } \\setminus { \\bf H C O } _ { 3 } ^ { - } \\setminus C l ^ { - } \\setminus { \\bf S } O _ { 4 } ^ { 2 } }$ 在富含硫酸盐和岩盐的含水层中，这几种离子决定着地下水化学类型，也是导致TDS增大的主要因素之一。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec1cc503a2ee88c2d78e3dc9a9121194d93d38a699bb80613cbb5dd83300d4ab.jpg",
+        "table_caption": [
+            "表3潜水中各化学组分相关系数",
+            "Tab.3Correlation coefficients among chemical constituents in unconfined groundwater "
+        ],
+        "table_footnote": [
+            "注： $* *$ 表示在0.01水平上显著相关； $*$ 表示在0.05水平上显著相关。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>K++Na+</td><td>Ca²+</td><td>Mg2+</td><td>Cl-</td><td>SO-</td><td>HCO3</td><td>pH</td><td>TDS</td><td>TH</td></tr><tr><td>K++Na+</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ca² +</td><td>0.56 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mg2+</td><td>0.49 **</td><td>0.73 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cl-</td><td>0.74 **</td><td>0.83 **</td><td>0.73 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>S0-</td><td>0.87 **</td><td>0.84 **</td><td>0.68 **</td><td>0.88 **</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>HC03</td><td>0.41*</td><td>0.14</td><td>0.27</td><td>0.15</td><td>0.32</td><td>1</td><td></td><td></td><td></td></tr><tr><td>pH</td><td>-0.32</td><td>-0.79 **</td><td>-0.55 **</td><td>-0.51 **</td><td>-0.54**</td><td>0.11</td><td>1</td><td></td><td></td></tr><tr><td>TDS</td><td>0.88 **</td><td>0.82 **</td><td>0.74 **</td><td>0.87 **</td><td>0.96 **</td><td>0.52 **</td><td>-0.49 **</td><td>1</td><td></td></tr><tr><td>TH</td><td>0.57 **</td><td>0.94**</td><td>0.92 **</td><td>0.84**</td><td>0.82 **</td><td>0.22</td><td>-0.73 **</td><td>0.84 **</td><td>1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6580030f2fc52f0db7b07cdd7f5cfc3664ece73f12c9db221aa79d65732f75d.jpg",
+        "table_caption": [
+            "表4承压水中各化学组分相关系数",
+            "Tab.4Correlation coefficients among chemical constituents in confined groundwater "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>K++ Na+</td><td>Ca²+</td><td>Mg²+</td><td>Cl-</td><td>SO-</td><td>HCO3</td><td>pH</td><td>TDS</td><td>TH</td></tr><tr><td>K++Na+</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ca² +</td><td>0.24</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mg²+</td><td>0.24</td><td>0.61 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cl-</td><td>0.31</td><td>0.78 **</td><td>0.52 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SO-</td><td>0.68 **</td><td>0.73 **</td><td>0.72 **</td><td>0.53 **</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>HCO3</td><td>0.50**</td><td>0.29</td><td>0.54**</td><td>0.12</td><td>0.54 **</td><td>1</td><td></td><td></td><td></td></tr><tr><td>pH</td><td>-0.01</td><td>-0.77 **</td><td>-0.52 **</td><td>-0.54 **</td><td>-0.47 **</td><td>-0.23</td><td>1</td><td></td><td></td></tr><tr><td>TDS</td><td>0.73 **</td><td>0.74**</td><td>0.76 **</td><td>0.63 **</td><td>0.95 **</td><td>0.71 **</td><td>-0.50 **</td><td>1</td><td></td></tr><tr><td>TH</td><td>0.27</td><td>0.85**</td><td>0.94 **</td><td>0.69 **</td><td>0.80**</td><td>0.48 **</td><td>-0.68**</td><td>0.83 **</td><td>1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1主要地球化学过程",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Gibbs 图通过 TDS 与 $\\gamma \\mathrm { N a } ^ { + } / \\gamma \\left( \\mathrm { N a } ^ { + } + \\mathrm { C a } ^ { 2 + } \\right)$ 、$\\gamma \\mathrm { C l } ^ { - } / \\gamma ( \\mathrm { C l } ^ { - } + \\mathrm { H C O } _ { 3 } ^ { - } \\ ,$ )关系，将地下水化学形成作用分为蒸发浓缩作用、岩石风化作用和大气降水作用，不但可以分析地下水水化学形成原因，而且能够分析地下水离子起源[12]。在Gibbs 图中,当 TDS 值较低且 $\\gamma \\mathrm { { N a } } ^ { + } / \\gamma$ ( $\\mathrm { { N a } ^ { + } + \\mathrm { { \\ C a } ^ { 2 + } } }$ ）比值或 $\\boldsymbol { \\gamma } \\mathrm { C l } ^ { - } \\boldsymbol { \\ ⁄ }$ $\\gamma ( \\mathrm { C l } ^ { - } + \\mathrm { H C O } _ { 3 } ^ { - }$ )比值大于0.5时，表明该区域水化学组分主要受大气降水作用；当TDS值中等且（204号 $\\gamma \\mathrm { { N a } } ^ { + } / \\gamma$ ( $\\mathrm { { N a } ^ { + } + \\mathrm { { C a } ^ { 2 + } } }$ ）比值或 $\\gamma \\mathrm { C l } ^ { - } / \\gamma$ ( $\\mathrm { ~ \\subset l ~ ^ { - } ~ } +$ （204号$\\mathrm { H C O } _ { 3 } ^ { - }$ )比值小于0.5时，表明该区域水化学组分主要受岩石风化作用；当TDS值较高且 $\\gamma \\mathrm { { N a } ^ { + } / }$ $\\gamma ( \\mathrm { { N a } ^ { + } + \\mathrm { { C a } ^ { 2 + } ) } }$ 比值或 $\\gamma \\mathrm { C l } ^ { - } / \\gamma ( \\mathrm { C l } ^ { - } + \\mathrm { H C O } _ { 3 } ^ { - } )$ 比值接近于1.0时，表明该区域属于蒸发较强的干旱区，水化学组分主要受蒸发浓缩作用。由图5可以看出,承压水和潜水的 TDS一般介于 $1 0 0 \\sim 1 ~ 2 0 0 ~ \\mathrm { m g } ~ \\cdot$ ${ \\mathrm { L } } ^ { - 1 }$ 之间， $\\gamma \\mathrm { C l } ^ { - } / \\gamma ( \\mathrm { C l } ^ { - } + \\mathrm { H C O } _ { 3 } ^ { - } )$ 和 $\\gamma \\mathrm { { N a } ^ { + } / \\gamma ( \\mathrm { { N a } ^ { + } ~ + ~ } }$ $\\mathrm { C a } ^ { 2 + }$ )小于0.5,主要集中在图形的中部,部分承压水点分布于图形的上部（如 $\\mathrm { C 1 } , \\mathrm { C } 2 4 , \\mathrm { C } 2 1 ;$ ，表明研究区地下水化学作用主要为岩石风化作用和蒸发浓缩作用，而蒸发浓缩作用更加体现在承压水区的上部潜水中。地下水水样点均无落在图形的下部，说明地下水化学作用不受大气降水作用的影响，主要是由于该地区降水稀少，气候干燥造成的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 岩石风化与溶解作用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为进一步分析地下水中各化学成分来源，采用离子比方法对地下水化学进行分析。通过 $\\boldsymbol { \\gamma }$ $\\mathrm { \\langle S O _ { 4 } ^ { 2 - } - C l ^ { - } \\rangle }$ 与 $\\gamma \\mathrm { H C O } _ { 3 } ^ { - }$ 的关系可以反映地下水化学成分的主要来源，当 $\\gamma ( \\mathrm { S O } _ { 4 } ^ { 2 - } \\ - \\mathrm { C l } ^ { - } \\ ) / \\gamma \\mathrm { H C O } _ { 3 } ^ { - }$ 大于1.0表示地下水化学成分主要来源于蒸发岩溶解;当 $\\gamma ( \\mathrm { S O } _ { 4 } ^ { 2 - } \\ - \\ \\mathrm { C l } ^ { - } \\ ) / \\gamma \\mathrm { H C O } _ { 3 } ^ { - }$ 小于1.0表示地下水化学成分主要来源于碳酸盐溶解[13]。由图6a注：EDC为蒸发浓缩作用；RWD为岩石风化作用；APD为大气降水作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b36b45c02097040aebc9e7d758f5df041e9747986a877e5e95dd6e4a5e1f3119.jpg",
+        "img_caption": [
+            "图5地下水Gibbs图",
+            "Fig.5Gibbs plots of groundwater "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a)γ(SO²-+CI-)/γHCO3 (b)γ(Na++K+)/γCI- (c)γ(Ca++Mg²+)/yHCO-+SO4²- (d)γ(Na+-C1-)/γ[(Ca++Mg²+)-Y(SO²-+HCO)]（-T.b）/x+,） （-Tbu/ (-T.bau) /(--) 12★  \n12 ★承压水 9 ★潜水 y=-0.06x+0.77  \n9 0。 y=X 63 。  \n63 + y=Xy=X 03 y=-0.26x+1.12 ★★ Y Y0 0 Y 0 -63 6 9 12 15 3 6 9 12 15 4 8 12 16 20 -9-6-303691215γ (HCO3-)/(meq·L-1) γ CI-/(meq·L-1) γ (HCO-+SO4²-)/(meq·L-1) γ(Ca²++Mg²+)-γ (SO²-+HCO-)/(meq·L-1)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "可以看出，多数点落在 $y = x$ 上方，说明 $\\gamma ( \\mathrm { S O } _ { 4 } ^ { 2 - }$ 1$\\mathrm { C l } ^ { - } \\supset / \\gamma \\mathrm { H C O } _ { 3 } ^ { - }$ 大于1.0,研究区地下水化学作用主要来源于蒸发岩溶解。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\gamma ( \\mathrm { { N a } ^ { + } + K ^ { + } ) }$ 与 $\\gamma ~ \\mathrm { C l } ^ { - }$ 的比值关系可以反映$\\mathrm { { N a } ^ { + } }$ 和 $\\mathrm { ~ K ~ } ^ { + }$ 的来源,当 $\\gamma ( \\mathrm { \\Delta N a } ^ { + } + \\mathrm { K } ^ { + } \\mathbf { \\Sigma } ) / \\gamma \\mathrm { C l } ^ { - }$ 大于1.0时,表示 $\\mathrm { { N a } ^ { + } }$ 和 $\\mathrm { ~ K ~ } ^ { + }$ 的来源主要为岩盐的溶解；当 $\\gamma$ （20 $( \\mathrm { \\Delta N a } ^ { + } + \\mathrm { K ^ { + } } ) / \\gamma \\mathrm { C l ^ { - } }$ 小于1.0时，表示 $\\mathrm { { N a } ^ { + } }$ 和 $\\mathrm { ~ K ~ } ^ { + }$ 的来源主要为硅酸盐的溶解[14]。由图6b 可以看出,大多数水样点的比值大于1.0，说明研究区 $\\mathrm { { N a } ^ { + } }$ 和 $\\mathrm { ~ K ~ } ^ { + }$ 的来源主要为岩盐的溶解。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "地下水中 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 来源可以通过 $\\gamma ( \\mathrm { C a } ^ { 2 + } +$ $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ )与 $\\gamma ( \\mathrm { \\small ~ H C O } _ { 3 } ^ { - } ~ + \\mathrm { \\scriptsize ~ S O } _ { 4 } ^ { 2 - } ~ ,$ 比值关系来反应，当 $\\gamma$ （ $\\mathrm { \\langle C a ^ { 2 + } + M g ^ { 2 + } \\rangle } / \\gamma \\mathrm { ( \\ H C O _ { 3 } ^ { - } + S O _ { 4 } ^ { 2 - } ) }$ 大于1,表示 $\\mathrm { C a } ^ { 2 + }$ （204和 $\\mathrm { M g } ^ { 2 + }$ 的来源主要为碳酸盐的溶解;当 $\\gamma ( \\mathrm { C a } ^ { 2 + } \\ +$ （204号 $\\mathrm { M g } ^ { 2 + } ) / \\gamma ( \\mathrm { H C O } _ { 3 } ^ { - } + \\mathrm { S O } _ { 4 } ^ { 2 - } )$ )小于1,表示 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 的来源主要为硅酸盐和蒸发岩的溶解[15]。由图6c可知，大多数水样点落在 $y = x$ 直线下方，表明地下水中 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 的来源为硅酸盐和蒸发岩的溶解，而研究区地下水化学作用主要来自蒸发岩溶解，所以 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 的来源主要为蒸发岩的溶解，其次还来源于硅酸盐和碳酸盐的溶解,这也是 $\\mathrm { C a } ^ { 2 + }$ 、$\\mathrm { H C O } _ { 3 } ^ { - }$ 含量相对较高，相关性较弱的原因之一。同时，根据各离子含量变化，可以推断出研究区地下水中岩盐溶解强度为：蒸发岩 $>$ 碳酸盐 $>$ 岩盐 $>$ 硅酸盐。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除各类岩盐风化溶解外， $\\mathrm { C a } ^ { 2 + } \\setminus \\mathrm { M g } ^ { 2 + }$ 另一个来源可能是阳离子交换作用,通过 $\\gamma ( \\mathrm { { N a } ^ { + } - \\mathrm { { C l } ^ { - } ) } }$ 与 $[ \\gamma$ （20号 $\\mathrm { \\langle C a ^ { 2 + } + M g ^ { 2 + } \\rangle - ( H C O _ { 3 } ^ { - } + S O _ { 4 } ^ { 2 - } ) \\Sigma \\rangle }$ 之间比值关系，判断地下水中 $\\mathrm { { N a } ^ { + } }$ 与 $\\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { M g } ^ { 2 + }$ 之间是否发生离子交换作用,当 $\\gamma ( \\mathrm { { N a } ^ { + } - \\mathrm { { C l } ^ { - } ) } }$ 与 $\\left[ \\gamma ( \\mathrm { \\ C a } ^ { 2 + } + \\mathrm { M g } ^ { 2 + } , \\right.$ ）1$\\mathrm { ^ { ' } H C O _ { 3 } ^ { - } } + \\mathrm { S O _ { 4 } ^ { 2 - } }$ )]为负相关,斜率越接近-1,表示$\\mathrm { { N a } ^ { + } }$ 与 $\\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { M g } ^ { 2 + }$ 之间交换越强烈[16]。由图6d 可以看出,潜水的直线斜率为 $- 0 . 0 6 , R ^ { 2 } = 0 . 0 4$ ，承压水直线斜率为 $- 0 . 2 6 , R ^ { 2 } = 0 . 2 2$ ,斜率较接近-1,说明地下水中潜水离子交换较弱，而承压水相对潜水离子交换较强，由此可以推断出，从潜水到承压水含水层中岩土颗粒越细，阳离子交替作用越强烈",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 蒸发浓缩作用",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从潜水区到承压水区地下水蒸发量逐渐增大，由于承压水区潜水埋深较浅,地下水中 $\\mathrm { K ^ { \\alpha ^ { + } } + N a ^ { \\alpha ^ { + } } }$ 、$\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、Cl\"及 TDS 逐渐增大,且与 TDS 具有很强的相关性，这一规律变化与地下水的蒸发浓缩作用有密切关系。利用PHREEQC 软件计算各矿物饱和指数$S I$ ,来判断各矿物溶解沉淀。 $S I$ 的表达公式为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS I = \\lg { \\frac { I A P } { K } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中： $I A P$ 表示矿物所含组分在水体中的离子活度积，无量纲； $K$ 为矿物在某温度下溶解反映的平衡常数，无量纲。当饱和指数 $S I > 0$ ，表示该矿物相对水溶液处于过饱和状态；当 $S I = 0$ ，表示水溶液与矿物正好处于平衡状态； $S I < 0$ ，表示该矿物相对水溶液未达到饱和状态，相关研究表明 $S I$ 变化范围为 $0 \\pm$ 0.5,认为该矿物与水溶液处于平衡状态[17]。由图7可以看出，岩盐和石膏处于非饱和状态( $S I < 0 )$ ，方解石和白云石处于平衡或饱和状态 $( S I > 0 )$ ，说明岩盐和石膏正处于溶解状态，由相关性可知， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 与 $\\mathrm { N a } ^ { + } \\cdot \\mathrm { C a } ^ { 2 + }$ 相关性较强（大于0.6），这也充分说明$\\mathrm { S O } _ { 4 } ^ { 2 - }$ 主要来自石膏（ $\\mathrm { C a S O } _ { 4 } \\cdot 2 \\mathrm { H } _ { 2 } \\mathrm { O }$ ）和芒硝中 $\\mathrm { ^ { ' } N a _ { 2 } S O _ { 4 } \\cdot 1 0 H _ { 2 } O }$ 溶解",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/faaa5d2cd205bc9df826502f340a790db39f767a24e813e7b7458d7ce08e531c.jpg",
+        "img_caption": [
+            "图7地下水中岩盐、方解石、白云石和石膏的 $S I$ 与 TDS相关关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究区2012 年地下水以 $\\mathrm { C a } ^ { 2 + }$ 、 $\\mathrm { H C O } _ { 3 } ^ { - }$ 为主；从2013 年开始水中 $\\mathrm { C a } ^ { 2 + }$ 、 $\\mathrm { H C O } _ { 3 } ^ { - }$ 减小, $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { { N a } ^ { + } }$ 增加;到2016 年地下水以 $\\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { H C O } _ { 3 } ^ { - }$ 为主。当地下水以蒸发浓缩作用为主导时，TDS逐渐增大，受到方解石（ $\\mathrm { C a C O } _ { 3 }$ )和白云石 $\\big [ \\mathrm { C a } \\left( \\mathrm { M g C O } _ { 3 } \\right) _ { 2 } \\big ]$ 的限制，$\\mathrm { C a } ^ { 2 + }$ ） $\\mathrm { M g } ^ { 2 + }$ 与 $\\mathrm { H C O } _ { 3 } ^ { - }$ 相继达到饱和,发生沉淀析出,水中的 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ） $\\mathrm { { N a } ^ { + } }$ 相对含量逐渐增加，当 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 达到饱和时，将以硫酸盐( $\\mathrm { C a S O _ { 4 } }$ )形式析出，此时水中以$\\mathrm { { N a } ^ { + } }$ 、 $\\mathrm { C l } ^ { - }$ 为主。根据新疆维吾尔自治区国土资源厅2004年8月编制的《新疆维吾尔自治区矿产开发简明图集》，地下水补给区含水层中富集大量的石灰岩（图8），当岩石溶解作用占主导时，受降水和河流补给影响，水与碳酸盐相互作用时消耗大量来自空气中 $\\mathrm { C O } _ { 2 }$ ， $\\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { H C O } _ { 3 } ^ { - }$ 源源不断得到补充，即使${ \\mathrm { C a } } ^ { 2 + } \\cdot { \\mathrm { H C O } } _ { 3 } ^ { - }$ 达到饱和,水中 $\\mathrm { C a } ^ { 2 + }$ ） $\\mathrm { H C O } _ { 3 } ^ { - }$ 浓度也较高，这也是研究区末端出现 $\\mathrm { { N a } \\cdot \\mathrm { { C a } } }$ 型水的主要原因。因此，研究区地下水中化学组分发生这种交替变化主要是由岩石风化和蒸发浓缩双重作用造成的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4人类活动的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { S O } _ { 4 } ^ { 2 - }$ 和 $\\mathrm { C l } ^ { - }$ 是人类活动的指示剂,从变化情况来看,2013年 $\\mathbf { C l } ^ { - } \\left( \\mathbf { C } 3 \\right)$ 最大值达 $9 2 9 . 0 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ，是平均值 $7 5 . 2 \\mathrm { ~ m g ~ } \\cdot \\mathrm { ~ L } ^ { - 1 }$ 的12.35 倍;2014 年 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ (C3)最大值达 $1 ~ 4 2 7 . 0 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ,是平均值的7.38倍。 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 与 $\\mathrm { C l } ^ { - }$ 相关性较强，而且空间变异系数较大,说明 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { C l } ^ { - }$ 除来源于自然界中岩盐的溶解外，另外一个相同的来源主要是来自人类活动的影响。从地下水 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 与 $\\mathrm { C l } ^ { - }$ 含量分布情况（图8）可以看出， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 与 $\\mathrm { C l } ^ { - }$ 相对高值区主要集中在城镇附近及矿产资源分布区周围。煤层中和铁矿中含有大量的含S矿物（如 $\\mathrm { F e S } _ { 2 }$ ），如果在露天开采情况下，含S矿物在氧化环境中形成 $\\mathrm { S O } _ { 2 }$ ,遇水形成 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 。$\\mathrm { C l } ^ { - }$ 主要来自生活和农业污水及动物、人类的排泄物，据《新疆水资源公报》,2014—2016年昌吉州废污水排放量分别是 $1 . 4 0 6 \\times 1 0 ^ { 8 } \\mathrm { ~ t ~ } , 1 . 3 2 0 \\times 1 0 ^ { 8 } \\mathrm { ~ t ~ }$ 和$1 . 5 2 5 \\times 1 0 ^ { 8 } \\mathrm { ~ t ~ }$ ，分别占整个新疆废污水排放量的$1 3 . 0 \\%$ ） $1 2 . 2 \\%$ 和 $1 3 . 7 \\%$ ，污水经过处理后，水中仍然会残留大量的 $\\mathbf { \\mathrm { C l } ^ { - } }$ ，由于承压水过量开采而引起潜水含水层向承压含水层越流，导致承压水也含有大量的 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ） $\\mathrm { C l } ^ { - }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3704aa1d13cbb3f58e363191a5b624583d17b965636ac38e0833e124133bd14f.jpg",
+        "img_caption": [
+            "Fig.7Correlativity between SI and TDS of rock salt,calcite,dolomite and gypsum in groundwater ",
+            "图8地下水中 $\\mathrm { C l } ^ { - }$ ） $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 含量分布",
+            "Fig.8Distribution of $\\mathrm { C l } ^ { - }$ and $\\mathrm { S O } _ { 4 } ^ { 2 - }$ in groundwater "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）昌吉州东部平原区2012年地下水阳离子平均含量总体为： $\\mathrm { { C a } ^ { 2 + } > K ^ { + } + N a ^ { + } > M g ^ { 2 + } }$ ,阴离子平均含量总体为： $\\mathrm { H C O } _ { 3 } ^ { - } > \\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { C l } ^ { - }$ ；从 2013年开始， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 逐渐增大, $\\mathrm { C a } ^ { 2 + }$ 逐渐减小;到2016 年阳离子平均含量总体为： $\\mathrm { { C a } ^ { 2 + } > K ^ { + } + N a ^ { + } > M g ^ { 2 + } }$ ;阴离子平均含量总体为： $\\mathrm { H C O } _ { 3 } ^ { - } > \\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { C l } ^ { - }$ 。水化学类型由2012年 $\\mathrm { \\large H C O _ { 3 } \\ - \\ C a \\ \\cdot \\ M g \\left( \\ C a \\ \\cdot \\ N a \\ , C a \\ \\cdot \\ N a \\ ^ { \\mathrm { \\large ~ . } } \\right)} $ $\\mathbf { M } \\mathbf { g } ^ { \\mathbf { \\sigma } }$ )型向2016年 $\\mathrm { H C O _ { 3 } \\cdot \\mathrm { S O _ { 4 } - C a \\cdot \\mathrm { N a \\cdot \\mathrm { M g } ( C a \\cdot \\mathrm { \\Lambda } } } }$ $\\mathrm { { M g , C a \\cdot N a ) } }$ 型演化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）研究区地下水中化学组分主要受岩石风化作用和蒸发浓缩作用的影响，不受大气降水作用的影响，蒸发浓缩作用更加体现在承压水区的潜水中。潜水中离子交换较弱，而承压水相对较强，主要与含水层中岩土颗粒大小有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）研究区地下水中 $\\mathrm { N a } ^ { + } \\cdot \\mathrm { K } ^ { + } \\cdot \\mathrm { C l } ^ { - }$ 主要来自岩盐的溶解; $\\mathrm { C a } ^ { 2 + } \\setminus \\mathrm { M g } ^ { 2 + }$ 主要来自蒸发岩溶解; $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 主要来自石膏( $\\mathrm { C a S O } _ { 4 } \\cdot 2 \\mathrm { H } _ { 2 } \\mathrm { O } \\cdot$ )和芒硝( $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ ·$\\mathrm { 1 0 H } _ { 2 } \\mathrm { O }$ )溶解。 $\\mathrm { C l } ^ { - }$ 、 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 除来自岩盐的溶解外，还受到人类活动的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]李学礼,孙占学,刘金辉.水文地球化学[M].第3版.北京：原子能出版社,2010：149-183.［Li Xueli,Sun Zhanxue,Liu Jin-hui.Hydrogeochemistry[M].3rd.Beijing:Atomic Energy Press,  \n2010:149 -183.][2]范广群,张德忠,张建明,等.银川平原水体氢氧同位素及主要水化学参数特征[J].干旱区研究，2018，35(5）：1040-1049.[Fan Guangqun,Zhang Dezhong,Zhang Jianming,et al.Hydrogenand oxygen isotopes and hydrochemical parameters of water sam-ples from the Yinchuan Plain[J].Arid Zone Research,2018,35(5):1 040-1049.][3]Rashid A,Seema A K,Ali L,et al.Geochemical profile and sourceidentification of surface and groundwater pollution of District Chi-tral,Northern Pakistan[J].Microchemical Journal,2019,145（3）：  \n1058 -1 065.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[4]蓝天杉，苗晋杰,白耀楠,等.北京通州区潜水水化学特征及形成分析[J].节水灌溉，2018（12）：70-76.［LanTianshan，Miao",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "JiJie,Dal Iaouan,et aI.Iyurocnecal cnaracterisu( anulora tion analysis of phreatic water in Tongzhou District of Beijing[J]. Water Saving Irrigation,2018(12）):70－76.]   \n[5]何建华,张金,丁贞玉,等.Cl\"指示的石羊河流域地下水演化 [J].资源科学,2011,33（3）：416－421.[He Jianhua,Zhang Jin,Ding Zhenyu,et al.Evolution of groundwater geochemistry in the Minqin Basin:Taking chloride as an indicator of groundwater recharge[J]. Resources Science,2011,33（3）:416-421.]   \n[6]夏楠,塔西甫拉提·特依拜,依力亚斯江·努尔麦麦提,等.新 疆准噶尔东部荒漠区植被覆盖度遥感监测与评估[J].环境科 学与技术,2017,40(1):167-173.[Xia Nan,Taxifulati Tebaiyi, Yiliyasijiang Nuermaimaiti,et al. Remote sensing monitoring for assessing vegetation coverage in East Juggar desert of Xinjiang[J]. Environmental Science & Technology,2017,40(1）:167-173.]   \n[7］昌吉州人民政府.“十二五\"昌吉州工业经济实现历史性突破 [EB].http://www.cj.gov.cn/zgxx/xwzx/yw/ms/87253.htm, 2016-03-O8.[“Twelfth five-year”changji industrial economy achieved a historic breakthrough[EB).http://www.cj.gov.cn/ zgxx/xwzx/yw/ms/87253.htm,2016 -03-08.]   \n[8］赵冬莉.昌吉州平原区地下水多年动态变化分析[J].中国水 运,2012,12（11）:174-175.[Zhao Dongli.Analysis of multiyear dynamic change of groundwater in the plains of Changji Hui Autonomous Prefecture[J]. China Water Transport,2012,12（11）： 174 -175. ]   \n[9]杜梦洁,郑江华,任璇,等.地形对新疆昌吉州草地净初级生产 力分布格局的影响[J].生态学报,2018,38（13）:4 789- 4 799.[Du Mengjie,Zheng Jianghua,Ren Xuan,et al. Effects of topographyonthe distribution patern of net primary productivity of grassland in Changji Prefecture,Xinjiang[J].Acta Ecologica Sinica,2018,38(13):4 789 -4 799.]   \n[10］刘斌,陈旭光,程强,等.准噶尔盆地天山北麓水文地质条件变 化特征[J].新疆地质,2011,29（1):90－94.[Liu Bin,Chen Xuguang,Cheng Qiang,et al. The changing charcteristic of hydrogeologic condition in the southern areas of Junggar Basin（the northern piedmont areas of the Tianshan Mountains）[J]. Xinjiang Geology,2011,29(1) :90 -94.]   \n[11］谌天德,陈旭光,王文科,等.准噶尔盆地地下水资源及其环境 问题调查评价[M].北京：地质出版社,2009:25－123.[Shen Tiande,Chen Xuguang,Wang Wenke,et al. Investigation and Evaluation of Groundwater Resources and Environmental Problems in Junggar Basin[M].Beijing:Geological Press,2009:25-123.]   \n[12］曾妍妍,周金龙,贾瑞亮,等.新疆祁漫塔格地区地表水水化学 特征及成因分析[J].干旱区资源与环境，2017,31（6)：64- 70.[Zeng Yanyan,Zhou Jinlong,Jia Ruiliang,et al.Hydrochemical characteristics and causes of surface water in Qimantage area, Xinjiang[J]. Journal of Arid Land Resources and Environment, 2017,31(6):64-70.]   \n[13］栾风娇,周金龙,贾瑞亮,等.新疆巴里坤一伊吾盆地地下水水 化学特征及成因[J].环境化学,2017,36(2）:380-389.[Luan ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fengjiao,Zhou Jinlong,Jia Ruiliang,et al.Hydrochemical characteristics and formation mechanism of groundwater in plain areas of Barkol-Yiwu Basin,Xinjiang[J].Environmental Chemistry,2017, 36(2):380-389.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[14］张艳,吴勇,杨军,等.阆中市思依镇水化学特征及其成因分析 [J].环境科学,2015,36（9）:3230-3237.[ZhangYan，Wu Yong,Yang Jun,et al.Hydrochemical characteristic and reasoning analysis in Siyi Town,Langzhong City[J].Environmental Science, 2015,36(9):3 230-3 237.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[15」李会亚，冯起，陈丽娟，等.民勤绿洲灌区地下水水化学特征及其演化驱动机理[J].干旱区研究，2017，34（4）：733-740.［Li",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Huiya,Feng Qi,Chen Lijuan,et al.Hydrochemical characteristics and evolution mechanism of groundwater in the Minqin Oasis[J]. Arid Zone Research,2017,34(4) :733-740.]   \n[16]Chitsazan M,Aghazadeh N,Mirzaee Y.et al.Hydrochemical characteristics and the impact of anthropogenic activity on groundwater quality in suburban area of Urmia city,Iran[J].Environment,Development and Sustainability,2019,21(2）:331-351.   \n[17]钱会，马致远,李培月,等.水文地球化学[M].北京：地质出版 社,2005:45-46.[Qian Hui,Ma Zhiyuan,Li Peiyue,et al. Hydrogeochemistry[M].Beijing：Geological Press,2Oo5:45- 46.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Hydrogeochemical Evolution Process of Groundwater in the Eastern Plains in Changji Hui Autonomous Prefecture , Xinjiang ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LEI Mi $^ { 1 , 2 }$ ，ZHOUJin-long12，WUBin1²，FAN Wei1²，ZHANGJie1,2 (1.Collge of Water ConservancyandCvilEnginering,Xinjiang Agricultural University,Urumqi 830o52,Xinjiang,China; 2.Xinjiang Center for Hydrologyand Water Resources Engineering Research,Urumqi830o52,Xinjiang,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract：In this paper,the test data of 63 groundwater samples in 2O16and54 water quality monitoring data from 2012 to 2O15 in the eastern plains in Changji Hui Autonomous Prefecture,Xinjiang were analyzed by the mathematical statistics,Piper diagrams,Gibbs figures,ionratios,etc.The purposes of this study was to explore the evolution processof groundwater in the study area.The results showed that the average cationic concentrations of groundwater in the study area in 2012 were in an order of $\\mathrm { C a ^ { 2 + } > K ^ { + } + N a ^ { + } > M g ^ { 2 + } }$ ,and the average anionic concentrations were in an order of $\\mathrm { H C O } _ { 3 } ^ { - } > \\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { C l } ^ { - }$ ． After 2013,the concentration of $\\mathrm { S O } _ { 4 } ^ { 2 - }$ was gradually increased but that of $\\mathrm { C a } ^ { 2 + }$ was gradually decreased.By 2O16,the average cationic concentrations of groundwater were in an order of $\\mathrm { { C a } ^ { 2 + } > \\ K ^ { + } + \\mathrm { { N a } ^ { + } > \\ M g ^ { 2 + } } }$ ,and the average anionic concentrations were in an order of $\\mathrm { H C O } _ { 3 } ^ { - } > \\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { C l } ^ { - }$ ： The hydrochemical type evolved from $\\mathrm { H C O } _ { 3 } - \\mathrm { C a } \\cdot \\mathrm { M g }$ （ $\\mathrm { C a \\cdot N a , C a \\cdot N a \\cdot M g } \\mathrm { ^ { - } M g } \\mathrm { ^ { - } , }$ ）in 2012 to $\\mathrm { H C O } _ { 3 } \\cdot \\mathrm { S O } _ { 4 } - \\mathrm { C a } \\cdot$ $\\mathrm { { N a } \\cdot \\mathrm { { M g } } }$ ( $\\mathrm { C a \\cdot M g , C a \\cdot N a ) }$ in 2016,which was mainly related to the evaporation and rock weathering of aquifer medium,and the evaporation was reflected more in unconfined groundwater. $\\mathrm { \\Delta N a } ^ { + } , \\mathrm { K } ^ { + }$ and $\\mathrm { C l } ^ { - }$ in groundwater came mainly from the dissolution of rock salt ; $\\mathrm { S O } _ { 4 } ^ { 2 - }$ came mainly from the dissolution of gypsum （ $\\mathrm { C a S O } _ { 4 } \\cdot 2 \\mathrm { H } _ { 2 } \\mathrm { O }$ ）and mirabilite ( $\\mathrm { \\Delta N a _ { 2 } S O _ { 4 } \\cdot 1 0 H _ { 2 } O }$ ).In addition to the dissolution of rock salt, $\\mathrm { C l } ^ { - }$ and $\\mathrm { S O } _ { 4 } ^ { 2 - }$ are also affected by human activities. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words:plain； groundwater； hydrogeochemistry ；evolution； Changji； Xinjiang",
+        "page_idx": 10
+    }
+]

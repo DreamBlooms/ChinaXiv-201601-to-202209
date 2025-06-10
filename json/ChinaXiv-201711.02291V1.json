@@ -1,0 +1,611 @@
+[
+    {
+        "type": "text",
+        "text": "How Large is the Contribution of Excited Mesons in Coupled-Channel Effects? ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yu Lu $^ { 1 , 3 }$ \\*， Muhammad Naeem Anwar $^ { 2 , 3 }$ † , Bing-Song Zou $^ { 2 , 3 }$ + $^ 1$ Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049, China, （204号 $^ 2$ CAS Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing 100190, China （204 $^ 3$ University of Chinese Academy of Sciences， Beijing 100049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "May 2, 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We study the excited $B$ mesons’ contributions to the coupled-channel effects under the framework of the $^ { 3 } P _ { 0 }$ model for the bottomonium. Contrary to what has been widely accepted, the contributions of $P$ wave $B$ mesons are generally the largest, and to some extent, this result is independent of the potential parameters.We also push the calculation beyond $B ( 1 P )$ and carefully analyze the contributions of $B ( 2 S )$ . A form factor is a key ingredient to suppress the contributions of $B ( 2 S )$ for low lying bottomonia.However,this suppression mechanism is not effcient for highly excited bottomonia, such as $\\Upsilon ( 5 S )$ and $\\Upsilon ( 6 S )$ . We give explanations why this difficulty happens to the $^ { 3 } P _ { 0 }$ model and suggest analyzing the flux-tube breaking model for the full calculation of coupled-channel effects. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Heavy quarkonium is a multiscale system covering al regimes of quantum chromodynamics (QCD), which make it an ideal place to study strong interactions [1]. Despite the success of QCD in the high energy region，due to asymptotic freedom，the nonperturbative effect dominates at low energies and brings problems to perturbative calculation. One tool to study this non-perturbative efect is lattce QCD. However,due to its huge calculation work,it is stillunable to calculate all the physical quantities with the current computation power. Another important approach is to develop various phenomenological models.Among these phenomenological models,the quark model is a prominent one. Under the quark model framework, various types of interactions have been suggested by various groups,and they have achieved many impressive successes (see e.g. Refs. [2-6]). However, these potential models cannot be the whole story. One important missing ingredient is the mechanism to generate quark-antiquark pairs which enlarge the Fock space of the initial state,i.e.,the initial state contains multiquark components. These multiquark components will change the Hamiltonian of the potential model, causing mass shift and mixing between states with the same quantum numbers or directly contributing to an open channel strong decay if the initial state is above the corresponding threshold. These consequences can be summarized as unquenched effects or coupled-channel effects. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Through various approaches, such as the $^ 3 P _ { 0 }$ model [7-11], flux-tube breaking model [12-16], microscopic decay models [4,17-19], $S$ matrix analysis [2O-23],coupled-channel effects are extensively studied in many literatures (e.g., Refs. [24-29]) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Despite these pioneering works, we find that at least two factors have the potential to jeopardize the calculations of the coupled-channel efects. One is the widely used simple harmonic oscillator (SHO) wave function which approximates the realistic wave function in the wave function overlap integration. As already pointed out in our previous work [30], the SHO approximation is not good, especially for states near thresholds,and it is essential to treat the wave functions precisely. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Another is the assumption that the contribution of the excited meson loops is negligible.Take the bottomonium,which is the system we study in this paper,as an example. Two reasons may explain why this approximation is widely used. One is that the threshold corresponding to the excited $B$ mesons is higher than the ground state $B B$ threshold; thus the coupled-channel effects is expected to be small. Another is that the calculations of the excited $B$ mesons' contributions are more complicated,an effective method to do the calculation is still not widely known. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As explained in [30],the Gaussian expansion method plus the techniques of transformation between the Cartesian and spherical basis can,in principle, do the sophisticated calculations. Another observation is that the first excited $P$ wave $B$ meson is only around 45oMeV heavier than the ground state $B$ meson. This mass difference is less than one tenth of the $B$ mesons’ mass. Given the fact that the quantum numbers of $B _ { 1 }$ are different from the ground state $B$ mesons, and the coupled-channel effects do rely on the quantum numbers,the suppression purely originates from the larger mass may be not as large as what has been taken for granted. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The sum of all the intermediate meson loops is more than just a calculation challenge, it may also lead to profound physics. In the light sector,a series of works by Geiger et al. [31-33]show us that even though different intermediate meson loops contribute to the breaking of Okubo-Zweig-Iizuka (OZI) rule, under some simplifications (such as neglecting the mass difference in the denominator),they contribute destructively,leaving us a perfect OZI rule. If one only sums over some of the meson loops,one may leave with a wrong conclusion. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One should not confuse their calculation with what we are going to do in this work. They studied the flavor-changing process, such as $u u $ virtual meson pairs $ d \\bar { d }$ . However,we mainly focus on the mass shift and their cancelation does not happen to our case.For states below the threshold,the intermediate loops always contribute a negative masshift.Even though for the above threshold case, where the mass shift may add destructively, the mass difference does matter in the real calculation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Ref.[15],under the fux-tube breaking model, Geiger and Isgur also showed that if one adds up all the intermediate states,the mass shift caused by coupled-channel loops does not converge when two assumptions are adopted; i) the meson wave function is the SHO wave function,and ii) the string length between the generated quark pairs is zero. In the $^ 3 P _ { 0 }$ model, this conclusion needs to be checked or recalculated, because the SHO approximation is far from true,which was already stressed before and the vertex of the quark generation is different from the flux-tube breaking model. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are also some studies of the excited meson loops for heavy quarkonium. In the charmonium sector,a lattice calculation in Ref. [34] shows that $\\eta _ { c }$ and $J / \\psi$ has small but non-negligible components of $D _ { 1 } \\bar { D } ^ { * }$ . In bottomonium sector, loops involving a $B _ { 1 }$ meson are proven to be critical to explain the large breaking of the heavy quark spin symmetry of $\\Upsilon ( 1 0 8 6 0 )$ [35]. However, these studies focus on some specific states, and systematic studies of the excited meson loops is still missing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To summarize, it remains to be answered or clarified whether the ground state approximation is good or not,and the general properties of the excited meson loops stillneed to be systematically exploited. In this work,we try to answer these questions under the framework of the ${ } ^ { 3 } P _ { 0 }$ model. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows.In Sec.2, we briefly describe the ingredients of the coupled-channel effects and the calculation techniques, including the $^ 3 P _ { 0 }$ model, the Cornell potential model, the Gaussian expansion method,and the transformations between the spherical and Cartesian basis.Sec.3 is devoted to the results of the higher excited $B$ mesons up to $B ( 2 S )$ ,and we explain the necessity of the form factor and the limitation of the $^ 3 P _ { 0 }$ model. Finally, we give a short summary in Sec. 4. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Theoretical Framework ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The calculation methods and tools are described in details in Ref.[30l; thus,we only sketch the key steps in this section. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcebc702cb7fb5410ee28c69d1eac0ab18bceeebb67384a5fea0269ae99cf615.jpg",
+        "img_caption": [
+            "Figure 1: Sketch of coupled-channel effects in the $^ 3 P _ { 0 }$ model for_the bottomonium. $i$ and $f$ , respectively, denote the initial and final states with the same $J ^ { P C }$ and $B B$ stands for all possible $B$ meson pairs, including the excited $B$ mesons. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The coupled-channel effects in the ${ } ^ { 3 } P _ { 0 }$ model [7-9] can be described by Fig.1. In this model, the generated quark pairs have a vacuum quantum number $J ^ { P C } = 0 ^ { + + }$ . In the notation of ${ } ^ { 2 S + 1 } L _ { J }$ ,it is $^ 3 P _ { 0 }$ （20 that explains the model's name. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Hamiltonian to generate the quark-antiquark pairs is expressed as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { I } = 2 m _ { q } \\gamma \\int d ^ { 3 } x \\bar { \\psi } _ { q } \\psi _ { q } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { q }$ is the produced quark mass and $\\gamma$ is the dimensionless coupling constant. Since the probability to generate heavier quarks is suppressed, we use the effective strength $\\begin{array} { r } { \\gamma _ { s } = \\frac { m _ { q } } { m _ { s } } \\gamma } \\end{array}$ in the following calculation, where $m _ { q } = m _ { u } = m _ { d }$ is the constituent quark mass of the up (or down) quark and $m _ { s }$ is the strange quark mass. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As sketched in Fig.1,the experimentally observed state should be a mixture of a pure quarkonium state $| \\psi _ { 0 } \\rangle$ and a $B$ meson continuum state $| B C ; p \\rangle$ . The experimentally observed state $| A \\rangle$ should be expressed as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| A \\rangle = c _ { 0 } | \\psi _ { 0 } \\rangle + \\sum _ { B C } \\int d ^ { 3 } p c _ { B C } ( p ) | B C ; p \\rangle ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which is the eigenstate of the full Hamiltonian $H$ defined in Eq. 6. $c _ { 0 }$ and $c _ { B C }$ stand for the normalization constants of the bare state and $B$ meson continuum, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to work out $| A \\rangle$ ，as a first step,one has to solve the wave function $| \\psi _ { 0 } \\rangle$ for the heavy quarkonium. In this work,it is obtained by solving the Schrodinger equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { 0 } | \\psi _ { 0 } \\rangle = \\left( 2 m _ { b } + \\frac { p ^ { 2 } } { m _ { b } } + V ( r ) + V _ { s } ( r ) \\right) | \\psi _ { 0 } \\rangle = M _ { 0 } | \\psi _ { 0 } \\rangle\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { b }$ and $M _ { 0 }$ represent the mass of $b$ quark and the bare mass of the bottomonium,respectively. In the above equation, $V ( r )$ is the well-known Cornell potential [4,17] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( r ) = - { \\frac { 4 } { 3 } } { \\frac { \\alpha } { r } } + \\lambda r + c ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha , \\lambda$ and $c$ stand for the strength of color Coulomb potential, the strength of linear confinement and mass renormalization,respectively. $V _ { s } ( r )$ stands for the spin dependent interactions which restores the hyperfine or fine structures of the bottomonium, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { s } ( r ) = \\left( \\frac { 2 \\alpha } { m _ { b } ^ { 2 } r ^ { 3 } } - \\frac { \\lambda } { 2 m _ { b } ^ { 2 } r } \\right) \\vec { L } \\cdot \\vec { S } + \\frac { 3 2 \\pi \\alpha } { 9 m _ { b } ^ { 2 } } \\tilde { \\delta } ( r ) \\vec { S } _ { b } \\cdot \\vec { S } _ { \\bar { b } } + \\frac { 4 \\alpha } { m _ { b } ^ { 2 } r ^ { 3 } } \\left( \\frac { \\vec { S } _ { b } \\cdot \\vec { S } _ { \\bar { b } } } { 3 } + \\frac { ( \\vec { S } _ { b } \\cdot \\vec { r } ) ( \\vec { S } _ { \\bar { b } } \\cdot \\vec { r } ) } { r ^ { 2 } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\vec { L }$ denotes relative_orbital angular momentum, $\\vec { S } = \\vec { S } _ { b } + \\vec { S } _ { \\bar { b } }$ is the total spin of the $b$ quark pairs and $m _ { b }$ is the $b$ quark mass. $\\tilde { \\delta } ( \\boldsymbol r )$ is the smeared delta function andis writen as $\\tilde { \\delta } ( r ) = ( \\sigma / \\sqrt { \\pi } ) ^ { 3 } e ^ { - \\sigma ^ { 2 } r ^ { 2 } }$ [19,36]. We treat the spin dependent term as a perturbation, and the spatial wave functions are obtained by solving Schrodinger equation numerically using Numerov's method [37]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Combine the Cornell potential and the dynamics of quark pair generation, we get the full Hamiltonian, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = H _ { 0 } + E _ { B C } + H _ { I } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { B C } = \\sqrt { m _ { B } ^ { 2 } + p ^ { 2 } } + \\sqrt { m _ { C } ^ { 2 } + p ^ { 2 } }$ . The $H _ { I }$ term in Eq. 6 is mainly responsible for the mass shift. As the name tells us, it is naturally defined as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta M \\equiv M - M _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and it can be obtained by solving the integral equation ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta M = \\sum _ { B C } \\int d ^ { 3 } p { \\frac { | \\langle B C ; p | H _ { I } | \\psi _ { 0 } \\rangle | ^ { 2 } } { M - E _ { B C } - i \\epsilon } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note that the $i \\epsilon$ term is added to handle the situation when $m _ { A } > m _ { B } + m _ { C }$ . In this case, $\\Delta M$ will pick up an imaginary part ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I m } ( \\Delta M ) = \\sum _ { B C } \\pi P _ { B } \\frac { E _ { B } E _ { C } } { m _ { A } } | \\langle B C ; P _ { B } | H _ { I } | \\psi _ { 0 } \\rangle | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which is equal to one half of the the decay width. $P _ { B }$ and $E _ { B }$ denote the momentum and energy of $B$ （204号 meson,respectively. The wave function overlap integration lies in the term ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle B C ; P _ { B } | H _ { I } | \\psi _ { 0 } \\rangle = \\sum _ { \\mathrm { { \\scriptsize ~ p o l a r i z a t i o n } } } \\int d ^ { 3 } k \\phi _ { 0 } ( \\vec { k } + \\vec { P } _ { B } ) \\phi _ { B } ^ { * } ( \\vec { k } + x \\vec { P } _ { B } ) \\phi _ { C } ^ { * } ( \\vec { k } + x \\vec { P } _ { B } ) | \\vec { k } | Y _ { 1 } ^ { m } ( \\theta _ { \\vec { k } } , \\phi _ { \\vec { k } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $x = m _ { q } / ( m _ { b } + m _ { q } )$ and $m _ { b }$ and $m _ { q }$ denote the $b$ quark and the light quark mass, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Once $M$ is solved,the coefficient of different components can be worked out either. For states below the threshold, the probability of the $b b$ component is expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { b \\bar { b } } : = | c _ { 0 } | ^ { 2 } = \\left( 1 + \\sum _ { B C L S } \\int _ { 0 } ^ { \\infty } d p \\frac { p ^ { 2 } | \\mathcal { M } ^ { L S } | ^ { 2 } } { ( M - E _ { B C } ) ^ { 2 } } \\right) ^ { - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\vert \\mathcal { M } ^ { L S } \\vert ^ { 2 }$ is represented as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\mathcal { M } ^ { L S } | ^ { 2 } = \\int d \\Omega _ { B } | \\langle B C ; P _ { B } | H _ { I } | \\psi _ { 0 } \\rangle | ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The main calculation work lies in the Eq.10. In order to evaluate it precisely, we use the Gaussian expansion method (GEM) [38] and the transformation between the spherical and Cartesian basis to make the GEM automatic applicable to the excited $B$ meson. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results and Discussions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 $B _ { 1 }$ 's Contributions with Traditional $^ { 3 } P _ { 0 }$ Model ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this work,we do not intend to reproduce the spectrum and decay widths of the bottomonium family, but to study the general contributions of the excited B meson to coupled-channel effects. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There are two simplifcations in our calculation. Firstly, since the constituent quark mass of $u , d$ quarks are set to be the same to get the wave functions,we further make the approximation $m ( B ^ { 0 } ) \\approx m ( B ^ { \\pm } )$ Notwithstandingthissmplifatio,teearestill42caelstoecallate,i, $B _ { ( s ) } ^ { ( * ) } \\bar { B } _ { ( s ) } ^ { ( * ) } , B _ { ( s ) } ^ { ( * ) } \\bar { B } _ { s } ( 1 P )$ （204号 and $B _ { ( s ) } ( 1 P ) B _ { ( s ) } ( 1 P )$ . In principle, one can still treat their mass precisely, however, based on our experiences,this simplification is quite precise,and it saves a lot of the calculation work. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Second simplification comes from $B _ { 1 }$ meson multiplets. From the perspective of the quark model, there are four $1 P$ wave $B$ mesons.Nevertheless,the predicted $B _ { 0 } ( 1 P )$ and one of the $B _ { 1 } ( 1 P )$ are still not experimentally observed.As far as the coupled-channel is concerned,the missng of these two states is not a real problem. Because the mass of $b$ quark is very large, it is safe to assume that the heavy quark spin symmetry does not break. Under this limit, it is reasonable to set the mass of $B _ { 0 } ( ^ { 3 } P _ { 0 } )$ and missing partner of $B _ { 1 } ( 5 7 2 1 )$ to be the same as $B _ { 1 } ( 5 7 2 1 )$ . There is a mixing between $B ( ^ { 3 } P _ { 1 } )$ and $B ( ^ { 1 } P _ { 1 } )$ to form the experimentally observed $B _ { 1 } ( 5 7 2 1 )$ [39]. However, since we sum up all the possible combinations of $B$ mesons,mixing between the two $1 ^ { + } B$ mesons can also be neglected. As far the mass of the intermediate states are well measured, we use the value from the Particle Data Group [39]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The coupled-channels are much more involved than the case,which only includes the ground state $B$ （204 mesons.For illstration purposes,we sum up the contributions of the states in the same multiplet and $u , d , s$ flavors and their charge conjugate partners, classifying the channels into three groups (see Fig 2), e.g., $B ( 1 S )$ stands for ground state $B , B ^ { * } , B _ { s }$ ，and $B _ { s } ^ { * }$ mesons.Also,in the rest of this paper,we define $\\Delta M ( i , j )$ to represent the sum of the mass shift due to all the possible combinations of $i$ and $j$ wave $B$ （204号 mesons. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/36d3d54d4fab02126e18f73cc9fe5839c4b55957744ebf6853f47b98a030a66e.jpg",
+        "table_caption": [
+            "The parameters are given in Table 1, which are the same as our previous work [30]. ",
+            "Table 1: The parameters used in our calculation. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>α = 0.34 mb = 4.5GeV</td><td>入= 0.22GeV2 mu = md =0.33GeV γ = 0.205</td><td>c = 0.435GeV ms = 0.5GeV</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The mass shift $\\Delta M$ of both $B ( 1 S )$ and $B ( 1 P )$ mesons are depicted in Fig.2. In the rest of this section，we are going to discuss some interesting structures of the plots. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "When the states are far below the threshold,the mass shift is always negative las indicated in Eq. 8], and closer to the threshold means an increase of $| \\Delta M |$ . When the mass goes higher, the magnitude of $\\Delta M$ is no longer monotonically increasing but oscillating,which reflects the node structure of the wave functions.This phenomenon happens to both cases whether $B _ { 1 }$ mesons’ contributions are considered or not. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A specific example would help to clarify this point. For $\\Upsilon ( 1 0 8 6 0 )$ ，which we treat it as $\\Upsilon ( 5 S )$ $\\Delta M ( 1 S , 1 P )$ is generally the largest but there is a big dip around 11.14 GeV with parameters in Tab.1; however,in Ref.[40]'s parameters,this channel's contribution always grows. In these cases,it is dificult to make a solid conclusion about the spectrum behavior,i.e.,the spectrum is sensitive to the potential parameters. This conclusion also agrees with Ref. [41]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The most notable impact of $B _ { 1 }$ family is the unexpected large contributions to the mass shift,and generally, $\\Delta M ( 1 S , 1 P )$ is the largest. Even for $\\Upsilon ( 1 S )$ ，which is far below the threshold, $\\Delta M ( 1 S , 1 P ) +$ $\\Delta M ( 1 P , 1 P )$ is 14 times larger than $\\Delta M ( 1 S , 1 S )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compared with the case that only considers the ground states $B$ mesons contributions,threshold effect is more clearly reflected when the excited $B$ mesons is included, because open channels due to different multiplets arewell separated. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/99179cbdc02d5b5ec6db3d4cfd9e813741282a3e33364b9b620d10d5ad5ea958.jpg",
+        "img_caption": [
+            "Figure 2: $- \\Delta M$ of different coupled-channels for $\\Upsilon ( n S )$ . The results with parameters in Tab.1 and the results recalculated with parameters of Ref. [40] are represented by thick and thin curves,respectively. $\\Delta M ( 1 S , 1 S ) , \\Delta M ( 1 S , 1 P )$ ，and $\\Delta M ( 1 P , 1 P )$ are represented by black dot-dashed, red dashed and blue solid curves, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8c81e176e6bf736fbb1d07cb84ccadfc18ca87d926fc3031c2895161cee4047.jpg",
+        "img_caption": [
+            "Figure 3: $- \\Delta M$ of different coupled-channels for some selected representatives of the $^ 1 S _ { 0 } , { } ^ { 1 } P _ { 1 } , { } ^ { 3 } P _ { J } , { } ^ { 3 } D _ { 1 }$ families. The results with parameters in Tab.1,and results recalculated with parameters of Ref.[40] are represented by thick and thin curves,respectively. $\\Delta M ( 1 S , 1 S ) , \\Delta M ( 1 S , 1 P )$ ，and $\\Delta M ( 1 P , 1 P )$ are represented by black dot-dashed,red dashed,and blue solid curves,respectively. Here we omit the results of $\\eta _ { b } ( n S ) , h _ { b } ( n P )$ ，and $\\chi _ { b j } ( n P )$ when $n \\leq 2$ , because these results are quite similar to those of $\\Upsilon ( 1 S )$ or $\\Upsilon ( 2 S )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The first open bottom threshold is $2 m _ { B } \\approx 1 0 . 5 6 4$ leV.When the mass approaches to this value, the denominator $M - E _ { B C }$ approaches to O in Eq. 8; thus, there is an enhancement of $\\Delta M$ from the $B ( 1 S ) B ( 1 S )$ channel. From the $\\Upsilon ( 3 S )$ case in Fig. 2, one can clearly see the sharp increase of $\\Delta M ( 1 S , 1 S )$ between 10.55 and 10.6GeV,while the slop of the other channels does not change much because their threshold is 450MeV larger. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The threshold effect is broken in some degree by the nodes of the wave functions. The peaks and valleys of the wave function are more likely to cancel with each other for higher excited states,leaving a relatively small slope of $\\Delta M$ . One can compare the result of $\\Upsilon ( 4 S )$ with $\\Upsilon ( 3 S )$ verify this conclusion. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We need to stress that $^ 3 S _ { 1 }$ is not the only family who couples strongly with $B B ( 1 P )$ loop. As shown in Fig 3, all the families of $^ 1 S _ { 0 } , { } ^ { 1 } P _ { 1 } , { } ^ { 3 } P _ { J } , { } ^ { 3 } D _ { 1 }$ share these general properties. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "An direct consequence of the large $\\Delta M ( 1 S , 1 P )$ is that the parameters only considering ground state $B$ mesons to reproduce the experimental data are somewhat incomplete or even misleading. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This conclusion is independent of the parameters to some degree, since the results are based on two different sets of parameters (Refs. [30] and [4O]), both give large $\\Delta M ( 1 S , 1 P )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It seems feasible that to fit the spectrum,one may tune the parameters,such as the mass renormalization term $c$ in Eq. 4, to absorb this unexpected large mass shift, or take a further step,weaken the confine potential to reflect the fact that closer to the threshold generally means more suppression of the mass. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This could be a possble way out, if someone only focuses on the spectrum. However,as pointed out in our previous work [30], the mass shift only reveals one aspect of the coupled-channel effects. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To be specific, the big contribution of $B ( 1 P )$ not only brings us the large mass shift $\\Delta M$ ，but also the large fraction of meson pairs (or equivalently, small $P _ { b { \\bar { b } } }$ ). This renormalization of the wave function cannot be accommodated in the framework of the potential model. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 Beyond $B _ { 1 }$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The large contribution of $B _ { 1 }$ mesons reminds us that it is essential to do the ab initio calculations of coupled-channel effects. However,before really carrying out these calculations,one may naturaly ask this question,“how large are the contributions of the states beyond $B _ { 1 }$ or how to evaluate all the intermediate meson loops?\" ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It is very difficult to offer a complete answer to this question. Nevertheless, it turns out that we can still estimate the contributions up to $B ( 2 S )$ . Furthermore, by analyzing the mass shift behavior carefully, we can draw some model independent conclusions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "First of all, we are trying to precisely evaluate the loops. Of course, since the $B ( 2 S )$ mass and its wave functions are not known,the calculation has to be model dependent,which is inevitable. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "So far, the $B ( 2 S )$ meson has not been experimentally well determined and its mass is model dependent. For our purposes,it is sufficient to take an average of several theoretical estimations in Refs.[42-46],and for the consistency treatment of the wave functions,the $B ( 2 S )$ wave functions are still deduced from our parameters. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Wedefine the ratio ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR : = \\frac { \\Delta M ( 2 S , 2 S ) + \\Delta M ( 2 S , 1 P ) + \\Delta M ( 2 S , 1 S ) } { \\Delta M ( 1 S , 1 S ) + \\Delta M ( 1 S , 1 P ) + \\Delta M ( 1 P , 1 P ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "to tell how large are the contributions of $B ( 2 S )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As will be explained below,in the calculation when $B ( 2 S )$ are involved,we adopt the Gaussian form factor which reveals the size of the generated quark pairs (see,e.g.,Ref.[47-49]). This form factor modifies $\\langle B C ; P _ { B } | H _ { I } | \\psi _ { 0 } \\rangle$ to be ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle B C ; P _ { B } | H _ { I } | \\psi _ { 0 } \\rangle = \\sum _ { \\mathrm { \\scriptsize ~ p o l a r i z a t i o n } } \\int d ^ { 3 } k e ^ { - 2 r ^ { 2 } k ^ { 2 } / 3 } \\phi _ { 0 } ( { \\vec { k } } + { \\vec { P } } _ { B } ) \\phi _ { B } ^ { * } ( { \\vec { k } } + x { \\vec { P } } _ { B } ) \\phi _ { C } ^ { * } ( { \\vec { k } } + x { \\vec { P } } _ { B } ) | { \\vec { k } } | Y _ { 1 } ^ { m } ( \\theta _ { \\vec { k } } ) | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this work,we fit $r$ to be 0.408 fm,which minimizes $R$ of $\\Upsilon ( 1 S )$ . This value slightly larger than the value $r = 0 . 3 3 5$ fm used in Ref. [49]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From Fig. 4, one can clearly observe that the form factor is crucial to suppress the $B ( 2 S )$ 's contributions. Without it, $B ( 2 S )$ can contribute an additional 25% of the $\\Delta M$ . This deviation is not negligible if one wants to make a precise fit of the spectrum. However, with a form factor $r = 0 . 4 0 8$ fm,the $\\Delta M$ （204号 of $B ( 2 S )$ is suppressed to less than 5%. The previous question is partly answered,the form factor is indispensable if one needs to suppress the contributions of $B ( 2 S )$ . However， with the increase of $n$ in $\\Upsilon ( n S )$ family, the form factor works less and less efficiently to suppress $R$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ca9b879aebd144b45b1dfcef620721c883c7fea4cb48891e4f9d65c64e4791e.jpg",
+        "img_caption": [
+            "Figure 4: $R$ [defined in Eq. 13] of the $\\Upsilon$ family. Results corresponding to $r ~ = ~ 0$ (no form factors), $r = 0 . 3 3 5 \\mathrm { f m }$ (taken from [49])，and $r = 0 . 4 0 8 \\mathrm { f m }$ (our best fit）are denoted by black dot-dashed，blue dashed, and red solid curves, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Another effect of the form factor is that it adds more peaks to the oscillation of $\\Delta M$ . This result has a pictorial explanation. Since the form factor effectively serves as a cutof,this term will generally suppress every channel's contribution. The key point is that diferent channels are suppressed by a different magnitude. With the increase of the nodes of the wave functions of bottomonia and $B$ mesons,at some specific energy point, $B ( 2 S )$ 's relative contributions may increase. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1c193a2e975753fc71b13e3a6fdf54b25d2eb8b56459f8bc22b954355af4900.jpg",
+        "img_caption": [
+            "Figure 5: $- \\Delta M$ of $\\Upsilon ( 5 S )$ and $\\Upsilon ( 6 S )$ with different form factors. Solid curves represent the denominator of Eq. 13, i.e., $\\Delta M ( 1 S , 1 S ) + M ( 1 S , 1 P ) + M ( 1 P , 1 P )$ , and dashed curves represent the numerator,i.e. $\\Delta M ( 2 S , 2 S ) + \\Delta M ( 2 S , 1 P ) + \\Delta M ( 2 S , 1 S )$ ： $\\Delta M$ corresponding to $r = 0$ ， $r = 0 . 3 3 5 \\mathrm { f m }$ ，and $r = 0 . 4 0 8 \\mathrm { f m }$ （204号 are denoted by black,blue,and red curves, respectively. The value of the $- \\Delta M$ cannot compare within different form factors because the $^ 3 P _ { 0 }$ coupling constants are not fit to reproduce experimental data. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Clearly the sharp peaks of $\\Upsilon ( 5 S )$ and $\\Upsilon ( 6 S )$ deserves a special analysis. Both of them locate around ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "11.18GeV.Given the fact that the wave functions of $\\Upsilon ( 5 S )$ and $\\Upsilon ( 6 S )$ are quite different,yet they both have the same sharp peaks at the same energy points,it turns out to be more than just a coincidence. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$R$ is convenient to estimate $B ( 2 S )$ 's relative contributions; however,it cannot tell whether the peak is due to the suppression of the denominator or the increase of the numerator. The complete information is encoded in $\\Delta M$ itself. In Fig. 5, we show $\\Delta M \\mathrm { s }$ for $\\Upsilon ( 5 S )$ and $\\Upsilon ( 6 S )$ with different form factors. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From Fig. 5, one can see that the enhancement of $R$ around 11.18 GeV is in fact the bigger suppression of $\\Delta M ( 1 S , 1 S ) + \\Delta M ( 1 S , 1 P ) + \\Delta M ( 1 P , 1 P )$ ， [or more precisely, the suppression of $\\Delta M ( 1 S , 1 P ) ]$ We have scanned $r$ in quite a wide range $0 . 1 7 - 1 . 0 8$ fm,which all show that the form factor does not shift the positions of peaks or valleys of $\\Delta M$ . Around this region,the form factor fails to suppress the $B ( 2 S )$ ,S contribution is somewhat a coincidence, because this suppression does not happen to $\\Upsilon ( 5 S )$ and $\\Upsilon ( 6 S )$ （204号 with Ref. [40]'s parameters; their $\\Delta M ( 1 S , 1 P )$ always goes up. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Even in the low energy range where all the coupled-channels contribute a negative $\\Delta M$ ， no matter whether the form factor is considered or not,the $B ( 2 S )$ still contribute around $2 0 \\%$ of the total mass shift for $\\Upsilon ( 5 S )$ and $\\Upsilon ( 6 S )$ . In other words,the form factor fails to suppress $B ( 2 S )$ 's contributions.This strongly indicates that only adding the Gaussian form factor is not adequate to result in a complete calculation of the coupled-channel effects under the ${ } ^ { 3 } P _ { 0 }$ framework. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "One may argue that the coupled channel effect can be absorbed into the smeared potential which returns wave functions broader than those of the Cornell model. These broad wave functions indeed somewhat suppressthe higher excited states contributions. However, based on our experience,changing the size of the wave functions is also not able to solve the convergence issue. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We conclude this section with some comments on the $^ 3 P _ { 0 }$ model. In the classical ${ } ^ { 3 } P _ { 0 }$ model, the suppression due to the natural cutoff from wave functions and the increase of the denominator of Eq. 8 are too weak. Even with the remedy of the Gaussian form factor,if one does not choose the cutoff $r$ （204 carefully, one will enhance instead of suppressing the $B ( 2 S )$ contribution. Compared with other models, such as the microscopic decay model or the flux-tube breaking model, which have rich microscopic details of the decay vertices, the $^ 3 P _ { 0 }$ model replaces these fine structures as an overall coupling constant $\\gamma$ . This approximation may be not appropriate (see e.g. Ref.[50l). In our case, we show that this approximation leads to the bad convergence of the sum of the excited meson loops for highly excited bottomonia. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The rich structure of the quark pair generation vertices may help to solve the convergence issue. For example,the Hamiltonian of the fux-tube breaking model suppresses the generation of the farther quarks, one will expect that it is harder to generate excited intermediate states. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/00691ce71c7405ee0fe0ac543a3427b8557228e7924a34f4aef168f6f2741034.jpg",
+        "img_caption": [
+            "Figure 6: Sketch of coupled-channel effects in the fux-tube breaking model.Red lines stand for the flux-tube.The regions outside the flux-tube are shaved off,i.e. excited states’ contributions in the loops are suppressed. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As illustrated in Fig.6,contributions from the regions that are farther from the fux-tube line can be dropped,as a result,the excited mesons’ contribution is naturally suppressed. Without this dynamical suppression, it is more difficult to suppress $B ( 2 S )$ 's contributions even with the modified version of the $^ 3 P _ { 0 }$ model, where the form factor is added. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Summary and Outlook ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this paper,under the $^ 3 P _ { 0 }$ model framework, we explicitly calculated the excited $B$ mesons’ contributions to the coupled-channel effcts for the bottomonium.We reveal the fact that compared to the ground state $B$ mesons,contributions from $B ( 1 P )$ mesons are generally the largest. Up to this partial wave,it is necessary to do the ab initio calculations of the coupled-channel effects. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "When we push the calculation beyond $B ( 1 P )$ ，we find some fundamental difficulties of the ${ } ^ { 3 } P _ { 0 }$ model. Even with the carefully chosen form factor,it still cannot eficiently suppress intermediate state contributions of higher partial waves. Since we do not fit our parameters with experimental data, and we have exploited several different sets of parameters,we have enough reasons to believe that the difficulties are independent of the wave functions or the potential models. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We suggest that an efficient suppression mechanism such as a dynamically suppression is needed to evaluate the coupled-channel effects. How to effectively sum up all the intermediate loops of coupledchannels still remains to be an open issue. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Yu Lu is grateful to Professor Feng-Kun Guo for various discussions and suggestions and to Mr. BaoDong Sun and Professor Yu-Bing Dong for lending their cluster computing resources. M. Naeem Anwar acknowledges several discussons with Professor Cristoph Hanhart during the Hadron Physics Summer School (HPSS 2016)at Forschungszentrum Julich. This work is supported by the National Natural Science Foundation of China under Grants No.11261130311(CRC110 by DFG and NSFC) and No.11647601. M. Naeem Anwar is supported by CAS-TWAS President's Fellowship for International Ph.D. Students. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] N. Brambilla et al.,“Heavy quarkonium: progres, puzzles, and opportunities,” Eur. Phys. J.C7] (2011) 1534,arXiv:1010.5827 [hep-ph].   \n[2] A. Martin,“A simultaneous fit of $b b$ ,cC, ss, (bcs pairs) and cs spectra,” Phys. Lett. B100 (1981) 511.   \n[3] R. A. Bertlmann and A. Martin,“Inequalities on heavy quark-antiquark systems,” Nucl. Phys. B168 (1980) 111-136.   \n[4] E. Eichten, K. Gotfried, T. Kinoshita,K.D.Lane,and T.-M. Yan,“Charmonium: The Model,” Phys. Rev. D17 (1978) 3090. [Erratum: Phys. Rev.D21,313(1980)].   \n[5] W. Buchmuler and S. H. H. Tye,“Quarkonia and Quantum Chromodynamics,” Phys. Rev. D24 (1981) 132.   \n[6] S. Godfrey and N. Isgur,“Mesons in a Relativized Quark Model with Chromodynamics,” Phys. Rev. D32 (1985) 189-231.   \n[7] L. Micu,“Decay rates of meson resonances in a quark model,” Nucl. Phys. B10 (1969) 521-526.   \n[8] A. Le Yaouanc, L. Oliver, O. Pene, and J. C. Raynal, “Naive quark pair creation model of strong interaction vertices,” Phys. Rev. D8(1973) 2223-2234.   \n[9] A.Le Yaouanc, L. Oliver, O.Pene,and J. C. Raynal,“Naive quark pair creation model and baryon decays,” Phys. Rev. D9 (1974) 1415-1419.   \n[10] H. G. Blundell, Meson properties in the quark model: A look at some outstanding problems. PhD thesis,Carleton U.,1996. arXiv:hep-ph/9608473 [hep-ph].   \n[11] T. Barnes and E. S. Swanson,“Hadron loops: General theorems and application to charmonium,” Phys. Rev.C77 (2008) 055206, arXiv:0711.2080 [hep-ph].   \n[12] J. Carlson, J. B. Kogut, and V. R. Pandharipande,“A Quark Model for Baryons Based on Quantum Chromodynamics,” Phys. Rev. D27 (1983) 233.   \n[13] J. Carlson, J. B. Kogut,and V.R. Pandharipande,“Hadron Spectroscopy in a Flux Tube Quark Model,” Phys. Rev. D28 (1983) 2807.   \n[14] R. Kokoski and N. Isgur,“Meson decays by flux-tube breaking,” Phys. Rev. D 35 no. 3, (Feb., 1987) 907-933. http://1ink.aps.org/doi/10.1103/PhysRevD.35.907.   \n[15] P. Geiger and N. Isgur,“The Quenched Approximation in the Quark Model,” Phys. Rev. D41 (1990) 1595.   \n[16] F.E. Close and P.R. Page,“The Production and decay of hybrid mesons by flux tube breaking,\" Nucl. Phys.B443 (1995) 233-254, arXiv:hep-ph/9411301 [hep-ph].   \n[17] E.Eichten, K. Gottfried, T. Kinoshita, K. D.Lane,and T.-M. Yan,“Charmonium: Comparison with Experiment,” Phys. Rev. D21 (1980) 203.   \n[18] E. S. Ackleh,T. Barnes,and E. S. Swanson,“On the mechanism of open flavor strong decays,” Phys.Rev. D54 (1996) 6811-6829, arXiv:hep-ph/9604355 [hep-ph].   \n[19] T. Barnes, S. Godfrey, and E. S. Swanson,“Higher charmonia,” Phys. Rev. D72 (2005) 054026, arXiv:hep-ph/0505002 [hep-ph].   \n[20] V. Baru, C. Hanhart, Yu. S.Kalashnikova,A. E. Kudryavtsev,and A. V. Nefediev,“Interplay of quark and meson degrees of freedom in a near-threshold resonance,” Eur. Phys. J. A44 (2010) 93-103,arXiv:1001.0369 [hep-ph].   \n[21] C. Hanhart, Yu. S. Kalashnikova, and A. V. Nefediev,“Interplay of quark and meson degrees of freedom in a near-threshold resonance: multi-channel case,” Eur. Phys. J. A47 (2011) 101-110, arXiv:1106.1185 [hep-ph].   \n[22] F. K. Guo, C. Hanhart, Yu. S. Kalashnikova,P. Matuschek, R. V. Mizuk, A. V. Nefediev, Q. Wang, and J.L. Wynen,“Interplay of quark and meson degrees of freedom in near-threshold states: A practical parametrization for line shapes,” Phys. Rev. D93 no. 7, (2016) 074031, arXiv:1602.00940 [hep-ph].   \n[23] I. K. Hammer, C. Hanhart, and A. V. Nefediev,“Remarks on meson loop effcts on quark models,” Eur. Phys. J. A52 no.11, (2016) 330,arXiv:1607.06971 [hep-ph].   \n[24] K. Heikkila, S. Ono,and N. A. Tornqvist,“Heavy $c c$ and $b b$ quarkonium states and unitarity effects,” Phys. Rev. D29 (1984) 110. [Erratum: Phys. Rev.D29,2136(1984).   \n[25] S. Ono and N. A. Tornqvist,“Continuum Mixing and Coupled Channel Effects in $c c$ and $b b$ Quarkonium,” Z. Phys. C23 (1984) 59.   \n[26] N.A. Tornqvist and P. Zenczykowski, “Ground State Baryon Mass Splittings From Unitarity,\"” Phys. Rev. D29 (1984) 2139.   \n[27] S. Ono,A. I. Sanda,and N. A. Tornqvist,“ $B$ Meson Production Between the $\\Upsilon$ (4s)and $\\Upsilon$ (6s) and the Possibility of Detecting $B B$ Mixing,” Phys. Rev. D34 (1986) 186.   \n[28] S. Ono,A. I. Sanda,N.A. Tornqvist,and J. Lee-Franzini,“Where Are the $B B$ Mixing Effects Observable in the Y Region?,” Phys. Rev. Lett. 55 (1985) 2938.   \n[29] I. V. Danilkin and Yu. A. Simonov,“Channel coupling in heavy quarkonia: Energy levels, mixing, widths and new states,” Phys. Rev. D81 (2010) 074027, arXiv:0907.1088 [hep-ph].   \n[30] Y.Lu, M. N. Anwar,and B.-S. Zou,“Coupled-Channel Effcts for the Bottomonium with Realistic Wave Functions,” Phys. Rev. D94 no. 3, (2016) 034021, arXiv:1606.06927 [hep-ph].   \n[31] P.Geiger and N. Isgur,“How the Okubo-Zweig-Iizuka rule evades large loop corrections,” Phys. Rev. Lett.67(1991) 1066-1069.   \n[32] P. Geiger and N. Isgur,“Reconciling the OZI rule with strong pair creation,” Phys. Rev. D44 (1991) 799-808.   \n[33] P. Geiger and N. Isgur,“When can hadronic loops scuttle the OZI rule?,” Phys. Rev. D47 (1993) 5050-5059.   \n[34] G. S. Bali, S. Collins,and C. Ehmann,“Charmonium spectroscopy and mixing with light quark and open charm states from $n _ { F }$ =2 lattice QCD,” Phys. Rev. D84 (2011) 094506, arXiv:1110.2381 [hep-lat].   \n[35] F.-K. Guo, U.-G. Meiner,and C.-P. Shen,“Enhanced breaking of heavy quark spin symmetry,” Phys. Lett. B738 (2014) 172-177,arXiv:1406.6543 [hep-ph].   \n[36] B.-Q. Li, C. Meng,and K.-T. Chao,“Coupled-Channel and Screening Efects in Charmonium Spectrum,” Phys.Rev. D80 (2009) 014012, arXiv:0904.4068 [hep-ph].   \n[37] B. Numerov,“Note on the numerical integration of $d ^ { 2 } x / d t ^ { 2 } = f ( x , t )$ ,” Astron. Nachr. 230 (1927) 359.   \n[38] E. Hiyama, Y. Kino,and M. Kamimura,“Gaussan expansion method for few-body systems,” Prog. Part. Nucl. Phys. 51 (2003) 223-307.   \n[39] Particle Data Group Collaboration, C. Patrignani et al.，“Review of Particle Physics,” Chin. Phys.C40 no.10,(2016) 100001.   \n[40] J.-F.Liu and G.-J. Ding,“Bottomonium Spectrum with Coupled-Channel Efects,” Eur. Phys. J. C72 (2012) 1981, arXiv:1105.0855 [hep-ph].   \n[41] N. A. Tornqvist,“The Y (5s) Mass and $e ^ { + } e ^ { - } \\to B \\bar { B }$ ， $B \\bar { B } ^ { * }$ ， $B ^ { * } \\bar { B } ^ { * }$ as Sensitive Tests of the Unitarized Quark Model,” Phys. Rev. Lett. 53 (1984) 878.   \n[42] J. Zeng, J. W. Van Orden,and W. Roberts,“Heavy mesons in a relativistic model,” Phys. Rev. D52 (1995) 5229-5241, arXiv:hep-ph/9412269 [hep-ph].   \n[43] M. Di Pierro and E. Eichten,“Excited heavy - light systems and hadronic transitions,” Phys. Rev. D64 (2001) 114004, arXiv:hep-ph/0104208 [hep-ph].   \n[44] D.Ebert,R. N.Faustov,and V. O. Galkin,“Heavy-light meson spectroscopy and Regge trajectories in the relativistic quark model,” Eur. Phys. J. C66 (2010) 197-206, arXiv:0910.5612 [hep-ph].   \n[45] T.A. Lahde, C.J. Nyfalt,and D. O. Riska,“Spectra and M1 decay widths of heavy light mesons,” Nucl. Phys.A674 (2000) 141-167, arXiv:hep-ph/9908485 [hep-ph].   \n[46] Q.-F.L, T.-T. Pan, Y.-Y. Wang, E. Wang,and D.-M. Li, “Excited bottom and bottom-strange mesons in the quark model,” Phys. Rev. D94 no.7,(2016) 074012, arXiv:1607.02812 [hep-ph].   \n[47] B. Silvestre-Brac and C. Gignoux,“Unitary effects in spin orbit spliting of P wave baryons,” Phys. Rev. D43 (1991) 3699-3708.   \n[48] W. Roberts and B. Silvestre-Brac,“Meson decays in a quark model,” Phys. Rev. D57 (1998) 1694-1702, arXiv:hep-ph/9708235 [hep-ph].   \n[49] J. Ferretti and E. Santopinto,“Higher mass bottomonia,” Phys. Reu. D90 no. 9,(2014) 094022, arXiv:1306.2874 [hep-ph].   \n[50]A.M. Badalian, V.D. Orlovsky,and Yu. A. Simonov,“Microscopic study of the string breaking in QCD,” Phys. Atom. Nucl. 76 (2013) 955-964, arXiv:1210.4674 [hep-ph]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

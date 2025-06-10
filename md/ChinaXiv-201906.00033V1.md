@@ -1,0 +1,92 @@
+# The effect of non-labial facial information on audiovisual speech perception
+
+Zeyu Huang1,a, Yao Lu1,b, Lu Wang1 c and Xiyu Wu2, d 1Department of Chinese Language and Literature, Peking University, Beijing 10o871, China ² Center for Chinese Linguistics,Peking University, Beijing 100871, China azeyu.huang@pku.edu.cn，b luyiru2012 $@$ 163.com，° wanglunj@163.com，d xiyuwu@pku.edu.cn
+
+Keywords: McGurk effect, audiovisual speech perception, non-labial facial information.
+
+Abstract. We conducted an experiment consisting of five blocks to examine the effect of non-labial facial information on audiovisual speech perception. 2O Chinese native speakers were asked to report the syllables they perceived during five Condition: audio-only，video-only， video-only without labial part, audiovisual and audiovisual without labial part. The materials were /pa/, /tsa/, /ta/,/tsa/ and /ka/,which were selected according to places of articulation from front to back. The results showed that even though the non-labial facial information was not enough to distinguish non-labial consonants,they could have significant effect on auditory speech perception.
+
+# 1.Introduction
+
+Although speech perception in natural condition was a multisensory process, classic models of speech processing focused predominantly on acoustic input, ignoring the influence of visual information (Van Wassenhove V,2O13). As a meter of fact, visual input does not only provide subsidiary information such as identification or emotion,the forms and kinematics of facial information could also provide abundant details of articulation, which could even affect the speech processing directly and cause a fused illusion when video and audio input were incongruent (McGurk H, MacDonald J, 1976).
+
+However, it was unclear how we extract articulation information from visual input and what parts of visual information work during speech processing. Several studies have indicated that mouth was not the only resource for perceiving linguistic information (Rosenblum L D, Saldana H M,1996; Paré,et al.,2003).Even if the fixation point was fixed $1 0 ^ { \circ } - 2 0 ^ { \circ }$ from talker's mouth, McGurk efect persisted. Therefore,the present study was to explore whether and to what extent non-labial facial information could affect visual and audiovisual speech perception.
+
+# 2. Method
+
+# 2.1 Subjects
+
+20 Mandarin speakers including 8 males and 12 females ranging from 19 to 29 years old (overall mean ag $\mathfrak { s } { = } 2 3 . 6 { \pm } 2 . 5 3$ years） attended this research. All of them had normal or corrected-to-normal vision and no speech or hearing impairment. None of them had received lip reading training. They had no idea of experiment hypothesis all the way.
+
+# 2.2 Stimuli
+
+The audiovisual stimuli for the experiment were recorded by a EOS kiss X5 camera and a professional external microphone in the studio of Linguistic Laboratory of Peking University. The frame rate of video was 29.97 FPS and the sampling rate of audio was $4 8 \mathrm { k H z }$
+
+The stimuli were made of 2 native speakers of Mandarin,1 male (m1) and 1 female (fl). Only the head and shoulder were shot against a dark blue background. The materials were edited with Adobe Premiere 2O18 to ensure that each stimulus was 2-second long and without blinks.
+
+There were 5 Chinese syllables /pa/, /tsa/, /ta/, /tsa/ and $\scriptstyle { \big / } \ k \ a /$ which were composed of vowel $/ \mathrm { a } /$ and a series of consonants,each represented for a place of articulation from front to back. For incongruent audiovisual stimuli,/pa/ was dubbed into the videos of the other syllbles.Because according to previous studies, the McGurk effect arose by audio $/ \mathrm { p a } /$ tended to be the strongest among allkinds of incongruent pairs of Chinese syllables (Pan X,2O11). Besides, for the series of non-labial stimuli,the mouth areas were covered by black oval masks, which were set by the frame of each stimulus when mouth was open widest. To sum up, there were 66 stimuli for all, including 10 $( 2 ^ { * } 5 )$ stimuli for each of audio-only (OA), video-only (OV), video-only without mouth area （204号 $\mathrm { ( O V \_ N o M ) }$ condition, and 18 stimuli (1O congruent and 8 incongruent) for each of audiovisual (AV) and audiovisual without mouth area (AV_NoM) condition. For each block, the stimuli were presented randomly.
+
+# 3. Results
+
+# 3.1 Audio Only
+
+When there were only audio stimuli available, the recognition rates were as followed:
+
+Table 1 Percentages of Correct Identifications of Audio-Only (OA) Condition   
+
+<html><body><table><tr><td rowspan="2">Talk</td><td colspan="5">STIMULI</td><td rowspan="2">Average</td></tr><tr><td>/pa/</td><td>/tsa/</td><td>/ta/</td><td>/tsal</td><td>/kal</td></tr><tr><td>er f1</td><td>100.</td><td>100.</td><td>100. 00</td><td>95.4 5</td><td>81.8 2</td><td>95.454</td></tr><tr><td>m1</td><td>00 81.8 2</td><td>00 100. 00</td><td>100. 00</td><td>95.4 5</td><td>86.3 6</td><td>92.726</td></tr></table></body></html>
+
+The average percentage of all audio stimuli was $9 3 . 8 1 \% { \pm } 6 . 6 9 \%$ . According to a two-way ANOVA, the main effect of talker was not significant $\mathrm { \Delta } \mathrm { \cdot } \mathrm { F } ( 1 , 2 0 ) { = } 1 . 0 0$ $\scriptstyle \mathtt { p } = 0 . 3 2 9 )$ ]. The identification rate of $/ \mathrm { k a } /$ was significantly smaller than /tsa/ and /ta/. All audio stimuli could be identified at high proportion.
+
+# 3.2 Video Only
+
+![](images/d3f1e40d548fab294b3af4380deb19e674e1276255611a7c006407bb530af76d.jpg)  
+Fig.1 Percentages of Correct Identifications of Video-Only (OV) Condition
+
+Figure l shows the rate of correct identifications when only visual stimuli were presented. Analyzed with a two-way ANOVA, there was a significant interaction effect between talker and stimulus $[ \mathrm { F } ( 4 , 7 6 ) { = } 3 . 6 7 3$ ， $\mathsf { p } { < } 0 . 0 1 )$ ]. We conduct a paired comparison adjusted by Bonferroni test, for $/ \mathrm { t a } /$ and $/ \mathrm { k a } /$ , the identification rate of fl was significantly higher than those of m1. And for each talker, the accuracy of labial consonant $/ { \mathfrak { p } } /$ was much higher than the other non-labial consonants, while the /t/ sound was the lowest. Overall, the percentages of correct identifications distributed in U-shape according to places of articulation, which was considerable high for labial consonant, then decrease sharply to bottom, and rise again at the place of velar.
+
+# 3.3 Video Only without Mouth Area
+
+![](images/469390c00c6e55c30250c58be8865aecfa36ac10085deca57c46ff16ace02502.jpg)  
+Fig. 2 Percentages of Correct Identifications of Video-Only without mouse area (OV_NoM) Condition
+
+For the block of visual stimuli without mouth,compared with normal visual condition, the accuracy of all stimuli decrease to some extent. There was a significant interaction effect between talker and stimulus $[ \mathrm { F } ( 4 , 7 6 ) { = } 3 . 9 5 6$ ， $\mathsf { p } { < } 0 . 0 1 )$ ].For $/ \mathrm { p a } /$ , accuracy of fl was significantly higher than ml.There was no significant difference between fl and ml on other syllables. What's more, for each talker,the percentages of correct identification of these consonants were decline with places of articulation from front to back. Compared to OV condition, the identification rate of $/ \mathrm { k a } /$ was affected most, then was $/ \mathtt { t s a } / \mathtt { \Gamma }$ ，The other syllables were slightly or barely influenced.
+
+![](images/8406cca9e98b3a057d0a710824cce595ec90dfced62e789e7b6681667b57b97c.jpg)  
+Fig. 3 Percentages of Correct Identifications of OV(Video-Only) versus OV_NoM (Video-Only without mouse area) condition
+
+# 3.4 Audiovisual
+
+![](images/0a15cc9f3d5abfb13a1ae950495e4774fad4b44303b6293ac121e70787b27d06.jpg)  
+Fig. 4 Accuracy performance in response to the presentation of incongruent audiovisual stimuli (AV).
+
+The percentages of correct identifications of audiovisual condition were showed in Figure 4. No interaction effect was significant between talker and visual stimulil $\mathrm { F } ( 3 , 1 6 ) { = } 1 . 3 8 0$ ， $\scriptstyle \mathtt { p } = 0 . 2 8 5 )$ ]. And visual stimulus has no main effect on McGurk effect $[ \mathrm { F } ( 3 , 1 6 ) { = } 3 . 1 9 8$ ， $\scriptstyle \mathtt { p - 0 . 0 5 2 } )$ ]. However there was a significant different between two talkers[ $\mathrm { F } ( 1 , 1 8 ) { = } 6 . 1 3 3$ ， $\mathsf { p } { < } 0 . 0 5 )$ ]: the accuracy percentage of fl $( 1 9 . 7 { \pm } 7 . 2 \% )$ ）was much higher than $\mathrm { m } 1 ( 2 . 6 \% \pm 1 . 5 \% )$ ，which means the McGurk effect of fl was much weaker than $\mathbf { m } \mathbf { l }$ , though by and large, the McGurk effect of every stimulus was considerably strong.
+
+# 3.5 Audiovisual without Mouth Area
+
+![](images/20596d91bfa18a990e2b97dc371ecbc01438839b7ef6067a7ea51bbad1189b53.jpg)  
+Fig. 5 Accuracy performance in response to the presentation of incongruent audiovisual stimuli without mouth (AV_NoM).
+
+When mouth areas were covered, there was no significant interaction between talker and visual stimuli[F $( 3 , 5 7 ) { = } 1 . 1 3 2$ $\mathrm { p } { = } 0 . 3 4 4 ) \dot { }$ l，andnosignificantdifferenceamongvisualstimuli $[ \mathrm { F } ( 3 , 5 7 ) = 1 . 8 3 0 \$ ， $\scriptstyle \mathtt { p } = 0 . 1 5 2 )$ ]. However the main effect of talker was still significant $[ \mathrm { F } ( 1 , 1 9 ) = 2 4 . 0 5 7$ ， $\mathrm { \tt p } { < } 0 . 0 1 \big ) \dot { }$ ]: the accuracy percentage of fl $( 6 6 . 3 { \pm } 7 . 4 \% )$ was much higher than $\mathrm { m } 1 ( 2 7 . 5 \% { \pm } 6 . 9 \% )$ ,that was to say the McGurk effect of fl was still weaker than m1.
+
+Compared with AV condition, no other effect or interactions among talker, mouth condition and visual stimuli were found to be statistically significant, except for the interaction between talker and mouth condition $[ \mathrm { F } ( 1 , 1 8 ) { = } 1 2 . 9 0 6$ ， $\mathrm { \ p { < } } 0 . 0 1 \$ ]. Even though the McGurk effect of all stimuli tend to be weaker when mouth areas were covered, there is still 1/3 to 1/2 chance that fusion illusions occurred.
+
+# 4. Conclusion
+
+The results showed that McGurk effect never disappeared even when mouth areas were totally covered, which indicated that even though the non-labial facial information was not enough to identify non-labial consonants by itself, the visible kinematics of articulatory gestures on the nonlabial facial area could have significant effect on auditory speech perception.
+
+# References
+
+[1] Van Wassenhove V. Speech through ears and eyes: interfacing the senses with the supramodal brain[J]. Frontiers in Psychology, 2013, 4(JUL): 1-17.   
+[2]Sumby WH,Pollack I. Visual Contribution to Speech Intelligibility in Noise[J]. The Journal of the Acoustical Society of America, 1954, 26(2): 212-215.   
+[3] Mcgurk H, Macdonald J. Hearing lips and seeing voices[J]. Nature, 1976,264(5588): 746-748.   
+[4] Green K P, Kuhl P K, MeltzoffA N et al. Integrating speech information across talkers, gender, and sensory modality: Female faces and male voices in the McGurk effect[J]. Perception & Psychophysics, 1991, 50(6): 524-536.   
+[5] Munhall K G, Gribble P, Sacco L et al. Temporal constraints on the effect.[J]. Perception & Psychophysics, 1996, 48(3): 351-362.   
+[6] Sekiyama K. Cultural and linguistic factors in audiovisual speech processing: The McGurk effect in Chinese subjects[R]. 1997, 59(1).   
+[7] Sekiyama K， Tohkura Y. McGurk efect in non-English listeners: Few visual effects for Japanese subjects hearing Japanese syllables of high auditory intelligibility[J]. The Journal of the Acoustical Society of America, 1991, 90(4): 1797-1805.   
+[8] Macdonald J,Andersen S, Bachmann T. Hearing By Eye: Visual Spatial Degradation And The Mcgurk Effect[C]//Sixth European Conference on Speech Communication and Technology. 1999.   
+[9] Rosenblum L D, Saldana H M.An audiovisual test of kinematic primitives for visual speech perception.[J]. Journal of Experimental Psychology: Human Perception and Performance,1996, 22(2): 318-331.   
+[10]Munhall K G. Eye movement of perceivers during audiovisual speech perception[J]. Perception & Psychophysics, 1998, 60(6): 926-940.   
+[11]Martin Paré，Rebecca C.Richler M T H G M. Gaze behavior in audiovisual speech perception: The influence of ocular fixations on the McGurk effect[R]. 2003.   
+[12]Worster E,Pimperton H,Ralph-Lewis A Et Al.. Eye Movements During Visual Speech Perception in Deaf and Hearing Children[J]. Language Learning, 2017(June): 159-179.   
+[13]Pan, X.Labial Coaticulation and Audio-Visual Speech Perception in Standard Chinese [M]. 2011.

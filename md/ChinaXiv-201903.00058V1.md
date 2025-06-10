@@ -1,0 +1,213 @@
+# 基于RBF_PID控制的三相动态电压恢复器
+
+任宝森　姜雪菲李立伟（青岛大学自动化与电气工程学院青岛 266000 )
+
+![](images/79c47cf80dea7dc56e97834648126dd155cc9fa89ddb85f515398538d8df0e94.jpg)
+
+任宝森男 1992年生，硕士研究生，主要研究方向为电力系统在线监测及故障诊断。
+
+摘要：在电力系统各种电能质量问题中，电压暂降发生概率最高。目前解决动态电能质量问题的主要手段是动态电压恢复器 (DVR)，本文针对传统PID控制存在的稳态误差较大、负载适应性差、对非线性负载补偿不足等问题，提出了采用RBF神经网络对动态电压恢复器的PID控制参数进行动态整定的方案。仿真实验表明，该方案获得了动态性能优越、控制简单、鲁棒性强的效果。
+
+关键词：RBF神经网络 PID 整定 动态电压恢复器 电压凹陷中图分类号：TM762
+
+# Dynamic Voltage Restorer Control Based on RBF PID
+
+Ren Baosen Jiang Xuefei Li Liwei (College of Automation and Electrical Engineering Qingdao University Qingdao266071 China）
+
+![](images/d68115b617591c1382bb4c9d931c2c49a9d523a205f8851a5ca3cfe451b855b9.jpg)
+
+Abstract: The highest probability of power quality problems is the voltage sag in the power system. Dynamic voltage restorer (DVR) is the main method to solve dynamic power quality problems. To obtain better dynamic performance, simple control effect and strong robustness,a dynamic tuning method is proposed for the PID control parameters of dynamic voltage restorer using radial basis function (RBF） neural network in this paper. The scheme has the advantages of superior dynamic performance, simple control and strong robustness.
+
+姜雪菲 女 1992年生，硕士研究生，主要研究方向为电力系统在线监测及故障诊断。
+
+Keywords: RBF neural network, PID tuning, dynamic voltage restorer, voltage sag
+
+# 1 引言
+
+电压暂降作为目前发生概率最高的电能质量问题，给电力系统运行和对电压波动感应灵敏的精密性设备带来很大的损害。目前针对此问题最有效的解决方案就是采用动态电压恢复器（DynamicVoltageRestorer，DVR）进行电压调节。常见的DVR采用传统的PI调节，该调节方式对暂降电压的补偿难以达到理想的效果。为解决这一问题，许多学者对其控制方法进行了研究，文献[1]针对DVR逆变输出受到非线性和冲击性负载扰动的问题，将单周控制结合PI环节，建立DVR三相H桥逆变单元的单周控制模型。文献[2]为使DVR装置在补偿负载电压的同时能够进一步改善系统电压的谐波特性，提出一种基于比例积分（ProportionalIntegral，PI）和改进比例谐振（Modified ProportionalResonant，MPR）双闭环控制器并联运行的单相正弦脉宽调制（Sinusoidal PulseWidthModulation,SPWM）复合控制策略，该策略在确保DVR装置对负载电压暂降补偿能力的同时，实现对谐波电压的无静差补偿。文献[3]针对传统控制在电压跌落严重时难以消除谐波电流对DVR的不利影响的现象，提出了一种任意负载条件下的DVR复合控制策略，在实现对负载电压的无静差补偿的基础上，有效提高了DVR在负载突变时的稳定性和对非线性负载的电压补偿能力。文献[4]进一步引入Posicant Control的分布控制方法，在同一周期内采用渐变比例系数来抑制DVR投切时的振荡，但这种控制方法增加了控制难度。文献[5]提出运用对称分量法，在考虑负序和零序补偿电压的同时，在满足负荷的电压幅值和相移范围内确定DVR的电压最优控制策略。本文针对传统PID对电压暂降不能达到理想效果的问题，提出通过RBF神经网络对PID参数进行整定，在实现对负载电压的无静差补偿的基础上，有效提高了DVR在负载电压突变时的动态响应特性。
+
+# 2 DVR功能及其基本结构
+
+DVR是一种低压配电网中的串联型电能质量控制设备，其功能为在DVR保护线路发生电压凹陷时对跌落电压进行补偿，使线路电压恢复正常状态，保护对供电电压比较敏感的负载。典型的串联型DVR主要包含储能装置、逆变单元、控制部分、滤波电源、串联变压器等，其结构如图1所示。
+
+![](images/f2e36fb9020a6f9132a39be575c10a567442c96e5c2f4af2f6ba5cab138152be.jpg)  
+图1 DVR结构图
+
+DVR的基本原理为：当负荷供电电压正常时，DVR被旁路，负荷电压由配电网提供电压，在电网电压 $U _ { \mathrm { s } }$ 发生跌落时，DVR通过传感器、检测电路准确快速地检测出电压跌落的特征量，包括跌落幅值、持续时间和可能的相位跳变，依据这三个特征量并综合考虑储能容量、控制策略、负荷对电压的要求，根据预先设置的算法确定出补偿电压并生成指令电压，进而生成控制逆变器所需的PWM信号，然后用驱动电路去控制功率开关；逆变器输出电压经过LC滤波器滤掉高次谐波后通过串联变压器输入到系统侧，通过合适的控制策略使DVR的输出电压能够实时监测指令电压的变化，最终产生与补偿指令相同的补偿电压。
+
+# 3基于RBF_PID的DVR控制策略分析
+
+基于RBF_PID控制策略的DVR系统框图如图2所示。
+
+![](images/e70a773a5fe87bb08a956dee5a7d24ebe5aeda7f35decc4fd3d042318df343bf.jpg)  
+Fig.1 The structure of DVR   
+图2系统控制策略图  
+Fig.2Block diagram of DVR system based on RBF_PID control strategy
+
+DVR采集系统当前三相供电电压值，经过$\mathrm { A B C } / d q ^ { [ 1 5 ] }$ 变换得出 $U _ { d 0 }$ 、 $U _ { q 0 }$ ，与系统标准供电电压值 $U _ { d 0 \mathrm { r e f } } .$ $U _ { q 0 \mathrm { r e f } }$ 比较做差后获取系统供电电压误差，通过RBF_PID控制器整定PID参数值，同时计算出当前需要补偿的电压值后，DVR根据该电压值输出需要补偿的电压量。PID控制器采用增量式PID算法，在控制过程中采用RBF神经网络对PID值进行整定，使PID控制器的动态性能得到显著提高。增量式PID 算法为
+
+$$
+u ( k ) = u ( k - 1 ) + k _ { \mathrm { p } } x _ { \mathrm { c } } ( 2 ) + k _ { \mathrm { i } } x _ { \mathrm { c } } ( 1 ) + k _ { \mathrm { d } } x _ { \mathrm { c } } ( 3 )
+$$
+
+其中
+
+$$
+x _ { \mathrm { { c } } } \left( 1 \right) = e r r o r ( k ) - e r r o r ( k - 1 )
+$$
+
+$$
+x _ { \mathrm { { c } } } \left( 2 \right) = e r r o r ( k )
+$$
+
+$$
+x _ { \mathrm { { c } } } \left( 3 \right) { = } e r r o r ( k { - } 1 ) { - } 2 e r r o r ( k { - } 2 ) { + } e r r o r ( k { - } 3 )
+$$
+
+$$
+e r r o r ( k ) = r i n k ( k ) - y _ { \mathrm { o u t } } ( k )
+$$
+
+RBF神经网络整定PID算法框图如图3所示。
+
+![](images/7f2df4acdfa2666786e6391a8b261cc4c46f1876314341b34cddd3d08daff59e.jpg)  
+图3RBF神经网络整定PID参数原理图
+
+RBF神经网络属于前向神经网络，由输入层、隐含层和输出层构成。其神经网络结构如图4所示。在该网络中，输入层作用为传输信号，隐含层采用非线性优化策略对激活函数的参数进行调整，输出层采用线性优化策略对线性权重进行调整。
+
+![](images/3ae64ac7de4ac5bb7279881367a5426f81b7c1ee450e18da6c002319810f8e27.jpg)  
+Fig.3RBF neural network tuning PID algorithm block diagram   
+图4RBF神经网络原理图  
+Fig.4The RBF neural network structure diagram
+
+在该神经网络整定过程中，选择系统电压输入向量 $X = [ x _ { 1 } , \ x _ { 2 } , \ \cdots , \ x _ { n } ] ^ { \mathrm { T } }$ 为神经网络输入层，选择高斯基函数 $\pmb { H } = \left[ h _ { 1 } \right.$ ， $h _ { 2 }$ ，…， $\boldsymbol { h _ { m } } \boldsymbol { ] } ^ { \mathrm { T } }$ 为网络径向基向量，其表达式为
+
+$$
+h _ { j } = \exp \left( - \frac { \left\| X - { \cal C } _ { j } \right\| ^ { 2 } } { 2 b _ { j } ^ { 2 } } \right) \qquad j = 1 , 2 , \cdots , m
+$$
+
+式中， $\| X  – C _ { j } \|$ 为欧式范数； $C _ { j }$ 为高斯函数的中心向量； $b _ { j }$ 为节点 $j$ 的基宽函数。设该网络的权向量为$\pmb { W } = \left[ \pmb { W } _ { 1 } \right.$ ， $w _ { 2 }$ ，…， ${ w _ { m } } ] ^ { \mathrm { T } }$ ，其辨识网络的输出为
+
+$$
+y _ { m } ( k ) = w _ { 1 } h _ { 1 } + w _ { 2 } h _ { 2 } + \cdots + w _ { m } h _ { m }
+$$
+
+令神经网络学习速率为 $\eta$ ，动量因子为 $\scriptstyle { a }$ 。根据梯度下降法，输出权参数迭代算法为
+
+$$
+\begin{array} { c } { { w _ { _ j } ( k ) = w _ { _ j } ( k - 1 ) + \eta [ y _ { _ \mathrm { o u t } } ( k - 1 ) - y _ { _ m } ( k ) ] h _ { _ j } + } } \\ { { \alpha [ w _ { j } ( k - 1 ) - w _ { _ j } ( k - 2 ) ] } } \end{array}
+$$
+
+神经网络节点中心参数迭代算法为
+
+$$
+b _ { j } ( k ) = b _ { j } ( k - 1 ) + \alpha [ b _ { j } ( k - 1 ) - b _ { j } ( k - 2 ) ] + \eta \Delta b _ { j }
+$$
+
+网络基宽参数迭代算法为
+
+$$
+\begin{array} { c } { { b _ { j } ( k ) = b _ { j } ( k - 1 ) + \alpha [ b _ { j } ( k - 1 ) - b _ { j } ( k - 2 ) ] + \eta \Delta b _ { j } } } \\ { { c _ { j } ( k ) = c _ { j } ( k - 1 ) + \eta \Delta c _ { j } + \alpha [ c _ { j } ( k - 1 ) - c _ { j } ( k - 2 ) ] } } \end{array}
+$$
+
+Jacobian矩阵算法为
+
+$$
+\Delta c _ { j } = [ y _ { \mathrm { o u t } } ( k ) - y _ { m } ( k ) ] w _ { j } \frac { x _ { j } - c _ { j } } { b _ { j } ^ { 2 } }
+$$
+
+神经网络整定指标为
+
+$$
+E ( k ) = { \frac { 1 } { 2 } } e r r o r ( k ) ^ { 2 }
+$$
+
+根据神经网络整定指标，采用梯度下降法对$K _ { \mathfrak { p } }$ 、 $K _ { \mathrm { d } }$ 、 $K _ { \mathrm { i } }$ 进行整定，其原理为
+
+$$
+\Delta K _ { \mathrm { p } } = - \eta \frac { \partial E } { \partial K _ { \mathrm { p } } } = - \frac { \partial E } { \partial y } \frac { \partial y } { \partial u } \frac { \partial u } { \partial K _ { \mathrm { p } } } = - \eta e r r o r ( k ) \frac { \partial y } { \partial u } x _ { \mathrm { c } } ( 1 )
+$$
+
+$$
+\Delta K _ { \mathrm { i } } = - \eta \frac { \partial E } { \partial K _ { \mathrm { i } } } = - \frac { \partial E } { \partial y } \frac { \partial y } { \partial u } \frac { \partial u } { \partial K _ { \mathrm { i } } } = - \eta e r r o r ( k ) \frac { \partial y } { \partial u } x _ { \mathrm { c } } ( 2 )
+$$
+
+$$
+\Delta K _ { \mathrm { d } } = - \eta \frac { \partial E } { \partial K _ { \mathrm { d } } } = - \frac { \partial E } { \partial y } \frac { \partial y } { \partial u } \frac { \partial u } { \partial K _ { \mathrm { d } } } = - \eta e r r o r ( k ) \frac { \partial y } { \partial u } x _ { \mathrm { c } } ( 3 )
+$$
+
+# 4 计算机仿真验证
+
+采用MatlabSimulink仿真软件对敏感负载的电压暂降情形仿真验证。仿真参数如下：变压器 $\mathrm { ~ T _ { 1 } ~ }$ 容量为 $2 . 5 \mathrm { k V \cdot A }$ ，额定电压为 $2 2 \mathrm { k V } / 3 8 0 \mathrm { V }$ ，接线方式为Y/△方式，励磁阻抗为 $5 0 0 \Omega$ ；变压器 $\mathrm { ~ T } _ { 2 }$ 额定容量 $3 . 2 \mathrm { k V \cdot A }$ ，额定电压为 $2 2 \mathrm { k V } / 3 8 0 \mathrm { V }$ ，接线方式为 $\mathrm { Y / }$ △方式，励磁阻抗为 $5 0 0 \Omega$ ；负载额定容量为$2 \mathrm { k V } \cdot \mathrm { A }$ ，额定电压为 $2 2 0 \mathrm { V }$ 。忽略线路阻抗影响，采用标幺值计算，其系统仿真模型如图5所示。
+
+![](images/910aebfab77991024f130c4942d3202882e05836e7bd00836c59827d4bad65e3.jpg)  
+图5系统仿真模型
+
+系统在0.02s时 $M$ 处发生A相接地短路故障，在0.08s时短路故障被切除， $M$ 处故障电压经过变压器 $\mathrm { T } _ { 1 }$ 和变压器 $\mathrm { T } _ { 2 }$ 传递到 $H$ 处造成 $H$ 处电压跌落$30 \%$ ， $H$ 电压标幺值波形如图6所示。其中横轴为时间，纵轴为相关变量标幺值波形（无特殊说明，下同）。
+
+![](images/feaeac91b17d9629615967207780e62909c45ea2a25d60af07d4bc07bfa5b85b.jpg)  
+Fig.5System simulation model
+
+三相供电电压经过ABC/dq 变换为 $U _ { q 0 }$ 和 $U _ { d 0 }$ 其电压标幺值波形如图7所示。
+
+![](images/2f403b069ce480899f0d92bd9f2fa6a387058aaa45d111c8d256b64fd769316b.jpg)  
+图6 $H$ 处三相电压供电电压波Fig.6Point $H$ voltage waveforms  
+图7 $U _ { d 0 }$ 、 $U _ { q 0 }$ 波形   
+Fig.7The voltage waveforms of $U _ { d 0 }$ 、 $U _ { q 0 }$
+
+系统启动运行以后，RBF神经网络根据控制误差不断调节PID参数使系统达到最优控制，其PID参数变换波形如图8、图9所示。
+
+图8、图9中， $U _ { d 0 }$ 侧PID参数经过极短时间后保持稳定； $U _ { q 0 }$ 侧PID参数在系统运行初始状态变化比较剧烈，经过较短的时间后参数保持相对稳定。PID 控制器输出电压波形如图10所示。
+
+![](images/d582adac5a5471a8a094e540cbf59fac725d4f4ab33a05e619e43d6ca9e3f3dd.jpg)  
+图8 $U _ { d 0 }$ 侧PID参数波形
+
+![](images/3b2c0af0eb6dedc0c2f3d3b0951adc9cdee94406ff5796dab8c199f59abd7ec0.jpg)  
+Fig.8The PID parameters of $U _ { d 0 }$   
+图9 $U _ { q 0 }$ 侧PID 参数波形
+
+![](images/5a4862a33ad37b97edf84cc863ad0abc6293d601a03cbee5f1f85ad08f473265.jpg)  
+Fig.9The PID parameters of $U _ { q 0 }$   
+图10PID控制器输出电压波形
+
+系统最终补偿电压波形如图11所示。
+
+![](images/634ba1f81c8677a293690fdf97b61897b07c7613687223511ccd5ff499416d4c.jpg)  
+Fig.l0The output voltage waveforms ofPID controller   
+图11系统最终补偿后电压波形  
+Fig.11Compensated voltage waveforms
+
+由图11可以看出，当系统发生电压跌落时，DVR在极短时间内实现电压无静差补偿。与传统的控制策略相比，该方案具有动态性能优越、控制简单、鲁棒性强的优点。
+
+# 5 结束语
+
+本文首先对当前电力系统中使用DVR控制中存在的问题，提出了使用RBF神经网络整定PID参数的方法。通过仿真实验证明，该方法在电压跌落较为恶劣的情况下，能够显著提高系统的控制精度以及动态响应速度，实现无静差补偿。
+
+参考文献  
+[1] 王建伟，张庆振，胡晓光．基于单周控制逆变算法的动态电压恢复器设计与实现[J]．电力系统保护与控制，2013(17)：95-102.Wang Jianwei, Zhang Qingzhen, Hu Xiaoguang.Dynamic voltage restorer design and implementationbased on one-cycle control inverter algorithm[J].Power System Protection and Control, 2013(17): 95-102.  
+[2] 黄永红，徐俊俊，刘国海，等．基于复合控制策的无串联变压器型动态电压恢复器[J]．电工技术学，2015(12)：253-260.Huang Yonghong, Xu Junjun, Liu Guohai, et al.Transformerless dynamic voltage restorer based oncompound control strategy[J]. Ansactions of ChinaElectrotechnical Society,2015(12): 253-260.  
+[3] 李哲，吴正国，夏立，等．任意负载条件下动态电压恢复器的复合谐振控制策略[J]．中国电机工程学报，2013(25)：130-138.Li Zhe,Wu Zhengguo, Xia Li, et al. Compoundresonant for voltage restorers under arbitrary loadconditions[J].Proceedings of the CSEE,2013(25):130-138.  
+[4] 成瑞芬，韩肖清，王鹏，等．微电网动态电压恢复器运行模式研究[J]．电网技术，2013(3)：610-615.Chen Ruifen, Han Xiaoqing,Wang Peng,et al.Research on operation modes of dynamic voltagerestorer in microgrid[J]. Power System Technology,2013(3): 610-615.  
+[5] 克长宾，李永丽．动态电压恢复器的电压跌落综合补偿策略研究[J]．电力系统保护与控制，2012,17: 94-99.Ke Changbin, Li Yongli. Study on voltage sagscompensation strategy for dynamic voltagerestorer[J].Power System Protection and Control,2012, 17: 94-99.  
+[6] 王晶，徐爱亲，翁国庆，等．动态电压恢复器控制策略研究综述[J]．电力系统保护与控制,2010(1): 145-151.Wang Jing, Xu Aiqin, Weng Guoqing, et al. AouivuProtection and Control,2010(1): 145-151.  
+[7] 李草苍．基于RBF神经网络序贯学习算法的单神经元PID控制[D]．成都：西南交通大学，2014.  
+[8] 陈雯柏，吴细宝，裴艳荣，等．基于RBF神经网络的自适应PID 控制策略研究[J]．Proceedings,2010.Chen Wenbai, Wu Xiba, Pei Yanrong, et al. Researchon adaptive PID control strategy based on RBFneural network[J]. Proceedings, 2010.  
+[9] 赵江东，李娟，马小陆．基于RBF 神经网络动态辨识的自整定PID控制策略[J]．工业仪表与自动化装置，2009(6)：12-15.Zhao Jiangdong, Li Juan, Ma Xiaolu. Adaptive PIDcontrol strategy based on dynamic identification ofRBF neural network[J]. Industrial Instrumentationand Automation, 2009(6): 12-15.  
+[10]姜万录，刘伟，张瑞娟，等．基于蚁群优化的神经网络智能 PID控制策略研究[J]．机床与液压,2010，38(13):22-25.Jiang Wanlu,Liu Wei, Zhang Ruijuan, et al.Application of BP neural network intelligent PIDcontroller based on the ant colony optimization[J].Machine and Hydraulic,2010,38(13): 22-25.  
+[11]吴帆，刘璐，李鹏．一种基于RBF 神经网络的模糊PID控制算法[J]．重庆科技学院学报（自然科学版），2009(6)：142-144，147.Wu Fan,Liu Lu,Li Peng.A fuzzy PID controlalgorithm based on RBF neural network[J]. Journalof Chongqing University of Science and Technology(Natural Science Edition),2009(6): 142-144,147.  
+[12]胥良，郭林，梁亚，等．基于模糊RBF神经网络的智能 PID控制[J]．工业仪表与自动化装置,2015(6):67-69，75.Xu Liang,Guo Lin, Liang Ya, et al. Intelligent PIDcontrol based on fuzzy RBF neural network[J].Industrial Instrumentation and Automation, 2015(6):67-69, 75.  
+[13]蔡满军，刘建军，刘明坤．基于RBF 网络自整定PID控制的改进算法[J]．控制工程，2008(1)：15-17.Cai Manjun, Liu Jianjun, Liu Mingkun. Improvedself tuning PID controller based on RBF neuralnetwork[J]. Control Engineering of China,2008(1):15-17.  
+[14] 吴卫兵．基于RBF 在线辨识的神经网络PID 控制及其应用[J]．冶金动力，2006(4)：84-86.Wu Weibing.PID control and aplication of RBFbased on-line identification neural network[J].Metallurgical Power, 2006(4): 84-86.  
+[15] 彭春萍，陈允平，孙建军，等．动态电压恢复器及其检测方法的探讨[J]．电力自动化设备，2003,23(1): 68-71.Peng Chunping,Chen Yunping,Sun Jianjun,et al.Study of dynamic voltage restorer and its detectingmethod[J]. Electric Power Automation Equipment,2003,23(1): 68-71.  
+[16] 王艳芬，于洪珍，王刚．通信电子电路Matlab/Simulink仿真[J]．电气电子教学学报，2007(1)：77-81.Wang Yanfen,Yu Hongzhen,Wang Gang.Matlab/Simulink simulation of communication electroniccircuit[J]. Journal of Electrical and ElectronicTeaching,2007(1): 77-81.  
+[17] 白金，韩俊伟．基于Matlab/Simulink 环境下的PID参数整定[J]．哈尔滨商业大学学报（自然科学版），2007(6)：673-676，681.Bai Jin,Han Junwei.PID parameter tuning based onMatlab/Simulink environment[J]. Journal of HarbinUniversity of Commerce (Natural Science Edition),2007(6): 673-676,681.  
+[18] 王素青，姜维福．基于Matlab/Simulink 的PID参数整定[J]．自动化技术与应用，2009(3)：24-25，28.Wang Suqing, Jiang Weifu. PID parameter tuningbased on Matlab/Simulink environment[J].Automation Technology and Application,2009(3):24-25,28.  
+[19] 邓国扬，盛义发．基于Matlab/Simulink的电力电子系统的建模与仿真[J].南华大学学报（理工版）,2003(1):1-6.Deng Guoyang,Sheng Yifa.Modeling andsimulation of power electronic system based onMatlab/Simulink[J].Journal ofUniversity of SouthChina (Science and Technology),2003(1):1-6.  
+[20] 韩芝侠．基于Matlab/Simulink 仿真的电力电子实验系统设计与实现[J]．陕西理工学院学报（自然科学版），2008(2)：26-30.Han Zhixia.Design and implementation of powerelectronic experiment system simulation based onMatlab/Simulink[J].Journal of Shaanxi University ofTechnology (Natural Science Edition),2008(2): 26-30.  
+[21] 樊艳芳，葡红．Matlab/Simulink在电力系统仿真中的应用[J]．新疆大学学报（自然科学版)，2004(2): 205-207.Fan Yanfang,Lin Hong.Application of Matlab/Simulink in power system simulation[J]. Journalof Xinjiang University (Natural Science Edition),2004(2): 205-207.
+
+# （上接第27页）
+
+on different compensation topologies in inductively coupled power transfer system[J].Transaction of China Electrotechnical Society,2009,24(1):133- 139. [14] 马皓，周雯琪．电流型松散耦合电能传输系统的建 模分析[J]．电工技术学报，2005，20(10)：66-71. Ma Hao,Zhou Wenqi.Modeling analysis of inductively coupled power transfer systems based on
+
+current source resonant converter[J].Transaction of China Electrotechnical Society,2005,20(10): 66-71. [15] 孙向东，柳树有，赵欣荣，等．准谐振型电磁炉 工作机理分析与调功方法研究[J]．电力电子技术, 2015，49(5):42-45. Sun Xiangdong,Liu Shuyou, Zhao Xinrong,et al. Research on working principle and power regulating method of the quasi-resonant induction cooker[J]. Power Electronics,2015,49(5):42-45.

@@ -1,0 +1,339 @@
+# 基于圈结构的LPANNI优化算法‘
+
+刘继a,b，贾芳弟a
+
+(新疆财经大学a.统计与数据科学学院;b.新疆社会经济统计与大数据应用研究中心，乌鲁木齐 830012)
+
+摘要：针对重叠社区发现准确率提升问题，提出了一种基于圈结构的 LPANNI 优化算法CLPANNI(Cycle LabelPropagation Algorithm with NeighborNode Influence)。该算法通过挖掘节点的最小圈信息，依据圈比指标衡量节点的重要性并按升序进行标签更新，增加了标签传播过程的稳定性，按照邻居节点影响力大小加权接收邻居节点传递的标签。与4种基准算法在NMI_LFK，NMI_MGH，MOV指标下进行测试比较，CLPANNI算法在社区发现准确率方面表现较好。实验结果表明该算法能够有效探测网络重叠社团结构，发现网络的紧密子团，识别的社团分布与真实网络结构更为接近。
+
+关键词：复杂网络；圈结构；标签传播算法；重叠社区发现中图分类号：TP301.6 doi:10.19734/j.issn.1001-3695.2022.02.0078
+
+LPANNI optimization algorithm based on cycle structure
+
+Liu Jia,b, Jia Fangdia (a.SchoolofStatistics&Data Science,b.Xinjiang Social &Economic Statistics &Big Data Application Research Center, Xinjiang University of Finance & economics, Urumqi 8300l2, China)
+
+Abstract: Inorderto improve theaccuracyofoverlapping community detection,this paper proposed aLPANNIoptimization algorithm CLPANNI(Cycle Label Propagation Algorithm with Neighbor Node influence)based oncycle structure by mining the minimum circle informationof nodes,measuring theimportance ofnodes acording to the circleratio indexand updating labels inascendngorder,tealgorithmincreases thestabilityoflabelpropagationprocess,andreceives thelabelstrasite by neighbor nodes according to the influence of neighbor nodes.With four benchmark algorithms inNMI_LFK,NMI Throughthe testand comparison underMGHand Mov indicators,CLPANNI algorithm performs wellin the accuracyof community discovery.Experimental resultsshow that the algorithm can efectively detect the overlapping community structureofthe network,findtheclosesubclustersofthenetwork,andtheidentifiedcommunitydistributioniscloser tothe real network structure.
+
+Key words: complex network; cycle structure; label propagation algorithm; overlapping community detection
+
+# 0 引言
+
+复杂网络是人们用来理解现实世界复杂系统的一种抽象模型。它将复杂系统中的实体抽象成节点，将实体之间的关系抽象成连线。社团结构(CommunityStructure)是复杂网络中最普遍也是最重要的拓扑特性之一，表现为社区内部结构紧密，社区之间连接稀松。社区发现(communitydetection)对探索复杂系统的运行机制及其功能特性具有重要意义，从是否考虑节点的多社区归属性这一角度，可以将其分为两类，非重叠社区发现算法(Non-overlapping community detection)和重叠社区发现算法(Overlappingcommunitydetection)。真实网络中社区结构之间普遍具有重叠区域，往往存在重叠节点，即一个节点同时存在于两个以上社团的现象1。而重叠节点对网络结构的演变起到十分重要的促进作用，在万物互联的大数据时代，重叠节点在网络动力学演化中的作用值得深入分析。
+
+自2005年以来，学者们试图从不同角度[\~设计重叠社区发现探测算法提高重叠社团的识别率和计算效率。其中，标签传播算法以线性时间复杂度优势被各国学者广泛应用到真实网络重叠社区结构探测研究中[8I，COPRA(CommunityOverlapPRopagationAlgorithm)算法是第一个应用于重叠社区发现的标签传播算法，该算法依据节点在不同社团隶属系数的变化识别社团。随后学者们分别提出 SLPA(SpeakerListenerLabel Propagation Algorithm)[lol,DEMON(DemocraticEstimate of the Modular Organization of a Network)[l,ACSLPA(Active Semi-supervised SLPA)[l2l等算法识别重叠社团，Vinicius daFonsecaVieira 等人[13l对5种表现较好的经典算法CPM(Clique Percorlation Method)[]，COPRA[9],DEMON[11],SLPA[10],BigCLAM(CLuster Affiliation Model forBignetworks)[14进行了结构识别效果对比，发现算法识别的社团只是算法运行的结果，并不代表真实的社团，他们指出仅依据常见指标评价算法的优劣存在问题，建议在设计重叠社区发现算法时更多关注重叠区域的节点数量和节点的隶属度等信息。
+
+值得注意的是，以往大部分研究主要基于节点的邻接关系研究网络的功能与特性，但在实际交互场景中往往存在多个节点的复杂相互作用。不论是在自然界还是在虚拟的网络社交圈中，单个个体的行为往往和群体有一定关联，为了更好地协同整体，个体不仅需要考虑个体间的相互作用关系，还需要注意与群体的相互作用关系。考虑到反馈机制对现实网络动态演变的影响，尤其是重要的重叠节点在不同社团的正负反馈作用，本文需要新的视角来分析节点的影响力。
+
+# 1 相关知识介绍
+
+# 1.1重叠社区发现
+
+重叠节点是影响网络拓扑结构演变的关键要素之一，对网络动力学与网络结构相互关系的探索十分重要。因此重叠社团检测算法研究是研究网络动力学有效的方法。本文关注的重叠社团探测算法主要基于团渗流思想和标签传播思想两类，节点依据一定的传播规则自底向上逐步集聚成团，此类算法不同于模块度优化等其他自顶向下的算法，对网络社团结构的质量不做特别限制，因此更符合真实世界中自动生成的组织或者团簇。当前，网络科学迈入新的研究阶段，高阶相互作用动力学将引起人们的极大兴趣，重叠社团探测迎来了挑战，在探测社团结构时需要考虑多节点间的交互特征与网络中观尺度的邻域信息。
+
+# 1.2相关工作
+
+文献[15,16]借鉴庞加莱的”剖分”思想，将网络分解为全齐性子网络，开创了网络科学研究的新框架：圈结构。由于圈结构建立了个体与群体的联系，在一定程度上考虑了多个节点的相互作用，可以反映节点的局域影响力，能够进一步指导网络社区发现。文献[17]基于网络的一阶圈结构设计了新的节点重要性指标：圈比，基于圈比指标找到的重要节点分布较为分散，这些重要节点传播高效，不冗余，同步能力强。文献[18]提出了LPANNI重叠社区发现算法，该算法融合了COPRA 和 DLPA(Dominant Label Propagation Algorithm)l19]算法的优点，巧妙的解决了COPRA算法在不同网络中参数难以确定的问题；同时充分考虑节点的局域信息，通过综合节点重要性、邻域节点相似性以及邻居节点影响力的方式降低了标签传播算法的随机性；引进历史标签偏好策略，确定节点每次迭代的主标签，增加了重叠社区识别精度。
+
+# 1.3评价指标
+
+在不知网络重叠社团结构时，一般用质量函数衡量社团的紧密度，常见的有 $\mathrm { E Q } ^ { \left[ 2 0 \right] }$ ， $\mathrm { Q } _ { \mathrm { o v } } \mathbf { \Lambda } ^ { [ 2 1 ] }$ ， $\mathbf { M } ^ { \mathrm { o v } [ 2 2 ] }$ 。本文选用 $\mathbf { M } ^ { \mathrm { { o v } } }$ 指标，该指标依据每一个节点在不同社团的归属强度来进行计算该节点对社团的贡献程度，是一种非常精确的重叠度衡量办法，这与文献[13]的建议十分吻合。根据节点在社团内连边与社团外连边数目的差值衡量节点对一社团的贡献度，有效避开了其他重叠社区发现模块度指标对高度重叠社团结构的低分辨问题。具体公式如下：
+
+$$
+\begin{array} { c } { { { \displaystyle \sum _ { r = 1 } ^ { K } a _ { i , c _ { r } } = 1 , a _ { i , c _ { r } } \in [ 0 , 1 ] } } } \\ { { { } } } \\ { { M ^ { \mathrm { o v } } = \displaystyle \frac { 1 } { n _ { c _ { r } } } \sum \frac { j \in c _ { r , i ^ { | \varepsilon | } } a _ { i j } - \displaystyle \sum _ { j \notin c _ { r } } a _ { i j } } { d _ { i } \bullet s _ { i } } \bullet \frac { n _ { c _ { r } } ^ { e } } { \left( n _ { c _ { r } } \right) } , M ^ { o v } \in [ - 1 . 1 ] } }  \end{array}
+$$
+
+其中： $n _ { c _ { r } }$ 、 $n _ { c _ { r } } ^ { e }$ 分别代表第 $\mathrm { ~ \bf ~ r ~ }$ 个社团 $\mathrm { ~ c ~ }$ 的节点数和连边数，由于第一个因子的取值范围在-1和1之间，第二个因子的取值范围在0到1之间，因此 $\mathbf { M } ^ { \mathrm { { o v } } }$ 的取值在-1和1之间变化。
+
+在已知真实社团结构时，常用NMI指标进行社团划分结果的衡量，本文选用CDlib库(Community DiscoveryLibrary)[23I中的两种 NMI指标。
+
+# 2 LPANNI算法框架
+
+LPANNI算法首先以固定顺序更新节点的标签，有效解决了标签震荡问题，降低了随机性；其次，合理运用节点的局部信息测度了不同邻居节点的影响力大小；再次，在标签传播过程中只传播社区归属系数最大的主标签，若具有多个相同的最大的主标签则选择历史迭代中出现的主标签，过滤了不重要的标签信息；在算法收敛后，根据节点的标签集信息确定重叠节点。
+
+# 2.1符号说明
+
+本文涉及到的关键符号及其含义如表1所示。
+
+表1符号说明  
+Tab.1Symbol description   
+
+<html><body><table><tr><td>符号</td><td>含义</td><td>符号</td><td>含义</td></tr><tr><td>CR</td><td>圈比</td><td>Ld</td><td>节点i的主标签</td></tr><tr><td>Sim</td><td>相似度</td><td>p</td><td>路径长度</td></tr><tr><td>NNI</td><td>邻居节点影响力</td><td>a</td><td>路径长度阈值</td></tr><tr><td>hl</td><td>历史标签偏好</td><td>T</td><td>最大迭代次数</td></tr><tr><td>VQ</td><td>更新顺序</td><td>Ng(i)</td><td>节点i的邻居</td></tr><tr><td>LNg</td><td>节点的主标签集</td><td>|L</td><td>标签集大小</td></tr><tr><td>On</td><td>重叠节点数</td><td>0m</td><td>重叠节点社团数</td></tr><tr><td>b(c,i)</td><td>节点i在社团C中的 隶属系数</td><td>1(Cv,bv)</td><td>邻居节点V的主标签及 对应社团的隶属系数</td></tr></table></body></html>
+
+上述符号主要基于本文提出的CLPANNI算法，部分符号为后续实验中出现的参数。
+
+# 2.2参数初始化
+
+最大迭代次数T；节点数量V；迭代时刻t；用一组有序数对表示节点i在不同社区中的隶属强度： $\mathsf { b } _ { \mathsf { c } } ( \mathsf { c } , \mathsf { i } )$ ；节点i的邻居节点NG(i)；节点i标签集的隶属系数最大的标签为主标签Di，节点i的标签集大小L"；节点i的标签集合Li。
+
+初始时刻，网络G(V,E)中的节点各自为一个独立社区，节点的隶属系数为1，即社区i的隶属系数bi为1，记作隶属bi(i，1)。
+
+# 2.3更新策略
+
+输入： $\mathsf { G } = ( \mathsf { V } , \mathsf { E } , \mathsf { w } )$ ,最大迭代次数T。
+
+输出：社区识别结果。
+
+阶段1：固定标签更新顺序
+
+1 for iin $\mathsf { v }$   
+2 依据节点重要性公式计算节点的重要性  
+3 依据节点相似性公式衡量节点间的相似性  
+4 依据邻居节点影响力公式计算邻居节点的重要性  
+5 end for  
+6 按节点重要性的大小或者序列号的大小升序排列为VQ  
+7阶段2：标签传播过程  
+$8 t = 8$ （204号  
+9 foriin $\mathsf { v }$ ：  
+10 $\mathsf { 1 } [ \mathrm { i } ] \ = \ \{ \mathrm { i } , \mathsf { 1 } \} ;$ （20  
+11 主标签 $\mathsf { D } _ { \mathrm { i } } \ = \ \mathbf { i }$   
+12 end for  
+13 while $\mathrm { ~ \bf ~ t ~ } < \mathrm { ~ \bf ~ T ~ }$ ：  
+14 for i in VQ:  
+15 $\mathsf { L N g } = \{ \mathtt { l } ( \mathtt { c } _ { 1 } , \mathtt { b } _ { 1 } ) , \mathtt { l } ( \mathtt { c } _ { 2 } , \mathtt { b } _ { 2 } ) , \mathtt { \ldots } , \mathtt { l } ( \mathtt { c } _ { \vee } , \mathtt { b } _ { \vee } ) \} , \mathtt { v } \in \mathsf { N g } ( \mathtt { i } ) ;$ （204  
+16 $\begin{array} { r l } { \mathbf { \nabla } \mathsf { L } ^ { \prime } } & { { } = } \end{array}$ 按照更新规则更新节点i的标签集  
+17 for ls in L':  
+18 $\frac { 1 + f } { 5 } b ^ { \prime } < 1 / \vert c ^ { \prime } \vert$ ：  
+19 then delete ls from L';  
+20 end if  
+21 end for  
+22 $\mathsf { L } _ { \mathrm { i } } \equiv$ 归一化的节点标签L  
+23 确定节点i本次迭代后的主标签 ${ \mathsf { D } } _ { \mathrm { i } }$   
+24 end for  
+25 若所有节点的标签集大小以及主标签不再变化  
+26 则停止迭代；  
+27 end if  
+28 $\mathrm { ~ t ~ } = \tplus \dag ,$ （  
+29 end while  
+30 Output ${ \mathsf { L } } _ { \mathrm { i } }$ of each node i, $( \mathbf { i } \in \mathsf { V } )$
+
+LPANNI算法包含2个阶段的处理，即固定标签更新顺序和标签传播过程。阶段1主要按照邻居节点的影响力大小更新标签信息，阶段2中在确定主标签时，如果只有一个最大的隶属度，则传播该社区标签；如果存在多个相同的最大隶属度社区标签，则优先选择上次迭代中的主标签，否则随机选择一个作为主标签。
+
+LPANNI算法考虑了节点的局域信息，通过计算邻居节点的影响力巧妙设计了标签更新规则，在传播规则上具有很大的借鉴意义。但只关注节点对的相互作用，主要借助节点的度信息设计相关公式，对具有相同结构的节点区分度不大，需要借助节点ID 顺序较多，本文基于以上优点和不足对其进行改进。
+
+# 3 CLPANNI算法设计
+
+事物有从简单到复杂的一个发展过程，错综复杂的交互关系使得组织得以延续壮大，组织间的交互带来了联通与演化。以网络科学视角可以看到一些特定的网络结构，例如星结构，链结构，以及圈结构。圈结构是构成网络的基本结构之一，是形成网络功能的最重要机制之一：反馈效应的结构基础，而反馈对事物的发展演化十分关键。
+
+在网络动力学同步的研究中，史定华等人发现最容易同步的网络是度数相同、路和相同并且最小、周长相同并且最大的几乎全齐性网络[15,16]。圈在结构上给网络连通带来了冗余路径，在功能上表征了反馈机制，在网络动力学中产生了强化效应，很容易增强社会协同效应，因此圈结构在保持网络连通性和维护网络的动态交互方面比较重要。在此基础上，范天龙等人认为参与许多圈的节点很重要，这些节点对网络的连通、同步以及控制方面有极大的影响；他们基于网络最小圈设计了基于圈结构的节点重要性指标：圈比[7。具体来看：图1的子图b中计算了子图a中节点1的圈比，子图c是所有节点的度、H指数、核数、圈比值、中介中心性等信息。他们对网络的一阶圈结构的最小圈定义了一个新的矩阵，称为圈数矩阵。圈数矩阵的阶数与网络中的节点数相同，矩阵的第i行(列)描述了节点i与其他节点的共圈情况，矩阵的元素表示网络中任意两个节点之间的共圈数量。这样，节点i的圈比值就可以根据圈数矩阵中第i行非零元素与对角线元素的比值之和计算出来。
+
+![](images/5e927c1547f37fb722642b201de585fac5a451769f3687f0f8d2e9996d374aa6.jpg)  
+图1圈比计算(图片修改自文献[17])  
+Fig.1Calculation of cycle ratio (picture from literature[17])
+
+圈提供的冗余连通和反馈机制，使得圈上节点无论在同步还是传播中[4，都有更高的概率被接触和同步，能更好模拟社会增强效应。考虑到圈比指标在挖掘高传播节点方面的突出表现，本文将圈比运用到标签传播算法中来，先借助圈比找到网络中传播能力强的节点，并运用LPANNI[I8I算法的标签传播策略来提高网络社团的划分精度。
+
+# 3.1相关定义
+
+简单无向网络G(V，E)，其中V和E分别表示节点集和连边集，n表示节点的数量，m表示连边的数量。
+
+圈(Cycle)：二维平面上具有相同起点和终点的闭合路径，圈的大小等于它的连线数目，最小圈是指含该节点的最小环路。
+
+周长(Girth)：从该点出发再返回它的最短环路所含的连线数目，即经过该节点的最小圈长。
+
+圈数(Cycle number)：含有该节点的最小圈的数量。
+
+圈比(CycleRatio：CR)：节点重要性衡量指标，圈数矩阵中第i个节点所在行的元素比上对应行的对角元素之和，得到i节点的圈比，具体计算公式为
+
+$$
+\mathbf { C } \mathbf { R } _ { i } = \left\{ \begin{array} { l l } { \phantom { - } 0 . 1 , c _ { i i } = 0 } \\ { \sum _ { j , c _ { i j } > 0 } \frac { c _ { i j } } { c _ { j j } } , c _ { i i } > 0 } \end{array} \right.
+$$
+
+$\mathrm { { C _ { i j } } }$ 是S中节点i和j(ij)的共圈数量。若i=j，则 $\mathbf { c } _ { \mathrm { { i i } } }$ 是S中包含节点i的圈数，CRi为i节点的圈比值，为了能够精确衡量邻居节点影响力的大小，故这里将第一种情况取为0.1。
+
+节点相似性(Similarity：Sim)：本文衡量节点相似性主要基于网络结构，文献[25]对局部相似性指标的相关研究进行了梳理，并分析了这些指标的设计原理。指出结构相似性指标可以分为基于局部信息、路径及随机游走三类，文献[18]提出的相似性指标结合了节点的局部信息以及路径长度，有效融合了二者优势，故本文沿用该相似性指标，具体计算公式为
+
+$$
+\mathrm { S i m } ( x , y ) = \frac { s ( x , y ) } { \sqrt { \sum _ { u \in N g _ { x } } s ( x , u ) ^ { * } \sum _ { v \in N g _ { y } } s ( y , \nu ) } }
+$$
+
+其中， $s ( i , j ) = \sum _ { | p | = 1 } ^ { a } \frac { ( A ^ { | p | } ) _ { i j } } { | p | }$
+
+上式中， $\mathfrak { p }$ 表示直接或间接连接节点i和节点j的路径。lpl表示 $\mathfrak { p }$ 的长度，它在1到a之间变化。|Ap表示 $\mathsf { p }$ 的测度度量。路径长度阈值a来控制计算复杂度，用来区分两个节点因度值差异对节点相似度带来的影响。
+
+路径长度阈值a来控制计算复杂度，用来区分两个节点因度值差异对节点相似度带来的影响。邻居节点影响力(NeighborNodeInfluence：NNI)：考虑到邻居节点由于具有不同的局部结构，对节点的影响力也不尽相同，在标签传递时需要测度不同邻居节点的差异。文献[18]提出的NNI综合考虑邻居节点的重要性大小和邻居节点与该节点的相似性程度，相对来说比较客观，本文沿用。具体公式为
+
+$$
+N N I _ { y } ( x ) = \sqrt { C R ( y ) ^ { * } \frac { S i m ( \mathbf { x } , y ) } { \mathbf { m a X } _ { \mathbf { h } \in N g ( x ) } S i m ( h , x ) } }
+$$
+
+# 3.2LPANNI算法的改进
+
+LPANNI算法仅仅通过节点的度和三角形信息设计节点重要性公式来衡量节点的重要性以及邻居节点的影响力大小，没有考虑更多的圈结构，因此看到的信息是十分有限的，不足以衡量具有相同局部结构节点的差异。而圈比指标通过衡量节点参与邻居节点圈的程度识别重要节点，有利于标签的动力学传播，本文基于圈结构信息对无向无权网络提出重叠社区发现算法CLPANNI，根据圈比的升序固定节点的标签更新顺序，提高社团识别的精度。
+
+# 3.3CLPANNI算法框架
+
+CLPANNI算法主要分为2个阶段，第一个阶段完成节点圈比和邻居节点影响力的计算，第二个阶段进行标签传播，找到全部节点的隶属社团，输出节点的标签集。具体步骤如图2所示。左边一部分为CLPANNI算法的第1阶段，右边一部分为CLPANNI算法的第2阶段。
+
+![](images/b45d78d799f1cab4d6ca804e9391884b640127117abc708acf4bf6b163600574.jpg)  
+图2算法步骤
+
+# 3.4标签传播规则
+
+文献[9]提出的COPRA算法考虑节点在不同社团的隶属强度，节点在不同社团的隶属强度类似于一个个体在不同层面中注意力或者精力的分散程度，总和加起来为1。文献[18]以节点重要性的升序固定标签传播序列增加了算法的稳定性，通过邻居节点影响的标签更新策略和历史标签偏好策略提出的LPANNI算法解决了COPRA算法需要提前设置节点最多拥有v个标签的缺陷，这里本文以节点的圈视角衡量节点的重要性程度，具体标签传播规则为
+
+阶段1：根据节点的圈比值，从小到大对节点排序，若节点的圈比值相同，则以ID大小升序排列，得到固定的更新序列VQ。
+
+阶段2：依据VQ的顺序进行标签更新。初始时刻，每个节点都完全属于自己，即有 $\mathrm { L d } _ { \mathrm { i } } { = } ( \mathrm { i } , 1 )$ 。接下来则按VQ 顺序接收邻居节点的主标签后形成 $\mathrm { L N g }$ 标签集，主标签是指邻居节点指传递最大的隶属系数及社团标签。
+
+$$
+L N \mathbf { g } = \{ l ( c _ { 1 } , b _ { 1 } ) , l ( c _ { 2 } , b _ { 2 } ) , . . . l ( c _ { \nu } , b \nu ) \} , \nu \in N g ( i )
+$$
+
+并按照邻居节点的影响力大小NNI对隶属系数进行加权处理，得到大小为邻居节点数的新标签集 $\mathrm { ^ \circ } \mathrm { _ { L } } ,$ ，此时每个节点的总隶属系数为1。加权处理传递的社团隶属系数
+
+$$
+b " ( c , i ) = \frac { b " ( c , i ) } { \sum _ { l ( c , b ^ { \prime } ) \in L ^ { \prime } } b " ( c , i ) } , \sum _ { l ( c , b " ) \in L ^ { \prime } } b " ( c , i ) = 1
+$$
+
+加权处理后的标签集
+
+$$
+L ^ { \prime } = \{ l ( c _ { 1 } , b _ { 1 } ^ { \phantom { * } } ) , l ( c _ { 2 } , b _ { 2 } ^ { \phantom { * } } ) , \cdots , l ( c _ { | L | } , b _ { | L | } ^ { \phantom { * } } ) , \} , \sum _ { l ( c , b ^ { \prime } ) \in L } b ^ { \prime } ( c , i ) = 1
+$$
+
+自适应删除无用标签 $b ^ { \prime } ( c , i ) < 1 / \vert L ^ { \prime } \vert$ ，归一化后得到此次迭代的标签集L”。如此迭代 $\mathrm { ~ T ~ }$ 次后输出各节点的标签集。
+
+$$
+\begin{array}{c} \mathbf { b } ^ { \prime } ( c , i ) = \frac { \sum _ { l ( c _ { \nu } , b _ { \nu } ) \in L N g ( i ) , \nu \in N g ( i ) , c _ { \nu } = c } b ( c _ { \nu } , \nu ) ^ { * } N N I _ { \nu } ( i ) } { \sum l ( c _ { \nu } , b _ { \nu } ) \in L N g ( i ) , \nu \in N g ( i ) } b ( c _ { \nu } , \nu ) ^ { * } N N I _ { \nu } ( i )  \end{array}
+$$
+
+识别具有最大隶属系数的标签为节点i的主标签，若有多个主标签，则选择上一步迭代的主标签，否则随机选择一个作为主标签。当全部节点的标签集和主标签稳定时，停止迭代，输出节点的标签集。
+
+# 4 实验
+
+# 4.1实验数据
+
+1)人工数据集
+
+LFR人工数据集能够合成接近真实情况的使得节点数和社团数均满足幂律分布的网络。因此本文使用LFR基准网络生成数据，分别用清晰度u为0.1或0.3的两组数据进行实验对照。每一组数据中分3个等级，节点数目分别为1000，3000，5000，每一个等级中分了5组不同重叠程度的数据。其具体信息如表2所示。
+
+# 2）合成网络的最小圈
+
+以往重叠社团发现算法很少关注网络的圈结构分布情况，部分算法[18,26,27考虑网络的三角形信息。对LFR数据进行圈结构分布的可视化有助于理解进一步了解网络中的圈结构信息。在运用CLPANNI算法检测网络的社团结构的同时，可以清楚的看到网络的最小圈分布情况，如图3所示。
+
+表2合成网络的具体参数
+
+Tab.2Specific parameters of synthetic network   
+
+<html><body><table><tr><td>数据集</td><td>节点数量</td><td>社团规模</td><td>μ</td><td>On</td><td>Om</td></tr><tr><td>LFR1</td><td>1000</td><td>10-80</td><td>0.1</td><td>30</td><td>1~8</td></tr><tr><td>LFR2</td><td>3000</td><td>10-80</td><td>0.1</td><td>90</td><td>1~8</td></tr><tr><td>LFR3</td><td>5000</td><td>10-80</td><td>0.1</td><td>150</td><td>1~8</td></tr><tr><td>LFR4</td><td>1000</td><td>10-80</td><td>0.3</td><td>30</td><td>1~8</td></tr><tr><td>LFR5</td><td>3000</td><td>10-80</td><td>0.3</td><td>90</td><td>1~8</td></tr><tr><td>LFR6</td><td>5000</td><td>10-80</td><td>0.3</td><td>150</td><td>1~8</td></tr></table></body></html>
+
+![](images/6e9059dcea11fc002b36893ec00e83a9e43257c40208ed7751e16576f2f376ef.jpg)  
+Fig.2Algorithm steps   
+图3合成网络的最小圈分布  
+Fig.3Minimum cycle distribution of the synthetic network
+
+由图可知，本实验的6个LFR网络中含较多的圈结构数据，不同规模的数据具有不同的圈结构分布，最小圈的周长为3，最大圈的周长为8，且最小圈中三角形数量占比过半。在混合参数 $\mu$ 为0.1时，三角形在网络最小圈数量占比至少达到的 $90 \%$ ；当混合参数 $\mu$ 为0.3时，随网络结构清晰度的下降，最小圈数量明显减少，三角形的占比有所下降，四边形与五边形的占比明显上升，这在一定程度上印证了当网络结构不明显时社团识别效果不好的原因。当网络规模不变时，随网络拓扑结构复杂程度上升最小圈的种类和分布多样化特征更为突出，这就加大了社团识别的难度。
+
+# 3)真实数据集
+
+文献[12]提供了已知社团信息的3个真实数据，分别是处理过的共同购买网络Amazon，科学家合作网络DBLP，友谊网络YouTube，并列出了网络的重叠节点信息。本文对这3个真实网络数据进行了最小圈挖掘，发现Amazon数据与DBLP数据中的最小圈种类较少，但YouTube数据中的圈分布具有多样性的特征，其中最小的圈周长为3\~10。说明YouTube网络结构特征相对比较复杂。具体相关信息如表3所示。
+
+表3真实网络的具体信息  
+Tab.3Specific information about the real network   
+
+<html><body><table><tr><td>数据集</td><td>Amazon</td><td>DBLP</td><td>YouTube</td></tr><tr><td>节点数</td><td>7411</td><td>7233</td><td>6426</td></tr><tr><td>边数</td><td>21214</td><td>33045</td><td>23226</td></tr><tr><td>社团数</td><td>876</td><td>613</td><td>1058</td></tr><tr><td>最大社团规模</td><td>27</td><td>38</td><td>31</td></tr><tr><td>最小社团规模</td><td>5</td><td>10</td><td>5</td></tr><tr><td>重叠节点最大社团数</td><td>4</td><td>8</td><td>11</td></tr><tr><td>最小圈总数</td><td>26171</td><td>108882</td><td>40517</td></tr><tr><td>最小圈分布</td><td></td><td>{(3,26061),(4,110)}{(3,108880)(6,2)} {3,4,5,6,7,8,9,10}</td><td></td></tr><tr><td>重叠节点数(占比)</td><td>1394(18%)</td><td>214(3.3%)</td><td>865(13%)</td></tr></table></body></html>
+
+由于YouTube数据中的最小圈数量较大且种类较多，不便枚举。这里将其圈分布展开分析，如图4所示。
+
+![](images/de688c49dad3bc0ff8c5dee943d061aeb2f3895e522cb7f1f3ac2562aa6d97ec.jpg)  
+图4YouTube 网络的最小圈分布
+
+可以看到YouTube网络中，周长为3的圈：三角形依然是最小圈的主体组成部分，数量级别最高。其次为周长为4-8的圈，在该网络中最长的圈周长为10。
+
+# 4.2实验结果
+
+以SLPA，DEMON，CPM和LPANNI为对比算法，经过多次实验调参，相关算法的参数设置如表4所示。
+
+表4基准算法的具体参数  
+Tab.4Specific parameters of the benchmark algorithm   
+
+<html><body><table><tr><td>数据集</td><td>Amazon</td><td>DBLP</td><td>Youtube</td></tr><tr><td>CPM</td><td>k=3</td><td>k=3</td><td>k=3</td></tr><tr><td>DEMON</td><td></td><td>min_com_size=3,epsilon=0.25</td><td></td></tr><tr><td>SLPA</td><td>T=21,r=0.1</td><td></td><td>T=21,r=0.2</td></tr><tr><td>LPANNI</td><td></td><td>T=20,a=3,b=0</td><td></td></tr><tr><td>CLPANNI</td><td></td><td>T=20,a=3,b=0</td><td></td></tr></table></body></html>
+
+其中，由于SLPA算法不稳定，经过10次重复实验取平均得到具体值，CPM算法中参数k一般取3\~6，经过测试发现将k取为3，得到的各项测试结果更好，其他算法中的参数按照CDlib库[23]的默认值进行测试。
+
+先对LFR数据进行测试，NMI_LFK[28I是学者常用的测试指标，该指标是标准互信息在重叠社区发现中的拓展，但有时候会高估两个社团的相似性。NMI_MGH[29(也称NMImax)是AaronF.McDaid 等人对NMI_LFK作出的优化指标，本文选用该指标进行测试。
+
+由图5可知，CLPANNI算法与LPANNI算法相对其他基准算法表现较好，在网络规模增大，网络社团结构清晰度下降的情况下，还能准确识别网络的社团结构。当重叠节点数量增加时，CLPANNI算法的表现略强于LPANNI算法，说明本文的改进有效，圈比在挖掘节点重要方面表现更好。
+
+为进一步验证CLPANNI算法的准确度，对3个社团结构已知的真实数据进行测试，如图6所示。
+
+在真实数据的实验结果中，可以看到在3种指标的检测下，除了YouTube数据，CLPANNI算法较LPANNI算法测试结果表现稍低外，在其他数据的表现比LPANNI算法好。在 $\mathbf { M } ^ { \mathrm { { o v } } }$ 指标下，CLPANNI算法表现较LPANNI算法好，尤其在Amazon数据集中优势更为明显。SLPA算法在DBLP数据上表现相对较好，说明该算法在社团结构明显的网络上表现较好。
+
+另一方面，也说明本文的参数设置合理，但该算法存在极大的不稳定性和随机性，需要多次重复实验，不能保证每次都能得到较好的划分，故并不能提供一个可靠的结果；DEMON算法在YouTube中，NMI_MGH得分较低，说明民主投票机制的标签传播策略不适用于此类网络；总体来说，CLPANNI算法表现良好，在多项指标的测试下都有不错的表现。
+
+# 5 讨论
+
+# 5.1算法探测结果
+
+由图5的实验结果可知，网络社团结构越模糊，社团间重叠程度越大，CLPANNI算法相较其他算法表现越好；从图6的重叠社团结构评价指标来看，本文所提算法CLPANNI在DBLP网络与Amazon网络表现较原算法更优；另外，多个算法对YouTube数据的社团探测效果欠佳，因此有必要对该数据的探测结果进一步分析，探寻其背后的原因。YouTube数据是社交网络数据，故在该网络上存在一定的社会网络增强效应。(注：由于 SLPA 算法具有随机性，重复实验15 次。平均来说，能够识别到社团477个，这里展示社团数量为中位数的实验结果。）
+
+![](images/41436db6768226eeaa982743aaa3f34a33a64803f799b7523e7671a64e2bab45.jpg)  
+Fig.4Minimum circle distribution of YouTube network   
+图5合成网络实验结果
+
+![](images/4a89952bdb41cbb8b23090382fa3735e081f078934cb4e95108fedc6b52b4d70.jpg)  
+Fig.5Experimental results of synthetic network   
+图6真实网络实验结果  
+Fig.6Real network experiment results
+
+真实情况下，YouTube网络6426个节点中有重叠节点865个，社团1078个。主要的社团规模为5，共有307个。表5分别展示了各个算法在YouTube社交网络上探测的社团重叠模块度、主体社团规模及其探测数量、社团识别数量与总节点频次信息。在本次实验中，SLPA算法能发现社团455个。CPM算法能够识别到紧密的社团结构， $\scriptstyle 1 = 3$ ，识别到的结构是以三角形为单元的团簇230个。在社团结构识别上，可以看到DEMON算法发现的社团数量最少同时 $\mathbf { M } ^ { \mathrm { { o v } } }$ 得分最高，但在重叠节点探测上存在过拟合的问题；相对来说，CPM与 SLPA算识别的社团数量较为相近，能够探测出455个社团；LPANNI算法发现的社团数量最多但社团较小；在重叠节点发现方面，CLPANNI算法的识别效果不如LPANNI算法，但CLPANNI算法对主体社团规模的识别准确度较高，说明改进的CLPANNI算法较原始算法在社团规模探测方面拟合更好。YouTube具有多样化的最小圈分布，说明本文算法对连边冗余圈结构复杂的网络探测探测效果更优，较原始算法能更好模拟社会增强效应。
+
+表5算法探测结果  
+Tab.5Algorithmic detection results   
+
+<html><body><table><tr><td>方法</td><td>M指标</td><td>主体社团规模及大小</td><td>社团探测数量</td><td>总节点频次</td></tr><tr><td>RealData</td><td>0.1890</td><td>{5,307}</td><td>1058</td><td>7775</td></tr><tr><td>CPM</td><td>0.3959</td><td>{3,230}</td><td>455</td><td>4570</td></tr><tr><td>SLPA</td><td>0.5145</td><td>{5,120}</td><td>455</td><td>7623</td></tr><tr><td>DEMON</td><td>0.677</td><td>{4,46}</td><td>200</td><td>13898</td></tr><tr><td>LPANNI</td><td>0.3233</td><td>{2,167}</td><td>867</td><td>6675</td></tr><tr><td>CLPANNI</td><td>0.3485</td><td>{5,129}</td><td>574</td><td>6543</td></tr></table></body></html>
+
+# 5.2 社团规模分布
+
+为进一步分析各个算法在该网络社团结构探测方面的表现，对各个算法探测到的社团数量分布进行对比。
+
+LPANNI,CLPANNI,DEMON,SLPA算法都含有标签传播算法的思想，因此会存在标签传播算法特定的缺点，存在标签过度传播和大团吃小团的现象，去除奇异值得到图7的社团探测结果。CPM算法主要通过完全子图的渗流识别社团结构，因此得到的社团大小与网络局域结构的紧密性有很大的关联。在真实的YouTube数据中，最大的社团含31个节点，但5种算法识别到的最大社团大小均超过31，说明该网络存在紧密的联通块。以上实验结果为CLPANNI在最宽松的条件下进行社团发现，没有针对性地调参，以上实验结果为CLPANNI在最宽松的条件下进行社团发现，没有针对性地调参，如果精心筛选节点隶属度阈值，检测效果还会有提升，但会消耗较多时间。
+
+![](images/f764c70a8a7053235070c0d27c4b2d8bbc7758b6ebe6f645216c9904188bdb4d.jpg)  
+图7YouTube 网络社团探测结果 Fig.7The results of the youtube community detection
+
+# 5.3 可视化分析
+
+图8为Gephi自带的louvain算法社团识别结果，颜色相同的为同一社团，带有标签的节点为至少跨8个社团的重叠节点。经过可视化发现，YouTube数据的网络社团结构不清晰，确实存在巨大连通片，且高重叠节点分布比较集中。这或是几个典型算法在该数据集中社团识别效果不佳的部分原因。YouTube社交网络由于重叠节点分布集中，使得该网络在舆情传播较容易形成规模性的网络意见，在实际应用中应该更关注重叠节点的意见情况，为网络舆情预警与引导提供智力支持。
+
+# 6 结束语
+
+本文对LPANNI算法进行了优化，提出了一种基于网络圈结构信息的检测重叠社团结构的标签传播算法CLPANNI，该算法提高了具有紧密网络结构的社团识别精度。CLPANNI不仅具有良好的稳定性，还能在检测重叠社团结构的同时得到网络中每一个节点的最小圈信息以及网络中不同周长的最小圈分布，这有助于进一步了解网络的结构特点，提供中观尺度信息指导重叠社团结构的探测。
+
+![](images/693d1604b6b63e7d16dadc721fc0672cc43e4c55d142c24802ae29c6aa27bcfd.jpg)  
+图8YouTube 高重叠节点分布  
+Fig.8Distribution of highly overlapping nodes in YouTube
+
+经过对比YouTube网络的社团输出信息，本文发现CLPANNI算法对真实网络中的重叠节点挖掘、社团结构识别效率方面还有待提升，未来将结合圈结构对具有紧密结构的网络进行深入分析。真实网络往往会随外界环境动态演变，而拓扑结构又影响信息的传输，如何利用探测到的重叠节点及其社团结构分析网络的动态演化特性，值得深入研究。考虑到网络的连接往往是在信息不完全条件下作出的有限选择，未来在研究中还需要融合先验知识，整合网络高阶信息进一步量化网络，合理嵌套节点属性信息挖掘网络的重叠社团结构，发掘关键重叠节点协助预判网络的动态演化方向。
+
+# 参考文献：
+
+[1]Palla G,Deranyi I,Farkas I,et al.Uncovering the overlapping community structure of complex networks in nature and society [J]. Nature,2005,435(7043): 814.   
+[2]李辉，陈福才，张建朋，吴铮，李邵梅，黄瑞阳．复杂网络中的社团 发现算法综述[J]．计算机应用研究,2021,38(06):1611-1618.DOI: 10.19734/j.issn.1001-3695.2020.06.0211.(LiHui,Chen Fucai,Zhang Jianpeng,et al. Survey of community detection algorithms in complex network [J].Application Research of Computers,2021,38 (06):1611- 1618.DOI: 10.19734/j.issn.1001-3695.2020.06.0211.)   
+[3]许英．利用改进蚁群算法的重叠社团检测分析方法[J].计算机应 用研究,2020,37(05):1375-1379.DOI:10.19734/j.issn.1001-3695. 2018.10.O803.(Xu Ying.Novel algorithm of overlapping community detection and analysis with improved ant colony algorithm [J]. Application Research of Computers,2020,37 (05): 1375-1379.DOI: 10. 19734/j.issn.1001-3695.2018.10.0803.)   
+[4]付饶，孟凡荣，邢艳．基于节点重要性与相似性的重叠社区发现算 法[J].计算机工程,2018,44(9):192-198.(Fu Rao,Meng Fanrong, Xing Yan. Overlapping Community Discovery Algorithm Based on Node Importance and Similarity[J]. Computer Engineering,2018,44 (9): 192- 198.)   
+[5]楚杨杰，杨忠保，洪叶．局部扩展的遗传优化重叠社区发现方法[J]. 计算机应用研究，2019,36(04):1106-1109.(Chu Yangjie,Yang Zhongbao，Hong Ye.Local extension approach through genetic algorithm for overlapping community detection [J].Application Research of Computers,2019,36 (04):1106-1109.)   
+[6]Shchur O,S Gunnemann.Overlapping Community Detection with Graph Neural Networks [J]. https://arxiv.org/abs/1909.12201v1   
+[7]Raghavan U N,Albert R,Kumara S.Near Linear Time Algorithm to Detect Community Structures in Large-Scale Networks [J].Physical Review E,2007,76(3Pt2):036106.   
+[8]张应龙，夏学文，徐星，等．面向标签传播算法的社团检测研究现状 及展望[J]．小型微型计算机系统,2021,42(5):1093-1102.(Zhang Ying-long, Xia Xuewen,Xu Xing,et al. Review on label propagation agorithms for community community [J]. Journal of Chinese Computer Systems,2021,42 (5):1093-1102.)   
+[9]Gregory S.Finding overlapping communities in networks by label propagation [J].New Journal of Physics,2009,12 (10): 2011-2024.   
+[10] Xie J，Szymanski B K,Liu X. SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process [J].IEEE,2012.   
+[11] Coscia M,Rossetti G,Giannotti F,et al.DEMON:a Local-First Discovery Method for Overlapping Communities [C]//Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2012.   
+[12] Alghamdi E, Greene D.Active semi-supervised overlapping community finding with pairwise constraints [J].Applied Network Science,2019,4 (1): 1-27   
+[13] Vieira V F,Xavier C R,Evsukoff A G.A comparative study of overlapping community detection methods from the perspective of the structural properties [J].Applied Network Science,2020,5(1):1-42.   
+[14] Yang J,Leskovec J. Structure and overlaps of ground-truth communities in networks [J].ACM Transactions on Intelligent Systemsand Technology(TIST),2014,5 (2): 1-35.   
+[15] Shi,D,Chen,et al. Searching for Optimal Network Topology with Best Possible Synchronizability [J].Circuits and Systems Magazine,IEEE, 2013,13 (1):66-75.   
+[16] Shi D,Linyuan L,Chen G. Totally Homogeneous Networks [J].arXiv: 1903.11289   
+[17] Fan,T.,Lü,L.,Shi,D.et al. Characterizing cycle structure in complex networks. Commun Phys 4，272 (2021）． https://doi． org/10. 1038/s42005-021-00781-3   
+[18] Lu M,Zhang Z,Qu Z,et al. LPANNI:Overlapping Community Detection Using Label Propagation in Large-Scale Complex Networks [J].IEEE Transactions on Knowledge and Data Engineering,2019,31 (9): 1736-1749.   
+[19] He-Li, Sun,Jian-Bin,et al.Detecting overlapping communities in networks via dominant label propagation [J]. Chinese Physics B,2015, 24 (1): 24 018703.   
+[20] Shen H W. Detecting the Overlapping and Hierarchical Community Structure in Networks [J]. Springer Berlin Heidelberg,2013   
+[21] Nicosia V,Mangioni G,Carchiolo V,et al.Extending the definition of modularity to directed graphs with overlapping communities [J].Journal of Statistical Mechanics Theory & Experiment,2009,2009 (03):3166- 3168.   
+[22] Lazar A.,Abel D.,Vicsek T. Modularity measure of networks with overlapping communities [J].EPL (Europhysics Letters),2010,90 (1): 983-995.   
+[23] Rossetti G,Milli L,Cazabet R.CDLIB:a python library to extract, compare and evaluate communities from complex networks [J].Applied Network Science,2019,4（1).   
+[24]范天龙．网络中的圈结构[EB/OL].https://swarma.org $\mathrm { { ? p } = 3 1 } 5 4 1$ 2021-8-10/2022-4-4. (Fan Tianlong.Cycle structure in a network [EB/OL].https://swarma.org/?p=31541.2021-8-10/2022-4-4)   
+[25]李艳丽，周涛．链路预测中的局部相似性指标[J]．电子科技大学学 报，2021,50(03):422-427.(Li Yan-li， Zhou Tao.Local Similarity Indices in Link Prediction [J].Journal of University of Electronic Science and Technology of China,2021,50 (03): 422-427.)   
+[26]郑文萍，毕欣琦，杨贵．一种基于非对称三角形割的重叠社区发现 算法[J].南京师范大学学报(工程技术版），2022,22(01)：1-8. (Zheng Wenping,Bi Xinqi,Yang Gui. An overlapping community detection algorithm based on asymmetric triangle cuts [J].Journal of Nanjing Normal University (Engineering and Technology Edition,2022, 22 (01): 1-8.)   
+[27]潘剑飞，董一鸿，陈华辉，钱江波，戴明洋．基于结构紧密性的重叠 社区发现算法 [J]．电子学报，2019,47(01):145-152.(Pan Jian-fei, Dong Yi-hong，Chen Hua-hui,et al.The Overlapping Community Discovery Algorithm Based on Compact Structure [J].Acta Electronica Sinica,2019,47 (01): 145-152.)   
+[28] Lancichinetti A,Fortunato S,JKertész.Detecting the overlapping and hierarchical community structure of complex networks [J].New Journal of Physics,2009,11: 033015   
+[29] Mcdaid A F,Greene D,Hurley N.Normalized Mutual Information to evaluate overlapping community finding algorithms [J].arXiv:1110. 2515 (2011).

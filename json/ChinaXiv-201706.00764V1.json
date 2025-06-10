@@ -1,0 +1,298 @@
+[
+    {
+        "type": "text",
+        "text": "Study of Unsteady Flow Simulation of Backward Impeller with Non-uniform Casing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "War War Min Swe1, Hiroya MORIMATSU1, Hidechito HAYASHI1, Tetsuya OKUMURA1 and Ippei ODA² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Nagasaki University,1-14Bunkyo-machi, Nagasaki 852-8521, Japan   \n2.Panasonic Ecology Systems Co.,Ltd.,4017 Aza Shimonakata takaki-cho,Kasugai, 486-8522,Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ Science Press and Institute of Enginering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The flowcharacteristics of thecentrifugal fans with diferent blade outlet angles arebasically discussed on steady and unsteady simulations for a rectangular casing fan. The blade outlet angles of the impelers are $3 5 ^ { \\circ }$ and $2 5 ^ { \\circ }$ respectively. The unsteady flow behavior in the passage of the impeller $3 5 ^ { \\circ }$ is quite different from that in the steady flow behavior.The large flow separation occurs in the steady flow field and unsteady flow field of the impeller $3 5 ^ { \\circ }$ ,the flow distribution in the circumferential direction varies remarkably and the flow separation on the blade occurs only at the back region of the fan; but the steady flow behavior in the impeller $2 5 ^ { \\circ }$ is almost consistent with theunsteady flow behavior,the flow distribution of the circumferential direction doesn't vary much and the flow separation on the blade hardly occurs.When the circumferential variation of the flow in the impeller is large,the steady flow simulation is not coincident to the unsteady flow simulation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Centrifugal fan, Impeler, Blade outlet angles, Steady and unsteady simulation,Rectangular casing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The turbo fan design is usually made with the steady flow simulation. Then the flow out of the impellers is connected to the casing region only at the location that the impeller is in the simulation,even though the impeller is rotating and the flow characteristics are varied with the impeller location.When the flow separation occurs in the impeller, the influence of the separation is restricted in the casing located at the impeller. But in the actual flow, the influence of separation of the impeller is spread widely to the circumferential location. In most cases, flow separation is responsible for performance deterioration and higher energy loss.Generally,the efficiency and loss calculations，however,reveal a significant discrepancy between the steady and unsteady simulation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Flow pattern in centrifugal fans is uneven because of flow separation and recirculation zones in the flow passages.Hence,many researchers contributed to increasing the efficiency of the fan by novel approaches both numerically and experimentally. The centrifugal fan with backward-curved impeller has been studied by experiments and simulations.The flow characteristics have been researched to improve the fan performance [1],[2], [4] and the interaction between the tongue and the impeller has been investigated[3]-[5]. The performance of various geometries of the impeller and shroud are examined with experiments [6]. For the case of the air conditioner, there are studies on the interaction between the impeller and the heat exchanger [7]-[9]. As to the flow characteristics of the centrifugal fan with a rectangular casing,the performance of the fan is not influenced by the length of the rectangular casing [8]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The objectives of this paper are to investigate the influence of unsteady behavior in the impeller, the casing and the fan on performance and internal flow patterns. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/a44311b56ff923db5c7da5ca0c6768eb7e91e6bc8f7b3c750d2575f7c11b637e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Nomenclature</td><td>?</td><td>flow coefficient</td></tr><tr><td>B</td><td>number of blades</td><td>Y</td><td>pressure coefficient</td></tr><tr><td>D</td><td>diameter (mm)</td><td>n</td><td>efficiency</td></tr><tr><td>H</td><td>span height (mm)</td><td></td><td>angular velocity (rad/s)</td></tr><tr><td>N</td><td>rotational speed (l/min)</td><td colspan=\"2\">Subscripts</td></tr><tr><td>P</td><td>pressure (Pa)</td><td>1</td><td>impeller inlet</td></tr><tr><td>Q</td><td>volume flow rate (m³/s)</td><td>2</td><td> impeller outlet</td></tr><tr><td>T</td><td>torque (Nm)</td><td>C</td><td>casing</td></tr><tr><td>t</td><td>blade thickness (mm)</td><td>d</td><td>design in impeller</td></tr><tr><td>Greek letters</td><td></td><td>S</td><td>static</td></tr><tr><td>β</td><td>blade angle (°)</td><td>t</td><td>total</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "And the cause for the above discrepancy is discussed, considering the physical aspects of the computations, steady Reynolds-averaged Navier-Stokes(RANS） and unsteady Reynolds-averaged Navier-Stokes (URANS). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Geometry of Impellers ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The geometries of the impellers are shown in Fig.1. Twotypes of impellerareusedwithdifferentblade outlet angles and other dimensions are the same.The outlet angles $3 5 ^ { \\circ }$ and $2 5 ^ { \\circ }$ ,are the impeller‘A'and impeller $\\mathbf { \\nabla } ^ { \\left. \\mathbf { B } ^ { \\prime } \\right. }$ respectively. The comparison of blade outlet angles is shown in Fig.1(a).The inlet and outlet diameters of the impellers are 142 and $2 3 0 ~ \\mathrm { m m }$ .The exit blade height is $6 0 . 5 \\ \\mathrm { m m }$ .Inlet angle is $1 5 ^ { \\circ }$ . Its main dimensions are shown in Table 1. The impeller is attached to a rectangular shaped casing and its size is $3 5 0 ~ \\mathrm { m m } \\times 3 5 0 ~ \\mathrm { m m } \\times$ $1 5 8 . 3 \\ : \\mathrm { m m }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Simulation Conditions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The steady and unsteady calculations were done with four different flow coefficients of $\\phi = 0 . 0 1 4$ ,0.121, 0.187 and 0.22，among which $\\phi = 0 . 1 8 7$ is the design flow coefficient. The turbulence model is shear stress transport (SST).The computational domain consists of three domains,namely,inlet,rotating and outlet domain.The totalnumbersof meshes forall domainsareabout $5 \\mathrm { m i l } .$ lion with tetra mesh.The minimum size of tetra mesh is $0 . 8 ~ \\mathrm { m m }$ . The rotating speed of the impeller is $1 1 0 0 ~ \\mathrm { r / m i n }$ Theboundaryconditions aredefined withthemass flow rate at the inlet and $0 \\mathrm { \\ P a }$ of static pressure at the outlet. The frame change between the impeller and casing re gions is imposed by Frozen-Rotor interface in the steady calculation and Transient Rotor-Stator interface in the unsteady calculation,because the flow characteristics out ofthe impellerarevariedincircumferentiallocation.The time step is fixed to $0 . 1 0 6 5 3 4 \\mathrm { m s e c }$ ，which is equivalent to the progress of the rotor by $1 ^ { \\circ }$ per time step.The maximum numbers of time steps are 3O72 for unsteady calculation which is corresponding to 6 revolutions.The timeaveragedvaluesare estimated from the dataof iteration 1024 to iteration 3072. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8577b9c97b2f671afebf9176aead6cd659fc36bbd3c26ddca8fa9a7369a5516c.jpg",
+        "table_caption": [
+            "Table1Main dimensions of the impellers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Specifications</td><td colspan=\"2\">Impeller ‘A'</td><td rowspan=\"2\">Impeller‘B'</td></tr><tr><td></td><td>142 mm</td></tr><tr><td>Inlet diameter Outlet diameter</td><td>D1</td><td>230 mm</td><td></td></tr><tr><td>Number of blades</td><td>D2 B</td><td>7</td><td></td></tr><tr><td>Exit blade height</td><td>H</td><td>60.5 mm</td><td></td></tr><tr><td>Blade thickness</td><td>t</td><td>1 mm</td><td></td></tr><tr><td>Inlet angle</td><td>β1d</td><td>15°</td><td></td></tr><tr><td>Outlet angle</td><td>β2d</td><td>35°</td><td>25°</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/59f6f4d51894b285474495212054a2b133403f63f0029940ad63acb6f80a715e.jpg",
+        "img_caption": [
+            "Fig.1Geometries of Impellers "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Performance Curve ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The flow rate coefficient, the static pressure coefficient, the total pressure coefficient and the efficiency in Fig.2 and Fig.3 are defined with the following equations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi = \\frac { 6 0 \\mathcal { Q } } { \\pi ^ { 2 } D ^ { 2 } H N }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle \\psi = { \\frac { 2 P } { \\rho \\pi ^ { 2 } D ^ { 2 } N ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ \\eta = { \\frac { P Q } { T \\omega } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the performance curves of the simulated fan.Figure 2(a) is the static and the total pressure coefficients of fans of impeller $\\mathbf { \\dot { A } } ^ { \\prime }$ and $\\mathbf { \\nabla } ^ { \\cdot } \\mathbf { B } ^ { \\prime }$ . For the impeller $\\mathbf { \\dot { A } } ^ { \\prime }$ ，the static and total pressure coefficients in steady simulation is quite different from the unsteady simulation.But for the impeller $\\mathbf { \\nabla } ^ { \\left. \\mathbf { B } ^ { \\prime } \\right. }$ ,these coefficients in steady simulation are almost the same as those in unsteady simulation.For the case of impeller‘A',the static and total pressure coefficients are lower than in unsteady simulation.Figure 2(b) shows the efficiency of the fans of impeller $\\mathbf { \\dot { A } } ^ { \\prime }$ and $\\mathbf { \\nabla } \\cdot \\mathbf { B } ^ { \\prime }$ .For the impeller $\\mathbf { \\nabla } ^ { \\left. \\mathbf { B } ^ { \\prime } \\right. }$ ，the efficiency in steady simulation is well coincident to the unsteady simulation.But for the case of impeller‘A',the efficiency in steady simulation is much lower as compared with the unsteady simulation with a difference of about O.2 in all flowrates. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3f323eab3d2ce50a87b9fc8eb9e4ba47a07c9c3b83e804494326a0fce64bfce.jpg",
+        "img_caption": [
+            "Fig.2Fan performance "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/449bc58f96fb3fd07da1e3f8d4dad5d0568d9d932eb077e1c885e6c635a78958.jpg",
+        "img_caption": [
+            "Fig.3Impeller performance "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The impeller performances of the impeller $\\mathbf { \\dot { A } } ^ { \\prime }$ and‘B areshown in Fig.3.The steady andunsteady flow characteristics of the impeller‘A'and $\\mathbf { \\nabla } ^ { \\cdot } \\mathbf { B } ^ { \\cdot }$ ,the static and the total pressure coefficients are shown in Fig.3(a) and the efficiencies in Fig.3 (b). The performance of the static pressure and the total pressure coefficients of the impeller $\\mathbf { \\nabla } ^ { \\cdot } \\mathbf { B } ^ { \\prime }$ in steady simulation are almost the same as those in unsteady simulation.And for the case of the impeller ‘A',the coefficients in steady simulation are almost the same as the case of unsteady simulation.The total pressure coefficient of the impeller‘A'is higher than that of the impeller‘B’in all flow rates,which is caused by the difference of the outlet angle of the impeller;and the variation with flow rate is similar to the impeller‘B'.But the variation of the static pressure coefficient of impeller ‘A’with the flow rate is different from the case of the impeller $\\mathbf { \\nabla } \\cdot \\mathbf { B } ^ { \\prime }$ . The static pressure of the impeller‘A'is almost constant within a wide flow rate region but that of impeller $\\mathbf { \\nabla } ^ { \\cdot } \\mathbf { B } ^ { \\prime }$ gradually decreases with the flow rate increasing.Figure 3 (b) is the efficiency of the impeller. The efficiency of the impeller‘A'in steady simulation is lower by about O.1 than that in unsteady simulation at all flow rates.The total pressure is almost the same in both simulations but the blade load is different in steady and unsteady simulations.The efficiency of impeller‘B’is almost the same in steady and unsteady simulations.The efficiency of the impeller‘B’ in both steady and unsteady flowfieldsis higher than thatin the steady flowfieldsof the impeller‘A',but those values are lower than that in theunsteady flowfields of the impeller‘A'.This shows the complexity of the impeller performance. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The casing performances, efficiency,are shown in Fig. 4.The casings have the impeller‘A’and the impeller $\\mathbf { \\nabla } \\cdot \\mathbf { B } ^ { \\prime }$ which exhibit different casing performances under the steady and the unsteady simulations.The casing efficien cy in Fig. 4 is defined by the following equation,Eq. (4). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { c } = 1 + \\frac { \\Delta P _ { t \\_ C } } { \\Delta P _ { t \\_ i m } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6533725dbee284d806b1ee5e76da7bc71b9ea6a6d140612e0c42c0522d207950.jpg",
+        "img_caption": [
+            "Fig.4Casing efficiency "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The $\\Delta P _ { t \\_ c }$ and $\\Delta P _ { t \\_ i m }$ are pressure rise in casing and the impeller, respectively. In the casing, $\\Delta P _ { t \\_ c }$ is always negative. The casing efficiency based on the total pressure is the maximum at flow rate $\\phi = 0 . 1 8 7$ in all cases.The variation of the impeller $\\mathbf { \\nabla } \\cdot \\mathbf { B } ^ { \\prime }$ is almost the same in both simulations,except for large flow rate.For the impeller $\\mathbf { \\dot { A } } ^ { \\prime }$ ，the difference between the steady and unsteady simulations are large,especially at the low flow rate.The difference of the impeller‘A’ at design flow rate, $\\phi =$ 0.187,is about O.1.The difference of the fan efficiency is about O.2 atimpeller $\\mathbf { \\dot { A } } ^ { \\prime }$ as shown in Fig.2 (b),which is caused by both the impeller and the casing efficiency difference. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Flow Characteristics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The flow characteristics of the simulated fans are discussed for each simulation condition at flow rate $\\phi =$ 0.187．The flow characteristics,relative velocity and static pressure,are basically analyzed in the mid-span location of the impeller.Figure 5 shows the relative velocity contours of steady and unsteady flow patterns. The flow patterns in steady and unsteady simulations inside the impeller are quite different at impeller‘A',but for the case of impeller $\\mathbf { \\nabla } ^ { \\cdot } \\mathbf { B } ^ { \\prime }$ are almost the same.In the case of the impeller‘A' in Figs.5 (a) and (b), the flow separation on the suction surface near the trailing edge of the blade Occurs at the back region, $\\mathbf { B } _ { 2 }$ ， $\\mathbf { B } _ { 3 }$ ，and ${ \\bf B } _ { 4 }$ ，that causes the large wake near the lower wall of the casing and the upper corner in the steady simulation.The separation leads to a distinct wake region.But the separation is very small in unsteady simulation. And the outflow from the casing near the upper wall is large in steady simulation. The uniform flow pattern occurs in unsteady flow field inside the impeller‘A',but non-uniform flow patterns occur in the steady flow field. The steady flow pattern in the circumferential direction of casing is quite different from the unsteady flow pattern. The secondary flow is dominant in the casing and the wake occurs in the corner of the casing and fan outlet in the steady flow. In the unsteady simulation， the impeller rotates as the flowpasses through the blade passage and the inlet condition and outlet condition of the impeller are varied. This operates to average the flow in the impeller.Figures 5 (c) and (d) show velocity contour of the impeller $\\mathbf { \\nabla } \\cdot \\mathbf { B } ^ { \\prime }$ in steady and unsteady flow field. The separation occurs only at the leading edge of the suction sides of blades inside the impeller $\\mathbf { \\nabla } ^ { \\left. \\mathbf { B } ^ { \\prime } \\right. }$ . The steady flow pattern is a little different from the unsteady flow pattern inside impeller‘B'.In both steady and unsteady cases,the flow pattern is a little different in the circumferential direction of the casing. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the pressure distributions at the design flow coefficient $\\phi = 0 . 1 8 7$ .Figures 6(a) and (b) are the cases of the impeller‘A'.The results from the steady simulation show that the flow in the impeller of Fig. 6 (a) is varied in circumferential location.The pressure at the inlet of impeller is lower than in the region of the outlet.. But the pressure is higher in the back region of the fan, $\\mathbf { B } _ { 3 }$ to ${ \\bf B } _ { 4 }$ . This pressure distribution continues to the impeller outlet. The static pressure is a little higher in the impeller‘A’outflow region,between $\\mathbf { B } _ { 2 }$ and ${ \\bf B } _ { 5 }$ in the impeller rotational direction.In the casing,the pressure is lower at the fan exit, $\\mathbf { B } _ { 6 } , \\mathbf { B } _ { 7 }$ ,but higher atback region, ${ \\bf B } _ { 3 }$ to ${ \\bf B } _ { 5 }$ .In the unsteady simulation,the pressure distribution in circumferential location is a little varied in the casing and is high only at the corner. The discrepancy of steady and unsteady simulation is caused by the flow from the inlet to outlet of the impeller.At the steady si mulation,the impeller does not move in the entire simulation time and the flow of the impeller passage is restricted in the fixed impeller passage.Figures 6 (c） and (d) show the case of the impeller $\\mathbf { \\cdot } \\mathbf { B } ^ { \\prime }$ . The static pressure distribution in steady simulation is a little different from the unsteady one within the blade sections.The blade load of the impeller $\\mathbf { \\nabla } \\cdot \\mathbf { B } ^ { \\prime }$ is lower than the impeller‘A', and the separation of the boundary layer on the blade surface is hardly occurs.These flow characteristics make the difference between the steady and unsteady simulation small. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbe74141d751c4c33b49a0a07b68953953ccda876b08a26f545f5d3e5cd2fc12.jpg",
+        "img_caption": [
+            "Fig.5 Relative velocitydistributions at $\\scriptstyle \\phi = 0 . 1 8 7$ (mid-span section) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b00937ca12f0e857ed9dff128235942582f681fdf2638183cb73e4ac6d0af8e.jpg",
+        "img_caption": [
+            "Fig.6Static pressure contour at $\\scriptstyle \\phi = 0 . 1 8 7$ (mid-span section) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The effect of unsteady behavior of simulation is discussed on the performance of a centrifugal fan. Two types of blades,with small and large outlet angles,are used to research it. The following results are obtained. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.The results of the fan performances are different in steady and unsteady simulations.The performances of the fan are lower in steady simulation. 2.The variation of the flow characteristics becomes large in steady simulation.The separation on the blade surface is large in steady simulation. 3.The differences between steady and unsteady simulations is large when the flow pattern of the impeller is varied in circumferentiallocation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Yokoi,Y.,Inagaki. S.: Experimental Study of Flow Feature in Spiral Casing of Turbo Fan,J.of TSJ,‘Turbomachinery\",Vol.33-4,pp.241-249,(2005).   \n[2]Qi,D., Zhang,Y.,Wen, S.,and Liu,Q.: Measurement and Analysis of Three-Dimensional flowina Centrifugal Fan Volute with Large Volute Width and Rectangular Cross Section,IMechE,Vol.220,pp.133-153,(2006).   \n[3]Yamazaki，Komatsu，S.，Obata,T.，and Yokoyama,S.: Investigation ofFlow Pattern ina Backward-Curved Fan and Influence of Its Fan Shape on performance and Noise, Trans.of JSME,Vol.65-636,pp.2770-2776,(1999).   \n[4] Yu,Li, S., He,W.,Wang,W., Huang,D.,and Zhu, Z.: Numerical Simulation ofFlow Field for a Whole CentrifugalFan and Analysis of the effect of Blade Inlet Angle and Impeller Gap，HVAC & R Research，Vol.11-2, Pp.263-283,(2005).   \n[5]Jeona,W.H.,and Leeb,D.J.:A numerical study on the flow and sound fields of a centrifugal impeller located near a wedge,J. Sound,and Vibration,Vol.266,pp.785- 804,(2003).   \n[6]Behzadmehr,A.,Piaud,J.B.,Oddo,R.,and Mercadier, Y.:Aero-Acoustical Effects of Some Parameters of a Backward-Curved Centrifugal Fan，DOE, Vol.12-2, pp.353-365,(2006).   \n[7] Yamashita, S.: Silent and Super Link System of Ceiling Recessed Type Packaged Air Conditioner,Refrigeration, Vol.67,pp.622-627,(1992).   \n[8] Hayashi,H.,Nakamura,K.:Flow Characteristics of Turbo Fan with Rectangular Casing,J.of TSJ,“Turbomachinery\",Vol.39,No.10,p.624-631,(2011).   \n[9] Kodama,Y.,Hayashi,H.,Sanagi,T.,and Kinoshita,K.: Noise Generated by Centrifugal Fan without Scroll Casing (Effects of the distance between the leading edge of blades and the wall of mouthpiece,the geometry at the outlet of the bellmouth and the gap of mouthpiece),Trans. ofJSME,Vol. 63,pp.3025-3032,(1997). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

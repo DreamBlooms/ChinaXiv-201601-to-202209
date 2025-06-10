@@ -1,0 +1,274 @@
+[
+    {
+        "type": "text",
+        "text": "Metal-Organic Framework Nanofilm for Mechanically Flexible Information Storage Applications ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liang Pan, Zhenghui Ji, Xiaohui Yi, Xiaojian Zhu, Xinxin Chen, Jie Shang, Gang Liu,\\* and Run-Wei Li\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Metal-organic frameworks (MOFs),which are formed by association of metal cations or clusters of cations (\"nodes\") with soft organic bridging ligands (\"linkers\"),area fascinatingclass offlexible crystalline hybrid materials offering potential strategy for the construction of flexible electronics. In this study,a high-quality MOF nanofilm, HKUST-1,on flexible gold-coated polyethylene terephthalate substrates is fabricated using liquid phase epitaxy approach. Uniform and reproducible resistive switching effect,which can be sustained under the strain of as high as $2 . 8 \\%$ ,and over the wide temperature range of -70 to $+ 7 0 ^ { \\circ } \\mathsf C ,$ ,is observed for the first time in the all solid-state $\\mathsf { \\pmb { A u } } /$ HKUST-1/Au/ thin film structures.Through conductive atomic force microscopic and depth-profiling $\\boldsymbol { \\mathsf { X } }$ -ray photoelectron spectroscopicanalysis,it is proposed that the electric field-induced migration of the ${ \\mathsf { C u } } ^ { 2 + }$ ions,which may lead to subsequent pyrolysis of the trimesic acid linkers and thus the formation of highly conducting filaments, could be the possible origin for the observed uniform resistance switching in HKUST-1 nanofilms. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ever increasing concerns about the monitoring of human health have greatly inspired the recent development of wearable electronic equipments,including the epidermal electrode arrays,tactile sensors,bendable displays and etc.,[1-6] the most fundamental features of which are the mechanical flexibility and environmental stability. Being fabricated on soft substrates or even used as free-standing films,[7] the flexible electronics are required to be lighter, more conformal,more portable,and less expensive for manufacturing,in comparison with their rigid counterparts.As an integrated component of any digital gadgets，the information storage chips should also be made flexible for wearable applications.[8-11]In view of this,the recently developed resistance random access memories (RRAMs), which received tremendous amount of attention as an alternative to the chargebased memories suchas dynamic random access memory and flash memory, have distinguished themselves as promising candidates for flexible and consumer electronic applications,with the advantages of simple structure,easy fabrication process, and low-cost potential[12-15] ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, there still exist scientific and technical challenges at the moment that impede the flexible resistive memories from practical applications.For instance, thebrittleinorganicmaterials-based memories， which usuallydemonstrate reliable storage performance on rigid substrates,suffer severely from the limited adaptivity to large strains upon repeated bending or stretching operations.[16,17] On the contrary, though the soft organic electronic materials carries inherent mechanical-flexibility, the poor resistance to the changing environments makes them improper for working under harsh conditions.[18,19] Moreover, the memory devices should remain stable and reliable under various deformation scenarios to avoid any possible misoperation on the stored data. Thus,more efforts should be devoted by material scientists toward designing novel materials with new functionalities. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With these concerns, the metal-organic frameworks (MOFs), which can be taken as the rigid metal oxide matrix extended by soft organic linkers and possess the features of both inorganic and organic materials,21-23] may provide alternative strategy for the construction of flexible resistive memories. Veryrecently,it is documented that the conductivity states of a metal/macroscopic MOF single crystal/metal structure can be tuned bistably by the self-limiting oxidative reaction of the metal anode involving liquid species.[24] We also observed stable and low power resistance switching effect in MOF single crystals,which is probably related to the ferroelectric transition of $\\mathrm { N \\cdot \\cdot \\cdot H \\mathrm { - } O \\cdot \\cdot \\cdot H \\mathrm { - } N }$ bridge-structured dipoles of guest water molecules inside the MOF nanochannels.[25] Nevertheless,it is still challenging at the moment to construct a liquid-free and flexible MOF thin flm for practical wearable information storage applications.Inspired by these,we herein report the direct deposition of a high quality MOF nanofilm,HKUST-1,on flexible gold-coated polyethylene terephthalate (PET) substrates，and its promising memory performance.Uniform and reproducible resistive switching effect,which can be sustained under the strain of as high as $2 . 8 \\%$ ，and over the wide temperature range of $- 7 0$ to $+ 7 0 { } ^ { \\circ } \\mathrm { C }$ ,has been observed for the first time in the all solid-state $\\mathrm { A u / H K U S T  – 1 / A u / }$ thin film structures.The mechanical flexibilityand environmental stability well meet the requirements for wearable application under earth surface conditions.Through conductive atomic force microscopic (C-AFM) and depth-profiling X-ray photoelectron spectroscopic (XPS) analysis,we propose that the electric field-induced migration of the $\\mathrm { C u } ^ { 2 + }$ ions,which may lead to subsequent pyrolysis of the trimesic acid linkers and thus the formation of highly conducting filaments,could be the possible origin for the observed uniform resistance switching in HKUST-1 nanofilms.With the intrinsic properties of the MOF material,namely the 3D periodical nature of the framework and the synergistic interplay between the metal species and the organic linkers,to produce the resistive switching effect, the mechanically flexible HKUST-1 nanofilm may provide a more appropriate and controllable platform for the construction of wearable information storage devices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HKUST-1 $\\begin{array} { r } { | \\mathsf { C u } _ { 3 } ( \\mathsf { B T C } ) _ { 2 } , } \\end{array}$ BTC $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ benzene-1,3,5-tricarboxylic acid), which is assembled from the binuclear $\\mathrm { { C u ( I I ) } }$ paddlewheel and the tridentate trimesate molecules,isa widely explored MOF material with well-defined 3D framework structure (Figure S1a, Supporting Information).[26-28] The growth mechanism of HKUST-1 has been well understood over the past decade and thus renders the possibility of preparing high quality MOF nanofilms.29-31] In this work,the HKUST-1 nanofilms was prepared on gold/PET flexible substrates through a modified liquid phase epitaxy approach (LPE).[32-34] The entire process was done automatically in a home-designed apparatus (Figure 1a) to avoid being exposed to the atmosphere and to eliminate any possible contaminations from the air. In order to receive a high quality continuous MOF nanoflm with good resistive switching behavior and mechanical flexibility,a typical film thickness of ${ \\approx } 1 3 0 \\ \\mathrm { n m }$ ，with the grain size of ${ \\approx } 4 0$ to $8 0 \\ \\mathrm { n m }$ and promising morphological uniformity with the rms roughness of ${ \\approx } 4 ~ \\mathrm { n m }$ was selected when fabricating the HKUST-1 samples in the present study (Figures 1b and S1b,S1c, Supporting Information). The HKUST-1 nanofilm demonstrates good bendability on the flexible Au/PET substrate (Figure 1c).X-ray diffraction pattern, Fourier transformed infrared spectrum and Raman spectrum (Figure S1d-S1f, Supporting Information) suggest that the asdeposited HKUST-1 films havea (111) direction-oriented polycrystalline structure,which are in good agreement with that reported in the literatures.[26,33,35] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The room-temperature bipolar resistive switching behavior of the Au/HKUST-1/Au/PET sandwich structures is shown in the current-voltage $( I { - } V )$ characteristics of Figure 2a.The virgin devices are always in high resistance state (HRS,or OFF state) with a resistance of $1 0 ^ { \\bar { 1 3 } } – 1 0 ^ { 1 2 } \\ \\Omega$ .A positive voltage of around $1 5 \\mathrm { V }$ has been first applied to the bottom electrode with a compliance current (Icc) of O.01 A to initialize the device to a low resistance state(LRS,or ON state),which severs as the “forming” process in memory devices (Inset of Figure 2a). The device stayed at ON state when the power is turned off or during the following positive voltage sweeps,indicating the nonvolatile characteristic of the resistive switching of Au/HKUST-1 $/ \\mathrm { A u } /$ PET device. A reverse sweeping voltage of $- 0 . 5 3 { \\mathrm { ~ V ~ } }$ can recover the high resistance state,and this negatively-biased sweeping serves as the“reset”or“erase”process of a rewritable devices. In the following positive sweeps,a much smaller set voltage of $0 . 7 8 { \\mathrm { ~ V ~ } }$ is sufficient to switch the device to the ON state again, thus completing the“write-read-erase-read-rewrite”cycle of a rewritable memory. Though the ON/OFF ratio of the present device (e.g.,18.5,read at 0.1 V) is not as large as those reported in the literatures,[13] it is still sufficient for the today's state-ofthe art COMS circuits to differentiate the programmed resistance states,[14] ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/29a11b141fcec036b9341c10ccd9fec1d4da70f6ed57b0d0172f2d35527f4bd9.jpg",
+        "img_caption": [
+            "Figurel.aSematicilstratiooftexperimetaletupfrteprepaatiofHUS-anfs.b)rosectioalsaingetro scopicmageandc)dgitalphotograhoftheHKUST-lnanofmgrownontheflexibleAu/PETsubstrate.ThethicknessoftheAu/PETsubstrateis 7 mil (or $\\approx 0 . 1 8 ~ \\mathsf { m m } ,$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/790c5c1a3e19f064f57757fda0ad432026294ab0472102f6238e36a0995c2c30.jpg",
+        "img_caption": [
+            "Figure2.CurrtvolagechracterisisoftAu/HU-/u/Tfiedevicea)atthefatstateandb)uringtedacendngtestwih the bending rates ranging from 0.25 to $2 \\mathsf { m } \\mathsf { m } \\mathsf { s } ^ { - 1 }$ .The inset of a) shows the schematic configuration and the forming process of the memory device. Evolutionofthec)theHRSandLRSresistancesandd)thesetandresetvoltagesasafunctionofthebendingradiusorstrainlevelofthe $\\mathsf { A u / H K U S T - l } /$ Au/PET flexible device. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The memory performance of the Au/HKUST-1/Au/PET device,which has an original length of $1 3 ~ \\mathrm { m m }$ at the flat state, gets well retained during the dynamic and static bending tests. The bended surface of the device is assumed as an ideal part of a perfect circle at all bending radius,7.36] while the slight deviation from the perfection may lead to some acceptable error for bending radius estimation (Figure S2,Supporting Information).As shown in Figure 2b,the resistive switchingbehavior of the device is insensitive to the bending rates.When the bending rates increase from 0.25 to $2 \\mathrm { m m } \\mathrm { s } ^ { - 1 }$ ,the $I { - } V$ response remains almost unchanged.Herein,the bending rate is defined as the rateat which the direct distance between the two sides of the device is decreased,while in all batches of the dynamic bending tests,the final bending radii are kept constant at $3 . 4 \\ \\mathrm { m m }$ Moreover,when the strain of the device increases from $0 . 9 3 \\%$ to $2 . 8 \\%$ (or, the bending radius decreases from 9.6 to $3 . 2 \\mathrm { m m }$ ） onlya minor decrease of the ON/OFF ratio ora slight fluctuation in the switching voltages of the device is observed (Figure 2c,d).To be more representative,the resistive switching has been cycled for over 30 times at each bending radius or strain level to increase the sample capacity. The strain level of $2 . 8 \\%$ ,at which the HKUST-1 memory can still work normally, is superior to that of most of the inorganic counterparts.[17] When the surface strain of the device exceeds $2 . 8 \\%$ (with the bending radius being less than $3 . 2 ~ \\mathrm { m m } ^ { \\cdot }$ )，theresistive switching effect vanishes and the device becomes highly conductive (Figure S3a, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information). Optical microscope image reveals that the appearance of cracks throughout the HKUST-1 thin film may be responsible for the failure of the MOF devices (Figure S3b,Supporting Information).When the MOF nanofilmsare deposited on even softer poly(dimethylsiloxane) (PDMS) substrates or used as free-standing functional layers, the flexibility of the memory device may be further extended from being only bendable to stretchable and twistable for real wearable application under various deformation conditions. Currently,we are capable of peeling the HKUST-1 nanofilm off from the substrate,but attaching electrodes on both side of the free-standing nanofilm,or directly depositing the MOF film on PDMS substrate,is still problematic at the moment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cyclic switching operations were also conducted to further investigate the uniformity of the resistance switching effect at certain strain levels.To be more representative,over 50 samples have been fabricated and tested.They all exhibits similar electrical performance.As shown in Figure 3a,the resistance switching behavior can be reproduced in the $\\mathrm { A u } /$ HKUST-1/Au/PET flexible devices for more than 300 consecutive cycles with good accuracy at the strain level of about $2 . 0 \\%$ The switching parameters of the HKUST-1 device are uniform, with the $R _ { \\mathrm { H R S } }$ (HRS resistance, $5 3 4 \\pm 2 8 . 3 \\Omega$ ， $R _ { \\mathrm { L R S } }$ (LRS resistance, $3 2 \\pm 4 . 7 \\Omega$ , $V _ { \\mathrm { s e t } }$ (set voltage, $0 . 7 6 \\pm 0 . 0 2 3 \\mathrm { ~ V } )$ and $V _ { \\mathrm { r e s e t } }$ (reset voltage, $- 0 . 4 8 \\pm 0 . 0 1 7 \\mathrm { ~ V } _ { \\cdot }$ ）all distributed inaverynarrow range (Figure 3b)[19] Moreover, no significant changes of the ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) (b) 700 10-2 (rrr) eeeeesieen 50   \nn □ 。 LRS 25 100 10-5 Bandim Radis 106=2.00.4 20 0 0.4 0.8 0 50100 150200 250300 Voltage (V) Cycles   \n(c) 10 (d)   \nrrre) ereeisiseg □ □ □ □ □ □ 1 0.8 □ □ □ 目 □ □ 日 □ □HRS () ebenior OLRS 0.6 10² Bending Radius=4.5 mm □Set Voltage Strain=2.0% OReset Voltage BendingRadius $= 4 . 5 \\mathsf { m m }$ O O Q O O 。 O O -0.4 Strain=2.0 % Read@0.1V O O O + O . ? 101 40 80 120 160 -0.6 40 80 120 160 Number of bendings Number of bendings   \n(e) 103 (f)   \n(rre) eeeeiseeg a：a0oa0oa00 □HRSFlat 5001 □LRSFlat 400 102 ·O HRSRadius: 4.5 mm 300 OLRSRadius:4.5 mm 200 BendingRadius=4.5mm ： aada·aada·aaaa 100 Strain=2.0% Read@0.1V 0 101 100 101 102 103 104 10°1010²101041010107 Time (s) Cycles ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HRS/LRS resistances or the set/reset voltages have been observed when the device was bended for up to 160 times (Figure 3c,d)，again suggesting the device stability against mechanical stress and strain.In comparison with that at the flat state,both the HRS and LRS resistances of the memory device can be retained equally well at the strain level of $2 . 0 \\%$ for more than $1 0 ^ { 4 } \\mathrm { s }$ (Figure 3e).Pulse-mode test suggests that the memory performance of the HKUST-1 device can be even maintained at the strain level of $2 . 0 \\%$ for more than $1 0 ^ { 7 }$ cycles (Figure 3f). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "On the earth surface,the temperature range in which human beings can survive usually varies from $\\approx - 7 0 ~ ^ { \\circ } \\mathrm { C }$ at the South or North Pole to $\\approx + 7 0 ~ ^ { \\circ } \\mathrm { C }$ at the Sahara desert.Thus, the thermal stability of the present HKUST-1 flexible memory cell was also evaluated in the same temperature region for wearable applications.For the heating and cooling treatment, the device was fixed with double-side tapes onto a convex mould with the strain of $2 . 0 \\%$ and then mounted into the vacuum chamber of the probe station.The sample temperature was first cooling down to $- 7 0 ~ ^ { \\circ } \\mathrm { C }$ and raised at a ramping step of $1 0 ~ ^ { \\circ } \\mathrm { C }$ until reaching $+ 7 0 ~ ^ { \\circ } \\mathrm { C }$ ：At each sampling temperature,the resistive switching operation has been cycled for more than 50 times.As shown in Figure 4a, the switching between the ON and OFF states is highly reproducible in the working temperature range of $- 7 0$ to $+ 7 0 { } ^ { \\circ } \\mathrm { C }$ ,which is rarelyobserved in organic materials-based flexible RRAM devices.The $I { - } V$ characteristics remain stable and smooth when the sampling temperature varies,except for the reduced set and reset voltages (Figure 4b), which suggest that the writing and erasing processes are thermally-activated.Though the HRS and LRS resistances also decrease slightly as the sampling temperature increases,the $R _ { \\mathrm { o f f } } / R _ { \\mathrm { o n } }$ ratio is still sufficient to identify the two states without severe misreading issue (Figure 4c). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/51f7cf2e54a4c36e3453f49c4e8f15a37217a1c3962139a5af269a3a8e4e917d.jpg",
+        "img_caption": [
+            "Figure 4.a) Current-voltage characteristics,b) set and reset voltage and c) HRS/LRS resistance (read at O.1 V) of the $\\mathsf { A u / H K U S T - 1 / A u / P E T }$ devices monitored in the temperature range of $- 7 0$ to $7 0 ^ { \\circ } \\mathsf C$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C-AFM has also been employed to study the resistance switching behavior of HKUST-1 in the nanometer scale. The device structure for C-AFM measurement consists of a ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HKUST-1 nanofilm sandwiched between a Pt/Ir-coated con ductive tip (grounded) and the $\\mathrm { P t / S i O } _ { 2 }$ substrate (to avoid the asymmetric electrode,inset ofFigure 5a.Underalow biased voltage of less than $0 . 5 { \\mathrm { ~ V } } ,$ the C-AFM current map of the nanofilm does not exhibit any difference in the scanning area of $3 \\times 3 ~ { \\mu \\mathrm { m } } ^ { 2 }$ ,suggesting that the initial resistance state (IRS) of HKUST-1 has poor conductivity (Figure 5a). After applying a biased voltage of $2 \\mathrm { ~ V ~ }$ and monitoring the current response at $0 . 5 ~ \\mathrm { V } ,$ several bright spots associated with the localized conductive regions have appeared (Figure 5b). These bright regions are about ${ \\approx } 1 0 ~ \\mathrm { n m }$ in diameter. Once a biased voltage of $- 2 { \\mathrm { ~ V ~ } }$ has been applied onto the same area,these bright spots disappear correspondingly, thus mimicking the write-read-erase cycles of the macroscopic metal/HKUST-1/metal devices.Nevertheless, the $I { - } V$ characteristic of each conductive spot is similar to that of the macroscopic devices (inset of Figure 5b),therefore indicating that the resistance switching in HKUST-1 nanofilms has a filamentary nature[37-40] Interestingly，a zoomed-in C-AFM image reveals that the resistance switching occurs inside the nanograins of the HKUST-1 thin film (Figure 5c,d). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Generally,HKUST-1 is formed from $\\mathsf { C u } ^ { 2 + }$ dimer and benzene-1,3,5-tricarboxylic acid (BTC) linkers.The presence of carboxylate oxygen atoms glues the metal ions and organic linkers through $\\sigma$ bonds,in the meanwhile prevents the effective overlap of the $\\pi$ orbit in the linkers with the metal $d$ orbit.31,41,42 Therefore,the less ffcient charge carrier hopping between either the $\\mathrm { C u } ^ { 2 + }$ ions or the BTC linkers leads to the initial high resistance state in the nanofilm.[43-46] With the binding energy of $3 7 2 \\mathrm { ~ k J ~ m o l } ^ { - 1 }$ for two $\\mathrm { C u - O }$ bonds in HKUST-1,[47] the complexing between the $\\mathrm { C u } ^ { 2 + }$ dimer and the BTC linkers are relatively weak,as compared with that of the metal-oxygen covalent bonds in oxide materials,[48l and could be disturbed by external means.Thus,the copper ions in HKUST-1 nanofilm have a high probability to migrate under the stimulation of high electric field. To verify this hypothesis,XPS depth-pro filing analysis of the Au/HKUST-1/Au cells has been performed in their respective IRS and LRS to plot the distribution of the copper species.The locations of the Au top electrode/HKUST-1 and HKUST-1/Au bottom electrode interfaces can be exactly identified in the IRS.Before the application of external electric fields,the top electrode layer should not contain any copper content,while the HKUST-1 layer close to the bottom electrode should not contain any gold content either.A clear and sharp interface at the Au top electrode/HKUST-1 or the HKUST-1/ Au bottom electrode is observed in Figure 6a.When the device has been switched to the LRS,copper content can be detected in the Au top electrode layer (highlighted with blue circle in Figures 6c and S4,Supporting Information),confirming that the $\\mathrm { C u } ^ { 2 + }$ ions (peak at $9 3 3 . 6 \\ \\mathrm { e V }$ ）have been driven into the top electrode and reduced to metallic species ( ${ \\mathrm { C u } } ^ { 0 }$ peak at $9 3 2 . 7 \\mathrm { e V } )$ 1 Considering the fact that the conductivity changes significantly under external electric field inside the nanograins,the diffusion of $\\mathrm { C u } ^ { 2 + }$ ions probably also occurs inside the nanograin of the HKUST-1 films. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the XPS results,a phenomenological model of the resistance switching is proposed and schematically illustrated in Figure 6c.With the high electric field applied onto the $\\mathrm { A u } /$ HKUST-1/Au sandwiched structure, $\\mathrm { C u } ^ { 2 + }$ ions at the localized crystalline defects can be dislocated from the BTC linkers, driven into the top Au layer and reduced to Cu atoms. The negatively charged vacancies in the HKUST-1 nanofilms are relatively less stable,and the carboxylic groups can be removed from the aromatic linkers upon Joule heating and emitted as carbon dioxide through the top electrodes.49,50] The pyrolysis of the trimesate linkers then may result in the coupling of the neighboring benzene rings and the subsequent formation of $\\mathrm { s p } ^ { 2 }$ -hybridized carbon-rich channels.[51,52] Charge carrier transport through such localized conjugated system would be more efficient as compared with the hopping between either the $\\mathrm { C u } ^ { 2 + }$ ions or the BTC linkers,which in turn gives rise to the device transition from the high resistance state to the LRS.[53] Reversed voltage can disrupt the as-formed aromatic conducting filament and reset the device to the high resistance state.As stated above,both the HRS and LRS resistances show negative dependence on the sampling temperature (Figure 4c),which is in good agreement with the semiconducting nature of the OFF state charge carrier hopping process and the transport through the $\\mathrm { s p } ^ { 2 }$ -hybridized conjugated system in the ON state HKUST-1 nanofilms.We are also making efforts to physically identifying the molecular structure changes after the initial forming state and to verifying the proposed resistive switching mechanisms. Nevertheless，with the significant difference between the driving force for the breaking of $\\mathrm { C u - O }$ bonds in HKUST-1 and the subsequent migration of the $\\mathrm { C u } ^ { 2 + }$ ions,and that for the rupture and regeneration of the $\\mathrm { s p } ^ { 2 }$ -hybridized conducting channels,an obvious variation in the forming and setting/reseting voltages can be understood. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/60ccc722d19ca398ad7d3f348d76806c108b6bbb87728607d6a892d9315133e5.jpg",
+        "img_caption": [
+            "Figure 5.Current maps of the HKUST-1 nanofilm a) in its initial state and b)after being set with $2 { \\mathsf { V } } .$ Inset of a) shows the schematic configuration of thePt/lr/HKUS/PtstructureforCAmeasuremetnseofb)sowstheVharacteisticsofteiglightedonductiveflametseasurd by C-AFM technique.c) Morphology and d) current map of the HKUST-1 nanofilm after being set with $2 \\lor$ in a zoomed-in C-AFM image. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbbf73489770721725b85da8b7c1f9807adeb108ccc3e5adb6e5d672af5b2863.jpg",
+        "img_caption": [
+            "Figure6.XPSeptprflinganalysoftu/HU-/Aeviceineinilndte,sectivelyeredenduesin (a)and(b)reprtectetUofdbtodelspielydhticf the switching mechanism in HKUST-1 nanofims.The green,blue,gray,and red spheres in (e) represent the ${ \\mathsf { C u } } ^ { 2 + }$ ${ \\mathsf { C u } } ^ { 0 }$ ,C,and O species,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.Conclusion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, high-quality HKUST-1 nanofilms have been fabricated directly on flexible substrates using a modified LPE approach,which exhibit uniform and reproducible resistive switching effect under the strain of as high as $2 . 8 \\%$ ,and over the wide temperature range of $- 7 0$ to $+ 7 0 ~ ^ { \\circ } \\mathrm { C }$ .Veryrecently, molecular ferroelectric and dielectric materials have also been demonstrated with good electrical bistability for information storage applications.54-56] Combining the mechanical flexibility of organic materials and the environmental stability of inorganic species,the ferroelectricity or dielectricity of the storage medium,as well as the improvements in our understanding and control of how they transport ions and charges,the metalorganic framework nanoflms are demonstrating great potential asinformation storage medium in future wearable electronic devices. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.Experimental Section ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Preparationof theAu/PETflexible substrates:Au/PET substrateswere prepared by sputtering a 5-nm buffer layer of titanium $( 9 9 . 8 \\% )$ and subsequently a $\\mathsf { 1 0 0 \\ n m }$ layer of gold $( 9 9 . 9 9 9 \\% )$ onto the prepolished PET flexible substrates at room temperature,in an E-beam evaporation chamber at a base pressure of about $1 0 ^ { - 5 }$ Pa. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Preparationof the Au-OH flexible substrates:The as-prepared $\\mathsf { A u / P E T }$ flexible substrates were placed in the piranha solution $( \\mathsf { H } _ { 2 } \\mathsf { S O } _ { 4 } ; \\mathsf { H } _ { 2 } \\mathsf { O } _ { 2 } =$ 4:1) for $3 0 ~ \\mathsf { s }$ and rinsed with excess amount of pure water to receive the Au-OH flexible substrates. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Deposition of the HKUST-1 nanofilms on Au-OH/PET substrate:The Au-OH substrate,placed in a home-deigned reactor and sealed with a rubber stopper,was first immerged in a $5 0 \\times 1 0 ^ { - 3 } ~ \\mathrm { m }$ ethanol solution of $\\mathsf { C u } ( \\mathsf { C H } _ { 3 } \\mathsf { C O O } ) _ { 2 }$ (injected through a syringe and peristaltic pump as shown in Figure 1) for10 min.After removing the solution,the substrate was then soaked with excess amount of ethanol for 5 min to remove the unreacted $\\mathsf { C u } ( \\mathsf { C H } _ { 3 } \\mathsf { C O O } ) _ { 2 } ,$ and blow-dried in the reactor with a nitrogen stream.Subsequently, the substrate was immerged in a $2 0 \\times 1 0 ^ { - 3 } \\mathrm { ~ M ~ }$ ethanol solution of BTC (benzene-1,3,5-tricarboxylic acid) for $1 0 \\min$ Then,the substrate was washed again with ethanol for 5 min,and blowdried with the nitrogen stream.The same procedure has been repeated for 100 times to grow 100 layers of $\\mathsf { C u } _ { 3 } ( \\mathsf { B T C } ) _ { 2 }$ on the substrates.The entire preparation process was performed automatically in the homedesigned apparatus as shown in the right panel of Figure 1,in order to avoid exposing the reaction environment to the ambient atmosphere, which may introduce contamination onto the samples.80-nm-thick top Au electrodes with a diameter of $1 0 0 ~ { \\mu \\mathrm { m } }$ were obtained by sputtering the Au target in pure argon atmosphere,using a magnetron sputter and a metal shadow mask.The total thickness of the sample can also be controlled by adjusting the total number of the assembly cycles. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Characterization: The crystalline structure of the as-grown HKUST-1 nanofilms was investigated by glazing-incidence X-ray diraction technique (GIXRD,Bruker AXS,D8 Discover) using $\\mathsf { C u \\mathrm { - } K } _ { \\alpha }$ radiation. The incidence angle of the X-ray beam was fixed at $1 ^ { \\circ }$ and the diffractive patterns were recorded with a step of $0 . 0 5 ^ { \\circ }$ in the range of $5 ^ { \\circ } - 2 0 ^ { \\circ }$ .The thickness of the films was determined using field-emission scanning electron microscopy (FESEM,Hitachi，S-4800) with $\\mathsf { 7 5 ~ k V }$ accelerating voltage.The current-voltage (l-V) characteristics of the $\\mathsf { A u / H K U S T - l } /$ Au structure were measured on a Lakeshore probe station equipped with a precision semiconductor parameter analyzer (Keithley 4200) in dc sweep or pulse mode.The temperature dependent $1 - V$ curves of the Au/HKUST-1/Au devices were investigated in vacuum.Scanning probe microscopy (Veeco，Dimension 31ooV) equipped with a conducting cantilever coated with $\\mathsf { P t / l r }$ was employed for C-AFM measurements of the HKUST-1/Pt structures.Depth-profiling analysis of the elemental distribution in the Au/HKUST-1/Au structure was performed using ion-etching treatment during X-ray photoelectron spectroscopic (XPS, SHIMADZU，AXIS ULTRA DLD) measurements.A monochromatic Al- $\\mathsf { K } \\alpha$ X-ray source (l486.6 eV photons) was used at a constant dwell time of $1 0 0 ~ \\mathsf { m s }$ .A pass energy of 80 or $4 0 \\ \\mathrm { e V }$ was employed for the wide and core-level spectra scans,respectively. The X-ray source was runat a reduced power of 150 W( $\\rceil 5 \\ \\mathsf { k V }$ and $1 0 \\mathsf { m A }$ ).The pressure in the analysis chamber was maintained at $1 0 ^ { - 8 }$ Torr or lower during each measurement.All binding energies (BEs) were referenced to the C1s hydrocarbon peak at $2 8 4 . 6 \\ \\mathrm { e V } .$ In curve fitting,the line width (full width at half-maximum,or FWHM) for the Gaussian peaks was maintained constant for all components in a particular spectrum.The elemental sensitivity factors were calibrated using stable binary compounds of well-established stoichiometries.Each ion-etching operation unveiled a brand-new surface and the $\\mathsf { X P S }$ spectra provided the means of analyzing the composition of these surfaces. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information is available from the Wiley Online Library or from the author. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the State Key Research Program of China (973 Program,Grant No．20l2CB933004)，National Natural Science Foundation of China (Grant Nos.51303194,11474295,61328402,and 61306l52),the Instrument Developing Project of the Chinese Academy of Sciences (Grant No.YZ20l32)，the Youth Innovation Promotion Association of the Chinese Academy of Sciences，Ningbo Natural ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Science Foundations (Grant No.20l3A6lo031),Ningbo International Cooperation Projects (Grant Nos.2012D10018 and 20l4D10005), and Ningbo Science and Technology Innovation Team (Grant No. 2011B82004). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Received:February 3,2015   \nRevised: February 23,2015   \nPublished online:March 18,2015 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Y. Meng,Y. Zhao,C. Hu, H. Cheng,Y. Hu, Z. Zhang, G. Shi,L. Qu, Adv.Mater.2013,25,2326.   \n[2] X. Wang,Y. Gu,Z. Xiong,Z. Cui,T. Zhang,Adv. Mater. 2014,26, 1336.   \n[3]R.C. Webb,A.P. Bonifas,A. Behnaz,Y. Zhang, K.J.Yu,H.Cheng, M.Shi,Z. Bian,Z. Liu,Y.-S. Kim,W.-H.Yeo,J. S.Park,J.Song,Y. Li, Y. Huang,A.M.Gorbach,J.A.Rogers,Nat.Mater.2013,12,938.   \n[4] D.-H.Kim，N.Lu,R.Ma,Y.-S.Kim，R.-H.Kim,S.Wang,J.Wu, S.M.Won,H.Tao,A.Islam,K.J.Yu,T.l.Kim,R.Chowdhury， M.Ying,L. Xu,M. Li,H.-J. Chung,H. Keum,M. McCormick,P. Liu, Y-W. Zhang,F.G.Omeneto,Y. Huang,T. Coleman,J. A. Rogers, Science 2011,333, 838.   \n[5] W.-H. Yeo, Y.-S. Kim,J. Lee,A.Ameen,L. Shi, M.Li,S.Wang,R. Ma, S.H.Jin,Z. Kang,Y. Huang,J. A. Rogers,Adv. Mater. 2013,25, 2773.   \n[6] M.Noda，N.Kobayashi，M.Katsuhara,A.Yumoto,S.Ushikura, R.Yasuda,N. Hirai, G. Yukawa,I. Yagi, K. Nomoto,T. Urabe,J.Soc. Inf. Display 2011,19,316.   \n[7] S.W.Willian,S.Alberto,Flexible Electronics:Materialsand Applications,Springer-Verlag,New York 2009.   \n[8] S.J. Kim,J. S.Lee,Nano Lett.2010,10,2884.   \n[9] S. K. Hwang,I.Bae,R. H. Kim,C.Park,Adv. Mater. 2012,24,5910.   \n[10] M.A. Khan,U.S.Bhansali,H.N. Alshareef, Adv. Mater. 2012,24, 2165.   \n[11] H.Y. Jeong,J.Y. Kim,J.W. Kim,J.O. Hwang,J.E. Kim,J.Y. Lee, T. H.Yoon,B.J.Cho,S.O.Kim,R.S.Ruoff, S.Y.Choi,Nano Lett. 2010, 10,4381.   \n[12] Y.Ji,D.F. Zeigler,D.S.Lee,H.Choi,A.K.Y. Jen，H.C.Ko, T.-W. Kim, Nat. Commun. 2013,4,2707.   \n[13] a)X.-Y.Xu,Z.-Y. Yin,C.-X.Xu,J.Dai,J.-G. Hu,Appl.Phy. Lett. 2014,104,033504; b) Y.Ji，B.Cho,S.Song,T.-W.Kim,M.Choe, Y.H.Kahng,T.Lee,Adv.Mater.2010,22,3071; c) S. K.Hwang, J. M. Lee,S. Kim,J.S.Park,H.I. Park, C.W.Ahn,K.J. Lee,T. Lee, S. O. Kim, Nano Lett.2012,12,2217.   \n[14] a)D.S. Jeong,R.Thomas,R.S. Katiyar,J.F.Scott,H. Kohlstedt, A.Petraru，C.S.Hwang，Rep.Prog.Phys.2012，75，076502; b) R.Waser, R.Dittmann,G. Staikov, K. Szot,Adv.Mater. 2009,21, 2632; c) R.Waser, M.Aono,Nat. Mater. 2007,6,833.   \n[15] A.-D.Yu,T. Kurosawa, Y-C. Lai, T. Higashihara,M. Ueda, C.-L.Liu, W.-C. Chen,J. Mater. Chem.2012,22,20754.   \n[16] H.C.Wu,A.D.Yu,W.Y. Lee,C.L. Liu,W.C.Chen,Chem. Commun. 2012, 48, 9135.   \n[17] S. Kim,H.Y. Jeong,S. K. Kim,S.-Y.Choi,K.J. Lee,Nano Lett. 2011, 11,5438.   \n[18] X.Lu,Y. Xia,Nat. Nanotechnol.2006,1,163.   \n[19] B.Hu,X. Zhu,X. Chen,L. Pan,S. Peng,Y.Wu,J. Shang,G. Liu, Q.Yan,R.-W. Li,J.Am.Chem. Soc.2012,134,17408.   \n[20] S.H. Chang,S.C. Chae, S.B. Lee,C. Liu,T.W. Noh,J.S. Lee, B. Kahng,J.H.Jang,M.Y. Kim,D.W. Kim, C.U. Jung,Appl. Phy. Lett. 2008,92,183507.   \n[21] O.M.Yaghi,M.O'Keefe,N.W.Ockwig,H. K.Chae,M.Eddaoudi, J.Kim,Nature 2003,423,705.   \n[22] S.T. Meek,J.A.Greathouse,M. D.Allendorf, Adv. Mater. 2011,23, 249.   \n[23] H.-C. Zhou,J. R.Long,O. M.Yaghi, Chem. Rev.2012,112, 673.   \n[24] S.M.Yoon,S.C.Warren, B.A.Grzybowski,Angew.Chem.Int. Ed. 2014,53,4437.   \n[25] L.Pan，G. Liu，H.Li，S.Meng,L.Han，B.Chen,J.Shang, A.E.Platero-Prats,W.Lu,X.D. Zou,R.-W.Li,J.Am. Chem. Soc. 2014,136,17477.   \n[26] S.S.Y.Chui,S.M.F.Lo,J.P.H.Charmant, A.G.Orpen, I. D.Williams,Science 1999,283,1148.   \n[27] J.Moellmer，A.Moeller，F.Dreisbach，R.Glaeser，R.Staudt, Microporous Mesoporous Mater.20ll,138,140.   \n[28] G.Majano,J. Perez-Ramirez,Adv. Mater. 20l3,25,1052.   \n[29] O.Shekhah，H.Wang，S.Kowarik，F.Schreiber，M.Paulus, M.Tolan,C.Sternemann,F.Evers,D.Zacher,R.A.Fischer,C.Woll, J.Am.Chem.Soc.2007,129,15118.   \n[30] H. Guo,G. Zhu,I.J. Hewitt S. Qiu,J. Am.Chem. Soc. 2009,131, 1646.   \n[31] A.A.Talin,A.Centrone,A.C.Ford,M.E.Foster,V.Stavila,P.Haney, R.A.Kinney，V.Szalai，F.E.Gabaly，H.P. Yoon，F.Léonard, M.D.Allendorf, Science 2014,343,66.   \n[32] O.Shekhah，H.Wang，S.Kowarik，F.Schreiber，M.Paulus, M.Tolan,C.Sternemann,F.Evers,D.Zacher,R.A.Fischer, C.Woll, J.Am. Chem.Soc.2007,129,15118.   \n[33] O.Shekhah，H. Wang，M. Paradinas,C.Ocal,B. Schupbach, A.Terfort, D.Zacher, R.A.Fischer, C.Woll,Nature Mater 2009,8,481.   \n[34] C.Munuera,O.Shekhah,H.Wang,C.Woll,C.Ocal,Phys.Chem. Chem.Phys.2008,10,7257.   \n[35] E.Biemmi, C.Scherb,T. Bein,J.Am. Chem. Soc.2007,129,8054.   \n[36] S.-T. Han,Y. Zhou,V.A.L.Roy,Adv. Mater.2013,25,5425.   \n[37] Y.C.Yang, P.Gao,S. Gaba,T. Chang, X. Q. Pan,W. Lu, Nature Commun. 2012,3,732.   \n[38] Q.Liu,J.Sun,H.B.Lv,S.B.Long，K.B.Yin,N.Wan,Y.T.Li, L.T.Sun,M.Liu,Adv.Mater 2012,241844.   \n[39] X.J. Zhu, W.J.Su,Y. W. Liu,B.L.Hu,L.Pan, W. Lu,J. D. Zhang, R.W.Li,Adv.Mater. 2012,24,3941.   \n[40] J.Shang,G. Liu,H.L.Yang,X.J.Zhu,X.X.Chen,H.W. Tan, B.L.Hu,L.Pan,W.H.Xue,R.-W. Li,Adv. Funct. Mater. 2014,24, 2171.   \n[41] M. D.Allendorf,A.Schwartzberg,V. Stavila,A.A.Talin,Chem.Eur. J. 2011, 17,11372.   \n[42] C.H. Hendon,D.Tiana,A.Walsh,Phys. Chem. Chem.Phys.2012, 14,13120.   \n[43] Y. H.Fu,D. R. Sun,Y.J. Chen,R. K. Huang,Z.X. Ding,X. Z. Fu, Z.H.Li,Angew. Chem.Int. Ed.2012,51,3364.   \n[44] H.J.Son,S.Y.Jin,S.Patwardhan,S.J.Wezenberg，N.C.Jeong M.So，C. E. Wilmer, A. A. Sarjeant, G. C. Schatz, R.Q. Snurr, O.K.Farha,G.P.Wiederecht,J.T. Hupp,J.Am.Chem.Soc.2013, 135,862.   \n[45] M.Alvaro,E.Carbonell,B.Ferrer,F.Xamena,H. Garcia,Chem. Eur. J. 2007,13,5106.   \n[46] P.St PetkovG.N.VaysilovJ.X.LiuO.Shekhah，Y..Wang C.Woll,T. Heine, Chem PhysChem 2012,13,2025.   \n[47] O.M. Yaghi,M.O'Keeffe,N.W. Ockwig,H.K. Chae,M.Eddaoudi, J.Kim,Nature 2003,423,705.   \n[48] L.R.Watson,T.L. Thiem,R.A.Dressler,R.H.Salter, E.Murad, J.Phys.Chem.1993,97,5577.   \n[49] M.Jin,H. K. Jeong,W.J. Yu,D.J. Bae,B.R. Kang,Y. H. Lee,J. Phys. D Appl.Phys.2009,42,135109.   \n[50] C.L.He,F.Zhuge,X.F.Zhou,M.Li,G.C. Zhou,Y.W. Liu, J. Z. Wang,B. Chen,W.J.Su,Z. P. Liu,Y. H. Wu,P.Cui, Run-Wei Li, Appl.Phys.Lett.2009,95,232101.   \n[51] a)P.O.Sliva,G. Dir,C.Griffths,J. Non-Cryst.Solids 1970,2,316; b)L.F.Pender,R.J.Fleming,J.Appl.Phys.1975，46,3426; c) Y. Segui, B.Ai, H. Carchano,J. Appl. Phys.1976,22, 315.   \n[52] a)T.Graves-Abe,J.C. Sturm,Proc.Dev. Res. Conf. (DRC)，2005, 49；b)T.Kaplan，D.Adler,J.Non-Cryst.Solids 1972，8，538; c) F.H.Winslow, W. Matreyek,J. Polym.Sci.1956,22,315.   \n[53]a)H．Sirringhaus，P.J.Brown，R.H．Friend，M．M．Nielsen, K.Bechgaard，B.M．W.Langeveld-Voss，A.J.H．Spiering, R.A.J. Janssen,E.W.Meijer,P.Herwig,D.M.de Leeuw,Nature 1999,401,685；b)V.Coropceanu,J.Cornil，D.A.da Silva Filho, Y.Olivier，R．Silbey，J.-L．Brédas，Chem．Rev.2007，107，926; c)E.A.Weiss,J.K.Kriebel,M.-A.Rampi,G.M.Whitesides,Phil. Trans.R.Soc.A2007,365,1509.   \n[54]a)K.Sasdi,D.M.de Leeuw,V.de Boer,P.W.M.Blom,Nature Mater.2008,7,547;b)K.Sasdi,T.D.de Boer，P.W.M.Blom, D.M.de Leeuw, Adv. Funct.Mater.2009,19,3173.   \n[55]a)P.Heremans,G.H.Gelinck,R.Muller，K.-J.Baeg，D.-Y.Kim, Y.-Y.Noh,Chem.Mater.2011,23,34l;b)P.P.Pillai,K.Pactawski, J.Kin,B.A.Grzybowski,Adv.Mater. 2013,25,1623.   \n[56] a) D.-W.Fu,H-L. Cai,Y. Liu,Q.Ye,W. Zhang, Y. Zhang,X.-Y.Chen, G.Giovanetti,M. Capone,J.Li,R.-G.Xiong,Science 20l3,339,425; b)Y. Zhang,Y. Liu,H.-Y.Ye,D.W.Fu,W.Gao,H.Ma,Z. Liu,Y. Liu, W.Zhang，J.Li,G.-L.Yuan，R.-G.Xiong,Angew. Chem. Int.Ed. 2014,53,5064;c) Y. Zhang,H.-L.Cai,D.-W.Fu,Q.Ye,W.Zhang, Q.Zhou,J.Wang,G.L.Yuan,R.-G.Xiong,Adv. Mater.2014,26, 4515. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,127 @@
+# 影响推拿手法治疗骨骼肌肉疼痛疗效因素的扎根理论研究
+
+范希然」李多多’王双双’郭烨'于长禾l\*
+
+10.12114/j. issn. 1007-9572.2022.0533[基金项目]2020年首都卫生发展科研专项(2020-4-4195)；国家自然基金青年项目(81803956）；北京市高等学校“双一流”学科共建项目(2020年)
+
+[单位]1.100700北京市，北京中医药大学第一临床医学院[摘要]目的：探究影响推拿手法治疗骨骼肌肉疼痛疗效的影响因素。方法：采用半结构化访谈的方法，根据采用目的抽样法，使用滚雪球抽样策略，以北京市推拿学系的16名医师作为研究对象。以扎根理论为指导并借助质性分析软件NVivc进行三级编码，建立理论模型。结果：开放式编码得到20个初始范畴；主轴式编码将20个初始范畴归纳为“医生方面”、“患者方面”、“就诊环境”、“地域差距”和“优势病种”5个主范畴；选择式编码将其归纳为“人”的内在因素，“环境”的外在因素，“疾病”的致病因素，进一步抽象为推拿手法治疗骨骼肌肉疼痛影响因素树状模型。结论：影响推拿手法治疗骨骼肌肉疼痛的因素是由“人”的内在因素、“环境”的外在因素和“疾病”的致病因素3方面组成，其中人为因素中的“医生方面”作为最重要的影响因素又从诊断、治疗方案和技术水平等方面来影响最终疗效。
+
+[关键词]质性研究；骨骼肌肉疼痛；扎根理论；疗效因素[作者简介]范希然，女，1998 年1月，推拿骨伤方向，北京中医药大学第一临床医学院 2020 级针灸推拿专业在读硕士研究生，邮箱：605431064@qq.com[通讯作者简介」于长禾，男，主治医师，医学博士，北京中医药大学东直门医院。研究方向：中医疗效评价方法学。邮寄地址：北京市海运仓5号，100700。邮箱：yakno2@163.com，电话：010-84013296
+
+Explore the factors affecting the efficacy of massage in the treatment of Musculoskeletal System Pain based on grounded theory
+
+FAN X1-ran' LI Duo-duo'WANG Shuang-shuang'GUO $\mathrm { Y e ^ { 1 } }$ YU Chang-he^ (The first clinical medical college, Beijing University of Chinese Medicine, Beijing 100700) [Abstract] Objective: To explore the influencing factors of massage in the treatment of musculoskeletal system pain.Methods: Using the method of semi-structured interview, according to the snowball principle and the method of objective sampling, 16 doctors from the Department of massage in Beijing were selected as the research objects. Under the guidance of grounded theory and with the help of qualitative analysis software NVivo, three-level coding is carried out to establish the theoretical model.Results: 2O initial categories were obtained by open coding; The spindle code classifies the 2O initial categories into five main categories: "doctors"，"patients", "treatment environment"， "regional gap" and "dominant diseases"; The selective coding summarizes it into the internal factors of "human", the external factors of "environment" and the pathogenic factors of "disease",which is further abstracted into the tree model of influencing factors of massage in the treatment of skeletal muscle pain. Conclusion: the factors affecting the treatment of skeletal muscle pain by massage manipulation are composed of three aspects: the internal factors of "human", the external factors of "environment" and the pathogenic factors of "disease", among which the "doctor" among the human factors is the main factor affecting the curative effect of massage in the treatment of skeletal muscle pain.
+
+[Key words]Qualitative research;Musculoskeletal System Pain; Descriptive analysis; Grounded theory; Therapeutic factors
+
+骨骼肌肉疾病（musculoskeletal disorders）是世界上最常见的慢性病之一，其种类繁多涵盖百余种之多，主要病因与炎症、自身免疫反应、感染、代谢紊乱、创伤、退行性病变等因素有关，临床症状表现为关节，骨骼，肌肉，软骨和其他结缔组织疼痛不适，甚至出现身体运动受限[1］。
+
+骨骼肌肉疾病及其相关疼痛是世界上疾病负担的主要原因之一。《疾病负担研究》估计指出，2017年，骨骼肌肉疾病占全球残疾调整生命年的1.39亿，其中腰痛占6490万，骨关节炎占960万[2]。中国进入老龄化社会，骨骼肌肉疾病通过限制身心健康和活动能力对健康老龄化构成重大威胁，给个人、家庭和政府带来了巨大的经济和医疗负担[3-6]。
+
+推拿缓解骨骼肌肉疼痛具有显著效果。《医宗金鉴·正骨心法要旨》：“按其经络，以通郁闭之气，摩其壅聚，以散痰结之肿，其患可愈”，说明推拿具有活血化瘀、疏经通络、消肿止痛的功效。目前影响推拿手法治疗骨骼肌肉疼痛的疗效因素尚未开展系统研究，为进一步探究影响推拿手法治疗骨骼肌肉疼痛疗效的影响因素，从经验丰富的推拿医师的角度提供可能的影响因素，可为进一步研究及其阐释提供一个不一样的视角。
+
+1对象和方法
+
+# 1.1研究对象
+
+根据采用目的抽样法，使用滚雪球抽样策略，以北京市推拿学系的医师作为研究对象。纳入取得执业医师资格证，且从事推拿临床工作5年及以上者，排除近2年未从事推拿相关临床工作者。访谈人数按照资料“饱和”的原则确定，即当访谈无法得出新的内容，则认为样本饱和[7]。最终共访谈医师16人。本研究获得北京中医药大学东直门医院医学研究伦理委员会审批（伦理审批编号：DZMYY-KY-2020-60）。
+
+1.2方法
+
+# 1.2.1访谈方法与数据收集
+
+本研究采用半结构化访谈的方法，首先根据研究目的与课题组讨论后拟定访谈提纲：（1)单纯推拿手法干预骨骼肌肉疼痛效果如何？优势病种有哪些？（2)单纯推拿手法治疗疾病的影响因素有哪些？如何评判手法的优劣？（3）除外诊疗方案外，还有哪些其他的因素可以影响到本类疾病的疗效？
+
+访谈时间根据医师门诊时间调整，访谈地点为每位医师所在医院的门诊休息室。访谈过程应该仔细聆听，同时还应当确保环境的安全性，受访者应当处于轻松状态。访谈者根据之前制定的访谈提纲对16位医师进行深度访谈。访谈前应先进行自我介绍，并阐明本次研究目的，当受访者同意并签署知情同意书后开始。访谈过程全程录音并记录，访谈时间约在20-30min。
+
+访谈中应当结合语境进一步询问，当医师对同一问题提出不同观念时应当深入询问，了解其缘由。访谈过程中还需仔细观察受访者肢体语言等非语言性资料。访谈录音转录为文字稿后需与受访者确认，以保证内容真实性。当访谈资料达到饱和时访谈结束。
+
+# 1.2.2分析方法和软件
+
+完成访谈后及时将录音转为文字稿，将整理的初始文字稿导入质性分析软件NVivo11进行程序化的三级编码[7]：（1）开放编码，是编码体系中抽象层级最低的编码，研究者应该以一种“局外人”的心态将得到的文本资料按其原本样貌进行编码，不能加以过多的抽象概括；（2）主轴编码，将开放编码得到的范畴间存在的相互关系和逻辑顺序归类并提炼，得到主范畴；（3）选择编码，通过范畴系统的分析后选择一个能起到统领作用的“核心类属”。
+
+2结果
+
+有效访谈共16例，三级编码结果如下。
+
+# 2.1开放式编码
+
+将转录成文字的原始资料进行拆解、重新组合、赋予概念，再经反复分析对比，形成21个范畴（表1），得到影响单纯手法治疗中影响疗效的直接因素。
+
+表1开放编码形成的类属  
+
+<html><body><table><tr><td>范畴</td><td>初始概念</td><td>原始语句（代表）</td></tr><tr><td>技术层面</td><td>技术评估，优劣评判</td><td>“技术层面，推拿手法，同样一个技术，我们可以 操作出不同的技术，对吧，不同的感觉。我们都知 道，如果我们大家学过推拿，都知道推拿手法，我 们叫持久、有力、均匀、柔和，对吧”</td></tr><tr><td>推拿流派</td><td>流派分支</td><td>“各个流派的是不一样的。有的流派是注重小关节， 有的流派是这种软组织筋肉骨正。有的注重小环节， 有的注重软组织。”</td></tr><tr><td>明确诊断</td><td>诊断明确，无误诊、漏诊</td><td>“一个是诊断不准确”</td></tr><tr><td>施治方案</td><td>诊疗明确，施治恰当</td><td>“二个就是说手法操作......不合理”</td></tr><tr><td>依从性</td><td>遵照医嘱，配合治疗</td><td>“患者的依从性，配合性”</td></tr><tr><td>个体差异</td><td>身体素质，基础体征</td><td>“个体有差异” “年龄因素”</td></tr><tr><td>生活环境</td><td>活动范围，居住环境</td><td>“对，生活环境也有，你比如说受凉啊，一般的疼 痛的疾病，你像咱们的肌肉骨骼肌的疼痛的疾病，</td></tr><tr><td>气候变化</td><td>四季更替，晴雨变化</td><td>都是喜热而畏寒的是吧？” “气候的变化”</td></tr><tr><td>医患沟通</td><td>医患交流，沟通顺畅</td><td>“医患沟通，诊疗对患者心理上的影响”</td></tr><tr><td>功能锻炼</td><td>功能训练，日常锻炼</td><td>“病人主动的功能锻炼”</td></tr><tr><td>生活习惯</td><td>生活方式，日常习惯</td><td>“一个是病人的生活方式”</td></tr><tr><td>期望情绪</td><td>期望值，情绪高低</td><td>“解除他的心理的恐惧......病人的期望值”</td></tr><tr><td>治疗环境</td><td>诊室环境，舒适程度</td><td>“他对疾病的态度” “越舒适越好，像这种环境”</td></tr><tr><td>疾病差异</td><td>疾病不同，病因不同</td><td>“椎间盘突出、扭伤、急性腰扭伤，推拿手法就弱 一些；但是对于慢性的、劳损性的，效果是最明显”</td></tr></table></body></html>
+
+<html><body><table><tr><td>心理干预 脊柱疼痛</td><td>心理干预，疏解情志 脊柱病变引起疼痛</td><td>“心理暗示排第四” “比如颈椎病啊，腰椎间盘突出啊”</td></tr><tr><td>软组织疼痛</td><td>软组织损伤引起疼痛</td><td>“普通的肌肉劳损或者肌肉痉挛”</td></tr><tr><td>功能性疼痛</td><td>非器质性病变引起疼痛</td><td>“功能性的一些比方说偏头痛”</td></tr><tr><td>解剖结构位</td><td></td><td>“关节位置不正确引起的骨骼肌的痉挛，这一类的</td></tr><tr><td>置异常性疼 痛</td><td>筋出槽，骨错缝</td><td>疼痛，这是咱们手法的，就是说优势，对这一类的 疾病能够立竿见影”</td></tr><tr><td>非炎症性的 疼痛</td><td>非感染性引起疼痛</td><td>“骨骼肌肉类推拿手法的治疗，它对于非炎症性的</td></tr><tr><td>慢性继发性 内脏疼痛</td><td>内源性疼痛</td><td>关节炎的效果比较好” “再就是我觉得还有一些内脏的功能障碍”</td></tr></table></body></html>
+
+# 2.2主轴式编码
+
+对开放编码得到的20个范畴之间按照互相关系和逻辑顺序进行归类，最终得到5个主范畴见表2。
+
+表2主轴编码形成的主范畴  
+2.3选择式编码  
+
+<html><body><table><tr><td>维度</td><td>主范畴</td><td>范畴</td><td>释义</td></tr><tr><td rowspan="8">人</td><td rowspan="8">医生方面</td><td>技术层面</td><td>是否能达到均匀、柔和、持久、有力、深透、渗透</td></tr><tr><td>推拿流派</td><td>推拿的不同流派，如宫廷理筋派等</td></tr><tr><td>明确诊断</td><td>是否能正确诊断疾病</td></tr><tr><td>施治方案</td><td>能否选择正确的手法作用在正确的部位</td></tr><tr><td>心理干预</td><td>从心理层面上给予帮助，缓解患者情绪</td></tr><tr><td></td><td>包括是否有其他基础疾病，性别、胖瘦、年龄等，以及</td></tr><tr><td>个体差异</td><td>患者的耐受程度等差异</td></tr><tr><td>功能锻炼 依从性</td><td>患者居家时能否坚持功能锻炼，主动运动 患者对于医嘱的执行力度，是否能按时、按量接受治疗，</td></tr><tr><td rowspan="8">环境</td><td></td><td></td><td></td></tr><tr><td></td><td>期望情绪 生活习惯</td><td>患者对待疾病的态度、期望以及情绪状态等 能否减少诱发疾病的动作，如长期久坐导致的颈腰椎病</td></tr><tr><td>就诊环境</td><td>医患沟通</td><td>医患之间的沟通，包括医生的诊疗态度等</td></tr><tr><td></td><td>治疗环境</td><td>诊疗的环境以及医生的穿着是否整洁等</td></tr><tr><td>地域差距</td><td>生活环境</td><td>例如是否居住在寒冷潮湿等加重疾病的环境中</td></tr><tr><td></td><td>气候变化</td><td>四季的更替以及晴雨的变化等</td></tr><tr><td></td><td>脊柱疼痛</td><td>因颈椎、胸椎、腰椎等病变引起的疼痛</td></tr><tr><td rowspan="6">疾病</td><td></td><td>软组织疼痛</td><td>因软组织挫伤或长期姿势不当引起的肌肉劳损等并发的</td></tr><tr><td></td><td>功能性疼痛</td><td>疼痛 未发生器质性病变或具体机理尚不明确的疼痛</td></tr><tr><td></td><td>解剖结构位置异</td><td></td></tr><tr><td>优势病种</td><td>常性疼痛</td><td>因解剖结构位置异常而引起的疼痛</td></tr><tr><td></td><td>非炎症性的疼痛</td><td>血项检查无明显异常，多因退行性疾病引起的炎症，易 发生在关节处</td></tr><tr><td>慢性继发性内脏 疼痛</td><td></td><td>继发于头颈部、胸部、腹部、盆腔等内脏器官的疾病或 潜在疾病所产生的慢性疼痛</td></tr></table></body></html>
+
+通过整合与凝练基于现有命名的范畴中提炼一个“核心范畴”（corecategory）。将推拿手法治疗骨骼肌肉疼痛影响因素用“医生方面”、“患者方面”、“就诊环境”、“地域差距”和“优势病种”5个主范畴概括，分析核心范畴和主范畴之间的相互关系，构建推拿手法治疗骨骼肌肉疼痛影响因素模型，见图1。其中既有“人”的内在因素，也有“环境”的外在因素，同时也存在“疾病”的致病因素。人的因素是主观能动因素，环境因素和疾病因素是重要基础因素。进一步抽象为推拿手法治疗骨骼肌肉疼痛影响因素树状模型，见图2。
+
+![](images/dccdc56750b940e3b64e849c34cdfc912f233efd6986f88ba28fe29fc4de61e7.jpg)  
+图1推拿手法治疗骨骼肌肉疼痛影响因素模型  
+图2推拿手法治疗骨骼肌肉疼痛影响因素树状模型
+
+![](images/aec041faa146375c8d3c7a11a6ca58be07d462e13d7e40009bbc0d3c8b5cc246.jpg)
+
+3讨论
+
+基于树状模型可以看出疾病因素是患者就医的先天条件，可视作“土壤”，而环境因素可作为“树干"决定了疾病的发展趋势，而患方与医方可喻为“树枝”，根据不同的环境与土壤养分成长出不同的“树叶”，相互交叉缠绕的“树枝”之间则代表了影响疗效的因素为多重因素共同作用，“树叶”的营养状态类似于最终疗效成果。
+
+# 3.1医务人员在影响疗效相关环节发挥主导作用
+
+医学的专业性决定了医务人员在疾病治疗中处于主导地位，医务人员能否提供准确的诊断，在准确的诊断之后能否制定恰当的诊疗方案，能否掌握推拿技术，在进行手法治疗时能否进行心理干预等皆是影响最终疗效的关键因素。此外，并非所有受访者都认为“推拿流派”是一个影响疗效的因素，例如有受访者指出“从招式上来讲，我们一定要搞明白，这是最不重要的”，认为不同的流派只是对于疾病的操作的顺序和理解存在差异，但只要手法对症，对于疗效没有什么太大的影响[9]。
+
+3.2 患方群体需要积极配合治疗，纠正不良习惯
+
+患方群体由于有着不同的生活习惯，有着不同的性格特点，对待疾病有着不同看法，患者自身的受教育程度、患病的病程长短等又影响着患者对于疗效的期待和自身的情绪[9-10]。而患者本身的身体素质又是影响疗效的重要影响因素，老年人比年轻人恢复更慢，有基础疾病如糖尿病的患者恢复程度比既往健康的人更慢，疗效也更差[]。此外患者的依从性是影响疗效的最关键的因素之一[12]，患者能否遵照医嘱接受足疗程的治疗，避免加重疾病的行为，以及能否坚持后期锻炼等均是重要因素。
+
+3.3环境因素在影响疗效中具有一定的作用
+
+环境因素体现在两个方面，一个是患者生活的地域差距，另一个是诊疗环境。患者所处地域的气候以及日常天气变化均可以通过影响疾病的发病程度来影响最终疗效[9-10]。而诊疗环境由医患沟通和诊室环境组成，当诊疗环境让患者处于一个更为放松的情绪时,疗效更好，如更高效的医患沟通、更舒适的诊室环境[13]。
+
+3.4推拿手法治疗特定骨骼肌肉疼痛时具有更好的疗效
+
+疾病自身的特性也能影响到最终的疗效。推拿手法在治疗脊柱疼痛，如腰椎间盘突出、非神经根型颈椎病等非椎管内的脊柱时具有极佳的疗效。此外在软组织疼痛、功能性疼痛、解剖结构位置异常性疼痛、非炎症性的疼痛、慢性继发性内脏疼痛等都具有不错的效果[14]。
+
+# 3.5优势与不足
+
+本研究以扎根理论对影响推拿手法治疗骨骼肌肉疼痛疗效因素进行分析，编码及理论模型构建存在主观性和片面性，且尚未通过德尔菲法完成意见反馈和收集进行理论性饱和检测，理论模型能否解释所有现象待进一步探究，后续可通过进一步实证检验则来证明这个假设。
+
+4结果
+
+本研究基于扎根理论阐明了推拿治疗骨骼肌肉疼痛的影响因素及其关系。本研究建立并阐释了影响因素的树状模型，可以看出影响推拿手法治疗骨骼肌肉疼痛的因素是由“人”的内在因素、“环境”的外在因素和“疾病”的致病因素3方面组成，人为因素中的“医生方面”是影响推拿治疗骨骼肌肉疼痛疗效的主要因素。
+
+基于研究可以发现“医生方面”中医师的诊断水平是影响最终疗效的主要因素，其次是诊疗方案的选择和手法技术的熟练度。提示准确的诊断和恰当的治疗方案以及具备治疗的技术是治疗中最为关键的一环。
+
+此外，患者是否具有一定的依从性也是影响最终疗效的重要因素，因此良好的医患交流是良性诊疗的基础。“环境”的外在因素提示医生进行诊疗时同时也要提高对患者身心的治疗，注意和患者沟通的方式以及诊疗的环境，不仅可以提高患者整体的满意度也可以从一定层面提升临床疗效。
+
+从“疾病”致病因素可以看出推拿手法在治疗“脊柱疼痛”、“软组织疼痛”、“功能性疼痛”、“解剖结构位置异常性疼痛”、“非炎症性的疼痛”、“慢性继发性内脏疼痛”等有确切的疗效，也是推拿手法治疗的优势病种。
+
+综上可以归纳出医务人员在影响疗效相关环节发挥主导作用，患方群体需要积极配合治疗，纠正不良习惯，而环境因素可从一定程度上影响疗效，此外推拿手法治疗特定骨骼肌肉疼痛时具有更好的疗效。
+
+# 【人员贡献】
+
+范希然：负责前期文献检索，基于数据对结果进行分析与解释，及论文起草和最终版本修订。  
+李多多：提出研究思路，设计方案，提供方法学等技术支持。  
+王双双、郭烨：负责访谈大纲的制定，对患者进行访谈，并将语音资料转为文字资料，以及校对文字资料。  
+于长禾：研究命题的主要提出设计者，负责把控研究进程、研究对象的选取、纳排标准的制定。
+
+【参考文献】
+
+[1]吴冬梅，周维军.骨骼肌肉疾病及国外新药研发概况［J].中国实用医 药,2013,8(14) :237-238.D0I:10.14163/j. cnki.11-5547/r. 2013.14.140. [2] Cooper C， Campbell L，Byng P，et al. Occupational activity and the risk of hiposteoarthritis Ann Rheum Dis，1996，55: 680-682. [3]2011 R eport: Medicines in Development for Arthritis.http: //www.phrma.org/sites/default/files/1641/arthritis_2011. [4]The Heavy Burden of Arthritis in the U. S.http:// www.arthritis.org/media/newsroom/Arthritis_Prevalence_Fact_Sheet_5-31 -11. pdf.
+
+[5] Arthritis Burden Greater for Women. http: //www. arthritis.org /arthritis-women-burden. php.   
+[6] Tang Xu et al. The Prevalence of Symptomatic Knee Osteoarthritis in China: Results From the China Health and Retirement Longitudinal Study.[J]. Arthritis & rheumatology (Hoboken，N.J.），2016,68(3): 648-53. [7］陈向明．质的研究方法与社会科学研究［M]．北京：教育科学出版社，2000. [8]李思娜,王锡友,唐镜全,李多多,刘长信,于长禾.推拿治疗膝骨关节炎临床 试验中不同手法干预方案的标准化研究［J].中华中医药杂 志,2020,35(03) :1422-1427.   
+[9] McBeth J,Jones K.Epidemiology of chronic musculoskeletal pain.Best Pract Res Clin Rheumatol,2007,21(3) :403-425.   
+[10]Pamuk ON,Donmez S,Cakir N. The frequency of smoking in fibromyalgia patients and its association with symptoms.Rheumatol Int,2009,29(11) :1311-1314.   
+[11] Ohayon MM, Stingl Jc.Prevalence and comorbidity of chronic pain in the German general population.J Psychiatr Res,2012,46(4) :444-4. [12] 冯于洛,王雅葳,褚燕琦,闫素英.临床药师床旁教育实践及患者依从性评 价［J].药学实践杂志,2018,36(06):554-556+560.   
+[13] Testa， Marco， and Giacomo Rossettini. Enhance placebo， avoid nocebo: How contextual factors affect physiotherapy outcomes. Manual therapy vol. 24 (2016): 65-74.   
+[14] 刘志凤,焦谊,于天源,张英琦,刘迪,官乾,徐亚静,王厚融．中医推拿的 镇痛机制近十年研究进展［J]．环球中医药,2022,15(03):526-530.

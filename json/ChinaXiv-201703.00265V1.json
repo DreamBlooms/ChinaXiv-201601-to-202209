@@ -1,0 +1,478 @@
+[
+    {
+        "type": "text",
+        "text": "基于FPGA的 AgileDARN 雷达数字系统的信号处理实现分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒋 松1,²，蓝爱兰¹，阎敬业¹，孙林³，吴 季11（中国科学院国家空间科学中心，中国科学院微波遥感技术重点实验室，北京，100190）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2（中国科学院大学，北京，100049）3（北京理工大学信息与电子学院，北京，100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文基于灵敏型地基相干高频雷达（AgileDARN）系统，回顾了空间电离层探测的研究背景，简要介绍了AgileDARN雷达系统。对其数字信号处理系统进行了分析，阐述了系统发射信号产生模块、回波信号处理模块的工作流程，设计数字系统的硬件结构，详细分析了系统发射信号多脉冲序列产生的机制，回波信号处理的详细步骤，利用FPGA实现原始信号的产生，阵列天线信号波束合成处理，以及系统中数字滤波器的设计，并通过仿真实验验证了FPGA设计的可行性和有效性，满足了AgileDARN雷达数字系统的设计要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键字：FPGA，AgileDARN，阵列天线，波束合成，数字滤波",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of DSP for AgileDARN radar digital system based on FPGA ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIANG Song1,²，Lan Ailan1，YAN Jing-ye1， Sun lin³，Wu Ji1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(CAS Key Laboratory of Microwave Remote Sensing， National Space Science Center; Chinese Academy of Sciences, Beijing, 100190, China) 2 （University of Chinese Academy of Sciences， Beijing， 1O0049，China) 3 （School of Information and Electronics， Beijing Institute of Technology，Beijing，100081，China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The background of space ionosphere detection is reviewed.This paper makes a brief introduction about the main components and functions of the digital signal processing system based on the AgileDARN radar system. The paper mainly analysis of the signal processing of the whole system, designs the hardware structure,and makes a detailed analysis of the mechanism that transmits signals generated and detailed steps of the echo signal processing,detailed studies the generation of the original orthogonal signal, the DBF of the array antenna signal,and the design of the digital filter in the system.The feasibility and effectiveness of the FPGA design are verified through simulation experiment，and meets the design requirements of AgileDARN radar digital system. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: FPGA, AgileDARN, Array antenna, Digital beam forming(DBF), Digital filter ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电离层是地球空间60公里以上的部分电离的高层大气圈，是航天器运行的最主要区域，也是无线电波传播的主要媒介。电离层环境中的扰动会对以空间技术为基础的各种空间平台产生重大影响。我国广大的中、低纬地区处于全球电离层闪烁高发区，电离层扰动幅度可达15db以上，经常会引起通信中断、误码率增大现象；对于卫星导航的定位误差影响高达百米量级，广大低纬地区GNSS卫星因电离层扰动也会产生短时失效，甚至连续几小时中断；地基雷达的目标探测、战略预警等亦将遭受严重影响。对电离层特性的认知和人工改变电离层是空间信息对抗的重要基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国际超级双极光雷达网（SuperDARN)正是为了研究中高纬度地区电离层异常而形成的雷达网络。过去的 30年中， SuperDARN由于其广泛的地域覆盖以及高精度的连续测量逐渐成为研究极区电离层活动最重要的观测工具。SuperDARN 是由三十几个发射频率在 8\\~20MHz 的地基高频雷达组成。这些雷达由英国、美国、澳大利亚、日本等10多个国家合作建成，我国也于2010年在南极中山站也建成了2部 SuperDARN 高频雷达。目前，SuperDARN 覆盖了极区电离层及部分中高纬度电离层[1]。中高纬度的高频雷达主要分布在西半球，东半球仅有日本布局一套，不能满足 SuperDARN 对全球电离层对流模式大尺度覆盖的要求[2。为了弥补东半球中高纬度探测数据的空白（主要位于中国上空)，在十二五 863 计划的支持下，中科院空间中心正在研制一种具有高灵活性的高频雷达（称为 AgileDARN)，基于全数字化相控阵雷达技术，使得该雷达能够更灵活地依据具体科学研究的要求，调整其大部分探测参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为SuperDARN雷达网络的成员之一，AgileDARN雷达与其他高频雷达相同，也采用双天线阵列—16单元主阵和4单元干涉子阵。其中，主阵用于发射信号和接收回波，而子阵则只进行回波的接收。在借鉴传统SuperDARN的设计理念的同时，开展自主创新，设计研制基于全数字相控阵技术的高性能雷达系统，可实现雷达波束的任意扫描，突破了传统SuperDARN雷达固定波束、以及固定波束间隔的限制。AgileDARN雷达主要由天线阵列、收发组件和数字单元三个部分组成。其中，数字单元是雷达系统的心脏，用于雷达的工作状态进行控制、根据需求生成各种信号、对回波信号进行实时处理等功能。另外，数字单元还实现对通道间的发射机和接收机幅相误差进行实时定标。本文主要围绕数字单元的信号生成及回波信号处理方法的FPGA实现展开研究[3.5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数字信号处理设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AgileDARN系统的数字信号处理部分主要包括发射信号产生模块和回波采集处理模块。其中，发射信号产生模块用于生成各通道所需的发射信号，经发射机滤波放大，再由天线阵列发出进行目标探测；回波采集处理模块则对AD采样后的回波信号进行一系列处理，以获得所需要的数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1发射信号产生模块 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "发射信号产生模块需要产生16路发射信号，模块主要包括DA处理板和DA回放板，处理板负责接收上位机配置的工作参数进行脉冲调制和发射支路的主波位DBF处理，然后将DBF处理后的数据传输给DA回放板，由DA回放板将数据转换为模拟信号。发射信号产生模块的核心是DA处理板。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DA处理板的FPGA需要完成的功能有：DAC芯片的配置：配置DA芯片的工作模式和工作需求，使其处于正常工作状态；原始信号的产生：利用FPGA内部IP核产生原始信号；复制成16通道信号，经过发射通道的幅相一致性误差校正；完成波束合成和波位的切换，实现时钟分发和主机板的通信等功能。其信号的处理流程如图所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8479d1f7c18b386852634f00ad8d7aacf923d90b6c4b293330f6ce6358c37b44.jpg",
+        "img_caption": [
+            "图1发射信号产生流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FPGA发射信号产生模块采用非等时间间隔多脉冲序列产生发射信号，解决传统SuperDARN雷达固有的模糊和多普勒速度模糊的矛盾，利用脉冲宽度的设定提升探测距离分辨率，设定脉冲之间最小延迟时间间隔获得最大多普勒频移，优化其分辨率，通过多脉冲序列的长度设定改善探测的时间分辨率。因此，FPGA软件包含系统控制模块，工作模式的码元生成模块，幅相校正模块，数字波束合成模块；系统控制模块用来输出其余各个模块的时钟信号，时钟切换新号，触发信号以及用户调试的LED指示灯。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2回波采集处理模块 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "回波采集处理模块需要采集20路回波信号，包括16路主通道和4路辅通道。采集的数据通过FPGA处理板进行处理，用于对AD采样后的信号进行滤波、下变频、定标等处理，从而获得有效的雷达数据。软件设计的功能有：ADC芯片的配置，带通滤波，数字正交下变频和抽取，接收20通道的幅相一致性误差校正，波束合成和数据打包上传等功能，其信号的处理流程如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab3c182cf086bee1c4bc856527f622c25c8580af2a21dad8215acc73a4c66c1c.jpg",
+        "img_caption": [
+            "Fig.1 Processing flow diagram of transmit signal ",
+            "图2回波采集处理流程图",
+            "Fig.2 Processing flow diagram of echo signal "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，带通滤波器主要用于抑制采集数据的带外干扰信号;FPGA接收到ADC采样的原始中频数据，进行数字正交下变频处理，实现信号的正交检波，输出I、Q两路正交信号，以获取信号的相位信息；为了降低数据率，需要对正交下变频处理后的数据进行抽取；同时，为了避免数字下变频过程中引入的混频干扰及信号抽取时带来的谐波干扰，在进行幅相一致性校正之前对I、Q信号分别进行了窄带滤波。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于全系统不同的接收通道间会由于硬件非理想性，使得回波数据存在幅相一致性的误差，回波处理模块利用接收定标数据对接收通道的幅相误差进行校正，校正原理是将AD采集的16路回波数据与各通道补偿因子进行复乘。实现校正后的发射信号通过对不同波位的选择，完成数字波束合成（DBF)。波束合成操作所需要的加权因子由上位机配置，并和回波采集数据进行加权（复乘）求和。系统DBF操作采用主16路回波信号并行7通道同时处理，和4路辅通道分开处理的机制，实现提升雷达系统的角分辨率和探测距离，完成对不同波束指向的观测。将各项处理结束的回波数据进行打包存储，供后续数据分析研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2数据信号处理单元的FPGA实现",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1发射信号产生模块的FPGA实现 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1工作时序的设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AgileDARN雷达系统在常规模式下工作时，雷达信号工作频率范围为8\\~20Mhz，由发射信号产生模块产生，通过阵列天线发射，探测目标。接收机收到回波数据，通过幅相校正，经过波束合成后输出，得到最终数据。AgileDARN雷达系统采用非等时间间隔多脉冲序列探测方式，产生发射信号。发射产生模块正常工作时的发射时序如图3所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a7590241e4500321ff3fb38e8aaf5dea7101b59ec192824c60ab6f30b0522bf.jpg",
+        "img_caption": [
+            "图3三种观测模式下的发射时序设计",
+            "Fig.3Timing of three working modes "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "工作时序中，一个观测周期内包括接受定标脉冲、发射定标脉冲、和多波位的多脉冲序列，每个多脉冲序列内的脉冲时序如图3(b)所示。时序中的每个不同波位代表着阵列天线的不同波束指向，用来实现天线方向图的主波束的任意方向扫描。克服了传统SuperDARN雷达固定波束、以及固定波束间隔的限制。发射信号是由多个观测周期组成，每个多脉冲序列包含脉冲宽度 $t _ { p w }$ 、最小延迟间隔 $\\tau _ { 0 }$ 、个脉冲价格、脉冲序列长度、数据波位的数量以及多脉冲的数量等参数，参数的设定和距离分辨率、时间分辨率有直接关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2工作时序的FPGA实现",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了简化FPGA硬件逻辑负担，图3中的工作时序的各项参数由上位机进行配置。上位机将工作时序中各脉冲的工作频率、脉冲宽度 $t _ { _ { p w } }$ 、最小延迟间隔 $\\tau _ { 0 }$ 、数据波位的数量、多脉冲的数量以及各脉冲之间的间隔等参数下发到FPGA芯片中。FPGA设计逻辑是将发射信号工作时序中产生的各脉冲，由触发信号来进行启动。FPGA根据上述的参数，解析出接受定标、发射定标和子脉冲的产生触发信号,FPGA通过检测触发信号的上升沿，触发信号检测结果为高电平，则打开XilinxDDSCompilerCore的使能端□，产生相应的原始发射信号。同时，FPGA分析上位机配置的各个脉冲脉宽等参数，控制脉冲信号的停止。如图4所示，通过ModelSim产生的时序仿真图。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4da372e00594ada7d87b031b1f76b363fb2f0f22f81b45acd98e972d9765c9e.jpg",
+        "img_caption": [
+            "图4单通的发射信号时序图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图中第一行的数据波形是FPGA根据上位机下发各项参数解析的脉冲触发信号，触发信号的到来，标志发射信号脉冲的产生。FPGA对脉冲宽度进行计时，当脉宽满足要求值时，停止产生信号。图中的第三行波形表示产生的发射信号波形，左起第一个和第二个脉冲是接收定标和发射定标数据，其余为数据子脉冲。FPGA测试结果和设计的工作时序完全相同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中，每一个脉冲中设计为频率和相位可配置的发射信号，图4中子脉冲放大后如图5所示的发射数据子脉冲，在Xilinx ISE的编程环境下，原始的发射信号由Xilinx DDSCompilerCore设计产生，根据不同的频率和相位要求可配置IPCore相应的控制端口，产生所需的原始信号。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1f15644969a024a3edcf559cd1104ac45ae4cfbede2c3a7a965bf1ae88bcfd6.jpg",
+        "img_caption": [
+            "Fig.4 Transmit signal timing diagram ",
+            "图4发射信号子脉冲Fig.4 signal pulse"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2回波采集处理模块的FPGA实现 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1数字滤波器的设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数字滤波器是一个按预定的有限精度算法实现的、将输入的数字信号转化为所要求的输出数字信号的线性时不变系统。整个AD数据处理过程中使用到了带通滤波器，数字下变频的低通滤波器和窄带低通滤波器。雷达的数字系统采用的是基于FPGA中的FIR滤波器IP核进行设计数字滤波器。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "调用MATLAB软件中的FDATool工具，设置相应的带通滤波器、低通滤波器的参数，选择生成系数量化位数，完成设计参数设置后，可以直接生成FPGA需要的数字滤波器的系数配置文件（COE文件)。通过FPGA，直接导入到FIR滤波器IP核中，生成相应数字滤波器。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于雷达系统的发射定标数据、接收定标数据和回波数据的中心频率处于不同的频点，接收定标数据和回波数据，采样后的中心频率为10MHz，发射定标数据，采样后的中心频率为 ${ 8 { \\sim } 2 0 \\mathrm { M H z } }$ ，需要两套数字滤波器能够在AD采样后，对采样数据进行实时处理，如图5所示，为系统要求的带通滤波器之一的幅频响应曲线。其中心频率为10Mhz，通带为2Mhz，量化位数为16bit。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1e17365c4ec6ff19286bf1db8d30a1afdf8fa9bbccf690f0ada7a3942abaa49.jpg",
+        "img_caption": [
+            "图5带通滤波器的幅频响应曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于FPGA芯片的资源限制，两套滤波器采用一组滤波器IP核资源，在进行实时滤波处理时，采用分时复用的机制，进行滤波处理操作，即需要依据数据的要求随时切换工作滤波器。在FPGA进行实现时，将生成的两组带通滤波器系数文件，通过IP核的两个通道载入到FIR滤波器IP核中，FPGA根据接收信号的中心频率的不同，产生切换新号，通过配置端口配置IP核不同的滤波器指令，切换滤波器的系数，适应不同的滤波数据，配置端口的指令如表1所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebab8c454919a9c261dcdc58af7c984d8f07b4eaa88571808f35e3edf2659171.jpg",
+        "table_caption": [
+            "表1FPGA中FIR滤波器系数配置指令集",
+            "Table.1FIR filter coefficient configuration instructions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>滤波器系数</td><td>配置端口指令</td></tr><tr><td>第一通道滤波器</td><td>8'b00000000</td></tr><tr><td>第二通道滤波器</td><td>8'b00000001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "低通滤波器和窄带低通滤波器的是带有抽取性质的数字滤波，在FPGA设计时，采用FIR滤波器IP核，配置FIR滤波器的抽取参数即可，为了节省乘法器资源也可以自己定义寄存器对数据进行计数，满足抽取参数后，进行可控抽取滤波数据输出。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "满足图5滤波器的设计参数，通过FPGA设计数字带通滤波器，并将相应的参数配置到FPGA中，通过MATLAB模拟原始数据，输入FPGA中的滤波器，得到经过滤波器滤波后的输出数据，画出其幅频响应曲线如图6所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/05f334709c7bc172284159af2466d58668221a7c46ebb0a76905f19d9bf1080b.jpg",
+        "img_caption": [
+            "Fig.5 The amplitude frequency response curve of bandpass filter ",
+            "图6up.输入模拟原始信号的频谱响应；down.滤波器输出信号的频谱响应， 横坐标是频率(MHz),纵坐标是幅度响应(dB) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Up.the input signal's spectral response; Down. The spectral response of the filter output signal. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The abscissa is the frequency (MHz),The ordinate is the amplitude of the response (dB) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过图可以看出滤波结果和设计滤波器的响应曲线一致，对比上图中的原始数据，经过滤波器后，将带外的信号滤除掉了。通过对其他带通滤波器、低通滤波器的仿真实验验证了滤波器的滤波效果。因此，从仿真的结果上来看，基于IP核实现的FIR滤波器功能正确，满足设计要求。由于基于IP核实现的FIR滤波器比较灵活，可以根据参数设置选择合适的硬件资源量和数据处理的速度，这将成为未来数字滤波器应用的一大热点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.2幅相一致性校正实现 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AgileDARN雷达系统由16个发射通道和20个接收通道组成，由于硬件的非理想性，各通道之间会存在幅相不一致性误差。为了降低通道不一致性的影响，需要利用定标数据对各通道的发射和接收信号的幅相误差进行校正。AgileDARN雷达采用的是内定标，内定标周期和脉冲序列周期一致，在每个脉冲序列周期的第1个脉冲发射结束与第1个回波到达的间隙进行内定标，包括发射链路定标和接收定标链路。再进行定标时，信号产生模块提供的定标信号为 $s _ { 0 } ( t )$ ，经过链路后得到的信号为 $s _ { R T } ( t )$ ，两者之间的关系为：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { { \\scriptscriptstyle R T } } ( t ) = a _ { { \\scriptscriptstyle R T } } e ^ { - j \\varphi _ { { \\scriptscriptstyle R T } } } s _ { 0 } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中的 $s _ { 0 } ( t )$ 是已知的， $s _ { R T } ( t )$ 可以通过测量得到，根据上式可获得收发通道的幅相特性，从而用于对各个通道的一致性进行定标。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/31f157ae84095d0f6ec05aae4707f384d3128419b78fb6191933e93e67b46202.jpg",
+        "img_caption": [
+            "图7补偿因子的获取",
+            "Fig.7 Acquisition of compensation factor "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "进行幅相一致性校正时，需要上位机配置各通道的补偿因子，上位机获得第1通道的定标数据后，剔除无效数据，通过表达式(1)计算出通道的幅值 $A _ { 1 }$ 和相位 $\\Phi _ { 1 }$ ，相同的方式，获得之后的所有通道的幅值和相位，以第一通道输出为基准，计算出各个通道的幅度误差 $\\Delta a$ 和相位误差 $\\Delta \\varphi$ 。补偿因子的获得方法如图7所示。上位机将补偿因子配置下发到FPGA的IP核中，进行存储。对于不同的波位数据，FPGA通过上位机下发的波位选择信号，配置相应的补偿因子与通道中的",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IQ信号进行复乘，得到补偿校正后的IQ信号，其工作的原理如图8所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2615756aa6e9778d35a0c057568271f61c2ccb83ffa4c7b9e39a3112ff357f66.jpg",
+        "img_caption": [
+            "图8幅相一致性校正原理图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "数字系统利用Xilinx的FPGA内部的IPCore进行设计幅相一致性的处理过程。上位机通过和FPGA芯片进行通信，将补偿因子通过AXI-streaming协议总线下发到芯片中，利用芯片中的RAMCore存储补偿因子，为了实现多波位的扫描，系统会根据不同的波位产生波位切换信号，FPGA根据系统的波位切换信号，从RAMCore中读取不同波位对应的补偿因子,利用FPGA内部集成的Complex Multiplier Core,当其使能端有效时，将原始信号和补偿因子进行AXI协议格式的复乘，产生校正后的发射信号。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.3波束合成（DBF）的PFGA实现",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AgileDARN雷达为相控阵雷达，相控阵雷达的波束指向灵活，可以同时形成多个独立波束，实现全方位扫描。整个雷达系统采用了阵列天线，共有两个天线阵—收发主阵和干涉子阵，每个天线对应一路收发通道，在信号处理过程中需要将对数据通过移相加权分别进行波束合成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设通道 $k$ 的正交基带信号分别为 $I _ { k }$ 和 $Q _ { k }$ ，波束指向为 $\\theta _ { { } _ { B } }$ ，则阵内相位补偿 $\\Delta { { \\varphi } _ { B } }$ 为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\varphi _ { _ B } = \\frac { 2 \\pi } { \\lambda } d \\sin \\theta _ { _ B }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "每个通道的发射信号通过对原始信号的移相加权，从而实现发射天线方向图的合成，实现不同波束扫描，单通道的移相加权处理如图9所示：",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9bffcadc40924365fb59ec28efb330bafa49deb29156be6e1bcd98465d550473.jpg",
+        "img_caption": [
+            "Fig. 8 The principle of amplitude and phase consistency ",
+            "图7单通道移相加权处理 （DBF)"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 The phase shift weighted processing of single channel ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "则波束合成的输出信号的公式为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\left[ \\begin{array} { l } { I _ { k } ^ { ' } } \\\\ { Q _ { k } ^ { ' } } \\end{array} \\right] } = { \\left[ \\begin{array} { l l } { a _ { k } \\cos ( k \\Delta \\varphi _ { _ { B } } ) } & { a _ { k } \\sin ( k \\Delta \\varphi _ { _ { B } } ) } \\\\ { - a _ { k } \\sin ( k \\Delta \\varphi _ { _ { B } } ) } & { a _ { k } \\cos ( k \\Delta \\varphi _ { _ { B } } ) } \\end{array} \\right] } { \\left[ \\begin{array} { l } { I _ { k } } \\\\ { Q _ { k } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其中， $z = I _ { k } ^ { ' } + j Q _ { k } ^ { ' }$ ，从而获得波束合成后的数据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AD采样处理模块为了实现对1个主瓣和左右3个副瓣的观测处理的需求，采样得到的回波信号需要对16路主通道接收信号进行并行7通道的DBF处理，并且7个波位需要按照用户设置的波位序列进行循环切换，同时4路辅助接收信号进行单通道处理。以主通道为例，7个并行DBF通道的处理结构如图所示：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a04d165176aea2985760945d59cc375cc27829a0ccb17bded4e9f390524fb76.jpg",
+        "img_caption": [
+            "图8并行7通道数据的波束合成Fig.8 The DBF of parallel7channals"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FPGA接收到校正后的16主通道的数据后，将每个通道复制成7份，共为112份数据，上位机将每一个通道对应的加权因子通过AXI-streaming协议配置存储在FPGA的RAMCore中，根据不同的波位信号，FPGA从RAMCore中读取不同的加权因子，将原始信号和移相因子进行AXI协议格式的复乘，完成波束合成的操作。DA处理板可以直接采用Complex Multiplier Core，完成波束合成操作。对于AD处理板，由于芯片乘法器资源有限，波束合成是不能采用利用Complex MultiplierCore进行操作，FPGA只能通过调用乘法器，采用分时复用的方式，利用一个乘法器实现一次波束合成，即将校正后的采样数据和加权因子的实部和虚部的乘法分时操作，共用一个乘法器，从而减少乘法器的使用数量。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3总结语 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前本系统的硬件研制工作和相应FPGA程序设计已经完成，数字系统的各部分模块的功能都已经基本实现，通过对AgileDARN雷达数字处理系统技术要求的详细分析，利用FPGA实现了发射信号的产生，调试和输出，同时设计和仿真了回波信号处理需要完成的带通滤波，数字下变频，低通滤波和波束合成等功能，满足了AgileDARN雷达系统的技术要求。通过本系统的设计实验分析表明，对于数字信号处理，FPGA电路有很强的灵活性和可操作性，并且具有较高的可靠性，有利于实现AgileDARN雷达波束的任意扫描，突破传统SuperDARN 雷达固定波束、以及固定波束间隔的限制，同时能够观测到回波信号主波束、以及左右三个副瓣的回波信号，从而实现了地基高频雷达波束的灵活扫描和较大空间视角的观测。。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] 梁百先.李钧.冯淑英，我国的电离层研究．地球物理学报.41(增刊)：51-73.1994.  \n[2] 张顺荣.黄信榆.苏元智．电离层等离子体漂移的振荡．地球物理学报.37:10-16.1995.  \n[3] 阎敬业.蓝爱兰等.AgileDARN雷达的项目报告．北京：中国科学院国家空间科学中心.  \n[4]SuperDARNPulseSequences-OptimizationandTesting,K.McWillims,D.Andre,R.Greenwald,A.Shifler,G.Sofko,T. Yeoman, a tutorial presented at the SuperDARN 2003 meeting.  \n[5]张光义.相控阵雷达系统[M].北京:国防工业出版社.1994.  \n[6]a new SuperDARN meteor wind measurement: raw time series analysis method and its application to mesopuase regiondynamics  \n[7]Dick Blandford.John Parr.陈后金等译．数字信号处理及MATLAB 仿真[M].北京:机械工业出版社.2015.  \n[8]刘东华.Xilinx 系列FPGA芯片IP核详解[M].北京：电子工业出版社.2013.  \n[9]夏宇文.Verilog 数字系统设计教程[M].北京：北京航空航天大学出版社.2013.  \n[10]江志红.深入浅出数字信号处理[M]．北京：北京航空航天大学出版社.2012.",
+        "page_idx": 9
+    }
+]

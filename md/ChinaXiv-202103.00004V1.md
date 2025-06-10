@@ -1,0 +1,229 @@
+# 海冰和海温对西北地区中部6月降水异常的协同影响
+
+王素艳，纳丽，王璠，朱晓炜，李欣，马阳，张雯（中国气象局旱区特色农业气象灾害监测预警与风险管理重点实验室,宁夏 银川750002)
+
+摘要：利用1961年以来美国国家环境预报中心(NCEP)月平均再分析风场、高度场、NOAA重构海表温度以及西北地区中部54个气象站6月逐日降水资料、1979年以来北极10个区域的海冰面积,通过分析2019年6月西北地区中部降水异常的成因，揭示出对该区域6月降水具有显著影响的关键海区海冰面积及时段、北大西洋三极子(NAT)关键影响时段，结合厄尔尼诺-南方涛动(ENSO)事件，分析其协同作用及影响机制。结果表明：1990年以来春季3—4月楚科奇海海冰面积异常容易激发欧亚中高纬度EU2(欧亚2型)遥相关型(即夏季EU(欧亚)遥相关型),有利于西北地区中部降水异常，1992年以来春季NAT对EU2遥相关型有明显影响，但其影响小于楚科奇海海冰面积的影响；当楚科奇海海冰面积偏少和NAT正位相(海冰面积偏多和NAT负位相)协同作用时，西北地区中部降水偏多(偏少)的概率明显增大;ENSO事件对西北地区中部6月降水无明显直接影响，但厄尔尼诺事件次年使得副热带高压异常偏强、偏西。2019年楚科奇海海冰面积异常偏少，春季NAT异常偏强，两者协同作用下使得EU2遥相关型正异常 $( \} ^ { \ldots } + - + - ^ { \prime \prime } )$ ，尤其使得贝加尔湖附近的阻塞高压异常偏强，鄂霍次克海和乌拉尔山附近低压异常深厚，厄尔尼诺事件使副热带高压异常偏强、偏西，将西太平洋的水汽输送至北太平洋，与鄂霍次克海附近的深厚低压相接，充足的冷空气和水汽导致西北地区中部出现异常降水。研究成果可为短期气候预测提供依据，同时，气-冰-海之间的相互作用需要更进一步研究。
+
+关 键词：西北地区中部；异常多雨；大气环流；海冰面积；海温；协同影响文章编号：
+
+2019年6月，西北地区中部大部降水量和降水日数明显偏多，且多发强降水，出现了罕见的持续低温阴雨过程，尤其宁夏、甘肃河西等地降水量偏多1倍以上。西北地区中部属于干旱和半干旱温带大陆气候，处于季风区和非季风区分界地带，降水量少，年际间变率大，生态系统脆弱，暴雨量级以下的降水量也可能造成较大的灾害[1]。此次异常多雨对正处于关键期的农业生产带来很大不利影响，尤其对正值成熟采收关键期的枸杞及灌浆乳熟期的小麦极为不利；宁夏大部地区前期冬春季降水量持续明显偏少，土质疏松，部分地区强降水引发山洪地质灾害。
+
+对于西北地区东部(包括本文研究区域，下同)
+
+夏季的降水异常成因大多都集中在整个季节降水的研究[2-13],对于外强迫成因大多集中于热带海温的影响。然而影响一个地区月际间气候异常的因子差异大，尤其西北地区主雨季在7一8月[,6月降水量仅占整个夏季降水量的1/4，以夏季降水量作为研究对象所确定的成因并不一定适合6月；而且大部分研究以西北地区东部平均降水量作为研究对象，但由于西北地区东部范围大，地形复杂，各地对外强迫因子的响应也会有所不同。如李耀辉等8研究表明，厄尔尼诺事件发展年，西北东部以异常少雨为主，尤其7、8月表现得尤为明显;王雅琪等[]研究表明西北东部夏季降水与西北太平洋副热带高压位置及强度密切相联，而张仲杰等研究发现副
+
+# 干旱区地理
+
+高对西北地区东部6月降水影响不大;江志红[2]、杨金虎等[13]研究表明春季印度洋赤道海温异常偏暖、冬季赤道中东太平洋海温异常暖年西北地区夏季容易出现极端降水，张冰等[14]研究发现4—6月尤其5月菲律宾附近暖池增暖有利于宁夏6月出现极端降水事件。北极是全球气候变化的驱动器之一，在气候变暖的背景下，海冰明显减少，通过各种反馈机制与气候系统中的其他因子相互作用[5],而且对中纬度地区产生巨大影响[16-17],造成极端天气气候事件[18],因此,近些年国内外学者越来越重视对海冰的变化及其影响研究[19-20]。6月是西北地区东部夏粮作物生育关键期，气候异常影响大，但相关研究较少，张仲杰等研究了西北地区东部6月平均降水量和厄尔尼诺事件的关系，表明当6月有厄尔尼诺事件时，降水偏少。
+
+根据国家气候中心监测，赤道中东太平洋海温2019年1月达到厄尔尼诺事件标准，截止6月一直维持;2019年4一6月菲律宾附近海温发生了由低到高的明显变化，4月偏低，5一6月略偏高。可见，厄尔尼诺事件和菲律宾附近海温并不有利于西北地区中部2019年6月出现异常降水，那么到底是什么起关键作用？极地海冰放大效应对处于中纬度地区的西北地区中部6月降水异常又有什么作用？众所周知，厄尔尼诺-南方涛动(ENSO)循环作为海气相互作用的强信号，被认为是引起气候异常的重要因子，在2019年西北地区中部异常降水事件中又起到什么作用？大西洋是仅次于太平洋的水体，其存在与热变化通过中纬度西风带环流可直接影响到我国西部地区天气气候[21],对6月降水异常起到什么作用？多因子异常其协同作用影响更大，因此本文将通过研究2019年6月西北地区中部降水异常的成因，进而确定影响西北地区中部6月降水异常的关键海区海冰面积及关键时段，结合ENSO事件、北大西洋三极子(NAT)，分析三者协同作用及其影响机制，为短期气候预测提供依据。
+
+# 1资料与方法
+
+# 1.1资料
+
+研究区域为甘肃省 $1 0 3 ^ { \circ } \mathrm { E }$ 以东、 $3 5 ^ { \circ } \mathrm { N }$ 以北区域和宁夏，该区域2019年6月降水量异常，且前人研究也表明该区域降水基本同属于一个分区[，下文中统称“西北地区中部”。采用中国气象局国家气象信息中心提供的1961—2019年6月甘肃省34个气象站、宁夏20个气象站逐日降水资料。
+
+使用了美国国家环境预报中心(NCAR/NCEP)同时段逐月大气环流再分析资料，包括位势高度场、风场、水汽通量等，空间分辨率为 $2 . 5 ^ { \circ } \times 2 . 5 ^ { \circ }$ ；海温场 资 料（NOAA Extended Reconstruction SSTV3b）。海冰面积资料来源于ftp://sidads.colorado.edu/DATASETS/NOAA/G02135/seaice_analysis/，包括1979—2019年北半球10个区域各月海冰面积。北大西洋三极子(NAT)和ENSO事件来源于中国气象局国家气候中心业务内网。气候态取1981—2010年平均。
+
+# 1.2 方法
+
+使用的统计方法主要有相关、合成分析等，具体方法介绍见文献[22]。
+
+当3个以上变量相互影响时(如因变量 $y$ 和自变量 $x _ { 1 } , x _ { 2 }$ 之间的关系），采用偏相关关系分析消除一个自变量的影响后，因变量与另一个自变量之间的相关关系，即：
+
+$$
+r _ { y 1 , 2 } = \frac { r _ { 1 y } - r _ { 1 2 } r _ { 2 y } } { \sqrt { \big ( 1 - r _ { 1 2 } ^ { 2 } \big ) ( 1 - r _ { 2 y } ^ { 2 } ) } }
+$$
+
+式中： $r _ { ^ { 1 \gamma } } , r _ { ^ { 1 2 } \setminus } r _ { 2 y }$ 分别表示 $y$ 与 $\smash { x _ { 1 } , x _ { 1 } }$ 与 $x _ { 2 } 、 y$ 与 $x _ { 2 }$ 之间的相关系数[23]
+
+# 22019年6月降水异常特征
+
+2019年6月，西北地区中部降水量和降水日数异常偏多，其中14—15日、18—27日出现2段阴雨天气过程;月平均降水量 $8 4 . 5 ~ \mathrm { m m }$ ,较常年同期偏多$6 5 \%$ ，为有气象记录以来第4高值(图1)。宁夏尤为异常，平均降水量较常年同期偏多 $100 \%$ ，为1961年同期以来第3高值，大部地区偏多1倍以上，有6地偏多2\~3倍，2地创新高，14地为第2\~5高值;平均降水日数11.2d，为第3高值，7地创新高，大部地区中雨以上日数 $2 { \sim } 7 \mathrm { d } , 8$ 地为最多年，6地为第2多年；尤其18—27日大范围持续长达 $1 0 \mathrm { d }$ 的阴雨天气，历史罕见，持续阴雨日数和范围均创6月之最，部分地区持续日数为当地全年最长记录，此过程中中卫出现暴雨，其出现日期为当地暴雨第3早年，且为历史上第6个暴雨日。
+
+甘肃区域内平均降水量较常年同期偏多 $4 9 \%$ ，为1961年以来第4高值，16地偏多 $5 0 \%$ 以上，2地创新高，6地位列前2\~3位;降水日数平均13.7d,为第4高值，有2地为最高值，大部地区中雨以上日数1\~6d，4地为6月最多年，10地为第2多年。
+
+![](images/80fdcacd680ecfdf81ba2336ca16204e562f1c987e59ebc262d5e76520f3bb44.jpg)  
+Fig.1Precipitation anomaly percentage in June in the central part of northwest China
+
+# 32019年6月大气环流异常
+
+2019年6月 $5 0 0 \mathrm { { h P a } }$ 高度场上(图2)，欧亚地区中高纬度呈现2槽2脊分布，欧洲大陆为一高压脊（I区），我国华北经贝加尔湖向东西伯利亚延伸至$7 0 ^ { \circ } \mathrm { N }$ 附近有一阻塞高压(Ⅲ区)，新地岛-乌拉尔山-巴尔喀什湖（Ⅱ区)和日本岛-鄂霍次克海区域（V区)分别为西北一东南和东北一西南走向的长波槽。对应的距平场上为“ $+ - + - { }$ "分布特征；Ⅱ区和V区负距平中心较常年偏低 $8 0 \ \mathrm { g p m }$ 以上,槽底部均达 $3 0 ^ { \circ } \mathrm { N }$ 附近；I区、Ⅲ区中心强度较常年偏高100gpm以上;西北地区中部位于Ⅲ区高压底部,为典型的西低东高形势。极地高度场偏高，有利于冷空气
+
+0° 40°E 80°E 120°E 160°E   
+90N 90N   
+80N 5400 80N 5600   
+70N 5400 70N   
+60N 56000 5500 5600-60N 5600   
+50N 音 50N 5700 5600   
+400N 5800 5900 5800 585700 5900F0N   
+20N 20N 5900 1 5900   
+10N 10N   
+0°EQ 0°EQ 0° 40E 80E 120°E 160°E -80-40 0 40 80120
+
+频繁南下；低纬度地区高度场偏高，有利于冷空气在西北地区东部维持。
+
+从 $7 0 0 \mathrm { { h P a } }$ 风场距平（图3，图中A为反气旋、C为气旋，全文同)和副热带高压西伸脊点、强度可以看到(图4)，I区、Ⅱ区、Ⅲ区和V区分别对应反气旋、气旋、反气旋和气旋性环流；I区和Ⅱ区的冷空气在乌拉尔山附近交汇并于咸海附近分为2支，一支向东北和东方向，一支南下；西太平洋副热带高压异常偏西、偏强，西伸脊点达到 $1 0 4 . 6 8 ^ { \circ } \mathrm { E }$ ,其偏西程度仅次于1998年和2010年，月内有21d位于 $9 0 ^ { \circ } \sim$ $1 0 0 ^ { \circ } \mathrm { E }$ 之间，使得来自西太平洋的水汽在孟加拉湾东侧沿着副高边缘经我国华南至北太平洋，与N区的气旋相接。Ⅲ区强大的反气旋将东西伯利亚的冷空气引导南下，IV区的深厚气旋将北太平洋的暖湿气流引导北上，在日本海中部附近分为2支，其中一支直接向西，另一支继续北上与极地南下的冷空
+
+![](images/f578707d360e569260a3aeebc60d7bdcaf545a073e94501fb9512428ccff7e81.jpg)  
+图1西北地区中部6月降水距平百分率  
+图22019年6月 $5 0 0 \mathrm { { h P a } }$ 高度场(等值线)及距平场(色斑)/gpm  
+Fig.2 Average geopotential height field on $5 0 0 \mathrm { { h P a } }$ geopotential height (contours) and its anomalies (colored area) in June $2 0 1 9 / \mathrm { g p m }$   
+图32019年6月 $7 0 0 \mathrm { { h P a } }$ 距平风场 $/ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$   
+Fig.3 Wind anomalies on $7 0 0 \mathrm { { h P a } }$ in June $2 0 1 9 / \mathrm { m \cdot s ^ { - 1 } }$
+
+注：A为反气旋，C为气旋。
+
+![](images/ca5d86199828ab67d53ac3c0f3c1e0c029d5dcb6568aac0b414a181d0f26f2b3.jpg)  
+图4副热带高压西伸脊点和强度指数年际变化(a)和西伸脊点日变化(b)
+
+气在鄂霍次克海附近汇合，2支水汽再次在渤海湾汇合，与来自I区和Ⅱ区冷空气在西北地区中部交汇。
+
+# 4西北地区中部6月降水异常成因诊断
+
+降水量和降水日数呈显著正相关，相关系数达到0.77，因此本文以降水量进行分析。
+
+# 4.1 ${ \bf 5 0 0  h P a }$ 高度场
+
+由前面分析可见，2019年 $5 0 0 \ \mathrm { h P a }$ 高度场欧亚中高纬度地区的“ $+ - + - "$ 波列对西北地区中部的降水异常有重要影响。通过分析西北地区中部6月降水和同期高度场相关关系，结果表明，6月降水与$5 0 0 \mathrm { { h P a } }$ 高度场中高纬度环流的关系发生了明显变化，这个波列从1990年代以来与降水具有稳定的显著关系(图5)，2个负距平区域反映准静止低压槽所在，2个正距平区域反映准静止高压脊所在，分布相似于EU2(欧亚2型)遥相关型，也就是夏季EU（欧亚)遥相关型[24],也就是说，当北半球中高纬度呈EU2遥相关型分布时，有利于西北地区中部降水异常；高相关区(通过0.05显著性检验)为欧洲中部（正相关）、乌拉尔山地区(负相关）、中国华北区域的大陆高压(正相关)和日本岛东侧(负相关)；另外，极地为负相关，中低纬度大范围正相关。虽然2019年6月高度场异常中心与此高相关区域位置略有差异，但其分布形势除极地不同外，其他区域与相关场分布形势高度一致。
+
+为进一步诊断确定通过影响EU2遥相关型进而影响西北地区中部降水异常的外强迫因子，选取$5 0 0 \mathrm { { h P a } }$ 高度场上欧洲中部、乌拉尔山地区、中国华北区域和日本岛东侧4四个关键区且位于高、低值中心附近的，分别定义为A区 $( 4 0 ^ { \circ } \sim 5 0 ^ { \circ } \mathrm { N } , 1 0 ^ { \circ } \sim 3 0 ^ { \circ }$ E)、B区 $( 5 5 ^ { \circ } \sim 7 0 ^ { \circ } \mathrm { N } , 5 0 ^ { \circ } \sim 6 0 ^ { \circ } \mathrm { E }$ ）、C区 $( 3 0 ^ { \circ } \sim 6 0 ^ { \circ } \mathrm { N }$ $1 0 0 ^ { \circ } \sim 1 2 0 ^ { \circ } \mathrm { E }$ ）、D区 $( 3 0 ^ { \circ } \sim 3 5 ^ { \circ } \mathrm { N }$ ， $1 3 5 ^ { \circ } \sim 1 5 0 ^ { \circ } \mathrm { E }$ ，定义EU2遥相关型的强度指数(以下简称EU2I)为：
+
+干辛区地理  
+Fig.4Annual variation of western ridge point and intensity (a)and the interdiurnal variation of western ridge point of subtropical high (b)   
+图51990—2019年西北地区中部6月降水距平百分率和$5 0 0 \mathrm { { h P a } }$ 高度场的相关系数分布  
+Fig.5 Correlation coefficient between precipitation anomaly percentage in June in the east of northwest China and the $5 0 0 \mathrm { { h P a } }$ geopotential height during 1990—2019   
+![](images/e8fa73eca7f9df5b813ccaca4f43adefde47a2b3d815bf292dadba390baaeac1.jpg)  
+注：阴影区通过0.05信度的显著性检验。
+
+$\mathrm { E U 2 I } = 0 . 2 5 \mathrm { Z A } - 0 . 2 5 \mathrm { Z B } + 0 . 2 5 \mathrm { Z C } - 0 . 2 5 \mathrm { Z D }$ (2)式中： $\mathrm { Z A , Z B , Z C , Z D }$ 分别为关键区 $\mathbf { A } , \mathbf { B } , \mathbf { C } , \mathbf { D }$ 区域平均的 $5 0 0 \mathrm { { h P a } }$ 高度距平标准化值。定义 $\mathrm { E U } 2 \mathrm { I } > 0$ 时为正位相，对应西北地区中部降水偏多， $\mathrm { E U } 2 \mathrm { I } < 0$ 时为负位相，对应西北地区中部降水偏少。
+
+# 4.2海冰的影响
+
+4.2.1 海冰和 ${ \bf 5 0 0 ~ h P a }$ 高度场北半球大气环流对北极海冰异常的响应存在直接和间接2种[20],其中北极海冰对中国气候的影响可以通过大气环流异常的间接响应实现。采用21a滑动相关分析北极各区域海冰面积和EU2I之间的关系，发现当年春季3—4月楚科奇海海冰面积和EU2I的关系由正相关转为负相关（图6，图中横坐标1999对应的值为1979—1999年21a标准化海冰面积和EU2I之间的相关系数，依次类推）,1990年以来两者之间持续显著负相关，相关系数为-0.55(图7)，通过0.05的显著性水平;海冰面积偏少时，EU2为正位相，反之亦然;两者之间符号相反率 $7 3 . 3 \%$ 。楚科奇海海冰面积和6月 $5 0 0 \ \mathrm { h P a }$ 的相关场与西北地区中部降水和6月$5 0 0 \mathrm { { h P a } }$ 的相关场(图5)分布形势恰好相反，且其表征的多雨形势与2019年6月的高度场分布形势更加一致，相关场通过0.05显著性检验的高相关区与6月高度场的异常中心位置几乎重叠(图8)。可见，前期春季3一4月楚科奇海海冰面积异常偏少能够激发出中高纬度EU2遥相关型，增强欧洲和贝加尔湖至东伯利亚地区的阻塞高压，加深乌拉尔山地区低压槽和鄂霍次克海附近的东亚槽，使得来自极地冷空气和北太平洋的暖湿气流异常强;同时海冰异常偏少还使热带地区的高度场大范围正距平，使得冷空气不但在西北地区中部交汇而且维持，从而导致降水异常。
+
+图63—4月楚科奇海冰面积和EU2I滑动相关系数 Fig.6 Moving correlation coefficient between Chukchi Seaice area and the EU2I   
+![](images/797f18a9ee04bab400c7f08c240b7058297348f9f051f57ccfb0c719d7dd97eb.jpg)  
+注：EU2I为EU2遥相关型的强度指数。
+
+从西北地区中部降水实况和楚科奇海海冰面积之间关系看，1990—2019年两者之间相关系数为-0.48,通过0.05显著性检验，符号相反率为 $67 \%$ 海冰偏少的11a中有8a降水偏多，占 $7 2 . 7 \%$ ;海冰偏多的 $1 9 \mathrm { a }$ 中有12a降水偏少，占 $6 3 . 2 \%$ ,降水偏多的7a中其中有4a区域平均降水量虽然偏多 $1 \%$ 2$8 \%$ ，但有3a仍然有一半以上地区降水偏少，偏少地
+
+![](images/77d87cc3f5d0d672a0d7326c0fdb013d280f9fcd86d2ecf9b819ab077228186e.jpg)  
+图7楚科奇海冰面积与EU2I0 $\stackrel { \cdot } { r = - 0 . 5 5 }$ 的关系 Fig.7Relationship between Chukchi Sea ice area with EU2I $( r { = } \substack { - } 0 . 5 5 )$
+
+注：r为两者之间相关系数。
+
+图81990—2019年楚科奇海冰面积(红色）、1992—2019年 NAT(蓝色)和6月 $5 0 0 \mathrm { { h P a } }$ 高度场相关系数 Fig.8 Correlation coefficient between Chukchi Sea ice area (red line) during 1990—2019、NAT (blue line) during 1992— 2019 and the $5 0 0 \mathrm { { h P a } }$ geopotential height in June   
+![](images/966beaf26df199015f1939c9ecdb6f39fdb92d66833a574cd89eb9def10ceb4b.jpg)  
+注：阴影区通过0.05显著性检验;虚线为负，实线为正。
+
+区主要位于宁夏境内及甘肃河西靠近宁夏的地区，尤其2008年宁夏大部地区偏少在 $5 0 \%$ 以上。1990年以来包括2019年在内的降水偏多1个标准差以上的年份有 $5 \mathrm { ~ a ~ }$ ,其中4a海冰面积偏少，尤其有3a（2002、2007年和2019年），海冰面积分别为第3、4、1偏少年(图9)。
+
+4.2.2 海冰和风场及水汽输送选择1990—2018年间海冰异常偏少和偏多且距平绝对值都在1个标准差以上的各5a,分析两者之间 $7 0 0 \mathrm { { h P a } }$ 距平风场、整层水汽输送场差异(图10、图11)。由图可见，关键区域楚科奇海海冰异常偏少年和偏多年 $7 0 0 \mathrm { { h P a } }$ 距平风场和整层积分水汽输送差异大。楚科奇海海冰异常偏少年对应的 $7 0 0 \mathrm { { h P a } }$ 距平风场与2019年6月 $7 0 0 \mathrm { { h P a } }$ 距平风场相比，两者在 $4 0 ^ { \circ } \mathrm { N }$ 以北区域非常相似，但2019年6月Ⅱ区的气旋北侧东风和I区反气旋北侧东南风异常偏强，两者交汇使得乌拉尔
+
+# 干旱区地理
+
+2 100H \*  
+1 ： 50T %/  
+0 0  
+-1 L 1 -50  
+-2 --100一标准化海冰面积  
+-3 -150. 降水距平百分率  
+4 -200年份
+
+山附近西北风偏强；V区气旋北侧的东风及Ⅲ区气旋北侧的西风异常偏强，两者交汇使得东北风偏强；在 $4 0 ^ { \circ } \mathrm { N }$ 以南区域,两者之间在太平洋、印度洋均差异显著，海冰异常偏少年，水汽来源主要为西北太平洋异常气旋北侧的东风带来的暖湿气流；而在2019年6月，水汽主要来自于西太平洋。从整层积分水汽输送场也可以看到，海冰异常偏少年、偏多年整层水汽通量与对应的距平风场一致，海冰异常偏少年，水汽在西北地区中部汇合，形成该区域的异常水汽辐合区。
+
+由此，结合 $5 0 0 \mathrm { { h P a } }$ 高空环流，2019年6月楚科奇海海冰异常偏少的作用主要是增强中高纬度EU2遥相关型，从而增强来自极地的冷空气以及将来自西太平洋的暖湿气流引导北上。
+
+# 4.3海冰和海温的协同作用
+
+4.3.1 北大西洋海温的影响 通过分析6月EU2I与逐月北大西洋三极子(NAT)的21a滑动相关发现，当年春季NAT和EU2I的关系在1990年代初期之前为弱的负相关，之后转为正相关，且于1992开始通过0.05显著性检验。从春季NAT和 $5 0 0 \mathrm { { h P a } }$ 高度场关系看(图8)，其表征的多雨形势场与2019年6月高度场及楚科奇海海冰面积偏少年对应的高度场虽然中心位置略有差异，但分布形势都比较一致。由于NAT和楚科奇海海冰面积对EU2遥相关型都有影响，分别计算NAT、海冰面积与EU2I的偏相关系数，以此进一步分析其对EU2遥相关型的相对重要性。结果表明，在消除NAT的影响后，海冰面积与EU2遥相关型的偏相关系数为-0.5,通过0.05显著性检验，而在消除海冰面积的影响后，NAT与EU2遥相关型的偏相关系数为0.23，也就是说，对于影响本文研究区域6月降水量的EU2遥相关型，春季NAT的影响小于3一4月楚科奇海海冰面积的影响。图12和图13为楚科奇海海冰面积和NAT协同和拮抗作用下 $5 0 0 \mathrm { { h P a } }$ 高度场差值分布，由图可见，当海冰面积偏少和NAT正位相协同作用时，对应图5中的A区和C区高度场正距平、B和D区负距平更明显，反之，当海冰面积偏多和NAT负位相协同作用时，C区高度场负距平、B和D区正距平更明显，因此，春季NAT正位相增强(削弱)了由楚科奇海海冰偏少(偏多)激发的EU2遥相关型。
+
+![](images/cb8e2b6e1e286025e68cd351402bdf46ac4b089dcb410aac712871673b06118f.jpg)  
+图9楚科奇海冰面积与降水距平百分率的关系 $_ { ( r = - 0 . 4 8 ) }$ 0 Fig.9 Relationship between Chukchi Sea ice area with precipitation anomalypercentage $( r { = } \mathrm { - } 0 . 4 8 )$ inJune   
+图10楚科奇海冰面积异常年6月 $7 0 0 \mathrm { { h P a } }$ 距平风场 $/ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$
+
+![](images/3ebe51efb110a55e062a9a64ddf49f75e83f5dc49fe9ce145568650ec532f277.jpg)  
+Fig.10 Wind anomalies on $7 0 0 \mathrm { { h P a } }$ in June of Chukchi Sea ice area anomaly years $/ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$   
+图11 楚科奇海冰面积异常年6月整层(地面 $- 3 0 0 \mathrm { { h P a } }$ )积分水汽输送通量距平（矢量； $\mathrm { k g \cdot s ^ { - 1 } \cdot m ^ { - 1 } } )$ 和散度距平场(填色; $1 0 ^ { - 5 } \mathrm { k g } \cdot \mathrm { s } ^ { - 1 } \cdot \mathrm { m } ^ { - 2 } )$ （204号  
+Fig.11Water vapor transport anomalies vertically integrated from surface to $3 0 0 \mathrm { { h P a } }$ (vector; $\mathrm { k g \cdot s ^ { - 1 } \cdot m ^ { - 1 } } )$ and anomalies of divergence and convergence of moisture transport (shade areas; $1 0 ^ { - 5 } \mathrm { k g \cdot s ^ { - 1 } \cdot m ^ { - 2 } }$ in June of Chukchi Sea ice area anomaly years
+
+![](images/c18c0b273fb114e9732f4161610d7ab52cb25f2389c2c31b346fc8fb36989b89.jpg)  
+图12 $5 0 0 \mathrm { { h P a } }$ 高度场差值分布(楚科奇海海冰面积偏少/ NAT正位相-海冰面积偏少/NAT负位)/gpm Fig.12 Difference distribution on $5 0 0 \mathrm { { h P a } }$ for Chukchi Seaice area less/NAT positive-Chukchi Sea area less/NAT negative) /gpm
+
+从1992年以来楚科奇海海冰面积和NAT的4种不同配置下对应的西北地区中部6月降水距平百分率看(表1)，11a海冰偏少年中有8a降水偏多，其中6a的NAT为正位相，占 $7 5 \%$ ,17a海冰偏多年中
+
+![](images/00c9f58c12183a2b5d7de0673a643658a8ede2e0c93e569837eaf990d1f666d6.jpg)  
+图13 $5 0 0 \mathrm { { h P a } }$ 高度场差值分布(海冰面积偏多/NAT负位 相-海冰面积偏多/NAT正位相)/gpm Fig.13 Difference distribution on $5 0 0 \mathrm { { h P a } }$ for Chukchi Sea ice area much/NAT negative-Chukchi Sea ice area less/NAT positive) $/ \mathrm { g p m }$
+
+# 表1楚科奇海面积和北大西洋三极子(NAT)4种配置对应的降水
+
+Tab.1 Precipitation corresponding to the four configurations of Chukchi Sea area and NAT   
+
+<html><body><table><tr><td></td><td colspan="2">海冰偏少</td><td colspan="2">海冰偏多</td></tr><tr><td rowspan="2">NAT/a</td><td>正</td><td>负</td><td>正</td><td>负</td></tr><tr><td>8</td><td>3</td><td>6</td><td>11</td></tr><tr><td rowspan="2">降水/a</td><td>偏多</td><td>偏多</td><td>偏少</td><td>偏少</td></tr><tr><td>6</td><td>2</td><td>3</td><td>8</td></tr></table></body></html>
+
+有11a降水偏少，其中8a的NAT为负位相，占$7 3 \%$ ，可见，当海冰面积偏少和NAT正位相(海冰面积偏多和NAT负位相)协同作用时，西北地区中部降水偏多(偏少)的概率明显增大。在海冰面积和NAT位相出现拮抗作用的9a中，有5a降水距平百分率与海冰面积位相相反，其余4a中，有3a海冰面积异常偏多，位列前3位，而NAT只有1a正位相明显，2a分别仅为0.04和0.4,但这2a降水距平百分率分别为 $3 . 5 \%$ 和 $8 . 0 \%$ ,因此可能存在其他异常外强迫因子削弱了海冰对降水的影响。
+
+2019年楚科奇海海冰面积为1979年以来最低值，春季NAT为1992年以来第6高值，两者协同作用下使得EU2I异常达1990年以来第2高值，其影响也就更大。
+
+4.3.2厄尔尼诺事件的影响由于2019年6月副热带高压异常偏西、偏强，增加了来自西太平洋的水汽，但通过分析发现3一4月楚科奇海海冰面积及春季NAT对其并没有明显影响，厄尔尼诺事件是主要原因[25-26],1961年以来6月副热带高压西伸脊点在$1 1 0 ^ { \circ } \mathrm { E }$ 以西的年份共有7a，其中有6a出现在厄尔尼
+
+# 干旱区地理
+
+诺事件次年。张冰等14研究表明6月热带系统对降水影响不显著;张仲杰等研究表明副热带高压对6月降水影响不大；也就是说，副热带高压偏强、偏西并不能直接对研究区域6月的降水产生影响。将1990年以来厄尔尼诺事件次年分为2种情况（一种为所有厄尔尼诺事件次年，一种为其发展状态与2019年相似），对比分析厄尔尼诺事件和拉尼娜事件次年6月 $5 0 0 \mathrm { { h P a } }$ 高度场和 $7 0 0 \mathrm { { h P a } }$ 距平风场，发现2种情况的厄尔尼诺事件次年和拉尼娜事件次年在中高纬度均与2019年分布相反，为西高东低分布，西北地区中部以西风、西北风为主，并不有利于降水偏多，而在低纬度地区，厄尔尼诺次年与2019年相似，均在南海至太平洋地区存在异常的反气旋，拉尼娜事件次年与其相反。
+
+由此可见，由于2019年3—4月楚科奇海海冰面积异常偏少，NAT异常正位相，两者协同作用使得中高纬度EU2遥相关型正位相异常，尤其使得鄂霍次克海和乌拉尔山附近低压异常深厚，贝湖附近的阻塞高压异常偏强，而厄尔尼诺的作用是使副热带高压异常偏强、偏西，从而将西太平洋的水汽输送至北太平洋，与鄂霍次克海附近的深厚低压相接，对西北地区东部的降水有增强作用。
+
+# 5结论
+
+通过分析2019年西北地区中部降水异常成因，确定了对该区域6月降水具有显著影响的关键海区海冰面积及时段、北大西洋三极子(NAT)关键影响时段，结合ENSO事件，分析其协同作用及影响机制。
+
+（1）西北地区中部6月降水和高度场关系发生了明显变化，1990s以来 $5 0 0 \mathrm { { h P a } }$ 高度场中高纬度距平场分布为EU2遥相关型时（即夏季EU遥相关型），有利于降水异常；当EU2为正位相“ $+ - + - { } ^ { , }$ A时，降水偏多，反之亦然，
+
+(2）春季3一4月楚科奇海海冰面积和春季NAT对高度场的影响分别于1990、1992年以来对EU2遥相关型均有显著影响，但NAT的影响小于海冰面积的影响；当海冰面积偏少和NAT正位相协同作用时，降水偏多的概率明显增大；ENSO事件对降水无明显直接影响，但厄尔尼诺事件使得副热带高压异常偏强、偏西。
+
+（3）2019年楚科奇海海冰面积异常偏少，春季
+
+NAT异常偏强，两者协同作用使得EU2遥相关型正异常；厄尔尼诺事件使西太平洋水汽输送至北太平洋，配合EU2遥相关型，充足的冷空气和水汽导致西北地区中部出现异常降水。
+
+# 6讨论
+
+影响一个地区气候异常的外强迫因子有积雪、高原感热、海冰、海温等，本文分析了极地海冰和大西洋海温、ENSO事件对西北地区中部6月降水的影响，其他区域的海洋温度异常及积雪等的影响还需进一步研究。由图1可见，西北地区中部6月降水量在1980s中期发生了由持续偏少到波动增加的变化，而6月降水量、3—4月楚科奇海冰面积、春季NAT和高度场关系均在1990s以来先后发生了明显变化，因此他们(气-冰-海)之间的相互作用需要更进一步研究。
+
+# 参考文献(References)
+
+[1]黄鹏.河套地区夏季极端降水事件统计及其环流特征分析[D]. 青岛：中国海洋大学,2013.[Huang Peng.Anlysis on summer extreme precipitation events and their circulations in the Hetao Area [D]. Qingdao: Ocean University of China,2013.]   
+[2] 赵庆云,张武,唐杰,等.西北东部气候异常特征及其对冬季高 原感热的响应[J].中国沙漠,2006,26(3):415-420.[Zhao Qingyun,Zhang Wu,Tang Jie,et al.Extreme climate within eastern part of northwest China and its response on sensible heat over Qinghai-Tibetan Plateau[J]. Journal of Desert Research,2OO6,26(3): 415-420.]   
+[3]王鹏祥.西北地区干湿演变及其成因分析[D].南京:南京信息 工程大学,2Oo8.[Wang Pengxiang.Aridity-wetness evolution and its influence mechanism in northwest China[D]. Nanjing: Nanjing University of Information Science & Technology,2008.]   
+[4]唐镭.西北地区夏季干湿年的环流异常及水汽输送的研究[D]. 南京：南京信息工程大学,2010.[TangLei.Analysis of circulation anomaly and water vapor transport of summer aridity-wetness in northwest China[D].Nanjing:Nanjing University of Information Science & Technology,2010.]   
+[5]范伶俐,徐峰,徐华,等.春季/夏季型ElNino对中国夏季降水 变化的影响[J].大气科学学报,2018,41(6):819-828.[Fan Lingli, Xu Feng,Xu Hua, et al. Spring and summer El Nino events and their influences on summer precipitation in China[J]. Transactions of Atmospheric Sciences,2018,41(6): 819-828.]   
+[6]张仲杰.中国西北地区东部降水的气候变化特征及其影响因素 [D].兰州：兰州大学,2016.[Zhang Zhongjie.Climate change characteristics and influencing factors of precipitation in the eastern part of northwest China[D]. Lanzhou: Lanzhou University, 2016.]   
+[7]杨金虎,靳荣,刘晓云,等.西北地区东部汛期降水季节内分布 特征分析[J].干旱区地理,2017,40(5):21-29.[Yang Jinhu,Jin Rong,Liu Xiaoyun,et al.Inter-seasonal distribution pattern of rainy season precipitation in the east region of northwest China[J].Arid Land Geography,2017,40(5): 21-29.]   
+[8]李耀辉,李栋梁.ENSO循环对西北地区夏季气候异常的影响 [J].高原气象,2004,23(6):930-935.[Li Yaohui,Li Dongliang. Effects of ENSO cycle on the summer climate anomaly over northwest China[J].Plateau Meteorology,2004,23(6): 930-935.]   
+[9]张仲杰,康景芬,王士新,等.西北地区东部降水异常的大气环 流及水汽特征[J].沙漠与绿洲气象,2019,13(1):87-92.[Zhang Zhongjie,Kang Jingfen,Wang Shixin,et al.Atmosphere circulation and water vapor characteristics of the precipitation anomaly in eastern part of northwest China[J]. Desert and Oasis Meteorology,2019,13(1): 87-92.]   
+[10] 王雅琦,冯娟,李建平,等.西北地区东部夏季降水年际变化特 征及其与环流的关系[J].高原气象,2020,39(2):290-300. [Wang Yaqi,Feng Juan,Li Jianping, et al.Interannual variation of summer precipitation in the eastern of northwest China and its relationship with circulation[J].Plateau Meteorology,2020,39(2): 290-300.]   
+[11] 李潇,李栋梁,王颖.中国西北东部汛期降水对青藏高原东部春 季感热在准3a周期上的响应[J].气象学报,2015,73(4):737- 748.[Li Xiao,Li Dongliang,Wang Ying. Quasi 3-year period response of the rainy season precipitation over the eastern parts of northwest China to the spring sensible heat flux over the eastern part of the Tibetan Plateau[J]. Journal of Meteorology,2O15,73(4): 737-748.]   
+[12] 江志红,杨金虎,张强.春季印度洋 SSTA对夏季中国西北东部 极端降水事件的影响研究[J].热带气象学报,2009,25(6):641- 648.[Jiang Zhihong, Yang Jinhu, Zhang Qiang. Influence study on spring Indian ocean SSTA to summer extreme precipitation events over the eastern part of northwest China[J]. Journal of Tropical Meteorology,2009,25(6): 641-648.]   
+[13] 杨金虎,江志红,白虎志.夏季西北东部极端降水事件同太平洋 SSTA 的遥相关[J].高原气象,2008,27(2):321-338.[Yang Jinhu,Jiang Zhihong,Bai Huzhi.Teleconnection between summer extreme precipitation event of east part of northwest China and Pacific SSTA[J]. Plateau Meteorology,2008,27(2): 321-338.]   
+[14] 张冰,刘宣飞,郑广芬,等.宁夏夏季极端降水日数的变化规律 及其成因[J].大气科学学报,2018,41(2):176-185.[Zhang Bing, Liu Xuanfei, Zheng Guangfen,et al. Variation of the days of extreme precipitation in Ningxia in summer and its causes[J]. Transactions of Atmospheric Sciences,2018,41(2): 176-185.]   
+[15]魏立新.北极海冰变化及其气候效应研究[D].青岛:中国海洋 大学,2011.[Wei Lixin. Study on the variation of Arctic sea ice andits effectonglobal climate[D]. Qingdao: Ocean Universityof China, 2011.]   
+[16] Screen JA,Simmonds I. Exploring links between Arctic amplification and mid-latitude weather[J]. Geophysical Research Letters,2013, 40(5): 959-964.   
+[17] Cohen J, Screen JA,Furtado JC, et al. Recent Arctic amplification and extreme mid-latitude weather[J]. Nature Geoscience,2014, 7(9): 627-637.   
+[18]Overland JE,Klaus Dethloff,Francis JA,et al.Nonlinear response of mid-latitude weather to the changing Arctic[J]. Nature Climate Change,2016,6(11): 992-999.   
+[19] 樊婷婷,黄菲,苏洁.北半球中高纬度大气环流主模态的季节演 变及其与北极海冰变化的联系[J].中国海洋大学学报(自然科 学版),2012,42(7): 19-25.[Fan Tingting,Huang Fei,Su Jie.The seasonal march of dominate mode of the mid-high latitude atmo sphere circulation in northern hemisphere and the associated Arctic seaice[J].Periodical of Ocean University of China (Natural Sci ence Edition),2012,42(7): 19-25.]   
+[20]Deser C, Magnusdotir G,Saravanan R,et al.The effcts of North Atlantic SST and sea ice anomalies on the winter circulation in CCM3.Part II: Direct and indirect components of the response[J]. Journal of Climate,2004,17(5): 877-889.   
+[21]章新平.北大西洋海温与 $5 0 0 \mathrm { { h P a } }$ 月平均环流的若干统计特征 [J].新疆大学学报(自然科学版),1988(4):102-108.[Zhang Xinping.Some statistic features of North Atlantic ocean surface temperature and 5OO hPa monthly mean circulation[J]. Journal of Xinjiang University (Natural Science Edition),1988(4): 102-108.]   
+[22] 魏凤英.现代气候统计诊断与预测技术[M].2版.北京:气象出 版社,2007.[Wei Fengying.Statistical diagnosis and prediction technology of modern climate[M]. $2 ^ { \mathrm { n d } }$ ed. Beijing: China Meteorology Press, 2007.]   
+[23] 施能.气象科研与预报中的多元分析方法[M].2版.北京：气象 出版社,2002: 21-22.[Shi Neng. Multivariate analysis method in meteorological research and forecasting[M]. $2 ^ { \mathrm { n d } }$ ed. Beijing: China Meteorology Press,2002: 21-22.]   
+[24] 卫捷,张庆云,陶诗言.近20年华北地区干旱期大气环流异常 特征[J].应用气象学报,2003,14(2):140-151.[Wei Jie,Zhang Qingyun,Tao Shiyan. Characteristics of atmospheric circulation anomalies during persistent droughts in north China for last two decades[J]. Journal of Applied Meteorological Science,2003,14 (2): 140-151.]   
+[25] 陈文.EL Nino和LaNina事件对东亚冬、夏季风循环的影响[J]. 大气科学,2002,26(5): 595-610.[Chen Wen.Impacts of EL Nino and La Nina on the cycle of the East Asian winter and summer monsoon[J]. Chinese Journal of Atmospheric Sciences,2002,26 (5): 595-610.]   
+[26] 朱益民,杨修群,陈晓颖,等.ENSO与中国夏季年际气候异常 关系的年代际变化[J].热带气象学报,2007,23(2):105-116. [Zhu Yimin,Yang Xiuqun,Chen Xiaoying,etal.Interdecadalriation of the relationship between ENSO and summer interannual climatevariabilityin China[J].Journalof TropicalMeteorology, 2007,23(2): 105-116.]
+
+# Synergistic effects of ice and sea surface temperature on the precipitation abnormal in June in the central part of northwest China
+
+WANG Suyan, NA Li, WANG Fan, ZHU Xiaowei， LI Xin, MA Yang, ZHANG Wen (Key Laboratory for Meteorological Disaster Monitoring and Early Warning and Risk Managementof Characteristic Agriculture in Arid Regions,Yinchuan 75OoO2,Ningxia, China)
+
+Abstract:Locatedat the hinterlandofEastAsiaand theedgeof Qinghai-TibetPlateau,thecentral partof northwest China hascomplex terrain and diverse climate types.Most ofthe areas are rain-fed agriculture,which is also the most vulnerable area of the ecological environment. June is the critical period for summer grain crop growth, which has a great influence on climate.In June 2O19,the amount and days of precipitation in most of the central part of northwest China were more accompanied by frequent heavy rainfall.At the same time, there was a rare continuous low temperature and rainy weather. Thus,based on the monthly average height field,wind field reanalysis data of the National Centers for Environmental Prediction (NCEP),NOAA reconstructed sea surface temperature since 1961,the daily precipitation data of54 weather stations in the central part of northwest China in June,and the sea ice area of ten regions in the Arctic since 1979,the causes of precipitation anomalyin the central part of northwest China in June 2O19 was analyzed.The key sea ice areas and period, the key periods of the North Atlantic Triple (NAT)that have a significant impact on the precipitation in June were investigated. Furthermore,the synergistic effect and influence mechanism between the sea ice areas and the NAT with ENSO event were analyzed.The results showed that the correlation between precipitation and altitude field in the central part of northwest China changed significantly in June.Also,the precipitation was abnormal more when the distribution of height anomaly field in middle and high latitudes was the Eurasian 2 pattern (EU2)teleconnection pattern (i.e.,summer EU (Eurasian) teleconnection type) since the 1990s. The precipitation was more when the EU2 is positive phase $^ { 6 6 } + - + - ^ { 5 9 }$ ,and vice versa. The influence of the sea ice area in the Chukchi Sea from March to April and the NAT in spring on $5 0 0 \mathrm { { h P a } }$ altitude field changed significantly since 1990 and 1992,respectively. It had a significant influence on the EU2 teleconnection pattrn,but the influence of NAT is lessthan that of the Chukchi Sea ice area. When the sea ice area was lessand NAT positive phase (sea ice area more and NAT negative phase),the probability of more (less） precipitation in the central part of northwest China increased obviously.ENSO events had no obvious direct impact on the precipitation,but the subtropical high was anomaly stronger and westward in the next year ofthe El Nino event.The Chukchi Sea ice area was abnormaly small with a strong positive phase NAT in spring in 2019,which made the EU2 teleconnection positive anomaly.El Nino event transported water vapor from the Western Pacific Ocean to the North Pacific Ocean, which cooperated with EU2 teleconnection made the cold air and water vapor were enough to make abnormal precipitation in the central part of northwest China.The research results could provide a basis for short-term climate prediction.While all the relationship between the precipitation in June,sea ice area from March to April,NAT in spring,and altitude field in the central part of northwest China had changed since the 199Os,then the interaction of them (air-ice-sea) needs further study.
+
+Key words: the central part of northwest China; precipitation anomaly；atmospheric circulation; sea ice area; sea surface temperature; synergistic impact

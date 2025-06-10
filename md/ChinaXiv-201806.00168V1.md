@@ -1,0 +1,129 @@
+# 人RhoA发生了SUMO化修饰
+
+万滢聪，李春燕，佘佳瑶，王靖雅，陈明南方医科大学神经生物学教研室，广东广州510515摘要：目的探讨人RhoA是否发生SUMO化修饰。方法 运用重叠延伸PCR和双酶切连接方法构建pcDNA3-3flag-RhoA真核表达载体,测序验证。将重组RhoA质粒转染进HEK293T细胞中，免疫印迹检测质粒的表达。将重组RhoA质粒分别和SUMO各型质粒共转染进HEK293T细胞中,细胞免疫荧光检测RhoA与SUMO之间是否存在共定位。免疫共沉淀方法检测RhoA是否发生SUMO化修饰。结果 成功构建pcDNA3-3flag-RhoA重组质粒,测序结果提示存在一个同义突变，其余完全正确;免疫印迹检测重组RhoA质粒能高效表达融合蛋白;免疫细胞化学检测到RhoA与SUMO2/3存在共定位,RhoA与SUMO1不存在共定位；免疫共沉淀检测SUMO2/3对RhoA发生修饰作用，SUMO1对RhoA未发生修饰作用。结论人RhoA发生了SUMO2/3参与的SUMO化修饰，可能参与神经系统损伤后轴突再生的调控。
+
+关键词：RhoA;SUMO化修饰
+
+# Human RhoA is modified by SUMO2/3
+
+WAN Yingcong,LI Chunyan,SHE Jiayao,WANG Jingya,CHENMing Department ofNeurobiology,Southern Medical University,Guangzhou 51o515,China
+
+Abstract: ObjectiveTo investigate whether human RhoAis modified by SUMO.Methods Overlap extension PCRand double digestion technique were used to construct the eukaryotic expresion vector pcDNA3-3flag-RhoA, which was identified by sequencing.The plasmid was transfected into HEK293Tcelsand itsexpression was detectedby Western blotting. Immunofluorescence assay was used to detect whether RhoA isco-localized with SUMO.Co-Immunoprecipitation was used to detect whether RhoA is modified by SUMO.Results The recombinant plasmid pcDNA3-3flag-RhoA was sucessfully constructed and verified. Western blotting showed thatthe recombinant plasmid pcDNA3-3flag-RhoA expressed abundant fusion protein in HEK293Tcels.Immunofluorescence showed that RhoA wasco-localized with SUMO2/3 but not with SUMO1.Co-immunoprecipitation verified that RhoA was modified by SUMO2/3 but not SUMO1.Conclusion Human RhoA is modified by SUMO2/3 and probably participates in the regulation of axon regrowth after nervous system injury.
+
+Keywords: RhoA; SUMOylation
+
+成人中枢神经系统是一个比较复杂的系统，损伤后再生能力和结构可塑能力非常有限，原因是各种各样来自内在或外来的因素参与神经系统损伤后的修复抑制过程，其中局部环境是导致其再生能力缺乏的一个重要原因[1-3]。中枢神经系统损伤后局部环境中存在一些生长抑制因子，可以抑制轴突再生，主要包括3种来源于髓鞘的抑制蛋白：髓鞘相关糖蛋白(MAG)Nogo和少突胶质细胞髓鞘糖蛋白(OMGP)。这些抑制因子均可与Nogo的受体NgR结合，在p75的参与下激活其下游的小分子GTP酶RhoA进而激活Rho激酶ROCK而使多种靶蛋白包括肌动蛋白轻链磷酸化，从而调节神经元细胞骨架的重排，最终导致生长锥的溃变和轴突生长的抑制[1-5]。因此Rho/ROCK激酶系统在中枢神经系统损伤后轴突再生抑制信号传递中起关键的作用，抑制Rho/
+
+ROCK的信号通路是克服多种细胞内外生长抑制因子作用的重要途径[1,6-7]
+
+SUMOs是一种类泛素小分子修饰物，人神经系统中有 SUMO1-33种亚型[8-10]。越来越多的研究发现SUMO在细胞骨架、轴突生长和再生以及损伤神经元的应激反应中扮演着重要的角色[8,11-19]。目前,对于RhoA是否受到SUMO化修饰尚未见报道，鉴于RhoA和SUMO在轴突生长和细胞骨架中的表现和作用[,5-1,20-21],我们推测RhoA与SUMO之间可能存在着某种联系，为了探究这一猜想，我们采用目前公认的两种SUMO化预 测软 件[22-23] SUMOplotTM（http://www.abgent.com/sumoplot)以及SUMOsp2.0对RhoA的SUMO化修饰位点进行了预测，预测结果提示RhoA存在两个高分值SUMO化修饰候选位点，我们推断SUMO化修饰可能是RhoA活性的一种调控机制，在RhoA/ROCK信号通路介导的中枢神经系统损伤后的轴突再生中起着重要的作用。为此，我们运用免疫共沉淀的方法探寻RhoA与SUMO之间的关系，旨在为神经损伤后轴突再生的临床研究提供一定的机制和方向。
+
+# 1 材料和方法
+
+1.1 材料
+
+人胚胎肾细胞HEK293T(ATCC)；引物由鸿讯生物公司合成，限制性内切酶HindⅢ和BamHI购自TaKaRa公司；DNA连接酶和DNA聚合酶购自东洋纺公司；琼脂糖凝胶回收试剂盒和小提质粒试剂盒购自TaKaRa公司；蛋白Marker购自天根生化科技有限公司；pcDNA3-Flag载体为本校病理生理学教研室赠予;GV227-RhoA载体和EX-Mm24840-M12载体为本实验室保存;pcDNA3-HA-SUMO1/2/3为本实验室构建保存；转染试剂TransInTMEL购自Transgen公司;蛋白裂解液NP-40为实验室自配;ProteinA/GPlusAgarose购自SantaCruz公司;NEM购自 Sigma公司;兔源Flag和鼠源HA抗体购自Sigma公司;鼠源Flag抗体购自北京锐抗生物科技有限公司；兔源IgG购自碧云天； $a -$ Tubulin购自武汉博士德生物工程有限公司；ECL化学发光液购自Thermo公司；
+
+# 1.2 方法
+
+1.2.1RhoA的SUMO化修饰位点预测 在NCBI中搜索人RhoA蛋白的氨基酸序列(NP001655.1)，并利用生物软件SUMOplotTM和SUMOsp2.0进行SUMO化修饰分析。
+
+1.2.2pcDNA3-3flag-RhoA重组质粒的构建与鉴定采用重叠延伸PCR技术扩增3flag-RhoA融合基因片段，使用HindⅢI和BamHI酶切位点保护碱基的引物：RhoA-aHindIIIForward:CCCAAGCTTCGGCCACCATGGACTACAAAGACCAT;RhoA-bReverse:GGCAGCCATCTTGTCATCGTCATCCTTGTA；RhoA-cForward:GATGACAAGATGGCTGCCATCCGGAAG;RhoA-dReverse:CGGGGATCCTTACAAGACAAGGCACCCAGATT。
+
+首先以EX-Mm24840-M12为模板，RhoA-a/b为引物，扩增3flag片段;其次以GV227-RhoA为模板，Rho-c/d为引物，扩增RhoA片段;最后以前两次PCR扩增出的3flag和RhoA基因片段为模板，RhoA-a/d为引物，扩增3flag-RhoA融合基因片段。
+
+将PCR所得产物3Flag-RhoA经切胶回收纯化后进行双酶切反应(HindIII/BamHI),同时载体pcDNA3-flag也进行双酶切反应(HindII/BamHI），双酶切条件为 $3 7 ~ \mathrm { ^ { \circ } C }$ 过夜；将酶切后的基因片段和载体回收纯化后进行连接，连接条件为 $1 6 ^ { \circ } \mathrm { C } , 2 \mathrm { h }$ ；取全部连接产物加入到感受态细菌DH5α进行转化，最后涂布含氨苄霉素的LB平板， $3 7 ^ { \circ } \mathrm { C }$ 培养过夜。次晨挑取克隆，小提质粒后行双酶切，酶切产物行琼脂糖凝胶电泳鉴定。经酶切鉴定的阳性克隆送Invitrogen公司测序。
+
+1.2.3HEK293T细胞的转染提前1d行细胞接种：每孔接种 $2 . 5 \times 1 0 ^ { 4 }$ 细胞(24孔板为例)，使转染时细胞密度达到 $70 \% { \sim } 9 0 \%$ 汇合度;将 $0 . 8 ~ \mu \mathrm { g }$ 质粒稀释于 $5 0 ~ \mu \mathrm { L }$ Opti-MEM培养基,加入 $1 . 6 ~ \mu \mathrm { L }$ TransInTMEL,轻柔混匀，室温静置 $1 5 { \sim } 2 0 \ \mathrm { m i n }$ ;将质粒-TransInTMEL复合物加入细胞，于 $3 7 \ \mathrm { { ^ circ C } \ C O _ { 2 } }$ 培养箱培养；转染 $6 \mathrm { { h } }$ 后更换完全培养基，继续培养 $1 8 { \sim } 7 2 \ \mathrm { h } _ { \odot }$
+
+1.2.4细胞免疫荧光在ConfocolⅢ接种HEK293T细胞，待合适汇合度后共转染RhoA和SUMO各型质粒;转染 $2 4 \mathrm { h }$ 后用 $4 \%$ 的多聚甲醛固定 $6 0 ~ \mathrm { { m i n } }$ ;然后用 $0 . 1 \mathrm { m o l }$ PBS液配制 $0 . 3 \%$ Triton $X - 1 0 0 + 5 \%$ BSA的打孔封闭液室温打孔封闭 $^ { \textrm { 1 h } }$ ；用含 $1 \%$ BSA的 $0 . 1 \mathrm { m o l }$ PBS稀释一抗( $1 { : } 5 0 0 \mathrm { H A }$ ,mouse antibody; 1: 5oo Flag,rabbit antibody)室温孵育各 $6 0 ~ \mathrm { { m i n } }$ ；用含 $1 \%$ BSA-0.1mol/LPBS稀释抗鼠荧光二抗Alexa $5 4 9 ( 1 { : } 5 0 0 )$ 和抗兔荧光二抗Alexa$4 8 8 \left( 1 : 5 0 0 \right)$ 混合液，室温孵育 $6 0 ~ \mathrm { { m i n } }$ ；用DAPI染核$3 7 ^ { \circ } \mathrm { C } , 1 5 \operatorname* { m i n } _ { \mathrm { { o } } }$ 甲醇洗 $3 \mathrm { { m i n } \times 1 _ { \mathrm { { c } } } }$ 0.1molPBS洗 $5 \operatorname* { m i n } \times 2 .$ 业尼康共聚焦显微镜下观察拍照收集图像。
+
+1.2.5细胞蛋白提取和免疫印迹取出待提取蛋白的细胞，去掉培养板皿内的培养基，用预冷 $1 \times \mathrm { P B S }$ （内含20mmolNEM)洗2次，弃去PBS，吸干，加入适量的NP-40组织细胞裂解液（内含 $2 0 \mathrm { m m o l } \mathrm { N E M } )$ ，冰上放置 $5 \mathrm { m i n }$ ，将细胞全部刮下，加入磁珠匀浆，程序设定为$4 8 0 0 \ \mathrm { r / m i n } { \times } 1 0 \ \mathrm { s } _ { \odot }$ 。 $4 \mathrm { { ^ { \circ } C } }$ 混悬仪混悬 $2 0 ~ \mathrm { m i n }$ 。离心 $4 \mathrm { { ^ circ C } }$ $1 2 0 0 0 \mathrm { g } , 1 5 \mathrm { m i n }$ ，上清移至新的EP管中，即为提取的全细胞蛋白，进行BCA蛋白定量后可置于- $- 8 0 \ \mathrm { { ^ \circ C } }$ 保存或直接进行下一步实验。蛋白样品上样前 $1 0 0 \ \mathrm { { ^ { \circ } C } }$ 煮 $5 \mathrm { m i n }$ 将电泳装置连接电源,调节电压为 $1 0 0 \mathrm { ~ V } , 7 5 \mathrm { ~ m i n }$ 开始电泳。电泳完毕将胶上蛋白湿转到 $0 . 4 5 \mathrm { ~ m m ~ P V D F }$ 膜中 $( 3 0 0 \ \mathrm { m A } , 3 \ \mathrm { h } )$ 上，室温PVDF膜封闭1h,TBST漂洗3次，加入相应的一抗， $. 4 ^ { \circ } \mathrm { C }$ 孵育过夜。TBST漂洗3次，加入相应的二抗室温孵育1h,TBST漂洗3次，于暗室显影。1.2.6 免疫共沉淀 各IP实验组加入 $1 . 5 ~ { \mu \mathrm { g } }$ Flag抗体,IgG对照组加入 $1 . 5 ~ { \mu \mathrm { g } }$ 同源 $\mathrm { I g G } , 4 ^ { \circ } \mathrm { C }$ 缓慢摇动过夜。加入 $2 0 ~ \mu \mathrm { L }$ 充分重悬的Protein A/GPLUS-Agarose, $4 \mathrm { { ^ \circ C } }$ 缓慢摇动 $\mathrm { 1 \ h _ { \circ } }$ 离心 $\mathrm { : 4 } \ \mathrm { { ‰ } }$ ,弃上清。$0 . 7 5 ~ \mathrm { m L }$ Wash buffer洗涤沉淀,离心 $: 4 \mathrm { \Phi } ^ { \circ } \mathrm { C } , 2 5 0 0 \mathrm { \ r } / \mathrm { m i n }$ $5 \mathrm { m i n }$ ，弃去上清，重复4次。完成最后1次洗涤后，弃去上清，吸干beads上存留的上清,沉淀中加入 $2 0 { \mu \mathrm { L } } 2 \times$ SDS上样缓冲液,震荡后 $1 0 0 \mathrm { { ^ { \circ } C } }$ 煮 $5 \mathrm { m i n }$ ，低速离心后将上清转入新的 $1 . 5 ~ \mathrm { m L }$ 离心管。样品可直接用于蛋白免疫印迹检测或暂时保留在 $- 2 0 \ \mathrm { ^ { \circ } C }$ 。该实验重复3次。
+
+# 2结果
+
+# 2.1RhoA的SUMO化修饰位点预测
+
+我们用生物软件SUMOplotTM对人RhoA的SUMO化修饰进行预测，发现RhoA存在两个高分值SUMO化修饰候选位点(表1)。SUMOsp2.0预测结果与此类似,不予展示。
+
+表1RhoA的SUMO化修饰位点 Tab.1 SUMO modification sites of RhoA   
+
+<html><body><table><tr><td>No</td><td>Position</td><td>Peptide</td><td>Score</td></tr><tr><td>1</td><td>135</td><td>AKMKQEP</td><td>0.80</td></tr><tr><td>2</td><td>140</td><td>EPVKPEE</td><td>0.82</td></tr></table></body></html>
+
+2.2pcDNA3-3flag-RhoA重组质粒的构建与鉴定RhoA基因片段大小为600bp,3flag基因片段为
+
+95bp,3flag-RhoA融合基因片段为677bp(图 $1 \mathrm { A } { \sim } \mathrm { C } )$ 。经酶切、连接、转化后挑取拟阳性克隆做酶切鉴定(HindⅢ/BamHI，图1D)。选取酶切鉴定的阳性克隆送Invitrogen公司测序(图1E)，除了第237位的G突变成A外，其余完全正确。即235\~237位密码子由GAG变成了GAA，但均编码谷氨酸，属于同义突变，不影响后续融合蛋白3flag-RhoA的表达。
+
+![](images/445b697844c6c5e38f747fa28687fb67da0ca810bad88b686a26d688ce32f04d.jpg)  
+图1pcDNA3-3flag-RhoA真核表达载体的构建  
+Fig.1 Construction of the eukaryotic expression vector pcDNA3-3flag-RhoA.A:PCR amplification of RhoA (1: DNA marker; 2: RhoA); B: PCR amplification of 3flag (1: DNA marker; 2: 3flag); C: PCR amplification of 3flag-RhoA (1: DNA marker; 2-4: 3flag-RhoA); D: Enzyme digestion of plasmid pcDNA3-3flag-RhoA of fitted positive clone (1: DNA marker, 2: pcDNA3-flag. 3: plasmid pcDNA3-3flag-RhoA. 4: enzyme-digested plasmid pcDNA3-3flagmBKβ4); E: Part of the sequencing result of pcDNA3-3flag-RhoA.
+
+2.3质粒pcDNA3-3Flag-RhoA在HEK293T细胞中高 效表达
+
+将重组质粒pcDNA3-3Flag-RhoA转染进HEK293T细胞中，培养 $4 8 \mathrm { ~ h ~ }$ 后提蛋白，用标签抗体Flag抗体经免疫印迹检测其表达。该质粒可在HEK293T细胞中高效表达(图2)。
+
+# 2.4细胞免疫荧光实验检测到RhoA与SUMO2/3共定位于胞浆和胞膜
+
+将RhoA分别与SUMO1、SUMO2、SUMO3共转染进HEK293T细胞中，24h后行细胞免疫荧光实验，最后用激光扫描共聚焦显微镜在20倍镜下拍照收集图像
+
+Alexa488标记RhoA显示绿色，Alexa594标记SUMO显示红色。RhoA与SUMO2/3在细胞中共定位于胞浆和胞膜，且在细胞突起结构上共定位比较多，而RhoA与SUMO1在细胞中不存在共定位(图3)。
+
+# 2.5免疫共沉淀证实RhoA发生了SUMO2/3修饰
+
+免疫共沉淀实验以Flag抗体免疫共沉淀细胞裂解液中的RhoA蛋白，最后分别用HA抗体和Flag抗体做免疫印迹检测，RhoA与SUMO2或SUMO3共转组在\~$8 0 ~ \mathrm { K D a }$ 位置处出现阳性共价修饰条带，而RhoA与SUMO1共转组则未出现阳性共价修饰条带(图4)。该实验证实SUMO2/3对RhoA发生了修饰作用，SUMO1对RhoA未发生修饰作用。其中在RhoA单转组用Flag抗体免疫印迹检测到800000处阳性条带，考虑为内源性SUMO2/3对RhoA产生了SUMO化修饰而被检测到。
+
+![](images/66a7bc7b2cf2b684255c4ed68822e749fd0927ceba4ef95afa87436ebb466bae.jpg)  
+图2质粒pcDNA3-3Flag-RhoA在HEK293T细胞中的表达Fig.2 Expression of plasmid pcDNA3-3Flag-RhoAin HEK293T cells.
+
+# 3讨论
+
+神经损伤后的功能恢复是神经系统疾病中的研究热点和难点，目前认为受损神经元的轴突再生和突触形成与神经功能的恢复密切相关[324],Rho/ROCK激酶系统在中枢神经系统损伤后轴突再生抑制信号传递中起关键的中介作用，所以阻断RhoA的激活成为了促进轴突再生最有前景的治疗方法之一[1,7,21]。RhoA广泛表达于各组织和细胞，且在神经系统分布广泛，是肌动蛋白和微管细胞骨架形成的重要调节因子，调节轴突分支，树突棘的形态发生，神经元生长锥的发展和轴突导向[20-21,25]SUMO化修饰在轴突的再生和受损神经元的应激反应中扮演着重要的角色[9，如RNA结合蛋白La的SUMO化修饰对轴突mRNA的运输和蛋白合成有直接的影响，而影响轴突的再生，包括生长锥的生长和突触可塑性[15]
+
+![](images/63e20bfcfbacb65677298ec9b9ef6214f28d71443e4de27a8f7dabae437f28b4.jpg)  
+图3RhoA与SUMO2/3共定位于HEK293T细胞的胞浆和胞膜 Fig.3Co-localizationof RhoAand SUMO2/3 bothonthe membraneand inthecytoplasmofHEK293Tcels (Scalebar=10 μm).
+
+RhoA的翻译后修饰有多种，如磷酸化、糖基化和泛素化等，这些修饰作用通过影响RhoA的活性而起到影响细胞骨架和细胞运动的作用，如Cullin家族脚手架蛋白Cul3对RhoA的泛素化作用使RhoA发生降解而起到控制肌动蛋白骨架和细胞运动的作用[2，蛋白毒素PaTox对RhoA的糖基化作用抑制RhoA的活性并阻止RhoA与其下游因子的相互作用，从而诱导肌动蛋白的分解、细胞吞噬作用的抑制以及细胞毒性反应[27]，cGMP/cGMP-依赖蛋白酶对RhoA的磷酸化作用抑制RhoA的信号传导而起到抑制肌动蛋白重组和应力纤维形成的作用[28]。但RhoA的SUMO化修饰目前尚未见报道。在此我们发现了RhoA的一种新的翻译后修饰形式,即RhoA的SUMO化修饰。这种修饰作用可能为后续RhoASUMO化修饰研究的体内实验提供理论和实验依据，并可能为神经损伤后的轴突再生治疗寻找到新的作用靶点。
+
+![](images/13091b4f25e0a9ecacbb74c11da3a85ee577b82fb543d45a8bbfded7e797265e.jpg)  
+图4免疫共沉淀检测RhoA与SUMO2/3存在相互作用 Fig.4 Co-immunoprecipitation verifies that exogenous RhoA is covalentlymodifiedby SUMO2/3. $\bigtriangleup$ indicates unspecific bands.
+
+![](images/9885bdb78a5b4cecbe289c76d44444cb87453ee4196100afc7ad7a6d66fe1c88.jpg)
+
+细胞免疫荧光实验结果提示RhoA与SUMO2/3在HEK293T细胞中共定位于胞浆和胞膜，且在细胞突起和伪足结构存在较多共定位，这提示RhoA与SUMO2/3可能存在相互作用，且两者的相互作用可能对细胞结构起着某种重要的作用，而RhoA与SUMO1在细胞中不存在共定位；免疫共沉淀实验结果证实RhoA与SUMO2/3存在相互作用，RhoA与SUMO1不存在相互作用，且SUMO2/3对RhoA的修饰使其蛋白相对分子质量提高55000。免疫共沉淀实验结果与细胞免疫荧光实验结果提示意义一致，充分证明在外源转染HEK293T细胞条件下人RhoA发生了SUMO2/3修饰，且RhoA的SUMO2/3修饰可能对细胞结构起着某种重要的作用。在蛋白质的相对分子质量上SUMO化修饰的RhoA比单独的RhoA提高了55000左右，这相当于SUMO单个分子质量的3\~4倍,结合SUMO2/3对底物蛋白的修饰往往是以SUMO链的形式结合到底物蛋白赖氨酸残基上这一特点，我们推测SUMO对RhoA的修饰很可能是以3\~4个SUMO形成的SUMO链的形式共价结合到RhoA的SUMO化修饰预测位点的某一个位点上，这有待后续使用基因突变等方法进行探究。Semenova等[29]在2007年报道，RhoA在神经元兴奋性毒性过程中活性显著升高,并介导随后的细胞死亡。敲低RhoA的表达显著减少退行性凋亡信号和增加轴突再生[30-31],这提示RhoA是脊髓损伤后细胞内抑制轴突再生和退行性神经元死亡的靶点，RhoA活性提高增大了神经元的死亡和轴突再生抑制。结合细胞免疫荧光实验图片所见，与共转SUMO1组相比，共转SUMO2/3组的HEK293T细胞生长状态较好，细胞突起和伪足较多，我们推测SUMO2/3对RhoA的修饰可能参与RhoA活性的抑制作用。结合HuangS等[32的研究电针刺激可下调RhoA/Rock激酶活性而促进轴突再生,我们推断SUMO2/3对RhoA的修饰作用很可能抑制了RhoA的活性，一定程度降低RhoA/ROCK激酶系统的激活，从而起到保护细胞和促进轴突生长的作用。综上所述，SUMO2/3可能对RhoA发生修饰作用，形成SumoRhoA复合物，定位在生长锥部位，调控RhoA的活性，从而影响受损神经元的轴突再生状况。本实验揭示了RhoA的一种新的翻译后修饰方式,但其修饰位点、作用部位以及是否调控受损神经元的轴突再生尚有待进一步研究。
+
+# 参考文献：
+
+[1]Fujita Y,Yamashita T.Axon growth inhibition by RhoA/ROCK ir
+
+the central nervous system[J].Front Neurosci,2014,8: 338.   
+[2]Sandvig A,Berry M, Barrett LB,et al.Myelin-,reactive glia-,and scar-derived CNS axon growth inhibitors: expression,receptor signaling,and correlation with axon regeneration[J]. Glia, 2004,46 (3): 225-51.   
+[3] Shin JE, Cho Y. Epigenetic regulation of Axon regeneration after neural injury[J].Mol Cells,2017,40(1): 10-6.   
+[4] Wang KC,Kim JA, Sivasankaran R, et al. P75 interacts with the Nogo receptor as a co-receptor for Nogo,MAG and OMgp [J]. Nature,2002,420(6911): 74-8.   
+[5]Dergham P, Ellezam B,Essagian C,et al. Rho signaling pathway targeted to promote spinal cord repair[J].JNeurosci,2002,22(15): 6570-7.   
+[6]Huesa G,Antonia Baltrons M, Gomez-Ramos PA,et al.Altered distribution of RhoA in alzheimer's disease and a beta PP overexpressing mice[J].JAlzheimers Dis,2010,19(1): 37-56.   
+[7]Kobayashi K,Takahashi M,Matsushita N,et al.Survival of developing motor neurons mediated by Rho GTPase signaling pathway through Rho-kinase[J].JNeurosci,2004,24(14): 3480-8.   
+[8] Gareau JR, Lima CD.The SUMO pathway: emerging mechanisms that shape specificity,conjugation and recognition[J].Nat Rev Mol Cell Biol,2010,11(12): 861-71.   
+[9]Meulmeester E, Melchior F. Cell biology: SUMO[J].Nature, 2008, 452(7188): 709-11.   
+[10]Jackson SP, Durocher D. Regulation of DNA damage responses by ubiquitin and SUMO[J]. Mol Cell,2013,49(5): 795-807.   
+[11]Feligioni M, Nistico RS.SUMO: a (oxidative)stressed protein[J]. Neuromolecular Med,2013,15(4): 707-19.   
+[12]Castilo-Lluva S,Tatham MH,Jones RC,et al. SUMOylation of the GTPase Racl is required for optimal cell migration［J].Nat Cell Biol,2010,12(11): 1078-85.   
+[13]Liu J, Zhang D,Luo W,etal. X-linked inhibitorof apoptosis protein (XIAP）mediates cancer cell motility via Rho GDP dissociation inhibitor(RhoGDI)-dependent regulation of the cytoskeleton[J].J Biol Chem,201,286(18): 15630-40.   
+[14]Yu J, Zhang D,Liu J,et al. RhoGDI SUMOylation at Lys-138 increases its binding activity to Rho GTPase and its inhibiting cancer cell motility[J].JBiol Chem,2012,287(17): 13752-60.   
+[15]Van Niekerk EA, Wilis DE,Chang JH,et al. Sumoylation in axons triggers retrograde transport of the RNA-binding protein La[J]. Proc Natl Acad Sci USA,2007,104(31): 12913-8.   
+[16] Cimarosti H,Ashikaga E, Jaafari N,et al. Enhanced SUMOylation and SENP-1 protein levels following oxygen and glucose deprivation in neurones［J].J Cereb Blood Flow Metab,2012,32 (1): 17-22.   
+[17] Cimarosti H,Lindberg C,Bomholt SF,et al. Increased protein SUMOylationfollowingfocalcerebralischemia[J]. Neuropharmacology,2008,54(2): 280-9.   
+[18] Yang W, Sheng H,Warner DS,et al. Transient focal cerebral ischemia induces a dramatic activation of small ubiquitin-like modifier conjugation[J].J Cereb Blood Flow Metab,2008,28(5): 892-6.   
+[19]Alonso A,GreenleeM, Mats J,et al. Emerging roles of sumolation in the regulation of actin,microtubules,intermediate filaments,and septins[J].Cytoskeleton,2015,72(7):305-39.   
+[20]Govek EE,Newey SE,Van Aelst L. The role of the Rho GTPases in neuronal development[J].Genes Dev,2005,19(1):1-49.   
+[21]Kusano K,Enomoto M, Hirai T,et al.Enhancementof sciaticnerve regeneration by adenovirus-mediated expression of dominant negative RhoA and Rac1[J]. Neurosci Lett, 2011,492(1): 64-9.   
+[22] Kho C, Lee A, Jeong D,et al. SUMOl-dependent modulation of SERCA2a in heart failure[J].Nature,2011,477(7366): 601-U263.   
+[23]Rajan S,Plant LD,Rabin ML,et al. Sumoylation silences the plasma membrane leak $\mathrm { K ^ { + } }$ Channel K2P1[J].Cell,2005,121(1): 37-47.   
+[24]Neukomm LJ, Burdett TC, Seeds AM, et al. Axon death pathways converge on axundead to promote functional and structural Axon disassembly[J].Neuron,2017,95(1): 78.   
+[25]Stankiewicz TR,Linseman DA. Rho family GTPases: key players in neuronal development, neuronal survival,and neurodegeneration [J].Front Cell Neurosci, 2014,8: 314.   
+[26] Chen Y, Yang Z, Meng M, et al. Cullin mediates degradation of RhoA through evolutionarily conserved BTB adaptors to control actin cytoskeleton structure and cell movement[J]. Mol Cell,2009, 35(6): 841-55.   
+[27]Jank T,Bogdanovic X, Wirth C,et al. Abacterial toxin catalying tyrosine glycosylation of Rho and deamidation of G(q) and G(i) proteins[J].Nat Struct Mol Biol,2013,20(11): 1273-80.   
+[28]Sawada N, Itoh H,Yamashita J,etal.cGMP-dependent protein kinase phosphorylates and inactivates RhoA[J].Biochem Biophys Res Commun,2001,280(3): 798-805.   
+[29]Semenova MM, Maki-Hokkonen AM, Cao J, et al. Rho mediates calcium-dependentactivationofp38alphaandsubsequent excitotoxic cell death[J].Nat Neurosci,2007,10(4): 436-43.   
+[30]Fiorentini C,Falzano L,Travaglione S,et al. Hijacking Rho GTPases by protein toxins and apoptosis: molecular strategies of pathogenic bacteria[J].Cell Death Differ,2003,10(2):147-52.   
+[31]Hu J, SelzerME.RhoAas atargetto promote neuronalsurvivaland axon regeneration[J].Neural Regen Res,2017,12(4): 525-8.   
+[32]Huang SE,Huang DX, Zhao JP,et al. Electroacupuncture promotes axonal regeneration in rats with focal cerebral ischemia through the downregulation of Nogo-A/NgR/RhoA/ROCK signaling[J].Exp Ther Med,2017,14(2): 905-12.

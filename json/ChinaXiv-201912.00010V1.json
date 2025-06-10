@@ -1,0 +1,509 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of three types of soil amendments on yield and soil nitrogen balance of maize-wheat rotation system in the Hetao Irrigation Area, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Yan1.2, LI Fei12, ZHENG Haichun1.3, HONG Mei1.2, HU Yuncai4, ZHAO Bayinnamulal1,2, DE Haishan1.2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1College ofGrassland,Resources and Environment,Inner Mongolia Agricultural University,Hohhot O1018,China;   \n2 Inner Mongolia Key Laboratory of Soil Quality and Nutrient Resources,Hohhot O10o18,China;   \n3SoiladFertilizerStationofInerMongoliaHohhotOo1,China;   \n4DepartmentofPlant Sciences,TechnischeUniversitatMnchen,Emil-Raman-Str.2,D-85350Freising-Weihenstephan,   \nGermany ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Excessive fertilization combined with unreasonable irrigation in farmland of the Hetao Irrigation Area (HIR),China,has resulted in a large amount of nitrogen $\\mathrm { ( N ) }$ losses and agricultural non-point source polution. Application of soil amendments has become one of the important strategies for reducing N losses of farmland.However,there is still no systematic study on the effects of various soil amendments on $\\mathrm { \\Delta N }$ losses in the HIR. In this study, three types of soil amendments (biochar, bentonite and polyacrylamide) were applied in a maize-wheat rotation system in the HIR during 2015-2017. Yields of maize and wheat, soil $\\mathrm { N H } _ { 3 }$ volatilization, $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission and $\\mathrm { N O } _ { 3 } -$ leaching were determined and soil N balance was estimated. The results showed that applications of biochar,bentonite and polyacrylamide significantly increased yields of maize by $9 . 2 \\%$ ， $14 . 3 \\%$ and $13 . 3 \\%$ ,respectively, and wheat by $9 . 2 \\%$ $1 6 . 6 \\%$ and $1 2 . 3 \\% .$ ,respectively,compared with the control (fertilization alone). Applications of biochar, bentonite and polyacrylamide significantly reduced soil $\\mathrm { \\Delta N }$ leaching by $23 . 1 \\%$ ， $3 5 . 5 \\%$ and $2 7 . 1 \\%$ ，soil $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization by $34 . 8 \\%$ ， $5 2 . 7 \\%$ and $3 7 . 8 \\%$ ，and soil $\\mathrm { \\Delta N }$ surplus by $23 . 9 \\%$ 。 $3 7 . 4 \\%$ and $3 0 . 6 \\%$ ，respectively. Applications of bentonite and polyacrylamide significantly reduced $N _ { 2 } \\mathrm { O - N }$ emissions from soil by $3 7 . 3 \\%$ and $3 5 . 8 \\%$ ,respectively, compared with the control. Compared with application of biochar, applications of bentonite and polyacrylamide increased yields of maize and wheat by $5 . 1 \\%$ and $3 . 5 \\%$ ,respectively. Our results suggest that soil amendments (bentonite and polyacrylamide) can play important roles in reducing N losses and increasing yield for the maize-wheat rotation system in the HIR, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: biochar; bentonite; polyacrylamide; maize; nitrogen loss; nitrogen balance; wheat ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:WUYan,LIFei,ZHENG Haichun,HONG Mei,HU Yuncai,ZHAO Bayinnamula,DE Haishan.2019.Effectsof three typesofsoilamendmentsonyieldandsoilnitrogen balanceofmaize-wheat rotationsysteminthe Hetao Irigation Area,China.Journal of Arid Land,11(6):904-915.https://doi.org/10.1007/s40333-019-0005-x ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen (N） fertilizer is important for crop production in agriculture (Spiertz, 2O1O; Liu et al., 2013).It is estimated that the use of mineral N fertilizer accounted for about $30 \\% - 5 0 \\%$ increase in crop yield (Ni et al., 2013; Lin et al., 2016). However, over use of $\\mathrm { \\bf N }$ fertilizer that is a common practice in agriculture can result in significant N losses.Moreover, over use of N fertilizer is responsible for air polltion, eutrophication and groundwater pollution (Jussy et al., 2OO4; Sutton et al.,2011; Yang et al.,2O15; Shang et al., 2016). Therefore,effective measures to reduce N losses in agriculture have received considerable atentions in various areas, especially in irrigated area (Cameron et al.,2013; Geng et al., 2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "N losses in agriculture are mainly influenced by climatic and soil conditions. However, effective agricultural practices play vital roles in reducing N losses. Recently,studies have shown that soil amendments such as biochar， silicate minerals (bentonite） and organic polymers (polyacrylamide) could effectively reduce N losses (Golbashy et al.,2O17; Yang et al.,2017). The reason is that the larger specific surface area and functional groups of biochar increase the adsorption capacity of soil inorganic $\\mathbf { N }$ and significantly reduce the substrate concentrations of nitrification and denitrification (Clough et al., 2O13; Cayuela et al., 2O14; Thies et al.,2015). Similarly,polyacrylamide and bentonite are able to adsorb $\\mathbf { N }$ and to release N slowly, due to the network structure formed by the interaction of polyacrylamide and soil， special structural characteristics and physicochemical property of bentonite (Singh et al.,2O1O; Qin et al., 2012; Abrol et al., 2013; Geng et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hetao Irrigation Area (HIR) is located in Northwest China,belonging to arid and semi-arid areas (Kerschbaumer et al.,2Ol5),and is one of the three major irrigation areas in China and an important area in China for cereal production such as wheat, maize and cash crop like sunflower (Xue et al., 2017). However, application of $\\mathrm { \\bf N }$ fertilization in the HIR has been rapidly increasing, and has reached more than $5 0 0 ~ \\mathrm { k g } ~ \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ .The over use of $\\mathbf { N }$ fertilizer combined with flooding irrigation has aggravated agricultural non-point source (ANPS） pollution in the HIR (Wu et al., 2017). Nitrate concentration of groundwater has exceeded $2 0 ~ \\mathrm { { m g / L } }$ in the HIR,which was higher than the limit of $1 0 ~ \\mathrm { { m g / L } }$ as the maximum safety level for drinking water. Nitrate leaching from farmland is considered as the major contribution to groundwater $\\mathbf { N }$ contamination (Wu et al., 2017).Furthermore, Xu et al. (2012) and Wang et al. (2016) showed that flooding irrigation can also significantly increase ${ \\bf N } _ { 2 } \\mathrm { O }$ and $\\mathrm { N H } _ { 3 }$ emissions compared with water-saving irrigation. Therefore,N losses of farmland in the HIR should be investigated. Since ANPS pollution of farmland in the HIR is increasing, we hypothesized that soil amendments provides an opportunity to increase crop yield and reduce Nlosses of farmland in the HIR. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Therefore,the objectives of this study were to apply soil amendments (biochar,bentonite and polyacrylamide) under optimal N fertilization for a 2-year maize and 1-year wheat rotation system in the HIR,to investigate the effects of different soil amendments on crop (maize and wheat) yield and soil Nlosses. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study area $( 4 0 ^ { \\circ } 2 6 ^ { \\prime } – 4 1 ^ { \\circ } 1 3 ^ { \\prime } \\mathrm { N } _ { \\mathrm { : } }$ $1 0 6 ^ { \\circ } 3 4 ^ { \\prime } – 1 0 7 ^ { \\circ } 3 4 ^ { \\prime } \\mathrm { E } )$ belonging to the HIR was located in Hanggin Rear Banner, Bayannur City， Inner Mongolia Autonomous Region， China. The soil of experimental site is mainly sulfate chlorinated salinity soil. The basic physical and chemical properties of the top soil layer $( 0 { - } 2 0 ~ \\mathrm { c m } )$ were as follows: pH, 8.20; total $\\mathrm { N } , 1 . 6 3 \\ \\mathrm { g / k g }$ ： $N O _ { 3 } { } ^ { - } { - } N$ $7 . 4 0 ~ \\mathrm { m g / k g }$ ; and $\\mathrm { N H _ { 4 } ^ { + }  – N } , 3 . 2 0 \\mathrm { m g / k g } .$ （ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Maize (Zea mays L. cv. Internal Single 314) and wheat (Triticum aeslivum L. cv. Yongliang 4) were used in this study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Straw biochar was purchased from Liaoning Jinhefu Agricultural Development Co., Ltd. The basic physical and chemical properties of straw biochar were as follows: pH, 9.67; carbon content, $7 0 . 3 8 \\%$ ； hydrogen content, $1 . 6 8 \\%$ ； sulfur content, $0 . 7 8 \\%$ ：， $\\mathbf { N }$ content, $1 . 5 3 \\%$ ； and ash content, $3 1 . 8 0 \\%$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bentonite was purchased from Inner Mongolia Tianyu Co., Ltd. with a size of 325-mesh and ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CEC(cation exchange capacity） was 78 cmol/kg. The $\\mathrm { \\ p H }$ was 8.26. Polyacrylamide was purchased from Eisen Company of France with a high molecular weight $( 1 . 2 { \\times } 1 0 ^ { 6 } \\mathrm { g } / \\mathrm { m o l } )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fertilizers of diammonium phosphate ( $18 \\%$ （204号 $\\mathbf { N }$ and $16 \\%$ （204号 ${ \\bf P } _ { 2 } { \\bf O } _ { 5 }$ )，common urea( $4 6 \\%$ N)and potassium sulfate ( $5 0 \\% \\mathrm { K } _ { 2 } \\mathrm { O } )$ were purchased from Inner Mongolia Gengyu Chemical Co.Ltd. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therewere fourtreatmentsinthisstudy，i.e.， formula fertilization(F)， formula fertilization+biochar(FC)，formulafertilization+bentonite(FB）andformula fertilization $^ +$ polyacrylamide (FP). Treatments were arranged in a randomized block design with three replications. Size of plot was $1 3 3 ~ \\mathrm { m } ^ { 2 }$ 0 $\\mathrm { 1 9 ~ m } { \\times } 7 \\mathrm { ~ m } \\mathrm { ) }$ with $3 0 \\mathrm { c m }$ ridge between plots. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Spacing of maize was $2 0 ~ \\mathrm { c m }$ between plants in each planting row and $6 0 ~ \\mathrm { c m }$ between rows. Planting density of maize was $8 . 2 5 { \\times } 1 0 ^ { 4 }$ strains $/ \\mathrm { h m } ^ { 2 }$ . Spacing of wheat was $2 \\mathrm { c m }$ between plants in each planting row and $1 2 \\mathrm { c m }$ between rows.Wheat seed dosage was $4 5 0 \\mathrm { k g / h m } ^ { 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil amendments and fertilizer were incorporated into the $0 { - } 2 0 ~ \\mathrm { c m }$ top soil layer. Rates of biochar，bentonite and polyacrylamide were 15OO,6OOO and $7 5 \\mathrm { \\ k g / h m } ^ { 2 }$ ，respectively. The overview of experimental dates and fertilizer rates was shown in Table 1.There was once harvest within a yearin the HIR. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5158536201856787e8f5715830724ca462053607b2a6bdabbfbb45fbdb56d054.jpg",
+        "table_caption": [
+            "Table1Sowing,harvest,fertilizing and irrigation dates (date pattern of $\\mathrm { m m / d d / y y }$ is used) and fertilizer rate in the Hetao Irrigation Area during 2O15-2017 "
+        ],
+        "table_footnote": [
+            "Note:BF,basalfertiler;TD,topdresingfertiler;DP,dammoumospate;PS,potassumsufate;CU,coorea "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Crop</td><td rowspan=\"2\">Sowing date (mm/dd/yy)</td><td rowspan=\"2\">Harvest date (mm/dd/yy)</td><td rowspan=\"2\">Fertilizing date and type (mm/dd/yy)</td><td rowspan=\"2\">Fertilizer rate (kg/hm²)</td><td rowspan=\"2\">Irrigation date (mm/dd/yy)</td></tr><tr><td></td></tr><tr><td>Maize</td><td>04/27/2015</td><td>09/16/2015</td><td>04/25/2015 (BF)</td><td>637.5 (DP)+187.5 (PS)</td><td></td></tr><tr><td rowspan=\"8\"></td><td></td><td></td><td>06/19/2015 (TD)</td><td>304 (CU)</td><td>06/20/2015</td></tr><tr><td></td><td></td><td>07/09/2015 (TD)</td><td>152 (CU)</td><td>07/10/2015</td></tr><tr><td></td><td></td><td></td><td></td><td>08/15/2015 11/08/2015</td></tr><tr><td>05/02/2016</td><td>09/20/2016</td><td>04/30/2016 (BF)</td><td>637.5 (DP)+187.5 (PS)</td><td></td></tr><tr><td></td><td></td><td>06/21/2016 (TD)</td><td>304 (CU)</td><td>06/22/2016</td></tr><tr><td></td><td></td><td>07/10/2016 (TD)</td><td>152 (CU)</td><td>07/11/2016</td></tr><tr><td></td><td></td><td></td><td></td><td>08/10/2016</td></tr><tr><td></td><td></td><td></td><td></td><td>11/12/2016</td></tr><tr><td>Wheat</td><td>03/24/2017</td><td>07/15/2017</td><td>03/23/2017 (BF)</td><td>255 (DP)+75 (PS)</td><td></td></tr><tr><td></td><td></td><td></td><td>05/06/2017 (TD)</td><td>225 (CU)</td><td>05/07/2017</td></tr><tr><td></td><td></td><td></td><td>05/28/2017 (TD)</td><td>120 (CU)</td><td>05/29/2017</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>06/13/2017</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>06/30/2017</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>11/03/2017</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Soil and plant sampling and chemical analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 Irrigation and rainfall collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rainfall collection device was a square polypropylene tray ( $( 6 0 ~ \\mathrm { c m } { \\times } 3 0 ~ \\mathrm { c m } { \\times } 1 0 ~ \\mathrm { c m } )$ ). The tray was horizontally fixed on a bracket of $3 0 \\mathrm { - c m }$ height in each plot. Rainfall amount was measured after each rain event, and then the water sample from rainfall was taken to determine contents of $\\mathrm { \\Delta N H _ { 4 } ^ { + }  – N }$ and ${ \\tt N O } _ { 3 } { \\mathrm { ' } } { \\mathrm { - } } { \\tt N }$ . Similarly，water sample from irrigation was also determined. Total N depositions from irrigation and rainfall were then calculated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.2Determination of plant sampling and total $\\mathrm { \\bf N }$ content Crops (maize and wheat) were harvested at maturity in each plot. Plant grain and straw samples were oven-dried at $1 0 5 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { m i n }$ ,and then at $8 0 ^ { \\circ } \\mathrm { C }$ for $^ { 7 2 \\mathrm { ~ h ~ } }$ to determine plant water content (Yao et al.,2OO7).Dried samples were ground through a $0 . 1 5 \\mathrm { - m m }$ sieve,and used for total N analysis. Total $\\mathbf { N }$ content of plant was determined using a flow analyzer (Model AA3, Bran+Luebbe,Germany)after wet digestion with $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } \\mathrm { - H } _ { 2 } \\mathrm { O } _ { 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.3Determination of $\\mathrm { N H } _ { 3 }$ -Nvolatilization ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization was determined by the Venting method (Wang et al.，2002). $\\mathrm { N H } _ { 3 }$ -N volatilization collection device was made of polyvinyl chloride plastic tube（ $1 5 \\ \\mathrm { c m }$ in diameter and $1 0 \\mathrm { c m }$ in height). Two sponges of $2 \\mathrm { c m }$ in thickness and $1 5 \\mathrm { c m }$ in diameter were placed in the plastic tube,after absorbing $1 5 ~ \\mathrm { m L }$ of the glycerol phosphate solution ( $5 0 ~ \\mathrm { m L }$ phosphoric acid $+ 4 0$ （204 mL glycerol, constant volume to $1 0 0 0 ~ \\mathrm { { m L } }$ ). The lower sponge was $5 \\mathrm { c m }$ from the bottom of tube and the upper sponge was flat with the top of tube. Three $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization devices were placed in random locations for each plot and samples were taken at O8:Oo (LST). $\\mathrm { N H } _ { 3 }$ -N samples were daily measured for first $2 \\textrm { d }$ after fertilization and then once a week afterwards.The lower sponge was loaded into a ${ 5 0 0 } \\mathrm { - m L }$ plastic shaker and extracted with 2 mol/L KCl solution. Content of $\\mathrm { { N H _ { 4 } } ^ { + } { - N } }$ in the extract solution was determined by the flow analyzer. $\\mathrm { N H } _ { 3 }$ -N volatilization rate was derived from the following equation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = ( M / ( A \\times D ) ) { \\times } 1 0 ^ { - 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $V$ is the $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization rate $( \\mathrm { k g } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { d } ) )$ ： $M$ is the $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ content absorbed by each sponge (mg); $A$ is the cross-sectional area $( \\mathbf { m } ^ { 2 } )$ of the capture device;and $D$ is the time of each successive measurement (d). Cumulative volatilization of $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ $( \\mathrm { k g \\ N / h m ^ { 2 } } )$ ）was calculated by summing daily $\\mathrm { N H } _ { 3 }$ -N volatilization during growing period. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.4 ${ \\bf N } _ { 2 } { \\bf O } { - \\bf N }$ gas collection and monitoring ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "${ \\bf N } _ { 2 } { \\bf O } { - \\bf N }$ emission was determined by the static chamber-gas chromatographic method (Wang et al., 2017). The sampling system consists of two parts: box and pedestal. The box was made of $1 . 2 – \\mathrm { m m }$ thick stainless steel plate,and the size was $5 0 ~ \\mathrm { c m } { \\times } 5 0 ~ \\mathrm { c m } { \\times } 5 0 ~ \\mathrm { c m }$ 、A three-way valve is installed in the center of the box and has a thermometer beside it to monitor air temperature. Outer layer of the box was wrapped with foam for holding air temperature.A small fan was instaled on the top of the box for mixing gas.The pedestal was located at random position in each plot,which size was $5 0 \\mathrm { c m } { \\times } 5 0 \\mathrm { c m } { \\times } 1 5 \\mathrm { c m }$ .The pedestal was inserted into a $1 2 \\mathrm { - c m }$ soil layer. Inside of the pedestal didn't grow crops and the pedestal was no longer moved during whole growing period. There was a sink on the pedestal for water injection to seal the chamber. $N _ { 2 } O - N$ samples were daily measured for $2 \\mathrm { d }$ after fertilization and then once a week afterwards. Four gas samples from each box were collected using a syringe at $1 0 \\ \\mathrm { m i n }$ intervals between O9:00 and 11:30 on every sampling day. Synchronous with gas collection, soil temperature (by thermometer) and soil moisture (by oven drying method) in the $0 { - } 2 0 ~ \\mathrm { c m }$ soil layer were monitored. ${ \\bf N } _ { 2 } { \\bf O } { - \\bf N }$ samples were analyzed with a Picarro Cavity Ring-Down Spectroscopy Analyzer (Model G2308, Picarro Inc., Santa Clara, California). We calculated daily ${ \\bf N } _ { 2 } \\mathrm { O }$ emission based on the following linear regression equation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF E = \\frac { M } { V _ { 0 } } \\times \\frac { \\Delta C } { \\Delta t } \\times \\frac { 2 7 3 } { ( 2 7 3 + T ) } \\times H ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $F E$ is the gas emission of ${ \\bf N } _ { 2 } \\mathrm { O }$ （204号 $( \\mathrm { m g } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { h } ) )$ ： $M$ is the mole mass of $\\mathrm { N } _ { 2 } \\mathrm { O } \\ \\mathrm { ( g / m o l ) } ; \\ V$ $V _ { 0 }$ is the volume of ${ \\bf N } _ { 2 } \\mathrm { O }$ under standard condition $\\mathrm { ( m L ) }$ ： $\\Delta C / \\Delta t$ is the slope of linear regression of gas concentration with time approaching zero; $T$ is the temperature ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { C } { \\mathrm { ) } }$ ; and $H$ is the chamber height above water surface (cm). Cumulative $\\mathrm { N } _ { 2 } \\mathrm { O - N }$ emission $( \\mathrm { k g \\ N / h m ^ { 2 } } )$ ） was calculated by summing amount of daily $\\mathrm { N } _ { 2 } \\mathrm { O - N }$ emission. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.5Leaching water collection and determination of $\\mathbf { N }$ leaching ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Leaching water was collected by the method of in situ lysimeter (Cameron et al.,2O13). Drainage collector used in the experiment consists of a polypropylene disc (collector） $( 6 0 ~ \\mathrm { c m } { \\times } 3 0 ~ \\mathrm { c m } { \\times } 1 0$ cm) and a $2 5 { \\cdot } \\mathrm { L }$ polypropylene bucket (sample storage） connected with plastic pipes (Weihermuller et al., 2Oo7). Filter was installed in plastic nozzle to prevent the soil from entering bucket. A $1 . 5 – \\mathrm { m }$ deep pit was dug in the center of the plot,and the bucket was placed at the lowest point. A hole of $6 0 \\ { \\mathrm { c m } } { \\times } 1 0 \\ { \\mathrm { c m } } { \\times } 3 0 \\ { \\mathrm { c m } }$ at the $1 \\mathrm { { - m } }$ horizon in the soil section was used to place the collector. A 1Oo-mesh nylon net was fixed on the top of collctor, so that the upper surface of collector was tightly bonded with the upper soil layer. Plastic tube in polypropylene barrel was pulled up to $5 0 \\mathrm { c m }$ above the ground,and soil layered landfill. The upper end of plastic tube access to sampling bottle $( 1 0 \\mathrm { L } )$ ,and sampling bottle was connected to a buffer bottle $( 2 \\mathrm { L } )$ and followed by a vacuum pump. The amount of water leached was measured after irrigation and harvest. A certain volume of water sample was collected and stored at low temperature. Concentrations of $\\mathrm { { N H _ { 4 } } ^ { + } { - N } }$ and $N O _ { 3 } ^ { - } { } ^ { - } { \\bf - N }$ were determined by the flow analyzer on the next day. Total leached $\\mathbf { N }$ content $( \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 } )$ was calculated by summing amount of N leaching after irrigation and harvest. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.6Soil sampling ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After plants were harvested, samples were collected at $2 0 \\mathrm { - c m }$ intervals from the $0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ soil layer using a soil auger ( $5 \\ \\mathrm { c m }$ in diameter).Each plot had two soil cores taken diagonally, and samples of the same depth were mixed and homogenized for each plot. Soil was extracted with 2 mol/L KCl (soil to water ratio 1:1O), and $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ and $N O _ { 3 } ^ { - } { } ^ { - } \\mathbf { N }$ contents were determined by the flow analyzer. Total $\\mathbf { N }$ in soil was determined by the semi-trace Kaiser method. Soil water mixture (1:5) was analyzed for $\\mathrm { p H }$ by the potentimetric method. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 Calculation of soil N balance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study, soil $\\mathbf { N }$ balance was calculated by the following equation (Ju et al.,2006): N surplus $\\ c =$ input components (N fertilizer $+ \\mathrm { N }$ from irrigation $+ \\mathrm { N }$ from rainfall)-output components (N removed by aboveground plant parts), (3) where $\\mathbf { N }$ surplus $( \\mathrm { k g \\ N / h m ^ { 2 } } )$ ）represents the $\\mathrm { \\bf N }$ that was lost by ammonia volatilization, $\\mathrm { N } _ { 2 } \\mathrm { O - N }$ emission,nitrate leaching and/or $\\mathbf { N }$ stored in various soil fractions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6 Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All statistical analyses were performed using the SAS 9.1 (SAS Institute Inc.，USA） and Microsoft Excel 2010 for Windows. Least significant difference (LSD) test was done for multiple comparisons between means. One-way analysis of variance (ANOVA) was used to analyze effects of three types of amendments on yield, $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization, ${ \\bf N } _ { 2 } { \\bf O } { - \\bf N }$ emission and soil N leaching during experimental period. We assessed significances of tests or analyses based on the probability level of 0.05. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Effects of soil amendments on yield, straw biomass and plant N uptake ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results in Table 2 showed that, compared with application of F, treatments with soil amendments (i.e.,FC,FB and FP) significantly increased yield and straw biomass for both maize and wheat （204号 $( P { < } 0 . 0 5 )$ . During the period from 2015 to 2O16,average yields of maize increased by $9 . 2 \\%$ in FC, （204号 $1 4 . 3 \\%$ in FB and $1 3 . 3 \\%$ in FP,respectively,and average straw biomasses of maize increased by $9 . 3 \\%$ in FC, $1 5 . 0 \\%$ in FB and $1 2 . 7 \\%$ in FP,respectively,compared with that in F.In 2017, yields of wheat increased by $9 . 2 \\%$ in FC, $1 6 . 6 \\%$ in FB and $1 2 . 3 \\%$ in FP,while straw biomass increased by $1 2 . 3 \\%$ in FC, $2 0 . 3 \\%$ in FB and $1 4 . 6 \\%$ in FP, respectively, compared with that in F. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Three types of soil amendments significantly increased plant $\\mathbf { N }$ uptake $( P { < } 0 . 0 5 )$ . The plant N uptakes increased by $10 . 5 \\%$ in FC, $1 4 . 8 \\%$ in FB and $1 3 . 5 \\%$ in FP,respectively,compared with that in F. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Effects of soil amendments on soil N losses ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Effect of soil amendments on soil N leaching ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Concentrations of ${ \\tt N O } _ { 3 } { \\mathrm { \\bar { \\Psi } } } { \\mathrm { - N } }$ and $\\mathrm { N H } _ { 4 } { } ^ { + }$ -N in the leaching solution decreased with time (Fig.1). The highest values of $N O _ { 3 } ^ { - } { } ^ { - } \\mathbf { - N }$ and $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ in the leaching solution occurred after the first irrigation. $N O _ { 3 } ^ { - } { } ^ { - } \\mathbf { N }$ concentration was within the range from 29.1 to $8 1 . 1 ~ \\mathrm { m g / L }$ and $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ concentration was within the range from 5.1 to $9 . 4 ~ \\mathrm { m g / L }$ . The main form of leached $\\mathbf { N }$ is ${ \\bf N O } _ { 3 } { \\bf \\bar { \\Psi } } – { \\bf N }$ ，accounting for about $8 5 \\%$ . During 2015-2017,amounts of $\\mathrm { \\bf N }$ leaching were significantly lower in FC,FB and FP than in F (Table 3). Compared with that in F,N leaching amounts were reduced by $2 3 . 1 \\%$ in FC, $3 5 . 5 \\%$ in FB and $2 7 . 1 \\%$ in FP. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9011de70bd290907cb806dd222ddf40a8b26d2863927aef143c7b68ff5469989.jpg",
+        "table_caption": [
+            "Table 2Effects of different soil amendments on yield,straw biomassand plantNuptake in the Hetao Irrigation Area during 2015-2017 "
+        ],
+        "table_footnote": [
+            "Note:F,formulafertilization；FC,formulafertilization $^ +$ biochar；FB，formulafertilization+bentonite；FP,formula fertilization $^ +$ polyacrylamide.Theabbreviationsarethesameasin Tables 3-6.Means with differentlowercase lettrs withinthe same column and year are significantly different at $P { < } 0 . 0 5$ level. Mean±SD; $\\scriptstyle n = 3$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Year</td><td>Crop</td><td>Treatment</td><td>(giem2)</td><td>Straw biomass</td><td>Plant N umtake</td></tr><tr><td>2015</td><td>Maize</td><td>F</td><td>10,409±619c</td><td>12.327±438b</td><td>249.8±16.0b</td></tr><tr><td rowspan=\"6\">2016</td><td></td><td>FC</td><td>11,427±342b</td><td>13,633±833a</td><td>279.5±16.1a</td></tr><tr><td></td><td>FB</td><td>12,317±352a</td><td>14,786±728a</td><td>291.3±16.5a</td></tr><tr><td></td><td>FP</td><td>11,530±403ab</td><td>13,890±608a</td><td>282.6±2.4a</td></tr><tr><td>Maize</td><td>F</td><td>8872±240b</td><td>10,791±295b</td><td>231.3±5.9b</td></tr><tr><td></td><td>FC</td><td>9630±427a</td><td>11,625±498a</td><td>251.6±4.4a</td></tr><tr><td></td><td>FB</td><td>9712±298a</td><td>11,805±297a</td><td>258.0±6.2a</td></tr><tr><td rowspan=\"5\">2017</td><td></td><td>FP</td><td>10,316±528a</td><td>12,157±314a</td><td>263.8±13.6a</td></tr><tr><td>Wheat</td><td>F</td><td>5423±272b</td><td>5352±353b</td><td>156.9±9.9b</td></tr><tr><td></td><td>FC</td><td>5923±184a</td><td>6011±335a</td><td>173.7±6.8a</td></tr><tr><td>FB</td><td></td><td>6325±132a</td><td>6437±328a</td><td>183.3±8.8a</td></tr><tr><td>FP</td><td>6091±217a</td><td>6131±210a</td><td></td><td>178.0±5.8a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) -中F FC FB --FP e (b)   \n网   \n雨 日 T IHe HBEK 重 好 \\4   \n1355/55/55 1107/81/15 1102/55/55 1111/95/15 9107/00/90 9107/61/L0 9107/81/80 111/00/15 1557/55/55 107/2790 2102/01/1 107/85/95 S107/81/0 1105/55/55 1111/51/15 9107/00/90 9107/61/L0 9107/81/80 1111/40/45 1107/51/55 107/0790 L107/01/L0 L101/01/11 Date (mm/dd/yy) Date (mm/dd/yy) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2Effects of soil amendments on $\\mathrm { N H } _ { 3 }$ -N volatilization and ${ \\bf N } _ { 2 } { \\bf O } { - \\bf N }$ emission $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization reached a maximum within one week after fertilization,and then decreased and maintained at a lower level until the next irrigation or fertilizer application (Fig. 2). Application of N fertilizer to soil significantly promoted $\\mathrm { N H } _ { 3 }$ -N volatilization. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cumulative $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization is shown in Table 4.Compared with F, FC,FB and FP significantly reduced soil cumulative $\\mathrm { N H } _ { 3 }$ -N volatilization $( P { < } 0 . 0 5 )$ ， i.e.，average cumulative $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization decreased by $3 4 . 8 \\%$ in FC, $5 2 . 7 \\%$ in FB and $3 7 . 8 \\%$ in FP. The greater reduction was observed in FB (Table 4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pattern of ${ \\bf N } _ { 2 } { \\bf O - N }$ emission rate with time is different from that of $\\mathrm { N H } _ { 3 }$ -N volatilization (Fig. 3). The peak of ${ \\bf N } _ { 2 } { \\bf O } { - \\bf N }$ emission rate appeared only $_ { 4 - 8 \\mathrm { ~ d ~ } }$ after application of urea.Because irrigation provides an anaerobic condition for denitrification,applications of urea and irrigation significantly enhanced ${ \\bf N } _ { 2 } { \\bf O - N }$ emission. Cumulative ${ \\bf N } _ { 2 } { \\bf O } { - \\bf N }$ emissions in FB and FB were significantly lower than those in F and FC $( P { < } 0 . 0 5 )$ .However, there was no significant difference between $\\mathrm { ~ F ~ }$ and FC. Compared with that in F, cumulative emissions of ${ \\bf N } _ { 2 } { \\bf O } { - \\bf N }$ were decreased by $3 7 . 3 \\%$ in FB and $3 5 . 8 \\%$ in FP (Table 4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/33f823c2835633894fc619fb766d821b740364a17c5408890c7be26cfab5fcd6.jpg",
+        "table_caption": [
+            "Table 3Effects of different soil amendments on $\\mathbf { N }$ leaching volume and $\\mathrm { \\bf N }$ leaching amount in the Hetao Irrigation Area during 2015-2017 "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters within the same column and year are significantly different at $P { < } 0 . 0 5$ level.Mean±SD; $\\scriptstyle n = 3$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Year</td><td>Crop</td><td>Treatment</td><td>N leaching volume</td><td>N leachingamount</td></tr><tr><td>2015</td><td>Maize</td><td>F</td><td>1022.2±15.9a</td><td>69.5±1.5a</td></tr><tr><td rowspan=\"6\">2016</td><td rowspan=\"6\">Maize</td><td>FC</td><td>991.0±28.8ab</td><td>53.3±0.6b</td></tr><tr><td>FB</td><td>951.3±15.6b</td><td>44.5±1.8c</td></tr><tr><td>FP</td><td>956.3±26.5b</td><td>45.9±3.9c</td></tr><tr><td>F</td><td>1395.7±64.4a</td><td>86.9±5.7a</td></tr><tr><td>FC</td><td>1230.8±72.8b</td><td>66.9±5.9b</td></tr><tr><td>FB</td><td>1215.4±91.7b</td><td>54.5±3.3c</td></tr><tr><td rowspan=\"5\">2017</td><td>Wheat</td><td>FP</td><td>1249.3±28.0b</td><td>68.6±4.3b</td></tr><tr><td></td><td>F</td><td>1294.4±47.3a</td><td>54.5±7.1a</td></tr><tr><td></td><td>FC</td><td>1183.9±61.1ab</td><td>41.9±2.1b</td></tr><tr><td></td><td>FB</td><td>1132.5±90.8b</td><td>37.1±4.8b</td></tr><tr><td></td><td>FP</td><td>1191.5±56.9ab</td><td>39.1±3.6b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(gaieni 1.6 |中F lIFC FB -0-FP   \n1.4 中   \n1.2   \n1.0 重 中   \n0.8 1   \n0.6 1   \n虹 H 1   \nA   \n0.4 4 B 中 民   \n0.2 里 R 福 中空 9   \n四 明 民 7 H Date (mm/dd/yy) ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/68b030065cfd18368c4000ee183bf170f0a7c3bd0fd3ba4ac758191739f93c52.jpg",
+        "table_caption": [
+            "Table 4Effects of different soil amendments on cumulative $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization and cumulative $\\mathrm { N } _ { 2 } \\mathrm { O - N }$ emission in the Hetao Irrigation Area during 2O15-2017 "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters within the same column and year are significantly different at $P { < } 0 . 0 5$ level. Mean±SD; n=3. "
+        ],
+        "table_body": "<html><body><table><tr><td>Year</td><td>Crop</td><td>Treatment</td><td>CumulativeNH-Nvolatiization</td><td>Cumulative N2O-Nemission</td></tr><tr><td rowspan=\"4\">2015</td><td rowspan=\"4\">Maize</td><td>F</td><td>21.07±1.74a</td><td>3.63±0.31a</td></tr><tr><td>FC</td><td>13.93±0.84b</td><td>3.20±0.39a</td></tr><tr><td>FB</td><td>10.26±1.15c</td><td>2.06±0.11b</td></tr><tr><td>FP</td><td>11.76±0.50c</td><td>2.00±0.37b</td></tr><tr><td rowspan=\"4\">2016</td><td rowspan=\"4\">Maize</td><td>F</td><td>19.84±2.07a</td><td>3.85±0.23a</td></tr><tr><td>FC</td><td>11.75±0.31b</td><td>4.29±0.26a</td></tr><tr><td>FB</td><td>8.20±0.36c</td><td>2.28±0.22b</td></tr><tr><td>FP</td><td>11.14±0.57b</td><td>2.52±0.34b</td></tr><tr><td rowspan=\"4\">2017</td><td>Wheat</td><td>F</td><td>17.09±1.66a</td><td>1.98±0.10a</td></tr><tr><td></td><td>FC</td><td>12.13±1.64bc</td><td>2.07±0.35a</td></tr><tr><td></td><td>FB</td><td>8.96±0.91</td><td>1.59±0.11b</td></tr><tr><td></td><td>FP</td><td>13.17±2.26b</td><td>1.55±0.15b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6770aafdb6fd85fe666e98986744e3edb53ef2907dc27edd9703f7fed5050348.jpg",
+        "img_caption": [
+            "Fig. 3Variation of ${ \\bf N } _ { 2 } { \\bf O } { - \\bf N }$ emission rate under different soil amendments in the Hetao Irrigation Area during 2015-2017. Date pattern of $\\mathrm { m m / d d / y y }$ is used. Downward arrow denotes fertilizing date and upward arrow denotes irrigation date.Error bars represent standard deviations; $\\scriptstyle n = 3$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 Effects of soil amendments on soil N concentrations and soil pH ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "During 2O15-2017,soil amendments did not affect soil total $\\mathbf { N }$ and $\\mathrm { { N H _ { 4 } } ^ { + } { - N } }$ concentration,but significantly increased soil $N O _ { 3 } ^ { - } { } ^ { - } \\mathbf { N }$ concentration( $\\scriptstyle \\cdot - ( P < 0 . 0 5$ ; Table 5). Compared with that inF, the $N O _ { 3 } ^ { - } { } ^ { - } \\mathbf { N }$ concentrations were increased by $1 3 . 0 \\%$ in FC, $1 4 . 1 \\%$ in FB and $1 1 . 7 \\%$ in FP. Soil $\\mathsf { p H }$ was significantly higher in FC than in $\\mathrm { ~ F ~ }$ （ $_ { . } { \\scriptstyle P < 0 . 0 5 }$ ; Table 5).However, there was no difference in soil $\\mathrm { p H }$ among FB,FP and F. Compared with that in F, soil $\\mathsf { p H }$ in FC increased, e.g.， soil $\\mathrm { p H }$ increased by $2 . 7 \\%$ in 2015, $3 . 6 \\%$ in 2016 and $5 . 4 \\%$ in 2017. Biochar application increased soil $\\mathrm { p H }$ （204号 from 8.20 to 8.63. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b356b8542435e486f279ee190da6bfdc7d66c151431cf8eabfb57d7379cdaaa.jpg",
+        "table_caption": [
+            "Table 5Effects of different soil treatments on soil total N, $N O _ { 3 } \\mathrm { ^ - N }$ $\\mathrm { N H } _ { 4 } { } ^ { + } .$ -N concentrations and $\\mathrm { p H }$ in the Hetao Irrigation Area during 2015-2017 "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters within the same column and year are significantly different at $P { < } 0 . 0 5$ level. Mean±SD; $\\scriptstyle n = 3$ .The above data come from the top soil layer $( 0 { - } 2 0 \\mathrm { c m } )$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td>Year</td><td>Crop</td><td>Treatment</td><td>Totag N</td><td>Ng/-N)</td><td>NH4-</td><td>pH</td></tr><tr><td>2015</td><td>Maize</td><td>F</td><td>1.65±0.05a</td><td>17.10±0.65b</td><td>5.46±1.02a</td><td>8.16±0.07b</td></tr><tr><td rowspan=\"6\">2016</td><td rowspan=\"6\">Maize</td><td>FC</td><td>1.64±0.04a</td><td>18.43±0.33a</td><td>5.82±0.52a</td><td>8.38±0.05a</td></tr><tr><td>FB</td><td>1.69±0.04a</td><td>18.98±0.88a</td><td>5.37±0.71a</td><td>8.15±0.08b</td></tr><tr><td>FP</td><td>1.62±0.04a</td><td>18.70±0.66a</td><td>5.01±0.36a</td><td>8.25±0.08ab</td></tr><tr><td>F</td><td>1.68±0.03a</td><td>13.88±0.33b</td><td>6.15±0.73a</td><td>8.24±0.10b</td></tr><tr><td>FC</td><td>1.71±0.08a</td><td>15.54±0.79a</td><td>5.84±0.72a</td><td>8.54±0.15a</td></tr><tr><td>FB</td><td>1.70±0.04a</td><td>16.05±1.05a</td><td>5.76±0.43a</td><td>8.17±0.08b</td></tr><tr><td rowspan=\"5\">2017</td><td rowspan=\"5\">Wheat</td><td>FP</td><td>1.67±0.04a</td><td>15.65±0.84a</td><td>6.22±0.42a</td><td>8.21±0.05b</td></tr><tr><td>F</td><td>1.63±0.06a</td><td>11.43±0.82b</td><td>5.00±0.61a</td><td>8.19±0.09b</td></tr><tr><td>FC</td><td>1.69±0.07a</td><td>13.95±0.64a</td><td>5.37±0.80a</td><td>8.63±0.17a</td></tr><tr><td>FB</td><td>1.69±0.06a</td><td>13.36±0.63a</td><td>4.89±0.48a</td><td>8.21±0.08b</td></tr><tr><td>FP</td><td>1.66±0.06a</td><td>13.02±0.99a</td><td>4.46±0.38a</td><td>8.25±0.08b</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4 Soil N balance ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There were three $\\mathbf { N }$ sources as inputs in this experiment,i.e.,mineral $\\mathbf { N }$ fertilizer,irrigation and rainfall (Table 6). N input of maize-wheat rotation system ranged from 223.90 to $3 4 2 . 8 0 ~ \\mathrm { k g }$ $\\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ,in which $\\mathbf { N }$ input for maize ranged from $3 4 0 . 2 0 { - } 3 4 2 . 8 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ,and that for wheat was $2 2 3 . 9 0 { - } 2 2 6 . 7 0 \\ \\mathrm { k g \\ N / h m ^ { 2 } } .$ N output was $2 2 9 . 9 0 { - } 3 4 4 . 2 0 \\ \\mathrm { k g \\ N / h m ^ { 2 } }$ ，in which $\\mathbf { N }$ output of maize was $2 4 0 . 6 0 { - } 2 7 4 . 6 0 \\ \\mathrm { k g \\ N / h m ^ { 2 } }$ ，and that of wheat was $1 5 6 . 9 0 { - } 1 8 3 . 3 0 \\ \\mathrm { k g \\ N / h m ^ { 2 } . \\ N }$ Isurplus of wheat was significantly lower than that of maize,mainly due to the lower $\\mathrm { \\bf N }$ application rate for ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/60e6e5bc89cfcc9dcf79774ae43006fcd425eacee1d5df33ac6aef6499b94ddf.jpg",
+        "table_caption": [
+            "wheat. FC, FB and FP significantly reduced $\\mathbf { N }$ surplus that was respectively $23 . 9 \\%$ ， $3 7 . 4 \\%$ and $3 0 . 6 \\%$ lower than that in F. Consequently,lower soil N losses were also observed (Table 6). ",
+            "Table6N input,output,soil N balance and soilNlosses in the Hetao Irrigation Area during 2015-2017 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">N resource</td><td colspan=\"4\">Maize</td><td colspan=\"4\">Wheat</td></tr><tr><td>F</td><td>FC</td><td>FB</td><td>FP</td><td>F</td><td>FC</td><td>FB</td><td>FP</td></tr><tr><td></td><td colspan=\"8\">N input (kg N/hm²)</td></tr><tr><td>Irrigation</td><td>16.10</td><td>17.30</td><td>14.75</td><td>16.70</td><td>20.20</td><td>20.20</td><td>18.80</td><td>21.60</td></tr><tr><td>Rainfall</td><td>1.04</td><td>1.04</td><td>1.04</td><td>1.04</td><td>0.54</td><td>0.54</td><td>0.54</td><td>0.54</td></tr><tr><td>Total input</td><td>341.60</td><td>342.80</td><td>340.20</td><td>342.20</td><td>225.40</td><td>225.40</td><td>223.90</td><td>226.70</td></tr><tr><td></td><td colspan=\"8\">N output (kg N/hm²)</td></tr><tr><td>Plant uptake</td><td>240.60</td><td>265.50</td><td>274.60</td><td>273.20</td><td>156.90</td><td>173.70</td><td>183.30</td><td>178.00</td></tr><tr><td></td><td></td><td></td><td></td><td>Soil N balance (kg N/hm²)</td><td></td><td></td><td></td><td></td></tr><tr><td>N surplus 101.00 77.30</td><td colspan=\"8\">65.60 690.00 68.50 51.70</td></tr><tr><td></td><td></td><td></td><td></td><td>Soil N losses (kg N/hm²)</td><td></td><td></td><td></td><td></td></tr><tr><td>N leaching</td><td>78.20</td><td>60.10</td><td>49.50</td><td>57.30</td><td>54.50</td><td>41.90</td><td>37.10</td><td>39.10</td></tr><tr><td>NH3-N volatilization</td><td>20.50</td><td>12.80</td><td>9.20</td><td>11.50</td><td>17.10</td><td>12.10</td><td>9.00</td><td>13.20</td></tr><tr><td>N2O-N emission</td><td>3.70</td><td>3.80</td><td>2.20</td><td>2.30</td><td>2.00</td><td>2.10</td><td>1.60</td><td>1.60</td></tr><tr><td>Total N loss</td><td>102.40</td><td>76.70</td><td>60.90</td><td>71.10</td><td>73.60</td><td>56.10</td><td>47.70</td><td>53.90</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1 Effects of soil amendments on soil N losses and yield ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our results clearly showed that three types of soil amendments significantly increased the yields of maize and wheat(Table 2) and significantly reduced soil $\\mathrm { \\bf N }$ surplus (Table 6). The performance of bentonite and polyacrylamide was the best. For example,compared with FC,FB and FP increased the yields of maize and wheat by $5 . 1 \\%$ and $3 . 5 \\%$ (Table 2) and decreased soil N surplus by $1 7 . 7 \\%$ and $8 . 8 \\%$ (Table 6),respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It is known that biochar, bentonite,and polyacrylamide play important roles in reducing soil N losses and increasing $\\mathbf { N }$ utilization rate. Thangarajan et al. (2O17） found that application of biochar reduced both ${ \\bf N } _ { 2 } { \\bf O }$ and $\\mathrm { N H } _ { 3 }$ emissions by $23 \\%$ and $43 \\%$ , respectively. Nguyen et al. (2017) suggested that biochar can enhance adsorption of ${ \\tt N O } _ { 3 } { \\mathrm { \\mathrm { ^ - N } } }$ and effectively reduce soil N leaching. Our study showed similar results of significant reduction in $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization and soil $\\mathbf { N }$ leaching by the application of biochar (Tables 3 and 4),but there was no efect on $\\mathrm { N } _ { 2 } \\mathrm { O - N }$ emission (Table 4).Biochar adsorption of inorganic $\\mathbf { N }$ in soil is the main reason for reducing $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization and soil N leaching. The adsorption capacity of biochar on soil inorganic N is derived from functional groups (Nguyen et al.，2O17). Acid functional groups include carboxylic, hydroxyl, lactone and lactol that have a negative charge and absorb the soil's $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ by electrostatic atraction (Hina et al.,2O1O; Spokas et al., 2O12). Functional group of ketones and pyrones can promote adsorption of ${ \\bf N O } _ { 3 } ^ { - } { \\bf - N }$ by biochar (Monte-Moran et al.，2O04).Hydrogen bond on the surface of biochar can also be combined with ${ \\bf N O } _ { 3 } { \\bf \\bar { \\Psi } } { \\bf - N }$ in the soil (Mukherjee et al., 2011；Kammann et al.，2O15).Effect of biochar on fixation of ${ \\bf N O } _ { 3 } ^ { - } { \\bf - N }$ also reduced the nitrification effect to some extent. Adsorption of inorganic $\\mathbf { N }$ in the soil by biochar increases soil N content, delays soil nitrification,satisfies $\\mathbf { N }$ demand in the later stages of crop,improves N nutrition status in crop and further increases the crop production (Kammann et al., 2O15; Nguyen et al.,2O17). However, our study found that application of biochar could enhance soil $\\mathrm { p H }$ (Table 3).Dandie et al. (2O11) reported that nitrate reduction bacteria in soil were positively correlated with soil $\\mathsf { p H }$ ，and increase of $\\mathsf { p H }$ could significantly increase the number of bacteria.Dramatic change in soil moisture conditions during irrigation may form a strict anaerobic environment that increases the number of nitrite reduction bacteria, thus improving the process of denitrification and leading to an increase in the transformation of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ into NO.Consequently，biochar application in this study was not able to suppress soil ${ \\bf N } _ { 2 } { \\bf O - N }$ emission. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study found that application of bentonite could significantly reduce $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization, ${ \\bf N } _ { 2 } { \\bf O - N }$ emission and soil $\\mathbf { N }$ leaching (Tables 3 and 4),mainly due to its adsorption characteristic of N.The main component of bentonite is montmorillonite that is a 2:1 layered phyllosilicate clay whose inter layer ions can exchange with $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ (Golbashy et al., 2O17).Under a wet condition, free $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ in soil is more easily fixed by bentonite to form the slow-released $\\mathrm { \\bf N }$ (Solihin et al., 2011). Secondly, amount of bentonite CEC used in the experiment is $7 8 \\mathrm { c m o l / k g }$ ,which is about 6 times higher than that of farmland in the HIR.After a large amount of bentonite was added, soil CEC was improved and adsorption of $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ was enhanced.Adsorption of bentonite on soil $\\mathrm { { N H _ { 4 } } ^ { + } { - N } }$ significantly reduces soil $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization and reduces the substrate concentration of nitrification at the same time,thus significantly inhibiting $\\mathrm { N } _ { 2 } \\mathrm { O - N }$ emission and soil $\\mathbf { N }$ leaching. This is consistent with the findings of Qin et al. (2012) and Yang et al. (2O17). Crop yields can be significantly increased due to the slow release of soil $\\mathbf { N }$ by bentonite (Yang et al., 2017). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The results of the present study showed that compared with fertilizer application alone, application of polyacrylamide significantly reduced $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization of $3 7 . 8 \\%$ ， $N _ { 2 } O { - } \\mathrm { N }$ emission of $3 5 . 8 \\%$ and soil N leaching of $2 7 . 1 \\%$ (Tables 3 and 4). Chen and Shu (2012) also reported that application of polyacrylamide reduced $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ volatilization by $1 7 \\% - 3 2 \\%$ and decreased soil N leaching by $20 \\% - 5 0 \\%$ . Polyacrylamide is a kind of synthetic polymer. And the polymer skeleton with -COOH, $- \\mathrm { O H }$ ，and $\\mathrm { - N H } _ { 2 }$ hydrophilic groups that have strong water retention capacities can adsorb large quantity of water (Kang et al., 2O15). After polyacrylamide is applied into the soil, network structure formed by crosslinking of hydrophilic macromolecule allows $\\mathbf { N }$ fertilizer molecules or ions such as $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ and ${ \\bf N O } _ { 3 } ^ { - } { \\bf - N }$ diffusion to enter (Kumar et al., 2011; Cai et al., 2O14). Large molecules polymer molecules or ions can be wrapped into the internal network structure and activated by exchange adsorption, charge and chelating fixed way， thus being slowly released to soil (Cai et al.,2014; Yang et al.,2017). Secondly, polyacrylamide active groups can interact with ions on the surface of soil particles to form a water-stable aggregate structure that further increases the holding effect of soil on nutrients and reduces soil $\\mathbf { N }$ losses (Jiang et al.,2010; Mamedov et al.,2010; Liu et al.,2015). Thirdly,polyacrylamide in soil is a kind of anion resin that can effectively adsorb $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ and other cationic ions.Adsorption and slow-release effect of polyacrylamide on soil inorganic $\\mathbf { N }$ are important reasons for reducing soil N losses.Positive impact of polyacrylamide on soil structure stability and its effect on reducing soil N losses are also responsible for a high crop yield (Jiang et al., 2O1O; Yang et al.,2017). It should be noted that depending on application method and application amount, a large amount of dissolved polyacrylamide can also clog the soil and lead to soil compaction, resulting in a negative impact. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 Soil N balance ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In arid and semi-arid regions, external water sources (irrigation and rainfall) and inappropriate use of N fertilizer will inevitably increase soil N losses, resulting in environmental pollution (Huang et al.,2018). Soil $\\mathbf { N }$ balance reflects the relationship between $\\mathbf { N }$ input and output in a system (Ladha et al.,2016). In last decades，soil $\\mathbf { N }$ balance has become an important indicator for regional agricultural $\\mathbf { N }$ management (Vitousek et al.,2Oo9). In this study,we only consider the input of chemical N fertilizer due to the little amount of inputs from rainfall and irrigation. We were unable to measure N fixation of microorganisms and dry N deposition due to experimental limitation, thus, the system's $\\mathbf { N }$ input in this study may be underestimated.For the denitrification loss of N，we only measured $\\mathrm { N } _ { 2 } \\mathrm { O - N }$ emission from the soil and underestimated the actual denitrification loss of N,resulting in a higher value of soil N losses. Therefore, the actual value of $\\mathbf { N }$ surplus in soil may be higher than that given in Table 6. Under optimized fertilization,soil residual inorganic $\\mathbf { N }$ was relatively small,and total $\\mathbf { N }$ concentration also maintained at a stable level in maize-wheat rotation system (Table 5). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We found that soil amendments significantly increased yield and reduced soil N surplus. Among ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "the three types of amendments, the performance of FB and FP was the best. Therefore，we recommend that the balance between food production and environmental protection in the HIR can be achieved through the applications of FB and FP. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This research was funded bythe Inner Mongolia Autonomous Region's Science and Technology Innovation Guidance Project.We also thank the Hanggin Rear Banner Agricultural Extension Center,Inner Mongolia Autonomous Region,China for its help in this study. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abrol V,ShainbergI,LadoM,etal.2O13.Eficacyofdrygranularanionicpolyacrylamide(pam)oninfitration,runfand erosion. European Journal of Soil Science,64: 699-705.   \nCai D Q,WuZY,JiangJ,etal.2014.Controling nitrogenmigrationthrough micro-nano networkscientificReports,4:1-8.   \nCameron K C,DiHJ,MoirJL.2O13.Nitrogen losss from thesoil/plant system:areview.Annals ofApliedBiology,162: 145-173.   \nCayuelaML,ZwietenLV,Singh BP,etal.2Ol4.Biochar'srole inmitigatingsoilnitrous oxide emisions:Areviewand meta-analysis.Agriculture Ecosystems and Environment,191:5-16.   \nChen Y,Shu W.2O12.Development and evaluationof losspreventive compound fertilizers.Chemical Fertilizer Industry,39: 46-48.(in Chinese)   \nClough TJ,CondronLM,KammannC,etal.2Ol3.Areviewofbiocharandsoil nitrogen dynamics.Agronomy,3:275-293.   \nDandieCE,WertzS,LeclairCL,etal20l.Abundance,diversityndfunctionalgeneexpresionofdenitrifiercommities in adjacent riparian and agricultural zones.Fems Microbiology Ecology,77: 69-82.   \nGeng JB,SunYB,Zhang M,etal.2O15.Long-term effectsofcontroledreleaseurea aplicationoncrop yieldsand soil fertility under rice-oilseed rape rotation system.Field Crops Research,184: 65-73.   \nGeng J,MaQ,ChenJ,etal.2O16Efectsofpolymercoatedureaandsulfurfertilizationonyield,nitrogenuseeficiencyand leaf senescence of cotton.Field Crops Research,187: 87-95.   \nGolbashyM,Sabahi H,Allahdadi I,etal.2Ol7.Synthesisof highly intercalatedurea-claynanocompositeviadomestic montmorilonite as ecofriendly slow-release fertilizer.Archives of Agronomy and Soil Science,63:84-95.   \nHina K,BishpP,Mcamps A,etal.2O10.Producingbiochars with enhanced surface activitythrough alkaline pretreatmentof feedstocks.Australian Journal of Soil Research,48:6O6-617.   \nHuang P,ZhangJ,ZhuA,etal.2O18.Nitrate acumulationand leaching potentialreducedbycoupled waterandnitrogen management in the Huang-Huai-Hai plain. Science of the Total Environment,61O:1O20-1028.   \nJiang T,TengLL,Wei SQ,etal.2010.Aplicationofpolyacrylamide toreducephosphoruslosss froma Chinesepurple soil: a laboratory and field investigation. Journal of Environmental Management,91:1437-1445.   \nJu XT,Kou CL,ZhangFS,et al.2O06.Nitrogen balanceand groundwater nitratecontamination:Comparisonamong three intensive cropping systems on the North China Plain. Environmental Pollution,143:117-125.   \nJussy JH,Colin-BelgrandM,DambrineE,etal.2Oo4.Ndeposition,NtransformationandNleaching inacid forestsoils. Biogeochemistry, 69:241-262.   \nKammann CI,Schmidt HP,Meserschmidt N,et al.2O15.Plant growth improvement mediated by nitratecapture in co-composted biochar. Scientific Reports,5:11080-11092.   \nKang J,MclaughlinRA,AmoozegarA,etal.2O15.Transportofdisolved polyacrylamide throughaclayloamsoil.Geoderma, 243: 108-114.   \nKerschbaumerL,Kobbing JF,Ott K,etal.2O15.Developmentscenarioson Hetao Irigation Area (China):aqualitative analysis from social,economic and ecological perspectives.Environmental Earth Sciences,73:815-834.   \nKumar A,Saha A.2O11.Efectofpolyacrylamide and gypsumonsurface runoff,sdiment yieldand nutrientloss fromsteep slopes.Agricultural Water Management, 98: 999-1004.   \nLadhaJK,TirolpadreA,ReddyCK,etal.216.Globalnitrogenbudgets incereals:a5O-yearassessmentformaze,rice,nd wheat production systems. Scientific Reports,6:19355-19364.   \nLinHC,HuberJA,Gerl G,etal.2016.Nitrogenbalancesand nitrogen-useeiciencyofdiferentorganicandconventional farming systems. Nutrient Cycling in Agroecosystems,105: 1-23.   \nLiu X,Zhang Y,Han W,et al.2013.Enhanced nitrogen deposition over China. Nature,494: 459-462.   \nLiu X,Chan Z.20l5.Applicationof potassiumpolyacrylate increases soil water statusand improves growth ofbermudagrass (Cynodon dactylon) under drought stress condition. Scientia Horticulturae,197:705-711.   \nMamedov AI, WagnerLE,Huang C,et al.20l0.Polyacrylamide efectsonaggregateand structure stabilityof soils with different clay mineralogy. Soil Science Society of America Journal,74: 1720-1732.   \nMonte-Moran MA,Suarez D,MenendezJA,etal.2004.Onthe nature of basic sites oncarbon surfaces: anoverview. Carbon, 42: 1219-1225.   \nMukherjee A,Zimmerman AR,Harris W.20l1.Surface chemistryvariationsamong a seriesof laboratory-produced biochars. Geoderma,163: 247-255.   \nNguyen TTN,Xu CY,Tahmasbian I,etal.2O17.Effectsofbiocharonsoilavailable inorganic nitrogen:Areviewand meta-analysis.Geoderma,288:79-96.   \nNi XY,WuYJ,WuZY,etal.2Ol3.Anovel slow-releaseureafertiliser:Physicalndchemicalaalysisofitssructurend study of its release mechanism.Biosystems Engineering,115:274-282.   \nQin S,Wu Z,RasoolA,etal.2O12.Synthesisandcharacterizationofslow-releasenitrogen fertilizer with waterabsorbency: based on poly (acrylic acid-acrylic amide)/na-bentonite.Journal of Applied Polymer Science,126:1687-1697.   \nShangFZ,Ren SM,YangPL,etal.2O16.Effectsof differentirigation watertypes,Nfertilizertypes,andsolmoisture contents on N2O emissions and N fertilizer transformations in soils.Water,Air,and Soil Pollution,227:1-18.   \nSingh BP,HattonBJ,Balwant S,etal.2l0.Influenceof biochars onnitrous oxide emissonandnitrogenleaching fromtwo contrasting soils. Journal of Environmental Quality,39:1224-1235.   \nSolihin Z Q, Tongamp W, Saito F. 2011. Mechanochemical synthesis of kaolin- ${ \\mathrm { \\cdot K H _ { 2 } P O _ { 4 } } }$ ,and kaolin- ${ \\mathrm { \\cdot N H _ { 4 } H _ { 2 } P O _ { 4 } } }$ ,complexes for application as slow release fertilizer.Powder Technology,212: 354-358.   \nSpiertz J.20l0.Nitrogen,sustainable agriculture and food security.Areview.Agronomy for Sustainable Development,30: 43-55.   \nSpokas KA,CantrellKB,NovakJM,etal.2O12.Biochar: asynthesisof itsagronomic impactbeyondcarbonsequestration. Journal of Environmental Quality,41: 973-989.   \nSutton M A, Oenema O,Erisman JW,et al.2011. Too much of a good thing. Nature,472: 159-161.   \nThangarajanR,BolanNS,Kunhikrishnan A,etal.2Ol7.Thepotential valueofbiochar in the mitigationof gaseousemission of nitrogen. Science of the Total Environment,612: 257-268.   \nThiesJE,RiligMC,GraberER.2O15.Biochareffectsontheabundanceactivityanddiversityof thesoil biota.In:LehmannJ, Stephen J. Biochar for Environmental Management: Science,Technology and Implementation ( $2 ^ { \\mathrm { n d } }$ ed.) New York: Routledge, 327-389.   \nVitousek PM,NaylorR,Crews T,etal.2O09.Nutrientimbalances inagricultural development.Science,324:1519-1520.   \nWang G,Liang Y, Zhang Q,etal.2016.Mitigated $\\mathrm { C H } _ { 4 }$ ,and $\\mathbf { N } _ { 2 } \\mathbf { O }$ emissions and improved irrigation water use efficiency in winter wheat field with surfacedrip irrigation in the north china plain.Agricultural WaterManagement,163: 403-407.   \nWangLW,Wang C,Pan $Z \\operatorname { H }$ ,et al. 2017. $\\mathbf { N } _ { 2 } \\mathbf { O }$ emission characteristics and its affecting factors in rain-fed potato fields in Wuchuan County, China. International Journal of Biometeorology,61: 911-919.   \nWang ZH,LiuXJ,JuXT,etal.2Oo2.Insitudeterminationofammoniavlatilizationfromwheat-maizerotationsystem field in North China.Acta Ecologica Sinica,22(3): 359-365.(in Chinese)   \nWeihermullerLiemensJ,DeurerM,etal.O7.Insitusoilwaterextraction:areview.JournalofnvironmentalQuality6: 1735-1748.   \nWu Y,Shi XH,LiCY,etal.2O17.Simulationof hydrologyandutrienttransport intheHetao Irigation District,Inner Mongolia, China. Water, 9: 169-184.   \nXuJZ,Peng SZ,YangSH,etal.2l2.Ammoniavolatilizationlosses fromaricepaddyithdiferentirigationandnirogen managements.Agricultural Water Management,104:184-192.   \nXue J,RenL.2Ol7.Assessing waterproductivityinthe HetaoirigationdistrictinInner Mongoliabyanagro-hydrological model.Irrigation Science,35: 357-382.   \nYang Y,ZhouCJ,LiN,etal.2O15.Efectsofonservationtilge practices onammoniaemissions fromLoess Plateauin-fed winter wheat fields.Atmospheric Environment,1O4: 59-68.   \nYangY,NiXY,ZhouZJ,etal.2Ol7.Performanceofmatrix-basedslow-releaseurea inreducingnitrogenlossandimproving maize yields and profits.Field Crops Research,212: 73-81.   \nYaoYN,XuaZY,HeY,etal.Oo.PrincipalcomponentanalysisofintraspecificresponsesoftartarybuckwheattoUV-B radiation under field conditions.Environmental and Experimental Botany, 61: 237-245. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

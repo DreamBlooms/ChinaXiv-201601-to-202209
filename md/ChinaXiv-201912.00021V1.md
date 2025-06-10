@@ -1,0 +1,208 @@
+# 互联网企业玩兴氛围对创新行为的跨层次研究\*
+
+杨洁1张露1\*黄勇²(贵州财经大学工商管理学院，贵阳 550025)(西北师范大学商学院，兰州 730070)(通讯作者：张露E-mail: zhangluxncd@126.com)
+
+摘要互联网企业通过营造快乐愉悦的玩兴氛围，推动员工持续创新，以期组织目标的实现。然而，现有玩兴氛围与员工创新行为关系的研究以理论分析为主，缺乏实证研究，进展相对缓慢。在回顾组织管理领域玩兴研究成果的基础上，开展三个方面的研究：研究一基于组织氛围理论和玩兴活动特征，开发中国情境下互联网企业的团队玩兴氛围量表。研究二立足于团队层次，依据资源保存理论重点探讨了玩兴氛围对员工创新行为的跨层次作用机制。研究三从创造力成分模型出发，引入个体思维方式和多重认同，探讨激发员工创新行为的边界条件。研究结果发展了中国互联网企业团队玩兴氛围的概念，促进了玩兴氛围理论的发展，为互联网类企业营造玩兴氛围以激发创新行为提供理论支持和实践启示。
+
+关键词 玩兴氛围；创新行为；工作重塑；资源保存理论；创造力成分模型分类号 B849:C93
+
+# 1问题的提出
+
+互联网诞生50周年之际，习近平主席在第六届世界互联网大会的贺电中指出：“互联网推动了新一轮科技革命和产业变革加速演进，包括人工智能、大数据、物联网等新技术新应用方兴未艾，互联网迎来更强劲的发展动能和更广阔的发展空间”。随着信息技术基础理论和前沿科技的突破，有力地推动了互联网商业模式的创新，使得经济系统进入互联网新经济时代，互联网类企业成为了经济增长的核心动力源泉(胡贝贝，王胜光，段玉厂,2019)。互联网企业非同寻常的创新能力和创新速度，得益于这类企业一直致力于激发员工的创新。例如，Google被认为是“既适合工作又适合玩乐的组织”,通过实施每周一天自由时间的制度，激发了员工的创造性，Google News、Google Glass、AdSense 等新产品相继被开发。LinkedIn 和 Zappos 倡导“让员工在工作中玩乐”，鼓励员工冒险，接纳他们稀奇古怪的想法，收获了更高的工作满意度和创新绩效(Schmidt& Rosenberg,2014)。这些旨在让员工有机会在工作场所“玩乐”的实践，营造出轻松自由的“玩兴氛围”(Playfulclimate)，极大地促进了员工的创造性(Petelczyc,Capezio,Wang,Restubog,& Aquino,2018)。
+
+西方学者认为玩兴氛围是指充满笑声、玩笑和幽默的工作环境(Isaksen,Lauer,& Ekvall,1999)，建立在员工对随意和轻松氛围的感知之上，深深地影响了员工的工作满意度和组织承诺，提高了工作投入和创新绩效(Fluegge-Woolf,2014)。玩乐体验深受文化的影响，在西方鼓励个体彰显个性和自由探索的文化下，容易形成推崇和支持工作场所玩兴和乐趣的氛围。然而，西方互联网企业推行的各种"玩乐”实践，在中国文化中可能被视为“不务正业”。中国传统的工作观认为，员工应该“励精图治”、“勤勉努力”，工作中不应该玩乐，“业精于勤荒于嬉”、“淫慢则不能励精”。事实上，国内领先的互联网企业的日常工作环境也充盈着中国文化色彩的玩乐元素，如阿里巴巴用金庸小说中的“达摩院”(Damo)为其新设立的科学实验室命名，鼓励员工攀登“武林最高峰”，提高了创新绩效；腾讯设立“打怪升级”晋升通道，通过经验值累计兑现奖金和升职，激发出员工的创造潜能。同时，互联网企业普遍采用平台组织结构，通过众多高度灵活可变的小微模块或小组模块以团队方式完成具体项目(赵宇楠，程震霞，井润田，2019)。例如，腾讯公司的微信团队，淘宝的天猫团队，阿里巴巴的阿里云团队等。因此，有必要基于中国文化背景，立足于团队层次，探索互联网企业玩兴氛围的内涵，开展本土玩兴研究(聂晶，卢新怡,2016)。
+
+玩兴氛围研究源于对儿童玩兴的关注，Glynn 和Webster(1992)首次将玩兴研究扩展至成年人，认为玩兴是个体以不严肃的方式参与活动的稳定的倾向或个人特质。在组织管理领域，研究者主要聚焦于玩兴活动与玩兴氛围的研究。学者们多采用Playfulness 代表玩兴活动(余嫔，吴静吉，林伟文,2003)，表征具有娱乐性目的、高度互动特征以及能够激发热情的活动(VanVleet&Feeney,2015)。而玩兴氛围的理论探索才刚起步，研究成果比较分散(Petelczyc etal.,2018)。研究者对玩兴氛围的概念界定尚未达成共识，存在从组织客观特征和内部环境营造描述玩兴氛围的两种主要观点，前者将玩兴氛围界定为创新氛围中的“玩兴/幽默”子维度，意指让人感到轻松和随意的组织环境(Isaksen etal.,1999)；后者从人际互动角度定义玩兴氛围为组织和管理者共同营造的愉悦气氛，鼓励员工玩兴，使其安心并尽情地探索与组织目标相关的有趣事物(余嫔等，2003)。由于玩兴氛围概念内涵模糊，导致现有量表的心理测量特性较低，严重制约了玩兴氛围理论构建与实证研究。此外，西方学者对玩兴氛围的研究侧重于一般性玩兴氛围的探析，尽管富有启示，但缺乏情境特定性（如互联网行业）。
+
+目前，玩兴氛围的积极影响正引发学界的关注(Plester,Cooper-Thomas，&Winquist，2015)。已有研究发现，玩兴的工作场景不仅能吸引外部求职者(Tews,Michel,&Bartlett,2012)，还可以提高组织内部员工的工作满意度和凝聚力(Ford,McLaughlin,&Newstrom,2003)，激发工作投入(Muceldili&Erdil,2016)，对任务绩效和组织公民行为产生积极影响(Fluegge-Woolf,2014)。余嫔等人(2003)指出，玩兴的组织氛围有助于激活员工在工作中的主动性、发散性思维，带来工作上的创意。尽管初步的研究结果表明，玩兴氛围与员工创造力和创新表现显著正相关，但是玩兴氛围仍是“目前研究和理解得最少的组织现象”(Mainemelis＆Ronson,2006)，玩兴氛围与员工创新的实证研究相当匮乏，二者关系仍不明朗。国内互联网行业为探索玩兴氛围与员工创新的关联性提供了丰富的土壤：一方面，互联网企业盛行创新、平等、自由的工程师文化(梁萌,2019)；另一方面，腾讯、阿里巴巴及盛大等互联网类企业已积极探索玩兴的组织氛围。鉴于此，本研究将互联网类企业作为研究对象，揭示玩兴氛围对创新行为的影响作用。
+
+同时，对玩兴研究进行文献梳理后发现，玩兴氛围影响员工态度、行为的作用机制的实证研究尚付阙如。近来，Petelczyc等人(2018)建议将乐趣研究整合到玩兴理论中，尝试从心流理论、情感事件理论、宣泄视角解释玩兴（氛围）对员工行为的影响和作用。心流理论视角认为，玩兴（氛围）与挑战、自主性和反馈相关(Abramis,1990)，能够产生被称为“心流”的独特感觉，这种个体内在激活状态与解决问题和创造力密不可分(Csikszentmihalyi,1975)。情感事件理论视角指出，玩兴的工作氛围容易引发玩兴活动，相伴积极情感体验，有利于增强员工的认知灵活性和创造性思维(杨洁，常铭超，张露,2019)。宣泄视角提出，玩兴氛围有助于个体放松、释放紧张情绪(Hunter,Jemielniak,&Postula,201O)。在互联网企业中，任务重、挑战大、时间长等工作特征普遍存在(赵继新，王梦茜，赵大丽2018)，而玩兴氛围有助于缓解疲劳和情绪损耗的消极影响。玩乐（氛围）还可以塑造有价值的心理资源（如乐观）、社会资源（如人际信任）(Han,Kim,&Jeong，2016;Michel,Tews,&Allen,2019)，对团队士气和绩效产生积极影响(Petelczyc etal.，2018)。同时，根据创造力成分理论的观点，创新过程需要消耗大量资源(Amabile,1997)，拥有丰裕资源的个体更愿意投身于新知识和新技能的学习过程。工作重塑被视为资源构建策略，不仅能够减少因工作要求导致的个体资源损耗，而且能够积极促进个体工作和社会资源的增加(Tims,Bakker,&Derks,2013a)。作为一种主动性工作调整行为(Tims,Bakker,&Derks,2012)，工作重塑不仅存在于个体层面，还可以是一种协作性活动，由群体成员共同决定如何塑造任务边界与工作实践，实现共同目标(Leana,Appelbaum,& Shevchuk,2009)。考虑到团队工作方式已然成为互联网企业常态(梁萌，2016)，有必要从个体及团队工作重塑视角解释玩兴氛围对创新行为的积极影响过程。
+
+最后，已有研究大多认同玩兴氛围对个人和组织都是有益的，但也有不一致的观点。例如，一项研究证实玩兴氛围积极影响组织创新(曾绮，2008)，但Karamfilov(2018)发现玩兴氛围与组织创造力之间没有显著关系。虽然学者们尝试从研究方法、玩兴氛围测量的差异来解释，仍未能达成共识。这意味着，玩兴氛围与员工创新行为的关系有可能受情境因素影响。Petelczyc等人(2018)认为有必要拓展玩兴氛围对个体、团队和组织影响的边界，并提出个体特征（如自我调节能力）、团队变量（如团队内聚力和团队任务类型）可能促进或抑制玩兴氛围的作用结果。令人遗憾的是，相关的实证研究罕有。领导是激发员工创造力的重要因素之一(Zhou&However,2014)，互联网行业面对不确定的环境，更需要上级领导帮助员工多角度、有理性地思考，鼓励员工质疑现有的工作方式，探索创新的方向。批判性思维正是这种运用证据、方法等方式进行分析和评估的认知技能(候玉波，2017)。与西方重视独立人格不同，中国人的思维方式更偏向辩证和中庸。具有高水平中庸思维的领导能够包容员工的不同想法，可能影响下属在玩兴氛围中的行为表现和工作结果。根据创造力成分理论(Amabile,1997)，员工创新行为是个体获得的支持性资源与个体创造性技能交互作用的产物，而思维方式是个体重要的创造性技能，由此可以推测，员工的批判性思维和中庸思维能够与他们从工作环境中获得的各种资源共同作用，促进员工提出新的创意并付诸实施。同时，与工作相关的多重身份普遍存在，员工能够构建起基于不同群体的身份认同（如组织认同、专业认同）(Hekman,Bigley,Steensma,&Hereford,2009)。尤其在互联网企业，以知识型员工为主体的雇员队伍是其有别于传统企业的特征之一：员工忠诚于自己的专业甚于组织(德鲁克，2006)。由于组织认同是个体倾向于从组织角度进行思考和行动，专业认同侧重于从职业能力和个人视角分析和展开(袁庆宏，丁刚，李珲,2014)，组织（专业）认同可能强化员工的组织（成就）动机取向(Song,Liu,Gu,&He,2018；袁庆宏等,2014)，从而影响员工在玩兴环境中的行为动机。
+
+基于上述分析，本研究认为，首先应该从中国情景出发，聚焦于不断推出新技术实现自身快速发展的互联网企业，探索玩兴氛围的概念内涵并开发测量工具。其次，从资源保存理论角度，揭开互联网企业玩兴氛围影响创新行为的黑箱。最后，探讨玩兴氛围影响创新行为的重要情境条件。
+
+# 2研究构想
+
+本文将从三个方面展开：研究一进行互联网企业团队玩兴氛围量表开发；研究二立足于团队层次，重点探索互联网企业玩兴氛围对员工创新行为的跨层作用机制；研究三分析团队玩兴氛围影响创新行为的边界条件。研究框架如图1所示。
+
+![](images/e0f53ac6dcdd5b9094c96a5331fc5b45476552bc690a0bd0d58db640e1acc929.jpg)  
+图1整体研究框架图
+
+# 2.1研究一：互联网企业团队玩兴氛围量表开发
+
+本研究基于组织氛围理论，以中国互联网企业为对象，运用定性和定量相结合的研究方法，从互联网企业氛围营造的实践中提炼团队玩兴氛围的概念内涵，解析团队玩兴氛围的结构维度并尝试开发相应的测量量表。玩兴氛围量表是实证研究的基础，对坑兴氛围内涵的认识含糊不清，严重地影响坑兴氛围量表的开发，既阻碍了玩兴氛围影响机制的研究，又不利于企业打造乐于创新的组织环境。
+
+首先，确定玩兴氛围的内涵和研究层次。从玩兴活动的观点来看，玩兴氛围是员工对组织或群体鼓励玩兴活动的感知(Petelczyc etal.，2018)，强调组织或群体支持员工“在工作中玩”、“玩出创意和点子”(余嫔,2005)。致力于营造玩兴氛围的互联网企业通过鼓励员工在工作场所中多进行休闲互动，留足时间给员工进行自主思考，在轻松状态下探索任务目标的实现。由于团队是互联网企业开展工作的主要方式(梁萌,2016)，团队成员间相互依赖，为实现共同目标而频繁互动和深入交流。因此，团队是测量玩兴氛围的最佳对象(West,1990)，从团队层面能更准确地刻画员工对环境特征的共享感知(Amabile etal.,1996)。本研究将互联网企业玩兴氛围聚焦于团队层面，定义为“团队成员对同事间愉快互动、领导鼓励玩兴活动，以及组织支持团队成员玩兴的政策、资源等工作情境的共享感知。”
+
+其次，划分团队玩兴氛围的维度。鉴于玩兴氛围具有与创新氛围相似的特征(Isaksen etal.,1999)，本研究借鉴Amabile 等人(1996)提出的创新氛围构念结构，包括组织鼓励、上级鼓励、团队支持、充足资源、挑战性工作五个维度。首先，由于玩兴活动具有自发性、社会互动性的特征，本研究认为员工参与的具有互动性特征的玩兴活动是塑造玩兴氛围的关键，如工作间歇的互动、工作结束之后相约休闲娱乐等。其次，群体领导的态度和行为影响着成员之间的愉快交流和频繁互动能否发生，领导支持是玩兴氛围形成的重要来源(Ekvall,1996；余嫔等,2003)。第三，群体氛围的形成易受群体所嵌入组织的态度影响，即组织政策非常关键。同时，是否提供在工作之余休闲玩乐的场所和条件也是玩兴氛围的重要标志，如阿里巴巴有数个篮球馆，腾讯也建有运动场。即组织为团队成员玩兴提供的政策、条件和资源体现了对团队玩兴的鼓励。综上，本研究提出的互联网企业团队玩兴氛围应该具有多维结构，包含同事互动，领导支持，组织支持三个方面。
+
+最后，编制团队玩兴氛围量表。群体氛围是成员共享的对群体环境的感知，会因国家文化、行业特征，以及组织差异而有所不同(Amabile etal.,1996)。因此，本研究立足于中国情境，针对热衷于营造玩兴氛围的互联网行业，采用扎根理论和量表开发的科学方法，编制团队玩兴氛围的测量量表。具体做法如下，第一，采用一对一方式对互联网企业员工进行深度访谈。选择30名左右研究对象，询问诸如“举例说明轻松快乐的组织环境的特征”等问题。第二，编码访谈数据。运用多次迭代方法对访谈材料进行编码和归类，形成初步测量题项，并邀请组织行为领域的专家参与题项修订。第三，进行探索性因子分析(EFA)和验证性因子分析(CFA)，确定量表因子结构。第四，通过比较玩兴氛围与创新氛围的相关性，检验玩兴氛围量表的区分效度；分析玩兴氛围与创造力和创新行为的关系，验证所开发量表的预测效度。
+
+# 2.2研究二：玩兴氛围对员工创新行为的跨层作用机制
+
+资源保存理论从维护与获取资源的角度出发，提出回避资源损失的首要原则，同时认为人们有通过资源构建策略防止资源损失、从损失中恢复，以及获取新资源的动机(Hobfoll,2OO1)。Halbesleben，Neveu，Paustian-Underdahl 和 Westman(2014)进一步提出，资源可得性和资源价值信号都可能引发个体的资源投资行为。玩兴氛围强调工作自主权、相互信任、领导开放和幽默(余嫔等，2003)，其中蕴含着丰富的心理资源和社会资源。由此，玩兴氛围有助于个体获取资源，继而积极参与资源构建策略（如工作重塑）来增加和扩展新资源。
+
+工作重塑是员工在工作要求和工作资源之间寻求平衡而进行的主动性工作调整行为(Tims etal.,2012)。Wrzesniewski和Dutton(2001)从员工视角开创性地提出工作重塑概念后，学者们将研究重点聚焦在个体层次。由于团队已经成为组织完成工作的主要方式，如团队成员在工作过程中具有相似体验、承担类似任务目标、从事定期交流和互动，以及共享知识信息。因此，工作重塑也可以是一种协作性活动，由群体成员共同协商决定任务边界和具体的工作实践，实现共同目标(Leana et al.,2009;Tims,Bakker,Derks,& VanRhenen,2013b)。工作重塑强调增加积极工作资源和挑战性工作要求、规避阻碍性工作要求(Tims etal.,2012)，从资源保存理论的视角来看就是竭力地增加资源并防止资源损失。Tims 等人(2013a)认为工作重塑是一种积极的资源构建策略，不仅减少因工作要求导致的个体资源损耗，而且能促进个体工作和社会资源的增加。如上所述，玩兴氛围意味着组织内充满多种支持性资源，不仅让员工体验到乐趣，还可以带来心理资源和社会资源(Petelczycetal.,2018)。例如，同事互动唤起积极情感体验而增进友谊，上下级互动取得他人支持等。进一步地，玩乐还能提高团队凝聚力，这是一种关键的社会资源(Petelczyc etal.,2018)，能增强同事间的信任，有利于他们共同参与工作调整。因此，玩兴环境有助于个体/团队获取资源，继而积极进行工作重塑来扩展新资源。值得关注的是，互联网企业富含工作重塑的土壤，其内部职位设计留有大量的“空白地带”(梁萌，陈建伟,2017)，同时给予员工探索核心工作职责之外的自主权。这不仅提供了员工调整工作的机会，还降低了工作重塑的风险。因此，本研究推论玩兴氛围能够提高个体及团队成员共同参与工作重塑活动的动能。
+
+员工创新行为是多阶段的过程，始于问题发现和创意产生，继而为创意寻求支持，最终将创意落地 (Scott＆ Bruce,1994)。在团队层面，团队创新行为是指在团队中引入或应用新颖、有用的创意、流程、产品或服务。创新行为的各阶段都需要充足的资源，丰富的资源有利于创新的发生(Amabile etal.,1996)。更重要的是，创新活动面临较大风险，创新失败会引致资源损失，如失败后工作的变动、上级和同事的不理解等。根据回避资源损失的原则，在没有充足资源的条件下，员工有所顾虑而使得创新活动不易发生。工作重塑帮助员工减少了角色模糊或冲突等阻碍性工作要求、提升了专业知识和新技能(Tims etal.,2013b)，在探索新任务的过程中更容易进发出新的观点和想法(Amabile etal.,1996)。此外，创新活动是一个社会交互过程(Anderson,Potocnik,& Zhou,2014)，工作重塑者通过积极地构建和拓展社会网络(Tims etal.,2012)，获得领导和同事的支持与帮助，有助于他们消除担忧和顾虑，去尝试一些突破现有规则的新方法(王石磊，彭正龙,2013)。因此，本文推测员工/团队工作重塑策略能够为创新行为提供充足的资源。相关研究发现工作重塑正向影响员工创造力(刘云硕，叶龙，郭名，2019)和创新绩效(Gordon,Demerouti,Le Blanc,&Bipp,2015)。基于此，本研究提出：
+
+假设1：团队玩兴氛围通过员工工作重塑的中介作用影响员工创新行为。  
+假设2：团队玩兴氛围通过团队工作重塑的中介作用跨层影响员工创新行为。  
+假设3：团队玩兴氛围通过团队工作重塑的中介作用影响团队创新行为。
+
+# 2.3研究三：玩兴氛围影响员工创新行为的边界条件
+
+目前玩兴氛围实证研究较少，仅有的两项研究虽然探讨了玩兴氛围与组织创新的关系，但是研究结论不一致(曾琦,2008;Karamfilov,2018)，这意味着玩兴氛围与员工创新的关系有可能受情境因素影响。
+
+创造力成分模型强调，员工创造力是个体外部和内部因素共同作用的结果(Amabile,1997)。外部情境尤其是工作环境对创造力的形成有很大的影响，存在促进创造力（如自由）和阻碍创造力（如墨守成规的高管）的成分。内部因素主要聚焦于个体的内部动机、创造性技能和专业知识对创造力的提升作用。该模型进一步指出，促进性工作环境与高水平个体因素的匹配会带来最佳的创造力。例如，Zhu，Gardner 和Chen(2018)证实了外在动机调节团队合作氛围对个体创造力的间接作用。因此，本研究基于创造力成分模型，探索领导和员工的认知技能、多重认同等因素在激发员工创新行为过程中的调节作用。
+
+领导会带来员工创新所需的关系资源，如领导成员交换关系会促进真实型领导对员工创新行为的积极影响(韩翼，杨百寅,2011)。随着研究的深入，学者提出领导能为员工的创新活动提供重要的认知资源。江静和杨百寅(2016)验证了领导的批判性思维在团队成员换位思考促进团队任务反思和团队创造力过程中的强化作用，并认为批判性思维较之领导成员关系在创新过程中更为关键，是激发创新行为的能动性资源。
+
+思维方式是一种认知技能，批判性思维方式尤其被心理学家认为是需要经过专门训练得以养成的技能，表征运用证据、方法等方式进行分析、诠释、推论和评估的认知过程(候玉波，2017)。批判性思维被认为普遍存在于人类社会，是“自我矫正的人类现象，.....是一种强大的资源”（彼得·费希万，诺琳·费希万，爱格尼斯·蒂瓦里，费利克斯·尤恩，2009)。基于资源保存理论，批判性思维作为一种反思思维和探究工具，是一种重要的个体资源。Hobfoll(2001)将个体珍视的资源分为物质资源、条件资源、个体资源和能量资源，不同种类资源的互补，满足个体不断增加资源存量、实现工作目标的目的。其中，社会支持等条件性资源，其价值随着时间推移会降低。由于资源的减少会引发担忧，人们总是积极寻求增加资源，特别是通过投资获取新资源来满足对资源的需求(Halbesleben et al.,2014)。由此推论，领导的批判性思维方式成为员工的可获性资源，可以有效补充玩兴氛围这类社会支持资源。具体来说，玩兴氛围激发了个体主动调整工作的动能，经由领导的理性分析和指点，有助于员工更好地改进工作。即领导认知资源与员工从玩兴氛围获得的支持性资源交互作用，共同促进员工的工作重塑。
+
+此外，领导的认知技能还能影响员工的认知活动，如对员工的创意想法进行理性评价(Mumford,Todd,Higgs,&McIntosh,2017)，促使员工更广泛地搜寻信息,探索问题本质和真相，寻找新的问题解决路径(Jiang&Yang,2015)。已有研究指出，具有批判性思维的领导会激发员工的反思和深入探究，员工因而能够认真审视问题，合理公正地进行评估，最后提出更为适宜的问题解决方案(Tiwari,Lai,So,&Yueh,2006)。事实上，互联网行业面对不确定的环境，更需要领导的明辨性认知技能帮助员工多角度、有理性地思考，鼓励员工质疑现有的工作方式，探索创新的方向。可以推论，在互联网企业宽松愉快的团队玩兴环境下，领导通过批判性认知技能为员工带来理性思维的认知资源，促使他们重新审视工作环境中的各类资源(Amabile,1997)，推动资源的有效整合、运用，有利于员工表现出更多的创新行为(江静，杨百寅,2016)。由此，提出假设：
+
+假设4：领导批判性思维调节团队玩兴氛围对员工工作重塑（4a）和员工创新行为（4b）的积极影响，即领导具有高水平的批判性思维时，玩兴氛围对员工工作重塑和创新行为的积极影响更大。
+
+思维方式不分国界，但不同地域的人在思维特征上有所区别。在中国情境下，国人受传统文化的影响极深，思维方式更偏向辩证和中庸。中庸的人是“佳友”(张军伟，龙立荣,2016)，中庸思维亦是资源和工具。孔子提出中庸之时，意指“过犹不及，恰到好处”。作为与批判性思维相异的思维方式，中庸思维指引着个体如何看待事物的多个侧面、如何认识问题，以及如何选择行动方案。在判断问题并做出选择时，中庸思维强调全局考虑，实现多方平衡(段锦云，凌斌,2011)。高中庸思维的领导，提倡兼容并蓄，能换位思考，全面了解员工的特点，包容员工的想法。
+
+在充满社会支持的玩兴氛围中，员工感到放松，愿意分享与交流学习(Petelczyc etal.,2018)。而具有高水平中庸思维的领导善于听取不同意见，鼓励员工各抒己见(杨中芳,2009)，员工更容易放下顾虑，勇敢表达自己的观点。具体来说，高中庸思维领导的包容会使员工感到“安全”，玩兴氛围中的丰富资源会促使员工愿意尝试有风险的工作重塑和创新行为；相反，低中庸思维领导会使员工将工作重塑和创新行为视为不安全的活动，此时，即使处于玩兴氛围中，员工亦没有足够动力参与工作重塑和创新行为。即高中庸思维的领导成为激发员工投身工作重塑和创新过程的重要催化剂。与批判性思维的领导相比，中庸思维的领导更能包容在玩兴环境中所激发的各种想法，并用委婉方式指出员工的不妥之处，以规避非必要的冲突。然而，这也可能使得员工的工作环境过于宽松，从而对组织的任务目标不够聚焦。即可能存在Petelczyc 等人(2018)的担忧，当缺乏约束时，宽松环境下的员工行为不一定总能有利于组织目标。因此，本研究进一步推测，相比批判性思维的领导，中庸思维的领导在玩兴氛围与员工工作重塑和创新行为之间的积极调节作用较小。
+
+假设5：领导中庸思维调节团队玩兴氛围对员工工作重塑（5a）和员工创新行为（5b）的积极影响，即领导具有高水平的中庸思维时，玩兴氛围对员工工作重塑和创新行为的积极影响更大。
+
+假设6：较之批判性思维，领导中庸思维对玩兴氛围与员工工作重塑（6a)和员工创新行为（6b）间关系的调节作用较小。
+
+另外，根据创造力成分理论，员工的创造性行为是个体获得的支持性资源和个体创造性技能的交互作用产物(Amabile,1997)。可以推论，员工的批判性思维作为重要的创造性技能，能够促进工作重塑所提供的丰富结构性资源和社会性资源，去激活个体的创造潜能，使其能有更好的创新表现。同理，员工的中庸思维使得员工能从组织全局思考问题，更好地利用团队环境中丰富的社会支持和心理资源，吸取、融合来自不同利益主体的差异性观点，在工作中提出新的创意并予以实施。因此，我们提出：
+
+假设7：员工批判性思维调节员工工作重塑对员工创新行为的积极影响，即员工具有高水平的批判性思维时，员工工作重塑对其创新行为的积极影响更大。
+
+假设8：员工中庸思维调节员工工作重塑对员工创新行为的积极影响，即员工具有高水平的中庸思维时，员工工作重塑对其创新行为的积极影响更大。
+
+创造力成分理论还认为，个体动机是员工参与创造活动的核心驱动因素(Amabile,1997)。组织认同是个体认同自己属于特定组织的身份，表征了个体对组织的归属感(Ashforth&Mael,1989)。当个体把“我”看成是“我们”中的一员时，会对组织产生情感依赖，内化组织的要求(Tavares,Van Knippenberg，& VanDick,2016)，激发出为组织目标和利益服务的动力。此时，员工不仅将服务组织具化为提高工作绩效的内在要求(Hekman etal.,2009)，还会从事角色外行为如帮助他人，来回报组织的关怀和期望。Song 等人(2018)进一步指出，团队认同激发亲组织动机，使团队成员愿意通过亲密合作、知识信息分享等方式，促进创新行为，实现团队发展。同时，互联网企业以知识型员工为主体，他们对专业和知识的尊重甚于组织(德鲁克,2006)。据此，本文尝试解析组织认同和专业认同在员工工作重塑与创新行为之间的边界作用。
+
+工作重塑是基于资源驱动和自我导向为特征的主动性工作调整行为。对于高组织认同的员工而言，他们把自己和组织视为一体，内化组织目标和价值观(Ashforth&Mael,1989)。这就意味着高组织认同的员工会从组织的角度进行工作重塑。组织认同程度越高的员工越倾向于从组织利益出发，思考如何通过革新工作内容和方式，不断提出在产品、服务方面的新想法，并摸索符合组织利益的、行之有效的产出新成果的方式。此时，高组织认同的员工会将工作重塑获得的结构性资源和社会性资源投入符合组织利益的活动中，即高组织认同的工作重塑者聚焦组织利益，其创新内在动机更容易被唤醒(李辉,2018)，推动其勇于提出和实施新想法。反之，低组织认同的员工非但不会考虑组织利益，反而会在自我利益驱动下，参与减少挑战性工作要求等活动。从长远来看，这类行为会导致个体和组织利益受损(Tims etal.,2013a)。之前研究已证实，以组织利益为目标的主动行为（如谏言行为、反馈寻求行为）带来了积极的工作结果(唐汉瑛，龙立荣,2019;王石磊，彭正龙,2013)。因此，我们提出：
+
+假设9：组织认同调节员工工作重塑对员工创新行为的积极影响，即员工具有较高组织认同时，员工工作重塑对其创新行为的积极影响更大。
+
+近年来，专业人员在组织中占比不断增加，已成为关键的人力资源。令人遗憾的是，专业性员工的心理特征（如专业认同）及其作用结果的相关研究较为少见，之前研究仅仅从医生、教师等知识型员工角度进行了一些初步探索(Hekmanet al.,2009)。而在创新速度和创新成果处于头部的互联网企业，其软件开发、营销管理和咨询设计等专业人员通常需要长时间的规范训练，这类人员的专业认同程度更高，且创新性是衡量其工作成果的重要依据。因此，探索专业认同对互联网企业员工创新行为的影响具有较大价值和意义。
+
+专业认同高的员工重视其所从事专业工作的社会价值，渴望个人成长需要的满足(Hekman etal.,2009)，善于从专业角度出发思考问题，打破常规寻求发展(Burris,Rockmann,&Kimmons,2017)。一方面，专业认同度高的员工倾向于从职业能力提升的角度出发，在工作重塑提供了充足资源的条件下，寻求挑战性高、难度大的创新任务；另一方面，他们有意愿参与增加结构性工作资源的活动，如提高专业水平、学习新技能，以及积极构建有利于促进职业成长的社会网络，实现个体的成长。这无疑使得高专业认同的工作重塑者能够用丰富的结构性资源和社会资源来唤醒内在创新动机(李辉，2018)，激发出个体勇于尝试和实施新想法的行为。反之，低专业认同的员工会因短期利益驱动更多地选择减少挑战性工作要求、增加阻碍性工作要求等行为，导致创新意愿低、创新资源少，表现出较少的创新行为。由此，本研究提出：
+
+假设10：专业认同调节员工工作重塑对员工创新行为的积极影响，即员工具有较高专业认同时，员工工作重塑对其创新行为的积极影响更大。
+
+与工作相关的多重身份普遍存在，形成了不同的身份认同（如组织认同、专业认同）(Hekman etal.,2009)。在互联网企业，组织认同和专业认同是共生相伴的现象，某个员工认同其隶属组织的同时亦能认同其专业经历和背景。之前研究对组织认同与专业认同的关系及其联合作用的结论并不一致。有学者认为两种认同同时到达较高水平可能引发身份冲突的矛盾(Johnson,Morgeson,Ilgen,Meyer,&Lloyd,2006)，Hekman 等人(2009)进一步发现，当员工的组织认同高而专业认同低时组织支持感对工作绩效的正向影响最强。国内学者亦得到相似的结论，袁庆宏等人(2014)发现员工组织认同低而专业认同高时职业成长对员工离职倾向的影响最强。另一方面，Clark,Gioia,Ketchen 和 Thomas(201O)提出从双重认同的互动性而非差异性来解释它们的作用效应，国内学者基于高校教师的研究样本，亦证实了专业认同对组织认同有显著的正向作用(张宁俊，朱伏平，张斌,2013)。
+
+进一步分析，组织认同和专业认同的主要目标都是维持一个积极的身份，但在目标达成的路径上有所不同。前者强调个体从组织角度进行思考和行动，后者侧重于从个人职业能力和发展的视角来分析(袁庆宏等,2014)。换言之，组织认同强化员工工作重塑的组织动机取向，而专业认同则激活员工工作重塑的个人（成就）动机取向。动机性信息加工理论认为内部动机与亲社会动机共同影响创造力(Grant&Berry,2011)，其原因在于亲社会动机有助于增强个体对他人观点、需求的敏感度，由此放大内部动机对创造力的正向效应(李阳，白新文,2015)。从心理比较理论视角来看，内在动机会比较不同任务的特点，根据任务有趣性和难度等因素选择性地表现出不同强度的动机状态(Shin＆Grant,2019)。因此，专业认同激活的内在动机会更偏好挑战性大的创新任务，在此情境下更多的创新行为被激发出来。本文推论，对于高组织认同和高专业认同的工作重塑者，他们既考虑组织需要又兼顾个体挑战性动机，促进增加结构性资源、社会性资源、挑战性工作要求的活动，同时减少阻碍性工作要求的活动，其创新意愿强、创新资源多、创新行为频繁。相反，对于低组织认同和低专业认同的工作重塑者，其创新资源少、创新意愿低，表现出的创新行为频率最低。由此，本研究提出：
+
+假设11：员工工作重塑、组织认同和专业认同对员工创新行为存在三重交互作用，即组织认同和专业认同越高，员工工作重塑对其创新行为的正向影响越强。
+
+# 3理论建构
+
+面对激烈的市场竞争和快速的技术变革，互联网企业不断加快技术更迭以获取竞争优势。为了有效地激发员工的创造性，越来越多的互联网企业根据行业的工作特点与雇员队伍特征，通过赋予员工自主权、丰富心理资源等方式，积极地营造组织或团队玩兴氛围。本研究从中国互联网企业的管理实践出发，借鉴西方组织玩兴氛围的研究，试图发展中国情境下的团队玩兴氛围理论，构建团队玩兴氛围影响员工创新行为的跨层次模型，阐释团队玩兴氛围的影响机制，并为实证研究提供了有价值的理论框架。总体而言，本研究促进了玩兴氛围理论的发展。
+
+首先，提出了中国互联网企业团队玩兴氛围概念，开发相应的测量工具。以往玩兴氛围的研究建立在西方企业实践的基础之上，通过案例研究(Lundin,Paul,& Christensen,2000; Plester& Hutchison,2016;Kamalan& Sutha,2017)和实证研究(Karl,Peluchette,Hall,&Harland,2005)，初步构建互联网、高科技企业玩兴或乐趣活动的表现形式并检验其影响效果(Ford etal.,2003；McDowell,2004;Tews etal.,2012; Tews,Michel,& Allen,2014;Van Vleet & Feeney,2015)。国内学者则在中国情境中运用、完善西方学者提出的玩兴或乐趣理论(余嫔,2005；刘文彬，唐杰，邵云飞,2017；杨洁等,2019)，尝试检验玩兴或乐趣对组织或员工的积极影响。尽管已有研究促进了对企业玩兴活动的关注，加深了对这一现象的认知，但是这些研究常常将“玩”和“乐”混淆(Petelczyc etal.,2018)，探讨企业玩乐活动的一般措施和实践，未能清晰地辨析玩兴、乐趣的活动及氛围的差异(McDowell,2004;Fluegge-Woolf,2014;Tews et al.,2014)，导致对玩兴氛围的内涵界定存在不一致。中国互联网企业发展迅猛，已成为经济系统的重要构成，其中部分领先企业正积极践行各种玩兴活动，但是理论研究明显滞后于实践。此外，与目前大多数组织氛围研究类似，玩乐氛围的相关研究多在个体层面展开，探讨个体对组织环境的知觉如何影响其态度和行为(Tews etal.,2014；刘文彬等,2017)，没有考虑到团队成员的共同体验对团队成员协作行为的影响。本研究关注互联网企业小微模块或小组模块以团队形式开展创新活动的现实情境，提出在团队层面才能更好地抓住互联网企业员工共享的氛围感知。在此基础上，依从组织氛围理论对玩兴氛围要素进行解构，继而发展出中国情境下互联网企业团队玩兴氛围概念。
+
+同时，现有玩兴氛围测量工具不能很好地适用于中国互联网企业情境。西方学者最早在创新氛围研究中提出玩兴氛围，认为玩兴和幽默是刺激创新行为的因子之一(Isaksen et al.,1999)，并从组织创新特征中提炼出玩兴氛围的构念。在此基础上形成了包含5个题项的玩兴氛围子量表，用于测量员工感知到的工作环境充满笑声和幽默的程度。基于这一玩兴氛围概念，台湾学者根据IDEO公司的实践，开发了包括8因子 45 题项的组织玩兴氛围量表(Organizationalplayfulnessclimate questionnaire，简称OPCQ)（余嫔等,2003)。该量表涉及的内容比较全面，但是测量题项源于对教师、IT和培训咨询工作人员的访谈，由于访谈对象所处行业差异较大，内容效度和构念效度都有待验证。本研究基于国内互联网企业，借鉴组织创新氛围理论和玩乐氛围的研究成果，强调团队玩兴氛围的核心是团队和直接上级鼓励员工的玩兴，组织创造条件支持员工轻松互动，促进员工探索新的方式来实现工作目标。基于此，提出鼓励员工玩兴可以具体概括为同事、领导和组织等三方面的支持，共同构成团队玩兴氛围的三个结构维度。研究结果弥补了现有测量情境化程度不高的问题，促进了玩兴氛围构念的发展。
+
+其次，基于资源保存理论，阐释了团队玩兴氛围影响创新行为的作用机制，构建了团队玩兴氛围通过资源构建策略影响创新行为的多层次理论模型。已有研究主要从认知（如人际信任、组织嵌入）和情感（如情感承诺、积极情感、乐趣体验）视角，验证了玩兴/乐趣的工作环境对员工创新绩效的积极作用(Chan&Mak,2016; Fluegge-Woolf,2014; Han et al.,2016；马丽，鲍红娟，杨春江，毛承成,刘伟姣,2016; Tang,Liu,&Liu，2017)，能够使组织和员工从中受益(Plester et al.,2015；张正堂,2009)。这些分析视角聚焦玩兴氛围对员工心理状态的影响，但忽视了玩兴氛围的资源属性及其对员工行为的影响。本研究推测，当团队中充满各种有助于玩兴的资源(Petelczyc etal.,2018)，会促使员工表现出资源建构策略（如工作重塑）来获得更多的新资源。例如，中国互联网企业普遍存在创新要求高、挑战性大、工作时间长等特征，良好的玩兴氛围有助于营造良好的人际关系、缓解疲劳、增加个体心理资源和支持性社会资源(Plester etal.,2015；叶余建，张炜,2019)，也有利于员工投入高风险、高要求的创新活动。因此，本研究从资源保存理论视角构建互联网企业玩兴氛围影响员工创新行为的作用机制模型，既拓展了玩兴氛围的理论框架，又将资源保存理论运用到互联网企业情境中进行检验。进一步地，互联网企业的员工通常是具有专业背景的知识型员工(德鲁克,2006；梁萌,2016)，管理者往往对其有较高的创新期望。根据创造力成分理论，创新行为的实现需要员工具有足够的动机、知识和认知策略。基于这样的现实情境，本研究同时从外部情境（领导）和内部因素（员工）两方面，阐明团队玩兴氛围影响员工创新行为的边界条件，具体考察领导和员工的批判性思维与中庸思维，以及员工的组织认同与专业认同对创新行为的影响。本研究既响应了Petelczyc 等人(2018)提出的探索玩兴氛围对个体、团队和组织影响的边界条件的倡议，又实现了在互联网行业中检验团队玩兴氛围的影响机制，促进了实证研究的情境化，为互联网企业在领导培养、员工选聘和发展等方面提供管理启示。
+
+最后，从中国文化特征出发，本研究采用主位取向，超越现有的集中在西方情境中发展的玩兴氛围研究，或通过跨文化比较识别不同文化背景中玩兴或玩兴氛围差异的研究。具体而言，在发展玩兴氛围的测量工具时，考察了中国文化对待工作中玩乐的态度，同时结合国内互联网企业的玩兴实践，提出蕴含中国文化特点的企业玩兴实践措施或制度。这既丰富了西方玩兴活动、氛围的研究，又为中国互联网企业营造玩兴氛围提供了针对性的理论依据，有助于企业明晰应该从哪些方面，如组织支持抑或同事互动等，进行玩兴工作环境或氛围的打造。
+
+# 参考文献
+
+[1]彼得·费希万，诺琳·费希万，爱格尼丝·蒂瓦里，费利克斯·尤恩.(2009).作为普遍人类现象的批判性思 维—一中国和美国的视角．北京大学学报(哲学社会科学版),46(1),55-62.   
+[2] 德鲁克,P.F(2006).巨变时代的管理(朱雁斌 译).北京：机械工业出版.   
+[3] 段锦云，凌斌.(2011).中国背景下员工建言行为结构及中庸思维对其的影响．心理学报,43(10),1185- 1197.   
+[4] 高孟立，范钧.(2018).外部创新氛围对服务创新绩效的影响机制研究．科研管理,39(12),103-112.   
+[5] 韩翼，杨百寅.(2011).真实型领导、心理资本与员工创新行为：领导成员交换的调节作用．管理世界， (12), $7 8 \mathrm { - } 8 6 \mathrm { + } 1 8 8$   
+[6] 侯玉波.(2017).批判性思维对中国人创新观念与行为的影响．心理科学进展,25(5),723-730.   
+[7]胡贝贝，王胜光，段玉厂.(2019)．互联网引发的新技术-经济范式解析．科学学研究,37(4),582-589.   
+[8]江静，杨百寅.(2016).换位思考、任务反思与团队创造力：领导批判性思维的调节作用．南开管理评论, 19(6),27-35.   
+[9]李海舰，田跃新，李文杰.(2014).互联网思维与传统企业再造．中国工业经济,(10),135-146.   
+[10] 李辉.(2018).工作资源对员工创新行为的影响研究：基于资源保存理论的视角．南京工业大学学报(社 会科学版),17(6),73-84.   
+[11] 李阳，白新文.(2015).善心点亮创造力：内部动机和亲社会动机对创造力的影响．心理科学进展,23(2), 175-181.   
+[12] 梁萌.(2016).技术变迁视角下的劳动过程研究—一以互联网虚拟团队为例．社会学研究,31(2),82- $1 0 1 + 2 4 3$   
+[13] 梁萌，陈建伟.(2017).补偿还是自主：互联网技术嵌入与工作压力作用机制变迁研究．中国人力资源 开发,(8), $3 6 - 4 7 + 7 0$   
+[14]梁萌.(2019).弹性工时制何以失效？互联网企业工作压力机制的理论与实践研究．社会学评论，7(3), 35-49.   
+[15] 聂晶，卢新怡.(2016).玩兴与创造：基于个体和组织视角分析．中国科技论坛,(3),19-23.   
+[16] 刘文彬，唐杰，邵云飞.(2017).基于广义文献的组织管理中的“工作乐趣”研究.中国软科学,(9),175- 183.   
+[17] 刘云硕，叶龙，郭名.(2019)．中国情境下工作重塑对员工创造力的影响研究．软科学,33(5),87-91.   
+[18] 马丽，鲍红娟，杨春江，毛承成，刘伟姣.（2016)．新生代员工工作场所乐趣对离职的影响:组织嵌入的 中介作用．中国人力资源开发,(23),6-14.   
+[19] 唐汉瑛，龙立荣.(2019).员工建言促进工作绩效:谦卑领导的调节作用．管理科学,32(1),95-104.   
+[20] 王石磊，彭正龙.(2013).新员工反馈寻求行为对其创新行为的影响研究．管理评论,25(12),156-164.   
+[21] 杨洁，常铭超，张露.(2019)．工作场所乐趣对员工创新行为的作用机制研究．管理科学,32(3),28-41.   
+[22] 杨中芳.(2009).传统文化与社会科学结合之实例：中庸的社会心理学研究．中国人民大学学报,2009, 23(3),53-60.   
+[23] 余嫔，吴静吉，林伟文.(2003)．成人玩兴量表与组织玩兴气氛量表之发展.测量学刊,50(1),73-110.   
+[24]余嫔.(2005).工作趣味化：玩兴管理的概念与方向．应用心理研究,(26),73-94.   
+[25] 叶余建，张炜.(2019).互联网工程师工作绩效影响因素研究：基于工作场所乐趣和代际差异的解释. 高等工程教育研究,(4),119-124.   
+[26] 袁庆宏，丁刚,李珲.(2014)．知识型员工职业成长与离职意愿：组织认同和专业认同的调节作用．科 学学与科学技术管理,35(1),155-164.   
+[27] 曾琦.(2008)．领导风格、组织玩兴气氛及组织创新之研究(硕士学位论文)．高雄应用科技大学，台湾.   
+[28] 张军伟，龙立荣.(2016).服务型领导对员工人际公民行为的影响：宽恕氛围与中庸思维的作用．管理 工程学报,30(1),43-51.   
+[29] 张宁俊，朱伏平，张斌.(2013)．高校教师职业认同与组织认同关系及影响因素研究．教育发展研究， 33(21), 53-59.   
+[30] 张正堂.(2009).如何让研发人员“乐在其中”：营造促进创新的玩兴氛围．中国人力资源开发,(7),29- 32.   
+[31] 赵继新，王梦茜，赵大丽.(2018).基于 Price-Mueler 模型的互联网公司员工离职影响因素研究．河北 经贸大学学报,39(5),93-101.   
+[32] 赵宇楠，程震霞，井润田.(2019).平台组织交互设计及演化机制探究．管理科学,32(3),3-15.   
+[33] Abramis,D.J. (1990). Play in work: Childish hedonism or adult enthusiasm? American Behavioral Scientist, 33(3),353-373.   
+[34]Amabile,T.M.,Conti,R.,Coon,H.,Lazenby,J.,&Herron,M. (1996).Assessing the work environment for creativity. The Academy of Management Journal, 39(5), 1154-1184.   
+[ɔJ」Aavie, 1. ivI. (1yy /). viouvauig CIeauvity Il UIgazauOIs I uUlg wIlat you iove aiu iovig wHat you do. California Management Review, 40(1),39-58.   
+[36] Anderson,N.,Potocnik,K.,& Zhou,J. (2O14).Innovationand creativity inorganizations: Astate-of-thescience review, prospective commentary,and guiding framework. Journal of Management, 40(5),1297-133.   
+[37] Ashforth, B.E.,& Mael,F. (1989). Scocial identity theoryand the organization. Academy of Management Review,14(1),20-39.   
+[38] Burris,E.R.,Rockmann,K.W.,& Kimmons,Y. S.(2017). The value of voice to managers: Employee identification and the content of voice. Academy of Management Journal, 60(6),2099-2125.   
+[39] Chan, S. C.,& Mak,W.(2016). Have you experienced fun in the workplace. Journal of Chinese Human Resource Management, 7(1),27-38.   
+[40] Clark,S.M.,Gioia,D.A.,Ketchen,D.J.,& Thomas,J.B.(20lO).Transitional identity as a facilitatorof organizational identity change during a merger. Administrative Science Quarterly,55(3),397-438.   
+[41] Csikszentmihalyi, M. (1975). Beyond boredom and anxiety: The experience of play in work and games. San Francisco: Jossey-Bass.   
+[42] Ekvall, G. (1996). Organizational climate for creativity and innovation. European Journal of Work & Organizational Psychology, 5(1),105-123.   
+[43]Fluegge-Woolf,E.R.(2O14).Play hard, work hard: Fun at work and job performance.Management Research Review, 37(8), 682-705.   
+[44]Ford,R.C.,McLaughlin,F.S.,& Newstrom,J. W. (2O03). Questionsand answers about fun at work. Human Resource Planning, 26(4),18-33.   
+[45] Glynn,M.A.,& Webster,J.(1992).The adult playfulnessscale: Aninitialassessment. Psychological Reports, 71(1),83-103.   
+[46] Gordon, H.J.,Demerouti,E.,Le Blanc,P.M.,& Bipp,T.(2O15). Job crafting and performance of Dutch and American health care professionals. Journal of Personnel Psychology,14(4),192-202.   
+[47] Grant,A.M.,& Berry,J.W. (2Ol1).The necesityof others is the motherof invention: Intrinsicand prosocial motivations, perspective taking, and creativity. Academy of Management Journal,54(1),73-96.   
+[48] Halbesleben,J.R.B.,Neveu,J.P.,Paustian-Underdahl,S.C.,& Westman,M.(2014).Geting to the “COR": Understanding the role of resources inconservation of resource theory. Journal of Management, 40(5),1334- 1364.   
+[49] Han H., Kim, W.,& Jeong,C.(2Ol6).Workplace fun for beter team performance: Focus on frontline hotel employees. International Journal of Contemporary Hospitality Management, 28(7),1391-1416.   
+[50] Hekman,D.R.,Bigley,G.A., Steensma,H. K.,&Hereford,J.F. (2o09). Combined effcts of organizational and professional identification on the reciprocity dynamic for professional employees.Academy of Management Journal, 52(3),506-526.   
+[51]Hobfol,S.E. (2ool).Theinfluence ofculture,community,and the nested-selfin thestress process: Advancing conservation of resources theory. Applied Psychology: An international Review,50(3),337-421.   
+[52]Hunter,C., Jemielniak,D.,&Postula,A. (2010). Temporal and spatial shifts within playful work. Journal of Organizational Change Management, 23(1), 87-102.   
+[53] Isaksen,S.G.,Lauer,K. J.,& Ekval, G. (1999). Situational outlook questionnaire: Ameasure of the climate for creativity and change.Psychological Reports,85(2),665-674.   
+[54] Jiang, J.,& Yang,B.(2O15). Roles of creative process engagement and leader-member exchange in critical thinking and employee creativity. Social Behavior and Personality, 43(7),1217-1232.   
+[55]Johnson,M.D.,Morgeson,FP.,IIgen,D.R,Meyer,C.J.,&Lloyd,J.W.(2006).Multiple professional identities: Examining differences in identification across work-related targets. Journal of Applied Psychology, 91(2), 498-506.   
+[56] Kamalan,K.,& Sutha,J. (2O17). Influence of fun/entertainment at workplace on employee performance in Sri Lankan IT sector. Scholars Journal of Economics, Business and Management, 4(11),739-748.   
+[57] Karamfilov,K. (2018). Leaders'endorsement of idiosyncratic workplace fun,organizational playfulness climate,and organizational creativity (Unpublished doctoral dissertation). Walden University,Minneapolis, MN.   
+[58]Karl,K.,Peluchette,J.,，Hall,L.，& Harland,L.(2Oo5).Atitudes toward workplace fun:A threesector comparison. Journal of Leadership & Organizational Studies,12(2),1-17.   
+[59] Leana,C.,Appelbaum,E.，& Shevchuk,I. (2Oo9).Work Processand quality of care in early childhood education: The role of job crafting. Academy of Management Journal, 52(6), 1169-1192.   
+[60]Loh,M.Y.,Idris,M.A.,Dolard,M.F.,& Isahak,M. (2O18).Psychosocial safetyclimate asa moderatorof the moderators: Contextualizing JDR models and emotional demands effects. Journal of Occupational and Organizational Psychology, 91(3), 620-644.   
+[61] Lundin,S.C.,Paul,H.,& Christensen,J. (2ooo).Fish! A remarkable wayto boost morale and improve results (pp. 23-35). New York, NY: Hyperion.   
+[62]Mainemelis,C.,&Ronson,S.(2Oo6). Ideas are born in fields of play: Towards a theory of play and creativity in organizational setings. Research in Organizational Behavior 27, 81-131.   
+[63] McDowell，T. (2004). Fun at work: Scale development, confirmatory factor analysis，and links to organizational outcomes (Unpublished doctoral dissertation). Alliant International University, San Diego, CA.   
+[64] Michel,J. W.,Tews,M.J.,& Alln,D.G. (2O19).Fun in the workplace: Areview and expanded theoretical perspective. Human Resource Management Review, 29(1), 98-110.   
+[65] Muceldili,B.,Erdil,O.(2016).Finding fun in work: The effect of workplace fun on taking charge and job engagement. Procedia- Social and Behavioral Science,235,304-312.   
+[66] Mumford,M.D.,Todd,E.M.,Higgs,C.,McIntosh,T. (2017).Cognitive skilsand leadershipperformance: The nine critical skills.The Leadership Quarterly, 28(1),24-39.   
+[67] Petelczyc, C.A., Capezio,A., Wang,L., Restubog,S.L.D,& Aquino, K. (2O18). Play at work: An integrative review and agenda for future research. Journal of Management, 44(1),161-190.   
+[68] Plester,B., Cooper-Thomas,H.,&Winquist,J.(2O15).The fun paradox.Employee Relations,37(3),380-398.   
+[69] Plester, B.,& Hutchison,A. (2016).Fun times: The relationship between fun and workplace engagement. Employee Relations,38(3),332-350.   
+[70] Schmidt, E.,& Rosenberg,J. (2014). How Google works (pp.26-74,203-210). London: John Murray.   
+[71] Scott， S.G.，& Bruce,R.A.(1994). Determinants of innovative behavior: A path model of individual innovation in the workplace. Academy of Management Journal, 37(3),580-607.   
+[72] Shin,J., Grant,A. M.(2019). Bored by interest: Intrinsic motivation inone task can reduce performance on other tasks. Academy of Management Journal, 62(2),415-436.   
+[73] Song,D.,Liu,H., Gu,J.,& He, C. (2018). Collectivism and employees’ innovative behavior: The mediating role of team identification and the moderating role of leader-member exchange. Creativity and Innovation Management, 27(2),221-231.   
+[74] Sorensen,B.M.,& Spoelstra,S. (20l1).Playat work: Continuation,intervention and usurpation. Organization, 19(1), 81-97.   
+[75]Tang,J.,Liu,M. S.,&Liu, W.B.(2O17). How workplace fun influences employees' performance: The role of person-organization value congruence. Social Behavior and Personality An International Journal,45(11), 1787-1802.   
+[76] Tavares,S. M., Van Knippenberg,D., Van Dick,R. (2016). Organizational identification and “currencies of exchange": Integrating social identity and social exchange perspectives. Journal of Applied Social Psychology, 46(1), 34-45.   
+[77] Tews,M.J.,Michel,J. W.,&Bartlett,A.(2O12).The fundamentalrole of workplacefun inapplicantatraction. Journal ofLeadership& Organizational Studies,l9(1),105-114.   
+[78] Tews,M.J.,Michel,J.W.,&Allen,D.G.(2O14).Fun and friends: Theimpact of workplace fun and constituent attachment on turnover in a hospitality context. Human Relations,67(8),923-946.   
+[79] Tims,M.,Bakker,A.B.,& Derks,D.(2O12).Development and validation of the job crafting scale.Journal of Vocational Behavior, 80(1):173-186.   
+[80] Tims,M.,Bakker,A.B.,& Derks,D. (2013a).The impact of job crafting on job demands,job resources,and well-being. Journal of Occupational Health Psychology,18(2),230-40.   
+[81] Tims,M.,Bakker,A.B,Derks,D.,VanRhenen,W. (2O13b).Jobcrafting at the team and individual level: Implications for work engagement and performance. Group & Organization Management,38(4),427-454.   
+[82]Tiwari,A.,Lai,P.,So,M.,&Yueh,K., (2O06).Acomparisonof the effectsof problem-based learning and lecturing on the development of students' critical thinking. Medical Education, 40(6),547-554.   
+[83] Van Vleet,M.,& Feeney,B. C. (2O15). Young at heart: A perspective for advancing research on play in adulthood. Perspectives on Psychological Science,10(5), 639-645.   
+[84] West, M.A.(199O). The social psychology of innovation in groups.In M.A.West and J.L.Farr(Eds.), Inovation and creativity at work: Psychological and organizational strategies (pp.309-333). Chichester: John Wiley & Sons.   
+[85] Wrzesniewski,A.,&Dutton,J.E.(2Oo1). Crafting a job: Revisioning employees as active crafters of heir Work.Academy of Management Review, 26(2),179-201.   
+[86] Zhou,J.& Hoever,I. J. (2O14).Research on Workplace Creativity: AReview and Redirection. Annual Review of Organizational Psychology and Organizational Behavior,1,333-359.   
+[87]Zhu,Y.-Q.,Gardner,D.G.,& Chen,H.-G.(2018).Relationships between work team climate,individual motivation, and creativity. Journal of Management, 44(5),2094-2115.
+
+# A cross-level study of playful climate on innovative behaviors in Internet companies
+
+Yang Jiel; Zhang Lul; Huang Yong² ( Schoolof Business and Administration,Guizhou UniversityofFinanceand Economics,Guiyang 55o25,China) ( School of Business, Northwest Normal University, Lanzhou 73oo70,China)
+
+Abstract: To achieve organizational goals， Internet companies often stimulate continuous innovation of employees by cultivating a happy and joyful work environment. However, the link between playful climate and employees’ innovative behaviors is still underdeveloped, primarily focusing on theoretical analyses and lacking empirical support. Building on the prior findings of playfulness in the field of organizational management, the present study explores three important issues.Based on the theory of organizational climate and the characteristics of playfulness,study 1 develops a scale to measure team playful climate in Chinese Internet firms. Standing on the team level study 2 discusses the cross-level mechanisms underlying the relationship between playful work environment and employees’ innovation from the perspective of Conservation of Resources Theory. Based on the Componential Theory of Individual Creativity, study 3 introduces individual thinking styles and multiple identities to explore the boundary conditions that stimulate employees' innovative behaviors. Our findings have developed the concept of team playful climate in Chinese Internet companies,enhanced playful climate theory. Andthe implications for practice in the context of Internet companies are discussed.
+
+Key words: playful climate; innovative behaviors; job crafting; conservation of resources theory; componential theory of individual creativity

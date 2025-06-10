@@ -1,0 +1,487 @@
+[
+    {
+        "type": "text",
+        "text": "Impact of large-scale vegetation restoration project on summer land surface temperature on the Loess Plateau, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HE Guohua, ZHAO Yong\\*, WANG Jianhua, WANG Qingming, ZHU Yongnan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "State KeyLaboratoryof StimulationandRegulationof Water Cycle in River Basin,China Instituteof Water Resourcesanc Hydropower Research, Beijing 10o038, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A large-scale afforestation project has been carried out since 1999 in the Loess Plateau of China. However, vegetation-induced changes in land surface temperature (LST) through the changing land surface energy balance have not been well documented. Using satelite measurements, this study quantified the contribution of vegetation restoration to the changes in summer LST and analyzed the effects of different vegetation restoration paterns on LST during both daytime and nightime. The results show that the average daytime LST decreased by $4 . 3 ^ { \\circ } \\mathrm { C }$ in the vegetation restoration area while the average nighttime LST increased by $1 . 4 ^ { \\circ } \\mathrm { C } .$ . The contributions of the vegetation restoration project to the changes in daytime LST and nighttime LST are $58 \\%$ and $60 \\%$ ,respectively, which are far greater than the impact of climate change. The vegetation restoration pattern of cropland (CR) converting into artificial forest (AF) has a cooling effect during daytime and a warming effect at nightime, while the conversion of CR to grassland has an opposite effect compared with the conversion of CR to AF. Our results indicate that increasing evapotranspiration caused by the vegetation restoration on the Loess Plateau is the controlling factor of daytime LST change, while the nighttime LST change is affected by soil humidity and air humidity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: vegetation restoration project; summer; land surface temperature; climate change; Loess Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Arid and semi-arid regions cover $41 \\%$ of the Earth's land surface,with $38 \\%$ of the human population living in the regions. These regions are more ecologically vulnerable and sensitive to climate change and human activity, which can affect the health of humans (Reynolds et al., 2007; Yang et al., 2015, 2016). A series of large-scale ecological restoration projects have been carried out throughout the world to address potentially serious environmental and ecological issues, and China has also taken efforts in recent decades on the issue (Yi et al., 2O09; Allan et al., 2013). In 1999,a large-scale vegetation restoration project, Grain for Green (GFG) which is the largest eco-environmental construction project and most important nature conservation program in arid and semi-arid regions of China (Liu et al., 2OO8; Feng et al., 2O13), was launched by the Chinese government. GFG involves an effort to return croplands on steep slopes to forest lands and grasslands by using a government payment scheme, which engages millions of rural households as core agents of project implementation (Lu et al., 2012; Feng et al., 2013). As the core region of GFG, the Loess Plateau is an ecologically vulnerable area, sensitive to climate factors (e.g., periodic heavy rainfall) and intensified human activities (e.g., over-grazing and coal mining) (Zhang et al., 2008; Liang et al., 2013). However, the vegetation coverage of the Loess Plateau has gradually improved since the implementation of GFG (Xin et al., 2008; Zhou et al., 2009), and over $6 { \\times } 1 0 ^ { 5 } ~ \\mathrm { { k m } } ^ { 2 }$ of croplands have been converted into forest lands and grasslands during 1999-2010 (Li et al., 2016). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Numerous studies have attempted to evaluate the impact of the vegetation restoration project on the Loess Plateau from different perspectives. For example, Gao et al. (2O17) used the Budyko framework to simulate the water cycle on the Loess Plateau during 1990-2O14. With an increase in vegetation coverage, both regional precipitation and actual evapotranspiration showed a significant increasing trend, and the increasing rate of precipitation was greater than evapotranspiration. Deng et al. (2O16) found that the storage of soil carbon increased by about $2 1 . 3 \\%$ in the topsoil $( 0 { - } 2 0 ~ \\mathrm { c m } )$ of the re-vegetated lands. Zhai et al. (2O15) investigated the relationship between vegetation restoration and land surface albedo on the Loess Plateau for the period 2Ooo-2O1O and believe that human-induced land use change is the control factor for albedo reduction. In addition, some studies discussed the effects of vegetation change on energy and material recycle from different perspectives, including energy budgets (Chapin et al., 2005; Mcvicar et al., 2007), soil organic matter (Xiao et al., 2O17), soil humidity (Jian et al., 2015), and soil erosion (Zhou et al.,2006; Zhang et al., 2016). Based on these studies, we conclude that the vegetation restoration project has greatly affected the environment and material recycling processes on the Loess Plateau. However, the changes in land surface temperature (a dominant factor in fragile ecological regions) caused by the increased vegetation coverage has not been well documented. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As the direct driving force in the exchange of long-wave radiation and turbulent heat fluxes at the surface-atmosphere interface, the land surface temperature (LST) is one of the most important parameters in the physical processes of surface energy and water balance at scales from local to global (Anderson et al., 2O08; Karnieli et al., 201O). On the one hand, the changes in LST will directly afect soil moisture content and soil evaporation, thereby indirectly affecting regional vegetation growth, agricultural production, and the water cycle (Zhang et al., 2O14; Harris et al., 2017). On the other hand, the LST is an important indicator for predicting drought, climate change, and earthquakes (Choudhury et al., 2007; Amiri et al., 2009; Vancutsem et al., 2010). The LST is the joint outcome of sensible heat and latent heat, which is influenced by albedo, evapotranspiration, surface roughness, and other factors (Xue et al., 2017). According to Peng et al. (2014), vegetation restoration changes the albedo and thus changes the amount of absorbed solar radiation at the ground surface. At the same time, vegetation restoration generally increases evapotranspiration (ET) and causes cooling effect (Jackson et al., 2O08). Therefore, vegetation restoration may result in both cooling effect and warming effect, which is related to the vegetation restoration pattern and latitude (Lee et al., 2O11). The biophysical effects of vegetation restoration on local climate can be much larger than the small global cooling effect resulting from the uptake of $\\mathrm { C O } _ { 2 }$ by growing vegetation (Lee et al., 2O11). However, these biophysical effects are also complex and depend on \"background\" climate (Wang et al.， 2O11). In general, although the large-scale vegetation restoration project has been conducted for more than 15 years, there is a complex relationship between vegetation restoration and LST, and as such， the effects of vegetation change on the LST on the Loess Plateau are not clear and need to be further elucidated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, we investigated how vegetation restoration affects the LST on the Loess Plateau, using satelite-derived LST datasets from MODIS instruments in summer (June to August) during 2000 to 2013. These LST data depend on the radiative properties of the land surface (Wan, 2008; Zhou et al.,2O12) and, therefore, have a larger diurnal amplitude than the observation data from meteorological stations (Jin and Dickinson, 2O1O). The objects of this study are: (1) to reveal the characteristics and controlling factors of the LST change in the vegetation restoration area; and (2) to quantify the effects of different vegetation restoration patterns on the LST during both daytime and nighttime. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Jinghe River Basin, a small region with an area of $4 . 5 4 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ , was chosen as the study area to minimize the effect of altitude and precipitation on the LST. The basin is located in the southern Loess Plateau of China $( 3 4 ^ { \\circ } 1 4 ^ { \\prime }  – 3 8 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { N } .$ $1 0 5 ^ { \\circ } 4 9 ^ { \\prime }  – 1 0 8 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { E }$ ; Fig. 1), dominated by a semi-arid continental monsoon climate. During the period 1980-2015, the annual summer precipitation varied from $1 9 0 ~ \\mathrm { m m }$ in the northwest to $2 5 0 ~ \\mathrm { m m }$ in the southeast part of the basin, with a mean value of $2 2 5 ( \\pm 3 0 ) \\ \\mathrm { \\ m m }$ . It has a typical water-limited landscape, with actual evapotranspiration accounting for $8 5 \\%$ of the precipitation; this percentage increases along the precipitation gradient (Jin and Dickinson, 2O1O). The main soil types in the basin are Lossiah soil and dark Lossiah soil, which are thick soil layers $( 5 0 - 8 0 ~ \\mathrm { m } )$ , loose in structure, easily collapsed and eroded. The land-use types are primarily cropland, grassland, forest, and sandy land. In Jinghe River Basin, a large number of ecological restoration projects has been implemented in the past 30 years since the 198Os. However, these costly efforts yielded litle success during the first 2O years (Peng et al., 2015). In the past 1O years, vegetation restoration has begun to achieve certain effects, and the average summer NDVI has increased from O.4 in 2O00 to O.7 in 2013. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa885d79b2558a7c606bb9ba4ba1ff681cacdb34087b751cd5afa57e4dcee199.jpg",
+        "img_caption": [
+            "Fig.1Location map and change in NDVI in the study area. (a) NDVI in 2000,(b) NDVI in 2013, and (c) NDVI change from 2000 to 2013. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We used the MODIS collection-3 products downloaded from NASA (https://www.nasa.gov/topics/ earth/index.html) for the LST, surface albedo,and ET. These products have been used extensively in a variety of areas and are proven to be of high quality (Wan, 2008; Zhou et al., 2O12). For LST, we used the 8-day average LST from Terra-MODIS (MOD11A2) products in summer (June to August) from 200O to 2013. The LST data cover both daytime $( 1 0 { : } 3 0 ~ \\mathrm { a m } )$ and nighttime (22:30 pm). In this study, we corrected the noise resulting from cloud contamination and topographic differences, and only pixels with LST error ${ < } 1 \\mathrm { ~ K ~ }$ were used. The MODIS surface albedo products (MCD43A3) include white sky albedo and black sky albedo, with a $0 . 5 \\mathrm { - k m }$ spatial resolution and a 16-day time resolution from 2000 to 2013. We used the white sky albedo shortwave broadband in this study, and the bias of the MODIS albedo was mostly less than $5 \\%$ (Liu et al., 2009). The MODIS ET data (MOD16A2) uses land cover, albedo, air temperature, radiation, humidity, and leaf area index as input data, with a $0 . 5 \\mathrm { - k m }$ spatial resolution and an 8-day interval. The mean bias of the MODIS ET is $0 . 3 ~ \\mathrm { m m / d }$ compared to ET observations from the eddy flux tower (Mu et al., 2011). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The NDVI data and land cover map (2000, 2005, 2010 and 2013) at 1-km resolution were downloaded from Resource and Environment Data Platform (http://www.resdc.cn/ DataList.aspx), of which NDVI data come from vegetation sensor with monthly interval and land cover data come from Landsat TM and Landsat ETM. In this study, we adopted the China land resource classification system for the land cover data (Zhang et al., 2010). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Meteorological data, such as relative air humidity, observed land surface temperature, and other data needed to calculate the net radiation were collected from six national weather stations. The relative soil humidity was collected from 57 national agricultural meteorological stations in the study area from 2OOO to 2O13. Meteorological data and relative soil humidity data were downloaded from Meteorological Data Center of China Meteorological Administration (http://data.cma.cn/). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the study area, we defined the region where the average NDVI increased by more than 0.2 during 2000 to 2O13 as the vegetation restoration area (VRA) (blue regions in Fig. lc) (Cao et al., 2017) and the area where the NDVI change was less than O.2 as the non-afforestation area (NAA) (yellow regions in Fig. 1c). In addition, irrigated areas, mountains (slope $> 1 5 ^ { \\circ }$ ; Deng et al., 2016), and urban areas were excluded (the areas of VRA and NAA account for $52 \\%$ and $46 \\%$ of the basin area, respectively). The average elevation difference between VRA and NAA is $1 7 8 \\mathrm { m }$ ,less than the calculation limit of $2 0 0 \\mathrm { ~ m ~ }$ (Peng et al., 2014). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because the LST in VRA was under the influence of vegetation restoration and climate, the LST change in NAA without the influence of vegetation was set as $\\mathbf { L S T _ { \\mathrm { c l i m a t e } } }$ , the LST in VRA as LSTvRA, and the effect of vegetation on LST as LSTvegetation. The relationship between LSTvRA and LSTvegetation is shown as Equation 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L S T } _ { \\mathrm { V R A } } = \\mathrm { L S T } _ { \\mathrm { v e g e t a t i o n } } + \\mathrm { L S T } _ { \\mathrm { c l i m a t e } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Remote LST was defined as the average of the daytime LST and nightime LST. All daily meteorological data were calculated to obtain a monthly average, which was finally calculated to obtain the seasonal average data for each year. The changing trend in the time series data was analyzed with the Mann-Kendall method. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 LST change in VRA ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The LST in VRA significantly decreased during the summer and exhibited a clear correlation with NDVI (correlation coefficient $_ { = 0 . 7 }$ ). We can clearly see in Figure 2a that the average NDVI in VRA increased from 0.40 in 2003 to 0.67 in 2013. With the increase in NDVI, summer LST in VRA decreased from $2 5 . 2 ^ { \\circ } \\mathrm { C }$ in 2000 to $2 3 . 5 ^ { \\circ } \\mathrm { C }$ in 2013. LST is the average value of daytime LST and nighttime LST, and these two factors together determine the changes in LST. The Mann-Kendal trend analysis indicates that the daytime LST significantly decreased from 2000 to 2013 (Test $Z = - 2 . 2 9$ ， $9 5 \\%$ confidence level), and the average temperature decrease was $0 . 3 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ The LST nighttime slightly increased during the same period (Test $Z { = } 1 . 2 0$ ， did not pass the significance test of $9 5 \\%$ )，with an average rise of $0 . 1 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ . The daytime cooling effect is significantly higher than the nighttme warming effect in VRA, meaning that the significant decreasing trend in LST from 2000 to 2013 is mainly attributed to the daytime LST change. We can also see from Figures 2b and c that the daytime LST and nightime LST in VRA both showed large fluctuations from 200O to 2013, which may be attributed to climate change and the low time resolution (8-day) of the LST product. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Effects of vegetation restoration on LST ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The LST change in VRA is affected by vegetation restoration and climate factors. To reveal the impact of the vegetation change on the LST, we assume that the LST in NAA is only afected by climatic factors, and $\\mathrm { L S T _ { c l i m a t e } }$ is used to reflect the influence of climatic factors on the LST of VRA. Based on remote LST data, we plottd the inter-annual variation curve of LSTvRA, LSTclimate, and LSTvegetation in the summer from 2000 to 2013 (Figs. 3a and b). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a74942c0e321463db398a230ad08ecf882b2f91a9d75d80418fafb88e9175b0.jpg",
+        "img_caption": [
+            "Fig. 2 Summer land surface temperature (LST) change during 2000 to 2013. (a) LST and NDVI change, (b) daytime LST change, and (c) nighttime LST change. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In daytime, LSTclimate shows a slight downward trend (Test $Z = ~ - 0 . 9 9$ ，did not pass the significance test of $9 5 \\%$ ),with an average decrease of $0 . 1 2 4 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ However, LSTvrA decreased significantly during the same period, with an average decrease of $0 . 3 1 1 { } ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ ，which is far greater than the annual decrease trend of ${ \\mathrm { L S T } } _ { \\mathrm { c l i m a t e } }$ . These results suggest that the significant decreasing trend in daytime LSTvRA could be mainly atributed to vegetation restoration, and this cooling effect became stronger with the increase in NDVI (Fig. 3a). Based on Equation 1, LSTvegetation experienced an extremely significant increase from $- 3 . 9 9 ^ { \\circ } \\mathrm { C }$ in 2000 to $- 6 . 1 3 ^ { \\circ } \\mathrm { C }$ in 2013 (Test $\\scriptstyle { Z = 3 . 2 8 }$ ， $9 9 \\%$ confidence level),and the cumulative cooling effect exceeded $2 . 5 ^ { \\circ } \\mathrm { C }$ in summer from 200O to 2O13 (Fig. 3a). By comparing the effect of LSTvegetation and LSTclimate On LSTvRA, we conclude that vegetation restoration contributed $58 \\%$ of the decrease in daytime LSTvRA, which was far greater than the contribution by the climate change $( 4 2 \\% )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In nighttime, both LSTvRA and $\\mathbf { L S T _ { c l i m a t e } }$ show a slight upward trend from 2000 to 2013, and the upward trend in LSTvRA is greater than that in $\\mathbf { L S T _ { c l i m a t e } }$ . This result means that the change in vegetation helps increase the nighttime LST in VRA. Based on Equation 1, vegetation change contributes a little to the warming effect at nighttime, with an average increase of $0 . 0 6 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ during 2000-2013 (Fig. 3b). Based on the trend in LSTvegetion, $\\mathbf { L S T _ { c l i m a t e } }$ ， and LSTvRA, we also can conclude that vegetation restoration contributed $60 \\%$ of the increase in nighttime LSTvRA. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bda002a457eeb26837c072d999a8918c71a83f6083ef27e25a14252b6b65d8b.jpg",
+        "img_caption": [
+            "Fig.3SummerLSTvRA,LSTvegeation,and LSTclimate change in vegetation restoration area during 2OO0-2013.(a) daytime and (b) nighttime. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Effects of different land cover types on LST ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Converting slope cropland (CR) into artificial forest (AF) and grassland (GR) are the main patterns of vegetation restoration on the Loess Plateau. This study used remote LST data and land cover data to analyze the impact of CR, AF, and GR on daytime and nightime LST in VRA (Fig. 4). The average LST of AF was significantly lower than those of CR and GR during the daytime, at about $2 . 2 ^ { \\circ } \\mathrm { C }$ between AF and CR and $2 . 4 ^ { \\circ } \\mathrm { C }$ between AF and GR. The difference in daytime LST between CR and GR is smal; however, the LST of GR is always higher than that of CR, with an average gap of $0 . 2 1 ^ { \\circ } \\mathrm { C }$ . During nighttime, although the differences in LST among AF, CR, and GR are only $0 . 0 7 ^ { \\circ } \\mathrm { C } { - } 0 . 6 3 ^ { \\circ } \\mathrm { C }$ , the nighttime LST of AF is always slightly higher than those of CR and GR,with differences of $0 . 5 6 ^ { \\circ } \\mathrm { C }$ and $0 . 6 3 ^ { \\circ } \\mathrm { C }$ , respectively. The land surface temperature of different land cover is affected by both climate and vegetation factors. According to Equation 1, the average LST of AF is $- 5 . 6 ^ { \\circ } \\mathrm { C }$ ，which is significantly smaller than those of GR $( - 3 . 2 ^ { \\circ } \\mathrm { C } )$ and CR $( - 3 . 4 ^ { \\circ } \\mathrm { C } )$ . This indicates that AF has a stronger cooling effect than CR and GR in daytime. Although AF, CR, and GR all show a small warming effect at nighttime, the warming effect of AF $( 0 . 7 0 ^ { \\circ } \\mathrm { C } )$ is always greater than those of CR $( 0 . 1 2 ^ { \\circ } \\mathrm { C } )$ and GR $( 0 . 0 5 ^ { \\circ } \\mathrm { C } )$ . Compared with the other years, the LST is significantly varied under different land covers during daytime and nighttime in 2005.This is because the LST in 2OO5 had larger fluctuations than in the other years, which is mainly attributed to climate factors (Fig. 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The LST changes of daytime and nightime in different vegetation restoration patterns were analyzed in this study (Fig. 5). For CR-AF (conversion from CR to AF), the cooling effect was observed in the daytime and the warming effect occurred at nightime, which is consistent with the result of the change in LST in VRA. However, for CR-GR (conversion from CR to GR), the diurnal change in LST has the opposite effect compared with CR-AF. In daytime, the cooling effect of LST of CR-AF is $2 . 2 ^ { \\circ } \\mathrm { C }$ . In contrast, the average annual nighttime LST between CR and ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1639acd1d79b57b2eba822fb3998966acbc50f0870a79fb94ed04f95292fe7f2.jpg",
+        "img_caption": [
+            "Fig.4Efects of croplands,artificial forest,and grasslands on LST from 2000 to 2013. (a) daytime and (b) nighttime. CR,cropland; GR, grassland; AF,artificial forest. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/535c0e0af07ad0dcaf2e013dd40379785c7393af5176a86c9d3bdabc4b618614.jpg",
+        "img_caption": [
+            "Fig.5LST changes of daytime and nighttime in different vegetation restoration patterns "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AF was $0 . 2 ^ { \\circ } \\mathrm { C }$ , indicating that the vegetation restoration of CR-AF warms the land surface during nighttme but with a smaller magnitude than the daytime cooling effect. The warming and cooling effect of GR are always lower than those of CR (Fig. 4), so the vegetation restoration of CR-GR increase LST during the day $( 0 . 7 ^ { \\circ } \\mathrm { C } )$ and decrease LST at nighttime $( 0 . 1 ^ { \\circ } \\mathrm { C } )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1Influence factors of LST change in daytime and nighttime ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Vegetation restoration has the cooling effect in daytime and the warming effect at nighttme in VRA (Fig. 2). The asymmetric diurnal cycle of LST results from different energy balance processes (Dai et al., 1999; Zhou et al., 2007). LST is determined by sensible heat (Allan et al., 1998); therefore, the LST can be expressed as a function of sensible heat $( H )$ in the study area (Eq. 2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L S T } = f ( \\Delta H ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Based on the surface energy balance equation, the $H$ is given as Equation 3 ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = R _ { n } - L \\times \\mathrm { E T } - G ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $H$ is the sensible heat flux $( \\mathbf { M J } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { d } ) )$ ： $R _ { n }$ is the net radiation $\\scriptstyle ( \\mathbf { M J } / ( \\mathbf { m } ^ { 2 } \\cdot \\mathbf { d } ) )$ ; ET(mm)and $G$ $( \\mathbf { M J } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { d } ) )$ are the evapotranspiration and soil heat flux, respectively, and $L$ is the latent heat of vaporization of water, which is a constant ( $L$ is about $2 . 4 5 \\mathrm { M J / k g }$ (Allan et al., 1998). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$R _ { n }$ was calculated using the Penman-Monteith equation: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { n } = { \\cal R } _ { n s } - { \\cal R } _ { n l } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { n s }$ and $R _ { n l }$ are net short-wave radiation $( \\mathbf { M J } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { d } ) )$ ） and net long-wave radiation $( \\mathbf { M J } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { d } ) )$ , respectively. $R _ { n s }$ and $R _ { n l }$ can be given as Equations 5 and 6 (Allan et al., 1998). ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { _ { n s } } = ( 1 - \\alpha ) ( a _ { _ s } + b _ { _ s } { \\frac { n } { N } } ) R _ { _ a } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { n l } = \\frac { \\sigma T _ { \\mathrm { m a x } } ^ { 4 } + \\sigma T _ { \\mathrm { m i n } } ^ { 4 } } { 2 } \\big ( 0 . 3 4 - 0 . 1 4 \\times \\sqrt { e _ { a } } \\big ) \\big ( \\frac { 1 . 3 5 \\big ( a _ { s } + \\frac { b _ { s } n } { N } \\big ) } { a _ { s } + b _ { s } } - 0 . 3 5 \\big ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The meanings and values of each coefficient in Equations 5 and 6 can be found in Liu and McVicar (2012). The albedo $( a )$ can be set as a different value for different NDVI (Zhai et al., 2015),and changes in the albedo will further affect $R _ { n }$ and LST (Peng et al., 2014). Therefore, based on MODIS albedo data, we used the annual summer surface albedo from 200O to 2013 to reflect the effect of vegetation change on LST. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The daytime LST is mainly controlled by $R _ { n }$ and $L { \\times } \\mathrm { E T }$ (Eq. 3; $R _ { n }$ and $L { \\times } \\mathrm { E T }$ are much larger than $G$ in daytime and this study ignores the effect of $G$ on sensible heat flux) (Allan et al., 1998). Summer extra-terrestrial solar radiation is assumed to be similar in VRA during 2O00-2013 $( 1 7 . 9 4 - 2 1 . 9 1 \\mathrm { ~ M J } / ( \\mathrm { m } ^ { 2 } \\cdot \\mathrm { d } ) )$ . Hence, the surface albedo determines the amount of net radiation under the same climate conditions (Eqs. 5 and 6). According to Zhai et al. (2015), there is a significant negative correlation between NDVI and albedo; thus, vegetation restoration will increase the $R _ { n }$ and bring warming effect in daytime (Eqs. 5 and 6). During the same time, the increase in vegetation willalso increase the evapotranspiration and bring a cooling effect (Zhai et al., 2015). So, the effect of vegetation change on the daytime LST is determined by both the warming (caused by albedo) and cooling effect (caused by ET). Based on MODIS data, this study analyzed the change in albedo and ET in the VRA from 200O to 2013. With the increase in vegetation, the ET in summer showed an extremely significant increase $\\scriptstyle ( Z = 4 . 3 8$ ， $9 9 \\%$ confidence level), and the annual increase trend is $0 . 1 \\ \\mathrm { m m / d }$ (Fig. 6a). During the same period, the albedo significantly decreased from 0.193 to 0.152 $( Z = - 4 . 0 5$ ， $9 9 \\%$ confidence level),a decrease of $21 \\%$ and an average annual decrease of O.OO23 (Fig. 6b). The effects of albedo and ET change on heat flux are calculated based on Equations 3-6 (Fig. 7). We can clearly see in Figure 7 that vegetation restoration led to an increase in both net radiation and latent heat in VRA; however, the increase trend in latent heat is significantly greater than the net radiation, and the gap between latent heat and net radiation gradually expands, indicating that the cooling effect caused by the ET increase is greater than the warming effect caused by the albedo decrease. Thus, ET is the control factor of the daytime LST change in VRA. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In general, land surfaces absorb and store energy from the atmosphere during the day and release energy during the nighttime. ET is negligible in nightime and LST is closely related to the energy stored during the daytime and the near-surface atmosphere boundary layer (Wan, 2008; Lee et al., 2O11). Based on observation data from national weather stations and agricultural meteorological stations, the change in relative soil humidity and relative air humidity during 2000 to 2013 was analyzed. During the period, the relative soil humidity in VRA increased from $58 \\%$ to $67 \\%$ ，with an annual average increase of $0 . 4 8 \\%$ (Fig. 8a). Increased soil humidity resulted in more daytime heat storage and more nightime heating. The increase in air humidity near the surface means more downward long-wave radiation received from the atmosphere and a reduction in the outgoing long-wave radiation from the land surface (Fig. 8b). This long-wave radiative imbalance has a stronger effect during nightime when the boundary layer is thinner and more stable (Zhou et al., 2009). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.0 (a) 97 0.20 £6100 (b) y=-0.0023x+0.1846 2.5 2 0.19- 7810 y=0.1x+0.9517 80 2 (pum) La 205105 5 8 8 2 8 5 11 844 [9'1 4 £910 LsT0 2000200220042006200820102012 200020022004200620082010 2012 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2 (ptr ereerr er grrr eress 趙 0 -1 -2 y=-0.2378x-0.2133 -3 Cooling effect cuased by ET increase 4 Warming effect caused by albedo decrease -5 2001 2003 2005 2007 2009 2011 2013 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2Influence factors of vegetation restoration patterns on LST ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Different afforestation paterns have different effects on ET and albedo (Liu et al., 2OO9). The ET of AF is indeed higher than that of CR in $50 \\%$ of the VRA and higher than that of GR in $68 \\%$ of the VRA, while the albedo is lower in $8 \\%$ of CR and $9 \\%$ of GR, respectively (Fig. 9). This clearly indicates that AF across the VRA absorbs more incoming radiation and dissipates more energy as latent heat. Thus, the artificial forest induces cooling during daytime. The surface incoming solar radiation in summer is between 17.94 and 21.91 ${ \\bf M J } / ( { \\bf m } ^ { 2 } { \\cdot } \\bar { \\bf d } )$ on the Loess Plateau. The average difference in albedo is 0.014 between CR and AF,and O.003 between GR and CR. Hence, the extra solar energy absorbed by the change in vegetation cover from CR to AF (CR-AF) is $0 . 2 5 -$ $0 . 3 1 \\mathrm { ~ M J } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } ) .$ ， while the solar energy dissipated by the change from CR to GR (CR-GR) is $- 0 . 0 5$ to $- 0 . 0 7 \\ \\mathrm { M J } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } )$ . The ET change resulting from these two vegetation restoration patterns is 0.72 and $- 0 . 1 6 \\ \\mathrm { m m / d }$ respectively, which is equal to an extra energy dissipation through latent heat of about 1.76 and $- 0 . 3 9 \\mathrm { ~ M J } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } )$ ， respectively. So, based on Equations 3-6, vegetation restoration patterns of CR-AF wil result in a cooling effect during the day due to more energy dissipation, while CR-GR will result in a warming effect due to more energy absorption. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/daf5185f96ba2e6974b0783e682b95128fee6a75ad47570a937905d2db507f64.jpg",
+        "img_caption": [
+            "Fig.8The change in relative soil humidity (a),and relative air humidity (b)in the vegetation restoration area during 2000 to 2013. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d8f5284c8230de84b9097750be58a68d33940906c8bf47c091a0b93358baa7e.jpg",
+        "img_caption": [
+            "Fig.9Average ET and albedo of CR, AF, and GR during 2OOO-2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The impacts of different land use types on soil humidity and air humidity are different in nighttime. According to $\\mathrm { X u }$ et al. (2Oo8),under the same climatic conditions, the relative soil humidity of AF in the study area is about equal to CR, which is 1.5 to 2.0 times that of GR. The relative air humidity ( $1 5 0 \\mathrm { c m }$ above vegetation) of AF is $13 \\%$ more than CR in summer, while the relative air humidity of CR and GR is similar (Li et al., 201O). This result indicates that CR-AF will increase the ability to absorb radiation (increase in air humidity), while CR-GR will decrease the ability to store heat (decrease in soil humidity). Thus, the vegetation restoration of CR-AF increases LST in nighttime, while CR-GR reduces LST. In addition, the nightime warming effect of CR-AF could be magnified as a result of reduced atmosphere turbulence from a more stable stratification over vegetation (Lee et al., 2O11). This reduces the heat dissipation from AF cover types compared with the open lands of CR and GR. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3Uncertainty analysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The effect of vegetation on LST between the Jinghe River Basin and other regions is compared to evaluate the accuracy of the calculated results (Table 1). Table 1 shows that our results match well with Hao et al., (2016), Peng et al. (2014) and Potchter et al. (2008). However, in Tibetan Plateau, vegetation greening increases the local LST due to the huge decrease in albedo (Shen et al., 2015). In general, effects of vegetation cover on LST are varied with the vegetation restoration pattern and latitude (Lee et al., 2011). ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9e1be224cb6431c9dcc9d17125d708cebf84992557e9b0ceb55a8a15ebc4467.jpg",
+        "table_caption": [
+            "Table1 Comparison between results from other studies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Location</td><td>Period</td><td>Vegetation type</td><td>AverageLST change (C)</td><td>Source</td></tr><tr><td>Jinghe River Basin</td><td>2000-2013</td><td>Restoration</td><td>-1.65</td><td>This study</td></tr><tr><td>Tarim River Basin</td><td>2001-2013</td><td> Natural</td><td>-3.02</td><td>Hao et al. (2016)</td></tr><tr><td>China</td><td>2003-2010</td><td>Restoration</td><td>-0.90</td><td>Peng et al. (2014)</td></tr><tr><td>Southern Israel</td><td>2004-2006</td><td> Natural</td><td>-2.00</td><td>Potchter et al. (2008)</td></tr><tr><td>Tibetan Plateau</td><td>2000-2010</td><td> Natural</td><td>+0.78</td><td>Shen et al. (2015)</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To test the rationality of LST of MODIS data, the study analyzed the remote LST data and observed LST data from six national weather stations in VRA during 20OO to 2O13. The remote sensing data has a good linear correlation with the observed data (Fig. 1Oa). Although, the MODIS data is usually $0 . 6 8 ^ { \\circ } \\mathrm { C } - 1 . 0 2 ^ { \\circ } \\mathrm { C }$ lower than the actual LST, they both exhibit a similar trend. Therefore, the MODIS data in VRA can meet the requirements of the study. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5528a84fe2c17aae918db17f361d6f2bd927c1b5c94f9353cd3e2a8f7f08f7b.jpg",
+        "img_caption": [
+            "Fig. 10 Scatterplot of uncertainty analysis. (a) Remote LST and observed LST and (b) estimated $R _ { n }$ and observed $R _ { n }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In our research, we obtained the summer $R _ { n }$ from the Penman-Monteith equation. The observed data from the weather station (there is only one weather station in VRA that can observe the net radiation and observation time start from 2OO6) was analyzed to test the rationality of the estimated $R _ { \\mathfrak { n } }$ . Figure 1Ob shows that the correlation coefficient between the estimated $R _ { n }$ and the observed $R _ { n }$ reached O.81, and the error between observed data and estimated data is $4 \\% - 9 \\%$ Therefore, the estimated $R _ { n }$ can meet the requirement of the study. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Although many factors are considered, this study still has limitations about the effects of vegetation changes on LST. For example, vegetation greening can lead to the increase in surface roughness and more solar energy could be absorbed by the surface accordingly. Our results may overestimate the cooling effect caused by vegetation change. This work also ignores the effect of human activities on LST, such as irrigation. In addition, it must be noted that the Loess Plateau is a very large and geodiverse region; thus, the research results in Jinghe River Basin may not apply ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "to the entire Loess Plateau. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Vegetation restoration in Jinghe River Basin has gradually reduced the LST in summer. Because the temperature of the deep soil is relatively stable, the decrease in LST will directly reduce the soil temperature gap, thus, reducing soil evaporation and increasing the soil moisture content (Kidron and Kronenfeld, 2016; Ren et al., 2O17). Increased soil moisture caused by vegetation change is an important reason for reduced runoff on the Loess Plateau (Fu et al., 2003); and this could lead to the uncertainty in regional water resources management as well (Feng et al., 2016). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on the remote LST data and land cover data, we concluded that the cooling effect and warming effect of PF, CR and GR are gradually decreasing. Therefore, the vegetation restoration pattern of CR-PF resulted in the cooling eect in the daytime and the warming effect in nighttime, while the vegetation restoration pattern of CR-GR has the opposite effect. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on surface energy balance equation, this paper discussed the effect of vegetation restoration on energy budget. With vegetation change, net radiation (inflected by albedo) and latent heat (inflected by ET) in VRA show an increasing trend; however, the average increase trend of latent heat $( - 2 . 4 \\mathrm { \\bf ~ M J } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } )$ was significantly greater than the net radiation (0.09 ${ \\bf M J } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } ) ;$ . Thus, the daytime LST in VRA was decreased. For vegetation restoration pattern of CR-AF and CR-GR, CR converted into AF means that about $1 . 5 ~ \\mathrm { M J } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } )$ of energy is released, while CR converted into GR means that about $0 . 3 ~ \\mathrm { M J } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } )$ of energy is absorbed. Therefore, vegetation restoration pattern of CR-AF decreased LST during the day, while CR-GR increased LST. The increase of nightime LST in VRA can be attributed to the increase of relative soil humidity and relative air humidity. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Although many factors are considered in this study for LST attribution analysis, there are stil some limitations. It should be noted that the Loess Plateau is a very large and geodiverse region, as such, the research results in Jinghe River Basin may not apply to the entire Loess Plateau. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was funded by the National Key Research and Development Program of China (2O16YFC0401306), the National Science Fund for Distinguished Young Scholars (51625904)，and the International Science & Technology Cooperation Program of China (2016YFE0102400). The authors are grateful to the anonymous reviewers for their detailed comments. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Aln JD,McIntyrePB,SmithSDP,etal.2O13.Jointanalysisofstressorsandecosystemservices toenhancerestoration effectiveness.Proceedingsof theNational AcademyofSciencesof the United States of America,110(1): 372-377.   \nAlln R G,PereiraLS,Raes D,etal.1998.Crop evapotranspiration-Gudelines forcomputingcrop waterrequirements-FAO irrigation and drainage paper 56. FAO. Rome, Italy.   \nAmiri R,Weng QH,Alimohammadi A,et al.2O09.Spatial-temporal dynamics of land surface temperature inrelation to fractionalvegetation cover and land use/cover in the Tabriz urbanarea,Iran.Remote Sensing of Environment,113(12): 2606-2617.   \nAnderso M C,NormanJM, KustasWP,et al.2008.A thermal-based remote sensing technique for routine mapping of land-surfacecarbon,waterand energyfluxes from field toregional scales.Remote SensingofEnvironment,12(12): 4227- 4241.   \nCao Z,LiYR,LiuYC,etal.2017.Whenand wheredidthe loessplateauturn ‘green'Analysis ofthe tendencyand breakpoints of the normalized difference vegetation index.Land Degradation & Development, 29(1):162-175.   \nChapin IIFSSturmM,Sreze MC,etal.205.Roleofland-surfacechanges inarctic summer warming.Science,10(5748): 657-660.   \nChoudhury S,Panda S K,Saraf A K,etal.2Oo7.MODIS landsurface temperature data detects thermalanomaly preceding 8 October 2005 Kashmir earthquake. International Journal of Remote Sensing, 28(20): 4587-4596. range. Journal of Climate,12: 2451-2473.   \nDengJ,Sun,ZaoFZ,etal6.SilC,N,nditsracatiratifeedyrtialvgeatioinsbil, plateau china. PLoS ONE,11(3): e0151446.   \nFeng X,FuB,LuN,etal.213.Howecologicalrestorationalters ecosystemservices:ananalysisofcarbonsequestrationin China's Loess Plateau. Scientific Reports, 3: 2846.   \nFeng XM,FuBJ,PiaoSL,etal.26.Revegetationinhina'slossplateauisapproacingsustainable waterresourcit Nature Climate Change, 6: 1019-1022.   \nFu B,WangJ,ChenLD,etal.2Oo3.Theefectsoflanduseonsoilmoisture variation intheDanangoucatchmentoftheLoe Plateau, China. Catena, 54(1-2): 197-213.   \nGao X R,Sun M,ZhaoQ,etal.2017.Actual ETmodelingbasedonthe Budyko frameworkand thesustainabilityofvegetation water use in the loess plateau. Science of the Total Environment,579: 1550-1559.   \nHao X M,Li W,Deng HJ.2016.The oasis efectand summer temperature risein arid regions -case studyin Tarim Basin. Scientific Reports, 6: 35418.   \nHarris PP,Folwel SS,Galego-Elvira B,etal.2017.Anevaluationof modeled evaporationregimes inEurope usingoberved dry spell land surface temperature. Journal of Hydrometeorology, 18: 1453-1470.   \nJacksonRB,RandersonJTCanadellJG,etal.2O08.Protectingclmatewithforests.EnvironmentalesearchLettrs,(4): 269-274.   \nJian S Q,ZhaoCY,FangSM,etal.2O15.Efectsofdifferent vegetationrestorationonsoil waterstorage and waterbalancein the Chinese Loess Plateau. Agricultural and Forest Meteorology, 2O6: 85-96.   \nJin M L,Dickinson R E.2O10.Land surface skin temperatureclimatology:benefiting from the strengthsof satelite observations. Environmental Research Lettrs,5(4): 44004.   \nKarnieli A,Panov N, Goldberg A,etal. 2O10. Useof NDVIand land surface temperature fordrought assessment: merits and limitations. Journal of Climate,23: 618-633.   \nKidron GJ,Kronenfeld R.2O16.Temperature rise severelyaffects panand soil evaporationin theNgevDesert.Ecohydrology, 9(6): 1130-1138.   \nLee X,GoudenML,HolingerDY,etal.20l1.Observedincreaseinlocalcoolingeffectofdeforestationathghrlatitudes. Nature,479:384-387.   \nLi QY, Yu X X, XinZB,etal.2010.Analysis on soil physical propertiesof diferentlanduses ina typical watershed of the Loess Plateau. Research of Soil and Water Conservation, 17(6): 106-110, 114. (in Chinese)   \nLi S,Liang W,FuB,etal.2016.Vegetationchangesinrecentlarge-scaleologicalrestoration prjectsandsubsequentipact on water resources in China's Loess Plateau. Science of the Total Environment,569-570: 1032-1039.   \nLiang K,Liu CM,Liu XM,et al.20l3.Impactsofclimate variability and humanactivityonstreamflowdecreaseina sedimentconcentrated region in the Middle Yellow River. StochasticEnvironmentalResearch and Risk Asessment,27(): 1741-1749.   \nLiu J, SchafC,StralerA,eal.o9.Validationofmderatersolutionimagingspectrordiometer (MODS)albedorieval algorithm: dependenceof albedoonsolarzenith angle.Journal ofGeophysical ResearchAtmospheres,114(D1):1106-117.   \nLiu JG,Li SX,Ouyang ZY,etal.28.EcologicalandsocioeonomicefectsofChina's poicies forecosystemservices. Proceedings of the National Academy of Sciences of the United States of America,105(28): 9477-9482.   \nLiu Q,McVicar TR.2012.Assessing climate change induced modification of Penman potential evaporation and runoff sensitivity in a large water-limited basin. Journal of Hydrology,464-465: 352-362.   \nLu Y H,Fu B J,Feng X M, et al. 2012.A policy-driven large scale ecological restoration: quantifying ecosystemservices changes in the loess plateau of China. PLoS ONE,7: e31782.   \nMcVicar TR,NielTG V,LiLT,etal.2o7.Spatiallydistributing monthlyreferenceevapotranspiration andpan evaporation considering topographic influences. Journal of Hydrology, 338(3-4): 196-220.   \nMu Q Z, Zhao M S,Running S W. 2011.Improvements to a MODIS global terrestrial evapotranspiration algorithm.Remote Sensing of Environment,115(8): 1781-1800.   \nPeng H,Jia YW,Tague C,et al.2015.AnEco-Hydrological Model-Based assessmentof the impactsof soil and water conservation management in the Jinghe River Basin, China. Water,7(11): 6301-6320.   \nPeng S S,Piao SL,Zeng Z,et al.2O14.Afforestation in Chinacoolslocal landsurface temperature.Proceedingsof the National Academy of Sciences of the United States of America,111(8): 2915-2920.   \nPotchterO,Goldman D,Kadish D,et al.2Oo8.The oasis effect inan extremelyhotand arid climate: Thecaseof southern Israel. Journal of Arid Environments, 72(9): 1721-1733.   \nRenR,MaJJ,ChengQY,etal.2O17.Aninvestigationintotheefects oftemperature gradientonthesoil Water-SaltTransfer with evaporation. Water, 9(7): 456.   \nReynolds JF,Smith DM S,Lambin EFet al.2007.Global desertification: buildinga sciencefordryland development. Science, 316(5826): 847-851.   \nShen MG,PiaoSL,Jeong SJ,etal.2015.Evaporativecooling over the Tibetan Plateau induced byvegetation growth. Proceedings of the National Academy of Sciences of the United States of America,112(30): 9299-9304.   \nVancutsemC,CecatoP,DinkuT,etal.2010.Evaluationof MODIS landsurface temperature data toestimate airtemperature in different ecosystems over Africa. Remote Sensing of environment. 114(2): 449-465.   \nWan Z. 2008.New refinements and validation of the MODIS Land-Surface Temperature/Emisivity products. Remote Sensing of Environment, 112(1): 59-74.   \nWang YP,Phipps S J,de Noblet N.2011. Importance of background climate indetermining impact of land-cover change on regional climate. Nature Climate Change, 1: 472-475.   \nXiao KC,HeTG,Chen H,et al.2017.Impactsofvegetationrestoration strategiesonsoilorganiccarbon and nitrogen dynamics in a karst area, southwest China. Ecological Engineering,101: 247-254.   \nXin ZB,XuJX,Zheng W.2O08.Spatiotemporal variations of vegetationcoverontheChineseLoess Plateau (1981-2006): Impacts of climate changes and human activities. Science in China Series D: Earth Science,51(1): 67-78.   \nXu LP, Yang GH,JiangY,etal.2O08.Comparisonof microclimate efects underthr Forest-Grass rehabilitationof Artificial Vegetation in Loess Plateau. Journal of Soil and Water Conservation,22: 163-173. (in Chinese)   \nXue Y N,Liang H,Zhang Y, et al.2O17.Spatial and Temporal Variations ofLand Surface Temperatureof the LoessPlateau. Earth and Environment, 45(5): 500-507. (in Chinese)   \nYang Y T,Long D,Guan HD,et al.2015. GRACEsatelite observed hydrological controlson interannual andseasonal variability insurface greennessovermainland Australia.Journalof Geophysical Research Biogeosciences,19: 2245-2260.   \nYang YT,Guan HD,OBatelan,et al.2O16.Contrastingresponsesof wateruseeficiencytodroughtacro global eestrial ecosystems. Scientific Reports, 6: 23284.   \nYi H,Cai JL,HeY,etal.O9.Corelationofprecipitation totmperature variationitheHangheRiver(YellowRiverbsin during 1957-2006. Journal of Hydrology, 372(1-4): 1-8.   \nZhai J,LiuR,LiuJY,etal.2O15.Human-Inducedlandcoverchanges driveadiminutionof landsurfacealbedointhelo Plateau (China). Remote Sensing, 7(3): 2926-2941.   \nZhang B,HeC,BurnhamM,etal.2O16.Evaluatingthecoupling effectsofclimatearidityand vegetationrestorationonsoil erosion over the Loess Plateau in China. Science of the Total Environment, 539: 436-449.   \nZhang C,Xie G,Li S,etal.2010.The productivepotentialsofsweet sorghumethanolinChina. AppliedEnergy,87(7):2360 2368.   \nZhang DJ,Tang RL,Zhao W,etal. 2O14. Surface soil water content estimation from thermal remote sensingbased on the temporal variation of land surface temperature. Remote Sensing, 6(4): 3170-3187.   \nZhang X P, Zhang L, Zhao J, et al. 2O08. Responses of streamflow tochanges in climate and land use/cover in the Loe Plateau, China. Water Resources Research, 44(7): 2183-2188.   \nZhou HJ,van Rompaey A,Wang J.2009.Detecting the impact of the \"Grain for Green\" programon the mean anual vegetation cover in the Shaanxi province,China using SPOT-VGTNDVI data.Land Use Policy,26(4): 954-960.   \nZhouL,TianYRoySB,etal.2012.Impactsofwindfarmsonlandsurface temperature.NatureClimateChange,2:539-43.   \nZhou L M,Dai A,DaiYJ, et al.20o9.Spatial dependence ofdiurnal temperature range trendsonprecipitation from1950to 2004. Climate Dynamics,32(2-3): 429-440.   \nZhou LM,DickinsonRE,TianYH,etal.2Oo7.Impactofvegetationremovalandsoilaridationondiurnaltemperaturerange in asemiarid region: application tothe sahel. Proceedings of the National Academy of Sciences of the United States of America, 104(46): 17937-17942.   \nZhou Z C, Shangguan ZP, Zhao D.2O06. Modeling vegetation coverage and soil erosion in theLoess Plateau Area of China. Ecological Modelling,198(1-2): 263-268. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "type": "text",
+        "text": "“15分钟生活圈”视角下住宅小区与公共服务设施空间配置评价以乌鲁木齐市为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肖凤玲¹²，杜宏茹1²，张小雷1.2（1.中国科学院新疆生态与地理研究所,新疆 乌鲁木齐830011;2.中国科学院大学资源与环境学院，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：新型城镇化高质量发展更加注重提升人民群众的幸福感和获得感，加大“15分钟生活圈”公共服务建设力度能有效提升人民群众生活满意度。基于国家“15分钟生活圈\"建设要求使用高德地图POI数据，采用核密度估计、缓冲区分析、栅格分析等方法，对乌鲁木齐市公共服务设施的空间覆盖特征进行判断，对住宅小区与各类设施的空间匹配状况进行综合评价。研究表明：(1）不同类型基础公共服务设施的空间布局特征有所差异，既与住宅小区的集聚分布有一定关联，又体现了不同设施的属性特点。（2)不同类型的基础公共服务设施在住宅小区“15分钟生活圈”的覆盖率有一定的差异，以公交站点为代表的公共交通出行的覆盖率最高，便民商业设施中超市、果蔬店、理发店等日常服务设施的覆盖率相对高于银行、电讯营业厅等设施，教育设施中幼儿园覆盖率最高,其次为小学,中学的覆盖率相对较低。医疗设施服务覆盖率在各类型中差别不显著，卫生服务中心、药店、诊所基本都能实现 $9 5 \\%$ 的覆盖率。(3)不同类型基本公共服务与住宅空间配置达标率存在较明显区域差异。在人口分布越密集的区域，便民商业、教育、医疗、交通4类公共服务设施均达标的住宅小区比例越高，而人口密度相对较低的外围区域和新建城区医疗和便民商业设施的达标率偏低。(4）乌鲁木齐市建设\"15分钟活动圈\"应注重加强新建城区的公共服务配套，尤其是便民商业和基层医疗设施，老城区应加强改造过程中公共服务的更新配套。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：公共服务设施；住宅小区；15分钟生活圈；空间配置；乌鲁木齐",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着我国城镇建设管理水平的稳步提升，城镇化进程已经开始由数量扩张型向质量提升转变，城镇高质量发展要求更加关注居民生活品质与精神文化需求1，城市生活的便利性和公平性是实现城镇高质量发展的重要任务。2016年中央城市工作会议强调：“健全公共服务设施，打造方便快捷生活圈，使人民群众在共建共享中有更多获得感”，“生活圈\"概念越来越多地被国内关注[2]。根据不同圈层的不同需求，开展合理的圈层划分，研究其可达程度，是“生活圈\"研究的重要内容。“15分钟生活圈”是和居民生活最密切的圈层，是从居住地出发涉及到居民基本需求的各类公共服务设施所形成的圈层3，也是完善社会治理的基层单元，满足品质生活的空间载体，实现15分钟步行可达各类公共服务设施，能更好地回应人民对美好生活的向往,增强市民的获得感和幸福感[4]。近年来，上海、济南等城市先后出台了15分钟社区生活圈建设和规划的技术导则，明确了15分钟生活圈的不同圈层的建设目标及要求[5-6]。2018年新版《城市居住区规划设计标准》颁布，进一步明确了生活圈圈层建设要求。如何按照15分钟生活圈要求来审视现在的城市建设和公共服务空间配置，依据“15分钟生活圈\"要求评价现有城市基础公共服务设施规划建设水平，发现问题并提出完善城市基础公共服务的发展思路和建议，是目前学者们研究的热点内容。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究，从最初的公共服务设施区位选择、供给模式[7-8],到公共服务设施供给的空间公平性[9],再到公共服务设施空间分异与可达性[以及运用新方法、新技术进行公共服务设施的评价及选址[1-2]等，给予较多关注。这些研究成果对国内公共服务设施布局的理论探讨和实证研究具有深远影响。目前，我国学者对于公共服务设施研究主要涉及到公共服务设施空间布局[13]与优化布局[14、可达性[15|与公平性、空间分布特征7及社会分异[8等方面的研究,成果颇多。湛东升等[17通过对北京公共服务设施分析，发现不同公共服务设施在不同空间尺度均具有显著的空间集聚特征，但空间集聚强度和空间特征尺度却存在明显差异;刘静等[13]通过北京案例研究发现公共医疗服务设施布局配置基本能满足居民服务半径的需求，但社区卫生服务设施的使用效率低;朱媛媛等[14]发现武汉市公共文化设施可达性存在“中心优外围差\"的空间分异格局；王兴平等[19]通过对南京市主城区不同社区公共服务设施配套的空间分布与建设及不同类型公共服务设施的空间分布特征进行分析，提出优化公共服务设施空间布局的建议。从公共服务设施布局研究视角看,国内学者更多地关注城市整体的公共服务设施的配置及可达性的研究，而对居民活动行为的相关性研究较少[20]。“15分钟活动圈\"的研究弥补了这一研究空白，将居民生活与基础公共服务设施很好地结合在一起。赵彦云等[2对北京\"15分钟生活圈\"进行了空间测度，发现不同类型设施覆盖率存在差异，且与居民需求存在矛盾;陈程1研究发现南宁市“15分钟生活圈\"生活设施在类型上、覆盖范围上存在缺口、配置层级不完善，难以满足居民对生活设施的差异化需求,并提出了相应的规划策略；李俊[2研究发现,长沙15分钟生活圈公共服务设施不足并且数量分布不均。基于“15分钟生活圈”视角来研究城市公共服务与居住空间的配置关系，是目前国内公共服务设施供给研究的新热点。如何从居民居住视角，考虑基础公共服务的配套建设，满足“15分钟生活圈\"基本需求，仍需要加强理论分析和技术方法的探索。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以乌鲁木齐市为例，从“15分钟生活圈\"视角下探讨住宅小区与公共服务设施空间配置的耦合性，探索城市\"15分钟生活圈\"建设现状评价的技术方法，为城市公共服务设施配套布局和建设提供一定的依据和借鉴。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐市是新疆维吾尔自治区的首府城市，地处天山北麓、准噶尔盆地南缘，是世界上与海洋距离最远的内陆城市[22]。下辖7区1县,2018年末常住人口 $3 5 0 . 5 8 \\times 1 0 ^ { 4 }$ 人。由于乌鲁木齐市是典型的干旱区绿洲城市，总面积达 $1 . 3 8 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,建成区面积 $4 3 6 ~ \\mathrm { k m } ^ { 2 }$ ，仅占城市总面积的 $3 . 1 6 \\%$ ，人口高度集中在人工绿洲上，建成区的 $8 0 \\%$ 分布在沙依巴克区、天山区、新市区、水磨沟区、头屯河区5个城区（图1)，同时也集聚了乌鲁木齐 $8 5 \\%$ 以上的人口[23]作为西北地区重要的区域中心城市，乌鲁木齐市近年来注重城市基础设施和公共服务设施建设，人居环境有所提升。本文研究范围选取的5个中心城区为案例区，基本覆盖和反映了乌鲁木齐“15分钟生活圈\"建设的核心区域，具有典型性和代表性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "互联网大数据的使用是近年来使用越来越广泛。POI数据可操作性及可用性强，在城市公共服务设施布局及相关研究中多有应用，例如在零售商业中心的识别24，生活性服务业空间格局的研究[25],公共服务设施的空间布局研究[26-27]等应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "87E 88E 89E 87°20'E 87°40'E 88°00'E   \n4414 (a)乌鲁木齐市 4504 米东区 4000 (b)研 4000 头屯河区   \nN Not 200004 沙区 444434 达坂城区 乌鲁木齐县 87°20'E 87°40'E 88°00'E   \n4004 4204 图例 达坂城区 研究区域 0 30km 87°E 88E 89E 一 乌鲁木齐 L1 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于POI数据，对乌鲁木齐市“15分钟生活圈”建设要求下住宅小区与基础公共服务配置进行评价研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文将“15分钟生活圈\"范围界定为以住宅小区地理中心为圆心，步行15分钟即 $1 0 0 0 \\mathrm { ~ m ~ }$ 的半径区域。数据主要来源于高德地图(https://www.amap.$\\mathrm { c o m } / \\AA$ ),通过申请高德地图Web服务API,利用python编程获取截止到2020年1月乌鲁木齐中心城区的各类POI,因\"15分钟生活圈\"所界定的养老设施、文体娱乐设施在地图中获取数量较少，对此暂不做分析。通过去重、纠偏与空间匹配，最终获得住宅小区2584个，便民商业设施(便民商店、果蔬店、洗衣店、美容美发店、五金店、银行、电讯营业厅、公共厕所)16371个，教育设施(幼儿园、小学、中学)792个，医疗设施(社区卫生服务中心（站）、诊所、药店）2860个，公交站点2118个（图2），各类P0I包含名称、经度、纬度、地址4个属性信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff4fbe2d5ffcb63eeff6c2d462a63537915339cc2e96786a62e79b255c93bcd3.jpg",
+        "img_caption": [
+            "图2中心城区各类POI分布",
+            "Fig.2 Distribution of various POI in the central districts "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1核密度估计地理信息的空间密度分析根据输人的点要素数据集计算整个区域的数据集聚状况,从而产生一个连续的密度表面[28]。核密度估计是基于数据密集度函数聚类算法的一种空间密度分析方法[29],分析过程中赋予样方中心点邻近事件$\\mathbf { \\boldsymbol { x } } _ { i }$ 较高权重，而距离中心点 $x$ 较远的事件被赋予较低权重，其方程定义为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| { \\boldsymbol { h } } ( { \\boldsymbol { x } } ) = { \\frac { 1 } { n h d } } \\sum _ { i = 1 } ^ { n } k { \\left( { \\frac { { \\boldsymbol { x } } - { \\boldsymbol { x } } _ { i } } { h } } \\right) } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $k \\Bigg ( \\frac { x - x _ { i } } { h } \\Bigg )$ 表示核函数形式，通常取对称的单峰概率密度函数; $h$ 为带宽，是定义平滑量大小的自由参数; $d$ 为数据的维度； $n$ 为带宽范围内的点i的点数。本文采用核密度估计法对住宅小区和各类公共服务设施空间分布形态进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2覆盖率在 $1 0 0 0 \\mathrm { m }$ 范围内，人们会以步行作为基本的出行方式，步行时长约为15分钟，在步行$1 0 0 0 \\mathrm { m }$ 范围内布局各类公共服务设施，能够很好地满足人们的日常生活需求。因此，乌鲁木齐市中心城区“15分钟生活圈\"各类公共服务设施的覆盖率的计算，是以住宅小区地理中心为圆心，做 $1 0 0 0 \\mathrm { ~ m ~ }$ 的缓冲区，如果缓冲区范围内存在 $j$ 类设施，则表示住宅小区在15分钟内步行范围内j类公共服务设施覆盖[2]。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i , j } = { \\left\\{ \\begin{array} { l l } { 1 , } & { { \\exists } F _ { j } \\subset N 1 { \\left( C _ { i , s } \\right) } } \\\\ { 0 , } & { { \\mathrm { o t h e r s } } } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC R _ { i , j } ^ { \\phantom { } } = \\frac { \\displaystyle \\sum _ { s = 1 } ^ { m _ { i } } C _ { i , j , s } ^ { \\phantom { } } } { m _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT C R _ { j } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { 4 } \\sum _ { s = 1 } ^ { m _ { i } } C _ { i , j , s } } { \\displaystyle \\sum _ { i = 1 } ^ { 4 } m _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C _ { i , s }$ 表示城区 $i$ 中的小区 $s$ ; $C _ { i , j , s }$ 表示 $C _ { i , s }$ 的$1 0 0 0 \\mathrm { m }$ 活动范围内是否存在公共服务设施 $F _ { j }$ ，存在即表示被覆盖; $C R _ { i , j }$ 表示第 $i$ 个城区公共服务设施$F _ { j }$ 的覆盖率，代表不同区域的覆盖水平； $m _ { i }$ 为城区 $i$ 包括的小区数量； $T C R _ { j }$ 表示公共服务设施 $F _ { j }$ 在中心城区的覆盖率,代表中心城区的整体水平[2]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3空间匹配分析基于住宅小区、便民商业设施、基础教育设施、医疗设施、公交站点的POI数据，进行栅格计算，判断住宅小区与各类设施的空间匹配情况，得到25种匹配情况，重分类，最终得到极不匹配、不匹配、匹配、较匹配、非常匹配5种匹配特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1住宅小区与公共服务设施空间分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从核密度分布图(图3)可以看出，无论是住宅小区还是各类公共服务设施，空间分布形态均呈现出核心-边缘的分布特征，具有明显的集聚中心，但不同类型公共服务设施的分布形态和集聚中心的空间叠合性较低。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e0c05ad3752c55e38b9c39016dee3b7c810e1c43c398b33be80b3d93aa29941.jpg",
+        "img_caption": [
+            "图3中心城区主要公共服务设施核密度分布",
+            "Fig.3Kernel density distribution of major public service facilities in the central districts "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐住宅小区相对集中分布，在空间上形成“三中心 $^ { + }$ 圈层\"的形态特征。以红山路片区、奇台路片区、南门片区为集聚中心，构成一个密度较大的居住集聚圈，以此为核心向外呈圈层式递减",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "便民商业设施主要以便民商店、美容美发店、果蔬店、银行等设施类型为主，在空间形成\"多点集聚、均匀分布\"的特征，这与便民商业设施服务人口门槛较低且服务空间范围有限有一定关联。湛东升等[对北京餐饮设施空间集聚特征分析发现，餐饮设施由于服务门槛人口相对较低且服务空间范围有限，形成较多热点集聚区，与本文便民商业设施的空间分布特征形成原因具有一致性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基础教育设施主要由幼儿园、小学、中学体系构成，在空间上形成“多点集聚”的主要特征，其中天山区片区是最大的集聚中心，这一集聚中心与人口密集、住宅小区集聚有较好的对应性。随后人口由老城区逐年向新建城区的扩张，银川路、友好北路、南湖南路、六道湾北部渐次形成次级集聚中心，在新市区、水磨沟区域出现集聚分布中心。张纯等[30]分析乌鲁木齐职住空间演变时，发现由于新市区、水磨沟区加强建设，增加了各类设施的综合配套，使得人口逐渐扩散，这与本文教育设施次级集聚中心形成原因较为吻合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "医疗设施整体分布较为分散，呈现单中心分布特征，核密度分布较大的区域为解放南路、二道桥、团结路、新华南路街道部分区域组成的集聚中心，这是由于医疗设施除社区卫生服务中心(站)按照街道及社区统一规划配置之外，药店及诊所的分布都具有不确定性，且药店、诊所的服务门槛低，因此分布较为分散，但整体来看，存在部分区域较为集聚，且与住宅小区集聚中心存在一定对应性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "公交站点的分布形态是单中心向外围呈圈层式递减的主要特征，其核心由新华北路、新华南路、解放南路、解放北路区域构成，是乌鲁木齐市南门一大小西门核心商圈主要人口流动集散区域,同时也是住宅小区最集中的区域。湛东升等[7]对北京市公共交通设施分析发现，公共交通设施热点集聚",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "区靠近大型居住集聚区，与本文公交站点空间分布 特征结论具有对应性。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2“15分钟生活圈\"公共服务设施供给水平评价",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1公共服务设施覆盖率由计算结果(表1)得出，各类公共服务设施的平均覆盖率为 $9 5 . 1 3 \\%$ ，表明乌鲁木齐中心城区“15分钟生活圈\"公共服务设施基本满足居民步行可达需求。除小学和中学的覆盖率略低外，其他公共服务设施覆盖率都较高，其中覆盖率最高的依次为公交站点、便民商店、果蔬店、美容美发店、药店，这也基本符合日常生活需求频率特点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同类型的基础公共服务设施的覆盖率有一定的差异。以公交站点为代表的公共交通出行的覆盖率最高，各城区均可达到 $9 9 \\%$ 以上，基本实现公交站点全覆盖。在便民商业设施中，超市、果蔬店、理发店等日常服务设施的覆盖率相对高于银行、电讯营业厅等设施。在教育设施中，幼儿园覆盖率最高，其次为小学，中学的覆盖率相对较低。医疗设施服务覆盖率在各类型中差别不显著，卫生服务中心、药店、诊所基本都能实现 $9 5 \\%$ 的覆盖率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中心各城区之间公共服务覆盖水平存在一定的区域差异，综合比较排名为：天山区 $>$ 新市区>沙依巴克区>水磨沟区>头屯河区，说明老城区的公共服务基础相对较好。天山区是乌鲁木齐市人口和商业最为密集的区域，也是全市教育资源和医疗资源相对丰富的区域，建成时间长，各类基础公共服务设施社区配套相对完备，综合服务能力和水平最为显著。沙依巴克区和新市区是近10\\~20a乌鲁木齐人口相对集聚的区域，便民商业服务设施覆盖率也相对较高，但教育和医疗基本服务覆盖率低于天山区。头屯河区是乌鲁木齐近年来城市扩展的新区所在，城区公共服务基础设施建设起点高，但覆盖率明显低于其他4个中心城区。由此可见，“15分钟生活圈”基础公共服务设施覆盖率和配套水平与城区发展阶段和人口集聚过程有一定的关联性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2公共服务设施达标率对于居民来说，公共服务设施达标情况，直接关系到居民生活品质的高低。本文将公共服务设施达标率界定为：在城市居民“15分钟生活圈”内各类基本公共服务设施均有分布即为达标，设施类型有缺失则为不达标。在每个大类的公共服务设施中，考虑到设施之间的替代性，可替代的设施存在一项即可，不可替代的设施必须同时存在(表2)。例如，便民商业设施中的每小类设施彼此之间功能是相互不可替代的，必须同时存在才能达标；医疗设施中卫生服务中心和卫生服务站功能类似，至少存在一类即可，药店、诊所也应该至少存在一类即为达标，教育设施配置中幼儿园、小学、中学是针对不同年龄人群设定的，彼此间",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/85c75750643d19cdc36708266cd3452354de3e5d140b3b3201dea5f27d559a59.jpg",
+        "table_caption": [
+            "表1中心城区\"15分钟生活圈\"各类设施覆盖率",
+            "Tab.1 Coverage rate of central city“15 minutes life circle\"facilities "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">设施 大类</td><td colspan=\"7\">“15分钟生活圈\"设施覆盖率/%</td></tr><tr><td>设施小类</td><td>中心城区</td><td>天山区</td><td>沙依巴克区</td><td>新市区</td><td>水磨沟区</td><td>头屯河区</td></tr><tr><td rowspan=\"9\">便民商业</td><td>便民商店</td><td>98.87</td><td>99.83</td><td>99.41</td><td>99.10</td><td>97.70</td><td>92.97</td></tr><tr><td>果蔬店</td><td>97.79</td><td>99.65</td><td>97.82</td><td>98.47</td><td>96.32</td><td>87.63</td></tr><tr><td>洗衣店</td><td>95.43</td><td>99.14</td><td>96.40</td><td>95.41</td><td>93.33</td><td>73.20</td></tr><tr><td>美容美发店</td><td>97.21</td><td>99.48</td><td>97.96</td><td>97.20</td><td>94.94</td><td>88.66</td></tr><tr><td>五金店</td><td>96.59</td><td>97.93</td><td>98.40</td><td>97.96</td><td>94.02</td><td>76.30</td></tr><tr><td>银行</td><td>94.81</td><td>98.45</td><td>95.92</td><td>95.29</td><td>94.71</td><td>61.86</td></tr><tr><td>电讯营业厅</td><td>93.00</td><td>95.86</td><td>93.16</td><td>97.07</td><td>88.51</td><td>61.86</td></tr><tr><td>公共厕所</td><td>95.89</td><td>99.31</td><td>95.49</td><td>96.56</td><td>97.47</td><td>72.16</td></tr><tr><td>幼儿园</td><td>95.67</td><td>97.93</td><td>97.09</td><td>95.16</td><td>94.25</td><td>82.47</td></tr><tr><td rowspan=\"5\">医疗</td><td>小学</td><td>88.66</td><td>99.14</td><td>89.98</td><td>85.22</td><td>88.97</td><td>43.30</td></tr><tr><td>中学</td><td>85.91</td><td>96.90</td><td>82.82</td><td>88.03</td><td>83.44</td><td>95.88</td></tr><tr><td>卫生服务中心</td><td>92.20</td><td>97.07</td><td>95.20</td><td>94.27</td><td>87.82</td><td>46.39</td></tr><tr><td>药店</td><td>97.52</td><td>99.14</td><td>98.11</td><td>98.47</td><td>95.17</td><td>84.59</td></tr><tr><td>诊所</td><td>97.97</td><td>99.14</td><td>94.32</td><td>95.41</td><td>94.02</td><td>75.26</td></tr><tr><td>交通</td><td>公交站点</td><td>99.50</td><td>99.83</td><td>99.42</td><td>99.49</td><td>99.08</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2中心城区\"15分钟生活圈\"各类设施达标界定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/83ad828db53e56e0e55b7fb6e92c2908f92b41a03097d6a20022165204229a2c.jpg",
+        "table_caption": [
+            "Tab.2Definition of various facilities in the“15 minutes life circle\"in the central districts "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设施大类</td><td>达标标准</td></tr><tr><td>便民商业</td><td>便民商店、果蔬店、洗衣店、美容美发店、五金店、银行、电讯营业厅、公共厕所均存在</td></tr><tr><td>教育</td><td>幼儿园、小学、中学同时存在</td></tr><tr><td>医疗</td><td>社区卫生服务中心、站至少存在一个，药店、诊所至少存在一个</td></tr><tr><td>交通</td><td>一个及以上公交站点存在</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "无可替代，必须都具备才能达标；交通站点存在即为达标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究结果表明：乌鲁木齐中心城区居住小区“15分钟生活圈\"范围内各类基础公共服务设施配置的达标情况较好，平均达标项数为3.62项，达标率为 $7 9 . 0 6 \\%$ ，仍有待于提高。从图4可以看出，便民商业、教育、医疗、交通4类公共服务设施均达标的住宅小区主要集聚在天山区、沙依巴克区及新市区东南片区等区域，是人口集聚的核心区域，而在中心城区相对外围的区域达标项数有所减少。其中有 $1 0 . 8 7 \\%$ 的住宅小区达标项目有3项， $4 . 0 2 \\%$ 的住宅小区达标项目只有2项。在达标类型中，交通类是达标率最高的设施类相关， $9 9 . 5 \\%$ 的住宅小区都符合达标要求，医疗类是达标率最低的设施类型，有 $8 . 2 4 \\%$ 的住宅小区不符合达标要求，是今后公共服务设施配置完善的主要任务。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3住宅小区与公共服务设施空间匹配程度评价",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体而言，乌鲁木齐中心城区住宅小区与基本公共服务设施配置的空间匹配程度相对较好。从图5可以看出，公交站点与住宅小区的匹配状态最好，匹配度达到 $9 9 . 8 3 \\%$ ，这与覆盖率较高契合，仅仅在西山农场、安宁区镇区域存在少量的不匹配，说明公交站点不仅满足15分钟步行的需求，且空间配置与人口密集程度较为相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基础教育设施的空间配置与住宅小区的集聚情况空间配置较为吻合，匹配度达到 $9 9 . 1 8 \\%$ ,尤其是在新市区东南区域最高，也说明教育设施的空间配置是与人口集聚密切相关的，但“15分钟生活圈\"的覆盖率略低,说明教育设施的空间配置与人口集聚具有一致性，但仍需加强15分钟步行可达的建设要求。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/580c1dbb6e44316cf8b6a638dfe83d2127db188bdcac9b8a3110db28ea31b7b5.jpg",
+        "img_caption": [
+            "图4不同公共服务设施达标项数住宅小区空间分布",
+            "Fig.4 Spatial distribution ofresidential districts with different number of public service facilities "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c09ee8ed6990341698ffff2a27a5ac878f7f9b72dcda25d6186da79fee8604ee.jpg",
+        "img_caption": [
+            "图5中心城区各类设施与住宅小区空间匹配情况",
+            "Fig.5Matching of the various facilities with the residential community space in the central districts "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "便民商业设施、医疗设施与住宅小区存在较多不匹配。在乌鲁木齐中心城区住宅小区“15分钟生活圈”便民商业设施网点多，覆盖率高，但是设施布局与住宅小区集聚状态不匹配，可能原因是本文选取的便民商业设施均是小型的社区型设施，不涉及购物商场、大型超市，部分住宅小区附近如果存在大型商场及超市，会相应减少社区级便民商业的配置。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "医疗设施与住宅小区存在较多不匹配除了设施配置本身不满足要求以外，也有一点原因可能是由于本文涉及的医疗设施仅包括基层医疗设施，包括卫生服务中心、卫生服务站，以及药店、诊所等便民的小型医疗设施，没有涉及各类大型、专科医院等，所以在进行空间匹配时有所偏差。不可回避的是，这一结果也客观反映了现在城市建设管理中对基层医疗设施的建设服务仍有缺失，尚未达到“小病不出社区\"的要求。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基本公共服务均等化、便利性和居民生活的幸福感和获得感密切相关，体现以人文本的城市服务理念，是城市高质量发展的必然要求。本文从“15分钟生活圈\"研究视角出发，基于POI网络数据，利用ArcGIS空间分析工具，以乌鲁木齐中心城区为例，探讨住宅小区和各类基本公共服务设施空间布局形态特征、覆盖率和达标率等问题，并对住宅小区与各类设施的空间匹配状况进行综合评价，有助于更好地审视城市“15分钟生活圈\"建设现状及可能问题，为城市空间规划和建设管理提供有益的建议。主要结论有：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）采用POI数据对乌鲁木齐中心城区住宅小区、便民商业设施、医疗设施、基础教育设施、公交站点进行空间布局分析，发现不同类型基础公共服务设施的空间布局特征有所差异，既与住宅小区的集聚分布有一定关联，又体现了不同设施的属性特点。由人口集聚的住宅小区向外圈层递减是其中较为明显的空间配置规律。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）通过住宅小区与基本公共服务设施配置的覆盖率分析发现，不同类型的基础公共服务设施在住宅小区“15分钟生活圈”的覆盖率有一定的差异。以公交站点为代表的公共交通出行的覆盖率最高，便民商业设施中超市、果蔬店、理发店等日常服务设施的覆盖率相对高于银行、电讯营业厅等设施，教育设施中幼儿园覆盖率最高，其次为小学，中学的覆盖率相对较低。医疗设施服务覆盖率在各类型中差别不显著，卫生服务中心、药店、诊所基本都能实现 $9 5 \\%$ 的覆盖率。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）不同类型基本公共服务与住宅空间配置达标率存在较明显区域差异。在人口分布越密集的区域，便民商业、教育、医疗、交通4类公共服务设施均达标的住宅小区比例越高，而人口密度相对较低的外围区域和新建城区医疗和便民商业设施的达标率偏低，是“15分钟生活圈\"补短板的主要方向。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文是基于“15分钟生活圈\"视角对基本公共服务设施与住宅小区的空间配置水平进行分析，但由于POI数据所限，养老、文体和公共活动空间较难界定，准确查找和空间匹配仍存在一定困难，尚未列入本次研究范围内，今后仍可以进一步探索更有效的技术方法，以便于更全面地开展分析。同时，根据国家《城市居住区规划设计标准》和“15分钟生活圈”圈层建设的差异化要求，今后的研究中也可以进一步深化圈层设施步行可达性分析，针对不同人群的需求开展精细化研究",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]陈程.基于GIS的南宁市15分钟社区生活圈规划策略研究[D].南宁：广西大学,2018.[Chen Cheng.GIS-based research on 15minutes community life circle planning strategy of Nanning City[D]. Nanning:Guangxi University,2018.]  \n[2]赵彦云,张波,周芳.基于POI的北京市\"15分钟社区生活圈\"空",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "间测度研究[J].调研世界,2018(5):17-24.[Zhao Yanyun,Zhang Bo,Zhou Fang. Spatial measurement of Beijing's“15 minutes community life circle”based on POI[J]. The World of Survey and Research,2018(5): 17-24.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3]李萌.基于居民行为需求特征的\"15分钟社区生活圈\"规划对 策研究[J].城市规划学刊,2017(1):11-118.[Li Meng.The planning strategies of a 15-minute community life circle based on behaviors of residents[J]. Urban Planning Forum,2017(1): 111-118.]   \n[4]《城市规划学刊》编辑部.概念·方法·实践:“15分钟社区生活 圈规划\"的核心要义辨析学术笔谈[J].城市规划学刊,2020(1): 1-8. [Editorial Department of Urban Planning Forum.Concept · Method $\\cdot$ Practice: Discrimination of the core meaning of“15-minute community life circle planning\"[J]. Urban Plannng Forum, 2020(1): 1-8.]   \n[5]韩增林,李源,刘天宝,等.社区生活圈公共服务设施配置的空 间分异分析——以大连市沙河口区为例[J].地理科学进展, 2019,38(11):1701-1711.[Han Zenglin,Li Yuan,Liu Tianbao,et al. Spatial differentiation of public service facilities’configuration in community life circle: A case study of Shahekou District in Dalian City[J]. Progress in Geography,2019,38(11): 1701-1711.]   \n[6]吴夏安,徐磊青,仲亮.《城市居住区规划设计标准》中15分钟 生活圈关键指标讨论[J].规划师,2020,36(8):33-40.[Wu Xia' an,Xu Leiqing, Zhong Liang.Key indicators of 15-minute life circle in the standard for urban residential area planning and design [J].Planners,2020,36(8): 33-40.]   \n[7]Berliant M,Peng S K,Wang P.Welfare analysis of the number and locations of local public facilities[J]. Regional Science and Urban Economics,2006,36(2): 207-226.   \n[8]Macintyre S, Macdonald L,Ellaway A.Do poorer people have poorer access to localresources and facilities? The distribution of local resources by area deprivation in Glasgow,Scotland[J]. Social Science and Medicine,2008,67(6): 900-914.   \n[9]Tan PY,Samsudin R.Effects of spatial scale on assessment of spatial equity of urban park provision[J]. Landscape and Urban Planning, 2017, 158: 139-154.   \n[10]Bao K Y,Tong D. The effects of spatial scale and aggregation on food access assessment: A case study of Tucson,Arizona[JJ. Professional Geographer,2017, 69(3): 337-347.   \n[11] Spyridon S, Demetris S.Evaluating the services and facilities of European cities using crowdsourced place data[J]. Environment and Planning B: Urban Analyticsand City Science,2018,45(4): 733-750.   \n[12]Marta D, Stefano C,Alessandra O. Combining spatial analysis with MCDA for thesiting of healthcare facilities[J].LandUsePolicy, 2018, 76: 634-644.   \n[13] 刘静,朱青.城市公共服务设施布局的均衡性探究\"—以北京 市城六区医疗设施为例[J].城市发展研究,2016,23(5):6-11. [Liu Jing, Zhu Qing. Research of equalizing layout of public service facilities:Take health facilities of central six districts of Bei",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "jing for example[J]. Urban Development Studies,2016,23(5): 6-11.]   \n[14] 朱媛媛,杨毅,李俊杰,等.武汉市公共文化服务设施的空间格 局优化研究[J].华中师范大学学报(自然科学版),2017,51(4): 526-533. [Zhu Yuanyuan,Yang Yi,Li Junjie,et al. Research on the spatial pattern of the public cultural services in Wuhan City [J]. Journal of Central China Normal University(Natural Sciences), 2017,51(4): 526-533.]   \n[15] 李孟桐,杨令宾,魏冶.高斯两步移动搜索法的模型研究——以 上海市绿地可达性为例[J].地理科学进展,2016,35(8):990- 996.[Li Mengtong, Yang Lingbin, Wei Ye. Improved Gaussian based 2-step floating catchment area method: A case study of green space accessibility in Shanghai[J]. Progress in Geography,2016, 35(8): 990-996.]   \n[16] 汪凡,白永平,周亮,等.中国基础教育公共服务均等化空间格 局及其影响因素[J].地理研究,2019,38(2):285-296.[Wang Fan, Bai Yongping, Zhou Liang, etal.Spatialpaernand influencing factors of the equalization of basic education public service in China[J]. Geographical Research,2019,38(2): 285-296.]   \n[17] 湛东升,张文忠,党云晓,等.北京市公共服务设施空间集聚特 征分析[J].经济地理,2018,38(12):76-82.[Zhan Dongsheng, Zhang Wenzhong,Dang Yunxiao,et al. Spatial clustering analysis of publicservice facilitiesin Beijing[J].Economic Geography, 2018, 38(12): 76-82.]   \n[18]高军波,余斌,江海燕.城市公共服务设施空间分布分异调查 —以广州市为例[J].城市问题,2011(8):55-61.[Gao Junbo, Yu Bin,Jiang Haiyan.Spatial distributionand spatial differentiation surveys on urban public service facilities: Taking Guangzhou City for example[J]. Urban Problems,2011(8): 55-61.]   \n[19] 王兴平,胡畔,沈思思,等.基于社会分异的城市公共服务设施 空间布局特征研究[J].规划师,2014,30(5):17-24.[Wang Xingping,Hu Pan,Shen Sisi.Spatial characters of public service facilities from social differentiation viewpoint[J]. Planners,2O14,30(5): 17-24.]   \n[20] 彭菁,罗静,熊娟,等.国内外基本公共服务可达性研究进展[J]. 地域研究与开发,2012,31(2):20-25.[Peng Jing,Luo Jing, Xiong Juan,et al. Review of domestic and foreign research on the basic public service accessibiliy[J]. Areal Research and Development, 2012,31(2): 20-25.]   \n[21] 李俊.基于POI的长沙市15分钟社区生活圈评价及优化研究 [D].兰州:兰州大学,2019.[Li Jun.Evaluation and optimization of 15 minutes community life circle in Changsha based on POI[D]. Lanzhou: Lanzhou University,2019.]   \n[22] 陈春美,钟珂,陈勇航,等.干旱区典型城市云对太阳辐射的影 响[J].干旱区研究,2018,35(2): 436-443.[Chen Chunmei, Zhong Ke,Chen Yonghang,et al.Effects of clouds on solar radiation over typical city in arid area[J].Arid Zone Research,2018,35(2): 436- 443.]   \n[23]乌鲁木齐市统计局.乌鲁木齐统计年鉴,2018[M].北京:中国统 计出版社,2018.[Urumqi City Statistics Bureau.Urumqi statistical yearbook 2O18[M].Beijing: China Statistics Press,2018.]   \n[24] 陈蔚珊,柳林,梁育填.基于POI数据的广州零售商业中心热点 识别与业态集聚特征分析[J].地理研究,2016,35(4):703-716. [Chen Weishan, Liu Lin, Liang Yutian.Retail center recognition and spatial aggregating feature analysis of retail formats in Guangzhou based on POI data[J]. Geographical Research,2016,35(4): 703-716.]   \n[25] 冉钊,周国华,吴佳敏,等.基于POI数据的长沙市生活性服务 业空间格局研究[J].世界地理研究,2019,28(3):163-172.[Ran Zhao, Zhou Guohua, Wu Jiamin,et al. Research on spatial pattern of life service industry in Changsha City based on POI data[J]. World Regional Studies,2019,28(3): 163-172.]   \n[26] 贾晓婷,雷军,武荣伟,等.基于POI的城市休闲空间格局分析 -以乌鲁木齐市为例[J].干旱区地理,2019,42(4):943-952. [Jia Xiaoting,Lei Jun, Wu Rongwei, et al. Urban recreation space pattern analysis based on POI data: A case study of Urumqi[J]. Arid Land Geography,2019,42(4): 943-952.]   \n[27]申庆喜,李诚固,刘仲仪,等.长春市公共服务设施空间与居住 空间格局特征[J].地理研究,2018,37(11): 2249-2258.[Shen Qingxi,Li Chenggu,Liu Zhongyi,et al. Spatial pattern of public service facilities space and living space in Changchun[J].Geographical Research,2018,37(11): 2249-2258.]   \n[28]汤国安,杨昕.ArcGIS地理信息系统空间分析实验教程[M].第 2版.北京:科学出版社,2012.[Tang Guoan,Yang Xin.ArcGIS geographic information system spatial analysis experiment courses [M]. 2nd ed. Beijing: Science Press,2012.]   \n[29] 王远飞,何洪林.空间数据分析方法[M].北京:科学出版社, 2007.[Wang Yuanfei,He Honglin.Spatial data analysis method [M]. Beijing: Science Press, 2007.]   \n[30] 张纯,吴莹,马程,等.乌鲁木齐市的职住空间关系特征及变化 规律研究—基于2010和2014年交通调查分析[J].城市发展 研究,2019,26(3): 24-31.[Zhang Chun,Wu Ying,Ma Cheng,et al. Job-housing spatial relationship characteristics and its changes in Urumqi: Case study by travel survey in 2010 and 2014[J]. Urban Development Studies,2019,26(3): 24-31.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of spatial allocation of residential quarters and public service facilities based on the perspective of “15 minutes life circle\": A case study of Urumqi City ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "XIAO Fengling1,²，DU Hongrul²， ZHANG Xiaolei',2 (1. Xinjiang Institute of Ecology and Geography, CAS, Urumqi 83OO11, Xinjiang, China; 2.College of Resources and Environment,University of Chinese Academyof Sciences,Beijing 1Oo049,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The high-quality development of new-type urbanization focuses on improving people's sense of happines and gain. Increasing public service construction in the 15-minute life circle could effectively improve people' s life satisfaction.According to the requirements ofthe national“15 minute life circle”construction,using the POI data of Gaode map,using the methods of kermel density estimation,bufer analysis and grid analysis,this paper judges the spatial coverage characteristics of public service facilities in Urumqi,and comprehensively evaluates the spatial matching between residential areas and various facilities.(1） The spatial layout characteristics of different types of basic public service facilities are diferent, which are not only related to the agglomeration and distribution of residential quarters,butalsoreflect the atributes of different facilities.(2)Thecoverage of various basic public service facilities intheresidential community’s15-minute lifecircle has specific differences.The coverage rate of public transportation trips represented by bus stations is the highest. Supermarkets,fruit and vegetable shops,and barbershops areconvenient commercial facilities.The coverage rate ofdaily service facilities is higher than that of banks,telecommunications,business halls,and other facilities.The kindergarten coverage rate in educational facilities is the highest,followed by primary schools,and the coverage rate in middle schools is low. The coverage rate of medical facilities is insignificantly diferent among several types,and health service centers, pharmacies,and clinics can achieve a $9 5 \\%$ coverage.(3) There are obvious regional differences in the compliance rates of various basic public services and residential space allocation. In densely populated areas,the proportion of residential areas is high where public service facilities,such as convenience business,education, medical care, and transportation meet the standards,and the compliance rate of peripheral areas with relatively low population densities and new urban medical and convenience commercial facilities is low.(4) Constructing a 15-minute life circle in Urumqi should focus on strengthening public service facilities in newly built urban areas,especially convenience busineses and primary-level medical facilities. Old urban areas should strengthen public service by updating facilities during the transformation process. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: public facility; residential quarter; 15 minutes life circle; space configuration; Urumqi City ",
+        "page_idx": 9
+    }
+]

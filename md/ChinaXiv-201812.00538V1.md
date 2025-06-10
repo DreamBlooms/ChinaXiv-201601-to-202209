@@ -1,0 +1,203 @@
+高、低钙饲粮交替饲喂对蛋鸡产蛋后期生产性能、蛋品质及血清指标的影响
+
+2 郝二英」陈　辉1\*王德贺」黄仁录」　刘　平²　代占辉²　郑利杰²　赵晓钰²　许利军   
+3 3穆晓旭
+
+（1.河北农业大学动物科技学院，保定071000,2.河北大午农牧集团种禽有限公司，保定
+
+5 071001，3.保定市畜牧局，保定071001）
+
+摘要：本试验旨在研究高、低钙饲粮交替饲喂对蛋鸡产蛋后期生产性能、蛋品质及血清指标的影响。试验选取68周龄的大午粉1号蛋种鸡64只，随机分为2组，每组32只，单笼饲养于个体智能鸡笼内，对照组08：00和14:00分别饲喂43.3、 $8 6 . 7 \ \mathrm { g }$ 中钙饲粮（钙含量为$3 . 6 6 \%$ )，试验组08：00饲喂 $4 3 . 3 \ \mathrm { g }$ 低钙饲粮（钙含量为 $2 . 0 0 \%$ )，14:00饲喂 $8 6 . 7 \ \mathrm { g }$ 高钙饲粮（钙含量为 $4 . 4 9 \%$ )。试验期为5周，其中预试期1周，正试期为4周。结果显示：试验组各周的平均日采食量、平均蛋重、产蛋率、料蛋比与对照组无显著差异（ $. P { > } 0 . 0 5 \$ ，但试验组各周的产蛋率在数值上高于对照组。试验组第2周的蛋壳厚度显著高于对照组 $( P { < } 0 . 0 5 )$ ，而试验组各周蛋白高度、哈氏单位与对照组无显著差异 $\cdot P { > } 0 . 0 5 \$ ）。对照组中，18:00和22:00的血清钙含量显著高于10:00和14:00（ $\cdot P { < } 0 . 0 5 \$ ，高于06:00和次日02:00（ $\cdot P { > } 0 . 0 5 \$ ；试验组中，22:00 的血清钙含量极显著高于06:00、10:00、18:00 和次日02:00（ $_ { P < 0 . 0 1 } \dot { }$ ，并显著高于14:00和18:00（ $_ { . } P { < } 0 . 0 5 )$ ；从06:00到22:00，试验组血清钙含量一直呈现增长的趋势，在22:00时，试验组血清钙、降钙素含量均显著高于对照组（ $P { < } 0 . 0 5 )$ 。由此得出，高、低钙饲粮交替饲喂(将高钙饲粮在下午饲喂)可提高蛋鸡产蛋后期的产蛋率和对钙的吸收和沉积，并且可在一定程度上改善蛋壳质量。
+
+关键词：钙含量；蛋鸡；生产性能；蛋品质；血清钙
+
+21 中图分类号：S816 文献标识码：A 文章编号：
+
+近年来，蛋鸡养殖业面临的最需要解决的问题就是如何延长笼养蛋鸡的产蛋周期数[1]。国内外一些公司开展了以提高蛋鸡经济效率为目标的100 周龄产蛋鸡的选育，我国蛋鸡育种学界也进行了相关研究。“100-500 计划"是伊莎（ISA）公司于2011年提出的，该公司提出将传统的淘汰周龄72周龄延长至80周龄，甚至是100 周龄，这样不仅可以更好地利用鸡舍设备，而且可以降低育雏成本[2]，因此“提高 80\~100 周龄期间的产蛋率”及“增强产蛋后期的孵化率，改善蛋品质”等研究变得火热。随着科学技术的发展与进步，人们也采取了越来越多的方法来改善蛋鸡产蛋后期的生产性能和蛋壳品质。就目前来说，通过改变饲喂方式是最为实用，也是最为经济的方法，通过采取正确的补钙方式饲喂蛋鸡可以更好地防止钙不足或过量造成的损失，提高蛋鸡的生产性能及蛋壳品质。当对蛋鸡进行补钙处理时，最佳的补钙时机是下午到夜间熄灯前的这段时间，蛋鸡上午采食的钙质大部分沉积于骨骼当中，而下午或晚上吸收的钙则可以直接应用于当天蛋壳的形成，同时，14:00—16:00 是蛋鸡一天当中的采食高峰期，此时进行补钙处理可以充分利用蛋鸡食欲旺盛、采食量大的特点，补钙效果最为明显[3]。王玉璘等[4]研究发现，在产蛋后期，饲粮钙含量为 $3 . 5 \%$ 时海兰褐蛋鸡生产性能及蛋品质最佳。因此，本试验设计对照组饲粮钙含量为 $3 . 6 6 \%$ ，试验组在保证每天吸收钙相同的情况下，分设为低钙饲粮（上午饲喂）和高钙饲粮（下午饲喂)，旨在研究将高钙饲粮在下午进行饲喂是否可以改善产蛋后期蛋鸡的蛋壳品质及是否对钙有更好地吸收和利用，以期为改善产蛋鸡产蛋后期的蛋壳品质，减少破壳率和畸形蛋率，提高老龄蛋鸡的产蛋性能，从营养的角度为产蛋后期的蛋鸡提供最佳的饲喂方式提供科学依据。
+
+1.1试验设计试验选取68周龄的大午粉蛋种鸡（购于河北大午农牧有限公司）64只，随机分为2组，每组32只，单笼饲养于个体智能鸡笼内，16h（06：00—22：00）光照。每日定时定量饲喂，对照组（CG）试验鸡于80:00和14:00分别采食钙含量为 $3 . 6 6 \%$ 的中钙饲粮43.3和86.7g。试验组(EG)试验鸡于08:00 和14:00 分别采食钙含量为 $2 . 0 0 \%$ 的低钙饲粮 $\begin{array} { r } { 4 3 . 3 \ \mathrm { g } } \end{array}$ 和钙含量为 $4 . 4 9 \%$ 的高钙饲粮 $8 6 . 7 \mathrm { g }$ 。每天饲喂不同饲粮时将料槽中剩余饲粮清除，并记录2个时间段耗料量。在保证每天采食量克数相同的情况下，每天从饲粮中吸收的钙的克数也相同。试验期为5周，其中预试期1周，正试期4周。
+
+# 1.2 试验饲粮
+
+试验饲粮购于河北大午农牧有限公司，营养水平参照我国农业行业标准(NY/T33-2004)
+
+表1试验饲粮组成及营养水平 (风干基础)
+
+<html><body><table><tr><td colspan="4">Table 1 Composition and nutrient levels of experimental diets (air-dry basis)</td></tr><tr><td colspan="4"></td></tr><tr><td>项目Items</td><td>高钙</td><td>中钙</td><td>低钙</td></tr><tr><td></td><td>High calcium</td><td>Middle calcium</td><td>Lower calcium</td></tr><tr><td colspan="4">原料 Ingredients</td></tr><tr><td>玉米 Corn 大豆粕 Soybean meal</td><td>60.80</td><td>60.80</td><td>60.80</td></tr><tr><td>沸石粉 Zeolite powder</td><td>22.90</td><td>22.90</td><td>22.90</td></tr><tr><td>石粉 Limestone</td><td>0.20</td><td>2.60</td><td>7.20</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>11.00</td><td>8.60</td><td>4.00</td></tr><tr><td></td><td>1.53</td><td>1.53</td><td>1.53</td></tr><tr><td>花生粕 Peanut meal</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>水解羽毛粉Hydrolyzed feather</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>植物油 Vegetable oil</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>氯化钠 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>微量元素Trace elements1)</td><td>0.20</td><td>0.20</td><td>0.20</td></tr></table></body></html>
+
+<html><body><table><tr><td>蛋氨酸 Met</td><td>0.17</td><td>0.17</td><td>0.17</td></tr><tr><td>赖氨酸 Lys</td><td>0.06</td><td>0.06</td><td>0.06</td></tr><tr><td>多维Multi-vitamin2)</td><td>0.03</td><td>0.03</td><td>0.03</td></tr><tr><td>枯草芽孢杆菌 Bacillus subtilis</td><td>0.01</td><td>0.01</td><td>0.01</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>10.88</td><td>10.88</td><td>10.88</td></tr><tr><td>粗蛋白质 CP</td><td>15.99</td><td>15.98</td><td>15.70</td></tr><tr><td>粗脂肪 EE</td><td>3.34</td><td>2.78</td><td>3.34</td></tr><tr><td>粗灰分Ash</td><td>15.16</td><td>12.64</td><td>14.50</td></tr><tr><td>粗纤维 CF</td><td>2.37</td><td>1.98</td><td>2.37</td></tr><tr><td>钙Ca</td><td>4.49</td><td>3.66</td><td>2.00</td></tr><tr><td>总磷 TP</td><td>0.56</td><td>0.56</td><td>0.56</td></tr><tr><td>有效磷 AP</td><td>0.32</td><td>0.32</td><td>0.32</td></tr></table></body></html>
+
+1）微量元素为每千克饲粮提供 The trace elements provided the following per $\mathrm { k g }$ of diets: Cu (as copper sulfate) $0 . 8 \ \mathrm { g }$ ，Fe (as ferrous sulfate) $6 \mathrm { \ g }$ ，Mn (as manganese sulfate) ${ 9 \mathrm { g } }$ ， $Z \mathrm { n }$ (as zinc sulfate) $6 \mathrm { \ g }$ ，I(as potassium iodide) $9 0 \mathrm { m g }$ ，Se (as sodium selenite) $2 1 \mathrm { m g }$ 。   
+2多维为每千克饲粮提供 The multi-vitamin provided the folowing per kg of diets:VA330 o00 IU,VBi20 mg， $\mathrm { V B } _ { 2 } 5 0 0 \ : \mathrm { m g }$ ， $D$ -泛酸钙 $D$ -pantothenate calcium $1 2 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 0 0 \mathrm { m g }$ ，VD82 500IU，VE2000 IU，VK $1 8 0 ~ \mathrm { m g }$ ，生物素 biotin $1 4 ~ \mathrm { m g }$ ，叶酸 folic acid $5 5 \mathrm { m g }$ ，烟酸niacin $2 3 0 0 \mathrm { m g }$ ，胆碱choline 45 g。
+
+3）代谢能为计算值，其余为实测值。ME was a calculated value,while the others were measured values.
+
+1.3 饲养管理
+
+试验于河北农业大学研制的个体智能鸡笼内进行，双层层叠、单笼饲养，自动上料，下料之前自动称量前1天的剩余料，数据智能记录及输出，自由饮水和采食，自动集蛋，自动清粪。试验期5周，其中预试期1周，正试期4周。每天定时（上午饲喂时间：08:00；下午饲喂时间：14:00）饲喂，对照组在上午、下午均饲喂中钙饲粮，试验组上午饲喂低钙饲粮，下午饲喂高钙饲粮。鸡舍定期消毒，按照常规免疫程序正常免疫。
+
+# 1.4样品采集与指标测定
+
+# 1.4.1 样品采集
+
+以个体为单位，每天记录蛋鸡上午的投料量与剩余料量、下午的投料量与剩余料量、蛋重、产蛋数等，并以周为单位计算平均日采食量、产蛋率、料蛋比。每周每组随机取8个鸡蛋进行蛋品质测定。每周每组随机取8只鸡于每周结束当天08:00 进行采血，并于试验结束当天的06:00、10:00、14:00、18:00、22:00及次日02:00 进行采血。采集的血样 $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，分离血清， $- 2 0 \mathrm { ~ \textdegree C }$ 保存，用于血液指标的测定。
+
+# 1.4.2 生产性能指标
+
+平均日采食量（g） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 投料量-剩余料量；  
+产蛋率 $( \% ) = 1 0 0 \times$ 总产蛋数/总存栏数；  
+料蛋比 $\mathop { : } =$ 总采食量/总蛋重。
+
+# 1.4.3 蛋品质指标
+
+蛋壳厚度：利用蛋壳厚度测定仪（ESTG-01，以色列）测定蛋壳厚度。将鸡蛋涂上凡士林后置于测试探头上，可直接读取数据，取钝端、锐端、中间部位3点进行测定，取平均值。蛋壳强度：利用蛋壳强度分析仪（EFR-01，以色列）测定蛋壳强度。将鸡蛋钝端向上、锐端朝下放到蛋壳强度测定仪上，探头向下移动，压缩速度为 $1 0 \mathrm { { m m / m i n } }$ ，当蛋壳出现第1道裂纹时即为蛋壳的强度。
+
+蛋壳相对重：利用电子天平对蛋壳重和蛋重进行测定后采用公式计算蛋壳相对重。
+
+蛋壳相对重 $( \% ) = 1 0 0 \times$ 蛋壳重/蛋重。蛋形指数：利用蛋形指数测定仪（NFN385，以色列）测定蛋形指数。蛋重、蛋白高度、蛋黄颜色、哈氏单位：利用电子天平测定蛋重后，再利用蛋品质量测定仪（EA-01，以色列）测定蛋白高度、蛋黄颜色、哈氏单位。
+
+# 1.4.4 血清指标测定
+
+血清钙含量采用甲基百里酚蓝（MTB）比色法进行测定，血清磷含量采用钼酸法进行测定，上述2个指标测定所用试剂盒均购自于南京建成生物工程研究所。血清降钙素（CT）含量采用酶联免疫吸附试验（ELISA）法进行测定，试剂盒购自于上海易利生物科技有限公司。
+
+# 1.4.5 钙代谢率的测定
+
+以周为单位计算平均每天钙摄入量，并以周为单位计算钙代谢率。  
+钙代谢率 $( \% ) { = } 1 0 0 ^ { * }$ （日摄入钙量-粪钙量）/日摄入钙量[5]。
+
+# 1.5 数据统计与分析
+
+把试验所得数据用 Excel2007软件进行初步整理后，再用 SPSS17.0软件对同一周龄的对照组、试验组数据进行t检验，对不同周龄的同一指标数据进行单因素方差分析，结果用平均值±标准差来表示。 $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著， $P { > } 0 . 0 5$ 表示差异不显著。
+
+# 2结果
+
+2.1高、低钙饲粮交替饲喂对蛋鸡产蛋后期生产性能的影响由表2可知，与对照组相比，试验组各周的平均日采食量、平均蛋重、产蛋率、料蛋比  
+均没有表现出显著差异（ $. P { > } 0 . 0 5 \$ )，但试验组各周的产蛋率在数值上高于对照组。对照组和  
+试验组的平均日采食量、平均蛋重、产蛋率、料蛋比随着饲喂时间的增加均没有产生显著变  
+化（ $_ { \cdot P > 0 . 0 5 ) }$ 。同组不同时间段数据肩标不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ），不同小写字母表示差异显著  
+（ $. P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。同一时间段内，试验组数据肩标\*表示与对照组相  
+比差异显著（ $P { < } 0 . 0 5$ ）。表3、表4和表7同。Values in the same group at the different time stages with different capital lettr superscripts mean significant  
+difference $( P { < } 0 . 0 1 )$ ,and with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with
+
+Table 2Efects of alternate feding of high and low calcium diets on performance of laying hens   
+
+<html><body><table><tr><td colspan="6">at late period of laying</td></tr><tr><td colspan="6"></td></tr><tr><td rowspan="2">时间</td><td>组别</td><td>平均日采食量</td><td>平均蛋重</td><td>产蛋率</td><td>料蛋比</td></tr><tr><td colspan="6"></td></tr><tr><td></td><td>Groups</td><td>ADFI/g</td><td>Average egg weight/g</td><td>laying rate/%</td><td>Feed/egg</td></tr><tr><td>第1周</td><td>对照组CG</td><td>106.40±10.29</td><td>64.72±5.66</td><td>80.41±6.22</td><td>2.18±0.53</td></tr><tr><td>The 1st</td><td>试验组 EG</td><td>108.38±8.89</td><td>63.93±3.21</td><td>84.29±5.18</td><td>2.10±0.45</td></tr><tr><td>week</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第2周</td><td>对照组CG</td><td>109.32±8.38</td><td>64.37±5.88</td><td>80.43±4.83</td><td>2.22±3.32</td></tr><tr><td>week</td><td>试验组 EG</td><td>110.39±8.61</td><td>64.49±3.96</td><td>85.24±6.34</td><td>2.11±0.81</td></tr><tr><td>第3周</td><td>对照组CG</td><td>111.65±6.83</td><td>65.27±4.99</td><td>82.42±5.23</td><td>2.17±0.82</td></tr><tr><td>The 3rd</td><td>试验组 EG</td><td>112.42±6.26</td><td>64.5±3.79</td><td>86.37±6.75</td><td>2.19±0.81</td></tr><tr><td>week</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第4周</td><td>对照组 CG</td><td>111.11±7.16</td><td>64.69±4.79</td><td>83.33±4.89</td><td>2.17±0.56</td></tr><tr><td>The 4th</td><td>试验组 EG</td><td>112.81±6.94</td><td>65.53±4.02</td><td>86.10±6.82</td><td>2.15±0.75</td></tr></table></body></html>
+
+the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .At the same time stage,values of experimental group with \* superscripts mean significant difference compared with control group $_ { ( P < 0 . 0 5 ) }$ . The same as Table3,Table 4and Table 7.
+
+2.2高、低钙饲粮交替饲喂对蛋鸡产蛋后期蛋品质的影响由表3可知，第1周时，试验组的蛋壳厚度显著低于对照组（ $_ { . P < 0 . 0 5 ) }$ ；第2周时，试  
+验组的蛋壳厚度显著高于对照组（ $\cdot P { < } 0 . 0 5 \$ ；第3周和第4周时，试验组的蛋壳厚度与对照  
+组没有显著差异（ $P { > } 0 . 0 5 \rangle$ )。试验组各周的蛋壳强度和蛋壳相对重与对照组没有显著差异1 $\scriptstyle P > 0 . 0 5 { \mathrm { , } }$ )。对照组和试验组的蛋壳厚度、蛋壳强度以及蛋壳相对重随着饲喂时间的增加均  
+没有产生显著变化（ $_ { . P > 0 . 0 5 ) }$ 。
+
+表3高、低钙饲粮交替饲喂对蛋鸡产蛋后期蛋壳强度、蛋壳厚度和蛋壳相对重的影响
+
+Table 3Effects of alternate feeding of high and low calcium diets on eggshellstrength,eggshellthickness and eggshell relative weight of laying hens at late period of laying   
+
+<html><body><table><tr><td colspan="3"></td><td>蛋壳厚度/mm</td><td>蛋壳相对重</td></tr><tr><td>时间</td><td>组别</td><td>蛋壳强度/N Eggshell strength/N</td><td>Eggshell</td><td>Eggshell relative</td></tr><tr><td>Time</td><td>Groups</td><td></td><td>thickness/mm</td><td>weight/%</td></tr><tr><td>第1周</td><td>对照组 CG</td><td>37.34±7.65</td><td>0.35±0.02</td><td>14.13±1.23</td></tr><tr><td>The 1st week</td><td>试验组EG</td><td>34.05±7.72</td><td>0.32±0.02*</td><td>14.17±1.56</td></tr><tr><td>第2周</td><td>对照组CG</td><td>33.79±4.08</td><td>0.32±0.03</td><td>13.47±1.05</td></tr><tr><td>The 2nd week</td><td>试验组 EG</td><td>35.77±7.25</td><td>0.34±0.03*</td><td>14.11±2.02</td></tr><tr><td>第3周</td><td>对照组CG</td><td>32.26±5.16</td><td>0.31±0.03</td><td>13.25±1.14</td></tr><tr><td>The 3rd week</td><td>试验组 EG</td><td>34.21±6.80</td><td>0.31±0.02</td><td>14.27±1.89</td></tr><tr><td>第4周</td><td>对照组CG</td><td>35.44±4.24</td><td>0.33±0.03</td><td>13.43±1.85</td></tr><tr><td>The 4th week</td><td>试验组 EG</td><td>38.04±11.46</td><td>0.34±0.06</td><td>14.48±1.96</td></tr></table></body></html>
+
+由表4可知，试验组各周的蛋形指数、蛋白高度、蛋黄颜色、哈氏单位和蛋重与对照组没有显著差异（ $P { > } 0 . 0 5$ )。对照组和试验组的蛋形指数、蛋白高度、蛋黄颜色、哈氏单位和蛋重随着饲喂时间的增加均没有产生显著变化（ $\scriptstyle \cdot P > 0 . 0 5 .$ )，但是在第 $1 { \sim } 3$ 周，随着饲喂时间的增加，对照组和试验组的蛋形指数均呈现增长的趋势。
+
+表4高、低钙饲粮交替饲喂对蛋鸡产蛋后期蛋形指数、蛋白高度、蛋黄颜色、哈氏单位和蛋重的影
+
+# 响
+
+Table 4Efects ofalternate feeding of high and low calcium diets on egg-shape index,albumen height,egg yolk
+
+color, Haugh unit and egg weight of laying hens at late period of laying   
+
+<html><body><table><tr><td>时间</td><td></td><td></td><td>蛋白高度</td><td></td><td></td><td></td></tr><tr><td colspan="7">组别 蛋形指数</td></tr><tr><td>Time</td><td>Groups</td><td>Egg-shape index</td><td>Albumen</td><td>蛋黄颜色 Egg yolk color</td><td>哈氏单位 Haugh unit</td><td>蛋重 Egg weight/g</td></tr><tr><td></td><td></td><td></td><td>height/mm</td><td></td><td></td><td></td></tr><tr><td>第1周</td><td>对照组CG</td><td>1.32±0.04</td><td>3.23±1.56</td><td>8.75±0.46</td><td>43.69±20.42</td><td>63.36±3.96</td></tr><tr><td>The 1st week</td><td>试验组 EG</td><td>1.33±0.04</td><td>4.34±2.27</td><td>7.88±1.36</td><td>54.88±25.11</td><td>61.90±5.81</td></tr><tr><td>第2周</td><td>对照组CG</td><td>1.34±0.03</td><td>4.43±0.88</td><td>8.50±1.51</td><td>60.23±9.57</td><td>64.6±6.14</td></tr><tr><td>The 2nd</td><td>试验组 EG</td><td>1.34±0.02</td><td>5.20±0.81</td><td>8.63±1.06</td><td>69.09±8.60</td><td>63.73±5.39</td></tr><tr><td>week 第3周</td><td>对照组CG</td><td>1.34±0.03</td><td>4.46±1.44</td><td>8.13±1.36</td><td>58.76±16.77</td><td>64.99±6.50</td></tr><tr><td>The 3rd</td><td>试验组 EG</td><td>1.33±0.04</td><td>6.08±1.73</td><td></td><td></td><td></td></tr><tr><td>week</td><td></td><td></td><td></td><td>8.75±0.46</td><td>74.08±14.65</td><td>63.34±3.20</td></tr><tr><td>第4周</td><td>对照组CG</td><td>1.35±0.04</td><td>5.53±1.40</td><td>8.00±14.31</td><td>71.21±11.04</td><td>61.98±4.08</td></tr><tr><td>The 4th</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>week</td><td>试验组EG</td><td>1.37±0.07</td><td>5.25±1.77</td><td>7.38±1.60</td><td>65.65±21.20</td><td>63.53±3.08</td></tr></table></body></html>
+
+2.3高、低钙饲粮交替饲喂对蛋鸡产蛋后期血清指标的影响
+
+由表5可知，对照组中，18:00 和22:00 的血清钙含量显著高于10:00 和14:00( $P { < } 0 . 0 5 \rangle$ )，高于06:00和次日02:00，但差异不显著（ $P { > } 0 . 0 5 \rangle$ ；试验组中，22:00的血清钙含量极显著高于06:00、10:00和次日02:00（ $P { < } 0 . 0 1 \$ )，显著高于14:00和18:00（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 ,$ 。从06:00到22:00，试验组血清钙含量呈现一直增长的趋势。对照组中，06:00、10:00 和14:00的血清降钙素含量显著高于18:00和次日02:00（ $_ { . { P < } 0 . 0 5 } )$ ；试验组中，06:00的血清降钙素含量显著高于18:00和次日02:00( $P { < } 0 . 0 5 )$ ，同时22:00 的血清降钙素含量也高于18:00 和次日02:00,但差异不显著( $_ { \cdot P > 0 . 0 5 ) }$ 。在22:00，试验组的血清钙和降钙素含量均显著高于对照组( $_ { , P > 0 . 0 5 ) }$ ，其余时间点差异不显著（ $_ { . P > 0 . 0 5 ) }$ 。血清磷含量在对照组和试验组之间以及同一组的各时间点之间均没有表现出显著差异（ $P { > } 0 . 0 5 )$ 。
+
+表52组蛋鸡不同时间点的血清指标  
+Table 5Serum indexes of laying hens at different time points in 2 groups   
+
+<html><body><table><tr><td rowspan="2">时间</td><td colspan="2">钙 Ca/(mmol/L)</td><td colspan="2">磷 P/(mmol/L)</td><td colspan="2">降钙素 CT/(ng/L)</td></tr><tr><td>对照组</td><td>试验组</td><td>对照组</td><td>试验组</td><td>对照组</td><td>试验组</td></tr><tr><td>Time</td><td>CG</td><td>EG</td><td>CG</td><td>EG</td><td>CG</td><td>EG</td></tr><tr><td>06:00</td><td>2.48±1.83ab</td><td>1.83±0.34Bb</td><td>1.15±0.26</td><td>1.26±0.42</td><td>6.20±2.71a</td><td>7.43±2.84a</td></tr><tr><td>10:00</td><td>1.90±0.51b</td><td>2.22±0.46Bb</td><td>1.24±0.32</td><td>1.20±0.22</td><td>5.64±2.48a</td><td>4.91±1.69ab</td></tr><tr><td>14:00</td><td>1.94±0.54b</td><td>2.48±0.77ABb</td><td>1.32±0.44</td><td>1.15±0.28</td><td>5.95±2.19a</td><td>3.53±0.69ab</td></tr><tr><td>18:00</td><td>3.17±1.25a</td><td>2.71±1.64ABb</td><td>1.14±0.25</td><td>1.12±0.22</td><td>3.44±1.08b</td><td>2.89±1.15b</td></tr><tr><td>22:00</td><td>3.23±1.56a</td><td>5.30±5.01Aa*</td><td>1.12±0.30</td><td>1.01±0.19</td><td>3.69±1.14ab</td><td>6.01±4.08ab*</td></tr><tr><td>02:00</td><td>2.16±0.84ab</td><td>2.12±0.22Bb</td><td>1.21±0.28</td><td>1.19±0.21</td><td>3.46±1.59b</td><td>2.37±1.12b</td></tr></table></body></html>
+
+同列数据肩标不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ ，不同小写字母表示差异显著 $_ { ( P < 0 . 0 5 ) }$ ，相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。同行同一指标，试验组数据肩标\*表示与对照组相比差异显著 $( P { < } 0 . 0 5 )$ 。表6同。In the same column,values with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,andwith different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same or no lettersuperscripts mean no significant difference $( P { > } 0 . 0 5 )$ . In the same row and the same index, values of experimentalgroup with \* superscripts mean significant difference compared with control group $_ { ( P < 0 . 0 5 ) }$ . The same as belowTable 6.由表6可知，试验组各周的血清钙含量都不同程度的高于对照组（ $_ { P > 0 . 0 5 ) }$ ，而血清磷含量则不同程度的低于对照组（ $_ { ( P > 0 . 0 5 ) }$ ；同时，试验组各周的血清降钙素含量也不同程度的低于对照组（ $\scriptstyle \cdot { \cal P } > 0 . 0 5 .$ 。
+
+Table 6Serum indexes of laying hens at different stages in 2 groups   
+
+<html><body><table><tr><td>时间</td><td colspan="2">钙 Ca/(mmol/L)</td><td colspan="2">磷 P/(mmol/L)</td><td colspan="2">降钙素 CT/(ng/L)</td></tr><tr><td rowspan="2">Time</td><td>对照组</td><td>试验组</td><td>对照组</td><td>试验组</td><td>对照组</td><td>试验组</td></tr><tr><td>CG</td><td>EG</td><td>CG</td><td>EG</td><td>CG</td><td>EG</td></tr></table></body></html>
+
+表62组蛋鸡不同阶段的血清指标  
+
+<html><body><table><tr><td>The</td><td>1st</td><td>1.91±0.11</td><td>2.14±0.01</td><td>1.31±0.43</td><td>1.21±0.31</td><td>4.68±1.51</td><td>3.95±1.18</td></tr></table></body></html>
+
+第2周
+
+第1周  
+
+<html><body><table><tr><td>The</td><td>2nd</td><td>1.81±0.14</td><td>2.27±0.13</td><td>1.36±0.33</td><td>1.30±0.28</td><td>4.85±1.21</td><td>4.21±1.09</td></tr><tr><td>week</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第3周</td><td>1.79±0.17</td><td>2.24±0.15</td><td>1.32±0.37</td><td>1.28±0.22</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>4.93±1.58</td><td>4.41±1.15</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+The 3rd
+
+week
+
+第4周
+
+The 4th 1.90±0.51 2.22±0.46 1.24±0.31 1.19±0.26 4.73±1.86 4.52±1.93
+
+week
+
+2.4高、低钙饲粮交替饲喂对蛋鸡产蛋后期钙代谢率的影响
+
+由表7可以发现，试验组和对照组各周的日摄入钙量、粪钙量和钙代谢率均无显著差异1 $_ { \mathrm { P > 0 . 0 5 } ) }$ ，但从数值上看试验组各周的钙代谢率均稍高于对照组。
+
+# 表7高、低钙饲粮交替饲喂对蛋鸡产蛋后期钙代谢率的影响
+
+Table 7Eects of alternate feeding of high and low calcium diets on calcium metabolism rate oflaying hens at   
+
+<html><body><table><tr><td colspan="7">late period of laying</td></tr><tr><td>时间</td><td>组别和饲喂时间</td><td>平均采食量</td><td>摄入钙量</td><td>日摄入钙量</td><td>粪钙量</td><td>钙代谢率</td></tr><tr><td>Time</td><td>Groups and feeding time</td><td>Average feed/g</td><td>Intake of calcium/g</td><td>Daily intake of calcium/g</td><td>Fecal calcium/g</td><td>Calcium metabolism rate/%</td></tr><tr><td rowspan="8">第1周 The 1st week</td><td>对照组08:00</td><td rowspan="2">32.57±3.40</td><td rowspan="2">1.19</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>08:00 for CG</td></tr><tr><td>对照组14:00</td><td rowspan="2">73.87±7.11</td><td rowspan="2">2.70</td><td rowspan="2">3.89</td><td rowspan="2">1.53</td><td rowspan="2">60.72±2.44</td></tr><tr><td>14:00 for CG</td></tr><tr><td>试验组08:00</td><td rowspan="2">31.18±3.83</td><td rowspan="2">0.62</td><td rowspan="4">3.80</td><td rowspan="4">1.47</td><td rowspan="4">61.24±2.15</td></tr><tr><td>08:00 for EG</td></tr><tr><td>试验组14:00</td><td rowspan="2">3.18</td></tr><tr><td>14:00 for EG</td><td>70.86±7.45</td></tr><tr><td rowspan="5">第2周 The</td><td>对照组08:00</td><td rowspan="2">32.64±4.86</td><td></td><td></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>08:00 for CG</td><td>1.19</td><td></td></tr><tr><td></td><td rowspan="2">76.07±5.89</td><td rowspan="2">2.78</td><td rowspan="2">3.97</td><td rowspan="2">1.54</td><td rowspan="2">61.04±1.88</td></tr><tr><td>对照组14:00</td></tr><tr><td>2nd week</td><td>14:00 for CG</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>试验组08:00</td><td rowspan="2">30.97±4.29</td><td rowspan="2">0.62</td><td rowspan="2">3.98</td><td rowspan="2">1.48</td><td rowspan="2">62.83±2.11</td></tr><tr><td>08:00 for EG</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">试验组14:00</td><td rowspan="2">74.88±5.89</td><td rowspan="2">3.36</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td></td><td>14:00 for EG</td></tr><tr><td></td><td>对照组08:00</td><td>33.46±2.57</td><td>1.22</td><td></td><td></td><td></td></tr><tr><td></td><td>08:00 for CG</td><td></td><td></td><td>4.00</td><td>1.57</td><td>60.68±1.55</td></tr><tr><td>第3周</td><td>对照组14:00</td><td>76.06±4.58</td><td>2.78</td><td></td><td></td><td></td></tr><tr><td>The</td><td>14:00 for CG</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3rd</td><td>试验组08:00</td><td>32.91±3.55</td><td>0.66</td><td></td><td></td><td></td></tr><tr><td>week</td><td>08:00 for EG</td><td></td><td></td><td>4.02</td><td>1.48</td><td>63.20±1.42</td></tr><tr><td></td><td>试验组14:00</td><td>74.83±5.84</td><td>3.36</td><td></td><td></td><td></td></tr><tr><td></td><td>14:00 for EG</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>对照组08:00</td><td>34.02±2.36</td><td>1.24</td><td></td><td></td><td></td></tr><tr><td rowspan="4">第4周 The 4th</td><td>08:00 for CG</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>对照组14:00</td><td></td><td></td><td>3.98</td><td>1.82</td><td>61.76±1.83</td></tr><tr><td>14:00 for CG</td><td>74.79±5.50</td><td>2.74</td><td></td><td></td><td></td></tr><tr><td>试验组08:00</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>week</td><td></td><td>33.18±3.75</td><td>0.66</td><td></td><td></td><td></td></tr><tr><td></td><td>08:00 for EG</td><td></td><td></td><td>4.00</td><td>1.43</td><td>64.32±1.44</td></tr><tr><td></td><td>试验组14:00</td><td>74.29±5.98</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>14:00 for EG</td><td></td><td>3.34</td><td></td><td></td><td></td></tr></table></body></html>
+
+3.1高、低钙饲粮交替饲喂对蛋鸡产蛋后期生产性能的影响
+
+饲粮钙含量对蛋鸡正常生理功能的发挥、骨骼的发育，尤其是对良好生产性能的发挥具有重要作用。本试验发现，将高钙饲粮放在下午进行饲喂，试验组的平均日采食量高于对照组，但料蛋比却低于对照组，这与Sauveur 等[的研究发现一致。Sauveur 等[研究发现，除了饲粮能量水平会显著影响蛋鸡的采食量外，饲粮钙含量的高低也显著影响着蛋鸡的采食量，可通过调节平均日采食量来维持钙的摄入。在本试验中，对照组和试验组的产蛋率差异不显著，但试验组的产蛋率较稳定，且4周的平均产蛋率高于对照组，这说明上午饲喂低钙饲粮、下午饲喂高钙饲粮的这种饲喂方式对提高蛋鸡的产蛋率有所帮助，章世元等[7研究发现，饲粮中如果加入适量的钙并且把添加的钙以更适宜的方式喂给蛋鸡，则可以有效地提高蛋鸡的产蛋率，保持饲粮中钙含量在较高水平将有利于蛋鸡产蛋性能的发挥[8-9]。本试验中试验组
+
+蛋鸡的产蛋率较对照组有所提升，说明高、低钙饲粮交替饲喂在一定程度上改善了蛋鸡产蛋后期的生产性能。  
+3.2 高、低钙饲粮交替饲喂对蛋鸡产蛋后期蛋品质的影响  
+蛋壳质量是衡量蛋鸡蛋品质的重要指标之一[10]。钙是蛋壳的主要组成成分，机体对钙的吸收和利用直接决定了蛋壳的形成与质量[]，代表蛋壳质量指标的蛋壳强度、蛋壳重和蛋壳比例等是评价蛋鸡饲粮中钙、磷含量是否合理的重要指标[12]。薛剑等[13]研究表明，蛋壳内的钙有 $6 0 \% \sim 7 5 \%$ 来自于饲粮中的钙，其余的钙则来自于骨骼当中骨吸收作用下钙的释放，因此，饲粮钙含量的高低会直接影响蛋壳质量和骨骼质量。本试验结果表明，在蛋壳厚度方面，第1周时对照组显著高于试验组，但是到第2周时试验组显著高于对照组，试验组的蛋壳厚度有所提高；试验组第2周、第3周、第4周的蛋壳相对重均高于对照组，表明下午饲喂高钙饲粮更有利于钙的沉积，提高蛋壳质量；蛋壳的主要形成时期是夜间，此时补充的钙经小肠吸收后直接进入壳腺形成蛋壳，并同小肠主动吸收相吻合，提高了钙的吸收率。所以，钙的补充最佳时间是午后（16：00——18:00)，可将全天需要量的 2/3 留在此时饲喂，可明显改善蛋壳质量。  
+3.3 高、低钙饲粮交替饲喂对蛋鸡产蛋后期血清指标的影响  
+激素在维持血液钙、磷含量稳定中起着重要的作用。血清钙和磷含量主要受甲状旁腺激素、降钙素和维生D的调节，这3种物质相互作用、相互影响，共同调节机体骨代谢和蛋壳的形成，使之处于动态平衡中[14]。降钙素是调节机体内钙、磷代谢的重要激素，其作用机制是抑制破骨细胞的活性，抑制骨钙转变为血钙，从而降低血液中钙的含量[15]。本试验中，在产蛋后期将高钙饲粮在下午进行饲喂后可以提高血清钙含量，并且在14：00—22:00这个时间段内血清钙含量呈现明显的递增趋势，因为蛋鸡主要在夜间形成蛋壳，所以此时间段内对钙的吸收较多，且王宏哲[16]研究发现在饲喂颗粒状石粉后能延缓血液中钙的消化时间，颗粒状石粉在肠道停留时间较长，使机体对钙有更好的吸收能力，这与本试验结论一致。本试验结果得出，试验组蛋鸡在试验结束的当天血清钙含量在14：00 和 22:00时显著高于对照组，此时钙沉积是为形成蛋壳做准备，此时血清降钙素含量也是最高的，这可能是由于钙大量消耗后，蛋鸡会动用部分骨钙使血液中钙含量增加，降钙素分泌也相应增加，以降低血液中钙含量，从而维持机体内钙的平衡，防止骨质疏松症的发生。所以，夜晚沉积钙的多少对蛋鸡尤其是产蛋后期的蛋鸡至关重要。本试验结果说明，在蛋鸡产蛋后期将高钙饲粮在下午进行饲喂可以提高血清中钙的含量，而提高血清中钙含量对蛋鸡的产蛋十分重要[17]。3.4 高、低钙饲粮交替饲喂对蛋鸡产蛋后期钙吸收与代谢的影响  
+蛋壳中钙的形成与钙的代谢密切相关，钙的沉积在生产上也具有很重要的作用。蛋鸡钙的来源主要是通过饲粮摄入，饲粮中的钙经过小肠吸收后进入血液，血液中的钙流经骨骼时部分在骨骼中沉积，另一部分钙在蛋壳腺中形成蛋壳。在正常的饲养状态下，蛋鸡体内钙的代谢处在一个吸收和沉积的动态平衡中。形成蛋壳的钙有 $6 0 \% { \sim } 7 5 \%$ 需要饲粮提供，剩余的钙主要是骨骼中的动员出来的[13]。饲粮如果钙含量一直处在较低水平，从饲粮吸收的钙不能满足生成蛋壳的需要时，就会动用骨钙，这样容易造成骨质疏松，并且影响产蛋率和蛋壳质量。李治学等[18]研究发现，蛋鸡产蛋后期体内的钙代谢已经发生了严重的紊乱，钙代谢紊乱是影响蛋鸡产蛋性能的重要因素。在本试验中，虽然对照组与试验组之间每天摄入的钙量相同，但是从数值上可以发现，试验组将高钙饲粮在下午进行饲喂后钙的代谢率较对照组增加，这说明试验组蛋鸡对钙有更好的吸收，相应的蛋壳质量也有一定程度的改善，说明增加了钙的沉积量。  
+4结论
+
+高、低钙饲粮交替饲喂(将高钙饲粮在下午饲喂)提高了蛋鸡产蛋后期的产蛋率和夜间血清钙含量，增加了钙的吸收和沉积量，并且在一定程度上改善了蛋壳质量。
+
+参考文献：
+
+[1] WEBSTER A B.Welfare implications of avian osteoporosis[J].Poultry
+
+Science,2004,83(2):184-192.   
+[2] VAN SAMBEEK F.Breeding for 500 eggs in 100 weeks[J].World Poultry,2011,27(1):3. [3]刘世发.笼养蛋鸡钙、磷与骨骼代谢规律及其调节机制[D].硕士学位论文.泰安:山东农业 大学,2013.   
+[4]王玉璘,张亚丽.不同饲粮钙水平对海兰褐蛋鸡产蛋后期生产性能的影响[J].中国家 禽,2015,37(17):60-61.   
+[5]曹福池,张丽君,徐克明,等.不同钙源饲料及钙水平对蛋鸡的影响——Ⅱ钙的代谢试验[J]黑 龙江畜牧兽医,1987(2):8-11.   
+[6] SAUVEUR B,MONGIN P. Effects of time-limited calcium meal upon food and calcium ingestion and egg quality[J].British Poultry Science,1974,15(3):305-313.   
+[7] 章世元,俞路,王雅倩,等.日粮钙磷水平对笼养蛋鸡骨代谢及骨超微结构的影响[J].核农学 报,2008,22(5):732-738.   
+[8] ROBERTS JR.Factors affecting egg internal quality and egg shell quality in laying hens[J].The Journal of Poultry Science,2004,41(3):161-177.   
+[9]ROLAND D A,BRYANT M.Nutrition and feeding foroptimum eggshell quality[C]//Proceedings of the X X I World's poultry congress.Montreal:[s.n.],2000.   
+[10]贾春波.蛋壳质量下降的原因及改善措施[J].现代畜牧科技,2016(6):16.   
+[11] 陈杰,章世元.蛋壳的钙化过程及蛋壳腺的钙代谢调控[J].畜牧与兽医,2010,42(11):93-96. [12]孔路欣.不同增钙模式对蛋鸡生产性能、胫骨质量和蛋品质的影响[D].硕士学位论文.保 定:河北农业大学,2015.   
+[13]薛剑,张季.浅谈通过矿物质营养调控提高蛋壳质量[J].黑龙江畜牧兽医,2006(11):50-51. [14] WASSERMAN R H. Intestinal absorption of calcium and phosphorus[J].Federation Proceedings,1981,40(1):68-72.   
+[15]于明香,王洪复.降钙素对破骨细胞骨吸收抑制作用的机理[J].中华内分泌代谢杂   
+志,1997,13(2):119-122.   
+[16]王宏哲.灰色石灰石颗粒可提高蛋壳质量[J].饲料研究,1990(7):29.   
+[17]冯德萍,司建河,谭磊,等.鸡产蛋过程中血钙和蛋壳超微结构变化的研究[J].当代畜   
+牧,2014(15):55-57.   
+[18] 李治学.鸡钙代谢调节物质基因真核表达质粒应用效果的研究[D].硕士学位论文.扬州：   
+扬州大学，2007.   
+Effects of Alternation Feeding of Low and High Calcium Diets on Performance,Egg Quality and Serum Indexes of Laying Hens at Late Period of Laying HAO EryinglCHEN Hui1\* WANG DehelHUANG Renlul LIU Ping² DAI Zhanhui² ZHENG Lijie²ZHAO Xiaoyu² XU Lijun³MU Xiaoxu3 (1. Animal Science and Technology Colege of Hebei Agricultural University, Baoding 071000, China; 2. Breeding Poultry Co., Ltd.,ofDawu Group, Baoding 071000,China; 3.Baoding Municipal Bureau of Agriculture, Baoding 071000, China)   
+Abstract: The purpose of this experiment was to study the effects of alternation feding of high   
+and low calcium diets on performance, egg quality and serum indexes of laying hens at late period   
+of laying. Sixty-weight 68-week-old Dawufen No.1 hen breeders were selected and randomly   
+divided into 2 groups with 32 birds in each group,and single cage reared in individual inteligent   
+cage. The laying hens in control group were fed 43.3 and $8 6 . 7 \ \mathrm { g }$ middle calcium diet (calcium   
+content was $3 . 6 6 \%$ ） at 08:00 and 14:00,respectively. The laying hens in experimental group were   
+fed $ { 4 3 . 3 \ \mathrm { g } }$ low calcium diet (calcium content was $2 . 0 0 \%$ ） at 08:00,and they were fed $8 6 . 7 ~ \mathrm { g }$ high
+
+calcium diet (calcium content was $4 . 4 9 \%$ ）at14:Oo.The test period lasted for 5 weeks including 1 week for pre-test period and 4 weeks for trial period. The results showed that the average daily feed intake,average egg weight, laying rate and feed/egg in the experimental group were not significantly different from those in the control group $( P > 0 . 0 5 )$ , but the numerical value of laying rate in the experimental group at each week of experiment was higher than that in the control group. The eggshel thickness at the 2nd week in the experimental group was significantly higher than that in the control group $( P { < } 0 . 0 5 )$ , but the albumen height and Haugh unit at each week had no significant differences between the experimental group and the control group $( P { > } 0 . 0 5 )$ . In the control group, serum calcium content at 18:0O and 22:0O was significantly higher than that at 10:00 and 14:00 $( P { < } 0 . 0 5 )$ , and higher than that at O6:00 and O2:00 (morrow) $( P { > } 0 . 0 5 )$ . In the experiment group,serum calcium content at 22:0O was significantly higher than that at 06:00, 10:00,18:00 and 02:00 (morrow) $( P { < } 0 . 0 1 )$ ,and significantly higher than that at 14:0O and 18:00 （20 $( P { < } 0 . 0 5 )$ . From O6:00 to 22:00,serum calcium content in the experimental group showed an increasing trend. At 22:00, serum calcium and calcitonin contents in the experimental group were significantly higher than those in the control group $( P { < } 0 . 0 5 )$ . It is concluded that alternating feeding of high and low calcium diets (high calcium diet is fed in the afternoon) can increase laying rate and the absorption and deposition of calcium for laying hens at late stage of laying, and improve the eggshell quality to a certain extent. Key words: calcium content; laying hens; performance; egg quality; serum calcium

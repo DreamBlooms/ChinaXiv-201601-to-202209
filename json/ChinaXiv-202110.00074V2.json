@@ -1,0 +1,1148 @@
+[
+    {
+        "type": "text",
+        "text": "结构方程模型统计检验力分析：原理与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "翟宏堃」李强」魏晓薇」(1南开大学社会心理学系，天津300350)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要结构方程模型是心理学、管理学、社会学等学科中重要的统计工具之一。然而，大量使用结构方程模型的研究在研究设计和结果报告的环节忽视了对该方法的统计检验力进行必要的分析和报告，在一定程度上降低了这些研究的结果的证明效力。结构方程模型的统计检验力分析方法主要有 Satorra-Saris 法、MacCallum 法与 Monte Carlo 法三类。其中 Satorra-Saris 法适用于备择模型清晰、检验对象相对简单、检验方法基于 $\\chi ^ { 2 }$ 分布的情形;MacCallum法适用于基于 $\\chi ^ { 2 }$ 分布的模型拟合检验且备择模型不明的情形;MonteCarlo 法适用于检验对象相对复杂、采用模拟或重抽样方法进行检验的情形。在实际应用中，研究者应当首先判断检验的目的、方法以及是否有明确的备择模型，并根据这些信息选择具体的分析方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 结构方程模型，统计检验力，模型拟合检验，模型参数检验",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结构方程模型(Structural Equation Model,SEM)是心理学、管理学、社会学等学科中重要的统计工具之一，可以用于验证性因子分析、共同方法偏差检验、中介/调节效应分析、交叉滞后分析等多种场景。有研究者指出，相较于一般的回归分析，结构方程模型能够更好地控制测量误差，也支持构建复杂的多变量模型(王阳等,2020)。然而，在使用结构方程模型进行分析时，却较少有研究者报告统计检验力的相关内容。事实上，统计检验力的大小在零假设显著性检验(Null Hypothesis Significance Testing,NHST)中有着重要的参考价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "统计检验力指的是某假设检验能够正确地拒绝错误零假设的概率。对统计检验力进行分析，可以帮助研究者确定合理样本量，避免造成大量的人力和物力的浪费(吴艳，温忠麟，2011；赵礼，王晖,2019)。此外，对评估结构方程模型拟合的 $\\chi ^ { 2 }$ 检验而言，零假设的形式通常为模型拟合良好或模型间无差异，而备择假设则通常为模型拟合不良或模型间存在差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对此类假设,Ⅱ类错误意味着研究者可能将拟合不良的模型误认为拟合良好的模型进行结果报告。王阳等人(2020)则指出，若模型设定有误，建立在此模型基础上的参数估计结果都是不可靠的。在这种情况下,Ⅱ类错误可能带来比I类错误更大的危害。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，有一些研究者开始逐渐意识到使用结构方程模型作为统计工具时统计检验力分析的重要性，并开始在研究中报告其先验或后验检验力，或者至少在讨论部分指出该研究可能在统计检验力上存有不足(Mullen& Crowe,2017; Hollerbach et al.,2018; Kornadt et al,2019;Zhang＆ Zaman,2020; Zhai etal.,2021)。但值得注意的是，目前仍有许多研究者在使用结构方程模型时并未提及统计检验力的有关内容。笔者曾以全文包含“结构方程模型”或“SEM 模型”为条件，搜索了国内心理学顶级刊物《心理学报》中近五年(2017\\~2021)内发表的论文，共检索出 51篇论文，排除其中6篇方法类研究和2篇元分析研究，余下43 篇中提及“统计检验力”或“统计效力”的仅有2篇研究。本文介绍结构方程模型统计检验力分析的基本原理和具体分析流程，并进行了实例演示，最后对相关问题进行了讨论。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．结构方程模型中的假设检验",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设检验的技术路线直接决定了检验力分析所能选取的技术路线，结构方程模型中假设检验的技术路线大致可分为两种：基于 $\\chi ^ { 2 }$ 分布的方法以及基于模拟(simulation)或重抽样(resampling)技术的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1基于 $\\chi ^ { 2 }$ 分布的结构方程模型检验",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于 $\\chi ^ { 2 }$ 分布的结构方程模型检验主要包括用于评价模型拟合(或嵌套模型比较)的 $\\chi ^ { 2 }$ 检验、 $\\Delta \\chi ^ { 2 }$ 检验、等效性检验、基于模型拟合指数的检验以及用于评价模型参数(或参数的函数,如中介效应)的 Wald 检验、拉格朗日乘子检验(Lagrange Multiplier test,LM检验)和似然比检验(Satorra,1989; Chou & Bentler,1990; Gonzalez & Griffn,2001; Yuan & Chan, 2016; Yuan etal.,2016；王阳等,2020)。这些检验涵盖了结构方程模型相关假设检验的方方面面，甚至可以说，目前与结构方程模型有关的参数检验方法要么本身就是 $\\chi ^ { 2 }$ 检验，要么可以通过适当变形转化为 $\\chi ^ { 2 }$ 检验。根据构建统计量时的细微差别，上述检验又可被划分为三个子类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先是 $\\chi ^ { 2 }$ 检验、 $\\Delta \\chi ^ { 2 }$ 检验、等效性检验和似然比检验，这四种检验都以结构方程模型的拟合函数为基础。结构方程模型的拟合函数衡量了样本协方差矩阵 $s$ 与假设模型对应的协方差矩阵 $\\scriptstyle \\sum _ { 0 }$ 之间的差距，亦即变量间关系在假设模型与实际数据中的差距(吴明隆,2010；王阳等,2020)。Muthen(2004)指出，当样本来自假设模型所对应的正态总体时，拟合函数值的$N { - } I$ 倍 $( N$ 为样本量)随着 $N$ 的增大渐近服从中心化 $\\chi ^ { 2 }$ 分布。另有学者则指出，当假定样本来自与假设模型差距小于给定值(记作 $F _ { \\boldsymbol { \\theta } _ { . } }$ )的正态总体时，此时拟合函数值的 $N { - } l$ 倍渐进服从非中心参数为 $( N { - } I ) F _ { 0 }$ 的非中心 $\\chi ^ { 2 }$ 分布(Satorra & Saris,1985; MacCallum et al., 1996; Yuan &Chan,2016)。据此，可以构建出零假设成立时 $\\chi ^ { 2 }$ 检验和等效性检验所对应的统计量分布。而$\\Delta \\chi ^ { 2 }$ 检验和似然比检验则是在前者的基础上，增加了对假设模型的约束条件，通过比较添加约束条件前后实际数据与假设模型的差距是否显著增大来判定添加的约束条件是否“合理”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二类是基于模型拟合指数的检验。从原理上讲，这类检验与第一类检验差别不大，其本质是通过拟合指数的定义式将拟合指数换算为非中心参数，因此该方法仅能用于根据非中心参数定义的拟合指数(如RMSEA、CFI、MFI、GFI等)。此类检验有两种相似但略有不同的技术路线，一种将基于模型拟合指数的零假设换算为基于非中心参数的零假设，选择非中心参数的临界值作为构建 $\\chi ^ { 2 }$ 统计量分布的依据,MacCallum 等人(1996)和MacCallum 等人(2006)就采用了这种做法。另一种则根据 Venables(1975)的研究，以样本计算出的非中心参数估计值为依据构建总体非中心参数的 $_ { 1 - \\alpha }$ 置信区间，再根据定义式将其换算回拟合指数，从而得到拟合指数的 $_ { 1 - \\alpha }$ 置信区间，进而完成统计推断。Yuan等人提出的基于CFI与RMSEA的等效性检验采用了此类做法(Yuan et al.,2016; Marcoulides& Yuan,2017；王阳等,2020)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第三类是Wald 检验和LM检验。与前两类方法不同的是，此类方法不再关注样本的拟合函数值本身(非中心参数也是关于拟合函数的函数)，而是通过对关键参数及其标准误的估计，构建z统计量进行检验。其中Wald检验以备择假设成立时的模型为基础完成对目标参数的估计和检验。当处理参数函数形式的假设时,Wald检验对参数函数在其真值邻域内进行一阶 Taylor 展开求得其线性近似值，进而完成对待检验指标的标准误估计(Chou& Bentler,1990; Gonzalez& Griffin,2001)。此时 Wald 检验亦称为 Delta 法，叶宝娟和温忠麟(2012)曾介绍过如何利用该方法对多维测验合成信度的置信区间进行估计。与Wald检验相对,LM检验以零假设成立时的模型为基础，将假设条件重写为约束函数的形式，并构建拉格朗日函数将原假设检验问题变为检验拉格朗日乘数是否为0的问题(Chou& Bentler,1990)。若拉格朗日乘数为0，则意味着新假设条件的加入没有改变原假设模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基于模拟或重抽样技术的结构方程模型检验",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着计算机技术的发展，模拟技术和重抽样技术越来越多地出现在统计学领域，这些技术被广泛地运用在包括参数估计与假设检验在内的多种场合。不同于基于理论分布的经典方法，此类方法通常以模拟或重抽样的方式得到目标统计量的经验分布，并以经验分布代替理论分布进行统计推断，因此往往用于目标统计量的理论分布不明确或难于计算的情形。此类方法中最为重要的两种分别是基于模拟技术的 Monte Carlo (MC)方法3与基于重抽样技术的 Bootstrap 方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MC 方法最早由 StanislawUlam 等人于20 世纪40年代中期提出，其核心思想为采用模拟的方式“重现”某一概率模型所描绘的过程，以模拟得到的结果作为目标问题的近似解。MacKinnon 等人(2004)在评估中介效应检验的 M 法和经验 M 法时同时引入了 MC 法。Preacher 和 Selig(2012)进一步指出MC 法不仅可以用于线性回归和路径分析模型，也可直接扩展至潜变量模型。该方法假定模型参数服从联合正态分布，其均值向量与协方差矩阵通常由对原始模型的极大似然估计确定。MC 法将模型参数视为从确定的联合正态分布中抽样的过程，以此为基础进行随机抽样，最终基于抽样结果构建中介效应的经验分布并进行统计推断(Preacher＆ Selig,2012)。此外，在结构方程建模中还有一类 Monte Carlo 方法——马尔可夫链蒙特卡洛(Markov chain Monte Carlo,MCMC)方法，此类方法主要用于贝叶斯结构方程建模中。由于对“参数”这一重要概念的基础假设不同，贝叶斯统计中假设检验和统计检验力分析的过程均与基于频率学派的传统统计学有着较大的区别，本文的内容仍然在频率学派的框架内，故对该方法不做过多介绍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注意到，基于模拟技术的结构方程模型检验仍然对分布有着较强的假设，MC 法假定路径系数服从联合正态分布，基于贝叶斯统计的 MCMC 法需要给出模型参数的先验分布与给定参数时样本的条件分布。相比之下，基于重抽样技术的检验对样本分布的假设更弱，Efron(1979)提出的 Bootstrap 法4仅要求样本是从某一确定总体中随机抽样得到的，对其分布形态并无更多要求。不仅如此,Bootstrap 法同样基于“利用经验分布代替理论分布进行统计推断”的思路，在面对一些理论分布不明或难以计算的场合表现良好。由于 Bootstrap 法具有前述技术优势，近年来，该方法已逐渐成为结构方程模型假设检验问题中的“显学”，被广泛应用于多种不同场合。Zhang 和 Savalei(2016)指出可以用 Bootstrap 法估计结构方程模型拟合指数的置信区间。Rosseel在其编写的R程序包lavaan 中给出了求结构方程模型路径系数的 Bootstrap 标准误的程序(Rosseel,2021)。更有研究者利用 Bootstrap 法估计一些根据结构方程模型路径系数计算得到的更复杂的指标。屠金路等人(2005)利用 Bootstrap 法对问卷合成信度的置信区间进行了估计；张涵和康飞(2016)介绍了基于 Bootstrap 的多重中介效应分析。方杰等人(2011)的研究及温忠麟和叶宝娟(2014a,2014b)的研究则分别介绍了Bootstrap 法在中介效应与有调节的中介效应检验中的应用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1中按照不同类别总结了结构方程模型涉及到的常见检验的应用场景、零假设、统计量构建方式、零假设成立时统计量对应的分布以及使用中的优缺点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：由于加入内容后表格过大，难以在本页显示，我们在修改时将更新后的表1置于文末",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3．结构方程模型假设检验统计检验力的分析方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "统计检验力的分析方法与分析对象所采用的技术路径息息相关，结构方程模型假设检验统计检验力的分析方法也可大致分为两条不同的技术路线：基于 $\\chi ^ { 2 }$ 分布的方法和基于模拟的方法。其中，基于 $\\chi ^ { 2 }$ 分布的方法可以用于解决使用经典方法进行结构方程模型假设检验时的统计检验力分析问题，而基于模拟的方法可以用于解决一般的结构方程模型假设检验的统计检验力分析问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1基于 $\\chi ^ { 2 }$ 分布的统计检验力分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "顾名思义，基于 $\\chi ^ { 2 }$ 分布的方法以 $\\chi ^ { 2 }$ 分布的相关理论为基础。此类方法可以追溯到 Satorra和Saris 早年的一系列研究(Satorra & Saris,1985； Satorra,1989; Satorra et al.,1991)。Satorra(1989)指出，当前述假设检验的 $H _ { 0 }$ 不成立时，其对应统计量(对Wald 检验和LM检验而言是统计量的平方)服从非中心 $\\chi ^ { 2 }$ 分布，且其相应的非中心参数可以通过总体协方差矩阵真值拟合零假设模型计算出的统计量得到。进而可以通过计算备择假设成立条件下目标统计量落入拒绝域的概率求得给定检验的统计检验力。设零假设和备择假设成立时对应的非中心参数分别为 $\\delta _ { 0 }$ 和 $\\delta _ { 1 }$ ，则统计检验力 $1 { - } \\beta$ 由下式给出:",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "或 $1 - \\beta = \\mathsf { P } \\big \\{ \\chi _ { d f , \\delta _ { 1 } } ^ { 2 } > T _ { M L C } \\big \\}$ (拒绝域在右侧,对应除等效性检验外的其他检验)其中 $\\chi _ { d f , \\delta } ^ { 2 }$ 表示自由度为df,非中心参数为δ的非中心卡方分布, $T _ { M L C }$ 由下式确定:",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "或 $\\mathrm { P } \\big \\{ \\chi _ { d f , \\delta _ { 0 } } ^ { 2 } \\leq T _ { M L C } \\big \\} = \\alpha \\mathrm { ( }$ (拒绝域在右侧,对应除等效性检验外的其他检验)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\delta _ { 0 }$ 在 $H _ { 0 }$ 确定时已经可以算出，因此,基于 $\\chi ^ { 2 }$ 分布的统计检验力分析的关键在于估计 $\\ S _ { 1 }$ 。根据估计非中心参数的方法不同，此类方法又可分为利用总体协方差矩阵 $\\pmb { \\Sigma }$ 进行估计的Satorra-Saris 法和利用拟合指数(如RMSEA、CFI、MFI等)进行估计的MacCallum 法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Satorra-Saris 法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Satorra-Saris 法主要基于 Satorra 和 Saris 先前的研究，其具体步骤如下(Satorra& Saris,1985; Satorra et al., 1991):",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一步：定义备择假设成立情况下的模型，指定备择假设成立情况下的理论总体协方差矩阵 $\\pmb { \\Sigma }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二步：设定样本容量为真实样本容量 $N _ { \\ast }$ ，利用 $\\pmb { \\Sigma }$ 拟合零假设模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第三步：将第二步中计算得到的统计量(针对 $\\chi ^ { 2 }$ 分布的统计量为统计量本身，针对标准正态分布的统计量为统计量的平方)作为δi的估计，代入(1a)或(1b)完成统计检验力计算。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用 Satorra-Saris 法估计达到某统计检验力所需样本量的过程与估计统计检验力类似，只是第二步中需要反复设定样本容量 $N$ 进行多次估计，并计算不同样本容量对应的统计检验力，最终从中选取满足目标统计检验力所需的最小样本容量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Satorra-Saris 法通过定义不同于零假设模型的备择模型重构总体协方差矩阵，并据此计算统计检验力。其中，对备择模型进行定义的过程不仅需要研究者给出明确的模型结构，还需要研究者指定大量的参数(如路径系数、测量残差等)。因此，从应用的角度考虑,Satorra-Saris 法更适合在研究者对备择模型的了解程度较深的情况下使用(如针对模型参数的检验).",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 MacCallum 法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Satorra-Saris 法对备择模型过强的假设从客观上提高了该方法的使用难度，也限制了其适用范围。MacCallum、Browne 和 Sugawara(1996)给出了另外一种估计非中心参数的方法,该方法同样基于 Satorra 和 Saris(1985)给出的公式，但在估计 $F _ { M L O }$ 时,MacCallum等人给出了一个基于RMSEA 的估计方法。他们指出，使用样本拟合函数估计值 $F _ { M L }$ 作为对总体参数$F _ { M L 0 }$ 的估计是有偏的，且 $F _ { M L O }$ 与 $F _ { M L }$ 之间有如下关系(MacCallum et al.,1996):",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { M L 0 } } = F _ { \\mathrm { M L } } - { \\frac { d f } { N - 1 } } = d f \\cdot { \\mathrm { R M S E A } } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "据此,MacCallum 等人提出基于RMSEA 指标的统计检验力分析步骤(MacCallum etal.,1996): ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一步：根据零假设和备择假设成立时对应的RMSEA值、模型自由度以及样本量分别计算出零假设和备择假设成立时的非中心参数 $\\delta _ { 0 }$ 和 $\\delta _ { 1 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二步：代入(1a)或(1b)完成统计检验力计算。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与 Satorra-Saris 法类似，当使用 MacCallum 法估计达到某统计检验力所需样本量时，也只需要在第一步中反复设定不同的 $N$ 对统计检验力进行多次估计，最终从中选取满足目标统计检验力所需的最小样本容量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Kim(2005)对 MacCallum 法进行了进一步简化和扩展，给出了一个快速求取给定统计检验力情况下所需样本量的公式：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { R M S E A } = \\frac { \\delta } { d f \\cdot \\mathrm { R M S E A ^ { 2 } } } + 1\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中df为模型自由度,RMSEA为备择假设成立时对应的RMSEA值,δ为显著性水平为 $\\mathfrak { a }$ ，统计检验力为 $1 { - } \\beta$ 情况下对应的非中心参数。非中心参数可以通过查表或者使用统计软件计算得到, $\\mathrm { K i m } ( 2 0 0 5 )$ 在他们的文章最后同时给出了 $H _ { 0 } ; F _ { M L O } = 0$ 时利用计算机快速求取δ的SPSS 与 SAS 脚本。此外, $\\mathrm { K i m } ( 2 0 0 5 )$ 在他的文章中还提出了基于CFI、MFI与GFI的计算公式。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "相比于 Satorra-Saris 法,MacCallum 法采用拟合指数对模型的拟合情况进行了某种意义上的“打包”，即利用拟合指数对假设模型与实际数据的差距进行了概括，使研究者免于设定复杂的备择模型，在分析模型拟合检验的统计检验力时,MacCallum法仅需要模型自由度、零假设和备择假设成立时对应的拟合指数值[若对关于CFI的检验进行检验力分析时还需要提供基础模型(base model)的拟合函数值 $F _ { M L B }$ 与自由度 $d f _ { B } .$ ，关于GFI的检验还需要提供协方差矩阵的秩 $p { \\overset { \\cdot } {  } }$ 1，大大简化了统计检验力的分析难度。但由于模型参数与拟合指数之间存在复杂的非线性关系,MacCallum法无法分析模型参数检验的统计检验力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2基于模拟的统计检验力分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用模拟方法对结构方程模型假设检验进行统计检验力分析早年可追溯到 Muthen 与Muthen(2002)的研究。采用模拟方法进行统计检验力分析的思路与采用模拟方法进行结构方程模型假设检验的思路相似，即利用模拟的方式确定 $P$ (拒绝 $H _ { 0 } | \\theta = \\theta ^ { * } \\mathrm { \\large ~ . ~ }$ )的经验值。具体而言，此类方法通常采用模拟的方式从参数为 ${ \\boldsymbol { \\theta } } ^ { * }$ 的特定分布中生成多组随机样本，而后针对每组随机样本执行同样的假设检验程序，最后统计全部已进行的假设检验中拒绝零假设的频率，以此作为对该检验统计检验力的分析结果。Muthen与Muthen(2002)的研究给出了利用 MonteCarlo 模拟计算基于经典方法的结构方程模型假设检验的统计检验力的分析过程与Mplus 程序。Zhang(2014)的研究指出 Monte Carlo 模拟法同样可以估计基于 Bootstrap 方法的中介效应检验的统计检验力，并给出了一个基于R语言bmem 程序包的示例程序。Schoemann 等人(2017)的研究在实现对中介模型的统计检验力分析时使用了Monte Carlo 模拟法估计基于",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MC 法的中介效应检验的统计检验力。总的来说，使用 MonteCarlo 模拟法进行统计检验力分析的步骤大体如下(Muthén & Muthén,2002; Zhang,2014; Schoemann et al.,2017):",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第一步：根据备择假设成立时的情况设定用于生成模拟数据的均值向量(模型不考虑均值结构时为零向量)与协方差矩阵。此步骤中既可以如 Schoemann 等人(2017)直接指定协方差矩阵，也可如 Zhang(2014)通过定义模型来间接指定协方差矩阵。此外，如果研究者希望模拟非正态分布的数据，通常还需要给出目标分布的峰度和偏度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第二步：确定需要进行MonteCarlo 模拟的重复轮数 $R$ 与样本容量 $N$ 。Zhang(2014)建议重复轮数 $R$ 通常不应少于1000。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第三步：在每一轮 Monte Carlo 模拟中，重复执行下述步骤:(1)根据给定的分布参数与样本量生成服从特定分布的随机数作为模拟样本;(2)对该模拟样本进行结构方程建模并进行检验，具体的检验方法可以是表1中的任意一种。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第四步：统计出每一轮统计检验的结果，设在 $R$ 轮检验中有 $\\boldsymbol { r }$ 轮结果拒绝了原假设，则最终的统计检验力为R",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，为了说明 Monte Carlo 模拟结果的准确性,Muthen 和 Muthén(2002)建议研究者在报告结果的同时报告结构方程模型中各参数的理论真值、参数估计结果的平均值和标准差、参数估计标准误的平均值以及参数 $9 5 \\%$ 置信区间对理论真值的覆盖率。Muthen和Muthen(2002)进一步提出衡量 Monte Carlo 模拟结果是否可靠的标准:(1)模型中任何参数及其标准误真值与估计值之间的相对误差不超过 $10 \\%$ (参数估计结果的标准差视为标准误的真值);(2)模型中关键参数及其标准误真值与估计值之间的相对误差不超过 $5 \\%$ (3)参数的 $9 5 \\%$ 置信区间对理论真值的覆盖率应当在0.91至0.98之间。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "当使用 MonteCarlo 法估计达到某统计检验力所需样本量时，也只需要在第一步中反复设定不同的 $N$ 对统计检验力进行多次估计，而后通过线性插值法对所需样本量进行估计。与基于 $\\chi ^ { 2 }$ 分布的统计检验力分析方法相比，结构方程模型统计检验力的 MonteCarlo 分析由于不需要计算目标统计量的理论分布，因此可以广泛适用于对各种检验进行统计检验力分析的情形，在给出峰度和偏度时，该方法还可以在一定程度上分析总体分布为非正态分布的情形。但结构方程模型统计检验力分析的MonteCarlo 法需要研究者至少给出用以生成模拟数据的协方差矩阵，这意味着研究者需要对备择假设成立下数据的分布情况有足够的认识。另外，该方法本身对研究者的编程水平要求较高，且计算量较大，计算起来较为耗时，在一定程度上影响了该方法的使用和推广。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3结构方程模型统计检验力分析的程序资源",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了方便研究者对统计检验力进行分析，多名研究者提供了在线或离线的相关程序。基于 $\\chi ^ { 2 }$ 分布的统计检验力分析方法中,Preacher 和Coffman(2006)提供了一个基于 MacCallum法的统计检验力在线计算程序，可以计算给定样本量情况下，单个模型拟合或嵌套模型拟合差异的统计效力或达到某统计效力所需的样本量。Moshagen 提供了一个R程序包semPower,该程序包基于 Moshagen 和 Erdfelder(2016)的研究，可以计算基于 $F _ { M L O }$ 、RMSEA、McDonald拟合指数、GFI与AGFI的统计检验力，当指定零假设和备择假设成立情况下对应的协方差矩阵时，该程序包也可使用 Satorra-Saris 法分析统计检验力。Jak 等人(2021)给出了一个基于Shiny开发的在线程序power4SEM(网址为htps://sjak.shinyapps.io/power4SEM/)，该程序同时支持 Satorra-Saris 法和 MacCallum 法,Jak 等人在他们的论文中详细介绍了该程序的使用方式。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于模拟的统计检验力分析方法中,Muthen 和 Muthén(2002)提供了使用 Monte Carlo 法分析结构方程模型统计检验力的 Mplus 程序框架。Zhang 和 Wang(2013)提供了可以用来分析中介效应统计检验力的R语言程序包bmem。该程序包使用 Monte Carlo 法进行统计检验力分析，可以对中介效应的 Sobel 检验与 Bootstrap 检验的统计检验力进行分析。特别的是,该程序包还提供给研究者自主设定分布的峰度与偏度的功能以模拟总体为非正态分布时的情形。Schoemann 等人(2017)给出了一个使用 Monte Carlo 法分析中介效应统计检验力的在线程序(网址为 htps://schoemanna.shinyapps.io/mc_power_med/)，该程序基于 Shiny 开发，可用来处理简单中介模型、两个中介变量的平行中介模型和两个中介变量的链式中介模型三种情况下的中介效应统计检验力分析。Wang 和 Rhemtulla(2021)则给出了一个分析结构方程模型参数检验统计检验力的在线程序(网址为: htps://yilinandrewang.shinyapps.io/pwrSEM/)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表2中总结了结构方程模型统计检验力分析方法的适用场合、需要的计算量以及相应的程序资源。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/812ce1ee828cde5ac3103fe9d5b07abe5ae61964f54b64f86f716f7f8095fbc7.jpg",
+        "table_caption": [
+            "表2结构方程模型统计检验力分析方法"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分析方法</td><td>是否需要给出 协方差矩阵</td><td>对应假设检验 的技术路线</td><td>假设检验的目的</td><td>计算量</td><td>程序资源</td></tr><tr><td rowspan=\"2\">Satorra-Saris 法</td><td rowspan=\"2\">是</td><td rowspan=\"2\">仅经典方法</td><td>均可，但更适合</td><td rowspan=\"2\">较小</td><td rowspan=\"2\">power4SEM semPower</td></tr><tr><td>模型参数检验或 嵌套模型比较</td></tr><tr><td>MacCallum 法</td><td>否</td><td>仅经典方法</td><td>模型拟合检验</td><td>最小</td><td>semPower power4SEM</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4．应用实例",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "下面用一个例子演示在实际研究中如何灵活使用各种方法对结构方程模型的统计检验力进行分析。注意到，统计检验力的分析包括先验分析和后验分析，二者对应研究过程中的不同时期，且不能相互替代(吴艳，温忠麟,2011；赵礼，王晖,2019)。但先验分析与后验分析在分析步骤上差异不大，且亦有研究者指出，在 NHST 中，统计检验力是 $p$ 值的函数，在已知 $p$ 值的情况下统计检验力没有给出额外信息，因此建议无需进行后验分析(Hoenig&Heisey,2001)。考虑到篇幅所限，本文仅展示先验分析的过程，后验分析的部分参见补充材料。演示的样例来自 Zhai等人(2021)的研究，该研究调查了新冠疫情期间个体的心理健康与创伤后成长的基本情况，并讨论了在控制疫情相关压力和年龄的情况下，情绪创造力对个体心理健康的保护作用以及对个体创伤后成长的促进作用和可能的作用机制。具体的模型设置参见图1，统计软件采用R3.6.3的lavaan 程序包和 semPower 程序包，本部分全部R代码参见补充材料部分。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/072638a1fa6f7d2889f70dc4b8153060a55c381b0517a32006a7fa31d5617e52.jpg",
+        "img_caption": [
+            "图1样例的结构方程模型示意图(虚线表示该变量为控制变量)"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从检验目的的角度出发，使用结构方程模型进行验证性因子分析的主要目的是通过对模型拟合的评价考察样本数据是否符合量表所的理论建构，即考察量表题项与测量因子间的关系是否同研究者的假设所一致；而使用结构方程模型进行中介效应分析，特别是对显变量链式中介模型进行中介效应分析时，研究者的目的则更多指向对路径系数函数(即中介效应)的分析与检验。此外，注意到图1中的模型为饱和模型，有研究者指出，此时模型为完美拟合，可不关注模型拟合指数，仅讨论路径系数即可(张莉等,2019)。综合考虑检验目的与实际情况，对该研究的统计检验力进行分析时，需要对验证性因子分析部分模型拟合检验的统计检验力与链式中介模型部分模型参数检验的统计检验力进行分析，链式中介效应部分选择“情绪创造力 $$ 领悟社会支持 $$ 情绪调节自我效能感 $$ 压力后成长”路径的中介效应值为分析对象。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1模型拟合检验的先验检验力分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.1使用Satorra-Saris法分析模型拟合检验的先验检验力",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在进行先验检验力分析时，首先要设定研究对象理论上的总体协方差矩阵(下简称理论协方差矩阵)，即备择假设成立时对应的协方差矩阵。与 $t$ 检验、方差分析的先验检验力分析类似，在结构方程模型相关检验的先验检验力分析中，理论协方差矩阵也可以通过参考前期理论、已发表的类似成果或研究者提出的标准所确定(吴艳，温忠麟,2011)。通常情况下，建议研究者优先参考已有类似研究中报告的结果设定理论协方差矩阵，当缺乏既往研究或既往研究信息不充足时，研究者可以参考前期理论或其他研究者提出的标准所确定。此外,Jak等人(2021)建议研究者在设定理论协方差矩阵时，可以以标准化的形式指定参数值，并且参考相关研究领域中“小、中、大”所对应的经验值代入待定参数。同时，由于通常情况下确定协方差矩阵所需要的参数数量较为庞大,Jak 等人(2021)还建议研究者在设定理论协方差矩阵时需要考虑那些在理论上能够影响拒绝或接受 $H _ { 0 }$ 的重要参数，例如路径系数、误差相关、潜变量相关等。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过查询资料发现：既往研究中，文书峰等人(2009)的研究较为全面地报告了可以用于生成理论协方差矩阵的全部参数，且该研究样本量较大(验证性因子分析部分 $N { = } 8 1 8 )$ 。因此在之后的分析中，以该模型为基准生成理论协方差矩阵。本例中控制I类错误水平 $\\alpha$ 为0.05,求得统计检验力为0.95时对应的样本量约为134人。此外，对不熟悉R的研究者，也可以使用常用的结构方程建模软件(如 LISREL、EQS、AMOS、Mplus 等)结合G\\*Power 进行分析,具体的步骤参见补充材料部分。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.2使用MacCallum法分析模型拟合检验的先验检验力",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "相比Satorra-Saris 法，使用 MacCallum 法分析模型拟合检验先验检验力的过程要简单许多，只需要确定零假设和备择假设成立情况下对应的拟合指数、模型自由度df、显著性水平 $\\alpha$ 和统计检验力 $1 { - } \\beta$ 五个指标即可完成分析。在设定备择假设对应的拟合指数时，研究者可参考既往研究中提出的关于该指数“大小”的标准。例如对RMSEA而言，有研究者指出，RMSEA小于0.05为良好拟合,0.05至0.08为合理拟合,0.08至0.1为可接受的拟合，大于0.1 为拟合较差(MacCallum et al.,1996; Yuan& Chan,2016; Jak et al.,2021)。对于本文中给出的例子，控制I类错误水平 $\\mathfrak { a }$ 为0.05，若研究者若希望在RMSEA的真值为0.08时，正确拒绝该模型的几率不小于 $9 5 \\%$ ，此时使用semPower包提供的 semPower.aPriori 函数可以计算得出需要的样本量为134人。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1.3使用MonteCarlo法分析模型拟合检验的先验检验力",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "使用 MonteCarlo 法分析模型拟合检验先验检验力时确定理论协方差矩阵的步骤和原则同 Satorra-Saris 法一致，这里直接使用4.1.1.1中生成的理论协方差矩阵。本例中，以等效性检验为分析对象，控制I类错误水平 $\\alpha$ 为0.05，重复次数 $R$ 为1000。分别取 $N$ 为 101,201,301的情形，计算在给定 $N$ 的情况下1000 次重复试验中模型拟合指数落在以 $\\mathrm { R M S E A } _ { 0 } = 0 . 0 8$ 为经验临界值的等效性检验拒绝域的比率。需要注意的是，在 Monte Carlo 模拟的过程中，有些样本会导致结构方程模型在计算过程中出现迭代不收敛、残差方差为负数、潜变量协方差矩阵非正定等“不合理”的情况，即出现了不恰当解，这些解应在在后续的计算过程中予以排除。本例中, $N$ 分别为101和201时对应的恰当解比例分别为 $9 9 . 6 \\%$ 和 $100 \\%$ ，对应的统计检验力分别为0.724和0.996；对应的各参数估计情况、相对误差以及 $9 5 \\%$ 置信区间覆盖率参见补充材料。本例中全部参数均值和标准误的估计误差均不超过 $10 \\%$ ， $9 5 \\%$ 置信区间覆盖率均处于0.91至0.98之间，提示MonteCarlo 模拟结果的可信度较高。进一步根据线性插值法可求得统计检验力为0.95时对应的样本量约为185人。针对同一个假设检验进行统计检验力分析时,Monte Carlo 方法得到的结果看似与 Satorra-Saris 法有较大差异，但这主要是由于线性插值带来的误差。事实上，若通过缩减采样点间距的方式提高线性插值的精度，可重新求得待估样本量约为151人。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2模型参数检验的先验检验力分析",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2.1使用Satorra-Saris法分析模型参数检验的先验检验力",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "使用 Satorra-Saris 法分析模型参数检验先验检验力的第一步仍然是设定理论协方差矩阵。诚然经典的 Satorra-Saris 法强调通过备择模型生成理论协方差矩阵，但 Satorra 和Saris(1985)给出的关于该方法原理的讨论中并没有限制理论协方差矩阵的生成模式。因此，参照 Schoemann 等人(2017)的方式直接设定理论协方差矩阵也并无不可。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由于既往研究中缺乏可以用来直接重构理论协方差矩阵的数据，而通过元分析技术虽然能够在一定程度上基于现有研究构建出理论协方差矩阵，但这种方法需要耗费较多的人力物力，单纯用来进行统计检验力分析未免有些浪费。因此，本文在进行理论协方差矩阵生成时，选择根据相关研究领域中“小、中、大”所对应的经验值进行设定。此外，由于尺度变换不影响对本例中所关心的系数(显变量间的路径系数)显著性的判定。因此，在指定理论协方差矩阵时可进一步将其简化为指定相关矩阵。参考Cohen(1988)的观点，相关系数在0.1、0.3、0.5时分别对应“小”、“中”、“大”的效应量。在本例中，假定与控制变量有关的相关系数有“小”的效应量，关注的变量的相关系数有“中”的效应量，以此设定理论协方差矩阵。以对“情绪创造力 $$ 领悟社会支持 $$ 情绪调节自我效能感 $$ 压力后成长”这一路径中介效应的Wald检验为分析对象，控制I类错误水平 $\\mathfrak { a }$ 为0.05，求得统计检验力为0.95时对应的样本量约为795人。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2.2使用MonteCarlo法分析模型参数检验的先验检验力",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "与之前相似，这里使用4.1.1.4假设的理论协方差矩阵。本例中，以对“情绪创造力 $$ 领悟社会支持 $$ 情绪调节自我效能感 $$ 压力后成长”这一路径中介效应的Wald检验为分析对象，控制I类错误水平 $\\mathfrak { a }$ 为0.05，分别取 $N$ 为301,401,501,601的情形进行模拟，得到的结果全部为恰当解，对应的统计检验力为0.613,0.884,0.960,0.985，对应的各参数估计情况、相对误差以及 $9 5 \\%$ 置信区间覆盖率参见补充材料。本例中全部参数的估计误差均不超过 $10 \\%$ 关键参数的估计误差均不超过 $5 \\%$ $9 5 \\%$ 置信区间覆盖率均处于0.91至0.98之间，提示MonteCarlo 模拟结果的可信度较高。进一步根据线性插值法求得统计检验力为0.95时对应的样本量约为488人。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5．讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1先验检验力分析时的参数设定问题",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "注意到，研究者在使用 Monte Carlo 法或 Satorra-Saris 法进行先验检验力分析时，均需要指定理论协方差矩阵。该步骤中，不论研究者是采用直接设定协方差矩阵的方式还是通过设定理论模型进而生成协方差矩阵的方式，都需要设定大量参数，这些参数的设定会对结果产生一定影响，且影响规律较为复杂。例如，有研究要对一个两维度，每个维度包含4个题目的量表进行验证性因子分析。假设 $H _ { 0 }$ 为两维度间不存在相关, $H _ { I }$ 成立的情况下两维度之间存在相关系数为0.3的正相关，进行先验检验力分析时，当研究者设定载荷为0.7、0.75、0.8时，设定显著性水平为0.05，统计检验力为0.95，使用 Satorra-Saris 法计算得到的计划样本量分别为527人、472人和429人，使用MonteCarlo 法计算得到的计划样本量分别为 521人、464人和417人。又如，本文4.2部分给出的例子中，若将所有控制变量与其他变量的相关系数从0.2变为0.1，在其他条件不变的情况下，使用 Satorra-Saris 法计算得到的计划样本量为352人，使用MonteCarlo 法计算得到的计划样本量为233人。而当分析对象是中介效应或有调节的中介效应这类由参数函数(通常是乘积)构建的指标时，若研究者使用理论模型生成协方差矩阵，即使是同样大小的指标值，不同的参数也会导致分析结果的不同。例如,对简单中介效应模型而言，设定自变量到因变量的路径系数为0.2，中介效应值为0.16，显著性水平为 0.05，统计检验力为0.90，中介前半路径系数(自变量到中介变量的路径系数)和中介后半路径系数(中介变量到因变量的路径系数)分别取0.2和0.8,0.4和0.4,0.8和0.2(所有系数均为标准化系数)的情况下，使用 Satorra-Saris 法计算得到的计划样本量分别为258人、114人和632人，使用MonteCarlo 法计算得到的计划样本量分别为255人、88人和620人。从上述例子中不难看出先验检验力分析中参数设定对结果的影响。这意味着，研究者在使用Satorra-Saris法或MonteCarlo法进行先验检验力分析时，应当审慎确定参数的大小，必要时，在缺乏既往研究或理论的支持下，研究者可以反复设定参数的值，并从结果中选取一个较保守的样本量。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.2理论协方差矩阵的产生方式",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "如前所述，结构方程模型统计检验力分析的 Monte Carlo 法和 Satorra-Saris 法在分析时需要指定理论协方差矩阵，且理论协方差矩阵的指定存在两种不同模式：直接指定或通过指定备择模型生成。虽然从分析过程和分析结果上二者可能并无不同之处，但从逻辑上讲，不同的理论协方差矩阵生成方式意味着对结构方程建模过程中误差来源的不同理解。Jak 等人(2021)指出作为衡量理论模型与真实数据间差异的似然比统计量 $T _ { M L }$ 实际上包含了两部分的误差：随机抽样造成的抽样误差和理论模型与真实数据不匹配的误差。事实上，理论模型与真实数据不匹配的误差还可以再分为两种不同的来源：来自模型内部参数设定错误以及模型本身对总体的简化。当研究者通过指定备择模型的方式生成理论协方差矩阵时，研究者实际上默认了模型内部参数设定错误是导致误差的主要来源，而当研究者通过直接指定的方式生成理论协方差矩阵时，则将这两种不同来源的误差“打包”在了一起。事实上，经典的Satorra-Saris 法与MacCallum 法之间也具有类似的关系，经典的 Satorra-Saris 法更加强调来自已经结构化了的模型内部的误差,MacCallum法则通过模型拟合指数将模型内部的误差和模型对总体简化的误差放在一起考察。这种细微的差别意味着研究者需要在面对不同检验的情况下灵活选择理论协方差矩阵的生成方式：当有较强的理论或既往研究指向误差可能存在于模型内部时，使用指定备择模型的生成方式；而当研究者对这些信息掌握程度较少时，使用直接指定的方式或干脆换用MacCallum 法进行分析。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "此外，另一个有趣的议题是，使用先前的研究信息作为指定理论协方差的依据是否是合适的。诚然，既往研究中确实存有使用相似主题的研究结果作为统计检验力分析过程中设定参数依止的先例，但有研究者指出，这种指定方式可能错误地在统计检验力分析过程中混入了抽样误差而降低了统计检验力的可靠性，并进一步提出了纠正该误差的方案(Liu&Wang,2019)。对该问题的深入讨论已超出了本文的范畴，有兴趣的读者可以进一步阅读 Liu 和Wang(2019)的研究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.3非中心 $\\chi ^ { 2 }$ 分布近似带来的误差",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Satorra-Saris 法与MacCallum 法这两种分析方法从本质上来说都是利用非中心 $\\chi ^ { 2 }$ 分布作为当 $H _ { I }$ 成立时样本似然比统计量 $T _ { M L }$ 分布的近似。Steiger, Shapiro 和 Browne(1985)指出,这种近似当且仅当样本满足似然函数关于分布的基本假设、样本量不太小、拟合函数值不是太大的情况下成立。诚然,Satorra,Saris 和de Pijper(1991)的研究进一步指出，当样本服从正态分布且理论模型与实际数据的偏离程度不是十分严重时，即使对小样本而言，这种利用非中心 $\\chi ^ { 2 }$ 分布进行近似的精度也是基本令人满意的。但对于分布假设不满足时这种近似的精度是否仍令人满意，目前仍缺乏相关研究的分析。这意味着研究者在对结构方程模型的统计检验力进行分析时，应当充分了解样本分布情况与所选结构方程模型参数估计方法之间的适配性，在进行统计检验力分析和实际进行数据处理时使用同样的估计方法，在样本分布偏离正态分布的情况下，也可以考虑换用适用范围更广的MonteCarlo法进行统计检验力分析。目前主流软件提供的参数估计方法中，极大似然法(maximum likelihood,ML)和广义最小二乘法(generalized least squares,GLS)要求数据为正态分布，加权最小二乘法(weighted leastsquares，WLS)、非加权最小二乘法(unweighted least squares,ULS)和对角线加权最小二乘法(diagonallyweighted least squares,DWLS)对数据分布要求不高，但 ULS 属于尺度依赖方法(scale-dependent method)，使用时最好保证各个变量的测量单位统一，而WLS 和DWLS 通常则需要 1000 以上的样本量(吴明隆,2010)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "此外,Satorra-Saris 法在使用非中心 $\\chi ^ { 2 }$ 分布对样本似然比统计量 $T _ { M L }$ 的分布进行近似时，同时使用模型拟合“真实总体”得到的统计量作为对非中心参数的估计。这意味着使用Satorra-Saris 法分析模型参数检验的统计检验力时，检验方法本身也会对结果产生影响。本文4.2部分模型参数检验的先验检验力分析中,Monte Carlo 法与 Satorra-Saris 法对同一检验的分析得出了差异较大的结果就是这个原因。在该例中，在设定 $\\mathtt { a } = 0 . 0 5$ $N = 4 0 1$ 的情况下,使用 Wald 检验、LM检验和似然比检验得到的统计量对非中心参数进行估计时得到的非中心参数分别为13.399,22.658和23.265，对应的统计检验力分别为0.955,0.997和0.998。使用 MonteCarlo 法对三种方法进行统计检验力分析，得到的结果则分别为0.996,0.998 和0.998。这提示研究者在使用 Satorra-Saris 法分析Wald 检验的统计检验力时，可能会由于低估统计检验力而高估所需要的样本数量。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.4MonteCarlo法的精度与计算效率",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "诚然 MonteCarlo 法由于可以广泛适用于各类检验场景，且在模拟次数足够多的情况下得出的统计检验力的估计值依概率收敛于其理论真值，使得该方法广泛受到研究者的青睐。但 Monte Carlo 法同样面临着结果不稳定以及计算效率低下的情形。与其他两种方法不同,Monte Carlo 法得到的计算结果并不是一个确定值，而是一个随机变量，该随机变量的期望值等于统计检验力的真实值，这就导致了对同一个假定样本量进行多次统计检验力分析时可能会得出不同的结果。这意味着研究者在使用 MonteCarlo 法进行统计检验力分析时求得的样本量理应为一约数而非确切值。换言之，Monte Carlo 法无法像 Satorra-Saris 法或MacCallum 法那样给出“理论上达到目标统计检验力所需的最小样本量”。这也同时意味着通过缩短采样间距的方式对基于Monte Carlo 法的统计检验力分析的精度的提升是有限的。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "此外,Monte Carlo 法的计算效率一直以来也是比较困扰研究者的一个问题。与 Satorra-Saris 法和 MacCallum 法误差不同,Monte Carlo 法的误差来源主要是模拟样本带来的偶然误差。根据De Moivre-Laplace 中心极限定理，随着重复次数 $R$ 的提升，Monte Carlo 法所得到的统计检验力估计值的标准差会降低，但其降低速率与重复次数 $R$ 之间并非线性关系，而是二次关系。换言之，若研究者希望将 MonteCarlo 法得到的估计值的精度提高一个数量级(相当于让估计值的标准差降低为原来的0.1倍)，则需要将 $R$ 扩大为原来的100倍。这大大降低了Monte Carlo 法的计算效率。并且,Monte Carlo 法本身计算起来就比较耗时，在CPU 主频为 $2 . 5 0 ~ \\mathrm { G H z }$ 的笔记本电脑上运行本文中关于中介模型统计检验力分析的R程序，当设定重复次数 $R = 1 0 0 0$ ，样本量 $N = 4 0 1$ 时，使用 Monte Carlo 法分析Wald 检验统计检验力所需的时间大致为 60s(单线程)；若将检验方法更换为 LM 检验或似然比检验，执行同样的分析所需时间则上升到约900s(单线程)；若对非参数Bootstrap 检验的统计检验力进行分析，即使采用并行计算技术将任务分配到多线程计算机的不同线程上处理，所需时间通常也会超过一个小时。此时若反复设定样本量甚至参数进行多轮分析从时间上来说是不经济的。诚然有学者指出此时可以换用参数 Bootstrap 法(或与之等价的 MC 法)简化计算过程，节省计算时间(Schoemann et al.,2017)，但这种更换也将在一定程度上造成统计检验力估计时的误差。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.5不同拟合指数的选择对MacCallum法的影响",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本文主要介绍了用MacCallum 法对RMSEA相关的零假设进行统计检验力分析的理论与实践。事实上,MacCallum 法可以用于多种拟合指数的情形。MacCallum 和Hong(1997)将该方法进一步扩展到了针对GFI和 AGFI相关零假设的情形。Kim(2005)则提出了当零假设是关于RMSEA、CFI、MFI和GFI这四种参数其一时估算样本量的简便公式。值得注意的是，上述参数间的换算关系还会受到模型本身的影响。因此，目前学界主流建议的拟合指数界值在不同的模型中并不等价，这就导致了针对同一个计划模型，采用不同拟合指数进行先验检验力分析时，可能得出不同的结果。例如，根据温忠麟等人(2004)的建议，评估模型拟合时,MFI的建议界值为0.85,RMSEA的建议界值为0.08。此时，对于不同自由度的模型而言,依据这两个指标的建议界值计算出的计划样本量也有所不同。以计划显著性水平为0.05，统计检验力为0.95 的情况为例，当模型自由度为10时，根据 MFI和RMSEA 计算出的计划样本分别有77人和383人；当模型自由度为50时，根据MFI和RMSEA计算出的计划样本分别有134人和136人；而当模型自由度为100时，根据 MFI和RMSEA计算出的计划样本则分别有176人和90人。因此，本文建议研究者在使用MacCallum 法进行先验检验力分析时，使用多种拟合指数构建假设进行检验，并在所有计划样本量中选取最大值。至于拟合指数的具体选择，可以参考温忠麟等人(2004)的研究。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5.6评价模型拟合时的统计检验力分析与等效性检验 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "如前所述，既往研究中对传统 $\\chi ^ { 2 }$ 检验的一个批评就是该检验将想要验证的假设作为零假设，在结果报告中又缺乏对其Ⅱ类错误发生概率的分析，使其无法真正起到验证模型的作用(王阳等,2020)。而等效性检验实质上就是通过构建一个“可接受的差异”标准的方式重写零假设，从而将想要验证的假设重新放回了备择假设的位置，在一定程度上，也可以将等效性检验视作一种“颠倒了 $H _ { 0 }$ 与 $H _ { I }$ 的传统 $\\chi ^ { 2 }$ 检验\"。根据 MacCallum 等人(1996)的研究，可以推知，对 ${ \\mathrm { H } _ { 0 a } } ; { F _ { M L O } } \\le { k _ { O } }$ ，且真实参数为 $F _ { M L O } = k _ { A }$ 的情形，存在一种与之“对偶”的情形: $\\mathrm { H } _ { 0 \\mathrm { b } }$ A$F _ { M L O } \\geq k _ { A }$ ，且此时的真实参数为 $F _ { M L 0 } = k _ { \\theta }$ ，这两种情形下I类错误概率和I类错误概率互相为对方的ⅡI类错误概率与I类错误概率。这意味着，对传统 $\\chi ^ { 2 }$ 检验而言，在进行先验检验力分析时，若研究者参考等效性检验中的 $H _ { 0 }$ 设定 $F _ { M L }$ 的真值(即 $F _ { M L }$ 的真值不小于 $\\mathtt { \\Omega } _ { \\mathtt { E } 0 } \\mathtt { \\dot { \\Omega } } _ { \\mathtt { \\Gamma } \\mathtt { \\backslash } \\mathtt { e } }$ ），并设定显著性水平为 $\\mathfrak { a }$ 。统计检验力为 $1 { - } \\beta$ 计算出计划样本量 $N .$ 。那么 $N$ 同样可以保证在控制显著性水平为 $\\beta$ 的水平下，对实际拟合良好的模型(即 $F _ { M L O } = 0 \\mathrm { \\Omega }$ ），采用零假设为 $H _ { 0 } ; F _ { M L 0 } \\ge \\mathfrak { E } _ { 0 }$ 的等效性检验进行检验时，正确拒绝零假设的概率为 $_ { 1 - \\alpha }$ 。因此，本文建议研究者在对评估模型拟合相关的假设检验进行统计检验力分析时，设定不小于0.95的统计检验力。这样可以保障在模型拟合较差的情况下，研究者错误地认为模型拟合良好的可能性不高于0.05。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6．总结 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本文主要介绍了结构方程模型假设检验统计检验力分析的三种代表方法：Satorra-Saris法、MacCallum法和MonteCarlo 法，这些方法各有自己的适用情形。相比于目前已被广大研究者所熟知的平均数差异检验的统计检验力分析，结构方程模型的统计检验力分析对研究者的统计水平有更高的要求，并且检验过程较为复杂。综合考虑易掌握和易使用两方面的要求，本文建议研究者在研究设计的过程中根据自己需要进行的检验类型选择恰当的统计检验力分析方式，具体可以参考图2进行选择。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/84895ec773a24f11a6743ffe9bce8146b4d9b907ba0cda3f4e2360ea9ded8c4d.jpg",
+        "img_caption": [
+            "图2结构方程模型统计检验力分析方法选择建议"
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "注：未标注理论协方差矩阵生成方法的表示研究者可以参照5.2部分的建议自行设定致谢：感谢刘力沛博士对本文英文摘要的修改，感谢崔虞馨、姜鹤、荣杨在本文修改、定稿过程中提供的诸多帮助，感谢两位匿名审稿人对本文提供的宝贵意见。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "方杰，张敏强，李晓鹏.(2011).中介效应的三类区间估计方法．心理科学进展,19(5),765-774.屠金路，金瑜，王庭照.(2005).Bootstrap 法在合成分数信度区间估计中的应用．心理科学,28(05),1199-1200.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "王阳，温忠麟，付媛姝.(2020).等效性检验——结构方程模型评价和测量不变性分析的新视角．心理科学进展,28(11),1961-1969.  \n温忠麟，侯杰泰，马什赫伯特.(2004).结构方程模型检验：拟合指数与卡方准则．心理学报,36(2),186-194.  \n温忠麟，叶宝娟.(2014a).有调节的中介模型检验方法:竞争还是替补？心理学报,46(5),714-726  \n温忠麟，叶宝娟.(2014b).中介效应分析：方法和模型发展．心理科学进展,22(5),731-745.  \n文书锋，汤冬玲，俞国良.(2009).情绪调节自我效能感的应用研究．心理科学,32(03),156-158.  \n吴明隆.(2010)．结构方程模型——AMOS 的操作与应用(第2版)．重庆大学出版社.  \n吴艳，温忠麟.(2011).与零假设检验有关的统计分析流程．心理科学,34(01),230-234.  \n叶宝娟，温忠麟.(2012).用 Delta 法估计多维测验合成信度的置信区间．心理科学,35(05),1213-1217.  \n张涵，康飞.(2016).基于Bootstrap 的多重中介效应分析方法．统计与决策,32(05),75-78.  \n张莉，薛香娟，赵景欣.(2019).歧视知觉、抑郁和农村留守儿童的学业成绩：纵向中介模型．心理科学，42(03), 584-590.  \n赵礼，王晖.(2019).统计检验力的分析流程与多层模型示例．心理技术与应用,7(05),276-283.  \nChou, C.P., & Bentler,P.M.(1990). Model modification in covariance structure modeling: acomparison amonglikelihood ratio,lagrange multiplier,and wald tests. Multivariate Behavioral Research,25(1),115-136.  \nCohen,J. (1988). Statistical power analysis for thebehavioral sciences (2nd ed.).Hillsdale,NJ: Erlbaum.  \nEfron,B. (1979). Bootstrap Methods: Another Look at the Jackknife. Annals of Statistics,7(1),1-26.  \nGonzalez,R.,& Griffin,D. (2Oo1). Testing parameters in structural equation modeling: Every \"one\" matters.Psychological Methods, 6(3),258-269.  \nHoenig,J. M.,& Heisey,D.M. (2Oo1).The abuse of power: The pervasive fallacy of power calculations for dataanalysis. American Statistician,55(1),19-24.  \nHolerbach,P.,Johanssn,A.,Ventus,D.,Jern,P.,Neumann, C.S., Westberg,L.,..Mokros,A. (2018). Mainandinteraction efects of childhood trauma and the MAOA uVNTR polymorphism on psychopathy.Psychoneuroendocrinology,95,106-112.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Jak,S.,Jorgensen,T.D.,Verdam,M.,Oort,F.J.,&Elfers,L.(2O21).Analytical powercalculations for structural equation modeling: a tutorial and shiny app.Behavior Research Methods,53(4),1385-1406. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Kim, K. H. (2Oo5). The relation among fit indexes,power, and sample size in structural equation modeling. Structural Equation Modeling: A Multidisciplinary Journal,12(3),368-390.   \nKornadt, A.E.,Siebert,J.S.,& Wahl, H. W. (2O19). The interplay of personality and atitudes toward own aging across two decades of later life. PLoS ONE,14(10), Article e0223622. https://doi.org/10.1371/journal.pone.0223622   \nLiu, X.,& Wang,L. J. (2O19). Sample Size Planning for Detecting Mediation Effects: A Power Analysis Procedure Considering Uncertainty in Effect Size Estimates.Multivariate Behavioral Research,54(6),822- 839.   \nMacCallum,R. C.,& Hong,S. (1997).Power Analysis in Covariance Structure Modeling Using GFI and AGFI, Multivariate Behavioral Research,32(2),193-210.   \nMacCallum, R. C.,Browne, M. W.,& Li, C. (2o06). Testing diferences between nested covariance structure models: power analysis and null hypotheses.Psychological Methods,11(1),19-35.   \nMacCallum, R. C.,Browne,M. W.,& Sugawara, H. M. (1996).Power analysis and determination of sample size for covariance structure modeling. Psychological Methods,1(2),130-149.   \nMacKinnon,D.P.,Lockwod, C.M.,& Williams,J. (2004). Confidence limits for the indirect effect: Distribution of the product and resampling methods. Multivariate Behavioral Research,39(1),99-128.   \nMarcoulides, K.M.,& Yuan, K.H. (2O17). New ways to evaluate goodness of fit: a note on using equivalence testing to assess structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 24(1), 148-153.   \nMoshagen, M., Erdfelder,E. (2O16). Anew strategy for testing structural equation models.Structural Equation Modeling: A Multidisciplinary Journal, 23(1),54-60.   \nMullen,P.R.,& Crowe, A. (2O17). Self-stigma of mental illness and help seeking among school counselors. Journal of Counseling & Development, 95(4),401-411.   \nMuthén, B. O. (2004). Mplus technical appendices. CA: Muthén & Muthen.   \nMuthen,L. K.,& Muthén,B.O. (2O02). How to use a Monte Carlo study to decide on sample size and determine power. Structural Equation Modeling: A Multidisciplinary Journal, 9(4),599-620.   \nPreacher, K. J.,& Cofman,D.L. (2O06). Computing power and minimum sample size for RMSEA [Computer software]. Retrieved September 10,2021, from http://quantpsy.org/rmsea/rmsea.htm ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Preacher,K.J.,& Selig,J.P.(2O12).Advantages of Monte Carlo confidence intervals for indirect effects. Communication Methods and Measures,6(2),77-98. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Rosseel,Y.(2021). The lavaan tutorial.Retrieved September10,2021, from https://lavaan.ugent.be/tutorial/tutorial.pdf ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Satorra,A. (1989). Alternative test criteria in covariance structure analysis: a unified approach. Psychometrika, 54(1), 131-151.   \nSatorra,A.,& Saris, W.E. (1985).Power of the likelihood ratio test in covariance structure analysis. Psychometrika,50(1),83-90.   \nSatora,A.,Saris, W.E.,& Pijper, W.M.(1991). A comparison of several approximations to the power function of the likelihood ratio test in covariance structure analysis. Statistica Neerlandica, 45(2),173-185.   \nSchoemann, A. M., Boulton,A.J.,& Short, S.D.(2017). Determining Power and Sample Size for Simple and Complex Mediation Models. Social Psychological and Personality Science, 8(4),379-386.   \nSorbom,D. (1989). Model modification. Psychometrika, 54(3),371-384.   \nSteiger, J.,Shapiro,A.,& Browne,M. (1985). On the multivariate asymptotic distribution of sequential chi-square statistics.Psychometrika,50(3),253-263.   \nVenables,W. (1975). Calculation of Confidence Intervals for Noncentrality Parameters. Journal of the Royal Statistical Society: Series B,37(3),406-412.   \nWang,Y. A.,& Rhemtulla,M. (2O21).Power Analysis for Parameter Estimation in Structural Equation Modeling: A Discussion and Tutorial. Advances in Methods and Practices in Psychological Science,4(1),1-17.   \nYuan, K.-H.,& Chan, W.(2O16). Measurement invariance via multigroup SEM: Issues and solutions with chisquare-difference tests. Psychological Methods,21(3), 405-426.   \nYuan,K.-H., Chan, W., Marcoulides, G. A.,& Bentler,P. M. (2016). Assessing structural equation models by equivalence testing with adjusted fit indexes. Structural Equation Modeling: A Multidisciplinary Journal, 23(3),319-330.   \nZhai, H.-K.,Li,Q.,Hu, Y.-X.,Cui, Y.-X.,Wei, X.-W.,& Zhou, X. (2021).Emotional creativity improves postraumatic growth and mental health during the COVID-19 pandemic. Frontiers in Psychology,12, Article 600798. https://oi.org/10.3389/fpsyg.2021.600798   \nZhang,X. J.,& Savalei, V. (2O16). Bootstrapping confidence intervals for fit indexes in structural equation modeling. Structural Equation Modeling: A Multidisciplinary Journal, 23(3),392-408.   \nZhang,X.,& Zaman,B.U. (2O19). Adoption mechanism of telemedicine in underdeveloped country. Health Informatics Journal, 26(2),1088-1103.   \nZhang,Z.Y.(2O14). Monte Carlo based statistical power analysis for mediation models: methods and software. Behavior Research Methods,46(4),1184-1198.   \nZhang,Z.Y.,& Wang,L.J. (2020).bmem: Mediation analysis with missing data using bootstrap [Computer software]. Retrieved December 11, 2021, from https://CRAN.R-project.org/package=bmem ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Power analysis in structural equation modeling: Principles and methods ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "ZHAI Hongkunl, LI Qiangl,WEI Xiaowei1 (Department of Social Psychology, Nankai University, Tianjin 300350, China) ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Structural equation modeling (SEM) is an important statistical tool in psychology, management, and sociology. However, the lack of analyses and reports of statistical power in many studies using SEM has reduced the probative power of the study results. There are three main types of statistical power analysis methods for SEM: the Satorra-Saris,MacCallum, and Monte Carlo methods.The Satorra-Saris method applies to cases where the alternative model is clear, analysis object is simple,and the statistic to be examined is based on the $\\chi 2$ distribution. The MacCallum method is applicable to the case of $\\chi 2$ -based overall model fit tests with unknown alternative models.Further, the Monte Carlo method applies to cases where the analysis object is complex, or the test is performed using simulation or resampling methods. In practice, researchers should clarify the purposes and methods of the test as well as the availability of alternative models as a priority.The research method can then be determined on the basis of the above information. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Key words: structural equation model, statistical power, fiting test, test of model parameters ",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/78e83b66d1326f2fd78e49c045e48d44f9c3cb3c7d411461ae53f9b2bc21e38d.jpg",
+        "table_caption": [
+            "表1结构方程模型中的假设检验"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">检验方法所处的类别</td><td>具体的检验方法</td><td>应用场景</td><td>Ho</td><td>统计量构成</td><td>零假设成立时统 计量对应的分布</td><td>优点</td><td>缺点</td></tr><tr><td rowspan=\"9\"></td><td rowspan=\"3\">x检验</td><td rowspan=\"3\">x检验</td><td>模型拟合的x检验</td><td>检验模型拟合</td><td>FMLO = 0 £=£0 FMLo>ε</td><td>(n-1)·FML</td><td>中心化x²分布</td><td rowspan=\"9\"></td><td rowspan=\"9\">对样本的分布有较 强的假设；对统计 量的构成有一定限 制；面对较为复杂 的参数函数（如中 介效应）表现不佳</td></tr><tr><td>基于x统计量的等 效性检验</td><td>检验模型拟合</td><td>Σ与Σ间的差距</td><td>(n-1)·FML</td><td>非中心x²分布</td></tr><tr><td>嵌套模型比较的 △x²检验</td><td>比较模型优劣</td><td>大于ε FMLOB-FMLOA =0</td><td>(n-1)·(FMLB - FMLA)</td><td>中心化x分布</td></tr><tr><td>△x²检验</td><td>模型参数的似然比 检验</td><td>检验特定参数</td><td>Σ0A = ΣOB Σ0约束=Σ0无约束 8（0)=0</td><td>(n-1)·(FML约束 FML无约束）</td><td>中心化x²分布</td></tr><tr><td></td><td>Wald检验</td><td>检验特定参数</td><td>g(0)=0 0约束=Σ0无约束</td><td>g（0） SEg（）</td><td>标准正态分布</td><td rowspan=\"3\">计算简便；工具成熟</td></tr><tr><td></td><td>Z检验</td><td>LM检验</td><td>检验特定参数 = =20</td><td>金</td><td>标准正态分布</td></tr><tr><td>基于x分布 理论的检验</td><td></td><td>拟合指数的检验</td><td>δ=0 检验模型拟合</td><td>给定的拟合指数</td><td>不明，但临界值 与中心化x²分布</td></tr><tr><td></td><td>x²分布非中 心参数检验 效性检验</td><td>基于拟合指数的等 检验模型拟合</td><td>8>δk</td><td>Σ与Σ间的差距</td><td>有关 不明，但临界值</td></tr><tr><td rowspan=\"3\">基于模拟 或重抽样</td><td rowspan=\"3\">基于模拟技 术的方法</td><td>Monte Carlo</td><td></td><td>大于f(8k) FML0 = 0 检验模型拟合</td><td>给定的拟合指数</td><td>有关</td><td>放宽了对样本的假设;</td><td rowspan=\"3\">计算较为困难、计 算耗时较长、部分 方法要求使用者有</td></tr><tr><td>法</td><td>MC法</td><td>检验特定参数</td><td>Σ0约束=Σ0无约束 8（0)=0</td><td>(包括x统计量) 经验分布</td><td>不需讨论目标统计量 的理论分布</td></tr><tr><td></td><td></td><td></td><td>FMLO = 0</td><td>给定的拟合指数</td><td></td></tr><tr><td rowspan=\"3\">法</td><td rowspan=\"3\">基于重抽样 技术的方法</td><td rowspan=\"3\">Bootstrap 法</td><td></td><td>检验模型拟合</td><td>Σ=£0</td><td>(包括x统计量)</td><td>经验分布</td><td>灵活度高，对统计量的 构造几乎没有限制；对</td><td rowspan=\"3\">编程技术</td></tr><tr><td>Bootstrap 法</td><td>检验特定参数</td><td>g（0)=0</td><td>g（0）</td><td>经验分布</td><td>样本分布要求宽松</td></tr><tr><td></td><td></td><td>£0约束=Σ0无约束</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "《结构方程模型统计检验力分析：原理与方法》补充材料",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 补充材料A：案例部分的R代码",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "#载入程序包",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "if(!require(lavaan)){install.packages('lavaan')} if(!require(mvtnorm)）{install.packages('mvtnorm')} if(!require(semPower)）{install.packages('semPower')} #=== ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "$\\# 4 . 1$ 模型拟合检验的先验检验力分析  \n#4.1.1 Satorra-Saris法  \n#（1）设定用于生成理论协方差矩阵的模型  \ngenMod $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ ：  \nPOS $\\sim ~ 0 . 2 3 ~ { } ^ { \\star }$ DES  \nPOS \\~\\~ 0.40 \\* ANG  \nDES \\~\\~ 0.78 \\* ANG  \n${ \\begin{array} { r l } { \\operatorname { P O S } } & { = \\sim { \\mathrm {  ~ 0 ~ . 8 7 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 1 } \\quad + \\ { \\mathrm {  ~ 0 ~ . 9 0 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 2 } \\quad + \\ { \\mathrm {  ~ 0 ~ . 7 5 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 3 ~ } + \\ { \\mathrm {  ~ 0 ~ . 5 5 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 4 } } \\\\ { \\operatorname { D E S } } & { = \\ { \\mathrm {  ~ 0 ~ . 5 9 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 5 ~ } + \\ { \\mathrm {  ~ 0 ~ . 7 2 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 6 ~ } + \\ { \\mathrm {  ~ 0 ~ . 5 8 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 7 ~ } + \\ { \\mathrm {  ~ 0 ~ . 7 1 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 8 ~ } + \\ { \\mathrm {  ~ 0 ~ . 5 9 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 9 ~ } } \\\\ { \\operatorname { A N G } } & { = \\sim \\ { \\mathrm {  ~ 0 ~ . 7 3 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 1 0 ~ } + \\ { \\mathrm {  ~ 0 ~ . 7 8 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 1 1 ~ } + \\ { \\mathrm {  ~ 0 ~ . 5 7 ~ } } ^ { \\mathrm {  ~ \\star ~ } } \\mathrm {  ~ X 1 2 } } \\end{array} }$   \nX1 \\~\\~ 0.24 \\* $\\begin{array} { r c l } { { } } & { { \\mathrm { . 1 } } } & { { \\mathrm { . 6 . 4 } } } & { { \\mathrm { . . 4 } } } \\\\ { { \\mathrm { . 1 2 } } } & { { \\mathrm { . 8 2 } } } & { { \\mathrm { . 1 } } } \\\\ { { \\mathrm { . 3 } } } & { { \\mathrm { . 6 . 4 } } } & { { \\mathrm { . ~ \\times 3 } } } \\\\ { { \\mathrm { . 1 4 } } } & { { \\mathrm { . 6 . } } } & { { \\mathrm { . 7 0 } } } \\\\ { { \\mathrm { . 5 . } } } & { { \\mathrm { . 6 . } } } & { { \\mathrm { . 6 . } } } \\\\ { { \\mathrm { . 5 6 } } } & { { \\mathrm { . 6 . } } } & { { \\mathrm { . 6 . } } } \\\\ { { \\mathrm { . 1 7 } } } & { { \\mathrm { . 6 . } } } & { { \\mathrm { . 5 4 } } } & { { \\mathrm { . ~ \\times ~ } } } \\\\ { { \\mathrm { . 8 8 } } } & { { \\mathrm { . 6 . } } } & { { \\mathrm { . 4 9 } } } & { { \\mathrm { . ~ \\times ~ } } } \\\\ { { \\mathrm { . 9 } } } & { { \\mathrm { . 9 } } } & { { \\mathrm { . 5 2 } } } & { { \\mathrm { . ~ \\times ~ } } } \\end{array}$ 0.24 \\*X1  \nX10 \\~\\~ 0.45 \\* X10  \nX11 \\~\\~ 0.39 \\* X11  \nX12 \\~\\~ 0.55 \\* X12'  \n#（2）设定用于分析的模型  \nanaMod = -  \n：1 $\\begin{array} { r } { \\mathtt { P O S } = \\sim \\mathrm { ~ \\mathrm {  ~ X 1 ~ } ~ } + \\mathrm { ~ \\mathrm {  ~ X 2 ~ } ~ } + \\mathrm { ~ \\mathrm {  ~ X 3 ~ } ~ } + \\mathrm { ~ \\mathrm {  ~ X 4 ~ } ~ } } \\end{array}$   \n1 $\\mathrm {  ~ \\sf ~ \\sf ~ \\sf ~ \\sf ~ 2 . E S } = \\mathrm {  ~ \\sf ~ X } \\sf 5 + \\mathrm {  ~ \\sf ~ X 6 ~ } + \\mathrm {  ~ \\sf ~ X 7 ~ } + \\mathrm {  ~ \\sf ~ X 8 ~ } + \\mathrm {  ~ \\sf ~ X 9 ~ }$   \n$\\begin{array}{c} { \\tt A N G } = \\sim { \\tt X } 1 0 + { \\tt X } 1 1 + { \\tt X } 1 2  \\end{array}$   \n#（3）生成理论协方差矩阵  \nE1 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ cfa(genMod)@implied\\$cov[[1]]  \nrownames(E1) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ paste0('x'，1:12)  \n#（4）分析模型  \nfit $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ cfa(anaMod， sample.cov $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ E1，sample.nobs $\\mathit { \\Theta } = \\ 1 0 1 \\$ ，likelihood $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 'Wishart')  \n#（5）提取关键参数  \n$\\begin{array} { l l } { \\displaystyle \\mathrm { f o } } & { \\displaystyle = } \\end{array}$ fit@optim\\$fx \\* 2  \n#（6）用于计算等效性检验样本量的函数  \nsetPowerFindEqTestN $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(fo，df，alpha $\\mathbf { \\Lambda } = \\mathbf { \\Lambda } 0 . 0 5$ ，beta $\\mathit { \\Theta } = \\mathit { \\Theta } 0 . 8$ 、 $\\mathrm { ~ e ~ } = \\mathrm { ~ 0 ~ . 0 8 ~ }$ ）{foo $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(N){pchisq(qchisq(alpha，df, $\\mathsf { n c p } ~ = ~ \\mathsf { e } ^ { \\star } \\mathsf { e } ^ { \\star } \\mathsf { d } \\pounds ^ { \\star } \\mathrm { N } )$ ，df， $\\mathtt { f o } \\star \\mathtt { N }$ ）-beta}$\\mathrm { ~  ~ { ~ n ~ } ~ } =$ uniroot(foo，c(10，1e4))\\$rootreturn(ceiling $( \\mathtt { n } + 1 )$ ）  \n1  \n#（7）执行计算  \nsetPowerFindEqTestN(f0，df $\\mathit { \\Theta } = \\ 5 1 \\$ ，alpha $\\mathbf { \\Lambda } = \\ \\boldsymbol { 0 } . 0 5$ ，beta = 0.95)  \n#4.1.2 MacCallum法  \nsemPower.aPriori(effect $\\mathbf { \\Omega } = \\mathbf { \\Omega } 0 . 0 8$ ，effect.measure $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 'RMSEA'，alpha $\\mathbf { \\Lambda } = \\ \\boldsymbol { 0 } \\cdot 0 5$ 1powe $\\ ? { \\ : } \\ : = \\ : \\ : 0 \\ : . \\ : 9 5$ ，df $\\mathit { \\Theta } = \\ 5 1 \\$ ） $\\mathrel { - } >$ RES  \nsummary(RES)  \n#  \n#4.1.3 Monte Carlo法  \n#（1）生成理论协方差矩阵的部分与 Satorra-Saris 法相同，这里直接使用了前面的结果  \n#（2）用于计算统计检验力的程序  \nmcCFA $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(N，E，mod, $\\begin{array} { r c l } { { \\mathrm { ~ R ~ } } } & { { = } } & { { 1 0 0 0 \\mathrm { L } ^ { \\prime } } } \\end{array}$ {RES $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ matrix(0，nrow $\\mathbf { \\Lambda } = \\mathbf { \\Lambda } _ { \\mathrm { R } }$ ， $\\boldsymbol { \\mathrm { n c o l } } ~ = ~ 6 2$ ）for(i in 1:R){Sample $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ rmvnorm(N，sigma $\\mathbf { \\Sigma } = \\mathbf { \\Sigma } _ { \\mathrm { E } }$ ）if(!is.null(colnames(E))){colnames(Sample） $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ colnames (E)}else{colnames(Sample) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ rownames (E)}RES[i，] $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ tryCatch({tempFit $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ cfa(mod,Sample，std.lv $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ TRUE，likelihood $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 'wishart')ind $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ sum(unlist(parTable(tempFit)[，14:15])）ind $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ ind /indc(!is.nan(ind)，unlist(parTable(tempFit)[，14:15]),as.numeric(fitmeasures(tempFit，'chisq')))}，warning $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(w){c(0，rep(NaN，61))})了return (RES)  \n}  \n#（3）利用程序计算统计检验力  \nset.seed(1234)  \nmcCFA(l01，E1，anaMod) $\\mathrel { - } >$ RES1  \nmcCFA(201，E1，anaMod) $\\mathrel { - } >$ RES2  \n#（4）统计结果，并进行规范化输出  \nresCFA $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(RES，TV，N){（204号 $\\texttt { R } =$ nrow (RES)$\\texttt { P } =$ sum(RES[，1]）/RRES $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ RES[which(RES[, $\\mathrm { ~ 1 ~ } \\mathrm { ~ \\ b ~ { ~ 1 ~ } ~ } = = \\mathrm { ~ 1 ~ }$ ，-1]Cov $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ matrix(0，nrow $\\mathbf { \\tau } = \\mathbf { \\tau }$ nrow(RES)， $\\mathtt { n c o l } ~ = ~ 3 0$ ）for(i in 1:nrow(RES)){for(j in 1:30){COv[i，j] $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （TV[j] $< =$ qnorm(0.975，RES[i，j],RES[i， $j + 3 0 ]$ )）&（TV[j] $> =$ qnorm(0.025，RES[i，j]，RES[i， $j + 3 0 ]$ ))}}ME1 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ apply(RES[，1:30]，2，mean)（20 $\\mathtt { M E 2 } \\ =$ apply(RES[，31:60]，2，mean)SE $\\mathbf { \\tau } = \\mathbf { \\tau }$ apply(RES[，1:30]，2，sd)PC $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ apply(Cov，2，mean)PM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ cbind(ME1，ME2，SE，PC，abs(ME1 - TV)/ TV，abs(ME2 - SE)/ SE)RES $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ RES[，61]",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Power $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ sum(RES $< =$ qchisq(0.05，51，0.08\\*0.08\\*51\\*(N-1))）/ length(RES)colnames（PM) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ C('MC_MEAN'，'MC_SE'，'MEAN_SE'，'Coverage'，'Mean_Bias'，'SE_Bias')RES $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ list(Proper $\\mathbf { \\Sigma } = \\mathbf { \\Sigma } _ { \\mathrm { ~ P ~ } }$ ，CHECK $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ PM，POWER $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Power)return (RES)}",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "#（5）给出参数的真实值",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "TV $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ parTable(cfa(anaMod，sample.cov $\\mathbf { \\Sigma } = \\mathbf { \\Sigma } _ { \\mathrm { E 1 } }$ ，sample.nobs $\\mathit { \\Theta } = \\ 1 0 1 \\$ 1std.lv $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ TRUE，likelihood $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 'Wishart')）[，14]  \n#（6）给出规范化输出  \nresCFA(RES1，TV，101)  \nresCFA(RES2，TV，201)  \n#（7）补充中点采样  \nmcCFA(151，E1，anaMod) $\\mathrel { - } >$ RES3  \nresCFA(RES3，TV，151)  \n#-",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "$\\# 4 . 2$ 模型参数检验的先验检验力分析#4.2.1 Satorra-Saris法；Wald检验",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "#（1）设定理论协方差矩阵  \nE2 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ matrix(c(  \n1.0，0.1，0.1，0.1，0.1， 0.1， 0.1,  \n0.1， 1.0，0.1，0.1，0.1, 0.1， 0.1，  \n0.1， 0.1，1.0，0.1，0.1， 0.1， 0.1，  \n0.1， 0.1，0.1，1.0, 0.3， 0.3， 0.3，  \n0.1， 0.1，0.1，0.3, 1.0, 0.3， 0.3，  \n0.1， 0.1， 0.1， 0.3， 0.3， 1.0, 0.3，  \n0.1， 0.1，0.1，0.3， 0.3， 0.3， 1.0  \n）， $\\boldsymbol { \\mathrm { n r o w } } ~ = ~ 7 )$   \ncolnames（E2) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ C('Age'，'Ser'，'STR'，'ECI'，'PSS'，'RES'，'SRG')  \n#（2）设定分析模型  \nanaMod $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$   \nSRG $\\sim \\mathrm { ~  ~ \\ b ~ } ^ { \\star } \\mathrm { ~  ~ \\mathcal ~ { ~ R ~ E ~ S ~ } ~ } + \\mathrm { ~  ~ \\ d ~ } ^ { \\star } \\mathrm { ~  ~ \\mathcal ~ { ~ P ~ S ~ S ~ } ~ } + \\mathrm { ~  ~ \\ E C I ~ } + \\mathrm { ~  ~ \\ S T R ~ } + \\mathrm { ~  ~ \\sf ~ S e r ~ } + \\mathrm { ~  ~ \\mathbb ~ { ~ A ~ g e ~ } ~ }$ （204  \nRE $\\mathrm { 3 . S ~ \\sim ~ \\ k ^ { \\star } P S S ~ + ~ \\ E C I ~ + ~ \\ S T R ~ + ~ \\ S e r ~ + ~ \\mathbb { A } g e }$   \n$\\mathrm { P S S } ~ \\sim ~ \\mathsf { a } ^ { \\star } \\mathrm { E C I } ~ + ~ \\mathsf { e } ^ { \\star } ~ \\mathrm { S T R } ~ + ~ \\mathrm { S e r } ~ + ~ \\mathsf { A g e }$   \nakb: $= a ^ { \\star } k ^ { \\star } b$ 1",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "#（3）用于计算统计检验力的程序",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "SsSEM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(E，mod，PID，alpha $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 0.05，beta $\\mathbf { \\xi } = \\mathbf { \\xi } 0 . 9 5$ {foo $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(N){fit $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ sem(mod， sample.cov $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ E，sample.nobs $\\mathit { \\Theta } = \\mathrm { ~ N ~ }$ ，likelihood $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 'Wishart')${ \\mathrm { N C P } } \\ = \\ $ （parTable(fit)[PID，14]/ parTable(fit)[PID，15]） $\\star \\star$ 2return(pchisq(qchisq(l - alpha，1)，1，NCP，FALSE)- beta)}$\\mathrm { ~ n ~ } =$ uniroot(foo，c(l0，le4))\\$rootreturn(ceiling $( \\mathrm { ~ n ~ \\ : ~ + ~ \\ : ~ 1 ~ } )$ ）  \n1  \n#（4）执行计算  \nssSEM(E2，anaMod，29)  \n#--  \n$\\# 4 . 2 . 2$ Monte Carlo法；Wald检验",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "#（1）生成理论协方差矩阵的部分与Satorra-Saris 法相同，这里直接使用了前面的结果#（2）用于计算统计检验力的程序mcSEM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(N，E，mod， $\\mathrm { ~ R ~ } = \\mathrm { ~ 1 0 0 0 L ) ~ } \\{$ ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "#注：基于无完全共线性的真实数据协方差矩阵的显变量回归理论上不可能出现不恰当解，因此没有考虑对其进行统计",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "RES $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ matrix(O，nrow $\\mathbf { \\Lambda } = \\mathbf { \\Lambda } _ { \\mathrm { R } }$ 、 $n { \\mathsf { c o l } } \\ = \\ 5 8$ ）  \nfor(i in 1:R){Sample $\\mathbf { \\tau } = \\mathbf { \\tau }$ rmvnorm(N， sigma = E)if(!is.null(colnames(E))){colnames(Sample) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ colnames (E)}else{colnames(Sample) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ rownames (E)}for(j in 1:ncol(Sample)）{Sample[，j] $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （Sample[，j]- mean(Sample[，j])）/sd(Sample[，j])}tempFit $\\mathit { \\Omega } < - \\mathit { \\Omega }$ sem(mod，Sample，likelihood $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 'wishart')RES[i，] $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ unlist(parTable(tempFit)[，14:15])  \n}  \nreturn (RES)  \n#（3）利用程序计算统计检验力  \nset.seed(4321)  \nmcSEM(601，E2，anaMod) $\\mathrel { - } >$ RES1  \nmcSEM(501，E2，anaMod) $\\mathrel { - } >$ RES2  \nmcSEM(401，E2，anaMod) $\\mathrel { - } >$ RES3  \nmcSEM(301，E2，anaMod) $\\mathrel { - } >$ RES4  \n#（4）统计结果，并进行规范化输出  \nresSEM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(RES，TV){$\\texttt { R } =$ nrow(RES)COv $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ matrix(0，nrow $\\mathbf { \\tau } = \\mathbf { \\tau }$ nrow(RES)， $\\boldsymbol { \\mathrm { n c o l } } ~ \\boldsymbol { \\mathrm { = } } ~ 2 9 \\boldsymbol { \\mathrm { . } }$ 0for(i in 1:nrow(RES)){for(j in 1:29){COV[i，j] $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （TV[j] $< =$ qnorm(0.975，RES[i，j],RES[i， $j + 2 9 ]$ )）&（TV[j] $> =$ qnorm(0.025，RES［i，j]，RES［i， $j + 2 s ]$ ))}}（204号 $\\tt { M E 1 } \\ =$ apply(RES[，1:29]，2，mean)（204号 $\\mathtt { M E 2 } \\ =$ apply(RES[，30:58]，2，mean)SE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ apply(RES[，1:29]，2，sd)PC $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ apply(Cov，2，mean)PM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ cbind(ME1，ME2，SE，PC，abs(ME1 - TV)/ TV，abs(ME2 - SE)/ SE)Power $\\mathbf { \\tau } = \\mathbf { \\tau }$ sum(abs(RES[，29]／RES[，58]） $> =$ qnorm(0.975)）/Rcolnames(PM) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ C('MC_MEAN'，'MC_SE'，'MEAN_SE'，'Coverage'， 'Mean_Bias'，'SE_Bias')RES $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ list(CHECK $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ PM[1:15，]，POWER $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Power)return (RES)  \n1",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "#（5）给出参数的真实值",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "TV $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ parTable(cfa(anaMod，sample.cov $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ E2，sample.nobs = 101, likelihood $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 'Wishart')）[，14]   \n#（6）给出规范化输出   \nresSEM(RES1，TV)   \nresSEM(RES2，TV)   \nresSEM(RES3，TV)   \nresSEM(RES4，TV)   \n# 结果显示 $\\mathrm { ~ N ~ } = \\ 3 0 1 / 6 0 1$ 时精度不足   \n#（7）重新抽取精度不足的样本   \nmcSEM(601，E2，anaMod） $\\mathrel { - } >$ RES1   \nmcSEM(301，E2，anaMod) $\\mathrel { - } >$ RES4   \nresSEM(RES1，TV)   \nresSEM(RES4，TV) ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 补充材料B：统计检验力的后验分析实例",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "本部分的演示样例同样来自 Zhai等人(2021)的研究。该研究样本量为439人，其中男157人，女282人。本部分同样以该研究中对情绪调节自我效能感量表的验证性因子分析与以压力后成长为因变量的链式中介模型为分析对象，对其进行后验统计检验力分析。该研究中，关于情绪调节自我效能感量表的验证性因子分析结果为: $\\chi ^ { 2 } = 1 5 1 . 9 7 9$ ， $d f = 5 1$ ,RMSEA $= 0 . 0 6 7$ ，参考王阳等人(2020)的建议，以 $\\mathrm { R M S E A } _ { 0 } = 0 . 0 8$ 为经验临界值进行等效性检验得 $\\begin{array} { r } { p = 0 . 0 4 6 } \\end{array}$ 。链式中介模型所涉及变量间的协方差矩阵参见表B-1，具体的模型设置同正文部分，路径“情绪创造力 $$ 领悟社会支持 $$ 情绪调节自我效能感 $$ 压力后成长”中介效应值为0.009(标准化结果为0.021),Wald 检验 $z = 2 . 7 1 3$ ， $p = 0 . 0 0 7$ 。参考正文图2中的建议，综合确定使用MacCallum 法对模型拟合检验部分进行后验检验力分析，使用MonteCarlo 法对链式中介效应部分进行后验检验力分析。",
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/846e2a06ffa139d6453c0b389fc1898bae690b9eef2952f91085e268be16da27.jpg",
+        "table_caption": [
+            "表B-1.链式中介模型所涉及变量间的协方差矩阵 "
+        ],
+        "table_footnote": [
+            "1．模型拟合检验的后验检验力分析"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1.年龄</td><td>36.818</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.疫情严重程度</td><td>-0.194</td><td>0.936</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3．疫情相关压力</td><td>-0.643</td><td>2.788</td><td>215.412</td><td></td><td></td><td></td><td></td></tr><tr><td>4.情绪创造力</td><td>-9.107</td><td>0.098</td><td>9.321</td><td>129.108</td><td></td><td></td><td></td></tr><tr><td>5．领悟社会支持</td><td>-3.390</td><td>-0.992</td><td>0.305</td><td>60.613</td><td>100.388</td><td></td><td></td></tr><tr><td>6.情绪调节自我效能感</td><td>-1.217</td><td>-0.294</td><td>2.198</td><td>42.998</td><td>29.468</td><td>31.922</td><td></td></tr><tr><td>7．压力后成长</td><td>-1.981</td><td>-0.275</td><td>-6.180</td><td>24.855</td><td>21.677</td><td>11.936</td><td>21.294</td></tr></table></body></html>",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "在后验检验力分析中，通常直接以得出的结果作为真值。故本例相当于检验样本量为 439、 $\\mathfrak { a } = 0 . 0 5$ ，RMSEA真值为0.067时，样本的 $\\chi ^ { 2 }$ 统计量落在等效性检验零假设 $H _ { 0 }$ $\\mathrm { R M S E A _ { 0 } } \\geq 0 . 0 8$ 拒绝域中的概率。根据正文中的公式(la)和(2a)，可以求出后验检验力，对应的R脚本如下:",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\mathrm { n c g } 0 } } & { { = } } & { { ( 4 3 9 \\mathrm { - } 1 ) \\quad \\star \\quad 5 1 \\quad \\star \\quad 0 . 0 8 0 \\star \\star 2 } } \\\\ { { \\mathrm { n c p a } } } & { { = } } & { { ( 4 3 9 \\mathrm { - } 1 ) \\quad \\star \\quad 5 1 \\quad \\star \\quad 0 . 0 6 7 \\star \\star 2 } } \\\\ { { \\mathrm { T m l c } } } & { { = } } & { { \\mathrm { q c h i s q } ( 0 . 0 5 , 5 1 , \\quad \\mathrm { n c p } 0 ) } } \\\\ { { \\mathrm { ( P O W } } } & { { = } } & { { \\mathrm { p c h i s q } ( \\mathrm { T m l c } , \\quad 5 1 , \\quad \\mathrm { n c p } a ) \\ ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "运行上述代码，可得后验检验力为0.546。",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "2．中介效应检验的后验检验力分析",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "以对“情绪创造力 $$ 领悟社会支持 $$ 情绪调节自我效能感 $$ 压力后成长”这一路径中介效应的Wald 检验为分析对象，控制I类错误水平 $\\alpha$ 为0.05，设定 $N$ 为439进行分析，得到的结果全部为恰当解，对应的统计检验力为0.847，对应的各参数估计情况、相对误差以及 $9 5 \\%$ 置信区间覆盖率参见表B-2。本例中关键参数的估计误差均不超过 $5 \\%$ ， $9 5 \\%$ 置信区间覆盖率均处于0.91至0.98之间，部分参数的均值误差较大，这主要是由于这些参数的理论值过小导致的，实际上这些参数标准误的误差均不超过 $5 \\%$ ，并且这些参数都是与控",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "制变量相关的参数，说明 MonteCarlo 模拟结果仍具可信度。这部分的R脚本为:  \n#载入程序包  \nif(!require(lavaan)){install.packages('lavaan')}  \n#读入样本协方差矩阵  \n（204 $\\boldsymbol { \\mathrm { ~ E ~ } } = \\boldsymbol { \\mathsf { \\Omega } }$ matrix(c(  \n36.818，-0.194， -0.643， -9.107， -3.390，-1.217，-1.981,  \n-0.194，0.936，2.788，0.098，-0.992，-0.294，-0.275,  \n-0.643，2.788，215.412，9.321，0.305，2.198，-6.180,  \n-9.107，0.098， 9.321，129.108， 60.613，42.998,24.855,  \n-3.390，-0.992，0.305， 60.613，100.388，29.468，21.677,  \n-1.217，-0.294，2.198， 42.998， 29.468，31.922，11.936,  \n-1.981，-0.275，-6.180， 24.855，21.677，11.936，21.294)，nrow $= 7$ ）  \nrownames (E) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ c('Age'，'Ser'，'STR'，'ECI'，'PSS'，'RES'，'SRG')  \n#设定分析模型  \nanaMod $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 1  \nSRG \\~ b\\*RES + d\\*PSS + ECI + STR + Ser + Age  \nRES \\~ k\\*PSS + ECI + STR $^ +$ Ser +Age  \n$\\mathrm { P S S ~ \\sim ~ \\sf a ^ { \\star } E C I ~ + ~ e ^ { \\mathrm { ~ \\star ~ } } ~ \\sf S T R ~ + ~ \\sf S e r ~ + ~ \\sf { A g e } }$   \nakb : $\\mathbf { \\Sigma } =$ a\\*k\\*b'  \nTV $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ parTable(sem(anaMod， sample. $\\mathsf { c o v } = \\mathrm { ~ E ~ }$ ，sample.nobs $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 439，likelihood $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 'Wishart')）[，14]  \n#执行分析，这里利用wishart 分布替代了原始数据  \nmcSEM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(N，E，mod, $\\mathrm { ~ R ~ } = \\mathrm { ~ 1 0 0 0 L } )$ {RES $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ matrix(0，nrow $\\mathbf { \\Lambda } = \\mathbf { \\Lambda } _ { \\mathrm { R } }$ 、 $\\mathtt { n c o l } \\ = \\ 5 8$ ）SaS $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ rWishart(R，N-1，E)/ (N-1)for(i in 1:R){tempE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ SaS[，，i]rownames(tempE) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ rownames (E)tempFit $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ sem(mod, sample.nobs $\\mathit { \\Theta } = \\mathrm {  ~ N ~ }$ ，sample.cov $\\mathbf { \\tau } = \\mathbf { \\tau }$ tempE，likelihood $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 'wishart')RES[i，] $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ unlist(parTable(tempFit)[, 14:15])}return (RES)}  \nset.seed(1234)  \nRES $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ mcSEM(439，E，anaMod)  \nresSEM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function(RES，TV){$\\texttt { R } =$ nrow(RES)Cov $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ matrix(0，nrow $\\mathbf { \\tau } = \\mathbf { \\tau }$ nrow(RES)，ncol = 29)for(i in 1:nrow(RES)){for(j in 1:29){COV[i，j] $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （TV[j] $< =$ qnorm(0.975，RES[i，j]，RES[i， $j + 2 s ]$ ））&(TV[j] $> =$ qnorm(0.025，RES[i，j]，RES[i，j+29]))}}",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "ME1 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ apply(RES[，1:29]，2，mean)ME2 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ apply(RES[，30:58]，2，mean)SE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ apply(RES[，1:29]，2，sd)PC $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ apply(cov，2，mean)PM $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ cbind(ME1，ME2，SE，PC，abs(ME1 - TV)/ TV，abs(ME2 - SE)/ SE)Power $\\mathbf { \\tau } = \\mathbf { \\tau }$ sum(abs(RES[，29]/RES[，58]） $> =$ qnorm(0.975)）/Rcolnames(PM) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ C('MC_MEAN'，'MC_SE'，'MEAN_SE'，'Coverage'，'Mean_Bias'，'SE_Bias')RES $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ list(CHECK $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ PM[1:15，]，POWER $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Power)return(RES)}resSEM(RES，TV)",
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4aa08b0546570a16361774b46266649d28ea8246f9526156c5359aee05b70fb.jpg",
+        "table_caption": [
+            "表B-2．中介效应MonteCarlo 检验的参数估计情况"
+        ],
+        "table_footnote": [
+            "注：加粗的表示该路径系数是关键参数;RES：情绪调节自我效能感,PSS：领悟社会支持,ECI:情绪创造力,SRG：压力后成长,STR：疫情相关压力,Ser：疫情严重程度,Age:年龄"
+        ],
+        "table_body": "<html><body><table><tr><td>路径</td><td>理论值</td><td>估计均值</td><td>均值标准误</td><td>标准误均值</td><td>覆盖率</td><td>均值误差</td><td>标准误误差</td></tr><tr><td>RES→SRG</td><td>0.145</td><td>0.144</td><td>0.045</td><td>0.045</td><td>0.949</td><td>0.002</td><td>0.002</td></tr><tr><td>PSS→SRG</td><td>0.118</td><td>0.118</td><td>0.022</td><td>0.022</td><td>0.953</td><td>0.002</td><td>0.023</td></tr><tr><td>ECI→SRG</td><td>0.090</td><td>0.090</td><td>0.023</td><td>0.023</td><td>0.945</td><td>0.003</td><td>0.006</td></tr><tr><td>STR→SRG</td><td>-0.034</td><td>-0.033</td><td>0.013</td><td>0.012</td><td>0.958</td><td>-0.012</td><td>0.013</td></tr><tr><td>Ser→SRG</td><td>-0.035</td><td>-0.047</td><td>0.193</td><td>0.195</td><td>0.949</td><td>-0.324</td><td>0.009</td></tr><tr><td>Age→SRG</td><td>-0.017</td><td>-0.018</td><td>0.030</td><td>0.031</td><td>0.945</td><td>-0.065</td><td>0.023</td></tr><tr><td>PSS→RES</td><td>0.126</td><td>0.127</td><td>0.023</td><td>0.022</td><td>0.961</td><td>0.009</td><td>0.035</td></tr><tr><td>ECI→RES</td><td>0.277</td><td>0.278</td><td>0.020</td><td>0.021</td><td>0.941</td><td>0.002</td><td>0.014</td></tr><tr><td>STR→RES</td><td>0.001</td><td>0.001</td><td>0.013</td><td>0.014</td><td>0.943</td><td>0.574</td><td>0.010</td></tr><tr><td>Ser→RES</td><td>-0.203</td><td>-0.201</td><td>0.205</td><td>0.201</td><td>0.950</td><td>-0.007</td><td>0.018</td></tr><tr><td>Age→RES</td><td>0.046</td><td>0.046</td><td>0.032</td><td>0.032</td><td>0.949</td><td>0.007</td><td>0.011</td></tr><tr><td>ECI→PSS</td><td>0.472</td><td>0.470</td><td>0.036</td><td>0.036</td><td>0.944</td><td>0.004</td><td>0.008</td></tr><tr><td>STR→PSS</td><td>-0.005</td><td>-0.004</td><td>0.028</td><td>0.029</td><td>0.942</td><td>-0.126</td><td>0.021</td></tr><tr><td>Ser→PSS</td><td>-1.091</td><td>-1.091</td><td>0.423</td><td>0.431</td><td>0.941</td><td>0.000</td><td>0.017</td></tr><tr><td>Age→PSS</td><td>0.019</td><td>0.023</td><td>0.067</td><td>0.068</td><td>0.946</td><td>0.198</td><td>0.021</td></tr></table></body></html>",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Zhai,H.-K.,LiQ.,Hu,.-X,Cu,Y.-,Wei,.-W,&Zou,X.().EmotioalcreativityimprovespostraumaticgrothdmentalhealthduringtheCOVID-19pandemic.FrontiersinPsychology，12，Article600798.https://doi.org/10.3389/fpsyg.2021.600798  \n王阳，温忠麟，付媛姝.(2020).等效性检验——结构方程模型评价和测量不变性分析的新视角．心理科学进展,28(11),1961-1969.",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 补充材料C:MacCallum法适用的拟合指数及其与非中心参数的换算公式",
+        "text_level": 1,
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "根据正文部分的论述，不难发现 MacCallum 法的核心在于将拟合指数根据其定义式逆变换为非中心参数，作为对δ的估计值。同时，根据正文中的(3)式，不难有:",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = ( N - 1 ) F _ { \\mathrm { M L 0 } } = ( N - 1 ) \\left( F _ { \\mathrm { M L } } - { \\frac { d f } { N - 1 } } \\right) = T _ { M L } - d f\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "换言之，如果研究者可以将拟合指数“还原”为原始的 $\\chi ^ { 2 }$ 值，并且知晓模型自由度，那么理论上研究者就可以根据该参数求出非中心参数δ的估计值。侯杰泰等人(2004)的书中给出了绝大多数结构方程模型拟合指数的定义，从中不难看出，当知晓信息足够多的情况下，除了少数直接基于模型隐含协方差矩阵定义的拟合指数(如RMR、SRMR等)外，其余的拟合指数均可以“还原”为原始的 $\\chi ^ { 2 }$ 值并进一步计算出非中心参数δ。但不同拟合指数的使用频率不同，将其换算为非中心参数所需要的额外参数(或者说，换算的“麻烦程度”)也不同，故并不是所有的拟合指数都在实践中被应用，目前较为常用的拟合指数有:RMSEA、MFI、GFI、AGFI和 CFI。这里特别需要注意的是，目前软件和论文中对GFI和 AGFI 的缩写存在一定混用的情况，可能不加区别地将“Goodnessof fit index/LISREL GFI”（下称 GFIL)和“Unbiased goodness offit index/Steiger’s γ”（下称 GFI\\*)；“Adjusted goodnessof fit index”（下称 AGFIL)和“Unbiased adjusted goodness of fit index”（下称AGFI)混用。以R为例,R语言结构方程建模程序包lavaan中关于GFI的定义采用了GFI，而 semPower包中则采用了GFI\\*。特别需要说明的是,MacCallum 法中使用的是 GFI\\*和 AGFI\\*。因此若对 lavaan 中得到的GFI值进行后验检验力分析，则可能出现不正确的结果。这五种指数与非中心参数换算的公式为：",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = \\left( N - 1 \\right) \\cdot d f \\cdot \\mathrm { R M S E A } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = \\left( N - 1 \\right) \\cdot \\left( - 2 \\ln \\mathrm { M F I } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = ( N - 1 ) \\frac { p ( 1 - \\mathrm { G F I ^ { * } } ) } { 2 \\mathrm { G F I ^ { * } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = ( N - 1 ) \\frac { p ( 1 - \\mathrm { A G F I ^ { * } } ) d f } { p ( p + 1 ) - 2 d f ( 1 - \\mathrm { A G F I ^ { * } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = ( 1 - \\mathrm { C F I } ) [ ( N - 1 ) F _ { N u l l } - d f _ { N u l l } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "其中, $p$ 为协方差矩阵的秩(即变量维度), $F _ { N u l l }$ 和 $d f _ { N u l l }$ 分别为虚模型(NullModel)的拟合函数值和自由度，其中 $F _ { N u l l } = - \\ln | R |$ ,R 是变量的相关矩阵。",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "侯杰泰，温忠麟，成子娟.(2004).结构方程模型及其应用.北京：教育科学出版社.(pp.162-165)",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 补充材料D：基于G\\*Power的结构方程模型统计检验力分析",
+        "text_level": 1,
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "本文正文部分在介绍结构方程模型统计检验力分析时主要使用了R语言作为软件工具。但R语言本身学习成本较高，对于不熟悉编程的研究者而言不是非常友好。事实上,R语言并非进行结构方程模型统计检验力分析的唯一途径，对于那些不熟悉R 的研究者，只要研究者本人能较为熟练地使用目前市面上常见的结构方程建模软件(如LISREL、EQS、AMOS、Mplus 等)，再结合目前学界常用的G\\*Power，即可完成基于$\\chi ^ { 2 }$ 分布的结构方程模型统计检验力的分析，这在一定程度上也能够帮助研究者应对一些不是那么复杂的应用场景。",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "1.使用G\\*Power对结构方程模型统计检验力进行分析的原理",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "正如正文中提到的那样，基于 $\\chi ^ { 2 }$ 分布的统计检验力分析的核心包括两部分： $\\textcircled{1}$ 根据一些方式估计出非中心参数; $\\textcircled{2}$ 根据非中心参数结合公式(1a)或(1b)算出对应情况下的统计检验力。其中 $\\textcircled{1}$ 的估计又可分为基于协方差矩阵理论真值的 Satorra-Saris 法和基于拟合指数的 MacCallum 法，这部分是需要研究者自己套用公式计算或借助结构方程建模软件进行计算的部分。G\\*Power主要针对的是步骤 $\\textcircled{2}$ 中的内容，即在已知零假设成立时对应的非中心参数 $\\delta _ { 0 }$ 、备择假设成立时对应的非中心参数 $\\delta _ { 1 }$ 、自由度df、I类错误水平 $\\alpha$ 时，根据公式(2a)或(2b)先计算出拒绝域的临界值，再根据公式(1a)或(1b)计算出统计检验力的过程。",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "2.G\\*Power 中的 Generic $\\chi ^ { 2 }$ test",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "不难看出步骤 $\\textcircled{2}$ 的核心是计算 $\\chi ^ { 2 }$ 分布的分位数和单尾累积概率，在G\\*Power 中，相关功能可以在Generic $\\chi ^ { 2 }$ test中找到。打开G\\*Power后，先选择检验族(TestFamily)为 $\\chi ^ { 2 }$ tests，而后便可在检验方式(Statisticaltest)一栏中找到 Generic $\\chi ^ { 2 }$ test。 $\\mathbf { G } ^ { * }$ Power 的 Generic $\\chi ^ { 2 }$ test 部分主要提供了四个工具:Compromise,Criterion,Post hoc 和 Sensitivity。其中后三个工具与结构方程模型统计检验力分析有关，它们的作用分别是:Criterion:给出统计检验力 $1 { - } \\beta$ 、非中心参数δ(在 $\\mathbf { G } ^ { * }$ Power 中用λ表示)和自由度df,求出对应的I类错误水平 $\\alpha$ Posthoc:给出非中心参数δ、I类错误水平 $\\mathfrak { a }$ 和自由度 $d f ,$ 求出对应的统计检验力1-β; Sensitivity:给出I类错误水平 $\\alpha$ 、统计检验力 $1 { - } \\beta$ 和自由度df,求出对应的非中心参数。但特别需要注意的是, $\\mathbf { G } ^ { * }$ Power 提供的这些工具都默认零假设成立时对应的非中心参数 $\\delta _ { 0 } = 0$ ，即零假设成立时统计量的分布为中心化 $\\chi ^ { 2 }$ 分布。在结构方程模型假设检验的经典方法中，除去等效性检验外的其他方法均能满足G\\*Power 的默认条件，因此可以直接借用G\\*Power进行分析。等效性检验的情况较为复杂，若等效性检验的 $\\delta _ { 1 } = 0$ 时，可以借用正文5.6部分的结论，构建与其对偶情形，并且将 $\\mathfrak { a }$ 与 $\\beta$ 颠倒代入求解；若等效性检验的 ${ \\delta _ { 1 } } > 0$ 时，则需借用中心化 $\\chi ^ { 2 }$ 分布为“桥”，建立起两个非中心 $\\chi ^ { 2 }$ 分布的联系。",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "3．具体操作方法与示例",
+        "text_level": 1,
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "如前所述，基于 $\\chi ^ { 2 }$ 分布的统计检验力分析的第一部分主要需要研究者自己套用公式计算或借助结构方程建模软件进行计算，本文对此步骤不进行详述，仅简单介绍本步中需要注意的几个要点。 $\\textcircled{1}$ 本步中的难点在于选用 Satorra-Saris 法时协方差矩阵理论真值的生成，特别是基于模型的理论协方差矩阵真值的生成，这需要研究者对结构方程模型的基本原理有较好的理解水平。目前市面上大部分结构方程建模的教材都对这部分进行了相应的介绍，系统学习过结构方程建模的研究者通常可以在教材指导下自己完成理论协方差矩阵的生成工作。另外，生成理论协方差矩阵时需要计算矩阵乘法，这部分可通过Excel的MMULT函数完成。$\\textcircled{2}$ 不同软件计算 $\\chi ^ { 2 }$ 统计量的方法略有不同，对 Mplus 而言, $\\chi ^ { 2 } = N F _ { M L }$ ，而对LISREL、EQS 和 AMOS 而言, $\\chi ^ { 2 }$ $= ( N - I ) F _ { M L }$ ，这导致了在使用不同软件进行分析时，研究者可能需要针对软件的计算方法对公式进行微调。本部分主要展示的是第二部分的内容，即已知 $\\delta _ { 0 }$ 、df和 $\\mathbf { \\alpha } _ { \\mathbf { \\alpha } } \\delta _ { 1 }$ 和 $1 { - } \\beta$ 已知其一时如何使用G\\*Power 求出另一个的对应值。参考前述对G\\*Power 中的 Generic $\\chi ^ { 2 }$ test 的介绍，这里主要分三种情况给出具体的操作方法与示例：",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "(1) $\\delta _ { 0 } = 0 , \\delta _ { 1 } > 0$ ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 已知 $1 { - } \\beta$ ，未知 $\\delta _ { 1 }$ (对应先验检验力分析)：选择检验族(TestFamily)为 $\\chi ^ { 2 }$ tests，检验方式(Statistical test)为 Generic $\\chi ^ { 2 }$ test，检验力分析类型(Type of power analysis)为 Sensitivity，设定 df、 $\\alpha$ 和 $1 { - } \\beta$ ，求解出 $\\delta _ { 1 }$ ，而后根据Satorra-Saris 法得到的 $F _ { M L }$ 值或MacCallum法对应的拟合指数结合补充材料C部分的公式推出结果。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "例1:已知 $d f = 5 1$ ，控制 $\\alpha$ 水平为0.05，求使得当RMSEA的真实值不小于0.08时正确拒绝零假设的概率不低于 $9 5 \\%$ 的样本量 $N _ { P l a n }$ 。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "解：打开 $\\mathbf { G } ^ { * }$ Power，选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic $\\chi ^ { 2 }$ test，检验力分析类型为Sensitivity，设定 $d f = 5 1$ 、 $\\mathtt { a } = 0 . 0 5$ 、 $1 - \\beta = 0 . 9 5$ ，求得非中心参数为43.400，根据公式(C.2a)，求出样本量为133.965，向上取整得 $N _ { P l a n } = 1 3 4$ 人。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 已知 $\\delta _ { 1 }$ ，未知1-β(对应后验检验力分析、使用线性插值估计样本量时的先验检验力分析)：选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic $\\chi ^ { 2 }$ test，检验力分析类型为Posthoc，设定df、 $\\mathfrak { a }$ 和 $\\delta _ { 1 }$ ，求解出 $1 - \\beta$ 。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "例2：同例1，使用设定多个 $N$ 的方式结合线性插值法估计 $N _ { P l a n }$ 。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "解：打开G\\*Power，选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic $\\chi ^ { 2 }$ test，检验力分析类型为Posthoc，设定$d f = 5 1$ 、 $\\mathfrak { a } = 0 . 0 5$ 、根据公式(C.2a)计算出 $N$ 为 51,101,151时对应的非中心参数分别为16.32,32.64,48.96,分别代入，求得对应的 $1 { - } \\beta$ 为0.566,0.837,0.975。使用线性插值法求出 $N _ { P l a n }$ 约为142人。",
+        "page_idx": 34
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { 0 } = k ( N - I ) > 0 , \\delta _ { 1 } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 已知 $1 { - } \\beta$ ，未知 $\\delta _ { 0 } \\ell$ (对应先验检验力分析)：根据正文5.6 部分的结论，构建与其对偶情形—一 $\\cdot { \\delta _ { 0 } } ^ { \\prime } \\mathrm { = } 0 , { \\delta _ { 1 } } ^ { \\prime }$ $= k ( N { - } I ) > 0$ ，而后交换 $\\mathfrak { a }$ 与 $\\beta$ ，选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic $\\chi ^ { 2 }$ test，检验力分析类型为Sensitivity，设定 df、 $\\alpha$ 和 $1 { - } \\beta$ ，求解出 $\\delta _ { 1 }$ ，进而补充材料C部分的公式求得 $N$ 。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "例3:已知 $d f = 5 1$ ，控制 $\\mathfrak { a }$ 水平为0.05，进行等效性检验，设定 $\\mathrm { R M S E A } _ { 0 } = 0 . 0 8$ ，求使得RMSEA的真实值为0时正确拒绝零假设的概率不低于 $80 \\%$ 的样本量 $N _ { P l a n }$ 。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "解：构建对偶情形: ${ \\delta _ { 0 } } ^ { \\prime } \\mathrm { ~ = ~ } 0$ ，根据公式(C.2a)有 $\\delta _ { 1 } ^ { ~ , ~ } = 0 . 3 2 6 4 \\cdot ( N { - } I ) .$ ，此时有 $\\mathbf { a } ^ { \\prime } = 0 . 2$ ， $1 - \\beta ^ { \\ast } = 0 . 9 5$ 。打开G\\*Power，选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic $\\chi ^ { 2 }$ test，检验力分析类型为Sensitivity，设定 $d f = 5 1$ 、 $\\mathfrak { a }$ $= 0 . 2$ 、 $1 - \\beta = 0 . 9 5$ ，求得非中心参数为31.564，进一步求得 $N _ { P l a n }$ 约为98人。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 已知 ${ \\delta } _ { 0 }$ 。未知1-β(对应后验检验力分析、使用线性插值估计样本量时的先验检验力分析)：根据正文5.6 部分的结论，构建与其对偶情形—一 ${ \\bf \\cdot } { \\bf \\delta } _ { 0 } ^ { \\prime } = 0$ 0 ${ \\delta _ { 1 } } ^ { \\prime } = k ( N { - } I ) > 0$ ，而后交换 $\\mathfrak { a }$ 与 $\\beta$ ，选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic $\\chi ^ { 2 }$ test，检验力分析类型为Criterion，设定df、 $\\alpha$ 和 $\\delta _ { 1 }$ ，求解出 $1 { - } \\beta$ 。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "例4:同例2，使用设定多个 $N$ 的方式结合线性插值法估计 $N _ { P l a n }$ 。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "解：构建对偶情形: ${ \\delta _ { 0 } } ^ { \\prime } \\mathrm { = } 0$ ，根据公式(C.2a)有 $\\delta _ { 1 } { } ^ { , } = 0 . 3 2 6 4 \\cdot ( N { - } I )$ ，此时有 $1 - \\beta ^ { \\ast } = 0 . 9 5$ 。设定 $N$ 分别为51,76,101，求得对应的 ${ { \\delta } _ { 1 } } ^ { : \\mathrm { { } } }$ 为16.32,24.48 和32.64。打开 $\\mathbf { G } ^ { * }$ Power，选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic$\\chi ^ { 2 }$ test，检验力分析类型为Criterion，设定 $d f = 5 1$ 、 $1 - \\beta ^ { \\ast } = 0 . 9 5$ ，将 ${ \\delta _ { 1 } } ^ { \\prime }$ 的三个值分别代入，求得对应的 $\\overrightarrow { \\mathbf { a } } ^ { \\prime }$ 为0.614,0.370,0.180。使用线性插值法求出 $N _ { P l a n }$ 约为99人。",
+        "page_idx": 35
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ S _ { 0 } = k ( N - I ) > 0 , \\ S _ { 1 } = q ( N - I ) > 0 , \\ S _ { 0 } > \\ S _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "此种情形下问题过于复杂，在此仅给出一种情况下的操作：",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "已知 $\\delta _ { 1 }$ ，未知1-β(对应后验检验力分析、使用线性插值估计样本量时的先验检验力分析)：注意到，给定自由度时中心化 $\\chi ^ { 2 }$ 分布的右尾概率等价于其临界值，因此可以以此为“桥”连接起两个非中心 $\\chi ^ { 2 }$ 分布。首先选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic $\\chi ^ { 2 }$ test，检验力分析类型为Criterion，设定其统计检验力为等效性检验的 $1 { - a } .$ df, $\\delta _ { 0 }$ ，求出中心化 $\\chi ^ { 2 }$ 分布的右尾概率，记为 $\\gamma .$ 。然后选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic$\\chi ^ { 2 }$ test，检验力分析类型为Post hoc，代入 ${ \\mathfrak { a } } = \\gamma$ 。非中心参数为 $\\ S _ { 1 }$ 和自由度，求得对应的统计检验力(此时的统计检验力为 $\\beta$ 而非 $1 { - } \\beta )$ 。特别需要注意的是，这种以中心化 $\\chi ^ { 2 }$ 分布为“桥”的方法受限于G\\*Power对 $\\mathfrak { a }$ 的计算限制, $\\mathbf { G } ^ { * }$ Power允许的 $\\alpha$ 范围是1e-6到1-1e-6,这也意味着此种情形下 $\\mathbf { G } ^ { * }$ Power的作用是有限的，对于此种情形，若非中心 $\\chi ^ { 2 }$ 分布的自由度足够大时，也可借用正态分布对非中心 $\\chi ^ { 2 }$ 分布进行近似从而求出统计检验力的近似值。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "例5:已知 $d f = 5 1$ ，样本量为301，设定 $\\mathrm { R M S E A } _ { 0 } = 0 . 0 8$ 进行等效性检验，结果显示 $\\mathrm { R M S E A } _ { 1 } = 0 . 0 4 3$ ,p$< 0 . 0 5$ ，求统计检验力。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "解：根据公式(C.2a)计算出 $\\delta _ { 0 } = 9 7 . 9 2$ ， $8 _ { 1 } = 2 8 . 2 9 0$ 。打开G\\*Power，选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic $\\chi ^ { 2 }$ test，检验力分析类型为Criterion，设定 $d f = 5 1 , 1 - \\beta = 1 - 0 . 0 5 = 0 . 9 5 , \\lambda = 9 7 . 9 2 ,$ 求得 $\\mathfrak { a }$ 为1.014e6。然后选择检验力分析类型为Post hoc，设定 $d f = 5 1$ 、 $\\lambda = 2 8 . 2 9 0$ 、 $\\mathsf { a } = 1 . 0 1 4 \\mathsf { e } { \\mathrm { - } } 6$ ，求得统计检验力为0.985。例6:已知 $d f = 5 1$ ，样本量为439，设定 $\\mathrm { R M S E A } _ { 0 } = 0 . 0 8$ 进行等效性检验，结果显示 $\\mathrm { R M S E A } _ { 1 } = 0 . 0 6 7$ p$< 0 . 0 5$ ，求统计检验力。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "解：根据公式(C.2a)计算出 $\\delta _ { 0 } = 1 4 2 . 9 6 3 2$ ， $\\delta _ { 1 } = 1 0 0 . 2 7 5 3$ 。打开 $\\mathbf { G } ^ { * }$ Power，选择检验族为 $\\chi ^ { 2 }$ tests，检验方式为Generic $\\chi ^ { 2 }$ test，检验力分析类型为Criterion，设定 $d f = 5 1$ 、 $1 - \\beta = 1 - 0 . 0 5 = 0 . 9 5$ $\\lambda = 1 4 2 . 9 6 3 2$ ，求得 $\\alpha$ 为4.064e-012。注意到解得的 $\\alpha$ 远超出了 $\\mathbf { G } ^ { * }$ Power允许的范围，但同时注意到本例中df较大，可以考虑使用正态分布对非中心 $\\chi ^ { 2 }$ 分布进行近似，此时读出 $\\mathfrak { a }$ 为4.064e-012时对应的中心化 $\\chi ^ { 2 }$ 分布临界值为152.944，同时计算非中心参数为 $\\delta _ { 1 }$ 、自由度为51的非中心 $\\chi ^ { 2 }$ 分布的均值和标准差，根据非中心 $\\chi ^ { 2 }$ 分布的相关结论有：",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "从 $: = \\delta + d f = 1 0 0 . 2 7 5 3 + 5 1 = 1 5 1 . 2 7 5 ; \\sigma = { \\sqrt { 2 d f + 4 \\delta } } = { \\sqrt { 2 \\times 5 1 + 4 \\times 1 0 0 . 2 7 5 3 } } = 2 2 . 4 3 0$ （20 (D.1)以正态分布对非中心 $\\chi ^ { 2 }$ 分布进行近似，可求得均值为151.275，标准差为22.430 的正态分布割点为152.944时的左尾概率约为0.530，与之前B部分得到的理论值(0.546)还是较为相近的。",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 补充材料E：案例中MonteCarlo模拟部分各参数估计情况、相对误差以及 $9 5 \\%$ 置信区间覆盖率",
+        "text_level": 1,
+        "page_idx": 37
+    },
+    {
+        "type": "table",
+        "img_path": "images/857e7e8f639ec2f7668fa82700821eebd05df09a8f8fc790991b051dc763a43e.jpg",
+        "table_caption": [
+            "表E-1模型拟合检验先验检验力的MonteCarlo分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\"></td><td colspan=\"5\">模拟样本量n= 201</td></tr><tr><td>路径</td><td></td><td>理论值</td><td>估计</td><td>均值</td><td>标准误</td><td></td><td>均值</td><td>标准误</td><td>估计</td><td>均值</td><td>标准误</td><td>覆盖率</td><td>均值</td><td>标准误</td></tr><tr><td></td><td></td><td>均值</td><td>标准误</td><td>均值</td><td>覆盖率</td><td>误差</td><td>误差</td><td>均值</td><td>标准误</td><td>均值</td><td></td><td>误差</td><td>误差</td></tr><tr><td>POS → X1</td><td>0.870</td><td>0.867</td><td>0.083</td><td>0.084</td><td>0.953</td><td>0.004</td><td>0.018</td><td>0.870</td><td>0.059</td><td>0.058</td><td>0.952</td><td>0.000</td><td>0.009</td></tr><tr><td>POS → X2</td><td>0.900</td><td>0.896</td><td>0.082</td><td>0.082</td><td>0.946</td><td>0.005</td><td>0.011</td><td>0.901</td><td>0.058</td><td>0.057</td><td>0.941</td><td>0.001</td><td>0.009</td></tr><tr><td>POS → X3</td><td>0.750</td><td>0.745</td><td>0.088</td><td>0.089</td><td>0.947</td><td>0.007</td><td>0.008</td><td>0.752</td><td>0.063</td><td>0.062</td><td>0.952</td><td>0.003</td><td>0.013</td></tr><tr><td>POS →X4</td><td>0.550</td><td>0.545</td><td>0.096</td><td>0.096</td><td>0.944</td><td>0.009</td><td>0.006</td><td>0.554</td><td>0.068</td><td>0.068</td><td>0.953</td><td>0.007</td><td>0.002</td></tr><tr><td>DES → X5</td><td>0.590</td><td>0.589</td><td>0.099</td><td>0.095</td><td>0.956</td><td>0.001</td><td>0.035</td><td>0.590</td><td>0.070</td><td>0.069</td><td>0.958</td><td>0.001</td><td>0.013</td></tr><tr><td>DES → X6</td><td>0.720</td><td>0.719</td><td>0.093</td><td>0.096</td><td>0.939</td><td>0.002</td><td>0.030</td><td>0.725</td><td>0.066</td><td>0.068</td><td>0.942</td><td>0.006</td><td>0.029</td></tr><tr><td>DES →X7</td><td>0.580</td><td>0.577</td><td>0.091</td><td>0.096</td><td>0.943</td><td>0.005</td><td>0.049</td><td>0.581</td><td>0.065</td><td>0.066</td><td>0.943</td><td>0.002</td><td>0.017</td></tr><tr><td>DES →X8</td><td>0.710</td><td>0.702</td><td>0.094</td><td>0.092</td><td>0.949</td><td>0.011</td><td>0.020</td><td>0.711</td><td>0.067</td><td>0.066</td><td>0.953</td><td>0.001</td><td>0.003</td></tr><tr><td>DES →X9</td><td>0.590</td><td>0.587</td><td>0.091</td><td>0.092</td><td>0.947</td><td>0.006</td><td>0.019</td><td>0.593</td><td>0.064</td><td>0.066</td><td>0.946</td><td>0.005</td><td>0.025</td></tr><tr><td>ANG → X10</td><td>0.730</td><td>0.731</td><td>0.093</td><td>0.093</td><td>0.946</td><td>0.001</td><td>0.006</td><td>0.733</td><td>0.066</td><td>0.066</td><td>0.947</td><td>0.005</td><td>0.010</td></tr><tr><td>ANG → X11</td><td>0.780</td><td>0.779</td><td>0.093</td><td>0.094</td><td>0.946</td><td>0.001</td><td>0.013</td><td>0.780</td><td>0.066</td><td>0.069</td><td>0.934</td><td>0.000</td><td>0.040</td></tr><tr><td>ANG → X12</td><td>0.570</td><td>0.574</td><td>0.092</td><td>0.095</td><td>0.937</td><td>0.007</td><td>0.032</td><td>0.572</td><td>0.066</td><td>0.066</td><td>0.948</td><td>0.003</td><td>0.012</td></tr><tr><td>X1 ←X1</td><td>0.240</td><td>0.237</td><td>0.057</td><td>0.059</td><td>0.932</td><td>0.013</td><td>0.041</td><td>0.240</td><td>0.040</td><td>0.040</td><td>0.955</td><td>0.001</td><td>0.018</td></tr><tr><td>X2 ←→ X2</td><td>0.190</td><td>0.189</td><td>0.055</td><td>0.057</td><td>0.948</td><td>0.006</td><td>0.029</td><td>0.188</td><td>0.039</td><td>0.039</td><td>0.951</td><td>0.011</td><td>0.003</td></tr><tr><td>X3 ← X3</td><td>0.440</td><td>0.437</td><td>0.072</td><td>0.073</td><td>0.932</td><td>0.007</td><td>0.015</td><td>0.438</td><td>0.051</td><td>0.052</td><td>0.944</td><td>0.005</td><td>0.013</td></tr><tr><td>X4 ← X4</td><td>0.700</td><td>0.699</td><td>0.104</td><td>0.104</td><td>0.924</td><td>0.002</td><td>0.001</td><td>0.696</td><td>0.073</td><td>0.074</td><td>0.940</td><td>0.006</td><td>0.015</td></tr><tr><td>X5 → X5</td><td>0.650</td><td>0.642</td><td>0.102</td><td>0.106</td><td>0.934</td><td>0.012</td><td>0.032</td><td>0.646</td><td>0.073</td><td>0.075</td><td>0.939</td><td>0.006</td><td>0.038</td></tr><tr><td>X6 →X6</td><td>0.470</td><td>0.466</td><td>0.085</td><td>0.088</td><td>0.947</td><td>0.009</td><td>0.031</td><td>0.461</td><td>0.060</td><td>0.062</td><td>0.924</td><td>0.019</td><td>0.023</td></tr><tr><td>X7 ←X7</td><td>0.540</td><td>0.532</td><td>0.086</td><td>0.088</td><td>0.929</td><td>0.014</td><td>0.017</td><td>0.536</td><td>0.062</td><td>0.063</td><td>0.941</td><td>0.007</td><td>0.029</td></tr><tr><td>X8 ←X8</td><td>0.490</td><td>0.488</td><td>0.087</td><td>0.088</td><td>0.936</td><td>0.003</td><td>0.013</td><td>0.488</td><td>0.062</td><td>0.061</td><td>0.946</td><td>0.004</td><td>0.014</td></tr><tr><td>X9 ← X9</td><td>0.520</td><td>0.516</td><td>0.085</td><td>0.086</td><td>0.937</td><td>0.007</td><td>0.014</td><td>0.519</td><td>0.060</td><td>0.064</td><td>0.933</td><td>0.002</td><td>0.057</td></tr><tr><td>X10 ←X10</td><td>0.450</td><td>0.441</td><td>0.086</td><td>0.091</td><td>0.921</td><td>0.021</td><td>0.055</td><td>0.445</td><td>0.062</td><td>0.063</td><td>0.940</td><td>0.011</td><td>0.022</td></tr><tr><td>X11 ←→X11</td><td>0.390</td><td>0.384</td><td>0.085</td><td>0.087</td><td>0.950</td><td>0.015</td><td>0.018</td><td>0.391</td><td>0.061</td><td>0.062</td><td>0.949</td><td>0.003</td><td>0.012</td></tr><tr><td>X12 ←→X12</td><td>0.550</td><td>0.539</td><td>0.088</td><td>0.091</td><td>0.929</td><td>0.021</td><td>0.031</td><td>0.546</td><td>0.063</td><td>0.062</td><td>0.939</td><td>0.007</td><td>0.014</td></tr><tr><td>POS → DES</td><td>0.230</td><td>0.227</td><td>0.111</td><td>0.117</td><td>0.935</td><td>0.014</td><td>0.050</td><td>0.230</td><td>0.079</td><td>0.080</td><td>0.937</td><td>0.002</td><td>0.009</td></tr><tr><td>POS ←→ANG</td><td>0.400</td><td>0.398</td><td>0.103</td><td>0.110</td><td>0.929</td><td>0.004</td><td>0.067</td><td>0.401</td><td>0.073</td><td>0.074</td><td>0.953</td><td>0.002</td><td>0.004</td></tr><tr><td>DES ←→ANG</td><td>0.780</td><td>0.779</td><td>0.071</td><td>0.072</td><td>0.938</td><td>0.001</td><td>0.016</td><td>0.781</td><td>0.050</td><td>0.050</td><td>0.943</td><td>0.002</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 37
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2f5818d8c99b2c66e945c3145aefcfb4b12eca83c3c28efe8db6fd0a65bd4fd.jpg",
+        "table_caption": [
+            "表E-2模型参数检验先验检验力的MonteCarlo分析"
+        ],
+        "table_footnote": [
+            "注：n为501和601时的参数估计情况见下页续表，加粗的表示该路径系数是关键参数；RES：情绪调节自我效能感,PS:领悟社会支持,ECI:情绪创造力，SRG:压力后成长,STR:疫情相关压力,Ser:疫情严重程度,Age:年龄"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">路径</td><td rowspan=\"2\">理论值</td><td colspan=\"7\">模拟样本量n= 301</td><td colspan=\"6\">模拟样本量n = 401</td></tr><tr><td>估计</td><td>均值</td><td>标准误</td><td>覆盖率</td><td>均值</td><td>标准误</td><td>估计</td><td>均值</td><td>标准误</td><td>覆盖率</td><td></td><td>均值</td><td>标准误</td></tr><tr><td></td><td></td><td>均值</td><td>标准误</td><td>均值</td><td></td><td>误差</td><td>误差</td><td>均值</td><td></td><td>标准误</td><td>均值</td><td></td><td>误差</td><td>误差</td></tr><tr><td>RES→SRG</td><td>0.180</td><td>0.179</td><td>0.057</td><td>0.057</td><td>0.951</td><td>0.006</td><td>0.001</td><td>0.181</td><td></td><td>0.049</td><td>0.048</td><td>0.949</td><td>0.001</td><td>0.026</td></tr><tr><td>PSS→SRG</td><td>0.180</td><td>0.183</td><td>0.057</td><td>0.059</td><td>0.942</td><td>0.017</td><td>0.034</td><td>0.180</td><td></td><td>0.049</td><td>0.050</td><td>0.948</td><td>0.002</td><td>0.016</td></tr><tr><td>ECI→SRG</td><td>0.180</td><td>0.180</td><td>0.057</td><td>0.056</td><td>0.948</td><td>0.002</td><td>0.016</td><td>0.179</td><td></td><td>0.049</td><td>0.050</td><td>0.942</td><td>0.006</td><td>0.013</td></tr><tr><td>STR→SRG</td><td>0.038</td><td>0.038</td><td>0.053</td><td>0.053</td><td>0.949</td><td>0.010</td><td>0.009</td><td>0.040</td><td></td><td>0.046</td><td>0.046</td><td>0.950</td><td>0.036</td><td>0.000</td></tr><tr><td>Ser→SRG</td><td>0.038</td><td>0.040</td><td>0.053</td><td>0.053</td><td>0.955</td><td>0.057</td><td>0.001</td><td>0.037</td><td></td><td>0.046</td><td>0.046</td><td>0.959</td><td>0.039</td><td>0.012</td></tr><tr><td>Age→SRG</td><td>0.038</td><td>0.039</td><td>0.053</td><td>0.054</td><td>0.949</td><td>0.023</td><td>0.019</td><td>0.039</td><td></td><td>0.046</td><td>0.046</td><td>0.953</td><td>0.023</td><td>0.008</td></tr><tr><td>PSS→RES</td><td>0.220</td><td>0.220</td><td>0.056</td><td>0.056</td><td>0.955</td><td>0.002</td><td>0.011</td><td>0.221</td><td></td><td>0.049</td><td>0.047</td><td>0.959</td><td>0.006</td><td>0.027</td></tr><tr><td>ECI→RES</td><td>0.220</td><td>0.222</td><td>0.056</td><td>0.056</td><td>0.949</td><td>0.008</td><td>0.005</td><td>0.219</td><td></td><td>0.049</td><td>0.046</td><td>0.960</td><td>0.005</td><td>0.058</td></tr><tr><td>STR→RES</td><td>0.047</td><td>0.047</td><td>0.054</td><td>0.057</td><td>0.940</td><td>0.002</td><td>0.049</td><td>0.045</td><td></td><td>0.047</td><td>0.048</td><td>0.947</td><td>0.031</td><td>0.018</td></tr><tr><td>Ser→RES</td><td>0.047</td><td>0.046</td><td>0.054</td><td>0.054</td><td>0.949</td><td>0.010</td><td>0.006</td><td>0.046</td><td></td><td>0.047</td><td>0.048</td><td>0.947</td><td>0.010</td><td>0.017</td></tr><tr><td>Age→RES</td><td>0.047</td><td>0.045</td><td>0.054</td><td>0.054</td><td>0.955</td><td>0.046</td><td>0.006</td><td>0.048</td><td></td><td>0.047</td><td>0.046</td><td>0.955</td><td>0.031</td><td>0.022</td></tr><tr><td>ECI→PSS</td><td>0.282</td><td>0.282</td><td>0.055</td><td>0.054</td><td>0.961</td><td>0.001</td><td>0.017</td><td>0.283</td><td></td><td>0.048</td><td>0.046</td><td>0.958</td><td>0.002</td><td>0.036</td></tr><tr><td>STR→PSS</td><td>0.060</td><td>0.060</td><td>0.055</td><td>0.056</td><td>0.949</td><td>0.010</td><td>0.008</td><td>0.062</td><td></td><td>0.048</td><td>0.049</td><td>0.951</td><td>0.038</td><td>0.020</td></tr><tr><td>Ser→PSS</td><td>0.060</td><td>0.060</td><td>0.055</td><td>0.056</td><td>0.949</td><td>0.005</td><td>0.003</td><td>0.060</td><td></td><td>0.048</td><td>0.048</td><td>0.943</td><td>0.005</td><td>0.010</td></tr><tr><td>Age→PSS</td><td>0.060</td><td>0.055</td><td>0.055</td><td>0.059</td><td>0.935</td><td>0.077</td><td>0.062</td><td>0.058</td><td></td><td>0.048</td><td>0.048</td><td>0.942</td><td>0.025</td><td>0.003</td></tr></table></body></html>",
+        "page_idx": 38
+    },
+    {
+        "type": "table",
+        "img_path": "images/3267724d4c6ec5520170c8d6efcf692743151a151b478e06c32465061d4c092f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">路径</td><td rowspan=\"2\">理论值</td><td colspan=\"6\">模拟样本量n = 501</td><td colspan=\"6\">模拟样本量n= 601</td></tr><tr><td>估计</td><td>均值</td><td>标准误</td><td>覆盖率</td><td>均值</td><td>标准误</td><td>估计</td><td>均值</td><td>估计</td><td>均值</td><td>均值</td><td>标准误</td></tr><tr><td></td><td></td><td>均值</td><td>标准误</td><td>均值</td><td></td><td>误差</td><td>误差</td><td>均值</td><td>标准误</td><td>均值</td><td>标准误</td><td>误差</td><td>误差</td></tr><tr><td>RES→SRG</td><td>0.180</td><td>0.179</td><td>0.044</td><td>0.043</td><td>0.952</td><td>0.008</td><td>0.013</td><td>0.178</td><td>0.040</td><td>0.041</td><td>0.940</td><td>0.011</td><td>0.022</td></tr><tr><td>PSS→SRG</td><td>0.180</td><td>0.180</td><td>0.044</td><td>0.046</td><td>0.943</td><td>0.003</td><td>0.035</td><td>0.182</td><td>0.040</td><td>0.041</td><td>0.944</td><td>0.009</td><td>0.023</td></tr><tr><td>ECI→SRG</td><td>0.180</td><td>0.183</td><td>0.044</td><td>0.043</td><td>0.952</td><td>0.015</td><td>0.019</td><td>0.180</td><td>0.040</td><td>0.040</td><td>0.941</td><td>0.001</td><td>0.000</td></tr><tr><td>STR→SRG</td><td>0.038</td><td>0.038</td><td>0.041</td><td>0.040</td><td>0.956</td><td>0.017</td><td>0.019</td><td>0.039</td><td>0.038</td><td>0.038</td><td>0.951</td><td>0.009</td><td>0.006</td></tr><tr><td>Ser→SRG</td><td>0.038</td><td>0.039</td><td>0.041</td><td>0.041</td><td>0.954</td><td>0.028</td><td>0.002</td><td>0.038</td><td>0.038</td><td>0.039</td><td>0.947</td><td>0.005</td><td>0.031</td></tr><tr><td>Age→SRG</td><td>0.038</td><td>0.041</td><td>0.041</td><td>0.041</td><td>0.957</td><td>0.064</td><td>0.013</td><td>0.039</td><td>0.038</td><td>0.037</td><td>0.947</td><td>0.015</td><td>0.009</td></tr><tr><td>PSS→RES</td><td>0.220</td><td>0.221</td><td>0.044</td><td>0.042</td><td>0.962</td><td>0.003</td><td>0.037</td><td>0.218</td><td>0.040</td><td>0.041</td><td>0.951</td><td>0.010</td><td>0.018</td></tr><tr><td>ECI→RES</td><td>0.220</td><td>0.221</td><td>0.044</td><td>0.042</td><td>0.958</td><td>0.006</td><td>0.045</td><td>0.220</td><td>0.040</td><td>0.039</td><td>0.952</td><td>0.002</td><td>0.029</td></tr><tr><td>STR→RES</td><td>0.047</td><td>0.050</td><td>0.042</td><td>0.043</td><td>0.947</td><td>0.067</td><td>0.020</td><td>0.047</td><td>0.038</td><td>0.038</td><td>0.950</td><td>0.005</td><td>0.019</td></tr><tr><td>Ser→RES</td><td>0.047</td><td>0.045</td><td>0.042</td><td>0.041</td><td>0.958</td><td>0.029</td><td>0.010</td><td>0.046</td><td>0.038</td><td>0.039</td><td>0.943</td><td>0.017</td><td>0.009</td></tr><tr><td>Age→RES</td><td>0.047</td><td>0.047</td><td>0.042</td><td>0.042</td><td>0.947</td><td>0.013</td><td>0.003</td><td>0.048</td><td>0.038</td><td>0.038</td><td>0.955</td><td>0.038</td><td>0.005</td></tr><tr><td>ECI→PSS</td><td>0.282</td><td>0.282</td><td>0.043</td><td>0.042</td><td>0.948</td><td>0.001</td><td>0.010</td><td>0.280</td><td>0.039</td><td>0.037</td><td>0.963</td><td>0.008</td><td>0.049</td></tr><tr><td>STR→PSS</td><td>0.060</td><td>0.059</td><td>0.043</td><td>0.042</td><td>0.956</td><td>0.018</td><td>0.023</td><td>0.061</td><td>0.039</td><td>0.040</td><td>0.947</td><td>0.012</td><td>0.011</td></tr><tr><td>Ser→PSS</td><td>0.060</td><td>0.059</td><td>0.043</td><td>0.043</td><td>0.946 0.945</td><td>0.010</td><td>0.010</td><td>0.061</td><td>0.039</td><td>0.041</td><td>0.945</td><td>0.012</td><td>0.041</td></tr><tr><td>Age→PSS</td><td>0.060</td><td>0.060</td><td>0.043</td><td>0.043</td><td></td><td>0.000</td><td>0.000</td><td>0.059</td><td>0.039</td><td>0.040</td><td>0.948</td><td>0.009</td><td>0.029</td></tr></table></body></html>",
+        "page_idx": 39
+    }
+]

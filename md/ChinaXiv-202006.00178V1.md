@@ -1,0 +1,162 @@
+# 黄河沉积物微塑料污染和表征
+
+龚喜龙}²，张道勇1,，潘响亮1,3（1．中国科学院新疆生态与地理研究所新疆干旱区环境污染与生态修复重点实验室,新疆 乌鲁木齐830011;2．中国科学院大学,北京100049；3．浙江工业大学环境学院,浙江 杭州310014)
+
+摘要：微塑料( $< 5 ~ \mathrm { m m }$ )对于环境的污染越来越受到社会的关注，本文以黄河流域采集的沉积物为研究对象，通过密度浮选的方式提取其中的微塑料,统计了沉积物中微塑料的丰度、类型、颜色和粒径分布,同时,利用傅里叶红外光谱仪和扫描电镜－能谱仪（SEM-EDS)分析微塑料的组成和表面形貌特征。结果表明： $\textcircled{1}$ 微塑料的丰度为$1 5 \sim 6 1 5$ 个： $\mathbf { k g } ^ { - 1 }$ （干沉积物),下游沉积物中微塑料的平均丰度高于中、上游。主要包括碎片类、发泡类、薄膜类和纤维类4种类型，其中碎片类所占的含量最高，为 $4 3 . 3 5 \%$ ,其次是发泡类塑料,约占 $3 4 . 0 8 \%$ ,薄膜类和纤维类相对较少，两者之和为 $2 0 . 5 6 \%$ 。 $\textcircled{2}$ 不同形状塑料的红外光谱分析表明：碎片类微塑料的主要成分是氧化聚乙烯，薄膜类的主要成分是聚丙烯,发泡类和纤维类微塑料的主要成分分别是聚苯乙烯和聚乙烯。 $\textcircled{3}$ 微塑料的颜色分为透明、白色、彩色和黑色4种,其中透明和白色所占的比例较高，分别为 $4 3 . 2 8 \%$ 和 $3 4 . 5 5 \%$ 。微塑料的粒径特征表明，其粒径范围主要位于 $1 \sim 4 ~ \mathrm { m m }$ ，占比为 $6 4 . 8 \%$ ， $< 1 \ \mathrm { m m }$ 的微塑料所占比例为 $1 6 . 6 2 \%$ 。 $\textcircled{4}$ 微塑料表面形貌特征表现为,微塑料有不同程度的老化痕迹,具有表面粗糙、孔隙多、裂隙明显等特点。
+
+关键词：沉积物；微塑料；丰度；粒径；表面形貌；黄河
+
+虽然塑料的诞生仅仅一个多世纪[1],但是由于价格便宜,坚固耐用,重量轻,易于生产[2]等优点，使得它的使用量在逐年攀升，从2005年的 $2 . 3 0 \times$ $1 0 ^ { 8 } \mathrm { ~ t ~ }$ 增长到2015 年的 $3 . 2 2 \times { 1 0 } ^ { 8 } \mathrm { ~ t ~ } , 1 0$ a 间增长了$4 0 \%$ ,其中中国每年生产的塑料占全球的 $2 7 . 8 \%$ ，是塑料生产量最大的国家[3]。据国家环境保护部统计，在2011年，我国仅一次性塑料饭盒及各种泡沫包装就高达 $9 . 5 0 \times 1 0 ^ { 7 }$ t,报废家电、汽车废旧塑料 $6 . 5 0 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ,再加上其他废弃塑料,总量已近$2 . 0 0 \times 1 0 ^ { 8 } \mathrm { ~ t ~ }$ ,而回收总量仅为 $1 . 5 0 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ,回收率不及 $1 0 \% ^ { [ 4 ] }$ 。据估计,每年有 $1 . 1 5 \times 1 0 ^ { 6 } \sim 2 . 4 1 \times 1 0 ^ { 6 }$ t的塑料碎片从世界各个河流运移到海洋中，塑料碎片广泛存在于世界各地,包括极地[5]、深海[6、远洋[7]和海岸线上[8]。这些塑料在迁移过程中,在物理、化学等作用下分解成更加微小的塑料碎片或颗粒[9],当其直径小于 $5 \ \mathrm { m m }$ 时,被定义为微塑料。
+
+近年来，海洋环境的微塑料污染越来越受到人们的关注，国内外对于河口和海岸带沉积物中微塑料开展了研究,例如在澳大利亚东南部海岸[10]、墨西哥湾北部河口[11]、新加坡沿海地区[12]以及夏威夷Kamilo海滩[13]等。国内研究的地区有渤海和黄海海岸带[14]、广西钦州湾沙滩[15]、长江的河口[16]等。随着研究的深入，也有不少学者开始研究内陆的河流及湖泊沉积物的微塑料污染，如南非的Bloukrans 河流[17]、英国泰晤士河流域[18]、我国长江中下游[19]等地区。本研究以黄河流域为研究对象,从采集回来的沉积物样品中分离出微塑料，然后根据微塑料颗粒形貌、大小、聚合物类型进行计数和分类，同时利用傅里叶变换红外光谱仪（ATR-FTIR)确定微塑料的类型，通过扫描电镜观察野外微塑料样品的表面形态。揭示了微塑料在黄河流域沉积物中的污染情况。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+黄河是世界上第5大长河，中国的第2长河，仅次于长江。它发源于青海省青藏高原的巴颜喀拉山脉，呈“几"字形。流经青海、甘肃、宁夏、内蒙古、山西、陕西、河南及山东8个省，最后流入渤海。黄河流域位于 $9 6 ^ { \circ } \sim 1 1 9 ^ { \circ } \mathrm { E } \ : , 3 2 ^ { \circ } \sim 4 2 ^ { \circ } \mathrm { N }$ 之间，东西长约$1 ~ 9 0 0 ~ \mathrm { k m }$ ,南北宽约 $1 ~ 1 0 0 ~ \mathrm { k m }$ 。流域面积 $7 . 9 5 \times 1 0 ^ { 5 }$ $ { \mathrm { k m } } ^ { 2 }$ 。地势总体西高东低,土壤类型有草甸土、寒漠土、黄绵土、栗钙土、灰褐土、棕壤等[20]。根据流域形成发育的地理、地质条件及水文情况，黄河干流河道可分为上、中、下游。其中河源至内蒙古托克托县的河口镇为上游,河道长 $3 \ 4 7 1 . 6 \ \mathrm { k m }$ ,流域面积$4 . 2 8 \times 1 0 ^ { 5 } ~ \mathrm { k m } ^ { 2 }$ ，占全河流域面积的 $5 3 . 8 \%$ 。河口镇至河南郑州市的桃花峪为中游，中游河段长1206.4$\mathrm { k m }$ ,流域面积 $3 . 4 4 \times 1 0 ^ { 5 } ~ \mathrm { k m } ^ { 2 }$ ，占全流域面积的$4 3 . 3 \%$ 。桃花峪至入海口为下游。流域面积$2 . 3 0 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,仅占全流域总面积的 $3 \%$ 。黄河沿岸经过许多城市，这些城市的污水以及周围农田用水有可能流入黄河，而环境的塑料垃圾也可能随着径流进入污水渠或农田用水系统，进而对黄河造成污染。此外，农用肥料的编织袋以及地膜的随意丢弃，也成为微塑料污染的潜在来源。本文的研究区域从黄河上游的甘肃省开始一直延续到下游的山东省（图1），主要是针对黄河干流沉积物中微塑料的调查。
+
+![](images/9f7af1a3cf40b562ce2284e3d9982292f89c8f817287f379478da731313f1f6a.jpg)  
+图1研究区采样点分布  
+Fig.1Sampling sites along the Yellow River
+
+# 1.2微塑料样品的采集和分离
+
+1.2.1微塑料样品采集点分布及采集方法本研究选用不锈钢采样铲在河流两岸随机均匀采集表面约 $2 \ \mathrm { c m }$ 深的沉积物样品，采用多点混合采集，将样品装进采样袋中，运往实验室，放置于无污染的避光处保存，并尽快处理。在实验室中，将每个采样点的样品分置于不同的玻璃培养血中，用铝箔纸覆盖防止室内污染，在完全干燥后，然后称取 $5 0 0 \ \mathrm { g }$ 样品，用孔径为10目的不锈钢网进行初筛，以便挑选出其中较大的碎石和树枝，除碎石和树枝外其余部分均保留。
+
+1.2.2微塑料样品的分离从干燥后的 $5 0 0 \mathrm { ~ g ~ }$ 样品中随机称取 $2 0 0 \ \mathrm { g }$ ，置于 $2 \mathrm { ~ L ~ }$ 的玻璃烧杯中，然后加入饱和NaCl溶液至 $2 \mathrm { ~ L ~ }$ ,将混合溶液用玻璃棒搅拌 $5 ~ \mathrm { m i n }$ ,烧杯表面用铝箔覆盖并静置 $2 4 \mathrm { ~ h ~ }$ ,以进行密度分离。静置后将上清液通过 $4 ~ \mu \mathrm { m }$ 的定量滤纸真空过滤，得到的滤纸放入一个干净的培养皿中，并盖上盖子放入烘箱中 $6 0 \ \mathrm { { ^ \circ C } }$ 烘干，以便进一步观察。重复浮选多次，以便从沉积物中最大程度的获取微塑料。据笔者前期实验，以低密度聚乙烯微塑料为对象，该方法的回收率在 $8 5 \%$ 以上。
+
+1.2.3微塑料的挑选与鉴定借助10 倍放大镜对微塑料进行挑选，并按照颜色、形状等进行分类，计数。将分离挑选后的微塑料样品逐个排列在黑色卡纸上拍照，然后利用ImageJ软件对所得到的照片进行影像处理，从而得到样品数量及粒径（以最长边为准)的统计。
+
+为了消除塑料表面附着的大量杂质对红外光谱鉴定的影响，在浮选干燥结束后，采用 $1 0 \% \mathrm { K O H }$ ,在$6 5 ~ \mathrm { { ^ { \circ } C } }$ 和 $8 0 \mathrm { ~ r ~ } \cdot \mathrm { ~ m i n } ^ { - 1 }$ 下振荡 $2 4 \mathrm { ~ h ~ }$ 进行消解。消解后的塑料用去离子水洗净，置于干净的培养血中，$6 0 ~ \mathrm { { ^ { \circ } C } }$ 烘干。采用衰减全反射傅里叶变换红外光谱仪（BURKER）（型号TENSOR27，扫描16次，分辨率 $4 ~ \mathrm { c m } ^ { - 1 }$ ,波长范围 $6 0 0 \sim 4 ~ 0 0 0 ~ \mathrm { c m } ^ { - 1 }$ )对微塑料样品进行鉴定与表征。将挑选的微塑料采用扫描电子显微镜(ZeissSuper55VP,Oberkochen,德国)及能谱仪（SEM-EDS)观测微观形貌，并对微塑料的表面进行元素组成的鉴定与分析。
+
+# 2结果与讨论
+
+# 2.1 微塑料的丰度
+
+黄河主干流微塑料的丰度（图2）为 $1 5 \sim 6 1 5$ 个： $\mathbf { k g } ^ { - 1 }$ (沉积物干重计)。结果表明，各个取样点的微塑料丰度之间存在显著差异( $\textstyle P < 0 . 0 5 )$ 。H1的丰度最高，检测到纤维类和大量的碎片类塑料，采样点周围有抽水站的存在，人类活动比较密集，易受到微塑料的污染；H2的丰度也很高，检测到薄膜类和发泡类的塑料，部分发泡类塑料表面变黄，可能是风化的结果；同时可以看出H6采样点微塑料的丰度明显高于周围的采样点，因为采样点周围有渔船的存在，采集到大量捕鱼时使用的
+
+![](images/d46dec2c21aa7a8361a2ae42cddd110f7abf4473fb6a7be9e12c112b29dd5eb6.jpg)  
+图2各个采样点微塑料的丰度  
+Fig.2Abundance of microplastics at diferent sampling sites
+
+# 表1研究区域与文献报道的微塑料丰度比较
+
+Tab.1Comparisons of microplastics abundance range between research areas and literature reports   
+
+<html><body><table><tr><td>研究区域</td><td>微塑料粒径 大小/mm</td><td>微塑料丰度 /（个·kg-1)</td><td>文献 来源</td></tr><tr><td>太湖沉积物</td><td>0.005~5</td><td>11~234.6</td><td>[21]</td></tr><tr><td>伊利湖周围的海滩</td><td>0.07~4</td><td>50~146</td><td>[22]</td></tr><tr><td>广州市珠江流域沉积物</td><td>0.02~5</td><td>80~9597</td><td>[23]</td></tr><tr><td>黄河沉积物</td><td><5</td><td>15~615</td><td>本研究</td></tr></table></body></html>
+
+发泡类塑料和纤维。
+
+研究的结果与国内外学者相比较（表1）。Su等[21]在太湖沉积物中调查的微塑料丰度是 $1 1 \sim$ 234.6个· $\mathbf { k g } ^ { - 1 }$ ;Dean 等[22]在伊利湖周围的海滩中得到微塑料的丰度是 $5 0 \sim 1 4 6$ 个： $\mathbf { k g } ^ { - 1 }$ ；而Lin等[23]对广州市珠江流域沉积物的调查结果显示,微塑料的丰度是 $8 0 \sim 9 ~ 5 9 7$ 个： $\mathbf { k g } ^ { - 1 }$ 。通过对比可以发现，黄河流域沉积物的微塑料丰度在中等偏上的水平。
+
+上、中、下游沉积物微塑料的平均丰度如表2所示。上游微塑料的丰度为 $( 4 3 . 5 7 \pm 3 4 . 4 9 )$ 个：$\mathbf { k g } ^ { - 1 }$ ,中游微塑料的丰度为 $\left( 5 4 . 2 9 \pm 6 9 . 9 7 \right.$ ）个：$\mathbf { k g } ^ { - 1 }$ ,而下游微塑料的丰度为 $( 2 7 3 . 7 5 \pm 3 0 6 . 2 8 \$ ）个： $\mathbf { k g } ^ { - 1 }$ ,可以看出下游微塑料的丰度明显高于上游和中游（单因素分析， $\textstyle P < 0 . 0 5 { \bigl . }$ ），并且微塑料的丰度呈现由上游至下游逐渐增加的趋势。一方面是上、中游的塑料可能随着河水的流动向卜游迁移，下
+
+# 表2黄河上、中、下游微塑料的平均丰度
+
+Tab.2Average abundance of microplastics in upper, middle and lower reaches of the Yellow River   
+
+<html><body><table><tr><td>名称</td><td>H1 ~ H4 （下游）</td><td>H5~H11 （中游)</td><td>H12~H18 （上游）</td></tr><tr><td>平均丰度 /（个·kg-1)</td><td>273.75 ±306.28 54.29 ±69.97</td><td></td><td>43.57±34.49</td></tr></table></body></html>
+
+游容易富集更多的塑料；另一方面，下游的城市处于沿海地带，经济更加发达，受人类活动的影响严重，微塑料的污染也更加严重。
+
+# 2.2 微塑料的类型
+
+微塑料的形状影响着其在水生环境中的迁移（如漂浮和沉降），因此，研究微塑料的形态具有重要的意义。本文按其形貌或用途分为碎片类、发泡类、薄膜类和纤维类4种类型（图3）。实验所得微塑料类型与国内其他学者相比，结果具有一定相似性和差异性,周倩等[24-25]发现的塑料有颗粒类、碎片类、薄膜类、纤维类、发泡类，在珠江口地区的研究则存在着大量的发泡类(数量占 $90 \%$ 以上）碎片类以及树脂颗粒，但未涉及到纤维、薄膜等类型
+
+对于微塑料的形状，碎片类所占的比例最高（图4），为 $4 3 . 3 5 \%$ ，其次是发泡类塑料，约占$3 4 . 0 8 \%$ ，薄膜类和纤维类相对较少，两者之和为$2 0 . 5 6 \%$ 。本文的研究结果与国内外其他学者的研究相比,简敏菲等[26]研究分类中碎片类微塑料比例最高，达到 $6 6 . 7 \%$ ,但是薄膜类比例与笔者的研究有一定的差别,约为 $2 5 \%$ ，高于纤维类和发泡类的比例。Lin等[23]在珠江沉积物样品中发现了碎片类、纤维类和薄膜类3种类型的微塑料，其中纤维类所占的比例相对较高,为 $4 3 . 3 \%$ 。Karthik 等[27]将印度东南沿海海滩的微塑料分为碎片、泡沫、颗粒、薄膜和纤维5种类型，其中碎片的含量最高，其次是纤维和泡沫，而颗粒和薄膜所占的比例较小。Hurl-ey 等[28]在英国曼彻斯特伊尔韦尔河沉积物中发现碎片类塑料含量最高，同时提出了微珠作为一种形貌的分类类型，所占的比例为 $2 9 \%$ ,其次是纤维，比例为 $2 4 \%$ ,将其余的类型作为一类，仅含 $3 \%$ 0
+
+挑选上述4类典型微塑料进行红外光谱分析，得到的结果与标准红外光谱进行对比（图5），图5a为碎片类塑料的红外光谱图，成分主要为氧化聚乙烯；图5b为薄膜类微塑料的红外光谱分析图，成分主要为聚丙烯;图5c为发泡类微塑料的红外光谱图，成分主要为聚苯乙烯；纤维类微塑料的成分主要为聚乙烯（图5d）。由于4种红外光谱图并不能完全代表相应类型中全部微塑料的聚合物成分，以及不同类型微塑料来源差异性，本文的鉴定结果仅为塑料类型的确定提供一定的参考。Pan 等[29]使用显微拉曼光谱鉴定采集的微塑料样品的类型，得出微塑料的种类包含聚乙烯、聚丙烯和尼龙3类，与笔者的研究结果有一定的差别。
+
+![](images/7e7c7344c766829b727d2fedce0dd0ff2532b3ea8ea2924beb5bd53261f1de0d.jpg)  
+图3沉积物中不同类型微塑料 Fig.3Different types of microplastics in sediments
+
+![](images/a1a4b547c6d632d170238296faeaaa11e1c0867bb6314a6bf5491970242772fa.jpg)  
+图4黄河沉积物中微塑料的类型 Fig.4Types of microplastics in the sediments of the Yellow River
+
+# 2.3微塑料的颜色和粒径大小分布
+
+微塑料的颜色可能使水生生物将其误认为食物进行摄取[30],因此,研究微塑料的颜色有一定的意义。本文将黄河沉积物分离的微塑料分为4种颜色（透明、白色、彩色和黑色），其中透明和白色所占的比例较高（图6），分别为 $4 3 . 2 8 \%$ 和 $3 4 . 5 5 \%$ ，黑色占的比例最少，只有 $5 . 9 \%$ 。与笔者的研究结果相比,Corcoran 等[31]对加拿大Ontario 湖的微塑料调查显示，大部分微塑料是白色或透明类型，与笔者的研究结果较为相似。而Veerasingam 等[32]对印度Chennai海岸微塑料的研究结果表明，白色的塑料最多，其次是黄色，由于受各种环境因素的影响，塑料的颜色会发生变化，尤其是酚类抗氧剂等添加剂是变色的主要原因，酚类抗氧剂能抑制紫外线和高温聚合产生的自由基，防止聚合物氧化。但酚类抗氧化剂自身会发生反应，形成具有引起聚合物变黄的醌类结构的副产物[33-34]。黄色和棕色的出现可能是由于光氧化风化的结果,并且在一定程度上反应了微塑料在海洋中存在的时间[13]。Yuan 等[35]将我国鄱阳湖沉积物的微塑料分为白色、黑色、彩色和透明4种颜色，其中彩色所占的比例最高，为$3 6 . 6 \%$ ,与笔者的研究结果有一定的差别,笔者的研
+
+![](images/b1b3b99db443bbd915b1f40b261c229a3d26fd4acd5aa45569a375ca74f4d88a.jpg)  
+Fig.5The FTIR spectra of different microplastics samples in sediments
+
+![](images/c15be293b1fd91d822f61906c5ed7d6e846b215734137761aae778b2fa168071.jpg)  
+图6黄河沉积物中微塑料的颜色分类 Fig.6Color classification of microplastics in the sediments of the Yellow River
+
+![](images/221f14edc7a3be9db0e6b1746d9246df8f957f4c483360ed316a73fb68c375e4.jpg)  
+图5沉积物中不同类型微塑料的红外光谱图  
+图7黄河沉积物中微塑料的粒径分布 Fig.7Particle size distribution of microplastics in the sediments of the Yellow River
+
+究中彩色只有 $1 5 . 7 3 \%$ 0
+
+微塑料除了根据其形貌进行分类外，还可以根据其粒级的大小进行分类（图7），将调查的结果采用5种等级进行分类，微塑料的粒径范围主要为$1 \sim 4 ~ \mathrm { m m }$ ，占比为 $6 4 . 8 \%$ ,其中 $1 \sim 2 \ \mathrm { m m }$ 粒径范围的微塑料占比相对较高，为 $2 8 . 1 \%$ ，将 $< 1 \ \mathrm { m m }$ 的微塑料作为一个粒径范围，占整体的 $1 6 . 6 2 \%$ ，由于微塑料粒径越小，越易进入生物体内，研究粒径 $\mathbf { \Psi } < 1$ $\mathbf { m } \mathbf { m }$ 的微塑料具有更重要的生态学意义[36]。Fok等[25]对广东沿海潮滩的微塑料调查中显示， $8 3 . 5 \%$ 的粒径范围介于 $0 . 3 1 5 \sim 2 ~ \mathrm { m m }$ 之间，Lin 等[23]对珠江沉积物中微塑料的调查结果显示， $0 . 0 2 \sim 1 \ \mathrm { m m }$ 粒径范围的占比达到 $6 5 . 3 \%$ ，与本研究的结果大相径庭。也有研究发现，沉积物中粒径介于 $3 \sim 5 \ \mathrm { m m }$ 的微塑料占比高达 $6 0 \%$ [37]。这是由于不同的来源、降解程度、聚合物类型等的差异，影响到各自微塑料调查区域内的粒径分布状况。
+
+# 2.4微塑料的微观特征
+
+2.4.1微塑料表面形貌特征分离得到的微塑料具有复杂的表面形貌特征，图8a为碎片类微塑料表面，沿边缘风化的痕迹明显，表面裂隙较多，且存在大量的沙土类物质;图8b为发泡类微塑料，表面有一定程度的撕裂，具有明显的褶皱，并形成发达的孔隙结构;图8c为薄膜类塑料，质地轻薄，表面风化程度高；图8d为纤维类塑料，表面破损程度严重，表面存在一定数量的孔隙。总体上看，不同的微塑料碎片表面形貌存在一定的差异性，具有裂隙明显、空隙多、表面粗糙等特点。这可能与自身所处环境的光照、水力侵蚀等因素有关，风化后塑料表面裂缝的出现以及自身性质的改变，使得微塑料对于环境中污染物的富集能力变得更强，进而加深对周围生态环境的影响。
+
+2.4.2微塑料表面的组分特征微塑料在自然水体中受到水土的机械扰动和紫外线照射等影响，致使塑料表现出不同程度的老化，表面会出现裂纹，使得水体中一些矿物质、有机质或藻类等吸附到塑料的表面。通过能谱仪(EDS)对微塑料表面的元素组成进行分析，结果如图9所示。能谱分析结果显示，塑料表面有 $\mathrm { S i } \ 、 \mathrm { F e } \ 、 \mathrm { A l } \ 、 \mathrm { M g } \ 、 \mathrm { K }$ 等元素，其中 Si 以 $\mathrm { S i O } _ { 2 }$ 的形式存在，是黏土矿物的主要成分，而Fe $\mathrm { , A l , M g }$ 等以金属氧化物的形式存在，如针铁矿、赤铁矿、铝土矿等形态存在。与其他研究者相比，Corcoran等[31]对沉积物中分离的聚乙烯和聚丙烯的红外光谱鉴定结果显示，塑料的表面有碳酸钙、石英和云母的存在，Lagarde等[38]研究了聚丙烯与淡水微藻的作用,结果显示微藻会吸附在聚丙烯塑料的表面。塑料不仅可以吸附黏土矿物，还可以吸附环境中的有机污染物和重金属。Hwang 等[39]用微米级别的聚乙烯、聚苯乙烯和聚丙烯作为吸附剂，发现这3种塑料对8种多环芳烃均表现出较高的吸附性能，表明微塑料可以吸附有机污染物。Brennecke等[40]在研究聚苯乙烯和老化的聚氯乙烯对防腐油漆中浸出的铜和锌这两种重金属的吸附作用时发现，微塑料吸附的重金属浓度远高于周围海水中浸出的重金属浓度，而且老化的聚氯乙烯对铜的吸附能力比聚苯乙烯更强，表明老化的塑料具有更高的生态风险。Marsic-Luic等[41]调查了克罗地亚维斯岛海滩中塑料颗粒的痕量金属浓度，结果显示该调查区域内海水中重金属的浓度低于塑料颗粒中提取到的金属浓度，表明微塑料会从海洋环境中吸附并富集重金属，进一步加重了塑料对于周围环境的危害。
+
+![](images/c95ec436c04878ccca2410c384c46d44bfe1045f0c0def95ede53ce53489bbfd.jpg)  
+图8黄河沉积物中微塑料表面形貌的扫描电镜图
+
+![](images/629aa0ffd4bcd7aefb6f9ba50f93f0e9dcb7f972feb9eb6a27952ef562026586.jpg)  
+Fig.8Scanning electron micrographs（SEM）of microplastics in the sediments of the Yelow River   
+图9黄河沉积物中典型微塑料的 EDS-Mapping 图  
+Fig.9EDS-Mapping analysis of the typical microplastics in the sediments of the Yellw River
+
+# 3结论
+
+（1）黄河沉积物中的微塑料丰度为15～615个： $\mathbf { k g } ^ { - 1 }$ （干沉积物），其中下游微塑料的丰度明显高于中上游，上游微塑料的平均丰度最低，只有0 $( 4 3 . 5 7 \pm 3 4 . 4 9 )$ 个： $\mathbf { k g } ^ { - 1 }$ 。究其原因,一方面,中上游微塑料随水流迁移易在下流地区滞留；另一方面，下游人类活动所产生的塑料垃圾在环境条件的作用下分解成微塑料，留在该区域。(2）微塑料的类型分为碎片类、发泡类、薄膜类和纤维类4种，通过傅里叶红外光谱分析聚合物的成分，鉴定的结果依次为氧化聚乙烯、聚苯乙烯、聚丙烯和聚乙烯。（3）微塑料的颜色以透明和白色为主，微塑料的粒径主要在 $1 \sim 4 ~ \mathrm { m m }$ ,占整体的 $6 4 . 8 \%$ 。（4）通过扫描电镜分析微塑料表面，发现微塑料表面出现不同程度的风化，具有裂隙多，空隙发达等特点，使得污染物更容易在塑料表面聚集，能谱仪(EDS)分析出塑料表面有 $\mathrm { S i } \ 、 \mathrm { F e } \ 、 \mathrm { A l } \ 、 \mathrm { M g } \ 、 \mathrm { K }$ 等元素，可能是塑料表面吸附黏土矿物的结果。
+
+参考文献（References）:   
+[1]Garrity S D,Levings S C.Marine debris along the Caribbean coast of Panama[J].Marine Pollution Bulletin,1993,26(6）:317 -324.   
+[2]Thompson R C,Swan S H,Moore C J,et al. Our plastic age[J]. Philosophical Transactions of the Royal Society B: Biological Sciences,2009,364:1973 - 1976.   
+[3]Europe P.An analysis of European plastics production,demand and waste data[J].Plastics-The Facts,2016.   
+[4］黄璐,郑楠.我国废弃塑料再生循环利用产业发展现状分析 [J].橡塑资源利用,2015(6）:27-33.[Huang Lu,Zheng Nan. Research progress on resource utilization of waste plastic[J].Rubber & Plastics Resources Utilization,2015(6）:27-33.]   
+[5]Obbard R W,Sadri S,Ying Q W,et al.Global warming releases microplastic legacy frozen in Arctic Sea ice[J]. Earths Future, 2014,2(6) :315 - 320.   
+[6]WoodallL C,Sanchez-Vidal A,Canals M,et al. The deep sea is a major sink for microplastic debris[J].Royal Society Open Science,2014,1(4):140317.   
+[7]Barnes D KA,Francois G,Thompson R C,et al. Accumulation and fragmentation of plastic debris in global environments[J].Philosophical Transactions of the Royal Society,2009,364（1526）： 1985 -1998.   
+[8]Mark Anthony B,Phillip C,Niven S J,et al. Accumulation of microplastic on shorelines woldwide:Sources and sinks[J]. Environmental Science & Technology,2011,45(21）:9175 -9179.   
+[9]Thompson R C,Ylva O,Mitchell RP,et al.Lost at sea: Where is all the plastic？[J].Science,2004,304（5672）:838.   
+[10]Ling SD,Sinclair M,Levi C J,et al. Ubiquity of microplastics in coastal seafloor sediments[J].Marine Pollution Bulletin,2017,121 (1-2):104 -110.   
+[11]Wessel C C,Lockridge G R,Battiste D,et al. Abundance and characteristics of microplastics in beach sediments:Insights into microplastic accumulation in Northern Gulf of Mexico Estuaries[J].Marine Pollution Bulletin,2016,109(1）:178-183.   
+[12]Ng K,Obbard J.Prevalence of microplastics in Singapore's coastal marine environment[J]. Marine Pollution Bulletin,2006,52（7）： 761 -767.   
+[13]Carson H S,Colbert SL,Kaylor M J,et al. Small plastic debris changes water movement and heat transfer through beach sediments [J].Marine Pollution Bulletin,2011,62(8）:1708-1713.   
+[14] Zhao J,Ran W,Teng J,et al.Microplastic polution in sediments from the Bohai Sea and the Yellow Sea,China[J].Science of The Total Environment,2018,640 - 641:637 -645.   
+[15]LiJ,Zhang H,Zhang K,et al. Characterization,source,and retention of microplastic in sandy beaches and mangrove wetlands of the Qinzhou Bay,China[J].Marine Pollution Bulletin,2018,136:401 -406.   
+[16]Peng G,Zhu B,Yang D,et al. Microplastics in sediments of the Changjiang Estuary,China[J].Environmental Pollution,2017, 225:283 -290.   
+[17] Nel H A,Dalu T,Wasserman R J. Sinks and sources:Assessing microplastic abundance in river sediment and deposit feeders in an Austral temperate urban river system[J].Science of The Total Environment,2018,612:950-956.   
+[18]Horton A A,Svendsen C,Williams RJ,et al.Large microplastic particles in sediments of tributaries of the River Thames,UK-Abundance,sources and methods for effective quantification[J].Marine Pollution Bulletin,2017,114(1):218- 226.   
+[19]Xiong X,Wu C,Elser JJ,et al. Occurrence and fate of microplastic debris in middle and lower reaches of the Yangtze River;From inland to the sea[J].Science of The Total Environment,2019,659: 66-73.   
+[20］裴志林,杨勤科,王春梅,等.黄河上游植被覆盖度空间分布特 征及其影响因素［J].干旱区研究,2019,36（3）：546-555. [Pei Zhilin,Yang Qinke,Wang Chunmei,et al.Spatialdistribution of vegetation coverage and its affecting factors in the upper reaches of the Yellow River[J].Arid Zone Research,2019,36(3）:546 - 555.]   
+[21]Su L,Xue Y,Li L,et al. Microplastics in Taihu Lake,China[J]. Environmental Pollution,2016,216:711-719.   
+[22]Dean B Y,Corcoran PL,Helm PA.Factors influencing microplastic abundances in nearshore,tributary and beach sediments along the Ontario shoreline of Lake Erie[J]. Journal of Great Lakes Research,2018,44(5）:1002-1009.   
+[23]Lin L,Zuo L Z,Peng JP,et al.Occurrence and distribution of microplastics in an urban river:A case study in the Pearl River along Guangzhou City,China[J].Science of The Total Environment, 2018,644;375 - 381.   
+[24］周倩,章海波,李远 等.海岸环境中微塑料污染及其生态效应 研究进展[J].科学通报,2015,60（30）：3210－3220.［Zhou Qian,Zhang Haibo,Li Yuan,et al. Progress on microplastics pollution and itsecological effects in the coastal environment[J].Chinese Science Bulletion,2015,60(30）:3210 -3220.]   
+[25]Fok L,Cheung P K,Tang G,et al. Size distribution of stranded small plastic debris on the coast of Guangdong,South China[J]. Environmental Pollution,2017,220:407 -412.   
+[26］简敏菲,周隆胤,厚平,等.鄱阳湖-饶河入湖段湿地底泥中微 塑料的分离及其表面形貌特征［J].环境科学学报,2018,38 (2）:579-586.[Jian Minfei,ZhouLongyin,Hou Ping,etal.Separation and microscopic study of microplastics from the sediments of the wetland in the estuary of Raohe River of Poyang Lake[J]. Acta Scientiae Circumstantiae,2018,38(2）:579 -586.]   
+[27]Karthik R,Robin R,Purvaja R,et al. Microplastics along the beaches of southeast coast of India[J].Science of The Total Environment,2018,645:1388-1399.   
+[28]Hurley RR,Woodward JC,Rothwell JJ. Ingestion of microplastics by freshwater tubifex worms[J].Environmental Science & Technology,2017,51(21) :12844 -12851.   
+[29]Pan Z,Guo H,Chen H,et al.Microplastics in the Northwestern Pacific:Abundance,distribution,and characteristics[J]. Science of The Total Environment,2019,650:1913 -1922.   
+[30]Lusher A L,Mchugh M,Thompson R C.Occurrence of microplastics in the gastrointestinal tract of pelagic and demersal fish from the English Channel[J]. Marine Pollution Bulletin,2013,67（1- 2) :94 -99.   
+[31]Corcoran PL,Norris T,Ceccanese T,et al. Hidden plastics of Lake Ontario,Canada and their potential preservation in the sediment record[J].Environmental Pollution,2015,204:17 -25.   
+[32]Veerasingam S,Mugilarasan M,Venkatachalapathy $\mathrm { ~ R ~ } , \mathrm { e t }$ al. Influence of 2O15 flood on the distribution and occurrence of microplastic pellets along the Chennai coast,India[J].Marine Pollution Bulletin,2016,109(1） :196-204.   
+[33]Endo S,Takizawa R,Okuda K,et al.Concentration of polychlorinated biphenyls（PCBs）in beached resin pellets: Variability among individual particles and regional diferences[J].Marine Pollution Bulletin,2005,50（10）:1103-1114.   
+[34]Isabel A C,Jesus O V.Microplastic resin pellets on an urban tropical beach in Colombia［J].Environmental Monitoring & Assessment,2015,187:435.   
+[35]Yuan W,Liu X, Wang W,et al. Microplastic abundance,distribution and composition in water,sediments,and wildfish fromPoyang Lake,China[J].Ecotoxicology and Environmental Safety,2019, 170:180 -187.   
+[36]Nor N HM,Obbard JP.Microplastics in Singapore's coastal man grove ecosystems[J].Marine Pollution Bullein,2014,79(1-2）: 278-283.   
+[37]Martins J,Sobral P.Plastic marine debris on the Portuguese coastline:A matter of size?[J].Marine Pollution Bulletin,2011,62 (12) :2649 -2653.   
+[38]Lagarde F,Olivier O,Zanella $\mathbf { M }$ ,et al.Microplastic interactions with freshwater microalgae：Hetero-aggregationandchangesin plastic density appear strongly dependent on polymer type [J].Environmental Pollution,2016,215:331-339.   
+[39]Hwang L,Won Joon S,Jung-Hwan K.Sorption capacity of plastic debris for hydrophobic organic chemicals[J].Science of The Total Environment,2014,470 -471:1545 -1552.   
+[40]Brennecke D,Duarte B,PaivaF,et al. Microplasticsasvector for heavy metal contamination from the marine environment[J].Estuarine Coastal & Shelf Science,2016,178:189 -195.   
+[41]Marsic-Lucic J,Lusic J,Tutman P,et al. Levels of trace metals on microplastic particles in beach sediments of the island of Vis,Adriatic Sea,Croatia[J].Marine Pollution Bulletin,2018,137:231- 236.
+
+# Pollution and characterization of microplastics in the sediments of the Yellow River
+
+GONG Xi-long1,²， ZHANG Dao-yong1,3， PAN Xiang-liang1,3 (1．Xinjiang Key Laboratoryof Environmental Pollution and Bioremediation,Xinjiang Institute of Ecologyand Geography,Chinese Academy of Sciences,Urumqi 830o11,Xinjiang,China; 2.University of Chinese Academy of Sciences,Beijing 100049,China ; 3.Collegeof Environment,Zhejiang University of Technology,Hangzhou 31oo14,Zhejiang,China)
+
+Abstract：Microplastic particles with particle sizes of less than 5mmare of increasing concern.Inthis study,microplastics were sampled from the sediments ofthe Yellow River.The microplastic particles were separated from the sedimentsusing density flotation separation methods,and the abundance,type,color,and particle size distribution of microplastics were measured.Meanwhile,composition characteristics and surface topography features were studied using Fourier infrared spectroscopy（FTIR）and scaning electron microscopy equipped with energy dispersive spectroscopy（SEM-EDS).The results showed that microplastic abundance in the sediments was in the range of $1 5 \textrm { -- }$ 615 items · $\mathbf { k g } ^ { - 1 }$ ,and the average abundance of microplastics in the downstream sediments was higher than that in the middle and upstream sediments.Four types of microplastics were identified in the sediments,including fragments,foams,thin films,and fibers. Of the particles analyzed, $4 3 . 3 5 \%$ were fragments ,and $3 4 . 0 8 \%$ were foam, while the films and fiber microplastics accounted for $2 0 . 5 6 \%$ of the plastics.The FTIR analysis demonstrated that the major components of fragments,films,foams,and fibers were identifiedasoxidized polyethylene,polypropylene, polystyrene,and polyethylene.The color of microplastics was divided into transparent,white,color,and black.The proportions of plastic that were transparent and white were $4 3 . 2 8 \%$ and $3 4 . 5 5 \%$ ,respectively. The measurement of the particle size of the microplastics indicated that the particle sizes mainly ranged from $1 - 4 \ \mathrm { m m }$ ,accounting for $6 4 . 8 \%$ ,and the proportion of microplastics $< 1 ~ \mathrm { m m }$ was $1 6 . 6 2 \%$ . The SEM-EDS results showed diferent aging degree of the microplastics with the characteristics of rough surface,many pores,and obvious cracks.
+
+Key words:sediments；microplastics；abundance； size distribution； surface morphology；Yellow River

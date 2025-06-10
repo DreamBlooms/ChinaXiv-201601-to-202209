@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "不同林龄和密度对马尾松人工林凋落叶养分变化的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "潘复静'，梁月明²\\*，马姜明³，杨章旗4，零天旺5，李明金5，陆绍浩，钟凤跃5（1．桂林理工大学 环境科学与工程学院，广西环境污染控制理论与技术重点实验室，广西 桂林，541000；2．中国地质科学院岩溶地质研究所，自然资源部、广西壮族自治区岩溶动力学重点实验室，广西 桂林 541000；3．珍稀濒危动植物生态与环境保护教育部重点实验室，广西 桂林 541000；4.广西壮族自治区林业科学研究院，广西南宁530000；5.广西壮族自治区横县镇龙林场，广西 南宁 530000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了了解不同林龄和密度对马尾松人工林凋落叶养分结构和归还状况的影响，选择广西南宁市横县镇龙林场的四种林龄（幼龄林、中龄林、成熟林和过熟林）和四种密度（低密度林、中低密度林、中高密度林和高密度林）马尾松林共8种林分作为研究对象，分析了未破碎和破碎两个不同降解阶段的凋落叶C、N、P含量及其生态化学计量学特征。结果表明：（1）不同林龄中，凋落叶初始C含量在过熟林和成熟林较高，N含量在过熟林和中龄林较高，而P含量没有显著变化，导致凋落叶的 $\\mathbf { C } : \\mathbf { N }$ 比值和$\\mathbf { C } : \\mathbf { P }$ 比值在成熟林最大，而 ${ \\bf N } : { \\bf P }$ 比值不同林龄间无显著差异，说明处在较快生长期的幼龄林和中龄林马尾松可能对N和P养分的需求较大。（2）不同密度林中，随着林木密度的增加，凋落叶初始C含量逐渐升高，N含量无显著变化，而 $\\mathrm { ~ \\bf ~ P ~ }$ 含量在降低；高密度林凋落叶的初始 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值较高，说明高种植密度下马尾松可能对 $\\mathbf { N }$ 和 $\\mathrm { \\bf ~ P }$ 养分的需求较大，P素重吸收较强。（3）不同林龄和不同密度马尾松林的破碎调落叶C含量、 $\\mathbf { C } : \\mathbf { N }$ 比值、 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值比未破碎凋落叶的低，而N和P含量较高，说明凋落物在降解过程中出现N和 $\\mathrm { ~ \\bf ~ P ~ }$ 养分的富集现象。（4）中林龄和较高种植密度的马尾松破碎凋落叶与未破碎凋落物的C含量差值最大，而 $\\mathbf { C } : \\mathbf { N }$ 比值和 $\\mathbf { C } : \\mathbf { P }$ 比值也较低，说明这两种林分的凋落叶C 的降解速率可能较大。上述结果表明，中龄林和中高、高密度林的马尾松可能对N和P养分的需求较大，重吸收效率较高，且凋落叶C的潜在分解速率较高，可能利于有机碳较快进入土壤中。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：马尾松，林龄，密度，凋落叶，生态化学计量，养分中图分类号：Q948.1 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stand age and density affected litter nutrients changes in planted ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pinus massoniana forests ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pan Fujing1,Liang Yueming ²\\*,Ma Jiangming ³, Yang Zhangqi 4,Ling Tianwang 5,Li Mingjin’5,Lu Shaohao ’, Zhong Fengyue 5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.College of Environmental and Engineering,GuangxiKeyLaboratoryofTheoryandTechnology forEnvironmental Pollution Control,Guilin UniversityofTechnology,Guilin 54100,Guangxi China; 2.KeyLaboratoryof Karst Dynamics,Ministry of Natural and Resources & Guangxi Zhuangzu Autonomy Region,Institute of Karst Geology, ChineseAcademyofGeological Sciences,Guilin 541oo0,Guangxi,China; 3.KeyLaboratoryofEcologyof Rare and Endangered SpeciesandEnvironmental Protection,MinistryofEducation,Guilin541o,Guangxi,China;4.Guangxi ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to relievethe effects of stand ages and densities on liter nutrients changes and its returns in planted Pinus massoniana forests, we selected four forest types of stand ages (Young stand,Half-mature stand, Mature stand,and Over-mature stand)and four forest types of stand densities (Low density, Middle-low density, Middle-high density，and High density）as the research object (total 8 stands) in Zhenlong Forest Farm of Hengxian County, Nanning, Guangxi Zhuang Autonomous Region; and we measured liter carbon, nitrogen and phosphorus contents and its ratios in the earlyand later degradation period of liter.The results were as follows: (1) C contents in early degradation period of liter were relatively higher in Mature and Over-mature stands,N contents were relatively higher in Over-mature and Half-mature stands,but Pcontents and N:P ratios were not different among four stands, C:N and C:Pratios were highest in mature stand. It indicated that the growth rates were relatively faster in Young stand and Half-mature stand,resulting in Pinus massoniana needing large amounts of $\\mathbf { N }$ and $\\mathrm { \\bf ~ P }$ in the two stands.(2） In early degradation period of litter, C contents increased but P contents decreased with the increasing stand densities, $\\mathbf { N }$ contents were not different among four densities. C:P and N:Pratios were relatively higher in Middle-high and High density stands,resulting in Pinus massoniana needing large amounts of N and P and higher P reabsorption in these stands.(3) The C contents and C:N, C:P, and N:P ratios in later degradation period of liter were lower than those in early degradation period of liter, but $\\mathbf { N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents were adverse. It indicated that $\\mathbf { N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ were enriched to litters along the advancing degradation periods.(4） The diference of C contents between the early and the later degradation period of liter was relatively higher in Half-mature,Middle-high,and High density stands,but C:Nand C:Pratios was relatively lower, indicating that the degradation rates of liters C were relatively higher in these stands.The above results suggested that Pinus massoniana may need large amounts of $\\mathbf { N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ in Half-mature, Middle-high,and High density stands,and resulting in high nutrient resorption eficiency;additionaly,there were high potential degradation rates of liter carbon, which was beneficial to return liter C to soils in these forest stands. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keyword: Pinus massoniana, age, density, litter, ecological stoichiometry, nutrients ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国在“十三五”期间全面取消了天然林商业性采伐指标，全国天然林全面停止采伐，由此人工林成为满足中国林产品需求的重要资源之一。南方地区是中国人工林的主要种植区，并且林业相关产业配套比较齐全。有资料显示，广西壮族自治区林地面积保有量超过2.4亿亩，人工林面积9 600万亩，约占全国的1/10，居全国第一位；2018年，木材产量3100万 $\\mathbf { m } ^ { 3 }$ ，占全国的 $4 6 \\%$ ；林业产业总产值2017年达到了5200亿元，五年年均增长 $2 4 . 1 \\%$ （张雷和伍建波，2018)，2018年则达到5628亿元。近几十年来，广西用材林占全区树种结构的 $5 2 . 7 6 \\%$ ，其中杉木占树种结构的 $1 7 . 6 6 \\%$ 、松树为 $1 1 . 5 0 \\%$ 、桉树为 $1 1 . 8 6 \\%$ （覃家科和农胜奇,2018)。由此可见，松树人工林是广西主要的三大用材林之一。马尾松（Pinus massoniana)是主要的松树人工林树种，其耐干旱、耐贫瘠、适应性强（王韦韦等，2015)，种植面积和产量都比较大，能满足国家和社会对木材的需求。但是，很长一段时间以来，马尾松都以纯林进行抚育和管理，林地的养分平衡较差、养分循环速率较低（郝中明等，2018)，引起树木生产力降低、水土流失、生态系统服务功能价值降低等问题（何友均等，2013；吴强等，2019)。随着国家生态文明建设的进行和需求，人工林的这些经营问题已引起国家、社会和专家的广泛关注，人工林的经营策略也从单一追求木材产量向提高生态系统服务功能和经济效益并举的转变（刘世荣等，2018)。因而，马尾松人工纯林的近自然化改造策略被提出来并进行了初步尝试（明安刚等，2017)，发现纯林改造后土壤的有机碳含量得到提高（赖家明等，2013)。但是，生态系统功能的提升不仅需要土壤有机质的提高来支持，同时其它组分的养分提高也不可或缺。我们知道，C、N、P养分是植物生长和生态系统功能维持所不可或缺的重要因素：C是植物干物质的主要元素；N和P分别构成是蛋白质和遗传物质的元素，含量较低会限制植物生长（杨惠敏和王冬梅，2011)。近来有研究指出，广西马尾松人工林的土壤N、P等养分含量普遍较低（覃其云等，2017)。在对马尾松人工纯林进行经营管理时，N、P等养分成为需要重点关注的因素。为了更科学合理地对马尾松人工纯林进行经营管理，深入了解马尾松人工纯林生态系统的养分循环状况显得非常必要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态化学计量学是研究生物与生态系统能量平衡和多重化学元素（主要是C、N、P等生源要素）平衡的科学（Elser et al.，1996)，是一种分析生态系统养分循环作用和状态的重要理论和工具（Pant et al.，2015；Zhang et al.，2015；Huang et al.，2018)。凋落物是森林生态系统的重要养分库：（1）凋落物的初始养分含量与土壤养分、植物养分含量和重吸收效率等密切相关（潘复静等，2011)。当土壤养分全量和有效性较低时，植物的养分含量也比较低，为了满足生长的需要，植物对养分的重吸收加强，导致凋落物的养分含量也较低。（2)凋落物的初始养分状况可以影响养分归还的质量和速率(李雪峰等，2008)。如果凋落物的N含量较多、P含量较低，此时 ${ \\bf N } : { \\bf P }$ 比值较高，则凋落物的降解速率较低；反之则较高(Gallardo etal.，1999)。另外，调落物C：N：P比值对土壤养分的积累和土壤微生物的生长具有巨大影响，并影响到土壤胞外酶的活性，导致生态系统地上地下的养分循环速率发生变化（Pan et al.，2018)。因此，研究凋落物C、N和P等养分含量和生态化学计量比值的变化，可以了解不同环境植物凋落物的养分变化特征，掌握生态系统的养分循环特征，对人工林管理和抚育具有重要的指导意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在之前的研究中，发现马尾松林植物呼吸速率和土壤碳通量在不同林龄之间具有一定差异性（吴蒙等，2014)；另外，合理的林分密度可以提高马尾松林的林下物种多样性和土壤养分含量（孙千惠等，2018)。因此，林龄和密度两种不同的营林措施可对马尾松林生态系统的养分循环产生影响。本研究基于长期定位试验，选择马尾松人工林的4个林龄和4个密度共8种林分作为研究对象，收集了未破碎（降解初期）和破碎（降解后期）2个不同降解阶段的凋落叶样品以及对应的土壤表层样品，详细分析了凋落叶和土壤的C、N和P的含量和比值及其之间的关系。本文主要目的在于：（1）摸清不同林龄和密度马尾松人工林凋落叶的C、N和P的含量和比值状况；（2）分析两个不同降解阶段（未破碎（凋落物上层）和破碎（调落物下层)）的凋落叶养分含量和比值的差异，探讨马尾松人工林凋落叶不同降解阶段的养分变化。通过以上研究，初步掌握不同营林措施马尾松人工林生态系统的养分循环状况，为马尾松人工纯林的经营管理提供科学的理论依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区位于广西壮族自治区南宁市横县北部的镇龙林场，地理位置为 $1 0 9 ^ { \\circ } 0 8 ^ { \\prime }$ 一 $1 0 9 ^ { \\circ } 1 9 ^ { \\prime }$ E， $2 3 ^ { \\circ } 0 2 ^ { \\prime }$ 一 $- 2 3 ^ { \\circ } 0 8 ^ { \\prime }$ N，海拔为 $4 0 0 \\sim 7 0 0 \\mathrm { m }$ 之间，以低山丘陵地形为主；土壤类型主要是酸性或微酸性的赤红壤（pH$3 . 7 2 \\sim 4 . 1 4$ ；表1)；林场经营总面积达到 $6 0 6 9 . 9 \\mathrm { h a }$ ，主要种植树种为巨尾桉（Eucalyptusgrandis）、马尾松和杉木（Cunninghamia lanceolata）等。该区属南亚热带季风气候，年均降雨量 $1 4 7 7 . 8 \\mathrm { m m }$ ，年平均气温 $2 1 . 5 ^ { \\circ } \\mathrm { C }$ ，年均日照时数1 $. 7 5 8 . 9 \\mathrm { h }$ （范志伟和杨章旗，2012）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样地设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2018年，选择四种林龄[分别为6年的幼龄林（AF1）、17年的中龄林（AF2）、32年的成熟林（AF3）和58年的过熟林（AF4）]和四种密度[分别为2500 株·ha-1（株间距 $2 \\mathrm { m } { \\times } 2 \\mathrm { m }$ ，DF1，低密度林）、3300株$\\cdot \\mathrm { h a } ^ { - 1 }$ （株间距 $1 . 5 \\ : \\mathrm { m } \\times 2 \\ : \\mathrm { m }$ ，DF2，中低密度林）、4500 株·ha¹（株间距 $1 . 5 \\ : \\mathrm { m } { \\times } 1 . 5 \\ : \\mathrm { m }$ ，DF3，中高密度林）、6000株 $\\bullet \\mathrm { h a } ^ { - 1 }$ （株间距 $1 \\mathrm { m } { \\times } 1 . 6 7 \\mathrm { m }$ ，DF4，高密度林）]共8种林分作为研究对象（表1)。每个林分中，在立地条件、土层厚度、土壤质地和林木长势较一致的区域选取3个 $2 0 \\mathrm { m } { \\times } 2 0 \\mathrm { m }$ 的标准样方（样方间隔大于$5 0 \\mathrm { m } )$ ），均为广西林业科学研究院已经建立的长期固定监测样地（范志伟和杨章旗，2012)。本次研究选取的样方共有24个。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1马尾松人工林8种林分的样地特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/eaf3bbd1573199a3d855f85c315f959c1865f852b48f8fd44b880535fb3ea41a.jpg",
+        "table_caption": [
+            "Table1 Plot properties in the eight stand types of planted Pinus massoniana forests "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Item</td><td>编号 Serial number</td><td>林分类型 Stand type</td><td>林分年龄 Stand age (a)</td><td>造林年份 The year of afforestation</td><td>海拔 Altitude (m)</td><td>土壤pH Soil pH</td><td>营林措施 Forest management</td></tr><tr><td>不同林龄 Type of</td><td>AF1</td><td>幼龄林 Young stand</td><td>6</td><td>2012</td><td>334</td><td>4.11</td><td>除草 Weed control</td></tr><tr><td>forest age</td><td>AF2</td><td>中龄林 Half-mature stand</td><td>17</td><td>2001</td><td>351</td><td>4.14</td><td>已不抚育 No forest management</td></tr><tr><td></td><td>AF3</td><td>成熟林 Mature stand</td><td>32</td><td>1986</td><td>262</td><td>3.98</td><td>已不抚育 No forest</td></tr><tr><td></td><td>AF4</td><td>过熟林 Over-mature stand</td><td>58</td><td>1960</td><td>315</td><td>3.72</td><td>management 已不抚育 No forest</td></tr><tr><td>不同密度 Type of forest</td><td>DF1</td><td>低密度林 Low density</td><td>21</td><td>1997</td><td>438</td><td>4.04</td><td>management 已不抚育 No forest</td></tr><tr><td>density</td><td>DF2</td><td>(2 500 株·ha-1) 中低密度林 Middle-low density</td><td>21</td><td>1997</td><td>451</td><td>4.06</td><td>management 已不抚育 No forest</td></tr><tr><td></td><td>DF3</td><td>(3 300 株·ha-1) 中高密度林 Middle-high density</td><td>21</td><td>1997</td><td>450</td><td>4.01</td><td>management 已不抚育 No forest</td></tr><tr><td></td><td>DF4</td><td>(4 500 株·ha-1) 高密度林 High density</td><td>21</td><td>1997</td><td>442</td><td>4.04</td><td>management 已不抚育 No forest</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2调落叶和土壤样品采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2018年7月（生长季)，每个样方分成4个 $1 0 \\ \\mathrm { m } \\times 1 0 \\ \\mathrm { m }$ 小区，在样方中心点和4小区的中心点设$0 . 5 \\ : \\mathrm { m } \\times 0 . 5 \\ : \\mathrm { m }$ 的小型取样区，分2种不同的分解程度进行采样：（1）未破碎凋落叶是新鲜凋落和凋落时间不长的部分，是凋落物层的上层，其养分含量可代表凋落叶的初始质量；（2）破碎凋落叶是凋落时间较长且与土壤相接触的已碎裂的部分，是凋落物层的下层。5个小型取样区的凋落物样品进行充分混合形成样方混合样，共得到凋落物样品48个（未破碎和破碎凋落叶各为24个样品)。每个样品用四分法取原样约 $1 0 0 \\ \\mathrm { g }$ ，在 $6 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 下烘干至恒重，然后取烘干样粉碎过 $0 . 1 5 \\mathrm { m m }$ 筛（100目），保存备用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时，在每个凋落物取样点的下方采集 $0 { \\sim } 2 0 \\mathrm { c m }$ 的表层土壤样品，将5个采样点的样品充分混匀成一个表层土混合样。采集到的土壤样品装入塑料袋，并放入冰盒中保存，迅速带回实验室进行处理。土壤样品中的细根碎屑被全部挑出，过 $2 \\ \\mathrm { m m }$ 筛（10目)，并分成等量的两份：第一份立即放入 $- 2 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 冰箱保存，用于其它指标的测定；第二份风干，研磨，过 $0 . 8 5 \\ \\mathrm { m m }$ 筛（20目）和 $0 . 1 5 \\ \\mathrm { m m }$ 筛，用于土壤养分含量的测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3调落叶和土壤样品分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "调落叶样品称取 $0 . 0 1 5 \\mathrm { \\ g }$ 调落物样品（精确到 $0 . 0 0 0 \\mathrm { ~ 1 ~ g ~ } )$ ，用 $\\mathrm { K C r } _ { 2 } \\mathrm { O } _ { 7 ^ { - } } \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ 氧化法测定全碳含量；称取 $0 . 4 \\mathrm { g }$ 调落物样品（精确到 $0 . 0 0 0 \\mathrm { ~ 1 ~ g ~ } )$ ，用 $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } \\mathrm { - H } _ { 2 } \\mathrm { O } _ { 2 }$ 氧化法进行消煮，然后用FIA流动注射仪测定全氮含量，用钼锑抗比色分光光度法测定全磷含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳含量（SOC）采用 $\\mathrm { K C r } _ { 2 } \\mathrm { O } _ { 7 } + \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ 氧化法测定；土壤全氮（TN）采用凯氏定氮法并用流动注射仪（FIAstar 50O0,FOSS,Hillerpd,Denmark）测定；土壤氨氮和硝氮利用 $2 \\mathrm { M } \\mathrm { K C l }$ 浸提，用流动注射仪测定含量；土壤全磷（TP）加 $\\mathrm { \\Delta N a O H }$ 后放入马弗炉高温消煮，用 $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } + \\mathrm { H C l }$ 清洗后以钼蓝显色液进行显色，用分光光度计进行测定；土壤有效磷（AP）用 ${ \\mathrm { N a H C O } } _ { 3 }$ 溶液浸提后以钼蓝显色液显色，最后用分光光度计进行测定（Panetal.，2015）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.4统计与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用 Excel进行数据整理，用 SPSS 11.5 进行数据统计分析。利用描述统计（descriptive statistics）、单因素方差分析（one-way ANOVA）及多重比较分析（LSD)，比较不同林龄和密度马尾松人工林土壤和凋落叶养分含量和比值的差异。用Person相关关系方法分析凋落叶与土壤养分含量和比值之间的相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1不同林龄和密度马尾松人工林土壤养分状况",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究结果显示，不同林龄的土壤全氮、全磷、氨态氮和硝态氮含量具有差异性，土壤有效性磷含量没有显著差异性（表2)。中林龄（AF2）的土壤全氮、全磷和氨态氮含量最高，而幼龄林（AF1）的土壤全磷含量最低，而成熟林（AF3）的土壤全氮和铵态氮含量最低。成熟林的土壤硝态氮含量最高，而过熟林（AF4）的最低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤全氮、全磷、氨态氮和全磷含量在各个密度林之间没有显著性差异；土壤硝态氮含量在DF1（低密度林）最低，其它三个密度林则没有显著差异（表2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d54435174c61b1d68505a17d8f1e0ade34daa3e10268f8edd353830553cf3d0.jpg",
+        "table_caption": [
+            "表2不同林龄和密度马尾松人工林土壤养分的特征",
+            "Table 2 Soil carbon, nitrogen,and phosphorus contents in the eight stand types of planted Pinus massonia "
+        ],
+        "table_footnote": [
+            "注：不同小写字母表示不同林龄或密度间存在差异显著（ $P { < } 0 . 0 5 )$ 。Note: Different lowercase letters in the same row of same stand type indicate significant difference at $P < 0 . 0 5$ ="
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">forests (mean ± SE)</td></tr><tr><td>林分</td><td>土壤全氮</td><td>土壤全磷</td><td>土壤氨态氮</td><td>土壤硝态氮</td><td>土壤有效磷</td></tr><tr><td>Stand type</td><td>Total nitrogen</td><td>Total phosphorus</td><td>NH4+-N</td><td>NO3-N</td><td>AP</td></tr><tr><td></td><td>(g*kg−1)</td><td>(g·kg-1)</td><td>(mg·kg-1)</td><td>(mg·kg-1)</td><td>(mg·kg-1)</td></tr><tr><td>AF1</td><td>1.79 ± 0.11 ab</td><td>0.22 ± 0.02 a</td><td>10.68 ± 1.62 ab</td><td>4.37 ± 0.53 ab</td><td>3.67 ± 0.51 a</td></tr><tr><td>AF2</td><td>2.14 ± 0.09 b</td><td>0.48 ± 0.01 b</td><td>15.23 ± 0.80 b</td><td>4.71 ± 0.64 ab</td><td>3.22 ± 0.18 a</td></tr><tr><td>AF3</td><td>1.45 ± 0.07 a</td><td>0.32 ± 0.02 ab</td><td>8.48 ± 1.48 a</td><td>6.35 ± 0.96 b</td><td>3.32 ± 0.12 a</td></tr><tr><td>AF4</td><td>1.77 ± 0.31 ab</td><td>0.48 ± 0.13 b</td><td>14.29 ± 0.97 ab</td><td>3.62 ± 0.28 a</td><td>3.05 ± 0.25 a</td></tr><tr><td>DF1</td><td>1.40 ± 0.08 a</td><td>0.38 ± 0.04 a</td><td>7.78 ± 0.29 a</td><td>5.13 ± 0.19 a</td><td>5.52 ± 0.14 a</td></tr><tr><td>DF2</td><td>1.59 ± 0.11 a</td><td>0.50± 0.12 a</td><td>6.89 ± 0.81 a</td><td>7.02 ± 0.40 b</td><td>4.97 ± 0.38 a</td></tr><tr><td>DF3</td><td>1.64 ± 0.16 a</td><td>0.45 ± 0.01 a</td><td>6.43 ± 0.17 a</td><td>6.94 ± 0.61 b</td><td>5.28 ± 0.34 a</td></tr><tr><td>DF4</td><td>1.51 ± 0.15 a</td><td>0.39 ± 0.05 a</td><td>8.02 ± 0.69 a</td><td>8.05 ± 0.52 b</td><td>5.44 ± 0.44 a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同林龄马尾松凋落叶C、N、 $\\mathbf { P }$ 含量和 $\\mathbf { C } : \\mathbf { N } : \\mathbf { P }$ 比值",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究结果显示，调落叶C、N 和 $\\mathrm { ~ \\bf ~ P ~ }$ 含量没有随着林龄的增加而逐渐上升（表3)。未破碎凋落叶C含量范围为 $4 5 1 . 2 4 \\sim 4 7 0 . 1 2 ~ \\mathrm { g } { \\bullet } \\mathrm { k g } ^ { - 1 }$ ，表现为中龄林<幼龄林 $\\approx$ 成熟林 $\\angle$ 过熟林；未破碎凋落叶 $\\mathbf { N }$ 含量范围为 $9 . 3 0 \\sim 1 0 . 4 3 ~ \\mathrm { g } { \\bullet \\mathrm { k g } } ^ { - 1 }$ ，表现为成熟林 $\\prec$ 幼龄林 $\\prec$ 中龄林≈过熟林；未破碎调落叶 $\\mathrm { \\bf ~ P }$ 含量范围为 $0 . 5 9 \\sim 0 . 7 1$ $\\mathbf { g } { \\bullet } \\mathbf { k } \\mathbf { g } ^ { - 1 }$ ，各林龄无显著差异。破碎凋落叶C含量范围为 $3 2 1 . 0 8 \\sim 3 9 0 . 2 9 ~ \\mathrm { g } { \\bullet \\mathrm { k g } ^ { - 1 } }$ ，表现为中龄林 $\\angle$ 幼龄林≈成熟林\\~过熟林;破碎凋落叶 $\\mathbf { N }$ 含量范围为 $1 0 . 8 7 \\sim 1 3 . 0 8 ~ \\mathrm { g } { \\bullet \\mathrm { k g } } ^ { - 1 }$ ，表现为过熟林 $\\angle$ 中龄林 $\\approx$ 幼龄林 $\\prec$ 成熟林；破碎凋落叶 $\\mathrm { ~ \\bf ~ P ~ }$ 含量范围为 $0 . 8 8 \\sim 1 . 1 8 ~ \\mathrm { g ^ { \\bullet } k g ^ { - 1 } }$ ，表现为过熟林 $\\angle$ 成熟林 $\\prec$ 中龄林 $\\approx$ 幼龄林。4个林龄的未破碎凋落叶C含量显著高于破碎凋落叶，而N含量和P含量正好相反。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "调落叶 $\\mathbf { C } : \\mathbf { N } : \\mathbf { P }$ 比值也没有随着林龄的增加而逐渐上升(表3)。未破碎凋落叶 $\\mathbf { C } : \\mathbf { N }$ 比值范围为 $4 4 . 0 9 \\sim 4 9 . 8 5 \\$ ,表现为中龄林 $\\approx$ 过熟林 $\\approx$ 幼龄林 $\\angle$ 成熟林；未破碎凋落叶 $\\mathbf { C } : \\mathbf { P }$ 比值范围为 $6 7 5 . 5 1 \\sim 7 8 8 . 1 0$ 表现为幼龄林 $\\approx$ 中龄林 $\\approx$ 过熟林 $\\prec$ 成熟林；未破碎凋落叶 $\\mathsf { N } : \\mathsf { P }$ 比值范围为 $1 4 . 5 7 \\sim 1 5 . 9 0 \\$ ，各林龄无显著 差异。破碎凋落叶 $\\mathbf { C } : \\mathbf { N }$ 比值范围为 $2 6 . 7 8 \\sim 3 6 . 1 0$ ，表现为中龄林 $\\approx$ 幼龄林 $\\approx$ 成熟林<过熟林；破碎调落 叶 $\\mathbf { C } : \\mathbf { P }$ 比值范围为 $2 7 6 . 2 7 \\sim 4 6 4 . 6 6$ ，表现为中龄林<幼龄林 $\\prec$ 成熟林<过熟林；破碎凋落叶 ${ \\bf N } : { \\bf P }$ 比值范 围为 $1 0 . 3 0 \\sim 1 2 . 7 4 \\$ ，各林龄无显著差异。4个林龄的未破碎凋落叶 $\\mathbf { C } : \\mathbf { N }$ 比值、 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值 显著高于破碎凋落叶。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3不同林龄马尾松不同分解阶段凋落叶C、N、P含量和 $\\mathbf { C } : \\mathbf { N } : \\mathbf { P }$ 比值",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 3 Different litter carbon, nitrogen,and phosphorus contents and C: N: P mass ratios between two degradation periods in different stand age of planted Pinus massoniana forests (mean ± SE) ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d90094fd0621886ba75a04a1bc7106b097e882e87e3f39a1dc99699ae61701b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：不同大写字母表示不同林龄的未破碎凋落叶差异显著；不同小写字母表示不同林龄的破碎凋落叶差异显著( $\\cdot P { < } 0 . 0 5 .$ )°粗体表示数值高于非粗体。N.未破碎凋落叶；B.破碎凋落叶。"
+        ],
+        "table_body": "<html><body><table><tr><td>林分 of</td><td>调落叶类</td><td>C含量</td><td>N含量</td><td>P含量</td><td>C:N比值</td><td>C:P比值</td><td>N:P比值</td></tr><tr><td>Type forest age</td><td>型 Litter</td><td>Carbon content (g·kg-1)</td><td>Nitrogen content (g·kg-1)</td><td>Phosphorus content (g•kg-1)</td><td>C :N ratios</td><td>C : P ratios</td><td>N : Pratio</td></tr><tr><td>AF1</td><td>type N</td><td>460.09 ± 8.30 AB</td><td>9.85 ±0.16 AB</td><td>0.68 ± 0.05 A</td><td>46.75 ± 1.56 A</td><td>677.57 ± 41.68 A</td><td>14.57 ± 1.33 A</td></tr><tr><td></td><td>B</td><td>378.33 ± 57.28 b</td><td>12.53 ± 1.05 ab</td><td>1.18 ± 0.06 b</td><td>29.83 ± 2.30 a</td><td>326.64 ± 63.09 a</td><td>10.75 ± 1.37 a</td></tr><tr><td>AF2</td><td>N</td><td>451.24 ± 4.68 A</td><td>10.24 ± 0.19 B</td><td>0.66± 0.00 A</td><td>44.09 ± 1.24 A</td><td>675.50 ± 7.34 A</td><td></td></tr><tr><td></td><td>B</td><td>321.08 ± 15.12 a</td><td>11.98 ± 0.41 ab</td><td>1.17 ± 0.08 b</td><td>26.78 ± 0.49 a</td><td>276.27 ± 20.85 a</td><td>15.34 ± 0.34 A 10.30 ± 0.60 a</td></tr><tr><td>AF3</td><td>N</td><td>462.78 ± 5.20 AB</td><td>9.30 ± 0.23 A</td><td>0.59 ± 0.03 A</td><td>49.85 ± 1.82 B</td><td>788.09 ± 32.03 B</td><td></td></tr><tr><td></td><td>B</td><td>381.33 ± 22.59 b</td><td>13.08 ± 0.65 b</td><td>1.04 ± 0.08 ab</td><td>29.17 ± 1.03 a</td><td>368.24 ± 25.21 ab</td><td>15.89 ± 1.18 A 12.70 ± 1.23 a</td></tr><tr><td>AF4</td><td>N</td><td>470.12 ± 1.24 B</td><td>10.43 ± 0.18 B</td><td>0.71 ±0.07 A</td><td>45.11 ± 0.67 A</td><td>678.44 ± 73.84 A</td><td>15.00 ± 1.43 A</td></tr><tr><td></td><td>B</td><td>390.29 ± 4.10 b</td><td>10.87 ± 0.52 a</td><td>0.88 ± 0.12 a</td><td>36.10 ± 1.89 b</td><td>464.66 ± 76.04 b</td><td>12.74 ± 1.41 a</td></tr><tr><td>平均</td><td>N</td><td>461.06 ± 3.09</td><td>9.96 ± 0.15</td><td>0.66 ± 0.03</td><td>46.45 ± 0.89</td><td>704.90 ± 24.20</td><td>15.20 ± 0.51</td></tr><tr><td>Average</td><td>B</td><td>367.76 ± 15.85</td><td>12.12 ± 0.39</td><td>1.07 ± 0.05</td><td>30.47 ± 1.24</td><td>358.95 ± 30.45</td><td>11.62 ± 0.61</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note:Diferentcapitallettrsinthesamerowindicatethearlydegradationperiodofliterhadsignificantdiferencebetween different types of stand age at $p < 0 . 0 5$ ; Different lowercase letters in the same row indicate the latter degradation period of litter had significant difference between different types of stand age at $p < 0 . 0 5$ . The bold data indicate its values was higher than that of the not bold data.N.The early degradation period of liter; B.The later degradation period of litter. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3不同密度马尾松凋落叶C、N、P含量及 $\\mathbf { C } : \\mathbf { N } : \\mathbf { P }$ 比值",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "调落叶C、N 和 $\\mathrm { \\bf ~ P }$ 含量没有随着密度的增加而逐渐上升（表4)。未破碎凋落叶C含量范围为466.36$\\sim 4 8 4 . 2 7 \\ \\mathrm { g ^ { \\bullet } k g ^ { - 1 } }$ ，表现为 $_ { \\mathrm { D F 1 < D F 2 < D E 3 < D F 4 } }$ ；未破碎调落叶 $\\mathbf { N }$ 含量范围为 $1 1 . 7 9 \\sim 1 2 . 9 7 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，各密度间无显著差异；未破碎凋落叶P含量范围为 $0 . 6 4 \\sim 0 . 9 0 ~ \\mathrm { g } { \\bullet \\mathrm { k g } } ^ { - 1 }$ ，表现为 $\\scriptstyle \\mathrm { D F 2 } \\displaystyle < \\mathrm { D F 4 } \\displaystyle < \\mathrm { D F 3 } \\displaystyle < \\mathrm { D F 1 }$ ；破碎凋落叶C含量范围为 $2 5 2 . 9 7 \\sim 3 4 4 . 0 7 \\mathrm { g } { \\bullet \\mathrm { k g } } ^ { - 1 }$ ，表现为 $\\scriptstyle \\mathrm { { D F 4 < D F 3 < D F 1 < D F 2 } }$ ；破碎调落叶N含量范围为 $1 1 . 0 6 \\sim$ $1 3 . 4 8 ~ \\mathrm { g ^ { \\bullet } k g ^ { - 1 } }$ ，表现为 $\\scriptstyle \\mathrm { { D F 4 < D F 3 < D F 1 < D F 2 } }$ ；破碎凋落叶 $\\mathrm { ~ \\bf ~ P ~ }$ 含量范围为 $0 . 9 5 \\ \\sim \\ 1 . 1 9 \\ \\mathrm { g ^ { \\bullet } k g ^ { - 1 } }$ ，表现为DF2<DF3<DF1<DF4。4个密度的未破碎凋落叶C 含量显著高于破碎凋落叶， $\\mathrm { ~ \\bf ~ P ~ }$ 含量则是破碎凋落叶高于未破碎凋落叶。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "调落叶 $\\mathbf { C } : \\mathbf { N } : \\mathbf { P }$ 比值也没有随着密度的增加而逐渐上升 (表4)。未破碎凋落叶 $\\mathbf { C } : \\mathbf { N }$ 比值范围为 $3 5 . 9 5 \\sim 4 0 . 3 3 \\$ ，表现为 $\\scriptstyle \\mathrm { { D F 1 < D F 3 approx D F 4 < D F 2 } }$ ；未破碎调落叶 $\\mathbf { C } : \\mathbf { P }$ 比值范围为 $5 2 1 . 6 3 \\sim 7 4 0 . 9 3 \\$ ，表现为 DF1<DF3<DF4<DF2；未破碎凋落叶 ${ \\bf N } : { \\bf P }$ 比值范围为 $1 4 . 5 1 \\sim 1 8 . 7 9 \\$ ，表现为 $\\scriptstyle \\mathrm { { D F 1 < D F 3 < D F 2 \\approx D F 4 } }$ ；破 碎调落叶 $\\mathbf { C } : \\mathbf { N }$ 比值范围为 $2 2 . 9 6 \\sim 2 5 . 8 2 \\$ ，各密度间无显著差异；破碎凋落叶 $\\mathbf { C } : \\mathbf { P }$ 比值范围为211.68\\~ 368.65，DF4<DF1<DF3<DF2；破碎凋落叶 $\\mathsf { N } : \\mathsf { P }$ 比值范围为 $9 . 2 3 \\sim 1 4 . 3 5 \\$ ，表现为DF4<DF1 $\\approx$ DF3<DF2。 4个密度的未破碎凋落叶 $\\mathbf { C } : \\mathbf { N }$ 比值、 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值显著高于破碎凋落叶。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4调落叶C、N、P含量和比值与土壤养分含量的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不同林龄马尾松人工林中，凋落叶C含量与土壤有机碳、全氮和全磷含量不存在显著相关关系；凋落叶N含量与土壤有机碳含量存在显著正相关，与土壤全氮和全磷含量不存在显著相关关系；凋落叶P含量与土壤有机碳和全氮含量存在显著正相关，与土壤全磷含量不存在显著相关关系；土壤 $\\mathbf { C } : \\mathbf { N }$ 比值与土壤有机碳含量存在显著负相关，与土壤全氮和全磷含量不存在显著负相关关系；土壤 $\\mathbf { C } : \\mathbf { P }$ 比值与土壤有机碳和全氮含量存在显著负相关，与土壤全磷含量不存在显著负相关关系；土壤 ${ \\bf N } : { \\bf P }$ 比值与土壤有机碳、全氮和全磷含量不存在显著负相关关系(表5)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不同密度马尾松人工林中，调落叶C含量、N含量和 $\\mathbf { C } : \\mathbf { N }$ 比值与土壤有机碳和全氮和全磷含量不存在显著相关关系；凋落叶P含量与土壤有机碳含量存在显著负相关，与土壤全氮和全磷含量不存在显著负相关关系；土壤 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值与土壤有机碳含量存在显著正相关，与土壤全氮和全磷含量不存在显著相关关系 (表5)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4不同密度马尾松不同分解阶段凋落叶C、N、P含量和 $\\mathbf { C } : \\mathbf { N } : \\mathbf { P }$ 比值",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "able 4 Different liter carbon, nitrogen,and phosphorus contents and C:N: P mass ratios between tw( degradation periods in different stand density of planted Pinus massoniana forests (mean±SE) ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/050d05085c5117a9f4c2d4071fe1833db63746f122408a5760db942fad84ed5a.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：不同大写字母表示不同密度的未破碎凋落叶差异显著;不同小写字母表示不同密度龄的破碎凋落叶差异显著( $\\cdot P { < } 0 . 0 5 )$ 。粗体表示数值高于非粗体。N.未破碎凋落叶；B.破碎凋落叶。"
+        ],
+        "table_body": "<html><body><table><tr><td>林分</td><td>调落叶类</td><td>C含量</td><td>N含量</td><td>P含量</td><td>C:N比值</td><td>C:P比值</td><td>N:P比值</td></tr><tr><td>Type forest</td><td>of 型 Litter type</td><td>Carbon content (g·kg-1)</td><td>Nitrogen content （g*kg=1)</td><td>Phosphorus content (g.kg=1)</td><td>C : N ratios</td><td>C : P ratios</td><td>N : Pratio</td></tr><tr><td>density</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DF1</td><td>N</td><td>466.36 ± 7.33 A</td><td>12.97 ± 0.17 A</td><td>0.90 ±0.06 B</td><td>35.95 ± 0.24 A</td><td>521.63 ± 31.74 A</td><td>14.51 ± 0.88 A</td></tr><tr><td></td><td>B</td><td>309.21 ± 39.43 ab</td><td>12.42 ± 0.79 ab</td><td>1.11 ± 0.05 a</td><td>24.72 ± 2.00 a</td><td>278.13 ± 33.84 ab</td><td>11.22 ± 0.87 ab</td></tr><tr><td>DF2</td><td>N</td><td>474.71 ± 3.61 AB</td><td>11.79 ± 0.34 A</td><td>0.64 ± 0.02 A</td><td>40.33 ± 1.36 B</td><td>740.93 ± 19.84 B</td><td>18.42 ± 0.94 B</td></tr><tr><td></td><td>B</td><td>344.07 ± 24.94 b</td><td>13.48 ± 0.70 b</td><td>0.95 ± 0.09 a</td><td>25.82 ± 3.03 a</td><td>368.65 ± 45.18 b</td><td>14.35 ± 1.20 b</td></tr><tr><td>DF3</td><td>N</td><td>480.46 ± 3.29 AB</td><td>12.48 ± 0.83 A</td><td>0.72 ± 0.01 A</td><td>38.82 ± 2.49 AB</td><td>670.81 ± 17.25 B</td><td>17.42 ± 1.23 AB</td></tr><tr><td></td><td>B</td><td>306.10 ± 21.59 ab</td><td>12.20 ± 0.23 ab</td><td>0.97 ± 0.14 a</td><td>25.05 ± 1.27 a</td><td>336.77 ± 80.15 ab</td><td>13.20 ± 2.42 ab</td></tr><tr><td>DF4</td><td>N</td><td>484.27 ± 1.95 B</td><td>12.59 ± 0.37 A</td><td>0.68 ± 0.04 A</td><td>38.54 ± 1.15 AB</td><td>722.48 ± 38.85 B</td><td>18.79 ± 1.28 B</td></tr><tr><td></td><td>B</td><td>252.97 ± 22.48 a</td><td>11.06 ± 1.06 a</td><td>1.19 ± 0.05 a</td><td>22.96 ± 0.96 a</td><td>211.68 ± 11.76 a</td><td>9.23 ± 0.49 a</td></tr><tr><td>平均</td><td>N</td><td>476.45 ± 2.80</td><td>12.46 ± 0.25</td><td>0.73 ± 0.03</td><td>38.41 ± 0.81</td><td>663.96 ± 28.63</td><td>17.29 ± 0.69</td></tr><tr><td>Average</td><td>B</td><td>303.09 ± 15.47</td><td>12.29 ± 0.41</td><td>1.06 ± 0.05</td><td>24.64 ± 0.90</td><td>298.81 ± 27.73</td><td>12.00 ± 0.85</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:Diferentcapitallettrsinthesamerowindicateteearlydegradationperiodofliterhadsignificantdiferencebetween different types of stand density at $p < 0 . 0 5$ ; Different lowercase letters in the same row indicate the latter degradation period of litter had significant difference between different types of stand density at $p < 0 . 0 5$ . The bold data indicate its values was higher than that of the not bold data.N.The early degradation period of liter;B.The latter degradation period of litter. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a970cb5759feebfdb784e6c1e6cab8452d1d1741e8cdb4129a408aa62b7ed77.jpg",
+        "table_caption": [
+            "表5未破碎凋落叶元素含量和比值与土壤元素的相关性",
+            "Table 5 Correlation of corresponding elements between litter and soil in planted Pinus massoniana forests "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>调落物</td><td>调落物</td><td>调落物</td><td>调落物</td><td>调落物</td><td>调落物</td></tr><tr><td>项目</td><td>土壤养分</td><td>C含量</td><td>N含量</td><td>P含量</td><td>C:N比值</td><td>C:P比值</td><td>N:P比值</td></tr><tr><td>Item</td><td>Soil nutrients</td><td>Litter C</td><td>Litter N</td><td>Litter P</td><td>Litter C:N</td><td>Litter C:P</td><td>Litter N:P</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/df5381c7298eceb6630ef653cc6e12d9df972cfed90b4a4d2169827a4089493f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：\\*\\*表示相关性显著水平0.01，\\*表示相关性显著水平0.05（双尾检测)。 Note:\\*\\*means corelation is significantattheO.O1level,\\* meanscorrelationis significant atthe O.O5level (2-tailed). "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>content</td><td>content</td><td>content</td><td>rations</td><td>rations</td><td>rations</td></tr><tr><td>不同林龄</td><td>有机碳 Organic carbon</td><td>0.088</td><td>0.757**</td><td>0.607*</td><td>-0.586*</td><td>-0.600*</td><td>-0.302</td></tr><tr><td>Type of</td><td>全氮 Total nitrogen</td><td>-0.061</td><td>0.542</td><td>0.686*</td><td>-0.468</td><td>-0.770**</td><td>-0.529</td></tr><tr><td>forest age</td><td>全磷 Total phosphorus</td><td>-0.325</td><td>0.332</td><td>0.012</td><td>-0.387</td><td>-0.125</td><td>0.080</td></tr><tr><td>不同密度</td><td>有机碳Organic carbon</td><td>0.331</td><td>-0.234</td><td>-0.687*</td><td>0.310</td><td>0.706*</td><td>0.630*</td></tr><tr><td>Type of</td><td>全氮 Total nitrogen</td><td>0.034</td><td>-0.369</td><td>-0.358</td><td>0.343</td><td>0.349</td><td>0.197</td></tr><tr><td>forest</td><td>全磷 Total phosphorus</td><td>-0.149</td><td>-0.121</td><td>-0.475</td><td>0.080</td><td>0.487</td><td>0.498</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1不同林龄和密度对凋落叶C、N、P含量和比值的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同林龄的土壤养分状况和植物生理是影响凋落叶C、N、P含量和比值的关键因素（崔宁洁等，2014)。凋落叶初始C、N、P含量和比值不仅与土壤养分密切相关，而且与植物的养分重吸收有关。这是因为：（1）植物养分含量与土壤养分具有较强的耦合关系（Reich et al.，2004；Baterman et al.，2013）。土壤N、P养分含量较低时，植物的养分含量亦不高，调落叶掉落会损失部分养分，为了保护这部分养分及加快养分元素在植物体的循环速度，此时植物的重吸收能力加强,凋落叶的N和P含量也较低（Aertset al.，2000)。通常情况下，植物对养分的重吸收具有与对土壤养分的吸收同样同等重要的作用，甚至是更加直接、耗能更少的一种生理活动（Franklin et al.，2002)。本研究结果显示，凋落叶N和P含量与土壤有机质、全氮和全磷含量存在一定的正相关关系（表5)。表明，土壤养分含量高，凋落叶的 N 和 P含量也较高；反之亦然。因此，我们发现，土壤全氮、全磷和氨氮含量在过熟林和中龄林较高；而在幼龄林和成熟林较低（表3)。相应地，凋落叶的初始N和P含量在过熟林（AF4）最高，中龄林（AF2）次之，幼龄林（AF1）第三，而成熟林（AF3）最低（表3）。（2）不同生长阶段的植物对养分的需求不相同，可导致其本身各器官养分含量和凋落物养分含量存在差异。当植物的生长速度较大时，体内较多的P素可以合成更多rRNA用于细胞生长繁殖，此时则出现较低的 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值（Elser et al.,2000)。本研究中，我们发现凋落叶C含量随着林龄的增加而提高（表3)，说明C积累和植物生长是同步的。另外，调落叶的 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值从幼龄林到成熟林是逐渐升高，说明幼龄林和中龄林正处于林木生长和蓄积量高速增长的阶段，对N和P养分的需求较大、重吸收效率相对较高所导致。但是，从成熟林到过熟林，调落叶 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值则降低（表3)。这可能是因为：一是此阶段马尾松具有较高的C含量，生长速率趋于缓慢，重吸收较小，导致凋落叶 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值降低；二是此阶段没有人工抚育、施肥等措施，需要地上、地下系统的协同循环，较低的 ${ \\bf N } : { \\bf P }$ 比值有助于调落叶快速降解，并把养分归还到土壤中。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "种植密度也是影响凋落叶 $\\operatorname { C } , \\operatorname { N } , \\operatorname { P }$ 含量和比值的重要因素之一（康冰等，2009)。本研究结果显示，凋落叶C含量随着马尾松种植密度的增加而增加，但是N含量没有显著变化，P含量则是最低密度林最高（表4)。从表1可以看出，土壤N、P含量和有效性没有显著差异。因此，土壤养分含量可能对凋落叶养分和比值变化的影响比较小；种植密度导致马尾松的生理变化可能是造成凋落叶养分和比值差异的重要因素。本研究中我们发现，凋落叶C含量、N含量和P含量的变化趋势造成DF1（低密度林， $2 { \\mathrm { m } } { \\times } 2$ m）的 $\\mathbf { C } : \\mathbf { N }$ 比值、 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值较其它三种密度林的低（表4)。在低密度林中，由于其凋落叶C含量、 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值较低的缘故，马尾松的 $\\mathrm { \\bf ~ P }$ 缺乏特征不是很明显。因此，低密度马尾松对P素重吸收较弱，并导致凋落叶的 $\\mathrm { ~ \\bf ~ P ~ }$ 含量较其它三种密度林高(表 4)。随着马尾松种植密度的增加，DF2（中低密度林， $1 . 5 \\mathrm { m } \\times 2 \\mathrm { m } \\cdot$ )、DF3（中高密度林， $1 . 5 \\ : \\mathrm { m } { \\times } 1 . 5 \\ : \\mathrm { m }$ ）和DF4（高密度林， $1 \\mathrm { m } { \\times } 1 . 6 7$ m）三种种植密度的马尾松林凋落叶 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值明显增加（表4)，表明马尾松需要较多的P素，对 $\\mathrm { \\bf ~ P }$ 素的重吸收较强，造成凋落叶的 $\\mathrm { ~ \\bf ~ P ~ }$ 含量较低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，不同林龄凋落叶初始C、N 和 $\\mathrm { ~ \\bf ~ P ~ }$ 含量平均值分别为461.06、9.96 和 $0 . 6 6 \\mathrm { g ^ { \\bullet } k g ^ { - 1 } }$ ; $\\mathbf { C } : \\mathbf { N }$ 比值、 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值分别为46.45、704.91和15.20（表3)。不同密度马尾松林凋落叶初始C、N和 $\\mathrm { ~ \\bf ~ P ~ }$ 含量平均值分别为476.45、12.46和 $0 . 7 3 \\ \\mathrm { g ^ { \\bullet } k g ^ { - 1 } }$ $\\mathbf { C } : \\mathbf { N }$ 比值、 $\\mathbf { C } : \\mathbf { P }$ 比值和 ${ \\bf N } : { \\bf P }$ 比值分别为38.41、663.96 和17.29（表4)。两种类型的凋落叶初始养分含量和比值的差距不大，与葛晓改等（2012）的研究结果较为相似。植物凋落叶的养分状况受到土壤养分含量的影响。本研究中，土壤的全氮和全磷含量分别为 $1 . 4 0 \\sim 2 . 1 4 ~ \\mathrm { g } { \\bullet \\mathrm { k g } } ^ { - 1 }$ 和 $0 . 2 2 \\sim 0 . 5 0 ~ \\mathrm { g } { \\bullet \\mathrm { k g } ^ { - 1 } }$ （表1)，土壤处于贫瘠的状态。由此可见，马尾松人工林调落叶的C、N、 $\\mathrm { ~ \\bf ~ P ~ }$ 含量及 $\\mathbf { C } : \\mathbf { N } : \\mathbf { P }$ 比值变动不仅与林龄和密度有关，与土壤养分较低的状况也存在关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2凋落叶养分的变化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "调落叶是土壤养分的主要来源，养分经降解后归还到土壤中，但归还速率受到凋落物初始质量和环境因素变化的影响。有研究表明，调落叶的 $\\mathbf { C } : \\mathbf { N }$ 比值和 $\\mathbf { C } : \\mathbf { P }$ 比值较高时，其分解速率较高； ${ \\bf N } : { \\bf P }$ 比值较高时，其分解速率较低；随着向降解后期发展，凋落物的 $\\mathbf { C } : \\mathbf { N }$ 比值和 $\\mathbf { C } : \\mathbf { P }$ 比值逐渐降低， ${ \\bf N } : { \\bf P }$ 比值逐渐升高（李雪峰等，2008)。凋落物在较高 ${ \\bf N } : { \\bf P }$ 比值情况下，其可能是因为 $\\mathrm { ~ \\bf ~ P ~ }$ 素较低的或N和木质素含量较高（Galardo etal.，1999)。但是，在本研究中，不同林龄凋落叶养分比值很难作为评判凋落叶降解快慢的标准。主要原因有如下两点：（1）在不同林龄之间，凋落叶初始 ${ \\bf N } : { \\bf P }$ 比值没有显著性差异。尽管由于成熟林凋落叶初始N 和 $\\mathrm { ~ \\bf ~ P ~ }$ 含量，导致其 $\\mathbf { C } : \\mathbf { N }$ 比值和 $\\mathbf { C } : \\mathbf { P }$ 比值较高，但是我们发现：随着凋落物降解的进行，所有林龄之间的 $\\mathbf { C } : \\mathbf { N }$ 比值、 $\\mathbf { C } : \\mathbf { P }$ 值和 ${ \\bf N } : { \\bf P }$ 比值都降低（表4)。（2）随着凋落物降解的进行，凋落叶有富集N和P养分的趋势（表4)，与很多研究结果相一致（王静等，2013；李勋等，2017；陆晓辉，2017)。但是可以看到C含量从未破碎状态到破碎状态是呈现降低趋势，说明马尾松人工林凋落叶向土壤输入大量的含碳化合物，不仅可以增加土壤有机质的含量，也可以提供能量给微生物。这两个因素叠加在一起，导致了凋落叶降解速率的不确定。如果仅仅从凋落叶C降解量来分析，中林龄的破碎凋落叶与未破碎调落物的C含量差值最大， $\\mathbf { C } : \\mathbf { N }$ 比值和 $\\mathbf { C } : \\mathbf { P }$ 比值也较低，有可能中林龄的凋落叶C的降解速率较大，但仍需进一步研究确定。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不同密度马尾松林未破碎和破碎凋落叶养分含量和比值的变化状态与不同林龄的表现基本一致：破碎凋落叶的C含量相比未破碎的要低，而N和P有富集现象（表4)。从表4可以看出，随着种植密度的增加，未破碎凋落叶C含量逐渐升高，但是N和P含量表现较为复杂。因此，我们看到：未破碎凋落叶 $\\mathbf { C } : \\mathbf { N }$ 比值、 $\\mathbf { C } : \\mathbf { P }$ 比值和 $\\mathsf { N } : \\mathsf { P }$ 比值在DF1（低密度林）最低，而在DF2（中低密度林）最高，DF3（中高密度林）和DF4（高密度林）介于两者之间。另一方面，破碎凋落物的 $\\mathbf { C } : \\mathbf { N }$ 比值在各密度间无显著差异， $\\mathbf { C } : \\mathbf { P }$ 比值和 $\\mathsf { N } : \\mathsf { P }$ 比值在DF4 最低而在DF2最高。从上述结果可以看出，DF2 在未破碎和破碎状态的养分比值都比较高,DF4在未破碎状态的养分比值虽然较高但是在破碎状态最低,DF3在未破碎状态的养分比值也较高但是在破碎状态较低。所以，中高密度林和高密度林具有较高的凋落物分解速率，其所含的C可以大量进入，并能提高土壤的有机质含量。造成这一结果的原因之一可能与高密度马尾松林内的环境有关，更高的密度可能可以营造出较合适的湿度和温度，对土壤微生物活力和酶活性提高具有一定的作用。高种植密度对马尾松人工林凋落叶降解速率的影响较大，但仍需进一步研究确定。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）不同林龄中，过熟林和中龄林的土壤和凋落叶养分含量较高，而幼龄林和成熟林较低，说明凋落叶养分含量与土壤养分含量存在正相关关系，导致凋落叶的 $\\mathbf { C } : \\mathbf { P }$ 比值和 $\\mathsf { N } : \\mathsf { P }$ 比值从幼龄林到成熟林是逐渐升高的，说明幼龄林和中龄林对N和P养分的需求较大，重吸收效率也更高。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）不同密度林中，土壤N、P含量和有效性没有显著差异，然而随着种植密度的增大凋落叶C含量逐渐升高、N含量无显著变化、P含量在降低，导致三种较高种植密度的马尾松林凋落叶初始C：P比值和N：P比值较高，表明较高密度马尾松林的P素重吸收较强。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）不同林龄和不同密度林中，破碎凋落叶C含量、C：N比值、C：P比值和N：P比值低于未",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "破碎凋落叶的，但是N和P含量较高，说明N和P养分有富集现象。从凋落叶C降解量来分析，中林龄和高密度林的破碎凋落叶与未破碎凋落物的C含量差值最大，C：N比值和C：P比值也较低，导致中林龄和高密度林的凋落叶C的降解速率可能较大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AERTS R,CHAPINFS,2O.The mineral nutritionof wildplantsrevisited:Are-evaluationof processesand paters[J].Adv Ecol Res,30: 1-67.   \nBATTERMAN SA, WURZBURGER N, HEDIN LO,2013. Nitrogen and phosphorus interact to control tropical symbiotic ${ \\bf N } _ { 2 }$ （204 fixation: A test in Inga punctata [J].JEcol,101:1400-1408   \nCUI NJ,LIUXB,ZHANGDJ,etal.,2014.The Distributionpaterofcarbon,ntrogenand phosphorusandthe stoichiometry characteristicsof Pinus massonana plantation indiferentages[J].EcolEnvironSci,23(O2):188-195.[崔宁洁，刘小兵，张 丹桔，等，2014.不同林龄马尾松(Pinus massoniana)人工林碳氮磷分配格局及化学计量特征[J]．生态环境学报， 23(02):188-195.]   \nELSERJ,DOBBEFFUHD,MAEKAYNA,etal.,1996.Organismsize,life history,andN:Pstoichiometry: towardsaiied view of celllar and ecosystem processes [J]. Bioscience, 46: 674-684.   \nELSER J,STERNERRW,GOROKHOVAE,etal.,20O0.Biological stoichiometryfromgenes tocosystems[J].EcolLett,3: 540-550.   \nFANZW,YANGZQ,2012.Comparisononwater-holdingcapabilityofPinus massoniana plantations withdifferentdensities[J]. Guangxi For Sci,41(1):19-22.[范志伟，杨章旗，2012.不同密度马尾松人工林水源涵养能力的比较[J]．广西林业科 学，41(1):19-22.]   \nFRANKLINO,AGRENGI,2002.Leaf senescenceand resorption as mechanisms of maximizing photosynthetic production during canopy development at n limitation [J].Funct Ecol,16: 727-733.   \nGALLARDOA.,MERINOJ,1999.Controlof leaf iterdecompositionrate ina mediterranean shrub landas indicated byN,P and lignin concentrations [J]. Pedobiologia, 43: 64-72.   \nGE XG,XIAOWF,ZENGLX,etal.,2O12.Relatioshpsbetween litersubstratequalityandsoilnutrients indieretaged Pinus massoniana stands[J].Acta Ecol Sin,32(03):852-862.[葛晓改，肖文发，曾立雄，等，2012.不同林龄马尾松调 落物基质质量与土壤养分的关系[J]．生态学报，32(03):852-862.]   \nHAO ZM, WU SR,QINL,etal.,2018.Soil physicaland chemical properties of pure Pinus masoniana and mixed-species tree plantation with diferent age in south Guangxi area[J].Guangdong Agric Sci,45(1): 39-43.[郝中明，吴水荣，覃林，等， 2018．广西南部地区不同林龄马尾松及其混交林理化性质研究[J]．广东农业科学，45(1):39-43.]   \nHE YJ,LIANGXY,QINL,etal.,2O13.Communitystructure,speciesdiversityof Pinus massonianaandCastanopsis hytix plantationand thenature-basedforest management inthe Southern Suptropical China[J].Sci Sil Sin,49(4):24-33.何友均， 梁星云，覃林，等，2013．南亚热带马尾松红椎人工林群落结构、物种多样性及基于自然的森林经营[J]．林业科学, 49(4): 24-33.]   \nHUANG JY,YU HL,LIU JL,et al., 2018.Phosphorus addition changes belowground biomass and $\\mathbf { C } : \\mathbf { N } : \\mathbf { P }$ stoichiometry of two desert steppe plants under simulated N deposition [J]. Sci Rep-UK, 8.   \nKANG B,LIUSR,CAIDX,etal.,9.EffectsofPinus massonana platationstanddensityonuderstoryvegetationadoil properties [J].ChinJAppl Ecol,20(10):2323-2331.[康冰，刘世荣，蔡道雄，等，2009.马尾松人工林林分密度对林下 植被及土壤性质的影响[J]．应用生态学报，20(10):2323-2331.]   \nLAI JM,LIKZ,HUANGCD,etal.,2013.Effctofimprovementmeasuresonsoillabileorganiccarbonoflow-effcincyPinus massoniana forest[J].For Res,26(2):167-173.[赖家明，李开志，黄从德，等，2013．不同改造措施对马尾松低效林土 壤活性有机碳的影响[J]．林业科学研究，26(2):167-173.]   \nLI X, ZHANG DJ, ZHANG Y,et al.， 2017. The edge effect of a forest gap on decomposition of Pinus massoniana and Cinamomum camphora leaf liter[J].Chin JAppl Environ Biol,23(3):570-578.[李勋，张丹桔，张艳，等，2017．林窗 边缘效应对马尾松和香樟调落叶分解的影响[J]．应用与环境生物学报，23(3):570-578.]   \nLI XF,HANSJ,HUYL,etal.2O08.Decompositionof lterorganic matterand itsrelations toC,NandPreleaseincodary conifer and broadleaf mixed forest in Changbai Mountains[J].CJAppl Ecol,19(2):245-251.[李雪峰，韩士杰，胡艳玲， 等,2008．长白山次生针阔混交林叶调落物中有机物分解与碳、氮和磷释放的关系[J].应用生态学报，19(2):245-251.]   \nLIU SR,YANG YJ,WANG H,2O18.Development strategy and managementcountermeasuresof planted forests inChina: transforming from timber-centered single objective management towards multi-urpose management for enhancing quality and benefits of ecosystem services[J].Acta Ecol Sin,38(1):1-10.[刘世荣，杨予静，王晖，2018．中国人工林经营发展战 略与对策:从追求木材产量的单一目标经营转向提升生态系统服务质量和效益的多目标经营[J]．生态学报，38(1): 1-10.]   \nLU XH,DINGGJ,LUDH,2017.Impactof diferentcontrol measuresonleafliterchemcal qualitydynamicandits relation with decompositionrate under the pure Pinus massoniana forest[J].ActaEcol Sin,37(7): 2325-2333.[陆晓辉，丁贵杰，陆 德辉，2017．人工调控措施下马尾松调落叶化学质量变化及与分解速率的关系[J]．生态学报，37(7):2325-233.]   \nMING SA,LIU SR,LIH,etal.，2017.Effctsofclose-to-nature transformationonbiomassanditsallocationinPinus massoniana and Cunninghamia lanceolata plantations[J]. Acta Ecol Sin,37(23):7833-7842.[明安刚，刘世荣，李华，等， 2017．近自然化改造对马尾松和杉木人工林生物量及其分配的影响[J]．生态学报，37(23):7833-7842.]   \nPAN FJ,ZHANG W,ANGYM,etal.,2O18.Increasedassociatedefectsof topographyand literandsoilnutrietsonsoil enzyme activities and microbial biomassalong vegetation sucesions inkarst ecosystem,southwester China[J].Environ Sci Poll R,25(17): 16979-16990.   \nPAN FJ,ZHANGW,LIUSJ,etal.，2015.Leaf N:P stoichiometryacross plantfunctional groups inthe karstregionof southwestern China [J]. Trees-Struct Funct,29:883-892.   \nPAN FJ, ZHANG W,WANG KL,et al., 2011. Litter ${ \\bf C } : { \\bf N } : { \\bf P }$ ecological stoichiometry character of plant communities in typical karst peak-cluster depresson[J].Acta Ecol Sin,31(2):335-343.[潘复静，张伟，王克林，等，2011．典型喀斯特 峰丛洼地植被群落凋落物 ${ \\bf C } : { \\bf N } : { \\bf P }$ 生态化学计量特征[J]．生态学报，31(2):335-343.]   \nPANTH,TEWARIA,2015.Finerootbomas,productivityand turnover intwocontrastig aspects innaturalChirPine(Pinus roxburghi Sarg.) forests of Central Himalaya[J]. Russ JEcol,46: 511-517.   \nQIN JK,NONGSQ,2O18.Variationandadjustment of treespecies structure inGuangxi for38 years[J].For InvenPlan,43(5): 142-148.[覃家科，农胜奇，2018．广西 38 年来树种结构变化及调整研究[J]．林业调查规划，43(5):142-148.]   \nQIN QY,TANGJ,DENGXJ,etal.,2Ol7.Evauatioosoilfertilityofinus masoianaplanttions inGuangxiProie[J]. For Inven Plan ,42(06): $1 6 { - } 2 1 { + } 3 2$ [覃其云，唐健，邓小军，等，2017．广西马尾松人工林土壤肥力评价研究[J]．林业 调查规划，42(06): $1 6 { - } 2 1 { + } 3 2 . ]$   \nREICH PB,OLEKSYNJ,2O04.Global paterns of plant leaf Nand Pinrelation to temperatureand latitude [J].Pro Natl Acad Sci USA,101:11001-11006   \nSUN QH, WU X, WANG MZ,et al.,2018.Efectsof stand densityonunderstory species diversityand soil physicochemical properties of Pinus massoniana plantation[J].ChinJAppl Ecol,29(3):732-738.[孙千惠，吴霞，王媚臻，等，2018．林分 密度对马尾松林林下物种多样性和土壤理化性质的影响[J]．应用生态学报，29(3):732-738.]   \nWANG J,XUGP,ZENGDJ,etal.,2013.Comparative studyodecompositionof leafliters fromtwodominantspecies under karst and non-karst terrains[J].Guihaia,33(3):338-345.[王静，徐广平，曾丹娟，等，2013．岩溶区和非岩溶区两种优 势植物凋落叶分解的比较研究[J]．广西植物，33(3):338-345.]   \nWANG WW,XIONG DC,HUANG JX,et al.,2015. Comparisonof fine-rottraits between two subtropical tree species Pinus masonianaandCastanopsis carlesiidifering insuccessional stages[J].ActaEcolSin,35(17):581-5821.[王韦韦,熊成， 黄锦学，等，2015．亚热带不同演替树种米楮和马尾松细根性状对比研究[J]．生态学报，35(17):5813-5821.]   \nWU M,MAJM,LIANGSC,etal.,2014.Characteristics onsoilcarbon fluxof Eucalyptusspp.and Pinus massoniana forest in autumn in Yaoshan Mountain of Guilin[J].Guihaia,34(6):780-787.[吴蒙，马姜明，梁士楚，等，2014.桂林尧山桉树 及马尾松林秋季土壤碳通量特征[J]．广西植物，34(6):780-787.]   \nWU Q,PENGYY,MA HY,et al.,2019.Research onthe valueof forest ecosystem servicesand compensation ina Pinus masoniana forest[J].Acta Ecol Sin,39(1):117-130.[吴强，PENGYuanying，马恒运，等，2019．森林生态系统服务价 值及其补偿校准——以马尾松林为例[J]．生态学报，39(1):117-130.]   \nYANG HM,WANGDM,2011.Advances inthe studyonecological stoichiometryin grass-environment systemanditssponse to environmental factors[J].Acta Prat Sin,20(2):244-252.[杨惠敏，王冬梅，2011.草-环境系统植物碳氮磷生态化学计 量学及其对环境因子的响应研究进展 [J]．草业学报，20(2):244-252.]   \nZHANGL,WUJ,2018.The forestoutput valueof Guangxi reached 500 bilion RMB[J].For Guangxi, (1): 6.[张雷，伍建波， 2018．广西林业产值突破 5000 亿元[J]．广西林业，(1):6.]   \nZHANG W,ZHAOJ,PANF,etal.,2O15.Changes innitrogenand phosphorus limitation duringsecondarysucessioniaarst region in Southwest China[J].Plant Soil,391 (1-2): 77-91. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

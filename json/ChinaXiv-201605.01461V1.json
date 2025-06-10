@@ -1,0 +1,926 @@
+[
+    {
+        "type": "text",
+        "text": "Guidelines for monitoring autophagy in Caenorhabditis elegans ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hong Zhang,1\\*Jessica TChang,² BinGuo, Malene Hansen,² Kailiang Jia AttilaLKovacs,4 Caroline Kumsta,2 Louis RLapierre,2RenaudLegouis,LongLin'QunLuAicia Meléndez,EyleenJORourke,KenSato,MiyukiSato,9 Xiaochen Wang,1° and Fan Wu1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "tateK lg Lai ut i School of Medicine; St.Louis, MO USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: autophagy， C. elegans,development,LC3, SQSTM1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations: ASEL, ASE left; ASER,ASEright; ATG,autophagy-related; epg,ectopicPGL granules; ER,endoplasmic reticulum; GFP,greenfuorescentprotein; gg-1,LC3,GABARAPndGE-16fily;Ombanousorgaele;Gaule abnormality; RER,ough edoplasmicreticuum; SQST,eQueTosoerelatedprotein;TEM,trasmissnelectroncoopy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The cellular recycling process of autophagy has been extensively characterized with standard assays in yeast and mammalian cell lines. In multicellular organisms,numerous external and internal factors differentially affect autophagy activity in specific cell types throughout the stages of organismal ontogeny，adding complexity to the analysis of autophagy in thesemetazoans.Herewesummarizecurrently available assays for monitoring the autophagic process in the nematode C. elegans.A combination of measuring levels of the lipidated Atg8 ortholog LGG-1，degradation of wellcharacterized autophagic substrates such as germline P granule components and the SQSTM1/p62 ortholog SQST-1, expression of autophagic genes and electron microscopy analysis of autophagic structures are presently the most informative,yet steady-state,approaches available to assess autophagy levels in C. elegans.We also review how altered autophagy activity affects a variety of biological processes in C.elegans such as L1 survival under starvation conditions, dauer formation,aging,and cell death,as well as neuronal cell specification. Taken together, C. elegans is emerging as a powerful model organism to monitor autophagy while evaluating important physiological roles for autophagy in key developmental eventsaswell asduringadulthood. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction to Autophagy ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Macroautophagy (hereafter referred to as autophagy） is an evolutionarily conserved catabolic process,involving the engulfment of a portion of the cytosol in a double-membrane structure, called the autophagosome,and its subsequent delivery to the lysosome fordegradation.12Autophagyinvolvesaseriesof dynamic membrane formation and fusion processes.Upon induction of autophagy，a crescent-shaped double-membrane sac,known as the phagophore,is initiated and formed; this sac further expands and eventually closes to generate a double-membrane compartment called the autophagosome. In higher eukaryotes,nascent autophagosomes undergo a maturation process by fusing with endocytic vesicles to form amphisomes that further fuse with lysosomes to yield autolysosomes,in which the inner membrane of the autophagosome, together with the sequestrated materials,is degraded and recycled. In response to various stress conditions,autophagy nonselectively degrades bulk cytosol for cell survival.Autophagy can also selectively remove damaged or superfluous organelles, protein aggregates or invading pathogens, functioning as a quality control system.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genetic screens in Saccharomyces cerevisiae initially identified a set of $A T G$ (autophagy-related) genes that are essential for the formation of autophagosomes,laying the groundwork for our understandingofthemolecularmechanismofautophgAtg proteins form distinct complexes that act at different steps of autophagosome biogenesis.1,2 The induction and nucleation of phagophores depends on the Atgl serine/threonine protein kinase complex, including Atg1,Atgl3,and the Atgl7-Atg31- $\\mathrm { A t g } 2 9$ subcomplex,and the class III phosphatidylinositol 3- kinase $\\mathrm { V p s } 3 4$ complex. Expansion of phagophores into autophagosomes requires 2 ubiquitin-like conjugation systems. First, the ubiquitin-like protein Atg8 is conjugated to phosphatidylethanolamine (PE) through the sequential actions of the E1-like enzyme Atg7 and the E2-like conjugating enzyme Atg3,while the second ubiquitin-like protein Atgl2 is conjugated to Atg5 via the actions of Atg7 and the E2-like enzyme Atgl0. The Atgl2-Atg5 conjugates further associate with Atgl6 to form a multimeric complex,which regulates $\\mathrm { A t g 8 – P E }$ conjugation and its localization.Following completion of autophagosomes，Atg8 on the outer membrane is cleaved off by the cysteine protease $\\mathrm { A t g 4 }$ and recycled,while Atg8 on the inner membrane is transported into the vacuole for degradation.1.2 In multicellular organisms， the autophagic machinery is more evolved and requires not only orthologs (or multiple orthologs） of yeast $A T G$ genes but also genes whose homologs are absent in yeast but conserved in mammals.4-6 Genetic screens in $C .$ elegans have identified several metazoan-specificautophagygenes. Forexample， epg-3/VMP1 (mammalian homolog)， epg-4/EI24andepg-6/WIPI4are involved in progression of omegasomes/phagophores into autophagosomes,while epg-5/EPG5 is essential for the formation of degradative autolysosomes.4,5 Although many autophagy genes have been identified,how these genes act coordinately to mediate the formation and maturation of autophagosomes remains largely unknown. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C. elegans as a Model to Study Autophagy ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Caenorhabditis elegansisa self-fertilizing hermaphrodite nematode species.Males,which arise spontaneously at low frequency $( 0 . 1 \\% )$ ， can also fertilize hermaphrodites to produce cross progeny. The life cycle of $C .$ elegans is comprised of the embryonic stage,4 larval stages (L1-L4),and the reproductively mature adult stage,during which the animal will age and die within 2-3 wk in favorable conditions. When early larvae are exposed to harsh environmental conditions,they enter the dauer diapause,which enables them to survive 4 to 8 times the normal 3-wk life span. C. elegans has many advantages for genetic analysis: it is transparent, small,easy to culture,amenable to genetic crosses，has a short reproductive cycle $( \\sim 3 \\mathrm { d } )$ with hundreds of progeny per adult,an invariant cell lineage (959 somatic cells in hermaphrodites),a stereotypical developmental program,highly differentiated somatic tissues,and diverse behavioral and physiological phenotypes.Powerful genetic tools and mature methodologies such as forward genetic screens,generation of transgenic animals and RNA interference (RNAi) in a tissue-specific fashion have been developed that have greatly facilitated research in $C .$ elegans. These advantages make $C .$ elegans an ideal genetic model to study a variety of biological processes,which can be extrapolated to research in more complex organisms.Indeed, studies of $C .$ elegans developmental and physiological processes led to the discovery of the apoptotic cell death machinery， siRNA-mediated mRNA degradation，and miRNA-mediated gene silencing. Additionally, $C .$ elegans has been instrumental in elucidating many well-conserved signaling pathways,such as those involving RAS,WNT,INS (insulin)/IGF1, and TGFB. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Autophagy in $C .$ elegans occurs in many cell types and plays an essential role in many developmental and physiological processes, includingsurvivalofanimalsundernutrient restricted conditions,removal of a variety of protein substrates,degeneration of 6 touch receptor neurons caused by toxic ion-channel variants,dauer formation， the aging process, and prevention of bacteralfeci detail below.Autophagic removal of a variety of protein substrates during embryogenesis has established $C .$ elegans as a model suitable for genetic screens for essential autophagy genes.4-6 In addition to highly conserved yeast Atg proteins， such genetic screens in $C .$ elegans have identified metazoan-specific components of the basal autophagy pathway (Table 1),greatly expanding our molecular understanding of autophagy in higher eukaryotes. Genes that are distantly related homologs of yeast $A T G$ genes or that have no yeast counterparts include epg-1, -3, -4,5,-6t logs of yeast ATG4,ATG16,and ATG8,which confers another layer of complexity on the autophagic machinery.A detailed summary of the role of these genes in the autophagy pathway can be found inrecent reviews.6,18Epistasis geneticanalysis places these autophagy genes in a hierarchical order in the pathway for degradation of protein aggregates, a process known as aggrephagy (Fig. 1).5,6 The sequential involvement of these genes in the aggrephagypathwayin $C .$ elegans resembles the hierarchical order of Atg/ATG proteins that are recruited to the autophagosome formation site in yeast and mammalian cels.19,20 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Classical Assays to Monitor Autophagy ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Assays for monitoring autophagy activity have been extensivelydescribedineastammacellnt LC3(a mammalian Atg8 homolog) is widely used as a marker to monitorautophagyactivity.21,22ThePE-conjugatedformof $\\mathrm { A t g 8 / L C 3 }$ is localized to both the inner and outer membranes of the phagophore. Thus,Atg8/LC3 associates with autophagosomal membranes upon autophagy induction.Degradation of autophagy substrates such as SQSTM1/p62 (sequestosome 1) and ubiquitinated proteins in mammalian cells can also be used tomonitorautophagy.21,22Moreover， detailed morphological characterization of autophagic structures can be achieved by the high magnification and resolution images of transmission electronmicroscopy (TEM).21,22 The complex and multistep autophagy process,however,cannot be analyzed by any single assay,especially those considered steady-state in nature and thus not reporting on autophagic flux per se.Instead,a combination of assays is required for measuring autophagy activity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite $C .$ elegans emerging as an important model to study autophagy at the molecular level and to reveal functions of autophagy during development and in physiology,it is not easily amenable to the main methods of traditional autophagy studies such as cellfractionationand TEM.23 Inaddition,studying autophagy in a multicellular organism is complicated by the heterogeneity of cell types,spatial and temporal cell fates,and differential response to stress conditions in different tissues.In order to study autophagy in $C .$ elegans,researchers rely heavily,and in most cases solely,on the expression pattern of reporters for the Atg8/LC3 ortholog LGG-1. This assay has many limitations (see below) and cannot by itself serve as a marker to determine whether autophagy activity is elevated or impaired. Here we summarize currently available assays to monitor autophagy during C. elegans development and physiology，while pointing out their limitations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c5d80a14a761946efbd3e5ea4bf385ff16fc41ca6296ffd091a9d8f7d37be3a.jpg",
+        "table_caption": [
+            "Table1.Autophagy genes in yeast,mammals and C.elegans. "
+        ],
+        "table_footnote": [
+            "aThe nullmutants forbec-1,epg-8,vps-34,atg-7,lgg-1and lgg-3arelethal. bbec-1(bp613)ndt-854areomoicutantsdeieakerdfectingdatioofgauesdSQ-ggegatestath corresponding null mutants. Catg-4.2(tm3948) mutants show no defect in degradation of PGL granules and SQST-1 aggregates. datg-16.1(gk668615) mutants show a very weak defect in degradation of PGL granulesand SQST-1 aggregates. eThe molecular lesions in each listed mutant and more mutant alleles for each gene can be found in the references. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"3\">C. elegans ATG homolog(s)</td></tr><tr><td>Yeast ATG gene</td><td>Mammalian ATG homolog(s)</td><td>gene</td><td>mutant allele(s)a,b</td><td>Refe</td></tr><tr><td>ATG1</td><td>ULK1</td><td>unc-51</td><td>e369</td><td>85</td></tr><tr><td>ATG2</td><td>ATG2A, ATG2B</td><td>atg-2</td><td>bp576</td><td>5</td></tr><tr><td>ATG3</td><td>ATG3</td><td>atg-3</td><td>bp412</td><td>7</td></tr><tr><td>ATG4</td><td>ATG4A, ATG4B,ATG4C,ATG4D</td><td>atg-4.1</td><td>bp501</td><td>26</td></tr><tr><td></td><td></td><td>atg-4.2</td><td>tm3948</td><td>26</td></tr><tr><td>ATG5</td><td>ATG5</td><td>atg-5</td><td>bp484</td><td>27</td></tr><tr><td>ATG7</td><td>ATG7</td><td>atg-7</td><td>bp422,bp290</td><td>7</td></tr><tr><td>ATG8</td><td>LC3,GABARAP, GABARAPL1, GABARAPL2</td><td>lgg-1</td><td>bp500,tm3489</td><td>4,25</td></tr><tr><td></td><td></td><td>lgg-2</td><td>tm5755</td><td>25</td></tr><tr><td>ATG9</td><td>ATG9</td><td>atg-9</td><td>bp564</td><td>5</td></tr><tr><td>ATG10</td><td>ATG10</td><td>atg-10</td><td>bp421</td><td>7</td></tr><tr><td>ATG12</td><td>ATG12</td><td>lgg-3</td><td>tm1642</td><td></td></tr><tr><td>ATG13</td><td>ATG13</td><td>epg-1</td><td>bp417</td><td>15</td></tr><tr><td>ATG14</td><td>ATG14</td><td>epg-8</td><td>bp251,ok2561</td><td>16</td></tr><tr><td>ATG16</td><td>ATG16L1,ATG16L2</td><td>atg-16.1</td><td>gk668615d</td><td>27</td></tr><tr><td>ATG17</td><td></td><td>atg-16.2</td><td>bp636,ok3224</td><td>27</td></tr><tr><td>ATG18</td><td>RB1CC1 WIPI1,WIPI2,WIPI3,WIPI4</td><td>atg-18</td><td>bp594,gk378</td><td></td></tr><tr><td></td><td></td><td>epg-6</td><td>bp242</td><td>4,31</td></tr><tr><td>VPS30/ATG6</td><td>BECN1</td><td>bec-1</td><td>bp613,ok700</td><td>5</td></tr><tr><td>VPS34</td><td>PIK3C3</td><td>vps-34</td><td>h741</td><td>31,86</td></tr><tr><td></td><td>VMP1</td><td></td><td></td><td>87</td></tr><tr><td></td><td>EI24</td><td>epg-3</td><td>bp405</td><td>4</td></tr><tr><td></td><td>EPG5</td><td>epg-4</td><td>bp425</td><td>4</td></tr><tr><td>ATG101</td><td></td><td>epg-5</td><td>bp450,tm3425 bp320</td><td>4</td></tr><tr><td></td><td></td><td>epg-9</td><td></td><td>17</td></tr><tr><td></td><td></td><td>epg-2</td><td>bp287</td><td>4</td></tr><tr><td></td><td></td><td>epg-7</td><td>bp586,tm2508</td><td>35</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "specification and morphogenesis occur in a spatially- and temporally specific pattern.According to their appearance, embryos can be classified into pre-comma,comma,2-fold,3-fold,and 4-fold stages. The surrounding eggshell is impermeable to most solutes. Consequently, the development of C. elegans embryos is independent of external nutrients and mainly relies on degradation of maternally-loaded yolk. Therefore，autophagy occursunder ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Monitoring Autophagy During C.elegans Embryogenesis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After passing from the oviduct into the spermatheca,mature oocytes become fertilized by fusion with sperm.Fertilized embryos in the uterus undergo several rounds of cell division (reaching approximately the 30-cell stage) before they are laid through the vulva. The $C .$ elegans embryo is enclosed in a hard eggshell and remains the same size from the one-cell stage to the 558-cell stage, resulting in a gradual reduction of cell size.Cell-fate physiological conditions without being affected by external nutrient availability in $C .$ elegans embryos. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9df191c9b886cc4796e7b961be092f8723e60aa4a48260126dff4b10c52ad6d3.jpg",
+        "img_caption": [
+            "Figure1.The hierarchical orderof autophagy genes in the aggrephagy pathway. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LGG-1 puncta and levels of LGG-1 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$C .$ elegans contains 2 Atg8 homologs，encoded by_ lgg-1 and lgg-2, both of which are involved in autophagy. y410Il type $C .$ elegans,LGG-1 is synthesized as a precursor that is processed by the cysteine proteases ATG-4.1 and ATG-4.2 at a conserved glycine residue at amino acid 116,to release the final 7Cterminal residues and generate LGG-1-I, which is further conju gated to PE via the sequential actions of ATG-7 and ATG-3 to give rise to LGG-1-I.26 Levels of LGG-1 and also formation of LGG-1 puncta can be examined to monitor autophagy during embryogenesis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LevelsofLGG-1-Iand-II ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on molecular weight and lipid modification status,3 forms of LGG-1, i.e., LGG-1 precursor, LGG-1-I and LGG-1- II, can be separated by SDS-PAGE (Fig.2A). LGG-1 precursors are absent in wild-type embryos,but accumulate in atg-4.1 mutants (Fig. 2A).26 Both LGG-1-I and LGG-1-I are present in wild-type embryos,whereas LGG-1-II is undetectable in atg-3 and atg-5 mutants (Fig. 2A).4,27 When autophagy is blocked at the step of autophagosome formation such as in epg-3,-4, and $^ { - 6 }$ mutants,or at the maturation step such as in epg-5 mutants, levels of both LGG-1-I and LGG-1-II are elevated compared to wild-type animals (Fig. 2A).4,5 LGG-1-II also accumulates in response to mutation of autophagy genes involved in autophagosome formation，including in UNC-51/Atg1 kinase complex mutants,VPS-34 PtdIns3P lipid kinase complex mutants,and in atg-18 and atg-9mutants.4,16,17 Therefore,anincrease in levels of lipidated LGG-1 can result from a block of autophagy. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: In immunoblotting assays,LGG-1-II migrates faster than LGG-1-I and can be separated by $1 3 \\%$ SDSPAGE without special treatments or other gel conditions such as the inclusion of urea. LGG-1-I is stable and appears not to be affected by sample preparation through repeated freeze-thaw cycles.Levels of LGG-1-II vary at different developmental stages. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a589814f4cfce55f823fdf3cd4f918824decc6a6ef67db65c930a19a42edff6.jpg",
+        "img_caption": [
+            "Figure2-bsisu-ad-liaid epg-4 and atg-3 mutant embryos.(B-E) LGG-1 forms punctate structures at the ${ \\sim } 1 0 0$ -cell stage (B)and C),but these structures disappear at the comma stagenwild-tebdE).(dtbsi(d)spiely.(d)pa tg-3ebrftbon)caesdusterucui 1is largely diffuse in the cytoplasm with some pu structures.(l)and K) DIC images of the embryos shown in (J)and L),respectively.(M-P) GFP:: LGG-1 forms aggregates in atg-3 mutant embryos,which colocalize with SQST-1 aggregates. Inserts show magnified views. (M) DAPl image of the embryo shown in (N-P). Scale bar: $5 ~ \\mu \\mathrm { m }$ (B-P); $2 . 5 ~ { \\mu \\mathrm { m } }$ (inserts in N-P). C. elegans embryos remain the same size during embryogenesis.Thus,the scale bar is only shown once in each figure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For immunoblotting assays,embryos need to be synchronized, which can be roughly achieved by growing the embryos after bleaching gravid hermaphrodites. Wild-type embryos at the same stage should serve as a control to compare LGG-1-II levels. Detection of LGG-1 levels by immunoblotting assays can be complicated by the heterogeneity of cell types in embryos. For example, the large accumulation of LGG-1-II ina few cells cannot be differentiated from a smaller increase ofLGG-1-II in a larger number of other cells.Also,as noted above,impaired autophagy could lead to accumulation of LGG-1-II; thus,other assays are required for measuring autophagy. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Anti-LGG-1 staining and GFP::LGG-1 puncta ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Immunostaining with anti-LGG-1 antibody or expression of the GFP::LGG-1 reporter can be examined to monitor distribution of total LGG-1 in C.elegans embryos.4 s.4,10,28During embry genesis,LGG-1 puncta，detected by anti-LGG-1，display a dynamic pattern.LGG-1 puncta are mostly formed between the ${ \\sim } 1 0 0$ and 200-cell stages (Fig.2B-E). The number of puncta dramatically decreases as development proceeds with a minimum detected at the 4-fold stage.4 4,5 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition to the 100- to 200-cell stages，LGG-1-positive structures are formed intensively around penetrating sperm components inearlyonecelstageembryos.2930heseL tive structures appear approximately $2 0 ~ \\mathrm { m i n }$ after fertilization (during meiosis II) and first cluster around the paternal DNA. They start to disperse in the cytoplasm during pronuclear break down，are randomly distributed to blastomeres,and gradually disappear by the 8-cell stage. These LGG-1-labeled structures, which are larger than those formed in the later embryonic stages, specifically engulf paternal mitochondria and membranous organelles(MOs)，whicharesperm-specificpost-Golgi organelles.29,30 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LGG-1 exhibits distinct patterns in different autophagy mutants.In mutants of atg-3 and atg-7,which are required for LGG-1 conjugation to PE,no LGG-1 puncta are detected (Fig.2F and G),indicating that LGG-1-II accumulates on autophagic structures and contributes to the formation of LGG1 puncta.4 Consistent with this,mutant LGG-1(G116A)，in which the glycine at position 116 is mutated to alanine,preventing PE-conjugation,is diffusely localized in the cytoplasm and does not form puncta.25 LGG-1 puncta are also absent in atg-5and atg-10mutants.427 In mutants of the Atg1complex, including unc-51/ULK1，epg-1/ATG13,andepg-9/ATG101, LGG-1 puncta are absent in most cells,_but LGG-1 accumulates into large aggregates in several cells.17 The identity of these LGG-1-positive structures has yet to be characterized. In mutants of the PtdIns3K complex, including epg-8/ATG14 and bec-1/BECN1，LGG-1 formspuncta，but the intensityis weaker. In epg-3,epg-4，epg-6,and atg-2 mutants，which have defects in the progression of omegasomes to autophagosomes, LGG-1 puncta dramatically accumulate and form cluster-like structures that are largely colocalized with protein aggregates (Fig. 2H).4,5 LGG-1 puncta also accumulate in other autophagy mutants, including atg-18 and epg-5.4,5 In these autophagy mutants，LGG-1punctapersistinto latestagesof embryogenesis.ogt-1 mutant embryos,which show elevated autophagy activity,also exhibit increased numbers of LGG-1 puncta.3l Therefore,an increase in the number of LGG-1 puncta during embryogenesis could be due to either impaired or elevated autophagy activity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GFP:LGG-1,driven by its own promoter,also exhibits a dynamic pattern resembling endogenous LGG-1 puncta during embryogenesis in wild-type animals (Fig. 2I-L). GFP::LGG-1 is largely diffuse in the cytoplasm but forms some punctate structures,which are still present in comma stage embryos (Fig. 2K and L).7 GFP:LGG-1 accumulates in the autolysosomes in cup5 mutants, which show impaired lysosomal function.3² The autophagosomes enclosing sperm components in early stage embryos can also be labeled by GFP:LGG-1,and thus, strong accumulation of the GFP signal is visible in the posterior pole of the 1- cel-stage embryo2Inadditio,severalsmallGFP:LG-1-positive puncta are observed in the cytoplasm of oocytes and early embryos,which may represent basal autophagic activity.In atg-3 and atg-7 mutants,in which LGG-1 puncta detected by antiLGG-1 are absent, GFP:LGG-1 stillforms aggregates that colocalize with protein aggregates that can be labeled by the C. elegans SQSTM1-related protein SQST-1 (Fig. 2M-P).15 This indicates that GFP:LGG-1, like GFP::LC3 in mammalian cells, can also be incorporated into protein aggregates. Therefore,under certain circumstances, GFP::LGG-1 may not serve as a reliable marker to determine autophagy activity during embryogenesis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: The number of LGG-1 puncta varies dra matically during embryogenesis and thus embryos at the same developmental stage should be compared.An increased number of LGG-1 puncta and levels of PE-LGG-1 can result from either a block in or induction of autophagic activity and can be detected in mutants with a defect in early steps of autophagosome formation (i.e.,accumulation of enlarged phagophore membranes in epg-3 and epg-4 mutants) or in a late step of the autophagy pathway such as defective autolysosome function.Furthermore,lipidated LGG-1 also accumulates on unknown structures such as in mutants of the Atgl complex.17 Therefore, LGG-1 puncta formation should not be used as the sole marker for assaying autophagy, as is the case in mammalian cels.21,22 Furthermore, GFP::LGG-1 transgenes,which may cause overexpression of lgg1,might interfere with autophagy (as shown in other species). When possible,antibody staining should be preferred and the overexpression level should be minimized using endogenous promoters and single-copy transgenes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Analyses of autophagosomes using LGG-2 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LGG-2 has been much less characterized than LGG-1, but it can be used as a convenient alternative marker to monitor autophagy activity during development. t.24,25 Unlike lgg-1,lg-2 is not essential for development and fertility (Table1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Immunostaining with anti-LGG-2 antibodies or expression of a GFP:LGG-2 reporter can be examined to monitor distribution ofLGG-2 in C. elegans embryos or larvae (Fig.3A).24,25 The number of LGG-2 puncta is altered in mutants that affect autophagy (e.g., atg-7 or epg -3,-4, -5) (Fig.3A and B). Electron microscopy has shown that LGG-2 is localized on autophagic membranes and can be detected early during the elongation of phagophores (Fig. 3D).25 Immunofluorescence analysis revealed the presence of 3 types of punctate structures in the embryo,LGG-1-positive puncta,LGG-2-positive puncta,and double-positive puncta,25 indicating that they could define different types of autophagic structures or that LGG-1 and LGG-2 are sequentially recruited to autophagic structures.Western blot analysis of animals expressing GFP:LGG-2 shows a major GFP-positive band corresponding to the fusion proteins and 2 additional minor bands,which could correspond to post-translational modifications,but the lipidated form has not been formally identified (Fig. 3C).24 The nonconjugatable GFP:LGG- $2 ^ { \\mathrm { G 1 3 0 \\mathrm { \\dot { A } } } }$ exhibitsa diffuse localization patten in the cytoplasm (Fig.3E and F). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cffb0fa76c261a034d62ddf8755971fb409fa550322af03af6aa0fca7ee698c.jpg",
+        "img_caption": [
+            "Figure3L2paringbsisd)focalasf-1d-e)nitde) Western blot of protein extracts from mixed-stage GFP:GG-2and GFP:LGG $2 ^ { \\mathsf { G 1 3 0 A } }$ transgenic worms incubated with anti-GFP antibody. (D) Electron micrographsofGP:LGG-2mbryosincubatedwithantGantibodies.eightpanelshoamagnifedviewofteautophagosoeScalebar （2 $2 0 0 ~ \\mathsf { n m }$ (E)andF)Confocal images of GFP:LGG-2and GFP:LGG $\\cdot 2 ^ { \\mathsf { G 1 3 0 A } }$ in 500-cellembryos. GFP:LGG-2 localizes in both a punctate anda diffuse patern while GFP:LGG $2 ^ { \\mathsf { G 1 3 0 A } }$ isdiffuselylocalizedinthecytosol.Thisfgurewaspreviouslypublishedinreferences24and25andisreproducedbypision of Elsevier and Landes Bioscience. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: Analyses of LGG-2 levels by immunoblotting and GFP::LGG-2 should be interpreted with the same precautions as those for LGG-1. The number of LGG-2 puncta varies during development and thus animals at the same develop mental stage should be compared. Antibodies against LGG-2 have only been used to characterize autophagy in the early embryo，and their specificity at other developmental stages remains to be determined. Because the process of lipidation of LGG-2 has not been further investigated,western blot analyses of GFP:LGG-2 alone are not sufficient to make conclusions about autophagic fux. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Monitoring autophagy substrates ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "During C. elegans embryogenesis,a variety of protein substrates, including PGL granules (containing the germline $\\mathrm { ~ P ~ }$ granule components PGL-1 and PGL-3 and the receptor protein SEPA-1)andSQST-1,re degradedbyutophagy.47Thus,lev els of these autophagy substrates can be determined to monitor autophagy. The morphology and distribution pattern of these protein substrates are distinct in different autophagy mutants, and this has been used to establish the hierarchical order of autophagy genes in the aggrephagy pathway.5,6 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$P$ -granule proteins PGL-1 and PGL-3 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "During C. elegans embryogenesis,maternally-loaded $\\mathrm { ~ \\bf ~ P ~ }$ granules are exclusively localized in germline precursor cells (Fig. 4A and B).33 During early asymmetric divisions that give rise to the germline precursor cells P1,P2,P3,and P4,P granules are also partitioned into somatic blastomeres but are quickly removed.7,33 The $\\mathrm { ~ P ~ } { }$ granule components PGL-1 and PGL-3 are selectively removed from somatic cells by autophagy.7In autophagy mutants， PGL-1 and PGL-3 accumulate into aggregates in somatic cells (Fig. 4C and D).7 Formation of PGL-1 and PGL-3 granules in somatic cells can be detected by immunostaining using anti-PGL-1 and PGL-3 antibodies or by following the corresponding $g \\phi$ reporters.Levels of PGL-1 and PGL-3 can also be determined by immunoblotting assays using embryonic extracts. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: Endogenous PGL granules,detected by anti-PGL-1 and PGL-3 antibodies,are absent in somatic cells in wild-type embryos. However, the widely used $g \\phi . { : \\cdot } p g l - l$ reporter, which is driven by the germline-specific pie-1 promoter, is nonspecifically expressed in hypodermal cells at late embryonic stages,resulting in the formation of some small GFP::PGL-1 aggregates. Thus，early embryos, i.e.，comma stage or earlier, should be used for detecting somatic GFP::PGL-1 granules, before $g \\mathscr { f } p . { : : } p g l - l$ is expressed ectopically. The experiments should be performed at $2 0 ~ ^ { \\mathrm { o } } \\mathrm { C } ,$ since PGL-1 and PGL-3 form aggregates in somatic cells if the embryos are raised at higher temperatures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In addition to autophagy mutants，somatic-to-germline cell fate transformation mutants also show formation of P granules in somatic cells.For example,somatic cells adopt germline cell traits in lin-35 and other synthetic multivulva (synMuv) B mutants or in animals with impaired proteasomeactivity.7.34 In cell fate transformation mutants,P granules are present in a subset of cells (e.g.,hypodermal cells and intestinal cells) at the larval stage and usually have a perinuclear localization,while $\\mathrm { ~ P ~ } { }$ granules are dispersed in the cytoplasm in most, if not all,somatic cells in autophagy mutant embryos. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "During C. elegans embryogenesis,germ blastomeres,especially P1 (at the 2-cell stage) and P2 (at the 4-cell stage),contain a huge amount of $\\mathrm { \\Delta P }$ granules. P4 divides once to generate 2 germ precursor cells,Z2 and Z3,which remain quiescent during embryogenesis. $\\mathrm { ~ \\bf ~ P ~ }$ granules persist in Z2 and Z3 throughout embryogenesis.To determine levels of PGL-1 and PGL-3 in immunoblotting assays,embryos after the generation of the Z2 and Z3 cells (at the ${ \\sim } 1 0 0$ cell stage) should be used to minimize the relative contribution of PGL-1 and PGL-3 from germline cells. Z2 and Z3 proliferate from the late L1 stage onward to generate germ cells, in which $\\mathrm { ~ P ~ } { }$ granules are synthesized. These germ cells，which increase in number as development proceeds,are stored in the gonad. Thus,larval animals should be separated from embryos in immunoblotting assays. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5aaea88a3f692f2deb708afd3af883dd9a64c0fd728b43ee7aa808c4dda4e5b8.jpg",
+        "img_caption": [
+            "Figure 4.Various protein aggregates are degraded by autophagy during embryogenesis.((A)and B) PGL-1 granulesare restricted to germ precursor cells Z2 and Z3 in wild-type embryos. ((C)and D) PGL-1 granules accumulate in somatic cells in atg-3 mutantembryos. ((E)and F) SEPA-1 forms spherical aggregates at the ${ \\sim } 1 0 0$ cell stage in wild-type embryos. (G)and H) SEPA-1 aggregates disappear in wild-type comma stage embryos. ((l)and J) SEPA-1 aggregates accumulate in atg-3 mutant embryos throughout embryogenesis. ((K)and L) No SQST-1 aggregates aredetected in wild-type embryos.((M)and N) SQST-1 accumulates into numerousaggregates in atg-3 mutant embryos. (A, C,E,G,I,K, and $\\pmb { M }$ ） DAPl images of the animals shown in (B, D,F, H, J,L,and N),respectively. Scale bar: $5 ~ \\mu \\mathsf { m }$ (A-N). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The receptor protein SEPA-1 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The self-oligomerizing protein SEPA-1 acts as the receptor for the formation of PGL-1 and PGL-3 granules and also for their autophagic degradation.7 SEPA-1 directly associates with PGL-3 and LGG-1.7 SEPA-1 is also selectively removed by autophagy, which is independent of PGL-1 and PGL-3.7 In wild-type embryos,the number of SEPA-1 aggregates is dramatically decreased as development proceeds.A large number of SEPA-1 aggregates are detected at the ${ \\sim } 1 0 0$ -cell stage and only a few SEPA-1 aggregates remain at the 200-cell stage (Fig. 4E and F). SEPA-1 aggregates disappear from the comma stage onward (Fig. 4G and H). Inhibition of autophagy causes accumulation of SEPA-1 into a large number of aggregates that persist throughout embryogenesis (Fig. 4I and J).7 In autophagy mutants, SEPA-1 completely colocalizes with PGL-1 and PGL-3 in somatic cells, forming aggregates termed PGL granules.7 SEPA1::GFP exhibits the same dynamic distribution pattern as endogenous SEPA-1 detected with an anti-SEPA-1 antibody.7 Levels of SEPA-1 or SEPA-1::GFP in embryonic extracts can also be determined in immunoblotting assays.Elevated autophagy activity during embryogenesis may facilitate the removal of SEPA-1, resulting in a decreased number of SEPA-1 aggregates in early stage mutant embryos compared to wild-type embryos at the same stage (H. Zhang, unpublished data). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: SEPA-1 exhibits a dynamic pattern during embryogenesis， so embryos at the same developmental stages should be used for analysis.SEPA-1 is zygotically synthesized and is absent in germline cells.7 Thus,unlike P granules, SEPA-1 does not accumulate in somatic-to-germ cell fate transformation mutants. To determine levels of SEPA-1 in an immunobloting assay,extracts of late-stage embryos should be used,as a large number of SEPA-1 aggregates are present in early-stage embryos. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The receptor protein SQST-1 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SQST-1 exhibits sequence similarity to mammalian SQSTM1 and is also degraded by autophagy.4 Unlike SEPA-1, which forms aggregates in early stage embryos,SQST-1 is weakly expressed and diffusely localized in the cytoplasm throughout embryogenesis (Fig. 4K and L).4 Blocking autophagy increases the levels of SQST-1 and also results in accumulation of a large number of SQST-1 aggregates (Fig. 4M and N).4 In autophagy mutants, SQST-1 aggregates are evident from the $6 4 -$ to ${ \\sim } 1 0 0$ -cell stages onward and persist throughout embryogenesis.4 SQST-1:GFP exhibits the same expression pattern as endogenous SQST-1 as detected by the anti-SQST-1 antibody. 4 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In different autophagy mutants, SQST-1 aggregates and PGL granules exhibit distinct morphologies and distribution patterns. In mutants with defects in the 2 ubiquitin-like conjugation systems,the UNC-51-EPG-1-EPG-9 (Atg1） complex and the PtdIns3K (Vps34) complex， SQST-1 aggregates are spherical and dispersed in the cytoplasm，and are separable from PGL granules. In epg-3,-4, -6, and atg-2 mutants,which block autophagosome formation, SQST-1 aggregates and PGL granules are iregular in shape and form cluster-like structures.4,5. These distinct phenotypes can be used for genetic epistasis analysis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Accumulation of SQST-1 aggregates and PGL granules in hypomorphic autophagy mutants can be suppressed by elevated autophagy. For example, overexpression of EPG-6 suppresses the accumulation of PGL granules in atg-3 hypomorphic mutants. This assay,together with monitoring the number of LGG-1 puncta and SEPA-1 removal, can be applied to determine whether autophagy activity is elevated during embryogenesis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: SQST-1 accumulates in dead embryos with abnormal morphogenesis.Properly developed embryos should be used to examine the expression pattern of SQST-1.Embryos at the same developmental stage should be used for analysis of suppresson of protein aggregate accumulation in hypomorphic autophagy mutants,as the number of protein aggregates varies during embryogenesis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Other protein aggregates ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In C. elegans,a group of coiled-coil domain-containing proteins,including C35E7.6,ZK1053.4, T04D3.1, T04D3.2,and F44F1.6,show limited sequence similarity to SEPA-1. These proteins are also degraded by autophagy during embryogenesis. In loss of autophagy activity mutants,levels of these proteins are dramatically increased and accumulate intoaggregates.4,5,7,15-17 ZK1053.4 and C35E7.6 colocalize with SQST-1 aggregates, while T04D3.1， T04D3.2 and F44F1.6 aggregates are distinct from SQST-1 aggregates in autophagy mutants.35 Thus, loss of autophagy activity causes accumulation of different types of protein aggregates during C. elegans embryogenesis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: Loss-of-function of essential autophagy genes causes a defect in degradation of PGL granules,SQST-1 aggregates and other protein aggregates as described above, but some factors confer selectivity on autophagic degradation,and loss of function of these genes results in a defect in degradation of certain types of protein aggregates.For example, mutations in epg-2 cause a defect in removal of PGL granules,but have no effect on degradation of SQST-1，whereas mutations in epg-7 cause a defect in degradation of SQST-1 but not PGL granules.4.35 EPG-2 and EPG-7 function as scaffold proteins that link protein aggregates with the autophagic machinery.4,3 ,4,35Thus, different substrates, including PGL granules and SQST-1 aggregates,should be examined to determine whether a gene is gener ally required for autophagy. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Selective removal of paternal mitochondria and MOs during embryogenesis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Paternal mitochondria and membranous organelles (MOs) are engulfed by autophagosomessoon after fertilization and degradedbythe-cellstage293hstyeoftohs been termed allogeneic (non-self) organelle autophagy,or allophagy.Allophagy is required for complete elimination of paternal mitochondrial DNA from embryos in $C .$ elegans.Ubiquitination has been observed on MOs preceding autophagosome formation, although it has not been determined whether this ubiquitination is functionally required for allophagy.In contrast to MOs,no obvious ubiquitination has been observed in paternal mitochondria.29,30Degdationofpatealganellsisinhbitedby mutations or RNAi of core autophagy genes such as unc-51, atg5,atg-7,atg-18,and lgg-1,and paternal organelles remain in 32- cell stage embryos or later stages as small puncta.In lgg-1 and atg-18 knockout mutants,paternal mitochondria are detectable even in L1 larvae.The number of paternal mitochondria does not increase in autophagy mutants, suggesting that they lose their ability to proliferate. It is difficult to convincingly detect paternally-inherited mitochondria in L2 or later-stage animals because the body mass expansion dilutes the signal. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To visualize paternal mitochondria,males can be stained with MitoTracker Red CMXRos and crossed with unstained hermaphrodites.2930Alternatively，transgenicwormsexpesing mitochondria-targeted GFP fusion proteins (HSP-6:GFP or ANT-1.1:GFP) under control of a sperm-specifc promoter can be used.29.30 MOs are detected using the monoclonal antibody 1CB4 or SP56 that specifically stains MOs.3637 The autophagic degradation of paternal mitochondria can be examined by monitoring the degradation ofpaternal mitochondrial DNA (mtDNA) usinga PCR-based method.In particular,a large deletion mutant of mtDNA (uaDf5) can be used to detect male mtDNA.38 uaDf5 is stably maintained in a heteroplasmic state with the wild-type mtDNA (uaDf5/+; approximately $6 0 \\%$ of mtDNA harbors the deletion in each individual) and can be distinguished from wild-type mtDNA by using PCR. When uaDf5/ $+$ males are crossed with hermaphrodites,uaDf5 is not normally transmitted to the next generation because of autophagy-dependent degradation of paternal mitochondria. However，in the autophagy mutant background, paternal uaDf5 is detectable in the F1 embryos or larvae. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes:To detect paternal organelles or mtDNA in F1 larvae,hermaphrodites and males derived from the same autophagy mutants should be used. When males and hermaphrodites are crossed,autophagosome formation at the 1-cell stage depends on the autophagic activity of oocytes.However，the genotype of the males could affect the results. When wild-type males are crossed to autophagy-defective mutant hermaphrodites, autophagy is not induced in the F1 1-cell stage embryos,but is rather activated in later-stage embryos because of the paternally provided wild-type allele.In this situation,the degradation of paternal organelles is delayed, but eventually occurs in late-stage embryos,probably because of nonselective autophagic turnover of cytoplasmic components or normal allophagy that occurs later or more slowly once the paternal genome is expressed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Monitoring Autophagy at Post-Embryonic Stages ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "After hatching, C. elegans go through 4 larval stages (called L1- L4)，separated by molting，before developing into sexually mature adults.Unlike embryos,larvae and adult animals rely on external nutrients for development. In larvae and adult animals, hypodermis,seam cells and intestinal cells have so far been extensively characterized for autophagy phenotypes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LGG-1 puncta and levels of LGG-1 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In well-fed,wild-type animals,GFP::LGG-1 is diffusely localized in various tissues at larval and adult stages (Fig. 5A,B,D and E).Upon starvation,GFP::LGG-1 puncta increase in hypodermis,seam cells,and intestinal cells,representing an increase in autophagy (Fig. 5C and F).Accumulation of GFP::LGG-1 puncta can also result from a block in autophagy flux.Numerous GFP::LGG-1 puncta accumulate in epg-6 and epg-5 mutants,in which autophagy is blocked at the formation of autophagosomes and degradative autolysosomes,respectively (Fig. 5G).A large number of GFP::LGG-1 puncta accumulate in multiple tissues in atg-3 mutants at the L1 larval stage (Fig. 5H),but largely disappear at late larval stages (Fig.5I).Similar to the embryo,both an increase or decrease in autophagy can cause increased levels of LGG-1-II inan immunoblotting assay.39,40 Thus, inaddition to formation of GFP:LGG-1 puncta and levels of LGG-1-II, other assays，including degradation of substrates such as SQST-1, should be examined todetermineautophagicfux.39.40 Celegans are enclosed by a cuticular structure that is impermeable to antibodies. For immunostaining assays, larvae and adult animals can be cut in the middle and then stained with anti-LGG-1.39,40 Compared to immunostaining with anti-LGG-1，the GFP:: LGG-1 reporter is much more convenient for analyzing the expression pattern of LGG-1. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "When an increase in GFP::LGG-1 puncta is observed, this condition could be further tested in autophagy-compromised animals such as autophagy mutants or with RNAi-mediated autophagy inhibition. While use of RNAi is very powerful for inhibition of autophagy in C. elegans， one generation of autophagy RNAi is usually not sufficient to see effects on the GFP:LGG-1 reporter in larvae or in adults.1² However,acute inhibition of autophagy，specifically in adult animals,can be done using the autophagy inhibitor bafilomycin A1,41,42 whichis commonly used in mammalian systems to inhibit acidification of autolysosomes.21 Bafilomycin $\\mathrm { A } _ { 1 }$ can be injected into adult wildtype worms and an increase in the number of autophagosomes can be observed in as few as $^ { 2 \\mathrm { ~ h ~ } }$ post-injection as determined by an increase in GFP::LGG-1 puncta in the seam cells of wild-type animals, consistent with a block in autophagy91 (Fig. 6A and B). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: Formation of GFP::LGG-1 puncta is sensitive to a variety of stresses,including starvation and contamination.The GFP:LGG-1 reporter is also sensitive to the type of anesthetics used to mount the transgenic animals; very few LGG1-puncta are observed in animals mounted in $0 . 1 \\%$ $\\mathrm { N a N } _ { 3 }$ whereas levamisole or tetramisole hydrochloride both cause noticeable levels of puncta within $5 { - } 1 0 \\ \\mathrm { m i n }$ of mounting the animals (Fig. 7A-F). When scoring GFP::LGG-1-positive puncta in the intestine of adult animals,autofluoresence is an issue.Use of confocal microscopy to restrict the excitation and emission wavelengths can alleviate this problem to some degree. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As noted above,an increase in the number of GFP::LGG-1 puncta may result from either elevated or impaired autophagic fux3940ThereforetheformatonofGFP:LGG-1puncta should be carefully interpreted and autophagy in larvae or adults should be examined by additional methods,including bafilomycin $\\mathbf { A } _ { 1 }$ treatment,monitoring the degradation of autophagy sub strates and electron microscopy. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Autophagy substrates in the intestine and hypodermal cells ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In wild-type animals, SQST-1::GFP is weakly expressed at the larval and adult stages (Fig. 8A and B). In autophagy mutants, SQST-1:GFP accumulates into a large number of aggregates in multiple tissues,including the epidermis,neurons and intestine (Fig. 8C and D). Autophagy activity is induced in response to a variety of stresses. In epg-7 mutants,accumulation of SQST-1:: GFP in larvae can be suppressed by the inactivation of LET-363/ TOR signaling or by starvation.35 Levels of SQST-1:GFP can also be determined in an immunoblotting assay.40 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "W07G4.5::GFP,a nematode-specific protein, is also selectivelyremoved by autophagy at post-embryonic stages.35 W07G4.5:GFP is mainly expressed in the intestinal cels and forms aggregates that are localized in the cytoplasm and also in thenuclei at larval stages.3 In autophagymutants, W07G4.5: GFP is present at dramatically elevated levels and forms more aggregates in the intestine.35W07G4.5:GFP aggregates dramatically decrease upon induction of autophagy in response to stimuli suchasstarvation orinactivationofLET-363/TOR signaling.5,40 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: Accumulation of SQST-1::GFP may also result from a defect in autophagy-unrelated processes.For example,SQST-1::GFP can label damaged organelles or protein aggregates (see the section below on $r p l – 4 3 )$ that do not result from impaired autophagy activity. Thus,additional assays,such as GFP::LGG-1 puncta and levels of LGG-1-II, should be analyzed to examine autophagy. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/367fd3fa2f4ba02eb5c7ea61d6ae672086be7e68d430cb3aa65ff3b0db33df8f.jpg",
+        "img_caption": [
+            "Figure5GP:petpbcs.Ad)-isuseldioesofidtals ftheanialsoi).(CPG-fmesallctatecturesodeisftethaeadfodE) GFP:LGG-1isuselllials.Dftsi)-smaaa structures in the seam cells after the animals are starved for $4 \\ h$ .Inserts show magnified views. (G) Numerous GFP:LGG-1 punctate structures are observednthetesti-5utants.Laesoin-G).(d)rgbofP:puncaculatei-tatsat the L1 larval stage (H), but largely disappear at late larval stage (l). Scale bars: $2 0 ~ \\mu \\mathsf { m }$ (A-C, G-I); $1 0 ~ \\mu \\mathrm { m }$ (D-F); $1 0 ~ \\mu \\mathrm { m }$ (inserts in (B and C); $5 ~ \\mu \\mathsf { m }$ (inserts in (E and F). "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SQST-1::GFP aggregates in epg-7 mutant larvae and also W07G4.5 aggregates in wild-type larvae are removed by autophagy induced by a variety of stresses.Therefore,all strains need to grow under nutrient-rich and contamination-free conditions. The number of aggregates also varies at diferent developmental stages; therefore,animals at the same larval/adult stage should be compared.As some mutations or treatments could delay growth, animals should be synchronized by developmental,not chronological, age. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f76282cf56d98f11f85283014ff4ba658d3dfb9ba9316f0803631cd2178be453.jpg",
+        "img_caption": [
+            "Figure 6. Bafilomycin $\\mathsf { A } _ { 1 }$ treatment increases GFP::LGG-1 puncta in seam cells of adult animals. (A) A few GFP::LGG-1 puncta form in seam cells in DMSO-treated wild-type day 1 adult animals. (B) The number of GFP::LGG-1 puncta dramatically increases after bafilomycin $\\mathsf { A } _ { 1 }$ (Baf A) treatment for $2 h$ in wild-type day 1 adult animals. Arrows point to puncta. Scale bar: $5 ~ \\mu \\mathsf { m }$ . "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Suppresson of SQST-1 aggregates in rpl-43 mutants ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$r p l – 4 3$ encodes the 6OS ribosomal protein L37,and detection of SQST-1 aggregates in $r p l – 4 3$ mutants can be another assay to determineautophagyactivity. $r p l – 4 3 ( b p 3 9 9 )$ hypomorphic mutants show accumulation of SQST-1:GFPaggregates (Fig. 9A and B).40 Unlike in autophagy mutants, SQST-1ggre gates arerestricted to intestinal cels in rpl-43(bp399) mutants.40 Loss-of-function of $r p l – 4 3$ does not causea defect in the degradation of otherautophagic substrates，including C35E7.6, ZK1053.4, SEPA-1, PGL-1,and PGL-3.40 Thus, $r p l – 4 3$ is not an essential autophagy gene. SQST-1 aggregates in $r p l – 4 3$ intestinal cells are removedbyelevatedautophagy, induced by starvation，inactivation of LET-363/TORsignaling,DAF-2/ IGF1R (insulin-like growth factor1 receptor） signaling， SMA-6-MAB-31 (Sma-Mab) TGFB signaling and LIN35/RB1 signaling,and also by ER stress and mitochondrial stress (Fig. 9C-F).40 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: The number of intestinal SQST-1 aggregates in $r p l – 4 3$ mutants is very sensitive to a variety of stresses.For example,accumulation of SQST-1 aggregates in $r p l – 4 3$ mutants, issuppressed by high temperature $( 2 5 ^ { \\circ } \\mathrm { C } )$ ，starvation,or bacterial contamination. $r p l – 4 3$ mutants must be grown under well-fed,noncontaminated conditions at $2 0 ^ { \\circ } \\mathrm { C } .$ Partial loss of function of some essential autophagy genes,including components of the ESCRT complex (hgrs-1，vps-37) and subunits of the NAC complex (icd-1 and icd-2),also suppress the rpl$4 3$ phenotype.39.40This isprobably because partial inactivation of these genes posesa stress on the animal that further induces autophagy activity. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Transcriptional regulation of autophagy ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Autophagy gene expression can easily be measured in adult animals using standard quantitative PCR methods. For example,in response to inhibition of LET-363/TOR signaling or dietary restriction,an increase in mRNA levels of multiple autophagy genes (e.g., lgg-1 andatg-18) is observed.43.44 LET-363/TOR regulatesautophagy gene expression,in part via the helixloop-helix transcription factor HLH30，anorthologofmammalian TFEB.43,45 In response toLET-363/ TORinhibition，HLH-30/TFEB translocates to the nucleus in the intestine of the adult animal,as visualized byaHLH-30:GFPreporter (Fig.10A and B).As such,this transgenic strain can be used as an indirect assay to study autophagy induction. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f8b982804f1e79f5ffb32f66df7aff34030c6eda9393d6a4457533b71848839.jpg",
+        "img_caption": [
+            "Figure 7.GFP:LGG-1 pattern in L3 larva using diferent mounting methods. (A) GFP:LGG-1 is largely diffuse in seam cells of L3 larvae mounted with M9 medium on a $2 \\%$ agarose pad. These animals are not paralyzed. (B) GFP:LGG-1 is largely difuse in seam cells of fully anesthetized L3 larvae mounted in a final concentration of $0 . 1 \\ \\%$ (w/v; $\\sim 1 5 0 ~ \\mathsf { m M }$ $N a N _ { 3 }$ in M9 medium on a $2 \\%$ agarose pad with the same concentration of $N a N _ { 3 }$ (C-D) GFP::LGG-1 forms many different-sized punctate structures (arrows) in the seamcels (and other tissues) of fully anesthetized L3 larvae mounted in a final concentration of $0 . 2 ~ \\mathsf { m M }$ (C),or $2 ~ { \\mathsf { m M } }$ (D) tetramisole in M9 medium on a $2 \\%$ agarose pad. Punctate structures start appearing 5 min after mounting.(E-F) GFP:LGG-1 forms many different-sized punctate structures (arrows)in the seam cels (and other tissues)offullyanesthetized LC3 larvae mounted in a final concentration of $0 . 2 ~ \\mathsf { m M }$ (C) or $2 ~ { \\mathsf { m M } }$ (D) levamisole in M9 medium on a $2 \\%$ agarose pad. Punctate structures start appearing 5 min after mounting.Scale bar: $5 ~ \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: As for quantitative PCR experiments in general,it is important to normalize gene expression to multiple control genes (e.g.,, act-1,cyn-1, ama-1, nhr-23, pmp-3, and cdc-42).HLH-30 nuclear translocation needs to be performed while carefully controlling for temperature because small changes in temperature will cause HLH-30 nuclear translocation.43 Note also that since HLH-3O/TFEB regulates additional genes besides autophagy genes,45 s,45,46 it is possiblethat HLH-30hasautophagy independent outputs. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Transmission electron microscopy ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Unlike in yeast and mammalian systems,TEM has been relatively underutilized in C. elegans autophagy research.23,47 In principle,TEM (including immuno-electron microscopy） can be applied to visualize all forms of autophagy in all developmental andphysiologicalprocessesin $C .$ elegans. Phagophores, autophagosomes,and autolysosomes represent 3 main consecutive stages of the autophagic process (Fig. 11A-C).In $C .$ elegans, phagophores are extremely rare under control conditions; only a single one was identified in sections from several hundred worms.47 Incontrast,autophagosomes and autolysosomes are far more frequent,both compartments occupying $1 0 ^ { - 3 } – 1 0 ^ { - 1 } \\%$ of thecytoplaseac complex,and darker appearing autolysosomes may also occur infrequently; however,in dauers and starved worms they are found in high numbers (Fig. 11D). The changes in autophagic structures and numbers may reflect elevated or impaired autophagy.If major increases occur in the quantity of the 3 basic compartments,but their relative cytoplasmic ratios do not show a significant shift,autophagic flux appears to be increased,such as during starvation conditions.A similar expansion occurs in larval stages right after hatching or molting, probably as a consequence of unavoidable fasting during the embryonic or the lethargus phase.47 The relative increase in autophagosome quantity may be the consequence of diminished fusion with endosomes and lysosomes. Conversely, thepreferential expansion of darker autolysosome compartments may be the consequence of impaired lysosomal digestion.49 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6764661866495904ca0e0bebd1cc1c7ed2509c0fa2b9669ed68208e19de6429.jpg",
+        "img_caption": [
+            "Figure 8.Expression of SQST-1 aggregates at larval stages. (A and B) SQST-1::GFP is weakly expressed in wild-type L4 larvae.bpls151(sqst- $\\begin{array} { r } { { 1 } p . } \\end{array}$ : sqst-1:gfp) was used.(C and D) In epg-9 mutants, SQST-1:GFP accumulates into aggregates in multiple tissues. (A and C) DAPl images of the animals shown in (B and D), respectively. Scale bar: $2 0 ~ { \\mu \\mathrm { m } }$ . "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/772c710c47577698dbb345a52a11def8f276ac9ff3553aceebde7b26ad506a08.jpg",
+        "img_caption": [
+            "Figure9.Accumulation of SQST-1 aggregates in the intestine in rpl-43 mutants.(Aand B) SQST-1:GFP accumulates into a large number of aggregates in the intestine in $r p I \\ – 4 3$ mutant L4 larvae. (C-F) Accumulation of SQST-1 aggregates in $r p I – 4 3$ mutant L4 larvae is suppressed by elevated autophagy activity induced by starvation (CandD) orbylin-35 inactivation (EandF).(A,C,andE) DIC images of the animals shown in (B, D,and F), respectively. Scale bar: $2 0 ~ \\mu \\mathrm { m }$ (A-F). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "TEM analysis of autophagic structures has also been performed in several autophagymutants.unc-51(e369) mutants contain large complex \"myelinated\" ._autophagic structures (Fig.11E).47nepg-3,pg-4eg-6g2,and atg-18 mutants,phagophores are far more abundant than in control cells since autophagosomeformationis inhibited.45Inepg-4andatg-2 mutants,finely layered,possiblyphospholipid，structuresassociated with rough endoplasmic reticulum (RER) and phagophores are observed. Furthermore,in epg-4 mutants,large areas of ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "RER are devoid of ribosomes while their inner space becomes   \nempty like that of the phagophore.4 These observations indicate   \nthe involvement of these genes in the formation of the early phag ophore and its further progress to create autophagosomes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: The application of TEM to autophagy studies is relatively time consuming and demands high-level technical expertise in the recognition of subcellular structures. Although there are pitfalls in detecting and identifying all 3 major compartments,23,47 a major problem specific to $C .$ elegans is the presence of many types of membrane-bound secretory and protein granules that may resemble autolysosomes and are especially numerous in intestinal cells (Fig. 11FH). A sequential step-by-step analysis of the deterioration of the autophagic contents during the degradation process may help to overcome this identification difficulty. Only structures that follow the delineated morphological features found by a serial analysis can be determined as autophagic in origin.23 The size of each autophagic subcompartment(i.e.，phagophore, autophagosome,autolysosome） is determined by the ratio between the rate of autophagy induction and the rate of autophagic degradation. Therefore, the growth in size ofa subcompartment may come from the relative increase of the rate of autoph agyinduction and/orthe relative decrease in autophagic degradation. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Biological Processes Linked to Autophagy in C.elegans ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Autophagy plays critical roles in a numberofphysiologicalprocesses occurring during development and in adult C. elegans. In addition to the removal of a variety of protein substrates and paternal mitochondria followingfertilization, autophagyalso regulates survival of L1 larvae,dauer development,aging,cell fate specification，cell death,and cell corpse removal. However，defects in these processes can also result from loss of function of genes independent of autophagy activity. These phenotypes can therefore only provide supporting evidence for autophagy regulation,and should not be used as an indicator of autophagic flux during development. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "L1 larvae survival ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Under food deprivation conditions,newly hatched larvae arrest at the L1 (first larval) stage and maintain viability for 1-2 weeks.Autophagy，which generates survival materials such as macromolecules and ATP,regulates L1 survival in the absence of food. Starvation activates autophagy， possibly through the muscarinicacetylcholinesignalingpathway.28,50 Reduced autophagy activity caused by loss of function of essential autophagy genes decreases the L1 survival rate during starvation. 1.4.5,15-1724eeost L1 survival. In gpb-2 mutants,in which muscarinic acetylcholinesignaling is overactivated， starvation inducesexcessive autophagy，which in turn exerts a prodeath effect.28 Thus, decreased survival of L1 larvae could be attributed to either insufficient or excessive levels of autophagy. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9849f1971d0e5d3dac058a594421fc553839e488f973c968b74d80b1e2535f6.jpg",
+        "img_caption": [
+            "Figure10.HLH-30::GFP translocates to the nucleus upon LET-363/TOR inactivation in adult animals. (A) HLH-30:GFP shows difuse localization in the cytoplasm in the intestine of day 1 animals. (B) HLH-30:: GFP translocates to the nucleus following whole-life let-363/TOR RNAi treatment.Scale bar: $3 0 0 ~ { \\mu \\mathrm { m } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes:Embryos should be washed completely to remove any bacteria before suspension in M9 buffer for analysis. The total number of L1 larvae is counted after the animals are seeded on the plates at time O,and the viable animals are examined after growing them overnight. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/c90b963c472b6f21ba78b8845c8335f3577c8dd7cf35fabd9694da4d467a40fc.jpg",
+        "img_caption": [
+            "Figure1.Electromicoopagsftopgitructuresinildtyeadtopgutants.-e3ainutoaitructusubo partets:(gore;(togo;tectilgstingtoloe;(tolysidarkditdtet theymafrequtlyavelarsas.(Emlexmyeliatedutopgicstructureinodlcllofac-56utant.e types of secretory vacuoles, which are similar to autolysosomes. Scale bars: $5 0 0 ~ \\mathsf { n m }$ . "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Dauer formation ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In response to harsh environmental conditions,such as low food abundance,high temperature,and/or overcrowding, C.elegans larvae arrest in the second molt as dauer larvae.Dauer larvae undergo morphological and metabolic changes that allow them to survive harsh environmental conditions,such as radial constriction of the body and constriction of the pharynx,lack of pha ryngeal pumping,closure of oral cavities,and the formation of a specialized cuticle with lateral ridges，referred to as dauer alae.1.52 Thus,dauer animalsare adapted to resist metabolic ad environmental stresses.They are also long-lived,as they can live as dauers for months.53 Several evolutionarily conserved pathways regulate the decision to enter dauer development, such as those involving guanylyl cyclase, TGFB (transforming growth factor)，and INS/IGF1 (insulin/insulin-like growth factor 1 [somatomedin C]),and a steroid hormone signaling pathway.54 Mutants in these pathways,for example loss-of-function mutants in daf-2,are constitutive dauers at the restrictive temperature, even in the presence of food.daf-2 constitutive dauers show an increase in GFP:LGG-1-positive puncta in hypodermal seam cells,as well as an increase in autophagosomes as visualized by TEM.10 These increases are interpreted as an increase in autophagyactivity,since autophagy genes are required for many of the changes associated with the development of daf-2 dauers and similarlyfordaf-7/TGFB dauers.10 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: Autophagy genes are required for normal development and their loss during development may cause pleio tropic defects. RNAi feeding to partially inactivate gene activity can be used to investigate the role of a gene in dauer formation. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Aging ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The life span of animals is influenced by several conserved longevity paradigms，including dietary restriction，LET-363/ TOR signaling, INS (insulin) signaling, and germline removal.55 As a key catabolic process in degradation of damaged organelles and harmful protein aggregates，autophagy is thought to act downstream of these signaling pathways to modulate the life span of the organism.56.57S Specifically，long-lived C. elegans mutants,such as daf-2,let-363/TOR(RNAi) mutants,dietaryrestricted eat-2 mutants,mitochondrial respiration clk-1 mutants and germline-deficient glp-1 mutants,exhibit increased levels of GFP::LGG-1 puncta as well as increased expression of at least some autophagy genes (e.g., lgg-1),and require autophagy genes (e.g, lgg-1，bec-1,and atg-18) for their life-span extension.10- 13,40,43,58,59These observationsimply thatautophagyactivity may be induced in these long-lived animals,contributing to their life-span extension. At least part of the induction of autophagy gene expression in such long-lived mutants is regulated by the transcription factor HLH-30/TFEB.43,46 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: All autophagy mutants analyzed to date are poorly developing,unhealthy and short-lived, likely since developmental processes are affected in these animals. For this reason, RNAi feeding after the L4 stage(\"adult-only\" RNAi) can be used to postdevelopmentally inactivate a particular autophagy gene to investigtel ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Necrotic death of touch neuron ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The gain-of-function mutation in mec-4,which encodes a toxic ion-channel variant, causes necrosis-like degeneration of 6 touch receptor neurons.Touch receptor neurons can be visualized by $\\mathrm { P } _ { m e c - 4 } { \\mathrm { : : G F P } }$ a $g \\phi ^ { }$ reporter driven by the mec $\\mathscr { A }$ promoter. Loss-of-function of epg-1, bec-1, lgg-1,and epg-6 reduces degeneration of touch neurons caused by mec- $\\mathscr { A }$ gain-of-function mutat the necrotic death of touch neurons. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: Touch neuron death is usually counted as the complete absence of the normal $\\mathrm { P } _ { m e c - 4 } { : }$ :GFP fluorescent signal.Animals at the same developmental stage, such as L2 larvae, should be examined to determine the number of touch neurons marked by $\\mathrm { P } _ { m e c - 4 } { : } \\mathrm { G F P }$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ASEL/ASER cell fate specification ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Autophagy degrades key components of the miRNA-induced silencing complex (RISC) and thus modulates miRNA-mediated gene silencing.60-62 The C.elegans GW182 homolog AIN-1,a component of RISC,is selectively degraded by autophagy and colocalizes with SQST-1 inautophagy mutants.6Autophagy regulates various developmental processes controlled by miRNA. The lsy-6 miRNA controls left-right asymmetry of the 2 taste receptor neurons ASE left (ASEL）and ASE right (ASER） by repressing cog-1 expression in ASEL.3 Loss of lsy-6activity causes the ASEL neuron to adopt the ASER fate. lsy-6(ot150) hypomorphic mutants display incomplete ASEL to ASER fate transformation.64 The ASEL fate specification phenotype in lsy-6(ot150), visualized by the ${ \\mathrm { P } } _ { { \\mathrm { l i m } } - 6 } { \\mathrm { : } }$ :GFP reporter,is partially rescued by loss of autophagy activity,and is exacerbated by elevated autophagy activity caused for example by inactivation of LET-363/TOR signaling.62 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: The expression of the $\\mathrm { P } _ { \\mathrm { l i m } - 6 }$ :GFPreporter in lsy-6(ot150) mutants shows some degree of variation under different growth conditions.A large number of larval animals at the same developmental stages should be examined and control animals should be included in parallel. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Regulation of cell corpse number during embryogenesis ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "During C. elegans embryogenesis,113 somatic cells undergo programmed cell death.65Cellcorpsesare phagocytosedand removed by neighboring cells. The cell corpse-containing phago some undergoes a series of maturation processes and eventually fuses with lysosomes for degradation. Mutations in autophagy genes acting at different steps of autophagosome formation and maturation cause an increased number of cell corpses.66.67 Loss of autophagy activity does not afect the generation of cell corpses, but the maturation of cell corpse-containing phagosomes is impaired in autophagy mutants.67 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: The number of cell corpses varies in differ ent embryonic stages.Embryos at the same developmental stage should be used for analysis. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Impaired $\\gamma$ -ray-induced germline cell death ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "During $C .$ elegans oogenesis,a large proportion of germ cells at the meiotic pachytene stage undergo programmed cell death ",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/735132c90faba3518064f1166dc5ae9688d2d6094f4bb4467d8b2d21bce5d516.jpg",
+        "table_caption": [
+            "Table2.Methods to monitor autophagy activity in C.elegans. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Method</td><td>Descriptiona</td><td>Reagentsand references</td></tr><tr><td rowspan=\"7\">Embryonic stages</td><td>1. LGG-1 protein gel blotting</td><td>Accumulation of LGG-1-llcan result from either elevated or impaired autophagy. Different autophagy mutants show distinct</td><td>Anti-LGG-1 (ref. 4)</td></tr><tr><td>2. LGG-1 immunostaining and GFP:: LGG-1</td><td>morphology and distribution patterns of LGG-1 puncta. LGG-1 puncta also accumulate</td><td>adls2122(lgg-p::gfp:igg-1) (ref.10, 28),dkls98(pie-1p:gfp:gg-) (ref. 29)</td></tr><tr><td>3.LGG-2 immunostaining and GFP: LGG-2</td><td>in embryos with elevated autophagy. GFP:LGG-2 puncta accumulate in some autophagy mutants.</td><td>Anti-LGG-2 (ref.30),pmcls2(lgg-2p:: gfp:lgg-2) (ref.30) bnls1(pie-1p:gfp:pgl-1) (ref.88),</td></tr><tr><td>4.Degradation of PGL-1 and PGL-3 in somatic cells</td><td>Accumulation of PGL-1 and PGL-3 in somatic cells indicates impaired autophagy. Accumulation of PGL granules in hypomorphic autophagy mutants can be</td><td>Anti-PGL-1 (ref.89,7), Anti-PGL-3 (ref.90,7),monoclonal K76 (ref. 89)</td></tr><tr><td>5.Degradation of SEPA-1</td><td>suppressed by elevated autophagy. SEPA-1 granules, detected by anti-SEPA-1 or SEPA-1:GFP,accumulate in late stage embryos when autophagy is inhibited.The number of SEPA-1 granules decreases in early stage embryos when autophagy is</td><td>Anti-SEPA-1 (ref.7),bpls31(sepa- 1p::sepa-1::gfp) (ref.7)</td></tr><tr><td>6.SQST-1 turnover</td><td>induced. SQST-1 aggregates,detected by anti-SQST-1 or SQST-1::GFP,accumulate when autophagyis inhibited.The amount of SQST-1 increases when autophagy is inhibited.</td><td>Anti-SQST-1 (ef.4),pls151(-p: sqst-1:gfp) (ref.4)</td></tr><tr><td>7. Degradation of SEPA-1 family members</td><td>Autophagy inhibition causes accumulation of aggregates formed by SEPA-1 family members.</td><td>bpls132(c35e7.6p::c35e7.6::gfp), bpls128(zk1053.4p::zk1053.4:gfp), bpls129(t04d3.1p::t04d3.1:gfp), bpls126(f44f1.6p:f44f1.6:gfp),</td></tr><tr><td>8.Paternal mitochondria and organelle removal</td><td>Autophagy inhibition leads to persistence of paternal mitochondria and MOs in embryos</td><td>bpls120(zk1053.3p:zk1053.3:gfp) (ref.7, 16,35) Mitochondria: dkls623(spe-11p::hsp- 6::gfp) (ref.29),pmcls1(ant-1.1p::</td></tr><tr><td rowspan=\"6\">Larval stages</td><td></td><td>beyond the 8-cell tage. Accumulation of LGG-1-ll can result from either</td><td>ant-1.1::GFP) (ref.30),uaDf5 (ref. 38).MOs: monoclonal 1CB4 (ref. 36), SP56 (ref.37)</td></tr><tr><td>1. LGG-1 western bloting 2. GFP::LGG-1</td><td>elevated or impaired autophagy. GFP:LGG-1 puncta accumulate in multiple tissues, including seam cells and intestinal</td><td>Anti-LGG-1 (ref. 4) adls2122(lgg-1p:gfp::lgg-1) (ref.10, 28)</td></tr><tr><td></td><td>cells, upon induction of autophagy, but also in mutants of autophagy genes acting at distinct steps of the autophagy pathway. Autophagy can be blocked in adult worms by bafilomycinA1 injection.</td><td></td></tr><tr><td>3. GFP:LGG-2 4.SQST-1:GFP turnover</td><td>GFP::LGG-2 puncta accumulate in multiple tissues, including seam cells and neurons. SQST-1:GFP accumulates into a large number of aggregates in multiple tissues when</td><td>ppEx108(lgg-2p:gfp:gg-2) (ref.24) bpls151(sqst-1p:sqst-1:gfp) (ref.4).</td></tr><tr><td></td><td>autophagy is inhibited. Accumulation of SQST-1::GFP aggregates in hypomorphic autophagy mutants is suppressed and the amount of SQST-1:GFP is reduced upon autophagy induction. W07G4.5:GFP aggregates accumulate in the</td><td>bpls239(w07g4.5p::w07g4.5:gfp) (ref.</td></tr><tr><td></td><td>intestine when autophagy is impaired.When autophagy is induced, Wo7G4.5:GFP aggregates in wild-type animals or hypomorphic autophagy mutants decrease and the amount of W07G4.5:GFP is reduced.</td><td>35)</td></tr><tr><td>6.SQST-1::GFP in rpl-43 mutants</td><td>Suppression of SQST-1 aggregates in rpl-43 mutant intestinal cells suggests elevated</td><td></td><td>bpls151(sqst-1p:sqst-1:gfp) (ref.4)</td></tr><tr><td>6.Transcriptional regulation</td><td>autophagy.</td><td></td><td>sqls19(hlh-30p::hlh-30::gfp) (ref.43)</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(continued on next page) ",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d031a65c645f475a985e9a3ab04bed2268369437ddb88e35682dd82bf0ee300.jpg",
+        "table_caption": [
+            "Table2.Methods to monitor autophagy activity in C.elegans.(Continued) "
+        ],
+        "table_footnote": [
+            "Quantifatiftmbfpuncatetructuresafodyaaliveutigtosentingofurst maticountingarisftainocaouobloiisfodtecteek phenotypic effects are observed. "
+        ],
+        "table_body": "<html><body><table><tr><td>Method</td><td>Descriptiona</td><td>Reagentsand references</td></tr><tr><td></td><td>qRT-PCR to determine expression of various autophagy genes.HLH-30/TFEB nuclear</td><td></td></tr><tr><td></td><td>translocation leads to upregulation of</td><td></td></tr><tr><td>7.Transmission electron microscopy</td><td>autophagy genes. Monitor autophagic structures, number and</td><td></td></tr><tr><td></td><td>volume.</td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "and act as nurse cells to provide cytoplasmic components for maturing oocytes.68 DNA damage (induced for example by $\\gamma$ -ray irradiation) or various environmental stresses (e.g.,oxidative,heat and osmotic stresses） also trigger_the death programinmeioticpachtenestageecels97In mutants， fewer germ cells execute the death program upon $\\gamma$ -ray treatment.71 Autophagy also contributes to physiological germ-cell death and post-embryonic cell death in ventral cordneurons_when ced-3caspase activity ispartially compromised.71 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: Animals at the same developmental stage should be used for treatment and the number of cell corpses needs to be analyzed at the same time after the treatment. For $\\gamma$ -ray irradiation,L4 worms are aged for $^ { 1 2 \\mathrm { ~ h ~ } }$ before being treated with $1 2 0 \\mathrm { G y } \\gamma$ -rays (Gammacell 1000). Germ cell corpses are quantified $2 4 \\mathrm { ~ h ~ }$ post-irradiation. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Degradation of lipid droplets ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Lipophagy，autophagy-mediated degradation of lipid drop: lets,regulates fat storage in mammals and C. elegans.46,72 Genetic evidence in worms has defined a number of lipolytic enzymes that are thought to mediate lipid mobilization through lipophagy. The genes lipl-1 and lipl-3,which encode liposomal lipases, transcriptionally respond to autophagy-activating stimuli,including but not limited to starvation and inactivation of let-363/TOR signaling，daf-2/INS signaling, orSma-Mab/TGFB signaling.46 g.46Similarly，theautophagy genes lgg-1, lgg-2,and atg-16.2,and the transcriptional regulator blh-3o/Tfeb are induced by autophagy-activating stimuli.3.46hreforeuatiaieCofld 1,lgg-2,atg-16.2,and hlh-3olTfeb,can be used as a proxy to assess lipophagy. This approach,in combination with quantification of cytoplasmic fat stores through fat staining such as with Oil Red O,can provide insight into the effect of genes or treatments on autophagy-mediated lipid mobilization.73 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes: Fat levels change significantly during development. Therefore,animals at the same developmental age (vulva/germline development) and not chronological age (time from hatching or seeding) should be compared. The dynamic range for Oil Red O is optimal in young adults ( $( 6 - 2 4 \\mathrm { ~ h ~ }$ from L4 to adult molt at $2 0 ^ { \\circ } \\mathrm { C } )$ ： ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Xenophagy ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A variety of bacterial pathogens, including the gram-negative bacterium Salmonella enterica serovar Typhimurium,can infect andkillCeles8etheeced of microorganisms through an autophagy-related mechanism, engulfs and destroys invading Salmonella in several model systems includingCelegs1483Cmpredtildty $C .$ elegans,autophagy-deficient worms die much faster and accumulate more Salmonella inside the body,14 indicating that autophagy protects $C .$ elegans against Salmonella infection by limiting the replication of the bacteria.Additionally，inhibition of the autophagy gene bec-1 in the intestine but not in other tissues confers susceptibility to Salmonella infection,which indicates that autophagy acts cell-autonomously in the intestinal epithelial cells to defendagainst Salmonellainfection in $C .$ elegans.84 Moreover, autophagy mediates the insulin-like signaling-regulated pathogen resistance in long-lived daf-2 mutants with increased autophagy.10.14Whendf-utatalsetratedwithto silence the expression of autophagy genes, the increase in autophagy is suppressed to basal levels (as observed in wild-type animals) and the resistance of daf-2 mutants to Salmonella infection is abrogated.14 Thus,the decreased survival of $C .$ elegans when infected by Salmonella results from reduced autophagy. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Cautionary notes:Life span is used to measure the influence of xenophagy on survival of $C .$ elegans infected by Salmonella The effect of autophagy deficiency on life-span may mask the killing effect of Salmonella infection. The level of autophagy deficiency,which can be modulated by altering the concentration of the RNAi inducer isopropylthio $\\beta$ -galactoside/IPTG used in the RNAi feeding experiment,14 14.84 should havenoeffect on life span. If it is impossible to achieve a desired partial suppression of autophagy，the Cox proportional-hazards model can be performed to compare survival times and estimate hazard (risk) ratios among control groups and Salmonella-infected groups to evaluate the effect of inhibition of xenophagy on survival of animals infected with Salmonella.14 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Conclusion and Perspectives ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Recent studies have established $C .$ elegans as a powerful genetic model to delineate the autophagy pathway, such as through the identification of metazoan-specific autophagy genes. Moreover, C.elegans has emerged as an excellent model system to reveal the functions of autophagy under physiological and stress conditions at the subcellular,tissue-specific,and organismal levels.For these studies，multiple assays for monitoring the autophagy process have been developed, yet it is important to note that each assay, summarized above,has its limitations and thus a combination of these assays (summarized in Table 2) should always be performed to make solid claims about autophagic activity. The development of additional assays,for example of tandem (i.e.,mCherry::GFP) LGG-1 and LGG-2 reporters for expression in somatic tissues,as well as biochemical methods to assess autophagic turnover,will also be critical.With such an extended toolbox, the study of autophagy in different tissues at distinct developmental stages should aid in understanding whether components of the autophagic machinery are differentially employed and controlled by tissue-specific factors. Moreover,it will be interesting to learn how different environmental cues and signaling events during development and in adult animals are integrated into the autophagic machinery to control autophagy activity in a tissue- and temporal-specific manner.Undoubtedly，studies in C. elegans will provide valuable insights into the molecular mechanism of autophagy as well as how autophagy dysfunction leads to the development of a broad range of human age-related diseases, such as metabolic disorders and neurodegeneration. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Disclosure of Potential Conflicts of Interest ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "No potential conflicts of interest were disclosed. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr.Isabel Hanson for editing the manuscript ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Funding ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Dr.Hong Zhang was supported by the National Basic Research Program of China(2013CB910100, 2011CB910100),a grant from the National Natural Science Foundation of China (31225018),and in part by an International Early Career Scientist grant from the Howard Hughes Medical Institute;Dr. Malene Hansen by NIH/NIA grants AG038664 and AG039756;Dr.Kailiang Jia by NIH grant R15HDo80497 and Ellison Medical Foundation New Aging Scholarship;Dr.Louis Lapierre by NIH/NIA grant K99 AG042494; Dr. Renaud Legouis by the Agence National de la Recherche (project EAT,ANR-12-BSV2-O18) and the Fondation ARC pour la Recherche contre le Cancer (n PJA 20131200337)；Dr.Alicia Melendez by NIH grant 1 R15 GM102846-01; Dr. Eyleen J. O'Rourke by NIH DK087928; Dr.Ken Sato by JSPS KAKENHI Grant 23687027,MEXT KAKENHI Grant 26111503,the Uehara Memorial Foundation and the Cell Science Research Foundation; Dr.Miyuki Sato by JSPS KAKENHI Grant 26291036,the Sumitomo Foundation, the Naito Foundation and the Mochida Memorial Foundation for Medical and Pharmaceutical Research;and Dr. Xiaochen Wang by the National Science Foundation of China (31325015),the National Basic Research Program of China (2013CB9101oO) and an International Early Career Scientist grant from the Howard Hughes Medical Institute. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1.Nakatogawa H,Suzuki K,Kamada Y,Ohsumi Y. Dynamics and diversity in autophagy mechanisms: lessons from yeast.Nat Rev Mol Cell Biol 2009;10:458- 67；PMID:19491929；http://dx.doi.org/10.1038/ nrm2708   \n2.Feng YC,He D,Yao ZY,Klionsky DJ. The machinery of macroautophagy. Cell Res 2014;24:24-41; PMID:24366339; http://dx.doi.org/10.1038/cr.2013.168   \n3.Levine B,Kroemer G.Autophagy in the pathogenesis of disease.Cell 2008；132:27-42；PMID:18191218; http://dx.doi.org/10.1016/j.cell.2007.12.018   \n4.Tian Y,Li ZP,Hu WQ,Ren HY,Tian E, Zhao Y, Lu Q,Huang X, Yang P,LiX,et al. C.elegans screen identifies autophagy genes specific to multicellular organisms.Cell 2010；141:1042-55；PMID:20550938; http://dx.doi.org/10.1016/j.cell.2010.04.034   \n5.Lu Q,Yang PG,Huang XX,Hu WQ,Guo B,Wu F, Lin L,Koväcs AL,Yu L,Zhang H. The WD40 repeat PtdIns(3)P-binding protein EPG-6 regulates_progression of omegasomes to autophagosomes. Dev Cell 2011;21:343-57;PMID:21802374; http://dx.doi.org/ 10.1016/j.devcel.2011.06.024   \n6.Lu Q,WuF,Zhang H.Aggrephagy: lessons from C.elegans.Biochem J2013; 452:381-90;PMID:23725457; http://dx.doi.org/10.1042/BJ20121721   \n7.Zhang YX,Yan LB,Zhou Z,Yang PG,Tian E, Zhang K, Zhao Y,Li Z,Song B,Han J,et al. SEPA-1 mediates the specific recognition and degradation of P granule components by autophagy in C.elegans.Cell 2009; 136:308-21；PMID:19167332；http://dx.doi.org/ 10.1016/j.cell.2008.12.022   \n8.Tóth ML,Simon P,Kovacs AL,Vellai T.Influence of autophagy genes on ion-channel-dependent neuronal degeneration in Caenorhabditis elegans.JCell Sci 2007; 120:1134-41; http://dx.doi.org/10.1242/jcs.03401   \n9.Samara C, Syntichaki P,Tavernarakis N.Autophagy is required for necrotic cell death in Caenorhabditis elegans.CellDeathDiffer2008；15:105-12; PMID:17901876；http://dx.doi.org/10.1038/sj.cd. 4402231   \n10．Meléndez A,Talloczy Z, Seaman M,Eskelinen EL, Hall DH,Levine B.Autophagy genes are essential for dauer development and life-span extension in C-elegans.Science 2003；301:1387-91； http://dx.doi.org/ 10.1126/science.1087782   \n11.T6th ML,Sigmond T,Borsos E,Barna J,Erdelyi P, Takacs-Vellai K,Orosz L,KovacsAL,Csikós G, Sass M, et al.Longevity pathways converge on autophagy genes to regulateHe spaninCaenorbabditiselegans.Autophagy 2008;4:330-8; http://dx.doi.org/10.4161/auto.5618   \n12.Hansen M,Chandra A,Mitic LL,Onken B,Driscoll M,Kenyon C.A role for autophagy in the extension of life span by dietary restriction in C-elegans.Plos Genet 2008;4:e24.   \n13.Jia KL,Levine B.Autophagy isrequired for dietary restriction-mediated life-span extension in C-elegans. Autophagy 2007；3:597-9;PMID:17912023;http:// dx.doi.org/10.4161/auto.4989   \n14.Jia KL,Thomas C,Akbar M, Sun QH,Adams-Huet B, Gilpin C,Levine B.Autophagy genes protect against Salmonella typhimurium infection and mediate insulin signaling-regulated pathogen resistance. Proc Natl Acad SciUSA 2009;106:14564-9;PMID:19667176; http://dx.doi.org/10.1073/pnas.0813319106   \n15.Tian E,Wang FX,Han JH, Zhang H.epg-1 functions inthe autophagy pathway and may encode a highly divergent Atgl3 homolog in C.elegans.Autophagy 2009；5:608-15；PMID:19377305； http://dx.doi.org/ 10.4161/auto.5.5.8624   \n16.Yang PG,Zhang H. The coiled-coil domain protein EPG-8 plays an essential role in the autophagy pathway in C.elegans.Autophagy 2011; 7:159-65;PMID:21116129; http://dx.doi.org/10.4161/auto.7.2.14223   \n17.Liang QQ,Yang PG, Tian E,Han JH, Zhang H. The C.elegans ATG101 homolog EPG-9 directly interacts with EPG-1/Atgl3 and is essential for autophagy. Autophagy 2012; 8:1426-33;PMID:22885670;http:// dx.doi.org/10.4161/auto.21163   \n18.Yang PG,Zhang H.You are what you eat: multifaceted functions of autophagy during C.elegans development. Cell Res 2014; 24:80-91; PMID:24296782; http://dx. doi.org/10.1038/cr.2013.154   \n19.Suzuki K,Kubota Y,Sekito T,Ohsumi Y.Hierarchy of Atg proteins in pre-autophagosomal structure organization. Genes Cells 2007;12:209-218;PMID:17295840; http://dx.doi.0rg/10.1111/j.1365-2443.2007.01050.x   \n20.Itakura E,Mizushima N.Characterization of autophagosome formation site by a hierarchical analysis of mammalian Atg proteins.Autophagy 2010; 6:764-776; PMID:20639694;http://dx.doi.org/10.4161/auto.6.   \n6.12709   \n21.Mizushima N,Yoshimori T,Levine B.Methods in mammalian autophagy research. Cell 2010；140:313-   \n26；PMID:20144757；http://dx.doi.org/10.1016/j. cell.2010.01.028   \n22．Klionsky DJ,Abdalla FC,Abeliovich H,Abraham RT, Acevedo-Arozena A,Adeli K,Agholme L,Agnello M, Agostinis P,Aguirre-Ghiso JA,et al.Guidelines for the use and interpretation of assays for monitoring autophagy.Autophagy 2012; 8:445-544; PMID:22966490   \n23.Kovacs AL,Vellai T,Müller F.Autophagy in Caenorhabditis elegans.InAutophagy 2004.KlionskyDJ,editor.Eurekah.com，LandesBioscience，Austin, Georgetown,Texas,USA 217-23.   \n24.Alberti A,Michelet X,Djeddi A, Legouis R. The autophagosomal protein LGG-2 acts synergistically with LGG-1 in dauer formation and longevity in C.elegan. Autophagy2010; 6:622-33;PMID:20523114;http:// dx.doi.org/10.4161/auto.6.5.1252   \n25.Manil-Ségalen M,Lefebvre C,Jenzer C,Trichet M, Boulogne C, Satiat-Jeunemaitre B,Legouis R. The C. elegans LC3 acts downstream of GABARAP to degrade autophagosomesbyinteractingwiththeHOSsubunit VPS39.DevCell2014;28:43-55;htp://dx.doiorg/ 10.1016/j.devcel.2013.11.022   \n26.Wu F,Li YP,Wang FX,Noda NN,Zhang H.Differential function of the two Atg4 homologues in the aggrephagy pathway inCaenorbabditis elegans.JBiol Chem 2012; 287:29457-67; PMID:22767594;http:// dx.doi.org/10.1074/jbc.M112.365676   \n27.Zhang H,Wu F,Wang XW,Du HW,Wang XC, Zhang H.The two C.elegans ATG-16 homologs have partillredundantfunctiosinthebasaluoagy pathway. Autophagy 2013； 9: 1965-74; PMID:2418544; http://dx.doi.org/10.4161/auto. 26095   \n28.Kang C, You YJ, Avery L. Dual roles of autophagy in thesurvivalofCaenorhabditis elegansduringstarvation. GenesDev2007；21:2161-71；PMID:17785524; http://dx.doi.org/10.1101/gad.1573107   \n29.Sato M,Sato K.Degradationofpaternal mitochondria by fertilization-triggeredautophagyinC.elegansEmbryos. Science 2011;334:1141-4; PMID:21998252;http://dx. doi.org/10.1126/science.1210333   \n30.Al Rawi_S,Louvet-Vallee S，Djeddi A，Sachse M, Culeto E,HajarC,BoydL,Legouis R,GalyV.Postfertilizationautophagyof sperm organellsprevents paternalmitochondrialDNAtransmissonScience 2011；334:1144-7；PMID:22033522；http://dx.doi. org/10.1126/science.1211878   \n31.Guo B, Liang QQ,LiL, Hu Z,Wu F,Zhang PP, Ma YF,Zhao B,KovacsAL,Zhang ZY,etal.O-GlcNAcmodificationof SNAP-29regulatesautophagosome maturation. Nat Cell Biol 2014; 16:1215-1226..   \n32.Sun T,Wang X,Lu Q,Ren H, Zhang H.CUP-5,the C.elegans ortholog of the mammalian lysosomal channel protein MLNi/TRPML1,is required for proteolyticdegradation inautolysosomes.Autophagy 2011; 7:1308-15; PMID:21997367; http://dx.doi.org/ 10.4161/auto.7.11.17759   \n33.Hird SN,Paulsen JE,Strome S. Segregation of germ granules in living Caenorhabditis elegans embryos:Celltype-specific mechanisms for cytoplasmic localisation. Development 1996; 122:1303-12; PMID:8620857   \n34.Wu XY,Shi Z,Cui MX, Han M,Ruvkun G. Repressionof germlineRNAi pathways in somaticcelsby retinoblastomapathwaychromatincomplexes.PlosGenet 2012；8:e1002542；PMID:22412383；htp:/dx.doi. org/10.1371/journal.pgen.1002542   \n35.Lin L, Yang PG,Huang XX,Zhang H,Lu QZhang H.ThescafoldproteinEPG-7linkscargoreceptor complexes with the autophagic assembly machinery. J Cell Biol 2013;201:113-29;PMID:23530068;htp:/ dx.doi.org/10.1083/jcb.201209098   \n36.Okamoto H, Thomson JN. Monoclonal-antibodies which distinguish certain classes of neuronal and supporting cels in the nervous-tissue of the nematode Caenorhabditis-elegans. J Neurosci1985;5:643-53; PMID:3882896   \n37.WardS,RobertsTtroeS,PavalkoFga E.Monoclonal-antibodies that recognize a polypeptide antigenic determinant shared by multiple Caenorhabditis elegans sperm-specific proteins.J Cell Biol 1986; 102:1778-86；PMID:2422180；http://dx.doi.org/ 10.1083/jcb.102.5.1778   \n38.Tsang WY,Lemire BD.Stable heteroplasmybutdiferential inheritanceof a large mitochondrial DNA deletion in nematodes.Biochem Cell Biol 2002；80:645- 54;PMID:12440704; http://dx.doi.org/10.1139/02- 135   \n39.Guo B,Huang J,Wu WX,Feng D,Wang XC,Chen YY，Zhant complex isesential forautophagicflux.Autophagy 2014;10,1738748;675;pd   \n40.Guo B,HuangXX,ZhangP,QiL,LiangQQZang XB,HuangJ,Fang B,Hou W,HanJ,et al.Genome wide screen identifies signaling pathways that regulate autophagyduring Caenorbabditiselegansdevelopment Embo Rep 2014;15:705-13; PMID:24764321   \n41.Oka T,Futai M. Requirement of V-ATPase for ovulationandembryogenesisin_Caenorhabditiselegans.J Biol Chem.2000；275:29556-61；PMID:10846178; http://dx.doi.org/10.1074/jbc.M002756200   \n42.Pivtoraiko VN,HarringtonAJ,MaderBJ,LukerA, Caldwell GA, CaldwellKA,Roth KA,Shacka J.Lowdose bafilomycin attenuates neuronal cell death associated with autophagy-lysosome pathway dysfunction. J Neurochem.2010;114:1193-204; PMID:20534000   \n43.Lapiere LR, De Magalhaes Filho CD,McQuary PR, Chu CC,Gelino S,Ong B,Davis AE,Irazoqui JE, et al.The TFEBorthologueHLH-30regulatesautoph agyandmodulateslongevityinCaenorhabditisegans Nat Commun.2013; 4:2267; PMID:23925298   \n44.Heestand BN,Shen Y,Liu W,Magner DB,Storm N, Meharg C,Habermann B,AntebiA.Dietary restriction induced longevity ismediated bynuclearreceptor NHR-62in Caenorhabditiselegans.PLoSGenet. 2013；9:e1003651；PMID:23935515；http://dx.doi. org/10.1371/journal.pgen.1003651   \n45.Settembre C，DeCegliR，Mansueto G，Saha PK, VetriniF,VisvikisOHuynhT,CarissimoA,mer D,Klisch TJ, etal.TFEBcontrols cellularlipid metabolismthroughastarvation-inducedautoregulatory loop. Nat CellBiol. 2013； 15:647-58; PMID:23604321; htp://dx.doi.org/10.1038/ncb2718   \n46.O'Rourke EJ, Ruvkun G. MXL-3 and HLH-30 transcriptionally link lipolysisandautophagy to nutrient availability.NatCellBiol2013；15:668-76; PMID:23604316; http://dx.doi.org/10.1038/ncb2741   \n47．SigmondT,FeherJ,BaksaA,PastiG,PalfaZ,kacVellaiK,Kovacs J,Vellai T,Kovacs AL.Qualitative and quantitative characterization of autophagy in CaenorbabditisElegansbylectronmicroscopyAutohagy Lower Eukaryotes and Non-Mammalian Systems,PtA 2008; 451:467-91.   \n48.Kovacs AL,Läszló L,Kovacs J.Effect of amino-acids and cycloheximide on changes caused by vinblastine, leupeptin and methylamine in the autophagic lysosomal system_of mouse hepatocytes in vivo.Exp Cell Res1985;157:83-94; htp://dx.doi.org/10.1016/0014- 4827(85)90154-5   \n49.Kovacs J,Laszl6 L,Kovacs AL.Regression of autophagic vacuoles inpancreatic acinar,seminal-vesicle epithelial，andliverparenchymal cels:acomparative morphometric study of the effectof vinblastine and leupeptin followed by cycloheximide treatment.Exp Cell Res1988；174:244-51；http://dx.doi.org/10.1016/ 0014-4827(88)90158-9   \n50.You YJ,KimJ,CobbM,AveryL.Starvationactivates MAP kinase through the muscarinic acetylcholine pathway in Caenorhabditis elegans pharynx.Cell Metabolism 2006;3:237-45; PMID:16581001; http://dx.doi. org/10.1016/j.cmet.2006.02.012   \n51. Cassada RC,Russell RL.The dauerlarva,a post-embryonic developmental variantof thenematodeCaenorhabditiselegans.DevBiol.1975；46:326-42; PMID:1183723   \n52.Vowels JJ, Thomas JH. Genetic analysis of chemosensory control of dauer formation in Caenorhabditis elegans. Genetics 1992;130:105-23; PMID:1732156   \n53.KlassM,HirshD.Nongeingdevelopmentalrant of Caenorhabditiselegans.Nature 1976；260:523-5; PMID:1264206; http://dx.doi.org/10.1038/260523a0   \n54.Hu PJ. Dauer.Worm Book 2007 Aug; 8:1-19.   \n55.Kenyon C.The genetics of ageing. Nature 2010; 464:504-12；PMID:20336132; http://dx.doi.org/ 10.1038/nature08980   \n56.KovacsAL,Zhang H.Role of autophagy in Caenorhabditis elegans.FebsLetters2010;584:1335-41;http:// dx.doi.org/10.1016/j.febslet.2010.02.002   \n57.Gelino S,Hansen M. Autophagy - anemerging antiaging mechanism.J Clin Exp Pathol.2012; Suppl 4. pii: 006.   \n58.Hars ES, QiH,Ryazanov AG,Jin S,Cai L,Hu C,Liu LF.Autophagy regulates ageing in C. elegans.Autophagy 2007; 3:93-5;PMID:17204841; http://dx.doi.org/ 10.4161/auto.3636   \n59.Lapierre LR,Gelino S,Melendez A，Hansen M. Autophagyand lipid metabolismcoordinatelymodulate life span in germline-lessC.elegans. Current Biology 2011；21:1507-14;PMID:21906946； http://dx. doi.org/10.1016/j.cub.2011.07.042   \n60.Derrien B,Baumberger N,SchepetilnikovM,Votti C, De Cillia J,Ziegler-Graff V, Isono E,Schumacher K, Genschik P.Degradationof theantiviral component ARGONAUTE1bythe autophagy pathway.ProcNatl Acad Sci USA2012;109:15942-6; PMID:23019378; http://dx.doi.org/10.1073/pnas.1209487109   \n61.Gibbings D,Mostowy S,JayF,Schwab Y,CossartP, Voinnet O. Selective autophagy degrades DICER and AGO2 andregulatesmiRNA activity.Nat Cell Biol 2012；14:1314-21;PMID:23143396；http:/dx.doi. org/10.1038/ncb2611   \n62.Zhang PP, Zhang H. Autophagy modulates miRNAmediated gene silencing and selectively degrades AIN1/GW182 in C-elegans.Embo Rep 2013;14:568-76; PMID:23619095; http://dx.doi.org/10.1038/embor. 2013.53   \n63.Johnston RJ,Hobert O.A microRNA controling left/ rightneuronal asymmetryin Caenorhabditiselegans. Nature 2003;426:845-9; PMID:14685240; http://dx. doi.org/10.1038/nature02255   \n64.Sarin S,O'MearaMM,Flowers EB,AntonioC,Poole RJ, Didiano D,Johnston RJ Jr,Chang S,NarulaS,Hobert O.Genetic screens for Caenorhabditis elegans mutants defectiveinleft/rightasymmetricneuronalfatespecification.Genetics2007；176:2109-30；PMID:17717195; http://dx.doi.org/10.1534/genetics.107.075648   \n65.SulstonJEHorvitzHostembyccllineages of the nematode,Caenorhabditis elegans.Dev Biol 1977；56:110-56;PMID:838129；http://dx.doi.org/ 10.1016/0012-1606(77)90158-0   \n66.Huang S,Jia K,Wang Y, Zhou Z,Levine B.Autophagy genes function in apoptotic cellcorpse clearance duringC.elegansembryonicdevelopment.Autophagy 2013;9:138-49；PMID:23108454;http:/dx.doi.org/ 10.4161/auto.22352   \n67.Cheng SY,WuYW,LuQ,YanJC,Zhang H, Wang XC.Autophagy genes coordinate with the clas II PI/ PtdIns 3-kinase PIKI-1 toregulate apoptoticcell clearanceinC.elegans.Autophagy 2013；9:2022-32; PMID:24165672; http://dx.doi.org/10.4161/auto. 26323   \n68.Gumienny TL,Lambie E,Hartwieg E,Horvitz HR, Hengartner MO. Genetic control of programmed cell deathin the Caenorhabditiselegans hermaphrodite germline. Development 1999; 126:1011-22; PMID:9927601   \n69.Gartner A,Milstein S,Ahmed S,HodgkinJ,Hengartner MO.A conserved checkpoint pathway mediates DNA damage-induced apoptosis and cell cycle arrest in C. elegans.MolecularCell2000；5:435-43; PMID:10882129; http://dx.doi.org/10.1016/S1097- 2765(00)80438-4   \n70.Gartner A,Boag PR,Blackwell TK. Germline survival andapoptosis.WormBook.2008Sep4:1-20   \n71.Wang HB, Lu $\\scriptstyle \\mathrm { Q } ,$ Cheng SY,Wang XC, Zhang H. Autophagyactivitycontributestoprogrammedcell deathin Caenorhabditiselegans.Autophagy 2013; 9:1975-82; PMID:24185352; http://dx.doi.org/ 10.4161/auto.26152   \n72.Singh R,Kaushik S,Wang YJ, Xiang YQ,Novak I, Komatsu M,TanakaK,Cuervo AM,Czaja MJ. Autophagy regulates lipid metabolism.Nature 2009; 458:1131-5；PMD193996；http://dxdo.og/ 10.1038/nature07976   \n73.Wahlby C,Lee-Conery A, Bray MA,Kamentsky L, K,Carpenter AE,O'Rourke EJ.High and low through put quantitative analysis of lipid metabolism in C.elegans.Methods 2014;68:492-9；http://dx.doi.org/ 10.1016/j.ymeth.2014.04.017   \n74.AballayA,AusubelFM.Caenorhabditis elegans asa host for the study of host-pathogen interactions. Curr Opin Microbiol 2002;5:97-101;PMID:11834377;http:// dx.doi.org/10.1016/S1369-5274(02)00293-X   \n75.Kurz CL,EwbankJ.Caenorhabditis elegans:Anemerging genetic model for the study of innate immunity. Nat Rev Genet 2003;4:380-90；PMID:12728280; http://dx.doi.org/10.1038/nrg1067   \n76.Millet ACM,Ewbank JJ.Immunity in Caenorhabditis elegans.CurrOpinImmunol 2004; 16:4-9; PMID:14734103; http://dx.doi.org/10.1016/j. coi.2003.11.005   \n77．Mylonakis E,AballayA.Worms andflies as genetically tractable animal models to study host-pathogen interactions. Infect Immun 2005；73:3833-41;PMID:15972468; http://dx.doi.org/10.1128/IAI.73.7.3833-3841.2005   \n78．AballayA,Drenkard E,Hilbun LR,Ausubel FM. Caenorhabditis elegans innate immune response triggered by Salmonella enterica requires intact LPS and is mediated by a MAPK signaling pathway.Curr Biol 2003; 13:47-52； PMID:12526744;http://dx.doi.org/ 10.1016/S0960-9822(02)01396-9   \n79.Aballay A,Yorgey P,Ausubel FM. Salmonella typhimurium proliferates and establishes a persistent infection in the intestine of Caenorhabditis elegans.Curr Biol 2000;10:1539-42;PMID:11114525;http://dx. doi.org/10.1016/S0960-9822(00)00830-7   \n80．Labrousse A,Chauvet S,Couillault C,Kurz CL, EwbankJJ.Caenorhabditiselegansisamodel host for Salmonella typhimurium.Curr Biol 20o0;10:1543-5; PMID:11114526;http://dx.doi.org/10.1016/S0960- 9822(00)00833-2   \n81.Benjamin JL,Sumpter R,Levine B,Hooper LV.Intestinal epithelial autophagy is essential for host defense against invasive bacteria.Cell Host Microbe 2013; 13:723-34;PMID:23768496；http://dx.doi.org/ 10.1016/j.chom.2013.05.004   \n82.Birmingham CL,Smith AC,Bakowski MA,Yoshimori T,Brumell JH.Autophagy controls Salmonella infection in response to damage to the Salmonella-containingvacuole.J Biol Chem 2006;281:11374-83; PMID:16495224; http://dx.doi.org/10.1074/jbc. M509157200   \n83.Conway KL,KuballaP,Song JH,Patel KK,Castoreno AB,Yilmaz OH,Jijon HB,Zhang M,Aldrich LN, Villablanca EJ,et al.Atgl6l1 is required for autophagy in intestinal epithelial cells and protection of mice from salmonellainfection. Gastroenterology2013; 145:1347-57；PMID:23973919；http://dx.doi.org/ 10.1053/j.gastro.2013.08.035   \n84.Curt A,Zhang JL,Minnerly J，Jia KL.Intestinal autophagy activity is essential for host defense against Salmonella typhimurium infection in Caenorhabditis elegans.Dev Comp Immunol 2014; 45:214-8; PMID:24674884； http://dx.doi.org/10.1016/j.dci. 2014.03.009   \n85.Ogura K,Wicky C,Magnenat L,Tobler H,Mori I, MüllerF,Ohshima Y.Caenorhabditis elegans unc-51 gene required for axonal elongation encodes a novel serine/threonine kinase. Genes Dev. 1994;8:2389-400; PMID:7958904; http://dx.doi.org/10.1101/gad.8. 20.2389   \n86.Ruck A,Attonito J,Garces KT,Nunez L,Palmisano NJ,Rubel Z, Bai Z,Nguyen KC, Sun L,Grant BD, et al.The Atg6/Vps30/Beclin 1 ortholog BEC-1 mediates endocytic retrograde transport in addition to autophagy in C.elegans.Autophagy 2011; 7:386-400; PMID:21183797；http://dx.doi.org/10.4161/auto.7. 4.14391   \n87．Roggo L,Bernard V,Kovacs AL,Rose AM,Savoy F, Zetka M,Wymann MP,MüllerF.Membrane transport in Caenorhabditis elegans:an essential role for VPS34 at the nuclear membrane.EMBO J.2002; 21:1673-83；http://dx.doi.org/10.1093/emboj/21.7. 1673   \n88.Cheeks RJ,Canman JC,Gabriel WN，Meyer N, Strome S,Goldstein B.C.elegans PAR proteins function by mobilizing and stabilizing asymmetrically localized protein complexes. Curr Biol. 2004;14:851-62; PMID:15186741; http://dx.doi.org/10.1016/j.cub. 2004.05.022   \n89.KawasakiI,Shim YH,Kirchner J,Kaminker J,Wood WB,Strome S.PGL-1,a predicted RNA-binding component of germ granules,is essential for fertility in C. elegans.Cell 1998；94:635-45；PMID:9741628; http://dx.doi.0rg/10.1016/S0092-8674(00)81605-0   \n90．Kawasaki I,Amiri A, Fan Y,Meyer N,Dunkelbarger S, Motohashi T,Karashima T,Bossinger O, Strome S. The PGL family proteins associate with germ granules and function redundantly in Caenorhabditis elegans germline development. Genetics 2004; 167:645-61; PMID:15238518；http://dx.doi.org/10.1534/genetics. 103.023093   \n91.Wilkinson DS, Jariwala JSAnderson E,Mitra K,Meisenhelder J,Chang JT,Ideker T,Hunter T,Nizet V,DillinA et al.Phosphorylation ofLC3 by the Hippo Kinases STK3/ STK4 is essential for autophagy.Mol Cell 2015; 57:55-68; doi: 10.1016/j.molcel.2014.11.019 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

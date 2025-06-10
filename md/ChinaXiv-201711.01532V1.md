@@ -1,0 +1,151 @@
+饲粮添加中药渣和发酵中药渣对母猪繁殖性能与子代发育的影响李华伟1.2 黎智华」祝倩」吴灵英² 印遇龙」 孔祥峰 1.3\*
+
+（1.中国科学院亚热带农业生态研究所，亚热带农业生态过程重点实验室，湖南省畜禽健康养殖工程技术研究中心，农业部中南动物营养与饲料科学观测实验站，长沙 410125；2.武汉轻工大学，动物科学与营养工程学院，武汉 430023；3.湖南省植物功能成分利用协同创新中心，长沙 410128)
+
+摘要：本试验旨在通过研究微生物发酵中药渣对围产期母猪繁殖性能和子代发育的影响，为中药渣的二次开发利用提供依据。试验选用2\~4胎次、预产期相近的妊娠85d的健康二元母猪60头，随机分为3组，每组20头。3组分别在基础饲粮中添加 $2 \mathrm { k g / t }$ 米糠（对照组）$2 ~ \mathrm { k g / t }$ 中药渣制剂（由黄芪、当归、熟地黄和白芍等组成，中药渣组）和 $2 ~ \mathrm { k g / t }$ 发酵中药渣制剂（发酵中药渣组)。从产前 21d开始饲喂，到产后 $2 8 \mathrm { d }$ 结束。分别于妊娠 $1 1 0 \mathrm { d }$ 、产后21d时测量母猪背膘厚，记录母猪的产仔数、产活仔数、死胎数、木乃伊数和母猪产后发情间隔；记录仔猪初生窝重，7、14 和 28日龄窝增重，并计算平均日增重；每天观察仔猪腹泻情况，并计算腹泻率。结果表明：与对照组相比，发酵中药渣组断奶仔猪窝增重显著增加（ $P { < } 0 . 0 5 )$ ，中药渣组（ $\scriptstyle P = 0 . 0 5 3$ ）和发酵中药渣组（ $\scriptstyle P = 0 . 0 7 5$ ）仔猪1\~14日龄腹泻率呈增加趋势、1\~21日龄腹泻率显著增加（ $P { < } 0 . 0 5 )$ ；与中药渣组相比，发酵中药渣组仔猪7日龄窝增重显著增加 ( $( P { < } 0 . 0 5 )$ ，平均日增重呈升高趋势（ $\scriptstyle \cdot = 0 . 0 5 3 )$ 。由此可见，围产期母猪饲粮添加中药渣制剂虽然造成哺乳仔猪一定程度的腹泻，但可促进其生长发育，添加发酵中药渣制剂效果更好。
+
+关键词：妊娠母猪；繁殖性能；哺乳仔猪；生长发育；发酵中药渣中图分类号：S816.7 文献标识码：A 文章编号：
+
+中草药作为功能性饲料添加剂，具有资源丰富、无污染、生物学功能突出等优点。由于受提取手段和提取效率的制约，中药加工企业产生的中药渣中至少含有 $30 \%$ 的有效成分[1]。例如，半夏厚朴汤药渣中残留有 $4 9 . 8 \%$ 的挥发油[2]，黄芪药渣中残留有 $7 2 . 1 \%$ 的黄芪苷[3]。由此可见，将中药渣制成动物饲料添加剂极具开发利用价值。此外，利用现代发酵工艺对中药渣进行发酵处理，可以降低药渣纤维素含量，提高药渣利用率，在发酵过程中还可以产生低聚寡糖等功能性次级代谢产物[4]，使中药渣的利用更加高效、环保。近年来的研究表明，中草药可以促进畜禽机体的生长发育、增强机体健康[5]。例如，中药中的活性成分挥发油可增加羔羊瘤胃中挥发性脂肪酸的浓度[，提高肉牛的饲料转化率[7]；刺五加提取物可提高仔猪消化代谢水平、减缓断奶应激、增强机体免疫力、促进仔猪生长[8]；饲粮中添加清瘟败毒中药渣，可提高泌乳獭兔的生产性能，降低饲养成本9]；饲粮中添加党参和黄芪药渣，可提高羊肉品质[10]。母猪的营养与健康直接影响其繁殖性能和使用年限，也影响着仔猪的生长发育和健康[]。在母猪饲粮中添加功能性饲料添加剂，可以促进母体生长发育、提高繁殖性能[12]。目前将中药渣用于母猪饲粮中的研究较少。因此，本文选取由黄芪、当归、熟地黄和白芍等组成的复方中药渣，经微生物发酵处理后制成发酵中药渣产品，通过饲粮添加试验，研究其对围产期母猪繁殖性能和子代发育的影响，为其在母猪生产中的应用提供依据。
+
+# 1材料与方法
+
+# 1.1发酵中药渣制备
+
+试验所用的中药渣由湖南圣雅凯生物科技有限公司提供。取水提后的中药渣， $1 2 1 \mathrm { ~ \textdegree ~ }$ 、$3 0 \mathrm { m i n }$ 灭菌后，按黄芪：当归：熟地黄：白芍为 $4 : 2 : 2 : 2$ 进行配比(以干品计)，药渣含水量控制在 $4 0 \% \sim 6 0 \%$ 。按 $0 . 4 \%$ 的比例接种复合菌种（含枯草芽孢杆菌、酵母菌、乳酸菌和丁酸梭菌等，活菌数 $\scriptstyle \mathop { : \geq } 2 \times 1 0 ^ { 1 0 } \mathbf { C F U } / \mathrm { g } )$ ，置于 $2 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 以上条件下发酵1周，每天翻动 $_ { 1 \sim 2 }$ 次，发酵后减压真空干燥，粉碎过 40 目筛，颜色为棕褐色。经测定，中药渣制剂含总能17.12$\mathbf { M J } / \mathbf { k g }$ 、干物质 $9 5 . 8 2 \%$ 、粗蛋白质 $1 1 . 5 7 \%$ 、粗纤维 $7 . 7 1 \%$ 和粗脂肪 $5 . 6 \%$ ，发酵中药渣制剂含总能 $1 6 . 4 2 \mathrm { M J / k g }$ 、干物质 $9 6 . 8 1 \%$ 、粗蛋白质 $1 6 . 9 1 \%$ 、粗纤维 $5 . 6 7 \%$ 和粗脂肪 $3 . 9 6 \%$ 。
+
+# 1.2试验动物、分组与饲养管理
+
+本研究动物饲养试验于2015年7月一9月在位于湖南新五丰股份有限公司永安分公司的中国科学院亚热带农业生态研究所动物实验基地进行。试验选用 $2 { \sim } 4$ 胎次、预产期相近的妊娠 $8 5 \mathrm { d }$ 的健康二元母猪60头，随机分为3组，每组20头，单栏饲养。3组分别在基础饲粮中添加 $2 \mathrm { k g / t }$ 米糠（对照组）、 $2 \mathrm { k g / t }$ 中药渣制剂（中药渣组）和 $2 \mathrm { k g / t }$ 发酵中药渣制剂（发酵中药渣组)。基础饲粮组成及营养水平见表1。中药渣和发酵中药渣制剂的添加量根据生产厂家的预试验结果确定。从产前21d开始饲喂，到产后 $2 8 \textup { d }$ 结束。试验期间按猪场日常管理程序，给试验猪喂料、饮水和免疫。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of basal diets (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td>妊娠母猪饲粮Gestating sow diet</td><td>泌乳母猪饲粮Lactating sow diet</td></tr><tr><td>原料 Ingredients</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>60.30</td><td>58.65</td></tr><tr><td>麦麸Wheat bran</td><td>23.50</td><td>5.00</td></tr><tr><td>小麦粉 Wheat flour</td><td></td><td>2.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>豆油 Soybean oil</td><td>4.00</td></tr><tr><td>豆粕 Soybean meal</td><td>20.50</td></tr><tr><td>酶解蛋白粉 Enzymic protein powder</td><td>3.00</td></tr><tr><td>进口鱼粉 Imported fish meal</td><td>2.50</td></tr><tr><td>赖氨酸Lys</td><td>0.15</td></tr><tr><td>苏氨酸 Thr</td><td>0.05</td></tr><tr><td>氨酸Val</td><td>0.10</td></tr><tr><td>防霉剂 Antimildew agent</td><td>0.05</td></tr><tr><td>妊娠母猪复合预混料Pregnantsow</td><td></td></tr><tr><td>compound premix1) 泌乳母猪复合预混料Lactating sow</td><td></td></tr><tr><td>compound premix2)</td><td>4.00</td></tr><tr><td>合计 Total 100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levles3)</td><td></td></tr><tr><td>消化能DE/（MJ/kg） 15.23</td><td>15.56</td></tr><tr><td>干物质 DM 98.00</td><td>97.74</td></tr><tr><td>粗脂肪 EE</td><td>6.02</td></tr><tr><td>粗纤维CF</td><td>3.60 3.54</td></tr><tr><td>粗蛋白质 CP</td><td>14.17 19.78</td></tr><tr><td>粗灰分 Ash</td><td>5.61 5.95</td></tr><tr><td>赖氨酸Lys</td><td>0.98 1.53</td></tr><tr><td>蛋氨酸Met</td><td>0.12 0.16</td></tr><tr><td>苏氨酸 Thr</td><td>0.68 0.99</td></tr></table></body></html>
+
+1)为每千克饲粮提供 Provided the folowing per kilogram of diet:VA 10 000 IU,VD 2 500 IU,VE 100 IU,VK $2 \mathrm { m g , V B _ { 2 } \ 1 0 \mathrm { m g , V B _ { 6 } \mathrm { 1 \ m g , V B _ { 1 2 } \mathrm { 5 0 \mu g } } } }$ ,氯化胆碱 choline chloride $1 5 0 0 \mathrm { m g }$ Fe 80 mg,Cu 20 mg,Zn 100 mg,Mn $4 5 \ \mathrm { m g , I 0 . 7 \ m g , S e 0 . 2 5 \ m g }$
+
+2)为每千克饲粮提供 Provided the following per kilogram of diet:VA 15 000 IU,VD 33 200 IU,VE 50 IU,VK $4 \mathrm { m g , V B _ { 1 } 4 m g , V B _ { 2 } 1 0 m g , V B _ { 6 } 3 m g , V B _ { 1 2 } 2 0 \mu g } .$ 氯化胆碱 choline chloride $8 0 0 ~ \mathrm { { m g } }$ ,Fe 120 mg,Cu 20 mg,Zn $1 1 2 \mathrm { m g , M n 2 4 \ m g , I \ 0 . 5 \ m g , S e 0 . 4 \ m g }$
+
+3)消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values.
+
+# 1.3母猪繁殖性能测定
+
+记录母猪的产仔数、产活仔数、死胎数、木乃伊数、母猪产后发情间隔，仔猪初生窝重，7、14和21日龄仔猪窝增重，并计算平均日增重。
+
+1.4仔猪腹泻率测定
+
+每天观察并记录每窝仔猪腹泻情况，计算腹泻率。  
+腹泻率 $_ { - 1 0 0 \times ( }$ 腹泻仔猪总头数 $\times$ 腹泻天数)/(哺乳仔猪总头数 $\times$ 哺乳天数)。
+
+# 1.5母猪背膘厚测定
+
+分别于母猪妊娠110d及仔猪21日龄断奶时测量母猪的背膘厚，计算分娩前后母猪的
+
+背膘损失。
+
+# 1.6 数据处理与分析
+
+试验数据用Excel2010进行初步处理，用 SPSS22.0软件进行方差分析。除发情率以平均值表示外，其他数据均以“平均值 $\pm$ 标准误"表示。 $P { < } 0 . 0 5$ 表示差异显著， $0 . 0 5 { \le } P { < } 0 . 1 0$ 表示有变化趋势。
+
+# 2结果与分析
+
+2.1饲粮添加中药渣和发酵中药渣制剂对母猪繁殖性能的影响
+
+由表2可见，试验各组母猪的产仔数、产活仔数、木乃伊数、死胎数和仔猪初生窝重差异均不显著（ $_ { \cdot \cdot P > 0 . 0 5 } )$ ）°
+
+Table 2Effects of herb residues (HR) and fermented HR on reproductive performance of sows (n=20)   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>中药渣组</td><td>发酵中药渣组 Fermented HR group</td></tr><tr><td>产仔数Litter size</td><td></td><td>HR group 10.17±0.55</td><td>9.55±0.61</td></tr><tr><td>产活仔数 Alive litter size</td><td>9.74±0.52</td><td>9.83±0.61</td><td>9.41±0.60</td></tr><tr><td></td><td>9.57±0.52</td><td>0.19±0.15</td><td>0.05±0.05</td></tr><tr><td>木乃伊数 Mummy size 死胎数Dead fetus size</td><td>0.05±0.05 0.13±0.46</td><td>0.17±0.08</td><td>0.14±0.08</td></tr><tr><td>仔猪初生窝重 Litter birth weight of</td><td>15.36±0.80</td><td>15.43±0.85</td><td>16.87±0.94</td></tr><tr><td> piglets/kg</td><td></td><td></td><td></td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $P { < } 0 . 0 5 )$ 。下表同。
+
+Data in the same row with different superscripts differ significantly $( P { < } 0 . 0 5 )$ . The same as below.
+
+# 2.2饲粮添加中药渣和发酵中药渣制剂对仔猪生长性能的影响
+
+由表3可知，与对照组相比，中药渣组与发酵中药渣组仔猪7日龄窝增重和平均日增重差异均不显著（ $P { > } 0 . 0 5 )$ ；与中药渣组相比，发酵中药渣组仔猪 7日龄窝增重显著增加（ $_ { _ { P < 0 . 0 5 ) } }$ 、平均日增重呈升高趋势（ $\scriptstyle P = 0 . 0 5 3 )$ 。试验各组仔猪14日龄窝增重和平均日增重差异均不显著( $. P { > } 0 . 0 5 \$ )。与对照组相比，发酵中药渣组断奶仔猪窝增重显著增加 $_ { , P < 0 . 0 5 ) }$ ;试验各组断奶平均日增重差异均不显著（ $P { > } 0 . 0 5 )$ 。
+
+表2中药渣和发酵中药渣对母猪繁殖性能的影响  
+表3中药渣和发酵中药渣对仔猪生长性能的影响  
+Table 3Effects of HR and fermented HR on growth performance of piglets   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>中药渣组 HR group</td><td>发酵中药渣组 Fermented HR group</td></tr><tr><td colspan="4">窝增重 Weight gain per litter/kg</td></tr><tr><td>7日龄 7 days of age</td><td>11.77±0.91ab</td><td>10.26±0.79b</td><td>12.78±1.06a</td></tr><tr><td>14 日龄 14 days of age</td><td>28.00±1.39</td><td>27.37±1.56</td><td>30.48±1.79</td></tr><tr><td>断奶Weanling</td><td>39.90±1.62b</td><td>42.88±2.36ab</td><td>45.84±2.59a</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="4">平均日增重 ADG/kg</td></tr><tr><td>7 日龄 7 days of age</td><td>1.67±0.11</td><td>1.51±0.11</td><td>1.81±0.14</td></tr><tr><td>14 日龄 14 days of age</td><td>1.15±0.04</td><td>1.22±0.06</td><td>1.26±0.07</td></tr><tr><td>断奶 Weanling</td><td>2.08±0.08</td><td>2.10±0.09</td><td>2.24±0.12</td></tr></table></body></html>
+
+2.3饲粮添加中药渣和发酵中药渣制剂对仔猪腹泻率的影响
+
+由表4可知，试验各组仔猪1\~7日龄腹泻率差异不显著（ $( P { > } 0 . 0 5 )$ ；与对照组相比，中药渣组和发酵中药渣组仔猪1\~14、1\~21日龄腹泻率均显著增加（ $( P { < } 0 . 0 5 )$ ，但2组间差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+%
+
+Table 4 Effects of HR and fermented HR on diarrhea rate of piglets   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>中药渣组 HR group</td><td>发酵中药渣组 Fermented HR group</td></tr><tr><td>1~7 日龄 1 to 7 days of age</td><td>0.21±0.14</td><td>0.27±0.12</td><td>0.33±0.17</td></tr><tr><td>1~14 日龄 1 to 14 days of age</td><td>0.18±0.08b</td><td>1.03±0.29a</td><td>0.96±0.34a</td></tr><tr><td>1~21 日龄 1 to 21 days of</td><td></td><td></td><td></td></tr><tr><td> age</td><td>0.18±0.07b</td><td>1.31±0.32a</td><td>1.22±0.41a</td></tr></table></body></html>
+
+2.4饲粮添加中药渣和发酵中药渣制剂对母猪产后恢复的影响
+
+由表5可知，与对照组相比，中药渣组与发酵中药渣组对母猪背膘损失、产后发情间隔、1\~7d发情率、8\~14d发情率及未正常发情率影响均不显著（ $( P { > } 0 . 0 5 )$ 。
+
+表4中药渣和发酵中药渣对仔猪腹泻率的影响  
+表 5中药渣和发酵中药渣对母猪产后恢复的影响  
+Table 5 Effects of HR and fermented HR on postpartum recovery of sows   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>中药渣组</td><td>发酵中药渣组</td></tr><tr><td> Items</td><td>Control group</td><td>HR group</td><td>Fermented HR group</td></tr><tr><td>背票损失 Backfat loss/mm</td><td>1.68±0.34</td><td>1.38±0.88</td><td>0.63±0.92</td></tr><tr><td>发情间隔 Weaning-to-estrus interval/d</td><td>5.05±0.17</td><td>5.25±0.03</td><td>4.50±0.17</td></tr><tr><td>1~7 d 发情率 Estrus rate of 1 to 7 days/%</td><td>86.96</td><td>82.61</td><td>86.96</td></tr><tr><td>8~14 d 发情率 Estrus rate of 8 to 14 days/%</td><td>0.00</td><td>4.35</td><td>0.00</td></tr><tr><td>未正常发情率 Abnormal estrus rate/%</td><td>13.04</td><td>13.04</td><td>13.04</td></tr></table></body></html>
+
+# 3讨论
+
+目前，全国每年产生中药渣（含植物提取的废渣） $3 0 0 0 { \sim } 5 0 0 0$ 万t，主要作为基质用于食用菌栽培和植物种子发芽、生产饲料和有机肥、干燥或高温裂解气化作为燃料等方面[]。由于中药渣具有粗纤维含量高、不易消化、适口性差等缺点，使其在动物养殖方面的利用受到限制[13]。随着发酵技术的应用越来越广泛，将发酵技术应用于传统的中药炮制过程，可增加中药的有效成分含量，产生新的活性成分，减轻不良反应，节约中药材资源等[14]。同样，将微生态发酵技术应用于中药渣的处理，可分解中药渣中的纤维成分，增加其营养成分和生物活性成分含量，提高中药渣的再次利用价值[15]。
+
+本试验在围产期母猪饲粮中添加中药渣和发酵中药渣，对母猪的繁殖性能和产后恢复影响不显著，但可在一定程度上增加仔猪的初生窝重，提示中药渣制剂促进了胎儿在母体子宫中的生长发育。白秀梅等[16]利用中药制剂饲喂哺乳母猪，发现仔猪初生窝重也有增加趋势。杨东川等[17]报道，在小鼠饲粮中添加发酵红参药渣可显著提高产仔数和仔鼠初生重。本试验所选用的中药渣中，黄芪具有补气固表功能[18]，当归具有活血、补血、调经止痛等功效[19],熟地黄为滋阴补血、益精添髓之药[20]，白芍为柔肝止痛之药[21]。中药渣增加仔猪初生窝重可能有以下原因：1）中药渣中的有效成分通过发挥药理作用促进胎儿的生长发育[22l；2）中药渣通过改善母猪肠道微生态和机体代谢[23]，从而促进胎儿的生长发育；3）发酵中药渣效果更好，可能是中药渣经微生物发酵后产生大量有益菌及其代谢产物[24]，更有利于母体营养物质的消化吸收。泌乳母猪会动用较多的机体储备来维持泌乳，但过度动用机体储备会导致母猪严重掉膘，影响仔猪增重，造成母猪发情间隔延长、受胎率降低[25]。本研究表明，饲粮添加中药渣和发酵中药渣制剂对母猪背膘厚和发情间隔均无显著影响，但发酵中药渣制剂可在一定程度上降低母猪的发情间隔，可能是由于发酵中药渣中的有效成分以及含有大量的有益菌，有利于缩短母猪发情间隔，改善母猪再繁殖性能[26]。
+
+本试验结果表明，饲粮添加中药渣制剂可造成仔猪一定程度的腹泻，可能是由于本研究使用的发酵中药渣制剂中含有大量微生物及其代谢产物，这对仔猪肠道造成一定的负担。贺晓玉等[27报道，饲粮添加一定量的发酵五味子药渣能够预防仔猪腹泻，改善消化道吸收功能。而五味子属于收涩药，具有止泻、提高免疫、保肝和抗氧化等作用[28]。因此，中药渣组成成分的不同也可能是造成仔猪腹泻的原因之一，但具体原因还需进一步研究。
+
+虽然饲粮中添加中药渣和发酵中药渣制剂造成仔猪一定程度的腹泻，但仍可促进其生长发育，添加发酵中药渣效果更好。这可能是因为中药渣中含有多种生物活性物质，可以调节母猪气血，改善母猪的泌乳能力，具有明显改善和提高母猪泌乳性能的作用；能够参与泌乳激素的合成与分泌，促进乳腺合成和代谢，增加泌乳量，从而促进仔猪的生长发育[22]。另外，发酵中药渣中的细胞壁受到破坏，使多糖、皂苷和黄酮等活性成分得到有效利用[29]，其中蛋白质含量增加、粗纤维含量降低（中药渣制剂含粗蛋白质 $1 1 . 5 7 \%$ 、粗纤维 $7 . 7 1 \%$ ，发酵中药渣制剂含粗蛋白质 $1 6 . 9 1 \%$ 、粗纤维 $5 . 6 7 \%$ )，从而可以更好地满足泌乳母猪的营养需要，有利于仔猪的生长发育。祝倩等[30研究也证实，高蛋白质、低纤维的NRC 饲粮有利于母猪的生长发育。此外，发酵中药渣中富含有益菌，可降低机体肠道 $\mathrm { \ p H }$ ，促进消化液的分泌，促进肠道蠕动，进一步促进母猪对营养物质的消化和吸收。因此发酵中药渣在促进仔猪生长发育方面效果更好。
+
+# 4结论
+
+围产期母猪饲粮添加中药渣和发酵中药渣制剂不影响母猪背膘厚及产后恢复；虽然造成哺乳仔猪一定程度的腹泻，但可增加仔猪初生窝重以及断奶窝增重，添加发酵中药渣效果更
+
+好。
+
+参考文献：  
+[1]郭义东,何兴,冯兴,等.中药渣综合利用研究进展[J].成都大学学报:自然科学版,2015,34(2):125-128.  
+[2]冷桂华.黄芩及其提取药渣黄芩苷含量的比较[J].安徽农业科学,2007,35(10):2928,2935.[3] 黄亚非,刘杰,黄际薇,等.HPLC 测定黄芪药渣中黄芪甲苷含量[J].中山大学学报:自然科学版,2009,48(2):146-148.  
+[4]查伟,孔祥峰,谭敏捷,等.饲粮添加脯氨酸对妊娠环江香猪繁殖性能和血浆生化参数的影响[J].动物营养学报,2016,28(2):579-584.  
+[5]KONG X F,HU Y L,RUI R,et al.Effects of Chinese herbal medicinal ingredients on peripherallymphocyte proliferation and serum antibody titer after vaccination in chicken[J].InternationalImmunopharmacology,2004,4(7):975-982.  
+[6] CHAVES A V,STANFORD K,GIBSON L L,et al.Effects of carvacrol and cinnamaldehydeon intake,rumen fermentation,growth performance,and carcass characteristics of growinglambs[J].Animal Feed Science and Technology,2008,145(1/2/3/4):396-408.  
+[7]BENCHAAR C,DUYNISVELD JL,CHARMLEY E.Effects of monensin and increasing doselevels of a mixture of essential oil compounds on intake,digestion and growth performance of beefcattle[J].Canadian Journal of Animal Science,2006,86(1):91-96.  
+[8] 燕富永,印遇龙,孔祥峰,等.刺五加提取物抗仔猪断奶应激的效用[J].中国农业科学,2010,43(21):4490-4496.  
+[9] 李艳军,谷子林,刘亚娟.清瘟败毒中药渣对泌乳母兔生产性能的影响[J].中国饲料,2010(21):42-44.  
+[10]王旭东.日粮中添加党参、黄芪渣对羊肉品质的影响[J].中国草食动物科学,2015,35(2):32-36.  
+[11]蒋亚东,王瑞生,刘作华,等.母猪赖氨酸需要量的研究进展[J].动物营养学报,2015,27(9):2654-2666.  
+[12]孔祥峰,吴信,印遇龙,等.中药饲料添加剂的研发[J].畜牧与兽医,2007,39(11):35-37.[13] 张壮彪,左浩,温凯欣,等.中药渣在主要经济畜禽生产上的应用[J].畜禽业,2016(4):22-24.[14]孙静,马琳,吕斯琦,等.中药发酵技术研究进展[J].药物评价研究,2011,34(1):49-52.[15]刘文伟,刘玉璇,赵宇,等.中药渣综合利用研究进展[J].药学研究,2013,32(1):49-50.[16]白秀梅,解林奇,许可,等.中草药饲料添加剂对母猪和仔猪生产性能的影响[J].饲料工业,2013,34(6):6-8.  
+[17] 杨东川,古江,昝述海,等.枯草芽孢杆菌发酵红参药渣产物对小鼠生长和繁殖性能的影响[J].四川农业大学学报,2014,32(4):446-450.  
+[18]孔祥峰,胡元亮,宋大鲁.黄芪多糖的免疫药理学研究进展[J].中兽医学杂志,2003(3):3437.  
+[19] 李曦,张丽宏,王晓晓,等.当归化学成分及药理作用研究进展[J].中药材,2013,36(6):1023-1028.  
+[20] 李鹏飞,苗明三.熟地黄的现代研究及应用现状分析[J].中医学报,2014,29(2):252-254.[21]张利.白芍的药理作用及现代研究进展[J].中医临床研究,2014,6(29):25-26.  
+[22] 杜少甫,谢红兵,王泽政,等.中草药制剂对哺乳母猪繁殖性能的影响[J].安徽农业科学,2016,44(14):120-122,124.  
+[23]魏银萍.中药与肠道微生物[J].现代医药卫生,2013,29(2):228-229.  
+[24] 王建芳,徐春,徐萌萌,等.利用香菇发酵中药废渣提高利用价值的研究[J].四川大学学报:自然科学版,2007,44(2):451-454.  
+[25]刘柱,杨志远,李晓玉,等.分娩与断奶背膘厚度对猪繁殖性能的影响研究[J].中国畜牧兽医,2014,41(6):187-190.  
+[26] 张江,关静姝.益生菌和抗菌肽复合物对母猪繁殖性能的影响[J].饲料广角,2016(3):46-48.  
+[27] 贺晓玉,罗杰,李英伦.发酵五味子药渣对断奶仔猪小肠黏膜的形态及免疫的影响[J].湖南农业大学学报:自然科学版,2014,40(2):196-201.  
+[28] 李建平,单安山.五味子的生物学作用与应用[J].中国畜牧兽医,2006,33(4):21-24.[29] 周勇,金鑫,谢蓝华,等.复合中药渣发酵功能饲料的研究[J].中国酿造,2011(12):122-125.[30] 祝倩,姬玉娇,李华伟,等.高、低营养水平饲粮对妊娠环江香猪繁殖性能、体成分和血浆生化参数的影响[J].动物营养学报,2016,28(5):1534-1540.  
+Effects of Dietary Supplementation with Herb Residues and Fermented Herb Residues on  
+Reproductive Performance of Sows and Growth Performance of their Offspring  
+LI Huawei1.2 LI Zhihua1ZHU Qian1 WU Lingying² YIN Yulong1 KONG Xiangfeng1,3\*  
+(1. Key Laboratory for Agro-Ecological Processes in Subtropical Region, Hunan Provincial  
+Engineering Research Center of Healthy Livestock, Scientific Observing and Experimental Station  
+of Animal Nutrition and Feed Science in South-Central, Ministry of Agriculture, Institute of  
+Subtropical Agriculture, Chinese Academy of Sciences, Changsha 410125, China; 2. Animal  
+Science and Nutrition Engineering Institute, Wuhan Polytechnic University, Wuhan 430023,  
+China; 3. Hunan Co-Innovation Center for Utilization of Botanicals Functional Ingredients,  
+Changsha 410128, China)
+
+Abstract: This study was conducted to determine the effects of dietary supplementation with fermented herb residues during perinatal period on reproductive performance of sows and growth performance of their offspring, to provide the basis for the development and re-utilization of the herb residues. Sixty healthy crossbred sows on close to 85 days of gestation during the 2 to 4 parities were used and randomly allocated to 3 groups with 2O replicates (one sow each) in this study. The diets were supplemented with $2 ~ \mathrm { k g / t }$ rice bran (control group), $2 ~ \mathrm { k g / t }$ herb residues (from Radix astragali, Radix angelicae sinensis, Radix rehmanniae preparata and Raidix paeoniae alba, etc., HR group) and $2 \mathrm { k g / t }$ fermented herb residues (FHR group), respectively. These diets were fed from prenatal 21 days to postnatal 28 days. The back-fat thickness of sows was measured on pregnancy day 110 and postpartum day 21, respectively. The litter size, alive litter size, dead fetus size, mummy size and postpartum estrus interval of sows were also recorded, as wellas the litter birth weight and liter weight gain of piglets on 7,14 and 28 days of age to calculate the average daily gain of piglets. The diarrhea occurrence of piglets was observed per day throughout the experiment to count the diarrhea rate. The results showed that compared with the control group, the liter weight gain of weaned piglets from the FHR group was significantly increased ( $( P { < } 0 . 0 5 )$ , the diarrhea rate of piglets during 1 to 14 days of age from the HR ( $\scriptstyle P = 0 . 0 5 3 .$ ）andFHR( $\scriptstyle P = 0 . 0 7 5$ ） groups displayed a trend toward increasing, and the diarrhea rate of piglets during 1 to 21 days of age from the HR and FHR groups was dramatically increased ( $( P { < } 0 . 0 5 )$ ; compared with the HR group, the litter weight gain of piglets at 7 days of age from the FHR group was significantly increased ( $( P { < } 0 . 0 5 )$ , and the average daily gain displayed a trend toward increasing $\scriptstyle P = 0 . 0 5 3$ ). These findings suggest that dietary supplementation with the herb residues, especially the fermented herb residues, during perinatal period results in a certain degree of diarrhea of suckling piglets, but facilitates the growth and development of the animals.
+
+Key words: pregnant sows; reproductive performance; suckling piglets; growth and development; fermented herb residues

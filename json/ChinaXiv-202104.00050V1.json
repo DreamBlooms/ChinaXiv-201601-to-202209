@@ -1,0 +1,714 @@
+[
+    {
+        "type": "text",
+        "text": "1980—2018年银川市生态系统服务价值评价及驱动力分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王波²，杨太保¹(1.兰州大学资源环境学院,甘肃 兰州730000；2.北方民族大学设计艺术学院,宁夏 银川 750030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：生态系统服务价值(Ecosystem service values,ESV)的准确评估及其驱动力分析，关乎区域生态安全和经济发展。基于1980—2018年银川市各区县的土地利用数据，结合变化率、动态度、敏感性和相关性核算了银川市的生态系统服务价值，并利用地理探测器分析了驱动因子。结果表明：1980—2018年不同生态服务类型总的ESV在减小，减少了 $0 . 7 5 3 \\times 1 0 ^ { 9 }$ 元。绝大部分生态服务类型的生态系统服务价值变化幅度较小，水文调节的价值最高且变化显著。水资源供给的变化动态度最大，并且呈增长趋势；草地和水体生态系统服务价值的敏感性较强，水体与总的生态系统服务价值关联性最强。从分布来看，灵武市生态系统服务价值最高，金凤县最小。单因子主要驱动因子为国内生产总值(Gross domestic product,GDP)和数字高程模型(Digital elevation model,DEM),多因子交互驱动中GDP∩气温和GDP∩DEM对银川市ESV分布的贡献最大，银川市生态系统服务价值分布主要受人为因素和自然因素的交互作用影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态系统服务价值；驱动力分析；地理探测器；银川市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土地是人类在生产生活中维持生态平衡的重要载体，近年来，随着城镇化进程的加快，土地利用的广度以及深度均呈现出明显的变化[1]。土地覆盖变化（Land cover and land change,LUCC）是全球环境变化的主要组成部分及驱动因素之一，是特定人-地关系下多种驱动因素的共同结果，是与人类生存和可持续发展相关的核心问题。LUCC通过改变生态系统的结构和功能，从而使得生态系统服务发生变化，进一步改变生态系统服务价值。因此，合理和科学地使用土地资源，是实现人与自然和谐相处的基础，进而达到协调生态系统的目的。生态系统是人类赖以生存的统一整体，人类生活在以城市和农田为主的人工生态系统中[3]。人类的长远生存和发展，依赖于维持生命的产品和服务，而这一切皆由生态系统服务通过生态系统的结构、过程和功能提供[4]。因此,对生态服务价值(Ecosystem ser-vicevalues,ESV)的准确评估对人类健康以及区域生态安全显得至关重要[5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "首次对ESV进行定量评估的是Costanza等[在1997年应用效益转移法（Benefittransfermethod,BTM)系统地评估了全球生态系统服务的功能价值，基于划分好的全球生态系统的14类生物群落和生态系统功能的17种类型。自此，ESV的评估和量化,便成为了学术界关注的热点[7]。目前,对于生态系统服务价值的估算方法大体可分为两类：其一是单位面积服务价值功能价格法8；另一类是基于单位面积价值当量因子的方法[9]。由于前一种方法计算复杂，涉及参数较多，各个参数的标准很难统一。因而，后一种方法因其评估快速和结果直观易于理解等优势受到了诸多学者的青睐[10-13]。其中包括国内学者谢高地等14在Costanza理论基础上对中国开发了不同陆地生态系统单位面积生态价值服务当量表，由于此表的简洁性和可靠性已在国内广泛推广。在国外，Costanza等[15]人在前期研究的基础上，于2014年更新了单位面积价值当量因子。然而，由于生态服务价值的评估存在尺度效应，宏观大尺度可以引用已有的价值当量因子，小尺度难以满足特定区域的生态系统服务价值评估。因此，李怡等[16]参照生态系统服务价值当量定量分析了陇县的ESV变化特征；胡应龙等[分析了广州市在快速城市化进程中土地利用对ESV变化的空间异质性;约日古丽·卡斯木等[18]采用多元回归模型对新疆艾比湖流域土地利用和ESV变化进行了驱动力分析。可见，针对不同区域，不同学者根据当地的实际情况制定符合本区域的单位面积价值当量因子，再结合适宜的模型研究该地区的ESV变化以及驱动力。有关ESV影响因素的研究大致可以分为两类：一是基于土地利用类型的转变，分析ESV的时空变化特征[19]；二是选取相关指标，建立指标体系，应用相关性或者回归分析探讨ESV的主要影响因子[20]。现有研究大多通过经济社会指标与ESV的回归结果解释影响因素，但是各因子对ESV的影响并不均质，在作用强度和作用空间上均呈现出较大差异，而现有关注因子作用强度空间差异的研究鲜有涉及。地理探测器能够定量地探测单因子驱动力和多因子交互驱动力，能够弥补对ESV的影响因素尤其是各主导因子空间分异的研究缺失。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "银川市是历史悠久的塞上古城，地处农牧交错带，生态环境比较脆弱，ESV的评估分析对当地的经济发展有着重要意义。然而仅有极少数学者开展了相关的研究,Fang等[2]对黄土高原城镇的ESV进行了估算，并对生态系统与土地利用格局的关系进行了分析和探讨，发现土地类型的迁移与ESV的变化密切相关。杨海超22基于2005—2010年银川市各区县的土地类型变化情况，核算了银川市的ESV。郭婉婷等[23评价了银川市2008—2018年的ESV并用线性回归模型进行了驱动力分析。然而，以上研究均没有进行系统性的长时序ESV分析并且鲜有学者应用地理探测器进行ESV驱动力分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，本文基于改进的生态服务价值当量因子，使用1980、1990、1995、2000、2005、2010、2015年和2018年的8期土地利用数据核算银川市1980—2018年的ESV，结合变化率、动态度、敏感性及相关性指标对银川市ESV做了详细讨论。之后应用地理探测器对ESV的驱动因子做了全面分析。以期为银川市的生态保护以及区域规划提供参考资料，同时对于同类型地区研究ESV具有借鉴意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "银川市地处中国西北地区、宁夏平原中部，东踞鄂尔多斯西缘、西依贺兰山，黄河从市境穿过，是古丝绸之路商贸重镇。作为省会城市，银川市是宁夏的经济、政治、文化、科研、交通、军事和金融中心，也是中蒙俄、新亚欧大陆桥经济走廊核心城市和中国向西开放的窗口。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "全市的平均气温约为 $8 . 6 ~ \\mathrm { { ^ { \\circ } C } }$ ,年均日照时数在$3 0 0 0 \\mathrm { ~ h ~ }$ 以上，年降水量为 $2 0 0 { \\sim } 2 2 0 ~ \\mathrm { m m }$ ,无霜期约为$1 9 0 \\mathrm { d }$ 。境内水资源丰富，湖泊和湿地众多，土壤类型的多样化适宜农作物生长。截止2018年，全市总面积为 $8 8 7 4 . 6 1 ~ \\mathrm { k m } ^ { 2 }$ ，总人口达 $2 . 2 5 { \\times } 1 0 ^ { 6 }$ 人，GDP总量同比增长 $7 . 2 0 \\%$ 。其管辖范围内共包含3个区（兴庆区、金凤区和西夏区），2个县(贺兰县和永宁县）、代管1个县级市(灵武市）图1)。整个区域生态系统完整，是研究区域自然环境及经济发展水平异质性的宝地。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2e03698c575d6923e03c8539fc889ff80f8af481c52b2726f3d051b91f12382.jpg",
+        "img_caption": [
+            "图1银川市地理位置",
+            "Fig.1 Geographical location of Yinchuan City "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据及方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土地利用数据采用清华大学发布的 $3 0 \\mathrm { m }$ 土地利用数据(http://data.ess.tsinghua.edu.cn/);数字高程模型(Digitalelevationmodel,DEM)数据来源于地理空间数据云平台；公路、铁路和水域数据来源于OpenStreetMap；NDVI（Normalized difference vegeta-tionindex)使用Landsat8OLI影像计算获得;国内生产总值(Gross domestic product,GDP)和人口密度数据从多时期土地利用遥感监测数据库获取，其来源于中国科学院地理科学与资源研究所。GDP空间分布公里网格数据集利用多因子权重分配法实现GDP的空间化，是在全国分县GDP统计数据的基础上，综合考虑了居民点密度、夜间灯光亮度、土地利用类型等多因素的影响。人口空间分布公里网格数据集利用多因子权重分配法将以行政区为基本统计单元的人口数据展布到空间格网上，实现了人口的空间化。该过程是在全国分县人口统计数据的基础上，综合考虑了与人口密切相关的居民点密度、夜间灯光亮度、土地利用类型等多因素的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2生态系统服务价值计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于 $3 0 \\mathrm { m }$ 分辨率的8期土地利用数据，采用谢高地修正的关于中国陆地生态系统服务价值的当量表，并结合银川市土地实际情况，以森林-林地、草地-草地、农田-耕地、水体-水域、裸地-未利用地等形式进行不同的生物群落的对应，进而获取了银川市5种土地利用类型的价值系数。本文以Costanza和谢高地的研究方法为基础，计算每个土地利用单位面积的ESV。公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E S V } = \\sum \\left( { A } _ { k } \\times \\mathrm { V C } _ { k } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E S V } _ { f } = \\sum ( A _ { k } \\times \\mathrm { V C } _ { f k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：ESV表示银川市生态系统服务价值总量(元);$\\boldsymbol { A } _ { k }$ 表示第 $k$ 类土地利用类型的面积 $\\left( \\mathrm { k m } ^ { 2 } \\right)$ ； $\\mathrm { V C } _ { k }$ 代表第 $k$ 类土地利用类型对应的ESV系数（元· $\\mathrm { h m } ^ { - 2 }$ ）。$\\mathrm { E S V } _ { f }$ 代表生态系统单项服务价值总量（元）； $\\mathrm { V C } _ { \\it { f k } }$ 表示单项服务功能的价值系数（元· $\\mathrm { h m } ^ { - 2 }$ )[24]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果直接使用以上计算方法将会影响结果的全面性和准确性[6。因此，本文在前人研究的基础上，对ESV计算的指标做了调整：根据银川市1980一2018年土地利用面积统计中水田与旱地的面积之比加权计算出耕地的ESV指标;银川市的林种绝大部分为灌木，所以林地采用灌木的ESV指标；草地采用草原和草甸的均值作为该地区草地的ESV指标；水体采用水系和湿地的ESV指标平均值；裸地采用裸地的ESV指标;由于建设用地的ESV指标为0,所以本文未考虑该类型的生态价值。银川市各土地利用类型的ESV指标见表1。改进型生态系统服务价值化方法的标准当量因子ESV的价值量为 $3 . 4 0 6 \\times 1 0 ^ { 5 }$ 元 $\\cdot \\mathrm { k m } ^ { - 2 }$ 。根据本文的选取指标，在生态服务类型的4个一级服务类别(供给、调节、支持、文化)下选取了11个二级生态服务类型。其中：食物生产、原料生产和水资源供给构成了供给服务。气体调节、气候调节、净化环境和水文调节组成了调节服务。土壤保持、维持养分循环和生物多样性组成了支持服务。文化服务主要由美学景观构成。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e336a9c620ac195c93d632f7a0a8d8414f7a1f19ff83e0be6d81cf6e40760be9.jpg",
+        "table_caption": [
+            "表1银川市各土地利用类型的ESV计算指标"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>服务类别</td><td>单项服务</td><td>林地</td><td>草地</td><td>耕地</td><td>水体</td><td>裸地</td></tr><tr><td rowspan=\"3\">供给服务</td><td>食物生产</td><td>6.472</td><td>5.450</td><td>42.854</td><td>22.313</td><td>0.000</td></tr><tr><td>原料生产</td><td>14.648</td><td>8.005</td><td>5.178</td><td>12.434</td><td>0.000</td></tr><tr><td>水资源供给</td><td>7.494</td><td>4.428</td><td>-71.537</td><td>185.314</td><td>0.000</td></tr><tr><td rowspan=\"3\">调节服务</td><td>气体调节</td><td>48.032</td><td>28.104</td><td>34.814</td><td>45.477</td><td>0.681</td></tr><tr><td>气候调节</td><td>144.095</td><td>74.262</td><td>17.986</td><td>100.321</td><td>0.000</td></tr><tr><td>净化环境</td><td>43.603</td><td>24.527</td><td>5.314</td><td>155.847</td><td>3.407</td></tr><tr><td rowspan=\"3\">支持服务</td><td>水文调节</td><td>114.118</td><td>54.334</td><td>75.965</td><td>2154.100</td><td>1.022</td></tr><tr><td>土壤保持</td><td>58.592</td><td>34.235</td><td>7.290</td><td>55.185</td><td>0.681</td></tr><tr><td>维持养分循环</td><td>4.428</td><td>2.725</td><td>5.995</td><td>4.258</td><td>0.000</td></tr><tr><td rowspan=\"3\">文化服务</td><td>生物多样性</td><td>53.482</td><td>31.169</td><td>6.609</td><td>177.479</td><td>0.681</td></tr><tr><td>美学景观</td><td>23.505</td><td>13.796</td><td>2.861</td><td>112.755</td><td>0.341</td></tr><tr><td>合计</td><td>518.469</td><td>281.035</td><td>133.329</td><td>3025.483</td><td>6.813</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3ESV变化率计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态服务类型变化率公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\frac { A _ { j } - A _ { i } } { A _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 为生态服务类型的变化率; $A _ { i } \\setminus A _ { j }$ 为银川市一种生态服务类型2个时期的价值量( $1 0 ^ { 4 }$ 元 $\\cdot \\mathrm { k m } ^ { - 2 }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "单一生态服务类型变化动态度计算公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK \\mathrm { = } \\frac { U _ { b } - U _ { a } } { U _ { a } } \\times \\frac { 1 } { T } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $K$ 为研究时间段内某一生态服务类型动态度； $U _ { a } \\setminus U _ { b }$ 分别为研究初期和研究末期某一生态服务类型价值量； $T$ 为研究时段长度，当 $T$ 的时段设定为年时， $K$ 值就是该研究区某一种生态服务类型的年变化率[25]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合生态服务类型动态度计算公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L C } = \\left( \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\Delta \\mathrm { L U } _ { i - j } } { \\displaystyle 2 \\sum _ { i = 1 } ^ { n } \\mathrm { L U } _ { i } } \\right) \\times \\frac { 1 } { T } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：LC为生态服务年变化率； $\\mathrm { L U } _ { i }$ 为监测起始时间的第 $i$ 类生态服务类型的价值量； $\\Delta \\mathrm { L U } _ { i - j }$ 为监测时间段内第 $i$ 类生态服务类型转为非 $i$ 类生态服务类型的绝对值； $T$ 为监测时段长度。当 $T$ 的时段设定为年时，LC的值就是该研究区生态服务年变化率[26]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4ESV敏感性计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文使用的敏感性模型，是为了计算ESV对价值系数VC变化的响应[2],通过上下调整每个土地利用类型ESV系数的 $5 0 \\%$ 大小，进一步确定ESV随时间的变化情况以及对价值系数的依赖程度。计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C S } = \\frac { ( \\mathrm { E S V } _ { j } - \\mathrm { E S V } _ { i } ) / \\mathrm { E S V } _ { i } } { ( \\mathrm { V C } _ { j k } - \\mathrm { V C } _ { i k } ) / \\mathrm { V C } _ { i k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：CS为敏感性指数;ESV是估算的生态系统服务价值；VC是价值系数； $i$ 和 $j$ 分别代表初始值和调整后的值（上下调整 $5 0 \\%$ ）； $k$ 代表土地利用类型。其中，当 $\\mathrm { C S } { \\leqslant } 1$ 时，ESV是缺乏弹性的；当 $\\mathrm { C S } { \\geqslant } 1$ 时，表明ESV相对于VC是富有弹性的。因此，CS值越大，说明ESV指数的准确性越关键，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5地理探测器原理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GeoDetector是由王劲峰等[28提出的一种统计学方法，其作用是定量地探测空间分异性以及揭示其背后驱动力。该方法的主旨思想为：如果某个因子对某种现象的出现在空间上有着重要影响，那么该因子与该现象的空间分布应该具有相似性。利用该方法不仅可以探测单因子的影响力，也能判断多因子交互作用的强弱",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GeoDetector主要包括4个探测器，分别是分异及因子探测、交互作用探测、风险区探测和生态探测，本文重点研究的是生态服务价值驱动力，因此选择了分异及因子探测和交互作用探测进行定量阐述和分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分异及因子探测能用 $q$ 值度量出某因子 $X$ 多大程度上解释属性 $Y$ 的空间分异， $q$ 的值域为[0,1」,如若自变量 $X$ 对属性 $Y$ 的解释力越强，则 $q$ 值越大；反之越弱， $q$ 值越小。表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = 1 - { \\frac { \\mathrm { S S W } } { \\mathrm { S S T } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S S W } = \\int _ { h = 1 } ^ { L } N _ { h } \\sigma _ { h } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { S S T } = N \\sigma ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：SSW和SST分别为层内方差之和和全区总方差； $h$ 为层数，值为 $1 , 2 , \\cdots ; L$ 为变量 $Y$ 或因子 $X$ 的分层或分区; ${ { N } _ { h } }$ 和 $N$ 分别为层 $h$ 和全区的单元数； $\\sigma _ { h } ^ { 2 }$ 和 $\\sigma ^ { 2 }$ 分别是层 $h$ 和全区的Y值的方差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "交互作用探测能够评估因子 $X _ { 1 }$ 和 $X _ { 2 }$ 共同作用时是否会增加或减弱对因变量 $Y$ 的解释力。评估的方法是首先分别计算因子 $X _ { 1 }$ 和 $X _ { 2 }$ 对 $Y$ 的 $q$ 值： $q ( X _ { 1 } )$ 和 $q ( X _ { 2 } )$ ,并且计算它们交互时的 $q$ 值： $q ( X _ { 1 } \\cap X _ { 2 } )$ ，并对 $q ( X _ { 1 } ) \\setminus q ( X _ { 2 } )$ 与 $q ( X _ { 1 } \\cap X _ { 2 } )$ 进行比较。2个因子之间的关系可大致分为以下几类(表2)：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2两个自变量对因变量交互作用的类型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0960081360f6d48802f531a428c8d9ac8f8d76aa71e58016349e68e39f56459e.jpg",
+        "table_caption": [
+            "Tab.2 Types of interactions between two independent variablesanddependentvariables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>判据</td><td>交互作用</td></tr><tr><td>q(X ∩X2)<min[q(X1),q(X2)]</td><td>非线性减弱</td></tr><tr><td>min[q(Xi),q(X2)]<q(Xi (X2)<max[q(X1),q(X2)]</td><td>单因子非线性减弱</td></tr><tr><td>q(X ∩ X2)>max[q(Xi), q(X2)]</td><td>双因子增强</td></tr><tr><td>q(X ∩ X2)=q(Xi) + q(X2)</td><td>独立</td></tr><tr><td>q(X ∩X)>q(Xi) + q(X)</td><td>非线性增强</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3生态系统服务价值的变化分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1生态服务类型的ESV变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以单位面积价值当量系数为基础，根据不同年份对应的不同土地类型的面积可以获得11个二级生态服务类型ESV值(表3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb1fb242cd97244e19fdba21162075bd0c6e8549e75971ab039bade4a651bcc3.jpg",
+        "table_caption": [
+            "表3银川市不同生态服务项目的ESV值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>服务项目</td><td>1980年</td><td>1990年</td><td>1995年</td><td>2000年</td><td>eprojee 2005年</td><td>2010年</td><td>2015年</td><td>2018年</td></tr><tr><td>食物生产</td><td>1.066</td><td>1.067</td><td>1.199</td><td>1.277</td><td>1.216</td><td>1.225</td><td>1.245</td><td>1.182</td></tr><tr><td>原料生产</td><td>0.446</td><td>0.445</td><td>0.438</td><td>0.445</td><td>0.440</td><td>0.442</td><td>0.438</td><td>0.425</td></tr><tr><td>水资源供给</td><td>-0.691</td><td>-0.750</td><td>-0.978</td><td>-1.063</td><td>-0.949</td><td>-0.976</td><td>-1.013</td><td>-0.935</td></tr><tr><td>气体调节</td><td>1.877</td><td>1.877</td><td>1.908</td><td>1.964</td><td>1.920</td><td>1.930</td><td>1.925</td><td>1.858</td></tr><tr><td>气候调节</td><td>3.569</td><td>3.563</td><td>3.390</td><td>3.403</td><td>3.397</td><td>3.412</td><td>3.355</td><td>3.279</td></tr><tr><td>净化环境</td><td>1.527</td><td>1.491</td><td>1.450</td><td>1.476</td><td>1.483</td><td>1.476</td><td>1.459</td><td>1.423</td></tr><tr><td>水文调节</td><td>9.384</td><td>8.820</td><td>9.260</td><td>9.841</td><td>9.863</td><td>9.752</td><td>9.819</td><td>9.491</td></tr><tr><td>土壤保持</td><td>1.620</td><td>1.614</td><td>1.533</td><td>1.540</td><td>1.537</td><td>1.542</td><td>1.516</td><td>1.482</td></tr><tr><td>维持养分循环</td><td>0.229</td><td>0.229</td><td>0.241</td><td>0.251</td><td>0.243</td><td>0.245</td><td>0.246</td><td>0.236</td></tr><tr><td>生物多样性</td><td>1.813</td><td>1.774</td><td>1.721</td><td>1.756</td><td>1.760</td><td>1.757</td><td>1.738</td><td>1.695</td></tr><tr><td>美学景观</td><td>0.892</td><td>0.865</td><td>0.847</td><td>0.870</td><td>0.874</td><td>0.870</td><td>0.863</td><td>0.841</td></tr><tr><td>合计</td><td>21.732</td><td>20.995</td><td>21.009</td><td>21.760</td><td>21.784</td><td>21.675</td><td>21.591</td><td>20.977</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，1980—2018年间，不同年份对应的生态服务类型的ESV值变化幅度不一。其中水资源供给的ESV值变化最为显著，呈全负值状态，并且在2000年达到最小值。水文调节的ESV占比在所有服务类型中最大，可见水文对生态系统的重要性[29]。其次是气候调节、气体调节、生物多样性和土壤保持。生态系统是由多个元素构成的复杂整体，要使其动态平衡发展，就要使其在内的各个组分协调均衡。然而，在研究期间，表3中绝大部分生态类型的ESV值呈减少趋势，说明生态系统给人类带来的价值量在减小，人类对生态景观的破坏度在加强。其中也不乏ESV增多的类别,例如食物生产和维持养分循环。但增加幅度较小，并且增长过程伴有波动性，说明社会经济发展以及人类活动对银川市二级生态服务类型的影响较大[30]。就ESV的总量而言，从1980年的 $2 . 1 7 3 \\times 1 0 ^ { 1 0 }$ 元到2018年的$2 . 0 9 7 \\times 1 0 ^ { 1 0 }$ 元，减少了 $0 . 7 5 5 \\times 1 0 ^ { 9 }$ 元，说明这段时间内，银川市各生态服务类型提供的生态总价值量在减小。为了更清晰地展现不同生态服务类型ESV随时间的变化趋势，可以用时间作为横轴，不同生态服务类型的ESV作为纵轴，得到图2。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图2可以发现，在研究时段期间，各生态服务类型的ESV变化率不一。典型的生态服务类型例如：生物多样性、土壤保持、净化环境、美学景观、原料生产和维持养分循环对应的ESV线段变化率接近0，表明在1980一2018年间，这6类对生态系统的价值贡献几乎没有变化，外界对它们的影响不显著。而水文调节、气候调节、气体调节、食物生产和水资源供给，这5类的变化幅度较为明显，并且食物生产和水资源供给在2000年分别呈现出增长和减少的趋势。此外，水文调节、气候调节和水资源供给在1980—1995年的变化幅度最大，这与不同土地类型ESV变化显著的时间段吻合，说明不同年份的政策制定结合综合因素会同时影响到土地类型和生态服务类型的ESV[31]。从图2还可以看出，与人类生活息息相关的几类要素，例如：水文和气候出现了不同幅度变化，提醒我们在积极推进建设美丽、绿色银川市的同时，要适宜调整政策来迎合自然要素与人类的互利共生。保证水资源的干净充足和气候的温润怡人。此外，为了更直观地展示ESV的变化量级，可以对1980—2018年银川市的ESV进行变化率和敏感性分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/11b95cebbda1bf956fc0169a53e6c4dfdf7328356558cde6947d39eae2a41b41.jpg",
+        "img_caption": [
+            "图21980—2018年银川市各生态服务类型的ESV变化趋势Fig.2 ESV change trend of various ecological service typesin Yinchuan City from 1980 to 2018"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2ESV的变化率及敏感性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "应用公式(2)，其中A表示某一种土地利用类型的ESV，便可以依次计算得到1980—2018年银川市各类土地类型ESV的变化率，如表4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出，各年际之间土地类型ESV的变化率差异显著。其中，1980一2018年的年均变化率在表中的最后一栏。在研究时间段内，耕地和水体呈增长态势，并且耕地的增长率远大于水体。林地、草地和裸地呈减少态势，同时裸地的年均减少率最大，草地次之，林地最小。在不同年份，各土地类型呈交替变化态势。总体而言，裸地和林地呈现持续减少的趋势，耕地和水体呈持续增长的趋势，草地的变化率起伏显著，最大减少率为 $1 0 . 7 1 6 \\%$ ○这可能与银川市的社会发展有关联，因为经济的快速增长会导致生态环境的恶劣变化[32]。从表4可以发现：2015—2018年，5种土地类型的变化率均为负值，表明对应土地类型的ESV值呈减少态势。因此，在推进银川市全面发展的同时，应顾及社会生产与生态的协调可持续发展。除此之外，各生态服务类型的变化动态度也可从一定程度反映银川市的发展情况具体见表5。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5展现了1980—2018年银川市不同生态服务类型的ESV变化动态度以及等级排序。从中可以发现，水资源供给ESV占比最大，其变化呈增长态势。土壤保持ESV变化率的绝对值是负值里面最大的，说明该类型的减少趋势最为显著。除此之外，这11种二级生态服务类型绝大部分的ESV呈减少趋势，侧面印证了银川市的经济发展会给生态环境带来消极影响。在进一步促进区域经济发展的同时，应注重绿色、健康发展。保持水文、气候和环境等条件适宜，利于人类生活、生产。在人与自然的接触过程中，还应维持银川市的养分正常循环，保持生物多样性繁荣以及适时修复美学景观，使经济增长不以牺牲生态价值为目标。进而使土地资源的利用和生态服务的价值提供达到最大效益。除了变化率、动态度能反映ESV的变化趋势外，敏感性也是一项重要的指标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "价值系数的增减对应敏感性指标的正负，表6展示了价值系数 $\\mathrm { \\ ' { V C } \\pm 5 0 \\% \\mathrm { V C } }$ )调整后不同土地类型ESV对价值系数的敏感性。其值越大，敏感性越强。从中可以发现，1980—2018年间，ESV的敏感性指数绝大部分是小于1的，说明ESV缺乏弹性。从数值的整体分布可以看出，采用的ESV计算指标合理，总体结果较为理想。其中，草地和水体的CS值较大，说明该类型的敏感性较强，对应的ESV指数准确性较为关键。此外，也表明这2种土地类型在银川市生态系统中的重要地位，二者中的最大敏感性指数可达0.401。其次为耕地和林地，CS值在不同年份较为接近，表明它们所提供的ESV差异不大，对应ESV的弹性差异较小。裸地的ESV敏感性指数最小，最小值为0.004，表明裸地ESV指数的准确性相比其他土地类型为低等级[33]。但由于其特殊的生态服务功能，在总的土地面积中占有一定的比重，不可忽略其对ESV的影响。此外，根据系数调整之后的ESV值，可以计算得到1980—2018年间不同土地类型敏感性指标对应的百分比如下表所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表7可以看出，相邻年份的ESV占比差异不大。在整个研究时间跨度中，林地和草地的占比总体趋势在减少，而其他几种土地类型的占比在增加。在这几种类型当中，草地和水体的占比高，均在 $1 0 . 5 \\%$ 以上，表明这2种土地类型ESV的敏感性强，对整个生态系统服务价值量的贡献显著。林地、耕地和裸地不同年份对应的占比相对稳定，只有耕地表现出轻微的浮动，说明这3种类型ESV敏感性差异较小。此外,还可用相关性指数来进一步说明不同土地类型ESV指标与总的ESV之间的关联。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/331f59b87402e2ccb387286f13d5cf0d09eb17822bea2403ca485569e35c8a0a.jpg",
+        "table_caption": [
+            "表41980—2018年银川市不同土地类型ESV的变化率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">Tab.4 Change rate of ESV for different land use types in Yinchuan City from 1980 to 2018</td></tr><tr><td>土地类型</td><td>1980- -1990年</td><td>1990—1995年</td><td>1995—2000年</td><td>2000—2005年</td><td>2005- -2010年</td><td>2010- -2015年</td><td>2015- -2018年</td><td>1980—2018年</td></tr><tr><td>林地</td><td>-0.286</td><td>-1.768</td><td>-4.663</td><td>6.348</td><td>0.681</td><td>-1.814</td><td>-1.878</td><td>-0.087</td></tr><tr><td>草地</td><td>0.981</td><td>-10.716</td><td>-0.292</td><td>-1.560</td><td>0.624</td><td>-2.881</td><td>-1.488</td><td>-0.393</td></tr><tr><td>耕地</td><td>0.659</td><td>17.983</td><td>7.754</td><td>-5.989</td><td>0.949</td><td>2.428</td><td>-5.770</td><td>0.462</td></tr><tr><td>水体</td><td>-10.268</td><td>7.120</td><td>8.782</td><td>1.974</td><td>-2.285</td><td>1.295</td><td>-3.185</td><td>0.088</td></tr><tr><td>裸地</td><td>-1.172</td><td>-4.188</td><td>-12.051</td><td>6.332</td><td>-7.601</td><td>-4.544</td><td>-4.158</td><td>-0.702</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5银川市不同生态服务类型的ESV变化动态度及其趋势",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/712c21a74383357b32cb68c52f39f6ec1b44b5a20fa26d1b0928d3d75aa0610e.jpg",
+        "table_caption": [
+            "Tab.5 Change attitude and trend ofESVin different types of ecological services in Yinchuan City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>服务项目</td><td>变化动态度/%</td><td>等级</td><td>趋势</td></tr><tr><td>食物生产</td><td>0.295</td><td>2</td><td>增加</td></tr><tr><td>原料生产</td><td>-0.118</td><td>6</td><td>减少</td></tr><tr><td>水资源供给</td><td>0.917</td><td>1</td><td>增加</td></tr><tr><td>气体调节</td><td>-0.023</td><td>5</td><td>减少</td></tr><tr><td>气候调节</td><td>-0.213</td><td>10</td><td>减少</td></tr><tr><td>净化环境</td><td>-0.177</td><td>9</td><td>减少</td></tr><tr><td>水文调节</td><td>0.044</td><td>4</td><td>增加</td></tr><tr><td>土壤保持</td><td>-0.223</td><td>11</td><td>减少</td></tr><tr><td>维持养分循环</td><td>0.086</td><td>3</td><td>增加</td></tr><tr><td>生物多样性</td><td>-0.170</td><td>8</td><td>减少</td></tr><tr><td>美学景观</td><td>-0.146</td><td>7</td><td>减少</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3ESV相关性分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用4个一级生态服务类型的总价值分别与不同土地类型的ESV进行相关性分析(表8)。可以看出：供给服务、调节服务、支持服务这3类服务类型与不同土地类型的相关度较高，其中调节服务与不同土地类型的负相关占比最多。文化服务与耕地呈负相关，表明文化的繁荣一定程度上降低了耕地的ESV值。此外，在耕地与不同生态服务类型的关联系数中，负相关较多。表8中，最小的正相关系数为0.012，表明生态服务总价值与林地的相关性较低，林地对总的ESV贡献不显著。最大的正相关系数为0.903，说明调节服务与水体的关联度高，水资源的供给在生态系统调节其他类型的时候，发挥着不可代替的作用[34]。与此同时,生态系统总价值与水体的关联度也是最高的，其次为耕地。说明水资源在银川市人口饮用以及生态系统服务中占有及其重要的地位[35]。在合理利用水资源的同时，应尽可能节约用水、杜绝水资源浪费。此外，耕地是粮食安全的基本保证，除了其基础的功能外，还发挥着重要的生态功能。在充分利用耕地的同时，应最大化保护耕地，防止其盐碱化或转为荒地[3]。使不同的土地类型释放出最大效益的ESV，更应使土地与生态协调均衡发展，为营造绿色银川市铺垫基石。在推进建设绿色银川市的同时，需要明确哪些因子会导致银川市的ESV变化，但是目前尚不清楚。因此，以下部分注重讨论银川ESV变化的驱动因子。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4生态系统服务价值的驱动力分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1ESV单一驱动因子探测 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了探测银川市ESV的驱动因素，本文选用了DEM、坡度、NDVI、气温和降水量等5个自然因素，GDP、人口密度、距离公路、铁路、水路距离等5个社会因素对银川市的ESV进行探测[37]。首先使用Arc-GIS10.5中的Finishnet工具将研究区按 $2 \\ \\mathrm { k m } { \\times } 2 \\ \\mathrm { k m }$ 的网格划分，利用生成的网格计算每个网格的ESV，利用自然断点法对GDP、DEM、NDVI、坡度、气温、降水量、距离公路距离、距离铁路距离、距离水路距离、人口密度数据进行重分类，并在网格几何中心",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/65bc6b2d044e1467c3aa0663fbb3d0d1fa667dd8e1a14c9d63bda46ae0cdf598.jpg",
+        "table_caption": [
+            "Tab.6Sensitivity indicators after VC adjustment for different land use types in Yinchuan City from 1980 to 2018 ",
+            "表7不同土地类型VC调整 $5 0 \\%$ 之后的ESV占比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">1ab.0 SensrivltyHndicatorSarter adjastCn TandusetypesnYmchuahClyHronT9ooto2018</td></tr><tr><td>土地类型</td><td>1980年</td><td>1990年</td><td>1995年</td><td>2000年</td><td>2005年</td><td>2010年</td><td>2015年</td><td></td><td>2018年</td></tr><tr><td>林地</td><td>±0.126</td><td>±0.130</td><td>±0.127</td><td>±0.117</td><td>±0.125</td><td>±0.126</td><td></td><td>±0.124</td><td>±0.126</td></tr><tr><td>草地</td><td>±0.384</td><td>±0.401</td><td>±0.358</td><td>±0.344</td><td>±0.339</td><td></td><td>±0.342</td><td>±0.334</td><td>±0.339</td></tr><tr><td>耕地</td><td>±0.116</td><td>±0.121</td><td>±0.143</td><td>±0.148</td><td>±0.139</td><td></td><td>±0.141</td><td>±0.145</td><td>±0.141</td></tr><tr><td>水体</td><td>±0.370</td><td>±0.343</td><td>±0.367</td><td>±0.386</td><td>±0.393</td><td>±0.386</td><td></td><td>±0.393</td><td>±0.391</td></tr><tr><td>裸地</td><td>±0.005</td><td>±0.005</td><td>±0.005</td><td>±0.004</td><td>±0.005</td><td></td><td>±0.004</td><td>±0.004</td><td>±0.004</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fee8fcedc7352bb10ef8ca142b9a8f71c7168b9f1a0411f9ecfab1ff43f3d4ff.jpg",
+        "table_caption": [
+            "表61980—2018年银川市不同土地类型VC调整( $\\mathbf { V C { \\pm } 5 0 \\% V C }$ 的敏感性指数",
+            "Tab.7Proportion of ESV after $5 0 \\%$ VC adjustment for different land type: ",
+            "1% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地类型</td><td>1980年</td><td>1990年</td><td>1995年</td><td>2000年</td><td>2005年</td><td>2010年</td><td>2015年</td><td>2018年</td></tr><tr><td>林地</td><td>9.663</td><td>9.681</td><td>9.670</td><td>9.624</td><td>9.657</td><td>9.664</td><td>9.656</td><td>9.662</td></tr><tr><td>草地</td><td>10.834</td><td>10.913</td><td>10.717</td><td>10.656</td><td>10.630</td><td>10.647</td><td>10.608</td><td>10.629</td></tr><tr><td>耕地</td><td>9.619</td><td>9.641</td><td>9.739</td><td>9.765</td><td>9.724</td><td>9.734</td><td>9.752</td><td>9.732</td></tr><tr><td>水体</td><td>10.770</td><td>10.651</td><td>10.761</td><td>10.845</td><td>10.877</td><td>10.845</td><td>10.875</td><td>10.869</td></tr><tr><td>裸地</td><td>9.114</td><td>9.115</td><td>9.114</td><td>9.110</td><td>9.111</td><td>9.110</td><td>9.109</td><td>9.109</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表8土地类型与生态服务类型的相关性指标",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/62d2c84c1ec234751833e8174cfbc978d02ab512d5310292bae24542e34cf462.jpg",
+        "table_caption": [
+            "Tab.8 Correlation indicators of land types and ecological service types "
+        ],
+        "table_footnote": [
+            "注：\\*表示显著性水平在0.1以上； $^ { * * }$ 表示显著性水平在0.05以上。"
+        ],
+        "table_body": "<html><body><table><tr><td>服务项目</td><td>林地</td><td>草地</td><td>耕地</td><td>水体</td><td>裸地</td></tr><tr><td>文化服务</td><td>0.364</td><td>0.559*</td><td>-0.346</td><td>0.169</td><td>0.465</td></tr><tr><td>供给服务</td><td>0.613*</td><td>0.864**</td><td>-0.903**</td><td>-0.404</td><td>0.721**</td></tr><tr><td>调节服务</td><td>-0.203</td><td>-0.438</td><td>0.629*</td><td>0.903**</td><td>-0.413</td></tr><tr><td>支持服务</td><td>0.457</td><td>0.889**</td><td>-0.656**</td><td>-0.352</td><td>0.790**</td></tr><tr><td>总价值</td><td>0.012</td><td>-0.073</td><td>0.304</td><td>0.721**</td><td>-0.096</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生成矢量点，利用矢量点提取重分类的结果作为地理探测器的 $X$ 数据，ESV和各服务类别作为Y数据。将 $X Y$ 数据输入到GeoDetector中进行交互作用探测。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图3中发现单因子驱动因素中， $1 7 \\%$ 的GDP贡献最大（图4c）， $1 5 \\%$ 的DEM(图4b)以及 $14 \\%$ 的气温(图4f)次之，其他因子的贡献率均低于 $10 \\%$ ，最小的为距公路的距离。此外，从图 $4 \\mathrm { a }$ 中可以看出，银川市ESV值较高的区域分布在：灵武市、西夏区，还包含兴庆区的少部分区域。几个高值区域中，灵武市的ESV普遍较高，表明该区生态系统服务的质量高，生态系统释放的价值大。而金凤区的ESV普遍较低，生态系统的价值提供远低于平均水平。2个县中，贺兰县ESV的高值区域大小与永宁县相近，而贺兰县的ESV低值范围较广。总体而言，银川市的ESV高值区域分布在东南部，其中以灵武市为代表；中部ESV普遍较低，以金凤区为代表；西北部ESV差异显著，其中以西夏区为代表。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ESV与DEM有很大关系[38-39]。DEM差异影响植被分布、人类活动范围和强度，通过形成局部地区异质环境而影响生态系统结构和功能。其中，低值区域主要集中在海拔 $1 0 5 9 { \\sim } 1 8 1 9 \\mathrm { ~ m }$ 之间，此地区",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "中国 距离水路距离 人口G度 Iu..  \n驱 距离公路距离  \n距离铁路距离J0.0 0.2 0.4 0.6q",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：NDVI为归一化植被指数;GDP为国内生产总值；DEM为数字高程模型； $q$ 为自变量 $X$ 对属性Y的解释力。下同。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "的土地利用类型主要为建筑用地和裸地，而建筑用地和裸地生态服务价值的当量因子较小。ESV高值区主要集中在海拔 $1 8 1 9 { \\sim } 3 5 3 4 \\mathrm { ~ m }$ 之间,此区域的土地利用类型主要为耕地、林地和草地,且这三类的当量因子较高,进而导致这些区域的ESV较高。银川市坡度较缓,整体坡度都在 $2 0 ^ { \\circ }$ 以下,适宜城市发展与农牧业发展。而农牧业发展很大程度上取决于气温和降水量，气温和降水量会影响植被的分布与生长，降水量充足、气温适宜往往是植被生长不可或缺的因素[40]。从图4e中可以发现，银川市的降水主要分布在东部和西部[41，且东部和西部海拔较高，林地和草地广泛分布，同时也是ESV值较高的区域。气温较高的金凤区、西夏区和兴庆区是经济较为发达的地区,GDP值较高，而ESV较低。伴随GDP的提升，ESV也随之发生改变，表明ESV受GDP和人口密度的影响显著，经济的快速发展和城镇化进程的加快使得GDP和人口密度增加,其中金凤区、西夏区和兴庆区的GDP较高,人口密度也比较密集，从而使建筑用地面积不断扩大，导致生态环境遭到破坏,致使ESV与GDP、人口密度呈现负相关。此外，公路、铁路和水路是影响ESV分布不可或缺的因素，公路、铁路和河流沿线是城市发展的重要区位因素，交通建设可以提升区域的空间可达性和区位优势，吸引更多的人流[42]。与此同时，公路和铁路布局会影响城市生态用地的格局分布，河流水源分布也会影响用地格局。银川市主要公路和铁路基本上覆盖全市，金凤区、西夏区和兴庆区的公路、铁路和河流的密度大，沿线人类活动频繁,ESV值低,其他区域公路和铁路密度小,对沿线生态环境影响小,ESV值高。以上表明研究ESV的分布可能不是单一因子作用的结果，单因子驱动力不足以说明银川市ESV的空间分布，因此需要进行交互作用探测。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2ESV交互作用探测",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "交互作用探测器用来检验2种影响因子是自身独立起作用还是相互作用。若为相互作用，则是增强或者减弱[43]。借助交互作用探测器模块获得11个影响因子对ESV的交互作用，交互探测结果（表2)显示，所有驱动力在相互交互后对ESV空间分布及分异特征的影响均具有增强作用，其影响效果非独立存在[44-45]。由此说明：银川市ESV受到多因子相互作用影响，而并不是单一因子影响(表9)。其",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "105°50'E 106°15'E 106°40'E 105°50'E 106°15'E 106°40'E 105°50'E 106°15'E 106°40'E  \n255080 (a)ESV (b)DEM (c) GDP 25080贺 兰县 贺兰县 贺兰县西夏区 西夏区 西夏区  \n20580 金 兴庆区 金凤区 兴庆区 兴庆区 20080永宁县 宁  \n355533 10元·km²2 灵武市 M DEM/m 灵武市 GDP/100元 灵武市 55533高：2.84 高：3534.00 1 高：2.54  \n10000 1 000 02005900 ：0.0 301300105°50'E 106°15'E 106°40'E 105°50'E 106°15'E 106°40'E 105°50'E106°15'E 106°40'E105°50'E 106°15'E 106°40'E 105°50'E106°15'E 10640'E 105°50'E106°15'E 106°40'E  \n2548 (d)人口密度 (e)降水量 (f)气温 355080贺兰县 贺兰县 贺兰县A v西夏区 西夏区 西夏区  \n30080 金凤区兴庆区 N08 金凤区\\~兴庆区 金凤区兴庆区 200.80永宁县 水宁真 3 水宁真? 本  \n35533 人km² 人口密度/ 灵武市 降水量/mm 灵武市 气温/℃ 灵武市 355331 高： 420.345 ? 高：343.37 1 高: 10.44  \n20000 低：0.28 1826 低：2.13 L 30050L105°50'E 106°15'E 106°40'E 105°50'E 106°15'E 106°40'E 105°50'E106°15'E 106°40'E105°50'E 106°15'E 106°40'E 105°50'E106°15'E 106°40'E 105°50'E106°15'E 106°40'E  \n25480 贺兰具(g)距离公路距离 L 贺兰(h)距离铁路距离 贺兰县距离水路距离 35088西夏区 西夏区 西夏区  \n205080 金凤区-兴庆区 金凤区兴庆区 金凤区\\~ 兴庆区 207.80永宁县 欢 永宁县灵武市 距离路 灵武市 距水 灵武市 325533高：1.22 高：0.78 高：3.78□ H ：0 E 低：0.0 3 30300105°50'E 106°15'E10640'E 105°50'E 106°15'E 106°40'E 105°50'E106°15'E 106°40'E105°50'E106°15'E 106°40'E 105°50'E106°15'E 106°40'E255088 (i)坡路 (k) NDVI 355431贺兰县 贺兰县30780 夏风区 兴庆区 西夏区 兴庆区 200.80永宁县22553 坡度/° 灵武市 NDVI 灵武市 22553高：76.39 高：0.31低：0.00 低：-0.1110050 0 20km 0 20km 30000E105°50'E106°15'E 106°40'E 105°50'E 106°15'E 106°40'E",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/112c8da3eff80815adc209c6a616bb67f548b55083caeed04417f002be8d6f63.jpg",
+        "table_caption": [
+            "表9银川市ESV因子组合驱动力",
+            "Tab.9 ESV factor combination driving force in Yinchuan City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>DEM</td><td>坡度</td><td>距离铁路距离 距离公路距离 距离水路距离</td><td></td><td></td><td>NDVI</td><td>降水量</td><td>气温</td><td>人口密度</td><td>GDP</td></tr><tr><td>DEM</td><td>0.151</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>坡度</td><td>0.183</td><td>0.074</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>距离铁路距离</td><td>0.184</td><td>0.132</td><td>0.028</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>距离公路距离</td><td>0.158</td><td>0.084</td><td>0.047</td><td>0.016</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>距离水路距离</td><td>0.164</td><td>0.131</td><td>0.102</td><td>0.072</td><td>0.061</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NDVI</td><td>0.174</td><td>0.155</td><td>0.075</td><td>0.058</td><td>0.096</td><td>0.042</td><td></td><td></td><td></td><td></td></tr><tr><td>降水量</td><td>0.208</td><td>0.144</td><td>0.103</td><td>0.081</td><td>0.131</td><td>0.106</td><td>0.048</td><td></td><td></td><td></td></tr><tr><td>气温</td><td>0.168</td><td>0.186</td><td>0.185</td><td>0.152</td><td>0.161</td><td>0.174</td><td>0.226</td><td>0.141</td><td></td><td></td></tr><tr><td>人口密度</td><td>0.205</td><td>0.178</td><td>0.123</td><td>0.107</td><td>0.145</td><td>0.106</td><td>0.150</td><td>0.222</td><td>0.090</td><td></td></tr><tr><td>GDP</td><td>0.304</td><td>0.262</td><td>0.207</td><td>0.186</td><td>0.231</td><td>0.212</td><td>0.230</td><td>0.320</td><td>0.203</td><td>0.173</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "中气温和GDP的交互作用最强，达到了 $3 2 \\%$ ,其次为DEM与GDP，交互作用达到 $3 0 . 4 \\%$ ，可以发现GDP与其他因子的交互影响对银川市ESV的分布影响较大，GDP、人口密度、距离公路距离、距离水路距离和距离铁路距离等人为因素会导致人类活动较为频繁，形成以不透水面、裸地等为主土地利用方式，降水量、气温、NDVI、DEM和坡度等自然因素与土地利用密切相关，人为驱动力和自然驱动力交互驱动着银川市ESV的分布。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5讨论与结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.1讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对ESV的评估，众多学者提出了不同的计算方法，但以谢高地基于Costanza的研究成果提出的计算方法被广泛接受和认可。本研究以“中国生态系统单位面积生态服务价值当量\"表为基础，用 $3 0 \\mathrm { m }$ 分辨率土地利用类型作为地区修订系数，结合变化率、动态度、敏感性以及相关性全面核算了银川市1980—2018年的生态服务价值。本文与杨海超[22]就2005一2010年银川市的生态服务价值计算结果进行比较发现，变化趋势和量级基本一致，说明总体的结算结果较为合理。表明本文利用高分辨率土地利用数据修订的ESV方法可行，经过修订的银川市ESV数据精度对应提高。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文利用地理探测器定量地研究与银川市ESV密切相关的10个主要驱动因素，利用单因子探测和交互作用探测银川市ESV的驱动因子，揭示了人为因素和自然因素对银川市ESV空间分布贡献大小以及交互作用。研究结果显示人为要素是银川市ESV分布的主要驱动因素，这与韩蕊等4研究川东地区的结论具有一致性，主要由于人为因素直接影响了土地利用变化，从而对ESV的分布产生重要影响。而自然因素和人为要素的交互作用能够改变植被分布、人类活动范围和强度，间接影响了银川市ESV分布和变化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.2结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）1980—2018年，不同生态服务类型总的ESV值在减少,减少了 $0 . 7 5 5 \\times 1 0 ^ { 9 }$ 元。11种二级生态服务类型的ESV变化不一。其中，水文调节的ESV均值最大，且随时间的迁移呈现出显著的变化趋势；水资源供给的ESV均值最小，且表现出轻微的变化趋势。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）整个银川市的ESV值分布不均，高值区域分布在东南部，其中以灵武市为代表;中部ESV普遍较低，以金凤区为代表；西北部ESV差异显著，其中以西夏区为代表。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）裸地和林地的ESV呈现持续减少的趋势，耕地和水体的ESV呈持续增长的趋势，草地的变化率起伏显著，最大值能达到 $1 0 . 7 1 6 \\%$ (1990—1995年)；草地和水体的敏感性较强，对应的ESV指数准确性较为关键；调节服务与水体的关联度高。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）单因子主要驱动因子为GDP和DEM，多因子交互驱动中GDP∩气温和GDP∩DEM对银川市ESV分布的贡献最大，银川市生态系统服务价值分布主要受人为因素和自然因素的交互作用影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]黄敏,杨飞,郑士伟.中国城镇化进程对生态系统服务价值的影 响[J].水土保持研究,2019,26(1):352-359.[Huang Min,Yang Fei,Zheng Shiwei.Impact of urbanization process on ecosystem ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "service value in China[J].Research of Soil and Water Conservation,2019,26(1): 352-359.]   \n[2]史慧慧,程久苗,费罗成,等.1990—2015年长三角城市群土地 利用转型与生态系统服务功能变化[J].水土保持研究,2019, 26(1): 301-307. [Shi Huihui, Cheng Jiumiao,Fei Luocheng,et al. Land use transition and changes of ecosystem service function in urban agglomerations of the Yangtze River Delta from 1990 to 2015[J].Research of Soil and Water Conservation,2019,26(1): 301-307.]   \n[3]欧阳志云,王如松,赵景柱.生态系统服务功能及其生态经济价 值评价[J].应用生态学报,1999,10(5):635-640.[Ouyang Zhiyun, Wang Rusong, Zhao Jingzhu. Ecosystem services and their economic valuation[J]. Chinese Journal of Applied Ecology,1999, 10(5): 635-640.]   \n[4]Reid W V,Mooney H A, Cropper A,et al. Ecosystems and human well-being-synthesis: A report of the millennium ecosystem assesment[M]. Washington DC: Island Press, 2005: 3-21.   \n[5]Crossman N D, BurkhardB,Nedkov S,et al.Ablueprint formapping and modelling ecosystem services[J]. Ecosystem Services, 2013(4): 4-14.   \n[6]Costanza R,D'Arge R,Groot R D, et al. The value of the world's ecosystem servicesand natural capital[J]. Nature，1997,387 (6630): 253-260.   \n[7]谢高地,张彩霞,张昌顺,等.中国生态系统服务的价值[J].资源 科学,2015,37(9):1740-1746.[Xie Gaodi, Zhang Caixia, Zhang Changshun, et al. The value of ecosystem services in China[J]. Resources Science,2015,37(9): 1740-1746.]   \n[8]欧阳志云,王效科,苗鸿.中国陆地生态系统服务功能及其生态 经济价值的初步研究[J].生态学报,199,19(5):607-613.[Ouyang Zhiyun,Wang Xiaoke,Miao Hong.A primary study on Chinese terrestrial ecosystem services and their ecological-economic values[J].Acta Ecologica Sinica,1999,19(5): 607-613.]   \n[9]谢高地,张彩霞,张雷明,等.基于单位面积价值当量因子的生 态系统服务价值化方法改进[J].自然资源学报,2015,30(8): 1243-1254.[Xie Gaodi, Zhang Caixia,Zhang Leiming,et al. Improvement of the evaluation method for ecosystem service value based on per unit area[J]. Journal of Natural Resources,2015,30 (8): 1243-1254.]   \n[10]张瑜.黄土高原生态系统服务价值动态评估及其变化研究[D]. 北京:中国科学院大学(中国科学院遥感与数字地球研究所), 2018.[Zhang Yu. Research on the dynamic evaluation and change of ecosystem service value in loess plateau[D]. Beijing: University of Chinese Academy of Sciences(Institute of Remote Sensing and Digital Earth Chinese Academy of Sciences,Beijing, China),2018.]   \n[11]王鹏,刘小鹏,王亚娟,等.黄土丘陵沟壑区生态移民过程及其 生态系统服务价值评价——以宁夏海原县为例[J].干旱区地 理,2019,42(2): 433-443.[Wang Peng,Liu Xiaopeng,Wang Yajuan, et al.Ecological migration process and the evaluation of its ecosystem service value in Loess hilly and gully region: A case study of ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Haiyuan County,Ningxia[J]. Arid Land Geography,2O19,42(2): ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "433-443.]   \n[12] Feng J, Zhao L D,Zhang Y B,et al. Can climate change influence agricultural GTFP in arid and semi-arid regions of northwest China?[J].Journal of Arid Land,2020,12(5): 837-853.   \n[13] 赵建林,康德奎,彭维恩,等.景电灌区移民对祁连山植被恢复 的相对生态价值[J].干旱区地理,2020,43(1):182-189.[Zhao Jianlin,Kang Dekui,PengWeien,etal.Relative ecological value of vegetation restoration after migrating people from Qilian Mountains to Jingdian Irrigation Area[J]. Arid Land Geography,2020, 43(1): 182-189.]   \n[14]谢高地,张钇锂,鲁春霞,等.中国自然草地生态系统服务价值 [J].自然资源学报,2001,16(1):47-53.[Xie Gaodi, Zhang Yili, Lu Chunxia,et al. Study on valuation of rangeland ecosystem services of China[J]. Journal of Natural Resources,2OO1,16(1): 47- 53.]   \n[15] Costanza R T,Groot R D, Suton P,et al. Changes in the global value of ecosystem services[J]. Global Environmental Change,2014, (26): 152-158.   \n[16] 李怡,郭力宇,温豪.陕西渭北旱塬区土地利用与生态系统服务 价值变化—以陇县为例[J].水土保持研究,2019,26(1):368- 373.[Li Yi,Guo Liyu,Wen Hao.Dynamic changes of land use and ecosystem service values in the arid-highland, north of Weihe River in Shaanxi Province: A case study of the Long County[J]. Research of Soil and Water Conservation,2019,26(1):368-373.]   \n[17]胡应龙,陈颖彪,郑子豪,等.广州市生态系统服务价值空间异 质性变化[J].热带地理,2018,38(4):475-486.[Hu Yinglong, Chen Yingbiao, Zheng Zihao,et al. Spatial heterogeneity change of Guangzhou ecosystem services value[J]. Tropical Geography, 2018,38(4): 475-486.]   \n[18] 约日古丽·卡斯木,杨胜天,孜比布拉·司马义.新疆艾比湖流域 土地利用变化对生态系统服务价值的影响[J].农业工程学报, 2019,35(2): 260-269.[Yueriguli Kasimu,Yang Shengtian, Zibibula Simayi. Impact of land use change on ecosystem service value in Ebinur Lake Basin, Xinjiang[J]. Transactions of the Chinese Society of Agricultural Engineering,2019,35(2): 260-269.]   \n[19] 熊鹰,张方明,龚长安,等.LUCC影响下湖南省生态系统服务 价值时空演变[J].长江流域资源与环境,2018,27(6):1397- 1408.[Xiong Ying, Zhang Fangming,Gong Chang'an,et al. Spatial-temporal evolvement of ecosystem service value in Hunan Province based on LUCC[J]. Resources and Environment in the Yangtze Basin,2018,27(6): 1397-1408.]   \n[20] 赵育恒,曾晨.武汉城市圈生态服务价值时空演变分析及影响 因素[J].生态学报,2019,39(4):1426-1440.[Zhao Yuheng, Zeng Chen.Analysis of spatial-temporal evolution and factors that influences ecological service values in Wuhan urban agglomeration, China[J].Acta Ecologica Sinica,2019,39(4): 1426-1440.]   \n[21] Fang X,Tang G A,Li B C,et al. Spatial and temporal variations of ecosystem service values in relation to land use pattern in the Loess Plateau of China at town scale[J].Plos One,2014,9(10): e110745,doi: 101371/journal.pone.0110745.   \n[22] 杨海超.银川市土地利用与生态服务价值变化研究[J].农业科 学研究,2015,36(1):35-39.[Yang Haichao.Study on land-use and ecological service value of Yinchuan[J]. Journal of Agricultural Sciences,2015,36(1): 35-39.]   \n[23]郭婉婷,邓宇.银川市生态系统服务价值评价及驱动力分析[J]. 中国环境管理干部学院学报,2019,29(6):26-29,41.[Guo Wanting,Deng Yu.Evaluation of the value of ecosystem services in Yinchuan Cityand its driving force analysis[J].Journal of Environmental Management College of China,2019,29(6): 26-29,41.]   \n[24]Schirpke U, Kohler M,Leitinger G,et al. Future impacts of changing land-use and climate on ecosystem services of mountain grassland and their resilience[J]. Ecosystem Services,2017(26): 79-94.   \n[25] 张骞,高明,杨乐,等.1988—2013年重庆市主城九区生态用地 空间结构及其生态系统服务价值变化[J].生态学报,2017,37 (2): 566-575.[Zhang Qian, Gao Ming, Yang Le,et al. Changes in the spatial structure of ecological land and ecosystem service values in nine key districts of Chongqing City over the past 25 years [J].Acta Ecologica Sinica,2017,37(2): 566-575.]   \n[26] 王秀兰,包玉海.土地利用动态变化研究方法探讨[J].地理科学 进展,1999,18(1): 81-87.[Wang Xiulan, Bao Yuhai.Study on the methods of land use dynamic change research[J].Progress in Geography, 1999,18(1): 81-87.]   \n[27]Mengistie K,Thomas S,MartinD,etal.Scenario modelling of land use/land cover changes in Munessa-Shashemene landscape of the Ethiopian highlands[J]. Science of the Total Environment,2018, (622-623): 534-546.   \n[28]王劲峰,徐成东.地理探测器:原理与展望[J].地理学报,2017, 72(1):116-134.[Wang Jingfeng,Xu Chengdong.Geodetector: Principle and prospective[J].Acta Geographica Sinica,2017,72(1): 116-134.]   \n[29] 刘丹,王烜,李春晖,等.水文连通性对湖泊生态环境影响的研 究进展[J].长江流域资源与环境,2019,28(7):1702-1715.[Liu Dan,Wang Xuan,Li Chunhui,et al.Eco-environmental effects of hydrological connectivity on lakes: A review[J]. Resources and Environment in the Yangtze Basin,2019,28(7): 1702-1715.]   \n[30] 郑华,欧阳志云,赵同谦,等.人类活动对生态系统服务功能的 影响[J].自然资源学报,2003,18(1):118-126.[Zheng Hua, Ouyang Zhiyun, Zhao Tongqian,et al. The impact of human activities on ecosystem services[J]. Journal of Natural Resources, 2003,18 (1): 118-126.]   \n[31] 张舟,吴次芳,谭荣.生态系统服务价值在土地利用变化研究中 的应用:瓶颈和展望[J].应用生态学报,2013,24(2):556-562. [Zhang Zhou, Wu Cifang,Tan Rong.Application of ecosystem service value in land use change research: Botlenecks and prospects [J]. Chinese Journal of Applied Ecology,2013,24(2): 556-562.]   \n[32] 肖强,胡聘,肖洋,等.基于协整理论的经济增长与生态环境变 化关系分析——以重庆市渝东南地区为例[J].生态学报,   \n2012,32(11): 3577-3585.[Xiao Qiang,Hu Dan, Xiao Yang,et al. Co-integration theory-based analysis on relationships between economic growth and eco-environmental changes: Taking the southeast district in Chongqing City asan example[J].Acta Ecologica Sinica,2012,32(11): 3577-3585.] [33] 古力扎提·艾买提.基于RS和GIS准东荒漠露天煤矿区景观格 局变化及生态服务价值分析[D].乌鲁木齐:新疆大学,2017. [Gulzat Aimaiti. Study on landscape pattern change and ecological service value of Zhundong open-pit coalmine area based on RS and GIS[D]. Urumqi: Xinjiang University,2017.] [34] 赵宇豪,党虹,叶苗,等.祁连山土地利用情景下生态系统水源 供给特征[J].兰州大学学报(自然科学版),2018,54(2):233-   \n238.[Zhao Yuhao,Dang Hong,Ye Miao,et al. Characteristics of ecosystem water supply in the Qilian Mountains under land use scenarios[J].Journal of Lanzhou University: Natural Sciences,   \n2018,54(2): 233-238.] [35]董中龙.银川市水资源管理研究[D].北京:中央民族大学,   \n2016.[Dong Zhonglong. Study on water resources management in Yinchuan City[D]. Beijing: Minzu University of China,2016.] [36] 李建春.银川市耕地变化与基本农田空间布局优化研究[D].北 京：中国农业大学,2014.[Li Jianchun. Evolution of arable land and optimization of spatial distribution of basic farmland in Yinchuan[D]. Beijing: China Agricultural University,2014.] [37]Liu X,Liu HL, Chen W Z,et al. Spatiotemporal fragmentation of urban residential land use: A case study from China[J]. Sustainability,2017,9(7): 1096. [38] 张微微,李晶,刘焱序.关中-天水经济区农田生态系统服务价 值评价[J].干旱地区农业研究,2012,30(2):201-205.[Zhang Weiwei,Li Jing,Liu Yanxu. The farmland ecosystem service value of Guanzhong-Tianshui Economic Zone[J].Agricultural Research in the Arid Areas,2012,30(2): 201-205.] [39] 赵艳霞,武爱彬,刘欣,等.浅山丘陵区土地利用地形梯度特征 与生态服务价值响应[J].水土保持研究,2014,21(3):141-145. [Zhao Yanxia,Wu Aibing, Liu Xin,etal. Terrain gradient features and response of ecological services value in shallow Hilly Region [J].Research of Soil and Water Conservation,2014,21(3): 141-   \n145.] [40] He Y,Yan HW,MaL,et al. Spatiotemporal dynamicsof the vegetation in Ningxia, China using MODIS imagery[J].Frontiersof Earth Science,2020,14(1): 221-235. [41] 谭华,智海,李艳春,等.城市化及湖泊湿地修复对银川市气候 影响初探[J].干旱区地理,2019,42(3):509-516.[Tan Hua,Zhi Hai, Li Yanchun, et al.Influence of urbanization and lake wetland restoration on the climate evolution in Yinchuan City[J].Arid Land Geography,2019,42(3): 509-516.] [42] 刘月亮,成方龙,李芳,等.广州市景观格局演变特征及驱动因 素交互探测[J].资源与产业,2019,21(4):68-80.[Liu Yueliang, Cheng Fanglong,Li Fang, et al. Interactive detection between evolutional features and driving forces of Guangzhou's landscape pat",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "tern[J].Resources & Industries,2019,21(4): 68-80.] [43]胡凯衡,魏丽,刘双,等.横断山区泥石流空间格局和激发雨量 分异性研究[J].地理学报,2019,74(11):2303-2313.[Hu Kaiheng,Wei Li,Liu Shuang,et al.Spatial pattern of debris-flow catchments and the rainfall amount of triggering debris flows in the Hengduan Mountains region[J]. Acta Geographica Sinica, 2019,74(11): 2303-2313.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[44]王欢,高江波，侯文娟.基于地理探测器的喀斯特不同地貌形态 类型区土壤侵蚀定量归因[J].地理学报,2018,73(9):1674- 1686.[Wang Huan,Gao Jiangbo,Hou Wenjuan.Quantitative attribution analysis of soil erosion in different morphological types of geomorphology in karst areas:Based on the geographical detector method[J].Acta Geographica Sinica,2018,73(9): 1674-1686.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[45]邴广路,石培基,居玲华.生态脆弱区土地利用变化及驱动因素 分析——以张掖市为例[J].干旱区研究,2010,27(2):169-175. [Bing Guanglu,Shi Peiji,Ju Linghua.Lanalysis on land use change and its driving factors in ecological fragile region:A case study in Zhangye City[J].Arid Zone Research,2010,27(2): 169-175.]   \n[46] 韩蕊,孙思琦,郭泺,等.川东地区生态系统服务价值时空演变 及其驱动力分析[J].生态与农村环境学报，2019,35(9):1136- 1143.[Han Rui,Sun Siqi,Guo Li,et al.Evolution of ecosystem service value and analysis of driving forces in the east region of Sichuan Province,China[J].Journal ofEcologyandRural Environment,2019,35(9): 1136-1143.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Value evaluation and driving force analysis of ecosystem services in Yinchuan City from 1980 to 2018 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "WANG $\\mathrm { B o } ^ { 1 , 2 }$ ，YANG Taibaol ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Earth and Environmental Sciences,Lanzhou University,Lanzhou 73oooo,Gansu,China: 2.School of Design and Art,North University for Nationalities,Yinchuan 75oo30,Ningxia,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Accurate ecosystem service value (ESV) evaluation and its driving force analysis relate to regional ecological security and economic development.Based on land-use data of various districts and counties in Yinchuan City,Ningxia Province,China from 1980 to 2018,combined with the change rate,dynamic attude, sensitivity,and correlation,this studycalculated the ESVin Yinchuanand applied GeoDetector toanalyze the driving factors.The results show that from 1980to 2018,the total ESVof diferent ecological services decreased by $0 . 7 5 5 \\times 1 0 ^ { 9 } \\ \\mathrm { Y u a n } \\cdot \\mathrm { k m } ^ { - 2 }$ .The change range of ESV of most ecological services is small, and the hydrological regulation value is the highest,and the change is significant.The dynamic atitude of water resources supply is the greatest， showing an increasing trend. The sensitivity of grassland and water ESV is strong，and the relationship between waterand total ESV is the strongest.From the viewpointof distribution,the ESV in Lingwu Cityis the highestand that in Jinfeng County is the smallst.The principal drivers of single-factors are GDP and DEM.In the multifactor interaction drive,GDP $\\cap$ temperature and GDP $\\cap$ DEM contribute most to the ESV distribution in Yinchuan.The distribution ofESV in Yinchuan is predominantly influenced by the interactionof human and natural factors.This study used high-resolution data and various evaluation indicators to account for the ESVof Yinchuan with long-term series in detail.The study evenly selected six time-nodes throughout the time series to highlight the meticulous features of ESV changes of Yinchuan. By exploring the factors changing the ESV,the interaction between the factors was quantified using GeoDetector,indicating thatthis tool is critical for the ecological environment.This study could provide reliable scientific reference and decision data for the ecological environmental protection and sustainable development of Yinchuan. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: ecosystem service value; driving force analysis; GeoDetector; Yinchuan City ",
+        "page_idx": 12
+    }
+]

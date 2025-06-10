@@ -1,0 +1,267 @@
+# 基于filter+wrapper模式的特征选择算法
+
+周传华1,²，柳智才l′，丁敬安¹，周家亿
+
+(1.安徽工业大学 管理科学与工程学院，安徽 马鞍山 243002;2.中国科学技术大学 计算机科学与技术学院，合肥230026;3．早稻田大学IPS学院，日本东京)
+
+摘要：特征选择是数据挖掘、机器学习和模式识别中始终面临的一个重要问题。针对类和特征分布不均时，传统信息增益在特征选择中存在的选择偏好问题，提出了一种基于信息增益率与随机森林的特征选择算法。该算法结合filter和 wrapper 模式的优点，首先从信息相关性和分类能力两个方面对特征进行综合度量，然后采用序列前向选择（sequential forward selection，SFS）策略对特征进行选择，并以分类精度作为评价指标对特征子集进行度量，从而获取最优特征子集。实验结果表明，本文算法不仅能够达到特征空间降维的效果，而且能够有效提高分类算法的分类性能和查全率。
+
+关键词：信息增益率；随机森林；特征选择；filter模式；wrapper模式中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2018.01.0024
+
+# Feature selection algorithm based on Filter $+$ Wrapper pattern
+
+Zhou Chuanhual,², Liu Zhicai',Ding Jing'an1, Zhou Jiayi3 (1.SchoolofManagementScience&EngineeringAnhui UniversityofTechnology,MaanshanAnHui243o2,China;2.cool ofComputerScience&Technology,UniversityofScience&TechnologyofChina,Hefei23o26,China;3.GraduateShoolof Information,Production&SystemsWaseda University,Tokyo,Japan)
+
+Abstract: Feature selection isoneofthe mostimportantisses indata mining,machinelearningand pattrnrecognition.Aiming at theproblemofpreferenceoftraditionalinformationgainalgorithmin featureselectionwhentheclassand featureareunevenly distributed,this paper proposes anew feature selection algorithm basedon information gain ratioandrandom forest.The proposedalgorithmcombined withtheadvantagesofFilterand Wrappermodes.First,acomprehensive measurementoffeatures is carriedoutfromtwoaspectsofinformationcorrelationandclassificationabilitySecond,SequentialForwardSelection (F) strategyisusedtoselectthefeatures,ndtheclassificationaccuracyisusedastheevaluationindex tomeasurethefeaturesubset. Finaly,obtain theoptimalfeaturesubset.Theexperimentalresultsshowthatthe proposedalgorithmcannotonlyachievethe efct of dimension reduction in feature space,but also efectively improve the clasification performanceand recalrateof classification algorithm.
+
+Key words: information gain ratio; random forest; feature selection; filter mode; wrapper mode
+
+# 0 引言
+
+特征选择是指在保证特征集合分类性能的前提下，从一组原始特征集合中选出具有代表性的特征子集，以达到降低特征空间维数的过程[1]。特征选择作为数据预处理中的关键步骤，根据是否依赖机器学习算法，可以分为过滤式(filter)和封装式(wrapper)两种。过滤式特征选择算法利用数据的内在特性对选取的特征子集进行评价和选择，独立于机器学习算法，该类算法通常运行效率较高，但结果较差；而封装式特征选择算法则依赖于机器学习算法的分类精度作为特征子集选择的评价准则，该类算法效率较低，但选择的特征集合性能较优。
+
+常见的特征选择算法有信息增益（information gain,IG）、粗糙集、神经网络、互信息[2]（mutual information,MI）和卡方统计等。其中，IG是一种有效的特征选择算法，多用于文本分类中。文献[3-6]研究了传统IG特征选择算法在文本分类中的应用，发现在类和特征分布不均时，传统信息增益在特征选择中性能下降问题，并从特征项的频数以及基于词频的类内分布和类间分布等角度提出改进。文献[7.8]中则通过分析传统IG和CHI算法的优缺点，并将两种算法进行结合提出一种组合算法。文献[9]中，罗养霞等人针对软件胎记特征选择问题，提出了一种基于层次聚类与信息度量的过滤式特征选择算法。该算法通过构建信息增益函数和惩罚函数，选择出具有高区分性和最小冗余的软件胎记特征。文献[10]中，尹建芹等人以IG为基础研究特征的分类能力与其支持度之间的关系，并证明了具有高支持度或低支持度的特征具有有限的分类能力，从而为频繁模式挖掘在分类问题中进行特征选择奠定了理论基础。文献[11]中，刘云等人针对用户网络行为进行属性推断问题，基于IG度量特征重要性，提出了两种面向概率性特征选择算法的改进策略，从而解决特征空间高维问题和提高算法效率。文献[9\~11]中虽然都使用了IG来度量特征的重要性与分类能力从而进行特征选择，但是他们都没有考虑IG算法存在的选择偏好问题。
+
+文献研究表明，传统的IG算法在特征选择方面虽然具有一定的有效性，但是当数据量较大、数据中类和特征分布不均时，其本身的选择偏好问题会突显出来，导致其性能急剧下降，而信息增益率(gainratio,GR)算法能够通过添加惩罚因子降低选择偏好的发生。并且，一些特征选择算法仅强调了特征空间维度的降低，没有考虑到特征集合的分类性能。因此，本文提出了一种基于 filter+wrapper 模式特征选择算法 FSIGR(featureselection based on importance and gain rate)，该算法结合了 filter和 wrapper模式的优点，在保证选择的特征子集性能较优的前提下，最大限度的提高了本文算法的运行效率。FSIGR算法主要分为两个阶段：过滤和封装。在过滤阶段，首先使用GR 对特征与类别之间的信息相关性进行度量，并删除无关特征，从而有效降低特征空间维度，提高算法运行效率，然后使用随机森林基于特征分类能力对相关特征进行重要度测评，并从特征与类别之间的信息相关性和分类能力两个方面对特征进行综合度量。在封装阶段，首先在综合度量的基础上对特征进行排序，然后使用SFS策略对单个特征进行选择并使用分类器对特征子集分类性能进行评估，以达到特征空间降维和提高特征集合分类性能的效果，从而选出最优特征子集。
+
+# 1 基础理论
+
+# 1.1熵与信息增益率
+
+信息熵作为信息论中的基本概念，是用于度量随机变量不确定性的一种数学表达，也是对变量本身或变量集合所含有的平均信息量的一种度量，通常用 $H ( X )$ 表示。设$X = \{ x _ { 1 } , x _ { 2 } , . . . , x _ { m } \}$ 与 $Y = \{ y _ { 1 } , y _ { 2 } , . . . , y _ { m } \}$ 是两个随机变量， $p ( x _ { i } )$ 和 $p ( y _ { i } )$ 为概率密度函数。则随机变量 $X$ 的熵 $H ( X )$ 定义为
+
+$$
+H \left( X \right) = - \sum _ { i = 1 } ^ { m } p ( x _ { i } ) l o g _ { 2 } p ( x _ { i } )
+$$
+
+随机变量 $X$ 和 $Y$ 的条件熵定义为：
+
+$$
+H ( X | Y ) = \sum _ { i = 1 } ^ { m } p ( y _ { i } ) H ( X | Y = y _ { i } )
+$$
+
+条件熵 $H ( X | Y ) { \le } H ( X )$ 用来衡量变量 $X$ 和 $Y$ 的相关性，若变量 $X$ 和 $Y$ 不相关，则 $H ( X | Y ) { = } H ( X )$ ；若变量 $X$ 和 $Y$ 相关，则 $H ( X | Y ) < H ( X )$ ，且 $H ( X ) - H ( X | Y )$ 值越大，变量 $X$ 和 $Y$ 相关性越强。
+
+信息增益是一种无量纲的度量标准，它是对两个随机变量之间相关信息量的度量，其值越大说明变量之间的相关性越强。信息增益具有非对称性，它能从非线性的角度对特征之间的相关性进行度量。信息增益与熵、条件熵的关系为
+
+$$
+I G ( X \mid Y ) = H ( X ) - H ( X \mid Y )
+$$
+
+由式（3）可以看出 $I G ( X \mid Y )$ 值越大，说明变量 $X$ 和 $Y$ 相关性越强。其中 $I G ( X \mid Y )$ 表示变量 $Y$ 的信息增益。
+
+在信息系统中，经常使用信息增益来衡量某个特征对信息系统分类的贡献，来降低样例中噪声的敏感度。但由于信息增益存在偏好选择分支较多的特征，导致过拟合的发生。因此，在使用时经常引入惩罚因子，来对分支较多的特征进行惩罚，即信息增益率：
+
+$$
+G R { \big ( } X | Y { \big ) } = { \frac { I G ( X | Y ) } { H ( Y ) } }
+$$
+
+由式（4）可以看出，随机变量 $Y$ 的信息增益率与其信息增益成正比，与其信息熵成反比。因此，当随机变量 $Y$ 取值较多时， $G R ( X | Y )$ 会随着 $H ( Y )$ 的增大而减小，在一定程度上降低了选择偏好的发生。
+
+# 1.2随机森林与重要度测评
+
+随机森林（randomforest,RF）是一种集成学习算法，它使用随机重采样技术和节点随机分裂技术构建多棵决策树，并根据投票机制产生最后的结果。由于RF对于存在噪声和缺失值的数据具有很好的鲁棒性，并且具有较快的学习速度，其变量重要性度量可以作为高维数据的特征选择工具，因此近年来已经被广泛应用于各种分类、预测、特征选择以及异常点检测问题中[12\~14]。
+
+基于RF的特征重要度测评有两种度量方法,一种是基于袋外数据(outofbag,OOB)检测误差的方法，称为平均准确率降低(mean decrease accuracy,MDA)；另一种是基于Gini 不纯度的方法，称为平均基尼系数降低（mean decrease gini,MDG)。两种方法都是通过判断特征对RF分类性能的影响来确定该特征的重要性，值下降的越多表示特征越重要。其中，MDA是通过添加随机噪声和OOBerror检测误差的方法来对特征进行度量，并确定特征的重要程度[15-16]。
+
+算法主要步骤如下：
+
+设随机森林包括 $M$ 棵分类回归树。为测度第 $j$ 个特征属性对输出变量的重要性，对随机森林中的每棵分类树进行处理。对第 $i ( i = 1 , 2 , . . . , M )$ 棵分类回归树：
+
+a）计算第 $i$ 棵分类回归树基于袋外观测的预测误差，记为ei。
+
+b）随机打乱袋外观测在第 $j$ 个特征属性上的取值顺序，重新建立第 $i$ 棵分类回归树并袋外观测进行预测。
+
+c）重新计算第 $i$ 棵分类回归树的预测误差，记为 $e _ { i } ^ { j }$ 。 $\boldsymbol { \varepsilon } _ { i } ^ { j } = \boldsymbol { e } _ { i } - \boldsymbol { e } _ { i } ^ { j }$ 为第 $j$ 个特征属性添加噪声导致的第 $i$ 棵分类回归 树预测误差的变化。
+
+重复上述步骤，最终得到 $M$ 个预测误差的变化。$M D A ^ { j } = \frac { 1 } { M } \sum _ { i = 1 } ^ { m } \varepsilon _ { i } ^ { j }$ 即为第 $j$ 个输人变量加噪声导致的随机森林总体预测误差的平均变化,它测度了第 $j$ 个输人变量的重要性。
+
+# 2 FSIGR算法
+
+FSIGR算法主要分为两个部分：过滤阶段和封装阶段。在过滤阶段本文提出一种综合评估算法(comprehensive evaluationalgorithm,CEA)。在封装阶段本文提出一种递归删除算法(recursivedeletionalgorithm,RDA)。首先采用CEA算法对特征进行过滤和综合性评估，以尝试从不同的维度增强对特征的度量，提高算法的运行效率。然后采用RDA 算法对特征进行选择，可以在不牺牲算法精度的情况下降低特征的波动性，从而产生最优特征子集。设数据集为 $D$ ，特征属性集为 $F$ $= \{ f _ { i } | i = 1 . . . \nu \}$ ，则FSIGR算法流程如下：
+
+# 2.1综合评估算法CEA
+
+首先计算每个特征关于类别特征的GR，若其GR等于0，则表示该特征和类别特征不相关，并从特征集合中删除该特征。然后对数据集中的特征分别使用GR和MDA算法从信息相关性和分类能力两个方面进行重要度度量，最后对度量结果分别进行标准化处理。具体公式如下：
+
+$$
+\begin{array} { c } { { \tilde { m } _ { i } = \displaystyle \frac { m _ { i } } { \sum _ { i = 1 } ^ { \nu } m _ { i } } } } \\ { { g _ { i } = \displaystyle \frac { g _ { i } } { \sum _ { i = 1 } ^ { \nu } g _ { i } } } } \end{array}
+$$
+
+其中： $m _ { i }$ 和 $g _ { i }$ 分别表示MDA和GR 算法对特征 $f _ { i } ( i = 1 . . . \nu )$ 的重要度度量值， $\tilde { m } _ { i }$ 和 $g _ { i }$ 则分别表示其标准化后的值。并映射成权重向量 $\stackrel { \longrightarrow } { \pmb { c } _ { i } } = \left( \tilde { m } _ { i } , g _ { i } \right)$ ，其中 $\tilde { m } _ { i }$ 和 $g _ { i }$ 表示向量 $\overrightarrow { \pmb { c } _ { i } }$ 的坐标值。向量 $\stackrel { \longrightarrow } { \pmb { c } } _ { i }$ 的长度则表示特征 $f _ { i }$ 的重要度。
+
+最后根据 $\tilde { m } _ { i }$ 和 $g _ { i }$ 值计算特征 $f _ { i }$ 的综合评估值 $c _ { i }$ 。
+
+$$
+c _ { i } = \sqrt { \left| \tilde { m } _ { i } ^ { 2 } + { g _ { i } } ^ { 2 } \right| }
+$$
+
+由式（7）可以看出，CEA算法以GR和MDA为基础，通过将 $\tilde { m } _ { i }$ 和 $g _ { i }$ 的值进行标准化和向量化对特征 $f _ { i }$ 进行综合度量，既考虑了特征 $f _ { i }$ 与类别特征之间相关性，又考虑到了特征 $f _ { i }$ 的分类能力，增强了对特征的度量，降低了特征的波动性。从而选择出最大相关和最大分类能力的特征，并删除冗余特征。与文献[8]中的IG相比，本文使用GR计算特征的信息相关性有效降低了IG的选择偏好问题；与文献[12]中 $\mathrm { \Delta M D A ^ { + } M D G }$ 的方法相比，本文从特征信息相关性和分类能力两种不同的维度对特征进行综合度量，降低了特征的波动性。算法描述如下：算法1：CEA算法输入：数据集 $\textbf {  { D } }$ ，特征集合 $F = \{ f _ { i } | i { = } 1 . . . \nu \}$ 。过程：分别计算特征 $f _ { i }$ 关于类别特征的GR 值 $g _ { i }$ ，若 $g _ { i } { = } 0$ ，则删除特征 $f _ { i }$ ，$F = F - \left\{ f _ { i } \right\} ;$ （2使用随机森林计算特征 $f _ { i }$ 重要度MDA值，并记为 $m _ { i }$ ：运用式（5）（6）分别对 $m _ { i }$ ， $g _ { i }$ 进行标准化，得到 $m _ { i } ~ , ~ g _ { i }$ ；根据式（7）计算特征 $f _ { i }$ 的综合评估值 $c _ { i }$ ：输出：特征综合评估值 $c _ { i }$ 。
+
+# 2.2递归删除算法RDA
+
+SFS算法描述：特征子集 $F _ { i }$ 从空集开始，每次选择一个特征 $f _ { i }$ 加入特征子集 $F _ { i }$ ，使得特征函数J(F)最优。SFS算法是一种简单的贪心算法。
+
+RDA算法思想：根据综合评估值 $c _ { i }$ 对特征进行降序排序，然后运用SFS策略遍历特征空间，得到相应的特征集合$F _ { 1 } { \setminus } \ F _ { 2 } { \setminus } \dots \ F _ { \nu }$ ，并使用分类器对该特征集合进行评估记为 $a _ { i }$ ，若 $a _ { i } < a _ { i - 1 }$ ，则从集合 $F$ 中删除 $f _ { i }$ 元素，记录当前最优特征子集$a _ { { _ { t e m p } } }$ 并与全局最优特征子集 $\mathbf { a } _ { m a x }$ 进行比较，若 $\mathbf { a } _ { m a x } < a _ { t e m p }$ ，则$\mathbf { a } _ { m a x } = a _ { t e m p }$ ，重复上述操作，直至循环结束；若全局特征子集分类性能较优， $\mathbf { a } _ { m a x }$ 不变，重复上述操作，直至循环结束，输出最优特征子集。
+
+RDA算法在综合评估的基础上，使用分类精度对每个特征子集的分类性能进行评估，可以在不牺牲算法精度的情况下降低特征子集的波动性，并删除重要度较小的冗余特征。每次遍历仅删除一个特征，并产生新的特征组合，扩大特征子集搜索空间的覆盖范围，从而选出最小冗余、性能最优的特征子集。与文献[8,12]中的简单过滤式方法相比，本文采用的过滤 $^ +$ 封装模式，提高了特征子集的分类性能。算法描述如下：
+
+算法2：RDA 算法
+
+输入：数据集 $\pmb { D }$ ，特征集合 $F = \{ f _ { i } | i { = } 1 . . . \nu \}$ ， $c _ { i } , \mathbf { a } _ { m a x } = 0 , F _ { b e s t } = \emptyset$ 。过程：  
+1 根据特征 $f _ { i }$ 的综合测评度 $c _ { i }$ ，对特征进行降序排序；  
+2repeat  
+3使用分类器对特征子集进行评估：首先对排序后的特征子集采用 SFS搜索策略产生相应的特征子集 $F _ { i }$ ，然后分别计算分类器在该特征子集$F _ { i }$ 上的精确度 $a _ { i }$ ，其中 $i$ 表示特征子集中元素的个数；  
+4flag $\mathbf { \sigma } = \mathbf { \sigma }$ false  
+5for $a _ { i }$ （ $i = 1 . . . \nu ^ { \mathrm { ~ ) ~ } }$ do  
+6 if $a _ { i } < a _ { i - 1 }$ then  
+7 flag $\mathbf { \sigma } = \mathbf { \sigma }$ true  
+8 从集合 $\boldsymbol { \mathsf { \Pi } } _ { F }$ 中删除特征 $f _ { i }$ ，并记录删除特征 $f _ { i }$ 后分类器的精度为atemp;  
+9 if $\mathbf { a } _ { m a x } < a _ { t e m p }$ then  
+10 （20 $\mathbf { a } _ { m a x } = a _ { t e m p } , F _ { b e s t } = F$   
+11 end if
+
+12 break   
+13 end if   
+14 end for   
+15 until flag $\scriptstyle = =$ false达到终止条件   
+输出：最优特征子集 $F _ { b e s t }$ 。
+
+# 2.3FSIGR 算法复杂度分析
+
+本文算法的时间开销分为CEA 算法和RDA 算法两个部分。其中，时间开销主要体现在第二部分。根据文献[11]可知，若训练数据集的特征维数为 $m$ ，训练样本个数为 $n$ ，假设RF算法中基分类器的个数为 $k$ ，则RF算法的时间复杂度近似为$O { \big ( } k m n { \big ( } \log n { \big ) } ^ { 2 } { \big ) }$ ，快速排序平均时间复杂度为 $\mathbf { O } ( m ( \log m ) )$ 。因此，CEA 算法的最大渐进时间复杂度为 $\mathrm { O } { \left( 3 m + k m n ( \log n ) ^ { 2 } \right) }$ 6RDA算法中时间开销主要体现在行2\~8。其外层循环最多运行$m$ 次，相应的内层循环最多分别进行 $( m , m - 1 , m - 2 , \cdots , 1 )$ 次。因此，FSIGR算法渐进最大时间复杂度可以表示为
+
+$$
+\mathrm { O } \big ( 3 m + k m n ( \log n ) ^ { 2 } \big ) + \mathrm { O } \big ( m ( \log m ) \big ) + \mathrm { O } \bigg ( \frac { 1 } { 2 } \ast m ( m - 1 ) \bigg )
+$$
+
+$$
+= \mathrm { O } ( m \bigg ( \frac { 1 } { 2 } * \big ( m + 5 \big ) + k n \big ( l o g n \big ) ^ { 2 } + l o g m \bigg ) )
+$$
+
+$$
+T ( n ) { \mathrm { = } } \mathrm { O } { \left( m ^ { 2 } \right) }
+$$
+
+由式（9）可以看出，FSIGR算法的最大时间复杂度与特征维数近似平方，对高维数据具有较好的处理能力且具有很好的扩展性。由于本文算法在运行过程中临时占用存储空间大小与特征个数成线性正比关系。所以，空间复杂度可以表示为
+
+$$
+S ( n ) \mathop { = } \mathbf { O } ( m )
+$$
+
+与GR、MDA以及CFS和文献[8]中的算法相比，本文算法由于是Filter $^ +$ Wrapper 模式，因此具有较高的时间复杂度，但是本文算法空间复杂度相对较低且算法性能较优。与WFS 算法相比本文算法总体复杂度较低且算法性能较优，具有较好的实用性与扩展性。
+
+# 3 实验及结果分析
+
+为了验证FSIGR算法的有效性，本文将选用CFS[17](Correlation-basedFeatureSelection）算法、WFS[18](WrapperFeature Selection)算法以及文献[8]中的算法与FSIGR算法进行实验对比。实验软硬件环境如下：操作系统为Windows10，CPU为 Intel? CoreTM i5-6300HQ $\textcircled { a } 2 . 3 ~ \mathrm { G H z }$ ，实验内存为8GB，主要实验平台为WEKA[19]，语言为Java。
+
+# 3.1实验数据
+
+为了使实验中选取的数据集有广泛的代表性，从UCI数据集中选取了4个数据集进行测试，数据集描述如表1所示。这些数据集在分类数、实例数和特征维数方面均具有不同的特点，并且数据类型包含了数值型、标称型和混合型，同时有些数据集含有较多的缺失数据，可以较好地验证特征选择算法在实际数据集上的性能。
+
+表1实验数据集  
+
+<html><body><table><tr><td>数据集</td><td>Breast Cancer</td><td>glass</td><td>credit</td><td>phishing</td></tr><tr><td>分类数</td><td>2</td><td>6</td><td>2</td><td>2</td></tr><tr><td>实例数</td><td>699</td><td>214</td><td>1000</td><td>11055</td></tr><tr><td>特征数</td><td>9</td><td>9</td><td>20</td><td>30</td></tr><tr><td>特征类型</td><td>nominal</td><td>numeric</td><td>nominal/numeric</td><td>nominal</td></tr><tr><td>是否有缺失值</td><td>YES</td><td>NO</td><td>NO</td><td>NO</td></tr></table></body></html>
+
+# 3.2实验方案
+
+为了较好验证本文算法的有效性，本文进行两组对比实验：
+
+实验1在每个数据集上，分别运用4种不同的特征选择算法进行特征选择，然后使用Weka中的RF算法对特征选择后的数据集进行训练，并采用10折交叉的方法进行验证，记录、对比实验结果。
+
+实验2为了进一步验证FSIGR 算法对分类结果的影响，首先使用不同的特征选择算法分别对phishing数据集进行特征选择，然后对选择后的数据集分别对C4.5、KNN、RF和REPTree分类模型进行训练，并采用10折交叉的方法进行验证，记录、对比实验结果。
+
+# 3.3评判指标
+
+为了方便实验对比，本文采用精确度(accuracy)、召回率(recall)和F-Measure作为实验的评价指标，计算公式如下：
+
+a)精确度: $a c c u r a c y = { \frac { T P + T N } { T P + T N + F P + F N } }$
+
+b)召回率:
+
+$$
+r e c a l l = \frac { T P } { T P + F N }
+$$
+
+c)F-measure: $F = \frac { 2 ^ { * } a c c u r a c y ^ { * } r e c a l l } { a c c u r a c y + r e c a l l }$ 其中：TP（true positive)：被正确分类为正例的样本数；FP（falsepositive)：被错误分类为正例的样本数；TN（true negative）：被正确分类为反例的样本数；FN（false negative)：被错误分类为反例的样本数。
+
+# 3.4结果分析
+
+实验中,CFS 算法和WFS 算法分别采用最佳优先(best first,BF)和贪婪算法(greedy stepwise,GS)两种搜索策略对特征进行选择；FSIGR 算法则采用SFS策略对特征进行选择。具体实验结果如下：
+
+实验1图1中对GR、MDA和FSIGR三种特征选择算法的性能进行研究。图中纵坐标表示RF分类模型的分类精度。在实验中，根据文献[8设置阈值为0.01对GR和MDA排序后的特征进行选择。由图1可以看出，在4个数据集中使用FSIGR算法产生的特征子集对RF分类模型进行训练分类精度最高，明显优于GR和MDA方法。因为在FSIGR算法Filter阶段通过将GR和MDA的值进行标准化和向量化对特征 $f _ { i }$ 进行综合度量，既考虑了特征 $f _ { i }$ 与类别特征之间相关性，又考虑到了特征 $f _ { i }$ 的分类能力，增强了对特征的度量，降低了特征的波动性。从而选择出最大相关和最大分类能力的特征。在Wrapper 阶段又以分类精度为评价指标选取分类性能最优的特征子集，因此其性能优于GR 和MDA 算法。
+
+![](images/e56029981e119fa2d14de531ef22a963532f6f9fbd49941d2518dbd9ea8efd58.jpg)  
+图1RF算法在不同特征集合上的分类精度
+
+表2中列出了CFS、WFS、文献[8]和FSIGR算法在不同实验数据集上的性能比较，其中SF表示选出的特征集合的大小，Acc 表示RF 算法在该特征集合上的算法精度，“—”表示该算法在相应数据集上没有进行实验。
+
+由表2可以看出，RF分类模型基于FSIGR 算法在4个数据集分类精度分别为0.966,0.809,0.782,0.974，均优于CFS，WFS和文献[8]算法在4个数据集上的表现，证明了本文FSIGR算法具有较优的分类性能；在降维性能方面，FSIGR算法在glass 数据集上优于其他算法，但在Breast Cancer,credit 和phishing 数据集上，略低于其他算法。因为本文FSIGR 算法采用Filter $^ +$ Wrapper模式进行特征选择，并从全局与局部对特征子集进行评价选择分类性能较优的特征子集。所以，在此过程中会牺牲一定的降维性能。结果表明，本文提出的算法在不同类型的数据集上均有较好的表现，能在提高特征集合分类性能的情况下对数据进行降维，具有鲁棒性。
+
+表2不同特征选择算法的性能比较  
+
+<html><body><table><tr><td rowspan="2">特征选择算法</td><td colspan="4">数据集</td></tr><tr><td>Breast Cancer</td><td>glass</td><td>credit</td><td>phishing</td></tr><tr><td rowspan="2">CFS</td><td>SF</td><td>9</td><td>8</td><td>3</td><td>9</td></tr><tr><td>Acc</td><td>0.964</td><td>0.799</td><td>0.702</td><td>0.948</td></tr><tr><td rowspan="2">WFS</td><td>SF</td><td>2</td><td>7</td><td>3</td><td>29</td></tr><tr><td>Acc</td><td>0.947</td><td>0.776</td><td>0.74</td><td>0.973</td></tr><tr><td rowspan="2">文献[8]算法</td><td>SF</td><td></td><td></td><td></td><td>17</td></tr><tr><td>Acc</td><td></td><td></td><td></td><td>0.968</td></tr><tr><td rowspan="2">FSIGR</td><td>SF</td><td>7</td><td>7</td><td>14</td><td>23</td></tr><tr><td>Acc</td><td>0.966</td><td>0.809</td><td>0.782</td><td>0.974</td></tr></table></body></html>
+
+实验2表3中列出了在phishing 数据集上使用不同特征选择算法在不同分类分类器下的特征选择结果。由表中数据可以看出，CFS和文献[8]算法为作为Filter 模式特征选择算法其特征选择结果与分类器无关且降维性能较优。Wrapper模式的
+
+WFS特征选择算法和本文Filter $^ +$ Wrapper模式的FSIGR算法降维性能稍弱，但由实验1的结果可知，本文WFS和FSIGR算法具有较优的分类性能且FSIGR算法均优于其他算法。
+
+表3特征选择结果  
+
+<html><body><table><tr><td>特征选择算法</td><td>特征子集</td></tr><tr><td>WFS(BF)</td><td>F ={fili =1..30,i ≠ 5,9,11,12,16,18,19,22,23}</td></tr><tr><td>WFS(GS)</td><td>F ={fil𝑖i =1...30,i ≠ 5,9,11,12,16,18,19,21,22,23,30}</td></tr><tr><td>FSIGR</td><td>F ={fili=1...0,i +4,10,11,9,20,23,28,0}</td></tr><tr><td>WFS(BF)</td><td>F={fili=1...30,i≠10}</td></tr><tr><td>WFS(GS)</td><td>F ={fili =1..0,i ≠ 4,0,18,19,21,23,0}</td></tr><tr><td>FSIGR</td><td>F ={fili =1..30,i ≠11,19,21,23,0}</td></tr><tr><td>WFS(BF)</td><td>F={fili=1..30,i≠4,5}</td></tr><tr><td>WFS(GS)</td><td>F={fili=1..30,i ≠3}</td></tr><tr><td>FSIGR</td><td>F={fli=1...30,i≠4,11,18,19,21,23,0}</td></tr><tr><td>WFS(BF)</td><td>F ={fili=1..30,i ≠4,9,10,16,18,19,21,23,27,30}</td></tr><tr><td>WFS(GS)</td><td>F ={fili =1..30,i ≠ 4,5,11,16,21}</td></tr><tr><td>FSIGR</td><td>F ={fili=1..0,i ≠4,110}</td></tr><tr><td>CFS</td><td>F ={fili=6,7,8,13,14,15,6,26,28}</td></tr><tr><td colspan="2">文献[8]算法 F={f[i=1,2,6,7,8,9,13,14,15,16,24,25,26,27,28,29,30</td></tr></table></body></html>
+
+注： $F$ 表示特征子集， $f _ { i }$ 表示特征子集中的元素， $i$ 为该元素在源数据集中的下标。
+
+![](images/520a319b52957c2f4c2eaf07cf1b5de609604e0e8ec47bcdb90f156e9049daf6.jpg)  
+图2C4.5、KNN、RF和REPTree四种不同的分类算法基于GR、MDA和FSIGR特征选择算法的精确度
+
+图2中对比了在C4.5、KNN、RF和REPTree四种不同的分类模型下GR、MDA和FSIGR三种特征选择算法的性能。图中横坐标表示不同的分类模型，纵坐标表示相应分类模型的分类精度。从图2中可以看出，C4.5、KNN、RF和REPTree 四种分类模型在FSIGR算法上的分类精度最高。这是因为FSIGR特征选择算法能够从信息相关性和分类能力两个方面对特征进行综合度量，从而选出相关性强、冗余度低的最优特征子集，提高了分类模型的分类精度。本实验证明了FSIGR特征选择算法能有效降低特征子集的维度选出关键特征，从而提高分类模型的准确率。
+
+图3中研究了在C4.5、KNN、RF和REPTree四种不同的分类模型下CFS、WFS、文献[8]以及FSIGR四种特征选择算法性能。图中折线表示同一种特征选择算法基于不同分类模型选择的特征子集分类精度变化趋势。
+
+![](images/114147edda3fb419e0cf5e3d3701ab9d9aaa73fbce547b4da7f6b1c9b4fa07ed.jpg)  
+图3C4.5、KNN、RF和REPTree 四种不同的分类算法基于WFS、FSIGR等特征选择算法的精确度
+
+由图3可以看出，基于C4.5、KNN、RF和REPTree四种不同的基分类模型，本文FSIGR算法均具有较优的表现，其分类性能明显优于CFS和文献[8]算法。其中，在C4.5和KNN分类模型上FSIGR与WFS算法表现相似，在RF和REPTree分类模型上FSIGR算法性能明显优于WFS等算法。因为与CFS和文献[8]算法相比，后两者为Filter 模式特征选择算法，直接根据特征之间或者特征与类别之间的相应关系对特征进行选择，并未考虑特征子集整体的分类性能。而FSIGR算法结合Filter和Wrapper 模式从单个特征与特征子集两个方面对特征子集进行选择，从而选出相关性强、冗余度低和分类能力较优的特征子集。与WFS算法相比，本文算法首先使用Filter模式对特征进行筛选，然后再以分类精度为指标对特征子集进行选择，这样可以首先排除部分冗余特征，然后在进行特征选择，降低了部分时间开销，所以本文FSIGR算法综合性能较优。
+
+通过图3中可以发现，RF在4种特征选择算法上的分类性能均优于C4.5、KNN和REPTree 算法，那是因为RF为集成学习算法，它能够通过综合不同基分类器的分类结果增强集成学习算法的容错性和泛化能力，从而达到提高分类精度，分类召回率降低分类误差的目的。因此在FSIGR算法的Filter阶段，采用了RF算法的MDA对特征的分类能力进行测评，增强了对特征的度量，降低了特征的波动性。
+
+表4、5描述实验2详细结果。其中，表4从平均绝对误差和召回率两个方面对4种特征选择算法的实验结果进行对比。由表4可以看出，本文算法的综合性能均优于其他算法，基于本文算法的分类模型具有较低的预测误差和较高的查全率。表5从F-measure 和 AUC（area under ROC curve）两个方面对 4种特征选择算法的实验结果进行对比。由表5可以看出，基于本文算法的分类模型其F-Measure和AUC值较大，分类能力较强，即本文算法选择的特征子集较优。
+
+表4基于WFS、FSIGR 等特征选择算法的实验结果1  
+
+<html><body><table><tr><td rowspan="2">特征选择算法</td><td rowspan="2">搜索算法</td><td colspan="2">C4.5</td><td colspan="2">KNN</td><td colspan="2">Random Forest</td><td colspan="2">REPTree</td></tr><tr><td>平均绝对误差</td><td>recall</td><td>平均绝对误差</td><td>recall</td><td>平均绝对误差</td><td>recall</td><td>平均绝对误差</td><td>recall</td></tr><tr><td>CFS</td><td>(BF/GS)</td><td>0.087</td><td>0.943</td><td>0.075</td><td>0.945</td><td>0.075</td><td>0.948</td><td>0.087</td><td>0.941</td></tr><tr><td rowspan="2">WFS</td><td>BF</td><td>0.060</td><td>0.961</td><td>0.032</td><td>0.972</td><td>0.050</td><td>0.972</td><td>0.068</td><td>0.952</td></tr><tr><td>GS</td><td>0.060</td><td>0.960</td><td>0.033</td><td>0.971</td><td>0.051</td><td>0.973</td><td>0.067</td><td>0.952</td></tr><tr><td>文献[8]算法</td><td>BF</td><td>0.061</td><td>0.957</td><td>0.039</td><td>0.965</td><td>0.049</td><td>0.968</td><td>0.067</td><td>0.951</td></tr><tr><td>FSIGR</td><td>SFS</td><td>0.057</td><td>0.961</td><td>0.033</td><td>0.972</td><td>0.048</td><td>0.973</td><td>0.064</td><td>0.954</td></tr></table></body></html>
+
+表5基于WFS、FSIGR等特征选择算法的实验结果2  
+
+<html><body><table><tr><td rowspan="2">特征选择算法</td><td rowspan="2">搜索算法</td><td colspan="2">C4.5</td><td colspan="2">KNN</td><td colspan="2">Random Forest</td><td colspan="2">REPTree</td></tr><tr><td>F-Socre</td><td>AUC</td><td>F-Socre</td><td>AUC</td><td>F-Socre</td><td>AUC</td><td>F-Socre</td><td>AUC</td></tr><tr><td>CFS</td><td>(BF/GS)</td><td>0.943</td><td>0.979</td><td>0.945</td><td>0.988</td><td>0.948</td><td>0.988</td><td>0.941</td><td>0.983</td></tr><tr><td>WFS</td><td>BF</td><td>0.961</td><td>0.984</td><td>0.972</td><td>0.990</td><td>0.972</td><td>0.996</td><td>0.952</td><td>0.985</td></tr><tr><td></td><td>GS</td><td>0.960</td><td>0.984</td><td>0.971</td><td>0.990</td><td>0.973</td><td>0.996</td><td>0.952</td><td>0.983</td></tr><tr><td>文献[8]算法</td><td>BF</td><td>0.957</td><td>0.983</td><td>0.965</td><td>0.989</td><td>0.968</td><td>0.995</td><td>0.951</td><td>0.984</td></tr><tr><td>FSIGR</td><td>SFS</td><td>0.960</td><td>0.985</td><td>0.972</td><td>0.990</td><td>0.973</td><td>0.996</td><td>0.954</td><td>0.984</td></tr></table></body></html>
+
+# 4 结束语
+
+本文提出了一种 filter $^ +$ wrapper 模式的特征选择算法FSIGR算法，在过滤阶段该算法首先以GR为度量标准对特征进行选择，从而选择出相关性强的特征，然后基于GR算法和
+
+RF 算法从信息相关性和分类能力两个方面对特征综合度量。在封装阶段，根据综合度量对特征进行重新排序，并采用序列前向搜索策略和分类模型的分类精度作为评价标准寻找最优特征子集。通过FSIGR 算法和GR、MDA算法的对比实验可以看出，FSIGR算法的性能明显优于两种基本的算法，证明了FSIGR算法的有效性。通过FSIGR 算法和CFS、WFS以及文献[8]算法的对比实验结果表明，FSIGR算法在特征空间降维和提高分类精度方面均有较好的表现，并且FSIGR算法的性能明显优于文献[8]中的算法和CFS算法。通过对FSIGR算法从时间和空间两个方面进行复杂度分析发现，FSIGR算法对高维数据有较好的处理能力，具有较好的实用性和扩展性。基于以上叙述，证明了本文FSIGR算法能够在保证特征子集分类性能的前提下，达到特征空间降维的效果，具有一定的有效性和实用性。
+
+由于FSIGR算法中仅考虑到不同特征的重要性度量，而较少的考虑特征之间的相关性。因此，在FSIGR算法中考虑两两特征之间的相关性，是下一步工作的重点。
+
+# 参考文献：
+
+[1]Guyon I,Elisseeff A.An introduction to variable and feature selection [J]. Journal of Machine Learning Research,2003,3(6):1157-1182.   
+[2]Hoque N,Bhattacharyya DK,Kalita JK.MIFS-ND: a mutual informationbased feature selection method [J].Expert Systems with Applications,2014, 41 (14): 6371-6385.   
+[3]Lee C,Lee G G.Information gain and divergence-based feature selection for machine learning-based text categorization [J]. Information Processing & Management,2006,42(1):155-165.   
+[4]朱颢东，钟勇．基于改进的 ID3 信息增益的特征选择方法 [J].计算机 工程,2010,36 (8):37-39.   
+[5]刘庆和，梁正友．一种基于信息增益的特征优化选择算法[J].计算机 工程与应用,2011,47(12):130-132.   
+[6]Wu G,Xu J. Optimized approach of feature selection based on information gain [J].Computer Engineering & Applications,2011,47(12):157-161.   
+[7]王光，邱云飞，史庆伟，等.集合CHI与IG的特征选择算法[J].计算 机应用研究,2012,29(7):2454-2456.   
+[8]Rajab KD.New hybrid features selection method: a case study on websites phishing [J]. Security & Communication Networks,2017,2017 (2):1-10.   
+[9]罗养霞，房鼎益．基于聚类分析的软件胎记特征选择[J]．电子学报, 2013,41(12): 2334-2338.   
+[10]尹建芹，田国会，魏军，等．特征的支持度与其分类能力的关系研究 [J]．电子学报,2015,43(2):248-254.   
+[11]刘云，孙宇清，李明珠．面向社会化媒体用户评论行为的属性推断[J]. 计算机学报,2017:1-15   
+[12] Hideko K,Hiroaki Y.Rapid feature selection based on random forests for high-dimensional data [J]. Ipsj Sig Notes,201,2012:1-7.   
+[13]姚登举，杨静，詹晓娟．基于随机森林的特征选择算法[J]．吉林大学 学报：工学版,2014,44(1):137-141.   
+[14] Han H, Guo X,Yu H. Variable selection using mean decrease accuracy and mean decrease gini based on random forest [C]//Proc of IEEE International Conference on Software Engineering and Service Science. 2017: 219-224.   
+[15] Wang H,Lin C,Peng Y,et al.Application of improved random forest variables importance measure to traditional Chinese chronic gastritis diagnosis [C]//Proc of IEEE International Symposium on It in Medicine and Education. 2008: 84-89.   
+[16] Nicodemus K K.Letter to the editor:on the stability and ranking of predictors from random forest variable importance measures [J].Briefings in Bioinformatics,2011,12(4): 369.   
+[17] Hall M A. Correlation-based feature selection for machine learning [D]. Hamilton,NewZealand:Waikato University 1999.   
+[18]Kohavi R,John G H.Wrappers for feature subset selection [J].Artificial Intelligence,1997,97 (1-2): 273-324.   
+[19] Witten I H, Frank E. Data mining:practical machine learning tools and techniques with Java implementations[M].北京 机械工业出版社,2012.

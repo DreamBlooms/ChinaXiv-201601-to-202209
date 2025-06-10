@@ -1,0 +1,426 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "手工免疫组化法检测ALK融合蛋白在非小细胞肺癌中的表达",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾霞，吴洁瑜,何新明,何萍,付欣鸽,林云恩,李广秋,郝岩广州医科大学附属第一医院病理科，广东广州 510120",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 探讨手工免疫组织化学法(IHC)检测间变性淋巴瘤激酶(ALK)融合蛋白在非小细胞肺癌(NSCLC)中的表达及其意义。方法手工IHC检测519例NSCLC中ALK融合蛋白表达，分析ALK融合蛋白与临床特点、病理特征的关系，比较IHC检测手术与活检标本的差异,探究手工IHC与全自动免疫组化机器(Vantana)法、荧光原位杂交(FISH)的一致性。结果 ALK融合蛋白阳性率为 $1 1 . 3 7 \\% ( 5 9 / 5 1 9 )$ ，病人较年轻（ $\\scriptstyle P = 0 . 0 4 8 { \\mathrm { , } }$ ,以腺癌为主，多为黏液性腺癌亚型( $\\scriptstyle - { P < 0 . 0 1 }$ ),ALK阳性是发生淋巴结转移的危险因素[ $\\mathrm { O R } { = } 2 . 1 8 8$ （ $9 5 \\%$ C.I:1.161\\~4.122)];IHC检测ALK融合蛋白与组织大小无关 $( P { > } 0 . 0 5 )$ ；手工IHC强阳性病例与Vantana IHC、FISH有一致性。结论 手工IHC法能够成为条件不足的基层医院筛查ALK重排的可靠手段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肺肿瘤;非小细胞肺癌;间变性淋巴瘤激酶;免疫组织化学",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Manual immunohistochemistry for detecting ALK gene fusion antibody in 519 cases of non-small lung cancer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GU Xia,WU Jieyu,HEXinming,HEPing,FUXinge,LINYunen,LIGuangqiu,HA an DepartmentofPathology,FirstAfliatedHospitalofGuangzhou MedicalUniversity,Guangzhou51O12o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToinvestigatetheexpressonof anaplastic lymphomakinase (ALK)genefusionantibody inno-sall cll lung cancer (NSCLC)and explore the clinicopathological significance. Methods Using manual immunohistochemistry (IHC) withD5F3rabit monoclonalantibodywedetected theexpressionofALK genefusion protein in519casesofNSCLC.The relationsof ALKfusionproteinwiththeclinicalcharacteristicsofthepatientsandthehistologicalclasificationof thetumors were analyzed.The expresions of ALK fusion protein were compared between surgical specimens and biopsy samples,and theconsistencyof manual IHCresultswas evaluated withtheresultsof afullyautomated IHCinstrumentandfluorescence in situ hybridization (FISH). Results The positivity rate of ALK fusion protein was $1 1 . 3 7 \\%$ (59/519) among the cases detected by manual IHC. The patients tended to have a young age of onset $\\scriptstyle ( P = 0 . 0 4 8 )$ and most of the tumors were adenocarcinoma. In the surgical specimens, ALK fusion protein was expressed mostly in invasive mucinous adenocarcinoma $( P { < } 0 . 0 1 )$ , and it was a high risk factor of lymph node metastasis [OR=2.188( $9 5 \\%$ C.I:1.161-4.122)]. No statistical difference was found in the test results of manual IHC between surgical specimens and biopsy samples. The results by manual IHC suggesting a strong expression were consistent withthe results byautomated IHCand FISH. Conclusion Manual IHC canbe reliable for screning ALK fusion arrangement in patients with NSCLC. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: lung tumor; non-small cell lung cancer; anaplastic lymphoma kinase; immunohistochemistry ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据GLOBOCAN2012年全球癌症发生率、死亡率调查显示，肺癌是全球发病率最高且致死率最高的癌症，非小细胞肺癌(None-small cell lung cancer,NSCLC（包括腺癌、鳞状细胞癌、大细胞癌)发病率占肺癌发病率 $8 5 \\% ^ { [ 2 ] }$ 。目前已经发现多种NSCLC的驱动基因，这些驱动基因主要为受体酪氨酸激酶基因，它们编码的受体酪氨酸激酶蛋白在肿瘤增殖、转化中起到重要作用[3]。研究发现 $5 \\%$ 的NSCLC由间变性淋巴瘤激酶(anaplastic lymphomakinase,ALK)基因重排引起[4-5]ALK基因位于2号染色体 $( 2 \\mathsf { p } 2 3 )$ ,它编码的ALK蛋白属于胰岛素受体家族。当ALK基因发生重排，会激活酪氨酸激酶区，从而激活下游包括PI3K/Akt和丝裂原活化蛋白激酶(MAPK)通路，抑制细胞凋亡和促进细胞增值，导致肿瘤发生[7-8]。ALK酪氨酸激酶抑制剂(ALKtyrosinekinaseinhibitors,TKIs)能够有效抑制突变的ALK激酶区，使一系列导致肿瘤发生的细胞传导通路无法进行4]，有效治疗肺癌，美国FDA已经批准ALK-TKI克唑替尼(crizotinib)作为局部晚期或转移性NSCLC患者用药[8。但是ALK-TKIs目前证实仅对ALK融合重排、ROS1融合重排[]、MET扩增[有治疗效果，而且价格昂贵，所以对于NSCLC病人，正确选择检测ALK基因重排的方式非常重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前有多种检测ALK基因融合重排的手段，包括荧光原位杂交(FISH)、全自动免疫组化机器法(VantanaIHC)及实时定量荧光PCR(qRT-PCR)等，其中因为FISH能检测出ALK基因发生的所有断裂再融合，所以被认为是检测ALK基因融合的\"金标准”[12-13]。但是FISH存在局限性：常规FISH方法需要计算不少于50个肿瘤细胞[14，所以对于组织量少的标本(例如穿刺活检标本),FISH不能操作。此外FISH成本较高，并需要配备专业技术操作人员，在条件不具备的医院难以开展[15]。qRT-PCR法敏感性、特异性高,但是有可能漏诊未知融合类型[13]。因为ALK基因融合后ALK酪氨酸激酶区被激活，表达ALK融合基因蛋白增加，所以使用IHC方法能够检测出ALK融合基因蛋白[15]。VantanaIHC具有催化信号放大系统[1],能增加表达强度，但是成本较高，在条件不足的医院难以开展。传统手工法IHC具备IHC优点：所需标本数量少、经济、易操作，可作为大量筛查ALK融合重排的手段，可是准确性有待探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本实验采用手工IHC检测NSCLC中ALK融合基因表达情况，分析ALK基因融合产物与临床特点、病理特征的关系，比较IHC检测手术标本与活检标本的差异，探究手工IHC法与VantanaIHC、FISH一致性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料收集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "收集广州医科大学附属第一医院病理科2012年5月\\~2014年2月NSCLC标本共519例。所有病例均经IHC TTF-1、NapsinA、CK7、p63、CK5/6 明确诊断。根据2004年WHO肺癌分类和2011年国际肺癌研究学会(IASLC)、美国胸科学会(ATS)和欧洲呼吸学会(ERS)在胸部肿瘤杂志上公布的肺腺癌新分类[18],由2位资深病理医生重新双盲法阅片，并进行组织学分类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2主要试剂与仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "手工IHC一抗使用Cell Signaling Technology公司D5F3兔单克隆抗体，二抗采用Dako公司Envision试剂盒。VantanaIHC一抗使用VantanaALK兔单克隆抗体(D5F3),二抗使用OptiviewDABIHCdetection试剂盒和OptiviewAmplification试剂盒。FISH采用雅培(Abbott）Vysis LSI ALK Break Apart RearrangementProbe试剂盒。组织芯片制作使用手动组织芯片取样枪(信森，广州洁利生物医药公司)。机器免疫组化使用BenchMarkXT(Roche)全自动免疫组化仪。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "手工IHC：组织标本用 $10 \\%$ 中性缓冲福尔马林固定，石蜡包埋， $4 \\mu \\mathrm { m }$ 厚切片。常规脱蜡、水化， $3 \\% \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 阻断内源性过氧化物酶,枸橡酸缓冲液高温抗原修复，一抗 $3 7 ^ { \\circ } \\mathrm { C }$ 孵育1h,冲洗后滴加二抗， $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $3 0 \\mathrm { m i n }$ DAB显色，苏木精复染，冲洗后梯酒精脱水、二甲苯透明，中性树胶封片。ALKD5F3抗体(按1:50稀释）。用已知ALKFISH阳性病例作为阳性对照，PBS代替一抗作为阴性对照。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VantanaIHC：选取手工IHC阳性及阴性病例组织蜡块进行常规HE染色，定位肿瘤区域。选取直径 $2 \\mathrm { m m }$ 肿瘤区域，使用手动组织芯片取样枪提取蜡柱，注入蜡模,构建组织芯片。组织芯片常规石蜡包埋， $4 \\mu \\mathrm { m }$ 厚切片，置于全自动免疫组化仪。用已知ALKFISH阴性病例作为阴性对照。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FISH:组织标本用 $10 \\%$ 中性缓冲福尔马林固定，石蜡包埋， $4 \\mu \\mathrm { m }$ 厚切片。常规脱蜡， $1 0 0 \\mathrm { { ^ { \\circ } C } }$ 热处理 $2 0 \\mathrm { m i n }$ ，$3 7 \\ \\mathrm { { ^ { \\circ } C } }$ 预热蛋白酶K消化 $5 \\mathrm { m i n } , 2 { \\times } \\mathrm { S S C }$ 清洗，暗室内滴加探针，封片后放入杂交仪， $7 5 \\ \\mathrm { { ^ circ C } 8 \\ m i n }$ 变性， $. 4 2 \\mathrm { ~ ^ { \\circ } C ~ } 1 6 \\mathrm { ~ h ~ }$ 杂交。去除封片胶，先后放入 $4 6 ~ \\mathrm { { ^ circ C } }$ 预热 $2 { \\times } \\mathrm { S S C } , \\mathrm { N P } 4 0$ 洗脱,滴加DAPI、封片，荧光显微镜下观察结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4结果判读 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "手工IHC：ALK蛋白免疫组化阳性产物定位于细胞质，以细胞质内出现棕黄着色及棕黄色颗粒状物为阳性。阳性 $^ { 1 + }$ ：肿瘤细胞呈现微弱或模糊的细胞质着色;阳性 $2 + : > 5 \\%$ 的肿瘤细胞呈现中度细胞质着色；阳性$3 \\mathrm { + } \\mathrm { ; } 5 5 \\%$ 的肿瘤细胞呈现颗粒状细胞质强着色；阴性：肿瘤细胞无着色[12]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VantanaIHC：阳性：肿瘤细胞呈现颗粒状细胞质强着色；阴性：肿瘤细胞无或微弱细胞质着色[19]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FISH：观察100个肿瘤细胞，统计桔黄色信号和绿 色信号分离个数或3'端单桔色信号 ${ \\geqslant } 1 5$ 个为阳性[15] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所得数据采用SPSS20.0软件分析，计数资料进行$\\chi ^ { 2 }$ 检验、Fisher确切、一致性分析， $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1标本的临床特点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总共收集病例519例，年龄由18\\~90岁，中位年龄为60岁。279例男性，240例女性，性别比为男：女 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ 1.16:1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2标本的组织学特点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "519例非小细胞肺癌,434例为经手术切除标本，84例为活检标本。手术切除标本腺癌404例(2例原位癌，11例微浸润腺癌，387例浸润性腺癌，4例转移性腺癌);大细胞癌5例(2例复合性大细胞癌，1例透明细胞癌，1例基底细胞样癌，1例淋巴上皮瘤样细胞癌);鳞状细胞癌19例(13例原发肺鳞状细胞癌，6例转移性鳞状细胞癌)；7例腺鳞癌。84例活检标本经多种活检方法收集，76例CT引导经皮肺穿刺活检标本，4例锁骨上淋巴结活检，2例胸膜活检，2例纵隔活检。活检标本的组织类型，69例腺癌，13例鳞状细胞癌，1例腺鳞癌，1例淋巴上皮瘤样癌。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3手工IHC检测ALK融合蛋白表达",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "手工IHC检测ALK融合蛋白在非小细胞肺癌中的表达，阳性定位在肿瘤细胞的胞质中，低表达 $( 1 + )$ 时呈弥漫轻度棕黄色，高表达 $( 2 \\substack { + , 3 \\ j } )$ 时呈弥漫中度至颗粒状棕黄色。巨噬细胞、肿瘤细胞腺腔中的黏液可出现微弱着色，其余非肿瘤细胞未出现着色(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d629b0e48fa3816ae92b62cb25337322943a0a70066ff7a57ed08fba6fbe3887.jpg",
+        "img_caption": [
+            "图1手工IHC检测ALK在NSCLC中的表达",
+            "Fig.1 Detection of ALK expression in NSCLC using manual IHC (Original magnification: $\\times$ 400).A: Negative sample showing no cytoplasmic reactivity in the tumor cells; B: Mild ALK positivity $( + )$ shown by mild cytoplasmic reactivity in the tumor cells; $c$ ：Moderate ALK positivity $( + + )$ shown by moderate cytoplasmic reactivity in ${ > } 5 \\%$ of the tumor cells; $D$ Strong ALK positivity $( + + + )$ shown by strong and granular cytoplasmic reactivity in ${ > } 5 \\%$ of the tumor cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "519例标本采用手工IHC检测ALK融合蛋白阳性率为 $1 1 . 3 7 \\%$ (59/519)。其中 $1 + 3 1$ 例， $2 + 7$ 例， $3 + 2 1$ 例。435例手术切除标本，ALK融合蛋白阳性率为$1 0 . 8 0 \\%$ (47/435)；84例活检标本，ALK融合蛋白阳性率为 $1 4 . 1 2 \\%$ (12/85)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4ALK融合基因蛋白表达与临床特点的关系分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "519例标本ALK融合蛋白表达与年龄、性别、组织类型的关系(表1)。结果显示在不同年龄，ALK融合蛋白表达有显著差异 $\\scriptstyle P = 0 . 0 4 8 < 0 . 0 5$ )。阳性组病例中，年轻患者( $< 6 0$ 岁， $5 9 . 3 2 \\%$ )更多。在组织类型之间，ALK融合蛋白表达无差异（ $( P { > } 0 . 0 5 )$ ,但是阳性组中以肺腺癌最多 $9 6 . 6 1 \\%$ ),仅2例分别为鳞状细胞癌和腺鳞癌，均为弱阳性表达 $( 1 + )$ 。ALK融合蛋白在不同性别表达无差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5手术标本ALK融合蛋白表达与临床特点的关系分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "435例手术切除标本ALK融合基因蛋白表达与胸膜侵犯和淋巴结转移关系，分析363例浸润性腺癌组织亚型与ALK蛋白表达的关系。结果显示发生淋巴结转移与无转移病例ALK融合蛋白表达存在显著差异( $P =$ 0.014)，ALK融合蛋白阳性是淋巴结转移的危险因素[ $_ { \\mathrm { O R } = 2 . 1 8 8 }$ （ $9 5 \\%$ C.I:1.161\\~4.122)]（表2)。ALK融合蛋白表达在乳头为主型和黏液性腺癌上存在差异（ $_ { P < 0 . 0 5 }$ ,表3)。ALK阳性表达是黏液性腺癌的危险因素 $\\scriptstyle [ \\mathbf { O R = } 1 3 . 7 1 7$ ( $9 5 \\%$ C.I:6.105\\~30.818)]。虽然实性为主型和非实性为主型之间ALK融合蛋白表达无差异，但是实性为主型ALK阳性率为 $2 3 . 0 8 \\%$ (6/26)，仅次于黏液性腺癌 $5 4 . 8 4 \\%$ (17/31)]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6活检标本ALK融合蛋白表达与临床特点关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "84例活检标本，分析ALK融合蛋白表达与年龄、性别、组织类型的关系。结果显示，12例ALK融合蛋白阳性均为肺腺癌，其余组织类型(鳞状细胞癌、腺鳞癌、淋巴上皮瘤样癌)均为阴性表达。活检标本中，ALK融合蛋白表达在不同年龄、性别均无差异( $\\mathrm { \\ P { > } 0 . 0 5 }$ ，表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7比较手术切除标本与活检标本",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ALK融合蛋白阳性率比较手术标本与活检标本使用手工IHC法检测ALK融合蛋白，结果显示两者无统计学差异 $( P { > } 0 . 0 5 )$ 。手工IHC方法也适用于检测活检标本ALK融合蛋白表达。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.8手工IHC与VantanaIHC、FISH一致性比较 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "手工IHC48例阳性病例及57例阴性病例进行VantanaIHC检测,阳性病例中27例为VantanaIHC阳性，阴性病例均为阴性(表4)。以VantanaIHC作为诊断标准,手工IHC $^ { 1 + }$ 作为阳性界值时，敏感性、特异性分别为 $1 0 0 \\% . 7 3 . 0 8 \\%$ $^ { 2 + }$ 作为界值时，敏感性、特异性分别为 $7 4 . 0 7 \\% . 9 6 . 1 5 \\% ;$ $^ { 3 + }$ 作为界值时，敏感性、特异性分别为 $6 2 . 9 6 \\% . 9 8 . 7 2 \\%$ 。手工IHC与VantanaIHC阳性病例行受试者工作特征(ROC)曲线，线下面积(AUC)为0.86(图2)。手工IHC $^ { 3 + \\sharp }$ 病例与VantanaIHC阳性一致性高达 $9 4 . 4 \\%$ 。本实验随机抽取30例进行FISH检测，其中2例阳性病例手工法IHC均为强阳性（经VantanaIHC验证均为阳性)（图3)，无假阴性结果(表4)。以FISH为标准，手工IHC敏感性为 $100 \\%$ ，特异性为 $8 9 . 2 9 \\%$ 。有3例FISH与IHC结果不一致，它们均为FISH阴性、IHC表达 $( 1 + )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/60ba798978441e00fa17e1b401ec98d28bffa895d0f1f8912dd016bc3cac8e7c.jpg",
+        "table_caption": [
+            "表1ALK融合基因蛋白表达与临床特点关系 Tab.1 Correlation of ALK fusion protein expression with the clinical characteristics of the patients "
+        ],
+        "table_footnote": [
+            "Fisherexact;ADC:Adenocarcinom;SCC:Suamouscarcinoma;LCLC:Large-cellungcarcinoma;ASC:Adenosquamouscarcinoma. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Clinical characteristics</td><td colspan=\"3\">Total</td><td colspan=\"3\">Resected specimens</td><td colspan=\"3\">Biopsy specimens</td></tr><tr><td>ALK+(n=59)</td><td>ALK(n=460)</td><td>P</td><td>ALK+(n=47)</td><td>ALK(n=388)</td><td>P</td><td>ALK+(n=12)</td><td>ALK(n=72)</td><td>P</td></tr><tr><td>Age</td><td></td><td></td><td>0.048</td><td></td><td></td><td>0.101</td><td></td><td></td><td>0.206</td></tr><tr><td>≥60</td><td>24(40.68%)</td><td>250(54.38%)</td><td></td><td>19(40.43%)</td><td>206(53.09%)</td><td></td><td>5(41.67%)</td><td>44(61.11%)</td><td></td></tr><tr><td><60</td><td>35(59.32%)</td><td>210(45.65%)</td><td></td><td>28(59.57%)</td><td>182(46.91%)</td><td></td><td>7(58.33%)</td><td>28(38.89%)</td><td></td></tr><tr><td>Gender</td><td></td><td></td><td>0.527</td><td></td><td></td><td>0.298</td><td></td><td></td><td>0.526</td></tr><tr><td>Male</td><td>34(57.63%)</td><td>245(53.26%)</td><td></td><td>28(59.57%)</td><td>200(51.55%)</td><td></td><td>6(50%)</td><td>45(62.50%)</td><td></td></tr><tr><td>Female</td><td>25(42.37%)</td><td>215(46.74%)</td><td></td><td>19(40.43%)</td><td>188(48.45%)</td><td></td><td>6(50%)</td><td>27(37.50%)</td><td></td></tr><tr><td>Histopathology subtypes</td><td></td><td></td><td>0.414'</td><td></td><td></td><td>0.801'</td><td></td><td></td><td>0.4971</td></tr><tr><td>ADC²</td><td>57(96.61%)</td><td>416(90.43%)</td><td></td><td>45(95.74%)</td><td>359(92.53%)</td><td></td><td>12(100%)</td><td>57(79.17%)</td><td></td></tr><tr><td>SCC²</td><td>1(1.69%)</td><td>31(6.74%)</td><td></td><td>1(2.13%)</td><td>18(4.64%)</td><td></td><td>0</td><td>12(16.67%)</td><td></td></tr><tr><td>LCLC²</td><td>0</td><td>6(1.30%)</td><td></td><td>0</td><td>5(1.29%)</td><td></td><td>0</td><td>1(1.39%)</td><td></td></tr><tr><td>ASC²</td><td>1(1.69%)</td><td>7(1.52%)</td><td></td><td>1(2.13%)</td><td>6(1.55%)</td><td></td><td>0</td><td>2(2.78%)</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a156e42626730d624ce834731b2e1c4f29e5842204f404025160e725a4faf9e.jpg",
+        "table_caption": [
+            "表2手术标本ALK融合基因蛋白表达与临床特点关系 Tab.2 Correlation ALK fusion protein in surgical specimens with the clinical characteristics of the patients "
+        ],
+        "table_footnote": [
+            "iThere were 404 cases with lymph nodes have been sent to exam. "
+        ],
+        "table_body": "<html><body><table><tr><td>Characteristics</td><td>ALK+(n=47)</td><td>ALK(n=388)</td><td>P</td></tr><tr><td>Pleura</td><td></td><td></td><td>0.302</td></tr><tr><td>Invasion</td><td>15(31.91%)</td><td>154(39.69%)</td><td></td></tr><tr><td>Non-invasion</td><td>32(68.09%)</td><td>234(60.31%)</td><td></td></tr><tr><td>Lymph node</td><td></td><td></td><td>0.0141</td></tr><tr><td>Metastasis</td><td>21(44.68%)</td><td>106(27.32%)</td><td></td></tr><tr><td>Non-metastasis</td><td>23(48.93%)</td><td>254(65.46%)</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/484f8160cde505fb141ed3c54b86171569af34e09cb055cd6256e39d89cb0143.jpg",
+        "table_caption": [
+            "表3ALK融合基因蛋白与手术切除肺腺癌组织亚型关系 Tab.3 Correlation of ALK fusion protein with histological types of the tumors in the surgical specimens "
+        ],
+        "table_footnote": [
+            "1Fisher exact. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Histopathology pattern</td><td rowspan=\"2\">No. (n=363)</td><td rowspan=\"2\">ALK+(n=44)</td><td rowspan=\"2\">P</td><td rowspan=\"2\">OR</td><td colspan=\"2\">95% CI</td></tr><tr><td>Upper</td><td>Lower</td></tr><tr><td>Lepic predominant</td><td>43</td><td>1(2.32%)</td><td>0.036</td><td>0.153</td><td>0.021</td><td>1.144</td></tr><tr><td>Acinar predominant</td><td>199</td><td>18(9.04%)</td><td>0.048</td><td>0.528</td><td>0.278</td><td>1.002</td></tr><tr><td>Papillary predominant</td><td>51</td><td>1(1.96%)</td><td>0.016</td><td>0.125</td><td>0.017</td><td>0.930</td></tr><tr><td>Micropapillary predominant</td><td>11</td><td>1(9.09%)</td><td>1.000</td><td>0.719</td><td>0.090</td><td>5.753</td></tr><tr><td>Solid predominant</td><td>26</td><td>6(23.08%)</td><td>0.1091</td><td>2.361</td><td>0.892</td><td>6.244</td></tr><tr><td>Enteric</td><td>2</td><td>0(0.00%)</td><td>1.000'</td><td></td><td></td><td></td></tr><tr><td>Invasive mucinous adenocarcinoma</td><td>31</td><td>17(54.84%)</td><td><0.011</td><td>13.717</td><td>6.105</td><td>30.818</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ALK融合基因在非小细胞肺癌检出率为 $2 . 9 \\%$ ，$1 1 . 6 \\% ^ { [ 1 5 ] }$ ,免疫组化方法采用罗氏公司VantanaIHC结合D5F3抗体（中国国家食品药品监督管理总局，CFDA认证)检测ALK融合蛋白，阳性率在 $3 . 4 \\% .$ ）$1 3 . 9 5 \\%$ [8.20-23]。在本实验中,采用手工IHC方法结合D5F3抗体检测ALK融合蛋白，阳性率为 $1 1 . 3 7 \\%$ (59/519),与IHC机器阳性率接近。并且以VantanaIHC为标准，手工IHC阳性界值定在 $^ { 1 + }$ 时，手工IHC敏感性为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/21462015e277a285e60e81fa858b2291f1468ebfad5b6e82c889642ecf3b685a.jpg",
+        "table_caption": [
+            "表4手工IHC与Vantana IHC一致性比较 Tab.4 Evaluation of the consistency between the results by manual IHC and Vantana IHC "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Manual IHC</td><td>Vantana IHC+</td><td>Vantana IHC-</td><td>Sensitivity</td><td>Specificity</td><td>FISH+</td><td>FISH-</td></tr><tr><td>1+</td><td>7</td><td>18</td><td>100%</td><td>73.08%</td><td>0</td><td>3</td></tr><tr><td>2+</td><td>3</td><td>2</td><td>74.07%</td><td>96.15%</td><td>0</td><td>0</td></tr><tr><td>3+</td><td>17</td><td>1</td><td>62.96%</td><td>98.72%</td><td>2</td><td>0</td></tr><tr><td></td><td>0</td><td>57</td><td></td><td></td><td>0</td><td>25</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc184c0b0074ff01bc5ae8dc75240a4f5b8e6c45da9e98b4b9277ec90e0943bc.jpg",
+        "img_caption": [
+            "图2手工IHC与VantanaIHCROC曲线 Fig.2 The ROC curve of manual IHC and Vantana IHC.The blue line is the ROC curve of manual IHC and Vantana IHC,and the AUC of O.86 suggests a good consistency. The green line is the reference line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$100 \\%$ ,尽管假阳性结果较多导致特异性稍低，但是可以避免出现漏诊。而且手工IHC与VantanaIHC阳性病例 $\\mathrm { A U C } { > } 0 . 7$ ，强表达的病例与VantanaIHC阳性结果具有高度一致性，说明D5F3抗体无论采用手工方法还是Vantana法，都能有效检测出ALK融合蛋白。为进一步验证手工IHC准确性，本实验随机抽取30例进行FISH检测，结果表明手工IHC强阳性表达与FISH存在一致性。剩余3例不一致病例，均为FISH阴性、IHC低表达$( 1 + )$ ，可能与IHC背景非特异性着色有关，无假阴性结果。以VantanaIHC和FISH作为标准，手工IHC均有较高敏感性、特异性，所以手工IHC方法可以推广到条件不足的基层医院，作为检测ALK融合重排的筛查手段。不过本实验采用FISH验证的病例较少，两种方法一致性有待扩大FISH验证的结果进一步确定。本实验还比较了手术切除标本和活检标本IHC结果阳性率，结果显示IHC方法检测ALK融合蛋白在两种标本上无差异，说明IHC方法也适用于组织量少、肿瘤细胞数量少的标本。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b56703d5321768f5364ae32809289100df5e1c4c9362ba0a490414afbf26188.jpg",
+        "img_caption": [
+            "图3手工法IHC,VantanaIHC和FISH一致性比较",
+            "Fig.3 Consistency between among the 3 methods in a case presenting with strong ALK fusion protein expression.A: Manual IHC (Original magnification: $\\times 2 0 0 )$ ；B:Vantana IHC (Original magnification: $\\times 2 0 0$ )；C:FISH(Original magnification: $\\times 1 0 0 0$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验讨论IHCALK融合蛋白表达与临床特点的关系，结果显示ALK阳性多为较年轻患者，和国内外研究结果一致[8.18.24]。ALK阳性组(包括手术切除和活检标本)病人， $9 6 . 6 1 \\%$ 为肺腺癌，表明ALK融合基因主要发生在肺腺癌病人。手术切除标本ALK阳性以黏液性腺癌多见，早前有研究显示[12.18]ALK阳性和大量细胞外黏液、筛状结构、实性为主伴有印戒细胞等组织类型相关，本实验ALK融合蛋白表达在实性为主型无统计学差异，但是实性为主型ALK阳性率为 $2 3 . 0 8 \\%$ ,仅次于黏液性腺癌。手术切除标本中ALK阳性是淋巴结转移的危险因素，说明ALK融合基因蛋白是非小细胞肺癌的预后指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另外本实验手工IHC阳性组中各有1例病人为鳞状细胞癌(1/19)和腺鳞癌(1/7),尽管数量较少，但有研究指出鳞状细胞癌存在ALK融合蛋白阳性的病例。Calio等24对40例鳞状细胞癌进行ALK重排的FISH检测得出鳞状细胞癌也可以出现ALK基因融合重排。Wang[25报道了1例55岁鳞状细胞癌淋巴结转移的病人，FISH发现ALK融合基因阳性，予ALK-TKI克唑替尼治疗后达到长时间的部分缓解。所以尽管目前克唑替尼对非腺癌ALK阳性的病人疗效需进一步探讨[24],但是对这类病人进行ALK融合基因检测是有必要的。鉴于以上提到FISH、VantanaIHC检测成本较高，手工IHC检测ALK融合蛋白可以对这类非腺癌的病人起到筛查的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，ALK融合蛋白阳性的病人较年轻,组织类型以腺癌为主，多为黏液性腺癌亚型，ALK阳性是出现淋巴结转移的危险因素，所以检测ALK融合蛋白能评价患者预后效果，同时非腺癌的NSCLC也应当进行ALK免疫组化的筛查;手工IHC方法检测ALK融合基因蛋白较经济、易操作，不受肿瘤细胞数量的影响，应用D5F3抗体检测，阳性率与Ventana方法接近，并且强阳性结果与VantanaIHC、FISH一致，能够成为条件不足的基层医院进行ALK融合蛋白筛查的手段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Ferlay J, Soerjomataram I,Dikshit R,et al.Cancer incidence and mortality worldwide: sources,methods and major patterns in GLOBOCAN 2012[J]. Int JCancer, 2015,136(5): E359-86.   \n[2]Kadara H, Kabbout M,Wistuba II.Pulmonary adenocarcinoma: a renewed entity in 2011[J].Respirology,2012,17(1): 50-65.   \n[3] Zwick E,Bange J, Ullrich A.Receptor tyrosine kinase signalling as a target for cancer intervention strategies[J].Endocr Relat Cancer, 2001,8(3): 161-73.   \n[4]Shaw AT,Kim DW,Mehra R,et al.Ceritinib in ALK-rearranged non-smal-cell lung cancer[J].N Engl J Med,2014，370(13): 1189-97.   \n[5]Tantraworasin A，Lertprasertsuke N,Kongkarnka S，et al. Retrospective study of ALK rearrangement and clinicopathological implications in completely resected non- small cell lung cancer patients in Northern Thailand: role of screening with D5F3 antibodies[J].Asian Pac JCancer Prev,2014,15(7): 3057-63.   \n[6]Soda M,Choi YL，Enomoto M,et al． Identification of the transforming EML4-ALK fusion gene in non-small-cell lung cancer [J].Nature,2007,448(7153): 561-6.   \n[7]张梦雪,裴 斐,王田力,等.95例非小细胞肺癌患者的ALK融合基因 表达情况、临床病理特点及预后[J].北京大学学报:医学版,2014, (4): 582-8.   \n[8] Zhang X, Zhang S,Yang X,et al. Fusion of EML4 and ALK is associated with development of lung adenocarcinomas lacking EGFR and KRAS mutations and is correlated with ALK expression [J].Mol Cancer,2010,(9): 188.   \n[9]吴 璇,李建雄.克唑替尼治疗EML4-ALK重排阳性患者的临床疗效 [J].南方医科大学学报,2015,35(5):753-7.   \n[10] Gainor JF, Shaw AT. Novel targets in non-small cell lung cancer: ROS1 and RET fusions[J]. Oncologist, 2013,18(7): 865-75.   \n[11]Le X,Freed JA,Vanderlaan PA,et al.Detection of CrizotinibSensitive lung adenocarcinomas with Met,ALK,and ROS1 genomic alterations via comprehensive genomic profiling［J].Clin Lung Cancer,2015,16(5): e105-9.   \n[12]张绪超,陆 舜,张 力,等.中国间变性淋巴瘤激酶(ALK)阳性非小细 胞肺癌诊断专家共识(2013版)[J].中华病理学杂志,2013,42(6): 402-6.   \n[13]Li Y,PanY, Wang R,et al ALK-rearranged lungcancer in Chese: a comprehensive assessment of clinicopathology, IHC,FISH and RT-PCR[J]. PLoS One,2013,8(7): e69016.   \n[14]Ali G,Proieti A,Pellicioni S,et al. ALKrearrangement inlarge series of consecutive non-small cell lung cancers:comparison between a new immunohistochemical approach and fluorescence in situ hybridization for the screening of patients eligible for crizotinib treatment[J].Arch Pathol Lab Med,2014,138(11): 1449-58.   \n[15]Cabillic F,Gros A，Dugay F,et al. Parallel FISH and immunohistochemical studies of ALK status in 3244 non-small-cell lung cancers reveal major discordances[J]. JThorac Oncol,2014,9 (3): 295-306.   \n[16] Ying J,Guo L,Qiu T,et al. Diagnostic value of a novel fully automated immunochemistryassayfordetectionofALK rearrangement in primary lung adenocarcinoma ［J].Ann Oncol, 2013,24(10): 2589-93.   \n[17] Travis WD,Brambilla E,Burke AP,et al.WHO classification of tumours of the lung，pleura,thymus and heart[M].IARC,2004: 23-61.   \n[18] Travis WD,Brambilla E,Noguchi M,et al. International association for the study of lung cancer/American thoracic society/European respiratory society international multidisciplinary classification of lung adenocarcinoma[J]. JThorac Oncol, 2011,6(2): 244-85.   \n[19] Conde E, Suarez-Gauthier A, Benito A,et al. Accurate identification of ALK positive lung carcinoma patients: novel FDA-cleared automated fluorescence in situ hybridization scanning system and ultrasensitive immunohistochemistry [J].PLoS One,2014，9(9): e107200.   \n[20]朱 翔,李红威,曹宝山,等.525例肺癌中ALK阳性病例临床病理特 征研究及检测方法探讨[J].中国肺癌杂志,2014,17(3):226-32.   \n[21] Cha YJ, Lee JS, Kim HR,et al. Screening of ROS1 rearrangements in lung adenocarcinoma by immunohistochemistry and comparison with ALK rearrangements[J]. PLoS One,2014,9(7): e103333.   \n[22]Le Quesne J,Maurya M, Yancheva SG,et al.A comparison of immunohistochemical assays and FISH in detecting the ALK translocation in diagnostic histological and cytological lung tumor material[J]. JThorac Oncol,2014,9(6): 769-74.   \n[23] Wang J, Cai Y, Dong Y,et al. Clinical characteristics and outcomes of patients with primary lung adenocarcinoma harboring ALK rearrangements detected by FISH, IHC,and RT-PCR[J]. PLoS One, 2014,9(7): e101551.   \n[24] Calio A,Nottegar A, Gilioli E, et al. ALK/EML4 fusion gene May be found in pure squamous carcinoma of the lung[J].J Thorac Oncol,2014,9(5): 729-32.   \n[25] Wang Q,He Y, Yang X,et al. Extraordinaryresponse torizotinib in a Woman with squamous cell lung cancer after two courses of failed chemotherapy[J].BMC Pulm Med,2014,(14): 83. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(编辑：经媛）",
+        "page_idx": 5
+    }
+]

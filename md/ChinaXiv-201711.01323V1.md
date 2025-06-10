@@ -1,0 +1,210 @@
+# 基于遥感探测数据的月球玄武岩分类研究进展
+
+蔡婷妮1,2,3，李春来1,²，任鑫1,²，刘建军1,2刘斌1,²，刘大卫1,²，许学森1,2,3
+
+（1.中国科学院国家天文台，北京100012；2.中国科学院月球与深空探测重点实验室，北京100012；3.中国科学院大学，北京100049)
+
+摘要：月球玄武岩是月球岩石构成的重要种类之一，出露月表面积占全月表的 $1 7 \%$ ，主要填充在月球正面的大型平坦盆地中。月海玄武岩被认为是来源于早期岩浆分异作用产生的月幔堆积物重熔，在超压作用下喷出月表，因而较为年轻，较少受到大的撞击扰动，保存的信息较为完整。不同的玄武岩地质单元的时代、分布和体积提供了月慢熔融作用的时空分布记录，有助于理解月慢演化、月球内部成分结构和物质组成，具有十分重要的研究价值。介绍了玄武岩的探测背景，以及主要组成矿物的结构、化学成分及光谱表现，重点介绍了基于遥感探测数据的玄武岩分类情况，并总结了目前研究成果中存在的不足。
+
+关键词：月球玄武岩；遥感探测；玄武岩分类图分类号：0433.4 文献标识码：A 文章编号：1672-7673(2017)02-0179-13
+
+月球是人类进行深空探测的首要目标，20 世纪60年代起，人类对其展开了密集的探测活动，包括环绕轨道观测、硬着陆、软着陆、采样返回、载人登月等。从1959年到1974年，美国和前苏联共发射了83个（成功45个)探测器对月球进行各种类型的探测，1969年的阿波罗11号第1次将人类送上了月球，人类第1次登上地外天体，迈出了人类历史上重要的一步。每一次的月球探测活动都获取了大量的月球数据，使人类对月球的认识有了实质性的突破。1994年随着美国克莱门汀升空，月球探测进入了一个新时代。欧洲、中国、日本、印度等许多地区和国家纷纷加入重返月球的计划中，设计并发射了许多探测器，运用新兴的科学技术解开月球更深层的面纱。
+
+月球与地球一样也是由岩石组成的，但表面没有大气包裹。根据大碰撞假说，月球形成于太阳系的早期，火星大小的天体撞击地球后甩出了地壳与上地幔物质，在地球轨道上吸积形成了月球[1]。大碰撞和吸积产生的能量释放导致了大规模的熔融，形成了岩浆洋，而后岩浆洋结晶分异出现了固化的富斜长石月壳。在月球早期演化中，受到小型天体、彗星或大型陨石轰击，形成了众多的撞击盆地和撞击坑。到约20亿\~15 亿年时，玄武质熔岩已经在月表覆盖有目前的规模，占约 $1 7 \% ^ { [ 2 ] }$ 。美国阿波罗6次载人登月采集了 $3 8 1 . 7 \mathrm { k g }$ 各类月球样品，前苏联Luna系列探测器采用无人采样返回方式采集了 $0 . 3 2 1 1 \mathrm { k g }$ 月壤，这些带回来的样品极大地扩大了人类对月球的认知。通过样品的实验室研究，可以知道月球岩石的类型、矿物成分、化学特征、物理特性和形成年龄等。基于采回样品的详细分析可知，月球岩石主要有3类：（1)火成岩，其中 $\textcircled{1}$ 深成岩，包括斜长岩、辉长苏长岩、橄长岩、纯橄榄岩、苏长岩、花岗岩、石英二长闪长岩、二长辉长岩； $\textcircled{2}$ 火山岩，包括玄武岩、铝质玄武岩、KREEP玄武岩等。（2)变质岩，包括麻粒岩、撞击熔融岩、碎裂变质岩、碎裂深成岩。（3)多元撞击角砾岩，包括碎屑(岩屑)角砾岩、月土角砾岩、撞击玻璃等[3]。
+
+月球玄武岩大部分分布在月球正面的月海中，月球背面也有少量分布。与地球玄武岩相比，富集FeO 和 $\mathrm { T i O } _ { 2 }$ ， $\mathrm { M g / ( \Omega M g + F e ) }$ 的变化范围为 $0 . 3 5 { \sim } 0 . 6 5$ ， $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 亏损，且 $\mathrm { N a } _ { 2 } \mathrm { O }$ 和 $\mathrm { K } _ { 2 } \mathrm { O }$ 含量低，故月球斜长石基本不出现钾长石，以钙长石为主。同时 $\operatorname { T i } _ { 2 } 0$ 的含量存在较大的变化范围，钛铁矿是玄武岩中常见的副矿物[4]。玄武岩的年龄经同位素检测，不同玄武岩类型之间存在差异，总体上集中形成于31\~39 亿年[5]。玄武岩的成分差异可以反映月幔的不均性，不同的玄武岩地质单元的时代、分布和体积也可以提供月幔熔融作用的时空分布记录，预示着它们在矿物、元素和形成年龄上的不同。同时，玄武岩携带的月幔矿物和化学信息，有助于理解月幔演化和月球内部的成分结构和物质组成，本文重点对玄武岩的分类进行概述。
+
+目前，由于探测技术的进步，月球玄武岩也受到了很多关注，研究过程中仍然存在一些急需解决的问题：（1)玄武岩的物质来源、地质历史演变，包括后期月海盆地的形成与玄武岩的充填之间的关系，需要对月球的起源做更详细的剖析；（2)特殊类型玄武岩的成因；（3）月球正面和背面月海玄武岩分布的不对称及其成因；（4)利用成分含量对于玄武岩的分类，缺少岩石成因指示，单一的数据划分不能说明岩石源区、演化等信息，有待加入其它指标增强成分含量分类的指示性；（5）月球遥感数据来源不同，对同一地区玄武岩的解译不同，有待使用更精确和更高分辨率的数据为玄武岩科学可靠的研究服务。
+
+# 1月球玄武岩的主要矿物概述
+
+月海地区的主要矿物有以下5种：斜长石（主要是钙长石 $\mathrm { C a A l } _ { 2 } \mathrm { S i } _ { 2 } \mathrm { O } _ { 8 }$ )、斜方辉石( $\mathbf { M } \mathbf { g }$ ，Fe) $\mathrm { S i O } _ { 3 }$ 、单斜辉石 $\mathrm { C a ( F e , \ M g ) S i _ { 2 } O _ { 6 } }$ 、橄榄石 $\left( \mathrm { M g } , \mathrm { F e } \right) _ { 2 } \mathrm { S i O } _ { 4 }$ 、钛铁矿 $\mathrm { F e T i O } _ { 2 }$ ，这些矿物的含量随着不同的玄武岩浆而变化[6]。这些矿物光谱在光学波段范围内吸收特征由硅酸盐结构确定(见表1)，而光谱的变化细节主要由铁、钛、钙等控制，如钙对辉石光谱的影响[7]。此外反射光谱还受众多因素的影响，包括物质颗粒粒度、表面状态以及外界的太空环境的作用等。
+
+表1月表矿物的分布、元素组成及主要光谱特征  
+Table 1 Mineral distribution，elemental composition and main spectral features of lunar minerals   
+
+<html><body><table><tr><td>矿物名称</td><td>隶属</td><td>分布</td><td>主要元素</td><td>光谱特征</td></tr><tr><td>辉石 (Ca，Mg，Fe)Si2O6</td><td>硅酸盐</td><td>月海玄武岩 高地斜长岩 KREEP 岩</td><td>Mg，Fe,Ca, Na，Al, Si,0</td><td>0.95 μm 附近和1.8~2.4μm 的双吸收带，及 0.75 μm 和1.4μm 附近的双反射峰，富镁斜 方辉石吸收中心为0.9和1.85μm，富铁单斜 辉石为1.03和2.03μm</td></tr><tr><td>斜长石 Ca2AlSi2O8</td><td>硅酸盐</td><td>月海玄武岩 高地斜长岩 KREEP 岩</td><td>K,Na,Ca, Al, Si, 0</td><td>1.25μm 处的吸收带及0.8μm 附近的反射峰</td></tr><tr><td>橄榄石 (Mg，Fe)SiO4</td><td>硅酸盐</td><td>月海玄武岩 富镁岩石</td><td>Fe，Mg,Ca, Mn,Cr，Al, Si，0</td><td>1.0μm处的吸收峰及0.65μm 附近的反射峰， 最强吸收1.04~1.08 μm，两个较小的吸收 0.9 μm 和1.25 μm</td></tr><tr><td>钛铁矿 FeTiO3</td><td>氧化物</td><td>月海玄武岩</td><td>Ti,Fe,O</td><td>0.5 μm 和1.5μm 附近的吸收峰及1.0μm 附 近的反射峰</td></tr></table></body></html>
+
+在玄武岩的反射率图像中（见图1)，显著的几个吸收特征在 $1 0 0 0 \mathrm { n m }$ （橄榄石和辉石）和 $2 0 0 0 \mathrm { n m }$ (辉石)附近，吸收峰的强度和位置也因岩石中矿物的不同而异，如低钙辉石，相较于高钙辉石显示了更短波长的吸收特征[2,8-10]。
+
+# 1. 1 斜长石
+
+(Ca，Na) $\mathrm { A l } _ { 2 } \mathrm { S i } _ { 2 } \mathrm { O } _ { 8 }$ ，为架状硅酸盐，每个[ $\mathrm { S i O } _ { 4 }$ ]四面体的所有角顶与相邻的四面体共顶。主要为钠长石和钙长石两个端员组分组成的类质同象系列，即 $\mathrm { { N a } \left[ \ A l S i _ { 3 } O _ { 8 } \right] \mathrm { - C a \left[ \ A l _ { 2 } S i _ { 2 } O _ { 8 } \right] } }$ ，通过研究月球样品可知，相对地球斜长石而言，其亏损钠长石，表明了月球亏损碱性元素的本性。
+
+理论上，斜长石在可见及近红外区没有明显的光谱特征，但是由于有铁态物质的污染，在 $1 2 5 0 ~ \mathrm { n m }$ 处存在一个吸收峰（见图2)[10]。只需要微量的铁( $\mathrm { F e O } \sim 0 . 1 \mathrm { w t } \%$ )存在于晶体结构中即可产生此特征，且该吸收特征受长石中钠含量影响较为明显。但是该吸收特征通常比较微弱，有时会受橄榄石和辉石光谱的影响而被掩盖。此外，冲击压力对斜长石光谱也产生影响，在低的冲击压力下，长石发生内部碎裂，相应改变了晶体对光散射的吸收并影响光路的传播路径[13]；在中等压力作用下，斜长石经历了冲击变质后，变成斜长石玻璃，则失去 $1 2 5 0 \ \mathrm { n m }$ 的特征谱线[14-15]
+
+![](images/c63fe0df4fed23ea1e3befbe6e3cb5747b99cc49a26b94c7d8aeb06622c0c1b3.jpg)  
+图1月球玄武岩中主要矿物的反射率图[11-12]Fig.1Reflectance spectra of main mineralsin lunar basalt[11- 12]
+
+对于混合的月壤矿物的实验室和模型研究得知，斜长石含量必须达到所有混合物体积的$8 5 \%$ ，光谱仪才能探测到明显的斜长石吸收特征，并且可以从别的矿物中进行有效区分。由于斜长石需要达到一个相当高的含量，才能从混合
+
+![](images/5ba4d46c3fc73f55059ce2e2fde76329592c228bf0cc46b7b59e92dc5869ecc9.jpg)  
+图2长石光谱在 $1 2 5 0 \mathrm { n m }$ （箭头处）的特征吸收谱线对比，上下两条光谱分别为月球高地土壤和地球斯蒂尔瓦特杂岩的斜长石[16]  
+Fig.2Plagioclase spectra showing the diagnostic broad plagioclase absorption feature near $1 2 5 0 \mathrm { n m }$ （arrow indicates 1250 nm).Top spectrum is a plagioclase separate from a lunar highland soil and the bottom spectrum isa plagioclase separate from the Stillwater complex[16]
+
+矿物中有效识别，如果在近红外波段探测到 $1 \ : 2 5 0 \ : \mathrm { n m }$ 的吸收特征，那么可以认为是探测到了斜长岩（斜长石体积大于 $9 0 \%$ )[16]。尽管斜长石光谱特征微弱但是长石因其亚铁含量低，具有高反照率，在探测时需要结合其他数据识别[17-18]
+
+# 1.2 橄榄石
+
+$\langle \mathrm { M g } , \mathrm { F e } \rangle _ { 2 } \mathrm { S i O } _ { 4 }$ ，为单岛状硅酸盐， $\mathrm { S i } ^ { 4 + }$ 充填四面体空隙，骨干外阳离子M充填其中八面体空隙,其中， $\mathtt { M }$ 位分为M1和M2，前者位于对称中心，后者位于对称面上。橄榄石的成分随着铁和镁之间的离子交换而变化，即随着铁含量减少，镁含量增加，从铁橄榄石端元矿物变向镁橄榄石端元矿物，形成 $\mathbf { M g } _ { 2 } \big [ \mathrm { S i O } _ { 4 } \big ] - \mathbf { F e } _ { 2 } \big [ \mathrm { S i O } _ { 4 } \big ]$ 完全类质同象系列。
+
+橄榄石通常大面积出露在月球大型撞击盆地里或者盆地边缘[19]，容易获得很多深部物质的信息。对于原始岩浆来说，高镁值的橄榄石通常只是原始成因，而低镁值的则指示来自后期演化的源区。典型的橄榄石有一个较宽的成分吸收特征，集中在 $1 0 5 0 \mathrm { n m }$ ，同时缺乏 $2 0 0 0 { \mathrm { n m } }$ 的吸收峰。 $1 0 5 0 \mathrm { n m }$ 处的吸收峰是3个吸收峰叠加形成的： $8 5 0 \ \mathrm { n m }$ 、 $1 0 5 0 \mathrm { n m }$ 和 $1 2 5 0 \mathrm { n m } ^ { [ 2 0 - 2 1 ] }$ ，是由 $\mathrm { F e } ^ { 2 + }$ 的迁移导致，如图3，中央吸收峰是由 $\mathrm { F e } ^ { 2 + }$ 在 M2位造成的，两外侧的吸收峰是由 $\mathrm { F e } ^ { 2 + }$ 在 M1位造成的[22-24]。月球橄榄岩常含有铬尖晶石，故在 $1 . 6 0 ~ { \mu \mathrm { m } } \sim 2 . 6 0 ~ { \mu \mathrm { m } }$ 之间有一个较为显著的吸收特征[20-21]。利用光谱数据可以得知更多橄榄石内部成分的变化，文[21]采用高斯校正模型处理后的光谱数据，比较包络线去除后和原始的波段中心，可用来估算橄榄石的镁值(Fo#）。
+
+# 1.3辉石
+
+在月球的主要硅酸盐矿物中，辉石的化学成分最为复杂，化学通式为 $\mathrm { X Y } [ \mathrm { T } _ { 2 } \mathrm { O } _ { 6 } ]$ ，X 阳离子主要占据晶体结构中的 M2位，Y 阳离子则占据 M1位，[ $\mathrm { S i O } _ { 4 } ]$ 四面体各以两个角顶与相邻的 $\left[ \mathrm { S i O _ { 4 } } \right]$ 四面体共用，形成无限延伸的单链（见图4）。
+
+![](images/cc38f7b934d9409ce322f86b68686e0b0d693d684ca7e0d99ad032dd3c9a24a8.jpg)  
+图3SanCarlos 橄榄石的双向反射率光谱[11] Fig.3Bidirectional reflectance spectrum of San Carlos olivine[11]
+
+![](images/9bd6d6963fe22e12efc85d27c6718efb8e377e3e35370824bf99925b3641b491.jpg)  
+图4辉石的晶体结构[25]
+
+辉石主要由两大亚族组成：斜方辉石和单斜辉石。斜方辉石 $\left( \mathrm { M g } , \mathrm { F e } \right) _ { 2 } \mathrm { S i } _ { 2 } \mathrm { O } _ { 6 }$ ，M1和M2位都由小阳离子 $\mathrm { F e } ^ { 2 + }$ 和 $\mathbf { M } \mathbf { g } ^ { 2 + }$ 等占据，主要为顽火辉石和斜方铁辉石类质同象系列。单斜辉石（Ca，Mg，Fe) ${ } _ { 2 } \mathrm { S i } _ { 2 } \mathrm { O } _ { 6 }$ ，M2位置上由大半径阳离子钙、钠等占据。
+
+辉石是月表主要的镁铁质矿物，因其明显的光谱特性成为首个被遥感探测的月球矿物。从图5可以看出，辉石族矿物有两个特征吸收峰，分别位于 $1 0 0 0 { \mathrm { n m } }$ 和 $2 0 0 0 { \mathrm { n m } }$ 处，主要由 $\mathrm { F e } ^ { 2 + }$ 的电子跃迁导致。在辉石矿物中，吸收峰的位置主要由 $\mathrm { F e } ^ { 2 + }$ ： $\mathbf { M } \mathbf { g } ^ { 2 + }$ 和 $\mathrm { C a } ^ { 2 + }$ 离子主导[26-28]，因为这3种阳离子最容易填充辉石晶格结构中的M1和M2位置。 $\mathrm { F e } ^ { 2 + }$ 在M2位的电子跃迁是影响辉石光谱
+
+![](images/24860f1c52961bbf1f711c2396b6b5b3811af2fc9ea0792eff7c46cf1d566135.jpg)  
+Fig.4The crystal structure of pyroxene[25]   
+图5Apollo12返回样品中两种辉石的反射光谱 Fig.5Reflectance spectra of two different pyroxene from Apollo 12 returned sample
+
+的主要因素，并产生在 $1 \mu \mathrm { m }$ 和 $2 \mu \mathrm { m }$ 附近的吸收， $\mathrm { F e } ^ { 2 + }$ 在M1位导致附加的 $1 \mu \mathrm { m }$ 和 $1 . 2 \mu \mathrm { m }$ 的吸收峰。
+
+辉石是众多矿物里最具光谱差异性的一类，矿物的结构和成分在光谱表现上都很敏感。借助这点，文[29]通过研究辉石提供新的研究月壳演化的途径，制作全月球的低钙辉石分布图，并对比总结了3个特征地区的低钙辉石，分析各地的地质状况。其中对斜方辉石而言，由于 $\mathrm { C a } ^ { 2 + }$ 的含量比较低，谱带位置主要反映了 $\mathbf { M } \mathbf { g } ^ { 2 + }$ 和 $\mathrm { F e } ^ { 2 + }$ 的比值，拥有最高镁含量和最低钙含量的辉石，表现出最短的1$\mu \mathrm { m }$ 和 $2 ~ { \mu \mathrm { m } }$ 吸收谱带宽度[26,29-30]。文[29]利用月球矿物制图仪（Moon Mineralogy Mapper, $\mathbf { M } ^ { 3 }$ )获取的具有强低钙辉石特征的光谱数据，对南极艾肯盆地及冷海区域进行了研究，判断岩石的镁值及岩石类型。同时利用合成的辉石（包含 $\mathrm { C a } ^ { 2 + } \cdot \mathrm { M g } ^ { 2 + }$ 和 $\mathrm { F e } ^ { 2 + }$ )进行实验室光谱分析，在每种元素含量变化的情况下，观察各元素对光谱吸收的影响，尤其是 $\mathrm { C a } ^ { 2 + }$ 的作用。
+
+# 2月球玄武岩分类研究概述
+
+从20世纪70年代开始，人类利用遥感技术开展对月球的勘查，从地基望远镜到绕月轨道探测，以及探测器着陆点附近的就位探测数据，光谱范围从紫外、可见光拓展到红外区域。玄武岩的不同类型具有不同的光谱特性，对各类探测器的遥感数据进行综合分析可以更准确地进行玄武岩的分类，如月球勘测轨道器和嫦娥二号可见光影像具有较高的空间分辨率，嫦娥一号干涉成像光谱仪和月船1号$\mathbf { M } ^ { 3 }$ 光谱仪的高光谱数据具有较高的光谱分辨率和较宽的光谱范围。丰富的高分辨遥感数据为玄武岩的分类研究提供新的契机，有利于更精细地划分月面的玄武岩类型。月球玄武岩分类研究大致经历了以下3个阶段。
+
+# 2.1基于地基望远镜光谱数据进行玄武岩分类
+
+文[31]证实，可依据高地、月海和明亮的陨石坑的反射光谱曲线，划分成不同的地质单元。在研究早期，文［9］利用地基望远镜对月球正面的遥感光谱进行了总结，利用UV/VIS 比值、反射率、 $1 ~ { \mu \mathrm { m } }$ 波段的吸收深度和 $2 ~ { \mu \mathrm { m } }$ 波段的吸收深度(见表2)等4个可测量的参数，将月球正面玄武岩划分为13个类型和3种其它火山活动类型。
+
+表2用于月球玄武岩类型划分的4个地基望远镜光谱测量参数[9]  
+Table 2 Earth-based telescope spectral reflectance data used to distinguish lunar basalt types[9]   
+
+<html><body><table><tr><td colspan="5">Table basarttypes</td></tr><tr><td>数值</td><td>UV/VIS 比值</td><td>反射率</td><td>1μm 波段吸收深度</td><td>2 μm 波段吸收深度</td></tr><tr><td>高</td><td>H:高（≥1.05)</td><td>B:亮（≥9.5%）</td><td>S:强（e.g.，MS2）</td><td>P：存在（e.g.，MS2)</td></tr><tr><td></td><td>h：中偏高（1.02~1.05)</td><td>I:中等（8~9.5%）</td><td>G：一般（e.g.，Ap12)</td><td></td></tr><tr><td></td><td>M:中(0.99~1.02)</td><td>D：暗（≤8%）</td><td>W:弱(e.g.， Ap11)</td><td>A：缺失（e.g.，Ap11)</td></tr><tr><td>低</td><td>L：低（≤0.99）</td><td></td><td></td><td>-：未知（e.g.，no data)</td></tr></table></body></html>
+
+图6通过结合4个参数的特征，取字母组合的方式命名所针对的玄武岩类型，如分布面积较广的HDSA类玄武岩、hDSA类玄武岩等。文[9]认为明亮的高地和暗黑的月海之间反射率的差异主要由矿物成分的不同引起，其中月海部分的反射率与其中的镁铁质成分有关，影响最大来源于铁-钛玻璃、单质铁和不透明矿物。在 $1 ~ { \mu \mathrm { m } }$ 波段和 $2 ~ { \mu \mathrm { m } }$ 波段是吸收特征较明显的两个区域。 $1 ~ { \mu \mathrm { m } }$ 波段与 $\mathrm { F e } ^ { 2 + }$ 的配位有关，相关的物质有均质玻璃、辉石、橄榄石和斜长石， $2 ~ \mu \mathrm { m }$ 波段则主要与辉石有关。
+
+文[32]通过对阿波罗登陆点附近的岩石样品及部分特殊区域的地基望远镜观测，确定了几个主要的吸收特征和矿物成分之间的关系，对比研究了阿波罗登陆点附近的采样岩石光谱，反演了其中各单矿物所占的含量。文[26]利用 $1 ~ { \mu \mathrm { m } }$ 和 $2 ~ { \mu \mathrm { m } }$ 波段的位置关系区分不同种类的辉石（单斜辉石和斜方辉石），并发现随着铁离子和钙离子在晶格中数量的增加，特征吸收峰向长波方向移动。这种方法虽然能将两种矿物进行分离，但是受到的影响因素较多。文［33]在研究Aristarchus 地区时，采用以下4个光谱参数对该区玄武岩进行了分类，将该研究区分成3个地块。这4个光谱参数为：（1)红外光谱连续性坡度变化；(2)吸收深度；(3)最小波长；(4)吸收峰半高宽。
+
+# 2.2利用玄武岩物质成分( $\mathrm { T i O } _ { 2 }$ 、FeO 等)进行分类
+
+美国在1967年\~1972年之间完成了6次载人登月飞行，采集了 $3 8 1 . 7 ~ \mathrm { k g }$ 月球样品；同期，前苏联在1970年 $\sim 1 9 7 6$ 年进行了3次无人月球取样返回，获得了 $3 0 0 \mathrm { g }$ 月球样品。通过对采回的月球样品分析发现，从岩石化学上看，玄武岩有20多种不同的类型，与地球玄武岩相比，月球玄武岩含较多的铁，较少的硅和铝，但含量变化都比较大，其中， $\mathrm { T i O } _ { 2 }$ 的含量在 $0 . 5 \mathrm { w t } \% \sim 1 3 \mathrm { w t } \%$ 之间，无论在样品和遥感数据上都有明显表现。许多研究利用这些物质化学成分变化对玄武岩进行分类，如文［34］根据$\mathrm { T i O } _ { 2 }$ 的含量将玄武岩分为高钛玄武岩、低钛玄武岩和极低钛玄武岩，再根据玄武岩的矿物成分( $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 及 ${ \mathrm { K } } _ { 2 } \mathrm { O }$ )等进行次级分类（见表3）。
+
+![](images/575741fd24f83d9888e1bc6dc312dfdd291f92e100ac2cc3afc65fde1825131a.jpg)  
+图6基于地基望远镜划分的月球正面主要玄武岩类型(结合表2中4个参数，分出了13种不同类型， 即图例中的字母组合，不同颜色表明其在地图上的出露范围)[9] Fig.6Major basalt types for the front side of the moon as derived from the current spectral reflectance data. The letters used in unit designation refer to the values of measurable parameters listed in Table 2[9]
+
+表3根据模式矿物成分及其体积分数的月球玄武岩分类  
+Table 3Lunar basalt classification according to mineral composition[34]   
+
+<html><body><table><tr><td>样品</td><td colspan="2">岩石类型</td><td>辉石</td><td>斜长石</td><td>橄榄石</td><td>不透明矿物</td></tr><tr><td>Luna 24</td><td rowspan="6"></td><td>极低钛玄武岩</td><td>60</td><td>34</td><td>4</td><td>2</td></tr><tr><td>Apollo 17</td><td>极低钛玄武岩</td><td>62</td><td>32</td><td>5</td><td>1</td></tr><tr><td>Apollo 12</td><td>橄榄石低钛玄武岩</td><td>54</td><td>19</td><td>20</td><td>7</td></tr><tr><td>Apollo 15</td><td>橄榄石低钛玄武岩</td><td>63</td><td>24</td><td>7</td><td>6</td></tr><tr><td>Apollo 12</td><td>普通辉石低钛玄武岩</td><td>69</td><td>21</td><td>1</td><td>9</td></tr><tr><td>Apollo 15</td><td>普通辉石低钛玄武岩</td><td>62</td><td>34</td><td>1</td><td>4</td></tr><tr><td>Apollo 12</td><td rowspan="4"></td><td>钛铁矿低钛玄武岩</td><td>61</td><td>26</td><td>4</td><td>9</td></tr><tr><td>Apollo 11</td><td>低钾高钛玄武岩</td><td>51</td><td>32</td><td>2</td><td>15</td></tr><tr><td>Apollo 17</td><td>高钛玄武岩</td><td>52</td><td>33</td><td>1</td><td>15</td></tr><tr><td>Apollo 17</td><td>极高钛玄武岩</td><td>48</td><td>23</td><td>5</td><td>24</td></tr><tr><td>Luna 24</td><td colspan="2">高铝低钛玄武岩</td><td>52</td><td></td><td></td><td></td></tr><tr><td>Apollo 14</td><td colspan="2">高铝低钛玄武岩</td><td>54</td><td>41 43</td><td>二</td><td>7 3</td></tr></table></body></html>
+
+除了使用传统岩石化学的方法对玄武岩进行分类外，还可以参考玄武岩的光谱特征，包括采样返回样品在实验室的光谱数据以及月球轨道探测器获取的月表岩石遥感光谱数据。文[18]、文［35-38]就 $\mathrm { T i O } _ { 2 }$ 含量进行过玄武岩的光谱特征分类，各自划分了略有差异的分界值(见图7)。如文[39]将玄武岩分为4类：甚低钛玄武岩 $( < 3 \mathrm { w t } \%$ ）、低钛玄武岩( $3 \mathrm { w t } \% \sim 6 \mathrm { w t } \%$ ）、中钛玄武岩( $6 \mathrm { w t } \% \sim 9 \mathrm { w t } \% )$ 及高钛玄武岩 $\mathrm { ( > 9 w t \% ) }$ 。针对 $\mathrm { T i O } _ { 2 }$ 含量的参数设置玄武岩的类型是比较方便的一种方法，但是单纯从化学指标入手，没有有效的岩石成因指示等，有待加入更丰富的量化指标加强分类的适用性。
+
+![](images/aa9ef5f8e96a4dba106135dc0bae8e8ac6dd08c102747290372d6b26e932b779.jpg)  
+图7依据 $\mathrm { T i O } _ { 2 }$ 含量的月球玄武岩类型划分(依据表底部 $\mathrm { T i } _ { 2 } 0$ 含量，不同的颜色代表不同的玄武岩类型，数据来源采样返回样品在实验室的光谱数据以及月球轨道探测器获取的月表岩石遥感光谱数据。整理自Giguere，2000）[38]
+
+遥感探测器对没有采样区域的钛含量反演发挥了很大的作用。文[40]研究了成熟月壤的紫外、可见光光谱数据，发现随着钛的含量增加，月壤光谱的“红色”程度会随之减弱。一般情况下，月壤光谱“红色”和“蓝色”的变化，可以用其反射光谱紫外和可见光比值定量表达。在此基础上，文[40]总结了 $\mathrm { T i O } _ { 2 }$ 丰度与反射率斜率之间的关系，对月表Ti含量进行了反演。文「41重复了文「40的工作，认为月海区随着钛含量的增加，月壤光谱“红色”减弱的原因是不透明矿物对 $\mathrm { T i O } _ { 2 }$ 的影响。文[42]将这个观点推广到了非月海区。文［43]利用克莱门汀的全球数据作图，发现了两个较为明显的趋势，低反射率值与高反射率值对不同波长反射率的倾向相反（见图8），前者主要为月海区，后者则为高地区域，这说明月海区钛与UV/VIS光谱比值正相关，与反射率负相关，同时证明了文[40]对月海表面的描述：低钛和高钛玄武岩对UV/VIS比值的反应是相同的。在不断改进研究方法和数据来源中， $\mathrm { T i O } _ { 2 }$ 的月表含量反演模型也在不断修改。
+
+![](images/dd2b0140168aaa9d87a9a4b7dc7338eadb83ddd77a207022e257ea178e9c667f.jpg)  
+Fig.7Different classification schemes of lunar basalt classification according to $\mathrm { T i O } _ { 2 }$ values using remote sensing techniques[38]   
+图8月球正面紫外区反射率比值二维直方图(克莱门汀数据)[43]  
+Fig.8UV ratio-reflectance two-dimensional histogram for the nearside of the Moon derived from the Clementine data[43]
+
+文[44]采用主成分分析和多元变量统计相结合的方法，从月壤光谱中提取钛等相关元素。文[45]展示了多种方法推演FeO含量，以及从高地岩石（低铁，低钛)获得FeO 和 $\mathrm { T i O } _ { 2 }$ 的总含量。文[43]对月表高地及月海进行了FeO和 $\mathrm { T i O } _ { 2 }$ 的制图，改进了文[46]从多光谱中提取铁组分的方法，考虑了月壤成熟度的影响、颗粒大小、矿物学、地形的阴影影响以及玻璃的作用。之后，文［47]在此基础上提供了改进的定标方法。除了铁和钛两个元素提取的精度较高，如果需要对别的元素进行提取，仍存有很大的改进余地。通过研究这些元素含量变化及分布的表现，可以揭示玄武岩局部区域的不均一性。
+
+# 2.3利用绕月光谱数据特征参数研究玄武岩岩性的不均一性
+
+近20 年来，美国的克莱门汀（Clementine）、月球勘探者（Lunar Prospector）、欧空局 SMART-1、日本的月亮女神（Kaguya/SELENE）、中国的嫦娥一号（CE-1）、美国的月球勘测轨道飞行器（LunarReconnaissance Orbiter，LRO）、印度的月船一号（Chandrayaan-1）、中国的嫦娥二号（CE-2）和嫦娥三号(CE-3)等月球探测任务，搭载了各类相机、光谱仪等有效载荷对月球表面地形、物质成分、岩石类型等开展了全面探测，积累了丰富的科学数据。
+
+利用钛和铁等元素含量反演得到的信息较单一，相比之下，光谱参数分析可以提供更细微的岩性差异，其中用特征光谱比值进行彩色合成制图，可以有效地消除光照差异、地形影响、传感器的系统误差等带来的亮度变化[48]。文[49]使用Clementine 多光谱数据，用特征波段的光谱比值制作了三通道合成的假彩色图像，可提供单一反射率图像所不能展示的岩性变化。图9展现了此方法的明显优势，左边部分为光谱比值假彩色合成图像( $R = 7 5 0 / 4 1 5 \ \mathrm { n m }$ ， $G = 7 5 0 / 9 5 0 \ \mathrm { n m }$ ， $B = 5 4 1 / 7 5 0 \ \mathrm { n m }$ )，右边部分是全分辨率 $7 5 0 ~ \mathrm { n m }$ 的镜面图像。通过比值法，增强了波段的吸收深度，能在图像中突出由于物质成分而产生的区域性变化。此外，还可以针对不同的研究目的，选用合适的光谱参数，得到特定的显示效果，重点突出所研究物质的空间分布状态。
+
+![](images/41665de17648b87682ceca876e7a6ded0f2e19a7b247952d7a3f3d42b4e57d95.jpg)  
+图9Copernicus 撞击坑局部镜像图。（a）为光谱比值假彩色合成图像；（b）为全分辨率 $7 5 0 \mathrm { n m }$ 的镜面图像[49] Fig.9Part image of Copernicus.For ease of comparison，the color mosaic is presented as a mirror imageof afullresolution750nmof thecrater[49]
+
+除多光谱数据之外，月亮女神、月船一号和嫦娥三号等提供了丰富的高光谱数据，与多光谱数据相比，其具有光谱连续、波段多和光谱分辨率高的特点，使得光谱的表现力更强。文[11]利用印度月船一号搭载的月球矿物制图仪的高光谱数据，研究了区域性火山作用最后阶段的演变情况，利用综合波段深度等光谱参数制作彩色合成图，划分其研究区的岩石单元，得出了研究区岩浆活动的信息。
+
+文「50]等利用月球矿物制图仪获取的数据对雨海地区进行了月海玄武岩单元的划分，结合1000$\mathbf { n m }$ 和 $2 0 0 0 { \mathrm { n m } }$ 等吸收特征，分析了玄武岩的溢流期次，结合不同光谱参数的假彩色合成图(见图10)表现了橄榄石和辉石的变化。其中图10(a)选择的三通道参数对 $1 0 0 0 { \mathrm { n m } }$ 区域进行诊断，重点展现了低钙-高钙辉石和橄榄石的物质分布信息，红-黄色调突出了低钙-高钙辉石的存在，蓝-绿色调则表现橄榄石的分布状况；图10(b)注重于区分 $2 0 0 0 \ \mathrm { n m }$ 附近含钙辉石-含镁辉石(绿-红色调)；图10(c)则突出 $1 0 0 0 \mathrm { n m }$ 和 $2 0 0 0 \mathrm { n m }$ 波段的吸收强度(红-黄绿色调)，结合辉石和橄榄石丰度变化，最终将雨海地区分成了83个不同的玄武岩单元，同时还结合地形等数据，对区域地质进行研究。
+
+![](images/483aaf82e354f0669b27ca9f37d1d629084c91202d39ee26f7225a3ee22d354c.jpg)  
+图10雨海盆地假彩色合成图( $\boldsymbol { \mathrm { M } } ^ { 3 }$ 数据)[50]Fig.10 $\mathbf { M } ^ { 3 }$ color composite image of the Imbrium basin[50]
+
+图 R通道 G通道 B通道 备注$1 0 0 0 { \mathrm { n m } }$ 区域的诊断，尤其是低钙-高钙辉石(红-黄色调)，和橄榄  
+(a) BD950 nm BD1 050 nm BD1 250 nm石(蓝-绿色调)有利于区分含钙辉石-含镁辉石(绿-红色调)，含钙辉石中心波长  
+(b) BD1 900 nm BD2 300 nm R750 nm大于 $2 1 0 0 \mathrm { n m }$ ，含镁辉石则小于 $2 1 0 0 \mathrm { n m }$ （着重区分辉石）突出 $1 0 0 0 { \mathrm { n m } }$ 和 $2 0 0 0 { \mathrm { n m } }$ 波段的吸收强度(红-黄绿色调)，随着辉  
+(c） （204号 $\operatorname { I B D 1 } 0 0 0 \operatorname { n m }$ （204号 $\mathrm { I B D } 2 0 0 0 \mathrm { n m }$ （204 $\mathrm { R } 7 5 0 \mathrm { n m }$ （204石和橄榄石丰度变化而变化
+
+文[51]使用月球矿物制图仪获取的数据在月球正面的Theophilus 陨石坑中央峰发现了富镁的尖晶石，以及空间上连续的不含镁铁质的钙长石，认为这些物质来源于月壳深部。文[16]分析了月球矿物制图仪的高分辨率数据，研究了Goldschmidt撞击坑以及月球北极圈附近的地质状况，详细剖析了月球正面高纬度地区的矿物成分的不均一性，发现其中含低钙辉石的长石质月壤较为常见，并发现了$\mathrm { { \ O H } } / \mathrm { { H } } _ { 2 } \mathrm { { O } }$ 在 ${ 3 0 0 0 } \mathrm { n m }$ 处的诊断吸收特征强度与其寄主物质的矿物学条件有关。文［52]利用 $1 0 0 0 \ \mathrm { n m }$ 和 $2 0 0 0 { \mathrm { n m } }$ 两个波段处镁铁质硅酸盐的光谱参数，计算并绘制Aristarchus 地区5个主要成分区块的矿物分布，进一步验证了该地区地质组成成分及其多样化。
+
+利用光谱数据对玄武岩进行分类时，虽然不同期次、不同成分和结构的玄武岩具有不同的光谱特征，但其光谱特征在演化历史中会受一定的后期改造（如空间风化效应、撞击物质的混染等），故在选择数据时要仔细斟酌，才能用其光谱特征准确表达月表物质的差异。
+
+# 3总结与展望
+
+月球玄武岩记录着早期月球的组分、矿物和化学信息，提供岩浆熔融作用的时空分布记录。研究不同玄武岩地质单元的时代、分布和体积，有助于理解月球演化和内部成分的结构和物质组成。玄武岩的分类研究经历了3个阶段：（1)基于地基望远镜观测光谱数据的玄武岩分类，如文[9]根据4个光谱特征参数（UV/VIS比值、反照率、 $1 ~ { \mu \mathrm { m } }$ 和 $2 ~ { \mu \mathrm { m } }$ 波段吸收深度），将月海玄武岩划分为13类和3种其它火山活动类型；（2)利用玄武岩物质成分(TiO2、FeO等)分类，如文[38]等把月海玄武岩分为高钛玄武岩、低钛玄武岩、极低钛玄武岩。（3)利用绕月光谱数据特征参数进行的玄武岩岩性不均一性研究，如文[50]等利用印度月船一号搭载的月球矿物制图仪的高光谱数据，采用综合波段深度等光谱参数，将雨海地区分成了83个不同的地质单元。
+
+但是，目前这些玄武岩分类研究成果中还存在许多不足之处，主要表现在：（1)利用高光谱数据进行局部区域精细划分研究的成果较少，而许多应用研究和软着陆探测任务需要了解试验区精细的玄武岩划分类型；（2)光谱数据及光谱参数的选择对分类结果的影响较大，存在不确定性，需要对基于光谱数据的分类方法进一步优化；（3）玄武岩分类的过程中与其他数据（如元素探测数据、高程数据等)的综合研究有待加强。不过，由于探测技术的进步，玄武岩的研究正在受到越来越多的关注。近20年来，美国、日本、印度、中国等已经获取了全月球范围内的大量光谱数据、元素探测数据、地形数据等，我国嫦娥三号还获取了近月表光谱数据，即将发射的嫦娥五号也将返回近月表和实验室光谱数据，将为玄武岩分类研究提供新的契机，有利于划分出更丰富类型、更精细的玄武岩单元。
+
+# 参考文献：
+
+[1] Hartmann K W,Davis D R. Satellte-sized planetesimals and lunar origin [J]. Icarus，1975,24 (4) : 504-515.   
+[2] Head JW，Adams JB，McCord T B，et al. Regional stratigraphy and geologic history of Mare Crisium [J].Geochmica et Cosmochimica Acta，1978，1:43-74.   
+[3] Heiken G H,Vaniman D T,French B M.Lunar sourcebook:a user's guide to the moon [M]. Cambridge:Cambridge University Press，1991.   
+[4] Snyder G A,Taylor L A,Neal C R.A chemical model for generating the sources of mare basalts : combined equilibrium and fractional crystallization of the lunar magmasphere ［J]. Geochimica et Cosmochimica Acta，1992，56(10）:3809-3823.   
+[5] Jolliff B L，Wieczorek M A，Shearer C K，et al. New views of the moon ［J].Reviews in Mineralogy and Geochemistry，2006，60：221-364.   
+[6] Crawford I A. Lunar resources: a review [J]. Progress in Physical Geography， 2O15，39(2）: 137-167.   
+[7] Burns R G.Mineralogical applications of crystal field theory[M].UK：Cambridge University Press，1993.   
+[8] Bell P M,Mao H K.Optical and chemical analysis of iron in Luna 2O plagioclase [J]. Geochimica et Cosmochimica Acta，1973，37(4) : 755-759.   
+[9] Pieters C M.Mare basalt types on the front side of the moon-a summary of spectral reflectance data［C]// Lunar and Planetary Science Conference.1978：2825-2849.   
+[10] Adams JB，Goullaud L H.Plagioclase feldspars-visible and near infrared diffuse reflectance spectra as applied to remote sensing [C]// Lunar and Planetary Science Conference.1978:   
+[11] Staid M I，Pieters C M，Besse S，et al. The mineralogy of late stage lunar volcanism as observed by the Moon Mineralogy Mapper on Chandrayaan-1 ［J]. Journal of Geophysical Research:Planets，2011，116(E6）:E00G10-1-E00G10-15.   
+[12] Pieters C M，Besse S，Boardman J，et al. Mg-spinel lithology: a new rock type on the lunar farside[J]. Journal of Geophysical Research : Planets，2011,116(E6): E00G08-1-E00G08 -14.   
+[13] Pieters C M. Strength of mineral absorption features in the transmited component of nearinfrared reflected light: first results from RELAB [J]. Journal of Geophysical Research: Solid Earth，1983，88（B11）:9534-9544.   
+[14] Singer R B,McCord T B, Clark R N,et al. Mars surface composition from reflectance spectroscopy : a summary [J]. Journal of Geophysical Research: Solid Earth，1979,84(B14）: 8415-8426.   
+[15] Staid MI,Pieters C M,Iii JW H. Mare Tranquilitatis: basalt emplacement history and relation to lunar samples ［J]. Journal of Geophysical Research:Planets，1996，101（E10）： 23213- 23228.   
+[16] Cheek L C,Hanna K L D,Pieters C M,et al. The distribution and purity of anorthosite across the Orientale basin:new perspectives from Moon Mineralogy Mapper data ［J]. Journal of Geophysical Research:Planets，2013，118(9）:1805-1820.   
+[17] Pieters C M,Fischer E M,Rode O,et al. Optical efects of space weathering: the role of the finest fraction[J]. Journal of Geophysical Research：Planets，1993，98（E11）:20817- 20824.   
+[18] Pieters C M，Head JW，Sunshine JM，et al. Crustal diversity of the Moon:compositional analyses of Galileo solid state imaging data [J]. Journal of Geophysical Research: Planets, 1993,98(E9):17127-17148.   
+[19] Yamamoto S，Nakamura R，Matsunaga T,et al. Possible mantle origin of olivine around lunar impact basins detected by SELENE [J].Nature Geoscience，2010,3(8）: 533-536.   
+[20] Isaacson P J,Pieters C M. Detecting a broader lunar magnesian suite with orbital spectroscopy [C]// 39th Lunar and Planetary Science Conference. 2008.   
+[21] Isaacson P J,Pieters C M. Deconvolution of lunar olivine reflectance spectra:implications for remote compositional assessment [J].Icarus，2010,210(1）:8-13.   
+[22] Burns R G，Holsten R D，Hardy R W F.Isolation by crystallization of the Mo-Fe protein of Azotobacter nitrogenase [J].Biochemical and Biophysical Research Communications，1970, 39(1) : 90-99.   
+[23] Burns R G，Huggins F E. Cation determinative curves for Mg-Fe-Mn olivines from vibrational spectra[J]. American Mineralogist，1972,57: 967-985.   
+[24] Burns R G. The polarized spectra of iron in silicates:olivine.A discussion of neglected contributions from $\mathrm { F e } ^ { 2 + }$ ions in M（1） sites [J]. American Mineralogist，1974,59:625-629.   
+[25] 路凤香，桑隆康.岩石学［M].北京：地质出版社，2002.   
+[26] Adams J B. Visibel and near-infrared diffuse reflectance spectra of pyroxenes as applied to remote sensing of solid objects in the solar-system [J]. Journal of Geophysical Research, 1974，79(32): 4829-4836.   
+[27] Hazen R M，Mao H K,Bell P M,et al. Effcts of compositional variation on absorption spectra of lunar pyroxenes [C]// Lunar Science Conference.1978：1081-1090.   
+[28] Cloutis A E，Gaffey M J. Pyroxene spectroscopy revisited: spectral-compositional correlations anu eiauonsnp to geouer mmeu （E5）:22809-22826.   
+[29] Klima R L，Dyar M D, Pieters C M. Near-infrared spectra of clinopyroxenes: effects of calcium content and crystal structure [J]. Meteoritics & Planetary Sciencem，2011,46(3）: 379-395.   
+[30] Klima R L,Pieters C M,Dyar M D.Spectroscopy of synthetic Mg-Fe pyroxenes I: spin-allowed and spin-forbidden crystal field bands in the visible and near-infrared ［J].Meteoritics & Planetary Science，2007，42(2）:235-253.   
+[31] Sidran M. Thermoluminescence of the Moon [J]. Journal of Geophysical Research，1968，73 (16): 5195-5206.   
+[32] McCord TB,Clark R N，Mcfadden L A,et al. Moon: near-infrared spectral reflectance，a first good look [J]. Journal of Geophysical Research: Solid Earth，1981,86(B11）: 10883-10892.   
+[33] Lucey P G，Hawke B R,Pieters C M,et al. A compositional study of the Aristarchus region of the Moon using near-infrared reflectance spectroscopy [J]. Journal of Geophysical Research: Solid Earth，1986，91(B4) :344-354.   
+[34] 欧阳自远.天体化学［M].北京：科学出版社，1988.   
+[35] Papike JJ,Hodges F N，Bence A E，et al. Mare basalts:crystal chemistry，mineralogy，and petrology [J]. Reviews of Geophysics and Space Physics，1976，14(4） : 475-540.   
+[36] Johnson T V,Saunders R S,Matson D L,et al.A TiO2 abundance map for the northern maria [C]//Lunar Science Conference.1977:1029-1036.   
+[37] Davis Jr P A. Iron and titanium distribution on the moon from orbital gamma ray spectrometry with implications for crustal evolutionary models [J]. Journal of Geophysical Research: Solid Earth，1980，85（B6): 3209-3224.   
+[38] Giguere T A， Taylor G J,Hawke B R,et al. The titanium contents of lunar mare basalts [J]. Meteoritics & Planetary Science，2000，35(1）:193-200.   
+[39] Melendrez D E，Johnson JR，Larson S M,et al. Remote sensing of potential lunar resources : 2. high spatial resolution mapping of spectral reflectance ratios and implications for nearside mare TiO2 content ［J]. Journal of Geophysical Research:Planets，1994，99（E3）： 5601- 5619.   
+[40] Charette M P，McCord T B，Pieters C，et al. Application of remote spectral reflectance measurements to lunar geology classfication and determination of titanium content of lunar soils [J]. Journal of Geophysical Research，1974，79(11） :1605-1613.   
+[41] Wells E，Hapke B.Lunar soil: iron and titanium bands in the glass fraction [J]. Science, 1977,195(4282) : 977-979.   
+[42] Lucey P G,Blewett D T,Johnson JR，et al.Lunar titanium content from UV-VIS measurements [J].Lunar and Planetary Science，1996,27:781-782.   
+[43] Lucey P G,Blewett D T,Hawke B R. Mapping the FeO and $\mathrm { T i O } _ { 2 }$ content of the lunar surface with multispectral imagery [J]. Journal of Geophysical Research: Planets，1998，103（E2）: 3679-3699.   
+[44] Johnson JR,Larson S M, Singer R B. Remote sensing of potential lunar resources: 1. near-side compositional properties ［J]. Journal of Geophysical Research：Planets，1991，96（E3）: 18861-18882.   
+[45] Fischer E M,Pieters C M. Remote determination of exposure degree and iron concentration of lunar soils using VIS-NIR spectroscopic methods [J]. Icarus，1994，111(2）: 475-488.   
+[46] Lucey P G，Taylor G J，Malaret E.Abundance and distribution of iron on the Moon [J]. Science，1995，268(5214):1150-1153.   
+[47] Blewett D T，Lucey $\mathrm { ~ P ~ G ~ }$ ，Hawke B R，et al. Clementine images of the lunar sample-return stations:refinement of FeO and $\mathrm { T i O } _ { 2 }$ mapping techniques [J]. Journal of Geophysical Research:Planets，1997，102(E7）:16319-16325.   
+[48] Fischer M E，Pieters C M. Composition and exposure age of the Apollo 16 cayley and descartes regions from Clementine data: normalizing the optical efects of space weathering [J]. Journal of Geophysical Research:Planets，1996，101(E1）:2225-2234.   
+[49] Pieters C M,Staid MI,Fischer E M,et al.A sharper view of impact craters from Clementine data[J]. Science，1994，266(5192）:1844-1848.   
+[50] Thiessen F，Besse S,Staid M I,et al. Mapping lunar mare basalt units in mare Imbrium as observed with the Moon Mineralogy Mapper（ $\mathbf { M } ^ { 3 }$ ）［J].Planetary and Space Science，2014, 104: 244-252.   
+[51] Dhingra D,Pieters C M，Boardman $\textbf { J } \mathbb { W }$ ，et al.Compositional diversity at Theophilus crater: understanding the geological context of Mg-spinel bearing central peaks ［J]. Geophysical Research Letters，2011，38(11） : 467-475.   
+[52] Mustard JF，Pieters C M,Isaacson P J,et al. Compositional diversity and geologic insights of the Aristarchus crater from Moon Mineralogy Mapper data ［J].Journal of Geophysical Research：Planets，2011，116(5):1-12.
+
+# Review on Lunar Basalt Classification Based on Remote Sensing Data
+
+Cai Tingni $^ { 1 , 2 , 3 }$ ， Li Chunlai $^ { 1 , 2 }$ ，Ren Xin $^ { 1 , 2 }$ ，Liu Jianjun1,²,Liu Bin $^ { 1 , 2 }$ ，Liu Dawei $^ { 1 , 2 }$ ， Xu Xuesen $^ { 1 , 2 , 3 }$ (1.National Astronomical Observatories，Chinese Academyof Sciences，Beijing10ool2,China,Email；caitn@nao.cas.cn； 2.KeyLaboratoryof Lunarand Deep Space Exploration，NationalAstronomical Observatories，Chinese Academyof Sciences, Beijing 100012,China；3.University of Chinese Academy of Sciences，Beijing 10o049,China)
+
+Abstract:Lunar basalts are one important type of lunar rocks，covering $\sim 1 7 \%$ of the lunar surface and mainlydistributed in large flat basins in lunar near-side.Theyare considered to beoriginated from the lunar mantle deposits which result from early lunar magma ocean differentiation. Lunar basalts underwent less large impact disturbances and are relatively young，preserving early information of lunar volcanism. Diferent basalt geological units can provide temporal and spatial distribution records of lunar mantle melting，help to understand theevolution historyof thelunar mantleand its composition，and is worthyoffurther research.This paper first presents some pioneering work of lunar basalts detection，and then describes the structure, chemical composition and spectral characteristics of major mineralsof lunar basalt.Finally，diferent lunar basalt clasifications based on remote sensing data are introduced.The method，results and inadequacy of each type of classification are also summed up.
+
+Key words:Lunar basalt；Remote sensing；Basalt classification

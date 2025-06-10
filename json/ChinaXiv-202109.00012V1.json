@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "Spatiotemporal variations of evapotranspiration and reference crop water requirement over 1957-2016 in Iran based on CRU TS gridded dataset ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Brian COLLINS1, Hadi RAMEZANI ETEDALI\\*,Ameneh TAVAKOL³,Abbas KAVIANI² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Collge of Science and Engineering,James Cook University, Townsville, QLD 4811,Australia;   \n2 Department of Water Sciences and Enginering,Imam Khomeini International University,Qazvin 34148,Iran;   \n3 Biological and Agricultural Engineering,Kansas State University,Manhattn, KS 66506,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Agriculture needs to produce more food to feed the growing population in the $2 1 ^ { \\mathrm { s t } }$ century. It makes the reference crop water requirement (WREQ) a major challenge especially in regions with limited water and high water demand. Iran, with large climatic variability, is experiencing a serious water crisis due to limited water resources and inefficient agriculture. In order to overcome the issue of uneven distribution of weather stations, gridded Climatic Research Unit (CRU) data was applied to analyze the changes in potential evapotranspiration (PET), efective precipitation (EFFPRE) and WREQ. Validation of data using in situ observation showed an acceptable performance of CRU in Iran. Changes in PET, EFFPRE and WREQ were analyzed in two 30-a periods 1957-1986 and 1987-2016. Comparing two periods showed an increase in PET and WREQ in regions extended from the southwest to northeast and a decrease in the southeast, more significant in summer and spring. However, EFFPRE decreased in the southeast, northeast,and northwest, especialy in winter and spring. Analysis of annual trends revealed an upward trend in PET ( $1 4 . 3 2 ~ \\mathrm { m m }$ /decade) and WREQ( $2 5 . 5 0 \\ \\mathrm { m m }$ /decade),but a downward trend in EFFPRE( $- 1 1 . 8 ~ \\mathrm { m m }$ /decade) over the second period. Changes in PET, EFFPRE and WREQ in winter have the impact on the annual trend. Among climate variables, WREQ showed a significant correlation $_ { ( r = 0 . 5 9 ) }$ with minimum temperature. The increase in WREQ and decrease in EFFPRE would exacerbate the agricultural water crisis in Iran. With allchanges in PET and WREQ,immediate actions are needed to address the challenges in agriculture and adapt to the changing climate. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: evapotranspiration; reference crop water requirement; effective precipitation; trend; Iran; spatiotemporal change; CRU TS data ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "According to the Food and Agricultural Organization (FAO)，more than $30 \\%$ of the world's population depends on agriculture for livelihood in 2O11. Water resources and land are necessary requirements for agriculture. Considering high demand for irrigation and water scarcity， water management and water conservation become very important. In 1977,FAO developed a guideline to calculate the reference crop water requirement (WREQ） that was defined as the required water ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "O meet the consumed water by plants and compensate evapotranspiration (ET). The WREQ is lighly dependent on ET and effective precipitation (EFFPRE). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ET,i.e.， the sum of evaporation from canopy interception, bare soil evaporation and transpiration from vegetation, is a major component of water, energy and carbon cycle balance (Seneviratne et al.，201O). Global land ET returns about $60 \\%$ of land precipitation into the atmosphere (Oki and Kanae, 2006). Besides,a complete space-time ET knowledge is critical for estimating the agricultural water requirement, as the world's largest water user (Beyazgul et al., 2000; Hobbins et al.,2004; Xu et al.,2006; Burn and Hesch,2007; Bouwer et al.,2008; Zhang et al.，2010；Liang et al.，2010；Espadafor et al.，2011； Sadeghi et al.，2015). Potential evapotranspiration (PET） is simply defined as the rate that ET occurs while the surface is well-supplied with water. Penman-Monteith (Allen et al.，1998) is a commonly used PET estimator with two variants equations for open water surface and idealized reference crop.Both equations calculate the PET based on the net radiation at the surface $( R _ { n } )$ ，maximum and minimum temperature, wind speed and relative humidity (Allen et al.，1998).Any changes in individual climate variables would change the PET (Vicente-Serrano et al.，2O14).Wu et al. (2019）analyzed the spatiotemporal variation in irrigation water requirement for wheat using effective precipitation and crop evapotranspiration. They calculated the irrigation water requirement which is different from the crop water requirement, which highly depends on the availability of meteorological data. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Intergovernmental Panel on Climate Change (IPCC） reported changes in surface solar radiation, temperature, humidity and precipitation (Hartmann et al.,2013). Observational analysis using diverse measures suggested a drying of Earth's land in recent decades (Feng and Fu, 2013; McCabe and Wolock, 2015; Sheffield et al.,2012), consistent with precipitation and PET increase (Feng and Fu,2Ol3；Fu and Feng,2O14） and inconsistent with pan evaporation decrease (Roderick et al.,2015). A ubiquitous rise of estimated PET, driven by global warming (Scheff and Frierson, 2014),underlies the drying trends (Dai, 2011; Fu and Feng,2014; Pravalie,2016; Pravalie and Bandoc,2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PET is expected to increase directly as a result of surface heating (Trenberth et al.,2013), previous studies have analyzed the changes of ET globally and regionally. Globally an increase of PET anomalies has been reported from 1982 to 2013 (Zhang et al., 2015). The global trend of PET was significantly positive in the northeast and northwest of the United States,southern Africa, western Asia and coastal regions of Australia (Jung et al.,2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition to global studies (Zhang et al., 2015; Zhang et al.,2016), the regional changes of evaporation have been analyzed in many countries such as United States (Walter et al., 2004; Irmak et al., 2012), China (Thomas, 2000; Wang et al., 2007; Zhang et al.,2007; Song et al., 2009), India (Chattopadhyay and Hulme,1997; Bandyopadhyay et al., 20o9), Romania (Pravalie and Bandoc,2015; Pravalie et al., 2019,202O)and Iran (Tabari et al.,2011; Shadmani et al, 2012; Tabari et al., 2012; Talaee et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous studies associated the increase of PET to the relative humidity increase and solar radiation decrease (Chattopadhyay and Hulme 1997)，an increase of temperature and solar radiation, and a decrease of relative humidity (Espadafor et al., 2O11,Madhu et al.，2015). However, some studies found a decrease in PET in China that was associated with a significant negative trend of solar radiation and wind speed (Xu et al., 2006). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A reliable analysis of PET requires accessible meteorological data which are not easily accessible especially in developing countries (Sherwood and Huber,2O10; Eyshi Rezaei et al., 2015; Lobell et al.,2015; Zheng et al.,2012,2015; Webber et al., 2017,2018). Dinpashoh et al. (2011) obtained data for 16 stations in Iran and analyzed the changes of PET in 1965-2005. The changes did not show any specific pattern which can be explained by the low number of data. Wind speed was the most important parameter influencing PET (Dinpashoh et al.，2011). Analyzing PET in the western regions of Iran showed a positive trend in the majority of stations because of the increase of temperature during the study period (Tabari et al., 2O11). The 41-a (1965-2005) data were obtained from 11 stations to study the changes of PET in arid regions of Iran(Shadmanietal.， 2012). Limitedaccesstolong-term, quality-controlledand spatially-distributed data encourage applying the gridded global/regional datasets as promising alternatives to in situ observations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition to PET, EFFPRE is another important parameter to calculate the WREQ. In definition, EFFPRE is the amount of rainfall that is actually added to the soil and can be used by plants.The EFFPRE does not include the parts of rainfall that flow over soil (runoff) and percolates below the root zone (deep percolation) of plants (Dastane,1974). Parameters including climate, depth of the root zone, soil structure, initial soil moisture content, topography and soil texture influence the EFFPRE (Brouwer and Heibloem,1986).EFFPRE is a crucial factor when designing and operating irrigation systems and can be calculated based on different methods (Dastane,1974； Brouwer and Heibloem，1986; Patwardhan et al.，1990) depending on the simplification of the hydrologic cycle. EFFPRE has been calculated for diverse applications using different data (Karamouz et al., 2004; Sanaee-Jahromi et al., 20oo; Kashani et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Agriculture plays a significant role in Iran's economy. Agriculture is the major source of food and contributes an average of $20 \\%$ to the gross domestic product.It provides one-third of the country's jobs and $90 \\%$ of agricultural raw materials and accounts for half of the total non-oil exports. Considering the limited source of water in most parts of Iran, most regions have always suffered from an inefficient agricultural system that relies highly on irrigation (Nattagh,1986). How PET, EFFPRE and WREQ are changing over time in a changing climate, would seriously impact Iran's economy. Here,the interest was to calculate the EFFPRE with complete spatial coverage and analyze the changes of EFFPRE over time. Considering the limited data access in Iran, 30-a meteorological parameters were obtained from the Climatic Research Unit gridded Time Series (CRU TS) dataset to investigate spatial changes of ET, EFFPRE and WREQ over time. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Iran, located in southwest Asia, is a mostly mountainous country with a topography ranging from $- 2 8 \\textrm { m }$ (on the southern coast of the Caspian Sea) to $5 6 7 1 \\mathrm { ~ m ~ }$ (in Mount Damavand). With an area of $1 . 6 { \\times } \\mathrm { i } 0 ^ { 6 } \\ \\mathrm { k m } ^ { 2 }$ , Iran is the second-largest and the second most populated country in the Middle East.The climate of the country is highly influenced by two major mountain chains in the north (Alborz) and West (Zagros),the Caspian Sea in the north,and the Oman Sea and Persian Gulf in the south. Iran has a diverse climate from arid $( 6 5 \\% )$ and semi-arid $( 2 0 \\% )$ to humid and semi-humid $( 1 5 \\% )$ climate (Madani, 2014; Khalili et al., 2016). January and July are the coldest and hottest months of a year with temperatures ranging $- 6 ^ { \\circ } \\mathrm { C } - 2 1 ^ { \\circ } \\mathrm { C }$ and $1 9 ^ { \\circ } \\mathrm { C } { - } 3 9 ^ { \\circ } \\mathrm { C }$ ,respectively (Madani, 2O14).Diverse weather systems are discovered in Iran. In the northwest, cold winters with heavy snowfall are expected in December and January and the weather is relatively mild during spring and autumn. However, in the south and southeast, moderate winters and hot-humid summers are expected (Saboohi et al., 2O12). Precipitation is highly variable in space and time (Raziei et al., 2012, 2014). Annual precipitation ranges from $5 0 ~ \\mathrm { m m }$ in deserts of central Iran to $1 0 0 0 \\ \\mathrm { m m }$ in the southern coasts of the Caspian Sea (Madani, 2014, Raziei et al., 2014). About $70 \\%$ of the precipitation falls between November and March (Raziei et al., 2Oo5) over only $2 5 \\%$ of the region (Madani, 2014). The annual mean minimum temperature (TMN) and maximum temperature (TMX),and annual total precipitation in two 30-year periods of 1957-1986 and 1987-2016 are showed in Figure 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Almost $3 . 7 { \\times } 1 0 ^ { 5 } \\ \\mathrm { k m } ^ { 2 }$ of the countries surface area are arable lands (Abbaspour et al., 2009) including $1 . 9 { \\times } 1 0 ^ { 5 } \\mathrm { k m } ^ { 2 }$ devoted to field crop and horticulture (Keshavarz et al., 2Oo5). More than half of the lands $( 1 . 0 { \\times } 1 0 ^ { 5 } \\ \\mathrm { k m } ^ { 2 } )$ are rain-fed and the rest are irrigated applying traditional or modern techniques (Keshavarz et al.,20o5). Only $5 \\%$ of irrigated lands in Iran are under pressured irrigation and the average irrigation efficiency is $3 5 \\%$ (Madani et al., 2014). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The CRU TS 4.01 dataset (Harrs et al., 2014) has been developed by the UK's Natural Environment Research Council (NERC) and the US Department of Energy to build a global climatic database. The well-tested, popular and publicly available gridded data contains information for 10 different climate variables,interpolated from 50oo stations in 1901-2016. Spatially, data covers the entire globe between $6 0 ^ { \\circ } \\mathrm { S }$ and $8 0 ^ { \\circ } \\mathrm { N }$ (excluding Antarctica) ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf5971e0a100232ea83c7d5510000581b10cb8426c3518627732769bf43f0bb6.jpg",
+        "img_caption": [
+            "Fig.1Annual mean minimum temperature (TMN), maximum temperature (TMX),and total precipitation (PRE) in two 30-year periods of 1957-1986 and 1987-2016.The panelon the right shows the difference between the two periods. Grid-cels with non-significant changes ( $90 \\%$ confidence level) are shown in grey. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "at $0 . 5 ^ { \\circ }$ resolution.Harris et al. (2014) compared the CRU TS dataset with other similar gridded datasets and showed a significant agreement between datasets and sparse observations. Previous studies validated the CRU dataset especially for trend analysis (Harris et al.,2O14; Shi et al., 2017).Mean monthly temperature and PET,and the monthly total precipitation was obtained for 675 grid-cels for 1957-2016 in Iran (Fig.2). PET has been calculated from Penman-Monteith equations using gridded temperature,vapor pressure and cloud cover data (Harris et al., 2014). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Definitions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EFFPRE in this study is estimated based on the average of the United States Department of Agriculture (USDA,Eq. 1) and FAO (Eq.2) methods which have been validated previously for Iran (Rahimi et al., 2013). Both methods simplified the water balance into just using precipitation when calculating the EFFPRE. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { E F F P R E } } = { \\left\\{ \\begin{array} { l l } { { \\frac { P \\times ( 1 2 5 . 0 . 2 \\times P ) } { 1 2 5 } } } & { P < 2 5 0 { \\mathrm { ~ m m } } } \\\\ { 1 2 5 + 0 . 1 P } & { P > 2 5 0 { \\mathrm { ~ m m } } } \\end{array} \\right. } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E F F P R E } = \\left\\{ 0 . 6 P _ { m } - 1 0 \\quad P _ { m } \\leq 7 0 \\mathrm { m m }  _ { \\mathrm { m } } \\right. ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $P$ and $\\boldsymbol { P _ { m } }$ are the annual and monthly precipitation (mm), respectively. Once the EFFPRE is calculated, the WREQ would be calculated based on the difference between PET and EFFPRE. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/16f0bf9edb31d017775e03d60549c981f5fdf1cc55ef58eb5f8db21d4859a3e9.jpg",
+        "img_caption": [
+            "Fig.2Selected grid-cells from the CRU TS(Climatic Research Unit gridded Time Series）dataset and 14 stations used to validate the dataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistical test ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Two different sets of statistical methods were used in this study. First, linear parametric Pearson correlation $( r )$ and root mean square error (RMSE) were used to validate the CRU TS data in Iran. These methods have been widely used to validate diverse sets of data worldwide (Entekhabi et al., 2010；Tavakol et al.， 2019). Second, the ranked-based， non-parametric and distribution-free Mann-Kendall (MK) test (Mann,1945; Kendall, 1975) has been used to analyze the temporal monotonic trend of variables. Besides,the trend Free Pre-whitening(TFPW） procedure was applied to remove the effect of serial correlation (Yue et al., 2002). The R package 'zyp' was used to carry out the test (Bronaugh and Werner, 2Ol5). The confidence level for the tests was $90 \\%$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Validation of CRU TS data using in situ observations ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Considering the importance of temperature and precipitation on both PET and EFFPRE,the accuracy of CRU TS data was evaluated against observed data obtained from 14 selected stations for 1951-2016.For monthly temperature (Fig. 3), the average $R ^ { 2 }$ and RMSE between CRU TS and observed data are $0 . 9 7 \\ ^ { \\circ } \\mathrm { C } /$ decade and $2 . 1 7 ^ { \\circ } \\mathrm { C } /$ decade, respectively. Except for Anzali station, other stations showed acceptable results. For monthly precipitation (Fig. 4), the average $R ^ { 2 }$ and RMSE between CRU TS and observed data are 0.85 and $1 0 . 7 1 ~ \\mathrm { \\ m m } / \\$ decade，respectively, excluding the Anzali station. The results of this validation confirmed the findings of the previous study on the acceptable performance of CRU TS data in Iran (Miri et al., 2016). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Due to the attempt of this study to analyze the trend over time,the accuracy of the trend estimated by CRU TS data was validated before and after l987, separately (Fig. 5). The performance of CRU TS precipitation data in estimating the trend was improved for the period before 1987 (RMSE, $3 . 2 3 \\ \\mathrm { m m / d e c a d e } )$ to the period after 1987 (RMSE,2.27 mm/decade). For monthly temperature data, the same improvement was found in estimating the trend before (RMSE, $0 . 5 \\bar { 6 } ^ { \\circ } \\mathrm { C } ,$ /decade) and after 1987 (RMSE， $0 . 1 8 ^ { \\circ } \\mathrm { C } /$ decade). CRU TS data showed acceptable results calculating the trend for both precipitation and temperature,except in the Caspian coast in the north. Overall,the CRU TS data showed a beter performance in the recent 30-a period which can be explained by the increase in the number of observed stations as well as the data quality (Harris et al., 2014). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "41 (a) Ahvaz 33- (b) Anzali 41- (c) BandarAbbas 34- 26- 35 27- 19- 29- 20- 12- 23- 车 强 13- y=0.90x+1.6 5- y=1.23x-3.1 17 y=1.02x-2.1 R²=0.98 ? R²=0.96 R²=0.96 6 RMSE=1.8 -2 ： RMSE=2.4 11 RMSE=2.1 6 13202734 41 -25 12 1926 33 111723293541 39- (d) Boushehr 34- (e)Esfahan 31- (f) Kerman 33- 26- 24- ： 27 18- 17 T 21- 10- 10- 众 15- y=1.01x+0.0 2- y=0.98x-0.7 3- y=0.93x-1.1 R²=1.00 r R²=1.00 ： R²=0.98 9 RMSE=0.7 -6 ！ RMSE=1.3 4 RMSE=2.6 9 1521273339 -6210 1826 34 -4 10172431 34(g) Kermanshah 31 (h) Qazvin 38- (i) Qom eeeeer 25 23- 茶 29- ★ 16 15- 20- 7 7 11- -2- y=0.96x-2.6 -1- y=0.99x-1.1 2- 圣 y=0.95x+0.7 R²=1.00 R²=0.98 R²=0.98 :1 · -11 RMSE=3.3 -9- RMSE=1.9 -7 RMSE=1.3 -11-271625 34 -9 -1 7 1523 31 -7 2 11202938 34- (i) Shiraz 31 (k) Tabriz 37- (l) Tehran 27- 22- ? 28- 20- 13- 19- 13- 4 10- 6- 山 y=0.94x-0.6 R²=1.00 -5- 云睿 y=0.99x-1.7 R²=1.00 1 y=0.99x-4.0 R²=1.00 -1 RMSE=1.8 -14 RMSE=2.0 -8 ： RMSE=4.1 -1613202734 -14-54 132231 -8 1 10192837 28(m) Urmia 35 (n) Zahedan 41 (o) All 20- 28- 30- 12- 21- 19- 4- 14- 8- -4- Y y=0.94x-0.6 R²=1.00 7 y=0.95x+0.3 R²=1.00 -3- 湘 y=0.99x-1.2 R²=0.96 -12 RMSE=1.8 0- ： RMSE=1.0 -14 ， RMSE=2.2 -12-44 122028 0 714212835 -14 -38 193041 Observed temperature $( ^ { \\circ } \\mathrm { C } )$ （204 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/13ccbdf9b008d6965ff40bdccd988a908af6a93f6bd07d5f6cb2591e383d3659.jpg",
+        "img_caption": [
+            "Fig.4Relationship between CRU TS data and observed monthly precipitation data in 14 selected stations and all stations.Except for Anzali,most stations showed a good agreement between datasets. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9644f78cbe42932f9fea71643c558bfedb3956756cd1873a721d333dd1d9e9ea.jpg",
+        "img_caption": [
+            "Fig.5Relationship between trends calculated from CRU TS and observed monthly precipitation (left)and temperature (right) data before and after 1987.Acc,accuracy; Decr,decrease; Incr, increase. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 Changes in long-term averages ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 PET ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the mean annual and seasonal PET in two 30-a periods before and after 1987. North and northeast regions showed no significant diference for annual PET between two periods (the first row in Fig. 6). In the southeast, a decrease was discovered in 1987-20l6 compared to 1957-2016. The decrease was significant in all seasons. However, a significant increase in PET was found in the east, southeast, southwest and central regions of Iran. The highest increase in PET occurred in spring and then summer (Fig. 6). However, the changes in PET were not significant in these regions in winter. Monthly analysis of PET value showed the highest values of PET in June, July and August. Spatially, the highest PET was recorded in the east and west during these months. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 EFFPRE ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The mean annual and seasonal EFFPRE in two 30-a periods are presented in Figure 7. Overall, the arid and semi-arid regions of Iran are surrounded by major mountain chains that extend from central to the southwest. These regions had the lowest values of EFFPRE. However, Zagros Mountains extending from west and northwest to southwest showed the highest EFFPRE. Annually, most regions showed non-significant change and the regions with significant decrease were in the northwest，northeast， and southeast (Fig.7). Seasonally， the highest and lowest EFFPRE were found in winter and summer, respectively. The difference between the two periods is non-significant in summer and autumn. In spring and winter, the decrease occurred in the southeast, northwest and northeast (Fig. 7). Agriculture is a very important sector of the economy in these three regions. Normally, Iran receives the least precipitation in summer and any change of EFFPRE in summer has no significant influence on agriculture. However,the decrease of EFFPRE in winter and spring in the northeast, northwest and southeast has a crucial negative influence on the crop yields especially for rainfed crops and autumn-planted grains. In the northwest, the grains such as wheat and barley are mainly planted in November for early summer harvest in June after receiving winter precipitation. Legumes including lentils and peas are also planted in March to be harvested in summer. In the southeast, most plants are planted in March to benefit the spring and winter precipitation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 WREQ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WREQ has been calculated based on the difference between PET and EFFPRE.The spatial mean annual and seasonal WREQ almost follow the same pattern of PET. Mean 30-a values of WREQ increase from the northwest to southeast for both periods.Annually,an increase was found in the south,east and northeast during 1987-2016 compared to 1957-1987 (Fig. 8). Seasonally, the highest increase in WREQ happened in spring and then summer. However, a decrease in WREQ was found in the southeast in summer. The increase of WREQ in summer and spring can be explained by the increase of PET in the same regions. In northeast, EFFPRE played a crucial role in the increase of WREQ, especially in spring. The mean seasonal WREQ is higher in summer in 1987-2016 compared to 1957-1987 in the southeast and northwest due to PET drop.Between April and September, most regions showed very high WREQ, making irrigation necessary. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/dca9fa7988ba197626b7c651ef36fa62584900eb9dcb46588ed2adb338727877.jpg",
+        "img_caption": [
+            "Fig.6Annual (top panel) and seasonal (bottom panel) averages of total potential evapotranspiration (PET) in two 30-year periods of 1957-1986 and 1987-2016.The panel on the right shows the difference between the two periods. Grid-cells with non-significant changes ( $90 \\%$ confidence level) are shown in grey. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cea66320ee060d2e4a8ef8f9f6f461427155497922d0f689d1acc65cae54909.jpg",
+        "img_caption": [
+            "Fig.7Annual (top panel) and seasonal (bottom panel) averages of total effective precipitation (EFFPRE) in two 30-year period of 1957-1986 and 1987-2016.The panel on the right shows the diference between the two periods. Grid-cells with non-significant changes ( $90 \\%$ confidence level) are shown in grey. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The increase of WREQ in arid and semi-arid regions in the center, south, east, and northeast would cause major losses in groundwater storage because of over-pumping in spring and summer. Considering the increase of WREQ in the second 30-a period, discovered mainly in June, July and August, there would be a need for beter management with an efficient irrigation system. No significant increase of WREQ in the second 30-year period in autumn and winter encourages more planting during autumn and winter. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3 Trends ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 PET ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The MK test was used to analyze the trend of annual PET in Iran.In the first period, an upward trend was discovered in the south and southeast (Fig. 9). However, there was a downward trend in the central northeast. In the second period, the trend was mostly positive （ $61 \\%$ significant and $3 8 \\%$ non-significant) in most regions except in areas extended from southwest to northeast. The slope of the trend showed a decrease in the south, but an increase in west, northwest, central northwest and east. Hosseinzadeh et al.(2Ol3) showed an increase of PET in seven stations out of 41 stations during 1966-2005. The stations with significant upward trend were mainly located in the northeast and northwest. Tabari et al. (2O12) discovered an increase in monthly values of PET from January to July and a decreased from August to December for 21 weather stations across the country. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Tabari et al.(2O12) estimated an average trend of $0 . 4 4 ~ \\mathrm { m m / a }$ in annual PET in the last four decades.The value was $70 \\%$ smaller than the value estimated in this study. It can be explained with the different nature of data and diverse study periods.The location of stations in the previous study is not well-distributed in the country and could not cover the northern regions where a significant increase was detected in 1987-2016. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Seasonally, winter showed a considerable difference between the two periods.In 1957-1986, there was a significant negative trend in the northern half of Iran. In 1987-2Ol6,however, the trend was mostly positive in the majority of regions $( 8 9 \\% )$ except the northeast (Fig. 9). Talaee et al. (2014) suggested the most significant trend of PET in winter (1966-2005) considering the magnitude of trend and the frequency of stations with a significant positive trend. The average slope of the positive trend was between 3.17 and $1 4 . 3 2 ~ \\mathrm { m m } / \\$ decade over the first and second $3 0 \\mathrm { - a }$ periods,respectively. The significant trend in spring and summer was mainly positive and mostly discovered in the south, east and southeast. In the autumn, the trend was negative in the west and northwest in the first period. However, in the second period, a large area of northeast $( 2 4 \\% )$ showed a negative trend as well (Fig. 9). Monthly trend analysis of PET showed a significant upward trend in the majority of the area in March, June and January. However, the majority of the area showed a downward trend in November. For other months, the trend was either non-significant or positive. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 EFFPRE ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Annually, the first period(1957-1986) showed an increase（ $1 0 . 6 ~ \\mathrm { m m }$ decade) in the EFFPRE in the Zagros Mountains toward the north. However, the second period showed a decrease in the regions towards west and southwest of the Zagros Mountains, east and central northeast Iran (Fig. 10).No decrease has been recorded in EFFPRE in the first period. In 1987-2016,most areas $( 9 3 \\% )$ showed a significant $( 4 2 \\% )$ and non-significant $( 5 1 \\% )$ negative trend with an average of $1 1 . 8 \\ \\mathrm { m m / a }$ (Fig.1O). The decrease would be explained by the decrease of EFFPRE in winter. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Seasonally, the trend was non-significant for most of the seasons in both periods except for winter and autumn. In winter, the trend was increasing and decreasing in the first and second periods,respectively. The first period showed an upward trend in autumn. Monthly, the trend was significantly negative in a few grid-cels in January, February, March and December. About $60 \\%$ of the region showed an upward trend in EFFPRE in November. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/da34cb84212279058b653bc1b6259e412fc37b5bd95209ebcf1c030994adb252.jpg",
+        "img_caption": [
+            "Fig.8Annual (top panel) and seasonal (bottom panel) averages of water requirement (WREQ) in two 30-year period of 1957-1986 and 1987-2016.The panel on the right shows the difference between the two periods. Grid-cells with non-significant changes ( $90 \\%$ confidence level) are shown in grey. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/106b665c40282edc01fec715dd925bd047bdc1b056d517dcabd74f20203f2c06.jpg",
+        "img_caption": [
+            "Fig.9Temporal trends in annual (top panel) and seasonal (bottom panel) total potential evapotranspiration (PET) in 1957-1986 and 1987-2016.Grey areas show non-significant trends.Panelson the right represent the difference between the slope of trends in two 30-year periods. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e3f5274250f933035432f6f46ef2036e91d14deabb29bf26b747cbf5b252263.jpg",
+        "img_caption": [
+            "Fig.10Temporal trends in annual (top panel） and seasonal (bottm panel） total efctive precipitation (EFFPRE)in 1957-1986and 1987-2016.Grey areas show non-significant trends.Panels on the right represent the difference between the slope of trends in two 3O-year periods. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Gu and Adler (2015） reported a decrease in precipitation in 1979-2012 globally. In Iran, analysis of the NASA GISS Climate Model showed a negative trend ( $( - 2 . 6$ to $- 6 . 5 \\ \\mathrm { m m } / \\mathrm { a }$ ）in 1951-2009 (Raziei et al., 2014b). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 WREQ ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Annually， WREQ was significantly decreased in the west and central northwest and was significantly increased in the south and southeast in the first period (Fig.11). That can be explained by the drop of PET and the rise of EFFPRE at the same time.In the second period, most regions experienced a significant $( 5 8 \\% )$ and non-significant $( 4 0 \\% )$ increase in the WREQ with an average of $2 5 . 5 \\ \\mathrm { m m / d e c a d e }$ . Winter represented the highest difference between the first and second periods. The WREQ was decreasing in the first period and increased in the second period. The trend was mostly upward in spring and summer. However, the trend was mostly decreasing in autumn. The temporal trend of WREQ follows the same pattern of PET in winter, summer,and spring and the same pattern of EFFPRE in autumn. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Spring and summer are the most important agricultural seasons in Iran. Irrigation starts usually in April and continues to September. Results of this study showed an increase in the WREQ in spring and summer in $80 \\%$ and $93 \\%$ of areas, respectively. The WREQ rise is more important in the south and southeast with a significant water crisis.These regions are covered with large-size gardens of citrus, pistachio and dates. People heavily rely on agriculture in these regions, especially in summer. The monthly analysis showed a significant decrease in November and a significant increase in other months. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.4 Correlation analysis ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The spatial correlation between defined variables was tested using the Pearson correlation test. The correlation coefficient changed from $- 0 . 6$ between annual EFFPRE and WREQ to 0.7 between PET and WREQ. As expected the mean annual WREQ increase when PET increases. However, the annual WREQ decrease when the EFFPRE increases. Seasonally, the greatest association between EFFPRE and WREQ was discovered in spring $( r = - 0 . 9 2 )$ ,winter $( r = - 0 . 8 2 )$ and summer $( r = - 0 . 7 3 )$ . In autumn, the correlation between EFFPRE and WREQ was less strong （204号 $( r = - 0 . 4 4 )$ compared to other seasons.However, the association between PET and WREQ was greater in autumn $\\scriptstyle \\left( r = 0 . 6 6 \\right)$ ，spring $( r { = } 0 . 6 4 )$ and winter $( r { = } 0 . 5 8 )$ .Summer showed a lower correlation $\\scriptstyle ( r = 0 . 4 3 )$ between PET and WREQ. Results showed the more significant role of EFFPRE on WREQ in spring, winter and summer. In autumn, PET plays a more important role in WREQ than EFFPRE. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Climate variables including mean temperature, maximum temperature, minimum temperature and precipitation influence PET, EFFPRE and WREQ. Correlation analysis showed a positive correlation between PET and minimum temperature $( r { = } 0 . 5 2 )$ ，mean temperature $( r { = } 0 . 6 3 )$ and maximum temperature $( r { = } 0 . 5 4 )$ . However, a negative relationship was discovered between PET and precipitation ( $\\left( r = - 0 . 5 3 \\right)$ . The same pattern of association was discovered between WREQ and minimum temperature $( r { = } 0 . 5 9 )$ ,mean temperature $\\scriptstyle ( r = 0 . 4 6 )$ ,maximum temperature $( r { = } 0 . 1 5 )$ and precipitation $( r = - 0 . 2 9 )$ .Except for the minimum temperature,the correlation between climate variables and EFFPRE is lower than the correlation between climate variables and PET.Itcan be explained with the significant correlation $\\left( r = \\ - 0 . 5 \\right)$ between minimum temperature and precipitation. The decrease in precipitation in Iran can explain the increase in minimum temperature. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Determination of PET and WREQ is necessary for agricultural water management, especially in arid and semi-arid regions. Changes in climate variables such as temperature, precipitation, wind speed and relative humidity are supposed to change the WREQ. Long-term weather data are required to calculate WREQ in a specific geographical region. Due to limited observation data in Iran, the CRU TS gridded data has been used to investigate the spatiotemporal changes of PET, ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e1b28ae909d38037fa3a0a02fb396eb27131c63dc02d5ec50661f14ed615edb.jpg",
+        "img_caption": [
+            "Fig.11Temporal trends in annual (top panel) and seasonal (botom panel) water requirement （WREQ) in 1957-1986and l987-2016.Grey areas show non-significant trends.Panels on the right represent the difference between the slope of trends in two 30-year periods. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/154f5b7f269251dca3b14e70ce5fd606769fdac79496ff93e98366b11b6fbbe6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "EFFPRE and WREQ. Validation analysis of data showed the acceptable performance of data in all stations except for the Anzali station located in the north. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Results showed a decrease of EFFPRE with an average rate of $1 1 . 8 ~ \\mathrm { m m }$ /decade in the second 30-a period (1987-2016). This confirmed the results of previous studies on the precipitation drop in Iran. An increasing trend in PET( $1 4 . 3 2 \\ \\mathrm { m m / d e c a d e } )$ and WREQ (25.5 mm/decade) was also discovered in the second 3O-a period. The increase was more significant in winter. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In the second period (1987-2016),the increasing trend of PET in winter and especially in March showed a shift in the growing season. The earlier beginning of the growing season is very important for autumn season farming crops including wheat, rapeseed and maize. In addition, a decreasing trend of PET especially in November showed the early beginning of the freezing season in allregions. The shift of growing season may suggest a shift in the cultivation of autumn crop farming toward October before the beginning of the freezing season. For EFFPRE,a shift was seen in the rainfallseason. The rainfall season began earlier in the second period compared to the first period.Results also showed an increase in EFFPRE in November. Shifting the irrigation period to the months with the highest EFFPRE can help water management especially in regions facing a water crisis. Results showed an increase in EFFPRE since March. So, shifting the irrigation to March from April gives enough time for plants to grow before June when the weather is too hot and irrigation consumes much water. Considering the influence of EFFPRE drop in the second period during winter, encourage more management in agriculture. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Agriculture in Iran is completely dependent on irrigation.In Iran, about $90 \\%$ of water resources are used for irrigation. Results showed either a significant or non-significant increase in WREQ in the majority $( 9 8 \\% )$ of areas. The increase of WREQ suggests a probable pressure on groundwater resources for Iran with limited surface water supplies. The significant decrease of groundwater in Iran confirmed the impact of irrigation. Modifying agricultural patterns, using the plants resistant to drought, and more efficient irrigation systems are some suggested strategies to cope with the water crisis in Iran. There is also a need to update the national WREQ for Iran considering the changing climate. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "AbbaspourKC,Faramarzi M,Ghasemi SS,etal.2O09.Assing the impactof climate change on waterresources in Iran. Waterresources research,45(10),doi: https://doi.org/10.1029/2008WR007615   \nAlen R G,PereiraLS,Raes D,etal.1998.Crop evapotranspiration-Guidelines forcomputing crop water requirements-FAO Irigationanddrainagepaper56.Rome:Food and Agriculture Organization of theUnitedNations. http://www.fao.org/docrep/X0490E/X0490E00.htm   \nBandyopadhyayA,BhadraA,RaghuwanshiNS,etal.O9.Temporal rends inestimatesofreferenceevapotranspirationover India.Journal of Hydrologic Engineering,14(5): 508-515.   \nBeyazgul M,Kayam Y,EngelsmanF.2o.Estimation methods forcrop waterrequirements inthe GedizBasinof western Turkey. Journal of Hydrology,229(1-2): 19-26.   \nBouwerLM,Biggs TW,AertsJCJH.2O08.Estimatesof spatialvariationinevaporationusingsatelite-derivedsurface temperature and a water balance model.Hydrological Processes,22(5): 670-682.   \nBrouwerC，Heibloem M.1986.Irrigation Water Management:Irigation Water Needs.Rome:：Food and Agriculture Organization of the United Nations,102.   \nBurnDH,Hesch NM.2007.Trends in evaporation for the CanadianPrairies.Journalof Hydrology,336(1-2):61-73.   \nChattopadhyayN,Hulme M.1997.Evaporationand potential evapotranspiration in Indiaunderconditionsofrecentandfuture climate change.Agricultural and Forest Meteorology,87(1): 55-73.   \nDai A.2011.Drought under global warming: areview.Wiley Interdisciplinary Reviews: Climate Change,2(1): 45-65.   \nDastane NG1974.EffectiveRainfallin Irigated Agriculture.Rome:FoodandAgriculture Organizationofthe United Nations, 62.   \nDinpashohY,JajhariaD,Fakheri-FardA,etal.Ol1.Trendsinreferencecropevapotranspirationover Iran.Jouralof Hydrology,399(3-4):422-433.   \nEntekhabi D,ReichleRH,KosterRD,etal.20l0.Performance metricsforsoil moistureretrievalsandapplication requirements. Journal ofHydrometeorology,11(3): 832-840. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "climate variables during the last 45 years in Southern Spain.Agricultural Water Management, 98(6):1045-1061. Evans J,Geerken R.2Oo4.Discrimination betweenclimateand human-induced dryland degradation.Journalof Arid Environments,57(4): 535-554. Eyshi Rezaei E,Webber H,Gaiser T,etal.2015.Heat stress incereals: Mechanisms and modelling.European Jourmal of Agronomy,64: 98-113. Feng S,Fu Q.2013.Expansionofglobal drylands undera warming climate.Atmospheric ChemistryPhysics,13:14637-14665. http://www.doi.0rg/10.5194/acpd-13-14637-2013 Fu Q,Feng S.2014.Responsesof terestrial ariditytoglobal warming.Journalof Geophysical Research:Atmospheres,19: 7863-7875. Gu G,AdlerRF2015.Spatialpattersof global precipitationchangeandvariabilityduring1901-2010.Jouralof Climate, 28(11): 4431-4453. Harris I,JonesPD,OsbornTJ,etal.214.Updatedhighresolutiongridsofmonthlyclimaticobservations-theCRUT3.10 Dataset. International Journal of Climatology, 34(3): 623-642. Hartmann DL,Tank A MK,RusticuciM,etal.20l3.Observations:Atmosphereand surface.In: Climate change 2013the physical sciencebasis: Working groupIcontribution tothe fifth asessment report of the intergovernmental panelonclimate change.Cambridge: Cambridge University Press,159-254. HobbinsMT,RamirezJA,BrownTC.2O04.Trends inpan evaporationandactual evapotranspirationacrosstheconterminous U S: paradoxical orcomplementary?Geophysical Research Leters'Hydrologyand Land Surface Studies,30(13):L13503, doi: 10.1029/2004GL019846. Hosseinzadeh TP,Shifteh Some'e B,Sobhan Ardakani S.2013.Timetrend andchange point of reference evapotranspiration over Iran. Theoretical and Applied Climatology,116(3-4): 639-647. Irmak S,Kabenge I，SkaggsKE,etal.2012.Trendand magnitudeof changesinclimatevariablesandreference evapotranspiration over116-yr period in the Plate River Basin,central Nebraska-USA.Journal of Hydrology,420-421: 228-244. IPCC (Intergovernmental Panel on Climate Change).2014. Climate Change 2013:The Physical Science Basis.Climate Change 2013:The Physical Science Basis.Contributionof Working GroupItothe Fifth Assessment Reportof the Intergovernmental Panel on Climate Change,doi: 10.1017/CBO9781107415324. Jung M,Reichstein M,CiaisP,etal.2010.Recent declineintheglobal land evapotranspiration trenddueto limited moisture supply.Nature,467: 951-954. Kendall MG.1975.Rank Correlation Methods.London: Griffin,160. Karamouz M,TorabiS,AraghinejadS.o04.Analysisofhydrologicandagricultural droughts incentralpartofran.Jouralof Hydrologic Engineering,9: 402-414. KashaniMH,Ghorbani MA,Dinpashoh Y,etal.2O16.Integrationof Volterr model withartificial neural networks for rainfall-runof simulation in forested catchment of northern Iran. Journal of Hydrology,540: 340-354. Keshavarz A,Ashrafi S,Hydari N,et al.2Oo5.Water allocation and pricing in agriculture ofIran.In:National Research Council Commitee on US-Iranian Workshop on Water Conservation and Recycling.Water Conservation,Reuse，and Recycling: Proceeding of an Iranian American Workshop.Washington: National Academies Pres,153-172. Khalili K,TahoudiMN,MirabbasiR,etal.216.InvestigationofspatialandtemporalvariabilityofprecipitationinIaoer the last half century. Stochastic Environmental Research and Risk Assessment, 30(4): 1205-1221. Liang L,LiL,Liu Q.2010.Temporal variationofreference evapotranspiration during1961-2Oo5 in the Taoer Riverbasinof Northeast China.Agricultural and Forest Meteorology,150(2):298-306. Lobell DB,Hammer GL,Chenu K,etal.2015.The shifting influenceof droughtand heat stressforcrops in northeast Australia. Global Change Biology,21(11): 4115-4127. Madani K.2014.Water managementin Iran:what iscausing thelooming crisis?JournalofEnvironmental Studiesand Sciences, 4(4): 315-328. Madhu S,KumarTVL,Barbosa H.2015.Trendanalysisof evapotranspirationanditsresponse todroughtsoverIndia.Theor Appl Climatol, 121: 41-51. Mann HB.1945.Nonparametric tests against trend.Econometrica: Journal of the Econometric Society,245-259. McCabe G J, Wolock D M.2015.Increasing Northern Hemisphere water deficit. Climatic Change,132: 237-249. MiriM,AziziGKhoshakhlaghF,etal.20l6.Evaluationstatisticallyoftemperatureandprecipitationdatasets withbered data in Iran.Iranian Journal of Watershed Management Science and Engineering,lO(35): 40-50. Nattagh N.1986.Agriculture andregional developmentin Iran.Outwell: MiddleEast and North African Studies Press,12. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "PatwardhanAS,NieberJL,JohnsEL.199o.Efectiverainfallestimationmethods.JournalofIrrigationand Drainage Engineering,116(2): 182-193.   \nPravalieR,BandocG2Ol5.Aridityvariabilityinthe lastfivedecades inthe Dobrogea region,Romania.AridLandResearch and Management, 29(3): 265-287.   \nPravalie R.2016.Drylands extent and environmental isues.A globalapproach.Earth-Science Reviews,161:259-278.   \nPravalieR,Bandoc G.2O19.Cristian Patriche,andTroy Sternberg.Recent changes in global drylands:Evidences from two major aridity databases.Catena,178:209-231.   \nPravalieR,PiticarA,RoscaB,etal.20l9.Spatio-temporalchangesoftheclimatic waterbalance inRomaniaasaresposeto precipitation and reference evapotranspiration trends during 1961-2013. Catena,172:295-312.   \nPravalieR,Sirodoev I,PatricheC,etal.2O20.The impactof climate changeonagricultural productivityinRomania.A country-scale asessment based on the relationship between climatic water balance and maize yields in recent decades. Agricultural Systems,179: 102767,doi: 10.1016/j.agsy.2019.102767.   \nRahimi J,BazafshanJ,KhaliliA.2O13.Acomparativesdyoempiricalmethodsforestimating efectiverainfallforainfed wheat crop in different climates of Iran.Physical Geography Research Quarterly,45(3): 6-8.   \nRaziei T,DaneshkarArasteh P,SaghfianB.2Oo5.Annualrainfalltrend inaridandsemi-arid regionsofIran.In: ICID $2 1 ^ { \\mathrm { s t } }$ （204号 European Regional Conference. Frankfurt (Oder) and Slubice-Germany and Poland.   \nRazieiT,DaryabariJBordiI,tall4apatialpatesandtmporaltredsfprecipiationinIaneoreticaladAppled Climatology, 115(3-4): 531-540.   \nRazieiT,Mofidi A,SantosJA,etal.2Ol2.Spatialpatersandregimesofdailyprecipitationinraninrelationtoarge-scale atmospheric circulation. International Journal of Climatology,32(8): 1226-1237.   \nRoderick M L, Greve P,Farquhar G D.2015.On the assessment of aridity with changes in atmospheric $\\mathrm { C O } _ { 2 }$ .Water Resources Research,51(7): 5450-5463.   \nSaboohiR,Soltani S,Khodagholi M.2O12.Trendanalysisof temperatureparameters in Iran.Theoretical and Applied Climatology, 109(3-4): 529-547.   \nSadeghi S H,PetersTR,Amini MZ,et al.2O15.Novel approach to evaluate the dynamic variationof wind driftand evaporation losses under moving irigation systems. Biosystems Engineering,l35: 44-53.   \nSanaee-Jahromi S,DepewegHFeyenJ.o.WaterdeliveryperformanceintheDoroodzaniigationsheme,Iran.igation and Drainage Systems,14: 207-222.   \nScheff J,Frierson DM.2014.Scaling potential evapotranspiration with greenhouse warming.Journalof Climate,27(4): 1539-1558.   \nSeneviratne SI,CortiT,DavinEL,etal.0l0.Investigatingsoilmoistureclimate interactionsinachangingclimate:review. Earth-Science Reviews,99(3-4):125-161.   \nShadmani M,Marofi S,Roknian M.2012.Trend Analysisin Reference Evapotranspiration Using Mann-Kendall and Spearman's Rho Tests in Arid Regions of Iran. Water Resources Management, 26(1): 211-224.   \nSheffeld J,WoodEF,Roderick ML.2012.Litlechange in global drought over the past60 years.Nature,491(7424): 435-438.   \nSherwood S,Huber M.2010.Anadaptability limit to climate change due to heat stress.PNAS,107(21): 9552-9555.   \nShi H,LiT,Wei J.2017.Evaluationof the griddedCRUTS precipitation dataset with the point raingaugerecordsoverthe Three-River Headwaters Region. Journal of Hydrology, 548: 322-332.   \nSong ZW,ZhangHL,SnyderRL,etal.2l.Distributionandtrends inreferenceevapotranspiration intheNorthChinaPlain. Journal of Irrigation and Drainage Engineering,136(4): 240-247.   \nTabari H,Marofi S,Aeini A,etal.2Ol1.Trendanalysisofreference evapotranspirationinthe western halfofIran.Agricultural and Forest Meteorology,151(2): 128-136.   \nTabari H,Aeini A,Talaee PH,et al.2012.Spatial distributionandtemporal variationof reference evapotranspiration inarid and semi-arid regions of Iran.Hydrological Processes,26(4): 500-512.   \nTalaee P H,Some'e B S,Ardakani S S.2014.Time trend and change point of reference evapotranspiration over Iran. Theoretical and Applied Climatology,116: 639-647.   \nTavakol A,Rahmani V,Quiring S,et al.2019.Evaluationanalysisof NASA SMAPL3andL4and SPoRT-LISsoil moisture data in the United States. Remote Sensing of Environment, 229: 234-246.   \nThomas A.20oo.Spatialandtemporalcharacteristicsofpotentialevapotranspiration trendsover China.International Journalof Climatology,20(4): 381-396.   \nTrenberth KE,DaiA,vander SchrierG,etal.2O13.Global warmingandchanges in drought.NatureClimate Change,4: 17-22.   \nVicente-Serrano SM,Azorin-MolinaC,Sanchez-LorenzoA,etal.2014.Sensitivityofreference evapotranspirationtochanges in meteorological parameters in Spain (1961-2011).Water Resources Research,50(11): 8458-8480.   \nWalterMT,WilksDS,ParlangeJ,etal.2O4.Increasing evapotranspiration fromtheconterminousUnited States.Jouralof Hydrometeorology, 5(3): 405-408.   \nWangY,JiangT,otheO,etal.o7.ChangesofpanvaporatioandreferenceevapotranspirationinteYangteRiverbasin. Theoretical and Applied Climatology, 90(1-2):13-23.   \nWeberH,MartreP,Asseng S,etal.2O17.Canopytemperature forsimulationofheatstressinirigatedwheatinasmi-arid environment: A multi-model comparison. Field Crops Research,202:21-35.   \nWebber H,White JW,Kimball B A,et al.2O18.Physicalrobustnessof canopy temperature models forcrop heat stress simulation across environments and production conditions.Field Crops Research,216:75-88.   \nWu D,Fang SLiX,etal.2O19.Spatial-tempralvariationinrigation waterrequirementforthewinterwheat-summermaize rotation system since the 198Os on the North China Plain.Agricultural Water Management,214: 78-86.   \nXu C,GongL,JiangT,etal.2O6.Analysisofspatialdistributionandtemporaltrendofreferenceevapotranspirationandpan evaporation in Changjiang (Yangtze River) catchment. Journal of Hydrology,327(1-2): 81-93.   \nYueS,PilonP,PhinneyB,etal.2o2.Theinfluenceofautocorrelationontheabilitytodetecttrendinhydrologicaleries. Hydrological Processes,16(9):1807-1829.   \nZaninovicK,Gajic-Capka M.20o.Changes incomponentsof the waterbalance in the Croatian lowlands.Theoreticaland Applied Climatology,65(1-2): 111-117.   \nZhangK,KimballJS,NemaniRR,etal.2O15.Vegetationgreeningandclimatechange promote multidecadalrisesof global land evapotranspiration.Scientific Reports,5:15956,doi:10.1038/srep15956.   \nZhang X,Kang S,ZhangL,etal.2010.Spatialvariation of climatology monthly cropreference evapotranspirationand sensitivity coeficients in Shiyang riverbasinof northwest China.Agricultural Water Management,97(10):1506-1516.   \nZhangY,Pea-ArancibiaJL,McVicarTR,etal0l6.Multi-ecadal trendsinglobalterrstrialevapotranspiratioandits components.Scientific Reports,6:19124,doi: 10.1038/srep19124.   \nZhangY,LiuCangY,etal.7.rendsinpaevaporationandreferenceandactalevapotransiratioacrosstheibetan Plateau.Journal of Geophysical Research,112(D12): D12110,doi:10.1029/2006JD008161.   \nZheng B,ChenuK,FernandaDreccerM,etal.2Ol2.Breedingforthefuture:whatarethepotential impactsoffuture frostnd heat events on sowing and flowering time requirements for Australian bread wheat (Triticum aestivium）varieties?Global Change Biology,18(9):2899-2914.   \nZhengB,Chapman SC,ChristopherJT,etal.2015.Frost trendsandtheir estimated impactonyield inthe Australian wheatbelt.Journal of Experimental Botany,66(12): 3611-3623. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    }
+]

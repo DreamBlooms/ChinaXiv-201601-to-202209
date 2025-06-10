@@ -1,0 +1,210 @@
+# DOI:10.5846/stxb201603170482
+
+李昆,王玲,王祥荣,李兆华.意杨苗木耗水特征与水分利用效率.生态学报,2017,37(13);4414-4422.LiKWangecersea
+
+# 意杨苗木耗水特征与水分利用效率
+
+李昆¹，王玲2,³，王祥荣}，李兆华³,\*
+
+1复旦大学环境科学与工程系，上海200433  
+2中国科学院亚热带农业生态研究所，长沙410125  
+3湖北大学资源环境学院，武汉430062
+
+摘要：研究杨树耗水量的变化特征、水分利用效率及其影响因子对杨树生理生态研究、造林树种的选择和林业生态工程建设具有重要的指导价值。以意杨（Populus euramevicana cv. $^ { \ast } I / - 2 1 4 ^ { \cdot }$ )为研究对象进行盆栽试验,设定了4个处理组,分别为T1处理组(种植意杨,密封处理),T2处理组(种植意杨,非密封处理),T3 处理组(不种植意杨,非密封处理),C 处理组(不种植意杨,密封处理),定量分析了意杨耗水规律、水分利用效率及土壤蒸发量与植株生理特性、气象环境因子之间的关系。结果表明：(（1)4个处理组耗水量变化曲线均呈“单峰型”,且在7月份达到最大值,2月份降到最低值。（2)栽植意杨的土壤水分蒸发量占总耗水量的 $1 5 . 9 \%$ ,全年波动状态稳定，本底流失量占 $3 0 . 4 \%$ 。(3)在地表覆盖物下的意杨蒸腾耗水量占总耗水量的 $5 3 . 7 \%$ ,年变化曲线为单峰型;栽培意杨的土壤水分总流失量是不栽培意杨土壤总流失量2.77倍;在裸地上种植意杨的土壤水分总蒸发量仅比没有意杨的裸地土壤多流失 $7 . 9 \%$ 水分。(4)在有地表覆盖物下和裸地上的意杨叶面平均蒸腾强度分别为 $3 0 . 8 \ \mathrm { g \ c m } ^ { - 2 } \ \mathrm { a } ^ { - 1 }$ ，（204号 $9 . 5 \ \mathrm { g \ c m ^ { - 2 } \ a ^ { - 1 } }$ ;平均每克生物量耗水量为 $_ { 3 9 . 6 1 \ \mathrm { g } }$ 。综上所述,意杨具有很强的蒸腾耗水能力,种植意杨可能会造成造林地区土壤水分大量流失,使该地区深层土壤干燥化,不利于土壤储水调节作用的发挥。
+
+关键词：意杨;耗水量;土壤水分;环境因子;水分利用效率
+
+# Water consumption characteristics and water use efficiency of poplar
+
+LI $\mathrm { K u n } ^ { 1 }$ ，WANG Ling2,3，WANG Xiangrong'， LI Zhaohua³ \* 1Department of Environmental Science and Engineering，Fudan University，Shanghai 2Oo433,China 2Institute of Subtropical Agriculture，Chinese Academy of Sciences，Changsha 41O125,China 3Faculty of Resources and Environmental Science，Hubei University，Wuhan 43oo62,China
+
+Abstract: Changes in the water consumptioncharacteristicsand water use eficiencyof poplar，and the influencing factors wereinvestigated，which issignificant tothestudyof thephysiologyandecologyof poplars，selectionof tree species for forestation，and forest ecological engineering.Four treatment groups weresetup for pot culture experimentson poplar. Quantitativeanalysis showed therelationship between thefollwingcharacteristicsof poplars:waterconsumption，wateruse effciency，soil evaporation，plantphysiological properties，meteorological environment factors，andsoil moisture.The resultsshowed that：（1）thechanging curves in the graph on water consumption in the four treatment groups showed single peaks，and that thecurves reached their maximums in Julyand their minimums in February.（2）Water evaporation of soil used for planting poplar accounted for $1 5 . 9 \%$ of the total water consumption in steady-state situations annually.The background loss accounted for $3 0 . 4 \%$ of the total water consumption.（3）Water consumption of poplars under surface covering accounted for $5 3 . 7 \%$ of the total water consumption，and the annual change curves also had single peaks. Furthermore,the total waterlossof soil in which poplars were planted was 2.77 times more than thatofsoil without poplar.
+
+The total water evaporation of soil on bare land in which poplars were planted was $7 . 9 \%$ higher than that of soil on bare land withoutpoplar.（4）Theaverage transpirationratesof leaves of poplars under surfacecovering andonbare land were 30.8 and $9 . 5 \ \mathrm { g \ c m ^ { - 2 } \ a ^ { - 1 } }$ ， respectively， whereas the average water consumption per gram of biomass was $_ { 3 9 . 6 1 \mathrm { ~ g ~ } }$ ，These results indicatethat poplars havea strong water-seekingcapacityand high transpirationrate；therefore，planting poplar willcause significant soilmoisturelossinafrestationareas，resulting inthedesiccationofdeepsoilandlimitedregulationof soil water storage in this area. y
+
+Key Words:poplar；water consumption；soil moisture；environmental factor；water use fficiency
+
+植物耗水是其光合、蒸腾作用的综合反映,是评价植物生长适应性和研究环境水分变化特征的重要指标[1-2],准确测量树木蒸腾量和水分利用效率是植物水分研究的关键技术[3-4]。植物蒸腾强度大小在一定程度上反映了植物调节水分损失及适应环境变化的能力,不仅受植物体本身的生物学特性的影响,也受外界环境因子、时间、空间等多种因素的制约[5-6]。不同树种的蒸腾量反映了植物种群的耗水能力,土壤水分由树木根系吸收后经树干运输到树冠， $9 9 . 8 \%$ 以上以蒸腾的形式从叶表面散失到空气中[7]。因此森林的生存和更新需要足够的水分来支撑,其耗水量非常大[8],研究植物耗水量的变化特征、水分利用效率及其影响因子是森林水分循环研究的重要基础,具有重要的水文学、生态学意义,对林业生态工程建设也具有重要的指导价值[9-12]。
+
+杨树是中国人工林造林面积最大的树种,主要栽种于中国北方地区、黄土高原地区和长江中下游地区[13]。杨树生长快,易于繁殖,拥有较高的生产力和生物量,被广泛用于用材林、城市绿化以及碳汇造林等诸多方面,但同时也通过蒸腾和截留作用消耗着大量水分,是耗水相对较高的树种之一[14-16]。水是限制生物活动的重要因子,尤其在水分缺乏地区,陆地植物受水资源条件的影响更为突出。由于杨树本身对水分需求量大,在我国北方,特别是在西北的干旱、半干旱地区只能依靠当年的降雨和灌溉维持生长,在没有灌溉条件的地方,杨树生长受到了严重的抑制,导致杨树的经济效益和生态效益难以发挥[17]。湖北省位于我国长江中游地区,其特有的降雨量丰沛、地表水资源充足的自然条件在很大程度上促进了杨树人工林的发展。但是,在其产生巨大经济效益的同时,杨树对水分的消耗问题却经常被人为忽视,对其研究也基本集中在养分消耗,林地质量变化,林分稳定性等方面[18-9],而对杨树在水分充足条件下的水分利用特征及其与环境因子和生理因子关系的研究尚不多见，同时关于杨树人工林是“抽水机”,大面积种植会降低当地地下水位线,减少降雨量,造成水库蓄水不足并加剧干旱等争论则倍受关注[20-21]。因此,研究杨树耗水特征和水分利用效率,分析适宜杨树生长的水分条件以及探讨杨树对种植区生态水文过程的影响非常重要。本研究针对当前湖北省大面积人工造林树种选择所面临的问题,选择湖北省已经大面积造林的意杨为试验材料,利用湖北的黄棕壤土,在控制土壤水分含量条件下,通过实验模拟意杨生长期间耗水量变化特征,利用快速称重法对不同天气条件下不同时间段的实际耗水量进行定量研究,分析了在土壤水分充足条件下该树种的耗水变化规律及水分利用效率，揭示了杨树生理因子和湖北省特有环境因子对杨树耗水能力的直接和间接影响,以期深人了解造林苗木对环境变化的响应机理以及为长江中游湖北省杨树的生理生态研究、抚育管理、造林树种的选择提供科学的理论依据。
+
+# 1材料与方法
+
+# 1.1 试验材料与对照处理
+
+试验采用湖北省常见造林树种意杨214号（Populus euramevicana c $v . \ ^ { \cdot } I \ / - 2 1 4 ^ { \cdot } \ ) \ 1$ 年生移植苗为试验材料,株高 $\leqslant 2 \mathrm { ~ m ~ }$ ,由武汉市东湖绿化苗木公司提供,试验用土采用中国农业科学院油料作物研究所（湖北武汉）田间试验土,养分含量为碱解氮 $6 9 . 1 3 ~ \mathrm { m g / k g }$ 有效磷 $4 . 6 8 ~ \mathrm { m g / k g }$ 、速效钾 $8 2 . 9 1 ~ \mathrm { m g / k g }$ 总氮 $0 . 6 8 ~ \mathrm { g / k g }$ 、总磷0.35$\mathrm { { g / k g } }$ 。采用硬质塑料桶作为意杨栽培盆,每盆栽植3—4 株苗,待成活后选择生长健壮的苗木保留1株,各苗木于2012年6月20日植入高为 $5 0 0 ~ \mathrm { m m }$ ,上口直径为 $3 5 0 ~ \mathrm { m m }$ 的塑料桶,桶底铺一层大小均匀的小碎石 $5 ~ \mathrm { c m }$ 高，上铺孔径 $1 ~ \mathrm { m m }$ 滤网后再填土至与桶口相距 $5 \ \mathrm { c m }$ 处。塑料桶底部设密闭蓄水盘，防止水分渗漏和蒸发的损失。
+
+土壤水分流失量包括意杨蒸腾耗水量、土壤蒸发量和本底蒸发量3部分,设计4组实验作为对照处理。
+
+表1不同处理组的实验设计方法  
+Table 1Experiment settings for different treatment groups   
+
+<html><body><table><tr><td>处理组 Treatment groups</td><td>种植意杨 Planting poplar</td><td>桶口密封 Bucket seal</td><td>水分流失途径 Pathway of water loss</td></tr><tr><td>T1 处理组 Treatment 1</td><td>√</td><td>√</td><td>意杨蒸腾耗水量、本底蒸发量</td></tr><tr><td>T2 处理组 Treatment 2</td><td>√</td><td>1</td><td>意杨蒸腾耗水量、土壤蒸发量(本底蒸发量</td></tr><tr><td>T3 处理组 Treatment 3</td><td>1</td><td>1</td><td>土壤蒸发量、本底蒸发量</td></tr><tr><td>C 处理组 Treatment C</td><td>1</td><td>√</td><td>本底蒸发量</td></tr></table></body></html>
+
+其中密封处理采用自制桶盖（黑色硬纸板及塑料薄膜,中间开直径为 $5 \ \mathrm { c m }$ 圆孔供意杨主干伸展及补充水分)覆盖于桶口,以排除土壤蒸发。各试验组分别设置10盆重复,栽培盆放置于可模拟自然生长的防雨玻璃房内露天培养,实施零施肥方案,实验周期为2012年6月20日至2013年6月20号。
+
+# 1.2 测定指标及方法
+
+# 1.2.1环境因子和生长指标测定
+
+实验区域内的大气温度 $( T )$ 和湿度由自动气象站监测,意杨叶片面积采用叶面积测定仪(型号：YMJ-B)测定,于2012年6月20日测量每株意杨叶面积(Leaf area)作为实验初始值( $\mathrm { L A } _ { 1 }$ )，随后在意杨叶片开始发黄调萎前(2012年9月25日)测量每株意杨叶面积作为叶面积稳定值( $\mathrm { L A } _ { 2 }$ )。每株意杨苗胸径采用游标卡尺在距土面 $1 0 \ \mathrm { c m }$ 高处测量,株高(H)采用精度 $0 . 1 \mathrm { { ( c m } }$ 卷尺测量。
+
+生物量（Biomass）测量：在2012年6月20日意杨移栽时以及2013年6月20号试验结束时用精度 $0 . 1 \mathrm { \ g }$ ，量程 $3 0 ~ \mathrm { k g }$ 的电子天平称意杨植株鲜重 $W _ { ( b i o 1 } ^ { \mathcal { \ell } } , W _ { b i o 2 }$ 。
+
+# 1.2.2 耗水量测定
+
+每月1号用精度 $\boldsymbol { 0 . 1 \ \mathrm { g } }$ ，量程 $9 0 ~ \mathrm { k g }$ 的移动电子秤称量每盆重量为 $\textstyle \ W _ { n }$ ,根据每次实际观测情况,在土面即将干裂时即加水补充其蒸腾损失和维持适量的土壤含水量,每次用量杯进行加水并记录加水量 $A _ { n } , 1$ 月内加水量之和为 $\boldsymbol { \mathcal { W } } _ { s }$ 。人
+
+每月蒸腾耗水量
+
+$$
+E _ { n } = \textit { W } _ { n } + \textit { W } _ { s } - \textit { W } _ { n + 1 }
+$$
+
+一年总蒸腾耗水量
+
+$$
+\boldsymbol { T _ { n } } = \ \sum \boldsymbol { E _ { n } }
+$$
+
+单位面积叶片蒸腾耗水量
+
+$$
+\begin{array} { r } { W _ { l a } = \ \sum T _ { n } / \ L A _ { 2 } } \end{array}
+$$
+
+单位质量生物量耗水量
+
+$$
+\begin{array} { r } { \mathbb { W } _ { b i o } = \sum T _ { n } / ( \mathbb { \ W } _ { b i o 2 } - \mathbb { \ W } _ { b i o 1 } ) } \end{array}
+$$
+
+式中， $1 \leqslant n \leqslant 1 2 , W _ { s } , E _ { n } , T _ { n } , W _ { b i o }$ 的单位为 $\mathbf { g }$ ， $\boldsymbol { W } _ { l a }$ 单位为 $\mathbf { g } / \mathrm { c m } ^ { 2 }$
+
+# 1.2.3 其他数据来源
+
+湖北省近40 年降雨量数据来源于湖北省气象局统计表格。2012年湖北省生活耗水总量、农业耗水总量、武汉市生活耗水总量等数据来源于湖北省水利厅公布的2012 年水资源公报。
+
+# 2结果与分析
+
+# 2.1 耗水量月际变化特征
+
+从图1可以看出,在1a 的培养期间内,T1、T2、C、T3 处理组年均耗水量依次为36676、43601、13257、40161g。4个处理组的耗水量月际变化曲线均为单峰型,波动情况完全一致,呈先升后降的趋势,6—9月耗水量都处于全年的较高水平,均在7月份达到峰值,分别为7149.5、7513.8、3025.2、6960.1g,占各实验组全年耗水量
+
+http://www.ecologica.cn
+
+的 $1 9 \%$ ， $1 7 \%$ $23 \%$ 和 $1 7 \%$ 。12月、1月、2月耗水量下降到较低水平，最低值出现在1月，分别为464.1、851、$1 3 0 . 2 , 8 9 1 . 1 \ \mathrm { g }$ ,分别占各实验组全年耗水量的 $1 \% , 2 \%$ ，$1 \%$ 和 $2 \%$ 。这一趋势与实验区域的逐月气温变化一致，表明气温可能对意杨蒸腾耗水量和土壤蒸发量起着重要影响作用(图2）。同时T1、T2、T3三组耗水量之间的差异在全年都维持在很小的水平，但T2组的耗水量在每月均高于其他处理组，表明在裸地上有栽植意杨的条件下土壤水分流失量最大;C组耗水量在每月均最低，表明在仅有地表覆盖物而不种植意杨的条件下土壤水分流失量最低。
+
+# 2.2土壤水分蒸发量
+
+T1处理组水分流失量由意杨蒸腾耗水量和本底蒸发量两部分构成，T2组则由意杨蒸腾耗水量、土壤蒸发量和本底蒸发量3部分构成，所以两组耗水总量差值可认为是栽植意杨的土壤蒸发量( $\mathrm { S E } _ { 1 }$ ),经计算全年 $\mathrm { S E } _ { 1 }$ 为 $6 9 2 4 . 8 \ \mathrm { g }$ ,占总耗水量的 $1 5 . 9 \%$ ,且在6月达到最高值$\mathrm { 1 5 3 8 . 1 ~ g }$ ,最低值出现在11月为 $3 2 9 . 5 \mathrm { ~ g ~ }$ ，并且从2012年7月到2013年1月， $\mathrm { S E } _ { 1 }$ 处于一个较为稳定的状态，波动区间为 $3 2 9 . 5 \mathrm { - } 5 1 0 . 6 \ \mathrm { g }$ 。同时在气温较高的7—9月间 $\mathrm { S E } _ { 1 }$ 的值却很小，表明该段时间内虽然水分流失总量大，但土壤水分蒸发量由于地表存在覆盖物等因素反而较低（图3），水分流失主要以意杨蒸腾作用散失到空气中。另外,C、T3 处理组未栽植意杨,C 组水分流失量仅为本底蒸发量，T3组水分流失总量包括土壤蒸发量和本底蒸发量，所以两组差值则可认为是无意杨栽植的土壤水分蒸发量( $\mathrm { S E } _ { 2 } ^ { \mathrm { ~ \tiny ~ . ~ } }$ ），全年 $\mathrm { S E } _ { 2 }$ 为 $2 6 9 0 3 . 6 ~ \mathrm { g / a }$ ,在8月达到最大值 $3 9 7 9 . 7 \mathrm { \textmu g }$ ,在1月处于最低值 $_ { 7 1 5 . 8 \mathrm { ~ g ~ } }$ （图3）， $\mathrm { S E } _ { 2 }$ 月际变化趋势与气温逐月变化趋势一致，表明无植被覆盖的土壤中水分蒸发主要受环境因子中气温的影响。
+
+# 2.3意杨蒸腾耗水量与水分利用效率
+
+栽培意杨的土壤水分流失总量(T1)是不栽培意杨的土壤水分流失总量（C）的2.77倍，表明意杨在生长中从土壤中吸收了大量水分，加剧了土壤水分流失。在实验中，土表加盖密封处理模拟了地表植被覆盖条件，
+
+![](images/08ac5c0053e9bb4c8096e72f34fe556633c53ee23a46fe64555741ed23ae4273.jpg)  
+图1不同处理组总耗水量月际变化曲线
+
+Treatment1（T1）为种植意杨,密封处理,Treatment2（T2）为种植意杨，非密封处理，Treatment3（T3）为不种植意杨，非密封处理，TreatmentC为不种植意杨，密封处理
+
+![](images/48ff41582b1caf204abcce883951a4ede9617117a170b2adee2a79af978c1f1d.jpg)  
+Fig.1Monthly change curves of water consumption of poplar in different groups   
+图2试验区域平均温度逐月变化曲线
+
+![](images/86d9129bee4c3bcb2db893d7e1c061d98ae1120641e92ec69b480aa809008270.jpg)  
+Fig.2Monthly change curves of the average temperature in the experiment area   
+图3不同意杨种植条件下土壤蒸发量月际变化曲线Fig.3Monthly change curves of soil evaporation with andwithout poplar$\mathrm { S E } _ { 1 }$ ：栽植意杨的土壤蒸发量 Soil evaporation $^ { 1 , \mathrm { S E } _ { 2 } }$ ：无意杨栽植的土壤水分蒸发量 Soil evaporation 2
+
+因此T1组与C组水分流失总量之差即可认为是有地表覆盖物下的意杨蒸腾耗水量( $\mathbf { \overline { { W C } } } _ { 1 }$ )，计算得到年均$\mathrm { \ W C _ { 1 } }$ 为 $2 3 4 1 9 \ \mathrm { g }$ ,占水分流失总量的 $5 3 . 7 \%$ 。土表不加盖处理则模拟了裸地条件,T2组与T3组水分流失总量之差即可认为是裸地条件下的意杨蒸腾耗水量( $\mathrm { W C } _ { 2 }$ ),计算得到年均 $\mathrm { W C } _ { 2 }$ 为 $3 4 4 0 . 2 ~ \mathrm { g / a }$ ,占水分流失总量的$7 . 8 9 \%$ 。数据表明有地物覆盖条件下的意杨水分年耗水总量远远高于裸地条件（图5）。此外,有地表覆盖物下的意杨叶面的蒸腾强度平均为 $3 0 . 8 \ \mathrm { g \ c m } ^ { - 2 } \ \mathrm { a } ^ { - 1 }$ ;裸地条件下的意杨叶面的蒸腾强度平均为 $9 . 5 \ \mathrm { g \ c m ^ { - 2 } \ a ^ { - 1 } }$ ，表明裸地上意杨叶面蒸腾强度远远低于地表覆盖物下的叶面蒸腾强度。意杨年耗水总量与意杨叶面蒸腾强度的耦合统一进一步说明在地被物覆盖良好的地方(如湿地、草地等),土壤中水分主要被意杨根系吸收以后进而以叶面蒸腾形式散失到空气中。
+
+![](images/abcdfc3244f76b9e71ee1a435f7134bdc613b0d6813766c5c02bf141d78814eb.jpg)  
+图4在地表覆盖物下意杨蒸腾耗水量和土壤蒸发量月际变化 曲线 Fig.4Monthly change curves of water consumption of poplar and soil evaporation under land covering Soil evaporation 1（ $\mathrm { S E } _ { 1 }$ ）为栽植意杨的土壤蒸发量，Water consumption 1 ( $\mathrm { \overline { { W C } } } _ { 1 }$ ）为有地表覆盖物下的意杨蒸腾耗水量
+
+![](images/53382b055023661646d3ed6dd129c0c9dc8316aba2d34ea6ae37b5b63831688b.jpg)  
+图5不同覆盖条件下意杨蒸腾耗水量月际变化曲线Fig.5Monthly change curves of water consumption of poplarunder different conditions of coveringWater consumption 1( $\mathrm { W C } _ { 1 }$ )为有地表覆盖物下的意杨蒸腾耗水量，Water consumption $2 \ (  { \mathbb { W } } \mathrm { C } _ { 2 } )$ )为裸地条件下的意杨蒸腾耗水量
+
+$\mathrm { W C } _ { 1 }$ 月际变化曲线为单峰型,呈先升后降的趋势,7月份达到最高值 $4 1 2 4 . 3 \ \mathrm { g }$ ,且在7—9月均处于3693.7g/月以上的较高水平,之后逐渐下降到2月的最低值 $1 4 8 . 1  { \mathrm { ~ g ~ } _ { \mathrm { ~ o ~ } } }$ 在水分充足的高温天气里,意杨每月蒸腾耗水量比较接近(7—9月）,而在低温期间（10—12月)意杨蒸腾耗水量的波动最大,处于 $1 4 8 . 1 - 7 3 7 . 5 \ \mathrm { g }$ 之间。表明该段时间内在地被物覆盖良好的地方(如湿地、草地),土壤中水分主要被意杨吸收而蒸腾,也说明在水分供给充足条件下,植物耗水主要与自身生理特点以及外部环境因子有关。 $\mathrm { W C } _ { 2 }$ 月际变化曲线比较平缓,呈双峰型,全年都维持在非常低的水平,没有表现出生长大周期的特征,在3月和6月达到峰值,高值区为5、6、7月。6月耗水量最大值仅为 $^ { 6 0 2 } { \mathrm { ~ g } } , 2$ 月最低值只有 $\overline { { 4 8 \mathrm { ~ g ~ } } }$ ,耗水量极小,总量仅为在地表覆盖物下的意杨耗水总量的 $1 4 . 7 \%$ ,同时栽培意杨的土壤总耗水量(T2)仅比没有意杨的(T3)裸地土壤多消耗 $7 . 9 \%$ 水分。即表明在植被已严重破坏的裸地,土壤水分主要通过地表蒸发而流失,意杨对土壤水分吸收量非常低,对土壤水分的流失影响不大。 1
+
+盆栽意杨苗在有地表覆盖物下年生物量积累量在 503—836g之间,平均为 $6 4 0 . 6 0 ~ \mathrm { g / a }$ ;高度生长量34.3— ${ . 5 6 . 1 \ \mathrm { c m } }$ ,平均为 $4 3 . 1 \ \mathrm { c m }$ ,耗水效率为每克生物量需耗水29— $\cdot 4 8 \mathrm { \ g }$ ,平均为 $_ { 3 9 . 6 1 \mathrm { ~ g ~ } }$ ,在裸地上生物量积累量在207—391g之间,平均为 $2 9 9 . 6 ~ \mathrm { g / a }$ ;高度生长量 $1 8 . 6 { - } 3 2 . 8 ~ \mathrm { c m }$ ,平均为 $2 8 . 4 ~ \mathrm { c m }$ （表2）。同时表2数据表明T1、T2处理对意杨苗木年高度增长量和年生物量积累量的影响存在显著性差异( $P { < } 0 . 0 1 \ \cdot$ ）。T2处理明显延缓了意杨苗木的生长,造成其年均高度增长量和生物累积量显著低于T1处理,分别为T1处理的 $6 5 . 8 9 \%$ 和46.77%。
+
+表2不同覆盖条件下意杨高度增长量和生物量积累量差异性分析  
+Table 2Difference analysis of biomass and high with poplar under different conditions of covering   
+
+<html><body><table><tr><td>处理组</td><td>高度增长量 Height increase/cm</td><td>生物量积累量 Biomass accumulation/g</td></tr><tr><td>Treatment groups T1 处理组 Treatment 1</td><td>43.1±6.57a</td><td>640.6±124.52a</td></tr><tr><td>T2 处理组 Treatment 2</td><td>28.4±7.16b</td><td>299.6±61.66b</td></tr></table></body></html>
+
+Treatment1（T1)为种植意杨,密封处理,Treatment2（T2)为种植意杨,非密封处理
+
+# 2.4意杨盆栽年耗水量与其物理参数的相关性分析
+
+为了探讨意杨蒸腾耗水量、土壤蒸发量对环境因子变化的响应,将环境因子数据、物理参数数据与耗水量数据标准化处理后进行相关性分析，表3表明， $\mathrm { S E } _ { 2 }$ 与气温相关性高于 $\mathrm { S E } _ { 1 }$ 与气温的相关性,进一步证明裸地上土壤水分流失主要受气温影响。 $\mathrm { W C } _ { 1 }$ ， $\mathrm { W C } _ { 2 }$ 与气温均呈现0.01水平上极显著的正相关关系,相关系数基本都高于0.8,说明意杨耗水能力与大气温度有极大的相关性。温度对蒸腾作用的影响主要是通过改变叶片内外的水汽梯度而影响蒸腾强度的强弱,空气温度升高会导致叶片温度升高以及叶片内外温差和水汽压差增大,促使意杨以较大的蒸腾强度来降低叶温,加快了叶片水分的散失[22]。
+
+$\mathrm { \ W C } _ { 1 }$ ， $\mathrm { W C } _ { 2 }$ 与胸径的相关系数分别为0.752,0.867,表明意杨吸收水分对生物量增长起促进作用,但是$\mathrm { W C } _ { 2 }$ 与叶面积为负相关,更是印证在土壤水分缺乏时,意杨难以从土中吸收水分,叶片生长受到抑制。WC与叶面积相关关系不显著,可能是由于实验期间意杨生长处于成材早期，叶片生长和生物量生长尚未达到稳定状态。
+
+表3意杨蒸腾耗水量、土壤蒸发量与气温、物理参数的相关系数  
+Table 3Correlation coeficients among water consumption，soil evaporation,air temperature,and physical paral   
+
+<html><body><table><tr><td>耗水量 Water consumption</td><td>气温 Air temperature</td><td>叶面积 Leaf area</td><td>胸径 Diameter at breast height</td></tr><tr><td>Water consumption 1（WC1）</td><td>0.914**</td><td>0.468</td><td>0.752</td></tr><tr><td>Water consumption 2（WC2）</td><td>0.812 **</td><td>-0.660</td><td>0.867</td></tr><tr><td>Soil evaporation 1(SE)</td><td>0.035</td><td></td><td>1</td></tr><tr><td>Soil evaporation 2(SE)</td><td>0.926 **</td><td></td><td>1</td></tr></table></body></html>
+
+\*\*在0.01水平(双侧)上显著相关; $\mathrm { \ W C _ { 1 } }$ ：有地表覆盖物下的意杨蒸腾耗水量Water consumption1, $\mathrm { W C } _ { 2 }$ ;裸地条件下的意杨蒸腾耗水量Water consumption 2, $\mathrm { S E } _ { 1 }$ ：栽植意杨的土壤蒸发量 Soil evaporation $^ { 1 , \mathrm { S E } _ { 2 } }$ ：无意杨栽植的土壤水分蒸发量 Soil evaporation 2
+
+# 3讨论
+
+# 3.1不同覆盖条件下意杨蒸腾耗水量特性比较
+
+水是限制植物生长代谢的重要因子,杨树在生长过程中由于生理代谢和干物质积累的需求需要从土壤中吸收大量水分,因此意杨植物体水分的收支动态可在一定程度上反映意杨生长状况。不同地物覆盖条件营造不同的林下地表环境,进而影响植物接收的地表辐射热能,因此不同地表环境、不同季节下的意杨耗水特性可能不尽相同。
+
+有地表覆盖物下的意杨蒸腾耗水量在 $\overline { { 4 } } , 5$ 月有较小幅度的上升,其中在5月之后的上升趋势明显加快，7月到达最高值 $4 1 2 4 . 3 \ \mathrm { g } , 8$ 月后呈现下降的趋势。主要原因是在适宜水分条件下,杨树枝条生长速率呈“S"形生长曲线,3—4月生长较慢,4月下旬以后生长急剧加快,整个生长季中枝条快速生长期和干物质增加主要集中在5—6月,7月以后逐渐下降,9月降至最低[23],杨树在生长过程中需要从土壤中吸收大量水分,意杨对水分的消耗量也由3、4月的 $^ { 1 3 4 5 } \cdot 1 3 7 6 . 3 \mathrm { ~ g ~ }$ ,急剧上升至5、6、7月的 $1 9 5 0 . 2 , 2 2 0 8 . 6 , 4 1 2 4 . 3 \mathrm { \textrm { g } }$ ,较前一月的上升幅度分别达到 $4 1 . 7 \% 1 3 . 2 \% \ . 8 6 . 7 \%$ ;同时在3、4月进行耗水量测定时,虽然气温升高,但杨树叶片生长不久，比较幼嫩,气孔敏感性最强,所以耗水量还不高。7月后意杨生长速度相对减缓,但是7月太阳辐射强度、大气温度继续增加以及空气相对湿度下降,使叶片界面系统水势梯度增大,水分蒸腾增强,耗水量也相应加快,在短期内便迅速上升至全年最高值[24-26]。同时相关研究也表明,杨树的蒸腾强度与太阳辐射、空气温度、大气湿度具有较大的相关性,主要表现在随着太阳辐射的逐渐增加,气温逐渐升高,蒸腾速率逐渐增强,达到峰值后,随着太阳辐射减弱,温度降低,蒸腾速率也相应下降[25]。意杨在5—7月生物量快速积累期间对水分的消耗量非常大，占全年耗水总量的 $3 5 . 4 \%$ ,大量水分通过根系以被动方式进入植物体内。8月后耗水量开始呈现下降趋势,在10月已急剧下降到 $2 3 5 7 . 6 \mathrm { ~ g ~ }$ ,下降幅度达 $3 6 . 2 \%$ ,主要是意杨叶片对10月日照长度缩短的响应而逐渐发黄,叶绿素含量迅速减少,光合作用迅速降低,气孔大部分关闭导致蒸腾量很小[9,27],同时叶片在这一时段内开始凋落,耗水能力也因此大幅下降。在2月意杨蒸腾耗水量已降到最低值 $^ { 1 4 8 . 1 \ \mathrm { g } }$ ,整个秋冬季的蒸发量都维持在很低的水平。夏季意杨接受的太阳净辐射能量较大,能吸收更多的地下水来消耗于蒸散发的潜热,其次消耗于感热;对比之下,秋、冬季意杨接受的太阳净辐射能量降低,蒸散发也较小,杨树根系只需吸收少量水分,释放较少的蒸发潜热以协调植物体内的需水平衡,全年蒸腾耗水量动态变化特征与意杨的生长期完全吻合。同时由图3可知,7—10月意杨蒸腾耗水量相对较高,土壤蒸发量较低,在年底基本平衡,表明在7—10月土壤中水分主要通过意杨吸收和蒸腾而流失,在2月份主要通过地表土壤蒸发流失。
+
+湖北省多年平均降水量达 $1 1 9 4 ~ \mathrm { m m }$ ,空间上分布不均匀,鄂东南地区降水量较多( $1 4 8 3 - 1 5 8 5 ~ \mathrm { m m } )$ ，而鄂西北地区降水量较少 $( 7 0 9 - 8 4 1 ~ \mathrm { m m } )$ ,总体呈现出由南向北递减的趋势[28]。时间上分布也不均匀,全年降雨量主要集中在5—7月,并且出现在6月左右的梅雨季降雨量占年降雨量的 $1 8 \% - 2 8 \%$ 。降雨量的逐月分布与杨树生长速率动态变化基本一致,因此,在湖北省的大部分地区水分较好的立地条件下栽植杨树可以满足杨树快速生长期和干物质积累期对水分的吸收，保证该段时间杨树的正常生长,但是也更加重了对杨树高耗水量、造成土壤水分大量流失特征的忽视。但是在8、9月持续高温,地表水分蒸发量增加,降雨量反而减少的环境下,杨树后期正常生长所需要的水分条件可能会受到限制,进而导致杨树生长不良。因此,虽然杨树栽植在阴坡、沟道等水分条件较好的立地条件下能够正常生长,但是杨树仍然不适宜栽种在降雨量不均匀的湖北省,尤其是不宜在降雨量较低的湖北省西北地区大量栽种意杨,而且近40来年湖北省降雨量持续下降,其中在1984—2008 年期间下降了 $1 6 1 . 4 ~ \mathrm { m m }$ ,且夏季降雨量下降趋势最明显[28],这会进一步加剧意杨生长过程中水资源供应不足的现状。
+
+无地表覆盖物的意杨月均耗水量都较低,5月耗水量增长幅度达到 $32 1 \%$ ,而在6月份却只增长了$1 3 . 3 7 \%$ ,远高于在植被覆盖下意杨耗水量在5月的增长幅度( $4 1 . 7 \% )$ ，该变化特征符合意杨不同生长期对水分的利用状况[29],即在土壤水分还相对充足的5月,意杨对水分的消耗量大幅上升。随着裸地上种植的意杨不断蒸腾耗水及6月之后裸地土壤水分蒸发量升高,会加剧土壤干旱胁迫,使土壤供水能力受到限制,说明当土壤水分含量亏缺和高温时,在植物-大气界面,水分运动的方向有可能与蒸腾作用的方向相反,即植物叶片有倒吸水现象[30-31];同时意杨根系会发出信号传递到叶片气孔,气孔导度降低,进而降低蒸腾作用以保证植物体内的需水量。裸地上的意杨在5—7月的蒸腾耗水量占全年蒸腾耗水总量的 $4 9 \%$ ,表明即使在有水分胁迫的条件下,意杨在干物质积累期仍然要从土壤中不断吸收大量水分来维持生长。意杨蒸腾耗水量从7月份开始下降,且7—9月单株耗水量比较接近,表明7—9月虽然意杨枝叶茂盛,但因持续的高温和地表无植被覆盖,造成大量土壤水分在高温驱动下直接通过地表快速蒸发,造成土壤水分亏缺,而随着土壤含水量降低,杨树叶水势、相对含水量、生长速率、光合速率及叶片水分利用效率分别显著下降[32-33],进而导致水分难以被意杨根系吸收,意杨生长受限,生物量增长缓慢。这也是湖北省一些地区人工杨树林生长发育不良,出现大片低产林的主要原因。因此,在裸露地上种植的杨树其生长受到了极大的限制,其耗水量由于地表蒸发流失而常年保持在较低水平,即使在湖北省降雨丰富的5—7月,土壤水分依然不能满足裸地上杨树生长对水分的需要。所以,对于杨树这种耗水量大、抗旱性差的速生树种不适宜大面积在裸地上栽植。
+
+# 3.2种植杨树的总耗水量与生物量积累分析
+
+植物单位质量的耗水量反映了其水分利用状况[34],有地表覆盖物条件下意杨生物量增加 $\mathrm { ~ 1 ~ g ~ }$ 需耗水$3 9 . 6 1 \ \mathrm { g }$ ,同时其生物量积累量和耗水量均高于裸地上的意杨（表2）,根据李海奎的研究[35],我国杨树生物量密度为 $7 2 . 7 \mathrm { ~ t } / \mathrm { h m } ^ { 2 }$ ,在不考虑降水和补给的情况下，即每公顷意杨消耗水分 $2 8 7 9 . 6 \mathrm { ~ t ~ }$ 。而湖北省政府颁布的《湖北省优势农产品和特色农产品区域布局规划》计划以意杨为代表的速生树种种植面积由 28万 $\mathrm { { h m } } ^ { 2 }$ 增加到60万 $\mathrm { , h m } ^ { 2 }$ ,这意味着湖北省每年将有17.28亿 $\mathbf { m } ^ { 3 }$ 的土壤水分被蒸腾到空中,这是中国最大调水工程(南水北调工程)一期调水量的 $1 7 . 8 \% ^ { [ 3 6 ] }$ ,占湖北省 2012 年生活耗水总量（19.45亿 $\mathbf { m } ^ { 3 }$ )的 $8 8 . 8 \%$ ,农业耗水总量的$2 1 . 7 \%$ ,相当于拥有1000万人口的武汉市全年生活耗水总量的5.82倍。同时众多研究得出：意杨蒸腾耗水量和材积年产量均随供水水平的高低而增减[37-38],意杨生物量生长可以划分为2个阶段,第1—4年时生长缓慢,第5年之后时生长开始加速,生物量迅速提高[39],本实验中意杨只处于生长周期中的第3年,为幼龄阶段,随着生物量在后期急剧增大,意杨实际耗水量也会在目前耗水总量的基础上增加。
+
+总体来看,湖北省大面积推广的杨树用材林在降雨量下降时,可能会造成这一地区深层土壤干燥化,不利于土壤储水调节作用的发挥,不利于种植区周边耕地的集约利用,减缓杨树生长速度,此模式可能威胁着湖北省水资源安全和粮食安全。以上是对杨树在生长过程中的耗水量等生理生态过程的认识及分析，它将为在湖北省人工林建设过程中的树种选择与合理配置提供借鉴。同时由于本研究采用盆栽试验方法,在透明通风的玻璃室内培养,与湖北省杨树人工林实际生长条件有一定差异,并受试验周期等条件的限制,没有长期连续监测丰水年、枯水年降水量变化对意杨蒸腾耗水规律的影响,但是在反映林分和区域水平的耗水规律上仍具有一定的参考价值。
+
+# 4结论
+
+(1)意杨蒸腾耗水量月际变化特征与生长周期变化规律一致,即在快速生长和干物质积累期(4—7月)的耗水量最大,在生长速度减缓的秋冬季耗水量较低。意杨蒸腾耗水量变化的主要影响因子是大气温度,同时也受叶面积、胸径、生物量积累等因子影响。 .(2)在地表覆盖良好的立地条件下,意杨蒸腾耗水量占土壤水分总流失量的 $5 3 . 7 \%$ ,栽种意杨会造成土壤水分的严重流失;在植被已严重破坏的裸地上,因土壤水分通过地表快速蒸发难以被意杨吸收,栽种意杨对土壤水分的流失影响较小。(3)意杨具有很强的觅水和蒸腾能力,在水分比较充足的条件下,会扮演“环境抽水机"的角色;而在土壤水分亏缺时，意杨生物量增长会受到抑制。(4)仅靠降水不足以维持湖北省杨树人工林生长所需水分,如果不灌溉,将造成湖北省造林地区土壤水分大量流失,杨树应尽可能种植在阴坡、沟道等土壤水分含量高,水资源能持续供应的区域。
+
+# 参考文献（References）：
+
+[1]QiaoC,SunR,XuZW,ZngL,LiuLY,HaoLY,JiangGQ.AstdyfseerbelttraspiratonandcroplandevaporaspraoinirrgatedareainthemiddlereachesoftheHeiheRiverinNorthwesteChinaIEEGeoscience&RemoteSensingLeters，O15，2（2）：369-373.  
+[2]Bak,ilgteit,eld,eKteosptfrrotsfpbsdaassessment of the concept. Hydrology and Earth System Sciences，2013，17(10）: 3983-4000.  
+[3]Fotovataltteotstalollet（taestiumL.）underwell-wateredanddoughtstresconditions.JoualofFood，Agriculture&Envroment，,5（3/4）:-27.  
+[4］赵风华，王秋凤，王建林，王吉顺，欧阳竹，于贵瑞.小麦和玉米叶片光合-蒸腾日变化耦合机理.生态学报,2011,31（24)：7526-7532.  
+[5] TumaJ,alickyoLdrJecefddoedoheldfat（eatiL）ndetalsriplant. Journal of Elementology，,2014，19（3）：795-809.  
+[6]Schmidt-Walter P,Richter $\operatorname { F } ,$ Herbst M, Schuldt B,Lamersdorf N P.Transpiration and water use strategies of a young and a full-grown shortrotation coppice difering incanopycoverand leaf area.AgriculturalandForest Meteorology，2014，195-196：165-178.  
+[7］胡红玲，张健，万雪琴，陈洪，易万洋，周永春.巨桉与5种木本植物幼树的耗水特性及水分利用效率的比较.生态学报，2012,32（12)：3873-3882.8 WulschlegerSDHansonP,haplisiTJWole-plantwaterfinuderstorydpleeposedtoalerdprecipitatioregreePhysiology，1998,18(2): 71-79.BoschDD,MrshallLK,TeskyRFrestraspatiofroensityeasureetsioutheasteCoastalPainparanrte.Agricultural and Forest Meteorology，2014，187：72-82.  
+[10] MaSC,LiFM,XuBC,HuangB.Efectsofrotpruningonthegrowthandwaterusefciencyofwinterheat.PlantGrowthegulation,2009，57(3):233-241.  
+[11] WangH,YangGY,JiaYW,QinDStudyoncosumptioneciencyofsoilwaterresorcesintheelowRiverBasinbasedongioalETstructure.Science in China Series D：Earth Sciences，2008,51(3）：456-468.  
+[12] 闫学梅，于振文，张永丽，王东.不同小麦品种耗水特性和籽粒产量的差异.应用生态学报，2011,22（3)：694-700.  
+[13] LiangWJ,HuHQ,LuFJ,ZangResearchdanceofioassarbostoagfplariina.Joualofrestryeseah0,17(1) : 75-79.  
+[14]Sevigne E, Gasol $\textsc { C M }$ ， Brun F，Rovira L，Pagés JM,Camps F，RieradevallJ， Gabarell X. Waterand energy consumption of Populus spp.bioenergy systems：acase study in Southern Europe.Renewable & Sustainable Energy Reviews,2O11,15(2）:1133-1140.  
+[15]DnelslsaGlllodibiomass and nutritioninaplantationof transgenic poplars with modified lignin biosynthesis.PLoSOne,2O13,8(3）：e59207.  
+[16］李平，肖玉，杨洋，张昌顺.天津平原杨树人工林生态系统碳储量.生态学杂志，2014，33（3)：567-574.  
+[17］杨建伟，梁宗锁,韩蕊莲，孙群，崔浪军.不同干旱土壤条件下杨树的耗水规律及水分利用效率研究.植物生态学报，2004，28（5）：630-636.  
+[18]ChenSLiJK,WangSS,HterA,lnA.Salt,trientuptakeadtrasport,ndBAofopuluseuphtic;idspoeto increasing soil NaCl. Trees，2001，15(3）：186-194.  
+[19]RobisonBH,MilsTM,PetitD,FungLEGreenSR,ClotherBE.Naturalanducecadum-acuulationinopardiloimplications for phytoremediation.Plant and Soil,2000,227(1/2）：301-306.  
+[20］庞发虎，杨建伟，庞振凌，杜瑞卿.杨树生理生态指标与环境因子之间相关性分析.生态学报，2010,30(12）：3188-3197.  
+[21］杨建伟，梁宗锁，韩蕊莲.黄土高原常用造林树种水分利用特征.生态学报,2006,26(2)：558-565．  
+[22] 曹生奎，冯起，司建华，常宗强，陈克龙，曹广超.胡杨光合蒸腾与影响因子间关系的研究.干旱区资源与环境,2012,26(4)：155-159.  
+[23］苏里坦，关东海，王兴勇，赵天宇.塔里木河下游胡杨林耗水数值模型.水科学进展，2014，25(4)：511-517.  
+[24]ChenL X, Zhang ZQ,Zha TG,Mo KL,Zhang Y,Fang XR.Soil water afects transpiration response ） rainfall and vapor pressure deficit inpoplar plantation.New Forests，2014，45(2）：235-250.  
+[25］任庆福，孟平，张劲松，高峻，李春友.华北平原农田毛白杨防护林蒸腾变化规律及其与气象因子的关系.林业科学研究，2008,21（6)：797-802.  
+[26］李少宁，陈波，鲁绍伟，潘青华，张玉平，王华.杨树春夏季树干液流与耗水变化规律.水土保持研究，2013，20（3）：167-171.  
+[27]LaurJ，HackeUGaspratioaldandetsqaiexpressoioplartsJoualofExperimentalota6（）：2283-2293.  
+［28］毕旭.湖北省气温和降水的变化特征及其与地理因子的相关性分析[D].武汉：华中师范大学，2013.  
+[29］周平，李吉跃，招礼军.北方主要造林树种苗木蒸腾耗水特性研究.北京林业大学学报，2002，24（5）：50-55.  
+[30］李吉跃，周平，招礼军.干旱胁迫对苗木蒸腾耗水的影响(生态学报，2002,22(9)：1380-1386.  
+[1]PetodhegerKaspatifdoaratatiioyspsetatedoEuropean Journal of Forest Research,2011,130(5)：695-706.  
+[32]LiangZ,YangJW,ShaHB,HanRLIvestgowatecosumptocracterstsandwateusefcyfpoplardlaterdeficits on the Loess Plateau. Colloids and Surfaces B:Biointerfaces，2006,53(1)：23-28.  
+3]Schmidt-Wle,aersofossprouctioiwldplarsortotatocopcsosieseactieleachingand groundwaterrechargeinadrinking watercatchmentnearHanover，Germany.BioEnergyResearch,2O12,5（3）：546-562.  
+[34]LiangH,LiF,gLtsofleateatlegatioodteofceirtigaioalWater Management，2013，116:242-247.  
+［35］李海奎，雷渊才.中国森林植被生物量和碳储量评估.北京：中国林业出版社，2010.  
+[36]LiBSouangXZuLOpportdoviotaliceofedorvelotdeeprojects in Hanjiang river basin. Journal of the Geological Society of India,2O13,82(6):692-700.  
+7]Sithlciiesoofnt251(2) : 343-349.  
+[38]尹春梅，隋鹏，陈源泉，刘月华，高旺盛.速生杨在海河低平原农田土壤中的水分时空消耗规律.中国农学通报，208,24（3）：435-440.

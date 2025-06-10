@@ -1,0 +1,254 @@
+# DOI:10.5846/stxb201701190162
+
+刘玮,辛美丽,吕芳,刘梦侠,丁刚,吴海一.关于鼠尾藻群体数量分布的三种统计模型比较.生态学报,2018,38(6):2031-2040.LiuW,XinMFuXingG，osofatistodehatieisrbiofpopulations.Acta Ecologica Sinica,2018,38(6）:2031-2040.
+
+# 关于鼠尾藻群体数量分布的三种统计模型比较
+
+刘玮,辛美丽，吕 芳，刘梦侠，丁 刚,吴海一
+
+1山东省海洋生物研究院，青岛266104  
+2 青岛市大型海藻工程技术研究中心，青岛266104
+
+摘要：鼠尾藻是潮间带海藻床的主要构建者,但何种统计模型更适合鼠尾藻的数量分布研究目前尚不清楚。选取山东荣成内遮岛15个 $2 5 \mathrm { m } ^ { 2 }$ 区域进行了调查和数量统计,比较了算数平均模型、反距离权重模型及普通克里金模型的精度差异,分析了群体密度、丛生指数及盖度等因素对模型统计精度的影响。结果表明,反距离权重模型表现较为稳定、平均误差最低（平均绝对误差39.1株,均方根误差53.3株,偏差率 $1 3 . 0 \%$ ),而算术平均模型的精度波动最大、平均误差最高(平均绝对误差53.8株,均方根误差65.3株，偏差率 $1 4 . 6 \%$ )。群体密度和盖度因素对模型精度无明显影响( $\cdot \mathcal { P } { > } 0 . 0 5 )$ ,但丛生指数能显著影响3种模型的平均绝对误差和均方根误差( $\cdot \cdot ( P { < } 0 . 0 5 )$ 。研究表明,3种模型精度差异并不明显,模型精度在一些指标上受丛生指数影响。总体来看,反距离权重模型和普通克里金模型稳定性较好,误差均值较小,且均能够反映鼠尾藻群体的空间分布,因而在鼠尾藻群体数量分布计算中具有一定优势。 >
+
+关键词：鼠尾藻;群体数量分布；反距离权重;普通克里金
+
+# Comparison of three statistical models for the quantitative distribution Sargassum thunbergii populations
+
+LIU Wei,XIN Meili,LU Fang，LIU Mengxia，DING Gang，WU Haiyi
+
+1 Marine Biology Institute of Shandong Province，Qingdao 2661O4,China   
+2 Macroalgae Engineering Technology Center of Qingdao，Qingdao 266104，China
+
+Abstract:Sargassum thunbergi isthe main component of intertidal algal beds.However，which statistical model best describesthe Sargassumthunbergi quantitativedistributionispoorlyunderstood.Inthisstudy，15plotswithanareaof 25 （204号 $\mathrm { m } ^ { 2 }$ wereselected on Neizhe Island，Rongcheng，Shandong Province，China，forvegetation surveysand quantitative statisticalanalysis.Acomparsonof thearithmeticaverage，inversedistance weighted，andordinarykriging modelsenabled theiraccuracytobeascertained.Thefactors that mightafect modelaccuracywerealso tested,including populationdensity, clumping index，and vegetation fractionalcoverage.Theresultsshowedthattheperformanceof the inversedistance weighted model was the most stableandthe average errors were the lowest（meanabsolute error 39.1 individual，root mean square error 53.3 individual, rate of deviation $1 3 . 0 \%$ ），while the accuracy of the arithmetic average model varied considerably and the average errors were the highest（mean absolute error53.8 individual，root meansquare error65.3 individual，rateof deviation $1 4 . 6 \%$ ).It was verified that population density and vegetation fractional coverage had no obvious influence on model precision ( $\textstyle P > 0 . 0 5 { \mathrm { . } }$ ），but the clumping index clearly aected the mean absolute error and the root mean square error in the three models ( $\scriptstyle P < 0 . 0 5 )$ . The results showed that there was no significant difference in the accuracy of the three models，and thatthe clumping indexcould influence modelaccuracy for some indicators.Generaly，both the inverse distanceweightedmodeland theordinary kriging model hadcertainadvantagesdue toamore stable performance,thelowel mean error，and their ability to reveal the spatial distribution of the Sargassum thunbergii population.
+
+Key Words: Sargassum thunbergi;； population quantitative distribution； inverse distance weighted；ordinary kriging
+
+生物群体的数量特征是反映群体结构、空间分布、群落变化的重要依据[1-2,通常采用样方法、标志重捕法和间接估计法等对生物群体进行研究[3-5]。由于样方法分析相对方便、具有客观性等优点,因而在植物群体的数量研究中得到广泛应用[6-8]。传统样方法是以算术平均为模型,通过在研究区域内随机抽取一定数量、规格的样方,以算数平均值来计算整个研究区域的群体数量。然而随着研究区域的扩大,在样方面积及取样数量受限的情况下,利用样方法进行统计研究,其精度会受到影响[9-10]。如何能弥补传统方法的不足？近年来,空间插值方法的出现为解决这一问题提供了新途径[11]。空间插值方法可以结合有限采样点的数据并通过适当的数学模型进行插值计算,实现了连续观测面的统计分析,这其中以反距离权重模型和普通克里金模型最为常见,其已比较成功应用于生态群落的研究中[12-14]。但是,对不同植物群落,在不同时空尺度下,如何优化和选择算数平均法、反距离权重法、普通克里金法等方法,有待于进一步验证。
+
+鼠尾藻（Sargasum thunbergii)是黄渤海沿岸一种常见的褐藻[15],分布于潮间带,形成海藻床,为小型无脊椎动物提供栖息、繁殖场[16],对浅海生态环境的维持具有重要意义[17-18]。鼠尾藻还具有重要经济价值,是海珍品养殖用的优质饲料[19]。近年来,由于浅海生态环境的变化,加之人为因素的影响,鼠尾藻资源急剧下降，部分地方受到严重破坏[20]。因此,不仅需要大力开展资源的保护与增殖,更要对潮间带进行鼠尾藻种群资源的调查,建立合理的评估方法,为浅海海藻资源的保护和开发提供科学依据。
+
+前期，宋广军[21]及 $\mathrm { L i u } ^ { [ 2 0 ] }$ 等曾对鼠尾藻野生群体开展过种群生态调查研究,研究关注了藻体长度、生物量等指标,但并未对群体数量进行研究。缺乏有效的群体数量研究方法或是造成这一问题的主要原因。据此,我们在荣成内遮岛潮间带选取了15 个 $5 \mathrm { m } { \times } 5 \mathrm { m }$ 的研究区域进行样方采样,分别以算数平均模型、反距离权重模型和普通克里金模型进行了群体数量统计，探讨比较了不同统计方法的精度差异,并对可能影响统计误差的相关因素进行了分析,以期为鼠尾藻群体数量研究及海藻资源保护提供科学方法和参考。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+鼠尾藻调查选择山东省威海市荣成内遮岛的潮间带 $( 3 7 . 2 5 ^ { \circ } \mathrm { N } , 1 2 2 . 5 8 ^ { \circ } \mathrm { E } )$ ，面积 $1 . 1 { \times } 1 0 ^ { 4 } \mathrm { m } ^ { 2 }$ ,大潮期间潮差1- $\cdot 2 \mathrm { m }$ 。该潮间带地势平缓,以礁岩底为主,海浪冲击力较强,潮流交换充分。近岸表层海水周年水温变化范围为-1— $2 6 \mathrm { { ^ circ C } }$ ,盐度变化范围为27—30。潮间带海藻以褐藻种类为主,其中鼠尾藻为全年常见种类,从低潮带至中潮带均有分布,群体成熟时间为6—8月,鼠尾藻体长可达 $7 5 \mathrm { c m } ^ { [ 2 0 ] }$ 。
+
+# 1.2 研究方法
+
+2016 年7月在大潮枯潮期,我们在潮间带的不同刨面上随机选取了15 个 $2 5 \mathrm { m } ^ { 2 }$ 的研究区域,进行鼠尾藻资源调查和样品采集，然后进行群体数量统计。该区域由25个 $\mathrm { 1 m } { \times } 1 \mathrm { m }$ 的样方组成 $5 { \times } 5$ 样方阵列（图1），分别统计每个样方中的鼠尾藻株数,每1个直立枝计为1株。每个区域以四角和中心的5个样方数据进行建模计算,其他样方数据用于数据检验。所有样方计数采用原位计数方法,同时采用拓普康 HiPer ⅡI型差分GPS记录样方位置信息。
+
+# 1.3 统计计算模型
+
+分别利用算数平均模型、反距离权重模型及普通克里金模型进行鼠尾藻群体数量分布分析,具体计算公式如下：
+
+# 1.3.1 算数平均模型
+
+传统统计方法多采用算数平均模型，
+
+http://www.ecologica.cn
+
+![](images/d65e08827fe3ba3877ea3dd644bc4dd88fe755f6471b81b0295f2f4351fc3c50.jpg)  
+图1潮间带研究区域取样示意图  
+Fig.1The sampling schematic in the intertidal zone
+
+$$
+Z ( x _ { 0 } ) = n ^ { - 1 } \sum _ { i = 1 } ^ { n } Z ( x _ { i } )
+$$
+
+式中，Z（ $( x _ { 0 }$ ）为待测点值，Z( $\mathbf { \Phi } _ { ( x _ { i } ) } ^ { \prime }$ 为样本 $x _ { i }$ 处的实测值， $n$ 为样本数量。
+
+# 1.3.2 反距离权重模型
+
+该模型以距离作为权重进行加权平均，计算公式为
+
+式中， $\lambda _ { i }$ 为实测点对待测点的权重系数， $d _ { i }$ 为实测点与待测点间的距离， $p$ 为距离的幂,本研究中 $p$ 值取默认值为2。
+
+# 1.3.3 普通克里金模型
+
+该模型是对区域化变量采用线性无偏算法的一种模型,计算公式为：
+
+$$
+Z ( x _ { 0 } ) = \sum _ { i = 1 } ^ { n } \omega _ { i } Z ( x _ { i } )
+$$
+
+式中，为实测点对待测点的权重系数。
+
+# 1.3.4Zonal函数统计
+
+采用 Zonal函数对反距离权重模型、普通克里金模型插值计算生成的连续面数据进行样方拟合,以拟合后的均值作为模型计算值。
+
+# 1.4模型精度评价
+
+以交叉验证的方法对模型精度进行评价,交叉验证选择平均绝对误差（Mean absolute error，MAE）和均方根误差（Root mean square error，RMSE)作为评价参数,MAE 和 RMSE 值越小,结果预测精度越高。此外,另选取偏差率(Rateof deviation，RD)作为模型精度的评价参数,RD 越接近于0,计算精度越高。
+
+$$
+\mathrm { M A E } = n ^ { - 1 } \sum _ { i = 1 } ^ { n } \mid E _ { i } - Q _ { i } \mid
+$$
+
+$$
+{ \mathrm { R M S E } } = { \sqrt { n ^ { - 1 } \sum _ { i = 1 } ^ { n } \left( E _ { i } - Q _ { i } \right) { } ^ { 2 } } }
+$$
+
+$$
+R D = Q ^ { - 1 } \mid E - Q \mid \times 1 0 0 \%
+$$
+
+式中， $E _ { i }$ 为第 $i$ 个样方的预测值， $Q _ { i }$ 为第 $i$ 个样方的实测值； $E$ 为整个研究区预测值， $Q$ 为整个研究区实测值。
+
+# 1.5 潜在影响因素
+
+选择与数量分布相关的群体密度、丛生指数及盖度为潜在影响因素,分析了各因素对模型精度的影响。各因素的计算方法如下：
+
+# 1.5.1 群体密度
+
+鼠尾藻群体密度（Population density， $P D$ )利用建模样方的数据计算获得,计算公式为：
+
+$$
+\boldsymbol { P } \boldsymbol { D } = \boldsymbol { A } ^ { - 1 } \mathbf { \overline { { \nabla } } } \boldsymbol { \overline { { Q } } } _ { i }
+$$
+
+式中，A为样方面积 $\overline { { Q } } _ { i }$ 为建模样方数据的平均值。
+
+# 1.5.2 丛生指数
+
+采用丛生指数（Clumpingindex， $C I$ )判定鼠尾藻分布模式，当 $C I { > } 0$ 时为聚集分布模式, $\mathit { C I } { = } 0$ 时为随机分布模式， $C I { < } 0$ 时为均匀分布模式[22]。计算公式为： U
+
+$$
+C I = \overline { { { Q } } } _ { i } ^ { \mathrm { ~ - 1 ~ } } S ^ { 2 } \mathrm { ~ - ~ } 1
+$$
+
+式中， $S ^ { 2 }$ 为建模样方数据的方差。
+
+# 1.5.3 盖度
+
+采用有效样方比计算盖度（Vegetation fractional coverage，VFC）,有效样方为群体数量大于150株的样方。盖度计算公式为： 3
+
+$$
+{ \mathrm { V F C } } = n ^ { - 1 } n _ { j } \times 1 0 0 \%
+$$
+
+式中， $n _ { j }$ 为有效样方数， $n$ 为研究区域样方数。
+
+# 1.6 数据处理
+
+统计分析采用IBMSPSS Statistics20.0,方差分析及LSD 分析用于不同模型及相关因子对预测误差的显著性检验,显著性水平为 $\alpha = 0 . 0 5$ 。反距离权重插值分析、普通克里金插值分析及Zonal函数统计采用ArcGIS10.0 软件完成。
+
+# 2结果
+
+# 2.1 数据统计分布
+
+对375个鼠尾藻样方分析发现,其群体数量变化范围为0—486株（表1),均值为168株,中位数与平均值相近,为156株。偏态系数为0.516,呈正偏,峰度系数为-0.170,这表明采样数据分布较标准正态分布略为扁平。正态Q-Q分布结果显示,数据总体倾向于正态分布,空间插值计算无需进行后续的数据转化（图2）。
+
+表1各研究区鼠尾藻数量分布情况  
+Table1 The quantitative distribution of Sargassum thunbergii in the sample are:   
+
+<html><body><table><tr><td rowspan="2">参数 Parameters</td><td rowspan="2"></td><td colspan="10"></td><td colspan="7"></td></tr><tr><td></td><td></td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td></td><td>12</td><td>13</td><td>14</td><td>15</td></tr><tr><td>密度PD Population density /(株/m²)</td><td></td><td>150</td><td>185</td><td>73</td><td>242</td><td>183</td><td>149</td><td>119</td><td>57</td><td></td><td>143</td><td>282</td><td>146</td><td>170</td><td>220</td><td>128</td><td>144</td></tr><tr><td>丛生指数CI Clumping index</td><td></td><td>63</td><td>87</td><td>42</td><td>57</td><td>14</td><td>31</td><td>17</td><td>22</td><td>2</td><td></td><td></td><td>2</td><td>31</td><td>46</td><td>35</td><td>112</td></tr><tr><td></td><td></td><td>80</td><td>64</td><td>8</td><td>96</td><td>72</td><td>52</td><td>32</td><td>16</td><td>52</td><td>100</td><td></td><td>28</td><td>56</td><td>72</td><td>48</td><td>60</td></tr></table></body></html>
+
+对15个区域的鼠尾藻群体密度分析发现,平均密度分布范围为57—282 株 $' _ { \mathrm { { m } } ^ { 2 } }$ (表1),均值为159 株/$\mathbf { m } ^ { 2 }$ 。根据频度分布划分为高、中、低3个平均密度实验组(图3）,即密度在57—143株/ $' _ { \mathrm { { m } } ^ { 2 } }$ 为低密度实验组,密度在144—179 株/ $\mathbf { \chi } _ { \mathbf { m } } ^ { \prime }$ 为中密度实验组,180—282 株 $' \mathrm { m } ^ { 2 }$ 为高密度实验组，各实验组平均密度分别为104、152、222株 $/ \mathrm { m } ^ { 2 }$ 。
+
+所有区域的鼠尾藻丛生指数均为正值(表1),结果一致表明鼠尾藻群体为聚集分布。丛生指数分布范围为2—112,根据其频度分布,以18.5和44.4为分位数划分为高、中、低丛生指数实验组（图3）,各实验组丛生指数平均值分别为73、32、9。 O
+
+![](images/26e6b2e9243c77e05a5ebbfc1c43ac176e6e15db82a2ceef54e0e55fb173b57a.jpg)  
+Fig.2Date analysis tests of quantitative distribution
+
+![](images/f799557bb42b3beb894f538d8ada680a8ccf14259017df27ed39f34acd346412.jpg)  
+图2群体数据检验  
+图3各影响因子按水平分组情况  
+Fig.3Groups in different level of factors
+
+PD:群体密度,population density; $C I$ ：聚集指数,clumping index;VFC:盖度,Vegetation fractional coverage
+
+鼠尾藻群体盖度值分布范围为 $8 \%$ 一 $100 \%$ ,以其频度分布,将 $8 \%$ 一 $4 9 \%$ 设为低盖度实验组， $5 0 \%$ 一 $6 9 \%$ 设为中盖度实验组， $7 0 \%$ 一 $1 0 0 \%$ 设为高盖度实验组（图3)。高、中、低盖度实验组的盖度平均值分别为 $84 \%$ 、57% $2 6 \%$ 。
+
+# 2.2不同模型比较
+
+T 将验证样方的实测数据与算数平均模型、反距离权重模型及普通克里金模型的计算数据进行了比较。从空间关系来看（图4）,算数平均模型只对建模样方进行了统一化的平均处理,忽略了样方间的潜在关系,因而无法完全反映群体数量的空间分布;而两种空间插值模型则更接近于群体实际分布情况。
+
+交叉验证的结果表明(表2）,反距离权重模型和普通克里金模型计算误差均低于传统的算数平均模型。其中,反距离权重模型的平均计算误差最小（MAE39.1株,RMSE53.3株);算数平均模型的平均计算误差最大（MAE 53.8株,RMSE 65.3株)。RD的分析结果与交叉验证结果一致,反距离权重模型的RD平均值最小，为 $1 3 . 0 \%$ ,其分布范围为 $1 . 7 \% - 6 6 . 7 \%$ ;算数平均模型的RD平均值最大,为 $1 4 . 6 \%$ ,其分布范围为 $0 . 2 \%$ 一
+
+$6 9 . 4 \%$ 。方差分析显示,3种统计模型的MAE、RMSE、RD 没有明显差异( $( P { > } 0 . 0 5 )$ 。
+
+![](images/076f4fab00c8d1efc6d5deed3129b196f124310bd0170895b869491d076f6439.jpg)  
+图4单个研究区域采用不同模型得到的鼠尾藻群体数量分布结果  
+Fig.4Results of Sargassum thunbergii quantitative distribution from different models in the single study are:
+
+表2不同模型得出的群体数量预测误差  
+Table2The prediction errors of population quantity from the different models   
+
+<html><body><table><tr><td rowspan="3">统计值 Statistical value</td><td colspan="2">算术平均 Arithmetic average</td><td colspan="4">Inverse distance weighted</td><td colspan="3">普通克里金 Ordinary kriging</td></tr><tr><td colspan="2">MAE/株 RMSE/株</td><td>RD /%</td><td>MAE/株</td><td>RMSE/株</td><td>RD /%</td><td>MAE/株</td><td>RMSE/株</td><td>RD /%</td></tr><tr><td>最小值 Minimum</td><td>24.1</td><td>29.2</td><td>0.2</td><td>17.0</td><td>24.1</td><td>1.7</td><td>16.5</td><td>26.3</td><td>2.1</td></tr><tr><td>最大值 Maximum</td><td>110.4</td><td>129.2</td><td>69.4</td><td>70.5</td><td>92.7</td><td>66.7</td><td>71.7</td><td>94.1</td><td>69.3</td></tr><tr><td>平均值 Average</td><td>53.8</td><td>65.3</td><td>14.6</td><td>39.1</td><td>53.3</td><td>13.0</td><td>39.8</td><td>53.8</td><td>13.4</td></tr></table></body></html>
+
+MAE:平均绝对误差,mean absolute error;RMSE:均方根误差,root mean square error;RD:偏差率,rate of deviation
+
+# 2.3群体密度对模型精度影响
+
+随着鼠尾藻群体密度增加（图5）,反距离权重模型和普通克里金模型的MAE、RMSE总体稳定,而算术平均模型的 MAE、RMSE有上升趋势,但均不明显( $P { > } 0 . 0 5 )$ 。RD分析结果表明，随着鼠尾藻群体密度增加,各模型的RD 均出现下降趋势,但变化不明显( $P { > } 0 . 0 5 )$ 。方差分析表明,群体密度变化对3种模型的MAE、RMSE及RD 影响均不显著( $P { > } 0 . 0 5 )$ 。
+
+# 2.4丛生指数对模型精度影响
+
+不同丛生指数组的MAE、RMSE分析表明（图6),随着丛生指数升高,MAE、RMSE 不断增加。相比于低丛生指数组，高丛生指数组中所有模型的MAE、RMSE均明显上升( $P { < } 0 . 0 5 )$ 。其中RMSE 结果表明，在不同丛生指数组中算数平均模型的误差都很显著。而且在高丛生指数组中,算数平均模型的MAE 明显高于其他两种模型( $_ { . } { \cal P } { < } 0 . 0 5 )$ 。RD 则未检测到丛生指数对模型精度的影响。低丛生指数组中,普通克里金模型的误差最小（MAE 21.2 株,RMSE 29.8株, $\mathrm { R D 4 . 8 \% }$ ),并且该模型MAE 明显优于算数平均模型,中、高丛生指数组
+
+![](images/3d7bf59cfb19e70ca5508a129e7e188401f9af6d68d8232edf9d88e34fdc950d.jpg)  
+图5不同密度实验组的MAE值、RMSE值及RD值Fig.5The MAE，RMSE and RD in diffrent density groups
+
+MAE:平均绝对误差,mean absolute error;RMSE:均方根误差,rot mean square error;RD:偏差率,rate of deviation中,反距离权重模型的误差最小（中丛生指数组:MAE41.1株,RMSE 50.1株,RD $7 . 7 \%$ ;高丛生指数组：MAE53.2 株,RMSE 69.4 株, $\mathrm { R D } 9 . 7 \%$ )。方差分析表明,丛生指数对3种模型的 MAE、RMSE均有显著影响( $P <$ 0.05），但对RD 影响不明显(图6)。
+
+# 2.5盖度对模型精度的影响
+
+对不同盖度组的MAE、RMSE分析（图7）,发现在3种模型中,鼠尾藻盖度的变化对 MAE 和RMSE 均无显著影响( $\cdot P { > } 0 . 0 5 )$ )。普通克里金模型的MAE、RMSE在低盖度组为最低,而反距离权重模型的MAE、RMSE在中、高盖度组中均为最低。此外，盖度对RD 的影响也不明显( $_ { ( P > 0 . 0 5 ) }$ 。普通克里金模型和反距离权重模型的 RD分别在低盖度和高盖度组中为最低,而在中盖度组普通克里金模型和反距离权重模型的RD 均为$9 . 6 \%$ （图7）,低于算数平均模型的RD( $1 0 . 7 \%$ ）。方差分析表明,盖度对MAE、RMSE及RD 影响不显著( $P >$ 0.05)。
+
+# 3讨论
+
+算数平均模型是将研究区域内的观测值赋予相同权重,然后以算数平均预测待测点的变量值,该模型简明易解、应用方便,但由于算法过于简单且未顾及空间影响因素,因而实际应用未必理想[23]。通过对比算数平均模型、反距离权重模型、普通克里金模型发现,虽然3种模型精度没有明显差异,但算数平均模型存在两个方面的欠缺。一方面,3 种模型中算数平均模型的平均误差最大（MAE 53.8株,RMSE 65.3株, $\mathrm { R D \ 1 4 . 6 \% }$ ）。而且RMSE结果显示,算数平均模型在不同丛生指数组中均存在显著差异,这表明算数平均模型RMSE 对丛生指数影响较为敏感。再者,在高丛生指数组,算数平均模型的MAE 明显高于其他两种模型,而MAE 的上升不同大写字母表示同一模型中不同丛生指数实验组间差异显著,不同小写字母表示同一丛生指数实验组中不同模型间差异显著( $\scriptstyle P < 0 . 0 5$ ）
+
+![](images/680b967ea51e16270638fa5f43058f68525c4214c69ab8d5aad2daed3e8196d6.jpg)  
+图6不同丛生指数实验组的MAE、RMSE及RD  
+Fig.6The MAE，RMSE and RD in different clumping index groups
+
+则意味着模型精度的降低。另一方面,从鼠尾藻群体空间分布来看,鼠尾藻多为丛生,具有空间非均匀分布的特点,但算数平均模型对每个观测点的权重是等同的,因此该模型对分析区域采取均一化计算,从而无法反映鼠尾藻群体空间分布特点。
+
+反距离权重模型和普通克里金模型是空间插值计算的常用模型,两者的区别在于对权重系数各有侧重[24]。反距离权重法是基于距离进行空间插值的计算方法,权重系数通常正比于待测点与观测点距离平方的倒数。当权重值大于1时,会对距离近的样本点赋予更高的权重,从而能在预测面上反映更多细节[25]。普通克里金法则是基于数据空间分布进行无偏插值的计算方法,其权重取值倾向于最小化模型误差[26]。所使用的反距离权重模型和普通克里金模型均采用了软件推荐的默认值,对比两种模型统计结果发现,反距离权重模型的MAE、RD 波动范围较小（17.0—70.5株， $1 . 7 \% - 6 6 . 7 \%$ ）,而普通克里金模型的RMSE 波动范围较小（26.3—94.1株），两种模型精度差异不显著( $P { > } 0 . 0 5 \mathrm { ) }$ ）,反距离权重的误差均值较低（MAE39.1株，RMSE53.3株， $1 3 . 0 \%$ ),两种模型均能展示鼠尾藻群体空间分布特点。
+
+二 模型的精度会受到外界因素的干扰[26],发现丛生指数是影响模型精度的重要因素,它能影响3种模型的MAE 和RMSE。随着丛生指数增加,3种模型的MAE、RMSE均有较为明显的上升趋势。而这种影响对于算数平均模型较为明显,在高丛生指数组,算术平均模型的MAE已明显高于其他两种模型( $\scriptstyle P < 0 . 0 5 )$ 。由此推断,算术平均模型可能在鼠尾藻群体高度丛生的情况下产生较大的统计误差。丛生指数作为描述群体空间分布的重要参考指标[27]，其数值变化反映了研究区域内邻位个体数量变化,而Yao等[24]发现邻位个体的数量是影响反距离权重模型精度的重要因素,本研究间接证明了这一观点。丛生指数变化还会引起样品的空间分布变化,而空间分布的改变可能影响到普通克里金模型的权重系数取值,进而影响模型的精度。研究表明,在鼠尾藻丛生指数 $\mathrm { C I } { > } 1 8 . 5$ 时,反距离权重模型的MAE、RMSE、RD 的均值均为最小,而在丛生指数 $\mathrm { C I } { < } 1 8 . 5$ 时，普通克里金模型的MAE、RMSE、RD 的均值均为最小。丛生指数能在一定程度上影响模型精度,随着丛生指数的升高,模型精度都会降低,但是相对于算数平均模型,反距离权重模型和普通克里金模型通常都能获得相对较低的模型误差,从而表现出相对较好的模型稳定性。有研究表明反距离权重法和克里金法在有限样本数量的空间插值分析中都具有良好的适应性[28-29],本研究结果支持了这一论断。
+
+![](images/c67d10ea5ac2b1838d6625f4ff3a81b35ad969bf8af5728192cf031160c49f34.jpg)  
+图7不同盖度实验组的MAE值、RMSE值及RD值Fig.7The MAE， RMSE and RD in different coverage groups
+
+在鼠尾藻群体数量分布研究中，对比3种统计模型发现反距离权重模型能够适应大多数情况，获得相对较高的模型计算精度。影响模型精度的因素除了丛生指数,可能还存在其他影响因素,而多种因素的叠加作用可能会淹没各种模型间的精度差异[30-31],造成模型筛选障碍。此外，以往的研究还表明不同情况下最适模型也并不一致[32-34]。因此,为了提高鼠尾藻群体数量统计计算精度,一方面要继续探寻影响模型精度的因素及其影响方式,另一方面要针对具体的鼠尾藻群体分布情况,综合考虑模型差异,结合丛生指数及其他潜在影响因素，以选取合适的统计模型。
+
+# 参考文献（References）:
+
+[1]Brkarteolants（alpa）tralEroldoflesolantirtioblEcology&Biogeography，2001，10(5）：449-468.  
+[2］汪文俊，林雪飞，邹运鼎，陶金昌，毕守东，郭骅，柯磊，杨林.李肖叶甲成虫数量及三维空间格局动态.生态学报，2012，32(14)：4544- 4552.  
+[3］魏新增，黄汉东，江明喜，杨敬元.神农架地区河岸带中领春木种群数量特征与空间分布格局.植物生态学报，2008，32(4)：825-837.  
+[4］张旭，鲍毅新，刘军，林杰君，沈良良，王艳妮.陆桥岛屿环境下社鼠种群数量的估算方法.生态学报，2012，32（5）：1562-1569.  
+[5］马鸣，徐峰，Munkhtsog B,吴逸群，McCarthyT,McCarthy K.新疆雪豹种群密度监测方法探讨.生态与农村环境学报，2011,27（1)：79-83.  
+[6] 陈志阳，杨宁，姚先铭，田小梅，杨满元.贵州雷公山秃杉种群生活史特征与空间分布格局.生态学报，2012，32（7)：2158-2165.  
+[7] 刘贵峰，丁易，臧润国,郭仲军，张新平，成克武，白志强，巴哈尔古丽·阿尤甫.天山云杉种群分布格局.应用生态学报，2011,22(1) : 9-13.  
+[8] 高福元，赵成章，卓马兰草.高寒退化草地不同海拔梯度狼毒种群分布格局及空间关联性.生态学报，2014，34（3)：605-612.  
+[9] TaylorBN,BeiderKV，CooperER,tandAE,PritchdSGamplingvoeinstus:tepitfllfdersaplingexoseduigaccumulation curves.Ecology Letters，2013，16(7）：862-869.  
+[10] BerhongarayG,KingJ,asesIeuleasR.Atidtpgetodolglaciguracndiitatand Soil，2013，366(1/2):351-361.  
+[11] 史文娇，岳天祥，石晓丽，宋伟.土壤连续属性空间插值方法及其精度的研究进展．自然资源学报，2012，27(1)：163-175.  
+[12] 张伟，李纯厚，贾晓平，陈丕茂，方良.底栖生物生物量空间插值方法研究.海洋通报，2010,29（3）：351-356.  
+[13] 孙铭帅，陈作志，蔡研聪，张俊，孙志伟.空间插值法在北部湾渔业资源密度评估中的应用.中国水产科学，2017，24(4)：853-861.  
+[14] Mationi C,MartinMA,ChiochniF,CherubiniM,GudetM,PllgioniP,VeichkovI,JmanR,ChambersFPuleL,DaiaV,CrainicGC，ViliFasaeeitureofuroptstt（Castaestiill)：idcatisfoseatioiTree Genetics & Genomes，2017,13(2）：39.  
+[15]TSeng C K. Common Seaweeds of China.Beijing: Science Press，1983：218.  
+[16]Jobe CF,Brooks W R.Habitat selection and host location by symbiotic shrimps associated with Sargassum ( the role of chemical andvisual cues.Symbiosis，2009,49(2）：77-85.  
+[17]WangRJ，XiaH，WangY,ZuWLngXXEfectsftheemacroalge,Ulalnza（Chloroa），oralinulifera（odha)and Sargassum thunbergi（Phaeophyta）on the growth of the red tide microalga Prorocentrum donghaiense under laboratory conditions.Journal ofSea Research,2007,58(3)：189-197.  
+[18]Davis TA,Volesky B，Mucc A.A review of the biochemistry of heavy metal biosorption by brown .Water Research，2003，37（18）:4311-4330.  
+[19]GaoQF,WangYS，DongSL，Sun ZL，WangF.Absorptionof dferentfodsourcesbyseacucumber Apostichopusjaponicus(Selenka)(Echinodermata: Holothuroidea):Evidence from carbon stable isotope. Aquaculture，2011,319(1/2）: 272-276.  
+[20]LiuW,WuH,ZhnDuanDPhenologicalstudyofSrgasumunbergii（ucales，aeopyta）inidaoByongcgina.Chinese Journal of Oceanology and Limnology，2016,34（3）：498-506.  
+[21] 宋广军，王丽梅，李世国，高杉，王超.大连沿海野生鼠尾藻种群生态调查.水产科学,2011，30(9)：527-532.  
+[22] 李进，黄力平，吕海英，王孝安.塔克尔莫乎尔沙漠银沙槐（Ammodendron argenteum）群落主要种群的分布格局.干旱区研究，2013，30(4):634-639.  
+23]Cretideiaaalsiaou(2):413-431.  
+[24]YaoXL,uBJ,Lu,unFXWngS,Liuoparisonoffoursatiliterpolatoesfrstiatingloisurelexterrain catchment. Plos One，2013，8(1):e54660.  
+[25] WatsonDF,PhilipG M.Arefinement of inverse distance weighted interpolation.Geo-Procesing,1985,2：315-327.  
+[26] LiJ,HeapADpatiaiteoaioeosldiotalcs：evitaldellng&fre173- 189.  
+[27] DavidFN,MoorePG.Notes on contagiousdistributions in plant populations.Annalsof Botany,1954,18(1)：47-53.  
+[28] 刘劲松，陈辉，杨彬云，王卫，相云，赵超.河北省年均降水量插值方法比较.生态学报，2009，29（7)：3493-3500.  
+[29] 谢云峰，陈同斌，雷梅，郑国砥，宋波，李晓燕.空间插值模型对土壤Cd污染评价结果的影响.环境科学学报，2010，30(4)：847-854.  
+[30] SchloederCA，ZmmeranNE,JacosMJ.Comparisonofethodsforinterpolatingsoilpropertiesusingiiteddata.SoilSieneSocietyofAmerica Journal, 2001,65: 470-479.  
+[31]叶小岭，沈云培，熊雄.一种基于改进克里金法的地面气温质量控制算法.气候与环境研究，2016,21（5)：614-620.  
+[32] GotwayCA,ergusoRB,ergertGaryWeterson.omparisonofrigingdivesedistacemetodsforappigsoilpaeslScience Society of America Journal,1996,60(4)：1237-1247.PanagopoulosTesususelJalyssftialiteolatifotigagtfideldiedilettuce.European Journal of Agronomy，2006,24（1）：1-10.于洋，卫伟，陈利顶，杨磊，张涵丹.黄土高原年均降水量空间插值及其方法比较.应用生态学报，2015，26(4)：999-1006.

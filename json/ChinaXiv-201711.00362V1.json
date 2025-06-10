@@ -1,0 +1,492 @@
+[
+    {
+        "type": "text",
+        "text": "Precipitation changes in the mid-latitudes of the Chinese mainland during 1960-2014 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HU Yuling1, WANG Shigong1,2\\*, SONG Xuping1, WANG Jiaxin² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Keylaboratoryof AridClimate Changeand ReducingDisasterin GansuProvince,Collgeof Atmospheric Sciences,Lanzhou University, Lanzhou 730000,China; 2 Plateau Environment and Meteorology Key Laboratory of Education Bureau of Sichuan Province,College of Atmospheric Sciences,Chengdu University of Information Technology, Chengdu 61O225, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Based on daily precipitation data from 163 meteorological stations, this study investigated precipitation changes in the mid-latitudes of the Chinese mainland (MCM) during 1960-2014 using the climatic trend coeficient, least-squared regression analysis, and a non-parametric Mann-Kendall test. According to the effects of the East Asian summer monsoon on the MCM and the climatic trend coefficient of annual precipitation during 1960-2014, we divided the MCM into the western MCM and eastern MCM. The western MCM was further divided into the western MCM1 and western MCM2 in terms of the effects of the East Asian summer monsoon.The main results were as follows: (1) During the last four decades of the $2 0 ^ { \\mathrm { t h } }$ century, the area-averaged annual precipitation presented a significant increasing trend in the western MCM,but there was a slight decreasing trend in the eastern MCM, where a seesaw pattern was apparent. However, in the $2 1 ^ { \\mathrm { s t } }$ century, the area-averaged annual precipitation displayed a significant increasing trend in both the western and eastern MCM. (2) The trend in area-averaged seasonal precipitation during 1960-2014 in the western MCM was consistent with that in the eastern MCM in winter and spring. However, the trend in area-averaged summer precipitation during 1960-2014 displayed a seesaw patern between the western and eastern MCM. (3) On an annual basis, both the trend in rainstorms and heavy rain displayed a sesaw patern between the western and eastern MCM. (4) The precipitation intensity in rainstorms, heavy rain, and moderate rain made a greater contribution to changes in the total precipitation than precipitation frequency. The results of this study willimprove our understanding of the trends and differences in precipitation changes in different areas of the MCM. This is not only useful for the management and mitigation of flood disasters, but is also beneficial to the protection of water resources across the MCM. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:precipitationchanges;themid-latitudesof the Chinesemainland;seesaw patern;rainydays;precipitation ntensity; precipitation frequency ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Under the background of global warming, the global precipitation quantity and pattrn has changed. Precipitation had increased by $0 . 5 \\% - 1 . 0 \\%$ per decade over most middle to high latitudes of the northern hemisphere continents (IPCC, 2OO1). However, the increasing trend in surface air temperature has slowed down since the late 199Os,leading to claims of a global warming hiatus. In this case, how precipitation in China, especially precipitation in the mid-latitudes of the Chinese mainland (MCM), would respond to the global warming hiatus remains unresolved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With respect to precipitation changes in China, studies have been conducted at both national and regional scales (Zhai et al., 1999; Gemmer et al., 2004; Fu et al., 2008; Zhang et al., 2012; Meng et al., 2013; Liu et al., 2015). Liu et al. (2005) examined the spatial-temporal variations in precipitation in China during 196O-2OoO,and found that the precipitation amount in China increased by $2 \\%$ ，while the frequency of precipitation events decreased by $10 \\%$ . Wang et al. (2004) had studied the inter-decadal variability of precipitation in China since the 188Os, and indicated that the mean precipitation at a national scale depended mainly on the precipitation over estern China. Wang and Zhou (2Oo5) investigated the trends in annual and seasonal mean precipitation in China from 1961 to 2OO1,and found that the mean annual precipitation increased significantly in the southwestern, northwestern, and eastern China, but decreased significantly in the central, north, and northeast China. The increasing trend in mean annual precipitation in most of northwestern China occurred in all seasons. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Northwestern China has a dry climate, and is located far from the influence of oceans. Alongside the increase in air temperature, precipitation in northwestern China has also increased significantly in the last 3O years of the $2 0 ^ { \\mathrm { t h } }$ century (Zhu and Chang, 2011; Meng et al., 2013). At the same time, under the effects of anthropogenic climate change and an enhanced water cycle, precipitation, glacial melt water, river runoff, air temperature, the water level of inland lakes, and the frequency of flood disasters al increased continuously in northwest China from the 1980s to 2000s (Shi et al., 2OO7). By investigating the relationship between precipitation and evaporation, Shi et al. (2OO3) found that the climate in northwestern China shifted from warm-dry to warm-wet in 1987. Li et al. (2OO3) made a preliminary forecast of the climate variation trend in northwestern China in the coming decades and predicted that the climate would change from warm-dry to warm-humid, particularly in the Xinjiang Uygur Autonomous Region, western Hexi Corridor, Qilian Mountains, and parts of Qinghai Province. Because there are profound regional differences in the changes of precipitation patterns (Tian et al.， 1995)， the fourth intergovernmental panel on climate change (IPCC) assessment report (IPCC, 2OO7) emphasized the development of exhaustive sub-regional studies,especially for regions with transitional climates. The MCM has a typical transitional climate, i.e., from a continental climate in the western MCM to a temperate monsoon climate in the eastern MCM. The East Asian Summer monsoon makes a substantial contribution to precipitation in the eastern MCM, but has litle effect on precipitation in the western MCM. Hence, to take early action to prevent water scarcity in arid regions and mitigate flood disasters in humid regions, it is essential to explore precipitation changes and the causes of these changes in the MCM. From this perspective, it is necessary to comparatively investigate precipitation changes in the western and eastern MCM. In addition, it has been over 1O years since the last study of climate change in northwestern China by Shi et al. (2OO3). There is a need to determine if the precipitation in northwestern China has been continuously increasing in recent years. It is also important to investigate the characteristics of precipitation in the eastern MCM and the relationship of precipitation changes between the wester and eastern MCM. A follow-up to the previous studies of precipitation changes in northwestern China and an initial investigation of precipitation changes in the eastern MCM were conducted in this study to address these questions. In addition, an inter-comparison of precipitation changes in these two areas was undertaken. This is not only useful for the management and mitigation of flood disasters, but is also beneficial for the protection of water resources. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It should also be noted that because the water content of the atmosphere increases with temperature, higher temperatures mean potentially heavier precipitation (Kundzewicz, 2005). Several studies have shown that global warming could enhance precipitation intensity and change precipitation extremes (Trenberth, 1998; Allen and Ingram, 20O2; Semenov and Bengtsson, 2002; Trenberth et al.,2OO3). According to data from stations sited in the middle to high latitudes of the northern hemisphere, an increase in the frequency of heavy precipitation events has occurred in the second half of the $2 0 ^ { \\mathrm { t h } }$ century (IPCC, 2001). In addition, the IPCC Fourth Assessment Report indicated that the frequency of heavy precipitation events would very likely increase in China. Wang and Zhou (2O05) analyzed the observed trends in extreme precipitation events in China from 1961 to 2OO1,and showed that paterns in the trends in extreme daily precipitation events were similar to those for mean annual and seasonal precipitation, except in northwestern China where most areas displayed increasing trends in extreme precipitation events only in summer. Liu et al. (2O15) studied the trends in extreme precipitation in eastern China using data from urban and rural meteorological stations during 1955-2O11 and indicated that heavy precipitation displayed a significant increasing trend while light rain displayed a significant decreasing trend at both rural and urban stations. However, the trends in the frequency of extreme precipitation events in the MCM have received little attention until now and studies of extreme precipitation events have mainly focused on summer. Thus, it is necessary to comparatively investigate the trends in different grades of precipitation, from light rain to rainstorms, in diferent areas of the MCM. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The objective of this study was to identify the relationships of precipitation changes between the western and eastern MCM. Moreover, the question of whether precipitation in the western MCM has been increasing continuously in the early $2 1 ^ { \\mathrm { s t } }$ century and how precipitation in the eastern MCM has changed during 196O-2O14 was also addressed. The changes in the different grades of precipitation were also analyzed. The results of this study provide a reference for policy makers to take early action to prevent water scarcity in arid regions and mitigate flood disasters in humid regions. Additionally, they willimprove our understanding of the trends and differences in precipitation changes in different areas of the MCM. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Data and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Studyarea ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The MCM $( 3 5 ^ { \\circ } - 4 5 ^ { \\circ } \\mathrm { N }$ $7 5 ^ { \\circ } - 1 2 0 ^ { \\circ } \\mathrm { E }$ ; Fig. 1) was selected as the study area. The area covers both the western MCM, which is mainly affected by westerlies, and the eastern MCM, which is primarily influenced by the East Asian summer monsoon. The MCM can be divided into the western MCM and eastern MCM. The boundary line between these two areas is the Helan Mountains. Because the Hexi Corridor area, located in the eastern part of the western MCM, is periodically affected by the East Asian summer monsoon, and the Xinjiang area, located in the western part of the western MCM, is not influenced by the East Asian summer monsoon, the western MCM can be further divided into the western MCM1 (Xinjiang area) and the western MCM2 (Hexi Corridor area). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc0976f142de770eb229744ab10a9951fa111fa08b87f836a02a02f95339b640.jpg",
+        "img_caption": [
+            "Fig.1Location of the mid-latitudes of the Chinese mainland (MCM)and the annual precipitation trends of 163 meteorological stations during 1960-2014. The areas are delimited as denoted in the figure. Western MCM1 in the figure denotes Xinjiang area, western MCM2 denotes Hexi Corridor area,and eastern MCM denotes the eastern mid-latitudes of the Chinese mainland. $x$ denotes climatic trend coefficient. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There are 163 meteorological stations in the MCM, with an approximately even spatial coverage, as shown in Figure 1.The western MCM1 contains 37 stations, the western MCM2 contains 32 stations, and the eastern MCM contains 94 stations (Fig. 1). As shown in Figure 1,an increasing trend of annual precipitation was detected at all stations, except one, in the western MCM1,and a similar trend was detected for all stations, except two, in the western MCM2. In the eastern MCM, the pattern was more complicated. An increasing trend in annual precipitation was found at 49 stations,while a decreasing trend was detected at 35 stations. The stations with increasing and decreasing trends in the eastern MCM were distributed equally across the region. In the summer, abundant precipitation is generated in the eastern MCM under the concurrent effects of the East Asian summer monsoon, the atmospheric wind field, geographical height, and the western Pacific Ocean subtropical high, but there is relatively less precipitation in the western MCM, where the East Asian summer monsoon has litle impact. In the winter, the climate in either the western MCM or the eastern MCM is dry and rainless due to the influence of the East Asian winter monsoon and related synoptic and climate systems. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Precipitation data used in this paper were obtained from the National Meteorological Information Center (NMIC) of the China Meteorological Administration (CMA) (http://cdc.cma.gov.cn/index.jsp). Daily precipitation data from each meteorological station were available from 1 December, 1959 to 28 February, 2015.A von Neumann ratio $( \\Nu )$ , cumulative deviations $\\mathrm { ( Q / n - 0 . 5 }$ and $\\mathrm { R } / \\mathrm { n } { - } 0 . 5 )$ ,and Bayesian procedures (U and A; Buishand, 1982; Maniak, 1997) were used to control the quality of the precipitation data. The dataset tested by these three methods was considered reliable, passing the $9 5 \\%$ confidence level. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, the days with precipitation ${ \\geq } 0 . 1 \\ \\mathrm { \\ m m }$ were defined as rainy days and daily precipitation totals were treated as precipitation events. According to the CMA standards, the observed daily precipitation (P) can be categorized into four grades of intensity: light rain $( 0 . 1 { \\le } \\mathrm { P } { < } 1 0 ~ \\mathrm { m m / d ) }$ ， moderate rain ( $1 0 { \\le } \\mathrm { P } { < } 2 5 \\ \\mathrm { m m / d } )$ ,heavy rain $2 5 { \\le } \\mathrm { P } { < } 5 0 \\ \\mathrm { m m / d } ,$ , and rainstorms $\\mathrm { ( P { \\ge } 5 0 ~ m m / d ) }$ ） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Seasonal precipitation was calculated for each station using the standard season definitions of spring (March to May), summer (June to August), autumn (September to November), and winter (December to the following February). A time series of annual precipitation was constructed using precipitation data from January to December of the current year. Area-averaged annual (seasonal, monthly) precipitation (rainy days) was calculated using the annual (seasonal, monthly) precipitation (rainy days) totals of stations sited in each area divided by the number of stations in the corresponding area. It should be noted that mean precipitation in this analysis was calculated using the precipitation records of the full period 196O-2014. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methodology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The non-dimensional climatic trend coefficient ( $\\cdot r _ { x t }$ ； Shi et al., 1995; Shi and Deng, 2000; Shi et al., 2003） was used to quantitatively depict the variation of precipitation in the MCM. This is defined as the correlation coefficient between an element's series and the sequence of natural numbers of $1 , 2 , 3 , . . . , n$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { x t } = { \\frac { \\displaystyle \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { n } } { ( x _ { i } - { \\overline { { x } } } ) ( i - { \\overline { { t } } } ) } } { \\displaystyle \\sqrt { \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { n } } { ( x _ { i } - { \\overline { { x } } } ) ^ { 2 } } \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { n } } { ( i - { \\overline { { t } } } ) ^ { 2 } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the time in years, $x _ { i }$ is the value of the element in the $i ^ { \\mathrm { t h } }$ year, $\\mathbf { \\Pi } _ { x } ^ { - }$ is the mean value of the sample, and $ \\overline { { t } } = ( n { + } 1 ) / 2$ . If $r _ { x t }$ is positive (or negative), it denotes that the element has a linearly increasing (decreasing） trend. Because $r _ { x t }$ is non-dimensional, its magnitude can be compared to each other. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Precipitation changes were evaluated by a simple linear regression analysis and a non-parametric Mann-Kendall (M-K) test (Kendall, 1938， 1975). The least-squared linear regression model was applied to the precipitation dataset to estimate the intensities of the changes in mean precipitation. Linear trends were assessed, with the magnitude of the rate of change measured as the slope of the regression line.Therefore,the rate of change in the linear trend could represent the rate of precipitation change per decade (Shen and Sheng,2OO8). The non-parametric M-K test, a rank-based procedure， was used to detect the non-linear trend of precipitation. Confidence levels at the $90 \\%$ ， $9 5 \\%$ ，and $9 9 \\%$ levels were used as thresholds to classify the significance of the increasing and decreasing precipitation trends. Significant trends below the $90 \\%$ confidence level were not considered in this study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Precipitation changes can be atributed to a change in precipitation frequency or intensity, or a combination of the two (Karl and Knight, 1998). The classification of precipitation intensity used in this study was based on the CMA standards. Thus, it is possible to evaluate the proportion of any trend in total precipitation that can be ascribed to changes in the frequency of precipitation events versus the changes in the intensity of precipitation per event. Generally, the precipitation frequency component is calculated by determining the mean precipitation amount per event $( P _ { e } )$ and the trend in precipitation frequency $( b _ { f } )$ . The precipitation change related to the trend in the frequency of events $( b _ { f } )$ is defined as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { b } _ { e } = \\boldsymbol { P } _ { e } ( \\boldsymbol { b } _ { f } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $b _ { e }$ is the trend component of precipitation frequency $\\mathrm { { ( m m / a ) } }$ . For the intensity component, the trend was calculated as a residual using the expression: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { i } = b - b _ { e } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $b _ { i }$ is the trend component of precipitation intensity; $b$ is the trend in total precipitation (Karl and Knight, 1998). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Both the precipitation trends at different timescales and an inter-comparison of precipitation changes in different areas were analyzed based on the methods mentioned above. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Trends of area-averaged annual, seasonal, and monthly precipitation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Trends of area-averaged annual precipitation ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On an annual basis, the mean annual precipitation at each station in the MCM varied considerably, with annual values ranging from 14.O (Turpan station in the western MCM1, with a continental warm temperate desert climate） to $1 0 2 5 . 9 ~ \\mathrm { m m }$ (Taishan station in the eastern MCM, with a continental warm temperate monsoon climate). The mean annual precipitation during 1960-2014 was $1 0 7 . 9 ~ \\mathrm { m m }$ over the western MCM1, $1 8 0 . 2 \\ \\mathrm { m m }$ over the western MCM2, and $4 5 0 . 0 \\mathrm { m m }$ over the eastern MCM. The area-averaged annual precipitation increased from the west to the east of the MCM, which could be attributed to different climate types between the western and eastern MCM. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Area-averaged annual precipitation during 1960-2O14 in both the western MCM1 and the western MCM2 displayed a significant increasing trend at the $9 9 \\%$ confidence level, with increasing trends at rates of 13.6 and $1 0 . 5 \\ \\mathrm { m m } / 1 0 \\mathrm { a }$ , respectively (Figs. 2a-d). Increasing trends in precipitation intensity and frequency were responsible for the precipitation increases in the western MCM1 and MCM2, respectively (Qian and Lin, 2005; Jia, 2012). As shown in Figure 2, the slopes of the regression line of the area-averaged annual precipitation during 196O-1999 were much greater than those during 196O-2014 in these two areas. In the eastern MCM， the area-averaged annual precipitation showed a slight decline during 196O-1999, but a slight increase during 196O-2O14 (Figs. 2e and f). The reason why area-averaged annual precipitation in the eastern MCM decreased during 1960-1999 may be that the major component of the East Asian summer monsoon circulation shifted southward (Li et al., 2010). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The inter-annual variation of the area-averaged annual precipitation during 196O-2O14 in the western and eastern MCM was analyzed using the M-K test. It was found that a mutation point occurred in 1982 in the western MCM, with precipitation increasing dramatically after 1982, passing the $9 5 \\%$ confidence level (Fig. 3a). In contrast, there was no mutation point in the eastern MCM during 1960-2014 (Fig. 3b), because the precipitation decrease at 45 stations partially offset the precipitation increase at 49 stations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d710b326f80dab07dcd9283903f9c1508541a2c9ba44399f1d707ff473751b2.jpg",
+        "img_caption": [
+            "Fig.2 Line trends of area-averaged annual precipitation during two periods in the thre diferent areas "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cb7f557d01a03c0fae82ff4f83f766534f3104a967fec12d8c0f8801be95848.jpg",
+        "img_caption": [
+            "Fig.3Values of the sequential version of Mann-Kendall(M-K) test for area-averaged annual precipitation in the MCM during 1960-2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By closely inspecting Figure 4, it can be seen that during the last four decades of the 20th century, the area-averaged annual precipitation in the western MCM increased significantly, but there was a slight decrease in the eastern MCM, with a seesaw pattern displayed. In the 21st century, the trend in the area-averaged annual precipitation in both the western and eastern MCM has displayed a significant increase, exceeding the $90 \\%$ confidence level. This indicates that the trend of a precipitation increase in the western MCM has been continuing, while in the eastern MCM the seesaw pattern converted to an increasing trend. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bad8f0d30283a02ed75a5c6a2c1e6d73b58ed99962ad6d816a580c49ea984854.jpg",
+        "img_caption": [
+            "Fig.4 Linear trends of area-averaged annual precipitation in the western and eastern MCM "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.2Trends of area-averaged seasonal precipitation ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The non-parametric M-K test and the least-squared linear regression model were used to analyze area-averaged seasonal precipitation trends in the MCM. The results revealed significant differences among the different areas of the MCM. In the western MCM1, the area-averaged seasonal precipitation during 1960-2014 displayed a significant increasing trend in all seasons, passing the $9 9 \\%$ confidence level, with the maximum trend ( $( 4 . 0 \\ \\mathrm { m m } / 1 0 \\mathrm { a } )$ occurring in summer and the minimum trend ( $( 2 . 9 ~ \\mathrm { m m } / 1 0 \\mathrm { a } )$ occurring in spring. In the western MCM2, a significant increasing trend at the $9 9 \\%$ confidence level was detected in winter and spring,and a similar trend at the $9 5 \\%$ confidence level was found in summer and autumn. The maximum trend (3.7 $\\mathrm { { m m / 1 0 a } ) }$ occurred in spring,and the minimum trend ( $\\mathrm { ( 1 . 0 ~ m m / 1 0 a ) }$ occurred in winter. In the eastern MCM, the area-averaged seasonal precipitation displayed a significant increasing trend at the $9 9 \\%$ confidence level in winter and at the $9 5 \\%$ confidence level in spring, with increasing rates of 2.6 and $3 . 4 \\mathrm { \\ m m } / 1 0 \\mathrm { a }$ ， respectively. However, a non-significant decreasing trend was detected in summer (Table 2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/10d91d1bc8e155e719958a3070a71b13f1201f4da7f18b4eaa564c572ec2f424.jpg",
+        "table_caption": [
+            "Table2Variation trends of area-averaged seasonal precipitation in the western MCM1,the western MCM2 and the eastern MCM during 1960-2014 "
+        ],
+        "table_footnote": [
+            "Note:↑(↓) denotes an increasing (decreasing) trend; \\*\\*， significance at the $9 5 \\%$ confidence level; $\\ast \\ast \\ast$ ，significance at the $9 9 \\%$ confidence level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Season</td><td colspan=\"3\">Variation trends of area-averaged seasonal precipitation</td></tr><tr><td>WesternMCM1</td><td>WesternMCM2</td><td>Eastern MCM</td></tr><tr><td>Spring</td><td>↑★***</td><td>个***</td><td>个**</td></tr><tr><td> Summer</td><td>↑***</td><td>个**</td><td>√</td></tr><tr><td> Autumn</td><td>个***</td><td>个**</td><td>→</td></tr><tr><td>Winter</td><td>个***</td><td>个***</td><td>个***</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Overall, the trend in area-averaged seasonal precipitation during 196O-2014 in the western MCM was consistent with that in the eastern MCM in winter and spring. This is because during these two seasons the western and eastern MCM are concurrently affected by the East Asian winter monsoon and the related synoptic climate systems. However, the trend in area-averaged summer precipitation during 1960-2014 in the western MCM was opposite to that in the eastern MCM, displaying a seesaw pattern. As mentioned above, the increasing trends in precipitation intensity and frequency may be responsible for a summer precipitation increase in the western MCM (Qian and Lin, 2005; Jia, 2012). The southward shift of the major component of the East Asian summer monsoon circulation could account for the summer precipitation decrease in the eastern MCM (Li et al., 2010). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 Trends of area-averaged monthly precipitation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The results of a non-parametric M-K test of the area-averaged monthly precipitation during 1960- 2014 in different areas of the MCM revealed that area-averaged monthly precipitation had spatially different trends. As shown in Figure 5, significantly increasing trends at the $90 \\%$ ， $9 5 \\%$ . and $9 9 \\%$ confidence levels were conspicuous in January, February, March,and December in three areas. In the western MCM1 and MCM2, area-averaged monthly precipitation in each of 12 months displayed an increasing trend. In the eastern MCM, the area-averaged monthly precipitation displayed a significant increasing trend in January, February, March, May, June, and December, but there was a significant decreasing trend in July and August (Fig. 5). The significant precipitation decreases in July and August further confirmed the summer precipitation decrease in the eastern MCM as well as the seesaw pattern between the western and eastern MCM in the summer. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/53ab110b8145ab8bd90b129c32b2ccc26305d111f40e2c9c6ef57691dd955170.jpg",
+        "img_caption": [
+            "Fig. 5Trends of area-averaged monthly precipitation and the results of $\\mathbf { M } \\mathbf { - K }$ test in each area of MCM during 1960-2O14.Dashed black lines denote thresholds at the $90 \\%$ ， $9 5 \\%$ and $99 \\%$ confidence levels. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 Comparison of precipitation changes on an inter-decadal timescale ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A comparative study of the decadal precipitation changes between the western and eastern MCM was conducted by analyzing the variations of the decadal precipitation anomalies. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the western MCM1, as shown in Table 3, the decadal precipitation anomalies were negative from the 1960s to the 1970s in all four seasons, but they were positive from the 1980s to the period of 2010-2014. In the western MCM2, the signs of the decadal precipitation anomalies were the same as those in the western MCM1 in winter and spring. However, they exhibited an irregular pattern of variation in summer and autumn, because the western MCM2, with a transitional climate,was periodically affected by the East Asian summer monsoon， and the advance and retreat of the summer monsoon to a large degree determined the timing of its rainy season. We then concluded that it was relatively wetter after the 198Os in the western MCM (the periods before and after the 198Os were treated as dry and wet epochs,respectively). In the eastern MCM, the signs of the decadal precipitation anomalies during the whole period were the same as those in the western MCM in winter and spring. Nonetheless, in summer, the signs of the decadal precipitation anomalies were opposite to those in the western MCM1, which again further confirmed the seesaw pattern between the western and eastern MCM in the summer. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The decadal precipitation changes during 1960-2014 in the western MCM1 were the most pronounced, followed by those in the western MCM2. Moreover, in the western MCM1, there was no seasonal variation in the signs of the decadal precipitation anomalies from the 1960s to the period of 2010-2014. As a response to the global warming since the late 1980s, the decadal precipitation in the western MCM significantly increased, especially in winter (Table 3). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As discussed above, precipitation changes on an inter-decadal timescale compared well with those on an inter-annual timescale in both the western and eastern MCM. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d9a70a9e9635b0828c76bc6b96c97570da0953c3c78c8707cbe585ec0f8bde0.jpg",
+        "table_caption": [
+            "Table 3 Percentage of decadal precipitation anomalies during 1960-2014 in each area of the MCM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Area</td><td rowspan=\"2\">Time</td><td colspan=\"5\">Percentage of decadal precipitation anomalies (%)</td></tr><tr><td>Spring</td><td>Summer</td><td>Autumn</td><td>Winter</td><td>Annual</td></tr><tr><td rowspan=\"7\">Western MCM1</td><td>1960s</td><td>-10</td><td>-4</td><td>-27</td><td>-97</td><td>-13</td></tr><tr><td>1970s</td><td>-20</td><td>-3</td><td>-19</td><td>-54</td><td>-13</td></tr><tr><td>1980s</td><td>30</td><td>7</td><td>46</td><td>151</td><td>27</td></tr><tr><td>1990s</td><td>49</td><td>32</td><td>17</td><td>221</td><td>42</td></tr><tr><td>2000s</td><td>10</td><td>10</td><td>26</td><td>91</td><td>19</td></tr><tr><td>2010-2014</td><td>19</td><td>24</td><td>42</td><td>48</td><td>33</td></tr><tr><td>1960s</td><td>-4</td><td>-10</td><td>-6</td><td>-100</td><td>-9</td></tr><tr><td rowspan=\"5\">Western MCM2</td><td>1970s</td><td>-35</td><td>6</td><td>4</td><td>-57</td><td>-2</td></tr><tr><td>1980s</td><td>39</td><td>4</td><td>2</td><td>157</td><td>11</td></tr><tr><td>1990s</td><td>35</td><td>8</td><td>-6</td><td>160</td><td>11</td></tr><tr><td>2000s</td><td>28</td><td>-6</td><td>43</td><td>67</td><td>10</td></tr><tr><td>2010-2014</td><td>17</td><td>8</td><td>15</td><td>18</td><td>12</td></tr><tr><td rowspan=\"6\">Eastern MCM</td><td>1960s</td><td>1</td><td>2</td><td>10</td><td>-68</td><td>3</td></tr><tr><td>1970s</td><td>-18</td><td>4</td><td>-4</td><td>-43</td><td>-1</td></tr><tr><td>1980s</td><td>17</td><td>-7</td><td>-6</td><td>111</td><td>-2</td></tr><tr><td>1990s</td><td>26</td><td>-1</td><td>-14</td><td>93</td><td>2</td></tr><tr><td>2000s</td><td>3</td><td>-9</td><td>17</td><td>58</td><td>0</td></tr><tr><td>2010-2014</td><td>6</td><td>-1</td><td>30</td><td>3</td><td>7</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3Trends in different grades of precipitation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The trends in different grades of precipitation during 196O-2014 were analyzed using a non-parametric M-K test and the least-squared linear regression model. The results revealed that, on an annual basis, both the trends in rainstorms and heavy rain displayed the opposite pattern in the western and eastern MCM. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 Trends in different grades of annual precipitation and corresponding rainy days On an annual basis, the area-averaged annual precipitation was composed of $6 4 . 1 \\%$ light rain, $2 8 . 0 \\%$ moderate rain, $7 . 2 \\%$ heavy rain, and $0 . 7 \\%$ rainstorms in the western MCM1. The corresponding figures were $5 8 . 1 \\%$ light rain, $3 3 . 6 \\%$ moderate rain, $7 . 4 \\%$ heavy rain, and $0 . 9 \\%$ rainstorms in the western MCM2, and $3 0 . 9 \\%$ light rain, $3 1 . 8 \\%$ moderate rain, $2 2 . 2 \\%$ heavy rain, and $1 5 . 1 \\%$ rainstorms in the eastern MCM. The percentage contribution of light rain to the area-averaged annual precipitation decreased from the west to the east of the MCM. In contrast, the percentage contribution of moderate rain, heavy rain, and rainstorms increased from the west to the east of the MCM. Additionally, in the western MCM1, there was a non-significant increasing trend in rainstorms during 1960-2014 (Table 4), with the slope of the regression line indicating an increasing rate of $0 . 1 5 \\mathrm { \\ m m } / 1 0 \\mathrm { a }$ (Fig. 6a). A similar trend ( $\\mathrm { 0 . 0 2 \\ m m / 1 0 a ) }$ was detected for rainstorms in the western MCM2. Both heavy and moderate rain increased significantly at the $9 9 \\%$ confidence level in the western MCM1 (Table 4)，with the rate of increase being 1.2 and $3 . 7 \\ \\mathrm { m m } / 1 0 \\mathrm { a }$ , respectively (Figs. 6b and c). A significant increasing trend at the $9 9 \\%$ confidence level was detected for moderate rain in the western MCM2, with the rate of increase being $3 . 5 \\mathrm { \\ m m / 1 0 a }$ . Light rain in both the western MCM1 and MCM2 displayed a significantly increasing trend at the $9 9 \\%$ confidence level, with the rate of increase being 8.4 (Fig. 6d) and $6 . 1 \\ \\mathrm { m m } / 1 0 \\mathrm { a }$ , respectively. In the eastern MCM, both rainstorms and heavy rain exhibited a decreasing trend, but moderate rain and light rain displayed an increasing trend (Table 4). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Although rainstorms and heavy rain displayed an increasing trend in both the western MCM1 and MCM2, they displayed a decreasing trend in the eastern MCM. Thus, the trends of both rainstorms and heavy rain displayed a sesaw pattern between the western and eastern MCM. In addition, as shown in Table 4, for any precipitation type, the variation in the number of area-averaged annual rainy days was in good agreement with that of the area-averaged annual precipitation in each area. It was concluded that the number of rainy days played an important role in the precipitation changes (Table 4). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/1403988787820d09a5879ffbdf2b1760d9616d5893c37709ba848f418741ad2f.jpg",
+        "img_caption": [
+            "Fig.6Linear trends of different grades of annual precipitation in the western MCM1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/0027978ac441b6b44fca1d9f4f60ab9dc2c6aaf342f8b17569cd9d9ef4304068.jpg",
+        "table_caption": [
+            "Table 4Variation trends of diferent grades of annual precipitation and corresponding rainy days in each area of the MCM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Precipitation type</td><td colspan=\"6\">Variation trends</td></tr><tr><td colspan=\"3\">Precipitation</td><td colspan=\"3\">Rainy days</td></tr><tr><td>Western MCM1</td><td>Western MCM2</td><td>Eastern MCM</td><td>Western MCM1</td><td>Western MCM2</td><td>Eastern MCM</td></tr><tr><td>Rainstorm</td><td>↑</td><td>个</td><td>←</td><td>→</td><td>↑</td><td></td></tr><tr><td>Heavy rain</td><td>↑***</td><td>→</td><td>←</td><td>↑***</td><td>→</td><td></td></tr><tr><td>Moderate rain</td><td>↑***</td><td>↑***</td><td></td><td>个***</td><td>↑***</td><td>← →</td></tr><tr><td>Light rain</td><td>→***</td><td>个***</td><td>↑**</td><td>→***</td><td>★***</td><td>个***</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 Trends in different grades of seasonal precipitation and corresponding rainy days The trends in the area-averaged seasonal amounts of different grades of precipitation, from light rain to rainstorms, during 196O-2O14 in the three different areas have been analyzed. The results suggest differences existed among the three different areas (Table 5). The area-averaged seasonal amounts of all precipitation types in both the western MCM1 and MCM2 displayed an increasing trend in all four seasons. In the eastern MCM, there was a similar increasing trend in all precipitation types only in winter and spring, while there was a decreasing trend in summer. In the western MCM1, there was a conspicuous increasing trend in heavy rain in spring, summer, and autumn during 196O-2014, which was significant at the $90 \\%$ . $9 5 \\%$ ， and $9 5 \\%$ confidence levels, respectively. The largest rate of change occurred in summer $( 0 . 6 6 ~ \\mathrm { m m } / 1 0 \\mathrm { a } )$ . Both moderate rain and light rain displayed a significant increasing trend at the $9 9 \\%$ confidence level in all four seasons (Table 5). In the western MCM2, heavy rain in summer displayed a significant increasing trend at the $9 5 \\%$ confidence level, with the rate of change being $0 . 8 8 ~ \\mathrm { { m m } / 1 0 a }$ . Moderate rain displayed a significant increasing trend in spring and summer, with the rate of change being 0.9 and $1 . 7 \\mathrm { \\ m m / 1 0 a }$ ， respectively. Light rain displayed a significant increasing trend at the $9 9 \\%$ confidence level in spring, autumn, and winter, with the maximum rate of change occurring in spring ( $2 . 6 6 ~ \\mathrm { \\ m m } / 1 0 \\mathrm { a } )$ . In the eastern MCM，a conspicuous decreasing trend at the $9 5 \\%$ confidence level was identified in summer rainstorms, with the rate of change being $- 3 . 2 2$ $\\mathrm { { m m / 1 0 a } }$ (Table 5). Heavy rain in spring displayed a significant increasing trend at the $9 5 \\%$ confidence level, with a rate of change of $0 . 6 2 ~ \\mathrm { { m m } / 1 0 a }$ (Table 5). For all precipitation types, the trend in the number of area-averaged seasonal rainy days was consistent with that of the area-averaged seasonal precipitation in all four seasons in each area (Table 5). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For all precipitation types, the trend in the area-averaged seasonal precipitation during $1 9 6 0 -$ 2014 in the western MCM was consistent with that in the eastern MCM in winter and spring, so was the trend in the number of area-averaged seasonal rainy days. However, both the area-averaged summer precipitation and the number of area-averaged summer rainy days displayed a seesaw pattern between the western and eastern MCM. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/fbd821c1a9eb1d037ebb26b7a4b612610c073e32abf4c210ea075df97739ce2a.jpg",
+        "table_caption": [
+            "Table 5Trends of different grades of seasonal precipitation and corresponding rainy days in each area of the MCM "
+        ],
+        "table_footnote": [
+            "Note:-,datanotavailable;\\*,significance at $90 \\%$ confidence level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Area</td><td rowspan=\"3\">Precipitation type</td><td colspan=\"8\">Variation trends</td></tr><tr><td colspan=\"4\">Precipitation</td><td colspan=\"4\">Rainy days</td></tr><tr><td>Spring</td><td>Summer</td><td>Autumn</td><td>Winter</td><td>Spring</td><td>Summer</td><td>Autumn</td><td>Winter</td></tr><tr><td rowspan=\"4\">Western MCM1</td><td>Rainstorm</td><td>→</td><td></td><td>→</td><td></td><td>→</td><td></td><td></td><td></td></tr><tr><td>Heavy rain</td><td>个*</td><td>↑**</td><td>↑**</td><td>→</td><td>个*</td><td>个**</td><td>个**</td><td></td></tr><tr><td>Moderate rain</td><td>↑***</td><td>★***</td><td>↑***</td><td>↑***</td><td>↑***</td><td>↑***</td><td>★***</td><td>↑***</td></tr><tr><td>Light rain</td><td>↑***</td><td>★***</td><td>↑***</td><td>↑***</td><td>个***</td><td>个**</td><td>↑***</td><td>↑***</td></tr><tr><td rowspan=\"5\">Western MCM2</td><td>Rainstorm</td><td>→</td><td>→</td><td></td><td></td><td>→</td><td>→</td><td></td><td></td></tr><tr><td>Heavy rain</td><td>→</td><td>个**</td><td>→</td><td></td><td>→</td><td>个**</td><td>←</td><td>一</td></tr><tr><td>Moderate rain</td><td>↑***</td><td>个*</td><td></td><td></td><td>★***</td><td>个**</td><td>→</td><td>一</td></tr><tr><td>Light rain</td><td>↑***</td><td>→</td><td>↑***</td><td>↑***</td><td>↑***</td><td>←</td><td>↑***</td><td>↑***</td></tr><tr><td>Rainstorm</td><td>→</td><td>√**</td><td>←</td><td></td><td>→</td><td>←</td><td>←</td><td>一</td></tr><tr><td rowspan=\"3\">Eastern MCM</td><td>Heavy rain</td><td>个**</td><td>←</td><td>→</td><td>→</td><td>个**</td><td>←</td><td>→</td><td>→</td></tr><tr><td>Moderate rain</td><td>个**</td><td>←</td><td>→</td><td>↑***</td><td>↑**</td><td>←</td><td>→</td><td>↑***</td></tr><tr><td>Light rain</td><td>↑**</td><td>←</td><td>↑</td><td>***</td><td>↑**</td><td>√***</td><td>个*</td><td>↑***</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4Impact of the frequency and intensity of precipitation on the total rainfall in the different precipitation categories ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Changes in the frequency of precipitation events together with changes in the intensity of precipitation per event affect local precipitation. Changes in the frequency and intensity of precipitation for the different grades of precipitation were also investigated. In the western MCM1, the contribution of the increased intensity of precipitation per rainstorm to the increase in total rainfall from rainstorms was even more pronounced than the contribution due to the increased rainstorm frequency, with the increased intensity accounting for $9 8 . 3 6 \\%$ of the total increase. For heavy rain， there was an $8 8 . 2 1 \\%$ contribution from intensity and an $1 1 . 7 9 \\%$ contribution from frequency to the overall increase. For moderate rain, there was a $6 1 . 7 8 \\%$ contribution from intensity versus a $3 8 . 2 2 \\%$ contribution from frequency to the total increase. In contrast, for light rain, the contribution to the increase from the increased intensity was much less than that from the increased frequency, contributing an amount equal to $1 0 . 1 9 \\%$ of the total increase in light rain (Fig.7a). For all precipitation types in the western MCM2, the contributions from intensity and frequency were the same as those in the western MCM1 (Fig. 7b). In the easter MCM, there was a decreasing trend in area-averaged annual rainstorm and heavy rain, but an increasing trend was identified for area-averaged annual moderate rain and light rain. The decrease in intensity accounted for $7 3 . 8 9 \\%$ of the total decrease in rainfall from rainstorms, while the decrease in rainstorm frequency accounted for the remaining $2 6 . 1 1 \\%$ . For the decrease in heavyrain, $9 8 . 6 7 \\%$ of the total decrease was due to the decreased intensity, while the decreased frequency only accounted for $1 . 3 3 \\%$ of the total decrease. For moderate and light rain, the contributions from the intensity and frequency to the total increase were similar to those in the western MCM (Fig. 7c). Thus, for the different grades of precipitation from rainstorm to moderate rain, precipitation intensity made a greater contribution to the precipitation changes of the corresponding grade than precipitation frequency. For light rain, the exact opposite was apparent. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/f433838d7cea755d2dc3a7db560dfcfb468805a601bbb89b642c4c11a3f45864.jpg",
+        "img_caption": [
+            "Fig.7Contributions from frequency and intensity among four precipitation types in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "It was shown that the trends in area-averaged annual precipitation during 196O-1999 displayed a seesaw patern between the western and eastern MCM using daily precipitation data from 163 meteorological stations. In the $2 1 ^ { \\mathrm { s t } }$ century, the trends in area-averaged annual precipitation in both the western and eastern MCM displayed a significant increase. The more detailed conclusions are as follows. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The trends in area-averaged annual precipitation during 1960-2014 in both the western MCM1 and MCM2 displayed a significant increase, exceeding the $9 9 \\%$ confidence level. In addition, the trend in area-averaged seasonal precipitation during 196O-2O14 in the western MCM was consistent with that in the eastern MCM in winter and sprig. This was because in these two seasons the western and eastern MCM are concurrently influenced by the East Asian winter monsoon. However, the trend in area-averaged summer precipitation displayed a seesaw pattern between the western and eastern MCM, which could be atributed to the effects of the East Asian summer monsoon on the MCM. The number of rainy days played an important role in precipitation changes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "At both annual and seasonal timescales, the trend in rainstorms during 196O-2O14 displayed a seesaw patern between the western and eastern MCM. This situation was also apparent for the trend in heavy rain. For rainstorms, heavy rain, and moderate rain, precipitation intensity made a greater contribution to precipitation changes than precipitation frequency. In contrast, precipitation frequency dominated the changes in light rain. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This paper is financially supported by the National Natural Science Foundation of China (91644226), the National Key Research Project of China (2O16YFA0602004)，and Industry of National Public Welfare (Meteorological) Scientific Research (GYHY201206004). The authors would like to thank the National Meteorological Information Center (NMIC） of China Meteorological Administration (CMA） in Beijing for providing valuable daily precipitation dataset. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Allen MR,Ingram WJ.20o2.Constraints onfuturechanges inclimate andthe hydrologiccycle.Nature,419(6903): 4-232.   \nBuishand TA.1982.Some methods for testing the homogeneityof rainfall records. Journal of Hydrology,58(1-2): 11-27.   \nFu JL,Qian WH,Lin X,etal.2008. Trends ingraded precipitationin China from1961to20.Advances in Atmospheric Sciences,25(2): 267-278.   \nGemmer M,Becker S,Jiang T.2004.Observedmonthly precipitation trends in China1951-2002.TheoreticalandApplied Climatology, 77(1-2): 39-45.   \nIPCC.2001. Climate change 2O01: The Scientific Basis. Cambridge: Cambridge University Press,785.   \nIPCC.2007.Technical summary.In: Solomon S,QinD,Manning M,etal.Climate Change 2007: thePhysical Science Basis. Contribution of Working Group I to the $4 ^ { \\mathrm { t h } }$ Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press. 2-4.   \nJia WX.2012.Temporaland spatialchangesof precipitation in Qilian Mountainsand Hexi Coridorduring 196O-2009.Acta Geographica Sinica,67(5): 631-644. (in Chinese)   \nKarlTR,KnightRW.1998.Secular trendsof precipitationamount,frequency,andintensityinthe United States.Bulletinof American Meteorological Society, 79(2): 231-241.   \nKendall MG. 1938. A new measure of rank correlation. Biometrika, 30(1-2): 81-93.   \nKendall MG. 1975. Rank Correlation Methods. London: Griffin, 202.   \nKundzewicz ZW.20o5.Floodrisk inthechanging world-Yangtzefloods.In: JiangT,KingL,GemmerM,etal.Climate Change and Yangtze Floods. Beijing: Science Press,246-258.   \nLi DL,WeiL,Cai Y,etal.2Oo3.The presentfactsandthefuture tendencyoftheclimatechange in Northwest Chia.Journal of Glaciology and Geocryology,25(2): 135-142. (in Chinese)   \nLiJP, Wu Z W,Jiang Z H,et al.2O10.Can global warming strengthen theEast Asian summer monsoon?JournalofClimate, 23(24): 6696-6705.   \nLiu B,XuM,Henderson M,etal.2Oo5.Observed trendsof precipitationamount,frequencyand intensityin hina,1960- 2000. Journal of Geophysical Research: Atmospheres,110(D8): D08103.   \nLiu R,Liu SC,CiceroneRJ,etal.2O15.Trendsof extreme precipitationinEasten Chinaandtheirposiblecauses.Advaces in Atmospheric Sciences, 32(8): 1027-1037.   \nManiak U.1997. Hydrologie und Wasserwirtschaft. Berlin: Springer, 650.   \nMeng XJ,ZhangSF,ZhangYY,etal.2013.Temporalandspatialchangesof temperatureand precipitationinHexioior during 1955-2011. Journal of Geographical Sciences,23(4): 653-667.   \nQian W,Lin X.20o5.Regional rends inrecent precipitationindices inChina.MeteorologyandAtmosphericPhysics,90(3-4): 193-207.   \nSemenov VA,Bengtsson L.2Oo2.Seculartrends indaily precipitation characteristics:greenhousegassimulationwitha coupled AOGCM. Climate Dynamics,19(2): 123-140.   \nShen SH,Sheng Q.2008.Changes in panevaporation and itscause in China in the last45 years.Acta Meteorologica Sinica, 66(3): 452-460. (in Chinese)   \nShi N,Tu QP,Chen JQ.1995.Temperature,rainfallvariationsand theiranomaliesover China under thecold-warm background in the 20th century. Acta Meteorologica Sinica, 9(4): 445-455.   \nShi N,Huang X X,Yang Y.2Oo3.Spatiotemporal featuresof the trendvariationof globallandannualrainfall fields from 1948\\~2000. Chinese Journal of Atmospheric Sciences, 27(6): 971-982. (in Chinese)   \nShi YF,Shen YP,LiDL,et al.2Oo3.Discusiononthepresent climatechangefrom warm-dry to warm-wet innorthwest China.Quaternary Sciences,23(2):152-164.(in Chinese)   \nShi YF,Shen YP,KangE,etal.2O7.Recenandfutureclimatechange inNorthwest China.ClimaticChange,8(3-4):379- 393.   \nShinN,DengZW.20.Space/timefeaturesof thesecular variationin1951-1998Northern500-hPa Height.Meteorologyand Atmospheric Physics, 73(1-2): 35-46.   \nTian R X, GaoL, GaoYX.1995.Spatialand temporal variationof annualrainfalin thenorthwestarid areasofChina.Plateau Meteorology, 14(1): 90-95. (in Chinese)   \nTrenberth K E.1998.Atmospheric moisture residence times and cycling: Implications for rainfallrates and climate change. Climatic Change, 39(4): 667-694.   \nTrenberth KE,DaiA G,RasmussenRM,etal.2Oo3.Thechanging characterof precipitation.Buletinof theAmerican Meteorological Society, 84(9): 1205-1217.   \nWang SW,ZhuJH,CaiJN.2004.Interdecadal variabilityof temperatureand precipitation inChinasince180.Advaces in Atmospheric Sciences,21(3): 307-313.   \nWangYQ,ZhouL.2005.Correction to“Observedtrends inextreme precipitation events in China during1961-200land the associated changes in large-scale circulation\". Geophysical Research Letters,32(17): L17708.   \nZhai PM,RenFM, Zhang Q.1999Detectionof trends in China’s precipitation extremes.Acta Meteorologica Sinica,57(2): 208-216.(in Chinese)   \nZhang Q,SinghVP,LiJF,etal.2012.Spatio-temporal variationsof precipitation extremes in Xinjiang,China.Joualof Hydrology, 434-435: 7-18.   \nZhu S J, Chang ZF.2O11Temperature and precipitation trends in Minqin Desert during the periodof1961-2007.Jouralof Arid Land, 3(3): 214-219. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,246 @@
+# 西北诸河流域土地利用变化及土地生态安全评估
+
+吴景全，吴铭婉，臧传富(华南师范大学地理科学学院，广东 广州510631)
+
+摘要：运用ArcGIS空间分析，揭示了1990—2018年西北诸河流域土地利用动态变化特征，采用“压力-状态-响应"(Pressure-state-response,P-S-R)模型和熵权法对指标进行赋权,并分析了西北诸河流域土地生态安全状况。结果表明：(1）西北诸河流域2015—2018年综合土地利用动态度为$2 . 6 5 \%$ ，土地利用变化剧烈。2000年后城乡建设用地年平均单一动态度为 $4 . 1 6 \%$ ,增长速度最快。草地主要向沙地、耕地和其他未利用土地转出，流域荒漠区沙地和其他未利用土地之间转换稳定。（2）西北诸河流域土地生态安全评价指标体系中状态层权重最高，为0.4985,由指标权重排序可知，经济社会发展、湿地面积和人口增长是影响西北诸河流域土地生态安全评价的重要因素。(3）1990—2018年西北诸河流域土地生态安全指数呈递增趋势，1990—2014年基本处于不安全级,2015年后转变为较不安全级，西北诸河流域土地生态安全状况有所好转。本研究为西北诸河流域土地利用管理规划提供科学依据，为自然流域尺度的土地利用变化及土地生态安全性研究提供实例。
+
+关 键词：西北诸河；土地利用动态变化；压力-状态-响应(P-S-R)模型；综合评价法；土地生态安全
+
+# 文章编号：
+
+土地是人类生存与发展最基本的自然资源和物质基础i，土地利用/覆盖变化(Landuseandlandcoverchange，LUCC)作为影响全球环境变化的重要因素，是人类活动最直接的反映[2]，随着1995年国际地圈生物圈计划(IGBP)和人与环境计划(IHDP)的制定并开始实施，LUCC成为了全球环境变化研究的前沿和热点[3]。在中国经济社会迅速发展的背景下，城市化进程不断加快，在生态脆弱地区，土地生态脆弱的性质与城市土地开发的巨大需求存在较大矛盾，不重视生态用地及其维护和土地资源的不合理利用恶化了土地生态失调的问题。因此，土地生态安全作为土地资源可持续利用的基础与核心[4],维持着土地自然-经济-社会复合生态系统的长期协调发展，掌握土地利用变化动态、研究区域土地生态安全状况及其结构已成为区域可持续发展的重要研究内容[5-6]
+
+目前，已有不少学者从多种角度、运用多种分析方法对区域LUCC和土地生态安全评价进行了探索。朱亚楠等[分析了1990—2017年乌鲁木齐市土地利用/覆盖变化，采用熵权物元模型揭示了生态安全变化状况与趋势。余健等[8运用物元分析法对皖江地区9个市进行土地生态安全评价，解释了熵权物元模型在克服生态安全概念模糊性和指标不相容性方面的独特优势。程东林等9借助三角模型构建兰州市土地生态安全评价指标体系，分析了西北生态脆弱区城市土地生态安全状况及动态演变趋势。谢玲等通过建立广西石漠化地区土地生态安全评价指标体系，探讨了广西各市/县土地生态安全空间差异，对轻度及以上石漠化地区进行土地生态安全评价研究。Han等运用模糊熵评价方法，分析了京津冀都市圈城市生态安全性，发现与自然资源指标和环境指标相比，社会经济指标对生态安全评估的贡献更大。以上研究应用了多种模型和分析方法，探讨了不同区域尺度内LUCC和土
+
+# 干旱区地理
+
+地生态安全的关系，大部分研究的关注点主要集中在模型方法和影响因素分析[12-14]等方面，较少关注在长时间序列上的结构变化和趋势。在研究区尺度上，目前LUCC和土地生态安全评价方面的研究大多数集中关注于省域、城市县区等行政区划[15-20],而以自然边界为研究区的土地利用变化分析研究较少，基于大流域片区的土地生态安全评价也比较缺乏定量化的科学研究成果。因此，长时间序列的大流域片区土地利用变化趋势分析及土地生态安全评价研究仍需进一步加强。在研究方法上，目前土地生态安全评价研究主要使用人工神经网络法、物元分析法、综合评价法等，其中人工神经网络法和物元分析法虽然在精度方面具有一定优势，但结果具有不确定性2，准度和可信度较低，难以广泛使用，综合评价法作为一种多指标复合模型，结合赋权定量与指标定性，可信性和实用性较强[22-23]。因此，综合评价模型更适用于基于大流域尺度的土地生态安全评价研究。
+
+西北诸河流域(图1)深居亚欧大陆腹地，气候干旱，在“西部大开发"和政府扶持政策下，社会经济发展水平迅速提高。在此背景下其土地利用类型和土地生态安全指数都受到剧烈影响，共同反映地区土地资源可持续利用和社会经济长期协调发展状况。但目前从土地利用变化的角度综合探讨西北诸河流域土地生态安全的研究较为缺乏，关于流域荒漠、生态用地与土地生态安全的相互关系有待进一步探究。因此，本研究将针对整个西北诸河片区及其水资源二级片区，分析1990—2018年间土地利用变化趋势与特征，并基于综合评价模型探究注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2016)2923号的标准地图制作，底图无修改。下同。
+
+![](images/7663ff7da8548b46a16cc5c12baaf44b8aebd3efb6d989844899ed14f1b99716.jpg)  
+图1西北诸河流域区位示意图  
+Fig.1Location diagram of the river basins of northwestern China
+
+其土地生态安全状况，以期为西北诸河流域土地资源可持续利用和土地生态安全的改善规划提供理论参考与科学依据。
+
+# 1研究区、数据与方法
+
+# 1.1 研究区概况
+
+根据已有文献[24-25],本研究参考"全国水资源综合数据库空间集成"专题项目中9大流域片区划分成果，选取西北诸河流域及其水资源二级分区作为研究区。西北诸河流域 $\langle 7 3 ^ { \circ } 3 2 ^ { \prime } { \sim } 1 1 9 ^ { \circ } 5 5 ^ { \prime } \mathrm { E } , 2 9 ^ { \circ } 3 0 ^ { \prime } { \sim }$ $\ 4 9 ^ { \circ } 1 4 ^ { \prime } \mathrm { N } )$ 西起帕米尔高原国境线，东至大兴安岭，北起新疆阿勒泰山的北边国境线，南抵西藏北部羌塘高原[26],包括西北诸外流河、内流河和国际河流，覆盖新疆、西藏、甘肃、青海、宁夏、内蒙古、河北7个省（区），总面积达 $3 3 6 . 2 3 \times 1 0 ^ { 4 } { \mathrm { k m } } ^ { 2 }$ ，占中国国土面积的1/3以上。西北诸河共有大小河流600余条，河川径流以降雨形成为主，以冰川融雪补给为辅，大部分径流产生于山区，盆地及高原地面径流较少。该地区深居亚欧大陆内陆，以温带大陆性气候为主，受地形等因素的影响，降水量在时空分布上极度不均匀，干旱缺水的自然环境是制约当地经济发展的限制性因素。西北诸河流域地理区位如图1所示。
+
+# 1.2数据来源与处理
+
+本研究所筛选的29个社会经济统计指标(表1)通过中国经济社会大数据研究平台(https://datacnki.net/)获取。西北诸河流域1990、1995、2000、2005、2010、2015年和2018年7期土地利用/覆盖变化栅格数据来源于中国科学院资源环境科学数据中心（http://www.resdc.cn/）,通过人工目视解译生成，以LandsatTM/ETM遥感影像为主要数据源。
+
+由于社会经济指标数据以各省（区）的地级市为单位进行统计，为保证后续计算的科学性，本研究根据流域内面积所占其地级市面积与流域各个地级市面积之比，以此作为面积加权参数将各行政区划的社会经济指标按照其所占面积比重进行计算，最终得出流域尺度的社会经济数据。
+
+# 1.3土地利用变化分析方法
+
+本研究运用单一土地利用动态度、综合土地利用动态度、土地利用转移分析与转移矩阵的方法分析西北诸河流域土地利用变化时空格局，具体计算过程和公式见参考文献[27]。
+
+表1西北诸河流域土地生态安全评价指标体系及权重  
+Tab.1Evaluation index system and weight of land ecological security in the river basins of northwestern China   
+
+<html><body><table><tr><td>目标层</td><td>准则层</td><td>√ 权重</td><td>指标层</td><td>单位</td><td>安全趋势</td><td>权重</td><td>权重排序</td></tr><tr><td>西北诸河流域</td><td>压力(P)</td><td>0.2331</td><td>总人口数</td><td>10人</td><td>负向</td><td>0.0463</td><td>5</td></tr><tr><td>土地生态安全 评价指标体系</td><td></td><td></td><td>人口密度</td><td>人·km²</td><td>负向</td><td>0.0120</td><td>27</td></tr><tr><td></td><td></td><td></td><td>工业废水排放量</td><td>104 t</td><td>负向</td><td>0.0293</td><td>12</td></tr><tr><td></td><td></td><td></td><td>工业固体废物产生量</td><td>104 t</td><td>负向</td><td>0.0422</td><td>8</td></tr><tr><td></td><td></td><td></td><td>农用化肥施用量</td><td>104t</td><td>负向</td><td>0.0431</td><td>6</td></tr><tr><td></td><td></td><td></td><td>农药使用量</td><td>t</td><td>负向</td><td>0.0374</td><td>10</td></tr><tr><td></td><td></td><td></td><td>城镇登记失业率</td><td>%</td><td>负向</td><td>0.0227</td><td>21</td></tr><tr><td></td><td>状态(S)</td><td>0.4985</td><td>水土流失面积</td><td>km</td><td>负向</td><td>0.0277</td><td>13</td></tr><tr><td></td><td></td><td></td><td>第一产业增加值</td><td>10元</td><td>负向</td><td>0.0397</td><td>9</td></tr><tr><td></td><td></td><td></td><td>第二产业增加值</td><td>10元</td><td>负向</td><td>0.0428</td><td>7</td></tr><tr><td></td><td></td><td></td><td>第三产业增加值</td><td>10元</td><td>正向</td><td>0.0273</td><td>14</td></tr><tr><td></td><td></td><td></td><td>农业总产值</td><td>10元</td><td>正向</td><td>0.0216</td><td>23</td></tr><tr><td></td><td></td><td></td><td>人均耕地面积</td><td>km²·人-1</td><td>正向</td><td>0.0659</td><td>2</td></tr><tr><td></td><td></td><td></td><td>国内生产总值(GDP)</td><td>10元</td><td>正向</td><td>0.1486</td><td>1</td></tr><tr><td></td><td></td><td></td><td>城镇化率</td><td>%</td><td>正向</td><td>0.0247</td><td>18</td></tr><tr><td></td><td></td><td></td><td>城市供水总量</td><td>104t</td><td>正向</td><td>0.0115</td><td>28</td></tr><tr><td></td><td></td><td></td><td>森林覆盖率</td><td>%</td><td>正向</td><td>0.0266</td><td>16</td></tr><tr><td></td><td></td><td></td><td>湿地面积</td><td>km²</td><td>正向</td><td>0.0621</td><td>3</td></tr><tr><td></td><td>响应(R)</td><td>0.2684</td><td>人均GDP</td><td>元·人</td><td>正向</td><td>0.0252</td><td>17</td></tr><tr><td></td><td></td><td></td><td>人均粮食产量</td><td>kg·人-1</td><td>正向</td><td>0.0213</td><td>24</td></tr><tr><td></td><td></td><td></td><td>社会消费品零售总额</td><td>10元</td><td>正向</td><td>0.0273</td><td>15</td></tr><tr><td></td><td></td><td></td><td>固定资产投资额</td><td>10元</td><td>正向</td><td>0.0339</td><td>11</td></tr><tr><td></td><td></td><td></td><td>城市生活垃圾清运量</td><td>104t</td><td>正向</td><td>0.0097</td><td>29</td></tr><tr><td></td><td></td><td></td><td>农民人均纯收入</td><td>元</td><td>正向</td><td>0.0245</td><td>19</td></tr><tr><td></td><td></td><td></td><td>有效灌溉面积</td><td>km²</td><td>正向</td><td>0.0178</td><td>25</td></tr><tr><td></td><td></td><td></td><td>人工造林面积</td><td>km²</td><td>正向</td><td>0.0227</td><td>22</td></tr><tr><td></td><td></td><td></td><td>教育占财政支出比重</td><td>%</td><td>正向</td><td>0.0475</td><td>4</td></tr><tr><td></td><td></td><td></td><td>城市污水处理率</td><td>%</td><td>正向</td><td>0.0245</td><td>20</td></tr><tr><td></td><td></td><td></td><td>水土流失治理面积</td><td>km²</td><td>正向</td><td>0.0141</td><td>26</td></tr></table></body></html>
+
+# 1.4土地生态安全评价
+
+P-S-R(Pressure-state-response)概念模型,即“压力-状态-响应"模型，在1979年由加拿大统计学家最先提出，在20世纪80年代末，通过经济合作和开发组织(OECD)与联合国环境规划署(UNEP)的联合推动，P-S-R模型框架被广泛应用于环境评价研究。模型框架涵盖了评价指标之间的因果关系和相互关系，并区分了“压力-状态-响应"3类指标[28]。压力指标表征了社会经济对资源环境的作用；状态指标揭示了生态系统、资源环境、社会经济发展现状;响应指标涵盖了人类社会应对环境问题的对策与措施。
+
+本文参考运用P-S-R理念框架模型，借鉴西北地区的相关研究成果[29-30],在数据可得的基础上，遵循评价指标体系选取的因地制宜性、整体性、主导性、可操作性等原则[31-33],并充分考虑西北诸河流域内的社会经济发展特征和自然生态结构，最终从目标层、准则层、指标层3个层次构建西北诸河流域土地生态安全评价指标体系，共计指标29个，最后运用熵权法确定各个指标权重，具体指标如表1所示。本文运用综合评价的方法，计算西北诸河流域土地生态安全综合指数，对西北诸河流域土地生态安全现状进行定量化评价。
+
+1.4.1指标数据标准化处理由于各个指标具有不同的测度量级和单位尺度，指标间不具有可比性，而标准化处理可使指标数据处于相同的量级内，便
+
+# 干吴区地理
+
+于对评价结果进行分析与比较。因此，本文采用极差法[34对各指标数据进行标准化处理。其计算公式如下：
+
+$$
+{ y _ { i j } } ^ { + } = \frac { { x _ { i j } } - \operatorname* { m i n } \ ( { x _ { i j } } ) } { \operatorname* { m a x } \ ( { x _ { i j } } ) - \operatorname* { m i n } \ ( { x _ { i j } } ) }
+$$
+
+$$
+\boldsymbol { y } _ { i j } ^ { - } = \frac { \operatorname* { m a x } \bigl ( \boldsymbol { x } \bigr ) - \boldsymbol { x } _ { i j } } { \operatorname* { m a x } \bigl ( \boldsymbol { x } _ { i j } \bigr ) - \operatorname* { m i n } \bigl ( \boldsymbol { x } _ { i j } \bigr ) }
+$$
+
+式中： $x _ { i j }$ 为第 $j$ 个指标第 $i$ 年的初始值; ${ y _ { i j } } ^ { + }$ 为第 $\cdot j$ 个正向指标第 $i$ 年的标准化值; ${ y _ { i j } } ^ { - }$ 为第 $j$ 个负向指标第 $i$ 年的标准化值,其中 $i = 1 , 2 , \cdots , m , m$ 为评价年份数; $j = 1 , 2 , \cdots , n , n$ 为评价指标数。
+
+1.4.2指标权重确定本文引用的指标基于西北诸河流域内各个行政单元进行统计，使用熵值法定权[35],可减少各个地区指标之间的差异，使得在指标体系中数据波动处于合理范围之内，也避免了人为定权带来的主观性，从而提高研究结果的科学性与准确性。
+
+熵权法能有效兼顾指标的变异程度，客观反映其重要性，熵权计算公式为：
+
+$$
+w _ { j } = \frac { 1 - H _ { i } } { m - \displaystyle \sum _ { i = 1 } ^ { m } H _ { i } }
+$$
+
+式中： $\boldsymbol { w } _ { j }$ 为第 $j$ 个指标的权重值; $H _ { i } = \frac { 1 } { \ln n } \sum _ { j = 1 } ^ { n } f _ { i j } \ln f _ { i j }$ 为信息熵;其中, $f _ { i j } = \frac { y _ { i j } } { \displaystyle \sum _ { j = 1 } ^ { n } y _ { i j } }$ 为指标的特征比重,其中$y _ { i j }$ 为第 $j$ 个指标第 $i$ 年的指标数据,采用极差法对研究期内数据进行标准化运算以消除量纲带来的影响，详见公式(1)和(2)；且当 $f _ { i j } = 0$ 时，令$f _ { i j } \ln f _ { i j } = 0$ 。
+
+1.4.3土地生态安全综合指数计算通过上述步骤，可得到各指标相应的熵权权重和标准化值，采用综合评价模型[36],对西北诸河流域土地生态安全综合指数进行计算和评价。其计算公式如下：
+
+$$
+Q = \sum _ { j = 1 } ^ { n } \left( y _ { i j } \times w _ { j } \right)
+$$
+
+式中： $y _ { i j }$ 为第 $j$ 个指标第 $i$ 年的标准化值; $\boldsymbol { w } _ { j }$ 为第 $j$ 个指标的权重值; $Q$ 为土地生态安全指数,其数值越高，说明区域土地生态安全状况越好，反之越差。
+
+# 1.5生态安全等级的确定
+
+由于安全的概念是相对的，定义并划分安全等级存在不确定性，因此本文通过构建隶属度函数的方法降低生态安全分级的模糊性[3]，从而进行生态安全等级的确定。首先为生态安全等级划分为安全级（Safe,S）、较安全级(Relatively safe,RS）、较不安全级（Relativelyunsafe,RU）和不安全级（Unsafe,U)4个等级。对应土地生态安全分级的隶属度函数构建如下所示。
+
+$$
+\begin{array} { r l } { \gamma _ { k } ( \xi ) = } & { \hat { \rho } _ { k } ( \xi , \phi _ { k } ) } \\ { \Delta \xi ( \xi , \phi _ { k } ) } & { = \hat { \rho } _ { k } ( \xi , \phi _ { k } ) } \\ { \Gamma _ { 0 } } & { \phi _ { k } ( \xi , \phi _ { k } ) } \\ { \Gamma _ { 0 } } & { \phi _ { k } ( \xi , \phi _ { k } ) } \\ { \Gamma _ { 0 } } & { \phi _ { k } ( \xi , \phi _ { k } ) } \\ { \Gamma _ { 0 } } & { \phi _ { k } ( \xi , \phi _ { k } ) } \\ { \overline { { \mathbf { p } _ { k } ( \xi , \phi _ { k } ) } } } & { = \frac { 1 } { \left( \phi _ { k } ( \xi , \phi _ { k } ) \right) } } \\ { \left( \overline { { \mathbf { p } _ { k } ( \xi , \phi _ { k } ) } } } & { \cos \phi _ { k } \cos \phi _ { k } \right) } \\ { \overline { { \mathbf { p } _ { k } ( \xi , \phi _ { k } ) } } } & { \cos \phi _ { k } ( \xi , \phi _ { k } ) } \\ { \Gamma _ { 0 } } & { \phi _ { k } ( \xi , \phi _ { k } ) } \\ { \Gamma _ { 0 } } & { \phi _ { k } ( \xi , \phi _ { k } ) } \\ { \Gamma _ { 0 } } & { \phi _ { k } ( \xi , \phi _ { k } ) } \\ { \Gamma _ { 0 } } & { \phi _ { k } ( \xi , \phi _ { k } ) } \end{array}
+$$
+
+式中： $Q$ 表示土地生态安全指数; $F$ 为土地生态安全指数对应的隶属度，4个隶属度分别对应4个生态安全等级。当土地生态安全指数落入公式(5)\~(8)的函数定义区间内，则按公式计算其隶属度，从而依据隶属度函数值判定其土地生态安全指数的隶属等级。
+
+# 2结果与分析
+
+# 2.1土地利用变化分析
+
+2.1.1土地利用动态度分析西北诸河流域各用地类型的单一动态度差异明显(图2)。1990—2018年西北诸河流域草地的平均动态度为 $- 0 . 8 9 \%$ ,其余用地类型的平均动态度皆为正数，表明草地具有不断缩减的趋势，其余土地利用类型呈现扩张趋势。城乡建设用地动态度一直处于最高水平，波动剧烈，尽管1995—2000年其动态度为 $- 4 . 1 5 \%$ ，但2000年后其年平均动态度为 $4 . 1 6 \%$ ,在所有土地利用类型中最高，呈迅速扩张趋势。耕地的动态度在1995后一直为正数,且年平均动态度位居第二，达 $1 . 7 1 \%$ ，呈扩张趋势。林地、水域和未利用土地的动态度变化程度较小，其年平均动态度都在 $0 . 3 0 \% { \sim } 0 . 7 0 \%$ 之间，扩张趋势程度较小。
+
+![](images/16e49d93bd184e9b1a2bff748e4cfc138dfc324622f5c5677319a9559c586071.jpg)  
+图21990—2018年西北诸河流域单一土地利用动态度情况
+
+西北诸河流域及其水资源二级分区的综合土地利用动态度情况如图3所示。1990—2018年西北诸河流域各子流域土地利用综合动态度变化趋势相似，1990年开始大多先增后减，在2005—2015年到达平稳态势且保持平稳变化后，在2018年迅速提高。表明1990—2000年和2015—2018年，各流域土地资源数量总体上变化剧烈，土地利用类型之间相互转换频繁且不同用地类型的转换量差异较大，土地利用程度较高。2000—2015年各流域综合土地利用动态度维持在较低水平，说明土地利用变化较为稳定，各土地利用类型相互转换比较平均，土地生态安全性处于合理的变化区间中。
+
+![](images/0987c65de13ec2dc1f8dfbfdb9c1bf41534e41e76aa7a410f9466831329db7d9.jpg)  
+Fig.2 Single dynamic index of land use in the river basins of northwestern China from 1990 to 2018   
+图31990—2018年西北诸河流域综合土地利用动态度情况  
+Fig.3Intergrated dynamic indexof land use in the river basins of northwestern China from 1990 to 2018
+
+经比对，西北诸河流域水资源二级分区综合土地利用动态度的区域差异明显。天山北麓诸河和古尔班通古特荒漠区是年平均综合动态度最高的地区，分别为 $2 . 7 1 \%$ 和 $1 . 7 7 \%$ ，区域土地利用变化剧烈。塔里木盆地荒漠区和吐哈盆地小河的综合动态度始终维持在较低水平，其年平均综合动态度分别为 $0 . 1 6 \%$ 和 $0 . 4 9 \%$ ，土地利用变化较为平稳。综上所述，荒漠地区在总体上综合动态度水平较低，土地利用格局较为稳定，耕地和城乡建设用地面积占比较小，土地利用转换比较稳定，土地生态系统比较安全;在山麓、高原地区，草地面积占比较高，草地向其他用地类型转换频繁，综合动态度波动较大，土地利用变化剧烈，土地生态系统较不安全。
+
+2.1.2土地利用类型转移分析为了进一步探究西北诸河流域土地利用时空变化格局，本文结合西北诸河流域片区地理特征，将突显沙漠化面积变化的沙地用地单独划分，其余未利用地归为其他未利用土地，得出表现土地利用类型之间转换的关系矩阵，如表2所示。
+
+结合表2可知，1990—2018年西北诸河流域土地利用类型之间发生了强烈的转换。其中，耕地最主要的土地转入来源为草地,草地的减少量主要转出到沙地、耕地和其他未利用土地中，林地的减少量主要向草地和耕地转换。城乡建设用地的增加主要来源于耕地，其次为草地。水域的增加量主要由于草地和其他未利用土地的转入。沙地的减少量主要用于草地与其他未利用土地之间的相互转换，沙地与其他未利用土地之间转换量相对较大。据此，1990一—2018年西北诸河流域土地利用转换频繁且转换量较大，草地的退化主要贡献于耕地与其他未利用土地，土地城镇化过程中伴随着大量的耕地扩张和草地退化，沙地减少主要转化为其他未利用土地，而不是作为生态用地的林地或草地。
+
+由图4可知，1990—2018年西北诸河流域土地
+
+# 干旱区地理
+
+表21990—2018年西北诸河流域土地利用转移矩阵  
+Tab.2 Conversion matrix ofland use change in the river basins of northwestern China from 1990 to 2018   
+
+<html><body><table><tr><td rowspan="2">1990年</td><td colspan="8">2018年</td></tr><tr><td>草地</td><td>城乡建设用地</td><td>耕地</td><td>林地</td><td>其他未利用土地</td><td>沙地</td><td>水域</td><td>减少量</td></tr><tr><td>草地</td><td>914114</td><td>3398</td><td>38442</td><td>26672</td><td>344630</td><td>53434</td><td>31607</td><td>1412297</td></tr><tr><td>城乡建设用地</td><td>986</td><td>2145</td><td>2858</td><td>137</td><td>519</td><td>27</td><td>111</td><td>6783</td></tr><tr><td>耕地</td><td>13281</td><td>4374</td><td>75035</td><td>1731</td><td>2086</td><td>354</td><td>809</td><td>97670</td></tr><tr><td>林地</td><td>23410</td><td>239</td><td>3267</td><td>20148</td><td>2792</td><td>1043</td><td>603</td><td>51502</td></tr><tr><td>其他未利用土地</td><td>192445</td><td>2773</td><td>12976</td><td>4780</td><td>907991</td><td>23386</td><td>19712</td><td>1164063</td></tr><tr><td>沙地</td><td>20303</td><td>219</td><td>2717</td><td>633</td><td>26291</td><td>467289</td><td>962</td><td>518414</td></tr><tr><td>水域</td><td>13937</td><td>152</td><td>971</td><td>586</td><td>25004</td><td>680</td><td>57605</td><td>98935</td></tr><tr><td>增加量</td><td>1178476</td><td>13300</td><td>136266</td><td>54687</td><td>1309313</td><td>546213</td><td>111409</td><td>二</td></tr></table></body></html>
+
+![](images/e7ee4d8306127e03fb020290e3dc5c9d8ca33e4a713930820f9d27d27b3658a0.jpg)  
+图41990—2018年西北诸河流域土地利用变化情况  
+Fig.4Land use changes of the river basins of northwestern China from 199O to 2018
+
+利用空间格局分化明显。在流域东部、南部和西北部的高原山地地区，草地向其他用地类型转换频繁；在流域中部和中南部等荒漠化问题较为严重的地区，沙地与其他未利用土地之间通常发生相互转换，较少转向其他用地类型。在水资源二级分区下，在以草地用地为主的天山北麓诸河片区、羌塘高原内陆区片区和内蒙古内陆河片区，草地向其他用地转化较多。在以沙地和其他未利用土地为主的古尔班通古特荒漠区片区、塔里木盆地荒漠区片区、吐哈盆地小河片区以及河西内陆河片区西部，沙地与其他未利用土地之间转换较多，向其他用地转换较少，土地利用类型空间格局比较稳定。
+
+# 2.2土地生态安全评价指标权重分析
+
+西北诸河流域的生态安全评价指标权重情况及其排序如表1所示。在研究区的土地生态安全评价指标体系的准则层中，系统压力、系统状态和系统响应的权重分别为0.2331、0.4985和0.2684，表明状态层是影响系统评价的重要因素。从表1的权重指标排序可知，国内生产总值(GDP)、人均耕地面积、湿地面积、教育占财政支出比重、总人口数、农用化肥施用量、第二产业增加值、工业固体废物产生量8个指标权重均高于0.04，对研究区土地生态安全评价影响较大，表明在人口、经济结构和教育等方面对研究区土地生态安全产生重要影响。有效灌溉面积、水土流失治理面积、人口密度、城市供水总量、城市生活垃圾清运量5个指标权重均小于0.02,对研究区土地生态安全影响较小，表明农业灌溉、城市环境、人口密度等是影响土地生态安全评价的次要方面。
+
+# 2.3土地生态安全综合评价结果分析
+
+西北诸河流域土地生态安全综合指数由压力指数、状态指数与响应指数共同决定，其综合指数变化情况如图5所示。1990—2018年西北诸河流域土地生态安全综合指数先增长后减少再增长，波动幅度较小，呈“W”型变化趋势逐渐提高。状态和响应指数都有不同程度的提高，都呈波动上升趋势。压力指数总体上呈现下降趋势，但自2015年开始，压力指数逐渐上升。
+
+![](images/4ec35481af45e7669222ff3f9d60418ff45cd4d9edc9756046079976fca31639.jpg)  
+图51990—2018年西北诸河流域生态安全指数变化情况Fig.5Changes of ecological security indices in the riverbasins of northwestern China from 1990 to 2018
+
+结合指标权重可知，由于人口持续增长，西北诸河流域1990—2014年土地生态安全压力指数呈波动下降趋势，表明土地生态安全压力越来越大。说明人类活动对西北诸河流域土地生态环境产生重要影响，土地生态系统面临越来越大的威胁与压力。2015年以来，西北诸河流域土地生态安全压力指数有所提高，并具有逐渐上升的趋势，表明土地生态安全压力开始减小。
+
+经计算，1990—2018年西北诸河流域土地生态安全综合指数数值及状态归属如表3所示。1990—2014年研究区土地生态安全等级基本处于不安全等级，在自然因素和人类活动的共同影响下，区域土地生态安全水平受到较大限制，土地生态系统受到一定程度的破坏。2015—2018年，研究区土地生态安全等级向较不安全级转变，表明在此阶段土地生态环境呈逐步改善，土地资源保护措施取得一定成效，生态系统基本保持健康和完整。
+
+经计算，1990—2018年研究区土地生态安全基本处于不安全等级状态，近年来得到一定程度的缓解，逐渐下降为较不安全等级，但土地生态环境压力依然较大，其主要原因在于土地利用变化和人口增长。1990—2018年研究区土地利用变化及转换剧烈，作为生态用地的草地、林地不断减少，而城镇用地、耕地在不断增加，与此同时农用化肥和农药用量逐年增多，随之引发土地荒漠化、盐渍化等土地环境问题。此外,近年来该区域总人口以年平均$1 . 0 8 \%$ 的速度增长，加上农业、畜牧业和工业的不断发展，导致水土资源的供给压力越来越高，长期以来，最终导致土地生态系统极不稳定，土地生态系统长期处于不安全状态。
+
+西北诸河流域水资源二级片区之间土地生态安全指数变化差异明显(图6)。1990—2000年西北诸河流域及其水资源二级分区土地生态安全指数均在0.3\~0.5之间波动。2000—2013年各流域土地生态安全指数均呈现稳定增长态势，波动幅度较小，在2013年基本上由土地生态"不安全"级别提升至"较不安全"级别。2013—2018年，内蒙古内陆河、阿尔泰山南麓诸河、羌塘高原内陆区土地生态安全指数在各流域中排名前三，其中内蒙古内陆河和阿尔泰山南麓诸河在2016年后均达到了土地生态"较安全"级别,表明该地区土地利用格局和土地生态环境趋于稳定。此外，以沙地、戈壁等未利用土地为主的塔里木盆地荒漠区和古尔班通古特荒漠区，其土地生态安全指数在研究期内变化幅度较小，且均在0.5以下。
+
+# 3讨论
+
+近年来，不少国内学者分别探究了乌鲁木齐市[38]、石羊河流域[39]、新疆玛纳斯河流域[40]等位于中国西北干旱区不同区域尺度下的土地利用动态
+
+# 干吴区地理
+
+表31990—2018年西北诸河流域土地生态安全综合值  
+Tab.3Comprehensive values ofland ecological security in the river basins of northwestern China from1990 to 2018   
+
+<html><body><table><tr><td>年份</td><td>■ 生态安全指数</td><td>。 压力指数</td><td>状态指数</td><td>响应指数</td><td>安全等级</td><td>安全状态</td></tr><tr><td>1990</td><td>0.301</td><td>0.187</td><td>0.104</td><td>0.010</td><td>U</td><td>不安全级</td></tr><tr><td>1991</td><td>0.293</td><td>0.182</td><td>0.103</td><td>0.009</td><td>U</td><td>不安全级</td></tr><tr><td>1992</td><td>0.307</td><td>0.189</td><td>0.103</td><td>0.014</td><td>U</td><td>不安全级</td></tr><tr><td>1993</td><td>0.322</td><td>0.204</td><td>0.103</td><td>0.015</td><td>U</td><td>不安全级</td></tr><tr><td>1994</td><td>0.318</td><td>0.196</td><td>0.104</td><td>0.017</td><td>U</td><td>不安全级</td></tr><tr><td>1995</td><td>0.314</td><td>0.189</td><td>0.107</td><td>0.017</td><td>U</td><td>不安全级</td></tr><tr><td>1996</td><td>0.314</td><td>0.178</td><td>0.110</td><td>0.026</td><td>U</td><td>不安全级</td></tr><tr><td>1997</td><td>0.319</td><td>0.180</td><td>0.112</td><td>0.027</td><td>U</td><td>不安全级</td></tr><tr><td>1998</td><td>0.320</td><td>0.177</td><td>0.110</td><td>0.033</td><td>U</td><td>不安全级</td></tr><tr><td>1999</td><td>0.320</td><td>0.177</td><td>0.109</td><td>0.033</td><td>U</td><td>不安全级</td></tr><tr><td>2000</td><td>0.304</td><td>0.173</td><td>0.095</td><td>0.035</td><td>U</td><td>不安全级</td></tr><tr><td>2001</td><td>0.285</td><td>0.155</td><td>0.092</td><td>0.037</td><td>U</td><td>不安全级</td></tr><tr><td>2002</td><td>0.309</td><td>0.160</td><td>0.094</td><td>0.054</td><td>U</td><td>不安全级</td></tr><tr><td>2003</td><td>0.313</td><td>0.161</td><td>0.088</td><td>0.064</td><td>U</td><td>不安全级</td></tr><tr><td>2004</td><td>0.310</td><td>0.150</td><td>0.100</td><td>0.060</td><td>U</td><td>不安全级</td></tr><tr><td>2005</td><td>0.304</td><td>0.137</td><td>0.109</td><td>0.058</td><td>U</td><td>不安全级</td></tr><tr><td>2006</td><td>0.308</td><td>0.131</td><td>0.111</td><td>0.066</td><td>U</td><td>不安全级</td></tr><tr><td>2007</td><td>0.459</td><td>0.123</td><td>0.258</td><td>0.077</td><td>RU</td><td>较不安全级</td></tr><tr><td>2008</td><td>0.312</td><td>0.109</td><td>0.112</td><td>0.092</td><td>U</td><td>不安全级</td></tr><tr><td>2009</td><td>0.325</td><td>0.102</td><td>0.120</td><td>0.102</td><td>U</td><td>不安全级</td></tr><tr><td>2010</td><td>0.351</td><td>0.080</td><td>0.122</td><td>0.149</td><td>U</td><td>不安全级</td></tr><tr><td>2011</td><td>0.297</td><td>0.060</td><td>0.111</td><td>0.126</td><td>U</td><td>不安全级</td></tr><tr><td>2012</td><td>0.317</td><td>0.067</td><td>0.110</td><td>0.140</td><td>U</td><td>不安全级</td></tr><tr><td>2013</td><td>0.434</td><td>0.055</td><td>0.224</td><td>0.155</td><td>RU</td><td>较不安全级</td></tr><tr><td>2014</td><td>0.366</td><td>0.039</td><td>0.163</td><td>0.164</td><td>U</td><td>不安全级</td></tr><tr><td>2015</td><td>0.405</td><td>0.051</td><td>0.178</td><td>0.176</td><td>RU</td><td>较不安全级</td></tr><tr><td>2016</td><td>0.436</td><td>0.062</td><td>0.185</td><td>0.189</td><td>RU</td><td>较不安全级</td></tr><tr><td>2017</td><td>0.455</td><td>0.065</td><td>0.188</td><td>0.202</td><td>RU</td><td>较不安全级</td></tr><tr><td>2018</td><td>0.467</td><td>0.072</td><td>0.180</td><td>0.215</td><td>RU</td><td>较不安全级</td></tr></table></body></html>
+
+注："U"表示不安全等级，“RU"表示较不安全等级。
+
+变化特征。上述研究结果均表明，西北地区区域土地利用结构极度不平衡，耕地和城乡建设用地受人类影响最大，其土地利用变化都以不同的速率不断增加。本研究结果表明,1990—2018年西北诸河流域以草地和未利用土地为主，二者面积之和占流域总面积的 $9 0 . 3 9 \%$ ,土地利用结构单一;城乡建设用地增长迅速，以年平均单一动态度 $4 . 1 6 \%$ 在各用地类型中处于最高水平。一方面，随着2000年“西部大开发"国务院政策的部署与实施，西北地区人口增长和经济社会发展迅速，在土地利用结构单一且极度不平衡的西北地区进行经济开发，直接加速了生态用地与建设用地之间的转换。另一方面，随着经济发展与人口增长，城乡建设用地的扩张增加了人类社会对耕地的需求，耕地面积在城乡建设用地扩张的趋势下不断增加，最终对社会经济发展起正反馈作用,城乡建设用地面积进一步扩大。由此形成循环机制，使耕地与城乡建设用地面积快速增长。
+
+本研究以自然流域边界为研究尺度，基于西北诸河流域整一片区及其水资源二级片区探究土地生态安全性，发现流域荒漠区和山区之间的土地生态安全状况存在明显差异。在流域荒漠区，如古尔班通古特荒漠区和塔里木盆地荒漠区，湿地面积少，生态用地退化严重，沙地与其他未利用土地之间的转换频繁，在此土地利用变化特征背景下，荒漠区土地生态安全指数始终维持在较低水平，且近年来增长停滞。在流域山地地区，如阿尔泰山南麓诸河、天山北麓诸河、羌塘高原内陆区和昆仑山北麓小河，随着冰雪融水补给，河川径流较多，水环境发生整体性变化，生态用地占比较高，在此背景下流域土地生态安全指数始终处于较高水平，近年来部分地区达到了“较安全"级别，并具有良性发展态势。据此可知，土地荒漠化问题是流域土地生态安全状况的重要限制性因素，生态用地在提高土地生态安全性的过程中起重要推动作用，需要加快荒漠土地向生态用地转换，要注意生态用地的建设与维护。在土地利用变化的相关研究中也有类似的结论[41-42],草地、林地和部分水域是流域重要的生态用地，生态用地变化对区域土地生态安全状况影响较大，在维持生态系统健康和土地资源可持续发展中起重要作用。
+
+![](images/2c07087a61c0fda8e5da9de7f103cdf640f263ba772f198e831569df12cdab72.jpg)  
+图61990—2018年西北诸河流域及水资源二级片区土地生态安全指数变化情况  
+Fig.6 Changes of land ecological security indices in the river basins and secondary water resource areas northwestern of China from 1990 to 2018
+
+土地利用变化与土地生态安全密切相关，区域土地利用变化及其环境效应直接影响生态环境的稳定性、安全性[43]。人类因素对土地利用变化的影响已远大于任何自然因素的作用，区域社会经济发展引起城镇用地面积扩张，不断增长的人口对土地资源的需求越来越高，人类在利用土地资源的过程中必然在不同方面对其产生影响，土地利用方式的变化和土地利用类型转换过程中必然引起一系列土地生态安全问题，进而对土地生态安全性产生作用。因此，区域社会经济发展、土地利用变化、土地生态安全性三者之间存在彼此作用、相互影响的关系，社会经济发展作为问题根源，对区域土地生态安全性产生重大影响。因此，在逐步改善西北诸河流域土地生态安全状况的过程中，不仅需要控制人口增长，提高经济发展效率，还需要加大教育事业财政投入，深化全民保护土地生态安全意识，从而缓解人地矛盾，实现土地资源可持续利用和人与自然和谐发展。
+
+# 4结论
+
+通过对1990—2018年西北诸河流域土地利用动态变化情况及土地生态安全状况进行分析与评价，本研究得出以下结论：
+
+（1）2015—2018年西北诸河流域综合土地利用动态度为 $2 . 6 5 \%$ ，土地利用变化剧烈，2000年后城乡建设用地年平均单一动态度最高，为 $4 . 1 6 \%$ ，城乡建设用地增长迅速。西北诸河流域内草地主要向沙地、耕地和其他未利用土地转出，流域荒漠区沙地和其他未利用土地之间转换稳定，流域高原地区草地向其他用地转换频繁
+
+(2）西北诸河流域土地生态安全评价指标体系中状态层权重最高，为0.4985，表明状态指标对评价土地生态安全具有重要作用。由指标权重排序可知，经济社会发展、湿地面积和人口增长是影响西北诸河流域土地生态安全评价的重要因素
+
+(3）1990—2018年西北诸河流域土地生态安全指数总体上呈现递增趋势，1990—2014年基本处于不安全级，2015年后转变为较不安全级。表明近年来西北诸河流域土地生态安全状况有所好转，土地生态系统环境得到改善，在土地资源管理与规划工作中，要更加注重土地荒漠化问题，在提高土地生态安全性的过程中，需要更多依靠荒漠土地向生态用地转换。
+
+# 参考文献(References)
+
+[1]李秀彬.全球环境变化研究的核心领域—一土地利用/土地覆被变化的国际研究动向[J].地理学报,1996,63(6):553-558.[Li Xiubin.International research trends in land use/land coverchange:A core area of global environmental change research[J].Acta Geographica Sinica,1996,63(6): 553-558.]
+
+# 干旱区地理
+
+[2]张浚茂,臧传富.东南诸河流域1990—2015年土地利用时空变 化特征及驱动机制[J].生态学报,2019,39(24):9339-9350. [Zhang Junmao, Zang Chuanfu. Spatial and temporal variability characteristics and driving mechanisms of land use in the southeastern river basin from 1990 to 2015[J].Acta Ecologica Sinica, 2019,39(24): 9339-9350.]   
+[3]后立胜,蔡运龙.土地利用/覆被变化研究的实质分析与进展评 述[J].地理科学进展,2004,23(6):96-104.[Hou Lisheng,Cai Yunlong.An essential analysis and review on land use/cover change research[J].Progress in Geography,2004,23(6): 96-104.]   
+[4]崔胜辉,洪华生,黄云凤,等.生态安全研究进展[J].生态学报, 2005,25(4): 861-868.[Cui Shenghui,Hong Huasheng,Huang Yunfeng,et al.Progress of the ecological security research[J]. Acta Ecologica Sinica,2005,25(4): 861-868.]   
+[5]李昊,李世平,银敏华.中国土地生态安全研究进展与展望[J]. 干旱区资源与环境,2016,30(9): 50-56.[Li Hao,Li Shiping, Yin Minhua. Research progressand prospect oflandecological security in China[J]. Journal of Arid Land Resources and Environment, 2016,30(9): 50-56.]   
+[6]肖笃宁,陈文波,郭福良.论生态安全的基本概念和研究内容 [J].应用生态学报,2002,13(3):354-358.[Xiao Duning,Chen Wenbo,Guo Fuliang. On the basic concepts and contents of ecological security[J]. Chinese Journal of Applied Ecology,2002,13 (3): 354-358.]   
+[7]朱亚楠,闫志明,蒲春玲,等.乌鲁木齐市土地利用/覆被变化及 生态安全评价[J].林业资源管理,2020(1):79-91.[Zhu Yanan, Yan Zhiming, Pu Chunling, et al. Land use/cover change and ecologicalscurityevaluationin Urumqi[J].Forest ResouresManage ment, 2020(1): 79-91.]   
+[8]余健,房莉,仓定帮,等.熵权模糊物元模型在土地生态安全评 价中的应用[J].农业工程学报,2012,28(5):260-266.[Yu Jian, Fang Li, Cang Dingbang,et al. Evaluation of land eco-security in Wanjiang district base on entropy weight and matter element model[JJ. Transactions of the Chinese Society of Agricultural Engineering,2012,28(5): 260-266.]   
+[9]程东林,陈英,乔强,等.西北生态脆弱区城市土地生态安全 时序性评价——以兰州市为例[J].中国国土资源经济,2020, 33(7):83-89.[Cheng Donglin, Chen Ying,Qiao Hongqiang,et al. Time series evaluation of urban land eco-security in eco-vulnerable areas of northwest China: A case study of Lanzhou[J]. Natural Resource Economics of China, 2020,33(7): 83-89.]   
+[10] 谢玲,严土强,高一薄.基于PSR模型的广西石漠化地区土地生 态安全动态评价[J].水土保持通报,2018,38(6):315-321.[Xie Ling,Yan Tuqiang,Gao Yibo.Dynamic evaluation of land ecological securityinrockydesertfication mountainousareaofGuangxi Zhuang Autonomous Region[J]. Bulletin of Soil and Water Conservation, 2018,38(6): 315-321.]   
+[11]Han B,Liu H,Wang R. Urban ecological security assessment for cities inthe Beijing-Tianjin-Hebei metropolitan region based on fuzzy and entropy methods[J]. Ecological Modelling,2015,318(1): 217-225.   
+[12] 李钊,张永福,张景路.干旱区绿洲县域土地利用规划中土地生 态安全预测——以新疆阿瓦提县为例[J].水土保持研究， 2014,21(6): 148-151,157.[Li Zhao,Zhang Yongfu,Zhang Jinglu.Forecast of the land ecological security at county level in the arid oasis based on planning of land utilization: A case study of Awati in Xinjiang[J]. Research of Soil and Water Conservation,2014, 21(6): 148-151, 157.]   
+[13] 李玉照,刘永,颜小品.基于DPSIR模型的流域生态安全评价指 标体系研究[J].北京大学学报(自然科学版),2012,48(6): 971- 981.[Li Yuzhao,Liu Yong,Yan Xiaopin.A DPSIR-based indicator system for ecological security assessment at the basin scale[J]. Journal of Peking University (Natural Science Edition),2012,48 (6): 971-981.]   
+[14] 李晓文,方创琳,黄金川,等.西北干旱区城市土地利用变化及 其区域生态环境效应——以甘肃河西地区为例[J].第四纪研 究,2003,23(3): 280-290,348-349.[Li Xiaowen,Fang Chuanglin,Huang Jinchuan,et al. The urban land use transformations and associated effects on eco-environment in northwest China arid region: A case study in Hexi Region, Gansu Provine[J].Quaternary Sciences,2003,23(3): 280-290,348-349.]   
+[15] 李春燕,南灵.陕西省土地生态安全动态评价及障碍因子诊断 [J].中国土地科学,2015,29(4): 72-81.[Li Chunyan,Nan Ling. Dynamic evaluation and diagnosis of obstacle factors on land ecosecurity in Shaanxi Province[J]. China Land Science,2O15,29(4): 72-81.]   
+[16] 张小虎,雷国平,袁磊,等.黑龙江省土地生态安全评价[J].中国 人口·资源与环境,2009,19(1):88-93.[Zhang Xiaohu,Lei Guoping,Yuan Lei,et al.Evaluation on ecological security of land based on entropy weight and matter-element model: A case study of Heilongjiang Province[J]. China Population,Resources and Environment,2009,19(1): 88-93.]   
+[17] Gong JZ,Liu Y S, Xia BC,etal. Urban ecological security assessment and forecasting, based on a cellular automata model: A case study of Guangzhou, China[J].Ecological Modelling,2009,220 (24): 3612-3620.   
+[18] 朱会义,李秀彬,何书金,等.环渤海地区土地利用的时空变化 分析[J].地理学报,2001,56(3): 253-260.[Zhu Huiyi,Li Xiubin, He Shujin,et al. Spatio-temporal change of land use in Bohai Rim [J]. Acta Geographica Sinica,2001,56(3): 253-260.]   
+[19] 马新萍,韩申山,王磊,等.大西安地区土地利用类型时空演变 分析[J].干旱区地理,2020,43(2): 499-507.[Ma Xinping,Han Shenshan,Wang Lei,et al. Spatial and temporal evolution of land use types in the Greater Xi’an Area[J].Arid Land Geography, 2020, 43(2): 499-507.]   
+[20] 张一达,刘学录,范亚红,等.基于改进TOPSIS法的兰州市土地 利用多功能性评价[J].干旱区地理,2019,42(2):444-451. [Zhang Yida,Liu Xuelu,Fan Yahong,etal. Multi-functional evaluation on land use in Lanzhou City based on the improved TOPSIS [J]. Arid Land Geography, 2019,42(2): 444-451.]   
+[21] 庞雅颂,王琳.区域生态安全评价方法综述[J].中国人口·资源 与环境,2014,24(163): 340-344.[Pang Yasong, Wang Lin. A review of regional ecological security evaluation[J]. China Population, Resources and Environment,2014,24(163): 340-344.]   
+[22]杨春红,张正栋,田楠楠,等.基于P-S-R模型的汕头市土地生 态安全评价[J].水土保持研究,2012,19(3):209-214.[Yang Chunhong,Zhang Zhengdong, Tian Nannan,et al. Evaluation on land ecological security in Shantou based on P-S-R model[J]. Research of Soil and Water Conservation,2012,19(3): 209-214.]   
+[23] 麦丽开·艾麦提,满苏尔·沙比提,张雪琪,等.叶尔羌河平原绿 洲土地利用变化及土地生态安全评价研究[J].土壤,2019,51 (4): 795-8O2.[Aimaiti Mailikai,Shabiti Mansuer, Zhang Xueqi,et al. Study on land use change and land ecological security evaluation in oasisof YarkantRiverPlain[J].Soil,2019,51(4): 795-802.]   
+[24] 徐新良,庄大方,贾绍凤,等.GIS环境下基于DEM的中国流域 自动提取方法[J].长江流域资源与环境,2004,13(4):343-348. [Xu Xinliang, Zhuang Dafang, Jia Shaofeng,et al.Automated extraction of drainages in China based on DEM in GIS environment [J].Resources and Environment in the Yangtze Basin,2004,13 (4): 343-348.]   
+[25] 张国平,赵琳娜,许凤雯,等.基于流域结构分析的中国流域划 分方案[J].北京师范大学学报(自然科学版),2010,46(3):417- 423.[Zhang Guoping, Zhao Linna, Xu Fengwen,et al. Study on basin partition scheme of China based on basin structure analysis[J] Journal of BeijingNormal University(Natural ScienceEdition), 2010, 46(3): 417-423.]   
+[26] 杨艳春,彭勃,刘桂丽,等.西北诸河区地表水水质评价[J].人民 黄河,2011,33(11): 93-96.[Yang Yanchun,Peng Bo,Liu Guili, et al. Quality evaluation of surface water in the northwest region [J]. Yellow River,2011,33(11): 93-96.]   
+[27] 王秀兰,包玉海.土地利用动态变化研究方法探讨[J].地理科学 进展,1999(1): 3-5.[Wang Xiulan,Bao Yuhai. Study on the methodsof landusedynamicchangeresearch[J].Progressin Geography,1999(1): 3-5.]   
+[28]Wolfslehner B,Vacik H.Evaluating sustainable forest management strategies with the analytic network process in a pressurestate-response framework[J]. Journal of Environmental Management,2008,88(1): 1-10.   
+[29] 刘凌冰,李世平.西北荒漠化地区土地生态安全评价——以酒 泉市为例[J].水土保持研究,2014,21(4):190-194,202.[Liu lingbing,Li Shiping.Evaluation on land ecological security in desertification areas of northwest China: A case study of Jiuquan City [J]. Research of Soil and Water Conservation,2014,21(4):190- 194, 202. ]   
+[30] 裴婷婷,陈英,赵亚南,等.基于P-S-R模型的白银市土地生态 安全评价[J].中国农学通报,2014,30(2):215-221.[Pei Tingting Chen Ying, Zhao Yanan,et al.Evaluation on the ecological security of Baiyin City based on P-S-R model[J]. Chinese Agricultural Science Bulletin,2014,30(2): 215-221.]   
+[31] Wang C L, Jiang QO,Shao YQ,et al. Ecological environment assessment based on land use simulation: A case study in the Heihe River Basin[J].Science of the Total Environment,2O19,697: 133928,doi:10.1016/j.scitotenv.2019.133928.   
+[32]Pei L,Du L M, Yue G J. Ecological security assessment of Beijing based on PSR model[J].Procedia Environmental Sciences,2010, 2: 832-841.   
+[33]Ye H, Ma Y, Dong L M. Land ecological security assessment for Bai Autonomous Prefecture of Dali based using PSR model with data in 2009 as case[J]. Energy Procedia,2011,5: 2172-2177.   
+[34] 苏为华.多指标综合评价理论与方法问题研究[D].厦门:厦门 大学,20Oo.[Su Weihua.Research on the theory and method of multi index comprehensive evaluation[D]. Xiamen: Xiamen University,2000.]   
+[35] 陈伊多,杨庆媛,杨人豪,等.基于熵权物元模型的土地生态安 全评价—重庆市江津区实证[J].干旱区地理,2018,41(1): 185-194.[Chen Yiduo,Yang Qingyuan, Yang Renhao, et al. Evaluation of land ecological security based on entropy weighted matter-element model: A case of Jiangjin District,Chongqing[J].Arid Land Geography,2018, 41(1): 185-194.]   
+[36] 陈东景,徐中民.西北内陆河流域生态安全评价研究——以黑 河流域中游张掖地区为例[J].干旱区地理,2002,25(3):219- 224.[Chen Dongjing,Xu Zhongmin. Study on assessment of the ecological security in the continental watersheds in northwest China:A case study at the middle reaches of Heihe River Watershed, Zhangye Prefecture[J]. Arid Land Geography,2002,25(3): 219- 224.]   
+[37]Shi X Q, Zhao J Z, Ouyang Z Y. Assessment of eco-security in the knowledge grid e- science environment[J]. Journal of Systems and Software,2005,79(2): 246-252.   
+[38] 朱亚楠,蒲春玲.乌鲁木齐市土地利用景观格局变化及生态安 全分析[J].生态科学,2020,39(2):133-144.[Zhu Yanan,Pu Chunling.Analysis on landscape pattrn change and ecological security of land use in Urumqi[J]. Ecological Science,2020,39(2): 133-144.]   
+[39] 李小玉,肖笃宁.石羊河流域中下游绿洲土地利用变化与水资 源动态研究[J].水科学进展,2005,16(5):643-648.[Li Xiaoyu, Xiao Duning. Dynamics of water resources and land use in oases in middle and lower reaches of Shiyang River Watershed,northwest China[J]. Advances in Water Science,2005,16(5): 643-648.]   
+[40] 冯异星,罗格平,尹昌应,等.干旱区内陆河流域土地利用程度 变化与生态安全评价——以新疆玛纳斯河流域为例[J].自然 资源学报,2009,24(11):1921-1932.[Feng Yixing,Luo Geping, Yin Changying,et al. Change of land-use degree and ecological security assessment of inland river basins in the arid area:A case study on Manas River Basin in Xinjiang[J]. Journal of Natural Resources,2009,24(11): 1921-1932.]   
+[41] 王一航,夏沛,刘志锋,等.中国绿洲城市土地利用/覆盖变化研 究进展[J].干旱区地理,2019,42(2):341-353.[Wang Yihang, Xia Pei, Liu Zhifeng, et al. Research progress of urban land use/ cover changein theoasis citiesofChina[J]. AridLand Geography,
+
+# 干吴区地理
+
+[42]岳耀杰,周洪建,王静爱,等.生态安全条件下亚洲沙区土地利 用结构研究[J].地球科学进展,2006,21(2):131-137.[Yue Yaojie,Zhou Hongjian,Wang Jingai,et al.Research on the land use structure of Asian desert regions at ecological security level[J].Ad
+
+vances in Earth Science,2006,21(2):131-137.] [43]李智国,杨子生.中国土地生态安全研究进展[J].中国安全科学 学报,2007,17(12): 5-12,197.[Li Zhiguo,Yang Zisheng.Research progress of land ecological security in China[J]. China Safety Science Journal,2007,17(12): 5-12,197.]
+
+# Land use change and land ecological security assessment in the river basins of northwestern China
+
+WU Jingquan， WU Mingwan, ZANG Chuanfu (School of Geography,South China Normal University,Guangzhou 51O631,Guangdong,China)
+
+Abstract: Land is the most basic natural resource and is the material basis for human survival and development; change in land use/cover,as an important factor affecting global environmental change,is the most direct reflection of human activities.In the context of China’s rapid economic and social development,there is a competition between protecting the ecologically fragile nature of land and the huge demand for urban land development.A lack of atention to maintaining ecological land use and the irrational use of land resources are two factors that have exacerbated land ecological disorders.Therefore,exploring the dynamics of land use change and studying the state of regional land ecological security have become important research elements for regional sustainable development.The dynamic changes in land use and land ecological security have atracted widespread atention.This study uses the ArcGIS spatial analysis software to reveal the characteristics of dynamic land use change in the river basins of northwestern China from 1990 to 2018 and uses the pressure-stateresponse model and the entropy weighting method to assign weights to indicators and analyze the status of land ecological security in the river basins of northwestern China.The results of the study show that （l） the comprehensive land use change of the river basins of northwestern China from 2O15 to 2018 is $2 . 6 5 \%$ , showing a drastic change in land use.The most rapid growth in a single annual average is observed in urban and rural construction land after 2OoO with a change of $4 . 1 6 \%$ . Grassland is mainly replaced by sand, cropland,and other unused land,and the conversion between sand and other unused land inthe desert areas of the basin is stable.(2) The highest weight ofthe state layer in the evaluation index system of land ecological security in the river basins of northwestern China is 0.4985.From the ranking of index weights,itcan be seen that economic and social development，wetland area,and population growth are important factors affecting the evaluation of land ecological securityof the river basins of northwestern China.(3)The land ecological safety index of the river basins of northwestern China showed an increase from 1990 to 2018,remained relatively constant at an unsafe levelfrom 1990 to 2014,and decreased after 2015;the land ecological safetyof the river basins of northwestern China has improved.The problem of land desertification is an important limiting factor to the healthy development of land ecosystems in the basin.In the process of improving land ecological security，more importance needs to be placed on the conversion of desert land to ecological land,and atention needs to be paid to the construction and maintenance of ecological land.This study investigates the dynamic changes in land use and land ecological security in the river basins of northwestern China, with the aim of providing a scientific basis for land use planning and management in the river basins of northwestern China.Furthermore,this work provides examples of land use changes and land ecological security studies at the natural watershed scale.
+
+Key words: the river basins of northwestern China;dynamic changes of land use; pressure-state-response (P-SR) model; comprehensive evaluation method; land ecological security

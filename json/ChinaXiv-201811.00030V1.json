@@ -1,0 +1,525 @@
+[
+    {
+        "type": "text",
+        "text": "民勤一次沙尘暴天气过程的近地层气象要素多尺度特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "魏倩¹，隆霄¹，田畅¹，赵建华²(1．兰州大学大气科学学院,甘肃 兰州 73000；2．中国气象局兰州干旱气象研究所,甘肃兰州 730020)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用民勤站近地层观测资料,对2007年3月27日一次沙尘暴过程中近地层气象要素的多尺度特征进行分析，得到如下结论： $\\textcircled{1}$ 在沙尘暴发生期间,民勤站近地层要素存在明显的多尺度特征,其中风速存在约 $2 . 5 \\mathrm { ~ h ~ }$ 和$^ \\mathrm { ~ 1 ~ h ~ }$ 左右的2个周期, $\\mathrm { P M } _ { 1 0 }$ 浓度存在约为 $1 . 5 \\mathrm { ~ h ~ }$ 的主周期， $2 0 \\mathrm { ~ m ~ }$ 高度处扰动气温的主周期与近地层风速的主周期相同,相对湿度不存在小于 $3 . 5 \\mathrm { ~ h ~ }$ 的主周期。 $\\textcircled{2}$ 与 $2 . 5 \\mathrm { ~ h ~ }$ 左右尺度的风速信号相比， $^ { \\textrm { 1 h } }$ 左右尺度的风速信号提前 $^ 3 \\mathrm { ~ h ~ }$ 出现,这意味着沙尘暴发生发展期间近地层风速存在明显的逆尺度发展特征;与近地层风速和 $\\mathrm { P M } _ { 1 0 }$ 浓度信号相比，$^ \\mathrm { ~ 1 ~ h ~ }$ 左右尺度的扰动气温信号提前出现,并在沙尘暴出现阶段逐渐减弱。 $\\textcircled{3}$ 在沙尘暴出现阶段,近地层风速与$\\mathrm { P M } _ { 1 0 }$ 浓度信号呈同位相变化,而与气温扰动信号存在明显的位相差,这可能意味着沙尘暴发生时重力波的发展对起沙过程起到重要作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：沙尘暴；小波分析；时间序列；时间尺度；民勤",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国西北地区是沙尘暴等风沙活动发生的重点区域,这种灾害性天气的频发能引起土地荒漠化、土壤肥力降低以及空气污染加剧等灾害现象[1]，致使沙尘暴灾区遭受不同程度的经济损失。甘肃河西走廊受其特殊地形造成的狭管效应的影响，近地面风速有明显的增强趋势[2],大风过境时更易形成沙尘天气，而位于走廊东部的民勤则是沙尘暴高发区之一，主要分布了沙漠、沙漠与绿洲的过渡带和绿洲3种地表形态，能为沙尘天气的形成提供丰富沙源[3] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙尘天气的相关研究多数集中在沙尘暴天气形成机制及沙尘暴的时空分布特征等方面。在沙尘暴天气形成机制的研究中，常常关注天气形势及气象要素场的特征变化，沙尘暴过境时会产生地面气压上升、气温下降，近地层风速明显增大、能见度急剧降低等现象，极地冷空气南下使低压槽发展、冷锋锋生加强进而产生大风天气往往是沙尘暴形成的重要原因[4-9]。在分析沙尘暴时空分布特征时,利用沙尘暴时间序列分析沙尘暴发生的时空尺度和突变特征是沙尘天气研究的内容之一，但在研究方法上多为数理统计方法[10-14],并不能很好地抓取到时间序列中的多尺度信息，而小波分析作为一种时频分析法，能够表征信号在时频两域的局部变化，提取信号的多尺度特征及突变特征[15],因此在时间序列时空尺度和突变特征相关研究中，小波分析方法具有较大优势。王存忠等[16对1958—2007 年中国沙尘暴的时间序列进行小波分析，发现 $5 0 \\mathrm { ~ a ~ }$ 中沙尘暴变化呈现从多到少的振荡变化，其减少趋势的振荡变化主要受6\\~8a和2\\~3a尺度变化的叠加影响。孙然好等[17]利用Morlet小波分析得出,近30a来河西走廊平均沙尘暴日数的年际变化具有多尺度振荡的特点，存在7a、13a及2a左右的周期变化，而沙尘暴的活跃度与大气环流的年际变化和突变有关，尤其与大风日数有较好的一致性。朱晓炜等[18]利用小波分析研究发现，民勤沙尘暴的爆发具有5a、15a的周期性,春季与全年的沙尘暴爆发周期相似程度最高，且全年爆发次数与民勤地区上空 $5 0 0 ~ \\mathrm { { h P a } }$ 高度场有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "利用小波分析对沙尘暴天气进行的研究大都是通过长达几十年的沙尘暴序列数据集分析沙尘暴的年际变化特征，很少有人使用小波分析方法分析一次沙尘天气过程的气象要素变化。此外，大气具有明显的多尺度特征，以往对一次沙尘天气过程的分析主要集中在天气尺度的环流特征等方面，这种特征能为沙尘天气的形成提供有利的大尺度条件。需要指出的是沙尘天气的起沙过程主要发生在边界层，具有明显的近地层微尺度特征;沙尘天气是大气中的一种快过程，利用常规观测资料不能有效地捕捉到近地层起沙过程中的微尺度特征，而小波分析能够通过对复杂信号的多尺度分解揭示信号的时间尺度特征。因此，本文在对2007年3月27日民勤地区一次沙尘暴天气过程进行天气学分析的基础上，利用小波分析方法分析民勤站近地层资料，以期揭示沙尘天气过程中近地层气象要素的多尺度变化特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取民勤地区2007年3月27日一次典型的沙尘暴天气过程进行多尺度气象特征分析，所用到的资料包括美国气象环境预报中心（NCEP)和美国国家大气研究中心（NCAR）联合制作的NCEP/NCAR再分析数据集中每 $6 \\textup { h }$ 一次的 $1 ^ { \\circ } \\times 1 ^ { \\circ } \\mathrm { F N L }$ 客观分析资料和民勤县气象台站近地层观测资料。民勤站（ $1 0 3 . 0 8 ^ { \\circ } \\mathrm { E } , 3 8 . 6 3 ^ { \\circ } \\mathrm { N } \\rangle$ 位于河西走廊，海拔高度$1 \\ 3 7 6 . 5 \\ \\mathrm { m }$ ，其观测资料包括：采样间隔为10s的$1 \\mathrm { ~ m ~ } , 2 \\mathrm { ~ m ~ } , 4 \\mathrm { ~ m ~ } , 1 0 \\mathrm { ~ m ~ }$ 和 $2 0 \\mathrm { ~ m ~ }$ 共5层的风速、温度和相对湿度， $1 \\mathrm { ~ m ~ } . 2 \\mathrm { ~ m ~ }$ 和 $2 0 \\mathrm { ~ m ~ }$ 共3层的风向;采样间隔为 $3 0 0 \\mathrm { ~ s ~ }$ 的 $\\mathrm { P M } _ { 1 0 }$ 浓度、环境气压和温度。对风速和温度的扰动场分别采用不同方法得到：由于风速在沙尘暴出现阶段和过境阶段具有明显的线性增加和减小特征，因此对风速采取分段线性拟合得到线性变化趋势，再由原始风场减去分段线性拟合得到风速扰动场;由于温度场具有明显的日变化特征，因此利用观测的温度场拟合出其日变化趋势后，再由原始温度场减去其日变化得到温度扰动场。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 连续小波变换简介 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小波函数指具有震荡特性、能够迅速衰减到0的一类函数，定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { a , b } ( t ) = \\mid a \\mid ^ { - { \\frac { 1 } { 2 } } } \\psi \\left( { \\frac { t - b } { a } } \\right) , b \\in R , a \\in R , a \\not = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $a$ 为反映小波周期长度的尺度因子； $b$ 为反映时间平移的时间因子。为得到时间序列振幅和相位两方面的信息[19],本文采用Morlet复数小波进行连续小波变换，其表达式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi ( t ) = \\left( \\pi F _ { b } \\right) ^ { - 0 . 5 } \\mathrm { e } ^ { i c t } \\mathrm { e } ^ { - t ^ { 2 } / F _ { b } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { F } _ { b }$ 为带宽参数,取 $1 ; i$ 表示虚数单位，取1.5;$c = 2 \\pi F _ { c } { ; } F _ { c }$ 为小波中心频率，取1.5。与离散小波变换相比，连续小波变换更适合信号特征的提取，时间序列 $f ( t ) \\in L ^ { 2 } ( R )$ 基于(2)式 $\\psi _ { a , b } \\left( t \\right)$ 的连续小波变换[20],即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { f } ( a , b ) = \\mid a \\mid ^ { - \\frac { 1 } { 2 } } \\int _ { - \\infty } ^ { + \\infty } f ( t ) \\psi \\left( \\frac { t - b } { a } \\right) \\mathrm { d } t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $W _ { f } ( a , b )$ 为小波系数，能同时反映时频两域的特性。时间序列经过基于复数小波的连续变换后可得小波复系数，小波复系数模的大小能表示不同时间尺度信号的强弱，实部则能表示不同时间尺度信号在不同时间上的分布和位相信息。利用小波系数可计算时间序列的小波方差，其表达式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { V a r } ( a ) = \\int _ { - \\infty } ^ { + \\infty } \\mathbf { \\sigma } \\big | W _ { f } ( a , b ) \\mathbf { \\sigma } \\big | ^ { 2 } \\mathrm { d } b\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小波方差能反映波动能量随尺度的分布信息，确定时间序列的主要时间尺度即主周期。由于连续小波的归一化频域窗口中心为[21]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { a , b } = \\frac { 1 } { a } \\omega _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $ { \\mathbf { \\omega } } _ { \\infty }$ 为选取小波的中心频率，是一常数，因此每一尺度所对应的时间周期为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = 1 / F _ { \\it a } = 1 / ( F _ { \\it c } \\times F _ { \\it s } / a ) = 0 . 6 6 7 a \\delta t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $T$ 为周期； $\\boldsymbol { F } _ { a }$ 为实际频率； $\\boldsymbol { F } _ { c }$ 为(3)式中的小波中心频率； $\\boldsymbol { F } _ { s }$ 为采样频率； $a$ 为尺度； $\\delta t$ 为采样间隔。本文所分析信号的尺度周期转换见表1。小波变换时由于时间序列长度有限而产生的边界效应可采用对称延伸法[22]消除，即将数据资料在两端对称延伸后进行小波变换。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { - \\infty } ^ { + \\infty } \\Psi ^ { \\prime } ( t ) \\mathrm { d } t = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\psi ( t )$ 也称基小波,其伸缩和平移构成一簇函数系：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/55cb45845b9a6ade106cad519b29b4fdf4ce9f62fcd6688735d5517980568130.jpg",
+        "table_caption": [
+            "表1小波尺度与周期转换",
+            "Tab.1Wavelet scales and periodic conversions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>尺度(a)</td><td>2</td><td>4</td><td>8</td><td>16</td><td>32</td><td>64</td></tr><tr><td>周期(T)/h</td><td>0.11</td><td>0.22</td><td>0.44</td><td>0.89</td><td>1.78</td><td>3.55</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2强沙尘暴演变过程的特征分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 天气实况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2007年3月27一28日，受冷空气影响，中国西北地区相继出现大范围沙尘天气，民勤站监测到一次持续近 $^ { 2 \\mathrm { ~ h ~ } }$ 的强沙尘暴过程。27日06：00Z（世界时，下同)，河西走廊部分测站出现扬沙天气（图1a）,27日08：40Z，民勤已出现沙尘暴， $\\mathrm { P M } _ { 1 0 }$ 浓度高达 $9 ~ 5 0 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ ,瞬时 $1 0 \\mathrm { ~ m ~ }$ 风速达到8级0 $( 1 9 . 4 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ )，能见度不足 $5 0 0 \\mathrm { ~ m ~ }$ 。27日12:00Z沙尘暴东移，河套西部地区多个测站观测到沙尘暴和强沙尘暴（图1b），27日18：00Z，沙尘暴强度减弱并逐渐消失（图略）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 环流背景",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在对流层中层 $5 0 0 ~ \\mathrm { { h P a } }$ ，中国北方地区由西北气流控制，甘肃以西， ${ } ^ { \\prime } 9 4 ^ { \\circ } \\mathrm { E } , 4 4 ^ { \\circ } \\mathrm { N } { } _ { \\cdot }$ )附近出现一短波槽（图略），并于27日06：00Z逐渐加深东移至内蒙古东部，此时在对流层高层 $3 0 0 \\ \\mathrm { { h P a } }$ 甘肃西北部（20 $( 9 9 ^ { \\circ } \\mathrm { E } , 4 1 ^ { \\circ } \\mathrm { N } )$ 附近出现风速超过 $4 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 的高空急流带(图1a);此后该槽一路东移南压，并在27日12：00Z到达河套以东，在此时段内， $3 0 0 \\ \\mathrm { h P a }$ 高空急流带不断加深扩大，急流中心从 ${ } ^ { \\prime } 9 9 ^ { \\circ } \\mathrm { E } , 4 1 ^ { \\circ } \\mathrm { N } { } ,$ 附近向下游移动至( $1 0 2 ^ { \\circ } \\mathrm { E } , 4 1 ^ { \\circ } \\mathrm { N } \\ '$ 附近，到12：00Z，急流中心最大风速达到 $4 8 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 以上，民勤已位于急流带右侧出口区（图1b);27日 $1 8 : 0 0 \\mathrm { Z } , 5 0 0 \\ \\mathrm { h P a }$ 短波槽到达河套以西（图略）。在对流层低层700$\\mathrm { { h P a } }$ ，一个快速发展的短波槽于27日06：00Z自中蒙边境 $\\langle 1 0 5 ^ { \\circ } \\mathrm { E } , 4 2 ^ { \\circ } \\mathrm { N } ^ { \\cdot }$ )东移南压（图1c），并于27日12：00Z到达河套东部，此时河西走廊已位于该槽之后,其中部地区的风速已超过 $2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ （图1d），$8 5 0 \\ \\mathrm { h P a }$ 的内蒙古地区为低压系统所控制，河套地区位于低压槽前（图略）。地面主要为冷锋系统的东移发展（图略），在27日00：00Z该冷锋系统位于青藏高原东北侧，呈东西走向，到27日06：00Z该锋面快速发展为东北—西南向，到12：00Z锋面移至河套东部。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f08b830ae80d72c41dafb083837db8ec3338fde8e10759aff99b8a56b457a47.jpg",
+        "img_caption": [
+            "图12007年3月27日 $5 0 0 ~ \\mathrm { { h P a } }$ 及 $7 0 0 ~ \\mathrm { { h P a } }$ 位势高度场(等值线,gpm)和风场（箭头， $\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ,填充色表示风速大小)Fig.1Geopotential height fields（contour lines,gpm）and wind fields（arrows, $\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ）at $5 0 0 ~ \\mathrm { { h P a } }$ and $7 0 0 \\ \\mathrm { { h P a } }$ from 06:00Z to 12:00Z,27 March,2007"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次强沙尘暴天气的形成与民勤地区的地形地貌 $\\cdot 7 0 0 \\ \\mathrm { h P a }$ 和 $8 5 0 \\ \\mathrm { h P a }$ 短波槽的快速移动及冷锋过境密切相关,这与隆霄等[23]的分析结果一致。民勤周围分布着沙漠和多沙土地，地表存在大量沙土，这为强沙尘暴的发生提供了丰富沙源； $7 0 0 \\ \\mathrm { { h P a } }$ 和850hPa 短波槽的快速移动及冷锋过境，使得该区近地层大气在沙尘暴发生阶段存在强上升运动，为此次沙尘暴的形成提供了有利的动力条件。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 近地层气象要素的变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2为民勤站2007年3月27日00：00Z至28日00：00Z近地层（ $( 1 \\ \\mathrm { m } \\ 、 2 \\ \\mathrm { m } \\ 、 4 \\ \\mathrm { m } \\ 、 1 0 \\ \\mathrm { m }$ 和 $2 0 \\mathrm { ~ m ~ }$ ））$5 ~ \\mathrm { m i n }$ 平均风速和地面 $\\mathrm { P M } _ { 1 0 }$ 浓度的时间变化，可以看出近地层风速在沙尘暴天气过程中具有相似的变化特征。沙尘暴发生前民勤站 $2 0 \\mathrm { ~ m ~ }$ 风速在 $3 \\sim 7 \\mathrm { ~ m ~ }$ ·$\\mathrm { ~ s ~ } ^ { - 1 }$ 波动变化,平均风速为 $4 . 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,05:50Z开始，风速逐渐增加，到08：35Z,风速快速增至17.8$\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ $^ 3 \\mathrm { ~ h ~ }$ 内风速增幅达到 $1 4 . 8 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,此后风速明显回落，但随后又迅速增至 $1 7 . ~ 3 ~ \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ (09:40Z）。此间, $\\mathrm { P M } _ { 1 0 }$ 浓度从其背景值约 $2 0 0 ~ \\mu \\mathrm { g }$ ：$\\mathrm { ~ m ~ } ^ { - 3 }$ 迅速增至 $9 ~ 5 0 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 } \\left( 0 8 : 4 0 \\mathrm { Z } \\right)$ 后,又降至",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$2 5 0 0 \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } ( 0 9 { : } 1 5 \\mathrm { Z } )$ ,随后再次快速增至8500$\\mu \\mathrm { g } \\cdot \\textrm { m } ^ { - 3 } \\left( \\ 0 9 : 3 0 \\mathrm { Z } \\right)$ 。此后,风速快速减小并在14：40Z降至原来水平， $\\mathrm { P M } _ { 1 0 }$ 浓度也随之快速减小。在沙尘暴变化过程中，水平能见度从 $1 0 \\ 0 0 0 \\ \\mathrm { ~ m ~ }$ 降至$5 0 0 \\mathrm { ~ m ~ }$ 以下。分析显示沙尘暴发生期间， $\\mathrm { P M } _ { 1 0 }$ 浓度最大值出现时刻与风速最大值出现时刻有较好的一致性,且风速快速增加时段早于 $\\mathrm { P M } _ { 1 0 }$ 浓度增加时段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为民勤站2007年3月27日00：00Z至28日00：00Z近地层 $2 0 \\mathrm { ~ m ~ }$ 风速 $\\cdot 2 0 \\mathrm { ~ m ~ }$ 气温及地面气压随时间的变化。沙尘暴发生期间，地面气压从27日00：00Z开始减小，到05：30Z减至最低，此时 $2 0 \\mathrm { ~ m ~ }$ 气温达到最高，随后气压迅速跃升，并在15：00Z增至最高。表明，随着气温升高，地面气压开始减小，当气温达到峰值时，大气层结稳定度相对最低，风速迅速增加与气压跃升相伴，且风速峰值出现时刻早于气压峰值出现时刻（图3），这意味着在冷锋过境时段，大气背景场与风场之间存在明显的调整过程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外， $2 0 \\mathrm { ~ m ~ }$ 温度及相对湿度的变化特征显示，沙尘暴天气发生发展期间温度与相对湿度呈反位相变化趋势，当温度达到峰值 $2 1 . 4 ~ \\mathrm { ^ { \\circ } C }$ 时（05：30Z），相对湿度下降至日最低值 $8 \\%$ ，且温度的扰动变化非",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10 000 20 9500 $\\mathrm { P M } _ { 1 0 }$ 浓度 19 9000 20m风速（U20m） 43210 18 8500 10m风速（U10m） 17 8000 4m风速 $( U _ { 4 \\mathrm { { m } } } )$ H 16 2m风速（Um） （20 $U _ { \\mathrm { 2 0 m } }$ 性变化趋势 0123 1541B 5000 6000 福 12Ⅱ 10 (-s.u)/区 4500 9 4000 8 80 4.5m 76 2500 5 2000 2.8 m·s-1 4 1500 WW 3 1000 2 500 1 0 时刻(世界时) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Variation of the wind speed observed at different heights and $\\mathrm { P M } _ { 1 0 }$ concentration at Minqin Meteorological Station from 00:00Z on March 27 to 00:00Z on March 28，2007 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b15bff089c7542ca4c78c997c4a5d883c359bfcd4d4aab4395973f5fa1a614b3.jpg",
+        "img_caption": [
+            "图32007年3月27日00:00Z至28日00：00Z民勤站近地层 $2 0 \\mathrm { ~ m ~ }$ 风速和气温及地面气压日变化Fig.3Variations of the wind speed and temperature observed at $2 0 \\mathrm { ~ m ~ }$ height and the surface pressure at Minqin MeteorologicalStation from 00:00Z on March 27 to 00:00Zon 28 March，2007"
+        ],
+        "img_footnote": [
+            "注：蓝框内为 $2 0 \\mathrm { ~ m ~ }$ 气温去除日变化后的扰动气温变化趋势。"
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "常明显(图略）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3强沙尘暴气象要素时间序列的小波分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在沙尘暴形成和发展期间，由风速和温度的变化特征可知，风场和温度场存在明显的小尺度信号，以下以ComplexMorlet小波为基础，分析沙尘暴期间民勤近地层气象要素的多尺度变化特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1气象要素时间序列的多尺度特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "沙尘暴通过民勤站前后各气象要素的Morlet小波变换实部特征显示，强沙尘暴天气发生阶段，近地层风速具有明显的小尺度变化特征，5层风速的小波系数实部变化具有较好的一致性，且高度越高，波动信号越强[图 $4 ( \\mathrm { a } \\sim \\mathrm { e } ) ]$ 。时间尺度约为 $^ \\mathrm { ~ 1 ~ h ~ }$ 的风速信号在04：40—18：40Z时段内非常明显，时间尺度约为 $2 . 5 \\mathrm { ~ h ~ }$ 的风速信号主要出现在 $0 7 : 0 0 -$ 15：40Z时段。 $^ \\mathrm { ~ 1 ~ h ~ }$ 尺度的风速信号比 $2 . 5 \\mathrm { ~ h ~ }$ 尺度的信号提前 $^ 3 \\mathrm { ~ h ~ }$ 左右出现,这意味着沙尘暴发生期间近地层风速存在明显的逆尺度发展。 $\\mathrm { P M } _ { 1 0 }$ 浓度在强沙尘暴发生时（07：00—13：00Z），存在时间尺度约为 $1 . 5 \\mathrm { ~ h ~ }$ 的显著波动信号，并且随时间推后信号的正负中心逐渐向大尺度偏移(图4f)。 $2 0 \\mathrm { ~ m ~ }$ 扰动气温存在与风速相同时间尺度的波动信号，但 $^ \\mathrm { ~ 1 ~ h ~ }$ 左右尺度的波动信号在沙尘暴发生前（03：40—06：40Z)及沙尘暴发生后（16：40—14：40Z)最为显著， $. 2 . 5 \\mathrm { ~ h ~ }$ 左右尺度的波动信号在沙尘暴发生前反而减弱（图 ${ 4 \\mathrm { g } }$ )。时间尺度大于 $^ { 2 \\mathrm { ~ h ~ } }$ 的相对湿度波动信号在沙尘暴发生时（07：00—13：00Z）非常明显，时间尺度约为 $^ \\mathrm { ~ 1 ~ h ~ }$ 的波动信号出现在08：40—11：00Z时段，但该信号并不显著（图4h）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Morlet小波变换系数的模方分布能够显示波动中最显著的时间尺度，反映特征时间尺度信号在分析时段内的强弱分布。沙尘暴通过民勤站前后近地层风速的小波系数模方特征显示，5层风速的信号强弱变化具有一致性[图 $5 ( \\mathrm { \\ a \\sim e ) \\ } ]$ 。沙尘暴发生前后(08：00—16：20Z)风速模方分布在12：00Z，存在强高值中心，对应约 $2 . 5 \\mathrm { ~ h ~ }$ 的时间尺度,在沙尘暴发展旺盛期至消失前 $( 0 8 : 0 0 { \\ - - } 1 2 : 0 0 \\mathrm { Z } )$ ,风速模方分布于09：40Z，出现较弱的闭合中心，对应约 $^ { \\mathrm { ~ 1 ~ h ~ } }$ 的时",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/68f5d91753f085121b3174dc4dd94d08f16b66d37b367d3630b27a0b94e04c57.jpg",
+        "img_caption": [
+            "魏倩等：民勤一次沙尘暴天气过程的近地层气象要素多尺度特征"
+        ],
+        "img_footnote": [
+            "E：虚线所在尺度与周期：(a)、(b）、(c)(d)、(e)中 $a = 2 1$ （ $T = 1 . 1 6 \\mathrm { ~ h ~ }$ 和 $a = 4 0$ （ $T = 2 . 2 2 \\mathrm { ~ h ~ }$ )；(f)中 $a = 2 6 ( \\mathit { T } \\mathit { \\Theta } ) 1 . 4 5 \\mathrm { \\ l h } _ { \\mathit { \\Phi } , }$ ；(g)中 $a = 1 6$ （ $\\scriptstyle { T = 0 . 8 9 \\mathrm { ~ h } }$ 和a $\\mathrel { \\mathop : } = 4 4 \\big ( \\mathrm { \\textit { T } } = 2 . 4 5 \\mathrm { \\textrm { h } }$ )；(h)中 $a = 2 0$ $= 2 0 \\AA T = 1 . 1 1 \\mathrm { ~ h ~ } \\AA$ ）。下同。"
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图42007年3月27日00：00Z至28日00：00Z民勤站近地层 $5 ~ \\mathrm { m i n }$ 平均风速 $( 1 ~ \\mathrm { m } \\cdot 2 ~ \\mathrm { m } \\cdot 4 ~ \\mathrm { m } \\cdot 1 0 ~ \\mathrm { m }$ 和 $2 0 \\mathrm { ~ m ~ }$ ）、 $\\mathrm { P M } _ { 1 0 }$ 浓度、$2 0 \\mathrm { ~ m ~ }$ 扰动气温及 $2 0 \\mathrm { ~ m ~ }$ 相对湿度时间序列复Morlet小波变换系数实部的时频变化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Thetime-frequencyvariationoftherealpartofMorletwaveletcoeficienttransformedfromthetimeseriesofwindspeed averaged every 5 minutes at different heights（1,2,4，10 and $2 0 \\mathrm { ~ m ~ }$ ），perturbed temperature and relative humidity observed at $2 0 \\mathrm { ~ m ~ }$ height and $\\mathrm { P M } _ { 1 0 }$ concentration at Minqin Meteorological Station from O0:0OZ on March 27,to O0:0OZ on March 28,2007 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "间尺度，这表明强沙尘暴发展时近地层风速波动最为显著的时间尺度约为 $2 . 5 \\mathrm { ~ h ~ }$ ,其次是 $^ { \\mathrm { ~ 1 ~ h ~ } }$ ,且两种尺度的波动均随高度增高而增强。 $\\mathrm { P M } _ { 1 0 }$ 浓度波动最显著的时间尺度约为 $1 . 5 \\mathrm { ~ h ~ }$ ，振荡中心出现在09：40Z（图5f)，与时间尺度为 $^ { \\mathrm { ~ 1 ~ h ~ } }$ 的风速信号对比发现，二者的出现时段和振荡中心均相同，这意味着 $^ \\mathrm { ~ 1 ~ h ~ }$ 尺度的短波风速信号与起沙过程密切相关。 $2 0 \\mathrm { ~ m ~ }$ 扰动气温模方分布在气温下降期内（14：00—23：40Z），存在强高值中心，对应约 $2 . 5 \\mathrm { ~ h ~ }$ 的时间尺度，在 $0 4 : 0 0 { \\ - } { \\ - } 0 7 : 0 0 \\mathrm { Z }$ 及16：00—17：00Z时段存在闭合中心（图 $5 \\mathrm { g }$ ），对应约 $^ \\mathrm { ~ 1 ~ h ~ }$ 的时间尺度,这表明时间尺度为 $2 . 5 \\mathrm { ~ h ~ }$ 的气温波动最为显著。相对湿度小波模方分布在11：00Z、尺度 $a = 6 4$ 处存在高值中心，即在沙尘暴发生期间其最显著的时间尺度超过$3 . 5 \\mathrm { ~ h ~ }$ ，而 $^ \\mathrm { ~ 1 ~ h ~ }$ 左右尺度信号非常微弱（图5h）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以上分析表明，近地层风速、气温和 $\\mathrm { P M } _ { 1 0 }$ 浓度在沙尘暴发生发展阶段均存在尺度约为 $^ \\mathrm { ~ 1 ~ h ~ }$ 的显著波动信号，气温波动信号的出现早于风速波动信号和 $\\mathrm { P M } _ { 1 0 }$ 浓度信号，这有利于大气层结不稳定发展。风速波动信号与 $\\mathrm { P M } _ { 1 0 }$ 浓度信号在沙尘暴发生阶段(07：00—13：00Z)有较好的一致性，这表明大风过境有利于起沙过程的发展，进而导致 $\\mathrm { P M } _ { 1 0 }$ 浓度的剧",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bda0e01ddd59e1a11c73d983673f535d04264852036eb19f715e991141d8b8ea.jpg",
+        "img_caption": [
+            "图52007年3月27日00:00Z至28日00：00Z民勤站近地层 $5 ~ \\mathrm { m i n }$ 平均风速( $\\mathrm { ~ 1 ~ m ~ . ~ 2 ~ m ~ . ~ 4 ~ m ~ . ~ } 1 0 \\mathrm { ~ m ~ }$ 和 $2 0 \\mathrm { ~ m ~ }$ ） $\\mathrm { P M } _ { 1 0 }$ 浓度、$2 0 \\mathrm { ~ m ~ }$ 扰动气温及 $2 0 \\mathrm { ~ m ~ }$ 相对湿度时间序列复Morlet小波变换系数模方的时频变化",
+            "Fig.5Thetime-frequencyvariationofthemodularsquareofMorlet waveletcoeffcienttransformedfromthetimeseriesofwind speed averaged every 5 minutes at different heights（1,2,4,10 and $2 0 \\mathrm { ~ m ~ }$ ），perturbed temperature and relative humidity observed at $2 0 \\mathrm { ~ m ~ }$ height and $\\mathrm { P M } _ { 1 0 }$ concentration at Minqin Meteorological Station from O0:0OZon March 27 to O0:OOZ on March 28,2007 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "增和沙尘暴天气的形成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2气象要素时间序列的主周期信号特征分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "民勤站近地层风速时间序列的小波方差能够显示强沙尘暴中风速波动变化最显著的时间尺度，进而确定主周期。5层风速小波方差的分布特征基本相同，均存在2个峰值(图略）。 $2 0 \\mathrm { ~ m ~ }$ 风速小波方差的第一峰值位于尺度 $a = 4 4$ 处，这表明 $2 0 \\mathrm { ~ m ~ }$ 风速在该尺度下的波动信号最强，存在约 $2 . 5 \\mathrm { ~ h ~ }$ 的第一主周期;第二峰值位于尺度 $a = 2 1$ 处，对应约 $^ \\mathrm { ~ 1 ~ h ~ }$ 的第二主周期。 $\\mathrm { P M } _ { 1 0 }$ 浓度的小波方差仅有1个峰值，位于尺度 $a = 2 6$ 处,对应约 $1 . 5 \\mathrm { ~ h ~ }$ 的主周期。 $2 0 \\mathrm { ~ m ~ }$ 扰动气温的小波方差与 $2 0 \\mathrm { ~ m ~ }$ 风速的主周期相同，即其存在2个主要峰值，分别位于尺度 $a = 4 4$ 和尺度$a = 1 6$ 处,对应约为 $2 . 5 \\mathrm { ~ h ~ }$ 和 $^ \\mathrm { ~ 1 ~ h ~ }$ 的两个主周期（图6)。相对湿度小波方差分布在尺度 $a < 6 4$ 范围内并无峰值，因此，相对湿度不存在小于 $3 . 5 \\mathrm { ~ h ~ }$ 的主周期(图略）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$2 0 \\mathrm { ~ m ~ }$ 风速第一主周期的实部信号在风速上升至当日第一峰值时（08：40Z），开始增大振荡幅度，12：00Z振幅达到最大，随后波动逐渐减弱并在17：00Z后趋于平缓（图7a）。第二主周期的 $2 0 \\mathrm { ~ m ~ }$ 风速实部信号在强沙尘暴发生时出现明显波动，波动强弱程度与强沙尘暴发展过程一致，波动振幅从03：20Z逐渐加大，并在沙尘暴最强时刻09：40Z达到最大，随后逐渐减小（图7b）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分析主周期尺度 $\\mathrm { P M } _ { 1 0 }$ 浓度和 $2 0 \\mathrm { ~ m ~ }$ 扰动气温时间序列的小波系数实部变化发现： $1 . 5 \\mathrm { ~ h ~ }$ 时间尺度的 $\\mathrm { P M } _ { 1 0 }$ 浓度主周期信号在06：30Z出现明显波动，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "×1063I -PM10 T20m U20m 35 2.5A20 10.5 1 0.50 上 山 三 1 1 山 山 山 E 1 00 2 4 6 8 10 12 14 16 18 20 22 24 26 28 3032 34 3638 40 42 44 46 48 50 52 54 56 58 60 6264 尺度(a)0 II'O 022 300 0 903 ∠9'0 820 68'0 00T [[ 2 8 # 19.5 ∠91 18 202122 224 97 197 28230 278 333 周期 $( T ) \\ h$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.6The variationof the waveletvariancecalculatedfromthetime seriesofthe wind spedaveragedevery5minutesandthe perturbed temperature observed at $2 0 \\mathrm { ~ m ~ }$ height and $\\mathrm { P M } _ { 1 0 }$ concentration at Minqin Meteorological Station from OO :0OZ ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcfa1fbdd720befbde73f25afe9eb02540a1dcb9ad17dccb7599362913305385.jpg",
+        "img_caption": [
+            "魏倩等：民勤一次沙尘暴天气过程的近地层气象要素多尺度特征",
+            "$\\mathrm { P M } _ { 1 0 }$ 浓度时间序列小波方差",
+            "图72007年3月27日00:00Z至28日00:00Z民勤站 $2 0 \\mathrm { ~ m ~ }$ 风速和 $2 0 \\mathrm { ~ m ~ }$ 扰动气温时间 $\\mathrm { \\cdot } \\mathrm { P M } _ { 1 0 }$ 浓度序列",
+            "的主周期信号小波变换系数实部变化",
+            "Fig.7Themainsignalsextractedfrom therealpartof Morlet waveletcoeffcienttransformedfromthetimeseriesof the wind speed and the perturbed temperature observed at $2 0 \\mathrm { ~ m ~ }$ height and $\\mathrm { P M } _ { 1 0 }$ concentration at Minqin Meteorological Station from 00:00Z on March 27 to 00:00Z on March 28,2007 "
+        ],
+        "img_footnote": [
+            "图62007年3月27日00:00Z至28日00:00Z民勤站近地层 $2 0 \\mathrm { ~ m ~ }$ 高度的 $5 ~ \\mathrm { m i n }$ 平均风速、扰动气温以及"
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此后信号振幅逐渐增大，到09：50Z，信号振幅达到最大，随后波动逐渐减弱并在14：00Z完全消失（图7c）。 $2 0 \\mathrm { ~ m ~ }$ 扰动气温的第一主周期实部信号波动在05：00—19：20Z时段逐渐加强，随后减弱（图7d)，第二主周期实部信号在强沙尘暴发生之前(00：00—06:40Z)和之后（16:00—18:40Z)均呈现较强波动，但在强沙尘暴发生阶段反而减弱（图7e)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将 $\\mathrm { P M } _ { 1 0 }$ 浓度 $\\sqrt { 2 0 \\mathrm { ~ m ~ } }$ 风速和 $2 0 \\mathrm { ~ m ~ }$ 扰动气温时间序列的小波系数实部信号分3组在相同周期下进行对比分析，即第1组对比主周期为 $2 . 5 \\mathrm { ~ h ~ }$ 的 $2 0 \\mathrm { ~ m ~ }$ 风速和 $2 0 \\mathrm { ~ m ~ }$ 扰动气温实部信号（图8a），第2组对比主周期为 $^ \\mathrm { ~ 1 ~ h ~ }$ 的 $2 0 \\mathrm { ~ m ~ }$ 风速和 $2 0 \\mathrm { ~ m ~ }$ 扰动气温实部信号（图8b)，第3组对比主周期为 $^ { \\mathrm { ~ 1 ~ h ~ } }$ 的 $2 0 \\mathrm { ~ m ~ }$ 风速和周期为 $^ \\mathrm { ~ 1 ~ h ~ }$ 的 $\\mathrm { P M } _ { 1 0 }$ 浓度实部信号（图8c）。第1组信号对比特征显示，强沙尘暴发生前（00：00一03:40Z）, $2 . 5 \\mathrm { ~ h ~ }$ 周期的 $2 0 \\mathrm { ~ m ~ }$ 风速和 $2 0 \\mathrm { ~ m ~ }$ 扰动气温实部信号呈同位相变化，随后逐渐形成位相差，且在强沙尘暴发生前后（06：00—12：00Z），风速信号的位相变化明显滞后于扰动气温，这表明风场与气压场调整时扰动温度场与风场存在位相差，风场落后于扰动温度场发生明显变化。第2组信号对比特征显示，扰动温度场先于风场约 $^ { 4 \\mathrm { ~ h ~ } }$ 出现强短波信号，即 $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的 $2 0 \\mathrm { ~ m ~ }$ 风速实部信号在09：50Z出现最大振幅, $^ \\textrm { \\scriptsize 1 h }$ 周期的 $2 0 \\mathrm { ~ m ~ }$ 扰动气温实部信号则提前在05：30Z达到最大振幅，而此时正值午后，气温接近当日峰值，大气层结趋于不稳定状态发展;此外，在强沙尘暴发生期间（08：20—11：00Z）， $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的$2 0 \\mathrm { ~ m ~ }$ 扰动气温实部信号波动大幅减弱，同周期 $2 0 \\mathrm { ~ m ~ }$ 风速的信号波动则达到最强，二者几乎呈反位相变化。第3组信号对比特征显示， $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的 $2 0 \\mathrm { ~ m ~ }$ 风速波动出现早、消失晚，且 $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的 $\\mathrm { P M } _ { 1 0 }$ 浓度和$2 0 \\mathrm { ~ m ~ }$ 风速信号在沙尘暴最强时期呈同位相变化，即在风速波动增强时段（07：00—09：40Z）， $\\mathrm { P M } _ { 1 0 }$ 浓度信号增强，在风速波动减弱时段（10：00—12：00Z），$\\mathrm { P M } _ { 1 0 }$ 浓度信号也转而减弱。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述，强沙尘暴发生前 $^ \\textrm { \\scriptsize 4 h }$ 左右， $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的温度信号率先出现明显扰动， $2 . 5 \\mathrm { ~ h ~ }$ 周期的扰动温度信号和风速信号呈同位相变化，随后 $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的风速信号和 $\\mathrm { P M } _ { 1 0 }$ 浓度信号先后出现扰动，06：30Z强沙尘暴开始发展， $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的扰动温度信号反而减弱，且与 $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的风速信号基本呈反位相变化。此时， $2 . 5 \\mathrm { ~ h ~ }$ 周期的扰动温度信号和风速信号出现明显相位差， $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的风速信号和 $\\mathrm { P M } _ { 1 0 }$ 浓度信号却呈同位相变化,这些特征共同表明温度场出现的1h周期扰动促使风场变化，风场扰动进一步触发了起沙过程，因此，可认为大风起沙过程不仅与大尺度环流形势有关，还与近地层热力不稳定因素密切相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb590e52471d8970525a76d1f80f7d6a41c5a5715ea034558bfebb8b4eeb1ff5.jpg",
+        "img_caption": [
+            "注：篮、红框分别表示强沙尘暴发生前后和最强时期。",
+            "图82007年3月27日00:00Z至28日00:00Z民勤站 $2 0 \\mathrm { ~ m ~ }$ 风速和 $2 0 \\mathrm { ~ m ~ }$ 扰动气温 $\\mathrm { \\cdot \\mathrm { P M _ { 1 0 } } }$ 浓度主周期信号对比 Fig.8Thecomparisonof the mainsignalsextractedfromtherealpartofMorlet waveletcoeffcient transformedfromhetime series of wind speed and perturbed temperature observed at $2 0 \\mathrm { ~ m ~ }$ height and $\\mathrm { P M } _ { 1 0 }$ concentration at Minqin Meteorological Station from O0:00Z on March27 to O0:00Z on March28,2007 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）在民勤特殊的地形地貌、 $7 0 0 \\ \\mathrm { { h P a } }$ 和850$\\mathrm { { h P a } }$ 短波槽的快速移动及冷锋过境综合影响下，近地层风速、 $\\mathrm { P M } _ { 1 0 }$ 浓度、环境气压、气温及相对湿度在此次强沙尘暴中发生了显著变化，近地层风速与$\\mathrm { P M } _ { 1 0 }$ 浓度的变化有较好的一致性，气压场与风场之间存在明显的调整过程，气温和相对湿度的日变化呈现相反趋势。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）各气象要素小波系数实部和模方特征及小波方差综合分析显示，强沙尘暴发生期间近地层微气象要素变化具有明显的多尺度特征，近地层风速存在约 $2 . 5 \\mathrm { ~ h ~ }$ 和 $^ \\mathrm { ~ 1 ~ h ~ }$ 的两个周期， $\\mathrm { P M } _ { 1 0 }$ 浓度存在约$1 . 5 \\mathrm { ~ h ~ }$ 的主周期。 $2 0 \\mathrm { ~ m ~ }$ 扰动气温存在与风速相同的主周期，相对湿度不存在小于 $3 . 5 \\mathrm { ~ h ~ }$ 的周期，各信号在不同周期、不同时段的特征存在明显差异。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）各气象要素不同周期小波系数实部信号的对比特征表明， $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的风速信号比 $2 . 5 \\mathrm { ~ h ~ }$ 周期的风速信号提前 $^ 3 \\mathrm { ~ h ~ }$ 出现，这意味着沙尘暴发生发展期间近地层风速存在明显的逆尺度发展特征。 $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的扰动气温信号比 $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的风速和 $1 . 5 \\mathrm { ~ h ~ }$ 周期的 $\\mathrm { P M } _ { 1 0 }$ 浓度信号提前出现，并在风速和 $\\mathrm { P M } _ { 1 0 }$ 浓度信号增强的强沙尘暴出现阶段逐渐减弱，这表明温度场率先出现的 $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的扰动促使风场变化，进而触发了起沙过程。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）各气象要素相同周期小波系数实部信号的对比特征显示，在强沙尘暴发生前后， $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的扰动温度、风速和 $\\mathrm { P M } _ { 1 0 }$ 浓度信号先后出现明显变化，$2 . 5 \\mathrm { ~ h ~ }$ 周期的扰动温度和风速信号经历了同位相变化到产生位相差的转变；在强沙尘暴发生时期， $^ \\textrm { \\scriptsize 1 h }$ 周期的风速和 $\\mathrm { P M } _ { 1 0 }$ 浓度信号呈同位相变化， $^ \\mathrm { ~ 1 ~ h ~ }$ 周期的扰动温度基本与同周期的风速信号呈反位相变化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "大气动力学的理论研究表明，中尺度重力波的特征时间尺度约为几小时，水平尺度约为几百公里，且在其发展变化阶段扰动温度和扰动风速存在明显的位相差[24]。本文分析结果表明,此次沙尘暴发生发展期间风速、温度、 $\\mathrm { P M } _ { 1 0 }$ 浓度均具有与中尺度重力波特征时间尺度相近的几小时尺度的显著变化特征，且扰动温度和扰动风速的位相差较为明显，这可能意味着沙尘暴过程的发生演变与重力波的发展有关，但利用单点资料分析重力波的特征存在明显不足。因此，将继续利用中尺度数值模拟输出的高时空分辨率资料，选取更多个例分析沙尘暴天气中重力波的发展演变特征。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1］沈洁,李耀辉,朱晓炜.西北地区气候与环境变化影响沙尘暴 的研究进展[J].干旱气象,2010,28(4）:467-474.[Shen Jie, Li Yaohui,Zhu Xiaowei.Influence of climateand enviroment change on dust storm in Northwest China[J].Journal of Arid Meteorology,2010,28（4） :467-474.]   \n[2]董安祥,胡文超,张宇,等.河西走廊特殊地形与大风的关系探 讨[J].冰川冻土,2014,36（2）:347－351.[Dong Anxiang,Hu Wenchao,Zhang Yu,et al. Studyof the relationship between gale and the peculiar terrain in the Hexi Corridor[J].Journal of Glaciology and Geocryology,2014,36(2）:347-351.]   \n[3]杨艳,王杰,田明中,等.中国沙尘暴分布规律及研究方法分析 [J].中国沙漠,2012,32(2）:465-472.[Yang Yan,Wang Jie, Tian Mingzhong,et al.Distribution characteristics and research method of sandstorms in China;A review[J]. Journal of Desert Research,2012,32(2) :465 -472.]   \n[4]赵庆云,张武,吕萍,等.河西走廊 $2 0 1 0 \\cdot 0 4 \\cdot 2 4$ ”特强沙尘暴 特征分析〔J].高原气象,2012,31（3）:688－696.［Zhao Qingyun,Zhang Wu,Lv Ping,et al.Characteristics analysis of the severe dust event occurred in Hexi Corridor on April 24,2O10[J]. Plateau Meteorology,2012,31(3）:688-696.]   \n[5］沈洁,李耀辉,胡田田,等.一次特强沙尘暴成因及近地面要素 脉动特征[J].中国沙漠,2014,34(2）:507-517.[Shen Jie,Li Yaohui,Hu Tiantian,et al.Causes and surface elements characteristics of a heavy sand-storm in 2O1O in Minqin of Gansu,China [J].Journal of Desert Research,2014,34(2）:507 -517.]   \n[6]钱莉,滕杰,胡津革.‘ $\\cdot 1 4 \\cdot 4 \\cdot 2 3$ \"河西走廊特强沙尘暴演变过 程特征分析[J].气象,2015,41（6）:745－754.[Qian Li,Teng Jie,Hu Jinge.Characteristic analysis of the $\\cdots 2 0 1 4 \\cdot 4 \\cdot 2 3 ^ { \\cdots }$ strong sandstorm'sevolution process in Hexi Corridor[J].Meteorology Monthly,2015,41(6):745-754.]   \n[7]钱莉,杨金虎,杨晓玲,等.河西走廊东部 $\\cdot 2 0 0 8 \\cdot 5 \\cdot 2$ ”强沙尘 暴成因分析[J].高原气象,2010,29（3）：719-725.[Qian Li, Yang Jinhu,Yang Xiaoling,et al. Cause analysis of $\\cdots 2 0 0 8 \\cdot 5 \\cdot 2 ^ { ; }$ ， Strong sandstorm in the eastern of Hexi Corridor[J].Plateau Meteorology,2010,29(3） :719-725.]   \n[8］王汝佛,冯强,尚可政.2010 春季我国一次强沙尘暴过程分析 [J].干旱区地理,2014,37（1）:31-44.[Wang Rufu,Feng Qiang,Shang Kezheng.A severe sand-dust storm over China in the spring of 2010[J].Arid Land Geography,2014,37(1）:31 -44.]   \n〔9]钱莉,姚玉璧,杨鑫,等.河西走廊盛夏一次沙尘暴天气过程成 因[J].中国沙漠,2016,36(2）:458-466.[Qian Li,Yao Yubi, Yang Xin,et al.An analysis of sandstorm weather process in the Hexi Corridor in summer[J].Journal of Desert Research,2016,36 (2) :458 -466.]   \n[10］刘洪兰,张强,张俊国,等.1960—2012 年河西走廊中部沙尘暴 空间分布特征和变化规律[J].中国沙漠,2014,34（4）： 1102-1108.[Liu Honglan,Zhang Qiang,Zhang Junguo,et al. Spatial distribution and variation of sandstorms in the central Hexi Corridor during 196O-2O12[J].Journal of Desert Research, 2014,34(4):1102-1108.]   \n[11］李璠，徐维新，祁栋林，等.1961—2015 年青海沙尘天气时空变 化特征[J].干旱区研究,2018,35（2）：412-417.[LiFan,Xu Weixin,Qi Donglin,et al. Spatiotemporal characteristics of dust weather in Qinghai during the period of 1961-2015[J].Arid Zone Research,2018,35(2):412-417.]   \n[12]高振荣,李红英,瞿汶,等.近55年来河西地区沙尘暴时空演 变特征[J].干旱区资源与环境,2014,28（12)：76-81.[Gao Zhenrong,Li Hongying,Qu Wen,et al.The spatial and temporal distribution features of sand-storms in Hexi Corridor region in recent 55 years[J]. Journal of Arid Land Resources and Environment,2014,28(12) :76-81.]   \n[13］周成龙,杨兴华,钟昕洁,等.塔克拉玛干沙漠腹地沙尘天气特 征[J].干旱区研究,2017,34（2）:324-329.[Zhou Chenglong, Yang Xinghua,Zhong Xinjie,et al.Dust weather in hinterland of the Taklamakan Desert[J].Arid Zone Research,2017,34（2）： 324-329.]   \n[14］魏桂英,陈少勇,张媛文.腾格里沙漠南缘沙尘暴气候变化特 征——以甘肃省景泰县为例[J].干旱区研究,2015,32（6)： 1133-1 139.[Wei Guiying,Chen Shaoyong,Zhang Yuanwen. Sandstorms changing characteristics in the south edge of the TenggerDesert:Jingtai County,Gansu Province as a case study[J].Arid Zone Research,2015,32(6):1133-1139.]   \n[15]彭玉华.小波变换与工程应用[M].北京：科学出版社，1999： 13-21.[Peng Yuhua.Wavelet Transform and Engineering Application[M].Beijing:Science Press,1999:13-21.]   \n[16]王存忠，牛生杰,王兰宁.50 年来中国沙尘暴的多时间尺度变 化特征[J].大气科学学报,2009,32（4）：507－512.[Wang Cunzhong,Niu Shengjie,Wang Lanning.Multi-timescale variation of sand-dust storm in China during 1958-2OO7[J].Transactions ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "of Atmospheric Sciences,2009,32(4）:507-512.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[17]孙然好，刘清丽，陈利顶，等.河西走廊沙尘暴及其影响因子的 多尺度研究[J].中国沙漠,2010,30(3）:648-653.[Sun Ranhao,Liu Qingli,Chen Liding,et al.Multi-scales variation of sanddust storms in Gansu Corridor[J].Journal of Desert Research, 2010,30(3) :648 -653.]   \n[18］朱晓炜,李栋梁,李耀辉.民勤地区年沙尘暴发生频次研究[J]. 干旱气象,2010,28(4）:401-406.[Zhu Xiaowei,Li Dongliang,Li Yaohui.Frequency analysis of sandstorm outbreak in Minqin area [J].Journal of Arid Meteorology,2010,28(4）:401-406.]   \n[19]Torrence C,Compo G P.A practical guide to wavelet analysis[J]. Bulletin of the American Meteorological Society,1998,79（79）： 61-78.   \n[20]Grinsted A,Moore JC,Jevrejeva S.Application of the cross wavelet transform and wavelet coherence to geophysical time series[J]. Nonlinear Processes in Geophysics,2004,11(5-6）:561-566.   \n[21]飞思科技产品研发中心.小波分析理论与MATLAB7实现 [M].北京：电子工业出版社,2005.［FECITTechnologicalProduct Research Center.Wavelet Analysis Theory and MATLAB7 Implementation[M].Beijing:Publishing House of Electronics Industry,2005.]   \n[22]林振山.子波气候诊断技术的研究[M].北京：气象出版社， 1999.［Lin Zhenshan.Research on Wavelet Climate Diagnosis Technology[M].Beijing:China Meteorological Press,1999.]   \n[23]隆霄，赵建华，黄建平. $^ {  } 0 7 \\cdot 3 ^ { \\prime }$ '强沙尘暴天气过程的观测分析 [J].兰州大学学报（自然科学版）,2012,48（1)：69－74. [Long Xiao,Zhao Jianhua,Huang Jianping.Observation and analysis of $\\cdot _ { 0 7 } \\cdot _ { 3 } \\cdot \\$ severe sandstorm[J]. Journal of Lanzhou University（Natural Sciences）,2012,48(1) :69-74.]   \n[24]吴美仲,侯志明，周毅.动力气象学[M].北京：气象出版社， 1990.［Wu Meizhong,Hou Zhiming,Zhou Yi.Dynamic Meteorology［M].Beijing:China Meteorological Press,1999.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Multiscale Meteorological Characteristics during a Sandstorm in Minqin ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "WEI Qian¹， LONG Xiao'， TIAN Chang'， ZHAO Jian-hua² (1.College of Atmospheric Sciences,Lanzhou University,Lanzhou 73ooOo,Gansu,China; 2.Institute of Arid Meteorology,China Meteorological Administration,Lanzhou 73oo2O,Gansu,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The multiscale meteorological characteristics during a strong sandstorm in Minqin on 27 March,2007 were analyzed using the data from Minqin Meteorological Station. The results were as follows : $\\textcircled{1}$ It was obvious that the development of meteorological elements was characterized bythe multiscale variations in surface layer during he strong sandstorm.Specificaly,there were two main periods of wind speed near the surface,and they were for 2.5 hours and 1 hour respectively,which was the same as the disturbed temperature at $2 0 \\mathrm { ~ m ~ }$ height.Different from wind speed and disturbed temperature ,the period of $\\mathrm { P M } _ { 1 0 }$ concentration was for 1.5 hours,and there was a period of relative humidity longer than 3.5 hours; $\\textcircled{2}$ Wind speed signal on a scale about 1 hour occurred 3 hours earlier than that on a scale about 2.5 hours,which revealed that an adverse scale developmentof wind speed was apparent during the sandstorm. Compared with the signals of wind speed and $\\mathrm { P M } _ { 1 0 }$ concentration,the perturbed temperature signal on a scale about 1 hour emerged earlier and its intensity reduced when the sandstorm occurred; $\\textcircled{3}$ It was found that the wind speed signal varied synchronously with the change of $\\mathrm { P M } _ { 1 0 }$ concentration signal during the sandstorm, however,its variation over the time was notsynchronous withthe disturbed temperature signal,which probably meant that the development of gravitational wave played a critical role in sand raising. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words : sandstorm；wavelet analysis；time series；time scale；Minqin ",
+        "page_idx": 10
+    }
+]

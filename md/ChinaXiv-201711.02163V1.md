@@ -1,0 +1,153 @@
+DOI:10.13930/j.cnki.cjea.170145
+
+彭玲，朱占玲，陈倩，季萌萌，陈汝，葛顺峰，姜远茂．供磷水平对平邑甜茶幼苗 $\mathrm { N O } _ { 3 } ^ { - }$ 吸收、利用特性的影响[J]．中国生态农业学报,2017,25(8):1147-1153Peng L,Zhu ZL,Chen Q, Ji MM, Chen R,Ge SF,Jiang YM.Characteristics of $\mathrm { N O } _ { 3 } ^ { - }$ absorption and utilization in Malushupehensis Rehd.seedlingsunderdifferent phosphorus levels[J].Chinese JournalofEco-Agriculture,2017,25(8):11471153
+
+# 供磷水平对平邑甜茶幼苗 $\mathbf { N O } _ { 3 } ^ { - }$ 吸收、利用特性的影响
+
+彭玲}，朱占玲}，陈倩¹，季萌萌¹，陈汝²，葛顺峰l\*\*，姜远茂1\*\*(1．山东农业大学园艺科学与工程学院泰安271018;2.山东省果树研究所泰安271000)
+
+摘要：运用 $^ { 1 5 } \mathrm { N }$ 示踪及非损伤微测技术，研究了不同供磷水平 $\mathrm { ( 0 ~ m m o l { \cdot } L ^ { - 1 } }$ 、 $1 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 、 $2 . 0 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、$3 . 0 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $4 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 、 $6 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 、 $8 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 、 $1 2 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 和 $1 6 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } H _ { 2 } P O _ { 4 } ^ { - } } )$ 对平邑甜茶幼苗 $N O _ { 3 } ^ { - } { - } \mathbf { N }$ 吸收及利用特性的影响，为提高果园氮肥利用效率提供理论依据。结果表明，在低磷水平（204 $( 0 { \sim } 1 . 0 \ \mathrm { m m o l { \cdot } L } ^ { - 1 } \$ 时，平邑甜茶根系长度、根系总表面积较小，且根尖数较少。随着供磷水平的增加，在 $2 . 0 { \sim } 4 . 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 磷浓度处理时，平邑甜茶幼苗生物量、根系长度、根系总表面积及根尖数显著高于其他处理。而在 $6 . 0 { \sim } 1 6 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 时，过量供磷抑制了根系的生长，使平邑甜茶幼苗根系长度、表面积均大幅降低，根尖数量骤降。非损伤扫描离子选择电极测试表明，当生长介质磷浓度在 $3 . 0 { \sim } 6 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 时，平邑甜茶对 $\mathrm { N O } _ { 3 } ^ { - }$ 有吸收作用，并在 $3 . 0 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 磷浓度时其吸收速率最高。而在 $0 { \sim } 2 ~ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 及 $8 . 0 { \sim } 1 6 . 0 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 磷浓度处理下，平邑甜茶对 $\mathrm { N O } _ { 3 } ^ { - }$ 有外排作用。随供磷水平的增加，各器官从肥料中吸收分配到的 $^ { 1 5 } \mathrm { N }$ 量对该器官全氮量的贡献率(Ndff)及植株氮素利用率呈现先升高后降低的趋势， $4 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度时植株氮素利用率最大，为 $4 2 . 2 4 \%$ ，超过 $4 . 0 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 植株氮素利用率显著降低。适当充足的供磷刺激了幼苗根系生长，从而促进平邑甜茶对氮素的获取，过量的 ${ \mathrm { N O } } _ { 3 } { } ^ { - }$ 抑制了平邑甜茶根系的生长，同时叶片硝酸还原酶的活性受到抑制，因此其氮素吸收和利用效率较低。因此，磷浓度在 $3 . 0 { \sim } 4 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 时最有利于平邑甜茶幼苗的生长及氮素的吸收利用。
+
+关键词：苹果砧木；平邑甜茶；供磷水平； $\mathrm { N O } _ { 3 } ^ { - }$ 吸收；氮素利用效率中图分类号：S661.1 文献标识码：A 文章编号:1671-3990(2017)08-1147-07
+
+# Characteristics of $\mathbf { N O } _ { 3 } ^ { - }$ absorption and utilization in Malus hupehensis Rehd. seedlings under different phosphorus levels
+
+PENG Ling', ZHU Zhanling', CHEN Qian’, JI Mengmeng',CHEN $\mathrm { { R u } } ^ { 2 }$ ,GE Shunfeng1\*\*, JIANG Yuanmaol\*\* (1. College of Horticulture Science and Engineering,Shandong Agricultural University,Tai'an 271018,China; 2. Shandong Institute of Pomology,Tai'an 2710o0, China)
+
+Abstract:Inrecetyears,xceiveplicationoftrogenndphosphatefertilzersasnotonywastedfertilzer,butalsroghta ighpotentialrskofnvironmentalpolution.Inaddition,anureasonablefertlationovertelong-tehasdamagdthepsical
+
+andchemicalpropertisofilcdingsolprositydutrntsntets.erefore,itisucialforstaiablefruittduc tiontopromoteientificutilizationofutrnt,increasefertilizerutilzationrate,duceeuviation,volatlationandlof gen.In order to determine the key factors influencing nitrogen utilization ratio under diferent phosphorus levels, $^ { 1 5 } \mathrm { N }$ -labeled tracer and non-invasive micro-test techniques were used to investigate $\mathrm { N O } _ { 3 } ^ { - }$ absorption and utilization in Malus hupehensis Rehd. seedlings under different phosphorus levels $( 0 \ \mathrm { \ m m o l {cdot } L ^ { - 1 } }$ ， $1 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ ， $2 . 0 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ ， $3 . 0 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ ， $4 . 0 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ ， $6 . 0 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ ，8.0 $\mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ， $1 2 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ ， $1 6 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } \ H _ { 2 } P O _ { 4 } ^ { - } } )$ . The study aimed to increase nitrogen fertilizer utilization and reduce nitrogen fertilizerloss,hichcouldprovidethoretialbasisforcientificandeficientutilzationofphosphatefertilizerinappleorhardhe results showedthatrootlength,root surface areaandrottipquantitywerelower inseedlingsunderphosphorus deficiency $( 0 - 1 . 0$ （204号 $\mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ ).With the addition of $2 . 0 { - } 4 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ of phosphorus, the biomass of single plant, root length, root surface area and root tipquantityincreasedover seedlings underother reatments.Alsoroot growth wasrestrained inseedlings under excessphosphorus （20 $( 6 . 0 { - } 1 6 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } } )$ ).The absorption of $\mathrm { N O } _ { 3 } ^ { - }$ in $M _ { ☉ }$ hupehensis seedlings was significantly different under different phosphorus levels. The non-invasive micro-test technique showed significant absorption of $\mathrm { N O } _ { 3 } ^ { - }$ by $M$ ，hupehensis seedlings under $3 . 0 { - } 6 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ phosphorus with the highest rate of absorption under $3 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ treatment. While $0 { - } 2 ~ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ and $8 . 0 { - } 1 6 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ phosphorus applications showed efflux effect of $\mathrm { N O } _ { 3 } ^ { - }$ by $M .$ hupehensis seedlings.With the addition of phosphorus,Ndff (percent of nitrogen derivedfromfertilizer)andnitrogenutilizationeficiencyinitiallincreasedandthendecreased.Thehighestnitrogenuseefcncy $( 4 2 . 2 4 \% )$ ）was observed under the phosphorus treatment of $4 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ . Then there was a significant reduction under phosphorus application in excess of $4 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ treatments.Leaf nitrate reductase activity was very low under phosphorus deficiency, but it had significantly higher levels under $1 . 0 { - } 3 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ phosphorus application. There was a marked decrease in leaf nitrate reductase activity when the phosphorus concentration exceeded $4 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ .In conclusion,phosphorus level had significant effect on $\mathrm { N O } _ { 3 } ^ { - }$ absorption and utilization by $M .$ hupehensis seedlings. Root growth and nitrogen absorption increased with appropriate phosphorus application.Withphosphorusoverdose,root growthandnitratereductaseactivitydecreasedsignificantlyThisresultedinadecrease in the absorption and utilization of nitrogen. The analysis showed that $3 . 0 { - } 4 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ of phosphorus was beneficial to the efficient growth of M. hupehensis seedlings, nitrogen absorption and utilization.
+
+Keywords: Apple rootstock; Malus hupehensis Rehd.; Phosphorus level; $\mathrm { N O } _ { 3 } ^ { - }$ absorption; Nitrogen utilization efficiency
+
+近年来，随着农民肥料投入量的迅速增加，在促进土壤有机质增长和土壤肥力提高的同时，过量施肥造成的地下水硝酸盐超标和湖泊水体富营养化问题日趋严重[1]。氮、磷肥的过量施用，不仅给环境造成威胁，也大大影响了土壤质量，导致土壤矿质养分失调，加速了土壤有机质的分解，造成土壤板结和地力下降等严重问题[2]。因此，如何科学、合理地利用养分，提高肥料的吸收和利用效率，是现代果树产业可持续发展的关键所在。磷能够促进根系对氮素的吸收。丁宁等[3]研究表明，适当施用磷肥可促进作物对土壤中氮素的吸收，而低磷胁迫显著降低了作物对于氮素的吸收和积累[4]。袁新民等[5]研究表明，施用磷肥后，刺激了小麦(TriticumaestivumL.)根系的发育，进而促进氮素的吸收；另一方面，施磷的增产作用提高了作物对氮素的需求，使作物吸氮量增加，最终降低了土壤中硝酸盐的累积。Graciano等[研究表明，施磷能够促进巨桉(EucalyptusgrandisHill exMaiden)树体的干物质积累及其对氮、硫的吸收，且施磷处理后树体吸氮能力增强，器官含氮量较施氮处理明显增多。磷在植物氮代谢过程中发挥着重要作用，研究表明，硝酸还原酶发挥作用需要NADP+/NADPH作为其电子受体，催化 ${ \bf N O } _ { 3 } ^ { - }$ 还原为 $\mathsf { N O } _ { 2 } ^ { - [ 7 - 8 ] }$ ，此过程是 $\mathrm { N O } _ { 3 } ^ { - }$ 还原的限速步骤。
+
+非损伤微测技术(non-invasive micro-test tech-nique，NMT)作为一种新型的电生理技术，能够在真实生理环境状态下，测定各种进出样品的分子和离子浓度、流速和三维运动方向的信息，已广泛应用于植物生理和发育的各项研究[9-10]。骆翔等[1]利用NMT技术研究了怪柳(TamarixchinensisL.)根不同区域的氮素吸收特性发现，柽柳的根尖、分生区、伸长区等部位对 $\mathrm { N O } _ { 3 } ^ { - }$ 离子有明显的内流趋势，而对$\mathrm { N H } _ { 4 } ^ { + }$ 表现出外排趋势。
+
+目前有关供磷水平对植物氮素吸收、利用影响的研究主要集中于对氮素吸收以及其向各器官的分配[4,12-13]，主要侧重于对结果的阐述，在植物氮素吸收对不同供磷水平响应机理的研究甚少，且在苹果(MaluspumilaMill.)砧木上的研究尚鲜见报道。平邑甜茶(MalushupehensisRehd.)是中国特有的植物资源，具有无融合生殖性，苗木生长整齐一致，养分吸收效率高、抗性好、适应性强等特性，在渤海湾苹果产区广泛用作苹果砧木。本试验借助非损伤扫描离子选择电极，研究了不同供磷水平对平邑甜茶幼苗 ${ \tt N O } _ { 3 } ^ { - } { \tt N }$ 吸收和利用特性的影响，以期挖掘不同供磷水平对氮素吸收、利用的影响机制，从而提高苹果氮肥利用率，并为果园生产中磷肥的合理施用提供理论依据。
+
+# 1材料和方法
+
+# 1.1 试验材料与设计
+
+试验于2014年3—8月在山东农业大学园艺试验站及国家苹果工程技术研究中心实验室进行。以一年生平邑甜茶幼苗为试材，于3月上旬将层积好的种子播于穴盘中，正常温度湿度管理，至幼苗长出4\~5片真叶时，移栽至装满石英砂的盆中，石英砂用前洗净晾干，移栽后缓苗1周，期间浇灌去离子水，缓苗后先用 1/2 浓度 Hoagland营养液浇灌2次(每3d1次)，之后用 Hoagland完全营养液浇灌，每3d1次，每天适量浇水，待幼苗长至10片真叶左右时，选取生长一致幼苗进行不同磷浓度处理。
+
+试验设 $0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } \cdot 1 . 0 \ m m o l { \cdot } L ^ { - 1 } \cdot 2 . 0 \ m m o l { \cdot } L ^ { - 1 } . }$ $3 . 0 ~ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 、 $4 . 0 ~ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 、 $6 . 0 ~ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 、8.0$\mathrm { m m o l { \cdot } L ^ { - 1 } } , 1 2 . 0 \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 和 $1 6 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } } 9$ 个 $\mathrm { H } _ { 2 } \mathrm { P O } _ { 4 } ^ { - }$ 浓度，每个处理重复15盆，每盆4株。其他大量元素 $[ \mathrm { C a } ( \mathrm { N O } _ { 3 } ) _ { 2 } 5 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ！ $\mathrm { K N O _ { 3 } } 5 \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 、KC15$\mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $\mathrm { M g S O _ { 4 } } 2 . 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、EDTA-Fe 0.2$\mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 } ]$ 以及微量元素 $\mathrm { ( M n S O _ { 4 } ) }$ 、 $\mathrm { C u S O _ { 4 } }$ 、 $\mathrm { Z n S O _ { 4 } }$ /$\mathrm { H } _ { 3 } \mathrm { B O } _ { 3 }$ ！ $\mathrm { H } _ { 2 } \mathrm { M o O } _ { 4 } \mathrm { . }$ )浓度与正常Hoagland营养液相同。待长至7\~8片真叶时(约 90 d后)，每次浇灌营养液时另外加入 $0 . 1 ~ \mathrm { ~ g ~ } \mathrm { C a } ( ^ { 1 5 } \mathrm { N O } _ { 3 } ) _ { 2 }$ 共施入 $\mathrm { ~ 1 ~ g ~ }$ ，分10次)用于 $^ { 1 5 } \mathrm { N }$ 标记。处理 $1 0 2 \mathrm { ~ d ~ }$ 后于8月15日幼苗新梢缓慢生长期进行取样测定。
+
+# 1.2 测定项目与方法
+
+# 1.2.1 植株对 $\mathbf { N O } _ { 3 } ^ { - }$ 吸收速率的测定
+
+于8月15日从每个处理的15个重复中随机选取幼苗6株，利用非损伤扫描离子选择电极测定$\mathrm { N O } _ { 3 } ^ { - }$ 离子的吸收/外排速率。首先，向微电极前端注入约 $1 0 \mathrm { m m }$ 的电解液，并在微电极的尖端 $1 5 { \sim } 2 0 ~ \mu \mathrm { m }$ 处灌注 ${ \bf N O } _ { 3 } ^ { - }$ 选择性离子交换剂；然后，将经选择性离子电极制备装置制好的电极通过 $\mathrm { \ A g / A g C l }$ 电极固定架把电极电解液与前置放大器连接。设置参比电极为固体电极，测定前要对已经制好的电极进行校正，获得电极的能斯特斜率和截距，若校正斜率(Nernst slope)在 $2 9 { \pm } 3$ 范围内则为合格电极。测定$\mathrm { N O } _ { 3 } ^ { - }$ 离子的校正液含有 $\mathrm { N O } _ { 3 } ^ { - }$ 浓度分别为0.05$\mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $0 . 5 \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 和 $0 . 1 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ ，测试液成分为 $0 . 1 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } \ K N O } _ { 3 } ,$ $0 . 1 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ （204号 $\mathrm { C a C l } _ { 2 }$ 和0.3$\mathrm { \ m m o l { \cdot } L ^ { - 1 } \ M E S \ ( p H { 6 } . 0 ) _ { \circ } }$ 选择不同磷浓度处理平邑甜茶幼苗，在距侧根根尖 $2 ~ \mathrm { m m }$ 左右区域进行测定，电极距离待测点外表面约 $3 { \sim } 5 ~ \mu \mathrm { m }$ ，并以此为起点在垂直于根表面方向做往复测量运动，电极每运动一次的间距为 $3 0 ~ \mu \mathrm { m } _ { \circ }$ 利用校正得到的 Nernst slope 将电极在两点之间测量的电压差换算成两点之间的浓度差；采用Mageflux软件完成流速的换算。
+
+# 1.2.2 叶片酶活性及根系形态指标的测定
+
+处理结束后对不同处理幼苗各选取长势均一的植株6株，参照李合生[14]的方法测定新完全展开幼叶的硝酸还原酶(NR)活性。根系经清水冲洗后用透射扫描仪(ESPONPerfectionV750)对根系样品进行扫描，获取平邑甜茶整株根系图像，再利用WinRHIZO(Regent Instruments Inu.，加拿大)根系分析软件进行根系长度、根系总表面积和根尖数分析。
+
+# 1.2.3 植株干重及氮含量的测定
+
+处理结束后将植株分成根、茎、叶， $1 0 5 \ \mathrm { ^ \circ C }$ 杀青$3 0 ~ \mathrm { m i n }$ ， $8 0 ~ \mathrm { ^ { \circ } C }$ 烘干至恒重，称量各器官的干物质量。随后用不锈钢电磨粉碎，过 $0 . 2 5 \mathrm { \ m m }$ 筛后测定各器官 $^ { 1 5 } \mathrm { N }$ 丰度和器官全氮量。全氮用凯氏定氮法测定，$^ { 1 5 } \mathrm { N }$ 丰度在中国农业科学院原子能利用研究所用MAT-251质谱仪测定。
+
+Ndff=(植物样品中 $^ { 1 5 } \mathrm { N }$ 丰度 $\% -$ 自然丰度 $\%$ 肥料中 $^ { 1 5 } \mathrm { N }$ 丰度 $\text{‰}$ 自然丰度% $) \times 1 0 0 \%$ (1)
+
+氮肥利用率 ${ \bf \Phi } = [ { \bf N } { \bf d } { \bf f } { \bf f } \times { \bf \Phi }$ 器官全氮量 $\mathbf { \eta } ( \mathbf { g } ) ] /$ 施肥量$( \mathrm { g } ) { \times } 1 0 0 \%$ (2)
+
+# 1.3 数据处理
+
+用MicrosoftExcel2007进行数据处理，用DPS数据处理系统单因素试验统计分析方法进行显著性和相关性分析，多重比较采用LSD法，应用MicrosofExcel 2003 和 Graphpad Prism5 绘制图标。
+
+# 2 结果与分析
+
+# 2.1不同供磷水平下平邑甜茶生物量
+
+由表1可知，不同供磷处理，平邑甜茶各器官生物量均呈现出叶 $\mathrm { > }$ 根 $>$ 茎的趋势， $0 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理的平邑甜茶生物量最低，其单株根、茎、叶生物量分别为 $0 . 1 7 \mathrm { ~ g } . \ 0 . 1 2 \mathrm { ~ g }$ 和 $0 . 2 8 \mathrm { ~ g ~ }$ ；平邑甜茶根、茎、叶生物量以及总生物量均随着磷浓度增加显著增大，至 $3 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 处理时最大，单株根、茎、叶生物量分别为 $0 . 9 3 \mathrm { ~ g } . 0 . 6 0 \mathrm { ~ g }$ 和 $ { 1 . 4 7 ~ \mathrm { g } }$ ，之后随着磷浓度的增加，呈现出缓慢下降的趋势，在6\~12mmol $\mathrm { L } ^ { - 1 }$ 磷浓度处理下，其生物量基本维持稳定。
+
+表1不同供磷水平下平邑甜茶的单株生物量Table 1Biomass per plant of Malus hupehensis Rehd.seedlings on different phosphorus levels  
+
+<html><body><table><tr><td>供磷水平 [mo1Ch2POD-Le11</td><td>根生物量 Biomass of root (g)</td><td>茎生物量 Biomass of stem (g)</td><td>叶生物量 Biomass of leaf (g)</td><td>总生物量 Total biomass (g)</td></tr><tr><td>0</td><td>0.17±0.02g</td><td>0.12±0.03f</td><td>0.28±0.02h</td><td>0.57±0.03g</td></tr><tr><td>1</td><td>0.64±0.01de</td><td>0.32±0.02d</td><td>0.71±0.02g</td><td>1.66±0.02f</td></tr><tr><td>2</td><td>0.90±0.03ab</td><td>0.55±0.04b</td><td>1.17±0.02c</td><td>2.63±0.06b</td></tr><tr><td>3</td><td>0.93±0.04a</td><td>0.60±0.03a</td><td>1.47±0.01a</td><td>3.00±0.02a</td></tr><tr><td>4</td><td>0.88±0.01b</td><td>0.52±0.02b</td><td>1.28±0.02b</td><td>2.68±0.01b</td></tr><tr><td>6</td><td>0.66±0.02d</td><td>0.34±0.01d</td><td>0.85±0.03ef</td><td>1.86±0.04d</td></tr><tr><td>8</td><td>0.74±0.04c</td><td>0.42±0.02c</td><td>0.99±0.03d</td><td>2.15±0.04c</td></tr><tr><td>12</td><td>0.56±0.03f</td><td>0.25±0.01e</td><td>0.83±0.05f</td><td>1.64±0.08f</td></tr><tr><td>16</td><td>0.59±0.03ef</td><td>0.26±0.02e</td><td>0.89±0.03e</td><td>1.74±0.05e</td></tr></table></body></html>
+
+同列数据后不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。Values followed by different lowercase lettrs in the same column are significantly different at 0.05 level.
+
+# 2.2不同供磷水平下平邑甜茶根系形态指标
+
+由表2可知，平邑甜茶幼苗根系总长度、根系总表面积及根尖数受供磷水平的影响较为显著，其中在低磷水平 $\mathrm { ( 0 { \sim } 1 \ m m o l { \cdot } L ^ { - 1 } }$ 时，其根系长度、根系总表面积较小，且根尖数较少; $2 { \sim } 4 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理时，平邑甜茶根系生长迅速，其根系长度、表面积及根尖数均有显著增加，且达到最高水平；随后，在 $6 { \sim } 1 6 ~ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理下，过量供磷抑制了根系的生长，使平邑甜茶幼苗根系长度、表面积均有大幅降低，根尖数量骤降。
+
+表2不同供磷水平下单株平邑甜茶的根系形态指标Table 2Root architecture parameters of Malus hupehensis Rehd.seedlings on different phosphorus level:  
+
+<html><body><table><tr><td>供磷水平 Phosphorus level [mmol(H2PO4)·L-1]</td><td>根系长度 Root length (cm)</td><td>根系总表面积 Root surface area (cm2)</td><td>根尖数 Quantity of tips</td></tr><tr><td>0</td><td>368.63±8.74d</td><td>63.73±2.67g</td><td>2 390.33±144.46e</td></tr><tr><td>1</td><td>512.41±9.31c</td><td>64.10±2.47g</td><td>3 073.67±291.75e</td></tr><tr><td>2</td><td>1 074.41±130.92a</td><td>182.83±7.51a</td><td>7 243.33±472.23ab</td></tr><tr><td>3</td><td>998.68±18.10a</td><td>154.25±4.48c</td><td>7 879.33±759.36a</td></tr><tr><td>4</td><td>1 061.85±37.89a</td><td>173.13±3.80b</td><td>6 920.67±890.22abc</td></tr><tr><td>6</td><td>776.17±14.36b</td><td>120.70±1.42ef</td><td>4 798.33±504.80d</td></tr><tr><td>8</td><td>849.25±26.49b</td><td>131.40±4.21d</td><td>6 116.00±202.72c</td></tr><tr><td>12</td><td>807.01±5.47b</td><td>125.34±3.27de</td><td>6 319.67±592.11bc</td></tr><tr><td>16</td><td>838.48±6.93b</td><td>115.67±7.17f</td><td>4 305.33±685.83d</td></tr></table></body></html>
+
+同列数据后不同字母表示差异显著 $_ { ( P < 0 . 0 5 ) }$ 。Values followed by different lowercase letters in the same column are significantly different at 0.05 level.
+
+# 2.3 不同供磷水平下平邑甜茶 $\mathbf { N O } _ { 3 } ^ { - }$ 的吸收速率
+
+不同磷水平下平邑甜茶幼苗根系对 $\mathrm { N O } _ { 3 } \mathrm { \dot { } }$ 的吸收能力差异显著(图1)。非损伤扫描离子选择电极测试表明，在 $3 { \sim } 6 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度下，平邑甜茶对 $\mathrm { N O } _ { 3 } ^ { - }$ 有吸收作用，在 $3 \ \mathrm { m m o l { \cdot } L } ^ { - 1 }$ 磷浓度处理时有强烈吸收,此时吸收平均速率约为 $3 9 . 6 6 \ \mathrm { \ p m o l { \cdot } c m ^ { - 2 } { \cdot } s ^ { - 1 } }$ 。0\~2$\mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 及 $8 { \sim } 1 6 ~ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 磷浓度下，平邑甜茶幼苗对 $\mathrm { N O } _ { 3 } ^ { - }$ 有外排作用，在 $1 6 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理时有明显外排趋势，吸收速率为-91.01pmol $\mathrm { c m } ^ { - 2 } { \cdot } \mathrm { s } ^ { - 1 }$ 。
+
+# 2.4不同供磷水平下平邑甜茶叶片硝酸还原酶(NR)活性
+
+由表3可知, $0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 磷浓度处理时叶片硝酸还原酶(NR)活性较低； $1 { \sim } 3 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理时，叶片NR活性明显升高，均维持在 $3 0 \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 } \cdot \mathrm { h } ^ { - 1 }$ 以上，此时由根部运送来的 ${ \bf N O } _ { 3 } ^ { - }$ 能够在硝酸还原酶的作用下迅速还原成 $\mathrm { N O } _ { 2 } ^ { - }$ ，进而参与叶片的氮代谢过程;而 $4 { \sim } 1 6 ~ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理时，硝酸还原酶活性较低，氮代谢水平较弱，平邑甜茶幼苗对氮素的利用水平较低。
+
+![](images/5f87ff6d3420631bf6c83ae6198d99d69d9c3dcac77ff6e429e8dd12d25760da.jpg)  
+图1不同供磷水平下平邑甜茶幼苗根系 $\mathbf { N O } _ { 3 } ^ { - }$ 的吸收速率
+
+Fig.1Root ${ \bf N O } _ { 3 } ^ { - }$ absorption rate ofMalus hupehensis Rehd. seedlings on different phosphorus levels 正值表示 $\mathrm { N O } _ { 3 } ^ { - }$ 外排，负值表示 $\mathrm { N O } _ { 3 } ^ { - }$ 吸收。Positive values in  
+dicate ${ \bf N O } _ { 3 } ^ { - }$ efflux,negative values indicate ${ \bf N O } _ { 3 } ^ { - }$ absorption.
+
+# 2.5不同供磷水平对平邑甜茶 $\mathbf { N O } _ { 3 } ^ { - }$ 吸收、利用的影响
+
+# 2.5.1 各器官的Ndff值
+
+如表4所示， $0 { \sim } 1 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理时，平邑甜茶各器官 Ndff(percent of nitrogen derived from fertilizer.即植株器官从肥料 $^ { 1 5 } \mathrm { N }$ 中吸收分配到的 $^ { 1 5 } \mathrm { N }$ 量对该器官全N量的贡献率)[15]均处于较低水平，且茎 $\vdots >$ 根 ${ \tt > } \tt { H } \dagger$ 根系长势较弱，吸收能力有限，多余的氮素向地上部转运，使茎Ndff高于根Ndff。在 $2 { \sim } 4 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理时，平邑甜茶各器官Ndff较之前明显增加，且根 $\cdot >$ 茎 $; >$ 叶，根部吸氮能力明显增强，同时根部为了维持其较大的生长量，需要更多的氮素供应，因此向地上部转移的氮素相对较少。在 $6 { \sim } 1 6 ~ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理时，随着供磷水平的继续增加，平邑甜茶各器官Ndff值并未持续增加，而是呈缓慢下降趋势，此时供磷对根部生长的促进作用逐渐不明显，根系的生长受到抑制，因而使根系对氮素的吸收能力减弱。
+
+<html><body><table><tr><td>供磷水平 Phosphorus level [mmol(H2PO4) L]</td><td>硝酸还原酶活性 Nitrate reductase activity (ug:g-1-h−1)</td><td>供磷水平 Phosphorus level [mmol(H2PO4)·L]</td><td>硝酸还原酶活性 Nitrate reductase activity (μg:g-1·h-1)</td></tr><tr><td>0</td><td>13.98±0.92c</td><td>6</td><td>7.83±0.91d</td></tr><tr><td>1</td><td>34.06±1.33a</td><td>8</td><td>16.87±0.43b</td></tr><tr><td>2</td><td>34.76±0.95a</td><td>12</td><td>18.48±0.73b</td></tr><tr><td>3</td><td>35.46±0.82a</td><td>16</td><td>11.97±3.05c</td></tr><tr><td>4</td><td>16.38±0.54b</td><td></td><td></td></tr></table></body></html>
+
+同列数据后不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。Values followed by different lowercase leters in the same column are significantly different at 0.05 level.
+
+表3不同供磷水平下平邑甜茶叶片硝酸还原酶(NR)活性 Table3Nitrate reductase activities in leaves of Malus hupehensis Rehd.seedlings on different phosphorus levels   
+表4不同供磷水平下平邑甜茶的各器官 Ndff 值Table 4 Ndff values ofMalus hupehensis Rehd.seedlings ondifferent phosphorus levels  
+
+<html><body><table><tr><td rowspan="2">供磷水平 Phosphorus level [mmol(H2PO4)·L-1]</td><td colspan="3">Ndff (%)</td></tr><tr><td>根Root</td><td>茎 Stem</td><td>叶Leaf</td></tr><tr><td>0</td><td>3.39±0.04i</td><td>4.09±0.07g</td><td>3.37±0.05g</td></tr><tr><td>1</td><td>4.99±0.08f</td><td>5.17±0.01d</td><td>4.92±0.02a</td></tr><tr><td>2</td><td>6.54±0.07b</td><td>6.24±0.02a</td><td>4.57±0.03c</td></tr><tr><td>3</td><td>6.92±0.01a</td><td>6.30±0.02a</td><td>4.68±0.06b</td></tr><tr><td>4</td><td>5.95±0.01c</td><td>5.88±0.02b</td><td>4.99±0.08a</td></tr><tr><td>6</td><td>4.56±0.02h</td><td>4.71±0.03f</td><td>4.21±0.04d</td></tr><tr><td>8</td><td>5.55±0.04d</td><td>5.35±0.09c</td><td>3.77±0.07f</td></tr><tr><td>12</td><td>5.25±0.07e</td><td>5.24±0.03d</td><td>4.04±0.01e</td></tr><tr><td>16</td><td>4.70±0.02g</td><td>4.82±0.05e</td><td>3.81±0.00f</td></tr></table></body></html>
+
+Ndff:来自肥料的氮的百分比。同列数据后不同字母表示差异显 著 $( P { < } 0 . 0 5 )$ 。Ndff:percent of nitrogen derived from fertilizer.Values followed by different lowercase letters in the same column are significantlydifferentat O.05level.
+
+# 2.5.2 氮素利用率
+
+由图2可知， $0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理时，平邑甜茶幼苗的氮素利用率极低，仅为 $7 . 2 2 \%$ ；随着供磷水平的增加，平邑甜茶幼苗的氮素利用率显著增加，$3 { \sim } 4 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理时其氮素利用率显著高于其他处理；但持续过量供磷反而使平邑甜茶幼苗的氮素利用率骤然降低，在 $6 { \sim } 1 6 ~ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 磷浓度处理时，其氮素利用率基本维持在 $20 \% { \sim } 3 0 \%$ 的水平。
+
+# 3 结论和讨论
+
+根尖是整个根部氮素吸收和分泌最活跃的部位距离根尖越远的部位，根组织的年龄越大，老的组织会产生一个纤维层，阻碍氮素的吸收[6]。另外，根尖成熟区生有大量根毛，大大增加了根系的吸收表面积，在氮素吸收中发挥着重要作用[16]。本试验中,低磷水平下平邑甜茶幼苗根系生物量较小，根系表面积和根长较小，根尖数较少，故其对氮素的吸收能力相对较低。相关性分析表明，平邑甜茶幼苗根系对氮肥的征调能力(Ndff)与根系表面积、根系长度和根尖数呈显著正相关 $( R ^ { 2 } { = } 0 . 8 6 ^ { * * }$ ， $\scriptstyle R ^ { 2 } = 0 . 8 2 ^ { * * }$ ${ R ^ { 2 } } { = } 0 . 9 1 ^ { * * }$ )；随供磷水平的增加，充足的养分能够满足根系生长的需要，其根系生长迅速，根系长度、表面积及根尖数量均有显著增加，同时植株各器官Ndff值也显著增大，因而植株吸氮水平随之提高。
+
+![](images/bc7a23a8c9d2d20aee2510e2092b6f991e3ae2bcb98915db2ef03e97927dae16.jpg)  
+图2不同供磷水平下平邑甜茶幼苗对 $\mathbf { N O } _ { 3 } ^ { - }$ 的利用效率Fig. 2 $\mathrm { N O } _ { 3 } ^ { - }$ utilization rate of Malus hupehensis Rehd. seed-lings on different phosphorus levels
+
+$\mathrm { N O } _ { 3 } ^ { - }$ 离子的流速可以直观地反映植物氮素的吸收状况。本研究运用非损伤微测技术，活体测定了不同供磷水平下平邑甜茶根系对 ${ \bf N O } _ { 3 } ^ { - }$ 的吸收速率，其结果也表明，低磷水平下 ${ \bf N O } _ { 3 } ^ { - }$ 呈现强烈的外排趋势，当 ${ \mathrm { H } } _ { 2 } { \mathrm { P O } } _ { 4 } ^ { - }$ 浓度增加到 $3 . 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 时，幼苗根系对 $\mathrm { N O } _ { 3 } ^ { - }$ 有强烈吸收，故其对氮素的征调能力较强;而当 ${ \mathrm { H } } _ { 2 } { \mathrm { P O } } _ { 4 } ^ { - }$ 浓度为 $8 . 0 { \sim } 1 6 . 0 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 时，高磷处理的平邑甜茶幼苗根部细胞内 $\mathrm { N O } _ { 3 } ^ { - }$ 浓度高于测试液中$\mathrm { N O } _ { 3 } ^ { - }$ 的浓度，加之过量供磷时，随着植株体内氮素的积累，叶片 ${ \bf N O } _ { 3 } ^ { - }$ 含量过高，其可以调节地上部和地下部之间的物质分配[17-19]，从而抑制平邑甜茶根系的生长，使其根尖数量骤降，根系对氮素的吸收能力也随之减弱，因而平邑甜茶幼苗对氮肥的征调能力显著降低，根系对 ${ \bf N O } _ { 3 } ^ { - }$ 表现出强烈的外排趋势。说明磷亏缺和磷过量均不利于植株氮素的吸收，适量供磷处理平邑甜茶幼苗对 ${ \bf N O } _ { 3 } ^ { - }$ 的吸收速率较大，能够促进根系对氮素的吸收，这为探讨氮素吸收机理提供了可靠依据。
+
+硝态氮进入植物细胞后，可以作为一种信号分子诱导硝酸还原酶的产生[20]，硝酸还原酶是硝酸盐同化过程中的限速酶，可直接调节 ${ \bf N O } _ { 3 } ^ { - }$ 的还原，从而调节氮代谢[8]。磷是NADPH 的组成成分，而NADP+/NADPH作为硝酸还原酶的电子载体，可将电子从FAD 逐步转移到 ${ \bf N O } _ { 3 } ^ { - }$ ，使其还原为 $\mathrm { N O } _ { 2 } ^ { - [ 7 ] }$ 。
+
+同时磷是ATP的重要组分，而ATP是细胞生命活动不可或缺的能量供应[21]。本研究认为，磷亏缺处理时或许是由于缺乏充足的电子载体和能量的供应，使平邑甜茶叶片硝酸还原酶活性受到抑制，根系吸收的氮素不能在短时间内完成同化，其叶片中 $\mathrm { N O } _ { 3 } ^ { - }$ 的积累较多，导致平邑甜茶的氮肥利用率较低；充足供磷能够保证电子载体的数量和ATP的活性，且叶片硝酸还原酶活性明显高于低磷处理，从而使$\mathrm { N O } _ { 3 } ^ { - }$ 的同化作用加速，因此植株氮肥利用率处于较高水平；而过量供磷时，植株对氮、磷的吸收能力受到抑制，加之叶片硝酸还原酶活性明显降低，其氮素的吸收和代谢均受到显著抑制，从而导致平邑甜茶幼苗的氮肥利用率偏低。
+
+综上所述，不同供磷水平通过影响根系的生长、ATP以及电子载体的供应，从而影响氮素的吸收和利用。磷亏缺时，由于缺乏充足的养分和能量供应，且叶片硝酸还原酶的活性较低，其对氮素的吸收及 $\mathrm { N O } _ { 3 } ^ { - }$ 的代谢受到抑制；适当充足的供磷刺激了幼苗根系生长，从而促进平邑甜茶对氮素的获取，加之充足的ATP和电子载体的供应以及较高的硝酸还原酶活性，保证了 ${ \bf N O } _ { 3 } ^ { - }$ 还原的正常进行；然而过量供磷增加了叶片 $\mathrm { N O } _ { 3 } ^ { - }$ 的积累，过量的 $\mathrm { N O } _ { 3 } ^ { - }$ 抑制了平邑甜茶根系的生长，同时叶片硝酸还原酶活性受到抑制，因此其氮素吸收和利用效率较低。
+
+# 参考文献References
+
+[1]张福锁．测土配方施肥技术[M].北京：中国农业大学出版 社,2011: 7-9 Zhang F S. Soil Testing and Fertilization Recommendation[M].Beijing:China Agricultural University Press, 2011:7-9   
+[2]李庆军，田利光，刘庆花，等．山东省果园土壤酸化状况及 酸化原因分析[J]．山东农业科学,2011,10:57-59 LiQJ,TianLG,Liu QH,et al.Soil acidification condition and cause analysis of Shandong orchard[J].Shandong Agricultural Sciences,2011,10:57-59   
+[3]丁宁，姜远茂，陈倩，等．不同供磷水平对平邑甜茶生长及 $^ { 1 5 } \mathrm { N } .$ -尿素吸收和利用的影响[J]．山东农业大学学报：自然 科学版,2012,43(2):223-226 Ding N,Jiang Y M,Chen Q,et al.Effect of phosphorus on growth and $^ { 1 5 } \mathrm { N }$ absorption and utilization of Malus hupenhensis[J]. Journal of Shandong Agricultural University: Natural Science,2012,43(2):223-226   
+[4]何鹏，吴敏，韦家少，等．不同磷水平对橡胶树幼苗氮钾吸 收、分配与利用的影响[J]．中国农学通报,2011,27(16):1-6 He P,Wu M,Wei J S,et al.Influence of different phosphorus levels on absorption,utilization and partition of N,K on Hevea brasiliensis seedlings [J].Chinese Agricultural Science Bulletin,2011,27(16):1-6   
+[5]袁新民，同延安，杨学云，等．施用磷肥对土壤 ${ \tt N O } _ { 3 } ^ { - } { \tt - N }$ 累 积的影响[J]．植物营养与肥料学报,2000,6(4):397-403 Yuan X M,Tong Y A,Yang XY,et al.Effect of phosphate application on soil nitrate nitrogen accumulation[J].Plant Nutrition and Fertilizer Science,20o0,6(4):397-403   
+[6]Graciano C,Goya JF,Frangi JL,et al.Fertilization with phosphorus increases soil nitrogen absorption in young plants of Eucalyptus grandis[J]. Forest Ecology and Management, 2006,236(2/3): 202-210   
+[7] Campbell W H,Redinbaugh MG.Ferric-citrate reductase activity of nitrate reductase and it's role in iron assimilation by plants[J]. Journal of Plant Nutrition,1984,7(1/5): 799-806   
+[8]刘丽，甘志军，王宪泽．植物氮代谢硝酸还原酶水平调控 机制的研究进展[J]．西北植物学报,2004,24(7):1355-1361 Liu L, Gan Z J, Wang X Z. Advances of studies on the regulation of nitrate metabolism of plants at nitrate reductase level[J].Acta Botanica Boreali-Occidentalia Sinica,2004,24(7): 1355-1361   
+[9]吕杰，苗璐，蔡蕊，等．非损伤微测技术在植物根系生长发 育研究中的应用[J]．生物技术,2013,23(1):89-93 Lü J,Miao L,Cai R,et al. Application of non-invasive micro-test technique in study of plant roots growth and development[J].Biotechnology,2013,23(1): 89-93   
+[10]尹晓明，贾莉君，范晓荣，等．离子选择微电极技术及其在 植物营养学研究中的应用[J]．植物营养与肥料学报，2011, 17(3): 744-754 Yin X M,JiaL J,Fan XR,et al. The application of ion selective microelectrode in the study of plant nutrition[J].Plant Nutrition and Fertilizer Science,2011,17(3): 744-754   
+[11]骆翔，朱艳霞，杜友，等．柽柳根不同区域吸氮特性研究[J]. 中国农学通报,2011,27(22):66-69 Luo X, Zhu Y X, Du Y,etal. Study on the nitrogen-absorbing characters in different root parts of Tamarix chinensis Lour[J]. Chinese Agricultural Science Bulletin,2011,27(22): 66-69   
+[12]李绍长，胡昌浩，龚江，等．供磷水平对不同磷效率玉米 氮、钾素吸收和分配的影响[J]．植物营养与肥料学报,2004, 10(3): 237-240 Li S C,Hu C H, Gong J, et al. Effects of phosphorus supply on nitrogen and potassium absorption and distribution of maize with different phosphorus efficiency[J].Plant Nutrition and Fertilizer Science,2004,10(3): 237-240   
+[13]赵秀兰，李文雄．氮磷水平与气象条件对春小麦籽粒蛋白 质含量形成动态的影响[J]．生态学报，2005，25(8): 1914-1920 Zhao X L,Li W X. Effect of the nitrogen and phosphorus levels and meteorological conditions on formation dynamics of grain protein content in spring wheat[J].Acta Ecologica Sinica,2005,25(8):1914-1920   
+[14]李合生．植物生理生化实验原理和技术[M]．北京：高等教 育出版社,2000:123-128 LiH S.Principles and Techniques of Plant Physiological Biochemical Experiment[M]. Beijing:Higher Education Press, 2000:123-128   
+[15]顾曼如. $^ { 1 5 } \mathrm { N }$ 在苹果氮素营养研究中的应用[J]．中国果树， 1990, (2): 46-48 Gu M R. The application of $^ { 1 5 } \mathrm { N }$ in the research of nitrogen nutrition on apples[J]. China Fruits,1990,(2): 46-48   
+[16]霍常富，孙海龙，范志强，等．根系氮吸收过程及其主要调 节因子[J]．应用生态学报,2007,18(6):1356-1364 Huo C F,Sun HL,Fan Z Q,et al. Physiological processes and major regulating factors of nitrogen uptake by plant roots[J]. Chinese Journal of Applied Ecology,2007,18(6): 1356-1364   
+[17] Scheible W R,Lauerer M, Schulze E D,et al.Accumulation of nitrate in the shoot acts as a signal to regulate shoot-root allocation in tobacco[J]. The Plant Journal,1997，11(4): 671-691   
+[18] Forde B,Lorenzo H. The nutritional control of root development[J]. Plant and Soil,2001,232(1/2): 51-68   
+[19] Miller A J,Smith S J.Cytosolic nitrate ion homeostasis: Could it have a role in sensing nitrogen status?[J].Annals of Botany,2008,101(4): 485-489   
+[20] Datta R, Sharma R.Temporal and spatial regulation of nitrate reductase and nitrite reductase in greening maize leaves[J]. Plant Science,1999,144(2): 77-83   
+[21]廖红，严小龙．高级植物营养学[M]．北京：科学出版社, 2003: 149-152 Liao H,Yan X L. Advanced Plant Nutrition[M]. Beijing: Science Press,2003:149-152

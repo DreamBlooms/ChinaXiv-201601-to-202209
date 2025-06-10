@@ -1,0 +1,409 @@
+# 基于语义位置和区域划分的兴趣点推荐模型
+
+刘辉1²，万程峰‘，吴晓浩1
+
+(1.重庆邮电大学 通信新技术应用研究中心，重庆 400065;2.重庆信科设计有限公司，重庆 401121)
+
+摘要：针对现有的位置社交网络研究工作对兴趣点相关的用户语义位置信息挖掘不够充分，且大多推荐算法忽略了兴趣点所在区域对推荐结果的影响，提出了一种新型兴趣点推荐模型(USTTGD)。首先采用分割时间的潜在狄利克雷分配主题模型(latent Dirichlet allocation，LDA)，基于签到记录中的语义位置信息挖掘时间主题下的用户时间偏好，然后将兴趣点所处区域划分为网格，以评估区域影响;接着应用边缘加权的个性化PageRank (Edge-weightedPersonalized PageRank，EwPPR)来建模兴趣点之间的连续过渡;最后将用户时间偏好、区域偏好和连续过渡偏好融合为一个统一的推荐框架。通过在真实数据集上实验验证，与其他传统推荐模型相比，USTTGD模型在准确率和召回率上有了显著的提升。
+
+关键词：位置社交网络；语义位置；兴趣点推荐；时间主题；区域影响中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2018.08.0541
+
+Point-of-interest recommendation model based on semantic location and regional division
+
+Liu Hui1,², Wan Chengfeng1,Wu Xiaohao1 (1.Research Center of New Telecommunication Technology Applications， Chongqing University of Posts& Telecommunications,Chongqing40o065,China;2.Chongqing Information Technology Designing Co.Ltd,Chongqing 401121, China)
+
+Abstract:According to the existing research work of location-based social network was not sufficient to mine the user semanticlocationinformationrelatedtopoint-of-interest,Moreover,mostrecommendationalgorithms ignoredtheinfluence of the region of point-of-interest on the result of recommendation.This paper proposed a new recommendation model of point-of-interest called USTTGD,firstadopted the Latent Dirichlet Alocation(LDA)topic modelof time division,basedon thesemantic location informationincheck-inrecords minedtheusertime preferenceunderthe timetheme,thendevided the regionof point-of-interest intogrids toevaluatetheregional influence.Next，applied Edge-weightedPersonalized PageRank(EwPPR）to modeling the successive transitionsamong point-of-interests.Finally,USTTGD fused user time preference，regional preference and successive transition preference into a unified recommendation framework. Experimental resultsonreal-world datasets show that USTTGD achieves significantlyenhancecompared with other classical recommendation models on precision and recalling rates.
+
+Keywords:location-basedsocial network；semantic position;point-of-interestrecommendation;time theme;regional influence
+
+# 0 引言
+
+随着移动通信和4G网络技术的日渐成熟，基于位置的社交网络(location-based social network,LBSN)正变得前所未有的流行。社交网络用户以“签到”的形式在兴趣点(point-of-interest，POI)上分享他们的位置和体验。典型的LBSN 网站有Foursquare、Yelp、Twitter、Facebook、街旁、大众点评等，这些网站根据用户的历史签到数据来向用户推荐新的兴趣点(如公园、餐厅等)。兴趣点推荐服务不仅能给用户带来丰富的社交体验，同时还能为企业带来商业收益，提升商家知名度。因此，LBSN 兴趣点推荐逐渐成为推荐领域的研究热点。
+
+位置推荐中现有的研究方法大多都是基于概率生成模型(PGM)。基于PGM的方法[1-3]从用户的签到记录中了解用户的潜在偏好，如潜在的空间偏好和局部偏好，利用马尔可夫链蒙特卡洛法和变分法近似推理，可以推导出潜在空间和局部变量的后验分布。基于矩阵分解的方法[4.5]可通过将用户-兴趣点矩阵分解为不同含义的潜在特征矩阵来预测用户的偏好。然而这些方法只能学习用户的静态偏好，不能捕获用户在一天中不同时段内的动态兴趣。基于概率生成模型的USTTM算法[7通过考虑用户在不同的时段内所做的选择策略，从他们的历史签到数据中挖掘用户的动态时空主题。然而，它只能从用户的地理签到数据中的经纬度来捕获用户的时间偏好，没有任何语义解释。这些信息不足以捕获用户对不同类型位置的偏好。此外，兴趣点所处区域通常也会影响用户的选择，一般来说用户更倾向于选择前往著名景点区范围内附近的某个兴趣点进行签到。因此，位置推荐中兴趣点所处区域也是不可或缺的考虑因素。
+
+综上所述，本文提出了一种统一兴趣点推荐模型，综合考虑了上述几种情境因素。本文的贡献主要为：a)提出了一种分割时间的LDA算法(STLDA)，将签到数据集划分为不同的时段并基于多个LDA模型进行训练，使用语义定位来发掘用户在不同位置上的时间偏好；b)在STLDA 算法的基础上又提出了引入时间变量的主题挖掘算法(TVTM)，改善了STLDA中存在的数据稀疏性问题，可在单个训练模型中生成时间主题；c)通过将空间划分为网格来计算兴趣点的区域偏好；d)构建简化的兴趣点-兴趣点过渡图，并应用边缘加权的个性化PageRank[7计算图中每个兴趣点间的连续过渡偏好；e)在真实数据集上测试了该模型的准确率及召回率。实验结果表明，本文所提的兴趣点推荐模型各项性能指标均优于其他主流的推荐模型。
+
+# 1 相关工作
+
+随着位置社交网络的快速发展，兴趣点推荐开始迅速普及。本章主要回顾了与本文研究内容相关的最新研究工作的进展。兴趣点推荐中主流的推荐技术可分为三类:
+
+a)基于概率生成模型的方法。利用概率生成方法来学习用户的偏好。Yin等人[1提出了学习用户区域和局部偏好的JIM模型。在他们的模型中，区域和局部偏好由潜在变量表示，这些潜在变量导致了用户在不同时间段访问不同地点的选择，潜在变量的后验分布由可见变量(如签到位置和时间)推断。这种模型的局限性在于用户可能会根据时间的影响作出调整。Hu等人[3]利用稀疏编码技术对用户区域和时间偏好进行建模[4，但未能考虑到时间影响。在他们的另一项研究中[2]，时间被建模为学习用户偏好的上游因素，但该模型面临的主要问题是：用户平均访问的兴趣点数过于稀疏。Wang等人[5讨论了一种新情况，即当用户前往一座新城市时，他们往往会动态地改变他们的兴趣和行为，而用户访问的大部分地点距离他们的家乡很近。为了应对这一挑战，他们提出了“地理鼠标器”来建模两种不同类型的偏好：用户的本地偏好和旅行偏好。Liu等人[提出USTTM模型来挖掘时空主题，可以在不同的时间段内找到用户对应的偏好。但该模型仅仅考虑了地理位置这一种情景因素，而没有借助语义位置信息。Liu 等人[10构建了一种基于低秩图的方法来学习用户的连续时间模式，可以根据距离用户上次访问的时间间隔来向用户推荐位置，但该方法只能向用户推荐已访问过的位置。
+
+b)基于矩阵分解的连续兴趣点推荐。Li等人[4]利用矩阵分解的方法来寻找潜在的用户和位置特征矩阵。 ${ \sf W } { \sf u }$ 等人[5]采用了一种概率矩阵分解方法，综合考虑了用户选择某个地方的地理和时间因素。通过将不同的因素整合到一个概率生成模型中来建模用户对某个位置的兴趣。文献[6]提出了一种考虑用户偏好、近邻性和社交关系的协同过滤推荐方法。根据用户的相似度来进行位置推荐。但由于用户-兴趣点矩阵数据过于稀疏，导致推荐结果不够准确。Mao等人[9提出了一种结合用户偏好和空间影响的混合推荐系统。Lian 等人[1I]也考虑了邻近区域的空间影响，然后应用矩阵分解方法来推荐兴趣点。Chen等人[12]首先提出了连续兴趣点推荐的概念。将合并因式分解个性化马尔可夫链(FPMC)[12]融入LBSN中。Feng 等人[13]提出了一种度量嵌入(ME)模型，以观察在连续签到中潜在空间的关系。同时还考虑了用户和兴趣点之间的交互，以获得更好的推荐性能。
+
+c)基于核密度估计的方法。利用核密度估计[13]来查找用户访问不同位置的时间间隔模式。Lichman[14]等人采用了混合核密度评估法在个体用户层面上寻找空间密度。文献[15]采用带有固定核宽的核密度估计方法来为基于每个用户的经纬度坐标兴趣点地理位置的签到分布建模。Lian 等人[16]从二维核密度估计的角度来刻画空间聚集效应，并将其整合进矩阵分解模型中，通过对空间聚集效应的建模可以有效缓解用户一兴趣点矩阵的数据稀疏性问题。
+
+总体来说，现有的研究工作对用户的语义位置信息考虑不够充分，同时忽略了连续兴趣点推荐中的区域影响因素，导致算法推荐性能往往较低。因此，本文提出了一种USTTGD模型，该模型的优势在于能通过分析用户签到记录中的历史语义位置信息，基于挖掘出的时间主题推断用户当前和未来最可能前往的兴趣点的位置。同时考虑到了区域影响因素和兴趣点间连续过渡因素，提升了推荐结果的准确性。实际上，现实生活中用户的行为偏好本身就受到多方面情景因素的影响，因此，本文所提模型更能反映真实的场景，贴合用户的实际行为。
+
+# 2 基于语义位置信息的建模
+
+# 2.1问题描述
+
+位置社交网络中的兴趣点推荐是通过分析用户的历史签到记录数据，向用户推荐之前未访问过的、可能感兴趣的位置。LBS中应包含用户集 $U = \{ u 1 , u 2 , . . . , u _ { n } \}$ 、兴趣点集$L = \{ l _ { 1 } , l _ { 2 } , . . . , l _ { m } \}$ 以及用户在兴趣点上的历史签到记录集。LSBN体系结构 $G = \{ U , L , D \}$ 如图1所示。包含了若干用户、兴趣点以及三类关系一用户间的社交关系，兴趣点间的关联关系及用户与兴趣点间的签到关系。实际上通过分析用户历史签到记录就能提取这三种关系。本文所提的推荐模型将通过融合多种不同源的数据，预测用户对未访问过的兴趣点的偏好，进而为其推荐兴趣点。
+
+![](images/f72fde2e288b55a867e70dceeeb08461bdaa7dc551d1cbd644c91a873d071a55.jpg)  
+图1LBSN 体系结构Fig.1.LBSN architecture
+
+表1列出了本文算法所涉及到的符号及相关含义。
+
+表1符号描述  
+Table 1Symbols description   
+
+<html><body><table><tr><td>符号</td><td>含义</td></tr><tr><td>U,L,D</td><td>用户集合；兴趣点集合；签到记录集合</td></tr><tr><td>u,l,t</td><td>用户u∈U;兴趣点leL;签到时间t</td></tr><tr><td>gl</td><td>兴趣点I的地理位置，表示为经纬度坐标</td></tr><tr><td>WI</td><td>关于兴趣点i的评论集合</td></tr><tr><td>Wu</td><td>用户u对其访问过的所有兴趣点的评论集合</td></tr><tr><td>r</td><td>兴趣点1在用户间的流行度</td></tr><tr><td>Du</td><td>D中属于用户u的所有签到记录集合</td></tr></table></body></html>
+
+本文算法的推荐架构图如图2所示。
+
+# 2.2 STLDA算法
+
+潜在的狄利克雷分配(LDA)[8是一种著名的概率统计生成模型，可以在大型语料库中找到不同的主题集合。如图3所示，STLDA算法的每个时间段都是LDA模型。LDA的输入是一个文本集 $D$ 和主题数 $K$ ，输出将是每个文本的主题分布向量 $\theta _ { ; }$ 以及 $K$ 个主题的主题词语分布 $\phi _ { \circ } \ : \ : w$ 代表文档中的单词。 $X$ 是一个潜在的变量，它表示在语料库 $D$ 中每个文档里的每个单词 $w$ 的主题索引，每个文档中词语的数量由 $N _ { D }$ 表示。每个文档被视为是一种多项分布的主题,每个主题被建模为词汇表的多项分布 $\mathbf { \nabla } _ { \theta }$ 是每个文档的多项分布， $\phi$ 是每个主题的多项分布。 $\alpha$ 和 $\beta$ 为分别对 $\theta$ 和 $\phi$ 使用狄利克雷先验的超参数。为了确定文档中每个单词的潜在主题索引，采用Gibbs 抽样方法，利用式（1）推断潜在变量 $X$ ，从而了解用户的偏好。
+
+$$
+\begin{array} { l } { p ( x _ { d , i } = x \vert x _ { d , - i } , W _ { d , - i } , \alpha , \beta ) \propto } \\ { \displaystyle \frac { n _ { d , - i } ^ { x } + \alpha _ { k } } { \sum _ { k = 1 } ^ { K } ( n _ { d , - i } ^ { k } + \alpha _ { k } ) } \times \frac { n _ { x , - i } ^ { h } + \beta _ { h } } { \sum _ { h = 1 } ^ { H } ( n _ { x , - i } ^ { h } + \beta _ { h } ) } } \end{array}
+$$
+
+其中： $x _ { d , i }$ 是文档 $d$ 中单词 $i$ 的主题索引， $n _ { d , - i } ^ { x }$ 是文档 $d$ 中除了第 $i$ 个单词外被指定为主题索引 $x$ 的其他单词数。 $n _ { x , - i } ^ { h }$ 是被指定为主题索引 $x$ 的索引为 $h$ 的单词数。在对文档集中的每个单词分配主题索引并进行多次迭代之后，可以计算出每个文档的主题分布 $\theta$ 和每个主题的主题词语分布 $\phi$ ，计算公式如下:
+
+$$
+\hat { \theta } _ { d , k } = \frac { n _ { d } ^ { k } + \alpha _ { k } } { \sum _ { k = 1 } ^ { K } ( n _ { d } ^ { k } + \alpha _ { k } ) }
+$$
+
+$$
+\hat { \varphi } _ { k , h } = \frac { n _ { k } ^ { h } + \beta _ { h } } { \sum _ { h = 1 } ^ { H } ( n _ { k } ^ { h } + \beta _ { h } ) }
+$$
+
+其中： $n _ { d } ^ { k }$ 是文档 $d$ 中主题 $k$ 下的单词数, $n _ { k } ^ { h }$ 是文档集中中主题$k$ 下索引为 $h$ 的单词数， $a _ { k }$ 和 $\beta _ { h }$ 分别是 $\theta$ 和 $\phi$ 的狄利克雷先验分布。
+
+![](images/55b29038e06f2c4263aa2bd514fc34375cdb5f89f28778b614ffe7e67e80dc99.jpg)  
+图2基于语义位置和区域划分的推荐架构图
+
+为了了解用户对兴趣点的时间偏好，将签到数据集按照签到时间划分为不同的时段，然后利用划分好的签到数据对LDA模型进行训练。这样就可以得到用户的时间偏好。对签到数据集每一个划分的时段，将每个用户视为文档，用户访问的语义位置是文档的内容。通过对时间的划分，可以了解每个用户在每个时段 $t$ 对所呈现的主题向量 $\theta _ { d }$ 的偏好。
+
+# 2.3 TVTM算法
+
+STLDA通过将签到数据集划分为不同的时间段来了解用户的时间偏好，但这种方法可能导致对用户的推荐结果不够准确，因为每个时间段中的训练数据集将会变得更稀疏。为了改善这个问题，提出了通过考虑时间变量来修改LDA的TVTM算法。如图4所示，TVTM模型通过引入时间变量$t$ 来建模用户的时间偏好。具体实现方法是为每个用户生成 $T$ 个 $\theta$ 的狄利克雷先验分布。离散时间变量为 $s , s$ 是一个选择不同的主题分布变量 $\theta$ 的时间指标， $\boldsymbol { \theta }$ 和 $\phi$ 的先验分布定义式
+
+如下：
+
+$$
+p ( \theta _ { u , t } | \alpha ) \propto \prod _ { k = 1 } ^ { K } \theta _ { u , t , z } ^ { \alpha _ { k } - 1 }
+$$
+
+$$
+p ( \varphi _ { k } | \beta ) \propto \prod _ { h = 1 } ^ { H } \varphi _ { k , h } ^ { \beta _ { h } - 1 }
+$$
+
+其中： $\alpha$ 和 $\beta$ 分别是 $\theta _ { u , t }$ 和 $\phi \boldsymbol { k }$ 的狄利克雷先验分布的超参数。对用户数据集 $U$ 中的每个用户， $N _ { u }$ 代表用户 $\boldsymbol { u }$ 的签到记录数， $\boldsymbol { W } _ { l }$ 是由用户 $u$ 访问的位置 $l$ 所包含的评论词语数。潜在变量 $X$ 是在 $\textit { W } _ { l }$ 中每个语义词的主题索引， $\phi$ 是该词的主题分布。TVTM的生成过程如下:a)从狄利克雷先验分布 $\beta$ 中获取$K$ 项变量 $\phi ; { \bf b } )$ 从 $U$ 中每个用户上获取 $T$ 项变量 $\theta ; \mathbf { c } )$ 对每个用户 $u \in U .$ 应当满足签到记录 $\textit { d } ^ { t h } \in \{ \ 1 , . . . , N _ { u } \}$ ；在 $\boldsymbol { d } ^ { t h }$ 中将签到时间 $\textit { t }$ 离散化为 $s$ ；从 $W _ { l }$ 中每个单词上获取主题X\~Multinomail $( \theta _ { s } )$ 。
+
+![](images/71991641eba88a5280acbb15c3c0a1cf966b436fce8f909be2e44e04e76df6ed.jpg)  
+图3STLDA 算法模型
+
+![](images/84b6645e14a6ca6071d0148c2c7d318dfeaf6bcf9b6664e23635c1d7c403869e.jpg)  
+Fig.2Recommendation architecture diagram based on senmatic location and regional devision   
+Fig.3The algorithm model of STLDA   
+图4TVTM算法模型  
+Fig.4The algorithm model of TVTM
+
+1）用户时间偏好的学习
+
+由于位置1有评论词汇集 $\boldsymbol { W } _ { l }$ ，可以从签到记录集 $\textit { D } _ { u }$ 中提取一个评论集 $\textbf { \textit { W } } _ { u }$ 。将每个用户视为一个文档，通过从TVTM模型中学习到的主题分布来表示用户的偏好。由于当人们处于一天中的不同时间间隔时，往往会有不同的活动。因此人们决定去某地时，时间应该被视为一个重要因素。TVTM中将时间 $t$ 建模为用户在不同时间点的偏好指标。签到时间 $t$ 将是一个连续时间变量并且会导致无限多的用户主题分布 $\theta _ { u }$ 。为了解决这个问题，将时间离散化为 $T$ 部分，变量 $s$ 代表 $\mathbf { \Psi } _ { t }$ 的时间索引。根据LDA模型，从主题 $x$ 中选出的单词 $w$ 有关于 $\phi _ { x }$ 的多项式分布。从 $\theta _ { s }$ 中选出的主题 $x$ 表示用户在时间间隔 $s$ 下的主题偏好。
+
+令 $\Theta = \left\{ \theta _ { u } \right\} _ { u = 1 } ^ { \left| U \right| }$ 为每个用户的主题分布张量,其中 $\theta _ { u }$ 是一个关于时间间隔和主题索引的矩阵。 $\Phi = \left\{ \varphi \kappa \right\} _ { k = 1 } ^ { K }$ 表示在不同的主题 $k$ 下的词汇分布， $\omega = \{ W _ { l } \} _ { l = 1 } ^ { L }$ 代表整个评论集，变量的联合分布表示公式如下：
+
+$$
+\begin{array} { r l } & { p ( x , t , s , \omega , \Theta , \Phi | \alpha , \beta ) = } \\ & { p ( x | \Theta ) p ( \Theta | \alpha ) p ( \omega | z , \Phi ) p ( \Phi | \beta ) p ( s | t ) } \end{array}
+$$
+
+# 2）TVTM算法的参数推导
+
+本节的目的是得到 $\mathbf { \Phi } _ { x , t , s , \omega }$ 所提供的 $\Theta$ 和 $\Phi$ 的后验分布，也就是说需要计算 $P ( \Theta , \Phi | \ x , t , s , \omega )$ 。由于难以计算边缘分布$P ( \boldsymbol { x } , t , \boldsymbol { s } , \omega | \alpha , \beta )$ ，故精确推出 $P ( \Theta , \Phi | x , t , s , \omega )$ 是不可能的。因此，考虑应用马尔可夫链蒙特卡罗(MCMC)方法折叠Gibbs抽样[15]进行近似推导。选择一个 $\theta$ 和 $\phi$ 的狄利克雷共轭先验时,可以集成 $\Theta$ 和 $\Phi$ 来简化抽样过程。
+
+$$
+p ( x _ { u , i } = x \mid x _ { u , - i , \mathcal { O } u , - i , t , s , \alpha , \beta ) } \propto
+$$
+
+$$
+\frac { n _ { u , s , - i } ^ { x } + \alpha _ { x } } { \sum _ { k = 1 } ^ { K } ( n _ { u , s , - i } ^ { k } + \alpha _ { k } ) } \times \frac { n _ { x , - i } ^ { h ^ { \prime } } + \beta _ { h } } { \sum _ { h = 1 } ^ { H } ( n _ { x , - i } ^ { h } + \beta _ { h } ) }
+$$
+
+根据折叠Gibbs采样的程序，需要迭代更新完整的条件分布，如式(7)所示,迭代获取 $\textbf { \textit { W } } _ { u }$ 中出现的每个单词的新主题。定义 $n _ { u , s , - i } ^ { x }$ 为第 $u$ 个用户观察到的主题 $x$ 的次数，不包括$W _ { u }$ 中第 $s$ 个时间索引下的第 $i$ 个单词。同样, $n _ { k , s , - i } ^ { h }$ 是第 $s$ 个时间间隔中分配给主题 $k$ 下的单词 $h$ 的数量。经过足够多次的迭代后，马尔可夫链逐渐收敛到一个平稳分布，每个用户的主题分布和单词分布可由下面的式（8）和（9）计算得到，设置 $a { = } 5 0 / K$ ， $\beta = 0 . 0 1$ 。
+
+$$
+\hat { \theta } _ { s , u , k } = \frac { n _ { u , s } ^ { k } + \alpha _ { k } } { \sum _ { k = 1 } ^ { K } ( n _ { u , s } ^ { k } + \alpha _ { k } ) }
+$$
+
+$$
+\hat { \varphi } _ { k , h } = \frac { n _ { k } ^ { h } + \beta _ { h } } { \sum _ { h = 1 } ^ { H } ( n _ { k } ^ { h } + \beta _ { h } ) }
+$$
+
+# 2.4用户时间偏好
+
+LBSN中先前的研究工作大都以静态的方式向用户推荐位置，而基于时间主题的建模则是在向用户推荐兴趣点时考虑到用户的时间偏好。具体来说，根据给定的用户签到记录组合 $\left( u , l , t \right)$ ，对于 $L$ 中的每个兴趣点 $l$ ，计算出用户 $\boldsymbol { u }$ 访问 $l$ 的可能性，同时兴趣点评分也被视作是用户选择访问位置的一个重要因素。 $u$ 对 $l$ 的时间偏好定义为 $u$ 在时间 $t$ 访问兴趣点 $\mathbf { \xi } _ { l }$ 的概率，其计算公式如下。
+
+$$
+\begin{array} { l } { \displaystyle p _ { u , l , t } ^ { u s e r } = p ( l \mid W _ { l } , \gamma _ { l } , u , t , \hat { \theta } , \hat { \varphi } ) } \\ { \displaystyle = \frac { p ( l , W _ { l } , \gamma _ { l } \mid u , t , \hat { \theta } , \hat { \varphi } ) } { \sum _ { l ^ { \prime } } ( p ( l ^ { \prime } , W _ { l ^ { \prime } } , \gamma _ { l ^ { \prime } } \mid u , t , \hat { \theta } , \hat { \varphi } ) ) } } \end{array}
+$$
+
+其中： $p ( l , W _ { l } , \gamma _ { l } \left| u , t , \hat { \theta } , \hat { \varphi } \right)$ 的计算如式（11）所示， $\boldsymbol { { \ Y } } _ { l }$ 是[0,1]规范化。
+
+$$
+\begin{array} { l } { { \displaystyle p ( l , W _ { l } , \gamma _ { l } | u , t , \hat { \theta } , \hat { \varphi }  ) = B e t a ( \gamma _ { l } , 1 ) } } \\ { { \displaystyle \times \sum _ { k = 1 } ^ { K } P ( x | u , \hat { \theta } ) \prod _ { w \in W _ { l } } p ( w | x , \hat { \varphi }  ) ^ { \frac { 1 } { | W _ { l } | } } } } \end{array}
+$$
+
+# 3 基于区域划分的建模
+
+# 3.1 区域偏好
+
+考虑到兴趣点所处区域也会对推荐结果产生影响。引入网格思想。如图5所示，将空间划分为几个网格单元。设 $\mathbf { \xi } _ { l }$ 为用户 $u$ 的当前位置。以 $\textit { l } _ { c }$ 为圆心， $\boldsymbol { r }$ 为半径的圆圈覆盖内的网格单元，称为 $u$ 的近邻网格单元，令 $n u m ( D _ { g i } )$ 是一个网格单元格 $g _ { i }$ 中所有兴趣点的签到记录数量的总和。使用下列公式来测量网格单元格 $g _ { i }$ 的流行度。
+
+$$
+g _ { i } ^ { \gamma } = \frac { n u m ( D _ { g i } ) } { \sum _ { \forall g \in G b } n u m ( D _ { g } ) }
+$$
+
+其中 $G _ { b }$ 是 $u$ 的近邻网格单元集合。
+
+![](images/a86ec3e64251a2fe1ae310c48713e50ad59aaa28d8f5fde8be2ac55e37178c89.jpg)  
+图5网格区域划分  
+Fig.5Grid regional devision
+
+当用户 $\boldsymbol { u }$ 在网格单元 $g _ { i }$ 中的一些兴趣点上有大量签到记录时,表明网格单元 $g _ { i }$ 很可能是用户 $\boldsymbol { u }$ 喜欢的区域，同时 $u$ 在网格单元 $g _ { i }$ 中的其他兴趣点上签到的可能性也会很高。令$n u m ( D _ { g _ { i } } ^ { u } )$ 为用户 $\boldsymbol { u }$ 在网格单元 $g _ { i }$ 中所有兴趣点上签到记录的数量。然后利用下列公式来计算这种偏好。
+
+$$
+g _ { i } ^ { u } = \frac { n u m ( D _ { g _ { i } } ^ { u } ) } { \sum _ { \forall g \in G ^ { b } } n u m ( D _ { g } ^ { u } ) }
+$$
+
+由于用户更倾向于选择在靠近用户当前位置的兴趣点上进行签到。所以认为用户倾向于在用户当前所处的网格单元内的兴趣点上签到，故定义一个偏好变量 $g _ { i } ^ { c }$ ,当用户当前位置在 $g _ { i }$ 内时，变量值为1，否则为0。
+
+然后将上述三种偏好变量组合在一起。由下列线性函数表示网格单元格 $g _ { i }$ 的偏好得分。
+
+$$
+\begin{array} { c } { { G p s ( g _ { i } ) = \lambda g _ { i } ^ { \gamma } + \delta g _ { i } ^ { u } + \varepsilon g _ { i } ^ { c } } } \\ { { 0 \le \lambda , \delta , \varepsilon \le 1 ; \lambda + \delta + \varepsilon = 1 } } \end{array}
+$$
+
+最终， $u$ 对兴趣点 $\mathbf { \xi } _ { l }$ 的区域偏好计算公式如下:
+
+$$
+p _ { u , l , t } ^ { r e g } = \frac { G p s ( g _ { i } ) } { \sum _ { \forall g \in G ^ { b } } G p s ( g ) }
+$$
+
+# 3.2连续过渡偏好
+
+在本节中，利用兴趣点一兴趣点过渡图来建模连续签到的关系。令 $( u , l , t )$ 表示用户 $\boldsymbol { u }$ 在时间 $\mathbf { \Phi } _ { t }$ 时在兴趣点 $\mathbf { \xi } _ { l }$ 上的签到记录。兴趣点-兴趣点过渡图定义如下。
+
+定义1用户 $\mathbf { u }$ 的签到记录为 $( u , l _ { I } , t _ { I } ) , ( u , l _ { 2 } , t _ { 2 } ) , . . . , ( u , l _ { n } , t _ { n } )$ 其中 $t _ { 1 } \leq t _ { 2 } \leq . . . \leq t _ { n }$ 。如果 $t _ { i + I } { - } t _ { i } < \tau$ ， $\tau$ 表示连续签到的时间间隔，则认为关于用户 $\boldsymbol { u }$ 从兴趣点 $l _ { i }$ 到 $l _ { i + I }$ 之间有一个连续的过渡。
+
+定义2用户 $u$ 的兴趣点-兴趣点过渡图是一个有向图 $G$ $\scriptstyle = ( L , E )$ ，其中 $L$ 是所有兴趣点的集合， $E$ 是 $L$ 中所有的连续过渡集合。如果在 $\boldsymbol { u }$ 的历史签到记录中存在一个从 $l _ { i }$ 到 $l _ { j }$ 的连续过渡，那么 $E$ 中将存在一条定向边 $( l _ { i } , l _ { j } )$ 。 $( l _ { i } , l _ { j } )$ 边的权值定义如下。
+
+$$
+E w ( l i , l j ) = \frac { T r a n ( l i , l j ) } { \sum _ { v l e L } T r a n ( l i , l ) }
+$$
+
+其中：Tran(li.lj)为在 $\mathbf { u }$ 的历史签到记录中从 $\mathrm { \Delta l _ { i } }$ 到 $\mathrm { 1 j }$ 的连续过渡数。
+
+由于只有与用户 $\boldsymbol { u }$ 当前位置距离小于 $d$ 的兴趣点作为候选兴趣点被推荐，故再提取一个 $G$ 的子图，命名为兴趣点-兴趣点的过渡图 $G ^ { \prime } = ( L ^ { \prime } , E ^ { \prime } )$ ，通过移除不在 $\boldsymbol { u }$ 所处的网格单元或近邻网格单元格中的兴趣点。然后使用边缘加权个性化PageRank（EdgePPR）[15]来计算 $G ^ { \prime }$ 中每个兴趣点的EdgePPR值。 $u$ 对 $l$ 的连续过渡偏好定义为 $l$ 的归一化EdgePPR评分，可以通过以下公式获得。
+
+$$
+p _ { u , l , t } ^ { s u c } = \frac { E d g e P P R ( G ^ { \prime } , l ) } { \sum _ { \forall l ^ { \prime } \in L ^ { \prime } } E d g e P P R ( G ^ { \prime } , l ^ { \prime } ) }
+$$
+
+# 3.3规范化统一模型
+
+本文将利用min-max标准化来处理原始数据，将用户时间偏好、区域偏好和连续过渡偏好规范化如下：
+
+$$
+\begin{array} { r l } { S _ { u , l , t } ^ { u s e r } = } & { \frac { p _ { u , l , t } ^ { u s e r } } { \displaystyle \operatorname* { m a x } _ { u } ^ { u s e r } - \operatorname* { m i n } _ { u } ^ { u s e r } } } \\ { S _ { u , l , t } ^ { r e g } = } & { \frac { p _ { u , l , t } ^ { r e g } - \operatorname* { m i n } ^ { r e g } } { \displaystyle \operatorname* { m a x } _ { u } ^ { r e g } - \operatorname* { m i n } _ { u } ^ { r e g } } } \\ { S _ { u , l , t } ^ { s u c } = } & { \frac { p _ { u , l , t } ^ { s u c } - \operatorname* { m i n } _ { u } ^ { s u c } } { \displaystyle \operatorname* { m a x } _ { u } ^ { s u c } - \operatorname* { m i n } _ { u } ^ { s u c } } } \end{array}
+$$
+
+其中： $\mathrm { { m a x } } _ { u } ^ { u s e r } / \mathrm { { m i n } } _ { u } ^ { u s e r } , \mathrm { { m a x } } _ { u } ^ { r e g } / \mathrm { { m i n } } _ { u } ^ { r e g } , \mathrm { { m a x } } _ { u } ^ { s u c } / \mathrm { { m i n } } _ { u } ^ { s u c }$ 分别为 $\boldsymbol { L ^ { \prime } }$ 中所有兴趣点上最大/最小的用户时间偏好、区域偏好以及连续过渡偏好。
+
+综上所述，提出一种线性统一生成框架来集成这几种情景信息，最终用户 $\boldsymbol { u }$ 对兴趣点 $\mathbf { \xi } _ { l }$ 的的总体偏好评分由下列公式可得。
+
+$$
+\begin{array} { l } { S _ { u , l , t } = \sigma S _ { u , l , t } ^ { u s e r } + \rho S _ { u , l , t } ^ { r e g } + \eta S _ { u , l , t } ^ { s u c } } \\ { 0 \le \sigma , \rho , \eta \le 1 ; \sigma + \rho + \eta = 1 } \end{array}
+$$
+
+# 3.4参数推导
+
+TVTM算法中详细参数推导见算法1。
+
+算法1 TVTM中的Gibbs 抽样  
+输入：用户签到数据集D，主题数 $\mathrm { ~ \bf ~ K ~ }$ ，时间间隔数S,  
+迭代次数I，预处理时间 $I _ { b }$ ，样本滞后时间 $I _ { g }$ ，先验分布 $\alpha , ~ \beta$   
+输出：目标参数 $\hat { \theta } , \hat { \varphi }$ （204  
+创建计数变量 $n _ { k } ^ { h } , n _ { u , s } ^ { k } , \theta ^ { s u m } , \varphi ^ { s u m }$ ，全初始化为0  
+for $u \in U$ dofor （ $w \in W _ { u }$ do为 $w$ 随机分配话题，更新计数变量 $n _ { k } ^ { h } , n _ { u , s } ^ { k }$ end  
+end  
+创建变量 count=0;  
+for 迭代次数从1到I doforuεU dofor $\mathbf { w } \in \mathbf { W } _ { \mathbf { u } }$ do利用式（7）更新主题分配，更新 $n _ { k } ^ { h } , n _ { u , s } ^ { k }$ endendif(iteration> $\mathrm { I _ { b } }$ &&iteration $\mathcal { I } _ { o } \mathrm { I } _ { \mathrm { g } } \mathrm { = } = 0$ ）thencount=count+1;$\begin{array} { l } { { \theta _ { s , u , k } ^ { s u m } = \displaystyle \frac { n _ { u , s } ^ { k } + \alpha _ { k } } { \sum _ { k = 1 } ^ { K } ( n _ { u , s } ^ { k } + \alpha _ { k } ) } \ } } \\ { { \varphi _ { k , h } ^ { s u m } = \displaystyle \frac { n _ { k } ^ { h } + \beta _ { h } } { \sum _ { h = 1 } ^ { H } ( n _ { k } ^ { h } + \beta _ { h } ) } } } \end{array}$ end  
+end
+
+返回参数 $\hat { \theta } = \frac { \theta ^ { s u m } } { c o u n t } , \hat { \varphi } = \frac { \varphi ^ { s u m } } { c o u n t }$
+
+求解线性无约束最优化问题的常用办法是梯度下降法，因此，本文将对式（19）采用多元线性回归进行处理，转换表达式如下：
+
+$$
+f ( x ) = f _ { c } ( x ) = c _ { 1 } \chi _ { 1 } + c _ { 2 } \chi _ { 2 } + c _ { 3 } \chi _ { 3 }
+$$
+
+其中满足：
+
+$$
+\begin{array} { l } { f ( x ) = S _ { u , l , t } } \\ { c _ { 1 } x _ { 1 } = \sigma S _ { u , l , t } ^ { u s e r } , c _ { 2 } x _ { 2 } = \rho S _ { u , l , t } ^ { r e g } , c _ { 3 } x _ { 3 } = \eta S _ { u , l , t } ^ { s u c } } \end{array}
+$$
+
+对于损失函数，有
+
+$$
+L ( c ) = L ( c _ { 1 } , c _ { 2 } , . . . c _ { n } ) = \frac { 1 } { 2 } \sum _ { i = 1 } ^ { n } ( f _ { c } ( x ^ { ( i ) } - y ^ { ( i ) } ) ) ^ { 2 }
+$$
+
+接着便可利用梯度下降法得到最优化参数：
+
+$$
+\begin{array} { l } { \displaystyle \sigma = c _ { 1 } - \frac { 1 } { n } \sum _ { i = 1 } ^ { n } ( f _ { c } ( { x } ^ { ( i ) } - { y } ^ { ( i ) } ) ) x _ { 1 } ^ { ( i ) } } \\ { \displaystyle } \\ { \rho = c _ { 2 } - \frac { 1 } { n } \sum _ { i = 1 } ^ { n } ( f _ { c } ( { x } ^ { ( i ) } - { y } ^ { ( i ) } ) ) x _ { 2 } ^ { ( i ) } } \\ { \displaystyle } \\ { \eta = c _ { 3 } - \frac { 1 } { n } \sum _ { i = 1 } ^ { n } ( f _ { c } ( { x } ^ { ( i ) } - { y } ^ { ( i ) } ) ) x _ { 3 } ^ { ( i ) } } \end{array}
+$$
+
+# 4 实验结果及分析
+
+# 4.1实验数据集
+
+本文实验使用了两个真实签到数据集，Foursquare 和Gowalla。为了保证实验的有效性，去除签到记录数少于5的用户以及被签到数少于80的兴趣点，最终得到的Foursquare数据集包含3067个用户的180544条签到记录，其中兴趣点数量为27564个。Gowalla数据集包含6304个用户的 808172 条签到数据，兴趣点数量为53827个。对Foursquare和Gowalla这两个数据集中的每位用户随机选取其中 $7 5 \%$ 的签到数据作为训练集，余下 $2 5 \%$ 的签到数据作为测试集。
+
+# 4.2评价指标
+
+本文采用两个在推荐算法中应用较为广泛的评价指标：准确率precision $\boldsymbol { \ @ } \mathbf { N }$ 以及召回率recall $\boldsymbol { \ @ } \mathbf { N }$ 。N代表最终推荐结果Top-N下的推荐数量，准确率表示算法推荐结果与用户反馈的契合程度，能够反映推荐的准确性。召回率则被用来评估算法的执行效率，体现的是用户偏好的推荐对象能被推荐的概率，反映推荐的全面性。计算方法为
+
+$$
+p r e c i s i o n @ N = \frac { \sum _ { u \in U } \left| R ( u ) \cap T ( u ) \right| } { \sum _ { u \in U } \left| R ( u ) \right| }
+$$
+
+$$
+r e c a l l @ o N = \frac { \sum _ { u \in U } \left| R ( u ) \cap T ( u ) \right| } { \sum _ { u \in U } \left| T ( u ) \right| }
+$$
+
+其中： $\mathbf { R } ( \mathbf { u } )$ 表示推荐算法在执行训练集后得到的兴趣点推荐列表， $\mathrm { T } ( \mathbf { u } )$ 则表示用户在测试集上的实际签到过的兴趣点列表。
+
+# 4.3实验参数选取
+
+本节旨在选取能使USTTGD模型性能最优化的参数。本文设置主题数 $\scriptstyle 1 = 5 0$ ，时间段为4， $\scriptstyle a = 1$ ， $\beta = 0 . 0 1$ ，根据3.4节所叙述的参数推导方法，选择此时的最优化参数作为本文实验的参数。这些参数的值如表2所示。
+
+表2实验参数值
+
+Table 2.Experimental parameter value   
+
+<html><body><table><tr><td>数据集</td><td></td><td>8</td><td>ε</td><td>0</td><td>P</td><td>n</td></tr><tr><td>Foursquare</td><td>0.2</td><td>0.3</td><td>0.5</td><td>0.4</td><td>0.2</td><td>0.5</td></tr><tr><td>Gowalla</td><td>0.3</td><td>0.2</td><td>0.6</td><td>0.4</td><td>0.3</td><td>0.2</td></tr></table></body></html>
+
+# 4.4实验性能比较
+
+为了验证本文所提出的推荐模型USTTGD的性能，将它与下列几种推荐算法进行实验对比。所对比的推荐算法详细特征如表3所示。
+
+Table 3Recommendation algorithm for comparison   
+
+<html><body><table><tr><td>算法(简称)</td><td>算法描述</td></tr><tr><td></td><td>ULR[8]基于用户的签到记录数据，融入了地理信息来进行推荐。 基于用户的签到记录数据，结合了地理信息和兴趣点间</td></tr><tr><td>UGPLR[13]</td><td>的连续过渡因素来进行推荐。</td></tr><tr><td>FPMCLR[14]</td><td>基于用户的签到记录数据，结合地理信息和个性化马尔 科夫链的因式分解来进行推荐。</td></tr><tr><td>USTTM[7]</td><td>基于概率生成模型，仅利用用户签到记录中的地理信息 和时间信息来捕获用户时间偏好，无任何语义解释。</td></tr><tr><td></td><td>本文所提的推荐算法，基于概率生成模型，综合考虑了 USTTGD用户历史签到行为、时间信息、语义位置信息、地理信</td></tr></table></body></html>
+
+实验1不同兴趣点推荐数量下的算法结果对比
+
+本节实验主要观察各种算法在不同的兴趣点推荐数量(TOP-N)下的结果。将半径 $r$ 和网格边长分别设为 $1 \mathrm { k m } , 0 . 5 \mathrm { k m }$ ，如图5\~8所示，图中的横轴 $N$ 代表了所推荐的兴趣点个数，纵轴precision $@ N$ 和recall@N分别代表在不同推荐兴趣点数量时各推荐算法对应的准确率及召回率。实验中分别设置$\Nu { = } 5$ 、10、15、20，算法中的其余参数均设为满足算法性能最优化时的参数值。本节给出了各类算法在不同兴趣点推荐数量下准确率及召回率的比较结果。
+
+表4Foursquare 数据集中不同 $N$ 值下的推荐性能对比表
+
+Table 4 Recommendation performance comparison table for different   
+
+<html><body><table><tr><td colspan="7">N values in the Foursquare dataset</td></tr><tr><td>算法</td><td colspan="4">precision@N</td><td colspan="3">recall@N</td></tr><tr><td></td><td>@5</td><td>@10</td><td>@15</td><td>@20 @5</td><td>@10</td><td>@15</td><td>@20</td></tr><tr><td>ULR</td><td>0.038</td><td>0.033</td><td>0.03</td><td>0.027</td><td>0.115</td><td>0.14 0.198</td><td>0.226</td></tr><tr><td>UGPLR</td><td>0.046</td><td>0.04</td><td>0.034</td><td>0.031</td><td>0.155</td><td>0.215 0.253</td><td>0.285</td></tr><tr><td>FPMCLR</td><td>0.058</td><td>0.053</td><td>0.046</td><td>0.041</td><td>0.163</td><td>0.223 0.256</td><td>0.288</td></tr><tr><td>USTTM</td><td>0.06</td><td>0.055</td><td>0.047</td><td>0.042</td><td>0.165</td><td>0.225 0.259</td><td>0.292</td></tr><tr><td>USTTGD</td><td>0.063</td><td>0.058</td><td>0.049</td><td>0.045</td><td>0.17</td><td>0.228 0.263</td><td>0.305</td></tr></table></body></html>
+
+![](images/587c63f2a53a737aadebca1bba621ded2a22631aba60f7dbc6919ccbd34862a3.jpg)  
+图6基于Foursquare 的准确率实验对比图  
+Fig.6Precision experimental comparison based on Foursquare
+
+表3比较的推荐算法  
+
+<html><body><table><tr><td colspan="7">differentNvaluesin Gowalladataset</td></tr><tr><td>算法</td><td colspan="4">precision@N</td><td colspan="3">recall@N</td></tr><tr><td></td><td>@5</td><td>@10</td><td>@15</td><td>@20</td><td>@5 @10</td><td>@15</td><td>@20</td></tr><tr><td>ULR</td><td>0.047</td><td>0.032</td><td>0.022</td><td>0.016</td><td>0.21 0.24</td><td>0.27</td><td>0.31</td></tr><tr><td>UGPLR</td><td>0.065</td><td>0.053</td><td>0.047</td><td>0.041</td><td>0.27 0.31</td><td>0.33</td><td>0.37</td></tr><tr><td>FPMCLR</td><td>0.068</td><td>0.056</td><td>0.051</td><td>0.045</td><td>0.29 0.33</td><td>0.35</td><td>0.4</td></tr><tr><td>USTTM</td><td>0.069</td><td>0.057</td><td>0.051</td><td>0.046</td><td>0.3 0.35</td><td>0.38</td><td>0.42</td></tr><tr><td>USTTGD</td><td>0.073</td><td>0.061</td><td>0.054</td><td>0.049</td><td>0.33</td><td>0.38 0.42</td><td>0.46</td></tr></table></body></html>
+
+![](images/b4adfcf325c116e837c7bbc76220df7c9c0314a6df5dd2ec8cac99040f6fc5d2.jpg)  
+图7基于Foursquare 的召回率实验对比图  
+Fig.7Recalling rate experimental comparison based on Foursquare   
+Fig.8Precision experimental comparison based on Gowalla
+
+从实验1结果可以看出：
+
+a)随着top $. N$ 值的增加，各类算法的准确率均会有所下降，这是因为随着推荐数量的增多会增加模型的时间复杂度。
+
+但召回率均有所提升。
+
+b)UGPLR、FPMCLR、USTTM、USTTGD与ULR相比在性能上均有了较为明显的提升。这说明考虑多种情境因素相比仅考虑单一地理因素，对传统推荐算法性能的提升会起到更明显的作用。
+
+c)USTTGD 相比USTTM，在算法性能上有了进一步的提升，这说明基于用户语义位置信息的建模能获得更精确的推荐效果，而USTTM仅仅只是利用简单的地理坐标来挖掘时间主题，但相对于另外三种推荐算法，在推荐性能上也具有了足够的优势。
+
+表5Gowalla数据集中不同N值下的推荐性能对比表
+
+![](images/325ad95c66485cbab209b01c3aacf2dc928a956df4f5e7b9f335218dac15e957.jpg)  
+图8基于Gowalla的准确率实验对比图
+
+![](images/f48d05da872c46b97099ae01193df157dffb290621da6efca3df75f1db64d8ed.jpg)  
+图9基于Gowalla的召回率实验对比图  
+Fig.9Recalling rate experimental comparison based on Gowalla
+
+实验结果表明，本文算法USTTGD相对于另外四种推荐算法，无论是在准确率还是召回率上，算法性能明显更好。
+
+实验2不同签到时间间隔下的算法结果对比
+
+本节实验主要观察各种算法在不同的连续签到时间间隔(t)下的结果。将半径 $\boldsymbol { r }$ 和网格边长分别设为 $1 \mathrm { k m } , 0 . 5 \mathrm { k m }$ ，将τ值分别设为1、2、3、6小时，实验结果如表6、7及图10\~13所示。
+
+Table 5Table of recommendation performance comparisons for   
+表6Foursquare 数据集中不同τ值下的推荐性能对比表Table 6Table of recommendation performance comparisons for  
+
+<html><body><table><tr><td rowspan="2" colspan="2">算法 评价指标</td><td colspan="4">diiferenttVaiuesinFoursquaredataset</td></tr><tr><td>1</td><td>t(小时) 2</td><td>3</td><td>6</td></tr><tr><td rowspan="2">ULR</td><td>precision@10</td><td>0.028</td><td>0.025</td><td>0.023</td><td>0.019</td></tr><tr><td>recall@10</td><td>0.22</td><td>0.18</td><td>0.17</td><td>0.13</td></tr><tr><td rowspan="2">UGPLR</td><td>precision@10</td><td>0.041</td><td>0.035</td><td>0.03</td><td>0.024</td></tr><tr><td>recall@10</td><td>0.26</td><td>0.23</td><td>0.2</td><td>0.18</td></tr><tr><td rowspan="2">FPMCLR</td><td>precision@10</td><td>0.046</td><td>0.039</td><td>0.033</td><td>0.027</td></tr><tr><td>recall@10</td><td>0.27</td><td>0.24</td><td>0.21</td><td>0.19</td></tr><tr><td rowspan="2">USTTM</td><td>precision@ 10</td><td>0.049</td><td>0.042</td><td>0.035</td><td>0.028</td></tr><tr><td>recall@10</td><td>0.29</td><td>0.26</td><td>0.23</td><td>0.2</td></tr><tr><td rowspan="2">USTTGD</td><td>precision@10</td><td>0.054</td><td>0.045</td><td>0.039</td><td>0.033</td></tr><tr><td>recall@10</td><td>0.34</td><td>0.29</td><td>0.27</td><td>0.25</td></tr></table></body></html>
+
+![](images/8e556b6c80dc86666e83e3cd028af7dae95119f5ceaf72a4b0b0455f1d466912.jpg)  
+图10基于Foursquare的准确率实验对比图
+
+![](images/883f72f15c222aa01e1e03077d5789a0e4f35ad498d2ac721fb4176a4153f43b.jpg)  
+图11基于Foursquare
+
+Fig.10 Precision experimental comparison based on Foursquare 表7Gowalla数据集中不同 $\boldsymbol { \tau }$ 值下的推荐性能对比表
+
+Table 7Table of recommendation performance comparisons for differentt values in Gowalla dataset   
+
+<html><body><table><tr><td rowspan="2">算法</td><td rowspan="2">评价指标</td><td colspan="4">t(小时)</td></tr><tr><td>1</td><td>2</td><td>3</td><td>6</td></tr><tr><td rowspan="2">ULR</td><td>precision @10</td><td>0.015</td><td>0.013</td><td>0.012</td><td>0.01</td></tr><tr><td>recall@10</td><td>0.23</td><td>0.17</td><td>0.12</td><td>0.07</td></tr><tr><td rowspan="2">UGPLR</td><td>precision @ 10</td><td>0.038</td><td>0.035</td><td>0.033</td><td>0.031</td></tr><tr><td>recall@10</td><td>0.39</td><td>0.28</td><td>0.2</td><td>0.15</td></tr><tr><td rowspan="2">FPMCLR</td><td>precision @ 10</td><td>0.047</td><td>0.043</td><td>0.038</td><td>0.036</td></tr><tr><td>recall@10</td><td>0.45</td><td>0.37</td><td>0.25</td><td>0.19</td></tr><tr><td rowspan="2">USTTM</td><td>precision @ 10</td><td>0.048</td><td>0.046</td><td>0.039</td><td>0.038</td></tr><tr><td>recall@10</td><td>0.47</td><td>0.37</td><td>0.26</td><td>0.21</td></tr><tr><td rowspan="2">USTTGD</td><td>precision @ 10</td><td>0.054</td><td>0.05</td><td>0.043</td><td>0.041</td></tr><tr><td>recall@10</td><td>0.52</td><td>0.41</td><td>0.3</td><td>0.26</td></tr></table></body></html>
+
+![](images/185eba81d2b0ee47c855b74bad0f71360d0a65c04d07a61b59e51686a0826445.jpg)  
+的召回率实验对比图  
+图12基于Gowalla的准确率实验对比图  
+Fig.12Precision experimental comparison based on Gowalla
+
+![](images/204aafffa01fc9b99be108f45a2dc05ff27f7dcdaaa7b0a3e62eb1463d17c791.jpg)  
+Fig.11 Recalling rate experimental comparison based on Foursquare   
+图13基于Gowalla 的召回率实验对比图  
+Fig.13Recallingrate experimental comparison based on Gowalla
+
+通过实验2结果可以看出，随着时间阈值(t)约束条件的增加，各类算法的推荐精度和召回率均会降低。这是由于当时间间隔增大时，用户可能会移动到离当前所在的兴趣点较远的位置，从而降低连续兴趣点推荐的性能。因此，控制好时间间隔对于模型的预测效果也有着重要的意义。
+
+# 5 结束语
+
+本文利用用户在LBSN中的历史签到记录，提出了一种统一兴趣点推荐模型，首先根据时间分割LDA模型对用户语义位置信息建模，接着引入时间变量可在单个LDA模型中生成时间主题，缓解了之前的数据稀疏性问题。然后通过建立网格来结合区域影响因素和兴趣点间连续过渡因素，最终向用户产生推荐。实验结果表明，本文所提新型模型有效
+
+地融合了多种情境因素，并且在各项性能评价指标上均优于现有的主流推荐算法。下一步的研究工作是深入挖掘用户签到数据中的其他属性，以达到更优的推荐效果。
+
+参考文献：   
+[1] Chen Lingjiao,Gao Jian.A trust-based recommendation method using network diffusion processes [J].Physica A: Statistical Mechanics and its Applications,2018,506(9): 679-691.   
+[2]Yang Carl,Bai Xiaolan, Zhang Chao,et al. Bridging collaborative filtering and semi-supervised learning:a neural approach for POI recommendation[C]//Proc of ACM SIGKDD International Conference onKnowledge Discovery and Data Mining. Neew York:ACM Press,2017   
+[3]Zhang Dachuan，LiMei，Wang Changdong.Pointof interest recommendation with social and geographical influence[Cl/Proc of IEEE International Conference on Big Data.2017   
+[4]Hu Bo,Mohsen Jamali,Martin Ester.Spatio-temporal topic modeling in mobile social media for location recommendation[C]//Proc of the 13th International Conference on Data Mining. 2013:1073-1078.   
+[5]LiHuayu,Ge Yong，Hong Richang，et al.point-of-interest recommendations: learning potential check-ins from friends[C]//Proc of the 22 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. NewYork: ACM Press,2016: 975-984.   
+[6]LiHuayu,Hong Richang，Wu Zhiang，et al. Spatial-temporal probabilistic matrix factorization for point-of-interest recommendation[C]/Proc of SIAM International Conference on Data Mining.2016:117-125.   
+[7]Ference G, Ye Mao,Lee Wangchien.Location recommendation for out-of-town users in location-based social networks[C]//Proc of the 22nd ACM international conference on Information & Knowledge Management.New York:ACMPress,2013:721-726.   
+[8]Yin Hongzhi, Zhou Xiaofang,Shao Yingxia,et al.Joint modeling of user behaviors for point-of-interest recommendation[C]/Proc of the 24th ACM International on Conference on Informationand Management.New York:ACM Press,2015:1631-1640.   
+[9]Wang Weiqing，Yin Hongzhi，Chen Ling，et al,Geo-sage:a geographical sparse additivegenerate model forspatial item recommendation[C]/Proc of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.New York: ACM Press,2015:125-126.   
+[10] Leskovec J,Krevl A. Snap datasets: stanford large network dataset collect[DB/OL]. (2014-06). http:/snap.stanford. edu/data.   
+[11] He Jing,Li Xin,Liao Lejian,et al.Inferring a personalized next point-of-interestrecommendationmodelwithlatentbehavior paterns[C]/Proc of the 30th AAAI Conference on Artificial Intelligence. 2016.   
+[12] Yang Dingqi,Zhang Daqing,Zheng V W,et al,Modeling activity preference by leveraging spatial-temporal characteristic[J]. IEEE Trans on System Man and Cybernetics, Systems,2015,45(1):129-14.   
+[13]任星怡，宋美娜，宋俊德．基于用户签到行为的兴趣点推荐[J].计 算机学报,2017,35(1):28-51.(Ren Xingyi, Song Meina, Song Junde. Recommendation of points of interest based on user check-in behavior [J].Journal of Computer Science,2017,35(1): 28-51.)
+
+[14]袁适之，李晶，李石君,等．一种基于位置社交网络的地点推荐算法
+
+[J]．计算机应用研究,2016,33(7):2003-2006.(Yuan Shizhi,Li Jing, Li Shijun,et al.Alocation recommendation algorithm based on location social network [J].Application Research of Computers,2016,33(7): 2003-2006.)   
+[15]任看看，钱雪忠．协同过滤算法中的用户相似性度量方法研究[J]. 计算机工程,2015,41(8):18-22.(Ren Kankan,Qian Xuezhong.User similarity measurement in collborative filtering algorithms[J]. Computer Engineering,2015,41(8): 18-22.)   
+[16] Xie Wenlei,Bindel D,Demers A,et al.Edge-weighted personalized PageRank:breaking a decade performance barrier[C]//Proc of ACM International Conference on Knowledge Discovery and Data Mining, New York:ACMPress,2015.   
+[17] Zhang Wei,Wang Jianyong.Location andtimeawaresocial collaborative retrieval for successive point-of-interest recommendation[C]//Proc of the 24th ACM International on Conference on Information and Knowledge Management.New York:ACM Press, 2015:1221-1230.   
+[18] Zhao Shenglin,Zhao Tong,Yang Haiqin,et al. Stellar: spatial-temporal latent ranking for successive point-of-interest recommendation[C]//Proc of the 3Oth AAAI Conference on Artificial Intelligence,2016.   
+[19] Lichman M, Smyth P.Modeling human location data with mixtures of kernel densities[C]//Proc of the 2Oth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.New York: ACM Press,2014,:35-44.

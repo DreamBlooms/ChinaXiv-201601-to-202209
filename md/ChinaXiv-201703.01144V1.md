@@ -1,0 +1,151 @@
+# 阴极保护电绝缘装置内腐蚀穿孔分析
+
+李循迹¹宋文文²周理志毛仲强4田鹏
+
+（1 中国石油塔里木油田分公司新疆库尔勒841000 2.中国石油塔里木油田分公司油气工程研究院新疆库尔勒841000 3.中国石油塔里木油田分公司开发处新疆库尔勒841004.中国石油塔里木油田分公司开发事业部新疆库尔勒841000 5.中国石油塔里木油田分公司库车油气开发部新疆库尔勒841000)
+
+摘要;为防止油气田埋地钢质集输管道外壁腐蚀，目前普遍采用外防腐层加阴极保护的联合防腐措施，该措施有效地防止了管道外壁防腐层破损、缺陷处腐蚀的发生与发展。但当管道输送介质中含有较多高矿化度采出水时，阴保系统的电绝缘装置（绝缘接头、绝缘法兰）时常在非保护侧发生内腐蚀穿孔，严重影响了埋地钢质管道的安全运行。本文中，通过研究阴极保护中电绝缘装置内腐蚀的形貌、位置、穿孔速度，发现了绝缘装置内腐蚀的规律；用电化学等效电路法分析了电绝缘装置非保护侧发生内腐蚀穿孔的原因、影响因素与程度、充要条件，并提出了防止绝缘装置内腐蚀穿孔的理论依据和技术措施。
+
+关键词：阴极保护电绝缘装置内腐蚀穿孔等效电路涂层缺陷防止措施中图分类号：TG174文献标识码：A
+
+# Analysis of Internal Corrosion Perforation of ElectricalInsulating Devices in Cathodic Protection
+
+Li Xunji', Song Wenwen², Zhou Lizhi³,Mao Zhongqiang4, Tian Peng
+
+(1.PetroChinaTriOileldCompanyKorla,Xijang8o;ResearchIstituteofOilandGasngineeringofetrori   
+OilfieldCmorlingo;lotrtofoiOldKlai; 4.DepartmentofdevelopmentofPetroChinaTarimOilfieldCompany,Korla,Xinjiang 841oo;5.KuqaOilandGasDevelopment Departmentof PetroChinaTarim Oilfield Company,Korla,Xinjiang 841000)
+
+Abstract: In order to prevent the outer surface of buried steel pipelines in oil and gas fields from corrosion,the combination of external coating andcathodic protection (CP） is widely used nowadays.It can effectively avoid the occurrence and development of corrosion at external coating defects on pipelines.However,electrical insulating devices in CP system are often found heavily corrodedwhen large amounts of high salinity produced water exist in oil-gas gathering pipelines.Internal corrosion， sometimes even perforation， threats the safety operation of pipelines.In this work, the mechanismof electrical insulating device corrosion is discoveredby studying the morphology, the location,and the corrosion speed of internal corrosion.The causes, the influence factors,and necessary and sufficient conditions for internal corrosion are analyzed by equivalent circuit method as well. The theoretical basis and the technical measures of internal corrosion perforation are put forward in this article, too.
+
+Key words: cathodic protection， electrical insulating devices, internal corrosion perforation, equivalent circuit, coating defect, prevention measures
+
+# 1前言
+
+为防止油气田埋地集输管道和长输管道的外壁腐蚀，按照相关标准的要求[1,2]，对它们均需采用外防腐层加阴极保护的联合防腐措施。所采用的阴极保护方式多为外加电流式阴极保护，有时也采用以外加电流式为主、牺牲阳极式为辅的联合保护方式。在阴极保护系统中，被保护管道（段）与非保护管道（段）之间的电绝缘是必不可少的，如果没有符合要求的电绝缘[34]，一方面会导致设计的阴极保护电流流向本未纳入保护范围的其他地下金属设施，造成设计选型的极化电源容量不足等；另一方面很容易导致邻近地下金属设施的直流杂散电流腐蚀。直流杂散电流腐蚀的腐蚀速度要比自然状态下的腐蚀速度高，危害大[5]。如果没有电绝缘，埋地钢制管道难以实现全线有效的阴极保护效果；甚至是不经济、不可行的。
+
+阴极保护系统中的电绝缘装置有绝缘接头、绝缘法兰、绝缘短管等多种形式[3.4]。塔里木油田埋地集输管道的阴极保护系统中，电绝缘装置大部分采用整体式绝缘接头，有小部分采用绝缘法兰。在实际使用工程中，电绝缘装置多次发生过内腐蚀穿孔，而且在其他油气田也曾发生过类似情况[。由于电绝缘装置在油气田集输管道中应用数量众多，关系到站场，管道的完整性，阴极保护中电绝缘装置的内腐蚀穿孔问题越来越引起了人们的关注与探究[7-9]。通过研究阴极保护中电绝缘装置内腐蚀穿孔的诸多现象，发现了这些现象的规律，用等效电路法分析了发生腐蚀穿孔的原因，提出了防止内腐蚀穿孔的技术措施。
+
+# 2电绝缘装置发生内腐蚀穿孔的规律
+
+塔里木油田某进站集气干线的绝缘接头曾发生内腐蚀穿孔。进入该集气干线的其中三口井的物料特点如表1所示：
+
+表1集气干线内的含水量及矿化度  
+Table1Water content and salinity of gas collecting pipe   
+
+<html><body><table><tr><td>Well No.</td><td>Liquid yield(t/d)</td><td>Water yield (t/d)</td><td>Water content(%)</td><td>Total mineralization degree(mg/L)</td></tr><tr><td>1#</td><td>334</td><td>224.4</td><td>67.2</td><td>2.09×10</td></tr><tr><td>2#</td><td>94</td><td>16.2</td><td>17.2</td><td>1.97×105</td></tr><tr><td>3#</td><td>159</td><td>50.9</td><td>32.0</td><td>2.11×105</td></tr></table></body></html>
+
+<html><body><table><tr><td>总计</td><td>587</td><td>291.5</td><td>49.7</td><td>/</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+由表1可见，绝缘接头所在的集气干线内的油气含水量高，水的矿化度高。当绝缘接头底部出现沉积水时，可将绝缘环板两侧的金属短节管通过离子导体短接。绝缘接头金属短节管的壁厚约 $1 6 \mathrm { m m }$ ，投入使用不到7个月便发生了内腐蚀穿孔，折算点蚀速度约 $2 9 \mathrm { { m m } / \mathrm { { a } } }$ 。如此之高的腐蚀速度显然不是 $\mathrm { C O } _ { 2 }$ 、 $\mathrm { H } _ { 2 } \mathrm { S }$ 等引起的自然腐蚀所能达到的。内腐蚀形貌如图1所示。由图1可见：
+
+![](images/bf8187ef3ca6dcf6c849ddd086b7c1792cfef7cd059dfc568be9fdbe41baf025.jpg)  
+图1进站集气干线绝缘接头内壁腐蚀形貌
+
+Fig.1Corrosion morphology of inner wall of insulation joint of gas gathering trunk line
+
+以绝缘接头中的绝缘环板为分界，两侧的内表面状况反差明显：靠近绝缘环板的非保护侧底部有大量分布密集的腐蚀坑，蚀坑呈圆形，蚀坑的内表面光滑，无腐蚀产物附着、沉积，具有典型的直流杂散电流腐蚀形貌。绝缘环板的另一侧（保护侧）内表面侧没有明显的腐蚀。腐蚀穿孔的位置处于绝缘接头非保护侧的底部。
+
+塔里木油田某出站埋地输油管线绝缘接头在不到两年半的时间内曾发生三次内腐蚀穿孔[9]。输送物料中平均含水量为 $1 . 1 \%$ ，水的矿化度高且呈弱酸性，物料呈层流状态，在低洼地段存在沉积水。穿孔位置集中在绝缘接头非保护侧的底部5点钟至7点钟之间。内腐蚀坑的形状、内表面状况与图2相似。由穿孔处漏出的液体大部分为水；说明绝缘接头附近的底部有大量的高矿化度沉积水存在。但在远离绝缘接头的管道底部，均未出现过穿孔速率如此之高、穿孔位置如此集中的现象。
+
+塔河油田7-2计转站TK633单井进站管线绝缘法兰非保护侧也曾发生过内腐蚀穿孔[6],其腐蚀形貌如图2所示：
+
+![](images/687d8d99a3df4417b6bac5c42b7c5b5d1c0fcfd9b87dcaf4be0b149856bd5f89.jpg)  
+图2塔河油田单井进站管线绝缘法兰内壁腐蚀形貌
+
+Fig.2Corrosion morphology of inner wall of insulation flange of single well pipeline of
+
+Taheoil field
+
+输送物料含水，折算穿孔速率约为 $4 \mathrm { { m m } / \mathrm { { a } } }$ ；蚀坑集中在绝缘接头非保护侧，呈圆形，蚀坑内光滑，无腐蚀产物沉积、附着。而保护侧的管道内表面则无明显腐蚀。远离绝缘接头的两侧的管道均未发生内腐蚀穿孔。
+
+通过对阴极保护系统中电绝缘装置内腐蚀穿孔现象的研究，发现这些现象的发生有如下规律： $\textcircled{1}$ 电绝缘装置所在的管道输送的物料中都含有高矿化度的水，而且，在绝缘接头（法兰）的底部都有沉积水相存在； $\textcircled{2}$ 内腐蚀穿孔的位置都集中在非保护侧，而且，都集中在底部，越靠近绝缘环板处腐蚀越严重； $\textcircled{3}$ 这些腐蚀穿孔的速率，明显高于 $\mathrm { C O } _ { 2 }$ 或 $\mathrm { H } _ { 2 } \mathrm { S }$ 或二者共存时的自然腐蚀速率； $\textcircled{4}$ 腐蚀形貌特殊，蚀坑呈圆形，边缘清晰，蚀坑内表面光洁，无腐蚀产物沉积、附着，具有典型的直流杂散电流腐蚀形貌特征。
+
+# 3电绝缘装置发生内腐蚀穿孔的原因
+
+对埋地集输管道保护侧施加阴极保护时，阴极保护电流由极化电源的正极经阳极电缆流向辅助（深井）阳极，再由辅助（深井）阳极经大地流向被保护管道（阴极极化电流)，沿金属管壁流向汇流点，经阴极电缆返回极化电源的负极，形成完整的回路；极化电源输出的电流和返回的电流大小相等。在这一过程中，在阴极极化电流的作用下，金属管道的外壁发生阴极极化，被保护对象的管/地电位通常控制在 ${ \cdot 0 . 8 5 } { \sim } 1 . 2 \mathrm { V }$ （相对 $C U / C U S O _ { 4 }$ 参比电极）[1]。绝缘接头保护侧的管道可视为连续的金属导体，其电阻率较低，约为 $1 \times 1 0 ^ { - 5 } \Omega \cdot \mathrm { c m }$ ；管道底部形成连续的沉积水相时，沉积水电阻率较高，约为 $2 { \times } 1 0 \Omega { \cdot } \mathrm { c m }$ ，二者电阻率相差约4个数量级，于保护侧管道外部施加的阴极保护电流，只能沿金属管壁（电子良导体）流向汇流点，并不会进入沉积水相（离子导体）流动。也就是说，阴极保护电流只能保护侧管道的外壁的电位，而不可能改变保护侧管道内壁的电位。
+
+在绝缘接头及其两侧的底部没有高矿化度沉积水相的情况下，由于绝缘接头的作用，保护侧和非保护侧之间不能形成电子通路，非保护侧管道得不到阴极极化电流，故非保护侧管道的管/地电位不会发生改变，仍保持在自然电位状态。
+
+在绝缘接头及其两侧管道的底部存在高矿化度沉积水相的情况下，即使绝缘接头的电绝缘性能合格，即，绝缘电阻 $R \mathcal { \geq } 1 0 \mathrm { M } \Omega ^ { [ 3 ] }$ ，但高矿化度的沉积水可将本来已处于电绝缘状态的保护侧和非保护侧借助离子导体而导通，使得非保护侧管道因此而获得阴极保护电流。非保护侧的阴极保护电流也要返回极化电源的负极，在绝缘接头处，电子路径的电阻增大( $. R i$ $\geqslant 1 0 \mathrm { M } \Omega$ ）而且 $R i \rangle R w$ ，阴极保护电流的返回路径因此而发生改变：由非保护侧的电子导体（管道）流入离子导体（沉积水相)，通过离子导体进入保护侧，再由保护侧的离子导体流向保护侧的管体，沿保护侧管体流向汇流点，返回极化电源的负极。阴极保护电流流动路径示意图及其等效电路分别如图3和4所示：
+
+![](images/d3e0ca8b994fc4e3420421abb842a5de95598f7e8b07c1bef9c0efa6b376ede7.jpg)  
+图3非保护侧电流流动路径示意图
+
+Fig.3Schematic diagram of non protective side current flow path
+
+![](images/66278c609760bd668570057b925fbec941faa529c09f901d8c77fa5ee7700e38.jpg)  
+图4非保护侧电流流动路径等效电路  
+Fig.4 Equivalent circuit of non protected side current flow path
+
+图5中 $R i$ 为绝缘接头的绝缘电阻； $R i \ge 1 0 \mathrm { M } \Omega$ ; $R _ { m I }$ ， $R _ { m 2 }$ 分别为保护侧、非保护侧管体的电阻； $R w$ 为非保护侧阴极保护电流流经的沉积水（离子导体）的电阻。由电流方向可知，绝缘接头内壁A区域电位正于其内壁C区域电位，由其内壁A区域流向沉积水的电流为阳极电流，该阳极电流导致其流出区域的金属发生电解，加速A区域的阳极溶解(腐蚀)。溶解的金属质量遵循法拉第定律，式中 $M$
+
+$$
+\scriptstyle { M = K Q = K I T }
+$$
+
+为阳极溶解的金属质量； $K$ 为常数（电化当量)； $\boldsymbol { \mathcal { Q } }$ 为通过的电量； $I$ 为电量强度； $t$ 为电流I作用的时间。显然，由非保护侧内壁A区域流向沉积水的电流强度越大、电流流过的时间越长，A区域溶解的金属质量越大，非保护侧的电解腐蚀量越多。
+
+在该电量的作用下，A区域阳极溶解（腐蚀）的加速程度与该区域的阳极极化值 $\varDelta E$ 、阳极溶解的塔菲尔斜率 $\beta _ { a I }$ 有关。A区域没有电流流出时的腐蚀电位为 $E _ { I }$ ，有电流流出时的腐蚀电位为 $E _ { 2 }$ ，阳极极化值 $\varDelta E { = } E _ { 2 } { - } E _ { I } { > } 0$ ;没有电流流出时(自然腐蚀)的腐蚀速度为 $I _ { c o r r I }$ ，有电流流出时（加速腐蚀）的腐蚀速度为 $I _ { c o r r 2 }$ ，两者的比值为：
+
+$$
+\gamma _ { 1 } = \frac { I _ { c o r r 2 } } { I _ { c o r r 1 } } = \exp ( \frac { \Delta E } { \beta _ { \alpha 1 } } ) > 1
+$$
+
+故，A区域的腐蚀速度因有电流的流出而增大。若 $\beta _ { a l } { = } 2 6 \mathrm { m V }$ ，阳极极化值 $\varDelta E { = } 5 0 \mathrm { m V }$ 时， $\gamma _ { I } { = } 6 . 8 4 2$ ，即电流由A区域流出，导致该区域产生 $5 0 \mathrm { m V }$ 阳极极化值时，A区域的腐蚀加速为原来的自然腐蚀的六倍多。
+
+非保护侧A区域流出同样的电量，对穿孔速度的影响取决于A区域面积的大小。对碳钢类管道而言，经换算可得：
+
+$$
+1 \mathrm { { m A / c m } ^ { 2 } { \cdot a } = 1 1 . 7 \mathrm { { m m / a } } }
+$$
+
+即，在 $1 \mathrm { c m } ^ { 2 }$ 的面积上每年流出1mA 的阳极电流，可在 $1 \mathrm { c m } ^ { 2 }$ 的面积上产生每年 $1 1 . 7 \mathrm { m A }$ 的腐蚀深度。电流流出的A区域面积越小，电流密度越高，局部腐蚀速率越高，发生内腐蚀穿孔的周期越短。电流流出的A区域面积的大小与绝缘接头内壁涂层的等级与质量密切相关。
+
+由非保护侧A区域流入沉积水、再流入保护侧C区域的电流，对保护侧内壁而言，该电流为阴极极化电流，可抑制C区域的自然腐蚀速度。而A区域流出的电流为阳极电流，阳极电流加速电流流出部位的腐蚀，故，绝缘装置底部有沉积水相时，内腐蚀穿孔的位置总是发生在非保护侧，并且，总是发生在其底部。
+
+# 4防止电绝缘装置内腐蚀穿孔的措施
+
+电绝缘装置底部的高矿化度沉积水相的存在是电绝缘装置发生内腐蚀穿孔的必要条件之一。在电绝缘装置安装时，应结合管道高程图，在保证电绝缘装置所承受的最大弯矩不低于相连管道所承受的弯矩前提下，尽量安装在不易形成沉积水相的位置。
+
+沉积水相属离子导体相，其电阻与截面积成反比。定期（经常）对集输管道进行清管作业，减小离子导体相的纵向截面积，可增大离子路径的电阻，显著减小由非保护侧流入离子导体相的阳极电流，减缓非保护侧的腐蚀速度。
+
+电绝缘装置非保护侧附近流入离子导体相的阳极电流密度大小决定非保护侧流出部位的局部腐蚀（穿孔）速率。应在出厂前和使用前按标准[3中的第8.4.2和8.4.3条对内涂层进行严格检测；并做相应的有效处理，直至合格。
+
+电绝缘装置非保护侧附近流入离子导体相的阳极电流，或阳极电流密度，其大小取决于非保护侧管道获得的阴极保护电流的大小。故，（深井）阳极地床不应设在距电绝缘装置非保护侧管道较近的位置；同时，电绝缘装置非保护侧10米内的管道外壁，应做特加强级防腐层[10]。减小或杜绝阴极电流流入非保护侧管道。
+
+# 5结论
+
+埋地集输管道阴极保护系统中电绝缘装置发生内腐蚀穿孔的充分必要条件是同时存在如下的三个因素：在电绝缘装置的底部有高矿化度的沉积水相存在；非保护侧管道获得了阴极保护电流；电绝缘装置的内涂层有局部缺陷。
+
+电绝缘装置发生内腐蚀穿孔的部位一定在非保护侧；并且总是发生在底部。
+
+电绝缘装置发生内腐蚀穿孔的周期取决于非保护侧管道获得的阴极保护电量的大小，即，由非保护侧内壁流入沉积水相的电流的大小和作用时间的长短；取决于离子导体相的纵向截面积的大小；取决于内涂层的破损、缺陷面积的大小。
+
+改变电绝缘装置发生内腐蚀穿孔的充分必要条件可防止其内腐蚀穿孔，即，改变安装位置、经常清管、内涂层质量检测与控制、改变阳极地床位置与非保护侧采用特加强级外防腐层等。
+
+# 参考文献：
+
+[1] GB/T21448-2008.Technical specification for cathodic protection of buried steel pipeline[S]   
+GB/T21448-2008.埋地钢质管道阴极保护技术规范[S]   
+[2] GB/T21447-2008.Specification for control of external corrosion of steel pipelines[S]   
+GB/T21447-2008.钢质管道外腐蚀控制规范[S]   
+[3] SY/TO516-2oo8.Technical specification for insulating joints and insulating flanges[S]   
+SY/T0516-2008.绝缘接头与绝缘法兰技术规范[S]   
+[4] SY/0o86-2003.Standard for electrical insulation of cathodic protection[S]   
+SY/0086-2003.阴极保护管道的电绝缘标准[S]   
+[5] Cao C N. Principle of corrosion electrochemistry[M].Beijing: Chemical Industry Press,1985   
+曹楚南．腐蚀电化学原理[M].北京：化学工业出版社，1985   
+[6] Tang S, Cai Q F. He X L. Analysis on the factors of corrosion perforation in the vicinity of   
+insulation flange for Tahe oil field gathering pipeline[J].Petrol.Nat. Gas Chem.Ind.,2008.37(2):   
+156   
+汤晟，蔡奇峰，何小龙.塔河油田集输管线绝缘法兰附近内腐蚀穿孔因素分析[J] 石油与天然   
+气化工，2008,37（2)：156   
+[7] Zhong F R. Insulation flange leakage problem[J].OilGas StorageTransport.,   
+2000,19(9):40   
+钟富荣.绝缘法兰漏电问题[J].油气储运，2000,19（9)：40   
+[8] Chen L Q, Dong H T, Chen C F,et al. The finite element analysis of corrosion failure in   
+cathodic protection insulation joint due to leakage[J].Corros.Sci.Prot.Technol.,2010,22(5):452   
+陈立强，董海涛，陈长风等．漏电导致阴极保护绝缘接头内腐蚀失效的有限元分析[J].腐蚀   
+科学与防护技术，2010,22（5)：452
+
+[9] Zhou W J. Zhang Y, Jin Y, Zhang F. Cause analysis of corrosion in oil pipeline insulationflange[J].Pipeline Technol.Equip., 2015,(1) 49周卫军，张瑶，金焱等.输油管道绝缘法兰附近内腐蚀原因分析[J).管道技术与设备，2015，(1）49[10] SY0o07-1999.The engineering design code of corrosion control of steel pipeline and storagetank[S]SY0007-1999.钢质管道及储罐腐蚀控制工程设计规范[S].作者简介：李循迹，1961年生，男，教授级高级工程师，硕士通讯作者：宋文文油田化学技术工作。Email:songww-tlm@petrochina.com.cn

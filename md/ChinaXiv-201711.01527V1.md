@@ -1,0 +1,198 @@
+饲粮不同能量来源对断奶仔猪肠道黏膜功能的影响李　雪1.2田长鑫²王小城² 熊霞2\* 印遇龙1,2\*（1.湖南农业大学动物科学技术学院，长沙 410128；2.中国科学院亚热带农业生态研究所，中国科学院亚热带农业生态过程重点实验室，长沙 410125)
+
+摘 要：仔猪早期断奶常常导致仔猪能量摄入不足，使肠道黏膜细胞处于“饥饿状态”，影响仔猪正常的肠道功能，从而加剧断奶应激，因此满足肠道黏膜细胞的能量供给至关重要。
+
+本文就谷氨酰胺(GIn)、葡萄糖(Glu)、脂肪这3 种肠黏膜细胞主要的供能物质来分别论述它
+
+们对于断奶仔猪肠道黏膜功能的影响。
+
+关键词：断奶仔猪；谷氨酰胺；葡萄糖；脂肪；肠道黏膜功能中图分类号：S816 文献标识码：A 文章编号：
+
+生产中为了增加经济效益，避免疾病交叉感染，通常对仔猪实行早期断奶 $( 3 { \sim } 4$ 周龄),然而早期断奶的仔猪常出现“仔猪早期断奶综合征”，表现为拒食厌食、腹泻水肿、消化机能紊乱、饲料利用率低、生长迟滞等不良现象[1]。研究表明，对断奶11d后的仔猪进行肠道形态学分析发现，其小肠绒毛高度降低，隐窝深度增加，并且上皮细胞分泌的蔗糖酶和乳糖酶活性显著下降，这些变化都会影响肠道吸收营养物质的能力[2]。  
+肠道营养尤其是小肠黏膜细胞的能量营养在动物营养中起着非常重要的作用，它不仅是保障肠道正常发育的基础，也是机体所有生命生理活动的能量源泉。有研究表明，肠道黏膜细胞的内源性饥饿是引起很多肠道疾病的最根本原因，而断奶应激往往会使黏膜细胞处于“饥饿"状态。因而，保证肠道黏膜细胞营养充足是缓解断奶应激反应、减少仔猪断奶期间各种肠道疾病的最基本保障[3]。饲粮中肠道能量来源供给物质主包括氨基酸、葡萄糖(glucose,Glu)和脂肪这3大类物质，而研究表明猪的门静脉排流组织（partal-drainedviscera,PDV）能大量利用饲粮中谷氨酰胺(glutamine,Gln)、谷氨酸和天冬氨酸，而Gln 是肠道中主要的氧化供能氨基酸[4]。因而GIn、Glu 和脂肪这3种物质作为肠道主要的氧化供能
+
+物质，都能够起到营养肠道黏膜细胞和保障断奶仔猪肠道黏膜功能的作用。
+
+# 1能量与小肠黏膜
+
+# 1.1小肠黏膜的结构与功能
+
+小肠黏膜是机体内外环境物质交流的主要场所，可分为上皮、固有膜和黏膜肌层3层，主要由小肠黏膜上皮细胞和分散其间的杯状细胞组成[5]。小肠黏膜上皮细胞具有多种生理功能，如营养物质的吸收、各类活性分子的转运、与消化吸收相关的酶的分泌等，同时也承担着机体重要的免疫防御功能[6]。
+
+# 1.2小肠黏膜和能量间关系
+
+小肠黏膜在实现各种生理功能的同时，还要维持自身结构完整并不断进行黏膜更新，这些都需消耗能量。当小肠黏膜细胞能量供应不足时，上皮细胞就会被损伤，甚至导致能紊乱，进而诱发消化系统疾病，危害健康[7]。近几十年的研究发现，小肠黏膜上皮细胞是极性细胞，其极性需要消耗高能量得以维持，当上皮细胞的能量代谢紊乱导致小肠黏膜上皮细胞 ATP不足时，肠道黏膜功能就会发生异常[8]，主要有如下几个方面。
+
+1.2.1 肠道黏膜通透性增高，诱发肠道炎症反应
+
+细胞连接是保障结肠道黏膜屏障功能正常的重要结构[9]。对小肠黏膜上皮细胞的研究表明，ATP不足是引起细胞旁路通透性增加和紧密连接重新分布的主要原因[10]。当ATP 不足时，会引起细胞间隙增宽，结肠黏膜屏障通透性增加等现象，从而易使肠腔的细菌和抗原进入黏膜下层，诱发炎症反应[]。
+
+# 1.2.2影响上皮细胞的多种功能
+
+结肠上皮细胞具有许多重要的生理功能，如肠上皮细胞的电解质交换、黏液层的糖蛋白合成、细胞膜脂肪的合成、结构蛋白的合成以及解毒等的过程，这些过程也都需要能量[12],当细胞能量匮乏时这些过程都会受到影响，短期的能量供应不足会导致上皮细胞萎缩，长时间能量供应不足就会破坏结肠黏膜屏障功能，继而发展为炎症性肠病[13]。而断奶仔猪由于断奶应激等因素很容易使肠上皮细胞处于“饥饿”状态，严重影响肠道黏膜的正常生理功能，使仔猪的生产性能下降，容易诱发肠道疾病[4]。因而，保证断奶仔猪的能量供应，对保证肠道黏膜的结构和功能以及保障断奶仔猪的健康都至关重要。
+
+# 2不同能量来源对断奶仔猪肠道黏膜功能的影响
+
+生物有机体新陈代谢和生命活动的主要能量来源为糖类、蛋白质和脂肪这三大类物质，肠黏膜的主要供能物质也主要是这三大类物质，具体可归结为Gln、Glu 以及脂肪这3种物质，它们对于维持肠道黏膜的结构和功能都具有非常重要的作用。2.1Gln 对断奶仔猪肠道黏膜功能的影响Gln 是哺乳类动物血液和体组织中含量最丰富的一种游离氨基酸，它既能为其他氨基酸、蛋白质和核酸的合成提供氮源，也可以像Glu一样氧化供能[15]。Gln 和Glu 均是肠道黏膜细胞的重要能量来源，但是GIn 更适合肠道代谢，是肠道黏膜主要的能源来源物质[16]。2.1.1防止仔猪肠道细胞的凋亡，维持肠道黏膜结构和功能细胞凋亡的主要机制就是过氧化损伤，而断奶应激常常会破坏断奶仔猪的氧化防护体系[17]。谷胱甘肽（glutathione,GSH）能够保护肠道免受细菌和毒素侵害，维持肠道黏膜代谢、结构和功能的稳定，氧化性谷胱甘肽（oxidized glutathione,GSSG）和GSH的比值（GSSG/GSH）是衡量氧化应激高低的指标[18]。研究表明，断奶应激常常使仔猪空肠GSH的含量显著下降,GSSG 含量显著升高,使得GSSG/GSH升高[19]。当仔猪饲粮中添加 $1 . 2 \% \mathrm { G l n }$ 时，肠道黏膜中的GSH含量会增多，过氧化氢酶活性会提高，从而达到消除肠道自由基的作用，这是因为Gln 代谢能够产生 $\mathrm { G S H } ^ { [ 2 0 ] }$ 。另外，Gln 还能降低肠道黏膜细胞促炎症因子白细胞介素-8（interleukin，IL-8）的产生，起到减轻肠道黏膜细胞损伤的作用[21]。
+
+# 2.1.2促进肠道黏膜细胞增殖与更新
+
+肠道黏膜系统是处于细胞增殖和细胞凋亡之间的动态平衡，通常小肠黏膜更新一次为$3 \sim 8 \mathrm { d } ^ { [ 2 2 ] }$ 。Gln 的缺乏可加速小肠黏膜上皮细胞的凋亡，并阻碍有丝有裂原诱导的细胞增殖[23]。这是因为Gln 的缺乏可以选择性激活细胞凋亡关键酶半胱天冬酶（caspases），所以Gln的缺乏可以作为小肠黏膜上皮细胞凋亡加速的重要启动信号[24]。从Gln 的代谢途径推测，Gln 促进肠道黏膜细胞增殖的机理主要有以下2点：一是为细胞代谢提供所必需的能量；二是Gln 可以生成细胞增殖时所必需的前提物质，如多胺、精氨酸等[25]。
+
+# 2.1.3对仔猪肠道黏膜形态的影响
+
+有试验证明，在21日龄断奶仔猪饲粮中添加 $1 \% \mathrm { G l n }$ ，空肠的绒毛高度和固有膜厚度都大幅度增加，这表明Gln 可以有效缓解由断奶应激引起的肠道黏膜萎缩[26]。Gln 保护肠道黏膜结构完整的机理主要有以下几点：首先，Gln是肠道黏膜上皮细胞更新所需的主要能源和氮源[27]，并且GIn 是肠道黏膜上皮细胞所能利用最多的氨基酸，尤其是在应激、疾病状态下[28]；其次，维持肠道结构和功能的完整需要一定浓度的胃肠道激素，而 Gln 能间接刺激一些胃肠道激素的分泌[29]；再次，GIn 也可作为一些生物大分子合成的底物，这些大分子如多胺、甘氨酸、精氨酸等可以减轻断奶应激症状、促进微绒毛的生长和肠道消化酶的分泌，从而增强肠道黏膜上皮细胞对养分和电解质的吸收，提高断奶仔猪的饲料消化率[30]。
+
+# 2.1.4对断奶仔猪肠道黏膜屏障功能的影响
+
+肠道黏膜屏障系统包括肠黏液层屏障和肠细胞屏障，肠黏液层屏障主要由肠道杯状细胞、肠道黏膜上皮细胞分泌的黏蛋白以及浆细胞分泌的分泌性免疫球蛋白A(secretoryimmunoglobulinA,IgA)组成[31]，肠细胞屏障是由肠道黏膜上皮细胞以及细胞间的紧密连接构成，主要作用是阻止一些大分子物质的进入。影响肠道黏膜屏障功能完整性的因素包括上皮细胞凋亡和坏死、紧密连接和间隙连接的断裂[32]。研究表明，Gln 可促进肠道黏膜上皮细胞紧密连接蛋白和黏膜蛋白的表达，也可促进肠道黏膜细胞的增殖，起到增强肠道黏膜屏障功能，减少细菌易位的作用[33]。
+
+# 2.2Glu对断奶仔猪肠道黏膜功能的影响
+
+Glu 是自然界中最广泛且最为重要的一种单糖，是动物器官、组织、细胞主要的能量来源和新陈代谢中间产物，其作用主要为增加能量、补充营养、改善组织代谢和提高机体生理活动等，也可作为诱食剂添加到饲粮中来提高仔猪的采食量[34]。同时，研究发现，仔猪饲粮中添加的Glu可保护肝细胞免受有害因素的伤害，增强网状内皮细胞和肝脏细胞的活力[35]。
+
+葡萄糖酸是Glu在葡萄糖氧化酶作用下的产物，其作用类似于酸化剂，能够抑制有害菌生长、促进有益菌生长，从而改善肠道菌群的平衡。同时，葡萄糖氧化酶也是一种具有抗氧化功能的物质，能减轻肠道黏膜的氧化损伤[36]。
+
+# 2.2.1消除肠道病原体的生存环境，维持肠道菌落的生态平衡
+
+Glu 在葡萄糖氧化酶的催化作用下可生成葡萄糖酸和过氧化氢，该过程中消耗氧气，为厌氧有益菌创造了良好的生存环境，也抑制了大肠杆菌和沙门氏菌等有害菌的存活，从而降低了仔猪肠道细菌感染的几率[37]。生成的葡萄糖酸是一种酸性物质，为乳酸菌的生长创造
+
+了条件，还能提高各种消化酶的活性、加强肠道蠕动，起到促进营养物质吸收的作用。另一产物过氧化氢具有较强的灭菌作用，从而维持肠道有益菌群的平衡[38]。
+
+# 2.2.2 促进肠道发育，提高饲料消化率
+
+葡萄糖酸经发酵后产生乙酸、丙酸和丁酸等挥发性短链脂肪酸(short-chain fattyacid,SFA)，是肠细胞主要的能量物质。试验表明，SFA 能显著提高肠绒毛高度、黏膜厚度及绒毛面积，从而增强肠绒毛细胞对营养物质的吸收，提高饲料的消化率[39]。
+
+2.2.3 保护肠道黏膜上皮细胞完整，抵御病原体感染
+
+断奶应激会导致机体发生一系列氧化反应产生大量的自由基，当机体不能及时清除自由基时，肠道黏膜的屏障功能就会被破坏，增加了病原体侵入的可能性[40]。葡萄糖氧化酶可以消除自由基，保护肠道黏膜屏障功能的完整，阻挡病原体的侵入[41]。
+
+# 2.2.4解除霉菌毒素中毒
+
+发霉的饲料中含有的大量霉菌毒素，会使降低仔猪的生产性能、免疫机能，甚至引起患病。一方面，葡萄糖氧化酶进入肠道后可消灭和抑制饲料中多种霉菌，尤其对黄曲霉毒素中毒症有很好的预防效果[42]；另一方面，一部分葡萄糖氧化酶可以进入肝脏，促进肝脏内的氧化还原反应，增强对毒性成分的代谢能力[43]。
+
+# 2.3脂肪对断奶仔猪肠道黏膜功能的影响
+
+断奶应激状态下的仔猪会由于采食量下降、饲料消化率低的原因导致摄入能量不足，进而通过脂肪动员来补充能量。但是新生仔猪的体脂肪储备很少，脂肪动员也无法满足断奶仔猪的能量需要且仔猪体脂的减少会制约仔猪后期的生长发育[44]。此外，脂肪酸所含脂肪酸的结构、种类以及链的长短、饱和程度都会不同程度影响仔猪对脂肪的消化率[45]。目前，关于不同脂肪来源对断奶仔猪生长性能的影响及机理的研究较少，因此探究不同结构的脂肪对断奶仔猪生长及糖脂代谢的影响是非常重要的，可为仔猪饲粮中合理使用脂肪提供参考。脂肪由甘油和脂肪酸组成，又称甘油三酯，是重要的能源物质，其供能效率是糖的多倍，并能对机体起物理保护作用。脂肪几乎参与所有细胞的代谢调节活动，长期缺乏脂肪会危害动物的健康，引起疾病[46]。亚油酸、亚麻酸和花生四烯酸等脂肪的分解产物作为动物有机体必需脂肪酸，是构成机体结构和发挥重要生物活性作用的物质，如亚麻酸是构成细胞膜和生物酶的基础物质[47]。
+
+# 2.3.1 脂肪对断奶仔猪的营养作用
+
+# 2.3.1.1 脂肪的供能作用
+
+脂肪的能值约为碳水化合物的2.25倍，并且脂肪的热增耗为 $5 \% \sim 1 0 \%$ ，相对于蛋白质的 $30 \%$ 和碳水化合物的 $1 0 \% \sim 1 5 \%$ 明显低很多[48]。因而，夏季在动物饲粮中添加一定量的脂肪，能有效地减少动物因采食和消化产生的热量，减少动物热应激。
+
+2.3.1.2提供必需脂肪酸，促进脂溶性维生素吸收
+
+脂肪经在胃肠道中分解后，能产生卵磷脂、中链脂肪酸、必需脂肪酸及二十五碳五烯酸、二十二碳六烯酸等断奶仔猪生长发育必需的功能脂肪酸，这些物质都能够起到提高仔猪的免疫力、改善仔猪肠道健康、促进仔猪生长发育的目的[49]。此外，脂肪可以作为多种脂溶性营养物质的溶剂，比如：脂溶性维生素的吸收需要以脂肪为介质才能被肠道吸收；血液中脂肪能够促进维生素在血液中的运输[50]。有研究表明，饲粮中的脂肪可促进脂溶性维生素的利用，当饲粮中脂肪添加量较少时，可影响机体对维生素的吸收和利用[51]。
+
+# 2.3.1.3促进采食并改变饲粮营养结构
+
+在饲料中添加适量的脂肪可改善饲粮适口性和外部感观，提高早期断奶仔猪的采食量[52]，还能提高能量蛋白质的比例，减少饲粮蛋白质的抗原作用和腐败作用，从而减少断奶仔猪蛋白质抗原性腹泻的发生[53]。
+
+# 2.3.1.4 抗应激作用
+
+脂肪的含水量低，导热性差，体脂肪可以减少热量的散发，对断奶仔猪体温的维持起到非常重要的作用，能有效地缓解断奶仔猪冷/热应激[52]。
+
+# 2.3.1.5 额外代谢效应
+
+由于断奶仔猪消化道发育不完善，营养物质的消化吸收利用率较低。而在仔猪饲粮中添加适量的脂肪可减慢饲粮在胃肠道中的流速，从而延长食物的消化吸收时间，达到提高营养物质的吸收利用效率的作用[54]。
+
+# 2.3.2SFA对断奶仔猪肠道黏膜功能的影响
+
+SFA 也称为挥发性脂肪酸（volatile fatty acids,VFA）包括甲酸、乙酸、丙酸、异丁酸、丁酸、异戊酸、戊酸。SFA 不仅起到储存能量和降低了渗透压的作用，SFA 也能够维持结肠上皮细胞的形态和功能的完整[55]。
+
+# 2.3.2.1为肠黏膜细胞供能
+
+以丁酸为主的SFA可提供结肠上皮细胞所需超过 $70 \%$ 的能量，另外，丁酸可以促进结肠修复黏膜损伤的酶的产生，从而起到保障局部黏膜健康的作用[56]。有试验表明，丁酸可以直接为肠道黏膜上皮细胞提供能量，并能显著改善肠道黏膜的形态特征，降低动物小肠的隐窝深度、提高绒毛高度与隐窝深度比值[57]。
+
+# 2.3.2.2平衡肠道菌群
+
+肠道内菌群的平衡是衡量肠道是否健康的重要指标。丁酸盐可通过革兰氏阳性菌和阴性菌细胞膜，后在细菌细胞内分解为丁酸根离子和氢离子。当细菌细胞内氢离子达到一定浓度时，细菌就会死亡。因而，丁酸盐可以促使对氢离子浓度耐受力差的有害菌的大量消亡，从而维持肠道内菌群的平衡[58]。
+
+# 2.3.2.3 抑制肠道炎症反应
+
+研究表明，丁酸钠可明显改善患有结肠炎的大鼠的炎症症状，这是因为丁酸盐能够使肠黏膜中黄嘌呤氧化酶的活性降低、GSH 的含量增高，从而使自由基的产量减少，抑制了肠道内的过氧化反应，使得肠道组织损伤减轻、肠道炎症有所改善[59]。
+
+33种饲粮能量来源物质对断奶仔猪肠道黏膜功能影响的相互作用
+
+近年来，随着对断奶仔猪胃肠道发育研究的深入，发现GIn、Glu、脂肪这3种断奶仔猪肠道所需的能量物质对断奶仔猪肠道黏膜功能的影响并不是独立的。
+
+虽然肠道从食物中摄取的Glu 是机体Glu 的唯一来源，但是大部分Glu 经血液运输用于机体其他部分功能。肠细胞能利用GIn从而节省Glu 的消耗，这对于能量摄入不足的断奶仔猪来说具有重要的意义[60]。此外，有研究表明，在断奶仔猪的饲粮中添加Gln 可以促进胃肠道中钠葡萄糖共转运受体（sodium glucose cotransporter，SGLT）的 mRNA 的转录后水平，从而可以促进肠道对Glu 的吸收[60]。
+
+在断奶仔猪肠道中，脂肪和Glu的消化吸收之间也是相互作用的。Glu的吸收增加可以促进肝脏内碳水化合物反应元件结合蛋白（carbohydrateresponse element binding protein，ChREBP）和固醇反应元件结合蛋白（sterol regulatory element binding protein，SREBP）的表达，从而胃肠道机体吸收的脂肪酸在肝脏内合成体脂和机体必需氨基酸[61]。此外，在饲粮中添加脂肪会调节肠道对Glu的吸收，这是因为饲粮中的脂肪可以在机体分解和合成机体必需氨基酸和体脂，就不需要机体了维持血糖浓度以及机体生命活动外的Glu经过糖脂代谢去合成这些物质，从而就会相对抑制过多Glu 的吸收[62]。
+
+4小结
+
+断奶应激常常使仔猪肠道黏膜细胞供能不足，从而影响肠道黏膜结构和功能的完整。Gln、Glu以及脂肪这3种物质作为肠道黏膜细胞的主要供能物质，都能为肠道黏膜细胞供给能量，并且通过发挥各自特有的功能，起到维持肠道黏膜细胞正常生理功能的作用，从而缓解断奶应激对仔猪肠道黏膜造成的损伤，保障断奶仔猪对营养物质的消化和吸收。而这3种能源物质在仔猪饲粮中如何搭配才能发挥最大的功效需要进一步研究。
+
+# 》丐义：
+
+[1] GU X H,LI D F,SHE R P.Efect of weaning on smallintestinal structure and function in the piglet[J].Archiv fur Tierernaehrung,2002,56(4):275-286.   
+[2] 严宏祥,朱丽娜.早期断奶仔猪肠黏膜的营养调控[J].中国饲料,2006(7):6-8,12.   
+[3]韦志坤,程爱国.肠黏膜细胞的紧密连接与肠壁通透性的研究进展[J].世界华人消化杂 志,2011,19(4):394-399.   
+[4] LALLES J P,BOUDRY G,FAVIER C,et al.Gut function and dysfunction in young pigs:physiology[J].Animal Research,2004,53(4):301-316.   
+[5]白爱平.肠黏膜非免疫细胞在炎症性肠病发病中的作用[J].世界华人消化杂 志,2010,18(19):2020-2023.   
+[6] SPREEUWENBERG M A M,VERDONK J M A J,GASKINS H R,et al.Small intestine epithelial barrier function is compromised in pigs with low feed intake at weaning[J].The Journal of Nutrition,2001,131(5):1520-1527.   
+[7] XIONG X,YANG H S,TAN B,et al.Differential expression of proteins involved in energy production along the crypt-villus axis in early-weaning pig smallintestine[J].American Journal of Physiology: Gastrointestinal and Liver Physiology,2015,309(4):G229-G237.   
+[8] YANG C B.Expression of porcine intestinal nutrient transporters along crypt-villus axis and during postnatal development[D].Ph.D. Thesis.Guelph:University of Guelph,2011.   
+[9] KIM Y S,HO S B.Intestinal goblet cels and mucins in health and disease:recent insights and progress[J].Current Gastroenterology Reports,2010,12(5):319-330.   
+[10] BOUDRY G,PERON V,LE HUEROU-LURON I,et al.Weaning induces both transient and long-lasting modifications of absorptive,secretory,and barier properties of piglet intestine[J].The Journal of Nutrition,2004,134(9):2256-2262.   
+[11]吕宾.肠黏膜屏障与肠功能障碍[J].现代消化及介入诊疗,2013,18(4):232-234.   
+[12] BLIKSLAGER A T,MOESER A J,GOOKIN JL,et al.Restoration of barrier function in injured intestinal mucosa[J].Physiological Reviews,2007,87(2):545-564.   
+[13] PIE S,LALLES J P,BLAZY F,et al.Weaning is associated with an upregulation of expression ofinflammatorycytokinesintheintestineofpiglets[J].TheJournalof Nutrition,2004,134(3):641-647.   
+[14] GROSCHWITZ K R,HOGAN S P.Intestinal barrier function:molecular regulation and disease pathogenesis[J].Journal of Allergy and Clinical Immunology,2009,124(1):3-20.   
+[15] WANG B,WU G Y,ZHOU Z G,et al.Glutamine and intestinal barrier function[J].Amino Acids,2015,47(10):2143-2154.   
+[16] 邓斐月.丁酸梭菌与谷氨酰胺对断奶仔猪生长性能的影响及其机理研究[D].硕士学位论 文.杭州:浙江大学,2010.   
+[17] 郑根华.谷氨酰胺对断奶仔猪的影响及机理研究[D].硕士学位论文.杭州:浙江大学,2004. [18] CAMILLERI M,MADSEN K,SPILLER R,et al.Intestinal barrier function in health and gastrointestinal disease[J].Neurogastroenterology & Motility,2012,24(6):503-512.   
+[19] 邹晓庭.谷氨酰胺对断奶仔猪生长、免疫的影响及其机理研究[D].博士学位论文.杭州:浙 江大学,2007.   
+[20] 王现盟.谷氨酰胺对断奶仔猪肠黏膜形态和细胞能量合成的影响[D].硕士学位论文.杭州: 浙江大学,2010.   
+[21] WU G,MEIER S A,KNABE D A.Dietary glutamine supplementation prevents jejunal atrophy in weaned pigs[J].The Journal of Nutrition,1996,126(10):2578-2584.   
+[22] 席鹏彬,林映才,朱选,等.谷氨酰胺二肽对断奶仔猪生长性能、细胞免疫及血液生化指标 的影响[J].畜牧兽医学报,2005,36(9):900-905. [23] HUSBAND A J,GOWANS J L.The origin and antigen-dependent distribution of lgA-containingcellsintheintestine[J].TheJournalofExperimental Medicine,1978,148(5):1146-1160.   
+[24] 赵玉蓉,王红权,贺建华,等.谷氨酰胺对断奶仔猪肠道微生物和小肠黏膜形态的影响[J].湖 南农业大学学报:自然科学版,2009,35(2):158-161.   
+[25] WANG J J,CHEN L X,LI L P,et al.Gene expression is altered in piglet small intestine by weaning anddietaryglutaminesupplementation[J].The Journal of Nutrition,2008,138(6):1025-1032.   
+[26] 肖英平.早期断奶仔猪血清代谢组学研究及谷氨酰胺对日粮消化吸收和代谢的影响[D]. 博士学位论文.杭州:浙江大学,2012.   
+[27]尹兆正,邹晓庭,钱利纯,等.谷氨酰胺对断奶仔猪免疫功能的影响[J].中国兽医学 报,2005,25(5):536-538.   
+[28] POTSIC B,HOLLIDAY N,LEWIS P,et al.Glutamine supplementation and deprivation:effect on artificially reared rat smallintestinal morphology[J].Pediatric Research,2002,52(3):430-436. [29] YI G F,CARROLL J A,ALLEE G L,et al.Effect of glutamine and spray-dried plasma on growth performance,small intestinal morphology,and immune responses of Escherichia coli ${ \bf K } 8 8 ^ { + } { }$ challenged weaned pigs[J].Journal of Animal Science,2005,83(3):634-643.   
+[30] 黄冠庆,傅伟龙,高萍,等.甘氨酰谷氨酰胺二肽对断奶仔猪生长性能及血液激素水平的影 响[J].华南农业大学学报:自然科学版,2003,24(3):66-68,77.   
+[31] 褚永康,胡静,朱亚骏,等.谷氨酰胺的作用机制及其在仔猪生产中的应用[J].中国饲 料,2013(17):22-25.   
+[32]邓宸玺,王自蕊,游金明,等.丙氨酰-谷氨酰胺二肽对仔猪小肠上皮细胞间紧密连接蛋白 occludin 定位与表达的影响[J].动物营养学报,2014,26(3):694-700.   
+[33] LUK G D,BAYLIN S B.Polyamines and intestinal growth-increased polyamine biosynthesis afterjejunectomy[J].AmericanJournalofPhysiology :GastrointestinalandLiver Physiol0gy,1983,245(5):G656-G660.   
+[34] YANG H S,FU D Z,KONG X F,et al.Dietary supplementation with N-carbamylglutamate increases the expression of intestinal amino acid transporters in weaned Huanjiang mini-pig piglets[J].Journal of Animal Science,2013,91(6):2740-2748.   
+[35]KALHAN S,PARIMI P.Gluconeogenesisin the fetusand neonate[J].Seminarsin Perinatology,2000,24(2):94-106.   
+[36] PEGORIER J P,DUEE P H,NUNES C S,et al.Glucose turnover and recycling in unrestrained and unanesthetized 48-h-old fasting or post-absorptive newborn pigs[J].British Journal of Nutrition,1984,52(2):277-287.   
+[37] AGIUS L.Glucokinase and molecular aspects of liver glycogen metabolism[J].Biochemical Journal,2008,414(1):1-18.   
+[38] 杨久仙,张荣飞,马秋刚,等.葡萄糖氧化酶对断奶仔猪生长性能及肠道健康的影响[J].中国 畜牧兽医,2011,38(6):18-21.   
+[39] 张宏宇,程宗佳,陈轶群,等.葡萄糖氧化酶对断奶仔猪生长性能的影响[J].饲料工 业,2014,35(10):14-16.   
+[40] 杨富宇.不同蛋白源组合及葡萄糖添加水平对断奶仔猪生产性能及血液生化指标的影响 [D].硕士学位论文.郑州:河南农业大学,2012.   
+[41] MICHIELS J,DE VOS M,MISSOTTEN J,et al.Maturation of digestive function is retarded and plasma antioxidant capacity lowered in full weaned low birth weight piglets[J].British Journal of Nutrition,2013,109(1):65-75.   
+[42] 付建福.葡萄糖酸对断奶仔猪生产性能、肠道微生物区系和肠黏膜形态结构的影响[J]. 饲料广角,2008(15):27-31.   
+[43] 陈清华,陈凤鸣,肖晶,等.葡萄糖氧化酶对仔猪生长性能、养分消化率及肠道微生物和形 态结构的影响[J].动物营养学报,2015,27(10):3218-3224.   
+[44] 肖晶.葡萄糖氧化酶对仔猪生产性能及肠道形态结构的影响[D].硕士学位论文.长沙:湖 南农业大学,2014.   
+[45] LEE H F,CHIANG S H.Energy value of medium-chain triglycerides and their efficacy in improving survival of neonatal pigs[J].Journal of Animal Science,1994,72(1):133-138. [46] WIELAND T M,LIN X,ODLE J.Emulsification and fatt-acid chain length afect the utilizationofmedium-chaintriglyceridesbyneonatalpigs[J].JournalofAnimal Science,1993,71(7):1869-1874.   
+[47] ROSSI R,PASTORELLI G,CANNATA S,et al.Recent advances in the use of fatty acids as supplements in pig diets:a review[J].Animal Feed Science and Technology,2010,162(1/2):1-11. [48] BASSAGANYA-RIERA J,KING J,HONTECILLAS R.Health benefits of CLA-lessons from pigmodelsinbiomedicalresearch[J].EuropeanJournalofLipidScienceand Technology,2004,106(12):856-861.   
+[49] JACOBI S K,MOESER A J,CORL B A,et al.Dietary long-chain PUFA enhance acute repair of ischemic-injured intestine of suckling pigs[J].Journal of Nutrition,2012,142(7):1266-1271. [50] DIERICK N,MICHIELS J,VAN NEVEL C.Effect of medium chain faty acids and benzoic acid,asalternativesforantibiotics,ongrowthandsomegutparametersin piglets[J].Communications in Agricultural and Applied Biological Sciences,2004,69(2):187-190. [51] BEARE-ROGERS J,DIEFFENBACHER A,HOLM J V.Lexicon of lipid nutrition (IUPAC Technical Report)[J].Pure and Applied Chemistry,2001,73(4):685-744.   
+[52] ROOKE J A,FERGUSON E M,SINCLAIR A G,et al.Fatty acids and reproduction in the pig[M]//GARNSWORTHYPC,WISEMANJ.Recent advances in animal nutrition.Nottingham,UK:Nottingham University Press,2003.   
+[53] 钟翔,黄小国,陈莎莎,等.丁酸钠对断奶仔猪生长性能和肠道消化酶活性的影响[J].动物营 养学报,2009,21(5):719-726.   
+[54] VAN BEERS-SCHREURS H M G,NABUURS MJ A,VELLENGA L,et al.Weaning and the weanling diet influence the vilous height and crypt depth in the small intestine of pigs and alter the concentrations of short-chain fatty acids in the large intestine and blood[J].The Journal of Nutrition,1998,128(6):947-953.   
+[55] LOPEZ-PEDROSA J M,TORRES M I,FERNANDEZ M I,et al.Severe malnutrition alters lipid composition and fatty acid profile of small intestine in newborn piglets[J].The Journal of Nutrition,1998,128(2):224-233.   
+[56] ZENTEK J,BUCHHEIT-RENKO S,FERRARA F,et al.Nutritional and physiological role of   
+medium-chain triglycerides and medium-chain fatty acids in piglets[J].Animal Health Research   
+Reviews,2011,12(1):83-93.   
+[57] GUILLOT E,VAUGELADE P,LEMARCHAL P,et al.Intestinal absorption and liver uptake   
+of medium-chainfattyacidsinnon-anaesthetizedpigs[J].BritishJournal of   
+Nutrition,1993,69(2):431-442.   
+[58] BUGAUT M,BENTEJAC M.Biological effects of short-chain fatty acids in nonruminant   
+mammals[J].Annual Review of Nutrition,1993,13:217-241.   
+[59] CALDER P C.Polyunsaturated fatty acids,inflammatory processes and inflammatory bowel   
+diseases[J].Molecular Nutrition & Food Research,2008,52(8):885-897.   
+[60] 张帅,刘婷婷,周琳,等.断奶仔猪小肠钠葡萄糖转运蛋白1和葡萄糖转运蛋白2 mRNA 表   
+达变化及饲粮添加谷氨酰胺对其的影响[J].动物营养学报,2011,23(6):983-990.   
+[61] LOMBARDO Y B,DRAGO S,CHICCO A,et al.Long-term administration of a sucrose-rich   
+diet to normal rats:relationship between metabolic and hormonal profiles and morphological   
+changes in the endocrine pancreas[J].Metabolism-Clinical and   
+Experimental,1996,45(12):1527-1532.   
+[62] 邹芳.不同种类脂肪对大鼠生长性能及微生态效应的影响研究[D].硕士学位论文.雅安:   
+四川农业大学,2009. Effects of Different Dietary Energy Sources on Intestinal Mucosa Function in Weaning Piglets LI Xue1.2 TIAN Changxin2 WANG Xiaocheng² XIONG Xia2\* YIN Yulong1.,2\*   
+(1. College of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, China; 2. The Chinese Academy of Sciences Institute of Subtropical Agriculture, Subtropical Agriculture Ecological Engineering Key Laboratory, Chinese Academy of Sciences, Changsha 410125, China)
+
+Abstract: Early weaning of piglets is often accompanied by insuficient energy intake, resulting in intestinal mucosal cells starvation, affecting piglets intestinal function and increasing weaning stress. So satisfying the energy supply of the intestinal mucosal cels is crucial. In this paper, we will discuss glutamine(Gln)，glucose (Glu） and fat, three kinds of intestinal mucosal cells energizing substances and their impacts on weaned piglets intestinal mucosal function. Key words: weaned piglets; glutamine; glucose; fat; function of intestinal mucosa

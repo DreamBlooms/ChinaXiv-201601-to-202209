@@ -1,0 +1,267 @@
+# 职业可续视角下的工作重塑行为研究：动力、路径及干预机制
+
+王琼
+
+（浙江工商大学工商管理学院，杭州310018）
+
+摘 要 社会经济高质量、可持续发展的实现，须依托具备可持续职业能力的人才来引领、支撑和保障。鉴于此，本研究考虑职业与日间工作行为的联动效应，探究个体于工作中实现持续竞争优势的潜在动力、路径及干预机制。首先，确定职业可持续力的概念界定与结构测量，并揭示其潜在的影响因素、动态发展机理以及对职业主动行为的作用路径。其次，结合资源保存理论和社会认知理论，探究职业可持续力与员工工作重塑行为的动态交互作用机制。最后基于职业可持续视角，探讨组织层面对个体工作重塑行为的纵向干预机制。本研究将为个体实现职业可持续发展以及组织开展共赢的职业管理支持提供策略依据。
+
+关键词职业可持续力，工作重塑，组织职业管理支持，资源保存理论，工作-需求资源模型
+
+分类号B849；C936
+
+# 1问题的提出
+
+党的十九大报告指出，当前，我国经济已由高速增长阶段转向高质量发展阶段，强调更高质量，更有效率，更加公平，更可持续的发展。千秋基业，人才为本，人才资源是影响国家（地区）经济增长及贫富差距的决定性因素（Schultz,1961)。从宏观的角度来看，国家和地区要实现高质量、可持续的发展，须依托具有可持续职业发展能力的人才来引领、支撑和保障。
+
+然而，随着经济全球化和组织间的竞争日益加剧，员工的工作环境充斥着不确定性与不稳固性，个体与组织间的联系逐步弱化，开始进入无边界职业生涯，即工作机会超越单一就业环境（Defilippi&Arthur,1994)。相应地，个体须对职业生涯管理进行自我驱动、自我导向（Philip etal.,2006)，主动应对职业环境变化的重要性日益凸显。与此同时，企业也在不断吸纳跨职业边界转换工作的新员工，这些员工能否胜任新的岗位和工作任务，对企业招聘及培训的有效性、组织的顺利运转以及人才资源的稳定性等多个方面均具有重要影响（孙永波等，2020)。因此，个体应当具备怎样的能力，以更好地应对职业无边界化的风险和挑战，实现职业持续发展，不仅是个体，也是组织和社会关注的重要问题。
+
+工作重塑（jobcrafting）是个体通过主动调整、改变其工作任务和工作角色，获取工作资源以提高人一工作的适应度和匹配度，应对复杂工作、职业环境的潜在策略性行为（Wrzesniewski&Dutton,2001；胡睿玲，田喜洲，2015)。但现有工作重塑相关文献重点论证工作重塑行为对个体心理状态和工作场所行为的影响作用（Tims etal.,2016;McClelland etal.,2014)，且多将研究场景固定在组织内部，具有一定的局限性。首先，工作重塑的过程实际上伴随着个人资消耗或投资（Timsetal.,2016)，个体对其资源进行分配与投资时，会依据其内在动机及价值观对投资结果进行预先判断（Foa＆Foa,1980)。即个体的内在动机决定着其是否会进行工作重塑、重塑的程度及方向，而现有研究尚未充分厘清员工重塑其工作的自主性内在动机(Zhang& Parker,2019)。其次，已有文献忽视当下的职业大环境背景，未能从职业视角综合考察工作重塑行为。在无边界职业时代，员工于某一组织内的行为表现只是其漫漫职业生涯中的片段，考量个体职业层面态度，可将各片段相关联，进而全面刻画职业生涯路径。
+
+本研究基于职业可续视角，关注职业与工作的联动的效应，着重思考和研究以下4个问题：（1）在无边界职业时代，个体维系职业可持续成长发展的能力，即职业可持续力应如何界定、测量，有何影响因素和动态发展规律？（2）职业可持续力如何作用于对个体职业倾向、职业主动行为，并对个体日间工作重塑行为产生影响？（3）职业可持续力与工作重塑行为的联动效应如何在个体层环闭提升？（4）组织层应采取怎样的策略，以提升员工的职业可持续力，促进积极的工作重塑行为，从而达到员工与企业双赢的局面。
+
+# 2国内外研究现状
+
+# 2.1可持续职业生涯的研究进展
+
+# 2.1.1职业可续视角
+
+可持续指的是个人资本的保持和夯实而非消耗，相应地，当个体的职业可持续时，意味着随着时间的推移，个人的职业发展不断得到稳固和提升，而非倒退或停滞（Cha etal.,2009)。近年来，可持续职业范式的相关研究已初见势头，探讨范围涵盖人力资源政策（蒋建武等，
+
+2017；Kellt et al.,2020）、员工管理（Barthauer et al.,2020; Straub et al.,2019）、人口老龄化（Anseel,2017）、择业就业管理（Anseel,2017;Lent& Brown,2020)，以及最新的疫情影响等（Hite &McDonald,2020）。
+
+但须指出的是，可持续职业的概念在相关领域的主流期刊和会议的研究中(如,Anseel,2017;Newman，2011)，仍然处于非常早期的讨论和发展阶段。已有文献主要以职业本身为研究视角，从两个角度进行探讨。一是何为职业可持续性，例如Van der Heijden (2005)在其著作中提出，职业可持续性包含健康、幸福和生产力三个维度。基于此，DeVos等（2018）提出了可持续职业模型，并尝试通过满意度、幸福感及可雇佣力等指标来刻画个体的职业可持续性。二是什么样的职业可让个体实现可持续发展，如Newman（2011）提出，让个体能够实现终身持续发展的职业应提供包含以下三个特征的机会，包括自我更新（renewalopportunities）、柔性度（flexibility）以及整合度（integrity）。此外，Chin等(2019)指出，亦不可忽视对个人资源“可持续性”的讨论，需增加资源度（resourceful）这一特征。
+
+# 2.1.2职业可持续力
+
+尽管学者们对相关概念进行了诸多探讨，但回归可续职业的内涵：是一系列通过各种模式、跨越多个社会空间来呈现的连续性职业经历，以个体的能动性为特征，并使个体感知工作意义的职业模式（Van der Heijden&De Vos,2015,p.7），即个体在职业发展中起主导作用（Sullivan＆Arthur,2006)，因此，须基于自身的能力特征方能实现职业可续。但鲜有研究从个人的视角探讨个体应具备何种能力，以达到职业可续状态，当前仅Van der Heijden 和De Vos（2015）对职业可持续力作了初步界定，认为职业可持续力是个体在跨时间、空间的连续职业经历中不断能动地获得职业发展的能力，但对其具体维度的解读，仍在研究讨论中，尚无较成熟的测量量表。
+
+# 2.2工作重塑的研究进展
+
+# 2.2.1工作重塑的涵义及影响作用
+
+Wrzesniewski 和Dutton（2001）最先提出工作重塑这一概念，将其定义为个人在工作任务或关系边界上所做的实际的或认知上的变化（P.179)，即工作重塑是员工自下而上地，基于其工作角色（role-based）所进行的包括对任务、关系和认知三个维度的调整和重塑。
+
+Tims等学者(2016)则从工作设计理论和工作需求一资源模型相结合的视角来解读工作重塑，认为工作重塑是员工为平衡工作的需求和资源与其个人需求所做出的基于资源（resource-based）的改变（Tims＆Bakker,2010)。然而，前者提及的角色重塑包括提升员工的工作需求一能力匹配以及需求一供给匹配（Lu,etal.,2014)，也可被归集为Tims等（2013）概括的资源重塑。因此，Zhang和Parker（2019）指出，这两种主流的界定方式并非完全割裂。
+
+关于工作重塑结果变量的研究较为充足，相关文献发现，工作重塑行为有助于提升个体工作投入（Rudolph etal.,2017；孙永波等，2020）、工作满意度（Cheng,et al.,2016）、主观幸福感以及积极情绪（Slemp&Vella-Brodrick,2014；刘云等，2019)；对个体的一些消极状态如倦怠（Tims et al.,2013）、压抑（Kim& Beehr,2018）及工作无聊感（Harju et al.,2016;2018）等，具有一定的抑制作用；之于个体职业发展，一系列实证研究表明，工作重塑对员工感知的可雇佣力（Brenninkmeijer& Hekkert-Koning,2015）、职业竞争力（Akkermans &Tims,2017）及职业承诺（Kim&Beehr,2018）等方面均具有显著的积极作用。
+
+此外，员工工作重塑行为对组织而言亦有诸多正面影响，如可提高员工对当前组织的心理依附（Wang,etal.,2018)，显著降低其离职意愿（苏益南等，2018)。同时，由工作重塑带来的人与工作的更高匹配感，可提高员工的工作绩效水平（耿庆岭，韦雪艳，2016)。刘云硕等（2019）还发现在中国情境下，工作重塑对员工的创造力有正向的促进作用。
+
+# 2.2.2基于职业视角的工作重塑研究
+
+现有的工作重塑前因变量的研究分布在探讨个人特质(如大五人格)和工作场所特征（如工作量、工作自主性及领导方式）与工作重塑的简单二元线性关系，对工作重塑内生性动机的关注尚不足够（Zhang&Parker,2019；张春雨等，2012)，为数不多的讨论工作重塑潜在原因的研究则集中于个体在当前组织的短期动机（如Wrzesiewski& Duttn,2001； Solberg &Wong,2016)。然而，在无边界职业时代，某一份工作和某一个组织仅仅是个体连续职业生涯的片段，因此，学者们呼吁应将工作和职业相联系，从长远的、未来的、职业的视角探讨工作重塑行为的动机（Strauss et al.,2012; Akkermans & Tims,2017; Rofcanin et al.,2019；王忠军等，2019）。
+
+# 2.2.3职业视角下的工作重塑动力
+
+研究表明，个体工作重塑行为需有一定的动力支撑（例如，Petrouetal.,2015)。尽管并不充分，但已有研究开始探讨职业相关因素对工作重塑行为的推动作用。如，Akkermans和 Tims（2017）认为，员工的工作重塑行为受其职业竞争力的影响，职业竞争力越强的员工拥有更敏捷的反思性和沟通性等职业能力，对自己的目标和能力有更加清晰的认知，因而会更具针对性地自主重塑工作。类似的，Strauss等（2012）也发现，个体对自身职业及工作相关的重要希冀和未来抱负是其开展职业及工作相关积极行为的动力性资源。
+
+# 2.2.4职业视角下的工作重塑干预
+
+鉴于工作重塑行为对员工工作投入、幸福感以及工作绩效等结果的积极影响（Slemp&Vella-Brodrick,2014; Tims,etal.,2013），国外学者开始关注是否可以通过训练（training）或者干预（mentoring）来促进员工的工作重塑行为，并探讨了工作重塑的干预校标（Van denHeuvel et al.,2015; Van Wingerden,Jet al.,2017）及可能的干预流程（Sakuraya et al.,2016;van Wingerden,Jetal.,2017；徐长江，陈实,2018)。国内学者对这一议题的关注稍晚于国外，在总结国外研究的基础上，提出了基于我国情境的干预方向。例如，李珊珊等（2019）学者讨论了从个体与管理者交互干预的视角，提升员工重塑工作的能力、动机和机会。
+
+综上所述，国内外学者对无边界职业、职业可持续力及员工工作重塑行为进行了不同程度的讨论，为本研究的展开奠定理论和研究基础的同时，也提供了进一步探讨的空间：
+
+1．现有研究对无边界职业的内涵已有较为全面深刻的论述，同时也对个体职业持续发展的实现提出了新的要求，但尚未对如何满足这些要求，个体应具备怎样的能力与之匹配等问题进行充分的讨论。
+
+2．现有文献仅对个体实现可持续发展的能力进行理论性的框架探索，尚未对职业可持续力这一构念进行较为系统的探究与界定。而面对复杂多变的职业环境，个体明确其所需具备的能力尤为重要，因此，个体职业可持续力的结构维度、发展过程和内在作用机理等问题亟待阐明。
+
+3．已有文献多将研究视角集中于组织内部，鲜有研究从职业可持续发展的视角探讨工作重塑行为，关注职业与工作的联动效应。而个体的职业由其一系列连续的工作组成，只关注员工在某个组织中的即时行为，忽略员工职业向的动机和结果，难以为员工和组织提供更
+
+为长远和全局的借鉴与指导。
+
+4.已有研究多集中讨论工作重塑行为对个体和组织的潜在积极影响，忽视了员工重塑其日常工作的内在动力源。识别这些动力源有助于明确员工重塑行为的投射方向和效果，从而确定干预机制的作用点。
+
+5.现有工作重塑的干预研究多针对个体特定时点的状态和行为，关注员工组织内的情绪体验和时点行为，理论性的框架体系较多、干预指标较为分散，缺乏组织层的干预政策以及基于职业生涯视角的纵向实证追踪研究。
+
+# 3研究构想
+
+# 3.1研究总括
+
+本研究考虑无边界职业时代背景，探究基于员工职业可续视角的工作重塑行为的驱动和作用机制，并依托三个子研究逐步实现，总体研究框架如图1所示。研究一(3.2)扎根理论构建职业可持续力的概念模型，探讨职业可持续力的影响因素和动态发展机理。进而，在开发职业可持续力测量量表的基础上，实证追踪职业可持续力对员工职业主动行为的作用机制;研究二(3.3)采用双样本纵向追踪比对的方式，探讨职业可持续力与工作重塑行为在个体层如何联动提升；研究三(3.4)基于纵向跟踪调研和实验研究，探讨组织应如何干预员工职业可持续力发展，定向促进员工工作重塑行为。
+
+![](images/00f0d458b4f21cd41b4cb48d498bb65ef37d78e001b62a1ca299e674835708e2.jpg)  
+图1基于可持续视角的工作重塑行为研究模型总体框架
+
+注：实线为从职业可持续力到工作重塑的正向追踪，虚线为反向追踪
+
+3.2职业可持续力的概念、发展及对职业主动性行为的影响作用
+
+# 3.2.1职业可持续力的涵义
+
+职业可持续力是个体在跨时间、空间的连续职业经历中不断能动地获得职业发展的能力(Van derHeijden&DeVos,2015)，应在个人、环境和时间三个层面上予以体现（DeVos et al,2018)。即职业可持续力包含个体在当前职业路径中纵向的自我提升、对环境因素的横向整合，以及在职业生涯的连续进程中，不断适应自身与所处环境变化的交互能力。
+
+具体而言，相关概念强调了个体的中心角色，即个人的主动控制，对职业的可持续性有重要影响。依据自我决定理论（Ryan&Deci,2000)，个体具有获得成长及发展的内在动力。但同时，认知评价理论（Deci etal.,1975）指出，除非个体认为其行为是基于自主决定和自我控制的，否则仅基本需求的满足不会提升个体的内在动力。因此，职业可持续力首先应包含可续意识，即个体对职业持续力的认同、内化及必要性等的强调，决定了其对后续职业可续行为控制感的解读。
+
+在职业可续意识的牵导下，个体具有获得职业可续发展的自主感、竞争力等内在动力（Ryan&Deci,2000)，而个体能力是支撑这些内生动机有效转化的关键。实现跨时间的纵向职业可续发展，需应对各种变化和不确定性，适时做出恰当选择，要求个体具备灵活丰富的能力（Newman,2011)。例如，职业竞争力强的个体，拥有更多的职业相关的知识、技能及更强的沟通、反思等能力，可通过对自我优势及职业机会识别，提前为职业生涯中的重大转变做好规划（Akkermans et al.,2013; Kuijpers et al.,2006)；职业适应力关乎个体自我调节和可塑资源的充沛性及应对不熟悉、复杂问题的信心和能力（Savickas＆Porfeli，2012）。这种竞争力和适应力又强调了持续学习，积极将自己置身于多元的环境、多元的群体，延用复合技能保持思维的敏捷和发展。即个体能力越丰富灵活，获得可持续职业的可能性越高。
+
+此外，职业可持续性意味着通过重新定义人的职业适应时间来保护和促进（而非消耗)人和职业发展（Newman,2011)。职业发展理论（Super,1957）指出，职业发展需从静态与动态相结合的视角解读。可持续职业生涯是由每一个相对稳定的职业周期的自我调节过程构成，而每一次成功适应、成功调节，都需消耗个人资源。因此，我们认同Chin等（2019)的观点，职业可持续力应涵盖资源相关要素。基于资源保存理论（Hobfoll,2001)，个体具有内在的获取、保持和扩充其珍贵资源的内在动力。当个人资源存量较低时，会倾向于将更多的精力放在如何维持眼下的资源不再丧失，难以兼顾长期的成长和发展。当个人资源富足时，则会将已有资源进行再投资，以获取更多其所认为的珍贵资源。具有职业可持续意识且资源丰富的个体，会自发地将资源向有助于职业持续发展的方向进行投资。因此，职业可持续力需关联个人资源的丰富性，包括生理资源（如健康）及心理资源（如幸福感、工作投入等)。此外，职业发展受到诸如工作环境、组织环境、生活环境、甚至更广泛的劳动力市场环境的影响（Newman,2011)，则对可持续职业力的界定，也须考虑个体如何处理不同层次和背景中的机会与约束，即个体的跨环境整合能力。
+
+综上，在已有理论框架的基础上，我们认为职业可持续力应包含个体职业可续意识、个体纵向能力灵活度、个体资源的丰富性、个体跨多层次环境的整合力四个维度，如图2所示。
+
+![](images/8e435c645371b0b4350aee9485d51911af1877642f948d9cb7a372f3646dd4ac.jpg)  
+图2.职业可持续力概念维度
+
+# 3.2.2职业可持续力的测量及作用机制
+
+有效的测量工具是后续研究的重要基础，而国内外对职业可持续力内涵及测量方案的探索均处于较为初步的阶段。我们拟在梳理、界定职业可持续力内涵的基础上，严格依照规范的心理测量程序，开发测量量表。通过扎根理论的深度访谈、文字编码等提炼、整合测量题项，再借助预调研和正式调研修正量表并检验量表信效度，最后用主观职业成功、职业成长以及职业承诺等相关变量作为效标，实证检验所开发量表的预测效度。
+
+此外，基于有效测量量表，拟对同一样本进行多时点、多波次跟踪测量，收集检验以下数据：1）个体职业可持续力在不同时点的差异及阶段性变化的差异；2）人口统计学变量、工作经验、行业差异、家庭因素等对职业可持续力在时点间的绝对变化和相对变化的影响；3）职业可持续力对职业主动行为的即时影响和滞后影响，揭示职业可持续力的发展机理及作用路径，为后续研究奠定理论基础。
+
+# 3.3职业可持续力对工作重塑的作用机理：个体层环闭效应的追踪分析
+
+本模块主要聚焦在复杂多变的职业大环境下，个体如何定向应对并在职业生涯中获得持续发展的过程，即基于职业可持续的工作重塑行为，本模块的细化研究思路如图3所示。
+
+# 3.3.1工作重塑行为的动力机制研究
+
+工作重塑是个体为了获得更合适、更满意以及更有意义的工作而自发地调节和改变工作资源（Tims etal.,2013）的过程，这一过程不可避免地包括个体资源消耗。因此，工作重塑的发生，须有一定的动力因素，如能力（can do）、原因（reason to）和热爱（energized to）等因素（Parker&Ohly,2008）。能力因素（can do factor）是个体对其能动性能力的主观评价；原因因素（reason factor）顾名思义，是个体采取主动性行为的内在原因，例如为了塑造积极形象、为了获得控制感等；热爱因素（energized to factor）指能够激活积极情感的因素。较强的职业可持续力涵盖着更丰富的职业技能和持续应对变化的能力，助于把控工作任务和角色的调整，对应着更强的工作重塑能力。且当个体具备较强的职业可持续力时，意味着其具有更充足的心理资源，以补充日间工作需求带来的资源消耗，保持积极的心理状态（Bakkeret al.,2004)，因而更有可能进行工作重塑。据此，本研究认为，职业可持续力是工作重塑行为的潜在动力。
+
+假设1：个体的职业可持续力将对其工作重塑行为产生促进作用。
+
+易变职业生涯倾向是个体通过自主引导的职业行为，选择个人职业发展路径，以寻求心理职业成功的模式（Hall,2004)。易变职业生涯倾向越高的个体，更倾向于自我承担个人的职业发展，且以自身的而非他人的价值观来界定职业发展。因此，当个体具有越明显的易变生涯倾向时，其内在主动性倾向越高，将具有更高的重塑日常工作的可能性。加之已有研究表明，易变职业生涯倾向的潜在前因变量包括感知可雇佣力、社会资本等（Rodrigues et al.,2019)，而这恰恰是职业可持续力的应有之义，因此，可推测职业可持续力将正向影响个体的易变职业生涯倾向。综上，本研究初步认为：
+
+假设2：职业可持续力对工作重塑行为的影响作用将被其易变职业倾向中介。
+
+# 3.3.2职业可续视角下定向工作重塑路径研究
+
+资源保存理论（Hobfoll,2001）指出,个体倾向于获取和保存个人的珍视资源（如目标、状态、能力等，Halbesleben eta la.,2014)，且在做出资源分配决策时，优先防止资源丧失，其次考虑获取资源，创造资源盈余，即个体对珍贵资源的评价和该资源的状态决定了后续资源分配的具体模式。工作重塑行为包含着个人资源的消耗与再投资，其目标、方向及程度亦具有个体间的定向差异。置于职业可续视角，职业可持续力高的个体，具备更丰富的职业发展相关个人资源，且更倾向于对职业可续发展作出优先评价，则更有可能将已有资源朝职业可续发展的方向做进一步投资与配置，其结果是获得更充足的可续职业发展资源。据此我们推断个体职业可持续力对工作重塑行为具有定向影响。
+
+通过前期的文献积累和理论分析，基于社会认知理论（Bandura,1986)，我们将关注个体自我能力认知——>行为倾向——>行为——>能力提升这一动态作用机制，识别个体基于工作重塑，实现职业可续发展的动态环闭。本研究拟在连续四个月内，以个体对自身职业可持续力在不同观测节点（各节点间隔一个月）的认知和认知变化为出发点，持续检验其对个人易变职业倾向的影响作用，进而激活日常工作重塑行为，并进一步促进个体职业可持续力发展的动态过程。与此同时，一并检验经由职业可持续力推动的工作重塑行为，对员工职业发展状态（包括职业自我效能感、主观职业成功及职业成长等变量）的提升作用，作为同一时点职业可持续力的侧面支撑。
+
+![](images/b7cfb5d4d1d5697d3999dff0b140c5722c72f879bd4c6b14fc40a22875fce529.jpg)  
+图3研究二研究思路初步框架图
+
+# 3.4可持续职业视角下的工作重塑行为促进研究：组织层面的干预作用
+
+在员工与组织联结不断弱化的今天，跳槽愈发常态化。为员工提供职业发展的平台，会否陷入为他人做嫁衣的尴尬境地，逐渐成为企业管理者的顾虑。实践表明，工作重塑对组织亦有积极影响，是应被组织管理者鼓励的行为。基于研究二的推演，我们假定个体职业可持续力对其工作重塑行为具有定向的动态提升作用，那么，这一结论如何在组织管理中落地?对组织定向干预员工工作重塑行为有何借鉴意义？本部分将通过跨层次的纵向调研和周频次准实验研究，回答这些问题。
+
+# 3.4.1组织职业管理支持对员工职业可持续力和工作重塑行为的影响研究
+
+职业管理被定义为一系列的从培训课程到评估中心指导以及提供职业建议的正式或非正式的活动，而组织职业管理支持则特指由组织规划、开展的一系列上述活动。Sturges 等（2002）对组织职业管理支持的界定包括6种正式的干预（如：分配有利于未来职业发展的工作、提供利于职业发展的正式培训等）和4种非正式的干预（如：在工作中引荐对职业发展有帮助的人、师徒制职业指导等)。组织对员工提供的职业管理支持，涵盖着员工当前和未来发展的规划、信息和资源，因而有助于提升员工职业可持续力。此外，从与员工工作重塑行为的关系来看，组织为员工提供职业发展上的正式与非正式的支持，一方面可以为员工扩充工作资源，另一方面，职业管理支持的结果是员工提高了个人在职业发展上的竞争力和自我效能，因而从资源、动力以及动机等多个角度推进了员工的工作重塑行为。加之研究二的推论，本部分初步提出以下三个假设：
+
+假设3:组织职业管理支持与员工职业可持续力呈正相关关系假设4:组织职业管理支持与员工工作重塑行为呈正相关关系假设5:员工职业可持续力将中介组织职业管理支持对员工工作重塑行为的促进作用
+
+# 3.4.2员工职业承诺的中介调节作用
+
+职业承诺是个体基于对当前职业的情感反应所产生的个体与职业间的心理纽带(Blau,2003)。当组织为员工提供职业发展的相关支持时（如定期开展专业知识和技能培训等)，有助于提高员工对目前所从事职业的自我效能以及对未来发展前景的确定性，因而更有可能对当前职业产生积极的情感评价。现有文献表明，职业承诺高的个体，倾向于在当前的职业中投入额外的精力，且愿意花更多的时间发展相关技能（Lee et al.,2000; Zhou etal.,2009）。即职业承诺越强化了个人将已有资源向利于职业发展的方向的内在意愿。结合假设1的推演，我们初步认为个体的职业承诺将强化由职业可持续力到主动性行为（如工作重塑）的推动作用，并提出：
+
+假设6:由组织职业管理支持而提升的职业承诺，将正向调节个体职业可持续力与其工作重塑行为间的相关关系。
+
+# 3.4.3组织不同职业支持的影响差异比较
+
+本研究拟通过准实验的方式，跟踪观察比对同一合作企业针对新员工的不同职业支撑策略的效果。实验中将选取系统职业培训和导师制培训两种方式作为正式职业管理和非正式职业管理策略的典型代表，检验两种培训方式对职业及工作场所相关变量（如，易变职
+
+业倾向、工作重塑、工作绩效等）的区分效度及增量效度，从而确定实践中企业制定职业发展策略的更为经济有效的路径。
+
+# 4理论建构
+
+无边界职业时代这一大职业背景具有两个明显特征，一是个体与组织边界弱化，因此个体职业生涯发展愈发依赖于自我驱动。二是个体拥有多段连续的职业生涯成为常态，将连续演化为持续，方能随着时间的更迭，使个人的职业发展不断得到夯实和提升，而非消耗或阻碍（Chaetal.,2009)。工作重塑是人们自下而上，能动地改变资源和任务边界的活动，与个体自主性以及内在资源、认知等的提升，均具有关联性，因而是实现职业可持续发展的潜在行为。
+
+但工作重塑是个体为了获得更合适、更满意以及更有意义的工作而自发地调节和改变工作资源（Timsetal.,2013）的过程，不可避免地包括个人资源的消耗与再投入。依照Halbesleben等学者（2014）对个人资源的总结，个体资源包括目标、状态、能力以及其他个人所珍视的事物。个体具有获取、保存和扩充个人珍贵资源的内在动力，且在做出资源分配决策时，优先防止资源丧失、其次考虑获取资源，创造资源盈余(Hobfoll,2001)。即个人对珍贵资源的界定及该资源的状态决定着其被投资分配的具体方式。因此，工作重塑行为可能存在着定向动力差异和定向路径差异。现有文献多局限于组织情境中工作重塑行为的影响作用，对于动力性前因变量的研究则相对不足（Zhang＆Parker,2019；张春雨等，2012），且多集中于探讨组织内变量或个体短期动机与工作重塑行为的关联性，忽视对人们为什么进行工作重塑、工作重塑的方向和目标是什么等问题进行探究。有鉴于此，本研究基于前期相关文献（Van der Heijden & De Vos ,2015；De Vos et al.,2018；Newman,2011； Chin et al.,2019),结合职业发展理论（Super,1957）、社会认知理论（Bandura,1986）及资源保存理论（Hobfoll,2001）等，建构系列理论，在界定职业可持续力内涵及测量维度的基础上，阐述职业可持续力与工作重塑行为的闭环联动作用，以及组织职业管理支持之于其中发挥的影响，从而识别职业可续视角下，工作重塑行为的动力、路径及组织干预策略。
+
+1.建构职业可持续力内涵，丰富职业可持续力的理论研究体系。现有研究已经开始关注，面对职业跨组织边界发展这一不可逆趋势(Sullivan&Arthur,2006)，个体应具备怎样的能力支撑自身职业可续发展，但仍处于对相关能力的理论性框架的探讨，尚未有明确的内涵界定及有效测量工具。可持续职业概念的内核是跨时间、跨空间的个体能动可持续发展。据此，职业可续发展强调个体的中心代理角色，依据认知评价理论（Deci et al.,1975），当个体认为相关职业行为是由自主决定的、自我控制时，会具有进行职业发展行为的内在动力。因此，职业可持续力首先应包含个体的可续意识；个体自身的能力是支撑这些内生动机实现的关键。实现跨时间的纵向职业可续发展，需应对各种变化和不确定性，适时做出恰当选择，要求个体需具备灵活丰富、可即时更新的能力（Newman,2011)；职业发展理论（Super,1957;Levinson,1986）指出，职业发展需从静态与动态相结合的视角解读。可持续的职业生涯是由每一个相对稳定的职业周期中的自我调节过程构成，在这个过程中，通过重新定义人的职业适应时间来保护和促进（而不是消耗）人和职业发展（Greenhaus & Kossek,2014; Newman,2011; Van der Heijden &De Vos,2015;Parasuraman et al.,2000)，而每一次成功适应、成功调节，都需消耗个人资源。因此，职业可持续力应涵盖资源相关要素（Chin etal.,2019)；此外，职业发展受到诸如工作环境、组织环境、生活环境、甚至更广泛的劳动力市场环境以及所处的社会和文化背景等环境因素的影响（Newman,2011)，可见，对可持续职业力的界定，也须考虑个体如何处理不同层次、背景中的机会和约束，即个体的跨环境整合能力。据此，本研究凝练出职业持续力的构念维度：即可持续意识、资源丰富性、能力灵活度以及跨域整合力。
+
+2.职业可续视角下工作重塑动力及路径建构。现有文献发现，工作重塑行为的发生需要一定的“助推力”，这一助推力可能与能力、原因或热爱等因素相关（Parker＆Ohly，2008)。较强的职业可持续力涵盖着更丰富的职业技能和持续应对变化的能力，利于把控工作任务和角色的调整，因而是“助推”工作重塑行为的能力因素。同时，工作重塑的过程实际上伴随着个人资消耗或投资（Tims etal.,2016)，而依据内在动机及价值观对投资结果进行的预先判断（Foa&Foa,1980)，影响着个人资源分配与投资的结果。置于职业可续视角，即不是任何工作重塑行为、任何人的工作重塑行为，均能实现职业的可持续发展。例如员工工作重塑的动力若是印象管理，则其工作重塑的重点可能更多地放在如何获得提升短期绩效的资源，而这可能与职业的长期可续发展相悖（Klotz etal.,2018)。依据资源保存理论（Hobfoll,2001)，个体倾向于保存和扩充其所认为的珍贵资源。职业可持续力高的个体，更倾向于对职业可续发展作出较高的内在评价，因而更可能朝着职业可续的方向重塑其日常工作。综上，本研究认为，职业可持续力是个体基于工作重塑实现职业可续的定向动力。
+
+结合社会认知理论（Bandura,1986)，个体自我能力认知将影响其行为倾向，进而影响后续行为及行为的结果。即伴随着职业可持续力的提升而增强的易变职业倾向，会定向牵引个体工作重塑行为的作用方向及力度，使得个体对日常工作的认知、资源和任务等的重塑，有针对性地向职业可续发展的方向汇聚，在这一过程中，个体的可续意识、资源能力的灵活丰富度亦将进一步得到强化（Rudolph et al.,2017)，从而形成从由工作重塑链接的“职业可持续力——职业可持续力”的动态上升闭环，据此刻画出从工作重塑到职业可续发展的作用路径。
+
+3．组织层工作重塑干预理论建构。已有文献对员工工作重塑干预的探讨多集中在个体内或个体间变量，例如员工主动调节工作目标、直属领导风格影响等（田喜洲等，2020)。于组织而言，员工灵活重塑其日常工作，与组织气氛、组织活力及组织绩效等重要变量息息相关（Wang,et al.,2018；耿庆岭，韦雪艳,2016；刘云硕等,2019)，因而，从组织层面确定员工工作重塑干预策略具有必要性；另一方面，于员工个体而言，组织环境因素也是影响日间工作场所行为的重要因素，因此需关注个体与组织环境因素的交互效应，从而提升工作重塑行为的干预效率。
+
+工作重塑行为的核心在于增加有效资源、减少阻碍需求（Zhang&Parker,2019)，组织职业管理支持是有效工作资源之一。基于资源保存理论（Hobfoll,2001)，个体的行为受其资源盈余状态的影响。即感知资源充裕时，会进行更多资源投资行为，相反，感知资源丧失，将采取投资回避行为。因此，本课题认为，当组织为员工提供有效职业管理支持时，员工个人资源池得到扩充，在提高员工的职业竞争力和职业自我效能的同时，促进员工保持及投资其珍视资源，实现定向工作重塑行为。此外，当组织为员工提供职业发展的相关支持时，例如定期开展专业知识、技能培训，提供扩充当前职业相关社会资本的机会，有助于提高员工对目前所从事职业的自我效能以及对未来发展前景的确定性，因而更有可能对当前职业产生情感承诺。同时，高职业情感承诺的员工，更倾向于将个人资源向利于职业发展的方向投资（Leeetal.,2000），从而强化由职业可持续力到主动性行为（如：工作重塑）的推动作用。基于此，本课题认为组织职业管理支持是组织层进行员工工作重塑干预的重要选项，应从组织与个体交互的视角，刻画组织职业支持对个体职业可持续力及日间工作重塑行为的动态影响机制。同时，从匹配的视角看，不同职业管理支持模式对不同员工的刺激效果亦有所差异，应区别考量。但在现有实证检验中，往往只是简单分析各支持策略与结果变量间的相关关系。因此，本课题进一步对比检验不同职业管理支持模式的干预效果差异，为组织干预员工工作重塑行为提供策略参考。
+
+最后，在无边界职业时代，职业发展自我导向的趋势驱使个体的日常工作行为愈发涵盖生涯发展因素，个体日间工作场所行为（工作重塑)，是其职业观与职业能力的间接反映和缩影。鉴于此，本研究从职业可续视角出发，还有以下理论贡献：检验个体日常工作重塑行为的变化与发展，探究个体工作重塑行为的动力因素（易变职业倾向）和能力因素（职业可持续力），有效回应从职业视角探讨工作重塑行为动机的呼呼（Akkermans& Tims,2017;Rofcanin et al.,2019；王忠军等,2019)；通过验证工作重塑在职业可持续力动态环闭提升过程中的推动作用，将工作重塑行为的结果变量拓展到职业视域；同时，搭建组织层工作重塑干预理论框架，借助实证及准实验研究，扩展组织职业管理支持的应用边界。
+
+参考文献   
+耿庆岭，韦雪艳.(2016).教师工作重塑与组织公民行为关系：工作投入的中介作用．中国临床心理学杂志， 24(2),356-358.   
+胡睿玲，田喜洲.(2015).重构工作身份与意义——工作重塑研究述评.外国经济与管理,37(10),69-81.   
+蒋建武，张凤鸣，林莉莉.(2017).可持续人力资源管理研究:实践体系与理论模型．中国人力资源开发， (10), 16-27.   
+李姗姗，王海宁，栾贞增，王强.(2019).交互视角下工作重塑干预的影响效应整合模型．心理科学进展, 27(4), 726-736.   
+刘云，杨东涛，安彦蓉.(2019).挑战性-阻碍性压力与工作幸福感关系研究：基于工作重塑的中介作用．当 代经济管理，41(08),77-84.   
+刘云硕，叶龙，郭名.(2019).中国情境下工作重塑对员工创造力的影响研究．软科学,33(5),87-91.   
+苏益南，欧阳晨慧，朱永跃.(2018).产业工人工作重塑与离职意愿：人-工作匹配和授权型领导的作用．工 业工程与管理,23(6),195-201.   
+孙永波，胡晓鹃，丁沂昕.(2020).员工培训，工作重塑与主动性行为——任务情境的调节作用．外国经济与 管理,42(1), 70-84.   
+田喜洲，郭小东，许浩.(2020).工作重塑研究的新动向——基于调节定向的视角.心理科学进展,28(08):1367- 1378.   
+王忠军，张丽瑶，杨茵茵，王仁华，彭义升.(2019).职业生涯晚期工作重塑与工作中成功老龄化．心理科学 进展,27(9),1643-1655.   
+徐长江，陈实.(2018).工作重塑干预：对员工工作自主性的培养．心理科学进展,26(8),1501-1510.   
+张春雨，韦嘉，陈谢平，张进辅.(2012).工作设计的新视角：员工的工作重塑．心理科学进展,20(8),1305- 1313.   
+Akkermans,J.,& Tims,M.(20l7). Crafting your carer: How carer competencies relate to career success via job crafting. Applied Psychology,66(1),168-195.   
+Akkermans,J.,Brenninkmeijer, V.,Huibers,M.,&Blonk,R. W. (2013).Competencies for the contemporary career: Development and preliminary validation of the career competencies questionnaire.Journal of Career Development,40(3),245-267.   
+Anseel,F. (20l7).Agile learning strategies for sustainable carers: Areview and integrated modeloffeedback seeking behavior and reflection. Current Opinion in Environmental Sustainability,28,51-57.   
+Bakker,A.B.,Demerouti,E.,& Verbeke, W.(204). Using the job demands - resources model to predictburnout and performance. Human Resource Management: Published in Cooperation with the School of Business Administration, The University of Michigan and in alliance with the Society of Human Resources Management, 43(1), 83-104.   
+Bandura,A.(1986).Social foundations of thought and action: A social cognitive theory.Englewood Cliffs,NJ: Prentice- Hall.   
+Barthauer,L., Kaucher,P., Spurk,D.,& Kauffeld,S. (202O). Burnout and career (un) sustainability:Looking into the blackbox of burnout triggered career turnover intentions.Journal of Vocational Behavior,117,10334.   
+Blau G.20o3.Testing for a four-dimensional structure of occupational commitment. Journal of Occupational and Organizational Psychology,76(4): 469-488   
+Brenninkmeijer, V.,& Hekkert-Koning,M. (2O15).To craft or not to craft?Career Development International. 20(2), 147-162.   
+Cha, J., Kim, Y.,& Kim,T.Y.(20o9).Person-career fitand employee outcomes among research and development professionals. Human Relations, 62(12),1857-1886.   
+Cheng,J. C., Chen, C.Y.,Teng, H.Y.,&Yen, C.H. (2016). Tour leaders' job crafting and job outcomes: The moderating role of perceived organizational support. Tourism Management Perspectives, 20,19-29.   
+Chin, T.,Li, G., Jiao, H.,Addo,F.,& Jawahar, I. M. (2o19). Career sustainability during manufacturing innovation. Career Development International. 24(6), 509-528.   
+De Vos,A., Van Der Heijden,B.I, & Akkermans, J. (2018). Sustainable careers: Towards aconceptual model. Journal of Vocational Behavior, htps://doi.org/10.1016/j.jvb.2018.06.011.   
+Deci,E.L.,Cascio, W.F.,& Krusel,J. (1975). Cognitive evaluation theory and some comments ontheCalderand Staw critique. Journal of Personality & Social Psychology,31(1), 81-85.   
+DeFilippi, R.J.,& Arthur,M.B. (1994). The boundarylesscareer: Acompetency - based perspective.Journal of Organizational Behavior,15(4),307-324.   
+Foa,E.B.,& Foa, U.G. (1980). Resource theory. In Social exchange (pp.77-94). Boston, MA: Springer.   
+Greenhaus,J. H.,& Kossek,E.E.(2o14).Thecontemporary career: Awork-home perspective.Annual Review of Organizational Psychology and Organizational Behavior, 1(1),361-388.   
+Halbesleben, J.R., Neveu, J.P.,Paustian-Underdahl, S.C.,& Westman, M. (2014). Geting to the “COR" understanding the role of resources in conservation of resources theory.Journal of Management,40(5),1334- 1364.
+
+Hall,D.T.(2oo4).Theproteancareer:Aquarter-century journey.JournalofVocational Behavior,65(1),1-13.
+
+Harju,L.K.,Hakanen,J.J.,&Schaufeli, W.B. (2016).Can job crafting reduce job boredom and increase work engagement? A three-year cross-lagged panel study. Journal of Vocational Behavior, 95,11-20.
+
+Harju,L. K., Schaufeli, W.B.,& Hakanen, J. J. (2018). Amultilevel study on servant leadership, job boredom and job crafting.Journal of Managerial Psychology. 33(1),2-14.   
+Hite,L.M.,& McDonald,K. S. (2020). Careers after COVID-19: Challenges and changes. Human Resource Development International,23(4),427-47.   
+Hobfoll,S.E..(20ol).The influenceof culture,community,and the nested-self inthe stress process: Advancing conservation of resources theory. Applied Psychology, 50(3),337-421.   
+Kelly, C.M., Strauss, K.,Arnold,J.,& Stride,C. (202O). The relationship between leisure activities and psychological resources that support a sustainable career: The role of leisure seriousnessand work-leisure similarity. Journal of Vocational Behavior,117,103340. htps://doi: 10.1016/j.jvb.2019.103340   
+Kim, M.,& Beehr, T.A. (2018). Can empowering leaders affect subordinates’ wel-being and careers because they encourage subordinates' job crafting behaviors? Journal ofLeadership & Organizational Studies,25(2),184- 196.   
+Klotz,A.C.,He,W., Yam,K.C.,Bolino,M. C., Wei, W.,& Houston II,L. (2018).Good actors but bad apples: Deviant consequences of daily impresson management at work. Journal ofApplied Psychology,103(10)145.   
+Kuijpers,M.A., Schyns,B.,& Scheerens, J. (2006). Career competencies for career success.The Career Development Quarterly, 55(2),168-178.   
+Lee,K., Carswel, J.J.,&Allen,N.J. (2ooo).Ameta-analyticreview of occupationalcommitment: relations with person-and work-related variables.Journal of Applied Psychology, 85(5), 799.   
+Lent, R. W.,& Brown, S.D. (2020). Career decision making, fast and slow: Toward an integrative model of intervention for sustainable career choice. Journal of Vocational Behavior,l20,103448.   
+Levinson, D. J. (1986). A conception of adult development. American Psychologist, 41(1), 3.   
+Lu, C. Q., Wang, H. J.,Lu,J. J.,Du,D.Y.,& Bakker,A.B. (2014). Does work engagement increase person-job fit? The role of job crafting and job insecurity.Journal of Vocational Behavior; 84(2),142-152.   
+McClelland,G.P.,Leach,D.J.,Clegg,C.W.,&McGowan,I. (2014). Collaborative crafting incallcentre teams. Journal of Occupational and Organizational Psychology, 87(3), 464-486.   
+Newman, K.L. (2011). Sustainable careers. Organizational Dynamics,40(2),136.   
+Parasuraman,S., Greenhaus,J.H.,& Linnehan,F. (2oo).Time,person-career fit,and the boundarylescareer.
+
+Trendsin Organizational Behavior,7,63-78.
+
+Parker,S.K.,&Ohly,S. (2008).Designing motivating work.InR.Kanfer,G.Chen,&R.D.Pritchard (Eds.),Work motivation: Past, present, and future (pp. 233-384). New York: Routledge.
+
+Petrou,P.,Demerouti, E.,& Schaufeli, W.B. (2015).Job crafting in changing organizations: Antecedents and implications for exhaustion and performance.Journal of Occupational Health Psychology,20(4), 470.   
+Philip H. Mirvis,& Douglas T. Hall. (2006). Psychological success and the boundaryless career. Journal of Organizational Behavior; 15(4),365-380.   
+Rodrigues,R., Butler, C.L., & Guest,D.(2019).Antecedents of protean and boundaryless career orientations: The role of core self-evaluations,perceived employability and social capital. Journal of Vocational Behavior, 110,1- 11.   
+Rudolph, C.W., Katz,I. M.,Lavigne,K.N.,& Zacher,H.(2017). Job crafting: Ameta-analysis of relationships with individual differences, job characteristics,and work outcomes.Journal ofVocational Behavior,102,112- 138.   
+Ryan, R.M.,& Deci,E.L.(20o). Self-determination theoryand the facilitation of intrinsic motivation, social development, and wel-being. American Psychologist, 55(1), 68.   
+Sakuraya,A., Shimazu,A., Imamura, K., Namba, K., & Kawakami, N. (2016). Efects of a job crafting intervention program on work engagement among Japanese employees: a pretest-postest study. BMC Psychology, 4(1), 49.   
+Savickas, M.L.,& Porfeli,E.J. (2012). CareerAdapt-Abilities Scale: Construction,reliability,and measurement equivalence across 13 countries. Journal of Vocational Behavior; 80(3), 661-673.   
+Schultz,T. W.(1961). Investment in human capital. The American Economic Review, 51(1),1-17.   
+Slemp,G. R., & Vell-Brodrick,D.A. (2014). Optimising employee mental health: The relationship between intrinsic need satisfaction, jobcrafting,and employee well-being. Journal ofHappiness Studies,15(4), 957-977.   
+Solberg,E.,& Wong, S.I. (20l6). Crafting one's job to take charge of role overload: When proactivity requires adaptivity across levels. The Leadership Quarterly,27(5),713-725   
+Straub, C., Vinkenburg, C.J.,& van Kleef, M. (2019). Career customization: Putting an organizational practiceto facilitate sustainable careers to the test.Journal of Vocational Behavior,l17,103320. https://10.1016/j.jvb.2019.103320   
+Strauss,K., Grifin,M.A.,& Parker,S.K. (2012).Future work selves: How salient hoped-for identities motivate proactive career behaviors. Journal of Applied Psychology, 97(3), 580.   
+Sturges,J., Guest,D.,Conway,N.,& Davey,K. M. (202).Alongitudinal studyof the relationship betweencareer
+
+management and organizational commitment among graduates in the first ten years at work.Journal of Organizational Behavior: TheInternational Journal of Industrial,Occupational and Organizational Psychology and Behavior, 23(6),731-748.
+
+Sulivan,S.E.,& Arthur,M.B.(0o6).The evolutionof the boundaryless career concept: Examining physical and psychological mobility. Journal of Vocational Behavior, 69(1),19-29.   
+Super,D.E. (1957).The psychology ofcareers; an introduction to vocational development. New York: Harper & Brothers.   
+Tims,M.,& Bakker,A.B.(2010). Job crafting: Towards a new model of individual job redesign.SA Journal of Industrial Psychology,36(2),-9.   
+Tims,M.,Bakker,A.B.,& Derks,D.(2013).The impact ofjob crafting on jobdemands,job resources,and wellbeing. Journal ofOccupational Health Psychology,18(2),230.   
+Tims,M.,Derks,D.,& Bakker,A.B. (2016).Job crafting and its relationships with person-job fit and meaningfulness: A three-wave study. Journal of Vocational Behavior, 92, 44-53.   
+Van den Heuvel,M.,Demerouti,E.,& Peeters,M.C. (2015).The job crafting intervention: Effects on job resources,self-eficacy,ndafective well- being.JournalofOccupationaland Organizational Psychology 88(3),511-532.   
+Van der Heijden, B.I. J. M. (2oo5). No one has ever promised you a rose garden. On shared responsibility and employability enhancing strategies throughout careers. Inaugural address Open University of the Netherlands. Heerlen: Open University of the Netherlands. Assen: Van Gorcum.   
+Van derHeijden,B.I.,&De Vos,A. (20l5).Sustainablecareers: Introductorychapter.InHandbookofresearch on sustainable careers. Edward Elgar Publishing.   
+Van Wingerden,J.,Bakker,A. B.,& Derks,D. (2017). Fostering employee wel-being via a job crafting intervention.Journal of Vocational Behavior, 100,164-174.   
+Wang,H.J.,Demerouti,E.,Blanc,P.L.,&Lu, C.Q.(2018). Crafting a job in ‘tough times': When being proactive is positively related to work attachment. Journal of Occupational and Organizational Psychology, 91(3), 569-590.   
+Wrzesniewski,A.,& Duton,J.E.(2001). Crafting a job: Revisioning employees as active crafters oftheir work. Academy of Management Review, 26(2),179-201.   
+Rofeanin,Y.,Bakker,A.B.,Berber,A., Golgeci,I.,&Las Heras,M. (2019).Relational jobcrafting: Exploring the role of employee motives with a weekly diary study. Human Relations,72(4),859-886.
+
+Zhang,F., & Parker, S. K. (2O19). Reorienting job crafting research: A hierarchical structure of job crafting concepts and integrative review.Journal of Organizational Behavior, 40(2),126-146. Zhou,H.,Long,L.R.,& Wang, Y. Q. (20o9). What is the most important predictor of employees' turnover intention in Chinese call centre: Job satisfaction,organisational commitment or career commitment? International Journal of Services Technology and Management,12(2),129-145.
+
+Research on job crafting from the perspective of sustainable career: motivation, paths and intervention mechanisms
+
+WANG Qiong
+
+(School of Business Administration,Zhejiang gongshang University,Hangzhou 31oo18, China)
+
+Abstract: The realisation of high-quality and sustainable development of a social economy depends on the guidance, support and guarantee of the talents with sustainable career abilities. The present study comprehensively considers the linkages between occupations and daily work behaviours and explores the potential motivations,paths and intervention mechanisms for individuals to gain sustainable competitive advantages through daily work. First， we define the concept and measurement structure of career sustainability， and reveal its influencing factors, dynamic development mechanisms and the effects that may have on proactive occupational behaviours. Second, based on the conservation of resource theory and social cognitive theory, we explore the interactive influences between career sustainability and employees' job crafting behaviours. Third, from the perspective of sustainable career, this study explores the vertical intervention mechanisms of organisations on individuals’ job crafting behaviour. Strategies for individuals to achieve sustainable career development and for organisations to carry out career management which is beneficial to both organisations and employees are discussed.
+
+Key Words: Career Sustainability， Job Crafting， Organizational Career Management Support, Conservation of Resource Theory, Job Demand-Resource Model

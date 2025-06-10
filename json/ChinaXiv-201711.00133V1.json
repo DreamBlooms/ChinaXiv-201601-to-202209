@@ -1,0 +1,446 @@
+[
+    {
+        "type": "text",
+        "text": "Solvent Synthesis, Growth Mechanism and Photocatalytic Properties of AgInS2 Nanoplate and Nanoparticle ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Yue(l)(王 跃);SHI Yong-Fang(2 (石永芳);LI Xiao-Bo(l) (李晓波);LI Dong-Weil)(黎东 维);ZHANG Tao( (张涛);HE Yu-Cen(l (何昱岑)   \n(1)College of Biological and Chemical Engineering, Chongqing University of Education, Chongqing 400067,   \nChina;②Fujian Institute of Research on the Structure of Mater, Key Laboratory of Research on Chemistry and Physics of Optoelectronic Materials, Chinese Academy of Sciences, Fuzhou 350o02, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTOrthorhombic $\\mathrm { A g I n S } _ { 2 }$ nanoplate and nanoparticle were synthesized using pyridine and 1-dodecanethiol as the solvent. The obtained products were characterized by X-ray diffaction (XRD), field-emission scanning electron microscope (FESEM)， field-emission transmission electron microscope (FETEM),and the possible growth mechanism of $\\mathrm { A g I n S } _ { 2 }$ was also proposed by the exploration of reaction temperature and time. Meanwhile,the bandgap of $\\mathrm { A g I n } S _ { 2 }$ was calculated by the UV-Vis diffuse reflectance spectrum,and the photocatalytic activity was also investigated.Those experimental results indicate that the reaction temperature,reaction time and solvent have an influence on phase and morphology of AgInS2,and both $\\mathrm { A g I n S } _ { 2 }$ nanoplate and nanoparticle have some ability on photocatalytic degradation of organic dyes under UV-Vis light irradiation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: orthorhombic $\\mathbf { A g I n S } _ { 2 }$ ; nanostructure; solvent method; growth mechanism; photocatalysis; DOI: 10.14102/j.cnki.0254-5861.2011-1738 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the development of society，people pay more and more attntion to the pollution caused by industrial waste waterl1l.The semiconductor photocatalytic method, especially using cheap sunlight as the light source，to realize visible photocatalytic degradation of pollutants is a new technology of low energy consumption and environmental protection.As an important I-I-VI group semiconductor material, ternary metal sulfide, $\\mathrm { A g I n S } _ { 2 }$ ,has gradually become a research hotspot, due to its unique photoelectric and catalytic performance,which has potential application prospect in the fields of light-emitting diodes, nonlinear optical devices,solar cels,photocatalysis and biological labeling[2-9l. Currently,the preparation methods of AgInS2 are hot pressing method[10]，hot-wall epitaxial growth method[11]，hydrothermal method[12]， solvothermal method[13],hot injection method[14], thermolysis method[15],etc.The previous work focuses on the OD AgInS2 quantum dots[8,9], but few studies of 2D and 3D nanostructures[4].In our previous work[16],the metastable orthorhombic $\\mathrm { A g I n S } _ { 2 }$ flower-like microsphere was successfully prepared by the pyrolysis of organometallic precursors at $2 5 0 { \\sim } 2 8 0 ~ ^ { \\circ } \\mathrm { C }$ .However, considering the high temperature (above $2 0 0 ~ ^ { \\circ } \\mathrm { C } \\$ ）needs high energy consumption,and the products should be heated more uniformly in the solvent,as wellas the solvent has important influence on the morphology of the product, we try to disperse the precursor in diferent solvents to obtain $\\mathrm { A g I n } { \\mathrm { S } } _ { 2 }$ nanostructures with different morphology at lower temperature. The results indicate that $\\mathrm { A g I n S } _ { 2 }$ nanoplate and nanoparticle can be obtained at lower temperature ( $1 2 0 \\sim 1 5 0 ~ ^ { \\circ } \\mathrm { C } )$ ）using pyridine and 1-dodecanethiol as the solvents.Meanwhile,the obtained products were characterized by $\\mathrm { \\Delta } \\mathrm { X }$ -ray diffraction (XRD)，field-emission scanning electron microscope (FESEM) and field-emission transmission electron microscope (FETEM),and the possible growth mechanism of $\\mathrm { A g I n S } _ { 2 }$ was also proposed by the exploration of reaction temperature and time. Finally, the bandgap of $\\mathrm { A g I n S } _ { 2 }$ was calculated by UV-Vis diffuse reflectance spectrum，and the photocatalytic activity was also investigated，as well as its possible photocatalytic mechanism. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Chemicals ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Silver nitrate $( \\mathrm { A g N O } _ { 3 } )$ ， indium nitrate hydrate $( \\mathrm { I n } ( \\mathrm { N O } _ { 3 } ) _ { 3 } { \\cdot } 4 . 5 \\mathrm { H } _ { 2 } \\mathrm { O } )$ ，carbon disulfide $( \\mathbf { C } \\mathbf { S } _ { 2 } )$ ，potassium hydrate (KOH), ethanol $\\mathrm { \\langle C _ { 2 } H _ { 5 } O H \\rangle }$ ，chloroform(CHCl3)，dichloromethane（ $\\mathrm { C H } _ { 2 } \\mathrm { C l } _ { 2 } )$ ，and pyridine $( \\mathrm { C } _ { 5 } \\mathrm { H } _ { 5 } \\mathrm { N } )$ ， dichloromethane $\\mathrm { ( C H } _ { 2 } \\mathrm { C l } _ { 2 } )$ ),1-dodecanethiol $\\mathrm { \\bf { C } } _ { 1 2 } \\mathrm { \\bf { H } } _ { 2 5 } \\mathrm { \\bf { S } } \\mathrm { \\bf { H } } )$ , ethylenediamine $( \\mathrm { C } _ { 2 } \\mathrm { H } _ { 8 } \\mathrm { N } _ { 2 } )$ , and oleic acid $( \\mathbf { C } _ { 1 8 } \\mathbf { H } _ { 3 4 } \\mathbf { O } _ { 2 } )$ （204号 were purchased from Shanghai Chemical Co.. $\\mathrm { [ C H _ { 3 } ( C H _ { 2 } ) _ { 7 } ] _ { 2 } N H }$ (Alfa, A.R.) was used. All reactants were used as received. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Syntheses of $\\mathbf { A } \\mathbf { g } ( \\mathbf { O T C } )$ and $\\mathbf { I n } ( \\mathbf { O T C } ) _ { 3 }$ precursors ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Precursors were prepared according to the reactions shown in Scheme 1. Below $0 \\ { } ^ { \\circ } { \\bf C }$ $\\mathrm { C S } _ { 2 }$ has reacted with $\\mathrm { \\small { [ C H _ { 3 } ( C H _ { 2 } ) _ { 7 } ] _ { 2 } N H } }$ and KOH to produce enough dithiocarbamate salt in ethanol (Reaction 1). Then,an ethanol solution with excess $\\mathrm { I n } ( \\mathrm { N O } _ { 3 } ) _ { 3 } { \\cdot } 4 . 5 \\mathrm { H } _ { 2 } \\mathrm { O }$ was added to generate white suspension $\\mathrm { I n } [ \\mathrm { S } _ { 2 } \\mathrm { C N } ( \\mathrm { C } _ { 8 } \\mathrm { H } _ { 1 7 } ) _ { 2 } ] _ { 3 }$ (Reaction 2). After stirring for $5 \\mathrm { m i n }$ ,an ethanol solution with an appropriate amount of ${ \\bf A g N O } _ { 3 }$ with a mole ratio of $\\mathbf { M } ^ { + } { : } \\mathrm { I n } ^ { 3 + }$ （20 $= 1 { : } 1 . 2 5$ was added and stirred for another $2 \\mathrm { h }$ to ensure the complete reaction to form $\\mathrm { I n } ( \\mathrm { O T C } ) _ { 3 }$ and $\\operatorname { A g } ( \\operatorname { O T C } )$ precursors (Reaction 3)and make them mix evenly. A solid was obtained after rotary evaporation of ethanol and then dissolved in $\\mathrm { C H C l } _ { 3 }$ and filtrated. Then,this $\\mathrm { C H C l } _ { 3 }$ -filtration was rotary evaporated to generate the $\\mathrm { A g ( O T C ) } / \\mathrm { I n ( O T C ) } _ { 3 }$ precursor, a soil-like solid. Finally, the precursors in yellow were washed by acetone. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Synthesis of AgInS2 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In a typical process,the precursor was added into a solution containing pyridine or other solvents. The mixture was stirred for $1 5 ~ \\mathrm { m i n }$ at room temperature in air, and then poured into a $2 5 ~ \\mathrm { m L }$ Teflon-lined stainless autoclave. The autoclave was heated at $1 2 0 { \\sim } 1 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 7 . 5 \\sim 2 0 \\mathrm { ~ h ~ }$ under autogenous pressure, and then air-cooled to room temperature. The resulting precipitates were collected and washed with $\\mathrm { C H } _ { 2 } \\mathrm { C l } _ { 2 }$ and ethanol thoroughly and dried at room temperature in air. The AgInS2 product is dark red. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Characterization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "X-ray powder difraction (XRD),transmission electron microscopy (TEM), high-resolution TEM (HRTEM), and scanning electron microscopy(SEM) were used to characterize the structure,composition,size,and shape of the synthesized nanoproducts,respectively.The XRD patterns were collcted with the aid of a PANalytical X'Pert Pro diffractometer at room temperature at $4 0 \\mathrm { \\ k V }$ and $4 0 ~ \\mathrm { m A }$ （ $\\operatorname { C u } K a$ radiation). The TEM images were obtained using a JEM 2O1O TEM equipped with a field emission gun operating at $2 0 0 ~ \\mathrm { k V }$ . Images were acquired digitally using a Gatan multipole scanning CCD camera with an imaging software system. The EDX analyses were performed on a carbon-film-coated Cu grid with the aid of a JEM 2O10 TEM equipped with an Oxford INCA spectrometer. The optical diffuse reflectance spectrum was measured at room temperature using a Perkin-Elmer Lambda 90o UV-Vis spectrophotometer equipped with an integrating sphere atachment and $\\mathrm { \\Delta B a S O _ { 4 } }$ as reference. The UV-Vis spectra were measured on a Perkin-Elmer Lambda-35 spectrophotometer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5Photocatalytic activity test ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The photocatalytic activities of the samples were investigated by the decomposition rate of methyl orange (MO）or Methylene blue (MB） in an aqueous solution under UV-vis light irradiation. Briefly, $1 0 0 ~ \\mathrm { { m g } }$ of $\\mathrm { A g I n S } _ { 2 }$ nanopowders was dispersed in $1 0 0 ~ \\mathrm { m L }$ of MO or MB solution with an initial concentration of $1 0 \\ : \\mathrm { p p m }$ Prior to irradiation, the suspension was stirred in the dark for $^ \\mathrm { ~ 1 ~ h ~ }$ to ensure the establishment of the adsorption-desorption equilibrium. The assembly was continuously stirred and irradiated by a 300 W halogen-tungsten lamp. At an irradiation time interval of $1  { \\mathrm { h } } , 4  { \\mathrm { m L } }$ of the suspension was collected and then the slurry samples including the photocatalyst and MO or MB solution were centrifuged to remove the photocatalyst particles. The concentration of MO or MB was analyzed by measuring the absorbance at $6 6 4 \\mathrm { n m }$ wavelength forMB(or $4 6 3 \\mathrm { n m }$ wavelength for MO) using a UV-Vis spectrophotometer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Phase and microstructure ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The XRD patterns of the as-synthesized products prepared using pyridine as the solvent at $1 2 0 ^ { \\circ } \\mathrm { C }$ for $2 0 \\mathrm { h }$ (Fig.la) and using 1-dodecanethiol as the solvent at $1 5 0 ^ { \\circ } \\mathrm { C }$ for $1 7 . 5 \\mathrm { ~ h ~ }$ (Fig.1b) can be indexed to the ICDD pattern (PDF#25-1328). We can see that the positions of alldifraction peaks correspond to (12O), (0O2),(121), (202), (320),(123)and (322) planes and are in agreement with the orthorhombic phase of AgInSz.From Fig. la and 1b,we can see two obvious differences between those patterns. One is the intensity of (OO2) plane at $2 6 . 6 ^ { \\circ }$ in Fig.la whcih is much higher than that in Fig.1b, indicating that the growth of nanosheets has a certain crystallographic orientation; the other is the peak width of (123) plane at $4 8 . 1 ^ { \\circ }$ in Fig.la which is much narrower than the one inFig.1b,probablydue to the smaller size of nanoparticles.Furthermore,allthe peaks in Fig.la are sharper than those in Fig.1b correspondly,showing the nanoplates have better crystallinity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig. 2a and 2b, the AgInS2 produced in pyridine at $1 2 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 0 \\mathrm { ~ h ~ }$ is nanoplates with the width of $3 0 0 { \\sim } 5 0 0 ~ \\mathrm { n m }$ and thickness of about $4 0 ~ \\mathrm { n m }$ ，which are stacked and not well dispersed. However, AgInS2 produced in 1-dodecanethiol at $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 7 . 5 \\mathrm { ~ h ~ }$ is irregular nanoparticles，which is severely agglomerated (SEM: Fig.2c).Furthermore,from Fig.2d we can see that the size of those nanoparticles should be less than $2 0 \\mathrm { n m }$ ,and the dispersity is still not good even after ultrasonic concussion. Compared with the OD nanoparticle,the 2D nanoplate takes a preferred orientation for powder diffaction,so the intensity of (002) diffraction peak is greatly increased,which also explains why the peak in Fig.la is significantly higher than that in Fig.1b.A typical HRTEM image of the edge of such a nanoparticle with the size of about $1 4 ~ \\mathrm { n m }$ (calculated by the red circle)is shown in Fig. 2e,further indicating the size of those particles is less than $2 0 \\mathrm { n m }$ Clear latice fringes (Fig. 2f) can be observed after FFT inversion and the single-crystal natures of the nanoparticles are revealed. The interplanar spacing is about $0 . 3 5 7 ~ \\mathrm { n m }$ ,in good agreement with the distance $( 0 . 3 5 6 \\mathrm { n m } )$ of (120) plane of the orthorhombic $\\mathrm { A g I n S } _ { 2 } \\mathrm { \\Delta } [ 1 7 ]$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Possible formation mechanism of AgInS2 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Using pyridine as the solvent,we can observe the formation of orthorhombic $\\mathrm { A g I n S } _ { 2 }$ by adjusting the reaction time under the condition of $1 2 0 ^ { \\circ } \\mathrm { C }$ .When the reaction time was $^ { 5 \\mathrm { h } }$ ,a small amount of $\\mathrm { A g } _ { 2 } \\mathrm { S }$ (Fig. 3a) with weak difraction peak of XRD was obtained,and there were only two obvious peaks; when the reaction time was increased to $1 0 \\mathrm { ~ h ~ }$ ，the peak intensity of XRD (Fig. 3b) had been significantly enhanced, in good agreement with that of monoclinic $\\mathrm { A g } _ { 2 } \\mathrm { S }$ (ICDD PDF# 14-0072). It can be seen from Fig. 3d that the $\\mathrm { A g } _ { 2 } \\mathrm { S }$ also contains two morphologies,namely, the hexagon with a length of about $1 0 0 ~ \\mathrm { { n m } }$ and the particle with size of about $5 0 \\mathrm { n m }$ ,and the amount of particles is significantly more than the hexagon. When the reaction time was further extended to $1 5 \\mathrm { ~ h ~ }$ ，the obvious difraction peak of orthorhombic AgInS2 appeared (Fig. 3c)，and its intensity is higher than that of $\\mathrm { A g } _ { 2 } \\mathrm { S }$ , indicating that most $\\mathrm { A g } _ { 2 } \\mathrm { S }$ has been transformed into AgInS2. Furthermore, the amount of original smallparticles greatly reduced,but both the number and size of the hexagonal sheet increased (Fig.3e).This result shows that,as the reaction time is increased,the newly generated monoclinic $\\mathrm { A g } _ { 2 } \\mathrm { S }$ gradually transforms into orthorhombic AgInS2, accompanied by the transformation from particles to hexagonal plate.This point can be verified that pure orthorhombic $\\mathrm { A g I n S } _ { 2 }$ nanoplates are obtained when the reaction time is extended to $2 0 \\mathrm { h }$ (Fig. la and 2a). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to the above experimental facts,combined with the previous work[18] and results obtained by our group[19,20], we have proposed the possible growth mechanism of orthorhombic $\\mathrm { A g I n S } _ { 2 }$ , and the reactions are as follows $\\mathrm { ( H N R } _ { 2 }$ ${ \\mathrm { R } } = - { \\mathrm { C } } { \\mathrm { 8 H } } _ { 1 7 }$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { H N R 2 + K O H + C S _ { 2 } \\quad et { } { ' } { \\longrightarrow } \\quad K S _ { 2 } C N R _ { 2 } + H _ { 2 } O } } \\\\ & { \\mathrm { K S _ { 2 } C N R _ { 2 } + A g N O _ { 3 } \\quad et { } { ' } { \\longrightarrow } \\quad A g S _ { 2 } C N R _ { 2 } + K N O _ { 3 } } } \\\\ & { \\mathrm { K S _ { 2 } C N R _ { 2 } + I n ( N O _ { 3 } ) _ { 3 } \\quad et { } { ' } { \\longrightarrow } \\quad I n ( S _ { 2 } C N R _ { 2 } ) _ { 3 } + K N O _ { 3 } } } \\\\ & { \\mathrm { A g S _ { 2 } C N R _ { 2 } et { } { ' } { \\longrightarrow } \\quad A g z S + o t h e r s } } \\\\ & { \\mathrm { A g _ { 2 } S + I n ( S _ { 2 } C N R _ { 2 } ) _ { 3 } \\quad et { } { ' } { \\longrightarrow } \\quad \\mathrm { A g I n S _ { 2 } + o t h e r s } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The as-prepared ${ \\mathrm { K S } } _ { 2 } { \\mathrm { C N R } } _ { 2 }$ (Reaction 1） was coordinated with ${ \\mathbf { A } } { \\mathbf { g } } ^ { + }$ and $\\mathrm { I n } ^ { 3 + }$ to form the corresponding complex $\\mathrm { A g S } _ { 2 } \\mathrm { C N R } _ { 2 }$ (Reaction 2） and In $( \\mathsf { S } _ { 2 } \\mathbf { C N R } _ { 2 } ) \\mathfrak { z }$ ：(Reaction 3). Since these complexes were formed in solution and have been fully stired,it should not be a simple mechanical mixture in the final solid form,but rather a uniform mixture at the molecular level. As the reaction temperature increased, $\\mathrm { A g S } _ { 2 } \\mathrm { C N R } _ { 2 }$ began to decompose into corresponding $\\mathrm { A g } _ { 2 } \\mathrm { S }$ (Reaction 4), because $\\mathbf { A } \\mathbf { g } ^ { + }$ has a high diffusivity under high temperature, which can move freely in the lattice of cation hole[21l. Therefore, $\\mathrm { I n } ^ { 3 + }$ , released slowly from $\\mathrm { I n } ( \\mathbf { S } _ { 2 } \\mathbf { C N R } _ { 2 } ) _ { 3 }$ ,can replace part of ${ \\mathbf { A } } \\mathbf { g } ^ { + }$ in the $\\mathrm { A g } _ { 2 } \\mathrm { S }$ lattice,forming orthorhombic $\\mathrm { A g I n S } _ { 2 }$ gradually (Reaction 5). On the other hand,when using pyridine as the solvent, the as-prepared $\\mathrm { A g } _ { 2 } \\mathrm { S }$ particles wrapped by pyridine would grow anisotropically into lamellar structure；while using 1-dodecanethiol as the solvent the as-prepared $\\mathrm { A g } _ { 2 } \\mathrm { S }$ particles wrapped by 1-dodecanethiol would grow isotropically into iregular particle with smallsize. Hence, when the $\\mathrm { I n } ^ { 3 + }$ partially replaces ${ \\mathbf { A } } { \\mathbf { g } } ^ { + }$ in the $\\mathrm { A g } _ { 2 } \\mathrm { S }$ lattice,it will not change the morphology and finally the product grows into the nanoplates or nanoparticles, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Effect of reaction temperature ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the morphology-reaction temperature relationship,a batch of parallel reactions using pyridine as the solvent has been carred out,and some representative SEM images are displayed in Fig. 5. The detailed experimental results are listed in Table 1.The results indicated that when temperature is increased to $1 5 0 ^ { \\circ } \\mathrm { C }$ , the products are also pure orthorhombic $\\mathrm { A g I n S } _ { 2 }$ nanoplate (XRD: Fig. 4a, SEM: Fig. 5a), similar to that of $1 2 0 ~ ^ { \\circ } \\mathrm { C }$ ；while at $1 7 0 ~ ^ { \\circ } \\mathrm { C }$ ，besides of orthorhombic AgInS2,minor tetragonal AgInS2 (ICDD PDF# 25-1330)begins to appear,and lots of nanopaticles are observed (XRD: Fig.4b,SEM: Fig. 5b),indicating that some orthorhombic AgInS2 have transformed into tetragonal AgInS2, namely metastable phase transformes into stable phase[2l, so the morphology of products takes an obvious change.When the temperature continues to rise to $1 9 0 ^ { \\circ } \\mathrm { C }$ ,the relative intensity of the diffraction peak of tetragonal phase is not significantly improved (Fig 4c),showing that the percentage of tetragonal phase has not significantly enhanced. The products are also nanoparticles similar to that of $1 7 0 ^ { \\circ } \\mathrm { C }$ , but almost none of nanoplate is observed (Fig. 5c). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Therefore,using pyridine as the solvent, the optimal temperature range to synthesize orthorhombic AgInS2 nanoplate is $1 2 0 { \\sim } 1 5 0 ^ { \\circ } \\mathrm { C }$ ，and the optimal range of reaction time is $1 7 . 5 \\sim 2 0 \\mathrm { h }$ . If the temperature is too low or the time is too short, the samples should not fully react to produce pure ternary sulfide AgInS2. However, the higher temperature will make metastable $\\mathrm { A g I n S } _ { 2 }$ transform into tetragonal $\\mathrm { A g I n S } _ { 2 }$ . It is interesting to find that when 1-dodecanethiol is used as the solvent, the orthorhombic $\\mathrm { A g I n S } _ { 2 }$ can be obtained at $1 2 0 { \\sim } 1 9 0 ^ { \\circ } \\mathrm { C }$ for $1 7 . 5 \\sim 2 0 \\mathrm { h }$ , which indicates that the solvent also plays a certain role in the formation of $\\mathrm { A g I n S } _ { 2 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/dcd3e452d1953c97d36cab1033c2fdbd6947b0602f82bd3e7ce28ae3327298e8.jpg",
+        "table_caption": [
+            "Table 1．Products Synthesized Using Pyridine as the Solvent at Different Temperature "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Temperature (C)</td><td>Time (h)</td><td>XRD</td><td>Phase</td><td>SEM</td><td>Morphology</td></tr><tr><td>150</td><td>17.5</td><td>Fig. 4a</td><td>Orthorhombic AgInS2</td><td>Fig. 5a</td><td>Nanoplate</td></tr><tr><td>170</td><td>17.5</td><td>Fig. 4b</td><td>Orthorhombic AgInS2+ tetragonal AgInS2 (minor)</td><td>Fig.5b</td><td>Nanoplate (minor) + nanoparticle</td></tr><tr><td>190</td><td>17.5</td><td>Fig. 4c</td><td>Orthorhombic AgInS2+ tetragonal AgInS2 (minor)</td><td>Fig. 5c</td><td>Nanoparticle</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 Effect of the solvent ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To further understand the efect of solvent, some other solvents are used instead of pyridine and 1-dodecanethiol. All these parallel reactions have been run at $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 7 . 5 \\mathrm { ~ h ~ }$ .The detailed experimental results are listed in Table 2.When using ethylenediamine as the solvent, the product is a mixture containing lots of orthorhombic $\\mathrm { A g I n S } _ { 2 }$ and a small amount of tetragonal AgInS2 (XRD: Fig. 6a); besides a smal number of particles,most of products are square sheet with the thickness of $3 0 { \\sim } 6 0 ~ \\mathrm { n m }$ (SEM: 6c). While using oleic acid as the solvent, both orthorhombic $\\mathrm { A g I n S } _ { 2 }$ and monoclinic $\\mathrm { A g } _ { 2 } \\mathrm { S }$ nanoparticles are observed (XRD: 6b; SEM: 6d), indicating that $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ is too low,or $1 7 . 5 \\mathrm { ~ h ~ }$ is too short for the as-prepared $\\mathrm { A g } _ { 2 } \\mathrm { S }$ completely transforms to AgInS2, which may be due to the strong adsorption properties of oleic acid.The oleic acid can be firmly adsorbed on the surface of as-prepared $\\mathrm { A g } _ { 2 } \\mathrm { S }$ particles,which may hinder $\\mathrm { I n } ^ { 3 + }$ to replace the $\\mathbf { A } \\mathbf { g } ^ { + }$ ， leading to the conversion rate to be greatly reduced,so it requires higher temperature or longer time to complete the transformation.This result shows that the solvent has a great influence on the phase and morphology of the products. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/76c15986e9ab878bda5a0e659a31ff78efb97dd624b1340b0096b6d3d5a0c6b4.jpg",
+        "table_caption": [
+            "Table 2.Products Synthesized Using Other Solvents at $\\mathbf { 1 5 0 } ^ { \\circ } \\mathrm { C }$ for $\\mathbf { 1 7 . 5 h }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Solvent</td><td>XRD</td><td>Phase</td><td>SEM</td><td>Morphology</td></tr><tr><td>1</td><td>Ethylenediamine</td><td>Fig. 6a</td><td>Orthorhombic AgInS2+ tetragonal AgInS2 (minor)</td><td>Fig. 6c</td><td>Square nanoplate + particle (minor)</td></tr><tr><td>2</td><td>Oleic acid</td><td>Fig. 6b</td><td>Orthorhombic AgInS2 + monoclinic Ag2S</td><td>Fig. 6d</td><td>Particle</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5 UV-Vis diffuse reflectance spectroscopy ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For I-Il-VI family compounds,most of them are direct-narrow-gap semiconductors with chalcopyrite structure[23]. $\\mathrm { A g I n S } _ { 2 }$ has chalcopyrite and orthorhombic phases, and the band gap values are 1.87 and $1 . 9 8 \\mathrm { e V }$ respectivelyl24-26].Owing to its suitable bandgap, $\\mathrm { A g I n S } _ { 2 }$ has good absorption in the visible range,so it is a good photocatalytic material. Fig. 7 is the solid UV-Vis diffuse reflectance spectra of $\\mathrm { A g I n S } _ { 2 }$ nanoplates and $\\mathrm { A g I n S } _ { 2 }$ nanoparticles. The band gap of $\\mathrm { A g I n S } _ { 2 }$ can be calculated according to the formula $\\mathrm { ( I ) } ^ { [ 4 ] }$ ：： ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha h \\nu = ( h \\nu - E _ { \\mathrm { g } } ) \\ ^ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Here, $a$ means the absorption coefficient; $h \\nu$ is the photoelectron energy; the value of $n$ is $1 / 2$ for indirect bandgap compounds,while 2 for direct bandgap compounds,and $E _ { \\mathrm { g } }$ means the bandgap. Taking $h \\nu$ as the abscissa, with $( a h \\nu ) ^ { 1 / n }$ as ordinate, the curve is extended to intersect with the abscissa, and the bandgap can be calculated. As seen in Fig. 7a, the bandgap of $\\mathrm { A g I n S } _ { 2 }$ nanoplate is about $1 . 6 1 \\ \\mathrm { e V }$ ， close to the literature report of $1 . 5 8 { \\sim } 1 . 6 3 \\ \\mathrm { e V } ^ { [ 4 , 1 2 , 2 7 }$ l; while the bandgap of $\\mathrm { A g I n S } _ { 2 }$ nanoparticle is about $1 . 9 8 \\ \\mathrm { e V }$ (Fig. 7b), consistent with the band gap of $\\mathrm { A g I n S } _ { 2 }$ crystal. The difference between the two gaps is probably caused by the different particle sizes. Because the nanoplate has larger size (thickness about $4 0 \\ \\mathrm { n m }$ ，width $3 0 0 { \\sim } 5 0 0 ~ \\mathrm { n m }$ )，while the nano particle is less than $2 0 \\mathrm { n m }$ ，which results in the blue shift of the absorption edge due to small size effect. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.6Photocatalytic activity of the $\\mathbf { A g I n S } _ { 2 }$ samples ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The photocatalytic activities of $\\mathrm { A g I n S } _ { 2 }$ samples are measured on the degradation of methyl blue (MB) or methyl oragne (MO) in water under UV-Vis light irradiation. As shown in Fig.8a,with the advance of illmination time,the absorbance of MB in solution is getting smaller and smaler, indicating that the concentration of MB is lower and lower. After $3 0 0 ~ \\mathrm { { m i n } }$ of irradiation, the conversion of MB by AgInS2 nanoparticles is about $66 \\%$ (Fig. 8b, red curve). However, the conversion of MO by AgInS2 nanoplates is about $2 5 \\%$ (Fig. 8b, blue curve). The results show that AgInS2 has certain ability on the photocatalytic degradation of organic dyes such as MB,and it is probably that the low-power tungsten halogen lamp (300 W) used in the experiment causes unexciting conversion. The possible mechanism on photocatalytic degradation of MB by $\\mathrm { A g I n S } _ { 2 }$ can be explained by the following equation[28]: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { A g I n S 2 } + h \\nu  \\mathrm { A g I n S 2 } ( h ^ { + } + \\mathrm { e ^ { - } } ) } \\\\ & { \\mathrm { e ^ { - } + O _ { 2 } \\to \\bullet O _ { 2 } \\mathrm { \\overline { { \\Gamma } } } } } \\\\ & { \\mathrm { 2 e ^ { - } + O _ { 2 } + 2 H ^ { + } \\to H _ { 2 } O _ { 2 } } } \\\\ & { \\mathrm { H _ { 2 } O _ { 2 } + \\bullet O _ { 2 } \\mathrm { \\overline { { \\Gamma } } \\to O H ^ { - } + \\bullet O H + O _ { 2 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Under UV-Vis light iradiation， the electrons transfer from valance band (VB） of $\\mathrm { A g I n S } _ { 2 }$ to the conduction band (CB),while the holes $( h ^ { + } )$ generate in its VB (Reaction 6). The photogenerated electrons $( \\mathrm { e ^ { - } } )$ can react with adsorbed $\\mathbf { O } _ { 2 }$ to produce $\\bullet \\mathrm { O } ^ { 2 - }$ (Reaction 7) and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ (Reaction 8). $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ can further react with $\\cdot 0 ^ { 2 - }$ and $\\mathrm { e ^ { - } }$ to generate hydroxyl radicals (\\*OH) (Reaction 9). All of $\\cdot _ { \\mathrm { O } _ { 2 } ^ { - } }$ ， $h ^ { + }$ and ·OH play a role in the degradation and mineralization of MB (Reaction 10). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Two kinds of orthorhombic $\\mathrm { A g I n } { \\mathrm { S } } _ { 2 }$ nanostructures with different morphologies have been successfully prepared by the solvent method using ${ \\mathrm { K S } } _ { 2 } { \\mathrm { C N R } } _ { 2 }$ ${ \\bf A g N O } _ { 3 }$ ，and $\\mathrm { I n } ( \\mathrm { N O } _ { 3 } ) _ { 3 }$ as reagents. When using pyridine as the solvent, by tuning the reaction temperature and reaction time, it is found that pure $\\mathrm { A g I n S } _ { 2 }$ nanoplates with relatively uniform morphology can be obtained at $1 2 0 { \\sim } 1 5 0 ^ { \\circ } \\mathrm { C }$ for $1 7 . 5 \\sim 2 0 \\mathrm { h }$ ; when the temperature is below $1 2 0 ^ { \\circ } \\mathrm { C }$ or the reaction time is less than $1 0 \\mathrm { ~ h ~ }$ ,most of the product is binary monoclinic $\\mathrm { A g } _ { 2 } \\mathrm { S }$ ，while there will be another ternary tetragonal $\\mathrm { A g I n } { \\mathrm { S } } _ { 2 }$ generated over $1 7 0 ^ { \\circ } \\mathrm { C }$ . When using 1-dodecanethiol as the solvent, pure $\\mathrm { A g I n S } _ { 2 }$ nanoparticles with size less than $2 0 \\mathrm { n m }$ have been obtained at $1 2 0 { \\sim } 1 9 0 ^ { \\circ } \\mathrm { C }$ for $1 7 . 5 \\sim 2 0 \\mathrm { h }$ , indicating that the solvent has a great influence on the phase and morphology,and this point has also been verified using ethylenediamine or oleic acid as the solvent. On the other hand,UV-Vis difuse reflectance spectra show that the bandgap of $\\mathrm { A g I n S } _ { 2 }$ nanoplates(1.61 eV) with larger size is less than that of $\\mathrm { A g I n S } _ { 2 }$ nanoparticles $( 1 . 9 8 \\mathrm { e V } )$ （20 with smaller size, which is likelyto be caused by the blue shift of absorption edge due to the small size effect. Furthermore, the photocatalytic experiments show that $\\mathrm { A g I n S } _ { 2 }$ has certain ability on photocatalytic degradation of organic dyes such as MB. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)Ren,N.Q.;uouXJng,vreaeteodoesteaterJIg(a648494. (2)Zeng,Zai properties.Mater. Lett 2015,141,225-227.   \n(3)Peng,S.J.; Zhang,S.J.; Mhaisalkar, S.G;Ramakrishna,S. Synthesis of $\\mathrm { A g I n S } _ { 2 }$ nanocrystal ink and its photoelectrical application.Phys.Chem. Chem. Phys.2012,14,8523-8529.   \n(4) Zou,X.J.; Dong,Y.Y.; Rang,C.Q.; Cui,Y.B.; Chen,Z.B.Fabrication of flower-like $\\mathrm { A g I n } { \\mathrm { S } } _ { 2 }$ microsphere and its photocatalytic reduction of $\\mathrm { { C r } ( W ) }$ .J. Wuhan Univ.(Nat. Sci.Ed.) 2016,62,92-96.   \n(5) Bu,C.F.; Liu,L.W.; Wang,Q.; Zhang,B.T.; Hu,S.Y.; Ren,Y.; Zhu,L.X.Folic acid-conjugated $\\mathrm { A g I n S } _ { 2 }$ quantum dots for in vitro cancer cellimaging. Chin.J.Lumin.2015,36,989-995.   \n(6)Cevale 2016,8,7612-7620.   \n(7)Azam,E. S.Photocatalytic oxidation of cyanide under visible light by Pt doped $\\mathrm { A g I n S } _ { 2 }$ nanoparticles.J. Ind. Eng. Chem.2014,20,4008-4013. (8) Cai, C.Q.; Zhai,L.L.; Ma,Y.H.; Zou, C.; Zhang,L.J.; Yang,Y.; Huang,S.M. Synthesis of $\\mathrm { A g I n S } _ { 2 }$ quantum dots with tunable photoluminescence for sensitized solar cells.J.Power Sources 2017,341,11-18.   \n(9）Wang，L；KangX.J；Pan,D.CGram-scalesythesisofhdrophilicE-coatedAgISquantumdotsanditsaplicationihdrogen peroxide/glucose detection and cell imaging.Inorg. Chem. 2017,56,6122-6130.   \n(10)Yoshino,K.; Komaki,H.; Kakeno,T.；Akaki,Y.; Ikari,T.Growth and characterization of $p$ -type $\\mathrm { A g I n S } _ { 2 }$ crystals.J.Phys. Chem. Solids 2003,64, 1839-1842.   \n(1)You; for the $\\mathrm { A g I n S } _ { 2 }$ epilayers grown by hot wall epitaxy.J. Cryst. Growth 2002,245,261-266.   \n(12) Wei,Q.L.; Zhao,X.L.; Yao,P.P.; Mu,J.Preparation and visible light photocatalytic activity of $\\mathrm { A g I n S } _ { 2 }$ nanoparticles.Chin.J. Inorg. Chem.2011,27, 692-694.   \n(13)Kharkwal,A.;Nitu,K.;Jain,S.B.;Tyagi,S.B.;Kharkwal,M.Novelsynthesisofselectivephase-shapeorientatioof $\\mathrm { A g I n S } _ { 2 }$ nanoparticles at low temperature.Colloid Polym. Sci.2015,293,1953-1959.   \n(14)Hong,S.P;ark,H.K.;O,H;agH;DCparsosoftucturaladoalproprtsfAgS $\\mathrm { c - A g I n _ { 5 } S _ { 8 } }$ nanocrystals and their solid-solution nanocrystals with ZnS.J. Mater Chem.2012,22,18939-18949.   \n(15) Torimoto,T.;Adachi,T.; Okazaki,K.Facile synthesis of $\\mathrm { Z n S - A g I n S } _ { 2 }$ solid solution nanoparticles for a color-adjustable luminophore.J.Am. Chem. Soc.2007,129,12388-12389.   \n(16) Wang,Y.; Zou,X.C.; Wang,C.; Shi,Y.F.Thermolysis synthesis and growth mechanism of metastable $\\mathrm { M I n S } _ { 2 }$ 0 $\\mathbf { M } = \\mathbf { A } \\mathbf { g }$ ,Cu) flowerlike microsphere. Chin. J. Inorg.Chem.2016,32,2151-2157.   \n(17)Liu,ZP;TagKaagLLaFciieracalioaturedf ultrathin nanowires.Nanoscale 2013,5,1570-1575.   \n(18) Zou,Z.G.; Gap,Y.; Long,F.; Zhang J. Synthesis and mechanism of Wurtzite $\\mathrm { C u I n } { \\mathrm { S } } _ { 2 }$ nanocrystals.J. Synth. Cryst.2015,44,2164-2170. (19) Shi,Y.F.; Wang,Y.;Wu,L.M.Hexagonal $\\mathrm { M I n } _ { 2 } \\mathrm { S } _ { 4 }$ $\\mathbf { M } = \\mathbf { M } \\mathbf { n }$ ,Fe,Co): formation and phase transition.J.Phys. Chem. C 2013,117,20054-20059. (20)Fang,F.; Chen,L.; Chen,Y.B.; Wu,L.M. Syntheses and photocatalysis of $\\mathrm { Z n I n } _ { 2 } \\mathrm { S } _ { 4 }$ nano/micropeony.J.Phys. Chem.C 2010,114,2393-2397. (21) Lu, X.; Zhuang, Z.; Peng,Q.; Li, Y. Controlled synthesis of wurtzite $\\mathrm { C u I n } { \\mathrm { S } } _ { 2 }$ nanocrystals and their side-by-side nanorod assemblies.CrystEngComm. 2011,13,4039-4045.   \n(22)DegdodCeet powder diffraction. Mater: Res. Bull.2001,36,2507-2517.   \n(23) Xie,C.P.; Xiang,W.D.; Luo,L.; Zhong,J.S.; Zhao,B.Y.; Liang,X.J.Advances on $\\mathrm { A g I n } { \\mathrm { S } } _ { 2 }$ quantum dots.J.Funct.Mater. 2014,45,4009-4016. (24)Hu,J.Q.;Lu.TagK.QaY;uJQ;.Y;gKQiaYZoGE.;LuXSooeacte nanocrystalline semiconductors $\\mathrm { A g M S } _ { 2 }$ 0 $\\mathbf { M } = \\mathbf { G } \\mathbf { a }$ ,In).Chem.Commun.1999,12,1093-1094.   \n(25)Aguilea, $\\mathrm { A g I n S } _ { 2 }$ thin films deposited by spray pyrolysis technique.Thin Solid Films 2007,515,6272-6275.   \n(26)Aguilera,;rgdel.icaroerf orthorhombic AgInS thin films prepared by spray pyrolysis.Mater. Sci.Eng.B2003,102,380-384.   \n(27)LiX..;iuJZn,H;XuWangHZeroedtsisftdleeloto $A g I n S _ { 2 }$ nanocrystals.Cryst. Eng.Comm.2010,12,4410-4415.   \n(28)Deng,F.; Zhong,F.; Hu,P.;Pei,X.L.; Luo X.B.; Luo,S.L.Fabrication of In-rich $\\mathrm { A g I n S } _ { 2 }$ nanoplates and nanotubes by a facile low-temperature co-precipitationstrategyandtheirexcelentvisible-lightphotocatalyticmeralationperformance.J.NanopartRes.7,19,14. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c1a9b75a63b2922cab9d6411c068d42fad58a7eb3613e12a0a48420240a6465.jpg",
+        "img_caption": [
+            "Fig.1. XRD pattern of the as-prepared AgInS2 samples: "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) $\\mathbf { 1 2 0 \\ \\% }$ pyridine as the solvent; (b) $\\mathbf { 1 5 0 ~ \\% } 7 \\mathbf { 1 7 . 5 } \\mathbf { h }$ ,1-dodecanethiol as the solvent ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/52d254444cf25447b0822a1276316c676d75bc84408ba5f7b1e428666d4bd20d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.2.(a,b) SEM images of $\\mathbf { A g I n S } _ { 2 }$ samples prepared at $\\mathbf { 1 2 0 ^ { \\circ } C }$ for ${ \\bf 2 0 h }$ ,using pyridine as the solvent; $( \\mathbf { c } , \\mathbf { d } )$ SEM ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ofAgInS2 samples for $\\mathbf { 1 7 . 5 h }$ ,using as the solvent; imagesof particlein indicating that the size of about $\\mathbf { 1 4 n m }$ the red circle),and the $\\mathbf { 0 . 3 5 7 \\ n m }$ ,in with of (120) planes AgInS2 ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/28a63aff210973874e3fbc02908598dd2041d44773641fd04c8bc3162e84cb38.jpg",
+        "img_caption": [
+            "Fig.3. XRD patterns and SEM images of products prepared at $\\mathbf { 1 2 0 ^ { \\circ } C }$ for different time: (a) ${ \\pmb 5 } { \\bf h }$ ,weak diffraction peak, monoclinic $\\mathbf { A g 2 S }$ $( \\mathbf { b } , \\mathbf { d } )$ （204号 $\\mathbf { 1 0 \\ h }$ ,monoclinic $\\bf { A g 2 S }$ ,similar quantity of nanoplate and nanoparticle; (c, e) $\\mathbf { 1 5 h }$ ,themajor orthorhombic AgInS2 with minor monoclinic $\\mathbf { A g 2 S }$ ,and the quantity of nanoplate is much larger than nanoparticle "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.4.XRD patterns of products prepared at diferent temperature for17.5 h using pyridine as the solvent: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) $\\mathbf { 1 5 0 } ^ { \\circ } \\mathbf { C }$ ,orthorhombic AgInS2; (b) $\\mathbf { 1 7 0 ^ { \\circ } C }$ ,orthorhombic AgInS2 (major) $^ +$ tetragonal AgInS2 (minor); ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(c) $\\mathbf { 1 9 0 } ^ { \\circ } \\mathbf { C }$ ,orthorhombic AgInS2 (major) $^ +$ tetragonal AgInS2 (minor) ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d682e950c78c047d9a9fda1b8ad6fe180f8adb7582ec549aec4928d88816689.jpg",
+        "img_caption": [
+            "Fig.5.TEM images of products prepared at different temperature for17.5 h "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "using pyridine as the solvent: (a) $\\mathbf { 1 5 0 } ^ { \\circ } \\mathbf { C }$ ； (b) $\\mathbf { 1 7 0 } ^ { \\circ } \\mathbf { C }$ ；(c) $\\mathbf { 1 9 0 } ^ { \\circ } \\mathbf { C }$ ethylenediamine,orthorhombic $\\mathbf { A g I n S } _ { 2 } +$ tetragonal AgInS2 (minor), square nanoplate $^ +$ particle (minor); ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/9799796f80d5e0d1491b1bf1db869ce8d03dc7e4e53c0da5ad4016e60d44bdc8.jpg",
+        "img_caption": [
+            "Fig. 6. XRD patterns and SEM images of products prepared at $\\mathbf { 1 5 0 } ^ { \\circ } \\mathbf { C }$ for 17.5 h using other solvents: (a, c) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathbf { b } , \\mathbf { d } )$ oleic acid,orthorhombic $\\mathbf { A g I n S } _ { 2 } +$ monoclinic $\\mathbf { A g } _ { 2 } \\mathbf { S }$ ,nanoparticle h using pyridine as the solvent.The bandgap is about 1.61 eV; (b)AgInS2 nanoparticle,synthesized at $\\mathbf { 1 5 0 } ^ { \\circ } \\mathbf { C }$ for17.5 h using 1-dodecanethiol as the solvent.The bandgap is about $\\mathbf { 1 . 9 8 \\ e V }$ concentration and time photocatalytic degraded by $\\mathbf { A g I n S } _ { 2 }$ nanoparticle (the red curve),and the relation between MO concentration and time photocatalytic degraded by $\\mathbf { A g I n S } _ { 2 }$ nanoplate (the blue curve) ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1342c4973eaa5888d80af71219dc451173cf16652351b676e9434855cd9bb3d.jpg",
+        "img_caption": [
+            "Fig.7.UV-Vis diffuse reflectance spectrum of as-prepared products: (a)AgInS2 nanoplate,synthesized at $\\mathbf { 1 2 0 ^ { \\circ } C }$ for 20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/55a0be0c1079140b97a38eb8f4bafcfad3012198265c6fe5a7d48aa60067e2d0.jpg",
+        "img_caption": [
+            "Fig.8.(a) Absorption spectra of MB photocatalytic degraded by $\\mathbf { A g I n S } _ { 2 }$ nanoparticle; (b) Relation between MB "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Solvent Synthesis, Growth Mechanism and Photocatalytic Properties of AgInS2 Nanoplate and Nanoparticle ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "WANGYue(王 跃）SHIYong-Fang(石永芳）LIXiao-Bo(李晓波)LIDong-Wei(黎东维) ZHANG Tao(张涛) HE Yu-Cen(何昱岑)",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3c0cef2ca06f669b867fc6d790b619fb81b48080567f7370957afa8bdef8897.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "AgInS2 nanoplate and nanoparticle were synthesized using pyridine and 1-dodecanethiol as the solvents. The reaction temperature,reaction time and solvent have an influence on the phase and morphology of AgInSz, and both AgInS2 nanoplate and nanoparticle have some ability on the photocatalytic degradation of organic dyes under UV-Vis light irradiation. ",
+        "page_idx": 13
+    }
+]

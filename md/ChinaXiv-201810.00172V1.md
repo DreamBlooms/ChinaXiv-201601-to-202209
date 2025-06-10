@@ -1,0 +1,165 @@
+# 冰冻圈水资源服务功能区划研究综述
+
+刘洁1,2,3，黄金川1,2,3， 林浩曦1,2.3（1中国科学院区域可持续发展分析与模拟重点实验室,北京100101；2中国科学院地理科学与资源研究所,北京100101；3中国科学院大学,北京100049)
+
+摘要：冰冻圈作为气候系统五大圈层之一，是我国干旱区和寒区重要的水源地和固态水库，对生态、水、环境及气候等均具有重要影响。长期以来对冰冻圈产品及社会经济服务功能研究不足，遑论从地域主体功能角度对冰冻圈水资源服务功能进行区划。水资源服务作为冰冻圈资源的重要功能，是进行冰冻圈服务功能及其区划研究的重要突破口。基于冰冻圈科学、人文地理学、生态学等多学科交叉的理论和方法，重点从冰冻圈水资源分布与监测、地域功能区划、水资源服务功能分类和评估等三个方面进行了研究综述，并提出了生态系统服务功能与三生空间研究相结合的冰冻圈水资源服务功能分类体系和基于冰冻圈水资源特性、供给能力、社会经济发展水资源需求和利用效率的冰冻圈水资源服务功能评估指标体系。最后基于研究综述、已构建的冰冻圈水资源服务功能分类和评估体系，综合已有的自然地理综合区划、地域功能区划等区划实践，并探讨了未来可行的冰冻圈水资源服务功能研究方案设想，为进行全国乃至全球的冰冻圈水资源服务功能区划工作提供了理论与实践基础。
+
+关键词：冰冻圈；水资源服务功能；功能区划；研究综述中图分类号：TV213.4；X171 文献标识码：A 文章编号：
+
+冰冻圈是地球表层连续分布并具有一定厚度的负温圈层，是气候系统五大圈层之一。冰冻圈通过与大气圈、水圈、岩石圈、生物圈和人类圈的相互作用，对自然系统和社会经济系统产生重要影响。作为中、低纬度地区冰冻圈最发育的国家，我国冰冻圈是维持干旱区绿洲生存发展和寒区生态系统稳定的重要水资源保障[1]
+
+习近平在2016年3月全国两会期间参加黑龙江代表团审议时指出：“青山绿水是金山银山，冰天雪地也是金山银山”，实际上指出了冰冻圈服务功能及其价值。已有的冰冻圈科学研究主要集中在冰冻圈致害性研究（冰冻圈灾害、风险评估），对冰冻圈的致利性(即冰冻圈服务功能)缺乏系统梳理[2],理论和方法体系更处于空白，遑论基于地域分异规律的功能区划，无法在应用层面对社会经济可持续发展提供有效指导。从学科发展的角度看，冰冻圈与生态、经济、社会问题之间的衔接既是学科发展的必然趋势，也是延伸冰冻圈科学应用价值的必然要求。从实践需求的角度看，冰冻圈服务功能研究对我国“旱”、“寒”地区的社会经济生态可持续发展具有重要的决策和战略意义。因此，从学科交叉的角度加强对冰冻圈服务功能的系统研究、从国家需求的角度对我国冰冻圈进行功能区划，都是新时期冰冻圈科学的重要研究领域。
+
+目前，西方发达国家虽对冰冻圈单一要素进行过产业化研究,但均未上升到理论高度，作为广义生态系统服务功能重要组成部分，冰冻圈要素在其服务功能价值评估中，也尚未进行核算。在冰冻圈科学、生态学、人文地理学等研究基础上，通过遴选区划和评估指标体系，对中国冰冻圈水资源服务功能重要性评估，并运用恰当的区划方法，对冰冻圈水资源服务功能进行精细化区划，可作为冰冻圈服务功能区划研究的重要突破口。目前，冰冻圈水资源与社会经济系统相互作用的研究正处于起步阶段，对冰冻圈水资源服务的对象与功能价值尚未形成共识，冰冻圈水资源服务功能评估体系与地理区划应用也处于摸索阶段。基于此，本文首先总结了冰冻圈水资源服务功能区划的已有研究基础；然后对冰冻圈水资源服务功能分类、评估方法与评估体系进行探索；最后，提出冰冻圈水资源服务功能区划实际操作设想与方案。
+
+# 1冰冻圈水资源分布及监测研究
+
+冰冻圈作为存储了全球 $7 5 \%$ 淡水资源的固态水库[3],主要供给主体为冰川、冰盖、湖冰、河冰、多年冻土和季节冻土、积雪、海冰、冰架等要素以及大气圈中的固态水体[4]。冰冻圈水文水资源科学长期以来对冰冻圈水资源各要素储量调查、动态变化监测、综合模拟与预估等方面的研究，为冰冻圈水资源服务功能区划摸查清楚了资源分布状况。
+
+我国冰冻圈水资源的供给主体为冰川和积雪。2006年，科技部于2012年完成了中国主要冰川作用区第二次冰川编目，统计得出我国冰川共48571条，面积 $4 3 ~ 0 1 2 . 5 8 ~ \mathrm { k m } ^ { 2 }$ ,冰储量 $4 ~ 4 9 4 . \ : 0 0 \pm 1 7 5 . \ : 9 3 \$ $\mathrm { k m } ^ { 3 [ 5 ] }$ 。我国冬季积雪储量主要分布在东北、北疆、青藏高原东部及其边缘地区、华北地区[6]。积雪融水补给可分为永久性积雪融水补给、季节性积雪融水补给等，不同区位的河流补给方式不同，例如高山地带的河流主要为冰川和永久性积雪补给、中山地带主要为季节性积雪融水补给[7]。车涛等[6利用1993—2002 年 SSM/I(Special Sensor Microwave/Image)资料估算了我国近 $1 0 \mathrm { ~ a ~ }$ 最大积雪水资源量平均为 $1 0 2 . 7 9 ~ \mathrm { k m } ^ { 3 }$ 。
+
+随着全球气温变暖，冰冻圈各要素消融所造成的海平面上升、大气环流改变、多年冻土活动层增大等现象在未来将严重影响冰冻圈水资源服务功能的强弱，继而影响人类社会的生存。长期的监测研究表明，20世纪90年代以来约 $8 2 \%$ 的冰川处于退缩或消失状态,其面积缩小比例为 $2 \% \sim 1 8 \%$ 8]。根据模拟预测，至2050年，北半球冰川储量将平均减少 $5 0 \%$ [9]。随着冰川的持续退缩,未来50a我国冰川面积将减少 $2 7 . 2 \% ^ { [ 1 ] }$ ,河川径流将呈现持续减少态势。短期内，冰川的加速萎缩可在一定程度上增加河川径流，但大幅度的冰川萎缩将导致径流量减少，从而影响冰川融水的水资源供给量以及冰川对河流的调蓄作用，影响人类社会发展。多项研究通过单条冰川的观测和模拟不同情景下流域尺度冰川的敏感程度和响应过程，预测河川径流拐点的出现将在 2020—2030 年[10]。积雪作为冰冻圈最敏感的要素,是气候变化重要的指示器[11]。研究表明,北半球20世纪80年代以来积雪覆盖率以 $5 \%$ 的速率逐步下降[3]。50a来我国夏季积雪融水流量呈增加态势，年际变率在未来 $5 0 \mathrm { ~ a ~ }$ 将显著增大,融雪对河川径流的调节作用将大大减小[1]。
+
+目前，针对冰川的时空变化监测，全球已经建立起了全球陆地冰川网络（GTN-G）和世界冰川监测服务中心（WGMS），实地测量与卫星探测、航空探测等技术也为监测冰川水资源供给量变化提供了冰川面积、下垫面地形、运动速度、冰川堰塞湖、冰川形状、雪线、冰厚度等重要参数。针对积雪的时空变化监测，我国冰冻圈学者们通过在中国主要积雪区开展大量的卫星与地面同步测量，获取了积雪初期、稳定期和消融期积雪属性数据;通过算法改进，修正了由于云层、地形而造成的监测误差，基本建立了北半球高质量积雪数据集，并对中国及北半球的降雪量和降雪比率都进行了监测[12]
+
+总之，我国冰冻圈气象、冰川水文、冻土水文和雪水文等学科经过多年的研究和积累，已经初步建立和完善了中国高海拔寒区冰冻圈水文监测网络，基本构建了中国冰冻圈流域水文模型（CBHM），调试和改进了补充冰川水文过程模块的VIC模型等[13],获取了未考虑社会发展情景的 IPCC AR5(RCP)情景下中国冰冻圈部分河流的未来径流变化,但尚未形成区域性变化的结论[10]。未来针对冰冻圈水资源变化，中国冰冻圈科学将通过完善与统一监测网络，根据最新SSPs情景，结合《巴黎协议》，采用多模式集成方案，预估本世纪末特别是2030年和2059年两个时间节点的水资源变化情况，并分析全球温升 $1 . 5 ~ \mathrm { { ^ { \circ } C } }$ 和 $2 \ \mathrm { { ^ circ C } }$ 两个情景下我国冰冻圈水资源变化情况，作为冰冻圈水资源服务功能变化的重要依据。
+
+# 2地域功能区划研究
+
+对地理空间进行区划是地理学的传统工作和重要研究内容[14]。按照区域属性,地理空间区划可以分为自然区划、经济区划、行政区划、功能区划等。从方法论上，对地理空间进行类型划分主要有基于均质区域的区划论和基于功能区域的区划论两种区划理论。国内外区划历史基本经历了从以自然地域为中心的单要素区划，到综合人类活动的多要素区划的历程。随着经济社会的发展，为了具有针对性地解决区域问题，集成均质区域和功能区域的区划理论成为了新时期区划的主流。同时，随着传统区划由单一要素向全要素综合区划转变，综合考虑区域系统的各组成要素、明确各类地域单元的功能地位、因地制宜进行地理区划成为区域空间规划的新要求。
+
+地域功能是自然生态系统提供的本底功能与人类社会经济活动的需求功能的复合[15],而地域的主体功能正是两种功能叠加后形成的新综合功能。地域功能理论为认知地域空间格局以及优化空间组织提供了一个标准。基于功能区域的区划具有目标导向为主体、问题导向为补充的特征，对解决区域发展问题起着重要的作用。因此，对冰冻圈水资源进行服务功能区划是基于地域功能区域的、集成冰冻圈水资源自然要素与经济、社会、生态、文化、技术、制度等人文要素的空间功能区域细分。
+
+国外的区划工作始于18世纪末到19世纪初，经过较长时间的发展，已经形成了较为严密完整的区域划分体系。其中，功能区划往往包含在了区域空间规划中,集中体现在国土规划领域[16]。国外的功能区划主要针对实际问题和预期达到的目标，将区域划分为重点开发区、保护区、问题区域等。如为了经济复兴，日本于1962年进行第一次全国性综合开发计划,将全国分为“过密地区”、“整治地区”和“开发地区”[17]。巴西为了便于宏观调控,将全国分为疏散发展地区、控制膨胀地区、积极发展地区、待开发(移民)区和生态保护区[18]。也有从区域经济均衡角度采用标准区域划分的地域功能区划，如美国和欧盟主要采用标准区域来建立多级经济区划,其目的是为了协调经济与社会平衡，其中美国的标准区域分为区域经济地区组合、经济地区与成分经济地区三个层次[19],欧盟标准地区划以成员国的行政区划为基础，照顾到特殊的地区单元（矿区、轨道交通等），实行三级分类，以使欧盟地域范围内更加平衡和可持续发展[16]
+
+我国自然区划历史悠久，是区划工作的重点。1929年竺可桢发表的《中国气候区域论》标志着我国现代自然地域划分研究的开始[14]。20 世纪80年代以来，随着可持续发展理念的普及，自然资源区划、生态区划、生态功能区划等相继开展，如傅伯杰等人2001年的《中国生态区划方案》。中国的经济区划则没有一个公认的标准方案，而是在不断调整完善以适应中国快速的经济社会发展与转型[20]20 世纪90年代以来，由于长期以来空间布局发展规划的缺失，我国国土空间开发无序，人与自然、生产和生活、生态空间存在矛盾。多学科综合集成的综合区划迅速展开，基于自然地域单元和经济区划单元的区划方案开始突破学科限制。区划的应用范围从指导生产向区域可持续发展等领域拓展。为达到区域可持续发展目的，学者们意识到，必须把自然和人文两类要素有效的结合起来，建立同时具备自然和人文要素更为严密的区划综合指标体系，更多地考虑在不同等级的地域系统内关键人文要素的影响，正确辨识主导因素及其对区域系统的作用机理，构建长期指导国土空间开发的功能区划。
+
+为了更好地指导区域发展，地域主体功能区划逐渐成熟。樊杰[2I]深入研究地域功能基础理论和功能区划技术流程，研制了由现有发展基础、资源环境承载力和未来发展潜力组成的地域功能识别指标体系，包括可利用土地资源、可利用水资源、环境容量、生态脆弱性、生态重要性等，并运用地域功能适宜程度指数识别出以县级行政区划为单元的优化、重点、限制和禁止开发4类主体功能区。作为我国第一次颁布实施的中长期国土开发总体规划，主体功能区划中地域主体功能的思想和对综合指标体系的探索是经济地理学关于区域发展规律的认识和实践的重要反思，对冰冻圈水资源服务功能区划工作起到了重要指导作用。
+
+冰冻圈作为我国国土重要的一部分，其服务功能的划分是认识冰冻圈及其发生与影响地域相互作用规律、指导冰冻圈国土开发的重要手段。冰冻圈既具有其水体处于自然冻结状态等自然地理特性，也具有其服务人群往往高度依赖其供给等人文地理特性。因此，冰冻圈水资源服务功能区划既不同于基于自然生态系统特征的自然区划，也不同于以人文现象地域性差异为中心的人文区划，而是既要符合自然地理规律，又要服务于社会经济发展的综合区划，是指向冰冻圈水资源开发利用等特定功能的具体功能区划，需要进一步综合和集成相关研究的长期积累，构建能体现冰冻圈水资源服务功能特点的综合区划的指标体系、区划模型和层级理论，规范综合区划技术流程，明确区划的应用导向。
+
+# 3冰冻圈水资源服务功能分类与评估
+
+水资源作为生态系统中最重要的一部分，是人类社会发展的基础。水作为一种特殊的生态系统，不仅提供了维持人类生产生活活动的基础产品和社会经济发展的基础资源，还起到维持自然生态系统结构、生态过程与区域生态环境稳定的作用[22]。冰冻圈水资源作为生态系统的一部分，其服务功能分类与价值评估可参考生态系统服务功能的相关研究。同时，作为我国国土空间的重要一部分，冰冻圈也具有土地空间共有的生产、生活和生态功能。因此，冰冻圈水资源的服务功能分类与评估要基于生态系统服务功能评估理论和方法，结合“三生空间”分类与优化，构建冰冻圈水资源服务功能评估体系。冰冻圈水资源服务功能评估体系是指涵盖中国社会经济发展格局与冰冻圈水资源服务功能格局的、能够对中国冰冻圈水资源服务功能进行功能辨识、供需均衡评估、功能区划的原则、标准、方法、流程、结果分析、保障等，具体包括了冰冻圈水资源服务功能评估指标确立原则、指标体系、评估方法等部分。现就冰冻圈水资源服务功能分类、评估指标体系与评估方法进行探索。
+
+# 3.1冰冻圈水资源服务功能分类
+
+20世纪末，随着生态系统服务功能研究的相继展开，水资源开始作为生态系统服务功能价值评估的重要部分开展专项工作[23]。DAILY[24]首次提出了生态系统服务功能的定义，即指自然生态系统及其物种所提供的能够满足和维持人类生活需要的条件和过程。COSTANZA[25]将生态系统服务功能细化为气候调节、水分调控、养分循环等17类。生态系统服务功能不仅包括了为人类提供食物、生产原料的功能，还支持和维系着整个地球生命系统，如调节气候、涵养水源、维持生物多样性、土壤保持等服务功能[26]。生态系统服务功能概念自20 世纪 70年代提出以来，已被生态经济学、环境经济学和自然资源经济学研究广泛使用，从全球、区域等不同尺度，以陆地、地表水、草地、森林等不同生态系统为对象进行了实际应用，是制定生态区划、统计绿色GDP 工作的重要组成部分[27]。联合国千年生态系统评估根据评价与管理的需要，将生态系统服务功能分为四大类：供给服务、调节服务、文化服务和支持服务[28] 。
+
+目前水资源生态服务功能类型的划分主要延续了联合国千年生态系统的四大分类，并结合不同区域水资源生态系统自身的服务特点加以改进，如欧阳志云等[29]从提供产品、调节功能、文化功能和生命支持功能四大功能角度对我国陆地水生态系统进行评价。也有从水资源的直接价值和间接价值角度进行服务功能评价，如赵同谦等[22]结合数据的可获得性，将服务功能划分为5个直接使用指标和7个间接使用指标，对2000年我国陆地地表水生态系统的服务价值进行了评估。有学者提出，现有的以水的末端服务功能为基础的研究忽视了水的理化特性，因此有些研究中也将生态学中的水资源脆弱性研究、敏感性研究等与生态服务功能结合进行综合评价，如葛丽颖[30]从水资源胁迫敏感性、水环境污染敏感性、水源涵养和洪水调蓄功能等角度对河北省水生态服务功能进行评价。当前，冰冻圈水资源服务功能分类尚未形成共识，只有部分学者开始对冰冻圈的服务功能进行探索，如王立伦[31]指出冰川水资源是以固体水库效应为基础的水资源体系，应从季节调蓄、高端水饮料开发、灌溉用水等角度合理开发利用和保护;效存德等认为冰冻圈主要为人类社会提供淡水资源，包含生活生产用水及高品质的商业用水。
+
+党的十八大报告明确指出，面对资源约束趋紧、环境污染严重、生态系统退化的严峻形势，必须促进“生产空间集约高效、生活空间宜居适度、生态空间山清水秀”建设。冰冻圈作为我国重要的国土空间，从可持续发展角度，其功能的划分也需要体现“经济一社会一环境”的可持续发展三支柱概念，其所具有生态、生产和生活三种功能类型，是自然系统和社会经济系统协同耦合的产物[32]。同时水资源的价值具有地域差异，比如水资源供给量丰富但人迹稀少的地区，水资源的服务价值并不高，因此冰冻圈水资源服务功能的分类必须与所在地域的社会经济发展水平相结合。通过结合生态系统服务功能分类研究与城市社会经济发展特征，可将冰冻圈水资源服务功能分为生产服务功能、生活服务功能与生态服务功能。
+
+(1)生产服务功能。冰冻圈水资源生产功能是指冰冻圈直接为人类社会产出的水资源产品，进一步可以细分为农业产品水资源供给功能、工业产品生产供给功能、商业开发功能。我国干旱区、高寒区多为经济落后区，冰冻圈作为寒旱地区重要的水源地，为农业生产提供灌溉与畜牧用水，为工业生产提供原料水、冷却水等,对维持城市经济发展具有重要意义。同时，冰冻圈水质优良，作为高档优质饮用水可为城市发展提供商业开发功能，
+
+(2)生活服务功能。冰冻圈作为空间载体，可为生活在国土空间上的生物提供生活保障功能，包括维持人口基本生活所需要的耕地用水保障功能、城镇生活用水保障功能、美学观赏服务功能。
+
+(3)生态服务功能。生态功能是冰冻圈水生态系统维持生物生存的重要功能，包括水源涵养、径流调蓄、污染净化等功能。生态服务功能是生态系统自身具有的功能，是为人类提供的非实物型服务，也可视为间接使用功能。
+
+# 3.2冰冻圈水资源服务功能评估指标
+
+由于不同地区冰冻圈水资源影响方式和影响程度存在较大差异，例如冰川融水对内陆河水系的补给超过 $20 \%$ ,而对外流河水系仅占 $8 \%$ [33]。因此，冰冻圈水资源影响区划分是冰冻圈水资源服务功能区划重要基础之一，也是冰冻圈水资源服务功能评估的前期工作。冰冻圈主要位于高海拔、高纬度的人迹罕至区域，其变化不仅对其要素所在的下垫面起直接作用，还通过流域对更广泛的区域产生影响。从水量补给、调丰补枯能力及固态水储量三个冰冻圈最直接的水文功能方面可对冰冻圈水资源服务功能影响区进行简单划分，再在此基础上进行服务功能评估。
+
+冰冻圈水资源服务功能评估指标体系是水资源服务功能区划工作的基础，既包括基于冰冻圈科学研究工作的冰冻圈水资源供给评估体系，又包括了基于人文地理学长期对城市发展研究工作的人类经济社会发展所需的水资源需求评估体系，还包括了结合水资源需求量和实际利用量、综合评价水资源利用效率的评估体系。
+
+冰冻圈水资源供给评估体系主要基于冰冻圈水文模型，包括了冰冻圈水资源供给量，主要是冰雪融水径流量。冰冻圈水资源需求评估体系主要基于城市发展社会经济模型，包括了区域单元实际用水量与区域单元额定需水量。区域单元实际用水量主要考虑了城市的实际水资源总用水量；区域额定需水量主要考虑了维持城市人口、经济、生态发展所需要的额定需水量。冰冻圈水资源供给量与区域单元水资源需求量通过供需均衡模型，共同构成区域水资源稀缺性，主要考量了当前区域经济社会发展是否超过水资源的承载能力；区域水资源需求量与实际利用量构成了区域水资源利用效率，并辅以综合水资源效率与单要素水资源效率指标进行效率评价的修正。基于以上分析，构建冰冻圈水资源服务功能评估指标体系（表1）。
+
+表1冰冻圈水资源服务功能评估指标体系 Tab.1The evaluation index system of water service function of cryophere   
+
+<html><body><table><tr><td>一级要素层</td><td>二级要素层</td><td>指标层</td></tr><tr><td>冰冻圈水资源影响程度</td><td>储量</td><td>冰川储水量 积雪储水量</td></tr><tr><td></td><td>调节</td><td>冻土储水量 冰川调节能力 积雪调节能力</td></tr><tr><td></td><td>水量补给</td><td>冻土调节能力 冰川融水占比</td></tr><tr><td></td><td></td><td>积雪融水占比</td></tr><tr><td>冰冻圈水资源供给量 区域单元额定需水量</td><td></td><td>冻土融水占比</td></tr><tr><td></td><td>冰雪融水供给</td><td></td></tr><tr><td></td><td></td><td>冰雪融水径流量</td></tr><tr><td></td><td>农业生产需水</td><td>农业需水量</td></tr><tr><td></td><td>工业生产需水</td><td>工业需水量</td></tr><tr><td></td><td>牧业生产需水</td><td>牧业需水量</td></tr><tr><td></td><td>城乡生活需水</td><td>城乡生活需水量</td></tr><tr><td></td><td>生态需水</td><td>生态需水量</td></tr><tr><td>区域单元实际用水量</td><td>实际用水</td><td></td></tr><tr><td>区域单元利用效率</td><td>综合效率</td><td>水资源总用水量</td></tr><tr><td></td><td></td><td>万元GDP用水量</td></tr><tr><td></td><td>农业用水效率</td><td>单位粮食产量用水量</td></tr><tr><td></td><td>牧业用水效率</td><td>单位牧业总产值用水量</td></tr><tr><td></td><td>工业用水效率</td><td>单位工业增加值用水量</td></tr></table></body></html>
+
+# 3.3冰冻圈水资源服务功能评估方法
+
+与一般水生态系统不同，冰冻圈水资源基本形态为固态，水循环及其对生态环境和人类社会的影响比一般水体更加复杂，其对人类社会的作用机制也与一般的湖泊、河流等水体不同。冰冻圈水资源服务功能各部分的定量化与综合评估需要充分反映了冰冻圈水资源与人类社会相互作用的机理，实现对冰冻圈水资源服务功能价值的精确评价。因此，既需要综合利用生态系统服务功能评估的优秀研究成果，也要依据冰冻圈特性进行相应调整与创新。
+
+针对冰冻圈水资源服务功能评估指标体系，围绕优化冰冻圈水资源服务功能配置、促进经济社会发展质量和效率提升的目标，冰冻圈水资源服务功能区划拟运用数据库构建、水资源价值货币化、供需均衡模型开发、图谱空间叠加等方法与手段，通过分析和预估不同气候情景下的中国冰冻圈水资源服务功能变化，以及服务功能供给和需求之间的关系，划定冰冻圈水资源服务功能区。同时，冰冻圈水资源服务功能的价值化和可比化对后期服务功能综合区划的开展及其重要。
+
+水资源服务功能的价值转换可综合运用生态经济学、环境经济学和资源经济学等学科对生态系统服务价值评估的方法体系。国外对生态系统服务功能评估最早可追溯到1925年DRUMARX首次将野生生物游憩的费用支出作为野生生物的经济价值[34]。1993年联合国统计署、环境署与世界银行等国际组织合作，正式出版了《综合环境与经济核算手册》（SystemofIntegratedEnvironmentalandEco-nomicAccounting,SEEA）,提供了环境与经济核算的总体思路和框架以及一些生态价值的核算方法[35］。2003 年联合国统计署又推出了 SEEA 的最新版本（Integrated Environmental and Economic Ac-counting2003），对非生产性有形（自然）资源的分类、资产核算的统一等内容进行了扩充,为各国的自然资源价值核算提供了范本和指导，已经成为当今国际上进行综合经济与环境核算工作的指导性文件。国内的生态价值服务功能评估工作开始于1980 年代初。1990年以来，不同学者对我国全国与区域尺度的生态系统服务价值进行了评估,但主要集中在防护林、水源涵养林、森林公园等森林生态系统,如张建国等[36]采用等效益物替代法等对福建省森林的经济、生态和社会效益等作出具体计量。2000年之后生态价值评估的区域尺度与生态系统种类也逐渐多样化，评估方法也逐渐成熟。目前我国生态系统服务功能评估主要处于学习、模仿向成熟的过渡阶段，所用的评估方法主要为从物质量角度进行整体评价的物质量评估法和对价值进行量化的价值量评估法两大类[35]。具体常用的评价方法包括市场价值法、机会成本法、防护费用法、恢复费用法、影子价格法、旅行费用法、函询调查法、条件价值法等[37]。
+
+在对水资源生态系统的各项自然属性进行价值化之后，与社会经济模型的结合是进行服务功能区划的重要步骤。供给与需求，是经济学宏观与微观分析的基本概念，在经济学中占据重要地位。19世纪70年代，经济学家马歇尔将物理学中的“均衡”概念引入经济学，均衡状态下各种经济主体相互制约，供需双方都能够均衡、稳定、持续、有效的向前不断发展。由于供需矛盾是产生结构失衡的主要原因，因此可利用供需均衡模型来分析系统的稳定性与科学性[38]。水资源供需均衡研究内容主要包括供水系统分析、需水系统分析和供需均衡分析。供水系统分析一般从供水源的现状和未来预测入手，如地下水、地表水、跨区域调水等；社会经济发展需水现状和预测是需求系统分析的基础，主要考虑了工业部门、农业部门、生活部门和生态部门的用水需求。供需的三种关系（供大于需、供需均衡、供小于需)通过水资源开发与利用政策调整可实现互相转换。因此，从供需均衡角度建立水资源服务功能重要性评估模型，以定性和定量相结合的方法总结冰冻圈水资源服务重要性评估指标体系，具体公式如下：
+
+$V _ { \it i j } = F ( S _ { \it i j } , D _ { \it i j } )$ (供需均衡分析模型)
+
+式中： $V _ { i j }$ 表示 $\mathbf { \chi } _ { i }$ 区域的 $j$ 功能的重要性或强度指数;  
+$S _ { i j }$ 表示 $i$ 区域 $j$ 功能的供给能力或供给相对重要性;  
+$D _ { _ { i j } }$ 表示 $\mathbf { \chi } _ { i }$ 区域 $j$ 功能的需求程度。
+
+# 4冰冻圈水资源服务功能区划研究设想
+
+冰冻圈水资源服务功能区划在操作方法上，既要综合自然区划、人文区划、生态功能区划等传统区划的区划方法，也要考虑到冰冻圈既存在直接作用区（即冰川、积雪、冻土等要素覆盖区）与间接作用区（即人类活动区域)的特性。在具体划分时，首先要充分考虑地带性规律和主导性原则。类型区划是进行区域规划的基础。确定类型时一般首先考虑不易受人类活动影响的因素，确定了类型区之后的下一级区域划分，再考虑较为容易受到人类活动影响的因素。因此，冰冻圈水资源服务功能区划首先要考虑冰冻圈水资源各要素的特征与分布规律。
+
+其次，任何一种区划都需要利用定性和定量的指标来确定区划界线，因此指标的选取需要既能反映客观事实，又要涵盖尽可能多的信息[39]。较大尺度下确定类型区所选用的指标一般较为简单，比如温度、湿度、降水量等。随着区划单位尺度逐渐缩小，选取能够客观体现自然地域分异规律的要素越发困难。从低级区划单元中确定主导因素向上统合也可采用不同的思路和方法。因此，自上而下的顺序划分法和自下而上的逐级归并法是进行综合区划的基本途径和方法。一级区划主要结合已有的自然地理区划来划分，具体地理区划界限不仅考虑了历史发展所形成的客观规律，还需要和二、三级区划进行协调。二级区划一般由结构相似的地域单元组成。三级区划往往是单功能区划的集成与综合[40]。区划的一般方法有很多，比如地域主体功能划分时常常综合运用空间叠置分析、空间聚类等多种方法来确定评价单元的价值属性。常用的区划方法有：地理相关法、空间叠置法、主导标志法、景观制图法、定量分析法等。各种方法在实际工作中往往根据实际配合使用。随着GIS、RS、GPS以及计算机等现代技术手段的逐步应用，地理区划从野外调查、信息收集与处理、计算模型、方案成图等向现代化转变，从而为区划演化、地理结构与功能、地域分异规律等研究提供了先进的手段，提高了研究精度。传统的“地面调查 $^ +$ 对地观测 $^ +$ 台站监测 $^ +$ 模拟数据”四位一体的多数据源与海量数据和非结构化数据的大数据结合，也为当前功能区划提供了新的创新点。总之，综合区划已经形成的研究体系和区划方法，为未来对冰冻圈水资源服务功能区划提供了方法指导。
+
+![](images/61572896e4cf16959a1f3b0eba22b752524177cedfd7fd228f137bbca219c6ab.jpg)  
+图1冰冻圈水资源服务功能区划方案  
+Fig.1Scheme of function regionalization of cryosphere water resource service
+
+冰冻圈水资源服务功能区划首先考虑了水资源分布与作用机制的客观规律，将不同冰冻圈水资源影响程度，不同冰冻圈要素(冰川、冻土、积雪等）主导作用的区域进行识别与划分。可通过构建水文模型，将冰冻圈水资源分为强影响区、中影响区和弱影响区三大区域。基于冰冻圈水资源影响区划分，识别出冰冻圈水资源农业生产、牧业生产、工业生产、城乡生活和生态等服务功能类型单元区。从冰冻圈水资源开发利用角度，可将每种服务功能类型单元区，根据水资源供给条件与社会经济发展需求的供需均衡状况，与水资源开发利用效率情况进行三级区划。由于冰冻圈水资源供给量在不同气候变化情景下将出现增加、衰退、平稳的三种趋势，社会经济发展的需求也随着该区域人口、产业以及政策等人文要素的变化产生不同的情景，因此冰冻圈水资源服务功能区划在未来不同情景下结合不同的社会经济发展路径和气候变化情景，将采用不同的区划方案。
+
+# 5 总结与展望
+
+冰冻圈服务功能区划研究是冰冻圈科学发展和国土空间优化的必然要求。水资源作为冰冻圈服务中最直接与最重要的功能之一，其研究尚处于起步阶段。已有研究对冰冻圈水资源服务功能评价与功能区划提供了数据基础、关键参数和未来情景预测。本文在综合生态环境服务功能分类与评估和“生产空间集约高效、生活空间宜居适度、生态空间山清水秀”的三生空间建设等研究与要求、充分考虑冰冻圈水资源特性的基础上，将冰冻圈水资源服务功能初步分为了生产服务功能、生活服务功能与生态服务功能三类。其次，综合利用生态学、自然地理学、人文地理学等学科对冰冻圈、水资源服务功能的研究成果，尝试构建了冰冻圈水资源服务功能评估体系，主要从供需均衡角度构建评估指标体系框架，以评估区域单元的冰冻圈水资源服务能力。最后，本文在综合自然区划、人文区划、生态功能区划、主体功能区划等实践基础上，充分考虑了冰冻圈水资源影响程度、冰冻圈水资源服务功能类别、冰冻圈水资源供需平衡和利用效率的基础上，提出下一步实际操作的区划方案设想
+
+但是也需要注意，冰冻圈水资源服务功能区划是一项具有综合性、复杂性、实践性与创新性的工作，既需要对冰冻圈水资源自然特性、变化发展与作用机理等进行深入研究，也需要对冰冻圈不同等级影响区的社会经济属性现状与未来进行正确理解与判断。目前从理论上进行冰冻圈水资源服务功能研究还未达成共识，指标体系的确立与区划方法也存在完善之处，这些都将是下一步冰冻圈水资源服务功能区划需要着重研究和解决的重要科学问题。通过选取典型案例，可进行冰冻圈水资源服务功能区划的探索研究，为进行全国乃至全球的冰冻圈水资源服务功能区划工作提供理论与实践基础。
+
+# 参考文献(References）
+
+[1］秦大河,效存德,丁永建,等.国际冰冻圈研究动态和我国冰冻 圈研究的现状与展望[J].应用气象学报,2006,17(6)：649-   
+655.[QIN Dahe,XIAO Cunde,DING Yongjian,et al.Progress on cryospheric studies by international and Chinese communities and perspectives[J].Journal of Applied Meteorological Science,2006,   
+17(6) :649 -655.] [2］效存德,王世金,秦大河.冰冻圈服务功能及其价值评估初探 [J].气候变化研究进展,2016,12（1）:45-52.［XIA0 Cunde， WANG Shijin,QIN Dahe.A preliminary study on cryosphere service function and its value estimation[J].Advances in Climate Change Research,2016,12（1）:45-52.] [3]IPCC. Climate change 20O7:The physical science basis[M]. Cambridge:Cambridge University Press,2007:338-377. [4］冷疏影,丁永建.自然科学基金资助下的我国冰冻圈科学发展 [J].地球科学进展,2010,25（10）：1091-1100.［LENG Shuying,DING Yongjian.The development of cryosphereic science in China granted by National Natural Science Fund[J].Advances in Earth Science,2010,25（10）:1091-1100.] [5]刘时银,姚晓军,郭万钦,等.基于第二次冰川编目的中国冰川 现状[J].地理学报,2015,70(1）:3-16.［LIU Shiyin,YAO Xiaojun,GUO Wanqin,et al. The contemporary glaciers in China based on the Second Chinese Glacier Inventory[J].Acta Geographica Sinica,2015,70(1）:3-16.] [6］车涛,李新.1993—2002 年中国积雪水资源时空分布与变化特 征[J].冰川冻土,2005,27（1）:64-66.［CHE Tao,LI Xin. Spatial distribution and temporal variation of snow water resources in China during 1993—2002[J].Journal of Glaciology and Geocryology,2005,27(1):64-66.]
+
+[7]沈永平，苏宏超，王国亚，等.新疆冰川、积雪对气候变化的响
+
+应[J].冰川冻土,2013,35(3）:513-527.[SHENYongping,SU Hongchao,WANG Guoya,et al.The responses of glaciers and snow cover to climate change in Xinjiang（1）: Hydrological effect[J]. Journal of Glaciology and Geocrylogy,2013,35(3）:513-527.]   
+[8］秦大河,丁永建.冰冻圈变化及其影响研究——现状、趋势及 关键问题［J].气候变化研究进展,2009,5（4）：187－195. [QIN Dahe,DING Yongjian. Cryospheric changes and their impacts:Present,trends and key issues[J].Advances in Climate Change Research,2009,5（4） :187-195.]   
+[9]SCHNEEBERGERA Christian,BLATTERA Heinz,ABE-OUCHIB Ayako,et al.Modeling changes in the massbalance of glaciers of the northern hemisphere for a transient $2 \times \mathrm { C O } _ { 2 }$ scenario[J]. Journal of Hydrology,2003,282:145-163.   
+[10］陈仁升,康尔泗,丁永建.中国高寒区水文学中的一些认识和 参数[J].水科学进展,2014,25（3）:307-317.[CHEN Rensheng,KANG Ersi,DING Yongjian.Some knowledge on and parameters of China’s alpine hydrology[J].Advances in Water Science, 2014,25(3) :307 -317. ]   
+[11]IPCC. Climate change 2013:The physical science basis[ M]. Cambridge:Cambridge University Press,2013.   
+[12］郑雷,张廷军,车涛,等.利用实测资料评估被动微波遥感雪深 算法[J].遥感技术与应用,2015,30（3）:413-422.[ZHENG Lei,ZHANG Tingjun,CHE Tao,et al.Evaluation of snow depth products derived from passive microwave satellite remote sensing data using ground-based snow measurements[J]. Remote Sensing TechnologyandAplication,2015,30（3）:413-42.]   
+[13]ZHAO Qiudong,ZHANG Shiqiang,DING Yongjian,et al. Modeling hydrologic response to climate change and shrinking glaciers in the highly glacierized Kunma Like River catchment,central Tian Shan Mountains[J]. Journal of Hydrometerology,2015,（16）:2383- 2399.   
+[14］郑度,葛全胜,张雪芹,等.中国区划工作的回顾与展望[J].地 理研究,2005,24（3）:330-344.[ZHENG Du,GE Quansheng, ZHANG Xueqin,et al.Regionalization in China:Rretrospect and prospect[J]. Geographical Research,2005,24（3）:330-344.]   
+[15］樊杰,孙威,陈东.“十一五"期间地域空间规划的科技创新及 对"十二五"规划的政策建议［J].战略与决策研究,2009,24 (6）:601-609.[FAN Jie,SUN Wei,CHEN Dong.Scientific and technological innovations in spatial planning during"the 1th FiveYear Plan”period and suggestions to the spatial planning of“the 12th Five-Year Plan”[J].Strategy & Policy Decision Research, 2009,24(6):601-609.]   
+[16］张和平,姜涛.主体功能区划分国外溯源[J].社会发展,2011, （11）:45-46.[ZHANG Heping,JIANG Tao.The foreign originof major function oriented zoning[J].Social Development,2011, (11) :45 -46.]   
+[17］施源.日本国土规划实践及对我国的借鉴意义[J].城市规划 汇刊,2003,（1）:72-76.[SHIYuan.The practiceof Japanese land planning and its reference to China[J].Urban Planning Forum,2003,（1) :72 -76.]
+
+[18］吕芳.地域主体功能区划理论与实践研究——以保定市为例 [D].保定：河北农业大学,2008：1-68.［LVFang.Atheoretical and practical study of main function division :A case study of Baoding City[D].Baoding:Agricultural University of Hebei Province,2008:1-68.]
+
+[19］高国力.我国主体功能区划分及其分类政策初步研究[J].宏 观经济研究,2007,（4）:3-10.［GAOGuoli.A preliminary study on major function oriented zoning and classification policies of China[J].Macroeconomics,2007,（4）:3-10.]
+
+[20］方创琳,刘海猛，罗奎，等.中国人文地理综合区划[J].地理学 报,2017,72（2）:179－196.[FANG Chuanglin,LIU Haimeng, LUO Kui,et al. Comprehensive regionalization of human geography in China[J].Acta Geographica Sinica,2007,72(2）:179-196.] [21］樊杰.中国主体功能区划方案[J].地理学报，2015，70(2）：186 -201.［FAN Jie.Draft of major function oriented zoning of China [J].ActaGeographica Sinica,2015,70(2）:186-201.]
+
+[22］赵同谦,欧阳志云，王效科,等.中国陆地地表水生态系统服务功能及其生态经济价值评价[J].自然资源学报,2003，18（4）：443-450.[ZHAO Tongqian,OUYANG Zhiyun,WANG Xiaoke,et al.Ecosystem services and their valuation of terrestrial surfacewater system in China[J].Journal of Natural Resources,2OO3,18(4):443-450.]
+
+[23]方兰，杨波.浅析水资源功能价值及主要评估方法[J].资源开发与市场，2013,29（11）：1177-1181.[FANGLan，YANGBo.Research on water resource valuation and assess methodJ.Re-source Development& Market,2013,29（11）:1177-1181.]
+
+[24]GRETCHEN C Daily.Nature's serivices:Societal dependence on natural ecosystems[M].Washington D.C:Island Press.1997.
+
+[25］ROBERT Costanza.The value of the world's ecosystem services and natural capital[J].Nature,1997,387:253-260.
+
+[26］党宏媛.区域生态系统服务功能形成机理及评价研究［D].石家庄：河北师范大学，2012：1-55.[DANGHongyuan.There-search on the formation mechanism of regional ecosystem and eval-uation[D].Shijiazhuang:Hebei Normal University,2O12:1-55.][27］周葆华，操璟璟，朱超平，等.安庆沿江湖泊湿地生态系统服务功能价值评估［J].地理研究，2011，30（12）：2296－2303.[ZHOU Baohua,CAO Jingjing,ZHU Chaoping,et al.Valuation ofwetland ecosystem services along the Yangtze River in Anqing,An-hui Province[J].Geographical Research,2011,30（12）:2296-2303.]
+
+[28]Millennium Ecosystem Assessment.Ecosystems and Human Wellbeing:Synthesis[J].Physics Teacher,2005,34(9）:534.
+
+[29］欧阳志云，赵同谦，王效科，等.水生态服务功能分析及其间接价值评价［J].生态学报，2004，24（10）：2091－2099.［OUY-ANGZhiyun,ZHAO Tongqian，WANGXiaoke,et al.Ecosystemservices analyses and valuation of China terrestrial surface watersystem[J].ActaEcologica Sinica,2004,24(10）:2091-2099.][30］葛丽颖.河北省水资源与水环境现状及其生态系统服务功能研究[D].石家庄：河北师范大学,2004：1-63.［GELiyin.Astudy of water and water environment and its ecosystem servicefunction in Hebei Province[D].Shijiazhuang:Hebei Normal Uni-
+
+versity,2004:1 -63.]   
+[31］王立伦.我国冰川水资源状况及开发利用途径[J].自然资源 学报,1995,10（2）:97-103.[WANG Lilun.The conditions of the glacial water resource and the ways of its exploitation and utilization in China[J].Journal of Natural Resources,1995,1O(2）:97 -103.]   
+[32］李广东,方创琳.城市生态一生产一生活空间功能定量识别与 分析[J].地理学报,2016,71（1):49-65.[LI Guangdong, FANG Chuanglin. Quantitative function identification and analysis of urban ecological-production-living spaces[J].Acta Geographica Sinica,2016,71(1) :49-65.]   
+[33］杨针娘．中国冰川水资源[M]．兰州：甘肃科学技术出版, 1991:140 -141.[YANG Zhenniang. Glacier water resources in China［M].Lanzhou:Gansu Science and Technology Publishing House,1991:140 -141.]   
+[34］刘玉龙,马俊杰,金学林,等.生态系统服务功能价值评估方法 综述[J].中国人口·资源与环境,2005,15（1)：88-92.[LIU Yulong,MA Junjie,JIN Xuelin,etal. Summary of assessment methods for valuation of ecosystem service function[J].China Population,Resources and Environment,2005,15(1):88-92.]   
+[35］张媛媛.1980—2005年三江源区水源涵养生态系统服务功能 评估分析［D].北京：首都师范大学,2012:1-47.［ZHANG Yuanyuan.The evaluation and analysis of the service function of water resources in Sanjiangyuan area from 198O to 2O05[D].Beijing:Capital Normal University,2012:1-47.]   
+[36］张建国,杨建洲.福建森林综合效益计量与评价[J].生态经 济,1994,（5）:1-6.[ZHANG Jianguo,YANG Jianzhou. Measurement and appraisal on the comprehensive effect of the forest of Fujian Province[J].Ecological Economics,1994,(5）:1 -6.]   
+[37］柳易林.洞庭湖湿地生态系统生态服务功能价值评估与生态 功能区划[D].长沙：湖南师范大学,2005:1-49.[LIU Yilin. Study on ecosystem service evaluation and ecological function re gionalization of Dongting Lake Wetland[D].Changsha;Hunan Normal University,2005:1-49.]   
+[38］黄和平.我国旅游季节性的区域差异与开发策略研究[D].上 海：华东师范大学,2016:29-33.[HUANG Heping.Regional differences of tourism seasonality in China and development strategy research[D].Shanghai:East China Normal University,2016:29 -33.]   
+[39］程叶青,张平宇.生态地理区划研究进展[J].生态学报,2006, 26(10）:3424 -3429.[CHENG Yeqing,ZHANG Pingyu. Progrest on eco-geographical regionalization researches[J].Acta Ecologica Sinica,2006,26(10）:3424-3429.]   
+[40］黄宏源,蔡玉梅,王国力,等.省级国土空间综合功能区划研 究——以湖南省为例[J].国土与自然资源研究,2014,（3）：36 -39.[HUANG Hongyuan,CAI Yumei,WANG Guoli,et al. The research of method for provincial spatial comprehensive function regionalization :A case in Hunan Province[J]. Teritory& Natural Resources Study,2014,(3）:36-39.]
+
+# A literature review on regionalization of water resource service function of cryosphere in China
+
+LIU Jie1,2.3，HUANG Jin-chuan1,2,3，LIN Hao-xi1,2,3 （1 Key Laboratory of Regional Sustainable Development Modeling,CAS,Beijing 1O0101,China ;   
+2 Institute of Geographic Sciences and Natural Resources Research,CAS,Beijing 1Oo1O1,China;   
+3University of Chinese Academy of Sciences,Beijing 10o049,China)
+
+Abstract:Asone of the five most important spheres of the climate system globall,cryosphere is an important water source and solid water reservoir in coldand arid regions of China,which exerts crucial impacts on ecology,water,environment and climate.Fora long time,there has been inadequate research on product and service functions of cryosphere,let along the targeted regionalization of cryosphere water resource function in arid region from the perspective of major function regionalization.Water resource is one of the most direct service functions of cryosphere and can be the important breakthrough of the research of service function in cryosphere.Based on interdisciplinary theoryand method of cryosphere science,human geography,ecologyand other subjects,this paper reviewed the existed scientific researches around three main aspects:：（1）the distribution and monitoring of water resource.（2） functio oriented regionalization.（3）the classification and evaluation of water resources service.Also,this paper put forwardthe cryosphere water resource service function classification system based on the evaluation of ecosystem servicefunctionand the division of the ecological-production-living space.Furthermore,on the basis of characteristics of cryosphere water resource,supply capacity,socio-economic development water demand and water resource utilization eficiency,this paper constructed the evaluation index system for cryosphere water resource service function.Finally,colligating the practice of comprehensive physiographic regionalization,comprehensive human geography regionalization,ecological function regionalization,major function oriented zoning and others related researches, this paper brought forward a feasible plan for cryosphere water resource service function regionalization,which providesa theoretical and practical basisforthe future research ofregionalization of cryosphere service function in China and the whole world.
+
+Key words:cryosphere；water resource service function； function oriented regionalization； literature review

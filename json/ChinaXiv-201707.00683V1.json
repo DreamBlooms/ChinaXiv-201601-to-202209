@@ -1,0 +1,416 @@
+[
+    {
+        "type": "text",
+        "text": "人类Grx3蛋白与转录因子p65相互作用的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡可越¹，程宁辉²，王新泉1\\*\\*清华大学生命科学学院，北京100084",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要:疏基氧化还原酶在生物体的系统内担当着非常重要的角色，其主要介导的是巯基和二硫键之间的相互转化的反应。人类 $\\mathsf { G r } \\times 3$ 蛋白作为一种巯基氧化还原酶在谷氧还蛋白系统中有着非常重要的作用。已有的研究表明Grx3蛋白对于NF-KB信号通路的活性有十分显著的影响。p65（RELA）是人类机体内十分重要的一种蛋白，其在NF-KB信号通路有着重要的调控作用，几乎调控着NF-KB信号通路中的所有下游反应。本文通过大肠杆菌提纯表达的p65与Grx3在体外条件下进行偶联实验，对于p65与Grx3存在相互作用提供了强有力的证据，同时也Grx3蛋白对于NF-KB信号通路的影响机制提供了一个可能的解释。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：人类谷氧还蛋白Grx3;人类p65（RELA）蛋白；蛋白偶联。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The interaction study between human Grx3 protein and transcription factor p65 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HU Ke-yue1， CHENG Ning-hui²，WANG Xin-quan1\\*\\* (School of Life Sciences,Tsinghua University,10oo84 Beijing) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Oxidation-reduction system exists in almost all organisms， and thiol-redox enzymes play a very important part in the oxidation-reduction system. Thiol-redox enzymes regulate the conversion between thiol group and disulfide bond. Thiol-redox enzymes exist in both glutaredoxins system and thioredoxins system in human body. Our target protein Grx3 is one of the most important role in glutaredoxins system. p65(RELA) a very important protein in human body which has a very close relation with inflammatory reaction regulates the NF- k B signal pathway,it almost control all of the cascade reaction of NF- $\\kappa \\mathrm { B }$ signal pathway,while other studies has shown that Grx3 has a significant influence on NF- $\\kappa \\mathrm { B }$ signal pathway. Our study shows that there is a connection between p65 and Grx3 in vivo environment by colocalisation experiment and $\\mathsf { p } 6 5$ and Grx3 protein purify from E.coli can crosslink in a specific vitro environment which provide a significant proof of interaction between Grx3 and p65 in votro environment and explains how Grx3 get involved in the NF- k B signal pathway as while. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords : human Grx3; human p65; protein crosslinking作者简介：胡可越，男，清华大学生命科学学院；程宁辉，男，博士，美国贝勒医学院助理教授\\*\\*通讯作者：王新泉，男，教授，研究方向为结构生物学，Email：xinquanwang@tsinghua.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "谷氧还蛋白(Grx，glutaredoxin)是巯基氧化还原酶家族的重要成员之一，目前已经被证实其广泛地存在于各种生物体内。谷氧还蛋白是以一种依靠谷胱甘肽（GSH）来将蛋白质上二硫键还原成巯基的一种酶蛋白。[[]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在谷氧还蛋白系统中电子依次从Grx蛋白传递到谷胱甘肽(GSH)，再传递给谷胱甘肽还原酶，最终传递到NADPH。而Grx最终则会在核苷酸还原酶等其他一些酶的作用下，打开二硫键，重新恢复其还原性。3】",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Grx 蛋白最早被发现时是以一种核糖核苷酸还原酶的受体。目前已有的研究表明Grx 蛋白可以与细胞凋亡的信号调控激酶1（apoptosis signal-regulating kinase1，ASK1）相连，Grx 与ASK1相连之后可以抑制ASK1的生理活性，而当Grx1被氧化之后，ASK1与Grx1不再结合，ASK1被释放出来进而启动了细胞凋亡程序。4Grx 还可以使得通过NF-KB 途径，与 NF-κB 结合，来抑制多巴胺介导的细胞凋亡。总而言之，Grx 在信号通路中作用，大多都是抵抗细胞凋亡和氧化应激。由此可见，Grx 系统对于细胞维持自身的还原环境有着重要的作用。而氧化还原力对蛋白质，脂类以及核酸的修饰有着重要的影响，因此Grx在很大程度上操纵着细胞的生命状态,并且与人体多种疾病相关。【5[617]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过体外的蛋白偶联实验我们可以确定两个蛋白能够在体外相互结合，为这两个蛋白在体内存在相互联系提供强有力的佐证。另外已有的研究表明Grx3蛋白对于NF-κB信号通路的活性有十分显著的影响。4通过研究体外环境下Grx3 和p65存在相互作用，我们希望为Grx3如何介入人体的 NF-κB信号通路提出一个合理的猜想。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．1材料与仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Grx3 与p65 的基因均从生物合成公司购买。大肠杆菌表达载体 pGEX-6p-1为购买的商品化载体，具体如图1所示。E.coliDH5α与BL21(DE3）为实验室保存菌株。大肠杆菌超声破碎采用 Sonic 的超声波细胞破碎仪，PreScission Protease 酶为实验室自制的用于切割GST-tag与GSH 偶联位点的酶，ResourseQ离子层析柱、superdex-200 10/300分子筛、AKTA快速液相色谱仪(FPLC）均购买自GEHealthcare 公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbe62d9c877fa3b943446bd90c92dbb28b1a4aa0a524d844fe7f1895ec8f372b.jpg",
+        "img_caption": [
+            "图1pGEX-6p-1大肠杆菌表达载体",
+            "Fig.1 pGEX-6p-1 E.coil vector "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2菌种与克隆构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所需构建的克隆为pGEX-6p-1-p65（p653-305截短体）以及pGEX-6p-1-Grx3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先对于目的基因进行PCR扩增，引物由生物合成公司进行制备，目的基因完成扩增后和载体采用以下 $5 0 ~ \\mu \\mu \\mu$ 酶切反应体系进行酶切：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NEB酶切buffer4 5 μl EcoRI-HF 1 μl BamHI-HF 1 μl DNA底物 2 μl 灭菌双蒸水 41 μl ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCR产物与载体在 $3 7 ^ { \\circ } \\mathrm { C }$ 进行酶切反应约 $3 { \\sim } 5 \\mathrm { h r }$ ，酶切反应结束后利用试剂盒对酶切产物进行回收。将酶切后的目的片段与载体通过T4连接酶进行连接，采用以下 $2 0 \\mu \\mathrm { l }$ 连接反应体系进行连接：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "酶切后的PCR片段 $\\begin{array} { l } { { 1 0 ~ \\mu } } \\\\ { { 2 ~ \\mu 1 } } \\\\ { { 1 ~ \\mu 1 } } \\\\ { { 2 ~ \\mu 1 } } \\\\ { { 5 ~ \\mu 1 } } \\end{array}$ ！ 酶切后载体 T4DNA liagase $1 0 \\times$ 连接缓冲液 灭菌双蒸水 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "反应在室温下进行 $3 \\sim 5 \\mathrm { h r }$ ，将所获的产物使用DH5α感受态进行转化，挑取适量的单菌落接种于 已经加入含 $1 \\%$ 的 Amp5 mlLB 培养基的BD 管 中培养 $8 \\sim 1 2 \\mathrm { h r }$ ，利用试剂盒提取质粒进行相应酶切的鉴定，选取定结果为阳性的克隆进行测序，获得目的克隆。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3目的蛋白表达",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在 BL21感受态细胞中加入 $2 { - } 3 ~ \\mu \\mathrm { l }$ 含目的蛋白基因的质粒，在冰上冰浴 $4 0 \\mathrm { m i n }$ 左右， $4 2 ^ { \\circ } \\mathrm { C }$ 热激90s后再放回冰上孵育 $5 \\mathrm { m i n }$ ，再往感受态细胞中加入 $4 0 0 { \\mu \\mathrm { l } } \\mathrm { L B }$ 培养基(无菌操作)，在 $3 7 ^ { \\circ } \\mathrm { C }$ 下缓慢摇晃复苏培养 $4 0 ~ \\mathrm { m i n }$ ，晾干，等待复苏培育结束之后加入适量LB 培养基进行涂板操作。最后放入 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烘箱，避光培养 $1 0 { - } 1 4 \\mathrm { h }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将表达质粒转化入BL21（DE3）感受态细胞中，选取单菌落加入到含 $1 \\%$ Amp 50 ml LB培养基的锥形瓶中培养 $8 { - } 1 0 \\mathrm { h r }$ ，待瓶子菌液足够浑浊之后，取 $1 0 \\mathrm { m l }$ 菌液加入到到含 $1 \\%$ Amp的1LLB培养基的大瓶中，将大瓶放入 $3 7 ^ { \\circ } \\mathrm { C }$ 摇床， $2 2 0 ~ \\mathrm { r / m i n }$ 扩大培养3-5h，待瓶中的大肠杆菌达到平衡期之后，将大瓶降温至 $1 6 ^ { \\circ } \\mathrm { C }$ 左右，每瓶加入 ${ 5 0 0 } \\mu \\mathrm { l }$ IPTG进行诱导，之后再将大瓶放回到摇床，在 $1 6 ^ { \\circ } \\mathrm { C }$ ， $2 2 0 ~ \\mathrm { r / m i n }$ 的条件下过夜培养。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "次日用1L的收集菌液专用离心桶取出菌液，在 $8 ^ { \\circ } \\mathrm { C }$ ， $4 0 0 0 \\mathrm { r / m i n }$ 的转速下离心。弃掉上去，加入HBS 缓冲液将大瓶底部的菌体重悬，超声破碎之后，将菌液在 $1 3 0 0 0 \\ \\mathrm { g }$ 的转速下离心 $1 \\mathrm { { h r } } 3 0 \\mathrm { { m i n } }$ ，分离上清和沉淀。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4目的蛋白纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1亲和层析柱纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在使用亲和层析柱纯化蛋白之前需要用GST柱上样缓冲液来平衡亲和柱，破碎细胞离心后得到的蛋白上清液，让上清液两次通过层析柱，使带有GST 标签的目的蛋白与GST 琼脂糖凝胶充分结合，最后用GST 清洗缓冲溶液清洗亲和柱上非特异结合的杂蛋白约20个柱体积。完成层析过程之后，加入适量PreScission Protease 酶和GST 酶切缓冲溶液，酶切 8-12hr，次日收集含有目的蛋白的缓冲溶液。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2离子层析柱纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "蛋白缓冲液在经过浓缩之后注入ResourseQ离子层析柱，通过不同的盐梯度对柱上的蛋白溶液进行洗脱，完成蛋白的初步纯化。【s]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3分子筛凝胶层析纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "superdex200分子筛购自GEhealthcare公司，蛋白缓冲液在经过浓缩之后注入superdex200 分子筛，通过不同分子质量的蛋白析出时间的差异，完成蛋白的二次纯化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.4蛋白偶联",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在通过各种不同的方法分离纯化得到所需要的目的蛋白之后，需要在特定的缓冲溶液（200mMNaCl，50mMTris-ClpH8.0，0.025mMCuCl2）中进行蛋白偶联实验，并且需要将两个目的蛋白进行稀释并且将摩尔浓度调至1:1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "完成蛋白的稀释过程之后，两种蛋白各取 $1 \\mathrm { m l }$ ，再加入 $8 0 \\mu \\mathrm { l }$ DTT，在冰上冰浴 $3 0 { - } 6 0 \\operatorname* { m i n }$ 保证蛋白处于一种还原状态。再将冰浴过的蛋白加入到已经消毒灭菌过的透析袋中，用夹子夹紧防止蛋白泄露，将整个透析袋放入到含有2L缓冲溶液的大烧杯中，将烧杯放在磁力搅拌器上搅拌 $4 8 \\ \\mathrm { h r }$ 。两天之后回收蛋白溶液。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1p65的分析纯化结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我们将破碎大肠杆菌获得的p65 蛋白依次通过亲和层析柱纯化、离子层析柱纯化和分子筛凝胶层析纯化过后获得了较纯的p65 蛋白，其相对分子质量约为 $3 5 \\mathrm { K D }$ ，具体如图2所示，将所获的蛋白置于 $4 ^ { \\circ } \\mathrm { C }$ 冰箱保存用于进行下一步实验。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/94dc8bd459299ed03a585c8d01012bd2e23406962c80f5640cd96d83d811dad3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2p65分子筛层析图（A）及SDS-PAGE分析结果（B)。分子筛层析图横轴表示层析体积 $\\mathrm { ( m l ) }$ ，纵轴表示 $2 8 0 \\mathrm { n m }$ 紫外吸收值(mAU)。分子筛图谱上有两个明显的峰，p65的分子量对应最后一个峰，峰尖位置在 $1 4 . 1 2 \\mathrm { m l }$ 处。取其对应的蛋白样品 ${ \\bf B } 1 0 { \\sim } { \\bf B } 7$ 进行SDS-PAGE检测，电泳后利用考马斯亮蓝染色，胶图从左至右分别是Marker 和 ${ \\bf B } 1 0 { \\sim } { \\bf B } 7$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Size-exclusion chromatography (SEC) (A） and SDS-PAGE (B) in the final step purification of p65.The horizental axis represents the volume (ml） and the vertical axis represents the absorbance at $2 8 0 ~ \\mathrm { n m }$ (mAU). There are two distinct peaks in the SEC,and p65 belongs to the last one with peak position at $1 4 . 1 2 ~ \\mathrm { m l }$ . The corresponding $\\mathrm { B } 1 0 { \\sim } \\mathrm { B } 7$ fractions and protein marker are tested by SDS-PAGE stained by coomassie brilliant blue。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2Grx3蛋白分析纯化结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "我们将破碎大肠杆菌获得的Grx3蛋白依次通过亲和层析柱纯化、离子层析柱纯化和分  \n子筛凝胶层析纯化过后获得了较纯的Grx3蛋白，其相对分子质量同样约为 $3 5 \\mathrm { K D }$ ，纯化所  \n获得的Grx3蛋白条带位置相对p65较为靠上其相对分子质量也较大，具体如图3所示，将所获的蛋白置于 $4 ^ { \\circ } \\mathrm { C }$ 冰箱保存用于进行下一步实验。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/71229fe82088a83c6698361c0da76434bf4c16cf4a52dc3c9c9b401a1a3d4765.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图3Grx3分子筛层析图（A）及SDS-PAGE分析结果（B）分子筛层析图横轴表示层析体积 $\\mathrm { ( m l ) }$ ，纵轴表示 $2 8 0 \\mathrm { n m }$ 紫外吸收值(mAU)。分子筛图谱上有三个明显的峰， $\\mathrm { G r x } 3$ 的分子量对应中间一个峰，峰尖位置在 $1 5 . 0 8 ~ \\mathrm { m l }$ 处。取其对应的蛋白样品 ${ \\bf B } 1 0 \\sim { \\bf B } 7$ 进行SDS-PAGE 检测，电泳后利用考马斯亮蓝染色，胶图从左至右分别是Marker 和 ${ \\bf B } 1 0 { \\sim } { \\bf B } 7$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Size-exclusion chromatography (SEC) (A） and SDS-PAGE (B) in the final step purification of p65.The horizental axis represents the volume (ml） and the vertical axis represents the absorbance at $2 8 0 ~ \\mathrm { n m }$ (mAU). There are three distinct peaks in the SEC,and $\\mathrm { G r x } 3$ belongs to the middle one with peak position at $1 5 . 0 8 ~ \\mathrm { m l }$ .The corresponding $\\mathbf { B } 1 0 { \\sim } \\mathbf { B } 7$ fractions and protein marker are tested by SDS-PAGE stained by coomassie brilliant blue. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图3中在蛋白主条带的下方， $2 5 \\exp$ 靠上处存在一条明显的条带，实际上蛋白纯化过程中的脱落的GST标签，其在分子筛层析图上对应最后一个较为明显的峰，由于其和Grx3析出处的主峰相对分子质量接近，导致仅能观察到后面半个峰。也因此在进行SDS-PAGE分析时，也会观察到这些条带。而14-18KD附近的条带则为蛋白降解产生的杂带，实际上蛋白随着时间的推移降解会变得越发明显，因此纯化获得的Grx3蛋白需要尽快投入下一步实验中。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3蛋白偶联结果分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "回收经过48小时偶联实验的透析袋，将其中的样品取出，制备SDS-PAGE样品，进行跑胶，回收结果如图4所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9912300e103a569e9d38775baafd8964ebe2d5579afc39755e720b7f9d31517.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图4.偶联实验SDS-PAGE分析结果LaneA，LaneB和LaneC 均为回收的同一透析袋内偶联实验蛋白样品,LaneA和LaneB的样品所使用氧化型上样缓冲溶液中不含5mmolDDT,LaneC所使用SDS-PAGE还原型上样缓冲溶液中含有5mmoIDDT。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 SDS-PAGE result of crosslinking experienment. LaneA，LaneB and LaneC are protein samples from crosslinking experienment，we use non-reduced loading buffer without 5mmol DDT in LaneA and LaneB， in Lane C we use reduced loading buffer with 5mmol DDT. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从上述SDS-PAGE分析结果可以看到，经过48小时偶联反应之后，LaneA和LaneB在66KD以上位置，有一条明显的蛋白条带，其相对分子质量符合p65与Grx3蛋白1：1结合的相对分子质量大小，并且在下方同样可以看到明显的p65与Grx3蛋白对应的条带。值得一提的是在图4中p65条带之所以显示在35KD蛋白标记下方是因为，p65的蛋白浓度相对较高，导致较长的拖尾现象，其实际大小如图3(B)所示是超过35KD的。根据实验结果我们发现在LaneC条带上明显观察到偶联条带不复存在，说明两个蛋白在还原性环境下解除了偶联。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "相对于研究比较完善的硫氧还蛋白系统，当前对于谷氧还蛋白系统的研究相对略显单薄，而Grx3作为谷氧还蛋白系统的重要一员，对其的研究在同类研究中也略为滞后。本文所研究的Grx3蛋白最先是由 Stephan Witte 和Martin Villalba等人在在利用酵母双杂交技术筛选与PKC-theta (Protein kinase C-theta)的有可能相关作用的一个蛋白时被发现的，4并且后续的研究证实Grx3蛋白可以通过NF-kB 信号通路，抑制多巴胺介导的细胞凋亡过程，同时Grx3作作为一种疏基氧化还原酶对于机体的炎症反应和维持自身的还原性均有着重要的作用。但是之前的相关研究，没有具体指出Grx3介入NF-κB信号通路的机理。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文在进行实验研究时首先建立了合理的实验猜想，p65在之前的广泛的实验研究中已经被证实对于 NF- $\\boldsymbol { \\kappa } \\mathbf { B }$ 信号通路下游反应具有重要的调控作用，本文在研究过程中大胆假设了Grx3 通过与p65的相互作用介入了NF-kB信号通路并进行了后续的研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先我们通过一系列的纯化步骤，获取了相对较纯的p65 和Grx3 蛋白，相对较纯的两种蛋白的提取是进行一下步偶联实验的基础。之后我们通过偶联实验在图4中观察到了 p65蛋白和Grx3蛋白在氧化性条件下，在 $7 0 \\mathrm { K D }$ 附近位置多出了一条偶联条带，此条带的相对分子质量大小恰好符合p65与Grx3蛋白1：1结合的相对分子质量的大小。而使用还原型上样缓冲溶液的样品的 SDS-PAGE 分析结果指出在还原性条件下两个蛋白不能形成偶联，因此我们可以结合Grx3作为一种巯基氧化还原酶的特性，猜想其极大可能在氧化性条件下通过二硫键与p65 相结合，因此其在还原性条件下二硫键被打开而使得两者不再结合。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前通过研究得到了Grx3与p65在体外能够相互结合这样一个结论，并且两者有极大可能是通过二硫键进行结合。在Grx3全长蛋白上仅有5个半胱氨酸残基，未来可以通过单点突变和多点突变的方式进一步确定这两者是否二硫键的方式结合到一起，甚至能够以此确认两个蛋白的结合位点。此次体外偶联实验发现了Grx3与p65在体外能够相互结合的事实，基于这样的事实可以为Grx3 对于NF-κB 信号通路的影响提出一个可能的解释，即Grx3 蛋白可能通过调控p65来达到影响 NF- $\\cdot \\kappa \\mathrm { B }$ 信号通路的效果。综上所述，本次实验研究成果对Grx3 的功能与结构的进一步研究找到了一个新的方向，也为Grx3蛋白在人体信号通路中所处的位置提供了一定的依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] Haunhorst P,Berndt C,Eitner S,et al. Characterization of the human monothiol glutaredoxin 3 (PICOT） as iron-sulfur protein. Biochemical & Biophysical Research Communications,2010, 394(2):372-376. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2] Martin JL. Thioredoxin--a fold for all reasons. Structure,1995,3(3):245-250. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3] Fernandes A P,Holmgren A. Glutaredoxins: glutathione-dependent redox enzymes with functions far beyond a simple thioredoxin backup system. Antioxidants & Redox Signaling, 2004, 6(6):63-74. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4] Wite S,Villalba M, Bi K,et al. Inhibition of the c-Jun N-terminal kinase/AP-1 and NF-kappaB pathways by PICOT,a novel protein kinase C-interacting protein with a thioredoxin homology domain. Journal of Biological Chemistry, 2000,275(3):1902-1909. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5] Häberlein I，Wurfel M, Follmann H. Non-redox protein interactions in the thioredoxin activation of chloroplast enzymes. Biochimica Et Biophysica Acta,1992,1121(3):293-296. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6] Bandyopadhyay S, Gama F, Molina-Navarro M M, et al. Chloroplast monothiol glutaredoxins as scaffold proteins for the assembly and delivery of [2Fe-2S] clusters.Embo Journal,2008, 27(7):1122-1133. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7] Li H, Mapolelo D T, Dingra N N, et al. The Yeast Iron Regulatory Proteins Grx3/4 and Fra2 Form Heterodimeric Complexes Containing a [2Fe-2S] Cluster with Cysteinyl and Histidyl Ligation. Biochemistry,2009, 48(40):9569-9581. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8] 郭云萍,孙璐,张立剑等.无标签重组人硫氧还蛋白的大规模表达、纯化及活性检测.中国生物工 程 杂 志,2012,32(8):62-67. Expresson， Purification and Characterization of Non-tagedRecombinant Human Thioredoxin. China Biotechnology, 2012,32(8):62-67.",
+        "page_idx": 8
+    }
+]

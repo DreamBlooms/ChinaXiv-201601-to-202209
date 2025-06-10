@@ -1,0 +1,295 @@
+[
+    {
+        "type": "text",
+        "text": "Enhanced Rate Capability of Polymer-Derived SiCN Anode Material for Electrochemical Storage of Lithium with 3-D Carbon Nanotube Network Dispersed in Nanoscale ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junwei Zhang1,3, Caihong $\\mathsf { X } \\mathsf { u } ^ { 2 }$ , Zhaoping Liu1,Wei Wang1, Xing Xin1.3, Lu Shen1,3, Xiaobing Zhou1,Jie Zhou1,and Qing Huang1,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1NingboInstituteof MaterialTechnologyand Engineering,ChineseAcademyof Sciences,Ningbo 315201,China 2 Beijing National Laboratory for Molecular Science (BNLMS),Institute of Chemistry, ChineseAcademyofSciences，Beijing10o19o,China 3Graduate School of Chinese Academy of Sciences,Beijing 10oo39, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical performances of multi-walld carbon nanotubes (CNT)-SiCN composite have been investigated.The sample was synthesized by a simple ultrasonication assisted method combined with high-temperature pyrolysis and characterized by Fourier transform infrared spectra，Raman spectra, X-ray diffraction,field emission scanning electron microscopy and transmission electronic microscopy.In thiscomposite,CNTwereuniformly distributedin the SiCN ceramic matrix,it retained the structural integrity during the polymer-ceramic conversion and had a relatively strong bonding with the SiCN ceramic matrix.When tested asanode in the half cell，the obtained composite exhibited enhanced rate capability and cyclic capacity than that of pristine SiCN powder,CNT and graphite,it could supply a capacity of $2 2 2 . 7 \\ \\mathsf { m A } \\ \\mathsf { h } / \\mathsf { g }$ when charged at $2 0 0 0 ~ \\mathsf { m A } / \\mathsf { g }$ ，while the SiCN anode showed nearly no capacity even at the low current density of $2 0 0 \\mathsf { m A } / 9$ .It is expected that the CNT-SiCN composite,perhaps the series of CNT-PDC composites,may be prospective candidate for high power applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:Polymer-Derived Ceramic， Carbon Nanotube，Silicon Carbonitride， Electrical Conductivity, Lithium lon Batteries. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Silicon-basedamorphouspolymer-derivedceramics (PDC)，such as silicon carbonitride (SiCN) and silicon oxycarbides (SiCO),have recently attracted an increasing attention in view of a possible application as anode materials in Li-ion batteries (LIB).1-3 PDC exhibit numerous advantageous properties for application as anode materials in LIB.They are covalently bonded ceramics,which make it chemically inert with respect to battery components and light weight.Furthermore,their chemical and physical properties can be designed by varying the starting polymer compositions.The finely dispersed $\\displaystyle \\mathrm { s p } ^ { 2 }$ -hybridized disordered carbon within the amorphous covalently bonded network of PDC exhibits a 3-dimensional percolating cage-like structure or isolated carbon clusters in carbon rich and carbon poor PDC based ceramics,4,5 this disordered carbon can not only offer plenty of effective Li storage active sites,but also offer electrical conducting paths throughout the material.6 While for the interconnected nanopores ( ${ \\sim } 0 . 5 \\ \\mathrm { n m }$ in diameter,a size much bigger than that ofLi ions $( 0 . 0 7 6 \\mathrm { n m } ) ^ { 6 , 7 }$ and the so called mixed bond configurations of the amorphous ceramic network (tetrahedrally coordinated silicon, i.e., $\\mathrm { S i C } _ { x } \\mathrm { O } _ { y } \\mathrm { N } _ { z }$ $x + y + z = 4 ,$ ）contained in the loose network of PDC, whose major role is to offer smooth paths for the rapid transfer of Li ions6,7 and minor role is the intercalating agent for Li ions.However,in spite of these advantages, most commercially used PDC with high Li ions intercalation capacity also the one whose electrical conductivity is between semiconductor (e.g., SiC) and insulator (e.g., silicon nitride),which means huge internal resistance will form between PDC particles and the current collector, and large volume change will also occur during high current density，quick charging and discharging (high rate）cycling.In this case,the electrochemical oxidation and reduction reactions during high-rate cycling will be restricted mainly on the outside surfaces of the PDC particles,and finally a much lower capacity and worse cyclic performances accompanied by the structure pulverization of anodes will be exhibited.Thus,the poor electrical conductivity should be main bottleneck restricting its applications in high power and energy density fields. Therefore,after the structure of PDC being determined, it isreasonable to infer that the internal resistance would be diminished for a large extent and a higher utilization of active regions in PDC will be achieved if the electrical conductivity of PDC is improved significantly,and also, PDC may exhibit a much higher capability and better cyclic performances forhigh-rate applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Until now, studies on PDC anode materials were mainly focused on the improvement of its capacity and cyclic capability when the current density is relatively low (less than $5 0 \\mathrm { \\ m A / g }$ )，onlya few had involved in its highrate performance,less attention had been paid directly on the investigation of the relationship between electrical conductivity of PDC and the high-rate performance.8 Although good results were achieved,their aims were actually focused on finding methods to increase amounts of active sites or improving the intimate contact between PDC particles and the current collector.9,10 These studies could be divided into the following categories: (a) using carbon rich pre-ceramic Si-polymers;11-13 (b） addition of carbon or carbon precursor to Si-polymers, such as SiCN-graphite,14 graphene nanosheets-SiOC,15 CNT based core-shell composites, nanowire or paper,16-18 hard carbon (potato starch);19 (c） modification through heat treatments;7,20 (d) elemental-doping of boron;16, 18 (e)improving the intimate contact between PDC anode particles and the current collector.9,10 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although,positive effects were achieved by using these methods,using carbon rich pre-ceramic Si-polymers and addition of carbon or carbon precursor to Si-polymers could not only improve the electrical conductivity but also increase total actives sites of PDC based anodes for a large extent,such as CNT based core-shell composites,which made actual mechanisms between electrical conductivity of PDC and its high-rate performance more complicated. Moreover,to build a 3-dimensional connected conductive network,volume fractions of graphite,graphene or potato starch added with 2 or 3-dimensional form might be so high that the superior and stable structure of PDC would be destroyed which would adversely result in a rather low electrochemical performances than that of the pristine PDC anodes.13 While modification through heat treatments and elemental doping of boron showed limited effects for its relatively low electrical conductivity $( 8 . 7 \\times$ $1 0 ^ { - 4 } \\mathrm { ~ S / c m } )$ .18,20,22 Therefore,it is necessary to build a simple architecture to investigate the effect of electrical conductivity on the high-rate performance of PDC anodes. To investigate the effect of electrical conductivity on the high-rate performance of PDC anodes,we proposed the strategy of building 3-dimensional conductive network throughout the matrix of PDC particles using a secondary phase.As for the proposed strategy,the secondary phase should meet the following requirements: (i)excellent electrical conductivity,and low electrochemical activity with Li ions; (ii) chemical inertness with PDC during pyrolysis; (iii） the volume fraction added should be as low as possible.So,CNT is a appropriate candidate. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In most studies,the major role of CNT is conductive agent,because of its relatively low capacity and cycle abilities.23-25 Comparing with graphene, graphite or hard carbon with 2 or 3-dimensional morphology,CNT with 1-dimensional form is more conducive for building a 3-dimensional conductive network.And also,CNT distributed in PDC matrix will not affect the isotropic inser tion of Li ions into active sites in PDC matrix.Moreover, considering factors that multi-walled carbon nanotubes have demonstrated better performances in Li-ion batteries as compared with single or double wall $\\mathrm { C N T s ^ { 2 6 - 2 8 } }$ and carbon thermal reduction could take place between CNT and SiCO ceramic,29 we finally decided to use multiwalledi carbon nanotubes as conductive agent and the relatively low disordered carbon containing SiCN ceramic as the PDC matrix,the mass fraction of CNT in SiCN was $1 0 \\ \\mathrm { w t . } \\%$ .In the CNT-SiCN composite synthesized in this study,CNT exhibited a homogeneously distribution throughout the SiCN matrix. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.EXPERIMENTALDETAILS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Preparation of Composite ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Liquidphasedpolysilazane $( - [ \\mathrm { N H C H _ { 3 } S i ( C H ~ = ~ }$ $\\mathrm { C H } _ { 2 } ) \\mathrm { N H } ] _ { x } { - } [ \\mathrm { C H } _ { 3 } \\mathrm { S i } ( \\mathrm { H } ) \\mathrm { N H } ] _ { n { - } x } { - } ) , ^ { 3 ( }$ which can be thermally pyrolyzed to the respective amorphous SiCN,wasused as starting chemicals in this study. In a typical processing, the“as-obtained” $\\boldsymbol { 0 . 1 \\mathrm { ~ g ~ } }$ multi-walled carbon nanotubes (CNT)(Shenzhen Nanotech Port,China) was dispersed in $1 . 0 \\times 1 0 ^ { 4 }$ mL N,N-Dimethylformamide (DMF, aladdin, GC）which was further reflux dewatered with sodium wires for $2 4 \\mathrm { ~ h ~ }$ to get rid of the residual water and other hydroxyl group-containing compound), followed by sonication and magnetic stirring for $4 5 \\ \\mathrm { m i n }$ to remove any unwanted agglomerations.The CNT-DMF dispersion was then mixed with $1 . 1 2 5 \\mathrm { ~ g ~ }$ polysilazane,after the mix was stirred for $0 . 5 \\ \\mathrm { ~ h ~ }$ ，it was decompression distillation at approximately $5 5 ~ ^ { \\circ } \\mathrm { C }$ for $^ 3 \\mathrm { ~ h ~ }$ to get rid of DMF. The obtained mix was then still hold in the decompression distillation units where it was heated to $2 0 0 ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { ~ h ~ }$ for the cross-linking of the precursor, followed by a pyrolysis at $1 0 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { ~ h ~ } }$ under argon atmosphere at $5 ~ { ^ \\circ } \\mathrm { C } / \\mathrm { m i n }$ heating and cooling rates to yield CNT-SiCN composite (Fig.1).For comparison，the SiCN powder was also synthesized as blank sample following the same experimental procedures as the CNT-SiCN composite,the only difference is the $1 . 1 2 5 \\mathrm { ~ g ~ }$ polysilazane was mixed with the DMF with no CNT dispersed in.As ceramic yield of polysilazane used as blank sample is approximately $8 0 \\ \\mathrm { w t } . \\%$ ，the percentage of CNT in the final CNT-SiCN composite was assessed to be $1 0 \\ \\mathrm { w t . } \\%$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/80871449acb01b1848870d434ac64fa671428b6ced84520ec4cf3dade3a30ad5.jpg",
+        "img_caption": [
+            "Figure 1.Synthesis procedure of CNT-SiCN composite. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Scanning electron microscopy (SEM） imagingof crosslinked CNT-polysilazane and CNT-SiCN composite wasperformed by use of a SEM(Hitachi, S-48OO).Transmission electron microscopy(TEM) was carried out using $1 0 0 \\mathrm { k V }$ TEM (JEOL, 210O HR).Fourier transform infrared (FT-IR) spectra were collectedllusing8al diquid8nitrogen cooled Thermo-Nicolet 6700 FT-IR spectrometer in the diffuse reflectance mode.The crushed powder specimens were mixed with KBr powder, prior to collecting spectra. X-ray diffraction (XRD) was performed by use of a Bruker D8 Advance powder X-ray diffractometer operating at room temperature,with $\\mathrm { C u } ~ \\mathrm { K } \\alpha$ radiation and nickel filter. Raman spectra were also carried out to evaluate the disordered carbon in the pyrolyzed specimens using a Renishaw inVia-reflex system equipped with an air cooled CCD and an argon ion Laser with a wave-length of $5 3 2 ~ \\mathrm { n m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2. Preparation of the Electrodes and Cells ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The obtained CNT-SiCN composite and SiCN powders were ground in a mortar and sieved down to $4 8 \\ \\mu \\mathrm { m }$ The CNT-SiCN composite powders were mixed with acetylene black powder as a conductor and fluortetraethylene as a binder at a weight ratio of 85:1O:5.Ethanol was dipped into the mixture,which was then mechanically stirred to form a slurry.The slurry was spurred on the rough side of a copper foil and rolled into a thin film during the evaporation of ethanol.The thin film was cast into a disk(diameter: $9 \\mathrm { m m }$ )to form an anode fitting the size of a coin-type battery (size:CR2o32).The electrode disk was assembled into a battery in a glove box using Celgard 23OO (Celgard,Charlotte,NC) as a separator,Li foil as counter and reference electrodes,and $1 \\ \\mathrm { m o l / d m \\ L i P F _ { 6 } }$ in ethylene carbonate,propylene carbonate and dimethyl carbonate(1:1:1 byvolume,Aladdin,Shanghai,China）as an electrolyte. Thevalue of the weight fraction of CNT-SiCN composite in the electrode was input into the measuring system (LAND battery testing system soft-ware 5.3B vision). Galvanostatic charge-discharge cycle tests were performed on a battery testing system (LAND 2OO1A，Wuhan Jinnuo, China) at a relatively current density of $1 0 0 \\mathrm { m A } \\ \\mathrm { g } ^ { - 1 }$ in the potential range of $_ { 0 - 3 . 5 \\mathrm { ~ V ~ } }$ versus $\\mathrm { L i ^ { + } / L i }$ .The discharge and charge capacities of the CNT-SiCN composite anode in absolute value (mA h) and weight normalized value $( \\mathrm { m A ~ h g ^ { - 1 } } )$ ）were automatically generated from the measuring system.To understand the electrochemical performances of the CNT-SiCN composite anode, SiCN powders Was used as a reference anode with the electrochemical performances measured under the same conditions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTSAND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SEM and TEM images of CNT-SiCN composite were shown in Figure 2.In Figures 2(a), (b),CNT were distributed homogeneously in the SiCN matrix and showed a 3-dimensional network-like distribution in SiCN particles (Fig. 2(e)).As shown in Figure 2(c), CNT retained its original morphology during the polymer-ceramic conversion. Residual holes or pits (point A) left by the pulled out CNT in Figure 2(d) indicate relatively strong bonding between CNT and the ceramic matrix,while pits (point B) left when CNT were axial pulled out reveal that thisbonding is not so strong. In Figure 2(f)， surfaces of CNT retained its integrity，the corresponding SAED pattern of SiCN matrix shows the amorphous nature of SiCN was not changed because of the introduction of CNT. So,we could get the initial deduction that both of CNT added and SiCN matrix suffered no obviously chemical damage during the polymer-ceramic conversion. All these evidences reveal that the CNTSiCN composite with homogeneously distributed CNT have been synthesized successfully by a simple ultrasonication assisted method combined with high-temperature pyrolysis.More interestingly,light contrast linear regions (arrows in Fig. 2(f)) between CNT and the SiCN matrix can be clearly seen,these regions might be the interconnected nanovoids which might be attributed to the difference of coefficient of thermal expansion between these two components or the decomposition or elimination of organic moieties (such as methyl, vinyl groups) and Si-H, or Si—NH groups during the polymer-ceramic conversion.So,it is expected that these light contrast linear regions could further promote the quick transfer of Li ions during electrochemical discharging and charging process effectively.More recently,Ionescu et al.have incorporated multi-walled carbon nanotubes within an insulating SiCN matrix by a mechanical milling method.8 Thus,a polysilazane was pre-crosslinked, mixed with multi-walled CNTs and subsequently warm-pressed and pyrolyzed in an argon atmosphere at $1 1 0 0 ~ ^ { \\circ } \\mathrm { C }$ 、Upon adding 1 vol $\\%$ of CNTs into SiCN,an increase in ac conductivity of 7 orders of magnitude was recorded: the ac conductivity of SiCN was $1 0 ^ { - 9 } \\ \\mathrm { S / c m }$ ；whereas the SiCN/multi-walledCNT nanocomposite containing $5 \\ \\mathrm { \\ v o l . } \\%$ CNTs exhibited a conductivity value of $7 . 6 \\times 1 0 ^ { - 2 } \\ \\mathrm { S / c m } .$ 8 An et al. also showed that mechanical properties of the SiCN-CNT composites were significantly increased by adding only $6 . 4 \\ \\mathrm { v o l } . \\%$ CNT.31 As the density of CNT（ $\\mathrm { 1 . 8 0 ~ g / c m ) }$ we used is lower than that of the amorphous SiCN $( 2 . 3 5 ~ \\mathrm { g / c m } )$ ，it is reasonable to get the conclusion that the percentage of CNT added in this study could build a 3-dimensional conductive network throughout the SiCN matrix. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/df9ba534ece94ed6bfd8b1421d6a566502a227237d137ec019fb3aeb06ae1189.jpg",
+        "img_caption": [
+            "Figure2.TeSdEmagsofCNiNcposite(a),()Eofos-liedcoposite;(c),(dSEoftheyrolydosite; (e),(f)TEM of pyrolyzed composite,inset in f is the corresponding SAED pattern). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Further, XRD patterns (Fig.3(a)) confirmed that the amorphous nature of CNT-SiCN composite and SiCN pyrolyzed at $1 0 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 \\textrm { h }$ ，onlya small diffraction peak at $2 \\theta = 2 6 ^ { \\circ }$ belonged to (Oo2） plane of disordered carbon was detected,this peak was thought to be derived from the ordered stacking of ring-like structures along $c$ -axis of graphene layers in disordered carbon and disorder stacking along the a or $b$ -axis (i.e.,(100) plane）of graphene layers in disordered carbon,all these imply that the characteristic structure of disordered carbon localized in the matrix of amorphous SiCN.FT-IR spectra of the crosslinked polysilazane and crosslinked CNT-polysilazane composite are similar with that of the uncrosslinked liquid polysilazane (Fig.3(b） and detail informations at Table I).32,33 Absorption peaks of $\\scriptstyle { \\mathrm { C } } = { \\mathrm { C } }$ at $1 5 9 3 . 2 \\mathrm { c m } ^ { - 1 }$ and $\\mathrm { C - H }$ at $3 0 4 8 . 7 \\mathrm { c m } ^ { - 1 }$ disappeared during crosslinking.Only a new absorption peak of Si—O—Si at $1 0 4 2 . 1 ~ \\mathrm { { c m } ^ { - 1 } }$ with very weak intensity was detected, which was due to the hydrolysis and oxidation of $\\mathrm { S i \\mathrm { - } N }$ bond during experiment,all of these imply that the pristine nature of polysilazane had almost no change during the experiment.Furthermore,because the percentage of CNT in the crosslinked composite is so low and even slightly lower than that in the final pyrolyzed composite （204号 $( 1 0 \\mathrm { \\ w t . \\% } )$ ，that no obviously absorption peak belongs to CNT can be captured by FT-IR, the chemical interaction of polysilazane with CNT sidewall could not be confirmed with these techniques.However,on the basis of the present analysis,physical adhesion of polysilazane on CNT surface canbe safely predicted. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/defe487452199c302d9b8ef95bdc64c63d06a13fc31bf82d93e65a92d1db2670.jpg",
+        "img_caption": [
+            "Figure 3. (a) XRD patterns of the CNT-SiCN composite and SiCN pyrolyzed at $1 0 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { ~ h ~ } }$ ，(b)FT-IR spectra of the uncrosslinked liquid polysilazane (1);the crosslinked polysilazane (2);the crosslinked CNT-polysilazane composite (3),(c) Raman spectra of the CNT-SiCN composite and SiCN pyrolyzed at $1 0 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { ~ h ~ } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/351b592ca99417e6aa68d4b6060cd6af371eab3e42d7318d19e4e946cd6dd74b.jpg",
+        "table_caption": [
+            "Table I. Characteristic infrared bands of the the uncrosslinked liquid polysilazane,the crosslinked polysilazane and the crosslinked CNTpolysilazane composite. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Wavenumber (cm-1) Assignment</td></tr><tr><td>3386.6 v N-H</td></tr><tr><td>3048.7 ν C—H(vinyl)</td></tr><tr><td>2957.7 ν C-H (alkyl)</td></tr><tr><td>2899.4 ν C-H (alkyl)</td></tr><tr><td>2128.2 v Si-H</td></tr><tr><td>1633.8 δN一H</td></tr><tr><td>1593.2 vC=C</td></tr><tr><td>1403.4 δ C-H (alkyl)</td></tr><tr><td>1255.0 v Si—CH</td></tr><tr><td>1172.3 v Si—NH—Si</td></tr><tr><td>1042.1 v Si—O—Si</td></tr><tr><td>954.6 v Si—N—Si</td></tr><tr><td>899.9 v Si—N—Si</td></tr><tr><td>790.0 v Si—N—Si</td></tr><tr><td>758.8 ν Si-C</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Raman spectroscopy is a technique normally employed for the characterization of carbon-containing materials. In this study，it was used to evaluate particularly the disordered carbon phase localized in the SiCN matrix. Figure 3(c) display the Raman spectra of CNT-SiCN composite and SiCN pyrolyzed at $1 0 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 \\ \\mathrm { ~ h ~ }$ respectively.The spectra for both specimens showed two typical features of disordered carbon: the $D$ (disordered) band at ${ \\sim } 1 3 4 0 ~ \\mathrm { c m } ^ { - 1 }$ and the $G$ (graphite) band at around $1 6 0 0 ~ \\mathrm { { c m } ^ { - 1 } }$ .34,35 The spectra for each specimen showed similar spectral features in relation to peak position. In Figure 3(c),weak peak (peak position slightly higher than $1 6 0 0 ~ \\mathrm { { c m } ^ { - 1 } } .$ ）belongsto $\\displaystyle \\mathbf { s p } ^ { 3 }$ carbon could only be detected in SiCN specimen,which means the nonconductive $\\displaystyle \\mathbf { s p } ^ { 3 }$ carbon phase disappeared because of the introduction of CNT in SiCN matrix.The widened peak for $G$ band reveals that several graphene layers in the disordered carbon were stacked disorderly,while the widened peak and its relatively strong signal for the $D$ band further suggest that the disordered carbon is highly defective. The Raman spectra were later used to estimate the lateral cluster size $( L _ { a } )$ of the disordered carbon according to the following equation reported by Ferrari and Robertson:35 $I ( D ) / I ( G ) = C ^ { \\prime } ( \\lambda ) L _ { a } ^ { 2 }$ ，where $I ( D )$ and $I ( G )$ are the integrated intensities of the $D$ and $G$ bands,respectively; $\\lambda$ is the laser line wavelength and $C ^ { \\prime } ( \\lambda )$ is a coefficient determined by $\\lambda$ .In order to get the integrated intensities of these two bands,Lorentzian curve fitting method35,36 was performed.The calculated $I ( D ) / I ( G )$ for the CNTSiCN composite and SiCN specimens were 1.51 and 1.27, respectively.As there wasno accuratevalues for thelaser line wavelength at $5 3 2 ~ \\mathrm { n m }$ can be found, the exact value for $L _ { a }$ is hard to get,but the ratio of $L _ { a }$ for the CNT-SiCN composite and SiCN was calculated as 1.O9,which implies thatthe sizeofdisordered carbonclusterslocalizedin the SiCN matrix become a slightly larger when CNT were introduced in.This phenomenon is very interesting,which is just in agreement with the results of Segatelli et al.,29 they reported that the introduction of carbon nanotubes is beneficial for the nucleation and growth of graphene layer in disordered carbon.So,we can assume that the reversible capacity of the CNT-SiCN composite anode will be slightly higher than that of the SiCN anode,because the lateral cluster size of the disordered carbon is actually in proportion to the number of reversible active sites for Li ions intercalation.37 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e8f9225627b7a64cdb49c857ebb14cca59ec776083ef21d3ec25fafb57d60ee.jpg",
+        "img_caption": [
+            "Figure 4.(a) The first,second and 3Oth cycle discharge and charge plots and corresponding differentiated capacity with respect to the voltage for SiCN anode and CNT-SiCN composite,(b) Long term cyclic performance of cell made from CNT-SiCN composite anode. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e897cda7dc56049eb10a0216a223d5982a762ae3fc02d590893b25c08b68ecaa.jpg",
+        "table_caption": [
+            "Table II.The First and the 3Oth Cycle Charge $( C _ { \\mathrm { d i s c h a r g e } } )$ and Discharge $( C _ { \\mathrm { c h a r g e } } )$ Capacities and the Coulombic Efficiency $( \\eta )$ of the $1 0 0 0 \\ { } ^ { \\circ } \\mathrm { C } .$ Pyrolyzed CNT-SiCN Composite Anode Compared with those of the SiCN anode. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>CNT-SiCN composite</td><td>SiCN</td></tr><tr><td>First cycle</td><td></td><td></td></tr><tr><td>Cdischarge (mA h/g)</td><td>597.5</td><td>113.3</td></tr><tr><td>Ccharge (mA h/g)</td><td>313.2</td><td>45.5</td></tr><tr><td>Coulombic efficiency (n,%)</td><td>52.4</td><td>40.2</td></tr><tr><td>30th cycle</td><td></td><td></td></tr><tr><td>Cdischarge (mA h/g)</td><td>328.8</td><td>68.8</td></tr><tr><td>Ccharge (mA h/g)</td><td>325.7</td><td>67.3</td></tr><tr><td>Coulombic efficiency (n,%)</td><td>99.1</td><td>97.8</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 4(a) showed the first,second and 3Oth cycle discharge-charge curves of the anode made from the $1 0 0 0 ~ ^ { \\circ } \\mathrm { C }$ pyrolyzed CNT-SiCN composite and the contrastive SiCN,respectively. These data were obtained at a relatively high current density of $1 0 0 \\ \\mathrm { \\ m A / g }$ between the voltage limits of O.001 and $2 \\ \\mathrm { V } .$ The discharge represents a direction where lithium species are inserted into the composite anode,and the charge represents the opposite direction.For easier comparison,the values of the discharging $( C _ { \\mathrm { d i s c h a r g e } } )$ and charging $( C _ { \\mathrm { c h a r g e } } )$ capacityand coulombic efficiency of the first, 3Oth cycle were summarized in Table II. It can be seen that the CNTSiCN composite anode offered a first discharge capacity of 597.5 mA $\\mathrm { { h / g } , }$ ofwhich $3 1 3 . 2 ~ \\mathrm { m A ~ h / g }$ was reversible, giving a first coulombic efficiency of $5 2 . 4 \\%$ . After cycled 30 times,as is seen in Figure 4(b), it still retained a stable capacity of $3 2 5 . 7 \\mathrm { \\ m A \\ h / g }$ ，with a coulombic efficiency of $9 9 . 1 \\%$ .Apparently, CNT-SiCN composite anode exhibited a much better specific capacity than both of SiCN anode (reversible capacity of ${ \\sim } 6 7 . 3 \\ \\mathrm { m A } \\ \\mathrm { h / g }$ ), commercially used graphite anode (reversible capacity of ${ \\sim } 7 0 ~ \\mathrm { m A ~ h / g }$ when operating at $1 0 0 \\mathrm { m A / g }$ ),38 and CNT.23-25For the first cycle of the SiCN anode,a slope discharge potential platform at about $1 0 { \\sim } 5 0 ~ \\mathrm { m V }$ in Figure 4(a), suggests that Li-ions intercalation in the pores of SiCN network，mesopores and defects belonging to the carbon nanotube. These discharge platforms disappeared in the second cycle,which means that parts of Li ions or less ionic Li atom clusters were trapped in the pores and contribute to the irreversible capacity. While for the electrochemical reactions occurred at the potential window between $0 . 8 \\mathrm { \\ : V }$ and $1 . 2 \\mathrm { V }$ in Figure 4(a),it should be attributed to decompositions of electrolyte and formation of passivation layer (Solid Electrolyte Interface(SEI)) on the surface of SiCN particles.This process is responsible for the major part of irreversible capacity loss,but more importantly this layer also serves as a protection against further reaction with electrolyte.Compared with the discharging-charging curves of SiCN anode,a platform start at about $0 . 2 { \\mathrm { ~ V ~ } }$ suggests that Li-ions intercalation between graphene nanosheets of isolated disordered carbon.39 And fortunately, the CNTSiCN composite anode exhibited a stage proportional to charge voltage (CC） at the electrochemical window between $5 0 ~ \\mathrm { m V }$ and $1 . 0 ~ \\mathrm { V } _ { : }$ ， in which the specific capacity changes proportionally to discharge voltage,while the SiCN anode presented a stage of constant voltage (CV), which means the SiCN anode could get most of capacity only at the narrow potential region between $5 0 ~ \\mathrm { m V }$ and $0 . 5 { \\mathrm { ~ V } } .$ As a common sense for most electrodes,the cell can be charged fast by constant current (CC) in the former stage,while in the CV stage it is charged slowly with keeping the potential at $0 \\mathrm { \\ V } .$ So, the CNT-SiCN composite anode is expected to present a better high-rate performance than the SiCN anode because of its wider margin of electrical potential. These results indicate that it will be hard for the SiCN anode to perform well in the next high rate testing. In general, tetrahedrally coordinated silicon containing oxygen (such as, $\\mathrm { S i C } _ { 3 } \\mathrm { O }$ ， $\\mathrm { S i C } _ { 2 } \\mathrm { O } _ { 2 }$ and $\\mathrm { S i C O } _ { 3 }$ to $\\mathrm { S i O } _ { 4 } .$ ）can sequester Li ions reversibly,38,40 however, there was no such unit in the CNT-SiCN composite and SiCN anode,the electrochemical capability of CNT-SiCN composite should be contributed to the presence of disordered carbon and its amount. Taking the upper value of $4 0 0 \\mathrm { \\ m A \\ h / g }$ as the reversible discharge capacity of the CNT in the composite anode,23 the contribution of CNT to capacity of the CNT-SiCN composite is calculated to be $4 0 \\ \\mathrm { m A \\ h / g }$ .The capacity only one third of the reversible capacity $( \\sim 3 2 5 . 7 \\mathrm { \\ m A } \\mathrm { \\ h / g } )$ obtained for the composite. Thus,there might be plenty_ of new_active_sites_of_disordered carbon were exploited with the formation of CNT conductive network throughout the SiCN matrix.Apart from the higher reversible capacity of CNT-SiCN composite anode,the higher coulombic efficiency in Figure 4(b) reveals that the introduction of CNT can also result in a better capacity retention during long term cycles. So, it can be reasonably to get the deduction that the newly exploited active sites for Li ions intercalation reversiblely were mainly derived from the isolated disordered carbon clusters originally localized in the interior regions of SiCN matrix,and the SiCN anode could deliver its full capacity only when it has a good electrical conductivity. In this case,when the CNT-SiCN composite was used as anode, CNT network can supply numerous paths for the transfer of electric charges from the surface regions of the SiCN particle to most of the isolated disordered carbon clusters distributed in the interior regions of SiCN matrix. Also,the slightly increase of the lateral cluster size of the disordered carbon detected by Raman spectroscopy might also be beneficial for the increase of reversible active sites in disordered carbon clusters.Feng et al.have also prepared SiCN-CNTs composite anode material, but the carbon nanotubes they used were localized in the region between the SiCN particles and the copper foil, its act as conductive agent and flexible network to buffer the volume expansion of the SiCN particles.’ Although a higher capacity was achieved compared with SiCN and graphite anodes,but its reversible capacity dropped gradually during the first 3O cycles.10 We speculate the main reason is the bad cyclic abilities of carbon nanotubes when its contact directly with electrolytes,because CNT favor reacting with electrolytes continuously during discharging and charging.As a consequence，with the thickness of the insulating SEI on the surface of CNT increasing gradually, the electrical conductivity of the anode would become lower and lower, so bad cyclic performance was exhibited.While for the CNT-SiCN composite we synthesized, its exhibited a improved cyclic behavior,which could be attributed to the fully protection of carbon nanotubes by the inert SiCN ceramic matrix.Figure 4(a) also suggests there was significant hysteresis for these two anodes during discharging-charging of Li ions,and this hysteresis behavior also existed during the extended cycles.It is likely that such hysteresis is resulted from the difference in the electrochemical potential of the Li ions at the SiCNelectrolyte interface,and the electrochemical potential of the Li ions within the electrolyte that are in equilibrium with the lithium metal counter electrode. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rate performance,i.e., the capacity at increasing current density for extracting Li ions from the anode was measured.In these cycles,as the quick discharging capability is more important fora full cell when it used for high-rate applications,the discharge current density was kept constant at $1 0 0 ~ \\mathrm { { m A / g } }$ ，while the charge current density was varied as shown in Figure 5 for the anode (rate capacity of SiCN was_not_ shown here, because it supplied nearly no capacity when the charge current densityreachedat $2 0 0 \\ \\mathrm { m A / g } )$ ．The CNT-SiCN composite exhibited excellent rate capability: even at charge current density of $2 0 0 0 \\ \\mathrm { \\ m A / g }$ ，it has an average capacity of $2 2 2 . 7 \\mathrm { \\ m A \\ h / g }$ .On the other hand,SiCN showed no rate capability,which can be ascribed to the low electrical conductivity of SiCN matrix.Compared with others' work,41,42 CNT-SiCN composite anode showed a much higher-rate capacity than graphite anodes (e.g.,reversible ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "600 Filled points:Insertion,100mA/g 10wt.%CNT-SiCN   \n550 Emptypoints:Extraction,asshown   \n500   \n400   \n350 100mAg  \n300 DDD 4   \n20300 200mAg1300mAg-15 500mAg△ 10A8DDD   \n150 2000mAg1   \n100   \n50 0 0 5 10 15 20 25 30 35 40 CycleNumber ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "capacity of ${ \\sim } 7 0 ~ \\mathrm { m A ~ h / g }$ when operating at $1 0 0 \\ \\mathrm { m A / g } ,$ .38 So,the higher capacity of CNT-SiCN composite during cycling was assumed mainly due to two factors,one is the superior electrical conductivity within the CNT-SiCN composite particles and better electrical contacts between the surfaces of anode particles and current collector, the other is the good structural stability maintained by the 3-dimensional network of CNT during Li-ions intercalation/extraction.As a result, new conducting paths formed resulting in higher capacity values and excellent high rate capability. With respect to the newly exploited active sites, its would present within the regions where the conductive carbon nanotubes were localized in the center,because reversible electrochemical reactions within the anode particles are limited by the electrical conductivity of the SiCN matrix in which the isolated disordered carbon clusters encased.All these results were simply explained by the schematic in Figure 6,it showed the mostly possible reason for the different electrochemical performance of the CNT-SiCN composite and SiCN anode when discharging at higher current density. It is normal for the declining of the charge capacity at higher current densities,which is dominated by the electrical conductivity and the diffusion coefficient of Li ions. Once electrical conductivity of the anode was improved for a large extent, the capacity can be further limited by the kinetic diffusion process of Li ions into the SiCN particles,or by reactions at the conducting agent-SiCN-electrolyte triple junctions.Moreover, in addition to the contribution of electrical conductivity to the high rate capability,the light contrast linear regions between CNT and the SiCN matrix (Fig. 2(f)) may also offer numerous paths for the quick diffusion of Li ions. Singh et al. has investigated the diffusion coefficient of Liions in the polymer-derived silicon oxycarbide-carbon nanotube composites with shell/core structure through Galvanostatic Intermittent Titration Technique(GITT) experiment, they reported that the diffusion coefficient of Li ions in $\\mathrm { S i ( B ) C N }$ particles might be increased simultaneously because of the increasing of the electrical conductivity in the shell/core composites.16,18 So, the improvement of electrical conductivity might be also accompanied with the slightly increase of the diffusion coefficient of Li ions in the SiCN particles. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/162cd801e7f0dbc028c8ba7b51f5f8c57b6d9ae0efadd71cafa599291e651f87.jpg",
+        "img_caption": [
+            "Figure 6.A schematic for the interpretation of the different electrochemical performances of the CNT-SiCN composite and SiCN anodes when discharging at high current density. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on these results,solutions should be found to meet needs for commercial applications of PDC in high power and energy Li-ion batteries.Firstly,the electrical conductivity of the PDC should be high enough to supply conductive paths for electron transfer and internal resistance should be reduced as low as possible; the second is to shorten the effective diffusion distance for Li ions to improve the utilization of the disordered carbon isolated in the PDC matrix and also to reduce the volume expansion of the PDC anode particles during high-rate charging and discharging cycling. For the second suggestion, synthesis of PDC particles into nano or porous forms43 may be prospective. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this article,we present the investigation of a new composite material with a 3-dimensional conductive network asanode material for Li-ion batteries.This composite was composed of CNT and the amorphous polymerderived SiCN,which was synthesized bya simple ultrasonication assisted method combined with high-temperature pyrolysis.In this composite,CNT exhibited a homogeneous distribution in the SiCN ceramic matrix,it retained the integrity during the polymer-ceramic conversion and had a relativelystrong bonding with the SiCN ceramic matrix.an_2015 14:01.57 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In'terms of Li-ions insertion/extraction, the CNT-SiCN composite exhibited a higher capacity than that of the sum of both components.The outstanding electrochemical properties of the composite should be attributed to the introduction of the superior conductive (electrical conductivity）CNT network.CNT supplied more paths for electrical contact and thus charges could be transferred to the isolated disordered carbon clusters formed within the polymer-derived SiCN ceramic matrix.Moreover, due to the high strength and toughness of carbon nanotubes, the new composite exhibited extraordinary stability during high current density cycling process.In the obtained half cell, the composite anode could supply a capacity of $2 2 2 . 7 \\mathrm { m A h / g }$ when charged at $2 0 0 0 \\mathrm { m A / g }$ ,while the SiCN anode showed nearly no capacity even at the low current density of $2 0 0 ~ \\mathrm { { m A / g } }$ .In conclusion, the CNT-SiCN composites,perhaps the series of CNT-PDC composites,are interesting“high power” anode materials for future highpower lithium ion batteries,such as portable power suppliers and electricvehicles. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment: This work was financially supported by the National Natural Science Foundation of China (Grant No. 51172248), Zhejiang Provincial Natural Science Foundation of China (R12EO2O005)，‘Qianjiang Talent’program (2011R10020） and International S&T Cooperation Program of China (2012DFA40550). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References and Notes ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.L.M.Reinold,M.Graczyk-Zajac,Y.Gao,G.Mera,andR.Riedel, J.Power Sources 236,224 (2013). 2.R.Bhandavat,Z.J.Pei,and G. Singh,Nanomater. Energy 1,324 (2012). 3.X.Liu,K.Xie,C.M.Zheng,J.Wang,and Z.Q. Jing,J.Power Sources 214,119 (2012). 4.A.Saha and R.Raj,J.Am. Ceram. Soc.89,2188 (2006). 5.G.Mera,A.Tamayo,H.Nguyen,S.Sen,and R.Riedel,J.Am. Ceram. Soc.93,1169 (2010). 6.M.Amkreutz and T.Frauenheim,Phys.Rev.B 65,134113 (2002). 7.D.Su,Y.L. Li,Y.Feng,and J.Jin,J.Am. Ceram. Soc.92,2962 (2009). 8.E.Ionescu,A.Francis,and R.Riedel,J.Mater Sci.44,2055 (2009).   \n9.J. Shen,D.Ahna,and R.Raj,J.Power Sources 196,2875 (2011).   \n10.Y.Feng,G.X.Du,X.J. Zhao,and E.C. Yang,J. Appl. Electrochem. 41, 999 (2011).   \n11.J.Kaspar, G.Mera,A.P.Nowak,M. Graczyk-Zajac,and R. Riedel, Electrochim. Acta 56,174 (2010).   \n12.H.Fukui,H. Ohsuka,T.Hino,and K.Kanamura,J.Power Sources 196,371 (2011).   \n13.G．W.Liu,J.Kaspar,L.M.Reinold,M.Graczyk-Zajac，and R.Riedel, Electrochim. Acta 106,101 (2013).   \n14.M.Graczyk-Zajac，C.Fasel,and R.Riedel，J.Power Sources 196,6412 (2011).   \n15.F.Ji,Y.L.Li,J.M.Feng,D.Su,Y.Y.Wen,Y.Feng,and F.Hou, J.Mater: Chem. 19,9063 (2009).   \n16.R.Bhandavat and G. Singh,ACS Appl.Mater. Interf.4,5092 (2012).   \n17.R.Bhandavat and G. Singh,J.Phys. Chem.C 117,11899 (2013).   \n18.R.Bhandavat,Ph.D.Thesis,Kansas State University (2013).   \n19.M.Wilamowska,M.Graczyk-Zajac,and R.Riedel,J.Power Sources 244,80 (2013).   \n20. Y. Feng, Electrochim. Acta 55,5860(2dloy.Publishing Techn   \n21.P.A. Ramakrishnan,Y.T.Wang,D.Balzar,L.N.An,C.Haluschka, R.Riedel,and A.M.Hermann,Appl.Phys.Lett78,3076 (2001).   \n22.A.M.Hermann,Y.T.Wang,P.A.Ramakrishnan,D.Balzar, L.N. An，C.Haluschka,andR.Riedel,J.Am.Ceram.Soc.84，2260 (2001).   \n23.E.Frackowiak, S.Gautier,H.Gaucher, S.Bonnamy,and F.Beguin, Carbon 37, 61 (1999).   \n24.H. C.Shin,M.L.Liu,B.Sadanadan,and A.M.Rao,J.Power Sources 112,216 (2002).   \n25.B.J.Landi,M.J.Ganter,C.D.Cress,R.A.DiLeo,and R.P. Raffaelle,Energy Environ. Sci.2,638 (2009).   \n26.G. T.Wu,C.S.Wang,X.B. Zhang,H.S.Yang,Z.F.Qi,P.M. He, andW.Z.Li,J.Electrochem. Soc.146,1696 (1999).   \n27.C.Garau,A.Frontera,D.Quinonero,A.Costa,P.Ballester,and P.M.Deya, Chem.Phys.297,85 (2004).   \n28.A．Varzi,C.Täubert，M.Wohlfahrt-Mehrens，M.Kreis，and W. Schuitz,J.Power Sources 196,3303 (2011).   \n29.M.G. Segatelli,E.Radovanovic,A.T.N.Pires,M.d.C.Goncalves, andI.V.P.Yoshida,Mater. Chem.Phys.124,1216 (2010).   \n30.L.F.Hu,M.S.Li, C.H.Xu,Y.M.Luo,and Y.C.Zhou, Surf. Coat. Technol. 203,3338 (2009).   \n31.L.N.An,W.X.Xu,S.Rajagopalan,C.M.Wang,H.Wang,Y.Fan, L.G. Zhang,D.P. Jiang,J. Kapat, L. Chow,B.H. Guo,J. Liang, andR.Vaidyanathan,Adv.Mater:16,2036 (2004).   \n32.Z.B. Zhang,F. Zeng,J.J. Han,Y.M.Luo,and C.H. Xu,J. Mater. Sci. 46,5940 (2011).   \n33.J.Luo, Z.B. Zhang,W.Liu,X.J.Wang,Z.J.Peng,Y.M.Luo,and C.H.Xu,J.Appl. Polym. Sci. 126,853 (2012).   \n34.F.Tuinstra and J.L.Koenig,J.Chem. Phys.53,1126 (1970).   \n35.A.C.Ferrari and J.Robertson,Phys.Rev.B 61,14095 (2000)   \n36.M.G. Segatelli,A.T.N.Pires,and I.V.P.Yoshida,J.Eur: Ceram. Soc. 28,2247 (2008).   \n37.J.R.Dahn,T. Zheng,Y.Liu,and J. S.Xue,Science 270,59O (1995).   \n38.D.Ahn and R.Raj,J.Power Sources 196,2179 (2011).   \n39.E.Buiel and J.R.Dahn,Electrochim. Acta 45,121 (1999).   \n40.X.Liu,M.C. Zheng,and Kai Xie,J.Power Sources 196,10667   \n41.HBuqaDGersolzapfelM.E.SpahndP.Novak   \nOJ. Electrochem. Soc. 152,A474 (2005).   \n42.H Yamada,Y Watanabe,I. Moriguchi, and T. Kudo, Solid State Ionics 17,1706 (2008).   \n43.J.Q.Wu,Y.M.Li,L.M.Chen,Z.B. Zhang,D.Wang,and C.H. Xu,J.Mater: Chem. 22,6542 (2012). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

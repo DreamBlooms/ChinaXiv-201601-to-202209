@@ -1,0 +1,520 @@
+[
+    {
+        "type": "text",
+        "text": "Potential of rooftop rainwater harvesting to meet outdoor water demand in arid regions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kazi TAMADDUN1, Ajay KALRA², Sajjad AHMAD3 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1DepartmentofCivilandEnvironmentalEngineringandConstruction,UniversityofNevada,LasVegas,NV89154-4015, USA; 2 Department ofCivil and Environmental Engineering,Southern Ilinois University,Carbondale, IL 62901,USA; 3DepartmentofCivilandEnvironmentalEngineeringandConstruction,UniversityofNevada,Las Vegas,NV89154-45,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The feasibility of rooftop rainwater harvesting (RRWH) as an alternative source of water to meet the outdoor water demand in nine states of the U.S. was evaluated using a system dynamics model developed in Systems Thinking, Experimental Learning Laboratory with Animation.The state of Arizona was selected to evaluate the effects of the selected model parameters on the efficacy of RRWH since among the nine states the arid region of Arizona showed the least potential of meeting the outdoor water demand with rain harvested water. The analyses were conducted on a monthly basis acrossa 10-year projected period from 2015 to 2024. The results showed that RRWH as a potential source of water was highly sensitive to certain model parameters such as the outdoor water demand, the use of desert landscaping,and the percentage of existing houses with RRWH. A significant difference (as high as $3 7 . 5 \\%$ )in rainwater potential was observed between the projected wet and dry climate conditions in Arizona. The analysis of the dynamics of the storage tanks suggested that a $1 . 0 { - } 2 . 0 ~ \\mathrm { m } ^ { 3 }$ rainwater barrel, on an average, can store approximately $80 \\%$ of the monthly rainwater generated from the rooftops in Arizona, even acrossthe high seasonal variation. This interactive model can be used as a quick estimator of the amount of water that could be generated,stored, and utilized through RRWH systems in the U.S. under different climate conditions. The findings of such comprehensive analyses may help regional policymakers, especiall in arid regions, to develop a sustainable Water management infrastructure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: rooftop rainwater harvesting; rainwater storage tank dynamics; sustainability of outdoor water usage; sustainabity of water in arid regions; best management practices in arid regions;variation of rainfall under various climate conditions ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The adverse effects of increasing global population are prevalent all across the world affecting both the supply and demand of water (WHO,2OO9). The rate of increase in water demand is accelerating, and the current demand is projected to double by 2035 (Tidwel et al., 2004). Researchers anticipate that in the next several decades, two-thirds of the world's population may experience scarcity of water (Rijsberman, 2Oo6). Studies have also found that many river basins around the world are facing the challenge of meeting local water quality standards (Shammi et al., 2O16). As a result, besides the quantity of accessible water, the quality of water may severely influence the global water crisis (Khadse et al.,2O16). Studies show that changes in climate can influence the hydrologic cycle and hydrologic regimes significantly, even though the effects of these changes vary from region to region (Tamaddun et al., 2O17a). Researchers suggest that the intensification of water shortage during hot and dry summer seasons could be atributed to the shifts in the timing of hydrologic variables, e.g., precipitation, snowmelt, and streamflow patterns, which are subject to climate variability and change (Tamaddun et al.,2O17b). Extreme hydrologic events, i.e., floods, droughts, and storms, could become more severe and frequent with the changes in climate (Tamaddun et al., 2O16). These changes could affect surface and groundwater flow patterns and influence the quality of water, which in turn could pose serious threats to water resource management (Middelkoop et al., 2Oo1). The optimal allocation and rational use of water resources can potentially lead to a reduction of cost and a sustainable water resource development (Chagwiza, 2016). Rainwater harvesting (RWH) can be an alternative source of water not only because of the volume that can generate but also because it meets the majority of the local water quality standards in terms of the maximum contaminant levels (Cain, 2010; Rahman et al., 2O14). Rainwater is very soft in nature and can be considered as one of the cleanest sources of water on Earth (TWDB, 2005). Raindrops can become slightly acidic as they dissolve atmospheric $\\mathrm { C O } _ { 2 }$ and ${ \\bf N } _ { 2 }$ ; however, this may not be considered threatening if the water is primarily used for outdoor purposes (MHLG, 2008). Hence, evaluating the feasibility of RWH as an alternative source for outdoor purposes, e.g., gardening, landscaping,car washing,and so on, can be a potential scope for research. In this study, a highly adaptable model was presented to evaluate the feasibility of rooftop rainwater harvesting (RRWH) systems to meet the outdoor water demand, which can be applied to any state, city, or even a neighborhood by simple modifications and adjustments. The interactivity of the model could be used effectively and quickly to estimate the amount of water that can be generated and stored with RRWH systems across the seasons under different climate conditions. This study can assist the policymakers to get a preliminary estimate of the harvested rainwater, which can be helpful in implementing regulations regarding sustainable water management. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to the U.S. Environmental Protection Agency (EPA), RWH has drawn interest to the researchers and policymakers as a sustainable source to meet the increasing water demand since the technique could conserve both water and energy (Kloss,2Oo8). Throughout history, RWH has been used as an alternative source of water, especially in regions where water resources are either scarce or difficult to access. Cain (2O10) found that small-scale RHW systems can be effectively applied in both the rural and urban setups in India and suggested that RWH should be more widely used to encounter global water crisis. Che-Ani et al. (2O09) found that RWH can be the most suitable solution to meet the future water demand in Malaysia as the accessbility to clean surface and groundwater becomes scarce both in qualitative and quantitative grounds. Studies show that RWH is not only feasible in wet regions, but also in relatively dry or arid regions. With a study in the semi-arid regions of China, Li et al. (2OOO) found that in-situ RWH systems can significantly improve rain-fed farming systems. Bitterman et al. (2O16), on a study in Tamil Nadu, India, which has a tropical climate with a fairly hot temperature around the year, proposed a conceptual framework to measure water security as a causal response to rainwater harvesting tanks to mitigate the risks caused by water shortage. Examining the application of domestic and agricultural RWH systems on the U.S. river basins, Ghimire and Johnston (2O13) found a significant reduction in the average monthly withdrawal (water yield) among the surrounding watersheds. Several studies have also provided the cost-benefit analysis of applying RWH in urban and industrial setups based on optimized design and policy guidelines (Jothiprakash and Sathe, 2OO9; Temesgen et al., 2016). Angrill et al. (2O12) analyzed different scenarios and identified the most suitable strategies to design environmental friendly RWH systems in urban setups. The study also suggested that RRWH has the potential to work as a thermal regulator if designed and located properly on roofs, which can be linked to energy conservation. A discussion on the different types of RWH systems, such as active cisterns with treatment facilities, passive systems as a complement to existing stormwater systems,rain barrels used for outdoor purposes, check dams, and fog/moisture collectors can be found in EPA (2O13). Details on the cost of installation, energy saving,reduction in carbon emission, designing of distribution systems in addition to treatment facilities of different RWH systems can be found in Kloss (20o8) and EPA (2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EPA (2013) compiled the current scenarios of RWH systems in the United States. The Texas Manual on Rainwater Harvesting published by the Texas Water Development Board in 2005 provides the necessary guidelines to design RWH systems. The Building Codes Division of Oregon's Department of Consumer and Business Services published a handbook (ODCBS, 2014) on designing RWH systems. Kloss (2008) discussed the design methods of different RWH systems along with the environmental benefits; the study also includes information regarding energy savings due to RWH. A study by Basinger et al. (2O1O) developed a nonparametric stochastic model to evaluate the potential of RWH in multi-family residential buildings in New York City and determined the reliability of rain harvested water through rooftop facilities in meeting the demands for toilet flushing, garden irrigation, and air-conditioner topping. The study found that RWH can significantly reduce the potable water demand and runof inputs to sewer systems generated from rooftops. Another study by Ward et al. (2O10) developed evaluation models to design storage tanks based on the demand level and catchment size for both the commercial and domestic buildings and found considerable potential in water conservation. The study also emphasized the use of simulation models instead of traditional models since complex and continuous simulation models have higher stakeholder involvement. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The current study developed a system dynamics simulation (SDS) model using Systems Thinking, Experimental Learning Laboratory with Animation (STELLA)， based on regional demographics and historical records to evaluate the feasibility of RRWH systems across nine states within the conterminous United States. The model evaluates the potential of RRWH under various climate conditions and calculates the volume of water generated to meet the increasing demand. The dynamics of storage tanks, as they get recharged and drained based on the variation of demand across the seasons, was also evaluated. The absence of a comprehensive study on the potential of RRWH under various climate conditions in the U.S. acted as the primary motivation for the research. As a result, based on the information gathered from literature, the key objective of the study was to present a single interactive model that would allow the policy makers and end users to evaluate the potential of RRWH systems under various controlled scenarios. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Study area and data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The U.S. Census Bureau divided the continental U.S. into nine divisions and each division consists of several states.Since only the residential households were considered to evaluate the potential of RRWH in meeting the domestic outdoor demand, the states with the highest population in each division were considered to be appropriate for the study (Fig. 1). Ten years of continuous precipitation data (referred to as rainfallin the later sections as the other forms of precipitation may eventually melt and can be considered as rainfall volume) from January 2Oo5 to December 2014 were obtained, on a monthly basis, from the online database of the National Oceanic and Atmospheric Administration, U.S. Department of Commerce (Fig. 2). The rainfall paterns were assumed to have remained the same for the upcoming 1O years (projected years, i.e., January 2015 to December 2O24); however, they were adjusted based on the near-term climate projections suggested by the EPA (Rossman, 2O13). The guidelines for RRWH systems were obtained from EPA (2013). The governing equation and conversion factors were obtained from the Texas Manual on Rainwater Harvesting, published by the Texas Water Development Board (TWDB, 2O05). This manual is also recommended by the EPA as a guideline to design RRWH systems in the United States. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf988cb36d7abc8829c10fbc3b377aca49e8f2eed9ad749eb32ef5376acb628c.jpg",
+        "img_caption": [
+            "Fig.1Nine census divisions of the conterminous U.S.and the states with the highest population (shaded) in each division selected for this study "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Water usage data, measured in cubic metres per capita per day (CMPCD), the most commonly used unit to report water usage in the U.S., were calculated from Maupin et al. (2O14) using the 2014 population. To be consistent with the SI unit, the following sections report the water usage in cubic meters per capita per day. Demographic data, such as the birth and the death rates, the initial (2014) population of the states, the number of people per household, the average household area, and the average household-area-to-roof-area ratio, were obtained from the survey results conducted by the Centers for Disease Control and Prevention National Center for Health Statistics (CDCNCHS), U.S. Census Bureau, and Bureau of Labor Statistics, United States Department of Labor (U.S. Bureau of Labor Statistics). Table 1 lists the demographic data/statistics used in this study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a)Florida 400-(b)Massachusetts 4001(c)Tennessee 300 300 300 200 200 200 100 100 100 AAA wvww W W hv WVV 0 0 20 40 60 80 100120 0 0 20 40 60 80 100120 0 0 20 40 60 80 100 120 G (d) Illinois 300 (e) New York 300(f) Missouri 200 200 100 100 W 0 0 20 40 60 80 100 120 0 0 20 40 60 80 100 120 0 0 20 40 60 80 100120 (g) Arizona 2500 (h) California 250 iogtrmntl average 150 150 100 100 100 50 1 50 50 U M人 0 0 0 0 20 40 60 80 100 120 0 20 40 60 80 100 120 0 20 40 60 80 100 120 Months Months Months ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/21b8984935e4833c984dbfb0858376248522398d9aa9592bfa2b04225243bd48.jpg",
+        "table_caption": [
+            "Table1Demographic data used in the study (based on 2O14 data) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Demography/Statistics</td><td>Value</td></tr><tr><td>Average birth rate (%o/month)</td><td>1.04</td></tr><tr><td>Average death rate (%o/month)</td><td>0.68</td></tr><tr><td>Average number of people per household (people/household)</td><td>2.54</td></tr><tr><td>Average area per household (m²)</td><td>250</td></tr><tr><td>Average household-area-to-roof-area ratio</td><td>0.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Methodology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SDS models have been used extensively in the field of hydrology and in dealing with problems of water resource management (Chen et al., 2O17). Applications of SDS models can be found in river basin planning (Zhang et al., 2O16), in suggesting municipal water conservation policies (Qaiser et al.， 2013)， in providing city-based water resources planning (Venkatesan et al.， 2011)， in determining sustainability of river/river basin systems and reusability of water (Elshorbagy et al., ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2005), in evaluating water quality parameters (Rusuli et al., 2O15), in examining reservoir performances (Ahmad and Simonovic, 2Ooo), in designing flood management and emergency evacuation systems (Simonovic and Ahmad, 2Oo5)，and in developing support systems and accounting tools (Gastélum et al., 2O09; Turner et al., 2010). Considering the advantages of SDS models in simulating complex systems,an SDS model was developed in this study using STELLA to evaluate the potential of RRWH in residential households located throughout the nine selected states (Fig. 1). Once a simulation model representing a system has been developed, it can be replicated to observe the effects of the proposed modifications. This is a significantly helpful feature in problems dealing with water resource management (Stave, 2OO3). A detailed description of how an SDS model works to capture the dynamics of a system can be found in Forrester (1994), Ford (1999), and Sterman (2000). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Model structure ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The model was built with seven sectors including rainfall(S1), climate (S2), RRWH (S3), demand (S4), CMPCD (S5), housing (S6), and population (S7). S1 and S5 provided regional data for each of the states. S7 provided information regarding the total population of the states based on monthly birth and death rates (monthly rates were calculated from the annual rates provided by CDCNCHS). Even though the population of each state varied, the birth and death rates were considered to be the identical across all the selected states (Table 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Climate sector (S2) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EPA suggested four climate conditions for both the near and far-term projections (Rossman, 2013). The scenarios are (1) no change, (2) hot or dry, (3) median change, and (4) warm or wet (Fig. 3a). For the analyses, the near-term (from 2O2O to 2O49) projected values were used. In the baseline scenarios (BLSs; explained in section 4.1),against which the controlled/modified scenarios were compared, no change in climate was considered. However, for further analysis, the median change in climate was selected in order to compare the changes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 RRWH sector (S3) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This sector considered the rainfallfrom the selected states and calculated the amount of water to oe generated through RRWH using the governing equation below (TWDB,2OO5; EPA, 2013). ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV { = } R { \\times } C _ { \\mathrm { A } } { \\times } \\mathbf { C } { \\times } \\mathbf { C } _ { \\mathrm { E } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $V$ is the total volume of water generated $( \\mathbf { m } ^ { 3 } )$ · $R$ is rainfall $( \\mathrm { m m } )$ $C _ { \\mathrm { { A } } }$ is catchment (roof) area $( \\mathbf { m } ^ { 2 } )$ ; C is the unit conversion factor of 0.001 $\\left( \\mathrm { m / m m } \\right)$ ; and $\\mathbf { C } _ { \\mathrm { { E } } }$ is the collection efficiency equals to 0.85. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Equation 1 was modified from its original form to express it in terms of units consistent with the Systéme International (SI). $\\mathbf { C } _ { \\mathrm { { E } } }$ depends on the material of the roof. The users of the model can modify these parameters as required.This sector also considered the effect of antecedent dry period on the total runoff generated by rainfallusing a reduction factor (not included in Eq. 1). This factor was introduced based on the concept of soil conservation service (SCS) curve number (Lim et al., 2006; Yuan et al., 2O14)， which measures the rainfall excess considering the moisture and infiltration of the surface. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.3Demand sector (S4) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This sector calculated the total outdoor demand as a percentage of the monthly water demand of the selected states. Annual average CMPCD of the states were calculated from Maupin et al. (2014) using the 2014 population of each state (Table 2). Table 2 reports the water usage in CMPCD. Griffin and Chang (1991） studied the seasonal effects on community water demand and their research results were used as approximate seasonal variability index to consider the change of water demand across a year (Fig. 3b). The effect of desert landscaping was considered in this sector as it affects the overall water demand as well. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.4 Housing sector (S6) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This sector calculated the number of households based on the total population of the selected states. Factors such as average household area, average number of people per household, and the average ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.0 1+ No change (a) 1.6 (b) 100 → No change (c) +Hot or dry 5E 08 + Hot or dry +Median change +Mcdian changc 70 whrrtr 1.5 + Warm or wet r)nrirn 60 +Warm or wet 50 40 1.0 30 20 ←Variability indcx 0.7 over the months 10 0.5 0.6 0 janreo jareo Month Month Month ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Assessment of model dynamics ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A set of assessment techniques (Forrester and Senge, 1980; Shreckengost, 1985) were applied to test the dynamics of the model to build confidence in the model. Firstly, dimensional consistency was maintained throughout the modeling process. The indices and multipliers were chosen (or converted if necessary) in such a manner that they did not have any influence on the use of units and dimensions. Secondly, to test the dynamic relations of the model, three extreme conditions, zero rainfall, zero current population, and zero CMPCD, were set to observe the results. The model simulated the extreme conditions as expected. Thirdly, in order to observe the behavior of the model, three different integration methods, Euler's method, Runge-Kutta 2,and Runge-Kutta 4, were used while reducing the interval fraction from 1/4 to 1/132 unit of time. Under all the settings, the model generated comparable results. Fourthly, to test whether the model was able to replicate expected behaviors, different climate conditions on the rainfall data (for the last 12 months, i.e., from January 2014 to December 2014) of Arizona were tested (Fig. 3c). The results indicated that a reduction in rainfall due to hot or dry climate could bring about a significant decrease in the amount of rainfall especially from May to September. The warm or wet condition was observed to have the maximum increase in rainfallfrom June to August. These changes in rainfall patterns were suggested by the EPA climate conditions as well (Fig. 3a). Finally, in order to observe how the outcomes were sensitive to the various model parameters, sensitivity analyses were run for the model.The comparative responses of these parameters on the outcomes are discussed in the Results section below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 Baseline scenarios ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A set of parameters were chosen to be the most influential ones (Table 2) to determine the feasibility of RRWH in a state. In the baseline scenarios (BLSs), the climate condition was set to no change for all the states. The percentage of existing houses with RRWH was considered to be $5 \\%$ ,whereas the percentage of new houses (that would be built in the next 10 projected years) with RRWH was kept at $2 5 \\%$ . These percentages were reasonably assumed as the objective of the study was to present a relative comparison between the BLSs and the controlled scenarios and to evaluate the potential of RRWH. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The percentage of CMPCD used to meet the outdoor demand, the percentage of the population living in households with desert landscaping, and the reduction factor due to antecedent dry period had a unique set of values for each state. The percentages of CMPCD were set to values that would slightly over-estimate the demand (Table 2). The WaterSense program of the EPA (www.epa.gov/watersense) suggests that, on an average, $30 \\%$ of the per capita water demand is used for outdoor water purposes across the U.S., which can be as high as $60 \\%$ in the south-western arid regions (e.g., Arizona, California, and Texas). The percentage of population living in the households with desert landscaping was set to zero in the BLSs for all the states except for the arid states since the remaining states had more than $1 0 0 ~ \\mathrm { { m m } }$ of long-term average precipitation per month (Fig. 2). Also, the reduction factor due to antecedent dry period was close to 1.O (suggesting no reduction) for the states with enough and frequent rainfall (Table 2). The values were set according to the location and climate of the states based on the SCS curve number (Yuan et al., 2014). Graphical outcomes of the BLSs are presented in Figure 4. In the BLSs, it was observed that many states, especially the ones with enough and frequent rainfall, could meet the outdoor water demand quite effectively by RRWH (Table 3). Though four of the nine states chosen met the total outdoor water demand from RRWH in terms of the total volume over the projected years (Table 3), none of the states was able to meet the demand all year round, on a monthly basis, as the seasonal effects influenced both the rainfalland outdoor water demand (Fig. 4). Florida, Massachusetts, and ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f505d5b3b35781b2cc15b01ba1bea3829e00d2a0f417897148421d191caf0f88.jpg",
+        "table_caption": [
+            "Table 2Baseline scenarios (BLSs) for each state with the selected model parameters "
+        ],
+        "table_footnote": [
+            "Note:MPCubcepiaei;F;ses;; IL,Illinois; NY,New York; MO, Missouri; AZ, Arizona; CA, California; TX,Texas; NC, no change. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>FL</td><td>MA</td><td>TN</td><td>IL</td><td>NY</td><td>MO</td><td>AZ</td><td>CA</td><td>TX</td></tr><tr><td>Climate condition</td><td>NC</td><td>NC</td><td>NC</td><td>NC</td><td>NC</td><td>NC</td><td>NC</td><td>NC</td><td>NC</td></tr><tr><td>CMPCD</td><td>0.36</td><td>0.31</td><td>0.30</td><td>0.34</td><td>0.37</td><td>0.33</td><td>0.53</td><td>0.47</td><td>0.52</td></tr><tr><td>Percentage of CMPCD used for outdoor demand (%) Percentage of population living</td><td>25</td><td>30</td><td>30</td><td>35</td><td>30</td><td>35</td><td>50</td><td>40</td><td>40</td></tr><tr><td>in households with desert landscaping (%)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>20</td><td>10</td><td>5</td></tr><tr><td>Percentage of existing houses with RRWH (%)</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr><tr><td>Percentage of new houses with</td><td>25</td><td>25</td><td>25</td><td>25</td><td>25</td><td>25</td><td>25</td><td>25</td><td>25</td></tr><tr><td>Reduction factor due to antecedent dry period</td><td>0.98</td><td>0.90</td><td>0.95</td><td>0.90</td><td>0.90</td><td>0.90</td><td>0.70</td><td>0.80</td><td>0.85</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Generated from rooftops Outdoor demand 4 (b)Massachusetts 2.5(c) Tennessee 3- 2.0 5 2 1. WwNM 1ww 0.5 0 0+ 0.0+ 0 20 40 60 80 100 120 0 20 40 60 80 100 120 0 20 40 60 80 100 120   \n(u gorx) gaion (d) Illinois 6、 (e)New York 2.5,(f) Missouri 3 2.0 2 AW 1.0 A 0.5 0+ 0 0.0 0 20 40 60 80 100 120 0 20 40 60 80 100120 0 20 40 60 80 100 120   \n(u gox) aunion (g) Arizona (h) California (i) Texas 3 15 MMMMM 10 10 5 5 A\\ 0 0 W>mwM 20 40 60 80 100 120 0 20 40 60 80 100120 0mwW 0 20 LMNmnN 40 6080100120 Months Months Months ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/dbee20c39d6a8d0a700650a9da1e3a8d570d36986d8ec89f8e58aea99077384e.jpg",
+        "table_caption": [
+            "Table 3Comparison of the total outdoor water demand and the total water generated from the rooftops in the projected yearsof the baseline scenarios (BLSs) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">States</td><td>Total outoor ater demand x10 m2)</td><td>Total water from rooftops</td><td rowspan=\"2\">dPeraed me of)</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>Florida</td><td>223.66</td><td>369.52</td><td>100</td></tr><tr><td>Massachusetts</td><td>77.80</td><td>115.01</td><td>100</td></tr><tr><td>Tennessee</td><td>73.77</td><td>118.19</td><td>100</td></tr><tr><td>Illinois</td><td>190.51</td><td>174.51</td><td>92</td></tr><tr><td>New York</td><td>269.27</td><td>297.68</td><td>100</td></tr><tr><td>Missouri</td><td>87.45</td><td>85.62</td><td>98</td></tr><tr><td>Arizona</td><td>201.65</td><td>18.92</td><td>9</td></tr><tr><td>California</td><td>864.50</td><td>232.35</td><td>27</td></tr><tr><td>Texas</td><td>677.25</td><td>212.17</td><td>31</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Tennessee showed good responses; RRWH was able to meet the outdoor water demand during most of the months in these states. The demands were met during some of the months for Ilinois, New York,and Missouri; however, these states were short of the target demand during a few months in summer. Arizona, California, and Texas showed the poorest performances in terms of meeting the water demand. California and Texas had only a few instances, on a monthly basis, where RRWH was able to meet the outdoor water demand; Arizona did not show a single instance in meeting the water demand during the entire projected period in the BLS. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The study did not provide a unique solution for each state as it depends on the users to change the model parameters and observe how these changes affect the final outcome.Arizona was selected as the sample state to analyze the effects of the model parameters, since it had the least potential of meeting the outdoor water demand with RRWH compared to the other states.The later subsections discuss the dynamics of each of the model parameters in details for Arizona. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 Effect ofclimate conditions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 shows the variation in rain harvested water (monthly average) at each year of the projected period for Arizona under various climate conditions. All the parameters, except for the climate conditions, were kept fixed as they were in the BLS (Table 2). The results show that hot or dry climate decreased the amount of rainfal significantly and therefore reduced the volume of water generated from RRWH as wel. Contrarily, the maximum amount of water would be produced from RRWH under warm or wet climate in almost al the months during the projected years. The difference in the volume of water produced from RRWH under warm or wet and hot or dry conditions was found to be as high as $3 7 . 5 \\%$ in a single month. The average monthly difference of rainwater generated through RRWH between warm or wet and hot or dry scenario was $4 . 3 \\%$ across the study period. The annual variation (Fig. 5) also showed that warm or wet climate produced more water via RRWH than hot or dry climate in each of the projected years. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/acae806a12df19e4142307449534962168346f79febbcbf277986a728aeb5e41.jpg",
+        "img_caption": [
+            "Fig.5Average monthly volume of water generated per year (annual mean) from RRWH systems under various climate conditions across the projected years in Arizona "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3 EffectofCMPCD ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A reduction in the percentage of CMPCD available for outdoor water usage can increase the chances ofmeeting the reduced demand via RRWH. The EPA WaterSense (www.epa.gov/watersense) suggests that water-eficient best management practices (BMPs) can reduce the outdoor water usage by $1 5 \\%$ if regulated properly. For Arizona, the percentage of CMPCD used to meet the outdoor water demand was reduced to $40 \\%$ , as compared to $50 \\%$ in BLS. As shown in Figure 6a, the reduction of outdoor water usage caused a linear reduction in the total outdoor water demand, which significantly narrowed the gap between the total outdoor demand and the water generated through RRWH. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.4 Effect of desert landscaping ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the percentage of population living in households with desert landscaping and the total outdoor water demand was built based on the water smart landscape guidelines (www.snwa.com/rebates) by the Southern Nevada Water Authority (SNWA). According to SNWA, the total lawn area (turf) should not exceed more than $50 \\%$ of the side and rear yard areas in Southern Nevada to receive additional credit as a lawn owner. The water smart landscape guidelines suggest that $0 . 2 1 ~ \\mathrm { m } ^ { 3 }$ of water per year can be saved per $0 . 0 9 3 ~ \\mathrm { m } ^ { 2 }$ (1.0 ft²) of grass if replaced by water-smart landscapes. Based on these guidelines,a function was built in the model. For Arizona, the percentage of lawn area converted to desert landscapes was kept at $50 \\%$ , but the percentage of population living in households with desert landscaping was varied. The percentage of the population with desert landscaping was increased to $50 \\%$ ， as compared to $20 \\%$ in BLS, which reduced the outdoor water demand by $1 4 . 2 \\%$ (Fig. 6b). Such a reduction can be quite significant in arid states where desert landscaping can be a viable option. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Generatedfromrooftops Generated fromrooftops   \n823 (a) Outdoordemand 40%CMPCD) 3025 (b) Outdoordemand $( 5 0 \\%$ $( 2 0 \\%$ desert landscape) 2.0 1.5 1.0 0.0 MMMwMAM 0.5 \\~\\~>> M\\~> 0 102030405060708090100110120 0 10 20 30 40 50 60 70 80 90100 110 120 Generated from rooftops $5 \\%$ existing houses) Generated from rooftops $2 5 \\%$ new houses)   \n2222 (c) MA Guneratrd romrootops ( $1 5 \\%$ existing houses) 3.5 2.0 (d) Generated from Rooftops $1 0 0 \\%$ new houses) 1.5 1.0 0.5 Y 0.0 0 10 20 30 40 50 60 70 80 90 100 110 120 0 10 20 30 40 50 60 70 80 90 100 110 120 Months Months ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.5 Effect of households with RRWH systems ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "An increase in the existing number of households with RRWH systems from $5 \\%$ (BLS) to $1 5 \\%$ showed a $200 \\%$ increase in the volume of water generated through RRWH (Fig. 6c). For the first time in Arizona, there were a few instances, on a monthly basis, where the demand was met from RRWH. As expected, the amount of water generated through RRWH was highly sensitive to the ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "existingnumberofhouseholdswithRRWH. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The percentage of new households with RRWH systems increased from $2 5 \\%$ (BLS) to $100 \\%$ (Fig. 6d), which caused a $0 . 5 4 \\%$ increase in average in the total volume of water generated through RRWH over the projected years. The difference between the results was not visually noticeable since the number of new households to be built over the next 1O projected years was quite insignificant (only $0 . 0 4 \\%$ compared to the number of households already existed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.6 Effect of antecedent dry period ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The antecedent dry period reduces the runoff generation potential of a rainfall event since the moisture content in the atmosphere varies greatly between the wet and dry seasons and also across the states due to the variation in their overall climate conditions. For Arizona, a state with litle rainfall associated with high temperature (a common feature for arid or semi-arid regions), the reduction factor was set to O.7O, which rationalized the water generation potential of RRWH. This model parameter was provided to control the effect of moisture content and potential evaporation with a single number. The number was introduced based on the concept of SCS curve number (Yuan et al.,2014). Moreover, the model allows the users to choose different reduction factors at the different time of the year during the study period. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.7Achievable scenario ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Analyses of the previous cases suggested that there was no single model parameter that could solve the entire problems to meet the outdoor demand by using RRWH. A comprehensive measure is required to generate more water from such systems. At the same time, the demand side of the problem needs to be addressed by reducing the outdoor water demand and implementing BMPs, such as desert landscaping. Several scenarios with different combinations of the chosen parameters provided a realistic solution to the problems. One of these scenarios, shown in Table 4, was chosen as an achievable scenario (AS). Even though this scenario did not meet the demands all year round for a state like Arizona, which had very lite rainfall it provided an example of how the problem could be tackled by controlling several parameters of the system. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7ea6c348a0e49f3e43ca5bf7e2a11f14082d4b00848fbf2e69ad20942900cc9.jpg",
+        "table_caption": [
+            "Table4Parameters of the achievable scenario to meet the outdoor water demand with RRWH systems in Arizona "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Parameters</td><td>Optimum setings</td></tr><tr><td>Climate scenario</td><td>Median</td></tr><tr><td>Percentage of CMPCD used for outdoor use (%)</td><td>40</td></tr><tr><td>Percentage of Population living in households with desert landscaping (%)</td><td>75</td></tr><tr><td>Percentage of existing houses with RRWH(%)</td><td>25</td></tr><tr><td>Percentage of new houses with RRWH(%)</td><td>100</td></tr><tr><td>Reduction factor due to antecedent dry period</td><td>0.7</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To attain the AS, the demand side was reduced by decreasing the percentage of CMPCD used for outdoor purposes from $50 \\%$ (BLS) to $40 \\%$ (Tables 2 and 4); the use of desert landscaping was increased from $20 \\%$ (BLS) to $7 5 \\%$ ; the percentage of existing households with RRWH was increased from $5 \\%$ (BLS) to $2 5 \\%$ ; while the percentage of new houses with RRWH systems was increased from $2 5 \\%$ (BLS) to $100 \\%$ (Tables 2 and 4). In Arizona, under the AS, the generated water through RRWH was found to increase by up to $400 \\%$ and the outdoor demand was decreased by up to $41 \\%$ compared to the BLS. The total water generated from the rooftops was observed to meet $0 . 8 5 \\%$ to $56 \\%$ of the total monthly water demands. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.8 Dynamics of storage tanks ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Storing, draining,and refilling of rainwater tanks are highly critical in evaluating the efficacy of RWH since the available tanks have specific storage capacities. A passive harvesting system (rain barrel) typically stores $0 . 2 \\mathrm { - } 0 . 4 ~ \\mathrm { m } ^ { 3 }$ of water, whereas an active harvesting system (cistern with treatment facilities) stores from $4 . 0 { - } 4 0 . 0 \\mathrm { m } ^ { 3 }$ (EPA, 2013).Depending on their size, these tanks can either be placed on the rooftop or on the ground. During the projected years, under the median climate condition, Arizona was observed to experience $2 2 . 3 \\mathrm { m m }$ of rainfall per month. This rainfall, on an average, generated up to $2 . 4 \\mathrm { m } ^ { 3 }$ of water per month per household, with a roof area of $1 2 5 \\mathrm { m } ^ { 2 }$ - ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A ${ 4 . 0 } { \\cdot } \\mathrm { m } ^ { 3 }$ tank was chosen in this study to evaluate the dynamics of the RWH tanks, which was large enough to store the average water generated from a rooftop in a month in Arizona. If a particular month experienced enough rainfal to meet the outdoor water demand, i.e., if the total volume of water generated in the lawn areas were greater than the total outdoor water demand, then no water was drawn from the tanks. During the months when rainfall was not enough to meet the outdoor demand, the required amount (i.e., the gap/difference between the demand and the water from rainfall) was drawn from the tanks, which sometimes resulted in the emptying of the tanks. During the projected 10 years (120 months), 37 instances $( 3 0 \\% )$ were found where no water was required from the tanks, suggesting that the monthly total rainfallalone was sufficient to meet the monthly outdoor water demand (Fig. 7a). For the remaining months, when a gap was present, water from the storage tanks was drawn. The percentage gap filed by the water stored in the tanks varied from $0 . 8 6 \\%$ to $100 \\%$ (on 15 occasions out of the 12O months). The average monthly gap filled by the tank water was found to be $27 \\%$ over the projected years (Fig. 7b). Several tank sizes were tested to suggest a tank size that can be considered feasible. Tank sizes ranging from $1 . 0 { - } 2 . 0 ~ \\mathrm { m } ^ { 3 }$ were found to store close to $80 \\%$ of the water generated from the rooftops each month under various climate conditions in Arizona. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa11d834d7c3482f0b404752fe83f6c7ac00b97ee02b1668badec06d6017b1db.jpg",
+        "img_caption": [
+            "Fig.7Total outdoor water demand under achievable scenario and total water generated from household lawn areas due to rainfall in Arizona (a); dynamics of rainwater storage tanks in meting theadditional outdoor water demand and the gap (additional requirement) suggests the difference between the total outdoor water demand and the total rainwater generated in the lawn areas of Arizona (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From the BLSs (Table 2), it was observed that Florida, Massachusetts, and Tennessee had the highest potential of meeting the outdoor water demand by using RRWH during the projected years (Fig. 4). Ilinois, New York, and Missouri also showed significant potential in meeting the demand across many instances on a monthly basis. Arizona, California, and Texas showed poor potential in the BLSs, as none of them was able to meet the demand by using RRWH consistently. EPA (2013) also suggests that the benefits of RWH, in general, are relatively higher on the east coast of the U.S. compared to the southwestern regions, where rainfall occurs for a limited time of a year. Even though the current study indicates that six out of the nine states can effectively meet a significant portion of the demand through RRWH, many of the states lack relevant regulations and codes for local standards and guidelines (Kloss, 2Oo8). States such as Georgia, North Carolina, Texas, and Virginia have published guidance manuals with design criteria and water quality standards of RWH systems based on their rainfall potential (EPA,2O13). Among the chosen states of the current study, Arizona showed the least potential in meeting the outdoor demand. Hence, Arizona was chosen as the sample state and the model parameters from both the demand and supply sides were adjusted, considering the effects of climate conditions and seasonal variations, to produce an AS that could bring a satisfactory balance between both the demand and supply sides of water. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Seasonal variations (Fig. 3b) indicated that the highest demand was from May to September in a typical year. The effect of climate on rainfall also showed the highest variation during these months (Fig.3a). The effect of various climate conditions showed that warm or wet climate could generate the maximum rainfall (a $7 . 2 \\%$ increase from the long-term average),while hot or dry climate would reduce the amount of rainwater significantly (a $10 . 5 \\%$ reduction from the long-term average; Fig. 3c). Rossman (2013) also suggested similar variations in rainfall across the U.S. due to various climate conditions. A discussion on the importance of incorporating climate change in SDS models as a result of a change in the global carbon cycle can be found in Ford (2O11); the study showed how SDS models can improve the understanding of interdisciplinary analyses involving climate change. In this study, for Arizona, a median change in climate was considered throughout the study period; however, the users of the model can modify these setings to observe the effects of other climate conditions. Figure 5 showed that warm and wet (hot or dry) climate produced the maximum (minimum) water from RRWH as was expected from the rainfall pattern under different climate conditions (Fig. 3c). A study by Woodhouse et al. (201O) on the $2 1 ^ { \\mathrm { s t } }$ -century drought in the southwestern U.S. suggested that the drought conditions in southwestern regions, e.g., Arizona and New Mexico, were highly susceptible to the summer rainfall dictated by the North American monsoon. The climate conditions used in this study also suggest the highest variation during the summer months (Fig. 3a). A wet summer month showed as high as $81 \\%$ more rainfall compared to a dry summer month in Arizona during the projected years. According to the Arizona Department of Water Resources (ADWR) (www.azwater/gov/azdwr), a $2 5 \\%$ reduction in rainfall from the long-term average can cause abnormally dry conditions in the central and western Arizona during summer. ADWR (2016) suggested that in 2016, all the major basins in the mountainous regions of Arizona have experienced a $6 \\% - 1 8 \\%$ reduction in precipitation compared to the 3O-year average. ADWR also suggested that based on the 30-year record, at any given month, the state of Arizona has a $2 \\%$ (exceptional drought) to $30 \\%$ (abnormally dry) chance of facing a drought. Multiple climate models suggest that the $2 1 ^ { \\mathrm { s t } }$ century southwest U.S. will be increasingly arid and will experience severe and prolonged droughts due to high temperature as a result of increased greenhouse gases (MacDonald, 2O1O). In the current study, the average monthly diference in rainfall amount between a wet and dry climate was found to be $1 7 . 7 \\%$ ，which can be significant for arid regions such as Arizona. Even though the AS used a median change in climate, it can be inferred from the results that the dry climate condition willreduce the storage potential even more due to the reduced rainfall Hence, a sustainable approach, as presented in the study, that can conserve both water and energy, should draw more atention in dealing with extreme conditions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A reduction in the percentage of CMPCD used for the outdoor purposes can have a significant effect on the demand side of water (Fig. 6a). Outdoor water demand can be reduced by installing water conservative facilities (appliances), water-efficient irrigation techniques,and implementing BMPs (Rossman， 2013). EPA WaterSense and SNWA water smart landscape program (www.epa.gov/watersense; www.snwa.com/rebates) also provide details on water conservation practices and guidelines that can be implemented in arid and semi-arid regions. Desert landscaping is one of the viable BMPs that can be implemented in residential setups, especially in arid regions. In this study, by implementing desert landscaping (Fig. 6b) along with a reduction in the percentage of CMPCD for the outdoor purposes, the gap between the supply and demand curves was reduced significantly. The percentage of existing houses with RRWH and the percentage of new houses to be built in the projected years with RRWH determined the total volume of water generated through RRWH (Figs. 6c and d). Among these parameters, the percentage of existing houses with RRWH was found to be the most influential as the system was found to be highly sensitive to this parameter. In the AS, the increase in water generation ( $40 0 \\%$ increase compared to the BLS), as a result of installing RRWH systems across Arizona, was found to be much higher compared to the reduction in water demand ( $41 \\%$ reduction compared to the BLS),as a result of conservative practices (Fig. 7a). Even though a detailed analysis was conducted for Arizona only, the relationships obtained can easily be relatable to other regions with similar climate conditions. The policies adopted in a number of states can be found in Forasté and Hirschman (2O1O) where they analyzed the benefits and practice credits resulting from implementing RWH as a BMP. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A $4 { \\cdot } \\mathrm { m } ^ { 3 }$ tank was chosen to capture the dynamics of the storage tanks, which was big enough to store the mean monthly water generated from the rooftops in Arizona. A detailed description of how to design an RRWH system, including sizing of the tanks, piping of the conduits, and treating of the contaminants, can be found in TCEQ (2OO7). The results indicated that the water stored in tanks, on an average, can meet up to $27 \\%$ of the monthly outdoor demand, which was not met by rainfall alone. This potentially can reduce the overall water usage. In the eastern regions with enough rainfall, the water demand can reduce up to $5 3 \\%$ using RRWH systems (Basinger et al., 2010). A smaller size of tanks (from $1 { - } 2 \\mathrm { m } ^ { 3 } .$ ) can also store a significant amount of water generated from the rooftops in Arizona depending on the climate conditions. During the months when the water generated from the rooftops exceeded the capacity of the selected tanks, the surplus water could be conveyed to a drainage disposal facility (EPA, 2O13). Even though smallr tanks might not store all the volume generated from the system during each month, they could stillplay an important role in reducing the surface runoff, especially in urban areas with very litle infiltration. Reduction in runoff potentially could reduce the cost of water treatment and maintenance of infrastructures, i.e., roadways, paved parking lots and other water disposal facilities. Basinger et al. (2O1O) observed a $28 \\%$ reduction in the runoff volume into the sewer systems as a result of implementing RRWH systems in New York City. More discussions on the benefits of rain harvested water including a reduction in cost and energy consumption can be found in Kloss (2O08) and EPA (2013). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The study showed that RRWH could be used effectively as an alternative source of water even in arid or semi-arid regions where rainfall is scarce; however, this would require a decrease on the demand side. The study suggested a few options that can effectively reduce the consumption of water on the users' end. The potential of RRWH systems could be extended by adding treatment facilities. Even though such systems would be more expensive, water stored in those systems would not be limited to outdoor purposes only. Several major cities,including Los Angeles,San Francisco, Tucson, and Portland, have published guidelines and policy documents at the municipal level to address treatment and permit requirements of RWH systems (EPA, 2013). Regions struggling with meeting water quality standards may greatly benefit from using such facilities. Implementing RWH may require legislative changes as there are water right issues involved if it is to be used on a larger scale. Regional water managers and policymakers may use simulation models, as the one presented in this study, to evaluate the holistic benefits of retrofitting RWH systems. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "An extension of the model may work as a tool to provide a cost-benefit analysis of implementing RRWH systems, especially in an urban setup, since RWH can potentially reduce the costs of water treatment and maintenance. A few factors such as the average size of a single household, the birth and death rates etc.， were considered to be uniform across all the states and may not be representative of the actual scenarios. Certain assumptions were made in the analyses to simplify the development of the model. However, the assumed simplifications also broadened the scope of the model since it alows the users to compare among several states.For higher accuracy, the model can be adjusted accordingly if a region-specific analysis is required for future applications. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Demographic data and historical records were used as inputs in a system dynamics simulation model in order to determine the efficacy of RRWH across nine states of the United States. As a special case, the state of Arizona was chosen since it had the lowest historical rainfall records among the states selected for the study and the least potential to meet the outdoor water demand with RRWH. The sensitivity of the model parameters was evaluated to determine the most influential factors affecting the efficacy of RRWH. Rainfall anomalies under different climate conditions were tested along with the variations in seasonal demand. The dynamics of storage tanks, based on the variable demand and supply, was also determined. The major findings of the study are: ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1） RRWH has significant potential to meet the outdoor water demand, even in arid regions such as Arizona, as long as the demand side of the problem is also addressed.   \n(2） The efficacy of RRWH systems are highly sensitive to the climate conditions, the number of existing households with RRWH systems, and the seasonal variation of the outdoor water demand.   \n(3) BMPs, such as desert landscaping,can significantly reduce the outdoor water demand in arid regions.   \n(4) In arid regions, small rooftop rainwater barrels (e.g., $1 . 0 { - } 2 . 0 ~ \\mathrm { m } ^ { 3 } .$ ） can potentially store a significant percentage of the monthly rainwater, which can effectively be used in the following months with less rainfall and higher demands. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The study developed a model based on the existing knowledge of RRWH systems and combined them in a tool that can be easily adjusted and modified by the users based on their needs to promptly evaluate the effects of the changes made. The versatility and interactivity of the model could be helpful to policymakers, especially for those who are facing challenges to meet an increasing water demand under changing climate conditions. The model also comes in a web-based interactive format that can easily be utilized by the interested parties. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The authors would like to thank the National Oceanic and Atmospheric Administration, U.S. Department of Commerce; U.S.EPA,Texas Water Development Board, Centers for Disease Control and Prevention National Center for Health Statistics (CDC-NCHS), U.S. Census Bureau,and Bureau of Labor Statistics, United States Department of Labor for the data used in the study. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "AhmadS,Simonovic SP.20o.Systemdynamicsmodelingofreservoiroperationsforflood management.JournalofComputing in Civil Engineering, 14(3): 190-198.   \nAngrillS,FarrenyR,GasolCM,etal.O12.Evironmentalanalysisofrainwaterharvestinginfrastructuresiniuseand compacturbanmodels of Mediterranean climate.The International JournalofLifeCycle Assssment,17(1):25-42.   \nArizona Department of Water Resources (ADWR).2016.Arizona Drought Preparedness Annual Report. [2016-09-30]. http://www.azwater.gov/AzDWR/StatewidePlanning/Drought/documents/2016Report.pdf.   \nBasingerM,MontaltoF,LallU.2010.Arainwaterharvestingsystemreliabilitymodelbasedonnonparametric stochasticrainall generator. Journal of Hydrology, 392(3-4).   \nBitermanP,TateE,VanMeterKJ,etal.2Ol6.Watersecurityndrainwaterharvesting:aconceptualframeworkandcandidate indicators. Applied Geography, 76: 75-84.   \nCainNL.2Ol0.A diferent path:the global water crisis andrainwater harvesting. Consilience:TheJournal of Sustainable Development, 3(1): 187-196.   \nChagwizaG.2016.Formulationof a nonlinear water distribution problem with water rationing: an optimisation approach. Sustainable Water ResourcesManagement, 2(4):379-385.   \nChe-Ani A I,Shaari N,SairiA,et al.2O9.Rainwaterharvesting asanalternative watersupply inthe future.European Journal of Scientific Research,34(1): 132-140.   \nChen C,hmadS,KalraA,etal.2Ol7.Adyamic modelforexploringwater-resouremanagementsenariosinaninlandaidarea: Shanshan County, Northwestern China. Journal of Mountain Science, 14(6): 1039-1057.   \nElshorbagyA,JutlaA,BarbourL,etal.2Oo5.Systedyamicsapproach tossessthesustainabilityofrclamatioofdsturbed watersheds. Canadian Journal of Civil Engineering,32(1): 144-158.   \nForasteJA,Hirschman D.2010.Amethodology forusing rainwater harvestingas a stormwater management BMP.In: Low ImpactDevelopment International Conference (LID)20l0.SanFrancisco,California,United States: ASCE,31-44. Washington, DC: Island Press, 401.   \nFord A.2011System dynamics models of environment,energyand climate change.In: Meyers RA.Extreme Environmental Events: Complexity in Forecasting and Early Warning. New York: Springer, 908-927.   \nForesterJW,SengePM.1980.Tests forbuildingconfidence insystem dynamics models.In: LegastoAAJr,ForresterJW, Lyneis JM. System Dynamics: TIMSStudies in the ManagementSciences,Vol.14.Amsterdam: North Holland Press,209- 228.   \nForrester JW.1994.System dynamics,systems thinking,and soft OR.System Dynamics Review,10(2-3): 245-256.   \nGastelum JR, Valdes JB, Stewart S.2009. A decision support systemto improve water resources management in the Conchos basin. Water Resources Management, 23(8): 1519-1548.   \nGhimire SR,JohnstonJM.2O13.Impacts of domesticandagriculturalrainwater harvesting systems on watershed hydrology:a case study in the Albemarle-Pamlico river basins (USA). Ecohydrology & Hydrobiology,13(2): 159-171.   \nGrifin RC,Chang C.1991.Seasonalityincommunity water demand.Western Journal of Agricultural Economics,16(2): 07- 217.   \nJothiprakash V,Sathe M V.2Oo9.Evaluation ofrainwater harvesting methods andstructuresusing analytical hierarchyprocess for a large scale industrial area. Journal of Water Resource and Protection, 1(6): 427-438.   \nKhadse GK,Patni PM,Talkhande AV,etal.2O16.Change indrinking waterqualityfromcatchment toconsumers: acase study. Sustainable Water Resources Management, 2(4): 453-460.   \nKloss C.2008.Managing Wet Weather with Green Infrastructure:Municipal Handbook: Green Streets.EPA-833-F-08-009 Chicago:U.S.EPA.[2015-04-29]htps://www.epa.gov/sites/production/files/2015-10/documents/gi_munichandbokgreen _streets_0.pdf   \nLiFR,Cook S,GeballeGT,etal.2oo.Rainwaterharvestingagriculture:anintegrated systefor water managementonrainfed land in China's semiarid areas. Ambio: A Journal of the Human Environment, 29(8): 477-483.   \nLim K J,EngelBA,Muthukrishnan S,etal.26.Effectsof initialabstractionandurbanizatioonestimatedrunoffusing CN technology. Journal of the American Water Resources Association, 42(3): 629-643.   \nMacDonald G M. 2O10. Water,climate change,and sustainability in the southwest. Procedings ofthe National Academyof Sciences of the United States of America, 107(50): 21256-21262.   \nMaupinMA,KennyJF,HutsonSS,etal.214.Estimateduseof waterintheUnitedStatesin2010.Reston,VA: USGeological Survey Circular,56, doi: 10.3133/cir1405.   \nMiddelkoop H, Daamen K, Gelens D,et al. 2001. Impact of climate change on hydrological regimes and water resources management in the Rhine Basin. Climatic Change, 49(1-2): 105-128.   \nMinistryof Housing and Local Government (MHLG).2008.Guidelines for installinga rainwater collction andutilization system，1999.Malaysia:Ministry of Housing and Local Government. https://www.scribd.com/document/50757240/ Guidelines-for-Installing-A-Rainwater-Collection-and-Utilization-System   \nOregon's Department of Consumer and Business Services (ODCBS).2014. Oregon Smart Guide. [2015-05-06]. http://www.oregon.gov/bcd/Documents/brochures/3660.pdf   \nQaiser K,Ahmad S,Johnson W,et al.2013.Evaluating waterconservationand reuse policies usinga dynamic waterbalance model. Environmental Management, 51(2): 449-458.   \nRahmanS,Khan MTR,AkibS,etal.2014.Sustaiabilityofrainwaterharvestingsystemintersof waterquality.TheScientific World Journal, 2014: 721357.   \nRijsberman FR. 20o6. Water scarcity: fact or fiction? Agricultural Water Management, 8O(1-3): 5-22.   \nRossman L A.2013.National Stormwater Calculator User's Guide (EPA/600/R-13/085c): (January).[2015-04-29]. http://nepis.epa.gov/Adobe/PDF/P100LOB2.pdf.   \nRusuli Y,LiLHAhmad S,etal.2O15.Dynamics modeltosimulate waterandsaltbalanceof BostenLakei Xinjiang,China. Environmental Earth Sciences,74(3): 2499-2510.   \nShammi M,RahmanR,RahmanMM,etal.2O16.Asessmentofsalinityhazard inexisting waterresources forirrigationand potentialityofconjunctiveuses: acasereportfrom Gopalganj District, Bangladesh.Sustainable WaterResources Management, 2(4): 369-378.   \nShreckengostRC.1985.Dynamicsimulationmodels:howvalidarethey?In:RouseBA,KozelNJ,RichardsLG.Self-report Methods of Estimating Drug Use: Meting Curent Challenges to Validity. Bethesda, MD: National Institute on Drug Abuse.   \nSimonovic SP,Ahmad S.2O05. Computer-based model for flood evacuation emergencyplanning.Natural Hazards,34(1): 25 51.   \nStave KA.20o3. Asystemdynamics modeltofacilitate public understandingofwater managementoptions inLas Vegas,Nevada. Journal of Environmental Management, 67(4): 303-313.   \nStermanJD.20o.BusinessDynamics: Systems Thinking and ModelingforaComplex World.NewYork: McGraw-Hi,982.   \nTamaddun K,KalraA,Ahmad S.2016.Identificationof streamflowchangesacross thecontinental United Statesusing variable record lengths. Hydrology, 3(2): 24.   \nTamaddun KA,KalraA,Ahmad S.2017a.Waveletanalysesof westernUS streamflow withENSOandPDO.Journalof Water and Climate Change,8(1): 26-39.   \nTamaddun KA, KalraA,BernardezM,etal.2017b.Multi-ScaleCorelationbetweenthe western U.S.Snow Waterequivalent and ENSO/PDO using wavelet analyses. Water Resources Management, 31(9): 2745-2759.   \nTemesgen T,Han M,Park H,etal.2O16.Policiesandstrategies toovercomebarrers torainwater harvestingforurbanuse in Ethiopia. Water Resources Management, 30(14): 5205-5215.   \nTexas CommisiononEnvironmental Quality (TCEQ).2O07.Harvesting,Storing,andTreatingRainwaterforDomesticUse (GI366). TCEQ Publication,1-52. htp://rainwaterharvesting.tamu.edu/files/2011/05/gi-366_2021994.pdf   \nTexas Water Development Board (TWDB). 2O05. The Texas Manual on Rainwater Harvesting ( $3 ^ { \\mathrm { r d } }$ ed.). [2015-05-04]. http://www.twdb.texas.gov/publications/brochures/conservation/doc/RainwaterHarvestingManual_3rdedition.pdf   \nTidwell VC,PassellHD,Conrad S H,etal.2O04.System dynamics modeling forcommunity-based waterplang:aplication to the middle Rio Grande. Aquatic Sciences, 66(4): 357-372.   \nTurner GM,Baynes TM,McInnis B C.20l0.A water accounting system for strategic water management. WaterResources Management, 24(3): 513-545.   \nUnited States EnvironmentalProtectionAgency (EPA).2013.Rainwater Harvesting:Conservation,Credit,CodesndCost Literature Review and Case Studies.[2015-05-04].https://www.epa.gov/sites/production/files/2015- 11/documents/rainharvesting.pdf.   \nVenkatesanAK,AhmadS,JohnsonW,etal.2O11.SystemsdnamicmodeltoforecastsalinityloadtotheColoradoiveue to urbanization within the Las Vegas Valley. Science of the Total Environment, 409(13): 2616-2625.   \nWard S,MemonFA,ButlerD.2010.Rainwater harvesting: model-based design evaluation. Water ScienceandTechnology: A Journal of The International Association on Water Pollution Research, 61(1): 85-96.   \nWoodhouse C A, Meko D M, MacDonald G M, et al. 2010. A 1,200-year perspective of $2 1 ^ { \\mathrm { s t } }$ century drought in southwestern NorthAmerica.ProceedingsoftheNationalAcademyofSciencesof the United StatesofAmerica,107(5O):21283-21288.   \nWorld HealthOrganization (WHO)．2009. World Health Statistics 2009. [2015-04-24]. http://www.who.int/gho/publications/world_health_statistics/EN_WHSO9_Ful.pdf.   \nYuanYP,NieW,cCutchonSC,etal.14.Iitialabtractiondureumbersforsmaridwatersedsinoutste Arizona. Hydrological Processes,28(3): 774-783.   \nZhangFY,AhmadS,ZhangHQ,etal.2O16.Smulatinglowandighstreamflowdrivenbysowmeltinaninsuficentlygauged alpine basin. Stochastic Environmental Research and Risk Assessment, 3O(1): 59-75. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

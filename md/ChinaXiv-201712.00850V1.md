@@ -1,0 +1,118 @@
+基础研究
+
+# 吲哚美辛对K562细胞株BCR/ABL-Wnt/β-catenin信号通路的 影响
+
+刘张玲,胡 晶，黄峥兰，李 会，刘 鑫,冯文莉重庆医科大学检验医学院临床检验诊断学教育部重点实验室，重庆400016摘要：目的 探讨吲哚美辛对K562细胞增殖的影响及其分子机制。方法采用不同浓度的吲哚美辛作用于K562细胞,MTT法检测其对细胞增殖的影响，克隆形成实验检测吲哚美辛对K562细胞克隆形成能力的影响。RT-PCR分别检测bcr-abl $. { \boldsymbol { \beta } } .$ -catenin的mRNA表达变化,Western blot分别检测pBCR/ABL、总BCR/ABL $\beta$ -catenin、pGSK-3β、c-myc的蛋白表达变化。结果 100、$2 0 0 . 4 0 0 \mu \mathrm { m o l / L }$ 吲哚美辛作用细胞48h后，以浓度依赖性方式抑制K562细胞的增殖和克隆形成能力。3种浓度的吲哚美辛处理K562细胞后,pBCR/ABL、总BCR/ABL的蛋白表达依次减少,而bcr-abl mRNA水平没有明显变化。 $\beta$ -cateninmRNA和蛋白水平依次减少；pGSK- $\cdot 3 \beta$ 、c-myc的蛋白水平均明显降低。结论吲哚美辛可通过抑制BCR/ABL- $\cdot \mathrm { W n t / \beta }$ -catenin信号通路的活性，从而抑制白血病K562细胞的增殖和克隆形成能力。
+
+关键词：吲哚美辛;慢性粒细胞白血病；K562细胞；BCR/ABL； $\mathrm { { W n t / \beta } }$ -catenin;信号通路
+
+# Effect of indomethacin on BCR/ABL-Wnt/ $\mathbf { \Delta } ^ { \prime } \mathbf { \beta }$ -catenin pathway in K562 cells
+
+LIU Zhangling,HUJing,HUANGZhenglan,LIHui,LIUXin,FENGWenli   
+KeyLaboratoyfedialnocofstyofucaoacultyfbatoredicigingedicalesity   
+400016, China
+
+Abstract: Objective To investigate the effect of indomethacin on the proliferation and $W \mathrm { n t } / \beta$ -catenin pathway in K562 cells. Methods ThecellgrowthofK562cels treated with diferentconcentrations of indomethacin was assessed with MTTassay andthecolony-forming abilityof the cells was evaluated by colony-forming assay. The mRNA expressions of BCR/ABL and $\beta$ catenin were detected by RT-PCR,and the protein expressions of pBCR/ABL, total BCR/ABL, $\beta$ catenin, $3 \beta$ and c-myc wereanalyzed by Western bloting.Results Indomethacin significantlysuppressd the growth and colony-forming abilityof K562cellsinadose-dependentmanner. Indomethacin treatmentdose-dependentlydecreased the protein level of pBCR/ABL and total BCR/ABL without afecting br-abl mRNA expressions.Compared with thecontrol groups, indomethacin-treated cells showed obviously decreased mRNA and protein expressions of $\beta$ catenin and decreased protein expressions of $\mathsf { p G S K } { - 3 \beta }$ andc-myc. Conclusion Indomethacin inhibits the proliferation of K562cels by suppresing theactivityof bcr-abl-Wnt/ $\beta \mathrm { . }$ catenin pathway.
+
+Key words: indomethacin; chronic myelogenous leukemia; K562 cells; BCR/ABL; Wnt/β-catenin; pathway
+
+慢性粒细胞白血病(CML)以bcr-abl融合基因为细胞遗传学标志，该基因编码的具有高酪氨酸激酶活性的BCR/ABL融合蛋白，可通过多条信号通路参与调控白血病细胞的恶性增殖、凋亡及侵袭转移等[1-2]。伊马替尼(IM)作为慢粒治疗的一线药物，通过抑制BCR/ABL融合蛋白的酪氨酸激酶活性，显著提高了患者的缓解率及其生存期。然而仍有部分患者由于对药物无法耐受，原发或者继发耐药，疾病进展等原因需要其他的治疗方法[3。因此，为CML寻找新的治疗策略至关重要。
+
+吲哚美辛是一种应用广泛的非甾体类抗炎药，具有良好的抗肿瘤作用[4。有研究显示吲哚美辛可抑制K562细胞增殖，诱导细胞凋亡，其机制与bcl-2、STAT1、STAT5等蛋白表达下调以及caspase-3、cas-pase-8的活化相关[5-7]。但是,吲哚美辛对CML白血病细胞的增殖抑制效应与BCR/ABL-Wnt $\mathrm { ^ { \prime } \beta }$ -catenin信号通路之间的关系尚不明确。本实验以CML急变期细胞株K562细胞为研究对象，采用不同浓度的吲哚美辛作用于K562细胞，观察吲哚美辛对K562细胞的增殖抑制作用是否与BCR/ABL-Wnt $\mathrm { ^ { \prime } \beta }$ -catenin信号通路的抑制相关，以丰富吲哚美辛抗白血病作用的分子机制。
+
+# 1材料与方法
+
+# 1.1细胞和试剂
+
+K562细胞由本课题组保存，用含有 $10 \%$ FBS(Gibco公司)的RPMI1640培养液培养于含 $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 恒温培养箱中，取对数生长期的细胞进行后续实验研究。吲哚美辛购自Sigma公司,c-myc抗体来源于Origene公司，pBCR/ABL（Tyr177）、总BCR/ABL、pGSK-3β（Ser9)、总GSK-3β和 $\beta$ -catenin抗体购自于美国CST公司， $\beta$ -actin抗体购自SantaCruz公司,IgG-HRP标记的二抗购自SantaCruz公司。MTT试剂、甲基纤维素购自Sigma公司。RT-PCR试剂盒购自TaKaRa公司。
+
+# 1.2MTT实验检测细胞的增殖能力
+
+收集处于对数生长期的K562细胞，按 $5 \times 1 0 ^ { 3 } ,$ 孔接种于96孔培养板中,分别加入 $1 0 0 . 2 0 0 { \scriptstyle \cdot } 4 0 0 \ \mu \mathrm { m o l / L }$ 吲哚美辛和PBS处理，同时设置试剂对照组，每组设置5个平行孔，分别培养24、48、72h后，每组的平行孔中加入 $2 ~ \mathrm { m g / m L }$ MTT溶液 $5 0 \mu \mathrm { L }$ ,继续培养 $4 \mathrm { h } , 2 0 0 0 \mathrm { r } / \mathrm { m i n }$ 离心 $1 0 \mathrm { m i n }$ ，在避光的条件下小心弃去上清。然后每孔加入 $1 0 0 { \mu \mathrm { L } }$ DMSO,震荡混匀 $5 \mathrm { m i n }$ ，在 $4 9 0 \ \mathrm { n m }$ 读取各孔的吸光度值(A)，并按如下公式计算抑制率：抑制率 $\vdots =$ [1-(药物处理组A值-试剂对照组A值)/(PBS处理组A值-试剂对照组A值)]。
+
+# 1.3细胞集落形成实验检测细胞的集落形成能力
+
+收集并计数传代培养的K562细胞，分别用不同浓度的吲哚美辛处理 $4 8 \mathrm { ~ h ~ }$ 。计数药物处理后的细胞，加入含 $20 \%$ 血清的RPMI1640培养基制成 $5 0 0 / 7 5 0 ~ \mu \mathrm { L }$ 细胞悬液，在24孔培养板中每孔接种500个细胞，并加入$7 5 0 \mu \mathrm { L } 1 . 8 \%$ 的甲基纤维素，充分混匀后置于 $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 培养箱中培养，每组设3个平行孔，培养10d后，计数细胞集落数(每50个细胞为1个集落),比较各组集落形成数的差异。
+
+表1引物序列 Tab.1 Sequences of the primers   
+
+<html><body><table><tr><td>Gene</td><td>Upstream primer (5'-3')</td><td>Downstream primer (5'-3')</td><td>Product length (bp)</td></tr><tr><td>β-catenin</td><td>GTGTGGCGACATATGCAGCT</td><td>CAAGATCAGCAGTCTCATTC</td><td>141</td></tr><tr><td>bcr-abl</td><td>CCACAAGGAGTTCTATGATG</td><td>CAGCACTTCTCAGCCATT</td><td>150</td></tr><tr><td>β-actin</td><td>TGAAGTACCCCATCGAGCACGGCA</td><td>GATAGCACAGCCTGGATAGCAACG</td><td>225</td></tr></table></body></html>
+
+# 1.4RT-PCR检测基因表达变化
+
+收集吲哚美辛处理 $4 8 \mathrm { ~ h ~ }$ 后的K562细胞，TRIzol抽提细胞的总RNA，逆转录成cDNA，以其为模版进行PCR检测。以人 $\beta$ -actin为内参,RT-PCR法分别检测各组细胞中 $\beta$ -catenin，bcr-abl的表达。特异性扩增引物见表1。PCR扩增条件为： $9 4 ~ \mathrm { ^ { \circ } C }$ 预变性 $5 \mathrm { m i n } , 9 4 \mathrm { ~ \textdegree C }$ 变性$3 0 \mathrm { ~ s } , 5 2 \mathrm { ~ \textdegree C }$ 退火 $3 0 \mathrm { ~ s } , 7 2 \mathrm { ~ \textdegree C }$ 延伸 $3 0 ~ \mathrm { s }$ ，共30个循环； $7 2 \ \mathrm { { ^ \circ C } }$ 充分延伸 $5 \mathrm { m i n }$ 。PCR扩增产物经凝胶电泳检测，凝胶图像分析系统进行分析。
+
+# 1.5Westernblot检测蛋白水平表达
+
+收集吲哚美辛处理后的细胞，按说明书操作，分别提取细胞总蛋白，考马斯亮蓝G250法测蛋白质浓度。取 $8 0 ~ \mu \ g$ 细胞蛋白提取液，用 $8 \%$ 的分离胶分离蛋白质，通过半干转膜仪将目的蛋白转移到PVDF膜上， $5 \%$ 脱脂奶粉室温封闭 $^ { 4 \mathrm { ~ h ~ } }$ ,分别孵一抗和IgG-HRP标记的二抗,TBST洗涤后用化学发光法进行显色。以 $\beta$ -actin作为内参照。采用Quantity One软件对Western blot条带进行分析。
+
+# 1.6统计学处理
+
+采用SPSS17.0统计软件进行结果分析，实验结果的计量数据以均数 $\trianglerighteq$ 标准差表示，数据之间比较采用单因素方差分析，两两比较用SNK法。以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1MTT试验分析吲哚美辛对K562细胞增殖的影响
+
+MTT实验结果可见： $1 0 0 . 2 0 0 { \scriptstyle \sqrt { 4 0 0 } } \ \mu \mathrm { m o l / L }$ 吲哚美辛处理K562细胞后，处理组的A值显著降低，显示活细胞数量明显减少，说明K562细胞的增殖受到抑制。此外，吲哚美辛抑制K562细胞增殖的最佳时间为 $4 8 \mathrm { { h } }$ ，并且随着药物浓度的增加，其增殖抑制效应逐渐增强(图1)。药物处理组与PBS处理组之间的差异具有统计学意义 $( P { < } 0 . 0 5 )$ O
+
+![](images/f2f422b784d57b7fb1afe0a96bda00cbf3c1124aad281801fa0e1f231fceb1a9.jpg)  
+图1MTT试验分析吲哚美辛对K562细胞增殖能力的影响 Fig.1 Growth of K562 cells treated with indomethacin for 24, 48, and $7 2 \mathrm { { h } }$ determined by MTT assay.
+
+# 2.2细胞集落形成试验分析吲哚美辛对K562细胞集落形成能力的影响
+
+集落形成试验结果显示：对照组K562细胞(PBS处理组)的集落形成未受影响，而 $1 0 0 . 2 0 0 { \sqrt { \scriptstyle 4 0 0 } } \ \mu \mathrm { m o l / L }$ 吲哚美辛处理组的集落数明显减少。PBS处理组的集落数为 $3 0 0 { \pm } 2 5 \$ ，药物处理组的集落数分别为 $2 2 5 { \pm } 2 0$ ）$1 2 4 { \pm } 1 4 . 8 0 { \pm } 9$ ，与PBS处理组相比，差异具有统计学意义(图 $2 , P { < } 0 . 0 5 \$ ）
+
+![](images/a04870c15559760db7ca1621339b124298d1e67230a7eff2a112145216d41bcc.jpg)  
+图2吲哚美辛对K562细胞集落形成能力的影响 Fig.2 Effectof indomethacin on colony-formingability ofK562 cells.
+
+2.3吲哚美辛对K562细胞中BCR/ABL基因和蛋白表达的影响
+
+RT-PCR和Westernblot检测结果可见，用100、$2 0 0 \phantom { 0 } . 4 0 0 \phantom { \frac { 1 } { 1 } } \mu \mathrm { m o l } / \mathrm { L }$ 吲哚美辛处理K562细胞 $^ { 4 8 \mathrm { ~ h ~ } }$ 后，bcr-ablmRNA水平并没有明显的变化（图3A)；而pBCR/ABL、总BCR/ABL的蛋白表达水平明显减少，药物处理组与PBS处理组之间的差异有统计学意义L $\scriptstyle \overbrace { P < 0 . 0 5 }$ ，图3B)。
+
+# 2.4吲哚美辛对K562细胞中 $\beta$ -catenin基因和蛋白表达的影响
+
+RT-PCR和Westernblot结果显示，用100、200、$4 0 0 \mu \mathrm { m o l / L }$ 吲哚美辛处理K562细胞 $4 8 \mathrm { ~ h ~ }$ 后， $\beta$ -catenin的mRNA水平随着浓度的增加依次减少（图4A）；$\beta$ -catenin的蛋白表达水平也依次降低，药物处理组与PBS处理组之间的差异有统计学意义（ $P { < } 0 . 0 5$ ，图4B)。
+
+![](images/4f5ed3bd75184f52b9df9211cf4165a66c56589757f0b15ec070f161d3ce4183.jpg)  
+图3吲哚美辛对K562细胞中BCR/ABL基因和蛋白表 达的影响 Fig.3 Effect of indomethacin on mRNA and protein expressions of BCR/ABL in K562 cells.A:Expression of bcr-abl mRNA detected by RT-PCR.M:DNA marker DL200O;B:Expression of pBCR/ABL and total BCR/ABL proteins detected by Western blotting. $\beta$ actin served as the loading control. C:Quantitative analysis of the results of Western blotting. $^ { * } P { < } 0 . 0 5$ Us control groups.
+
+![](images/b0416537c233c185dbd37b074541fd37498fd0626cc709906489ad9fb0873b12.jpg)
+
+![](images/8737ccba822e86515666e88da21551c4aad5f952470cc9edfe5b3a76af17c2a1.jpg)
+
+图4吲哚美辛对K562细胞中 $\beta$ -catenin基因和蛋白表 达的影响 Fig.4 Effect of indomethacin on mRNA and protein expressions of $\beta$ -catenin in K562 cells.A:Expression of $\beta$ -cateninmRNAdetected byRT-PCR.M:DNA marker DL2000;B: Expression of $\beta$ -catenin protein detected by Western blotting. $\beta \cdot$ actin served as the loading control; C:Quantitative analysis of Wester blotting results. $^ { * } P <$ 0.05 us control groups.
+
+# 2.5吲哚美辛作用K562细胞对pGSK-3β(Ser9)、c-myc蛋白表达的影响
+
+Westernblot结果可见：K562细胞经100、200、$4 0 0 \ \mathrm { \mu m o l / L }$ 吲哚美辛处理 $^ { 4 8 \mathrm { ~ h ~ } }$ 后， $\mathrm { p G S K } { - } 3 \beta ( \mathrm { S e r } 9 )$ 和c-myc的蛋白表达明显降低，该效应呈浓度依赖性，而总GSK-3β的蛋白表达无明显变化。药物处理组与PBS处理组之间的差异有统计学意义（ $\scriptstyle \left( P < 0 . 0 5 \right.$ ，图5）。
+
+AXIN1(轴蛋白），CK1(酪蛋白激酶1),GSK-3β(糖原合成激酶-3β),APC(大肠腺瘤息肉)蛋白和 $\beta$ -catenin结合形成复合物，促进GSK-3β对 $\beta$ -catenin的磷酸化，从而促进 $\beta$ -catenin在胞浆中发生蛋白酶体依赖的降解，使$\beta$ -catenin在细胞质内的游离量保持在较低水平[10]。当细胞发生异常时，GSK-3β被Wnt信号蛋白磷酸化为pGSK-3β(Ser9)而失活,失活的pGSK-3β(Ser9)无法使$\beta$ -catenin被磷酸化而降解，未降解的 $\beta \cdot$ -catenin在胞浆中大量积累并进入细胞核中，进而激活fibronectin、c-myc等癌相关蛋白的转录，使细胞过度增殖和凋亡受阻[1-12]。因此,找到靶向作用于 $\mathbf { \nabla } \cdot \mathbf  \{ \beta \$ -catenin的药物或者治疗手段对于CML急变的预防和治疗具有重要意义。
+
+# 3讨论
+
+$\mathrm { { W n t / \beta } }$ -catenin信号通路参与调节细胞的增殖、分化和凋亡等病理生理过程，其过度激活与CML的耐药和急变密切相关[8-9]。作为此条信号通路的关键调控蛋白， $\beta$ -catenin发挥了不可或缺的作用。在正常状态下，
+
+研究发现吲哚美辛能够降低CML干细胞中$\beta$ -catenin的蛋白表达，使用吲哚美辛联合IM共同作用于CML小鼠的白血病干细胞，其对 $\beta$ -catenin的抑制作用明显高于单独使用吲哚美辛或者伊马替尼[13]。但是在K562细胞中吲哚美辛能否抑制 $\beta$ -catenin的表达及其机制尚不明确。Coluccia等4证明在CML急变期细胞中BCR/ABL能够通过其自身的磷酸化水平从而直接或者间接调控β-catenin的表达及活性。因此,我们推测在K562中吲哚美辛也可能通过抑制BCR/ABL融合蛋白的活性,进而调控 $\mathrm { { W n t / \beta } }$ -catenin信号通路的生物学活性，影响细胞的生长增殖。
+
+本实验选用吲哚美辛处理K562细胞，检测其对K562细胞生长增殖的影响，同时测定BCR/ABL及$\mathrm { { W n t / \beta } }$ -catenin信号通路相关蛋白的表达变化，从而探讨其抑制K562细胞生长增殖的分子机制。实验结果发现吲哚美辛能够抑制K562细胞的增殖，降低细胞的集落形成能力，其机制与pBCR/ABL、总BCR/ABL的蛋白表达减少相关，然而bcr-abl的mRNA表达水平并没有明显变化，我们推测吲哚美辛可能从蛋白水平调控BCR/ABL的致癌活性,促进BCR/ABL的降解。同时，随着吲哚美辛浓度的增加，GSK-3β的磷酸化水平依次降低，那么活化的GSK-3β对 $\beta$ -catenin的磷酸化降解能力增加，从而使 $\beta$ -catenin的蛋白表达减少，说明吲哚美辛确实可以通过抑制BCR/ABL的磷酸化水平进而增强GSK-3β的活性，从而降低 $\beta$ -catenin的蛋白表达。此外，我们还检测到β-catenin的下游靶基因c-myc的蛋白表达量也依次降低，进一步说明了吲哚美辛可能通过调控BCR/ABL及其自身的磷酸化水平,进而调控Wnt/$\beta \cdot$ -catenin信号通路的活性。值得注意的是，本研究还检测到吲哚美辛能够降低 $\beta$ -catenin的mRNA表达，推测吲哚美辛可能通过细胞内其他信号通路来调控$\beta \cdot$ -catenin的基因表达，这还有待于进一步研究。
+
+综上所述，本实验证实了在K562细胞中吲哚美辛能够抑制细胞的增殖和集落形成能力，其机制可能与抑制BCR/ABL-Wnt/ $\beta$ -catenin信号通路的活性有关。该结果为进一步研究吲哚美辛抗白血病作用的具体分子机制奠定了基础。然而，吲哚美辛是如何下调细胞内BCR/ABL和pBCR/ABL的蛋白表达以及其他NSAIDs是否同样可以作用于该通路还有待进一步研究证实。
+
+# 参考文献：
+
+[1]Quintas-Cardama A,Cortes J.Molecular biology of bcr-abll-positive chronic myeloid leukemia [J].Blood,20o9，113(8):1619-30.
+
+[2」Benjamini O,Kantarjian HM,O'brien S,et al.Combination chemotherapy with tyrosine kinase inhibitors can overcome Bcr-Abl mutations in acute lymphoblastic leukemia or blast crisis CML[J].Bl0od,2013,122(21): 2734-9.   
+[3]Kuroda J,Shimura Y,Yamamoto-Sugitani M,et al. Multifaceted mechanisms for cell survival and drug targeting in chronic myelogenous leukemia[J]. Curr Cancer Drug Targets,2013,13(1): 69-79.   
+[4]Abdulkareem IH, Blair M. Effects of indomethacin on expression of PTEN tumour suppressor in human cancers [J].Niger Med J, 2013,54(2): 100-6.   
+[5] Zhang G,Fu Y.Antiproliferative effect of indomethacin on CML cells is related to the suppression of STATs/Bcl-XL signal pathway [J].Ann Hematol, 2006,85(7): 443-9.   
+[6]Zhang G,Tu C, Zhang G,et al. Indomethacin induces apoptosis and inhibits proliferation in chronic myeloid leukemia cells［J].Leuk Res,2000,24(5): 385-92.   
+[7］周光飚,张广森.吲哚美辛诱导K562细胞凋亡过程中半胱天冬酶及 细胞内游离钙浓度的变化[J].中华血液学杂志,2001,22(5):16-9,57.   
+[8]Fung TK,Leung AY, So CW. The $\mathrm { { W n t / \beta } }$ Catenin pathway as a potential target for drug resistant leukemic stem cells[J]. Stem Cells Cancer Stem Cells,2013,10:163-72.   
+[9]Reddiconto G, Toto C,Palama I, et al. Targeting of GSK3β promotes imatinib-mediated apoptosis in quiescent $\mathrm { C D } 3 4 +$ chronic myeloid leukemia progenitors,preserving normal stem cells [J]. Blood,2012,119(10): 2335-45.   
+[10]Macdonald BT, Tamai K，He X.Wnt/beta-catenin signaling: components,mechanisms,and diseases [J].Dev Cell, 2009,17(1): 9-26.   
+[11]He TC,Sparks AB,Rago C,et al.Identification of c-MYC as a target of the APC pathway[J]. Science,1998,281(5382): 1509-12.   
+[12]Tetsu O, Mccormick F. Beta-catenin regulates expression of cyclin D1 in colon carcinoma cells[J]. Nature,1999,398(6726): 422-6.   
+[13]Heidel FH,Bullinger L,Feng Z,et al. Genetic and pharmacologic inhibition of $\beta$ -catenin targets imatinib-resistant leukemia stem cells in CML[J]. Cell Stem Cell,2012,10(4): 412-24.   
+[14]Coluccia AM, Vacca A,Dunach MA,et al. Bcr-Abl stabilizes betacatenin in chronicmyeloid leukemia through itstyrosine phosphorylation[J].EMBO J,2007,26(5): 1456-66. (编辑.级摇)

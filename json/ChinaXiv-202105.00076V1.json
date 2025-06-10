@@ -1,0 +1,535 @@
+[
+    {
+        "type": "text",
+        "text": "自动驾驶汽车与行人交互中的沟通界面设计：基于行人过街决策模型的评估",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒋倩妮 庄想灵 马国杰 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（陕西省行为与认知心理学重点实验室暨陕西师范大学心理学院，西安710062）",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要自动驾驶汽车要进入人车混行的普通道路，需确保与过街行人之间的交互安全和效率。为解决这一问题，高等级自动驾驶车辆往往在在车辆外部装置显示设备，即外部人机界面（eHMIs）以和行人沟通信息。在具体设计上，已有研究主要采用文字、图形、投影等视觉沟通形式，传达车辆状态(是否在自动驾驶模式)、意图和对行人的过街建议等沟通信息，并在真实路段实验、虚拟场景及实验室实验等情境中评估了界面的使用对行人过街意向、速度和准确性等指标的影响。然而，以行人为中心的外部界面设计需系统地支持行人过街决策前各阶段的信息加工需求。因此，我们结合行人过街决策过程和情境意识理论，提出行人与自动驾驶车辆交互中的动态过街决策模型，从行人认知加工视角评估各种界面的沟通效果。评估的结果启示，eHMIs 应促进行人对车辆信息的感知、理解和预测。在感知阶段，应采用多种类型界面、多呈现载体相结合，增强信息的可识别性。在理解阶段，需结合文字说明、合理选择沟通视角、信号标准化和培训提高可理解性。在预测阶段，应结合车辆内隐运动信息，帮助行人快速准确获取车辆未来行动意图。更重要的是，未来研究应关注在多行人、多车辆混行情境下的信息沟通设计及其对行人的影响。理论方面，未来研究也需要关注外部界面如何通过自下而上的通路影响情境意识和心智模型的形成。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词自动驾驶汽车，外部人机交互界面，eHMI，行人过街决策模型，行人安全 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自动驾驶汽车是一种通过电脑系统驾驶的智能汽车，拥有包括感知和决策在内的自动化系统。感知系统利用多种传感器来评估车辆状态，了解周围的交通状况。决策系统则基于感知系统获得的信息、交通规则，让车辆将乘客安全、舒适地送达目的地(Badue et al.,2019)。虽然研究者预期自动驾驶汽车能有效降低人为失误导致的交通事故发生率，提升道路交通安全(Vissers et al.,2016)，但真正将其引入当前交通系统前仍需考虑可能给其他道路参与者带来的潜在安全风险。本文关注自动驾驶汽车（尤其是L3级以上自动驾驶汽车）与行人沟通时的界面设计如何满足行人的过街信息加工需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从行人的角度看，在做出正确的过街决策前，首先要对交通场景形成正确的情境意识(Situation Awareness)，即对车辆行为进行准确地感知、理解和预测(Palmeiro et al.,2018)。在传统的人车交互中，行人依靠自下而上的沟通信号和自上而下的预期形成判断，但当交互对象变为自动驾驶汽车时，这两种判断线索都可能变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一方面，在传统的自下而上的车辆信息加工路径中，行人可以通过人类驾驶员发出的各种信号（挥手、眼神交流、闪灯、微笑等）判断自己是否被车辆注意到，并且根据这些信息判断当前过街是否安全 (Suchaet al.,2017)。但当自动驾驶汽车出现后，车辆驾驶行为由电脑系统控制，驾驶员可以将注意力适当远离驾驶任务，仅在一些特殊情境接管车辆。因此，来自驾驶员的线索可靠性程度下降。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另一方面，在自上而下的车辆信息加工路径上，在传统人车交互中，行人对车辆的预期会受到知识经验和非正式交通规则的影响(Bjorklund&Aberg,2005)。例如，如果正在过街的行人观察到驾驶员注视自己，就会预期驾驶员已经看到自己，应该会停车等待自己完成过街才加速前进。当交互对象变为自动驾驶汽车时，行人可能疑惑车辆是否注意到自己而产生不安全感，也可能固守传统的交互经验可能会导致错误的过街决策。另外，汽车的自动化是一个逐步提升的过程，在从0级（任何情况下都由驾驶员完全控制车辆）到5级（自动驾驶汽车独立操作，任何情况下车辆行为都无需人类干预）的过程中，车辆的自动化水平会不断地提升(SAE,2016)。目前，全自动驾驶汽车还处于道路测试阶段。在全自动驾驶汽车完全取代普通汽车之前，行人将面对一个不同自动化水平汽车共存的过渡期交通系统。在这个过渡期，行人可能无法准确识别交互车辆的自动化水平，因此无法适时地切换针对不同车辆类型的心理模型，从而影响对车辆行为判断的准确性。当道路使用者基于对普通汽车的过往经验，或对自动驾驶汽车未经证实的、不现实的期望来预测自动驾驶汽车的行为时，他们可能产生错误预期，导致交通事故的发生(Hagenzieker et al.,2019; Vissers et al.,2016)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，自动驾驶汽车与道路使用者的交互安全程度成为当前评估其安全性的重要指标(Vissers etal.,2016)。而保证自动驾驶车辆与行人安全交互的前提是二者形成有效的沟通。从汽车设计的角度看，这意味着自动驾驶车辆必须增加额外的交互信息，以弥补在传统情境中由驾驶员提供的交互信息的缺失，帮助行人形成正确的情境意识。这对道路安全和行人对自动驾驶汽车的接受度都极为重要(Deb etal.,2017)。因此，本文梳理了已有研究，在第二部分，总结了自动驾驶汽车在交互中需要呈现的沟通信息内容。在第三部分，系统分析了当前呈现沟通信息的方式，并以表格形式对界面类型、沟通信息内容、研究者采用的评估方式及指标进行了整理。除了系统梳理以往研究，本文在第四部分整合了情境意识模型(Endsley,1995)和已有的行人动态过街决策模型(Palmeiro et al.,2018)提出了行人与自动驾驶车辆交互中的动态决策模型。以该模型为基础，从行人信息加工的视角提出提升沟通界面设计的改进建议。总体上，本文为基于理论的eHMIs 设计和评估提供新的视角和方向，也为新的人车交互情境下行人信息加工和安全促进提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2自动驾驶汽车与行人沟通的信息内容 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如前所述，自动驾驶车辆给行人与车辆交互带来了交互线索的不确定性，有必要通过其他方式进行弥补。目前，大量研究关注如何设计自动驾驶车辆才能满足行人的信息加工需求（见下节）。这些研究的前提是明确行人与车辆交互中除了传统的车辆和坏境信息，还需要哪些额外的信息才能更高效地做出安全的决策。通常，在车辆行为符合预期的情况下，行人对自动驾驶汽车与对普通汽车的交互需求差异不大(Madigan et al.,2019; Rothenbucher et al.,2016)。行人需要获取车辆运动信息和驾驶员反馈信息来作为过街决策的参考。其中，当自动驾驶汽车与行人交互时，驾驶员反馈信息缺失或不可靠，因此汽车需要向行人提供额外的交互信息以弥补非言语信息的缺失。此外，自动驾驶汽车还需要向行人提供关于车辆驾驶模式和未来行动意图的信息，以提升交互安全性和效率（Schieben et al.,2018;Woodman et al.,2019)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于以上总结的道路使用者交互需求，自动驾驶汽车需要传达的信息内容包括车辆物理信息、车辆意识与意图、行人过街建议。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）车辆物理信息：包括车辆的驾驶模式和运动信息。例如，车辆是否在自动驾驶模式，在加速还是减速。提供这类信息能够帮助行人形成对自动驾驶汽车行为的正确预期(Schiebenet al.,2018)。车辆驾驶模式信息能够减小驾驶员线索的缺失对人-自动驾驶汽车交互过程造成的负面影响(Faas et al.,2020)。车辆运动线索能为行人提供参考信息，帮助他们推断车辆的未来运动状态，从而做出安全的过街决策(Lundgren et al.,2017)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）车辆意识与意图：车辆意识是车辆探测到行人后向行人提供的反馈信息，车辆意识可以让行人明确车辆是否已经探测到自己；在此基础上，车辆通常需要结合路况、行人动态信息识别等基础上智能决定下一步行动方案。这里要沟通的车辆意图是其未来行动（如是否会让行）的预告信息(Mahadevan etal.,2018)。同时传达关于车辆意识和意图的信息比仅提供车辆运动线索更能对交互效果产生积极的影响(Faas etal.,2020)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）行人过街建议：向行人传达过街指导或建议信息（如“请过街”），支持行人过街决策。这类信息是在车辆意图的基础上转换了信息呈现的视角。例如车辆做出了“让行”的行动规划，为了明确提示行人“可以通行”，在自身意图上沟通内容为“即将停车”，在行人过街建议上沟通内容为“请过街”。相比车辆状态和意图信息，研究者认为交互过程中更适合呈现行人建议信息(Ackermann,Beggiato,Schubert,& Krems,2019)。但当交通场景中存在多名道路使用者时，需要避免非目标行人接收到信息，并做出错误的过街决策而产生的危险。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3自动驾驶汽车与行人沟通的方式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自动驾驶车辆需要发展出与沟通内容相适应的沟通方式来传递交互信息。交流方式主要包括内隐和外显两种。内隐交流是指只通过车辆前进中的伴随线索（如速度变化、改变运动轨迹等）来传递车辆信息，外显交流主要采用单独设计的听觉和视觉信号来呈现沟通信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1内隐沟通方式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在传统的人车交互中，车辆提供的信息，尤其是车辆距离与车速是行人判断是否过街的关键因素(Dey et al.,2017;Li et al.,2018)。在引进自动驾驶汽车后，车辆的运动模式依旧是人车交互过程中辅助行人决策的重要线索(Fridman et al.,2017; Mahadevan et al.,2018; Mooreet al.,2019)。当自动驾驶汽车的运动符合道路使用者的预期时，单纯的内隐沟通就能满足他们的交互需求(Dey& Terken,2017)。Fuest 等人(2018)指出，车辆采用的内隐沟通方式主要是通过改变运动状态（如速度、运动轨迹等）向道路使用者传递信息。例如，车辆通过减速行为传递自己即将让行的信息。在这种思路下，有研究者测量了车辆减速方式对行人决策时间的影响。他们发现减速速率越高，行人就越容易、越快感知到车辆的减速行为，但快速的减速行为会让行人感觉到不适。因此，驾驶员可以从较远的地方开始，以较低的减速速率平缓减速。这会对行人的过街决策产生积极影响(Ackermann,Beggiato,Bluhm,et al.,2019;Schneemann & Gohl, 2016)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "虽然内隐沟通方式提供的交互信息在一些情况下已经足够，但是当车辆行为违背行人预期，或者行人需要快速准确识别车辆意图时，车辆还是需要采用外显沟通方式对交互信息进行补充(Dey& Terken,2017)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2外显沟通方式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mahadevan 等人(2018)在研究行人过街决策时发现，相比于只呈现车辆运动信息，向行人呈现车辆意图和意识的外显沟通方式能产生更积极的交互效果。当自动驾驶汽车装载显示屏后，可以通过外显方式向行人传递车辆意图，从而有效解决人车交互时，意图沟通失败导致的冲突(Matthews et al.,2017)。因此，研究者们设计出外部人机交互界面 eHMIs，呈现车辆状态、运动意图信息，以代替缺失的驾驶员线索，满足行人交互需求。同时，界面的使用能辅助行人形成对自动驾驶汽车行为的正确预期，从而提高人车交互的准确性和安全性(Eisma et al.,2019)。为了确保信息的准确传达，研究者们提出设计eHMIs 时要满足四点基本准则：信息内容标准化，给行人明确的过街建议，信号内容直观且易理解，以及要与当前的沟通方式相似(Ackermann, Beggiato,Schubert,& Krems,2019)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "eHMIs 还可以把车辆的内隐运动信息（如车辆加减速等）通过视觉或听觉等方式外显地展示出来(Eisma etal.2019)。将eHMIs提供的信号与车辆运动相结合的方式不仅能提高内隐信息在较远距离的可识别性，还可以帮助行人在车辆行为与预期不符时快速、准确地识别车辆意图(Lagstrom& Lundgren,2015; Lee et al.,2019; Mahadevan et al.,2018)。但需要注意的是，通过eHMIs 呈现的信息要和车辆本身的内隐信息（速度、刹车行为等）保持一致并及时同步(Madigan et al.,2019; Schieben et al.,2018)，才能保证行人对沟通信息的准确理解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于eHMIs 的这些优势与设计原则，研究者们在真实路段、虚拟场景或呈现图片/视频材料的条件下对eHMIs 的设计和使用效果进行了评估。评估对象主要包含采用视觉和听觉两种方式的交互界面，表1总结了这些界面提供沟通的信息内容，以及对界面的评估方式和评估指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/08374b9ff6e7c1aaa6309386ac44e3818deaa0cd1b4bf3c9d2f9ce26109100cf.jpg",
+        "table_caption": [
+            "表1当前研究者设计的eHMIs（外部人机交互界面）总结"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">当前eHMIs及来源</td><td colspan=\"3\">沟通信息内容</td><td colspan=\"5\">评估方式</td><td colspan=\"3\">评估指标a</td></tr><tr><td rowspan=\"2\">界面类型</td><td rowspan=\"2\">呈现信息</td><td rowspan=\"2\">研究</td><td>车辆物</td><td>车辆意识</td><td>行人</td><td>真实路</td><td>虚拟场</td><td>视频/图</td><td>焦点</td><td>问卷</td><td>安全</td><td>过街</td><td>辨识度、理解</td></tr><tr><td>理信息</td><td>与意图</td><td>建议</td><td>段实验</td><td>景实验</td><td>片实验</td><td>小组</td><td>调查</td><td>感</td><td>决策</td><td>度等基本评估</td></tr><tr><td>拟人界面</td><td>模拟眼睛</td><td></td><td>8</td><td>13</td><td>12</td><td>7</td><td>8</td><td>5</td><td>2</td><td>7</td><td>11</td><td>10</td><td>9</td></tr><tr><td></td><td>微笑*</td><td>Chang et al., 2017 de Clercq et al., 2019</td><td></td><td></td><td></td><td></td><td>·</td><td></td><td></td><td></td><td>·</td><td>·</td><td></td></tr><tr><td></td><td>模拟面部</td><td>Mahadevan et al., 2018</td><td></td><td>· ·</td><td></td><td></td><td>·</td><td></td><td></td><td></td><td></td><td>·</td><td></td></tr><tr><td></td><td>手势</td><td>Mahadevan et al., 2018</td><td></td><td></td><td></td><td>·</td><td></td><td></td><td></td><td></td><td></td><td>·</td><td></td></tr><tr><td>文字界面</td><td>实时车速</td><td>Clamann et al., 2017</td><td>.</td><td></td><td>.</td><td>·</td><td></td><td></td><td>·</td><td></td><td></td><td>·</td><td></td></tr><tr><td></td><td>\"Waiting”</td><td>Eisma et al., 2019</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>.</td><td></td></tr><tr><td></td><td>“I see you”</td><td>Mahadevan et al., 2018</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>“Braking”</td><td>Deb et al., 2018</td><td></td><td>： ·</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>\"WILL</td><td>Bazilinskyy et al.,2019</td><td></td><td></td><td>.</td><td></td><td></td><td></td><td></td><td>.</td><td></td><td></td><td></td></tr><tr><td></td><td>STOP\"/\"WALK\"</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>\"Walk\"/\"Don't</td><td>de Clercq et al., 2019</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>.</td><td></td></tr><tr><td></td><td>Walk”</td><td>Kooijman et al., 2019</td><td></td><td></td><td></td><td></td><td>·</td><td></td><td></td><td></td><td></td><td>.</td><td></td></tr><tr><td></td><td>\"Cross Now”</td><td>Matthews et al., 2017</td><td></td><td></td><td>：</td><td>.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>图形界面</td><td>“GO\"'\"OK\"</td><td>Song et al., 2018</td><td></td><td></td><td>·</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>大>>></td><td>Otherson et al., 2018</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Velasco et al, 2019</td><td></td><td></td><td>·</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>xxx</td><td>Chen et al.,2020</td><td></td><td></td><td></td><td></td><td>.</td><td></td><td></td><td></td><td></td><td>.</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3317529a0bfcb6377c15d8d0c2df59a430cf3fd4bfcadcbb4844527eac2b0d3b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：1.表格中包含※的eHMIs属于模糊信号，研究者设计的传递的信息内容与被试的理解存在差异，或是被试无法通过此类界面理解到其所表达的信息含义。2.表格中所有研究仅列出第一作者a评估指标指针对行人评估：过街决策包含决策意向、速度，准确性。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">当前eHMIs及来源</td><td colspan=\"3\">沟通信息内容</td><td colspan=\"4\">评估方式</td><td colspan=\"3\">评估指标a</td></tr><tr><td>界面类型</td><td>呈现信息</td><td>研究</td><td>车辆物 理信息</td><td>车辆意识 与意图</td><td>行人 建议</td><td>真实路 段实验</td><td>虚拟场 景实验</td><td>视频/图 片实验</td><td>焦点 问卷 小组 调查</td><td>安全 感</td><td>过街 决策</td><td>辨识度、理解 度等基本评估</td></tr><tr><td></td><td></td><td>Fridman et al., 2017</td><td></td><td>·</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>灯光界面*</td><td>灯光颜色</td><td>Zhang et al., 2017</td><td>·</td><td>：</td><td></td><td></td><td></td><td></td><td>.</td><td></td><td></td><td></td></tr><tr><td rowspan=\"5\"></td><td></td><td>Faas & Baumann,2019</td><td>.</td><td></td><td></td><td>.</td><td></td><td></td><td>.</td><td></td><td></td><td></td></tr><tr><td>闪烁灯光</td><td>Faas et al., 2020</td><td>.</td><td>.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>灯带闪烁/流动</td><td>Lee et al., 2019</td><td></td><td>·</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>.</td></tr><tr><td>动态灯带系统</td><td>Habibovic et al.,2018</td><td>.</td><td>·</td><td></td><td>.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Lagstrom et al., 2015</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>投影界面</td><td>灯带警告系统</td><td>Li et al., 2018</td><td></td><td></td><td></td><td></td><td></td><td>.</td><td></td><td>.</td><td></td><td></td></tr><tr><td rowspan=\"5\"></td><td>\"Waiting”</td><td>Eisma et al.,2019</td><td></td><td></td><td></td><td></td><td></td><td>.</td><td></td><td>.</td><td></td><td></td></tr><tr><td>蓝色箭头</td><td>Burns et al., 2019</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>人行横道</td><td>Ackermann et al., 2019</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>智慧道路</td><td>Bazilinskyy et al.,2019</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>.</td><td></td><td></td></tr><tr><td></td><td>Locken et al., 2019</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>.</td><td></td><td></td></tr><tr><td rowspan=\"4\">语言听觉界 面</td><td>I see you</td><td>Mahadevan et al., 2018</td><td></td><td></td><td></td><td>.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>cross</td><td>Mahadevan et al., 2018</td><td></td><td></td><td>.</td><td>.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Safe to cross</td><td>Deb et al., 2018</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Hudson et al., 2018</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>非语言听觉 界面</td><td>音乐、喇叭声</td><td>Deb et al., 2018</td><td></td><td></td><td></td><td></td><td>.</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.1视觉沟通方式",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.模拟驾驶员沟通线索的替代型交互界面",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "行人过街决策受到车辆相关线索和驾驶员线索的共同影响 (Lundgren etal.,2017)，驾驶员线索的缺失可能会导致行人对车辆的信任感降低(Mahadevan et al.,2018)。因此，研究者设计出了能提供替代信息的模拟人类驾驶员沟通线索的 eHMIs(Eisma etal.,2019)。这类eHMIs包含拥有拟人化的机械手臂(Mahadevan et al.,2018)、眼神交流系统(eyes on a car：Chang etal.,2017)和面部表情(Deb etal.,2018)等交互界面，以及替代驾驶员向行人提供车辆意图信息的意图交流系统(ICS：Matthews etal.,2017)。与未装载 eHMIs 的车辆相比，提供替代型线索的车辆能够加速行人的决策过程，同时提高行人感知到的安全程度(Chang et al.,2017)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.文字界面",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "文字沟通形式适用于呈现简短、明确的信息。研究者常用文字信息向行人呈现当前车辆状态（如实时车速信息：Clamann et al.,2017）、意图（如‘Braking'：Deb etal.,2018；‘WILLSTOP':Bazilinskyy et al.,2019）或对行人的指示（如‘WALK':de Clercq et al.,2019;‘CrossNow'：Matthews etal.,2017）。文字信息不需要被刻意地学习，能更明确地传达车辆的让行意图，且更具说服力，也让行人感觉更安全(Ackermann,Beggiato,Schubert,&Krems,2019;de Clercq et al., 2019; Kooijman et al., 2019)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.图形界面",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图标界面沟通方式多采用简单图像呈现交互线索，按照呈现的图形特点可以分为两种类型：拟人化/非拟人化图形；静态/动态图形。与非拟人化的图形相比，拟人化图形（例如行走姿势的人物剪影或拒绝手势），能够更明确传达有关当前过街是否安全的信息(Fridmanetal.,2017)。研究者们还发现，静态信息在可识别性和信息传递效果方面都不如动态图形(Othersen etal.,2018)。由于图标界面图像的含义是根据研究者的设计而人为后期赋予的，行人在实验前并没有学习过此类图像的含义，因此此类界面的可理解性和清晰性需要通过培训才能被提高 (Ackermann, Beggiato,Schubert,& Krems,2019; Fridman et al.,2017)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.灯光界面",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "单一或多个LED 灯组成的灯带是灯光界面的主要组成形式。灯光界面通过改变静态灯光颜色、动态灯光闪烁频率以及灯带流动三种方式呈现沟通信息(Bazilinskyy etal.,2019)。例如Habibovic 等人(2018)设计了车辆外部交流界面(Automated Vehicle Interaction Principle,AVIP），通过四种模式的灯带闪烁将汽车运动状态和行为意图传达给行人，提高了行人感知到的安全感。在传递车辆状态的改变信息时，动态线索比灯光颜色的改变更易被识别，且更清晰。为了提高灯光信息的明确性，研究者应将信息内容标准化，或是引入交通中尚未定义过的新灯光颜色来传递沟通信息(Faas& Baumann,2019; Zhang et al.,2017)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.投影界面",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "投影界面将图形(如蓝色箭头：Burns et al.,2019)、人行横道(Bazilinskyy etal.,2019)、智慧道路(Locken et al.,2019)或文字(如'Waiting',Eisma et al.,2019)等信息投影到地面上。这种将界面与环境结合的沟通形式中，信息直观且清晰可见，并且不受车辆运动的影响(Fridmanet al.,2017;Locken etal.,2019)。但投影界面可能增加行人的注意分散，表现为行人注视范围更为离散(Eisma etal.,2019)。因此，在选用此类界面时需要同时考虑基础设施的兼容性和对行人注意力的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.2听觉沟通方式",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "听觉沟通方式采用非言语声音（如音乐、喇叭声：Deb etal.,2018）和言语信息（如Isee you/'Cross'：Mahadevan etal.,2018；‘Safe to cross':Hudson et al.,2018）传递沟通信息。听觉信息能帮助车辆与视力障碍行人的交互，在能见度低的交通场景中也能发挥更大的作用(de Clercq et al.,2019)。但嘈杂交通环境中的其他声音可能会对信息的接收产生干扰，且非指向性的信息也可能会影响行人的过街决策。另外，听觉线索更容易吸引行人的注意，适用于增强行人意识和提供警告(Lagstrom& Lundgren,2015)。因此在紧急情况下，听觉界面可以被用于给行人提供明确指示，而在日常情况下则可以作为补充信息与视觉信息结合呈现。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4人车交互中的行人动态过街决策模型",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于上文对界面类型及其优缺点的总结，可以发现当前外部人机交互界面领域的研究主要关注界面设计，及呈现效果评估。为了进一步对不同实证研究中采用界面的效果进行比较，研究者提供了以统一的标准对界面效果进行多维度比较的分类方法(Dey et al.,2020)，及标准化的评估范式(Rouchitsas＆Alm,2019)。但在人车交互中，行人是界面信息沟通的对象，界面应满足行人的交互需求，促进行人建立良好的情境意识。因此，本文以行人的过街决策过程为中心，关注行人在不同认知加工阶段对界面呈现信息的不同要求。同时，以过街决策模型为基础，对界面设计进行了评估，提出新的设计要点。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1基于情境意识的行人与自动驾驶车辆交互中的动态过街决策模型",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "前文提到，行人做出过街决策前首先需要对外界建立良好的情境意识，即建立对动态外部环境的内部表征,这是行人在动态交通情境中进行决策和行动的基础。Palmeiro 等人(2018)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于Endsley(1995)的情境意识模型提出了行人与自动驾驶汽车交互中的动态过街决策模型，认为情境意识会受到车辆线索、环境线索以及个人因素的影响。此模型包括了可能会影响情境意识形成的因素，但却缺乏对具体认知加工过程及影响机制的研究。因此本文将该模型与Endsley(1995)的情境意识模型进行了整合，明确各影响因素在加工通路中的功能。具体模型如图1所示。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/667b7198e907050630aa722884035af13d7023e66921f4c4ec34aaae3ce1fa72.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "图1 行人与自动驾驶车辆交互中的动态过街决策模型，基于情境意识模型(Endsley,1995)和动态过街决策"
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "模型(Palmeiro et al.,2018) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "情境意识的初级阶段是对环境中线索的感知，个体对注意的分配会受到线索显著性的影响。在自上而下的加工通路中，目标以及长时记忆中储存的内容会引导个体对感知信息的注意、识别和选择(Endsley,1990)。在理解阶段，从环境中获得的信息、大脑中储存的图式和心智模型则为个体提供了丰富的数据，促进他们对信息的整合和理解 (Endsley,2000)。预测阶段是情境意识的最高阶段，是基于对感知和理解阶段获取的信息的解读，预测事物未来运动的过程，评估行动的可行性及风险，为行为决策做准备(Endsley,1995)。在这个阶段，基于经验形成的心智模型以及预期会对预测的准确性产生影响。最终，行人基于对车辆和道路场景未来动态的预测，做出过街决策和行为。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从以上过程可以发现，行人在和自动驾驶汽车的交互的过程中，依然可以依靠车辆运动线索做出过街决策。但设计良好的eHMIs可以通过提供额外线索来弥补驾驶员线索的缺失，",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从而确保行人建立全面且正确的情境意识。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "行人在不同认知加工阶段对eHMIs呈现的信息有不同的要求。在信息感知阶段，eHMIs上呈现的沟通信息要具备高可识别性，既要提高信息的显著性，又需考虑其放置的位置、采用形式。而在理解阶段，沟通信息则要清晰、直观，便于行人理解，即研究者需要选用行人熟悉的图形、文字，或对信息含义进行解释，提高行人对信息含义理解的准确性。在行人的预测阶段，eHMIs 则需要将车辆意图和运动状态变化信息外显地呈现出来，以帮助行人预测过街风险，辅助其做出过街决策。下文将结合这些行人需求对以往研究中的 eHMIs 进行评估，关注不同eHMIs 如何影响行人情境意识的形成和更新过程，并找出未来研究需要关注的设计需求和思路。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2感知阶段",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "个体形成情境意识的第一阶段要从环境中获取信息，包括环境中事物的属性、状态以及动态信息(Endsley,1990)。在自下而上加工过程中，个体对感知信息的选择将会受到线索的显著性、呈现形式、位置以及特征的影响(Theeuwes,2010; Treue,2003)。在自上而下的过程中，个体的目标、工作记忆、长时记忆等也会影响行人对感知信息的选择(Endsley,1995)。感知阶段收集到的信息是理解以及预测的基础， $76 . 3 \\%$ 的情境意识的错误都是由感知错误导致的(Jones&Endsley,1996)。因此，为了增强信息的感知效果，我们可以基于这些影响因素来改进界面，从而提高eHMIs 呈现信息的可识别性。但同时也要避免呈现信息过多造成的信息过载现象，这可能会导致行人的感知失败。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在设计时，可以优先考虑采用多种类型界面相结合的方式来提高可识别性。文字界面的可读性会受到车辆距离以及车辆运动的影响，车辆距离过远或车辆速度过快都会降低文字的可见性。因此，为保证文字界面的使用效果，需要进一步研究界面尺寸的设计(Lee etal.,2019)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "与文字界面相比，投影界面呈现的信息即使在车辆快速运动时信息也是清晰可见的，不会受到车辆移动的影响，因此具备更高的可识别性(Ackermann,Beggiato,Schubert,& Krems,2019)。但地面投影eHMIs 会导致更多的视觉注意分散，因此在选用此类界面时需要同时考虑基础设施的兼容性和对行人视觉分配的影响。图形界面采用动态线索传达车辆运动变化信息，有利于提高信息的可识别性(Othersen et al.,2018)。相似的，基于灯光的界面在提供动态线索时也更易被行人识别(Lee etal.,2019)。此外，灯光的颜色、明亮度以及饱和度的设置也会影响到信息的显著性和可见性(Faas&Baumann,2019)。因此，为了保证信息的可识别性，可以综合各类界面的优势，设计多种呈现形式结合的界面为行人感知提供动态线索。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "另外，沟通信息的载体不应局限于车辆。eHMIs 通常被放置在车辆的某一部位（挡风玻璃处、车顶、车门、前车灯处）或是环绕车身。例如，装置的 $3 6 0 ^ { \\circ }$ 的灯光可以让行人从多个角度接收信息，提高了信号在较远距离时的可见性(Lee etal.,2019)。但在考虑信息载体时，研究者们常常忽视了交通情境中的道路基础设施和行人。智慧道路是结合道路基础设施设计的一种eHMIs，它能够提供直观清晰的信息，具有较高的可见性并且不易受到车辆运动的影响(Locken et al.,2019)。智慧道路的交互效果启示我们，在设计 eHMIs 时应该考虑将车辆、道路基础设施以及行人三者结合起来，让eHMIs 的载体更加多样，比如将信息呈现在车辆上、道路基础设施上或者行人的手机上来帮助行人更好地感知信息。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3理解阶段",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在交通情境中，这一阶段是行人对eHMIs 提供信息的含义进行认识和理解的过程。文字界面的优势在于语言是人们日常使用的交流工具，语句都具有明确的含义。因此，此类界面的信息传达清晰度评分最高(Ackermann,Beggiato,Schubert,& Krems,2019)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "采用非文字类界面呈现信息时，投影人行横道的界面清晰度评分最高。而当呈现信息是未经学习过的图形或者灯光时信息含义的模糊性最高 (Bazilinskyy et al.,2019)。这是因为人行横道在交通情境中被赋予了明确的含义，而当交互界面显示的是图形时，行人无法参考先前经验进行解读。除了图形外，未经标准化的灯光颜色会也影响行人的整合和解读过程。例如，当使用交通中已具备标准化含义的颜色传达与其标准含义相冲突的信息时，行人就可能对沟通信息的内容产生错误理解(Faas&Baumann,2019)。因此，为了提高信号的可理解性，一方面我们应该将信号标准化并对行人进行培训；另一方面，我们也可以将交通中具备标准含义的颜色和明确的文字相结合。例如将“WALK\"信息用交通中表示通行的绿色显示(Fridman et al.,2017; Bazilinskky et al., 2019)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "此外，交互信息的明确性会受到信息呈现角度的影响。Bazilinskky等人(2019)提出了两种信息呈现角度：给行人的过街建议（如“WALK”，以行人为中心的信息）、车辆运动信息及未来行动意图（如“减速中”，以车辆为中心的信息）。他们的研究表明行人更易理解过街建议类信息，似乎呈现行人建议信息更合适(Ackermann,Beggiato,Schubert,& Krems,2019)。与此相反，Zhang 等人(2017)发现，向行人提供车辆运动信息及未来行动意图的信息时，界面的可理解性更高，更能提升过街安全感。Lagstorm 和 Lundgren(2015)也认为，在交互时，eHMIs应只提供车辆相关信息，不应该对行人过马路的行为做出指导。这是因为真实交通场景中还存在其他道路使用者，指向性信息可能很难精确传达给目标行人。同时，行人在过街前还需参考道路上其他车辆的行为。因此，要谨慎向行人传递有关过街行动的指导性信息。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "需要注意的是，信息呈现的角度和信息的形式应该统合考虑。对于文字信息和具有标准化含义的图形（如人行横道），不管以车辆为中心还是以行人为中心，都能被准确解读。但对于灯光信息，信息的解读取决于行人对信息的解读角度。例如，绿色虽然具有“通行\"的标准化含义，以自我为中心去解读信号时将理解为“让我通行”，但是以车辆为中心时，将解读为“车辆将正常通行”。这种两可的解读可能造成交互失败。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在表1中，沟通信息类型里有12个界面提供的是行人建议，8个界面只提供车辆物理信息而不对行人行为进行指导，13个界面提供车辆意识与意图信息。说明当前研究者在设计时还是以呈现车辆相关信息为主。综上所述，在确定信息呈现的角度时，我们不仅要考虑行人对信息的理解和接纳程度，也要确保行人不会在依据交互信息做过街决策时产生危险。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.4预测阶段",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在人车交互过程中，这一阶段行人的主要任务是根据车辆运动线索以及eHMIs提供的信息识别车辆意图和预测其未来行动(Grahn et al.,2020)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "预期是道路使用者基于过往经验和当前情境线索对车辆在具体交通情境下某类行为发生可能性的主观估计(Houtenbos etal.,2005)，是行人预测车辆未来行动的依据。通常，行人可以依据习得的正式或非正式的交通规则以及道路设计对车辆行为形成预期(Bjorklund &Aberg,2005)。行人还可以参考当前到车辆到达时间、车速的变化(Coeugnetet al.,2019;Rasouliet al.,2017)、道路优先通过权(Houtenbos et al.,2005)等信息对车辆运动意图形成预期。行人基于预期信息评估过街风险、过街的安全性，最终根据评估的结果做出过街决策。例如，车辆的减速方式可能会对行人决策时间以及准确性产生影响。当车辆从较远距离开始减速并以较低速度接近行人时，行人能更快速地识别出车辆的减速意图，从而更好地预测车辆是否让行(Schneemann & Gohl, 2016)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "然而，行人仅参考车辆轨迹变化信息推测车辆未来行动时，行人需要延长决策时间，确认车辆行动是否与推断一致。通过eHMIs呈现的外显信息能够明确传达车辆未来行动信息，减少反应时间(Lagstrom&Lundgren,2015)。因此，有研究者建议在设计 eHMIs 时应将界面与内隐信息相结合。例如，利用显示屏呈现车辆的实时车速，来帮助行人更加快速、准确地预测车辆意图(Clamann et al.,2017)。这种界面保持了内隐和外隐信息的一致性和同步性，提高了内隐信息的可识别性，促进了传达信息的准确性和可理解性。在未来的eHMIs 的设计中应该考虑将车辆状态信息通过界面动态呈现。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5结论和展望 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.1基于模型的界面设计改进建议",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在与传统汽车交互时，行人可以依据车辆运动信息对车辆行为进行预测，帮助其做出过街决策。但当交互对象变为自动驾驶汽车时，传统的驾驶员线索将会缺失，行人关于车辆行为的情境意识也需要更新。因此研究者提出可以增加外部人机交互界面，传递车辆物理信息、车辆意识与意图信息以及行人建议，帮助行人安全且有效地与自动驾驶汽车交互。为了将以上信息有效地传达给道路使用者，研究者们设计了视觉（文字、图形、投影等）和听觉（言语和非言语）信号，并在真实路段实验、虚拟场景及实验室实验中测试界面的使用对行人过街意向、速度和准确性等指标的影响。基于行人与车辆交通中的动态过街决策模型，我们提出，eHMIs 的设计应参考行人的认知加工需求，促进行人对车辆信息的感知、理解和预测。在感知阶段，应采用多种类型界面、多呈现载体相结合，增强信息的可识别性。在理解阶段，需结合文字说明、合理选择沟通视角、信号标准化和培训提高可理解性。在预测阶段，应结合车辆内隐运动信息，帮助行人快速准确获取车辆未来行动意图。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "具体来说，基于行人感知信息的特点，应增强eHMIs 的显著性，通过多通道沟通方式提升界面的可识别性。目前研究者设计的界面大多通过单一通道向道路使用者传递沟通信息。多通道结合的界面较少有研究涉及，仅Mahadevan 等人(2018)尝试采用视觉信号、听觉信号以及物理信号相结合的多通道交互方式呈现信息。但各类界面都存在一定的缺陷，例如文字界面在远距离及快速行驶的车辆上可读性较差;图形界面和灯光界面需要对道路使用者进行培训；投影界面有造成行人注意分散的风险；听觉界面会受到嘈杂环境的干扰。另外，单一通道只能传递简单、明确的信息，难以应对复杂交通情境(Locken et al.,2019)。因此，未来研究者应结合各类界面的优势，设计多通道沟通方式，提供更复杂多样的沟通信息应对多种交通情境。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在理解阶段，为提升行人对沟通信息含义的理解程度，研究者可以选用简短易读的文字界面呈现信息内容。如要使用非文字类界面呈现信息，研究者应将信号标准化，例如像交通信号灯一样统一灯光颜色代表的含义，减少行人生活地域文化、理解水平差异对信息内容可理解性的负面影响。另一方面，还可以把灯光颜色和明确文字相结合，例如用绿色显示“请通行”信息，辅助行人理解。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "行人做出过街决策前，需要对过街风险进行预测，界面在这一阶段的作用是辅助行人更准确、快速地评估风险，做出决策。车辆运动线索（车辆速度、距离）是行人在感知风险时主要参考的沟通信息，但此类信息存在缺陷。首先，行人可能无法准确解读车辆运动信息，例如行人意识到车辆减速行为但错误估计到达时间。其次，行人需要花费额外的时间确认车辆行为，降低了交通效率。直观准确的呈现沟通信息是界面的优势。因此，我们提出未来的界面设计应采用界面与车辆内隐信息结合的模式，直观呈现车辆运动变化的过程。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.2外部交互界面在真实交通中使用的其他要求",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "交通情境的复杂性同时决定了即使eHMIs 同时满足以上设计要求，也还需考虑道路结构和情境信息对行人过街决策的影响。根据前文总结，研究者主要采用真实路段实验、虚拟场景实验、视频/图片实验、问卷调查及焦点小组这几类研究方法对界面效果进行评估。虽然研究者们通过多样化的实验形式考察了界面使用效果，但对实验情境进行了严格控制。为了排除无关变量对实验的影响，研究者们一致地选择了“一对一\"的人车交互情境评估界面。即在道路上只存在单一自动驾驶汽车与单一行人进行交互，并且车辆常以恒定速度行驶。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "“一对一”实验场景的设计虽然能较好地控制额外变量的影响，从而评估界面的使用效果，但其实用性还需要进一步探究。首先，实际场景中存在着多种视觉刺激，仅参照\"一对一\"交互情境的结果改进eHMIs，可能无法代表其在复杂交通场景中的可行性。例如，在多车辆存在的交通情境中行人可能无法区别灯光界面信息与其他车辆、道路的灯光信号。其次，如果使用eHMIs 加重了行人的认知负荷，那么在解读信息时可能产生错误。最后，真实交通场景中存在不同的道路使用者，当道路上有多名行人时，eHMIs提供的信息指向的明确性就可能存在问题。例如，非信息指向的行人会因为情境与界面提供信息的不一致而产生理解偏差，进而可能导致错误过街决策(Lietal.,2018)。因此未来研究需要考虑eHMIs 在真实交通场景下的运用效果和实验研究中的一致性，以及在实际使用中是否会对行人的认知负荷和安全造成负面影响。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.3未来研究方向",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在实践方面，我们应在复杂交通情境中探究界面的实际运用效果。我们根据以行人为中心的界面设计理念和整合的行人决策模型，提出了自动驾驶车辆的界面设计原则，以支持行人对信息的感知、理解、预测，但还需通过研究来验证界面的实用性。例如，为提升界面显著性，我们建议采用多通道沟通方式呈现信息。但如何融合多类信息而不会对行人的认知负荷造成负面影响则需要进一步研究探索。因此，在未来的研究中既要考虑界面的呈现效果还要考虑其可行性。在理论方面，我们应明确eHMIs 的各要素如何影响行人的情境意识甚至上层心智模型。已有研究评估eHMIs，多针对决策阶段的表现、安全感和脱离过街情境的设计概念评估（见表1），但在具体的人车交互情境中，eHMIs 如何影响行人情境意识的形成和更新过程并未涉及，本文试图结合以往研究和理论整合出模型，以明确其影响机制，但其具体细节还需大量实证证据的支持。因此，在未来研究中应该关注eHMIs 如何从自下而上的加工通路影响情境意识以及心智模型的形成。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在未来的研究中，我们不仅期待能进一步改进eHMIs 辅助行人做出安全的过街决策，还要验证eHMIs 如何影响了本文建立的整合模型的各个通路。两者的结合将可以建立基于模型的eHMIs 信息呈现效果评估，明确设计方案后果的同时，深入理解其作用机制，以灵活应对现实交通情境的复杂性。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nAckermann,C.,Beggiato,M.,Bluhm,L.-F,Low,A,&Krems,J.F. (2019). Deceleration parametersand their applicability as informal communication signal between pedestrians and automated vehicles.Transportation Research PartF: Traffic Psychology and Behaviour, 62,757-768.   \nAckermann,C.,Beggiato,M.,Schubert,S.,& Krems,J.F. (2019).Anexperimental studyto investigate designand assessment criteria: What is important for communication between pedestrians and automated vehicles? Applied Ergonomics,75,272-282.   \nBadue,C., Guidolini,R., Carneiro,R.V.,Azevedo,P.,Cardoso,V.B.,Forechi,A,..De Souza,A.F. (2019).Selfdriving cars: A survey. Expert Systems with Applications, 165(3).   \nBazilinskyy,P.,Dodou, D.，& de Winter,J. (2019). Survey on eHMI concepts: The effct of text,color,and perspective. Transportation Research Part F: Traffic Psychology and Behaviour, 67,175-194.   \nBjorklund, G. M.，& Aberg,L. (2005). Driver behaviour in intersections: Formal and informal traffic rules. Transportation Research Part F: Trafc Psychology and Behaviour, 8(3),239-253.   \nBurs,C.G.,Oiveira,L.,omas,P.,yer,S.,&irel,S.(2019,June).Pedestriandecision-making responss to external human-machine interface designs for autonomous vehicles. Paper presented at the meting of 2019 IEEE Intellgent Vehicles Symposium, Paris,France.   \nChang,C.-M.,Toda,K.,Sakamoto,D.,&Igarashi,T.(2o17).Eyes onacar: An interface design for communication between an autonomous car and a pedestrian. In Proceedings ofthe 9th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (pp. 65-73).New York,NY, United States: Association for Computing Machinery.   \nChen, W., Jiang, Q., Zhuang, $X ^ { * }$ ., & Ma, G. (2O2O). Comparison of pedestrians' gap acceptance behavior towards automated and human-driven vehicles.In D.Harrs,W.-C.Li (Eds),Engineering Psychologyand Cognitive Ergonomics. Cognition and Design (pp. 65-73). Cham, Switzerland: Springer.   \nClamann, M.,Aubert,M.,& Cummings,M.L. (2017,January). Evaluationofvehicle-to-pedestrian communication displays for autonomous vehicles.Paper presented at the Transportation Research Board 96th Annual Meting, Washington DC, United States.   \nCoeugnet, S., Cahour, B.,& Kraiem, S. (2019). Risk-taking, emotions and socio-cognitive dynamics of pedestrian street-crosing decision-making in the city. Transportation Research PartF: Traffic Psychology and Behaviour, 65,141-157.   \nde Clercq,K.,Dietrich,A.,Velasco,J.P.N.,de Winter,J.,&Happee,R.(2O19).External human-machine interfaces on automated vehicles: Effects on pedestrian crossing decisions. Human Factors, 61(8),1353-1370.   \nDeb,S., Strawderman,L., Carruth,D.W., DuBien,J.，Smith, B.，& Garrison,T.M. (2017). Development and validation of a questionnaire to assess pedestrian receptivity toward fully autonomous vehicles. Transportation Research Part C: Emerging Technologies,84,178-195.   \nDeb, S.,Strawderman,L. J.,&Carruth,D. W. (2018). Investigating pedestriansuggestions for external features on fully autonomous vehicles: A virtual reality experiment. Transportation Research Part F: Traffc Psychology and Behaviour, 59,135-149.   \nDey,D.,Habibovic,A.,ocken,A.,Wintersberger,P.,Pfleging,B.,Riener,A.，..Terken,J. (2).Tamingthe eHMI jungle: A classification taxonomy to guide,compare, and assss the design principles of automated vehicles' external human-machine interfaces. Transportation Research Interdisciplinary Perspectives, 7.   \nDey, D., Martens, M.,Eggen,B.,& Terken,J. (2017).The impact of vehicle appearance and vehicle behavioron pedestrian interaction with autonomous vehicles.In Proceedings of the 9th International Conference on Automotive User Interfaces and Interactive Vehicular Applications Adjunct (pp. 158-162). New York, NY, United States: Association for Computing Machinery.   \nDey, D.,& Terken, J. (2017).Pedestrian interaction with vehicles: Roles ofexplicit and implicit communication. In Proceedings of the 9th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (pp.109-113). New York,NY, United States: Association for Computing Machinery.   \nEisma,Y.B. van Bergen,S.,ter Brake,S.M.,Hensen,M.T.T.,Tempelaar,W.J.,&de Winter,J.C.F.(2019). External human-machine interfaces: The efect of display location on crossing intentions and eye movements. Information,11(1),13.   \nEndsley， M. R. (1990). Situation awareness in dynamic human decision making: Theory and measurement (Unpublished doctoral dissertation). University of Southern California,Los Angeles, CA.   \nEndsley,M.R. (1995). Toward a Theory of Situation Awarenessin Dynamic Systems.Human Factors,37(1),32- 64.   \nEndsley,M.R.(20oo). Theoretical underpinnings ofsituation awarenes: Acritical review.In M.R. Endsley, & D. J. Garland (Eds.), Situation awareness analysis and measurement (pp.3-6). Mahwah, NJ, USA: Lawrence Erlbaum Associates.   \nFas,S.M.,& Baumann, M. (2019). Light-based external human machine interface: Color evaluation for selfdriving vehicle and pedestrian interaction. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 63(1),1232-1236.   \nFaas,S.M.,Mathis,L.-A.,&Baumann,M. (2020). External HMI forself-driving vehicles: Which information shall be displayed? Transportation Research Part F: Traffc Psychology and Behaviour, 68,171-186.   \nFridman,L., Mehler,B., Xia,L.,Yang,Y.,Facusse,L.Y.,&Reimer,B. (2017,January). To walk or not to walk: Crowdsourced assessment of external vehicle-to-pedestrian displays. Paper presented at the meeting of Transportation Research Board Annual Meeting, Washington, DC.   \nFuest,T.,Sorokin,L.,Bellem,H.,&Bengler,K. (2O18). Taxonomyoftrafic situations for the interaction between automated vehicles and human road users. In Advances in Inteligent Systems and Computing: Vol. 597. Advances in Human Aspects of Transportation (pp. 708-719). Cham, Switzerland: Springer.   \nGrahn,H., Kujala,T., Silvennoinen,J.,Leppanen,A.,& Sariluoma,P.(2O2).Expert drivers' prospectivethinkingaloud to enhance automated driving technologies - Investigating uncertainty and anticipation in traffic. Accident Analysis&Prevention,146,105717.   \nHabibovic,A.,Lundgren,V..,Andersson,J.,Klingegard,.,agstrom,T.，Sirkka,A...Larsson,P.(018). Communicating intent of automated vehicles to pedestrians. Frontiers in Psychology, 9,1336.   \nHagenzieker,M.P.,van der Kint,S., Visers,L.,van Schagen,I.N.L.G.,de Bruin,J.,van Gent,P.,&Commandeur, J. J.F. (2019). Interactions between cyclists and automated vehicles: Results of a photo experiment\\*. Journal of Transportation Safety & Security, 12(1), 94-115.   \nHudson, C.R., Deb,S., Carrth, D.W., McGinley, J.,&Frey, D. (2018). Pedestrian perception of autonomous vehicles with external interacting features. In Advances in Inteligent Systems and Computing: Vol. 781. Advances in Human Factors and Systems Interaction (pp.33-39). Cham, Switzerland: Springer.   \nHoutenbos,M.,Hagenzieker,M., Wieringa,P.,& Hale,A. (2oo5).The role ofexpectations in interaction behaviour between car drivers. In G. Underwood (Ed.), Trafic and Transport Psychology: Theory and Application (pp. 303-314). Kidlington,Oxford: Elsevier.   \nJones,D.G.,& Endsley,M.R.(1996). Sources of situation awareness errors in aviation.Aviation Space and Environmental Medicine, 67(6),507-512.   \nKooijman,L.,Happee,R.,&de Winter,J.(2019). How do eHMIs affct pedestrians' crossingbehavior?A study using a head-mounted display combined with a motion suit. Information (Switzerland),10, 386.   \nLagstrom,T.,&Lundgren,V.(2015).AVIP-Autonomousvehicles'interactionswithpedestrians.Aninvestigationof ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "pedestrian-driver communicationand development of a vehicle external interface. (Unpublished doctoral ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "dissertation). Chalmers University Technology, Sweden.   \nLee,Y.M.,Madigan,R.,Garcia,J.,Tomlinson,A.,Solernou,A.,omano,R.,..Uttley,J. (2o19). Understanding the messagesconveyed by automated vehicles.In Proceedings of the lth International Conference on Automotive User Interfacesand Interactive Vehicular Applications (pp.134-143).NewYork,NY,United States: Association for Computing Machinery.   \nLi,Y.,Dikmen,M.,Hussein,T.G.,Wang,Y.,&Burns,C. (2o18).Tocrossor not to cross: Urgency-based exteral warning displays on autonomous vehicles to improve pedestrian crossing safety. In Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (pp.188-197). New York, NY, United States: Association for Computing Machinery.   \nLocken,A., Golling, C.，& Riener, A. (2019). How should automated vehicles interact with pedestrians? A comparative analysis of interaction concepts in virtual reality. In Proceedings of the llth International Conference on Automotive User Interfaces and Interactive Vehicular Applications (pp. 262-274). New York, NY, United States: Association for Computing Machinery.   \nLundgren,V.M.,Habibovic,A.Andersson,J.,Lagstrm,T.,Nilsson,M.,irkka,A.,..Saluaar,D.(217).Wil there be new communication needs when introducing automated vehicles to the urban context? In Advances in Intelligent Systems and Computing: Vol. 484. Advances in Human Aspects of Transportation (pp. 485-497). Cham, Switzerland: Springer.   \nMadigan,R.,Nordhoff,S.,Fox,C.,Ezati Amini,R.,Louw,T., Wilbrink,M.,..Merat,N.(2019). Understanding interactions between automated road transport systems and other road users: A video analysis.Transportation Research Part F: Traffc Psychology and Behaviour, 66,196-213.   \nMahadevan, K., Somanath, S.,& Sharlin,E. (2018). Communicating awareness and intent in autonomous vehiclepedestrian interaction. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp.1-12). New York, NY, United States: Association for Computing Machinery.   \nMathews,M., Chowdhary, G.V.,& Kieson, E. (2o17). Intent communication betweenautonomous vehicles and pedestrians. ArXiv Preprint: 1708.07123.   \nMoore,D., Currno,R., Strack,G.E.,& Sirkin,D. (2019).Thecase for implicit external human-machine interfaces for autonomous vehicles. In Proceedings of the llth International Conference on Automotive User Interfaces and Interactive Vehicular Applications (pp.295-307). New York, NY, United States: Association for Computing Machinery.   \nOtherson,I.,Conti-Kufner,A.S.,Dietrich,A.,Maruhn,P.,&Bengler,K. (2018).Designingforautomatedehicle and pedestrian communication: Perspectives on eHMIs from older and younger persons. In D. de Waard, K. Brookhuis,D. Coelho,S.Fairclough,D. Manzey,A. Naumann,L... R.Wiczorek (Eds.),Proceedings of the Human Factors and Ergonomics Society Europe Chapter 2018 Annual Conference (pp. 135-148). HFE.   \nPalmeiro,A.R.,Sander, V.D.K., Vissers,L.,Farah, H.,De Winter,J. C.F.,&Hagenzieker, M.J.T.R.(2018). Interaction between pedestrians and automated vehicles: A Wizard ofOz experiment. Transportation Research Part F: Traffic Psychology and Behaviour, 58,1005-1020.   \nRouchitsas,A.,& Alm, H. (2019). External human-machine interfaces for autonomous vehicle-to-pedestrian communication: Areview of empirical work. Frontiers in Psychology, 10,2757.   \nRothenbücher,D.,Li,J.,Sirkin,D.,Mok,B.,&Ju, W. (2O16,November). Ghost driver: Afield study investigating the interaction between pedestrians and driverless vehicles.In2016 25th IEEE International Symposium on Robot and Human Interactive Communication (pp. 795-802). IEEE.   \nSAE International (2016). Surface vehicle recommended practice J3016-taxonomy and definitions for terms related to driving atunomation systems for on-road motor vehicles. SAE International.   \nSchieben,A.,Wilbrink,M.,Kettwich,C.,Madigan,R.,Louw,T.,&Merat,N. (2018). Designing the interactionof automated vehicles with other trafic participants: design considerations based on human needsand expectations. Cognition, Technology & Work, 21(1),69-85.   \nSchnemann,F.，& Gohl,I. (2016). Analyzing driver-pedestrian interactionat crosswalks:A contribution to autonomous driving in urban environments. In 2016 IEEE Intellgent Vehicles Symposium (IV) (pp.38-43). IEEE.   \nSong,Y.E.,Lehsing,C.,Fuest,T.,&Bengler,K. (2018).ExternalHMIs and theirefecton theinteractionbetween pedestrians and automated vehicles.In Advances in Intelligent Systems and Computing: Vol.722. Intellgent Human Systems Integration (pp.13-18). Cham, Switzerland: Springer.   \nSucha,M., Dostal, D.,& Risser,R. (2O17). Pedestrian-driver communication and decision strategies at marked crossings. Accident Analysis and Prevention, 102,41-0.   \nTheeuwes，J. (2010). Top-down and bottom-up control of visual selection: Reply to commentaries.Acta Psychologica, 135(2),133-139.   \nTreue, S. (2003). Visual attention: the where,what, how and why of saliency. Current Opinion in Neurobiology, 13(4), 428-432.   \nVelasco,J.P.N.,Farah, H., Van Arem,B.,& Hagenzieker, M.P. (2019). Studying pedestrians’crossing behavior when interacting with automated vehicles using virtual reality. Transportation Research Part $F$ :Traffic Psychology and Behaviour, 66,1-14.   \nVissers,L.，van der Kint, S.,van Schagen,I.，& Hagenzieker,M. (2016).Safe interaction betweencyclists, pedestrians and automated vehicles.What do we know and what do we need to know? In SWOV Institute for RoadSafety Research.   \nWoodman,R.,Lu,K.,Higgins,M.D.,Brewerton,S.,Jenings,P.A.,&Birell,S.(2o19). Gapacceptancetudyof pedestrians crossing between platooning autonomous vehicles in a virtual environment. Transportation Research Part F: Traffic Psychology and Behaviour, 67,1-14.   \nZhang,J.,Vinkhuyzen,E.,& Cefkin,M.(2Ol7).Evaluation of an autonomous vehicle external communication system concept: A survey study. In Advances in Intelligent Systems and Computing: Vol. 597. Advances in Human Aspects of Transportation (pp. 650-661). Cham, Switzerland: Springer. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of external HMI in autonomous vehicles based on pedestrian road crossing decision-making model ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "JIANG Qianni, ZHUANG Xiangling, MA Guojie (ShanxiKeyLaboratoryofBehaviorandCognitiveNeuroscience,SchoolofPsychology,ShaanxiNormalUniversityian 710062, China) ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Abstract: For autonomous vehicles driven in road context with pedestrians, it is essential to ensure safe and eficient interaction with pedestrians.To that end,autonomous vehicles of high level(e.g. above L3) are usually equipped with an external human-machine interface (eHMIs) to communicate with pedestrians. An overview of current studies shows that the current external eHMIs mainly conveyed vehicle status (whether it is in auto mode), intentions,and road-crossing advice to pedestrians in visual modalities such as text,icon,projection, etc.These eHMIs have been evaluated to determine their effect on pedestrian's crossing intention,speed,and accuracy in real as well as simulated contexts. However, a user-centered design of eHMIs should systematically support pedestrian information processing needs during road crossing decision making. To fill the gap, a conceptual model was proposed to capture pedestrian's dynamic road crossing decision-making when interacting with autonomous vehicles. The model integrated pedestrian's road crossing decision-making process and the situation awareness theory. Based on the model, eHMIs should promote pedestrian's perception, comprehension, and the projection of the vehicle's intention. To support the perception of the displayed information, eHMIs should adopt multiple modalities’ interfaces to convey the vehicle's information,and consider presenting information on media beyond the vehicle, such as the street infrastructure and the electronics of pedestrians.To support comprehension of the displayed information, pedestrians need to be trained. More importantly, the information should be carefully designed with an appropriate massage perspective and standardized formats. In the projection phase, vehicle motion information as a traditional yet intuitive way to convey the vehicle's future intentions can be strengthened and integrated with eHMI to assist faster and more accurate decision-making.Besides the simple one-to-one context of interaction, future research should also explore how the design of the interface impacts pedestrians in the context of multi-pedestrian and multi-vehicle contexts. Theoretically, exploration is also needed on how the eHMI supports the formation and update of their situation awareness and how it afects mental ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "models in human-vehicle interactions. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Autonomous Vehicles, external Human Machine Interfaces, eHMIs,Pedestrian road crossing decision-making model, Pedestrian Safety ",
+        "page_idx": 23
+    }
+]

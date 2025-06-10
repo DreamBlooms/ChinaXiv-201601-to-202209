@@ -1,0 +1,166 @@
+[
+    {
+        "type": "text",
+        "text": "High Focusing-reflection Subwavelength Gratings with Unitraveling-carrier Photodetector for High Responsivity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qingtao Chen,1,3 Wenjing Fang,² Yongqing Huang,1,\\* Xiaofeng Duan,1 Kai Liu,1 Mohammad S.Sharawi,3 and XiaominRen' ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKeyLboratoyofIforationotoicsdOpticalCommicatiosjing UniveityofostsdTlecommictiseing 100876,China   \n2ShandongProvincialKyLboratoryofOpticalCommuicatioienceandTehnologyholoficalencendfotion Technology,LiaochengUniversity,Liaocheng 252ooo,China   \n3Pol-Grmehetfalinoleeeealeal \\*Corresponding author: yqhuang @bupt.edu.cn Abstract: High focusing-reflection, non-periodic high-contrast grating integrated with a unitraveling-carrier photodetector (FR-UTC-PD) is proposed to overcome the bandwidth-responsivity trade-off. The responsivity of the FR-UTC-PD is increased by $3 6 . 5 \\%$ while achieving a 3-dB bandwidth of 18 GHz. $\\circledcirc$ 2019 The Author(s)   \nOCIS codes: (050.6624) Gratings,(040.5160) Photodetectors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The single layer,high-index contrast subwavelength grating structures (i.e.high-contrast grating(HCG) with distinct constructed forms)can provide high focusing-reflection (FR), high transmisson and high-quality-factorresonances. They have been extensively applied in the integration of different kinds of optoelectronic devices,such as verticalcavity surface-emitting lasers (VCSELs),tunable VCSELs,sensors,resonatorsand hollow-core waveguides [1]. Moreover,periodic or non-periodic concentric-circular subwavelength gratings (serving as focusing reflectors) yielded great contributions to improve the responsivityof photodetectors (PDs） without sacrificing the high-speed response [2]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/76632d340b33dd182c39a99b1323fd2b58ae6bf3e456b5e4d458b74d02dcf18b.jpg",
+        "img_caption": [
+            "Fig.1.(a)SchematicfanFR-UTC-PDconsistsaSO-basedNP-CC-HCGmirorintegratedwithaUTC-PDstructurebywaferboding.The scaningelectronmicroscope(SEM)imageslocate (b)thecenterposition,nd(c)theon-periodicpositioofanNP-CC-HCGmio. "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The uni-traveling-carrier photodetector (UTC-PD)can achieve high-speed and high-saturation characteristics due to onlyadopting electrons as activecarriers as wellas the separating design ofthe absorptionand collection layers [3- 4J.Nevertheless,some constrains still exist among the abovecharacteristics,especiallyhow to exhibits arelatively highresponsivityandahigh bandwidth simultaneously.Therefore,itis particularlyimportant tosolve thebandwidthresponsivity trade-off in UTC-PDs.Moreover，some types of monolithically or quasi-monolithically integrated structures,such as resonant-cavity-enhanced UTC-PD (RCE-UTC-PD)[5]and high-reflectivity UTC-PD(HR-UTCPD)[6],have been proposed to improve the responsivityof UTC-PDs. However,there stillexists some problems in the processof time and cost for the epitaxial growth of distributed Bragg reflector (DBR)and complexities for the fabrication of monolithically integrated PD.Inthis paper,a high FR uni-traveling-carier photodetector (FR-UTCPD)structure,which experimentally realizes the integration of a high FR non-periodic concentric circular highcontrast grating (NP-CC-HCG) mirror with a high-speed UTC-PD by employing wafer-bonding technology，is reported to overcome the bandwidth-responsivity trade-of in UTC-PDs.The schematic design is shown inFig.1 (a). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Focusing-reflection theory ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The NP-CC-HCG mirrorin anFR-UTC-PDconsists ofa setof concentric circular Siunits with the thickness of 500 nmlocated on the top of a silicon-on-insulator(SOl) substrate, which is shown inFig.1(a).The high-index Si grating ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "units surrounded by the adjacent air and a ${ 5 0 0 } \\mathrm { - n m }$ -thickbottom $\\mathrm { S i O } _ { 2 }$ layer with the low-indices of 1 and 1.46 constitute a high-index contrast grating structure,i.e.NP-CC-HCG mirror[7]. A focusing spot ofthe reflected light realized by NP-CC-HCG mirror can be obtained when the total phase shift meets the Eq.(1) [1]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\phi ( x ) = \\frac { 2 \\pi } { \\lambda } \\Big ( f + \\frac { \\phi _ { m a x } } { 2 \\pi } ~ \\lambda - \\sqrt { x ^ { 2 } + f ^ { 2 } } \\Big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $f$ is the focal length, $\\lambda$ is the wavelength, $x$ is the radius of an NP-CC-HCG mirror, and $\\phi _ { m a x }$ is the maximum phase change. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfa9c3185ed31b83999f061170eb996e354d18b7375ade9a6a936f34c7c74343.jpg",
+        "img_caption": [
+            "Fig.2.(a)Tecalcuated(tedline)andthulated(tebuesoicles)asedistributio.()eFRabilitysimulatiofortheN-CC HCG mirror with a $1 2 \\mathrm { - } \\mu \\mathrm { m }$ setting focal length as an example. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For further analysisof theFR ability,the ideal phase distribution of the NP-CC-HCG mirror with a focal length of $1 2 \\mu \\mathrm { m }$ is calculated by Eq.(1).The relevant simulation is implemented with a $1 5 5 0 \\mathrm { - n m }$ radiallypolarized light and the obtained results are shown inFig.2(a).Obviously, the discrete non-periodic concentric circular grating bars along the $x$ direction coinciding exactly with the theoretical calculation results.The FR ability of the NP-CC-HCG mirror is conducted by COMSOL implementing the finite element method (FEM) shown in Fig.2(b).The focus spot along the $z$ -axisis $1 1 . 6 5 \\mu \\mathrm { m }$ that is very close to the $1 2 \\mathrm { - } \\mu \\mathrm { m }$ theoretical setting value.Besides,the relevant field distribution full-width-half-maximum (FWHM) at the reflected focus plane is $0 . 8 7 0 1 ~ \\mu \\mathrm { m }$ and a total FR efficiency of $9 2 . 1 \\%$ is obtained at the reflected plane. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc48c145479d11a2dfdbbac5b56febe155748e2a7c255eeaf4bdd376274df27a.jpg",
+        "img_caption": [
+            "Fig.3. Measured FR ability of an NP-CC-HCG mirror with a $1 5 5 0 \\mathrm { - n m }$ wavelength radially polarized light and a $3 . 5 6 \\mathrm { - m W }$ input power. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The UTC-PD structure on top of the NP-CC-HCG mirror is mainly consisted of a $6 4 0 – \\mathrm { n m }$ -thick p-type InGaAs absorption layer and a ${ 5 0 0 } \\mathrm { - n m }$ -thick n-type InP collection layer.The formation of quasi-electric field in the absorption layer owing to the Gaussian-graded doping can helpthe electrons diffuse or drift rapidly to the coletion layer.The undoped InGaAsP layer is appied to smoth the abrupt InGaAs/InP heterojunction.The double-mesa structure with p- and n-type Ohmic contacts are fabricated byconventional photolithographyand wet etching technologies.Thenthe ground-signal-ground (GSG)coplanar waveguide Ti/Au-contact electrodes are landed on the surface of the polyimide passivation layer.After completing the fabrication of the UTC-PD,the InP substrate layer below $\\mathfrak { n }$ -typeInPbuffer layer is first grinded and then polished for the preparation of wafer bonding with the NP-CC-HCG mirror. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile, the ${ 5 0 0 } \\mathrm { - } \\mu \\mathrm { m }$ -diameter NP-CC-HCG mirror with the focal length of $4 0 0 ~ { \\mu \\mathrm { m } }$ is fabricated by E-beam lithography (EBL)and inductively coupled plasma (ICP)dry etching.The SEM images in various locations are shown inFigs.1 (b)and (c).Figure 3 is used to ilustrate FR abilityof the NP-CC-HCG mirror represented by the power distribution at the reflected focal plane.The measured results show that the reflected optical power approximately presents Gaussian distribution along the $x$ direction and the peak power locates at the middle position of the NP-CCHCG mirror，which shows that this mirror has an excelent focusing ability.Moreover,the obtained maximum reflected optical power appears at the focal spot is $4 6 3 . 5 ~ \\mu \\mathrm { W }$ and the corresponding FWHM is ${ \\sim } 1 4 0 \\ \\mu \\mathrm { m }$ ，while an FR efficiency of $8 4 . 5 9 \\%$ is achieved by integration. Subsequently, the FR-UTC-PD is realized by using wafer bonding to integrate the UTC-PD structure with the NP-CC-HCG mirror. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4239bcbc297f877eb730ed857835b62af5ecc5cbcd8d82d41e57504bf34d44a2.jpg",
+        "img_caption": [
+            "Fig.4.(a)Measuduputphotournterssipupoer(set:Teticalcrogapofbcateddevice)d(b)ecy response for UTC-PD and FR-UTC-PD with $4 0 \\mathrm { - } \\mu \\mathrm { m }$ diameters at various output photocurrent levels. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 4(a) shows the measured DC saturation current for the UTC-PD and the FR-UTC-PD under the bias voltage of $\\mathbf { - } 3 . 0 \\mathrm { V }$ and a 155O-nm wavelength excitation. The linear parts show that the output photocurrent gradually increases with the increase of the input power until up to asaturation point,which reveals the responsivity characteristic of the device. The relevant responsivity is $0 . 6 3 ~ \\mathrm { A } / \\mathrm { W }$ and $0 . 8 6 ~ \\mathrm { A } / \\mathrm { W }$ for UTC-PD and FR-UTC-PD, respectively.Compared to the UTC-PD without the NP-CC-HCG mirror,it is obvious that the responsivity of FRUTC-PD is increased by $3 6 . 5 \\%$ .This is because the NP-CC-HCG mirror makes the FR-UTC-PD get almost twice the effective absorption efciency fromtheincident lightthan thatofthe UTC-PD.Moreover,theresponsivityof the FRUTC-PD could be improved by reasonably designing the focal length of the NP-CC-HCG mirror to make more reflected light tobe absorbed bytheabsorption layer.Fig.4 (b) shows the measured frequency response ofFR-UTCPD and UTC-PD in a series of low output photocurrent levels. It can be seen the 3-dB bandwidth of alis $1 8 \\ : \\mathrm { G H z }$ at a bias voltage of $\\mathbf { - } 3 . 0 \\mathrm { V }$ and a $1 5 5 0 \\mathrm { - n m }$ wavelength source.Therefore, there is no effect on the bandwidth of the UTCPD with or without an NP-CC-HCG mirror. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A high-performance FR-UTC-PD resulting from integrating an NP-CC-HCG miror and a UTC-PD structure is reported to overcome the trade-off between responsivityand bandwidth in UTC-PDs.The FR ability of an NP-CCHCG mirror is analyzed theoretically with the obtained focal length of $1 1 . 6 5 \\mu \\mathrm { m }$ . The field distribution FWHM at the reflected focal plane is $0 . 8 7 0 1 ~ \\mu \\mathrm { m }$ and the FR at the reflected plane is $9 2 . 1 \\%$ .Fora fabricated NP-CC-HCG mirror with $4 0 0 ~ { \\mu \\mathrm { m } }$ focal length, the reflected optical power is $4 6 3 . 5 ~ \\mu \\mathrm { W }$ ，the corresponding FWHM is ${ \\sim } 1 4 0 ~ \\mu \\mathrm { m }$ and the calculated FR efficiency is $8 4 . 5 9 \\%$ ,all are achieved using a $1 5 5 0 \\mathrm { - n m }$ wavelength radially polarized light. The FRUTC-PD is realized by using wafer bonding technology and the obtained responsivity is $0 . 8 6 ~ \\mathrm { A } / \\mathrm { W }$ showing an improvement of $3 6 . 5 \\%$ in comparison with a UTC-PD without an NP-CC-HCG mirror.The 3-dB bandwidth of the FR-UTC-PD is neither increased nor degraded compared with that of the UTC-PD without an NP-CC-HCG mirror. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This work is supported bythe National Natural Science Foundation of China (NSFC)under the Grant Nos.61574019, 61674018 and 61674O20.The authors thank Jiarui Fei and Tao Liu for the assistance with measurements. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6.References ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]C.J.Chang-HasnainandW.Yang“Higcontrast gratingsforintegratedptoelectronics”Adv.Opt.Photoics4,379-440(012). [2]X.DuaelgesotoeetocooatigOsdcetriclasbwavegthaito Technol.Lett,vol.24, no.10,863-865 (2012).   \n[3]T.Ishibashi etal.,“Uni-traveling-carierphotodiodes,”inUltrafastElectron.Optoelectron.Tech.Dig.,83-87(997).   \n[4] H. Ito et al.,“InP/InGaAs uni-traveling-carrier photodiode with $3 1 0 \\mathrm { G H z }$ bandwidth,”Electron. Lett.,vol.36, no.21,1809-1810 (2000). [5]D.Miaoetl\"‘rucureiaoofsoantiadeaoooefogadie optical bandwidth,”in Proc.Asia Commun.Photon. Conf.(Opt.Soc.Amer.),paper ATh3A.51 (2014).   \n[6]Q.CneUedeis”o 1206 (2017).   \n[7]W.Fangetl\"oeiclaosingefalgdetrastgatig”pt). ",
+        "page_idx": 2
+    }
+]

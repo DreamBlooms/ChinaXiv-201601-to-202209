@@ -1,0 +1,290 @@
+[
+    {
+        "type": "text",
+        "text": "1 Toll样受体及其对肠黏膜免疫的调节作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 全佳慧姜　宁\\*张爱忠黄福佳 姜殿慧　宋 磊张伟庆（黑龙江八一农垦大学动物科技学院，大庆，163319）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 摘要：Toll 样受体（TLRs）是近年来备受关注的一种模式识别受体，在脊椎与非脊椎动物  \n5 中具有病原体传感器的功能。TLRs对体内外特异性配体的识别是启动先天免疫的基础，并  \n6 迅速增加对抗入侵病原体的保护性反应，最终激活适应性免疫。TLRs在肠道免疫对病原菌  \n7 与益生菌的区分过程中发挥重要作用，同时TLRs可调控动物肠道上皮分泌抗菌肽杀灭病原  \n8 菌，对肠道健康具有积极的作用。本文介绍了TLRs 的种类、配体及相应的信号通路，探讨  \n9 TLRs 在肠道免疫调节中的关键作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5 关键词：Toll样受体；肠黏膜免疫；配体；信号转导；抗菌肽中图分类号：S852.2 文献标识码： 文章编号:",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "12 Toll蛋白早期被认为是一类膜表面受体，在果蝇胚胎发育过程中控制背腹侧的分化，随  \n13 后的研究发现它和其他抗菌肽一起在抗真菌过程中也有重要作用[I，之后在哺乳动物中发现  \n14 了Toll蛋白的同源蛋白质，称为Toll样受体（tol-like receptors，TLRs）[2]。目前为止，至少  \n15 有15种TLRs已经被鉴定，其中TLR1\\~TLR9是人类与老鼠所共有的，TLR10不在小鼠中表达  \n16 但TLR11\\~TLR13为小鼠所特有[3]，TLR14与TLR15相继在小鼠与鸡体内发现，也有报道称在  \n17 人体与小鼠内都有TLR14的表达。近年来的研究表明，TLRs作为一类最关键的模式识别受  \n18 体（pattern recognition receptors，PRRs）在肠道免疫调节中起着重要作用。正常状态下，肠  \n19 道系统在肠道黏膜免疫的作用下处于一个复杂而稳衡的状态，而在这种稳衡状态的建立过程  \n20 中肠道上皮细胞发挥了关键作用，同时TLRs在肠道免疫系统对致病菌与共生菌的区分中发  \n21 挥了重要作用[4]。近年来，对TLRs的研究已经成为生命科学的一个研究热点，对其配体、信  \n22 号通路与生物学功能的研究不断地深入，特别是在TLRs对肠黏膜免疫调节的影响方面越来  \n23 越受到人们的关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1TLRs的结构与相应配体",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "25 1.1结构",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TLRs结构上的特点决定了其特有的功能。TLRs由胞外区、跨膜区和胞质区构成。胞外区富含亮氨酸重复序列（leucine-richrepeats，LRRs）又称为LRR功能域，用于识别和结合病原相关分子模式（pathogen-associated molecular pattrns，PAMPs）和损伤相关分子模式（damage-associated molecular patterns，DAMPs）；跨膜区是富含半胱氨酸的区域，一般认为TLRs分子的亚细胞定位由此区域决定；胞质区称为Toll/白细胞介素-1受体结构域（toll/interleukin-1receptor domain，TIR）是TLR的核心区，负责招募在于胞浆中也含有TIR的接头蛋白（TIR domain containing adaptor protein，TIRAP），起始下游信号级联反应[5]，最终完成细胞因子、趋化因子的产生、抗菌肽的激活及抗原递呈细胞的成熟和适应性免疫反应的招募，TIR的高度保守使不同种TLRs之间介导相似的信号通路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2配体",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 PAMPs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "感染的早期检测对高效的防御病原菌是有益的。甚至极小数量的 PAMPs包括脂多糖（LPS）、脂肽、未甲基化的DNA和双链的RNA都可引起强烈的炎症反应。许多的PAMPs的前促炎反应会导致TLRs引起炎症介质的释放，如肿瘤坏死因子 $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ （TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）和白细胞介素-1β（IL-1β)。因此,LPS、脂肽和未甲基化的DNA 这类PAMPs是体内和体外释放的 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 和 $\\mathrm { { I L } \\mathrm { { - } 1 \\mathrm { { \\beta } } } }$ 的最强诱导物[6。病毒的RNA 和细菌的DNA均存在于晚期内体溶酶体内，因此，TLR3、TLR7和 TLR9 存在于这些细胞的细胞器内[7]。TLR1、TLR2、TLR4、TLR5 和 TLR6这类定位于质膜的 TLRs 则识别细胞外的细菌、真菌细胞的细胞壁成分和一些病毒蛋白。DNA 的受体 TLRs配体对细胞膜或溶酶体这些特定细胞区室的识别是有限制的，这不仅增加了TLRs与特定PAMPs 结合的机会，也减少了TLRs宿主异常激活的可能，因此，有必要增加一个额外的控制水平来保证TLRs 的适当激活。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 DAMPs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "内源性配体是指来自宿主包括在组织损伤或机体应激时释放的细胞外基质降解成分和热休克蛋白等。在正常情况和环境改变时，内源性配体都可激活 TLRs。由于许多内源性配体与组织损伤有关，则命名其为DAMPs。一些TLRs不仅可以识别多个配体，而且经常可以识别具有完全不同结构的配体。最好的例子是TLR2和 TLR4。TLR4 识别脂类如LPS 的脂质 A 部分，还可识别来自呼吸道合胞体病毒、水疱性口炎病毒和鼠乳腺肿瘤病毒的蛋白质[8-10]。TLRs 这种可识别与化学成分无关的配体的能力，被认为是可识别内源性配体的基础。然而关于DAMPs 是否确实是TLR 的配体的争论仍在继续，有种猜测是细菌的产物或TLR 激活的某些物质，如脂类或DNA 激活 TLRs 而不是配体自身[]。接下来的研究将包括利用候选分子的遗传钝化去鉴定DAMPs是否为真实的TLR 配体，并且可能以上提到的一些候选因子将被确认为TLRs 配体。此外，内源的DNA 能作为TLR9 的激动剂可促进自身免疫反应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2TLRs的信号转导与负调控 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1信号转导 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TLRs激动剂与受体的结合可启动细胞内信号转录通路的复杂网络的激活，从而协调炎症反应。一旦与配体结合TLRs会出现构象的改变与二聚化。这些信号网络的重要成分是接头蛋白与几个蛋白激酶包括细胞外信号调节激酶（ERK）、c-Jun氨基末端激酶（c-Jun N-terminalkinase,JNK）、p38MAP酶、磷脂酰肌醇-3激酶（PI-3k）和转录因子IRF3/5/7、核转录因子κB（nuclear factor kB，NF-kB）和活化蛋白1（activator protein-1，AP-1)。转录因子的激活会导致涉及在抗病毒反应中的促炎性细胞因子或协同刺激分子的产生。关键的接头蛋白包括除了TLR3以外被几乎所有的TLRs使用的髓样分化蛋白88（myeloid differentiation factor 88,MyD88）和TIRAP，同时可诱导干扰素-β的TIRAP（TIR domain containing adaptor inducingIFN-β，TRIF）与TRIF相关接头分子（TRIF-related adaptor molecule，TRAM），同样是含有TIR的重要的接头蛋白。在TLRs中唯有TLR4能激活2个不同信号通路：TIRAP/MyD88和TRAM/TRIF。而有趣的是，TLR4通过MyD88的信号不需要从质膜传导到内吞的囊泡，TRIF调节的信号需要TLR4的内化[12]。MyD88依赖型信号通路导致下游信号转导的激活包括白细胞介素-1受体（IL-1R）相关激酶（IRAKs）、肿瘤坏死因子受体相关因子6（tumor necrosisreceptor-associated factor6，TRAF6）、转化生长因子活化激酶1（TAK1）和核因子的抑制蛋白（IkB)。通过NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ 和AP-1，MyD88依赖信号通路的激活引起促炎细胞因子白细胞介素-6（IL-6）、白细胞介素-10（IL-10）、白细胞介素-12（IL-12）和TNF- $\\mathbf { \\alpha } \\cdot \\mathbf { a }$ 的产生。而TRIF依赖信号通路引起干扰素调节因子(IRFs）的激活和I型干扰素的产生（图1为TLR信号转导途径)。78 因此，无论是MyD88依赖型信号通路还是非依赖型信号通路在TLRs启动相关反应调控免疫79 应答的过程中都十分重要。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HMGB1：高迁移率族蛋白B1 high mobility group box-1 protein；Hyaluronan：透明质酸 hyaluronic acid;ssRNA：单链核糖核酸 single-stranded ribonucleic acid;TBK1:箱式结合激酶1tank-binding kinase1； IRAK4:白细胞介素-1受体相关激酶4 interleukin-1 receptor-associated kinase 4；RIP1：受体互作蛋白1 receptor-interacting protein1；IRF-3：干扰素调节因子3 interferon regulating factor 3；JNK：c-Jun氨基末端激酶c-JunN-terminal kinase；IFN- $\\mathsf { { o } / \\beta }$ ： $\\alpha$ 或β型干扰素interferon- $\\alpha / \\beta$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e21d84cc20b90f71afcb3617c88608536c96a02e59096c4142385f24d08ffdd5.jpg",
+        "img_caption": [
+            "图1 TLR信号转导通路",
+            "Fig.1The pathway of TLR signaling transduction[13] "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TLRs主要被位于核内体的病毒PAMPs和细胞表面的细菌PAMPs激活，除了PAMPs外几个内源性介质包括透明质酸和高迁移率族蛋白B1（high mobility group box-1 protein，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HMGB1）可以激活 TLR2和TLR4。TLRs通过2个适配器分子MyD88和TRIF 引起前促炎性反应和抗病毒基因的上调。MyD88 引起的信号（橙色）主要激活NF-kB、IRF-7和 JNK，依赖 TRIF 的信号（蓝色）主要激活 NF-kB 和 IRF-3。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 信号负调控 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "强烈的促炎性反应和抗病毒反应可能在短期内可有效地消灭病原菌，但TLR信号的长期或过度的激活会造成机体功能紊乱，进而导致相关疾病的产生，如LPS引起的内毒素性休克、自身免疫性疾病和其他TLRs相关疾病，还会促进肿瘤特别是炎症相关性肿瘤的发生、转移和免疫逃逸[14]。因此，几个对TLRs引起的细胞内反应负调节的机制逐渐形成[15]。这些机制作用在受体水平[防辐射105（RP105）、肿瘤发生抑制物蛋白ST2和单免疫球蛋白IL-1受体相关蛋白（SIGIRR）的表达，TLRs的下调或降解]，也作用在适配器水平的分子如MyD88和TIRAP或相应的激酶，如IRAK。这些机制造成TLRs信号的减少包括TLR4转录的减少,TLR4、TLR9蛋白的降解和TIRAP被抑制性锌指蛋白（Triad3A）或细胞因子信号抑制物1（SOCS-1)的降解，抑制如ST2和SIGIRR的TIR功能域，或抑制LRR功能域受体如RP105的表达，同时也抑制非功能性信号分子如短剪接突变体MyD88、IRAK-M、IRAK2c和IRAK2d的表达。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 肠道内的TLRs ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在动物肠道内多数的TLRs都有所表达，这里只介绍部分TLRs的表达情况。TLR5 主要表达在结肠上皮细胞上并识别入侵的鞭毛细菌，而TLR2和TLR4在肠上皮的表达量低而在结肠隐窝处更丰富[16]，另外 TLR3 主要在小肠与结肠中成熟的肠细胞内表达[17-18]。在上皮细胞内TLR的空间分布的差异可能构成了一个关键的调节机制去识别共生菌与致病菌。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2肠道TLRs连接先天免疫与获得性免疫 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "入侵的病原体被免疫系统中的天然免疫与获得性免疫共同控制引起系统性免疫反应和黏膜免疫反应。先天免疫系统是对抗致病菌入侵的第一道防线，在对病原菌的早期识别与随后炎症反应启动的过程中具有关键作用[。先天免疫反应的进行依赖TLRs对相关分子模式的识别，致病菌出现的时候TLRs会将危险信号反馈给抗原提呈细胞，同时配体与TLR的结合会引起活性氧与二氧化氮、前炎症因子的产生并且上调共刺激分子的表达，最终引起获得性免疫反应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "肠道需要控制微生物种群的数量和识别潜在的病原菌，这些任务被上皮屏障、先天免疫与适应性免疫机制共同完成（图2）。获得性免疫的建立包括细胞的扩增、基因的激活和蛋白质的合成，因此消灭病原菌的过程通常不是足够迅速的。先天免疫反应提供的通过PRRs识别入侵病原体的防卫机制则更加迅速。在适应性免疫反应出现之前TLRs能激活先天性免疫反应与主要的炎症反应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1669d04e63d061b50a3816f7b841d542be3d4587336c01d9b67578263c07e752.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MAMPS：微生物相关分子模式 microbe associated molecular patterns；NLR：Nod 样受体 nod likereceptors；Defensins：防御素；Innate lymphoid cell：固有淋巴细胞；Goblet cell：杯状细胞；Paneth cell:潘氏细胞；Stromal cell：基质细胞；Macrophage：巨噬细胞；Dendritic cell：树突状细胞。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2正常状态下小肠对抗MAMPs和DAMPs的作用机制",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Mechanism of intestinal response against MAMPs and DAMPs in normal conditions[19] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上皮屏障通过跨膜TLRs识别微生物相关分子模式（MAMPs），并且细胞内微生物与DAMPs通过Nod样受体（nod like receptors，NLRs）识别。入侵固有层的病原菌被其他细胞以相同的机制识别如树突状细胞、巨噬细胞和淋巴细胞，最后产生的趋化因子与细胞因子引起固有层内免疫细胞的激活。TLRs和NLRs启动先天免疫并维持机体内稳态。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3TLRs 激活肠道上皮细胞 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "动物健康依赖肠道系统作为第一健康屏障[20]。而这种屏障作用的完成是由肠道菌群结构和肠道上皮细胞健康状态共同完成的。首先，肠道中的微生物菌群与肠道上皮细胞紧密结合从而形成一道对抗病原菌的机械屏障，另外，肠道上皮细胞可提供启动和调节炎性反应的早期信号并分泌抗菌肽[21]，维持肠道健康。为了在宿主与微生物区系间建立一个丰富的长期的稳衡关系，TLRs积极地参与到创造肠道环境的过程中，TLRs将肠道中的病原相关分子转化为信号用于抗菌肽的表达、屏障的加强与上皮细胞的增殖。治愈损伤的肠上皮和清除黏膜内细菌都需要完整的TLRs 信号。上皮细胞的 TLRs功能性损伤与慢性疾病的产生有关如克罗恩病、癌症。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 抗生素治疗会对肠道菌群的稳态造成破坏影响动物肠道的免疫防御机能,同时可通过诱  \n1 导肠道微生物原噬菌体来促进抗性基因的转移。而作为抗生素替代品的抗菌肽，对动物肠道  \n-5 健康具有积极的作用。因而，抗菌肽受TLR分泌调控的过程是较复杂的。潘氏细胞（paneth  \n③ cell，PC）是位于小肠隐窝基底部的肠细胞，可调节肠道菌群的组成和抵抗病原菌，而这些  \n7 效应通过产生防御素这样的效应分子进行调节。肠道防御素是一类内源性抗菌肽，其转录诱  \n3 导和分泌需要TLRs的调节。除了表现出广谱抗菌活性外，防御素还可以调节机体的免疫反  \n9 应。而上皮防御素的减少可能会引起动物肠道菌群易位。研究表明，猪β-防御素1（pBD1)  \n） 和猪β-防御素2（pBD2）能够影响猪肠上皮细胞中黏蛋白与紧密连接蛋白的基因表达[22]。潘  \n1 氏细胞表达 $\\alpha \\mathrm { . }$ -防御素、防御素-5和防御素-6，并且完整的细菌或像LPS、脂磷壁酸（LTA）和  \n2 胞壁酰二肽这类PAMPs都能刺激防御素的释放，这表明藩氏细胞表达范围广泛的TLRs。潘  \n3 氏细胞在其分泌的颗粒中能表达TLR9并广泛诱导潘氏细胞脱颗粒释放抗菌肽，以保护小鼠  \n1 免受鼠伤寒沙门氏菌的感染[23]。除了防御素，Hopper等[24]的工作已经证实，肠腔的细菌会  \n-5 引起潘氏细胞的血管生成素的表达。这些资料表明，潘氏细胞的抗菌功能都与TLRs有关。  \n③ 除了潘氏细胞表达 $\\mathfrak { a } \\mathrm { . }$ 防御素，肠道上皮细胞也可表达 $\\mathfrak { a } \\mathrm { . }$ 防御素1、 $\\mathbf { \\alpha } _ { \\mathrm { ~ \\mathfrak { a } . ~ } }$ 防御素2和 $\\mathfrak { a }$ 防御素3[25]。  \n7 研究人员已经证实，沙门氏菌鞭毛蛋白能刺激β-防御素2在肠道上皮细胞的表达[26-27]，TLR4  \n3 和TLR2依赖的信号通路能刺激 $\\beta \\mathrm { . }$ -防御素2在肠道上皮细胞表达[28]。这些资料显示，肠道上皮  \n9 细胞在TLRs的调节下可通过分泌抗菌肽对抗病原菌维持肠道健康。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4TLRs与肠道共生菌的相互作用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "肠道微生物一方面作为抗原可对肠黏膜屏障造成危害，而另一方面，肠道共生菌通过激活肠道免疫系统可维持肠黏膜屏障的稳态[29]。Rakof-Nahoum等[30]研究证明，共生菌通过激活TLRs，在避免相关组织受损与肠道损伤中有积极作用。共生菌还可以通过产生代谢产物或分泌抗菌物质来抵抗病原菌感染，抗菌肽在肠道中具有塑造微生物群落的作用[31]。反刍动物瘤胃内存在的抗菌肽可改变瘤胃微生物组成，调节瘤胃发酵过程并减少相关疾病的产生[32]。Wu等[33]研究表明，给猪饲喂抗菌肽可抑制盲肠有害菌的繁殖并刺激有益菌的增殖。各种类型的双歧杆菌（共生菌）可以产生有机酸和多肽[34]，影响致病的大肠杆菌对内皮细胞的黏附，而病原菌的黏附作用是其定植与发挥毒性的基础[35]。黏附在黏膜表面和（或）侵袭机体组织的病原菌可被TLRs所察觉，并启动相应的应答反应。在艰难梭菌感染过程中，肠道共生菌可以激活TLRs的信号通路[36]，促进结肠固有层细胞趋化因子CXCL1的表达，起到抵抗病原菌的作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TLRs的发现可以说是免疫学发展的里程碑，对其深入的研究对于免疫学理论的推动与疾病的治疗都具有深远的影响。TLRs 除了在先天免疫反应中起作用，在许多其他的过程中也有重要作用，包括适应性免疫反应、无菌炎症的调节、伤口愈合和促进上皮再生与致癌作用。目前，TLRs 在肠黏膜免疫调节中的关键作用，其中以人为主的研究为多，TLRs 对肠道和动物组织器官健康的一系列影响还未被全面认识，因此，TLRs对动物肠道健康影响方面还有很多研究工作需要去做，如研究不同年龄、不同生产状态的动物，特别是从初生到断奶过程中肠道健康依然是薄弱阶段的幼龄动物，不同组织、器官TLRs 组的表达水平如何；进行营养干预或不同外源免疫制剂（如抗菌肽）对动物肠道微生物区系的影响与TLRs上调或下调水平的相关性，以及TLRs 组的变化与其他免疫因子组的关系等。随着相关研究的深入开展将会为抗生素替代品对感染性疾病的免疫性治疗提供理论依据，为人类健康与畜牧业的可持续发展做出贡献。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] AKIRA S,TAKEDA K.Toll-like receptor signalling [J].Nature Review Immunol0gy,2004,4(7):499-511. [2]AKIRA S,TAKEDA K,KAISHO T.Toll-like receptors:critical proteins linking innate and acquired immunity[J].Nature Immunology,2001,2(8):675-680. [3]THOMPSON A J V,LOCARNINI S A.Tol-ike receptors,RIG-I-like RNA helicases and the .90 antiviral innate immune response[J].Immunol Cell Biology,2007,85(6):435-445. .91 [4] LUO J,LI W,DUAN Y F,et al.Host discriminates between probiotics and pathogens:impact of .92 toll like receptor 5-flagellin interaction and evolution[J].Microbiology .93 China,2014,41(7):1368-1375. .94 [5]KAWAI T,AKIRA S.The roles of TLRs,RLRs and NLRs in pathogen recognition[J].Int .95 Immunol,2009,21(4):317-337. .96 [6] BEUTLER B A.TLRs and innate immunity[J].Blood,2009,113(7):1399-1407. .97 [7] AKIRA S,UEMATSU S,TAKEUCHI O.Pathogen recognition and innate immunity[J].Cell .98 2006,124(4):783-801. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]GEORGEL P,JIANG Z F,KUNZ S,et al.Vesicular stomatitis virus glycoprotein G activates a specific antiviral toll-like receptor 4-dependent pathway[J].Virology,2007,362(2):304-313. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9]JUDE B A,POBEZINSKAYA Y,BISHOP J,et al.Subversion of the innate immune system by a retrovirus[J].Nature immunology,2003,4(6):573-578.   \n[10]KURT-JONES E A,POPOVA L,KWINN L,et al.Pattern recognition receptors TLR4 and CD14 mediate response to respiratory syncytial virus[J].Nature Immunology,200,1(5):398-401. [11]TSAN M F,GAO B.Pathogen-associated molecular pattrn contamination as putative endogenous ligands of Toll-like receptors[J].Journal of Endotoxin Research,2OO7,13(1):6-14. [12]KAGAN J C,SU T,HORNG T,et al.TRAM couples endocytosis of Toll-like receptor 4 to the induction of interferon-β[J].Nature Immunology,2008,9(4):361-368.   \n[13]MENCIN A,KLUWE J,SCHWABE R F.Tol-like receptors as targets in chronic liver diseases[J].Gut,2009,58(5):704-720.   \n[14]CHENG Y XQI X Y,HUANG J L,et al.Tol-like receptor 4 signaling promotes the immunosuppressive cytokine production of human cervical cancer[J].European Journal of Gynaecological Oncology,2012,33(3):291-294.   \n[15]LIEW F Y,XU D,BRINT E K,et al.Negative regulation of tol-like receptor-mediated immune responses[J]. Nature Reviews Immunology,2005,5(6):446-458.   \n[16]WELLS J M,LOONEN L M P,KARCZEWSKI J M.The role of innate signaling in the homeostasis of tolerance and immunity in the intestine[J].Int JMed Microbiol,2010,300(1):41-48. [17]WELLS JM,ROSSI O,MEIJERINK M,et al.Epithelial crosstalk at the microbiota-mucosal interface[J].Proceedings of the National Academy of Sciences of the United States of America,2011,108(Suppl.1):4607-4614.   \n[18]CARIO E,ROSENBERG I M,BRANDWEIN S L,et al.Lipopolysaccharide activates distinctsignalingpathwaysinintestinalepithelial celllinesexpressingtoll-like receptors[J].Journal of Immunology,2000,164(2):966-972.   \n[19]ELIA P P,TOLENTINO Y E,BERNARDAZZI C,et al.The role of innate immunity receptorsinthepathogenesisofinflammatoryboweldisease[J].Mediators of Inflammation,2015,2015:936193.   \n[20]TEIXEIRA L D,SILVA O N,MIGLIOLO L,et al.In vivo antimicrobial evaluation of an alanine-rich peptide derived from Pleuronectes americanus[J].Peptides,2O13,42:144-148. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 [21]曾炯,黄兴国,邬理洋.微生态制剂与肠黏膜免疫关系的研究进展[J].饲料工   \n30 业,2010,31(4) :58-60.   \n31 [22]薛现凤.猪 β-防御素抗菌、抗氧化功能及其对肠上皮细胞黏膜屏障功能的影响[D].硕士   \n32 学位论文,杭州:浙江大学,2012.   \n33 [23]RUMIO C,BESUSSO D,PALAZZO M,et al.Degranulation of paneth cels via toll-like   \n34 receptor 9 [J].The American Journal of Pathology,2004,165(2):373-381.   \n35 [24]HOOPER L V,STAPPENBECK T S,HONG C.et al.Angiogenins:a new class of   \n36 microbicidal proteins involved in innate immunity[J].Nature Immunology,2003,4:269-273.   \n37 [25]FAHLGREN A,HAMMARSTROM S,DANIELSSON A,et al.Increased expression of   \n38 antimicrobial peptides and lysozyme in colonic epithelial cells of patients with ulcerative   \n39 colitis[J].Clinical & Experimental Immunology,2003,131(1):90-101.   \n10 [26]OGUSHI,WADA A,NIDOME T,et al.Salmonella enteritidis FliC (flagella filament protein)   \nl1 induces human $\\beta$ defensin-2 mRNA production by Caco-2 cels[J].Journal of Biological   \n12 Chemistry,2001,276(32):30521-30526.   \n13 [27]OGUSHI K,WADA A,NIIDOME T,et al.Gangliosides act as co-receptors for Salmonella   \n14 enteritidis FliC and promote FliC induction of human beta-defensin-2 expresson in Caco-2   \n15 cells[J].Journal of Biological Chemistry,2004,279(13):12213-12219.   \n16 [28] VORA P,YOUDIM A,THOMAS L S,et al. $\\beta$ defensin-2 expression is regulated by TLR   \n17 signaling in intestinal epithelial cells[J].Journal of Immunology,2004,173(9):5398-5405.   \n18 [29]左增妍,张彩.肠道黏膜免疫耐受机制研究进展[J].现代免疫学,2015,35(1):68-71.   \n19 [30]RAKOFF-NAHOUM S,PAGLINO J,ESLAMI-VARZANEH F,et al.Recognitionof   \n50 commensal microflora bytoll-Likereceptorsisrequired forintestinal homeostasis   \n51 [J].Cell,2004,118(2):229-241.   \n2 [31]蔡杰,唐志如,邓欢,等.动物肠道黏膜抗菌肽维持微生物区系平衡机制研究进展[J].动物   \n3 营养学报,2014,26(8):2071-2076.   \n4 [32]CHEEMA U B,YOUNAS M,SULTAN J I,et al.Antimicrobial peptides:an alternative of   \n5 antibiotics in ruminants[J].Advances in Agricultural Biotechnology,2011(2):15-21.   \n6 [33]WU S D,ZHANG F R,HUANG Z M,et al.Effects of the antimicrobial peptide cecropin AD   \n57 onperformance and intestinal health in weaned piglets challenged with Escherichia   \n8 coli[J].Peptides,2012,35(2):225-230. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[34]SCHOSTER A,KOKOTOVIC B,PERMIN A,et al.In vitro inhibition of Clostridium difficile and CloStridium perfringens by commercial probiotic strains[J].Anaerobe,2O13,20:36-41. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[35]唐志刚,温超,王恬,等.益生菌与家禽肠道免疫调控的构效关系[J].畜牧与兽医,2012,44(8):86-89.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[36]BUFFIE C G,PAMER E G.Microbiota-mediated colonization resistance against intestinal pathogens[J].Nature Reviews Immunology,2013,13(11):790-801. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Toll-Like Receptors and Its Regulation Role of Intestinal Mucosal Immunity QUAN Jiahui JIANG Ning\\* ZHANG Aizhong HUANG Fujia JIANG DianhuiSONG Lei ZHANG Weiqing (College of Animal Science, Heilongjiang Bayi Agricultural University, Daqing l63319, China) Abstract: Tol-like receptors (TLRs） are a highly conservative group of pattern recognition receptors,which play roles of pathogen sensors in vertebrate and invertebrate species. Recently, Tol-like receptors have been far and wide concerned.The recognition of TLRs to specific ligands is the basis of the innate immune system,and it enables protective responses to mount rapidly, then, it can activate adaptive immunity against invading pathogens. TLRs play an important role in the process of distinguishing between the pathogenic bacteria and probiotic for the intestinal immune, while secretion of antimicrobial peptides is also regulated by TLRs in intestinal epithelial. This paper introduced the types of TLRs, ligands and the corresponding signal pathway， and discussed the key role of TLRs in intestinal immune regulation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: toll-like receptors； intestinal mucosa immune； ligands； signal transduction;antimicrobial peptides",
+        "page_idx": 10
+    }
+]

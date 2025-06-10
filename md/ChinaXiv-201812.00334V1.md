@@ -1,0 +1,245 @@
+酵母培养物对泌乳中后期奶牛生产性能、养分表观消化率以及血清指标的影响闫碧川1,2 李振乾1,2李胜利² 王雅晶² 曹志军 2\* 李元晓1\*（1.河南科技大学动物科技学院，洛阳471023；2.中国农业大学动物科技学院，动物营养学国家重点实验室，北京市生鲜乳质量安全工程技术研究中心，北京100193）
+
+4  
+5 摘要：本试验旨在研究酵母培养物（YC）对泌乳中后期奶牛生产性能、养分表观消化率  
+6 以及血清指标的影响。选取48头健康的泌乳中后期荷斯坦奶牛，按照胎次、产奶量  
+7 I $( 3 6 . 4 9 { \pm } 1 . 5 0 )$ ） $| \mathrm { k g } ]$ 、泌乳天数[（ $1 7 5 { \pm } 6$ ）d]等相同或相近的原则随机分为对照组、试验I  
+8 组、试验Ⅱ组和试验组，每组12个重复，每个重复1头牛。对照组在基础饲粮基础上添  
+9 加 500 g/(d·头)压片玉米，试验I组、试验Ⅱ组和试验组分别在基础饲粮基础上添加 500  
+10 g/(d·头）酵母培养物1、 $5 0 0 \ \mathrm { g } / ( \mathrm { d } \cdot \ncong \ncong )$ 酵母培养物2、 $1 0 0 \ : \mathrm { g / ( d } \cdot \mathrm { ~ }$ 头)酵母培养物3。试验期  
+11 $4 5 \mathrm { d }$ ，其中预试期为 $1 5 { \mathrm { d } }$ ，正试期为 $3 0 \mathrm { d }$ 。结果表明：1)与对照组相比，试验I组的干物质  
+12 采食量显著提高 $0 . 8 2 \mathrm { k g / d }$ （ $\ P < 0 . 0 5 )$ ，产奶量显著增加 $1 . 1 8 \mathrm { k g / d }$ （ $P < 0 . 0 5 )$ ；试验 $\mathrm { I I }$ 组和试  
+13 验II组干物质采食量分别提高0.58、 $0 . 6 6 \mathrm { k g / d }$ ，产奶量分别提高0.79、 $0 . 6 5 \mathrm { k g / d }$ ，差异均不  
+14 显著 $( P > 0 . 0 5 ) \$ )。试验I组乳成分中乳脂率分别比对照组和试验ⅡI组显著提高 $5 . 1 2 \%$ 和 $4 . 8 3 \%$   
+15 （ $\cdot P < 0 . 0 5 )$ ）；与对照组相比，试验ⅡI组和试验II组乳脂率分别提高 $0 . 2 6 \%$ 和 $2 . 7 0 \%$ ，差异不  
+16 显著 $\langle P > 0 . 0 5 \$ ）。2）试验I组干物质、中性洗涤纤维的表观消化率比对照组显著提高5.47%  
+17 和 $3 . 0 5 \%$ ( $P < 0 . 0 5$ ）；试验ⅡI组和试验IⅢ组干物质、中性洗涤纤维的表观消化率比对照组  
+18 分别提高 $3 . 7 1 \%$ 和 $1 . 8 4 \%$ 、 $1 . 3 6 \%$ 和 $0 . 9 6 \%$ ，但差异不显著（ $P > 0 . 0 5$ ）。3）试验I、IⅢ组血  
+19 清球蛋白含量在第0天显著高于对照组（ $P < 0 . 0 5$ ）；试验Ⅲ组血清球蛋白含量在第15天及  
+20 全期平均值显著高于对照组（ $\cdot P < 0 . 0 5$ ）。4）与对照组相比较，试验I组血清丙二醛含量在  
+21 第 30天及全期平均值显著降低（ $P < 0 . 0 5$ ）；试验I组血清谷胱甘肽过氧化酶活性在第15
+
+收稿日期：2017-12-25  
+基金项目：国家现代农业科技城成果惠民科技示范工程（Z151100001015012）  
+作者简介：闫碧川（1990—），男，河南平顶山人，硕士研究生，研究方向为反刍动物营养。E-mail: 756748220@qq.com  
+\*通信作者：曹志军，副教授，博士生导师，E-mail：caozhi jun@cau.edu.cn；李元晓，副教授，硕士生导师，E-mail：lyx8023@yeah.net
+
+天及全期平均值显著高于对照组（ $P < 0 . 0 5$ ）。5）与对照组相比，试验I组毛利润提高0.68元/(d·头)，其他组均降低。综合分析得出，饲粮中添加酵母培养物能够提高泌乳中后期奶牛生产性能，提高养分表观消化率，对血清生化指标没有负面影响，同时增强血清抗氧化能力，提高经济效益，以添加 500g/(d·头)的酵母培养物1效果较好。
+
+关键词：酵母培养物；泌乳奶牛；生产性能；表观消化率；血清生化指标；抗氧化指标中图分类号：S816.7;S823
+
+泌乳牛在产奶盛期产奶量增加到产奶高峰，此阶段的产奶量占全泌乳期产量的 $4 0 \% \sim$ $50 \%$ ，该时期成为养殖者等的重要关注点，但奶牛进入产乳中期后产奶量按 $6 \% \sim 7 \%$ 的速度下降，同时前期损失的体重开始恢复或失重终止，进入产乳后期产乳量下降到较低的水平[]。因此，奶牛泌乳中后期产奶量下降快慢会影响到整个养殖阶段的生产性能和经济效益的提高，所以在确保奶牛采食量的充足的同时，还要提高其饲粮消化率，来保障奶牛健康以及产奶量提高和稳定，从而保证养殖效益。酵母培养物（yeast culture）是酵母菌在特制的培养基上通过厌氧环境充分发酵后形成的微生态制剂。酵母培养物主要包括发酵后变异培养基、酵母代谢物以及残留的酵母菌等，富含大量的养分如：消化酶、矿物质、维生素、促生长因子、氨基酸、寡糖等，还含有一些未知的因子，能够为反刍动物瘤胃内微生物生长提供所需营养[2]，进而调控养分的消化。刘国娟等[3]在泌乳中期奶牛饲粮中添加 $4 0 0 ~ \mathrm { g } / ( \mathrm { d } \cdot \dot { \ast } ) 2$ 种菌培养物，产奶量提高 $6 . 8 4 \%$ ，乳体细胞数下降 $2 9 . 7 8 \%$ 。王晓宏等[4]等在泌乳中期奶牛饲粮中添加400 g/(d·头)复合酵母培养物，产奶量相对提高 $1 . 0 7 \mathrm { k g } / ( \mathrm { d } \cdot \sharp \cdot \$ )，乳体细胞数下降 $10 \%$ ，乳脂率提高 $0 . 0 8 \%$ 。陈作栋等[5]研究结果表明，饲粮中添加 $3 0 \ \mathbf { g } /$ (d·头)酵母培养物，能够提高生长期锦江黄牛饲粮中粗蛋白质和干物质的表观消化率，提高生长期抗氧化能力。寇慧娟等[]在绒山羊羔羊饲粮中添加 $2 0 ~ \mathrm { g / k g }$ 酵母培养物，发现中性洗涤纤维、粗蛋白质的表观消化率显著高于对照组。国内外对于酵母培养物在动物上的研究报道较多，目前在奶牛生产上的研究主要集中在提高泌乳盛期和中期奶牛生产性能方面，而对酵母培养物能否提高泌乳中后期奶牛饲粮养分表观消化率鲜有报道。因此，本试验选取常见的几种酵母培养物进行饲喂试验，旨在探讨饲粮中添加酵母培养物对奶牛泌乳中后期生产性能、养分消化率、血清生化指标和血清抗氧化指标的影响，全面评价酵母培养物在泌乳中后期奶牛饲粮中的应用价值，为泌乳奶牛生产实践中合理应用酵母培养物提供理论依据。
+
+）1材料与方法
+
+1.1 试验材料
+
+试验所用酵母培养物1（YC-1）生产原料主要农副产品，主要成分有枯草芽孢杆菌、变性培养基、酵母细胞及代谢物，粗蛋白质含量为 $22 \%$ ，甘露糖含量为 $1 \%$ ，小肽含量 $6 \%$ 枯草芽孢杆菌数为 $3 . 2 \times 1 0 ^ { 6 } \mathrm { C F U / g }$ ；试验所用酵母培养物2（YC-2）主要生产原料白酒糟，主要成分为变性培养基、枯草芽孢杆菌、残留活酵母等益生菌，粗蛋白质含量为 $1 7 \%$ ，酸溶蛋白质含量为 $3 . 2 1 \%$ ，枯草芽孢杆菌数为 $2 . 8 \times 1 0 ^ { 6 } \mathrm { C F U / g }$ ，残留活酵母数为 $4 . 5 \times 1 0 ^ { 6 } \mathrm { C F U / g }$ 甘露糖含量为 $1 . 2 \%$ ；试验所用酵母培养物3（YC-3）主要生产原料为玉米，主要由变性培养基、酵母细胞及代谢产物3部分组成，粗蛋白质含量为 $1 8 . 5 \%$ 、甘露寡糖含量为 $2 . 1 5 \%$ ，甘露聚糖含量为 $5 \%$ 、小肽含量为 $9 . 2 \%$ 0
+
+# 1.2 试验设计
+
+试验采用单因素随机设计，选取48头健康的泌乳期荷斯坦花奶牛，按照胎次、产奶量、泌乳天数等体况相近的原则，将奶牛随机分为4组，每组12个重复，每个重复1头牛。根据产品推荐量以及能量相近原则，对照组在基础饲粮中添加 500g(d·头)的压片玉米，试验I组、试验Ⅱ组和试验III组分别在基础饲粮基础上添加 500 g/(d·头)的 YC-1、500 g/(d·头)的 YC-2、100g/(d·头)的 YC-3 进行动物试验。试验期 $4 5 \mathrm { d }$ ，其中预试期为 $1 5 { \mathrm { d } }$ ，正试期为 $3 0 \mathrm { d } .$ 试验奶牛集中在同一牛舍，由专人负责饲喂试验牛，试验全期采用全混合日粮(TMR)形式饲喂，每天2次，分别在07:00、17:00，且在每天07:00 将提前称量好的不同酵母培养物撒在TMR中，混合均匀后饲喂给试验奶牛。试验牛散栏饲养，自由饮水，随时观察牛的食欲、反刍、精神、粪尿、以及是否有乳房炎发生等情况，做好每一项记录。
+
+# 1.3 基础饲粮
+
+基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (干物质基础)
+
+Table 1 Composition and nutrient levels of the basal diet (DM basis) %项目Items 含量Content原料Ingredients全株玉米青贮 Whole-plant corn silage 28.13苜蓿草 Alfalfa hay 9.14燕麦草 Oat grass 3.70脂肪酸钙Fattyacid calcium 0.90
+
+膨化大豆 Extruded soybean 2.80  
+压片玉米 Tablet corn 10.04  
+喷浆玉米 Sprayed corn 5.20  
+高脂干酒糟及其可溶物HyperlipidemiaDDGS 5.55  
+脂肪粉 Fat powder 1.20  
+大豆皮 Soybean hulls 1.80  
+商品精料 Commercial concentratel" 27.65  
+羊草Leymuschinensis 3.89  
+合计 Total 100.00  
+营养水平 Nutrient levels2  
+产奶净能 NEL/(MJ/kg) 7.20  
+中性洗涤纤维 NDF 33.1  
+酸性洗涤纤维 ADF 20.5  
+粗蛋白质CP 16.9  
+粗脂肪 EE 5.7  
+钙Ca 0.78  
+磷P 0.39
+
+1)商品精料由首农集团提供，已剔除其他酵母培养物。Commercial concentrate was provided by Beijing Capital Agribusiness Group,and other yeast cultures were excluded.每千克饲粮中含有 One kilogram of the diet contained the following:VA 4 300 IU，VD 1 300 IU，VE 26 IU，Mn (as manganese sulfate) $1 7 \mathrm { m g }$ ，Zn(as zinc sulfate) $6 5 ~ \mathrm { m g }$ ， I(as potassium iodide) $0 . 4 5 \mathrm { m g }$ ， Se(as sodium selenite） $0 . 3 ~ \mathrm { m g }$ 。 2)产奶净能为计算值[7]，其他营养水平为实测值。 $\mathrm { N E } _ { \mathrm { L } }$ was a calculated value[7],while the nutrient levels were measured values.
+
+# 1.4样品采集及检测指标
+
+# 1.4.1产奶量、干物质采食量测定以及乳成分检测
+
+正试期每天挤奶3次（08:00、13:00、18:00），使用利拉伐鱼骨挤奶机进行挤奶，用阿波罗系统记录产奶量。通过奶牛个体自动采食槽饲喂系统记录试验奶牛的采食量和剩料量，每14d采集1次饲粮样，按照4分法收集， $6 5 ^ { \circ } \mathrm { C } ;$ 烘箱烘干，回潮，制备成风干样品，粉碎保存待测。参照张丽英所描述方法首先测定饲粮样品的干物质含量，然后在干物质的基础上测定饲粮样品的粗蛋白质、粗脂肪、中性洗涤纤维、酸性洗涤纤维的含量，其中粗蛋白质含量测定采用凯氏定氮法，粗脂肪含量测定采用索氏提取法，中性洗涤纤维和酸性洗涤纤维含量测定采用VanSoest洗涤纤维法。
+
+# 1.4.2 乳品质检测
+
+正试期第1、15、30天分别采集奶样1次，将早、中、晚采集样的奶样按4:3:3 混合，
+
+取 $5 0 ~ \mathrm { m L }$ 加重铬酸钾防腐剂混合均匀，样品及时送至北京奶牛中心使用多功能乳成分分析仪（Milko Scan 605，FossElectric Hillerod，丹麦）进行检测，测定指标为：乳蛋白率、乳脂率、乳糖率、乳尿素氮含量以及乳体细胞数。
+
+# 1.4.3 饲粮养分表观消化率
+
+每组随机选取7头奶牛，在正试期第28、29、30天采用直肠取粪法连续收集粪样12次，每天每头奶牛收集粪样 $2 0 0 { \sim } 4 0 0 ~ \mathrm { g }$ ，采样时间点分别为第28天的 $0 3 : 0 0$ 、 $0 8 : 0 0$ 、13:00和 $1 8 : 0 0$ ，第29天的 $0 4 : 0 0$ 、 $0 9 : 0 0$ 、 $1 4 : 0 0$ 和 $1 9 : 0 0$ ，第30天的 $0 5 : 0 0$ 、 $\mathbf { \sigma } _ { 1 0 } :$ $0 0 , \ 1 5 : 0 0$ 和 $2 0 : 0 0$ 。最后将每头牛的粪样均匀混合后取 $2 0 0 \ \mathrm { g }$ 左右，按1/4粪重加入 $10 \%$ 的酒石酸进行固氮，再次混匀烘干制备成风干样，用于测定粪中的养分和酸不溶灰分（AIA）含量。利用粪和饲粮中的AIA做内源指示剂计算表观消化率，计算公式参照孙国庆等[描述
+
+方法，公式如下：
+
+表观消化率 $\begin{array} { r l } { \mathrm { ~ ( \% ) ~ } = 1 0 0 \times \left[ 1 - \mathrm { ~ ( \it ~ A d X N f ) ~ } / \mathrm { \left( \it ~ A f X N d \right) } \right] \times 1 0 0 \mathrm { { o } } } \end{array}$ 式中：Ad和 ${ \mathbf { } } A f { \mathbf { } }$ 分别为饲粮和粪中的AIA含量‘ $\mathrm { { \acute { g } / k g } }$ ）； $\boldsymbol { N d }$ 和 $\mathit { N f }$ 分别为饲粮和粪中某种养分含量（g/kg）。
+
+# 1.4.4血样采集及指标测定
+
+在试验正试期前1天（第0天），正试期第15、30天，每组随机选择6头奶牛，于晨饲前使用真空采血管（购自山东奥赛特医疗器械有限公司）进行尾静脉采血，采集量为10mL。采集完成后立即将血液样品至于4℃、 $1 5 0 0 \times g$ 离心力下离心 $2 0 \mathrm { m i n }$ ，使用移液枪取上层血清，分装于 $1 . 5 ~ \mathrm { m L }$ 离心管中，置于 $- 2 0 \mathrm { ~ \textdegree ~ }$ 冰箱保存。血清样本送至北京莱博泰瑞科技发展有限公司采用比色法测定血清生化指标，包括葡萄糖（GLU）、总蛋白（TP）、白蛋白（ALB）、尿素氮（UN）含量和谷丙转氨酶（ALT）活性。采用试剂盒法（南京建成生物工程研究所）检测血清抗氧化指标，包括超氧化物歧化酶(SOD)、丙二醛（MDA）、谷胱甘肽过氧化酶(GSH-Px)。
+
+# 1.4.5 经济利润分析
+
+根据产奶量、乳蛋白率和干物质采食量进行相关计算，将产奶量转换为 $4 \%$ 标准奶产量，奶价以时价进行计算，饲粮干物质价格以牛场价格为准。 $4 \%$ 标准奶产量[10]计算公式如下：
+
+式中： $M$ 为产奶量； $F$ 为乳脂率。
+
+毛利润公式如下：
+
+式中： $A$ 为 $4 \%$ 标准奶产量； $B$ 为奶价格，本试验中为3元/kg； $C$ 为每千克干物质采食量饲粮成本,本试验中为3.2元/kg； $D$ 为干物质采食量； $E$ 为 $5 0 0 \ \mathrm { g }$ 压片玉米价格，本试验中为1.29元/(d·头)； $\boldsymbol { Q }$ 为酵母培养物价格，YC-1、YC-2、YC-3 分别为4、4、5元/(d·头)。
+
+# 1.5 数据统计分析
+
+试验数据先使用Excel2007进行初步的整理，采用SPSS17.0统计软件进行单因素方差分析（one-wayANOVA），Duncan 氏多重比较法进行差异显著性检验，结果以平均值士标准差表示， $P < 0 . 0 5$ 表示差异显著。
+
+2结果与分析
+
+2.1不同酵母培养物对泌乳中后期奶牛干物质采食量、产奶量和乳成分的影响
+
+由表2可知，与对照组相比，试验I组干物质采食量显著提高 $0 . 8 2 \mathrm { k g / d }$ （ $P < 0 . 0 5$ ），产奶量显著增加 $1 . 1 8 \mathrm { k g / d }$ ( $P < 0 . 0 5$ ）；试验Ⅱ组和试验I组干物质采食量分别提高0.58、$0 . 6 6 \mathrm { k g / d }$ ，产奶量分别提高0.79、 $0 . 6 5 \mathrm { k g / d }$ ，差异均不显著（ $\cdot P > 0 . 0 5$ ）。试验I组乳成分中乳脂率分别比对照组和试验ⅡI组显著提高 $5 . 1 2 \%$ 和 $4 . 8 3 \%$ （ $P < 0 . 0 5$ ）；与对照组相比，试验ⅡI组和试验II组乳脂率分别提高 $0 . 2 6 \%$ 和 $2 . 7 0 \%$ ，差异不显著（ $\left| P > 0 . 0 5 \right.$ ）；各试验组乳成分中乳蛋白率、乳糖率、乳脂率均高于对照组，同时乳体细胞数均低于对照组，但各组间差异均不显著 （ $P > 0 . 0 5$ ）。
+
+# 表2不同酵母培养物对泌乳中后期奶牛干物质采食量、产奶量和乳成分的影响
+
+37 Table 2Eects of diffrent yeast cultures on dry mater intake,milk yield and milk composition ofdairy cows in
+
+138
+
+mid-and late lactation   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>试验I组</td><td>试验Ⅱ组</td><td>试验Ⅲ组</td></tr><tr><td>Items</td><td>Control group</td><td>Test group I</td><td>Test group II</td><td>Test group III</td></tr><tr><td>干物质采食量 DMI/(kg/d)</td><td>23.18±0.76b</td><td>24.00±0.86a</td><td>23.76±0.90ab</td><td>23.84±0.93ab</td></tr><tr><td>产奶量 Milk yield/(kg/d)</td><td>35.19±1.17b</td><td>36.37±1.09a</td><td>35.98±1.61ab</td><td>35.84±1.66ab</td></tr><tr><td>乳蛋白率 Milk protein percentage/%</td><td>3.33±0.27</td><td>3.36±0.17</td><td>3.42±0.15</td><td>3.38±0.20</td></tr><tr><td>乳脂率 Milk fat percentage/%</td><td>3.71±0.22b</td><td>3.90±0.18a</td><td>3.72±0.19b</td><td>3.81±0.17ab</td></tr><tr><td>乳糖率 Lactose percentage/%</td><td>5.16±0.14</td><td>5.20±0.10</td><td>5.17±0.11</td><td>5.18±0.16</td></tr><tr><td>乳尿素氮含量 Milk urea nitrogen content/(mg/dL)</td><td>14.89±1.38</td><td>14.73±1.28</td><td>14.64±1.22</td><td>14.75±1.57</td></tr><tr><td>乳体细胞数 Milk SCC/(10个/mL)</td><td>130.12±11.55</td><td>126.50±23.69</td><td>127.81±15.74</td><td>129.52±11.55</td></tr></table></body></html>
+
+同行数据肩标无字母或者相同字母差异不显著（ $\cdot P > 0 . 0 5$ ），不同字母差异显著（ $P < 0 . 0 5$ ）。下表同。In the same row，values with no letter or the same letter superscripts mean no significant difference $( P >$ 0.05),while with different letter superscripts mean significant difference ( $P < 0 . 0 5$ ). The same as below.2.2不同酵母培养物对泌乳中后期奶牛养分表观消化率的影响由表3可知，试验I组干物质、中性洗涤纤维的表观消化率比对照组显著提高 $5 . 4 7 \%$ 和$3 . 0 5 \%$ ( $P < 0 . 0 5$ ）；试验Ⅱ组和试验Ⅲ组干物质、中性洗涤纤维的表观消化率比对照组分别提高 $3 . 7 1 \%$ 和 $1 . 8 4 \%$ 、 $1 . 3 6 \%$ 和 $0 . 9 6 \%$ ，但差异不显著（ $\cdot P > 0 . 0 5$ ）。各试验组粗蛋白质、粗脂肪和酸性洗涤纤维的表观消化率均高于对照组，但差异不显著（ $\cdot P > 0 . 0 5$ ）。
+
+表3不同酵母培养物对泌乳中后期奶牛对养分表观消化率的影响
+
+Table 3Effects of different yeast cultures on nutrient apparent digestibility of dairy cows   
+
+<html><body><table><tr><td>149</td><td colspan="2"> in mid- and late lactation</td><td colspan="2">%</td></tr><tr><td>项目</td><td>对照组</td><td>试验I组</td><td>试验Ⅱ组</td><td>试验Ⅲ组</td></tr><tr><td>Items</td><td>Control group</td><td>Test group I</td><td>Test group II</td><td>Test group III</td></tr><tr><td>干物质表观消化率 DM apparent digestibility</td><td>67.81±2.60b</td><td>71.52±2.30a</td><td>69.96±2.13ab</td><td>69.06±1.96ab</td></tr><tr><td>粗蛋白质表观消化率 CP apparent digestibility</td><td>69.11±1.83</td><td>70.79±2.57</td><td>71.18±1.42</td><td>69.76±1.46</td></tr><tr><td>粗脂肪表观消化率 EE apparent digestibility</td><td>75.75±3.34</td><td>76.88±3.86</td><td>77.02±3.32</td><td>76.21±2.95</td></tr><tr><td>中性洗涤纤维表观消化率 NDF apparent digestibility</td><td>67.49±1.50b</td><td>69.55±1.43a</td><td>68.41±1.72ab</td><td>68.14±1.65ab</td></tr><tr><td>酸性洗涤纤维表观消化率ADF apparent digestibility</td><td>55.62±1.65</td><td>57.36±1.65</td><td>56.65±1.17</td><td>57.48±1.78</td></tr></table></body></html>
+
+# 150 2.3不同酵母培养物对泌乳中后期奶牛血清生化指标的影响
+
+由表4可知，不同酵母培养物对泌乳中后期奶牛血清生化指标的影响，总体来看规律性不明显。对血清球蛋白含量，第0天试验I、IⅢ组显著高于对照组（ $\cdot P < 0 . 0 5$ ）；试验IⅢ组第15天血清球蛋白含量及全期平均值显著高于对照组（ $\cdot P < 0 . 0 5 ,$ ）。
+
+# 表4不同酵母培养物对泌乳中后期奶牛血清生化指标的影响
+
+Table 4 Effects of different yeast cultures on serum biochemical indexes of dairy cows in mid- and late   
+lactation   
+
+<html><body><table><tr><td>项目</td><td>时间</td><td>对照组</td><td>试验I组</td><td>试验Ⅱ组</td><td>试验Ⅲ组</td></tr><tr><td>Items</td><td>Time/d</td><td>Control group</td><td>Test group I</td><td>Test group II</td><td>Test group III</td></tr><tr><td rowspan="4">葡萄糖 GLU/(mmol/L)</td><td>0</td><td>3.91±0.20</td><td>3.92±0.13</td><td>4.12±0.28</td><td>3.95±0.13</td></tr><tr><td>15</td><td>3.95±0.30</td><td>3.96±0.21</td><td>3.92±0.17</td><td>4.10±0.33</td></tr><tr><td>30</td><td>4.00±0.22</td><td>4.03±0.24</td><td>4.10±0.35</td><td>4.18±0.28</td></tr><tr><td>平均值 Mean</td><td>3.95±0.15</td><td>3.97±0.16</td><td>4.02±0.17</td><td>4.04±0.20</td></tr><tr><td></td><td>0</td><td>74.17±4.70</td><td>76.33±3.77</td><td>74.90±1.92</td><td>76.33±3.44</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>15</td><td>73.17±5.34</td><td>77.33±5.78</td><td>74.67±2.51</td><td>79.75±5.57</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="7">白蛋白 ALB/(g/L)</td><td>30</td><td>74.00±5.84</td><td>78.00±5.43</td><td>76.83±5.27</td><td>78.40±5.83</td></tr><tr><td>平均值 Mean</td><td>73.78±5.07</td><td>77.27±4.31</td><td>75.61±2.84</td><td>77.78±3.91</td></tr><tr><td>0</td><td>34.50±3.27</td><td>34.67±1.51</td><td>35.20±1.30</td><td>35.00±1.27</td></tr><tr><td>15</td><td>35.00±1.26</td><td>35.33±1.21</td><td>34.83±1.72</td><td>34.80±1.92</td></tr><tr><td>30</td><td>35.00±2.09</td><td>35.00±1.41</td><td>35.50±1.64</td><td>34.67±2.50</td></tr><tr><td>平均值 Mean</td><td>34.83±1.96</td><td>35.00±1.24</td><td>35.19±1.30</td><td>34.72±1.59</td></tr><tr><td>0</td><td>36.60±2.79b</td><td>41.67±3.55a</td><td>39.25±2.98ab</td><td>41.33±3.38a</td></tr><tr><td>球蛋白 GLB/(g/L)</td><td>15</td><td>38.16±5.91b</td><td>42.00±5.32ab</td><td>39.83±3.19ab</td><td>45.25±3.09a</td></tr><tr><td rowspan="6">尿素氮 UN/(mmol/L)</td><td>30</td><td>39.00±6.48</td><td>42.60±4.93</td><td>41.33±4.92</td><td>43.00±4.00</td></tr><tr><td>平均值 Mean</td><td>38.67±2.71b</td><td>42.16±3.85ab</td><td>40.44±3.06ab</td><td>42.89±3.99a</td></tr><tr><td>0</td><td>5.30±0.28</td><td>5.73±0.90</td><td>5.38±0.70</td><td>5.94±0.90</td></tr><tr><td>15</td><td>5.57±0.83</td><td>5.57±0.84</td><td>5.60±0.56</td><td>5.96±0.85</td></tr><tr><td>30</td><td>5.78±0.78</td><td>6.23±0.62</td><td>6.20±0.48</td><td>6.09±0.89</td></tr><tr><td>平均值 Mean</td><td>5.56±0.55</td><td>5.90±0.67</td><td>5.76±0.38</td><td>5.96±0.75</td></tr><tr><td rowspan="4">谷丙转氨酶 ALT/(U/L)</td><td>0</td><td>20.40±2.30</td><td>18.50±4.18</td><td>22.80±3.03</td><td>22.00±4.96</td></tr><tr><td>15</td><td>17.00±4.89</td><td>20.67±5.00</td><td>19.17±2.79</td><td>19.50±1.74</td></tr><tr><td>30</td><td>22.25±4.03</td><td>24.80±3.42</td><td>21.33±2.80</td><td>23.34±3.05</td></tr><tr><td>平均值 Mean</td><td>20.16±2.31</td><td>21.02±2.78</td><td>20.80±2.16</td><td>21.55±3.24</td></tr></table></body></html>
+
+157 2.4不同酵母培养物对泌乳中后期奶牛血清抗氧化指标的影响
+
+158 由表5可知，各试验组血清 SOD 活性平均值均高于对照组，但差异不显著（ $\cdot P > 0 . 0 5 { \mathrm { . } }$ ）。  
+159 试验I组血清MDA含量在第30天及全期平均值显著低于对照组（ $P < 0 . 0 5$ ），其余时间点  
+160 各组间差异不显著（ $\cdot P > 0 . 0 5$ ）。试验I组血清GSH- $\mathbf { \cdot P x }$ 活性在第15天及全期平均值显著高  
+161 于对照组（ $P < 0 . 0 5$ ），其余时间点各组间差异不显著（ $\cdot P > 0 . 0 5 \dot { . }$ ）。
+
+表5不同酵母培养物对泌乳中后期奶牛血清抗氧化指标的影响  
+Table 5 Effects of different yeast cultures on serum antioxidant indexes of dairy cows in mid-and late lactation   
+
+<html><body><table><tr><td>项目</td><td>时间</td><td>对照组</td><td>试验I组</td><td>试验Ⅱ组</td><td>试验Ⅲ组</td></tr><tr><td>Items</td><td>Time/d</td><td>Control group</td><td>Test group I</td><td>Test group II</td><td>Test group III</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>0</td><td>40.56±2.38</td><td>40.72±2.47</td><td>40.42±2.65</td><td>40.54±1.67</td></tr><tr><td rowspan="6">丙二醛 MDA/(nmol/mL)</td><td>15</td><td>41.87±5.10</td><td>41.30±2.87</td><td>42.26±3.76</td><td>41.56±2.19</td></tr><tr><td>30</td><td>39.77±2.94</td><td>41.02±2.65</td><td>42.73±2.73</td><td>40.89±3.18</td></tr><tr><td>平均值 Mean</td><td>40.73±3.35</td><td>41.09±2.10</td><td>42.17±2.81</td><td>41.00±1.23</td></tr><tr><td>0</td><td>2.67±0.21</td><td>2.63±0.14</td><td>2.61±0.23</td><td>2.69±0.19</td></tr><tr><td>15</td><td>2.56±0.26</td><td>2.36±0.31</td><td>2.49±0.16</td><td>2.39±0.21</td></tr><tr><td>30</td><td>2.77±0.28a</td><td>2.42±0.16b</td><td>2.45±0.26ab</td><td>2.58±0.37ab</td></tr><tr><td rowspan="4">谷胱甘肽过氧化酶 GSH-Px/(U/mL)</td><td>平均值 Mean</td><td>2.66±0.18a</td><td>2.44±0.12b</td><td>2.51±0.14ab</td><td>2.50±0.20ab</td></tr><tr><td>0</td><td>100.35±8.93</td><td>99.07±11.17</td><td>99.50±9.38</td><td>99.34±8.66</td></tr><tr><td>15</td><td>92.76±6.43b</td><td>111.36±11.83a</td><td>100.13±7.44ab</td><td>107.42±10.04ab</td></tr><tr><td>30</td><td>92.01±8.37</td><td>107.11±14.16</td><td>109.84±9.83</td><td>100.43±8.38</td></tr><tr><td></td><td>平均值 Mean</td><td>93.91±7.67b</td><td>107.46±7.95a</td><td>100.05±10.93ab</td><td>105.26±6.28ab</td></tr></table></body></html>
+
+# 2.5 经济效益分析
+
+由表6可知，试验I组毛利润高于对照组0.68元/(d·头)，试验Ⅱ组和试验组毛利润比对照组分别低 2.55元/(d·头)和2.37元/(d·头)。
+
+# 表6经济效益分析
+
+Table 6Analysis of economic benefits 元/(d·头)
+
+$4 \%$ 标准奶收入FCM  
+总干物质采食量价格 Total dry matter feed intake price  
+毛利润 Gross profit
+
+<html><body><table><tr><td>对照组</td><td>试验I组</td><td>试验Ⅱ组</td><td>试验Ⅲ组</td></tr><tr><td>Control</td><td>Test</td><td>Test</td><td>Test group</td></tr><tr><td>group</td><td>group I</td><td> group II</td><td>IⅢI</td></tr><tr><td>100.98</td><td>107.46</td><td>103.38</td><td>104.43</td></tr><tr><td>74.17</td><td>76.8</td><td>76.03</td><td>76.28</td></tr><tr><td>25.52</td><td>26.20</td><td>22.97</td><td>23.15</td></tr></table></body></html>
+
+169 3讨论
+
+170 3.1不同酵母培养物对泌乳中后期奶牛生产性能的影响
+
+171 泌乳奶牛的生产性能是奶牛养殖经济效益关键所在，因此，通过营养调控等方式提高泌  
+172 乳奶牛生产性能是增加奶牛养殖经济效益的一种途径。王卫正等[研究发现，在泌乳中期奶  
+173 牛饲粮中添加 $3 \%$ 的酵母培养物，奶牛干物质采食量显著提高了 $0 . 5 9 \mathrm { k g / d } ,$ 产奶量提高了1.42  
+174 $\mathrm { k g / d }$ ，乳成分中乳脂率提高 $2 . 5 7 \%$ ，乳蛋白率提高 $2 . 6 7 \%$ 。王玲等[12]研究发现，在泌乳中后  
+175 期（ $1 3 5 { \sim } 2 0 5 \mathrm { d }$ ）奶牛饲粮中补饲复合酵母培养物能够提高奶牛干物质采食量，产奶量显著  
+176 提高 $10 . 0 5 \%$ ，乳脂率和乳蛋白率显著提高，乳体细胞数显著降低。姚晓红等[13]研究发现，  
+177 在泌乳中后期奶牛饲粮中添加 250g/(d·头)酵母培养物，产奶量显著提高 $1 4 . 6 1 \%$ ，乳脂率  
+178 显著提高 $5 . 8 1 \%$ 。刘庆华等[14]在泌乳后期奶牛饲粮中1、2、4kg/t添加酵母培养物对后期泌  
+179 乳奶牛乳脂率、乳蛋白率和乳全脂固形物含量没有影响。本试验中，添加YC-1显著提高干  
+180 物质采食量和产奶量，添加YC-2和YC-3 也能够提高干物质采食量和产奶量。干物质采食  
+181 量的增加可能为酵母培养物中芳香物改善饲粮的适口性，同时瘤胃内纤维素酶活性的增加  
+182 [15]，有利于纤维分解和利用，减少瘤胃内容物并产生饥饿感，共同促进采食量的增加；采食  
+183 量的增加、酵母培养物中富含的小肽[16]，均有利于产奶量的提高。本试验中，添加YC-1乳  
+184 成分中乳脂率分别比对照组和YC-2组显著提高 $5 . 1 2 \%$ 和 $4 . 8 3 \%$ ，与前人的研究结果不尽相  
+185 同。原因可能为饲粮的组成不同、奶牛所处的泌乳期不同、酵母培养物所用菌种不同、酵母  
+186 培养基的不同、饲喂时间不同以及饲喂方式不同等造成对乳成分影响结果的不同。
+
+3.2不同酵母培养物对泌乳中后期奶牛养分表观消化率的影响
+
+泌乳奶牛养分表观消化率对于提高奶牛的产奶量等生产性能具有重要意义，在生产实践中消化率可以反映出饲粮可消化性能以及动物的消化能力。Wiedmeier 等[17]研究发现，在后备奶牛饲粮中添加酵母培养物能够显著提高饲粮粗蛋白质、半纤维素和干物质消化率。张昌吉[18]在绵羊饲粮中添加 $1 . 5 \%$ 和 $3 . 0 \%$ 酵母培养物，研究发现酵母培养物对干物质、有机物、粗蛋白质、粗纤维、中性洗涤纤维和酸性洗涤纤维全消化道消化率影响不显著。汤飞飞[19]研究结果表明，在妊娠后期母猪和仔猪饲粮中添加 $2 9 \ : \mathrm { g / k g }$ 干酵母培养物能够显著提高母猪饲粮转化率，促进仔猪肠道的发育。本试验中，添加YC-1干物质、中性洗涤纤维的表观消化率显著高于对照组，与前人的研究结果不同，可能原因为在不同动物间的差异、酵母培养物的不同以及添加量不同造成的。酵母培养物中益生菌在瘤胃内能够促进微生物分泌淀粉酶、脂肪酶和纤维素酶等，能够促进瘤胃内淀粉、脂肪、碳水化合物等的分解，从而提高干物质和纤维素的消化率[20]。
+
+# 3.3不同酵母培养物对泌乳中后期奶牛血清生化指标的影响
+
+血清生化指标是判断机体生理功能的重要参数，可反映机体的代谢和健康状态等。血清中葡萄糖的含量反映了动物机体对糖的吸收、转运和代谢的平衡状态。奶牛血清中总蛋白、白蛋白和尿素氮含量反映机体内对蛋白质的吸收、合成以及分解状况[21]。奶牛血清中正常的总蛋白含量为 $6 2 { \sim } 8 2 ~ \mathrm { g / L }$ ，白蛋白含量为 $2 8 { \sim } 3 9 \mathrm { ~ \ g / L }$ ；血清球蛋白具有免疫活性，能够反映机体的免疫情况；血液中的尿素氮来源于机体组织蛋白的分解以及瘤胃壁吸收的氨氮化，由肾脏排出，能够反映蛋白质代谢的情况，是诊断疾病的重要指标之一；谷丙转氨酶是动物细胞中重要的氨基酸转移酶，活性的高低可以反映出心脏和肝脏的情况[22]。肖曼[23]研究结果表明，在肉仔鸡饲粮中添加酵母培养物，可以显著提高肉仔鸡血清中总蛋白含量。本试验结果与王玲等[12]结果基本一致，即各试验组间血清葡萄糖、总蛋白、白蛋白、尿素氮含量及谷氨转氨酶活性无显著差异。对血清球蛋白含量，第0天添加YC-1、YC-3的组显著高于对照组；至第15 天添加YC-3 的组显著高于对照组；全期平均值添加YC-3 的组显著高于对照组。酵母培养物中含甘露聚糖和β-葡聚糖等物质，能够刺激肠道并激活肠道黏膜免疫功能，促进肠道分泌大量球蛋白，进而增强免疫功能。在本试验中，与对照组相比，试验各组血清谷丙转氨酶活性均高于对照组，表明不同酵母培养物不会损伤心脏或肝脏，同时促进氨基酸代谢和蛋白质、脂肪和糖的相互转化。本试验结果表明，添加酵母培养物后各试验组血清中葡萄糖、总蛋白、白蛋白和尿素氮含量含均无显著性差异，且均在正常范围内，说明酵母培养物对机体内能量代谢以及蛋白质的合成分解未产生负面影响。
+
+3.4不同酵母培养物对泌乳中后期奶牛抗氧化指标的影响
+
+动物机体中的 SOD、GSH-Px活性和MDA含量是判断动物机体抗氧化能力的强弱的重要指标。王卫正等[1研究发现，泌乳中期奶牛饲粮中添加 $3 \%$ 的酵母培养物能够极显著提高血液 SOD 的活性，同时显著提高了奶牛血液 T-AOC，对于血液 MDA 含量和GSH-Px 活性有一定的影响。张爱忠等[24]研究结果表明，饲粮中添加 $2 \%$ 酵母培养物可以显著降低试验初期绒山羊血液活性氧的活力和 MDA 的含量，血液 SOD、GSH-Px 活力以及T-AOC 显著提高。程艳[25]研究发现，在泌乳中期奶牛饲粮中添加 $6 0 ~ \mathrm { g / d }$ 酵母培养物可以显著降低血浆中MDA的含量，显著提高血浆SOD、GSH $\mathbf { \cdot P x }$ 活性。本试验中，与对照组相比较，至第30天添加YC-1的组血清 MDA 含量显著降低；至第15 天添加YC-1的组血清GSH-Px 活性显著高于对照组；全期平均值添加YC-3 的组血清GSH- $\mathbf { \cdot P x }$ 活性显著高于对照组，与前人的研究结果相似。有研究发现，饲粮在相当程度上能够影响机体的抗氧化状态[26]。因此，通过控制饲粮来增强动物机体的抗氧化能力是具有可行性的。酵母培养物中富含多种养分，包括维生素、矿物质（硒、锌、铁等）、核苷酸、氨基酸、寡糖、酶（SOD）、谷胱甘肽（GSH）等以及一些未知营养因子，这些养分增强了机体的抗氧化能力。相关研究表明，酵母培养中富含GSH，通过添加酵母培养物增加饲粮中GSH的含量，进而增加动物机体内GSH含量[27]。GSH-Px 利用GSH作为还原剂促进过氧化氢、有机氢过氧化物和脂质氢过氧化物的还原，有助于保护细胞抵抗氧化损伤[28]。这些养分活性通过各种代谢途径的共同作用，增强了机体的抗氧化能力。
+
+4结论
+
+饲粮中添加酵母培养物能够提高泌乳中后期奶牛生产性能、饲粮养分表观消化率，对血清生化指标没有负面影响，能够增强抗氧化能力同时提高经济效益，以添加 500g/(d·头)的YC-1效果较好。
+
+参考文献:
+
+[1]吴明久.泌乳奶牛的饲养管理[J].现代畜牧科技,2017(4):51.  
+[2]王丽娟,孙满吉.饲料酵母及其培养物的作用机制研究进展[J].中国饲料,2000(18):10-12.  
+[3]刘国娟,孙鸽,周向丽,等.复合菌培养物对奶牛产奶性能及体细胞数的影响[J].中国畜牧兽医,2013,40(2):214-216.  
+[4]王晓宏,刘大程,殷兆丽,等.复合酵母培养物对奶牛生产性能的影响[J].畜牧与饲料科学,2011,32(9/10):167-168.  
+[5] 陈作栋,周珊,赵向辉,等.酵母培养物对生长期锦江黄牛生产性能、抗氧化能力以及免疫性能的影响[J].动物营养学报,2017,29(5):1767-1773.  
+[6] 寇慧娟,陈玉林,刘敬敏,等.酵母培养物对羔羊生产性能、营养物质表现消化率及瘤胃发育的影响[J].西北农林科技大学学报（自然科学版）,2011,39(8):45-50.  
+[7]冯仰廉,陆治年.奶牛营养需要和饲料成分[M].3版.北京:中国农业大学出版社,2007:2.  
+[8]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007:5-78.  
+[9]孙国庆,马健,都文,等.饲粮中添加籽粒苋对泌乳奶牛瘤胃发酵、血液指标和生产性能的影响[J].动物营养学报,2017,29(5):1652-1660.  
+[10]昝林森.牛生产学[M].2 版.北京:中国农业出版社,2007:97-98.  
+[11]王卫正,刘青,张香云,等.酵母培养物对奶牛生产性能及抗氧化功能的影响[J].中国畜牧杂志,2016,52(19):61-66.  
+[12]王玲,吕永艳,程志伟,等.复合酵母培养物对奶牛产奶性能、氮排放及血液生化指标的影响[J].草业学报,2015,24(12):121-130.  
+[13]姚晓红,吴逸飞,王新,等.酵母培养物对奶牛生产性能的影响[J].中国饲料,2009(2):22-23,26.  
+[14]刘庆华,王学军,李艳红,等.酵母培养物对泌乳后期荷斯坦奶牛奶产量及品质的影响[J]中国草食动物,2009,29(5):22-24.  
+[15]那日苏,桂荣,敖长金,等.酵母培养物对绵羊瘤胃发酵及生产性能的影响[J].中国畜牧兽医,2004,31(1):6-9.  
+[16]吕贞龙,尹召华,邢淑芳,等.小肽营养素对奶牛泌乳性能的影响[J].江苏农业科学,2005(6):209-211.  
+[17]WIEDMEIER R D,ARAMBEL M J,WALTERS J L.Effect of yeast culture and Aspergillusoryzae fermentation extract on ruminal characteristics and nutrient digestibility[J].Journal of  
+[18]张昌吉.饲粮中添加酵母培养物对绵羊瘤胃发酵及养分消化代谢的影响[D].硕士学位论文.兰州:甘肃农业大学,2005.  
+[19]汤飞飞.母猪妊娠后期和仔猪日粮添加酵母培养物对母猪生产性能、仔猪肠道健康及免疫机能的影响[D].硕士学位论文.南京:南京农业大学,2012.  
+[20]麻延峰,傅春泉,王宏艳,等.益生素对奶牛泌乳性能及乳品质影响的研究[J].浙江农业科学,2008(4):493-495.  
+[21]杨璐玲,吕永艳,孙国强.啤酒糟对奶牛产能性能及血液生化指标的影响[J].中国畜牧杂志,2014,50(13):51-56.  
+[22] 张杰杰,赵红波,游伟,等.饲粮油菜籽添加水平对肉牛生长性能、瘤胃发酵及血液生化指标的影响[J].中国农业科学,2014,47(11):2233-2241.  
+[23]肖曼.酵母培养物对肉仔鸡生产性能、营养物质利用率及肠道相关指标的影响[D].硕士学位论文.湛江:广东海洋大学,2013:24-25.  
+[24]张爱忠,卢德勋,姜宁,等.酵母培养物对绒山羊机体抗氧化能力的影响[J].动物营养学报,2010,23(3):781-786.  
+[25]程艳.酵母培养物对患隐性乳房炎奶牛免疫、抗氧化功能及生产性能的影响[D].硕士学位论文.呼和浩特:内蒙古农业大学,2007.  
+[26]SLATER T P,CHEESEMAN K H,DAVIES M J,et al.Free radical mechanisms in relationto tissue injury[J].Proceedings of the Nutrition Society,1987,46(1):1-12.  
+[27] FAHEYRC.Novelthiolsofprokaryotes[J].AnnualReviewofMicrobiology,2001,55(1):333-356.  
+[28]FLOHEL,GUNZLERWA.Assaysofglutathioneperoxidase[J].MethodsinEnzymology,1984,105:114-120.Effects of Yeast Cultures on Performance, Nutrient Apparent Digestibility and Serum Indexes ofDairy Cows in Mid- and Late LactationYAN Bichuan1,2 LI Zhenqian1,2 LI Shengli²WANG Yajing²CAO Zhijun2\*LI
+
+Yuanxiao1\* (1. College of Animal Science and Technology, Henan University of Science and Technology, Luoyang 471023, China; 2. State Key Laboratory of Animal Nutrition, Beijing Engineering Technology Research Center of Raw Milk Quality and Safety Control, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China)
+
+Abstract: This experiment was conducted to investigate the effects of yeast cultures on performance, nutrient apparent digestibility and serum indexes of dairy cows in mid- and late lactation.Fifty-six healthy Holstein cows in mid- and late lactation were randomly divided in to 4 groups with 15 replicates per group and 1 cow per replicate based on similar parity, milk yield [ $( 3 6 . 4 9 { \pm } 1 . 5 0 ) \mathrm { k g }$ and duration of lactation[（ $1 7 5 { \pm } 6$ ）d]. Control group was fed a basal diet supplemented with ${ 5 0 0 } \mathrm { g } / \$ (d·head） tablet corn,test group I， test group IIand test group III were fed the basal diet supplemented with ${ 5 0 0 } \ \mathrm { g / }$ （d·head）yeast culture 1, $5 0 0 ~ \mathrm { g / \Omega }$ （d·head）yeast culture 2 and $\boldsymbol { 1 0 0 } \ : \mathrm { g } / \$ (d·head） yeast culture 3, respectively. The test lasted for $4 5 \mathrm { d }$ , including 15 d for pre-test and $3 0 \mathrm { ~ d ~ }$ for formal test. The results showed as follows: 1) compared with control group, dry matter intake of test group I significantly increased by $0 . 8 2 \mathrm { k g / d }$ $( P { < } 0 . 0 5 )$ , and milk yield significantly increased by $1 . 1 8 ~ \mathrm { k g / d }$ $( P { < } 0 . 0 5 )$ ; dry matter intake of test group II and test group II increased by 0.58 and $0 . 6 6 \mathrm { k g / d }$ ,respectively,and milk yield increased by 0.79 and 0.65 $\mathrm { k g / d }$ , respectively, but the differences were not significant $( P { > } 0 . 0 5 )$ . Compared with control group and test group II, milk fat percentage of test group I significantly increased by $5 . 1 2 \%$ and $4 . 8 3 \%$ （204 （204 $( P { < } 0 . 0 5 )$ , respectively; compare with control group,milk fat percentage of test group $\mathrm { I I }$ and test group III incereased by $0 . 2 6 \%$ and $2 . 7 0 \%$ $( P { > } 0 . 0 5 )$ ), respectively. 2） Apparent digestibility of dry matter andneutral detergent fiber of test group I of were significantly increased by $5 . 4 7 \%$ and （204号 $3 . 0 5 \%$ than those of control group $( P { < } 0 . 0 5 )$ ; apparent digestibility of dry matter andneutral detergent fiber of test group II and test group Ilincreased by $3 . 7 1 \%$ and $1 . 8 4 \%$ ， $1 . 3 6 \%$ and （204号 $0 . 9 6 \%$ than those of control group,but the difference was not significant $( P { > } 0 . 0 5 )$ . 3） Serum globulin content of test group I and test group II on day O was significantly higher than that of control group （ $P < 0 . 0 5 )$ ; serum globulin content of test group II on day 15 and whole period
+
+average value were significantly higher than those of control group ( $\cdot P < 0 . 0 5$ ）.4) Compared with control group, serum malondialdehyde (MDA) content of test group I on day 30 and whole period average value were significantly lower（ $P < 0 . 0 5 ,$ ）; serum glutathione peroxidase activity of test group I on day 15 and whole period average value were significantly higher than those of control group( $P < 0 . 0 5$ ）. 5) Compared with control group, gross profit of test group I increased by 0.68 RMB/(d-head),while other groups decreased. In conclusion, diet supplemented with yeast culture can improve performance and nutrient apparent digestibility, not negatively affects serum biochemical indexes,enhance serum antioxidant capacity,and improve economic efficiency; the effects of ${ 5 0 0 } \mathrm { g } / \$ （d·head） yeast culture l are the best.   
+Key words: yeast culture; lactating dairy cow; performance;apparent digestibility; serum index; antioxidant index

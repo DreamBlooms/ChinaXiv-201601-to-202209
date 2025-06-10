@@ -1,0 +1,385 @@
+[
+    {
+        "type": "text",
+        "text": "SHBG基因敲除小鼠模型的建立及其表型分析孙一平1王越1 金镇1\\*＊王晓岩¹ 孙磊¹ 张璇¹ 冯冲¹周效华²",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．中国医科大学附属盛京医院妇产科，沈阳110004；2.上海南方模式生物研究中心，上海 201203）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 建立性激素结合球蛋白（SHBG）基因条件敲除小鼠模型，为探讨胎盘组织中 SHBG在体内的生理功能及其与妊娠期糖尿病发病关系提供实验手段。方法 首先运用生物信息学手段确定小鼠 SHBG基因组序列，构建 SHBG打靶载体，以电穿孔方法将其导入小鼠ES 细胞，筛选培养阳性ES 细胞并行 PCR 鉴定，并将正确同源重组的 ES 细胞注射进小鼠囊胚，移入受体小鼠子宫;将获得的嵌合体小鼠与C57BL/6J小鼠交配，筛选后获得FIox小鼠,该小鼠与EIla-Cre转基因小鼠杂交，子代多次自交获得 SHBG全身基因敲除(SHBG-/-)的小鼠。结果 运用同源重组及ES细胞技术建立了SHBG 基因的FIox小鼠，并利用Cre/Loxp 重组酶系统建立了SHBG基因全身敲除小鼠模型，PCR 方法从基因水平证明了SHBG 基因FIoX小鼠及SHBG 基因全身敲除小鼠模型建立成功。对基因敲除鼠进行初步表型分析发现：SHBG 基因全身敲除小鼠的生长发育与野生型小鼠相比无明显肉眼所见异常，SHBG 基因全身敲除雌雄小鼠均具有生殖能力。结论成功建立SHBG基因全身敲除小鼠模型，通过对基因敲除鼠进行初步表型分析，发现 SHBG基因全身敲除小鼠外观上发育正常，为进一步研究 SHBG在妊娠期糖尿病中的作用奠定了基础。关键词：性激素结合球蛋白 条件性基因敲除 Cre/Loxp 妊娠期糖尿病",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Establishment And Phenotype Analysis Of SHBG Knockout Mouse Model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUN Yi-pinglWANG Yue’JIN Zhen' WANG Xiao-yan’SUN Lei1ZHANG Xuan’FENG Chong1   \nZHOU Xiao-hua² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.Departmentof Obstetrics and Gynecology，Shengjing Hospital，China Medical University，Shenyang 10004，China; 2.Shanghai Research Center for Biomodel Organism，Shanghai 201203，China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Objective To generate sex hormone binding globulin(SHBG) conditional knockout mice model. In order to investigate the physiological function of SHBG in vivo and to provide experimental means for the study of the relationship between SHBG and gestational diabetes mellitus. Methods The mouse genomic DNA sequence of SHBG was verified through bioinformatic analysis. According to the SHBG genomic DNA sequence, the gene targeting and knockout vector were constructed. Transfection of the vectors to ES cells by electroporation was performed according to common protocol. Positive ES cells were screened and identified by PCR. Therefore， the dual selected ES cells were microinjected into blastula, then blastula transplantations into the host mice. The chimeric mice were mated with C57BL/6J mice， and the Flox mice were obtained after screening. The Flox mice were hybridized with EIIA-Cre transgenic mice， and the progeny of the SHBG gene knockout (SHBG-/-） mice were obtained by autocopuation for several times. Results Several Flox homozygous mice and SHBG gene knockout mice were successfully obtained. Compared with control mice， homozygous mice of SHBG gene knockout were well developed and had reproductive ability. The growth and development of SHBG knockout mice were not significantly different from that of wild type mice . Conclusion Homozygous mice model of SHBG gene knockout was successfully established, which laid the foundation for further study of the role of SHBG in the gestational diabetes. The SHBG gene knockout mouse model was successfully established and the preliminary phenotypic analysis was performed, which laid the foundation for further study on the role of SHBG in gestational diabetes mellitus. SHBG gene knockout mice were normal in appearance. Due to the limited number of samples and many unknown biological characteristics of gene knockout mice， it needs further study. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Sex hormone-binding globulin Conditional knockout Cre/Loxp Gestational Diabetes Mellitus ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "性激素结合球蛋白（sex hormone-bindingglobulin，SHBG），是一种能结合性激素甾体的球蛋白，主要由肝脏产生，胎盘[等不同的性甾体激素靶组织亦有产生。SHBG 能特异性地与性激素结合并参与其转运，调控血液中有生物活性的性激素浓度[2,同时也受胰岛素、甲状腺素等多种因素的调节,其中胰岛素是其代谢的重要调节激素[3].",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "妊娠期糖尿病（GestationalDiabetes Mellitus，GDM）的发病机制与2型糖尿病相似，妊娠期胰岛素抵抗的增加和胰岛β细胞分泌的减少也是其发病的病理生理基础。目前认为 SHBG的低水平表达可作为2型糖尿病发生的独立危险因素[4.5],是高胰岛素血症性胰岛素抵抗的一个标志[6-8]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最近研究发现，SHBG基因启动子（TAAAA）n重复多态与糖代谢异常有关，这种重复多态性可以影响血液循环中的 SHBG 水平，对易发生糖尿病等并发症的高危个体的早期识别具有重要的价值[9.10]，我们研究表明 GDM 孕妇外周血的 SHBG 基因（TAAAA）n多态的等位基因及基因型数目、类型、频率存在一定的差异，8/8、8/9基因型的妇女易患GDM，而胎盘中 SHBG基因启动子(TAAAA)n重复多态与GDM无关[,12]。我们通过 RNA 干扰与基因沉默技术研究了胎盘滋养层合体细胞中 SHBG 的自分泌作用机制[3,14],通过胎盘滋养层合体细胞胰岛素抵抗模型的建立，研究了 SHBG对其胰岛素信号的转导和胰岛素抵抗的影响[15]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前对 SHBG基因在2型糖尿病和GDM的发病中作用及机制的研究多集中在细胞系和组织水平，因此我们应用Cre-Loxp 重组系统，首次建立 SHBG全身性基因敲除纯和小鼠模型，以期在动物水平上进一步阐述GDM中 SHBG基因的功能及作用机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 材料方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1主要材料和试剂",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "含 SHBG的BAC 宿主菌购自 BAC PAC 资源中心（Children’s Hospital OaklandResearchInstitute）Bac：RPCI-23-240I24。打靶所用ES 细胞购自 EuMMCR 公司。限制性内切酶、T4 DNA 连接酶及聚合酶、Taq酶及PCR 相关试剂购自TaKaRa 公司。常规化学试剂主要购自Sigma和上海化学试剂公司。胶回收Kit购自华舜生物公司。ES 细胞培养所需的DMEM 培养基（高糖，ES 细胞级）、胎牛血清（ES 细胞级）、更昔洛韦、G418、青链霉素、LIF、胰蛋白酶等分别购自Gibco BRL 公司、Sigma公司、Chemicon 公司。质粒抽提试剂盒及DNA提取试剂盒购于Qiagen 公司。实验中所用C57BL/6J小鼠，EIIa-Cre小鼠购买于上海南方模式生物研究中心。囊胚供体受体、新生仔鼠、野生型、杂合子及基因敲除小鼠均按照无特定病原(specificpathogen free，SPF)级动物饲养标准饲养。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1SHBG条件性基因敲除打靶载体的构建 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从Ensembl 数据库中（http://www.ensembl.org/index.html）获得 SHBG基因组序列，根据基因组序列设计打靶载体。小鼠 SHBG-001 转录本共有8个外显子，根据生物信息学分析，flox区域为第4-7号外显子，loxp、neo、frt等元件放在内含子中，flox区域剔除后可造成移码突变，并使其蛋白翻译提前终止如图1所示。运用 ET 克隆的方法构建 SHBG 基因第4-7号外显子两侧插入loxp 位点的条件性剔除载体如图2所示。大致过程如下：首先以 BAC 质粒为模板 DNA，PCR 扩增 A、B 二个小同源臂。将A臂和 B臂克隆至 pB-R322-2S 质粒的 HindIII&BamHI,，利用该质粒和BAC 克隆，通过同源重组方式，获得A区域到B区域之间包含有5’和3’同源臂的DNA片段的 Retrieve 质粒；以PL452 质粒为模板DNA，SHBG-L1，SHBG-L2 为引物。PCR 直接扩增出含 Neo 的L 片段，以 PL451质粒为模板 DNA，SHBG-F1，SHBG-F2为引物。PCR 直接扩增出含 Neo 的F片段。然后将含 Neo 的L片段经过同源重组knock in 到上述获得的含 Retrieve 质粒中，得到 SHBG-Ln 质粒，并用限制性内切酶及测序鉴定；将含有 SHBG-Ln 质粒的EL350 菌株经阿拉伯糖诱导，使Cre 重组酶表达以去除 PL452 引入的 neo 基因；获得 SHBG-Cre 质粒；将上述 SHBG-Cre 质粒与含 Neo 的F 片段共同转入EL350菌株，经过同源重组完成第二次 neo knock in，构建载体 pBR322-MK-SHBG-cko,并用限制性内切酶及测序鉴定。具体步骤及条件见相关参考文献[16]。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6fb15c0264df5731fd756d5869ab991cc0bfe4eabb2922290026b103d621f2b.jpg",
+        "img_caption": [
+            "图1SHBG基因打靶位点示意图",
+            "Fig.1 The modes of SHBG targeting strategy "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f58be937394f282c05a79a1ce9cf928f084b288e9432f4b126d2c8dfb721df5.jpg",
+        "img_caption": [
+            "图2SHBG条件性基因打靶载体示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Diagram of the strategy to generate SHBG targeting vector ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.2电击转染ES细胞及筛选 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "转染前经NotI酶将打靶载体线性化，ES 细胞用胰酶消化后重悬于PBS 中,ES细胞浓度为 $1 . 5 { \\times } 1 0 ^ { 7 } / \\mathrm { m } 1$ 。取 $3 5 \\mu \\mathrm { ~ g ~ }$ 载体DNA与0.8mL 细胞混匀后加入电穿孔槽中，以240V、 $5 0 0 \\mu \\mathrm { ~ F ~ }$ 的电参数进行电穿孔，将电击后的细胞分入已铺好滋养层细胞的培养皿中，置于 $\\mathrm { C 0 } _ { 2 }$ 孵箱培养。ES 细胞在电穿孔24h和48h后分别换含有选择药物G418(终浓度为 $2 5 0 \\mathrm { { m g / L } ) }$ 和Gancyclovir(终浓度为 2 umol/L)的培养液进行选择性培养，第 $7 { \\sim } 8$ 天挑取ES 细胞克隆。将挑取的抗性ES克隆充分消化后转移至96 孔培养板上培养并提取基因组DNA,通过PCR及回收胶再次酶切测序筛选出中靶 ES 细胞克隆.在 SHBG 打靶同源重组臂外侧分别设计 SHBG-5p112 和 SHBG-3p211引物，在neo 序列上设计Neo-Rh 和Neo-Lh引物（如图1）。所需引物序列为：SHBG-5p111:GTGTGTGTGGGTATGGAGTGTTTGTG；Neo-Rh: GGCCTACCCGCTTCCATTGCTC;SHBG-3p211:TTGGTTGAGTGCTTGTCTGCTATGC；Neo-Lh: CCGTGCCTTCCTTGACCCTGG。用 SHBG-5p111与 Neo-Rh 引物配对，鉴定 $5 ^ { \\prime }$ 臂同源重组，反应条件为： $9 5 \\mathrm { ~ ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 4 min变性后， $9 4 ^ { \\circ } \\mathrm { C }$ 45 s， $6 5 . 9 ^ { \\circ } \\mathrm { C }$ 3min30s进行35个循环后， $7 2 \\ \\mathrm { ~ \\textdegree ~ } \\ 1 0 \\ \\mathrm { ~ m i n }$ ，同源重组克隆应扩增出4kb片段；用 $\\mathrm { S H B G ^ { - } 3 p 2 1 1 }$ 和 Neo-Lh引物配对鉴定 $3 ^ { \\prime }$ 臂同源重组，反应条件为 $9 5 ~ \\mathrm { ~ \\textdegree ~ } 5 ~ \\mathrm { ~ m i n }$ 变性后，94℃ 30 s， $6 5 . 9 ^ { \\circ } \\mathrm { C }$ 3min30 s进行35个循环,$7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸10 min，同源重组克隆应扩增出 4kb片段。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.3囊胚注射制备嵌合体小鼠 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "囊胚取自交配后3.5d的C57BL/6J母鼠，每枚囊胚注射15个阳性ES 细胞，挑",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选注射后形态正常及透明带完整的囊胚移植到2.5d假孕母鼠子宫中，每侧移植 $8 \\sim$ 10 枚，产下的后代即为嵌合体小鼠。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.4嵌合体小鼠的获得及PCR鉴定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "嵌合小鼠出生后，挑选毛色嵌合率大于 $5 0 \\%$ 的雄性鼠与C57BL/6J纯系小鼠交配即获得ES 细胞来源的鼠。提取小鼠鼠尾基因组DNA，同ES 细胞鉴定条件与反应体系,PCR 法鉴定选取阳性杂合子小鼠即SHBG-Flox杂合小鼠。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.5SHBG基因敲除小鼠的获得及表型分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将获得的 SHBG-Flox杂合小鼠与Ella-Cre小鼠交配，并通过子代自交,最终获得 SHBG基因敲除的纯合子小鼠（SHBG'小鼠)。肉眼观察各基因型组间小鼠在外观及行为上是否具有明显差异，小鼠生殖能力是否受到影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1SHBG条件性基因敲除打靶载体的构建 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "构建的 SHBG基因条件性敲除载体 pBR322-MK-SHBG-cko，经多个限制性内切酶酶切鉴定和测序证实，成功获得FRT位点至第二个LoxP位点之间片段存在的 SHBG条件性基因敲除打靶载体 pBR322-MK-SHBG-cko[16]。经 SalI 酶切后获得大小分别为7553bp，6764bp，906bp三个片段，酶切电泳图及测序图如图3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f0e66cc81a7706f3b2289d3bfbe33a1bd22a9f902b6e30f43181943c242ff00.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/98d09585cb5b539c4581f7f127a28dd385654eaf7effc4cec17dac230f7b74ea.jpg",
+        "img_caption": [
+            "图3pBR322-MK-SHBG-cko质粒DNA经SalI酶切后的电泳图及测序图",
+            "图4aPCR鉴定同源重组阳性的胚胎干细胞克隆;4b 酶切测序鉴定同源重组阳性的胚胎干细胞克隆"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Electrophoresis and Sequencing analysis of products of digested pBR322-MK-SHBG-cko plasmid ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "by SalI enzyme ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2ES细胞筛选 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "电转后获得抗性ES 细胞克隆119个，经抽提96孔板中胚胎干细胞的基因组DNA，PCR筛选阳性克隆，同源重组克隆应扩增出 4kb片段,检测到有5个同源重组克隆，克隆号分别为：1#-G1、A2、H5、2#-F1、G1（见图 4a），再通过胶回收试剂盒回收 $5 ^ { \\prime }$ 重组臂及 $3 ^ { \\prime }$ 重组臂的PCR产物，酶切、测序确认后最终获得2枚正确同源重组克隆胚胎干细胞1#-A2、2#-G1（见图4b）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1#-G1A2H5 2#-F1G1 (-) M1#G1A2H52#F1G1（） 5'arm C000C C0000 3arm (b) A T 门 C G G G G G A wwwwwwwwwwww ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.4a ldentification of targeted ES cell clones by PCR;4b Identification of targeted ES cell clones by Sequencing analysis ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3SHBG-flox小鼠的获得 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过 ES 细胞的囊胚注射和胚胎移植，1#-A2、2#-G1 克隆共注射141 枚胚胎，制作 12只受体，共出生 12只小鼠，其中7只为 ${ > } 5 0 \\%$ 嵌合雄鼠。嵌合体雄鼠与野生型 C57BL/6J小鼠交配，来自1#-A2克隆的1只雄鼠共获得 ES 细胞来源的嵌合体小鼠5只。经 PCR 鉴定其中3只同源重组克隆扩增出 4kb 片段，即为为 SHBG-flox 阳性杂合子小鼠（图5）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9f45b86f142537334fa54ddcd8335da5b86de5ecd75ea3fe7b90191c2810adb.jpg",
+        "img_caption": [
+            "图5通过PCR鉴定出同源重组阳性的F1代小鼠"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1、2、4：Positive control ；3：wild type；(-):negative control;",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4SHBG全身性基因敲除纯合小鼠的获得",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SHBG-flox小鼠与Ella-Cre小鼠杂交，获得 SHBG基因敲除杂合子（ $S H B G ^ { + / - \\cdot } ,$ ）小鼠，再与Flp小鼠交配一代后与C57BL/6J小鼠进行交配去除干扰基因,后代小鼠多次自交后进行剪尾鉴定，成功获得去Neo全身性基因敲除 $( S H B G ^ { \\prime - } )$ 的小鼠模型图6所示，说明 SHBG基因敲除没有导致纯合子小鼠胚胎致死。表型上，SHBG 敲除纯合子、杂合子及未敲除正常小鼠毛色无明显差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a35794e32b9680c11731c2e27262438e04146d13120dce77535e1aa56b4d21f4.jpg",
+        "img_caption": [
+            "Figure 5.Identification of targeted F1 mice by PCR. ",
+            "图6通过PCR 鉴定出SHBG的小鼠",
+            "Figure6.Identificationof $S H B G ^ { - \\prime - }$ micebyPCR. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "77、81、82、84、87、8、89、90:SHBG+;79、83、86:SHBGd；78、80、85、91、92:wild type；31、33、35、36:SHBG(含neo)++;32、34: SHBG(含 neo)+\";",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5SHBG全身性基因敲除小鼠的雌雄比例及个体发育 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "雌雄杂合子（ $S H B G ^ { + / - }$ ）小鼠自交获得 $S H B G ^ { \\prime - }$ 小鼠过程中，计算后代中基因型为SHBG/\\*、 $S H B G ^ { + / - }$ 、 $S H B G ^ { \\prime - }$ 小鼠所占比重及雌雄比例。最终统计结果显示，小鼠的基因型比值基本与孟德尔遗传规律相符如图7所示，进一步说明 SHBG敲除在雌雄小鼠中均无胚胎致死性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将基因型为 SHBG的小鼠合笼交配，雌性小鼠于怀孕 $1 9 { \\sim } 2 1 \\mathrm { d }$ 后顺利生出健康幼鼠，可得出 SHBG雌雄小鼠均可孕，小鼠生育能力不受 SHBG 基因缺失的影响。初步观察发现幼鼠与同期野生型幼鼠的生长发育和活动状态无明显异常。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e451a7eaf491412b42430c5c057c51ac7e55d3739a6e0917cb0e84cbc3f2288.jpg",
+        "img_caption": [
+            "图7各基因型所占比例",
+            "Figure 7.The proportion of each genotype "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SHBG的基因编码区位于人类第17对染色体的短臂 $( \\mathrm { p } 1 2 { \\sim } 1 3 )$ ，由8个外显子和7个内含子组成，长约3kb。由两个相同的单体组成，每个单体包括3个二硫键和3个结构域,即一个甾体结合域,一个二聚体化结构域和一个膜受体结合域[2]。基于 SHBG与胰岛素抵抗相关研究多集中在细胞系及组织水平，缺乏从整体动物水平着手的相关研究，我们已用基因沉默的手段证明了胎盘中SHBG 表达与滋养细胞增殖呈正相关，与凋亡呈负相关[12,13]。目前通过基因敲除建立稳定的实验动物模型已成为研究基因功能的金标准。SHBG基因敲除的动物模型至今仍未见报道，因此我们构建了SHBG基因敲除小鼠模型，希望能够进一步在动物体内研究该基因的功能。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们是利用Cre/LoxP这一特异性重组酶系统来实现条件性基因敲。Cre-LoxP系统来源于噬菌体，可以介导位点特异的DNA 重组。该系统含有两个组成成分：一是LoxP序列位点，由两个13bp 的反向重复序列和一个8bp 的核心序列组成，其中中间的8个碱基决定LoxP 的方向；二是Cre 重组酶，由噬菌体编码，可识别LoxP序列，介导LoxP位点特异性重组，可引起两个同向LoxP位点间DNA序列的缺失。若将Cre 重组酶置于组织或细胞特异性启动子之下，可以得到组织/细胞特异性表达的Cre小鼠，即Cre工具小鼠。将获得flox 小鼠与全身表达的Cre小鼠和带有细胞特异性表达Cre 的小鼠交配繁殖，获得全敲杂合子小鼠和在特定细胞目标基因不表达的小鼠，即条件性基因敲除小鼠。此外，可与控制Cre表达的其他诱导系统（比如 $\\mathrm { C r e E R T _ { 2 } }$ ）相结合，可实现对某一基因时空两方面的调控。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根据Cre/LoxP条件性基因敲除技术原理，前期实验构建 SHBG条件性敲除打靶载体，通过胚胎干细胞重组获得正确同源重组克隆，通过囊胚注射制备嵌合体小鼠，嵌合体小鼠传代获得在目标DNA序列的两端各放置一个1oxP序列且可稳定遗传的flox（flanked byloxP)小鼠。将其与全身表达的Ella-Cre鼠交配，获得全身 SHBG基因敲除杂合鼠；与Flp小鼠及野生型小鼠交配，去除neo及Cre等干扰因素后，多次自交获得基因型为全身性敲除的纯合小鼠。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过对 SHBG基因全身敲除小鼠模型的初步表型分析，SHBG小鼠的生长发育水平与同年龄、同性别野生型对照小鼠相比，无显著统计学差异，且基因敲除纯和小鼠具有正常的繁殖生育能力。今后我们将应用胰岛素耐量试验、糖耐量试验、高胰岛素-正葡萄糖钳夹法等方法建立小鼠胰岛素抵抗评价平台，力求在整体动物水平评价 SHBG基因敲除小鼠在妊娠期的胰岛素抵抗变化，通过免疫组化、RT-PCR 及Western等方法研究SHBG基因在GDM的发病机制中的作用及调控机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Schobert R,Bernhardt G,Biersack B，et al. Steroid conjugates of dichloro (6-aminomethylnicotinate） platinum(II): effects on DNA， sex hormone binding globulin， the estrogen receptor，and various breast cancer cell 1ines. Chem Med Chem， 2007,2(3):333-342.   \n[2]Hammond GL， Bocchinfuso WP. Sex hormone-binding globulin:gene organization and structure/function analyses. Horm Res,1996,45(3-5) :197-201.   \n[3]Hammond GL,Wu TS,Simard M,et al. Evolving utility of sex hormone-binding globulin measurements in clinical medicine. Curr Opin Endocrinol Diabetes 0bes， 2012,19(3):183-189.   \n[4]Mehrabian F， Rezae M. Sex hormone binding globulin measurement before conception as a predictor of gestational diabetes in women with polycystic ovarian syndrome. J Res Med Sci,2013,18(8) :637-640.   \n[5]Tong G， Hua X， Zhong Y,et al.Intensive insulin therapy increases sex hormone-binding globulin in newly diagnosed type 2 diabetic patients. Eur J Endocrinol， 2014,170(2) :237-245.   \n[6]Wallace IR，McKinley MC，Bell PM，et al. Sex hormone binding globulin and insulin resistance. Clinical Endocrinology,2013,78(3) :321-329.   \n[7]Perry JR，Weedon MN，Langenberg C，et al.Generic evidence that raised sex hormone binding globulin(SHBG)levels reduce the risk of type 2 diabetes. Hum Mol Genet， 2010,19(3):535-544.   \n[8]Ding EL， Song Y， Manson JE，et al. Plasma sex steroid hormones and risk of developing type 2 diabetes in women:a prospective study.Diabetologia， 2007,50(10) :2076-2084.   \n[9]Xita N, Tsatsoulis A，Chatzikyriakidou A， et al. Association of the (TAAAA） n repeat polymorphism in the sex hormone-binding globulin （SHBG） gene with polycystic ovary syndrome and relation to SHBG serum levels. J Clin Endocrinol Metab， 2003,88(12) :5976-5980.   \n[10]Haiman CA， Riley SE， Freedman ML，et al.Common genetic variation in the sex steroid hormone-binding glogulin （SHBG） gene and circulating shbg levels among postmenopausal women: the Multiethnic Cohort. J Clin Endocrinol Metab，2005,90(4) :2198-2204.   \n[11]练思宇,金镇,孙磊,等.性激素结合球蛋白基因启动子(TAAAA)n 重复多态与妊 娠期糖尿病发病的关系.中华妇产科杂志,2014,49(2):138-139. Lian S Y,Sun L， Jin Z，et al. Association of the (TAAAA)n repeat polymorphism of SHBG gene promoter with gestational diabetes mellitus.Chinese Journal of Obstetrics and Gynecology,2014,49(2) :138-139.   \n[12]息小雪,练思宇,等.胎盘性激素结合球蛋白基因启动子n重复多态与妊娠期糖 尿病关系研究.中国实用妇科与产科杂志,2015,31(12):1142-1145. Xi X X,Lian S Y，et al.Analysis of the relationship between SHBG gene (TAAAA)n polymorphism in placenta and GDM. Chinese Journal of Practical Gynecology and 0bstetrics,2015,31(12) :1142-1145.   \n[13]孙倩,孙磊,金镇,等．RNA 干扰技术抑制 SHBG 基因表达对滋养细胞凋亡的影 响．中国医科大学学报,2013,42(8):689-692. Sun Q， Sun L， Jin Z，et al. Effect of siRNA-mediated SHBG Gene Silencing on Apoptosis of Trophoblasts.Journal of China Medical University ,2013,42(8) :689-692.   \n[14 范杰慧,金镇，孙倩，等.RNA 干扰 SHBG 基因表达对滋养细胞增殖的影响．中国 优生与遗传杂志，2015,23(2):3-7. Fan J H， Jin Z，Sun Q，et al. Effect of RNA silence SHBG gene on proliferation of trophoblasts. Chinese Journal of Birth Health & Heredity， 2015,23(2) :3-7.   \n[15]姜洁璇,孙磊,金镇,等．性激素结合球蛋白和葡萄糖转运蛋白在妊娠期糖尿病 胎盘组织中的表达及相关性．中国医科大学学报,2015,44(1):5-9. Jiang J X， Sun L， Jin Z，et al. Expression of SHBG and GLUT in Gestational Diabetes Placenta Tissue and Their Correlation. Journal of China Medical University,2015,44(1) :5-9.   \n[16]王越,金镇,孙磊,等．小鼠性激素结合球蛋白条件基因打靶载体的构建．中国 医科大学学报,2015,44(03):203-208. Wang Y,Jin Z， Sun L，et al. Construction of Targeting Vector for Conditional Knockout of Murine SHBG. Journal of China Medical University， 2015,44(03) :203-208. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

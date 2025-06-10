@@ -1,0 +1,230 @@
+# DOI:10.5846/stxb201607291550
+
+范春雨,张春雨,赵秀海.择伐对吉林蛟河阔叶红松林群落结构及动态的影响.生态学报,2017,37(20):6668-6678.FanCYProvince.Acta Ecologica Sinica,2017,37(20) :6668-6678.
+
+# 择伐对吉林蛟河阔叶红松林群落结构及动态的影响
+
+范春雨，张春雨，赵秀海北京林业大学森林资源与生态系统过程北京市重点实验室，北京100083摘要：科学的森林经营能够优化林分结构,是调控森林生产力和生物多样性的有效手段。择伐作为森林经营的重要方式之一，其对森林结构以及群落动态的影响一直未有定论,因此迫切需要利用更加全面的数据对择伐及伐后林分特征的变化进行长期监测。根据森林大样地建立规范,2010 年在吉林蛟河建立了 $4 2 \mathrm { { h m } } ^ { 2 }$ 阔叶红松林动态监测样地,2011年冬季截取部分面积进行择伐经营,以经营样地为研究对象,运用数值变量描述采伐活动并分析择伐前后群落结构的变化;同时结合2015年的二次调查数据,以立地条件基本一致的对照样地为参照,比较林分水平和物种水平上死亡率、更新率的差异,并利用线性混合效应模型探究择伐活动对个体径向生长的影响。研究结果显示：经营样地的择伐强度为 $5 . 4 \%$ ,受采伐干扰影响较大的物种主要包括色木槭、白牛槭、裂叶榆、胡桃楸、千金榆、水曲柳以及紫椴,采伐主要集中于林冠层树种,亚林层和灌木层个体很少涉及。择伐前后物种组成、径级结构等并未发生明显改变。5年间,经营样地和对照样地的林分密度都降低,对比对照样地,经营样地的死亡率较低,但其更新状况并未优于对照样地。从胸高断面积来看,经营样地整体的年平均生长量高于对照样地,表明择伐导致的稀疏对个体生长和存活起到了一定的促进作用。将采伐强度纳入线性混合效应模型中分析发现,胸径始终是影响个体生长的最重要因素,其次是树木个体之间的非对称竞争;采伐所涉及到的7个主要树种的年平均生长量均高于对照样地,但仅有紫缎的径向生长表现出对采伐干扰的显著响应。综合来看,低强度择伐对群落结构和动态的影响较小,不同物种的径向生长对择伐的响应存在一定差异。
+
+关键词：择伐;林分结构；采伐偏好；动态;线性混合效应模型
+
+# Effects of selective harvest on community structure and dynamics in a mixed broadleaved Korean pine forest in Jiaohe， Jilin Province
+
+FAN Chunyu， ZHANG Chunyu， ZHAO Xiuhai \* KeyLaboratoryforForestResources&EcosystemProcesesofBeijing，BeijingForestryUniversity，BeijingOo8，China
+
+Abstract:Forest management can beused tooptimize stand structure，and itisan efective measure to regulate forest productivityand species diversity.The influenceof selectiveharvest，which isanimportant methodof forest management influencingthe structureanddynamicsofforeststands,does，however,notachieveconsistentresults.Accordingly,thereis anurgent need touse morecomprehensivedata to study selective harvest and the change in foreststands after harvest. Follwing the protocols of the Center for Tropical Forest Science forest dynamic plot，we constructed a $4 2 ~ \mathrm { h m } ^ { 2 }$ plot in a mixedbroadleaved Korean pine forest，located in Jiaohe，Jilin Province.Weselected19haof theplot tomanage inthe winter of 2O11.The study was based on the managed plot，describing the harvest events using simple numeric variables and analyzing thechange in theforeststructure before andafterthe harvest event.Atthe same time,using thedataofthe second inventoryof the plotafter 5years，wecompared themortalityandrecruitmentbetween the managed plotandthecontrol plot,which had the same habitatconditions atthe standand species levels.Alinear mixed-efects model wasemployed to exploretheefectsofharvestonthegrowthof individuals.Theresultsshowed thattheharvest intensityofthe managed plot was $5 . 4 \%$ ，as computed by the basal area.The species most influenced by the harvest included Acer mono，Ulmus laciniata，Juglans mandshurica，Carpinus cordata，Fraxinus mandshurica，and Tiliaamurensis.Canopytreespecies were harvestedalmost exclusively，whereasonlyavery fewshrubsandsub-canopy trees were harvested.The harvest events did not noticeablychange the species composition and diameter at breast height（DBH）distribution.During the5years，the stand densitywas lower than thatof2OlOinbothplots.Themortalityof themanagedplotwas lower，whereas the recruitment status was not beter,than thoseof thecontrol plot.The basal area increment per yearofthe managed plot was larger thanthatof thecontrolplot，indicating thatthethinning resultingfromharvesting promotedthegrowthof tres.We enteredthe predictorsrepresenting harvestintensityintothemodelandfoundthattheDBHwasthe most significantvariable forthegrowth analysis，folowed bytheasymmetric competition factor.The predictorrepresenting harvest showeda significant effect only for the growth model of $T$ ，amurensis. In general,low harvest intensity had litle effect on the structure anddynamicsofthecommunity，whereastheradial growthofdifferent species showed various responses to selective harvest.
+
+Key Words: selective harvest； stand structure； harvest preference；dynamics； linear mixed-effects model
+
+森林是陆地生态系统的重要组成部分，一直为人类提供生存和发展的重要资源,但是随着近代对于森林的过度开发利用,森林的质量在不断下降,森林生态功能的发挥持续受阻,这些现状使得森林经营的意义得到显现[1]。如今的森林经营开始朝着维持和恢复林分结构,保证木材产量,同时注重森林多种生态功能发挥的方向发展[2]。
+
+相较于人工林,异龄混交林的经营存在着很多挑战。国际上对异龄混交林已经有许多种经营方式,诸如北美的异龄林管理和欧洲的近自然经营等,这些经营方法在不同的地区被广泛实践着[3]。森林采伐是森林经营的重要手段，“完美”的森林经营方案是希望在采伐这种人为干扰下,林分仍能保持一种自然的状态，不影响其生态功能的发挥,也就是所谓的“近自然经营”,但是这种所谓“自然”的状态也是在不断变化的,因此是难以定义和度量当前林分的“自然”程度的。于是科学可持续的森林经营除了需要考虑采伐木材的限制性利用,还要对采伐活动对森林生态系统结构的影响进行长期细致地监测。
+
+择伐是对经营林地的一种十分重要的干扰,大量研究表明,相对于皆伐,择伐是最优的森林经营策略[4-5]。Archambault 利用加拿大魁北克南部伐后 50a的混交林长期监测数据分析得到：择伐在一定程度上增加了保留木的径向生长量[6。小范围适当强度的择伐会有效地改善群落内的光照条件,进而促进森林结构的优化,对植物的生长和更新产生一定的有利影响[7-9],而且这种影响会在针叶树种和阔叶树种之间、同一物种不同径级的个体之间存在差异[10-11]。但是,择伐在增加光照的同时也提高了环境的温度,导致水分的大量蒸发,一些植物个体会因为干旱的生活条件而死亡或者生长受到抑制[12]。同时,择伐对于森林群落动态的影响也会随着研究区域的变化而变化[13]。国内开展的相关研究往往是短期的结果,缺少对择伐及其影响的长期定位监测,并且较少涉及到择伐对死亡率的影响研究,造成对伐后森林生态系统结构功能变化的估计偏差。
+
+阔叶红松林（Pinus koraiensis)是我国东北地区的地带性森林植被,是温带针阔混交林的典型代表。自 20世纪50年代,我国开始对阔叶红松林进行择伐,目的在于逐步恢复其原生植被,同时保证森林经营的最大收益。了解择伐对于东北地区阔叶红松林群落结构及动态的影响对该区域森林的可持续发展具有十分重要的意义。
+
+2010年在吉林蛟河的阔叶红松林内,建立了立地条件相对一致的经营样地和对照样地。对照样地主要用来研究自然生态系统的结构和动态,在经营样地内进行一定强度的择伐,施加规律性的人为干扰。利用两块样地的对比,分析森林经营影响下的林分结构和动态。本研究希望解决以下几个问题：（1)择伐活动对于物种组成、径级结构的影响如何;(2)在择伐的影响下,林分的死亡、更新及径向生长如何变化,不同物种之间
+
+是否存在差异。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于吉林省蛟河林业实验区管理局,该区域属于受季风影响的温带大陆性山地气候。年均温为$3 . 8 ~ \mathrm { ^ { q } C }$ ,最热月7月日均温为 $2 1 . 7 ~ \mathrm { \textdegree C }$ ,最冷月1月日均温为 $- 1 8 . 6 \mathrm { ~ \textdegree C }$ ,平均年降水量为 $6 9 5 . 9 ~ \mathrm { m m }$ 。土壤类型为山地暗棕色森林土,土层厚度 20— $1 0 0 \ \mathrm { c m }$ 。植被属于长白山植物区系，植被类型属于典型的天然次生针阔混交林。组成林分的乔木树种主要包括红松（Pinus horaiensis）、沙松（Abies holophylla）等针叶树种和千金榆（Carpinus cordata）、胡桃楸（Juglans mandshurica）、水曲柳（Fraxinus mandshurica）紫椴（Tilia amurensis）、白桦（Betula platyphylla）、白牛槭（Acer mandshuricum）、色木槭（A.mono）蒙古栎（Quercus mongolica）、春榆（Ulmusjaponica）、裂叶榆（U.laciniata）等阔叶树种，灌木主要包括暴马丁香（Syringa reticulata））毛榛（Corylusmandshurica）、瘤枝卫矛（Euonymus pauciflorus）和东北鼠李(Rhamnus davurica)等[14]。
+
+# 1.2 研究方法
+
+2010 年夏季在研究区阔叶红松林内建立 $4 2 \ \mathrm { h m } ^ { 2 }$ （ $5 0 0 ~ \mathrm { ~ m ~ } \times 8 4 0 ~ \$ m; 43° 57.524'— $4 3 ^ { \circ } 5 8 . 0 4 2 ^ { \prime } \mathrm { ~ N ~ }$ ，$1 2 7 ^ { \circ } 4 4 . 1 1 1 ^ { \prime } - 1 2 7 ^ { \circ } 4 4 . 6 6 7 ^ { \prime } \mathrm { E } )$ 固定监测样地。参照CTFS（Centre for Tropical Forest Science）样地建设技术规范,在样地建立后,将其划分为 $2 0 ~ \mathrm { m } { \times } 2 0 ~ \mathrm { m }$ 的连续样方。为便于测量每个个体的相对位置,将每个 $2 0 ~ \mathrm { m } { \times } 2 0 ~ \mathrm { m }$ 样方进一步划分成16 个 $5 \mathrm { m } { \times } 5 \mathrm { m }$ 的亚样方,记录样地内所有胸径 $\mathrm { D B H } \geqslant 1 \mathrm { ~ c m }$ 的全部个体物种名、胸径、树高、冠幅(东西冠幅长、南北冠幅长)及枝下高,并挂牌标记。对每个个体定位的方式是测量植株到 $5 ~ \mathrm { m } { \times } 5 \mathrm { ~ m ~ }$ 亚样方4个顶点的距离,换算为其在整个样地内的相对坐标。同时,测量每个样方的林冠开阔度和土壤养分。其中，林冠开阔度是于2012年8月阴天,用冠层分析仪（WinSCANOPY，Quebec，Canada)在每个样方中心距离地面 $1 . 5 \mathrm { ~ m ~ }$ 处拍摄1张半球状照片,再用对应的WinSCANOPY和XLScanopy 软件对照片进行处理而得到的。土壤养分是于 2012 年在每个样方采集 $5 0 0 \ \mathrm { g }$ 的土壤样品,带回实验室进行分析,测定其全氮、全磷、全钾、有机碳、 $\mathrm { \Phi _ { \cdot } p H }$ 值和速效氮、磷、钾含量。
+
+由于样地内的地形条件(海拔、坡度和坡向等)和物种组成基本一致,在样地内截取 $1 9 ~ \mathrm { h m } ^ { 2 }$ 进行森林经营实验。2011年冬季,对经营样地进行了择伐。与传统择伐方式不同,择伐前样地不预设采伐强度,而是制定了采伐木和保留木原则,并对每一个采伐个体进行记录以实现长期监测。总的采伐原则是在保护生物多样性的前提下,充分发挥立地生产力,使林分经济产出最高。具体包括,采伐木的确定： $\textcircled{1}$ 优先伐除病腐木、濒死木,双权多梢木、弯曲木、被压木、干形不良木,以及影响目的树种生长的非目的树种;目的树种包括红松、云冷杉、水曲柳、椴树、胡桃楸、柞树、黄菠萝等经济价值较高的树种。 $\textcircled{2}$ 生长在一起的多株林木应伐除非目的树种,对于从根部分叉的林木应保留一枝干型好的。保留木的确定： $\textcircled{1}$ 对珍稀树种红松、黄菠萝、山槐等应全部保留； $\textcircled{2}$ 保留具有非木质高产出的经济树种,如红松、紫椴等； $\textcircled{3}$ 保留林分中的大树； $\textcircled{4}$ 保留能够给野生动物提供冬季休眠场所的林木； $\textcircled{5}$ 保留大的奇形怪状的、可能有潜在艺术价值的林木; $\textcircled{6}$ 注意保护树种多样性,对于林分中个体很少的非目的树种应予以保留; $\textcircled{7}$ 保留特殊的经济树种等。
+
+# 1.2.1择伐活动分析
+
+温带森林往往呈现出层次分明的垂直结构,位于林冠层的树木个体对光照的利用最充分,其次是亚林层和灌木层。本研究将调查到的所有木本植物个体划分为3个物种组：林冠层、亚林冠层和灌木层,考察不同种组的择伐行为。
+
+筛选样地中采伐最多的7个物种进行分析,分别为;白牛槭、胡桃楸、裂叶榆、千金榆、色木槭、水曲柳和紫椴,它们在择伐中所占的比例分别为 $12 \%$ ， $6 \%$ ， $6 \%$ ， $10 \%$ ， $4 0 \%$ ， $4 \%$ 和 $8 \%$ 。每个物种的采伐强度 $r G$ 用伐除该物种植株的胸高断面积比例表示，即 $r G =$ 伐除植株胸高断面积/该物种总胸高断面积，用 $r N$ 表示伐除植株比例,则NG可以用来描述采伐活动对树木大小的选择偏好：
+
+http://www.ecologica.cn
+
+$$
+N G = { \frac { r N } { r G } }
+$$
+
+NG 越大,则表明采伐对象更倾向于小树。同时分析经营样地中采伐活动对这7个主要树种径级分布的影响。
+
+# 1.2.2择伐对群落动态的影响
+
+2015年,对样地内全部树木个体进行了重复调查,复查记录个体的生长状态和胸径,标记出死亡的个体，对新进阶的树木（胸径 $\geqslant 1 \ \mathrm { c m }$ ）进行定位、鉴定和挂牌。以经营样地和对照样地2010年和2015年的两次测量数据资料,对比两块样地群落动态的异同,计算物种水平和林分水平的死亡率和更新率,分析经营活动对群落动态的影响。
+
+考虑到树木个体生长的随机效应,利用线性混合效应模型(LMMs)分析经营样地短期内影响树木个体径向生长的主要因素。以往此方面的研究主要考虑的自变量包括个体的胸径（DBH),个体所处的环境条件（包括生物和非生物环境)[15-16]。本研究中,鉴于个体胸高断面积生长量与胸径之间的非线性关系,加人DBH以及中心化(去除共线性)后 DBH的平方项。由于样地内地形平坦,故本研究中非生物因素只考虑样地内的土壤理化性质和林冠开阔度。
+
+代表生物因素的自变量表征了个体所处的竞争环境,非对称竞争在植物群落邻体关系中普遍存在,植物在对空间、光照、水分和土壤营养等资源的竞争过程中,资源在竞争植物之间进行不平等的分配。大植株相对于小植株始终保持着一定的竞争优势[17-18]。本研究中使用目标个体 $2 0 \mathrm { ~ m ~ }$ 邻域范围内(去除边缘效应)胸高断面积(BA)以及胸径大于目标个体的胸高断面积比例(reIBAL)代表邻体竞争强度。
+
+$$
+r e l B A L _ { i } = \frac { 1 } { B A } \times \frac { \pi } { 4 } \sum _ { j = 0 } ^ { n } D B { H _ { j } } ^ { 2 }
+$$
+
+式中,i代表目标个体 $\mathbf { \Delta } , j$ 代表 $i$ 个体周围 $2 0 \mathrm { m }$ 范围内胸径大于 $i$ 的个体。
+
+为衡量采伐对树木生长的影响,在模型中加入了2个表征采伐的指标,分别为个体 $2 0 \mathrm { ~ m ~ }$ 邻域范围内采伐植株的平均胸径与全部个体的平均胸径之比 $( d / D )$ 和采伐后保留的胸高断面积比例（residual basal arearemoved）。
+
+利用条件系数检验法检验 $k$ 值 $< 1 0 0 ,$ 各个自变量之间不存在多重共线性。
+
+模型的响应变量为个体每年的平均胸高断面积增长量( $\cdot \mathrm { c m } ^ { 2 } \cdot$ ：
+
+$$
+{ \mathrm { B A I } } = { \frac { \pi } { 4 } } \times { \frac { ( { \mathrm { D B H } } _ { 2 0 1 5 } \mathrm { } ^ { 2 } - { \mathrm { D B H } } _ { 2 0 1 0 } \mathrm { } ^ { 2 } ) } { 5 } }
+$$
+
+为了更加准确反映物种之间的生长差异,同时采伐活动所涉及到的物种也是有限的,选取了7个主要树种进行物种水平的逐个模型分析。为了满足模型对响应变量正态性的要求,对胸高断面积的增量进行 Box-Cox转换。同时针对每个模型计算了决定系数 $R ^ { 2 }$ 的值以及AIC值。由于混合效应模型的特殊性,选取Nakagawa& Schielzeth[19]在2013 年提出的边际 $R ^ { 2 }$ ( marginal $R ^ { 2 }$ )值即固定效应所能解释的模型变异比例来计算。数据分析与作图通过国际通用软件R-3.2.4及Excel中完成。
+
+# 2结果
+
+# 2.1择伐对林分结构的影响
+
+2010 年经营样地内胸径 $\geqslant 1 \ \mathrm { c m }$ 的个体数为20696,共计35个物种，隶属于17科24属。对比采伐前后，物种组成的变化很小,但是择伐在一定程度上改变了部分树种的相对优势程度。例如色木槭、紫椴和胡桃楸等物种,择伐使其相对优势度下降,红松、水曲柳和千金榆等的相对优势度上升（表1）。
+
+以胸高断面积计算，经营样地的择伐强度为 $5 . 4 \%$ ,属于较低强度的择伐。样地内几乎所有的采伐个体均属于林冠层物种,仅有很少的灌木层和亚林层个体被采伐。采伐活动对林冠层物种的影响最大,其中林冠层个体的胸高断面积减少量占全部减少量的 $9 9 \%$ 。
+
+http://www.ecologica.cn
+
+表1经营样地择伐前后物种组成分析  
+Table1Composition of speices in managed plot before and after harvest   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="2">2010（伐前）pre-harvest</td><td colspan="2">2011（伐后)Post-harvest</td></tr><tr><td>平均胸径/cm Average DBH</td><td>相对优势度/% Relative superiority</td><td>平均胸径/cm Average DBH</td><td>相对优势度/% Relative superiority</td></tr><tr><td>色木槭 Acer mono</td><td>14.47</td><td>17.88</td><td>13.38</td><td>16.83</td></tr><tr><td>松 Pinus koraiensis</td><td>21.87</td><td>12.86</td><td>21.77</td><td>13.27</td></tr><tr><td>紫椴 Tilia amurensis</td><td>24.54</td><td>12.19</td><td>23.68</td><td>11.98</td></tr><tr><td>曲柳Fraxinus mandshurica</td><td>28.79</td><td>11.75</td><td>28.28</td><td>11.85</td></tr><tr><td>胡桃楸 Juglans mandshurica</td><td>28.42</td><td>10.60</td><td>27.30</td><td>10.35</td></tr><tr><td>白牛槭 Acer mandshuricum</td><td>10.89</td><td>7.13</td><td>10.45</td><td>7.21</td></tr><tr><td>千金榆 Carpinus cordata</td><td>7.58</td><td>4.55</td><td>7.44</td><td>5.12</td></tr><tr><td>沙松 Abies holophylla</td><td>23.14</td><td>4.29</td><td>23.10</td><td>4.44</td></tr><tr><td>裂叶榆 Ulmus laciniata</td><td>11.34</td><td>3.42</td><td>10.85</td><td>3.46</td></tr><tr><td>蒙古栎 Quercus mongolica</td><td>24.60</td><td>3.14</td><td>24.22</td><td>3.21</td></tr><tr><td>枫桦 Betula costata</td><td>25.48</td><td>2.83</td><td>23.82</td><td>2.70</td></tr><tr><td>春榆Ulmus davidiana var.Japonica</td><td>12.63</td><td>2.38</td><td>12.07</td><td>2.35</td></tr><tr><td>大果榆 Ulmus macrocarpa</td><td>18.39</td><td>1.25</td><td>18.11</td><td>1.28</td></tr><tr><td>糠椴 Tilia mandshurica</td><td>17.25</td><td>1.08</td><td>16.96</td><td>1.11</td></tr><tr><td>水榆花楸 Sorbus alnifolia</td><td>13.33</td><td>1.05</td><td>12.41</td><td>0.98</td></tr><tr><td>拧筋槭 Acer triflorum</td><td>19.41</td><td>1.04</td><td>18.65</td><td>1.00</td></tr><tr><td>香杨 Populus koreana</td><td>54.80</td><td>0.78</td><td>54.80</td><td>0.80</td></tr><tr><td>黄檗Phellodendron amurense</td><td>19.63</td><td>0.49</td><td>19.42</td><td>0.50</td></tr><tr><td>青楷槭 Acer tegmentosum</td><td>9.25</td><td>0.36</td><td>9.20</td><td>0.39</td></tr><tr><td>青杨 Populus cathayana</td><td>51.55</td><td>0.30</td><td>51.55</td><td>0.30</td></tr><tr><td>白桦Betula platyphylla</td><td>18.73</td><td>00.20</td><td>18.73</td><td>0.21</td></tr><tr><td>暴马丁香 Syring areticulata</td><td>4.70</td><td>0.16</td><td>4.67</td><td>0.31</td></tr><tr><td>山杨 Populus davidiana</td><td>25.45</td><td>0.13</td><td>22.91</td><td>0.13</td></tr><tr><td>稠李Padus racemose</td><td>5.79</td><td>0.13</td><td>5.79</td><td>0.17</td></tr><tr><td>簇毛槭 Acer barbinerve</td><td>3.27</td><td>0.03</td><td>3.27</td><td>0.08</td></tr><tr><td>怀槐Maackia amurensis</td><td>17.87</td><td>0.02</td><td>17.87</td><td>0.02</td></tr><tr><td>鼠李 Rhamnus davurica</td><td>6.47</td><td>0.02</td><td>6.47</td><td>0.02</td></tr><tr><td>瘤枝卫矛 Euonymus verrucosus</td><td>3.25</td><td>0.01</td><td>3.13</td><td>0.01</td></tr><tr><td>毛榛 Corylus mandshurica</td><td>2.75</td><td>0.01</td><td>2.75</td><td>0.03</td></tr><tr><td>山丁子 Malus baccata</td><td>5.49</td><td>0.01</td><td>4.35</td><td>0.01</td></tr><tr><td>翅卫矛 Euonymus macropterus</td><td>3.42</td><td>0.00</td><td>3.37</td><td>0.01</td></tr><tr><td>花楷槭 Acer ukurunduense</td><td>5.35</td><td>0.00</td><td>5.35</td><td>0.00</td></tr><tr><td>茶条槭 Acer ginnala</td><td>3.50</td><td>0.00</td><td>3.50</td><td>0.00</td></tr><tr><td>东北山梅花Philadelphus schrenki</td><td>1.94</td><td>0.00</td><td>1.94</td><td>0.00</td></tr><tr><td>花曲柳 Fraxinus rhynchophylla</td><td>4.00</td><td>0.00</td><td>4.00</td><td>0.00</td></tr><tr><td>金银忍冬 Lonicera mackii</td><td>2.88</td><td>0.00</td><td>2.88</td><td>0.00</td></tr><tr><td>小花溲疏 Deutzia parviflora</td><td>5.00</td><td>0.00</td><td>5.00</td><td>0.00</td></tr><tr><td>总计Total</td><td>一</td><td>100</td><td></td><td>100</td></tr></table></body></html>
+
+相对优势度：物种胸高断面积/总胸高断面积
+
+在择伐的主要树种中，色木槭的择伐强度最高( $1 0 \%$ ，平均每 $\mathrm { { h m } } ^ { 2 }$ 的采伐株树为7.1，采伐个体的径级分布范围约为15— $3 5 ~ \mathrm { c m }$ (表2)。相对于 $r G$ 值,各个树种的 $r N$ 值更低,仅有0.01-0.04,两个指标分别从胸高断面积和株树密度的角度计量了采伐强度。从水曲柳和紫椴的NG值可以看出,被伐个体主要是中等径级(20— $4 0 ~ \mathrm { c m }$ )个体。而千金榆相比较而言,小径级个体占绝大多数,采伐的胸高断面积比例较高,少量千金榆
+
+http://www.ecologica.cn的大径级个体被伐除，故NG值较低，
+
+表2经营样地中主要树种的采伐强度和大小选择偏好分析  
+Table 2The selective harvest events for the major tree species in manage plot   
+
+<html><body><table><tr><td>主要树种 Major species</td><td>N/ (stems/hm²)</td><td>NA/ (stems/hm²)</td><td>NH/ (stems/hm²)</td><td>GB/ (m²/hm2)</td><td>GA/ (m²/hm²）</td><td>GH/ (m²/hm²)</td><td>rG</td><td>rN</td><td>NG</td><td>林层 Forest layers</td></tr><tr><td>水曲柳</td><td>45.9</td><td>45.3</td><td>0.6</td><td>3.8</td><td>3.7</td><td>0.1</td><td>0.03</td><td>0.01</td><td>0.67</td><td>林冠层</td></tr><tr><td>紫椴</td><td>62.8</td><td>61.2</td><td>1.6</td><td>3.9</td><td>3.7</td><td>0.2</td><td>0.05</td><td>0.03</td><td>0.6</td><td>林冠层</td></tr><tr><td>胡桃楸</td><td>47.3</td><td>45.9</td><td>1</td><td>3.4</td><td>3.2</td><td>0.2</td><td>0.06</td><td>0.02</td><td>0.33</td><td>林冠层</td></tr><tr><td>千金榆</td><td>249.2</td><td>247.2</td><td>2</td><td>1.6</td><td>1.5</td><td>0.1</td><td>0.06</td><td>0.01</td><td>0.17</td><td>林冠层</td></tr><tr><td>白牛槭</td><td>137.1</td><td>134.5</td><td>2.6</td><td>2.4</td><td>2.2</td><td>0.2</td><td>0.08</td><td>0.02</td><td>0.25</td><td>林冠层</td></tr><tr><td>裂叶榆</td><td>56.1</td><td>54.7</td><td>1.4</td><td>1.1</td><td>1</td><td>0.1</td><td>0.09</td><td>0.02</td><td>0.22</td><td>林冠层</td></tr><tr><td>色木槭</td><td>188.9</td><td>181.8</td><td>7.1</td><td>5.8</td><td>5.2</td><td>0.6</td><td>0.1</td><td>0.04</td><td>9</td><td>林冠层</td></tr></table></body></html>
+
+（204号 $N B$ 代表采伐前的株树密度;NA代表采伐后的株树密度； $N H$ 代表采伐的株树密度;GB代表采伐前每公顷的胸高断面积;GA 代表采伐后每公顷的胸高断面积；GH代表采伐掉的每公顷胸高断面积;表中仅列出采伐强度(胸高断面积)前7位的物种
+
+![](images/555d61c2ce98978fc53ce5ce7108bde93b9eba8bbd076d009806e47016304751.jpg)  
+图1经营样地中采伐前后径级分布结构  
+Fig.1The DBH distributions before and after harvest in the managed plot 灰色柱状图代表采伐后的株树，灰色柱体上部白色部分代表采伐株树
+
+总体来看,择伐活动并未明显改变主要树种的径级分布结构,胡桃楸的径级分布呈现单峰型,在 20—$3 0 \ \mathrm { c m }$ 处出现峰值;此外,除水曲柳和紫椴呈现近似单峰型分布,其余物种均为倒 $J$ 型分布。择伐时主要伐除了对应树种径级分布的峰值位置(图1)。从平均胸径来看,采伐后,绝大多数树种的平均胸径改变并不明显(表1)。
+
+# 3.2择伐对群落动态的影响
+
+# 3.2.1择伐对死亡率和更新率的影响
+
+对照样地个体数共计30095,隶属于17科25属37种。从物种组成来看,除东北鼠李和黑樱桃以外,对照样地和经营样地的物种组成基本一致。其中,红松、胡桃楸、色木槭、水曲柳和紫椴的相对优势度均大于$10 \%$ ,是阔叶红松林的主要组成物种。
+
+http://www.ecologica.cn
+
+在林分水平上,对照样地和经营样地的更新率均小于死亡率（表3）,林分密度五年间都减小。经营样地的死亡率要低于对照样地,表明择伐导致的稀疏使个体更好地存活。但是经营样地的更新低于对照样地，说明样地内低强度的择伐并未对个体的更新起到明显的促进作用。
+
+Table 3Dynamics of the control and managed plot in 5 years   
+
+<html><body><table><tr><td>样地 Plot</td><td>采伐前株树密度 Stem density pre-harvest/ （株/hm²）</td><td>采伐后株树密度 Stem density post-harvest/ （株/hm²）</td><td>2015 年株树密度 Stem density in 2015/ （株/hm²）</td><td>更新率/% Recruitment</td><td>死亡率 Mortality/%</td><td>年平均生长量 Average basal area increment/ (BAI cm²/a)</td></tr><tr><td>经营样地</td><td>1089.3</td><td>1068.9</td><td>971.6</td><td>6.7</td><td>17.5</td><td>7.89 O</td></tr><tr><td>对照样地</td><td>1308.5</td><td>1</td><td>1186.0</td><td>8.9</td><td>18.3</td><td>6.24</td></tr></table></body></html>
+
+更新率和死亡率均为更新/死亡株树与2010年株树之比
+
+在物种水平上，灌木层物种如簇毛槭、毛榛等死亡量较大,如簇毛槭在经营样地和对照样地中死亡个体占全部个体的比例分别达到了 $5 0 \%$ 和 $44 \%$ 。将全部个体按照胸径大小划分为不同的径级可以发现，死亡主要发生在小径级个体中。从更新情况看,更新与物种的多度之间有一定的相关性,多度大的物种更新量也较大。同时,死亡量大的物种更新量也会相对更大,二者之间存在显著的正相关关系 $( r = 0 . 7 9 ^ { \ast \ast }$ ）。在两块样地中,簇毛槭的死亡量均小于更新量,种群密度在5年内实现增大,经营样地中,毛榛的更新量大于死亡量,除此之外,所有物种种群密度都下降。对比两块样地,采伐的主要树种也并未出现更新数量的大幅度提升(表4)。
+
+表35年间经营样地和对照样地动态变化  
+表4经营样地和对照样地物种水平动态统计  
+Table 4Dynamics of species in control and managed plot   
+
+<html><body><table><tr><td rowspan="3">物种</td><td colspan="4">对照样地 control plot</td><td colspan="4">经营样地 manage plot</td></tr><tr><td>多度2010</td><td>多度2015</td><td>死亡量</td><td>更新量</td><td>多度2010</td><td>多度2015</td><td>死亡量</td><td>更新量</td></tr><tr><td>Abundance</td><td>Abundance</td><td>Number of</td><td>Number of</td><td>Abundance</td><td>Abundance</td><td>Number of</td><td>Number of</td></tr><tr><td>色木槭</td><td>in 2010 5459</td><td>in 2015 5063</td><td>dead stems 782</td><td>recruitment 386</td><td>in 2010 3590</td><td>in 2015 3138</td><td>dead stems 648</td><td>recruitment 196</td></tr><tr><td>千金榆</td><td>4726</td><td>4650</td><td>406</td><td></td><td>4735</td><td>4416</td><td>582</td><td>263</td></tr><tr><td>白牛槭</td><td></td><td>3356</td><td>522</td><td>330</td><td></td><td>2478</td><td>388</td><td>261</td></tr><tr><td>暴马丁香</td><td>3416</td><td></td><td></td><td>462</td><td>2605</td><td>476</td><td>323</td><td></td></tr><tr><td>紫椴</td><td>1989</td><td>1325</td><td>783</td><td>119</td><td>780</td><td></td><td>171</td><td>19</td></tr><tr><td>簇毛槭*</td><td>1552</td><td>1369</td><td>205</td><td>22</td><td>1194</td><td>1042</td><td></td><td>19</td></tr><tr><td>水曲柳</td><td>1453</td><td>1518</td><td>634</td><td>699</td><td>383</td><td>473</td><td>194</td><td>284</td></tr><tr><td>红松</td><td>1332</td><td>1231</td><td>106</td><td>5</td><td>872</td><td>795</td><td>78</td><td>1</td></tr><tr><td>胡桃楸</td><td>1228</td><td>1155</td><td>98</td><td>25</td><td>1287</td><td>1164</td><td>141</td><td>18</td></tr><tr><td>春榆</td><td>1216</td><td>1155</td><td>62</td><td>1</td><td>898</td><td>811</td><td>88</td><td>1</td></tr><tr><td>裂叶榆</td><td>1161</td><td>1006</td><td>198</td><td>43</td><td>643</td><td>514</td><td>154</td><td>25</td></tr><tr><td>拧筋槭</td><td>982</td><td>916</td><td>153</td><td>87</td><td>1066</td><td>950</td><td>207</td><td>91</td></tr><tr><td>毛榛</td><td>756</td><td>671</td><td>103</td><td>18</td><td>140</td><td>135</td><td>11</td><td>6</td></tr><tr><td></td><td>620</td><td>600</td><td>365</td><td>345</td><td>175</td><td>197</td><td>99</td><td>121</td></tr><tr><td>蒙古栎 鼠李</td><td>585</td><td>533</td><td>56</td><td>4</td><td>264</td><td>242</td><td>23</td><td>1</td></tr><tr><td>水榆花楸</td><td>437</td><td>402</td><td>60</td><td>25</td><td>31</td><td>19</td><td>12</td><td>0</td></tr><tr><td>稠李</td><td>435</td><td>376</td><td>60</td><td>1</td><td>213</td><td>197</td><td>32</td><td>16</td></tr><tr><td>糠椴</td><td>405</td><td>282</td><td>165</td><td>42</td><td>232</td><td>130</td><td>111</td><td>9</td></tr><tr><td>青楷槭</td><td>390</td><td>39</td><td>353</td><td>2</td><td>215</td><td>166</td><td>51</td><td>2</td></tr><tr><td>枫桦</td><td>318</td><td>264</td><td>90</td><td>36</td><td>252</td><td>160</td><td>98 46</td><td>6</td></tr><tr><td>白桦</td><td>300</td><td>259</td><td>41</td><td>0</td><td>261 35</td><td>215 28</td><td>7</td><td>0 0</td></tr><tr><td>大果榆</td><td>272 205</td><td>249 184</td><td>24</td><td>1</td><td>175</td><td>147</td><td>35</td><td>7</td></tr><tr><td>怀槐</td><td></td><td></td><td>26</td><td>5</td><td></td><td>2</td><td>2</td><td>0</td></tr><tr><td></td><td>196</td><td>144</td><td>54</td><td>2</td><td>4</td><td></td><td></td><td></td></tr></table></body></html>
+
+http ://www.ecologica.cn
+
+续表  
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="4">对照样地 control plot</td><td colspan="4">经营样地 manage plot</td></tr><tr><td>多度2010 Abundance in 2010</td><td>多度2015 Abundance in 2015</td><td>死亡量 Number of dead stems</td><td>更新量 Number of recruitment</td><td>多度2010 Abundance in 2010</td><td>多度2015 Abundance in 2015</td><td>死亡量 Number of dead stems</td><td>更新量 Number of recruitment</td></tr><tr><td>沙松</td><td>112</td><td>101</td><td>16</td><td>5</td><td>385</td><td>367</td><td>22</td><td>4</td></tr><tr><td>黄檗</td><td>104</td><td>89</td><td>16</td><td>1</td><td>81</td><td>70</td><td>11</td><td>0</td></tr><tr><td>黑樱桃</td><td>77</td><td>56</td><td>27</td><td>6</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>山丁子</td><td>68</td><td>66</td><td>10</td><td>8</td><td>20</td><td>13</td><td>7</td><td>0</td></tr><tr><td>瘤枝卫矛</td><td>56</td><td>32</td><td>30</td><td>6</td><td>52</td><td>40</td><td>26</td><td>14</td></tr><tr><td>山杨</td><td>54</td><td>43</td><td>11</td><td>0</td><td>12</td><td>10</td><td>2</td><td>0</td></tr><tr><td>翅卫矛</td><td>40</td><td>15</td><td>31</td><td>6</td><td>50</td><td>28</td><td>31</td><td>9</td></tr><tr><td>花楷槭</td><td>40</td><td>29</td><td>16</td><td>5</td><td>9</td><td>6</td><td>4</td><td>1</td></tr><tr><td>香杨</td><td>34</td><td>33</td><td>1</td><td>0</td><td>18</td><td>15</td><td>3</td><td>0</td></tr><tr><td>青杨</td><td>25</td><td>21</td><td>4</td><td>0</td><td>8</td><td>7</td><td>1</td><td>0</td></tr><tr><td>茶条槭</td><td>22</td><td>17</td><td>7</td><td>2</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>花曲柳</td><td>11</td><td>9</td><td>3</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>小花溲疏</td><td>10</td><td>9</td><td>1</td><td>0</td><td>1</td><td></td><td>0</td><td></td></tr><tr><td>东北鼠李</td><td>6</td><td>5</td><td>4</td><td>3</td><td></td><td></td><td>1</td><td>1</td></tr><tr><td>金银忍冬</td><td>2</td><td>2</td><td>1</td><td>1</td><td>5</td><td>7</td><td>0</td><td>2</td></tr><tr><td>东北山梅花</td><td>1</td><td>4</td><td>0</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td></tr><tr><td>合计</td><td>30095</td><td>27278</td><td>5524</td><td>2707</td><td>20696</td><td>18461</td><td>3612</td><td>1377</td></tr></table></body></html>
+
+$\ast$ 该物种的更新量大于死亡量,种群密度增大
+
+# 3.2.2择伐对个体生长的影响
+
+分析胸高断面积的变化,两块样地内胸高断面积 $( B A )$ 均有所上升,经营样地BA净增加 $1 . 1 2 \mathrm { m } ^ { 2 } / \mathrm { h m } ^ { 2 }$ ，对照样地净增加 $1 . 3 7 \mathrm { m } ^ { 2 } / \mathrm { h m } ^ { 2 }$ ,主要是由于原有个体的生长造成的,仅有少部分是由于更新个体。但经营样地的5 年内平均每株的胸高断面积增长量要高于对照样地,这表明采伐对于经营样地内个体的生长起到了一定的促进作用。同时,分析主要采伐树种的生长也发现了一致的结果(图3),色木槭、水曲柳和紫椴在经营样地中的生长量要显著高于对照样地,但胡桃楸和裂叶榆在两块样地中的生长差异不大。
+
+![](images/cbda60960118fd03614c7a39b0470b60ad282c50976f393dfd1cabdcade6b9ff.jpg)  
+图2对照样地和经营样地的胸高断面积变化  
+Fig.2The change of the basal area of control and managed plot
+
+植物个体的生长与个体大小及邻域环境条件密切相关,运用线性混合效应模型分析经营样地的胸高断面积生长量与胸径、竞争、非生物环境因子和采伐活动的影响。模型中响应变量和自变量的取值范围见表5。
+
+针对每个树种逐个进行模型分析发现,所选取的固定效应因子能够解释个体生长 $2 9 \%$ 一 $5 8 \%$ 的变异，其中胸径是影响个体生长的主要因素。考虑到生长和胸径之间的非线性关系,加人了去中心化的 $\mathrm { D B H } ^ { 2 }$ ,在一定程度上提高了模型的解释能力。在生物环境变量中，竞争显著影响个体生长。目标个体周围相对更大的个体的胸高断面积和(relBAL)表现出与生长量之间显著的负相关关系，并未检测到个体周围 $2 0 \mathrm { ~ m ~ }$ 范围内全部邻体的胸高断面积和 $( B A )$ 和与生长的显著相关关系，这代表群落中存在着明显的非对称竞争，资源在不同径级个体之间的分配不均导致小个体的生长受到抑制。在模型所考虑的非生物环境变量中，K元素含量相对其他元素与样方内个体的生长表现出更强的相关性。但综合来看，生物变量对个体生长的影响更大。尽管经营样地7个主要树种的年均胸高断面积生长量均高于对照样地，但在物种水平的生长模型中加入与采伐相关的自变量后，结果显示仅有紫椴对其周围的采伐行为有一定的生长响应，邻域内采伐平均胸径增加，采伐强度越高时，紫缎的生长量越大，其余物种均未呈现出个体生长与采伐变量的显著相关性。
+
+![](images/0a105610914cb2e9ceb2d5b64d374e0ec0ac0823e4678150f904f0864eb4c37e.jpg)  
+图3经营样地和对照样地的胸高断面积生长量比较 Fig.3The comparison of basal area increment between the control and managed plot
+
+Table 5Summary statistics for response variables and a subset of growth predictors of the LMMs   
+表6线性混合效应模型显著影响因子及模型评价统计量  
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="2">BAI/(cm²/a)</td><td colspan="2">DBH/cm</td><td colspan="2">BA/（cm²/hm²）</td><td colspan="2">relBAL</td><td colspan="2">d/D</td></tr><tr><td>mean</td><td>SD</td><td>mean</td><td>SD</td><td>mean</td><td>SD</td><td>mean</td><td>SD</td><td>mean</td><td>SD</td></tr><tr><td>白牛槭</td><td>4.67</td><td>9.72</td><td>9.84</td><td>9.77 1</td><td>19.13</td><td>6.27</td><td>0.92</td><td>0.13</td><td>2.35</td><td>1.46</td></tr><tr><td>胡桃楸</td><td>22.72</td><td>18.74</td><td>28.9</td><td>9.85</td><td>19.05</td><td>6.78</td><td>0.63</td><td>0.23</td><td>1.99</td><td>1.32</td></tr><tr><td>裂叶榆</td><td>5.31</td><td>10.84</td><td>10.60</td><td>10.84</td><td>18.76</td><td>6.76</td><td>0.90</td><td>0.17</td><td>2.17</td><td>1.41</td></tr><tr><td>千金榆</td><td>3.48</td><td>6.99</td><td>7.26</td><td>5.00</td><td>19.01</td><td>6.23</td><td>0.96</td><td>0.06</td><td>2.12</td><td>1.13</td></tr><tr><td>色木槭</td><td>7.6</td><td>15.90</td><td>13.19</td><td>13.29</td><td>19.14</td><td>6.49</td><td>0.85</td><td>0.22</td><td>2.16</td><td>1.29</td></tr><tr><td>水曲柳</td><td>24.97</td><td>22.19</td><td>29.08</td><td>13.67</td><td>19.36</td><td>6.26</td><td>0.61</td><td>0.29</td><td>2.05</td><td>1.15</td></tr><tr><td>紫椴</td><td>16.14</td><td>19.39</td><td>25.95</td><td>13.15</td><td>19.24</td><td>6.41</td><td>0.69</td><td>0.27</td><td>1.95</td><td>1.20</td></tr></table></body></html>
+
+表5线性混合效应模型响应变量和部分自变量的取值范围  
+Table 6The significant predictors and the model-fit evaluation statistics for the LMMs   
+
+<html><body><table><tr><td>物种 Species</td><td>显著影响因子 Significant factors</td><td>R²</td><td>AIC</td></tr><tr><td>白牛槭</td><td>DBH DBH² K relBAL</td><td>0.46</td><td>8035.1</td></tr><tr><td>胡桃楸</td><td>DBH DBH² relBAL</td><td>0.29</td><td>3183.3</td></tr><tr><td>裂叶榆</td><td>DBH DBH² TK relBAL</td><td>0.58</td><td>1371.8</td></tr><tr><td>千金榆</td><td>DBH DBH² TN TKCP relBAL</td><td>0.30</td><td>5913.9</td></tr><tr><td>色木槭</td><td>DBH DBH² relBAL TK K</td><td>0.56</td><td>4350.8</td></tr><tr><td>水曲柳</td><td>DBH DBH² relBAL</td><td>0.56</td><td>997.8</td></tr><tr><td>紫椴</td><td>DBH DBH² d/D rel relBAL</td><td>0.45</td><td>1424.9</td></tr></table></body></html>
+
+# 4讨论
+
+# 4.1择伐对林分结构的影响
+
+由于近年来不合理的经营利用，当前东北阔叶红松林普遍存在着过伐林林分组成简单、稳定性较差的问题,无法充分利用林地的生产力,因此迫切需要我们通过调整林分结构来改善阔叶红松林的现状[20]。择伐是优化林分结构的重要手段,能够有效地改善由于过于稠密造成的生长抑制、病虫害蔓延等[21],同时采伐作业时主要伐除处于劣势生态位的个体,对于物种多样性和生态系统稳定性也会产生一定影响[21]。本研究中并未发现经营样地采伐后林分结构的明显改变,因为低强度的择伐对林分的扰动较小,群落结构能够较快恢复，这与前人在低强度采伐样地中的结果相一致[3」。Kyle 等在2012年研究美国俄勒冈州西部的幼龄林对于不同强度择伐的响应时发现,短期内,择伐并未加速林分结构朝着演替后期的方向发展[23]。雷相东等的研究表明 $2 0 \%$ 一 $3 0 \%$ 强度的择伐没有显著改变落叶松云冷杉林的物种多样性和结构[24」。由此看来,采伐行为虽然可以使用强度进行量化，但始终是模糊且受到多种标准的影响的,难以避免采伐决策制定过程中的主观性[25.3],应该尽量利用全面准确的定位监测数据对采伐行为对林分的多方面影响进行综合评价,以帮助我们制定合理的经营措施和政策。
+
+# 4.2择伐对群落动态的影响
+
+在异龄混交林这样一个复杂的生态系统中,存在着年龄、树种和径级都不同的树木个体[26.8]。由于林内各活立木对生长空间和资源的相互竞争及对各种外界环境因素的不同反应,异龄林内的动态是难以准确捕捉其规律的。研究者们逐渐开始倾向于使用新的分析手段挖掘动态数据,诸如利用混合效应模型探究生长或死亡与个体大小、竞争以及环境因素等的关系[27];使用矩阵模型模拟群落动态变化等[28],尽可能全面考虑森林群落中可能影响动态变化的干扰因素。
+
+择伐作为一种重要的人为干扰,在降低林分密度的同时,改变着林内温度、光照、竞争、特定生境条件和土壤等生态系统结构要素[12]。采伐过后,林分密度降低,林下拥挤程度得到缓解,树木之间的竞争减弱,提高存活率[29];同时,择伐增加了植物充分进行光合作用的时间,使得喜光树种具备更大的生长潜力,可利用资源的增多也会加快林下的更新。在我们的研究中,经营样地内的死亡率低于对照样地,但更新状况并未得到明显的改善,表明尽管择伐能够在一定程度上优化林分结构,但是天然林分内物种的更新对非生物环境条件和邻体竞争更为敏感[11],低强度择伐不能改变乔木树种对于绝大部分资源的竞争优势,这些树种的幼树仍然难以获得足够的资源和生活空间。大部分研究都证实择伐会加快林分的生长,随着采伐强度的提高,保留木的直径生长往往也随之增加[30-32]。蒋子涵和金光泽进一步利用树木年轮分析发现择伐后保留木个体的生长会出现加速现象且能够持续 26— $2 9 \mathrm { a } ^ { [ 7 ] }$ ，在本文的研究中也发现了择伐对于林分水平胸高断面积生长的促进作用。
+
+当前很多研究开始依赖基于个体水平的模型分析择伐对于群落结构和动态的影响[3334],在分析经营样地种不同物种生长影响因素时首次加入了表征采伐强度的指标,但是没有发现采伐活动对个体生长的显著影响,表明择伐虽然改变了林下的小环境,但是保留木的生长还与采伐地的物种组成和地形条件等因素密切相关[27-28],同时,树木生长对择伐活动的响应可能存在一定的时间延迟（time-lagged growth responses）[35-36],因此采伐对群落动态的影响可能需要较长的时间才能显现出来,仅用短期数据很难发现规律。
+
+当前对于森林群落内树木的生长、死亡和更新的研究已经十分广泛[3],但是结合采伐行为,将采伐强度指标纳人动态模型分析中的相关结果还很少见。森林的动态变化是自然变化与森林经营措施等干扰综合作用的结果。不考虑采伐干扰的动态模型是不完整的。在今后的研究中,还应加入包含林分密度变化量和结构性变化的估计量，更加全面的反映采伐对林分机构和动态的影响。
+
+# 参考文献（References）:
+
+［1］吴蒙蒙，王立海，侯红亚，刘德洲.采伐强度对阔叶红松林空间结构的影响.东北林业大学学报，2013,41（9)：6-9.  
+[2」包也，于大炮，周莉，周旺明，孟莹莹，吴志军,郭焱，王晓雨，代力民.择伐对阔叶红松林资源可持续利用的影响.生态学报，2015，35(1): 31-37.  
+[3]ZhangCZaoXHdowKAalygseleiervestentsielfrestbeatoalsudesinrthEasteaortEcology and Management，2014，316：100-109.  
+［4］克劳斯·冯佳多，惠刚盈.森林生长与干扰模拟.北京：中国林业科学研究院，1998.  
+［5］汤孟平，唐守正，雷相东，李希菲.林分择伐空间结构优化模型研究.林业科学，2004，40(5）：25-31.
+
+http://www.ecologica.cn
+
+Canada.Forest Ecology and Management，2009,257(2）：703-711.  
+[7］蒋子涵，金光泽.择伐对阔叶红松林主要树种径向与纵向生长的影响.生态学报，2010,30(21)：5843-5852.  
+[8] 赵俊卉，亢新刚，龚直文.择伐对北方森林更新、生物多样性和生长的影响研究进展.内蒙古农业大学学报，2008，29（4)：264-270.  
+[9] Pamerleau-CoutueE,raueC,oterD,Wsielfetofhepartialigpracticsoadructuredgrowhfalblackspruce trees in north-eastern Quebec.Forestry，2015，88(4）：471-483.  
+[10] PrevostM,DisDotthoralityflowgartaiirbgspoedusadJournal of Forest Research,2010,40(5）：894-903.  
+[11] DealRL，TappenerJC.Tefectsofpartialcutingontadtructureandgrowthofwesteemlock-SitkasprucestadsinsouteastAaska.Forest Ecology and Management，2000,159（3）：173-186.  
+[12] BatainehMKesieJdicdnaturalregeneration in the Acadian Forest of Maine,USA.Forest Ecologyand Management，2O13,3O6：96-106.  
+[13]RuelJ,rtiotherDarialcutigindgorealsadsitegatedexperentThFrestrye，9（）:360-369.  
+[14]ZhangCY,ZhaoYZ,ZhaoXH,vondowKSpecies-habitataociaosinarentemperateforestinChia.Silvaeica,1,46(4): 501-519.  
+[15]LiagJsrZseiedeht,and mortality.Forest Ecology and Management，2007,243（1）：116-127.  
+[16] PorteA，BartelinkHHModelingmiedforestrowth：arevewofodelsffrestmanagemntEcolocalodellng，O0，50（/2）:141-188.  
+[17] Hara T.Dynamics of size structure in plant populations.Trends in Ecology& Evolution，1988,3(6)：129-133.  
+[18] ZhangCY,J,GaLZaXH.SalepdenttruuigftilesitintoepateforestoiirestoManagement，2014，316：110-116.  
+[19] Nakagawa S,Schielzeth H. A general and simple method for obtaining $R ^ { 2 }$ from generalized linear mixed-effects models.Methods in Ecology andEvolution,2013,4（2)：133-142.  
+[20] 胡云云，闵志强，高延，冯启祥.择伐对天然云冷杉林林分生长和结构的影响.林业科学，2011，47（2）：15-24.  
+[21] 惠刚盈，胡艳波，赵中华.再论“结构化森林经营”.世界林业研究,2009，22（1)：14-19.  
+[22] 沈林，杨华，亢新刚，岳刚.择伐强度对天然云冷杉林空间分布格局的影响.中南林业科技大学学报，2013,33（1)：68-74.  
+[23] DodsonEK，AresA，uemaKJEarlspostngtreamentssiedeeratelateessoalforststrucuyougconiferous stands of western Oregon，USA. Canadian Journal of Forest Research，2012,42(2）:345-355.  
+[24] 雷相东，陆元昌，张会儒，张则路，陈晓光.抚育间伐对落叶松云冷杉混交林的影响.林业科学，2005，41（4)：78-84.  
+[25] ZuchiniW，vonGadowKTwoindicesofagreementaongforestersseletingtresforthiing.ForestandLandscapeResearch，95，1：199-206.  
+[26] 王飞，代力民，邵国凡，谷会岩，惠淑荣，熊晓波，王惠.非线性状态方程模拟异龄林径阶动态——以长白山阔叶红松林为例.生态学杂志，2004,23(5)：101-105.  
+[27] Coomes DA，Alln RB.Efectsof size,competitionand altitudeontre growth.Journalof Ecology，2007,95(5）：1084-1097.  
+[28] KariukiM,KoaRrosiRG,VclaK.odelinggowthuetsdortaltesbendsiatef subtropicalaiforestsfowgdifrentlevelsofistubae.FrestometryodelingndIfationiencs，47  
+[29] BurgessD,RobsoC，telEasteiespoes3yeasfrtligeeddforestsstEoland Management,2005，209(1/2): 117-129.  
+[30]SiardSWleeaeHaereoalgtsootelddalitygederasBritish Columbia.Forest Ecology and Management，2004，190(2/3）：163-178.  
+31]ForgetEoletFelaadYaeoseialeeQuebec，Canada.Forest Ecology and Management，2007,242(2/3）:764-775.  
+32]MakiHoki.gteitaseedfoofotstrrestEoldat,2004，203(1/3):21-34.  
+33] RugerN,GutieG,iligestHuthocalipctsffretestingeaisferateeeforest in southern Chile- -a simulation experiment.Forest Ecology and Management，2007,252(1/3）：52-66.  
+[34] TemesgenH,Marti，aguireDA，TapperJC.Quantifyngeetsofdierentlevelsofisperedaoptreretentioonstogdyield of the regeneration cohort.Forest Ecology and Management，2006,235(1/3）: 44-53.  
+[35] ThorpeHC,osS,aspesenJesiuatregothesposestortiladrestinebacksprce（iceamrin）alrest.Canadian Journal of Forest Research，2007,37(9)：1563-1571.  
+[36]Torpespdeldessspatially explicit analysis for lowland black spruce.Ecological Modelling，2010,221(2）：256-267.

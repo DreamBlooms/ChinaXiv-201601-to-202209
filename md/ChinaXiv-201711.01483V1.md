@@ -1,0 +1,239 @@
+2 李艳玲贾淼鲁琳
+
+（北京农学院动物科学技术学院，奶牛营养学北京市重点实验室，北京102206）摘要：在底物精粗比为6:4的条件下，在底物中添加不同剂量[使发酵液中植物精油的浓度分别为0（对照）、50、100、200和 $4 0 0 \mathrm { \ m g / L ] }$ 的丁子香酚、 $D$ -柠烯、茴香脑、肉桂醛、百里香酚或香芹酚，通过体外产气法比较研究不同植物精油对体外瘤胃发酵和甲烷（ $\mathrm { C H } _ { 4 }$ ）产量的影响。每种植物精油的每个剂量设3个重复。体外模拟瘤胃发酵培养 $2 4 \mathrm { h }$ ，测定产气量和气体中的 $\mathrm { C H } _ { 4 }$ 含量以及发酵液的pH、挥发性脂肪酸（VFA）比例和氨态氮（ $\mathrm { N H } _ { 3 } – \mathrm { N }$ ）浓度。结果表明：1）除百里香酚外，添加各种植物精油对体外发酵液pH均无显著影响（ $P { > } 0 . 0 5 )$ ）°2)添加丁子香酚、 $D .$ -柠烯、茴香脑和肉桂醛对体外发酵液总VFA浓度没有显著影响( $P { > } 0 . 0 5 )$ ，但总VFA浓度随百里香酚和香芹酚浓度的增加呈二次曲线变化（ $( P _ { \mathrm { Q } } { < } 0 . 0 1 )$ 。与对照组相比,添加 $4 0 0 ~ \mathrm { { m g / L } }$ 百里香酚和香芹酚显著降低总VFA浓度（ $_ { \cdot  { P } < 0 . 0 1 }$ 。 $D$ -柠烯、茴香脑、百里香酚和香芹酚的添加改变了各VFA占总VFA的摩尔百分比。与对照组相比，添加 $5 0 ~ \mathrm { m g / L } \ : D$ 柠烯和茴香脑使乙酸比例显著增加（ $P { < } 0 . 0 5 )$ ，丙酸比例显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ ；而添加 $4 0 0 ~ \mathrm { { m g / L } }$ D-柠烯和茴香脑则使乙酸比例显著下降（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ，丙酸和丁酸比例显著上升（ $_ { . P < 0 . 0 5 ) }$ 。百里香酚和香芹酚的添加对乙酸比例没有产生显著影响（ $P { > } 0 . 0 5$ )，与对照组相比， $4 0 0 \mathrm { m g / L }$ 百里香酚和香芹酚使丙酸比例显著下降（ $P { < } 0 . 0 5$ )。3）添加茴香脑、百里香酚和香芹酚显著影响体外发酵液 $\mathrm { N H } _ { 3 }$ -N浓度（ $P { < } 0 . 0 5 )$ )，与对照组相比， $4 0 0 \mathrm { m g / L }$ 百里香酚和香芹酚显著降低 $\mathrm { N H } _ { 3 }$ -N浓度（ $\scriptstyle P < 0 . 0 5 .$ )。4）添加 $D .$ -柠烯、茴香脑、肉桂醛对体外发酵24h产气量没有显著影响（ $_ { . P > 0 . 0 5 ) }$ 。与对照组相比，各浓度的百里香酚和香芹酚均显著降低体外发酵24h产气
+
+量（ $\cdot P { < } 0 . 0 5 \$ )，且随百里香酚和香芹酚浓度的增加呈二次曲线变化（ $P _ { \mathrm { Q } } { < } 0 . 0 1$ )。5）添加D柠烯、茴香脑和肉桂醛对体外发酵 $2 4 \mathrm { h C H } _ { 4 }$ 产量没有显著影响（ $\scriptstyle P > 0 . 0 5$ )。与对照组相比，50和 $1 0 0 ~ \mathrm { { m g / L } }$ 的丁子香酚显著增加体外发酵24h $\mathrm { C H } _ { 4 }$ 产量（ $P { < } 0 . 0 5 \$ ，而 $4 0 0 \mathrm { m g / L }$ 的百里香酚和香芹酚体外发酵24h $\mathrm { C H } _ { 4 }$ 产量分别降低 $8 4 . 7 \%$ ( $P { < } 0 . 0 5$ ）和 $7 3 . 9 \%$ ( $\scriptstyle P < 0 . 0 5 .$ )。综合以上试验结果可知，不同植物精油对体外瘤胃发酵和 $\mathrm { C H } _ { 4 }$ 产量的影响结果不同，且与添加剂量有关。其中，低剂量的百里香酚和香芹酚促进体外瘤胃发酵，而高剂量的百里香酚和香芹酚抑制体外瘤胃发酵且显著降低24h $\mathrm { C H } _ { 4 }$ 产量。  
+关键词：植物精油；瘤胃发酵；甲烷产量  
+中图分类号：文献标识码：文章编号：  
+大气中二氧化碳（ $\mathrm { C O } _ { 2 }$ 、甲烷（ $\mathrm { C H } _ { 4 }$ ）、一氧化二氮（ $\mathrm { N } _ { 2 } \mathrm { O }$ ）等气体浓度的增加所导致的温室气体效应目前引起了各国的普遍关注。大气中 $\mathrm { C H } _ { 4 }$ 的温室效应是 $\mathrm { C O } _ { 2 }$ 的21倍，目前被认为是仅次于 $\mathrm { C O } _ { 2 }$ 的引起全球变暖的重要气体。反刍家畜每年排放 $\mathrm { C H } _ { 4 }$ 约8000万t，占人为甲烷排放总量的 $3 3 \% ^ { [ 1 ] }$ 。此外， $\mathrm { C H } _ { 4 }$ 的排放也造成动物饲粮能量的严重损失，一般来说，$\mathrm { C H } _ { 4 }$ 的能量占饲料总能量的 $2 \% { \sim } 1 2 \% ^ { [ 2 ] }$ ，低质粗饲料可达 $1 5 \%$ 。因此，研究降低瘤胃 $\mathrm { C H } _ { 4 }$ 排放的措施已成为目前研究的热点之一。  
+虽然现在许多化学添加剂都可以有效降低反刍动物 $\mathrm { C H } _ { 4 }$ 的产生，但随着科学研究的不断
+
+深入，人们逐渐意识到这些化学添加剂所带来的负面效应，更倾向于选择天然的绿色添加剂。植物精油（essentialoil）是一类存在于植物中并具有芳香气味，可随水蒸气蒸馏出来但又不溶于水的挥发性油状物质的总称，它是从植物的花、叶、茎、根或果实中，通过水蒸气蒸馏法、挤压法、冷浸法或溶剂提取法提炼萃取的挥发性芳香物质，是植物提取物中重要的活性成分之一。研究表明，植物精油不仅具有抗菌作用，还可以减少 $\mathrm { C H } _ { 4 }$ 产量[3-4]，降低瘤胃蛋白质降解，从而减少氨态氮（ $\mathrm { N H } _ { 3 } – \mathrm { N }$ ）浓度[5-6]，而不同植物精油对瘤胃发酵和饲料消化的影
+
+响则不尽相同[7-9]。本试验选择植物精油中常见的3种单萜类化合物香芹酚、百里香酚和D-柠烯以及3种类苯丙烷类化合物肉桂醛、茴香脑和丁子香酚开展试验，研究其对体外瘤胃发酵和 $\mathrm { C H } _ { 4 }$ 产量的影响，为植物精油在动物生产上的应用提供理论基础。  
+1 材料与方法  
+1.1 供试植物精油  
+选择6种植物精油开展本试验，分别是丁子香酚（纯度 $9 9 \%$ ，印度尼西亚）、百里香酚（纯度 $9 9 \%$ ，印度）、茴香脑（纯度 $9 9 \%$ ，广西）、香芹酚（纯度 $9 9 \%$ ，南京）、肉桂醛（纯度 $98 \%$ 南京）、 $D$ -柠烯（纯度 $94 \%$ ，巴西）。  
+1.2 试验设计  
+体外培养试验的底物参考我国《肉羊饲养标准》（NY/T816—2004）推荐的营养水平，以玉米、豆粕和羊草等作为原料，粉碎过 $0 . 5 \mathrm { m m }$ 筛，按一定比例配制，底物组成及营养水平见表1，底物精粗比为6:4。试验采用单因子试验设计，在底物中分别添加不同剂量[使发酵液中植物精油的浓度分别为0（对照）、50、100、200和 $4 0 0 \mathrm { \ m g / L } ]$ 的丁子香酚、 $D _ { \mathbf { \alpha } }$ 柠烯、茴香脑、肉桂醛、百里香酚或香芹酚，每种植物精油的每个剂量设3个重复。另设一空白对照组（用于校正产气量值)，不加底物，只添加发酵液进行体外培养，设3个重复。
+
+# 表1底物组成及营养水平 (干物质基础)
+
+Table 1Composition and nutrient levels of the substrate (DM basis) %
+
+项目Items 含量Content 原料Ingredients
+
+玉米Corn 42.60豆粕Soybean meal 14.60羊草 Chinese wildrye hay 40.00石粉 Limestone 0.80磷酸氢钙 $\mathrm { C a H P O } _ { 4 }$ 0.50食盐 NaCl 0.50预混料 Premix1) 1.00合计 Total 100.00
+
+营养水平 Nutrient levels2)
+
+干物质DM 89.6 有机物OM 93.2
+
+粗蛋白质CP
+
+13.4
+
+中性洗涤纤维 NDF
+
+32.8
+
+骏性洗涤纤维ADF 19.9 钙Ca 0.66 磷P 0.35
+
+1)预混料为每千克底物提供 The premix provided the following per $\mathrm { k g }$ of the substrate: Cu  
+$1 5 . 0 \mathrm { m g }$ ，Fe $1 0 0 . 0 \mathrm { m g }$ ， $\mathrm { M n } 6 0 . 0 \mathrm { m g }$ ， $Z \mathrm { n \ 1 0 0 . 0 \ m g }$ ， $\mathrm { ~ I ~ } 0 . 9 \mathrm { ~ m g ~ }$ ， $\mathrm { S e } 0 . 3 \mathrm { m g }$ ， $\mathrm { C o } 0 . 2 \ : \mathrm { m g }$ ，VA 16 000  
+IU， $\mathrm { V D } _ { 3 }$ 4000 IU，VE100IU。2)营养水平为实测值。干物质含量指底物风干样的干物质比例，其余营养成分含量指在  
+底物干物质基础上的百分含量。The nutrient levels were measured values.DM content was  
+calculated based on air-dried substrate,other nutrient contents were calculated based on substrate  
+DM.  
+1.3 体外瘤胃发酵培养试验采用Menke等[10]的体外产气法，采集4只安装永久瘤胃瘘管的瘘管羊瘤胃液，与缓冲液以1:2的比例混合制成人工瘤胃发酵液。称取 $2 0 0 ~ \mathrm { { m g } }$ （干物质基础）底物至 $1 0 0 ~ \mathrm { { m L } }$ 培养管（注射器）的顶部，在加入人工瘤胃发酵液之前，从培养管的前端注入 $0 . 5 ~ \mathrm { m L }$ 植物精油混合物(植物精油与乙醇不同浓度梯度的混合物)，然后加入 $3 0 ~ \mathrm { m L }$ 人工瘤胃发酵液。按照试验设计，使得加入发酵液后不同组的植物精油浓度分别达到0、50、100、200和 $4 0 0 \mathrm { m g / L }$ 发酵液。另外，空白对照组的培养管中不加底物，直接加入 $3 0 ~ \mathrm { m L }$ 人工瘤胄发酵液。各培养管放置在39℃的恒温水浴培养箱中培养 $2 4 \mathrm { h }$ ，记录培养管在不同时间点的刻度值，并于24h终止培养，测定发酵液各项发酵参数和 $\mathrm { C H } _ { 4 }$ 产量。  
+试验进行了2个批次的重复。  
+1.4 测定指标及方法  
+1.4.1底物营养成分含量的测定  
+底物营养成分含量的测定设置3个平行，平行样品测定结果的变异系数控制在 $5 \%$ 以内。采用105℃烘箱烘干5h后测定干物质含量；采用550℃马弗炉燃烧5h后测定粗灰分含量，然后利用100减去粗灰分含量即为有机物含量；中性洗涤纤维含量测定采用Van Soest等[1]的方法测定，且使用了热稳定的 $\mathfrak { a }$ -淀粉酶；酸性洗涤纤维含量根据 AOAC（1991）[12]方法测定；粗蛋白质(氮 $\times 6 . 2 5 )$ 含量采用凯氏定氮法[12]测定；钙含量采用高锰酸钾滴定法[13]测定；磷含量采用钼黄比色法[13]测定。  
+1.4.2 产气量测定
+
+体外培养过程中分别读取0、1、2、4、6、8、10、12、16、20和 $2 4 \mathrm { h }$ 的培养管刻度值，计算不同时间点的体外产气量，并计算 $2 4 \mathrm { h }$ 的累积净产气量。
+
+# 1.4.3 体外发酵参数测定
+
+将采集气体后的培养管中的发酵液排出，立即测定发酵液pH。将培养管的发酵液离心（ $8 0 0 \times g$ ， $1 5 \mathrm { m i n }$ ，取 $1 ~ \mathrm { m L }$ 上清液加入 $1 . 5 ~ \mathrm { m L }$ 离心管（预先加入
+
+$2 0 0 ~ \mu \mathrm { L }$ $2 5 \%$ 偏磷酸冷冻保存）中，采用气相色谱仪（Agilent 6890N)，配置HP-INNOwax（30.0$\mathrm { m } { \times } 3 2 0 ~ \mu \mathrm { m } { \times } 0 . 5 ~ \mu \mathrm { m }$ ，CatalogNo.:19091N-213）毛细管色谱柱，以2-乙基丁酸（2EB）作为内标[色谱条件：火焰离子化检测器；载气为氮气 $( \mathbf { N } _ { 2 } )$ ，分流比40:1，进样量 $0 . 4 \mu \mathrm { L }$ ，温度 $2 2 0 \ \mathrm { ^ \circ C }$ 毛细管色谱柱恒流模式，流量 $2 . 0 ~ \mathrm { { m L / m i n } }$ ，平均线速度 $3 8 ~ \mathrm { c m / s }$ ；程序升温 $1 2 0 \ \mathrm { ^ circ C }$ （ $3 \mathrm { m i n }$ ）—10℃/min—180℃（1min)；检测器度 $2 5 0 \ \mathrm { ^ \circ C }$ ，氢气（ $\mathrm { H } _ { 2 }$ ）流量 $4 0 ~ \mathrm { { m L / m i n } }$ ，空气流量450mL/min，柱流量 $^ +$ 尾吹气流量 $4 5 ~ \mathrm { m L / m i n } ]$ ，测定挥发性脂肪酸（VFA）浓度，并计算各VFA占总VFA的摩尔百分比。  
+另取 $4 \mathrm { m L }$ 上清液加入 ${ } . 5 \mathrm { m L }$ 离心管（预先加入 $0 . 8 \mathrm { ~ m L ~ } 1 \%$ 硫酸冷冻保存）中，采用苯酚-次氯酸钠比色法测定 $\mathrm { N H } _ { 3 }$ -N的浓度[14]。
+
+# 1.4.4 $\mathrm { C H } _ { 4 }$ 产量测定
+
+在体外培养 $2 4 \mathrm { h }$ 后，将培养管取出，迅速放入冰水浴中中止发酵，抽取发酵管中的气体，立即用TP-2060T气相色谱仪检测气体中的 $\mathrm { C H } _ { 4 }$ 含量［色谱条件：热导检测器（TCD)，TDX-01填充柱， $1 \ \mathrm { m m } \times 3 \ \mathrm { m m } \times 2 \ \mathrm { m m }$ ，进样口温度 $1 5 0 \mathrm { ~ \textdegree ~ }$ ，柱温 $1 2 0 \mathrm { ~ \textdegree ~ }$ ，检测器温度 $1 5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，载气为氨气(He)，流速 $5 0 ~ \mathrm { m L / m i n }$ ，进样量 $0 . 1 ~ \mathrm { m L } ^ { \cdot }$ ]，并根据产气量和 $\mathrm { C H } _ { 4 }$ 含量计算 $\mathrm { C H } _ { 4 }$ 产量。
+
+# 1.5数据统计与分析
+
+试验数据采用SAS9.0的一般线性模型（GLM）程序进行统计分析，按单因子试验设计进行方差分析和多重比较，试验进行了2个批次的重复，每个处理的重复数为6，对不同剂量的植物精油对体外瘤胃发酵和 $\mathrm { C H } _ { 4 }$ 产量的影响采用线性（L）和二次曲线（Q）比较，显著性水平定为 $P { < } 0 . 0 5$ ，变化趋势范围定在 $0 . 0 5 { \leqslant } P { \leqslant } 0 . \ 1 0$ 。2结果与分析2.1 不同植物精油对体外瘤胃发酵的影响2.1.1 不同植物精油对体外发酵液pH的影响
+
+由表2可以看出，添加百里香酚显著影响体外发酵液pH（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，当其在发酵液中浓度达到 $4 0 0 \mathrm { m g / L }$ 时，体外发酵液pH较对照组显著升高（ $\cdot P { < } 0 . 0 5 \$ ；而其他植物精油的添加对体外发酵液pH则没有显著影响（ $_ { . P > 0 . 0 5 ) }$ 。
+
+# 表2不同植物精油对体外发酵液pH的影响
+
+Table 2Effects of different plant essential oils on fermentation fluid pH in vitro   
+
+<html><body><table><tr><td>植物精油</td><td colspan="6">浓度Concentration/（mg/L）</td><td>P值</td><td>线性</td><td>二次</td></tr><tr><td>Plant essential</td><td>0</td><td>50</td><td>100</td><td>200</td><td>400</td><td>SEM</td><td>P-value</td><td>L</td><td>Q</td></tr><tr><td>oils</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丁子香酚</td><td>6.66</td><td>6.53</td><td>6.59</td><td>6.63</td><td>6.63</td><td>0.035</td><td>0.18</td><td>0.52</td><td></td></tr><tr><td>D-柠烯</td><td>6.66</td><td>6.57</td><td>6.56</td><td>6.57</td><td>6.65</td><td>0.035</td><td>0.17</td><td>0.54</td><td>0.03</td></tr><tr><td>D-limonene</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>茴香脑</td><td>6.66</td><td>6.53</td><td>6.54</td><td>6.56</td><td>6.57</td><td>0.036</td><td>0.18</td><td>0.39</td><td>0.11</td></tr><tr><td>Anethole</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肉桂醛</td><td>6.66</td><td>6.53</td><td>6.48</td><td>6.49</td><td>6.60</td><td>0.042</td><td>0.06</td><td>0.90</td><td><0.01</td></tr><tr><td>Cinnamaldehyde</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>百里香酚</td><td>6.66b</td><td>6.52b</td><td>6.59b</td><td>6.61b</td><td>6.80a</td><td>0.369</td><td><0.01</td><td><0.01</td><td>0.02</td></tr><tr><td>Thymol</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>香芹酚</td><td>6.66</td><td>6.59</td><td>6.59</td><td>6.60</td><td>6.68</td><td>0.036</td><td>0.34</td><td>0.36</td><td>0.09</td></tr></table></body></html>
+
+Carvacrol
+
+L、Q分别为组间的线性和二次曲线效应。同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，
+
+L and Q mean linear and quadratical efects among different groups, respectively. In the same row, values with no letter or the same letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ ，while with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.1.2 不同植物精油对体外发酵液VFA比例的影响  
+由表3可以看出，添加百里香酚和香芹酚显著影响体外发酵液的总VFA浓度( $( P { < } 0 . 0 5 )$ ，而其他植物精油的添加对体外发酵液总VFA浓度没有显著影响 $( P { > } 0 . 0 5 )$ 。与对照组相比，体外发酵液中百里香酚和香芹酚浓度为 $4 0 0 \mathrm { m g / L }$ 时显著降低总VFA浓度（ $_ { . P < 0 . 0 5 ) }$ ，且总VFA浓度随百里香酚和香芹酚浓度的增加呈二次曲线变化（ $P _ { \mathrm { Q } } { < } 0 . 0 1$ ）  
+由表3可以看出，添加D-柠烯和茴香脑显著影响体外发酵液乙酸比例（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ ，而其他植物精油的添加对体外发酵液乙酸比例没有显著影响 $( P { > } 0 . 0 5 )$ 。与对照组相比，体外发酵液中 $D$ -柠烯浓度为 $5 0 ~ \mathrm { m g / L }$ 时显著增加乙酸比例（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ， $D$ -柠烯浓度为200和 $4 0 0 \mathrm { m g / L }$ 显著降低乙酸比例（ $\scriptstyle P < 0 . 0 5 .$ )，且乙酸比例随 $D$ -柠烯浓度的增加呈线性下降（ $\textstyle P _ { \mathrm { L } } { < } 0 . 0 1 { \dot { } }$ ；体外发酵液中茴香脑浓度为 $5 0 ~ \mathrm { m g / L }$ 时显著增加乙酸比例（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，茴香脑浓度为 $4 0 0 \mathrm { m g / L }$ 时显著降低乙酸比例（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，且乙酸比例随茴香脑浓度的增加呈线性下降（ $\cdot P _ { \mathrm { L } } { < } 0 . 0 1 \$ ）°由表3可以看出，除丁子香酚和肉桂醛外，添加 $D /$ -柠烯、茴香脑、百里香酚和香芹酚显著影响体外发酵液丙酸比例( $\scriptstyle \cdot { P < 0 . 0 5 }$ )。与对照组相比，体外发酵液中 $D$ -柠烯浓度为100、200和 $4 0 0 \mathrm { m g / L }$ 时显著增加丙酸比例（ $_ { . P < 0 . 0 5 ) }$ ，且丙酸比例随 $D$ -柠烯浓度的增加呈现二次曲线变化（ $P _ { \mathrm { Q } } { < } 0 . 0 1 )$ ；体外发酵液中茴香脑浓度为 50 和 $4 0 0 \mathrm { \ m g / L }$ 时显著降低丙酸比例（ $_ { . P < 0 . 0 5 ) }$ ，且丙酸比例随茴香脑浓度的增加呈二次曲线变化（ $P _ { \mathrm { Q } } { < } 0 . 0 1 \$ ；随肉桂醛浓度的增加，丙酸比例呈二次曲线变化（ $P _ { \mathrm { Q } } { = } 0 . 0 4 \$ ）趋势；体外发酵液中百里香酚浓度为200 和 400$\mathrm { m g / L }$ 时显著降低丙酸比例( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ),且丙酸比例随百里香酚浓度的增加呈线性下降( $\scriptstyle P _ { \mathrm { L } } = 0 . 0 2$ 趋势；体外发酵液中香芹酚浓度为添加 $4 0 0 \mathrm { m g / L }$ 时显著降低丙酸比例（ $_ { . P < 0 . 0 5 ) }$ ，且丙酸比
+
+爬日リい増ー込とQv.。
+
+由表3可以看出，添加 $D /$ -柠烯、茴香脑和香芹酚显著影响体外发酵液乙丙比( $. P { < } 0 . 0 5 )$ ，而其他植物精油的添加对体外发酵液乙丙比没有显著影响（ $P { > } 0 . 0 5 )$ 。与对照组相比，体外发酵液中 $D /$ 柠烯浓度为100、200、 $4 0 0 ~ \mathrm { { m g / L } }$ 时显著降低乙丙比（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，且乙丙比随 $D$ 柠烯浓度的增加呈二次曲线变化（ $( P _ { \mathrm { Q } } { < } 0 . 0 1 )$ ；体外发酵液中茴香脑浓度为50 和 $4 0 0 \mathrm { m g / L }$ 时显著提高乙丙比（ $P { < } 0 . 0 5$ )，茴香脑浓度为 $2 0 0 ~ \mathrm { m g / L }$ 时显著降低乙丙比（ $P { < } 0 . 0 5 )$ ，且乙丙比随茴香脑浓度的增加呈二次曲线变化（ $P _ { \mathrm { Q } } { < } 0 . 0 1 \rangle$ ；体外发酵液中香芹酚浓度为 $4 0 0 ~ \mathrm { \ m g / L }$ 时显著提高乙丙比（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ ，且乙丙比随香芹酚浓度的增加呈线性上升（ $\cdot P _ { \mathrm { L } } { < } 0 . 0 1 \$ ）°由表3可以看出，添加 $D /$ -柠烯和香芹酚显著影响体外发酵液异丁酸比例（ $P { < } 0 . 0 5 )$ ，且异丁酸比例随 $D$ -柠烯和香芹酚浓度的增加分别呈二次曲线 $( P _ { \mathrm { Q } } { < } 0 . 0 1 \$ )和线性下降 $( P _ { \mathrm { L } } { < } 0 . 0 1 )$ 添加 $D$ -柠烯、茴香脑与香芹酚显著影响体外发酵液丁酸比例（ $_ { \cdot P < 0 . 0 5 ) }$ ，且丁酸比例随 $\underline { { \boldsymbol { D } } } .$ （20柠烯和茴香脑浓度的增加均呈二次曲线变化（ $\underline { { \boldsymbol { D } } } .$ 柠烯： $P _ { \mathrm { Q } } { < } 0 . 0 1$ ；茴香脑： $\textstyle P _ { \mathrm { Q } } = 0 . 0 2 { \mathrm { ~ . ~ } }$ ，随香芹酚浓度的增加呈线性增加（ $\cdot P _ { \mathrm { L } } { < } 0 . 0 1 \$ ；添加百里香酚和香芹酚显著影响体外发酵液异戊酸比例( $_ { . P < 0 . 0 5 ) }$ ，且异戊酸比例随百里香酚和香芹酚浓度的增加均呈二次曲线变化 $( P _ { \mathrm { Q } } { < } 0 . 0 5 )$ ：添加 $D .$ -柠烯、茴香脑、百里香酚及香芹酚显著影响体外发酵液戊酸比例（ $P { < } 0 . 0 5 )$ ，且戊酸比例随 $D /$ -柠烯、茴香脑、百里香酚浓度的增加均呈二次曲线变化（ $D$ 柠烯： $P _ { \mathrm { Q } } { = } 0 . 0 1$ ；茴香脑： $P _ { \mathrm { Q } } { < } 0 . 0 1$ ；百里香酚： $\scriptstyle P _ { \mathrm { Q } } = 0 . 0 3 .$ )，随香芹酚浓度的变化呈线性下降（ $\cdot P _ { \mathrm { L } } { < } 0 . 0 1 \rangle$ 。
+
+表3不同植物精油对体外发酵液VFA比例的影响  
+Table 3Effects of different plant essential oils on fermentation fluid VFA proportions in vitro   
+
+<html><body><table><tr><td>项目</td><td></td><td>浓度Concentration/（mg/L）</td><td></td><td></td><td></td><td>P值</td><td>线性</td><td>二次</td></tr><tr><td></td><td colspan="7">SEM</td></tr><tr><td>Items</td><td>0</td><td>50</td><td>100</td><td>200</td><td>400</td><td>P-value</td><td>L</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>丁子香酚 Eugenol</td><td>69.8</td><td>80.7</td><td>75.4</td><td>72.2</td><td>68.2</td><td>4.29</td><td>0.32</td><td>0.25</td><td>0.41</td></tr><tr><td>D-柠烯 D-limonene</td><td>69.8</td><td>69.1</td><td>76.5</td><td>71.2</td><td>64.3</td><td>6.15</td><td>0.72</td><td>0.44</td><td>0.38</td></tr><tr><td>茴香脑 Anethole</td><td>69.8</td><td>81.3</td><td>80.2</td><td>79.1</td><td>67.9</td><td>3.36</td><td>0.05</td><td>0.15</td><td>0.01</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>69.8</td><td>73.6</td><td>89.1</td><td>76.3</td><td>79.4</td><td>6.19</td><td>0.30</td><td>0.50</td><td>0.31</td></tr><tr><td>百里香酚 Thymol</td><td>69.8a</td><td>72.3a</td><td>69.9a</td><td>70.2a</td><td>35.8b</td><td>3.76</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>香芹酚 Carvacrol</td><td>69.8a</td><td>80.5a</td><td>83.2a</td><td>68.8a</td><td>39.8b</td><td>3.76</td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+各VFA占总VFA的摩尔百分比Molar ratioof individualVFAin total $\mathrm { V F A } / \%$
+
+乙酸 Acetate
+
+乙丙比 Acetate/propionate ratio   
+
+<html><body><table><tr><td>丁子香酚 Eugenol</td><td>68.0</td><td>67.7</td><td>67.6</td><td>68.1</td><td>66.1</td><td>0.89</td><td>0.55</td><td>0.17</td><td>0.44</td></tr><tr><td>D-柠烯 D-limonene</td><td>68.0b</td><td>69.6a</td><td>68.6ab</td><td>66.9</td><td>65.9d</td><td>0.33</td><td><0.01</td><td><0.01</td><td>0.34</td></tr><tr><td>茴香脑 Anethole</td><td>68.0bc</td><td>69.6a</td><td>68.6ab</td><td>66.8cd</td><td>66.2d</td><td>0.40</td><td><0.01</td><td><0.01</td><td>0.79</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>68.0</td><td>68.4</td><td>69.1</td><td>67.4</td><td>68.1</td><td>0.80</td><td>0.68</td><td>0.68</td><td>0.94</td></tr><tr><td>百里香酚 Thymol</td><td>68.0</td><td>67.1</td><td>67.2</td><td>66.8</td><td>69.5</td><td>0.85</td><td>0.26</td><td>0.13</td><td>0.09</td></tr><tr><td>香芹酚 Carvacrol</td><td>68.0</td><td>69.6</td><td>68.9</td><td>67.5</td><td>69.1</td><td>0.55</td><td>0.12</td><td>0.80</td><td>0.37</td></tr><tr><td>丙酸 Propionate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丁子香酚 Eugenol</td><td>12.7</td><td>12.7</td><td>12.2</td><td>12.6</td><td>12.8</td><td>0.26</td><td>0.50</td><td>0.57</td><td>0.23</td></tr><tr><td>D-柠烯 D-limonene</td><td>12.7</td><td>12.2</td><td>14.8b</td><td>16.5a</td><td>16.8a</td><td>0.35</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>茴香脑 Anethole</td><td>12.7ab</td><td>12.0℃</td><td>12.3bc</td><td>13.2a</td><td>11.3d</td><td>0.17</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>12.7</td><td>12.2</td><td>11.6</td><td>12.3</td><td>14.0</td><td>0.50</td><td>0.07</td><td>0.03</td><td>0.04</td></tr><tr><td>百里香酚Thymol</td><td>12.7ab</td><td>12.1abc</td><td>12.9a</td><td>11.7</td><td>11.9</td><td>0.23</td><td>0.01</td><td>0.02</td><td>0.28</td></tr><tr><td>香芹酚 Carvacrol</td><td>12.7a</td><td>11.9a</td><td>11.8a</td><td>12.7a</td><td>10.7b</td><td>0.24</td><td><0.01</td><td><0.01</td><td>0.04</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丁子香酚 Eugenol</td><td>5.33</td><td>5.37</td><td>5.53</td><td>5.43</td><td>5.16</td><td>0.156</td><td>0.58</td><td>0.34</td><td>0.25</td></tr><tr><td>D-柠烯 D-limonene</td><td>5.33a</td><td>5.70</td><td>4.63b</td><td>4.07°</td><td>3.90°</td><td>0.121</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>茴香脑 Anethole</td><td>5.33b</td><td>5.80</td><td>5.574b</td><td>5.03°</td><td>5.83</td><td>0.094</td><td><0.01</td><td>0.12</td><td><0.01</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>5.33</td><td>5.60</td><td>5.93</td><td>5.50</td><td>4.93</td><td>0.221</td><td>0.08</td><td>0.05</td><td>0.07</td></tr><tr><td>百里香酚 Thymol</td><td>5.33</td><td>5.53</td><td>5.23</td><td>5.73</td><td>5.83</td><td>0.132</td><td>0.05</td><td>0.01</td><td>0.98</td></tr><tr><td>香芹酚 Carvacrol</td><td>5.33b</td><td>5.83b</td><td>5.87%</td><td>5.33b</td><td>6.47a</td><td>0.154</td><td><0.01</td><td><0.01</td><td>0.06</td></tr><tr><td>异丁酸 Isobutyrate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丁子香酚 Eugenol</td><td>0.97</td><td>0.98</td><td>1.00</td><td>0.77</td><td>0.87</td><td>0.074</td><td>0.23</td><td>0.21</td><td>0.52</td></tr><tr><td>D-柠烯 D-limonene</td><td>0.97</td><td>0.73b</td><td>0.67b</td><td>0.67b</td><td>0.70%</td><td>0.045</td><td>0.01</td><td>0.01</td><td><0.01</td></tr><tr><td>茴香脑 Anethole</td><td>0.97</td><td>0.77</td><td>0.93</td><td>0.83</td><td>1.00</td><td>0.044</td><td>0.06</td><td>0.07</td><td>0.05</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>0.97</td><td>0.93</td><td>0.87</td><td>0.97</td><td>0.83</td><td>0.068</td><td>0.60</td><td>0.30</td><td>0.52</td></tr><tr><td>百里香酚 Thymol</td><td>0.97</td><td>1.01</td><td>0.91</td><td>0.91</td><td>0.75</td><td>0.077</td><td>0.21</td><td>0.04</td><td>0.60</td></tr><tr><td>香芹酚 Carvacrol</td><td>0.97a</td><td>0.77ab</td><td>0.80ab</td><td>0.87a</td><td>0.60b</td><td>0.044</td><td><0.01</td><td><0.01</td><td>0.23</td></tr><tr><td>丁酸 Butyrate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丁子香酚 Eugenol</td><td>15.6</td><td>15.7</td><td>16.1</td><td>15.9</td><td>17.3</td><td>0.55</td><td>0.26</td><td>0.04</td><td>0.56</td></tr><tr><td>D-柠烯 D-limonene</td><td>15.6a</td><td>14.8</td><td>13.2°</td><td>12.9</td><td>13.4</td><td>0.24</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>茴香脑 Anethole</td><td>15.6b</td><td>15.0</td><td>15.4bc</td><td>16.2</td><td>18.3</td><td>0.27</td><td><0.01</td><td><0.01</td><td>0.02</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>15.6</td><td>15.6</td><td>15.5</td><td>16.3</td><td>14.2</td><td>0.50</td><td>0.13</td><td>0.08</td><td>0.07</td></tr><tr><td>百里香酚 Thymol</td><td>15.6</td><td>16.7</td><td>16.2</td><td>17.8</td><td>15.8</td><td>0.67</td><td>0.21</td><td>0.90</td><td>0.05</td></tr><tr><td>香芹酚 Carvacrol</td><td>15.6b</td><td>15.1b</td><td>15.8b</td><td>16.1</td><td>17.8a</td><td>0.45</td><td>0.02</td><td><0.01</td><td>0.34</td></tr><tr><td>丁子香酚 Eugenol</td><td>1.80</td><td>1.96</td><td>2.02</td><td>1.77</td><td>1.96</td><td>0.098</td><td>0.38</td><td>0.74</td><td>0.86</td></tr></table></body></html>
+
+<html><body><table><tr><td>D-柠烯 D-limonene</td><td>1.80</td><td>1.81</td><td>1.84</td><td>1.94</td><td>1.95</td><td>0.056</td><td>0.26</td><td>0.04</td><td>0.51</td></tr><tr><td>茴香脑 Anethole</td><td>1.80</td><td>1.77</td><td>1.87</td><td>1.93</td><td>2.00</td><td>0.059</td><td>0.11</td><td>0.02</td><td>0.65</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>1.80</td><td>1.85</td><td>1.89</td><td>2.03</td><td>1.93</td><td>0.071</td><td>0.29</td><td>0.15</td><td>0.12</td></tr><tr><td>百里香酚 Thymol</td><td>1.80a</td><td>2.01a</td><td>1.87a</td><td>1.80a</td><td>1.30b</td><td>0.086</td><td><0.01</td><td><0.01</td><td>0.03</td></tr><tr><td>香芹酚 Carvacrol</td><td>1.80a</td><td>1.68a</td><td>1.75a</td><td>1.89a</td><td>1.10b</td><td>0.059</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>戊酸Valerate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丁子香酚 Eugenol</td><td>0.93</td><td>1.03</td><td>1.03</td><td>0.93</td><td>0.97</td><td>0.056</td><td>0.54</td><td>0.71</td><td>0.77</td></tr><tr><td>D-柠烯 D-limonene</td><td>0.93℃</td><td>0.90℃</td><td>0.87℃</td><td>1.03b</td><td>1.27a</td><td>0.030</td><td><0.01</td><td><0.01</td><td>0.01</td></tr><tr><td>茴香脑 Anethole</td><td>0.93b</td><td>0.90b</td><td>0.97b</td><td>0.90b</td><td>1.20a</td><td>0.033</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>0.93</td><td>0.93</td><td>0.93</td><td>1.00</td><td>0.97</td><td>0.030</td><td>0.45</td><td>0.24</td><td>0.34</td></tr><tr><td>百里香酚 Thymol</td><td>0.93a</td><td>1.00a</td><td>0.97a</td><td>0.97a</td><td>0.77b</td><td>0.039</td><td>0.01</td><td><0.01</td><td>0.03</td></tr><tr><td>香芹酚 Carvacrol</td><td>0.93a</td><td>0.90a</td><td>0.90a</td><td>0.90a</td><td>0.73b</td><td>0.033</td><td>0.01</td><td><0.01</td><td>0.17</td></tr></table></body></html>
+
+2.1.3不同植物精油对体外发酵液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度的影响
+
+由表4可以看出，添加茴香脑、百里香酚和香芹酚显著影响体外发酵液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度（ $_ { . P < 0 . 0 5 ) }$ ，而其他植物精油的添加对体外发酵液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度没有显著影响 $( P { > } 0 . 0 5 )$ 。与体外发酵液中茴香脑浓度为 $1 0 0 \mathrm { m g / L }$ 时相比，茴香脑浓度为 $4 0 0 ~ \mathrm { { m g / L } }$ 时显著降低体外发酵液$\mathrm { N H } _ { 3 } – \mathrm { N }$ 浓度（ $P { < } 0 . 0 5 )$ ，且 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度随茴香脑浓度的增加呈二次曲线变化（ $\scriptstyle P _ { \mathrm { Q } } = 0 . 0 3 .$ ；与对照组相比，体外发酵液中百里香酚浓度为 $4 0 0 \ \mathrm { m g / L }$ 时显著降低体外发酵液 $\mathrm { N H } _ { 3 } – \mathrm { N }$ 浓度（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ，且 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度随百里香酚浓度的增加呈线性下降（ $\cdot { P } _ { \mathrm { L } } { < } 0 . 0 1 )$ ；与对照组相比，体外发酵液中香芹酚浓度为 $4 0 0 \ \mathrm { m g / L }$ 时显著降低体外发酵液 $\mathrm { N H } _ { 3 } – \mathrm { N }$ 浓度（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ ，且$\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度随香芹酚浓度的增加呈二次曲线变化（ $\cdot P _ { \mathrm { Q } } { < } 0 . 0 1 \rangle$ 。
+
+171 Table 4Effects of different plant essential oils on fermentation fluid $\mathrm { N H } _ { 3 }$ -N concentration in vitro mmol/L   
+
+<html><body><table><tr><td rowspan="2">植物精油</td><td colspan="4">浓度Concentration/（mg/L）</td><td rowspan="2"></td><td colspan="2">P值</td><td>线性</td><td>二次</td></tr><tr><td></td><td></td><td></td><td></td><td>SEM</td><td></td><td></td><td></td></tr><tr><td>Plant essential oils</td><td>0</td><td>50</td><td>100</td><td>200</td><td>400</td><td></td><td>P-value</td><td>L</td><td>Q</td></tr><tr><td>丁子香酚 Eugenol</td><td>31.0</td><td>34.9</td><td>36.9</td><td>31.4</td><td>29.1</td><td>1.77</td><td>0.06</td><td>0.07</td><td>0.14</td></tr><tr><td>D-柠烯 D-limonene</td><td>31.0</td><td>26.9</td><td>28.9</td><td>28.8</td><td>29.9</td><td>1.56</td><td>0.08</td><td>0.82</td><td>0.34</td></tr><tr><td>茴香脑 Anethole</td><td>31.0ab</td><td>32.5ab</td><td>35.8a</td><td>32.2ab</td><td>28.5b</td><td>1.28</td><td>0.03</td><td>0.04</td><td>0.03</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>31.0</td><td>31.5</td><td>34.4</td><td>33.0</td><td>33.0</td><td>1.93</td><td>0.75</td><td>0.57</td><td>0.42</td></tr><tr><td>百里香酚 Thymol</td><td>31.0a</td><td>33.7a</td><td>30.5a</td><td>31.8a</td><td>21.2b</td><td>2.53</td><td>0.04</td><td><0.01</td><td>0.12</td></tr><tr><td>香芹酚 Carvacrol</td><td>31.0ab</td><td>27.2b</td><td>35.2a</td><td>34.4a</td><td>22.1</td><td>1.42</td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+2.2不同植物精油对体外瘤胃发酵 $2 4 \mathrm { h }$ 产气量和 $\mathrm { C H } _ { 4 }$ 产量的影响
+
+由表5可以看出，添加丁子香酚、百里香酚和香芹酚显著影响体外发酵 $2 4 \mathrm { ~ h ~ }$ 产气量（ $P { < } 0 . 0 5 )$ ，而其他植物精油的添加对体外发酵 $2 4 \mathrm { ~ h ~ }$ 产气量没有显著影响 $( P { > } 0 . 0 5 )$ 。随丁子香酚浓度的增加，体外发酵 $2 4 \mathrm { ~ h ~ }$ 产气量呈线性下降（ $\cdot P _ { \mathrm { L } } { < } 0 . 0 5 )$ ；与对照组相比，添加各浓度的百里香酚和香芹酚均显著降低 $2 4 \mathrm { ~ h ~ }$ 产气量，且随二者浓度的增加均呈二次曲线变化$( P _ { \mathrm { Q } } { < } 0 . 0 1 )$ 。
+
+由表5可以看出，添加肉桂醛、百里香酚和香芹酚显著影响体外发酵气体中 $\mathrm { C H } _ { 4 }$ 含量（ $P { < } 0 . 0 5 )$ ，而其他植物精油的添加对 $\mathrm { C H } _ { 4 }$ 含量没有显著影响 $( P { > } 0 . 0 5 )$ 。与对照组相比，体外发酵液中添加各浓度肉桂醛均显著提高体外发酵气体中 $\mathrm { C H } _ { 4 }$ 含量（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ，且 $\mathrm { C H } _ { 4 }$ 含量随肉桂醛浓度的升高呈二次曲线变化（ $\scriptstyle \cdot P _ { 0 } = 0 . 0 2 )$ ；体外发酵液中百里香酚浓度为 $2 0 0 ~ \mathrm { m g / L }$ 时显著提高体外发酵气体中 $\mathrm { C H } _ { 4 }$ 含量（ $( P { < } 0 . 0 5 )$ ，而当百里香酚浓度达到 $4 0 0 \mathrm { m g / L }$ 时， $\mathrm { C H } _ { 4 }$ 含量又显著降低（ $P { < } 0 . 0 5 \$ )，总之，随百里香酚浓度的增加，体外发酵气体中 $\mathrm { C H } _ { 4 }$ 含量呈二次曲线变化 （ $( P _ { \mathrm { Q } } { < } 0 . 0 1 )$ ；与体外发酵液中香芹酚浓度为100 和 $2 0 0 ~ \mathrm { m g / L }$ 时相比，香芹酚浓
+
+度为 $4 0 0 \mathrm { m g / L }$ 时显著降低体外发酵气体中 $\mathrm { C H } _ { 4 }$ 含量（ $\cdot P { < } 0 . 0 5 )$ ，且随香芹酚浓度的增加，体外发酵气体中 $\mathrm { C H } _ { 4 }$ 含量呈二次曲线变化（ $\cdot P _ { \mathrm { Q } } { < } 0 . 0 1 \rangle$ ；随 $D$ -柠烯浓度的增加，体外发酵气体中 $\mathrm { C H } _ { 4 }$ 含量呈二次曲线变化（ $\scriptstyle P _ { \mathrm { Q } } = 0 . 0 2 )$ 。  
+由表5可以看出，添加丁子香酚、百里香酚和香芹酚显著影响体外发酵 $2 4 \mathrm { ~ h ~ }$ （20 $\mathrm { C H } _ { 4 }$ 产量L $_ { . P < 0 . 0 5 ) }$ ，而其他植物精油的添加对体外发酵 $2 4 \textrm { h C H } _ { 4 }$ 产量没有显著影响 $( P { > } 0 . 0 5 )$ 。与对照组相比，体外发酵液中丁子香酚浓度为 50 和 $1 0 0 ~ \mathrm { { m g / L } }$ 时显著提高体外发酵 $2 4 \mathrm { h } \mathrm { C H } _ { 4 }$ 产量（ $_ { . P < 0 . 0 5 ) }$ ；随 $D _ { \mathbf { \alpha } }$ -柠烯浓度的增加，体外发酵 $2 4 \mathrm { h } \mathrm { C H } _ { 4 }$ 产量呈线性下降（ $\scriptstyle P _ { \mathrm { L } } = 0 . 0 2 { \mathrm { ~ , ~ } }$ ；随肉桂醛浓度的增加，体外发酵 $2 4 \mathrm { h } \mathrm { C H } _ { 4 }$ 产量呈二次曲线变化 $( \mathrm { \it { P _ { Q } = 0 . 0 4 } } )$ ；与对照组相比，体外发酵液中百里香酚和香芹酚浓度为 $4 0 0 ~ \mathrm { { m g / L } }$ 时均显著降低体外发酵 $2 4 \mathrm { h } \mathrm { C H } _ { 4 }$ 产量（ $_ { . P < 0 . 0 5 ) }$ ，且 $2 4 \mathrm { h C H } _ { 4 }$ 产量随二者浓度的增加均呈二次曲线变化（ $P _ { \mathrm { Q } } { < } 0 . 0 1 \$ ）°
+
+Table 5Effects of different plant essential oils on gas and $\mathrm { C H } _ { 4 }$ productions for $2 4 \mathrm { h }$ rumen fermentation in vitro
+
+表5不同植物精油对体外瘤胃发酵 $2 4 \mathrm { h }$ 产气量和甲烷产量的影响  
+
+<html><body><table><tr><td>项目</td><td colspan="5">浓度Concentration/（mg/L）</td><td></td><td>P值</td><td>线性</td><td>二次</td></tr><tr><td>Items</td><td colspan="7">0 50 100 200</td><td>P value L</td><td>Q</td></tr><tr><td>24 h 产气量 24h gas production/mL</td><td></td><td></td><td></td><td></td><td>400</td><td></td><td></td><td></td><td></td></tr><tr><td>丁子香酚 Eugenol</td><td>75.9abc</td><td>81.6a</td><td>79.2ab</td><td>70.9bc</td><td>69.1</td><td>2.74</td><td>0.04</td><td>0.01</td><td>0.88</td></tr><tr><td>D-柠烯 D-limonene</td><td>75.9</td><td>71.4</td><td>69.3</td><td>69.7</td><td>64.5</td><td>2.47</td><td>0.09</td><td>0.01</td><td>0.56</td></tr><tr><td>茴香脑 Anethole</td><td>75.9</td><td>72.4</td><td>72.7</td><td>69.9</td><td>68.3</td><td>2.26</td><td>0.23</td><td>0.04</td><td>0.45</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>75.9</td><td>69.8</td><td>76.5</td><td>72.5</td><td>69.5</td><td>2.07</td><td>0.10</td><td>0.10</td><td>0.71</td></tr><tr><td>百里香酚 Thymol</td><td>75.9a</td><td>71.4b</td><td>65.6b</td><td>66.3b</td><td>12.0c</td><td>1.45</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>香芹酚 Carvacrol</td><td>75.9a</td><td>67.9b</td><td>65.6b</td><td>65.6b</td><td>23.4</td><td>1.92</td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+$\mathrm { C H } _ { 4 }$ 含量 $\mathrm { C H } _ { 4 }$ proportion $\%$
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>丁子香酚 Eugenol</td><td>20.6</td><td>23.2</td><td>23.2</td><td>22.0</td><td>23.0</td><td>0.97</td><td>0.33</td><td>0.40</td><td>0.48</td></tr><tr><td>D-柠烯 D-limonene</td><td>20.6</td><td>23.0</td><td>23.6</td><td>23.4</td><td>20.4</td><td>0.99</td><td>0.10</td><td>0.34</td><td>0.02</td></tr><tr><td>茴香脑 Anethole</td><td>20.6</td><td>24.2</td><td>24.0</td><td>22.9</td><td>22.1</td><td>0.99</td><td>0.15</td><td>0.90</td><td>0.09</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>20.6b</td><td>23.1a</td><td>24.2a</td><td>23.4a</td><td>23.1a</td><td>0.71</td><td>0.04</td><td>0.17</td><td>0.02</td></tr><tr><td>百里香酚 Thymol</td><td>20.6bc</td><td>23.5ab</td><td>22.9ab</td><td>23.8a</td><td>19.5℃</td><td>0.94</td><td>0.03</td><td>0.11</td><td><0.01</td></tr><tr><td>香芹酚 Carvacrol</td><td>20.6ab</td><td>20.7ab</td><td>22.9a</td><td>23.2a</td><td>17.8b</td><td>1.54</td><td>0.01</td><td>0.03</td><td><0.01</td></tr><tr><td>24 h CH4 产量 24h CH4 production/mL</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丁子香酚 Eugenol</td><td>15.7b</td><td>18.9a</td><td>18.4a</td><td>15.6b</td><td>15.9b</td><td>0.76</td><td>0.02</td><td>0.12</td><td>0.44</td></tr><tr><td>D-柠烯 D-limonene</td><td>15.7</td><td>16.4</td><td>16.3</td><td>16.3</td><td>13.2</td><td>0.76</td><td>0.06</td><td>0.02</td><td>0.06</td></tr><tr><td>茴香脑 Anethole</td><td>15.7</td><td>17.5</td><td>17.4</td><td>16.1</td><td>15.1</td><td>0.87</td><td>0.27</td><td>0.18</td><td>0.27</td></tr><tr><td>肉桂醛 Cinnamaldehyde</td><td>15.7</td><td>16.1</td><td>18.6</td><td>17.0</td><td>16.1</td><td>0.71</td><td>0.09</td><td>0.91</td><td>0.04</td></tr><tr><td>百里香酚 Thymol</td><td>15.7a</td><td>15.6a</td><td>15.0a</td><td>15.8a</td><td>2.4b</td><td>0.62</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>香芹酚 Carvacrol</td><td>15.7a</td><td>14.1a</td><td>15.0a</td><td>15.2a</td><td>4.1b</td><td>0.66</td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+197 3讨论
+
+3.1不同植物精油对体外瘤胃发酵的影响植物精油具有组成、性质和活性多样化的特点，其中，最重要的活性成分包括2个化学  
+组分：萜类（单萜类和倍半萜类）和类苯丙烷化合物。这2个组分来源于不同的代谢前体物  
+并通过不同代谢途径合成，都是不含氮的碳氢化合物，本试验所采用的6种植物精油中，香  
+芹酚、百里香酚和D-柠烯属于单萜类化合物，肉桂醛、茴香脑和丁子香酚属于类苯丙烷类化  
+合物。植物精油对瘤胃发酵的影响作用源于其抗微生物的特性。萜类和类苯丙烷类化合物都是  
+通过作用于细胞膜对细菌发挥作用的，至少部分活性是由于环烃的疏水性，允许它们作用于细胞膜并在细菌的双分子脂膜上累积，占用脂肪酸链间的空间。这种互作引起细胞膜结构构象的改变，导致它的液化和扩张。膜稳定性的丢失导致离子穿过细胞膜泄露，从而使横跨膜的离子梯度下降。在大多数情况下，细菌可以通过使用离子泵来平衡离子梯度，但这个过程中大量的能量被消耗从而导致细菌生长减缓[15-16]。通常，氧化环烃的抗菌活性最高，尤其在酚醛结构中，例如百里香酚和香芹酚，其中羟基和移位电子允许通过氢桥作为主要的活性点与水互作，使得它们抗微生物的活性尤其活跃[15-17]。植物精油应用于反刍动物，主要通过影响瘤胃微生物的活性，从而影响瘤胃发酵。  
+反刍动物的瘤胃液pH可以反映瘤胃内环境状态，它受饲粮类型、动物唾液分泌量及有机酸积累等的共同影响。在本试验中，仅在添加 $4 0 0 \mathrm { m g / L }$ 的百里香酚时显著提高了体外发酵液pH，添加其他浓度的各种植物精油对体外发酵液的pH均没有显著影响。由于体外发酵试验中缓冲液对维持pH的恒定具有重要作用，本研究中添加 $4 0 0 \mathrm { m g / L }$ 的百里香酚引起发酵液pH降低的原因可能是显著降低了总VFA浓度。  
+在饲粮中添加植物精油对总VFA浓度的影响，不同试验结果并不一致。在少量的研究中,供给植物精油或其复合物增加瘤胃液的总VFA浓度，同时可能会改善饲料消化。然而，大多数研究表明，饲粮中添加植物精油会降低总VFA浓度或者对其没有显著影响。例如，Chaves等[18]研究发现，饲粮中供给肉桂醛（ $0 . 2 ~ \mathrm { g / k g }$ 干物质采食量）会增加瘤胃中总VFA浓度;Castillejos等[19]在连续培养试验中维持恒定的 $\mathsf { p H }$ ，添加 $1 . 5 ~ \mathrm { { m g / L } }$ 的混合植物精油增加了总VFA的浓度，尽管没有同时增加有机物的消化率；而另外2个体内试验采用同样的混合植物精油饲喂绵羊（ $\mathrm { 1 1 0 ~ m g / d } \mathrm { \cdot }$ ）和肉牛（ $1 \mathrm { g / d } \rangle$ ，对总VFA浓度和各种VFA的比例均没有产生显著影响[20-21]。植物精油的添加是否引起总VFA浓度的降低可能与其剂量有关。例如，Busquet等[5]研究了大量植物精油对24h体外瘤胃发酵的影响，每个处理添加不同剂量的植物精油，最高的达到 $3 0 0 0 \mathrm { { m g / L } }$ 培养液，结果发现，除了最高剂量时，各种植物精油对总VFA浓度均
+
+没有产生显著影响，而在最高剂量时，大多数处理的总VFA浓度降低了，而且同时饲料消化率也降低了。Castillejos等[报道了类似的结果,在体外培养试验中添加不同剂量的丁子香酚、愈创木酚、柠檬油精、百里香酚以及香草精，最高浓度达 $5 0 0 0 \mathrm { m g / L }$ ，这些植物精油通常对总VFA浓度都没有显著影响，只有在最高剂量时所有这些植物精油都会降低总VFA的浓度。分析其原因可能是高浓度植物精油抑制瘤胃微生物对瘤胃纤维的消化，从而引起总VFA浓度的降低，这可能也是植物精油在高精料饲粮或偏酸性瘤胃环境比起高粗料饲粮能够更好调控瘤胃发酵的原因[22]。国内学者林波等[23]用体外法研究了添加0、50、200、500和 $7 5 0 \mathrm { m g / L }$ 肉桂油、牛至油及其主要成分肉桂醛、香芹酚对瘤胃发酵的影响，结果发现，总VFA浓度随植物精油浓度的增加而降低，高浓度(500、 $7 5 0 \mathrm { m g / L }$ 时显著抑制瘤胃发酵。本试验所采用的6种植物精油中，添加不同浓度的丁子香酚、 $D _ { \mathbf { \alpha } }$ -柠烯、茴香脑和肉桂醛对体外发酵液总VFA浓度均没有产生显著影响；而添加各浓度的百里香酚和香芹酚，只有在最高浓度时显著降低总VFA浓度，且24h产气量也显著下降，表明百里香酚和香芹酚浓度为 $4 0 0 \mathrm { m g / L }$ 时抑制了瘤胃发酵。本试验结果总体表明添加不同种类的植物精油对总VFA浓度的影响结果不一致，而且与植物精油的添加剂量有关。一些研究发现，某些植物精油及其组分会改变VFA的摩尔比，类似于莫能菌素的作用（比如降低乙酸比例和增加丙酸比例)，这些被视为是添加植物精油的有利影响。如Busquet等[24]使用了2个剂量（31.2和 $3 1 2 ~ \mathrm { m g / L }$ 的培养液）的肉桂醛和大蒜油，低剂量的肉桂醛和高剂量的大蒜油都使得乙酸比例下降而丙酸比例上升。陆燕等[25]在体外试验中添加30、50、100、300和 ${ 5 0 0 } \mathrm { m g / L }$ 的大蒜油，除添加 $3 0 \mathrm { m g / L }$ 的大蒜油外，添加其他浓度的大蒜油均显著降低乙酸比例，增加丙酸和丁酸比例，降低乙丙比。而也有一些研究发现，添加一些植物精油会对单个VFA的比例产生不理想的改变，比如使丙酸比例下降而没有影响总VFA的浓度[。在本试验中，对乙酸比例有影响的2种植物精油D-柠烯和茴香脑，都是在低剂量时提高乙酸比例，
+
+而在高剂量时降低乙酸比例，相应地，在低剂量时降低丙酸和丁酸比例，而在高剂量时提高内酸和丁酸比例，这种乙酸比例下降内酸比例上升的结果可以认为是添加植物精油的有利影响；添加高剂量百里香酚和香芹酚显著降低丙酸比例，同时总VFA浓度也显著下降，表明体外瘤胃发酵受到抑制。  
+瘤胃中 $\mathrm { N H } _ { 3 }$ -N浓度是反映瘤胃氮代谢的重要指标，能间接反映瘤胃微生物分解饲粮中蛋白质产生 $\mathrm { N H } _ { 3 }$ -N和利用 $\mathrm { N H } _ { 3 }$ -N合成菌体蛋白的平衡情况。瘤胃中大部分氨（总量的 $50 \%$ 以上）是由一组称作“超级产氨菌”（HAP）的细菌产生的[20]，HAP占瘤胃细菌的数量仅有 $1 \%$ 左右[26]，但却具有非常高的脱氨基活性[27]，这可以降低瘤胃中氨的产量，通过增加瘤胃蛋白质利用效率来提高营养物质的利用率。由于植物精油能够选择性地抑制瘤胃HAP，可以显著抑制瘤胃中氨的产生[28]。不同类型的植物精油成分影响瘤胃氮代谢的最佳剂量不同。如Castillejos等研究发现，愈创木酚的添加量为 $5 \mathrm { m g / L }$ 时可降低氨的浓度，柠檬油精和百里香酚降低氨的浓度的添加量为 $5 0 ~ \mathrm { m g / L }$ ，而香草精和丁子香酚在添加量为 ${ 5 0 0 } \mathrm { m g / L }$ 时对瘤胃中氨的浓度也没有产生显著影响。本试验所采用的6种植物精油中，茴香脑、百里香酚和香芹酚影响体外发酵液 $\mathrm { N H } _ { 3 }$ -N浓度，且都是在低剂量时没有显著影响，而在最高剂量 $4 0 0 ~ \mathrm { { m g / L } }$ 时显著降低 $\mathrm { N H } _ { 3 }$ -N浓度，表明高剂量植物精油的添加抑制了瘤胃微生物的活动，可能同时抑制了瘤胃超级产氨菌的活性，这与高剂量时引起总VFA浓度下降，抑制瘤胃发酵的结果相一致。3.2 不同植物精油对体外瘤胃 $\mathrm { C H } _ { 4 }$ 产量的影响  
+近年来，大量的研究评估了各种添加剂，包括植物精油，在降低 $\mathrm { C H } _ { 4 }$ 产量方面的效果。一些植物精油可以直接抑制产 $\mathrm { C H } _ { 4 }$ 菌或者通过抑制一些有利于 $\mathrm { C H } _ { 4 }$ 生成的微生物的代谢过程而间接降低 $\mathrm { C H } _ { 4 }$ 产量[23]。Cobellis等[29]综述了大量的体外试验研究，概括了植物精油在抑制$\mathrm { C H } _ { 4 }$ 产量和瘤胃发酵方面的效果。Macheboeuf等[30报道，采用5mmol/L牛至油或肉桂油可以降低 $98 \%$ 的 $\mathrm { C H } _ { 4 }$ 产量，而采用同样剂量的薛萝精油，仅降低 $12 \%$ 的 $\mathrm { C H } _ { 4 }$ 产量，表明不同的植
+
+物精油其对 $\mathrm { C H } _ { 4 }$ 产量的影响效果不同。Patra等""采用5种不同的植物精油（分别来自丁香、桉树、大蒜、牛至和薄荷)，研究发现，使用 $1 \ \mathrm { g / L }$ 牛至和大蒜植物精油时， $\mathrm { C H } _ { 4 }$ 产量降低最多，表明植物精油对 $\mathrm { C H } _ { 4 }$ 产量降低的效果与其剂量有关。大量研究结果表明，植物精油降低$\mathrm { C H } _ { 4 }$ 产量的效果伴随着对瘤胃发酵的抑制，而这种负面效果与植物精油的种类和剂量以及所采用的底物有关[29]。国内研究者陆燕等[25]报道了体外试验条件下添加30、50、100、300和$5 0 0 \mathrm { m g / L }$ 大蒜油可使 $\mathrm { C H } _ { 4 }$ 产量降低 $6 5 . 0 { \sim } 9 8 . 3 \%$ ，但总VFA的浓度也出现下降。米热古丽等[32]的体外培养试验中添加100、150和 $2 5 0 ~ \mu \mathrm { L } / \mathrm { L }$ 葡萄籽精油，添加100、 $1 5 0 ~ \mu \mathrm { L / L }$ 时分别使 $\mathrm { C H } _ { 4 }$ （204号含量下降10.79和 $1 5 . 3 0 \%$ ，添加 $2 5 0 ~ \mu \mathrm { L } / \mathrm { L }$ 时反而使 $\mathrm { C H } _ { 4 }$ 含量升高 $7 . 1 7 \%$ ，表明适宜浓度的葡萄籽精油能降低瘤胃 $\mathrm { C H } _ { 4 }$ 的产生，但各添加浓度均显著降低总VFA浓度。林波等[23]报道，体外添加不同浓度的牛至油和肉桂油，瘤胃 $\mathrm { C H } _ { 4 }$ 产量随添加浓度的增加而降低，当添加 $5 0 ~ \mathrm { m g / L }$ 的牛至油和肉桂油可分别降低 $1 3 . 3 \%$ 和 $2 1 . 2 \%$ 的 $\mathrm { C H } _ { 4 }$ 产量，而对总VFA浓度的影响较小，说明该浓度的植物精油发挥了理想的瘤胃调控作用。在本试验所采用的6种植物精油中，添加不同剂量的百里香酚和香芹酚，只有在最高剂量 $4 0 0 \mathrm { m g / L }$ 时显著降低 $\mathrm { C H } _ { 4 }$ 产量，使 $\mathrm { C H } _ { 4 }$ 产量分别降低 $8 4 . 7 \%$ 和 $73 . 9 \%$ ，且总VFA浓度和 $2 4 \mathrm { h }$ 产气量也显著下降，表明 $\mathrm { C H } _ { 4 }$ 产量降低的同时瘤胃发酵也受到了抑制。这与前人研究的植物精油对 $\mathrm { C H } _ { 4 }$ 产量降低的效果与其剂量有关的结论相一致。植物精油降低 $\mathrm { C H } _ { 4 }$ 产量的机制之一是抑制瘤胃原虫的活性，进而抑制与原虫共生的甲烷菌的活性[30]。另外，本试验中添加的其他几种植物精油 $D .$ -柠烯、茴香脑和肉桂醛对体外发酵24hCH4产量没有产生显著影响，但添加50和 $1 0 0 \mathrm { m g / L }$ 的丁子香酚与对照组相比增加了 $\mathrm { C H } _ { 4 }$ 产量，可能是由于该剂量下的丁子香酚促进了瘤胃发酵及瘤胃微生物的活性。本试验的结果也表明不同的植物精油对 $\mathrm { C H } _ { 4 }$ 产量的影响效果不同。目前，关于植物精油体内试验研究的结果还比较少，在大多数情况下，由于植物精油的
+
+式的不同，很难确定植物精油的剂量需求，以达到瘤胃中有效的植物精油浓度[33]。Wang等  
+[34]饲喂肉羊一种来自牛至的植物精油混合物 $( 0 . 2 5 \ \mathrm { g / d } )$ 15d，结果表明 $\mathrm { C H } _ { 4 }$ 产量降低，而  
+Tomkins等[35]饲喂肉牛一种商业混合植物精油（1和2g/d)40d，结果表明 $\mathrm { C H } _ { 4 }$ 产量没有下降。  
+未来的研究需要进一步系统地评价植物精油在体内试验中的效果，包括使用剂量以及不同植  
+物精油间的组合，以便能更好地应用于生产。由于目前大多数试验研究的结果表明，植物精油在降低 $\mathrm { C H } _ { 4 }$ 产量的同时抑制了瘤胃发酵，  
+影响了饲料消化，所以很少有养殖者对使用植物精油来降低 $\mathrm { C H } _ { 4 }$ 产量感兴趣。因此，未来主  
+要的挑战仍然是如何找到能够减少 $\mathrm { C H } _ { 4 }$ 产量且不降低饲料消化或瘤胃发酵的植物精油。  
+4结论不同植物精油对体外瘤胃发酵和 $\mathrm { C H } _ { 4 }$ 产量的影响结果不同，且与添加剂量有关。在本  
+试验中，低剂量的百里香酚和香芹酚在数值上提高体外发酵液总VFA 浓度，而高剂量（400  
+mg/L）的百里香酚和香芹酚显著降低体外发酵液总VFA、 $\mathrm { N H } _ { 3 }$ -N浓度及 $2 4 \mathrm { h }$ 产气量和 $\mathrm { C H } _ { 4 }$   
+产量。  
+参考文献:  
+[1] BEAUCHEMIN K A,KREUZER M,O'MARA F,et al.Nutritional management for enteric  
+methane abatement:a review[J].Australian Journal of Experimental Agriculture,2008,48(2):21-27.  
+[2] JOHNSON K A,JOHNSON D E.Methane emissions from cattle[J].Journal of AnimalScience,1995,73(8):2483-2492.  
+[3] MOLERO R,IBARS M,CALSAMIGLIA S,et al.Effects of a specific blend of essential oilcompounds on dry mater and crude protein degradability in heifers fed diets with differentforage to concentrate ratios[J].Animal Feed Science andTechnology,2004,114(1/2/3/4):91-104.  
+[4] CARDOZO P W,CALSAMIGLIA S,FERRET A,et al.Screening for the effects of natural plantextracts at different pH on in vitro rumen microbial fermentation of a high-concentrate dietfor beef catle[J].Journal of Animal Science,2005,83(11):2572-2579.  
+[5] BUSQUET M,CALSAMIGLIA S,FERRET A,et al.Plant extracts affect in vitro rumenmicrobial fermentation[J].Journal of Dairy Science,2006,89(2):761-771.  
+[6] CASTILLEJOS L,CALSAMIGLIA S,FERRET A.Effect of essential oil active compounds onrumen microbial fermentation and nutrient flow in in vitro systems[J].Journal of DairyScience,2006,89(7):2649-2658.  
+[7] KAMRA D N,AGARWAL N,CHAUDHARY L C.Inhibition of ruminal methanogenesis bytropical plants containing secondary plant compounds[C]//SOLIVA C R,TAKAHASHIJ,KREUZER M.Proceedings of the 2nd International Conference of Greenhouse Gases andAnimal Agriculture.Zurich,Switzerland:ETH Zurich,2005:102-111.  
+[8] PATRA A K,KAMRA D N,AGARWALN.Effect of spices on rumenfermentation,methanogenesisandprotozoa countsin invitrogasproductiontest[C]/SOLIVA C R,TAKAHASHI J,KREUZER M.Proceedings of the 2nd InternationalConference of Greenhouse Gases and Animal Agriculture.Zurich,Switzerland:ETHZurich,2005:115-118.  
+[9] LI Y L,HE M L,LI C,et al.Effects of wheat dried distillers’grains with solubles andcinnamaldehyde on in vitro fermentation and protein degradation using the Rusitec
+
+technique[J].Archives of Animal Nutrition,2012,66(2):131-148.
+
+[10] MENKE K H,RAAB L,SALEWSKI A,et al.The estimation of the digestibility and metabolizable energy content of ruminant feedingstuffs from the gas production when they
+
+areincubatedwithrumenliquorinvitro[J].TheJournalofAgricultural Science,1979,93(1):217-222.   
+[11] VAN SOEST P J,ROBERTSON JB,LEWIS B A.Methods for dietary fiber,neutral detergent fiber,and nonstarch polysaccharides in relation to animal nutrition[J].Journal of Dairy Science,1991,74(10):3583-3597.   
+[12]AOAC.Official methods of analysis[S].16th ed.Arlington,VA:Association of Official Analytical Chemists,1995.   
+[13]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版 社,2007:140-147.   
+[14] BRODERICK G A,KANG JH.Automated simultaneous determination of ammonia and total aminoacidsinruminal fluidandinvitromedia[J].JournalofDairy Science,1980,63(1):64-75.   
+[15] GRIFFIN S G,WYLLIE S G,MARKHAM J L,et al.The role of structure and molecular properties of terpenoids in determining their antimicrobial activity[J].Flavour and Fragrance Journal,1999,14(5):322-332.   
+[16] COX S D,MANN C M,MARKHAM JL.Interactions between components of the essential oil of Melaleuca alternifolia[J].Journal of Applied Microbiology,2001,91(3):492-497.   
+[17] DORMAN H JD,DEANS S G.Antimicrobial agents from plants:antibacterial activity of plant volatile oils[J].Journal of Applied Microbiology,2000,88(2):308-316.   
+[18] CHAVES A V,HE M L,YANG W Z,et al.Effects of essential oils on proteolytic,deaminative and methanogenic activities of mixed ruminal bacteria[J].Canadian Journal of Animal Science,2008,88(1):117-122.
+
+oil compounds and the type of diet on rumen microbial fermentation and nutrient flow from a continuous culture system[J].Animal Feed Science and Technology,2005,119(1/2):29-41.
+
+[20] NEWBOLD C J,MCINTOSHF M,WILLIAMS P,et al.Effects of a specific blend of essential oil compounds on rumen fermentation[J].Animal Feed Science and Technology,2004,114(1/2/3/4):105-112.
+
+[21] BEAUCHEMIN K A,MCGINN S M.Methane emissions from beef cattle:effects of fumaric acid,essential oil,and canola oil[J].Journal of Animal Science,2006,84(6):1489-1496.
+
+[22] SPANGHERO M,ZANFI C.FABBRO E,et al.Effects of a blend of essential oils on some end products of in vitro rumen fermentation[J].Animal Feed Science and Technol0gy,2008,145(1/2/3/4):364-374.
+
+[23] 林波,纪苗苗,梁权,等.肉桂油和牛至油及其主要成分对体外瘤胃发酵和甲烷产生的影响[J].中国兽医学报,2011,31(2):279-282,287.
+
+[24] BUSQUET M,CALSAMIGLIA S,FERRET A,et al.Effects of cinnamaldehyde and garlic oil on rumen microbial fermentation in a dual flow continuous culture[J].Journal of Dairy Science,2005,88(7):2508-2516.
+
+[25] 陆燕,林波,王恬,等.大蒜油对体外瘤胃发酵、甲烷生成和微生物区系的影响[J].动物营养学报,2010,22(2):386-392.
+
+[26] RUSSELL J B,ONODERA R,HINO T.Ruminal protein fermentation:new perspectives on previous contradictions[M]//TSUDA T,SASAKI Y,KAWASHIMA R.Physiological aspects of digestion and metabolism in ruminants.London:Academic Press,1991:681-697.
+
+[27] WALLACE R J.Antimicrobial properties of plant secondary metabolites[J].Proceedings of the [28] PATRA A K.Enteric methane mitigation technologies for ruminant livestock:a synthesis of current research and future directions[J].Environmental Monitoring and Assessment,2012,184(4):1929-1952.
+
+[29] COBELLIS G,TRABALZA-MARINUCCI M,YU Z T.Critical evaluation of essential oils as rumen modifiers in ruminant nutrition:a review[J].Science of the Total Environment,2016,545-546:556-568.
+
+[30] MACHEBOEUF D,MORGAVI D P,PAPON Y,et al.Dose-response effects of essential oils on in vitro fermentation activity of the rumen microbial population[J].Animal Feed Science and Technol0gy,2008,145(1/2/3/4):335-350.
+
+[31] PATRA A K,YU Z T.Effects of essential oils on methane production and fermentation by,and abundance and diversity of,rumen microbial populations[J].Applied and Environmental Microbiol0gy,2012,78(12):4271-4280.
+
+[32]米热古丽·伊马木,王恬,刘敏,等.高精料条件下薰衣草精油对体外瘤胃发酵和甲烷产量的影响[J].新疆农业科学,2012,49(4):743-747.
+
+[33] BODAS R,PRIETO N,GARCIA-GONZALEZ R,et al.Manipulation of rumen fermentation and methane production with plant secondary metabolites[J].Animal Feed Science and Technol0gy,2012,176(1/2/3/4):78-93.
+
+[34] WANG C J,WANG S P,ZHOU H.Influences of flavomycin,ropadiar,and saponin on nutrient digestibility,rumen fermentation,and methane emission from sheep[J].Animal Feed Science and Technology,2009,148(2/3/4):157-166.
+
+[35] TOMKINS N W,DENMAN S E,PILAJUN R,et al.Manipulating rumen fermentation and methanogenesis using an essential oil and monensin in beef catle fed a tropical grass hay[J].Animal Feed Science and Technology,2015,200:25-34.
+
+# A Comparative Study: Effects of Different Plant Essential Oils on Rumen Fermentation and Methane Production in Vitro
+
+LIYanlingJIA Miao LULin
+
+(College of Animal Science and Technology, Beijing University ofAgriculture; Beijing Key Laboratory ofDairy Cow Nutrition,Beijing l02206, China)
+
+Abstract: In this experiment, the cultivation substrate was consisted of concentrate to forage ratio with 60:40,and adding different doses [0 (control), 50,100,100 and $2 0 0 ~ \mathrm { { m g / L } }$ fermentation liquid concentration, respectively] of plant essential oils (EOs) including eugenol, $D$ -limonene, anethole, cinnamaldehyde,thyme and carvacrol, to study the effects of EOs on rumen fermentation and methane $\mathrm { ( C H _ { 4 } ) }$ production in vitro by in vitro gas production technique. Each dose of each EOs had 3 replicates. The gas production,methane $\mathrm { ( C H _ { 4 } ) }$ ） content in gas,and $\mathfrak { p H }$ ，volatile fatty acid (VFA） ratios and ammonia nitrogen $( \mathrm { N H } _ { 3 } – \mathrm { N } )$ ） concentration in fermentation fluid after $2 4 \mathrm { ~ h ~ }$ simulating rumen fermentation cultivation were measured. The results showed as follows: 1) adding different EOs had no significant effect on $\mathsf { p H }$ of fermentation fluid in vitro $( P { > } 0 . 0 5 )$ except for thyme. 2) Adding eugenol, $D$ -limonene,anethole and cinnamaldehyde had no significant effect on total VFA concentration in fermentation fluid in vitro $( P > ~ 0 . 0 5 )$ ，but the total VFA concentration had a quadratic curve change with thyme or carvacrol concentrations increasing （204号 $( P _ { \mathrm { Q } } { < } 0 . 0 1 )$ . Compared with control group, adding $4 0 0 ~ \mathrm { { m g / L } }$ thyme and carvacrol significantly decreased total VFA concentration ( $( P { < } 0 . 0 1 )$ ).Adding $D$ -limonene,anethole,thyme and carvacrol changed the molar ratio of individual VFA in total VFA. Compared with control group,adding 50 $\mathrm { m g / L }$ （20 $D$ -limonene and anethole significantly increased acetate ratio $( P { < } 0 . 0 5 )$ ，and significantly decreased propionate ratio $( P { < } 0 . 0 5 )$ ，however, adding $4 0 0 \ \mathrm { \ m g / L }$ $D$ -limonene and anethole significantly decreased acetate ratio $( P { < } 0 . 0 5 )$ ,and significantly increased propionate and butyrate ratios $( P { < } 0 . 0 5 )$ . Adding thyme and carvacrol had no effect on acetate ratio $( P { > } 0 . 0 5 )$ , but adding
+
+$4 0 0 ~ \mathrm { { m g / L } }$ thyme and carvacrol significantly decreased propionate ratio compared with control group $( P { < } 0 . 0 5 )$ . 3） Adding anethole， thyme and carvacrol significant affected $\mathrm { N H } _ { 3 }$ -N concentration in fermentation liquid in vitro $( P { < } 0 . 0 5 )$ ，and adding $4 0 0 ~ \mathrm { { m g / L } }$ thyme phenol and carvacrol significantly decreased $\mathrm { N H } _ { 3 }$ -N concentration compared with control group $( P { < } 0 . 0 5 )$ .4) Adding $D$ -limonene,anethole and cinnamaldehyde had no effect on $2 4 \mathrm { ~ h ~ }$ fermentation in vitro gas production $( P { > } 0 . 0 5 )$ . Compared with control group,adding thyme and carvacrol with different concentrations all significantly decreased $2 4 \mathrm { ~ h ~ }$ fermentation in vitro gas production $( P { < } 0 . 0 1 )$ ,and showed a quadratic curve change with thyme or carvacrol concentration increasing $( P _ { \mathrm { Q } } { < } 0 . 0 1 )$ . 5) Adding $D$ -limonene,anethole and cinnamaldehyde had no effect on $2 4 \mathrm { h }$ fermentation in vitro $\mathrm { C H } _ { 4 }$ （204号 production $( P { > } 0 . 0 5 )$ . Compared with control group,adding 50 and $1 0 0 ~ \mathrm { { m g / L } }$ eugenol significantly increased $2 4 \mathrm { ~ h ~ }$ fermentation in vitro $\mathrm { C H } _ { 4 }$ production $( P { < } 0 . 0 5 )$ ,and adding $4 0 0 ~ \mathrm { { m g / L } }$ thyme and carvacrol decreased methane production with $8 4 . 7 \%$ $( P { < } 0 . 0 5 )$ and $7 3 . 9 \%$ $( P { < } 0 . 0 5 )$ , respectively. The above results indicate that different EOs had different eects on rumen fermentation and methane production in vitro, which relates to the dose of EOs.In this experiment,the low dose of thyme and carvacrol can promote rumen fermentation,and the high dose of them inhibite rumen fermentation and significantly decrease methane production.   
+Key words: plant essential oil; rumen fermentation; methane production

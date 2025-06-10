@@ -1,0 +1,205 @@
+# A型主动脉夹层患者及家属就诊、转诊体验的质性研究
+
+10.12114/j.issn.1007-9572.2022.0499 栗林」，徐娜²，武文贤²\*，赵青1，郭万鹏‘
+
+1.030032山西省太原市，山西白求恩医院（山西医学科学院同济山西医院），山西医科大学第三医院心脏大血管外科2.030032 山西省太原市，山西白求恩医院（山西医学科学院同济山西医院），山西医科大学第三医院护理部通信作者：武文贤，护士；E-mail:153032074@qq.com栗林和徐娜为共同第一作者
+
+【摘要】背景AD 是最危急的心血管疾病之一，有效、快速地就诊及转诊是保障主动脉夹层患者生命的前提。目前我国AD诊疗体系发展尚未完善，现阶段国内外关于AD患者及家属就诊、转诊的研究类型多为调查性研究，AD患者及家属在就诊转诊中的真实体验及诊疗需求值得关注。目的了解主动脉夹层患者及家属在就诊、转诊过程中的经历及心理体验，挖掘其诊疗需求，为完善我国主动脉夹层救治体系提供参考。方法采用目的抽样法选取 2021 年9月至2021年12月于山西省某三级甲等医院心脏大血管外科就诊的15例A型主动脉夹层患者及其家属为研究对象，采用半结构式访谈法收集资料，运用Colaizzi现象学资料7步分析法进行分析，提炼主题。结果A型主动脉夹层患者及家属就诊、转诊体验可归纳为3个主题：就诊、转诊体验（发病时的困惑；就诊转诊时的复杂内心活动；手术前的内心冲突）；主动脉夹层诊疗系统存在的问题（诊疗质量待改进；就医程序存在短板）；真实需求（疾病知识与获取途径的需求；经济相关的需求）。结论A型主动脉夹层患者及家属存在复杂内心体验和多重需求，就诊转诊过程困难重重，我国主动脉夹层诊疗体系有待进一步完善。未来应开展主动脉夹层规范化诊疗培训，形成AD诊疗绿色通道，加强AD 相关知识普及，完善资助体系，为提高AD急救质量、完善我国AD诊疗体系提供参考。
+
+【关键词】 主动脉夹层；AD；转诊；体验；质性研究
+
+# Experiences of the Treatment and Referral Process of Patients with Stanford A
+
+Aortic Dissection and their Families: A Qualitative Study LI Lin1,XU Na², WU   
+Wenxian2\*, ZHAO Qing1, GUO Wanpeng1   
+1. Department of Cardiovascular Surgery, Shanxi Bethune Hospital, Shanxi Academy   
+of Medical Sciences, Tong ji Shanxi Hospital, Third Hospital of Shanxi Medical   
+University, Taiyuan, O30032, China   
+2. Department ofNursing, Shanxi Bethune Hospital, Shanxi Academy of Medical   
+Sciences, Tong ji Shanxi Hospital, Third Hospital of Shanxi Medical University,   
+Taiyuan, 030032, China   
+\* Corresponding author: WU Wenxian, Nurse; $E$ mail:153032074@qq.com   
+LI Lin and XU Na are co-first authors
+
+【Abstract】 BackgroundAortic dissection is one of the most critical cardiovascular diseases，and effective and rapid treatment and referral are the prerequisite for ensuring the life of patients with aortic dissection. At present, the development of Aortic dissection diagnosis and treatment system in China has not been perfect. And the research types on ad patients and their families at home and abroad are mostly investigative studies, the real experiences and diagnosis and treatment needs of AD patients and their families in the process of treatment and referral deserve attention. ObjectiveThe purpose of this study is to understand the experiences and feelings of patients with aortic dissection and their families in treatment and referral process，explore the needs and problems，and provide references for improving the treatment system of aortic dissection in China. Methods Purposive sampling was used to recruit 15 patients with type A aortic dissection and their families treated in cardiac macrovascular surgery in a tertiary A hospital in Shanxi Province from September 2021 to December 2O21. The semi-structured interview method was used to collect the data,and the 7-steps analysis of Colaizzi's method was used to refine the theme. ResultsThe treatment and referral experiences of patients with type A aortic dissection and their families can be summarized into three themes: the experiences of medical treatment and referral (Confusion at the time of onset; Complex inner activities of the medical treatment and referral; Inner conflicts before the surgery)； Problems with the aortic dissection medical treatment system（ The quality of diagnosis and medical treatment needs to be improved; Deficiency of medical procedures)； Real demands (Demands for knowledge and access to the disease； Economic-related demands). Conclusion Patients with Stanford A aortic dissection and their families have complex inner experiences and multiple needs,and the treatment process has multiple difficulties. It is suggested that the treatment and referral system of aortic dissection in China needs to be improved. Future clinical practice should focus on conducting standardized diagnosis and treatment training， forming a AD treatment green channel, strengthening the popularization of AD-related knowledge, and improving the funding system,in order to provide reference for improving the quality of AD first aid and improving the AD diagnosis and treatment system in China.
+
+【Key words】 Aortic dissection ；AD ；Referral ; Experiences ；Qualitativestudy
+
+主动脉夹层（Aortic dissection,AD）是指血液通过主动脉内膜的损伤或薄弱处冲入内膜中层，形成血管夹层血肿，并随循环血流压力不断延伸，可累及主动脉各个分支[1,2]。AD 血肿一旦破裂，会对重要器官造成不可逆性损伤，致使 AD患者迅速死亡，死亡率高达 $3 3 . 8 \% ^ { [ 3 ] }$ ，在心血管疾病中高居第2位[4]。根据内膜撕裂来源和剥离程度，AD 可分为 Stanford A 型和 StanfordB 型两大类，其中StanfordA型AD因主动脉撕裂范围较大、病变广泛，紧急手术治疗的时间窗更短[5,6。因此，有效、快速地就诊及转诊是保障 AD患者生命的前提。然而，该病发病隐匿，症状多样，误诊、漏诊率较高，如何加快临床诊断及就诊转诊治疗一直是国内外研究的热点及难点。目前，我国AD诊疗体系发展尚未完善，存在初级保健系统支持不足、急诊医学不发达等诸多问题，患者及家属在就诊、转诊过程中会遇到多重阻碍[7。现阶段国内外关于AD患者就诊、转诊的研究类型多为调查性研究，质性研究内容主要集中于患者早期确诊及康复阶段[8,9]，较少关注 AD患者在就诊转诊中的真实体验及诊疗需求。本研究通过剖析A型AD 患者及家属在就诊、转诊过程中的真实体验及经历，旨在探寻AD临床诊疗路径中的问题，为完善我国AD救治体系提供参考。
+
+# 1对象与方法
+
+# 1.1研究对象
+
+采用目的抽样法，选取2021年9月至2021年12月于山西省某三级甲等医院心脏大血管外科就诊的A型AD患者及其家属为研究对象。纳入标准：1）患者： $\textcircled{1}$ 根据2014年欧洲心脏病学会制定的主动脉夹层诊断标准[2诊断为A型主动脉夹层； $\textcircled{2}$ 已完成AD手术； $\textcircled{3}$ 年龄 $\geqslant 1 8$ 岁；2）家属： $\textcircled{1}$ 见证患者发病、转诊及确诊全过程； $\textcircled{2}$ 具备良好的沟通表达能力； $\textcircled{3}$ 愿意参加访谈； $\textcircled{4}$ 年龄 $\geqslant 1 8$ 岁。排除术后病情不稳定的患者及其家属。
+
+样本量以达到信息饱和后再访谈2 组受访者为准[10]。最终纳入15 例 A 型AD 患者，其中男9例，女6例，对应的代码分别是 $_ { \mathrm { N 1 \sim N 1 5 } }$ 。年龄为 $1 9 \sim 7 1$ （20 $( 4 7 . 3 3 \pm 1 3 . 9 5 )$ ）岁，访谈时间节点为术后 $4 { \sim } 4 9$ 天，中位数12天；既往罹患高血压者9例，冠心病、肾衰、马凡综合征各1例；近3年内仅3例有冠脉支架置入、肾移植和剖宫产手术史。所有受访者及其家属均签署知情同意书，愿意参加本次研究。本研究已通过伦理审查（批号为YXLL-2022-014）。受访者的一般资料及疾病情况详见表1。
+
+# 表1受访者一般资料及疾病情况（ $\scriptstyle \mathbf { \bar { \rho } } _ { n = 1 5 }$ ）
+
+Table 1Participants'General information and disease characteristics   
+
+<html><body><table><tr><td rowspan="4">序号</td><td rowspan="4">性别</td><td rowspan="4"></td><td>访谈</td><td>医疗费</td><td></td><td rowspan="4"></td><td rowspan="4">到达首诊医</td><td rowspan="4">转教</td><td rowspan="4">既</td><td rowspan="4"></td><td rowspan="4">发病诊</td><td rowspan="4">确诊</td><td rowspan="4">访漢</td><td rowspan="4"></td><td rowspan="4">发病时症状</td><td rowspan="4">前期费</td></tr><tr><td>时</td><td></td><td>等级</td><td>手术</td><td></td><td>发病时、</td></tr><tr><td>年龄</td><td>支付方</td><td>首诊医疗机构</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>天</td><td></td><td>式</td><td></td><td></td><td>(h)</td><td></td><td></td><td></td><td></td><td>(d)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+cra1301-701131:71051011   
+
+<html><body><table><tr><td>N1</td><td>男 36</td><td>37</td><td>城镇居 民</td><td>太原钢铁 (集团) 有限公司总医院</td><td>三甲</td><td>0.5</td><td>1 压</td><td>高血 无</td><td></td><td>3</td><td>1</td><td>凌晨、熟睡 妻子 时</td><td>胸背疼痛，突然站立， 面色苍白，无法行走</td><td>无</td></tr><tr><td>N2</td><td>男</td><td>54 12</td><td>市医保</td><td>有限公司（集</td><td>三甲</td><td>0.2</td><td>冠</td><td>冠脉 支</td><td>3</td><td></td><td>儿子</td><td>傍晚、打麻</td><td>头发蒙、反应迟钝</td><td>无</td></tr><tr><td>N3</td><td>女</td><td>57 49</td><td>城镇居 民</td><td>山西医科大学第 一医院</td><td>三甲</td><td>0.3</td><td>1 肾衰</td><td>肾移 植</td><td>3</td><td></td><td>4 女儿</td><td>晚上、入睡 前</td><td>突发浑身抽搐</td><td>一周前背 部轻微疼</td></tr><tr><td>N4</td><td>男</td><td>40 27</td><td>市医保 在职</td><td>太原铁路中心医 院</td><td>三甲</td><td>0.7</td><td>高血 1 压</td><td>无</td><td>3</td><td></td><td>2 母亲</td><td>晨起时</td><td>浑身疼痛</td><td>痛 无</td></tr><tr><td>N5</td><td>女 27</td><td>23</td><td>市医保 在职</td><td>山西省妇幼保健 院</td><td>三甲</td><td>0.5</td><td>1 无</td><td>剖宫 产</td><td>11</td><td></td><td>6 丈夫</td><td>傍晚休息 时</td><td>无法忍受的背部、脊椎 疼痛</td><td>无</td></tr><tr><td>N6</td><td>女 59</td><td>28</td><td>省医保 退休</td><td>北大医疗潞安医 院</td><td>三甲</td><td>0.25</td><td>高血 压 1 糖尿</td><td>无</td><td>1</td><td></td><td>儿子</td><td>早饭后</td><td>肩部酸困，左上肢体麻 木，气紧，呼吸急促、</td><td>无</td></tr><tr><td>N7</td><td>女 71</td><td>11</td><td>无</td><td>山西省汾阳医院</td><td>三甲</td><td>村医0.5</td><td>病 高血 1 压</td><td>无</td><td>3</td><td>0.5</td><td>女儿</td><td>午后、午睡 前</td><td>腹部不适 呕吐后胸憋气短，无法 平卧</td><td>频发恶心 呕吐半年</td></tr><tr><td>N8</td><td>女 46</td><td>11</td><td>无</td><td>中人民年解放</td><td>三甲</td><td>0.3 1</td><td>高</td><td>无</td><td>1.5</td><td>0.9</td><td>丈夫</td><td>凌晨、熟睡</td><td>无法忍处的下服及身</td><td>无</td></tr></table></body></html>
+
+cra1301:721121:71111111   
+
+<html><body><table><tr><td>N9</td><td>女 64</td><td>8</td><td>建档立 卡贫困 户</td><td>交口县人民医院</td><td>二甲</td><td>1.2</td><td>2</td><td>无</td><td>无</td><td>5</td><td>1.6</td><td>晚上、晚饭 儿子</td><td></td><td>胸口憋闷，喉咙至剑突 的疼痛</td><td>无</td></tr><tr><td>N10</td><td>男 43</td><td>18</td><td>市医保 在职</td><td>忻州市人民医院</td><td>三甲</td><td>0.6</td><td>2</td><td>无</td><td>无</td><td>2.5天</td><td>2</td><td>妻子</td><td>早晨、饭后</td><td>大汗无力，胸口憋闷， 牙疼，腹痛</td><td>无</td></tr><tr><td>N11</td><td>男 19</td><td>4</td><td>无</td><td>阳泉市人民医院</td><td>三甲</td><td>0.6</td><td>1</td><td>马凡 综合 症</td><td>无</td><td>3</td><td>3 父亲</td><td>午后、午饭</td><td></td><td>剧烈呕吐，胸口疼痛</td><td>无</td></tr><tr><td>N12</td><td>男 56</td><td>6</td><td>无</td><td>太原市中心医院</td><td>三甲</td><td>0.6</td><td>1</td><td>高血 压</td><td>无</td><td>10天</td><td>保守治疗 妻子</td><td>凌晨，酒后 睡前</td><td></td><td>无法忍受的背部剧烈疼 痛</td><td>无</td></tr><tr><td>N13</td><td>男 53</td><td>7</td><td>市医保</td><td>阳泉市人民医院</td><td>三甲</td><td>0.1</td><td>1</td><td>高</td><td>无</td><td>1</td><td>0.6 妻子</td><td>中午、午饭</td><td></td><td>胸背部憋闷</td><td>无</td></tr><tr><td>N14</td><td>女 47</td><td>4</td><td>城镇居</td><td>介休铁路医院</td><td>二乙</td><td>1</td><td>2</td><td>高血</td><td>无</td><td>5</td><td>0.3 丈夫</td><td>凌晨、工作</td><td></td><td>胸背痛，呕吐</td><td>无</td></tr><tr><td>N15</td><td>男 38</td><td>17</td><td>城镇居</td><td>山西省人民医院</td><td>三甲</td><td>0.5</td><td>1</td><td>高血 压</td><td>无</td><td>2</td><td>0.9 父亲</td><td>晚上、休息 时</td><td></td><td>胸口、后背疼，浑身无 力，出冷汗</td><td>无</td></tr></table></body></html>
+
+# 1.2研究方法
+
+# 1.2.1确定访谈提纲
+
+根据研究目的，查阅AD相关文献，初步拟定访谈提纲。经4名心脏大血管外科临床专家的修订及2组AD家庭小组的预访谈，最终确定访谈提纲： $\textcircled{1}$ 请描述患者发病时的表现。$\textcircled{2}$ 请描述患者发病后就诊、转诊的整个过程。 $\textcircled{3}$ 请描述发病到确诊后你们的内心感受，该过程有什么印象深刻的事情？ $\textcircled{4}$ 请分享一下家里决定手术过程中的顾虑和考量。 $\textcircled{5}$ 你们认为哪些环节会影响患者的就诊、转诊及手术进度?
+
+# 1.2.2资料收集方法
+
+因AD 患者手术前后多处于镇痛镇静状态，故本研究应用现象学的研究方法，选择以家属为主、患者为辅的家庭小组访谈模式进行半结构访谈。访谈前告知受访者研究目的及主题，可随时退出本次访谈。经被访谈者同意，全程录音并详细记录访谈对象的语气、情绪及非语言行为。访谈尽可能在无人打扰的谈话间进行，但因AD患者术后康复状况差异大，对无法离床的患者进行床旁访谈，其家属在谈话间访谈。针对受访者所述内容及时追问、复述和澄清，访谈时间约为 $3 0 \mathrm { m i n }$ ，至无新主题产生时结束。访谈结束当天转录录音，整理笔记及患者的一般资料。
+
+# 1.2.3资料分析方法
+
+主要研究者已掌握质性研究的资料分析方法和技巧。借助Nvivo11软件管理所有转录后的访谈资料，若研究小组成员意见不统一，则进行组内讨论，直至意见统一，以确保转录的准确性。采用Colaizzi现象学资料7步分析法进行分析[1]。详细步骤为：（1）由2名研究者于访谈结束后24小时内分别阅读访谈内容；（2）研究者对资料反复斟酌、分析，识别和摘录出反复出现的观点或有意义的表述；（3）编码有意义的陈述；（4）对编码进行汇集，形成初始主题；（5）对各个主题分别加入描述性陈述；（6）研究小组讨论，升华主题概念；（7）向访谈对象求证、核实结果。
+
+# 2结果
+
+研究最终提炼出3个一级主题、8个二级主题及24个三级主题，主题关系详见图1。
+
+![](images/6c38fecb0d435748e457792bf6bf85ebdaf9c2bb89c9bd5a4fe24834b35fce8d.jpg)  
+图1主题关系图  
+Figure 1Themes diagram
+
+# 2.1主题1：就诊、转诊体验
+
+# 2.1.1发病时的困惑
+
+AD 发病急骤，患者及家属往往对突发的疾病及症状感到困惑，原因之一为发病无明显预兆。N5：“以前啥病也没有，以为就是岔气了，坐了一会儿也不缓解，没想到会得这么严重的病。”另一原因为发病症状不典型，与胃肠疾病、脊椎病、癫痫等的症状相似。N3：“她前一个星期就说背疼，我们都以为是脊椎不舒服导致的，还给她按摩。压根没往这方面想，还怀疑是急性肠炎，拉肚子。”N5：“当时后背疼的无法忍受，感觉是骨头疼，想起我生孩子的时候，麻药一直打不进去，我的脊梁就一直疼，我以为是这个原因。”N3：“她突然浑身抽搐，不知道什么原因，以为是癫痫。”
+
+# 2.1.2就诊、转诊时的复杂内心活动
+
+AD 是最危急的心血管疾病之一，就诊、转诊过程中，患者及家属会产生一系列复杂的内心体验。 $\textcircled{1}$ 危急感。N2：“我感觉这个病太危急了，如果那天再晚半个小时，结果就不是这样了。”N14：“确诊了之后，我就想尽快做手术，时间就是生命。” $\textcircled{2}$ 医护人员带来的职业安全感。N2：“在救护车上的时候，感觉没有那么害怕了，因为有人救我。” $\textcircled{3}$ 惊恐、害怕与悲伤。N3：“我们听到这是一个要命的病，一方面吃惊，另一方面情绪非常不好，大家都哭了。”N11：“坐救护车时心里非常害怕，因为一般严重的病人才坐120，普通病人在当地医院就能治，不用跑这么远。” $\textcircled{4}$ 同情。N11：“他特别可怜，本来就有残疾（马凡综合征），又得了这么重的病，可怜的人还这么命苦。” $\textcircled{5}$ 麻木。N12:“那会儿我也不会哭，我都木了，随时就递过来一张病危通知书，已经没有任何情绪了。”
+
+# 2.1.3手术前的内心冲突
+
+AD手术风险极大，且需快速做出手术决策，家属往往承担着巨大的心理压力。 $\textcircled{1}$ 内心迫切手术与被迫等待之间的矛盾。N3：“当然是指标越稳定，手术越安全，如果拖的时间长，就怕血管破裂了。但她的血氧饱和度刚刚达标，我们比较纠结，还想再等一等。”N7：“当时好多医生都跟我说这个情况特别危急，要立刻手术。但是手术只能在第二天做，意味着我要等一晚上，这个过程特别煎熬，真害怕我妈在这中间出点啥事儿（流泪）。” $\textcircled{2}$ 经济能力与患者预后的冲突。家属需要在经济能力、手术风险及病人整体状况等方面之间做出权衡。N9：“手术需要花很多钱，可能最后会人财两空，但是放弃的话，我就没妈了。”
+
+2.2主题2：主动脉夹层诊疗系统存在的问题
+
+# 2.2.1诊疗质量待改进
+
+$\textcircled{1}$ 疾病辨别能力参差不齐。医生、分诊护士及检验人员对AD症状的辨别能力和敏感度会影响疾病的诊疗质量及后续接诊医院的判断。N5：“医生说不知道这是什么毛病，只能挨个查。先告诉我们检查结果没问题，我们都松了一口气，又说要做CTA，之后才确诊是主动脉夹层。”N5：“分诊护士让我们去妇产科，我们刚到楼上，妇产科又说这不属于她们的病，我们就下来了。”N8：“264 医院给我们做检查的人说：‘这啥病吗？还要做彩超呢？’很不乐意拍这个彩超。”N12：“内分泌科就一直按照之前医院的诊断（急性胰腺炎）治的，结果越治越严重。”
+
+$\textcircled{2}$ 接诊医生治疗欠规范。N3：“从确诊到第二天早晨，医生就出现过一次，只说需要进一步的检查，检查结果出来后没有进一步的治疗措施，也没有请其他科来会诊。” $\textcircled{3}$ 医患沟通无效。医护人员的命令式口吻阻碍了患者及家属的诊疗依从性和需求表达。N3：“路过的医生偶尔说一句：不能坐起来！也没说为啥不能坐起来，但是我妈说她疼的躺不下，坐起来能稍微好点，我就扶我妈坐起来，给她揉背。”
+
+# 2.2.2就医程序存在短板
+
+$\textcircled{1}$ 急症大额缴费程序机械化。医院采用的缴费方式如微信、银行卡等因存在转账限额、到账延迟问题，影响急症大额缴费便利性。N7：“我们当时着急看病，没有拿卡，以为可以用微信，交费的时候发现微信一下转不了那么多，最后还是好几个人凑齐的。”N14：“银行转账有限额，我只能是这儿凑点，那儿凑点。而且跨行转账时间有点儿慢。”
+
+$\textcircled{2}$ 检验结果互认度低。医院之间对检验、化验结果的认可度低导致转诊后重复检查。N1：“来了这边急诊，又把检查重新做了一遍。因为之前做的检查，这边不太认可，觉得不权威。”
+
+$\textcircled{3}$ 疫情防控下急性AD救治流程欠优化。AD 需紧急救治的特性与疫情防控原则的共性之间需进一步权衡。N7：“我不是很理解，你们说这个病很急，但核酸结果又等了这么长时间，都不能上手术。”
+
+$\textcircled{4}$ 转诊流程待细化。医生及120救护人员之间转诊责任模糊。N15：“当时
+
+120人员让医生跟车转院，但医生说他没这个责任。”转诊去向不明确。N8：“一开始准备去比较近的省人民医院，医生帮忙打了电话，那边说做不了（手术），后来又托人打听，才知道你们这边能做。”转至无手术资质医院。N14：“后来他的背也疼，医生觉得可能是夹层，建议转到当地三甲医院。我们去那确诊了，但那不能做手术，才又转到你们这儿。”救护车配备不足。N8：“120就是一句话：没车。”N15：“我打120一直叫不到车，让我儿子开车过来的。”
+
+# 2.3主题3：真实需求
+
+# 2.3.1疾病知识与获取途径的需求
+
+患者及家属渴望具备疾病初期症状识别的能力，掌握AD主要病因及诱因，希望通过及早鉴别与处理来避免、减缓AD的发生与复发。 $\textcircled{1}$ 发病症状的识别。N2：“想找你们了解刚发病的症状是什么？”N14：“我想知道出现什么症状就能怀疑是这个病，这样有类似症状的时候，我们就会意识到病很严重，要立刻到医院。” $\textcircled{2}$ 病因与诱因的分辨。N13：“他查出高血压后一直在规律吃药，我也不知道这个病到底是什么导致的。”N11：“为什么会出现这个病？是吐的撕裂啦？如果不剧烈的呕吐，是不是也没事？”AD相比冠心病、高血压等并不常见，但死亡率极高。患者及家属希望能有科学专业的知识获取途径。 $\textcircled{3}$ 疾病知识途径的获取。N13：“慢性病有社区卫生服务站的大夫进行讲座，但这个病，大家都不知道，需要你们专业人士来讲。”N8：“一开始我们是在网上查，但查到的内容比较简单，想系统地知道关于这个病的知识，但是没有途径，只能追着问医生”。此外，家属希望对宣讲对象有所侧重，对患者的宣教尽可能简单，以减少患者的心理负担。N6：“告诉他这大概是什么病就可以，不要说太多，无知者无惧是有一定道理的。说太多徒添她的烦恼和压力，应该多给家属做宣教。”
+
+# 2.3.2经济相关的需求
+
+$\textcircled{1}$ 缓解短时间内巨大的经济压力。短时间筹集巨额手术费用使AD患者的家庭产生巨大经济压力，他们希望急症大额缴费更人性化。N9：“听到治疗费用我们吓住了，家里根本没这么多现钱，想让医院先通融几天。”N10：“从急救车拉过来的，谁有时间去筹那么多钱？押金就要交16万，因为凑钱在急诊多待了两天。” $\textcircled{2}$ 优化转诊医保报销程序。因应对AD应激事件，难以及时完成报销，希望优化报销程序。N11：“当时孩子病情太凶险根本没想到报销的事情，之后去备案人家说超时就不给备案了，本来可以报销 $6 0 \%$ ，现只能报 $45 \%$ 。”
+
+# 3讨论
+
+3.1重视AD家庭成员内心体验，提升家庭复原力
+
+突发AD 对患者及其家庭而言是一个重大应激事件。但患者在诊疗中因治疗需要，多处于镇痛镇静状态，意识模糊，就诊、转诊及手术决策往往由家属代理完成。故本研究更多体现的是患者家属的复杂内心体验，包括发病时的困惑；就诊、转诊时的危急感、惊恐、害怕、悲伤与麻木；迫切手术与被迫等待、经济能力与患者预后的术前内心冲突。产生该复杂体验的根本原因可能是AD症状不典型且发病急骤，需紧急救治，这于家庭而言是一重大应激事件。此外，救治过程要求家属具备较高的行动力，如及时配合医生进行转诊、理性做出手术决策等[12]。但家属对 AD 知识的欠缺、AD 诊疗系统中医患沟通无效、大额缴费机械化以及新冠疫情转诊不完善等问题影响了其行动力与配合度，更激化了其内心的复杂体验[13]。家庭系统理论认为，某个家庭成员的健康危机会对整体家庭功能产生影响，降低家庭对疾病的综合应对能力[14]。因此，考虑到AD 进展的不可预测性及不可控性，建议医护人员在稳定患者情绪的同时，也应重视家属的内心体验，适时给与疾病知识宣教，加强病情沟通，优化就诊转诊体系，从而改善其心理体验，提升家庭复原力，进而加速患者康复进程。
+
+# 3.2开展AD规范化诊疗培训，改进诊疗质量
+
+及时、正确的疾病诊断是挽救AD患者生命的前提，一旦误诊或漏诊，则可能错过最佳治疗时间，增加死亡风险[15]。本研究显示，急诊医生、分诊护士及检验人员对AD症状的辨别能力参差不齐，存在误诊和延误诊疗情况，与肖亚茹等[1的研究结果一致。客观原因可能是AD以突发胸背部疼痛为特征性症状，极易与急性冠状动脉综合征、急性肺栓塞等疾病混淆，加之AD发病率较低，因夹层撕裂范围和累及程度不同呈现多样性、不典型症状，如腹痛、下肢疼痛等，致使早期识别及分诊难度较大[17]。对此，美国心脏病学会/美国心脏协会于2010 年首次提出将 AD 风险评分表应用于 AD 早期诊断中[18]，以推动 AD 早期、快速、准确诊断。近年来，该评分表在我国逐步应用，特异性及敏感度较高[19-21]。然而，本研究发现，误诊或延误诊疗的主观原因在于急诊医护人员对AD不了解、不重视，影响其对AD 患者的治疗处置行为及沟通效果，进一步影响患者转诊时间、转诊安全及转诊后生存率，是阻碍我国AD 诊疗进展的重要原因之一[22]。因此，亟需开展AD规范化诊疗培训，加强AD鉴别诊断、治疗知识及技能推广，重点提高急诊医护、医技人员对AD的警惕意识，培养出适合我国AD患者发病特征的规范化人才队伍，不断改进全国诊疗质量，保障患者生命安全。
+
+# 3.3形成AD诊疗绿色通道，补齐就医短板
+
+形成 AD 诊疗快速通道并保障其顺利运行是加速AD 救治的有效途径[23]。然而本研究发现，AD 就治过程中存在转诊流程待细化的问题，包括转诊去向不明确及转至无手术资质医院等。这反映出以区域为单位的医联体模式尚不成熟，上下级医院之间检验结果信任度低也是该模式缺陷的表现之一，其根本原因可能在于AD病情、检查、转诊网络化及医疗资源整合化仍未真正实现。此外，研究显示，将AD 患者转至救治经验丰富的医院可降低 $7 . 2 \%$ 的病死率[24]。但转运过程中存在血压升高、夹层动脉瘤破裂以及延误救治时机等潜在风险。120 转诊系统因配置了急救人员及设备，可在一定程度上保障AD患者的转运安全，有效降低转诊风险，是AD诊疗通道中至关重要的一环。但本研究发现，转诊过程中转诊医生与“私立”120急救人员之间存在转诊不积极、转诊责任推诿的问题，降低了诊疗通畅性。其主要原因是120救护车配备不足、120体系未满足患者跨地区转院需求，造成无运营执照的救护车非专业转运。这不仅影响患者及家属对120急救系统的信任度，而且扰乱了急救转诊秩序，最重要的是非专业转运无法保障AD 患者血压、疼痛及胸腹压力管理，极易造成夹层突发破裂。目前国内仅有极少文献报道了AD绿色通道的建设[25-28]，大部分地区尚未形成成熟的诊疗通道。未来应充分利用医联体的优势，明确具备AD 手术资质医院的名单及其辐射范围，加强120急救体系管理，从而规范AD转诊流程，实现医院间病情、检查及转诊的无缝衔接，进一步形成并普及AD诊疗绿色通道，完善AD诊疗体系。但新冠疫情背景下，如何权衡AD紧急救治的特性与疫情防控原则的共性有待进一步探讨。
+
+# 3.4加强AD相关知识普及，完善资助体系
+
+AD 救治对时间依赖性较强。研究显示未经治疗的StanfordA型AD患者死亡率每小时增加 $1 \% { \sim } 2 \%$ ，有 $18 \% \sim 2 1 \%$ 的患者在到达医院前就已经死亡[29-31]。而家属作为发病目击者，在识别、救治过程中发挥着重要的作用。本研究发现，家属希望专业人员进行AD知识科普与宣讲，想要了解AD病因及诱因、掌握疾病初期症状辨别能力，及早预防或识别AD的发生。这可能与家属经历重大危急事件激发疾病求知欲有关[32]。另一方面也说明目前关于AD 疾病知识普及力度不足、系统不完善，可能与AD发病率低[33]易被忽视、国内AD研究起步较晚、实践经验不足、系统不完善有关[22]。建议由权威医疗机构牵头，建立宣讲框架，将内容形象化；通过社区、乡村医生及网络途径进行传播，从而加强群众疾病意识，缩短院前延迟时间，提高AD 患者长期存活率。此外，本研究发现短时间筹集巨额手术费用使AD 患者家庭产生巨大经济压力。而家庭成员全身心应对AD 应激事件，难以及时抽身完成报销，使得报销比例减少，更加重了家庭的经济负担，提示报销程序仍有待优化。目前我国特殊病种的医疗保障尚在完善，是否提高AD报销比例、延长报销备案时间、增加大病救治补助金额等决策仍需人力资源和社会保障局等部门进一步考量。
+
+# 4结论
+
+本研究通过对A型AD患者及家属的访谈，提炼出就诊转诊体验、主动脉夹层诊疗系统存在的问题及真实需求3个主题，提示我国主动脉夹层诊疗体系有待进一步完善，开展规范化诊疗培训、形成AD诊疗绿色通道、加强AD 相关知识普及、完善资助体系是未来的发展方向。但本研究存在局限：访谈时患者受病情影响，其情感体验及需求多集中在疾病预后方面，与本研究主题相关性低，故未充分呈现。此外，本研究对象仅从山西省一所三级甲等医院中选取，样本代表性有限，未来应开展多主题、多中心质性研究，进一步发现不同地区AD诊疗过程存在的缺陷，为提高AD急救质量、完善我国AD诊疗体系提供参考。
+
+作者贡献：栗林提出研究思路，设计研究方案，负责文章的撰写，并全程控制文章质量；徐娜、武文贤负责文献检索、初步设计访谈大纲、预访谈以及访谈大纲的修订完善；徐娜、赵青、郭万鹏负责访谈资料的转录、核对及分析；武文贤负责审校文章及最终版本修订，对论文负责。
+
+本文无利益冲突。
+
+# 参考文献
+
+[1] JURASZEK A， CZERNY M，RYLSKI B. Update in aortic dissection[J]. Trends Cardiovasc Med, 2021, S1050-1738(21):00092-X.DOI: 10.1016/j.tcm.2021.08.008.   
+[2] ERBEL R,ABOYANS V,BOILEAU C,et al. 2014 ESC Guidelines on the diagnosis and treatment of aortic diseases[J]. Kardiol Pol. 2014;72(12):1169-252.DOI: 10.5603/KP.2014.0225.   
+[3] LI Y,YANG N,DUAN W,et al. Acute aortic dissection in China[J]. Am J Cardiol, 2012,110(7): 1056-1061.DOI: 10.1016/j.amjcard.2012.05.044.   
+[4] KREUTZER C.Repair of subdivided left atrium associated with persistent left superior vena cava[J]. J Thorac Cardiovasc Surg,1998,116(5): 880. DOI: 10.1016/s0022-5223(98)00429-2. [5] MUKHERJEE D，EAGLE K A. Aortic dissection--an update[J]. Curr Probl Cardiol， 2005，30(6): 287-325. DOI: 10.1016/j.cpcardiol.2005.01.002.   
+[6] PAPE L A，AWAIS M，WOZNICKI E M，et al. Presentation, Diagnosis,and Outcomes of Acute Aortic Dissection: 17-Year TrendsFrom the International Registry of Acute Aortic Dissection[J]. J Am Coll Cardiol， 2015， 66(4): 350-358. DOI: 10.1016/j.jacc.2015.05.029.   
+[7] WANG W, DUAN W， XUE Y， et al. Clinical features of acute aortic dissection from the Registry ofAortic Dissection in China[J]. J Thorac CardiovascSurg,2014,148(6): 2995-3000. DOI: 10.1016/j.jtcvs.2014.07.068.   
+[8] 朱洁婷，刘雪梅，谢仪佳，等．主动脉夹层患病早期真实体验的质性研究[J]．当代护士(中旬 刊)，2017(09): 6-8.D0I: 1006— 6411(2017) 09-0006-03.   
+ZHU J T, LIU X M, XIE Y J，et al. Experience of the patients at the early stage of aortic dissection :A qualitative study[J].Modern Nurse,2017(09): 6-8. DOI: 1006- 6411( 2017) $0 9 - 0 0 0 6 - \$ 03.   
+[9] JONSSON M，BERG S K，PALM P. Am I going to die now? Experiences of hospitalisation andsubsequent life after being diagnosed with aortic dissection[J]. Scand J Caring Sci， 2O21，35(3): 929-936.DOI: 10.1111/scs.12912.   
+[10] COLORAFI K J，EVANS B. Qualitative Descriptive Methods in Health Science Research[J]. HERD，2016，9(4): 16-25.D0I: 10.1177/1937586715614171.   
+[11] SANDERS C. Application of Colaizzi's method: interpretation of an auditable decision trail by a novice researcher[J]. Contemp Nurse. 2003,14(3):292-302.DOI: 10.5172/conu.14.3.292.   
+[12] WILSON A， RONNEKLEIV-KELLY S M， Pawlik T M. Regret in Surgical Decision Making: A Systematic Review of Patient and Physician Perspectives[J]. World J Surg，2017，41(6): 1454-1465. DOI: 10.1007/s00268-017-3895-9.   
+[13] 张舵，周雁荣，刘娟，等．主动脉夹层术前家属代理决策现状及影响因素的研究[J]．解放军 护理杂志，2021，38(12): 53-56.DOI: 10.3969/j.issn.1008-9993.2021.1.014.   
+ZHANG D, ZHOU Y R, LIU J，et al. Status Quo of Family Agency Decision-making Before Aortic Dissection Operations and Its Influencing Factors[J].Nursing Journal of Chinese People's Liberation Army，2021，38(12): 53-56.DOI: 10.3969/j.issn.1008-9993.2021.12.014.   
+[14] 雷欢，赵珍珍，谢小英，等．白血病患儿家庭复原力现状及其影响因素调查[J].护理研究， 2021，35(22): 4110-4113.DOI:10.12102/j.issn.1009-6493.2021.22.033.   
+LEI H,ZHAO Z Z, XIE X Y， et al. Investigation on status quo and influencing factors of family resilience of children with leukemia[J].Chinese Nursing Research，2021，35(22):4110-4113. DOI:10.12102/j.issn.1009-6493.2021.22.033.   
+[15] CHOINSKI K， SANON O， TADROS R，et al. Review of Malpractice Lawsuits in the Diagnosis and Management of Aortic Aneurysmsand Aortic Dissections[J]. Vasc Endovascular Surg， 2022, 56(1): 33-39. D0I: 10.1177/15385744211026455.   
+[16] 肖亚茹，黄素芳，严丽，等．主动脉夹层患者诊断延迟的研究进展[J]．中国全科医学，2020, 23(20): 2486-2492. DOI: 10.12114/j.issn.1007-9572.2020.00.059.   
+XIAO Y R，HUANG S F，YAN L，et al. Advances in Delayed Diagnosis of Aortic Dissection[J].Chinese GeneralPractice 2020 23(20): 2486-2492. DOI: 10.12114/j.issn.1007-9572.2020.00.059.   
+[17] Parve S, Ziganshin B A, Elefteriades JA. Overview of the current knowledge on etiology, natural history and treatment ofaortic dissection[J]. J Cardiovasc Surg (Torino)， 2017， 58(2): 238-251. [18]HIRATZKA L F， BAKRISG L ， BECKMAN J A ， et al．2010 ACCF/AHA/AATS/ACR/ASA/SCA/SCAI/SIR/STS/SVM Guidelinesforthediagnosisand management of patients with thoracic aortic disease: Executive summary: A report of the American
+
+College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines, American Association for Thoracic Surgery，American College of Radiology，American Stroke Association, Society of Cardiovascular Anesthesiologists, Society for Cardiovascular Angiography and Interventions, Society of Interventional Radiology， Society of Thoracic Surgeons,and Society for Vascular Medicine[J]. Anesth Analg，2010,76(2):E43-86.DOI: 10.1002/ccd.22537.
+
+[19] 张婷．主动脉夹层风险评分表在急诊分诊快速筛查中的应用研究[J]．当代护士,2018,25(07):   
+93-95.DO1: 1006-6411(2018)20-0093-03. ZHANG T. Application of aortic dissection in rapid screening for emergency triage[J].Modern   
+Nurse， 2018， 25(07): 93-95.DOI: 1006-6411(2018)20-0093-03.   
+[20]刘晋豫，张亮，王强，等．改良急性主动脉夹层风险评分在急性主动脉夹层早期诊断中的价   
+值[J].临床急诊杂志，2019，20(10): 807-810.DOI:10.13201/j.issn.1009-5918.2019.10.013. LIU JY, ZHANG L, WANG Q， et al. Value of modified AAD risk score in early diagnosis of   
+acuteaorticdissection[J]. Journal ofClinicalEmergency， 2019，20(10):807-810.   
+DOI:10.13201/j.issn.1009-5918.2019.10.013.   
+[21]严亮亮，李加辉，陈良万．风险评分在主动脉夹层早期筛检中的敏感度分析[J]．中国当代医   
+药，2017， 24(36): 39-41. DOI:10.3969/j.issn.1674-4721.2017.36.012. YAN L L, LI JH, CHEN L W.The value of aortic dissection score in the early diagnosis of aortic   
+dissection[J].China Modern Medicine,2017,24(36): 39-41.DOI:10.3969/j.issn.1674-4721.2017.36.012   
+[22] 孙立忠，李建荣．我国Stanford A型主动脉夹层诊疗进展与挑战[J]．中华外科杂志，2017,   
+55(04): 241-244. DOI: 10.3760/cma.j.issn.0529-5815.2017.04.001. SUN,L Z. LI JR ，Progress and challenge of Stanford type A aortic dissection in China.   
+Zhonghua wai ke za zhi, 2017; 55: 241-244. DOI: 10.3760/cma.j.issn.0529-5815.2017.04.001.   
+[23] SUN L Z，LI JR.Progress and challenge of Stanford type A aortic dissection in China. [J].   
+Zhonghua wai ke za zhi， 2017， 55(4): 241-244. DOI: 10.3760/cma.j.issn.0529-5815.2017.04.001.   
+[24] GOLDSTONE A B，CHIU P，BAIOCCHI M，et al. Interfacility Transfer of Medicare   
+Beneficiaries With Acute Type A Aortic Dissection and Regionalization of Care in the United States[J].   
+Circulation， 2019，140(15): 1239-1250.DOI: 10.1161/CIRCULATIONAHA.118.038867.   
+[25] 季文杰，周庆，王东进．构建主动脉夹层六小时生命急救圈探索危急重症疾病分级诊疗新模   
+式[J].江苏卫生事业管理，2017，28(03): 42-44.DOI:10.3969/j.issn.1005-7803.2017.03.015. JI W J, ZHOU Q, WANG D J. Build Six Hours' Aortic Dissection Life Circle of First Aid ,to   
+Explore New Emergency and Severe Cases Disease Classfication Diagnosis Paterns[J].Jiangsu   
+Healthcare Administration， 2017， 28(03): 42-44. DOI:10.3969/j.issn.1005-7803.2017.03.015.   
+[26]方方，周田田，林玉博，等．基于团队资源管理模式建立主动脉夹层绿色通道的实践与效果   
+评价[J]．解放军护理杂志，2019，36(11): 79-82.DOI:10.3969/j.issn.1008-9993.2019.11.021. FANG F, ZHOU T T,LIN Y B,et al.Effectiveness of the Green Channel for Aortic Dissection   
+Based on Team Resource Management Mode[J].Nursing Journal of Chinese People's Liberation   
+Army，2019，36(11): 79-82. DO1:10.3969/j.issn.1008-9993.2019.11.021.   
+[27]刘慧．胸痛中心急诊绿色通道护理流程对提高主动脉夹层病人治疗效果的作用[J].护理研   
+究，2017，31(31): 4026-4028.DO1:10.3969/j.issn.1009-6493.2017.31.040. LIU H.Efect of emergency green channel nursing process in chest pain center for improving   
+treatment effect of patients with aortic dissection[J].Chinese Nursing Research,2O17，31(31):   
+4026-4028. DOI:10.3969/j.issn.1009-6493.2017.31.040.   
+[28]邓先锋,向莉,冯霞．主动脉夹层多学科联合专病急救绿色通道的构建[J].护理学杂志,2019,   
+34(03): 17-20. DOI:10.3870/j.issn.1001-4152.2019.03.017. DENG X F, XIANG L, FENG X. Multidisciplinary team-led and emergency green channel management of patients with aortic dissection[J].Journal of Nursing Science,2019,34(03): 17-20. DOI: 10.3870/j.issn.1001-4152.2019.03.017.   
+[29] AXELSSON C，KARLSSON T，PANDE K，et al. A Description of the Prehospital Phase of Aortic Dissection in Terms of Early Suspicion and Treatment[J]. Prehosp Disaster Med，2015，30(2): 155-162.DOI: 10.1017/S1049023X15000060.   
+[30]EVANGELISTA A， ISSELBACHER EM，BOSSONE E，et al. Insights From the International Registry of Acute Aortic Dissection: A 20-Year Experience of Collaborative Clinical Research[J]. Circulation，2018，137(17): 1846-1860. DOI: 10.1161/CIRCULATIONAHA.117.031264.   
+[31] NIENABER C A，CLOUGH R E. Management of acute aortic dissection[J]. Lancet，2015, 385(9970): 800-811.DOI: 10.1016/S0140-6736(14)61005-9.   
+[32] MACFARLANE A, TEIXEIRA A, TAYLOR K,et al. General Practice and the Community: Research on health service,quality improvements and training. Selected abstracts from the EGPRN Meeting in Vigo,Spain,17-20 October 2019 Abstracts[J]. Eur JGen Pract，2020，26(1): 42-50. DOI:10.1080/13814788.2020.1719994.   
+[33] Mussa FF，Horton JD，Moridzadeh R，et al. Acute Aortic Dissection and Intramural Hematoma A Systematic Review[J].JAMA，2016，316(7): 754-763.DOI: 10.1001/jama.2016.10026.

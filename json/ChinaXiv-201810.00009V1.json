@@ -1,0 +1,379 @@
+[
+    {
+        "type": "text",
+        "text": "人血清白蛋白在蛋白多肽类药物长效化中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐欢，周美玲，葛琳，王志明(华北制药集团新药研究开发有限责任公司，石家庄050015)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要]重组蛋白/多肽类药物在人体血清内半衰期较短，很大程度上限制了其临床应用。人血清白蛋白（HSA）具有半衰期长、生物相容性好、低免疫原性等优点，是理想的药物载体。各种基于HSA的蛋白药物长效化技术得到了广泛的应用和发展，目前主要包括构建 HSA融合蛋白，通过共价化学键与HSA偶联，通过非共价键与HSA可逆性结合。本文总结了近年来基于白蛋白药物长效化技术的发展，各项技术的优缺点及药物开发现状。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词]白蛋白融合；连接肽；化学偶联；脂肪酸修饰；白蛋白结合肽",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The application of human serum albumin in protein and peptide drugs half-life extension ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XU Huan, ZHOU Meiling, GE Lin, WANG Zhiming(New Drug R&D Center， North China Pharmaceutical Corporation， Shijiazhuang 050015,China)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Abstract] Recombinant protein and peptide drugs have a short half-life in human serum, which largely limits their clinical application. Human serum albumin (HSA) has the advantages of long half-life, good biocompatibility and low immunogenicity, which is an ideal drug carrier. Various albumin-based strategies have been widely used and developed to create long-lasting protein therapeutics. At present, it mainly includes the construction of HSA fusion proteins, coupling with HSA through covalent chemical bonds,and reversible binding to HSA through non-covalent bonds.This review summarizes the development of albumin-based technologies to create long-lasting protein therapeutics in recent years, the advantages and disadvantages of various technologies and the status of their applications in drug development. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Key words] Albumin fusion； linker； chemical coupling； modification with fatty acids ;albumin-binding peptide",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重组蛋白/多肽类药物相比于传统的小分子具有活性高、免疫原性低、毒副作用低等优点，在临床疾病治疗中发挥着越来越重要的作用。传统的重组蛋白和多肽类药物在人体血清内半衰期较短，临床使用时需要频繁给药，这无疑增加了患者的经济负担和不便性[l。对这类药物长效化可以提高患者的顺应性，改善患者自我疾病管理，是当前蛋白和多肽类药升级换代的发展趋势[2]。这类药物长效化的实现策略包括糖基化改造[3]、聚乙二醇修饰[4]、人血清白蛋白融合[5]、转铁蛋白融合[]、抗体Fc 片段融合[7]等等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人血清白蛋白（HSA）是人体血浆中含量最丰富的可溶性蛋白，该蛋白由 585个氨基酸构成，分子量约为66.5kDa。HSA在人体内的半衰期约为19天，具有安全无毒、生物相容性好、低免疫原性等优点，是理想的药物载体[8。各种基于HSA 的药物长效化技术得到了广泛的应用和发展[]，目前主要包括构建HSA融合蛋白，通过共价化学键与HSA偶联，通过非共价键与HSA可逆性结合，具体如下所述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1HSA与蛋白质/多肽药物的融合 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HSA融合技术将HSA与目标蛋白质/多肽药物融合后进行重组表达。目前，白蛋白融合技术领先的公司主要是GSK、Teva、Cogenesis和CSLBehring这四家药企。目前，已经获批上市的白蛋白融合药物有两个：GSK开发的GLP-1-HSA产品Tanzeum(阿必鲁肽)以及CSLBehring开发的Factor IX-HSA产品Idelvion（如表1所示）。人源（内源性）的GLP-1多肽在人体的半衰期极为短暂（ $1 . 5 \\sim 2 . 1 \\ \\mathrm { m i n }$ ）[10]，只有延长其半衰期才具有成药性。阿必鲁肽是将GLP-1 的第8位氨基酸突变（8Gly）后串联，直接融合在人血清白蛋白成熟肽的 N-端，其半衰期可延长至5天，每周给药一次即可[]。Idelvion是一款白蛋白融合型凝血因子IX，将重组FIX的半衰期（ $| 1 7 . 2 \\ : \\mathrm { h } )$ 延长5倍至92h，给药频率可达到一周一次，可控后可达到每两周给药一次[12]。此外，亦有多个白蛋白融合药物进入临床研究阶段（如表2所示)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a11d79b5af532a917ef1b76ed7047f22d99271849a7fcef61c3fa75c24c7039.jpg",
+        "table_caption": [
+            "表1已上市的白蛋白融合药物",
+            "Table1marketedalbumin fusionproteins "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>商品名</td><td>药物分子</td><td>半衰期的延长（融 合后/融合前)</td><td>生物活性变化 (EC50比值）</td><td>适应症</td><td>企业</td><td>FDA批</td></tr><tr><td>Idelvion</td><td>rIX-FP</td><td>5.35</td><td>1/2</td><td>B型血友病</td><td>CSL Behring</td><td>准日期 2016年</td></tr><tr><td>Tanzeum</td><td>GLP-1/HSA</td><td>2240</td><td>1/100</td><td>糖尿病</td><td>GSK</td><td>2014年</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表2在临床阶段的白蛋白融合药物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5471b6bd04b414dc154c60b97bf47d6bc2106cd4711d3033d1349dca5b3a8b6a.jpg",
+        "table_caption": [
+            "Table 2 albumin fusion proteins in clinical development "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>代号</td><td>药物分子</td><td>半衰期的延长（融 合后/融合前)</td><td>企业</td><td>适应症</td><td>阶段</td><td>参考 文献</td></tr><tr><td>Albuferon</td><td>IFN-α2b/HSA</td><td>18</td><td>Human Genome</td><td>丙型肝炎</td><td>III 期完成</td><td>[13,14]</td></tr><tr><td></td><td></td><td></td><td>Sciences/Novartis</td><td></td><td>后，放弃上市</td><td></td></tr><tr><td>N/A N/A</td><td>IFN-α2b/HSA</td><td></td><td>中美福源生物技术</td><td>慢性乙型肝炎</td><td>I期</td><td>[15]</td></tr><tr><td>N/A</td><td>IFN-α2a/HSA</td><td>16</td><td>中美福源生物技术 齐鲁制药</td><td>慢性乙型肝炎</td><td>I期</td><td>[16]</td></tr><tr><td>N/A</td><td>IFN-α2a/HSA FVIIa/HSA</td><td>3-4</td><td>CSL Behring</td><td>慢性乙型肝炎 止血</td><td>I期 I期</td><td>[17]</td></tr><tr><td></td><td></td><td></td><td></td><td>中性粒细胞减</td><td></td><td></td></tr><tr><td>Balugrastim</td><td>G-CSF/HSA</td><td>2</td><td></td><td>少症</td><td>IⅢI 期完成 后，放弃上市</td><td></td></tr><tr><td>N/A</td><td>G-CSF/HSA</td><td>6</td><td>中美福源生物技术</td><td>中性粒细胞减</td><td>Ⅱ期</td><td>[20]</td></tr><tr><td></td><td></td><td></td><td></td><td>少症</td><td></td><td></td></tr><tr><td>GW003</td><td>G-CSF/HSA</td><td></td><td>江苏泰康生物</td><td>化疗后粒细胞</td><td>I期</td><td>[21]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HSA融合的优点是从基因水平将白蛋白与目标蛋白/多肽连接在一起，不需要额外的化学修饰，纯化、制备过程简单，质量控制也相对容易。但是HSA融合的瓶颈问题是可能会影响目的蛋白的正确折叠[22]，HSA的空间位阻也会干扰效应分子发挥生物学活性[23]，因此需要设计优化HSA与效应分子的连接形式。HSA融合蛋白的优化设计主要包括效应分子与HSA的融合方向和连接肽的选择。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1蛋白质/多肽与HSA直接融合",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "早期融合蛋白的设计并没有引入连接肽概念，而是直接将两种蛋白进行融合。例如已经上市的阿必鲁肽，其药物分子结构是将两个第8位丙氨酸突变为甘氨酸的GLP-1串联，直接融合在人血清白蛋白成熟肽的N-端[24]。不使用连接肽，避免了临床上很可能潜在的免疫原性反应。但直接融合表达时，一方面，HSA和效应分子结构域的N端或C端首尾相连，可能会影响其正确折叠和天然构象，导致功能受影响[25]；另一方面，直接融合的时候，效应分子与受体的结合可能在空间上受到HSA的屏蔽和阻碍，导致药物活性的降低。例如，干扰素α/HSA融合蛋白-Albuferon的生物活性（EC50比值）仅为融合前的1/8，粒细胞刺激因子/HSA融合蛋白-Albugranin的生活活性约为融合前的1/10。因此，一些研究者们试图在HSA和效应分子之间引入连接肽来缓解蛋白质的结构对彼此功能造成的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2蛋白质/多肽与HSA通过连接肽融合",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "连接肽是指两个被融合的蛋白质或者结构域之间存在的一段多肽，其长度从几个到上百个氨基酸残基不等。目前已经有多种多肽序列被用作连接肽，并且在实际应用中能够成功避免不同结构域在折叠过程中的相互干扰。其中研究比较多的主要有三种：无规卷曲形式存在的柔性连接肽、以螺旋形式存在的刚性连接肽和体内可断裂的连接肽[26]。各种连接肽的优缺点如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/35e3e6aa53804f668a4d32b09f73c0b7b5e9a3f6b7c1ee0685ce2a6ff1453328.jpg",
+        "table_caption": [
+            "表3各种连接肽的优缺点",
+            "Table 3characteristics of fusion protein linkers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>连接肽类型</td><td>优点</td><td>缺点</td></tr><tr><td>没有连接肽</td><td>避免产生额外的免疫原性</td><td>对蛋白结构干扰大，影响活性</td></tr><tr><td>柔性</td><td>柔性、水溶性好，可允许蛋白一定程度的缺少刚性，可能降低蛋白表达水平或生物</td><td></td></tr><tr><td rowspan=\"2\">刚性</td><td>活动</td><td>活性</td></tr><tr><td>蛋白之间的距离可固定，更有效分离两个</td><td>柔性差，蛋白不可活动</td></tr><tr><td></td><td>蛋白</td><td></td></tr><tr><td rowspan=\"2\">可断裂</td><td>克服了空间位阻问题，生物活性高</td><td>药物释放时间很难控制，改善药代学性质</td></tr><tr><td></td><td>受影响</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 柔性连接肽 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当被融合的两个结构域需要一定程度的自由度时常采用柔性连接肽。柔性连接肽通常由分子量小，柔韧性好的非极性氨基酸（例如甘氨酸）或者极性氨基酸（例如丝氨酸、苏氨酸）组成[27]。这种连接肽能够提供目标药物作用过程中所需的柔性，使各个结构域不相互干扰。最为常用的柔性连接肽是Huston等提出的\"GS\"连接肽：(GGGGS)n，通过调整n的个数，可以优化该连接肽的长度[28]。多种蛋白质与HSA通过该柔性连接肽融合表达后，得到具有稳定表达和活性的融合蛋白。此外，其它的柔性连接肽，包括KESGSVSSEQLAQFRSLD和EGKSSGSGSESKST，被应用于有生物活性的单链抗体scFv的构建[29]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 刚性连接肽",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "刚性连接肽，是一类成稳定二级结构的不易弯折的连接肽，比柔性连接肽更能有效分隔功能蛋白的功能域。最常用的一种刚性连接肽是α螺旋连接肽（EAAAK)n，其中的Glu-Lys +",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "形成的盐桥使这种螺旋具有稳定的二级结构[30]。另一种刚性连接肽富含脯氨酸， $( \\mathrm { X P } ) n$ ，其中X可为任意氨基酸（最好是丙氨酸，赖氨酸，谷氨酸）。脯氨酸增加了非螺旋结构连接肽的刚性，能更有效分隔蛋白功能域[31]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 可断裂连接肽 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "无论是使用刚性或柔性连接肽，白蛋白和效应分子在体内都是不可断裂的。虽然能够延长药物的半衰期，但其潜在的缺陷包括功能域之间的空间位阻，生物活性降低，生物分布改变。可断裂连接肽可以在体内将功能域以合适的速率解离，从而恢复治疗分子的活性和生物分布。可断裂连接肽的设计结合了长效技术和控释技术的优点，尽量在药代动力学和药效动力学之间保持平衡，非常具有挑战性。可断裂连接肽利用了体内独有的代谢过程，在特定环境下（例如还原剂或蛋白酶的存在）会被剪切。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一种方法是利用在体内二硫键的还原过程。将二硫键引入连接肽，其在体内被还原后断裂，从而释放出效应分子[32]。Zhao等人在干扰素-α2b和白蛋白引入了一个二硫环肽(CRRRRRREAEAC)，其中的两个半胱氨酸能形成分子内的二硫键，而两个半胱氨酸之间的氨基酸序列对酵母分泌途径中分泌信号肽加工蛋白酶敏感。在蛋白表达过程中，连接肽先后被Kex2以及Kex1/Ste13剪切。因此酵母分泌表达后，环肽上两个半胱氨酸之间的氨基酸全部被剪切，同时干扰素-α2b和白蛋白通过二硫键连接为IFN-SS-HSA[33]。和IFN-HSA相比，IFN-SS-HSA的血药浓度-时间曲线下面积(AUC)下降了 $82 \\%$ ，但其抗病毒活性提高了$47 \\%$ ，说明可断裂连接肽可以消除白蛋白的空间位阻效应，改良融合蛋白的生物活性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另一种方法是引入体内蛋白酶（如人凝血酶TBN、弗林蛋白酶、凝血因子Xa）识别的序列，在蛋白酶的作用下，天然的治疗蛋白可以在体内被缓慢释放出来。例如，将凝血因子IX（FIX）与白蛋白通过\"GS\"柔性连接肽融合后，其活性下降了 $8 8 \\%$ ，可能是白蛋白阻碍了FIX 与其它凝血因子相互作用。已经上市的Factor IX-HSA产品Idelvion（rIX-FP）就利用了一个体内可断裂的连接肽来避免白蛋白的空间位置效应。Schulte等人在FIX和白蛋白之间引入了来自FIXN端激活区域的序列（VSQTSKLT↓RAETVFPDV）作为连接肽（图1所示），在FIX的活化过程中，FIX的激活区域和连接肽同时被FVIIa 或FXIa剪切，释放出FIXa分子[34]。与非可裂解的连接肽表达的融合蛋白相比，其凝血活性增加了10-30倍。与此同时，由于连接肽仅在凝血时断裂，白蛋白的长效化作用得以保留，FIX在兔子中的半衰期延长了2.8-3.9倍。在食蟹猴和B型血友病犬的实验中亦观察到治疗水平相似的的半衰期延长[35-36]。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e8d06058a8aaf3c8bc855d3b03b2e6181425807c04212d7c5f04127848d36ff.jpg",
+        "img_caption": [
+            "图1利用可断裂连接肽开发重组因子IX-白蛋白融合蛋白的先进理念 Fig1.Advanced concept for developing a recombinant factor IX (FIX) albumin fusion protein with a cleavable linker (rIX-FP). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2HSA与蛋白质/多肽药物共价偶联 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了融合表达以外，白蛋白与蛋白质/多肽分子也可通过化学共价键相连形成偶联物，这是通过在蛋白/多肽上引入能与白蛋白反应的化学连接子来实现的。相比于融合表达，化学偶联的优点是治疗分子与白蛋白的连接位点不再局限于N端或C端，缺点是修饰位点不专一、工艺较复杂。Conjuchem 公司利用化学偶联白蛋白的方法开发了药物长效化平台药物亲和力复合物（DACTM）和预耦合药物亲和力复合物（PC-DACTM）[37,38]。DACTM是一种体内HSA耦合技术，通过化学反应使蛋白/多肽上偶联上连接子，连接子的另一端含有化学反应基团（包括N-羟基琥珀酰亚胺酯、异氰酸酯和马来酰亚胺)，能够与血液循环中HSACys-34 位的游离巯基发生快速特异性的反应，形成治疗分子白蛋白复合物。PC-DACTM是一种体外HSA预耦合技术，将蛋白/多肽连接子复合物在体外与HSA蛋白进行偶联，直接形成治疗分子白蛋白复合物。ConjuChem 公司利用DACTM 和PC-DACTM技术分别对GLP-1 和exendin-4 进行改造。Exendin-4 是GLP-1类似物，其半衰期很短（0.5-1h）。GLP-1的 DACTM衍生物CJC-1131进入血液与内源性白蛋白偶联后半衰期显著延长，在大鼠体内达 $1 5 \\mathrm { \\sim } 2 0 \\mathrm { h }$ ，在人体内达9\\~15天。exendin-4的PC-DACTM衍生物CJC-1134-PC的II期临床实验结果显示,其半衰期达1周,每周一次给药即可有效控制体内葡萄糖水平[39]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "白蛋白化学偶联的问题是蛋白质很难实现定点修饰，生成非匀质偶联物带来质量难以控制和下游工艺复杂的缺陷。Lim等人利用基因密码子拓展技术实现了尿酸氧化酶Uox的定点白蛋白偶联[40]。他们将 $p$ 叠氮基 $- \\mathrm { L }$ -苯丙氨酸插入Uox的两个预定位置，将HSA的C34位巯基通过硫醇-马来酰亚胺反应与DBCO-PEG4-MAL连接，得到HSA-PEG4-DBCO。Uox的叠氮基团通过叠氮化物-炔烃环加成反应（SPAAC）与带有二苯并环辛炔基团的HSA-PEG4-DBCO反应，从而得到了均一、定点的HSA-Uox偶联物（图2所示）。Uox在小鼠体内的半衰期为1.3h,HSA-Uox偶联物半衰期延长至 $8 . 8 \\mathrm { h }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/76c546f637a6d18973b4c7c2b341418d828fec67da6726eee9488a865163b01a.jpg",
+        "img_caption": [
+            "图2Uox-HSA缀合物的示意图",
+            "Fig2.Schematic representation ofUox-HSA conjugate "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3蛋白质/多肽药物与HSA非共价结合",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将多肽/蛋白质药物以非共价连接形式与白蛋白进行结合是另一种以白蛋白为载体的有效延长蛋白质药物半衰期的手段[41，这种方法是在治疗分子上引入一段可结合HSA的配体（如小肽、脂肪酸）。非共价结合的优势在于配体和白蛋白结合是可逆的，避免了白蛋白对药物生物活性和生物分布的影响，真正达到了兼顾药代动力学和药效动力学。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1脂肪链修饰",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HSA上有5个脂肪酸结合位点，因此，若能在蛋白/多肽上引入合适的脂肪酸链，进入血液循环后便可与HSA可逆性结合，实现长效化[42]。诺和诺德的长效技术平台便是采用脂肪酸链修饰的方式延长蛋白/多肽的半衰期，先后应用该平台上市的产品包括地特胰岛素、利拉鲁肽、德谷胰岛素以及索玛鲁肽（表4)，此外脂肪酸修饰的长效化生长激素（Somapacitan）正处于临床III期阶段[43-44]。脂肪酸链修饰技术有3个关键点：脂肪酸链长度、脂肪酸链末端基团、连接子。天然胰岛素的半衰期为5-15min，地特胰岛素是将人胰岛素B30位Thr去除后，在B29位Lys上连接一个肉豆蔻酸（C14）侧链而成[45]，其半衰期延长至5-7h。德谷胰岛素是将人胰岛素B30位的Thr去除后，在B29位Lys上引入一个16碳脂肪二酸而成[46]，其半衰期延长至25h。人源GLP-1的半衰期为1.5-2.1min,利拉鲁肽是将人GLP-1第34位的Lys替换为Arg，同时在第26位Lys上引入一个棕榈酸(C16)侧链[47]，其半衰期延长至13h。索玛鲁肽在利拉鲁肽基础上进行了系统优化，序列上34位突变为Arg，8位Ala突变为非天然氨基酸Aib。修饰位点仍为26位Lys，引入了一个18碳二羧酸脂肪酸链[48]，其半衰期延长至40h。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4已上市的脂肪链修饰蛋白多肽药",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9edcbc7823c7c5748969cd490a81b2350b6332e186894fbcd3044ec3516f31d3.jpg",
+        "table_caption": [
+            "Table 4 Marketed protein and peptide drugs with modification of fatty acids "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>上市时间</td><td>半衰期</td><td>序列突变</td><td>脂肪酸侧链</td><td>连接子</td><td>修饰位点</td></tr><tr><td>地特胰岛素</td><td>2005年</td><td>5-7h</td><td>B30位Thr</td><td>C14</td><td></td><td>B29位Lys</td></tr><tr><td>利拉鲁肽</td><td>2009年</td><td>13h</td><td>Arg34</td><td>C16二羧酸</td><td>γ谷氨酸</td><td>Lys26</td></tr><tr><td>德谷胰岛素</td><td>2015年</td><td>25h</td><td>B30位Thr</td><td>C16</td><td>γ谷氨酸</td><td>B29位Lys</td></tr><tr><td>索玛鲁肽</td><td>2017年</td><td>40h</td><td>Aib8,Arg34</td><td>C18二羧酸</td><td>谷氨酸-2*OEG</td><td>Lys26</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与白蛋白融合相比，脂肪酸修饰的蛋白质药物涉及到更多的化学反应过程和更为复杂的分离纯化、质量控制问题，需要特别考虑以下几个方面：1.修饰位点的专一性，这也是脂肪酸修饰技术推广到更多蛋白药物的瓶颈所在。赖氨酸残基是建立蛋白与修饰化学分子链接的重要官能团[49]，目前脂肪酸修饰大多是在交联剂的作用下与蛋白赖氨酸残基的游离氨基作用实现连接的。胰岛素和GLP-1赖氨酸氨基少（1-2个），选择性问题不大，但蛋白质多肽链中常有多个赖氨酸，几种氨基活性差异很小，在进行修饰反应中，很难特定地修饰某一个氨基，修饰后所得的产物大多是混合物。如何得到单一修饰位点的产物，尽可能减少非特异性修饰位点产物是这项技术需要解决的问题。2．相关杂质的检测及控制，脂肪酸修饰工艺复杂，脂肪酸及活化需要化学途径获得，合成过程会引入工艺相关有机物杂质。以胰岛素的酰化为例，先需要固相上合成酰化试剂，再将酰化试剂溶解于DMF中，逐滴添加到PH调节至11.2的胰岛素Na2CO3水溶液中，反应结束后再利用RP-HPLC进行后续的纯化[50]。需考虑对相关工艺杂质进行追踪和分析，确保产品的纯度和质量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2白蛋白结合肽",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除了脂肪酸等小分子外，一些特定序列的多肽链（例如，源自链球菌蛋白G的白蛋白结合域 ABD）也能够与白蛋白结合[51]，亦可以通过噬菌体展示随机肽库中筛选出白蛋白结合肽。Dennis 等人利用噬菌体展示技术筛选出能与白蛋白结合的一系列多肽，其核心序列为DICLPRWGCLW。将该结合肽与抗原结合片段Fab段融合表达后，Fab在兔子中的半衰期提高了37倍[52]。Ablynx 公司利用白蛋白结合肽改良了纳米抗体的半衰期，他们开发了三特异性抗体 ATN-103（Ozoralizumab），该分子由三个纳米抗体组成，两个针对 TNFa，另一个可以结合人体血清白蛋白以延长药物在体内的半衰期。该抗体已经完成了类风湿关节炎的II 期临床实验[53]。Genentech 公司的 albumin-binding fragment 技术也是运用了以上原理。例如他们将血清白蛋白结合肽与曲妥珠单抗的Fab 片段融合，使该Fab 片段与白蛋白的亲合力提高了10倍，血浆清除率显著减小，在鼠和兔体内半衰期均增加6倍，而结合抗原(HER2)的生物活性保持不变[54]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "人血白蛋白可以通过化学修饰或基因融合的方式用于蛋白多肽类药物的长效化改造。和化学修饰技术相比，人血清白蛋白融合技术具有诸多优点：不需要经过额外的化学修饰步骤，可以获得更加均一的产物，工艺简单，便于规模化制备。然而，由于HSA的空间位置效应，人血清白蛋白常规融合技术改善药物的药代动力学性质时，往往以牺牲药效动力学性质为代价。融合蛋白不仅体外生物学活性降低，而且由于分子量较大，生物分布发生了根本性改变，向外周靶器官和组织的穿透能力显著降低，影响其疗效的发挥，这也是HSA融合应用于蛋白多肽类药物长效化的瓶颈问题。可解离的白蛋白融合技术提供了解决药效动力学与药代动力学之间矛盾的一种思路。2016年上市的rIX-FP是在HSA与FIX之间添加了一个精心设计的可裂解连接肽，既使融合对象受益于HSA较长的半衰期，又保留了凝血因子的天然功能，为HSA融合蛋白技术带来了新的希望。化学修饰（例如脂肪酸修饰）使蛋白药物和白蛋白可逆结合，可以兼顾半衰期和生物学活性，但存在工艺复杂、蛋白修饰位点不专一等问题。今后研究中需要进一步发展蛋白药物定点修饰技术，得到单一修饰位点的产物，尽可能减少非特异性修饰位点产物。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[参考文献] ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] Kontermann R E. Strategies for extended serum half-life of protein therapeutics. Curr Opin Biotechnol, 2011, 22 (6): 868-876.   \n[2] Kontermann R E. Half-life extended biotherapeutics. Expert Opin Biol Ther, 2016,16(7): 903-915.   \n[3] Elliott S,Lorenzini T,Asher S,et al. Enhancement of therapeutic protein in vivo activities through glycoengineering. Nat Biotechnol, 2003,21 (4): 414-421.   \n[4] Turecek P L, Bossard M J, Schoetens F, et al. PEGylation of Biopharmaceuticals: A Review of Chemistry and Nonclinical Safety Information of Approved Drugs.J Pharm Sci，2016,105(2): 460-475. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5] Rogers B,Dong D,Li Z. Recombinant human serum albumin fusion proteins and novel applications in drug delivery and therapy. Curr Pharm Des,2015,21 (14): 1899-1907. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[6] Bai Y, Ann D K, Shen W C. Recombinant granulocyte colony-stimulating factor-transferin fusion protein as an oral myelopoietic agent. Proc Natl Acad Sci U S A, 2005,102 (20):7292-7296.   \n[7]Jafari R, Zolbanin N M, Rafatpanah H, et al. Fc-fusion proteins in therapy: an updated view. Curr Med Chem, 2017, 24(12): 1228-1237.   \n[8] Kratz F. Albumin as a drug carrier: design of prodrugs, drug conjugates and nanoparticles. J Control Release,2008,132 (3): 171-183.   \n[9] Larsen M T, Kuhlmann M, Hvam M L, et al. Albumin-based drug delivery: harnessing nature to cure disease. Mol Cell Ther, 2016, 4:3.   \n[10] Weber A E. Dipeptidyl Peptidase IV Inhibitors for the Treatment of Diabetes.J Med Chem, 2004,47:4128-4134.   \n[11] Baggio L L， Huang Q, Brown T J, et al. A recombinant human glucagon-like peptide (GLP)-1-albumin protein (albugon） mimics peptidergic activation of GLP-1 receptor-dependent pathways coupled with satiety, gastrointestinal motility, and glucose homeostasis. Diabetes, 2004, 53(9):2492-2500.   \n[12] Lyseng-williamson K A. Coagulation Factor IX (Recombinant), Albumin Fusion Protein (Albutrepenonacog Alfa; Idelvion $( \\textsuperscript { \\textregistered } )$ ): A Review of Its Use in Haemophilia B. Drugs, 2017, 77:97-106.   \n[13] Osborn B L, Olsen H S, Nardeli B,et al. Pharmacokinetic and pharmacodynamic studies of a human serum albumin-interferon-alpha fusion protein in cynomolgus monkeys. J Pharmacol Exp Ther, 2002,303 (2): 540-548.   \n[14] Subramanian G M,Fiscella M,Lamouse-Smith A, et al. Albinterferon alpha-2b: a genetic fusion protein for the treatment of chronic hepatitis C. Nat Biotechnol, 2007,25 (12): 1411-1419. [15]Fu Y， Yu ZL. Long acting human interferon analogs:US, 7572437. 2009-8-11. http://www.freepatentsonline.com/7572437.html   \n[16] 富岩，马金玲,孙丽，等．重组人血清白蛋白/干扰素α2a 融合蛋白的药效学、药代动力学及 安全性评价.中国医药生物技术,2012,7(06):401-411.   \nFu Y, Ma JL, Sun L, et al. Pharmacodynamics, pharmacokinetics and safety studies on recombinant human serum albumin/interferon-α2a fusion protein. Chin Med Biotechnol, 2012, 7(06):401-411. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[17] Golor G,Bensen-Kennedy D, Haffner S, et al. Safety and pharmacokinetics of a recombinant fusion protein linking coagulation factor VIa with albumin in healthy volunteers.JThromb Haemost, 2013,11 (11): 1977-1985. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[18] Pfeil A M， Allcott K, Pettengell R， et al. Efficacy， effectiveness and safety of long-acting granulocyte colony-stimulating factors for prophylaxis of chemotherapy-induced neutropenia in patients with cancer: a systematic review. Support Care Cancer, 2015, 23 (2): 525-545.   \n[19] Volovat C, Gladkov O A, Bondarenko I M, et al. Efficacy and safety of balugrastim compared with pegfilgrastim in patients with breast cancer receiving chemotherapy. Clin Breast Cancer, 2014, 14 (2): 101-108.   \n[20] 富岩，尹丽莉，顾静良，等．重组人血清白蛋白/粒细胞刺激因子融合蛋白的药效学、药理学 和毒理学研究．中国医药生物技术,2012,7(04):241-256   \nFu Y,Yin LL, Gu JL, et al. Studies on pharmacodynamics, pharmacology, and toxicology of   \nrecombinant human serum albumin/granulocyte colony-stimulating factor fusion protein. Chin Med Biotechnol, 2012, 7(04):241-256.   \n[21] 姜波，孙明媛，郑维维，等.注射用重组人血清白蛋白一人粒细胞集落刺激因子（I）融 合蛋白在健康受试者的耐受性研究．中国临床药理学杂志，2018，34(6)：667-681.   \nJiang B, Sun M Y, Zheng W W, et al. Tolerance of a novel recombinant human serum albumin /human granulocyte-colony stimulating factor( I） fusion protein in healthy subjects. Chin J Clin Pharmacol, 2018， 34(6): 667-681.   \n[22] Zhao H L, Yao X Q, Xue C, et al. Increasing the homogeneity,stability and activity of human serum albumin and interferon-alpha2b fusion protein by linker engineering.Protein Expr Purif, 2008, 61 (1): 73-77.   \n[23] Zhu R Y, Xin X, Dai H Y,et al. Expression and purification of recombinant human serum albumin fusion protein with VEGF165b in Pichia pastoris. Protein Expr Purif,2012,85 (1): 32-37. [24] Matthews JE, Stewart M W,De Boever E H, et al. Pharmacodynamics, pharmacokinetics, safety, and tolerability of albiglutide, a long-acting glucagon-like peptide-1 mimetic, in patients with type 2 diabetes. J Clin Endocrinol Metab,2008, 93(12): 4810-4817.   \n[25] Zhao HL, Xue C, Wang Y,et al. Circumventing the heterogeneity and instability of human serum albumin-interferon-alpha2b fusion protein by altering its orientation. J Biotechnol, 2007,131 (3): 245-252. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[26] Chen X, Zaro JL, Shen W C.Fusion protein linkers: property， design and functionality. Adv Drug Deliv Rev,2013,65 (10): 1357-1369. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[27] Argos P. An investigation of oligopeptides linking domains in protein tertiary structures and possible candidates for general gene fusion. JMol Biol,1990,211 (4): 943-958.   \n[28] Huston J S, Levinson D, Mudgett-hunter M,et al. Protein engineering of antibody binding sites: recovery of specific activity in an anti-digoxin single-chain Fv analogue produced in Escherichia coli. Proc Natl Acad Sci U S A, 1988, 85 (16): 5879-5883.   \n[29] Bird R E, Hardman K D, Jacobson JW,et al. Single-chain antigen-binding proteins. Science, 1988, 242 (4877):423-426.   \n[30] Aurora R, Creamer TP, Srinivasan R,et al. Local interactions in protein folding: lessons from the alpha-helix.JBiol Chem,1997,272 (3): 1413-1416.   \n[31] George R A, Heringa J. An analysis of protein domain linkers: their classification and role in protein folding. Protein Eng,2002,15 (11): 871-879.   \n[32] Thorpe P E,Wallace P M,Knowles P P,et al. New coupling agents for the synthesis of immunotoxins containing a hindered disulfide bond with improved stability in vivo. Cancer Res, 1987, 47 (22): 5924-5931.   \n[33] Zhao H L, Xue C,Du JL,et al. Balancing the pharmacokinetics and pharmacodynamics of interferon-alpha2b and human serum albumin fusion protein by proteolytic or reductive cleavage increases its in vivo therapeutic efficacy. Mol Pharm, 2012, 9 (3): 664-670.   \n[34] Stefan S.Half-life extension through albumin fusion technologies.Thrombosis Research, 2010, 124 Suppl.   \n[35] Nolte M W, Nichols T C, Mueller-Cohrs J, et al. Improved kinetics of rIX-FP,a recombinant fusion protein linking factor IX with albumin, in cynomolgus monkeys and haemophilia B dogs. J Thromb Haem0st, 2012, 10: 1591-1599.   \n[36] Mannucci PM. Half-life extension technologies for haemostatic agents. Thromb Haemost. 2015,113(1):165-176.   \n[37] Baggio L L， Huang Q, Cao X, et al. An albumin-exendin-4 conjugate engages central and peripheral circuits regulating murine energy and glucose homeostasis. Gastroenterology,20o8,134 (4): 1137-1147.   \n[38l Kim JG. Baggio L L. Bridon D P. et al. Development and characterization of a glucagon-like ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "peptide 1-albumin conjugate: the ability to activate the glucagon-like peptide 1 receptor in vivo.   \nDiabetes,2003, 52 (3): 751-759. [39] Giannoukakis N, CJC-1131. ConjuChem. Curr Opin Investig Drugs,2003,4 (10): 1245-1249. [40] Lim S I, Hahn Y S, Kwon I. Site-specific albumination of a therapeutic protein with multi-subunit to prolong activity in vivo. JControl Release,2015,207: 93-100.   \n[41] Varshney A, Sen P,Ahmad E, et al. Ligand binding strategies of human serum albumin: how can the cargo be utilized? Chirality,2010, 22 (1): 77-87.   \n[42] Myers S R, Yakubu-Madus F E, Johnson W T, et al. Acylation of human insulin with palmitic acid extends the time action of human insulin in diabetic dogs. Diabetes,1997, 46 (4): 637-642. [43] Johannsson G， Feldt-Rasmussen U, Hakonsson IH,et al. Safety and convenience of once-weekly somapacitan in adult GH deficiency: a 26-week randomized, controlled trial. Eur JEndocrinol, 2018,178(5): 491-499.   \n[44] Battelino T, Rasmussen MH, De Schepper J, et al. Somapacitan, a once-weekly reversible albumin-binding GH derivative,in children with GH deficiency: A randomized dose-escalation trial. Clin Endocrinol(Oxf), 2017, 87(4): 350-358.   \n[45] Home P，Kurtzhals P. Insulin detemir: from concept to clinical experience. Expert Opin Pharmacother, 2006,7 (3): 325-343.   \n[46] Tambascia M A，Eliaschewitz FG. Degludec: the new ultra-long insulin analogue. Diabetol Metab Syndr,2015, 7: 57.   \n[47] Sjoholm A. Liraglutide Therapy for Type 2 Diabetes: Overcoming Unmet Needs. Pharmaceuticals (Basel),2010,3 (3): 764-781.   \n[48] Lau J，Bloch P，Schaffer L, et al. Discovery of the Once-Weekly Glucagon-Like Peptide-1 (GLP-1) Analogue Semaglutide. J Med Chem, 2015, 58 (18): 7370-7380.   \n[49] Roberts M J，Bentley M D, Harris J M. Chemistry for peptide and protein PEGylation. Adv Drug Deliv Rev, 2002, 54 (4): 459-476.   \n[50] Madsen P, Hostrup S, Munzel M, et al. An A22K, DESB27,B29R, DES B30, at epsilon position of lysine 22 acylated human insulin analogue: WO/2015/128403.2015-9-3.   \nhttps://patentscope.wipo.int/search/zh/detail.jsf?docId $\\ c =$ WO2015128403&redirectedID $\\vDash$ true   \n[51] Hopp J, Horning N, Zettlitz KA, et al. The effects of affinity and valency of an albuminbinding domain (ABD) on the half-life of a single-chain diabody-ABD fusion protein. Protein Eng ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Des Sel, 2010, 23(11): 827-834. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[52] Mark S D, Min Z, Gloria M Y,et al. Albumin binding as a general strategy for improving the pharmacokinetics of proteins.JBio Chem,2002,277 (38):35035-35043. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[53] Merlot A M,Kalinowski D S，Kovacevic Z, et al. Making a case for albumin-a highly promising drug-delivery system. Future Med Chem, 2015,7(5): 553-556. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[54] Nguyen A， Reyes A E,Zhang M, et al. The pharmacokinetics of an albumin-binding Fab (AB.Fab) can be modulated as a function of affinity for albumin. Protein Eng Des Sel,2O06,19 (7): 291-297. ",
+        "page_idx": 13
+    }
+]

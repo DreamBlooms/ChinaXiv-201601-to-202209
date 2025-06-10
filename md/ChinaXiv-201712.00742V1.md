@@ -1,0 +1,140 @@
+基础研究
+
+# 稳定低表达DNA甲基转移酶3b基因对膀胱癌细胞生长和凋亡的影响
+
+陈 柯,李炳坤,许凯,徐啊白,刘春晓,郑少波,徐亚文，贾晨尧,刘奇,李虎林南方医科大学珠江医院泌尿外科，广东广州510282
+
+摘要：目的探讨稳定低表达DNA甲基转移酶3b(DNMT3b)基因对人膀胱癌细胞生长和凋亡的影响。方法包装表达DNMT3b siRNA和阴性对照siRNA的慢病毒，通过慢病毒感染的方法获得稳定低表达DNMT3b的膀胱癌细胞BIU-87及对照细胞。MTT和流式细胞仪检测DNMT3b稳定低表达对细胞增殖和凋亡的影响;体内裸鼠成瘤实验观察DNMT3b稳定低表达对肿瘤的抑制效果;荧光定量PCR和Westem blot检测DNMT3b稳定低表达对细胞生长和凋亡相关基因表达的影响;甲基化特异性PCR检测对细胞生长和凋亡相关基因甲基化的影响。结果荧光定量PCR和Westermblot检测结果显示,DNMT3b mRNA和蛋白水平在BIU-87稳定细胞株中稳定低表达;DNMT3b稳定低表达可以抑制BIU-87细胞的生长，并且抑制裸鼠皮下瘤体的生长;DNMT3b稳定低表达可以促进BIU-87细胞的凋亡;DNMT3b稳定低表达可以增加凋亡及细胞生长相关基因DAPK,Bax和RASSF1A mRNA和蛋白水平的表达;DNMT3b稳定低表达可以减少凋亡及细胞生长相关基因DAPK,Bax和RASSF1A启动子区域的甲基化水平。结论 DNMT3b稳定低表达可能通过调控凋亡相关基因以及细胞生长相关基因启动子区域的甲基化水平来影响基因的表达，从而抑制BIU-87细胞的生长，诱导细胞凋亡。
+
+关键词：膀胱癌;DNMT3b；稳定细胞株；甲基化
+
+# Effect of stable DNA methyltransferase 3bknockdown on proliferation and apoptosis in bladder cancer cells in vitro
+
+CHENKe,LIingkun,XUKai,XUAbai,LIhunxiao,ZHENGaobo,XUYawen,JAhenyao,LIQiuln DepartmentofUrology,Zhujiang Hospital,SouthMedical University,Guangzhou 5o282,China
+
+Abstract: ObjectiveTo investigate the efectof stable knockdownof DNA methyltransferase 3b(DNMT3b)onthe proliferation and apoptosis of bladder cancer cels. Methods Lentivirus expressing DNMT3b siRNA or the negative control siRNA was infected inhuman bladder cancer BIU-87cels.MTTassayandflowcytometry were used todetectcell proliferationand apoptosis，respectively.The inhibitory efect of DNMT3b knockdown on xenograft tumors in nude micewas observed. Real-time PCR and Western bloting werecarriedout to investigate the expression level of cell apoptosis related genes. Methylation specific PCR wasused to examine the methylation in the promoter region of thecellapoptosis related genes. Results Theresultsof real-time PCR and Western blotting showed that DNMT3b mRNA and protein level were stably knocked down in BIU-87cels. Stable DNMT3b nockdown suppressed BIU-87cell growth and the tumor formation abilityof the cels in nude mice. DNMT3b knockdown promoted the apoptosis of BIU-87cels, increased the mRNA and protein expresion ofthecellgrowthandapoptosiselated genes incudingDAPK,axandRASSF1A,andignificantlydcreasedthe methylationof these genes. Conclusion Stable DNMT3b knockdown can affect the methylation of the cell growth and apoptosis related genes toregulate their expresion,which might bea possble mechanismforsuppressed cellgrowth and enhanced apoptosis of BIU-87 cells.
+
+Keywords: bladder cancer; DNMT3b; stable cells;methylation
+
+膀胱癌是泌尿系统常见的肿瘤之一[],其中大约$7 5 \%$ 的原发病例为浅表性膀胱癌，肿瘤局限于粘膜(Ta、CIS期)或粘膜下层(T1期)2]。浅表性膀胱癌目前仍以手术治疗加化疗为主，但术后肿瘤容易复发及进展，疗效难以让人满意，故寻找一种新的靶向基因治疗并研究其分子机制十分必要。DNA甲基化是基因表达调控重要的表型遗传修饰方式之一，和肿瘤的形成密切相关[3]。DNA的甲基化需要甲基转移酶的催化作用,DNMT3b是一类重要的甲基转移酶,起着从头甲基化的作用[4]。研究表明,DNMT3b在包括膀胱癌在内的多种癌症中显著性高表达[5-]。目前,关于DNMT3b在调控癌细胞生物学行为方面的作用说法不一。在肝癌细胞中，转染siRNA干扰DNMT3b的表达可以抑制肝癌细胞SMMC-7721和BEL-7402的细胞生长，诱导细胞的凋亡,并且抑制细胞的迁移和侵袭能力[。在膀胱癌细胞中，转染DNMT3bsiRNA重组质粒对BIU-87细胞的生长和增殖无明显影响8。为了更好的确定DNMT3b在膀胱癌细胞中的作用，我们将利用DNMT3b稳定低表达的BIU-87细胞再次验证DNMT3b在调控膀胱癌细胞生物学行为方面的作用，并对调控机制进行初步的探讨，以期为膀胱癌的靶向治疗提供新的理论依据
+
+# 1材料与方法
+
+# 1.1主要材料及试剂
+
+人膀胱癌细胞BIU-87(上海中科院细胞库);胎牛血清、RPMI1640培养基(美国Gibco);PCR引物（上海生工）;Lipofectamine $: \sqrt [ \mathrm { T M }  _ { 2 0 0 0 }$ 转染试剂和RNA提取试剂TRIzol(美国Invitrogen);SYBR GreenPCRMasterMix（日本Takara);DNMT3b,DAPK,Bax和RASSF1A一抗(美国abcam);EpiTectBisulfiteKit(美国QIAGEN);荧光定量PCR仪(美国Agilent StratageneMx3000P)。
+
+# 1.2 细胞培养
+
+膀胱癌细胞株BIU-87培养于含 $10 \%$ 胎牛血清的RPM1640培养基中， $3 7 \ \mathrm { ^ { \circ } C } , 5 \% \mathrm { C O } _ { 2 }$ 培养箱内培养，常规更换生长液，消化传代，实验时用处于对数生长期的细胞。
+
+# 1.3慢病毒包装及稳定细胞株筛选
+
+DNMT3bshRNA病毒质粒及慢病毒颗粒由上海吉玛设计并包装完成。方法简述如下：根据DNMT3b的siRNA靶序列（AGATGACGGATGCCTAGAG)及对照（negative control,NC） siRNA序列（TTCTCCGAACGTGTCACGTTTC)设计用于构建慢病毒颗粒的shRNA序列。利用基因合成的方法合成慢病毒穿梭质粒LV3-DNMT3b-shRNA和LV3-NC-shRNA。将合成的质粒测序确定序列正确后，按照常规方法进行慢病毒包装。收毒后进行病毒浓缩，并进行滴度测定。
+
+按照感染复数 $\mathbf { M O I } { = } 5 0$ 感染BIU-87细胞，根据杀伤曲线确定 $0 . 6 ~ \mu \mathrm { g / m L }$ 的Puromycin做为筛选浓度。Puromycin筛选1周后进行亚克隆筛选,挑选出正常生长细胞群传代，Puromycin筛选压力下培养1周得到稳定表达DNMT3bsiRNA的BIU-87细胞（DNMT3bsiRNA)及对照细胞(NC)。
+
+# 1.4荧光定量PCR
+
+将得到的DNMT3bsiRNA和NC稳定细胞株进行扩大培养,收集细胞后TRIzol法提取细胞的总RNA,oligodT法反转录后进行荧光定量PCR检测。DNMT3b检测引物为:F5'GGCAAGTTCTCCGAGGT-CTCTG3'，R5'TGGTACATGGCTTTTCGATAGGA3';DAPK检测引物为：F5'TGGATATGACAAAGACACATC3',R5'CTTCATGTCCTTTGACCCAGA3';Bax检测引物为：F5'ATGATTGCCGCCGTGGACAC3',R5'CCACCCTGGTCTTGGATCCA3';RASSF1A检测引物为:F5'ACAGCAACCTCTTCATGAGCT3'，R5'CAAGGAGGGTGGCTTCTTGCT3'。PCR扩增条件为：$9 4 \mathrm { ~ \% ~ 2 ~ \operatorname* { m i n } , 9 4 \mathrm { ~ \% ~ 2 0 ~ s , 5 8 ~ \% ~ 2 0 ~ s , 7 2 ~ \mathrm { ~ ‰ ~ } , 4 0 ~ \AA ~ } }$ 循环。融解曲线分析：温度 $6 2 { \sim } 9 5 \mathrm { ~ } \mathrm { \mathcal { C } } _ { \circ }$ 采用 $2 ^ { - \triangle }$ △法进行数据分析。实验重复3次。
+
+# 1.5 Western blot
+
+将得到的DNMT3bsiRNA和NC稳定细胞株进行扩大培养，收集细胞后RIPA裂解液提取细胞总蛋白。BCA法测定蛋白浓度，按照总蛋白一致的原则上样，$10 \%$ 的分离胶进行SDS-PAGE电泳; $1 0 0 { \mathrm { V } }$ 湿转 $5 0 ~ \mathrm { m i n }$ ，$5 \%$ 的脱脂奶粉 $3 7 ~ \mathrm { ^ { \circ } C }$ 封闭 $^ { \textrm { 1 h } }$ ;TBST洗 $1 0 \mathrm { m i n } , 3$ 次，然后对应的一抗（DNMT3b：1:1500;DAPK： $1 \colon 1 0 0 0$ ·Bax:1:2000;RASSF1A: $1 : 8 0 0 \dot { }$ 室温孵育 $^ { \textrm { 1 h } }$ ; TBST洗 $1 0 \ \mathrm { m i n } , 3$ 次，然后对应的二抗室温孵育 $4 0 ~ \mathrm { m i n }$ TBST洗 $1 0 \mathrm { m i n } , 3$ 次；暗室曝光。
+
+# 1.6MTT检测细胞增殖
+
+培养DNMT3bsiRNA和NC稳定细胞株至对数期，消化细胞，终止消化后离心弃去培养液，加入适量完全培养基重悬细胞，并进行细胞计数;调整细胞密度至$1 \times 1 0 ^ { 4 }$ ；混匀细胞悬液，取 $1 0 0 ~ \mu \mathrm { L }$ 细胞悬液加入96孔板，放入培养箱培养；分别于培养后24、48、72h后每孔加入$2 0 \mu \mathrm { L M T T }$ 溶液，放入培养箱孵育4小时;终止培养，小心吸弃孔内培养上清液，每孔加 $1 5 0 ~  { \mu \mathrm { L } }$ DMSO,振荡$1 0 \mathrm { m i n }$ ，使结晶物充分融解;酶联免疫监测仪检测，读取$\mathrm { \Delta D _ { 4 9 0 } }$ 数据。实验重复3次。
+
+# 1.7流式细胞仪检测细胞凋亡
+
+培养DNMT3bsiRNA和NC稳定细胞株至对数期，将细胞培养板各组的培养基分别转移到 $1 5 ~ \mathrm { m L }$ 的锥形管中并置于冰上。用 $2 { \mathrm { m L } }$ PBS溶液轻轻润洗培养板内细胞，去除PBS溶液；加入 $0 . 5 ~ \mathrm { m L } ~ 0 . 2 5 \%$ 胰酶，孵育，直到显微镜下观察到细胞开始从培养板壁脱落；轻轻连续拍打使细胞从培养板壁上完全脱落;将细胞轻轻重悬于之前收集的培养基，使得其密度大约为 $1 \mathrm { { \times } 1 0 ^ { 6 } / m L }$ ；将$0 . 5 ~ \mathrm { m L }$ 细胞悬液从细胞培养板中( $\left. 5 \times 1 0 ^ { 5 } \right.$ 转移到一个干净的离心管内;加入染色液：将细胞用 $0 . 5 ~ \mathrm { m L }$ 预冷的$1 \times$ 结合缓冲液轻轻重悬，加入 ${ 5 \mu \mathrm { L } }$ Annexin V-FITC和$1 0 ~ \mu \mathrm { L }$ PI;避光孵育 $1 5 ~ \mathrm { m i n }$ 后，用流式细胞仪检测分析。实验重复3次。
+
+# 1.8裸鼠成瘤实验
+
+将得到的DNMT3bsiRNA和NC稳定细胞株进行扩大培养，消化细胞并进行细胞计数，调整细胞密度至 $2 { \times } 1 0 ^ { 7 }$ ;将裸鼠适应性饲养3d,适应性饲养结束后，将裸鼠随机分为2组：对照组和DNMT3bsiRNA，每组5只裸鼠。准备 $1 ~ \mathrm { m L }$ 注射器，将细胞混合均匀后，吸入
+
+$2 0 0 { \mu \mathrm { L } }$ （约 $4 \times 1 0 ^ { 6 } ,$ )细胞悬液注射到裸鼠的皮下，每只裸鼠选择一个点进行注射。每天对成瘤情况进行观察。待瘤体较明显后，用游标卡尺测量瘤体的长径和短径，测量频率是5\~7d1次。饲养结束后，处死裸鼠，取出皮下肿瘤，拍照。
+
+# 1.9甲基化特异性PCR检测
+
+培养DNMT3bsiRNA和NC稳定细胞株至对数期，收集细胞使用煮沸法提取细胞DNA。使用QIAGEN的EpiTectBisulfiteKit进行亚硫酸氢盐修饰处理。参照文献报道合成DAPK],Bax[和RASSF1A[的MSP检测的引物。取 $1 ~ \mu \mathrm { L }$ 处理后的DNA进行PCR反应，反应条件为：按照 $9 4 \ \mathrm { ^ { \circ } C } , 5 \ \mathrm { m i n } ; 9 4 \ \mathrm { ^ { \circ } C } , 3 0 \ \mathrm { s } , 5 2 \ \mathrm { ^ { \circ } C } , 3 0 \ \mathrm { s } .$ $7 2 \ \mathrm { ^ { \circ } C } , 3 0 \ \mathrm { s } , 4 5$ cycles; $7 2 ^ { \circ } \mathrm { C } , 1 0 \mathrm { m i n } ; 4 ^ { \circ } \mathrm { C } ,$ 保存,扩增目的基因。反应结束后，取 ${ } _ { 5 \mu \mathrm { L } }$ 扩增产物进行 $2 \%$ 的琼脂糖凝胶电泳分析。
+
+# 1.10 统计学分析
+
+所有计量资料均采用均数 $\pm$ 标准差表示，采用SPSS18.0统计软件进行分析，样本均数的比较采用
+
+Student's $\mathbf { \chi } _ { t }$ 检验和One-wayANOVA,双侧 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1DNMT3b低表达稳定细胞株的构建及鉴定
+
+将慢病毒以 $\mathrm { \bf M O I } { = } 5 0$ 感染BIU-87细胞，并进行稳定细胞株的筛选。如图1A所示，经过稳定筛选，对照病毒组(简称为NC)及DNMT3b siRNA病毒组(简称为siRNA)BIU-87细胞中均成功表达绿色荧光蛋白(GFP)。为进一步确定DNMT3b表达是否被成功降低，我们利用荧光定量PCR和Westernblot的方法检测了2组细胞中DNMT3b的表达水平。如图1B所示，稳定表达DNMT3bsiRNA可以显著降低DNMT3b的mRNA水平 $\left( P { < } 0 . 0 1 \right)$ 。如图1C所示，稳定表达DNMT3bsiRNA可以明显降低DNMT3b的蛋白水平。说明，DNMT3bsiRNA可以稳定低表达BIU-87细胞中的DNMT3b，细胞可以用于后续实验。
+
+![](images/7a9f1874fef10e083fb204646d7099efe7ec2f678f126e47521cf8b050f02601.jpg)  
+图1稳定细胞株中DNMT3b表达水平鉴定  
+Fig.1 Identification of DNMT3b expression level in stable cells.A:Cells under fluorescence microscope;B:DNMT3b mRNA level detected by real-time quantitative PCR;C: DNMT3b protein level detected by Western blotting. $* * P { < } 0 . 0 1$ vs NC group.
+
+# 2.2DNMT3b稳定低表达抑制BIU-87细胞的生长
+
+将2组稳定细胞株分别培养24、48、72h后进行MTT检测，检测结果如图2A所示：培养24h后，siRNA干扰DNMT3b的表达对细胞生长的影响相比于NC组没有明显变化，但培养 $4 8 \mathrm { ~ h ~ }$ 和72h后,siRNA干扰DN-MT3b的表达对细胞生长的影响相比于NC组有显著性变化，DNMT3b低表达可以抑制BIU-87细胞的生长。为了进一步确认DNMT3b低表达对BIU-87细胞生长的影响，我们构建了裸鼠皮下成瘤模型，结果如图2B和2C所示。通过不定期测量瘤体的大小，我们绘制了瘤体生长曲线，结果如图2B所示：注射细胞后7\~13c,瘤体生长缓慢，2组细胞所成瘤体没有明显的差异;注射细胞后16d的测量结果显示，虽DNMT3bsiRNA组的瘤体的平均体积比NC组小,但无统计学意义（ $( P { > } 0 . 0 5 )$ ；注射细胞后20d和25d的测量结果显示，DNMT3bsiR-NA组的瘤体的平均体积明显比NC组小，具有统计学意义 $( P { < } 0 . 0 1 )$ 。饲养结束,将瘤体取下并进行拍照,结果如图2C所示，DNMT3bsiRNA组的瘤体的体积明显比NC组小。这些结果表明，DNMT3b低表达可以抑制BIU-87细胞的生长。
+
+# 2.3DNMT3b稳定低表达促进BIU-87细胞的凋亡
+
+采用流式细胞仪对DNMT3bsiRNA和NC组的BIU-87细胞凋亡情况分别进行检测(图3)。DNMT3bsiRNA和NC组细胞的早期调亡细胞比例分别为：
+
+![](images/661f54478b9958875accc1f0e06e452f90621caae5a861abcb206a303285d5d6.jpg)
+
+中 $1 9 . 6 { \pm } 1 8 ) \%$ 和 $( 6 . 7 \pm 1 . 6 ) \%$ ,两组相比具有统计学意义$( P { < } 0 . 0 1 )$ 。
+
+2.4DNMT3b稳定低表达对细胞生长及调亡相关基因甲基化的影响
+
+采用甲基化特异性PCR检测DNMT3b稳定低表达对细胞凋亡相关基因甲基化的影响。与NC组相比较，DNMT3b稳定低表达可以减少细胞生长和凋亡相关基因DAPK，Bax和RASSF1A启动子区域的甲基化水平(图4)。
+
+# 2.5DNMT3b稳定低表达对细胞生长及调亡相关基因表达的影响
+
+采用荧光定量PCR和Westernblot检测DNMT3b稳定低表达对细胞凋亡相关基因mRNA的蛋白水平表达的影响。荧光定量PCR结果如图5A所示：与NC组相比，DNMT3b稳定低表达可以增加细胞生长和凋亡相关基因DAPK，Bax和RASSF1AmRNA的表达。Westernblot结果如图5A所示：与NC组相比，DNMT3b稳定低表达可以增加细胞生长和凋亡相关基因DAPK，Bax和RASSF1A蛋白的表达。
+
+![](images/484e1e1adce868329074f64753a2086c0d696786473894e8a89badbbb1511a17.jpg)  
+图3DNMT3b稳定低表达促进BIU-87细胞的凋亡 Fig.3 Stable DNMT3b knockdownpromotedthe apoptosis of BIU-87 cells.A:Representative results of flow cytometry in each group;B: Statistical analysis of percentages of early apoptotic cells in each group. $* * P <$ 0.01, when compared to NC group.
+
+![](images/01e2dc1523a50cff782c150ddd7001f97de05392ce9ed91a6d706b08d8952739.jpg)  
+图2DNMT3b稳定低表达抑制BIU-87细胞的生长 Fig.2 Stable DNMT3b knockdown suppressed the growth of BIU-87 cells.A:MTT assay.B:Growth curve of tumor volume in each group;C: Tumors dissected in each group. $* * P { < } 0 . 0 1$ ,when compared to NC group. $^ { * * * } P { > } 0 . 0 5$ ：   
+图4甲基化特异性PCR检测DNMT3b稳定低表达 对细胞生长及凋亡相关基因甲基化的影响 Fig.4 Effect of stable DNMT3b knockdown on methylation of cell growth and apoptosis related genes detected by methylation specific PCR. $\ast \ast P <$ 0.01, when compared to NC group.
+
+# 3讨论
+
+传统观点认为肿瘤的发生发展是各种物理化学或生物因素造成的DNA序列变异，从而导致细胞生长分化失控，最终造成肿瘤的形成。近年来，随着研究的深入，人们发现表观遗传在肿瘤的发生发展过程中也起着非常重要的作用。DNA甲基化是基因表达调控重要的表观遗传修饰方式之一，和肿瘤的形成密切相关。DNMT3b是重要的甲基转移酶，起着从头甲基化的作用[4。有研究表明，DNMT3b在包括膀胱癌的多种癌症中显著性高表达[5-7],有利用瞬时转染 shRNA的方法检测干扰DNMT3b表达对膀胱癌细胞BIU-87的影响，但结果表明瞬时干扰DNMT3b的表达对BIU-87细胞的生长和凋亡均没有明显的影响[8。我们的研究发现,DNMT3b稳定低表达可以明显抑制BIU-87细胞的生长并诱导细胞的凋亡。另外，我们还开展了裸鼠成瘤实验验证DNMT3b低表达在体内的环境下是否也可以抑制瘤体的生长，结果表明，DNMT3b低表达可以抑制裸鼠皮下肿瘤的生长。但这一结果与之前利用瞬时转染DNMT3bshRNA对BIU-87细胞的影响不同。针对这一矛盾的结果,我们分析可能是由于不同的转染方式及检测时间不同造成的。另外，前人关于DNMT3b的研究结果也支持我们目前的结果。首先，我们目前的研究与DNMT3b在肝癌中的作用是一致的，转染siRNA干扰DNMT3b的表达可以抑制肝癌细胞SMMC-7721和BEL-7402的细胞生长,诱导细胞的凋亡[;其次,在结肠癌和前列腺癌细胞中通过过表达microRNA抑制DNMT3b的表达同样可以抑制癌细胞的生长，并促进癌细胞的凋亡[712];再次,利用甲基化抑制剂5-aza-2'-deoxycytidine抑制DNMT3b的活性也可以抑制癌细胞的细胞周期,并促进癌细胞的凋亡[13];这些结果都说明DNMT3b的低表达有利于抑制癌细胞的生长和促进细胞的凋亡，这和我们本文的研究结果是十分吻合的。结果与DNMT3b在肝癌细胞中的作用一致。
+
+![](images/c14d3e67d63e168ecd027a5735ebebe576cacc06061b2119e5fe07aae2e5ae43.jpg)  
+图5DNMT3b稳定低表达对细胞生长及调亡相关基因表达的影响  
+Fig.5 Effect of stable DNMT3b knockdown on the expression of cell growth and apoptosis related genes.A: mRNA expressions of the genes detected by real-time quantitative PCR;B: Protein expressions of the genes detected by Western blotting. $^ { * * } P { < } 0 . 0 5$ ：
+
+为进一步探讨DNMT3b调控膀胱癌细胞生长及调亡的机制,我们研究了促凋亡基因相关基因(DAPK,Bax和RASSF1A)启动子区域特异位点的甲基化水平，并检测了这些基因mRNA和蛋白表达水平的变化。结果表明DNMT3b稳定低表达可以减少凋亡相关基因DAPK,Bax和RASSF1A启动子区域的甲基化水平。与甲基化检测结果相吻合的是，DNMT3b稳定低表达可以增加凋亡相关基因DAPK,Bax和RASSF1AmRNA和蛋白水平的表达。一般情况下，DNA甲基化可以抑制基因的转录，而去甲基化则可以激活基因的转录，这说明DNMT3b可能通过调控这些基因的甲基化水平参与调控癌细胞的生长和凋亡。RASSF1A、DAPK和Bax是重要的凋亡相关基因，目前已知这3个基因的功能为诱导细胞凋亡[14-16]。有研究表明,RASSF1A和DAPK同样发挥抑制癌细胞生长的作用[16-17]。从目前的研究可以看出,3个基因均发挥抑癌基因的作用。另外，膀胱癌组织中DAPK和RASSF1A基因甲基化程度明显高于正常膀胱粘膜组织,但膀胱癌组织中Bax的甲基化水平和正常膀胱癌组织相比没有明显的变化[18]。其中，DAPK的甲基化水平变化和膀胱癌的复发密切相关，RASSF1A的甲基化水平和膀胱癌的肿瘤分期密切相关[18-19]。我们研究发现,稳定低表达DNMT3b可以显著的减少抑癌基因RASSF1A、DAPK和Bax的甲基化水平，同时促进这3个基因的表达。基于前人关于RASSF1A、DAPK和Bax的甲基化与膀胱癌发生发展的关系的研究，我们推测DNMT3b可能只通过影响RASSF1A和DAPK的甲基化而影响膀胱癌的发生发展。虽然DNMT3b也可以影响Bax的甲基化及其表达，但Bax可能不直接参与膀胱癌的发生发展,或者其功能的发挥受其他基因的共同调控。膀胱癌的发生发展是一个多基因参与的复杂过程，我们的结果说明了DNMT3b稳定低表达可以影响细胞生长和凋亡相关基因的甲基化进而影响基因的表达，从而调控膀胱癌的发生发展，但具体的机制需要进一步探讨。
+
+综上所述，DNMT3b稳定低表达能在体内和体外有效抑制膀胱癌细胞的生长，并能促进细胞的凋亡，其机制可能和DNMT3b通过DNA甲基化调控细胞生长和凋亡相关基因(DAPK，Bax和RASSF1A)的表达有关。本研究提供了DNMT3b在膀胱癌细胞中调控细胞生物学行为的理论基础，DNMT3b有望成为膀胱癌基因治疗的新靶点，但DNMT3b稳定低表达抑制膀胱癌细胞增殖、诱导细胞凋亡的详细机制有待进一步研究。
+
+# 参考文献：
+
+[1]Jemal A,Bray F,Center MM, et al.Global cancer statistics[J].CA CancerJClin,2011,61(2):69-90.   
+[2]Babjuk M,Burger M, Zigeuner R,et al. EAU guidelines on nonmuscle-invasive urothelial carcinoma of the bladder: update 2013 [J].Eur Urol,2013,64(4): 639-53.   
+[3]Ehrlich M.Expression of various genes is controlled by DNA methylation during mammalian development[J].J Cell Biochem, 2003,88(5):899-910.   
+[4]Velicescu M,Weisenberger DJ,Gonzales FA,et al. Cell division is required for de novo methylation of CpG islands in bladder cancer cells[J].Cancer Res,2002,62(8): 2378-84.   
+[5］吴振启,张旭,刘毅,等.DNMT1和DNMT3b基因在人膀胱癌组织 和细胞中的表达及意义[J].华中科技大学学报:医学版,2009,38(3): 321-4.   
+[6]Oh BK,Kim H,Park HJ,et al.DNA methyltransferase expression and DNA methylation in human hepatocellular carcinoma and their clinicopathological correlation[J]. Int J Mol Med,2OO7,20(1): 65-73.   
+[7]Joensuu EI,Nieminen TT,Lotsari JE,et al．Methyltransferase expression and tumor suppressor gene methylation in sporadic and familial colorectal cancer[J].Genes Chromosomes Cancer, 2O15,54 (12): 776-87.   
+[8］吴振启,张旭,刘毅,等.DNMT1、DNMT3b siRNA重组质粒转染 对人膀胱癌细胞DNMTs表达的影响及其生物学效应[J].临床泌尿 外科杂志,2010,25(2):142-6.   
+[9］林 就,于正洪,陈龙邦,等.应用改进MSP法检测非小细胞肺癌患者 血清DAPK基因甲基化[J].现代检验医学杂志,2006,21(5):16-18.   
+[10]Bae YK,Brown A,Garrett E,et al.Hypermethylation in histologically distinct classes of breast cancer[J]. Clin Cancer Res,2004, 10(18 Pt 1): 5998-6005.   
+[11]刘 培,姜相君,吕 梅,等.MSP法检测胃癌组织中RASSF1A基因启 动子区甲基化改变[J].现代肿瘤医学,2010,18(7):1348-50.   
+[12]Yan B,Guo Q,Nan XX,et al.Micro-ribonucleic acid 29b inhibits cell proliferation and invasion and enhances cell apoptosis and chemotherapy effects of cisplatin via targeting of DNMT3b and AKT3 in prostate cancer[J]. Onco Targets The,2015,8:557-65.   
+[13]Cui M,Wen Z,Chen J,et al. 5-Aza-2'-deoxycytidine is a potent inhibitor of DNA methyltransferase 3B and induces apoptosis in human endometrial cancer cell lines with the up-regulation of hMLH1[J]. Med Onco,2010,27(2): 278-85.   
+[14]Alshatwi AA, Subash-Babu P,Antonisamy. Violacein induces apoptosis in human breast cancer cells through up regulation of BAX,p53 and down regulation of MDM2[J].Exp Toxicol Pathol, 2015,28(15):30025-7.   
+[15] Geering B. Death-associated protein kinase 2: Regulator of apoptosis,autophagy and inflammation[J].Int J Biochem Cell Biol 2015,65:151-4.   
+[16]Fu L, Zhang S.RASSF1A promotes apoptosis and suppresses the proliferation of ovarian cancer cells[J]. Int JMol Med,2014,33(5): 1153-60.   
+[17] Zhao J, Zhao D,Poage GM,et al. Death-associated protein kinase 1 promotes growth of p53-mutant cancers[J].J Clin Invest, 2015,125 (7):2707-20.   
+[18]Friedrich MG,Weisenberger DJ, Cheng JC,C et al.Detection of methylated apoptosis-associated genes in urine sediments of bladder cancer patients[J].Clin Cancer Res,2004,10(22): 7457-65.   
+[19]Friedrich MG,Toma MI,Chun JK,et al.DNA methylation on urinalysis and as a prognostic marker in urothelial cancer of the bladder[J]. Urologe A,2007,46(7): 761-8.
+
+(编辑：孙昌朋)

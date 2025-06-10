@@ -1,0 +1,174 @@
+巨大芽孢杆菌1259制剂对比丝兰素、枯草芽孢杆菌对产蛋鸡生产性能及排泄物中氨氮含量
+
+的影响
+
+丁文骏」王强² 戴美梅」张为利」张艳云1\*（1.扬州大学动物科学与技术学院，扬州 225009；2.中国农业科学院家禽研究所，扬州 225125）
+
+摘要：本文旨在比较饲粮中添加巨大芽孢杆菌1259（BM1259）制剂与丝兰素、枯草芽孢杆菌对产蛋鸡生产性能及排泄物中氨氮含量的影响。选用384只300日龄健康、产蛋率相近的海兰褐蛋鸡，随机分为4组，每组6个重复，每个重复16只鸡。对照组饲喂基础饲粮，试验组分别在基础饲粮中添加 $1 0 0 \mathrm { m g / k g }$ BM1259 制剂、丝兰素和枯草芽孢杆菌。预试期14d，正试期 $4 2 \mathrm { d }$ 。结果表明：1）与对照组相比，BM1259 组极显著提高了总产蛋重、产蛋数、产蛋率和平均蛋重( $\scriptstyle \overleftarrow { P } < 0 . 0 1 \$ )，极显著降低了料蛋比( $\scriptstyle \overleftarrow { P } < 0 . 0 1 \$ )，其结果与枯草芽孢杆菌组相近，优于丝兰素组。2)与对照组相比，BM1259 组极显著降低了蛋鸡排泄物中氨态氮、尿酸、尿素氮含量和脲酶活性( $\scriptstyle \overleftarrow { P } < 0 . 0 1$ )，其结果与丝兰素组相近，优于枯草芽孢杆菌组。3）饲粮中添加 BM1259 制剂相对于添加丝兰素或枯草芽孢杆菌能够获得更大的经济效益。由此可见，在蛋鸡饲粮中添加BM1259 制剂能提高生产性能、增加利润并具备较优的除氨除臭作用。
+
+关键词：巨大芽孢杆菌；丝兰素；枯草芽孢杆菌；蛋鸡；生产性能；氨氮含量中图分类号：S831 文献标识码： 文章编号：
+
+家禽生产中，由于氨气挥发所产生的恶臭一直为人们所重视，畜禽生产过程中产生的氨气已成为全球最大的污染源[1]，传统的通风等手段固然能降低鸡舍内氨气含量，但依旧会污染鸡舍外大环境。作为除臭型饲料添加剂，仅有丝兰素(Yucca)提取物是在我国最新的《饲料添加剂品种目录（2013)》[2]之列，但因其种植条件要求高，主要依赖进口，故资源有限、价格昂贵，应用并不广泛。枯草芽孢杆菌（Bcillus subtilis,BS）是我国批准使用的益生菌，也是目前国内外应用最为广泛的芽孢杆菌类添加剂，多位学者已就枯草芽孢杆菌在鸡生产中的应用进行了研究。巨大芽孢杆菌1259（Bacillus megaterium1259,BM1259）制剂是一种正在研发的新型除臭调理饲料添加剂，其表现出了一定的除臭效果和提高生产性能的作用。苏子峰等[3研究发现，在饲粮中添加丝兰素提取物能显著降低氨态氮含量；王晓霞等[4在肉鸡饲粮中添加枯草芽孢杆菌，降低了发酵粪挥发的氨气含量。课题组前期研究表明，在饲粮中添加 $2 \times 1 0 ^ { 6 }$ CFU/gBM1259制剂可降低冬季密闭鸡舍空气氨含量 $5 3 \% \sim 7 4 \%$ ，硫化氢含量$5 5 \% \sim 9 0 \% ^ { [ 5 ] }$ ，表明其有成为除臭型饲料添加剂的潜力；在蛋鸡饲粮中进行了不同添加水平的试验研究表明，BM1259制剂对蛋鸡的生产性能有促进作用，且除臭功能与添加水平有正向关联性，其中添加量为 $1 0 0 \mathrm { m g / k g }$ 最优，但其与其他类型除臭型添加剂相比，效果如何，未见此类研究报道。因此，本试验旨在研究在饲粮中添加BM1259 制剂与丝兰素及枯草芽孢杆菌2种研究较多的添加剂进行对比，通过对蛋鸡产蛋性能及粪中氨氮含量的测定分析来了解3种添加剂的功效，为BM1259制剂在蛋鸡生产中对生产性能的影响及作为降低挥发性氨氮危害、提高蛋鸡环境福利质量的应用提供依据。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+选取384只300日龄健康及体重、产蛋率差异不显著( $P { > } 0 . 0 5$ ）的海兰褐蛋鸡，随机分为4个组，每组6个重复，每个重复16只鸡。对照组饲喂参考海兰褐蛋鸡营养需求配制的基础饲粮(其组成及营养水平表1)，试验组分别在基础饲粮中添加100 mg/kg BM1259 制剂、丝兰素和枯草芽孢杆菌。预试期14d，正试期 $4 2 \mathrm { d }$ 。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1 Composition and nutrient levels of the basal diet(air-dry basis )
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料 Ingredients</td></tr><tr><td>玉米 Corn 61.28</td></tr><tr><td>豆粕 Soybean meal 25.00</td></tr><tr><td>石粉 Limestone 7.60</td></tr><tr><td>DL-蛋氨酸DL-Met 0.12</td></tr><tr><td>贝壳粉 Shell powder 1.00</td></tr><tr><td>预混料 Premix1) 5.00</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能 ME/(MJ/kg) 10.878</td></tr><tr><td>粗蛋白质 CP 16.426</td></tr><tr><td>赖氨酸Lys 0.779</td></tr><tr><td>蛋氨酸Met 0.370</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys 0.650</td></tr><tr><td>钙Ca 3.319</td></tr><tr><td>总磷TP 0.316</td></tr><tr><td>非植酸磷 NPP 0.119</td></tr></table></body></html>
+
+1每千克预混料含 One kg of premix contained the following:VA 1 580 00 IU，VD 355000 IU,VE 300 IU,VK $4 0 \mathrm { m g }$ ，硫胺素thiamine $3 0 \mathrm { m g }$ ，核黄素riboflavin $8 5 ~ \mathrm { m g }$ ，泛酸钙calcium pantothenate $2 0 0 ~ \mathrm { { m g } }$ ，烟酸 nicotinic acid $4 9 8 ~ \mathrm { { m g } }$ ，吡哆醇 pyridoxine $8 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 5 \mathrm { m g }$ ，生物 素biotin $2 \ : \mathrm { m g }$ ，胆碱choline $9 . 2 \mathrm { m g }$ , Fe (as ferrous sulfate) $6 0 \mathrm { m g }$ , Cu (as copper sulfate) $8 \ : \mathrm { m g }$ Zn (as zinc sulfate) $6 6 ~ \mathrm { m g }$ ， $\mathrm { M n } 6 5 \mathrm { m g }$ ，Se $0 . 3 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ } 1 \ : \mathrm { m g }$ ，Ca $1 7 0 \ \mathrm { g }$ ， $\mathbf { P } 2 8 \ \mathrm { g }$ 。
+
+2’营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.2 试验材料
+
+BM1259 制剂由"新型生物饲料添加剂-BM1259 的研制"课题组提供，批号：20120731,巨大芽孢杆菌有效活菌含量为 $1 { \times } 1 0 ^ { 1 0 } \mathrm { C F U / g }$ 。丝兰素采购自上海优久生物科技有限公司，批号：BPW-080，推荐剂量为 $1 0 0 ~ \mathrm { { m g / k g } }$ 。枯草芽孢杆菌购自扬州绿科生物有限公司，推荐剂量为 $1 0 0 \mathrm { m g / k g }$ 。
+
+# 1.3 饲养管理
+
+试验鸡舍自然通风，试验鸡2只/笼，自由采食、饮水，光照程序 $1 6 . 5 \mathrm { ~ h ~ }$ 光照， $7 . 5 \mathrm { h }$ 黑暗。定期清粪，保持舍内清洁卫生。
+
+# 1.4排泄物的采集
+
+分别于正试期第 28、31、35天08:00时，收集试验鸡排出的 $3 0 \mathrm { m i n }$ 内未被污染的新鲜排泄物，放入冰盒中，封盒、 $- 4 0 ~ \mathrm { { ^ \circ C } }$ 保存。
+
+# 1.5 生产性能
+
+试验期间，每天按重复记录日产蛋数、日产蛋量、采食量和死淘情况，统计试验期间各组的总产蛋重、产蛋数、产蛋率、平均蛋重、平均日耗料量、料蛋比以及存活率。统计方法参照《中华人民共和国农业行业标准家禽生产性能名词术语和度量统计方法》[6]。
+
+1.6排泄物中氨氮含量及脲酶、尿酸酶活性的测定
+
+氨态氮含量的测定采用靛酚蓝比色法[7]。尿素氮和尿酸含量的测定采用试剂盒法，试剂盒均购自南京建成生物工程研究所。
+
+脲酶活性的测定采用靛酚蓝比色法[7]。尿酸在 $2 8 0 ~ \mathrm { n m }$ 有1个吸收峰，测定反应前后溶液光密度值的变化，表示尿酸酶活性[8]。尿酸酶活性以反应前后溶液光密度之差表示，以对照组作为基准，计算各试验组尿酸酶的相对活性。
+
+# 1.7 数据统计分析
+
+用 Excel整理数据，采用 SPSS18.0软件中的单因素方差分析，LSD法进行多重比较，结果以平均值±标准误表示。
+
+# 2结果与分析
+
+2.1BM1259 制剂与丝兰素、枯草芽孢杆菌对蛋鸡生产性能的影响
+
+由表2可知，与对照组相比，BM1259 组及枯草芽孢杆菌组均极显著提高了总产蛋重和平均蛋重（ $P { < } 0 . 0 1$ )，BM1259组与丝兰素组均极显著降低了料蛋比（ $\scriptstyle P < 0 . 0 1$ ），BM1259
+
+组极显著提高了产蛋数及产蛋率（ $( P { < } 0 . 0 1 \$ )，枯草芽孢杆菌组显著提高了产蛋数与产蛋率（ $\cdot P$ $< 0 . 0 5 \$ )，而丝兰素组显著降低了产蛋率和日只采食量（ $\scriptstyle P < 0 . 0 5 .$ )，并极显著降低了存活率（ $\scriptstyle P < 0 . 0 1 { \mathrm { ~ , ~ } }$ ）°
+
+BM1259组对比丝兰素组极显著提高了总产蛋重、产蛋数、产蛋率和存活率（ $\cdot < 0 . 0 1$ ),显著提高了日只采食量（ $\cdot P { < } 0 . 0 5 )$ ；BM1259组对比枯草芽孢杆菌组极显著降低了料蛋比（ $P$ ${ < } 0 . 0 1 )$ 。
+
+表2BM1259 制剂与丝兰素、枯草芽孢杆菌对蛋鸡生产性能的影响
+
+Table 2Effects of BM1259,Yucca and BS on performance of laying hens   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4"></td></tr><tr><td>对照组</td><td>BM1259组</td><td>丝兰素组</td><td>枯草芽孢杆菌组</td></tr><tr><td>总产蛋重</td><td>Control group</td><td>BM1259 group</td><td>Yucca group</td><td>BS group</td></tr><tr><td>Total egg mass/kg</td><td>2.14±0.04Bb</td><td>2.32±0.04Aa</td><td>2.18±0.04Bb</td><td>2.25±0.07Aa</td></tr><tr><td>产蛋数 Egg production/个</td><td>38.27±0.45Bb</td><td>39.90±0.47Aa</td><td>37.79±0.60Bb</td><td>38.77±1.16ABa</td></tr><tr><td>产蛋率</td><td></td><td></td><td></td><td></td></tr><tr><td>Laying rate/% 平均蛋重</td><td>91.12±1.06Bb</td><td>95.00±1.12Aa</td><td>89.97±1.44Bc</td><td>92.32±2.75ABa</td></tr><tr><td>Average egg weight/g</td><td>55.79±0.22Bb</td><td>58.24±0.29Aa</td><td>57.70±0.12Aa</td><td>57.92±0.28Aa</td></tr><tr><td>日只采食量</td><td></td><td></td><td></td><td></td></tr><tr><td>Daily feed intake/g</td><td>126.05±1.76a</td><td>123.48±1.84a</td><td>118.29±2.14b</td><td>126.43±1.99a</td></tr><tr><td>料蛋比</td><td></td><td></td><td></td><td></td></tr><tr><td>Feed to egg ratio</td><td>2.35±0.07Aa</td><td>2.20±0.09Bb</td><td>2.22±0.05Bb</td><td>2.30±0.06Aa</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>存活率</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Survival rate/%</td><td>100.00±0.00Aa</td><td>100.00±0.00Aa</td><td>95.833±1.31Bb</td><td>100.00±0.00Aa</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著（ $P { < } 0 . 0 1 \ \cdot$ )，相同或无字母表示差异不显著（ $( P { > } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference （ $( P { < } 0 . 0 5 )$ , and with different capital letter superscripts mean significant difference ( $( P { < } 0 . 0 1 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as
+
+below.
+
+2.2BM1259制剂与丝兰素、枯草芽孢杆菌对蛋鸡排泄物中氨态氮、尿素氮及尿酸含量的影 响
+
+由表3可知，与对照组相比，BM1259组与丝兰素组均极显著降低了氨态氮、尿素氮及尿酸含量（ $\scriptstyle P < 0 . 0 1 .$ )，枯草芽孢杆菌组显著降低了尿素氮含量（ $\lceil P { < } 0 . 0 5 \rangle$ 0。
+
+BM1259组与丝兰素组对比枯草芽孢杆菌组均极显著降低了尿素氮含量（ $\scriptstyle \cdot < 0 . 0 1$ ，显著降低了尿酸含量（ $\scriptstyle P < 0 . 0 5 .$ )。BM1259组与丝兰素组之间除氨态氮含量有显著差异（ $P <$ 0.05)，其余指标无显著差异（ $P { > } 0 . 0 5 )$ °
+
+表3BM1259 制剂与丝兰素、枯草芽孢杆菌对蛋鸡排泄物中氨态氮、尿素氮及尿酸含量的
+
+# 影响
+
+Table 3Effects of BM1259, Yucca and BS on the contents of NH3-N,UN and UA in excrement of   
+
+<html><body><table><tr><td colspan="3">laying hens</td><td colspan="2">mg/g</td></tr><tr><td rowspan="3">项目Items</td><td colspan="3"></td></tr><tr><td>对照组</td><td>BM1259组</td><td>丝兰素组</td><td>枯草芽孢杆菌组</td></tr><tr><td>Control group</td><td>BM1259 group</td><td>Yucca group</td><td>BS group</td></tr><tr><td>氨态氮NH-N</td><td>1.05±0.07Aa</td><td>0.87±0.11Bb</td><td>0.71±0.12Bc</td><td>0.96±0.21ABb</td></tr><tr><td>尿素氮UN</td><td>0.40±0.02Aa</td><td>0.27±0.02Bc</td><td>0.26±0.04Bc</td><td>0.39±0.02Ab</td></tr><tr><td>尿酸 UA</td><td>2.10±0.18Aa</td><td>1.93±0.13Bb</td><td>1.88±0.07Bb</td><td>1.98±0.16ABa</td></tr></table></body></html>
+
+2.3BM1259 制剂与丝兰素、枯草芽孢杆菌对蛋鸡排泄物中脲酶和尿酸酶活性的影响
+
+由表4可知，与对照组相比，BM1259组、丝兰素组及枯草芽孢杆菌组均极显著降低了脲酶活性（ $\scriptstyle P < 0 . 0 1 { \dot { } }$ )，虽然各试验组的尿酸酶活性与对照组间无显著差异（ $\cdot P { > } 0 . 0 5 ) .$ ，但各试验组的尿酸酶活性均低于对照组。各试验组间2种酶活性差异均不显著（ $\mathrm { \Phi } _ { P > 0 . 0 5 } \mathrm { \cdot }$ ）
+
+表4BM1259 制剂与丝兰素、枯草芽孢杆菌对蛋鸡生产性能的影响
+
+Table 4Effects of BM1259, Yucca and BS on the activities of uricase and urease in excrement of   
+
+<html><body><table><tr><td colspan="5">laying hens</td></tr><tr><td rowspan="3">项目Items</td><td colspan="4"></td></tr><tr><td>对照组</td><td>BM1259组</td><td>丝兰素组</td><td>枯草芽孢杆菌组</td></tr><tr><td>Control group</td><td>BM1259 group</td><td>Yucca group</td><td>BS group</td></tr><tr><td>脲酶</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">Uricase/(mg/g) 尿酸酶</td><td>63.67±4.60Aa</td><td>43.05±1.65Bb</td><td>34.85±2.32Bb</td><td>40.70±4.75Bb</td></tr><tr><td>100.00±25.78</td><td>72.58±12.21</td><td>51.36±5.81</td><td>72.57±8.51</td></tr></table></body></html>
+
+2.4BM1259 制剂与丝兰素、枯草芽孢杆菌对经济效益的影响
+
+对添加3种添加剂后的蛋鸡经济效益，本研究也作了简单直观的预测分析，由表5可知，基础饲粮价格为 2.040元/kg，丝兰素市场参考价格为150 元/kg，枯草芽孢杆菌与BM1259制剂的市场参考价格为50元/kg。BM1259组、丝兰素组及枯草芽孢杆菌组的饲料价格分别为2.045、2.055及2.045元/kg。根据饲料总成本及鸡蛋收入计算，对照组、BM1259 组、丝兰素组及枯草芽孢杆菌组盈利分别为6.280、7.989、7.231及7.109元；每千克产蛋饲料成本分别是5.059、4.562、4.683及4.835元/kg。3种添加剂均能提升利润，降低造蛋成本，BM1259组盈利最多，每千克产蛋饲料成本最低。
+
+# 表5饲料成本与利润
+
+Table 5Feed cost and profit   
+
+<html><body><table><tr><td rowspan="4">项目 Items</td><td rowspan="4"></td><td colspan="4"></td></tr><tr><td>对照组</td><td>BM1259组</td><td>丝兰素组</td><td>枯草芽孢杆</td></tr><tr><td>Control</td><td>BM1259</td><td>Yucca group</td><td>菌组</td></tr><tr><td>group</td><td>group</td><td></td><td>BS group</td></tr><tr><td rowspan="2">鸡蛋收入 蛋重Egg weight/(kg/只) Egg income 单价Price/（元/kg）</td><td>2.135</td><td>2.324</td><td>2.180</td><td>2.246</td></tr><tr><td>8</td><td>8</td><td>8</td><td>8</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">收入Income/（元/只）</td><td colspan="3"></td><td rowspan="2">17.968</td></tr><tr><td></td><td>耗料量 Feed intake/(kg/只)</td><td>17.080</td><td>18..592</td><td>17.440</td></tr><tr><td>饲料成本 Feed cost</td><td>单价Price/（元/kg）</td><td>5.294</td><td>5.185</td><td>4.968</td><td>5.310</td></tr><tr><td></td><td>成本Cost/（元/只）</td><td>2.040</td><td>2.045</td><td>2,055</td><td>2.045</td></tr><tr><td colspan="2">利润 Profit/（元/只）</td><td>10.800</td><td>10.603</td><td>10.209</td><td>10.859</td></tr><tr><td colspan="2">每千克产蛋饲料成本</td><td>6.280</td><td>7.989</td><td>7.231</td><td>7.109</td></tr><tr><td colspan="2">Egg gain diet cost per kg/(元/kg)</td><td>5.059</td><td>4.562</td><td>4.683</td><td>4.835</td></tr></table></body></html>
+
+试验期间褐壳鸡蛋的市场价格为8元/kg。利润 $\mathbf { \bar { \rho } } = \mathbf { \bar { \rho } }$ 鸡蛋收入-饲料成本。
+
+The price of the brown-shelled egg was 8 RMB per kg during the experimental period. Profit=egg income-feed cost.
+
+# 3讨论
+
+本试验所用巨大芽孢杆菌和枯草芽孢杆菌均是芽孢杆菌制剂，在鸡生产中，芽孢杆菌制剂能提高生产性能并改善生产环境[9。丝兰素包含甾类皂苷、多糖、白黎芦醇和多酚等活性成分，具有减少氨气排放、调节肠道微环境、抑菌、提高免疫机能等作用[10]。
+
+枯草芽孢杆菌与巨大芽孢杆菌均是利用自身代谢、合成多种消化酶以及改善肠道菌群等途径改善饲料报酬，提高生产性能并显著降低氨氮排放量。Anas 等[通过在蛋鸡的基础饲粮中添加 $\mathrm { ~ \textmu ~ } _ { \mathrm { { g } / k g } }$ （ $2 . 3 { \times } 1 0 ^ { 5 }$ CFU/g）枯草芽孢杆菌，试验组的小肠绒毛高度及隐窝深度显著增加，从而增大营养吸收区域以显著改善蛋鸡的饲料转化率，能够提高产蛋量。Molnar 等[12]发现，在饲粮中添加枯草芽孢杆菌可以显著提高肉鸡增重和饲料转化率。王建彬等[3]利用枯草芽孢杆菌来研究鸡场除臭效果，发现添加枯草芽孢杆菌能明显降低肉鸡舍内氨气含量，能显著降低排泄物中总氮、尿素氮含量及血清尿素氮、氨态氮含量，并提高了氮的利用率。本试验中枯草芽孢杆菌组极显著提高了总产蛋重和平均蛋重，显著提高了产蛋数与产蛋率，其提高生产性能的功效与前人研究结果相符。同时，枯草芽孢杆菌组极显著降低了排泄物中的脲酶活性，显著降低了氨态氮含量，并有降低尿酸含量及尿酸酶活性的趋势，表现出一定的除臭除氨的能力。BM1259组与枯草芽孢杆菌组之间在生产性能上无显著差异，作用效果接近，均提升了经济效益，但在除臭功效上，比较枯草芽孢杆菌组极显著降低了尿素氮含量，并显著降低了尿酸含量，体现出了高其一筹的除臭能力。综上，BM1259 制剂在提高生产性能作用上可以媲美枯草芽孢杆菌，且除臭功效更有优越。
+
+丝兰素是一种脲酶抑制剂，同时其大分子及序列分子对氨气有吸附能力，成分中的多酚与氨分子具有较强的结合能力。程志斌等[14]在饲粮中添加丝兰素可显著降低鸡舍内氨气含量，马彦博等[15]试验发现，饲料中添加丝兰素能极显著降低鸡舍内氨气含量。同时，丝兰素有助于改善肠道微环境，提高营养吸收，提高免疫机能。贾淑庚等[6在肉鸡基础饲粮中添加 $6 0 ~ \mathrm { m g / k g }$ 丝兰素可以显著提高产蛋率，添加 $1 2 0 ~ \mathrm { m g / k g }$ 丝兰素可以降低料蛋比，低添加量时提高产量，添加量适当提高时改善料蛋比。本试验使用丝兰素能够极显著降低蛋鸡排泄物中的氨态氮、尿素氮、尿酸含量及脲酶活性，大幅度降低尿酸酶活性，由蛋鸡排泄物存放过程氨氮释放作用规律[17]可推断：排泄物中以上指标的差异将会更显著地表现于空气中的氨气含量，将有出色的除臭效果。除臭功效上BM1259组与丝兰素组结果相近，参考笔者前期所得 BM1259 制剂除氨除臭影响结果[18]，本试验 BM1259 制剂的添加量还未能充分发挥其除臭性能，有进一步提升的空间。生产性能各指标中，丝兰素组仅对料蛋比有显著改善作用，与贾淑庚等[16]的试验结果相似。虽然经济效益相近，但BM1259 组在生产性能上要优于丝兰素组，综合前人研究结果，本试验丝兰素组的添加量高于其改善生产性能的最佳剂量，试验结果符合预期。由试验结果可知，BM1259制剂有着与丝兰素相似的除臭功效且能更好的提高生产性能。
+
+本试验通过将BM1259 制剂与丝兰素及枯草芽孢杆菌进行对比，展现了BM1259 制剂全面的功效，即可除氨除臭功效也能提高生产性能：除臭效果不弱于丝兰素，提高生产性能可媲美枯草芽孢杆菌。同时，BM1259制剂在本试验中也表现出了最佳的经济效益，为其在生产中的应用提供了依据。
+
+# 4结论
+
+$\textcircled{1}$ 饲粮中添加BM1259制剂能够提高总产蛋重、平均蛋重，极显著提高产蛋数、产蛋率并降低料蛋比，试验结果与枯草芽孢杆菌制剂相似，优于丝兰素。
+
+$\textcircled{2}$ 饲料中添加BM1259制剂能够降低氨态氮含量、尿酸酶活性，显著降低尿素氮、尿酸含量及脲酶活性，试验结果接近丝兰素，略优于枯草芽孢杆菌制剂。
+
+$\textcircled{3}$ 饲粮中添加BM1259制剂相对于丝兰素及枯草芽孢杆菌制剂能获得最大的蛋鸡生产经济效益。
+
+# 参考文献：
+
+[1] WATHES C M,JONES JB,KRISTENSEN H H,et al.Aversion of pigs and domestic fowl to atmospheric ammonia[J].Transactions of the ASAE,2002,45(5):1605-1610.
+
+[2]农业部．《饲料添加剂品种目录(2013)》[中华人民共和国农业部公告第 2045号][EB/OL].[2014-01-03].http://www.hytwp99.com/content/?400.html.  
+[3] 苏子峰,张红兵,樊月圆,等.丝兰提取物与枯草芽孢杆菌对肉鸡生长性能及鸡舍有害气体的影响[J].饲料博览,2012(6):1-5.  
+[4] 王晓霞,易中华,计成,等.果寡糖和枯草芽孢杆菌对肉鸡肠道菌群数量、发酵粪中氨气和硫化氢散发量及营养素利用率的影响[J].畜牧兽医学报,2006,37(4):337-341.  
+[5] 张艳云,霍永久,戴承墉.巨大芽孢杆菌制剂对蛋鸡舍氨和硫化氢产生量的影响[C]//第二届全国畜禽和水产养殖污染监测与控制治理技术交流研讨会.厦门:中国环境科学学会,2008[6] 中华人民共和国农业部.中华人民共和国农业行业标准 家禽生产性能名词术语和度量统计方法[J].中国禽业导刊,2006,23(15):45-46.  
+[7] 蒲万霞,魏云霞,孟晓琴,等.靛酚蓝-分光光度法测定胃肠道内容物中氨态氮含量研究[J].甘肃农业大学学报,2008,43(5):13-17.  
+[8]关松荫.土壤酶及其研究方法[M].北京:农业出版社,1986:295-297.
+
+[9]丁文骏,张艳云,杨海明,等.芽孢杆菌制剂在鸡生产中的研究与应用[J].饲料研究,2015(13):22-25,30.
+
+[10]龚红,邹胜龙.丝兰提取物的研究与应用[J].饲料研究,2015(1):14-17,39.
+
+[11] ABDELQADER A,AL-FATAFTAH AR,DAS GEffects of dietary Bacillus Subtilis and inulin supplementationonperformance,eggshellquality,intestinalmorphologyandmicroflora composition of laying hens in the late phase of production[J].Animal Feed Science and Technology,2013,179(1/2/3/4):103-111.
+
+[12] MOLNAR A K,PODMANICZKY B,KURTI P,et al.Effect of different concentrations of Bacillus Subtilis on growth performance,carcase quality,gut microflora and immune response of broiler chickens[J].British Poultry Science,2011,52 (6):658-665.
+
+[13] 王建彬,刘晋娟,李小红,等.枯草杆菌培养物降低养鸡场氨气排放的研究报告[J].当代畜牧,2008(11):50-52.
+
+[14] 程志斌,樊月圆,张红兵,等.丝兰提取物与枯草芽孢杆菌对肉鸡舍臭气影响[J].饲料研究,2012(7):25-27.
+
+[15]马彦博,白东英,朱松波,等.丝兰属植物提取物降低鸡舍氨气浓度的研究[J].畜禽业,2003(10):14-15.
+
+[16] 贾淑庚,任灵肖,梁剑峰,等.丝兰属植物提取物对蛋鸡生产性能及蛋品质的影响[J].中国家禽,2014,36(16):34-37.
+
+[17] 张为利,喻礼怀,肖天荣,等.BM1259 与丝兰素对蛋鸡排泄物存放过程中氨氮释放作用的比较研究[J].饲料工业,2014,35(16):13-16.
+
+[18]丁文骏,王强,戴美梅,等.巨大芽孢杆菌1259对产蛋鸡生产性能及排泄物中含氮物浓度的影响[J].动物营养学报,2015,27(10):3140-3145.
+
+Effects of Bacillus megaterium 1259 Contrast with Yucca and Bacillus subtillis on Performance and Ammonia Nitrogen Content in Excrement of Laying Hens
+
+DING Wenjun1WANG Qiang²DAI Meimei1ZHANG Weili1ZHANG Yanyun1\* (1. College ofAnimal Science and Technology, Yang Zhou University, Yangzhou 225009, China;
+
+2.Poultry Institute, Chinese Academy of Agricultural Science, Yangzhou 225125, China)
+
+Abstract: This research was carried out to investigate the effects of Bacillus megaterium 1259 (BM1259) contrast with Yucca and Bacillus subtillis on performance and the content of ammonia nitrogen in excrement of laying hens.A total of three hundred and eighty four 3Oo-day-old healthy Hy-line variety brown laying hens with similar laying rate were selected and randomly assigned into four groups with six replicates per group and sixteen hens per replicate. Birds in the control group were fed a basal diet,and the others in experimental groups were fed the basal diet supplemented with $1 0 0 ~ \mathrm { \ m g / k g }$ BM1259，Yucca and Bacillus subtillis，respectively. The preliminary period lasted for 14 days and the experiment lasted for 42 days.The results showed as follows: 1) compared with the control group, the total egg mass, egg production, laying rate and average egg weight in BM1259 group were significantly increased $( P { < } 0 . 0 1 \$ ), and the feed to egg ratio was significantly decreased $( P { < } 0 . 0 1 )$ ),which was similar to Bacillus subtillis group,better than Yucca group.2) Compared with the control group, the ammonia nitrogen, usea nitrogen and uric acid contents and uricase activity in BM1259 group were significantly decreased $( P { < } 0 . 0 1 )$ ）， which was similar to Yucca group, better than Bacillus subtills group.3) Dietary supplanted with BM1259 had more profit than Yucca and Bacillus subtillis in this study. In conclusion, dietary supplemented with BMl259 can improve performance， increase profit and beter remove ammonia nitrogen and odor in the excrement of laying hens.
+
+Key words: Bacillus magaterium; Yucca; Bacillus subtillis; laying hens; performance; ammonia nitrogen content

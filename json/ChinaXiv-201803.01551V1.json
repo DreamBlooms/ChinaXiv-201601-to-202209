@@ -1,0 +1,224 @@
+[
+    {
+        "type": "text",
+        "text": "Enhanced thermoelectric performance of CuGaTe2 based composites incorporated with graphite nanosheets   \nJian Zhang\\*, Xiaoying Qin\\*, Di Li\\*, Yongfei Liu, Yuanyue Li, Chunjun Song,   \nHongxing Xin, Xiaoguang Zhu   \nKey Laboratory of Materials Physics， Institute of Solid State Physics， Chinese Academy of Sciences, 230031 Hefei, P.R. China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CuGaTe based composites incorporated with graphite nanosheets(GNs) ${ \\mathrm { C u G a T e } _ { 2 } } / x$ G $( \\mathrm { G } { = } \\mathrm { G N s }$ ， $0 { \\leq } \\mathrm { x } { \\leq } 3 . 0 4 \\nu o l . \\% )$ were prepared, and the thermoelectric properties of the composites were studied from 300 to $8 7 5 \\mathrm { ~ K ~ }$ . The results show that the incorporation of GNs into the $\\mathrm { C u G a T e } _ { 2 }$ matrix can enhance the Seebeck coefficient and power factor over the whole temperature range investigated due to energy filtering effects, and the reduction of thermal conductivity below 75OK owing to interface scattering. Although the resistivity increases, energy filtering significantly raises the Seebeck component, and the overall effect on power factor is positive. The sample with $2 . 2 8 ~ \\nu o l . \\%$ GNs had the largest ZT value, reaching O.93 at 873K, which is a ${ \\sim } 2 1 \\%$ improvement on pure CuGaTez. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Today, thermoelectrics are attracting ever increasing interest from researchers due to their advantages in effcient and environmentally friendly energy conversion [l4l. The efficiency of thermoelectric(TE) device is determined by the TE figure of merit, defined as $Z \\mathrm { T } = \\mathrm { S } ^ { 2 } \\sigma \\mathrm { T } / \\kappa$ ， where T, S, σ, and $\\kappa$ are the absolute temperatur, Seebeck coeficient, electric conductivity, and thermal conductivity, respectively. A good TE material should possess a high power factor $( \\mathrm { P F } { = } \\mathbf { S } ^ { 2 } \\sigma$ ）andlow thermal conductivity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The lead free material $\\mathrm { C u G a T e } _ { 2 }$ has been widely investigated as a promising candidate for thin film solar cels，photovoltaic devices,and so on [5-1l A p-type semiconductor with band gap of $\\mathrm { E _ { g } } { = } 1 . 2 \\mathrm { e V } ,$ ， CuGaTe2 has chalcopyrite structure of the space group I-42d. Until recently, it was reported as a promising thermoelectric (TE) candidate material. Theerayuth Plirdpring et al[2] found that pure $\\mathrm { C u G a T e } _ { 2 }$ had high ZT value at high temperatures.To enhance the TE performance of $\\mathrm { C u G a T e } _ { 2 }$ ，we introduced graphite nanosheets (GNs) into the matrix as a secondary phase. The aim of this approach is to obtain a smaller thermal conductivity k due to effective interface scatering [3-15],and to tailor the transport properties of $\\mathrm { C u G a T e } _ { 2 }$ via enhancement of the carrier mobility through the injection of ultrahigh mobility electrons from the GNs[l6]. Experimental details are provided in the supplemental materials and in the Experimental section[17]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure I(a) shows the Raman spectra taken trom GNs and the composites ${ \\mathrm { C u G a T e } _ { 2 } } / x$ G $( 0 { \\le } \\mathrm { x } { \\le } 3 . 0 4 ~ \\nu o l . \\% )$ , three peaks marked with “D”,“G” and “2D” can be clearly identified, which are assigned to the D band (defects or edge areas) and G band (the vibration of sp2 hybridized carbon) excitations[18]，which suggest the presence of GNs. The “2D” mode appears to be flat and weak as compared to the “G” mode, indicating that the materials may be multi layered graphene [9.20]. Figure S1[z] shows XRD patterns of the pure $\\mathrm { C u G a T e } _ { 2 }$ and the composite samples,all the diffraction peaks can be indexed to the chalcopyrite structural phase of CuGaTe2 $( \\mathrm { P D F } \\# 6 5  – 0 2 4 4 )$ ，indicating that all the specimens have the same crystallographic structure as pure $\\mathrm { C u G a T e } _ { 2 }$ (see the insert in Figure $\\mathrm { S } 1 ^ { [ \\underline { { 1 7 } } ] { \\cdot } }$ ). It can be seen from the HTEM image (Figure ${ \\mathrm { S } } 2 ^ { [ { \\underline { { 1 7 } } } ] }$ in the supplemental material), the thickness of the GN is about $2 . 8 ~ \\mathrm { n m }$ , which indicates that the GNs are about 1O layers[2ll. Thus, the materials should be considered as graphite nanosheets not graphene according to the referencel2l. Comparing the Raman spectrum of the GNs with the Raman spectrum of the composites, we can find that the relative intensity of“D\",“G” and “2D” peaks are similar, which indicates that the GNs are not damaged or significantly modified by their incorporation into $\\mathrm { C u G a T e } _ { 2 }$ matrix.A Raman map of one of the composites,with GNs content $\\mathrm { x } { = } 3 . 0 4 ~ \\nu o l . \\%$ , is shown in Figure 1(b), from which we can see the GNs are homogenous dispersed in the bulk material. The microstructures of GNs, CuGaTe2 and $\\mathrm { C u G a T e } _ { 2 } / \\mathrm { G }$ composites were characterized by TEM and SEM, as shown in Figure 1(c)-(h). Figure 1(c) and (h) shows that the GNs exhibit transparency, indicating that they are quite thin. Figure 1(c) and Figure S2 indicate that the graphite sheets are about $2 . 8 ~ \\mathrm { n m }$ thick and several to tens of microns in length and width.Figure 1(d) shows the ordered lattice of the $\\mathrm { C u G a T e } _ { 2 }$ and the boundary between it and the GNs. From this image one can clearly see that the thin GNs are connected to the grain of $\\mathrm { C u G a T e } _ { 2 }$ matrix, forming CuGaTez/GNs bulk composites.Figure 1(e) shows that the distribution of grain sizes is between tens of nanometers and several microns, which gives rise to more interface scattering, thus causing diminished thermal conductivity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1(f)-(h) clearly indicate that the CuGaTe $_ 2$ crystals are aggregated with the GNs, as denoted by the white arrows, forming CuGaTez/xG composites, in agreement with the result obtained from TEM analysis.Figure 1(h) shows that the $\\mathrm { C u G a T e } _ { 2 }$ grains are covered with the transparent GNs. Generally, the CuGaTe2 grain size becomes larger after the hot-pressing. However, SEM images of powdered and bulk (as shown in Figure 1(e)-(h)), the grain size for $\\mathrm { C u G a T e } _ { 2 } / x \\mathrm { G }$ composites has no obviously changes after the hot-pressing process, which may lie in the fact that the addition of GNs limit the growth of matrix grains during the consolidation or sintering process. It can be seen from the SEM images of the bulk composites that grain size within the matrix is distributed over a wide range, from tens nanometers to several microns. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f60c138f2fa4e3c594db4ea12a14ddaa7cbf03d9136d0786882abd343fcbe549.jpg",
+        "img_caption": [
+            "Figure 1 (a) Raman spectra of GNs and ${ \\mathrm { C u G a T e } _ { 2 } } / x$ G $( 0 { \\le } \\mathrm { x } { \\le } 3 . 0 4 ~ \\nu o l . \\% )$ . (b) Raman map at $1 5 9 2 \\mathrm { c m } ^ { - 1 }$ for the composite $\\mathrm { C u G a T e _ { 2 } / \\ 3 . 0 4 \\ \\nu o l . \\ ^ { 0 } / o G }$ (c) TEM image of GNs. (d) HRTEM image of $\\mathrm { C u G a T e _ { 2 } / \\ 3 . 0 4 \\ \\nu o l . \\ ^ { 0 } / o G }$ composite. (e) SEM image of pure "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CuGaTe2 powder. (f) SEM image of bulk specimen CuGaTez/ 3.04 vol.%G composite after hot-pressing. (g) Enlarged view of the area within the rectangle in (f). (h) CuGaTe2 particles covered with GNs in the bulk specimen of CuGaTez/ 3.04 vol.%G composite. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The thermoelectric properties of GNs dispersed $\\mathrm { C u G a T e } _ { 2 }$ compositesare summarized in Figures 2-4. As shown in Figure 2(a),ρ for pure $\\mathrm { C u G a T e } _ { 2 }$ increases slightly with increasing temperature until it reaches a maximum at $\\scriptstyle \\mathrm { T = } 4 9 2 \\mathrm { K }$ ，and decreases beyond this temperature ${ \\mathrm { ( d } } { \\mathrm {  p } } / { \\mathrm { d } } { \\mathrm { T } } { < } 0 { \\mathrm { ) } }$ ），indicating that $\\mathrm { C u G a T e } _ { 2 }$ is a partial degenerate semiconductor[23]. In contrast, the resistivity $\\rho$ for the $\\mathrm { C u G a T e } _ { 2 } / x \\mathrm { G }$ （204 composites decreases steeply with increasing temperature， demonstrating its nondegenerate semiconducting behavior. In addition, the $\\rho$ values for the all composites $\\mathrm { C u G a T e } _ { 2 } / x \\mathrm { G } ( \\mathrm { x } { > } 0 )$ are larger than for pure $\\mathrm { C u G a T e } _ { 2 }$ over the whole temperature range investigated. For example， the $\\rho$ value increases from $7 . 9 { \\times } 1 0 ^ { - 5 } \\ \\Omega { \\cdot } \\mathrm { m }$ to $2 . 9 { \\times } 1 0 ^ { - 4 }$ ， $2 . 9 { \\times } 1 0 ^ { - 4 }$ ， $3 . 0 { \\times } 1 0 ^ { - 4 }$ and $3 2 { \\times } 1 0 ^ { - 4 } ~ \\Omega { \\cdot } \\mathrm { m }$ as the at room temperature (RT) GNs content $x$ （204号 increases from O to $0 . 7 6 \\%$ ， $1 . 5 2 \\%$ ， $2 . 2 8 \\%$ and $3 . 0 4 \\%$ ，respectively. A threefold increase in $\\rho$ is observed as $x$ is increased from 0 to $3 . 0 4 \\%$ at RT. The transition from a degenerate to a non-degenerate state, and the increase in $\\rho$ with the addition of GNs can be attributed to the remarkable decrease in hole concentration caused by introducing the second phase. This is verified by measurements of the Hall carrier concentration $p$ ， as shown in Figure 3(a). The holes concentration $p$ decreased from the order of $1 0 ^ { 1 9 }$ to the order of $1 0 ^ { 1 8 } \\mathrm { c m } ^ { - 3 }$ after GNs addition. The decrease in the hole concentration can lead to the Fermi level $\\mathrm { E } _ { \\mathrm { F } }$ shifting away from valence band, resulting in a non-degenerated semiconductor. Electrons are introduced from the GNs into the $\\mathrm { C u G a T e } _ { 2 }$ matrix,which causes electron-hole recombination, and decreasing the hole concentration. The concentration of holes $p$ at room temperature in pure $\\mathrm { C u G a T e } _ { 2 }$ is $1 . 4 9 { \\times } 1 0 ^ { 1 9 } ~ \\mathrm { c m } ^ { - 3 }$ , which is different from reported values $( p { = } 1 . 1 { \\times } 1 0 ^ { 1 8 } ~ \\mathrm { c m } ^ { - 3 }$ [2, $p { = } 4 . 6 { \\times } 1 0 ^ { 1 8 }  { \\mathrm { ~ c m } ^ { - 3 [ 2 4 ] } }$ and $p { = } 2 . 0 5 { \\times } 1 0 ^ { 1 9 } \\mathrm { c m } ^ { - 3 [ 2 5 ] } )$ . These diferences may due to different sample compositions, such as the different Te content, which would lead to a distinct difference in the hole concentration $p$ and thermo-power $S$ values [12]. In fact, the value of the hole concentration at room temperature decreases rapidly from $1 . 4 9 { \\times } 1 0 ^ { 1 9 } \\ \\mathrm { c m } ^ { - 3 }$ to $3 . 8 6 \\times 1 0 ^ { 1 8 } \\mathrm { c m } ^ { - 3 }$ ， $3 . 4 9 \\times 1 0 ^ { 1 8 } \\mathrm { c m } ^ { - 3 }$ ， $2 . 5 7 { \\times } 1 0 ^ { 1 8 } \\ \\mathrm { c m } ^ { - 3 }$ as the GNs content $x$ （204 increases from 0 to 0.76,1.52 and $2 . 2 8 ~ \\nu o l . \\%$ ．However, the hole concentration $p$ （20 increases slightly to $3 . 0 8 { \\times } 1 0 ^ { 1 8 } ~ \\mathrm { c m } ^ { - 3 }$ when GNs content $x$ is further increased to 3.04 $\\nu o l . \\%$ . It is worth noting an interesting phenomenon here is that there is no reduction or even increase in the hole mobility $\\mu$ as the GNs are incorporated. This is despite GNs being known for its high mobility, which is in contrast to the low mobility of $p$ type CuGaTez. High-mobility carriers from the GNs are injected into the low-mobility $\\mathrm { C u G a T e } _ { 2 }$ matrix, hence enhancing the overall carrier mobility[l]. Another noteworthy feature is demonstrated in Figure 3(a),while the carrier concentration reaches a minimum as $x { = } 2 . 2 8 \\ \\nu o l . \\%$ ，the mobility attains its highest value,and this is also where the ZT reaches its maximum value. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/69200a63374a88d5d112ea639856d4eb3d489aa28c9cad4c65b2746c1a9c6716.jpg",
+        "img_caption": [
+            "Figure 2 Temperature dependence of (a) the electrical resistivity p, (b) thermopower $S$ and (c) the power factor PF for ${ \\mathrm { C u G a T e } _ { 2 } } / x$ G composites $( 0 \\leq \\mathrm { x } \\leq 3 . 0 4 ~ \\nu o l . \\% )$ ！： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 2(b), the positive values of $S$ over the whole temperature range indicate that the major charge carriers are holes. Moreover, one can see that $S$ for the pure $\\mathrm { C u G a T e } _ { 2 }$ sample increases linearly with increasing temperature within the range of 300K to $\\mathord { \\sim } 7 5 0 \\mathrm { K }$ ， showing its degenerate behavior. As $\\mathrm { \\Delta T }$ increases further, $S$ increases more slowly. However, $S$ values for all the composite samples are larger over the wide temperature range of 300-60oK,beyond which $S$ decreases with increasing the temperature. One notices that there are no large differences in $S$ for the samples with different concentrations of incorporated GNs, which is analogous to the behavior of the resistivity. As shown in Figure 2(c), the power factor (PF) for the composite samples are larger than of the pure $\\mathrm { C u G a T e } _ { 2 }$ over the whole temperature range investigated. The maximum PF achieved is $1 . 2 8 { \\times } 1 0 ^ { - 3 } \\ \\mathrm { W m ^ { - 1 } K ^ { - 2 } }$ at 758K for the sample with $x { = } 1 . 5 2 \\ \\nu o l . \\%$ ，which is ${ \\sim } 5 4 \\%$ larger than the value for pure $\\mathrm { C u G a T e } _ { 2 }$ at the same temperature due to the enhanced $S$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$S$ is inversely proportional to carrier concentration $p$ ，as expressed by the Mott equation: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma$ is the electrical conductivity, q is the carrier charge, $\\bf k _ { \\mathrm { B } }$ is the Boltzmann constant, and $\\mathrm { E } _ { \\mathrm { F } }$ is the Fermi energy. Assuming the energy bands have a parabolic dispersion relation, the relaxation time $\\tau ( \\mathrm { E } )$ ,which is usually in the form of a power, with energy E, i.e., $\\tau ( \\mathrm { E } ) { = } \\tau _ { 0 } \\mathrm { E } ^ { \\lambda - 1 / 2 [ \\underline { { 2 6 } } . }$ 1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "then,Equation (1) can be expressed as: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From Eq. (2) it can be understood that $S$ can be enhanced by increasing the scattering parameter $\\lambda$ . An enhanced $\\lambda$ means a stronger energy filtering effect. In order to verify that energy filtering effect is responsible for obviously enhancement of $s , \\lambda$ was calculated by using a single parabolic band model in which effective mass $\\mathbf { m } ^ { * }$ and $S$ can be expressed as: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with a Fermi integral of order i: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where h is Planck's constant and $\\xi _ { \\mathrm { { F } } }$ is the reduced Fermi level $\\mathrm { F _ { f } / ( k _ { B } T ) }$ （204号 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For a degenerate semiconductor, such as pure $\\mathrm { C u G a T e } _ { 2 }$ , the relationship between the Seebeck coefficient $S$ and the carrier concentration $p$ obeys following equation [27]: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(6) ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Here $\\mathbf { m } ^ { * }$ is the effective mass of the carrier. $\\mathrm { m ^ { * } { = } 0 } . 2 8 ~ \\mathrm { m _ { 0 } }$ (here $\\mathbf { m } _ { 0 }$ is the free electron mass） can be obtained for $\\mathrm { C u G a T e } _ { 2 }$ according equation (6) and $s , p$ values from Figure 3.Using the values of Seebeck coefficient $S$ ，the hole concentration $p$ at room temperature, and assuming effective mass $\\mathbf { m } ^ { * }$ is constant in the different composite samples[28], we can obtain the scatering parameters $\\lambda$ according equations (2)-(5), as shown in Figure 3(b). It can be seen that all the $\\lambda$ values of the composite samples are larger than that of pure $\\mathrm { C u G a T e } _ { 2 }$ . For example, $\\lambda$ increases from zero to 1.34 with increasing $x$ from O to $0 . 7 6 ~ \\nu o l . ~ \\%$ .This increase in $\\lambda$ results in increases of $\\mathord { \\sim } 1 8 1$ ， 164,138 and $1 4 3 ~ \\mu \\mathrm { V / K }$ in $S$ at room temperature for the samples with $\\mathrm { \\Delta x { = } } 0 . 7 6$ ,1.52, 2.28 and $3 . 0 4 ~ \\nu o l . \\%$ , respectively, as shown in Figure 3(c) (where the solid line is the Pisarenko relationship[2z] for $\\mathrm { C u G a T e } _ { 2 }$ and shows the dependence of $S$ on $p$ as calculated according equation (6)). The tendency of $S$ to increase in accordance with the scattering parameter $\\lambda$ determined from the GNs content. In our work, the thermoelectric performance of $\\mathrm { C u G a T e } _ { 2 }$ was enhanced by energy filtering due to nanosized potential barriers (GNs). Analogous work has been performed by Neophytou et al29] and Yang et al30]. And ones reported the energy filtering effect in the low-dimensional materials， for example, nanocrystalline[31l， superlattices[32. 33], quantum well[34] and one-dimensional nanowires[34, 35]. Neophytou et al[29] reported analysis and optimization of such barriers for improved energy filtering, and Yang et al reported synergetic scattering of electrons in semiconductors with metal nanoinclusions. In agreement with Neophytou et al29], to maximize energy filtering, in the region prior to the barrier, the Fermi level needs to be pushed up so that carriers have higher velocity and that scattering by ionized dopant impurities will be weaker, which are achieved in our work. Thus, the enhanced thermopower can be ascribed to energy filtering. Like the work reported by Heremans et all36], we assume that energy bands have a parabolic dispersion relation, $\\tau ( \\mathrm { E } )$ usually has the power form with energy E, i.e., $\\tau ( \\mathrm { E } ) { = } \\tau _ { 0 } \\mathrm { E } ^ { \\lambda - 1 / 2 }$ and the effective mass is a constant for the composites and pure matrix, moreover, the effective mass is determined by $S _ { - p }$ dependence. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fc8af6bec1bd926ea55b58d41b43739007b084faf3eddece7d0e082586dcb64.jpg",
+        "img_caption": [
+            "Figure 3 (a) The dependence of carrier concentration and carrier mobility on GNs content, at room temperature. (b) Variation of scattering parameter $\\lambda$ with GNs content $x$ at room temperature. (c) variation of Seebeck coefficient with carrier concentration for $\\mathrm { C u G a T e _ { 2 } / { x } G ( 0 \\leq x \\leq 3 . 0 4 \\ \\nu o l . \\% ) }$ composites at room temperature. The solid line is the Pisarenko relation for pure CuGaTe. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 4(a) shows the temperature dependence of the thermal conductivity $\\kappa$ for the composites. The K of the composite samples decreases after GNs incorporation over almost the whole investigated temperature range. For example, k decreases from 4.3 $\\mathrm { { W m ^ { - 1 } K ^ { - 1 } } }$ to 3.36, 3.34, 3.23 and $3 . 2 0 \\mathrm { W m ^ { - 1 } K ^ { - 1 } }$ at room temperature with increasing the GNs content $x$ from zero to 0.76,1.52, 2.28 and $3 . 0 4 ~ \\nu o l . \\%$ ， respectively. The total thermal conductivity $\\kappa$ can be expressed by the sum of the lattice component $\\left( \\kappa _ { \\mathrm { l } } \\right)$ and the hole component $\\left( \\kappa _ { \\mathrm { h } } \\right)$ as $\\kappa { = } \\kappa _ { \\mathrm { l } } { + } \\kappa _ { \\mathrm { h } }$ . The $\\kappa _ { \\mathrm { h } }$ values can be estimated from WiedemannFranz's law, $\\kappa _ { \\mathrm { h } } { = } \\mathrm { L T } / \\rho$ (here $\\mathrm { ~ L ~ }$ is the Lorentz number, $\\mathrm { L } { = } 1 . 5 { \\times } 1 0 ^ { - 8 } \\mathrm { V } ^ { 2 } \\mathrm { K } ^ { - 2 }$ [12]for ${ \\mathrm { C u G a T e } _ { 2 } } / x$ G $( 0 \\leq \\mathrm { x } \\leq 3 . 0 4 ~ \\nu o l . \\% )$ . Consequently, $\\boldsymbol { \\kappa _ { \\mathrm { L } } }$ can be obtained from $\\kappa$ and $\\kappa _ { \\mathrm { h } }$ as shown in Figure 4(b). It can be seen by comparing Figure 4(a) with Figure 4(b) that the values and temperature trend of the lattice conductivity $\\kappa _ { \\mathrm { L } }$ are similar to those of the total thermal conductivity $\\kappa$ ，These results indicate that thermal conductivity of the samples comes mainly from the lattice conductivity, and thus the decrease of the thermal conductivity can be mainly atributed to the reduction in the lattice thermal conductivity caused by interface scattering due to incorporation of the GNs. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/21e3d956a0311b1a9091e49f1546c0bb4a744a437f013a5ccc39102af65150fc.jpg",
+        "img_caption": [
+            "Figure 4 Plot of(a) total thermal conductivity k, (b) lattice thermal conductivity $\\kappa _ { \\mathrm { L } }$ and (c) ZT value versus temperature for $\\mathrm { C u G a T e } _ { 2 } / x$ G composites $( 0 \\leq \\mathrm { x } \\leq 3 . 0 4 ~ \\nu o l . \\% )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The temperature dependence of the ZT values for ${ \\mathrm { C u G a T e } _ { 2 } } / x$ G $\\mathrm { 0 } \\le \\mathrm { x } \\le 3 . 0 4 \\ \\nu o l$ $\\%$ ) are shown in Figure 4(c). Due to both the increase in PF and the decrease in $\\kappa$ ,the ZT of allthe composite samples are enhanced as compared to pure CuGaTez. One can see that the ZT values of all samples increase with increasing temperature over whole investigated temperature range. The ZT of the sample where $x { = } 2 . 2 8 \\%$ has the maximum value, reaching O.93 at 873K,which is ${ \\sim } 2 1 \\%$ larger than for pure CuGaTe2 at the same temperature ( $\\scriptstyle { Z \\mathrm { T } = 0 . 7 7 }$ at 873K). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The thermoelectric properties of composites $\\mathrm { C u G a T e } _ { 2 } / x \\mathrm { G }$ $( 0 ~ \\leq \\mathrm { x } \\leq ~ 3 . 0 4 ~ \\nu o l . \\% )$ have been studied for temperatures from 300 to $8 7 5 \\mathrm { ~ K ~ }$ . The results show that incorporation of GNs into the $\\mathrm { C u G a T e } _ { 2 }$ matrix can concurrently yield a reduction of the thermal conductivity and an enhancement of the PF. The increased PF mainly comes from enhanced $S$ due to an intensified energy filtering effect, and a moderate increase in carrier mobility owing to the injection of high mobility carriers from the GNs. The sample $\\mathrm { C u G a T e _ { 2 } } / 2 . 2 8 ~ \\nu o l . \\% \\mathrm  G$ had the largest ZT value, reaching O.93 at 873K,which is ${ \\sim } 2 1 \\%$ larger than for pure $\\mathrm { C u G a T e } _ { 2 }$ at the same temperature. The resultsindicate that $\\mathrm { C u G a T e _ { 2 } } / 2 . 2 8 \\quad \\nu o l . \\% \\mathrm  G$ is a promising candidate asa thermoelectric material in the middle temperature range. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Author Information ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Corresponding authors.   \n$^ { * } \\mathrm { E }$ -mail: zhangjian@issp.ac.cn(J.Zhang), xyqin@issp.ac.cn(X.Qin), lidi@issp.ac.cn(D.Li) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Financial support from Anhui Provincial Natural Science Foundation (No. 1408085QB45) and national natural science foundation of China (Nos. 11374306 and 11174292) is gratefully acknowledged. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References: ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.P.Puneet, R. Podila, S. Zhu, M.J. Skove, T. M. Tritt, J. He and A. M. Rao, Adv Mater 25,1033-1037 (2013).   \n2. B. C. Sales, Science 295, 1248-1249 (2002).   \n3. W.-H. Chen, S.-R. Huang and Y.-L. Lin, Appl Energ 158, 44-54 (2015).   \n4. A. Heghmanns and M. Beitelschmidt, Appl Energ 155, 447-454 (2015).   \n5. M.León, R. Diaz, F. Rueda and M. Berghol, Sol Energ Mat Sol C 26, 295-307 (1992).   \n6.D. Xia, S. Jiang, C. Liu, S. Fan and L. Chen, Sol Energ Mat Sol C 141, 331-336 (2015).   \n7. Y. Zhang and Y. Xuan, Sol Energ Mat Sol C144, 68-77 (2016).   \n8.H. Park, S. J.Lee, S.Kim,H. W. Ryu, S.H. Lee, H.H. Choi, I. W. Cheong and J. H. Kim, Polymer 54, 4155-4160 (2013).   \n9.B.Kuhn, W. Kaefer, K. Fess,K. Friemelt, C. Turner,M. Wendl and E. Bucher, Phys. Status Solidi A-Appl. Res.162, 661-671 (1997).   \n10. J. S. Im, J. Yun, J. G. Kim and Y. S. Lee, Curr Org Chem 17, 1424-1433 (2013). 11. J. Q. Li, L. F. Li, S. H. Song, F. S. Liu and W. Q. Ao, J Ally Compd 565, 144- 147 (2013). 12. 1. Plirdpring, K. Kurosak1, A. Kosuga, T. Day, S. Firdosy, V. Rav1, G. J. Snyder, A. Harnwunggmoung, T. Sugahara, Y. Ohishi, H. Muta and S. Yamanaka, Adv Mater 24, 3622-3626 (2012).   \n13. J. Y. Cho, Z. Ye, M. M. Tessema, R. A. Waldo, J. R. Salvador, J. Yang, W. Cai and H. Wang,Acta Mater 60, 2104-2110 (2012).   \n14. T. Zou, X. Qin, Y. Zhang, X. Li, Z. Zeng, D. Li, J. Zhang, H. Xin, W. Xie and A. Weidenkaff, Scientific Reports 5, 17803 (2015).   \n15. Y Y. Li, X. Y. Qin, D. Li, X. Y. Li, Y. F. Liu, J. Zhang, C. J. Song and H. X. Xin, Rsc Advances 5, 31399-31403 (2015).   \n16. Y. G. Y. W.J. Xie, S. Zhu, M. Zhou, S. Populoh, K. Galazka, S.J. Poon, A. Weidenkaff, J. He, X.F. Tang, T.M. Tritt, Acta Mater 61, Pages 2087-2094 (2013). 17. Y. C. Dou, X. Y. Qin, D. Li, Y. Y. Li, H. X. Xin, J. Zhang, Y. F. Liu, C. J. Song and L. Wang, RSC Advances 5, 34251-34256 (2015).   \n18. Y.Lu, Y. Song and F. Wang, Mater Chem Phys 138, 238-244 (2013).   \n19. K. J. Norris, M. Garrett, E. Coleman, G. S. Tompa, J. Zhang and N. P. Kobayashi, J Cryst Growth 406, 41-47 (2014).   \n20. X.Li, W. Cai, J. An, S.Kim, J. Nah, D. Yang,R. Piner, A. Velamakanni, I. Jung, E. Tutuc, S. K. Banerjee,L. Colombo and R. S. Ruoff, Science 324， 1312-1314 (2009).   \n21.E. Yoo, J. Kim, E.Hosono, H.-s. Zhou, T. Kudo and I. Honma, Nano Lett 8, 2277-2282 (2008).   \n22. N. Jung, N. Kim, S. Jockusch, N. J. Turro, P. Kim and L. Brus, Nano Lett 9, 4133-4137 (2009).   \n23. A. Kosuga, T. Plirdpring,R. Higashine, M. Matsuzawa, K. Kurosaki and S. Yamanaka, Appl. Phys. Lett.100, 042108 (2012).   \n24. J. Zhang, X. Qin, D. Li, H. Xin, C. Song, L. Li, X. Zhu, Z. Wang, G. Guo and L. Wang, Journal of Materials Chemistry A 2, 2891-2895 (2014).   \n25. Y. P. Li, Q. S. Meng, Y. Deng, H. Zhou, Y. L. Gao, Y. Y. Li, J. F. Yang and J. L. Cui, Appl Phys Lett 100 (2012).   \n26. X. H. Yang, X. Y. Qin, J. Zhang, D. Li, H. X. Xin and M. Liu, Journal of Alloys and Compounds 558,203-211 (2013).   \n27. J. L. Cui, Y. P. Li, Z. L. Du, Q. S. Meng and H. Zhou, J Mater Chem A 1, 677-683 (2013).   \n28. T. H. Zou, X. Y. Qin, D. Li, G. L. Sun, Y. C. Dou, Q. Q. Wang, B. J. Ren, J. Zhang, H. X. Xin and Y. Y. Li, Applied Physics Letters 104, 013904 (2014).   \n29. N. Neophytou and H. Kosina, J Appl Phys 114, 044315 (2013).   \n30. X. H. Yang and X. Y. Qin, Applied Physics Letters 97 (2010).   \n31. N. Neophytos,Z. Xanthippi， K. Hans,F. Stefano，L. Bruno and N. Dario, Nanotechnology 24, 205402 (2013).   \n32. W. Kim, S.L. Singer, A. Majumdar, D. Vashaee, Z. Bian, A. Shakouri, G. Zeng, J. E. Bowers, J. M. Zide and A. C. Gossard, Appl Phys Lett 88, 242107 (2006).   \n33. D. Vashaee and A. Shakouri, Phys Rev Lett 92,106103-106103 (2004).   \n34. J. E. Cornett and O. Rabin, Appl Phys Lett 100, 242106 (2012).   \n35. R. Kim and M. S.Lundstrom, J Appl Phys 110, 034511 (2011).   \n36. J. P. Heremans, C. M. Thrush and D. T. Morelli, Phys Rev B 70,115334 (2004). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,445 @@
+[
+    {
+        "type": "text",
+        "text": "乌伦古河流域水体水化学与同位素特征及指示意义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "田华，辛拓，李金芳，杨嘉懿，谢祖锋(西安科技大学地质与环境学院，陕西 西安710054)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：水化学与同位素特征对不同水体水文过程具有重要的指示作用。本文基于2018年乌伦古河流域不同水体水化学与稳定同位素测试数据,综合运用数理统计、Gibbs图解、离子比值、Piper三线图等方法,查明了乌伦古河流域水体水化学与同位素特征,探讨了水化学形成机制、演化趋势与水体转化关系。结果表明：河水受岩石风化、蒸发浓缩与混合作用影响，水化学类型以 $\\mathrm { H C O _ { 3 } \\cdot S O _ { 4 } \\mathrm { - C a \\cdot N a } }$ 为主;湖水受蒸发浓缩作用控制，水化学类型为 $\\mathrm { S O } _ { 4 }$ ·Cl-Na型;地下水在岩石风化、蒸发浓缩、阳离子交换的共同作用下,潜水水化学类型为 $\\mathrm { H C O _ { 3 } \\cdot S O _ { 4 } \\mathrm { - C a \\cdot N a } }$ 与 $\\mathrm { S O _ { 4 } \\cdot H C O _ { 3 } - }$ $\\mathrm { { N a } { \\cdot } \\mathrm { { C a } } }$ 型，承压水为 $\\mathrm { { C l \\cdot S O _ { 4 } \\mathrm { { - } N a } } }$ 型;各水体Piper图表明，地表水与潜水进一步向 $\\mathrm { { C l \\cdot S O _ { 4 } \\mathrm { { - } N a } } }$ 型演化;各水体氢氧稳定同位素富集程度表现为乌伦古湖 $>$ 吉力湖 $>$ 河水 $>$ 潜水 $>$ 承压水；各水体氢氧稳定同位素值均位于当地雨水线( $\\mathrm { 8 D = }$ $6 . 4 9 8 ^ { 1 8 } \\mathrm { O } - 8 . 6 3$ )两侧,表明蒸发与降水是影响水体同位素特征的主要因素;受地质地貌、地层结构影响，潜水与河水水力联系紧密而与承压水联系微弱，区内以潜水向河水补给为主，承压水与潜水存在局部水力联系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：乌伦古河流域；水化学；稳定同位素；形成机制；转化关系",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地表水与地下水的水质特征与转化关系是区域水循环研究的热点问题之一。水体离子含量常常反映着水化学特征的空间分布与演化过程[1-3],是水体与周边环境长期相互作用的结果[4-5],离子特征则对水化学的形成具有指示作用[6-8]。氢氧稳定同位素作为水分子的主要元素，直接参与水循环，不仅可揭示水体补给来源[9-10]、循环方式[11-13],也是不同水体相互转换关系判断的重要依据[14-15]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乌伦古河流域地处西北干旱地区，气候干燥，水资源储量贫乏，区域水循环与水化学特征研究程度较低。已有的研究主要集中在流域地质构造的分布特点[16]、东西向构造隆升制约条件[17]、流域多年不同季节水文特征和气候变化对乌伦古河径流过程的影响[18-19]、土地利用及其生态系统变化过程预测[20]、流域潜水水化学特征与成因分析[21]。近年来，随着流域内农、畜牧业快速发展，水资源供需矛盾日益突出。因此，本文基于流域水化学与同位素测试结果，揭示区内不同水体水化学与同位素分布特征，探讨各水体的水化学形成机制与相互关系，为流域水资源的合理开发利用提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乌伦古河流域位于我国西北准噶尔盆地境内（图1），地理位置为 $8 7 ^ { \\circ } 0 0 ^ { \\prime } { \\sim } 9 0 ^ { \\circ } 3 0 ^ { \\prime } 4 0 ^ { \\prime \\prime } \\mathrm { E }$ $4 6 ^ { \\circ } 0 8 ^ { \\prime } \\sim$ $4 7 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { N }$ 。区内海拔 $4 7 0 { \\sim } 1 3 8 0 \\ \\mathrm { m }$ ,地势东北高，西南低。流域昼夜温差大，少雨，蒸发强烈，属大陆性干旱、半干旱气候。流域内主要地表水体为乌伦古河、乌伦古湖与吉力湖。乌伦古河全长 $8 2 1 ~ \\mathrm { k m }$ ，多年平均径流量 $9 . 9 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，属冰雪融水和降雨补给型河流。原河道因南部第三系抬升，形成宽幅背斜隆起，同时乌伦古湖湖盆向东南方向下陷，河流在福海县附近发生转折而形成当前河道[16]。乌伦古湖与吉力湖属全区最低洼地带，是乌伦古河的尾闾湖。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区为中生界和新生界构成复背斜沉积盆地。区内地貌单元包括中低山区、山间河谷区和冲积平原区。其中萨尔铁热克以东的中低山区潜水主要赋存于基岩裂隙中，由于地层岩性主要为质地密实的火山喷发岩，使得含水层储水能力变差。萨尔铁热克以西至两湖地区，潜水主要埋藏于第四系覆盖区内的山间河谷与冲积平原区，地层岩性由卵石、砂砾石逐渐过渡至中粗砂、粉细砂、黏沙土，潜水埋藏深度自西向东逐渐由 $3 { \\sim } 8 \\mathrm { ~ m ~ }$ 增加至 $5 { \\sim } 2 0 ~ \\mathrm { m }$ 。第四系埋藏区外南北两侧为富水性极差的侵蚀剥蚀丘陵区，由风蚀台地、垅岗及古夷平面组成。承压水除中低山区，广泛分布于流域第三系地层之下，岩性以钙质砂岩和凝灰质角砾岩为主。野外钻孔及物探资料表明，承压水埋藏深度自西向东逐渐变厚，山间河谷区第三系隔水顶板不连续，至冲积平原区隔水顶板完整且呈多层含水结构。流域内地下水与河水径流方向基本一致，受地形地貌以及人类开采活动的影响，两水体沿程相互转化，最终汇入乌伦古湖与吉力湖。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2样品采集与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 采集与测试 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2018年8月，在乌伦古河流域开展了野外调查与采样工作，共采集地表水19组(河水10组，湖水9组），地下水26组(潜水20组，承压水6组），采样位置见图1。并于2018年9月一次年8月收集一个水文年雨水样进行稳定同位素测试。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水化学样品测试由核工业新疆理化分析测试中心依据 $\\left. \\mathrm { G B } / \\mathrm { T } 5 7 0 - 2 0 0 6 \\right.$ 完成。其中， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、CI采用离子色谱仪(ICS1100)测定； $\\mathrm { H C O } _ { 3 } ^ { - }$ 采用盐酸标液滴定法测定； $\\mathrm { K } ^ { + } , \\mathrm { N a } ^ { + } , \\mathrm { C a } ^ { 2 + } , \\mathrm { M g } ^ { 2 + }$ 采用等离子体发射光谱仪(ICP-MS，NexION350X)测定，各水样阴阳离子的平衡误差 $( E )$ 在 $- 0 . 5 \\% \\sim - 0 . 3 \\%$ 之间，均小于全分析的误差标准 $( 2 \\% )$ )。氢氧稳定同位素由国土资源部地下水科学与工程重点实验室采用光腔衰荡光谱法，同位素分析仪(L2130i)测定，测试精度分别为$1 \\text{‰}$ 和 $\\pm 0 . 1 \\% o$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于水化学与同位素测试结果，对数据进行拟合分析。运用舒卡列夫法揭示流域水体水化学类型分布规律。利用Piper三线图,揭示各水体水化学类型及其演化过程。同时,通过 $\\mathrm { N a ^ { + } / ( N a ^ { + } { + } C a ^ { 2 + } ) } .$ Cl-/$( \\mathrm { C l } ^ { - } { + } \\mathrm { H C O } _ { 3 } ^ { - }$ )与TDS关系、不同水体常量离子变化趋势、氯碱指数 $\\mathrm { ( C l ^ { - } { N a } ^ { + } / C l ^ { - } }$ 与 $\\mathrm { C l ^ { - } { - } N a ^ { + } / ( \\ S O _ { 4 } ^ { 2 - } + H C O _ { 3 } ^ { - } + }$ $\\mathrm { C O } _ { 3 } ^ { 2 - } + \\mathrm { N O } _ { 3 } ^ { - }$ ),查明流域水化学成因的主要控制因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1水化学与同位素特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.1水化学特征由水体主要常量离子统计分析可知(表1)，地表水与地下水 $\\mathrm { \\ p H }$ 值均大于7,呈弱碱",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "额 一、采样点 二、边界与居民点尔 古湖 分范围  \n乌伦古湖 福海县 斯 河 吉力湖 河水 构造隆起 县界Q17 Q16(Z) (2)地下水 河流、水系Q19QI8R10 C5(Z） 潜水 潜水埋藏区  \nQ20（Z） Q15（Z） 承孔 居民点C6(Z） 吉力湖R9:C4（Z） 泉水 村、镇齐乡 注：Z表示钻孔元 Q14 三、地貌分区及其他中低山区(补给区)口湖泊、水库Q13 C3Z) 山间河谷(径流区)疏水不含水区Qi2(2) 伦 Q11 1 聘 Q9(Z) QS-Q4(Z冲洪积平原(径流-蒸发排泄区）Q10(Z) C2R7 杜热镇 R6 Q3预山水库 Q8 . Q7.Q6 萨尔铁热克 . 河库 Q5R5 R40 20 kmR1乌 R3 R2",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/71134a5d5b0997b27fbba4d578089deb37e4ea791868a73e31f867621804c54f.jpg",
+        "table_caption": [
+            "表1地表水与地下水水化学特征统计",
+            "Tab.1 Statistics of hydrochemical parameters of surface water and groundwater "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>水样 类型</td><td>统计值</td><td>K /(mg·L-1)</td><td>Na+ (mg·L-1)</td><td>Ca²+ (mg·L-1)</td><td>Mg²+ /(mg·L−1)</td><td>Cl- /(mg·L-1)</td><td>SO- /(mg·L−1)</td><td>HCO3 (mg·L-1)</td><td>TDS /(mg·L−1)</td><td>pH</td></tr><tr><td rowspan=\"4\">地 表 水</td><td>乌伦古河 (R)</td><td>平均值 主导离子</td><td>3.8</td><td>56.5 阴离子：SO、HCO3;阳离子:Na+、Ca²+</td><td>63.3</td><td>12.7</td><td>31.3</td><td>125.5</td><td>147.4</td><td>362.5</td><td>7.7</td></tr><tr><td></td><td>水化学类型</td><td colspan=\"6\">HCO3·SO4-Ca·Na,SO4·HCO3-Ca·Na</td><td></td><td></td><td></td></tr><tr><td>乌伦古湖 (WH)</td><td>平均值 主导离子</td><td>47.6</td><td>609.1 阴离子：SOCI;阳离子：Na+</td><td>61.9</td><td>68.5</td><td>419.8</td><td>756.2</td><td>417.5</td><td>2196.3</td><td>8.4</td></tr><tr><td>吉力湖 (JH)</td><td>水化学类型 平均值 主导离子</td><td colspan=\"4\">SO4·Cl-Na 18.7 265.9 69.5</td><td>182.1</td><td>357.3</td><td>254.2</td><td>1761.1</td><td>7.7</td></tr><tr><td rowspan=\"4\">地 下 (Q） 水</td><td>潜水</td><td>水化学类型 平均值</td><td>阴离子：SOCI;阳离子：Na+ SO4·Cl-Na 6.9</td><td>201.2</td><td>118.2</td><td>37.1</td><td>152.4</td><td>407.8</td><td>302.2</td><td>1091.6</td><td>7.3</td></tr><tr><td></td><td>主导离子</td><td colspan=\"7\">阴离子：SO²、HCO;阳离子：Na、Ca²+</td><td></td><td></td></tr><tr><td>承压水 平均值</td><td>水化学类型</td><td>HCO3·SO4-Ca·Na,SO4·HCO-Na·Ca</td><td>380.5</td><td>69.5</td><td>64.2</td><td>379.3</td><td>550.9</td><td>187.6</td><td></td><td></td></tr><tr><td>主导离子 水化学类型</td><td>3.5 Cl·SO4-Na</td><td colspan=\"7\">阴离子：CI、SO²；阳离子：Na</td><td>1581.5</td><td>7.5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "性。TDS表现为乌伦古湖 $>$ 吉力湖 $>$ 承压水 $>$ 潜水>乌伦古河。河水与潜水主导阴阳离子均以 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、$\\mathrm { H C O } _ { 3 } ^ { - }$ 和 $\\mathrm { N a } ^ { + } , \\mathrm { C a } ^ { 2 + }$ 为主，两者水化学类型变化也较为相近，中上游均呈 $\\mathrm { H C O _ { 3 } \\bullet S O _ { 4 } \\mathrm { - C a \\bullet N a } }$ 型。潜水在顶山水库以西水化学类型变为 $\\mathrm { S O _ { 4 } } { \\cdot } \\mathrm { H C O _ { 3 } } { - } \\mathrm { N a } { \\cdot } \\mathrm { C a }$ 型，而河水则在福海县下游变为 $\\mathrm { S O _ { 4 } { \\cdot } H C O _ { 3 } { - } C a { \\cdot } N a }$ 型。承压水与两湖主导阴阳离子为 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { C l ^ { - } }$ 和 $\\mathrm { N a } ^ { + }$ ，承压水水化学类型以 $\\mathrm { C l \\cdot S O _ { 4 } \\mathrm { - N a } }$ 为主，两湖则为 $\\mathrm { S O _ { 4 } \\cdot C l - }$ Na型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由各水体离子变化趋势图可以看出（图2），河水 $\\mathrm { C a } ^ { 2 + }$ 、 $\\mathrm { H C O } _ { 3 } ^ { - }$ 含量沿程逐渐减小， $\\mathbf { N a } ^ { + }$ 、Cl、 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 含量逐渐增加。吉力湖(JH)受河水汇入影响，除$\\mathrm { H C O } _ { 3 } ^ { - }$ 与 $\\mathrm { C a } ^ { 2 + }$ 外，其余常量离子均低于乌伦古湖(WH)。潜水由补给区至排泄区除 $\\mathrm { H C O } _ { 3 } ^ { - }$ 与 $\\mathrm { C a } ^ { 2 + }$ 外，其余离子含量波动上升。其中潜水在河谷区(Q6\\~Q11)受外来水源的混合影响，离子含量较上游有所减小。位于补给区的Q3与Q ${ \\mathfrak { p } } ( \\mathrm { T D S } { \\mathfrak { s } } { \\mathfrak { s } } 1 0 0 0 \\ \\mathrm { m g }$ ：$\\mathrm { L } ^ { - 1 }$ )受北部出露泉 $( \\mathrm { Q S } , \\mathrm { T D S } { > } 2 0 0 0 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 } )$ 人渗影响，水化学特征与该区其他样点差异较大。承压水各离子沿程变化与潜水相近，总体呈上升趋势",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 稳定同位素特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）大气降水",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "雨水 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 值为 $- 2 5 . 5 \\% o \\sim - 4 . 1 \\% o$ ,平均值 $- 1 3 \\text{‰}$ ，8D值为 $- 1 8 3 \\% o \\sim - 3 7 \\% o$ ,平均值 $- 9 9 . 3 \\% o$ 。根据降雨",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "%/beu 108060 40 地表水 Mg²Ca²HC-TDS 32 (-T.8)/SIL 20   \n0 0 R1 R2 R3 R4 R5 R6 R7 R8 R9R10JHWH 100 潜水 Na+ Ca²+--- SO42- TDS  \n860 Q3QSQ5 Mg²+---C1---HCO 4 (-T.8)/SI) %/bau 40 2 20   \n0 0 Q1 Q20 %/bau 10806040 承压水 Mg2 Ca-H0O5 —TDS 42 [-T.)/SI) 20   \n0 0 C1 C2 C3 C4 C5 C6 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同位素测试结果建立当地雨水线方程(LMWL）：$\\mathrm { \\ 8 D { = } 6 . 4 9 8 ^ { 1 8 } O { - } 8 . 6 3 }$ 中 $R ^ { 2 } { = } 0 . 9 8 6 9$ （图3）。其斜率低于全球(GMWL)[22]与我国(CMWL)[23]雨水线方程，同时也小于乌鲁木齐雨水线(WLMQWL)[23],表明该区降雨受到更强烈的蒸发作用，呈现典型的干旱区气候特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）地表水与地下水",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由8D、 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 统计分析及其相互关系可以看出(表2，图4)，不同水体同位素值差异较大，富集程度",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0CMWL:-25 8D=7.98180+8.2(R²=0.9770)-50LMWL:-75 8D=6.948180-8.630%/9 (R²=0.9869) WLMQWL:-1008D=7.698180+6.14(R²=0.9562)-125雨水-150 GMWLGMWL: WLMQWL-175 8D=8818O+10 GMWL(R²=0.9999) LMWL-200-28 -26-24 -22-20-18-16-14-12-10 -8 -6 -4-28180/%0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表现为乌伦古湖 $| >$ 吉力湖 $>$ 河水 $>$ 潜水 $>$ 承压水。图4中各水样点均分布于雨水线两侧，表明各水体均受到降雨补给。其中承压水样点分布最为离散，变异系数最大，表明其空间分布差异较大。不同水体蒸发线斜率表现为：吉力湖(5.26)>河水(4.07)>潜水$( 3 . 9 7 ) >$ 乌伦古湖(3.12)，反映出乌伦古湖蒸发作用最强，而吉力湖由于接受河水与地下水的排泄汇人，其蒸发线斜率最大。地表水中河水较两湖同位素贫化，沿程同位素值逐渐增大(图5)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8653e2937bcfa21b46e162f5e06deef61834f5797510983e1fed9b6354bfdda.jpg",
+        "img_caption": [
+            "Fig.3 SD- ${ \\cdot } { \\delta } ^ { 1 8 } \\mathrm { O }$ relationship of precipitation ",
+            "图4各水体8D- ${ \\cdot } \\delta ^ { 1 8 } \\mathrm { O }$ 关系图",
+            "Fig.4 Relationship between δD and $\\delta ^ { 1 8 } \\mathrm { O }$ in different water "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2水化学与同位素的指示意义",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1水化学形成机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）Gibbs效应",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Gibbs等对全球主要水体的水化学组分研究发现，蒸发浓缩、岩石风化、大气降水是控制水化学特征的主要因素[24]。由研究区Gibbs图可以看出（图6)，河水与潜水均介于岩石风化与蒸发浓缩之间，表明两水体受岩石风化与蒸发浓缩共同控制。R1(河水上游样点)受大气降水补给影响导致其偏离岩石风化区向大气降水区靠近。湖水与承压水均位于蒸发浓缩一端，表明蒸发浓缩是两水体水化学特征的控制因素。其中乌伦古湖受到的蒸发作用更为强烈，致使其更靠近蒸发浓缩区。而承压水尽管径流区埋深较大，但受其补给区蒸发影响，致使承压水样点也多位于蒸发浓缩一端。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）混合作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区各水体由补给区至排泄区经不同地貌单元，形成一个较为完整的地下水流系统，同时自东向",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/76a222a71df74e66af7a2e0b60d0d359d7e6b6a7a87337b2fb6c2614e82b9579.jpg",
+        "img_caption": [
+            "图3雨水8D- ${ \\cdot } \\delta ^ { 1 8 } \\mathrm { O }$ 关系",
+            "图5河水 $\\delta \\mathrm { D } \\mathrm { - } \\delta ^ { \\mathrm { 1 8 } } \\mathrm { O }$ 沿程变化图Fig.58D and $\\delta ^ { \\mathrm { 1 8 } } \\mathrm { O }$ changes in river"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2地表水与地下水同位素特征统计结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3eca2641cd4fca594c27848e71303c92bb8689aba8201fe88b901fde622adc75.jpg",
+        "table_caption": [
+            "Tab.2 Statistics of isotope composition of surface water and groundwater "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">统计值</td><td colspan=\"5\">SD/%0</td><td colspan=\"5\">8180/%0</td></tr><tr><td>潜水</td><td>承压水</td><td>河水</td><td>吉力湖</td><td>乌伦古湖</td><td>潜水</td><td>承压水</td><td>河水</td><td>吉力湖</td><td>乌伦古湖</td></tr><tr><td>最小值</td><td>-109</td><td>-137</td><td>-99</td><td>-67</td><td>-51</td><td>-13.8</td><td>-15.4</td><td>-13.4</td><td>-7.1</td><td>-4.6</td></tr><tr><td>最大值</td><td>-97</td><td>-108</td><td>-85</td><td>-62</td><td>-48</td><td>-12.1</td><td>-14.4</td><td>-10.2</td><td>-6.2</td><td>-3.9</td></tr><tr><td>平均值</td><td>-104</td><td>-120</td><td>-95</td><td>-65</td><td>-50</td><td>-13.3</td><td>-14.8</td><td>-12.2</td><td>-6.8</td><td>-4.3</td></tr><tr><td>标准差</td><td>4.1</td><td>12.8</td><td>3.3</td><td>2.2</td><td>1.1</td><td>0.8</td><td>11.9</td><td>1.3</td><td>0.4</td><td>1.3</td></tr><tr><td>变异系数</td><td>0.03</td><td>0.11</td><td>0.03</td><td>0.03</td><td>0.02</td><td>0.06</td><td>1.19</td><td>0.11</td><td>0.06</td><td>0.31</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a9c7056eb4d4c9615511f82a33525389485045fba779261fcc95ac5c97091fa.jpg",
+        "img_caption": [
+            "Fig.6 Gibbs diagram of different water "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "西河水垂向切割逐渐减弱，侧蚀作用逐渐增强，混合作用也成为影响各水体水化学成分的重要因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "发生混合作用的水体离子仅在纵向上发生含量变化，水平方向上具有各离子变化趋势相似的特征[25]。由Schoeller图可以看出（图7)，山间河谷区、中低山区潜水与河水各离子变化趋势相近，表明山间河谷段和中低山区潜水与河水发生混合作用。冲积平原区地下水与河水各水化学组分以及离子沿程变化趋势局部有所差异，结合冲积平原区地势变化平缓的地理特征，表明此区域潜水与河水存在一定的混合作用。承压水与河水及其潜水各离子变化趋势差异较大，受混合作用影响较弱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）阳离子交换作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在一定条件下，水体与赋存介质所吸附的阳离子发生交换，水化学成分发生改变，此过程称为阳离子交换作用。 $( \\mathrm { N a ^ { + } { - } C l ^ { - } } ) / [ ( \\mathrm { C a ^ { 2 + } } { + } \\mathrm { M g ^ { 2 + } } ) { - } ( \\mathrm { S O _ { 4 } ^ { 2 - } } + \\mathrm { H C O _ { 3 } ^ { - } } ) ]$ 值与氯碱指数(CAI-1,CAI-2)可用于判断阳离子交换作用的程度[26-27]。由图8可以看出,潜水与承压水离子均位于 $\\scriptstyle { y = - x }$ 线附近，表明两水体均发生阳离子交换作用。其中承压水斜率(-0.94)更接近-1，反映出承压水阳离子交换作用更强。地表水分布离散，阳离子交换作用影响较弱。湖水与承压水氯碱指数均为正值(图9)，表明 $\\mathrm { C a } ^ { 2 + }$ ） $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 与赋存介质$\\mathbf { N a } ^ { + }$ 、K+发生交换。潜水与河水各指数正负相间，变化特征相似，表明两水体间存在一定水力联系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2水化学演化过程Piper图可用于揭示水流系统中水体的演化模式[28]。研究区Piper图表明（图10),河水与潜水在菱形图上分别位于A、B两区域，乌伦古湖与吉力湖阳离子Ci区与阴离子 $\\mathrm { C } _ { 2 }$ 区共同构成菱形图中的两湖排泄带C区，承压水则主要位于D区。其中，河水与潜水沿程受水岩作用、蒸发浓缩、离子交换以及混合作用控制，由中低山补给区流经河谷与平原区，共同汇入两湖排泄区，优势阳离子由 $\\mathrm { C a } ^ { 2 + }$ 向 $\\mathrm { \\Delta N a } ^ { + }$ 方向演化，阴离子由 $\\mathrm { H C O } _ { 3 } ^ { - }$ 向 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 方向演化,水化学类型转化过程总体表现为： $\\mathrm { H C O } _ { 3 }$ ·$\\mathrm { S O _ { 4 } \\mathrm { - } C a \\cdot N a \\mathrm {  } S O _ { 4 } \\cdot H C O _ { 3 } \\mathrm { - } C a \\cdot N a \\mathrm {  } S O _ { 4 } \\cdot C l \\cdot H C O _ { 3 } \\mathrm { - } }$ $_ { \\mathrm { N a \\longrightarrow S O _ { 4 } \\cdot C l - N a } }$ ，总溶解性固体(TDS)逐渐升高至$2 . 5 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 。随径流路径增加，深埋区承压水流速减小，硫酸盐类矿物溶解饱和，岩盐类矿物(NaCl)持续溶解，水体阴离子由 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 向 $\\mathrm { C l } ^ { - }$ 主导方向演化，水化学类型表现为 $\\mathrm { C l \\cdot S O _ { 4 } \\mathrm { - N a } }$ 型。由此可知，在水文地球化学作用下，随水力停留时间逐渐延长，地表水与潜水进一步向D区水化学类型方向演化。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7681f7c05cac8006fb9a13f3b690ef54a9748421366319996277a362c1a47a41.jpg",
+        "img_caption": [
+            "图6各水体Gibbs图",
+            "图8阳离子交替吸附作用图",
+            "Fig.8 Diagram of cation exchange and adsorption "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ae3b8dfdc9d7a34ef97488ae5d76b227f58a4e27d5ff2750b657a155870463d.jpg",
+        "img_caption": [
+            "图7各水体Schoeller图",
+            "Fig.7Schoeller diagram of different water "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7398b979eb9a3b6a06ff719a6c71a08b3328a968291035e5b473da0ba1db9d4.jpg",
+        "img_caption": [
+            "图9各水体氯碱指数",
+            "Fig.9 Chlor-alkali index of different water ",
+            "图10研究区各水体Piper图Fig.10 Piper diagram of different water",
+            "图11乌伦古河流域水文地质剖面图",
+            "Fig.11 Hydrogeological profile of the Ulungur River basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0 □ 河水00 。 乌伦古湖8 品 △ 吉力湖☆ 潜水C1-+SO42- 60 B 6 Ca2+Mg2+ □ 承压水△如 g --》 离子演化方向☆ → 水化学类型0 8 个 D 演化方向A0 □ 044☆0 0 A ↓ C 0 008 0 2 82 0 育 HCO D 冷 心 SO4++K+ 安0 0 ☆ □ ☆ ☆ 办 C 个 中国 0 2 品 0 8 6 哈 □ V C 品 0  \n0 中 △ ☆☆ 0 0  \n100 80 60 40 20 0 0 20 40 60 80 100Ca²+ C1-",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.3不同水体转化关系水体 $\\delta \\mathrm { D } - \\delta ^ { \\mathrm { 1 8 } } \\mathrm { O }$ 关系图中（图4)，河水、潜水和部分承压水样点集中，表明三者之间存在水力联系；Schoeller图与水体Piper图中（图7，图10)，河水与潜水各离子沿程变化趋势相似，水化学类型相近，表明河水与潜水之间存在水力交换。因此，结合水文地质剖面与地貌特征（图11)，依据流域地表水与地下水稳定同位素沿程变化规律(图12)，进一步探讨流域内各水体间相互转化关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中低山区地势陡峭，水力坡度变化较大，降雨丰富，河水 $8 ^ { 1 8 } 0$ 值位于雨水平均值附近，表明该段河水接受降雨补给。此外出山口 $( \\mathrm { R } 5 { \\sim } \\mathrm { R } 6 ) \\delta ^ { 1 8 } \\mathrm { O }$ 值有所降低，而潜水与河水之间存在混合作用，且潜水 $8 ^ { 1 8 } 0$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q1(Z) Q1(Z):钻孔编号 ： 砂岩砂砾岩 石英砂岩 泥岩 钻孔点  \nH:50m Q4 (Z) H:50m:成孔深度 砂质泥岩 粉细砂 凝灰质砂岩 主要居民点0 H: 100 m Q9 (Z) 泥质砂岩 粉土、细砂 地表水 地下水流向  \n检库尔特 尔铁热克 H:50 m 品 0 H0m 0m 80伦河两湖中低山区 山间河谷区补给区(上游) 径流区(中游) 发排池区（卡游）NA 0 100km",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中低山区 山间河谷 冲积平原4 ■·地表水 WH-6 ·潜水 JH★承压水0%/O818 810 R1g Q19R9-12 R3R4R5 R6 R7 Q11814 Q15 20雨水-13/%-14 R1R2 Q1 Q5 Q8 Q9 Q12 Q16 质C3Q13C4 C6C C2-16 C5地表水与地下水径流方向",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "值小于河水，表明该段河水同时接受潜水补给。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "山间河谷区河水与潜水混合作用显著，同时河水受蒸发作用影响 $\\mathbf { \\delta } ^ { 8 } \\mathbf { O }$ 值沿程逐渐增大且大于雨水平均值，而潜水基本位于雨水附近，表明该段以潜水补给河水为主。Q9\\~Q11受河水补给影响，潜水$\\mathbf { 8 ^ { 1 8 } O }$ 值迅速上升。Q11\\~Q12潜水 $\\delta ^ { \\mathrm { 1 8 } } \\mathrm { O }$ 值回落,与承压水变化趋势相同，反映出该段除了河水对潜水补给外，由于第三系与第四系隔水顶板不完整，承压水埋深浅，潜水与承压水存在一定的水力交换。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "冲积平原水力坡度减小，水流速度减缓，蒸发作用持续增强，隔水顶板连续，潜水与承压水间水力联系微弱。潜水 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 介于河水与雨水平均值之间，沿程表现出两个峰值，与径流区潜水变化趋势较为接近，反映出河水接受潜水排泄。其中Q16处由于南部第三系抬升形成背斜构造，加之河道变迁、北部潜水侧向补给导致 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~  ~ } }$ 值减小。该处承压水C5点 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 值增加，其水化学类型与上部潜水相同，反映出潜水对承压水有一定的补给。Q20与C6位于两湖西南处，由于构造隆起其水流系统相对独立，潜水 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 与承压水水化学类型均为 $\\mathrm { C l \\cdot S O _ { 4 } \\mathrm { - N a } }$ 型，同位素值均位于雨水值附近，远低于湖水与河水，表明雨水是该区域地下水的主要来源",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）乌伦古河流域湖泊优势阴阳离子分别为$\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { C l ^ { - } }$ 和 $\\mathrm { { N a } ^ { + } }$ ,受蒸发浓缩作用影响，水化学类型为 $\\mathrm { S O _ { 4 } \\cdot C l \\mathrm { - N a } }$ ;河水受岩石风化、蒸发浓缩与混合作用影响，水体离子以 $\\mathrm { H C O } _ { 3 } ^ { - }$ 、 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 与 $\\mathrm { N a } ^ { + } , \\mathrm { C a } ^ { 2 + }$ 为主，水化学类型为 $\\mathrm { H C O _ { 3 } \\cdot S O _ { 4 } \\mathrm { - C a \\cdot N a } }$ 。岩石风化、蒸发浓缩以及阳离子交换是影响地下水化学组分的主要因素，其中，潜水由中低山区至冲积平原区，水化学类型由 $\\mathrm { H C O _ { 3 } \\cdot S O _ { 4 } \\mathrm { - C a \\cdot N a } }$ 演化为 $\\mathrm { S O _ { 4 } } { \\cdot } \\mathrm { H C O _ { 3 } } { - } \\mathrm { N a }$ Ca,承压水以 $\\mathrm { { C l \\cdot S O _ { 4 } \\mathrm { { - } N a } } }$ 型水为主。各水体Piper三线图表明，地表水与潜水进一步向 $\\mathrm { { C l } \\cdot \\mathrm { { S O } _ { 4 } \\mathrm { { - } N a } } }$ 型演化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）建立当地雨水线方程： $\\scriptstyle { \\mathrm { \\ 8 D = 6 . 4 9 8 ^ { 1 8 } O - 8 . 6 3 } }$ 中 $R ^ { 2 } { = } 0 . 9 8 6 9$ )。不同水体同位素值由大到小依次为乌伦古湖 $>$ 吉力湖 $>$ 河水 $>$ 潜水 $>$ 承压水。各水体与当地雨水 $ { 8 \\mathrm { D } }  { - }  { 8 } ^ {  { 1 } 8 }  { 0 }$ 关系表明，蒸发作用是影响水体同位素大小的主要因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）雨水是流域地表水与地下水的共同补给源。同位素与水化学特征共同表明，地下水与地表水沿程转化频繁，中低山区与山间河谷区以潜水补给河水为主，潜水与承压水在山间河谷区存在局部水力联系，冲积平原区潜水与承压水联系微弱，河水与潜水交替补给",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Yong Xiao,Jingli Shao,Yali Cui,et al. Groundwater circulation and hydrogeochemical evolution in Nomhon of Qaidam Basin, Northwest China[J].Journal of Earth System Science,2O17,126 (2): 1-16.   \n[2] Ye Chuanyong,Zheng Mianping,Wang Zhiming,et al.Hydrochemistry of the Gasikule Salt Lake,Western Qaidam Basin of China[J].Acta Geologica Sinica,2014,88(1): 170-172.   \n[3] 王磊,董少刚,王雪欣,等.内蒙古托克托县\"神泉\"水文地球化 学特征及成因研究[J].干旱区研究,2020,37(5):1140-1147. [Wang Lei,Dong Shaogang,Wang Xuexin,et al.Hydrogeochemical characteristics and origin of “Shenquan”in Tuoketuo County, Inner Mongolia[J].Arid Zone Research,2020,37(5): 1140-1147.]   \n[4]Anuar Sefie,Ahmad Zaharin Aris,Mohammad Firuz Ramli, et al. Hydrogeochemistry and groundwater quality assessment of the multilayered aquifer in Lower Kelantan Basin,Kelantan,Malaysia [J].Environmental Earth Sciences,2018,77(10): 1-15.   \n[5]刘明亮,何瞳,吴启帆,等.雄安新区地热水化学特征及其指示 意义[J].地球科学,2020,45(6):2221-2231.[Liu Mingling,He Tong,Wu Qifan,et al.Hydrogeochemistry of geothermal waters from Xiong'an New Area and its[J].Earth Science,2O2O,45(6): 2221-2231.]   \n[6] He Jianhua,Ma Jinzhu, Zhang Peng,et al.Groundwater recharge environments and hydrogeochemical evolution in the Jiuquan Basin,Northwest China[J]. Applied Geochemistry,2012,27(4): 866- 878.   \n[7] 王红太,周金龙,曾妍妍,等.新疆喀什噶尔河流域平原区地下 水 TDS 分布及其成因[J].干旱区研究,2020,37(4):830-838. [Wang Hongtai, Zhou Jinlong,Zeng Yanyan.Distribution characteristics and causes of groundwater total dissolved solids in the plain of the Kashgar River Basin, Xinjiang[J].Arid Zone Research,2020,37(4): 830-838.]   \n[8]周嘉欣,丁永建,曾国雄,等.疏勒河上游地表水水化学主离子 特征及其控制因素[J].环境科学,2014,35(9):3315-3324. [Zhou Jiaxin,Ding Yongjian,Zeng Guowei,etal.Major ion chem istry of surface water in the upper reach of Shule River Basin and the possible control[J].Environmental Science,2O14,35(9): 3315- 3324.]   \n[9]Qian Hui, Wu Jianhua,Zhou Yahong,et al. Stable oxygen and hy drogen isotopes as indicators of lake water recharge and evaporation in the lakes of the Yinchuan Plain[J].Hydrological Processes, 2014,28(10): 3554-3562.   \n[10] 菅晶,贾德彬,郭少峰,等.2014年浑善达克沙地黄柳生长季水 分来源同位素示踪研究[J].干旱区研究,2017,34(2):350-355. [Jian Jing,Jia Debin,Guo Shaofeng,et al. Water sources in growing season of Salix gordejeviin the otindag sandy land traced by stable disotope in 2014[J]. Arid Zone Research,2017,34(2): 350-355.]   \n[11]Liao Fu,Wang Guangcai, Shi Zheming,et al. Estimation of groundwater discharge and associated chemical fluxes into Poyang Lake, China: Approaches using stable isotopes (8D and $8 ^ { 1 8 } 0$ ) and radon [J]. Hydrogeology Journal,2018,26(5): 1625-1638.   \n[12]Ma Yandong, Zhao Jingbo,Qi Zhou,et al.Identification of runoff type and an assessment of water balance for the megadune area of the Badain Jaran Desert[J]. Environmental Earth Sciences,2017, 76(12): 424-439.   \n[13] 胡玥,刘传琨,卢粤晗,等.环境同位素在黑河流域水循环研究 中的应用[J]．地球科学进展,2014,29(10):1158-1166. [Hu Yue, Liu Chuankun,Lu Yuehan,et al.Application of environmentalisotopes inthe studyof watercycleintheHeieRiverBasin[J]. ProgresinEarthScience,2014,29(10):1158-1166.]   \n[14]Martinez Jorge L,Raiber Mathias, Cox Malcolm E.Assessment of groundwater-surface water interaction using long-term hydrochemical data and isotope hydrology: Headwaters of the Condamine River,Southeast Queensland,Australia[J].Science of the Total Environment,2015,536: 499-516.   \n[15] 张兵,宋献方,张应华,等.第二松花江流域地表水与地下水相 互关系[J].水科学进展,2014,25(3):336-347.[Zhang Bing, Song Xianfang,Zhang Yinghua,et al. The relationship between surface water and groundwater in the second Songhua River Basin [J].Progress in Water Science,2014,25(3): 336-347.]   \n[16] 严钦尚,夏训诚.新疆额尔齐斯河与乌伦古河流域地貌发育[J]. 地理学报,1962,28(4): 257-274.[Yan Qinshang, Xia Xuncheng. Landform development in the Irtysh and Ulungur River Basin in Xinjiang[J].Acta Geographica Sinica,1962,28(4): 257-274.]   \n[17] 潘思东,张旺生,周国华,等.新疆阿尔泰山的掀斜隆升及其构 造制约[J].地质科技情报,2007,26(2):19-24.[Pan Sidong, Zhang Wangsheng,Zhou Guohua,et al. Effect of tilted uplift and strike-slip shear-structure of Altai Mountains on Erqisi and Wulungu River-Basin environment[J].Buletin of Geological Science and Technology,2007,26(2):19-24.]   \n[18] 努尔兰·哈再孜.乌伦古河流域水文特征[J].干旱区研究,2014, 31(5):798-8O2.[Nurlan Hazazi. Hydrological characteristics in the Ulungur River Basin[J]. Arid Zone Research,2014,31(5): 798-802.]   \n[19] 努尔兰·哈再孜,沈永平,马哈提·穆拉提别克.气候变化对阿尔 泰山乌伦古河流域径流过程的影响[J].冰川冻土,2014,36(3): 699-705.[Nurlan Hazazi, Shen Yongping,Mahat Mulatibiek. Impacts of climate change on hydrological processes in the Ulungur River watershed,Altay Mountains[J].Journal of Glaciology and Geocryology,2014,36(3): 699-705.]   \n[20] 薛嵩嵩,高凡,何兵,等.近30年乌伦古河流域土地利用与生态 系统服务价值变化研究[J].水土保持通报,2019,39(6):223- 229,322.[Xue Songsong,Gao Fan,He Bing,et al. Variation of land use and ecosystem service value in Ulungur River basin in past 3O years[J]. Bulltin of Soil and Water Conservation,2019,39 (6): 223-229, 322.]   \n[21] 田华,辛拓,邓韬,等.乌伦古河流潜水水化学特征与成因分析 [J].干旱区研究,2020,37(6):1371-1377.[Tian Hua,Xin Tuo, Deng Tao,et al.Hydrochemical characteristicsand formation of phreatic water in the Ulungur River watershed[J].Arid Zone Research, 2020,37(6): 1371-1377.]   \n[22] Craig H. Isotopic variation in meteoric waters[J]. Science,1961, 133(3456): 1702-1703.   \n[23] 郑淑蕙,侯发高,倪葆龄.我国大气降水的氢氧稳定同位素研究 [J].科学通报,1983,28(13):801-806.[Zheng Shuhui,HouFagao, Ni Baoling.Study on stable isotopes of hydrogen and oxygen in atmospheric precipitation in China[J]. Chinese Science Bulletin, 1983,28(13): 801-806.]   \n[24]Gibbs R J. Mechanisms controlling world water chemistry[J]. Science,1970,170(3962): 1088-1090.   \n[25] 魏兴,周金龙,乃尉华,等.新疆喀什三角洲地下水化学特征及 演化规律[J].环境科学,2019,40(9):4042-4051.[Wei Xing, Zhou Jinlong,Nai Weihua,et al.Hydrochemical characteristics and evolution of groundwater in the Kashgar Delta Area in Xinjiang[J].Environmental Science,2019,40(9): 4042-4051.]   \n[26] 王珺瑜,王家乐,靳孟贵.济南泉域岩溶水水化学特征及其成因 [J].地球科学,2017,42(5): 821-831.[Wang Junyu,Wang Jiale, Jin Menggui.Hydrochemical characteristics and formation causes of Karst water in Jinan spring catchment[J]. Earth Science,2017, 42(5): 821-831.]   \n[27] 唐金平,张强,胡漾,等.巴中北部岩溶山区地下水化学特征及 演化分析[J].环境科学,2019,40(10):4543-4552.[Tang Jinping,Zhang Qiang,Hu Yang. Hydrochemical characteristics of Karst groundwater in the mountains of northern Bazhong City, China[J]. Environmental Science,2019,40(10): 4543-4552.]   \n[28]王瑞久.三线图解及其水文地质解释[J].工程勘察,1983,11(6): 6-11.[Wang Ruijiu.Piper diagram and its hydrogeological interpretation[J]. Geotechnical Investigation and Surveying,1983,11 (6): 6-11.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Characteristics and indication of hydrochemistry and environmental isotopes of different water sources in the Ulungur River basin ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TIAN Hua， XIN Tuo，LI Jinfang， YANG Jiayi, XIE Zufeng Collge of Geologyand Environment,Xi'an UniversityofScienceand Technology,Xi'an71Oo54,Shaanxi,China ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The hydrochemical and isotopic characteristics of water bodies are important indicators of hydrological processes.To ascertain hydrochemical and isotopic characteristics and reveal the relationship and formation mechanisms of different waters in the Ulungur River Basin, hydrochemistry and isotope datasets in 2018 were analyzed using mathematical statistics, Gibbs diagrams,ion ratios,and Piper diagrams.The results showed that hydrochemical composition of rivers was mainly affected by rock weathering，evaporation,and mixing. The river hydrochemical type was $\\mathrm { H C O _ { 3 } \\cdot S O _ { 4 } \\mathrm { - C a \\cdot N a } }$ and the lake hydrochemical type was $\\mathrm { S O _ { 4 } \\cdot C l - N a }$ ， which was mainly afected by evaporation. Groundwater was influenced by rock weathering,evaporation,and cation exchange.Phreatic water was $\\mathrm { H C O _ { 3 } \\cdot S O _ { 4 } \\mathrm { - C a \\cdot N a } }$ or $\\mathrm { S O } _ { 4 } \\cdot \\mathrm { H C O } _ { 3 } – \\mathrm { N a } \\cdot \\mathrm { C a }$ ，while confined water was Cl· $\\mathrm { S O } _ { 4 } \\mathrm { - N a }$ .The Piper diagram of each water body showed surface water and phreatic water will further evolve toward $\\mathrm { C l \\cdot S O _ { 4 } \\mathrm { - } N a }$ .The isotope values of different water bodies showed the following relationship: Ulungur Lake>Jili Lake>Ulungur River>phreatic water>confined water. Samples from the various water sources were scattered on both sides of local meteoric water line $( \\mathrm { \\delta D } = 6 . 4 9 \\delta ^ { 1 8 } \\mathrm { O } - 8 . 6 3$ ),which indicated isotopic composition was affected by evaporation and precipitation. Influenced by geology, geomorphology,and lithological structure of the strata,phreatic water Was closely related to surface water and weakly to confined water.The river was mainly recharged by phreatic water, while local hydraulic connections existed between phreatic water and confined water. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Ulungur River basin； hydrochemistry； stable isotopes； formation mechanism； interaction relation-ship",
+        "page_idx": 8
+    }
+]

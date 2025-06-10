@@ -1,0 +1,185 @@
+# DOI:10.5846/stxb201604040609
+
+于海玲，樊江文，钟华平，李愈哲.青藏高原区域不同功能群植物氮磷生态化学计量学特征.生态学报,2017,37(11);3755-3764.YuHL,FaJcerisdelsilsActaEcologica Sinica,2017,37(11）:3755-3764.
+
+# 青藏高原区域不同功能群植物氮磷生态化学计量学特征
+
+于海玲1,²，樊江文1，\*，钟华平」，李愈哲1
+
+1中国科学院地理科学与资源研究所陆地表层格局与模拟重点实验室，北京100101  
+2中国科学院大学，北京100049
+
+摘要;生态化学计量学为揭示植物养分利用状况及植物对环境的适应策略提供了重要手段,研究不同功能群植物在区域尺度生态化学计量学特征中所产生的贡献,有助于揭示区域尺度植物元素特征的形成机制。已有研究多是从不同功能群植物元素生态化学计量学特征的比较上进行分析,未能对每种功能群植物元素含量随地理因子和气候因子的变化规律展开探讨。基于生态化学计量学理论,对青藏高原区域不同功能群植物(豆科、禾本科、莎草科、杂类草)叶片水平N、P元素含量随纬度、海拔、年降水量、年均温度的变化规律展开研究,探讨不同植物功能群在区域尺度植物生态化学计量学特征中所产生的贡献,尝试从植物功能群角度揭示青藏高原高寒区域N、P元素含量特征的形成机制。结果显示,1)不同功能群植物叶片元素含量差异显著，豆科植物N、P元素含量最高,禾本科植物N、P含量最低, $\mathrm { { N / P } }$ 比值在不同功能群间差异不显著;2)随纬度变化,莎草科植物P元素及杂类草N元素含量变化显著;随海拔变化,豆科、禾本科植物及杂类草叶片N元素含量变化较为显著;随年降水量和年均温度的变化,杂类草和莎草科植物叶片N、P含量变化显著;3)莎草科植物N、P含量对纬度和降水的响应趋势与区域内所有植物叶片N、P含量对纬度和降水的响应趋势一致,豆科、禾本科及杂类草植物叶片元素含量对海拔和温度的响应趋势与区域内所有植物叶片元素平均含量对海拔和温度的响应趋势一致。研究表明,不同功能群植物元素特征对环境因子的响应不同,植物功能群组成对区域尺度植物生态化学计量学特征有重要作用,但在较大的植物结构层次上（如植物群落、生态系统、区域或全球尺度等),不同功能群植物之间的相互组合会抵消或掩盖掉某一类群的特性,从而对区域尺度植物元素特征的变化规律产生影响。
+
+关键词：功能群;叶片N、P含量;生态化学计量学;青藏高原高寒区域;气候因子;纬度;海拔
+
+# Characteristics of N and P stoichiometry of plants in different functional groups in the Qinghai-Tibet Plateau regions
+
+YU Hailing'²，FAN Jiangwen1,\*,ZHONG Huaping1，LI Yuzhe'
+
+1KeyLaboratofdeetiostueofacceculsoseedec Beijing 100101, China   
+2 University of Chinese Academy of Sciences， Beijing 10o049， China
+
+Abstract：Ecologicalstoichiometryprovidesanimportant methodforthedeterminationof plant nutrientutilizationand plant environmental adaptation strategies.Nitrogen（N）and phosphorus（P）stoichiometriesplaycritical roles inthe functions andstructuresof ecosystemsbyaffectingimportantecologicalprocesses.Studying thecontributionsofdiferentfunctional groupstoecological stoichiometrycould help toreveal the formation mechanismsof plant elementsonaregional scale.
+
+Currently，most studies focus oncomparison of ecological stoichiometrycharacteristicsamong diferent functional groups, butfail todiscuss the variation in elementcontentsamong diferent plantfunctional groups withregard togeographicand climatic factors.The Qinghai-Tibet Plateaualpineregion hasamuch higher elevationand lower temperature thanthe other regions inthesamelatitude.Thus，thisregion could provideideal research conditions forinvestigating therelationship between plant element characteristicsand variations in geographicand climatic factors.Using ecological stoichiometry theory，we analyzed the patterns of N and $\mathrm { \Delta P }$ contents among different functional groups （legumes， grasses， sedges and forbs）andhow thesevaried with geographical factors（latitude andaltitude）andclimaticfactors（meanannual precipitation and meanannual temperature）inthe Qinghai-Tibet Plateau alpineregion.Weused thesedata to explore the formation mechanisms of plant N and $\mathrm { \Delta P }$ features in this region.The results showed that:1）N and P contents were significantly higher inlegumesand muchlowerin grasses，andthatnoobvious differences inN/Pwere foundbetween the four groups.2）As the latitude increased，the $\mathrm { \Delta P }$ contents of sedge folia decreased，while the N contents of forb folia increased.ThePcontentsofallsmple pool folia were foundtodecrease.Asthealtitudeincreased，theNcontentsof legume，grass，andforb folia decreased significantly，andtheNcontents ofallplant folia also decreased.Asthe mean annual precipitation（MAP）increased,theNcontentsofsedgeandforbfolia，aswellasthatofallplantfolia increased. As the mean annual temperature（MAT） increased，the N contents of sedge folia decreased，while their $\mathrm { \Delta P }$ contents increased.Allplantfoliaelementcontents were foundtohaveno corelation with MAT.3）FoliaNandPcontents varied with latitudeand MAP in sedges，and withaltitudeand MATin legumes，grassesand forbs.Theseresultsareconsistent withthepatersobservedonaregionalscale.Teseresultsindicatethatthecharacteristicsof elementcontents indifferent plant functional groupsvary with geographic factorsand climaticfactors，and that plant speciescomposition playsan importantroleintheregional-scaleecologicalstoichiometry，Theseresultsalsoshowthatthecombinationofdiferent functional group plantscan offset orcoverup the characteristicsof some groups，therebyafecting ecological stoichiometry on a regional scale.
+
+KeyWords:functionalgroups；foliaN,Pcontents；ecological stoichiometry；Qinghai-Tibetplateaualpineregion；climate factors；latitude；altitude
+
+生态化学计量学结合了化学计量学和生态学的基本原理,主要研究生态系统和生态过程中元素质量的平衡,并进一步分析这些元素与生态系统生产力、营养循环等的相互作用,成为研究植物营养元素分配及其区域分布规律的重要方法[1-3],同时为区域和全球尺度研究生物地球化学循环提供了理论基础。氮(N)和磷(P)元素是植物生存和生长所必需的矿质元素,也是自然陆地生态系统生产力最重要的限制性元素,在植物生长、发育、群落组成以及生态系统结构和功能方面发挥着重要的作用[4]。通常认为区域或全球尺度植物叶片的$_ { \textrm { N } , \textrm { P } }$ 元素特征是植物对环境条件长期适应的结果[5],研究植物N、P生态化学计量学特征有助于理解植物通过调节自身N、P元素含量而对环境变化所作出响应,进而揭示植物养分限制状况及其对环境的适应策略[6-7]。
+
+国内外学者对植物叶片N、P元素含量随纬度、海拔及降水、温度的变化规律开展了一系列探索,但这些探索因研究对象和研究尺度的不同而导致结果并不一致,如植物N、P元素含量随纬度升高、温度降低而呈现增加趋势[8-9]、无相关性趋势[10];N/P 比值结论也不一致,包括随纬度升高而降低[8,1-12],与纬度变化没有相关性[9]或呈现随纬度升高而升高的趋势[10];随海拔升高,植物N、P元素呈现增加趋势[13]、降低趋势[14-16]或先增加后降低趋势[17-18]。有研究学者认为地理因子和气候因子有可能通过改变生态系统的物种组成结构来影响植被的N、P 的化学计量学特征[8，19],而不是地理因子和气候因子本身的影响。已有研究表明,不同类型植物叶片的元素含量差别很大[20-21],同时,不同功能群植物对生境条件的适应方式及资源利用效率之间存在差异,这种差异可能会通过植物叶片的氮、磷元素生态化学计量学特征体现出来[223]。基于此,当前针对不同功能群植物的N、P 生态化学计量学特征对比[9,2-24]、养分限制状况[25]、元素在不同器官中的分配[7]等方面已开展了许多研究,但这些研究并未探讨功能群在区域植物生态化学计量学特征中所产生的贡献,对植物叶片元素化学计量学特征差异的形成机制依然不完全清楚。植物功能群组成的地带性变化形成了植物 $_ { \textrm { N } , \textrm { P } }$ 元素的生物地理格局[8,19],研究不同植物功能群在区域尺度植物生态化学计量学特征中所产生的贡献,有助于理解植物组成对区域植物生态化学计量学特征的影响,进而从植物功能群组成的角度揭示区域尺度植物元素特征的形成机制。
+
+青藏高原区域位于我国西南部,平均海拔约 $4 5 0 0 \mathrm { ~ m ~ }$ ,是全球海拔最高的高原,素有"世界屋脊”之称,具有明显的气候梯度特征和草地植被的水平和垂直地带性分布规律,其主要驱动因子为海拔梯度引起的水热环境条件[5,26-27]。本研究分析了青藏高原区域植物叶片N、P元素含量的地理格局以及其与降水和温度的关系,同时,对群落植物功能群组成进行了区别(划分为豆科、禾本科、莎草科、杂类草4种功能群)和分析,探讨了青藏高原区域高寒气候条件下植物功能群组成与区域植物叶片生态化学计量学特征间的内在联系，从植物功能群角度对区域植物元素特征的形成机制进行了一些有益的探讨。
+
+# 1研究区域概况与研究方法
+
+# 1.1 研究区域概况
+
+本研究对青藏高原的主体部分(青海和西藏地区)的草地展开样带调查研究,受青藏高原巨大高原面影响,该区域形成了特有的高原气候;辐射强、气温低、日较差大、降水区域差异大,降水由东南向西北递减,从东南部的平均降水量 $1 0 0 0 \ \mathrm { m m }$ 以上下降到西北部的 $1 0 0 ~ \mathrm { { m m } }$ 以下，主要植被类型是以莎草科嵩草属（Kobresiaspp.)植物为优势种的高寒草甸,其次为以禾本科针茅属（Stipa spp.)植物为优势种的高寒草原[27],主要群落类型有高山嵩草群落（Form.Kobresia pygmaea）、西藏嵩草群落（Form.Kobresia tibetica）、紫花针茅群落（Form.Stipa purpurea）、金露梅群落（Form.Potentilla fruticosa)等。该区域温度和降水量随海拔升高而显著降低( $\boldsymbol { P } <$ 0.01）,温度与降水量间相关性不显著（表1）。
+
+表1青藏高原区域纬度、海拔与气候因素之间的关系  
+Table1Correlations between latitude,altitude and climate factors on the Qinghai-Tibet Plate   
+
+<html><body><table><tr><td>项目Item</td><td>纬度 Latitude</td><td>海拔Altitude／m</td><td>年降水量 MAP／mm</td><td>年均温度MAT/C</td></tr><tr><td>纬度Latitude</td><td></td><td>-0.609 ***</td><td>0.013</td><td>-0.411***</td></tr><tr><td>海拔 Altitude/m</td><td></td><td></td><td>-0.200 **</td><td>-0.382***</td></tr><tr><td>年降水量 MAP/mm</td><td></td><td></td><td></td><td>-0.073</td></tr></table></body></html>
+
+MAP：mean annual precipitation；MAT：mean annual temperature；\*\* $\cdot { \cal P } { < } 0 . 0 1$ ； $* * * P { \ll } 0 . 0 0 1$
+
+# 1.2样品采集与分析
+
+于2003—2007年8—9月份（此时大部分优势植物种处于开花末期或结实期）,沿青藏高原东北—西南方向进行样品的系统采集,每隔 $5 0 ~ \mathrm { k m }$ 左右设置一个 $1 0 \ \mathrm { m } { \times } 1 0 \ \mathrm { m }$ 样地,利用GPS(Garmin，Kansas，USA)定位样地经纬度和海拔高度。根据其生物量、多度和盖度确定各样地2—3个优势植物种,在每个样地内按照对角线取样法在其中设置5个 $1 \ \mathrm { m } { \times } 1 \ \mathrm { m }$ 样方,样方内采集优势种的叶片样品,将样地内5个样方所采集到的每个优势种的叶片混合,形成混合样品。共设置82个样地,采集到239份植物叶片样品。将所采集的样品以恩格勒分类系统中的科为单位进行功能群划分,划分为豆科、禾本科、莎草科、杂类草4种功能群,其中豆科植物14份，禾本科植物62份，莎草科植物90份，杂类草植物73份。
+
+将获得的植物叶片放入烘箱中 $8 0 ^ { \circ } \mathrm { C }$ 恒温烘干 $^ { 4 8 \mathrm { ~ h ~ } }$ ,然后研磨成粉以备元素化学分析之用。N元素含量利用同位素质谱仪（Thermo，MAT253)测定;在经过浓硝酸消煮后,利用电感耦合等离子体发射光谱仪 ICP-OES（PerkinElmer，Opitima 5300DV）测定植物样品中的P元素含量。
+
+采样点的年均温度和年降水量等气象数据从中国科学院生态系统网络综合研究中心构建的全国陆地生态信息气象栅格数据库(分辨率 $1 \ \mathrm { k m } \times 1 \ \mathrm { k m } \ ,$ 中提取得到。该数据库利用1971年以来全国720余个气象站的年均温度和年降水量数据，采用ANUSPLIN进行插值获得。
+
+# 1.3 统计分析
+
+青藏高原区域不同功能群植物间的元素含量差异使用单因素方差分析（One-wayANOVA)进行比较，多重比较方法采用LSD。采用一般线性模型分析元素含量与地理因子、气候因子的相关关系。依据拉伊达准则（ $3 \sigma$ 准则)来剔除异常值[28],即把大于（平均值 $+ 3$ 倍标准差)和小于(平均值-3倍标准差)的数据视为异常值而剔除。数据处理后，共229个数据，其中豆科植物11个数据,禾本科植物61个数据，莎草科植物87个数据，杂类草植物70个数据。使用SigmaPlot12.5作图、SPSS20.0进行数据统计分析。显著性水平为 $\scriptstyle P < 0 . 0 5$ ○
+
+![](images/56e432e1ebd2b40743ed578dfb27d085d7b47738312510c06471ea8ebc4c4e0c.jpg)  
+图1采样点分布图  
+Fig.1 Distribution map of sampling points
+
+# 2结果与分析
+
+2.1青藏高原区域植物叶片 $_ { \textrm { N } , \textrm { P } }$ 元素含量及N/P 比值特征
+
+青藏高原区域植物叶片N元素含量远高于P元素含量,而P元素含量的变异系数高于N元素含量,且在4个功能群间均有这种趋势,表明草地植物叶片P元素含量的差异和波动大于N元素。
+
+青藏高原区域不同功能群植物N、P元素含量存在差异,其中,豆科植物N、P含量显著高于其他功能群,禾本科植物N、P元素含量最低;莎草科与杂类草植物的N元素含量差异显著,但P元素含量差异不显著;N/P 比值在不同功能群之间差异均不显著(表2）。
+
+表2青藏高原区域不同功能群植物N、P元素含量与N/P比值  
+Table 2Different functional groups N,P content and N/P in Qinghai-Tibet Plateau   
+
+<html><body><table><tr><td rowspan="2">项目Item</td><td colspan="2">所有植物All Species</td><td colspan="2">豆科Legumes</td><td colspan="2">禾本科Grasses</td><td colspan="2">莎草科 Sedges</td><td colspan="2">杂类草Forbs</td></tr><tr><td>Mean ± SD</td><td>cY</td><td>Mean ± SD</td><td>CV</td><td>Mean ± SD</td><td>CV</td><td>Mean ± SD</td><td>CV</td><td>Mean ± SD</td><td>CV</td></tr><tr><td>N/(mg/g)</td><td>20.72±5.75</td><td>27.73</td><td>29.86±5.64a</td><td>18.89</td><td>17.33±3.21b</td><td>18.52</td><td>20.24±4.18c</td><td>20.65</td><td>22.87±6.74d</td><td>29.47</td></tr><tr><td>P/(mg/g)</td><td>1.44±0.52</td><td>36.11</td><td>1.99±0.64a</td><td>32.16</td><td>1.22±0.41b</td><td>33.61</td><td>1.42±0.48c</td><td>33.80</td><td>1.55±0.54c</td><td>34.84</td></tr><tr><td>N/P</td><td>15.39±4.67</td><td>30.34</td><td>15.89±3.96a</td><td>24.92</td><td>15.02±4.06a</td><td>27.03</td><td>15.34±4.43a</td><td>28.88</td><td>15.70±5.54a</td><td>35.29</td></tr><tr><td>样本数/n</td><td>229</td><td></td><td>11(4.80%） *</td><td></td><td>61(26.64%)</td><td></td><td>87(37.99%)</td><td></td><td>70(30.57%)</td><td></td></tr></table></body></html>
+
+同行不同字母表示不同功能群间叶片元素差异显著( $\scriptstyle \cdot { P < 0 . 0 5 } )$ ; $\ast$ 括号内数字表示该功能群样品数占总样品数的百分比; $\mathrm { M e a n \pm S D }$ ：平均值±标准差;CV：变异系数（%）
+
+# 2.2植物叶片 $_ { \textrm { N } , \textrm { P } }$ 元素含量与纬度的关系
+
+青藏高原区域植被整体水平叶片N元素含量与纬度无线性相关关系( $( P > 0 . 0 5 )$ ,P元素含量随纬度升高而呈现降低趋势( $_ { P < 0 . 0 5 ) }$ 。从各功能群来看，莎草科植物P元素含量呈降低趋势( $\scriptstyle P < 0 . 0 1 )$ ，杂类草N元素含量呈增加趋势( $P { < } 0 . 0 5 )$ ,豆科和禾本科植物N、P元素含量均与纬度变化不相关。可以看出,不同功能群叶片元素含量随纬度的变化趋势存在差异,莎草科P元素含量变化趋势与区域所有植物叶片 $\mathrm { ~ \bf ~ P ~ }$ 元素平均含量的变化趋势一致（图2）。
+
+# 2.3植物叶片 $_ { \textrm { N } , \textrm { P } }$ 元素含量与海拔的关系
+
+青藏高原区域植被整体水平叶片N元素含量随海拔升高而呈现降低趋势( $( P < 0 . 0 1 )$ ),P含量与海拔梯度变化无线性相关关系( $P > 0 . 0 5 )$ 。从功能群水平来看,豆科、禾本科及杂类草植物叶片N元素含量均随海拔
+
+![](images/b41ccfba8fa98d0c97698a5d1b43cc1e86bc43a13928f4ae6a801e4fb0d1672b.jpg)  
+图2青藏高原区域整体植被水平及功能群水平 $\mathbf { N } , \mathbf { P }$ 元素含量与纬度的关系
+
+Fig.2LeafNPinrelationtolatitudeinfourmajorfunctionalplants(egumes，graes,sedgesandforbs）andforallspecies
+
+升高呈现降低趋势( $( P < 0 . 0 5 )$ ,P含量变化不显著( $\ P > 0 . 0 5 )$ ,这与区域植物元素平均含量的变化趋势一致;  
+莎草科植物 $_ { \textrm { N } , \textrm { P } }$ 元素含量随海拔梯度的变化趋势不显著（图3）。
+
+2.4植物叶片 $_ { \textrm { N } , \textrm { P } }$ 元素含量与年降水量的关系
+
+青藏高原区域植被整体水平N元素含量随年降水量增加而呈线性增加趋势 $\left( P < 0 . 0 1 \right)$ ,P元素含量随年降水量的变化趋势不显著 $( \mathscr { P } > 0 . 0 5 )$ 。从功能群水平来看,莎草科植物N含量与杂类草植物N含量随年降水量增加而线性增加( $\scriptstyle { \big ( } P { \overset { \smile } { < } } 0 . 0 5 { \big ) }$ ,与区域植被整体水平N元素含量的变化趋势一致,P元素含量变化不显著;豆科和禾本科植物叶片 $_ { \textrm { N } , \textrm { P } }$ 元素含量与年降水量变化之间没有相关关系（图4）。
+
+# 2.5植物叶片 $_ \mathrm { 8 , P }$ 元素含量与年均温度的关系
+
+青藏高原区域植被整体水平叶片N、P元素含量与温度的线性关系不显著。从各功能群来看,莎草科植物叶片N含量随温度降低而增加( $P { < } 0 . 0 5 )$ ,P含量随温度降低而降低( $\scriptstyle P < 0 . 0 5$ ）,豆科、禾本科、杂类草植物叶片元素含量与温度之间没有线性相关趋势（图5）。
+
+# 3讨论
+
+# 3.1植物功能群叶片 $_ { \textrm { N } , \textrm { P } }$ 元素的差异分析
+
+青藏高原区域植物N元素含量远高于P元素,且N元素变异系数小于P元素（表2）,与其他学者对不同区域的研究结果一致[24,29],表明P元素含量相对不稳定。N/P 比值变异较小,而且在不同功能群之间差异不显著,表明植物更趋向于具有相同的N/P 比值,也体现了N/P 比值在植物体内的内稳定性[4]。
+
+http://www.ecologica.cn
+
+![](images/cc9e546c4b07663bf6d2f1a0263808cd28a245cc899276b40e8c7b8bdff76710.jpg)  
+图3青藏高原区域整体植被水平及功能群水平N、P元素含量与海拔的关系 Fig.3Leaf N,Pinrelation to altitude in four major functional plantsand for all specie!
+
+本研究发现,不同功能群植物 NP元素含量差异显著,豆科植物N、P含量高于其他功能群植物,禾本科植物 N、P元素含量最低,莎草类和杂类草中的N、P 含量介于二者之间,说明不同功能群植物对N、P元素需求差别较大,也体现了植物对元素的选择吸收、元素分布的不均一性[8,24,30]及不同类群植物的营养限制差异[23]。植物叶片 N、P含量越高,表明其光合速率越高,生长速率越快,资源竞争能力越强[31]。豆科植物因根瘤菌的固氮作用,故而对N元素有较强的获取能力及较高的利用效率,受环境中N元素的限制较小,与其他功能群相比,更倾向于受P 限制的作用。此外,在N限制或P 限制的环境中， $_ { \textrm { N } , \textrm { P } }$ 元素含量较低的植物往往会成为优势物种,青藏高原区域高寒草甸主要植被是莎草科植物,高寒草原以禾本科植物为主,除受降水、温度等气候因子的影响外,莎草科和禾本科植物较低的 N、P元素含量也使其在草地资源竞争中处于更有利的地位。
+
+# 3.2功能群植物N、P元素含量与环境因子间的关系
+
+为研究不同植被类型对区域植物生态化学计量学特征的影响以及不同类型植被N、P元素含量对地理因子和气候因子变化的响应,本研究把采集到的植物样品分为豆科、禾本科、莎草科及杂类草植物,并研究了其与纬度、海拔、年降水量、年均温度的关系。一般而言,随着海拔升高而气温降低(表2),依据温度-植物生理假说（Temperature-Plant Physiological Hypothesis）,植物在低温下会提高自身元素含量来补偿较低的光合速率[8],但在青藏高原区域,豆科、禾本科与杂类草植物叶片N元素含量随海拔升高而显著降低(图3),且与温度的变化关系并不显著（图5）,显然并不符合温度-植物生理假说,但是这一变化规律与Sundqvist 等[15]、Zhao等[16]的研究结果一致,植物体摄取的营养主要来自于土壤,植物体内的N和P元素含量反映了土壤中N 和P的可给性[32-34],高海拔地区土壤微生物活动缓慢,土壤有机质分解速度下降、土壤养分有效性下降进而限制根系对元素的吸收利用[16],最终导致叶片较低的营养元素含量。然而莎草科植物叶片元素含量与海拔之间并没有显著线性相关关系(图3),莎草科植物N元素含量随温度降低而显著升高(图5),上述解释对于莎草科植物并不适用,但符合温度-植物生理假说,造成这种现象的原因可能是,海拔梯度的变化除了引起温度变化外还会造成降水、大气压强等其他环境因素的变化,而这些因素的变化会影响叶片形态、生理特性（如叶片厚度等)进而对叶片元素含量产生影响[35]。
+
+![](images/0c287139f2842f38218d62c428e3068d877f3d5fd1dfdad70ecf892a145abf10.jpg)  
+图4青藏高原区域整体植被水平及功能群水平N、P元素含量与年降水量的关系 Fig.4Leaf N,Pin relation to mean annual precipitation （MAP）in four major functional plants and foralspecies
+
+青藏高原区域只有莎草科和N、P元素含量随年降水量和年均温度的变化及杂类草植物N含量随降水的变化趋势显著,其他植物种类N、P含量随年降水量和年均温度的变化不存在线性相关关系（图4和图5）,这可能与不同植物的资源利用策略对环境因子的响应不一致有关[7,36]。随环境因子的变化,杂类草能够及时调整自身的营养元素含量,这可能也是杂类草中的一些种类(如菊科、蔷薇科、玄参科马先蒿属植物等)对环境适应能力较强的一种体现。但本研究并未对杂类草中具体的科植物元素含量进行分析,无法得知杂类草中更详细的植物元素含量变化趋势,这有待于更细致的进一步研究。莎草科植物叶片N、P含量与年均温度呈显著相关(图5),N含量与年降水量正相关(图4),即叶片N含量随温度降低、降水量增加而增加,P元素含量随温度降低而降低,与年降水量不相关,莎草科植物在该地区的生长主要受温度限制而非水分限制[35],故其叶片 $_ { \textrm { N } , \textrm { P } }$ 含量受温度影响较大。豆科植物和禾本科植物叶片N、P含量与降水和温度之间没有显著线性关系（图4和图5）,体现了豆科植物和禾本科植物较强的内稳性特性[37-38]。
+
+![](images/42897e164599257b3442aad7e8cf061e0fca64e8fa45ee421969fe34ed27b2d9.jpg)  
+图5青藏高原区域整体植被水平及功能群水平N、P元素含量与年均温度的关系 Fig.5Leaf N,Pin relation to mean annual temperature（MAT）in four major functional plants and forallspecie
+
+3.3区域植物N、P生态化学计量学特征与环境因子的关系
+
+该区域各功能群植物叶片 $_ { \textrm { N } , \textrm { P } }$ 含量对地理因子和气候因子的响应与整个区域的植物叶片水平 $_ { \textrm { N } , \textrm { P } }$ 含量的响应趋势不能吻合,青藏高原整区域植物N元素含量随纬度变化无线性相关关系,P元素含量降低（图2），从植物功能群来看,莎草科植物元素含量有相同变化趋势（图2）,且本研究中莎草科植物样品占样品总数的$3 7 . 9 9 \%$ （表2）,即有可能是莎草科植物的组成导致了青藏高原区域植物元素含量随纬度的变化规律。除莎草科植物外，其他功能群植物N元素含量均随海拔升高呈现降低趋势,而青藏高原植被整体水平叶片N含量亦随海拔升高而降低(图3),可见,虽然在该地区莎草科植物占据主体地位,但因为其他类型植物的组合,抵消或掩盖掉莎草科植物的特性[39],从而在整体水平上表现不出莎草科植物随海拔的变化趋势。同样,青藏高原区域植物N元素含量随降水量增加而升高,P含量变化不显著,莎草科和杂类草植物叶片元素变化有相同趋势（图4）,莎草科和杂类草植物组合对区域植物元素随降水的变化规律有重要贡献。青藏高原整个草地生态系统,温度与叶片N、P含量没有显著相关关系(图5),而N、P元素含量随纬度和海拔变化显著（图2和图3),说明温度变化不是引起群落水平植物叶片N、P含量随纬度和海拔变化的主要原因,但温度对莎草科植物（204号 $_ { \textrm { N } , \textrm { P } }$ 含量有影响（图5）,这可能与不同物种具有不同的光合最适宜温度有关[35]。
+
+综上所述,地理因子和气候因子以及植物组成共同影响了区域尺度植物生态化学计量学特征。不同功能群植物叶片N、P元素含量随地理因子和气候因子的变化趋势不一致,这与植物本身的生理特性及植物对营养元素的利用对策不同有关[16,40]。越来越多的研究指出,系统发育、植被类型等在生态化学计量学研究中的重要性[4,9,40-43],而地理、气候、土壤等环境因子对限制性元素的作用程度较低。这些因子一方面对植物自身生长产生影响,另一方面可能会通过影响物种组成进而对区域生态化学计量学特征产生影响。本文仅对豆科、禾本科和莎草科植物进行精细研究，但杂类草里包含多个科植物，这些科的植物元素含量是否也有其独特的随地理因子和气候因子变化规律,本文并未做细致研究。本研究认为,植物功能群组成可能对区域尺度植物生态化学计量学特征起重要性作用[19,44],在植物群落、生态系统、区域或全球尺度等较高的植物结构层次上,不同功能群植物之间的相互组合可能会抵消或掩盖掉某一类群的特性[39],从而对区域尺度植物生态化学计量特征随环境因子的变化规律产生影响。 ）
+
+# 4结论
+
+本研究对青藏高原区域不同功能群植物(豆科、禾本科、莎草科、杂类草)叶片N、P元素化学计量学特征随纬度、海拔、年降水量、年均温度的变化规律展开研究探讨,结论如下：(1)不同功能群植物叶片元素含量差异显著,豆科植物 N、P含量显著高于其他功能群,禾本科植物 N、P含量显著低于其他功能群,N/P 比值在不同功能群之间差异不显著。(2)不同功能群植物叶片N、P元素含量随地理因子和气候因子的变化趋势不一致,豆科、禾本科及杂类草植物叶片P元素含量随海拔的变化较为显著,杂类草和莎草科植物叶片N、P 含量与纬度、年降水量和年均温度之间存在线性相关关系,这与植物本身的生理特性及植物对营养元素的利用对策不同有关。(3)各功能群植物叶片N、P含量对地理因子和气候因子的响应与整个区域的植物叶片水平N、P含量的响应趋势不能吻合,推测在植物群落、生态系统等较高植物结构层次上,不同功能群植物的相互组合,会抵消或掩盖掉某些种类的特性。区域尺度植物生态化学计量学特征的研究,在考虑地理、气候等因子外,亦需要考虑物种组成的影响。
+
+# 参考文献（References）：
+
+[1]HessenDOCarbo，itrogenandposphrusSatusinDaphiaatvaryngfodconditiosJoualofPlanktonResearch，，1（6）:1239-1249.  
+[2]StererRWElserEeologicalStoichiometyTeologofEleentsrMoleclestoeosperePrinceto：PrincetoUivesiyPress，2002.  
+[3]ZhangLX,BaiYF,HanXGApplicationofN:Pstoichiometrytoecologystudies.ActaBotanicaSinica,203,45(9)：19-1018.  
+[4]ElsergaWeofAJeGstBJaeryfplatprouctieablislgdiclresponse to global change.New Phytologist，2010,186(3）： 593-608.  
+[5］樊江文，张良侠，张文彦，钟华平.中国草地样带植物氮磷元素空间格局及其与气候因子的关系.草地学报,2014,22（1）：1-6.  
+[6]PanFJZangW,LuSJ,LiDJ，WangKLLeaf:tocoetycsplantfunctialgrouinhearstegiofouesteia.Trees,2015, 29(3): 883-892.Yan ZB,LiP,ChenYH,HanWX,FangJY.Nutrientalocationstrategiesofwoodyplants；aappoachfromthescalingofnitrogeandphosphorus between twig stems and leaves. Scientific Reports,2016,6:20099.  
+8ReichPeolpesftfaeauredlteofalcacof the United States of America，2004，101(30)：11001-11006.  
+[9] HanWX,FanggYfrgdosusoetrosseerialntseesia.lst,2005，168(2):377-385.  
+[10] 郑淑霞，上官周平.黄土高原地区植物叶片养分组成的空间分布格局．自然科学进展，2006，16(8)：965-973.  
+[11] KerkhoffJ,aganWF,ElserJnqstBJylgetndgowthfovarationinealingofrogendoshoeeplants.The American Naturalist，2006,168(4）：103-122.  
+[12]MGrddOaligf：ooressodelaofeestialfaoEcology，2004，85(9）：2390-2401.  
+[13]Korner C.The nutritional status of plants from high altitudes.Oecologia,1989,81(3）：379-391.
+
+http://www.ecologica.cn
+
+2008,24(4):397-406.  
+[15]Sudstditiiavegetation types in subarctic tundra.PLoS One,2011,6(10）：e27056.  
+[16]Zhao N,HeNP,WangQF,Zhang XY,Wang RL,Xu ZW,Yu GR. The altitudinal paterns of leaf $\mathrm { C } : \mathrm { N } : \mathrm { P }$ stoichiometry are regulated byplant growth form，climate and soil on Changbai Mountain,China.PLoS One,2014,9(4）：e95196.  
+[17]ShiWQ，WangGA,HnWXAltiuialvaratoieaftrogeocetratiooeasteeofontGoaoteTetalate,China.PLoS One，2012，7(9)：e44628.  
+[18]FisherJB,MaliY,TorrsIC,MetcaleDB,vaneWegMJ,Meir,lva-EspejJE,HasoWH.Ntrientlimitatoniifostsdcloud forests along a 3,00-m elevation gradient in the Peruvian Andes.Oecologia,2013,172(3）：889-902.  
+[19]HeJSangJY,WngZ,GuoD,lDFB,GngZooetrdlgalepaeslefaboditrogeiesbiomes of China.Oecologia，2006，149(1）：115-122.  
+[20]ReichPB,EsworhDS，WltersMB,VoseJMGreshaC,VolinJC,owaWDGneraltyfeafritreltioshis：sssixbiomes.Ecology，1999，80(6）：1955-1969.  
+[21］任书杰,于贵瑞，陶波，王绍强.中国东部南北样带 654种植物叶片氮和磷的化学计量学特征研究.环境科学，2007，28（12)：2665-2673.  
+[22］张文彦，樊江文，钟华平，胡中民，宋璐璐，王宁.中国典型草原优势植物功能群氮磷化学计量学特征研究.草地学报，2010,18（4)：503-509.  
+[23］刘旻霞，朱柯嘉.青藏高原东缘高寒草甸不同功能群植物氮磷化学计量特征研究.中国草地学报，2013,35（2）：52-58.  
+[24] 张珂，陈永乐，高艳红，回嵘，何明珠.阿拉善荒漠典型植物功能群氮、磷化学计量特征.中国沙漠，2014，34（5)：1261-1267.  
+[25] Wu TG,Yu MK,WangGG,DongY,Cheng XR.Leaf nitrogen and phosphorus stoichiometr across forty-two woody species in Southeast China.Biochemical Systematics and Ecology，2012,44：255-263.  
+[26]Hu Z M, Yu G R,Fan JW, Zhong HP,Wang S Q, Li S G.Precipitation-use eficiency along a $4 5 0 0 \mathrm { - k m }$ grassland transect. Global EcologyandBiogeography，2010,19（6): 842-851.  
+[27] 樊江文，张良侠，张文彦，钟华平.中国草地样带植物根系N、P元素特征及其与地理气候因子的关系.草业学报，2014,23(5)：69-76.  
+[28] 张璇，程敏熙，肖凤平.利用Origin 对数据异常值的剔除方法进行比较.实验科学与技术，2012，10(1)：74-76，118.  
+[29] 平川，王传宽，全先奎.环境变化对兴安落叶松氮磷化学计量特征的影响.生态学报，2014，34（8)：1965-1974.  
+[30] 张红光，郑广宇，刘强，邱岭.不同 $\mathrm { C } _ { 4 }$ 植物叶片N、P质量分数变化及科、种间差异比较.东北林业大学学报,2010,38（8)：52-53,77-77.  
+[31] 王凯博，上官周平.黄土丘陵区燕沟流域典型植物叶片C、N、P 化学计量特征季节变化.生态学报，2011,31(17)：4985-4991.  
+[32] VitousekPM,uerD,itaK.ritsringloteilvelopetinawaanotaeinforestEo95,(3): 712-720.  
+3]AertsRaFnaltriofiplantsvisidevaatioofprodadcsiolcala1999,30: 1-67.  
+34]HobieEdeKJgbAisssobcsialdSoil,2002,242(1): 163-170.  
+[35]ZhouYC，FanJW,ZhongHPZhangWYRelatioshipsbetweealtitudinalgradientandplantcarbonisotopecompositioofassdcommunities on the Qinghai-Tibet Plateau,China.Science China Earth Sciences,2013,56(2）：3111-320.  
+[36]YanZHeichalalelatalpesfirogdpspstureCcats(344) : 1-6.  
+[37] Yu Q,ChenQS,EserJJ,HeNP,WuHH,ZhangGM,WuJG,BaiYF,HanXG.Linkingstoichiometrichomoeostasis withecosystemstructure,functioning and stability.Ecology Letters，2010,13（11）：1390-1399.  
+[38］张仁懿，史小明，李文金，郭睿，王刚.亚高寒草甸物种内稳性与生物量变化模式.草业科学,2015,32（10)：1539-1547.  
+[39] 张良侠，樊江文，张文彦，钟华平.内蒙古草地植物叶片氮、磷元素化学计量学特征分析.中国草地学报，2014，36(2)：43-48.  
+[40]XuSJ,FanXY，WangLL,ZangXF，AnLZepaesofnitrogenadposporusstocometryacroscounitiesaloglitnalgradients in Qilian Mountains，China.Biochemical Systematics and Ecology，2015,62：58-65.  
+[41]StockeboGgecofflardcetratosatiossiteea-talEcology and Biogeography，2012,21（12）：1147-1156.  
+[42]DiPaloF,FoaraDSoilfertlityndtecarbonutrientstocometryfhrbaceouspantspecisEcosphere，Ol,6）：-15.  
+[43]Yang X,HuangZY,ZangKL，CoelisenJHC.C：N:PstoichoetryfArtemisiaspeciesadcloserelatvesacrossorhina:unravelling effects of climate，soil and taxonomy.Journal of Ecology，2015,103(4）：1020-1031.  
+[44]HeJS,WangL，FlynDFB，WangXP,MaWH,FangJY.Leafnitrogen：phosphorusstoichiometryacros Chinesegraslandbiomes.Oecologia，2008，155(2）：301-310.

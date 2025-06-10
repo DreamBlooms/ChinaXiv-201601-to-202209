@@ -1,0 +1,312 @@
+[
+    {
+        "type": "text",
+        "text": "Syntheses, Crystal Structures, and Photoluminescent Properties for One New Cd(II) CP Based on 3,5-Bis(4'-carboxy-phenyl)-1,2,4-triazole and 1,4-Bis(imidazol-1-ylmethyl)benzene ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HOU Xiang-Yang(侯向阳);WANG Xiao (王潇);REN Yi-Xia(任宜霞);WANG Ji-Jiang(王记 江);JIN Wei(金伟);KANGWei-Wei(康伟伟);MA Xin(马鑫);HAN Xing-Xing(韩星星)   \n(Department of Chemistry and Chemical Engineering, Yan'an University Laboratory of New Energy & New Function Materials, Yan'an University, Yan'an, Shaanxi 7160oo0, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT One new coordination polymer (CP) [Cd(bct)(bib)]·2 $\\mathrm { { \\cdot { H } _ { 2 } O ) } }$ (1), based on 3,5-bis( $4 ^ { \\prime }$ -carboxyphenyl)-1,2,4-triazole( $\\mathrm { { H } } _ { 2 } \\mathrm { { b c t ) } }$ and1,4-bis(imidazol-1-ylmethyl)benzene(bib)， hasbeen synthesized by hydrothermal method,and its structure was determined and characterized by single-crystal $\\mathrm { \\Delta } X$ -ray diffraction analysis, elemental analysis, IR spectroscopy,and thermogravimetric analysis. The crystal structure of CP1 is a three-dimensional framework with (3,5)-connected topology，where the bct ligands adopt a $\\mu _ { 3 } – k 0 , k 0 , k 0$ coordination mode connecting with three Cd centers and the bib ligands adopt a $\\mu _ { 2 } – k \\mathbf { N } , k \\mathbf { N }$ coordination mode bridging two Cd ions. It crystallizes in monoclinic system， space group $C 2 / c$ ，with $a = 2 . 6 8 3 8 ( 4 )$ ， $b =$ 1.24221(17), $c = 1 . 8 0 1 1 ( 2 ) \\mathrm { n m }$ $\\beta = 1 0 2 . 9 3 9 ( 2 ) ^ { \\circ }$ ,V= 5.8522(13) $\\mathrm { n m } ^ { 3 }$ $Z = 8$ ， $\\mathrm { C _ { 3 0 } H _ { 2 7 } C d N _ { 7 } O _ { 6 } }$ $M _ { r } = 6 9 4 . 0 0$ $D _ { c } = $ 1.566 g/cm³， $F ( 0 0 0 ) ~ = ~ 2 7 8 4$ ， $\\begin{array} { r } { \\begin{array} { r c l } { S } & { = } & { 1 . 0 5 5 } \\end{array} } \\end{array}$ ， $R \\ = \\ 0 . 0 2 9 4$ and $w R \\ = \\ 0 . 0 7 3 1$ . Furthermore， solid-state photoluminescence measurements show that CP 1 produces strong emissions at room temperature. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: cadmium CPs; synthetic, crystal structure;fluorescence; DOI: 10.14102/j.cnki.0254-5861.2011-1628 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUNCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years,functional CPs have received considerable attention owing to their intriguing structures[l-3] and promising applications in catalysts，adsorption， magnetism， and so $\\mathrm { o n } ^ { [ 4 - 7 ] }$ Especially， luminescent coordination compounds have atracted intensive research interest for their potential applications as chemical sensors,light-emiting devices,etc.It is well established that many factors,such as $\\mathrm { p H }$ values,molar ratios between metal ions and ligands,reaction temperature,in particular,the coordination abilityof metal centers and the coordination sites in organicligands,have significant influence on the assembly process of MOFs[8-11]. Therefore,systematic researches of the effect of these factors on the assembly process are a key challenge to construct desirable coordination polymers by using proper ligands. In the reported studies,organic aromatic polycarboxylate ligands are good candidates for the construction of metal organic frameworks due to their various coordination modes to metal ions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently,we have been interested in the use of semirigid multicarboxylate linkers,such as pyridine-3,5- bis(phenyl-4-carboxylicacid)，3,5-bis(3-carboxyphenyl)-1,2,4-triazole，1,4-bis(1,2,4-triazol-1-yl)butane, 1,4-bis(2-methyl-imidazol-1-yl)-butane,1,3-bis(5,6-dime-thylbenzimidazole)butane,1,4-bis(N-imidazolyl)butane, etc.to construct coordination polymers and to promote the investigation of structure-property relationship. Many interesting frameworks have been observed[12-15]. In continuation of this theme,we choose semirigid ligand Hzbct and bib as the neutral ligands to atempt to build coordination polymers and to investigate their structure-related properties.This has two obvious characteristics.Firstly, Hbct adopts various coordination modes when it coordinates to metals and thus may produce various structures; secondly,the introduction of a second bridging ligand to extend the metal carboxylate systems is one of the common ways to obtain higher dimensional networks. Using hydrothermal method, compound 1 formulated as $\\mathrm { [ C d ( b c t ) ( b i b ) ] } { \\cdot } 2 ( \\mathrm { H } _ { 2 } \\mathrm { O } )$ has been synthesized. In this contribution,we present the syntheses and detailed structure descriptions of CP1, thermal stability analyses,as well as the photoluminescent investigations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All chemicals of analytical grade were commercially available and used without further purification. The elemental analyses were performed on an Elementar Vario EL II microanalyzer. The FT-IR spectra were obtained on a Perkin-Elmer Spectrum using KBr disks in the range of $4 0 0 0 { \\sim } 4 0 0 ~ \\mathrm { c m ^ { - 1 } }$ . Thermogravimetric analysis (TGA) experiments were done on a NETZSCH STA449C Jupiter thermogravimetric analyzer in the nitrogen atmosphere at a heating rate of $1 0 \\mathrm { ~ K ~ m i n ^ { - 1 } }$ . Photoluminescence analyses of the solid samples were performed on an Edinburgh Instrument F92O fluorescence spectrometer at ambient temperature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Synthesis of $\\mathrm { [ C d ( b c t ) ( b i b ) ] } { \\cdot } 2 ( \\mathrm { H } _ { 2 } \\mathbf { O } )$ (1) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A mixture of Hbct (0.5 mmol), bib (0.5 mmol), $\\mathrm { C d } ( \\mathrm { C H } _ { 3 } \\mathrm { C O O } ) _ { 2 } { \\cdot } 2 \\mathrm { H } _ { 2 } \\mathrm { O }$ （ $0 . 5 \\mathrm { m m o l } \\cdot$ ),and NaOH (1.0 mmol) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in aqueous solution ( $1 5 ~ \\mathrm { m L }$ ） was sealed into a $2 5 ~ \\mathrm { m L }$ poly(tetrafluoroethylene)-lined stainless-steel container under autogenous pressure and then heated at $1 3 0 ~ ^ { \\circ } \\mathrm { C }$ for 4 days and cooled to $3 0 ~ ^ { \\circ } \\mathrm { C }$ at a rate of $5 ~ ^ { \\circ } \\mathrm { C } { \\cdot } \\mathrm { h } ^ { - 1 }$ Colorlessblock crystals suitable for X-ray analyses were obtained, washed with distilled water and dried in air. Yield: $46 \\%$ (based on Cd) for 1. Anal. Calcd. for $\\mathrm { C _ { 3 0 } H _ { 2 7 } N _ { 7 } O _ { 6 } C d }$ : C, 51.92; H, 3.92; N, $1 4 . 1 3 \\%$ . Found: C, 51.86; H, 3.81; N, $1 4 . 3 3 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Crystal structure determination ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The single-crystal $\\mathrm { \\Delta } \\mathrm { X }$ -ray diffraction measurement was performed on a Bruker Smart-1OooCCD for 1, which is equipped with a graphite-monochromated MoKa radiation source $( \\lambda = 0 . 7 1 0 7 3 \\mathrm { ~ \\AA ~ } )$ by a $\\varphi \\mathrm { - } \\omega$ scan mode ( $1 . 8 1 \\leqslant \\theta \\leqslant 2 6 . 3 7 ^ { \\mathrm { o } } ,$ . A total of 16127 reflections were collected and 5986 were independent ( $( R _ { \\mathrm { i n t } } =$ 0.0367),of which 4710 were observed with $I > 2 \\sigma ( I )$ . The structure was solved by direct methods using the SHELXS-97[16]. The subsequent successive diference Fourier syntheses yielded other non-hydrogen atoms. The final structure was refined using a full-matrix least-squares refinement on $F ^ { 2 }$ by SHELXL-97[17]．All non-hydrogen atoms were refined anisotropically. The hydrogen atoms attched to oxygen were located from difference Fourier maps.The remaining hydrogen atoms were calculated in idealized positions and allowed to ride on their parent atoms. The final $R = 0 . 0 2 7 1$ and $w R = 0 . 0 5 9 3$ （20 $( w = 1 / [ \\sigma ^ { 2 } ( { F _ { o } } ^ { 2 } ) + ( 0 . 0 3 0 P ) ^ { 2 } + 4 . 5 5 2 6 P ] .$ where $P = ( F _ { o } ^ { 2 } + 2 F _ { c } ^ { 2 } ) / 3 )$ ）for 4710 observed reflections. $( \\Delta / \\sigma ) _ { \\mathrm { { m a x } } } = 0 . 0 0 1$ ， $( \\Delta \\rho ) _ { \\mathrm { m a x } } = 1 . 0 0 5$ and $( \\Delta \\rho ) _ { \\mathrm { m i n } } =$ $- 1 . 2 9 6 { \\mathrm { e } } / { \\mathring { \\mathrm { A } } } ^ { 3 }$ . The selected interatomic distances are given in Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1Crystal structure of $\\mathrm { [ C d ( b c t ) ( b i b ) ] } { \\cdot } 2 ( \\mathrm { H } _ { 2 } \\mathbf { O } )$ (1) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "X-ray single-crystal diffaction analysis reveals that 1 is a 3D framework incorporating two 1D double-strand chains. It crystallizes in the monoclinic crystal system with space group $C 2 / c$ . The asymmetric unit contains one $\\mathrm { C d ^ { 2 + } }$ ion, one Hbct ligand, one bib,and two guest water molecules. As shown in Fig. la, the $\\operatorname { C d } ( 1 )$ is five-coordinated by three oxygen atoms (O(1), O(2#1), O(4#2), #1: $0 . 5 - x , 0 . 5 - y , - z ; \\# 2 ; - 0 . 5 -$ （20 $0 . 5 - y , 0 . 5 + z )$ from three Hbct ligands and two nitrogen atoms (N(4),N(7#3). #3: $0 . 5 \\substack { + x }$ $- 0 . 5 + y , z$ ）from two bib ligands,displaying a distorted triangular bipyramidal geometry.The Cd-Oand Cd-N bond lengths fall in the range of $0 . 2 2 5 9 ( 2 ) \\sim 0 . 2 3 8 5 ( 2 )$ nm，which are well-matched with those observed in similar complexes[18]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two carboxylate groups of the bct ligands show two coordination modes that coordinate to $\\mathrm { C d ^ { 2 + } }$ respectively in CPs 1. One carboxylate group (O(3), O(4)) of bct anions forms bonds to one $\\mathrm { C d ^ { 2 + } }$ ion through a $\\mu _ { 3 } { \\cdot } k \\mathrm { O }$ mode,while another (O(1), O(2)) to two $\\mathrm { C d ^ { 2 + } }$ ions through the $\\mu _ { 3 }$ $\\imath { \\imath } _ { ^ { - } } k \\mathrm { O }$ $k \\mathrm { O }$ mode. Thus,each bct ligand shares the same coordination environment by coordinating to three cadmium ions with its two carboxylate groups in all(Fig.1b). The nearest Cd atoms are bridged via carboxyl oxygen atoms to form a dimer unit （204号 $[ \\mathrm { C d C O } _ { 2 } ] _ { 2 }$ with the Cd·..Cd separation of $3 . 9 3 0 6 \\mathring { \\mathrm { A } }$ . In turn, each deprotonated dianionic $\\mathsf { b c t } ^ { 2 - }$ ligand links two （204号 $[ \\mathrm { C d C O } _ { 2 } ] _ { 2 }$ via two carboxylate groups,resulting in a 1D double-strand chain along the $a$ axis. The shortest Cd.Cd separation in the 1D chain is 17.7635 $\\mathring \\mathrm { A }$ .The bib ligand provides nitrogen atom (N(4), N(7)) as binding sites to interval link the basic units $[ \\mathrm { C d C O } _ { 2 } ] _ { 2 }$ of adjacent 1D double chains, giving rise to a 2D layered undulating framework in the ac plane (Fig.1c).Further,the bib ligands in accordance with identical chain method link the remaining basic units $[ \\mathrm { C d C O } _ { 2 } ] _ { 2 }$ of adjacent 1D double chains along the $b$ axis,which changes the framework from 2D to 3D (Fig. 1d). To analyze the net, we can define the bct ligands and $\\operatorname { C d } ( \\mathbb { I } )$ as threeand five-connected nodes,and the bib ligands are regarded as lines.These two nonequivalent nodes lead to a (3,5)-connected topology network of CP1,as shown in Fig.le. The strong intermolecular hydrogen bonding interactions formed between two latice water molecules (O(5), O(6)), the oxygen atoms (O(3), O(4)) and the nitrogen atoms (N(2),N(3))of bct ligands.The geometrical parameters of all hydrogen bonds are listed in Table 2.It is worth nothing that hydrogen bonding interactions play a critical role in stabilizing the structure. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2IR spectra ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The IR spectra display characteristic absorption bands for water molecules,carboxylate,and phenyl units (Fig. 2). CP 1 shows broad absorption bands in the range of $3 1 0 0 { \\sim } 3 7 0 0 \\ \\mathrm { c m } ^ { - 1 }$ , which indicates the presence of $\\nu _ { \\mathrm { O - H } }$ stretching frequencies of coordinated water molecules. CP1 also exhibits strong characteristic absorption around the frequency range of $1 5 0 0 { \\sim } 1 7 0 0 \\ \\mathrm { c m ^ { - 1 } } \\ \\nu _ { \\mathrm { a s C O O } } { \\mathrm { ^ { - } } }$ .The characteristic IR band of the phenyl ring at $8 4 0 \\sim$ $8 7 0 \\mathrm { c m } ^ { - 1 }$ due to the $\\delta _ { \\mathrm { = C - H } }$ vibrations for 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3Thermogravimetric analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The thermal analysis curve of complex 1 was investigated. The first weight loss of $5 . 3 1 \\%$ observed from 80 to $2 7 0 ^ { \\circ } \\mathrm { C }$ of complex 1 corresponds to the departure of one coordinated water molecule (calculated $5 . 1 9 \\%$ ） It keeps losing weight from 290 to $4 3 0 ~ ^ { \\circ } \\mathrm { C }$ (observed $34 . 5 7 \\%$ , calculated $34 . 3 4 \\%$ ),which can be attributed to the removal of the remaining bib ligand. Above $6 5 0 ~ ^ { \\circ } \\mathrm { C }$ ，a plateau region is observed, implying that the bct decomposes.The framework further decomposes from 320 to $4 6 0 ^ { \\circ } \\mathrm { C }$ ，which is attributed to the decomposition of the framework. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4 UV-visible spectra ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The UV-vis absorption spectra of the free ligand Hbct and CP1 measured in solid state are shown in Fig 3. The absorption maxima are 267 and $3 4 3 ~ \\mathrm { n m }$ for H2bct, which can be attributable to the singlet-singlet n- ${ \\boldsymbol { \\cdot } } { \\boldsymbol { \\pi } } ^ { * }$ and $\\pi { - } \\pi ^ { * }$ absorptions of the aromatic and triazine rings.Nevertheless,compared with the Hzbct ligand,a slight blue shift is discernible in the absorption maximum of CP 1,which could be assigned to the perturbation induced by the metal ion coordination. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5Luminescent property ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Considering coordination complexes with $d ^ { 1 0 }$ metal ions usually indicate relatively strong luminescence, the solid-state photoluminescence properties of complex 1, the corresponding free $\\mathrm { \\sf H } _ { 2 } \\mathrm { b c t }$ and bib ligands have been investigated at room temperature (Fig. 4). The pure Hbct and bib ligands show emisson of 42O and 440 nm under 350 and $3 6 0 \\mathrm { n m }$ excitation. Complex 1 excited at $4 2 0 ~ \\mathrm { n m }$ produces an intense emission band with a maximum at $3 6 0 ~ \\mathrm { n m }$ , compared with the emission spectra of Hzbct and bib ligands, a certain degree of red shift in complex 1 was observed. Since the $\\operatorname { C d } ( \\operatorname { I I } )$ ion is difficult to oxidize or reduce due to its electronic configuration, the emission bands of the related complexes are neither metal-to-ligand charge transfer (MLCT) nor ligand-to-metal charge transfer (LMCT) in nature[19]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One new CPs [Cd(bct)(bib)]·2( $\\mathrm { { H } } _ { 2 } \\mathrm { { O } ) }$ (1) has been synthesized by hydrothermal methods,and the structure was determined and characterized by single-crystal $\\mathrm { \\Delta } X$ -ray diffraction analysis，elemental analysis，IR spectroscopy，and thermogravimetric analysis.The crystal structure of complex 1 is a three-dimensional framework, where the bct ligands adopt a $\\mu _ { 3 } – k 0 , k 0 , k 0$ coordination mode connecting with three $\\mathrm { C d } ^ { 2 + }$ centers and the bib ligands adopt a $\\mu _ { 2 } – k \\mathbf { N } , k \\mathbf { N }$ coordination mode bridging two $\\mathrm { C d ^ { 2 + } }$ ions.Furthermore,solid-state photoluminescence measurements show that complex 1 produces strong emission at room temperature. Most interestingly， the reported complex $\\mathrm { [ C d ( b c t ) ( H _ { 2 } O ) ] } { \\cdot } 3 ( H _ { 2 } O ) ^ { [ 2 0 ] }$ (Hbct = 3,5-bis( $4 ^ { \\prime }$ -carboxyphenyl)-1,2,4- triazole） is a one-dimensional framework，where the bct ligands adopt a $\\mu _ { 3 } – k O , k O , k O$ coordination mode connecting with three Cd centers.And compared with complex 1,the bib ligands dominantly affect the formation of the 3D structure and luminescent properties for CP1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）Gao,R.;ZouXLiW;Cn.WuLFcilesisoffodeldeiedglectaltataatebd their assembly into oriented two-dimensional nanofilm. CrystEngComm.2013,14,7031-7035.   \n(2）LiX.JZT;;aGXbtoaeiso) coordination polymers incorporating flexible bis(imidazolyl)ligands.Cryst.Growth Des.2015,15,278-290. (3）Borigi;Z;HZeaobi from water. ChemCommun.2012,48,7613-7615.   \n(4）Yang,J.;Ma,J.F.;Baten,S.R.Polyrotaxane metal-organic frameworks (MOFs).ChemCommun.21,48,7899-7912.   \n(5）Lu,JF;;so 1,3-bis(imidazol)propane and pyridine-3,5-dicarboxylic acid. Chin.J. Struct. Chem.2015,2,248-252.   \n(6）Hen,S. Y.；Yang,E.； Xie,C.L.； Xiao,X.F. Synthesis,structure and luminescent property of a new $Z \\mathrm { n } ( \\mathrm { I I } )$ coordination polymer based on 1,3,5-benzenetricarboxylate and $^ { 4 , 4 ^ { \\prime } }$ -bipyridine ligands.Chin.J. Struct.Chem.2015,2,235-240.   \n(7）Zhang,aaeoatel 1001-1033.   \n(8）Chen.ugaLeed based on copper(II) and trimesic acid. Cryst. Growth Des.2007,7,1171-1175.   \n(9）Fang,R.Q;Zang,X..Diersityofoodinatioarchitectureofetal4,5-carboydazle.IrgChm.,45,4810.   \n(10）Hungedeeoidustfd dicarboxylate ligands.Cryst.Growth Des.2009,9,4613-4625.   \n(11）Zhai, Q.G.； Lin,Q.P.；Wu,T.； Zheng,S.T.；Bu, X.H.； Feng,P.Y. Induction of trimeric $\\mathrm { \\mathrm { [ M g _ { 3 } ( O H ) ( C O _ { 2 } ) _ { 6 } ] } }$ in a porous framework by a desymmetrized tritopic ligand. Dalton Trans.2012,41,2866-2868.   \n(12）Jia,JH;;E.odeeeo frameworks with high $\\mathrm { H } _ { 2 }$ adsorption. Chem. Commun.2007,8,840-842.   \n(13）Han,M.L;Wang,J.G;Ma,L.Guo,H.;Wang,L.YConstructionofCd()cordinationpolymersbasedonR-isophtlate $\\mathrm { { ( } R = - C H _ { 3 } }$ or $\\mathrm { - O C H } _ { 3 }$ ） and flexible N-donorco-ligands: syntheses,structures and photoluminescence.CrystEngComm.2012,14,2691-2701.   \n(4）iao.; bis(benzimidazole)ligands.J. Coord. Chem. 2012,65,2852-2861.   \n(15）SAINT, Version 6.02A.; Bruker AXS Inc.: Madison W12002.   \n(16）Sheldrick,G.M.SHELXs-97,Programforthe SolutionofCrystal Structures.UniversityofGottingen,Germany1997.   \n(17）Sheldrick,G.M.SHELXL-97,ProgramfortheRefinementofCrystal Structures.UniversityofGotingen,Germany1997.   \n(18）Agarwal,R.A.Structuraldiversityandluminescencepropertiesofthenovel{[Zn(TBIB)(HBTC)] $3 \\mathrm { H } _ { 2 } \\mathrm { O } \\} _ { \\mathrm { n } }$ and $\\{ \\mathrm { [ C d _ { 3 } ( T B I B ) _ { 4 } ( B T C ) _ { 2 } ] \\cdot 2 C _ { 2 } H _ { 5 } O H \\cdot 1 1 H _ { 2 } O \\} _ { n } }$ coordination polymers.Polyhedron 2015,85,740-747.   \n(19）Huang,Xe..Cug;.r metal-organic framework based on mixed flexible ligands.Inorg.Chem.Commun.2010,13,338-341.   \n(20）Yu,.;adealedde dicarboxylic acid.RSC.Adv.2013,3,25175-25183. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cd916f9a1c98321e449c5880e38099ee2bd145c5c44d0f2b4f844731c40e337.jpg",
+        "img_caption": [
+            "Fig.la. Coordination environment of Cd(1) in 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Symmetry codes: #1: $\\mathbf { 0 . 5 } - x , \\mathbf { 0 . 5 } - y , - z ;$ #2: $- 0 . 5 + x$ ,0.5-y, $\\mathbf { 0 . 5 + } z$ #3: $\\mathbf { 0 . 5 } + x , - \\mathbf { 0 . 5 } + y , z$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1ba72d5cb7c75ceaec6f622c1229a155767805da658a883827688010865c0b1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/da2a16b0d625f194c106e1a8b3ca4178595fb3be7a41a33991518af6a1282ddc.jpg",
+        "img_caption": [
+            "Fig.1b. Coordination environment of bct in CPs 1 and 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a78f2ccec70a80414f142c8ad8b2a9b77214060addb76aee77e051c60826b4b0.jpg",
+        "img_caption": [
+            "Fig.1c.2D structure of [Cd(bct)(bib)]·2(H2O) (1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8042d310fd5e967bf5ec3a16c1ad208b0c4eb91da3a0b2800f18b428c45161e.jpg",
+        "img_caption": [
+            "Fig.1d.3D structure of [Cd(bct)(bib)]·2(HO) (1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a42332b3d16284ccb3c82a58adc35243c376cdd5c7092efd5bed5380a0d3343.jpg",
+        "img_caption": [
+            "Fig.1e.Topology structure of [Cd(bct)(bib)]·2(H2O) (1) ",
+            "Fig.2.Infrared spectroscopy of $\\mathbf { [ C d ( b c t ) ( b i b ) ] { \\cdot } 2 ( H _ { 2 } O ) }$ (1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1a44706362c9bc7d7ef61e539e85295b5c5f601e19b2d4d871d4ac2620d7cea.jpg",
+        "img_caption": [
+            "Fig.3.UV-vis absorption of Hzbct and complex 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8b3b632287f76cda78a88ef61b7a12c21f86192cbc0490e9af78e80ac9b9a54.jpg",
+        "img_caption": [
+            "Fig.4.Emission spectra of complex1,Hzbct and bib in the solid state at room temperature "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/86cc846fff210190597946752045597cd6d7247eac5267caaa309942fd434c79.jpg",
+        "table_caption": [
+            "Table1．Selected Bond Lengths (nm) and Bond Angles(°) in Cp1 "
+        ],
+        "table_footnote": [
+            "Symmetry codes: #1: 0.5-x, $0 . 5 - y ,$ -z; #2: $- 0 . 5 + x .$ 0.5-y, $0 . 5 + z ^ { . }$ #3: $0 . 5 + x .$ （204 $- 0 . 5 + y , z$ （20 "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">1</td></tr><tr><td>Cd(1)-0(1)</td><td>0.2376(2)</td><td>Cd(1)-0(4)#2</td><td>0.2385(2)</td><td>Cd(1)-0(2)#1</td><td>0.2347(2)</td></tr><tr><td>Cd(1)-N(7)#3</td><td>0.2266(2)</td><td>Cd(1)- N(4)</td><td>0.2259(2)</td><td>N(7)#3-Cd(1)-O(2)#1</td><td>87.27(9)</td></tr><tr><td>N(7)#3-Cd(1)-0(1)</td><td>84.54(8)</td><td>N(7)#3-Cd(1)-0(4)</td><td>88.70(5)</td><td>0(2)-Cd(1)-0(2)#1</td><td>74.62(8)</td></tr><tr><td>0(4)-Cd(1)- N(7)</td><td>88.93(2)</td><td>0(2)#1-Cd(1)-0(4)#2</td><td>95.48(5)</td><td>0(1)-Cd(1)-0(2)#1</td><td>126.37(9)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c57525a1cd0086cb846735d2b65b81a29fc32ef713a2906189c5f9fb1bb23115.jpg",
+        "table_caption": [
+            "Table 2.Hydrogen Bond Lengths $( \\mathring \\mathbf { A } )$ and Bond Angles (°) for CP1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>D-HA</td><td>d(D-H)/A</td><td>d(H  A)/A</td><td>d (D-H·A)/A</td><td>∠DHA/°</td></tr><tr><td>N(2)-H(2A)#4··O(6)</td><td>0.86</td><td>1.87</td><td>2.695(3)</td><td>159</td></tr><tr><td>0(5)-H(5A)··N(3)#1</td><td>0.97</td><td>1.96</td><td>2.883(4)</td><td>157</td></tr><tr><td>0(5)-H(5B)·O(1)</td><td>0.74</td><td>2.20</td><td>2.873(3)</td><td>152</td></tr><tr><td>0(6)-H(6A):0(3)#2</td><td>0.86</td><td>1.97</td><td>2.824(3)</td><td>174</td></tr><tr><td>O(6)-H(6B)··O(4)#3</td><td>0.86</td><td>2.16</td><td>2.990(3)</td><td>163</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Syntheses, Crystal Structures, and Photoluminescent Properties for One New Cd(II) CP Based on 3,5-Bis( $\\mathbf { \\partial } \\mathbf { \\mathcal { G } } ^ { \\prime }$ -carboxy-phenyl) 1,2,4-triazole and 1,4-Bis(imidazol-1-ylmethyl)benzene ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HOU Xiang-Yang(侯向阳） WANG Xiao(王潇) REN Yi-Xia(任宜霞)WANG Ji-Jiang(王记江） JINWei(金伟)KANG Wei-Wei(康伟伟） MA Xin(马鑫） HAN Xing-Xing(韩星星)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The new CP [Cd(bct)(bib)]·2 $\\mathrm { ( H } _ { 2 } \\mathrm { O } )$ (1） has been synthesized,and its structure was determined and characterized by single-crystal X-ray diffraction analysis， elemental analysis，IR spectroscopy，and thermogravimetric analysis.The crystal structure of 1 is a three-dimensional framework.Furthermore, CP1 produces strong emissions at room temperature. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6959331cb55200f331b9efd8bc2b347acdd5f672ec0b433b0ece9b01dbda814d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "中文意思：文献报道的一维链结构配合物[Cd(bct) $\\mathrm { { H } } _ { 2 } \\mathrm { { O } ) }$ ]·3 $\\mathrm { ( H } _ { 2 } \\mathrm { O } )$ 中，配体bct采用 $\\mu _ { ^ { 3 - k O , k O , k O } }$ 的配位模式与链接三个金属镉离子。与具有三维结构、荧光性质的标题配合物1相比较，bib 配体对配合物1结构和性质的形成有重要影响。",
+        "page_idx": 8
+    }
+]

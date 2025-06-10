@@ -1,0 +1,509 @@
+[
+    {
+        "type": "text",
+        "text": "Spatiotemporal patterns of the forage-livestock balance in the Xilin Gol steppe, China: implications forsustainably utilizing grassland-ecosystem services ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "QU Yingbo1, ZHAO Yuanyuan1,2\\*, DING Guodong1,2, CHI Wenfeng^, GAO Guanglei1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Key Laboratoryof StateForestry Administrationon Soiland Water Conservation,Beijing Forestry University,Beijing   \n100083,China;   \n2Yanchi Research Station,SchoolofSoiland Water Conservation,Beijing Forestry University,Beijing 1083,China;   \n3Colege of Resources and Environmental Economics,Iner Mongolia Universityof Finance andEconomics,Hohhot010017,   \nChina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Understanding the spatiotemporal patterns of the forage-livestock balance is imperative for regionally arranging animal husbandry production while ensuring sustainable grassand-ecosystem service use. The Xilin Gol steppe is an important native grassand resource in Inner Mongolia Autonomous Region,China.This study aimed to elucidate the dynamics of the forage-livestock balance in the Xilin Gol steppe during the period 2000-2O15. We evaluated the forage production and corresponding livestock carrying capacity (LCC) in the growing seasons of 2Oo0-2015 using remote sensing data and field surveys. The spatiotemporal paterns of the forage-livestock balance were then assessed at regional, city (including city, county and banner),and vilage scales using statistical and household survey data.The results showed that both forage production and LCC decreased in the Xilin Gol steppe from east to west. During the period 2Oo0-2015,the regional average forage production and corresponding LCC fluctuated without following a distinct trend,but were consistent with the variations in precipitation. The forage-livestock balance varied with time,space,and scale.At the regional scale, steppes were overgrazed in the early 2000s, but a forage-livestock balance or even grazing potential was achieved in other years. At the city scale,approximately half of the region exhibited a \"forage-livestock balance\" since 2Ooo. However, about half of the region stil experienced overgrazing, which mainly located in the southwest sandy zones. Such changes may have been afected by the variations in grassland quality, forage production,compensation payment, and so on. We suggest a location-specific management scheme for grazing constraints, ecological compensation payment, and industry development to aid in harmonizing animal husbandry and environmental restoration, while promoting sustainable development goals by 2030. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: forage production;livestock carrying capacity； forage-livestock balance; Xilin Gol steppe; sustainable development ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Grasslands constitute the largest terrestrial ecosystem, accounting for approximately $40 \\%$ of land worldwide (excluding Greenland and Antarctica; White et al.， 2OoO). They provide significant ecosystem goods and services,such as livestock supply, soil and water conservation,and carbon storage (Zhao et al.， 2017,2O2O)； the sustainable utilization of grassland resources is the foundation of regional ecosystem services provision, and economic and societal sustainability. As one of the most critical ecosystem services provided by grassands,livestock provision will become increasingly important as global demand for animal protein and dairy products increases in the coming decades (Abbasi et al.,2O16). The global demand for beef, mutton,and dairy was estimated to increase by $1 3 . 9 \\%$ ， $2 2 . 0 \\%$ ，and $2 2 . 2 \\%$ ，respectively，between 2011 and 2020 (OECD-FAO, 2011). The grazing management mode could strongly impact the regional richness, biomass,carbon sequestration capacity,and ecological health of grasslands (Atsbha et al., 2019). Therefore,animal husbandry and grassland ecosystem services are complementary and mutually restricted. China contains approximately $10 \\%$ of the global grassland; grassland is one of the most essential ecosystems in northern China (Ni, 20O2； Kemp et al., 2013). The livestock carrying capacity (LCC) refers to the maximum level of livestock rearing in a grassland ecosystem without compromising its production (Galt et al.,2OoO). However, the actual level of livestock production in grasslands exceeds the LCC and is becoming increasingly serious; thus, overgrazing and the degradation of grasslands have become a challenge for sustainable grassland utilization. Therefore,the spatiotemporal patterns of the LCC in natural grasslands and the forage-livestock balance must be studied for national policymaking,ecological protection,and the sustainable development of animal husbandry. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A series of studies have been conducted on regional forage production and LCC. The accurate evaluation of forage production methods can be categorized into three types, i.e., direct harvest, statistical modeling,and integrated models (Tilman et al., 2OO1). The commonly used statistical technique employs remote sensing data and ground surveying to establish statistical model, and forage production can then be retrieved from the statistical model (Zhao et al., 2O14). With the development of remote sensing technology，models integrated with remote sensing data are becoming increasingly prevalent. Modeling net primary productivity (NPP) and then estimating forage production can compensate for the restrictions of ground surveys and is becoming more broadly utilized in regional, national,and even global-scale research. For example, Liu et al. (2015)estimated the NPP in the Xilin Gol steppe in Inner Mongolia Autonomous Region of China using the Carnegie-Ames-Stanford Approach (CASA） model with the normalized difference vegetation index (NDVI) and meteorological data as major inputs. Zhao et al. (2O14) used ground survey data and the MOD17A2 NPP product for the growing seasons of 2O05-2012 to retrieve and analyze the spatiotemporal patterns of the aboveground biomass in the Xilin Gol steppe.The use of this product in grasslands-related studies has been increased due to its higher resolution and accuracy (Zhao and Running, 2O1O; Guo et al., 2O2O; Ren et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The LCC must be estimated to accurately determine the forage-livestock balance level. Owing to the complexity of grassland ecosystems and the grazing mechanism, developing an LCC calculation strategy is a great challnge. Hobbs and Swift (1985) first proposed a nutrient supply method to estimate the LCC. Hao et al. (2O11) improved this method and assessed the LCC in Alpine Kobresia grassland in Maduo County, China.Yu et al.(2O04) conducted a study in Inner Mongolia according to the \"determine LCC according to forage production\" theory and produced a map of reasonable stocking rates. Li et al.(2OO9) utilized the GrazFeed model to estimate the forage-livestock balance level in Xilinhot City, China, using the feed supply, grassland, climate conditions, and livestock breeds as inputs. Among these strategies, \"determine LCC according to forage production\" has become the most frequently used one as it uses a direct and simple algorithm (Zhang et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Xilin Gol steppe is located in the central Eurasian steppe, representing an important native grassland resource in Inner Mongolia (Hao et al.,2O14). It has been identified as one of the most representative natural grasslands and provides an ecological buffer for northern China. Livestock grazing is the major industry in Xilin Gol League. However, owing to the stress caused by climate change and human activities,the Xilin Gol steppe has gradually been degraded,and conflict between grassland ecosystem stability and grazing is common (Batunacun et al., 2O18; Zhao et al., 2018). Most previous studies on the Xilin Gol steppe focused on the changes in vegetation patterns and their responses to climate change and human activities (Tong et al., 2OO4; Li et al., 2012；Zhao et al.， 2012; Gao et al.，2013； Zhao et al.，2014).However, knowledge of the forage-livestock balance level in this graze-dominant region remains elusive,which limits the formulation of rational grazing strategies and grassland sustainability, to an extent. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore,this study aimed to estimate the spatiotemporal patterns of forage production and LCC in the Xilin Gol steppe from 2000 to 2015,by combining remote sensing，statistical, meteorological observation,and ground survey data. The forage-livestock balance level was then estimated at the regional, city (including city,county,and banner; hereafter called at the city scale),and village scales. Based on these results，we also discussed measures for grassland sustainable management and utilization for this region. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Xilin Gol League $( 4 1 ^ { \\circ } 3 5 ^ { \\prime } – 4 6 ^ { \\circ } 4 6 ^ { \\prime } \\mathrm { N }$ $1 1 1 ^ { \\circ } 0 9 ^ { \\prime } - 1 1 9 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { E }$ ; Fig.1) is located in the_central part of Inner Mongolia Autonomous Region of China, covering a total area of $2 . 0 3 { \\times } 1 0 ^ { 5 } ~ \\mathrm { k m } ^ { 2 }$ Natural grassland covers an area of $1 . 9 7 \\times 1 0 ^ { 5 } ~ \\mathrm { k m } ^ { 2 }$ , accounting for $9 7 . 0 0 \\%$ of the total area. The grazing grassland area accounts for approximately $8 6 . 7 0 \\%$ of the total area,which includes typical, meadow,and desert steppe ecosystems，with the area percentages of $5 9 . 7 0 \\%$ ， $1 7 . 2 4 \\%$ ，and $2 3 . 0 6 \\%$ ，respectively. The study area belongs to the semi-arid and arid continental zone and experiences a temperate monsoon climate,with large annual temperature variation and irregular precipitation. The annual mean temperature is $0 ^ { \\circ } \\mathrm { C } - 3 ^ { \\circ } \\mathrm { C }$ with the minimum of $- 2 0 ^ { \\circ } \\mathrm { C }$ in January and the maximum of $2 1 ^ { \\circ } \\mathrm { C }$ in July; the mean annual precipitation is $2 0 0 { - } 4 0 0 ~ \\mathrm { m m }$ ,which is mainly concentrated between July and September. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e96d46d0b7d9b1c697a13217164ef194189ddb4244f8b63707e6c140ad14fb7b.jpg",
+        "img_caption": [
+            "Fig.1Vegetation types in the Xilin Gol League, China "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Xilin Gol League has 12 administrative regions, including two cities and ten counties and banners. According to the regional statistical data,the permanent population of the study area was $1 . 0 5 \\times 1 0 ^ { 6 }$ in 2017, among which $2 . 2 5 { \\times } 1 0 ^ { 5 }$ （ $( 2 1 . 4 3 \\% )$ were herders and $2 . 3 6 \\times 1 0 ^ { 5 }$ $( 2 2 . 4 8 \\% )$ were farmers. The gross domestic product (GDP) from agriculture, forestry，animal husbandry, and fisheries of Xilin Gol League in 2017 was $2 . 0 7 \\times 1 0 ^ { 1 0 }$ CNY,of which the contribution of animal husbandry was $7 1 . 6 6 \\%$ (Hao et al., 2017). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data acquisition ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Remote sensing data, meteorological observation data, statistical yearbooks,and questionnaire data were used in this study. The annual NPP with a spatial resolution of $5 0 0 \\ \\mathrm { m }$ for 2000-2015 was obtained from the MOD17A3H dataset, which was derived from the Moderate Resolution Imaging Spectroradiometer (MODIS） NPP algorithm and driven by meteorological data (https://lpdaac.usgs.gov/) (Running et al., 2004, 2015; Running and Zhao, 2015). Meteorological data $( 0 . 5 ^ { \\circ } \\times 0 . 5 ^ { \\circ }$ grid dataset V2.0)，including precipitation， from April to September were downloaded from the China Meteorological Data Network (htp://data.cma.cn/) for free.The data were then converted to a resolution of $5 0 0 \\mathrm { ~ m ~ }$ following the Christine interpolation method. Grassland type data were obtained from 1:1,Ooo,OoO vegetation maps to draw the spatial distribution of typical, meadow,and desert steppe habitats (Editorial Commitee for Vegetation Map of China,2OO7; Chi et al.,2O18). The total number of livestock in each city,county or banner in the middle of the year was obtained from the statistical yearbooks of Inner Mongolia issued for 2000-2015 (Bureau of Statistics of Inner Mongolia Autonomous Region,2000-2015). Additionally, as there were no vilage data in the Inner Mongolia Statistical Yearbook in 2015, we conducted a village-scale survey in Zhenglan Banner, which was a typical fragile steppe and threatened by desertification.A total of 21 vilages were involved in the survey； the survey included the grazing mode in the Xilin Gol League,total livestock numbers in the middle of the year, ecological compensation from the country, income and cost of living, and so on. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Calculation of forage production ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Forage production during 2Oo0-2O15 was characterized as the forage production density and total orage production, which were estimated using Equations 1 and 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = \\frac { \\mathrm { N P P } } { 0 . 4 5 \\times \\left( 1 + S _ { \\mu g } \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = S \\times A ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $A$ is the forage production density $( \\mathrm { g } / \\mathrm { m } ^ { 2 } )$ ：， $S _ { \\mu g }$ is the proportion coefficient of biomass between the underground and aboveground parts of the steppe,which is 5.26,4.25 and 7.89 for meadow, typical, and desert steppes,respectively (Piao et al.，2OO4)； NPP is the annual net primary productivity $\\mathrm { ( g ~ C / m } ^ { 2 } )$ ：， $\\boldsymbol { Q }$ is the total forage production (g); $S$ is the grassland area $( \\mathbf { m } ^ { 2 } )$ ， and 0.45 is the carbon-to-plant biomass conversion coefficient of NPP (Fang et al.,1996). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The forage production density was displayed with a spatial resolution of $5 0 0 ~ \\mathrm { m }$ ,and its spatial distributions in 2O0O and 2O15 were compared. After calculating the area of the three types of steppe at each scale (i.e.,the whole study area, cities (including cities,counties,and banners),and villges)， we also recorded and analyzed the corresponding total forage production at regional, city, and village scales. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Evaluation of livestock carrying capacity (LCC) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We evaluated the proper LCC in the study area according to forage production and determined the grazing mode based on our field survey. In the Xilin Gol steppe,there was a grazing-forbidden period of approximately $4 0 \\mathrm { ~ d ~ }$ from April to early May. Grazing on natural grasslands continued from mid-May to September. From October to the next spring,cow and sheep were mainly fed with the remainder of the natural grassland and supplementary fodder (such as corn and artificial grassland biomass). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Ministry of Agriculture of the People's Republic of China proposed sustainable grazing rules for different types of grasslands. Taking the temperate steppe as an example,the average sustainable grassland utilization rate for grazing was $45 \\% - 5 0 \\%$ ，and it varied among the warm spring,warm autumn,and cold seasons； the corresponding value in the meadow steppe was slightly higher while the values in sandy grassland and desert grassland were lower. Daily forage consumption by livestock was also estimated by conducting surveys. A $4 0 { - } 5 0 ~ \\mathrm { k g }$ sheep typically eats approximately $1 . 8 ~ \\mathrm { k g }$ of dry forage per day,which is equivalent to one-eighth of the ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "consumption by an adult cow $( > 5 0 0 ~ \\mathrm { k g } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In compliance with the corresponding national standard Calculation of Rangeland Carrying Capacity (NY/T635-2O15） published by the Ministry of Agriculture of the People's Republic of China (2015), we calculated the proper LCC using the following formula (Zhang et al., 2014): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { p } = \\frac { Q \\times U } { I \\times D } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { p }$ is the proper LCC of grassland (cattle heads); $\\boldsymbol { Q }$ is the total forage production (for the convenience of calculation, the unit is unified as $\\mathrm { k g }$ here); $U$ is the grassland utilization rate in the growing season (from April to September)，which is $5 2 . 5 \\%$ ， $5 0 . 0 \\%$ ，and $4 2 . 5 \\%$ for meadow, typical,and desert steppes,respectively， according to the Calculation of Rangeland Carrying Capacity standard (NY/T635-2015) (Ministry of Agriculture of the People's Republic of China, 2015); $I$ is the daily food intake per animal $( 1 4 . 4 ~ \\mathrm { k g } )$ ; and $D$ is the grazing time in the growing season，which is $1 4 3 \\ \\mathrm { ~ d ~ }$ in the study area. As grazing management was adopted on the administrative unit, we calculated the proper LCC according to the area and forage production of different cities,counties,or banners,and then analyzed the spatial distribution of the proper LCC at the city scale. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 Assessment of the forage-livestock balance level ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The forage-livestock balance level was quantified using the overgrazing rate, which refers to the difference between the LCC and actual livestock (Eq. 4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC \\ ( \\% ) = \\frac { C _ { a } - C _ { p } } { C _ { p } } \\times 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $C$ is the overgrazing rate $( \\% )$ ; and $C _ { a }$ is the actual number of livestock (cattle heads). In the study of $\\mathrm { { X u } }$ and Yang (2Oo9),the forage-livestock balance level could be classified into five degrees: $C < \\mathrm { ~ \\ } - 1 0 \\%$ waspotential grazing; $- 1 0 \\% { \\leq } C { < } 1 0 \\%$ was forage-livestock balance; $1 0 \\% { \\leq } C { < } 2 0 \\%$ was light overgrazing; $2 0 \\% { \\leq } C { < } 5 0 \\%$ was moderate overgrazing;and $C { \\geq } 5 0 \\%$ was severe overgrazing. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The analysis was conducted at multiple scales.At the regional and city scales, we evaluated the forage-livestock balance level based on the modeling results and actual number of livestock from the statistical yearbook records. At the village scale, we assessed the data based on the modeling results and field survey of herder households from 21 typical villages in sandy zones. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Spatiotemporal pattern of forage production during 2ooo-2015 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The forage production density of the Xilin Gol steppe decreased from the northeast to the southwest (Fig. 2a and b） following the precipitation variation. As shown in Figure $2 \\mathrm { c }$ ，the average forage production density in the meadow steppe was highest $( 8 6 . 1 8 ( \\pm 1 0 . 9 5 ) \\mathrm { { \\bar { g } / m } ^ { 2 } ) }$ ,while those in the typical and desert steppes were lower $( 8 2 . 9 7 ( \\pm 1 3 . 2 2 )$ and $2 2 . 7 0 \\ : \\ : ( \\pm 4 . 8 7 ) \\ : \\ : \\mathrm { g } / \\mathrm { m } ^ { 2 }$ ， respectively). Owing to the size of the area, the total forage production of the typical steppe was highest, with an annual average value of $9 . 1 9 \\times 1 0 ^ { 6 }$ t, accounting for $7 1 . 1 5 \\%$ of the total in the study area and exceeding those of the meadow $( 2 . { \\dot { 7 } } 5 { \\times } 1 0 ^ { 6 }$ t, $2 1 . 3 3 \\% \\$ and desert $( 0 . 9 7 \\times 1 0 ^ { 6 } \\ \\mathrm { t } ,$ $7 . 5 2 \\% )$ steppes (Fig. 2d).For each region in 2O15,the forage production density and total forage production in East Ujimqin Banner ( $\\mathrm { i } 1 1 . 4 0 \\ \\mathrm { g / m } ^ { 2 }$ and $4 . 7 8 \\times 1 0 ^ { 8 } \\cdots$ t,respectively）and WestUjimqin Banner $( 1 2 3 . 2 0 ~ \\mathrm { g / m } ^ { 2 }$ and $2 . 6 2 \\times 1 0 ^ { 6 }$ t, respectively） greatly exceeded those in Sonid Left Banner $( 3 4 . 4 3 ~ \\mathrm { g / m } ^ { 2 }$ and $1 . 1 8 \\times 1 0 ^ { 6 }$ t,respectively)， Sonid Right Banner $\\left( 3 0 . 9 2 \\mathrm { \\ g } / \\mathrm { m } ^ { 2 } \\right.$ and $0 . 5 8 \\times 1 0 ^ { 6 } \\mathrm { ~ t } ,$ （204 respectively),and Erenhot City $( 2 \\dot { 1 } . 3 2 ~ \\mathrm { g } / \\dot { \\mathrm { m } } ^ { 2 }$ and $0 . 0 6 \\times \\mathrm { \\breve { 1 0 } ^ { 6 } t } .$ ,respectively).Details are provided in Table S1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b589b1d0b149b7f89c3e9509ad145e191e4ab5fbe4326974696fce8d40cf65e.jpg",
+        "img_caption": [
+            "Fig.2Spatial patterns of forage production density in the Xilin Gol League in 2005 (a)and 2O15 (b)and forage production density(c）and annual average total forage production (d) of diffrent steppe types.Bars mean standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The annual forage production density fluctuated between 2OOO and 2O15,with the maximum values in the meadow, typical,and desert steppes reaching 103.63，110.32，and $3 3 . 8 5 ~ \\mathrm { g / m } ^ { 2 }$ respectively, in 2O12 (Fig. 3). The coefficient of variation for the forage production density in the meadow steppe was $1 2 . 7 1 \\%$ ,while that in the desert steppe was highest, at $2 1 . 4 6 \\%$ . Additionally, we calculated the spatial changes in the slope and significance of the trends in the forage production. However, few places exhibited a significant increasing or decreasing trend in forage production,while most places exhibited a remarkable fluctuation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Spatiotemporal pattern of the forage-livestock balance during 2oo0-2015 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The characteristics of the spatial distribution of the proper LCC were consistent with those of forage production, i.e., more livestock can be carried in the northeast than the southwest (Fig. 4). From 2000 to 2O15, the LCC in Abag Banner and Xilinhot City substantially increased (increasing rate $> 7 0 . 0 0 \\%$ ), while those in East Ujimqin Banner and West Ujimqin Banner exhibited lower but still increasing rates of $4 2 . 8 2 \\%$ and $3 1 . 9 8 \\%$ ， respectively. However, the LCC in Xianghuang ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/87aade9f5dbb8495a45afee9490559fa13d2c70b211b58ce714f070fe6541789.jpg",
+        "img_caption": [
+            "Fig.3Variations in the forage production density of different steppe types from 2Oo0 to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d25db5c176f359d58e393cdb906c908e8851f728a5d78150764777511d6fb7fa.jpg",
+        "img_caption": [
+            "Fig.4Spatial patterns of the livestock carrying capacity (LCC) in the Xilin GolLeague in 200(a)and 2015 (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Banner and Zhengxiangbai Banner decreased by $2 8 . 0 6 \\%$ and $1 3 . 2 5 \\%$ ,respectively. Furthermore, the changes within each city， county，or banner were spatially heterogeneous (Fig. 4). The forage-livestock balance level varied with scale， time,and space.At the regional scale,the overgrazing rate exhibited a strong fluctuation,with a higher rate in the early 2O00s ( $4 8 . 1 5 \\%$ in 2000 and $2 8 . 0 3 \\%$ in 2001). The forage-livestock balance was achieved in other years,and grazing potential was even observed from 2008 to 2013 (Table 1). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We classified the Xilin Gol League into three categories according to the trend and value of the overgrazing rate for the period 2OoO-2015. The first was overgrazing region $( 4 . 8 6 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 } )$ ）， including Duolun County, Taibus Banner, Sonid Right Banner, Xianghuang Banner, Zhenglan Banner, and Zhengxiangbai Banner, where the average overgrazing rate was in the range of $2 4 . 1 0 \\% - 2 3 4 . 8 9 \\%$ (Fig. 5). However, the overgrazing rates in Duolun County, Taibus Banner, Sonid Right Banner, and Zhenglan Banner still exhibited a slight increasing trend. Another group ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Consisted of forage-livestock balance cities and banners $( 7 . 6 9 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 } )$ ， where the overgrazing rate remained stable at approximately zero from 2OOO to 2015,including Xilinhot City,Abag Banner, and Sonid Left Banner (Fig.5). The remaining cities and banners $( 7 . 1 4 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 } )$ formed the third group, including Erenhot City, East Ujimqin Banner,and West Ujimqin Banner, which still exhibited potential for grazing,while Erenhot City exhibited a trend of overgrazing (Fig. 5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "At the village scale,we found that the forage-livestock balance in different villages varied significantly, according to the field survey conducted in the overgrazed typical steppe of Zhenglan Banner. In Baoshaodai Town,over half of the villages experienced overgrazing, $7 5 \\%$ of which had an overgrazing rate that exceeded $3 0 . 0 0 \\%$ . The condition was better in Zagstei Town; however, a threat of overgrazing remained. Only the villages of Bayinnaoer, Bayinwulan, Xiretu, and Saihannaoer exhibited a grazing potential (Table 2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b1eaf7601182ec818462bd11cddc7eb3086130947c7fbbdc2122222929cb59f.jpg",
+        "table_caption": [
+            "Table1Forage-livestock balance dynamics from 2OoO to 2015 in the Xilin Gol League "
+        ],
+        "table_footnote": [
+            "Note: LCC, livestock carrying capacity; overgrazing rate ${ > } 0$ means the actual carrying capacity is higher than the reasonable carrying capacity,and overgrazingrate $^ { < 0 }$ means actual carrying capacity is lower than the reasonable carrying capacity. "
+        ],
+        "table_body": "<html><body><table><tr><td>Year</td><td>Proper LCC (x10cattle heads)</td><td>Actual livestock (x1o cattle heads)</td><td>Overgrazing rate (%)</td></tr><tr><td>2000</td><td>2.76</td><td>4.09</td><td>48.15</td></tr><tr><td>2001</td><td>2.61</td><td>3.34</td><td>28.03</td></tr><tr><td>2002</td><td>2.95</td><td>2.92</td><td>-0.82</td></tr><tr><td>2003</td><td>3.54</td><td>3.26</td><td>-8.12</td></tr><tr><td>2004</td><td>3.10</td><td>3.23</td><td>4.24</td></tr><tr><td>2005</td><td>3.26</td><td>3.15</td><td>-3.29</td></tr><tr><td>2006</td><td>3.06</td><td>3.15</td><td>3.14</td></tr><tr><td>2007</td><td>2.50</td><td>2.80</td><td>11.97</td></tr><tr><td>2008</td><td>3.41</td><td>2.93</td><td>-14.03</td></tr><tr><td>2009</td><td>3.03</td><td>2.94</td><td>-2.88</td></tr><tr><td>2010</td><td>3.19</td><td>2.94</td><td>-8.05</td></tr><tr><td>2011</td><td>3.42</td><td>2.83</td><td>-17.14</td></tr><tr><td>2012</td><td>4.33</td><td>2.95</td><td>-31.86</td></tr><tr><td>2013</td><td>4.07</td><td>3.20</td><td>-21.44</td></tr><tr><td>2014</td><td>3.73</td><td>4.08</td><td>9.55</td></tr><tr><td>2015</td><td>3.78</td><td>3.75</td><td>-0.66</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1Factors influencing forage production in the Xilin Gol steppe ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Owing to differences in the study period, steppe type,data source,and quantification method, the forage production values in the Xilin Gol steppe differed significantly with previous reports (Niu, 2001; Ma et al.,2Oo8; Jin et al.,2O11). The data range of forage production in the desert, typical, and meadow steppes were approximately 9.50-175.10,17.00-310.10,and $6 8 . 3 0 { - } 3 5 8 . 4 0 \\ \\mathrm { \\dot { g } / m } ^ { 2 }$ respectively (Table 3). In this study, the MOD17A3H NPP product was used to calculate the dry weight of aboveground biomass production. Our simulated values were generally consistent with the findings of Zhao (2014). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Our results indicated that the forage production pattern fluctuated. The forage production density of the Xilin Gol steppe decreased from the northeast to the southwest.Precipitation has been reported to be the main climatic factor affecting the forage production of the Xilin Gol steppe(Cao et al.，201l; Zhao et al.，2012;Gao et al., 2013). The change trend of annual precipitation in the study area was not notable,and the highest precipitation level reached 325.08 mm in 2O12, which is consistent with the annual variations in the regional forage production (Fig. Sla). Further analysis indicated a strong positive correlation between forage production and precipitation, particularly in the growing season, as commonly observed in the Xilin Gol steppe ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "350 j (a) Duolun County 350j (b) Taibus Banner 350](c) Sonid Right Banner   \n(%) gierErrrgenn 300 200 300 200 300 200 150 150 150 100 100 100 50 50 50 0 0 0 -50 -50 -50 -100 -100 -100 2000 2005 2010 2015 2000 2005 2010 2015 2000 2005 2010 2015 350 (d) Xianghuang Banner 350 (e) Zhenglan Banner 350 (f) Zhengxiangbai Banner   \n(%) nier nzerien 300 200 300 200 300 200 150 150 150 100 100 100 50 50 50 0 0 0 -50 -50 -50 -100 -100 -100 2000 2005 2010 2015 2000 2005 2010 2015 2000 2005 2010 2015 350j(g) Xilinhot City 350 (h) Abag Banner 350 (i) Sonid Left Banner   \n(%) gerlrerietn 300 300 300 200 200 200 150 150 150 100 100 100 50 50 50 0 0 0 -50 -50 -50 -100 -100 -100 2000 2005 2010 2015 2000 2005 2010 2015 2000 2005 2010 2015 350 (i) East Ujimqin Banner 350] (k) West Ujimqin Banner 350] (I) Erenhot City   \n(%) ger leerien 300 200 300 200 300 200 150 150 150 100 100 100 50 50 50 0 0 0 -50 -50 -50 -100 -1001 -100 2000 2005 2010 2015 2000 2005 2010 2015 2000 2005 2010 2015 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(Fig. S1b). Moreover, the climate patern of high temperature but low precipitation in the west area of the Xilin Gol steppe was not conducive to vegetation growth. Therefore,the forage production density of western parts,such as Sonid Left Banner, Erenhot City,and Sonid Right Banner, was low. However, the forage production density values in East Ujimqin Banner and West Ujimqin Banner were significantly higher than those in the other areas. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The impact of human activities on grasslands cannot be ignored.Previous studies reported that livestock grazing was mainly responsible for grassland degradation from the early 198Os to late the 199Os，while ecologically sound land-use policies have positively impacted vegetation restoration from 2000 onwards (e.g.,Li et al., 2012). Additionally，owing to its good grassland resources,reasonable grazing behavior cannot easily cause overgrazing in the eastern region. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2Implementation of the \"forage-livestock balance\" policy ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ve found that the general overgrazing rate fluctuated over time in the Xilin Gol steppe (Fig. 5). ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/da7873cce493583c8799b9e511884fa2718f583177eacd6a6416e4a2a427ba83.jpg",
+        "table_caption": [
+            "Table 2Overgrazing rate in 21 villages of the Zhenglan Banner "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Town</td><td>Village</td><td>Proper LCC (cattle heads)</td><td>Actual livestock (cattle heads)</td><td>Overgrazing rate (%)</td></tr><tr><td rowspan=\"10\">Baoshaodai Town</td><td>Halagaitu</td><td>1034</td><td>1791</td><td>73.21</td></tr><tr><td>Zhalute</td><td>1524</td><td>1271</td><td>-16.60</td></tr><tr><td>Chahannao</td><td>2114</td><td>1123</td><td>-46.88</td></tr><tr><td>Nairinao</td><td>2173</td><td>1959</td><td>-9.85</td></tr><tr><td>Nudugai</td><td>951</td><td>1320</td><td>38.80</td></tr><tr><td>Gaogesitai</td><td>1033</td><td>1649</td><td>59.63</td></tr><tr><td>Mandulatu</td><td>1985</td><td>2021</td><td>1.81</td></tr><tr><td>Dengji</td><td>1488</td><td>2073</td><td>39.31</td></tr><tr><td>Xiarinao</td><td>1568</td><td>2336</td><td>48.98</td></tr><tr><td>Herimutu</td><td>1257</td><td>1218</td><td>-3.10</td></tr><tr><td rowspan=\"11\"></td><td>Engeer</td><td>2124</td><td>1830</td><td>-13.84</td></tr><tr><td>Kuisuhe</td><td>1514</td><td>1690</td><td>11.62</td></tr><tr><td>Sumutuhe</td><td>456</td><td>1124</td><td>146.49</td></tr><tr><td>Bayinbaogeli</td><td>1161</td><td>1664</td><td>43.32</td></tr><tr><td>Bayinwulan</td><td>4820</td><td>4059</td><td></td></tr><tr><td>Bayinnaoer</td><td>5332</td><td></td><td>-15.79</td></tr><tr><td rowspan=\"5\">Zagstei Town</td><td>Bayinhanggai</td><td></td><td>4020</td><td>-24.61</td></tr><tr><td>Bayinbaogela</td><td>2979 1531</td><td>4532</td><td>52.13</td></tr><tr><td>Saihannaoer</td><td>7001</td><td>3049</td><td>99.15</td></tr><tr><td>Hugejiletu</td><td></td><td>6304</td><td>-9.96</td></tr><tr><td>Xiretu</td><td>1215 2958</td><td>1424 2616</td><td>17.20 -11.56</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/34386c1848ab32ea968375b26093892ab8be4155a247984ba075d89f970b8daf.jpg",
+        "table_caption": [
+            "Table 3Comparison of the results of different studies "
+        ],
+        "table_footnote": [
+            "Note:a,meanvalue;b,the datainparentheses representthe range values from the minimum tothe maximum; c,mean±SD "
+        ],
+        "table_body": "<html><body><table><tr><td>Study area</td><td>Study period</td><td>Steppe type</td><td>Forage production density (g/m²)</td><td>Reference</td></tr><tr><td rowspan=\"3\">Inner Mongolia</td><td rowspan=\"3\">2002-2005</td><td>Meadow steppe</td><td>196.70a (68.30-358.40)b</td><td rowspan=\"3\">Ma et al. (2008)</td></tr><tr><td>Typical steppe</td><td>133.40a (17.00-310.10)b</td></tr><tr><td>Desert steppe</td><td>56.60a (9.50-175.10)b</td></tr><tr><td rowspan=\"3\">Inner Mongolia</td><td rowspan=\"3\">Scenario analysis and prediction 1981-1990</td><td>Forest steppe</td><td>204.00a</td><td rowspan=\"3\">Niu (2001)</td></tr><tr><td>Typical steppe</td><td>150.00a</td></tr><tr><td>Desert steppe</td><td>63.00a</td></tr><tr><td>Inner Mongolia</td><td>1981-2010</td><td>Typical steppe</td><td>186.30a (Leymus chinensis steppe)</td><td>Han and Li (2012)</td></tr><tr><td rowspan=\"3\">Xilin Gol steppe</td><td rowspan=\"3\">2005-2012</td><td>Temperate meadow-steppe</td><td>138.30a (Stipa grandis steppe) 115.23a</td><td rowspan=\"3\">Zhao et al. (2014)</td></tr><tr><td>Temperate steppe</td><td>69.10a</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"3\">Xilin Gol steppe</td><td rowspan=\"3\">2000-2015</td><td>Temperate desert-steppe</td><td>27.23a</td><td rowspan=\"3\">This study</td></tr><tr><td>Meadow steppe</td><td>86.18±10.95</td></tr><tr><td>Typical steppe Desert steppe</td><td>82.97±13.22 22.70±4.87</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Further correlation analyses indicated that the overgrazing rate was significantly and negatively correlated with forage production $( P { < } 0 . 0 1$ ；Fig. 6). The spatial heterogeneity of the forage-livestock balance at the city and village scales may be related to the payment gap between government compensation for restoring the grassland ecosystem and the herder's preference (Zhen et al.， 2O14). The Household Production Responsibility System private property rights arrangement was implemented in Xilin Gol League in the early 198Os (Li et al.，2007),and previous research found that the policy has led to soaring stock density and severe vegetation degradation for almost 2O a (Li et al.,2012). By the early 200Os,the government had allocated land to herders according to the population and total pasture area in each village.To improve grassland ecosystems and the herders' quality of life,the central and local governments of Xilin Gol League published compensation standards.The latest policy of minimum standard of annual compensation awarded to herders is $4 5 \\mathrm { \\ C N Y / h m } ^ { 2 }$ for the forage-livestock balance,and 135 $\\mathrm { C N Y / h m } ^ { 2 }$ for grazing prohibition in forestlands and shrublands. These compensation rates caused an imbalance between regions; those with vast and highly productive pastures, such as East Ujimqin Banner and West Ujimqin Banner, received more pasture and payment, and their income was higher than that in the western banners,such as Zhenglan Banner. Taking villages in Zhenglan Banner as an example, the per capita pasture area in Bayinnaoer village was $3 7 \\ \\mathrm { h m } ^ { 2 }$ while those in the severely overgrazed villages of Xiretu and Sumutuhe were only 25 and $1 1 \\ \\mathrm { h m } ^ { 2 }$ respectively. This explains the large difference in the forage-livestock balance level, to an extent. Although the local government has tried to adjust in different areas,a more comprehensive assessment based on in-depth scientific research is needed. Our interviews in Zhenglan Banner indicated that herders have recognized the grassland degradation caused by overgrazing along with natural disasters,such as heavy snowfall, severe wind erosion,and drought. However, they need to maintain traditional animal husbandry and raise more cattle to support their livelihoods. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/20d74c9b437c09ed3e82a2d26d114ee051fbb30fd729014d7dba9235f01a427c.jpg",
+        "img_caption": [
+            "Fig.6Correlation between overgrazing rate and forage production from 2Ooo to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3Recommendations for sustainable grasslands and ecosystem services ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To improve the eco-environment and human well-being,several ecological projects have been promoted by the Chinese government since the 197Os particularly after 2OOo (Bryan et al., 2018), such as \"Grain for Green\" (Jia et al., 2O14), \"Returning grazing land to grassland\" (Shao et al., 2016),and \"Forage-livestock balance\" (Hu et al., 2O19). The dynamic balance between livestock and grassland is mainly maintained through the arrangement and planning of grazing intensity, area,and time (year-round grazing prohibition， seasonal grazing prohibition， or rotational grazing) (Chen, 2014; Xu, 2014). These projects were implemented in China in 2000 and they have greatly improved the ecological efficiency of grasslands (Hu et al.,2O19). However, without effective management schemes, there wil be no sustainable strategy to prevent land degradation and improve human well-being (Li et al.,2007; Zhen et al.,2014; Onatibia et al.,2019). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Our results indicated that, although half of the Xilin Gol steppe achieved a forage-livestock balance，regions with lower precipitation or sandy soils still experienced overgrazing. The livestock intensity is afected by many factors,such as grassland property rights and time elapsed from summer to winter pasture (Huang et al., 2Ol7; Li et al., 2018). Therefore,based on our findings， we propose the following important recommendations， particularly for grazing management at local and regional scales, to achieve sustainable grassland ecosystem services. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "First, it is beter to evaluate the LCC based on the location-specific grassland productivity, rather than using a certain value to represent the whole region (such as O.15 cattle $/ \\mathrm { h m } ^ { 2 }$ in ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Zhenglan Banner). For pastures with severe grassland degradation (such as the eastern desertified region in Zhenglan Banner)， grazing prohibition throughout the year along with grass seeding should be adopted. Season- and location-based calculations of the LCC are required in moderate, non-degraded,and restored grasslands. This will require the associated scientific results to be converted into practical application strategies. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Second,location-based ecological compensation should be calculated to reduce expectation gaps between herders,and between herders and officials. From the interviews conducted in this study,we found that herders have recognized the requirement for environmental protection and are willing to accept compensation payments to mitigate their economic losses. However, both our survey and previous studies reported a certain gap between the expectation of herders and government budget, which affected the initiative of herders toward grassand restoration (Zhen et al., 2014). Compensation according to pasture area per capita also caused an equality issue between herders,some of whom could not support their livelihood by the current payment rates and need intensive grazing. Therefore,compensation for restoring grasslands should consider the extent of land degradation and trade-offs between herders and the government. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Third, infrastructure, particularly fodder factories,should be constructed nearby to reduce costs and raise the living standards of residents. In traditional nomadic culture,herders live on grasslands with water (Adler et al., 2Oo5). Although herders now have fixed pastures, they still live on grasslands away from cities and face high everyday living,children's education, and fodder transport costs. According to our survey, education and gas for transportation were the major expenditures for most households,excluding those having to pay for medical care.Herders in Zhenglan Banner were required to purchase fodder from East Ujimqin Banner and West Ujimqin Banner as there was insufficient available fodder nearby. Seeding for mowing and fodder provision in high-quality grasslands is an effective method for reducing livestock feeding costs and achievinga forage-livestock balance. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.4Limitations and future prospects ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our study provides a general understanding of the regional and local multi-year forage-livestock balance,allowing us to make the above recommendations for sustainable grassland management at the macro-scale based on long-term time-series data for 2Ooo-2O15.Moreover, based on our fieldsurvey， herders are generally conducted livestock trading and slaughtering， and supplementary feeding activities in the Xilin Gol steppe at the end of the year. However, our study is an estimation of the proper LCC in the steppe growing season in the study area; therefore, we did not consider other forage sources.In future work,we will consider seasonal variations and winter supplementary feding to evaluate the patern of the forage-livestock balance within one year. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The forage production and livestock carrying capacities in the Xilin Gol steppe decreased from the meadow steppe in the east to the desert steppe in the west. The forage-livestock balance level fluctuated during the growing seasons from 2OoO to 2O15,and there was a negative correlation between overgrazing rate and forage production. Although approximately half of the region (East Ujimqin Banner, West Ujimqin Banner, etc.) achieved a forge-livestock balance,our data revealed severe overgrazing in the southern desert steppe.Based on these findings，we propose the application of differential management, including season-based livestock carrying constraints, location-based ecological compensation payments,and a low-cost fodder provision industry in the Xilin Gol steppe. These measures should aid grazing pastures while harmonizing the relationship between animal husbandry and environmental restoration, whereby the development goals, such as the eradication of poverty and land degradation neutrality by 2O3o, become attainable. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (41971130)and the \"Research on the Sustainable Utilizationof Desertified Lands in the Otindag Sandy Land,China\"Program.We thank Dr. ZHANG Shuai, Dr. SAI Ke,Dr. WANG Chunyuan,and Mr. ZHAO Jilin at Beijing Forestry University for aiding in the field survey. We also thank the staff of the Zhenglan Banner government in Inner Mongolia Autonomous Region of China as translators from Mongolian to Chinese in the field survey. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abbasi T,Abbasi SA.2O16.Reducing the global environmental impact of livestock production: the mini livestock option. Journal of Cleaner Production,112(112): 1754-1766.   \nAdler PB,HallSA.2Oo5.Thedevelopmentof forage productionand utilization gradients around livestock watering points. Landscape Ecology,20(3): 319-333.   \nAtsbha T,Desta AB,ZewduT.20l9.Carbon sequestrationpotentialof natural vegetationunder grazing influencein Southerm Tigray,Ethiopia: implication for climate change mitigation.Heliyon,5(8),doi:10.1016/j.heliyon.2019.e02329.   \nBatunacun,Nendel C,HuYF,etal.2O18.Land-use changeand land degradationon the MongolianPlateaufrom1975 to 2015—A case study from Xilingol, China.Land Degradation & Development, 29(6): 1595-1606.   \nBryanBA,GaoL,YeYQ,etal.218.China'sresponse toanationalland-systemsustainabilityemergencyNature,559(71): 193-204.   \nBureau of Statisticsof Inner Mongolia Autonomous Region.20o-20l5.Inner Mongolia Statistical Yearbook.Beijing:China Statistics Press. (in Chinese)   \nCaoLG,LiuPX,ZhangKX,etal.2O11.Analysis onResponseofGraslandstCimateChangeandItsSatialDierencein Xilin Gol League. Arid Zone Research,28(5): 789-794.(in Chinese)   \nChenY.2014.Research ofthe farmers'illegal grazing behaviorunderthe grazing prohibitionpolicy-Acaseof Yanchi countyin Ningxia,China.Journal of Arid Land Resources and Environment,28(1O):31-36.(in Chinese)   \nChi D K,Wang H,LiX B,etal.2018.Assessingthe effectsof grazingon variationsofvegetation NPPinthe Xilingol Grassland, China,using a grazing pressure index.Ecological Indicators.88:372-383.   \nEditorial Commite for Vegetation Mapof China.2Oo7.Vegetation Atlasof China.Beijing:Geological Publishing House.(in Chinese)   \nFang JY,LiuGH,XuSL.1996.Carbonpoolof terestrial ecosysteminChina.Beijing:ChinaEnvironmental SciencePress, 391-397. (in Chinese)   \nGalt D,MolinarF,Navaro J,etal.2Ooo. Grazing Capacityand Stocking Rate.Rangelands Archives,2(6):7-11.   \nGao T,Yang XC,JinYX,etal.013.Spatio-Temporal Variationin Vegetation Biomassand ItsRelationshipswithClimate Factors in the Xilingol Grassands,Northern China.PLoS ONE,8(12),doi: 10.1371/journal.pone.0083824.   \nGuo B,Zang WQ,YangF,etal.2O20.Spatialand temporalchange patternsofnet primary productivityanditsresponseto climate change in the Qinghai-Tibet Plateau of China from 20oo to 2O15.Journal of Arid Land,12(1):1-17.   \nHan XG,LiLH.2O12.Mechanismof graslandecosystem maintenance inInner Mongolia.Beijing:China Agricultural University Press,5-6. (in Chinese)   \nHao LZ,Liu SJ,WuK X,et al.2O11.Studyontheevaluationof grassnutritionandcaryingcapacityinalpinegrasslandof Kobresia hastily in Maduo County. Chinese Journal of Grassland,33(1): 84-89.(in Chinese)   \nHao L,Sun G,LiuYQ,etal.20l4.Eectsof precipitationongrassandecosystemrestorationunder graingexcusioninIer Mongolia, China. Landscape Ecology,29(10): 1657-1673.   \nHao RF,Yu DY,LiuYP,et al.2017.Impacts of changes in climate and landscapepatern on ecosystem services.Scienceof The Total Environment, 579: 718-728.   \nHobsNT,SwiftDM.1985.Estimatesof habitatcarryingcapacityincorporating explicit nutritional constraints.Journalof Wildlife Management, 49(3): 814-822.   \nHu ZM.,Zhao Z,Zhang Y,etal.2O19.Does Forage-Livestock Balance'policyimpact ecological eficiencyof grasslands in China? Journal of Cleaner Production,207: 343-349.   \nHuang W,BruemmerB,HuntsingerL.2O17.Technical eficiencyandtheimpactof graslanduseright leasingon livestock grazing on the Qinghai-Tibetan Plateau.Land Use Policy, 64(64): 342-352.   \nJia X Q,FuBJ,FengXM,etal.2O14.The tradeoffandsynergybetwee ecosystemservicesintheGrain-for-Greenareas in Northern Shaanxi, China.Ecological Indicators,43(1): 103-113.   \nIinVYYnR Proceedings of the National Academy of Sciences of the United States of America,110(21): 8369-8374.   \nLi A,WuJG,HuangJH.2O12.Distinguishing between human-inducedandclimate-drivenvegetationchanges:acritical application of RESTREND in Inner Mongolia.Landscape Ecology, 27(7): 969-982.   \nLi A,WuJG,Zhang XY,etal.2018.China'snewrural \"separating three propertyrights\"landreformresultsingrassand degradation: Evidence from Inner Mongolia.Land Use Policy,71: 170-182.   \nLi G WangDL,Xin,XP,etal9.Analysisof grassandcarryingcapacityand grassandlivestckalancein XiliotCity. Pratacultural Science,26(1): 87-93.(in Chinese)   \nLi WJ,Ali SH,Zhang Q.2OO7.Propertyrights and grassand degradation:Astudyofthe Xilingol Pasture,InnerMongolia, China. Journal of Environmental Management, 85(2): 461-470.   \nLiu HJ,YinSY,SunC,etal.2015.Temporalandspatialvariationofnetprimaryproductivity(NPP)anditsresponses with climatic changes in the Xilingol grassland from 20o0 to2010.Pratacultural Science,32(11):1709-1720.(inChinese)   \nMa WH,YangYH,HeJS,etal.2o08.Above-andbelowground biomassinrelationtoenvironmental factors intemperate grasslands,Inner Mongolia. Science China C: Life Sciences,51(3): 263-270.   \nMinistryof Agriculture ofthe People's RepublicofChina.2015.Calculation ofRangelandCarrying Capacity (NY/T635-2015). [S/OL].[2019-07-18]. https://www.lddoc.cn/p-106633.html.   \nNi J. 2002. Carbon storage in grassands of China. Journal of Arid Environments,50(2): 205-218.   \nNiuJM.2001.Impacts Prediction of Climatic Changeon Distribution and Productionof Grassland in Inner Mongolia.Acta Agrestia Sinica,9(4): 277-282.(in Chinese)   \nOECD-FAO (Organisation for Economic Cooperation and Development-Food and Agriculture Organization).2011. OECD-FAO Agricultural Outlook 2011.[2020-08-01]. https://www.oecd-ilibrary.org/.   \nOnatibia GR,Aguiar MR.2O19.Grases and grazers inarid rangelands: Impact of sheep management on forage and non-forage grass populations.Journal of Environmental Management, 235: 42-50.   \nPiao SL,FangJY,HeJS,etal.2Oo4Spatialdistributionof graslandbiomassin China.Chinese JournalofPlantEcology, 28(4): 491-498.(in Chinese)   \nRen HR,Shang YJ,Zhang S.2020.Measuring the spatiotemporal variationsof vegetation net primary productivityin Iner Mongolia using spatial autocorrelation.Ecological Indicators,112:106108,doi:10.1016/j.ecolind.2020.106108.   \nRuning SW,NemaniRR,HeinschFA,etal.2O04.Acontinuoussatelite-derived measureof global terrestrialprimary production. BioScience, 54(6): 547-560.   \nRuning S W,Mu Q Z, Zhao M S.2015. MOD17A3 MODIS/Terra Gross Primary Productivity Yearly L4 Global 1km SIN Grid. NASA EOSDIS Land Processs DAAC. [2019-04-17]. https://lpdaac.usgs.gov/products/mod17a3hgfv006/.   \nRunning S W, Zhao M S.2015. User's Guide: Daily GPP and Annual NPP (MOD17A2/A3)Products.NASA Earth Observing System MODIS Land Algorithm.[2020-04-23]. htp://www.ntsg.umt.edu/files/modis/MOD17UsersGuide2015_v3.pdf   \nShao HY,SunXF,WangHX,etal.20l6.Amethodtotheimpactassessmentof thereturinggrazinglandtograssandproject on regional eco-environmental vulnerability. Environmental Impact Assessment Review,56:155-167.   \nTilman D,ReichPB,KnopsJMH,etal.2Oo1.Diversityandproductivity inalong-termgrassland experiment.Science, 294(5543): 843-845.   \nTong C,WuJG Yong S,etal.2004.A landscape-scale assessment of steppe degradation in the Xilin River Basin,Inner Mongolia, China. Journal of Arid Environments,59(1): 133-149.   \nWhite RP,MurayS,Rohweder M,etal.2Ooo.Pilotanalysisof global ecosystems:grassand ecosystems.WashingtonD.C: World Resources Institute.   \nXu B,Yang X C.2o09.Calculation of grass production and balance of livestock carrying capacity in rangeland egion of Northeast China. Geographical Research,28(2): 402-408.(in Chinese)   \nXu MY.2O14.Areview of grassand carrying capacity: perspective and dilemma forresearch in China on \"forage-livestock balance\".Acta Prataculturae Sinica,23(5): 321-329.(in Chinese)   \nYu M,ElisJE,EpsteinHE.24.Regionalanalysisofclimate,primaryproduction,andlivestock densityininnerMogolia. Journal of Environmental Quality,33(5):1675-1681.   \nZhang JP,ZhangLB,Liu WL,etal.2O14.Livestock-caryingcapacityandovergrazingstatusof alpinegrassland in the Three-River Headwaters region, China.Journal of Geographical Sciences,24(2): 303-312.   \nZhao F,Xu B,Yang X C,et al.2014.Remote sensing estimatesof grassland aboveground biomass based on MODIS net primary productivity(NPP): Acase study in the Xilingol grassand of Northern China.Remote Sensing,6:5368-5386.   \nZhao M S,RuningSW.2010.Drought-induced reductioninglobalterestrialnetprimary production from2oo through2009. Science,329(5994): 940-943.   \nZhao YY,HeCY,ZhangQF2O12.Monitoringvegetation dynamics bycouplinglinear trendanalysis with change vector analysis:acase study intheXilingol steppe innortherm China.International Journalof Remote Sensing,3(1):287-308.   \nZhao YY,WuJG,He CY,etal.2017.Linking wind erosion toecosystem services indrylands:alandscape ecological approach.Landscape Ecology,32(12): 2399-2417.   \nZhao YY,XinZB,DingGD.Ol8.Spatiotemporalvariation intheoccurenceofsand-dust eventsnditsifluencingfactors in the Beijing-TianjinSand SourceRegion,China,1982-2013.Regional Environmental Change,18(8):2433-2444.   \nZhao YY,LiuZFWuJG2Oo.Grasladecosystemservices:astematiceviewofresearchdvancesandfuturedirection. Landscape Ecology,35(4): 793-814.   \nZhenL,LiF,YanHM,etal.2014.Herders' willngnesstaceptversusthepublicsctor'swillngnsstopayforgasand restoration inthe Xilingol Leagueof InnerMongolia,China.Environmental Research Leters，9(4):O45003，doi: 10.1088/1748-9326/9/4/045003. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc1459462593429d034f670393303f3731ecccd2e7259cb982bf7e97ee40f2b4.jpg",
+        "img_caption": [
+            "Fig.S1Changes in precipitation (a) from 2Oo0 to 2015 and relationship between precipitation and total forage production (b) in the Xilin Gol steppe "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/f1c86d26f19ca64b4079b67e14ee2ee6a68bce4f97a2ee723044d98e27d4f811.jpg",
+        "table_caption": [
+            "Table S1Total annual forage production in the Xilin Gol League "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Year</td><td colspan=\"6\">Forage production (×10 t)</td></tr><tr><td>Banner Abag</td><td>East Ujimqin Banner</td><td>Duolun County</td><td>Erenhot City</td><td>Sonid Right Banner</td><td>Sonid Left Banner</td></tr><tr><td>2000</td><td>1.17</td><td>3.36</td><td>0.20</td><td>0.03</td><td>0.50</td><td>0.68</td></tr><tr><td>2001</td><td>1.37</td><td>3.23</td><td>0.18</td><td>0.03</td><td>0.39</td><td>0.81</td></tr><tr><td>2002</td><td>1.66</td><td>3.57</td><td>0.19</td><td>0.05</td><td>0.48</td><td>1.01</td></tr><tr><td>2003</td><td>2.02</td><td>3.88</td><td>0.21</td><td>0.07</td><td>0.72</td><td>1.28</td></tr><tr><td>2004</td><td>1.52</td><td>3.59</td><td>0.22</td><td>0.06</td><td>0.64</td><td>0.99</td></tr><tr><td>2005</td><td>1.61</td><td>4.30</td><td>0.22</td><td>0.05</td><td>0.47</td><td>0.87</td></tr><tr><td>2006</td><td>1.58</td><td>3.53</td><td>0.23</td><td>0.05</td><td>0.56</td><td>0.98</td></tr><tr><td>2007</td><td>1.45</td><td>2.66</td><td>0.19</td><td>0.05</td><td>0.47</td><td>1.00</td></tr><tr><td>2008</td><td>1.89</td><td>4.20</td><td>0.23</td><td>0.06</td><td>0.58</td><td>1.09</td></tr><tr><td>2009</td><td>1.77</td><td>3.85</td><td>0.21</td><td>0.06</td><td>0.52</td><td>1.15</td></tr><tr><td>2010</td><td>1.65</td><td>4.15</td><td>0.21</td><td>0.05</td><td>0.52</td><td>0.95</td></tr><tr><td>2011</td><td>1.64</td><td>4.37</td><td>0.25</td><td>0.05</td><td>0.59</td><td>1.03</td></tr><tr><td>2012</td><td>2.66</td><td>5.09</td><td>0.24</td><td>0.08</td><td>0.79</td><td>1.55</td></tr><tr><td>2013</td><td>2.20</td><td>5.01</td><td>0.26</td><td>0.06</td><td>0.68</td><td>1.20</td></tr><tr><td>2014</td><td>1.99</td><td>5.01</td><td>0.25</td><td>0.06</td><td>0.58</td><td>1.13</td></tr><tr><td>2015</td><td>2.01</td><td>4.78</td><td>0.24</td><td>0.06</td><td>0.58</td><td>1.18</td></tr><tr><td rowspan=\"2\">Year</td><td colspan=\"6\">Forage production (x106 t)</td></tr><tr><td>Taibus Banner</td><td>West Ujimqin Banner</td><td>Xilinhot City</td><td>Xianghuang Banner</td><td>Zhenglan Banner</td><td>Zhengxiangbai Banner</td></tr><tr><td>2000</td><td>0.21</td><td>1.99</td><td>0.82</td><td>0.41</td><td>0.82</td><td>0.38</td></tr><tr><td>2001</td><td>0.14</td><td>2.02</td><td>0.82</td><td>0.22</td><td>0.56</td><td>0.25</td></tr><tr><td>2002</td><td>0.16</td><td>2.00</td><td>1.03</td><td>0.29</td><td>0.61</td><td>0.28</td></tr><tr><td>2003</td><td>0.21</td><td>2.37</td><td>1.31</td><td>0.40</td><td>0.78</td><td>0.38</td></tr><tr><td>2004</td><td>0.20</td><td>2.07</td><td>1.09</td><td>0.38</td><td>0.77</td><td>0.38</td></tr><tr><td>2005</td><td>0.18</td><td>2.41</td><td>1.16</td><td>0.26</td><td>0.69</td><td>0.29</td></tr><tr><td>2006</td><td>0.20</td><td>2.13</td><td>1.07</td><td>0.33</td><td>0.75</td><td>0.35</td></tr><tr><td>2007</td><td>0.15</td><td>1.64</td><td>0.95</td><td>0.23</td><td>0.60</td><td>0.26</td></tr><tr><td>2008</td><td>0.20</td><td>2.34</td><td>1.21</td><td>0.30</td><td>0.71</td><td>0.31</td></tr><tr><td>2009</td><td>0.17</td><td>1.76</td><td>0.97</td><td>0.26</td><td>0.65</td><td>0.29</td></tr><tr><td>2010</td><td>0.17</td><td>2.27</td><td>1.19</td><td>0.25</td><td>0.60</td><td>0.26</td></tr><tr><td>2011</td><td>0.20</td><td>2.37</td><td>1.14</td><td>0.38</td><td>0.75</td><td>0.36</td></tr><tr><td>2012</td><td>0.21</td><td>2.88</td><td>1.60</td><td>0.38</td><td>0.80</td><td>0.39</td></tr><tr><td>2013</td><td>0.24</td><td>2.75</td><td>1.43</td><td>0.45</td><td>0.89</td><td>0.45</td></tr><tr><td>2014</td><td>0.21</td><td>2.65</td><td>1.34</td><td>0.29</td><td>0.80</td><td>0.37</td></tr><tr><td>2015</td><td>0.19</td><td>2.62</td><td>1.44</td><td>0.29</td><td>0.77</td><td>0.33</td></tr></table></body></html>",
+        "page_idx": 16
+    }
+]

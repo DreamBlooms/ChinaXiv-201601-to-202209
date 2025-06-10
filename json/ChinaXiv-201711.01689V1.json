@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮精粗比对泌乳水牛瘤胃细菌和甲烷菌区系的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林　波」 梁　辛² 李丽莉²韦升菊² 李　萍」 邹彩霞1,2\\*(1.广西大学动物科技学院，南宁 530004；2.中国农业科学院广西水牛研究所，农业部水牛遗传繁育重点实验室，广西水牛遗传繁育重点实验室,南宁 530001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究饲粮精粗比对泌乳水牛瘤胃细菌和甲烷菌区系的影响。选取15头健康杂交后备泌乳水牛，按体重、采食量等相近原则随机分为3组，每组5头，分别饲喂精粗比为0:100（全粗料组）、35:65（低精料组）、50:50（中等精料组）的混合饲粮。试验为期 $4 0 \\mathrm { d }$ ，其中前10d为预试期。在试验结束后第1天，经口腔抽取瘤胃液抽提微生物 DNA，采用 Illumina Miseq PE250 平台研究瘤胃细菌和甲烷菌区系组成。结果表明：1）在门水平上，水牛瘤胃内拟杆菌门 $45 \\% { \\sim } 6 0 \\%$ ）、厚壁菌门（ $1 3 \\% { \\sim } 2 7 \\%$ ）和变形菌门（ $1 3 \\% { \\sim } 1 8 \\%$ ）为主要细菌类别，与低精料组和中等精料组相比，全粗料组提高了拟杆菌门、黄杆菌门和 SR1细菌的比例，降低了厚壁菌门、疣微菌门、放线菌门和绿弯菌门细菌的比例；在科水平上，普雷沃氏科（ $1 5 \\% { \\sim } 3 2 \\%$ ）和黄杆菌科（ $8 \\% { \\sim } 2 1 \\%$ ）为主要细菌类别，与中等精料组相比，全粗料组、低精料组提高了普雷沃氏科细菌的比例，降低了黄杆菌科、毛螺菌科、瘤胃球菌科、红蝽杆菌科和双歧杆菌科细菌的比例；中等精料组瘤胃细菌相比全粗料组有更高的多样性。2）水牛瘤胃内， $90 \\%$ 以上的甲烷菌为甲烷短杆菌属，其次为热原体属，饲粮精粗比的改变并未影响甲烷短杆菌属在瘤胃内的优势地位。综合得出，全粗料饲粮有提高水牛瘤胄内纤维降解相关细菌比例的趋势，却降低了瘤胃细菌的多样性；饲粮精粗比的差异对水牛瘤胃甲烷菌在属水平上的组成并无显著影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水牛；精粗比；瘤胃；细菌区系；甲烷菌区系 中图分类号：S823 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水牛是典型的以粗料饲喂的反刍动物，其瘤胃发酵特点及微生物区系组成有何特点尚无定论。饲粮精粗比是决定瘤胃发酵的主要因素，而改变饲粮精粗比以研究瘤胃微生物区系的反应也是阐明反刍动物瘤胃微生物区系特点的重要手段[1-2]。Mao 等[3]研究表明，在饲喂高精料饲粮的奶牛瘤胃内，厚壁菌门（Firmicutes）和放线菌门（Actinobacteria）细菌的比例则较高，而变形菌门（Proteobacteria）和拟杆菌门（Bacteroidetes）细菌的比例较低。Pit 等[4]对水牛的研究发现，全粗料饲粮饲喂后瘤胃内瘤胃球菌属（Ruminococcus）和黄杆菌门（Fibrobacter）细菌的比例较高；而精粗比为50:50 的饲粮饲喂后瘤胃内普雷沃菌属（Prevotella）细菌的比例较高，表明瘤胃球菌属和黄杆菌门细菌是瘤胃内纤维消化的重要细菌类别。本课题组前期的研究也表明，提高饲粮精粗比降低了瘤胄内产琥珀酸丝状杆菌和丁酸弧菌数量[5]。高粗饲粮条件下，纤维降解菌如丁酸弧菌、栖瘤胃普雷沃氏菌等是瘤胃中的优势菌种；高精料条件下，嗜淀粉类细菌如反刍兽新月单细菌、消化链球菌、乳酸杆菌以及嗜淀粉瘤胃杆菌为优势菌种[6-7]。然而，在不同精粗比饲粮下水牛瘤胃微生物区系的变化情况研究报道还较少，不足以阐明水牛瘤胃微生物区系的特点。因此，本研究采用高通量测序技术对饲喂不同精粗比饲粮的水牛瘤胃细菌和甲烷菌区系的变化进行了研究，以期阐明饲粮精粗比构成对水牛瘤胃细菌和甲烷菌区系的影响，为进一步了解水牛瘤胃提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 1 试验动物",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验在广西水牛研究所水牛养殖示范基地进行。选取15 头健康杂交[广西本地水牛 $\\times$ （尼里－拉菲水牛) $\\times$ 摩拉水牛]后备泌乳水牛，按体重、采食量等相近原则随机分为3组，每组5头水牛。试验牛进行单槽专人饲喂，采取先粗后精的饲喂顺序。饲喂后，试验牛放于运动场自由运动和饮水。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计及饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用单因素设计原则，3组水牛分别饲喂精粗比为0:100（全粗料组）、35:65（低精料组）和50:50的混合饲粮（中等精料组），试验期共 $4 0 \\mathrm { d }$ ，其中预试期 $1 0 \\mathrm { d }$ ，正试期 $3 0 \\mathrm { d }$ 。预试期内逐步过渡饲粮精粗比，到正试期前达到试验所设定的精粗比。精料组成、精料和粗料饲喂量及采食营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf360da81ec68fb44dc51df38769e1344215ea2f3acf97e5d71fb79717cf154b.jpg",
+        "table_caption": [
+            "表1精料组成、精料和粗料饲喂量及采食营养水平(风干基础) ",
+            "Table1Concentrate composition,feeding amount of concentrate and forage,and nutrient level intakes (air-dry "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目</td><td colspan=\"3\">basis)</td></tr><tr><td>全粗料组</td><td>低精料组</td><td>中等精料组</td></tr><tr><td>Items 精料组成 Concentrate composition/%</td><td>All forage group</td><td>Low concentrate group</td><td>Medium concentrate group</td></tr><tr><td>玉米Corn</td><td>44.0</td><td>44.0</td><td>44.0</td></tr><tr><td>豆粕 Soybean meal</td><td>10.0</td><td>10.0</td><td></td></tr><tr><td>小麦麸 Wheat bran</td><td></td><td></td><td>10.0</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>34.5 3.0</td><td>34.5 3.0</td><td>34.5</td></tr><tr><td>石粉 Limestone</td><td>2.5</td><td>2.5</td><td>3.0</td></tr><tr><td>食盐 NaCl</td><td></td><td></td><td>2.5</td></tr><tr><td></td><td>2.0</td><td>2.0</td><td>2.0</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cc597f630312ad8dec303121eaf6222dfc9303202dbd698f2c435a22f3a0c11.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "1 每千克预混料含有 One $\\mathbf { k g }$ of premix contained the folowing:VE 3 000 IU,VD 150 000 IU,VA 500 000 IU,Cu 1.3g,Fe 4.0 g,Mn 3.0 g,I 80 mg,Zn 6.0 g,Co 80 mg,Se 50 mg。"
+        ],
+        "table_body": "<html><body><table><tr><td>小苏打 NaHCO3</td><td>3.0</td><td>3.0</td><td>3.0</td></tr><tr><td>预混料 Premix1)</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>合计 Total</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td>饲喂量 Feeding amount/[kg/(d·头）]</td><td></td><td></td><td></td></tr><tr><td>象草(粗料)Elephant grass（forage）</td><td>22</td><td>12</td><td>10</td></tr><tr><td>木薯渣(粗料)Cassava pulp（forage)</td><td>10</td><td>8</td><td>6</td></tr><tr><td>精料 Concentrate</td><td></td><td>2</td><td>3</td></tr><tr><td>采食营养水平 Nutrient level intakes/%2)</td><td></td><td></td><td></td></tr><tr><td>干物质采食量 DMI/[kg/(d·头）]</td><td>5.94</td><td>5.80</td><td>6.02</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>15.26</td><td>15.25</td><td>15.26</td></tr><tr><td>粗蛋白质 CP</td><td>8.54</td><td>11.31</td><td>12.80</td></tr><tr><td>中性洗涤纤维 NDF</td><td>56.20</td><td>40.84</td><td>35.69</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>39.32</td><td>28.00</td><td>23.55</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2’实测值 Measured values。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 瘤胃液采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "正试期结束后第1天，每头水牛采集瘤胃液 $1 0 0 ~ \\mathrm { { m L } }$ ，以组为单位混合，通过4层纱布过滤，取$5 0 ~ \\mathrm { m L }$ 滤液冷冻干燥（Christ Alpha 1-4LD plus,Christ Alpha,Germany），用于DNA 提取测定微生物区系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4瘤胃微生物区系测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 瘤胃液DNA提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DNA 提取方法按照Rius 等8的报道进行。具体方法为：称取 $2 5 ~ \\mathrm { { \\ m g } }$ 冷冻干燥瘤胃液置于装有$0 . 7 \\ \\mathrm { g }$ 锆珠（ $\\mathrm { . 0 . 1 \\ m m }$ ）、 $2 0 0 ~ \\mu \\mathrm { L }$ 的 $20 \\%$ 十二烷基苯磺酸钠（SDS）、 $2 8 2 ~ \\mu \\mathrm { L }$ 的 QIAquick Buffer A 和$2 6 8 ~ \\mu \\mathrm { L }$ 的 QIAquick Buffer PB（Qiagen，德国）以及 $5 5 0 ~ \\mu \\mathrm { L }$ 的饱和酚/氯仿/异戊醇溶液（25:24:1）的离心管中。封闭离心管后于小型珠磨器（Biospec Mini-Beadbeater-16，美国）上破碎 $2 ~ \\mathrm { m i n }$ ，然后于$1 6 0 0 0 \\times g$ （ $4 ^ { \\circ } \\mathrm { C }$ ）下离心 $2 0 \\mathrm { m i n }$ ，取 ${ 5 0 0 \\mu \\mathrm { L } }$ 上清液与 $6 5 0 ~ \\mu \\mathrm { L }$ 的 Buffer PB 混合后，用QIAquick PCRpurification kit（Qiagen，德国）纯化混合液获得DNA样品。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2水牛瘤胃微生物区系组成的测序分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "瘤胃细菌和甲烷菌的16S rRNA 基因片段扩增与处理均按照 Kittelmann 等9提供的方法进行。PCR 引物由 Illumina Miseq PE250 测序接头、1个2碱基的连接（linker）和样品标签（barcode）组成，细菌PCR引物为515f/806r，甲烷菌PCR 引物为 519f/915r（表2）。PCR扩增采用Promega PCRmix进行，体系为 ${ 5 0 \\mu \\mathrm { L } }$ ，每个样品的2种微生物分别扩增2管。PCR扩增程序为： $9 4 ^ { \\circ } \\mathrm { C }$ 预变性 $3 \\mathrm { m i n }$ 然后进入 $9 4 ^ { \\circ } \\mathrm { C }$ 变性 $3 0 ~ \\mathrm { s }$ ， $5 6 ^ { \\circ } \\mathrm { C }$ 退火 $3 0 ~ \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸45s的循环，共进行30个循环。PCR 扩增后，将同一样品的同一种微生物的2管 PCR产物混合，电泳后切胶回收，采用胶回收试剂盒（天根生化科技有限公司）纯化；采用 ND2000 超微量核酸蛋白测定仪（Thermo，德国）准确测定纯化产物的DNA 浓度（精确到 $0 . 1 \\mathrm { n g / \\mu L } \\ '$ ）后，每个样品的PCR 纯化产物按照细菌:甲烷菌 $= 5 { : } 1$ 的浓度比例混合。最后，将各样品全部PCR产物混合后，送广州海基生物技术有限公司应用Miseq PE250 平台进行测序分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9fc79c22b22693d5678fd1101545f7e5e6683aa071dc463285e02ac460feacf4.jpg",
+        "table_caption": [
+            "表2瘤胃微生物区系测序分析采用的引物信息",
+            "Table 2Information of primers used for sequencing analysis of ruminal microflora "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>微生物 Microbes</td><td>上游引物 Forward primer</td><td>下游引物 Downward primer</td><td>连接 Linker</td><td>扩增长度 Amplification length/bp</td><td>退火温度 Annealing temperature/℃</td></tr><tr><td>细菌Bacteria</td><td>GTGTGCCAGCMG CCGCGGT</td><td>CCGGACTACHVGG GTWTCTAAT</td><td>AA</td><td>292</td><td>56</td></tr><tr><td>甲烷菌</td><td>CAGCMGCCGCG</td><td>GTGCTCCCCCGCCA</td><td>AA</td><td>397</td><td>56</td></tr><tr><td>Methanogen</td><td>GTAATWC</td><td>ATTCCT</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 测序序列的聚类分析和注释",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测序数据分析采用QIME1.5进行，经过去除接头污染、低复杂度以及低质量reads 等质量控制后，对获得的clean reads 进行拼接并去除引物，用于后续分析[10]。序列分类操作单元（OTU）注释和聚类分析按照与细菌和古菌 $9 7 \\%$ 相似度以上的原则进行。OTU聚类分析和注释通过与RibosomalDatabase Project（RDP）数据库中的细菌和古菌序列比对进行，细菌聚类分析到门和科水平，甲烷菌分类到属水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 统计与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所有数据均采用SAS8.02软件的GLM程序进行单因素方差分析，多重比较采用Duncan氏法，$P { < } 0 . 0 5$ 为差异显著性判定标准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1高通量测序数据质量控制与多样性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高通量测序数据经质量控制后，各组细菌和甲烷菌测序cleanreads数、OTU数以及样品物种多样性指数如表3。水牛瘤胃内细菌测序后发现，在种水平上得到的cleanreads数平均值为26613，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "OTU数平均值为969，测序覆盖率为0.89\\~0.90；细菌香农多样性指数平均值为7.58，Chao1多样性指数平均值为1233。除中等精料组香农指数显著高于全粗料组（ $. P { < } 0 . 0 5$ ）外，组间细菌各指标均无显著差异( ${ \\cdot } P { > } 0 . 0 5 { \\rangle }$ 。水牛瘤胃内甲烷菌测序后发现，在种水平上得到的clean reads 数平均值为8 607,OTU数平均值为136，测序覆盖率为 $0 . 7 4 \\mathrm { \\sim } 0 . 9 3$ ；甲烷菌香农多样性指数平均值为1.25，Chao1多样性指数平均值为237。组间甲烷菌各指标均无显著差异（ $P { > } 0 . 0 5$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/20713d824fd7a19f60b3bebc05cea972b943ae9abdafb70215708a232080b0ac.jpg",
+        "table_caption": [
+            "表3瘤胃细菌和甲烷菌高通量测序质量控制与样品多样性指数",
+            "Table3Bacterialand methanogen high throughput sequencing qualitycontroland microbial diversity index inrumen fluid "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>微生物 Microbes</td><td>指标 Indexes</td><td>全粗料组 All forage group</td><td>低精料组 Low concentrate</td><td>中等精料组 Medium concentrate</td><td>SEM</td><td>P值 P-value</td></tr><tr><td>细菌种水平</td><td>Cleanreads 数 Clean reads No.</td><td>22 033</td><td>group 27 521</td><td>group 30 285</td><td>3151</td><td>0.589</td></tr><tr><td>Bacteria specie</td><td>分类操作单元数OTU No.</td><td>1 066</td><td>913</td><td>928</td><td>33</td><td>0.098</td></tr><tr><td>level</td><td>覆盖率Coverage</td><td>0.90</td><td>0.89</td><td>0.89</td><td>0.09</td><td>0.893</td></tr><tr><td></td><td>香农多样性指数</td><td>7.31b</td><td>7.54ab</td><td>7.88a</td><td>0.09</td><td>0.020</td></tr><tr><td></td><td>Shannon diversity index Chaol物种多样性指数</td><td>1 239</td><td>1297</td><td>1163</td><td></td><td></td></tr><tr><td>甲烷菌种水平</td><td>Chao1 diversity index</td><td></td><td></td><td></td><td>61</td><td>0.703</td></tr><tr><td rowspan=\"5\">Methanogen specie level</td><td>Clean reads 数 Clean reads No.</td><td>8713</td><td>8 562 141</td><td>8 546</td><td>1017</td><td>0.998</td></tr><tr><td>分类操作单元数 OTU No.</td><td>135</td><td>0.74</td><td>132</td><td>8</td><td>0.910</td></tr><tr><td>覆盖率Coverage 香农多样性指数</td><td>0.84 1.23</td><td>1.30</td><td>0.93 1.21</td><td>0.13</td><td>0.654</td></tr><tr><td>Shannon diversity index</td><td></td><td></td><td></td><td>0.07</td><td>0.865</td></tr><tr><td>Chaol 物种多样性指数 Chaol diversity index</td><td>242</td><td>236</td><td>232</td><td>8</td><td>0.896</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮精粗比对瘤胃细菌区系的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同精粗比饲粮下，瘤胃细菌组成在门水平和科水平的组成见表4。水牛瘤胃细菌在门水平上主要的细菌门是拟杆菌门、厚壁菌门和变形菌门。全粗料组拟杆菌门细菌的比例显著高于中等精料组（ $\\scriptstyle P < 0 . 0 5$ ），黄杆菌门和 SR1细菌的比例显著高于低精料组和中等精料组（ $. P { < } 0 . 0 5$ ），但全粗料组厚壁菌门、疣微菌门细菌的比例显著低于中等精料组 （ $. P { < } 0 . 0 5$ ），放线菌门和绿弯菌门细菌的比例显著低于低精料组和中等精料组（ $. P { < } 0 . 0 5$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在科水平上，瘤胃细菌以普雷沃氏科（Prevotellaceae）和黄杆菌科（Fibrobacteraceae）为主。全粗料组、低精料组普雷沃氏科细菌的比例显著高于中等精料组（ $. P { < } 0 . 0 5$ ），而全粗料组和低精料组黄杆菌科、毛螺菌科、红蝽杆菌科和双歧杆菌科细菌的比例均显著低于中等精料组（ $P { < } 0 . 0 5 \\mathrm { ) }$ ），全粗料组瘤胃球菌科细菌的比例显著低于中等精料组 （ $. P { < } 0 . 0 5$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a6f33ad7431d699cdccd9fb69a39941dad8166f7b9e6dfdbaa57cdf9f17babb.jpg",
+        "table_caption": [
+            "表4瘤胃细菌门和科水平上的细菌比例（占总菌比例大于 $1 \\%$ ）",
+            "Table 4Proportion of bacteria at phyla and family levels（proportion of total bacteria higher than $1 \\%$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">分类学水平 Taxonomy level</td><td rowspan=\"2\">微生物Microbes/%</td><td>全粗料组</td><td>低精料组</td><td rowspan=\"2\">中等精料组 Medium</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P value</td></tr><tr><td>All forage group Low concentrate</td><td>group</td></tr><tr><td rowspan=\"10\">门 Phyla</td><td>拟杆菌门 Bacteroidetes</td><td>64.9a</td><td>55.7ab</td><td>concentrate group 46.4b</td><td>3.00</td><td>0.027</td></tr><tr><td>厚壁菌门 Firmicutes</td><td>13.1b</td><td>20.0ab</td><td>26.9a</td><td>1.94</td><td>0.004</td></tr><tr><td>变形菌门 Proteobacteria</td><td>13.43</td><td>14.13</td><td>17.23</td><td>0.97</td><td>0.248</td></tr><tr><td>放线菌门 Actinobacteria</td><td>0.32℃</td><td>0.72b</td><td>1.00a</td><td>0.11</td><td>0.032</td></tr><tr><td>绿弯菌门 Chloroflexi</td><td>0.13c</td><td>0.43b</td><td>0.64a</td><td>0.08</td><td>0.022</td></tr><tr><td>黄杆菌门 Fibrobacter</td><td>0.43a</td><td>0.24b</td><td>0.20b</td><td>0.03</td><td>0.004</td></tr><tr><td>螺旋体门 Spirochaetes</td><td>0.18</td><td>0.15</td><td>0.22</td><td>0.02</td><td>0.201</td></tr><tr><td>疣微菌门Verrucomicrobia</td><td>0.10b</td><td>0.12ab</td><td>0.16a</td><td>0.01</td><td>0.044</td></tr><tr><td>SR1</td><td>0.23a</td><td>0.09b</td><td>0.03b</td><td>0.03</td><td>0.015</td></tr><tr><td>其他 Other</td><td>7.21</td><td>8.36</td><td>7.21</td><td>0.51</td><td>0.034</td></tr><tr><td rowspan=\"10\">科 Family</td><td>普雷沃氏科 Prevotellaceae</td><td>31.6a</td><td>25.7a</td><td>15.1b</td><td>2.09</td><td><0.001</td></tr><tr><td>黄杆菌科 Fibrobacteraceae</td><td>8.3b</td><td>11.3b</td><td>20.5a</td><td>5.75</td><td><0.001</td></tr><tr><td>肠杆菌科 Enterobacteriaceae</td><td>7.61</td><td>7.69</td><td>9.58</td><td>0.57</td><td>0.348</td></tr><tr><td>莫拉氏菌科 Moraxellaceae</td><td>4.25</td><td>4.33</td><td>5.37</td><td>0.42</td><td>0.505</td></tr><tr><td>毛螺菌科 Lachnospiraceae</td><td>2.28b</td><td>2.74b</td><td>4.73a</td><td>0.34</td><td><0.001</td></tr><tr><td>瘤胃球菌科 Ruminococcaceae</td><td>2.55b</td><td>3.18ab</td><td>4.62a</td><td>0.24</td><td><0.001</td></tr><tr><td>韦荣球菌科Veillonellaceae</td><td>0.76</td><td>0.86</td><td>0.67</td><td>0.05</td><td>0.339</td></tr><tr><td>紫单胞菌科Porphyromonadaceae</td><td>0.64</td><td>0.63</td><td>0.76</td><td>0.04</td><td>0.059</td></tr><tr><td>丛毛单胞菌科 Comamonadaceae</td><td>0.60</td><td>0.41</td><td>0.26</td><td>0.06</td><td>0.005</td></tr><tr><td>红蝽杆菌科 Coriobacteriaceae</td><td>0.25b</td><td>0.31b</td><td>0.49a</td><td>0.04</td><td><0.001</td></tr><tr><td>未分类菌科XIII Incertae sedis XII</td><td></td><td>0.17</td><td>0.25</td><td>0.58</td><td>0.23</td><td>0.078</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>0.001</td></tr><tr><td>双歧杆菌科 Bifidobacteriaceae</td><td></td><td>0.10b</td><td>0.17b</td><td>0.65a</td><td>0.31</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同精粗比饲粮饲喂的各组水牛瘤胃细菌组成的柱状分布图和热图分布分别如图1和图2所示。虽然组间各样品瘤胃细菌组成相近，但不同组间瘤胃细菌组成比例仍存在差异，特别是全粗料组的普雷沃氏科、链球菌科（Streptococcaceae）和气单胞菌科（Aeromonadaceae）细菌的比例较高，而中等精料组中黄杆菌科、瘤胃球菌科、毛螺菌科、双歧杆菌科和厌氧绳菌科（Anaerolineaceae）细菌的比例较高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "■红游动菌科 Rhodobiaceae  \n100% ■鞘脂单胞菌科 Sphingomonadaceae■浮霉菌科 Planctomycetaceae■类芽孢杆菌科 Paenibacillaceae■布鲁氏菌科 Brucellaceae□乳杆菌科 Lactobacillaceae  \n80% □黄杆菌科 Flavobacteriaceae棒状杆菌科 Corynebacteriaceae■厌氧绳菌科 Anaerolineaceae□双歧杆菌科 Bifidobacteriaceae■气单胞菌科 Aeromonadaceae□丹毒进菌科 Erysipelotrichaceae  \n60% □醋酸杆菌科 Acetobacteraceae□假单胞菌科 Pseudomonadaceae□黄单胞菌科 Xanthomonadaceae■链球菌科 Streptococcaceae■未界定分类菌 Incertae Sedis XIII  \n40% ■螺旋体科 Spirochaetaceae■红蝽杆菌科 Coriobacteriaceae■鞘氨醇杆菌科 Sphingobacteriaceae□其它Others■紫单胞菌科 Porphyromonadaceae■琥珀酸弧菌科 Succinivibrionaceae  \n20% ■韦荣球菌科 Veillonellaceae□丛毛单胞菌科 Comamonadaceae■毛螺菌科 Lachnospiraceae■瘤胃菌科 Ruminococcaceae■莫拉氏菌科Moraxellaceae$0 \\%$ □纤维杆菌科Fibrobacteraceae□肠杆菌科 EnterobacteriaceaeE A C C C C 5 I NCC N N 5 ■普雷沃氏菌科 Prevotellaceae■未分类的科 Undefined families",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AF：全精料组 allforage group;LC：低精料组 low concentrate group; MC：中等精料组 medium concentrate group。下图同 The same as below。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Effects of forage to concentrate ratio on ruminal bacteria composition at family level ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b943d5588573935094ca456499321ac457b07ad53c13a34e07ac359f9791cf6.jpg",
+        "img_caption": [
+            "图2饲粮精粗比对瘤胃细菌在科水平上热图分布的影响",
+            "Fig.2Effects of forage to concentrate ratio on ruminal bacterial distribution heat map at family level "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3饲粮精粗比对泌乳水牛瘤胃甲烷菌区系的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "饲粮精粗比对瘤胃甲烷菌区系在属水平上组成的影响如图3所示。可鉴定到属水平的水牛瘤胃甲烷菌共6个，其中主要的甲烷菌是甲烷杆菌属（Methanobrevibacter）、热原体属（Thermoplasma）和甲烷球菌属（Methanosphaera），这3类菌约占甲烷菌总数的 $9 5 \\%$ ，其中各组甲烷杆菌属细菌的比例均在 $90 \\%$ 以上。饲粮精粗比均未影响各组甲烷菌的组成比例。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7c9aa68b84986f2c0d89e47105b1ab80d27d00cd26ba26c85391d35e46e21ba.jpg",
+        "img_caption": [
+            "图3饲粮精粗比对瘤胃甲烷菌在属水平上组成的影响",
+            "Fig.3Effects of forage to concentrate ratio on ruminal methanogen composition at genus level "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮精粗比对瘤胃细菌区系的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "饲粮精粗比是决定瘤胃发酵的主要原因之一，我们前期的研究结果表明饲粮精粗比影响了水牛瘤胃的发酵指标[5]，而其调控的途径主要通过影响瘤胃微生物区系或功能。研究表明，随着饲粮精料比例的提高，纤维降解菌和真菌数量逐渐减少，当精料增加到一定比例时，瘤胃内低 pH 最终会抑制纤维降解菌的生长[7,1]。Kocherginskaya 等[12]发现高精料饲粮瘤胃内细菌数量和种类较多，变形菌门是门水平上的主要细菌；对高粗饲粮而言，低G+C 含量的革兰氏阳性菌为主要的细菌类别。Wetzels等[13]报道，与 $30 \\%$ 精料水平组相比，0和 $6 0 \\%$ 精料水平组瘤胃壁上的厚壁菌门和 SR1含量较高。Mao 等[3]研究表明，在饲喂高精料饲粮引起亚急性酸中毒的奶牛瘤胃内，变形菌门和拟杆菌门细菌的比例显著降低，而厚壁菌门和放线菌门细菌的比例则提高；在属水平上，普雷沃菌属、密螺旋体属（Treponema）、厌氧支原体属（Anaeroplasma）等属细菌的比例在高精料饲粮组中较低，但瘤胃球菌属、奇异菌属（Atopobium）和梭菌目（Clostridiales）等细菌的比例较高。本研究结果表明，精粗比为 50:50 组水牛瘤胃细菌在门水平上具有较高比例的厚壁菌门、变菌门和放线菌门细菌，而全粗料组则具有较高比例的拟杆菌门、黄杆菌门和 SR1细菌，该结果与其他一些关于奶牛和羊的结果相似[3,13]，均表明高精料饲粮可提高瘤胃内厚壁菌门和变形菌门，降低拟杆菌门细菌的比例。在科水平上，本研究发现全粗料组普雷沃氏科细菌比例（ $3 1 . 6 \\%$ ）为最高，而中等精饲粮组黄杆菌科细菌的比例（ $2 0 . 5 \\%$ ）为最高；普雷沃氏科是拟杆菌门的主要细菌，含有较多高活性的半纤维素降解菌，广泛存在于瘤胃和动物后肠道中负责蛋白质和碳水化合物的分解[14]，其在高粗饲粮中含量较高表明该科的细菌与纤维消化密切相关。然而，Pitta 等[4]对水牛饲喂不同精粗比饲粮研究结果表明，全粗料饲喂组水牛瘤胄内瘤胃球菌属和黄杆菌门细菌数量较高，而在 50:50 精粗比饲粮组，普雷沃氏属是细菌数量最多的属，与本研究结果并不一致，其原因可能本试验与该研究的动物试验设计差异有关，本试验3组水牛为同时饲喂，而该研究则为同组水牛顺序饲喂，即先喂全粗料饲粮再喂低精料饲粮，最后喂中等精料饲粮；此外，也有可能与引物的差异有关，Pitta 等4的研究采用不同的引物得到了不同的细菌区系组成，表明引物的合理选择对区系的影响较大。本研究发现精粗比为 50:50组瘤胃内细菌的香农多样性指数显著高于全粗料组，表明饲喂适宜的精料有提高瘤胃内细菌多样性的趋势，该结果与孙云章[15]的研究表明饲粮由全粗料转为精粗比为 $3 0 : 7 0$ 时，山羊瘤胃细菌区系多样性增加一致。此外，Kocherginskaya 等[2]也研究表明，高精料饲粮饲喂下山羊瘤胃内细菌数量和种类较多。本研究中，精粗比为 50:50 组瘤胃内细菌多样性高于全粗料饲粮组的原因可能与精粗比为 50:50 组瘤胃内分解淀粉和纤维的细菌共存，而全粗料饲粮组则以高效分解纤维的细菌为主，种类较少有关，因此给水牛饲喂精粗平衡的饲粮有利于维持瘤胃细菌的多样性和稳定性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮精粗比对瘤胃甲烷菌区系的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "饲粮精粗比会显著影响反刍动物瘤胃甲烷产量，高粗饲粮甲烷产量和甲烷菌数量均显著高于高精料饲粮，但饲粮精粗比对甲烷菌区系的研究报道还较少。现有研究表明，反刍动物瘤胃甲烷菌以甲烷短杆菌属为主，其次是甲烷球菌属和热原体属[6]；较多印度学者的研究表明，水牛瘤胃内甲烷菌以甲烷微菌属（Methanomicrobium)细菌为主，表现出不同于其他反刍动物不同的区系[17-19]。本研究表明，水牛瘤胃内甲烷菌共7个属，其中甲烷短杆菌属在各组中的占比均在 $90 \\%$ 以上，与Franzolin等[20]报道水牛瘤胃甲烷菌以甲烷短杆菌属为主一致，且与反刍动物的瘤胃甲烷菌以甲烷杆菌属为主一致。本研究结果不同于其他印度学者研究结果的原因可能与水牛所处的地理位置或品种有关[21],另一重要原因可能与引物的差异有关，研究表明不同甲烷菌引物会产生不同的菌群组成[22]。本研究发现，水牛饲粮精粗比并未影响甲烷短杆菌属在水牛瘤胃内的主导地位，因此饲粮精粗比对瘤胃甲烷产量的影响可能主要归因于甲烷菌数量的变化，但饲粮精粗比的改变是否影响了不同种的甲烷短杆菌组成尚有待进一步研究。有研究表明，反刍动物瘤胃内甲烷菌组成有其个体特异性[23]，并不容易随外界环境和饲粮组成的改变的而变化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "全粗料饲粮有提高瘤胃内纤维降解相关细菌比例的趋势，却降低了瘤胃细菌的多样性；饲粮精粗比的差异对瘤胃甲烷菌在属水平上的组成并无显著影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]娜仁花,董红敏,陈永杏,等.日粮精粗比对瘤胃发酵特性的影响[J].中国畜牧杂志,2011,47(9):49-54.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[2]PETRI R M,FORSTER R J,YANG W,et al.Characterization of rumen bacterial diversity and fermentation parameters in concentrate fed catle with and without forage[J].Journal of Applied Microbiology,2012,112(6):1152-1162. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[3]MAO S Y,ZHANG R Y,WANG D S,et al.Impact of subacute ruminal acidosis (SARA) adaptation on rumen microbiota in dairy cattle using pyrosequencing[J].Anaerobe,2O13,24:12-19. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[4]PITTA D W,KUMAR S,VEICCHARELLI B,et al.Bacterial diversity associated with feeding dry forage at different dietary concentrations in the rumen contents of Mehshana buffalo (Bubalus bubalis) using 16S pyrotags[J].Anaerobe,2014,25:31-41. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[5]李萍,梁辛,韦升菊,等.饲粮精粗比对后备母水牛瘤胃发酵参数和纤维降解菌数的影响[J].畜牧与兽医,2015,47(7):36-40.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[6]易学武,张石蕊.奶牛日粮精粗比应用研究进展[J].中国草食动物,2006,26(3):51-55.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[7]孙云章,毛胜勇,姚文,等.不同精粗比底物下瘤胃真菌和纤维降解细菌共培养发酵特性及菌群变化[J].微生物学报,2006,46(3):422-426.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[8]RIUS A G,KITTELMANN S,MACDONALD K A,et al.Nitrogen metabolism and rumen microbial enumeration in lactating cows with divergent residual feed intake fed high-digestibility pasture[J].Journal of Dairy Science,2012,95(9):5024-5034. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[9]KITTELMANN S,SEEDORF H,WALTERS W A,et al.Simultaneous amplicon sequencing to explore co-occurrence patterns of bacterial,archaeal and eukaryotic microorganisms in rumen microbial communities[J].PLoS One,2013,8(2):e47879. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10]CAPORASO JG,KUCZYNSKI J,STOMBAUGH J,et al.QIIME alows analysis of high-throughput community sequencing data[J].Nature Methods,2010,7(5):335-336. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[11]王海荣.不同日粮精粗比及氮源对绵羊瘤胃纤维降解菌群和纤维物质降解的影响[D].博士学位论文.呼和浩特:内蒙古农业大学,2006:2-3.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[12]KOCHERGINSKAYA S A,AMINOV R I,WHITE B A.Analysis of the rumen bacterial diversity under two different diet conditions using denaturing gradient gel electrophoresis,random sequencing,and statistical ecology approaches[J].Anaerobe,2001,7(3):119-134. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[13]WETZELS S U,MANN E,METZLER-ZEBELIB U,et al.Pyrosequencing reveals shifts in the bacterial epimural community relative to dietary concentrate amount in goats[J].Journal of Dairy Science,2015,98(8):5572-5587. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[14]MATSUI H,OGATA K,TAJIMA K,et a1.Phenotypic characterization of polysaccharidases produced by four Prevotella type strains[J].Current Microbiology,2Ooo,41(1):45-49. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[15]孙云章.不同底物下瘤胃微生物的发酵特性及细菌菌群变化的分子描述[D].博士学位论文.南京:南京农业大学,2005:6-9.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[16]ST-PIERRE B,WRIGHT AD G.Diversity of gut methanogens in herbivorous animals[J].Animal,2013,7(Suppl.1):49-56. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[17]CHAUDHARY P P,SIROHI S K.Dominance of Methanomicrobium phylotype in methanogen population present in Murrah buffaloes (Bubalus bubalis)[J].Letters in Applied Microbiol0gy,2009,49(2):274-277. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[18]SINGH K M,PANDYA PR,PARNERKAR S,et al.Molecular identification of methanogenic archaea from Surti buffaloes (Bubalus bubalis),reveals more hydrogenotrophic methanogens phylotypes[J].Brazilian Journal of Microbiology,2011,42(1):132-139. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[19]SINGH K M,AHIR VB,TRIPATHI A K,et al.Metagenomic analysis of Surti buffalo (Bubalus bubalis) rumen:a preliminary study[J].Molecular Biology Reports,2012,39(4):4841-4848. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[20]FRANZOLIN R,ST-PIERRE B,NORTHWOOD K,et al.Analysis of rumen methanogen diversity in Water buffaloes (Bubalus bubalis) under three different diets[J].Microbial Ecology,2012,64(1):131-139. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[21]WRIGHT A D G,AUCKLAND C H,LYNN D H.Molecular diversity of methanogens in feedlot cattle from Ontario and Prince Edward Island,Canada[J].Applied and Environmental Microbiology,2007,73(13):4206-42107. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[22]CHENG Y F,MAO S Y,LIU J X,et al.Molecular diversity analysis of rumen methanogenic Archaea from goat in eastern China by DGGE methods using different primer pairs[J].Lettrs in Applied Microbiology,2009,48(5):585-592. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[23] ZHOU M,HUNERBERG M,BEAUCHEMINK A,et al.Individuality of ruminal methanogen/protozoa populations in beef catle fed diets containing dried distillers' grain with solubles[J].Acta Agriculturae Scandinavica,Section A:Animal Science,2012,62(4):273-288. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Dietary Forage to Concentrate Ratio Affects Ruminal Bacterial and Methanogen Community Composition of Water Buffaloes ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "LIN BolLIANG Xin² LI Lili² WEI Shengju²LI Ping1ZOU Caixia1.2\\* (1. College ofAnimal Science,Guangxi University, Nanning 53004, China; 2. Key Laboratory ofBuffalo Genetics, Breeding and Reproduction of Ministry ofAgriculture, Key Laboratory of Buffalo Genetics, Breeding and Reproduction of Guangxi, Bufflo Research Institute, Chinese Academy of Agricultural Sciences, Nanning 530001, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This study was conducted to study the effects of dietary forage to concentrate ratio on ruminal bacterial and methanogen community composition of water buffaloes. Fifteen healthy similar hybrid water buffaloes were selected and divided into three groups with 5 heads per group according to body weight and fed intake. The three groups were fed diets with concentrate to forage ratio at O:1OO (allforage group), 35:65 (low concentrate group) and 50:5O (medium concentrate group), respectively. The total experimental period was 40 days,including 1O days of advanced experiment feding period. On day 1 after the experiment, rumen fluid sample was taken from rumen through mouth,and ruminal fluid DNA was extracted to research ruminal bacterial and methanogen community by Ilumina Miseq 25oPE.The results showed as follows: 1） at phyla level, ruminal bacterial community of buffaloes was dominated by Bacteroidetes ( $45 \\%$ to $60 \\%$ ）andFirmicutes( $13 \\%$ to $27 \\%$ ）andProteinobacter( $13 \\%$ to $1 8 \\%$ ); compared with low concentrate group and medium concentrate group,all forage group increased the proportions of Bacteroidetes，Fibrobacter and SR1， but decreased the proportions of Firmicutes，Verrucomicrobia, Actinobacteria and Chloroflexi; at the family level,the dominant bacteria were Prevotellaceae ( $1 5 \\%$ to $32 \\%$ ） and Fibrobacteraceae ( $8 \\%$ to $2 1 \\%$ ); compared with medium concentrate group,all forage group and low concentrate group increased the proportions of Prevotellaceae，while decreased the proportions of Fibrobacteraceae，Lachnospiraceae,Ruminococcaceae,Coriobacteriaceae and Bifidobacteriaceae；additionally, the bacterial community in medium concentrate group was more diverse than that in allforage group. 2) Ruminal methanogen community of water bufaloes was dominated by Methanobrevibacter (over $90 \\%$ ), followed by Thermoplasma; dietary concentrate to forage ratio had no influence on ruminal methanogen community of water buffaloes.In conclusion,bacteria related with fiber digestion tends to be increased by all forge diet,but ruminal bacterial diversity is decreased byall forage diet; there isno influence of concentrate to forage ratio on ruminal methanogen composition of water bufaloes at genus level. Key words: water buffalo; concentrate to forage ratio; rumen; bacteria community; methanogen community ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

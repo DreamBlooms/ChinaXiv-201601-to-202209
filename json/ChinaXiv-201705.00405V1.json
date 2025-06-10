@@ -1,0 +1,374 @@
+[
+    {
+        "type": "text",
+        "text": "High-Performance Polymer Solar Cells with Zinc SulfidePhenanthroline Derivatives as the Hybrid Cathode Interlayers ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yulei Wu, Xiaohui Liu,+\\* Xiaodong Li,\\* Wenjun Zhang† Hai-Qiao Wang\\*† and Junfeng Fang\\*t +Ningbo Institute of Materials Technologyand Engineering, Chinese Academy of Sciences,Ningbo 315201, China #University of Chinese Academy of Sciences，Beijing 100049,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Environmentally benign hybrid interlayers are prepared by modifying the zinc sulfide $( \\mathsf { Z n S } )$ with phenanthroline/derivatives and utilized in inverted polymer solar cells (PSCs). Performances of the inverted PSCs are improved enormously by incorporating these hybrid interlayers，as which can effectively improve the energy level alignment， electron mobility， surface morphology， and interfacial contact. Greatly improved power conversion efficiencies (PCEs)of $7 . 7 9 \\%$ ： $8 . 0 0 \\%$ P $7 . 4 7 \\% ,$ and $7 . 5 6 \\%$ are achieved with these hybrid interlayers ZnS-BCP, ${ \\mathrm { Z n S } }$ -Bphen, ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d581465de526ebca10faf53fee23804278f3ce99b30fba07c8f03e2b70825cc.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$Z \\mathrm { n } S .$ -Mphen, and $Z \\mathrm { n } S$ -Phen，respectively， compared to the PCE of $2 . 9 9 \\%$ of the reference $Z \\mathrm { n } S$ -based device， based on $\\mathrm { P T B 7 : P C _ { 7 1 } B M }$ active layer. Our results demonstrate that hybrid interfacial materials comprising inorganic and organic semiconductor possesspromising potential to improve the performance of organic electronic devices，and set an example to develop this novel class of interfacial materials for electronic devices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS: inverted polymer solar cels，cathode, hybrid interlayer， ZnS,phenanthroline ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polymer solar cells (PSCs） based on donor-acceptor blend bulk heterojunctions (BHJ） have been studied widely because of their promising advantages， such as low-cost, flexible form, light weight, and ease of large area fabrication.1-3 The power conversion efficiency (PCE）of PSCs has been dramatically improved and is approaching $\\sim 1 0 \\%$ in the scientific literatures.4-7 These improvements derived not only from the continuous emergence of novel donor materials but also from the great progresses achieved in the interface studies.8-10 The commercial hole-transport material， poly(3,4- ethylenedioxythiophene):poly(styrenesulfonate）（PEDOT:PSS）is commonly used as anode interface material in conventional device architecture,aiming to improve the surface property of indium-tin oxide(ITO）electrode and its work function (WF).While the strong acidic nature of which can result in ITO erosion and seriously affect the device stabilityl0encendetefacetes such as $\\mathrm { M o O } _ { 3 } , \\mathrm { V } _ { 2 } \\mathrm { O } _ { 5 } , \\mathrm { W O } _ { 3 } ,$ and NiO,etc.,have been explored for substitution.12-13 Meanwhile,cathode interfacematerials, such as $\\mathrm { T i O } _ { 2 } ,$ $\\mathrm { { } z n O } _ { \\cdot }$ ，PFN，FTBTF-N，etc.，become more attractive recently since they can render the device in more stable inverted architecture.47,16,17 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Generally，these interface materials can be classified into three categories: organic，inorganic，and hybrid interlayers. Most studies have focused on the first two,while quite limited studies have been reported about the hybrid type.Recently,the hybrid interfacial materials draw great attention from researchers since they presented promising potential as interface layer in photovoltaics,18-24 because of their combinatorial favorable properties of organic and inorganic semiconductors.Although impressive performances have been obtained for devices fabricated with ZnO-C60, $\\mathrm { Z n O / C s S t }$ and CdS-BCPbridatodeter6 great efforts still need to be conducted to explore this hybrid type interlayers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zinc sulfide $( \\mathrm { Z n S } )$ isan environmentally friendly semiconductor with a wide direct bandgap $\\left( > 3 . 5 ~ \\mathrm { e V } \\right)$ ，which is a promising material that has vast potential in thin film devices, such as photoluminescentand electroluminescent devices.7-29 Meanwhile，high electron mobility as well as high electron affinity makes it attractive as an electron acceptor in hybrid bulk heterojunction photovoltaic devices， such as polymer: $z _ { \\mathrm { n S } }$ hybrid bulk heterojunction solar cels.30,31 However,there are few literatures focusing on ${ \\boldsymbol { Z } } { \\mathrm { n } } { \\boldsymbol { S } }$ or its hybrid interfacial materials have been reported in PSCs.32,33 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study,we fabricated BHJ polymer solar cells based on poly[[4,8-bis[(2-ethylhexyl)oxy]benzo[1,2-b:4,S-b']- dithiophene-2,6-diyl][3-fluoro-2-[(2-ethylhexyl)carbonyl] thieno[3,4-b]thiophenediyl]] (PTB7）and [6,6]-phenyl-C71- butyric acid methyl ester $\\left( \\mathrm { P C } _ { 7 1 } \\mathrm { B M } \\right)$ as the active layer，and hybrid $Z \\mathrm { n } S$ -phenanthroline/derivatives $( \\mathsf { Z n S - P } )$ as the cathode buffer layer grown in situ from its chelate precursor zinc ethylxanthate $\\left( \\operatorname { Z n } ( \\operatorname { S } _ { 2 } \\mathbf { C O E t } ) _ { 2 } \\right)$ .34 By which, optimal PCE up to $8 . 0 0 \\%$ is achieved for devices with configuration $\\scriptstyle { \\mathrm { I T O / Z n S  – P / } }$ $\\mathrm { P T B 7 { : } P C _ { 7 1 } B M / M o O _ { 3 } / A l , }$ because of the improved interface properties by hybrid $\\mathsf { Z n S - P }$ .While with the pure $Z \\mathrm { n } S$ cathode interlayer,only $2 . 9 9 \\%$ ofPCE is obtained this technique. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cf451ea68170a4acf13701f656ab7905ec24c3743da2b39edf19bab5a4bab0f.jpg",
+        "img_caption": [
+            "Figure1.(a)MolecularstructuresofphenanthrolinederivativesBCP,Bphen,Mphen,andPhen.(b)olecularstructuresofad $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } .$ (c) Inverted device structure of $\\mathrm { I T O / Z n S  – P / P T B 7 : P C _ { 7 1 } B M / M o O _ { 3 } / A l } .$ （2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.EXPERIMENTAL SECTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials and Methods. $\\operatorname { Z n } ( \\operatorname { A c } ) _ { 2 } ,$ （204号 $\\mathrm { K S } _ { 2 } \\mathrm { C O E t }$ ，and pyridine were bought from Aladdin Reagent. Phenanthroline derivatives including 2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline (BCP),4,7- diphenyl-1,10-phenanthroline(Bphen)，2,9-dimethyl-1,10-phenanthroline (Mphen)，and 1,l0-phenanthroline (Phen）were bought from Alfa Aesar.PTB7 and $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ were purchased from 1-Material Chemscitech Inc.(Canada) and American Dye Source Inc.(ADS), respectively.All the available materials were used as received without any further purification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The preparation of zinc xanthate $\\left( \\mathrm { Z n } { \\left( \\mathrm { S } _ { 2 } \\mathrm { C O E t } \\right) } _ { 2 } \\right)$ was described in the literatures.34,35 BCP,Bphen,Mphen,and Phen wereadded intoa stirred suspension of $\\mathrm { Z n } ( \\mathsf { S } _ { 2 } \\mathrm { C O E t } ) _ { 2 }$ in chloroform,respectively，and the suspension immediately vanished when phenanthroline derivative wasadded in.The yellowsolutionwas stirred for $^ { 2 \\mathrm { h } }$ and then filtrated. The obtained filtrates were left to crystallize by slow evaporation.And then the crude product of $\\mathrm { Z n } \\big ( \\mathrm { S } _ { 2 } \\mathrm { C O E t } \\big ) _ { 2 } \\big ( \\mathrm { P } \\big )$ waspurified by recrystallization from chloroform twice. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Device Fabrication.The solar cells were fabricated on glass substrates with ITO $\\left( 1 0 \\Omega \\ \\mathrm { s q } ^ { - 1 } \\right)$ patterned on the surface.The ITO substrates were cleaned by sequential ultrasonic treatment in detergent，deionized water，acetone，and isopropanol for $2 0 ~ \\mathrm { \\ m i n }$ each.Finally the substrates were dried with pressurized flowing nitrogen gas and then irradiated in a UV-ozone chamber for $2 0 ~ \\mathrm { m i n }$ The precursors $\\mathrm { Z n } \\big ( \\mathrm { S } _ { 2 } \\mathrm { C O E t } \\big ) _ { 2 } \\big ( \\mathrm { P } \\big )$ (dissolved in $N , N \\mathrm { . }$ -dimethylformamide, DMF, $2 0 ~ \\mathrm { m g / m L }$ ）were spin-coated onto the ITO substrates under $5 0 0 0 ~ \\mathrm { r p m }$ for $6 0 \\mathrm { ~ s ~ }$ and then annealed at $1 7 5 ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { m i n }$ in air.Then the substrates were transferred into an argon-filled glovebox and theactivelayer $( \\sim 9 6 ~ \\mathrm { n m } )$ wasdeposited onto the interfacial layer by spin-coating $\\mathrm { P T B 7 : P C _ { 7 1 } B M }$ dissolved in mixed solvents of chlorobenzene/1,8-diiodoctane $( 9 7 { : } 3 \\ \\mathrm { \\ v o l \\ \\% } )$ at $2 0 0 0 ~ \\mathrm { r p m }$ for $1 2 0 \\ s$ The blend ratio of P $\\mathrm { T B } 7 { : } \\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ was 1:1.5 by weight $( 2 5 ~ \\mathrm { m g / m L } )$ ： The device fabrication was completed by thermal evaporation of 10 nm of $\\mathbf { M o O } _ { 3 }$ and $1 0 0 \\ \\mathrm { n m }$ of Al as the anode under vacuum at a pressure less than $2 \\times 1 0 ^ { - 6 }$ Torr.The effective device area was 0.06 $\\mathsf { \\bar { c } m } ^ { 2 }$ .The electron-only devices were made with the structure of ITO/ $\\mathrm { Z n S \\ ( / Z n S  – P ) / P T B 7 : P C _ { 7 1 } B M / L i F ( 1 \\ n m ) / A l } .$ （20 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Device Characterization. $J { - } V$ characteristics of PSCs were performed in glovebox using a Keithley 2440 sourcemeter under a simulated AM1.SG spectrum with an Oriel Sol3A solar simulator. The external quantum efficiency (EQE）measurements were performed using a Newport quantum efficiency measurement system (ORIEL ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IQE 20oTM) with a lock-in amplifier and 150 W xenon lamp without encapsulation in air. The light intensity at each wavelength was calibrated with a standard single-crystal Si/Ge photovoltaic cell. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "X-ray photoelectron spectroscopy (XPS）and Ultraviolet photoelectron spectroscopy (UPS） measurements were carried out using a Kratos AXIS ULTRA DALD XPS/UPS system. For XPS, survey scans to identify overall surface composition were recorded usinga monochromatic Al $\\mathrm { K } \\alpha$ X-ray source $\\langle 1 4 8 6 . 6 \\ \\mathrm { ~ e V } \\rangle$ .High-resolution scans to identify bonding states were performed at $2 0 ~ \\mathrm { e V }$ pass energy and $5 0 \\mathrm { m e V }$ channel width.All the spectra were adjusted according to the standard value of C 1s peak at $2 8 4 . 8 \\ \\mathrm { e V }$ UPS was performed using He I radiation at $2 1 . 2 1 \\ \\mathrm { e V }$ from a discharge lamp operated at $2 0 ~ \\mathrm { m A }$ a pass energy of ${ \\mathfrak { s } } \\ { \\mathrm { e V } } _ { : }$ ，and a channel width of $2 5 { \\mathrm { ~ m e V } } .$ A $- 7 . 3 5 \\mathrm { ~ V ~ }$ bias was applied to the samples to separate the sample and analyzer lowkinetic-energy cutoffs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV-vis spectra of quartz/active layer or quartz $' Z _ { Ḋ } \\mathrm { n } S Ḍ Ḍ$ (or $Z \\mathrm { n } S .$ Bphen)/active layer were tested on a UV-330o spectrophotometer (MAPADA Co.Ltd. Shanghai China).Droplet images were recorded ona contact-angle system (model OCA2O)and the film thickness was measured under Veeco Dektak 15o.The surface morphology of the interlayers were investigated usinga field-emission scanning electron microscope (FE-SEM）(Hitachi S-480o）and an atomic force microscope (AFM） with tapping mode using a Veeco dimension V atomic microscope at room temperature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,the phenanthroline derivatives including BCP, Bphen，Mphen，and Phen were utilized as organic ligands to coordinate $\\mathrm { Z n S } ( S _ { 2 } \\mathrm { C O E t } )$ to prepared zinc chelate compound precursors.With the annealing process，hybrid cathode interlayers，such as $Z \\mathrm { n } S$ -BCP，ZnS-Bphen，ZnS-Mphen，and $Z \\mathrm { n } S$ -Phen were formed by decomposing the precursors of $\\mathrm { Z n S } ( \\mathrm { S } _ { 2 } \\mathrm { C O E t } ) ($ P）on the ITO substrates. The as-prepared hybrid cathode films were about $2 5 \\ \\mathrm { \\ n m }$ measured with a profiler. Figure la depicts the molecular structures of BCP, Bphen，Mphen and Phen. The chemical structures of photoactive materials (PTB7 and $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } ,$ ）and the configuration of the inverted PSCs are also presented in Figure lb and 1c, respectively. The $1 0 \\mathrm { n m } \\mathrm { M o O } _ { 3 }$ deposited on top of the photoactive layer is used to facilitate the hole collection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Device characterizations of the PSCs incorporating $z _ { \\mathrm { n S } }$ and hybrid $\\mathsf { Z n S - P }$ as cathode interlayers are presented in terms of current density versus voltage $\\left( J - V \\right)$ under $1 0 0 \\mathrm { \\ m W / c m ^ { 2 } }$ air mass 1.5 global (AM1.5G) in Figure 2.With hybrid interlayers, greatly enhanced performances are obtained for all the devices compared to the reference device with $Z \\mathrm { n } S$ interlayer because of the huge enhancement in open-circuit voltage $( \\dot { V } _ { \\mathrm { o c } } )$ and fill factor (FF),and slight increase in short-circuit current density $( J _ { s c } )$ .The device using $Z \\mathrm { n } S$ as the cathode interfacial layer shows $V _ { \\mathrm { o c } }$ of $0 . 3 7 1 \\mathrm { V } , J _ { \\mathrm { s c } }$ of $1 6 . 0 7 ~ \\mathrm { m A } / \\mathrm { c m } ^ { 2 } .$ and FF of $5 0 . 0 9 \\%$ corresponding to PCE of $2 . 9 9 \\%$ . While the $\\scriptstyle \\mathrm { Z n S - P }$ interlayers promote the $V _ { \\mathrm { o c } }$ to ${ \\sim } 0 . 7 \\mathrm { V } , J _ { \\mathrm { s c } }$ to $\\sim 1 6 { - } 1 7 ~ \\mathrm { m A / c m } ^ { 2 }$ ,and FF to ${ > } 6 5 \\%$ ,resulting in PCEs over $7 . 5 0 \\%$ .And the best PCE $8 . 0 0 \\%$ is achieved with $Z \\mathrm { n } S$ -Bphen hybrid interfacial layer as which provides the highest $J _ { \\mathrm { s c } }$ and FF simultaneously keeping a high $V _ { \\mathrm { o c } }$ ，The corresponding device parameters including average values are summarized in Table 1.Furthermore,the statistical data are presented in the form of a standard box plot to analyzing the statistical distributions of device parameters (see Figure S1). Compared with other hybrid $\\scriptstyle \\mathrm { Z n S - P }$ devices, large differences in parameters (FF and $J _ { { \\mathrm { s c } } } )$ of $Z \\mathrm { n } S$ -Mphen devices were recorded,which should be originated from the singular data point of device due to improper fabrication or test (such as poor probe contact).To understand the enhancement， the series resistance $\\left( R _ { s } \\right)$ and shunt resistance $( R _ { \\mathrm { s h } } )$ of the PSCs with different cathode interlayers are also summarized in Table 1.Much lowered $R _ { s }$ are observed for devices with hybrid interlayers,indicating better ohmic contact formation between the active layer and the cathode compared to the reference device.And meanwhile，almost 4 times higher $R _ { \\mathrm { s h } }$ are determined for hybrid interlayer based devices，suggesting lower trap density and depressed recombination rate at the interface.3 36-38Both can promote the charge collection efficiency，and which is consistent with the measured device parameters. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/29b30232fa261e2a83077ce012f3d2130e7091f3a82b9b4a899852f8f309b023.jpg",
+        "img_caption": [
+            "Figure 2. Current-voltage $\\left( J - V \\right)$ characteristics of the PSCs based on different cathode interlayers( $\\mathrm { \\ Z n S  – P }$ and $Z \\mathrm { n } S \\dot { }$ ）under AM 1.5G irradiation $( 1 0 0 ~ \\mathrm { \\ m W / c m } ^ { 2 } )$ .The device structure is $\\mathrm { I T O / Z n S  – P }$ $\\mathrm { ( / Z n S ) / P T B 7 : P C _ { 7 1 } B M / M o O _ { 3 } / A l }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To further understand the underlying mechanisms for the improvement of the devices,dark $J { - } V$ curves were measured. In dark condition,as shown in Figure 3, the devices with hybrid interlayers exhibita turn-on voltage of about $0 . 8 \\mathrm { - } 0 . 9 \\mathrm { V }$ while it was only $0 . 5 \\substack { - 0 . 6 \\mathrm { ~ V ~ } }$ for the control device, implying that the built-in potential across the device,which is the upper limit of the attainable $V _ { \\mathrm { o c } }$ in $\\mathrm { P S C s } , ^ { 3 9 }$ considerably increased upon utilization of the hybrid cathode interlayers.In addition，the leakage current of the devices with a hybrid interlayer is significantly restrained.Simultaneously, the diode rectification ratio characterized at $\\pm 1 . 5 \\mathrm { ~ V ~ }$ was $_ { 1 - 2 }$ orders higher than that of the control device,which indicates that the recombination wasgreatly suppressed. Furthermore，hole-blocking and electron-collecting become more efficient when the hybrid $\\mathsf { Z n S - P }$ cathode buffer layers are used.Thus,higher performance devices can be expected when hybrid cathode bufferlayers are utilized. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e1874ff72b53814848e256601dff10fc3ead525cab74bd15c9f5395d37fa6de.jpg",
+        "img_caption": [
+            "Figure 3. $J { - } V$ characteristics of the PSCs devices based on different cathode interlayers ( $\\mathrm { \\ Z n S { - } P }$ and $Z \\mathrm { n } S \\dot { }$ ）under dark conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the energy level diagrams of constituents used in the fabricated inverted PSCs.To achieve higher efficiency of our PSCs,well-matched energy levels between the work functions of $Z \\mathrm { n } S$ -with/without organic ligands and the lowest unoccupied molecular orbital (LUMO） of $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ are @The average PCEs were based on 14 individual devices. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c34962f6edb7ce5a8a74e9d6e85ea4d22e239b4b8dc11c5e0f55090d815a484a.jpg",
+        "img_caption": [
+            "Figure 4.Energy level diagrams of materials used in the inverted device configuration. Work function of $Z \\mathrm { n } S _ { \\mathrm { . } }$ ， $\\scriptstyle \\mathrm { Z n S - P }$ ，andbare ITO were measured by UPS,and the rest were obtained from relevant literatures. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/500f37a741c66fe2296f04acc1a3ccbcc97c8101928156454efeed5c65711f97.jpg",
+        "table_caption": [
+            "Table 1.Photovoltaic Performance of PSCs Based on Different Cathode Interlayers ( $\\mathbf { \\scriptstyle Z n S - P }$ and ${ \\bf Z n S }$ ）underAM1.5G Irradiation $( \\mathbf { 1 0 0 \\ m W } / \\mathbf { c m ^ { 2 } } )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>interlayer</td><td>Voc (V)</td><td> Jsc (mA/cm²)</td><td>FF (%)</td><td>PCE (%)</td><td>Rs (Ω·cm²)</td><td>Rsh (KΩ·cm²)</td></tr><tr><td>ZnS-BCP</td><td>0.702</td><td>17.03</td><td>65.16</td><td>7.79 (7.55 ± 0.16)a</td><td>4.94</td><td>0.77</td></tr><tr><td>ZnS-Bphen</td><td>0.711</td><td>17.08</td><td>65.88</td><td>8.00 (7.62 ± 0.20)a</td><td>5.12</td><td>0.94</td></tr><tr><td>ZnS-Mphen</td><td>0.695</td><td>16.33</td><td>65.81</td><td>7.47 (7.24 ± 0.22)a</td><td>5.09</td><td>1.23</td></tr><tr><td>ZnS-Phen</td><td>0.723</td><td>16.05</td><td>65.15</td><td>7.56 (7.37 ± 0.16)a</td><td>5.01</td><td>0.76</td></tr><tr><td>ZnS</td><td>0.371</td><td>16.07</td><td>50.09</td><td>2.99 (2.94 ± 0.03)a</td><td>7.08</td><td>0.25</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "required. The work functions of bare ITO and hybrid $\\mathsf { Z n S - P }$ interlayers were measured by UPS (Figure S2). The energy levels of the rest materials in Figure 4 were obtained from relevant literatures.40-42 In our study，there wasalmost no photovoltaic behavior detected for devices using the bare ITO as the cathode directly.As shown in the diagram,reduced work function of the cathode is achieved by inserting each of the hybrid interlayers due to the high LUMO of organic molecules, which decreases the energy gap between the Femi-level of the electrode and the LUMO of the $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } _ { , }$ ，thus benefit the electron transport from $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ to the cathode,as evidenced by results of the $J { - } V$ measurements.Considering the small difference between the LUMO levels of $\\mathsf { Z n S - P }$ and $Z \\mathrm { n } S$ interlayer,and the hugely improved $V _ { \\mathrm { o c } }$ of the $\\mathsf { Z n S - P }$ devices compared to the $Z \\mathrm { n } S$ device,we consider the enhancement in $V _ { \\mathrm { o c } }$ is not mainly caused by the reduced work function of the cathode but mainly by the depressed charge recombination in devices contributed from the largely improved shunt resistance, film morphology，and contact properties between layers, introduced by the $\\scriptstyle \\mathrm { Z n S - P }$ interlayers. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To better understand the enhancement of device performance upon the incorporation of the hybrid $\\mathsf { Z n S - P }$ interlayers, the apparent charge carrier transport properties were evaluated by using electron-only devices (Figure S3） according to the space charge limited current (SCLC) model (Figure S4).39,43,44 The electron-only device structure was $\\mathrm { I T O / Z n S }$ $( / \\mathrm { Z n S  – P } ) /$ $\\mathrm { P T B 7 : P C _ { 7 1 } B M / L i F / A l } .$ .The apparent electron mobilities were determined to be $1 . 2 9 \\times 1 0 ^ { - 3 }$ ， $\\phantom { + } 1 . 5 4 \\times 1 0 ^ { - 3 }$ ， $1 . 5 7 \\times 1 0 ^ { - 5 } .$ and $3 . 6 9 ~ \\times ~ 1 0 ^ { - 6 } ~ \\mathrm { c m ^ { 2 } { \\cdot } V ^ { - 1 } { \\cdot } s ^ { - 1 } }$ for ZnS-BCP, ${ \\mathrm { Z n S } }$ -Bphen， $Z \\mathrm { n } S .$ Mphen,and $Z \\mathrm { n } S$ -Phen based devices,and $1 . 1 8 \\times 1 0 ^ { - 6 } \\mathrm { c m } ^ { 2 } { \\cdot } \\mathrm { V } ^ { - 1 } .$ $\\mathbf { s } ^ { - 1 }$ for the reference $Z \\mathrm { n } S$ -based devices.Obviously,devices with $\\scriptstyle \\mathrm { Z n S - B C P }$ and $Z \\mathrm { n } S$ -Bphen showed higher apparent electron mobility than that of the reference device.Three orders of magnitude of the apparent electron mobility were recorded since they possess more rigid and planar phenyl groups (Figure 1),which could have improved the intermolecular packing and provided more extended $\\pi$ -electrons,thus contributing to the electron mobility.4546Theseimprovedcharge transport properties are also consistent with their improved $J _ { \\mathrm { s c } }$ (Table 1).While the other hybrid materials showed comparative apparent mobility properties compared to the reference $Z \\mathrm { n } S$ because of the different molecular structure.And this is reflected by their recorded similar $J _ { \\mathrm { s c } }$ values compared to that of the reference device.Although similar $J _ { \\mathrm { s c } }$ were recorded in the $Z \\mathrm { n } S$ -Phenand $z \\mathrm { n } S$ devices,much higher PCE was obtained for the device with $Z \\mathrm { n } S .$ -Phen compared with the $Z \\mathrm { n } S$ device. We consider this to be the result of improvements in other parameters of the devices like smaller $R _ { s } ,$ larger $R _ { \\mathrm { s h } } ,$ better matched energy levels, improved contacting property between layers and so on by the hybrid interlayers. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UV-vis spectra were measured to identify the absorption of components in devices with or without interlayer ( $\\mathrm { Z n } S$ or $Z \\mathrm { n } S .$ Bphen).Since the enhancement of absorption devoted by the interlayers was not obvious,as presented in Figure S5.Thus, the improvement of the photocurrent density should be mainly ascribed to the improved carrier transport and collection.The EQE curves of the devices with different interlayer are presented in Figure S6.The integrating photocurrent densities are consistent with the corresponding $J _ { s c }$ ，EQEs of hybrid interlayer based devices show higher value than the $Z \\mathrm { n } S$ -based device in the wavelength range $4 0 0 { \\mathrm { - } } 7 0 0 ~ \\mathrm { n m }$ .According to the steady absorption spectra (Figure S5)，we consider this enhancement is due to the improved interface properties at the cathode by the hybrid interlayers. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Moreover, the influence on the surface characteristics of the cathode interlayers by the different hybrid materials were also investigated through SEM and AFM measurements.Figure 5 displays the SEM images of the $Z \\mathrm { n } S$ and $\\mathsf { Z n S - P }$ interlayer surface. The $Z \\mathrm { n } S$ film (Figure Sb） shows very similar surface characteristic like the bare ITO (Figure Sa) due to its good spreadability on ITO substrate.However，distinct surface morphologies are observed when ${ \\mathrm { Z n S } }$ is modified by phenanthroline and its derivatives (Figure $5 { \\mathrm { c - f } } )$ ，where well distributed aggregates are observed. Similar results are also observed in the topography AFM images (Figure S7),in which domains with height of $2 0 { - } 3 0 ~ \\mathrm { n m }$ are recorded (Figure $\\mathrm { { \\Delta } S 7 b - }$ f).We consider these different aggregations could have been resulted from the different molecular polarity and planarity of the organic molecules.As shown in Figure la, two separated methyl groups are contained in the Mphen molecule, two rigid phenyl groups are included in the Bphen molecule,and both methyl and phenyl side groups exist in the BCP molecule. These different side groups can provide different polarity and planarity for the corresponding molecules which results in different steric hindrance,hence different aggregations.And we speculate that the more methyl and phenyl groups could have contributed to the larger aggregations for the $Z \\mathrm { n } S$ -BCP, $Z \\mathrm { n } S .$ Bphen，and $Z \\mathrm { n } S$ -Mphen films.Moreover，when the $Z \\mathrm { n } S$ was modified by phenanthroline and its derivatives，the $\\mathrm { P T B 7 { : } P C _ { 7 1 } B M }$ films on these hybrid interlayers exhibited slightly smoother surface with root-mean-square (RMS) roughness of 1.09,1.12,1.19,and $1 . 2 0 ~ \\mathrm { n m } ,$ ,respectively (Figure S8). Especially for $\\scriptstyle \\mathrm { Z n S - B C P }$ and $Z \\mathrm { n } S$ -Bphen,relatively smaller domain and smoother flm surface were observed,which is consistent with the obtained device performances. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdfc37bccfa8ddeda1d8bc91242d0aa33805611c98c37efd00a0eff33c777a8b.jpg",
+        "img_caption": [
+            "Figure 5.SEM images of bare ITO and different cathode interlayer L $\\mathrm { Z n } S$ and $\\mathrm { Z n S ^ { \\cdot } P } \\mathrm { \\ : . }$ ):(a)bare ITO,(b) ZnS,(c) $\\mathsf { Z n S - B C P } .$ (d)ZnSBphen,(e) ZnS-Mphen,and(f) ZnS-Phen. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore，the enhanced hydrophobicity of the hybrid interlayer surface was confirmed by the increased water contact angles compared to the corresponding value of the $z _ { \\mathrm { n S } }$ film (Figure 6). The water contact angle was increased from $4 7 ^ { \\circ }$ of the pristine $Z \\mathrm { n } S$ film to $7 4 ^ { \\circ }$ $7 0 ^ { \\circ }$ = $6 1 ^ { \\circ }$ ，and $6 6 ^ { \\circ }$ of the $\\scriptstyle \\mathrm { Z n S - B C P }$ ZnS-Bphen, ZnS-MPhen,and ${ \\mathrm { Z n S } }$ -Phen hybrid films,respectively.In the hybrid films，nitrogen atoms with higher electronegativity chelating the $Z \\mathrm { n } S$ toughly while the aromatic ring with lower electronegativity existed oriented upward made the films hydrophobic and compatible with nonpolar chlorobenzene solvent.Especially，in the film of $\\scriptstyle \\mathrm { Z n S - B C P }$ and ${ \\mathrm { } Z } { \\mathrm { n } S }$ -Bphen (Figure 6c,d),the existence of diphenyl groups made them more hydrophobic than the rest $Z \\mathrm { n } S$ -Mphen and ZnS-Phen (Figure 6e,f). Obviously，modification by organic ligands increased the intimate contact between the interlayer and the active layer,leading to the improvement of the device performance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aaaff77f67e2d0e6a8ddb69d3bc4af5b54d9a8f5390d72ad73da0f3aa2e03d17.jpg",
+        "img_caption": [
+            "Figure 6.Contact angle measurements of water drop on (a) bare ITO $( 1 { \\bar { 5 } } ^ { \\circ } ) _ { \\cdot }$ (b) $Z \\mathrm { n } S$ （20 $\\left( 4 7 ^ { \\circ } \\right)$ (c） $Z \\mathrm { n } S .$ -BCP $( 7 4 ^ { \\circ } )$ ，(d) $Z \\mathrm { n } S$ -Bphen $( 7 0 ^ { \\circ } ) _ { \\cdot }$ (e) ${ \\mathrm { Z n S } }$ -Mphen $( 6 1 ^ { \\circ } )$ ，and (f) $Z \\mathrm { n } S$ -Phen $( 6 6 ^ { \\circ } )$ ！ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The well-distributed domains as mentioned in Figure Sc-f should be the aggregates of the chelate compounds $( \\bar { Z } \\mathrm { n S - B C P } ,$ （20 $Z \\mathrm { n } S$ -Bphen，ZnS-Mphen，and ZnS-Phen).For detailed chemical state of the elements on film surface after modification,as an example,the $Z \\mathrm { n } S$ -Bphen film surface was characterized by XPS.As shown in Figure $S 9 \\mathrm { a }$ ,the difference of the XPS survey spectra between $Z \\mathrm { n } S$ decomposed from $\\mathrm { Z n } { \\left( \\mathrm { S } _ { 2 } \\mathrm { C O E t } \\right) } _ { 2 }$ (pyridine）and $Z \\mathrm { n } S$ -Bphen mainly lies in the peak of N.Figure S9b exhibits the $\\mathtt { Z n \\ 2 p }$ peaks for chelate compound $Z _ { \\mathrm { { n } } \\bar { { S } } }$ -Bphen where $Z \\mathrm { n }$ binding energy was matched through peak deconvolution with the independent $Z \\mathrm { n } { - } S$ (Zn $2 \\mathrm { p } 3 / 2 ~ 1 0 2 1 . 6 ~ \\mathrm { e V } )$ and $Z \\mathrm { n - N }$ （ $\\left( \\mathrm { Z n ~ } 2 \\mathrm { p } 3 / 2 ~ 1 0 2 2 . 6 ~ \\mathrm { e V } \\right)$ chemical bonds.43 The $\\scriptstyle \\mathrm { N - Z n }$ peak (N 1s $3 9 8 . 5 { \\ \\mathrm { e V } } , { \\ l }$ and $_ { \\mathrm { N - C } }$ peak (N 1s $3 9 9 . 4 ~ \\mathrm { e V }$ ）inhybrid compound $Z \\mathrm { n } S$ -Bphen were shown in Figure $s 9 c$ .The shifts of $Z \\mathrm { n }$ peak to higher BE and N peak to lower BE confirms the existence of coordination bonds between $Z \\mathrm { n } S$ and Bphen，which is in agreement with the SEM images and contact angle results. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As demonstrated above,besides the different film morphologies，electron mobilities,diverse work function and surface affinity were recorded and different morphologies of the active layers were observed as well.We believe that all these aspects and together with other factors like the conducting properties of the $\\mathsf { Z n S - P }$ layer，must have contributed to the device performance.And their balanced effects have determined the final outcome. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,various $\\mathsf { Z n S - P }$ hybrid interlayers were prepared using an in situ growth method for the inverted PSCs.We studied the performance of the inverted PSCs incorporating $Z _ { \\mathrm { { n S } } }$ and hybrid $\\scriptstyle \\mathrm { Z n S - P }$ interlayers (ZnS-BCP, ZnS-Bphen, $Z \\mathrm { n } S .$ Mphen, $\\mathrm { Z n S - P h e n } ,$ ）ascathode interlayers.The hybrid $\\scriptstyle \\mathrm { Z n S - P }$ interlayers can effectively decrease the energy barrier,boost the electron mobility,and improve the morphology and interfacial contact properties.For the optimized inverted devices based on PTB7 $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ incorporating the hybrid $\\scriptstyle \\mathrm { Z n S - P }$ films, the PCE was significantly improved to $7 . 7 9 \\%$ $8 . 0 0 \\%$ P $7 . 4 7 \\%$ ，and $7 . 5 6 \\%$ respectively,compared to the PCE $2 . 9 9 \\%$ of the pristine $Z \\mathrm { n } S .$ （20 based device.These results demonstrate that the environmentally benign inorganic semiconductors like $Z \\mathrm { n } S$ can be modified by organic semiconductors to produce a general applicable hybrid interfacial material for PSCs. Our work suggests a promising potential for these hybrid semiconductors as interfacial materials in optoelectronic devices. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATED CONTENT ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\otimes$ Supporting Information ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Supporting Information is available free of charge on the ACS Publications website at DOI: 10.1021/acsami.5b10798. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Details of the statistical data of device performance,UPS spectra,characteristic curves of electron-only devices and corresponding SCLC fitting results,UV-vis absorption spectra,EQE spectra,AFM images of interlayers surface and the photoactive layer,and XPS spectra (PDF) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors $^ { * } \\mathrm { E }$ mail: hqwang@nimte.ac.cn. $^ { * } \\mathrm { E }$ mail: fangjf@nimte.ac.cn. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yulei Wu and XiaohuiLiu contributed equally to this work. Notes The authors declare no competing financial interest. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by National Natural Science Foundation of China (No. 61474125, 51502313)， Zhejiang Provincial Natural Science Foundation of China (LR14E030002，LY16E02006)，and Ningbo Science and Technology Bureau (20l4B82010). The work was also supported by National Young Top-Notch Talent Program of China and Hundred Talent Program of Chinese Academy of Sciences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）Chen, J.；Cao，Y.Development of Novel Conjugated Donor Polymers for High-Efficiency Bulk-Heterojunction Photovoltaic Devices.Acc. Chem.Res.2009,42,1709-1718.   \n(2) Gines,S.; Neugebauer,H.; Sariciftci,N. S.Conjugated PolymerBased Organic Solar Cells.Chem.Rev.2007,107,1324-1338.   \n(3）Yu,G.；Gao, J.；Hummelen,J.；Wudl,F.； Heeger,A.Polymer Photovoltaic Cells:Enhanced Efficiencies via a Network of Internal Donor-Acceptor Heterojunctions. Science 1995,270,1789-1790. (4) Zhang,W.； Wu,Y.； Bao, $\\mathrm { Q . ; }$ Gao,F.；Fang, J.Morphological Control for Highly Efficient Inverted Polymer Solar Cells Via the Backbone Design of Cathode Interlayer Materials.Adv.Energy Mater. 2014,4, 1400359.   \n(5) You, J.; Dou,L.; Yoshimura, ${ \\mathrm { K } } . { \\mathrm { } }$ Kato, T.; Ohya, ${ \\mathrm { K } } . { \\mathrm { } }$ Moriarty, T.; Emery,K;Chen,C.-C.; Gao,J.; Li, G.; et al.APolymer TandemSolar Cell with $1 0 . 6 \\%$ Power Conversion Efficiency.Nat. Commun.2013,4, 1446.   \n(6)Liao,S.H.; Jhuo,H.J.；Cheng,Y. S.；Chen,S.A.Fullerene Derivative-Doped Zinc Oxide Nanofilm as the Cathode of Inverted Polymer Solar Cellswith Low-Bandgap Polymer (PTB7-Th) for High Performance.Adv.Mater.2013,25,4766-4771.   \n(7)He,Z.; Zhong,C.； Su, S.； Xu, M.;Wu,H.;Cao,Y.Enhanced Power-Conversion Efficiency in Polymer Solar Cells Using an Inverted Device Structure.Nat.Photonics 2012,6, 591-595.   \n(8) Li,G.; Zhu,R; Yang, Y.Polymer Solar Cels.Nat. Photonics 2012, 6,153-161.   \n(9) Chen,L.-M.; Xu, Z.; Hong, Z.; Yang, Y.Interface Investigation and Engineering-Achieving High Performance Polymer Photovoltaic Devices.J.Mater.Chem.2010,20,2575-2598.   \n(10)Hau, S.K.; Yip,H.-L.; Acton, O.; Baek, N.S.; Ma,H.; Jen,A.KY.Interfacial Modification to Improve Inverted Polymer Solar Cells.J. Mater.Chem.2008,18,5113-5119. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(11) Jorgensen,M.; Norrman,K.; Krebs,F.C. Stability/Degradation of Polymer Solar Cells.Sol. Energy Mater.Sol. Cell 2008,92,686-714. (12) Tao,C.; Ruan, S.; Xie, G.; Kong,X; Shen,L.; Meng,F.; Liu,C.; Zhang,X.; Dong, W.; Chen,W.Role of Tungsten Oxide in Inverted Polymer Solar Cells.Appl.Phys.Lett.2009,94,043311. (13）Irwin,M.D.； Buchholz, D.B.； Hains,A.W.；Chang,R. P.; Marks，T.J. p-Type Semiconducting Nickel Oxide as an EfficiencyEnhancing Anode Interfacial Layer in Polymer Bulk-Heterojunction Solar Cels.Proc.Natl.Acad. Sci. U. S.A. 2008,105,2783-2787. (14) Sun,Y.;Takacs,C.J;Cowan,S.R;Seo,J.H; Gong, XRoy A.；Heeger，A.J.Efficient,Air-Stable Bulk Heterojunction Polymer Solar Cells Using MoOx as the Anode Interfacial Layer.Adv.Mater. 2011,23,2226-2230. (15） Shrotriya,V.;Li, G.; Yao,Y.; Chu, C.-W.; Yang, Y. Transition Metal Oxides as the Bufer Layer for Polymer Photovoltaic Cels. Appl. Phys. Lett.2006,88,073508. (16) Kim,J.Y.; Kim, S.H.; Lee,H. H.; Lee,K; Ma,W.; Gong, X; Heeger，A.J. New Architecture for High-Efficiency Polymer Photovoltaic Cells Using Solution-BasedTitanium Oxideasan Optical Spacer. Adv. Mater. 2006,18, 572-576. (17)White,M.; Olson,D.; Shaheen, S.; Kopidakis,N.; Ginley,D. S. Inverted Bulk-Heterojunction Organic Photovoltaic Device Using a Solution-Derived ZnO Underlayer.Appl.hys.Lett2006,89,143517. (18)Jo, S.B.; Lee,J.H.; Sim,M.; Kim,M.; Park, J.H.; Choi, Y.S.; Kim,Y.; Ihn, S.G.; Cho,K.High Performance Organic Photovoltaic Cells Using Polymer-Hybridized ZnO Nanocrystals as a Cathode Interlayer.Adv.Energy Mater.2011,1,690-698. (19)Hu,T.； Li, F.； Yuan,K.； Chen,Y.Efficiency and Air-Stability Improvement of Flexible Inverted Polymer Solar Cells Using $\\scriptstyle { \\mathrm { Z n O } } /$ Poly (Ethylene Glycol) Hybrids as Cathode Bufer Layers.ACS Appl. Mater. Interfaces 2013,5,5763-5770. (20)Yang,T.；Wang,M.； Duan, C.； Hu,X;； Huang,L； Peng,J; Huang, F.; Gong, X. Inverted Polymer Solar Cels with $8 . 4 \\%$ Efficiency by Conjugated Polyelectrolyte. Energy Environ. Sci. 2012, 5, $8 2 0 8 -$ 8214. (21) Chang, Y.-M.; Leu, C.-Y. Conjugated Polyelectrolyte and Zinc Oxide Stacked Structure as an Interlayer in Highly Efficient and Stable Organic Photovoltaic Cells.J.Mater.Chem.A 2013,1,6446-6451. (22）Zuo,L.； Gu, Z.；Ye,T.；Fu,W.; Wu, G.;Li, H.; Chen,H. Enhanced Photovoltaic Performance of $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { P b I } _ { 3 }$ Perovskite Solar Cells through Interfacial Engineering Using Self-Assembling Monolayer.J.Am.Chem. Soc.2015,137,2674-2679. (23)Hu, $\\mathrm { Q . ; }$ Liu, Y.; Li, Y.; Ying,L.; Liu, T.; Huang, F.; Wang, S.; Huang,W.； Zhu，R；Gong, $\\mathsf { Q } .$ Efficient and Low-Temperature Processed Perovskite Solar Cells Based on a Cross-Linkable Hybrid Interlayer.J. Mater. Chem.A 2015,3,18483-18491. (24) Liu,S.; Zhang,K.; Lu,J; Zhang,J.; Yip,H.-L.;Huang,F.;Cao Y.High-Efficiency Polymer Solar Cells Via the Incorporation of an Amino-Functionalized Conjugated Metallopolymer as a Cathode Interlayer.J.Am. Chem.Soc.2013,135,15326-15329. (25) Wang,G.; Ju,T.; Tang, G.; Li,J.; Li,P.; Song,X.; Lu,F.; Fang, J.Interface Modification of Zno-Based Inverted $\\mathrm { P T B 7 } { : } \\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ Organic Solar Cells by Cesium Stearate and Simultaneous Enhancement of Device Parameters.ACS Sustainable Chem.Eng.2014，2, 1331-1337. (26)Wu, Y.； Zhang,W.; Li,X.; Min, C.; Jiu, T.； Zhu,Y.;DaiN.; Fang, J.Solution-Processed Hybrid Cathode Interlayer for Inverted Organic Solar Cels.ACS Appl.Mater. Interfaces 2013，5，10428- 10432. (27）Dona, J.； Herrero,J.Process and Film Characterization of Chemical-Bath-Deposited ZnS Thin Films.J. Electrochem.Soc.1994, 141, 205-210. (28) Fang, X-S.； Ye, C.-H.; Zhang, L.-D.; Wang,Y-H.; Wu, Y.-C. Temperature-Controlled Catalytic Growth of ZnS Nanostructures by the Evaporation of ZnS Nanopowders.Adv.Funct. Mater.2005，15, 63-68. (29) Fang, X.; Bando,Y.; Shen, G.; Ye,C.; Gautam, U.K.; Costa, P. M.； Zhi, C.； Tang, C.；Golberg,D. Ultrafine ZnS Nanobelts as Field Emitters.Adv.Mater.2007,19,2593-2596. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(30）Bredol,M.；Matras，K.；Szatkowski，A；Sanetra,J.；ProdiSchwab，A. P3HT/ZnS:a New Hybrid Bulk Heterojunction Photovoltaic System with Very High Open Circuit Voltage. Sol. Energy Mater.Sol.Cells 2009,93,662-666. (31)Maier,E.;FischerederA;asW;uthG.;berigJ; Rath,T.；Hofer,F.； List,E.J.； Trimmel,G.Metal Sulfide-Polymer Nanocomposite Thin Films Prepared by a Direct Formation Route for Photovoltaic Applications.Thin Solid Films 2011, S19,4201-4206. (32） Kuwabara，T.；Nakamoto，M.； Kawahara, Y.；Yamaguchi， T.; Takahashi，K.Characterization of ZnS-Layer-Inserted Bulk-Heterojunction Organic Solar Cels by AC Impedance Spectroscopy. J. Appl. Phys.2009,105,124513. (33)Traverse,C.J.; Young, M.;Wagner, S.; Zhang,P.； Askeland,P.; Barr，M.C.；Lunt,R.R. Efficient Zinc Sulfide Cathode Layers for Organic Photovoltaic Applications via n-Type Doping. J. Appl. Phys. 2014,115, 194505. (34）Ikeda，T.；Hagihara，H. The Crystal Structure of Zinc Ethylxanthate. Acta Crystallogr.1966,21, 919-927. (35) Hunt, M.; Kruger,A.；Smith, L.; Winter, G.CO,CS,and MS Vibration Frequencies of Metal Xanthates.Aust. J. Chem.1971，24, 53-57. (36)Elumalai, N.K.； Jin，T.M.；Chellppan，V.； Jose，R; Palaniswamy，_S.K.； Jayaraman， S.；Raut,H. K.； Ramakrishna，S. Electrospun ZnO Nanowire Plantations in the Electron Transport Layer for High-Effciency Inverted Organic Solar Cels.ACS Appl. Mater.Interfaces 2013,5,9396-9404. (37）Fabregat-Santiago，F.；Bisquert，J.；Garcia-Belmonte，G.; Boschloo,G.；Hagfeldt,A. Influence of Electrolyte in Transport and Recombination in Dye-Sensitized Solar Cells Studied by Impedance Spectroscopy. Sol. Energy Mater. Sol. Cells 2005,87,117-131. (38）Fabregat-Santiago，F.；Bisquert,J.；Palomares，E.；Otero，L.; Kuang,D.； Zakeeruddin, S. M.; Gratzel，M. Correlation Between Photovoltaic Performance and Impedance Spectroscopy of DyeSensitized Solar Cels Based on Ionic Liquids.J. Phys. Chem.C 2007, 111, 6550-6560. (39) He, Z.; Zhong, C.; Huang, X.; Wong, W.Y.; Wu,H.; Chen, L.; Su, S.; Cao,Y.Simultaneous Enhancement of Open-CircuitVoltage, Short-Circuit Current Density,and Fill Factor in Polymer Solar Cells. Adv.Mater. 2011, 23,4636-4643. (40) Liang, Y.; Xu,Z.; Xia,J.; Tsai,S.T.; Wu,Y.; Li, G.; Ray, C.; Yu, L.For the Bright Future-Bulk Heterojunction Polymer Solar Cells with Power Conversion Efficiency of $7 . 4 \\%$ .Adv.Mater. 2010，22, E135-E138. (41) Tao,C.; Ruan,S.; Zhang,X.; Xie, G.; Shen,L.; Kong, X.; Dong, W.; Liu, C.; Chen,W.Performance Improvement of Inverted Polymer Solar Cells with Different Top Electrodes by Introducing a $\\mathbf { M o O } _ { 3 }$ Buffer Layer.Appl.Phys.Lett.2008,93,193307. (42)Li, X.; Zhang, W.; Wu, Y.; Min,C.; Fang, J. High Performance Polymer Solar Cels witha Polar Fullerene Derivative as the Cathode Buffer Layer.J.Mater.Chem.A 2013,1,12413-12416. (43)Lee, B.R; Jung, E.D.; Nam, Y. S.; Jung,M.; Park,J. S.; Lee, S.; Choi, H.; Ko,S.J.; Shin, N.R; Kim,Y. K;etal.Amine-Based Polar Solvent Treatment for Highly Efcient Inverted Polymer Solar Cells. Adv.Mater.2014,26,494-500. (44) Chu, T.-Y.; Song, O.-K. Hole Mobility of N, $\\mathbf { N } ^ { \\prime }$ -bis (naphthalen1-yl)-N, $\\mathbf { N } ^ { \\prime }$ -Bis (phenyl） Benzidine Investigated by Using SpaceCharge-Limited Currents.Appl.Phys.Lett.2007,90,203512. (45) Naka, S.；Okada,H.; Onnagawa, H.; Tsutsui, T.High Electron Mobility in Bathophenanthroline.Appl.Phys.Lett.2000,76,197-199. (46) Ichikawa, M.； Amagai,J; Horiba,Y.; Koyama, T.; Taniguchi,Y. Dynamic Turn-on Behavior of Organic Light-Emitting Devices with Different Work Function Cathode Metals under Fast Pulse Excitation. I. Appl. Phvs.2003,94,7796-7800. ",
+        "page_idx": 5
+    }
+]

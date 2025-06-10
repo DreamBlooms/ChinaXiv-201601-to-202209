@@ -1,0 +1,248 @@
+[
+    {
+        "type": "text",
+        "text": "Light dark matter in NMSSM and implication on Higgs phenomenology ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junjie Cao $^ { 1 }$ ， Ken-ichi Hikasa $^ { 2 }$ ， Wenyu Wang $^ 3$ ， Jin Min Yang $^ 4$   \n（204号 $^ { 1 }$ Department of Physics, Henan Normal university， Xinxiang 453007, China （20 $^ 2$ Departmentof Physics， Tohoku University， Sendai 980-8578, Japan （20 $^ 3$ Institute of Theoretical Physics， College of Applied Science, Beijing University of Technology， Beijing 100124， China   \n$^ 4$ Institute of Theoretical Physics, Academia Sinica, Beijing 100190, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For the experimental search of neutralino dark matter, it is important to know its allowed mass and scattering cross section with the nucleon. In order to figure out how light a neutralino dark matter can be predicted in low energy supersymmetry, we scan over the parameter space of the NMSSM (next-to-minimal supersymmetric model), assuming all the relevant soft mass parameters to be below TeV scale. We find that in the parameter space allwed by current experiments the neutralino dark matter can be as light as a few GeV and its scattering rate off the nucleon can reach the sensitivity of XENON100 and CoGeNT. As a result, a sizable parameter space is excluded by the current XENON100 and CoGeNT data (the plausible CoGeNT dark matter signal can also be explained). The future 6000 kg-days exposure of XENON100 will further explore (but cannot completely cover） the remained parameter space. Moreover，we find that in such a light dark matter scenario a light CP-even or CP-odd Higgs boson must be present to satisfy the measured dark matter relic density. Consequently, the SM-like Higgs boson $h _ { S M }$ may decay predominantly into a pair of light Higgs bosons or a pair of neutralinos so that the conventional decays like （204号 $h _ { S M }  \\gamma \\gamma$ is much suppressed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 12.60.Jv,11.30.Qc,12.60.Fr,14.80.Cp ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction: Experiments for the underground direct detection of cold dark matter $\\tilde { \\chi }$ （20 have recently made significant progress. While the null observation of $\\tilde { \\chi }$ in the CDMS and XENON100 experiments has set rather tight upper limits on the spin-independent (SI) cross section of $\\tilde { \\chi }$ -nucleon scattering [1, 2], the CoGeNT experiment [3] reported an excess which cannot be explained by any known background sources but seems to be consistent with the signal of a light $\\tilde { \\chi }$ with mass around 1O GeV and scattering rate around $1 0 ^ { - 4 0 }$ （2 $\\mathrm { c m ^ { 2 } }$ . Intriguingly, this range of mass and scattering rate is compatible with the dark matter explanation for both the DAMA/LIBRA data and the preliminary CRESST data [4]. So far, due to the inconsistency of the CoGeNT result with the CDMS or XENON result, it is premature to draw any definite conclusion about the existence or nonexistence of a light $\\ddot { \\chi }$ . However, considering much effort is being paid on the search of a light $\\tilde { \\chi }$ in experiments, it is theoretically important to check the possible new physics prediction for a light $\\tilde { \\chi }$ and examine its related phenomenology (such as the Higgs boson search) at the LHC. In this work we will focus on low energy supersymmetry, where the lightest neutralino $\\tilde { \\chi } _ { 1 } ^ { 0 }$ serves as the dark matter candidate,and perform an intensive study of the light $\\tilde { \\chi } _ { 1 } ^ { 0 }$ scenario. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The most popular model for low energy supersymmetry is the minimal supersymmetric standard model (MSSM). In this model, we find from our scan that the neutralino $\\tilde { \\chi } _ { 1 } ^ { 0 }$ must be heavier than about 28 GeV. The main reason for the absence of a lighter $\\tilde { \\chi } _ { 1 } ^ { 0 }$ isits dominant annihilation channel is $\\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 1 } ^ { 0 }  b b$ through $s$ -channel exchange of the pseudoscalar Higgs boson ( $A$ ) and the measured dark matter relic density requires $m _ { A } \\sim ( 9 0 – 1 0 0 )$ GeV and $\\tan \\beta \\sim 5 0$ ，which is in conflict with the constraints from the LEP and $B$ physics experiments [5-7]. Here we emphasize that for the above region the effects of the charged Higgs on $B  X _ { s } \\gamma$ are unacceptably large, and even with a fine tuning of the contributions from the stop/chargino diagrams, such large effects cannot be reduced to an acceptable level.Our results for the MSSM are in agreement with [7],but differ from [8] in which the considered constraints,such as the invisible $Z$ -decay and the productions of neutralinos or Higgs bosons at LEP II,are weaker than in our study. Our conclusion also differs from [9] because we used more accurate formula in calculating the process $B  X _ { s } \\gamma$ [10]. Since the neutralino dark matter in the MSSM cannot be so light as suggested by the CoGeNT data (albeit not corroborated by XENON100 or CDMS), here we do not present our MSSM results in detail. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Another popular model for low energy supersymmetry is the next-to-minimal supersymmetric standard model (NMSSM) [11] which extends the MSSM by adding one gauge singlet chiral superfeld $\\hat { S }$ . This model is well motivated because it provides a solution to the $\\mu$ problem and the little hierarchy problem the MSSM suffers from. For this model we perform an intensive scan over its parameter space by assuming allthe relevant soft mass parameters below TeV scale and considering various experimental constraints. We find that in this model the neutralino dark matter can be as light as a few GeV and its spin-independent scattering cross section with the nucleon can reach the sensitivity of CoGeNT and XENON100. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We emphasize that our study is not restricted to explain any special experimental results like the CoGeNT or DAMA/LIBRA data. Instead, we aim to investigate the characteristics of a light $\\tilde { \\chi } _ { 1 } ^ { 0 }$ ， such as its lower mass bound and scattering rate off the nucleon， and also examine the related Higgs phenomenology at the LHC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The NMSSM: We start our analysis by recapitulating some basics of the NMSSM. Its superpotential and the associated soft-breaking terms in the Higgs sector are given by [11] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\bf W } = \\lambda \\hat { S } \\hat { H } _ { u } \\hat { H } _ { d } + \\displaystyle \\frac { 1 } { 3 } \\kappa \\hat { S } ^ { 3 } , } } \\\\ { { \\displaystyle V _ { s o f t } = m _ { H _ { d } } ^ { 2 } | H _ { d } | ^ { 2 } + m _ { H _ { u } } ^ { 2 } | H _ { u } | ^ { 2 } + m _ { S } ^ { 2 } | S | ^ { 2 } } } \\\\ { { \\displaystyle ~ + \\left( \\lambda A _ { \\lambda } H _ { u } H _ { d } S + h . c . \\right) + \\left( \\frac { \\kappa } { 3 } A _ { \\kappa } S ^ { 3 } + h . c . \\right) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $H _ { d }$ ， $H _ { u }$ and $S$ denote scalar components of the superfeld $\\hat { H _ { d } }$ ， $\\hat { H } _ { u }$ and $\\hat { S }$ , respectively. After using the minimization condition of the Higgs potential, this sector is described by three dimensionless parameters $( \\tan \\beta , \\ \\lambda , \\ \\kappa )$ and three dimensionful parameters $( \\mu , \\ A _ { \\lambda }$ $A _ { \\kappa }$ ). Due to the imposed $Z _ { 3 }$ symmetry, the superpotential does not contain dimensionful parameters and thus all dimensionful parameters are generated by the soft-breaking masses which,as required by the electroweak symmetry breaking, should be naturally below TeV scale [11]. Other free parameters are the same as in the MSSM, i.e., the soft masses for sfermions and gauginos as well as the trilinear soft couplings. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Due to the presence of $\\hat { S }$ ， the NMSSM predicts five neutralinos, three CP-even Higgs bosons $( h _ { 1 , 2 , 3 } )$ and two CP-odd Higgs bosons ( $_ { a _ { 1 , 2 } }$ ）[11]. In general, the neutralino mass eigenstates are the mixture of the MSSM neutralino fields and the singlino field which is the fermion component of $\\hat { S }$ ; the CP-even (odd) Higgs mass eigenstates are similarly the mixture of the CP-even (odd) MSSM Higgs fields and the real (imaginary) part of the scalar component of $\\hat { S }$ . An important feature of the NMSSM is that one of the CP-even (odd) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Higgs bosons may be singlet-like and thus can be very light [11]. This feature is particularly useful for light $\\tilde { \\chi } _ { 1 } ^ { 0 }$ scenario since it opens up new important annihilation channels for $\\tilde { \\chi } _ { 1 } ^ { 0 }$ ， i.e.,either into a pair of $h _ { 1 }$ (or $a _ { 1 }$ ） or into a pair of fermions via $s$ -channel exchange of $h _ { 1 }$ (or $a _ { 1 }$ ）[7,12,13]. For the former case, $\\tilde { \\chi } _ { 1 } ^ { 0 }$ must be heavier than $h _ { 1 }$ ( $a _ { 1 }$ )；while for the latter case, due to the very weak couplings of $h _ { 1 }$ ( $a _ { 1 }$ ）with $\\tilde { \\chi } _ { 1 } ^ { 0 }$ and with the SM fermions,a resonance enhancement (i.e. $m _ { h _ { 1 } }$ or $m _ { a 1 }$ must be close to $2 m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } }$ ） is needed to accelerate the annihilation. So a light $\\tilde { \\chi } _ { 1 } ^ { 0 }$ should be necessarily accompanied by a light $h _ { 1 }$ or $a _ { 1 }$ to provide the required dark matter relic density. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Now we discuss how to get a light $h _ { 1 }$ or $a _ { 1 }$ in the NMSSM. A light $a _ { 1 }$ can be easily obtained when the theory approaches to the U $( 1 ) _ { R }$ or U(1)PQ symmetry limit, which can be realized by setting the product $\\kappa A _ { \\kappa }$ to be negatively small [11]. In contrast,a light $h _ { 1 }$ can not be obtained so easily,but, as shown below, it can still be achieved by somewhat subtle cancellation via tuning the value of $A _ { \\kappa }$ . We note that for any theory with multiple Higgs fields, the existence of a massless Higgs boson implies the vanishing of the determinant of its squared mass matrix and vice versa. For the NMSSM, at tree level the parameter $A _ { \\kappa }$ only enters the mass term of the singlet Higgs bosons and thus the determinant $\\mathrm { ( D e t } \\mathcal { M } ^ { 2 } )$ of the mass matrix for the CP-even Higgs bosons depends on $A _ { \\kappa }$ linearly [11]. When other relevant parameters are fixed, one can then obtain a light $h _ { 1 }$ by varying $A _ { \\kappa }$ around the value $\\tilde { A } _ { \\kappa }$ which is the solution to the equation $\\mathrm { D e t } \\mathcal { M } ^ { 2 } = 0$ . In practice, one must include the important radiative corrections to the Higgs mass matrix, which will complicate the dependence of $\\mathcal { M } ^ { 2 }$ （20 on $A _ { \\kappa }$ . However，we checked that the linear dependence is approximately maintained by choosing the other relevant parameters at the SUSY scale,and one can solve the equation iteratively to get the solution ${ \\tilde { A } } _ { \\kappa }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Numerical scan and results: In order to study light $\\tilde { \\chi } _ { 1 } ^ { 0 }$ scenario in the NMSSM, we scan randomly over the parameters in the neutralino and Higgs sectors by requiring $0 \\leq \\lambda , \\kappa \\leq$ 0.7, $1 \\le \\tan \\beta \\le 6 0$ ， $0 \\leq \\mu , A _ { \\lambda } , M _ { 2 } \\leq 1$ TeV and $0 \\leq M _ { 1 } \\leq 1 0 0$ GeV. Here the ranges of $\\lambda$ ， $\\kappa$ and $\\tan \\beta$ are determined by the perturbativity of the theory [11], the ranges of $\\mu$ and $A _ { \\lambda }$ are suggested by the electroweak symmetry breaking， and the narrow range of bino mass $M _ { 1 }$ is chosen to facilitate a light $\\tilde { \\chi } _ { 1 } ^ { 0 }$ . Since the gluino mass and the soft parameters in the squark sector affect little on the properties of $\\tilde { \\chi } _ { 1 } ^ { 0 }$ ，we set all of them to be 1 TeV. As for the soft slepton parameters, since they influence the muon anomalous magnetic moment $a _ { \\mu }$ （204 which in turn can limit the important parameter $\\tan \\beta$ , we assign them a common scale $m _ { \\tilde { l } }$ （204号 and vary it below TeV scale. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since a light $\\tilde { \\chi } _ { 1 } ^ { 0 }$ is very likely to be accompanied by a light $h _ { 1 }$ or $a _ { 1 }$ ， we perform two independent scans aiming at a light $h _ { 1 }$ and a light $a _ { 1 }$ respectively. For the light $h _ { 1 }$ case,we vary $A _ { \\kappa }$ around $\\tilde { A } _ { \\kappa }$ which is obtained by solving the equation $\\mathrm { D e t } \\mathcal { M } ^ { 2 } = 0$ ； while for the light $a _ { 1 }$ case, we simply vary $A _ { \\kappa }$ in the range [-200, 0] GeV. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In our scans, we require all dimensionful parameters in the Higgs potential like $m _ { H _ { u } }$ （20 and $m _ { H _ { d } }$ below TeV scale and keep the parameter points which yield $m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } \\leq 2 0$ GeV. The constraints considered in our scan are the following [14]: (1) We require $\\tilde { \\chi } _ { 1 } ^ { 0 }$ to account for the dark matter relic density $0 . 1 0 5 < \\Omega h ^ { 2 } < 0 . 1 1 9$ ; (2)We require the NMSSM contribution to explain thedeviationof the muon $a _ { \\mu }$ , i., $a _ { \\mu } ^ { \\mathrm { e x p } } - a _ { \\mu } ^ { \\mathrm { S M } } = ( 2 5 . 5 \\pm 8 . 0 ) \\times 1 0 ^ { - 1 0 }$ at $2 \\sigma$ level; (3) The LEP-I bound on the invisible $Z$ -decay, $\\Gamma ( Z  \\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 1 } ^ { 0 } ) < 1 . 7 6 \\mathrm { M e V }$ , and the LEP-II upper bound on $\\sigma ( e ^ { + } e ^ { - }  \\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { i } ^ { 0 } )$ ，which is $5 \\times 1 0 ^ { - 2 }$ pb for $i > 1$ , as well as the lower mass bounds on sparticles from direct searches at LEP and the Tevatron; (4) The constraints from the direct search for Higgs bosons at LEP-II, including the decay modes $h  h _ { 1 } h _ { 1 } , a _ { 1 } a _ { 1 }  4 f$ ， which limit al possible channels for the production of the Higgs bosons; (5) The constraints from $B$ physics observables such as $B  X _ { s } \\gamma$ ， $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ ， $B _ { d } \\to X _ { s } \\mu ^ { + } \\mu ^ { - }$ ， $B ^ { + }  \\tau ^ { + } \\nu$ ， $\\Upsilon  \\gamma a _ { 1 }$ ，the ${ a _ { 1 } - \\eta _ { b } }$ mixing and the mass difference $\\Delta M _ { d }$ and $\\Delta M _ { s }$ ; (6） The constraints from the precision electroweak observables such as $\\rho _ { \\mathrm { l e p t } }$ ， $\\sin ^ { 2 } \\theta _ { \\mathrm { e f f } } ^ { \\mathrm { l e p t } }$ ， $m _ { W }$ and $R _ { b }$ ； (7） The constraints from the decay $\\Upsilon ( 1 S ) \\to \\gamma h _ { 1 } \\to \\gamma ( \\pi ^ { + } \\pi ^ { - } , K ^ { + } K ^ { - } )$ ， $\\Upsilon ( n S )  \\gamma h _ { 1 }  \\gamma \\mu ^ { + } \\mu ^ { - }$ 0 $\\cdot n = 1 , 2 , 3$ ） and the Tevatron search for a light Higgs boson via $4 \\mu$ and $2 \\mu 2 \\tau$ signals [15]. The constraints (1-5） have been encoded in the package NMSSMTools [16]. We use this package in our calculation and extend it by adding the constraints (6,7). As pointed out in [15],the constraint (7) is important for a light Higgs boson. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Fig.1 we display the surviving parameter samples, which are simultaneously projected on the $\\sigma ^ { \\mathrm { S I } } { - } m _ { \\chi }$ plane in the left frame and the $\\sigma ^ { \\mathrm { S l } } \\mathrm { - } m _ { h _ { 1 } }$ or $\\sigma ^ { \\mathrm { S l } } \\ – m _ { a _ { 1 } }$ plane in the right frame. In our calculation we use the formulain[19]for thescattering rate andchoose $f _ { T _ { u } } ^ { ( p ) } = 0 . 0 2 3$ ， $f _ { T _ { d } } ^ { ( p ) } = 0 . 0 3 4$ ， $f _ { T _ { u } } ^ { ( n ) } = 0 . 0 1 9$ ， $f _ { T _ { d } } ^ { ( n ) } = 0 . 0 4 1$ and $f _ { T _ { s } } ^ { ( p ) } = f _ { T _ { s } } ^ { ( n ) } = 0 . 0 2 0$ as input. Note that, motivated by recent lattice simulation [20], we take a very small value of $f _ { T _ { s } }$ and consequently our estimation of the rate is rather conservative. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The left frame of Fig. 1 clearly shows that in the NMSSM the neutralino dark matter can be as light as several GeV, while the right frame of Fig. 1 shows that such a light neutralino ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d27d1844590e023f181a0dcbc01695a34a02b4cc547f2615ae2c10a30fa13a9a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FIG.1: The scatter plots of the parameter samples which survive all constraints. The samples denoted by ‘ $\\times$ ’ (red),which are simultaneously projected on the $\\sigma ^ { \\mathrm { S l } } \\ – m _ { \\chi }$ plane in the left frame and the $\\sigma ^ { \\mathrm { S l } } \\ – m _ { h _ { 1 } }$ plane in the right frame,are characterized by a light $h _ { 1 }$ ; while the samples denoted by $\\ ' \\triangle '$ (green),which are simultaneously projected on the $\\sigma ^ { \\mathrm { S I } } { - } m _ { \\chi }$ plane in the left frame and the （204号 $\\sigma ^ { \\mathrm { S l } } \\mathrm { - } m _ { a _ { 1 } }$ plane in the right frame,are characterized by a light $a _ { 1 }$ . The curves are the limits from CoGeNT [3], CDMS [1] and XENON100 [2], while the contour is the CoGeNT-favored region [3]. The future XENON100 (6000 kg-days exposure) sensitivity is also plotted [17]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "is accompanied by either a light $h _ { 1 }$ or a light $a _ { 1 }$ . So the surviving samples were classified into two sets, characterized respectively by a light $h _ { 1 }$ and a light $a _ { 1 }$ . In both the light- $h _ { 1 }$ case and the light- $a _ { 1 }$ case the surviving samples give a bino-dominant $\\tilde { \\chi } _ { 1 } ^ { 0 }$ and correspondingly a small $M _ { 1 }$ ( $\\lesssim$ 30 GeV). The allowed regions for other parameters are listed in Table I. We see that the value of $\\mu$ is not so large (below 300 GeV in light- $h _ { 1 }$ case and 350 GeV in light- $a _ { 1 }$ case) because a low $\\mu$ can enhance the coupling of $\\tilde { \\chi } _ { 1 }$ to $h _ { 1 }$ and $a _ { 1 }$ to get the correct relic density. Also we see a moderately loose bound on $m _ { a _ { 1 } }$ (we checked that among the surviving samples about 2% have $m _ { a _ { 1 } } \\geq 6 0$ GeV). This is due to a possibly large $\\tan \\beta$ , which can enhance the couplings of $a _ { 1 }$ to the SM fermions so that $m _ { a _ { 1 } }$ may deviate from $2 m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } }$ significantly. In the light- $h _ { 1 }$ case, about $7 5 \\%$ of the surviving samples are found to satisfy $m _ { h _ { 1 } } \\leq m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } }$ , in which the annihilation mode $\\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 1 } ^ { 0 }  h _ { 1 } h _ { 1 }$ plays a crucial role in getting the required dark matter ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: The allowed parameter ranges for the light- $h _ { 1 }$ case (first row) and light- $a _ { 1 }$ case (second row). The dimensionful parameters $\\mu$ ， $A _ { \\kappa }$ and $^ { \\prime } { } ^ { m } h _ { 1 } , a _ { 1 }$ are in unit of GeV. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/417fe2e3b6397b2d9c8a75a105768338f1f0ff09e0f1582b21172fb1e0c49680.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>入</td><td>K</td><td>tan β</td><td>μ</td><td>AK</td><td>mh1,a1</td></tr><tr><td>0.15-0.7</td><td>0-0.5</td><td></td><td></td><td></td><td>1-7130-300|-600-0|1≤mh1≤45</td></tr><tr><td>0.15-0.50.1-0.7</td><td></td><td>8-60</td><td></td><td></td><td>150-350-80-08≤ma1≤80</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "relic density. In contrast, in the light- $a _ { 1 }$ case most surviving samples are found to satisfy $m _ { a _ { 1 } } \\geq m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } }$ , in which the dominant annihilation channel of dark matter is $\\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 1 } ^ { 0 }  a _ { 1 } ^ { * }  f f$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From Fig. 1 we see that the scattering rate of the light dark matter can reach the sensitivity of XENON1oo and， consequently， a sizable parameter space is excluded by the XENON100 (2011) data [2]. The future XENON100 experiment (6000 kg-days exposure) [17] can further explore (but cannot completely cover) the remained parameter space. Note that in the light- $h _ { 1 }$ case the scattering rate can be large enough to reach the sensitivity of CoGeNT and can cover the CoGeNT-favored region. The underlying reason is that the $\\chi$ nucleon scattering can proceed through the $t$ -channel exchange of the CP-even Higgs bosons, which can be enhanced by a factor $1 / m _ { h _ { 1 } } ^ { 4 }$ for a light $h _ { 1 }$ [12]；while a light $a _ { 1 }$ can not give such an enhancement because the CP-odd Higgs bosons do not contribute to the scattering in this way. We noticed that the studies in [6,18] claimed that the NMSSM is unable to explain the CoGeNT data because they did not consider the light- $h _ { 1 }$ case. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note that the light- $h _ { 1 }$ samples are separated into three regions of $m _ { h _ { 1 } }$ ，as shown in the right frame of Fig.1. This is due to the combined constraints from the dark matter relic density and the processes $\\Upsilon ( 1 S )  \\gamma h _ { 1 }$ (with $h _ { 1 } \\to \\pi ^ { + } \\pi ^ { - } , K ^ { + } K ^ { - } , \\mu ^ { + } \\mu ^ { - } )$ ， $B _ { d } \\to X _ { s } \\mu ^ { + } \\mu ^ { - }$ and $p \\bar { p } \\to h _ { S M } \\to 4 \\mu ( \\mathrm { o r ~ } 2 \\mu 2 \\tau )$ at the Tevatron，which tightly limited the couplings and mass of $h _ { 1 }$ . For example, since in this case $h _ { 1 }$ mainly acts as the product of dark matter annihilation, its coupling to $\\tilde { \\chi } _ { 1 } ^ { 0 }$ must be moderately large to get the correct relic density, while its couplings to the SM fermions and $h _ { S M }$ must be small to suppress the rates of the processes mentioned above [15]. The situation is different for the light- $a _ { 1 }$ case,where the relic density and the LEP search for Higgs boson require $m _ { a _ { 1 } } > 8 \\mathrm { G e V }$ . For such a 'heavy’ $a _ { 1 }$ the above mentioned low energy processes give no stringent constraints and thus the light- $a _ { 1 }$ samples are not separated into different regions of ${ \\boldsymbol { \\mathit { m } } } _ { a _ { 1 } }$ , as shown in the right frame of Fig.1. Implication on Higgs physics: In the NMSSM the light $\\tilde { \\chi } _ { 1 } ^ { 0 }$ scenario may predict rather ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "peculiar Higgs phenomenology due to the presence of the light particles. Among the predicted Higgs bosons, the SM-like Higgs boson $h _ { \\mathrm { S M } }$ , defined as the CP-even Higgs boson with largest couplings to $Z ^ { 0 }$ pair,will be the most important one to be searched at the LHC since it mainly responsible for electroweak symmetry breaking. So we focus on $h _ { \\mathrm { S M } }$ in our following discussion. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2a2fae2b0bd61c1b7ce473a067549d62c147378538253e29ed58ecb3a6165f0.jpg",
+        "img_caption": [
+            "FIG. 2: Same as Fig.1, but showing the decay branching ratios of the SM-like Higgs boson $h _ { \\mathrm { S M } }$ Here $B r ( h _ { \\mathrm { S M } }  \\tilde { \\chi } _ { i } ^ { 0 } \\tilde { \\chi } _ { j } ^ { 0 } )$ denotes the total rates for all possible $h _ { \\mathrm { S M } } \\to \\tilde { \\chi } _ { i } ^ { 0 } \\tilde { \\chi } _ { j } ^ { 0 }$ decays. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the light $\\tilde { \\chi } _ { 1 } ^ { 0 }$ scenario, $h _ { \\mathrm { S M } }$ may decay exotically into $\\tilde { \\chi } _ { i } ^ { 0 } \\tilde { \\chi } _ { j } ^ { 0 }$ ， $h _ { 1 } h _ { 1 }$ or $a _ { 1 } a _ { 1 }$ ， and consequently the conventional decays are reduced. This feature is illustrated in Fig. 2, which shows that the sum of the exotic decay branching ratios may exceed 5O% and the the traditional decays $h _ { \\mathrm { S M } }  b b , \\tau \\bar { \\tau } , W W ^ { \\ast } , \\gamma \\gamma$ can be severely suppressed. Numerically, we find that the branching ratio of $h _ { \\mathrm { S M } } \\to b b$ is suppressed to be below $3 0 \\%$ for all the surviving samples in the light- $h _ { 1 }$ case and for about $9 6 \\%$ of the surviving samples in the light- $a _ { 1 }$ case. For the remaining $4 \\%$ samples in the light- $a _ { 1 }$ case,due to the kinematical forbiddance of the decay $h _ { \\mathrm { S M } }  a _ { 1 } a _ { 1 }$ ， the ratio of $h _ { \\mathrm { S M } }  b b$ usually exceed $3 0 \\%$ and may even approach its SM value ( $\\sim 7 0 \\%$ ). The samples with the ratio exceeding 65% are found to be characterized by $m _ { a _ { 1 } } > 5 8$ GeV, $m _ { a _ { 2 } } \\geq 3 5 0$ GeV and $\\tan \\beta \\geq 3 7$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Another interesting feature shown in Fig. 2 is that, due to the open-up of the exotic decays, $h _ { \\mathrm { S M } }$ may be significantly lighter than the LEP bound. This situation is favored by the fit of the precision electroweak data and is of great theoretical interest [21]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b03e250c2866ec9d132da08e8efb645c4e8c796e84df977c41264754446e0f5.jpg",
+        "img_caption": [
+            "FIG. 3: Same as Fig. 1, but showing the diphoton production rate of the SM-like Higgs boson at the LHC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Since the conventional decay modes of $h _ { \\mathrm { S M } }$ may be greatly suppressed, especially in the light- $h _ { 1 }$ case which can give a rather large $\\chi - N$ scattering rate, the LHC search for $h _ { \\mathrm { S M } }$ （204号 via the traditional channels may become difficult. Noting $h _ { \\mathrm { S M } }$ is bounded from above by about 130 GeV and hence its most important discovering channel at the LHC is the diphoton signal, we show the di-photon rate at the LHC with $\\sqrt { s } = 1 4$ TeV in Fig.3. In calculating this rate，we used the narrow width approximation and only considered the leading contributions to $p p  h _ { \\mathrm { S M } }$ from top quark, bottom quark and the squark loops. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 indicates that， compared with the SM prediction, the NMSSM rate in the light $\\tilde { \\chi } _ { 1 } ^ { 0 }$ scenario is suppressed to be less than 2O fb for the light- $h _ { 1 }$ case,and for the light- $a _ { 1 }$ （204号 case most samples (about $9 6 \\%$ ） give the same conclusion. Since in the light- $h _ { 1 }$ case the $\\chi - N$ scattering rate can reach the CoGeNT sensitivity, this means that in the framework of NMSSM the CoGeNT search for the light dark matter will be correlated with the LHC search for the Higgs boson via the di-photon channel. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note that， as shown in the left frame of Fig.3,a few samples can give a di-photon rate which is comparable with or even exceeds its SM prediction. We checked that these samples predict approximately same decay branching ratios of $h _ { S M }$ as the SM Higgs boson, and the excess is mainly due to the slight suppression of the width of $h _ { S M }  b b$ so that $B r ( h _ { S M } \\to \\gamma \\gamma )$ is enhanced. We also checked that the null result of the future XENON 6000 kg-days exposure willimply a Higgs di-photon signal below 20 fb at the LHC with 99% probability. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Finally, we point out that our light- $h _ { 1 }$ scenario is different from the scenario considered in [15]. The basic ideas of [15] are: (1) Consider a special part in the parameter space, which is characterized by $\\lambda , \\kappa \\to 0$ and $A _ { \\lambda } \\simeq \\mu \\tan \\beta$ so that $\\mathrm { D e t } \\mathcal { M } ^ { 2 } \\simeq 0$ to get a light $h _ { 1 }$ ; (2） Consider a nearly decoupled $\\hat { S }$ so that the singlino serves as the dark matter with its annihilation and its scattering with the nucleon proceeded mainly by exchanging a light singlet $a _ { 1 }$ and $h _ { 1 }$ respectively. Such a treatment obviously has the unnaturalness problem in electroweak symmetry breaking since the condition $A _ { \\lambda } \\simeq \\mu \\tan \\beta$ usually pushes the soft mass $m _ { H _ { d } }$ in Eq. (2) up to several TeV. We note the results of [7] also suffer from this problem. In our scenario, however, we keep the naturalness by requiring all soft masses to be below TeV scale. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conclusion: We scrutinized the light neutralino dark matter scenario in the NMSSM by scanning over the parameter space with all the relevant soft masses below TeV scale. We found that in the parameter space allowed by current experiments the neutralino dark matter can be as light as a few GeV and its scattering rate with the nucleon can reach the sensitivity of XENON100 and CoGeNT (the CoGeNT signal can be explained). The present XENON100 and CoGeNT data can exclude a large parameter space, and the future ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6000 kg-days exposure of XENON100 can further explore (but cannot completely cover） the remained parameter space. In such a light dark matter scenario,a light CP-even or CP-odd Higgs boson must be present to satisfy the measured dark matter relic density. As a result, the SM-like Higgs boson $h _ { \\mathrm { S M } }$ may dominantly decay into a pair of light Higgs bosons or a pair of neutralinos, and consequently the conventional decays like the di-photon signal at the LHC will be much suppressed. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement JMY thanks JSPS for the invitation fellowship (S-11028) and the particle physics group of Tohoku University for their hospitality. This work was supported in part by NSFC (Nos.10821504,10725526,11075045,11005006), Doctor Foundation of BJUT (No. X0006015201102) from China and by the Grant-in-Aid for Scientific Research (No. 14046201） from Japan. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] Z. Ahmed et al., Science 327, 1619 (2010).   \n[2] E. Aprile et al.,arXiv:1104.2549.   \n[3] C. E. Aalseth et al.,arXiv:1002.4703.   \n[4] D.Hooper et al., Phys. Rev. D82,123509 (2010).   \n[5] D.Feldman et al., Phys. Rev. D81,117701 (2010); E. Kuflik et al., Phys.Rev. D81,111701 (2010).   \n[6] J. F. Gunion et al., arXiv:1009.2555.   \n[7] D. A. Vasquez et al., Phys.Rev. D82,115027 (2010).   \n[8] L. Calibbi, T. Ota, Y. Takanishi, arXiv:1104.1134.   \n[9] N. Fornengo et al., Phys. Rev. D83, 015001 (2011).   \n[10] We use the formula in [16] to calculate $B  X _ { s } \\gamma$   \n[11] For a model review, see,e.g.，U. Ellwanger et al.， Phys. Rept.496,1 (2010)；For recent phenomenological studies, see, e.g., V. Barger et al., Phys. Rev. D73, 115010 (2006)； Phys. Rev. D83,055006 (2011) S. Moretti, S. Munir, Eur. Phys. Jour. C47, 791 (2006); F. Domingo, U. Ellwanger, JHEP 0712,090 (2007)； Z. Heng et al., Phys. Rev.D77, 095012 (2008)； R. N. Hodgkinson, A. Pilaftsis, Phys. Rev. D76, O15007 (2007); W. Wang et al.， Phys. Lett. B680,167 (2009); J. Cao et al., JHEP 0812,006 (2008)；Phys. Rev. D78,115001 (2008); JHEP 1011,110 (2010); arXiv:1102.4942; arXiv:1103.0631; F. Staub et al., JHEP 1010, 040 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2010)；R.Dermisek,arXiv:1012.3487;U. Ellwanger et al， JHEP 1101，103 (2011)； Phys. Lett. B698, 293 (2011)； Z. Kang et al, arXiv:1008.5243; arXiv:1102.5644; F. Mahmoudi et al, arXiv:1012.4490; G. Panotopoulos, arXiv:1103.0140; M. Almarashi, S. Moretti, Phys. Rev. D83, 035023 (2011); Y. Kanehata et al., arXiv:1103.5109. [12] A. V. Belikov et al. arXiv:1009.0549; R. Kappl et al., Phys. Lett. B695,169 (2011). [13] J. Cao et al., Phys. Rev. D79,091701 (2009). [14] J. Ca0 et al., JHEP 1007,044 (2010); Phys.Rev. D82,051701 (2010). [15] P. Draper et al., Phys. Rev. Lett. 106,121805 (2011). [16] U. Ellwanger et al., JHEP 0502,066 (2005). [17] From http://dmtools.brown.edu:8080 [18] D. Das and U. Ellwanger, JHEP 1009,085 (2010). [19] G. Jungman et al., Phys. Rept. 267, 195 (1996). [20] H. Ohki et al.，Phys. Rev. D78, 054502 (2008)； D. Toussaint et al.， Phys. Rev. Lett. 103, 122002 (2009); J. Giedt et al., Phys. Rev. Lett.103, 201802 (2009). [21] R. Dermisek and J. F. Gunion,Phys. Rev. Lett. 95, 041801 (2005). ",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,179 @@
+# 6种牧草苗期耐旱性综合评价
+
+田小霞¹，卫晓锋²，魏浩³，许明爽¹，毛培春1(1.北京市农林科学院草业花卉与景观生态研究所,北京100097；2.中色紫金地质勘查(北京)有限责任公司，北京100012；3.河北地质大学河北省高校生态环境地质应用技术研发中心,河北 石家庄050031)
+
+摘要：为筛选苗期抗旱性较强的牧草,用于干旱半干旱地区的人工草地建植。采用盆栽法对6种牧草进行模拟干旱试验,测定其株高(PH)、地上干重(SDW）、地下干重(RDW）、根冠比(RSR）、叶片相对含水量(RWC）、脯氨酸含量(Pro）可溶性蛋白含量(SP）、抗氧化酶活性等指标,计算单项指标抗旱系数,运用相关分析、主成分分析、隶属函数法等方法对6种牧草进行抗旱性综合评价。结果表明：干旱胁迫对6种供试材料的生长和生理指标均有显著影响。相关分析表明,PH、GR、RDW等12项指标之间呈正相关关系,但这12项指标均与丙二醛(MDA)含量呈负相关关系。主成分分析表明，4个主成分贡献率可达 $9 8 . 4 0 \%$ ，可代表6种供试材料绝大部分数据信息。结合隶属函数法及权重，计算出6种供试材料的抗旱性综合评价值( $D$ 值)，得到供试材料的抗旱性能力顺序为：长穗偃麦草 $>$ 披碱草 $\mathrm { . } >$ 沙打旺>无芒雀麦 $>$ 紫花苜蓿 $\mathrm { \dot { > } }$ 扁穗冰草。 $D$ 值与 $\mathrm { P H } ( 0 . 9 8 4 ^ { * * } )$ 、RDW( $0 . 9 4 8 ^ { ^ { * * } }$ ） $\mathrm { P r o } ( 0 . 9 7 1 ^ { \ast \ast } )$ 和 $\mathrm { S P } ( 0 . 9 5 9 ^ { * * } )$ 均呈显著正相关，可作为相似材料苗期抗旱性评价的辅助指标。
+
+关键词：牧草；干旱胁迫；抗旱性；综合评价
+
+干旱是制约植物生长的非生物胁迫中最主要的因素[1-2]。干旱不仅给农业生产造成严重损失，而且会导致生物多样性减少、土壤水土流失和荒漠化等，对生态环境造成影响。因此，干旱被认为是世界性环境问题[3]。在干旱条件下植物会从植株生长形态、生物量、细胞膜稳定性及抗氧化酶系统等多方面对干旱胁迫作出响应[4]。国内外学者对干旱及在干旱后复水条件下植物的生长和生理响应开展了大量研究[5],研究者对草地早熟禾(Poa pratensis）[6]、藜麦（Chenopodium quinoa）[7]、高梁（Sorghum bicol-or）[8]、玉米(Zea mays）[9]、苜蓿(Medicago sativa)）[10]等进行干旱后复水试验发现，植物在干旱复水后恢复生长能力强的其抗旱性越强。因此，应结合复水后植株的生长和生理响应变化对植物的抗旱性进行综合评价。筛选抗旱性强的牧草不仅可以减轻干旱对植物生长的危害，又可以发展畜牧业提高经济效益，且在抗旱牧草利用和品种选育上具有重要意义。
+
+植物在干旱少雨的沙化半沙化地区具有复杂的生存机制和避逆策略，以适应逆境环境[]。因此，研究和筛选牧草的抗旱性，培养抗旱高产的牧草品种不仅可以通过畜牧业生产提高经济效益，而且是缓解沙化危害的一个有效途径。长穗偃麦草（Elytrigiaelongata）无芒雀麦（Bromusinermis）、披碱草（Elymus dahuricus）、扁穗冰草(Agropyron crista-tum）、沙打旺（Astragalusadsurgens）和紫花苜蓿(Medicagosatiua)均具有较强的生存能力及抗逆性，是退耕还林及水土保持的重要牧草。目前，关于这6种牧草之间的抗旱性研究报道较少，本研究通过对6种牧草苗期进行正常灌溉和持续干旱处理，测定其生长和生理生化指标，应用多元统计分析方法对各项指标进行综合评价，以期为筛选适宜于干旱地人工种植的牧草和品种选育提供理论依据，
+
+# 1材料与方法
+
+# 1.1试验材料
+
+供试材料长穗偃麦草、无芒雀麦、披碱草、扁穗
+
+冰草、沙打旺和紫花首蓿种子均是生产上常用的商品种子。
+
+# 1.2材料培养与处理
+
+试验在北京农林科学院草业花卉与景观生态研究所温室内进行。温室平均气温 $2 7 . 6 ~ \mathrm { \textdegree C }$ （白天）/$1 8 . 5 ~ \mathrm { { ^ circ C } }$ （夜晚），相对湿度 $5 4 . 6 \%$ （白天） $1 8 2 . 7 \%$ （夜晚）。采用盆栽法，培养土取自围场县御道口沙化土并过筛，烘干后按照每盆 $3 \mathrm { k g }$ 称取干土装入花盆，花盆尺寸上口径 $1 7 \ \mathrm { c m }$ 、底部直径 $1 2 \ \mathrm { c m }$ 、高度14$\mathrm { c m }$ 。土壤理化性质全氮、全磷、全钾含量分别为$0 . 1 \pm 0 . 0 3 \ \underline { { \mathrm { g } } } \bullet \mathbf { k } \underline { { \mathrm { g } } } ^ { - 1 } , 0 . 1 \pm 0 . 0 1 \ \underline { { \mathrm { g } } } \bullet \mathbf { k } \underline { { \mathrm { g } } } ^ { - 1 } , 1 8 . 4 \pm 1 . 0 0 \ \underline { { \mathrm { g } } } \bullet \mathbf { k } \underline { { \mathrm { g } } } ^ { - 1 }$ ，碱解氮、速效磷、速效钾含量分别为 $9 . 8 { \pm } 0 . 2 6 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ 、$2 . 5 { \pm } 0 . 0 6 ~ \mathrm { m g \cdot k g ^ { - 1 } \cdot 3 6 . 3 { \pm } 4 . 6 3 ~ m g \cdot k g ^ { - 1 } }$ ，有机质含量为$2 2 . 2 { \pm } 2 . 4 \ \mathrm { g \cdot k g ^ { - 1 } }$ 。
+
+播种育苗，每盆播种100粒种子，正常浇水管理。出苗10d后每盆定株30株健壮幼苗，叶片4\~5片真叶时开始干旱胁迫处理，设置正常灌水和自然干旱胁迫2个处理。处理前正常灌水和干旱处理的试验材料全部浇水至土壤田间持水量的 $8 0 \% \sim 1 0 0 \%$ （土壤体积含水量 $2 5 \% { \sim } 3 0 \%$ )。试验期间对照组的幼苗保持田间持水量的 $8 0 \% { \sim } 1 0 0 \%$ ;干旱处理组幼苗停止浇水。干旱处理14d后，将干旱处理组复水至土壤田间持水量的 $8 0 \% \sim 1 0 0 \%$ ;开始第2次干旱处理3d后随机选取相同部位叶片测定各生理指标。
+
+# 1.3测定指标与方法
+
+使用便携式土壤水分计SM200测定土壤体积含水量。每种材料随机选取植株6株，用直尺测量开始干旱处理时的株高( $\mathrm { \cdot P H _ { 0 } }$ )和试验结束时株高(PH),生长速率 $\mathrm { ( G R ) { = } ( P H - P H _ { 0 } ) }$ /胁迫天数 $\times 1 0 0$ 植株地上干重(SDW)和地下干重(RDW)测定使用称重法；并计算根冠比，根冠比( $\mathrm { { ( R S R ) = } }$ 地下干重/地上干重;叶片相对含水量(RWC)采用饱和称重法[12],叶片相对含水量(RWC) $\ c =$ （叶片鲜样质量－叶片干样质量)/(叶片饱和鲜样质量-叶片干样质量） $\times 1 0 0$ ;叶绿素(Chl)总含量测定采用直接浸提法（丙酮：酒精 $\scriptstyle = 1 : 1$ )[12];其他生理指标抗氧化酶活性，可溶性蛋白(SP)、脯氨酸(Pro)及丙二醛(MDA)含量均采用分光光度法测定。
+
+# 1.4数据处理与分析
+
+1.4.1单项指标抗旱系数
+
+$$
+\begin{array}{c} \omega = \frac { \mp \frac { \Xi } { \mp } \varkappa \mathbf { k } \mathbf { \vec { f } } \mathbf { \underline { { H } } } \mathbf { \cdot } \mathbf { \vec { \Pi } } } { \mathbf { \vec { \Pi } } \mathbf { \vec { \Pi } } \mathbf { \vec { \Pi } } \mathbf { \vec { \Pi } } } \lambda \mathbf { \vec { \Pi } } \lambda ^ { \perp } \big \langle \frac { \mathbf { \vec { \Pi } } } { \mathbf { \vec { \Pi } } } \big | \mathbf { \vec { \Pi } } \big | \mathbf { \vec { \Pi } } \big \rangle  \end{array}
+$$
+
+1.4.2不同种质材料综合指标隶属函数值
+
+$$
+\mu { \Big ( } X _ { j } { \Big ) } = { \frac { X _ { j } - X _ { \operatorname* { m i n } } } { X _ { \operatorname* { m a x } } - X _ { \operatorname* { m i n } } } } , \ j = 1 , 2 , \cdots , n
+$$
+
+式中： $\mu ( X _ { j } )$ 表示第 $j$ 个指标隶属函数值; $X _ { j }$ 表示第 $j$ 个指标值; $X _ { \operatorname* { m i n } }$ 表示第 $j$ 个指标最小值; $X _ { \mathrm { m a x } }$ 表示第 $j$ 个指标最大值。
+
+1.4.3各综合指标的权重
+
+$$
+\begin{array} { c } { \displaystyle { W _ { j } = \frac { V _ { j } } { \displaystyle \sum _ { j = 1 } ^ { m } V _ { j } } } } \end{array}
+$$
+
+式中： $W _ { j }$ 表示第 $j$ 个指标在所有指标中的权重； $V _ { j }$ 表示第 $j$ 个综合指标的贡献率。
+
+1.4.4抗旱综合评价值
+
+$$
+D = \sum _ { j = 1 } ^ { n } \bigl [ \mu ( X _ { j } ) W _ { j } \bigr ] , j = 1 , 2 , \cdots , n
+$$
+
+式中： $D$ 值为抗旱性综合评价值。
+
+运用 $\operatorname { E x c e l } 2 0 1 3$ 计算平均值和抗旱系数，SPSS19.0进行方差分析、相关分析和主成分分析。
+
+# 2结果与分析
+
+# 2.1干旱胁迫对6种供试材料各性状指标的影响
+
+与对照相比，干旱胁迫下6种供试材料的PH、GR、SDW、RWC、Chl数值均低于对照；无芒雀麦和扁穗冰草RDW、SOD、POD数值低于对照，而其他4种供试材料除沙打旺和紫花苜蓿的RDW和POD活性外,RDW、SOD、POD指标值均高于对照;长穗偃麦草、披碱草和沙打旺的Pro、SP含量均高于对照，而其他3种材料的Pro、SP含量低于对照;6种供试材料的MDA均高于对照(表1)。
+
+# 2.26种供试材料各单项指标的抗旱系数和相关性分析
+
+在干旱胁迫下，6种供试材料的13项生长和生理指标抗旱系数表现出不同的生长变化和生理响应（表2），6种供试材料的PH、GR、SDW、RWC、Chl等5项指标的抗旱系数均小于1，表明干旱胁迫下的数值低于对照；而长穗偃麦草、披碱草和沙打旺3种材料的RDW、RSR、SOD、CAT、Pro、SP的抗旱系数均大于1,6种牧草的MDA抗旱系数均大于1。试验材料在干旱胁迫下不同单项指标有的高于对照，有的低于对照，用单一的指标值进行抗旱性评价具有片面性，因此以各单项指标的抗旱系数为基础进行抗旱性综合评价更具有比较性和客观性。
+
+Tab.1 Effects on the traits of test materials under drought stress   
+
+<html><body><table><tr><td>指标</td><td>处理</td><td>长穗偃麦草</td><td>无芒雀麦</td><td>披碱草</td><td>扁穗冰草</td><td>沙打旺</td><td>紫花苜蓿</td></tr><tr><td>PH/cm</td><td>CK</td><td>20.67±1.15ab</td><td>24.13±1.58a</td><td>22.8±1.68ab</td><td>19.13±1.34b</td><td>4.60±0.17c</td><td>5.17±0.44c</td></tr><tr><td rowspan="2">GR/%</td><td>T</td><td>20.20±0.57a</td><td>19.97±0.55a</td><td>21.67±1.22a</td><td>14.10±1.01b</td><td>4.27±0.50c</td><td>4.20±0.23c</td></tr><tr><td>CK</td><td>13.62±1.85a</td><td>9.53±0.72b</td><td>12.34±0.33ab</td><td>11.74±0.5ab</td><td>11.64±0.37ab</td><td>10.44±0.79b</td></tr><tr><td rowspan="2">SDW/(g·株-1)</td><td>T</td><td>11.20±0.72a</td><td>6.09±1.62b</td><td>11.27±0.28a</td><td>8.78±0.35b</td><td>8.61±2.78b</td><td>5.57±0.86b</td></tr><tr><td>CK</td><td>0.068±0.010a</td><td>0.058±0.001ab</td><td>0.062±0.002ab</td><td>0.051±0.001bc</td><td>0.032±0.001d</td><td>0.042±0.001cd</td></tr><tr><td rowspan="2">RDW/(g·株-1)</td><td>T</td><td>0.056±0.001a</td><td>0.048±0.002b</td><td>0.053±0.001a</td><td>0.025±0.001c</td><td>0.025±0.001c</td><td>0.030±0.001c</td></tr><tr><td>CK</td><td>0.023±0.001b</td><td>0.025±0.001b</td><td>0.036±0.001a</td><td>0.035±0.001a</td><td>0.016±0.001c</td><td>0.016±0.001c</td></tr><tr><td rowspan="2">RSR</td><td>T</td><td>0.032±0.001b</td><td>0.018±0.001c</td><td>0.038±0.001a</td><td>0.019±0.001c</td><td>0.017±0.001c</td><td>0.011±0.001d</td></tr><tr><td>CK</td><td>0.33±0.02d</td><td>0.43±0.02cd</td><td>0.59±0.05b</td><td>0.68±0.01a</td><td>0.5±0.05bc</td><td>0.39±0.01d</td></tr><tr><td rowspan="2">RWC/%</td><td>T</td><td>0.57±0.04b</td><td>0.37±0.01c</td><td>0.72±0.04a</td><td>0.77±0.06a</td><td>0.68±0.03ab</td><td>0.37±0.02c</td></tr><tr><td>CK</td><td>89.62±1.00bc</td><td>94.31±0.43a</td><td>89.2±1.72c</td><td>92.81±2.33abc</td><td>93.78±0.95ab</td><td>94.63±0.69a</td></tr><tr><td rowspan="2">Chl/(mg·L-1)</td><td>T</td><td>83.74±2.07a</td><td>73.11±1.53cd</td><td>76.8±0.94bc</td><td>71.55±0.68d</td><td>79.65±1.31b</td><td>76.82±0.87bc</td></tr><tr><td>CK</td><td>1.11±0.12b</td><td>0.88±0.07c</td><td>0.85±0.39c</td><td>0.97±0.17c</td><td>1.70±0.04a</td><td>1.02±0.12b</td></tr><tr><td rowspan="2">SOD/(U·g-1 FW)</td><td>T</td><td>0.98±0.04b</td><td>0.81±0.01c</td><td>0.83±0.01c</td><td>0.79±0.04c</td><td>1.63±0.02a</td><td>0.83±0.05c</td></tr><tr><td>CK</td><td>1239.7±141.3b</td><td>1044.7±74.9bc</td><td>1039.5±74.5bc</td><td>979.5±8.8c</td><td>1470.9±272.1ab</td><td>1981.5±338.7a</td></tr><tr><td rowspan="2">POD/(U·g1 FW)</td><td>T</td><td>1386.4±103.5bc</td><td>905.8±77.3cd</td><td>1082.0±81.8cd</td><td>860.0±145.4d</td><td>1686.2±105.7ab</td><td>2023.1±284.6a</td></tr><tr><td>CK</td><td>3154.6±82.6c</td><td>3314.6±245.5c</td><td>2055.8±83.5d</td><td>3778.8±799.0bc</td><td>4715.9±2.4b</td><td>7378.5±26.3a</td></tr><tr><td rowspan="2">CAT/(nmol·min-1·g1 FW)</td><td>T</td><td>3895.5±134.0b</td><td>2416.1±42.5c</td><td>2625.1±99.4c</td><td>2316.5±164.8c</td><td>3822.6±93.8b</td><td>5449.3±198.8a</td></tr><tr><td>CK</td><td>529.6±48.5b</td><td>936.6±13.0a</td><td>115.1±3.8d</td><td>923.1±11.6a</td><td>237.1±4.5c</td><td>201.4±3.1c</td></tr><tr><td rowspan="2">Pro/(μmol·g-1 FW)</td><td>T</td><td>763.4±15.4c</td><td>1040.1±19.9a</td><td>155.9±13.0f</td><td>863.0±11.7b</td><td>324.0±17.8d</td><td>248.7±3.4e</td></tr><tr><td>CK</td><td>34.24±1.04ab</td><td>25.34±6.11b</td><td>37.53±1.20a</td><td>32.58±0.63ab</td><td>27.92±3.87ab</td><td>24.85±2.27b</td></tr><tr><td rowspan="2">SP/(mg·g-1 FW)</td><td>T</td><td>40.12±5.37a</td><td>21.53±0.68b</td><td>40.08±0.70a</td><td>20.74±1.01b</td><td>32.66±0.91a</td><td>17.73±0.73b</td></tr><tr><td>CK</td><td>8.18±1.51a</td><td>8.97±1.53a</td><td>8.27±0.44a</td><td>8.96±0.49a</td><td>9.76±1.26a</td><td>10.12±1.39a</td></tr><tr><td rowspan="2">MDA/(nmol·g−1 FW)</td><td>T</td><td>9.38±0.41ab</td><td>7.61±0.20c</td><td>8.61±0.57bc</td><td>7.33±0.87c</td><td>10.34±0.09a</td><td>8.43±0.50bc</td></tr><tr><td>CK</td><td>20.45±0.28d</td><td>18.95±0.42d</td><td>29.69±0.48c</td><td>34.94±0.68b</td><td>15.53±0.66e</td><td>41.93±1.14a</td></tr><tr><td rowspan="2"></td><td>T</td><td>20.90±0.76d</td><td>21.03±1.24d</td><td>31.31±1.78c</td><td>43.07±3.24b</td><td>18.35±1.18d</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>50.29±1.31a</td></tr></table></body></html>
+
+注：PH表示株高;GR表示生长速率;SDW表示地上干重;RDW表示地下干重;RSR表示根冠比;RWC表示叶片相对含水量;ChI表示叶绿素总含量;SOD表示超氧化物歧化酶活性;POD表示过氧化物酶活性;CAT表示过氧化氢酶活性； $\mathrm { P r o }$ 表示游离脯氨酸含量;SP表示可溶性蛋白含量;MDA表示丙二醛含量。不同小写字母表示在相同指标内不同品种间在0.05水平差异显著( $( P { < } 0 . 0 5 )$ 。下同。
+
+表1干旱胁迫对供试材料各性状的影响  
+表2干旱胁迫下6种供试材料生长和生理指标的抗旱系数( $: \omega$ 值）  
+Tab.2Droughtresistancecoeficient (ω value)ofgrowthandphysiological indicesofsixmaterials testedunderdroughtstres   
+
+<html><body><table><tr><td rowspan="2">供试材料</td><td colspan="10">单项指标</td></tr><tr><td>PH</td><td>GR</td><td>SDW</td><td>RDW</td><td>RSR</td><td>RWC</td><td>Chl</td><td>SOD</td><td>POD</td><td>CAT</td><td>Pro SP</td><td>MDA</td></tr><tr><td>长穗偃麦草</td><td>0.977</td><td>0.822</td><td>0.824</td><td>1.377</td><td>1.694</td><td>0.934</td><td>0.881</td><td>1.118</td><td>1.235</td><td>1.442</td><td>1.171 1.147</td><td>1.022</td></tr><tr><td>无芒雀麦</td><td>0.827</td><td>0.640</td><td>0.829</td><td>0.743</td><td>0.863</td><td>0.775</td><td>0.916</td><td>0.867</td><td>0.729</td><td>1.111 0.850</td><td>0.848</td><td>1.110</td></tr><tr><td>披碱草</td><td>0.950</td><td>0.914</td><td>0.855</td><td>1.065</td><td>1.234</td><td>0.861</td><td>0.981</td><td>1.041</td><td>1.277</td><td>1.355 1.068</td><td>1.041</td><td>1.055</td></tr><tr><td>扁穗冰草</td><td>0.737</td><td>0.748</td><td>0.487</td><td>0.552</td><td>1.124</td><td>0.771</td><td>0.816</td><td>0.880</td><td>0.613 0.935</td><td>0.637</td><td>0.818</td><td>1.233</td></tr><tr><td>沙打旺</td><td>0.928</td><td>0.739</td><td>0.781</td><td>1.065</td><td>1.346</td><td>0.849</td><td>0.961</td><td>1.146</td><td>0.811</td><td>1.366 1.170</td><td>1.060</td><td>1.182</td></tr><tr><td>紫花苜蓿</td><td>0.813</td><td>0.534</td><td>0.706</td><td>0.673</td><td>0.948</td><td>0.812</td><td>0.816</td><td>1.021</td><td>0.739</td><td>1.235 0.714</td><td>0.833</td><td>1.199</td></tr></table></body></html>
+
+由表3可知，PH与RDW、Pro、CAT和SP呈极显著正相关关系，与RWC、POD、SOD呈显著正相关关系；MDA与其他12项指标呈负相关关系，但这12项指标之间呈正相关关系。以上结果表明，干旱胁迫下，6种供试材料各生长和生理指标之间存在相互拮抗又相互协同的关系。
+
+Tab.3Correlative coeficient matrix of growth and physiological indices of six materials tested under drought stres   
+
+<html><body><table><tr><td rowspan="2">指标</td><td colspan="12">各指标间的相关系数</td></tr><tr><td>PH</td><td>GR</td><td>SDW</td><td>RDW</td><td>RSR</td><td>RWC</td><td>Chl</td><td>SOD</td><td>POD</td><td>CAT</td><td>Pro</td><td>SP</td><td>MDA</td></tr><tr><td>PH</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GR</td><td>0.602</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SDW</td><td>0.809</td><td>0.253</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RDW</td><td>0.963**</td><td>0.619</td><td>0.691</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RSR</td><td>0.733</td><td>0.656</td><td>0.238</td><td>0.867*</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RWC</td><td>0.899°</td><td>0.555</td><td>0.557</td><td>0.956**</td><td>0.898*</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Chl</td><td>0.705</td><td>0.580</td><td>0.741</td><td>0.555</td><td>0.232</td><td>0.341</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SOD</td><td>0.814°</td><td>0.322</td><td>0.470</td><td>0.796</td><td>0.738</td><td>0.836*</td><td>0.400</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>POD</td><td>0.871°</td><td>0.747</td><td>0.671</td><td>0.847*</td><td>0.673</td><td>0.852*</td><td>0.538</td><td>0.578</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>CAT</td><td>0.951**</td><td>0.379</td><td>0.776</td><td>0.899*</td><td>0.669</td><td>0.895*</td><td>0.556</td><td>0.906°</td><td>0.784</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>Pro</td><td>0.961**</td><td>0.601</td><td>0.746</td><td>0.941**</td><td>0.749</td><td>0.826*</td><td>0.762</td><td>0.804</td><td>0.738</td><td>0.882*</td><td>1.000</td><td></td><td></td></tr><tr><td>SP</td><td>0.952**</td><td>0.692</td><td>0.610</td><td>0.982**</td><td>0.896*</td><td>0.936**</td><td>0.598</td><td>0.837°</td><td>0.822*</td><td>0.880*</td><td>0.956**</td><td>1.000</td><td></td></tr><tr><td>MDA</td><td>-0.791</td><td>-0.588</td><td>-0.789</td><td>-0.796</td><td>-0.528</td><td>-0.727</td><td>-0.521</td><td>-0.338</td><td>-0.890*</td><td>-0.663</td><td>-0.683</td><td>-0.705</td><td>1.000</td></tr></table></body></html>
+
+注：\*\*表示 $P < 0 . 0 1$ 的显著水平;\*表示 $P < 0 . 0 5$ 的显著水平。
+
+# 2.36种供试材料单项指标的主成分分析
+
+由表1和表2可知，干旱胁迫下供试材料的MDA含量、Pro含量、SP含量及抗氧化酶活性均增加，表现出一定的抗旱性。为更客观地评价各供试材料的抗旱性，本研究选取13项指标中呈正相关的
+
+12项指标抗旱系数进行主成分分析。结果显示，前4个因子的贡献率达 $9 8 . 3 9 8 \%$ ，集中了12项指标的绝大部分数据信息(表4)。第一主成分的特征值为9.092，贡献率为 $7 5 . 7 6 8 \%$ ；第二主成分的贡献率为$1 0 . 6 4 9 \%$ 。因此，通过主成分分析可以将原来的12项指标转换为4个相互独立的综合指标，分别用$C I _ { 1 } \setminus C I _ { 2 } \setminus C I _ { 3 } \setminus C I _ { 4 }$ 表示（表5）。
+
+表3干旱胁迫下6种供试材料生长和生理指标的相关系数矩阵  
+表4干旱胁迫下各指标的主成分分析  
+
+<html><body><table><tr><td rowspan="2">主成分</td><td colspan="10">各指标特征向量</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">特征值贡献率 1%</td><td rowspan="2">累计 贡献率/%</td></tr><tr><td>PH</td><td>GR</td><td>SDW</td><td>RDW</td><td>RSR</td><td>RWC</td><td>Chl</td><td>SOD POD</td><td>CAT</td><td>Pro</td><td>SP</td></tr><tr><td>第一主成分</td><td>0.991</td><td>0.662</td><td>0.725</td><td>0.981</td><td>0.816</td><td>0.932</td><td>0.657</td><td>0.832</td><td>0.878</td><td>0.931</td><td>0.961</td><td>0.983</td><td>9.092 75.768</td><td></td><td>75.768</td></tr><tr><td>第二主成分</td><td>0.121</td><td>-0.093</td><td>0.605</td><td>-0.093</td><td>-0.543</td><td>-0.300</td><td>0.645</td><td>-0.205</td><td>0.016</td><td>0.060</td><td>0.129</td><td>-0.131</td><td>1.278</td><td>10.649</td><td>86.417</td></tr><tr><td>第三主成分</td><td>-0.057</td><td>0.737</td><td>-0.210</td><td>-0.030</td><td></td><td>0.106 -0.116</td><td>0.264</td><td>-0.375</td><td>0.218</td><td>-0.331</td><td>-0.019</td><td>0.046</td><td>0.986</td><td>8.217</td><td>94.634</td></tr><tr><td>第四主成分</td><td>-0.030</td><td>0.020</td><td>-0.226</td><td>-0.048</td><td></td><td>0.087 -0.165</td><td>0.285</td><td>0.261</td><td>-0.397</td><td>-0.046</td><td>0.210</td><td>0.097</td><td>0.452</td><td>3.764</td><td>98.398</td></tr></table></body></html>
+
+# 表5供试材料的综合指标值 $C { { I } _ { x } } ,$ 隶属函数值 $\mu ( x )$ 、综合评价 $\pmb { D }$ 值及抗旱类型
+
+Tab.4 Principal component analysis on indices under drought stress   
+Tab.5 Comprehensive indices $C { { I } _ { x } } ,$ subordinative function value $\mu ( x )$ ,comprehensive valuation $\pmb { D }$ value,and drought resistance of materials tested   
+
+<html><body><table><tr><td rowspan="2">供试材料</td><td colspan="4">综合指标值</td><td colspan="4">隶属函数值</td><td rowspan="2">D值</td><td rowspan="2">排序</td></tr><tr><td>CI</td><td>CI</td><td>CI3</td><td>CI4</td><td>μ(1)</td><td>μ(2)</td><td>μ(3)</td><td>μ（4)</td></tr><tr><td>长穗偃麦草</td><td>3.721</td><td>-1.227</td><td>-0.193</td><td>-0.510</td><td>1.000</td><td>0.008</td><td>0.499</td><td>0.000</td><td>0.813</td><td>1</td></tr><tr><td>无芒雀麦</td><td>-1.980</td><td>1.562</td><td>0.005</td><td>-0.248</td><td>0.236</td><td>1.000</td><td>0.576</td><td>0.148</td><td>0.344</td><td>4</td></tr><tr><td>披碱草</td><td>2.366</td><td>0.883</td><td>1.077</td><td>-0.344</td><td>0.818</td><td>0.759</td><td>0.986</td><td>0.094</td><td>0.798</td><td>2</td></tr><tr><td>扁穗冰草</td><td>-3.744</td><td>-1.249</td><td>1.113</td><td>0.259</td><td>0.000</td><td>0.000</td><td>1.000</td><td>0.435</td><td>0.101</td><td>6</td></tr><tr><td>沙打旺</td><td>1.819</td><td>0.240</td><td>-0.504</td><td>1.257</td><td>0.745</td><td>0.530</td><td>0.380</td><td>1.000</td><td>0.701</td><td>3</td></tr><tr><td>紫花苜蓿</td><td>-2.182</td><td>-0.210</td><td>-1.497</td><td>-0.413</td><td>0.209</td><td>0.370</td><td>0.000</td><td>0.055</td><td>0.203</td><td>5</td></tr><tr><td>权重</td><td></td><td></td><td></td><td></td><td>0.770</td><td>0.108</td><td>0.084</td><td>0.038</td><td></td><td></td></tr></table></body></html>
+
+# 2.4各种质材料抗旱性的综合评价
+
+通过12项生长和生理指标抗旱系数和各综合指标的特征向量求出供试材料的4个综合指标值，通过公式(2)和公式(3)求出综合指标值的隶属函数值和权重 $W _ { j }$ ，4个综合指标的权重分别为0.770、0.108、0.084和0.038(表5)。通过公式(4)计算出抗旱性综合评价值 $D$ 值，根据 $D$ 值大小对供试材料抗旱性进行排序，顺序为：长穗偃麦草 $>$ 披碱草>沙打旺>无芒雀麦 $>$ 紫花苜蓿 $>$ 扁穗冰草，其中，长穗偃麦草的 $D$ 值最大，为0.813,表明其抗旱性最强
+
+综合评价值 $D$ 值与各单项指标抗旱系数的相关分析见表6，由表6可知，PH、RDW、Pro、SP与综合评价值 $D$ 值呈极显著正相关;RWC、POD和CAT与 $D$ 值呈显著正相关性，相关系数分别为 $0 . 8 5 7 , 0 . 8 7 0$ 和0.889；其他指标与 $D$ 值呈正相关关系。
+
+# 3讨论
+
+干旱胁迫下，植物会通过调整植株形态、生长和生理响应等方面来应对植物体内水分流失及组织受损[13-14],是多个生长和生理指标同时发生变化的过程。苗期是牧草生长的关键时期，也是对水分变化最敏感的时期,对其苗期进行抗旱性评价是最合适的植物生长阶段。本研究结果表明，干旱胁迫下供试材料的叶片含水量低于对照，与田小霞等[15]对黄花草木樨的抗旱性综合评价的结果一致。干旱胁迫下供试材料叶片相对含水量降低可能一方面是由于干旱胁迫下植株根系吸收水分减少，地上部分水分散失率大于根系吸收水平的速率，进而降低了叶片的相对含水量，研究者认为抗旱性强的材料相对含水量降幅更小[16]
+
+本研究中干旱胁迫下叶片叶绿素含量低于对照，原因可能是由于干旱胁迫下叶绿素的合成减弱，也可能是逆境胁迫下原有的叶绿素遭到了破坏,进而降低了叶绿素的含量[17-18];而本试验中发现干旱胁迫下，供试材料的MDA含量均高于对照，也证明了逆境胁迫下植物体内膜脂过氧化现象。本研究还发现，长穗偃麦草、披碱草和沙打旺3种材料的生长指标地下生物量、根冠比、脯氨酸含量和抗氧化酶活性等均高于对照。可能是因为干旱胁迫下植物根系为了更有效的增加吸水面积而增加了根的表面积来维持其正常的吸水功能[17-18];干旱胁迫下植物为提高保护能力引发活性氧(ROS)的过度产生，进而提高了抗氧化剂和次生代谢物来增加对ROS的清除能力，增强植物对干旱胁迫的耐受性[19-20],这也是干旱胁迫下植株抗氧化酶活性和可溶性蛋白含量高于对照的原因;脯氨酸含量高于对照可能是植物通过产生更多的渗透物质来保护蛋白分子结构和稳定膜结构,最终提高抗旱性[20-22]
+
+植物感知到水分缺失的信号时，会启动应对策略及通过改变生长形态和生理响应来提高自身的抗旱性[23]，因此，运用具有较强代表性的生长和生理指标，利用多元统计方法综合评价植物抗旱性则更具有全面性[24-25]。李京蓉等[26]和张小娇等[27]应用隶属函数法对青海省6种牧草和垂穗披碱草(Ely-musnutans)进行了抗旱性综合评价；杨伟等28研究了干旱胁迫下2种不同抗旱性老芒麦(Elymussibiri-cus)幼苗的抗氧化酶系统，得出抗旱能力强的老芒麦，其抗氧化酶活性显著高于抗旱能力弱的材料。李怡等29应用综合评价法对羊草(Elymuschinensis）的13个指标进行了抗旱性综合评价，得出干旱胁迫下脯氨酸和丙二醛含量较高的羊草的其抗旱性越强。
+
+本研究以6份供试材料测定指标的抗旱系数为基础，运用主成分分析法将12个单项指标转换成可以反映大部分试验材料抗旱信息的4个综合指标，并运用隶属函数法计算了综合指标的隶属函数值，根据主成分分析中的权重赋予了各综合指标不同的权重，得出了供试材料的抗旱性综合评价值 $D$ 值。根据 $D$ 值得出6种牧草的抗旱性结果为：长穗偃麦草 $\cdot >$ 披碱草 $\mathrm { > }$ 沙打旺 $>$ 无芒雀麦 $>$ 紫花苜蓿>扁穗冰草。综合评价值 $D$ 值是一个闭区间[0,1]上的纯数[2I-22],使得各供试材料更有可比性;综合评价值 $D$ 值既考虑了各单项指标的相关关系，又考虑了各单项指标的重要性，使得综合评价结果更客观，
+
+表6综合评价值 $\pmb { D }$ 值与各单项指标抗旱系数的相关分析  
+
+<html><body><table><tr><td colspan="10">Tab.6 Correlation analysis of comprehensive valuation D value and drought-resistance coefficient of each index</td></tr><tr><td>相关系数</td><td>PH</td><td>GR</td><td>SDW</td><td>RDW</td><td>RSR</td><td>RWC</td><td>Chl</td><td>SOD</td><td>POD</td><td>CAT</td><td>Pro</td><td>SP</td></tr><tr><td>D值</td><td>0.984**</td><td>0.714</td><td>0.765</td><td>0.948**</td><td>0.743</td><td>0.857*</td><td>0.775</td><td>0.765</td><td>0.870*</td><td>0.889*</td><td>0.971**</td><td>0.959**</td></tr></table></body></html>
+
+更准确。
+
+本研究通过人工模拟干旱逆境条件，在试验材料幼苗期干旱处理14d后，复水再次干旱处理3d后，对试验材料进行抗旱性综合评价。试验干旱处理时间短，干旱后复水后有补偿效应，因此供试试验材料的抗旱性综合评价结果与田间生长的逆境条件差别较大，取得的试验数据及结果还需要在大田试验中验证。
+
+# 4结论
+
+通过主成分分析法将12项生长和生理指标转换为4项综合指标，并得出株高、可溶性蛋白含量、地上干重和脯氨酸含量在抗旱性综合评价中的权重较大。应用多元统计分析方法对6种牧草抗旱性进行了综合评价，得出6种牧草的抗旱性为：长穗偃麦草 $>$ 披碱草>沙打旺 $>$ 无芒雀麦>紫花苜蓿>扁穗冰草。因此，长穗偃麦草、披碱草、沙打旺和无芒雀麦可作为干旱半干旱地区耐旱品种的候选材料。综合评价值D值与株高、地下干重、脯氨酸含量和可溶性蛋白含量均呈显著正相关，可作为相似材料苗期抗旱性评价的辅助指标。
+
+# 参考文献(References)：
+
+[1] Zhang SH,Xu XF,Sun YM,etal. Influence of drought hardening on the resistance physiology of potato seedlings under drought stress[J]. Journal of Integrative Agriculture,2018,17(2): 336-347.   
+[2] Bahrami F,Arzani A,Karimi V.Evaluation of yield-based drought tolerance indices for screening safflower genotypes[J].Agronomy Journal,2014,106(4): 1219-1224.   
+[3] Fang Y,Xiong L.General mechanisms of drought response and their application in drought resistance improvement in plants[J]. Cellular and Molecular Life Sciences,2015,72(4): 673-689.   
+[4] 杨育苗,蒋志荣,安力.干旱胁迫下旱砂地籽瓜生理响应及其抗 旱性评价[J].干旱区研究,2018,35(3):735-742.[Yang Yumiao, Jiang Zhirong,An Li.Physiological response and drought resistance of seed watermelons in dry sandy land[J].Arid Zone Research,2018,35(3): 735-742.]   
+[5]Jin R, Shi H,Han C,et al.Physiological changes of purslane (Portulaca oleracea L.)after progressive drought stress and rehydration [J].Scientia Horticulturae,2015,194:215-221.   
+[6] 杜建雄,师尚礼,刘金荣,等.干旱胁迫和复水对草地早熟禾3 个品种生理特性的影响[J].草地学报,2010,18(1):73-77.[Du Jianxiong,Shi Shangli,Liu Jinrong,et al.Effects of drought stress and rewatering on physiological characteristics of three kentucky bluegrass cultivars[J].Acta agrestia sinica,201O,18(1): 73-77.]   
+[7]刘文瑜,何斌,杨发荣,等.不同品种藜麦幼苗对干旱胁迫和复 水的生理响应[J].草业科学,2019,36(10):2656-2666.[Liu Wenyu,He Bin, Yang Farong, et al.Physiological response to drought and re- watering of different quinoa varieties[J].Pratacultural Science,2019,36(10): 2656-2666.]   
+[8]刘婷婷,陈道钳,王仕稳,等.不同品种高梁幼苗在干旱复水过 程中的生理生态响应[J].草业学报,2018,27(6):100-110.[Liu Tingting, Chen Daoqian,Wang Shiwen,etal.Physio-ecological responses to drought and subsequent re-watering in sorghum seedlings[J].Acta Prataculturae Sinina,2018,27(6): 100-110.]   
+[9]Chen D, Chen D Q, Wu X,et al. Genotypic variation Greenth and physiological response to drought stress and re- watering reveals the critical role of recovery in drought adaptation in maize seedlings[J]. Frontiers in Plant Science,2015,6: 1241.   
+[10] 姜华,毕玉芬,陈连仙,等.旱作条件下紫花苜蓿生理特性的研 究[J].草地学报,2012,20(6):1077-1080.[Jiang Hua, Bi Yufen, Chen Lianxian,et al.Physiologica characteristicsof alfalfa under dry-farming conditions[J].Acta Agaestia Sinica, 2012,20(6):1077- 1080.]   
+[11]Jevgenija N, Gederts EI. Interacting influence of cold stratification treatment and osmotic potential on seed germination of Triglochin maritina L.[J]. Acta Universitatis Latviens,20o7,723:115- 122.   
+[12]高俊凤.植物生理学实验指导[M].北京:高等教育出版社, 2006: 208-218.[Gao Junfeng.The Experimental Instruction for Plant Physiology[M]. Beijing: Higher Education Press,2006: 208- 218.]   
+[13] 李佩佩,李毅,苏世平,等.抗旱优良红砂家系的早期选择与评 价[J].干旱区研究,2020,37(3):706-714.[Li Peipei,Li Yi, Su Shiping,et al. Early selection and evaluation of superior families with drought resistance in Reaumuria soongorica[J].Arid Zone Research,2020,37(3): 706-714.]   
+[14] 刘小慧,王重丽,王梦茹,等.圭亚那柱花草苗期抗旱性评价及 抗旱种质鉴定[J].草地学报,2020,28(4):956-967.[Liu Xiaohui, Wang Chongli, Wang Mengru, et al.Evaluation on drought-resistance of Stylssanthss guianensis and identification for droughtresistance germplasms inseedling stage[J]. Acta Agresia Sinica, 2020,28(4): 956-967.]   
+[15] 田小霞,许明爽,郑明利,等.黄花草木樨苗期抗旱性鉴定及抗 旱指标筛选[J].干旱区资源与环境,2021,35(10):120-127. [Tian Xiaoxia,Xu Mingshuang,Zheng Mingli,et al. Drought resistance identification and drought resistance indices screening of Melilotus officinalis resources at seedling stage[J]. Journal of Arid Land Resources and Environment, 2021,35(10): 120-127.]   
+[16] 李金航,齐秀慧,徐程扬,等.华北4产地黄卢幼苗根系形态对 水分胁迫的短期响应[J].北京林业大 学学报,2014,36(1):48- 54.[Li Jinghang,Qi Xiuhui, Xu Chengyang,et al. Short-term responses of root morphology to droght stress of Cotinus coggygria seedlings from four varied locations in northern China[J]. Jordanal of Beijing Forresty University,2014,36(1): 48-54.]   
+[17]孙三杰,李建明,宗建伟,等.亚低温与水分胁迫对番茄幼苗根 系形态及叶片结构的影响[J].应用生态学报,2012,23(11): 3027-3032.[Sun Sanjie,Li Jianming, Zong Jianwei,et al. Effects of sub-low temperature and drought stress on root morphology and leaf structure of tomato sedlings[J]. China Journal of Applied Ecology,2012,23(11):3027-3032.]   
+[18] 王平,王沛,孙万斌,等.8 份披碱草属牧草苗期抗旱性综合评 价[J].草地学报,2020,28(2):397-404.[Wang Ping,Wang Pei, Sun Wanbin,et al. Comprehensive evaluation of drought resistance of eight Elymus germplasms at seedling stage[J].Acta Agrestia Sinica,2020,28(2): 397-404.]   
+[19]Reddy AR, Chaitanya KV, Vivekanandan M. Drought-induced responses of photosynthesis and antioxidant metabolism in higher plants[J]. Journal of Plant Physiology Journal,2OO4,161:1189- 1202.   
+[20]Seki M, Umezawa T,Urano K,et al. Regulatory metabolic networks in drought stress responses[J]. Current Opinion in Plant Biology,2007,10:296-302.   
+[21]Ashraf M,Foolad MR.Roles of glycine betaine and proline in improving plant abiotic stress resistance[J]. Environmental and Experimental Botany,2007,59: 206-216.   
+[22]Bartels D, Sunkar R. Drought and salt tolerance in plants[J]. Critical Reviews in Plant Sciences,2005,24: 23-58.   
+[23] 姜梦辉,孙丰磊,杨阳,等.棉花陆海重组自交系群体花铃期抗 旱性鉴定及评价[J].干旱区研究,2020,37(6):1635-1643.[Jiang Menghui, Sun Fenglei,Yang Yang,et al. Identification and evaluation of drought resistance of upland-island recombination inbred line population at blossoming and boll-forming stages[Jl.Arid Zone Research,2020,37(6): 1635-1643.]   
+[24]Zou J,Hu W,Li Y X,et al. Screening of drought resistance indices and evaluation of drought resistance in cotton (Gossypium hirsutum L.)[J]. Journal of Integrative Agriculture,2020,19(2): 495-508.   
+[25]石永红,万里强,刘建宁,等.多年生黑麦草抗旱性主成分及隶 属函数分析[J].草地学报,2010,18(5):669-672.[Shi Yonghong, Wan Liqiang,Liu Jianning,et al.Analysis of the principal components and the subordinate function of Lolium perenne drouht resistance[J].Acta Agrestia Sinica,2010,18(5): 669-672.]   
+[26] 李京蓉,周学斌,马真,等.6种高寒牧区禾本科牧草抗旱性研 究与评价[J].草地学报,2018,26(3):659-665.[Li Jingrong, Zhou Xuebin,Ma Zhen,et al. Research and evaluation on drought resistance of six grasses in high-cold pastoral area[J].Acta Agrestia Sinica,2018,26(3): 659-665.]   
+[27] 张小娇,祁娟,曹文侠,等.干旱胁迫下垂穗披碱草苗期抗旱生 理特性的影响[J].草原与草坪,2014,34(5):55-59.[Zhang Xiaojiao,Qi Juan,Cao Wenxia,et al.Effect of drought stress on physiological characteristics of Elymus nutans in seedling stage[J]. Grassland and Turf,2014,34(5): 55-59.]   
+[28] 杨伟,刘文辉,马祥,等.干旱胁迫对2种不同抗旱性老芒麦幼 苗ROS 积累及抗氧化系统的影响[J].草地学报,2020,28(3): 684-693.[Yang Wei,Liu Wenhui,Ma Xiang,et al.Effect of ROS accumulation and antioxidant system in two different drought resistant Elymus sibiricus under drought stress[J].Acta Agrestia Sinica, 2020,28(3): 684-693.]   
+[29]李怡,侯向阳,武自念,等.羊草种质资源抗旱性评价.中国草地 学报,2019,41(1): 75-82.[LiYi, Hou Xiangyang,Wu Zinian,et al. Comprehensive evaluation on drought-resistance of Leymus chinensis germplasm resources[J].Chinese Journal of Grassland, 2019,41(1): 75-82.]
+
+# Comprehensive evaluation of drought tolerance of six forage species at the seedling stage
+
+TIAN Xiaoxia'， WEI Xiaofeng²， WEI Hao， XU Mingshuang'， MAO Peichun' (1.Institute of Grassland,Flowers and Ecology,Beijing Academy of Agriculture and Forestry Sciences,Beijing 100097,China;2.Sino-Zijin Resources Co.Ltd.,Beijing 100012,China;3.Hebei Center for Ecological and Environmental Geology Research,Hebei GEO University,Shijiazhuang O5oO31,Hebei, China)
+
+Abstract: Artificial grassand can be planted in arid and semi-arid areas to screen forage species with strong drought resistance at the seedling stage.A water controling experiment was conducted to determine the effect of drought stress on six forage species by adopting the pot culture method.The plant height (PH),shoot dry weight, root dry weight (RDW),root-shoot ratio (RSR),relative water content (RWC), proline content (Pro),soluble protein content (SP),antioxidant enzyme activity,and other indices of six materials were measured.Based on the drought resistance coefficient of each individual index,correlation analysis, principal component analysis,and subordinate function analysis were performed to comprehensively evaluate the drought resistance of six forage species.Result showed that drought stress had significant effects on the growth and physiological indices of six test materials. Correlation analysis showed that 12 indices such as PH,growth rate,and RDW were positively correlated with one another,buta negativecorelation was observed between the 12 indices and malondialdehyde content.Principal component analysis showed that the contribution rate of four principal components could reach $9 8 . 4 0 \%$ ，which could represent most of the data information of six test materials. The drought resistance ( $D$ value）of six test materials was comprehensively evaluated using a subordinate function method and weight coefficients,and the drought resistance ability of test materials was presented in the folowing order:Elytrigia elongatum $>$ Elymus dahuricus $>$ Astragalus adsurgens $>$ Bromus inermis $>$ Medicago sativa $>$ Agropyron cristatum. Moreover, the D value was found to be significantly and positively correlated with PH $( 0 . 9 8 4 ^ { * * } )$ ,RDW $( 0 . 9 4 8 ^ { ^ { * * } } )$ ， free proline content $( 0 . 9 7 1 ^ { * * } )$ ，and soluble protein content, indicating that it can be used as a good indicator for screening drought tolerance of similar materials at the seedling stage.
+
+Keywords: forage; drought stress; drought tolerance； comprehensive evaluation

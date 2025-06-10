@@ -1,0 +1,326 @@
+[
+    {
+        "type": "text",
+        "text": "Critical phenomenon in the itinerant ferromagnet Cr $1 1$ Ge19 studied by scaling of the magnetic entropy change ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hui Han, $^ { 1 , 2 }$ Lei Zhang, $^ { 1 , }$ \\* Xiangde Zhu,1 Haifeng Du,1 Min Ge, $^ 3$ （204号 Langsheng Ling, $^ 1$ Li Pi, $^ { 1 , 3 }$ Changjin Zhang,1 and Yuheng Zhang $^ { 1 , 3 }$ （204号 （204 $^ { 1 }$ High Magnetic Field Laboratory， Chinese Academy of Sciences, Hefei 230031， China （204号 $\\mathcal { Z }$ University of Science and Technology of China, Hefei 230026, China （20 $\\mathscr { s }$ Hefei National Laboratory for Physical Sciences at the Microscale, University of Science and Technology of China， Hefei 230026, China (Dated: September 12, 2016) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Critical phenomenon of the noncentrosymmetric Cr $_ { 1 1 }$ Ge19,which exhibits an itinerant ferromagnetic ground state, is investigated by scaling of the magnetic entropy change $[ \\Delta S _ { M } ( T , H ) ]$ .It is found that parameters $\\delta _ { F W H M }$ (the full width at half maximum), $- \\Delta S _ { M } ^ { m a x }$ (the maximum of the magnetic entropy change), and $R C P$ (the relative cooling power） of $\\Delta S _ { M } ( T )$ are governed by the power law of critical exponents. With the critical exponents, $\\Delta S _ { M } ( T , H )$ curves are scaled into a universal curve independent of temperature and field, which suggests that the magnetic transition is of a second order type. The universal collapse of $\\Delta S _ { M } ( T , H )$ indicates that the critical behavior of $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ can be well described by the scaling laws for the critical phenomenon.Moreover, the $\\Delta S _ { M }$ follows the power law of $H ^ { n }$ with $n ( T , H ) = d l n | \\Delta S _ { M } | / d l n ( H )$ . The temperature dependence of $n$ values reach minimum at $\\sim$ 71.5 K. Based on the magnetic specific change $\\Delta C _ { p } ( T , H )$ 5 the actual magnetic transition temperature is strictly determined as $T _ { C } = 7 1 . 3 \\pm 0 . 2 \\mathrm { ~ K ~ }$ for the single crystal Cr $_ { 1 1 }$ Ge19· ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 75.30.Sg, 75.40.-s, 75.40.Cx ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: magnetic entropy change; critical phenomenon; itinerant ferromagnetism; single crystal; scaling ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chiral magnetic material has triggered great interests recently due to the discovery of exotic non-collinear magnetic configurations, such as skyrmion, magnetic soliton, and chiral bobber [1-4]. These findings pave a distinctive way to the application in spintronics [5, 6]. These attractive magnetic configurations usually emerge in noncentrosymmetric helimagnetic compounds, such as MnSi, FeGe, Fe $_ { 1 - x }$ Co $x$ Si, and Cu $^ { 2 }$ OSeO $_ 3$ [7-10]. In a noncentrosymmetric structure, the lack of inversion symmetry usually results in the Dzyaloshinsky-Moriya (DM) interaction, which is 1\\~2 orders of magnitude smaller than the ferromagnetic coupling. The competition between the DM interaction and the ferromagnetic coupling causes the formation of the helimagnetic ground sate as well as the conical magnetic ordering in moderate magnetic fields [11]. Generally, non-collinear spin textures emerge just below the magnetic transition temperature in narrow ranges of field ( $H$ ）and temperature ( $T$ )[12-15]. Therefore, the investigation of non-collinear magnetic configurations is of great importance not only for application but also for fundamental physics [3]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Due to the noncentrosymmetric and chiral structure, $\\mathrm { { C r } _ { 1 1 } \\mathrm { { G e } _ { 1 9 } } }$ is a candidate material in which a non-collinear magnetic configuration is expected [16]. The cell of ( $\\mathrm { { \\dot { \\it { G r } } _ { 1 1 } \\mathrm { { \\dot { \\mathrm { { G e } } _ { 1 9 } } } } } }$ ， which belongs to tetragonal symmetry with space group $P \\bar { 4 } n 2$ ， is crystallized as Nowotny chimney ladders (NCLs) [17]. A chiral structure of Cr-Cr bonds can be found along the $c$ -axis. Recent investigations have demonstrated that $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ displays a complex itinerant ferromagnetic ground state [18-21]. However, the magnetic behavior of ${ \\mathrm { C r } } _ { 1 1 } { \\mathrm { G e } } _ { 1 9 }$ does not obey the Stoner model which is a conventional theory describing an itinerant ferromagnet [22]. Our previous study has suggested that the ferromagnetic ground state of Ci $_ { \\mathrm { : 1 1 } } \\mathrm { G e _ { 1 9 } }$ （204号 is formed by polarized magnetic moments along the $c$ -axis, while the long-range magnetic coupling is established within the $a b$ plane [23]. Meanwhile, for an itinerant ferromagnet with DM interaction，a quantum critical behavior may emerge when the helimagnetism is suppressed, such as non-Fermi-liquid behavior and unusual magnetic excitation [24-28]. Thus, the investigation of $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ is of great importance for understanding the magnetic interactions in noncentrosymmetric ferromagnets. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As we know, the magnetic entropy changes when the magnetic transition occurs, which provides an effective means to study the magnetic transition [29]. In this work, we investigate the critical phenomenon of the itinerant ferromagnetic Cr $^ { 1 1 }$ Ge19 single crystal by scaling of the magnetic entropy change $[ \\Delta S _ { M } ( T , H ) ]$ . With the critical exponents, the $\\Delta S _ { M } ( T , H )$ curves are wel scaled into a universal curve independent of temperature and field. Moreover, the actual magnetic transition temperature is strictly determined from the temperature dependence of $n$ values and the magnetic specific change $\\Delta C _ { p } ( T , H )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. EXPERIMENT ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A single crystal Cr $^ { 1 1 }$ Ge19 was synthesized by a chemical vapor transport (CVT） method as described by R. Neddermann et al [30]. The pieces of chromium and germanium in mol ratio of $4 5 : 5 5$ and about 5O mg iodine were put in an evacuated quartz tube. The tube was then placed in a two zone furnace and heated to 1053 K. After keeping for 4 days, the source end was kept at 1053 K and growth zone was raised to 1153 K. After 10 days growth, single crystals in millimeter size can be obtained. The chemical composition and phase purity were carefully checked elsewhere [23]. The measurement of magnetization was performed using a Quantum Design Vibrating Sample Magnetometer (SQUID-VSM). In order to ensure each curve was initially magnetized, the sample was firstly heated adequately above the phase transition temperature for ten minutes. Then, the measurement of the isothermal magnetization was carried out after cooling to the target temperature under zero magnetic field. The magnetic field was relaxed for two minutes before data collection. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 (a) shows the temperature dependence of magnetization $[ M ( T ) ]$ for single crystal $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ with the magnetic field $H / \\ d / c$ and $H / / b$ respectively. The lattice structure of $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ is crystallized as NCLs,as depicted in the inset of Fig. 1 (a). The cell belongs to tetragonal symmetry with equal $a$ and $b$ axes.A prominent paramagnetic-ferromagnetic transition occurs to the $M ( T )$ curves when $H / \\ d / c$ . However, this magnetic transition becomes weak when $H / / b$ , indicating that easy orientation of magnetization is along the $c$ -axis. The magnetic transition temperature $T _ { C } \\sim 7 2 ~ \\mathrm { K }$ is approximately determined from the sharpest point on $M ( T )$ curve with $H / \\ d / c$ . Generally, $T _ { C }$ can be roughly determined from the peak on $d M / d T$ . Figure 1(b) shows the $M ( T )$ curves under different fields with $H / \\ d / c$ ,and the upper-left inset gives $d M / d T$ vs. $T$ ： $T _ { C }$ determined from the minimum from $d M / d T ( T )$ （204 curves is plotted in the bottom-right inset of Fig. 1 (b),which shows that $T _ { C }$ determined by this method increases monotonously with the increase of $H$ .It obtained that $T _ { C }$ is $\\sim$ 86 K when $H = 1 0$ kOe,which is close to that reported by N. J.Ghimire,et al. from the polycrystalline sample [22]. Figure 1 (c) shows the initial isothermal magnetization $[ M ( H ) ]$ （204号 around $T _ { C }$ with $H / \\ d / c$ . The inset of Fig. 1(c） gives the $M ( H )$ curves with $H / / a , \\ H / / b$ ， $H / \\ d / c$ at 5 K,which confirms that the easy orientation of magnetization is along the $c$ -axis and that $a$ and $b$ -axis are equivalent in magnetism. According to the Stoner theory which is a conventional model describing the itinerant ferromagnet,the magnetic behavior should be follow [31]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ^ { 2 } = - \\frac { A } { B } + \\frac { 1 } { B } \\left( \\frac { H } { M } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $A$ and $B$ are parameters independent of $H$ . Equation (1) means that the Arrott plot of $H / M$ vs. $M ^ { 2 }$ should be a series of straight lines. However, it has been demonstrated that $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ does not obey the conventional Arrott plot [22]. Therefore, a modified Arrott plot of $H / M ^ { 1 / \\gamma }$ vs. $M ^ { 1 / \\beta }$ ( $\\beta$ and $\\gamma$ are critical exponents) is performed,as plotted in Fig. 1 (d). It gives that $\\beta = 0 . 3 4 5 ( 4 )$ and $\\gamma = 1 . 3 1 8 ( 2 )$ . The modified Arrott plot of $H / M ^ { 1 / \\gamma }$ vs. $M ^ { 1 / \\beta }$ （204号 exhibit straight lines in high field region,and the line at $T _ { C }$ goes through the origin. The intercept on the $H / M ^ { 1 / \\gamma }$ coordinate axis is plotted in the inset of Fig. 1(d),which shows that $T _ { C } \\sim 7 2 ~ \\mathrm { K }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on the thermodynamical theory, the magnetic entropy change $[ \\Delta S _ { M } ( T , H ) ]$ induced by the external field is given by: [32]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta S _ { M } ( T , H ) = \\int _ { 0 } ^ { H ^ { m a x } } \\left[ \\frac { \\partial S ( T , H ) } { \\partial H } \\right] _ { T } d H\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with Maxwell's relation: $[ \\partial S ( T , H ) / \\partial H ] _ { T } = [ \\partial M ( T , H ) / \\partial T ] _ { H }$ [33], $\\Delta S _ { M } ( T , H )$ is written as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta S _ { M } ( T , H ) = S _ { M } ( T , H ) - S _ { M } ( T , 0 ) = \\int _ { 0 } ^ { H ^ { m a x } } \\left[ { \\frac { \\partial M ( T , H ) } { \\partial T } } \\right] _ { H } d H\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $H$ is the external magnetic field, $T$ is the temperature, and $H ^ { m a x }$ is the maximum of external magnetic field. Based on the initial $M ( H )$ curves in Fig. 1 (c),the temperature dependence of $\\Delta S _ { M } \\ [ - \\Delta S _ { M } ( T ) ]$ curves under different $H$ are calculated, which are plotted in Fig. 2 (a). For each $- \\Delta S _ { M } ( T )$ curve, a maximum value appears around $T _ { C } \\sim 7 2 ~ \\mathrm { K }$ ，and the value of $- \\Delta S _ { M } ( T )$ almost decreases symmetrically on both sides. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The magnitude of $- \\Delta S _ { M } ( T )$ raises with the increase of $H$ ，and reaches a maximum value of $1 . 2 2 ~ \\mathrm { J . k g ^ { - 1 } K ^ { - 1 } }$ when $H = 7$ T.Meanwhile, the $- \\Delta S _ { M } ( T )$ curve broadens with the increase of $H$ . Figure 2 (b), (c), and (d) plot parameters for $\\delta _ { F W H M }$ (the full width at half maximum), $- \\Delta S _ { M } ^ { m a x }$ (the maximum of the magnetic entropy change), and $R C P$ (the relative cooling power） as a function of $H$ . Generally, $- \\Delta S _ { M } ^ { m a x }$ obeys the power law of $H$ （204 as [34, 35]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\Delta S _ { M } ^ { m a x } \\propto H ^ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $n$ depends on the magnetic state of the sample. Fitting of the $- \\Delta S _ { M } ^ { m a x } ( H )$ gives that $n = 0 . 5 9 6 ( 6 )$ , as shown in Fig. 2 (b). Theoretically, there is $n = 1 + ( \\beta - 1 ) / ( \\beta + \\gamma )$ when $T = T _ { C }$ (where $\\beta$ ， $\\gamma$ and $\\delta$ are the critical exponents） [34]. For $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ with $\\beta =$ 0.345(4), $\\gamma = 1 . 3 1 8 ( 2 )$ and $\\delta = 4 . 8 2 1 ( 2 )$ [23],it can be calculated that $n = 0 . 6 0 6 ( 7 )$ . The value obtained by the experiment agrees well with that deduced from the critical analysis. Moreover, $\\delta T _ { F W H M }$ is also governed by the power law, as given in Fig. 2 (c). The fitting of （20 $\\delta T _ { F W H M } ( H )$ gives that $\\delta T _ { F W H M } \\propto H ^ { 0 . 5 6 6 ( 1 ) }$ . Generally, $R C P ( S )$ is an important parameter for the magnetic entropy change, which is defined as [36]: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR C P ( S ) = - \\Delta S _ { M } ^ { m a x } \\times \\delta T _ { F W H M }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In fact, $R C P ( S )$ has the relation with $H$ as $R C P ( S ) = m H ^ { c }$ with $c = 1 { + } 1 / \\delta$ [37].Experimentally, it is obtained that $c = 1 . 1 6 7 ( 4 )$ . Based on the critical analysis, it gives that $c =$ （204号 $1 . 2 0 7 ( 4 )$ ， which approximates to the experimental result. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the scaling relation of the critical phenomenon, a universal scaling of $\\Delta S _ { M } ( T , H )$ has been proposed [34, 35, 37]. For a second-order magnetic transition，it is suggested that $\\Delta S _ { M } ( T , H )$ should collapse into a universal curve, which is independent of external magnetic field and temperature. However, for a first-order one,the scaling of $\\Delta S _ { M } ( T , H )$ should exhibit a dispersive behavior. The $\\Delta S _ { M } ( T , H )$ is normalized by $| \\Delta S _ { M } / \\Delta S _ { M } ^ { m a x } |$ ,and the temperature is normalized by reference temperature $T _ { r }$ into re-scaled temperature $\\theta$ ： After normalizing the curves, $\\boldsymbol { { \\mathit { I } } } _ { r 1 } ^ { \\prime }$ and $T _ { r 2 }$ are just corresponding to $\\theta = - 1$ and $\\theta = + 1$ respectively. The re-scaled temperature $\\theta$ is defined as [37]: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = \\left\\{ \\begin{array} { c } { \\theta _ { - } = ( T _ { C } - T ) / ( T _ { r 1 } - T _ { C } ) , T \\le T _ { C } } \\\\ { \\theta _ { + } = ( T - T _ { C } ) / ( T _ { r 2 } - T _ { C } ) , T > T _ { C } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { r 1 }$ and $T _ { r 2 }$ are the reference temperatures below and above $T _ { C }$ respectively,which corresponds to $\\Delta S _ { M } ( T _ { r 1 } , T _ { r 2 } ) = \\textstyle { \\frac { 1 } { 2 } } \\Delta S _ { M } ^ { m a x }$ . The construction of a universal scaling of the experimental $\\Delta S _ { M } ( T , H )$ are plotted inFig. 3 (a). The $\\Delta S _ { M }$ is normalized as $\\Delta S _ { M } / \\Delta S _ { M } ^ { m a x }$ ， and the temperature is plotted as $\\theta$ . All experimental data collapse into a single universal curve. The good convergence of the $\\Delta S _ { M } ( T , H )$ curves indicates the magnetic transition is of the second-order type. As one can see, this universal curve is independent of the external measurement conditions, which is just determined by the intrinsic magnetization. The inset of Fig. 3 (a) gives the field dependence of $T _ { r 1 }$ and $T _ { r 2 }$ ，which shows that both $T _ { r 1 }$ and $T _ { r 2 }$ （204号 are field dependent. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the critical phenomenon in a second order magnetic transition, the $\\Delta S _ { M } ( T , H )$ curves can also be scaled with the critical exponents. According to the scaled equation of state $\\begin{array} { r } { \\bigl [ \\frac { H } { M ^ { \\delta } } = f \\bigl ( \\frac { \\varepsilon } { M ^ { 1 / \\beta } } \\bigr ) \\bigr ] } \\end{array}$ ,Eq. (1)can be rewritten into another form [38,39]: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta S _ { M } ( T , H ) = H ^ { \\frac { ( 1 - \\alpha ) } { \\Delta } } g \\left( \\frac { \\varepsilon } { H ^ { \\frac { 1 } { \\Delta } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha$ ， $\\beta$ ， $\\gamma$ ， $\\delta$ ， $\\Delta$ are the critical exponents,and $\\varepsilon = ( T - T _ { C } ) / T _ { C }$ is the reduced temperature. There is relation: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { r } { \\alpha = 2 - 2 \\beta - \\gamma } \\\\ { \\Delta = \\delta \\times \\beta } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 (b) plots $\\frac { \\Delta S _ { M } } { H ^ { ( 1 - \\alpha ) / \\Delta } }$ vS. H1/:（ One can see all data for different magnetic fields and temperatures collapse into a universal curve. These $\\Delta S _ { M } ( T )$ curves under different $H$ exactly overlap with each other, which suggests that the critical behavior of $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ can be well described by the scaling laws for the critical phenomenon. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For a second order phase transition, $\\Delta S _ { M }$ follows the power law of $\\Delta S _ { M } \\propto H ^ { n }$ [34]. Therefore, the value $n$ can be calculated as: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn ( T , H ) = \\frac { d \\ln ( | \\Delta S _ { M } ( T , H ) | ) } { d \\ln ( H ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 (a) shows the field dependence of $- \\Delta S _ { M }$ at different temperatures. As can be seen,allisothermal entropy changes increase monotonically with the applied magnetic field for $\\mathrm { C r } _ { 1 1 } \\mathrm { G e } _ { 1 9 }$ . Based on Fig. 4(a), the temperature dependence of $n$ under different $H$ are calculated and shown in Fig. 4 (b). The $n$ value reaches $\\sim 0 . 8$ far below $T _ { C }$ , and approaches （204号 ${ \\sim } 1 . 8$ far above $T _ { C }$ . The minimum of $n ( T )$ for different $H$ locates at $T _ { C }$ . It is obtained that the minimum value of $n$ is 0.58 at $T _ { C } \\sim 7 1 . 5$ K,which is in agreement with that obtained from fiting of $- \\Delta S _ { M } ^ { m a x } ( H )$ plotted in Fig. 2 (b). The $n ( T )$ curves can be also well scaled by $\\theta$ , as shown in the inset of Fig. 4 (b). All values of $n$ and the tendency match the universal law for $n$ change [40, 41]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Generally, the magnetic phase transition $T _ { C }$ can be roughly determined by the peak on $d M ( T ) / d T$ vs. $T$ curve. However, in reality the external magnetic field has an effect on the peak,as shown in Fig. 1(b). Thus, $T _ { C }$ determined by this method is affected by the external field. The actual $T _ { C }$ is hard to be obtained strictly because the external magnetic field will affect the magnetic measurement. More strictly, the magnetic transition temperature can be actually obtained from the magnetic specific heat change $( \\Delta C _ { P } )$ .The $\\Delta C _ { P } ( T , H )$ can be obtained from the change of $\\Delta S _ { M } ( T , H )$ as [42]: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta C _ { p } ( T , H ) = C _ { p } ( T , H ) - C _ { p } ( T , 0 ) = T \\frac { \\partial \\Delta S _ { M } ( T , H ) } { \\partial T }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The temperature dependence of $- \\Delta C _ { P }$ under different $H$ is depicted in Fig. 5. Obviously, there is $- \\Delta C _ { P } < 0$ for $T < T _ { C }$ and $- \\Delta C _ { P } > 0$ for $T > T _ { C }$ . The $- \\Delta C _ { P } ( T )$ curve changes sharply from negative to positive value at $T _ { C }$ , corresponding to the change from ferromagnetic phase to paramagnetic region. It can be seen that all $- \\Delta C _ { P } ( T )$ curves change sharply almost at a same temperature point, regardless of different external fields. This phenomenon is also valid in other materials [41,42]. The actual magnetic transition temperature can be determined by temperature corresponding to the zero point of $\\Delta C _ { P }$ （204号 $[ \\Delta C _ { P } ( T , H ) | _ { T = T _ { C } } = 0 ]$ Subsequently, it is obtained that the actual magnetic transition temperature $T _ { C } = 7 1 . 3 \\ : \\pm$ （204号 0.2 K for the single crystal $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ .The $T _ { C }$ obtained from $\\Delta C _ { P } ( T , H )$ is slight smaller than that determined from the $M ( T )$ curve, indicating that $T _ { C }$ is slightly increased by the external magnetic field. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, the critical phenomenon of noncentrosymmetric $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ single crystal is studied by scaling of $\\Delta S _ { M } ( T , H )$ . The parameters of $\\Delta S _ { M } ( T , H ) \\ ( \\delta _ { F W H M } , - \\Delta S _ { M } ^ { m a x }$ ，and $R C P$ ）are governed by the power law of critical exponents. The $\\Delta S _ { M } ( T , H )$ curves are well scaled into a universal curve independent of $T$ and $H$ . The universal collapse of $\\Delta S _ { M } ( T , H )$ curves indicates that the magnetic transition is of a second order type and the critical behavior of $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ can be well described by the scaling laws for the critical phenomenon. The $\\Delta S _ { M }$ follows the power law of $H ^ { n }$ with $n ( T , H ) = d l n | \\Delta S _ { M } | / d l n ( H )$ . The temperature dependence of $n$ values reach the minimum at $\\sim 7 1 . 5$ K.Based on the magnetic specifc change $\\Delta C _ { P } ( T , H )$ , it is strictly obtained that the actual magnetic transition temperature ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$T _ { C } = 7 1 . 3 \\pm 0 . 2 \\ \\mathrm { K }$ for the single crystal $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ （号",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "V.ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the State Key Project of Fundamental Research of China through Grant No. 2O1lCBA00111, the National Natural Science Foundation of China (Grant Nos.11574322, U1332140, 11474289, U1532267,and 11474290), the Foundation for Users with Potential of Hefei Science Center (CAS) through Grant No. 2015HSC-UP001. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] X. Yu, Y. Onose, N. Kanazawa, J. Park, J. Han, Y. Matsui, N. Nagaosa, Y. Tokura, Nature (London） 465 (2010) 901.   \n[2] Y. Togawa, T. Koyama, K. Takayanagi, S. Mori, Y. Kousaka, J. Akimitsu, S. Nishihara, K. Inoue,A. S. Ovchinnikov,J.Kishine,Phys. Rev.Lett.108(2012）107202.   \n[3] F. N. Rybakov, A. B. Borisov, S. Blugel, N. S. Kiselev,Phys. Rev. Lett. 115 (2015) 117201.   \n[4] S.Muuhlbauer,B. Binz,F. Jonietz, C. Pfeiderer,A. Rosch,A. Neubauer,R. Georgi,P.Boni, Science 323 (2009） 915.   \n[5] A.Fert,V. Cros, J. Sampaio, Nat. Nanotechnol. 8 (2013) 152.   \n[6] X. Z. Yu, N. Kanazaw, Y. Onose, K. Kimoto, W. Z. Zhang, S. Ishiwata, Y. Matsui, Y. Tokura, Nat.Mater.10(2011） 106.   \n[7] F. Jonietz, S. Muhlbauer, C. Pfleiderer,A. Neubauer, W. Munzer,A. Bauer, T.Adams, R. Georgii, P. Boni, R.A. Duine, K. Everschor, M. Garst,A. Rosch, Science 330 (2010) 1648.   \n[8] K.Shibata, J. Iwasaki, N. Kanazawa, S. Aizawa, T. Tanigaki, M. Shirai, T. Nakajima, M. Kubota, M. Kawasaki, H. S. Park, D. Shindo, N. Nagaosa, Y. Tokura, Nat. Naonotechol.10 (2015) 589.   \n[9] P. Milde, D. Kohler, J. Seidel, L. M. Eng,A. Bauer, A. Chacon, J. Kindervater, S. Muhlbauer, C. Pfleiderer, S. Buhrandt, C. Schutte,A. Rosch, Science 340 (2013) 1076.   \n[10] T. Adams, A. Chacon, M. Wagner, A. Bauer, G. Brandl, B. Pedersen, H. Berger, P. Lemmens, C. Pfleiderer, Phys.Rev. Lett.108(2012) 237204.   \n[11] P. Bak and M. H. Jensen, J. Phys. C: Solid State Phys. 13 (1980) L881.   \n[12] U. K. Roβler,A.N. Bogdanov, C.Pfleiderer, Nature (London) 442 (2006) 797.   \n[13] A. Bauer ana U. Pneiaerer, Pnys. Kev.B 85(zUlz) z14418.   \n[14] A. Bauer, M. Garst, C. Pfleiderer, Phys. Rev. B 93 (2016) 235144.   \n[15] K. Tsuruta, M. Mito, H. Deguchi, J. Kishine, Y. Kousaka, J. Akimitsu, K. Inoue, Phys. Rev. B 93 (2016) 104402.   \n[16] M. N. Wilson, A. B. Butenko,A. N. Bogdanov, T. L. Monchesky, Phys. Rev. B 89 (2014) 094411.   \n[17] T. Caillat, J. P. Fleurial, A. Borshchevsky, J. Alloys Compd. 252 (1997) 12.   \n[18] H. Volenkle, A. Preisinger, H. Nowotny, A. Wittmann, Z. Kristallogr. 124 (1967) 9.   \n[19] V. L. Zagryazhskii, P. V. Geld, A. K. Shtolts, Sov. Phys. J. 11 (1968) 23.   \n[20] M. Kolenda, J. Stoch,A. Szytula, J. Magn. Magn. Mater. 20 (1980) 99.   \n[21] P. Pecheur, G. Toussaint, H. Kenzari, B. Malaman, R. Welter, J. Alloys Compd. 262-263 (1997) 363.   \n[22] N. J. Ghimire, M. A. McGuire, D. S. Parker, B. C. Sales, J. Q. Yan, V. Keppens, M. Koehler, R. M. Latture, D. Mandrus, Phys. Rev. B 85 (2012) 224405.   \n[23] H. Han, L. Zhang, X. D. Zhu, H. F. Du, M. Ge, L. S. Ling, L. Pi, C. J. Zhang, Y. H. Zhang, Anisotropic magnetic coupling with a two-dimensional characteristic in noncentrosymmetric Cr $^ { 1 1 }$ Ge19,where critical exponents $\\beta = 0 . 3 4 5 ( 4 )$ ， $\\gamma ^ { c a l } = 1 . 3 1 8 ( 2 )$ ，and $\\delta = 4 . 8 2 1 ( 2 )$ are obtained, to be pulished.   \n[24] N. Manyala, Y. Sidis, J. F. DiTusa, G. Aeppli, D. P. Young, Z. Fisk, Nature (London) 404 (2000) 581.   \n[25] C. Pfeiderer, S. R. Julian, G. G. Lonzarich, Nature (London) 414 (2001) 427.   \n[26] H. Watanabe, S.A. Parameswaran, S. Raghu, A. Vishwanath,Phys. Rev. B 90 (2014) 045145.   \n[27] C. Pfeiderer, G. J. McMullan, S. R. Julian, G. G. Lonzarich, Phys. Rev. B 55 (1997) 8330.   \n[28] D.A. Sokolov, M. C. Aronson,W. Gannon, Z. Fisk, Phys.Rev. Lett. 96 (2006) 116404.   \n[29] M. Ge,L. Zhang, D. Menzel, H. Han, C. Jin, C. Zhang, L. Pi, S. Tan, Y. Zhang, J. Alloys Compd. 649 (2015） 46.   \n[30] R. Neddermann, R. Wartchow, M. Binnewies, Z. anorg. allg. Chem. 624 (1998) 733.   \n[31] D. M. Edwards and E. P. Wohlfarth, Proc. Roy. Soc. A 303,127 (1968).   \n[32] V. Pecharsky, K. Gscheidner, J. Magn. Magn. Mater. 200 (1999) 44.   \n[33] D.J. Griffths, Introduction to electrodynamics (Third ed.). Prentice Hall. pp. 559-562.(1999).   \n[34] V. Franco,J. S. Blazquez,A. Conde,Appl. Phys. Lett. 89 (2006) 222512.   \n[35] V.Franco,A. Conde, J. M. Romero-Enrique, J. S. Blazquez, J. Phys.: Condens. Matter 20 (2008) 285207.   \n[36] J. Y. Fan, B. Hong, D. Lu, Y. G. Shi, L. S. Ling, L. Zhang, W. Tong, L. Pi, Y. H. Zhang, Physica B 405 (2010) 3120.   \n[37] V. Franco, A. Conde, Int. J. Refrigerat. 33(2010) 465.   \n[38] B. Widom, J. Chem. Phys. 43(1965) 3898.   \n[39] R. B. Griffiths,Phys.Rev. Lett. 423 (1969)17.   \n[40] R.Caballero-Flores, N. S. Bingham, M. H. Phan, M. A. Torija, C. Leighton, V. Franco,A. Conde,T. L. Phan, S.C. Yu,and H. Srikanth, J. Phys.: Condens. Matter 26 (2014) 286001.   \n[41] R. Mnassri, N. Chniba-Boudjada, A. Cheikhrouhou, J. Alloys Compd. 640 (2015） 183.   \n[42] X. X. Zhang, G. H. Wen, F. W. Wang, W. H. Wang, C. H. Yu, G. H. Wu, Appl. Phys. Lett. 77 (2000) 3072. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/654e596253a719cf3108e9238d669fe0d24e56d94f6ee43133d4c730ac7d2da8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIG.1: (Color online) (a） Temperature dependence of magnetization $[ M ( T ) ]$ for $\\mathrm { C r _ { 1 1 } G e _ { 1 9 } }$ with $H / \\ d / c$ and $H / / b$ axes (the inset depicts the crystal structure); (b) $M ( T )$ along the $c$ -axis under different $H$ (the upper-left inset gives the $d M / d T$ vs. $T$ , and the bottom-right plots $T _ { C }$ vs. $H$ )； (c) the initial isothermal magnetization $[ M ( H ) ]$ around $T _ { C }$ (the inset gives $M ( H )$ at $5 \\mathrm { ~ K ~ }$ with $H / \\mu$ ， （204号 $H / / b$ ，and $H / \\ d / c$ respectively)； (d) the modified Arrott plot of $H / M ^ { 1 \\gamma }$ vs. $M ^ { 1 / \\beta }$ (the inset gives the intercept as a function of temperature). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e63e3548bf7d1a3e134c17004b23539100431a005ead290801f6d3f5cc7411cb.jpg",
+        "img_caption": [
+            "FIG.2:(Color online）(a） Temperature dependence of $\\Delta S _ { M }$ $[ - \\Delta S _ { M } ( T ) ]$ under different $H$ (theinset plot $- \\Delta S _ { M } ( T )$ for $H = 1$ T); the parameters for (b) $- \\Delta S _ { M } ^ { m a x }$ ，（c） $\\delta _ { F W H M }$ , and (d) $R C P$ asa function of $H$ (solid curves are fitted)."
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/4212691a823dfc1d1e12240438f66bb622f441b25f14eb45ce7b1154476a3580.jpg",
+        "img_caption": [
+            "FIG.3:(Color online） Scaling of the $\\Delta S _ { M } ( T , H )$ curves:(a） the normalized $\\Delta S _ { M } ( T , H )$ asafunction of $\\theta$ (the inset gives $T _ { r 1 }$ and $T _ { r 2 }$ as a function of $H$ )； (b）scaled $\\Delta S _ { M } ( T , H )$ vs. scaledtemperature using critical exponents."
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/25de1f5981c1072e1ec69dbeba323bc03427723faec221cab4db9337e6663e13.jpg",
+        "img_caption": [
+            "FIG. 4: (Color online)(a) Field dependent of $- \\Delta S _ { M }$ for different temperatures; (b） the temperature dependence of $n$ under different $H$ (the inset gives $n$ vS. $\\theta$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/039d94152afdf45c2250220a4d50f17161af0faaa9f41d378552b2ab992fb67a.jpg",
+        "img_caption": [
+            "FIG.5: (Color online） Temperature dependence of $- \\Delta C _ { p }$ under different $H$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    }
+]

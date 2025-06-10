@@ -1,0 +1,267 @@
+# 基于条件随机场与信息熵的特定领域概念发现
+
+付瑶1，万 静1，邢立栋²
+
+(1．北京化工大学 信息科学与技术学院，北京 100029;2.中国科学院自动化研究所，北京 100190)
+
+摘要：针对特定领域内自动化识别既有概念和发现新概念的问题，提出了一种基于条件随机场和信息熵的抽取方法。通过使用条件随机场对文本中的概念词进行边界预测，与词典中的概念对比，筛选出新概念的候选项并找出其大概位置，然后由互信息和左右熵分别判断概念窗口内的概念内部结合度和概念边界自由度，从而发现新的专业概念。实验表明，使用该方法进行概念发现比单独使用条件随机场的方法有更好的效果，基于字和词的模型概念发现的准确率分别提升了 $2 0 . 0 6 \%$ 和 $4 6 . 5 4 \%$ 。
+
+关键词：概念识别；新概念发现；条件随机场；信息熵；特定领域 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.08.0623
+
+Crf and information entropy based method for new words discovery in specific domain
+
+Fu Yaol,Wan Jingl†, Xing Lidong² (1.ColegeofInformationScience&Technology,BeijingUniversityofChemicalTechnologyBeijingOo29,China;2. Institute of Automation,Chinese Academy of Sciences,Beijing 100190,China)
+
+Abstract: Aiming at the problemof automatic identification of existing concepts and discoveringnew concepts inaspecific field,a method basedonconditionalrandomfieldand informationentropyis proposed.Theconditionalrandomfieldis used to predictthe boundaryofconceptual words in text.Thecandidatesof the newconcept can be selected with the comparison totheexisting concepts inthe dictionaryandthe probablylocation in textis found.Thenthe mutual informationand theleft andright entropyareused tojudgethe interal degreeof integrationandthe boundary freedomof theconceptintheconcept window for discovering new professional concepts.Experiments show that theconcept discovery using this method has a beter effect than the method of using the conditional random field alone.The accuracyof the concept discovery based on word and words model is respectively improved by $2 0 . 0 6 \%$ and $4 6 . 5 4 \%$ ：
+
+Key words: concept recognition; newconcept discovery; conditional random field; information entropy; specific field
+
+# 0 引言
+
+近几年，科学研究的快速发展使得各领域的专业词汇层出不穷。通常情况下，特定领域的专业词汇大多常出现在对应领域的知识传播媒介中，它们有较多的特殊性和专业性，只有专业人员才会对这些词汇有一定的了解，而新的领域概念出现的速度随着研究的进步甚至已经超过了部分领域学者的认知速度。因此，如何高效、准确、全面地识别与发现专业领域的新词，具有非常重要的意义。
+
+在相关研究工作中，专业领域新词发现的方法主要分为基于规则的方法和基于统计的方法[1]。基于规则的新词发现方法需要构建规则库，即领域专家根据专业知识的发展以及语言学原理制定各领域构词的共性和个性规则，并依此进行新词发现。李明[2]利用改进后的Apriori算法对语料处理并生成关联规则，然后利用生成的规则对新的专业词汇进行抽取工作。Sasano等人[3]针对日语中出现的新词，利用衍生规则和象声词模式，通过在句子的格式框架中添加新节点的方式发现最优路径，以此实现对新词的识别，该方法对某些特定类别的新词有很好的识别效果。郑家恒等人[4根据汉语构词法建立规则库，通过调用“互斥性字串”过滤规则和构词规则发现新词。基于规则的方法发现新词的准确率较高，但受领域限制严重，专业词汇的更新速度快，需要不断地更新既有规则，构建成本较高。基于统计的新词发现方法是通过大量的语料计算词频、词共现概率等统计学特征来识别领域新词。Li等人[5提出了一种基于词内部结合度和边界自由度的方法，对分词产生的“散串”处理进行新词发现。天荣朋等人[6使用N-Gram 算法得到候选新词，再通过改进互信息和邻接熵对候选项扩展和过滤，结合词典筛选得到新词。Lei等人[7提出了一种层次聚类方法，将微博语料划分成具有不同主题的组，加强新词的统计特征，从而提高对新词提取的准确性。基于统计的方法不受领域限制，但由于数据稀疏，通常情况下识别的准确率不高。
+
+针对两种方法各自的缺点，不少学者提出了基于统计和规则的方法。杜丽萍等人[8利用互信息的改进算法与少量基本规则结合，实现了从语料中自动地识别网络新词，通过基于百度贴吧语料的实验，说明了该方法在大规模语料中发现新词的有效性。雷一鸣等人[9采用互信息统计模型加入向右邻元迭代的方法进行新词候选集的获取，并通过引入外部统计量的概念对低频词进行过滤筛选得到新词。周霜霜[10]采用人工启发式规则对微博新词进行分类和归纳，再通过使用改进的C/NC-value 算法融合CRF和SVM模型，提高了新词边界识别的准确率和低频新词识别的精度。基于统计和规则的方法结合了两者的优点，在新词识别方面往往可以取得比较好的效果。
+
+目前，多种机器学习方法也被应用到新词发现的任务中，并取得了较好的识别效果，如CRF（条件随机场）、HMM（隐马尔可夫模型）、SVM（支持向量机）、DT（决策树）等。陈飞等人[I归纳了许多区分新词边界的统计特征，利用CRF方法并综合这些特征在SogouT大规模语料上进行新词发现实验。丁祥武等人[12]在医疗领域文本结构化的过程中，使用word2vec将文本中的词转换为向量，通过词向量之间的得分高低表示词内部结合度的大小，再结合左右熵、词频等统计信息发现医疗文本中的新词。徐远方等人[13将候选新词与词特征向量化得到新词候选向量，并与训练得到的支持向量构建矩阵，通过SVM测试得到新词。
+
+本文提出一种新的基于CRF 模型结合互信息与左右熵的特定领域新词发现方法。首先由既有的专业词汇对语料进行标注，训练条件随机场；然后由训练得到的模型来识别出候选字符串，这时候选字符串中部分是完整的专业词汇，部分是不完整的专业词汇，其余为非专业词汇，过滤掉词表中已有的概念，剩余的字符串通过互信息对这些词进行拼接，通过左右熵对这些词进行筛选，得到新的概念。
+
+# 1 相关理论
+
+# 1.1条件随机场
+
+条件随机场（conditional randomfields，CRF）[l4]是一种判别式概率模型，是马尔可夫随机场的一种。它可以使用复杂、有重叠性和非独立的特征进行训练和推理，既能充分利用上下文信息作为特征，也可以添加其他的外部特征。通过该模型训练能够获取丰富的特征信息，同时可以解决最大熵模型中的标注偏置等问题。
+
+CRF模型如图1所示。顶点间的连线代表随机变量间的相依关系。在条件随机场中，随机变量 $Y$ 满足条件概率分布，给定的观察序列为随机变量 $\boldsymbol { \cal X }$ 0
+
+![](images/ddf988ea912e8e74c9099460ae64ef02c0cfe8f4797523c693fce360a4804513.jpg)  
+图1CRF图解Fig.1Graphic of CRF  
+图2算法流程Fig.2Algorithm flow
+
+设观察序列 $X = \{ X _ { 1 } , X _ { 2 } , X _ { 3 } \cdots X _ { n } \}$ ，这里的输入数据可以是文本中的字或者词等。其对应的状态序列为 $Y = \{ Y _ { 1 } , Y _ { 2 } , Y _ { 3 } , \cdots , Y _ { n } \}$ 0当给定观察序列 $\boldsymbol { \cal X }$ 的取值 $x$ 时，状态序列 $Y$ 取值为 $y$ 的条件概率的计算方法如下：
+
+$$
+p ( y | x ) { = } \frac { 1 } { Z ( x ) } { \prod _ { t = 1 } ^ { T } } \mathrm { e x p } \left\{ \sum _ { k = 1 } ^ { K } \theta _ { k } f _ { k } ( y _ { t } , y _ { t - 1 } , x _ { t } ) \right\}
+$$
+
+其中： $\theta _ { k }$ 是对应特征函数 $f _ { k }$ 的权重参数；特征函数中的 $y _ { t }$ 、$y _ { t - 1 }$ 分别表示文本当前输出状态和上一个输出状态； $x _ { t }$ 是当前输入状态； $Z ( x )$ 是归一化因子。其计算方法为
+
+$$
+Z ( x ) = \sum _ { y } \prod _ { t = 1 } ^ { T } \exp \left\{ \sum _ { k = 1 } ^ { K } \theta _ { k } f _ { k } ( y _ { t } , y _ { t - 1 } , x _ { t } ) \right\}
+$$
+
+在应用CRF的过程中，特征的选择直接影响到特征函数的有效性。特征的选择没有固定的形式，要根据目标领域、文本语言、文本表述特征等方面进行综合考虑。通常情况下会将输入状态序列特征叠加组合。
+
+# 1.2互信息
+
+互信息（mutual information，MI）[15]通常用来衡量两个随机变量之间的相互依赖程度。互信息越大，说明该二元组成为新词或者新词的一部分的可能性越大，即词内部结合度越大，通过与预设的阈值比较，当词内部结合度大于阈值时，即认为两者可以构成词语。两个随机变量 $x$ 和 $y$ 的互信息定义为
+
+$$
+M I ( x , y ) = \log _ { 2 } \frac { p ( x y ) } { p ( x ) p ( y ) }
+$$
+
+其中： $p ( x y )$ 是 $x$ 和 $y$ 的联合概率分布函数，即两者在语料里同时出现的概率； $p ( x )$ 和 $p ( y )$ 分别是 $x$ 和 $y$ 的边缘概率分布函数，即各自单独在语料中出现的概率。当 $M I ^ { ( x , y ) } > > 0$ 时，表明 $x$ 和 $y$ 是高度相关的，即 $x$ 和 $y$ 经常同时出现，字符串 $x y$ 构成新词的可能性更大；当 $M I ( x , y ) = 0$ 时，表明 $x$ 和 $y$ 是相互独立分布的；当 $M I ( x , y ) < < 0$ 时，表明 $x$ 和 $y$ 是互不相关的。
+
+# 1.3左右熵
+
+左右熵即词语的左右邻接熵（branch entropy，BE）[16],可以用来衡量词语左右邻接字符的不确定性。语料中一个有意义的词语往往会有较高的频率出现在不同文档中，具有较高的灵活性，即可以与各种不同的外部条件进行搭配，搭配的种类越多，说明这个词语越灵活，边界自由度越高。本文引入候选新词的左右熵作为新词边界自由度的量化手段。候选词 $w$ 的左右熵分别定义为
+
+$$
+H _ { l } = - \sum _ { w _ { l } \in s _ { l } } p ( w _ { l } \mid w ) \log _ { 2 } p ( w _ { l } \mid w )
+$$
+
+$$
+H _ { r } = - \sum _ { w _ { r } \in s _ { r } } p ( w _ { r } \mid w ) \log _ { 2 } p ( w _ { r } \mid w )
+$$
+
+其中： $s _ { l }$ 是候选词 $w$ 的左邻接字集合； $w _ { l }$ 是 $s _ { l }$ 中的元素； $s _ { r }$ 是 $w$ 的右邻接字集合； $w _ { r }$ 是 $s _ { r }$ 中的元素。如果候选词的左右熵都较大，则说明与该候选词左右相邻的词串种类较多，相邻词频率分布较均匀，候选词与相邻词构成新词的概率较低;如果候选词的左右熵中有一个较小，则表示与该候选词相邻的不同词串的频率分布并不均匀，此时，候选词与相邻频率较高的词串组成新词的概率较高。
+
+# 2 基于条件随机场与信息熵的特定领域概念发现
+
+本文将特定领域的概念发现视为预测语料文本序列边界的问题。将概念发现融合于语料分词的过程中，对比既有词表发现新概念。方法主要由语料标注、CRF模型训练和候选概念识别、互信息拼接与左右熵筛选三部分组成，如图2所示。
+
+开始互信息拼接与左右熵筛选+一语料标注 一 √↓ 统计拼接后概统计新概 十别模型 训练识 念词频 1 2 接词 ↓4 + 4 计算拼接后概 送代为新文本概 计算新概 念左右熵 新概念念识别 词频 念左右熵 文 ↑↓ ↓ 比较新概念与拼拼接概念大=1剔除重复 + 计算左右邻接 概念左右熵大小根据词性 词互信息分布拼接1 新概念大1 选择左右邻接 1新概念 词拼接 新概念↓CRF模型训练和候选概念识别 结束L
+
+# 2.1语料标注
+
+本文所用到的标注集如表1所示。所采用的是分词常用的BEMSN标注集，确定词首、词中、词尾、单个词与无关词。此外，分词需要标注的特征是词性，本文的词性标注详情参照《HanLP词性标注集》。
+
+表1标注集  
+Table 1 Annotation set   
+
+<html><body><table><tr><td>标注描述</td><td>标注符号</td></tr><tr><td>概念词首</td><td>B</td></tr><tr><td>概念词中</td><td>M</td></tr><tr><td>概念词尾</td><td>E</td></tr><tr><td>单个概念词</td><td>S</td></tr><tr><td>无关词</td><td>N</td></tr></table></body></html>
+
+# 2.2CRF模型训练和候选概念识别
+
+数据处理过程如图3所示，概念识别可以看做序列化数据的标注问题。利用分词工具对原始语料进行分词，并充分利用上下文信息和其他外部特征，分词的结果按照词表中的概念标注词性、词首、词中和词尾，输入为带有词性标记的词序列，如式（6）所示。
+
+$$
+W T = w _ { 1 } / t _ { 1 } w _ { 2 } / t _ { 2 } \cdots w _ { n } / t _ { n }
+$$
+
+其中： $n$ 表示句子被切分得到的词的个数； $t _ { i }$ 表示词； $w _ { i }$ 表示被标注的词性。
+
+利用标注的语料对CRF模型的参数进行训练，通过基于CRF模型的学习过程，得到领域概念的识别模型。
+
+![](images/8373fc7544c4c6ee3c5f5a9d9ff3ef041d2d445072774d60324b482026591e80.jpg)  
+Fig.3Training model graph   
+图5为原始数据的样例。图书中的所有文本作为本文实验语料。
+
+通过得到的概念识别模型，结合CRF 解码算法，对新的语料文本进行概念词边界的识别工程，即对部分词语进行拆分组合，最后输出一个最优的“词形/词性”序列 $W C ^ { * } / T C ^ { * }$ ，用式子可表示为
+
+$$
+W C ^ { * } / T C ^ { * } { = } w c _ { 1 } / t c _ { 1 } ~ w c _ { 2 } / t c _ { 2 } { \cdots } w c _ { i } / t c _ { i } { \cdots } w c _ { n } / t c _ { n }
+$$
+
+其中： $i \leq n$ ， $w c _ { i } = [ w _ { j } \cdots w _ { j + k } ]$ ， $t c _ { i } = [ t _ { j } \cdots t _ { j + k } ]$ ， $1 \leq k , j + k \leq n$ 。该过程如图4所示。
+
+![](images/0b74c1bfbed6bf121c89be07f80c58310d8ae505dd9134ec649e77c053e41552.jpg)  
+图3训练模型图  
+图4概念识别流程  
+Fig.4Extraction of concept graph   
+图5建筑工程图书文本  
+Fig.5Book text of construction project
+
+# 2.3互信息拼接与左右熵筛选
+
+经过条件随机场模型的识别得到候选概念词，其中不正确的新概念词多是由于字符串缺失不完整，本文提出的算法将对这些不正确的概念进行编辑。其基本思想是：统计不正确的概念词的左右候选词，计算相应的互信息，选取互信息值较大者拼接得到新词汇，再计算该新词汇的左右信息熵，取左右熵中的较小值作为新词的信息熵。如此循环递归，可得约束条件下，信息熵取最大值的新词即为发现的新概念。例如，通过条件随机场识别出候选概念词一一“施工过程仿真”，这是一个不完整的词，通过互信息拼接右词后得到新词一一“施工过程仿真分析”，计算“施工过程仿真分析”的左右信息熵，取左右熵中的最小值为其信息熵，与拼接过程中出现的其他候选词的信息熵进行比较，发现“施工过程仿真分析”的信息熵最大，即“施工过程仿真分析”为发现的新概念。具体算法如下：
+
+输入：候选概念词集合 $S = \{ S _ { 1 } , S _ { 2 } , S _ { 3 } , . . . , S _ { n } \}$ 。
+
+输出：信息熵最大时的概念词 $S _ { i } ^ { j } = \operatorname { a r g m a x } ( H _ { j } )$ 。
+
+1.foreach $i = \{ 1 , 2 , 3 . . . n \}$ do// $K _ { i }$ 为 $S _ { i }$ 的词频
+
+2.if $K _ { i } = 1$ / $p o s ( S _ { i } ^ { j } )$ 为词性分布拼接方法
+
+3. return $\begin{array} { r l } { S _ { i } ^ { ~ j } = } & { { } p o s ( S _ { i } ^ { j } ) } \end{array}$ ：
+
+4.else if $K _ { i } > 1 / / w _ { l } , w _ { r }$ 分别为 $S _ { i } ^ { \ j }$ 左右邻接词， $m \Dot { ( \boldsymbol { w } ) }$ （204号为求互信息方法
+
+5. foreach $j = \{ 1 , 2 , 3 . . . n \}$ do
+
+6. if $m i ( w _ { l } ) > m i ( w _ { r } )$
+
+7. $S _ { i } ^ { ~ j } \gets w _ { l } ~ S _ { i } ^ { j _ { - 1 } } \left. \right.$
+
+8. else
+
+9. $S _ { i } ^ { j }  S _ { i } ^ { j _ { - 1 } } ~ w _ { r }$ ；/ $s e t ( s )$ 为存储 $S _ { i } ^ { j }$ 方法
+
+10. $\operatorname { s e t } ( S _ { i } ^ { j } ) ;$ （
+
+11. end for $/ / \arg h ( s )$ 为求 $s e t ( S _ { i } ^ { j } )$ 中元素左右熵最大值时 $S _ { i } ^ { j }$ 的值
+
+13.end for
+
+# 3 实验设置及结果分析
+
+# 3.1实验数据集
+
+本文以建筑工程领域的图书期刊为语料集，对文中提出的方法在该语料集上进行了新词发现实验。共提取了70962个建工领域概念词汇，并利用这些概念标注了245本建筑工程领域图书。
+
+11283_|-TouchUp.txt - 记事本 □ X  
+文件（F)辑(E)格式(O)查看(V)帮助(H)  
+页码：9富 概况根8号支 上海市基设计研究院、案 作奠 达到的永平 翠与删药 组成赛到产 北業  
+地作 调研 美  
+意要稿 同射磊 不同形式的座谈 询会盛  
+特点1.新颖性  
+页码：1 体现套要个方面： 嘉制地 连 得养羊 支 楼 类 新次规范中昌 自  
+施塞或塞础工程的质量 般应满足要求 主控项 般项目 都有量花
+
+为了从字符和词汇两个不同的分词粒度研究信息抽取，本文将实验语料分为两组：一组利用HanLP分词工具对初步抽取的结果进行分词，并依照《HanLP词性标注集》附加词性信息，另一组则直接以字符作为实验数据。
+
+本文采用如图6中的格式整理实验数据，其中每一种标注的第一列是待识别词，第二列是词性特征，第三列是正确标注。
+
+# 3.2实验方案
+
+本文使用特征模板辅助生成特征函数，模板文件如图7所示，其中的每一行是一个模板。每个模板都由%x[Row,Column]来指定输入数据中的每一个单元。Row代表当前单元的行偏移，Column代表列位置。
+
+实验采用 $\mathrm { C R F } { + } { + } 0 . 5 8 ^ { 2 }$ 作为CRF的实现工具。为了方便表述，将前面提到的特征集分别用字母做标志，如表2所示。
+
+本书rN。WN
+
+<html><body><table><tr><td>较dN 全面ad N</td><td></td></tr><tr><td>较dN</td><td># Unigram</td></tr><tr><td>系统nS</td><td>U00:%x[-2.0]</td></tr><tr><td>地ude2 N</td><td>U01:%x[-1,0]</td></tr><tr><td>叙述vN</td><td>U02:%x[0.0]</td></tr><tr><td>了ule N</td><td>U03:%x[1,0]</td></tr><tr><td>湿陷性nz B</td><td>U04:%x[2.0]</td></tr><tr><td>黄土nE</td><td>U05:% x[-1,0]/%x[0,0]</td></tr><tr><td>地区nN</td><td>U06:%x[0,0]/%x[1,0]</td></tr><tr><td>工业nN</td><td></td></tr><tr><td>与ccN</td><td>U10:%x[-2,1]</td></tr><tr><td>民用bB</td><td>U11:%x[-1,1]</td></tr><tr><td>建筑nE</td><td>U12:%x[0,1]</td></tr><tr><td>的nN</td><td>U13:%x[1,1]</td></tr><tr><td>设计vn N</td><td>U14:%x[2,1]</td></tr><tr><td>与cc N</td><td>U15:%x[-2,1]/%x[-1,1]</td></tr><tr><td>施工 vn N</td><td>U16:%x[-1,1]/%x[0,1]</td></tr><tr><td>，wN</td><td>U17:%x[0,1]/%x[1,1]</td></tr><tr><td>是vshi N</td><td>U18:%x[1,1]/%x[2,1]</td></tr><tr><td>我国nN</td><td></td></tr><tr><td>西北nsN</td><td>U20:%x[-2,1]/%x[-1,1]/%x[0,1]</td></tr><tr><td>地区nN</td><td>U21:%x[-1,1]/%x[0,1]/%x[1,1]</td></tr><tr><td>三十mN</td><td>U22:%x[0,1]/%x[1,1]/%x[2,1]</td></tr><tr><td>多年来dN</td><td></td></tr><tr><td>地基nB</td><td>U23:%x[0,1]</td></tr><tr><td>与ccM</td><td></td></tr><tr><td>基础nM</td><td></td></tr><tr><td>工程nE</td><td># Bigram B</td></tr><tr><td>的nN</td><td></td></tr><tr><td>经验nN</td><td></td></tr><tr><td>总结vN</td><td></td></tr></table></body></html>
+
+实验4：融合实验。利用实验二中的识别模型标注新文本识别新概念，利用互信息与左右熵进行拼接与筛选，通过与其他实验组做对比，判断词性特征与识别后加入互信息、左右熵对文本识别的影响。
+
+# 3.3实验结果与分析
+
+实验结果如图8所示。图中WP表示新词发现的识别准确率，WR表示新词发现识别召回率，WF分别表示新词发现的 $F$ 值， $N P$ 表示建筑工程领域概念的识别准确率，NR表示建筑工程领域概念的识别召回率，NF表示建筑工程领域概念识别的 $F$ 值。
+
+基于字或词的CRF对比实验结果如图8所示。即实验1表明，以字作为识别的基本单元时，准确率和召回率都比以词作为基本单元时高。采用CRF模型，并以字作为基本单位时，其召回率在新词发现或概念识别上分别比以词作为基本单位的最好识别水平高 $3 . 5 6 \%$ 或 $5 . 7 \%$ 。
+
+100.00%   
+90.00%   
+70.00%0 60.00% 川   
+50.00%   
+40.00%   
+30.00%   
+20.00%   
+10.00% ： 0.00% WP WR WF NP NR NF ■CRF+CHAR ■CRF+WORD
+
+词性特征有效性判定实验结果如图9所示。实验2表明，以词作为基本单元，加上词性特征比未加入词性特征，在信息抽取的召回率上有提高。
+
+90.00%   
+80.00%0 60.00% 川   
+50.00%   
+40.00%   
+30.00%   
+20.0% T 1   
+0.00% WP WR WF ■CRF+WORD■CRF+WORD+POS
+
+表2特征表示方法  
+Table 2Feature representation method   
+
+<html><body><table><tr><td>词性特征</td><td>POS</td></tr><tr><td>互信息拼接</td><td>MI</td></tr><tr><td>左右熵筛选</td><td>EN</td></tr><tr><td>以词为基本单位</td><td>WORD</td></tr><tr><td>以字为基本单位</td><td>CHAR</td></tr></table></body></html>
+
+本文共做了四组交叉实验对上文所提算法的有效性进行验证。
+
+实验1：基于字或词的CRF对比实验。研究CRF 模型结合不同粒度的标注方式（词或者字）对原始文本做信息抽取工作的效果;
+
+实验2：词性特征有效性判定实验。在以词为基本单元的实验组中，通过加入词性特征判断其对抽取效果的影响;
+
+实验3：加入互信息与左右熵交叉对比实验。在以字或词为基本单元的实验组中，采用加入互信息和左右熵的方法进行实验，以对比其与未加入互信息和左右熵时对概念识别的影响;
+
+实验3的结果如图10所示。数据表明，在识别后加入互信息和左右熵，概念发现的效果有明显提升。基于字的模型在识别后加入互信息和左右熵，其准确率提升了 $2 0 . 0 6 \%$ ，基于词的模型在识别后加入互信息与左右熵，其准确率提升了$4 6 . 5 4 \%$ 。经对比发现，前者在识别效果的提升上低于后者，分析认为是基于字的模型拼接字不如基于词的模型直接拼接词得到的结果更完整，从而影响了效果。
+
+融合实验，即使用本文提出的概念识别方法进行的实验，通过加入了词性特征的条件随机场模型，提升了识别的准确率和效率，减少了运行所需要的时间，找到了新概念的大概位置，加入词性分布并利用互信息和左右熵进行拼接筛选，取得了很好的效果。实验结果如图11所示。
+
+小结：利用互信息与左右熵进行条件随机场识别后处理可以有效提高概念发现工作的准确率及召回率。条件随机场识别的作用在于发现概念所在的大概位置，基于这个位置利用信息论的方法可以提取出完整准确的建工领域概念。此外，基于字的识别方法与基于词的识别方法对比，通过条件随机场模型发现的概念位置基本一样，经过信息论方法处理后其识别的准确率和召回率前者低于后者，另外，加入词性特征的基于词的模型在识别后加入互信息与左右熵，处理得到的结果效果最好。
+
+![](images/270479a5e461db58728d4e61506caeae6fd2ebc29ef931457d83ce8ec52d905c.jpg)  
+图10加入互信息与信息熵影响
+
+![](images/39cbc75756f56b9232daf8d836774d7203ef85ad97c121de9ce2864002903284.jpg)  
+Fig.10Effect of joining mutual information and information entropy   
+图11多特征融合实验  
+Fig.11Multi feature fusion experiment
+
+# 4 结束语
+
+本文提出了基于条件随机场与左右熵的特定领域概念识别方法，即对语料进行标注，由处理过的数据训练条件随机场模型，并用其识别候选词，通过词表过滤掉已有概念，对其余候选词使用互信息和左右熵进行拼接筛选，得到新的概念。实验使用建工领域的语料集，并分别从分词粒度、特征选择、加入互信息和左右熵处理等维度验证了文本提出的方法在建筑工程领域的概念发现与识别中的有效性。实验结果表明，该方法在不增加人工标注的条件下提高了信息抽取的准确率和召回率，同时可以提高识别的效率。另需注意，标注集的质量、机器的性能等会很大程度上影响识别模型的训练，从而影响概念识别的效果。
+
+# 参考文献：
+
+[1]张海军，史树敏，朱朝勇，等．中文新词识别技术综述[J].计算机 科学,2010,37 (3): 6-10.(Zhang Haijun,Shi Shumin,Zhu Chaoyong, et al.Survey of Chinese new words identification [J].Computer Science,2010,37(3):6-10.)   
+[2]李明.针对特定领域的中文新词发现技术研究[D].南京：南京航 空航天大学，2O12.(Li Ming．New words discovery research for specific areas [D]. Nanjing:Nanjing University of Aeronautics and Astronautics,2012.）   
+[3]Sasano R,Kurohashi S,Okumura M.A simple approach to unknown word processing in Japanese morphological analysis [C]//Proc of International Joint Conference on Natural Language Processing.2013: 162-170.   
+[4]郑家恒，李文花．基于构词法的网络新词自动识别初探[J].山西大 学学报：自然科学版，2002,25(2):115-119.(Zheng Jiaheng，Li
+
+Wenhua.A study on automatic identification for internet new words
+
+according to Word-building rule [J]. Journal ot Shanxi University:Na t. Sci.Ed.,2002,25(2): 115-119.)   
+[5]Li Wenkun, Zhang Yangsen, Chen Ruoyu. New Word detection based on inner combination degree and boundary freedom degree of word [J]. Application Research of Computers,2015,32(8),2302-2304.   
+[6]天荣朋，许国艳，宋健．基于改进互信息和邻接熵的微博新词发现 方法[J].计算机应用,2016,36(10):2772-2776.(Yao Rongpeng,Xu Guoyan, Song Jian. Micro-blog new word discovery method based on improved mutual information and branch entropy [J].Journal of Computer Applications,2016,36(10): 2772-2776.)   
+[7]Lei K, Zhang W Y, Zhang K,et al. Extracting unknown words from Sina Weibo via data clustering [C]//Proc of IEEE International Conference on Communciations.2016: 1182-1187.   
+[8] 杜丽萍，李晓戈，于根，等．基于互信息改进算法的新词发现对中文 分词系统改进[J]．北京大学学报：自然科学版，2016,52(1):35-40. (Du Liping,Li Xiaoge,Yu Gen, et al.New word detection based on an improved pmi algorithm for enhancing segmentation system [J].Acta Scientiarum Naturalium Universitatis Pekinensis,2016,52(1):35-40.）   
+[9] 雷一鸣，刘勇，霍华．面向网络语言基于微博语料的新词发现方法 [J].计算机工程与设计,2017,38(3):789-794.(Lei Yiming,Liu Yong, Huo Hua. New word discovery based on microblog corpus for network language [J].Computer Engineering and Design，2O17,38(3): 789-794.)   
+[10]周霜霜．基于规则与统计相融合的微博新词发现研究[D]．北京： 北京交通大学,2017.(Zhou Shuangshuang.Combinating of rules and statistics for new word detection of microblog text.Beijing: Beijing Jiaotong University,2017.）   
+[11]陈飞，刘奕群，魏超,等．基于条件随机场方法的开放领域新词发现 [J]．软件学报,2013,24(5):1051-1060.(Chen Fei,Liu Yiqun,Wei Chao,et al. Open domain new word detection using condition random field method [J]. Journal of Software,2013,24 (5): 1051-1060.   
+[12]丁祥武，张夕华．医疗领域文本结构化[J].计算机工程与设计， 2017，38(10):2873-2878.(Ding Xiangwu,Zhang Xihua.Text structuralization in medical field [J]. Computer Engineering and Design, 2017,38(10): 2873-2878.)   
+[13]徐远方，李成城．基于 SVM 和词间特征的新词识别研究[J].计算 机技术与发展,2012,22(5):134-136.(Xu Yuanfang,Li Chengcheng. Research on new word identification based on svm and word characteristics [J]. Computer Technology and Development,2012,22 (5): 134-136)   
+[14] Lafferty J，McCallum A，Pereira F. Conditional random fields: probabilistic models for segmenting and labeling sequence data [C]// Proc of International Conference on Machine Learning, Masschusetts. 2001: 282-289.   
+[15] Ong T H,Chen H.Updateable PAT-tree approach to Chinese key phrase extraction using mutual information: a linguistic foundation for knowledge management [Cl// Proc of the 2nd Asian Digital Library Conference.1999:63-84.   
+[16]刘伟童，刘培玉，刘文锋,等．基于互信息和邻接熵的新词发现算法 [J/OL].计算机应用研究,2019,36(5）.(Liu Weitong,LiuPeiyu,Liu Wenfeng，et al. New word discovery algorithm based on mutual information and branch entropy [J/OL]. Application Research of Computers，2019，36(5）．）(http://www.arocmag.com/article/ 02-2019-05-017. Html.)

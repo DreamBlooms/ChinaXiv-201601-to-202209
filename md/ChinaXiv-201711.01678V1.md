@@ -1,0 +1,205 @@
+秋冬季补光时间和强度对白羽王鸽产蛋性能、血清生理生化指标及抗氧化能力的影响胡　平1,2 李国勤² 陶争荣² 雷大义³ 温积辉4 李春梅1\* 卢立志 2\*
+
+（1.南京农业大学动物科技学院，南京210095；2.浙江省农业科学院畜牧兽医研究所，杭州310021；3.平阳县兴顺畜禽养殖场，温州 325000；4.平阳敖峰鸽业有限公司，温州 325000)摘要：本试验旨在研究秋冬季不同补光时间和强度对白羽王鸽产蛋性能、血清生理生化指标及抗氧化能力的影响。试验将280只健康的8月龄白羽王鸽（全为母鸽）进行两两配对，共140 对即140笼，并按体重相近的原则，随机分成5组，每组4个重复，每个重复7笼（14只)。各组补光时间和强度分别为： $^ { 0 \mathrm { h } }$ 、 $0 \mathrm { l x }$ ， $^ { 4 \mathrm { h } }$ 、 $3 1 . 2 \mathrm { l x }$ ， $\boldsymbol { 4 } \mathrm { h }$ 、 $2 0 . 5 \mathrm { l x }$ ，6h、31.2 lx，6h、$2 0 . 5 \mathrm { l x }$ 。试验期 $1 2 5 { \mathrm { ~ d ~ } }$ 。结果表明：1) $^ { 4 \mathrm { h } }$ 、 $2 0 . 5 \mathrm { l x }$ ，6h、 $3 1 . 2 \mathrm { l x }$ 组产蛋率显著高于 $_ { 0 \mathrm { h } }$ 、0lx组( $. P { < } 0 . 0 5 \$ )，各组平均日采食量、平均蛋重无显著差异（ $P { > } 0 . 0 5$ ）。2）6h、31.2lx，6h、$2 0 . 5 \mathrm { l x }$ 组血清免疫球蛋白M含量显著低于 $0  { \mathrm { h } } , 0  { \mathrm { l x } }$ 组( $. P { < } 0 . 0 5$ )。4h、31.2 lx，4h、20.5 lx,6 h、31.2lx 和6h、20.5lx 组血清谷草转氨酶活性均高于 $\boldsymbol { 0 } \mathrm { h }$ 、0lx组（ $. P { > } 0 . 0 5$ )。3）各组血清催乳素（PRL）、雌二醇 $( \mathrm { E } _ { 2 }$ )、促卵泡激素、黄体生成素和孕酮含量无显著差异（ $. P { > } 0 . 0 5 )$ ，但0h、0lx 组血清PRL含量高于其他各组，血清 $\mathrm { E } _ { 2 }$ 含量低于其他各组。4）与 $_ { 0 \mathrm { h } }$ 、 $0 \mathrm { l x }$ 组相比，6h、 $3 1 . 2 \mathrm { l x }$ 组血清超氧化物歧化物活性显著降低（ $\scriptstyle \cdot P < 0 . 0 5 )$ ，血清丙二醛（MDA）含量显著升高（ ${ \cdot } P { < } 0 . 0 5$ 。 $_ { 0 \mathrm { h } }$ 、 $0 \mathrm { l x }$ ， $\boldsymbol { 4 } \mathrm { h }$ 、 $2 0 . 5 \mathrm { l x }$ ，6h、 $2 0 . 5 \mathrm { l x }$ 组肝脏MDA含量显著低于 $6 \mathrm { h }$ ，$3 1 . 2 \mathrm { l x }$ 组（ $P { < } 0 . 0 5 \mathrm { { ) } }$ )。由此可见，补光时间为 $^ { 4 \mathrm { h } }$ 和强度为 $\boldsymbol { 4 } \mathrm { h }$ 、 $2 0 . 5 \mathrm { l x }$ 时，白羽王鸽可获得较好的产蛋性能。补光时间过长(6 h)且强度过高 $( 3 1 . 2 ~ \mathrm { l x } )$ 可显著降低白羽王鸽抗氧化能力，
+
+补光强度应不超过 $2 0 . 5 \mathrm { l x }$ 。
+
+关键词：秋冬季；补光；白羽王鸽；产蛋性能；血清生理生化指标；抗氧化能力中分类号：S836 文献标识码： 文章编号：
+
+光照作为一种重要调节因子，可以通过改变动物行为和生理途径影响动物福利和生产性能[]。光照主要通过神经系统或直接透过颅骨将光信息转变为生物信息作用于下丘脑，继而通过下丘脑-垂体-卵巢进行繁殖调节和生长调控[2-3]。当光照时间超过 $1 2 \mathrm { ~ h ~ }$ 时，会提高禽类的产蛋率、生长速率以及料重比[4-5]。牛竹叶等[研究发现，当光照强度由 $9 . 1 5 \mathrm { l x }$ 提高到19.51lx 时，蛋鸡的产蛋率显著提高。然而，有学者发现当连续光照时间过长且强度较高时，禽类疾病发生率提高，影响动物福利[7-9]。郭丽艳等[10]也发现，短时间光照和自然光照更加有利于发挥黄羽肉鸡的抗应激和免疫能力。光照对于蛋鸡产蛋性能的研究较多，而鸽养殖的光照模式却鲜有研究。目前鸽养殖主要为半开放模式，因此本试验为人工补光，主要通过额外增加不同光照时间和强度，综合比较其对白羽王鸽产蛋性能、血清生理生化指标及抗氧化能力的影响，探究不同补光时间和强度在鸽养殖过程中的应用效果，为光照在鸽产蛋中的应用提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+试验采用双因子试验设计，补光时间和强度作为2个因子。将280只健康的8月龄白羽王鸽（全为母鸽）进行两两配对，共140 对即140笼，并按体重相近的原则，随机分成 5组，每组4个重复，每个重复7笼（14只)，分为A、B、C、D和E组（各组间有墙隔离，互不影响)。其中A组舍内不安装灯泡，B、D组舍内安装了3盏 $4 0 \mathrm { w }$ 灯泡，每盏灯泡间距$2 \mathrm { m }$ ，灯泡设置在走道上方，距离白羽王鸽背部 $1 0 5 \mathrm { c m }$ ，光强检测仪测定4个位置光照强度取平均值约为31.2Ix；C、E组舍内安装了2盏40W灯泡，每盏灯泡间距 $3 \mathrm { m }$ ，灯泡设置在走道上方，距离白羽王鸽背部 $1 0 5 \mathrm { c m }$ ，光强检测仪测定4个位置光照强度取平均值约为20.5lx。各组（A\~E组）补光时间和强度分别为 $0 \mathrm { h }$ 、0lx，4h、31.2 lx，4h、20.5lx，6h、31.2lx，6h、20.5lx，每组自然光照时间约为 $1 0 \mathrm { { h } }$ ，其中A组为对照组，自然光照，不进行额外补光；B、C组补光时间段为05:00—07:00 和17:00—19:00；D、E 组补光时间段为04:00-07:00 和17:00—20:00。试验期于2015年9月1日至2015年12月25日（125d)，前10 d为预试期，笼养。
+
+# 1.2 基础饲粮及饲养管理
+
+基础饲粮参照NRC（1994）家禽营养需要配制。基础饲粮组成及营养水平见表1，营养砂组成见表2。试验期间，每天08:30和15:00进行喂料，09:30进行捡蛋和称重，定期打扫圈舍以及食槽、营养砂槽、水槽，保持圈舍通风良好且清洁。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis)   
+
+<html><body><table><tr><td></td></tr><tr><td>项目Items 含量Content</td></tr><tr><td>原料 Ingredients</td></tr><tr><td>玉米Corn 49.00</td></tr><tr><td>小麦 Wheat 13.50</td></tr><tr><td>蚕豆 Broad bean 20.00</td></tr><tr><td></td></tr><tr><td>豆粕 Soybean meal 10.00</td></tr><tr><td>麸皮Bran 5.00</td></tr><tr><td>骨粉 Bone meal 2.00</td></tr><tr><td>预混料 Premix1) 0.50</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能 ME/(MJ/kg) 11.64</td></tr></table></body></html>
+
+<html><body><table><tr><td>钙Ca 0.79</td></tr><tr><td>有效磷 AP 0.72</td></tr><tr><td>赖氨酸Lys 0.85</td></tr><tr><td>蛋氨酸 Met 0.26</td></tr></table></body></html>
+
+1'预混料为每千克饲粮提供 The premix provided the following per kilogram of the diet:VA5 000 IU，VD 600 IU，VE 42 IU, $\mathrm { V K } _ { 3 } 3 . 3 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 5 . 2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 7 . 2 \ : \mathrm { m g }$ ， $\mathbf { V B } _ { 1 2 } 0 . 0 4 5 \ : \mathrm { m g }$ 生物素 biotin $0 . 3 4 ~ \mathrm { \ m g }$ ，叶酸 folic acid $1 . 8 0 ~ \mathrm { \ m g }$ ，烟酸nicotinic acid $4 8 . 0 0 ~ \mathrm { \ m g }$ ，泛酸pantothenic acid $1 6 . 0 0 \mathrm { m g }$ ， $\mathrm { C u 1 0 . 0 0 m g }$ ，Fe $6 0 . 0 0 \mathrm { m g }$ ， $\mathrm { Z n 8 0 . 0 0 m g }$ ， Mn 50.00 mg, $\mathrm { ~ I ~ 0 . 8 0 ~ m g }$ 。
+
+2）营养水平为计算值。Nutrient levels were calculated values.
+
+# 表2营养砂组成
+
+Table 2Composition of nutrition sand %   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td></tr><tr><td>木炭 Charcoal</td><td>4.0</td></tr><tr><td>中砂 Medium sand</td><td>35.0</td></tr><tr><td>骨粉 Bone meal</td><td>10.0</td></tr><tr><td>贝壳粉 Shell meal</td><td>15.0</td></tr><tr><td>石灰Lime</td><td>8.0</td></tr><tr><td>黄泥 Yellow mud</td><td>18.0</td></tr><tr><td>龙胆草 Chinese gentian</td><td>0.3</td></tr><tr><td>甘草粉 Licorice powder</td><td>0.2</td></tr><tr><td>微量元素 Trace elements</td><td>5.5</td></tr><tr><td>食盐 NaCl</td><td>4.0</td></tr></table></body></html>
+
+微量元素主要成分为 Main ingredients of trace elements were:Fe，Cu，Mn，Zn，Co。
+
+# 1.3 测定指标
+
+# 1.3.1 产蛋性能
+
+试验期间，准确记录每组每日产蛋量、蛋重以及每组采食量，计算产蛋率、平均蛋重以及平均日采食量。
+
+产蛋率（ $\%$ ） $\mathrm { \Delta = } ( 7 \mathrm { ~ d ~ }$ 产蛋总数/每组蛋鸽数) $\times 1 0 0$ 平均蛋重（g） $\mathbf { \sigma } = \mathbf { \sigma }$ 每天每组产蛋总重/每天每组产蛋总数; 平均日采食量（g/d) $\mathbf { \sigma } = \mathbf { \sigma }$ 每天每组采食量/每组蛋鸽数。
+
+# 1.3.2 血清生理生化指标
+
+饲养试验结束后，每组每个重复随机抽取2只试验鸽，颈部采血获得血样，静置一段时间，血样凝固析出血清后，小心将上层血清吸入到已准备的EP 管中，并在4℃下 $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，再将上清吸入新EP 管并放入-20℃冰箱保存。测定血清中谷草转氨酶（AST）、谷丙转氨酶（ALT）活性及白蛋白（ALB）、总蛋白（TP)、钙、磷、免疫球蛋白A（IgA）、免疫球蛋白G（IgG）和免疫球蛋白M（IgM）含量。另外，测定血清中催乳素（PRL）、雌二醇（E2）、促卵泡激素（FSH）、黄体生成素（LH）和孕酮（P）含量，其中IgA、IgG、IgM、PRL、 $\mathrm { E } _ { 2 }$ 、FSH、LH和P含量均采用放免法检测，其余指标均采用比色法检测，以上指标由北京华英生物技术研究所检测。
+
+# 1.3.3 肝脏和血清抗氧化指标
+
+试验鸽采血后放血致死。打开腹腔，取出肝脏液氮保存，用于测定组织总抗氧能力（T-AOC)，超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-Px）活性，丙二醛（MDA）、和还原型谷胱甘肽（GSH）含量。血清获取方法同1.3.2，以上试剂盒均购自南京建成生物工程研究所。
+
+# 1.4 数据分析
+
+采用 Excel2013和SPSS18.0统计软件对试验数据进行处理和方差分析，各组数据采用平均值±标准误（mean±SE）表示，Duncan 氏法进行差异显著性比较， $P { < } 0 . 0 5$ 为差异显著，$P { > } 0 . 0 5$ 为差异不显著。
+
+# 2结果
+
+2.1不同补光时间和强度对白羽王鸽产蛋性能的影响  
+如表3所示，不同补光时间和强度可提高白羽王鸽的产蛋率，其中4h、 $2 0 . 5 \mathrm { l x }$ ，6h、31.2lx 组产蛋率显著高于 $\boldsymbol { 0 } \mathrm { h }$ 、 $0 \mathrm { l x }$ 组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ， $\boldsymbol { 4 } \mathrm { h }$ 、 $3 1 . 2 \mathrm { l x }$ ，6h、 $2 0 . 5 \mathrm { l x }$ 组产蛋率高于0h、0lx组，但差异不显著（ $. P { > } 0 . 0 5 \$ ， $\boldsymbol { 4 } \mathrm { h }$ 、 $2 0 . 5 \mathrm { l x }$ 组产蛋率最高。不同补光时间和强度对白羽王鸽平均蛋重和平均日采食量无显著影响（ $P { > } 0 . 0 5 \$ 。 $\boldsymbol { 4 } \mathrm { h }$ 、31.2lx，4h、20.5lx，6h、31.2lx 和6h、 $2 0 . 5 \mathrm { l x }$ 组平均日采食量均高于 $_ { 0 \mathrm { h } }$ 、 $0 \mathrm { l x }$ 组。
+
+# 表3不同补光时间和强度对白羽王鸽产蛋性能的影响
+
+Table 3Effects of different supplementary lighting time and intensity on laying performance of   
+Columba   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="5">组别 Groups</td></tr><tr><td>O h、0lx</td><td>4 h、31.2 lx</td><td>4 h、20.5 1x</td><td>6 h、31.2 1x</td><td>6 h、20.5 lx</td></tr><tr><td>产蛋率Laying rate/%</td><td>59.33 ±6.42a</td><td>72.22±5.39a</td><td>85.21±4.28b</td><td>79.76±4.28b</td><td>75.32±4.88a</td></tr><tr><td>平均蛋重 Average egg weight/g</td><td>20.41±0.20</td><td>20.43±0.26</td><td>20.55±0.15</td><td>20.30±0.14</td><td>20.52±0.13</td></tr><tr><td>平均日采食量 Average daily feed intake/(g/d)</td><td>25.94±0.11</td><td>26.17±0.03</td><td>26.05±0.08</td><td>26.20±0.06</td><td>26.05±0.04</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。
+
+In the same row ,values with different small leter superscripts mean significant difference （ $P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no difference ( $\scriptstyle P > 0 . 0 5 .$ ).The same below.
+
+2.2不同补光时间和强度对白羽王鸽血清生化指标的影响
+
+如表4所示，随补光时间增加，血清IgM含量逐渐降低，6h、 $3 1 . 2 \mathrm { l x }$ ，6h、 $2 0 . 5 \mathrm { l x }$ 组血清IgM含量显著低于 $_ { 0 \mathrm { h } }$ 、 $0 \mathrm { l x }$ 组（ $. P { < } 0 . 0 5 \ '$ )。各组血清中AST、ALT活性及ALB、TP、钙、磷、IgA和IgG含量均差异不显著（ $. P { > } 0 . 0 5 )$ ，但 $\boldsymbol { 4 } \mathrm { h }$ 、 $3 1 . 2 \mathrm { l x }$ ，4h、 $2 0 . 5 \mathrm { l x }$ ，6h、31.2lx和 $6 \mathrm { h }$ 、 $2 0 . 5 \mathrm { l x }$ 组血清 AST 活性均高于 $^ { 0 \mathrm { h } }$ 、 $0 \mathrm { l x }$ 组。
+
+# 表4不同补光时间和强度对白羽王鸽血清生化指标的影响
+
+Table 4Effects of different supplementary lighting time and intensity on serum biochemical   
+
+<html><body><table><tr><td colspan="6">parametersofColumba</td></tr><tr><td>项目</td><td colspan="5"></td></tr><tr><td>Items</td><td>Oh、0lx</td><td>4 h、31.2 lx</td><td>组别 Groups 4 h、20.5 1x</td><td>6 h、31.2 1x</td><td>6 h、20.5 lx</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>271.10±13.16</td><td>326.60±62.37</td><td>349.70±23.08</td><td>325.00±27.87</td><td>303.40±6.55</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>34.76±3.22</td><td>39.29±3.83</td><td>41.96±3.36</td><td>35.20±3.16</td><td>34.43±1.94</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>11.29±0.38</td><td>12.75±0.60</td><td>12.16±0.81</td><td>12.25±0.50</td><td>11.32±0.62</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>26.17±1.68</td><td>26.77±1.55</td><td>28.60±1.63</td><td>23.34±0.99</td><td>23.62±2.32</td></tr><tr><td>钙 Ca/(mmol/L)</td><td>1.59±0.06</td><td>1.54±0.03</td><td>1.74±0.07</td><td>1.66±0.06</td><td>1.64±0.06</td></tr><tr><td>磷 P/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.38±0.05</td><td>1.35±0.06</td><td>1.46±0.05</td><td>1.42±0.06</td><td>1.37±0.07</td></tr><tr><td>免疫球蛋白AIgA/(g/L)</td><td>2.24±0.04</td><td>2.25±0.01</td><td>2.26±0.01</td><td>2.23±0.01</td><td>2.22±0.02</td></tr><tr><td>免疫球蛋白GIgG/(g/L)</td><td>4.12±0.04</td><td>4.19±0.02</td><td>4.20±0.02</td><td>4.18±0.07</td><td>4.15±0.05</td></tr><tr><td>免疫球蛋白MIgM/(g/L)</td><td>1.68±0.01a</td><td>1.66±0.01ab</td><td>1.64±0.01ac</td><td>1.64±0.01bc</td><td>1.61±0.01c</td></tr></table></body></html>
+
+2.3不同补光时间和强度对白羽王鸽血清生理指标的影响
+
+如表5所示，不用补光时间和强度对白羽王鸽血清PRL、 $\mathbf { E } _ { 2 }$ 、FSH、LH 和P含量无显
+
+著影响 ( $. P { > } 0 . 0 5 .$ )，但随补光时间和强度的改变，0h、 $0 \mathrm { l x }$ 组血清PRL含量高于其他各组，血清LH含量低于其他各组，且血清 $\mathbf { E } _ { 2 }$ 含量低于其他各组。
+
+# 表5不同补光时间和强度对白羽王鸽血清生理指标的影响
+
+Table 5Effects of different supplementary lighting time and intensity on serum physiological parameters of Columba   
+
+<html><body><table><tr><td colspan="7">项目</td></tr><tr><td>Items</td><td>Oh、0lx</td><td>4 h、31.2 lx</td><td>4 h、20.5 lx</td><td>6 h、31.2 lx</td><td>6 h、20.5 lx</td></tr><tr><td>催乳素PRL/(μIU/mL)</td><td>264.70±16.30</td><td>242.80±18.70</td><td>219.60±10.23</td><td>241.50±24.56</td><td>225.90±23.84</td></tr><tr><td>准二醇E2/(pg/mL)</td><td>18.60±2.39</td><td>22.85±4.47</td><td>33.37±8.31</td><td>36.79±6.11</td><td>19.62±3.59</td></tr><tr><td>6 促卵泡激素 FSH/(mIU/mL)</td><td>4.27±0.25</td><td>3.48±0.30</td><td>4.58±0.58</td><td>4.17±0.25</td><td>4.45±0.40</td></tr><tr><td>黄体生成素 LH/(mIU/mL)</td><td>4.90±0.26</td><td>5.20±0.54</td><td>5.76±0.91</td><td>5.61±0.35</td><td>5.59±0.79</td></tr><tr><td>孕酮 P/(ng/mL)</td><td>0.85±0.20</td><td>0.77±0.16</td><td>1.21±0.27</td><td>0.71±0.07</td><td>1.02±0.13</td></tr></table></body></html>
+
+2.4不同补光时间和强度对白羽王鸽抗氧化能力的影响
+
+如表6所示，4h、 $3 1 . 2 \mathrm { l x }$ ， $^ { 4 \mathrm { h } }$ 、 $2 0 . 5 \mathrm { l x }$ ，6h、 $3 1 . 2 \mathrm { l x }$ 和 $6 \mathrm { { h } }$ 、 $2 0 . 5 \mathrm { l x }$ 组血清 SOD 活性均低于 $^ { 0 \mathrm { ~ h ~ } }$ ， $0 \mathrm { l x }$ 组，且血清MDA含量均高于 $^ { 0 \mathrm { ~ h ~ } }$ 、 $0 \mathrm { l x }$ 组；其中 $6 \mathrm { ~ h ~ }$ 、 $3 1 . 2 \mathrm { l x }$ 组血清SOD活性显著低于 $^ { 0 \mathrm { h } }$ 、0lx组（ $. P { < } 0 . 0 5$ )，血清MDA含量显著高于 $0 \mathrm { h }$ 、 $0 \mathrm { l x }$ 组（ $. P { < } 0 . 0 5 )$ 。 $_ { 0 \mathrm { h } }$ 、$0 \mathrm { l x }$ ， $^ { 4 \mathrm { h } }$ 、 $2 0 . 5 ~ \mathrm { l x }$ 和 $6 \mathrm { n }$ 、 $2 0 . 5 \ \mathrm { l x }$ 组肝脏MDA含量显著低于 $6 \mathrm { ~ h ~ }$ 、 $3 1 . 2 \ \mathrm { l x }$ 组（ $. P { < } 0 . 0 5 )$ 。各组其他血清和肝脏抗氧化指标差异不显著（ $. P { > } 0 . 0 5 .$ )
+
+# 表6不同补光时间和强度对白羽王鸽抗氧化能力的影响
+
+Table 6Effects of different supplementary lighting time and intensity on antioxidant
+
+capacity of Columba
+
+<html><body><table><tr><td colspan="2">Items</td><td>Oh、0lx</td><td>4 h、31.2 lx</td><td>4 h、20.5 lx</td><td>6 h、31.2 1x</td><td>6 h、20.5 1x</td></tr><tr><td colspan="2">血清总抗氧能力</td><td>13.74±0.78</td><td>12.35±1.10</td><td>13.98±5.78</td><td>15.73±4.34</td><td>16.31±3.29</td></tr><tr><td colspan="2">Serum T-AOC/(U/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">血清谷胱甘肽过氧化物酶</td><td>1377±79.93</td><td>1426±132.50</td><td>1250±101.60</td><td>1645±102.50</td><td>1505±112.9</td></tr><tr><td colspan="2">Serum GSH-Px/(U/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">血清还原型谷胱甘肽</td><td>68.69±11.91</td><td>48.46±8.424</td><td>57.16±11.20</td><td>39.12±12.09</td><td>32.06±3.95</td></tr><tr><td colspan="2">Serum GSH/(U/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>329.30±15.31a</td><td>284.40±13.60ab</td><td>302.90±22.90ab</td><td>220.10±27.40b</td><td>319.10±10.52ab</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>血清丙二醛</td><td>3.80±0.40a</td><td>4.65±.028ab</td><td>4.22±0.27ab</td><td>6.08±0.60b</td><td>4.80±.062ab</td></tr><tr><td></td><td>Serum MDA/(U/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>肝脏总抗氧能力</td><td>0.91±0.08</td><td>0.81±0.16</td><td>1.12±0.11</td><td>0.91±0.13</td><td>0.95±0.09</td></tr><tr><td> Liver T-AOC/(U/mg prot)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>35.94±3.11</td><td>31.74±2.74</td><td>31.50±2.80</td><td>37.49±2.01</td><td>31.85±1.85</td></tr><tr><td>iver GsH-Px/U/m r0)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C 肝脏还原型谷胱甘肽</td><td></td><td>21.89±1.35</td><td>22.36±2.50</td><td>25.52±3.12</td><td>20.19±1.90</td><td>19.42±2.17</td></tr><tr><td>Liver GSH/(U/mg prot)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肝脏超氧化物歧化酶</td><td></td><td>695.4±20.36</td><td>611.0±29.79</td><td>659.00±30.14</td><td>602.80±29.99</td><td>645.60±16.14</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Liver SOD/(U/mg prot)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肝脏丙二醛</td><td></td><td>0.65±0.05a</td><td>0.76±0.06ab</td><td>0.71±0.06a</td><td>0.93±0.07b</td><td>0.71±0.06a</td></tr></table></body></html>
+
+# 3讨论
+
+3.1不同补光时间和强度对白羽王鸽产蛋性能的影响
+
+本试验中不同补光时间和强度对白羽王鸽产蛋率有显著影响，对平均日采食量和平均蛋重无显著影响，其中当补光时间和强度分别为4h、20.5lx和6h、31.2lx时，产蛋率显著高于对照组。申丽等[对北京油鸡分别进行16和14h连续光照，结果发现14 h连续光照组北京油鸡在产蛋高峰期和产蛋后期产蛋率均显著高于16h连续光照组。然而，Siopes[12]研究发现，在火鸡夏天产蛋期间，将其光照时间由15h改变为18h，火鸡产蛋率提高、蛋重无显著变化，而当光照强度由 $2 2 \ln$ 提高到5671x时，其蛋重变小，产蛋率无显著变化。这说明长光照时间促进产蛋，高光照强度降低蛋重。Renema等[13]的研究结果也与之类似，他们发现当光照强度处于 $1 \mathrm { \sim } 5 0 0 \mathrm { l x }$ 之间时母鸡能够产蛋，但当光照强度为1lx时，母鸡产蛋量下降，而光照强度为 $5 0 0 \mathrm { l x }$ 时，蛋重变小。Wang等[14]报道，在冬季对鹅进行补光至13.5h时，其产蛋量和产蛋率将显著高于自然光照组，并且产蛋期也延长1个月。然而，Proudman等[15]发现母鸡在光照时间减少4.5h（18.0h减少至11.5h）条件下饲养2周，母鸡产蛋性能与18h光照组无显著差异。由于物种差异以及饲养管理的不同，不同光照时间和强度对禽类产蛋性能影响不一致，本试验中当补光时间为4h、强度为20.5lx时，白羽王鸽产蛋率最高。
+
+# 3.2不同补光时间和强度对白羽王鸽血清生化指标的影响
+
+血清TP和ALB含量是反映肾脏、肝脏功能正常与否的指标，而血清球蛋白含量则与机体免疫功能密切相关[1]。黄仁录等[17]研究光增方式和光照周期对蛋鸡影响时发现，17h光照时间组蛋鸡血清TP和球蛋白含量显著低于13h光照时间组。Guo等[18]报道，当肉鸡处于连续光照（23h）组时，其血清IgG含量显著低于间歇光照组。本研究发现，各组血清TP和ALB含量无显著影响，而6h、31.2lx，6h、 $2 0 . 5 \mathrm { l x }$ 组血清IgM含量显著低于 $0 \mathrm { h }$ 、01x组，且 $^ { 4 \mathrm { h } }$ 、31.2 lx，4h、 $2 0 . 5 \mathrm { l x }$ 组血清IgM含量与0h、0lx组无显著差异，这说明血清IgM含量的降低是因补光时间过长（6h）导致，与补光强度无显著关系，而补光时间过长是否降低白羽王鸽免疫功能还需进一步试验证明。
+
+ALT和AST是肝细胞内重要酶，当肝细胞受损伤时，细胞膜通透性增大，二者则进入血液中，导致血清中ALT和AST活性显著增加。然而，由于ALT和AST也是氨基酸代谢中的关键酶，其活性在一定程度上反映体内蛋白质代谢情况[19]。潘栋[20]研究发现，血清ALT活性随光照时间的增加有所下降，说明蛋鸡产蛋后期蛋白质代谢能力随光照时间的增加而减弱。本试验发现4h、31.2lx，4h、20.5 lx，6h、31.2 lx和6h、20.5 lx组血清AST活性高于0h、0lx组，这可能因为补光提高了白羽王鸽体内蛋白质合成，体内蛋白质合成代谢加强。本试验中人工补光对白羽王鸽肝脏是否有其他影响还需进一步验证。
+
+3.3不同补光时间和强度对白羽王鸽血清生理指标的影响
+
+LH与FSH在繁殖过程中起着协同作用，共同促进卵巢生长、成熟并促使卵巢分泌雌激素进而诱发排卵，而 $\mathbf { E } _ { 2 }$ 也可反馈调节LH和FSH的合成与分泌，从而达到提高产蛋性能的目的[21]。PRL在繁殖过程中起着重要的作用，高PRL含量在禽类上主要起阻碍卵泡发育以及促性腺激素释放激素（GnRH）的分泌，以达到抱窝的作用，而低PRL含量则会促进产蛋，但目前具体多少含量 PRL 可促进产蛋还不清楚[22-23]。Bacon 等[24]研究表明，将火鸡光照时间由8h提高至 $^ { 1 4 \mathrm { ~ h ~ } }$ ，其血清中LH含量比8h光照组高，且黑暗期血清LH含量依旧保持较高水平。Sharp 等[25]发现当禽类处于长日照条件下，其血清PRL 含量缓慢升高，但达不到抑制下丘脑分泌GnRH的含量，因此出现血清PRL与LH含量同时升高的现象。光照强度对禽类激素含量的报道尚未见到。本试验结果显示各组血清生理指标无显著差异，但0h、0lx 组血清LH和E含量均低于其他各组，血清 PRL含量高于其他各组，而本试验中光照强度对白羽王鸽生殖激素的分泌无规律性影响。
+
+# 3.4不同补光时间和强度对白羽王鸽抗氧化能力的影响
+
+动物在长期过程中形成酶促抗氧化系统和非酶促抗氧化系统，这2种系统使得机体内自由基的产生和消除保持着一种动态平衡，其中 SOD、GSH-Px、过氧化氢酶（CAT）为主要抗氧化酶，GSH、维生素 E、硒等则属于非酶促抗氧化系统[26]。T-AOC 是衡量机体抗氧化能力的综合指标，MDA是自由基攻击生物膜中不饱和脂肪酸发生脂质过氧化反应得到的产物，其含量高低反映氧自由基介导的脂质过氧化程度。李锦春等[27]研究发现，长光照组血清 SOD 活性降低且MDA含量升高，而间歇光照可以减少白羽肉鸡体内脂质过氧化，提高抗氧化酶活性，降低MDA含量血清。Guo 等[18]研究结果也表明长光照会降低肉鸡的抗氧化能力。本试验结果与上述结果一致，6h、31.2lx 组血清 SOD 活性显著低于 $\boldsymbol { 0 } \mathrm { { h } , \boldsymbol { 0 } \mathrm { { l x } } }$ 组，血清 MDA含量显著高于0h、0lx 组，6h、31.2lx 组肝脏MDA含量显著高于0h、0lx， $^ { 4 \mathrm { h } }$ 、$2 0 . 5 \mathrm { l x }$ 和 $6 \mathrm { h }$ 、 $2 0 . 5 \mathrm { l x }$ 组。这可能因为过长时间（6h）且高强度（ $3 1 . 5 \mathrm { l x }$ ）的光照暴露致使白羽王鸽处于应激状态，导致机体内自由基含量过高，从而使机体氧化与抗氧化作用失衡，降低抗氧化能力。因此，补光时间过长（6h）可降低机体抗氧化能力，本试验中最佳补光时间为 $^ { 4 \mathrm { h } }$ 。
+
+4结论
+
+$\textcircled{1}$ 补光时间为 $^ { 4 \mathrm { h } }$ 、强度为 $2 0 . 5 \mathrm { l x }$ 时，白羽王鸽可获得较好的产蛋性能。$\textcircled{2}$ 补光时间过长（6h）且强度过高（ $3 1 . 5 \mathrm { l x }$ ）可降低白羽王鸽抗氧化能力，故补光强度应不超过 $2 0 . 5 \mathrm { l x }$ 。
+
+# 参考文献:
+
+[1] BLATCHFORD R A,KLASING K C,SHIVAPRASAD HL,et al.The effect of light intensity on the behavior,eye and leg health,and immune function of broiler chickens[J].Poultry Science,2009,88(1):20-28.
+
+[2]倪迎冬,周玉传,王亚菊,等.长短日照下绍鸭性成熟时间,下丘脑GnRH-I、POMC 和 NPYmRNA表达的差异[J].动物学研究,2005,26(5):539-544.
+
+[3]YOSHIMURA T,SUZUKI Y,MAKINO E,et al.Molecular analysis of avian circadian clock genes[J].Molecular Brain Research,2000,78(1/2):207-215.
+
+[4] WANG S D,JAN D F,YEH L T,et al.Effect of exposure to long photoperiod during the
+
+rearing period on the age at first egg and the subsequent reproductive performance in geese[J].Animal Reproduction Science,2002,73(3/4):227-234.
+
+[5]OLANREWAJU H A,PURSWELL JL,COLLIER S D,et al.Effect of ambient temperature and light intensity onphysiological reactionsof heavy broiler chickens[J].Poultry Science,2010,89(12):2668-2677.
+
+[6]牛竹叶,薛娅蓉,王成前.光照强度对笼养蛋鸡产蛋性能的影响[J].家畜生 态,2000,21(2):32-33.
+
+[7]OLANREWAJU H A,PURSWELLJL,COLLIER S D,et al.Interactive effects of photoperiod and light intensity on blood physiological and biochemical reactions of broilers grown to heavy weights[J].Poultry Science,2013,92(4):1029-1039.
+
+[8] DEEP A,SCHWEAN-LARDNER K,CROWE T G,et al.Effect of light intensity on broiler production,processing characteristics,and welfare[J].Poultry Science,2010,89(11):2326-2333.
+
+[9]DOWNS K M,LIEN R J,HESS JB,et al.The effects of photoperiod length,light intensity,and feed energy on growth responses and meat yield of broilers[J].The Journal of Applied Poultry Research,2006,15(3):406-416.
+
+[10]郭艳丽,邢瑞虎,马淑梅,等.不同光照周期对快速黄羽肉鸡抗应激、免疫和胫骨特性的影响[J].畜牧兽医学报,2015,46(12):2307-2313.
+
+[11] 申丽,耿爱莲,马贺,等.光照对蛋用型北京油鸡蛋品质的影响初探[J].中国家禽,2012,34(23):23-26,30.
+
+[12] SIOPES T D.Lighting for summer egg production by turkeys:day length and light intensity[J].Poultry Science,2007,86(11):2413-2419.
+
+[13] RENEMA R A,ROBINSON F E,FEDDES JJ R,et al.Effects of light intensity from photostimulation in four strains of commercial egglayers:2.Eggproduction
+
+parameters[J].Poultry Science,2001,80(8):1121-1131.
+
+[14] WANG C M,CHEN L R,LEE S R,et al.Supplementary artificial light to increase egg productionof geese undernaturallightingconditions[J].AnimalReproduction Science,2009,113(1/2/3/4):317-321.
+
+[15]PROUDMAN J A,SIOPES T D.Effect of a single short-term reduction in photoperiod on photorefractoriness in Turkey hens[J].Poultry Science,2004,83(7):1199-1202.
+
+[16]张军,郭亮,梁如意,等.仔猪血清总蛋白、白蛋白和球蛋白含量测定[J].畜牧与饲料科学,2009,30(9):10-11
+
+[17]黄仁录,陈辉,潘栋,等.不同光增方式和周期对蛋鸡生产性能和血液生化指标的影响[J].中国畜牧杂志,2007,43(13):52-55.
+
+[18] GUOB Y L,LI W B,CHEN J L.Influence of nutrient density and lighting regime in broiler chickens:effect on antioxidant status and immune function[J].British Poultry Science,2010,51(2):222-228.
+
+[19]李秀元,朴金日,朴彩粉,等.鸡血清GPT与产蛋性能关系研究[J].中国家禽,1996,18(5):27-28.
+
+[20]潘栋.光照周期对蛋鸡卵巢输卵管形态、生产性能及血液生化指标的影响[D].硕士学位论文.保定:河北农业大学,2008.
+
+[21]SHUPNIK M A.Gonadal hormone feedback on pituitary gonadotropin genes[J].Trends in Endocrinology & Metabolism,1996,7(8):272-276.
+
+[22] EL HALAWANI M E,ROZENBOIM I.The ontogeny and control of incubation behavior in turkeys[J].Poultry Science,1993,72(5):906-911.
+
+[23] CURLEWIS J D.Seasonal prolactin secretion and its role in seasonal reproduction:a review[J].Reproduction,Fertility and Development,1992,4(1):1-23.
+
+[24]BACON W L,LONG D W.Changes in plasma luteinizing hormone concentration in turkey hens after switching from short-day to long-day photoperiods[J].Domestic Animal Endocrinology,1995,12(3):257-267.
+
+[25]SHARP P J,BLACHE D.A neuroendocrine model for prolactin as the key mediator of seasonal breeding in birds under long- and short-day photoperiods[J].Canadian Journal of Physiology and Pharmacology,2003,81(4):350-358.
+
+[26]曾昭惠,张宗玉.自由基对线粒体 DNA 的氧化损伤与衰老[J].生物化学与生物物理进展，1995,22(5):429-432.
+
+[27]李锦春,赵洪进,谭勋,等.间歇光照对肉鸡体内脂质过氧化作用和抗氧化酶活性的影响[J].中国兽医学报,2007,27(5):765-769.
+
+Effects of Supplementary Lighting Time and Intensity on Laying Performance, Serum Physiological and Biochemical Parameters and Antioxidant Capacity of Columba in Fall and
+
+# Winter
+
+HU Ping1,2 LI Guoqin² TAO Zhengrong² LEI Dayi³ WEN Jihui4LIChunmei1\* LU Lizhi2\*
+
+1. College of Animal Science and Technology, Nanjing Agricultural University, Nanjing 210095, China; 2. Institute of Animal Husbandry and Veterinary Science, Zhejiang Academy of Agricultural sciences,Hangzhou 31Oo21, China; 3.Pingyang Xingshun Livestock and Poultry Farm, Wenzhou 3250Oo, China; 4. Pingyang Aofeng Pigeon Co., Ltd., Wenzhou 325000, China)
+
+Abstract: This experiment was conducted to investigate the effects of different supplementary lighting time and intensity on laying performance, serum physiological and biochemical
+
+parameters and antioxidant capacity of Columba in falland winter. Two hundred and eighty eight-month-old healthy Columba (female pigeons) were paired,a total of 140 pairs with similar body weight were randomly assigned into 5 groups with 4 replicates per group and per 7 pairs per replicate. Pigeons were exposed on supplementary lighting time and intensity with $0 \mathrm { { h } }$ and $0 \mathrm { l x }$ ,4 h and 31.2 Ix,4 h and 20.5 lx,6 h and $3 1 . 2 \mathrm { l x }$ , and 6 h and $2 0 . 5 \mathrm { l x }$ , respectively. The experiment lasted for 125 days. The results showed as follow: 1) the laying rate in groups $^ { 4 \mathrm { h } }$ and $2 0 . 5 \mathrm { l x }$ and 6 h and 31.2 lx was significantly higher than that in group $0 \mathrm { { h } }$ and 0 1x $( P { < } 0 . 0 5 )$ , no significant difference was found among all groups on average egg weight and average daily feed intake （204号 $( P { > } 0 . 0 5 )$ . 2) The serum immunoglobulin M content in groups $6 \mathrm { { h } }$ and $3 1 . 2 \mathrm { l x }$ and $6 \mathrm { { h } }$ and 20.5 lx was significantly lower than that in group $0 \mathrm { h }$ and O lx $( P { < } 0 . 0 5 )$ 0. The serum aspartate transaminase activity in groups $^ { 4 \mathrm { h } }$ and 31.2 lx,4 h and 20.5 lx,6 h and 31.2 lx and 6 h and 20.5 lx was higher than that in group $0 \mathrm { h }$ and 0 1x $( P { > } 0 . 0 5 )$ ). 3) No obvious diffrences were found among all groups on the contents of prolactin（PRL）,estradiol（ $\mathbf { { E } } _ { 2 }$ ）,follicle,luteinizing hormone and progesterone in serum $( P { > } 0 . 0 5 )$ , but the serum PRL content in group $0 \mathrm { { h } }$ and $0 \mathrm { l x }$ was higher than that in other groups,and serum $\mathrm { E } _ { 2 }$ content in group $0 \mathrm { { h } }$ and O lx was lower than that in other groups. 4) Compared with group $0 \mathrm { h }$ and $0 \mathrm { l x }$ , the serum superoxide dismutase activity in group 6 h and 31.2 lx was significantly decreased $( P { < } 0 . 0 5 )$ , but the serum malondialdehyde (MDA) content in group $6 \mathrm { { h } }$ and $3 1 . 2 \mathrm { l x }$ was significantly increased $( P { < } 0 . 0 5 )$ ; the liver MDA content in group $6 \mathrm { { h } }$ and 31.2 lx was higher than that in groups $0 \mathrm { h }$ and O lx,4 h and 20.5 lx, 6 h and 20.5 lx $( P { < } 0 . 0 5 )$ . To sum up, the pigeons can get beter laying performance when supplementary lighting time is $^ { 4 \mathrm { h } }$ and intensity is $2 0 . 5 \mathrm { l x }$ . The antioxidant capacity of pigeons was weaken when supplementary lighting time is too long (6 h) and intensity $( 3 1 . 2 \mathrm { l x } )$ is too high, supplementary intensity should be no higher than $2 0 . 5 \mathrm { l x }$ ：

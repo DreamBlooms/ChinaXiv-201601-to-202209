@@ -1,0 +1,513 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进FOCUSS算法的电容层析成像算法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马敏，刘亚楠，杨涛，薛倩(中国民航大学电子信息与自动化学院，天津 300300)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对电容层析成像(electrical capacitance tomography，ECT)逆问题求解的病态性和不适定性，在压缩感知(compressed sensing，CS)的基础上，提出一种改进FOCUSS 的ECT重建算法。采用离散余弦变换(DCT)基将原始图像灰度信号进行稀疏化处理，在使用正则化FOCUSS算法求解的过程中引入拟牛顿法逼近求解中间稀疏变量，以提高信号重构的准确性。仿真实验结果表明，同LBP、Tikhonov和Landweber和FOCUSS 算法相比，改进的FOCUSS 算法能够有效区分物场中的不同介质，改善图像过度平滑的问题，减小图像误差至0.23，提高图像相关系数至0.80，具有更好的成像效果，为ECT图像重建算法的研究提供新的思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：电容层析成像；压缩感知；FOCUSS算法；拟牛顿法 中图分类号：TP391.9 doi:10.3969/j.issn.1001-3695.2017.11.0828 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Image reconstruction algorithm for electrical capacitance tomography based on improved FOCUSS algorithm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ma Min, Liu Ya'nan, Yang Tao, Xue Qian (College ofElectronic Information&Automation,CivilAviation UniversityofChina,Tianjin3003oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Onthebasis ofcompressd sensing(CS),this paper proposed animproved FOCUSSalgorithm for thereconstruction ofelectricalcapacitance tomography(ECT),whichimingat theill-conditionednesandill-posednessoftheinverseproblem ofECT.The discretecosine transform(DCT)basis madethe grayscale signals oforiginalimagessparse.Intheprocess ofsolving theinverse problembyemployingtheregularizedFOCUSSalgorithm,itintroduced thequasi-Newton methodtoapproximate and solvethe intermediate sparse variables toimprove theacuracyofsignal reconstruction.Results ofthe simulationshow that compared with LBP，Tikhonov,Landweberand FOCUSSalgorithm，the improved FOCUSSalgorithmcaneffectively distinguishthedifferent mediainthesubstance field,alleviate theover-smoothingefect,reducetheimage errorbetwenthe originalimageandthereconstructedimagetoO.2,increasethecorrelationcoeficientto.8offrbetter imagequalitynd provide a new idea for the research on the algorithm for the reconstruction of ECT. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: electrical capacitance tomography; compressed sensing; FOCUSS algorithm; Quasi-Newton method ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自20世纪80年代以来，电容层析成像技术(ECT)得到了迅速的发展，因其具有无辐射、非侵入、结构简单、成本低、响应速度快等优点而被广泛应用于工业、食品和医疗等领域[1]。ECT系统主要分为三个模块：阵列电极传感器模块，主要负责获取敏感场内介质分布状况的边界信息；数据采集模块，主要采集不同电极对之间的电容值；计算机成像模块，通过某种重建算法利用采集到的电容值反演物场中介质的分布情况[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像重建即为求解ECT逆问题的核心，存在着欠定性、非线性和病态性的问题。典型的ECT重建算法可分为非迭代算法和迭代算法：非迭代算法重建速度较快但质量不高；迭代算法重建图像质量较高，但其成像的实时性较差[3]。此外，典型的重建算法大多是基于 $L _ { 2 }$ 范数的优化方法，通过平滑图像使求解稳定，导致图像分辨能力较差，成像质量不高[4]。针对重建算法存在的不足之处，本文将基于压缩感知(CS)的FOCUSS算法引入ECT图像重建中。2006年，由美国斯坦福大学的Donoho及美国加州大学洛杉矶分校的Tao 等人提出了压缩感知理论[5-6]，该理论在稀疏分解和等距约束的基础上，通过远低于奈奎斯特采样率的频率对原始数据进行采样，在较少采样数据的基础上准",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "确重建出原始信号。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，压缩感知重建算法主要包括三类：贪婪方法、凸松弛方法和非凸方法[7]。贪婪算法可求解 $L _ { \\mathrm { 0 } }$ 范数最优化问题，它通过逐次迭代选择未知量的支撑，最终可逼近原始信号，常见的算法有匹配追踪(matching pursuit，MP)[8]算法和正交匹配追踪(orthogonal matching pursuit，OMP)[9]算法；凸松弛法将非凸优化转换为凸优化问题来求解逼近信号，主要有基追踪(basicpursuit,BP)[10]算法、迭代收缩阈值(iterative shrinkage thresholingIST)[ll]算 法 和 梯度 投 影 法(gradient projection for sparsereconstruction，GPSR)[12]等；非凸方法主要以欠定系统局灶解法(focal underdetermined system solver，FOCUSS)[13]和稀疏贝叶斯学习(sparse bayesian learming，SBL)[14]为主，通过改变罚函数求解目标优化问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用改进FOCUSS迭代算法，首先在压缩感知的基础上，将原始图像信号稀疏化，改善了系统本身的病态性，采用正则化FOCUSS 算法对ECT 逆问题优化模型进行求解，同时用拟牛顿法逼近中间稀疏变量，克服了数值解法中矩阵求伪逆的问题使得求解结果更加准确。该方法在ECT图像重建中取得了良好的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 CS理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的信号获取其采样频率必须大于信号最高频率的两倍，即满足奈奎斯特采样定理。而压缩感知利用信号的稀疏性，以远远小于传统采样方法所获的数据量便可完成初始信号的完整复现，突破了奈奎斯特采样的限制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1稀疏表示",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设 $\\varphi _ { i }$ 是 ${ \\sf R } ^ { \\mathrm { N } }$ 空间的一组向量基，构成基矩阵$\\Psi = [ \\varphi _ { 1 , } \\varphi _ { 2 } . . . \\varphi _ { N } ]$ ,则任意信号量 $x \\in R ^ { N }$ 均可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx = \\sum _ { i = 1 } ^ { N } \\alpha _ { i } \\varphi _ { i } = \\Psi \\alpha\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha$ 是 $x$ 在 $\\Psi$ 域的稀疏表示，若 $\\alpha$ 的非零元个数比 $x$ 少得多或元素经排序后成指数衰减，则称 $x$ 是稀疏的或可压缩的。常见的稀疏基有离散余弦基、离散小波变换基、离散傅里叶基、Chirplet基和 curvelet基等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 观测矩阵 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CS 理论指出：若采用一个与稀疏基 $\\Psi$ 不相关的测量矩阵Φ∈RM×N，对信号量x进行投影得到观测值y，则可通过求解优化问题由 $y$ 精确或高概率地重构出 $x$ ，表达式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { y } = \\boldsymbol { \\Phi } \\boldsymbol { x } = \\boldsymbol { \\Phi } \\boldsymbol { \\Psi } \\boldsymbol { \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathbf { A } ^ { C S } = \\Phi \\boldsymbol { \\Psi }$ 为传感矩阵，如果观测矩阵 $\\Phi$ 和稀疏基 $\\Psi$ 不相关，即在较高概率上满足约束等距性(restricted isometryproperty，RIP)条件，常见的观测矩阵分为确定性矩阵和随机矩阵。随机矩阵计算复杂程度较高，在硬件上难以实现，Donoho等学者已经证明了随机高斯矩阵与大多数的稀疏基均不相干。确定性矩阵可克服上述缺点，但在压缩感知理论中不具有普适性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 重构算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对式（2）直接求解可转换为如下形式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\alpha = \\underset { \\alpha } { \\arg \\operatorname* { m i n } } \\left\\| \\alpha \\right\\| _ { 0 } } & { { } s . t . \\ \\mathbf { y } = \\Phi \\Psi \\alpha } \\\\ { x = \\Psi \\alpha } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述 $L _ { \\mathrm { 0 } }$ 范数的求解已被证明是一个NP 难问题，需要列出$\\alpha$ 中所有非零项位置的线性组合才有可能得到精确解，过程繁琐且难以实现。因此，通常将该问题转换为其他替代模型进行求解，常用的重构算法有贪婪算法、凸优化算法和非凸算法。本文利用非凸算法中的改进FOCUSS算法进行求解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 FOCUSS 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1基本 FOCUSS 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FOCUSS算法是Gorodnitsky 等人于1997年提出[15]，基本FOCUSS算法本质上相当于一种加权最小范数最小二乘法(weighted minimum normleast square method，MNLS)，要求初始信号必须为稀疏信号，采用 $L _ { 2 }$ 范数代替 $L _ { \\mathrm { 0 } }$ 范数可将 $\\mathbf { y } = A x$ 问题转换为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx = \\underset { \\alpha } { \\arg \\operatorname* { m i n } } \\left\\| x \\right\\| _ { 2 } \\quad s . t . \\ \\mathrm { y } = A x\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "求解过程中采用线性变换 $x = W q$ ，通过迭代将解的能量局部化，从而得到能量集中的稀疏解。基本的FOCUSS迭代过程如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { W _ { k } = D i a g ( x _ { k - 1 } ) } } \\\\ { { q _ { k } = ( A W _ { K } ) ^ { + } y } } \\\\ { { x _ { k } = W _ { K } q _ { k } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：权值矩阵 $W _ { \\kappa }$ 取前一次迭代结果 $x _ { k - 1 }$ 组成的对角阵，$( A W _ { K } ) ^ { + }$ 表示矩阵的Moore-Penrose广义逆。由于伪逆的存在，往往导致能量分散，无法获得精确的稀疏解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 正则化 FOCUSS 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对基本FOCUSS算法存在的问题，国内外许多学者提出将 $L _ { p }$ 范数引入FOCUSS 算法，从而得到正则化FOCUSS 算法",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { q = \\arg \\operatorname* { m i n } \\big \\| q \\big \\| _ { p } \\quad s . t . \\quad y = A W q } \\\\ { x = W q } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $0 < p \\leq 1 \\ , \\ \\left\\| \\cdot \\right\\| _ { P }$ 代表 $P$ 范数，通过Lagrange 乘子法推导迭代求解公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { { W _ { k } } = { D i a g } ( { x _ { k - 1 } } ^ { 1 - 2 / p } ) } \\\\ & { { A _ { k } } = { A W _ { k } } } \\\\ & { { q _ { k } } = { A _ { k } } ^ { H } ( { A _ { k } } ^ { H } { A _ { k } } + \\lambda I ) ^ { - 1 } y } \\\\ & { { x _ { k } } = { W _ { k } } { q _ { k } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda$ 可作为噪声信号的评价指标，通常在噪声标准差为 $\\sigma$ ，信号长度为 $\\mathbf { M }$ 时, $\\lambda = \\sigma \\sqrt { 2 \\log M }$ 可以有效去除噪声干扰。在本文中未直接引入噪声，故将 $\\lambda$ 视为正则化参数进行处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 图像重构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "16电极ECT图像重构中，归一化的模型可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = S G\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda$ 为 $M \\times 1$ 维的电容向量( $M = 1 2 0$ 代表独立测量数目)，$G$ 为 $N { \\times } 1$ 维的灰度值向量( $N = 3 2 2 8$ 代表被测区域的剖分单元数目)， $s$ 为 $M \\times N$ 维的灵敏度矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于测量边界数远远小于剖分单元数，即上述方程组(7)是欠定的，因此稳定解不存在或不唯一。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以 LBP 算法获得的灰度矩阵作为初始迭代信号 $G _ { 0 }$ ，采用离散余弦变换(DCT)基对重建图像灰度信号进行稀疏化处理，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { _ 0 } = \\Psi _ { _ { D C T } } \\alpha\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CS 理论要求观测矩阵 $\\Phi$ 和稀疏基 $\\Psi$ 在较高概率上满足RIP条件，本文将灵敏度矩阵 $s$ 的各行向量按高斯随机顺序重新排列得到新的随机观测矩阵 ${ \\boldsymbol { \\Phi } } ^ { \\prime }$ ，使其具有一定的随机性[16],将电容值向量 $\\lambda$ 各行以相同的顺序重新排列得到新的投影向量Y变换之后的优化约束问题表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = \\underset { q } { \\arg \\operatorname* { m i n } } \\left\\| q \\right\\| _ { p } \\quad s . t . \\ Y = A W q\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以 $L _ { p }$ 范数代替 $L _ { \\mathrm { 0 } }$ 范数，采用正则化FOCUSS 算法进行求解，文献[13]已给出FOCUSS 算法的收敛性证明，同时采用Lagrange乘子法将其变为无约束优化问题：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\boldsymbol { q } \\in \\boldsymbol { R } ^ { n } } \\boldsymbol { J } ( \\boldsymbol { q } ) = \\bigl \\| \\boldsymbol { q } \\bigr \\| _ { P } + \\frac { \\lambda } { 2 } \\bigl \\| \\boldsymbol { A } \\boldsymbol { W } \\boldsymbol { q } - \\boldsymbol { Y } \\bigr \\| _ { 2 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目标函数 $J ( q )$ 的梯度",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\nabla _ { q } J ( q ) = D i a g [ \\left| q ( i ) \\right| ^ { P - 2 } ] q + \\lambda ( A W ) ^ { T } ( A W ) } } \\\\ { { \\nabla _ { \\lambda } J ( q ) = { ( A W ) } ^ { T } ( A W q - Y ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进一步目标函数 $J ( q )$ 的近似Hessian 矩阵为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla ^ { 2 } J ( q ) = D i a g [ \\left| q ( i ) \\right| ^ { p - 2 } ] + \\lambda ( A W ) ^ { T } ( A W )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用牛顿法进行求解，其迭代公式如下",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { x } ^ { ( k + 1 ) } = \\boldsymbol { x } ^ { ( k ) } - \\gamma [ \\nabla ^ { 2 } J ( \\boldsymbol { x } ^ { ( k ) } ) ] ^ { - 1 } \\cdot \\nabla J ( \\boldsymbol { x } ^ { ( k ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\gamma$ 为搜索步长，且沿下降方向进行搜索， $\\gamma = 1$ 时，是一种特殊的拟牛顿法，本文采用拟牛顿法求解稀疏解 $q ^ { ( k ) }$ ，将式(12)(13)代入式(14)中进行求解：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { q ^ { ( k + 1 ) } = q ^ { ( k ) } - \\gamma \\Bigl \\{ D i a g [ \\bigl | q ( i ) \\bigr | ^ { p - 2 } ] + \\lambda ( A W ) ^ { T } ( A W ) \\Bigr \\} ^ { - 1 } } } \\\\ { { \\cdot \\bigl \\{ D i a g [ \\bigl | q ( i ) \\bigr | ] ^ { p - 2 } q + \\lambda ( A W ) ^ { T } ( A W q - Y ) \\Bigr \\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "求解上式可得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { q } ^ { ( k + 1 ) } = [ \\frac { \\prod } { \\lambda } + ( A W ) ^ { T } ( A W ) ] ^ { - 1 } ( A W ) ^ { T } \\boldsymbol { Y }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Pi = { \\cal D } i a g [ \\left| q ( i ) \\right| ^ { p - 2 } ] = W ^ { - 2 }$ ， $W$ 为权值矩阵由前一次稀疏解 $q ^ { ( k ) }$ 迭代构成的对角阵组成，令 $A W = A _ { k } \\ , \\lambda = \\frac { 1 } { m }$ ，则最后的迭代公式改写为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { q ^ { ( k + 1 ) } = [ m \\Pi + { A _ { k } } ^ { T } { A _ { k } } ] ^ { - 1 } { A _ { k } } ^ { T } Y } \\\\ & { G ^ { ( \\mathrm { k } + 1 ) } = \\Psi W q ^ { ( k + 1 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在ECT模型中， $\\scriptstyle \\mathbf { P = } 1$ 时可获得较好的效果，将拟牛顿法逼近求解的中间稀疏变量 $q ^ { ( k + 1 ) }$ 带入式(8)，便可求得灰度信号的迭代公式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进FOCUSS迭代算法的求解步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)将LBP算法获得的灰度矩阵作为初始迭代矩阵，并采用DCT基对初始信号稀疏化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)构建观测矩阵使其与稀疏基满足RIP条件。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)采用正则化FOCUSS算法对优化模型进行求解，同时用拟牛顿法逼近中间稀疏变量 $q _ { k }$ ，将其代入 $\\alpha = W q$ 中求得经压缩感知变换后的稀疏量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)设置迭代终止条件 $\\left\\| \\alpha ^ { ( \\mathrm { k + 1 } ) } - \\alpha ^ { ( k ) } \\right\\| < t o l$ ，若不满足条件，则 返回c)继续迭代。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)将精确解 $\\alpha ^ { * }$ 代入 $\\boldsymbol { G } = \\boldsymbol { \\Psi } _ { D C T } \\boldsymbol { \\alpha } ^ { * }$ 得到重建后的图像灰度信号。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 仿真验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用COMOSOL5.5和MATLAB2014a对ECT系统进行仿真，正问题采用COMSOL自动网格剖分，剖分单元为三角单元，以气液两相流为例构建模型，空气的介电常数设置为1，液体的介电常数设置为3，仿真流型选择核心流、二泡流、四泡流和十字型，其中泡状流剖分为3228个矩形单元，十字型剖分为812个矩形单元，分别采用LBP算法、Tikhonov正则化、Landweber迭代算法、FOCUSS算法以及改进FOCUSS算法对各流型进行图像重建，其仿真验证结果如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，选取图像误差IME(image error，IME)以及图像相关系数R(correlationcoefficient，CORR)对重建图像进行客观评价[17]。图像相对误差越小，图像相关系数越大，说明重建图像的质量越高。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI M E = \\frac { \\left\\| \\overline { { G } } - G \\right\\| } { G }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC O R R = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } ( \\hat { G } _ { i } - \\overline { { \\hat { G } } } _ { i } ) ( G _ { i } - \\overline { { G } } ) } { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { n } ( \\hat { G } _ { i } - \\overline { { \\hat { G } } } _ { i } ) ^ { 2 } \\sum _ { i = 1 } ^ { n } ( G _ { i } - \\overline { { G } } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $G$ 为设定的介电常数值， $\\hat { G }$ 为图像重建得到的介电常数值， $\\bar { G }$ 和 $\\bar { \\hat { G } }$ 分别为 $G$ 和 $\\hat { G }$ 的均值， $\\mathfrak { n }$ 为图像的像素数。各流型的评价指标如表2和3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，LBP算法仅在核心流中成像效果较好，而在稍微复杂的流型中，只能显示大概位置而无法精确成像，故LBP算法经常用于迭代类算法的初值计算。Tikhonov正则化和Landweber算法在二泡流、四泡流和十字型中成像效果较差，易对物体的真实位置信息造成干扰。FOCUSS算法在泡状流中能够较清楚地显示被测介质的位置和形状，但易受周围电极影响，边缘伪影严重，在复杂流型十字型中成像效果一般。改进FOCUSS算法虽然在核心流中的成像并无太大优势，但是在二泡流和四泡流中效果明显优于Tikhonov正则化和Landweber算法，在FOCUSS算法的基础上改善了边缘伪影，当场域流型较为复杂时，也能够清楚地显示物体的位置信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/55f2fadbbe89709b73cd53e501bdc08af46fd5a1e9584c7cb8bcca4e0f07da75.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f26dc9dd4b89643c3cf7ff3ca848463f2997f701ea33f9b39892371b4421570.jpg",
+        "table_caption": [
+            "表1图像重建仿真结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>核心流</td><td>二泡流</td><td>四泡流</td><td>十字型</td></tr><tr><td>LBP</td><td>0.3256</td><td>0.6067</td><td>0.6921</td><td>0.8034</td></tr><tr><td>Tikhonov</td><td>0.2197</td><td>0.4721</td><td>0.3243</td><td>0.6002</td></tr><tr><td>Landweber</td><td>0.2563</td><td>0.3068</td><td>0.4036</td><td>0.4656</td></tr><tr><td>FOCUSS</td><td>0.2610</td><td>0.2954</td><td>0.3464</td><td>0.4417</td></tr><tr><td>改进FOCUSS</td><td>0.2342</td><td>0.2743</td><td>0.2872</td><td>0.4243</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea766c5bc4b2e4b005f98f08cbe7c11f602a8f7c1957c35a3848ffc499f9c350.jpg",
+        "table_caption": [
+            "表2重建图像误差IME",
+            "表3重建图像相关系数CORR"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>核心流</td><td>二泡流</td><td>四泡流</td><td>十字型</td></tr><tr><td>LBP</td><td>0.5856</td><td>0.3868</td><td>0.2516</td><td>0.2106</td></tr><tr><td>Tikhonov</td><td>0.8097</td><td>0.4221</td><td>0.7843</td><td>0.3002</td></tr><tr><td>Landweber</td><td>0.6882</td><td>0.7346</td><td>0.4281</td><td>0.5698</td></tr><tr><td>FOCUSS</td><td>0.6721</td><td>0.7498</td><td>0.5968</td><td>0.6153</td></tr><tr><td>改进FOCUSS</td><td>0.7324</td><td>0.7663</td><td>0.8014</td><td>0.7098</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合表2、3中的评价指标可知，LBP算法图像误差较大而图像相关系数较小，因此效果最差。但是LBP作为一种直接算法并未进行迭代，具有较快的成像速度。Landweber算法在二泡流中图像相对误差小且相关系数高，Tikhonov正则化在四泡流中效果较好，而在较为复杂的十字型中图像质量并不好。改进FOCUSS算法在FOCUSS算法的基础上减少了图像边缘伪影的影响，同Tikhonov正则化和Landweber算法相比，其四泡流和二泡流的图像相关系数均较高，在十字型中的成像效果也有明显提高，图像相关系数均优于另外四种算法。故本文的改进FOCUSS算法在ECT成像中具有较高的成像质量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文将基于CS理论的正则化FOCUSS算法应用到ECT图像重构，由于CS理论可以在较少观测数据的情况下精确重建原始信号，故应用于ECT图像重建中可以较好地改善ECT系统的欠定性和病态性。采用正则化FOCUSS算法进行求解，同时将拟牛顿法应用到中间稀疏变量的逼近求解中，可进一步改善图像质量。仿真结果表明：改进FOCUSS 算法在ECT 图像重建中具有良好的效果，可为后续ECT算法的研究提供参考。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]王化祥，等．电学层析成像[M]．北京：科学出版社,2013.4-6.   \n[2]赵玉磊．电容层析成像的图像重建算法研究与半物理仿真平台设计 [D]．西安：西安电子科技大学,2016.   \n[3]薛倩，马敏，王化祥．基于电场中心线的 ECT 灵敏度矩阵计算[J]. 中南大学学报：自然科学版,2016,47(11):3929-3934.   \n[4]Cui Ziqiang,Wang Qi, Xue Qian, et al.Areview on image reconstruction algorithms for electrical capacitance//resistance tomography [J]. Sensor Review,2016,36 (4): 429-445.   \n[5]Donoho D L. Compressed sensing [J]. IEEE Trans on Information Theory, 2006,52 (4): 1289-1306.   \n[6]Candes E J,Romberg J,Tao T. Robust uncertainty principles: Exact signal reconstruction from highly incomplete frequency information [J].IEEE Trans on Information Theory,2006,52 (2): 489-509.   \n[7]任越美，张艳宁，李映．压缩感知及其图像处理应用研究进展与展望 [J]．自动化学报,2014,40(8):1563-1575.   \n[8]Wang Lin,Cai Gaigai,You Wei,et al.Transients extraction based on averaged random orthogonal matching pursuit algorithm for machinery fault diagnosis [J]. IEEE Trans on Instrumentationand Measurement,2017, 66 (12): 3237-3248.   \n[9]Bouchhima B,Amara R,Turki Hadj-Alouane M.Perceptual orthogonal matching pursuit for speech sparse modelling [J]. Electronics Lettrs,2017, 53 (21): 1431-1433.   \n[10] Wang Jing,Zhang Jisheng,Chen Chang,et al. Basic pursuit ofan adaptive impulse dictionary for bearing fault diagnosis [C]// Proc of International Conference on Mechatronics and Control.2014.   \n[11] Zibetti MVW,Helou E S,Pipa D R,et al.accelerating overrelaxed and monotone fast iterative shrinkage-thresholding algorithms with line search for sparse reconstructions [J]. IEEE Trans on Image Processing,2017,26 (7): 3569-3578.   \n[12] He Xingyu,Tong Ningning,Hu Xiaowei. Two-dimension gradient projection method for sparse matrix reconstruction [J]. Electronics Leters, 2016,52 (17): 1493-1495.   \n[13l Xie Kan.He Zhaoshui.Andrzei Cichocki.et al.Rate ofConvergence of the ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FOCUSS Algorithm [J].IEEE Trans on Neural Networks and Learning Systems,2017,28 (6):1276-1289.   \n[14]Deng Li,Yuan Sanyi,Wang Shangxu.Sparse Bayesian learning-based seismic denoise by using physical wavelet as basis functions [J].IEEE Geoscience and Remote Sensing Letters,2017,14 (11): 1993-1997.   \n[15] Gorodnitsky IF,George J S,Rao B D.Sparse signal reconstruction from limited data using FOCUSS:a re-weighted minimum norm algorithm [J]. IEEE Trans on Signal Processing,1997,45 (3): 600-616.   \n[16]张立峰，刘昭麟，田沛．基于压缩感知的电容层析成像图像重建算法 [J]．电子学报,2017,45(2):353-358.   \n[17] Zhen Ren,YANGWQ.A simulation study ofa miniature parallel ECT sensor[C]//Proc ofIEEE International Conference on Imaging Systems and Techniques.2014: 144-147. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

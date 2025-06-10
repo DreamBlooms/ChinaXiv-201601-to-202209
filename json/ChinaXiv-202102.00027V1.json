@@ -1,0 +1,432 @@
+[
+    {
+        "type": "text",
+        "text": "拒绝敏感性与边缘型人格特征的关联：一项元分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张雯」胡娜²丁雪辰」 李俊一3（1上海师范大学心理学系，上海200234；²华东师范大学心理与认知科学学院，上海200062；四川师范大学心理学院，成都610066)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要运用元分析法整合探究拒绝敏感性与边缘型人格特征关联的已有实证研究，旨在分析两者间的关联，并同时考察可能影响该关联的其他变量。经过文献检索和筛选，共纳入符合要求的原始文献50篇，含84 个效应量，总样本量为7400人。同质性检验结果表明，纳入研究的异质性较高，故进一步对各影响因素变量进行了亚样本及元回归分析。结果发现，在不同研究设计类型、被试所处地、样本类型、边缘型人格特征指标、拒绝敏感性测量类型的亚样本下，二者之间的关联存在一定差异，其中在横向设计、其他地区样本、混合被试、整体边缘型人格特征、量表法测量时所得的拒绝敏感性与边缘型人格特征间的关联最强；年龄与女性被试比例对该关联不存在显著影响。未来研究可通过纵向研究进一步揭示二者间的预测方向，考察拒绝敏感性不同成分与边缘型人格特征间的关联，并在国内开展探索二者关联的研究。关键词拒绝敏感性，边缘型人格特征，元分析，亚样本分析，元回归分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "拒绝敏感性（Rejection Sensitivity）是指个体在与他人交往的过程中，焦虑地预期他人可能发出的拒绝信息，使得个体对拒绝线索较为敏感并产生过度反应的一种倾向（郑沁怡等，2020;Ding et al.,2020;Downey et al.,2004）。拒绝敏感性的社会认知模型认为，拒绝线索与特定情境之间的联系启动了个体对他人拒绝的预期，因此高拒绝敏感性个体易将他人的模糊行为感知为拒绝（Downey&Feldman,1996; Romero-Canyas et al.,2010），这种表现反过来也会引发他人的拒绝行为，进而形成自我实现预言，并对个体的人际关系造成负面影响（Pietrzak etal.,2005）。其测量方式可通过标准化的心理测验和行为实验展开，包括拒绝敏感性量表（Downey&Feldman,1996）、儿童拒绝敏感性量表（Downey etal.,1998）、成人拒绝敏感性量表（Berenson et al.,2009）、种族拒绝敏感性量表（Mendoza-Denton et al.,2002）、外貌拒绝敏感性量表（Park,2007）、体重拒绝敏感性量表（Brenchley&Quinn,2016）以及网络掷球范式（Williams et al.,2000）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "边缘型人格障碍（Borderline Personality Disorder，以下简称 BPD）是一种严重且复杂的心理问题，通常始于青春期，形成于成年早期，并出现在各种情境中（APA,2013）。其在普通人群中的患病率约为 $1 . 5 \\%$ ，在临床人群中则更为普遍，约为 $9 . 3 \\% \\sim 4 6 . 3 \\%$ （Torgersen,2012）。相比于BPD，边缘型人格特征（以下简称BP特征）则更普遍地存在于普通群体之中（Ayduk et al.,2008;De Panfilis et al.,2016; Peters et al.,2015），主要表现为个体在情绪、人际关系、自我形象上的普遍不稳定以及在行为上明显的冲动性（张英俊等,2017;APA,2013;Jobst etal.,2016）。研究表明，BPD 患者及高BP特征个体通常存在一系列社会及情绪适应问题，如社交网络较小、社交技能较差、所扮演的社会角色多样性较少（Beeney etal.,2018;Liebke etal.,2017），情绪调节困难且易表现出强烈的负面情绪（Botesi et al.,2018;Winteret al.,2017），易出现冲动及自杀行为（Berenson etal.,2016; Temes etal.,2019）。BPD及BP特征通常采用临床访谈与标准化心理测验进行测量，包括 DSM-IV 患者版的结构化临床访谈（Spitzer etal.,1992)和针对DSM-IV轴II型人格障碍的结构化临床访谈(First etal.,1997)，以及米氏边缘型人格障碍检测表（Zanarini etal.,2003）、人格评估量表-边缘型分量表（Morey，1991）、边缘型症状列表（Bohus et al.,2009）等工具。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "许多研究表明，高拒绝敏感性与BP特征有关（Ayduk et al.,2008）。归属需要理论认为，形成与维持稳定的人际关系是人类的基本动机，也是身心健康的基础（Baumeister&Leary,1995)。当个体没能得到他人接纳时会导致归属需要无法得到满足（Twenge etal.,2002)，因而社会排斥被认为是社交情境中的重要消极事件，且可作为衡量个体适应能力的重要标准（丁雪辰等,2015；马原啸，陈旭,2019）。一方面，拒绝敏感性反映了人们在人际互动中的模式和倾向（Downey etal.,2004），而高BP特征个体的人际关系极易不稳定。拒绝敏感性模型认为，个体的拒绝经验导致更高的拒绝敏感性水平，随后与感知拒绝线索相关联，先后引发认知-情感反应和行为反应，进而增加受社会排斥的可能性，影响高BP特征个体的心理健康（Levy et al.,2001）。另一方面，拒绝敏感性也与个体的消极情绪（Ding et al.,2020;McDonald etal.,2010;Watson&Nesdale,2012）及社交回避和家庭暴力行为有关（Gardner etal.,2020;Murphy& Russell,2016）。这些特征都与BP 核心特征相似，且与BPD 的临床特点“害怕拒绝\"和\"真实或想象被遗弃\"相一致（APA,2013），因此二者间可能存在关联。同时，拒绝敏感性也被认为是个体的适应性反应之一，可能通过帮助高BP 特征个体避免潜在的拒绝线索或体验，从而将他们的情感痛苦和烦躁情绪体验最小化，因而与BP特征建立起关联（Ayduk et al.,2008）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从BP特征影响拒绝敏感性水平的角度出发，其主要通过影响个体的负性情绪体验和社会关系这两条路径实现（郑沁怡等,2020）。Bungert,Koppe等人（2015）的研究发现，比起健康个体，在受排斥条件下的BPD 患者对温度刺激的变化感受到更强烈的疼痛感，即高 BP特征个体对于社会排斥存在更强烈的痛苦体验。其他研究结果也表明，高BP 特征个体对排斥信息表现出更少的积极表情，且情绪表达更为复杂（Staebler etal.,2011）。此外，从社会关系的路径来看，高BP特征个体有较低的面部信任评估（Miano etal.,2013），对未来人际关系满意度的预期较低（Lazarus etal.,2016），这说明高 BP特征个体不易信任他人，缺乏社会功能，使得其在社会互动中的反应较为消极，进而增加拒绝敏感性水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "需注意的是，尽管探讨拒绝敏感性与BP 特征之间关联的研究已广泛开展，但其研究结果并不完全一致，在相关程度上仍存在分歧（De panfilis et al.,2016;Dixon-Gordon et al.,2013;Foxhal et al.,2019; Gao et al.,2017; Lazarus et al.,2018），这可能是研究对象的人口学变量、BP 特征指标、拒绝敏感性的测验工具等因素所导致的。例如，从研究设计的角度来看，数据收集方式往往是影响研究结果的重要因素之一，在有关拒绝敏感性与 BP 特征的研究中，多数研究均基于横向同源与配对和实验室实验这两种数据收集的方式，这与拒绝敏感性测量工具相联系，都可能会影响二者之间的关联。通常而言，拒绝敏感性的测量工具包括标准化的心理测验与实验范式（即网络掷球范式）两类，前者是基于被试想象情境而展开（Berenson et al.,2009;Downey&Feldman,1996），后者则更让被试融入于较为真实的人际互动中（Williams et al.,2000;Williams,2007）。同时，相比采用心理测验或问卷测量，实验室实验倾向于模拟一些可能存在的社交场景，易于激活个体与情绪调节及社会反馈等相关脑区的活动，更具有沉浸感（Renneberg et al.,2012;Wang et al.,2017;Wiliams et al., 2007;Wrege etal.,2019）。因此，仅采用问卷测量或通过收集横向数据所得的数据结果相对较弱。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人口学变量也可能会影响二者之间的关联。首先是样本中女性被试比例的影响，男女性在拒绝敏感性以及 BP 特征上存在一定差异，这可能影响二者关联的强度。Downey 和Feldman（1996）指出，高拒绝敏感性的男性对拒绝线索更容易产生愤怒情绪，导致更多暴力行为，而女性则更易陷入冗思之中并减少自己对这段关系的积极付出，导致更多焦虑情绪。同时，相比于男性而言，女性对社交情境中的负面评价更加敏感（Ranet al.,2018）。尽管如此，有研究却发现男性的BP特征与朋友的社会支持呈负相关，而在女性群体中则没有显著相关，这可能是由于女性的友谊亲密度更紧密且得到的社会支持更多（Eschenbeck et al.,2007;Koster etal.,2018）。第二是年龄的影响，从拒绝敏感性水平的角度出发，Sebastian 等人（2011）发现情感回路的功能性发展会影响个体对拒绝线索的敏感性，因此相比于发育成熟的成人，青少年更易表现出较高的拒绝敏感性。且随着年龄升高，个体的情绪调节能力变好（Hay&Diehl,2011），因此对于年龄较小的儿童和青少年而言更易引发个体的不良认知及行为冲动（张雯等,2020；郑沁怡等,2019），进而表现为年龄越低，二者之间的关联就越强。第三是被试所在地的影响，不同地区的人际关系建立模式各不相同，相对于人际关系相对固化且更关注他人对自身评价的集体主义文化，个人主义文化下的个体则倾向于通过更多自主选择去与他人建立社交关系且对于个人兴趣更为关注（Chen et al.,2018;Falk et al.,2009）；同时，在个体忍受模糊信息或对模糊信息感到威胁的程度上，欧美国家的不确定性规避水平相对较低，而高水平的不确定性规避易使个体依赖于刻板的行为规范，进而导致较高的拒绝敏感性及社会排斥感（Zotzmann et al.,2019），因此在非欧美地区样本中所得的二者关联可能更强。第四是样本类型的影响。已有研究表明，与患有其他精神疾病的患者相比，BPD 患者的拒绝敏感性水平更高（Gao et al.,2017），而在加入了健康样本之后，同样发现BPD 患者的拒绝敏感性水平显著高于健康个体（Foxhall et al.,2019）。Zielinski 和 Veilleux（2014）也认为考察健康样本与BPD 患者之间的差异具有一定的必要性。以往有关二者关联的研究中，多数研究基于临床被试、健康被试、混合被试（同时包括临床被试与非临床被试）这三类样本类型而展开，鉴于BPD 的诊疗困难，更多研究转而将关注点放于BP 特征之上，因此在范围较广且异质性较高的混合被试中所得的二者关联应该更强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最后，BP 特征指标可能会影响两者之间的关联。BP 特征由 BPD 四大临床指标所构成，即情绪、人际关系、自我意象的不稳定与行为冲动性（APA,2013;Jobstetal.,2016），而在以往探讨拒绝敏感性与BP特征关联的研究中，多数研究仅考察了BP特征的整体水平，但未聚焦于其某一特定方面（Armenti& Babcock,2018;Masland,2016; Sato etal.,2018）。因此本研究将关注于不同BP 特征指标对二者关联的影响，相对而言，考察 BP 特征整体水平时所得的两者关联应更为强烈。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "虽然已有元分析考察了拒绝敏感性与BPD 或 BP 特征之间的关联，但主要用于得出二者间关系的一般性结论，在具体的影响因素讨论中也仅考察了样本类型(临床vs.非临床)的影响，对其他潜在影响因素的探讨尚不全面（Cavicchioli&Maffei,2019;Foxhalletal.,2019;Gao et al.,2017）。因此，本研究将采用更全面综合的视角，对拒绝敏感性与BP特征的相关研究进行分析并考察不同亚样本下二者间关联的差异，一方面可以避免由于样本异质性等因素而导致结果出现偏差，另一方面也能帮助研究者在特定的亚样本中得到更为精确的结论，为日后进一步的研究指明方向。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，本研究提出假设：研究设计类型、女性被试比例、年龄、被试所在地、样本类型、BP 特征指标、拒绝敏感性测量工具均会影响拒绝敏感性与BP特征之间的关联。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 文献检索",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "涉及本元分析的文献包括中文与英文两类。其中，中文文献按顺序依次在中国知网期刊全文数据库(CNKI)、中国优秀硕博士论文数据库、万方数据库和维普资讯数据库等中进行检索，将关键词“拒绝”、“拒绝敏感性”分别与“边缘型人格”、“边缘型人格障碍”进行匹配；英文文献按顺序依次在 Ebsco、Science Direct、Springer Online Journals、Willy、ProQuest等数据库中进行检索，将关键词\"rejection sensitivity”或\"sensitivity ofrejection\"或\"rejection\"与“borderline personality disorder\"或\"borderline characteristic\"或\"borderline states”或\"borderlinepersonality\"或\"borderline personality features\"或\"borderline personality symptoms\"或\"BPD\"进行匹配，分别搜索篇名或关键词中包含以上词汇的期刊与硕博论文。同时，采用文献回溯法，从论文的参考文献目录中进行再检索以查漏补缺。共检索到文献1184 篇。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本元分析研究文献的纳入标准如下：（1）研究必须考察拒绝敏感性与BP 特征指标（整体、情绪、人际关系、自我形象、行为）之间的关联；（2）研究中明确报告测量工具，并且提供了可计算效应量的统计信息（包括样本量、均值、标准差、t值、 $p$ 值、两个变量间的相关等）；(3）使用同一份研究数据发表多次的文献，仅选择含有更充分信息的文献进行编码；(4）对于包含多个独立样本的文献（例如同时考察BP特征中的情绪和自我形象方面），需对其分别进行编码；(5）影像学相关信息与效应量不纳入研究范围内。根据上述标准，最终纳入元分析的文献共 50篇，共计被试7400人，效应值84个。本研究参考以往文献后所建立的文献筛选流程见图1。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a711be511e605db08b1e9c16eca4529bc1e5aec68de6d4d0fd70d439a82f5485.jpg",
+        "img_caption": [
+            "图1元分析文献筛选流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2文献编码",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经文献检索和筛选后，对符合要求的文献进行整理与编码，详见表1。基于本研究旨在进一步考察不同亚样本是否会影响拒绝敏感性和BP特征之间的关联，在编码过程中不仅需记录相应的数据结果，同时还需将一系列变量如研究设计、年龄等作为其他可能的影响变量纳入分析，因此编码表按照文献信息、被试量、研究设计、被试所处地、样本类型、女性被试比例、年龄、拒绝敏感性的测量类型、BP 特征指标、相关系数的顺序进行编码。需要说明的是，若一篇文献同时报告多个独立样本，则将其分开编码，即每个独立样本编码一次。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/623ce54f99742d3f2483c78be7a0077c4b1959ff52da2f33286c91090b923f61.jpg",
+        "table_caption": [
+            "表1纳入元分析的原始研究基本信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作者+年份</td><td>被试量</td><td>研究 设计</td><td>被试 所处地</td><td>被试 类型</td><td>女性 被试</td><td>年龄 M(SD)</td><td>拒绝敏感性 测量工具</td><td>BP 特征 指标</td><td>相关 系数</td></tr><tr><td>Armenti & Babcock,2018</td><td>218</td><td>横向</td><td>北美</td><td>健康</td><td>比例 51.8</td><td>22.98 ()</td><td>问卷</td><td>整体</td><td>0.380</td></tr><tr><td>Ayduk et al.,2008 A</td><td>379</td><td>横向</td><td>北美</td><td>健康</td><td>64.6</td><td>21.21 (3.57)</td><td>问卷</td><td>整体</td><td>0.290</td></tr><tr><td>Ayduk et al., 2008 B</td><td>104</td><td>横向</td><td>北美</td><td>健康</td><td>63.5</td><td>38.88 (2.01)</td><td>问卷</td><td>整体</td><td>0.430</td></tr><tr><td>Beeney et al.,2014 A</td><td>44</td><td>横向</td><td>北美</td><td>混合</td><td>100</td><td>30.78 (9.98)</td><td>问卷</td><td>整体</td><td>0.455</td></tr><tr><td>Beeney et al.,2014 B</td><td>36</td><td>横向</td><td>北美</td><td>混合</td><td>100</td><td>30.78 (9.98)</td><td>问卷</td><td>整体</td><td>0.143</td></tr><tr><td>Berenson et al.,2009</td><td>87</td><td>横向</td><td>北美</td><td>健康</td><td>79.3</td><td>22.74 (5.57)</td><td>问卷</td><td>整体</td><td>0.420</td></tr><tr><td>Berenson et al., 2011</td><td>85</td><td>横向</td><td>北美</td><td>混合</td><td>76.5</td><td>33.50 (10.20)</td><td>问卷</td><td>整体</td><td>0.681</td></tr><tr><td>Berenson et al.,2016 A</td><td>80</td><td>横向</td><td>北美</td><td>混合</td><td>71.2</td><td>30.69 (9.63)</td><td>问卷</td><td>整体</td><td>0.644</td></tr><tr><td>Berenson et al.,2016 B</td><td>59</td><td>横向</td><td>北美</td><td>混合</td><td>71.2</td><td>30.69 (9.63)</td><td>问卷</td><td>整体</td><td>0.133</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/216b5f04dfe0b5aa6bdaa6d7efbf994023959382d36a71800e5f5524cd23b872.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Berenson et al., 2018</td><td>73</td><td>横向</td><td>北美</td><td>混合</td><td>80.6</td><td>19.40 (1.32)</td><td>问卷</td><td>整体</td><td>0.396</td></tr><tr><td>Berlingo, 2015</td><td>344</td><td>横向</td><td>北美</td><td>健康</td><td>72.4</td><td>/</td><td>问卷</td><td>整体</td><td>0.341</td></tr><tr><td>Boldero et al.,2009 A</td><td>101</td><td>横向</td><td>其他</td><td>健康</td><td>70.3</td><td>20.64 (4.55)</td><td>问卷</td><td>整体</td><td>0.630</td></tr><tr><td>Boldero et al.,2009 B</td><td>131</td><td>横向</td><td>其他</td><td>健康</td><td>71</td><td>20.10 (4.37)</td><td>问卷</td><td>整体</td><td>0.450</td></tr><tr><td>Brown, 2014</td><td>206</td><td>横向</td><td>北美</td><td>健康</td><td></td><td>/0</td><td>问卷</td><td>整体</td><td>0.207</td></tr><tr><td>Bungert,Kope,etal.,15</td><td>40</td><td>横向</td><td>欧洲</td><td>混合</td><td>100</td><td>28.95 (</td><td>问卷</td><td>整体</td><td>0.732</td></tr><tr><td>Bungert,Liebke, et al.,015</td><td>152</td><td>横向</td><td>欧洲</td><td>混合</td><td>100</td><td>27.71()</td><td>问卷</td><td>整体</td><td>0.760</td></tr><tr><td>Bungert,Liebke,et al.,2015 B</td><td>90</td><td>横向</td><td>欧洲</td><td>混合</td><td>100</td><td>27.71 (</td><td>问卷</td><td>整体</td><td>0.589</td></tr><tr><td>Bungert, Liebke,et al.,2015 C</td><td>77</td><td>横向</td><td>欧洲</td><td>混合</td><td>100</td><td>27.71 ()</td><td>问卷</td><td>整体</td><td>0.300</td></tr><tr><td>Bungert,Liebke,et al.,2015 D</td><td>15</td><td>横向</td><td>欧洲</td><td>混合</td><td>100</td><td>27.71 ()</td><td>问卷</td><td>整体</td><td>0.620</td></tr><tr><td>Chesin et al., 2015</td><td>85</td><td>横向</td><td>北美</td><td>临床</td><td>87.1</td><td>31.96 ()</td><td>问卷</td><td>整体</td><td>0.335</td></tr><tr><td>De Panfilis etal.,2016 A</td><td>596</td><td>横向</td><td>北美</td><td>健康</td><td>75.4</td><td>21.20 (5.30)</td><td>问卷</td><td>整体</td><td>0.110</td></tr><tr><td>De Panfilis et al.,2016 B</td><td>596</td><td>横向</td><td>北美</td><td>健康</td><td>75.4</td><td>21.20 (5.30)</td><td>问卷</td><td>行为</td><td>-0.200</td></tr><tr><td>De Panfilis et al., 2016 C</td><td>562</td><td>横向</td><td>北美</td><td>健康</td><td>59.3</td><td>33.70 (11.50)</td><td>问卷</td><td>整体</td><td>0.230</td></tr><tr><td>De Panfilis et al.,2016 D</td><td>562</td><td>横向</td><td>北美</td><td>健康</td><td>59.3</td><td>33.70 (11.50)</td><td>问卷</td><td>整体</td><td>0.430</td></tr><tr><td>De Panfilis et al.,2016 E</td><td>562</td><td>横向</td><td>北美</td><td>健康</td><td>59.3</td><td>33.70 (11.50)</td><td>问卷</td><td>行为</td><td>-0.360</td></tr><tr><td>De Panfilis et al., 2016F</td><td>562</td><td>横向</td><td>北美</td><td>健康</td><td>59.3</td><td>33.70 (11.50)</td><td>问卷</td><td>行为</td><td>-0.480</td></tr><tr><td>Dixon-Gordon et al.,2013</td><td>68</td><td>横向</td><td>北美</td><td>健康</td><td>100</td><td>21.68 (5.20)</td><td>问卷</td><td>整体</td><td>0.630</td></tr><tr><td>Domsalla et al., 2014</td><td>40</td><td>横向</td><td>欧洲</td><td>混合</td><td>100</td><td>28.95 ()</td><td>问卷</td><td>整体</td><td>0.732</td></tr><tr><td>Erbe,2014</td><td>29</td><td>横向</td><td>北美</td><td>混合</td><td>100</td><td>25.42 ()</td><td>问卷</td><td>整体</td><td>0.677</td></tr><tr><td>Euler et al., 2018</td><td>65</td><td>横向</td><td>欧洲</td><td>临床</td><td>76.9</td><td>29.40 (9.20)</td><td>问卷</td><td>自我形象</td><td>0.420</td></tr><tr><td>Fertuck et al., 2013</td><td>36</td><td>横向</td><td>北美</td><td>混合</td><td>72.2</td><td>30.33(</td><td>问卷</td><td>整体</td><td>0.493</td></tr><tr><td>Gardner et al., 2010</td><td>150</td><td>横向</td><td>欧洲</td><td>健康</td><td>70</td><td>26.40 (10.15)</td><td>问卷</td><td>整体</td><td>0.470</td></tr><tr><td>Goodman et al.,2014 A</td><td>133</td><td>横向</td><td>北美</td><td>健康</td><td>67</td><td>/(</td><td>问卷</td><td>整体</td><td>0.230</td></tr><tr><td>Goodman et al.,2014 B</td><td>133</td><td>横向</td><td>北美</td><td>健康</td><td>67</td><td>/</td><td>问卷</td><td>情绪</td><td>0.370</td></tr><tr><td>Gutz et al., 2015 A</td><td>50</td><td>横向</td><td>欧洲</td><td>混合</td><td>88</td><td>26.33 ()</td><td>问卷</td><td>整体</td><td>0.330</td></tr><tr><td>Gutz et al., 2015 B</td><td>50</td><td>横向</td><td>欧洲</td><td>混合</td><td>88</td><td>26.33 ()</td><td>问卷</td><td>整体</td><td>0.692</td></tr><tr><td>Jobst et al., 2014</td><td>39</td><td>横向</td><td>欧洲</td><td>混合</td><td>100</td><td>/</td><td>问卷</td><td>整体</td><td>0.805</td></tr><tr><td>Jobst et al., 2016</td><td>39</td><td>横向</td><td>欧洲</td><td>混合</td><td>100</td><td>30.13 ()</td><td>问卷</td><td>整体</td><td>0.805</td></tr><tr><td>Koster et al., 2018 A</td><td>111 </td><td>横向</td><td>欧洲</td><td>健康</td><td>43</td><td>16.27 (0.70)</td><td>问卷</td><td>整体</td><td>0.450</td></tr><tr><td>Koster et al., 2018 B</td><td>144</td><td>横向</td><td>欧洲</td><td>健康</td><td>43</td><td>16.27 (0.70)</td><td>问卷</td><td>整体</td><td>0.420</td></tr><tr><td>Lazarus et al., 2016</td><td>127</td><td>横向</td><td>北美</td><td>健康</td><td>100</td><td>19.57 (2.50)</td><td>问卷</td><td>整体</td><td>0.260</td></tr><tr><td>Lazarus et al., 2018</td><td>101</td><td>横向</td><td>北美</td><td>混合</td><td>76</td><td>30.00 (5.87)</td><td>问卷</td><td>整体</td><td>0.300</td></tr><tr><td>Liebke et al., 2018</td><td>56</td><td>实验</td><td>欧洲</td><td>混合</td><td>100</td><td>27.13 ()</td><td>问卷</td><td>整体</td><td>0.757</td></tr><tr><td>Masland, 2016 A</td><td>77</td><td>横向</td><td>北美</td><td>混合</td><td>72.7</td><td>31.53 ()</td><td>问卷</td><td>整体</td><td>0.510</td></tr><tr><td>Masland, 2016 B</td><td>77</td><td>横向</td><td>北美</td><td>混合</td><td>72.7</td><td>31.53 ()</td><td>问卷</td><td>整体</td><td>0.400</td></tr><tr><td>Masland, 2016 C</td><td>77</td><td>横向</td><td>北美</td><td>混合</td><td>72.7</td><td>31.53 ()</td><td>问卷</td><td>整体</td><td>0.344</td></tr><tr><td>Meyer et al., 2005 A</td><td>156</td><td>横向</td><td>欧洲</td><td>健康</td><td>72</td><td>30.20 (</td><td>问卷</td><td>整体</td><td>0.210</td></tr><tr><td>Meyer et al., 2005 B</td><td>156</td><td>横向</td><td>欧洲</td><td>健康</td><td>72</td><td>30.20 (</td><td>问卷</td><td>整体</td><td>0.320</td></tr><tr><td>Miano et al., 2013 A</td><td>95</td><td>横向</td><td>北美</td><td>健康</td><td>69</td><td>19.80 (2.95)</td><td>问卷</td><td>整体</td><td>0.190</td></tr><tr><td>Miano et al.,2013 B</td><td>95</td><td>横向</td><td>北美</td><td>健康</td><td>69</td><td>19.80 (2.95)</td><td>问卷</td><td>整体 整体</td><td>0.140 0.120</td></tr><tr><td>Miano et al., 2013 C</td><td>95</td><td>横向</td><td>北美</td><td>健康 健康</td><td>69</td><td>19.80 (2.95)</td></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c544f9f40763fcf8e66bb8e9d388f9e1ca33efa42de39456aa707b6421c4d4c.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：同一研究的多个独立样本用大写字母表示区分，“\"表示在文献中没有报告该部分内容。"
+        ],
+        "table_body": "<html><body><table><tr><td>Peters et al., 2015 C</td><td>411</td><td>横向</td><td>北美</td><td>健康</td><td>68</td><td>19.80 (2.09)</td><td>问卷</td><td></td><td></td></tr><tr><td>Peters et al.,2015 D</td><td></td><td>横向</td><td>北美</td><td>健康</td><td>68</td><td>19.80 (2.09)</td><td>问卷</td><td>自我形象 行为</td><td>0.450</td></tr><tr><td>Renneberg et al., 2012 A</td><td>411 30</td><td>实验</td><td>欧洲</td><td>混合</td><td>86.7</td><td>28.92 ()</td><td>网络掷球范式</td><td>整体</td><td>0.220 -0.355</td></tr><tr><td>Renneberg et al.,2012 B</td><td>30</td><td>实验</td><td>欧洲</td><td>混合</td><td>86.7</td><td>28.92 ()</td><td>网络掷球范式</td><td>整体</td><td>0.043</td></tr><tr><td>Renneberg etal.,2012 C</td><td>30</td><td>实验</td><td>欧洲</td><td>混合</td><td>86.7</td><td>28.92 ()</td><td>网络掷球范式</td><td>整体</td><td>0.036</td></tr><tr><td>Rosenbach & Renneberg,2014</td><td>193</td><td>横向</td><td>欧洲</td><td>健康</td><td>79.3</td><td>25.00 (5.40)</td><td>问卷</td><td>整体</td><td>0.530</td></tr><tr><td>Rosenbach & Renneberg,2015 A</td><td>57</td><td>横向</td><td>欧洲</td><td>混合</td><td>78.2</td><td>34.81()</td><td>问卷</td><td>整体</td><td>0.414</td></tr><tr><td>Rosenbach & Renneberg,2015 B</td><td>60</td><td>横向</td><td>欧洲</td><td>混合</td><td>78.2</td><td>34.81()</td><td>问卷</td><td>整体</td><td></td></tr><tr><td>Sato et al., 2018</td><td>256</td><td>横向</td><td>欧洲</td><td>健康</td><td>67.2</td><td>23.77 (6.67)</td><td>问卷</td><td>整体</td><td>0.686</td></tr><tr><td>Sato et al., 2020</td><td>256</td><td>横向</td><td>欧洲</td><td>健康</td><td>67.2</td><td>23.77 (6.67)</td><td>问卷</td><td>整体</td><td>0.390</td></tr><tr><td>Seidl et al., 2020 A</td><td></td><td>横向</td><td>欧洲</td><td>混合</td><td>64.2</td><td>40.39 ()</td><td>网络掷球范式</td><td>整体</td><td>0.390</td></tr><tr><td>Seidl et al., 2020 B</td><td>63</td><td>横向</td><td>欧洲</td><td>混合</td><td>64.2</td><td>40.39 ()</td><td>网络掷球范式</td><td>整体</td><td>-0.043</td></tr><tr><td>Selby et al., 2010</td><td>63</td><td>横向</td><td>北美</td><td>健康</td><td>78.7</td><td>18.75 (1.05)</td><td>问卷</td><td>整体</td><td>-0.046</td></tr><tr><td>Shorey et al., 2014</td><td>94</td><td>横向</td><td>北美</td><td>临床</td><td>0</td><td>38.89 (10.60)</td><td>问卷</td><td>整体</td><td>0.440</td></tr><tr><td>Skinner, 2014</td><td>98</td><td>横向</td><td>北美</td><td>健康</td><td>76.9</td><td>/</td><td>问卷</td><td>整体</td><td>0.510</td></tr><tr><td>Sommerfeld& Bitton,2020 A</td><td>147 60</td><td>横向</td><td>其他</td><td>混合</td><td>60</td><td>26.41 (6.18)</td><td>问卷</td><td>整体</td><td>0.210</td></tr><tr><td>Sommerfeld & Bitton,2020 B</td><td></td><td>横向</td><td>其他</td><td>混合</td><td>60</td><td>26.41 (6.18)</td><td>问卷</td><td>整体</td><td>0.720</td></tr><tr><td>Staebler et al.,2011 A</td><td>60</td><td>横向</td><td>欧洲</td><td>混合</td><td>77.4</td><td>32.95(</td><td>问卷</td><td>整体</td><td>0.498</td></tr><tr><td>Staebler et al.,2011 B</td><td>26</td><td>横向</td><td>欧洲</td><td>混合</td><td>77.4</td><td>32.95 ()</td><td>问卷</td><td>整体</td><td>0.320</td></tr><tr><td>Staebler et al., 2011 C</td><td>145</td><td>横向</td><td>欧洲</td><td>混合</td><td>77.4</td><td>32.95 ()</td><td>问卷</td><td>整体</td><td>0.546</td></tr><tr><td>Strimpfel, 2012 A</td><td>102 55</td><td>横向</td><td>北美</td><td>健康</td><td>49.1</td><td>15.48 (1.21)</td><td>问卷</td><td>整体</td><td>0.857</td></tr><tr><td>Strimpfel, 2012 B</td><td>55</td><td>横向</td><td>北美</td><td>健康</td><td>49.1</td><td>15.48 (1.21)</td><td>问卷</td><td>情绪</td><td>0.250</td></tr><tr><td>Strimpfel, 2012 C</td><td>55</td><td>横向</td><td>北美</td><td>健康</td><td>49.1</td><td>15.48 (1.21)</td><td>问卷</td><td>人际关系</td><td>0.200</td></tr><tr><td>Strimpfel, 2012 D</td><td>55</td><td>横向</td><td>北美</td><td>健康</td><td>49.1</td><td>15.48 (1.21)</td><td>问卷</td><td>自我形象</td><td>0.470</td></tr><tr><td>Strimpfel, 2012 E</td><td>55</td><td>横向</td><td>北美</td><td>健康</td><td>49.1</td><td>15.48 (1.21)</td><td>问卷</td><td>行为</td><td>0.220</td></tr><tr><td>Thome et al., 2016</td><td>72</td><td>实验</td><td>欧洲</td><td>混合</td><td></td><td>26.70 ()</td><td>问卷</td><td>整体</td><td>-0.050 0.786</td></tr><tr><td>Tragesser et al., 2008</td><td>121</td><td>横向</td><td>北美</td><td>健康</td><td>100</td><td></td><td>问卷</td><td>整体</td><td>0.340</td></tr><tr><td>Winter et al., 2015</td><td>60</td><td>横向</td><td>欧洲</td><td>混合</td><td>68.6 100</td><td>19.17 (1.78)</td><td>问卷</td><td>整体</td><td>0.716</td></tr><tr><td>Winter et al., 2016</td><td>60</td><td>横向</td><td>欧洲</td><td>混合</td><td>100</td><td>26.12 () 26.12 ()</td><td>问卷</td><td>整体</td><td>0.716</td></tr><tr><td>Wrege et al., 2019</td><td>68</td><td>实验</td><td>欧洲</td><td>混合</td><td>80.9</td><td>26.73 ()</td><td>网络掷球范式</td><td>整体</td><td>0.168</td></tr><tr><td></td><td></td><td>横向</td><td>北美</td><td>健康</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Zielinski& Veilleux,2014</td><td>165</td><td></td><td></td><td></td><td>64.2</td><td>19.09 (1.14)</td><td>问卷</td><td>整体</td><td>0.280</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3数据元分析过程",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "采用Comprehensive Meta Analysis 2.0(CMA2.0)对已筛选文献进行数据编码与分析，鉴于本研究关注不同变量对拒绝敏感性与BP特征间关联的影响程度，选择相关系数 $( r )$ 作为效应量。在编码过程中，部分文献未直接给出二者之间的相关系数 $( r )$ ，而是报告了 $F$ 值、 $t$ 值、$d$ 值等，但无论原始数据报告了何种数据，CMA 软件均可将原始编码的数据转化为研究所需的效应量，得到计算合成的相关系数。此外，由于部分文献包括多个被试组，本研究将分别呈现每篇研究文献中所囊括的多个独立效应量，最终共得到84个独立的效应量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前元分析主要采用固定效应模型(fixed effectmodel)和随机效应模型(random effectmodel)来分析结果。前者假设所有纳入的研究间仅存在一个相同的真效应量，而研究效应量间的不同是由随机误差导致的；后者则假设每个被纳入的研究间的真效应量可以不同，研究效应量间的不同是由真效应量的不同和随机误差共同导致的（Borenstein etal.,2009）。当元分析文献的被试群体、测量工具等变量水平存在不同，且这些差异会影响主效应结果时，应使用随机效应模型（邵嵘等,2019；张亚利等,2019）。鉴于此，由于本研究旨在探讨不同变量对拒绝敏感性与BP特征间关联的影响，因此采用了随机效应模型对数据进行分析。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，本研究采用两种方法以考察其他变量对二者关联的影响：(1）当其他变量为类别变量时采用亚样本分析；(2）当其他变量为连续变量时采用元回归分析。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3研究结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1异质性检验 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "异质性检验结果如表2显示。从该表可以看出，异质性检验 $\\boldsymbol { Q }$ 值为 $1 7 1 5 . 7 3 ( p < 0 . 0 0 1 )$ ：I-squared 值为 $9 5 . 1 6 \\%$ ，说明拒绝敏感性与BP特征间的关联中有 $9 5 . 1 6 \\%$ 的观察变异是由于二者关联中的真正差异所造成的，而只有 $4 . 8 4 \\%$ 的变异来源于随机误差；根据 $I -$ -squared 的分界点 $2 5 \\%$ 、 $5 0 \\%$ 和 $7 5 \\%$ 分别对应低、中、高异质程度的原则（Higgins etal.,2003），本研究的各个效应值具有高异质性，估计值差异可能受到其他因素的干扰，因此本研究不宜得出整体一般性结论，有必要进一步探讨影响二者关联的其他变量。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/bdf05cc7254c93b558f3e3ad58637a8e40e0693bb270371f4fdcc3dd5d1d66ad.jpg",
+        "table_caption": [
+            "表2效应值异质性检验（ $\\boldsymbol { Q }$ 统计)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">模型</td><td>独立</td><td colspan=\"4\">异质性</td><td colspan=\"4\">Tau-squared</td></tr><tr><td>样本</td><td>Q值</td><td>df(Q)</td><td>p值</td><td>I-squared</td><td>Tau-squared</td><td>SE</td><td>方差</td><td>Tau</td></tr><tr><td>随机效应</td><td>84</td><td>1715.73</td><td>83</td><td>0.000</td><td>95.16</td><td>0.13</td><td>0.03</td><td>0.00</td><td>0.36</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2发表偏倚检验 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fail-safeN(失安全系数)显示， $N { = } 5 0 1 8$ 。若失安系数大于 $5 \\mathsf { K } { + } 1 0$ （K表示独立样本的数量），则出现发表偏倚的可能性较小（Rothstein etal.,2006）。据此，该元分析不存在发表偏倚。此外，通过漏斗图（funnel plot）可发现，其分布呈现左右对称分布，表明本元分析存在发表偏倚的可能性较小。漏斗图右下方的点较少，证明效应值大、精度差的研究数量较少；最后，大部分点集中在漏斗图的顶部，点集中在顶点，表明误差较小，样本量较大。总结以上结果可以判断，本研究的元分析受到发表偏倚的影响很小（见图2）。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad240d00de371e08024cdff6c806126862ce45a2c6a1eea0a6074949ab78da5f.jpg",
+        "img_caption": [
+            "图2漏斗图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3亚样本分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "鉴于异质性较高的情形，本研究将重点关注拒绝敏感性与BP特征间关联的各亚样本分析，考察在研究设计类型、被试所处地、样本类型、BP 特征指标和拒绝敏感性测量类型中的不同亚样本下，拒绝敏感性与BP特征间的关联是否存在显著差异。其中，研究设计类型包括横向和实验室实验（因没有纵向设计而未包含其中）；被试所处地包括欧美地区和其他地区；样本类型分为临床被试、健康被试（非临床被试）和混合被试（既有临床被试又有非临床被试）；BP 特征指标根据其定义分为整体（未探究其具体方面）、情绪、人际关系、自我形象和行为；拒绝敏感性的测量类型包括问卷/量表和行为实验两类。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如表3所示，亚样本分析结果显示，在研究设计上，采用横向设计时拒绝敏感性与 BP特征间的相关系数最高，达到0.41（ ${ \\dot { p } } < 0 . 0 0 1 { \\dot { \\bf \\Omega } }$ ）；在被试所处地上，其他地区样本中拒绝敏感性与BP特征间的相关系数最高，达到0.58（ $_ { p < 0 . 0 0 1 }$ ）；在样本类型上，混合被试（既有健康被试又有临床被试)中拒绝敏感性与BP特征间的相关系数最高，达到 $0 . 5 3 ( p < 0 . 0 0 1 )$ 在 BP 特征指标上，拒绝敏感性与整体 BP特征间的相关系数最高，达到0.45 （ $_ { \\cdot p < 0 . 0 0 1 } )$ ；在拒绝敏感性的测量类型中，量表测量时所得的拒绝敏感性与 BP 特征间的相关系数最高，达到0.43（ $p < 0 . 0 0 1$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/052d42fafc6f52e1cca7b4d264a99a069da1a7d220c7f00f3077b9fc4eb6f523.jpg",
+        "table_caption": [
+            "表3亚样本分析结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td rowspan=\"2\">类别</td><td rowspan=\"2\">独立样本</td><td colspan=\"4\">效应值及95%置信区间</td><td>双侧检验</td></tr><tr><td>点估计</td><td>下限</td><td>上限</td><td>Z</td><td>P</td></tr><tr><td rowspan=\"2\">研究设计</td><td>横向</td><td>78</td><td>0.41</td><td>0.34</td><td>0.48</td><td>10.37</td><td>0.000</td></tr><tr><td>实验</td><td>6</td><td>0.32</td><td>-0.14</td><td>0.67</td><td>1.38</td><td>0.169</td></tr><tr><td>被试所处地</td><td>欧美</td><td>80</td><td>0.40</td><td>0.33</td><td>0.47</td><td>9.86</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f778bb4b044af39dc2e1ae0378bdc398f5536a3d416a02a0df20b0a5727e8d2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"5\">样本类型</td><td>其他</td><td>4</td><td>0.58</td><td>0.44</td><td>0.69</td><td>7.06</td><td>0.000</td></tr><tr><td>临床</td><td>3</td><td>0.43</td><td>0.32</td><td>0.53</td><td>6.94</td><td>0.000</td></tr><tr><td>健康</td><td>42</td><td>0.29</td><td>0.20</td><td>0.38</td><td>6.08</td><td>0.000</td></tr><tr><td>混合</td><td>39</td><td>0.53</td><td>0.43</td><td>0.61</td><td>9.65</td><td>0.000</td></tr><tr><td>整体</td><td>71</td><td>0.45</td><td>0.39</td><td>0.50</td><td>13.82</td><td>0.000</td></tr><tr><td>BP 特征</td><td>情绪</td><td>3</td><td>0.38</td><td>0.26</td><td>0.49</td><td>5.71</td><td>0.000</td></tr><tr><td>指标</td><td>人际</td><td>2</td><td>0.42</td><td>0.34</td><td>0.49</td><td>9.52</td><td>0.000</td></tr><tr><td></td><td>自我</td><td>3</td><td>0.40</td><td>0.28</td><td>0.51</td><td>6.06</td><td>0.000</td></tr><tr><td></td><td>行为</td><td>5</td><td>-0.19</td><td>-0.43</td><td>0.07</td><td>-1.42</td><td>0.157</td></tr><tr><td>拒绝敏感性的</td><td>量表</td><td>78</td><td>0.43</td><td>0.36</td><td>0.50</td><td>10.80</td><td></td></tr><tr><td>测量类型</td><td>行为实验</td><td>6</td><td>-0.02</td><td>-0.15</td><td>0.12</td><td>-0.26</td><td>0.000 0.795</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4年龄与女性被试比例在不同亚样本中的元回归分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究进一步采用元回归分析考察了年龄及女性被试比例这两个连续变量在不同亚样本下对拒绝敏感性与BP 特征间关联的影响。根据 Jin 等人（2019）的建议，本研究选取了独立样本量较大的亚样本进行探究年龄及女性被试比例对拒绝敏感性与 BP 特征间关联的影响。结果如表4所示，在横向设计、欧美地区、整体BP特征、量表法这四个亚样本下，年龄与女性被试比例对二者间关联的影响均不显著‘ $( p s > 0 . 0 5 )$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f69c177c903a4fc366d4374e9bc3e686882f23ff97b5fa815fb2575ae4d0669.jpg",
+        "table_caption": [
+            "表4元回归分析结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>b</td><td>SE</td><td>下限</td><td>上限</td><td>Z</td><td>P</td></tr><tr><td rowspan=\"3\">横向设计</td><td>年龄(M)</td><td>0.01</td><td>0.01</td><td>-0.02</td><td>0.04</td><td>0.78</td><td>0.437</td></tr><tr><td>年龄（SD)</td><td>-0.02</td><td>0.03</td><td>-0.07</td><td>0.03</td><td>-0.91</td><td>0.362</td></tr><tr><td>女性被试比例</td><td>0.00</td><td>0.00</td><td>-0.00</td><td>0.01</td><td>0.50</td><td>0.620</td></tr><tr><td rowspan=\"3\">欧美地区</td><td>年龄（M)</td><td>0.01</td><td>0.01</td><td>-0.02</td><td>0.04</td><td>0.89</td><td>0.374</td></tr><tr><td>年龄（SD)</td><td>-0.03</td><td>0.03</td><td>-0.08</td><td>0.02</td><td>-1.04</td><td>0.297</td></tr><tr><td>女性被试比例</td><td>0.00</td><td>0.00</td><td>-0.00</td><td>0.01</td><td>0.61</td><td>0.545</td></tr><tr><td rowspan=\"3\">整体 BP特征</td><td>年龄（M)</td><td>0.01</td><td>0.01</td><td>-0.01</td><td>0.02</td><td>0.55</td><td>0.580</td></tr><tr><td>年龄（SD)</td><td>0.01</td><td>0.02</td><td>-0.03</td><td>0.04</td><td>0.33</td><td>0.741</td></tr><tr><td>女性被试比例</td><td>-0.00</td><td>0.00</td><td>-0.01</td><td>0.00</td><td>-0.21</td><td>0.830</td></tr><tr><td rowspan=\"3\">量表法</td><td>年龄(M)</td><td>0.01</td><td>0.01</td><td>-0.02</td><td>0.04</td><td>0.78</td><td>0.437</td></tr><tr><td>年龄(SD)</td><td>-0.02</td><td>0.03</td><td>-0.07</td><td>0.03</td><td>-0.91</td><td>0.362</td></tr><tr><td>女性被试比例</td><td>0.00</td><td>0.00</td><td>-0.00</td><td>0.01</td><td>0.50</td><td>0.620</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究采用元分析法，通过收集并纳入以往实证研究探讨了拒绝敏感性与BP特征之间的关联程度，结果发现所纳入文献的异质性较高。基于此，本文聚焦于影响拒绝敏感性与 BP特征间关联的进一步分析，可能的影响因素包括研究设计类型、被试所处地、样本类型、BP特征指标、拒绝敏感性的测量类型、年龄及女性被试比例，其中对类别变量采用亚样本分析，而对连续变量则选择在独立样本量较多的亚样本中进行元回归分析，以考察在不同亚样本中拒绝敏感性与BP特征间关联的差异。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以往研究表明，拒绝敏感性与BP 特征之间呈正相关（Cavicchioli&Maffei,2019;Foxhallet al.,2019;Gao et al.,2017）。一方面，拒绝敏感性模型认为拒绝敏感性促进防御性动机系统的激活以使个体保持和避免预期或感知到的威胁（Downeyetal.,2004），尤其是在对人际交往中拒绝线索的反应上，因此其常与以特定情绪（如愤怒、焦虑）和敌意感为特征的“战或逃反应(fight-or-flight response)”密切相关，表现为消极情绪以及社交回避或暴力行为（Gardner et al.,2020; McDonald et al.,2010; Murphy& Russel,2016），这正与 BP 的核心特征相关联。高BP特征个体在行为上的冲动性可能代表了个体对适应不良的自我调节机制，更易在高拒绝敏感性的个体中表现出来；而其常认为自己“被世界所抛弃”的信念也能通过对社会拒绝的预期来解释，可被看作是对拒绝线索的极度敏感(Cavicchioli&Maffei,2019)，且当个体激发强烈情绪时，个体更难辨别潜在的社会线索，从而导致这种影响更为严重（Daros etal.,2013）。另一方面，高拒绝敏感性个体有类似于高BP特征个体的人际交往困难（Downey&Feldman,1996），自我实现预言会通过“高拒绝敏感性 $$ 面对同一模糊社会威胁线索时知觉到更多拒绝讯息且行为反应更强烈→对他人行为产生影响→被社会拒绝”的路径实现（Pietrzak etal.,2005）。对于高BP特征的个体而言，当其遭到他人的拒绝时会因自我实现的预言而使其拒绝敏感性水平变高，且会验证“被抛弃”的核心信念，进而加强这种信念，使其社会功能进一步下降（Beeney et al.,2018）。同时，BPD 患者或高 BP特征个体本身就易将社会线索知觉为社会拒绝，因为其社交技能和情绪调节能力均较差（Beeney etal.,2018;Bottesi et al.,2018;Winter et al.,2017），易将来自他人的拒绝归因于自我品质并表现出冲动性行为（Berenson et al.,2016;Berenson et al.,2018），这都可能进一步对他人行为或对个体的看法产生负面影响，导致真正地被他人拒绝，而这种拒绝不仅会反过来使拒绝敏感性的水平变高，也会使得其 BP 特征水平更强烈。然而，就拒绝敏感性与BP 特征之间的关联而言，仍有不少因素会对其产生影响，因此本研究将聚焦于特定影响因素如何影响该关联以及在何种情况下两者之间的关联更强。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1不同变量对拒绝敏感性与边缘型人格特征间关联的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以往研究缺少对影响二者之间关系的其他变量进行关注，而不同亚样本其实可以解释以往拒绝敏感性与BP特征间关联范围较广的原因。本研究通过亚样本分析考察了研究设计类型、被试所处地、样本类型、BP特征指标以及拒绝敏感性的测量类型对拒绝敏感性与BP特征间关联的影响，所得结果与研究假设部分一致。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "研究结果显示，采用不同研究设计所测得拒绝敏感性与BP特征之间的相关系数具有显著差异，横向研究中所得到的效应值较高；与之类似地，拒绝敏感性的测量类型对二者之间关联也存在显著影响，问卷或量表测量下的效应量高于行为实验法所得效应量。这与研究假设并不一致，说明二者关联的强弱性并未受实验情境或参与度的影响，反而是在采用横向设计以及问卷量表进行分析时所得的效应量更高。这可能与BPD 的核心特征“真实或想象被抛弃”有关，BPD 患者倾向于放大拒绝情境的可能性（APA,2013）。在实验室实验中，被试所参与的网络掷球范式已被实验者预先设置好社会拒绝与接纳的参数，虽然这会给参与者带来沉浸感，但在一定程度上也有所限制，如交往过程中的其他参与者人数较少以及并非现实生活情境等。而当面对没有实验范式设定好的拒绝参数而是想象问卷中提及的情境时，一方面个体会将问卷情境联系到生活中特定的事件，另一方面也会更偏向于认为自己会被拒绝，且自己被排斥的程度更高，导致拒绝敏感性水平更高。此外，这也可能是由于所纳入的文献中采用实验法研究或网络掷球范式测量拒绝敏感性的研究数量相对较少导致结果并不明显。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "从样本的人口学变量出发。首先，不同被试所处地在两者关联上存在显著差异，相比于盛行个人主义文化的欧美地区，在其他地区样本中所得的二者关联更大。这可能受到了文化差异的影响。一方面，亚洲地区深受儒家文化影响，对人际关系的关注度较高，个体对他人给自己的评价尤为关注（Chenetal.,2018）。例如，在中国儿童从小就被要求要高度重视人际关系，更易关注群体内的人际关系（丁雪辰等,2015），这可能会导致个体的拒绝敏感性相对较高，容易将一些模棱两可的社会线索感知为他人的拒绝；另一方面，由于欧美地区普遍具有较低的不确定性规避水平，而其他地区（尤其是亚洲地区）则拥有较高的不确定性规避水平，更依赖于严格的行为规范等，容易导致个体出现较高的拒绝敏感性，并可能影响个体的人际交往过程（Zotzmann etal.,2019），因此相比于欧美地区样本而言，其他地区样本在拒绝敏感性与BP特征间的关联上表现更为强烈。第二，不同样本类型对二者关联的影响显著，混合被试（既有健康被试又有临床被试）下研究所得的效应值最大，该结果与假设相一致。这可能是由于混合被试的文献往往同时考虑了临床患者与对照组之间的差异，更聚焦于 BP 特征之上，关注的范围更广，样本人群特征也更为多样，导致所得二者关联的效应量较大。这也说明，无论是对健康个体，BPD 患者，还是患有其他精神疾病的个体，拒绝敏感性与 BP 特征间的关联是普遍存在的。此外，在BP 特征指标上，报告BP 特征整体水平的研究所得的效应量最大，这与假设相一致，说明拒绝敏感性虽然基于个体的人际关系而展开，但是与BP特征之间的关联并不仅限于人际关系的不稳定，而是表现出全方位的影响。例如，高拒绝敏感性个体在感知到拒绝信息后易产生愤怒情绪，导致敌意性反应或攻击性行为，以主动攻击他人来获得认同感，或是对拒绝自己的他人进行反击（Bondu&Richter,2016;Jacobs&Harper,2013），从而与BP特征中的行为不稳定相关联，这也验证了人格的认知—情感系统理论中“个体的认知、情感和行为是其所处于人际系统之中而产生的功能”的观点。另外，这可能是由于拒绝敏感性影响了个体的情绪、行为、自我意象（Ding etal.,2020;Gardner etal.,2020;McDonaldetal.,2010），进而影响了BP特征的整体水平，也可能是高BP特征个体在情绪、人际关系、自我意象上的不稳定以及在行为上的冲动性均可能会导致个体更易受到社会排斥（Beeney et al.,2018; Berenson et al.,2016; Bottesi et al.,2018; Winter et al.,2017），而同时由于其“害怕被抛弃”的核心认知（APA,2013），进一步导致拒绝敏感性水平升高，久而久之陷入恶性循环。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "此外，本研究根据前人建议（Jinetal.,2019）选取了独立样本量较多且对二者关联存在影响的亚样本，通过元分析回归考察年龄及女性被试比例在这些特定样本中对拒绝敏感性与 BP 特征间关联的影响。与假设不一致的是，在横向设计、欧美地区样本、整体 BP 特征、量表法测量的亚样本中，年龄与女性被试比例对二者间关联的影响均不显著。从年龄的角度来看，这可能是因为对任何年龄层的个体而言，人际关系均是十分重要的。本元分析中纳入的样本年龄基本处于青少年与成年人这两大群体之中，现有研究发现，某些社会关系的压力源（如青少年容易把缺乏同伴支持理解为批评或社会排斥）能够预测青少年的抑郁程度，尤其是对于高拒绝敏感性的个体而言（Chango etal.,2012）。然而，成年人的压力源也能够预测其焦虑抑郁程度，如社会经济地位、童年经历等（Fan etal.,2020;Jones et al.,2018）。也就是说，青少年与成年人都可能由不同人际压力源而影响其内化问题。同时，有研究者发现相比于儿童早期的执行功能较不完善，从青少年期起，随着个体的自我意识不断增强，个体开始更多地关注自我与社会之间的联系（郭菲，雷雳,2006），因此年龄对拒绝敏感性与 BP特征间关联的影响未能显著地体现在青少年期与成年期这两个阶段之间，而是可能出现在儿童与其他年龄群体之间。从女性被试比例的角度来看，尽管女性的社会支持往往多于男性，共情能力较好且更善于沟通、亲和力更佳（张亚利等,2019;Eschenbeck et al.,2007），但女性对社交情境中存在的负面评价也更为敏感（Ran etal.,2018）。另外，性别差异可能存在于二者关联所倾向的具体侧面，而非整体。例如，男性和女性的拒绝信息加工方式不同，男性对于他人拒绝表现出更多的愤怒情绪，而女性则表现出更多的焦虑情绪（Downey&",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Feldman,1996），且女性多表现为情绪不良，对应BP特征中的情绪指标，而男性则多表现为冲动行为，对应BP特征中的行为指标（Carlson et al.,2020; Sher et al.,2019）。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2研究不足与展望",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本研究的不足包括以下几个方面：（1）元分析方法需要尽可能地纳入目前已有的文献研究资料，虽然本研究利用检索工具尽量充分地搜集了文献，但存在一些特殊情况可能导致数据的遗漏，例如有部分文献可能正在研究过程之中而尚未公布在公共检索平台，或由于语言限制未纳入其中；(2）部分变量的亚样本下存在样本分布不均衡的问题，有部分组别仅包含了几个效应值，与其他水平组别的样本量差异较大，可能会导致亚样本分析结果存在一定偏差；（3）尚存在更多可能影响二者间关联的其他变量，但未纳入到讨论的范围中。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "未来的研究可以考虑：(1）本研究在摘取原始文献数据信息时仅考虑了两个变量之间零阶相关系数以及其他变量对二者间关联的可能影响，未来可考虑继续深入探讨其中可能存在的中介机制；(2）本研究纳入的文献中不包含纵向研究，导致元分析结果无法揭示两者之间存在的预测方向，其主要原因在于国内外尚且没有纵向的实证依据，因此未来研究可借助纵向研究进一步探讨二者之间可能存在的相互预测关系；(3）本研究纳入的文献中鲜有研究从拒绝敏感性的成分（愤怒成分、焦虑成分、拒绝预期）出发以考察其对BP 特征的影响，未来研究可从该角度着手探讨拒绝敏感性不同成分的关联差异；(4）国内研究者可以从影响二者间关联的调节变量着手，结合中国背景进一步对该问题进行探究与分析。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1）横向设计、其他地区样本、混合被试、整体边缘型人格特征、量表法测量时所得的拒绝敏感性与边缘型人格特征之间的相关系数最高;(2）在横向设计、欧美地区样本、整体边缘型人格特征、量表法测量的亚样本中，年龄与女性被试比例对拒绝敏感性与边缘型人格特征间关联的影响均不显著。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(\\*表示元分析所纳入的文献)",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "丁雪辰，张田，邓欣媚，桑标，方力，程琛.(2015).“孤芳自赏\"还是“子立\"：儿童社交淡漠适应功能的",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "文化差异．心理科学进展,23(3),439-447.郭菲，雷雳.(2006).青少年假想观众和个人神话观念的研究述评．心理科学进展,14(6),873-879.马原啸，陈旭.(2019).非安全依恋可塑性的神经机制．心理科学进展,27(12),1967-1979.邵嵘，滕召军，刘衍玲.(2019).暴力视频游戏对个体亲社会性的影响：一项元分析．心理科学进展,27(3),",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "453-464.   \n张雯，周同，丁雪辰，周楠.(2020).儿童拒绝敏感性与自我知觉的关系：一项交叉滞后研究．心理发展与教 育,36(6), 649-658.   \n张亚利，李森，俞国良.(2019)．自尊与社交焦虑的关系：基于中国学生群体的元分析．心理科学进展,27(6), 1005-1018.   \n张英俊，樊富珉，张逸梅.(2017).高边缘性人格障碍特质者负性沉浸的自我反思倾向．心理科学,40(5), 173-179.   \n郑沁怡，丁雪辰，刘影，万旋傲，桑标.(2019)．儿童社交自我知觉与抑郁感的关系：拒绝敏感性的中介作用 与情绪调节能力的调节作用．中国临床心理学杂志,27(5),894-899.   \n郑沁怡，胡娜，丁雪辰.(2020).拒绝敏感性的影响因素——基于“个人×环境模型”应用心理学,26(1),83- 96.   \nAmerican Psychiatric Asociation.(2013). Diagnostic and statistical manual of mental disorders: DSM-5.Arlington, VA:American Psychiatric Association.   \n\\*Armenti,N.A.,& Babcock, J.C.(O18). Borderline personality features,anger,and intimate partner violence: An experimental manipulation of rejection. Journal of Interpersonal Violence,1-26.   \n\\*Ayduk,O.,Zayas,V.,Downey,G.,Cole,A.B.,Shoda,Y.,&Mischel,W. (2Oo8).Rejectionsensitivityand executive control: Joint predictors ofborderline personality features.Journal ofResearch in Personality42(1),151-168.   \nBaumeister,R.F.,&Leary,M.R.(1995).The need to belong: Desire for interpersonal atachments as a fundamental human motivation.Psychological Bulletin,117(3),497-529.   \nBeeney,J.E.,Hallquist,M. N., Clifton,A.D.,Lazarus,S.A.,& Pilkonis,P.A.(2O18). Social disadvantage and borderline personality disorder: A study of social networks.Personality Disorders: Theory，Research,and Treatment, 9(1), 62-72.   \n\\*Beeney, J.E.,Levy, K.N.,Gatzke-Kopp,L.M.,& Hallquist,M. N. (2014).Eeg asymmetry in borderline personality disorder and depression following rejection.Personality Disorders:Theory， Research， and Treatment, 5(2),178-185.   \n\\*Berenson,K.R.,Downey,G.,Rafaeli,E.,Coifman, K.G.,&Paquin,N.L. (2011).Therejection-rage contingency in borderline personality disorder. Journal of Abnormal Psychology, 120(3), 681-690.   \n\\*Berenson,K.R.， Gregory,W.E., Glaser, E.，Romirowsky,A.,& Downey, G. (2016). Impulsivity,rejection sensitivity,andreactions to stressors inborderline personalitydisorder.Cogntive Therapyand Research,40(4), 510-521.   \n\\*Berenson,K.R, Gyurak,A.,Ayduk,O.,Downey, G., Garmer,M.J.,Mogg,K.,..& Pine,D.S.(2009).Rejection sensitivity and disruption of attention bysocial threat cues.Journal of Research in Personality,43(6),1064- 1072.   \n\\*Berenson,K.R.,Nynaes,O., Wakschal,E.S.,Kapner,L.M,& Sweeney,E.C.(2018). Atributions forrejection and acceptance in young adults with borderline and avoidant personality features.Journal ofSocial and Clinical Psychology, 37(6), 431-452.   \n\\*Berlingo,M. T. (2015). Ostracism and rejection sensitivity: Are the sensitive really sensitive? (Unpublished doctorial dissertation). Washington State University.   \nBohus,M.,Kleindienst,N.,Limberger,M.F.,Stieglitz,R.D.,Domsala,.,Chapman,A.L.,..& Wolf,.(2009). The short version of the Borderline Symptom List (BSL-23): Development and initial data on psychometric properties. Psychopathology, 42(1),32-39.   \n\\*Boldero,J.M.,Hulbert,C.A.Bloom,.,Cooper,J., Gilbert,F.,Mooney,JL.& Salinger,J. (209).Rejection sensitivity and negative self-beliefs as mediators of asociations between the number of borderline personality disorder features and self-reported adult attachment.Personality and Mental Health,3(4),248-262.   \nBondu,R.,& Richter,P. (2016).Linking forms and functions of aggression in adults to justice and rejection sensitivity. Psychology of Violence, 6(2),292-302.   \nBorenstein, M., Hedges,L. V., Higgins, J.P. T.,& Rothstein, H.R. (2009). Effect sizes based on means. In M. Borenstein,L. V. Hedges, J.P.T. Higgins,&H. R.Rothstein (Eds.), Introduction to meta-analysis (pp.21-32). Chichester, UK: John Wiley & Sons, Ltd.   \nBottesi,G.,Tesini,V. Cerea,S.，& Ghisi,M.(2O18).Are difficulties in emotion regulation and intolerance of uncertainty related to negative afect inborderline personality disorder?Clinical Psychologist, 22(2),137-147.   \nBrenchley,K.J.M.,& Quinn,D.M. (2016). Weight-based rejection sensitivity: Scale development and implications for well-being. Body Image,16,79-92.   \n\\*Brown, W.C.(2o14). Borderline features,rejection sensitivityand romantic relationships: A daily diary studyof romantic partners (Unpublished doctorial dissertation). University of Missouri-Columbia.   \n\\*Bungert, M.，Koppe,G.，Niedtfeld,I.,Volstadt-Klein,S.，Schmahl, C.，Lis，S.，& Bohus,M. (2015).Pain processing after social exclusion and its relation to rejection sensitivity in borderline personality disorder. PLoS ONE,10(8), e0133693.   \n\\*Bungert,M.,Liebke,L.,Thome,J.,Haeussler,K.,Bohus,M.,&Lis,S. (2015).Rejectionsensitivityandsymptom severity in patients with borderline personality disorder: Effects of childhood maltreatment and self-esteem. Borderline Personality Disorder and Emotion Dysregulation, 2(1), 4.   \nCarlson,E.M.,Cox,D.W., Kealy,D., Chapman,A.L.,&Ogrodniczuk,J.S.(2020).Social role dysfunction and coping in borderline personality disorder. Personality and Mental Health,14(2),227-239.   \nCavicchioli,M.,& Maffei, C.(2019).Rejection sensitivityinborderline personality disorder and the cognitiveaffective personality system: Ameta-analytic review. Personality Disorders: Theory, Research,and Treatment, 11(1), 1-12.   \nChango,J. M., McElhaney, K.B.,Allen,J.P.， Schad,M.M.，& Marston,E. (2012).Relational stressors and depressive symptoms in late adolescence: Rejection sensitivity as a vulnerability. Journal of Abnormal Child Psychology, 40(3),369-379.   \nChen,X.,Fu,R.,Liu,J.,Wang,L.&Elis,W.E. (2o18).Socialsensitivityandsocial,school,and psychological adjustment among children across contexts.Developmental Psychology, 54(6),1124-1134.   \n\\*Chesin,M.,Fertuck,E., Goodman,J.,Lichenstein, S.,& Stanley,B.(2015).The interactionbetween rejection sensitivityand emotional maltreatment in borderline personality disorder.Psychopathology, 48(1),31-35.   \nDaros,A. R.,Zakzanis, K.K,& Ruocco,A. C.(2013).Facial emotion recognition in borderline personality disorder. Psychological Medicine, 43(9),1953-1963.   \n\\*De Panfilis,C.,Meehan, K.B., Cain,N.M.,& Clarkin,J.F. (2016).Efrtful control, rejection sensitivity,and borderline personality disorder features in adulthood. Journal of Personality Disorders,30(5),595-612.   \nDing,X.,Fu,R., Ooi,L.L., Coplan,R.J., Zheng, Q.,&Deng,X. (2020).Relations between diferent components of rejection sensitivity and adjustment in Chinese children. Journal of Applied Developmental Psychology, 67, 101119.   \n\\*Dixon-Gordon, K.L., Yiu,A.,& Chapman,A.L. (2013). Borderline personality features and emotional reactivity: The mediating role of interpersonal vulnerabilities.Journal of Behavior Therapy and Experimental Psychiatry, 44(2),271-278.   \n\\*Domsall,M.,Koppe,G.,Niedtfeld,1., Vollstadt-Klein,S.,Schmahl,C.,Bohus,M.,&Lis,S. (2014).Cerebral processing of social rejection in patients with borderline personality disorder. Social Cognitive and Afective Neuroscience, 9(11),1789-1797.   \nDowney,G.,&Feldman, S.I. (1996). Implications of rejection sensitivity for intimate relationships. Journal of Personality and Social Psychology,70(6),1327-1343.   \nDowney,G.,Lebolt,A.,Rincón,C.,& Freitas,A.L.(1998). Rejection sensitivity and children's interpersonal difficulties. Child Development, 69(4),1074-1091.   \nDowney,G.,Mougios,V.,Ayduk. O.,London,B.E.,& Shoda,Y.(2004). Rejection sensitivity and the defensive motivational system: Insights from the startle response to rejection cues.Psychological Science,15(10), 668- 673.   \n\\*Erbe,J.K. (2014). Mental representations，social exclusion,and neurobiological processes in borderline personality disorder: A multi-level study (Unpublished doctorial dissertation). City University of New York.   \nEschenbeck, H., Kohlmann, C.W.,& Lohaus,A. (20o7). Gender differences incoping strategies in children and adolescents.Journal of Individual Differences, 28(1),18-26.   \n\\*Euler,S.,Stobi,D.,Sowislo,J.,Ritzler,F.,Huber,C.G.,Lang,U.E.,..& Walter,M. (2018).Grandioseand vulnerable narcissism in borderline personality disorder. Psychopathology, 51(2),110-121.   \nFalk, C.F.,Heine,S.J.,Yuki, M.,& Takemura, K. (2O09). Why do westerners self-enhance more than east asians? European Journal of Personality,23(3),183-203.   \nFan, V.S.,Mahadevan,R.,&Leung,J. (2O2o).Effectofincome inequality,community infrastructure and individual stressors on adult depression. Health Promotion International,1-12.   \n\\*Fertuck,E.A., Grinband,J.,& Stanley,B. (20l3).Facial trustappraisal negativelybiased inborderline personality disorder. Psychiatry Research,207(3),195-202.   \nFirst,M.B., Gibbon,M.,Spitzer,R.L.,Benjamin,L.S.,&Willims,J.B.(1997).Structured clinical interviewfor DSM-IV axis II personality disorders (SCID-II). Washington,DC: American Psychiatric Pub.   \nFoxhall,M., Hamilton-Giachritsis,C.,& Button, K. (2019).The link between rejectionsensitivityand borderline personality disorder: A systematic review and meta-analysis. British Journal of Clinical Psychology， 58(3), 289-326.   \nGao,S.,Assnk,M., Cipriani,A.,&Lin, K. (2O17).Associations between rejection sensitivity and mental health outcomes: A meta-analytic review. Clinical Psychology Review,57,59-74.   \nGardner, A. A.,Zimmer-Gembeck,M.J.,& Modecki, K.L. (2020).A longitudinal model of rejection sensitivity and internalizing symptoms: Testing emotion regulation deficits as a mechanism and outcome of symptoms. Journal of Personality, 88(6),1045-1057.   \n\\*Gardner,K.J.,Qualter,P.,tyianou,M.,&Robinson,A.J.(O).Facialaffctrecognitioninnon-clinicaladults with borderline personality features: Therole of efortful control and rejection sensitivity.Personality and Individual Differences, 49(7),799-804.   \n\\*Goodman,J.,Fertuck,E., Chesin,M.,Lichenstein,S.,& Stanley,B. (2014).The moderating roleofrejection sensitivity in the relationship between emotional maltreatment and borderline symptoms. Personality and Individual Differences,71,146-150.   \n\\*Gutz,L., Renneberg,B., Roepke, S.，& Niedeggen, M. (2015). Neural processing of social participation in borderline personalitydisorder and social anxiety disorder.Journal of Abnormal Psychology,124(2),421-431.   \nHay,E.L.,& Diehl, M. (2011). Emotion complexityand emotion regulation across adulthood. European Journal of Ageing, 8(3),157-168.   \nHiggins,J.P.,Thompson,S.G.,Deeks,J.J.,&Altman,D.G.(20o3).Measuring inconsistency in meta-analyses. Bmj, 327(7414),557-560.   \nJacobs,N.,& Harper,B.(2013).The effects ofrejectionsensitivity onreactive and proactive aggresson. Aggressive Behavior; 39(1),3-12.   \nJin,Y.,Li,J.,An,J,Wu,J.,&He,M. (2019).Thedifferential victimizationassociated withdepressionandanxiety in cross-cultural perspective: A meta-analysis. Trauma, Violence,& Abuse, 2O(4),560-573.   \n\\*Jobst,A.,Albert,A.,Bauried-Schmidt, C., Mauer,M.C.,Renneberg,B.,Buchheim,A.,..&Padberg,F.(2014). Social exclusion leads to divergent changes of oxytocin levels in borderline patients and healthy subjects. Psychotherapy and Psychosomatics,83(4),252-254.   \n\\*Jobst,A.,Padberg,F.,Mauer,M.C.,Daltrozzo,T.,Bauriedl-Schmidt,C.,Sabass,L.,..& Buchheim,A. (2016). Lower oxytocin plasma levels in borderline patients with unresolved atachment representations.Frontiers in Human Neuroscience,10,125-135.   \nJones,T.M.,Nurius,P.,Song, C.,& Fleming, C.M.(2018).Modeling life course pathways from adverse childhood experiences to adult mental health. Child Abuse & Neglect, 80,32-40.   \n\\*Koster, N.,de Maat, D.A., Schreur, M.,& van Aken, M.A. (2018). How borderline personality characteristics affect adolescents' life satisfaction: The role of rejection sensitivity and social relations. European Journal of Developmental Psychology, 15(5), 594-607.   \n\\*Lazarus,S.A., Southward,M.W.,& Cheavens,J.S.(2016). Do borderline personality disorder features and rejection sensitivity predict social network outcomes over time? Personality and Individual Diffrences,100, 62-67.   \n\\*Lazarus,S.A., ScottL. N.，Beeney,J.E., Wright, A. G. Stepp,S.D.，& Pilkonis,P.A. (2018).Borderline personality disorder symptoms and affective responding to perceptions of rejection and acceptance from romantic versus nonromantic partners.Personality Disorders: Theory,Research,and Treatment, 9(3),197.   \nLevy,S.R.,Ayduk,O.,Downey,G., &Leary,M.R. (2Ool).Therole ofrejection sensitivity in people'srelationships with significant others and valued social groups. In M. R.Leary (Ed.), Interpersonal rejection (pp. 251-290). New York, NY: Oxford University Press.   \nLiebke,L.,Bungert,M., Thome,J.,Hauschild,S.,Gescher,D.M.,Schmahl, C.，Bohus,M.,& Lis,S.(2017). Loneliness,social networks,and social functioning in borderline personality disorder. Personality Disorders: Theory, Research,and Treatment, 8(4),349-356.   \n\\*Liebke,L,Koppe.,Bungert,ome,J.,uschild,S,Dfiebre,N...&Lis,.(18).Difiulieswith being socially accepted: An experimental study in borderline personality disorder. Journal of Abnormal Psychology, 127(7),670-682.   \n\\*Masland, S.R. (2016). Trustworthiness Appraisal in Borderline Personality Disorder (Unpublished doctorial dissertation). Harvard University, Cambridge.   \nMcDonald, K., Bowker,J. C., Rubin, K. H.,& Laursen,B.(2O10). Interactions between rejection sensitivity and supportive relationships in the prediction of adolescent internalizing difficulties.Journal of Youth and Adolescence, 39(5), 563-574.   \nMendoza-Denton,R.,Downey,G,Purdie,V.J.,Davis,A.,&Pietrzak,J. (2OO2).ensitivity to status-basedrejection: Implications for African American students'college experience. Journal of Personality and Social Psychology, 83(4),896-918.   \n\\*Meyer,B.,Ajchenbrenner,M.,& Bowles,D.P.(2oo5).Sensorysensitivity,atachment experiences,andrejection responses among adults with borderline and avoidant features.Journal of Personality Disorders,19(6), 641- 658.   \n\\*Miano,A.,Fertuck,E.A.,Arntz,A.,& Stanley,B. (2013).Rejection sensitivity isa mediator betweenborderline personality disorder features and facial trust appraisal. Journal of Personality Disorders,27(4),442-456.   \nMorey，L.C. (1991). Personality Assessment Inventory: Professional manual. Odessa, FL: Psychological Assessment Resources.   \nMurphy,A. M.,&Russell, G.(2O16). Rejectionsensitivityjealousy,and therelationshiptointerpersonalaggrssion. Journal of Interpersonal Violence, 91(4), 626-641.   \nPark,L.E. (2Oo7). Appearance-based rejection sensitivity: Implications for mental and physical health,affect,and motivation.Personality and Social Psychology Bulletin,33(4),490-504.   \n\\*Peters,J.R., Smart,L.M.,& Baer,R.A. (2015).Dysfunctional responses to emotion mediate the cross-sectional relationship between rejection sensitivity and borderline personality features.Journal of Personality Disorders, 29(2),231-240.   \nPietrzak, J. D.,Downey,G.,& Ayduk,O. (20o5). Rejection sensitivity as an interpersonal vulnerability. In M. W. Baldwin (Ed.), Interpersonal cognition (pp. 62-84). New York, NY: Guilford Press.   \nRan,G., Zhang, Q.,& Huang,H. (2018). Behavioral inhibition system and self-esteem as mediators between shyness and social anxiety. Psychiatry Research, 270,568-573.   \n\\*Renneberg,B., Herm, K.，Hahn, A. Staebler, K., Lammers,C. H.,& Roepke, S. (2012). Perception of social participation in borderline personality disorder. Clinical Psychology & Psychotherapy,19(6),473-480.   \nRomero-Canyas,R., Downey, G., Berenson, K.,Ayduk,O.,& Kang,N.J. (2010).Rejection sensitivity and the rejection-hostility link in romantic relationships.Journal of Personality,78,119-148.   \n\\*Rosenbach, C., & Renneberg,B. (2014). Rejection sensitivity as a mediator ofthe relationship between experienced rejection and borderline characteristics.Personality and Individual Differences, 69,176-181.   \n\\*Rosenbach， C.，& Renneberg，B. (2015). Remembering rejection: Specificity and linguistic styles of autobiographical memories in borderline personality disorder and depression.Journal of Behavior Therapy and Experimental Psychiatry, 46, 85-92.   \nRothstein, H. R., Suton,A. J.,& Borenstein, M. (Eds.). (2O06). Publication bias in meta-analysis: Prevention, assessment and adjustments. Chichester,UK: John Wiley & Sons Ltd.   \n\\*Sato,M.,Fonagy,P.,& Luyten,P. (2018).Rejection sensitivity and borderline personality disorder features: A mediation model of efortful control and intolerance of ambiguity. Psychiatry Research,269,50-55.   \n\\*Sato,M.,Fonagy, P.,& Luyten,P. (2O2o). Rejectionsensitivityand borderline personalitydisorder features: The mediating roles of atachment anxiety, need to belong, and self-criticism. Journal of Personality Disorders, 34(2),273-288.   \nSebastian, C.L.,Tan,G.C.Y.,Roiser,J.P.,Viding,E.,Dumontheil,I,&Blakemore,S.J. (2011).Developmental influences on the neural bases of responses to social rejection: Implications of social neuroscience for education. Neuroimage, 57(3), 686-694.   \n\\*Seidl,E.,Padberg,F.,Bauriedl-Schmidt,C.,lbert,A.,Daltrozzo,T.,HallJ...&Jobst,A. (2).Resposeto Ostracism in patients with chronic depression, episodic depression and borderline personality disorder a study using Cyberball. Journal of Affective Disorders, 260,254-262.   \n\\*Selby,E.A., Ward,A.C.,&Joiner,T.E.(2Ol).Dysregulatedeatingbehaviors inborderline personalitydisorder: Are rejection sensitivity and emotion dysregulation linking mechanisms? International Journal of Eating Disorders, 43(7), 667-670.   \nSher,L.,Ruttr,S.B.,New,A.S.,Siever,L.J.,& Hazlet,E.A.(2019). Gender diferencesand similarities in aggression，suicidal behaviour，and psychiatric comorbidity in borderline personality disorder. Acta Psychiatrica Scandinavica,139(2),145-153.   \n\\*Shorey,R. C.,Anderson,S.,& Stuart, G.L. (2014).The relation between antisocial and borderline personality symptoms and early maladaptive schemas in a treatment seeking sample of male substance users. Clinical Psychology& Psychotherapy,21(4),341-351.   \n\\*Skinner,S.(2014).Responses to social rejection: TheroleofBorderline Personality Disorder traits (Unpublished doctorial dissertation).The University of North Carolina at Greensboro.   \n\\*Sommerfeld,E.,&Bittn,M.S. (202O).Rejection sensitivity,self-compassion,and aggressive behavior:Therole of borderline features as a mediator. Frontiers in Psychology, 11,44-51.   \nSpitzer,R.L., Williams,J.B.,Gibbon,M,&First,M.B.(1992).The structured clinical interview for DSM-III-R (SCID)I: History,rationale,and description. Archives of General Psychiatry, 49(8),624-629.   \n\\*Staebler, K., Helbing,E.,Rosenbach, C.,&Renneberg,B. (2011). Rejection sensitivityandborderlinepersonality disorder. Clinical Psychology& Psychotherapy,18(4),275-283.   \n\\*Strimpfel,J.M.(2012).Rejectionsensitivity inadolescentofspringofmothers with borderline personalitydisorder (Unpublished master's thesis). University of Tennessee-Knoxville.   \nTemes, C. M.,Frankenburg,F.R.,Fitzmaurice, G. M.,& Zanarini, M. C. (2019). Deaths by suicide and other causes among patients with borderline personality disorder and personality-disordered comparison subjects over 24 years of prospective follow-up.The Journal of Clinical Psychiatry，80(1),18m12436.   \n\\*Thome,J.,Liebke,L.,Bungert,M.,Schmahl, C.,Domes,G.,Bohus,M.,& Lis,S.(2016).Confidence in facial emotionrecognition inborderline personalitydisorder.PersonalityDisorders:Theory,Research,and Treatment, 7(2), 159-168.   \nTorgersen,S. (2012).Epidemiology.In T. A. Widiger (Ed.).The oxford handbook ofpersonality disorders (pp.186 205). New York, NY: Oxford University Press.   \n\\*Tragesser,S.L.,ippman,L.G.,Trull,T.J.,&Barret, K.C. (2oo8).Borderlinepersonalitydisorder featuresand cognitive,emotional,and predicted behavioral reactions to teasing. Journal of Research in Personality, 42(6), 1512-1523.   \nTwenge,J.M.,Baumeister,R.F.,Tice,D.M.,& Stucke,T.S.(2OO2).If you can't join them,beat them: Effectsof social exclusion on aggressve behavior. Journal of Personality and Social Psychology,81(6),1058-1069.   \nWang,H., Braun, C.,& Enck, P. (2017). How the brain reacts to social stress (exclusion) - A scoping review. Neuroscience & Biobehavioral Reviews,80,80-88.   \nWatson,J.,& Nesdale,D. (2O12). Rejection sensitivity,social withdrawal,and loneliness inyoung adults.Journal of Applied Social Psychology, 42(8),1984-2005.   \nWilliams, K. D. (2007). Ostracism. Annual Review of Psychology, 58, 425-452.   \nWilliams, K.D.,Cheung,C.K.T.,& Choi, W. (2Oo0). Cyberostracism: Efects of being ignored over the Interet. Journal of Personality and Social Psychology, 79(5),748-762.   \nWinter,D.,Bohus,M.,&Lis,S. (2Ol7). Understanding negative self-evaluations inborderline personalitydisorder A review of self-related cognitions,emotions,and motives.Current Psychiatry Reports,19(3),17.   \n\\*Winter,D.,Koplin,K.,&Lis,S.(2O15).Can't standthe look in the mirror?Self-awarenessavoidance inborderline personality disorder.Borderline Personality Disorder and Emotion Dysregulation,2(1),13.   \n\\*Winter, D., Koplin, K., Schmahl, C.,Bohus,M.,& Lis,S.(2016). Evaluation and memory of social events in borderline personality disorder: Effects of valence and self-referential context.Psychiatry Research,240,19- 25.   \n\\*Wrege,J. S.,Ruocco,A.C.,Euler,S.,Preller,K.H.,Busmann,M., Meya,L.,..& Walter,M. (2019).Negative affect moderates the efect of social rejection on frontal and anterior cingulate cortex activation in borderline personality disorder. Cognitive,Affective, & Behavioral Neuroscience,19(5),1273-1285.   \nZanarini, M.C. Vujanovic,A.A.,Parachini,E.A.,Boulanger,J.L.,Frankenburg,F.R,& Hennen,J. (2003).A screening measure for BPD: The McLean screening instrument for borderline personality disorder (MSI-BPD). Journal of Personality Disorders,17(6),568-573.   \n\\*Zielinski,M.J.,& Veileux,J.C.(2O14).Examining therelationbetweenborderline personality featuresand social support: The mediating role of rejection sensitivity. Personality and Individual Diferences,70,235-238.   \nZotzmann, Y.,van der Linden,D.,& Wyrwa, K. (2O19). The relation between country differences,cultural values, personality dimensions,and eror orientation: An approach across three continents-Asia, Europe,and North America. Safety Science,120,185-193. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The relationship between rejection sensitivity and borderline personality features: A meta-analysis ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Wen', HU $\\mathrm { N a } ^ { 2 }$ ，DING Xuechen¹，LI Junyi³ (l Department of Psychology, Shanghai Normal University, Shanghai 200234, China; ² School of Psychology and Cognitive Science, East China Normal University， Shanghai 200062, China; ³ School of Psychology, Sichuan Normal University, Chengdu 610066, China) ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Rejection sensitivity (RS） refers to the cognitive-affective processing disposition to anxiously expect, readily perceive,and intensely react to cues of interpersonal rejection. The developmental model of rejection sensitivity suggests that rejection experience is a disadvantaged environment during the growth process of individuals with borderline personality disorder. Therefore,individuals with higher borderline personality features are more inclined to perceive rejection and exclusion. However, findings of previous empirical studies regarding the relationship between borderline personality features and rejection sensitivity are mixed. The current metaanalysis aimed at integrating the results of existing research and examine possble moderators. Fifty original journal articles that met the inclusion/exclusion requirements were included,including 84 effect sizes,and 7,4OO participants. The homogeneity test indicated heterogeneity of effect sizes. Therefore, we used subgroup analysis and meta-regression to explore how different types of study design, source of the sample, sample type, indices of borderline personality feature,and type of rejection sensitivity measurement affect this relationship.The results revealed that （1） the relationship between RS and borderline personality features was the strongest in the subgroup of the cross-sectional design, non-European and American samples, mixed subject samples,overall borderline personality feature,and rejection sensitivity measured by questionnaires; (2) participants' age and the proportion of female participants did not moderate this relationship This is the first meta-analysis to systematicaly explore the relationship between rejection sensitivity and borderline personality features,and the underlying moderators, which will advance research in this field. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Key words: rejection sensitivity, borderline personality features, meta-analysis,subgroup analysis, meta-regression analysis ",
+        "page_idx": 22
+    }
+]

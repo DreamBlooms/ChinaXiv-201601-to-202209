@@ -1,0 +1,218 @@
+[
+    {
+        "type": "text",
+        "text": "Towards an effective mRNA vaccine against $2 0 1 9 \\mathrm { - n C o V }$ : demonstration of virus-like particles expressed from an modified mRNA cocktail ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jia $\\mathrm { X i a ^ { 1 , * } }$ , Guoliang ${ \\mathrm { L u } } ^ { 2 , * }$ , Jing $\\mathrm { L u } ^ { 2 , 3 }$ , Jiahui Zhang4,Lin Feng5, Bing Wang6,Hang $\\mathrm { Y u } ^ { 3 }$ Yingjie $\\mathrm { X u } ^ { 4 , \\# }$ , Jinzhong $\\operatorname { L i n } ^ { 2 , \\# }$ （204号 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Department of Urology, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine,Shanghai, P.R. China   \n2.State Key Laboratory of Genetic Engineering,School of Life Sciences, Zhongshan Hospital,Fudan University, Shanghai, 200438, China   \n3.Shanghai RNACure Biopharma Co.,Ltd (Hang.Yu@rnacure.com)   \n4.Shanghai Key Laboratory for Tumor Microenvironment and Inflammation, Department of Biochemistry and Molecular Cel Biology, Shanghai Jiao Tong University School of Medicine,280 South Chongqing Road, Shanghai,200025,China   \n5.Department of Experimental Research,Sun Yat-sen University Cancer Center, State Key Laboratory of Oncology in South China,Guangzhou 510o60, China   \n6．Apexbio Technology LLC. (bing.wang@apexbt.com)   \n\\* These authors contributed equally   \n# Correspondence:xuyingjie@shsmu.edu.cn (Y.X); linjinzhong@fudan.edu.cn(J.L.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Frequent outbreaks of coronavirus make the development of an effective vaccine imperative. Recently, vaccines based on in-vitro transcribed messenger RNA (mRNA) have shown great potential. The streamlined manufacturing of mRNA molecules, combined with the superior flexibility in the antigen screening, greatly accelerates the development process. When using an mRNA platform to develop a vaccine, initial antigen choice plays a crucial role in determining the final efficacy and safety of the vaccine. Furthermore, mRNA sequences that encode antigens require extensive optimization to ensure highly efficient and sustained expression. Our ongoing efforts to develop an effective mRNA vaccine against 2019-nCoV place emphasis on the virus-like particles (VLPs) as the presenting antigen. At the same time, our second fast track uses mRNA to express the receptor-binding domain of the spike protein(S-RBD). After extensive optimization, an mRNA cocktail containing three genes is able to produce 2019-nCoV virus-like particles highly similar to the native 2019-nCoV. Meanwhile, an mRNA vaccine candidate expressing S-RBD is being tested in mice for its immunogenicity. We will next compare both the efficacy and the safety of the two mRNA vaccines based on S-RBD and VLPs, respectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the beginning of this century, humanity has been struck three times by coronavirus epidemics with the most recent one called 2019-nCoV or SARS-CoV-2, which is still wreaking havoc in China(1).2019-nCoV and its predecessors, SARS-CoV(2)(outbreak in 2002) and MERS-CoV(3)(2012),are among the seven coronaviruses that infect people. The frequent outbreaks of coronavirus infection seem to indicate that it may become a seasonal threat like flu viruses. Unlike flu viruses,for which vaccines have been developed since the ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1940s and protect millions of people every year(4), we don't have a preventive vaccine for any coronavirus. The grave situation in central China sends a clear message: to prevent history from repeating itself in the future, developing a vaccine for coronavirus is imperative. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are many options when it comes to developing a vaccine for a virus.Usually, liveattenuated or inactivated viruses are the first choices. However, there is no guarantee of success for both types of vaccines. Live-attenuated viruses have biosafety concerns as they may revert to become infectious again, whereas vaccines based on inactivated viruses are not always immunogenic because epitopes are commonly modified during the inactivation treatment.A third option is the use of recombinant antigens, which usually are structural proteins or subunits often found on the surface of a virus. Because the conformation or the oligomerization state of recombinant proteins or subunits is not necessarily the same as the one presented on the virus, the efficacy of these vaccines based on recombinant antigens needs to be carefully evaluated. Recently,another form of recombinant vaccine uses viruslike particles (VLPs) as the antigen. VLPs are self-assembly of essential viral structural proteins expressed in a cell. They have morphological and structural features that are similar to those of native viruses. Conceptually, VLPs are an excellent choice of vaccines, with efficacy comparable to that of live-attenuated viruses.Moreover, VLPs are much safer because they don't contain genetic materials of virus replication. Recent advances in clinical trials of VLP-based vaccines suggest the great potential of this type of vaccine(5). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Besides the vaccines mentioned above,another form of vaccines is formulated from genetic materials such as DNA or mRNA molecules encoding viral antigens(6). Upon receipt of the DNA or mRNA vaccines, the host cells start to synthesize proteins based on coding information carried by the DNA or mRNA, generating antigens that induce immune responses. DNA vaccines have inherited risks of recombination into the host genome, while mRNA-based vaccines do not exhibit such hazards and thus have atracted a great deal of attention for the past few years(7). Technical advances including in-vitro transcription( IVT) technology, chemical and enzymatic mRNA capping methods, the introduction of modified nucleotides, the HPLC purification technology(8),and the delivery by lipid nanoparticles (LNP)(9) have paved the way for the therapeutical application of mRNA molecules. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because the host can synthesize any protein according to the coding information carried by an mRNA drug, the mRNA vaccine is exceptionally flexible in the choices of antigens. However,one must be very careful as to choosing the right antigen for a specific virus, which is especially complicated in the case of coronavirus. One of the reasons that we don't have a vaccine for SARS-CoV and MERS-CoV after many years of outbreaks has been because we haven't reached a consensus on which antigen is both safe and effective $( l 0 , l I )$ . Accordingly, we are expecting many obstacles in the course of developing a vaccine for $2 0 1 9 \\mathrm { - n C o V }$ ： Coronavirus is an enveloped virus with a trimeric S(spike) glycoprotein protruding outward from the lipid bilayer, decorating the surface of the virus. In addition to S glycoprotein, the M (membrane) and the E (envelope) are integral membrane proteins spanning the envelope, and they are essential structural proteins in virion assembly(12). A fourth protein, the N ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(nucleocapsid) protein, is bifunctional. N is responsible for packaging the viral RNA genome into the virion,and it also interacts with E,aligning the inner side of the virus envelope(13). The N protein is, therefore, considered as a structural protein as well. The S glycoprotein is responsible for binding to the receptor through its receptor-binding domain(RBD), enabling the virus to enter into target cells by fusing with cell membranes(14). S glycoprotein is a major inducer of neutralizing antibodies for both SARS-CoV(15) and MERS- $\\mathrm { \\mathrm { C o V } } ( I 6 )$ ,and most likely, for 2019-nCoV. Experimental vaccines using the ful-length S protein have been shown to induce neutralizing antibodies and confer protective immunity against SARS-CoV in mice and monkeys(17, 18). However, it was later suggested that such vaccines might induce non-neutralizing antibodies that have a potential effect of antibody-dependent enhancement(ADE)(19, 2O), raising a safety concern regarding the practical application of these vaccines. The ADE effect appears to be alleviated using RBD as the antigen. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In response to the 2019-nCoV outbreak, we,and many other entities, initiated the vaccine development against the virus using the mRNA drug research platform jointly developed by Fudan University, Shanghai Jiaotong Unversity,and the Shanghai RNACure Biopharma. Co. Ltd in China. The main advantage of mRNA vaccines comes from the streamlined manufacture process of mRNA molecules and the flexibility of antigen switch, which in combination greatly accelerates the vaccine development. But one should not be mistaken that the mRNA vaccine or any other type of vaccine will become the immediate solution to resolve the current ongoing 2019-nCoV epidemic. Instead, developing an effective vaccine against coronavirus in order to prevent future pandemic is our ultimate goal. Therefore, as much as we wish a 2019-nCoV vaccine becomes available soon, we are taking every caution in designing and optimizing antigens presented by modified mRNAs. Here we report our preliminary results and share our interesting findings with the vaccine community. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Result: Antigen design for 2019-nCoV ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We choose both S-RBD and VLPs as the antigen with the main focus on the latter (Figure 1a). For the S-RBD antigen, we designed constructs expressing S-RBD(336-520) fused with a signal peptide that enables the secretion of the antigen (Figurelb). We take great interest in VLPs realized by mRNA since VLPs are an ideal form of antigen presentation. Notably, VLPs synthesized by the host cells have the same posttranslational modifications as the native virus, which is an important factor determining the validity of an antigen. The VLPproducing mRNA vaccine has been proven to be successful in the development of the Zika virus vaccine. A single dose of mRNA LNP containing the structural gene of the Zika virus elicits extraordinarily high titer of neutralizing antibody and confer sterilizing immunity in mice(21). However, unlike the Zika virus for which a single gene is sufficient to produce VLPs, the assembly of coronavirus VLPs is controversial. Several groups demonstrated that S,M,and E proteins could self-assemble into VLPs for SARS-CoV when co-expressed in cells(13),although whether this process is efficient remains to be confirmed. Other studies showed that N is indispensable for VLP formation(22, 23). There are no reports of producing coronavirus VLPs using modified mRNA so far. To develop an mRNA vaccine producing 2019-nCoV VLPs, we need to test various combinations of 2019-nCoV structural genes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A Comprehensive mRNA optimization pipeline ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A suitable mRNA vaccine candidate should display the quality for both high-level and sustained expression of its encoded antigen to minimize dose usage and maximize immune response. Therefore, maximizing the expression potential of an mRNA molecule is both necessary and perhaps even essential in some cases.Many factors affect the expression and stability of an mRNA in cells, such as the choices of $5 ^ { \\prime }$ or $3 ^ { \\prime }$ UTR, secondary structures of mRNA,the codon usage of mRNA,and the choice of modified nucleotide. Since a protein can be encoded by an unlimited number of different mRNA sequences, finding the optimal one is a formidable task. We have developed a comprehensive mRNA optimization pipeline in which as many as sixty mRNA sequences for each gene are screened for best candidates. Our experience suggests that in most cases, the pipeline is suficient enough for us to find suitable candidates. In this pipeline, we designed ten coding sequences with different codon combinations for each gene; for 2O19-nCoV,the S,M,E,and N genes are designed.For each sequence, we transcribed six mRNA species using different combinations of modified nucleotides.The transcribed mRNAs are then transfected into HEK 293T and Hela cels, and we use the western blot analysis to confirm the expression of target proteins. We haven't yet exhausted our pool of DNA sequence to verify their expression and stability, but we do obtain several candidates for each structural gene including the S-RBD that show high levels of protein expression (Figure 1c). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Formation of 2019-nCoV VLPs by a modified-mRNA cocktail ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To test whether 2019-nCoV VLPs can form guided by modified mRNAs, we cotransfected cells with an mRNA cocktail containing S,M,and E genes at various molar ratios. After 36 hours, culture media was collected, and VLPs were purified by the sucrose gradient ultracentrifugation and visualized under an electron microscope. We observed particles with striking features of coronavirus (Figure 2a). The outline of the envelope for most particles was clear, The spikes were visible,suggesting S,M, and E from 2019-nCoV can assemble into VLPs with the S protein incorporated (Figure 2b),a critical requirement for a VLPproducing mRNA vaccine against coronavirus. The average size of the particle is $7 0 \\mathrm { n m }$ in diameter for the membrane envelope and $9 0 \\mathrm { n m }$ when including the spikes, consistent with reported native 2019-nCoV virus (Figure 2c). The S1 domain is about $1 2 \\mathrm { n m }$ in width, suggesting a trimer is formed, and they are densely packed on the surface of the virus. We can't rule out the possibility that there are interactions among S1 trimers. About sixteen to nineteen S trimers were found around the central circle of the particle, suggesting that there are around 96 S trimers on the surface of VLPs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Future direction ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We will continue to screen all the mRNA sequences in our DNA pool for the best candidates that show high-level, sustained expression. For the S-RBD antigen, immunization of mice with its best candidate mRNA by using lipid nanoparticle (LNP) formulation is currently underway. For the VLP strategy, we will continuously optimize the formulation of the ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "mRNA cocktail to increase its ability to produce a high-level of 2019-nCoV VLPs persistently. Whether the N gene should be included in the cocktail, as well as how it will affect the efficacy of the vaccine, remain to be investigated. We expect to obtain 5-10 candidate mRNA cocktails that show high immunogenicity in model mice. Eventually, the efficacy and safety of the two mRNA vaccines based on S-RBD and VLPs, respectively, wil be compared. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. N. Zhu et al., A Novel Coronavirus from Patients with Pneumonia in China,2019.N EnglJMed， (2020).   \n2. J.S.Peiris,K.Y.Yuen,A.D.Osterhaus, K.Stohr,The severe acute respiratory syndrome.N Engl JMed   \n349,2431-2441 (2003).   \n3. C.M.Coleman, M.B.Frieman, Emergence of the Middle East respiratory syndrome coronavirus. PLoS Pathog 9,e1003595 (2013).   \n4. I. Barberis,P.Myles,S.K.Ault,N.L. Bragazi,M. Martini, History and evolution of influenza control through vaccination: from the first monovalent vaccine to universal vaccines.J Prev Med Hyg 57,E115- E120 (2016).   \n5. M.O.Mohsen,L. Zha,G.Cabral-Miranda, M.F. Bachmann, Major findings and recent advances in viruslike particle (VLP)-based vaccines. Semin Immunol 34,123-132 (2017).   \n6. W. W. Leitner, H. Ying, N. P. Restifo, DNA and RNA-based vaccines: principles, progress and prospects. Vaccine 18, 765-777 (1999).   \n7. N. Pardi, M.J. Hogan,F.W. Porter, D.Weissman,mRNA vaccines - a new era in vaccinology. Nat Rev Drug Discov 17,261-279 (2018).   \n8. K. Kariko, H. Muramatsu,J. Ludwig, D.Weissman, Generating the optimal mRNA for therapy: HPLC purification eliminates immune activation and improves translation of nucleoside-modified, proteinencoding mRNA. Nucleic Acids Res 39,e142 (2011).   \n9. A. M. Reichmuth,M.A. Oberli,A.Jaklenec, R.Langer, D.Blankschtein, mRNA vacine delivery using lipid nanoparticles.Ther Deliv7,319-334 (2016).   \n10. R. L. Roper, K.E. Rehm, SARS vaccines: where are we? Expert Rev Vaccines 8, 887-898 (2009).   \n11. C.Y. Yong, H. K.Ong,S. K.Yeap, K.L. Ho, W.S.Tan, Recent Advances in the Vaccine Development Against Middle East Respiratory Syndrome-Coronavirus.Front Microbiol 10,1781 (2019).   \n12. D.Schoeman, B. C.Fielding, Coronavirus envelope protein: current knowledge. Virol J16,69 (2019).   \n13. P. K. Hsieh et al., Assembly of severe acute respiratory syndrome coronavirus RNA packaging signal into virus-like particles is nucleocapsid dependent.JVirol 79,13848-13855 (2005).   \n14. F. Li,Structure,Function,and Evolution of Coronavirus Spike Proteins.Annu Rev Virol3,237-261(2016).   \n15. L. Du et al., The spike protein of SARS-CoV--a target for vaccine and therapeutic development. Nat Rev Microbiol7,226-236 (2009).   \n16. F.Song et al.,Middle East respiratory syndrome coronavirus spike protein delivered by modified vaccinia virus Ankara efficiently induces virus-neutralizing antibodies.JViro/ 87,11950-11954 (2013).   \n17. H. Bisht et al., Severe acute respiratory syndrome coronavirus spike protein expressed by attenuated vaccinia virus protectively immunizes mice. Proc Natl Acad Sci U S A 101, 6641-6646 (2004).   \n18. A. Bukreyev et al., Mucosal immunisation of African green monkeys (Cercopithecus aethiops) with an attenuated parainfluenza virus expressing the SARS coronavirus spike protein for the prevention of SARS. Lancet 363,2122-2127 (2004).   \n19. M.Jaume et al., SARS CoV subunit vaccine: antibody-mediated neutralisation and enhancement. Hong Kong Med J18 Suppl 2,31-36 (2012).   \n20. Y.W. Kam et al., Antibodies against trimeric S glycoprotein protect hamsters against SARS-CoV challenge despite their capacity to mediate FcgammaRll-dependent entry into Bcels in vitro.Vaccine 25,729-740 (2007).   \n21. J. M.Richner et al., Modified mRNA Vaccines Protectagainst Zika Virus Infection.Cell169,176 (2017).   \n22. Y. L.Siu et al.,The M,E,and N structural proteins of the severe acute respiratory syndrome coronavirus are requiredfor efficientassembly,trafficking,and releaseof virus-like particles.JViro/82,11318-11330 (2008).   \n23. J.A.Boscarino,H.L.Logan,J.J.Lacny,T.M.Gallagher,Envelope proteinpalmitoylationsarecrucialfor murine coronavirus assembly.JVirol 82, 2989-2999 (2008).   \n24. M.A.Islam et al., Restoration of tumour-growth suppression in vivo via systemic nanoparticle-mediated delivery of PTEN mRNA. Nat Biomed Eng 2,850-864 (2018). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Material and methods ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Preparation of modified mRNAs. Vectors carrying codon-redesigned open-reading frames (ORF) for 2019-nCoV S,M, E，and N were synthesized by commercial companies, and subcloned into vector containing T7 promoter and UTR. S and M protein were tagged by HA and Flag at C-terminal respectively. The vectors were linearized by enzyme digestion and amplified by PCR reaction. The amplicons were further purified and used as templates for in vitro transcription (IVT). The modified mRNA was synthesized as described previously(24). In brief, IVT was conducted using HyperScribe T7 high yield RNA synthesis kit (ApexBio) with $1 { - } 2 ~ { \\mu \\mathrm { g } }$ template and either capO or capl analogs (ApexBio), $7 . 5 ~ \\mathrm { m M }$ of each modified nucleotides (ApexBio). Reactions were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for 2-4 hours, followed by DNase (Thermo) treatment. $3 ^ { \\prime }$ poly(A)-tails were further added to IVT RNA products using a poly(A) tailing kit (ApexBio). mRNA was purified by using the RNA clean and concentrator kit (ApexBio). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TransfectionofmRNA ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "S,M, E mRNA were individually transfected into $2 9 3 \\mathrm { T }$ cells by using lipofectamine 2000 (lipo2K) at ratio of 1:2 (mRNA: lipo2K). To produce virus like particles (VLPs), S, M, E mRNA were co-transfected into 293T cells under the same molar ratio using lipo2K,and the supernatant were collected 48hours post-transfection. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Preparation and Visualization of VLPs ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After 36 hours, the post-transfection cell media was concentrated using $1 0 0 \\mathrm { - k D a }$ cutoff Amicon Ultra-15 (Millipore) before being layered on the top of the $30 – 4 0 – 5 0 \\%$ (w/v) sucrose gradient in $2 0 ~ \\mathrm { m M }$ HEPES-Na, pH 7.4, $1 2 0 \\mathrm { m M N a C l }$ . The sucrose solution between $30 \\text{‰}$ (w/v) were extracted immediately with a $5 ~ \\mathrm { m L }$ syringe after ultracentrifugation for $9 0 ~ \\mathrm { m i n }$ at $4 ~ ^ { \\circ } \\mathrm { C }$ ， 31,000 rpm (rotor SW32， Beckman). The VLPs-containing solution were bufferexchanged against lxPBS for 3-times with another $1 0 0 \\mathrm { - k D a }$ cutoff Amicon Ultra-15. To prepare grid for negative staining transmission electron microscopy (TEM), ${ 5 } ~  { \\mu \\mathrm { L } }$ VLPs were absorbed for 2 min on a glow-discharged carbon coated grid. The grid was stained in a dropwise manner for 60 seconds and loaded on the Talos L12OC microscope (Thermofisher） for visualization of VLPs ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Declaration of interest statement ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "No potential conflict of interest was reported by the authors. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the startup fund from Fudan University to Jinzhong Lin, Shanghai Jiao Tong University Special Fund for 2019-nCoV to Yingjie Xu, and RNACure Biopharma. We thank Professors Li Jin and Xinhua Lin for reading our manuscript and suggestions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5c17c3f81d026ebce30531b3a61b4a38856159ecb4c018205280e5788277db5.jpg",
+        "img_caption": [
+            "Figures and legends: ",
+            "Figure 1. (a) An overview of our workflow developing mRNA vaccines against 2019-nCoV. (b) The trimeric structure of the extra-vesicular domain of the spike protein from SARS-CoV. The RBD domain used as the antigen is indicated. (c) Representative western blot analyses of antigens expressed from modified mRNA sequences. upper left: the M protein expressed in HEK $2 9 3 \\mathrm { T }$ cells; lower left: M expressed in Hela cells; upper right: the full-length S protein expressed in HEK293T cells.lower right: secreted S-RBD expressed in HEK 293T cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ba0ca70c9b44bbd10a35dcfc2870a6b7c9846ec8d78cb29fe53560ed1499d30.jpg",
+        "img_caption": [
+            "Figure 2. (a) Selective views from an transmission electron microscope of $2 0 1 9 \\mathrm { - n C o V }$ viruslike particles (VLPs) expressed from an mRNA cocktail (b) An enlarged view of one particle "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "displaying characteristic features of the trimeric spike protein. (c) A cartoon representation of the 2019-nCoV VLP with the average size indicated. ",
+        "page_idx": 9
+    }
+]

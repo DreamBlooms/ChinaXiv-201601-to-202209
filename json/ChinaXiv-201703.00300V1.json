@@ -1,0 +1,329 @@
+[
+    {
+        "type": "text",
+        "text": "Design of X/Ku Dual-band Dual-linear Polarization Reflectarray Using Double Parallel Dipole Elements ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fei Xue1,2,Hongjian Wang1, Min Yi1 lCAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academyof Sciences,Beijing,10019o,China ²University of Chinese Academy of Sciences, Beijing,100049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Two single-layer X/Ku dual-band dual-polarization reflectarray antennasof different sizes with double parallel dipole elements are presented.The elements of the two bands are set to two orthogonal linear polarizations and placed in interlaced grid. The proposed reflectarrays operate in two frequency-bands within X-band centered at $1 0 ~ \\mathrm { { G H z } }$ and $\\mathrm { K u }$ -band centered at $1 3 . 5 8 \\ : \\mathrm { G H z }$ . The smaller size reflectarray with elements arranged in a $1 3 { \\times } 1 3$ grid for X-band and in a $1 2 \\times 1 2$ grid for $\\mathtt { K u }$ -band is designed and simulated first. Based on the excellent dual-band performance of the small size reflectarray， then a larger size prototype has been designed, manufactured and measured. Measured results demonstrate the maximum gain of $2 8 . 5 4 \\mathrm { d B }$ with $5 0 . 9 3 \\%$ aperture efficiency at 10GHz and 31.06dB with $5 1 . 3 4 \\%$ aperture efficiency at $1 3 . 5 8 \\mathrm { G H z }$ , which show the desirable dual-band dual-polarization radiation performance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS:Reflectarray, dual-band， high efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Parabolic reflectors and arrays are playing an important role in high gain applications.However, both of them have obvious disadvantages. For parabolic reflector, the specifically curved surface makes it difficult to manufacture,in particularly at higher frequencies.It also has difficulties in achieving wide angle beam scanning. The array antenna always requires a complex feed network, which cause high transmission loss and low eficiency of antenna.In order to avoid the above mentioned disadvantages,reflectarray antenna emerged with the advantages of high gain,low profile and mass,low cost,flatness and so on. It is usually an antenna that consists of an illuminating feed antenna and a flat reflecting surface with many microstrip elements [1-3]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dual-band operation has been a subject of intense interest in microstrip reflectarray design. In the past decades,several techniques have been proposed to achieve dual-band performance of the reflectarray, such as elements printed on a single layer [4-6] or two layers [7-9],or using frequency selective surface (FSS)-backed structures [10-12]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A multiresonance curved double cross element is presented in [4] to achieve dual-band dual linear polarization performance and some simulations have been carried out to confirm the negligible mutual effect between the elements of the two bands.In [5],a single layer element consists of a circular patch with slots and two phase delay lines atached to the patch is utilized to develop dual-band reflectarray operating in X and K bands.For the case of two closely separated frequencies,a single layer element consisting of a square ring and patch loaded with slots was suggested in [6]. The required phase shifts in two bands are achieved by varying the size of element and good performance of reflectarray was achieved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For two layer structure，ring with gaps was used as the element to develop a dual-band circularly polarized (CP) reflectarray operating in the C and Ka bands [7]. In another two layer configuration, thin membranes were utilized to achieve X/Ka-dual-band CP performance and high efficiency was achieved at both bands [8]. However, using a two layer configuration has certain disadvantages such as additional cost, manufacture complexity and increased weight. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using FSS-backed structure,a circularly polarized reflectarray operating at L- and Ka-band is presented in [1O]. The Ka-band reflectarray with a FSS ground-plane (which consists of many concentric dual-loop element) above the L-band array and excellnt dual-band performance results were achieved.In [11],a double square ring structure was used as the element for linearly polarized in both the X- and Ka-bands.A single square ring was used for the construction of the FSS ground-plane for Ka-band and a solid ground-plane was defined for the X-band.A dual-band FSS consisting of cross ring elements and square ring elements were proposed in [12]. The FSS is used as a reflective ground-plane in order to reduce the coupling between the elements of the two bands.However,most of the reflectarrays mentioned above operate in two widely separated frequencies. There are few researches on a single-layer, dual-band dual-polarization reflectarray covering two closely separated frequencies [13],which can be used in dual-link satellite communications. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, two different sizes single-layer dual-band dual-polarization reflectarray antennas operating in X band centered at $1 0 \\mathrm { G H z }$ and $\\mathrm { K u }$ band centered at $1 3 . 5 8 \\ : \\mathrm { G H z }$ are presented. Two orthogonal sets of double parallel dipoles,each individually for one band,are used as the cell element. The smaller size reflectarray is composed of $1 3 \\times 1 3$ elements for X-band and $1 2 \\times 1 2$ elements for Ku-band. Simulated results show excellnt performances of dual band dual polarization.Then, a larger size reflectarray is designed,manufactured and tested. Only one pyramidal horn antenna is designed as feed of the dual-band reflectarrays for both bands in a fixed position with two orthogonal polarization directions. Measured results show the maximum gain of 28.54 dB at $1 0 \\mathrm { G H z }$ and 31.06 dB at $1 3 . 5 8 \\mathrm { G H z }$ and more than $50 \\%$ efficiency are achieved at both frequency bands. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. ELEMENTDESIGNANDPHASECHARACTERISTICS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The proposed reflectarrays are composed of two orthogonal sets of double parallel dipoles elements which configuration and arrangement are ilustrated at Fig.1. The double parallel dipoles for both bands are interlaced on top of a single-layer substrate with the same periodicity of $L$ .The periodicity $L$ is set to $1 4 \\mathrm { m m }$ ， which equals O.47 wavelengths at $1 0 \\mathrm { G H z }$ and 0.63 wavelengths at $1 3 . 5 8 \\mathrm { G H z }$ . The substrate is $\\mathrm { F } _ { 4 } \\mathrm { B }$ laminates with relative permittivity of 2.25 and thickness of $h$ （20 $\\mathbf { \\tau } = 1 . 5 \\mathrm { m m }$ .The length of the short dipole $b$ is proportional to the length of long dipole $a$ with ratio $k$ （204号 (i.e., $\\scriptstyle b = k \\times a$ ). The gap between the two dipoles is $d$ and the widths of the two dipoles are both $w$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd13b09fd6a22787fb9c02e0f4615ec2a2e2f94e7cc2f69b5bd6793546b57872.jpg",
+        "img_caption": [
+            "Figure1 Schematic view of double parallel dipoles elements "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For analyzing the reflection phase characteristics of the element, simulations are analyzed using HFSS and master-slave boundaries with Floquet port are used to model periodic structures. Fig.2-4 show the influence of element parameters on reflection phase and magnitude curves at the two bands. It can be concluded that the best values of these parameters to have desired reflection phase and magnitude curves at the two bands are as follows: $d { = } 1 . 4 \\mathrm { m m }$ ， $w { = } 1 . 5 \\mathrm { m m }$ ， $k { = } 0 . 7 5$ . The reflection phase and magnitude at different oblique incidence angles are depicted in Fig.5. It can be concluded that incidence angles have litle influence on reflection phase and magnitude. Fig. 6 shows the phase and magnitude response of the element for different frequencies at $X \\mathrm { - }$ and Ku-band. It can be concluded that by varying the length of long dipole $a$ from 4.2 to $1 3 . 8 \\mathrm { m m }$ $6 5 0 ^ { \\circ }$ reflection phase range at $1 0 \\mathrm { G H z }$ and $6 8 0 ^ { \\circ }$ reflection phase range are obtained, which are much more than the minimum required range of $3 6 0 ^ { \\circ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4f9b2f4a2b6035804cb7714ac120bae047489456f0332912e67103ec9e5e1da.jpg",
+        "img_caption": [
+            "Figure 2 Reflection phase and magnitude against $a$ for different values of $d$ $_ { \\mathrm { { \\it { w } } = 1 . 5 m m } }$ $k { = } 0 . 7 5$ ） (a)10GHz.(b) $1 3 . 5 8 \\mathrm { G H z }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c0ce77670a90345e27925a54e551647526f87be9b0241d888e301e5d3f3ce99.jpg",
+        "img_caption": [
+            "Figure 3 Reflection phase and magnitude against $a$ for different values of $w$ $_ { ( d = 1 . 4 \\mathrm { { m m } } }$ $k { = } 0 . 7 5$ ） (a) 10GHz. (b) $1 3 . 5 8 \\mathrm { G H z }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f57ecf4cf238197d75c242a9dfa5e94e5a920d289b4debfa8dffc060d5dd629.jpg",
+        "img_caption": [
+            "Figure 4 Reflection phase and magnitude against $a$ for different values of k. $_ { ( d = 1 . 4 \\mathrm { m m } }$ $w { = } 1 . 5 \\mathrm { m m }$ ） (a) 10GHz. (b) 13.58GHz. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b21661dc6a76c0f1efb0f4182f6ca9cdef83c6a5ba3e3a9832a470fc53aca84b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/02e16be2a0e606d2ea48eb6e14e7f0383f2e0ee16a5d53945d272043721b8732.jpg",
+        "img_caption": [
+            "Figure 5 Reflection phase and magnitude at different oblique incidence angles. (a)10GHz. (b) 13.58GHz. ",
+            "Figure 6 Reflection phase and magnitude against $a$ at $X \\mathrm { - }$ and $\\mathtt { K u }$ -band fordifferent frequencies "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/93bb308374bc4750a265bc31d0f812a9193dd56901f8a72c24d96a7f3a5f9579.jpg",
+        "img_caption": [
+            "Figure 7 Reflection magnitude against frequency for both polarization "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows the reflection magnitude against frequency for both polarizations. $\\mathrm { E } _ { / / }$ represents the polarization of the incident wave paralel to the length direction of the double parallel dipoles,and $\\mathrm { E _ { \\perp } }$ represents the polarization of the incident wave perpendicular to the double parallel dipoles.It can be concluded that the reflection magnitude are better than O.45 dB for different values of $a$ ,regardless of which case（ $\\mathrm { E } _ { / / }$ or $\\mathrm { E _ { \\perp } } \\mathrm { , }$ ）． Fig. 8 shows the coupling of the double parallel dipoles between the two orthogonal directions at $1 0 \\mathrm { G H z }$ . The polarization of the incident wave is set perpendicular to the length direction of the double parallel dipoles.The reflection phase is calculated with respect to the length of the double parallel dipoles. It can be concluded that the reflection phase hardly changes when the polarization of the incident wave perpendicular to the length direction of the double parallel dipoles. Similar results can be also achieved at $1 3 . 5 8 \\mathrm { G H z }$ ，which mean low coupling levels for the double parallel dipoles between the two orthogonal directions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/df680cf229f637e58fcc13083c3855e0c9b4bd71bae55cc20efcc31632c15ab6.jpg",
+        "img_caption": [
+            "Figure 8 Reflection phase and magnitude against $a$ at $1 0 \\mathrm { G H z }$ when the polarization of the incident wave is set perpendicular to the length direction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The mutual coupling between the dipoles of two bands is also investigated. To evaluate the effect of the dipoles at one band on the dipoles at the other band,the unit cells shown in Fig.9 are used to analyze the mutual coupling. The coupling between the elements of the two bands is shown in Fig.1O. It can be concluded that Ku-band dipoles have little efect on the reflection phase and magnitude of X-band and vice versa, which indicate low mutual coupling levels for the dipoles between the two bands.Fig.11 shows the electric current vector on the surface of dipoles element (cf. Fig. 9) when the element is excited by a $y .$ -polarized plane wave. It can be seen that most of the current is $y$ -directed and there is almost no $x$ -directed current which is responsible for cross-polarization. Similar results can be also achieved at $1 3 . 5 8 \\mathrm { G H z }$ . Fig.12 shows the cross-polarized reflection amplitude of the dipoles. It can be seen that the cross-polarized reflection amplitude is much smaller than the co-polarized reflection amplitude in Fig.1O,which indicates a substantial reduction in antenna cross-polarization level. It can be concluded from Figs. 10-12 that low mutual coupling levels and cross-polarization level for the dipoles are achieved. The very low mutual coupling levels between the two bands indicate that the coupling has litle effect on the performance of the reflectarray,such as cross-polarization, efficiency and gain. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3dfbf85476babf38bb37ee12719fe0786f066a7981ffe7301ae13e75de4e65cc.jpg",
+        "img_caption": [
+            "Figure 9 The unit cell used for analyzing the coupling between the elements of the two bands. (a) The effect of $\\mathrm { K u }$ -band dipoles on X-band dipoles. (b) The effect of X-band dipoles on $\\mathrm { K u }$ -band dipoles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f0af495472dc4856a298a43080f06e8c4b6125e97e0d454a148376565e44341.jpg",
+        "img_caption": [
+            "Figure 10 Effect of coupling on the reflection phase. (a) The effect of $\\mathrm { K u }$ -band dipoles on X-band dipoles. (b) The effect of X-band dipoles on $\\mathtt { K u }$ -banddipoles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a1a4bd12a09e7e5296cd0ebdb5a592fba6dfa73cf60a440c1382d94ecbd8ecf.jpg",
+        "img_caption": [
+            "Figure 11 Current distribution on the element surface at $1 0 \\mathrm { G H z }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cb1b0630591fbec0fb2323395b06e69d80fee666b7a8e212201b65c54af21c8.jpg",
+        "img_caption": [
+            "Figure12 Cross-polarized reflection magnitude of the dipoles. (a)10GHz.(b) 13.58GHz. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.REFLECTARRAY DESIGN AND PERFORMANCE ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With the double parallel dipoles mentioned in Section 2, two different sizes single-layer dual-band dual-polarization prime focus reflectarray antennas are designed. The double paralel dipoles for both bands are interlaced on top of substrate with the same periodicity of $L { = } 1 4 \\mathrm { m m }$ . By varying $a$ from $8 . 4 ~ \\mathrm { m m }$ to $1 2 . 3 ~ \\mathrm { m m }$ for X-band and $5 . 8 ~ \\mathrm { m m }$ to $8 . 2 5 ~ \\mathrm { m m }$ for $\\mathrm { K u }$ -band,required phase shift can be satisfied at the two bands.The smaller size reflectarray with elements arranged in a $1 3 \\times 1 3$ grid for X-band (centered at $1 0 \\mathrm { G H z } \\$ ）and in a $1 2 \\times 1 2$ grid for $\\mathrm { K u }$ -band (centered at $1 3 . 5 8 \\mathrm { G H z } )$ is printed on a $1 . 5 \\mathrm { - m m } \\mathrm { F } _ { 4 } \\mathrm { B }$ substrate ( $\\mathrm { \\varepsilon } _ { \\mathrm { g } _ { \\mathrm { r } } = 2 . 2 5 }$ ). The geometry of the small reflectarray is shown in Fig.13. The X-band of the reflectarray is designed to work in the $y$ -polarization and the $\\mathtt { K u }$ -band is designed to work in $x$ -polarization. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/10070fb72c983fcb531fbff94f05e90616585354434797bde5d269cef552a073.jpg",
+        "img_caption": [
+            "Figure 13 The geometry of the small reflectarray. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The focal distances F（distance between the reflectarray and the feed) of the two bands are set to the same value of $1 3 4 . 4 \\mathrm { m m }$ .Fig.14 shows the simulated radiation patterns of the small reflectarray at $1 0 \\mathrm { G H z }$ and $1 3 . 5 8 \\mathrm { G H z }$ . As shown in Fig.14, the side lobe levels are $- 1 6 . 3 \\mathrm { d B }$ in E-plane and -18dB in H-plane with regard to the peak gain at $1 0 \\mathrm { G H z }$ .The side lobe levels at （204号 $1 3 . 5 8 \\mathrm { G H z }$ are $\\mathrm { - 1 7 . 4 d B }$ in E-plane and -17.1dB in H-plane with regard to the peak gain. The simulated results show a excellent performance of dual band dual polarization radiation performance. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f246d520f6367c42f380913d57c3b04bcf1844a73feacb8bb560fc4dbc895cd1.jpg",
+        "img_caption": [
+            "Figure14 Simulated radiation patterns of the small reflectarray. (a) 10GHz. (b) 13.58GHz. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on the good performance of the small size reflectarray, a larger size reflectarray with elements arranged in a $2 5 { \\times } 2 5$ grid for X-band (centered at $1 0 \\mathrm { G H z } \\rangle$ ）and in a $2 4 \\times 2 4$ grid for Ku-band (centered at $1 3 . 5 8 \\mathrm { G H z } \\mathrm { , }$ ）is designed，manufactured and tested. Fig. 15 shows the geometry of the reflectarray. The larger size reflectarray is octagon with aperture size $\\mathrm { ~ D ~ }$ of $3 5 0 \\mathrm { m m }$ The focal distances of the large reflectarray at the two bands are set to the same value of $2 6 8 . 8 \\mathrm { m m }$ The F/D ratio is O.768 at X-band and O.8 at $\\mathrm { K u }$ -band. Only one broadband pyramidal horn antenna is designed as feed of the reflectarray for both bands in a fixed position with two orthogonal polarization directions. The simulated radiation paterns of the feed pyramidal horn antenna at 10GHz and 13.58GHz are shown in Fig. 16. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c5d2480763d41916cb234f6867f603ca1d28a0e9886fc783727d95fc4db32f2.jpg",
+        "img_caption": [
+            "Figure 15 Prototypes of the large reflectarray. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4ab5d3e7af931398feef4f39c3608908c37e5fd026efd2ee96a3beab39ce43c.jpg",
+        "img_caption": [
+            "Figure 16 Simulated radiation patterns of the feed horn. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The measured radiation patterns of the large reflectarray for 1OGHz and 13.58GHz are shown in Fig.17. The measured peak gain is $2 8 . 5 4 \\mathrm { d B }$ at $1 0 \\mathrm { G H z }$ with the side lobe levels of -25dB in E-plane and $\\mathbf { - } 2 2 \\mathrm { d } \\mathbf { B }$ in H-plane.The maximum cross-polarization levels is -26dB in E-plane and -22dB in H-plane. At $1 3 . 5 8 \\mathrm { G H z }$ , the measured peak gain is 31.O6dB with the side lobe levels of -2OdB in E-plane and $\\mathbf { - } 2 2 \\mathrm { d } \\mathbf { B }$ in H-plane. The maximum cross-polarization levels is -26dB in E-plane and $- 2 5 . 5 \\mathrm { d B }$ in $\\mathrm { ~ H ~ }$ -plane.The measured aperture efficiency ε is calculated using （204号 $\\varepsilon = G _ { _ m } / D _ { i d e a l }$ ， $D _ { i d e a l } = 4 \\pi A / \\lambda _ { 0 } ^ { 2 }$ ，where $G _ { { \\scriptscriptstyle m } }$ is the measured gain, $D _ { i d e a l } $ is the ideal directivity, $A$ is he apertureareof telectarrAftercacigt $D _ { i d e a l } $ is 31.47dB at 10GHz and 33.95dB at $1 3 . 5 8 \\mathrm { G H z }$ . The NSI planar near-field system is used to measure the performances of the fabricated prototype. First, we measured the directivity of the reflectarray. The measured directivity of the reflectarray is 3O.12dB at 1OGHz and $3 2 . 7 \\mathrm { d B }$ at $1 3 . 5 8 \\mathrm { G H z }$ . After calibrated by the standard gain horn, the measured gain of the reflectarray is $2 8 . 5 4 \\mathrm { d B }$ at $1 0 \\ : \\mathrm { G H z }$ （204号 and 31.06dB at $1 3 . 5 8 \\mathrm { G H z }$ . According to the formulas above, the efficiency of $5 0 . 9 3 \\%$ at $1 0 \\mathrm { G H z }$ and $5 1 . 3 4 \\%$ at 13.58GHz are achieved. Measured gain and eficiency of the large reflectarray versus frequency for $X \\mathrm { - }$ and Ku-band are shown in Fig.18.It can be concluded that the 1-dB gain bandwidth of $5 . 5 \\%$ for $\\mathrm { \\Delta } X$ -band and $2 . 9 \\%$ for $\\mathtt { K u }$ -band are achieved. The narrow bandwidth performance of the reflectarray could be improved by increasing the thickness of the substrate or inserting an air layer between the substrate and the ground plane. The aperture efciency of the reflectarray is $5 0 . 9 3 \\%$ at $1 0 \\mathrm { G H z }$ and $5 1 . 3 4 \\%$ 13.58GHz,which shows high efficiency in both bands. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table Ilists the performance of the proposed reflectarray and some previous published works. It can be concluded that the proposed reflectarray has the advantages of high efficiency and low sidelobe level compared to the designs in [7],[12],[14],[15]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/3497d94c16223a379b4be1f77a6b165fe8485fcb32c9184208f16164075e3827.jpg",
+        "img_caption": [
+            "Figure 17 Measured radiation patterns of the large reflectarray. (a)10GHz. (b) 13.58GHz. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9dbbf0070040d55eaf518315ad75bcee608450329fcd46bb35e5c0f4d4aa257.jpg",
+        "img_caption": [
+            "Figure 18 Measured gain and efficiency of the large reflectarray versus frequency. (a) X-band. (b)Ku-band. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b268c33c1a270d85434fa218c457b0564925836cf9f114be5f69bb8182b4ab81.jpg",
+        "table_caption": [
+            "TABLEI COMPARISON OF THE PROPOSED REFLECTARRAY PERFORMANCE WITHPREVIOUS WORKS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Reference</td><td>This work</td><td>[7]</td><td>[12]</td><td>[13]</td><td>[14]</td><td>[15]</td></tr><tr><td rowspan=\"2\">Frequency (GHz)</td><td>10</td><td>7.3</td><td>8</td><td>12</td><td rowspan=\"2\">10.4</td><td>12/13</td></tr><tr><td>13.58</td><td>31.75</td><td>14</td><td>14</td><td>14/15.5</td></tr><tr><td rowspan=\"2\">Gain(dB)</td><td>28.54</td><td>28.2</td><td>18.3</td><td>32.4</td><td rowspan=\"2\">17.1</td><td>23.24/22</td></tr><tr><td>31.06</td><td>40.3</td><td>22.1</td><td>32.7</td><td>25.38/26</td></tr><tr><td rowspan=\"2\">Efficiency(%)</td><td>50.93</td><td>46</td><td>29.3</td><td>60</td><td rowspan=\"2\">1</td><td>25/16</td></tr><tr><td>51.34</td><td>38</td><td>27.7</td><td>60</td><td>30/28</td></tr><tr><td rowspan=\"2\">1-dB gain BW (%)</td><td>5.5</td><td>7.1</td><td></td><td>24</td><td rowspan=\"2\">1</td><td rowspan=\"2\">1</td></tr><tr><td>2.9</td><td>6.3</td><td></td><td>19</td></tr><tr><td rowspan=\"2\">3-dB gain BW(%)</td><td>10</td><td></td><td>1</td><td></td><td rowspan=\"2\">1</td><td>2.5/2.5</td></tr><tr><td>10.7</td><td></td><td></td><td></td><td>3.45/4.16</td></tr><tr><td>Side lobe level (dB)</td><td>< -22</td><td>< -17.3</td><td><-14</td><td>< -19</td><td>1</td><td>12.47/15.7</td></tr><tr><td rowspan=\"2\">Cross-pol level(dB)</td><td><-20</td><td>< -18.7</td><td><-13</td><td>< -23</td><td rowspan=\"2\">-</td><td>16.8/20</td></tr><tr><td>< -22</td><td>< -21</td><td></td><td>< -25</td><td>< -30/< -30</td></tr><tr><td>Number of layers</td><td>< -25.5</td><td><-29</td><td></td><td>< -26.5</td><td></td><td>< -30/< -30</td></tr><tr><td></td><td>1</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Polarization</td><td>Linear</td><td>Circular</td><td>Linear</td><td>Linear</td><td>Linear</td><td>Linear</td></tr><tr><td>Loss (dB) (element)</td><td><0.4 <0.3</td><td>-</td><td><0.7 <0.6</td><td></td><td><0.3</td><td>1</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4 CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Two different sizes X/Ku dual-band dual-polarization prime focus reflectarray antennas with a single-layer substrate are designed in this paper. The proposed reflectarrays operate in two closely separated frequency bands at two orthogonal polarization directions. Double parallel dipoles are used as the reflectarray elements for both bands and placed in interlaced grid. Based on the good performance of the smaller size reflectarray,a larger size reflectarray is fabricated and measured. The measured results show a good radiation performance with high eficiency in both bands. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1.J.Huang and J. A. Encinar,Reflectarray Antennas. John Wiley & Sons, Institute of Electrical and Electronics Engineers,2008.   \n2. P. Nayeri, F. Yang,A.and Z. Elsherbeni.“Beam-scanning reflectarray antennas: a technical overview and state of the art,” IEEE Antennas and Propagation Magazine, Vol. 57, No. 4, 32-47,2015.   \n3.F C. E. Tsai,and M. E. Bialkowski. “Designing a 161-element Ku-band microstrip reflectarray of variable size patches using an equivalent unit cell waveguide approach,” IEEE Transactions on Antennas and Propagation, Vol. 51, No. 10,2953-2962,2003.   \n4.A. M. Abbosh.“Design of dual-band microstrip reflectarray using single layer multiresonance double cross elements,” Progress In Electromagnetics Research Letters, Vol. 13, 67-74,2010.   \n5.R. S. Malfajani and Z. Atlasbaf.“Design and implementation of a dual-band single layer reflectarray in $\\mathrm { \\Delta } X$ and K bands,” IEEE Transactions on Antennas and Propagation, Vol. 62, No. 8, 4425-4431, 2014.   \n6.Z. Hamzavi-Zarghani and Z. Atlasbaf.“A new broadband single-layer dual-band reflectarray antenna in X- and Ku-bands,” IEEE Antennas and Wireless Propagation Leters, Vol. 14, 602-605,2015.   \n7.C.Han， C. Rodenbeck, J. Huang and Kai Chang.“A C/ka dual frequency dual Layer circularly polarized reflectarray antenna with microstrip ring elements,” IEEE Transactions on Antennas and Propagation, Vol. 52, No. 11, 2871-2876,2004.   \n8.C.Han, J. Huang and Kai Chang.“A high efficiency offset-fed X/ka-dual-band reflectarray using thin membranes,” IEEE Transactions on Antennas and Propagation, Vol. 53,No.9, 2792-2798, 2005.   \n9.M. Zawadzki and J. Huang.“A dual-band reflectarray for X- and Ka-bands,” PIERS symposium,Honolulu, Hawaii, October 2003.   \n10．T.Smith, U. Gothelf, O. S. Kim and O.Breinbjerg.“An FSS-backed 20/30 GHz circularly polarized reflectarray for a shared aperture L- and Ka-band satelite communication antenna,” IEEE Transactions on Antennas and Propagation, Vol. 62, No.2, 661-668,2014.   \n11. M. R. Chaharmir, J. Shaker and H. Legay.“Dual-band Ka/X reflectarray with broadband loop elements,” IETMicrowaves,Antennas& Propagation,Vol.4,No.2,225-231,2010.   \n12. Y. Chen,L. Chen, H. Wang, X. T. Gu and X. W. Shi. “Dual-band crossed-dipole reflectarray with dual-band frequency selective surface,” IEEE Antennas and Wireless Propagation Letters,Vol.12,1157-1160,2013.   \n13．M.R. Chaharmir,J. Shaker and N.Gagnon.“Broadband dual-band linear orthogonal polarisation reflectarray,” Electronics Letters,Vol. 45,No.1, 13-14,2009.   \n14.E.Carrasco， M. Barba, J. A. Encinar, M. Arrebola,F. Rossi and A. Freni.“Design, manufacture and test of a low-cost shaped-beam reflectarray using a single layer of varying-sized printed dipoles,” IEEE Transactions on Antennas and Propagation, Vol. 61, No. 6,3077-3085,2013.   \n15.H. Hasani, C. Peixeiro,A. K. Skrivervik and J. P. Carrier. “Single-layer quad-band printed reflectarray antenna with dual linear polarization,” IEEE Transactions on Antennas and Propagation, Vol. 63, No. 12, 5522-5528, 2015. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

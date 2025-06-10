@@ -1,0 +1,460 @@
+[
+    {
+        "type": "text",
+        "text": "基于Revit的装配式建筑构件参数化钢筋建模方法研究与应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "罗远峰焦柯（广东省建筑设计研究院，广州510010)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】Revit环境下三维钢筋建模是困扰设计师进行装配式建筑构件深化设计的一大难点。本文分析了装配式建筑构件的钢筋排布规律,研究装配式建筑构件参数化钢筋建模方法，并基于该方法及Revit二次开发技术，开发出一套辅助设计软件。通过工程应用验证了该方法能够有效减少手动绘制三维钢筋建模的工作量,从而节省了时间和成本。本文方法可作为装配式建筑设计中三维钢筋快速建模参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】Revit；装配式；参数化钢筋建模；软件开发",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17;TU392.2；TP311.52【文献标识码】A 【文章编号】1674-7461(2017)04-0041-05  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.04.08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "装配式建筑是指采用部件部品，在施工现场以可靠连接方式装配而成的建筑,具有设计标准化、生产工厂化、施工装配化、装修一体化、管理信息化等特征。发展装配式建筑是牢固树立和贯彻落实创新、协调、绿色、开放、共享五大发展理念，按照适用、经济、安全、绿色、美观要求推动建造方式创新的重要体现，是稳增长、促改革、调结构的重要手段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国务院办公厅《关于大力发展装配式建筑的指导意见》（国办发［2016]71号)中明确要大力发展装配式建筑，推动建造方式创新，促进建筑产业转型升级，并明确指出创新装配式建筑设计，提高建筑领域各专业协同设计能力，加强对装配式建筑建设全过程的指导和服务，并鼓励设计单位与科研院所、高校等联合开发装配式建筑设计技术和通用设计软件。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文通过研究装配式建筑构件的钢筋排布规律，结合Revit二次开发技术，研发通用的适用于装配式建筑构件设计的软件，辅助设计帅解决预制构件的钢筋建模问题，为装配式预制构件的钢筋深化设计提供了新的技术思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2装配式建筑构件的钢筋深化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于装配式建筑构件，假如一个构件的设计出现疏漏，尤其是钢筋碰撞，不仅现场无法安装，而且影响整批预制构件的生产、运输和安装，直接影响施工进度和成本。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于钢筋碰撞，传统的做法是通过二维平面和剖面结合的形式进行校验。该方法不仅容易出现疏漏，而且工作效率低。通过BIM的三维可视化技术，不仅能够从三维的角度校验设计是否合理，而且能够快速生成装配式建筑构件的配筋图、模板图等，同时保证图纸与模型的一致性，保障了装配式建筑构件的生产和安装。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但在装配式预制构件的钢筋深化中，钢筋建模是困扰设计师进行装配式建筑构件深化设计的一大难点，主要原因有以下几点：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)软件操作困难 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Revit的钢筋建模基于平面，分为“当前工作平面”、“近保护层参照”和“远保护层参照”；放置方向又分“平行于工作平面”、“平行于保护层”和“垂",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "直于保护层”三种形式。在绘制钢筋前需要设置好不同的保护层，绘制过程中需要在不同的平面、剖面中切换，不仅掌握困难，而且工作效率低。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)钢筋形式复杂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "装配式建筑构件常用的钢筋形式中，相对复杂的有箍筋、腹杆钢筋、吊筋等，这类钢筋在绘制过程中，不仅要考虑绘制平面，还要考虑编辑草图轮廓等因素，进一步加大了钢筋绘制的难度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)工作量大",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "装配式建筑构件包含的钢筋数量多，人工手动绘制工作量大，效率低。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)软件功能欠缺",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在Revit中，没有钢筋对齐、钢筋打断、钢筋连接、显示钢筋和隐藏钢筋等常用命令，需要修改时只能编辑钢筋轮廓和手动调节每条钢筋的“视图可见性状态\"来实现。软件功能欠缺不仅影响了设计师的工作习惯，影响工作效率，而且阻碍了BIM技术在装配式建筑中的应用及推广。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3构件参数化钢筋建模分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "装配式建筑构件钢筋规律",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2根据《GB/T51231-2016 装配式混凝土建筑技术标准》、《15G366-1桁架钢筋混凝土叠合板（ $6 0 \\mathrm { m m }$ 厚底板)》和《15G368-1预制钢筋混凝土阳台板、空调板及女儿墙》等规范，装配式建筑构件主要分为外墙板、内墙板、桁架钢筋混凝土叠合板、预制钢筋混凝土楼梯、预制钢筋混凝土阳台板、预制钢筋混凝王空调板、预制钢筋混凝土女儿墙、预制混凝土叠合梁和预制混凝土柱等构件[1-5]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，预制混凝土柱、预制混凝土叠合梁、桁架钢筋混凝土叠合板、预制钢筋混凝土阳台板、预制钢筋混凝土空调板等构件的钢筋排布具有统一性、规范性和重复性，为参数化自动建模提供了前提条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1)统一性：同类型装配式建筑构件包含的钢筋类型统一。例如预制混凝土柱包含有纵筋、角筋、b边一侧中部筋、h边一侧中部筋、箍筋等类型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2)规范性：同类型装配式建筑构件的钢筋依据规范进行排布。例如预制混凝土梁底筋位置、腰筋位置、箍筋位置、加密区与非加密区的要求等都按照规范进行排布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3)重复性：同类型但不同规格的装配式建筑构件钢筋排布类似。例如不同规格桁架钢筋混凝土叠合板，只是尺寸规格不同。新构件需手动重复调整模型，工作繁琐。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过分析及归纳，装配式建筑构件钢筋规律及算法的公式如表1所示，由于文章篇幅有限，仅能展示部分内容。其中，protect $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 保护层厚度； $\\dot { \\mathbf { i } } =$ 循环变量(i在不同类型钢筋算法中，小于不同类型的数量）； $\\mathrm { \\ d G u } =$ 箍筋直径；dJiao $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 角筋直径；rJiao $\\mathbf { \\tau } = \\mathbf { \\tau }$ 角筋半径； $\\mathrm { \\ r G u = }$ 箍筋半径； $\\mathbf { r D i } =$ 底筋（角）半径;$\\mathrm { { \\ n u m B } = b }$ 边中部筋数量； $\\mathrm { \\ n u m H = h }$ 边中部筋数量;$\\mathrm { \\ n u m D = }$ 底筋（中部）数量； $\\mathrm { \\ l e n g t h B = b }$ 边长度;lengthH $\\mathbf { \\Sigma } = \\mathbf { h }$ 边长度；width $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 梁宽；higth $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 梁高;floor $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 楼板厚度；firstShouli $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 受力钢筋离边距离;firstFenbu $\\mathbf { \\tau } = \\mathbf { \\tau }$ 分布钢筋离边距离；firstZhijia $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 支架钢筋离边距离；spaceShouli $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 受力钢筋间距;spaceFenbu $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 受力钢筋间距；spaceZhijia $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 受力钢筋间距；spaceLajin $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 受力钢筋间距；firstLajin $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 拉筋离边距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/97cda409351a006fa533e02c235e2f8e09d18ad0f645f353d011b50163945d41.jpg",
+        "table_caption": [
+            "表1装配式建筑构件钢筋分布统计表(部分内容)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">排布规律及算法公式</td></tr><tr><td>含类型</td><td>主要包</td><td>各类型钢筋型号通常相同、同类型钢筋中心离边 距离有规律</td></tr><tr><td rowspan=\"4\">混凝</td><td>角筋</td><td>算法公式：钢筋中心离边距离=protect+dG+rJiao 算法公式：钢筋中心离边距离=（protect+dG+</td></tr><tr><td>b边 预制中部筋</td><td>dJiao）+i *（lengthB-（protect + dG+dJiao）* 2/ (numB +1))</td></tr><tr><td>h边 中部筋</td><td>算法公式：钢筋中心离边距离=（protect+dG+ dJiao）+i*（lengthH-（protect + dG+dJiao）* 2/ (numH+1))</td></tr><tr><td>箍筋</td><td>算法公式：钢筋中心离边距离=protect+rGu</td></tr><tr><td rowspan=\"4\">预制 混凝 土叠 合梁</td><td>底筋 （角）</td><td>算法公式：钢筋中心离边距离=protect+dG+rDi</td></tr><tr><td>底筋 (中部)</td><td>算法公式：钢筋中心离边距离=（protect+dG+ rDi）+i *（width-（protect +dG +rDi）* 2/ (numD +1))</td></tr><tr><td>箍筋</td><td>算法公式：钢筋中心离边距离=protect +rGu 算法公式：钢筋中心离顶距离=higth-floor-150</td></tr><tr><td>拉筋</td><td>算法公式：钢筋中心离顶距离=firstLajin +i *spaceLajin</td></tr><tr><td rowspan=\"4\">叠合 板、 阳台 空调 板 板、</td><td>受力 钢筋</td><td>算法公式：钢筋中心离边距离=firstShouli+i *spaceShouli</td></tr><tr><td>分布 钢筋</td><td>算法公式：钢筋中心离边距离=firstFenbu +i *spaceFenbu</td></tr><tr><td>支架</td><td>支架钢筋包含上弦钢筋、下弦钢筋和腹杆钢筋，算</td></tr><tr><td>钢筋</td><td>法公式：支架位置= firstZhijia+i * spaceZhijia</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 软件基础",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Revit是Autodesk公司的软件产品，可帮助建筑设计师设计、建造和维护质量更好、能效更高的建筑，是我国建筑业BIM体系中使用最广泛的软件之一。Revit的API提供了大量的开发接口，开放程度大，满足VB.NET、C#、 $\\mathrm { { C } + + }$ 等语言，可供开发人员自行开发相应的命令或插件[6-7]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可见,装配式建筑构件参数化钢筋建模具备实现的可行性，可通过Revit二次开发技术，结合装配式建筑的相关标准，研发装配式建筑构件参数化钢筋建模插件，以提高工作效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4辅助软件开发",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "装配式建筑构件深化辅助软件功能简介",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "装配式建筑构件深化辅助软件是基于AutodeskRevit平台的工具集软件集合,适用于Autodesk Re-vit2016版，目前分为3个模块，钢筋建模模块、钢筋编辑模块和标识标注模块，软件界面简单直观，所有命令均可分别设置快捷键或通过右击添加到顶部的快速访问栏，以便快速调用，如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2daa4c2b4dfd1ad673724d0b7dcdf7693ca43ed6ee794d406f9e1feb5f1647c8.jpg",
+        "img_caption": [
+            "图1软件界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "钢筋建模模块主要实现梁钢筋建模、柱钢筋建模、结构墙钢筋建模、叠合板钢筋建模、阳台板钢筋建模等功能。通过点击相应的命令图标来执行不同的操作，例如点击“柱钢筋建模”，弹出“柱钢筋设置”，参数设置完成后，点击“开始选择柱”，即可绘制柱钢筋，如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "钢筋编辑模块主要实现显示钢筋、钢筋打断、钢筋对齐、钢筋碰撞等功能。显示钢筋可以一键设置钢筋的“视图可见性状态”；钢筋打断和钢筋对齐是Revit不具备的功能，可以辅助设计师对钢筋的编辑修改操作；钢筋碰撞是为方便设计师对装配式构件进行碰撞检查，及时发现钢筋碰撞位置。例如点击“钢筋打断”，然后在需要打断的位置点击（如图3所示），即可实现将钢筋分段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5edab939a26a524671af803083d4187446ec826057ef79ccea8590f34ce0669f.jpg",
+        "img_caption": [
+            "图2参数化柱钢筋建模设置界面及生成效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/514d3f4d8156e41dea003696244a7b3168ee8027bce54d8b36c21156eaf2e540.jpg",
+        "img_caption": [
+            "图3钢筋打断示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标识标注模块主要实现预埋件标识、轮廓边线、尺寸避让、设置钢筋外径等功能，该模块用以辅助设计师基于Revit出装配式建筑构件的配筋图、模板图等，实现BIM三维出图，以保证图纸与模型是一致的。例如点击“轮廓边线”，弹出“轮廓边线”设置界面（如图4所示），参数设置完成后，点击“确定”，即可在平面绘制出构件内的保温材料的轮廓（如图5所示）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b29caef2f414260d45819fefa0b5606cdbaaaec25a0daf03c7de038a63e1b4cb.jpg",
+        "img_caption": [
+            "图4轮廓边线设置界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c13c3538ffcf9c1a3cf5da874929d74b6db21e962f7a2f5460905b2a25fe04db.jpg",
+        "img_caption": [
+            "图5构件内的保温材料的轮廓 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "装配式建筑构件参数化钢筋建模的优点",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参数化建模方法的优点主要有以下几个方面：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)操作简便根据不同的构件，只需要在设置窗口中输入相钢筋参数，即可自动绘制需要绘制的钢筋；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)工作效率高以叠合板为例，人工手动绘制三维钢筋模型需  \n要个多小时,而利用插件一分钟内就可以生成基  \n础模型，然后在此基础上进行修改，总用时不超过,工作效率显著提高；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)适用性强 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "只需增加相应的控制参数，即可适应不同尺寸的预制构件，且适用于不同项目的同类构件，重复利用率高；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4)修补软件缺陷",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "解决Revit钢筋编辑繁琐的问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 工程应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "某装配式剪力墙结构高层住宅，建筑面积约1.02万 $\\mathbf { m } ^ { 2 }$ ，地面以上27层，建筑总高度 $7 8 . 3 \\mathrm { m }$ 。本文以标准层为例（见图6），使用该辅助软件进行钢筋建模。标准层叠合板类别共计16个，其中单向叠合板2个，双向叠合板14个；标准层叠合梁类别共计13个，其中框架梁10个，次梁1个，连梁1个;预制外墙板部件共计24个；预制剪力墙构件根据长度的不同，共划分为7个构件。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d54db649582f0d8f06669b8bc10ec5eff792e0121b9bbd9058be29b09160de1.jpg",
+        "img_caption": [
+            "图6项目标准层BIM模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1辅助软件建模应用效果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过装配式建筑构件深化辅助软件进行钢筋生成及编辑，部分装配式构件BIM模型如图7所示，通过参数化建模有效减少 $60 \\%$ 以上的建模工作量，其中叠合板、叠合梁、剪力墙可以减少 $80 \\%$ 建模工作量，大大提高工作效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2钢筋碰撞检查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于预制构件与周边现浇部分钢筋碰撞可以利用Navisworks进行钢筋碰撞检查，可快速定位碰撞位置，但要将模型从Revit导入到Navisworks操作相对繁琐。该方法实现难度不大，本文不详细赘述。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/98fc0725ddee4e63e60dffed20714136a630cdaccf8c2e72af4d65bfddaac3fd.jpg",
+        "img_caption": [
+            "图7装配式建筑构件BIM模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于预制构件内部钢筋碰撞和相邻预制构件之间钢筋碰撞，如果反复在两个软件间转换，工作效率低，对此，利用辅助软件中的“钢筋碰撞”功能，可在Revit中直接检查钢筋碰撞，有效提高工作效率。操作方法为点击“钢筋碰撞”，弹出设置窗口，当要检查构件间的钢筋碰撞，则勾选“忽略构件内容碰撞”，然后先择钢筋即可将有碰撞的钢筋自动红色标记（如图8），辅助设计师进行检查。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/edede27406589d12e31273c45ffe7c36e171792d8e3d3260932d8beca75f7fbc.jpg",
+        "img_caption": [
+            "图8钢筋碰撞设置界面及结果显示"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文对装配式建筑构件深化设计过程中需要对构件钢筋进行建模的难点进行分析，探讨了装配式建筑构件参数化钢筋建模的可行性，并结合二次开发技术，研发出一套装配式建筑构件深化辅助软件，该软件具有操作简便、工作效率高、适用性强等特点，同时修补了Revit软件的功能缺陷，提高了Revit在项目中的应用效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经工程应用表明，装配式建筑构件参数化钢筋建模能够有效地减少手动绘制三维钢筋的工作量，节省时间和成本，能够为BIM在装配式建筑构件的项目应用提供参与及借鉴，也为推动BIM技术的发展提供新的技术思路。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1］GB/T51231-2016装配式混凝土建筑技术标准［S].  \n[2］15G366-1-2015桁架钢筋混凝土叠合板（ $6 0 \\mathrm { m m }$ 厚底板)[S].  \n［3］15G368-1-2015预制钢筋混凝土阳台板、空调板及女儿墙[S].  \n［4］15G365-1-2015预制混凝土剪力墙外墙板[S].  \n[5］15G365-2-2015预制混凝土剪力墙内墙板［S].  \n［6］徐迪．基于Revit的建筑结构辅助建模系统开发［J].土木建筑工程信息技术，2012，4(3）：71-77.  \n[7」谭健，栗峰.参数化编程在BIM自动建模技术中的研究[J].建筑工程技术与设计，2015(33）.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Research and Application of Parameterized Rebar Modeling for Prefabricated Building Component based on Revit ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Luo Yuanfeng，Jiao Ke ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(Architectural Design and Research Institute of Guangdong Province， Guangzhou 51Oo1O，China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The3D rebar modeling in Revit has been a dificult problem for the designers in the deepening designof prefabricated building component.This paper presents a parametric rebar modeling method for prefabricated building componenthrough the research on the arrangement ruleof rebar.Based on the rebar modeling method and Revit secondary development technology，a set of design-aided software is developed.Itis proven through engineering applications that this method can effectively reduce the work load onrebar modeling，which saves a lotof time and money.This method can be used as a rapid modeling referenceof 3D reinforced prefabricated construction design. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Revit；Prefabricated Building；ParametricRebar Modeling；Software Development ",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,719 @@
+[
+    {
+        "type": "text",
+        "text": "转香蕉 $M a A S R I$ 基因的拟南芥株系在干旱胁迫条件下的表达谱分析\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张丽丽’徐碧玉」刘菊华」贾彩红’张建斌」金志强 1，2\\*\\*（1中国热带农业科学院热带生物技术研究所农业部热带作物生物学与遗传资源利用重点实验室海口 571101）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 中国热带农业科学院海口实验站/海南省香蕉遗传育种改良重点实验室海口570102)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要干旱是最重要的环境胁迫，香蕉MaASR1基因在植物响应逆境胁迫时发挥着重要作用，为了深入研究MaASR1基因的过表达使拟南芥抗旱的分子机制,利用全基因组表达芯片来广谱的筛选MaASR1基因转入后自然条件下及干旱处理条件下差异基因的表达情况。对基因芯片的结果进行了详细的生物信息学分析及相关基因的RT-PCR验证，结果表明MaASR1基因异源表达的拟南芥株系在自然生长条件下共有747个差异基因，其中上调基因559个，下调基因188个；在干旱胁迫条件下共得到653个差异基因，其中上调基因256个，下调基因397个；MaASR1基因的转入可以通过影响激素，光合作用，锌指蛋白及不依赖ABA途径的DREB2A等相关基因的表达来提高拟南芥的抗旱性。为解析MaASR1基因作为转录因子提高植物抗旱能力的分子机制奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 MaASR1基因 基因芯片 生物信息学 干旱胁迫 实时荧光定量PCR",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于各种生物和非生物胁迫的影响造成粮食产量下降，因此需要最大限度地减少这些损失，根据气候变化，确保粮食安全。环境的非生物胁迫，如干旱，极端温度，寒冷，重金属，或高盐，严重损害植物生长和生产力。干旱是最重要的环境胁迫，超过任何其他环境因素，严重损害植物的生长和发育，限制植物生产和作物的性能[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基因芯片是属于生物芯片的一种，又可以叫做DNA芯片、DNA微阵列(DNA microarray)或者是寡核苷酸微阵列(oligonucleotide microarray)。它的工作原理就是杂交测序的方法[2]。基因芯片技术是沟通基因序列信息与功能基因组间的纽带，目前，在植物研究中，基因芯片技术主要广泛应用于基因检测；基因表达水平检测；基因突变及多态性分析；功能基因组研究等。近年来基因组芯片技术开始应用于对干旱胁迫诱导下基因的变化及表达模式的研究[3-10]。在植物中对非生物胁迫的研究，是研究植物如何感知外界胁迫和适应非生物胁迫条件，然后利用这些知识来提高植物和作物对非生物胁迫的耐受性。高通量的筛选技术，芯片分析在模式植物和重要农业作物品种中已被用于高效剖析非生物胁迫包括干旱胁迫应答基因[11-16]。基因芯片技术推动了在非生物胁迫过程中对基因调控网络的研究，全基因组测序和染色质免疫沉淀技术推动了在胁迫条件下对基因表达的表观遗传控制的研究[17]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我们从香蕉果实的cDNA文库中获得的一个ASR 基因（MaASR1，登录号为AY628102)，本实验室前期的研究表明香蕉植株在干旱胁迫条件下，MaASR1基因在根部和叶片中的表达量大幅上升，说明MaASR1基因主要参与植物在面临干旱胁迫时的应答反应[18]。为了深入研究MaASR1基因在香蕉干旱胁迫中发挥作用的抗性机制，将MaASR1基因转入模式植物拟南芥中，获得了转基因纯合株系L14[18]。L14 在干旱胁迫条件下的存活率优于野生型拟南芥植株[18]。转基因株系中，MaASR1基因的表达量越大，则该株系表现出来的抗旱能力则越强[18-19]。这些证据都能说明MaASR1基因的转入能够提高拟南芥的抗旱性[18]。为了深入研究MaASR1基因的过表达使拟南芥抗旱的分子机制，运用芯片技术(DNAmicroarray)来广谱的筛选MaASR1基因转入后自然条件下及干旱处理条件下差异基因的表达情况，以期能进一步的解析MaASR1基因发挥作用的调控机理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "野生型拟南芥（Arabidopsis thaliana.Columbia ecotype）购自 ArabidopsisBiological Resource Center (Ohio university, Ohio State, USA)。转 MaASRl 基因拟南芥L14 株系由本实验室前期转化所得[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1对野生型和MaASR1转基因籽苗的干旱处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将野生型拟南芥和MaASR1转基因株系L14的种子播种于MS 固体培养基中，然后在 $4 ^ { \\circ } \\mathrm { C }$ 条件下黑暗处理3d进行春化处理，之后将其转移到人工气候培养箱中培养。培养温度条件为 $2 1 - 2 3 ^ { \\circ } \\mathrm { C }$ ，每日光照时间为 $8 \\mathrm { h }$ ，黑暗时间为 $1 6 \\mathrm { h }$ （即短日照状态)。光照强度为 $2 0 0 0 \\mathrm { { l x } }$ ，培养箱相对湿度为 $70 \\%$ 。在籽苗生长15d后，选择生长出2-4片叶片的籽苗，将根部的培养基洗净。将各株系籽苗表面的水珠擦干，分别放在3张干燥的滤纸上，这样可以让滤纸自然吸收籽苗的水分，取两个培养皿盖在滤纸上方，防止蒸发带来的水分流失，然后把滤纸放置在人工气候培养箱中培养。培养条件与上面的相同，进行模拟干旱条件处理。分别在处理0h、2h和 $6 \\mathrm { { h } }$ 时各取 $0 . 2 \\ \\mathrm { g }$ 材料，迅速的放置于液氮中冷冻，在 ${ \\boldsymbol { \\cdot } } 7 0 ^ { \\circ } { \\mathrm { C } }$ 存放[18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2野生型和MaASR1转基因拟南芥株系的荧光定量PCR ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取1.2.1中干旱处理各阶段的野生型和转MaASR1基因拟南芥植株，用以提取RNA。各株系拟南芥材料总RNA 的提取采用QIAGENplantRNAKit，具体方法参照该试剂盒说明书。然后用Fermentas 的RevertAidTMFirst Strand cDNASynthesisKit试剂盒以上面提取的RNA为模板合成cDNA的第1条链。DREB2A荧光定量PCR的引物序列为F：5-ATAACGAGACCGTAGAAGA-3，R:5-GCCAAAGGACCATACATAG-3。以拟南芥看家基因Atactin（基因登录号AK318637）为内参，荧光定量PCR的引物序列为F：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5-CCAACAGAGAGAAGATGA-3; R: 5-ATGTCTCTTACAATTTCCCG-3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3表达谱芯片的制作和分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "提取转MaASR1基因的L14与野生型拟南芥植株的RNA，通过博奥生物有限公司制作MaASR1转基因拟南芥L14与野生型在未作任何处理的表达谱芯片，命名为14vsWT，其中14代表转基因株系L14，WT代表野生型拟南芥；和干旱处理 $2 \\mathrm { h }$ 的MaASR1转基因拟南芥L14与野生型表达谱芯片，命名为YvsW,其中Y代表转基因株系L14，W代表野生型拟南芥。每个芯片重复3次，以减少不同株系之间的差异所造成的误差。并对两种株系得到的芯片结果进行初步的基因筛选和分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验中所采用的基因芯片为29kArabidopsis Genome Array，共有 29110 条70 mer 长度的 Oligo DNA，来自于Operon 公司的 The Arabidopsis thalianaGenome Oligo SetVersion 3.0，共代表了约26173个基因，28964个转录本。然后把此Oligo 库用 SmartArrayTM(CapitalBio Corp.，Beijing,China)点制在一张$7 5 { \\times } 2 5 ~ \\mathrm { m m }$ 、经过化学修饰的载玻片上。点制在芯片上的样品还包括拟南芥的11个看家基因作为阳性对照，Hex作为点样阳性对照，点样溶液 $50 \\%$ DMSO作为阴性对照，以及酵母的8个基因间序列作为外标。整个点阵分成48个亚阵，每个亚阵有25列，26行，点间距为 $1 6 5 \\mu \\mathrm { m }$ ，点的直径约为 $1 0 0 ~ { \\mu \\mathrm { m } }$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1表达谱芯片RNA质量检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1189f9f165adf37fa8fdbeb28b272360bdc254fb66c37e0d268e0ab496c6f04b.jpg",
+        "img_caption": [
+            "图1拟南芥株系RNA完整性检测"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A：拟南芥野生型和转基因株系未处理时的RNA完整性检测 B：拟南芥野生型和转基因株系经干旱处理后的RNA完整性检测 A:TheRNA integritytestingofuntreatedArabidopsisild-typeandtransgenic lines;B:TheRNAintegritytestingofdrought treatedArabidopsiswild-typeand transgenic lines ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对未经任何处理的野生型和转基因(MaASR1)拟南芥幼苗，用Trizol方法提取RNA，RNA完整性如图1所示，对经过 $2 \\mathrm { h }$ 干旱处理的野生型和转基因(MaASR1)拟南芥幼苗，用Trizol方法提取RNA，RNA完整性如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RNA完整性：RNA样品电泳条带清晰，26S：18SrRNA条带亮度接近1:1。符合表达谱芯片实验要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2表达谱芯片RNA浓度和总量的检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1拟南芥野生型和转基因株系未处理时RNA浓度和总量的检测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fb73e5c8af6759d21b76435170bc98dc981acc3ff5bb4f2eb1f600b26486d4a.jpg",
+        "table_caption": [
+            "Table1The RNAconcentration and quantity of untreated Arabidopsis wild-type and transgenic lines ",
+            "表2拟南芥野生型和转基因株系干旱处理后RNA浓度和总量的检测"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>样品编号</td><td>A260/280</td><td>A260/230</td><td>浓度(μg/uL)</td><td>总量(μg)</td></tr><tr><td>1</td><td>WT-1</td><td>2.04</td><td>1.37</td><td>0.924</td><td>92.5</td></tr><tr><td>2</td><td>WT-2</td><td>2.03</td><td>1.52</td><td>1.116</td><td>111.6</td></tr><tr><td>3</td><td>WT-3</td><td>2.01</td><td>1.44</td><td>0.656</td><td>65.6</td></tr><tr><td>4</td><td>14-1</td><td>2.02</td><td>1.49</td><td>0.574</td><td>57.4</td></tr><tr><td>5</td><td>14-2</td><td>2.03</td><td>1.41</td><td>0.562</td><td>56.2</td></tr><tr><td>6</td><td>14-3</td><td>1.98</td><td>1.22</td><td>0.453</td><td>45.3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/de445ab85e2845e6d7a50c643cdd9a3b57ba16f1ae72f91ae36194a6b48e7d61.jpg",
+        "table_caption": [
+            "Table 2 The RNA concentration and quantity of drought treated Arabidopsis wild-type and transgenic lines "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>样品编号</td><td>A260/280</td><td>A260/230</td><td>浓度(ug/uL)</td><td>总量(μg)</td></tr><tr><td>1</td><td>WT1</td><td>2.01</td><td>1.04</td><td>1.302</td><td>84.62</td></tr><tr><td>2</td><td>WT2</td><td>2.03</td><td>1.48</td><td>1.051</td><td>73.59</td></tr><tr><td>3</td><td>WT3</td><td>2.02</td><td>1.59</td><td>1.491</td><td>96.90</td></tr><tr><td>4</td><td>Y1</td><td>2.03</td><td>1.38</td><td>0.995</td><td>64.70</td></tr><tr><td>5</td><td>Y2</td><td>2.00</td><td>1.42</td><td>0.911</td><td>59.21</td></tr><tr><td>6</td><td>Y3</td><td>2.01</td><td>1.36</td><td>1.044</td><td>67.86</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对未经任何处理的野生型和转基因(MaASRI)拟南芥幼苗，用Trizol方法提取RNA，RNA纯度和总量如表1和表2所示。对经过 $2 \\mathrm { h }$ 干旱处理的野生型和转基因(MaASRI)拟南芥幼苗，用 Trizol方法提取RNA，RNA纯度和总量如表10所示。RNA 纯度:RNA 样品 $\\mathrm { A } 2 6 0 / 2 8 0 > 1 . 8 0$ 。RNA 总量:RNA 样品总量 ${ > } 8 ~ \\mu \\ g$ 符合表达谱芯片实验要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3表达谱芯片差异基因聚类分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5527cdb2bf6be5eee6ca82494da4bb215dd3482ff4a1e87e65c75417f2175a7.jpg",
+        "img_caption": [
+            "图2表达谱芯片差异基因聚类图",
+            "Fig.2 The cluster data of differential gene expression profile "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图2所示为6张表达谱芯片差异基因聚类图，从左到右依次为14_2_vs_WT_2，14_1_vs_WT_1，14_3_vs_WT_3，Y2_vs_W2，Y3_vs_W3,Y1_vs_W1。前3张芯片为自然条件下野生型拟南芥与转基因(MaASR1)拟南芥14号株系的基因表达谱的变化图，后3张芯片为经 $2 \\mathrm { h }$ 干旱胁迫处理的野生型拟南芥与转基因(MaASR1)拟南芥14 号株系的基因表达谱的变化图。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图2中可以看出不同生物学重复间基因表达差异不大，芯片的重复情况良好。未经任何处理的野生型拟南芥与转基因拟南芥基因表达变化与经过干旱处理的差异十分明显。红色代表表达上调大于2倍的基因，筛选标准为：Ratio≥2；绿色代表表达下调大于2倍的基因筛选标准为：Ratio≤0.5。14vsWT一共得到747个差异基因，其中上调基因559个，下调基因188个；YvsW一共得到653个差异基因，其中上调基因256个，下调基因397个。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4表达谱芯片样品比较散点分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2512033d3c706054a53a50516956668f634ba7cbc2f75360e656eb2984e1751a.jpg",
+        "img_caption": [
+            "图3芯片样品比较分析散点图",
+            "Fig.3 The Scatter Plot of gene expression profile "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，表示在同一张芯片中两个样品的比较分析散点图；可以比较直观地看出在野生型和MaASR1转基因型之间基因表达的差异情况。其中X轴和Y轴分别以野生型和转基因型的荧光信号强度值为坐标，图中每一个数据点代表所制作芯片上的一个基因点的杂交信号，红色标记表示Ratio 值 ${ \\geq } 2$ 的基因情况，绿色标记的数据点表示Ratio值 $\\underline { { \\le } } 0 . 5$ 的基因，代表在选择的Ratio值范围内属于表达有显著差异的基因，黑色标记表示Ratio值在0.5和2之间，代表表达基因基本没有显著差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5表达谱芯片的生物信息学分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5.1Network分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AraNet数据库采用修正的贝叶斯法预测拟南芥基因间的相互作用。数据库中总共收录了19，674个基因，涉及1,062,222个基因间的互作关系，将差异基因使用AraNet数据库映射，得到网络图结果，其中表达谱芯片14vsWT差异基因集网络图如图4所示，表达谱芯片YvsW差异基因集网络图如图6所示。由差异基因网络图中可以看出，图中红色节点代表上调基因，黄色节点代表下调基因YvsW与14vsWT相比，上调基因明显减少，下调基因明显增多。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/31f9a71334704fccca0d1e65366ea93ef47da90b4624c31f5c14b6112f43867f.jpg",
+        "img_caption": [
+            "图414vsWT差异基因集网络图",
+            "Fig.4 The Network Diagram of differential gene in14 vs WT "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：图中红色节点代表上调基因，黄色节点代表下调基因 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "neighborhoods between Arabidopsis orthologs in bacterial genomes; $\\mathrm { L C } =$ Literature-curated Arabidopsis protein interactions; $\\mathrm { P G } =$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Phylogenetic profile similarity between Arabidopsis homologs ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/68c66247fbdd320c4eeea684bc5571657857846eea23e7e7aa07db62192da427.jpg",
+        "img_caption": [
+            "图514vsWT网络连接度分析结果",
+            "Fig.5 The result analysis of network connectivity in 14 vs WT "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图5中可以看出，其中 AT2G30020,AT4G29780,AT4G11890 网络连接度较高。在14vsWT芯片中，把连接度最高的基因整理汇总见表3：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3基因注释",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/894c58d4fa92415d846d5510b27b92049b37af295e98b223e2de7e0b565429a7.jpg",
+        "table_caption": [
+            "Table 3 Gene annotation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因登录号</td><td>基因生物学功能</td></tr><tr><td>At4g29780</td><td>similar to unknown protein [Arabidopsis thaliana]</td></tr><tr><td>At5g51190</td><td>AP2 domain-containing transcription factor, putative</td></tr><tr><td>At3g04640</td><td>glycine-rich protein</td></tr><tr><td>At5g59550</td><td>zinc finger (C3HC4-type RING finger) family protein</td></tr><tr><td>At1g32920</td><td>similar to unknown protein [Arabidopsis thaliana]</td></tr><tr><td>At1g66090</td><td>\"disease resistance protein (TIR-NBS class),putative\"</td></tr><tr><td>At2g30020</td><td>\"protein phosphatase 2C,putative /PP2C,putative\"</td></tr><tr><td>At4g11890</td><td>protein kinase family protein</td></tr><tr><td>At5g10760</td><td>aspartyl protease family protein</td></tr><tr><td>At3g46620</td><td>zinc finger(C3HC4-type RING finger) family protein</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/874803306fda95279d3eea164beab186e34302250a67a8dfa0a2cb8f2328113c.jpg",
+        "img_caption": [
+            "图6YvsWT差异基因集网络图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注释：与图4注释相同 ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe59599af58ec6048eec21dbe6ba01302b3cdc2fe84d85bf47efa95b118a3df0.jpg",
+        "img_caption": [
+            "Fig. 6 The Network Diagram of differential gene in Y vs W ",
+            "图7YvsW网络连接度分析结果",
+            "Fig.7 The result analysis of network connectivity in Y vs W "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由图7中可以看出，其中 AT1G56300,AT4G16146,AT4G04330 等基因连接度较高。在YvsW芯片中，把连接度最高的基因整理汇总见表4：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表4基因注释",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table 4Gene annotation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc00cc8b8339c7d0ea8e48d6c8d9a76a93d9725877c5ae715362bcff54d974d8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因登录号</td><td>基因生物学功能</td></tr><tr><td>At1g08890</td><td>sugar transporter family protein</td></tr><tr><td>At1g56300</td><td>DNAJ heat shock N-terminal domain-containing protein</td></tr><tr><td>AT1G13930</td><td>similar to nodulin-related [Arabidopsis thaliana]； similar to drought-induced protein SDi-6-common</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea5b3b10c474e2556297b0013252cc0cfe993380232f48dd5a6b48702b5bb1b2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>sunflower (fragment)</td><td></td></tr><tr><td>AT1G07440</td><td>Oxidoreductase</td></tr><tr><td>At4g16146</td><td>\"similarto unknown protein [Arabidopsis thaliana]； similar to negatively light-regulated protein,putative,</td></tr><tr><td>At4g14270</td><td>expressed [Oryza sativa (japonica cultivar-group)]; contains InterPro domain LglO6-like; \"</td></tr><tr><td></td><td>Protein containing PAM2 motif which mediates interaction with the PABC domain of polyadenyl binding</td></tr><tr><td>At1g21500</td><td>proteins.</td></tr><tr><td></td><td>similar to conserved hypothetical protein [Medicago truncatula]</td></tr><tr><td></td><td>\"1-phosphatidylinositol-4-phosphate kinase,class IA</td></tr><tr><td>AT4G04330</td><td>complex|GO:0005943\"</td></tr><tr><td></td><td>similar to unnamed protein product [Ostreococcus tauri]</td></tr><tr><td>At5g12960</td><td>similar to unknown protein [Arabidopsis thaliana]</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5.2 Gene ontology 分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在GO数据库中包含了基因参与的生物过程，基因所处的细胞位置和基因发挥的分子功能三方面的功能信息，并将概念粗细不同的功能概念组织成DAG（有向无环图）的结构。在基因表达谱分析中，GO常用于提供基因功能分类标签和基因功能研究的背景知识。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)14vsWT依据参与的生物过程分类",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bce025dd678d7b7d24435fdfba27ea95fa47876afccfe3e891a869af6c88ee3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.8 The result of 14 vs WT according to clasification of the participation in the biological process(14 vs ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2)14vsWT依据定位分类 ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/42f78459711d1098aabee0a25ea582f281a1b77936d37d54e18f285df0c2264b.jpg",
+        "img_caption": [
+            "图8依据参与的生物过程分类结果图(14vsWT)"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图9依据在细胞组分中的定位分类结果图(14vsWT)"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.9The result of14 vs WTaccording to the classification of the position in the cellular component (14 vs ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "WT) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3)14vsWT依据生物学功能分类",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0003f726d264845051fab46c4b7624c4c003fc4f284bb7a546bc8f2c406c34b.jpg",
+        "img_caption": [
+            "图10依据生物学功能分类结果图(14vsWT)"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.10 The result of14 vs WTaccording to the classification of its molecular biological function (14 vs WT) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4)YvsW依据参与的生物过程分类",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/fed3341de2cb34b247a57534318dd9c559988720e0daff7d882bdd857fdb4a07.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/824a357ff7168a8bee36b713da27f867c3647b293982b448caac8d04d39927ed.jpg",
+        "img_caption": [
+            "图11依据参与的生物过程分类结果图(YvsW)"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.11 The result of Yvs W according to clasification of the participation in the biological process(Y vs W) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(5)YvsW依据定位分类 ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/33613cc6c426282a702df81234dcf3b4ac04d75267bfba3da88ffec3b42ece67.jpg",
+        "img_caption": [
+            "图12依据在细胞组分中的定位分类结果图(YvsW)"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.12 The result of Yvs Waccording to the clasification of position in the cellular component (Yvs W) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(6)YvsW依据生物学功能分类 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/bae9b4e3ea08bb8d880b09d4b6542d1412fec2861693b3b4f453d33d7ec3df10.jpg",
+        "img_caption": [
+            "图13依据生物学功能分类结果图(YvsW)"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fig.13 The result of Y vs Waccording to the classification of its molecular biological function ( $\\mathbf { Y }$ vs W) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "依据参与的生物过程分类，YvsW与14vsWT相比如图(8,11)所示，参与蛋白修饰(protein modification progress)的差异基因百分比由 $12 \\%$ 降到 $3 \\%$ ，而参与光合作用(Photosynthesis)的差异基因百分比由 $1 \\%$ 升到 $8 \\%$ 。其它生物过程基因表达所占的百分比变化不明显。与之相对应的上调及下调差异基因的表达情况为：参与蛋白修饰(protein modification progress)的上调差异基因由31 个变为6,下调差异基因由9个变为4个；参与光合作用(Photosynthesis)的上调差异基因由2 个变为0个，下调差异基因由1个变为23个。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "依据定位分类,YvsW与14vsWT相比如图(9,12)所示,定位在质体(plastid)的差异基因百分比由 $9 \\%$ 升到 $33 \\%$ ，质体包含叶绿体，有色体和白色体。差异基因在其他器官的定位其它变化不明显。与之相对应的上调及下调差异基因的表达情况为：定位在质体(plastid)的上调差异基因由22个变为33，下调差异基因由24 个变为94 个。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "依据生物学功能分类，YvsW与14vsWT相比如图(10,13)所示，有转运活性(Transporter activity)的差异基因百分比由 $4 \\%$ 升到 $8 \\%$ ，有催化活性(Catalyticactivity）的差异基因百分比由 $32 \\%$ 升到 $45 \\%$ ，有蛋白结合活性(Protein binding)的差异基因百分比由 $1 1 \\%$ 升到 $1 7 \\%$ 。其它生物学功能差异基因表达所占的百分比变化不明显。与之相对应的上调及下调差异基因的表达情况为：有转运活性(Transporter activity)的上调差异基因由15个变为8，下调差异基因由11个变为22个；有催化活性(Catalytic activity)的上调差异基因由164 个变为78个，下调差异基因由68个变为104个。有蛋白结合活性(Protein binding）上调差异基因由69 个变为28个，下调差异基因由7个变为41个。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.5.3 Pathway分析",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "14vsWT差异基因集：与GO分析类似，我们同样将差异基因使用KEGGAPI向KEGG pathway 数据库映射。共找到61个相关的 pathway，主要涉及淀粉和蔗糖的代谢，磷酸戊糖途径，糖酵解及糖异生，植物激素信号转导（9个基因）等途径。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "YvsW差异基因集：与GO分析类似，我们同样将差异基因使用KEGGAPI向KEGGpathway 数据库映射。共找到58个相关的pathway，主要涉及植物激素信号转导（共20个基因)，光合作用（12个基因)，叶绿素代谢，植物生长节律等代谢途径。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.6表达谱芯片中不依赖ABA途径基因验证 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/067a280aad8513f8e56d9890281723168522a1f2e36d3d296913a61f7c545ce3.jpg",
+        "img_caption": [
+            "图14表达谱芯片中野生型及MaASR1转基因拟南芥DREB2A的表达"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Fig.14 The expression of DREB2A of expression profile microarray in wild-type and MaASR1 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "transgenic lines ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "DREB2A(DRE-BINDINGPROTEIN2A)为特异识别DRE/CRT响应元件的转录因子，它受干旱和盐胁迫诱导表达，但不对ABA应答，代表一条不依赖于ABA的胁迫应答途径(Sakuma etal.,2006)。从芯片中得到该胁迫应答转录因子DREB2A，利用real-timeRT-PCR检测野生型及MaASR1转基因拟南芥干旱处理不同时间内及在不做任何处理的条件下DREB2A的表达变化，来进行芯片结果的验证。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "结果如图14所示，在未受干旱胁迫时，DREB2A在MaASR1转基因拟南芥的基因表达量高于野生型，表达量是野生型的1.82倍；在干旱胁迫 $2 \\mathrm { h }$ 时，DREB2A在MaASR1转基因拟南芥的基因表达量也高于野生型，表达量是野生型的2.99 倍；而在干旱胁迫6h时，DREB2A在MaASR1转基因拟南芥中的基因表达量则低于野生型，表达量是转基因型的1.93倍。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "在受到干旱胁迫时，野生型和转基因拟南芥中DREB2A的表达量随着胁迫程度的增加而大幅提高，DREB2A在野生型和转基因拟南芥中的基因表达量变化趋势一致。在干旱胁迫 $2 \\mathrm { h }$ 和 $6 \\mathrm { { h } }$ 时，DREB2A在野生型拟南芥中的表达量比未受胁迫时分别提高了3.23和34.88倍；在转基因型中分别提高了5.32和9.95倍。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "干旱可以引发植物大范围的响应，从细胞的新陈代谢，生长率到作物产量的变化。了解植物对干旱胁迫的生化和分子响应对研究在缺水条件下植物的抗逆机制至关重要。植物在分子，细胞和整个植株水平上响应和适应干旱是通过激活一系列被网络基因控制的生理生化反应。植物在干旱胁迫下主要的分子响应是基因表达的改变，这些基因根据推测的功能模式分为两大类[20]。第一组包括在信号级联反应和转录控制方面的基因，如植物激素，蛋白激酶，磷酸酶和转录因子（TF)，第二组包含的是保护植物细胞免受外界胁迫的基因，如脱水蛋白，热激蛋白（HSPs)，衰老相关基因，渗透保护剂，膜保护剂，转运蛋白和抗氧化剂。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "对表达谱芯片的生物信息学分析中，依据参与的生物过程分类（图8,11)发现，YvsW与14vsWT相比，参与光合作用的相关基因明显增多，主要是下调基因的数量明显增多。植物光合作用可以将无机物质二氧化碳和水转化为有机物，同时将太阳光能转化为化学能，是地球上最重要的化学反应，也是绿色植物最为敏感的生理过程之一。水分是植物通过光合作用来制造有机物质的重要原料之一，作物内营养物质的吸收和转运都离不开水分，同时水分是植物本身最大的组成部分，它给植物的蒸腾作用用以调节植株的整个生理过程。水分胁迫是抑制植物光合作用的最主要的环境因素之一。水分胁迫对植物生长和代谢的影响是多方面的，但对光合作用的影响则尤为突出和重要。植物对水分亏缺的最初是通过减少气孔孔径来调节气孔的开度，使气孔开度减小，气孔的阻力就会相应的增大，限制了植物对CO2的吸收，致使光合作用减弱。这样就可以降低植物的蒸腾作用，从而减少水分散失以达到保水的目的。随干旱程度的增加，非气孔性限制就会发挥主要作用[21]，非气孔性限制是指水分胁迫造成光合酶的活性降低，光系统I和光系统ⅡI的活力下降，叶绿体的结构改变，叶绿素合成的速度减慢，最终表现为光合作用的下降[22]。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "表达谱芯片所得到的光合作用相关基因的表达情况表明，在干旱胁迫条件下，MaASR1转基因拟南芥与野生型相比，与光合作用相关的光系统，光系统I(LHCA1，LHCA4，LHCA6，PSAN，PSAK，PSAD2 等)和光系统 II(LHB1B1,LHB1B2，LHCB3，LHCB6 等)基因的表达量明显下降，质体（主要是叶绿体）（图9,12）相关基因表达量显著下降，还有RUBISCO 活化酶基因的表达量也明显下降，这样就会影响最初的光能转换，电子传递速率下降，CO2同化效率降低，最终导致同化产物的减少。光合速率的降低可以降低蒸腾作用以保留水分，在一定程度上提高了植物的抗旱性，同时造成同化产物的减少，也就相应的造成了作物产量与野生型相比有一定的下降。有研究表明[23]OsbZIP23 基因的过量表达会提高水稻对干旱和高盐的耐受能力，在正常情况下转基因的结实率与野生型相比却降低了 $20 \\%$ ，但在收到干旱胁迫时，野生型水稻的结实率只有 $36 \\%$ 左右，而转基因型水稻的结实率却保持在 $60 \\%$ 以上，差异极显著。这说明植物抗逆性的获得通常会伴随产量的少量下降，但是野生型在受到胁迫时产量与转基因型相比却大幅下降。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "依据生物信息学的Pathway分析可以看出，MaASR1基因可以通过调节植物激素主要包括ABA，乙烯和生长素等相关基因的表达来赋予植物抗旱性。具体如何通过调节激素相关基因的表达来提高植物的抗旱性，还需要下一步更深入的研究。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "在14 vsWT芯片链接度最高的基因中就有2个锌指蛋白家族成员 zinc finger(C3HC4-type RING finger) family protein 如图5，表3所示，在14 vsWT芯片结果中有8个C3HC4型锌指蛋白基因表达上调，有1个C3HC4型锌指蛋白基因下调。这表明香蕉MaASR1基因的转入大大提高了C3HC4型锌指蛋白基因的表达水平。说明其可以通过调控C3HC4型锌指蛋白基因的表达水平来赋予植物较强的耐旱能力。具体的调控方式还有待进一步的研究。研究表明一些ASR蛋白同 C3HC4型锌指蛋白一样包含一个锌指 DNA 结合域[24]，可以以单体或者同源二聚体的形式与DNA 结合来发挥其调控作用。MaASR1和C3HC4 型锌指蛋白都是作为转录因子来发挥作用，推测它们可能通过蛋白之间的互作来发挥其调控作用。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "锌是植物必需的营养元素，锌指蛋白是因为其具有指状结构特征并且能够结合锌离子而得名。锌的存在可以用来维持锌指结构的稳定性，它提供了一个由不同肽序列折叠形成的完美的螺旋构象。锌指蛋白在真核生物的基因组中是含量最为丰富的一类转录因子,根据转录因子中两种氨基酸即半胱氨酸(C)和组氨酸(H)残基的数目和位置，可以将含锌指结构域的转录因子划分为C2H2、C2C2、C3H、C3HC4（RING finger)和C3HC5(LIMfinger)5个亚类[25]。真核生物中基因表达的调控是分子生物学研究的热点与前沿，其基因调控主要实在转录水平上来进行。锌指蛋白作为转录因子来调控基因的转录，锌指蛋白通过与生物大分子如DNA、RNA结合来实现其对基因的转录调控，或者通过蛋白之间的互作来直接调控基因转录。越来越多的研究表明，锌指蛋白在调节植物防卫基因表达和抗性反应上起着很关键的作用，Sakamoto 等[26发现锌指蛋白AZF2 和 STZ 在干旱、高盐、冷和 ABA 的诱导下表达显著提高，转 STZ 基因的拟南芥与野生型相比表现出较强的抗干旱能力。棉花锌指蛋白GhZFP1基因的过量表达显著提高了转基因烟草的耐盐性和抗病性[27]。吴学闯等[28]研究发现大豆C3HC4 型锌指蛋白基因GmRZFP1除受ABA、高盐、干旱及低温胁迫诱导表达外，还受乙烯、高温的诱导。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DREB代表一条不依赖ABA的胁迫应答途径，转录因子DREB2A（DEHYDRATION -RESPONSIVE ELEMENTBINDING PROTEIN2A)可以与顺式作用元件 dehydration -responsive element/C-repeat (DRE/CRT）结合参与调控拟南芥干旱胁迫应答基因的表达，增强植物的耐旱性[29]。在培养皿中生长15 天的拟南芥幼苗在干旱胁迫 $2 \\mathrm { h }$ 时，拟南芥的幼苗叶片还未发生卷曲，而在干旱胁迫6h时，拟南芥的幼苗叶片已经完全卷曲萎蔫，根部也已经干燥。在干旱胁迫 $2 \\mathrm { h }$ 条件下，DREB2A在MaASR1转基因拟南芥株系中的表达量明显高于野生型。而在在干旱胁迫 $6 \\mathrm { { h } }$ 条件下，DREB2A在MaASR1转基因拟南芥株系中的表达量却低于野生型。这一结果表明，MaASR1的转入不只提高了干旱条件下DREB2A的表达水平，并且在拟南芥还未出现明显的干旱胁迫症状时促使DREB2A对干旱胁迫的应答时间提前，说明MaASR1可能是通过调控不依赖ABA信号通路的胁迫信号转导途径来调控植物的抗旱应答，进而赋予植物抗旱能力。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "综上所述，MaASR1基因的转入可以通过影响激素，光合作用，锌指蛋白及不依赖ABA途径的DREB2A等相关基因的表达来提高拟南芥的抗旱性。这为进一步解析MaASR1基因作为转录因子提高植物抗旱能力的分子机制奠定基础。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[1] Shao H B,Chu L Y, Jaleel C A,etal. Understanding water deficit stress-induced changes in the basic metabolism of higher plants-biotechnologically and sustainably improving agriculture and the ecoenvironment in arid regions of the globe.Crit Rev Biotechnol, 2009,29(2):131-151.   \n[2] Ramsay G.DNA chips: State-of-the-art. Nat Biotechnol, 1998,16(1): 40-44.   \n[3] Seki M,Narusaka M,Ishida J,et al.Monitoring the expresson profiles of 7OO Arabidopsis genes under drought,cold and high-salinity stresses using a full-length cDNA microarray.Plant J,2002,31(3): 279-292.   \n[4] Kreps JA,WuYJ,Chang H S,et al.Transcriptome changes for Arabidopsis in response to salt,osmotic,and cold stress.Plant Physiol,2002,130(4): 2129-2141.   \n[5]Brosche M, Vinocur B,Alatalo E R,et al. Gene expression and metabolite profiling of Populus euphratica growing in the Negev desert. Genome Biol, 2005, 6(12): R101.   \n[6] Street NR, Skogstrom O,Sjodin A,et al.The genetics and genomics of the drought response in Populus.Plant J,2006,48(3): 321-341.   \n[7] Wang HG, Zhang H L,Gao F H,et al. Comparison of gene expresson between upland and lowland rice cultivars under water stress using cDNA microarray. Theor Appl Genet, 2007,115(8): 1109-1126.   \n[8] Hayano-Kanashiro C， Calderon-Vazquez C, Ibarr-Laclette E,et al. Analysis of Gene Expression and Physiological Responses in Three Mexican Maize Landraces under Drought Stress and Recovery Irrigation. Plos One,2009,4(10): e7531.   \n[9] Wilkins O, Waldron L, Nahal H, et al. Genotype and time of day shape the Populus drought response.Plant J, 2009,60(4): 703-715.   \n[10] Berta M, Giovannelli A,Sebastiani F,et al.Transcriptome changes in the cambial region of poplar (Populus alba L.) in response to water deficit.Plant Biology,2010,12(2):341-354.   \n[11]Ji SJ,LuYC,Feng JX,et al.Isolation and analyses of genes preferentiallyexpressed during earlycotton fiber development by subtractive PCR and cDNA array.Nucleic Acids Res,2003,31(10): 2534-2543.   \n[12] Kawaguchi R,Girke T,Bray E A,et al.Diferential mRNA translation contributes to gene regulation under non-stress and dehydration stress conditions in Arabidopsis thaliana. Plant J,2Oo4,38(5): 823-839.   \n[13] Zhou JL, Wang XF, Jiao YL,et al. Global genome expression analysis of rice in response to drought and high-salinity stresses in shoot, flag leaf,and panicle.Plant Mol Biol, 20o7, 63(5): 591-608.   \n[14] Aprile A,Mastrangelo AM,De Leonardis AM,et al.Transcriptional profiling in response to terminal drought stress reveals diferential responses along the wheat genome. Bmc Genomics, 2009,10: 279.   \n[15] Cohen D,Bogeat-Triboulot MB,Tisserant E,et al. Comparative transcriptomics of drought responses in Populus: a meta-analysis of genome-wide expression profiling in mature leaves and root apices across two genotypes.Bmc Genomics, 2010,11: 630.   \n[16] Gong P J, Zhang JH,Li H X,et al. Transcriptional profiles of drought-responsive genes in modulating transcription signal transduction,and biochemical pathways in tomato.JExp Bot,2010,61(13): 3563-3575.   \n[17] Mitter R, Blumwald E. Genetic Engineering for Modern Agriculture: Challenges and Perspectives. Annual Review of Plant Biology, Vol 61,2010,61: 443-462.   \n[18]王园,香蕉 ASR 基因抗逆功能的研究．海南：海南大学,2010. Wang Y,Study of function of MaASRl tolerance to drought and salt resistance. Hainan: Hainan University, 2010.   \n[19] 苗红霞，王园，徐碧玉，等．香蕉 MaASR1基因的抗干旱作用．植物学报,2014,49(5):548-559. Miao HX, Wang Y, Xu B Y, et al. The Role of Banana MaASR1 in Drought Stress Tolerance. Chinese Bulletin of Botany,2014,49 (5): 548-559.   \n[20] Shinozaki K, Yamaguchi-Shinozaki K. Gene networks involved in drought stress response and tolerance. J Exp Bot,2007, 58(2): 221-227.   \n[21]姚庆群，谢贵水．干旱胁迫下光合作用的气孔与非气孔限制．热带农业科学,2005,25(4):80-85. Yao QQ,Xie G S.The Photosynthetic Stomatal and Nonstomatal Limitation Under Drought Stress. Chinese Journal of Tropical Agriculture,2005,25(4): 80-85.   \n[22] Earl HJ. Stomatal and non-stomatal restrictions to carbon assimilation in soybean (Glycine max) lines differing in water use efficiency. Environ Exp Bot, 2002,48(3): 237-246.   \n[23]向勇．水稻抗逆境相关基因的分离和功能分析．华中农业大学博士学位论文,2008. Xiang Y. Isolation and functional characterization of rice stress-related genes.Huazhong Agricultural University,Ph. D.Dissertation, 2008.   \n[24] Kalifa Y,GiladA, Konrad Z,et al.The water-and salt-stress-regulated Asrl (abscisicacid stressripening) gene encodes a zinc-dependent DNA-binding protein. Biochem J, 2004,381: 373-378.   \n[25] 刘强，张贵友，陈受宜．植物转录因子的结构与调控作用．科学通报,2000,45(14):1465-1474. Liu Q, Zhang G Y, Chen S Y. Structure and regulation of plant transcription factors . Chinese Science Bulletin, 2000, 45(14): 1465-1474.   \n[26] Sakamoto H, Maruyama K,Sakuma Y,et al.Arabidopsis Cys2/His2-type zinc-finger proteins function as transcription repressors under drought,cold,and high-salinity stress conditions.Plant Physiol,2oo4,36(1): 2734-2746.   \n[27] 郭英慧．棉花CCCH型锌指蛋白基因GhZEP1的分离、功能鉴定及其作用机制的研究．山东农业大学 博士学位论文,2007. Guo Y H. Isolation and function identification of a novel CCCH-type zinc finger protein gene GhZFPl in cotton. Shandong Agricultural University,Ph. D. Dissertation, 2007.   \n[28] 吴学闯，曹新有，陈明，等．大豆C3HC4型RING 锌指蛋白基因GmRZFP1克隆与表达分析．植物遗传 资源学报,2010,11(3):343-348. Wu X C,2, Cao X Y, Chen M, et al. Isolation and Expression Pattern Assay of a C3HC4-type RING Zinc Finger Protein Gene GmRZFP1 in Glycinemax (L.). Journal of Plant Genetic Resources,2010,11(3): 343-348. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[29]Sakuma Y,Maruyama K,Osakabe Y,et al.Functional analysis ofanArabidopsis transcription factor, DREB2A, involved in drought-responsive gene expression. Plant Cell,2006,18(5): 1292-1309. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Analysis of Banana MaASR1 Gene Expression Profiles in Arabidopsis Under Drought Stress ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Li-lil XU Bi-yulLIU Ju-hua1 JIA Cai-hong1 ZHANG Jian-bin1JIN Zhi-qiang1,2 (1InstituteofTropicalBioscienceadBiotechnologyChineseAcademyofopicalAgriculturalSciences/KeyLboratoryofBiology and Genetic Resources of Tropical Crops,Ministry of Agriculture,Haikou 571101,China;) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(2HaikouExperimentalStation,ChinesecademyofopcalAgriculturalSciences/HainanProvincialKeyLaboratoryforGicsa ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Breeding of Banana,Haikou 570102, China) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "AbstractDrought is the most important environmental stress. MaASRl gene of banana plays an important role in plant responding to stress. In order to further study the molecular mechanism of drought resistance for over expressing MaASRl gene in arabidopsis thaliana. DNA microarray was used to broad-spectrum screening the differentially expressed genes under natural and drought treatment in wild-type Arabidopsis thaliana and transgenic lines.The results of the DNA microarray were analyzed by bioinformatics and RT-PCR verification of the related genes. The results showed that when the wild-type Arabidopsis thaliana and transgenic lines were all without any treatment, there was a total of 747 differentially expressed genes, including 559 up-regulated genes and 188 down-regulated genes.And when the wild-type Arabidopsis thaliana and transgenic lines were all drought-treated, there was a total of 653 differentially expressed genes，including 256 up-regulated genes and 397 down-regulated genes. MaASRl gene can increase the drought resistance of Arabidopsis thaliana by affecting the expression of hormone, photosynthesis, zinc finger Protein and DREB2A which involved in the ABA-independent pathway. And to lay the foundation for the molecular mechanism of MaASRl gene as a transcription factor to improve plant drought resistance. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Key wordsMaASRl gene DNA microarray bioinformaticsdrought stressreal-time Juantitative PCR ",
+        "page_idx": 21
+    }
+]

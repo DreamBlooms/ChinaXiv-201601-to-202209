@@ -1,0 +1,220 @@
+# DOI:10.5846/stxb201701180158
+
+林慧,张明莉,王鹏鹏,马淼.外来入侵植物意大利苍耳的传粉生态学特性.生态学报,2018,38(5):1810-1816.LinH,ZangMgdolofteaolc：1810-1816.
+
+# 外来入侵植物意大利苍耳的传粉生态学特性
+
+林慧,张明莉，王鹏鹏,马淼\*石河子大学生命科学学院，石河子832003
+
+摘要：从开花物候、花粉活力、柱头可受性、传粉媒介、花粉散布距离、雄性、雌性功能以及繁育系统等方面系统地研究了意大利苍耳的传粉生态学特性,旨在为揭示该物种成功人侵的机理提供科学依据。研究结果显示：意大利苍耳种群的花期较长,雌花花期可达40d,雄花花期可达 $3 0 \mathrm { d }$ 。其雄性和雌性功能都很强,意大利苍耳单株雄花序和花粉量分别高达 3847个/株和37903037粒/株,单株雌花序和单株胚珠数高达3847个/株和7694 枚/株,种群平均结实率高达 $8 0 . 5 9 \%$ ,即平均每株个体能形成6200 枚成熟的果实。花粉活力的日变化呈单峰型曲线,早晨和傍晚的花粉活力最低,14:00 时的活力高达 $9 9 \%$ 。雌蕊柱头一经伸出总苞即具有可受性,可受期长达7d,开花后的3—4d柱头的可受性最强。意大利苍耳为风媒传粉植物,在 $4 . 5 \mathrm { k m / h }$ 的微风条件下,其花粉的散布距离可达 $4 5 \mathrm { m }$ ,大量的花粉集中分布在距花粉源0一 $- 2 0 \mathrm { m }$ 的范围内,这对于往往高密度连片分布的意大利苍耳种群来说无疑是一种高效的传粉策略。意大利苍耳的交配系统灵活多样，盛花期自然结实率达到 $100 \%$ ,套袋试验结果表明该植物自交亲和,自株自然授粉的结实率高达 $9 3 \%$ 。表明较长的花期、大量的雌雄花序及花粉数量、较高的花粉活力、较长的柱头可授期、较远的花粉风媒散布距离、混合交配系统、以及较高的结实率是意大利苍耳繁殖成功的重要保障,也是其成功入侵的重要原因。
+
+关键词：外来入侵植物;意大利苍耳;传粉生态学
+
+# Study on pollination biology of the invasive plant Xanthium italicum Moretti
+
+LIN Hui,ZHANG Mingli，WANG Pengpeng,MA Miao Shihezi University，College ofLife Science，Shihezi 8320O3,China
+
+Abstract:This paper systematicall studied pollination ecological characteristicsof Xanthium italicum Moreti，an invasive plantinXinjiang，China，with respect toflowering phenology，polen vitality，stigmareceptivity，polinators，polen dispersal distance，maternalandpaternal function，and mating system，aimingat providingscientific proof of the mechanism ofthe successul invasionof the species.Theresults showedthatthe flowering periodofthis alien plantis long 40 days for female flowers and3Odays for maleflowers.Its maternaland patermal functions are strong.The numberof male inflorescenceand thatof pollen wereas high as 3847and 37903037per plant，respectively，while the numbersof female inflorescence and ovules were as high as 3847 and 7694 per plant，respectively. The average seed setting rate was $8 0 . 5 9 \%$ ， which means that 62OO mature fruits per plantcould be borne.The variation patern of dailypollen vitality showedasinglepeak curve: in the morning and evening,the polln vitality was the lowest，and the activity was up to $9 9 \%$ at 14:00. Pistil stigma had7-dayreceptivityonceoutof involucre，and 3—4daysafterflowering，stigmareceptivitywasatitsstrongest level.Xanthium italicum Moreti was a wind-polinated plant. Under the breeze condition of wind speed as low as $4 . 5 \mathrm { k m / h }$ ， its pollen spread distance could reach as far as $4 5 \mathrm { m }$ ，and a large number of pollen distributed in the range of O- ${ \cdot 2 0 } \mathrm { m }$ from pollensource，whichisaneficientpolinationstrategyforthishighlycontiuouslydistributedspecies.Thisexoticplanthas a flexible mating system and the natural seed setting rate at the fullbloom stage reached $100 \%$ . The results of the bagging test showed that it was self-compatible，and the seed seting rate of natural self pollination was as high as $93 \%$ . The seed seting rate of different strains by artificial pollination was also as high as $8 3 \%$ . Therefore，long flowering period，massive maleandfemale inflorescence and pollen grains，highpollen vitality，long stageof stigma receptivity，faranemophilous polln spread distance，flexible mating system，and high seed seting rate were important factors for the successful reproduction of $X$ . italicum Moretti and the main reasons for its successful invasion.
+
+Key Words: alien invasive plant；Xanthium italicum Moretti；pollination biology
+
+生物入侵是生物多样性丧失的重要原因,也是21世纪最棘手的全球生态问题之一，备受国际社会的关注[17]。随着我国向西开放战略部署的深化,以及“一带一路"政策下新丝绸之路国际货运贸易往来的日趋频繁,一大批外来物种悄然涌入了新疆,尤其是意大利苍耳(Xanthium italicum Moretti)正以极快的速度向新疆各地蔓延扩张,形成高密度的单优势种群落,对当地的农业和畜牧业发展造成了严重危害8,对新疆本就脆弱的绿洲生态系统而言无疑是雪上加霜。意大利苍耳为菊科苍耳属一年生草本植物,高1— $\cdot 1 . 8 \mathrm { m }$ ,茎直立,粗壮,常多分枝,头状花序单性同株,雌雄花序相互比邻。该植物原产于北美洲[910],后扩散至南美洲、欧洲、亚洲和大洋洲的许多国家,在我国主要分布于北京、河北、辽宁、山东和新疆等地[-]。对其入侵机理的阐释是对该物种实施有效防控的必要前提。然而,目前对意大利苍耳的研究仅限于分布区范围[14],形态描述[15],和化学组分及其化感作用[17-18]等方面,对其入侵机理的研究尚未见报道。
+
+生存与繁殖是植物适合度的两个重要内涵,繁殖成功是外来植物种群建立（Establish）和种群扩张（Expansion）的前提。因此,研究入侵植物的繁殖生态学特征是解读其成功入侵机理的有效手段,而传粉生态学是植物繁殖生态学研究的重要内容。故本文从开花物候、花粉活力、柱头可受性、传粉媒介、花粉散布距离、雄性、雌性功能以及繁育系统等方面系统研究了意大利苍耳的传粉生态学特性,旨在为揭示该物种成功入侵的机理提供科学依据。
+
+# 1材料与方法
+
+# 1.1 材料采集
+
+本实验中的意大利苍耳分布于石河子市北郊,由石河子大学马淼教授鉴定。生于玉米田边,生长密集,连片分布，株高1.6—1.8m,形成单优势种群落。
+
+# 1.2 开花物候的观测
+
+随机选取20株长势相同的植株进行标记,于2016年8月至9月连续观察60d,记录意大利苍耳的花期物候。以第一朵小花花药开始散粉和第一朵小花雌蕊伸出总苞 $1 \mathrm { m m }$ 分别作为雄花和雌花的开花标准,以 $2 5 \%$ 、$5 0 \%$ 和 $9 5 \%$ 的花序的开放时间分别作为个体始花期、盛花期和终花期的时间依据。
+
+# 1.3花粉活力的测定
+
+用TTC 染色法测定花粉活力：从意大利苍耳植株上随机选取10个雄花序,再从每个花序中随机取3朵盛开的小花,分别取其花粉散布在洁净的载玻片上,迅速滴一滴 $0 . 5 \%$ TTC 染液,在 $3 7 ^ { \circ } \mathrm { C }$ 条件下避光静置 $5 \mathrm { m i n }$ ，然后在 Olympus 光学显微镜下随机观察3个视野,每个视野中观察100粒花粉,统计被染成红色的花粉粒（有活力)数目,取平均值。从8:00 开始进行检测,每隔2h 观察统计一次,直至20:00。
+
+# 1.4柱头可授性的测定
+
+用联苯胺-过氧化氢法测定柱头可授性，具体方法：在盛花期,每天12:00采集开花后不同天数的雌花序，将其柱头浸入到滴加联苯胺-过氧化氢溶液的载玻片上,并在Olympus光学显微镜下观察,若柱头有可授性则柱头周围的反应液呈现蓝色,并有大量气泡产生。
+
+http://www.ecologica.cn
+
+# 1.5 传粉媒介的研究
+
+# 1.5.1 访花昆虫的观察
+
+随机选取盛花期的意大利苍耳10株,每天8:00至20:00 观察并记录是否有昆虫访花,以及访花昆虫的种类和访花频率,连续观察 $3 0 \mathrm { d }$ 。
+
+# 1.5.2花粉风媒散布距离的检测
+
+利用重力玻片法检测风媒条件下花粉的散布距离。选取位处于种群边缘的植株,在地面上沿顺风方向每隔 $5 \mathrm { m }$ 布设一张涂有凡士林的载玻片,直至 $5 0 \mathrm { m }$ 处,平行布设五列,共55 张载玻片,用以接收散布在空气中的花粉,清除周围的其他意大利苍耳植株,并用风速测量仪测定全天风速,每隔1h 测定一次,取平均值。8:00开始布设载玻片,20:00 收回,在Olympus 光学显微镜下观察并记录载玻片上的花粉数目[19]。
+
+# 1.6雄性及雌性功能的研究
+
+# 1.6.1单株个体雌雄花序数目的统计
+
+随机选取种群中长势一致的植株20株,记录单株植株上雌、雄花序的数量，由于雄花序散粉后易脱落，所以需要对开始散粉的雄花序进行逐天记录，持续 $6 0 \mathrm { d }$ 。统计后计算出单株雌、雄花序的数目。
+
+# 1.6.2单株个体中花粉数目的统计
+
+从种群中随机选取10株个体进行标记,每株个体中选择10个即将开放的雄花序,放入FAA 固定液中，带回实验室。观察每个雄花序中的小花数目，用 $2 . 5 \mathrm { m L } 1 . 0 \mathrm { m o l / L }$ 的盐酸水解花药 $6 0 \mathrm { { m i n } }$ ，取 $0 . 0 1 \mathrm { m L }$ 制片观察并计数;计算每朵小花中的平均花粉数,推算出单株个体的花粉总数。
+
+单株花粉总数 $\ c =$ 每朵小花中的花粉数 $\cdot \times .$ 单个雄花序中的小花数×单株个体中的雄花序数
+
+# 1.6.3单株植物中胚珠数的统计
+
+从种群中随机选取10株个体进行标记,每株个体中随机选取10个雌花序,放入FAA固定液中,带回实验室。用小刀划破总苞,观察每个雌花序中的小花数。解剖子房,观察其中的胚珠数,计算出单株个体中的胚珠总数。
+
+单个个体中的胚珠总数 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 每朵小花中的胚珠数×每个雌花序中的小花数 $\times$ 单株中的雌花序数
+
+# 1.6.4单株结实率计算
+
+从种群中随机标记20个植株,连续观察 60d,记录植株上的雌花序数目,以及结实的果实数,计算单株结实率。 C
+
+单株结实率 $\mathbf { \Sigma } = \mathbf { \Sigma }$ (单株果实数-单株雌花数) $\times 1 0 0 \%$
+
+# 1.7 繁育系统的研究
+
+在盛花期(8月25日)采用套袋实验的方法,选取柱头尚未伸出的雌花序若干,做以下处理：(1)不去雄，不套袋,作为对照；(2)去除比邻的雄花序,套袋(羊皮纸袋),检测其是否存在孤雌生殖;(3)去除比邻的雄花序,套袋,待柱头具有可受性时人工授以异株花粉,用以检测异交是否亲和;(4)连同比邻的雄花序一并套袋，检测是否存在自发自交;每处理做30个重复。
+
+# 1.8数据处理
+
+用 Excel和 SPSS 19.0软件进行实验数据的统计分析,采用单因素方差分析法(One-way ANOVA)检测不同时间花粉活力差异的显著性水平， $\scriptstyle P < 0 . 0 5$ 表明差异显著。
+
+# 2结果与分析
+
+# 2.1 开花物候的观测
+
+意大利苍耳种群花期较长，可达40多天，雌花在8月23日左右进入始花期,8月底转为盛花期，9月中下旬进入终花期,但个体间的花期物候差别较大，不同植株的始花期相差15d左右,终花期可相差 $2 0 \mathrm { d }$ 。雌花花期最短的不足15d,最长的可达35d,雄花的始花期大概比雌花晚3—4d,但其终花期要略早于雌花（图1和图
+
+2）。雄花在8月26日进入始花期,3—4d后便很快转入盛花期,9月中下旬进入终花期,雄花花期最短的大约  
+10d,最长的可达 $2 5 \mathrm { d }$ 。
+
+![](images/ee4d89263b54436fe0c8b14f28f3b007271b4e5ed6291157ca3118a5a3dc38cd.jpg)  
+图1雌花的花期物候
+
+![](images/ef08b11a633d77e300412a288494dddb75e6d2fca43de190ed1e50340d0f808a.jpg)  
+图2雄花的花期物候
+
+# 2.2花粉活力的测定
+
+意大利苍耳花粉活力的日变化呈典型的单峰型曲线（图3）,8：00花药刚开裂时，其花粉尚无活力；随着气温的升高,花粉活力显著升高( $P < 0 . 0 5 )$ ,14:00时花粉活力达到 $9 9 \%$ 的水平，之后便缓慢下降，在18：00 之前花粉活力均维持在 $8 7 \%$ 以上。在20：00时，花药中仅有少量的花粉尚未散出,其活力也显著降低到 $1 . 0 8 \%$ 。
+
+# 2.3柱头可授性的检测
+
+通过连续8d的检测发现，意大利苍耳的雌花柱头在伸出总苞后就已经具有了接受花粉的能力，但可授性较弱；3d后柱头的可授性最强，之后逐渐减弱。第8d后其柱头可授性完全丧失(表1)
+
+![](images/1e0f658c4a355ed635537792d1f89872efc8816c5d25288700d2af262b6b8011.jpg)  
+Fig.1Phenology of female flower   
+Fig.2/Phenology of male flower   
+图3意大利苍耳花粉活力的变化  
+Fig. 3 Variation in pollen viabilityof Xanthium italicum moretti
+
+表1意大利苍耳柱头可授性的变化  
+Table1 Variation in stigma receptivity of Xanthium italicum Moretti   
+
+<html><body><table><tr><td>时间 Time/d</td><td>柱头可授性 Stigma receptivity</td><td>时间Time/d</td><td>柱头可授性 Stigma receptivity</td></tr><tr><td></td><td>+</td><td>5</td><td>+</td></tr><tr><td>2</td><td>+</td><td>6</td><td>+/1</td></tr><tr><td></td><td>++</td><td>7</td><td>+/1</td></tr><tr><td>3 4</td><td>++</td><td>8</td><td>1</td></tr></table></body></html>
+
+-：表示柱头不具有可授性， $^ +$ ：表示柱头具有可授性， $^ + +$ ：代表柱头可授性强， $+ / -$ ：代表仅有部分柱头具有可受性
+
+# 2.4传粉媒介的研究
+
+# 2.4.1 访花昆虫的观察
+
+通过连续30d 的定位观察,未发现有任何昆虫访花,故判断意大利苍耳为非虫媒传粉植物。
+
+# 2.4.2花粉风媒散布距离的检测
+
+研究发现在 $4 . 5 \mathrm { k m / h }$ 的风速条件下，意大利苍耳花粉借风散布的距离最远可达 $4 5 \mathrm { m }$ ,但 $8 7 \%$ 的花粉集中在 $2 0 \mathrm { m }$ 以内,随着距离的增加花粉数量逐渐减少,在距离花粉源 $5 0 \mathrm { m }$ 处已无花粉分布（图4）。
+
+http://www.ecologica.cn
+
+# 2.5 雄性及雌性功能的研究
+
+# 2.5.1单株个体中雌雄花序数统计
+
+在随机标记的20株意大利苍耳中，单株的雄花序数目最少为215个，最多达2813个，平均每株1079个。单株雌花序数目最少为253个，最多达3847个，平均每株1505个。
+
+# 2.5.2单株个体中花粉数目的统计
+
+平约每个雄花序中的小花数为81.5朵，盐酸水解花药壁后，测得单花花粉数量平均为164粒，故平均每个雄花序中的花粉数约为13474粒；单株个体中花粉总量最低为2896962粒，最高达37903037粒，平均每株个体的花粉数约为14543151粒。
+
+# 2.5.3单株个体中胚珠数的统计
+
+![](images/3c1cd31636d573f2578be8961f9feeb47ac727f90bc0735a675ab990563836de.jpg)  
+图4意大利苍耳花粉风力散布距离  
+Fig.4Distance of pollen dispersal of Xanthium italicum Moretti by wind
+
+从随机选取的雌花序中解剖发现,单个雌花序中胚珠数均为2,单株植株中胚珠数最低为506枚,最高达7694 枚,平均每株个体中胚珠数为3010枚。计算单株P/O比发现,单株P/O 比的最低值为2793,最大值为6832,平均P/O 比为4983。 C
+
+# 2.5.4单株结实率计算
+
+从随机标记的10个个体中计算单株的结实率，发现单株最低结实率为 $7 6 . 4 5 \%$ ,最高结实率为 $8 3 . 1 9 \%$ ，平均结实率为 $8 0 . 5 9 \%$ ,未结实的雌花序都是在生育期的后期形成的,表现为幼果早期停止生长或花序直接脱落。
+
+# 2.6 繁育系统的研究
+
+对照组的30个雌花序均正常结实,结实率为 $100 \%$ ;连同比邻的雌花序一并套袋组的结实率可达 $9 3 \%$ ;去除比邻的雄花序后套袋，并人工授以异株花粉的处理组结实率为 $8 3 \%$ ;去除比邻的雄花序后套袋的处理组未有结实，结实率为0（表2）。
+
+表2不同实验条件下的结实率  
+Table 2Fruit setting rate of Xanthium italicum moretti of different treatments   
+
+<html><body><table><tr><td>处理 Treatments</td><td></td><td>处理花数/个 Number of processed flowers</td><td>结果数/个 Seeds number</td><td>结实率/% Seed setting rate</td></tr><tr><td colspan="3">自然授粉,作为对照Natural pollination</td><td>30</td><td>100</td></tr><tr><td colspan="3">去除雄花序,套袋Emasculation and isolation</td><td>0</td><td>0</td></tr><tr><td colspan="3">去除雄花序,套袋,人工授以异株花粉 Emasculation，isolation and artifical xenogamy</td><td>25</td><td>83</td></tr><tr><td colspan="3">雌雄花序一起直接套袋 Isolation of male and female inflorescence</td><td>28</td><td>93</td></tr></table></body></html>
+
+# 3讨论
+
+G 植物的开花物候是植物重要的生活史特征之一,意大利苍耳花期持续时间长,单株花期长达40d,雌花序花期最长可持续35d,雄花序花期最长可持续 25d。虽然雌花比雄花早3d进入始花期，但是柱头伸出总苞3—4d 后方才达到最佳可受期,因此雄花序的散粉时间和雌花柱头的最佳可受期是恰好吻合的。在雌花即将到达盛花期时,雄花开始进入始花期,并在3d后迅速达到盛花期,从而使雌雄花的盛花期基本重叠,二者的盛花期持续时间较长，使得雌雄花序间能有更多机会实现传粉。同为分布于石河子北郊的植物，异翅独尾草（Eremurus anisopterus）种群[20]和粗柄独尾草(Eremurus inderiensis）种群[21]的花期均不足10d,因此,雄花的散
+
+http://www.ecologica.cn
+
+粉时间和雌花柱头最佳可受期的高度吻合以及超长的花期为意大利苍耳的生殖成功提供了有力保障。
+
+实验发现，意大利苍耳花粉活力的日变化幅度较大.8:00以后花粉便开始表现出活力，随着时间的推移，环境气温迅速升高,花粉活力也随之迅速上升,14:00时达到最高值,18:00之前依然维持高活力状态,随后花药中花粉数目减少，气温逐渐降低，花粉活力也趋于减弱,20:00时，花粉基本不再表现出活力。其花粉活力与环境温度变化的高度一致性,可能是由于花粉中的酶活性对气温的依赖性导致的。具有接受花粉的适宜柱头的花朵即处于柱头可授期,此时具有活力的花粉到达适宜的柱头才能完成传粉过程。一般认为,柱头可授性的时间越长,其完成受精的可能性越大。花粉保持活力的时间长短和柱头可授期的长短对传粉成功率的影响至关重要[22-25]。意大利苍耳柱头可授期持续时间长,可授性较强,而花粉每天中午都会达到几近 $100 \%$ 的活力,确保柱头在伸出总苞后可以高效率地接受到活性强的花粉,提高了授粉成功的机率。
+
+研究结果显示意大利苍耳属风媒传粉的植物,其花部形态也表现出了与风媒传粉相适应的诸多特征：雄性功能强大,雄花序数目较多（单株的雄花序数目可高达2813个）,因风媒传粉容易导致花粉流失,所以要求花粉量较大（单株个体的花粉数量可高达37903037枚）。意大利苍耳的花粉粒易随气流扩散,在 $\overline { { 4 . 5 \mathrm { k m / h } } }$ 的微风条件下,其花粉主要集中分布在0— ${ \cdot 2 0 } \mathrm { m }$ 处,最远可被传播至 $4 5 \mathrm { m }$ 处。意大利苍耳的雌性功能也同样发达,其花柱较长,柱头伸出花被片较长,柱头一经伸出总苞即可接受花粉,单株雌花序数量高(最高可达 3847个）,易于广泛捕获散布于空气中的花粉,这对于往往高密度连片分布的意大利苍耳种群来说无疑是一种高效的传粉策略。 ） 2
+
+花粉-胚珠比(P/O比)的结果发现,意大利苍耳的单株平均 P/O比为4982.95,参照 Cruden 的繁育系统类型标准[21],据此标准,意大利苍耳应当属于专性异交的交配系统,这与其雌雄同株的性别分化特征是一致的。
+
+盛花期的套袋试验结果显示意大利苍耳的繁殖能力很强,在自然条件下的结实率高达 $100 \%$ ,同株自发自交结实率高达 $9 3 \%$ ;去除比邻的雄花序后套袋,并人工授以异株花粉的试验进一步证明了其异株异交也是可以亲和的（结实率为 $8 3 \%$ ),然而其结实率值之所以低于同株自然授粉试验的结实率,可能是因为人工授粉技术不够成熟造成的。而去雄套袋处理结果显示,其结实率为0,表明意大利苍耳不存无融合生殖现象。就整个生育期而言,其果实产量亦很高,种群平均结实率为 $8 0 . 5 9 \%$ ,单株可形成 6200 枚瘦果（7694 枚雌花/株 $\times$ $8 0 . 5 9 \% = 6 2 0 0$ 枚瘦果/株)。未能正常结实的雌花序都是在生育后期(9月下旬)形成的,表现为幼果早期停止生长或花序直接脱落,可能的原因有二：一方面,此时北疆地区的气温较低,昼夜温差较大,较低的气温可能影响了雌雄胚子的发育及合子的形成;另一方面,种群中部分个体雌花的终花期要比雄花的终花期晚6—7d（图1和图2）,这可能会造成部分雌花由于缺乏花粉而不能正常受精,具体机理尚有待于进一步研究。
+
+意大利苍耳于2012年在新疆被首次记录[15],现已广泛分布于博州、伊犁、塔城、额敏、阿勒泰、石河子、昌吉和乌鲁木齐等北疆地区,而且有进一步向南疆扩张的趋势。外来入侵植物是否能够成功入侵,主要取决于生境的可入侵性(invisibility)与物种自身的入侵力(invasiveness）[26-28]。生境的可入侵性取决于生境的非生物环境及生物环境对入侵的抵抗力[29-30],而入侵力则主要取决于该物种自身的生物学特性,对入侵、生存和扩展极为重要。本研究表明超长的花期、大量的雌雄花序及花粉数量、较强的花粉活力、较长的柱头可授期、较远的花粉风媒散布距离、混合交配系统、以及较高的结实率是意大利苍耳繁殖成功的重要保障,也是其成功入侵的重要原因。
+
+。本文仅对新疆石河子地区开展了意大利苍耳繁殖生态学特性的研究,对于其他种群材料以及与其原产地种群繁殖生态学特征的比较有待深入研究。
+
+# 参考文献（References）：
+
+［1］彭少麟，向言词.植物外来种入侵及其对生态系统的影响.生态学报，1999，19(4)：560-568.  
+［2]徐承远，张文驹，卢宝荣，陈家宽.生物入侵机制研究进展.生物多样性，2001，9（4）：430-438.  
+［3」郭勤峰.跨太平洋生物入侵研究展望.植物生态学报，2002，26(6)：724-730.
+
+http://www.ecologica.cn
+
+[4］闫小玲，寿海洋，马金双.中国外来入侵植物研究现状及存在的问题.植物分类与资源学报，2012，34（3）：287-313.  
+[5] 吴世捷，高力行.不受欢迎的生物多样性：香港的外来植物物种.生物多样性，2002，10(1)：109-118.  
+[6] 李振宇，解焱.中国外来入侵种.北京：中国林业出版社，2002：163-163.  
+[7]PintelchDotaldsfdgsseiesiUiate,50(1) : 53-65.  
+［8］张祥林，张伟，吴卫.新疆植物检疫性有害生物.北京：中国质检出版社，2012：112-113.  
+[9] 刘慧圆，明冠华.外来入侵种意大利苍耳的分布现状及防控措施.生物学通报，2008，43(5)：15-16.  
+[10] 车晋滇.北京市外来杂草调查及其防除对策.杂草科学，2004，（2)：9-12.  
+[11] 刘全儒，车晋滇，贯潞生，胡彬，王辰，张潮.北京及河北植物新记录（ⅢI).北京师范大学学报：自然科学版，2005,41(5）：510-512.  
+[12] 李楠，朱丽娜，翟强，祝明炜，陈旭辉，曲波.一种新入侵辽宁省的外来有害植物——意大利苍耳.植物检疫，2010,24（5）：49-52.  
+[13] 车晋滇，胡彬.外来入侵杂草意大利苍耳.杂草科学，2007，（2)：58-59，57-57.  
+[14] 王瑞，万方浩.外来入侵植物意大利苍耳在我国适生区预测.草业学报，2010，19(6)：222-230.  
+[15] 杜珍珠，徐文斌，阎平，王少山，郭一敏.新疆苍耳属3种外来入侵新植物.新疆农业科学，2012,49（5)：879-886．  
+[16] 马金双.中国外来入侵植物调研报告.北京：高等教育出版社，2014：233-233.  
+[17]AndreabsrtostauselletopidclilitMoretti from Corsica.Flavour and Fragrance Journal,2012,27(3）：227-236.  
+[18]邵华，部凤娇，韩彩霞.外来植物意大利苍耳入侵对土壤微生物的影响及其生态效应/／中国第七届植物化感作用学术研讨会论文摘要集.昆明：中国植物保护学会植物化感作用专业委员会，2015：1-2.  
+[19］鲁先文，马瑞君，孙坤.中国沙棘（Hiphae rhamnoidesL.sp.sinensis Rousi）的开花特性及风媒传粉距离的检测.生态学报，2008，28(6):2518-2525.  
+[20］马淼，范俊峰，李静.类短命植物异翅独尾草的传粉特性.植物生态学报，2006，30(6)：1012-1017.  
+［21］范俊峰.基于多种群尺度三种独尾草属植物繁育系统的比较[D].石河子：石河子大学，2008.  
+[22］周兵，闫小红，肖宜安，张争光，李晓红，杨佳琴.外来入侵植物美洲商陆的繁殖生物学特性及其与入侵性的关系.生态环境学报，2013，22(4): 567-574.  
+[23］陈晓麟，李铭，尤瑞麟.单穗升麻的柱头和雌配子体发育及胚胎发生.植物分类学报，2000,38（4）：337-342.  
+24]ajepiediealeand $X$ 、italicum（Compositae）.Plant Ecology，2010,206(2）:309-319.  
+[25］皮华强，权秋梅，高辉，黎云祥，沈文文，杨子松，杨贵平.锦鸡儿（Caragana sica（Buchoz）Rehd)传粉生物学研究.生态学报，2016，36(6): 1652-1662.  
+［26］李博，徐炳声，陈家宽.从上海外来杂草区系剖析植物入侵的一般特征.生物多样性，2001,9（4)：446-457.  
+[27]Cha，eetassatsdeloppotcasestudyonteivasibilitfAgeratuodesinandrodanJalofgculturalSies，15,5）：4.  
+28]GorgoBaboEivellJdelisisbaciadsivesofin a Neotropical Savanna. Acta Botanica Brasilica，2016,30(1）: 131-137.  
+29]lperteisildoiiPlant Ecology，Evolution and Systematics，200,3(1）: 52-66.  
+[30］李博，陈家宽.生物入侵生态学：成就与挑战.世界科技研究与发展，2002，24（2)：26-36.

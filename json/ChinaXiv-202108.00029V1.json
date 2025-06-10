@@ -1,0 +1,369 @@
+[
+    {
+        "type": "text",
+        "text": "中国北方地区尘卷风时空分布的数值模拟",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韩超信1,2.3，汤耀国14，韩永翔1²，李嘉欣1²，郭建茂1.2(1.南京信息工程大学气象灾害预报预警与评估协同创新中心,江苏 南京210044；2.中国气象局气溶胶-云-降水重点开放实验室,江苏 南京210044；3.甘肃兰州市气象局,甘肃 兰州730030;4.广西南宁市气象局，广西 南宁 530001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：尘卷风是沙尘气溶胶的重要来源，它可能对全球和区域环境、气候有重要的影响。为了获得尘卷风起沙量的时空特征，通过利用尘卷风起沙参数化方案并将其耦合到WRF(Weather re-searchand forecasting model)模式中,模拟了中国北方尘卷风的日月时空变化特征。结果表明：(1)在10:00—14:00(北京时),每日空间分布从东往西尘卷风逐渐出现且强度逐渐增强，然后在14:00—20:00,尘卷风区域从东逐渐向西收缩且强度逐渐减弱。月空间分布从3月起逐渐在塔克拉玛干沙漠、库姆塔格沙漠和柴达木盆地出现了尘卷风中心，然后逐渐扩展到所有沙漠并在6月达到峰值。7月以后尘卷风出现区域与强度急剧下降，到10月已经没有尘卷风出现。(2)塔克拉玛干沙漠和巴丹吉林沙漠的尘卷风日变化均呈单峰分布，从早晨09:00开始出现，到14:00—15:00达到峰值，之后快速下降。其月变化趋势大体均呈单峰分布，从3月开始尘卷风出现并且强度增加，到6月达到峰值,然后快速下降,9月底尘卷风消失，巴丹吉林沙漠尘卷风波动幅度大于塔克拉玛干沙漠。（3）模拟与观测的尘卷风日、月时间变化特征在细节上略有不同,但二者的趋势是大体一样,表明尘卷风起沙参数化方案具有较高的适用性。这一研究成果将有助于我们对沙尘气溶胶的来源、环境和气候变化的深入理解。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：沙尘气溶胶；WRF模式；尘卷风起沙参数化方案；时空分布",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙尘气溶胶占全球大气总气溶胶的 $5 0 \\%$ 以上，并且通过大气远程传输和沉降，进而通过“阳伞效应”、“凝结核效应\"以及“铁肥料效应\"对全球或区域环境质量、气候产生重大影响[1-3]。沙尘天气过程是沙尘起沙的重要机制之一[4-6],它带到大气中巨量的沙尘气溶胶无疑受到了几乎所有人的关注，且与同期观测到的诸如 $\\mathrm { P M } _ { 1 0 } \\mathrm { , } \\mathrm { P M } _ { 2 . 5 }$ 、沉降量以及卫星观测的气溶胶指数大体匹配，然而沙漠地区的沉降量观测却表明在无沙尘天气的日子，仍有大量的沙尘沉降[]，这暗示除了沙尘天气过程外，还有尘卷风的起沙机制存在。尘卷风是在沙漠、戈壁以及高原地区的1种小型的起沙系统，其发生具有突发性和偶然性,理论认为它主要出现在午后 $_ { 1 \\sim 2 \\mathrm { h } }$ 内[8-9],但观测却表明它可出现在白天的任何时候，中午出现的概率最大[10-13],甚至晚上也被观测到[1]。尘卷风的热力起沙机制[1]与沙尘天气的动力起沙机制不同[12-16],大气减温率与尘卷风存在高相关[17]。研究认为尘卷风形成最主要的因素是对流浮力 $\\left( \\boldsymbol { w } _ { \\ast } \\right)$ 和摩擦速度$\\left( u \\ast \\right)$ 的比值 ${ > } 5 ^ { [ 1 8 - 2 1 ] }$ ,Tang等[20]以此构建了尘卷风起沙参数化方案，成功模拟出了尘卷风的时空变化特征。本文利用Tang等构建的尘卷风起沙参数化方案，模拟了研究区尘卷风日、月时间和空间变化特征，进而与观测的尘卷风进行对比，验证尘卷风起沙参数化方案是否适用于中国北方沙漠。以前人们认为大气中的沙尘气溶胶主要来源于动力起沙的沙尘暴，但卫星反演的沙漠地区气溶胶指数却并",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不与沙尘暴的起沙量匹配。尘卷风起沙量的成功模拟，将有助于我们对沙漠沙尘气溶胶的来源有了新的认识，从而加深沙尘气溶胶对环境和气候变化的深人理解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区域为中国北部沙漠区（ $8 0 ^ { \\circ } { \\sim } 1 0 3 ^ { \\circ } \\mathrm { E }$ ， $3 2 ^ { \\circ } \\sim$ $4 0 ^ { \\circ } \\mathrm { N }$ )，它是一个东西走向的中纬度沙漠带，约有$1 . 5 { \\times } 1 0 ^ { 6 } ~ \\mathrm { k m } ^ { 2 }$ ，占中国陆地的 $1 5 . 9 \\%$ 。以流动的塔克拉玛干沙漠、半固定的腾格里沙漠和巴丹吉林沙漠为主要研究区域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2参数化方案及研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1尘卷风的参数化方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据Tang等构建的尘卷风起沙参数化方案[20],与尘卷风形成密切相关的气象要素阈值如下：(1)对流浮力 ${ w * } ^ { [ 2 2 ] }$ 和摩擦速度 $u *$ 的比值 $> 5 ^ { [ 2 3 ] }$ ；(2）地面 $0 { \\sim } 2 \\mathrm { ~ m ~ }$ 的绝热递减率(LR)在 $8 . 5 { \\sim } 1 0 . 0 \\ \\mathrm { K } \\cdot \\mathrm { k m } ^ { - 1 }$ 之间[24],其中LR等于地表温度与地面 $2 \\mathrm { m }$ 气温插值的平均；(3)环境风速在 $0 { \\sim } 5 ~ \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ 之间[25]；（4）云量值 $< 7$ 且无降水[20]，上述参数均由WRF模式直接输出。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "尘卷风强度(起沙量)公式[26]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D A E } _ { _ { \\mathrm { t o t } } } = D _ { _ { \\mathrm { t i m e } } } \\times S \\times \\sigma \\times F _ { _ { \\mathrm { d } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { D A E } _ { \\mathrm { t o t } }$ 为总排放量 $( \\mathbf { g } ) ; D _ { \\mathrm { t i m e } }$ 为尘卷风持续时间(s）; $s$ 为起沙总面积 $( \\mathbf { m } ^ { 2 } ) : \\sigma$ 为尘卷风起沙百分比$( \\% ) { : } F _ { \\mathrm { d } }$ 为起沙通量，为 $0 . 7 \\ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 }$ ,与Gillette等[27]的观测相符合。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\left( \\frac { \\mu } { \\eta } \\right) ^ { \\frac { 1 } { 2 } } \\left( \\frac { \\Delta p } { \\rho _ { \\mathrm { a i r } } g T _ { \\mathrm { R } } } \\right) ^ { \\frac { 3 } { 2 } } \\left( \\frac { F _ { \\mathrm { i n } } } { \\rho _ { \\mathrm { a i r } } } \\right) ^ { - \\frac { 1 } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta = \\frac { \\Gamma _ { \\mathrm { a d } } Z _ { \\mathrm { C B L } } } { T _ { \\mathrm { h } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：无量纲的机械能摩擦损耗系数 $\\mu \\approx 1 2 { \\sim } 2 4$ ： $\\eta$ 为无量纲的热力效率， $\\Delta p$ 为气压差； $\\rho _ { \\mathrm { a i r } }$ 为空气密度；重力加速度 $\\mathrm { g { = } 9 . 8 ~ m \\cdot s ^ { - 2 } }$ ;对流边界层有效太阳辐射时间尺度 $T _ { \\mathrm { R } } { \\approx } 9 { \\times } 1 0 ^ { 5 }$ s;驱动尘卷风的热量流 $F _ { \\mathrm { i n } } { \\approx } \\left( 1 1 \\pm \\right.$ 5) $\\operatorname { k } \\mathbb { W } \\cdot \\operatorname { m } ^ { - 2 }$ · $\\Gamma _ { \\mathrm { a d } }$ 为绝热递减率,取值 $1 0 \\mathrm { K } \\cdot \\mathrm { k m } ^ { - 1 }$ $T _ { \\mathrm { h } }$ 为地表温度(K)， $Z _ { \\mathrm { { C B L } } }$ 为边界层高度 $( \\mathrm { k m } )$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当所需要的气象要素模拟区域内任意一点在满足所有形成尘卷风的气象要素阈值后，就会判定尘卷风在该位置形成，并通过公式计算该位置的瞬",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "时强度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2WRF模式参数化方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Weather research and forecasting model(WRF)被誉为是次世代的中尺度天气预报模式，它被广泛应用于天气和气候模拟。本文使用WRF-Chem3.6.1模拟区域为 $8 0 ^ { \\circ } { \\sim } 1 0 3 ^ { \\circ } \\mathrm { E } , 3 2 ^ { \\circ } { \\sim } 4 0 ^ { \\circ } \\mathrm { N }$ ，模式采用单层嵌套，水平分辨率为 $3 0 \\mathrm { k m }$ ，垂直方向分为33层，模拟中心位置位于 $1 0 5 ^ { \\circ } \\mathrm { E } , 3 0 ^ { \\circ } \\mathrm { N }$ ，模式的初始及边界条件采用美国环境预测中心(NCEP)的FNL(Finalreanal-ysis date)资料且每隔 $6 \\mathrm { { h } }$ 更新一次。使用美国地质调查局(United States Geological Survey;USGS)提供的 $2 \\mathrm { m }$ 和30s高分辨率地形高程资料及MODIS卫星$3 0 ~ \\mathrm { s }$ 分辨率的下垫面类型作为地形数据。微物理方案采用Lin方案,辐射方案采用RRTM(Rapidandac-curateradiativetransfermodel)长波辐射方案和God-dard短波辐射方案，边界层方案为YSU（Yonseiuni-versityscheme)方案[28],起沙方案为Shao方案[29]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用定点观测和数值模式相结合的方式，试图获得尘卷风的空间分布。尘卷风观测在甘肃省民勤县老虎嘴，它处于腾格里和巴丹吉林沙漠交汇的地区，观测时间为2016年一整年，在08:00—20:00用摄像头进行观测，然后用人工将观测到直径$\\geqslant 2 \\mathrm { ~ m ~ }$ 的尘卷风按小时进行计数，并计算它们的出现频率。模式采用WRF-Chem3.6.1，尘卷风起沙方案被耦合进Shao方案中，在单个格点的计算中，模式从FNL资料中获取包括气温、地表温度、风速等气象初始条件，通过上述不同参数化方案的插值计算，为尘卷风起沙量的计算提供各格点的地面 $2 \\mathrm { m }$ 气温 $\\phantom { } _ { \\cdot } Z _ { \\mathrm { C B L } \\setminus } T _ { \\mathrm { h } \\setminus } u \\ast \\sqrt { \\rho _ { \\mathrm { a i r } } } .$ 风速等要素数据，利用Deardorff[22]给出的 $w _ { * }$ 公式，计算格点 $w _ { * }$ 与LR，然后进行起沙阈值的判断，最终获得各格点的尘卷风起沙量。模拟时间为2008年1月1日至12月31日，模拟的区域为中国北方地区，着重模拟塔克拉玛干沙漠、腾格里沙漠和巴丹吉林沙漠的尘卷风。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1模拟尘卷风起沙区域及强度日变化特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于在模拟中仅模拟了尘卷风的出现位置，为了更清楚地表现尘卷风的变化，用尘卷风的起沙量来代表其强度，颜色越鲜艳，强度越强，当强度大于0.5表明该区出现了尘卷风。我们随机挑选尘卷风发生概率最大6月的一个晴日，如2008年6月10日来研究其日变化特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1中可见，早上10:00，尘卷风主要出现在$9 0 ^ { \\circ } \\mathrm { E }$ 以东的沙漠地区，越往东其强度越大，其中心在腾格里沙漠和巴丹吉林沙漠附近。到了12:00，腾格里、巴丹吉林沙漠和蒙古戈壁的尘卷风加强，同时尘卷风向西扩展到了库姆塔格沙漠和塔克拉玛干沙漠，塔克拉玛干沙漠也出现了尘卷风高值中心，但强度弱于腾格里沙漠和巴丹吉林沙漠的中心。14:00尘卷风出现区域最大，尘卷风强度继续加强，出现了以塔克拉玛干沙漠、腾格里沙漠和巴丹吉林沙漠为中心的2个尘卷风高值中心。16:00尘卷风出现区域大体与14:00相同，但2个中心的尘卷风强度达到了最大18:00,尘卷风出现区域开始急剧向西收缩， $1 0 0 ^ { \\circ } \\mathrm { E }$ 以东的研究区已经很少出现尘卷风，腾格里沙漠和巴丹吉林沙漠的尘卷风中心消失，而塔克拉玛干沙漠的尘卷风中心仍在继续增强，20:00研究区的尘卷风基本消失，仅在塔克拉玛干沙漠西部边缘有尘卷风出现。在早上10:00以前和晚上20:00以后，均没有出现尘卷风(图略)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "塔克拉玛干沙漠、腾格里沙漠和巴丹吉林沙漠为尘卷风发生最频繁的2个地区，所以，选取塔克拉",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ae0fdd85c3e8682d0af16b1c2f538f37cc6f6663f33531152e3a50db9ced531.jpg",
+        "img_caption": [
+            "该图基于国家测绘地理信息局标准地图服务网站下载的审图号为 $\\mathrm { G S } ( 2 0 2 0 ) 4 6 3 0$ 号的标准地图制作，底图无修改。下同",
+            "图1模拟2008年6月10日中国北方尘卷风强度时空变化示意图",
+            "Fig.1Spatial distribution of the simulated dust devil emissions in north China on June 10,2008 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "玛干沙漠和巴丹吉林沙漠作为代表,模拟各月尘卷风的日变化特征。因中国北方横跨几个时区，尘卷风中心随着时间从东向西移动是因为太阳从东向西运行所致，为了统一分析，将原来用的北京时改为当地时。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图2可见，（1）两大沙漠的尘卷风起沙量变化均呈单峰分布，从当地时间早晨08:00—09:00开始出现尘卷风，在10:00—14:00尘卷风起沙量急剧上升，然后增长幅度变缓，到14:00—16:00达到峰值，然后快速下降。到18:00以后，该地区已经很少有尘卷风出现。（2）从月平均日变化看，巴丹吉林沙漠尘卷风起沙量变化从低往高依次为4、3、9、5、8、7、6月（图2a)，而塔克拉玛干沙漠从低往高为3、9、4、8、5、7、6月(图2b)。两大沙漠各月尘卷风的日变化虽然略有差异，但大体变化一致，峰值均出现在6月。(3）塔克拉玛干沙漠的尘卷风强度要高于巴丹吉林沙漠的尘卷风起沙量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于尘卷风的观测极端缺乏，无法进行同期的验证。但利用其他时间的观测，仍可大体验证模拟是否正确。利用最新塔里木盆地肖塘气象站观测到尘卷风发生频率的日变化[12]和2016年腾格里沙漠和巴丹吉林沙漠交汇的民勤县老虎嘴尘卷风观测(图2c)进行验证。塔克拉玛干沙漠观测的尘卷风日变化特征与模拟的结果相当吻合，但模拟的峰值中心出现在15:00，较观测迟了 $^ { \\textrm { 1 h } }$ 。对比民勤的观测，观测的尘卷风日变化特征与模拟的结果大体一致,但观测在12:00以前的上升趋势较模拟的缓，15:00左右的上升较模拟的陡。与观测相比，模拟的尘卷风起沙量具有较高的可信度，但仍存在缺陷，这是因为模式中将单个尘卷风起沙量假定为定值，而实际尘卷风因大小不同，起沙量并不是定值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2模拟尘卷风起沙区域及强度月变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模拟各月尘卷风出现的位置如图3，但10月至来年2月近5个月的时间没有模拟出尘卷风，3月仅在柴达木盆地有少量尘卷风出现(图略)。4月尘卷风仅出现在柴达木盆地和塔克拉玛干沙漠边缘，强度略有加强。5月尘卷风区域急剧扩展，有3个尘卷风高值中心，分别在塔克拉玛干沙漠西部、库姆塔格沙漠和柴达木盆地。6月，尘卷风出现的区域与5月基本相同，但所有区域的尘卷风强度均达到了最大，在5月3个尘卷风高值中心的基础上，又增加了腾格里沙漠和巴丹吉林沙漠1个高值中心。7月尘卷风区域和高值中心与5一6月相似，但强度开始下降，强度虽然低于6月但大于5月。8月尘卷风区域收缩，其分布和强度近似5月。9月尘卷风出现的区域开始急剧收缩，其分布类似4月，但尘卷风强度要高于4月。10月以后，尘卷风在中国北方消失。尘卷风在3月首先出现在柴达木盆地，估计与青藏高原上的柴达木盆地地形较高有关，高原辐射较北方地区高，高辐射导致其地气温差加大，满足了尘卷风起沙最主要的阈值。4月和9月天气条件有很大差异，但尘卷风的月变化特征相似，推测它可能与边界层高度变化、以及地气温差有关，需要进一步研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上面分析了中国北方各月尘卷风的出现区域和强度，下面仍以塔克拉玛干沙漠和巴丹吉林沙漠作为代表，模拟尘卷风的月变化特征。从图4a可见，塔克拉玛干沙漠尘卷风月起沙量变化呈现出单峰分布，2月下旬开始出现尘卷风起沙量，到3月下旬起沙量值一直处于较低的水平，3月下旬后起沙量迅速增加，在5月底到6月初达到峰值，然后快速下降，到10月底起沙量已接近0。对比塔里木盆地孔雀河气象哨观测的尘卷风发生频率的月变化曲",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "区币 654321 7 − (a)巴丹吉林沙漠 明月明 月明 3月 善区币 65432． 7-(b)塔克拉玛干沙漠 阴明钥 明月明 %新区币 454035302520151050 (c)民勤和肖塘 民糖9月9月1  \n0 0  \n8 00 10:00 12:00 14:00 16:00 18: ：00 20 00 8 ：00 0 00 12 ：00 14:00 16:00 18:00 20: 0 2 2:00 8 60 0 ：00 14:00 16:00 18:00 20: ：00地方时 地方时 地方时",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Diurnal variationof the simulated monthlydustdevil emissons andobservational diurnal frequencyof dust devil ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b610ee24a7465638f14270666d2e6b70e3a5adca6ba542cc594b2f458bd6bbd7.jpg",
+        "img_caption": [
+            "图3模拟2008年4—9月中国北方尘卷风起沙的区域及强度示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c9344d960f50428749433056b01d9aa5b6be5deb846d11553c6eb67400815b0.jpg",
+        "img_caption": [
+            "ig.3Spatial distributionof thesimulated monthlydustdevil emisions innorth China fromApril to September,2008 ",
+            "注：红线为模拟的日总起沙量；蓝线为观测的尘卷风出现频率。",
+            "图4塔克拉玛干沙漠和巴丹吉林沙漠尘卷风月起沙量及尘卷风观测的月频率分布",
+            "Fig.4Simulated monthly dust devil emissions and observed frequencyof dust devil inTaklimakan and Badain Jaran Dese "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "线(图4a)，虽然二者在细节上有所不同，但他们的趋势大体一致。模拟的巴丹吉林沙漠尘卷风月起沙量变化呈现多峰分布，有4个峰值出现，但最大的峰值仍然出现在5月底到6月初，与塔克拉玛干沙漠出现峰值的时间一致，滤去小的波动，其总体趋势同塔克拉玛干沙漠月变化一致。对比民勤的尘卷风观测(图4b)，其月变化特征与模拟的结果大体一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过尘卷风起沙参数化方案与WRF模式相结合，本文成功地模拟出了中国北方尘卷风日、月时间和空间变化特征，并得到了观测的证实。我们以前只知道尘卷风主要出现在沙漠、戈壁地区，并在个别站点进行了零星的观测[10-13.15],但没有任何研究能够给出大范围尘卷风的具体分布和起沙量，大部分研究只是给出1个尘卷风起沙量的估计值[1.7.2,17-20]本文通过对尘卷风的模拟和观测对比，不但证实了这一定性认识，而且给出了尘卷风具体发生的位置和起沙量，但其模拟的结论是否正确，仍需要大量的观测去证实。同时,模式的水平分辨率达 $3 0 \\mathrm { k m }$ ，它掩盖了沙漠地区下垫面的差异;模式的同化资料与实际的气象资料仍有一定的误差，特别是模式模拟的地表温度与实测的沙漠地表温度在夏季有非常大的差异；另外，模式中有大量的参数化方案，选取不同的参数化方案也会带来一定的误差。文中模拟10月至来年2月没有尘卷风的发生，与观测不匹配，这表明本文的尘卷风模拟仍存在一定的缺陷或者是误差，在观测加强的基础上，这些缺陷或者误差有待于更深入地研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用尘卷风起沙参数化方案和WRF模式，本文模拟中国北方尘卷风起沙量的日、月时空变化特征，并选取塔克拉玛干沙漠和巴丹吉林沙漠作为代表，对模拟的尘卷风起沙量日和月变化特征与2个站点尘卷风的实际观测进行对比，得到了如下的结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）中国北方沙漠模拟的每日尘卷风出现区域显示，从早上开始，尘卷风从东往西逐渐出现且强度逐渐加强，到12:00(北京时），研究区出现尘卷风的区域面积最大，东部尘卷风强度大于西部，下午18:00，尘卷风区域急剧向西收缩，仅塔克拉玛干沙漠尘卷风强度增强，20:00研究区尘卷风基本消失。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）从当地时间看，模拟的尘卷风起沙量日变化呈单峰分布，早晨9:00出现尘卷风，10:00—13:00尘卷风起沙量急剧上升，到14:00—15:00达到峰值，然后快速下降。塔克拉玛干沙漠和巴丹吉林沙漠日变化大体一致，但存在差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）模拟的研究区尘卷风起沙量月变化也单峰分布，出现时间在3一9月，其中尘卷风出现面积和强度在6月均达到最大，有4个高值中心，分别在塔克拉玛干沙漠西部、库姆塔格沙漠、柴达木盆地、腾格里沙漠和巴丹吉林沙漠，7月后快速下降，到9月底尘卷风消失且其强度接近0。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4）模拟2个沙漠的尘卷风起沙量与2个观测点尘卷风出现频率的日、月时间变化特征。二者在细节上略有不同，但趋势大体一样，表明模拟的尘卷风日、月变化特征大体是成功的，具有一定的可信度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Han Y X,Wang K H,Liu F,et al.The contribution of dust devils and dusty plumesto the aerosol budget in western China[J].Atmospheric Environment,2016,126:21-27.   \n[2] Han Y X,Zhao TL, Song L C,et al.A linkage between Asian dust,dissolved iron and marine export production in the deep ocean[J].Atmospheric Environment,2011,45(25): 4291-4298.   \n[3]Tang YG,Han YX,Ma XY,et al.Elevated heat pump effects of dust aerosol over northwestern China during summer[J].Atmospheric Research,2018,203:95-104.   \n[4] 周成龙,买买提艾力·买买提依明,杨兴华,等.基于模式参数化 方案的塔中地区临界起沙阈值分析[J].干旱区地理,2018,41 (5): 930-936.[Zhou Chenglong,Ali Mamtimin,Yang Xinghua,et al.Critical threshold velocity of dust emission in Tazhong area based on the parameterization schemes[J].Arid Land Geography, 2018,41(5): 930-936.]   \n[5]孙小雲,房彦杰,赵景峰,等.塔克拉玛干沙漠输沙势时空分布 特征[J].干旱区地理,2020,43(1):38-47.[Sun Xiaoyun,Fang Yanjie,Zhao Jingfeng,et al. Spatial and temporal distribution characteristics of sand drift potential in Taklimakan Desert[J].Arid Land Geography,2020,43(1): 38-47.]   \n[6] 刘畅,李诚志,李胜辉,等.基于栅格累加法的塔里木盆地沙漠 化分析[J].干旱区地理,2021,44(1):197-207.[Liu Chang,Li Chengzhi,Li Shenghui,et al.Desertification analysis based on grid accumulation method in Tarim Basin, China[J].Arid Land Geography,2021,44(1): 197-207.]   \n[7]刘莹,韩永翔,杨文清,等.沙尘天气、尘卷风对沙漠地区起沙量 的贡献[J].中国沙漠,2018,38(6):1175-1179.[Liu Ying,Han Yongxiang,Yang Wenqing,et al. Impacts of sand weathers and dust devils on the local dust emission amount[J]. Journal of Desert Research,2018,38(6): 1175-1179.]   \n[8]Sinclair P C.Some preliminary dust devil measurements[J]. Monthly Weather Review,1964, 92(8): 57-79.   \n[9]Sinclair P C. General characteristics of dust devils[J]. Journal of Applied Meteorology,1967,8(1): 32-45.   \n[10]乐之.南疆戈壁滩上的尘卷风[J].气象,1983,9(4):33.[Le Zhi. Dust devil on the gobi desert in south Xinjiang[J]. Meteorological Monthly,1983,9(4): 33.]   \n[11] 雷向杰,李亚丽,杜继稳,等.陕西龙卷、尘卷风时空分布和日变 化规律分析[J].灾害学,2005(2):99-101.[Lei Xiangjie,Li Yali, Du Jiwen,et al.Analysis on the spatio-temporal distribution and daily change rule of cyclone and dust devil in Shaanxi[J]. Journal of Catastrophology,2005(2): 99-101.]   \n[12] 邓祖琴,韩永翔,白虎志,等.中国北方沙漠戈壁区沙尘气溶胶 与太阳辐射的关系[J].中国环境科学,2011,31(11): 1761-1767. [Deng Zuqin,Han Yongxiang,Bai Huzhi,et al. Relationship between dust aerosol and solar radiation in gobi desert in north China [J]. China Environmental Science,2011,31(11): 1761-1767.]   \n[13] 王民俊,韩永翔,邓祖琴,等.全球主要沙源区沙尘气溶胶与太 阳辐射的关系[J].中国环境科学,2012,32(4):577-583.[Wang Minjun,Han Yongxiang,Deng Zuqin,et al. Relationship between dust aerosols and solar radiation in global dust source regions[J]. China Environmental Science,2012,32(4): 577-583.]   \n[14]Liu C, Zhao TL, Yang X H,et al. Observational study of formation mechanism,vertical structure,and dust emission of dust devils over the Taklimakan Desert,China[J].Joural of Geophysical Research,2016,121,3608-3618.   \n[15]Ma MJ, Yang XH,He Q,et al. Characteristics of dust devil and its dust emission in northern margin of the Taklimakan Desert[J]. Aeolian Research,2020,44:100579,doi:10.1016/j.aeolia.2020. 100579.   \n[16] Ma M J, Yang X H, Zhou CL,et al. Contributions of dusty weather and dust devil to dust emission amounts at the northern margin of theTaklimakan Desert[J].Natural Hazards,2O2O(103)，doi: 10.1007/s11069-020-04043-3.   \n[17]Metzger S M,Balme MR,Towner M C,et al. In-situ measurements of particle load and transport in dust devils[J]. Icarus,2O13,214 (2): 766-772.   \n[18]Jemmett-Smith B C,Marsham JH, Knippertz P,et al. Quantifying global dust devil occurrence from meteorological analyses[J]. Geophysical Research Letters,2015,42(4): 1275-1282.   \n[19]Lyons TJ,Nair US,FosterIJ. Clearing enhances dust devil formation[J]. Journal of Arid Environments,2008,72(1O): 1918-1928.   \n[20] Tang YG,Han Y X,Liu Z H. Temporal and spatial characteristics of dust devils and their contribution to the aerosol budget in East Asia:An analysis using a new parameterization scheme for dust devils[J].Atmospheric Environment,2018,182: 225-233.   \n[21]Jimin S, Zhongli D,Tungsheng L. Desert distributions during the glacial maximum and climatic optimum: Example of China[J]. Episodes-Newsmagazine of the International Union of Geological Sciences,1998,21(1): 28-31.   \n[22]Deardorff JW. Convective velocity and temperature scales for the unstable planetary boundary layer and for Rayleigh convection[J]. Journal of Atmospheric Sciences,1970,27,1211-1213.   \n[23]Lyons T,Nair U,Foster I. Clearing enhances dust devil formation [J]. Journal of Arid Environments,2008,72(10): 1918-1928.   \n[24]Jemmett-Smith B C, Marsham JH, Knippertz P,et al. Quantifying global dust devil occurrence from meteorological analyses[J]. Geophysical Research Letters,2015,42(4),1275-1282.   \n[25]Ansmann A,Tesche M,Knippertz P,et al.Vertical profiling of convective dust plumes in southern morocco during SAMUM[J]. Tells Series B: Chemical & Physical Meteorology,2009,61(1), 340-353.   \n[26]Renno N O, Burkett ML, Larkin MP.A simple thermodynamical theory for dust devils[J].Atmospheric Science,1998,55: 3244e3252, doi: 10.1175/1520-0469(1998)0552.0.CO;2.   \n[27] Gillette D,Sinclair P C.Estimation of suspension of alkaline material by dust devils in the United States[J].Atmospheric Environment, 1990,24,1135-1142.   \n[28]Hong Songyou,Noh Y,Dudhia J.A new vertical diffusion package with an explicit treatment of entrainment processes[J]. Monthly Weather Review,2006,134(9): 2318-2341.   \n[29]Shao Y,Ishizuka M,Mikami M,et al.Parameterization of size-resolved dust emission and validation with measurements[J]. Journal of Geophysical Research，2011,116:D08203,doi: 10.1029/ 2010JD014527. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Simulation of spatial-temporal distribution of dust devil in northern China ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HAN Chaoxin123，TANG Yaoguo14，HAN Yongxiang12，LI Jiaxin1²，GUO Jianmao1,2 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1.CollborativeInnovation CenteronForecastandEvaluationofMeteorologicalDisasters,NanjingUniversityofInforation Science andTechnology,Nanjing 10o44,Jiangsu,China;2.KeyLaboratory forAerosol-Cloud-Precipitationof China   \nMeteorologicalAdministration,NanjingO44,Jangsu,China;3.LanzhoueteorologicalBureau,Lanzhou3Oo3o,Gansu, China; 4. Nanning Meteorological Bureau,Nanning 53OoO1,Guangxi, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Using a parameterized scheme of dust devils and its coupling with the weather research and forecasting model(WRF)，the daily and monthly spatiotemporal variation characteristics of dust devils are simulated in northern China.The results show the following.(1）The daily spatial distribution of dust devils gradually appears from east to west,and its intensity graduall increases,from 10:0o-14:0o(Beijing time).Then, the dust devil region gradually shrinks and the strength weakens from east to west from14:00-20:00.From March, dust devil centers gradually appear in the Taklimakan Desert, Kumtag Desert,and Qaidam Basin and then gradually expand to alldeserts,reaching a peak in June.There is a sharp decrease in the area and intensity of the dusty devils after July,and there are no dust devils in October. (2)The diurmal time variations of the dust devils present a single-peak distribution in the Taklimakan and Badain Jaran Deserts that starts at O9:Oo (local time), reaches its peak at 14:0o-15:0o (local time),and then decreases rapidly.The monthly time variation trend of the dust devils is generallyunimodal,starting in March and reaching its peak in June,then rapidly declining and disappearing at the end of September.The fluctuation range of the dust devils in the Badain Jaran Desert is larger than that in the Taklimakan Desert.(3）The simulated and observed daily and monthly time variation characteristics of the dust devils are slightly different; however,the trends of the two are basically the same, implying that the parameterized dust devil scheme has high applicability.Dust aerosols are the main component of atmospheric aerosols,which affect the interactions and material cycles between the atmosphere,lithosphere, and biosphere through the iron fertilizer effect; however,dust aerosols are often thought to be a product of dust storms.Dust devils are smallthermal-based dust emission systems that differ from the large power-based dust emission systems of dust storms; however,the extent of their occurrence and dust emissions are still unknown. The parameterized dust devil scheme can simulate the occurrence range,characteristics,and dust emissions of dust devils,which provides a basis for estimating the contribution of dust devils to atmospheric dust aerosols. This study shows that dust devils are an important source of dust aerosols，which may have an important influence on global and regional environmental and climate changes,and will therefore contribute to our understanding of dust aerosol sources and environmental and climate changes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: dustaerosol；WRF/Chem mode；parameterized scheme for dust devil; spatial-temporal distribution ",
+        "page_idx": 7
+    }
+]

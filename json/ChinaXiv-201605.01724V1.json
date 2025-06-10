@@ -1,0 +1,346 @@
+[
+    {
+        "type": "text",
+        "text": "Regulation of ATRIP protein abundance by RAD9 in the DNA damage repair pathway ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X-J. Peng1,S-J.Liul, C-M.Baol, Y-Z. Liu',H-W. Xie²,Y-H.Cai²,B-M.Li',H-Y. Hang³ and X. Dingl ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School ofLife Sciences and Institute ofLife Science,Nanchang University,Nanchang, Jiangxi 33o031,China 2Jiangxi Super-iceResarchandDevelopmentCenter,JiangxiAcademyofAgriculturalSciencs,Nanchang,Jiangxi301,Cina 3 Center for Infectionand Immunity,InstituteofBiophysics,Chinese Academy of Sciences,Beijing 10o101, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corespoiuoiglifcieee,gsiaga Email: dingxia97@ncu.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "eotoxi numberfrotectoetiospteCl7tUed. thesepotes fADpote damage-induced ATRIP foci formation was faster in the $\\mathrm { m } R a d \\%$ ES cells. Also, ATRIP interacts specifically with RAD9,but not HUS1 and RAD1. Taken together, wesugestatoeuasop Chklpathwaythat is necessary forsuccessfulformationofthe damage-sensingcomplex andDNAdamage checkpointsignaling. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:DNA damage signaling,ATRIP,RAD9,Cell cycle checkpoints,Genome stability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cellular DNA is constantly exposed to DNA damaging caused by environmental factors and intracellular metabolic processes.In response to the genotoxic stress, cell developed cell checkpoint and repair mechanisms, which halt replication,presumably in order to allow time to repair damaged DNA(1-3). The initiation of these checkpoints relies on the efficient recognition of the DNA damage followed by rapid signal transduction by transducer kinases ATR/ATM (RAD3-related kinase/ the ataxia telangiectasia-mutated) (4-6).Where ATM specifically targets double stranded DNA breaks, ATR is involved in a wider array of damage types（7- 9).Once activated,ATM and ATR phosphorylate and activate their effectorkinases, Chk2 and Chk1, respectively. Chk2 and Chk1 then proceeds to phosphorylate a variety of proteins involved in DNA repair, DNA replication, and cell cycle transitions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The activation of the ATR pathway by DNA damage and replication stress is a multistep process. The initiation of this process relies on the efficient recognition of the ssDNA by the ssDNA protein binding complex RPA (replication protein A),which facilitates recruitment of ATR to sites of DNA damage through an interaction with the ATR-associated protein ATRIP(10-13). Simultaneously, the checkpoint clamp loader RAD17-RFC complex loads the RAD9-RAD1-HUS1 (9-1-1) complex to the ssDNA independently, followed by binding of topoisomerase binding protein 1(TopBp1) (14,15). Thereby 9-1-1 complex contacts with the ATR-ATRIP heterodimer through TopBp1 (16-18).Then,ATR becomes fully active,resulting in the activation of Chk1, thereby allowing Chk1 to phosphorylate a variety of proteins (19-22). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Many DNA damage proteins are recruited to sites of damage into nuclear foci, and become immobilized in these foci due to interactions with either the damaged chromatin or other proteins in the DNA lesion.However,recent studieshave indicated that these nuclear foci are not static but hightly dynamic structures (23,24). Photobleaching experiments revealed an increase in the dynamic behavior of RAD9 within remaining foci in theabsence of ATR/ATRIP (2O). Indeed, it is reported that DNA damage repair (DDR) foci are highly mobile and coalesce into repair centers in both budding yeast and mammalian cells (25-27).Moreover, recent work has indicated that,under certain conditions,9-1-1 can be recruited to DNA in a TopBP1-dependent manner (2, 22). If ATRIP recruits TopBP1, as shown in the study by Choi etal.(2,28), then ATR-ATRIP should also recruit 9-1-1. Obviously, it is unclear how these DNA damage proteins act in concert with one another to propagate and maintain the checkpoint response (23, 29).We need more detail regarding how the ATR-Chk1 pathway operates in living cells.Here,we try to analyze the regula tion of ATRIP protein abundance by RAD9,and assess the probable novel role of RAD9 in the ATR-Chkl pathway. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Antibodies ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A monoclonal anti-FLAG M2 antibody (F1804), a polyclonal anti-FLAG antibody (F7425)，an antiGAPDH and anti- $\\cdot \\beta$ -Actin monoclonal antibody were obtained from Sigma-Aldrich (Shanghai, China),while an anti-HA antibody, an anti-MBP antibody and poly clonal anti-ATR (N-19) were obtained from Santa Cruz Technology (Shanghai, China).A polyclonal rabbit anti ATRIP(NBP1-19365) was purchased from Novus Biologicals, and anti-RAD9 monoclonal antibody (611324) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "from BD.Anti-TopBP1 (A300-111A） was obtained from Bethyl Laboratories Inc.The mouse polyclonal antibody against HUS1 used was produced within the laboratory. A FITC-conjugated goat anti-rabbit IgG antibody was obtained from Jackson Immuno Research Laboratories (West Grove, PA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell culture ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HeLaandHEK293TcellswereculturedinDMEM (Invitrogen, CA） supplemented with $10 \\%$ fetal bovine serum (Hyclone） and $1 0 0 \\mathrm { U / m l }$ penicillin/streptomycin. HEK $2 9 3 \\mathrm { T }$ cells stably expressing RAD9-FF-ZZ, hHUS1-FF-ZZ and GFP-FF-ZZ, constructed in our laboratory, were cultured in DMEM with $10 \\%$ fetal bovine serum and $5 0 \\mathrm { m g / m l }$ Hygromycin B.The method employed forculturingmouse ES cells has been described elsewhere (30). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cloning ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The pFLAG-CMV2-RAD9, pFLAG-CMV2- hRAD1，pFLAG-CMV2-hHUS1, pFLAG-CMV2- GFP,pcDNA3-6HA-hHUS1 and pGEX-6P-1-RAD9 plasmids have been described previously (31,32). The full-length human ATRIP sequence was PCR amplified and inserted into both pcDNA3-6HA and pMAL- $\\cdot { \\mathrm { C } } _ { 2 } { \\mathrm { X } }$ The C terminal double epitope FF-ZZ tag - a tandem construct consisting of two FLAG tags(FF) followed by two protein-A immunoglobulin G(IgG) binding domains(ZZ) from pINX-C-FF-ZZ-A(33) was first cloned intopcDNA $3 . 1 ( + )$ to form pcDNA3.1-FF-ZZ. The Rad9，hHus1 and GFP sequences were inserted into pcDNA3.1-FF-ZZ. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Establishingprotein over-expression stable cell lines ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The recombinant vectors (pcDNA3.1-FF-ZZ-RAD9, pcDNA3.1-FF-ZZ-HUS1 and pcDNA3.1-FF-ZZ-GFP) was transfected into $2 9 3 \\mathrm { T }$ by liposome,respectively. The positive transfected cell clones were selected with neomycin.After culture expansion, the stable cell lines were attained.The expressions of RAD9,HUS1 and GFP in the stable cell lines were detected by western blot assay, respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Immunoprecipitation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transfection of HEK $2 9 3 \\mathrm { T }$ cells was carried out using the Lipofectamine Plus reagent (Life Technologies). The cells were grown to $60 \\%$ confluence in $6 0 \\mathrm { m m }$ tissue culture dishes before being transfected with $1 . 5 \\mathrm { m g }$ pFLAG-CMV2 DNA and $1 . 5 \\mathrm { m g }$ pCDNA3- 6HA DNA, following the procedure described by Invitrogen. Immunoprecipitation and Western blotting were performed as described elsewhere (34). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chromatin fractionation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chromatin fractionation was performed essentially as described elsewhere (35).A population of ${ \\sim } 3 { \\times } 1 0 ^ { 6 }$ cells was rinsed in PBS and re-suspended in $2 0 0 \\mu \\mathrm { L }$ $1 0 \\mathrm { m M }$ HEPES $\\left( \\mathrm { p H } ~ 7 . 9 \\right)$ ， $1 0 \\mathrm { m M }$ KCl, $1 . 5 \\mathrm { m M }$ （20 $\\mathrm { M g C l } _ { 2 }$ 0.34M sucrose, $10 \\%$ glycerol, 1mM T, $1 0 \\mathrm { m M } \\mathrm { N a } \\bar { \\mathrm { F } } .$ 1mM $\\mathrm { N a } _ { 2 } \\mathrm { V O } _ { 3 }$ and a cocktail of protease inhibitors (solution A). Triton X-1oo was then added to a final concentration of $0 . 1 \\%$ ，and the cells held on ice for $5 \\mathrm { m i n }$ . Cytoplasmic proteins (S1） were separated from nuclei (P1） via centrifugation ( $1 { , } 3 0 0 \\times g$ ，4min).The ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "P2 preparation was rinsed once in solution A and then lysed in $2 0 0 \\mu \\mathrm { L }$ $3 \\mathrm { m M }$ EDTA, $0 . 2 \\mathrm { m M }$ EGTA,1mMDTT (solution B).After a $1 0 \\mathrm { { m i n } }$ incubation on ice,soluble nuclear proteins (S2) were separated from P1 by centrifugation ( $( 1 , 7 0 0 \\times g$ ，4min). Isolated chromatin was rinsed once with solution B and then pelleted ( $1 0 { , } 0 0 0 \\times$ $g$ ，lmin).Finally, the chromatin (P2) was resuspended in $2 0 0 \\mu \\mathrm { L }$ SDS sample buffer and sheared by sonication. To digest chromatin with micrococcal nuclease, the P1 fraction was resuspended in solution A containing $1 \\mathrm { m M }$ CaCl2 and 5OU micrococcal nuclease (Sigma).After a 2min of incubation at $3 7 ^ { \\circ } \\mathrm { C }$ ，the nuclei were lysed and fractionated as above. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ES cells were grown on glass coverslips in $3 5 \\mathrm { m m }$ dishes.Fixation and permeablization were performed by treating with $4 \\%$ paraformaldehyde for $1 5 \\mathrm { m i n }$ ，followed by $0 . 5 \\%$ triton X-100 for $1 5 \\mathrm { m i n }$ .Blocking was achieved by adding $1 \\%$ BSA at room temperature for $1 0 \\mathrm { { m i n } }$ ，and then the material was challenged with an anti-ATRIP antibody at room temperature for 1h.After extensive rinsing, the secondary FITC-conjugated goat antirabbit IgG antibody was added and left at room temperature for 1h.Images were captured by a Zeiss LSM510 confocal microscope. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The upregulation of RAD9 enhances ATRIP protein abundance invivo ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is known that RAD9 can regulate levels of other proteins, such as $p 2 I$ , DDB2 and ITGB1 (36-38). We examined ATRIP protein levels in RAD9 over-expression stable cell lines, to determine whether or not in vivo the abundance of ATRIP wasaffected by that of RAD9 The over-expression of RAD9 (but not of HUS1,another component of 9-1-1 complex) clearly enhanced the level of ATRIP present (Fig.1A).Further, to evaluate the regulation of ATRIP by RAD9 expression level, we monitored the difference of endogenous ATRIP expressionlevel between mRad $! 9 ^ { + / + }$ and mRad9-/-ES cells.The overall protein expression level of ATRIP in cytoplasmic proteins (S1) and soluble nuclear proteins (S2) were not affected by the RAD9-deficience,but the amounts of ATRIP on chromatin(P1） were slightly reduced in the mRad9-/-ES cells (Fig.2A). The result indicated that RAD9 activation would induce more efficient accumulation of ATRIP in vivo. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Over-expression of RAD9 increased ATRIP protein level,how about TopBP-1 and ATR? We also tested if ATR and TopBP1 protein levels were changed in RAD9 over-expression cells.The expression level of TopBP1 was not affected when the abundance of RAD9 was high (Fig. 1B). Surprisingly, the amounts of ATR were slightly reduced in RAD9 over-expression cells (Fig 1B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The DNA damage-induced ATRIP foci formation was fasterinthemRad $1 9 ^ { \\prime - }$ EScells ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We next tested whether ATRIP recruitment is influenced in RAD9-deficient cells.A comparison was made between mRad9+/+ and mRad9-/- ES cells with respect to ATRIP recruitment, following exposure to hydroxyurea (HU).ATRIP was still associated with chromatin in the presence of HU, apart from the quantity of ATRIP deposited on the chromatin was slightly reduced when RAD9 was absent (Fig. 2A). In order to ask whether the ATRIP accumulation to the sites of damage can beseen,weobservedATRIPfoci formation.ATRIP foci were formed in both mRad9+/+ ES cells and mRad9-ES cells exposed to HU for 12h (Fig.2B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b48fd80684144afa912f6d6da297369be8bcd853f79f4221b4a744af99ac4141.jpg",
+        "img_caption": [
+            "Figure1.Over-expression ofRAD9 regulates protein expression level.A.Over-expression ofRAD9 enhances ATRIP protein expression level. pCDNA3.1-RAD9-FF-ZZ，pCDNA3.1-HUS1-FF-ZZ orpCDNA3.1-GFP-FF-ZZ were transfected into HEK 293T cells. Nine random clones were assayed for ATRIP,RAD9 and GAPDH proteins expression.B.Over-expression ofRAD9 regulates expression levels of ATR and TopBP1 proteins.pCDNA3.1-FL-RAD9, pCDNA3.1-FL-HUS1 or pCDNA3.1-FL-GFP were transfected into HEK 293T cells,respectively. Extracts of these cells were analyzed by immunoblotting with antibodies to ATR,TopBP1,RAD9 and $\\beta$ Actin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore，we studied the kinetics of ATRIP foci formation in HU-induced cells expressing RAD9 orabsenceofRAD9.We observed fasterATRIPfoci formation at sites of damage in mRad9/- ES cells than $m R a d { \\cal Q } ^ { + / + }$ ES cells exposed to HU (Fig. 2C). We observed ATRIP foci formation in mRad9-/- ES cells exposed to 1mMHU for 1h,4h and 12h,but ATRIP foci formation wasn't observed at earlier time point(1h) in the $m R a d { \\cal Q } ^ { + / + }$ ES cells, though the difference became smaller at later time points (4h and 12h).Thus, the DNA damage-induced ATRIP foci formation was faster in the mRad9-/-ES cells. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a5ad02a5689cea253149595f0e89781bde605da2fe56907c123f045457a11d6.jpg",
+        "img_caption": [
+            "Figure 2.RAD9 deficiency has an effect on ATRIP foci formation at the site of DNA damage.A.mRad9+/+ and mRad9/-ES cells were untreated or treated with HU,harvested after 12h.The cells were then fractionated,and the resultant fractions were analyzed by immunoblotting with the indicated antibodies.(S1) cytoplasmic proteins;(S2） soluble nuclear proteins;(P2） chromatin-enriched sediment.B.ATRIP localizes to the sites of DNA replication stress exposed to HU for12h in mRad9+/+ and $m R a d { \\mathcal { G } } ^ { { \\mathord { \\left/ { \\vphantom { \\dag } } \\right. \\kern - delimiterspace } } . }$ ES cells.C.ATRIP localizes to the sites ofDNA replication stress exposed to HU for Oh, 1h,4h and 12h in $m R a d { \\cal g } ^ { + / + }$ and $m R a d \\mathcal { G } ^ { \\sim }$ ES cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/035dda748b67a3647973c55c58a522fdf6c852ffd8d99714a3e2b825834e9bd2.jpg",
+        "img_caption": [
+            "Figure 3.RAD9 interacts with ATRIP.A. Co-immunoprecipita tion of FL-RAD9 and HA-ATRIP.pcDNA3-6HA-ATRIP transfected into HEK293T cells along with: pFLAG-CMV2-RAD9 (lanes 1, 4) or pFLAG-CMV2-GFP (lanes 2,5: negative control).Lanes 3,6: pcDNA3-6HA-hHUS1 transfected into HEK 293T cells along with pFLAG-CMV2-RAD9 (positive control).Lysates were immunoprecipitated with anti-FLAG antibody and probed with antibodies recognizing either HA (upper panel) or FLAG (lower panel).B.ATRIP was not associated with eitherhRAD1orhHUS1.pCDNA3.0-6HAATRIP transfected into HEK293Tcellsalongwith: pFLAG-CMV2- hHUS1 (lanes1,4:),pFLAG-CMV2-RAD9 (lanes2,5) or pFLAGCMV2-hRAD1 (lanes 3,6).Lysates were immunoprecipitated with anti-FLAG antibody and probed with antibodies recognizing either HA(upper panel) or FLAG (lower panel). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ATRIP interactswith RAD9",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Above results indicated that ATRIP foci formation was effectbyRAD9.We predicted therefore, thatATRIP likelyto interactwith RAD9 important for the functioning of DNA repair and cell cycle checkpoint control. Co-immunoprecipitation experiments were performed to confirm the association of ATRIP and RAD9 in vivo. The assay showed that in cells FLAG-tagged RAD9, the RAD9 protein interacted with ATRIP, but not with the negative control (GFP) (Fig. 3A).A subsequent co-immunoprecipitation assay showed that neither over-expressed FL-tagged hRAD1 nor hHUS1 interacted with HA-tagged ATRIP, even though FL-RAD9 interacted with HA-ATRIP (Fig. 3B). The interpretation of this result was that ATRIP interacts specifically with RAD9, but not HUS1 and RAD1, other two components of 9-1- 1 complex. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RAD9 regulates multiple DNA damage-inducible cell cycle checkpoints and contribute to different DNA repair pathways, including base excision repair (BER), nucleotide excision repair, mismatch repair and homologous recombination repair (32, 36).In addition to the 9-1-1 complex,RAD9 interacts independently with several DNA repair proteins,including RAD51,MLH1, APE1,TDG, OGG1 and NEIL1(32,39,40).RAD9 can regulate levels of other proteins,such as $p 2 I$ ，DDB2 and ITGB1 (36-38).Here,we show that ATRIP protein levels are increase in response to RAD9 over-expression (Fig.1A),and the amounts of ATRIP on chromatin were slightly reduced in the mRad9-/- ES cells (Fig. 2A). . Our data suggests that RAD9 can also regulate ATRIP expression. Why cells need more ATRIP protein when RAD9 proteinlevels enhance? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In generally, ATR/ATRIP and 9-1-1 complexes are thought to bind to DNA independently, form nuclear foci at sites of DNA damage,and become immobilized in the foci(36,41).We also observe thatATRIP was still associated with chromatin and form ATRIP foci in in both mRad9+/+ ES cells and $m R a d { \\mathcal { G } } ^ { \\sim }$ ES cells exposed to HU (Fig 2A,B). Our data indicated that ATRIP recruitment was not influenced by RAD9, supporting the currently accepted dogma that 9-1-1 is not required for ATR/ATRIP to access sites of DNA damage. However, our experiments studying the dynamic behavior of ATRIP foci suggest that although RAD9 does not influence the recruitment of ATRIP to DNA damage sites, it does have an impact on the early kinetics of ATRIP foci formation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At present, multiple lines of evidence support the idea that nuclear foci are not static but hightly dynamic structures (23, 24).After ATR/ATRIP and 9-1-1 complexes are recruited to DNA lesions, these proteins are highly mobile within DNA damage induced foci. It has been reported that ATRIP associates more transiently with damage chromatin than do the members of the 9-1-1 complex after UV-induced DNA damage (23). In addition to,photobleaching experiments reveal an increase in the dynamic behavior ofRAD9 within remaining foci in the absence of ATR/ATRIP (2O). Our data show that RAD9 deficient cells would induce more efficient ATRIP foci formtion at the site of DNA damage at the earlier time points (Fig.2C). Our result demonstrated the effectofRAD9 inATRIP turnoverin established foci.Both of ATRIP and RAD9 were highly mobile at the sites of DNA damaged, turnover of ATRIP within DNA damage induced foci was comparatively slow without RAD9.Thus,it's possible that ATRIP appears to be to stabilize the RAD9 at the sites of DNA damage, resultinginan increase in the mobilityofATRIP in the presence of RAD9 at the initial DNA-damage-induced proteins recruitment stage. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then,how does ATRIP promote RAD9 stabilityafter DNA damage? We provided evidence that RAD9 interacts specifically with ATRIP (Fig. 3). The prevailing viewis that TopBP1 links the independently recruited 9-1-1 and ATRIP/ATR complexes, leading to ATR-mediated Chk1 phosphorylation (21,41, 42).We propose that ATRIP could bind RAD9 dynamically, and the specifical interaction of RAD9/ATRIP contributes to stabilize the RAD9 at the sites of DNA damage (Fig. 4). But the detailed mechanism remains to be elucidated. Suchas,howabout the interaction ofRAD9 and ATRIP with HU treatment, is the interaction stronger? And how about the interaction of ATRIP with HUS1 andRAD1 when treatment with HU? The effect of HU-induction was remarkable,the overall protein expression level of ATRIP and RAD9 in cytoplasmic proteins(S1) and soluble nuclear proteins (S2) were enhanced in HU-induced cells,and the chromatin association ofATRIP and RAD9 (P1) were also obviously elevated in the HU-induced mRad9+/+ cells (Fig.2A). Combined with the fact that ATRIP interacts specifically with RAD9,but not HUS1 and RAD1 (Fig. 3B), we could inferred that the interaction of ATRIP and RAD9 with HU treatment was stronger,but not with HUS1 andRAD1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8686b93dd9aa4918db1556aac1c0da741351eac80f17c558267456c646c55031.jpg",
+        "img_caption": [
+            "Figure4.RAD9 interactswithATRIPforstabilizingtheATRIP/ ATR complex at the site of DNA damage.RPA binds to ssDNA, and recruits ATR-ATRIP by interactingwith ATRIP.Rad17 complex recruits the 9-1-1 clamp complex to the sites of damage.RAD9 did interactwithATRIP,the ATRIP/RAD9 interaction served to stabilize the association of the ATR-ATRIP complexwith chromatin.TopBP1 interacts with ATRIP/ATR and phosphorylated RAD9.Those proteins loaded to the damaged DNA,leading to phosphorylation of the downstream checkpoint kinase-1(CHK1) and other ATR effectors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Overall, we suggested that the upregulation of RAD9 enhance the ATRIP protein levels.ATRIP and RAD9 canbe independentlyrecruited to damagedDNA.Once recruited,a specifical interaction ofRAD9/ATRIP occurs and affects the foci formation at the sites of DNA damage. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr.Russ P Carstens for that of the plasmid pINX-C-FF-ZZ-A. This research was financially supported by the National Natural Science Foundation of China (31160019，31160270，81501162，31560041, 31401038)，Key Science and Technology Financing Projects of Jiangxi Province, China (20143ACF6008), the Research Project of Department of Education of Jiangxi Province, China (GJJ13 1oO) and the Agricultion Sci-Tech Support Plan of the Science and Technology Department of Jiangxi Province (20133BBF60003). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1．Tuul,M.,Kitao,H.,Iimori,M.,Matsuoka,K.,Kiyonari, S., Saeki,H.,Oki,E.,Morita,M.and Maehara,Y.,Rad9,Rad17, TopBP1 and claspinplay essential roles in heat-induced activation of ATR kinase and heat tolerance.PLoS. One. 2013,8(2):e55361.doi: 10.1371/journal.pone.0o55361. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2．Xu, Y.J.and Leffak,M.,ATRIP from TopBP1 to ATR--in vitro activation of a DNA damage checkpoint.Proc.Natl.Acad. Sci.U S ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "by counteracting the adaptor Rad9. Nature. 2013, 493(7430):120- 124.doi: 10.1038/nature11658.   \n4. Zhou, B.B. and Elledge, S.J., The DNA damage response: putting checkpoints in perspective. Nature. 2000,408(6811):433-439. doi: 10.1038/35044005.   \n5．Cliby，W.A.，Roberts,C.J.，Cimprich，K.A.，Stringer,C.M.. Lamb,J.R., Schreiber, S.L.and Friend, S.H., Overexpression of a kinase-inactive ATR protein causes sensitivity to DNA-damaging agents and defects in cell cycle checkpoints. EMBO.J. 1998, 17(1):159-169.doi: 10.1093/emboj/17.1.159.   \n6. Zhan, Z., He, K., Zhu, D., Jiang, D., Huang, Y.H., Li, Y., Sun, C.and Jin, Y.H.,Phosphorylation of Rad9 at serine 328 by cyclin A-Cdk2 triggers apoptosis via interfering Bcl-xL.PLoS. One.2012, 7(9):e44923. doi: 10.1371/journal.pone.0044923.   \n7．Abraham,R.T.,Cell cycle checkpoint signaling through the ATM and ATR kinases. Genes. & development. 2001,15(17):2177- 2196. doi: 10.1101/gad.914401.   \n8．Adams, K.E., Medhurst, A.L., Dart, D.A. and Lakin, N.D., Recruitment of ATR to sites of ionising radiation-induced DNA damage requires ATM and components of the MRN protein complex. Oncogene. 2006,25(28):3894-3904. doi: 10.1038/sj.0nc.1209426. 9.Jazayeri,A.,Falck, J.,Lukas, C., Bartek,J., Smith, G.C., Lukas, J. and Jackson, S.P.,ATM- and cell cycle-dependent regulation of ATR in esponse to DNA double-strand breaks.Naturecellbiology. 2006,8(1):37-45.doi: 10.1038/ncb1337.   \n10.Cortez，D.，Guntuku，S.，Qin，J.and Elledge，S.J.，ATR and ATRIP:partners in checkpoint signaling. Science. 2001, 294(5547):1713-1716. doi: 10.1126/science.1065521.   \n11. Zou，L.and Elledge，S.J.，Sensing DNA damage through ATRIP recognition of RPA-ssDNA complexes. Science. 2003, 300(5625):1542-1548. doi: 10.1126/science.1083430.   \n12. Unsal-Kacmaz, K. and Sancar, A., Quaternary structure of ATR and effects of ATRIP and replication protein A on its DNA binding and kinase activities.Mol. Cell. Biol.2004,24(3):1292-1300. 13.Bomgarden, R.D.， Yean, D.， Yee,M.C.and Cimprich, K.A., A novel protein activity mediates DNA binding of an ATR-ATRIP complex.J. Biol. Chem. 2004,279(14):13346-13353. doi: 10.1074/ jbc.M311098200.   \n14. Querol-Audi, J., Yan, C., Xu, X., Tsutakawa, S.E., Tsai, M.S., Tainer, J.A., Cooper,P.K., Nogales, E.and Ivanov, I., Repair complexes of FEN1 endonuclease,DNA,and Rad9-Hus1-Rad1 are distinguished from their PCNA counterparts by functionally important stability. Proc. Natl. Acad. Sci.U S A. 2012, 109(22):8528-8533. doi: 10.1073/pnas.1121116109.   \n15.Pichierri, P., Nicolai, S.,Cignolo,L.,Bignami, M.and Franchitto,A., The RAD9-RAD1-HUS1(9.1.1) complex interacts with WRN and is crucial to regulate its response to replication fork stalling. Oncogene. 2013,31(23):2809-2823. doi: 10.1038/onc.2011.468. 16. Zou,L., Cortez, D. and Elledge, S.J., Regulation of ATR substrate selection by Radl7-dependent loading of Rad9 complexes onto chromatin. Genes.& development. 2002,16(2):198-208. doi: 10.1101/gad.950302.   \n17.Kondo,T.,Wakayama,T.,Naiki, T.,Matsumoto,K.and Sugi moto,K., Recruitment of Mecl and Ddc1 checkpoint proteins to double-strand breaks through distinct mechanisms. Science. 2001, 294(5543):867-870. doi: 10.1126/science.1063827.   \n18. Parrilla-Castellar, E.R.,Arlander, S.J.and Karnitz,L.,Dial 9-1-1 for DNA damage: the Rad9-Hus1-Rad1(9-1-1) clamp complex. DNA repair: 2004,3(8-9):1009-1014. doi: 10.1016/j.dnarep.2004.03.032 19.Chen, Y.and Sanchez, Y., Chkl in the DNA damage response: conserved roles from yeasts to mammals. DNA repair: 2004, 3(8- 20.Medhurst, A.L.， Warmerdam， D.O., Akerman， 1.， Verwayen, E.H., Kanaar, R., Smits, V.A. and Lakin, ND., ATR and Rad17 collaborate in modulating Rad9 localisation at sites of DNA damage.J. Cell Sci. 2008,121(Pt 23):3933-3940.doi: 10.1242/jcs.033688. 21.Kumagai, A., Lee, J., Yoo,H.Y.and Dunphy,W.G., TopBP1 activates the ATR-ATRIP complex. Cell 2006,124(5):943-955. doi: 10.1016/j.cell.2005.12.041.   \n22. Yan, S.and Michael, W.M.,TopBP1 and DNA polymerase-alpha directly recruit the 9-1-1 complex to stalled DNA replication forks. J. Cell. Biol. 2009,184(6):793-804.doi: 10.1083/jcb.200810185. 23. Warmerdam, D.O., Kanaar, R.and Smits, V.A., Differential Dynamics of ATR-Mediated Checkpoint Regulators.J.Nucleic.Acids. 2010,2010.doi: 10.4061/2010/319142.   \n24.Polo,S.E.and Jackson,S.P.,Dynamics ofDNAdamage response proteins at DNA breaks: a focus on protein modifications.GENES. & DEVELOPMENT. 2015,25:409-433.doi: 10.1101/gad.2021311. 25.Lisby, M.,Mortensen, U.H.and Rothstein,R., Colocalization of multiple DNA double-strand breaks at a single Rad52 repair centre. Nat. Cell. Biol. 2003,5(6):572-577. doi: 10.1038/ncb997.   \n26. Difilippantonio, S., Gapud,E., Wong,N.,Huang, C.Y.,Mahowald, G., Chen, H.T.,Kruhlak, M.J., Callen, E., Livak,F., Nussenzweig,M.C., Sleckman, B.P.and Nussenzweig,A., 53BP1 facilitates long-range DNA end-joining during V(D)J recombination. Nature. 2008,456(7221):529-533.doi: 10.1038/nature07476.   \n27. Dimitrova, N., Chen, Y.C., Spector,D.L. and de Lange,T., 53BP1 promotes non-homologous end joining of telomeres by increasing chromatin mobility. Nature. 2008,456(7221):524-528. doi: 10.1038/nature07433.   \n28. Choi, J.H.,Lindsey-Boltz,L.A., Kemp, M., Mason, A.C., Wold, M.S.and Sancar,A.,Reconstitution ofRPA-covered single-stranded DNA-activated ATR-Chk1 signaling. Proc. Natl. Acad. Sci. U S A. 2010,107(31):13660-13665.doi: 10.1073/pnas.1007856107. 29.Lukas,C,Falck,J,Bartkova,J.,Bartek,J.andLukas,J.,stinct spatiotemporal dynamics of mammalian checkpoint regulators induced by DNA damage. Nat. Cell.Biol. 2003,5(3):255-260. doi: 10.1038/ncb945   \n30.Hopkins,K.M.,Auerbach, W., Wang, X.Y., Hande,M.P.,Hang, H., Wolgemuth, D.J., Joyner, A.L. and Lieberman, H.B., Deletion of mouse rad9 causes abnormal celular responses to DNA damage, genomic instability,and embryonic lethality. Mol. Cell.Biol. 2004, 24(16):7235-7248.doi: 10.1128/MCB.24.16.7235-7248.2004. 31. Hang,H.and Lieberman, H.B., Physical interactions among human checkpoint control proteins HUS1p,RADlp, and RAD9p,and implications for the regulation of cell cycle progression. Genomics. 2000,65(1):24-33. doi: 10.1006/geno.2000.6142.   \n32. He, W., Zhao, Y., Zhang, C.,An,L.,Hu, Z.,Liu,Y., Han,L., Bi, L., Xie, Z., Xue,P., Yang,F.and Hang, H., Rad9 plays an important role in DNA mismatch repair through physical interaction with MLH1. Nucleic. Acids. Res. 2008,36(20):6406-6417. doi: 10.1093/ nar/gkn686.   \n33. Tsai,A.and Carstens,R.P.,An optimized protocol for protein purification in cultured mammalian cels using a tandem affinity purification approach. Nat. Protoc. 2006,1(6):2820-2827. doi: 10.1038/nprot.2006.371.   \n34. Hang,H., Zhang,Y., Dunbrack,R.L. Jr., Wang, C.and Lieberman,H.B., Identification and characterization of a paralog of human cell cycle checkpoint gene HUS1. Genomics. 2002, 79(4):487-492. doi: 10.1006/geno.2002.6737.   \n35.Mendez, J.and Stillman,B.,Chromatin association of human origin recognition complex，cdc6,and minichromosome maintenance proteins during the cell cycle: assembly of prereplication complexes in late mitosis. Mol. Cell. Biol. 2000,20(22):8602-8612. 36. Li,T., Wang, Z., Zhao,Y., He,W.,An,L.,Liu, S.,Liu, Y., Wang, ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "X-J.Peng et al./Regulation of ATRIP protein abundance by RAD9. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "H.and Hang,H.,Checkpoint protein Rad9 plays an important role in nucleotide excision repair.DNA Repair (Amst).2013,12(4):284- 292.doi:10.1016/j.dnarep.2013.01.006.   \n37.Broustas, C.G., Zhu,A.and Lieberman,H.B.,Rad9 protein contributes to prostate tumor progression by promoting cell migration and anoikis resistance.J.Biol. Chem.2012,287(49):41324-41333. doi: 10.1074/jbc.M112.402784.   \n38.Panigrahi, S.K.,Hopkins,K.M.andLieberman,H.B.,Regulation ofNEIL1 protein abundance byRAD9 is important for efficient base excision repair. Nucleic.Acids.Res.2015,43(9):4531-4546. doi:10.1093/nar/gkv327.   \n39.Broustas,C.G.and Lieberman,H.B.,Contributions of Rad9 to tumorigenesis.J. Cell. Biochem. 2012,113(3):742-751.doi: 10.1002/jcb.23424.   \n40.Panigrahi, S.K.,Hopkins,K.M.and Lieberman,H.B.,Regulation ofNEILl protein abundance by RAD9 is important for efficient base excision repair. Nucleic. Acids.Research. 2015,43(9):4531- 4546.doi: 10.1093/nar/gkv327.   \n41.Delacroix,S.，Wagner, J.M.，Kobayashi，M.,Yamamoto,K. and Karnitz,L.M.,The Rad9-Hus1-Rad1 (9-1-1) clamp activates checkpoint signaling via TopBP1.Genes.& development. 2007, 21(12):1472-1477. doi: 10.1101/gad.1547007.   \n42.Wang, G., Tong, X.,Weng,S.and Zhou,H.,Multiple phosphorylation of Rad9 by CDK is required for DNA damage checkpoint activation. Cell. Cycle.2012,11(20).doi: 10.4161/cc.21987. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

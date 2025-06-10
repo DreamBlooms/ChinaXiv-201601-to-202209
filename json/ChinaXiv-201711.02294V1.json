@@ -1,0 +1,295 @@
+[
+    {
+        "type": "text",
+        "text": "The effective neutrino mass of neutrinoless double-beta decays: how possible to fall into a well ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhi-zhong Xing $^ { a , c }$ Zhen-hua Zhao $b$ \\*   \n$a$ Institute of High Energy Physics & School_of Physical Sciences, University of Chinese Academy of Sciences,Beijing 10o049, China   \n$\\upsilon$ Department of Physics, Liaoning Normal University, Dalian 116029, China   \n$c$ Center for High Energy Physics, Peking University, Beijing 10o080, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The neutrinoless double-beta $( 0 \\nu 2 \\beta )$ decay is currently the only feasible process in particle and nuclear physics to probe whether massive neutrinos are the Majorana fermions. If they are of the Majorana nature and have a normal mass ordering, the effective neutrino mass term $\\langle m \\rangle _ { e e }$ ofa $0 \\nu 2 \\beta$ （204号 decay may suffer significant cancellations among its three components and thus sink into a decline, resulting in a “well” in the three-dimensional graph of $| \\langle m \\rangle _ { e e } |$ against the smallest neutrino mass $m _ { 1 }$ and the relevant Majorana phase $\\rho$ . We present a new and complete analytical understanding of the fine issues inside such a well,and identify a novel threshold of $| \\langle m \\rangle _ { e e } |$ in terms of the neutrino masses and favor mixing angles: $| \\langle m \\rangle _ { e e } | _ { * } = m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 }$ in connection with $\\tan \\theta _ { 1 2 } = \\sqrt { m _ { 1 } / m _ { 2 } }$ and $\\rho = \\pi$ . This threshold point,which links the local minimum and maximum of $| \\langle m \\rangle _ { e e } |$ , can be used to signify observability or sensitivity of the future $0 \\nu 2 \\beta$ -decay experiments.Given current neutrino Oscillation data, the possibility of $| \\langle m \\rangle _ { e e } | < | \\langle m \\rangle _ { e e } | _ { * }$ is found to be very small. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS number(s): 14.60.Pq, 13.15.+g, 25.30.Pt ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since Ettore Majorana first formulated a fermionic particle that should be its own antiparticle in 1937 [1],a huge amount of attention has been paid to the Majorana fermions in particle and nuclear physics and the Majorana zero modes in solid-state physics [2]. In particular after the experimental discoveries of solar，atmospheric,reactor and accelerator neutrino oscillations [3]，whether massive neutrinos are the Majorana fermions becomes an especially burning question among a number of fundamentally important questions in neutrino physics and cosmology. If this is the case, then the neutrinoless double-beta $( 0 \\nu 2 \\beta )$ decays of some even-even nuclei are expected to take place [4]. Namely, $N ( A , Z )  N ( A , Z + 2 ) + 2 e ^ { - }$ ,where the lepton number is violated by two units. Given the fact that the neutrino masses are so small that all the lepton-number-violating processes must be desperately suppressed,currently the unique and only feasible way to demonstrate the Majorana nature of massive neutrinos is to observe the $0 \\nu 2 \\beta$ decays. In this respect a number of ambitious experiments are either underway or in preparation [5]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the standard scheme of three neutrino flavors the rate of a $0 \\nu 2 \\beta$ decay is proportional to the squared modulus of the effective Majorana neutrino mass term [6] 1 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle m \\rangle _ { e e } = m _ { 1 } | U _ { e 1 } | ^ { 2 } e ^ { \\mathrm { i } \\rho } + m _ { 2 } | U _ { e 2 } | ^ { 2 } + m _ { 3 } | U _ { e 3 } | ^ { 2 } e ^ { \\mathrm { i } \\sigma } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { i }$ denotes the $i$ -th neutrino mass (for $i = { 1 , 2 , 3 }$ ）， $U _ { e i }$ is the corresponding element of the （204号 $3 \\times 3$ neutrino mixing matrix $U$ [8],and $\\rho$ and $\\sigma$ stand for the Majorana phases. One often chooses to parametrize $| U _ { e i } |$ as follows [3]: $| U _ { e 1 } | = \\cos \\theta _ { \\mathrm { { 1 2 } } } \\cos \\theta _ { \\mathrm { { 1 3 } } }$ ， $| U _ { e 2 } | = \\sin \\theta _ { 1 2 } \\cos \\theta _ { 1 3 }$ ，and $| U _ { e 3 } | = \\sin \\theta _ { 1 3 }$ The three mixing angles $\\theta _ { 1 2 }$ ， $\\theta _ { 1 3 }$ and $\\theta _ { 2 3 }$ have been determined to a good degree of accuracy from current neutrino oscillation data, so have been the value of $\\Delta m _ { 2 1 } ^ { 2 } \\equiv m _ { 2 } ^ { 2 } - m _ { 1 } ^ { 2 }$ and the modulus of $\\Delta m _ { 3 1 } ^ { 2 } \\equiv m _ { 3 } ^ { 2 } - m _ { 1 } ^ { 2 }$ [3]. But the sign of $\\Delta m _ { 3 1 } ^ { 2 }$ and the two phase parameters in Eq. (1) remain unknown, nor does the absolute neutrino mass scale. That is why $| \\langle m \\rangle _ { e e } |$ is usually plotted as a function of $m _ { 1 }$ （204 in the normal mass ordering(NMO) case ( $\\Delta m _ { 3 1 } ^ { 2 } > 0$ or $m _ { 3 }$ in the inverted mass ordering (IMO） case （ $\\Delta m _ { 3 1 } ^ { 2 } < 0$ ）by allowing $\\rho$ and $\\sigma$ to vary from O to $2 \\pi$ [9]. In such a so-called Vissani graph, a twodimensional “well can appear in the NMO situation due to a significant cancellation among the three components of $\\langle m \\rangle _ { e e }$ . The bottom of the well signifies the case of $| \\langle m \\rangle _ { e e } |  0$ [10], a disappointing possibility which is definitely consistent with the present experimental data. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Two immediate questions are in order: (1) how possble for the three neutrinos to have a NMO; (2) how possible for the actual value of $| \\langle m \\rangle _ { e e } |$ to fall into the well and become unobservable in any realistic $0 \\nu 2 \\beta$ experiments. A combination of current atmospheric (Super-Kamiokande [11]） and acceleratorbased （T2K [12] and NO $\\nu$ A [13]） neutrino oscillation data preliminarily favors the NMO at the $2 \\sigma$ （204 level. If this turns out to be the case,an answer to the second question willbe highly desirable because it can help interpret the discovery or null result of a $0 \\nu 2 \\beta$ experiment in the standard three-flavor scheme,although some kind of hypothetical (ad hoc) new physics may also contribute to $| \\langle m \\rangle _ { e e } |$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The present work aims to answer the second question by giving a new and complete analytical understanding of the fine structure of the three-dimensional well of $| \\langle m \\rangle _ { e e } |$ against $m _ { 1 }$ and $\\rho$ ，as illustrated in Fig. 1, where the best-fit values $\\Delta m _ { 2 1 } ^ { 2 } = 7 . 5 4 \\times 1 0 ^ { - 5 } ~ \\mathrm { e V } ^ { 2 }$ ， $\\Delta m _ { 3 1 } ^ { 2 } = 2 . 4 7 \\times 1 0 ^ { - 3 } ~ \\mathrm { e V ^ { 2 } }$ ， $\\sin ^ { 2 } \\theta _ { 1 2 } = 0 . 3 0 8$ and $\\sin ^ { 2 } \\theta _ { 1 3 } = 0 . 0 2 3 4$ [14] have been taken as the typical inputs. We identify a novel threshold of $| \\langle m \\rangle _ { e e } |$ which is located at the center of the well: $| \\langle m \\rangle _ { e e } | _ { * } = m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 }$ in connection with $\\tan \\theta _ { 1 2 } = \\sqrt { m _ { 1 } / m _ { 2 } }$ and $\\rho = \\pi$ . This threshold point links the local minimum and maximum of $| \\langle m \\rangle _ { e e } |$ ， and it can be used to signify the observability or sensitivity of the future $0 \\nu 2 \\beta$ -decay experiments. Given current neutrino oscillation data, the possibility of $| \\langle m \\rangle _ { e e } | < | \\langle m \\rangle _ { e e } | _ { * }$ is found to be very small. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce94174edc43412d0a7a310c340dcaa0a915c93c08a670b005ec2dbd1dd22f68.jpg",
+        "img_caption": [
+            "Figure 1: Three-dimensional illustration of the upper (orange） and lower (blue） bounds of $| \\langle m \\rangle _ { e e } |$ as functions of $m _ { 1 }$ and $\\rho$ in the NMO case,where the best-fit values $\\Delta m _ { 2 1 } ^ { 2 } = 7 . 5 4 \\times 1 0 ^ { - 5 } ~ \\mathrm { e V } ^ { 2 }$ ， （204 $\\Delta m _ { 3 1 } ^ { 2 } = 2 . 4 7 \\times 1 0 ^ { - 3 } ~ \\mathrm { e V ^ { 2 } }$ ， $\\sin ^ { 2 } \\theta _ { 1 2 } = 0 . 3 0 8$ and $\\sin ^ { 2 } \\theta _ { 1 3 } = 0 . 0 2 3 4$ [14] have typically been input. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1 shows that the depth of the well of $| \\langle m \\rangle _ { e e } |$ is mainly sensitive to a narrow parameter space of $m _ { 1 }$ and $\\rho$ ,while the other Majorana phase $\\sigma$ plays an important role in shaping the bottom of the well[15]. Thelatterpointcabeseninnaalticalwayasfllow.Taking $\\frac { \\partial | \\langle m \\rangle _ { e e } | } { \\partial \\sigma } = 0$ , we obtain ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tan \\sigma = { \\frac { m _ { 1 } \\sin \\rho } { m _ { 1 } \\cos \\rho + m _ { 2 } \\tan ^ { 2 } \\theta _ { 1 2 } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "so as to maximize or minimize $| \\langle m \\rangle _ { e e } |$ for the given values of $m _ { 1 }$ and $\\rho$ . Substituting Eq. (2) into the expression of $| \\langle m \\rangle _ { e e } |$ in Eq.(1),one arrives at the following upper (“U\"） and lower(\"L\"） bounds: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\langle m \\rangle _ { e e } | _ { \\mathrm { U , L } } = \\left| \\overline { { { m } } } _ { 1 2 } \\cos ^ { 2 } \\theta _ { 1 3 } \\pm m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 } \\right| ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the sign “ $^ +$ ” (or“ $-$ \"）corresponds to “U” (or“L\"),and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { m } } } _ { 1 2 } \\equiv \\sqrt { m _ { 1 } ^ { 2 } \\cos ^ { 4 } \\theta _ { 1 2 } + \\frac { 1 } { 2 } m _ { 1 } m _ { 2 } \\sin ^ { 2 } 2 \\theta _ { 1 2 } \\cos \\rho + m _ { 2 } ^ { 2 } \\sin ^ { 4 } \\theta _ { 1 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is easy to understand this result in an intuitive way: for any given values of $m _ { 1 }$ and $\\rho$ , the maximum of $| \\langle m \\rangle _ { e e } |$ comes out when the sum of the first two components of $\\langle m \\rangle _ { e e }$ has the same phase as the third one (i.e., $\\sigma$ ); and the minimum of $| \\langle m \\rangle _ { e e } |$ arises when the difference between these two phases is equal to $\\pm \\pi$ . The bottom of the well shown in Fig. 1 corresponds to $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } = 0$ , or equivalently ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { m } } } _ { 1 2 } = m _ { 3 } \\tan ^ { 2 } \\theta _ { 1 3 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given the expressions $m _ { 2 } = \\sqrt { m _ { 1 } ^ { 2 } + \\Delta m _ { 2 1 } ^ { 2 } }$ and $m _ { 3 } = \\sqrt { m _ { 1 } ^ { 2 } + \\Delta m _ { 3 1 } ^ { 2 } }$ in the NMO case, Eq. (5） allows us to fix how the two free parameters $m _ { 1 }$ and $\\rho$ are correlated with each other. Using the same best-fit inputs of $\\Delta m _ { 2 1 } ^ { 2 }$ ， $\\Delta m _ { 3 1 } ^ { 2 }$ ， $\\sin ^ { 2 } \\theta _ { 1 2 }$ and $\\sin ^ { 2 } \\theta _ { 1 3 }$ as those used in plotng Fig. 1， we illustrate the numerical correlation between $m _ { 1 }$ and $\\rho$ dictated by Eq. (5) in Fig. 2 — the red curve. Such a correlation curve roughly looks like an elipse,but a careful analytical check shows that it does not really obey the standard equation of an ellipse. Fig. 2 tels us that touching the bottom of the wel (i.e., $| \\langle m \\rangle _ { e e } |  0 \\$ ） is not a highly probable event at all, because it requires $m _ { 1 }$ and $\\rho$ to lie in the narrow regions $2 \\ \\mathrm { m e V } \\lesssim m _ { 1 } \\lesssim 7 \\ \\mathrm { m e V }$ and $0 . 8 6 \\lesssim \\rho / \\pi \\lesssim 1 . 1 4$ , respectively [16]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/59af145ed5c402336bbfd5376f8df4c0f0629e291c144e88a49dcf16f1e39cfb.jpg",
+        "img_caption": [
+            "Figure 2: The numerical correlation between $m _ { 1 }$ and $\\rho$ in three typical cases: (a) $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } = 0$ （20 (the red curve); (b) $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } = | \\langle m \\rangle _ { e e } | _ { * } = m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 }$ (the black dot and the blue curve); and (c) （204号 $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } = n | \\langle m \\rangle _ { e e } | _ { * }$ with $n \\geq 2$ (the black curves). Here the best-ft values of $\\Delta m _ { 2 1 } ^ { 2 }$ ， $\\Delta m _ { 3 1 } ^ { 2 }$ ， $\\sin ^ { 2 } \\theta _ { 1 2 }$ （20 and $\\sin ^ { 2 } \\theta _ { 1 3 }$ used in plotting Fig. 1 have been input. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another salient feature of the well is the “bullet\"-like structure of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } }$ as shown in Fig. 1, corresponding to the parameter space of $\\overline { { m } } _ { 1 2 } \\leq m _ { 3 } \\tan ^ { 2 } \\theta _ { 1 3 }$ . In other words, the surface of this bullet is described by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } = m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 } - \\overline { { { m } } } _ { 1 2 } \\cos ^ { 2 } \\theta _ { 1 3 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The extremum of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } }$ in this inner region of the well is supposed to be located at a point fixed by the following two conditions: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { n \\rangle _ { e e } | _ { \\mathrm { L } } } { \\partial \\rho } = \\frac { m _ { 1 } m _ { 2 } \\sin ^ { 2 } 2 \\theta _ { 1 2 } \\cos ^ { 2 } \\theta _ { 1 3 } } { 4 \\overline { { m } } _ { 1 2 } } \\sin \\rho = 0 , } \\\\ & { \\frac { n \\rangle _ { e e } | _ { \\mathrm { L } } } { m _ { 1 } } = \\frac { m _ { 1 } } { m _ { 3 } } \\sin ^ { 2 } \\theta _ { 1 3 } - \\frac { m _ { 2 } \\overline { { m } } _ { 1 2 } ^ { 2 } - \\Delta m _ { 2 1 } ^ { 2 } \\sin ^ { 2 } \\theta _ { 1 2 } \\left( m _ { 2 } \\sin ^ { 2 } \\theta _ { 1 2 } + m _ { 1 } \\cos ^ { 2 } \\theta _ { 1 2 } \\cos \\rho \\right) } { m _ { 1 } m _ { 2 } \\overline { { m } } _ { 1 2 } } \\cos ^ { 2 } \\theta _ { 1 2 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The first condition definitely leads us to $\\rho = 0$ or $\\pi$ . But Fig. 2 clearly shows that $\\rho$ should only take a value around $\\pi$ inside the well, and thus it is appropriate to take $\\rho = \\pi$ instead of $\\rho = 0$ .In this case $\\overline { { m } } _ { 1 2 } = \\left| m _ { 1 } \\cos ^ { 2 } \\theta _ { 1 2 } - m _ { 2 } \\sin ^ { 2 } \\theta _ { 1 2 } \\right|$ holds,and the second condition in Eq. (7) is simplified to ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial | \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } } { \\partial m _ { 1 } } = \\frac { m _ { 1 } } { m _ { 3 } } \\sin ^ { 2 } { \\theta _ { 1 3 } } \\pm \\left( \\cos ^ { 2 } { \\theta _ { 1 2 } } - \\frac { m _ { 1 } } { m _ { 2 } } \\sin ^ { 2 } { \\theta _ { 1 2 } } \\right) \\cos ^ { 2 } { \\theta _ { 1 3 } } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where“ $\\pm$ ” correspond to the prerequisites $m _ { 1 } < m _ { 2 } \\tan ^ { 2 } \\theta _ { 1 2 }$ and $m _ { 1 } > m _ { 2 } \\tan ^ { 2 } \\theta _ { 1 2 }$ ， respectively. But in reality Eq. (8) can never be fulfled since its second term is much larger than its first term as a result of (a) $2 . 5 0 \\times 1 0 ^ { - 1 } \\leq \\sin ^ { 2 } \\theta _ { 1 2 } \\leq 3 . 5 4 \\times 1 0 ^ { - 1 }$ and $1 . 8 5 \\times 1 0 ^ { - 2 } \\leq \\sin ^ { 2 } \\theta _ { 1 3 } \\leq 2 . 4 6 \\times 1 0 ^ { - 2 }$ at the $3 \\sigma$ （204号 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "level [14] and (b) $m _ { 1 } / m _ { 3 } \\le m _ { 1 } / m _ { 2 }$ in the NMO case. Nevertheless, Eq. (8) can at least allow us to draw a conclusion that is absolutely consistent with current experimental data: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\frac { \\partial | \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } } { \\partial m _ { 1 } } > 0 \\quad \\mathrm { f o r } \\quad m _ { 1 } < m _ { 2 } \\tan ^ { 2 } \\theta _ { 1 2 } \\ : , } } \\\\ { { \\displaystyle \\frac { \\partial | \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } } { \\partial m _ { 1 } } < 0 \\quad \\mathrm { f o r } \\quad m _ { 1 } > m _ { 2 } \\tan ^ { 2 } \\theta _ { 1 2 } \\ : . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This observation means that $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } }$ increases when $m _ { 1 } < m _ { 2 } \\tan ^ { 2 } \\theta _ { 1 2 }$ holds,and it decreases when $m _ { 1 } > m _ { 2 } \\tan ^ { 2 } \\theta _ { 1 2 }$ holds. Hence there must be a local maximum for $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } }$ , denoted as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\langle m \\rangle _ { e e } | _ { * } = m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 } = \\sqrt { m _ { 1 } ^ { 2 } + \\Delta m _ { 3 1 } ^ { 2 } } ~ \\sin ^ { 2 } \\theta _ { 1 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "at the position fixed by $\\rho = \\pi$ and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { 1 } = m _ { 2 } \\tan ^ { 2 } \\theta _ { 1 2 } = \\sqrt { m _ { 1 } ^ { 2 } + \\Delta m _ { 2 1 } ^ { 2 } } \\tan ^ { 2 } \\theta _ { 1 2 } \\quad \\Longrightarrow \\quad m _ { 1 } = \\sqrt { \\Delta m _ { 2 1 } ^ { 2 } } \\frac { \\sin ^ { 2 } \\theta _ { 1 2 } } { \\sqrt { \\cos 2 \\theta _ { 1 2 } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Fig.1 this point is exactly the tip of the bullet inside the wel! In other words,the local maximum of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } }$ arises from Eq. (6） at $\\overline { { m } } _ { 1 2 } = 0$ . Given the best-fit values of $\\Delta m _ { 2 1 } ^ { 2 }$ ， $\\Delta m _ { 3 1 } ^ { 2 }$ ， $\\sin ^ { 2 } \\theta _ { 1 2 }$ and （20 $\\sin ^ { 2 } \\theta _ { 1 3 }$ that have been used in plotting Fig.1,the numerical location of the tip of the bullt turns out to be $( m _ { 1 } , \\rho , | \\langle m \\rangle _ { e e } | _ { * } ) \\simeq ( 4 \\mathrm { m e V } , 1 8 0 ^ { \\circ } , 1 \\mathrm { m e V } )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The above analysis explains why the bottom of the well does not converge to a single point and why it is not fat either. In a similar way onecan understand why there is a local minimum for $| \\langle m \\rangle _ { e e } | _ { \\mathrm { U } }$ ， as shown in Fig. 1. The extremum of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { U } }$ is expected to be located at a position determined by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { \\vert \\mathbf { U } } { \\vert \\mathbf { U } } = \\frac { m _ { 1 } m _ { 2 } \\sin ^ { 2 } 2 \\theta _ { 1 2 } \\cos ^ { 2 } \\theta _ { 1 3 } } { 4 \\overline { { m } } _ { 1 2 } } \\sin \\rho = 0 , } \\\\ & { \\frac { \\vert \\mathbf { U } } { \\vert \\mathbf { U } } = \\frac { m _ { 1 } } { m _ { 3 } } \\sin ^ { 2 } \\theta _ { 1 3 } + \\frac { m _ { 2 } \\overline { { m } } _ { 1 2 } ^ { 2 } - \\Delta m _ { 2 1 } ^ { 2 } \\sin ^ { 2 } \\theta _ { 1 2 } \\left( m _ { 2 } \\sin ^ { 2 } \\theta _ { 1 2 } + m _ { 1 } \\cos ^ { 2 } \\theta _ { 1 2 } \\cos \\rho \\right) } { m _ { 1 } m _ { 2 } \\overline { { m } } _ { 1 2 } } \\cos ^ { 2 } \\theta _ { 1 3 } = 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Of course, only $\\rho = \\pi$ is allowed with respect to the first condition in Eq. (12). The second condition in Eq. (12) can never be satisfied for the same realistic reasons given below Eq. (8). An analogous and straightforward analysis tells us that the local minimum of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { U } }$ exactly coincides with the local maximum of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } }$ ， and thus both of them are described by Eqs. (1O) and (11). This interesting result explains why the upper (in orange) and lower (in blue) bounds of $| \\langle m \\rangle _ { e e } |$ connect with each other in Fig.1 when $m _ { 1 } = \\sqrt { m _ { 1 } ^ { 2 } + \\Delta m _ { 2 1 } ^ { 2 } } \\tan ^ { 2 } \\theta _ { 1 2 }$ and $\\rho = \\pi$ hold. Note that the overlap of the local maximum of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } }$ and the local minimum of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { U } }$ can also be understood from Eq. (3) itself. At $m _ { 1 } = \\sqrt { m _ { 1 } ^ { 2 } + \\Delta m _ { 2 1 } ^ { 2 } } \\tan ^ { 2 } \\theta _ { 1 2 }$ and $\\rho = \\pi$ ， one simply has $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } = | \\langle m \\rangle _ { e e } | _ { \\mathrm { U } } = m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 }$ as a consequence of $\\overline { { m } } _ { 1 2 } = 0$ . So $| \\langle m \\rangle _ { e e } | _ { * } = m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 } \\simeq 1 \\ \\mathrm { m e V }$ I stands for a threshold of $| \\langle m \\rangle _ { e e } |$ in the NMO case. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To visualize the steepness of the slope of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } }$ around the well in Fig. 1, let us project its contour onto the $m _ { 1 } { - } \\rho$ plane by taking $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } = n | \\langle m \\rangle _ { e e } | _ { \\ast }$ (for $n = 0 , 1 , 2 , \\cdots ,$ in Fig.2. It is especially interesting to compare between the contours of the well at its bottom with $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } = 0$ （204号 (the red curve) and at its threshold height with $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } = | \\langle m \\rangle _ { e e } | _ { \\ast }$ (the blue curve and the black point). They clearly show how the well becomes narrower when the value of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } }$ goes down. The profile of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } }$ will be partially open and thus lose its “well” feature as $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } \\geq 2 | \\langle m \\rangle _ { e e } | _ { * }$ is taken into account. Now that $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } > | \\langle m \\rangle _ { e e } | _ { * }$ always holds outside the blue curve in Fig. 2,we argue that the parameter space of $| \\langle m \\rangle _ { e e } | _ { \\mathrm { L } } \\leq | \\langle m \\rangle _ { e e } | _ { * }$ (i.e., $0 . 4 \\mathrm { m e V } \\lesssim m _ { 1 } \\lesssim 1 0 \\mathrm { m e V }$ and $0 . 6 6 \\lesssim \\rho / \\pi \\lesssim 1 . 3 4 ,$ is a simple measure of the chance for $| \\langle m \\rangle _ { e e } |$ to fall into the well and become completely unobservable. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e519a15a223fcfd481f8b32ac7f4e75c096819a9616996ebfaad4245ad42886.jpg",
+        "img_caption": [
+            "Figure 3: The parameter space of $m _ { 1 }$ ， $\\rho$ and $\\sigma$ allowed for $| \\langle m \\rangle _ { e e } | < | \\langle m \\rangle _ { e e } | _ { * }$ to hold,where the best-fit values of $\\Delta m _ { 2 1 } ^ { 2 }$ ， $\\Delta m _ { 3 1 } ^ { 2 }$ ， $\\sin ^ { 2 } \\theta _ { 1 2 }$ and $\\sin ^ { 2 } \\theta _ { 1 3 }$ used in plotting Fig. 1 have been input. The intersecting surfaces for $m _ { 1 } = 1 , 2 , 4$ and 6 meV on the $\\rho$ $\\sigma$ plane are explicitly shown in the figure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In general, $| \\langle m \\rangle _ { e e } |$ depends on all the three unknown parameters $m _ { 1 }$ ， $\\rho$ and $\\sigma$ . To illustrate how probable or improbable for $| \\langle m \\rangle _ { e e } |$ to have a value smaller than $| \\langle m \\rangle _ { e e } | _ { * }$ in a more explicit way, we plot the three-dimensional parameter space of $m _ { 1 }$ ， $\\rho$ and $\\sigma$ in Fig.3,wherethe best-fit values of $\\Delta m _ { 2 1 } ^ { 2 }$ ， $\\Delta m _ { 3 1 } ^ { 2 }$ ， $\\sin ^ { 2 } \\theta _ { 1 2 }$ and $\\sin ^ { 2 } \\theta _ { 1 3 }$ used in ploting Figs.1 and 2 have been input. For clarity, the intersecting surfaces on the $\\rho$ $\\sigma$ plane corresponding to $m _ { 1 } = 1 , 2 , 4$ and $6 \\mathrm { m e V }$ are specified in the figure. One can see that this parameter space is very small as compared with the whole cubic space (i.e.,the whole regions of $m _ { 1 }$ ， $\\rho$ and $\\sigma$ allowed by current experimental constraints). In comparison with $m _ { 1 }$ and $\\rho$ ， the phase $\\sigma$ is only weakly constrained in Fig. 3. When the first two components of $\\langle m \\rangle _ { e e }$ in Eq. (1) essentially cancel each other out (i.e., $2 \\ \\mathrm { m e V } \\lesssim m _ { 1 } \\lesssim 7 \\ \\mathrm { m e V }$ and $0 . 8 6 \\lesssim \\rho / \\pi \\lesssim 1 . 1 4 )$ , a large part of the range of $\\sigma$ is allowed (e.g., the black intersecting surface corresponding to $m _ { 1 } = 4 ~ \\mathrm { m e V }$ in Fig. 3). But when the value of $m _ { 1 }$ decreases, the value of $\\sigma$ should approach $\\pi$ , such as the green intersecting surface corresponding to $m _ { 1 } = 1$ meV in Fig. 3. In this case the second component of $\\langle m \\rangle _ { e e }$ in Eq.(1） can be cancelld by the other two components to a maximal level. For a similar reason, the value of $\\sigma$ should approach O or $2 \\pi$ when the value of $m _ { 1 }$ increases (e.g., the blue intersecting surface corresponding to $m _ { 1 } = 6 ~ \\mathrm { m e V }$ in Fig. 3). In any case we conclude that the possibility of $| \\langle m \\rangle _ { e e } | < | \\langle m \\rangle _ { e e } | _ { * }$ involves significant cancellations among its three components and is really small. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From an experimental point of view, the threshold $| \\langle m \\rangle _ { e e } | _ { * }$ should signify an ultimate limit of the reachable sensitivity to $| \\langle m \\rangle _ { e e } |$ in the foreseeable future. At present the most sensitive $0 \\nu 2 \\beta$ decay experiments can only set an upper limit of $| \\langle m \\rangle _ { e e } |$ around 165 meV [17]，which depends on some theoretical uncertainties in calculating the relevant nuclear matrix elements [18]. The most ambitious next-generation high-sensitivity $0 \\nu 2 \\beta$ -decay experiments (e.g.，nEXO [19]） are likely to probe $| \\langle m \\rangle _ { e e } |$ at the level of a few tens of meV $^ 2$ [5],a sensitivity still much larger than the threshold value $| \\langle m \\rangle _ { e e } | _ { * } \\simeq 1$ meV 3. In this sense there would be no hope to observe any $0 \\nu 2 \\beta$ -decay signal if （204号 $| \\langle m \\rangle _ { e e } |$ were unfortunately around or below the value of $| \\langle m \\rangle _ { e e } | _ { * }$ in the standard three-flavor scheme. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Before ending our discussions about $\\langle m \\rangle _ { e e }$ and its possible parameter space in the NMO case, let us briefly comment on the relationship $\\tan \\theta _ { 1 2 } = \\sqrt { m _ { 1 } / m _ { 2 } }$ from a model-building point of view. This condition, together with $\\rho = \\pi$ ， allows for $| \\langle m \\rangle _ { e e } | = | \\langle m \\rangle _ { e e } | _ { * } = m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 }$ as a remarkable threshold. It is well known that the Cabibbo angle $\\theta _ { \\mathrm { C } }$ of quark flavor mixing can be related to the ratio of quark masses $m _ { d }$ and $m _ { s }$ in a class of models [22]: $\\tan \\theta _ { \\mathrm { C } } \\simeq \\sqrt { m _ { d } / m _ { s } }$ ，which is consistent with the experimental data to a good degree of accuracy. In comparison, the possibility of $\\tan \\theta _ { 1 2 } \\simeq \\sqrt { m _ { 1 } / m _ { 2 } }$ （20 is also interesting, in particular when the NMO is true for the three mass eigenstates of $\\nu _ { e }$ ， $\\nu _ { \\mu }$ and $\\nu _ { \\tau }$ （204号 neutrinos. For example, we find that an effctive Majorana neutrino mass matrix of the form ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { \\nu } = \\left( \\begin{array} { c c c } { { 0 } } & { { A } } & { { A } } \\\\ { { A } } & { { B } } & { { C } } \\\\ { { A } } & { { C } } & { { B } } \\end{array} \\right) - m _ { 3 } \\frac { \\sin \\theta _ { 1 3 } } { \\sqrt { 2 } } \\left( \\begin{array} { c c c } { { \\sqrt { 2 } \\sin \\theta _ { 1 3 } } } & { { + \\mathrm { i } } } & { { - \\mathrm { i } } } \\\\ { { + \\mathrm { i } } } & { { 0 } } & { { 0 } } \\\\ { { - \\mathrm { i } } } & { { 0 } } & { { 0 } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $A$ ， $B$ and $C$ are all real, can essentially predict $| \\langle m \\rangle _ { e e } | = m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 }$ and $\\tan \\theta _ { 1 2 } = \\sqrt { m _ { 1 } / m _ { 2 } }$ （204号 together with $\\theta _ { 2 3 } = \\pi / 4$ ， $\\delta = - \\pi / 2$ ， $\\rho = \\pi$ and $\\sigma = 0$ in the standard parametrization of $U$ . Because $M _ { \\nu }$ possesses the exact $\\mu$ $\\tau$ reflection symmetry, which can easily be simplified to the $\\mu$ $\\tau$ permutation symmetry in the $\\theta _ { 1 3 } \\to 0$ limit，one may take it as a starting point to build a phenomenological neutrino mass model in this connection [23]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, we have achieved some new and important insights into the effective neutrino mass （204号 $\\langle m \\rangle _ { e e }$ of the $0 \\nu 2 \\beta$ decays in the NMO case — a case which seems to be more likely than the IMO case according to today's preliminary experimental data. Because $| \\langle m \\rangle _ { e e } |$ depends not only on the unknown neutrino mass $m _ { 1 }$ but also on the free Majorana phases $\\rho$ and $\\sigma$ ,a novel three-dimensional presentation of $| \\langle m \\rangle _ { e e } |$ against $m _ { 1 }$ and $\\rho$ reveals an intriguing“well” structure in the NMO case. The present work provides a new and complete analytical understanding of the fine issues inside such a well. We find a particularly interesting threshold of $| \\langle m \\rangle _ { e e } |$ in terms of the neutrino masses and flavor mixing angles: $| \\langle m \\rangle _ { e e } | _ { * } = m _ { 3 } \\sin ^ { 2 } \\theta _ { 1 3 }$ in connection with $\\tan \\theta _ { 1 2 } = \\sqrt { m _ { 1 } / m _ { 2 } }$ and $\\rho = \\pi$ We suggest that this threshold point,which links the local minimum and maximum of $| \\langle m \\rangle _ { e e } |$ ,be used to signify observability or sensitivity of the future $0 \\nu 2 \\beta$ -decay experiments. In view of current neutrino oscillation data, we conclude that the possibility of $| \\langle m \\rangle _ { e e } | < | \\langle m \\rangle _ { e e } | _ { * }$ must be very small. In other words,it should be very promising to detect a signal of the $0 \\nu 2 \\beta$ decays and verify the Majorana nature of massive neutrinos in a foreseeable future, even if they have a normal mass spectrum. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "One of us (Z.Z.X.） would like to thank J. Angel and S.T. Petcov for interesting communications during the DBDl6 workshop in Osaka, where this work was initiated. We are also grateful to Y.F. Li, J. Zhang and S. Zhou for some useful discussions,and to Z.C. Liu and Y. Lu for their kind helps in ploting the figures. This work is supported in part by the National Natural Science Foundation of China under grant No. 11135009 (Z.Z.X.) and grant No. 11605081 (Z.H.Z.). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2] S.R. Elliott and M. Franz, Rev. Mod. Phys.87, 137 (2015).   \n[3] C. Patrignani et al. (Particle Data Group), Chin. Phys. C 40, 100001 (2016).   \n[4] W.H. Furry, Phys. Rev. 15, 1184 (1939).   \n[5] For a recent review with extensive references,see: S.M. Bilenky and C. Giunti, Int. J. Mod. Phys. A 30,0001 (2015)； S. DellOro, S. Marcocci, M. Viel and F. Vissani, Adv. High Energy Phys. 2016,2162659 (2016); J.D. Vergados,H. Ejiri and F. Simkovic,arXiv:1612.02924.   \n[6] S.M. Bilenky, J. Hosek and S.T. Petcov,Phys. Lett. B 94, 495 (1980); J. Schechter and J.W.F. Valle,Phys. Rev. D 22, 2227 (1980); M. Doi, T. Kotani, H. Nishiura, K. Okuda and E. Takasugi, Phys. Lett. B 102, 323 (1981).   \n[7] Z.Z. Xing and Y.L. Zhou, Chin. Phys.C 39,011001 (2015)； Mod. Phys. Lett. A 30,1530019 (2015)； Adv. Ser. Direct. High Energy Phys. 25,157 (2015).   \n[8] Z. Maki, M. Nakagawa and S. Sakata, Prog. Theor. Phys. 28,870 (1962); B. Pontecorvo, Sov. Phys. JETP 26, 984 (1968).   \n[9] F. Vissani, JHEP 06, 022 (1999).   \n[10] W. Rodejohann, Nucl. Phys. B 597,110 (2001); Z.Z. Xing, Phys. Rev. D 68, 053002 (2003); W. Rodejohann, Int. J. Mod. Phys. E 20,1833 (2011); S. Del'oro, S. Marcocci and F. Vissani, Phys. Rev. D 90,033005 (2014).   \n[11] See,e.g.,B.Rebel,talk given at the XIV International Conference on Topics in Astroparticle and Underground Physics, September 2015, Torino, Italy.   \n[12] K. Abe et al., Phys. Rev. Lett. 112,181801 (2014).   \n[13] See,e.g.， C. Kachulis, talk given at the EPS Conference on High Energy Physics,July 2015, Vienna, Austria.   \n[14] F. Capozzi et al., Phys. Rev.D 89,093018 (2014). Se also F. Capozzi et al., Nucl. Phys.B 908, 218 (2016); D.V. Forero, M. Tortola and J.W.F. Valle, Phys. Rev. D 90, 093006 (2014); M.C. Gonzalez-Garcia, M. Maltoni and T. Schwetz, JHEP 1411, 052 (2014).   \n[15] Z.Z. Xing, Z.H. Zhao and Y.L. Zhou, Eur. Phys. J. C 75, 423 (2015).   \n[16] See also G. Benato, Eur. Phys. J. C 75, 563 (2015).   \n[17] A. Gando et al. (KamLAND-Zen Collaboration),Phys. Rev. Lett.117, 082503 (2016).   \n[18] J. Engel and J. Menendez, arXiv:1610.06548.   \n[19] Y.Lin, talk given a the APR15 meeting of APS, 2015.   \n[20] S.F. Ge and M. Lindner, arXiv:1608.01618.   \n[21] S. Pascoli and S.T. Petcov, Phys. Rev. D 77, 113003 (2008).   \n[22] S. Weinberg, in Transactions of the New York Academy of Sciences 38,185 (1977); F. Wilczek and A. Zee,Phys. Lett.B 70, 418 (1977); H. Fritzsch, Phys. Lett.B 70,436 (1977); B 73, 317 (1978); F. Vissani, Phys. Lett. B 508,79 (2001). For a review, see: H. Fritzsch and Z.Z. Xing, Prog. Part. Nucl. Phys. 45,1 (2000).   \n[23] For the latest review with extensive references,see: Z.Z. Xing and Z.H. Zhao, Rept. Prog. Phys. 79, 076201 (2016). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

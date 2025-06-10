@@ -1,0 +1,162 @@
+# 去泛素化酶OTUB1肝脏特异性基因敲除小鼠模型的构建与表型分析
+
+郭超婧，朱琼，张新，李磊，张令强\*（军事科学院军事医学研究院生命组学研究所，蛋白质组学国家重点实验室，北京100850）
+
+摘要目的：建立OTUB1肝脏特异性基因敲除小鼠模型，初步分析其表型并研究OTUB1基因与肝脏代谢的关系。方法：利用Cre/Loxp 系统构条件性基因敲除小鼠模型，即将OTUBlfl/fl转基因小鼠与Alb-Cre小鼠杂交，子代自交，得到OTUBI肝特异性基因敲除小鼠并进行鉴定。取同窝对照小鼠（control，NC）和肝特异型基因敲除（hepatic-specific OTUB1knockout，HCKO）小鼠，通过PCR和免疫印迹（Westernblot，WB），确证OTUBI肝脏特异性基因敲除小鼠模型是否成功构建。通过组织病理学方法，分析主要组织器官的形态以及是否存在自发的病变；通过血清生化指标检测肝脏脂代谢水平；通过血糖耐受实验（GTT）分析HCKO小鼠对血糖的控制。结果：基因组测序和WB检测结果显示HCKO小鼠肝脏中OTUB1被敲除，其他组织中OTUB1表达水平无变化，证明OTUB1肝脏特异性基因敲除小鼠模型构建成功。HCKO小鼠出生正常，各组织器官无异常，生化指标中总胆固醇水平明显降低，表明OTUB1影响肝脏脂代谢水平。糖耐受实验中HCKO小鼠血糖回落迅速，表明敲除OTUB1影响肝脏血糖调节稳态。结论：应用Cre/Loxp技术成功建立OTUB1肝脏特异性基因敲除小鼠模型，为研究OTUB1在肝脏的生理功能和调控机制提供了重要的动物模型。
+
+关键词OTUB1；Cre/Loxp系统；肝脏特异性基因敲除小鼠；代谢  
+中图分类号 文献标志码  
+文章编号
+
+# Generation and Phenotypic Analysis of Hepatic-specific Deubiquitinase OTUB1 Knockout Mice Model
+
+GUO Chao-jing， ZHU Qiong， ZHANG Xin，LI Lei， ZHANG Ling-qiang
+
+(State Key Laboratoryof Proteomics,Beijing InstituteofLifeomics,AcademyofMilitary Medical Sciences,Academy   
+of Military Sciences，Beijing，100850,China)   
+$^ *$ ZHANG Ling-qiang，Email: zhanglq@nic.bmi.ac.cn
+
+Abstract OBJECTIVE: Construct hepatic-specific knockout mice model of OTUB1, the important deubiquitinase of ovarian tumor domain(OTU) protease superfamily, preliminarily analysis the phenotype of hepatic-specific OTUB1 knockout mice model and explore the physiological function of OTUB1 in liver metabolism.METHODS: A mouse model of conventionally disrupting OTUBl gene in liver using Cre/Loxp system was generate. The obtained $O T U B I ^ { \mathit { f l } / \mathit { f l } }$ transgenic mice were crossed with Alb-Cre mice and PCR was used to identify the genotype of its offspring. Furthermore, liver-specific OTUB1 knockout mice were obtained by self-crossng the offspring and PCR was used to identify the genotype. At the same time, OTUBl protein expression level was detected in tissues and organs of adult mice, include liver and other major organs, from hepatic-specific OTUB1-knockout (HCKO) mice and the control group (Control, NC) litermate mice,and Western blot (WB) were used to detected and evaluated OTUBl protein levels. The data indicated whether the hepatic-specific OTUB1 knockout mouse model was successfully constructed. Once comfirmed OTUB1 was truly mutant expression in the liver of HCKO mice, histopathological examination was performed and analyzed the morphology of liver, stomach and spleen, which was analyzed whether there was any spontaneous pathological change existed. In addition, the main biochemical indicators of the liver were detected and analyzed by serum to reflect liver lipid metabolism function in HCKO mice. Moreover, the level of blood glucose metabolism control was recorded and compared between HCKO mice and NC littermate mice through the Glucose Tolerance Test (GTT). RESULTS: The genomic sequencing and Western blot analysis showed that OTUB1 was significantly deleted only in the liver of HCKO mice, but the protein expression level of OTUB1 in other tissues was unchanged at all, where the Alb-Cre transgene is not expressed, such as the kidney, spleen, fat and muscle, which proved that the hepatic-specific OTUB1 knockout mouse model was successfully constructed. Genotyping the offspring of OTUB1 hepatic-conditional knockout mice showed its were born normally. Also, these HCKO mice stayed healthy, without spontaneous histopathological abnormalities in embryonic development.Moreover, the total cholesterol levels in biochemical indicators were significantly lower in HCKO mice lessthan in NC mice, indicating that the OTUB1 afects liver lipid metabolism level to a certain extent. In glucose tolerance test, the blood glucose level of HCKO mice decreased rapidly after reaching its highest level, suggesting that the homeostasis of liver blood glucose depended on the regulation of OTUB1. CONCLUSIONS: The hepatic-specific OTUB1 knockout mouse model was successfully established by Cre/Loxp technology strategy, which are essential for research deubiquitinase OTUBl in physiological condition，as wellas provide an important animal model for studying the physiological functions and regulatory mechanisms of OTUB1 in the liver.
+
+Key Words: OTUB1; Cre/Loxp; Hepatic-specific knockout mice; Metabolism
+
+泛素化(Ubiquitination)是重要的蛋白质翻译后修饰方式之一，通过靶向底物蛋白，调节其蛋白水平、活性以及功能[]。去泛素化酶（Deubiquitylase，DUB)是一类可以移除泛素的异肽酶类，维持体内的泛素化修饰平衡。目前，已报道的去泛素化酶主要有六大类：UBP/USP家族、UCH家族、JAMM 家族、OTU家族、MJD家族和MCPIP家族。近年来去泛素化酶的研究被逐渐重视起来，已被报道参与免疫应答，DNA损伤，生长发育，肿瘤与代谢等多个细胞和生理病理过程。
+
+OTUB1 (OTU domain-containing ubiquitin aldehyde binding protein)属于DUB中OTU家族的成员，2003 年从Hela 细胞中首次发现报道[2]。OTUB1基因位于人染色体11q13.1上，在人体多种组织部位中表达，例如肾、结直肠、胃、脑和肝[3，4]。
+
+从酵母到哺乳动物，0TUB1的结构具有高度的保守性，均含有由130个氨基酸残基组成的OTU 结构域。与其他半胱氨酸蛋白酶一样，OTUB1含有由Cys（C）91，His（H）265 和Asp（D）268 组成的催化三联体。体外去泛素化修饰中，OTUB1优先去除K48连接的多聚泛素化链。
+
+功能上，OTUB1可以通过非经典机制和传统机制，调控泛素化并控制蛋白质的稳定性和活性。OTUB1参与多种生理和病理过程的调节，包括免疫反应，DNA损伤反应，肿瘤发生，以及病原生物学的调控。具体来说，OTUB1可以通过GRAIL调节 $\mathrm { C D 4 + T }$ 细胞免疫[5]，稳定TRAF3/6[6]，通过抑制 SMAD2/3 的泛素化和降解来增强转化生长因子β（TGF-β）[]，通过稳定化c-IAP1调节细胞凋亡并且参与细胞核因子 ${ \tt N F - \tt { x } \mathrm { { B } } }$ 和丝裂原活化蛋白激酶（MAPK）信号通路的激活[8]。到目前为止，已有研究证实OTUB1与肿瘤发生密切相关，在多种肿瘤组织中OTUB1高度表达，包括肺癌，结肠癌，卵巢癌和肝细胞癌。同时，OTUB1也影响肿瘤转移，与预后和生活质量呈负相关[9-12]。然而，目前尚未有研究报道OTUB1在肝脏中的生理功能，对于OTUB1是否参与肝脏代谢的仍然不清楚。
+
+条件性基因敲除动物模型，是有效研究基因在特定组织器官生理功能的实验方法，为了研究OTUB1对肝脏功能的影响，本研究构建了OTUB1肝脏特异性基因敲除小鼠模型，并进行了鉴定与初步表型分析,为深入研究OTUB1在肝脏中的生理功能及调控机制提供了重要的动物模型。
+
+# 1材料与方法
+
+# 1.1 材料
+
+肝脏组织特异表达Cre重组酶转基因小鼠（Alb-Cre）购于南京大学模式动物研究所；所有实验小鼠饲养于军事医学研究院动物房屏障级设施；小鼠基因型鉴定引物由北京擎科新业生物技术有限公司合成合成；PCRTaq-Mix，DNA markers购自Genstar公司；基因组DNA提取试剂盒，购于天根生化科技（北京）有限公司；OTUB1抗体购自Abcam公司，Tubulin抗体购自于中杉金桥公司；蛋白marker、ECL发光液试剂盒购自Thermo公司；X光胶片购自柯达公司；1mL一次性注射器购自山东新华安得医疗用品有限公司，罗氏血糖仪和血糖试纸购自罗氏公司；TG、TC、LDL-c和HDL-c测定试剂盒购于南京建成生物工程研究所。
+
+# 1.2方法
+
+1.2.1 打靶载体构建和嵌合体小鼠获得小鼠OTUB1转录本具有7个外显子区，根据生物信息学分析，flox区域为第2、3外显子，loxp、neo、frt等元件放在内含子中，flox区域移除后可导致由无义介导的mRNA 降解，运用ET克隆的方法构建条件性剔除的载体。将载体电击转染ES 细胞后筛选，得到的阳性克隆，通过囊胚注射，得到嵌合体小鼠（FO代），PCR鉴定基因型。
+
+1.2.2 OTUB1小鼠的获得和 PCR 鉴定发育到期的嵌合体小鼠，选取毛色嵌合率大于$9 0 \%$ 的雄鼠与野生型C57BL/6N小鼠杂交,得到OTUB1杂合小鼠，进一步自交得到 $O T U B I ^ { f l / f l }$ 纯合子小鼠。提取小鼠鼠尾基因组DNA，PCR 鉴定确定小鼠基因型。OTUB1-F和OTUB1-R分别位于敲除的片段前后，设计引物见表1。
+
+表1OTUB1肝脏特异性基因敲除小鼠鉴定引物  
+Table.1 Primer for genotyping ofOTUBlHCKO mice   
+
+<html><body><table><tr><td>Primer</td><td>Sequence（5’-3’）</td></tr><tr><td>OTUB1-F1</td><td>TACTCGCACACCCTACTCTAACTC</td></tr><tr><td>OTUB1-R1</td><td>TCCTTCTGTGGTCCCCTGTATTG</td></tr><tr><td>Cre-F</td><td>TTGGCCCCTTACCATAACTG</td></tr><tr><td>Cre-R</td><td>GAAGCAGAAGCTTAGGAAGATGG</td></tr></table></body></html>
+
+1.2.30TUB1肝脏特异性基因敲除小鼠的获得和鉴定 $O T U B I ^ { f I / f I }$ 纯合子小鼠和肝特异性表达Cre 酶的Alb-Cre 小鼠杂交，得到 $O T U B I ^ { f l / - }$ $. A l b - C r e ^ { + / - }$ 杂合子小鼠，然后与${ 0 } \mathrm { T U B } 1 ^ { \mathrm { f 1 / f 1 } }$ 小鼠回交，筛选出OTUB1肝特异性敲除小鼠 $O T U B I ^ { f l / f l }$ ;Alb-Cre（简称HCKO）， $O T U B I ^ { f l / f l }$ 作为对照（简称NC）；提取小鼠尾尖基因组DNA作为模板，使用DNA提取试剂盒，设计的引物见表1，PCR，琼脂糖凝胶电泳。
+
+1.2.4 Western blot 检测组织器官中OTUB1的蛋白表达选取8周龄同窝,雄性NC 和HCKO小鼠，取肝、肺、脾、肾、肌肉等组织，用加入蛋白酶体抑制剂的RIPA裂解液，匀浆器破碎组织，低温 $3 6 0 ^ { \circ }$ 旋转30min, $4 ^ { \circ } \mathrm { C }$ 高速离心后取上清，加入 $2 \times$ Loadingbuffer，沸水浴15min，分装后 $- 2 0 ^ { \circ } \mathrm { C }$ 保存。蛋白样品电泳，转膜，裁取目标条带， $5 \%$ 脱脂牛奶室温封闭1h，选取抗目标蛋白的一抗 $\mathrm { 4 ^ { \circ } C }$ 孵育12h孵育，洗膜，孵育二抗，洗膜，ECL法显影。WB 检测OTUB1（35KDa）的表达，验证敲除效果，选取Tubulin（50KDa）作为内参。
+
+1.2.5 HCKO小鼠组织病理学检查苏木素-伊红染色（H&E 染色）：选取12 周龄同窝，雄性NC 和HCKO小鼠，肝脏，脾脏，小肠，轻柔分离目的组织，PBS 清洗后，在$4 \%$ 多聚甲醛固定约48h，依次经过脱水透明，浸蜡包埋，切片，白片脱蜡染色，脱水透明，封片固定，光学显微镜观察。
+
+1.2.60TUB1敲除小鼠体重和糖代谢变化随机选取12周龄小鼠，雄性，NC小鼠和 HCKO小鼠各5只，更换垫料，禁食过夜（不禁水），用电子秤测量空腹时的体重，测量空腹血糖0min，按照体重 $2 \mathrm { g } / \mathrm { k g }$ 葡萄糖吸取葡萄糖注射液（配置成 $2 0 \%$ 的葡萄糖溶液），腹腔注射。分别在注射葡萄糖后15min、30min、60min、90min、120min时间点收集尾静脉血，用罗氏血糖仪和血糖试纸测定血糖水平，记录并比较小鼠的血糖控制情况。
+
+1.2.7检测肝脏载脂蛋白生化指标随机选取8周龄小鼠，雄性，NC小鼠和HCKO小鼠各5只，小鼠麻醉后，眼球取血约1ml，室温静置20min，低温低速离心后取上清， $- 8 0 ^ { \circ } \mathrm { C }$ 保存。使用GPO-PAP 法和酶标仪测定血清脂蛋白水平，包括总甘油三酯（TG），总胆固醇（TC），高密度脂蛋白胆固醇（HDL-c）和低密度脂蛋白胆固醇（LDL-c）。
+
+1.2.8统计学方法采用GraphPadPrism6软件统计分析，采用方差分析（ $_ \mathrm { : p } \langle 0 . 0 5$ 有统计学差异）处理数据。
+
+2结果
+
+2.1 嵌合体（FO代）小鼠的获得 将筛选得到正确的同源重组的 ES 克隆，显微注射到超排的受精卵，移植到假孕的小鼠子宫，得到15只嵌合鼠。选取毛色 $9 0 \%$ 的小鼠2只，雄性，为嵌合体小鼠F0 代。
+
+![](images/821ac9f222d190805f4dc50e5fe6d9dd6838d7b4b538255249104ca30e35c4a4.jpg)  
+图1OTUB1肝脏特异性基因敲除小鼠构建策略
+
+# 2.20TUB1f/f'小鼠的获得
+
+雄性嵌合体小鼠和C57BL/6N的雌性小鼠杂交，得到F1代小鼠，F1代自交得到F2小鼠，引物鉴定结果如图2所示：538bp有条带表示至少有一条染色体被Flox锚定，420bp 有条带表示有野生型染色体，没有条带表示没有野生型染色体，即两条染色体都被Flox锚定。因此,1号为OTUB1flf纯合子小鼠,2、4号为OTUB1f1杂合小鼠。
+
+![](images/88d2cb37f5374d5453d2d1d0d99775f541fd4940d074cbe00389290fda84992e.jpg)  
+Fig.1 Construction Strategy of hepatic-specific OTUBlknockout mice   
+图2OTUB1f转基因小鼠DNA鉴定
+
+2.30TUB1肝脏特异性基因敲除小鼠的获得和鉴定根据图3（a）繁殖策略，将得到的F2代OTUB1f1/f小鼠与Alb-Cre小鼠杂交，得到F3代小鼠，F3代小鼠自交得到F4代。通过引物OTUB1-F&OTUB1-R、Cre-F&Cre-R分别PCR扩增鉴定，结果见图3（b），#2、#7为OTUB1肝特异性基因敲除（HCKO）小鼠，#11、#25为对照组小鼠（NC）。分别取 HCKO小鼠和对照组小鼠OTUBIfl/f的肝脏、肾脏、脾脏、肺、肌肉和白色脂肪组织，WesternBlotting 结果如图3（c）所示，与对照组小鼠相比，HCKO小鼠只有肝脏组织不表达OTUB1，其余组织OTUB1蛋白水平与对照组一致。由此可见，成功构建OTUB1肝脏特异性基因敲除小鼠模型。
+
+![](images/12a39966644fb4431f7e7238f379f05c4a83c9ce0d9a4005a9e15308eedeffcc.jpg)  
+Fig.2 Identification oF OTUBlfl/fl transgenic mice
+
+(b)
+
+![](images/5c9925b8c48dcc9a814cd08e83e137f3607244e6dad9c1cb4f6c8ef96740b203.jpg)
+
+(c)
+
+![](images/9bc3dd93d10cbc0bf92c7245557acf4b47c9c69c5f139dfb8c5989e3e3c2175d.jpg)  
+图3OTUBI肝脏特异性基因敲除小鼠的鉴定
+
+Fig.3 Identificationof hepatic-special OTUBl knockout micea：OTUB1肝特异性基因敲除小鼠繁殖策略b：DNA电泳检测基因型
+
+c：Western Blotting 检测 HCKO 小鼠和对照组小鼠不同组织中OTUB1的蛋白表达水平
+
+（a） Strategy of HCKO mice breeding （b）DNA identify genotype of HCKO and NC littermates. (c)Western blot analysis OTUBl protein expression level of liver and other tissues from HCKO and NC littermates.
+
+2.4HCK0小鼠肝脏组织形态正常，其他组织器官无自发性病理异常解剖小鼠，如图4（a）所示，HCKO小鼠心、肺、脾、肾和肝脏的大小与NC小鼠的无明显差异。图4(b)H&E 染色结果显示HCKO小鼠肝脏组织无明显病理学改变，即成年的OTUBI肝脏特异性基因敲除小鼠无明显的自发性肝脏病理变化。
+
+(a)
+
+![](images/81186813153836b7a60fddef54f6958d7fa88ef832d19aaa1dcc72f2bbfe1c4e.jpg)  
+图4HCKO小鼠组织器官
+
+Fig4.Tissues and organs of HCKO mice （a）HCKO小鼠和对照组小鼠器官解剖图 （b）H&E 染色，12周龄，雄鼠，肝脏，小肠，脾脏石蜡切片组织形态 (a）the main organs of HCKO and NC mice (b）Histological morphology of H.E. staining for liver，intestine and spleen of HCKO male mice
+
+2.5 HCK0小鼠血清总胆固醇显著降低12 周龄成年雄鼠，检测血清生化指标，如图4所示，HCKO小鼠血清总胆固醇（TC）显著下降，而总甘油三酯（TG），高密度脂蛋白（HDL-c），低密度脂蛋白（LDL-c）与NC小鼠相比无明显差异，说明HCKO小鼠中OTUB1缺失后影响了脂代谢稳态，OTUB1对于脂代谢调控存在一定程度上的影响。
+
+图5HCKO小鼠血清生化指标（ $\mathrm { \Delta _ { \cdot } n { = } 4 }$ ）  
+![](images/6612b57910c0c4a385aad4a2ae8015182284fe7c5c76c1c88e9d55aa0406c00a.jpg)  
+Fig5.Liver serum lipid content of HCKO mice( $\cdot \mathrm { n } { = } 4$ ）
+
+（a）与对照组小鼠相比，雄性HCKO小鼠血清总胆固醇水平明显降低（ $\cdot \mathrm { P } { < } 0 . 0 5$ ）
+
+$( { \mathrm { b - d } } )$ 总甘油三酯，高密度脂蛋白，低密度脂蛋白等血清生化指标水平无明显差异
+
+(a）The hepatic cholesterol level of HCKO male mice is lower than that of NC male mice $( \mathrm { P } \ < \ 0 . 0 5 )$ ： (b-d）No significancedifference was observed inotherliver serum lipidcontent:triglyceride,HDLandLDLbetween male adult NC and HCKO mice。Data are expressed as means $\pm \mathrm {  ~ \ S D ~ }$ ${ \mathrm { ( n ~ } } = 4 )$ ：
+
+2.6HCK0小鼠参与肝脏血糖调控，血糖回落迅速如图6所示，HCKO小鼠空腹过夜处理，测空腹血糖水平，与NC小鼠无显著差异。腹腔注射葡萄糖后，分别在15min、30min、60min、90min、120min时比较测量血糖的变化水平。与NC小鼠比较，HCKO小鼠对血糖变化更敏感，血糖回落更快，30min时间点时存在显著性差异，说明敲除OTUB1影响小鼠的胰岛素敏感性和血糖稳态调控，OTUB1可能参与糖代谢的调控。
+
+![](images/0faff3ae89c350f3a262428835fa45af366ce34febd6a308167c175bfe63b9c9.jpg)
+
+Fig6.Glucose tolerance test ( $\scriptstyle \cdot _ { \mathrm { n } = 4 }$ ）
+
+# 3讨论
+
+传统的基因敲除小鼠，全部体细胞的基因组均存在靶基因的突变或缺失，往往存在胚胎发育异常、胚胎期死亡等情况，不利于对发育后期进行基因功能的研究。以Cre/Loxp系统为基础构建的条件性基因敲除小鼠可以改善上述局限性，即在一定发育阶段和靶向组织细胞中实现对特定基因的敲除。通过DNA 重组，构建将打靶基因置于同向Loxp序列之间的载体，将携带该载体的小鼠与带有特定组织特异性启动子的Cre基因的转基因小鼠交配，即可获得某一组织器官的特异性基因敲除小鼠[13]。
+
+OTUB1是OTU家族中重要的去泛素化酶，已报道OTUB1在DNA损伤修复、炎症免疫，肿瘤发生发展等重要生理过程发挥重要的作用。为了进一步研究OTUB1在生理环境下的功能机制，目前已构建具有OTUB1 遗传修饰的小鼠模型[14-18]。研究发现OTUB1纯合缺失会导致小鼠出生后早期致死[9，这使我们无法研究OTUB1在成年阶段的慢性疾病，如代谢、老龄化相关疾病中发挥的功能。我们调研发现尽管OTUB1纯合缺失会导致早期致死，但OTUB1杂合缺陷的小鼠显示出以体重减少为特征的代谢表型（http：//
+
+www. mousephenotype.org/data/genes/MGI:2147616）[14-18]。据报道，OTUB1 与很多代谢调节因子存在相互作用[4]。腺苷一磷酸激活蛋白激酶（AMPK）是主要的细胞能量传感器，已被认为是肝脏脂质和葡萄糖代谢的关键调节因子，研究发现激活的AMPK通过抑制葡萄糖-6-磷酸酶（G6Pase）和磷酸烯醇式丙酮酸羧激酶（PEPCK），抑制糖异生途途径[20．21]。Scholz等发现FIH 依赖性的OTUB1的 N22位点羟基化有助于FIH调节细胞代谢，突变N22A的OTUB1后AMPK磷酸化激活，提示OTUB1在细胞代谢调节中起到重要的作用[22]。因此，HCKO 小鼠糖耐守实验中血糖回落迅速，可能是因为OTUB1缺失影响其羟基化水平，激活AMPK，从而抑制肝脏糖异生途径。同时，AMPK也参与肝脏脂肪合成和胆固醇合成的调节，一方面AMPK抑制HMGCoA还原酶的活性，影响胆固醇的合成；另一方面，AMPK磷酸化,乙酰辅酶A 羧化酶(ACC)活性的降低，促进肌肉中的脂肪酸氧化[23]。
+
+已有的研究发现OTUB1可以通过稳定 DEPTOR 调控mTORC1活性[24]，值得注意的是，肝脏mTORC1参与酮体生成和脂肪合成调节,Owen 等发现胰岛素对 SREBP1c的转录调节不依赖于S6K，而 SREBP1c 的转录后处理依赖于 S6K[25]。2011年，Peterson 等发现 mTORC1 还可通过 lipin1 的负调节来调节 SREBP 转录水平[26]。总的来说，mTORC1信号传导对于激活 SREBP1c和肝脏是必需的，但不是充分的。
+
+肝脏是重要的代谢器官，在糖代谢、脂代谢、能量代谢中均处于核心位置，尽管已报道OTUB1参与调控多种重要的生物学过程，但尚不清楚OTUB1在肝脏调控中发挥怎样的功能，OTUB1与肝脏代谢的调控存在怎样的联系。因此，本研究通过构建OTUB1肝脏特异性基因敲除小鼠模型，探究生理条件下OTUB1对于肝脏代谢的影响，发现OTUB1缺失后小鼠血清总胆固醇水平降低以及对血糖水平调控更敏感，提示OTUB1在脂代谢和糖代谢中存在潜在的调控机制。综上所述，本研究构建的OTUB1肝脏特异性基因敲除小鼠为深入研究OTUB1在肝脏中的生理功能及调控机制提供了重要的动物模型。
+
+# 参考文献:
+
+1. Mevissen TE, Hospenthal M K, Geurink PP,et al. OTU deubiquitinases reveal mechanisms of linkage specificity and enable ubiquitin chain restriction analysis. Cell,2013,154(1):169-84.   
+2.Balakirev MY,Tcherniuk S O,Jaquinod M,et al. Otubains: a new family of cysteine proteases in the ubiquitin pathway. EMBO reports,2003, 4(5):517-22.   
+3.Nijman S M,Luna-Vargas MP, Velds A,et al. A genomic and functional inventory of deubiquitinating enzymes. Cell,2005,123(5):773-86.   
+4.Sowa ME, Bennett EJ, Gygi S P,et al. Defining the human deubiquitinating enzyme interaction landscape. Cell, 2009,138(2):389-403.   
+5.Soares L,Seroogy C, Skrenta H,et al.Two isoforms of otubain 1 regulate Tcell anergy via GRAIL. Nature immunology,2004, 5(1):45-54.   
+6. Li S, Zheng H,Mao A P,et al. Regulation of virus-triggered signaling by OTUB1- and OTUB2-mediated deubiquitination of TRAF3 and TRAF6.The Journal of biological chemistry,2010,285(7):4291-7.   
+7． Herhaus L,Al-Salihi M, Macartney T,et al. OTUBl enhances TGFbeta signalling by inhibiting the ubiquitylation and degradation of active SMAD2/3.Nature communications,2013, 4:2519.   
+8. Goncharov T,Niessen K,de Almagro M C,et al. OTUBl modulates c-IAPl stability to regulate signalling pathways. The EMBO journal,2013, 32(8):1103-14.   
+9.Zhou Y, Wu J,Fu X,et al. OTUB1 promotes metastasis and serves as a marker of poor prognosis in colorectal cancer. Molecular cancer, 2014,13:258.   
+10.Baieti MF,Simicek M,Abbasi Asbagh L,et al. OTUBl triggers lung cancer development by inhibiting RAS monoubiquitination.EMBO molecular medicine,2016,8(3):288-303.   
+11.Wang Y, Zhou X, Xu M,et al. OTUB1-catalyzed deubiquitination of FOXM1 facilitates tumor progression and predicts a poor prognosis in ovarian cancer. Oncotarget, 2016, 7(24):36681-97.   
+12.Ni Q,Chen J,LiX,et al. Expression of OTUB1 in hepatocellular carcinoma and its effcts on HCC cell migration and invasion. Acta biochimica et biophysica Sinica, 2017,49(8):680-8.   
+13．Chen X,Loryan I,Payan M,et al.Efectof transporter inhibition on thedistribution of cefadroxil inrat brain Fluids Barriers CNS,2014,11(1):25.   
+14.Pett S J, Liang Q, Rairdan XY, et al. Agouti C57BL/6N embryonic stem cells for mouse genetic resources Nat Methods,2009,6(7):493-5.   
+15.Skarnes W C,Rosen B, West A P,et al.A conditional knockout resource for the genome-wide study of mouse gene function. Nature, 2011,474(7351):337-42.   
+16.Bradley A,Anastasiadis K,Ayadi A,et al.The mammalian gene function resource: the International Knockout Mouse Consortium. Mamm Genome,2012,23(9-10):580-6.   
+17.Brown S D,Moore M W.The International Mouse Phenotyping Consortium: past and future perspectives on mouse phenotyping. Mamm Genome, 2012,23(9-10):632-40.   
+18.Koscielny G, Yaikhom G,Iyer V,et al.The International Mouse Phenotyping Consortium Web Portal,a unified point of acces for knockout mice and related phenotyping data. Nucleic Acids Res,2014,42(Database issue):D802-9. 19.Pasupala N,Morrow ME,Que L T,et al. OTUBl non-catalyticall stabilizes the E2 ubiquitin-conjugating enzyme UBE2E1 by preventing its autoubiquitination. The Journal of biological chemistry,2018,   
+293(47):18285-95.   
+20.Bergeron R,Russell RR,3rd,Young L H,etal.Efect of AMPK activation on muscle glucose metabolism in conscious rats.AmJPhysiol, 1999,276(5Pt1):E938-44.   
+21．AndreeliF,Foretz M,Knauf C,et al.Liver adenosine monophosphate-activated kinase-alpha2 catalytic subunit is a key target for the control of hepatic glucose production by adiponectin and leptin but not insulin. Endocrinology,2006,147(5):2432-41.   
+22.Scholz C C,Rodriguez J, Pickel C,et al.FIHRegulates Cellular Metabolism through Hydroxylation of the Deubiquitinase OTUB1.PLoS biology,2016,14(1):e1002347.   
+23．Bijland S,Mancini S J, Salt IP.Role of AMP-activated protein kinase in adipose tissue metabolism and inflammation. Clin Sci (Lond),2013,124(8):491-507.   
+24.Zhao L, Wang X, Yu Y, et al. OTUB1 protein suppresses mTOR complex 1 (mTORC1) activity by deubiquitinating the mTORC1 inhibitor DEPTOR.The Journal ofbiological chemistry,2018,293(13):4883-92. 25.Owen JL, Zhang Y,Bae S H, et al. Insulin stimulation of SREBP-1c processing in transgenic rat hepatocytes requires p70 S6-kinase.Proceedings of the National Academy of Sciences of the United States of America,2012,109(40):16184-9.   
+26.Peterson TR,Sengupta S S,Harrs TE,et al. mTOR complex 1 regulates lipin 1 localization to control the SREBP pathway. Cell,2011,146(3):408-20.

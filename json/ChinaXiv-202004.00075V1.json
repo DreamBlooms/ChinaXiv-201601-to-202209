@@ -1,0 +1,702 @@
+[
+    {
+        "type": "text",
+        "text": "这不是我的工作！不合规任务及其对员工的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王震1钱鹏辉」彭坚²('中央财经大学商学院，北京 100081)(广州大学工商管理学院，广州51006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要不合规任务，作为一种新型职场压力源，近几年逐渐成为组织管理研究领域的一个前沿话题。不合规任务是指不符合人们预期工作范围、不应由自己完成或不必要执行的任务，包括不合理任务和不必要任务。不合规任务对员工情绪、认知、动机、工作态度、工作行为、身心健康，以及工作-家庭关系均有一定的负面影响，影响性质和强度取决于员工的个体特征和所处的情境特征。压力-自我冒犯理论、公平理论、工作要求-资源模型、工作特征模型、情感事件理论和自我决定理论是解释不合规任务影响的主要理论。未来研究可拓展不合规任务的概念和层次、探索和整合作用机制、探讨不合规任务的权变效应、考察不合规任务的影响因素以及开展文化情境和文化导向的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词不合规任务；不合理任务；不必要任务；压力源；压力 分类号B849;C93 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2020 年2月份，正当全国医护人员逆行而上，奋力抗击疫情时，发生在武汉的一件事引起了广泛的社会关注。一名市场监督局的领导咄咄逼人，无端训斥护士，要求护士去打扫厕所。护士带着哭腔解释自己正在抢救病危患者，并说明打扫厕所属于其他部门负责，但被该领导一次次粗鲁地打断。可以想象的到，这名护士当时经受了多么大的压力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一直以来，探究员工的职场压力来源是学术界与实践界共同关注的话题。尽管以往研究已识别了诸如分配不公、工作负荷、人际冲突、顾客攻击等压力诱发因素，Semmer,McGrath和 Beehr(2005)指出，有一种在组织中极为常见的压力来源被研究者忽略了，即上文案例所描述的不合规的工作任务。不合规任务(illegitimate tasks)是指不符合人们预期工作范围、不应由自己完成或不必要执行的任务，它不仅会对员工的职业身份造成威胁(Semmer,Jacobshagen,Meier,&Elfering,2007)，还会引发一系列消极后果(Semmer etal.,2015; 2019)。研究指出，即便同时考虑了传统压力源的作用，不合规任务对个体消极反应仍有额外解释力(Jacobshagen,2006; Kottwitz et al.,2013; Pereira, Semmer,& Elfering,2014)。由此可见，不合规任务概念提供了一个解释员工压力和消极反应的新视角。鉴于此，对其进行研究既能丰富压力源研究，也能为职场员工压力干预和负面行为管理提供启发。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，不合规任务的研究历经十余年的发展，已取得了一定的成果。然而，学术界对该主题的考察仍处于起步阶段，尤其是国内目前仅有两项研究(刘军，王琦琦，范雪灵,2019；章惠敏，王震，邹艳春，苏子健，彭坚,2019)。总体来看，研究之间缺乏一定程度的对话，导致现有知识较为松散，不利于知识的累积和后续研究的开展，这使得一些关键性问题有待厘清。例如，究竟何为不合规任务？不合规任务能否被可靠、有效地测量？不合规任务会对员工产生何种影响，其解释机制和边界条件是什么？本文旨在系统回顾不合规任务的研究进展，以帮助研究者全面、快速地了解不合规任务的研究现状，为开展相关研究提供一定的启发。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2什么是不合规任务？",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在组织中，个体通常扮演着自己的职业角色。该角色通常由个体所从事职业的特征或直接主管决定，并为个体提供一套明确的行为规范或准则，即角色期望(role expectation)。个体的角色期望会受员工评估和判断的影响，因而带有主观性。例如，即便是同一工作，不同的员工理解的角色期望也不尽相同(Bjork,Bejerot, Jacobshagen,& Harenstam,2013;Eatough etal.,2016)。当一项工作任务与个体主观的角色期望相契合，通常会被视为\"合乎规范”；相反，当一项工作任务与个体角色期望相违背，该任务则构成了对个体角色的冒犯，就被视为\"不合规范\"(Semmer,Tschan,Meier,Facchin,&Jacobshagen,2010)。简而言之，不合规任务是指不符合员工期望的工作角色范围外，对职业身份构成侵犯的任务，具体表现为不应该由自己完成或不必要执行的任务(Semmer et al.,2010)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不合规任务具有两个核心特征：(1)在自我角色范围之外。组织中的角色定义了组织对个体的期待以及这种期待是否合乎规范(Igen & Hollenbeck,1991)。不合规任务往往超出了组织所定义的角色范围，并且违反了合乎规范的角色期待。例如，当医护人员被分配清洁任务时，他们会将这种任务视为不合规任务(Semmeretal.,2010)。(2)冒犯个体的职业身份。个体的职业身份体现了其自身的价值和意义，是个体社会身份的重要组成部分(Schulte-Braucks,Baethge,Dormann,& Vahle-Hinz,2019)。不合规任务是一种对个体正当职业身份的不尊重或冒犯，会给个体带来紧张与压力，构成 Thoits(1991)所称的威胁身份的压力源(Faupel, Otto,Krug,& Kottwitz, 2016; Schulte-Braucks et al., 2019; Semmer et al., 2007)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依据核心特征，学者识别了两类不合规任务：不合理任务(unreasonable tasks)和不必要任务(unnecessary tasks)(Jacobshagen,2006; Semmer et al.,2010)。不合理任务主要表现为以下四种类型(Semmer etal.,2010):(1)个体职业范围之外的任务，如让安保人员完成大堂清洁任务。(2)与个体的职业地位相冲突、应由其他人来完成的任务，如让下属处理只有领导才有权限处理的任务。(3)个体专业身份得不到体现、过度限制的任务。例如，要求让并不直接接触顾客的后台员工始终保持自己的桌面整洁。(4)使个体处于尴尬境地的任务，如让员工对其同事进行缺勤通报批评。不必要任务是指工作中不应该进行的、浪费时间的任务(Semmer etal.,2010)，包括：(1)无意义的任务，如让英语老师学习美术课程。(2)通过合理安排能够得以避免或减少精力付出的任务，如组织架构复杂导致任务审批步骤繁琐。(3)满足领导偏好的任务，如要求员工每日的例行汇报必须使用幻灯片演示。需要注意的是，对同一个岗位或职业来说，不合规任务的内涵和表现会随着不同的环境(个体、情境等)发生变化(Semmer etal.,2007,2015)，因此，对不合规任务的感知和评价具有一定的主观性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不合规任务不同于角色内冲突(role conflict)或角色外行为(extra-role behavior)。角色内冲突通常被认为是两个或多个角色之间的分歧，主要包括两种形式，且这两种形式强调的重点均不同于不合规任务。第一种形式是指个体的自我标准或价值观与定义的角色行为之间的冲突(Rizzo,House,&Lirtzman,1970)。该概念关注的范畴比较广泛，个体-角色的冲突可能源于个体任何类型的标准或价值观遭到违反，如道德标准。相比之下，不合规任务关注的标准更为具体，其主要落脚于任务内容及其意义程度(Semmer et al.,2007,2019)。第二种形式是指个体时间、资源或能力间的冲突(Rizzo etal.,1970)。例如，接受一项\"没有足够人手去完成”的任务。然而，不合规任务并非表明个体缺乏时间、资源或能力去执行，而是因不符合员工合理期望而不愿意执行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然不合规任务与角色外行为均超出角色义务范畴，但二者有一定的区别(Semmer et al,2010)。首先，角色外行为通常具有亲社会性，是指具有礼貌、忠诚和乐于助人特点的一般行为(Morrison,1994)，而不合规任务不仅不具备这些特征，还会引发身份侵犯。其次，角色外行为通常体现出自愿性，即行为者自愿从事该行为(Morrison,1994)，而不合规任务通常体现出非自愿性，落脚于分配给员工的非自愿任务；换言之，如果员工自愿执行一项任务，则该任务不存在不合规性(Eatough etal.,2016)。新近研究(Sias&Duncan,2019)证实，员工能够区分角色外任务和不合规任务。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3如何测量不合规任务？",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于对不合规任务概念的界定，研究者实际测量了员工对不合规任务的感知。本文将从测量工具和测量主体两个方面对不合规任务的测量议题进行梳理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1测量工具",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Jacobshagen(2006)最早系统开展了测量工具的开发工作。通过11项不同的研究(总计3000 多个样本)，她验证了不合规任务的真实存在，并开发、完善了不合规任务测量工具。该研究运用探索性和验证性因子分析确定了不合规任务的两维结构及其测量题项：不合理任务(4题， $\\scriptstyle \\mathtt { q } = 0 . 7 9 - 0 . 8 2 ,$ 和不必要任务(5题， $\\scriptstyle \\mathtt { q = 0 . 7 6 - 0 . 8 6 } )$ 。该量表被称为伯尔尼不合规任务量表(Berm Illegitimate Tasks Scale,BITS)。Jacobshagen 对 BITS 的内部一致性、重测信度和效度均进行了检验，结果表明该量表具备良好的心理测量学属性。在后续研究中，Semmer等人(2010)总结、分析后，依据验证性因子分析的载荷数值将不必要任务维度的第4题删除，最终得到了8题项的BITS。不合理任务的例题如\"你需要处理你认为应该由其他人完成的任务吗？”,不必要任务的例题如\"你需要处理你觉得丝毫没有意义的任务吗？”。目前，8题项的 BITS是不合规任务研究中使用最广泛的量表，具有一定的优势。首先，该量表与 Semmer 等人不合规任务的定义保持了高度一致。其次，该量表具有良好的信度和稳定的因子结构。最后，新近研究在欧美之外的中国、印度等国家对BITS量表的信效度进行了检验，重复验证了不合规任务的二维结构(Ahmed,Eatough,&Ford,2018;Ma&Peng,2019；刘军等,2019；章惠敏等,2019)。这些结果暗示，不合规任务的二维结构或许具有跨文化适用性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2测量主体",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测量主体是指不合规任务的报告来源。从已有文献来看，研究以员工自我报告为主(Bjork et al.,2013; Eatough et al.,2016; Minei,Eatough,& Cohen-Charash,2018; Munir, Jamil,&Ehsan,2017; Semmer et al.,2010,2015)，仅有少数研究将自评与他评结合来评估对不合规任务的感知(Meier& Semmer,2018)。尽管自我评估是识别压力体验的关键(Lazarus,2006)，但他评不合规任务也能反映个体遭遇的不合理任务境遇，并且还能降低研究中可能存在的共同方法偏差。总体来看，由于角色的不同和对任务评估的观点不一致，评价方式(自评 vs 他评)会影响不合规任务的报告程度或频次。相比他评，员工会报告更高水平和更频繁的不合规任务遭遇(Meier& Semmer,2018)。此外，自评和他评的不合规任务仅有中等程度的相关(Meier& Semmer,2018)，再次表明个体对不合规任务的感知具有主观性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4不合规任务会对员工造成何种影响？",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于对不合规任务清晰的界定和可行的测量，大量的研究考察了不合规任务的影响效果，并取得了一系列发现。为了相对全面系统地回顾已有研究，本文以\"illegitimate tasks”、“unreasonable tasks”、“unnecessary tasks\"和\"不合规任务\"在主要的中英文数据库进行了标题和摘要检索。基于对32篇实证期刊论文的分析，提炼出了如图1所示的影响效果图(各研究仅列出了第一作者)。本文还呈现了各研究在考察不合规任务与后果变量关系时关注的调节变量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑到变量间的相似性，本文将同类概念变量聚拢为情绪、认知、动机、工作态度、工作行为、身心健康以及工作-家庭关系七大类。鉴于情绪、认知和动机会影响个体的工作态度、工作行为、身心健康和工作-家庭关系，本研究将前三类归纳为近端后果(即中介变量)，将后四类归纳为远端后果，以有助于后续研究者更好地了解不合规任务的影响效果及其内部机理过程。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/48f9305b94d40548c2215e178cc9cd22c692c245a96732484597487598694d82.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1不合规任务的近端后果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1.1情绪 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不合规任务作为一种消极的工作事件，会引发个体的消极情感反应。以往研究发现，当员工认为任务不合规时，会产生怨恨(resentment)和愤怒(anger)等高唤醒消极情绪(Eatough etal., 2016; Munir et al.,2017; Semmer et al.,2015; Stocker, Jacobshagen, Semmer,& Annen, 2010;Zhou,Eatough,&Wald,2018；章惠敏等,2019)。例如，Semmer 等人(2015)对瑞士多行业员工进行了三项调查，均发现不合规任务会诱发员工的怨恨情绪。Eatough 等人(2016)以90 位美国员工为研究对象，发现了每日感知的不合规任务与员工每天的愤怒的正向关系；这一结果得到了 Zhou 等人(2018)114 名美国员工的每日数据和章惠敏等人(2019)227 名中国员工的两时点等数据的支持。还有些研究考察了整合的消极情绪(negative emotions)，总体上发现不合规任务会诱发员工的消极情绪，进而带来其他负面反应(Ahmed et al.，2018;Pindek,Demircioglu, Howard, Eatough, & Spector, 2019; Sonnentag & Lischetzke, 2018)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1.2认知",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不合规任务会影响员工的认知，尤其是降低员工的自尊感(self-esteem)和组织公平感(organizationaljustice)。不管是在员工个体层面，还是在每日层面，研究都发现不合规任务会降低个体的自尊(Eatough et al.，2016; Schulte-Braucks et al.,2019； Semmer et al.，2015;Sonnentag&Lischetzke,2018)。研究还发现不合规任务对个体的工作身份造成威胁，致使其工作认同(job identity)降低(Ma&Peng,2019)。还有学者指出，不合规任务的分配暗含了组织对员工的不尊重；在这种情况下，员工会感觉受到了不公平对待(Ahmed etal.,2018;Munir etal.，2017)，认为个人努力得不到相应回报，产生努力-回报失衡感(effort-rewardimbalance)(Omansky,Eatough,&Fila,2016)。此外，当被分配了不合规任务，员工可能会感到缺乏组织或领导的赏识(appreciation)(Kottwitz et al.,2019; Stocker et al.,2010)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1.3动机",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不合规任务会影响员工的自我决定动机(self-determined motivation)和内在动机(intrinsicmotivation)。自我决定动机与个体感知的任务自主性密切相关(Gagné&Deci,2005)。不合规任务阻碍了员工自主性的需要，会削弱其自我决定动机。Van Schie,Guintert 和Wehner(2014)以红十字会志愿者为研究对象，发现不合规任务会减少志愿者在志愿活动中的自我意志和选择，导致员工自主性被阻碍，自我决定动机降低。类似地，不合规任务通常被认为是与工作角色不协调或无意义的外围任务，个体完成任务的内在动机将受到抑制(Muntz＆ Dormann,in press; Omansky et al., 2016)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2不合规任务的远端后果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2.1工作态度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不合规任务对员工积极的工作态度有一定的负面影响。一项对 228名瑞士男性军官进行的调查发现，不合规任务会让他们感到自己不被欣赏，进而对工作不满(jobsatisfaction)(Stocker et al.,2010)。这一结论得到了大量研究的支持(Eatough et al.,2016;Kottwitz et al.,2019; Omansky et al.,2016)，但也有研究指出可能是员工不满导致他们认为工作任务不合规(Muntz,Dormann,&Kronenwett,2019)。不合规任务对工作投入(workengagement)(Schmitt,Ohly，& Kleespies，2015；Van Schie et al.，2014)和留职/离职意愿(remain/turnover intention)(Apostel, Syrek,& Antoni,2018; Van Schie et al.,2014)的影响也得到了证实。Van Schie 等(2014)发现不必要任务会削弱员工的动机水平，从而降低员工的工作投入和留职意愿。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.2工作行为",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不合规任务对个体行为表现的作用也不容忽视，尤其是对负面行为的影响。Schulte-Braucks 等人(2019)以241名员工为对象展开为期5个工作日的日记研究，发现了不合规任务与反生产行为(counterproductive work behavior)的正向关系。不合规任务的不公平性和压力会引发员工的消极情绪(如愤怒、怨恨)，而这种消极情绪会影响个体的行为模式，诱发员工的消极行为(如反生产行为、带病出勤、职场越轨行为)(Semmer etal.,2010; Thun,Halsteinli,&Lovseth,2018; Zhou et al.,2018；章惠敏等,2019)。同时，Ma 和 Peng(2019)证实了不合规任务通过降低工作认同对员工主动工作行为和任务绩效的负面影响。不过，也有学者发现，当自身的任务与角色范围存在差异时，个体会通过任务重塑(task crafting)来改变现状、缩小差异，这一关系受公正敏感性(justice sensitivity)与成长需求强度(growth need strength)共同影响(刘军等,2019)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.3身心健康",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不合规任务引发的消极情绪难以立即发泄，会不断积累演变成压力，进而损害员工的身心健康。Madsen,Tripathi,Borrtz 和Rugulies(2014)通过对1351名丹麦人力资源服务人员的调查，发现了不必要任务对员工心理健康的负向影响。Kottwitz等人(2013)基于107名男性员工的调研，发现不合规任务会增加员工的皮质醇水平(cortisol)。Pereira 等人(2014)以 76 名员工为对象，结果表明不合规任务使员工难以及时从工作中脱离，导致睡眠质量(sleep quality)下降。此外，不合规任务的完成需要精神和情感上的持续努力，这意味着不合规任务会让员工产生焦虑(anxiety)、抑郁(depression)、易怒(irritability)、情绪耗竭(emotional exhaustion)和倦怠(burnout)等健康问题(Eatough et al.,2016; Fila& Eatough, in press; Meier & Semmer, 2018;Munir et al., 2017; Semmer et al., 2015)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.4工作-家庭关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不合规任务还具有溢出效应(spillover effect)，突出表现为不利于员工工作-家庭关系。Meier 和 Semmer(2018)基于166个匹配样本(主管、员工与伴侣)发现，不合规任务会造成工作-家庭冲突(work-family conflict)，这是因为不合规任务诱发员工的资源损耗，让员工难以履行家庭责任。类似地，Ahmed等人(2018)在美国和印度的跨文化研究中进一步验证了不合规任务通过工作场所的交互公平感(interactional justice)缺失和消极情绪对工作-家庭冲突的正向影响，以及对工作-家庭增益(work-family enrichment)的负向影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "总体来看，不合规任务不仅会对员工的情绪、认知和动机产生负面影响，还会通过这些近端后果进一步影响到员工的工作态度、工作行为、身心健康以及工作-家庭关系，最终对组织的正常运营和整体绩效造成破坏。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5不合规任务为什么会造成上述影响？",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对影响效果的考察依赖于特定的理论解释机制。总体来看，尽管研究者使用了不同的理论视角来解释不合规任务的影响，但最常使用的有6个。除了根源性的压力-自我冒犯理论，公平理论、工作要求-资源模型、工作特征理论、情感事件理论和自我决定理论也被用来解释不合规任务是如何发挥作用的。表1呈现了这些理论的核心观点、解释范畴以及代表性研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/56252b279a0a36468dd54f23028103ed7deabd5b695bfb1272c5965894a7b185.jpg",
+        "table_caption": [
+            "表1不合规任务的理论解释视角"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>理论机制</td><td>核心观点</td><td>主要解释范围</td><td>代表性研究</td></tr><tr><td>压力-自我冒犯 理论</td><td>个体需要维持和保护自己的积极形 象，会对自尊的威胁视为压力体验 的核心。 某一事件不应发生或是可以对这一</td><td>自身被冒犯(自尊、不 被欣赏、工作认同)及 其后续反应</td><td>Kottwitz 等(2019) Ma 等(2019) Semmer 等(2015)</td></tr><tr><td>公平理论</td><td>事件采取不同的行动以获得更好的 结果，那么该事件就会被认为是不绪、工作倦怠 公平的。</td><td>工作满意度、消极情</td><td>Ahmed 等(2018) Munir 等(2017) Semmer 等(2015)</td></tr><tr><td>工作要求-资源 模型</td><td>高工作要求和低资源会导致倦怠、 压力和健康损害。</td><td>身心健康、消极工作 行为、工作家庭关系</td><td>Ahmed 等(2018) Fila 等(in press) Thun 等(2018)</td></tr><tr><td>工作特征模型</td><td>工作任务的特征会影响个体对工作 意义的感知，进而产生影响。</td><td>工作满意度、工作动 机</td><td>Eatough 等(2016) Omansky 等(2016)</td></tr><tr><td>情感事件理论</td><td>工作事件引发个体情感,进而影响 态度和行为。 个体倾向于在充分认识个人需要和</td><td>消极情绪、工作满意 度、越轨行为</td><td>Eatough 等(2016) 章惠敏等(2019)</td></tr><tr><td>自我决定理论</td><td>环境信息的基础上，对自己的行动 做出自由的选择。</td><td>动机、工作投入、留Muntz 等(in press) /离职意愿</td><td>Van Schie 等(2014)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.1压力-自我冒犯理论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不合规任务是基于压力-自我冒犯理论(stress-as-offense-to-self theory)提出的(Semmer etal.,2005,2007)。该理论以个体需要维持和保护自己的积极形象为基础，将对自我积极形象的威胁视为压力的来源。它以自我威胁为出发点，强调个体在自我形象受到威胁的情况下会感受到压力(Lazarus,2006)，并指出威胁来源于他人不尊重的社会信息(Semmer et al.,2007)。基于此，Semmer 等人(2015)发现并指出，不合规任务向员工传递了一种组织或领导不尊重自己的社会信息，这种信息会引发压力，威胁个体的自我价值感和自尊。具体地，当个体被分配了不合规任务时，其积极形象受到了来自不尊重的信息的威胁，导致了个体自尊水平的下降，并可能进一步引发难以控制的负面影响。从现有文献来看，几乎所有的研究都明确或隐含使用了压力-自我冒犯理论，或在此基础上与其他理论整合使用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2公平理论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "公平理论(justice theory)(Folger& Cropanzano,2001)指出，如果个体认为某一事件不应发生或是可以对这一事件采取不同的行动以获得更好的结果，那么该事件就会被认为是不公平的。组织公平包括分配公平、程序公平和互动公平(Cropanzano,Byrme,Bobocel,&Rupp,2001)。当员工被分配做不合理或不必要的任务时，员工会觉得不合规任务是一种分配不公的体现。员工也可能认为，不合规任务分配的决策是以不公平的方式做出的，这让自己觉得不被尊重，自身社会自尊和职业身份受到威胁。在这种情况下，不合规任务是程序不公和互动不公的体现(Semmer etal.,2015)。基于不合规任务的不公平性特征，研究发现不合规任务会降低员工对组织公平性的认知，进而产生消极情绪和倦怠感(Ahmed etal.,2018;Munir etal.,2017)。此外，在公平理论中还存在一种具体形式，即努力-回报失衡(effort-reward imbalance model)。努力-回报失衡模型是指以高努力(即工作要求或义务)和低回报(即金钱、尊重和工作/职业机会的不平衡)为特征的工作和任务会导致员工的紧张和幸福感受损(Siegrist,1996)。不合规任务恰好具有这样的特征：它不属于角色内的绩效职责，处于工作核心要素之外，任务的完成往往不能让个体获得某种关系价值(Semmer et al.,2007)，因而会让员工觉得努力-回报失衡。在此情况下，个体将试图通过改变其工作态度和行为来恢复平衡，即减少努力或最大化回报，从而产生消极反应(Omansky et al.,2016; Schmitt et al.,2015)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3工作要求-资源模型",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "工作要求-资源模型(job demands-resources model)是解释工作倦怠的经典理论框架(Demerouti,Bakker,Nachreiner,& Schaufeli,2001)，它将工作特征划分为工作要求与工作资源，并指出了两条核心路径(工作要求导致员工出现压力和健康损害；工作资源激发员工的工作动机和出色的工作表现)。在组织中，不合规任务是一种工作要求，会消耗员工的身心资源去完成。员工拥有的资源越多(如工作自主性)，就越能有效应对不合规任务。然而，当处于高要求和低资源的失衡状态时，高工作要求就会引发消极情绪(Bakker,Demerouti,&Schaufeli,2003)。这些情绪不断积累，会引发工作倦怠和情绪耗竭(Fila& Eatough,in press;Semmer et al.,2015)等身心健康问题，并进一步导致消极工作行为(如带病出勤,Thun et al,2018)。此外，不合规任务所造成的资源损耗，将使员工没有足够资源应对工作之外的事件，进而诱发工作-家庭冲突(Ahmed et al.,2018)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.4工作特征模型",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "工作特征理论(job characteristics theory)指出，任务的特征(如任务的重要性和多样性等)会影响一个人工作的意义(Hackman&Oldham,1975)。由于不合规任务具有不合理或不必要的特征，它往往会使员工从有意义或有挑战性的工作中分心，降低其对工作意义的感知。工作意义的降低反过来会阻碍员工的工作积极性，并对个体的工作满意度造成负面影响(Eatough et al.,2016;Omansky et al.,2016)。同时，工作特征理论还认为，有意义的工作与更高的内在动机相关。不合规任务通常被认为是工作的外围任务，可能与工作角色不协调，或被视作不必要的，所以不太可能被认为是有意义的(Hackman&Oldham,1975)。因此，从事不合规工作的人，其内在动机会降低(Omansky etal.,2016)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.5情感事件理论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "情感事件理论(affective events theory)指出，工作环境特征会引发消极或积极工作事件;而消极工作事件会引发个体的消极情感反应，进而影响个体的态度和行为(Weiss &Cropanzano,1996)。这一过程受个体特质和工作特征的影响。概言之，工作事件会引发员工的情感反应，而情感反应是连接工作事件与行为结果间的纽带与桥梁。基于该理论，研究者主要考察并证实了不合规任务与怨恨、愤怒等消极情绪之间的关系(章惠敏等,2019)以及这些消极情绪对员工工作态度、工作行为的进一步影响。例如，Eatough 等人(2016)从情绪视角，对不合规任务与员工满意度的关系进行了探讨。研究结果表明，不合规任务通过诱发员工的愤怒、怨恨等负面情绪，进一步导致员工对工作的不满。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.6自我决定理论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论(self-determination theory)指出，个体在充分认识个人需要和环境信息的基础上，会对自己的行动做出自由的选择，即个体天生具有一种自主性需求；该需求的满足程度或挫败程度将决定个体动机及其后续反应(Deci&Ryan,1985)。当自主性需求得到满足时，个体的动机水平增强；自主性需求未得到满足时，个体的动机水平将降低。换言之，自主性需求满足是影响员工工作动机的重要因素。基于自我决定动机理论，研究者对不合规任务的动机影响过程展开了研究。这些研究认为，当个体被分配到不合规任务时，其在工作中的自主性将受到阻碍；随着自主性需求无法得到满足，员工的工作动机和积极性将降低(Muntz&Dormann,in press)，最终引发工作投入的减少和离职意愿的增加(Van Schie et al.,2014)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "总体来看，诸多理论模型都能对不合规任务的作用进行有力解释。但现有研究中，单一的理论解释尚存局限。一方面，无法解释同时存在的多种影响；另一方面，无法体现各种因素之间交互作用的影响。因此，在对不合规任务的机制进行解释时，还应充分考虑理论的多元化。此外，引入新理论或从新视角对不合规任务作用机制进行解释也尤为重要。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6哪些因素可以弱化或强化不合规任务的影响？",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "随着研究的深入，新近研究开始考察不合规任务作用的边界条件。这类研究试图揭示不合规任务对什么人、在什么情况下更具有危害性，以及哪些方法和手段能降低或避免不合规任务的消极作用。从理论和实践应用性的角度，本文将调节变量划分为强化型和弱化型两类。强化型因素是指会放大不合规任务负面效应的因素，弱化型因素是指能削弱不合规任务负面效应的因素，每一类都分为个体特征(如特质、价值观)和情境特征(如时间压力、领导行为)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.1强化型因素",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.1.1性别(男性) ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究显示，在面对不合规任务时，男性更可能有更强烈的消极回应。男性和女性通常具有的不同社会角色，再加上他人对这些角色的从众期望，男性和女性在行为倾向上会有差异。具体来说，由于社会分工差异，女性在职场中往往容易遭遇职业天花板或职场偏见。因而，女性员工会期望通过被赋予更多的工作任务来获取资源、认同、地位等，从而对不合规任务的消极感知会更少。相反，男性通常被认为是主动、自信、有主导性的(Eagly,Wood,&Diekman,2000)，当他们受到不公平或不尊重的对待时，其占主导地位的性别角色也将受到威胁，并引发失衡。基于此，Omansky 等人(2016)提出不同性别的个体对不合规任务的感知存在差异。正如性别角色理论和 SOS 理论指出的，不合规任务不仅侵犯了男性员工的专业角色，还威胁到了他们的性别角色。性别调节了不合规任务经由努力-回报失衡对内在动机和工作满意度的间接影响：相较女性，男性员工更容易产生消极结果(Omansky et al.,2016)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6.1.2特质(公正敏感性) ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "公正敏感性是一种稳定的人格特质，描述了个体知觉不公正的难易程度以及对不公正的反应的强烈程度(Schmitt,Neumann,&Montada,1995)。根据社会比较理论，个体通过将自身的任务与参照对象(角色范围)进行比较，以获取对自身任务的认知。与公正敏感性较弱的个体相比，公正敏感性较强的个体将不合规任务与自身的角色范围进行对比时，会对差异更敏感，因而有更强烈的反应。另外，不合规任务相比直接的侮辱和贬低，会以一种更隐性的方式去影响个体自尊。因此公正敏感性较弱的个体感知的自尊威胁程度和不公平程度较低，受到的负面影响相对较弱(刘军等,2019)。基于此，对高公正敏感性的个体来说，不合规任务与自尊威胁及反生产行为的关系相对更强(Schulte-Braucks etal.,2019)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6.1.3敌对归因偏差 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "归因是指人们推断事件原因的过程。当员工在工作中被分配了不合规任务，为了理解任务分配的原因，员工很可能会启动一个归因过程。敌意归因偏差(hostile attribution bias)描述了在情境不明确的状况下，个体倾向于将对方的动机或意图视为敌意(Spector,2011)。高敌对归因偏差下的个体更倾向于将一些不符合本职范畴的任务视为具有消极意图的不合规任务，进而更容易滋生敌意或感到压力，进而有负面情绪(Pindek etal.,2019)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6.1.4时间压力",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "情境特征也会影响不合规任务的作用效果。有学者从时间压力(time pressure)的角度考察了不合规任务的负面影响。研究表明，时间压力在不合规任务与愤怒的关系中发挥着重要作用，因为时间压力反映了合法责任与不合规任务分配之间更为激烈的冲突。例如，当员工在限定时间内需要完成他们应该完成的任务时，被分配的不合规任务将引发合规与不合规任务之间的冲突，并消耗工作所需的资源(如时间和情绪)(Kronenwett & Rigotti,2019)，让员工不尊重的感觉加剧。高时间压力下，个体长时间处于紧张、焦虑的状态；这种状态使得不合规任务更易激发员工的愤怒情绪，促进员工反生产行为的产生(Zhou et al.,2018)。因此，时间压力正向调节了不合规任务与愤怒情绪的关系以及不合规任务与反生产行为之间经由愤怒的间接效应。当时间压力更高时，上述关系更强",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2弱化型因素",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2.1特质(特质自尊) ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "个体的人格特质可以调节工作事件与情感反应的关系，同时也与工作满意度等工作态度密切相关(Weiss& Cropanzano,1996)。目前研究证实了特质自尊(trait self-esteem)对不合规任务负面效应的弱化作用。特质自尊是一种稳定的、不会在短期内波动的自尊类型，只对强烈的压力体验敏感(Kuster,Orth,& Meier,2013)。当个体遇到挑战其身份的情况时(如不合规任务)，高特质自尊的个体具有更强的资源保护能力，承受的痛苦更少(Xanthopoulou,Bakker,Demerouti,& Schaufeli,2007)。基于此，Eatough 等人(2016)揭示了特质自尊在不合规任务与愤怒和工作满意度关系间的缓冲作用，即高特质自尊更不易受到来自不合规任务的威胁。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2.2权力距离价值观 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "特定的价值观也会影响员工对不合规任务的反应。Ahmed等人(2018)对美国和印度两国的员工样本进行研究，发现不合规任务的影响效果在不同组织文化价值观上存在差异。该研究指出造成差异的原因可能在于权力距离(power distance)的不同：高权力距离导向的员工认为领导有分配任务的绝对权力，因此对不合规任务的感知并不敏感，导致不合规任务与愤怒情绪之间的正向关系被弱化。章惠敏等人(2019)以中国员工为样本在个体层面进行了考察。她们的研究发现权力距离导向负向调节不合规任务与工作愤怒的关系以及不合规任务与职场越轨行为之间经由工作愤怒的间接效应，即上述关系对高权力距离导向的员工相对较弱。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2.3灵活角色定位",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "灵活角色定位(flexible role orientation)描述了员工对其工作角色的广义理解程度(Parker,Wall,& Jackson,1997)。具有高灵活角色定位的员工，为了团队和组织的利益倾向于将更广泛的任务和目标作为工作角色的一部分。相反，低灵活角色定位的员工倾向于狭隘地定义其角色，以至于不愿意接受超出其工作职责之外的任务(Parker et al.,1997)。基于此，Ma 和 Peng(2019)从灵活角色定位的角度考察了不合规任务对工作认同的影响。该研究发现，高灵活角色定位的员工(相比低灵活角色定位的员工)所识别的任务范围更广，感知的任务不合规程度更低，不合规任务与工作认同的负向关系也更弱。同时，灵活角色定位还调节了不合规任务经由工作认同对任务绩效和主动工作行为的间接影响。不过也有研究总体并未发现灵活角色定位对不合规任务负面效应的缓和作用，甚至发现有灵活角色定位的员工对不合规任务更为敏感(Van Schie et al., 2014)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2.4健康状况 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "考虑到不合规任务对员工身心健康的负面作用，一些研究还考察了个体健康状态的调节作用。Kottwitz 等人(2013)发现个体的健康状况评估会有效抑制不合规任务的负面效果。当员工的主观健康状况良好时，不合规任务与皮质醇的关系较弱。Madsen 等人(2014)的多时点",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "研究发现，初始健康状态好的员工，其心理健康受不合规任务的负面影响相对较小。这项研究还发现年轻员工心理健康所受的负面影响也较小。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6.2.5积极领导",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在组织中，领导通常是任务的直接分配者，其领导风格能够对不合规任务的负面效果产生调节作用。例如，欣赏型领导(appreciative leadership)通过赞扬、认可下属的成就和素质，以及赞赏下属的努力，可以有效缓解不合规任务对下属自尊的威胁(Semmer etal.,2007)。现有结果也证实，领导积极的赞赏可以抵消由不合规任务引起的\"不被尊重\"的感受，并通过赞赏将不合规任务置于有意义的工作情境中，从而减弱不合理任务与离职倾向以及内部动机的负向关系。因此，高欣赏型领导水平下，不合规任务与离职意愿(Apostelet al.,2018)和内部动机(Muntz&Dormann,in press)的关系将被有效抑制。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "还有研究考察了真实型领导(authentic leadership)体系中关系透明(relational transparency)行为的作用。这种领导向下属共享信息，强调信息的公开和真实感受的表达(Avolio&Gardner,2005)，他们会向下属坦率解释为何必须完成不合规任务，帮助下属更好地理解执行这些任务的重要性。Muntz等人(2019)发现，当主管更透明地传达不合规任务并对任务分配进行解释时，员工能更好的理解并执行其决策，这削弱了不合规任务对员工工作满意度的负向影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "新进研究还发现领导支持有助于缓解不合规任务的负面作用(Fila&Eatough,in press)。在高领导支持情况下，不合规任务对员工抑郁的影响相对较小；当工作控制感高的员工得到领导支持时，不合规任务对员工焦虑和抑郁的影响都相对较小。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "综上所述，不合规任务的影响具有权变性，其作用效果会受到个体和情境的影响。目前，对于不合规任务边界条件的研究仍处于起步阶段，对诸多因素的讨论还稍显欠缺。未来的研究可以沿着强化与弱化的思路出发，进一步考察个体因素与情境因素的作用，揭示不合规任务何时、在何种情况下对什么样的员工具有特定的影响。从实践角度讲，这也将有助于组织更好地开展工作设计和人力资源管理。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7未来研究方向",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "近几年，学术界对不合规任务的关注逐渐增多。总体来看，现有研究已表明不合规任务作为一种新型压力源，会对员工的工作和生活造成不可忽略的影响。尽管不合规任务广泛存在于职场环境，但它作为一个独立概念而受到关注仅有十余年历史，仍有许多问题有待后续研究进一步推进和完善。我们认为拓展不合规任务的概念和层次、探索和整合作用机制、探讨权变效应、考察影响因素以及进行文化情境和文化导向的考察是几个可行的和必要的研究方向。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7.1拓展不合规任务的概念和层次，考察团队不合规任务",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "随着劳动分工和协作的需要，团队工作模式作为应对组织变化的有效方式之一，得到了企业的广泛应用。在此背景下，领导经常会以整体团队为对象进行任务分配。然而，目前鲜有研究探讨团队不合规任务(Semmer etal.,2010)。根据社会信息加工理论，团队中的个体会对同一环境条件(如工作任务)产生群体性(collective)心理认知(Chan,1998)。因为同一团队的工作任务具有一定的相似性，团队成员会形成对工作任务是否合规的集体性认知；当团队成员群体性的感到任务不合规时，团队不合规任务就出现了。实际上，Semmer 等人(2010)指出，不合规任务的感知既有个体差异，也有团队和组织差异。Bjork 等人(2013)的多层次分析表明，不合规任务感知除了有个体差异，还有显著的组间差异，暗示存在团队层的不合规任务。总体来看，这些研究表明在团队层面考察不合规任务具有可行性。实际上，这种考察能从多个方面有力地推进现有研究。首先，有助于研究者更全面地了解不合规任务对个体的影响。个体是嵌套在团队中的。以往研究已发现员工个人感知的不合规任务会影响其反应，但如果忽略了员工所在团队的不合规任务，我们对“不合规任务—员工反应”关系的了解是不全面的。根据组织行为学的多层次研究范式，对于团队和个体不合规任务，研究者可以构建跨层次直接效果模型、跨层次调节模型和跨层次青蛙池塘模型(cross-level frog-pond model)等(廖卉，庄瑷嘉,2012)，全面呈现不合规任务对个体的影响。其次，有助于研究者认识不合规任务对团队的影响。现有研究集中探讨不合规任务对个体情绪、认知、态度和行为的影响。虽然大多数个体反应可以聚合到团队层，但考虑到个人和团队的差异，个体层面的关系并不能直接推广到团队层面。例如，在团队层面，团队不合规任务可能会带来团队比较主动的反应，如建言或工作再设计；但在个体层面，这种可能性较少，因为个体可能认为自己感知的不合规任务只与自身相关，使他们缺乏足够的群体动力去建言或进行工作再设计。最后，考察团队不合规任务，还有助于识别不合规任务在不同层面的作用机制。例如，个体不合规任务的核心机制是损害个体自尊和个体效能(self-efficacy)，而团队不合规任务可能会损害团队自尊和团队效能(group efficacy)；显然，它们是完全不同的机制，各有其独特的解释力(Chenetal.,2002)。总体来看，考察团队不合规认为既有可行性，也有必要性，它能捕捉到单个员工的不合规任务认知所不能表征的现象，有助于研究者更好地揭示和阐明职场中不合规任务对团队和团队成员的复杂影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "命题1：除个体层，不合规任务还存在于团队层次，表现为团队不合规任务水平。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7.2识别不合规任务的整合性作用机制",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "虽然现有文献中，不合规任务与消极后果之间的情感机制(如消极情绪、愤怒)和认知机制(如公平感)的中介作用已得到初步探讨(Eatough etal.,2016; Semmer et al.,2015)，但这些研究未充分考虑到情感机制与认知机制的差异及其可能存在的交互作用。正如于晓彤、陈晓和王赫(2019)所发现，卑微工作(dirtywork)会通过情感与认知双路径影响员工的工作行为。为全面理解不合规任务的作用机制，进一步的对比与整合尤为重要。一方面，可以通过构建并行中介模型将认知与情感机制共同纳入研究对比其解释力，探讨个体在不合规任务情境下理性与感性的较量；另一方面，可以依据认知-情感系统理论(cognitive-affective system ofpersonality theory)构建交互型中介模型，发掘认知与情感机制动态交互、互相强化的机理(Mischel& Shoda,1995)，如不合规任务激发的负面认知会进一步加剧消极情感的破坏性作用。鉴于此，未来研究可整合情感与认知双重机制，以此揭示不合规任务如何通过情感-认知双通道影响员工态度和行为策略，识别不合规任务的整合性作用机制。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "命题2：情绪-认知双通道在不合规任务与员工态度、行为反应之间起中介作用，两个中介之间存在交互效应。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "7.3探索不合规任务影响效应的个体和世代差异",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "当前对不合规任务影响后果的研究大多聚焦于个体被动承受不合规任务带来的消极效应，如负面情绪、离职、工作投入降低等。实际上，个体不只是被动地接受自上而下的任务指派，还会主动对工作任务进行调整。不同的员工因为其个人特征的差异，可能会以不同的方式去应对不合规任务。例如，基于 Lazarus 和 Folkman(1984)的压力评价模型(cognitivetheory of stress)，不同个体面对同一压力源的回应并不相同，原因在于他们对该压力源威胁性的初级评价(primary appraisal)和应对压力源潜能的次级评价(secondary appraisal)存在差异。例如，核心自我评价(core self-evaluations,CSE)，作为个体的一种潜在的和深层次的特质特征，就具有这种作用(Kammeyer-Mueller,Judge,& Scott,2009)：相比低 CSE 的员工，高 CSE员工心态乐观，对自我持积极评价，对自己能力充满自信，且认为自己能驾驭外在环境(Judge,Erez,& Bono,1998)，因此会相较少地将压力源视作阻碍/威胁，加上他们较强的应对潜能，他们面对压力时会有较少的负面反应(Beattie& Griffin,2014; Chi,Yang,&Lin,2018;Lim&Tai,2014)。对不合规任务这一压力源亦是如此。高CSE 的员工会较少地将不合规任务看作是阻碍或威胁，甚至可能会将不合规任务视作挑战(Muntz& Dorman,in press)；这使得他们较少表现消极态度和行为，甚至主动采取问题解决型方式(如工作重塑)去应对不合规任务(刘军等,2019)。反之，CSE 低的员工会更多地将不合规任务视为威胁和阻碍，且缺乏应对不合规任务的信心，因而采用情绪型应对策略(如情绪压抑)，这会导致负面态度和行为(Chi et al.,2018;Lim& Tai,2014)。类似地，基于趋避框架理论(Elliot,2008)，回避导向(avoidancesorientation)的个体会因为其固有倾向，面对不合规任务时产生规避态度和行为；趋近导向(approach orientation)的个体则可能会主动采取积极行为来应对不合规任务，寻求解决方法。未来可将研究落脚于个体的主观能动性，探究不同个体在应对不合规任务时的差异反应。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "命题3a：不合规任务对员工的影响效应存在个体差异。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "个体除了以个人身份存在之外，具有同类特征的个体会构成社群。近年来，工作场所的代际问题(generation)逐渐受到关注。现有研究已发现不同代际的员工在许多工作相关变量(如工作价值观、组织承诺)上存在差异(Macky,Gardner,&Forsyth,2008;Lyons,Higgins,&Duxbury,2010)。个体对不合规任务的感知在不同代际之间可能也存在差异。具体地，由于社会文化背景和成长经历的差异，不同代际的群体很可能会有不同的思维模式和认知风格;这些模式会影响他们对外部环境、事件的感知、建构和诠释，进而使他们对不合规任务的敏感性出现差异(Anderson,Baur,Griffith,& Buckley,2017; Joshi,Dencker,&Franz,2011)。例如,",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Laird,Harvey 和Lancaster(2015)指出，相比年长的一代，年轻一代更有权利意识，更偏好问责制、敢于挑战权威人物。因此，面对不合规任务时，代际差异可能在不合规任务与其后果变量之间起到调节作用：年轻一代由于其更高的权利意识和挑战动机可能对不合规任务更加敏感，做出更为强烈的反应。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "命题3b：不合规任务对员工的影响效应存在代际差异。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7.4探索能够预测不合规任务的个体或情境因素",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "尽管揭示不合规任务的前因机制能够为预防和避免不合规任务及其造成的潜在消极影响提供有效手段，但关于不合规任务前因变量的研究还处于起步状态。仅有的几项研究发现组织资源稀缺、控制缺乏(Bjork et al.,2013)、工作场所干预(workplace intervention)(Framke,Sorensen,Pedersen,&Rugulies,2018)会直接影响不合规任务的产生；主管的言语表达策略(discursive framing strategy)(Minei et al.,2018)和领导-下属交换关系(leader-member exchangerelationships)(Sias &Duncan,2019)会影响员工将已有任务识别为不合规的程度。因此，不合规任务的产生可能存在两种途径：不合规任务的直接分配和个体对任务不合规的感知。在此基础上，未来应进一步增加对不合规任务前因的研究，探讨个体和情境因素对不合规任务的影响。如从个人特征出发，探讨追随力(followership)与不合规任务的关系。具体地，积极挑战型追随者(constructive challenging follower)能够有分辨地执行领导的决策，对重要问题坚持自己的观点，即使可能与领导意见产生冲突。此类员工通常敢于表达批判性意见，并采取挑战方式改变领导的(错误)想法(宋继文，郭一蓉，徐大海，罗文豪，王悦,2017)；顺从型追随者(conformist follower)则遵从领导指令，不会运用批判性思维处理问题(Kelley,1992)。因此，领导为避免自己的权威受到挑战更倾向将不合规任务分配给顺从型追随者，而不是积极挑战型追随者(Dvir & Shamir, 2003; Howell& Shamir,2005)。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "命题 4a：员工追随力会影响不合规任务的产生，积极挑战型追随者被分配的不合规任务相较于顺从型更少。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "相较于对在短时间内难以改变的个体特征进行研究，考察组织情境因素(如组织氛围)更具实践价值。组织伦理氛围(organizational ethical climate)是影响组织成员行为的重要因素(Victor&Cullen,1988)，其中，自利型伦理氛围(self-interest ethical climate)是组织伦理氛围中的重要维度。如果组织形成自利型伦理氛围，与\"自利\"相关的价值观和行为规范就会被作为“正当行为\"影响组织内的个体行为，即员工更倾向于将自身的利益和需求放置在他人和组织利益之上，任务安排与决策的目的是将个人利益最大化(Victor&Cullen,1988)。这种组织氛围下强调个体自我风险的规避和利益的自我算计。因此，受高自利型伦理氛围的影响，他人的心理诉求往往不会被任务分配者所考虑，更容易导致不合规任务出现。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "命题4b：高自利型伦理氛围会诱发组织中不合规任务的产生。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7.5开展文化情境和文化导向的不合规任务研究",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "在现有研究中，虽然不合规任务发挥作用功效的权变条件被陆续揭示，但迄今为止，这些边界条件的探索还集中于西方情境中，少有研究考虑中国情境下文化价值取向的权变作用。例如，相比西方员工，中国员工有较强的遵从权威取向(obedience-to-authority orientation)。因此，面对不合规任务时，中国员工更倾向于遵从领导分配任务的绝对权力(Liu,Yang,&Nauta,2013)，认为任务的不合规分配是合理存在的。这使得他们不会像西方员工那样通过强烈的消极情绪(如愤怒、怨恨)和行为(如反生产行为)来应对不合规任务。另一个值得考察的是集体主义导向。集体主义文化(collectivistic culture)强调对内群体的义务与忠诚(Grossmann& Na,2014)。即使被分配不合规的任务，高集体主义文化会让员工以组织利益为核心顺从领导和组织的安排，接受不合规任务，有更少的消极反应。鉴于此，中国文化情境下的遵从权威取向、集体主义价值取向可能会弱化不合规任务的影响效果。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "命题 5a：中国文化价值取向中的遵从权威取向和集体主义取向会弱化不合规任务的负面效应。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "受传统文化影响，中国社会中诸多有特点的文化现象可能会对不合规任务的作用起到影响，如面子观(social face)。面子观主要包含\"丢面子\"(face losing)和\"挣面子\"(face gaining)两个维度。从社会学角度来看，面子是个体在社会交往过程中极力主张的正向社会价值，它代表了一种社会认同和尊重(Goffman，1955)。从心理学角度来看，面子则是渴望呈现在外的公众形象或个体内在的自我形象(Ting-Toomey,2005)，体现了与社会的关系及个体的自身重要性和其自尊价值(成中英，欧阳晓明，翟学伟,2006)。不合规任务压力的来源正是对自我形象和自尊的威胁，二者存在契合之处。当面对不合规任务时，面子观强的个体感知到的\"丢面子\"威胁更强，其形象和自尊的损害更严重，由此引发的情绪和行为变化也会更剧烈。因此，本文认为面子观会强化不合规任务与其负面后果之间的关系。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "命题5b：中国情境下的面子观会强化不合规任务的负面效应。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "除上述调节作用，中国背景下的家长式领导(paternalistic leadership)还可能对不合规任务的产生存在影响。家长式领导是指在一种人治的氛围下，所表现出来的严明纪律与威权、父亲般的仁慈及道德廉洁性的领导方式(Farh&Cheng,2000)。领导者表现的威权对应下属的敬畏顺从，仁慈对应感恩图报，德行对应认同效法。这种\"恩威并施、以德服人\"的悖论式领导方式与下属不合规任务感知的关系是复杂的。一方面，德行和仁慈领导可能更多为员工考虑，布置更少的不合规任务，而威权领导行为则有可能让员工顺从安排(张怡凡，陈默，唐宁玉，2019)，进而产生更多的任务不合规感。另一方面，在对不合规任务的影响上还不明晰，这三种成分还可能存在复杂的交互作用。鉴于此，厘清家长式领导与不合规任务之间的关系对于中国情境下的领导者来说显得尤为重要。未来的研究应充分考虑不合规任务在中西方文化情境下的差异，推动研究的本土化进程。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "命题5c：中国背景下的家长式领导与不合规任务之间存在复杂关系。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "总体而言，不合规任务是一种广泛存在于职场的压力源，对个体、团队、组织有不可忽视的影响。未来应开展深入全面的科学研究，为组织的压力管理实践提供有效的指导。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "成中英，欧阳晓明，翟学伟.(2006)．脸面观念及其儒学根源．中国社会心理学评论,(1),34-47.   \n廖卉，庄瑷嘉.(2012).多层次理论模型的建立及研究方法．组织与管理研究的实证方法(第二版,pp.442- 476)．北京：北京大学出版社.   \n刘军，王琦琦，范雪灵.(2019).应对不合规任务：公正敏感性和成长需求的作用．外国经济与管理,41(6), $1 2 6 { - } 1 3 7 { + } 1 5 2$   \n宋继文，郭一蓉，徐大海，罗文豪，王悦.(2017).追随力视角下积极挑战行为的概念与作用机制研究．管理 学报,14(10),1445-1455.   \n于晓彤，陈晓，王赫.(2019).工作卑微感为何会导致工作退缩行为?消极情绪与工作疏离感的中介作用．中 国人力资源开发, $3 6 ( 6 ) , 3 3 - 4 7 + 7 8$ ，   \n章惠敏，王震，邹艳春，苏子健，彭坚.(2019).任务不合规矩导致员工不守规矩：不合规任务对职场越轨行 为的影响．中国人力资源开发,36(9),105-116.   \n张怡凡，陈默，唐宁玉.(2019)．威权领导与员工创造力:心理依赖的视角．中国人力资源开发,36(4),85-99.   \nAhmed,S.F.,Eatough,E.M.,&Ford, M.T.(2018).Relationships between illgitimate tasks and change in workfamily outcomes via interactional justice and negative emotions. Journal of Vocational Behavior,104,14-30.   \nAnderson,H.J.,Baur,J.E., Grifith,J.A.,& Buckley,M.R. (2017).What works for you may not work for(Gen) Me: Limitations of present leadership theories for the new generation.Leadership Quarterly,28(1),245-260.   \nApostel,E.,Syrek,C.J.，& Antoni,C.H.(2018).Turnover intention asaresponse to illgitimate tasks: The moderating role of appreciative leadership. International Journal of Stress Management, 25(3),234-249.   \nAvolio,B.J.,& Gardner, W.L. (20o5). Authentic leadership development: Geting to the root of positive forms of leadership. Leadership Quarterly,16(3),315-338.   \nBakker,A.,Demerouti,E.,& Schaufeli, W. (20o3).Dual processs at work ina callcentre: Anapplication of the job demands-resources model. European Journal of Work and Organizational Psychology,12(4),393-417.   \nBeatie,L.,& Griffn,B.(2014).Day-level fluctuations instressand engagement inresponse to workplace incivility: A diary study. Work & Stress,28(2),124-142.   \nBjork,L.,Bejerot,E.,Jacobshagen,N.,&Hrenstam,A. (2o13).Isouldn'thave todothis: Iegitimatetasks as a stressor in relation to organizational control and resource deficits.Work & Stress, 27(3),262-277.   \nChan,D.(1998).Functional relations among constructs in the same content domain at diferent levels of analysis: A typology of composition models. Journal of Applied Psychology, 83(2),234-246.   \nChen, G.,Bliese,P.D.,Payne,S.C.,Zaccaro,S.J.,Simsarian Webber,S.,Mathieu,J.E.,&Born,D.H.(2002). Simultaneous examination ofthe antecedents and consequences ofeficacy beliefs at multiple levels of analysis. Human Performance,15(4),381-409.   \nChi,N.-W.，Yang,J.,& Lin, C.-Y. (2018). Service workers' chain reactions to daily customer mistreatment: Behavioral linkages, mechanisms,and boundary conditions.Journal of Occupational Health Psychology, 23(1), 58-70.   \nCropanzano,R.,Byre,Z.S.,Bobocel,D.R.,&Rupp,D.E. (2ol).Moral virtues,fairness heuristics,socialentities, and other denizens of organizational justice. Journal of Vocational Behavior, 58(2),164-209.   \nDeci,E.L.,& Ryan,R.M.(1985). The general causality orientations scale: Self-determination in personality. Journal of Research in Personality,19(2),109-134.   \nDemerouti,E.,Bakker,A.B., Nachreiner,F.,& Schaufeli, W.B. (2001). The job demands-resources model of burnout. Journal of Applied psychology,86(3), 499-512.   \nDvir,T.,& Shamir,B.(2oo3).Follower developmental characteristics as predicting transformational leadership: A longitudinal field study. Leadership Quarterly,14(3),327-344.   \nEatough,E.M.,Meier,L.L.,Igic,I.,Elfering,A.,Spector,P.E.,& Semmer,N.K.(2016). You want me to do what? Two daily diary studies of illegitimate tasks and employee well-being. Journal of Organizational Behavior, 37(1), 108-127.   \nEagly,A.H., Wood,W.,&Diekman,A.B.(2ooo).Social role theoryofsex differences andsimilarities: Acurrent appraisal. In T. Eckes & H. M. Trautner (Eds.),The developmental social psychology of gender (pp.123-174). Mahwah, NJ: Lawrence Erlbaum.   \nEliot, A. J. (2oo8). Handbook of approach and avoidance motivation. New York: Taylor & Francis.   \nFarh, J.L.,& Cheng,B.S.(2Ooo).A cultural analysis of paternalistic leadership in Chinese organizations.In J.T. Li, A.S.Tsui,&E. Weldon (Eds.),Management and organizations inthe Chinese context (pp.84-127).London, UK: Palgrave Macmillan.   \nFila,M.J.，& Eatough,E.(in press).Extending the boundariesof illgitimate tasks: The role of resources. Psychological Reports. doi: 10.1177/0033294119874292.   \nFaupel, S.,OtoK,Krug,H.,& Kottwitz,M. U. (216). Stress atchool?A qualitativestudyon illegitimate tasks during teacher training.Frontiers in Psychology,7,1410.   \nFolger,R.,& Cropanzano,R. (2ool).Fairmesstheory: Justice as accountability. In J. Greenberg & R. Cropanzano (Eds.),Advances in organizational justice (pp.1-55). Stanford, CA: Stanford University Press.   \nFramke,E., Sorensen, O. H.,Pedersen,J.,& Rugulies,R.(2018). Can illgitimate job tasks be reduced bya participatory organizational-level workplace intervention? Results of a cluster randomized controlld trial in Danish pre-schools.Scandinavian Journal of Work, Environment & Health,44(2),219-223.   \nGagné,M.,& Deci, E.L.(20o5). Self-determination theory and work motivation. Journal of Organizational Behavior,26(4),331-362.   \nGofman,E. (1955). Onface-work: Ananalysis ofritual elements in social interaction.Psychiatry,18(3),213-231.   \nGrossmann,I.,& Na,J. (2O14).Research in culture and psychology: Past lessons and future challenges.Wiley Interdisciplinary Reviews: Cognitive Science, 5(1), 1-14.   \nHackman,J. R., & Oldham, G.R. (1975). Development ofthe job diagnostic survey.Journal ofApplied psychology, 60(2), 159-170.   \nHowell,J.M.,& Shamir,B.(2oo5).The roleoffollowers in the charismatic leadership process: Relationshipsand their consequences. Academy of Management Review, 30(1),96-112.   \nIlgen,D.R.,& Holenbeck,J.R. (1991). The structure of work: Job design and roles. In M.D.Dunnete &L.M. Hough (Eds.), Handbook of industrial and organizational psychology (pp. 165-207).Palo Alto, CA: Consulting Psychologists Press.   \nJacobshagen, N. (2006).Ilegitimate tasks,illegitimate stressors: Testing a new stressor-strain concept (Unpublished doctoral dissertation). University of Bern, Bern.   \nJoshi,A., Dencker,J. C.,&Franz, G. (2011). Generations in organizations. Research in Organizational Behavior, 31,177-205.   \nJudge,T.A.,Erez,A.,&Bono,J.E. (1998).The powerofbeingpositive: Therelationbetween positive self-conceptand job performance. Human Performance,11(2-3),167-187.   \nKammeyer-Mueler, J.D., Judge,T. A.,& Scott, B. A.(2009). The role of core self-evaluations in the coping process. Journal of Applied Psychology,94(1),177-195.   \nKelley, R.E. (1992). The power offollowership. New York: Currency Doubleday.   \nKottwitz,M.U., Meier,L.L.,Jacobshagen,N., Kalin, W.,Elfering,A.,Hennig, J.,& Semmer,N. K.(2013). Illegitimate tasks associated with higher cortisol levels among male employees when subjective health is relatively low:An intra-individual analysis.Scandinavian Journal of Work, Environment& Health,39(3),310- 318.   \nKotwitz,M.U.,Pfister,I.B.,Elfering,A.,chummer,S.E.,gic,1.,&Oto,K. (2019).SOS-Appreciationovrboard! Illegitimacy and psychologists' job satisfaction. Industrial Health,57(5), 637-652.   \nKronenwett,M.,&Rigott,T. (019). Whendoyoufaceachaenge?Howunecesarytasksblockthehallenging potential oftime pressure and emotional demands.Journal of Occupational Health Psychology, 24(5), 512-526.   \nKuster,F.,Orth, U.& Meier,L.L. (2013). High self-esteem prospectively predicts beter work conditions and outcomes. Social Psychological and Personality Science, 4(6), 668-675.   \nLaird,M.D.,Harvey,P.,&Lancaster,J.(O15).Accountabilityentitlement,tenure,andsatisfaction inGeneration Y. Journal of Managerial Psychology,30(1),87-100.   \nLazarus,R. S.(206).Stressand emotion:A newsynthesis.NewYork: SpringerPublishing Company.   \nLazarus,R. S.,&Folkman, S. (1984). Stressappraisal, and coping. New York: Springer.   \nLim, S.,& Tai,K. (2014).Family incivilityand job performance: A moderated mediation model of psychological distress and core self-evaluation.Journal of Applied Psychology, 99(2), 351-359.   \nLiu, C.,Yang,L. Q., & Nauta, M.M.(2013).Examining the mediating efect of supervisor conflict on procedural injustice-job strain relations: The function of power distance.Journal ofOccupational Health Psychology, 18(1), 64-74.   \nLyons, S.T.,Higgins, C.A.,& Duxbury,L.(2010). Work values: Development ofa new three-dimensional structure based on confirmatory smallest space analysis.Journal of Organizational Behavior,31(7),969-1002.   \nMa,J.,& Peng,Y. (20l9).The performance costs of ilegitimate tasks: The roleof job identityand flexible role orientation. Journal of Vocational Behavior,110,144-154.   \nMacky,K., Gardner,D.,&Forsyth,S. (2oo8). Generational diferences at work: Introduction and overview.Journal of Managerial Psychology,23(8),857-861.   \nMadsen, I. E., Tripathi, M., Boritz, M.,& Rugulies,R. (2014). Unnecessary work tasks and mental health: A prospective analysis of Danish human service workers.Scandinavian Journal of Work, Environment & Health, 40(6), 631-638.   \nMeier,L.L., & Semmer,N.K. (2018).Ilgiimate tasks as assessd by incumbentsandsupervisors: Converging only modestly but predicting strain as assessed by incumbents,supervisors,and partners. European Journal of Work and Organizational Psychology, 27(6), 764-776.   \nMinei,E.M.,Eatough,E.M.,& Cohen-Charash,Y. (2018).Managing ilegitimate taskrequests through explanation and acknowledgment: A discursive leadership approach. Management Communication Quarterly,32(3),374 397.   \nMischel, W.,& Shoda, Y. (1995). Acognitive-affective system theory ofpersonality: Reconceptualizing situations, dispositions,dynamics,and invariance in personality structure.Psychological Review,102(2),246-268.   \nMorison,E.W.(1994).Role definitions and organizational citizenship behavior: The importance of the employee's perspective. Academy of Management Journal, 37(6), 1543-1567.   \nMunir,H., Jamil, A., &Ehsan, A. (2O17). Ilgitimate tasks and their impact on work stres: The mediating roleof anger. International Journal of Business and Society, 18(S3), 545-566.   \nMuntz,J.,&Dormann, C. (in press).Moderating effcts ofappreciation onrelationships between illegitimate tasks and intrinsic motivation: A two-wave shortitudinal study. European Journal of Work and Organizational Psychology. doi: 10.1080/1359432X.2019.1706489.   \nMuntz, J., Dormann, C.,& Kronenwett, M. (2O19). Supervisors’ relational transparency moderates efects among employes’ illgitimate tasks and job dissatisfaction: A four-wave panel study. European Journal of Work and Organizational Psychology, 28(4), 485-497.   \nOmansky,R.,Eatough,E.M.,&Fila,M.J. (2016). Ilegitimate tasks as an impediment to job satisfaction and intrinsic motivation: Moderated mediation efects of gender and effort-reward imbalance.Frontiers in Psychology, 7,1818.   \nParker,S.K., Wall, T.D.,& Jackson,P.R. (1997).“That's not my job\": Developing flexible employee work orientations. Academy of Management Journal, 40(4), 899-929.   \nPereira,D., Semmer,N.K., &Elfering, A. (2014).Ilegitimate tasks and sleepquality: An ambulatory study. Stress and Health,30(3),209-221.   \nPindek,S.,Demircioglu,E.,Howard,D.J.,Eatough,E.M,&Spector,P.E.(219).Iegitimatetasksare notceated equal:Examining the effects of atributions onunreasonable and unnecessary tasks.Work & Stress,33(3), 231- 246.   \nRizzo,J.R.，House,R.J.,& Lirtzman, S.I.(1970).Role conflict and ambiguity in complex organizations. Administrative Science Quarterly,15(2),150-163.   \nSchmit,M.J.,Neumann,R.,& Montada,L. (1995). Dispositional sensitivity tobefallen injustice.Social Justice Research, 8(4),385-407.   \nSchmit A., Ohly,S.,& Kleespies,N. (2015). Time presure promotes work engagement.Journal of Personnel Psychology, 14(1),28-36.   \nSchulte-Braucks,J.，Baethge,A.,Dormann, C.,& Vahle-Hinz,T. (2019). Get even and feel good? Moderating effects of justice sensitivity and counterproductive work behavior on the relationship between ilegitimate tasks and self-esteem. Journal of Occupational Health Psychology, 24(2),241-255.   \nSemmer,N.K.,Jacobshagen,N.,Meier,L.L.,& Elfering,A. (2007). Ocupational stress research: The“Stress-asOffense-to-Self perspective. In J.Houdmont & S.McIntyre (Eds.), Occupational health psychology: European perspectives on research,education and practice (Vol. 2, pp.43-60). Castelo da Maia, Portugal: ISMAI Publishing.   \nSemmer,N.K.,Jacobshagen,N.,Meier,L.L.,Elfering,A.,Beehr,T.A.,Kalin,W.,&Tschan,F.(2015).legiimate tasks as a source of work stress. Work & Stress, 29(1),32-56.   \nSemmer,N. K., McGrath,J.E.,& Beehr,T.A. (20o5). Conceptual issues in research on stress and health.In C.L. Cooper (Ed.),Handbook of stress medicine and health (pp.1-43).London: CRC Press.   \nSemmer,N.K.,Tschan,F,Jacobshagen,N.,Beehr,T.A.,Elfering,A.,Kalin,W.,&Meier,L.L. (2019).Strssas offense to self: A promising approach comes of age. Occupational Health Science,3(3),205-238.   \nSemmer，N.K.， Tschan,F.，Meier，L.L.，Facchin，S.，& Jacobshagen，N.(2010).Ilegitimate tasks and counterproductive work behavior. Applied Psychology,59(1),70-96.   \nSias,P.M.,& Duncan, K.L. (2019).“I know it's not your jobbut..: Extra-role tasks,communication,and leadermember exchange relationships. Communication Quarterly, 67(4), 355-382.   \nSiegrist,J. (1996).Adverse health effects of high-effort/low-reward conditions.Journal of Occupational Health Psychology, 1(1),27-41.   \nSonnentag,S.,& Lischetzke,T. (2018).Ilegitimate tasks reach into afterwork hours: A multilevel study.Journalof Occupational Health Psychology, 23(2),248-261.   \nSpector,P.E. (2011).The relationship ofpersonality to counterproductive work behavior(CWB): An integration of perspectives. Human Resource Management Review, 21(4),342-352.   \nStocker,D.,Jacobshagen,N.,Semmer,N.K.,&Annen,H.(2010).Appreciationat work inthe SwissArmedForces. Swiss Journal of Psychology, 69(2),117-124.   \nThoits,P.A.(1991).Onmerging identity theory and stressresearch.Social Psychology Quarterly,54(2),101-112.   \nThun,S.,Halsteinli,V.,&Lovseth,L. (2O18).Astudyofunreasonable illegitimate tasks,administrative tasks,and sickness presenteeism amongst Norwegian physicians: An everyday struggle? BMC Health Services Research, 18,407.   \nTing-Toomey,S.(20o5).The matrix of face: An updated face-negotiation theory.In W.B. Gudykunst (Ed.), Theorizing about intercultural communication (pp. 71-92). London, UK: Sage Publishing.   \nVan Schie,S.,Guntert, S.T.,& Wehner,T.(2014).How dare to demand this from volunteers! The impact of illgitimate tasks.VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations,25(4),851- 868.   \nVictor,B.,& Cullen,J.B.(1988).The organizational bases of ethical work climates.Administrative Science Quarterly,33(1),101-125.   \nWeiss,H.M.,& Cropanzano,R.(1996).Afctive events theory:A theoreticaldiscussionof the structure,causes and consequences of affective experiences at work. Research in Organizational Behavior,18,1-74.   \nWeis,H.M.,& Cropanzano,R. (1996).Affective events theory: A theoretical discusion of the structure,causes and consequences of affective experiences at work. Research in organizational behavior,18,1-74.   \nXanthopoulou,D.,Bakker,A.B.,Demerouti,E.,& Schaufeli, W.B.(2Oo7).The role of personal resources in the job demands-resources model. International Journal of Stress Management,14(2),121-141.   \nZhou,Z.E.,Eatough,E.M.,&Wald,D.R.(2018).Feeling insulted?Examining end-of-work angeras a mediator in the relationship between daily illegitimate tasks and next-day CWB.Journal of Organizational Behavior, 39(8),911-921. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "That is not my job! Illegitimate tasks and its impact on employees ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "WANG Zhen1; QIAN Penghui1; PENG Jian² ( Business School,Central University ofFinance and Economics,Beijing ooo81,China) ( School of Management, Guangzhou University, Guangzhou 51ooo6, China) ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Ilegitimate tasks, as a new type of workplace stressor, has gradually become a frontier topic in organization and management research. Ilegitimate tasks refer to the tasks that are inconsistent with employees' expected work scope and that are unnecessarily performed or not belong to someone，and they include unreasonable tasks and unnecessary tasks. This article introduces the concept and measurement of illegitimate tasks,and systemically reviews its influences on employees' emotion, cognition, motivation, work atitude, work behavior, physical and mental health,and work-family relationship.The review also indicates that the nature and magnitude of such influence depend on the characteristics of employees and situations where employees work. Stress-as-offense-to-self theory, justice theory, job demands-resources model, job characteristics model, affective event theory,and self-determination theory are primary explaining accounts for the influence.Future research is encouraged to expand the concept and level of illgitimate tasks,unpack and integrate the mechanisms underlining its impact, investigate its contingent effects,and identify antecedents of illegitimate tasks.Developing the research of illegitimate tasks in cultural context and cultural orientation is also needed. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Key Words: illegitimate tasks; unnecessary tasks; unreasonable tasks; stressor; strain ",
+        "page_idx": 22
+    }
+]

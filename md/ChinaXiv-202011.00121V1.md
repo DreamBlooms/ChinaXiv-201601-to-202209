@@ -1,0 +1,208 @@
+# 县域尺度下的宝鸡市农业洪水灾害脆弱性评价及区划
+
+徐玉霞，许小明²，方峰³，贺锐(1宝鸡文理学院/陕西省灾害监测与机理模拟重点实验室,陕西宝鸡 7210132西北农林科技大学水土保持研究所,陕西杨凌7121003兰州区域气候中心,甘肃兰州730020)
+
+摘要：为探究农业洪水灾害发生机理和降低洪水灾害对农业生产的不利影响，以宝鸡市为例，利用辖区内2014年降水数据与2015年社会经济统计资料，依据自然灾害脆弱性理论，从易损性和适应性2个因子着手，选取了年降水量等12个分指标，构建了宝鸡市农业洪水灾害脆弱性评价指标体系,运用均方差赋权法确定权重，利用ArcGIS10.2技术以县域尺度视角对研究区农业洪水灾害脆弱性进行了综合评价与区划。结果表明：(1）高易损性区主要集中在岐山县、金台区等年降水量较高且耕地比重较大的区县。（2）高适应性区主要包括渭滨区、金台区等经济发达地区。（3）高脆弱性区为太白县、千阳县;较高脆弱性区为陇县、麟游县、岐山县、扶风县；中等脆弱性区为陈仓区、凤翔县；低脆弱性区为金台区、渭滨区、眉县、凤县。整体来看，宝鸡市农业水灾高脆弱区集中分布在辖区东北部，宝鸡市政府及有关部门应加强水灾风险研究,根据各区县的地理环境特征和经济发展水平来因地制宜调整土地利用结构和农业种植结构，重视防洪工程建设，降低农业水灾脆弱性以减轻农业洪水灾损。
+
+# 关键词：农业；洪水灾害；脆弱性；评价及区划；县域尺度；宝鸡市文章编号
+
+在全球气候变暖的背景下，世界各地农业生产面临多种自然灾害的威胁[1]。国内外灾害学界一般认为自然灾害灾情的发生是致灾因子对脆弱的孕灾环境作用的结果[2-3]。为减少灾害的发生频率及降低灾损，学者们在主要气象灾害的发生机制和防灾减灾等方面做了大量研究[4-5]。近些年,农业灾损程度较过去显著增加，一方面取决于自然灾害的发生强度及爆发频率，另一方面与承灾体的脆弱性也紧密相关。20 世纪70 年代以来，在对灾害发生机理的研究过程中，致灾因子危险性和承灾体脆弱性之间的耦合关系得到了国内外学者的日益重视[6-9],认识到承灾体脆弱性程度高低对灾损具有“放大”和"缩小”的作用[10-1]。因受技术水平和认知范围的局限，当前对致灾因子的发生机理和作用方式干预程度较低，因此研究不同地区承灾体脆弱性的分布规律，降低脆弱性成为减轻自然灾损的重要举措。
+
+农业洪水灾害泛指因洪水泛滥、低地积水和土壤水分过多危害农作物生长，造成作物减产或绝收，以下简称农业水灾。中国是世界上水灾发生频次和实际灾损最多的国家。据统计，目前我国国土面积的1/10、近100 多座大中城市、约 $5 \times 1 0 ^ { 8 }$ 人口及$3 . 3 \times 1 0 ^ { 7 } ~ \mathrm { k m } ^ { 2 }$ 的耕地面积和全国 $70 \%$ 的工农业总产值受到水灾的威胁[12]。因此在定量评价农业水灾易损性以及适应性的基础上，寻求降低农业水灾影响的途径，对减轻农业水灾损失具有重要的意义，已有研究运用不同方法分析了农业洪水灾害脆弱性[13-14]。近50 多年来渭河流域年降水量呈减少趋势[15],受季风年际和季节波动的影响,宝鸡市近年来自然灾害频发，尤其是水旱灾害对宝鸡市的农业生产造成了巨大的损失，制约着农业的可持续发展[16]。经文献综述发现,目前宝鸡市自然灾害对农业经济的影响研究较多地集中在旱灾方面，洪涝灾害方面主要体现为周旗、万红莲、杜鹃、马莉等[17-21]学者对宝鸡市历史时期洪涝灾害的发生规律、强度、原因等进行了研究。本文主要针对典型季风区中地形地貌条件复杂的中尺度地区一宝鸡市，围绕当地农业洪水灾害脆弱性进行了分析和评价，对认识农业水灾发生机理和减轻实际灾损具有一定的现实意义。
+
+# 1 研究区概况
+
+宝鸡市位于我国西北内陆，居关中平原西部，为陕西省重要的农业大市,辖区面积 $1 8 \ 1 1 7 \ \mathrm { k m } ^ { 2 }$ ,常住人口 $3 7 7 . 5 \times 1 0 ^ { 4 }$ （2016年）。境内地貌类型复杂多样，主要水系包括渭河干流宝鸡段、嘉陵江上游、千河、漆水河、石头河和清姜河等(图1）。辖区内粮食作物以小麦、玉米为主，辅以大麦、高粱、水稻、扁豆等杂粮副产品。历史时期，当地发生过多次洪涝、干旱、冰雹、霜冻等多种自然灾害。水灾是研究区内仅次于旱灾的第二大灾害类型。受季风气候年际波动和降水季节分配不均的影响，宝鸡市灾害性天气频发[22]。据统计,公元601—1990年,研究区共计 538个水旱灾害年，其中纯水灾年有142a,水旱灾交错年有 $9 6 \mathrm { ~ a } ^ { [ 1 8 ] }$ 。宝鸡市水灾灾损以夏季水灾为最,其次是秋季水灾，常造成洪水爆发、毁坏农田、破坏房屋、人员伤亡等严重灾情[21] C
+
+# 2 数据来源与研究方法
+
+# 2.1数据来源及指标体系构建
+
+根据农业承灾体脆弱性的主要影响因素并参照前人研究成果，遵循评价指标体系构建的基本原则[23-24],结合宝鸡市农业发展的具体情况,基于资料的可得性和详尽程度，较为客观地建立了宝鸡市农业水灾脆弱性评价指标体系，利用层次分析法确定了各指标的权重(表1）。其中水文气象指标数据源于宝鸡市气象局;森林覆盖率、旱涝保收面积、农林水支出和地均非农业产值等数据来自宝鸡市统计局；人均耕地面积、复种指数、单位农用机械总动力、第一产业占GDP比重、耕地比重指标数据来自《陕西省统计年鉴》（2015年)；人均可支配收入、农村居民家庭人均纯收入出自宝鸡市各区县2014年国民经济和社会发展统计公报。
+
+![](images/ae9aaa7e70b34c5670e0cd31812b3d58e4b5bb760573454c54e5e2503eb55d0d.jpg)  
+图1宝鸡市地理位置图  
+Fig.1Location map of Baoji City
+
+表1宝鸡市农业水灾脆弱性指标体系与权重  
+Tab.1Index system and weight of agricultural flood vulnerability in Baoji City   
+
+<html><body><table><tr><td>目标层</td><td>准则层</td><td>指标层</td><td></td><td>权重</td><td>指标属性</td></tr><tr><td rowspan="6">农业水灾脆弱性</td><td>易损性(V)</td><td>年降水量／mm</td><td>X1</td><td>0.0769</td><td>+</td></tr><tr><td>0.508 8</td><td>森林覆盖率／%</td><td>X2</td><td>0.0950</td><td>一</td></tr><tr><td></td><td>人均耕地面积/亩·人-1</td><td>X3</td><td>0.068 6</td><td>+</td></tr><tr><td></td><td>复种指数／%</td><td>X4</td><td>0.077 1</td><td>+</td></tr><tr><td></td><td>耕地比重／%</td><td>X5</td><td>0.094 2</td><td>+</td></tr><tr><td></td><td>旱涝保收面积／hm²</td><td>X6</td><td>0.097 0</td><td>+</td></tr><tr><td></td><td>适应性(E)</td><td>单位农用机械总动力／kw·hm-2</td><td>X7</td><td>0.0783</td><td></td></tr><tr><td></td><td>0.491 2</td><td>第一产业占GDP比重／%</td><td>X8</td><td>0.091 3</td><td>+</td></tr><tr><td></td><td></td><td>人均可支配收入／元</td><td>X9</td><td>0.0811</td><td>一</td></tr><tr><td></td><td></td><td>农村居民家庭人均纯收入／元</td><td>X10</td><td>0.0933</td><td>一</td></tr><tr><td></td><td></td><td>农林水支出／104</td><td>X11</td><td>0.073 7</td><td>一</td></tr><tr><td></td><td></td><td>地均非农业产值／104·km-²</td><td>X12</td><td>0.073 5</td><td>1</td></tr></table></body></html>
+
+# 2.2 研究方法
+
+均方差赋权法是确定指标权重的一种客观赋权  
+的方法，通过使用均方差来对随机变量之间离散程  
+度予以反应的一种方法[25-26]。基本方法是将选取  
+的评价指标作为随机变量，对随机变量进行无量纲  
+化处理，之后对各项指标求均方差，再对求得的均方  
+差进行归一化处理，最后计算其各项指标的权重系  
+数[23-25]O
+
+2.2.1数据归一化处理使用极值标准化的方法对各项指标进行无量纲化处理，对于越大越好的指标，用正向指标处理方法对其处理;反之，用负向指标处理[26-27],计算公式为：
+
+正向指标： $x _ { i j } = { \frac { x _ { j } - x _ { \operatorname* { m a x } } } { x _ { \operatorname* { m a x } } - x _ { \operatorname* { m i n } } } }$
+
+式中： $x _ { i j }$ 为标准化后的变量值； $x _ { j }$ 为原始数据； $x _ { \mathrm { m a x } }$ 为最大值； $x _ { \operatorname* { m i n } }$ 为最小值。
+
+2.2.2 指标权重的确定计算随机变量均值 $\left( \boldsymbol { e } _ { i } \right)$ ：
+
+$$
+e _ { i } = \frac { 1 } { n } \sum _ { j = 1 } ^ { n } x _ { i j }
+$$
+
+计算随机变量的均方差 $( \pmb { \sigma } _ { i } )$ ：
+
+$$
+\sigma _ { i } = \sqrt { \frac { 1 } { n } \sum _ { j = 1 } ^ { n } \left( x _ { i j } - e _ { i } \right) ^ { 2 } }
+$$
+
+求权重系数 $\textbf { ( } w _ { i } \textbf { ) }$ ：
+
+$$
+{ w _ { i } } = { \sigma _ { i } } \mathord { \left/ { \vphantom { \sigma _ { i } \sum _ { i = 1 } ^ { n } } } \right. \kern - delimiterspace } \sum _ { i = 1 } ^ { n } { \sigma _ { i } }
+$$
+
+# 2.2.3计算综合评价值
+
+$$
+R = \sum _ { i = 1 } ^ { n } w _ { i } \times x _ { i j }
+$$
+
+式中： $R$ 指综合评价值; $\boldsymbol { w } _ { i }$ 为指标数据的权重； $x _ { i j }$ 为指标标准化后的变量值。
+
+# 3结果与分析
+
+通过对宝鸡市三区九县的2个子系统12项分指标数据进行前期处理、计算，并借助ArcGIS10.2软件对其进行空间分析及区划，得到宝鸡市农业水灾脆弱性分析结果（表2）。
+
+表2宝鸡市农业水灾脆弱性各指标值  
+Tab.2Index value of vulnerability of agricultural floods in Baoji City   
+
+<html><body><table><tr><td>地区</td><td>易损性</td><td>适应性</td><td>脆弱性</td></tr><tr><td>渭滨区</td><td>0.2613</td><td>0.155 7</td><td>0.417 0</td></tr><tr><td>金台区</td><td>0.316 4</td><td>0.112 8</td><td>0.4291</td></tr><tr><td>陈仓区</td><td>0.2041</td><td>0.2747</td><td>0.478 8</td></tr><tr><td>凤翔县</td><td>0.2707</td><td>0.202 4</td><td>0.473 0</td></tr><tr><td>岐山县</td><td>0.308 7</td><td>0.262 7</td><td>0.5713</td></tr><tr><td>扶风县</td><td>0.286 5</td><td>0.2968</td><td>0.5834</td></tr><tr><td>眉县</td><td>0.149 7</td><td>0.294 2</td><td>0.4438</td></tr><tr><td>陇县</td><td>0.1787</td><td>0.422 0</td><td>0.6007</td></tr><tr><td>千阳县</td><td>0.241 1</td><td>0.3914</td><td>0.632 5</td></tr><tr><td>麟游县</td><td>0.2178</td><td>0.388 5</td><td>0.6063</td></tr><tr><td>凤县</td><td>0.211 1</td><td>0.2011</td><td>0.412 2</td></tr><tr><td>太白县</td><td>0.277 1</td><td>0.3817</td><td>0.658 8</td></tr></table></body></html>
+
+# 3.1 易损性评价与区划
+
+农业水灾易损性表征为承灾体受洪水胁迫敏感的程度，受研究区自然条件、社会经济条件及其组合关系的影响。影响宝鸡市农业水灾易损性的主要因子包括年降水量、森林覆盖率、人均耕地面积、复种指数、耕地比重和旱涝保收面积等。根据表2计算所得的各区县指标值，在ArcGIS10.2软件中利用自然断点法得出宝鸡市农业水灾易损性等级图（图2)，易损性程度分别为高（ $( 0 . 3 2 \sim 0 . 2 9 )$ 、较高$( 0 . 2 9 \sim 0 . 2 4 )$ 、中等 $( 0 . 2 4 \sim 0 . 1 8 \$ ）、较低 $( 0 . 1 8 \sim$ 0.15)四个等级。
+
+（1）由图2可知，宝鸡市农业水灾易损性最高值分布在金台区、岐山县。金台区位于宝鸡市城区北部，北、西、南三面为塬、山环绕，全区北依陵塬和贾村塬，南缘阶地，地势低平的自然环境特征对灾害具有“放大”的作用。金台区森林覆盖率较低，耕地比重较高，且金台区年降水量处于各县区前列,致使综合叠加后的易损性程度最高。岐山县位于宝鸡市东北部，具有“两山夹一川，两水分三塬”的自然环境分布格局，主要水系为渭河和韦水河。独特的地形特征叠加较为丰沛的降水量以及较高的耕地面积比重，导致该区的农业水灾易损性程度最高。
+
+![](images/8dbdc90886ee762cf1291325371523569588b6ba1628e8000c30e5797e09079c.jpg)  
+图2宝鸡市农业水灾易损性等级分布图 Fig.2Distribution map of vulnerability grade of agricultural flood in Baoji City
+
+（2）易损性较高的地区表征为渭滨区、凤翔县、扶风县以及太白县。渭滨区跨渭河两岸，地形南高北低，中部为低山坡地，渭河自西向东穿过。辖区内年降水量较高，森林覆盖面积在宝鸡市3区9县中属中等水平，受降水量较大及渭河阶地地形的综合影响，致使渭滨区的农业水灾易损性程度较高。凤翔县及扶风县农业水灾易损性程度较高的原因主要由于县域森林覆盖面积居全市最低，森林涵养水源、保持水土的能力较弱。太白县作为宝鸡市境内森林覆盖面积最高的县域之一，森林覆盖率为 $9 1 . 9 6 \%$ ，但由于其年降水量为全市最高，故极易成灾。
+
+（3）中等易损性区涵盖陈仓区、千阳县、麟游县和凤县。陈仓区地处秦岭山区、关中平原和黄土高原三大地貌过渡区，全区地形以山地为主。境内年降水量较大，但由于森林覆盖率较高、旱涝保收面积较大，因此陈仓区农业水灾易损性等级居中等水平。千阳县年降水量虽处于全市较低水平，但由于该地人均耕地面积较高，在灾害发生时会造成较大的农业经济损失。麟游县的人均耕地面积为全市最高，但麟游县旱涝保收面积较大，遭遇水灾时造成的农业损失较低。凤县的年降水量、复种指数比较高，但由于耕地比重较低和森林覆盖面积较高，农业水灾易损性等级不高。
+
+（4）低易损性县域表征为眉县和陇县。眉县森林覆盖率为 $4 9 . 5 \%$ ，易损性程度较低，且眉县人均耕地面积、复种指数和耕地比重均较低，导致眉县的易损性等级处于低水平状态。陇县除人均耕地面积较高外，其他对易损性起正向作用的指标均处于全市低水平状态，致使陇县的易损性等级较低。
+
+# 3.2 适应性评价与区划
+
+农业水灾适应性表征为水灾发生前后农业承灾体是否具有较好的防御、抵抗及修复的能力[28]。宝鸡市水灾适应性的主要影响因子有第一产业占GDP比重、人均可支配收入、农村居民家庭人均纯收入、农林水支出和地均非农业产值。根据表2的指标值，依据ArcGIS10.2软件中的自然断点法得出宝鸡市农业水灾适应性等级分布图（图3），分为高 $( 0 . 1 6 \sim 0 . 1 1 \$ 、较高 $( 0 . 2 \sim 0 . 1 6 )$ ）、中等(0.2\~0.3)和低 $( 0 . 3 \sim 0 . 4 2 )$ 四个等级。
+
+图3表明，宝鸡市农业水灾高适应等级区主要分布在较发达地区，即金台区、渭滨区，两区对农业依赖程度低，经济水平高，防灾减灾投入大，因此适应等级最高。较高等级适应县域为凤县和凤翔县，两县人均可支配收入高，致使水灾发生前后凤县和凤翔县均具有较好的防御、抵抗及修复的能力。中等级适应区县为陈仓区、岐山县、扶风县和眉县。陈仓区的农业产值占GDP的比重处中等水平，但因陈仓区的地均非农业产值偏低，致使陈仓区的承灾和恢复能力较低。岐山县、扶风县和眉县位于宝鸡的东部，第一产业比重均高于全区平均水平，扶风县的单位农用机械总动力较高，但人均可支配收入与农村居民家庭人均纯收入较低，故扶风县的适应性等级处中等水平。岐山县与眉县农业比重虽较大，但其人均可支配收入和农村家庭人均纯收入较高，在灾害发生时具有较强的抵抗力。适应程度为低等级县域包括陇县、千阳县、麟游县和太白县。四县经济发展过程中对农业依赖性较高，人均可支配收入及农村家庭人均纯收入低，且地均非农业产值低，致使水灾来临时抵抗力偏弱，易受水灾影响。
+
+![](images/05a6f3782252b3721df224d0f3043476bfa1157df03d590ba2b512164d22796c.jpg)  
+图3宝鸡市农业水灾适应性等级分布图 Fig.3Distribution map of adaptability level of agricultural flood in Baoji City
+
+# 3.3 脆弱性评价与区划
+
+综合以上两种评价结果,通过计算得出宝鸡市农业水灾脆弱性水平，借助ArcGIS10.2技术空间分析功能并运用自然断点法将宝鸡市农业水灾脆弱性划分为高 $( 0 . 6 6 \sim 0 . 6 1$ ）、较高 $( 0 . 6 1 \sim 0$ 48）、中 $( 0 . 4 8 \sim 0 . 4 4 )$ 、低 $( 0 . 4 4 \sim 0 . 4 1 )$ 四个等级（图4）。
+
+（1）宝鸡市农业水灾高脆弱性等级县域包括太白县和千阳县。太白县森林覆盖率居全市最高，但其年降水量及第一产业比重较大，对脆弱性起降低作用的因子中除森林覆盖率和单位农业机械动力较高外，其他因子均低于全市平均水平。农村居民家庭人均纯收入、人均可支配收入和旱涝保收面积等指标均较低，导致太白县农业水灾适应性程度偏低，脆弱性偏高。黄柏塬二郎坝小盆地是太白县极易发生农业水灾的区域，四周高中心低地形特征导致当地农业水灾发生概率增大。千阳县地处关中西陲，地貌、降水以及森林覆盖率等自然因素有利于降低当地农业水灾脆弱性，但第一产业比重较大，且农业支出以及农民收入较低，致使农业灾损较大，灾后恢复能力偏弱。
+
+![](images/b6ae81592eb1874ab8bd42ec341bea5bd61088112d2670b71700c6460597c544.jpg)  
+图4宝鸡市农业水灾脆弱性等级分布图 Fig.4Distribution map of vulnerability level of agricultural flood in Baoji City
+
+(2）较高脆弱性区包括陇县、麟游县、岐山县和扶风县。陇县位于关中平原西部,地势西高东低，年降水量较小,森林覆盖率较高，主要以农业为主（占当地GDP的 $5 2 . 4 7 \%$ )，当地农村居民家庭人均收入较低，备灾救灾投入较少。麟游县、岐山县与扶风县位于宝鸡市的东北部，农业占GDP的比重在宝鸡各区县中处中等水平。耕地比重较高，岐山与扶风两县地势较为低平，降水量较大且集中在夏秋的分配特征，导致当地农业水灾脆弱性较高。
+
+（3）中等脆弱性区为陈仓区和凤翔县。陈仓区三面环山，西高东低，中部低凹，森林覆盖率较高 $( 4 9 . 3 \%$ ），年降水量较高( $\mathrm { 7 0 1 ~ m m }$ )。但第一产业占GDP比重较低，且当地经济发展水平较高，农村居民家庭人均收入较高，因此该区农业洪水灾害脆弱性等级处中等水平。凤翔县经济水平居各区县前列，但较高的年降水量导致脆弱性处于中等水平。
+
+（4）低脆弱性区为金台区、渭滨区、眉县和凤县。金台区与渭滨区位于宝鸡市中部，第二、三产业发达，第一产业占GDP的比重居全市最低，洪水灾害对该区的影响较小。眉县森林覆盖率居全市最高，且经济发展水平较高，因此脆弱性等级低。凤县经济水平高，第一产业占GDP比重小，灾前及灾后凤县都有较高的应灾、抗灾和救灾的能力，故脆弱性等级低。
+
+在流域范围内，夏秋暴雨或春季急剧融雪产生的径流，均汇集于河道的出口断面处，导致河道水位猛涨，淹没地势低平地区，往往造成人员和社会财产的损失。影响宝鸡市农业洪灾发生的洪水主要来自渭河上游甘肃段和宝鸡市境内干流和主要支流的汇流，农业洪灾一般发生在夏秋两季，主要集中在 $6 \sim$ 9月，辖区内全流域的极端强降水和长时间降水过程会形成河流高水位，加剧洪水灾害的发生，随着汇水区范围的增大和河道平均比降降低，在河道沿岸和下游地势低洼区形成洪水淹没带，对洪水影响范围内的人口、粮食作物、牲畜、建筑物和基础设施造
+
+# 表3宝鸡市1970—2000 年洪涝灾害主要受灾区
+
+Tab.3Mainaffected areasby flood disaster ofBaoji City in1970-2000   
+
+<html><body><table><tr><td>年代</td><td>年份</td><td>主要受灾区</td><td>与本研宄区划 结果吻合程度</td></tr><tr><td>70年代</td><td>1976</td><td>眉县</td><td></td></tr><tr><td rowspan="3">80年代</td><td>1977</td><td>关中渭河以南区县</td><td rowspan="3">67%的区县分布在 区划结果中的中</td></tr><tr><td>1981</td><td>扶风、宝鸡市西部区县</td></tr><tr><td>1988</td><td>宝鸡市区</td></tr><tr><td rowspan="6">90年代</td><td>1989</td><td>千阳、陈仓区、凤翔</td><td>等及以上脆弱区 等级中，33%的区</td></tr><tr><td>1990</td><td>陇县、眉县、千阳、陈仓区</td><td>县分布在低脆弱</td></tr><tr><td>1992</td><td>关中西部</td><td>区</td></tr><tr><td>1993</td><td>宝鸡市大部分区县</td><td></td></tr><tr><td>1994</td><td>关中大部</td><td></td></tr><tr><td>1996</td><td>陇县、千阳、陈仓区</td><td></td></tr><tr><td></td><td>1998</td><td>陈仓区</td><td></td></tr></table></body></html>
+
+成极大的损失。
+
+# 3.4 区划检验
+
+本文依据《中国气象灾害大典·陕西卷》[29]和《陕西历史自然灾害简要纪实》[30]中宝鸡市1970—2000年近30a各区县洪涝灾害记录（主要参考洪涝灾害发生较严重地区），对宝鸡市农业洪水灾害脆弱性评价及区划结果进行验证（表3）。
+
+由表3可知，宝鸡市1970—2000 年洪涝灾害发生频次最高的区域为陈仓区、眉县、千阳和陇县，其中 $67 \%$ 以上的县区均在本文区划结果中的中等至高风险范围内。地区极端强降水事件对导致洪涝灾害发生具有重要作用，洪涝灾害发生时研究区内承灾体的易损性和适应性决定了该区的脆弱性水平[31]。表3的统计结果与本文得出的区划结果基本一致，且区划结果与宝鸡市的实际灾情基本吻合，从而表明本文的区划结果具有一定的实用性和参考价值。
+
+# 4结论
+
+本文根据自然灾害相关理论，构建了集承灾体易损性和适应性在内的宝鸡市农业洪水灾害脆弱性评价指标体系，对研究区农业水灾脆弱性做了分析和评价，结论如下：
+
+（1）宝鸡市农业水灾易损性高等级区主要集中在岐山县、金台区等年降水量较高且耕地比重较大的区县。农业水灾高适应性区主要分布在渭滨区、金台区等经济发达地区。陇县、千阳县、麟游县、太白县的农业水灾适应性程度较低，因此其脆弱性以
+
+易损性为主导。
+
+(2）整体来看，宝鸡市农业水灾高脆弱区集中分布在辖区东北部，农业水灾多发地表征为渭河、千河等沿岸低平区、山区河流集水区、沟道沿岸、封闭低洼盆地。本文的研究结果与陈香[25]关于福建省农业水灾研究结果相比，年均灾次与脆弱性分布并不一致,这主要由于宝鸡市地域范围较小,地形复杂且气候多变。河流上游汇水区域、下游泄洪能力、辖区内土壤类型、人类活动对下垫面的干扰程度都是影响当地农业水灾发生的重要因子，小尺度范围内农业洪灾发生存在局地性、突发性、不确定性、预报难度大等特征[32],因此灾次分布无法与脆弱性一致。经验证本文的研究结果与实际情况基本相符，因此具有一定的参考价值。
+
+（3）宝鸡市农业水灾脆弱性分析结果表明，承灾体易损性和适应性共同影响农业水灾脆弱性。由于农业水灾是自然和社会经济因素相互作用的结果，影响脆弱性的因子不仅涉及降水、地形等自然条件，而且与当地的社会经济水平密切相关，随着城镇化的逐步推进，流域的径流和水文过程发生了变化[33-34]。受降水年际、季节波动影响,农业水灾发生频次总体上呈现波动变化的特征。2000一2014年关中地区植被覆盖面积有所减少[35],其固持水土的能力减弱，承灾体易损性等级增强。因此辖区内各区县应根据当地的自然环境条件、经济结构和发展水平进行防灾备灾，采取生态减灾措施，因地制宜合理调整人口地域结构[24]和农业生产结构,注重农业水灾风险管理，强化风险市场转移机制和风险管理运行保障机制的建设力度[36] ○
+
+（4）本研究主要针对典型季风区中地形地貌条件复杂的中尺度地区一一宝鸡市，围绕当地农业洪水灾害脆弱性进行了分析和评价，并提出了应对措施。但对宝鸡市农业水灾脆弱性评价是基于2014年的数据资料进行的分析，只关注了横向对比分析，缺乏纵向分析。由于截面数据不易获取，文中未对此部分内容予以展开。同时，对各区县频受洪水灾害影响的地块进行实地调查将会有助于当地农业洪水灾害的风险研判和管理，今后应加强对这方面的研究，以增强研究结果的科学性与可信度。
+
+# 参考文献(References)
+
+[1］孙华,何茂萍,胡明成.全球变化背景下气候变暖对中国农业生产的影响[J].中国农业资源与区划，2015，36(7）：51-57.[SUN Hua,HE Maoping,HU Mingcheng.Impact of global climaticwarming on agricultural production in China[J].Chinese Journalof Agricultural Resources and Regional Planning,2O15,36(7）:51-57.]
+
+[2]KENNETH Hewitt Regions of risk[M]. Singapore: Routledge, 1997:14 -15.   
+[3]BEN W,PIERS B,TERRY C,et al. At risk:Natural hazard,people's vulnerability and disasters[M].London:Routledge,1994.   
+[4］曹玮.洪涝灾害的经济影响与防灾减灾能力评估研究［D].长 沙：湖南大学,2013.［CAO Wei.The research on the evaluation of economic impact and disaster prevention and mitigation capacity for flood disaster[D]. Changsha: Hunan University,2013.]   
+[5］李海成.水旱灾害对粮食生产的影响及风险管理研究[D].哈 尔滨：东北农业大学,2016.[LI Haicheng.Research on the influence of flood and drought disasters on food production and risk management[D].Harbin：NortheastAgricultural University, 2016.]   
+[6]BLAIKIE P,CANNON T,DAVIS I,et al. At risk:Natural hazards, people'svulnerability and disasters[J]. Economic Geography, 1996,2(4) :13 -21.   
+[7]ZERGER A.Examining GIS decision utility for natural hazard risk modelling[J].Environmental Modelling& Software,2002,17（3）: 287 -294.   
+[8］商彦蕊,史培军.人为因素在农业旱灾形成过程中所起作用的 探讨——以河北省旱灾脆弱性研究为例[J].自然灾害学报, 1998,7(4）):35-42.[SHANG Yanrui,SHI Peijun. Discussion on the role of anthropogenic factors in the forming of agricultural drought disaster process[J]. Journal of Natural Disasters,1998,7 (4) :35 -42.]   
+[9］王静爱,商彦蕊,苏筠,等.中国农业旱灾承灾体脆弱性诊断与 区域可持续发展[J].北京师范大学学报（社会科学版）,2005, 189(3）:130-137.[WANG Jing'ai,SHANG Yanrui,SU Jun,et al.Avulnerability diagnosis of agricultural drought disastersand regional sustainable development in China[J]. Journal of Beijing Normal University（Social Sciences Edition）,2005,189（3）:130 -137.]   
+[10］李晶云,谷洪波.农业洪涝灾害受灾体脆弱性、恢复力及其影 响因素分析[J].沈阳农业大学学报（社会科学版),2012,14 (5）:519 -522.[LI Jingyun,GU Hongbo.The bodies stricken by agricultural flood disasters:Vulnerabilityresilience and influential factors[J]. Journal of Shenyang Agricultural University(Social Sciences Edition）,2012,14(5）:519-522.]   
+[11］樊运晓,陈庆寿,罗云.区域减灾与可持续发展[J].灾害学, 1999,14（3）:93-96.[FAN Yunxiao,CHEN Qingshou,LUO Yun. Regional disaster reduction and sustainable development[J]. Journal of Catastrophology,1999,14（3） :93 -96.]   
+[12］马宗晋.中国重大自然灾害及减灾对策（总论)[M].北京：科 学出版社,1994:11-21.［MA Zongjin.China's major natural
+
+disasters and mitigation measures（general）[M].Beijing:Science
+
+Press,1994:11 - 21.] [13]JHA R K,GUNDIMEDA H. An integrated assessment of vulnerability to floods using composite index:A district level analysis for Bihar,India[J].International Journalof Disaster Risk Reduction,   
+2019,35. [14]YANG Weichao,XU Kui,LIAN Jijian,etal. Integrated flood vulnerability assessment approach based on TOPSIS and Shannon entropy methods[J].Ecological Indicators,2018,89:269-280. [15]冯星,郭建青,孙东永,等.近55a渭河流域气候变化[J].干旱 区地理,2018,41（4）:718-725.[FENG Xing,GUO Jianqing, SUN Dongyong,etal.Climatechangecharacteristics in Weihe River Basin from 1960 to 2015[J].Arid Land Geography,2018,41 (4):718 -725.] [16］庞德谦,傅志军.气候变化与宝鸡市粮食产量关系初探[J].宝 鸡文理学院学报（自然科学版）,1996,16（1）:60-64.[PANG Deqian,FU Zhijun.Possible effects of climates change on grain yield in Baoji region[J].Journal of Baoji Collegeof Artsand Sciences（Natural Science）,1996,16(1） :60-64.] [17］周旗.过去1500a宝鸡市农业旱涝灾害与全国冷暖对应分析 [J].干旱区研究,2003,20(2）:123-126.[ZH0UQi.Analysis on the correspondence between the agricultural disasters caused by droughtsand water loggings in Baoji and the climate change in east China during the past 1 50O years[J].Arid Zone Research,2003,   
+20(2):123 -126.] [18］万红莲,周旗,樊维翰,等.公元600—2000 年宝鸡市洪涝灾害 发生规律［J].干旱区研究,2013,30（4）:697－704.[WAN Honglian,ZHOU Qi,FAN Weihan,et al.Flood disasters in the Baoji region during the period of A.D.60O-2Ooo[J].Arid Zone Research,2013,30(4） :697 - 704.] [19］郁耀闯,赵景波.唐代关中地区水涝灾害研究[J].干旱区资源 与环境,2007,21（8）:39-43.[YU Yaochuang,ZHAO Jingbo. Studies on flood disaster in the Tang Dynasty in Guanzhong area [J]. Journal of Arid Land Resources and Environment,2007,21 (8) :39 -43.] [20］杜娟,赵景波.清代关中渭河流域洪涝灾害研究[J].干旱区研 究,2007,24(5）:598-603.[DU Juan,ZHAO Jingbo.Study on flood disasters in the Guanzhong regionof the Weihe River Basin in the Qing Dynasty[J].Arid Zone Research,2007,24（5）:598-   
+603.] [21］马莉,赵景波.宋代关中平原洪涝灾害研究[J].干旱区资源与 环境,2008,22（10）:78-82.[MA Li,ZHAO Jingbo.The research on the flood disaster of Guanzhong in Song Dynasty[J]. Journal of AridLand Resourcesand Environment,20o8,22(（10）:   
+78 -82.] [22］王春娟,李建军,张峰,等.宝鸡市近50 a气候变化特征[J].陕 西气象,2012,26（3）:26-30.[WANG Chunjuan,LI Jianjun, ZHANG Feng,et al. Characteristics of climate change in Baoji City during recent 5O years[J]. Journal of Shaanxi Meteorology,2012,
+
+26(3):26-30.]
+
+[23］王建章.宝鸡市地方志编纂委员会·宝鸡市志（上)[M].西安：三秦出版社,1998.［WANGJianzhang.Editorial committeeoflocal chronicles in Baoji City $\cdot \cdot$ Baoji Chronicles(on)[M].Xi'an:Three Qin Press,1998.]
+
+[24］刘兰芳，关欣.农业水灾脆弱性综合评价及生态减灾研究- 以湖南省为例[J].水土保持学报，2006,20（2)：188－192. [LIULanfang,GUAN Xin.Vulnerability of agricultural flood-waterlogging disaster and agricultural losses reduction during floodwaterlogging disaster through implementation of ecological measures:A case study of Hunan Province[J]. Journal of Soil and Water Conservation,2006,20(2）:188-192.]
+
+[25］陈香.福建省农业水灾脆弱性评价及减灾对策[J].中国生态 农业学报,2008,16（1）:206-211.[CHEN Xiang.Vulnerability assessment of agricultural flood and mitigation countermeasures in FujianProvince[J].Chinese Journal of Eco-Agriculture,2O08,16 (1):206-211.]
+
+[26］孙平军，丁四保.人口一经济一空间视角的东北城市化空间分异研究［J].经济地理，2011,31（7）：1094－1100.［SUNPingjun,DING Sibao.Spatial differentiation on northeast China ur-banization based on the perspective of population-economy-space[J].EconomicGeography,2011,31（7）:1094-1100.]
+
+[27］孙平军，丁四保，修春亮,等.东北地区"人口一经济一空间"城市化协调性研究[J].地理科学，2012,32（4）：450-457.［SUNPingjun,DING Sibao,XIU Chunliang,et al.Population-economy-space urbanization of northeast China[J].Scientia GeographicaSinica,2012,32(4):450-457.]
+
+[28］刘敏，方如康.现代地理科学词典［M].北京：科学出版社，2009:401.[LIU Min,FANG Rukang. Dictionary of modern geog-raphy science[M].Beijing:Science Press,2Oo9:401.]
+
+[29］温克刚，翟佑安.中国气象灾害大典·陕西卷[M].北京：气象 出版社,20O5:7O-87.[WENKegang,ZHAI Youan.Grand ceremony of China meteorological disaster:Shaanxi volume[M].Beijing:Meteorological Press,2005:70-87.]
+
+[30］陕西历史自然灾害简要纪实编委会.陕西历史自然灾害简要 纪实[M].北京：气象出版社,2002:69-80.［Editorialcommittee of brief documentary for historical natural disasters in Shaanxi. Brief documentary for historical natural disasters in Shaanxi[M]. Beijing:Meteorological Press,2002:69 -80.]   
+[31］徐玉霞,许小明,马楠.县域尺度下的陕西省洪涝灾害风险评 估及区划[J].干旱区地理,2018,41（2）:306-313.[XU Yuxia,XU Xiaoming,MA Nan.Assessment and regionalization of flood disaster risk in Shaanxi Province at the county scale[J].Arid Land Geography,2018,41(2）:306-313.]   
+[32］邱瑞田.我国洪水干旱突发事件及应急管理[J].中国应急救 援,2007,(4）:4-8.[QIU Ruitian.Flood and drought emergencies and emergency management in China[J]. China Emergency Rescue,2007,(4):4-8.]   
+[33］白勇,高瑞忠,王喜喜,等.北方半干旱快速城镇化流域径流变 化的驱动因素分析[J].干旱区地理,2018,41（2）：282-289. [BAI Yong,GAO Ruizhong,WANG Xixi,et al.Driving factors on runoff change in the north semiarid rapidly urbanization watershed [J].Arid Land Geography,2018,41(2）:282 -289.]   
+[34］王登,荐圣淇,胡彩虹.气候变化和人类活动对汾河流域径流 情势影响分析[J].干旱区地理,2018,41（1）：25-31.［WANG Deng,JIAN Shengqi,HU Caihong. Impacts of climate change and human activities on runoff in Fenhe River Basin[J].Arid Land Geography,2018,41(1） :25 -31.]   
+[35］岳辉,刘英.近15a陕西省植被时空变化与影响因素分析[J]. 干旱区地理,2019,42（2):314-323.[YUE Hui,LIU Ying. Vegetation spatio-temporal variation and its driving factors of Shaanxi Province in recent 15years[J].Arid Land Geography, 2019,42(2) :314 -323.]   
+[36］陶建平.长江中游平原农业洪涝灾害风险管理研究［D].武 汉：华中农业大学,2O04.［TAO Jianping.A research on risk management of agricultural flood disaster in the plain of the midYangtze River[D]. Wuhan: Huazhong Agricultural University, 2004.]
+
+# Assessment and zoning of vulnerability of agricultural flood diaster in Baoji City based on county scale
+
+XU Yu-xia’， XU Xiao-ming²，FANG Feng³，HE Rui1 (1Key Lab of Disaster Monitoring and Mechanism Simulating of Shaanxi Province,Baoji Universityof Arts and Sciences,Baoji 721013,Shaanxi,China;   
+2Institute of Soil and Water Conservation,Northwest A & F University,Yangling 712100,Shaanxi,China;   
+3Regional Climate Center in Lanzhou,Lanzhou 73oo2O,Gansu,China)
+
+Abstract：Floodsareanatural phenomenon.The frequencyofflooding disasters willincrease if there isan imbalance between people and the land.Agricultural floods occurbecause of the interaction between naturaland socio-economic factors.Thevulnerabilityandadaptabilityof thedisaster-affectedbodiesaffctthevulnerabilityofagricultural floods.As a critical agricultural city and population gathering areain the wester partof the Guanzhong area, Shanxi Province,China,the landform typesof Baoji City in the area are complex and diverse.Owing to the interanual and seasonalfluctuations in the East Asian summer monsoon,the flood disasters in Baoji Cityare frequent and serious,andthedamagecausedby flood disasters issecondonlyto droughtdisasters.Therefore,itis critical to conduct arisk assessment and zoning research of agricultural floods.Based on the precipitation data in 2014 and the socio-economic statistics in2O15,this study initialldiscussed with the vulnerabilityandadaptability factors and selected 12 subindexes,including annual precipitation.We constructed the index systemand evaluation model for he vulnerabilityasessment ofagricultural flood disasters in Baoji Cityand determined the weightbyusingamean-variance weighting method.The vulnerabilityof agricultural flood disasters in the studyarea was comprehensively evaluated and zoned using ArcGIS 10.2 technology from the perspective of a county scale.Results show the following : (1）The high-vulnerability area is concentrated inthe districts and counties with high annual precipitation and the large proportion of cultivated land in Daishan Countyand Jintai District.（2）Highlyadaptable areas include economically developed areas such as Weibin District and Jintai District.（3）High-vulnerability areas are Taibai County and Qianyang County.The higher vulnerability areas are Jixian,Linyou,Daishan,and Fufeng,the medium-fragile areasarethe Chencang Districtand Fengxiang County,and the low-vulnerabilityareas are the Jintai District,Weibin District,Meixian County,and Feng County.Overall,the high-fragilityareas of agricultural floods in Baoji Cityare concentrated in thenortheastern part of thecounty.Agricultural floodsare generally manifested inareas such as the Weihe River and Qianhe River,the mountain river catchment areas,channel coasts,and closed low-lying basins.The Baoji Municipal government and relevant departments should formulate the necessary disaster prevention and mitigation measures to reduce agricultural flood damage based on the characteristics of the cultivated environment,economic development level,population distribution pattern,and land-use structure of each district and county.Among them,ecological disaster reduction is apractical and efective measure to cope with flood disasters.The zoning resultsare consistent with the disaster situation in Baoji City,which could provide areliable reference for the comprehensive management of regional agricultural floods.As there are few studieson flood disasters in smalland mediumscale areas with complex topographicalconditions of the past,this study isaimedat Baoji City,a mesoscale area with complex topographical and geomorphological conditions ina typical monsoon climate zone.We analyzed and evaluatedthe vulnerabilityof local agriculturalflood disastersand proposed countermeasures.We believe that theoccurrence of agricultural floods in small-scale regional areas is characterizedby locality,suddenness,uncertainty,and difficulty inforecasting.The early warning,forecasting,and monitoring areof great practical significance forreducing the vulnerability and mitigating the actual damage.
+
+Key words:agricultural； flood disaster； vulnerability；assessment and zoning；county scale；Baoji City

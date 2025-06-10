@@ -1,0 +1,428 @@
+[
+    {
+        "type": "text",
+        "text": "支气管肺类癌的临床特点及预后因素分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈野野，田震寰，周小昀，张晔，刘洪生，李单青中国医学科学院北京协和医学院北京协和医院胸外科，北京100730通信作者：李单青 电话：010-69152630，E-mail：pumchlsq@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目的探讨支气管肺类癌，包括典型类癌（typical carcinoid，TC）及不典型类癌（atypical carcinoid，ATC）的临床特点及手术治疗经验，并分析可能的预后因素。方法回顾总结200年1月至2014年1月间在北京协和医院接受手术治疗并经病理检查证实为TC或ATC的57例患者临床资料，同时进行生存和预后分析。结果57例患者中男性35例，女性22例，年龄49岁（12\\~85岁），病程3个月（1\\~156个月），临床症状缺乏特异性，12例伴有异位促肾上腺皮质激素综合征。术后病理确诊TC39例，ATC 18例；I期为主，共41例，Ⅱ期和Ⅲ期各7例，IV期2例。5年、10年存活率分别为 $9 2 . 4 \\%$ 及 $8 9 . 0 \\%$ 。Kaplan-Meier分析显示，病理类型、T分期及N分期的P值分别为0.001、0.000、0.004。结论支气管肺TC及ATC缺乏特异性临床表现，手术效果良好，病理分型、肿瘤T分期和N分期可能是预后的影响因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】神经内分泌癌；肺；手术治疗；预后【中图分类号】R734.2 【文献标志码】ADOI: $1 0 . 3 9 6 9 / \\mathrm { j }$ .issn. 1674-9081.2018.02. 000【文章编号】1674-9081（2018)02-0000-06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diagnostic and therapeutic features of bronchopulmonary carcinoid ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Ye-ye,TIAN Zhen-huan， ZHOU Xiao-yun， ZHANG Ye, LIU Hong-sheng，LI Shan-qing",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Departmentof Thoracic Surgery，Peking Union Medical Collge Hospital，Chinese Academy of Medical Sciences & Peking Union Medical College，Beijing1OO730，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corresponding author：LI Shan-qing Tel：O1O-69152630,E-mail：pumchlsq@ 163.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 ObjectiveThe aim of this study was to evaluate the clinical features and the surgical experience of patients with bronchopulmonary carcinoids，including typical carcinoid（TC）and atypical carcinoid （ATC），and to analyze the potential prognosticfactors.MethodsFrom January 2O to January 2O14,the clinical data of 57 consecutive cases of bronchopulmonary undergoing surgical resection and confirmed as TC or ATC by pathology in Peking Union Medical Collge Hospital were retrospectivelyanalyzed；survival and prognostic analysis were also performed.ResultsThere were 35 males and 22 females.The median age was 49（12-85) years old，and the median duration of disease was 3（1-156）months. Clinical symptoms lack specificity，and 12 cases got ectopic adrenocorticotropic hormone syndrome.The postoperative pathological examination confirmed 39 cases of TC and 12 casesof ATC; staging consistedof 41 cases of stage I,7 stage II,7 stage Il and 2 stage IV.The 5-year and the 1O-year survival rates were $9 2 . 4 \\%$ and $8 9 . 0 \\%$ ，respectively. Kaplan-Meier analysis showed that the $\\mathrm { \\Delta P }$ values of pathological type，T stage and N stage were O. OO1,O. OOO and O. OO4，respectively. ConclusionsThe clinical features of bronchopulmonary TC and ATC areatypical and these patients have a preferably prognosis after surgery.Pathological types，T stages，and N stages might be the prognostic factors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Key words】 carcinoma，neuroendocrine；lung；surgery；prognosis",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Med JPUMCH，2018,9(2):0-00",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "支气管肺神经内分泌肿瘤（bronchopulmonary neu-roendocrinetumor，BPNET）为一组起源于支气管肺部弥散神经内分泌系统的异质性肿瘤，占肺部恶性肿瘤的 $2 0 \\% \\sim 2 5 \\% ^ { [ 1 - 2 ] }$ 。世界卫生组织（World Health Or-ganization，WHO）按照生物学特性将BPNET分为4个主要病理类型：典型类癌（typicalcarcinoid，TC）、不典型类癌（atypicalcarcinoid，ATC）、大细胞神经内分泌癌（large-cell neuroendocrine carcinoma，LCNEC）及小细胞肺癌（small-cell lung cancer，SCLC）[3]SCLC及LCNEC是恶性度极高的神经内分泌肿瘤，主要治疗手段为化疗和放疗；TC及ATC属于分化较好的神经内分泌肿瘤，治疗以手术切除为主，辅助放疗和化疗的效果欠佳，缺乏靶向药物，占肺部原发恶性肿瘤的 $1 \\% \\sim 3 \\% ^ { [ 1 - 2 , 4 ] }$ ，成为近年研究的热点之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于TC 和ATC罕见，不适宜开展前瞻性临床试验，多数临床经验来自小样本单中心回顾性分析，在临床表现、治疗方案及预后因素等方面尚存争议。本文回顾性分析北京协和医院近15年来57例接受手术治疗的支气管肺类癌病例资料，总结其临床特征，并分析潜在预后因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1对象与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1' 对象与分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取2000年1月至2014年1月在北京协和医院确诊 、接受手术治疗并经术后病理证实为支气管肺TC及ATC的所有患者。仅以活检为目的的病例不纳入本分析中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. $\\mathbf { \\Sigma } _ { 2 } ^ { 9 }$ 观察指标及随访 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总结并分析患者临床特点、影像学表现、手术方式、病理特点及分期、随访结局。患者术后生存期为手术日期到患者死亡或末次随诊日期，随访时间截至2016年10月。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 手术治疗 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所有患者接受以手术为主的综合治疗方案。手术方法根据肿瘤部位、大小及术中冰冻病理结果等具体情况不同而采用经侧开胸或经胸腔镜进行的肺叶或肺楔形切除。肿瘤分期参考美国癌症联合会（AmericanJointCommitteeOnCancer，AJCC）第7版肺癌分期标准[5]。术后根据病理分期情况，Ⅱ期以上患者选择性行辅助治疗并长期随诊。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "应用SPSS19.0软件进行数据分析。符合正态分布的计量资料采用均数 $\\pm$ 标准差表示，组间比较采用 $\\mathbf { \\chi } _ { t }$ 检验；非正态分布采用中位数（四分位数）表示，组间比较采用非参数检验（曼-惠特尼 $U$ 检验）。计数资料采用卡方检验。应用Kaplan－Meier生存曲线及Log-rank单因素检验分析生存时间及预后相关因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择年龄、性别、肿瘤部位（中心型及外周型）、病理类型（TC与ATC）、是否合并异位促肾上腺皮质激素综合征、肿瘤T分期、N分期以及术后是否接受辅助治疗等作为变量因素，生存分析采用单因素Log-rank 检验。 $\\scriptstyle P < 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1一般资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "共57例支气管肺类癌患者入选本研究，占同期北京协和医院胸外科肺癌手术切除患者总数的 $1 . 2 3 \\%$ （57/4631），其中男性35例，女性22例（男：女比例 $1 . 6 : 1$ ），中位年龄49岁（ $1 2 \\sim 8 5$ 岁)；中位病程3个月（1\\~156个月）；27例（ $4 7 . 4 \\%$ ，27/57）有吸烟史，其中男性24例。TC及ATC在年龄、性别、吸烟状况上无统计学差异（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 临床症状 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "15例患者（ $2 6 . 3 \\%$ ，15/57）无任何临床症状，常规体格检查发现；25例（ $4 3 . 9 \\%$ ， $1 5 / 5 7$ ）出现呼吸道症状，其中刺激性干咳13例，痰中带血12例；5例(5/57， $8 . 8 \\%$ ）表现为胸闷、胸痛；12例（12/57，$2 1 . 0 \\%$ ）表现为异位促肾上腺皮质激素综合征（ectopicadrenocorticotropic hormone syndrome，EAS）（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3影像学表现 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人选患者均接受计算机断层扫描（computed tomo-graphy，CT）检查。周围型病变多为类圆形结节，部分可被强化，分叶、毛刺及胸膜皱缩较为少见（图1)；中心型病变与其它中心型肺癌的表现类似，常伴有阻塞性肺不张。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4纤维支气管镜检查",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中央型病变28例，23例行纤维支气管镜检查，镜下可见新生物表面血供丰富。其中12例于镜下取活检，5例活检诊断考虑TC，术后病理证实；2例考虑TC或ATC，术后病理证实为ATC；2例考虑不除外SCLC，术后病理证实1例为TC、1例为ATC；2例考虑为低分化鳞癌和腺癌，术后病理证实为ATC。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5 围手术期状况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "38例患者（38/57， $6 6 . 7 \\%$ ）接受肺叶切除术，其余手术方式包括联合肺叶切除5例（5/57， $8 . 8 \\%$ ）、袖式切除及支气管成型手术8例（8/57， $1 4 . 0 \\%$ ）、亚肺叶切除4例（ $7 . 0 \\%$ ，4/57）、全肺切除2例",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/181694cab427a3542d28896c192f9767eb123600b95b243c09261cd514bedf26.jpg",
+        "table_caption": [
+            "表1支气管肺类癌患者一般资料及临床症状"
+        ],
+        "table_footnote": [
+            "EAS：异位促肾上腺皮质激素综合征；\\*非正态分布采用非参数检验；计数资料采用卡方检验"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td>典型肺类癌</td><td>不典型肺类癌</td><td>P值*</td></tr><tr><td>例数(n)</td><td>39</td><td>18</td><td></td></tr><tr><td>年龄［中位数（范围)，岁]</td><td>46.0 (12~85)</td><td>56.5 (30~67)</td><td>0.097</td></tr><tr><td>性别(n)</td><td></td><td></td><td>0.600</td></tr><tr><td>男性</td><td>24</td><td>11</td><td></td></tr><tr><td>女性</td><td>15</td><td>7</td><td></td></tr><tr><td>吸烟状况(n)</td><td></td><td></td><td>0.289</td></tr><tr><td>吸烟</td><td>17</td><td>10</td><td></td></tr><tr><td>非吸烟</td><td>22</td><td>8</td><td></td></tr><tr><td>肿瘤部位(n)</td><td></td><td></td><td>0.064</td></tr><tr><td>外周</td><td>23</td><td>6</td><td></td></tr><tr><td>中央</td><td>16</td><td>12</td><td></td></tr><tr><td>症状(n)</td><td></td><td></td><td></td></tr><tr><td>咳嗽</td><td>5</td><td>8</td><td></td></tr><tr><td>痰中带血</td><td>8</td><td>4</td><td></td></tr><tr><td>EAS</td><td>11</td><td>1</td><td></td></tr><tr><td>胸闷胸痛</td><td>2</td><td>3</td><td></td></tr><tr><td>无症状</td><td>13</td><td>2</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（ $3 . 5 \\%$ ，2/57)；系统性淋巴结清扫或采样55例，2例未作清扫或采样（表1)。12例接受经电视胸腔镜辅助手术，其中2例中转开胸。无围手术期死亡病例，4例出现并发症，包括2例肺不张（经纤维支气管镜下吸痰后好转）和2例术后肺部感染（经抗感染治疗后好转）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6术中冰冻及术后病理诊断 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6.1术中冰冻检查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "26 例行术中快速冰冻病理检查，（1）20例（ $2 0 /$ 26， $7 7 . 0 \\%$ ）考虑 BPNET未分型，其中15例术后病理证实为TC，5例为ATC；（2）6例 $( 6 / 2 6 , ~ 2 3 . 1 \\% )$ （2未提示BPNET，术后病理5例确诊为TC，1例为ATC。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6.2 术后病理诊断 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肿瘤最大径线为 $2 . 3 \\ \\mathrm { c m }$ ? $( 0 . 5 \\sim 7 . 5 ~ \\mathrm { c m }$ ）。57例患者中有39例（39/57， $6 8 . 4 \\%$ ）诊断为TC（图2），18例（ $\\cdot 1 8 / 5 7 , 3 1 . 6 \\%$ ）为ATC。2例术中发现胸膜腔播散，术后病理均为ATC。15例患者（15/57,$2 6 . 3 \\%$ ）出现淋巴结转移，其中N1有7例（7/57，$1 2 . 3 \\%$ ），N2有8例（8/57， $1 4 . 0 \\%$ ）(表2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7术后辅助治疗及随访 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "57 例患者中位随访时间72个月（16\\~144个月）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8aa ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A，C：典型肺类癌（黄色箭头），A为肺窗，C为纵隔窗动脉期；B，D：不典型肺类癌（红色箭头)，B为肺窗，D为纵隔窗动脉期。均表现为类圆形实性结节，可见强化，边界较为光滑，未见明显分叶、毛刺、胸膜牵拉",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f30e0c3f3a2118ce65ea2342ab3895f094f1dfc11bba41686610a5f4f947a510.jpg",
+        "img_caption": [
+            "图1周围型典型及不典型肺类癌CT表现",
+            "图21例支气管肺典型类癌的病理染色（放大倍数 $\\cdot \\times 2 0 0$ ）A：苏木素-伊红（HE）染色；B：突触素（Syn）免疫组化染色；C：嗜铬颗粒蛋白A（CgA）免疫组化染色"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7390143dd658f3d0017655cfbfbe887aedf5aec91b4c8de61acf62cf13c7aa54.jpg",
+        "table_caption": [
+            "表2支气管肺类癌患者手术情况及病理资料"
+        ],
+        "table_footnote": [
+            "#患者中有2例未行淋巴结清扫或采样，结合临床及术后随诊考虑无淋巴结转移，纳入N0分期；\\*正态分布计量资料采用 $\\mathbf { \\Phi } _ { t }$ 检验；计数资料采用卡方检验"
+        ],
+        "table_body": "<html><body><table><tr><td>inaXiv:201806.00218v1 瘤最大差，cm） LN 清扫或采样 全肺切除 成形或袖式切除 分期（n） 控播散（M1a）（n) (n) (n)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12例患者行单纯辅助化疗，1例单纯辅助放疗，1例先后行辅助化疗及放疗。截至2016年10月，57例患者中5例死于肿瘤进展，3例失访，49例存活，主要死亡原因为血行转移，涉及骨骼、肝脏、脑及肾上腺转移。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.8生存分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用Kaplan-Meier 法计算生存期，5年、10年存活率分别为 $9 2 . 4 \\%$ 及 $8 9 . 0 \\%$ （图3A）。Log-Rank单因素分析显示，病理分型、T分期及N分期为影响类癌预后的风险因素（ $P$ 值均 $< 0 . 0 1$ )，而年龄、性别、肿瘤部位、是否合并EAS、术后辅助治疗等因素在两组间无显著性差异（ $P$ 均 $> 0 . 0 5$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本组患者的中位年龄49岁，男性稍多，约 $6 1 . 4 \\%$ ，吸烟率 $4 7 . 4 \\%$ ，TC及ATC患者在年龄、性别、吸烟率以及病变部位均无显著差异，与我们之前报道的一组LCNEC患者情况差异较大（中位年龄63岁、男性患者占比 $8 2 . 8 \\%$ 、吸烟率 $8 0 \\%$ )[8]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从症状上来看，约四分之一患者无临床症状，在体检时发现；五分之一患者表现为EAS，大部分病变来自胸腔，肺部为主，胸腺其次[9-10]。呼吸道症状主要表现为咳嗽、咳痰、痰中带血，多为中央型病变,还可以表现为胸闷、胸痛；无呼吸道症状或伴有EAS病变的患者多为周围型病变[10]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除EAS外，由于TC及ATC缺乏特异性临床症状，因此影像学检查尤其是胸部CT检查至关重要。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "病变部位外周型与中央型相当，中央型病变与其它中央型肺癌的影像学表现类似，常伴有阻塞性肺不张或肺炎。周围型病变中TC多表现为密度均一的类圆形结节，边界清楚，边缘光整，易被误诊为良性病变，而LCNEC的影像学则表现为边界不规整、分叶状密度不均的结节或肿块，存在明显的毛刺及胸膜牵拉[8,11,13]；ATC 的影像学表现多变，可以如 TC一般的边界清楚的类圆形结节，也可表现为梭形、分叶、不规则状等，较少出现明显的毛刺及胸膜牵拉[11-12]。合并EAS的患者，当CT扫描显示可增强的肺部类圆形、梭形、分叶等病变时[1I-12]，需高度怀疑 TC 及ATC的可能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "无内分泌功能的支气管肺类癌病变术前诊断困难，主要依赖病理诊断。由于BPNET的病理分型需结合细胞群的生长排列特点、有无坏死、细胞大小、形态、核分裂相数目以及免疫组化等因素综合判断[3,7,14-15]，因此术前小标本活检的准确性较低，本研究中纤维支气管镜下取活检的12例中央型病变中仅5例可明确诊断；此外，由于BPNET血供丰富，镜下活检的风险较高。术中送快速冰冻病理检查者26例中虽然有21例考虑神经内分泌肿瘤，但仅1例获得准确诊断并分型，19例分型并不明确，还有1例判断为SCLC，后经石蜡病理检查证实为TC。因此，BPNET术前和术中的病理诊断难度大，多为术后诊断，这也是多数关于BPNET的报道为回顾性研究的原因。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "虽然提倡支气管肺类癌的多学科综合治疗策略，但由于放疗和化疗效果欠佳，且缺乏靶向药物，因此对局限性可切除的支气管肺类癌病灶，手术切除是首选且唯一证实有效的治疗方案[7,16-17]。手术指征与其它NSCLC相同，为I-ⅢIa期病变或部分经详细评估并慎重选择的可切除Ⅱb期病变。本组患者中2例为V期，术前评估为可切除但术中发现有胸膜腔播散（M1a），术后病理诊断均为ATC。全组患者术后5年、10 年存活率分别为 $9 2 . 4 \\%$ 及 $8 9 . 0 \\%$ ，属疗效较好的肺部恶性肿瘤。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/716b204da589857823a4dc02e67b8c20220c40b9916933b200aa0dfc4a723b98.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "57 例支气管肺类癌患者Kaplan-Meier生存曲线图A：总生存曲线；Log-rank 单因素分析病理类型（B）、N分期（C）及T分期（D）， $P$ 值分别为0.001， $< 0 . 0 0 1$ ，0.004；OS:总生存期；TC：典型类癌；ATC：不典型类癌"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "病理分型、肿瘤T分期、N分期可能是影响预后的因素。从病理类型来看，TC患者随访中未出现死于肿瘤的情况，而ATC患者的3年、5年、10年存活率分别为 $8 3 . 3 \\%$ ， $7 6 . 4 \\%$ 和 $6 5 . 5 \\%$ ，与文献报道的TC10 年存活率 $9 0 \\%$ 以上及ATC10 年存活率 $6 0 \\%$ 左右一致[18-20]。发现病变时，有 $1 0 \\% \\sim 1 5 \\%$ 的 TC 病灶出现淋巴结转移， $3 \\% \\sim 5 \\%$ 出现远处转移；而ATC则有$4 0 \\% \\sim 5 0 \\%$ 出现淋巴结转移， $20 \\%$ 出现远处转移[2,7,21]；说明ATC 的侵袭性较 TC 强，预后更差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于支气管肺类癌少见，缺乏大样本临床数据以及前瞻性临床试验，因此治疗策略参考了NSCLC的治疗，术后对Ⅱ期及Ⅲ期患者行辅助性放化疗。部分学者认为，手术根治切除的患者并未从术后辅助治疗获益，建议对根治性切除包括I～Ⅲ期的患者，不使用辅助放化疗[20]。截至目前，仅有一项前瞻、随机、对照Ⅲ期临床试验评估了依维莫司（哺乳动物类雷帕霉素靶蛋白抑制剂）对NET患者生活质量的影响，即RADIANT-4研究[22]，研究人员认为对无法手术根治的非功能型BPNET，依维莫司可显著延长无进展生存期，但其是否适用于术后辅助治疗，目前尚缺乏临床数据支持。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究为回顾性分析，由于病例数少，仅57例，时间跨越前后10余年，在检查手段、诊断方式、手术方法、化放疗方案等方面标准并不统一，因此结果存在一定偏倚，本研究结果只作参考，更多结论尚需进一步多中心数据的支持。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，支气管肺类癌为罕见的、分化较好的神经内分泌癌，临床症状及影像学检查缺乏特异性表现，术前小标本活检的准确性欠佳，确诊依靠术后石蜡病理及免疫组化检查，手术是该病首选治疗方案，病理分型、肿瘤T分期、N分期是影响预后及生存的潜在因素。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sanchez de Cos Escuin J. Diagnosis and treatment of neuroendocrine lung tumors ［J]．Arch Bronconeumol，2014，50: 392-396. Pusceddu S,Lo Russo G，Macerelli M,et al.Diagnosis and management of typical and atypical lung carcinoids［J].Crit Rev Oncol Hematol,2016，100：167-176. Travis WD BE，BurkeAP， MarxA， etal．WHO classification of tumours of the lung，pleura，thymus and heart [M].4th ed.Geneva，Switzerland：WHO Press，2015: 9-97. Han B,Sun JM,Ahn JS,et al. Clinical outcomes of atypical carcinoid tumors of the lung and thymus:7-year experience of a rare malignancy at single institute［J].Med Oncol,2013, 30: 479. Lababede O，Meziane M，Rice T.Seventh edition of the cancer staging manual and stage grouping of lung cancer: quick reference chart and diagrams ［J].Chest，2O11,139: 183-189. Yao JC,Hassan M,Phan A,et al. One hundred years after “carcinoid”：epidemiology of and prognostic factors for neuroendocrine tumors in 35，825 cases in the United States [J].J Clin Oncol，2008，26:3063-3072. Wolin EM.Advances in the diagnosis and management of well-differentiated and intermediate-differentiated neuroendocrine tumors of the lung[J]. Chest,2017,151:1141-1146.. 陈野野，李单青，田震寰，等.肺大细胞神经内分泌癌手 术治疗及预后因素［J].协和医学杂志，2016,7：98-103. Chen YY,Li SQ,Liu HS,et al.Ectopic adrenocorticotropic hormone syndrome caused by neuroendocrine tumors of the thymus：3O-year experience with 16 patients at a single institute in the People's Republic of China [J]. Onco Targets Ther，2016,9：2193-2201. 李力，陈野野，李单青，等.肺部病变所致异位促肾上腺 皮质激素综合征的临床诊治经验［J].中国肿瘤临床与康 复，2014，21：1227-1231. Chong S,Lee KS,Chung MJ,et al．Neuroendocrine tumors ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "of the lung：clinical，pathologic，and imaging findings［J]. Radiographics，2006,26:41-58.   \n[12]Franks TJ,Galvin JR.Lung tumors with neuroendocrine morphology :essential radiologic and pathologic features ［J]. Arch Pathol Lab Med,2008，132：1055-1061.   \n[13]Akata S,Okada S，Maeda J，et al.Computed tomographic findings of large cell neuroendocrine carcinoma of the lung [J].2007,31:379-384.   \n[14]Travis WD.Pathology and diagnosisof neuroendcrine tumors：lung neuroendocrine ［J]. Thorac Surg Clin，2014, 24: 257-266.   \n[15］Wolin EM. Challenges in the diagnosis and management of well-differentiated neuroendocrine tumors of the lung（typical and atypical carcinoid）：current status and future considerations［J].Oncologist，2015,20：1123-1131.   \n[16]Filosso PL,Ferolla P,Guerrera F，et al.Multidisciplinary management of advanced lung neuroendocrine tumors [J].J Thorac Dis，2015,7（Suppl 2)：S163-S171.   \n[17]Caplin ME，Baudin E,Ferolla P,et al. Pulmonary neuroendocrine（carcinoid） tumors：European Neuroendocrine Tumor Society expert consensusand recommendations for best practice for typical and atypical pulmonary carcinoids[J]. Ann Oncol,2015，26：1604-1620.   \n[18]Rea F，Rizzardi G，Zuin A，et al. Outcome and surgical strategy in bronchial carcinoid tumors:：single institution experience with 252 patients[J].Eur JCardiothorac Surg，2007, 31:186-191.   \n[19]Garcia-Yuste M,Matilla JM,Cueto A，et al. Typical and atypical carcinoid tumours：analysis of the experience of the Spanish Multi-centric Study of Neuroendocrine Tumours of the Lung［J]. Eur JCardio-thorac Surg，2007,31: 192-197.   \n[20]Nussbaum DP，Speicher PJ,Gulack BC,et al.Defining the role of adjuvant chemotherapy after lobectomy for typical bronchopulmonary carcinoid tumors [J]．Ann Thorac Surgery, 2015,99:428-434.   \n[21]KyrissT,Maier S，Veit S,et al. Carcinoid lung tumors: long-term results from 111 resections [J]. Thorac Surg Sci, 2006,3:Doc03.   \n[22]Yao JC，Fazio N,Singh S,etal.Everolimus for the treatment of advanced,non-functional neuroendocrine tumours of the lung or gastrointestinal tract（RADIANT-4）：a randomised, placebo-controlled，phase 3 study［J].Lancet，2016，387: 968-977. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(收稿日期：2017-01-26)",
+        "page_idx": 5
+    }
+]

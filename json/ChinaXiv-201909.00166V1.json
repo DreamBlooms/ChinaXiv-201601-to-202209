@@ -1,0 +1,410 @@
+[
+    {
+        "type": "text",
+        "text": "新疆夏尔希里自然保护区表土孢粉与植被的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨庆华¹，杨振京'，张芸²，毕志伟'，刘林敬，宋淑瑶1,³，侯献华4（1中国地质科学院水文地质环境地质研究所,河北石家庄050803；2中国科学院植物研究所植被与环境变化国家重点实验室,北京100093；3河北地质大学,河北石家庄050031;4中国地质科学院矿产地质研究所自然资源部盐湖资源与环境重点实验室,北京100037)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：新疆夏尔希里自然保护区保持着较为原始的生态环境，是研究植被与环境变化的理想区域。通过在保护区内从海拔 $1 \\ 0 4 2 \\sim 2 \\ 4 2 6 \\ \\mathrm { m }$ 的山地草原化荒漠带、山地干草原带和山地森林带采集的33个表土孢粉样品，结合对每个样点做的植被样方调查，根据孢粉数据进行有序聚类分析和冗余分析，探讨了表土孢粉组合特征与植被之间的对应关系。结果表明：3个孢粉组合带的特征与各垂直带植被总体上有较好的对应;藜科和麻黄属花粉含量与样方植物盖度无明显相关性，这两类孢粉呈现超代表性分布特征，应该是随气流从低海拔地带传播到山地高海拔地带的区域外花粉；桦属花粉和豆科花粉与对应的桦木林及锦鸡儿灌丛植被群落有较好的对应； $A / C$ 比值和孢粉总浓度大小在区分森林带与草原化荒漠植被带时有明显的指示意义;蕨类植物孢子与降水量和海拔高度正相关,豆科植物花粉与温度正相关。由于山地地形因素引起的土壤、水分及光照度差异，在相同海拔高度的阳坡与阴坡形成的森林植被和中山草甸植被交替的过渡植被，因此孢粉组合中出现较多的花粉混合，进而降低了云杉和桦属花粉与植被盖度的相关性，这类木本花粉与植被之间的数量关系较为复杂。该现象在植物生态学分析中具有普遍性，但对表土孢粉数据在植被与气候定量重建中的应用具有较大的影响。在运用山地表土孢粉数据进行植被与气候定量重建时，需要结合植被样方资料和沉积环境特征对表土孢粉数据进行校正和筛选。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：夏尔希里；表土孢粉；聚类分析；冗余分析；新疆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "表土孢粉研究在定量重建古植被与古气候方面发挥着重要的作用[1-6]。研究表明,表土孢粉作为沉积物的一个组分，孢粉组合特征既体现了不同区域植被的生态多样性，又受不同植物的孢粉产量差异和沉积环境的影响，致使孢粉组合变得更加复杂，即花粉与植被与气候之间不是一种简单的线性关系，如果简单地直接运用孢粉组合去解释、恢复以及定量重建古植被、古气候与古环境，将会影响研究成果的准确性[7-8]。为此,孢粉学者在孢粉含量与植物盖度关系以及孢粉现代过程方面进行了大量的研究[9-15]。前人在新疆地区也开展了许多表土花粉研究[16-26],阎顺等[27]对整个新疆地区进行了表土孢粉中云杉花粉与植被关系的系统研究，结果表明云杉花粉含量在荒漠、荒漠草原表土中稳定在 $5 \\%$ 以下，在林带内表土中稳定在 $30 \\%$ 以上，山地表土中云杉花粉散布主要受气流影响，平原表土中云杉花粉则受水流的制约。这些研究为云杉花粉在植被重建方面提供了证据。杨振京等[28]通过研究天山南北坡植被带分布，探讨了天山典型植物花粉与植被的关系，建立了天山南北坡植被垂直带的表土花粉谱。李玉梅等[29]对新疆博尔塔拉河流域表土花粉与植被关系的研究中发现，在沟谷地区云杉花粉传播主要受山谷风的影响较大，代表性植物的云杉属、桦属、藜科和麻黄花粉与降水和温度密切相关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陶士臣等[30]对新疆东部托勒湖流域表土花粉研究得出禾本科是湖边草原中重要的花粉类型，该花粉呈现出明显的低代表性，湖泊表层的花粉组合是区域植被组成的综合反映，并提出植被的地带性分布与流域地下水有着密切关系。张卉等[31]对新疆石河子南山地区表土花粉研究表明云杉花粉分布特征受风力搬运影响，低海拔样点孢粉中出现大量的沼泽蕨孢子可能与古湿地环境有关。王力等[32 对天山南坡吐鲁番地区表土花粉与植被关系研究得出云杉属和松属花粉与风力及水动力搬运作用有较大关系，降水量是影响该区表土花粉组合的主要环境因子，白刺属花粉受降水量的影响较蒿属和藜科大。由于同一种植物的孢粉产量在不同植被区域存在明显差异，其影响因素尚不明确，孢粉现代过程及其定量重建植被模型只考虑了植被分布与风力作用的影响,风速及其他影响因素尚未考虑[15],沉积物中孢粉含量与现代植被的数量关系仍有待于深入研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆夏尔希里自然保护区于1998年回归中国，此前该地区受人类活动直接影响小，生态系统几乎处于原始状态，具有较高的自然性和原始的自然平衡状态[33-34],是研究植被与环境的理想区域,对该地区表土孢粉与植被关系的研究，可为新疆地区研究古植被演替与古气候变化提供新的证据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆夏尔希里自然保护区在新疆博尔塔拉蒙古自治州境内，位于天山支脉阿拉套山山地南坡，地形北高南低，自西北往东南方向倾斜，山脉呈北东东走向,最高峰海拔 $3 \\ : 6 7 0 \\mathrm { ~ m ~ }$ ,最低处 $3 1 0 \\mathrm { ~ m ~ }$ ,地貌具山地垂直结构分明、自下而上成阶梯状隆起的特征。昼夜温差大，日照时间长，年平均降雨量为 $6 0 0 \\sim 1 ~ 0 0 0$ $\\mathbf { m } \\mathbf { m }$ ,属于我国寒温带原始山地生态系统。山地植被和土壤具有垂直分布的特点，对花粉的传播、保存、搬运与沉积具有较大影响。研究区取样在 $8 1 ^ { \\circ } 5 9 ^ { \\prime } 4 8 ^ { \\prime \\prime } \\sim$ $8 1 ^ { \\circ } 4 7 ^ { \\prime } 2 4 ^ { \\prime \\prime } \\mathrm { E } , 4 5 ^ { \\circ } 1 3 ^ { \\prime } 5 4 ^ { \\prime \\prime } \\sim 4 5 ^ { \\circ } 6 ^ { \\prime } 8 ^ { \\prime \\prime } \\mathrm { N }$ 范围内，研究区内植被带分为：山地森林带，以云杉属（Picea）、桦属（Betula）蔷薇科（Rosaceae）枸子属（Cotoneaster）、针茅（Stipa capillata）赖草（Leymus secalinus）、矢车菊属（Centaurea)和伞形科（Apiaceae）等植物为主；山地干草原带，主要有爬地柏（Sabinaprocumbens）、羊茅属（Festuca）、芨芨草（Achnatherumsplendens）、蒿属（Artemisia）、荨麻科（Urticaceae）、老鹳草属（Geranium）和小檗属(Berberis）等植物;山地草原化荒漠带，主要有藜科（Chenopodiaceae）、菊科（Aster-aceae）和锦鸡儿属(Caragana)等植物。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在夏尔希里自然保护区，从阿拉套山南坡的山地干草原开始，向北一向西一向南，经过海拔为$2 \\ 4 2 6 \\ \\mathrm { m }$ 的玉科克管户站，途经山地草原化荒漠带和山地森林植被带，最高海拔为 $2 \\ 4 2 6 \\ \\mathrm { m }$ ,最低海拔降至 $1 0 4 2 \\mathrm { ~ m ~ }$ 。表土样品采集和植被样方调查方式为：在山区按海拔 $1 0 0 \\mathrm { ~ m ~ }$ 一个样点，平原区 $1 0 \\sim 2 0 ~ \\mathrm { k m } ^ { 2 }$ 一个样点,选取天然植被区或人为干扰较少的地点，森林区表土样品为 $2 0 \\mathrm { ~ m ~ } \\times 2 0 \\mathrm { ~ m ~ }$ 范围内多个地点表土的混合，草原区和荒漠区为 $1 0 \\ \\mathrm { m } \\times 1 0 \\ \\mathrm { m }$ 范围内多个地点表土的混合，以保证样品的代表性，共采集表土花粉样品33个（图1)；在采样的同时对每个采样点进行植被样方调查（表1）,森林区 $2 0 \\mathrm { ~ m ~ } \\times 2 0 \\mathrm { ~ m ~ }$ ，草原区和荒漠区为 $1 0 \\mathrm { ~ m ~ } \\times 1 0 \\mathrm { ~ m ~ }$ ,记录样方内群落特征，如植物群落盖度、种名、多度等，对建群种和不能现场鉴定的植物采集植物标本；使用手持式GPS（全球定位系统)进行准确定位，并记录采样点的地理坐标，样品编号基本上按照海拔高度的顺序进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "孢粉样品在实验室进行分析时，依据样品的不同岩性，在黑色和灰色土质花粉含量较高的样品中取 $2 0 \\sim 5 0 \\mathrm { ~ g ~ }$ ,在粉砂和砂质花粉含量较低的样品中取 $8 0 \\sim 1 2 0 ~ \\mathrm { g }$ 。为了获得更好的孢粉提取纯度和富集效果，采用了氢氟酸法与重液浮选法相结合的孢粉分析处理流程：根据不同岩性称重下样一加入石松孢子指示片剂一盐酸热处理一氢氟酸热处理一盐酸热处理一超声波清洗过筛一重液浮选离心制管。孢粉鉴定和统计用Olympus光学显微镜在 $4 0 \\times 1 0$ 倍镜下进行，在统计孢粉种属数量的同时统计出外加石松孢子数量，先求得孢粉浓度系数 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 加入的指示性孢粉总数/（已鉴定到的指示性孢粉数量 $\\times$ 分析所用样品重量），然后求得孢粉总浓度 $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 孢粉浓度系数 $\\times$ 已鉴定到的样品孢粉数量[35]。绝大多数样品统计到的花粉数量达到 $4 0 0 \\sim 5 0 0$ 粒,少数样品由于含量太低，统计数量不足400粒。各孢粉属种所占百分比以占陆生植物花粉总和为基数进行计算，最后运用Tilia专业软件进行Coniss聚类分析并",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6853450cc88a33298c8d3dedafbdfdee670265c39eccdebb3bb1f46ad5c9ad7.jpg",
+        "img_caption": [
+            "图1夏尔希里自然保护区表土孢粉样品采样点位置图",
+            "Fig.1Locations of 33 surface sporepollen sampling sites in the Xarxili Natural Reserve of Xingjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8512ae79b525fc6fb2e1655e5f2540d34acd8224985e30ebc5d41f0732b6d8c5.jpg",
+        "table_caption": [
+            "表1夏尔希里自然保护区表土样点及其现代植被类型",
+            "Tab.1Modem vegetation types and geographical locations of all surface samples from the Xarxili Natural Reserve of Xingjiang "
+        ],
+        "table_footnote": [
+            "做出孢粉百分比综合图（图2）。"
+        ],
+        "table_body": "<html><body><table><tr><td>样点编号</td><td>经度/E</td><td>纬度/N</td><td>海拔</td><td>植被类型</td><td>样点编号</td><td>经度/E</td><td>纬度/N</td><td>海拔</td><td>植被类型</td></tr><tr><td>1</td><td>81.985</td><td>45.218</td><td>1 689 m</td><td>山地森林</td><td>18</td><td>81.844</td><td>45.198</td><td>2 342m</td><td>山地森林</td></tr><tr><td>2</td><td>81.980</td><td>45.227</td><td>1 795m</td><td>山地森林</td><td>19</td><td>81.845</td><td>45.192</td><td>2 240m</td><td>山地森林</td></tr><tr><td>3</td><td>81.969</td><td>45.229</td><td>1 898 m</td><td>山地森林</td><td>20</td><td>81.845</td><td>45.185</td><td>2 133m</td><td>山地森林</td></tr><tr><td>4</td><td>81.961</td><td>45.229</td><td>1 985m</td><td>山地森林</td><td>21</td><td>81.847</td><td>45.182</td><td>2035m</td><td>山地森林</td></tr><tr><td>5</td><td>81.961</td><td>45.229</td><td>1 985m</td><td>山地森林</td><td>22</td><td>81.845</td><td>45.180</td><td>1 935m</td><td>山地森林</td></tr><tr><td>6</td><td>81.957</td><td>45.232</td><td>1 861 m</td><td>山地森林</td><td>23</td><td>81.833</td><td>45.183</td><td>1 835m</td><td>山地森林</td></tr><tr><td>7</td><td>81.953</td><td>45.230</td><td>1 769 m</td><td>山地森林</td><td>24</td><td>81.826</td><td>45.179</td><td>1 729m</td><td>山地森林</td></tr><tr><td>8</td><td>81.942</td><td>45.231</td><td>1 650 m</td><td>山地森林</td><td>25</td><td>81.997</td><td>45.201</td><td>1 486m</td><td>山地干草原</td></tr><tr><td>9</td><td>81.897</td><td>45.230</td><td>1 651 m</td><td>山地森林</td><td>26</td><td>81.993</td><td>45.209</td><td>1 594m</td><td>山地干草原</td></tr><tr><td>10</td><td>81.885</td><td>45.230</td><td>1 743 m</td><td>山地森林</td><td>27</td><td>81.816</td><td>45.175</td><td>1 620m</td><td>山地干草原</td></tr><tr><td>11</td><td>81.840</td><td>45.223</td><td>1 856 m</td><td>山地森林</td><td>28</td><td>81.814</td><td>45.167</td><td>1514m</td><td>山地干草原</td></tr><tr><td>12</td><td>81.837</td><td>45.218</td><td>1 950 m</td><td>山地森林</td><td>29</td><td>81.808</td><td>45.157</td><td>1 399m</td><td>山地干草原</td></tr><tr><td>13</td><td>81.836</td><td>45.219</td><td>2 048 m</td><td>山地森林</td><td>30</td><td>81.799</td><td>45.178</td><td>1 307m</td><td>山地干草原</td></tr><tr><td>14</td><td>81.831</td><td>45.210</td><td>2 152 m</td><td>山地森林</td><td>31</td><td>81.795</td><td>45.119</td><td>1 214m</td><td>山地草原化荒漠</td></tr><tr><td>15</td><td>81.827</td><td>45.210</td><td>2 250 m</td><td>山地森林</td><td>32</td><td>81.790</td><td>45.129</td><td>1164m</td><td>山地草原化荒漠</td></tr><tr><td>16</td><td>81.828</td><td>45.205</td><td>2 353 m</td><td>山地森林</td><td>33</td><td>81.811</td><td>45.102</td><td>1042m</td><td>山地草原化荒漠</td></tr><tr><td>17</td><td>81.838</td><td>45.203</td><td>2 426m</td><td>山地森林</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 孢粉分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在33块孢粉样品中共鉴定统计了14062粒孢粉，平均每个样品约427粒，共鉴定出56个科属，孢粉浓度较高，总浓度平均达5917 粒· $\\mathbf { g } ^ { - 1 }$ 。鉴定出的乔木植物花粉类型主要有云杉属（Picea）、松属（Pinus）桦属(Betula)和榆属（Ulmus）等;灌木植物花粉类型主要有麻黄属（Ephedra）、白刺属（Nitrar-ia)和柳属（Salix)等；草本植物花粉类型主要有藜科（Chenopodiaceae）、菊科、禾本科（Poaceae）、紫菀属（Aster）蒿属（Artemisia）、蒲公英属（Taraxacum）、蓝刺头属（Echinops）、毛茛科（Ranunculaceae）、唐松草属（Thalictrum）、豆科（Leguminosae）、蓼科（Polyg-onaceae）、茄科（Solanaceae）、荨麻科（Urticaceae）、唇形科（Labiatae）伞形科、蔷薇科（Rosaceae）、石竹科（Caryophyllaceae）、虎耳草科（Saxifragaceae）、十字花科（Brassicaceae）、老鹳草属（Geranium）、百合科（Liliaceae）、罗布麻属（Apocynum）和莎草科(Cyperaceae)等;蕨类植物孢子类型主要有阴地蕨属（Botrychium）、水龙骨科（Polypodiaceae）、卷柏属（Selaginella）和铁线蕨属（Adiantum）等。根据表土孢粉组合特征和现代植被样方调查资料结合聚类分析结果，将垂直带表土孢粉自低海拔至高海拔划分为3个孢粉组合带。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a32ed0c38fbd36a6ea7c141ad51e26de78282318642775fdb09f8e4712c2fcb.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "2 "
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "带I。山地草原化荒漠带：共5个样品,海拔为$1 \\ 0 4 2 \\sim 1 \\ 3 9 9 \\ \\mathrm { ~ m ~ }$ 。孢粉总浓度平均为2914粒·$\\mathbf { g } ^ { - 1 }$ ,浓度在整个垂直带中最低。孢粉组合中以草本植物花粉( $( 7 6 . 1 \\% \\sim 9 0 . 4 \\%$ ,平均 $8 0 . 7 \\%$ )占绝对优势，其次为乔木植物花粉 $( 7 . 5 \\% \\sim 2 3 . 7 \\%$ ，平均$1 7 . 5 \\%$ ）,灌木植物花粉 $( 0 . 2 \\% \\sim 2 . 0 \\%$ ，平均 $1 . 3 \\%$ ）和蕨类植物孢子( $0 \\sim 1 . 6 \\%$ ，平均 $0 . 5 \\%$ )较少。草本植物花粉主要有蒿属( $2 3 . 4 \\% \\sim 4 8 . 4 \\%$ ，平均$3 4 . 4 \\%$ ）藜科 $( 2 1 . 6 \\% - 3 4 . 0 \\%$ ，平均 $2 7 . 3 \\%$ ）豆科 $( 1 . 2 \\% \\sim 2 5 . 1 \\%$ ,平均 $6 . 9 \\%$ ）、禾本科 $( 2 . 0 \\%$ \\~$1 4 . 4 \\%$ ,平均 $6 . 7 \\%$ ）、菊科 $( 0 . 2 \\% \\sim 3 . 2 \\%$ ，平均$2 . 3 \\%$ ）、还有少量蔷薇科、毛茛科、唇形科和伞形科等;乔木植物花粉主要有云杉属 $( 6 . 3 \\% \\sim 2 2 . 4 \\%$ ，平均 $1 5 . 6 \\%$ ),其次是松属 $( 0 . 2 \\% \\sim 1 . 4 \\%$ ，平均$0 . 9 \\%$ ）桦属( $( 0 \\sim 1 . 5 \\%$ ，平均 $0 . 9 \\%$ )和少量的榆属等;灌木植物花粉主要有麻黄属 $( 0 \\sim 1 . 8 \\%$ ,平均$0 . 8 \\%$ ），其次有柳属和白刺属等;蕨类植物孢子有少量阴地蕨属、水龙骨科和铁线蕨属;蒿属/藜科$( A / C )$ 平均值为1.26，木本/非木本( $\\cdot A P / N A P )$ 平均值为0.24，且在所有植被带中最低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "带 $\\mathbb { I }$ 。山地干草原带：共10个样品，海拔为$1 \\ 3 9 9 \\sim 1 \\ 7 6 9 \\ \\mathrm { ~ m } .$ 。孢粉总浓度平均为6809粒·$\\mathbf { g } ^ { - 1 }$ ,较I带明显增多。孢粉组合中草本植物花粉（ $( 6 4 . 9 \\% \\sim 9 1 . 5 \\%$ ,平均 $7 8 . 0 \\%$ )仍占主要地位，其次为乔木植物花粉 $( 6 . 0 \\% \\sim 3 2 . 5 \\%$ ,平均 $1 7 . 8 \\%$ ），灌木植物花粉 $( 0 \\sim 4 . 8 \\%$ ,平均 $1 . 7 \\%$ )和蕨类植物孢子( $0 \\sim 5 . 9 \\%$ ，平均 $2 . 4 \\%$ )相对较少。草本植物花粉主要有蒿属 $( 1 8 . 1 \\% \\sim 5 4 . 2 \\%$ ,平均 $3 5 . 2 \\%$ ）、藜科 $( 9 . 9 ~ - 2 9 . 3 \\%$ ,平均 $1 6 . 7 \\%$ ）、禾本科( $1 . 2 \\%$ \\~$2 3 . 1 \\%$ ,平均 $7 . 2 \\%$ ）、菊科 $( 0 . 6 \\% \\sim 1 0 . 1 \\%$ ，平均$4 . 5 \\%$ ）石竹科 $( 0 \\sim 2 1 . 5 \\%$ ,平均 $3 . 9 \\%$ ）、唐松草属0 $\\mathrm { ( 0 \\sim 9 . 9 \\% }$ ，平均 $3 . 6 \\%$ ）、豆科( $0 \\sim 1 2 . 6 \\%$ ，平均$2 . 1 \\%$ )和蔷薇科 $( 0 \\sim 3 . 4 \\%$ ，平均 $1 . 6 \\%$ ），还有少量唇形科、伞形科、毛茛科、十字花科和莎草科等;乔木植物花粉主要有云杉属 $( \\ : 2 . \\ : 0 \\% \\ : \\sim 3 1 . \\ : 3 \\%$ ，平均$1 2 . 1 \\%$ ）、桦属( $( 0 \\sim 1 3 . 5 \\%$ ,平均 $4 . 3 \\%$ ），还有松属（ $0 \\sim 2 . 3 \\%$ ，平均 $1 . 0 \\%$ ）、榆属 $( 0 \\sim 3 . 5 \\%$ ，平均$0 . 4 \\%$ 桦属 $( 4 . 3 4 \\%$ )等;灌木植物花粉有麻黄属（ $0 \\sim 3 . \\ 9 \\%$ ，平均 $1 . 4 \\%$ ）、柳属( $\\mathit { \\Delta } \\cdot \\mathrm { ~ 0 ~ } \\sim 1 . \\ 0 \\%$ ，平均$0 . 4 \\%$ )；蕨类孢子阴地蕨属 $( 0 \\sim 1 . 5 \\%$ ，平均 $0 . 7 \\%$ ）、水龙骨科( $( 0 \\sim 5 . 1 \\%$ ，平均 $1 . 4 \\%$ ）、铁线蕨属( $\\mathrm { ~ \\ : ~ 0 ~ } \\sim$ $2 . 3 \\%$ ，平均 $0 . 3 \\%$ )等;蒿属/藜科 $( A / C )$ 值2.48，较$I$ 带含量增大,木本/非木本 $( A P / N A P )$ 值为0.27。本带乔木植物花粉较带I略增，但孢粉的种类、百分比含量及孢粉浓度都比上一植被带显著增加。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "带Ⅲ：山地森林带：共18个样品，海拔为$1 ~ 7 6 9 \\sim 2 ~ 4 2 6 ~ \\mathrm { ~ m ~ }$ 。孢粉总浓度平均为6255粒·$\\mathbf { g } ^ { - 1 }$ ,较带 $\\mathbb { I }$ 略为减少。孢粉组合中仍以草本植物花粉 $3 1 . 9 6 \\% \\sim 8 8 . 9 2 \\%$ ,平均 $7 4 . 7 7 \\%$ )占据优势,其次为乔木植物花粉 $( 9 . 4 \\% \\sim 6 6 . 1 \\%$ ,平均 $2 1 . 7 \\%$ ），灌木植物花粉 $( 0 . 3 \\% \\sim 3 . 3 \\%$ ,平均 $1 . 4 \\%$ )和蕨类植物孢子( $( 0 \\sim 8 . 6 \\%$ ,平均 $2 . 2 \\%$ )相对较少。草本植物花粉主要有蒿属( $( 1 0 . 5 \\% \\sim 4 9 . 2 \\%$ ,平均 $3 1 . 6 \\%$ ）、藜科 $( 9 . \\ 0 \\% \\sim 3 0 . \\ 2 \\%$ ，平均 $2 0 . \\ 1 \\%$ ）、禾本科（ $1 . 2 \\% \\sim 1 8 . \\ 0 \\%$ ，平均 $7 . 5 \\%$ ）、菊科（ $. 1 . 4 \\%$ \\~$1 4 . 3 \\%$ ,平均 $5 . 8 \\%$ ）、唐松草属 $( 0 . 2 \\% \\sim 6 . 7 \\%$ ，平均 $2 . 1 \\%$ ）石竹科 $( 0 \\sim 7 . 8 \\%$ ,平均 $1 . 8 \\%$ ）蔷薇科（ $0 \\sim 3 . 6 \\%$ ,平均 $1 . 3 \\%$ ）、豆科 $( 0 \\sim 9 . 6 \\%$ ，平均$1 . 0 \\%$ ）,还有少量唇形科、伞形科、毛茛科、十字花科和莎草科等，乔木植物花粉主要有云杉属二 $3 . 1 \\% \\sim 6 2 . 3 \\%$ ，平均 $1 7 . 7 \\%$ ）、桦属( $0 . 6 \\%$ \\~$4 . 6 \\%$ ,平均 $2 . 1 \\%$ ）、松属 $( 0 \\sim 2 . 9 \\%$ ，平均 $1 . 1 \\%$ ）和少量的榆属等;灌木植物花粉有麻黄属( $\\mathrm { ~ \\ : ~ 0 ~ } \\sim$ $2 . 9 \\%$ ,平均 $0 . 9 \\%$ ）、柳属 $( 0 \\sim 0 . 7 \\%$ ,平均 $0 . 2 \\%$ ）和白刺属 $( 0 \\sim 2 . 2 \\%$ ，平均 $0 . 2 \\%$ ）;蕨类孢子阴地蕨属（ $0 \\sim 6 . 2 \\%$ ,平均 $1 . 2 \\%$ ）水龙骨科( $\\mathrm { 0 } \\sim 2 . 8 \\%$ ，平均 $0 . 4 \\%$ ）、铁线蕨属 $( 0 \\sim 2 . 5 \\%$ ,平均 $0 . 5 \\%$ )等;蒿属/藜科 $( A / C )$ 值1.77，木本/非木本 ${ ' } A P / N A P { ' }$ 值0.38,较带Ⅱ增大。本带乔木植物花粉较带 $\\smash {  { \\mathrm { I } _ { \\perp } }  { \\mathbb { I } _ { \\perp } } }$ 显著增加，云杉花粉明显增多，孢粉的种类、百分比含量及孢粉浓度都与带ⅡI相近。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 冗余分析(RDA)",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "降趋对应分析（DCA）是生态学中常用的数量排序方法。本文中使用的环境指标数据是表土孢粉取样地区附近的54个气象站点1960一2000年间的气候指标计算出的平均值，采用 $1 ~ \\mathrm { k m }$ 插值的方法，计算出的对应采样点的年平均气温和年降水量。为了寻求表土孢粉分布规律与样方植被以及生态环境之间的关系，选择孢粉组合中的典型代表性花粉种类：云杉属、松属、榆属、桦属、麻黄属、白刺属、柳属、禾本科、藜科、蒿属、菊科、豆科、毛茛科、唇形科、唐松草属、石竹科、蔷薇科、莎草科、十字花科、阴地蕨属、铁线蕨属和水龙骨科等22个指标的百分含量建立相应表土孢粉数据矩阵，运用Canoco软件进行DCA分析，然后根据DCA分析结果中梯度长度值进行下一步分析的选择，当第一轴的数值大于4.0时，应选择典型对应分析（CCA)进行下一步分析;当第一轴的数值小于3.0，应选择冗余分析（RDA）进行下一步分析；如果第一轴的数值介于3.0和4.0之间时,可以选择CCA或RDA[36]。从DCA分析结果（表2)可以看出：其中第1轴和第2轴的特征值分别为0.137和0.099，总共解释了 $2 3 . 6 \\%$ 的累计方差，而第3和第4轴的特征值分别为0.039 和0.018，累计方差为 $5 . 7 \\%$ ,明显低于前面两个轴，由此可得孢粉种属和样品点排列顺序主要受第1和第2 轴所代表的环境因素控制，并且第1轴代表的环境因子比第2轴更为重要。由于DCA分析结果显示梯度为1.646，小于3.0，所以选择RDA分析（表3）。RDA分析结果显示：其中第1轴的特征值为0.027，物种与环境相关系数为0.283，共解释了$6 6 . 4 \\%$ 的物种与环境累计方差，而第2轴的特征值为0.011，物种与环境相关系数为0.320，共解释了$9 4 . 2 \\%$ 的物种与环境累计方差。年均温 $( T )$ 与第1轴相关系数为0.52，年降水量 $( P )$ 与第1轴相关系数为0.51，海拔高度（A）与第1轴相关系数为",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d51574534d26476a856c56a9c89661e4ab026b4c9ef900a0481befa14db84f66.jpg",
+        "table_caption": [
+            "表2夏尔希里自然保护区表土样品DCA分析结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>轴线</td><td>1</td><td>2</td><td>3</td><td>4</td><td>总变量</td></tr><tr><td>特征值</td><td>0.137</td><td>0.099</td><td>0.039</td><td>0.018</td><td>0.600</td></tr><tr><td>梯度长度</td><td>1.646</td><td>0.948</td><td>1.045</td><td>0.790</td><td></td></tr><tr><td>累计方差／%</td><td>22.8</td><td>39.4</td><td>45.9</td><td>48.8</td><td></td></tr><tr><td>所有特征值之和</td><td></td><td></td><td></td><td></td><td>0.6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3夏尔希里自然保护区表土样品与环境RDA分析结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/da4b8882698b09b7b53fc0bd70849e7b07b45dbd157832147b67c9382a491c07.jpg",
+        "table_caption": [
+            "Tab.2DCA analysis of surface sporepollen ",
+            "Tab.3RDA analysis of surface sporepollen and environment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>轴线</td><td>1</td><td>2</td><td>3</td><td>4</td><td>总变量</td></tr><tr><td>特征值</td><td>0.027</td><td>0.011</td><td>0.002</td><td>0.491</td><td>1.0</td></tr><tr><td>物种与环境相关性</td><td>0.283</td><td>0.320</td><td>0.156</td><td>0</td><td></td></tr><tr><td>物种累计方差／%</td><td>2.7</td><td>3.8</td><td>4.1</td><td>53.2</td><td></td></tr><tr><td>物种一环境累计方差／%66.4</td><td></td><td>94.2</td><td>100.0</td><td>0.0</td><td></td></tr><tr><td>所有特征值之和</td><td>1.0</td><td></td><td></td><td></td><td></td></tr><tr><td>所有标准特征值之和</td><td></td><td></td><td></td><td></td><td>0.188</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.53，表明环境因子与第1轴相关性较高，而环境因子与第2轴相关性较低，相关系数均小于0.06。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从RDA分析排序图（图3)可以看出，年降水量$( P )$ 、年均温 $( T )$ 、海拔高度(A)与第1轴相关性很高， $2 5 , 2 8 , 2 9 , 3 0 , 3 1 , 3 2 , 3 3$ 号表土孢粉样品主要受海拔高度的影响较大,该部分样品主要来山地干草原带带，随海拔高度降低温度上升。其中，16、17、18、19、20、21、22号样品同时受海拔高度和降水量两者的影响，这些孢粉样品点主要采自森林灌丛带。从图3中还可看出，莎草科花粉、铁线蕨和阴地蕨孢子受降水量及海拔高度影响较大，而这些植物孢粉种类与温度成负相关;山地干草原带的26，27，28号样品与山地森林带中的1、2、3、4、9、10、11、12号样品，在第1轴向排列上呈现出重叠过渡的关系。豆科花粉受温度影响最为明显，该类花粉与锦鸡儿灌丛植被群落有较好对应，桦属、云杉属、麻黄属植物花粉位于中海拔高度的典型森林植被带，藜科、蒿属和禾本科植物花粉位于山地森林与山地干草原重叠过渡带。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1夏尔希里植被垂直带表土孢粉含量与植物盖度的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "带I为山地草原化荒漠带，5个采样点的植被样方资料综合显示，以锦鸡儿灌丛为建群种的群落中盖度为 $1 0 . 0 \\% \\sim 2 0 . 0 \\%$ ,与植物豆科花粉含量$6 . 9 \\%$ 有较好的对应;蒿属盖度为 $6 . 0 \\% \\sim 1 5 . 0 \\%$ 左右，对应的蒿属花粉含量为平均 $3 4 . 4 \\%$ ，反映出蒿属花粉具超代表性，除了海拔最低的样品中出现了$1 0 . 0 \\%$ 的角果藜外，其余样方中均未发现，孢粉组合中藜科花粉的含量均超过 $2 1 . 6 \\%$ ,最高达 $3 4 . 0 \\%$ ，表明蒿属花粉也具超代表性;本带虽无乔木植物，但云杉花粉（平均为 $1 5 . 6 \\%$ )在此植被带含量也较高，受花数的传播影响较大；禾本科花粉含量（平均$6 . 7 \\%$ )明显低于样方中的羊草和芨芨草的盖度$( 4 0 . 0 \\% )$ ，表明禾本科植物花粉具低代表性；植被样方中未发现麻黄科的植物，孢粉组合中却含有一定数量的麻黄属花粉。本带蒿属/藜科(A/C)平均值为1.26，与该带的植被类型相符，孢粉总浓度最低与该带的植被盖度较小有较好的对应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "带ⅡI为山地干草原带，10个采样点的植被样方资料综合显示，在山体的阴坡，以云杉、桦为主的乔木层随海拔的升高植被盖度呈逐渐增多的趋势，云杉与桦的盖度可达 $30 \\%$ 左右;在山体的阳坡,灌木层植被中锦鸡儿逐渐减少，蔷薇属、小檗科、柳属等灌丛逐渐增加，灌丛总盖度有明显增多，草本层植物种增多，盖度增加，主要有羊茅、蒿属、针茅、菊科、赖草、石竹科和野豌豆等植物。此孢粉带特征为乔木植物花粉含量稍有增多，草本植物花粉含量有所减少，灌木植物花粉含量略为增加，豆科植物花粉保持着高含量，与相应的植被有较好对应，藜科花粉含量仍表现为超代表性，桦属和云杉花粉含量与植被盖度在此带有较好的对应，尤其是桦属花粉，在整个垂直带中含量达到最高峰值，其与桦木植物的盖度有较高的相关性，石竹科花粉在本带也达到最高值，与样方盖度有很好的对应，菊科、毛茛科、蔷薇科花粉的明显增多，与植物样方丰度增加相对应，蕨类孢子的出现和孢粉总浓度达到最高值，可能此带的气温与降水较适宜植物的生长。蒿属/藜科(A/C)值为2.48，较上一带明显增加；柳属花粉与植被样方有一定的相关;麻黄花粉仍有一定的含量，其与样方植被无法对应，属外来花粉。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ca64f0bc1877d265b7c11d8816fc48486a06768f7e16f6de963027af86de864.jpg",
+        "img_caption": [
+            "图3主要孢粉和样点的 RDA 排序图",
+            "Fig.3RDA results of surface sporepollen sampling sites and sporepollen taxa "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第III带山地森林带，植被样方显示在山体的阴坡随海拔增加乔木层中云杉盖度增大，桦木盖度却逐渐减少，在山体的阳坡中以针茅、蒿属、禾本科、毛茛科、唐松草属为主的草本植被盖度依然很高。云杉花粉含量(平均 $1 7 . 7 \\%$ )在整个垂直带最高，与植被样方盖度有较好相关，麻黄植物花粉所占的含量属外来花粉，与此带乔木植物孢粉含量相关性较高；灌木层植物盖度的减少与豆科及蔷薇科花粉含量减少相对应，主要与本带的孢粉含量有较好的相关性;高含量的藜科花粉与植被样方中的盖度难以对应，属外来花粉，蕨类孢子种类及数量与植被样方有一定相关性。蒿属/藜科（A/C）值为1.77，较第I、II带都低，区分荒漠带与草原植被带时有一定的指示意义。孢粉总浓度与第ⅡI带相近且明显高于第I带，在区分荒漠带与草原带以及森林带时有较强的指示意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总之，根据孢粉分析结果结合聚类分析并参考取样点的植被样方所划分出3个孢粉组合带，从总体上看，该地区每个带的表土花粉组合特征与当地植被垂直带特征能有较好的对应。但受不同植物的孢粉产量差异以及沉积环境的影响，也存在一些差异。麻黄属花粉呈现超代表性分布特征，超代表性藜科花粉也有相似特征；桦属花粉和豆科花粉与对应的针阔混交林及锦鸡儿灌丛植被群落有较好的相关性； $A / C$ 比值区分荒漠带与草原植被带时有一定的指示意义，而孢粉总浓度值在区分荒漠带与山地干草原带及森林植被带时有较强的指示意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2夏尔希里表土孢粉散布规律与环境因子的关系由于植物种类的分布规律与区域降水量、海拔高度和温度有着十分密切的联系[29-30.37],研究孢粉与植被关系时，通常把海拔、温度和降水量作为主要的环境变量来进行 RDA 分析[29,32]。通过 RDA 分析排序图(图3)综合得出：降水量与海拔高度具正相关性，降水量与温度呈反相关性，与前人在新疆地区研究结果表明的降水量与海拔高度呈同向关系一致[1,28];由于云杉喜阴冷的环境,桦喜生长于凉湿环境[37],在乔木植物种类中,云杉作为新疆针叶林的主要建群树种代表最为寒冷的气候环境，而桦木代表较潮湿的环境,表明由云杉、桦木组合针阔混交林所代表的生境具有一定的相似性,为较耐寒喜湿类型，且云杉比桦木更加耐寒的特性[12.38],因此以云杉为主的针叶林带出现的海拔要高于以云杉和桦木为主的针阔叶混交林植被带。表土孢粉数据RDA排度图显示的特征为：云杉属、桦属、禾本科、蒿属花粉集分布在对应的海拔高度和降水量区域，具有很高的相关性。从年均温和降水量同海拔高度的反方向关系可以看出25、28、29、30、31、32、33号样品主要受海拔高度的影响较大，随海拔高度降低而温度上升,与这些样品采自于山地干草原带有较好的对应。其中16、17、18、19、20、21、22号样品主要受降水量和海拔高度的影响,与这些孢粉样品采自于森林灌丛带有较好的对应。从图3中还可得知，受降水量及海拔高度影响较大的植物为莎草科花粉、铁线蕨和阴地蕨孢子，这些植物孢粉种类与温度成反相关性;山地干草原带的26、27、28 号样品与山地森林带中的 $1 、 2 、 3 、 4 、 9 、 1 0 、 1 1 、 1 2$ 号样品,在第1轴向排列上呈现出重叠过渡的关系，这一特点与所处的环境植被特征相吻合，由于该地区特殊的地貌地形、水汽和光照特点，形成了山地阴坡以森林为主的植被群落,对应的阳坡则为山地干草原和中山草甸植被,局部群落盖度可达 $9 0 \\% \\sim 1 0 0 \\% ^ { \\mathrm { ~ [ 3 ~ } }$ 9]。此外,在前人对新疆地区植被调查研究中，天山北坡垂直植被带很少出现针叶混交林这一过渡带，由云杉林带直接过渡到森林草原过度带,桦木常生长于海拔较低的湿地环境中[28-29],因此推测该研究区出现以云杉和桦木为主的针叶混交林植被带可能是由于夏尔希里保护区所处的特殊的地理位置形成，因为阿拉套山山势不高，易于来自大西洋和北冰洋的水汽进入，虽然该区处于干旱区范围内，却能在山地北坡产生较多降水,形成较湿润的气候[40-42],有利于桦木的生长。豆科花粉受温度影响最为明显，该类花粉与植被样方资料的锦鸡儿灌丛植被群落有较好对应。麻黄花粉在RDA排序中与森林带的云杉和桦木距离很近，而所有样方植被调查中并未发现麻黄科植物，属于外来花粉，应当特殊对待分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3夏尔希里表土孢粉现代过程机制",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "孢粉的现代过程比较复杂，主要受气流、水流搬运作用影响为主，气流搬运随风力的大小、风向、地形、距离等因素变化而产生不同影响，水流搬运随流域范围、河流位置、面流坡度，沉积物载体粒度等因素变化[7-8,15] 0",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在山地草原化荒漠带I的30～33号样品中，虽然植被样方及周边中并未见云杉植物，但带中云杉花粉含量仍然保持一定的数量，平均 $1 5 . 6 \\%$ ，最高达 $2 2 . 4 \\%$ ,这可能与夏尔希里地区多西北风有关，年平均风速 $1 . 8 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,大风易于携带花粉往山坡低处沉积[7]。此外,夏尔希里的夏尔希里河和阿门琴天兰河和主要河流向南汇入保尔德河，继而向南汇人博尔塔拉河，形成明显的河流洪水特点，且以暴雨型洪水为主[40],这些河流都有可能把沿途河谷区的云杉花粉携带到此处沉积[6.43]。因此,对该区花粉的解释宜考虑水流搬运和风力传播对花粉组合的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "麻黄属花粉所对应的麻黄植物，在研究调查的整个垂直带植被样方范围中并未出现，然而，垂直带的孢粉带的孢粉百分比组合中，麻黄属花粉含量保持着一定含量,其中山地草原化荒漠带I的麻黄属为 $( 0 \\sim 1 . 8 \\%$ ，平均 $0 . 8 \\%$ ）,山地干草原带ⅡI中的麻黄属为 $( 0 \\sim 3 . 9 \\%$ ，平均 $1 . 4 \\%$ ）,山地森林带IⅢ中的麻黄属为 $( 0 \\sim 2 . 9 \\%$ ,平均 $0 . 9 \\%$ ）。在保护区的阿拉山口一侧局部地段，膜果麻黄群系呈单优势分布，群落盖度一般在 $10 \\%$ 左右，常在山麓洪积扇上比较发育[39]。因此,在研究区高海拔的森林带内表土中出现的麻黄花粉，应该是风力作用将花粉携带造成，属外来花粉。从地形上看，位于研究区东北侧的阿拉山口是准葛尔盆地的一个主要风口，从西面方向气流有利于进入，并遇山地拾升致雨，保护区东部江巴斯年平均风速为 $5 . 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,年平均大风日数为100d，保护区西部夏尔希里以西北风为主的风速年平均也达 $1 . 8 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 [ 3 9 ] }$ 。杨振京等[28]在新疆天山南坡表土花粉的研究也认为孢粉随气流作用可能存在爬坡现象,许英勤等[1]在研究天山南坡表土孢粉分析及其与植被的数量关系的结论中也表明：麻黄属同藜科和蒿属3种植物的花粉 $R$ 值大于1,具超代表性。所以，该类花粉在用于表土孢粉数据进行定量重建时，必须同区域植被样方资料进行筛选和校正。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在研究区表土花粉所有孢粉带中，草本植物花粉含量总占绝对优势，且主要由蒿属、藜科和禾本科花粉组成,在所有样品中都有较高含量的分布，与植被样方数据盖度值相关性较低。其中蒿属和藜科占主要成分。蒿属花粉百分比含量最高值达 $5 4 . 2 \\%$ ，在各植被带上的平均含量分别为带 $\\mathrm { I } ( 3 4 . 4 \\%$ ）带$\\mathrm { I I } ( 3 5 . 2 \\%$ )和带 $\\mathrm { I I I } ( 3 1 . 6 \\%$ )，藜科花粉含量最高值达 $3 4 . 0 \\%$ ,在各带平均含量分别为带 $\\mathrm { I } ( 2 7 . 3 \\%$ ）、带$\\mathrm { I I } ( 1 6 . 7 \\%$ ）、和带II $[ ( 2 0 . 1 \\% )$ 。前人对表土花粉研究中发现藜科和蒿属花粉有产量高、在地层中易沉积保存和较强传播能力等特点具有超代表性，花粉分布广泛[44-45]。在探讨花粉与植被关系时,如果发现某一花粉类型的植被盖度和花粉百分比均较高时，可利用相对花粉产量校正后，花粉与植被的相关性会有明显提高,比如蒿属、藜科等[5,46-47]。因此，该类花粉在定量重建时，除了考虑花粉受气流和水流搬运影响外，还应当根据孢粉的相对花粉产量来进行校正。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "山地干草原带的26、27、28 号样品与山地森林带中的1、2、3、4、9、10、11、12号样品，在RDA排序图的第1轴上排列呈现出重叠过渡的关系，孢粉组合特征也显示出两种植被带花粉类型的混合现象。这种特点与所处植被环境的特殊性相关,该地区由于特殊的地貌地形、水汽和光照特点，形成了山地阴坡以森林为主的植被群落，对应的阳坡则为山地干草原植被群落，使某些类型的花粉的百分比与植被盖度相关性减小，造成某些类型花粉代表性降低，也影响了该带 $A / C$ 比值作为区分草原和荒漠植被指标的意义[48-49]。张佳华等[50]运用主成分分析恢复北京坟庄剖面过去植被和环境作用时也发现：由于北京地区地理环境复杂，地貌类型丰富，同时自然环境各要素相互作用、相互制约，使得每一时期都包含有多样的生态环境类型，形成的植被类型具有复合性与多样性,表现为温带森林和森林草原的典型特征。此外，本研究区植被类型的复合性和多样性特征也可能是因为西风和北冰洋冷湿气流在该地区产生的大风和降水，对于花粉的传播造成一定的影响[7,51-52]。这种特征从植物的生态多样性角度来看具有一定的普遍性，但对运用表土孢粉数据进行植被恢复和定量重建时，可能会增加更多的不确定因素，影响重建结果，其机制仍有待于深入研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "夏尔希里表土孢粉分析结果表明，3个孢粉组合带的特征与对应的山地草原化荒漠带、山地干草原带和山地森林带的植被面貌基本一致。麻黄属花粉呈现出超代表性分布特征，可能是受区域山地气流和地形变化影响，被气流从低海拔河谷地带或石质戈壁荒漠传播到山地高海拔的区域外花粉所致，桦属花粉和豆科花粉与对应的针阔混交林及锦鸡儿灌丛植被群落有较好的相关性。A/C比值区分荒漠带与草原植被带时有一定的指示意义，孢粉总浓度值在区分荒漠带与干草原带植被带时有较强的指示意义;由于山地地形因素引起的土壤、水分及光照度差异，在相同海拔高度的阳坡与阴坡形成的森林植被和中山草甸植被交替的过渡植被，因此孢粉组合中出现较多的花粉混合，进而降低了云杉和桦属花粉与植被盖度的相关性，这类木本花粉与植被之间的数量关系较为复杂。该现象在植物生态学分析中具有普遍性,但对表土孢粉数据在植被与气候定量重建中的应用具有较大的影响。在运用山地表土孢粉数据进行植被与气候定量重建时，需要结合植被样方资料和沉积环境特征对表土孢粉数据进行校正和筛选。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］冯晓华,阎顺,倪健.新疆表土孢粉的植被定量重建[J].地理 科学，2011,31（6）:702-707.［FENGXiaohua，YANShun，NI Jian,et al.Pollen-based and quantitative reconstruction of Holocene palaeovegetation of surfaced soil of Xinjiang［J].Scientia Geographica Sinica,2011,31(6) :702-707.]   \n[2]倪健.孢粉生物群区化与古植被定量重建[J].第四纪研究， 2013,33(6）:1091-1100.［NI Jian.Biomisation and quantitative palaeovegetation reconstruction[J].Quaternary Sciences,2O13,33 (6):1091-1100.]   \n[3］郑卓,张潇,满美玲,等.中国及邻区利用孢粉进行古气候定量 重建的回顾与数据集成[J].第四纪研究，2016，36（3）：503- 519.［ZHENG Zhuo,ZHANG Xiao,MAN Meiling,et al.Review and data integration of pollen-based quantitative paleoclimate reconstruction studies in Chinaandadjacentareas[J]. Quaternary Sciences,2016,36(3）:503-519.]   \n[4］秦锋,赵艳.基于孢粉组合定量重建古气候的方法在中国的运 用及思考［J].第四纪研究,2013,33（6）：1054－1068.[QIN Feng,ZHAO Yan.Methods of quantitative climate reconstruction based on palynological data and their applications in China[J]. Quatermary Sciences,2013,33(6):1054 -1068.]   \n[5］李洁,许清海,张生瑞,等.相对花粉产量及其在古植被定量重 建中的应用[J].第四纪研究,2013,33（6)：1101－1110.［LI Jie,XU Qinghai,ZHANG Shengrui,et al.Relative pollen productivity and its use in quantitative reconstruction of paleovegetation [J].Quaternary Sciences,2013,33(6）:1101 -1110.]   \n[6］许清海，阳小兰，杨振京，等.孢粉分析定量重建燕山地区5000 年来的气候变化[J].地理科学,2004,24（3）：339-345.［XU Qinghai,YANG Xiaolan,YANG Zhenjing.Reconstruction of climatic changes of Yansan Mountain area since 5OoO a B.P.inferred from pollen data[J]. Scientia Geographica Sinica,2004,24（3）： 339 -345.]   \n[7］许清海,李月丛,李育,等.现代花粉过程与第四纪环境研究若 干问题讨论[J]．自然科学进展,2006,16:647－656.［XU Qinghai,LI Yuecong,LI Yu,et al.The discussion of modern pollen and quaternary environmental study[J].Progress in Natural Science,2006,16:647 - 656.]   \n[8］许清海,张生瑞.花粉源范围研究进展[J].地球科学进展, 2013,28（9）:968-975.[XU Qinghai,ZHANG Shengrui. Ad vance in pollen source area[J].Advances in Earth Science,2013, 28(9) :968 -975.]   \n[9]李月丛,许清海,阳小兰,等.中国草原区主要群落类型花粉组 合特征［J].生态学报,2005,25（3）:555-564.[LI Yuecong, XUQinghai,YANG Xiaolan,et al.Pollen assemblages of major steppe communities in China[J].Acta Ecologica Sinica,2005,25 (3) :555 -564.]   \n[10］许清海,李月丛,阳小兰,等.中国北方几种主要花粉类型与植 被定量关系[J].中国科学：地球科学,2007,37（2）：192-205. [XU Qinghai,LI Yuecong,YANG Xiaolan,et al. Quantitive relationship between pollen and vegetation in Northern China[J].Science in China（SeriesD),2007,37(2):192-205.]   \n[11］许清海,李月丛,阳小兰等,北方草原区主要群落类型表土花 粉分析[J].地理研究,2005,24（3）:394-402.[XU Qinghai,LI Yuecong,YANG Xiaolan et al. Study on surface pollen of major steppe communities in Northern China[J].Geographical Research,2005,24(3） :394-402.]   \n[12］许清海,李月丛,阳小兰等.中国北方几种主要森林群落表土 花粉组合特征研究［J].第四纪研究,2005,25（5）：585－597 [ XU Qinghai,LI Yuecong,YANG Xiaolan et al.Surface polln assemblages of assemblages of some major forest types in Northern China[J].Ouaternary Sciences,2005,25(5）:585-597.]   \n[13］李宜垠,张新时,周广胜,等.中国北方几种常见表土花粉类型 与植被的数量关系[J].科学通报,2000,45（7）:761-765.［LI Yiyin,ZHANG Xinshi,ZHOU Guangsheng,et al. Quantitative relationships between several common pollen taxa and vegetation in the north of China[J].Chinese Science Bulletin,20o0,45（7）:761- 765.]   \n[14］李月丛,许清海,肖举乐,等.中国北方森林植被主要表土花粉 类型对植被的指示性［J].第四纪研究,2005,25（5）：598- 608.［LI Yuecong,XU Qinghai,XIAO Jule,et al. Indication of some major pollen taxa in surface samples to their parent plants of forest in Northern China[J]. Quaternary Sciences,20o5,25（5）： 598-608.   \n[15］许清海,李曼玥,张生瑞,等.中国第四纪花粉现代过程：进展 与问题[J].中国科学:地球科学,2015,45（11):1661-1682. [XUQinghai,LI Manyue,ZHANG Shengrui,et al. Modern pollen processes of China: Progress and problems[J]. Scientia Sinica Terrae,2015,45(11) :1661 -1682.]   \n[16］许英勤,阎顺,贾宝全,等.天山南坡表土孢粉分析及其与植被 的数量关系[J].干旱区地理,1996,19（3）:24－30.[XU Yingqin,YAN Shun,JIA Baoquan,etal. Numerical relationship between the surface spore-pollen and surrounding vegetation on the southern slope of Tianshan Mountain[J].Arid Land Geography, 1996,19(3) :24 -30.]   \n[17］陈春珠,黄小忠,彭卫,等.天山南坡小尤尔都斯盆地表土孢粉 初步研究[J].冰川冻土,2012,34（6）：1526-1534.［CHEN Chunzhu,HUANG Xiaozhong,PENG Wei,et al.Study of the surface sporo-pollen in the Small Yourdusi Basin on the southern slopes of the Tianshan Mountains[J]. Journal of Glaciology and Geocryology,2012,34(6) :1526-1534.]   \n[18］阎顺.新疆表土松科花粉分布的探讨[J].干旱区地理.1993, 16(3）:1-9.[YAN Shun.The discussion on the pollen of family Pinaceae in surface soils in Xinjiang[J]. Arid Land Geography, 1993,16(3) :1 -9.]   \n[19]LUO C,ZHENG Z,TARASOV P,et al. Characteristics of the modern pollen distribution and their relationship to vegetation in the Xinjiang region,Northwestern China[J].Review of Palaeobotany& Palynology,2009,153(3）:282-295.   \n[20]LUO C,LING,CHEN M,et al.Characteristics of pollenin surface sediments from the southern South China Sea and its paleoclimatic significance[J].Palaeogeography,Palaeoclimatology,Palaeocology,2016,461:12 -28.   \n[21］赵克良,李小强.新疆伊犁盆地表土花粉与植被关系[J].科学 通报,2013,58（30）:3070-3078.[ZHAO Keliang,LI Xiaoqiang.Modern pollen and vegetation relationships in the Yili Basin,Xinjiang,NW China[J]. Chinese Science Bulletin,2013,58 （30）:3070 -3078.]   \n[22] ZHANG Y,KONG Z,ZHANG H. Multivariate analysis of modern and fossil pollen data from the central Tianshan Mountains,Xinjiang,NW China[J]. Climatic Change,2013,120(4）:945-957.   \n[23］潘安定.天山北坡不同植被类型的表土孢粉组合研究[J].地 理科学,1993,13（3）:227－233.[PAN Anding.Research on spore-pollen assemblages in surface soil of various vegetation in northern slope of the Tianshan Mountain[J].Scientia Geographica Sinica,1993,13(3) :227 -233.]   \n[24］杨振京,孔昭宸,阎顺.天山乌鲁木齐河源区大西沟表土花粉 散布特征[J].干旱区地理,2004,27（4）:543－547.[YANG Zhenjing,KONG Zhaochen,YAN Shun,et al.Pollen distribution in topsoil along the Daxigou Valley in the headwaters of the Urumqi River,the Central Tianshan Mountains[J].Arid Land Geography， 2004,27(4) :543 -547.]   \n[25］阎顺,许英勤.新疆阿勒泰地区表土孢粉组合[J].干旱区研 究,1989,6(1）:26 -33.[YAN Shun,XU Yingqin. Spore-pollen association in surface soils in the Altay Mountains,Xinjiang[J]. Arid Zone Research,1989,6(1) :26 -33.]   \n[26］罗传秀,郑卓,潘安定,等.新疆地区表土孢粉分布规律及其与 植被关系研究[J].干旱区地理.2007,30(4）:536-543.[LUO Chuanxiu,ZHENG Zhuo,PAN Anding,et al. Distribution of surface soil spore-pollen and its relationship with vegetation in Xinjiang China[J].Arid Land Geography,2007,30(4）:536-543.]   \n[27］阎顺,孔昭宸,杨振京,等.新疆表土中云杉花粉与植被的关系 〔J].生态学报,2004,24（9）:2017-2023.[YAN Shun,KONG Zhaochen,YANG Zhenjing,etal. Seeking relationship between vegetation and Picea pollen in surface soils of Xinjiang,Northwestern China[J].Acta Ecologica Sinica,2004,24（9）:2017- 2023.]   \n[28］杨振京,张芸,毕志伟,等.新疆天山南坡表土花粉的初步研究 [J].干旱区地理.2011,34（6):880 -889.[YANG Zhenjing, ZHANG Yun,BI Zhiwei,et al. Surface pollen distribution in the souther slope of Tianshan Mountains,Xinjiang[J].Arid Land Geography,2011,34(6):880 -889.]   \n[29］李玉梅,杨振京,张芸,等.新疆博尔塔拉河表土孢粉组合与植 被关系研究[J].地理科学,2014,34（12）：1518-1525.［LI Yumei,YANG Zhenjing，ZHANG Yun,et al. Surface pollen assemblages and vegetation relationships in the Bortala river basin of Xinjiang,China[J].Scientia Geographica Sinica,2014,34（12）： 1518 -1525.]   \n[30］陶士臣,安成邦,赵家驹,等.新疆东部托勒库勒湖流域表土花 粉初步分析[J].第四纪研究,2013,33（3）：545-553.[TAO Shichen,AN Chengbang,ZHAO Jiaju,et al.The preliminary study of the surface pollen from Tuolekule lake basin,Eastern Xinjiang, China[J]. Ouaternary Sciences,2013,33(3）:545-553.]   \n[31］张卉,张芸,杨振京，等.新疆石河子南山地区表土花粉研究 [J].生态学报,2013,33（20）:6478-6487.[ZHANG Hui, ZHANG Yun,YANG Zhenjing,et al. Surface pollen research of Nanshan region,Shihezi City in Xinjiang[J].Acta Ecologica Sinica,2013,33(20) :6478 -6487.]   \n[32］王力,张芸,孔昭宸,等.新疆天山南坡吐鲁番地区表土花粉的 初步研究[J].植物生态学报,2017,41（7）:779-786.[WANG Li,ZHANG Yun,KONG Zhaochen,etal.Preliminary studyon pollen distribution in the surface soil of the Turpan region in the southern slope of Tianshan Mountains,Xinjiang,China[J]. Chinese Journal of Plant Ecology,2017,41（7）:779-786.]   \n[33］克德尔汗,吴金莲.新疆夏尔希里自然保护区生态质量评价研 究［J].新疆环境保护,2008,30（1）:25－28.［Kedeerhan,WU Jinlian.Evaluationand research on ecological quality of Xinjiang Xarxili natural protection zone［J].Environmental Protection of Xinjiang,2008,30(1）:25-28.]   \n[34］赵彩凤,陈蜀江,梁艳,等.新疆夏尔西里自然保护区生态系统 评价[J].科技创新导报.2013,13:146-149.[ZHAO Chaifeng CHEN Shujiang,LIANG Yan,et al.Ecosystem assessment of Xarxili Natural Reserve in Xinjiang[J].Science and Technology Inno vation Herald,2013,13:146 -149.]   \n[35]PENG T H,GODDARD JG,BROECKER W S.A direct comparison of $^ { 1 4 } \\mathrm { C }$ and $^ { 2 3 0 } \\mathrm { T h }$ ages at Searles Lake,California[J]. Quaternary Research,1978,9(3）:319 -329.   \n[36]ZHANG Y,KONG Z C,WANG G H,et al. Anthropogenic and climatic impacts on surface pollen assemblages along a precipitation gradient in North-Eastern China[J].Global Ecologyand Biogeography,2010,19:621 -631.]   \n[37］王捧瑜,宋长青,孙湘君.中国北方4 个乔木属花粉一气候响 应面模型研究[J].植物学报,1997,39（3）:272-281.[WANG Fengyu,SONG Changqing,SUN Xiangjun,et al. Climatic response surface from pollen data for four arboreal taxa in North China[J]. Acta Botanica Sinica,1997,39(3):272 -281.] [38］中国科学院新疆综合考察队,中国科学院植物研究所.新疆植 被及其利用[M].北京:科学出版社,1978:1-266.[Xinjiang Comprehensive Investigation Team of the Chinese Academy of Sciences,Institute of botany,Chinese Academy of Sciences.Vegetation and its utilization in Xinjiang[M]. Beijing:Science Press,1978:   \n1 -266.] [39］陈蜀江.新疆夏尔希里自然保护区综合科学考察［M].乌鲁木 齐：新疆科学技术出版社,2006：15－76.[CHEN Shujiang. Comprehensive scientific investigation of Xarxili natural reserve in Xinjiang[M]. Urumqi: Xinjiang Science and Technology Press,   \n2006:15 -76.] [40］罗晓琴,陈蜀江,阿布都艾力·喀尤木,等.新疆夏尔希里地表 水资源调查[J].科技创新导报,2012,（2）:130－131.[LUO Xiaoqin,CHEN Shujiang,Abduweli Kiyum,etal. Survey of surface water resources of Xarxili Natural Reserve in Xinjiang[J]. Science and Technology Innovation Herald,2012,（2）:130 -131.] [41］王宝鉴,黄玉霞,陶健红,等.西北地区大气水汽的区域分布特 征及其变化[J].冰川冻土,2006,28(1）:15-21.[WANG Bajian,HUANG Yuxia,TAO Jianhong,et al.Regional features and variations of water vapor in Northwest China[J]. Journal of Glaciology and Geocryology,2006,28（1） :15 -21.] [42］王可丽,江灏,赵红岩.西风带与季风对中国西北地区的水汽 输送[J].水科学进展,2005,16（3）:432-438.[WANG Keli, JIANG Hao,ZHAO Hongyan. Atmospheric water vapor transport from westerly and monsoon over the Northwest China[J].Advances in Water Science,2005,16(3）:432-438.] [43］吴玉书,肖家仪.云南呈贡梁王山现代花粉雨的研究[J].植物 分类与资源学报,1989,11（2）:145-153.[WU Yushu,XIAO Jiayi. Modern polen rain on Liangwang Mountainof Chenggong, Yunnan[J].Acta Botanica Yunnanica,1989,11(2）:145-153.] [44］杨振京,许清海,孟令尧,等.燕山地区表土花粉与植被间的数 量关系［J].植物生态学报.2003,27（6）:804－809.[YANG Zhenjing,XU Qinghai,MENG Lingyao,et al. Quantitative relationship between pollen in the surface soil and vegetation in the Yanshan area[J].Acta Phytoecologica Sinica.2003,27（6）:804-   \n809.] [45]YAN Z,LI F,HOU Y,et al. Surface pollen and its relationships with modern vegetation and climate on the Loess Plateau and surrounding deserts in China[J].Review of Palaeobotany&Palynology,2012,181(2):47 -53. [46］李清,许清海,张生瑞,等.相对花粉产量及其在古植被定量重 建中的应用[J].第四纪研究,2013,33（6）:1101-1110［LI Qing,XU Qinghai,ZHANG Shengrui,et al.Relative pollen productivity and its use in quantitative reconstruction of paleovegetation [J]. Quatermary Sciences,2013,33(6）:1101-1110.] [47］葛亚汶,李月从,李英,等.坝上草原相关花粉源范围与相对花 粉产量估算[J].第四纪研究.2015,35(4）:934-945.[GE Yawen,LI Yuecong,LI Ying et al.Relevant source area of pollen and relative pollen productivity estimates in Bashang steppe[J].Ouaternary Sciences,2015,35(4):934-945.] [48］孙湘君,杜乃秋,翁成郁.新疆玛纳斯湖盆周围近14000 年以来 的古植被古环境[J].第四纪研究,1994（3）:239-248.［SUN Xiangjun,DU Naiqiu,WENG Chengyu.Paleovegetation and paleoen",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "vironment of Manasi Lake,Xingjiang,N.W.China during the last 14 000 years[J].Ouaternary Sciences,1994(3）:239 -248.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[49］翁成郁,孙湘君,陈因硕.西昆仑地区表土花粉组合特征及其与植被的数量关系[J].植物学报，1993,35（1)：69－79.[WENG Chengyu，SUN Xiangjun，CHENYinshuo.Numericalcharacteristics of pollen assemblages of surface samples from theWestKunlun mountains[J].ActaBotanica Sinica,1993,35（1）：69 -79.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[50］张佳华，孔昭宸，杜乃秋.主成分分析对恢复过去植被和环境作用的再分析—北京坟庄剖面为例[J].地理科学，1997，17(4）:316-322.[ZHANG Jiahua,KONG Zhaochen,DU Naiqiu.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Reanalysis of principal component analysis to resume past flora and environment:Taking fenzhuang profile in Beijing as an example [J].Scientia Geographica Sinica,1997,17(4）:316-322.]   \n[51］阎顺.新疆第四纪孢粉组合特征及植被演替[J].干旱区地理, 1991,14(2）:1-9.[YAN Sun. The charactics of quaternary sporo-pollen assemblage and the vegetation succession in Xinjiang [J].Arid Land Geography,1991,14(2）:1-9.]   \n[52]YANG ZJ,ZHANG Y,REN HB,et al.Altitudinal changes of surface pollen and vegetation on the north slope of the middle Tianshan Mountains,China［J].Journal of Arid Land,2O16,8（5）： 799 -810. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Relationship between surface sporepollen and modern vegetation in Xarxili Nature Reserve of Xinjiang ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "YANG Qing-hua’， YANG Zhen-jing¹，ZHANG Yun²，BI Zhi-wei1，LIU Lin-jing1, SONG Shu-yao1,3， HOU Xian-hua4   \n(1InstituteofHydrogeologyandEnvironmentalGeology,CAGS,ShijiazhuangO50803,Hebie,China；2StateKeyLboratory of Vegetation and Environmental Change,Institute of Botany,Chinese Academy of Sciences,Beijing 1093,China;   \n3Hebei UniversityofGeosciences，Shijiazhuang,O5o031,Hebie,China；4MNR KeyLaboratoryof Saline Lake Resources and Environments，Institute of Mineral Resources,CAGS,Beijing 1Ooo37,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Xiarxili Nature Reserve which maintains an original intact ecosystem is an ideal area for studying the relationship between vegetationand environmental change in Xinjiang,China.In this paper,we colected 33 surface pollen samples from the mountain steppe desert zone,mountain steppe zone to mountain forest zone in this nature reserve area covering the elevation from $1 \\ 0 4 2 \\ \\mathrm { m }$ to $2 \\ 4 2 6 \\ \\mathrm { m }$ ,and each sampling site was surveyed. The clustering analysis（CA）and redundancy analysis （RDA）based on the palynology data were carried out,and the relationship among palynology characteristics of surface samples and vegetation survey was discussd.The results show that there was a good fit between the characteristicsof the three surface polen asemblage zones,which were accomplished according tothe results of CAand RDA,andthe modern vegetation zones.The pollncontentsof Chenopodiaceae and Ephedra werenot significantly associated with thevegetation coverage,thus Chenopodiaceae and Ephedra presented a super-representative distribution characteristic,indicating thatthe pollen was transmited from the lower-elevation region to the higher-elevation region with the airflow,and Chenopodiaceaeand Ephedra were theexogenous-originated pollen. Betula and Leguminosae pollen had good correspondence with birch grove and Caragana bush. $\\mathrm { A } / \\mathrm { C }$ ratio and pollen totalconcentration had important significance in distinguishing forest zone and steppe desert zone.The RDA results showed that fern spores were positively corelated with precipitation and elevation,and Leguminous pollen was positivelycorrelated with temperature.Because of the diference of soil,moisture and illuminance caused by the variation of mountain topography,diferent type of vegetation zone formedon the sunnyand shady slopes at the same elevation,the forest zone and meadow zone occurred alternately.Influenced by mountain airflow and waterflow, the pollen composition was mixed with things coming fromthe two vegetation zones,thus the correlation between he polln contentof Picea and Betula and the vegetation coverage was decreased.Therefore,the quantitative relation between pollen and vegetation became more complex,which isuniversal in the scope of phytoecology.But it has a great impact on the quantitative reconstruction of vegetation and climate when usingthe surface polln data,though the mechanism should be further studied.Hence,when using the surface polln data from the mountain region for quantitativereconstruction,itis necessary to investigate the vegetation status of sampling sites in detailand analyze the characteristics of sedimentary environment,and should correct and filter the surface polen data. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words:Xarxili； surface sporopollen； cluster analysis ；redundancy analysis ； Xinjiang",
+        "page_idx": 11
+    }
+]

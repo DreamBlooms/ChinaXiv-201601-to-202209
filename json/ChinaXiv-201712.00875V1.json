@@ -1,0 +1,369 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "三维各向同性磁共振成像分析踝关节解剖结构",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵文吉，张鑫涛，吴著，赵银霞，胡绍勇，李绍林南方医科大学第三附属医院医学影像科，广东广州510630摘要：目的 对比各向同性三维快速自旋回波(3 dimensional fast spin echo,3D-FSE)和三维快速场回波(3 dimensional fastfieldecho,3D-FFE)及二维快速自旋回波(2 dimensional fast spin echo,2D-FSE)对踝关节解剖结构显示的特点。方法 随机选10名志愿者进行各向同性3D-FSE、3D-FFE及2D-FSE序列磁共振扫描以及三维重建,并测量各组织的信噪比(signal-to-noise ratio,SNR）对比信噪比(contrast-to-noise ratio,CNR),用5分利克特表(5-pointLikert scale)评估各序列各组织的成像质量。结果在各组织中的3D-FSE序列SNR最高,在软骨、肌肉、肌腱中其次为3D-FFE序列;软骨-骨髓、肌肉-肌腱、关节液-肌腱中的3D-FSE的CNR最高，其次为3D-FFE,各序列间具有统计学差异 $( P { < } 0 . 0 5 )$ 。主观评估三种序列踝关节软骨的成像质量，各序列间有统计学差异( $P { < } 0 . 0 5 )$ ,3D-FFE成像质量最好,其次为3D-FSE。主观评估韧带中3D-FSE、2D-FSE序列均优于3D-FFE序列$( P { < } 0 . 0 5 )$ ;主观评估肌腱中，除腓短肌腱外，其余肌腱都有统计学差异( $_ { ( P < 0 . 0 5 ) }$ ,且都是3D-FSE成像质量最好，其次为2D-FSE序列。结论 各向同性3D-FSE序列具有最高的SNR、CNR,能任意平面重建,扫描时间短,可全面评估复杂关节的解剖结构，广泛应用临床。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：踝关节;3D-FSE;3D-FFE;2D-FSE;磁共振 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Three-dimensional isotropic magnetic resonance imaging of the ankle joint ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Wenji,ZHANG Xintao,WU Zhu,ZHAO Yinxia,HUShaoyong,LIShaolin DepartmentofMedicalImaging,TirdAfliatedHospitalofSouthernMedical University,Guangzhou5063,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective Tocompare the image qualityof isotropic 3-dimensional fast spin echo (3D-FSE),3D fast field echo (3D-FFE),and 2Dfastspin echo (2D-FSE)sequences inmagneticresonance imaging(MRI)oftheanatomical structureof the ankle joint.Methods Theanklejointsof10healthyvolunteers wereexamined with isotropic 3D-FSE,3D-FFEand 2D-FSE sequences using a1.5TMRscannerand3Dreconstruction.Thesignal-to-noiseratio(SNR)andcontrast-to-noiseratio(CNR)of the tisses were measured.Tworadiologists evaluated the image qualityof the 3sequences using a 5-point Likert scale in a double-blinded manner. ResultsThe 3D-FSEsequences resulted inthe highest SNRs foral thetissues and the highest CNRs fordifferentiation betweencartilageand marrow,betwee muscleand tendon,and between tendonand fluid.In the estimationofimagequalityforcartilages,3D-FEhadthehighestscorefollowedby3D-SE,ndthelaterhadthehighest scoreamong the3sequences in displaying the tendon. Conclusion 3D-FSE sequence hasahigh performance in displaying the anatomical structures of complex joints especially for cartilage, ligament, and tendon tissues. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:ankle;3-dimensional isotropic fast spinecho;3-dimensional fast field echo;two-dimensionalfastspin echo; mag netic resonance imaging ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "磁共振成像(MRI)已经广泛用于骨关节疾病的诊断和疗效评价中。常规的2D序列由于层厚较厚，会产生部分容积效应，易掩盖关节病变。目前各向同性3D成像可以消除层间隔，减少部分容积效应。研究1报道各向同性3D序列重建图像与常规2D序列比较，对膝关节软骨、半月板、韧带损伤显示效果相同。然而，近来有研究报道将3D-FSE和3D-FFE序列成像对软骨成像的对比，得出3D-FSE对于显示关节液-肌腱对比效果较好,而3D-FFE对于显示关节液-软骨的对比效果好[2]本研究通过2D-FSE、3D-FSE和3D-FFE序列对踝关节解剖结构的信噪比、对比信噪比及主观图像质量评分的比较，探讨各序列在显示踝关节解剖结构方面的各自优势和特点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "选择正常志愿者10例20踝，年龄 $\\left( 2 3 . 2 { \\pm } 1 . 5 8 \\right)$ ,其中男3例，女7例。研究对象既往无外伤史、手术史、无感染、类风湿、痛风等疾病。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2成像方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "使用飞利浦1.5TAchieva磁共振踝关节SENSE线",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "圈，志愿者仰卧位，足先进，踝关节处于自然体位。常规2D-FSE序列采取标准平面扫描，3D-FSE和3D-FFE扫",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "描采取非标准矢状位扫描，定位线平行于足长轴方向。  \n各序列扫描参数(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/536fa2af7f908d7207a71dd1bdee1afb3c1a2bdee01c96ae9974d1a352c6cf03.jpg",
+        "table_caption": [
+            "表13D-FSE、3D-FFE、2D-FSE序列的扫描参数Tab.1Parametersof3D-FSE,3D-FFEand2D-FSE"
+        ],
+        "table_footnote": [
+            "FOV:Fieldofview;FS:Fatsuppression;BW:Bandwidth;NSA:Numberofsignalaveraging;3D-FSE:3-dimensionalfastspin echo; 3D-FFE: 3-dimensional fast field echo; 2D-FSE: 2-dimensional fast spin echo. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Parameter</td><td rowspan=\"2\">3D-FSE Sagittal</td><td rowspan=\"2\">3D-FFE Sagittal</td><td colspan=\"3\">2D-FSE</td></tr><tr><td>Coronal</td><td>Sagittal</td><td>Transversal</td></tr><tr><td>TR/TE(ms)</td><td>1700/35</td><td>20/7.8</td><td>547/20</td><td>2000/63</td><td>2600/100</td></tr><tr><td>Flip Angle(°)</td><td>90</td><td>20</td><td>90</td><td>90</td><td>90</td></tr><tr><td>FOV( mm)</td><td>160x160</td><td>160x160</td><td>160x160</td><td>160x160</td><td>160x160</td></tr><tr><td>Matrix (mm)</td><td>268x266</td><td>268×266</td><td>320×320</td><td>320x320</td><td>320x324</td></tr><tr><td>Voxel size</td><td>0.6x0.6x0.6</td><td>0.6x0.6x0.6</td><td>0.5x0.5x0.3</td><td>0.5x0.5x0.3</td><td>0.5x0.49x0.3</td></tr><tr><td>Slice</td><td>293</td><td>240</td><td>24</td><td>24</td><td>24</td></tr><tr><td>FS</td><td>SPAIR</td><td>Proset</td><td>No</td><td>No</td><td>No</td></tr><tr><td>BW(Hz/pixel)</td><td>336</td><td>216.9</td><td>408.5</td><td>403.2</td><td>241.3</td></tr><tr><td>Sense factor</td><td>2.5</td><td>2</td><td>No</td><td>No</td><td>No</td></tr><tr><td>NSA</td><td>4</td><td>2</td><td>2</td><td>3</td><td>2</td></tr><tr><td>Scan time</td><td>7 min 58 s</td><td>10 min 43 s</td><td>3 min 43 s</td><td>4 min 13 s</td><td>2 min 30 s</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理及图像评价",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由2名研究者双盲分别测量数据和图像分析，将感兴趣区设为椭圆形，软骨、肌腱、关节液感兴趣区设为$3 \\mathrm { m m } ^ { 2 }$ ，肌肉、骨髓设为 $9 \\mathrm { m m } ^ { 2 }$ ,背景设为 $1 0 0 \\mathrm { m m } ^ { 2 }$ ，分别测量出各组织信号强度，然后计算出各组织SNR以及CNR。根据图像显示的噪声、伪影及解剖结构的清晰度，采用5分利克特表3评估踝关节各解剖结构的成像质量：1分最差，有大范围伪影和噪声，几乎不能显示软骨、韧带、肌腱结构；2分较差，局部有较严重伪影和噪声，能显示软骨、韧带、肌腱结构的 $5 0 \\%$ ;3分一般，局部有轻度伪影和噪声，软骨、韧带、肌腱结构能显示 $60 \\text{‰}$ $80 \\%$ ;4分较好，不受伪影、噪声影响的成像，软骨、韧带、肌腱结构能显示 $100 \\%$ ，但较模糊；5分最好，几乎没有噪声、伪影影响，软骨、韧带、肌腱结构能显示 $100 \\%$ ，且图像清晰。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4统计学分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS19.0统计软件进行统计学分析。采用多个样本均数的多重比较的方差分析LSD法和Dunnett's ${ \\mathrm { T } } _ { 3 }$ 法进行各序列间各组织结构SNR、CNR及关节软骨、韧带、肌腱成像质量的比较。所有数据均采用均数 $\\stackrel { \\cdot } { \\pm }$ 标准差表示，以 $P { < } 0 . 0 5$ 为差异有统计学意义。观察者间一致性用Kappa值评估， $\\mathbf { \\ K } { \\leqslant } 0 . 2$ 为两者一致性最差，k在0.2\\~0.4时两者一致性较差， $\\mathbf { \\nabla } _ { \\mathbf { K } } \\dot { }$ 在 $0 . 4 { \\sim } 0 . 6$ 时两者一致性一般,k在 $0 . 6 { \\sim } 0 . 8$ 时两者一致性为良好，k在$0 . 8 { \\sim } 1 . 0$ 时两者一致性为最好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.13D-FSE、3D-FFE与2D-FSE序列踝关节各组织的SNR比较",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3D-FSE、3D-FFE、2D-FSE序列的关节软骨、关节液、骨髓、肌肉、肌腱、韧带SNR的测量值两两之间差异均有统计学意义 $( P { < } 0 . 0 5 )$ ,软骨、肌肉、肌腱的SNR均为3D-FSE最高，其次为3D-FFE,最低为2D-FSE序列；关节液、韧带的SNR均为3D-FSE最高，其次为2D-FSE,最低为3D-FFE序列；骨髓的SNR最高为2D-FSE序列，其次为3D-FSE序列，最低为3D-FFE序列(表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.23D-FSE、3D-FFE与2D-FSE序列的各组织间CNR比较",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3D-FFE与3D-FSE、3D-FFE与2D-FSE序列软骨-关节液的CNR都没有统计学差异，但3D-FSE与2D-FSE之间有统计学差异 $( P { < } 0 . 0 5 )$ ,2D-FSE序列CNR高于3D-FSE序列;软骨-骨髓、关节液-肌腱、肌肉-肌腱的CNR中各序列之间均有统计学差异 $( P { < } 0 . 0 5 )$ ，3D-FSE的软骨-骨髓、肌肉-肌腱的CNR最高，其次为3D-FFE，最低为2D-FSE;3D-FSE的关节液-肌腱的CNR最高，其次为2D-FSE,最后为3D-FFE;三序列间肌肉-韧带的CNR均无统计学差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3两研究者间一致性Kappa值 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总体上两研究者间一致性为较好，观察者间在软骨3D-FSE序列、韧带3D-FFE、2D-FSE序列中一致性为一般(表4)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/805c3fefaa8739be2b08879e07393db71ef1b1d51797382bc713281010930d21.jpg",
+        "table_caption": [
+            "表23种序列在踝关节各组织结构中的SNR比较 Tab.2 Comparison of tissue's signal-to-noise ratio (SNR) of the ankle joints in the 3 sequences (Mean±SD) "
+        ],
+        "table_footnote": [
+            "X:3D-FSE;Y:3D-FFE;Z:2D-FSE. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>3D-FSE</td><td>3D-FFE</td><td>2D-FSE</td><td>Pairwise Comparison</td><td>P</td></tr><tr><td rowspan=\"3\">Cartilage</td><td rowspan=\"3\">69.24±10.98</td><td rowspan=\"3\">38.23±5.61</td><td rowspan=\"3\">14.10±2.96</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z</td><td>0.00</td></tr><tr><td>Y~Z</td><td>0.00</td></tr><tr><td rowspan=\"3\">Muscle</td><td rowspan=\"3\">49.07±5.94</td><td rowspan=\"3\">27.96±3.82</td><td rowspan=\"3\">8.56±2.41</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z</td><td>0.00</td></tr><tr><td>Y~Z</td><td>0.00</td></tr><tr><td rowspan=\"3\">Liquid</td><td rowspan=\"3\">83.70±17.80</td><td rowspan=\"3\">16.50±5.05</td><td rowspan=\"3\">40.10±9.25</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z</td><td>0.00</td></tr><tr><td>Y~Z</td><td>0.00</td></tr><tr><td>Bone</td><td>19.76±2.90</td><td>2.88±0.47</td><td>44.03±3.46</td><td>X~Y X~Z</td><td>0.00 0.00</td></tr><tr><td rowspan=\"3\">Tendon</td><td rowspan=\"3\">6.13±1.88</td><td rowspan=\"3\">3.76±1.01</td><td rowspan=\"3\">2.86±0.24</td><td>Y~Z</td><td>0.00</td></tr><tr><td></td><td></td></tr><tr><td>X~Y X~Z</td><td>0.00 0.00</td></tr><tr><td></td><td></td><td></td><td></td><td>Y~Z</td><td>0.00</td></tr><tr><td rowspan=\"2\">Liga- ment</td><td rowspan=\"2\">35.42±6.49</td><td rowspan=\"2\">13.58±4.90</td><td rowspan=\"2\">23.49±1.75</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z</td><td>0.00</td></tr><tr><td></td><td></td><td></td><td></td><td>Y~Z</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/42c3f7a0c10e0addc6c5ef9b6c0a80985fee24429ee1cdb87bae9733782a92d3.jpg",
+        "table_caption": [
+            "表33种序列在踝关节各组织结构中的CNR的比较 Tab.3 Comparison of tissue's contrast-to-noise ratio (CNR) in the 3 sequences for the ankle joint (Mean±SD) "
+        ],
+        "table_footnote": [
+            "C:Cartilage;Liq:Liquid;B:Bone;Lig:Ligament;T: Tendon;M: Muscle. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>3D-FSE</td><td>3D-FFE</td><td>2D-FSE</td><td>CPaipwison</td><td>P</td></tr><tr><td rowspan=\"2\">C-Liq</td><td rowspan=\"2\">14.59±11.51</td><td rowspan=\"2\">21.73±5.84</td><td rowspan=\"2\">26.01±9.33</td><td>X~Y</td><td>0.06</td></tr><tr><td>X~Z Y~Z</td><td>0.00 0.25</td></tr><tr><td rowspan=\"2\">C-B</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td></td><td></td></tr><tr><td>X~Y X~Z</td><td>0.00 0.00</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">49.48±9.59</td><td rowspan=\"2\">35.35±5.43</td><td rowspan=\"2\">29.94±3.55</td><td>Y~Z</td><td>0.00</td></tr><tr><td>X~Y</td><td>0.96</td></tr><tr><td rowspan=\"2\">Lig-M</td><td rowspan=\"2\">13.65±4.46</td><td rowspan=\"2\">14.38±6.12</td><td rowspan=\"2\">14.93±2.67</td><td>X~Z</td><td>0.61</td></tr><tr><td>Y~Z</td><td>0.98</td></tr><tr><td rowspan=\"2\">Liq-T</td><td rowspan=\"2\">77.57±16.87</td><td rowspan=\"2\">12.74±5.19</td><td rowspan=\"2\">37.24±9.18</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z</td><td>0.00</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>Y~Z</td><td>0.00</td></tr><tr><td>X~Y</td><td>0.00</td></tr><tr><td rowspan=\"2\">T-M</td><td rowspan=\"2\">42.95±5.45</td><td rowspan=\"2\">24.20±3.45</td><td rowspan=\"2\">5.70±2.31</td><td>X~Z</td><td>0.00</td></tr><tr><td>Y~Z</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7a366bb37691b4c27e81e56161f561fa45bfdab7c343b40945c13d39653789c.jpg",
+        "table_caption": [
+            "表4研究者间一致性Kappa值如下",
+            "Tab.4Inter-observer agreement calculated using Kappa analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>3D-FSE</td><td>3D-FFE</td><td>2D-FSE</td></tr><tr><td>Cartilage</td><td>0.557</td><td>0.680</td><td>0.766</td></tr><tr><td>Ligament</td><td>0.611</td><td>0.503</td><td>0.547</td></tr><tr><td>Tendon</td><td>0.623</td><td>0.685</td><td>0.660</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.43D-FSE、3D-FFE与2D-FSE序列评估踝关节软骨图像质量的分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3种序列分别评估踝关节胫距、胫跟、胫舟软骨的成像质量，各数据间均有统计学差异（ $( P { < } 0 . 0 5$ ，表5)，3D-FFE的软骨成像质量最好，其次为3D-FSE,最后为2D-FSE(图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.53D-FSE、3D-FFE与2D-FSE序列评估踝关节韧带 图像质量分析(表6) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3序列评估踝关节的7条韧带解剖结构图像质量分析中，所有评估韧带3D-FSE与2D-FSE序列的图像质量评分均无统计学差异（ $( P { > } 0 . 0 5 )$ ；所有韧带中3D-FFE与3D-FSE、2D-FSE的图像质量评分均有统计学差异$( P { < } 0 . 0 5 )$ ，3D-FSE、2D-FSE序列均优于3D-FFE序列(图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.63D-FSE、3D-FFE与2D-FSE序列评估踝关节肌腱 图像质量分析(表7) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3序列评估踝关节肌腱图像质量分析中，在所评估的肌腱中，腓短肌腱2D-FSE序列与3D-FSE序列间没有统计学差异 $( P { > } 0 . 0 5 )$ ，其余各肌腱各序列间都有统计学差异( $P { < } 0 . 0 5 )$ ,各肌腱成像质量最好为3D-FSE,其次为2D-FSE，最后为3D-FFE序列(图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3D-FSE是基于FSE的成像技术，它通过选取合适翻转角和回波因素使组织信号在回波链的大部分时间保持稳态，增加回波链长，提高了T2加权采集效率，而且3D-FSE序列添加并行采集技术和K空间重排明显提高了采集效率,缩短了扫描时间[4。本研究3D-FSE序列采取了SPAIR脂肪抑制技术，使软骨显示呈明显高信号，与软骨下骨对比明显。研究中3D-FSE、3D-FFE均为三维各向同性序列，无间隔薄层采集数据，可以任意平面、任意层厚重建，也可进行曲面重建，重建后图像的空间分辨率没有降低,部分容积效应减轻。本研究中3D-FSE扫描时间是 $7 \\mathrm { m i n } 5 8 \\mathrm { s }$ ，比三个常规序列时间总和缩短 $2 { \\sim } 3 \\ \\operatorname* { m i n }$ ，而图像的整体成像质量没有明显降低。尤其适合那些疼痛难以坚持、幽闭恐惧征或其他不能长时间配合的病人快速完成检查[5]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3D-FFE采用选择性水激励技术进行脂肪抑制即频率和空间双选择脉冲仅激励某一层面中的水成分，而脂肪质子自旋仍处于平衡状态，因而不产生信号。利用水和脂肪的进动频率的差异而使脂肪能够很好地抑制,使关节软骨信号具有极高的信噪比，可清晰的显示关节软骨、骨髓信号[7。水激励3D-FFE 比3D扰相梯度回波(3D-SPGR）显示关节内结构更好。它已经广泛用于运动系统成像，评估膝关节透明软骨，半月板纤维软骨，以及评估前后交叉韧带。在3D-FFE序列中正常半月板信号增高，降低了诊断半月板撕裂的特异性和敏感性，3D-FFE序列在运动系统成像中采用水激励增加了信噪比和对比信噪比，脂肪抑制更加均匀，减少了伪影。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ed1e945a5727d0ad77d1e051853622c4f727a46b8f16b32baa37937c71cff53.jpg",
+        "table_caption": [
+            "表53种序列在踝关节3个部位软骨图像质量分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Site</td><td>3D-FSE</td><td>3D-FFE</td><td>2D-FSE</td><td>CPaiparison</td><td>P</td></tr><tr><td>Tibitatar</td><td>3.95±0.74</td><td>4.70±0.50</td><td>1.98±0.73</td><td>X~Y</td><td>0.00 0.00</td></tr><tr><td>Tiocaleaneal</td><td>3.88±0.72</td><td>4.78±0.50</td><td>2.25±0.55</td><td></td><td>0000</td></tr><tr><td>Tibionavicular Cartilage</td><td>2.88±0.79</td><td>4.675±0.59</td><td>1.45±0.54</td><td>X~Y X~Z Y~Z</td><td>0.00 0.00 0.00</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3D-FSE序列具有真正的高分辨率，高信噪比，高采集效率的特点。研究认为3D-FSE序列的信噪比效率是2D-FSE序列的4-5倍，与其他评估软骨的3D技术相比,3D-FSE亦有更高的信噪比和信噪比效率。本研究中3D-FSE在软骨、关节液、肌腱、韧带、肌肉的SNR明显高于2D-FSE 和3D-FFE序列，且具有显著统计学差异，与上述研究结论一致。有研究3报道3D-FSE序列有良好的信噪比和对比信噪比，有利于显示复杂的踝关节解剖。本研究中3D-FSE序列软骨-骨髓的CNR与2D-FSE、3D-FFE有统计学差异，且前者明显高于后两者，与以上研究一致。3D-FSE对于评估软骨、韧带、半月板的病变都有很高的特异性和敏感性。Jung[8对比了各向同性3D-FSE、平衡稳态自由进动(balancedFastFieldEcho,b-FFE)序列与2D-FSE序列，得出3D-FSE序列评估软骨损伤优于b-FFE,但评估韧带和半月板，3个序列没有显著差异，3D-FSE更易发现软骨下骨髓信号异常。3D-FFE序列利用水和脂肪的进动频率的差异而使脂肪能够很好地抑制，使关节软骨信号具有极高的信噪比,可清晰的显示关节软骨、骨髓信号。Kim等29的研究比较了膝关节各向同性3D-FSE、3D-FFE序列，3D-FSE显示液体-半月板、液体-韧带、液体-肌腱的对比较好，而3D-FFE序列显示软骨-液体的对比好。本研究中3D-FFE序列的软骨-关节液CNR比3D-FSE序列的高，但两者间无统计学差异。3个序列在3个部位的软骨质量评分中3D-FFE高于3D-FSE、2D-FSE序列，且3者具有统计学差异。这支持3D-FFE对软骨显示能力最佳。由于本研究2D-FSE序列没有进行脂肪抑制，关节软骨与关节液、软骨下骨的分界不清，所以本研究中2D-FSE软骨质量评分最差。3个序列中3D-FSE序列的软骨SNR最高，3D-FFE序列的软骨图像质量评分最好。而有研究认为3D各向同性对于软骨形态的评估非常有用。Chen等3D-FSE、b-FFE与扰相梯度回波测量软骨体积准确性和精确性是相似的，而3D-FSE比b-FFE序列扫描速度更快，且可以多平面重建软骨，临床上可以全面评估膝关节和骨关节炎。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4844e652a26d58760cd2182fa24870c4d1de26ca32209bdb9e2daec765b9a6a0.jpg",
+        "img_caption": [
+            "图1软骨的显示",
+            "Fig.1MR scan of the anklecartilage using 3D-FSE (A),3D-FFE(B),and 2D-FSE(C) sequences.A: Thecartilage outline appears obscure but thecartilage and subchondral bone interface was clear;B:Thecartilageoutline is shown clearly with sharp contrast between the cartilage and subchondral bone C:The cartilage outline and interfaces between the cartilage and the surrounding tissues are not clear. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ddc021b81cca6cd68aeaea1cd74f25a9512b0ca059148ac0f6deebb9365f642.jpg",
+        "table_caption": [
+            "Tab.5 Quality analysis of the ankle images in the three parts of the cartilage (Mean±SD) ",
+            "表63种序列在踝关节韧带解剖结构的图像质量分析 Tab.6 Quality analysis of the ankle ligaments displayed by th 3sequences (Mean±SD) "
+        ],
+        "table_footnote": [
+            "\\*ATFL:Anterior talofibular ligament;PTFL:Posterior talofibular ligament;CFL:Calcaneofibular ligament；AITFL:AnteroInferior tibiofibular ligament；PITFL:PosteroInferior tibiofibular ligament; TNL:Tibionavicalar ligament; TCL:Tiblocalcaneal ligament "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>3D-FSE</td><td>3D-FFE</td><td>2D-FSE</td><td>Pairwise Comparison</td><td>P</td></tr><tr><td>ATFL</td><td>4.40±0.90</td><td>3.53±0.60</td><td>4.55±0.72</td><td>X~Y X~Z</td><td>0.00 0.53</td></tr><tr><td rowspan=\"3\"></td><td></td><td></td><td></td><td>Y~Z</td><td>0.00</td></tr><tr><td></td><td></td><td></td><td>X~Y</td><td>0.00</td></tr><tr><td>4.80±0.41</td><td>3.23±0.38</td><td>4.80±0.38</td><td>X~Z</td><td>1.00</td></tr><tr><td rowspan=\"3\">PTFL</td><td></td><td></td><td></td><td>Y~Z</td><td>0.00</td></tr><tr><td></td><td></td><td></td><td>X~Y</td><td></td></tr><tr><td>4.25±0.75</td><td>3.05±0.43</td><td>3.98±0.75</td><td>X~Z</td><td>0.00</td></tr><tr><td rowspan=\"3\">CFL</td><td></td><td></td><td></td><td>Y~Z</td><td>0.58 0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.98±0.77</td><td>3.05±0.43</td><td>3.75±0.77</td><td>X~Y</td><td>0.00</td></tr><tr><td rowspan=\"3\">AITFL</td><td></td><td></td><td></td><td>X~Z Y~Z</td><td>0.73</td></tr><tr><td></td><td></td><td></td><td></td><td>0.00</td></tr><tr><td></td><td></td><td></td><td>X~Y</td><td>0.00</td></tr><tr><td rowspan=\"3\">PITFL</td><td>4.10±0.58</td><td>3.33±0.63</td><td>4.20±0.55</td><td>X~Z</td><td>0.59</td></tr><tr><td></td><td></td><td></td><td>Y~Z</td><td>0.00</td></tr><tr><td></td><td></td><td></td><td></td><td>0.00</td></tr><tr><td rowspan=\"3\">TCL</td><td>4.35±0.59</td><td></td><td></td><td>X~Y</td><td>0.00</td></tr><tr><td></td><td>3.20±0.50</td><td>4.075±0.63</td><td>X~Z</td><td>0.14</td></tr><tr><td></td><td></td><td></td><td>Y~Z</td><td></td></tr><tr><td rowspan=\"3\">TNL</td><td></td><td></td><td></td><td></td><td>0.00</td></tr><tr><td></td><td></td><td></td><td>X~Y</td><td>0.00</td></tr><tr><td></td><td>2.73±0.47</td><td>3.93±0.37</td><td>X~Z</td><td>0.60</td></tr><tr><td rowspan=\"2\"></td><td>3.85±0.37</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Y~Z</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4dab0459ad271098e7a59bedd7644dcb756500ae1d62dd6e7c4b6958c463a462.jpg",
+        "img_caption": [
+            "图2距腓前韧带的显示 Fig.2 MR scan of the Anterior talofibular ligament (ATFL) using 3D-FSE (A),3D-FFE $( B )$ ，and 2D-FSE(C) sequences.A: Thickness of the ATFL is uniform and the edge of the ATFL is clearly displayed; B: Compared with A,the thickness of ATFL is thinner and appears obscure; C: The thickness and signal of the ATFL are not shown evenly. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f8cbe99f6087f1925a57bafdf6d2b1ea072900b7339a9171247d2ded86fb5dc.jpg",
+        "table_caption": [
+            "表73种序列在踝关节肌腱解剖结构图像质量分析 Tab.7 Quality analysis of ankle tendons images in the three sequences (Mean±SD) "
+        ],
+        "table_footnote": [
+            "\\*AT:Achilles Tendon;PLT:Peroneus Longus Tendon;PBT: Peroneus Brevis Tendons；ATT:Anterior Tibialis Tendon;EHLT:Extensor Hallucis Longus Tendon;EDLT:Extensor Digitorum Longus Tendon; FHLT:Flexor Hallucis Longus Tendon;FDLT:Flexor Digitorum Longus Tendon; PTT:Posterior Tibialis Tendon. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>3D-FSE</td><td>3D-FFE</td><td>2D-FSE</td><td>Pairwise Comparison</td><td>P</td></tr><tr><td rowspan=\"3\">AT</td><td rowspan=\"3\">5.00±0.00</td><td rowspan=\"3\">4.00±0.36</td><td rowspan=\"3\">5.00±0.00</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z</td><td>1.00</td></tr><tr><td>Y~Z</td><td>0.00</td></tr><tr><td rowspan=\"3\">PBT</td><td rowspan=\"3\">4.85±0.33</td><td rowspan=\"3\">3.08±0.54</td><td rowspan=\"3\">4.70±0.47</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z</td><td>0.30 0.00</td></tr><tr><td>Y~Z</td><td></td></tr><tr><td rowspan=\"3\">PLT</td><td rowspan=\"3\">4.85±0.33</td><td rowspan=\"3\">3.45±0.58</td><td rowspan=\"3\">4.18±0.37</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z Y~Z</td><td>0.00 0.00</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"3\">ATT</td><td rowspan=\"3\">4.93±0.18</td><td rowspan=\"3\">3.83±0.67</td><td rowspan=\"3\">4.53±0.55</td><td>X~Y</td><td>0.00 0.02</td></tr><tr><td>X~Z Y~Z</td><td>0.00</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"3\">EHLT</td><td rowspan=\"3\">4.93±0.18</td><td rowspan=\"3\">3.70±0.66</td><td rowspan=\"3\">4.45±0.58</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z Y~Z</td><td>0.01 0.00</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"3\">EDLT</td><td rowspan=\"3\">4.88±0.22</td><td rowspan=\"3\">3.68±0.59</td><td rowspan=\"3\">4.45±0.65</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z Y~Z</td><td>0.03 0.00</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"3\">PTT</td><td rowspan=\"3\">4.98±0.11</td><td rowspan=\"3\">3.45±0.48</td><td rowspan=\"3\">4.63±0.46</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z Y~Z</td><td>0.01 0.00</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"3\">FHLT</td><td rowspan=\"3\">4.98±0.11</td><td rowspan=\"3\">4.00±0.46</td><td rowspan=\"3\">4.57±0.49</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z Y~Z</td><td>0.00 0.02</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"3\">FDLT</td><td rowspan=\"3\">4.93±0.24</td><td rowspan=\"3\">3.93±0.37</td><td rowspan=\"3\">4.3±0.52</td><td>X~Y</td><td>0.00</td></tr><tr><td>X~Z</td><td>0.00</td></tr><tr><td>Y~Z</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "大部分学者认为3D-FSE序列评估膝关节韧带的准确性、特异性、敏感性与2D-FSE序列是相似的[11-15]Jung[的研究认为3D-FSE与2D-FSE序列比较,对于显示交叉韧带和半月板撕裂的诊断没有显著性差异。Subhas[1的研究认为2D-FSE序列比3D-FSE序列显示半月板更好，但他们对评估韧带的结果是相似的。Ristow[16发现在50例病人中3D-FSE序列与2D-FSE序列评估半月板、韧带、软骨损伤没有差别,但根据当时的成像质量,认为2D-FSE观察骨髓水肿更好。Kijowski[14]认为两序列评估半月板和韧带没有明显不同，但是3D-FSE序列观察软骨损伤更加敏感。3D-FSE序列采用薄层连续扫描，这样能明显减轻了部分容积效应，再者各向同性3D-FSE序列可以一次采集后任意平面重建，如可以重建斜矢状位、斜冠状位，也可以沿韧带、肌腱走行方向重建，这样可以显示韧带、肌腱全长，进而降低了韧带、肌腱损伤的误诊率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究中3D-FSE序列比3D-FFE、2D-FSE序列显示软骨的信噪比高,3D-FFE比3D-FSE、2D-FSE的软骨质量评分高，3D-FFE比其他序列评估软骨成像有明显优势，突出显示软骨建议使用3D-FFE序列。3D-FSE序列与2D-FSE显示韧带相似，均优于3D-FFE序列;而对于显示肌腱,3D-FSE序列明显优于2D-FSE、3D-FFE。3D-FSE、2D-FSE都可以很好的评估韧带、肌腱，但3D-FSE序列对韧带、肌腱的整体显示更好，可全面评估软骨、韧带、肌腱等软组织。因为",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff879b520844743c7b3658375dc63a376c0669879e92965ac6bc520ae85f6faa.jpg",
+        "img_caption": [
+            "图3趾长屈肌腱的显示 Fig.3MRI scanof theFDLTusing 3D-FDE(A),3D-FFE(B),and 2D-FSE(C)sequences.The overallengthof the FDLT is shown in $A$ and $B ,$ and a part of the FDLT is found in C.A: The tendon signal is continuous and even; B: The signal ofthe tendon was heterogeneous with local high signals due to magic angle effect,artifact or noise. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3D-FSE具有真正的高分辨率、高信噪比、高采集效率，扫描时间短的特点，既可以评估软骨，也可以评估肌腱、韧带，在未来可以替代2D-FSE应用临床。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Kijowski R，Davis KW,Woods MA，et al． Knee joint: comprehensive assessment with 3D isotropic resolution fast spin-echo Mr imaging--diagnostic performance compared with that of conventional Mr imaging at 3.0 T[J].Radiology,2009,252(2): 486-95.   \n[2]Seo JM，Yoon YC,Kwon JW.3D isotropic turbo spin-echo intermediate-weighted sequence with refocusing control in knee imaging: comparison study with 3D isotropic fast-field echo sequence[J].Acta Radiol,2011,52(10): 1119-24.   \n[3]Notohamiprodjo M,Kuschel B,Horng A,et al.3D-MRI of the ankle with optimized 3D-SPACE[J]. Invest Radiol, 2012,47(4): 231-9.   \n[4]Disler DG.Articular cartilage in the knee:current Mr imaging techniques and applications in clinical practice and research. Invited commentary[J].Radiographics,2011,31(1): 61-2.   \n[5]Stevens KJ,Busse RF,Han E,et al. Ankle: isotropic Mr imaging with 3D-FSE-cube--initial experience in healthy volunteers [J]. Radiol0gy,2008,249(3):1026-33.   \n[6]顾 菲,张雪哲.水激励技术在关节软骨MR成像中的应用[J].中华放 射学杂志,2007,41(12):1299-303.   \n[7］刘年元,韩福刚,赵冬梅,等.3D-FFE-SPIR与3D-FFE-WATS序列在 膝关节软骨成像中的对比研究[J].泸州医学院学报,2011,34(6): 677-81.   \n[8]Jung JY, Yoon YC,Kim HR,et al.Knee derangements: comparison ofisotropic 3D fast spin-echo，isotropic 3D balanced fast field-echo,and conventional 2D fast spin-echo Mr imaging[J]. Radiology,2013,268(3): 802-13.   \n[9]Kim HS,Yoon YC,Kwon JW,et al.Qualitative and quantitative assessment of isotropicankle magnetic resonance imaging: three-dimensional isotropic intermediate-weighted turbo spin echo versus three-dimensional isotropic fast field echo sequences [J]. Korean JRadiol,2012,13(4): 443-9.   \n[10] Chen CA,Kijowski R,Shapiro LM,et al. Cartilage morphology at 3.0T: assessment of three-dimensional magnetic resonance imaging techniques[J].JMagn Reson Imaging,2010,32(1):173-83.   \n[11]Jung JY,Yoon YC，Kwon JW,et al.Diagnosis of internal derangement of the knee at 3.0-T Mr imaging:3D isotropic intermediate-weighted versus 2D sequences [J].Radiology,2009, 253(3): 780-7.   \n[12] Subhas N,Kao A,Freire M,et al.MRI of the knee ligaments and menisci: comparison of isotropic-resolution 3D and conventional 2D fast spin-echo sequences at 3 T[J]. AJR Am JRoentgenol, 2011, 197(2): 442-50.   \n[13] Yoon YC,Kim SS, Chung HW,et al. Diagnostic efficacy in knee MRIcomparingconventionaltechniqueandmultiplanar Reconstruction with one-millimeter FSE PDW images [J].Acta Radiol,2007,48(8): 869-74.   \n[14] Kijowski R, Blankenbaker DG, Woods M,et al. Clinical usefulness of adding 3D cartilage imaging sequences to a routine knee Mr protocol[J].AJR Am JRoentgenol,2011,196(1): 159-67.   \n[15] Choo HJ,Lee SJ,Kim DW,et al.Multibanded anterior talofibular ligaments in normal ankles and sprained ankles using 3D isotropic proton density-weighted fast spin-echo MRI sequence[J].AJR Am JRoentgenol,2014,202(1): W87-94.   \n[16]Ristow O, Steinbach L,Sabo G,et al. Isotropic 3D fast spin-echo imaging versus standard 2D imaging at $3 . 0 \\mathrm { ~ T ~ }$ of the knee--image quality and diagnostic performance[J].Eur Radiol,2Oo9,19(5): 1263-72. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(编辑：吴锦雅）",
+        "page_idx": 5
+    }
+]

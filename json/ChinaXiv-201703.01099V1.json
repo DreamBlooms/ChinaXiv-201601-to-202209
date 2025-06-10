@@ -1,0 +1,514 @@
+[
+    {
+        "type": "text",
+        "text": "加工条件对多相V-Ti-Ni合金的显微组织和氢渗透性能的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "江鹏 袁同心\\~ 于彦东² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1常州大学机械工程学院常州2131642哈尔滨理工大学材科科学与工程学院 哈尔滨 150040",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要将 $8 0 0 \\mathrm { ~ \\textdegree ~ }$ 热处理 $^ { 1 8 \\mathrm { ~ h ~ } }$ 后的电弧熔炼 $\\mathrm { V } _ { 5 \\sqrt { 1 3 0 } } \\mathrm { N i } _ { 1 5 }$ 合金，在700℃进行 $70 \\%$ 压下量的轧制，随后在 $9 5 0 \\ \\mathrm { ~ \\textdegree ~ }$ 退火 $^ { 3 \\mathrm { ~ h ~ } }$ ，研究不同加工条件对合  \n金显微组织的影响以及显微组织变化对合金H渗透率的影响。结果表明，不同加工条件导致的合金显微组织对H渗透率影响很大。热处理后，V基出  \n体析出了H渗透率低的NiTi减少了作为渗透主体的V基体体积分数，导致合金H渗透率降低。位错对合金H渗透率有很大影响，轧制后店  \n合金含有高密度的位错，极大降低了H渗透率；随后的高温退火工艺则使合金位错密度降低，提高了H渗透率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "K关键词 VINi多相合金,显微组织，氢渗透率文章编号 -1961(200x)×—xx—×",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of Processing Conditions on Microstructure and Property of Multiphase ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "V-Ti-Ni Alloys for Hydrogen Purifying ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "金，预JIANG Peng1, YUAN Tongxin1, YU Yandong²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "报 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Mechanical Engineering,Changzhou University, Changzhou 213164, China   \n2 Schoolof Materials Science and Enginering， Harbin UniversityofScience andTeelogy,Harbl 150040, China   \nCorrespondent: JIANG Peng, Lecturer, Tel: (0519)81169812, E-mail: peng.jiang @cczu.edu.cn   \nSupported by Natural Science Foundation of Jiangsu Provine (No. BK2Q50268) D   \nManuscript received 2016—08—16,in revised form 2016—11—20 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT The method of separation and purification of hydrogen from a mixed gas based on the permeation of hydrogen through a dense metallic membFane appears 9an attractive mean of producing high purity hydrogen at a large scale. V-based aloy membranes with the bcc structure are of great interest for hydrogen separation applications due to their low cost and high permeability.The hydrogen flux of the membrane is proportional to its hydrogen permeabilityand inversely proportional to its thicknessTherefore, V-based alloy&shouldbeabricated in the form of large and thin membranes with te least possible thickness.Rolling process is presently regarded as the most promising route to a large scale fabrication of hydrogen permeable metal membranes.The refractory nature of the most prospective bcc aloys,and their potentially complex mpositions,restricts the fabrication techniques which can be applied to form the alloy into a thin foil. Thin sheets of $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ alloy were produced by a thermo-mechanical treatment consisting in successive/Keat treatmemrolling and annealing treatment. As microstructure can greatly influence membrane performance,internal microstructures resulting from different ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "processingconditions， andtheir effects on hydrogen permeability, have been investigated for the multiphase $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ alloy.Precipitation of NiTi particlesfromV-matrixof $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ alloy during heat treatment, reduces ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the volume fraction of V-matrix contributing mainly to hydrogen permeation, which results decreasing in the hydrogen permeability.Heat-treated microstructure evolved into a fibrous/lamellar microstructure during hot-rolling deformation,and a significant reduction in hydrogen permeabilityaccompanied this deformation. Subsequent annealing decreased the dislocation density and increased hydrogen permeability.Dislocations have a great impact on hydrogen permeability through their ability to trap difusing hydrogen.These results show that, the control of microstructure is central to the development of high-permeability alloys. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS multiphase V-Ti-Ni alloy, microstructire; hydrogen permeability ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（204号 $\\mathrm { H } _ { 2 }$ 是一种清洁能源，具有低污染、环保的优点，主要用于化工、制药、半导体和燃料电池等行业。然而，目前主要利用化石能源的转换来制取 $\\mathrm { H } _ { 2 }$ ，如煤的气化。由于化石原料的所含杂质较高，在生产过程中会伴随许多杂质气体相对于 $\\mathrm { H _ { 2 } }$ 来说)，如CO、 $\\mathrm { C O } _ { 2 }$ 、 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 等，因此从混合气体中将 $\\mathrm { H } _ { 2 }$ 分离出来是制取纯氢的一个重要环节金属膜分离法是目前提纯 $\\mathrm { H } _ { 2 }$ 比较有效的方法之一[3.4]，其具有热稳定性能优异、高的H选择性能等优点[5.6]。目前商业化应用最好的金属膜是 $\\mathrm { P d \\mathrm { - } A g }$ 合金膜[4,6]，但是其应用成本非常高，导致无法规模应用急需开发廉价、高性能的金属膜来替代。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "bcc 结构的金属V、Nb 和Ta，具有高的渗透率[7.8]，力学性能且价格比Pd金属低。但这3种金属与H易形成稳定的氢化物，从而使金属膜发生氢脆。目前提高金属膜综合性能的有效途径仍然是合金化与控制微观结构[9.10]。金属V比Nb、Ta能在更广的合金成分范围内保持 bcc固溶体，因此受到广泛关注。目前研究最多的 bcc合金膜是包含合金元素Ni[-3]，以及Al、Ti、Pd、Fe、Co 和 $\\mathrm { c u }$ [14-18]的V基固溶体合金膜。多相的bcc合金，如V-Ni-Ti 合金[9-21I、Nb-TNi 合金[2-24]、Ta-Ti-Ni 合金[20.25]、Nb-Ti-Co合金[2627]和 $\\mathrm { N b - Z r - N i }$ 合金[28]等，作为另一类具发展潜力的氢分离膜材料也吸引了许多研究者的关注。这些合金显微组织一般由bcc-V/Nb/Ta相及Ni基或 Ti基化合物组成。其中 bcc-V/Nb/Ta 相是合金H渗透的主体，Ni 基或 Ti 基化合物则H 渗透过程中起到抗氢脆和稳定合金结构的作用。本工作的研究材料多相（204号 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金也有类似的显微组织[29]，由 bc-V 相和 Ni-Ti 化合物组成，因此多租 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金能够达到高的H渗透率和良好的抗氢脆性能的结合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "氢分离膜若要应用于工业，必须具有高的渗透通量以提高 $\\mathrm { H } _ { 2 }$ 提纯效率[30]。膜的H渗透通量与渗透率成正比，与膜厚度成反比。因此制备成形的氢分离合金膜，厚度应该可能的薄。然而，bcc 合金的难熔特性和复杂的组成限制了合金膜制造成形技术的应用。目前制备bcc-合金膜的方法主要是铸锭切片法、甩带法和机械轧制法。机械轧制法广泛应用于金属箔的制造，最适合金属膜的大规模制造的方法[30]。由于膜制备过程中冷却速率不同和机械变形，每种制备方法都会导致不同的显微组织。轧制变形会使bcc 合金显微组织发生变化导致H渗透率降低，这一点已在轧制态的 $v _ { 8 5 } \\vert \\Im _ { \\parallel 5 } \\{ 1 \\} \\vert ^ { 1 ] }$ ， $\\mathrm { V _ { 8 5 } A l _ { 1 0 } C o _ { 5 } } ^ { [ 3 1 ] }$ 、 $\\mathrm { N b } _ { 4 0 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 3 0 } [ 2 4 ]$ 、 $\\mathbf { N b _ { 4 0 } T i _ { 3 0 } C o _ { 3 0 } } ^ { [ 2 }$ 切等合金中观察到。另外，变形后的退火处理将进一步改变合金的显微组织，导致合金的H渗透率发生变化24.27]。为了更好地分析这些加工处理方法对合金的显微组织和H渗透性能的影响，本工作将多相 $\\mathrm { \\Delta V _ { 5 5 } T i _ { 3 0 } N i _ { 1 } } ^ { * }$ 哈金进行电弧熔炼、热处理、轧制和退火一系列加工处理，观察和测试合金不同状态下的显微组织和H渗透率，分析加工条件对合金组织和H渗透性能的影响。 学布",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "属发",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1样品制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用纯度为 $9 9 . 9 \\%$ 的 $\\mathrm { \\Delta V }$ 、Ti和Ni原料配成实验所用的 $\\mathrm { \\bar { \\Omega } T i _ { 3 0 } N i _ { 1 5 } }$ 原沪分数， $\\%$ )合金，在电弧熔炼炉中的水冷铜模上进行熔炼制备，为防止氧化需要将炉中先抽真空再充入Ar气。为了确保合金成分均匀，铸锭需经过多次翻转重熔。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将电弧熔炼的 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金铸锭用电火花线切割工艺切割成不同厚度 $( 2 . 5 ~ \\mathrm { m m }$ ， $1 . 0 \\ \\mathrm { m m } \\rangle$ 试样，放置于管式炉中在800 $\\mathrm { { } ^ { \\circ } C }$ 下热处理 $^ { 1 8 \\mathrm { ~ h ~ } }$ 。加热过程中加热管保持Ar气流动以保证试样不被氧化。加热完成后试样随加热管取出置于空气中，同时保持管中 $\\mathbf { A r }$ 气流通直至完全冷却。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将热处理后的合金试样(厚度 $2 . 5 ~ \\mathrm { m m }$ 在 $7 0 0 \\mathrm { ~ \\textdegree ~ }$ 多道次热轧至 $1 . 0 ~ \\mathrm { m m }$ ，每道次压下量约为 $10 \\%$ ，每道次之间在 $7 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 加热 $1 0 ~ \\mathrm { { m i n } }$ 。轧制后的合金试样在Ar气流通的管式炉中 $9 5 0 \\mathrm { ~ \\textdegree C }$ 退火处理 $^ { 3 \\mathrm { ~ h ~ } }$ ，冷却过程",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与前述热处理一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2显微组织表征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试样制成金相样品后，用腐蚀剂 $( 5 \\% \\mathrm { H F } + 1 0 \\% \\mathrm { H N O } _ { 3 } + 8 5 \\% \\mathrm { H } _ { 2 } \\mathrm { O }$ ，体积分数)腐蚀后在GX71-6230 光学显微镜(OM)上观察显微组织。抛光后的试样利用附带 X 射线能谱仪(EDS)的Quanta(型号)扫描电子显微镜(SEM)观察合金中相分布并进行成分分析，无需腐蚀。采用Gatan 691离子减薄仪进行透射电镜(TEM)样品的制备。显微组织观察在JEM-2100 型高分辨电镜进行，加速电压为 $2 0 0 ~ \\mathrm { k V }$ 。采用D/Max-rb 型X 线衍射仪(XRD)对合金的物相和晶粒择优取向进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "合金中的位错密度利用X射线蜂宽化法来测定估算[32]。XRD 峰宽化包括物理宽化和仪器宽化。这种宽化需要校正以获得纯的物理宽化，物理宽化一般包括合金的相区尺寸 $( D )$ 和微观应变(ε)引起的衍射峰宽|通过式(1)计算D和",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "金预",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\beta \\cos \\theta } { \\lambda } } = { \\frac { 1 } { D } } + { \\frac { 1 6 \\varepsilon ^ { 2 } \\sin \\theta } { \\beta \\lambda \\cos \\theta } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\theta$ 是布拉格衍射角，λ是X射线的波长， $\\beta$ 是仪器校正的峰宽化(表达为积分宽度)。从 XRD 谱中选取2个 $\\theta$ 值及对应的 $\\beta$ 值即可计算出 $D$ 值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "合金的位错密度 $\\rho$ 根据式(2)计算[33]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "学布属 发 $\\rho = \\frac { 3 } { D ^ { 2 } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将式(1)计算得出的 $D$ 值代入式(2)即可得到合金的位错密度 $\\rho$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3氢渗透测试",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "金",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "金属膜的H渗透通量 $J$ 用式(3)表达[30]：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "报 学 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\phi$ 为 $\\mathrm { ~ H ~ }$ 渗透率， $L$ 表示膜的厚度， ${ \\bf \\nabla } { P } _ { I }$ 、 $P _ { 2 }$ 分别表示膜两侧(进气侧和出气侧)的 $\\mathrm { ~ H ~ }$ 分压。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将不同状态的合金样品切割成直径为 $3 0 \\mathrm { m m }$ 的圆双面磨平光，用上面所述腐蚀剂腐蚀10s后放入酒精中，超声波清洗 $1 0 0 \\mathrm { ~ s ~ }$ ，取出吹干。为防止试样表面氧化，且促进H渗透时在试样表面的分解与重组，用磁控溅射法在试样两面镀上约 $1 0 \\%$ 厚的Pd在 $4 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 运用恒压方法测试合金膜的渗透率 $\\phi$ 。测试过程中，进气侧为 $9 0 \\% \\mathrm { H } _ { 2 } \\substack { + 1 0 \\% } \\mathrm { C O } _ { 2 }$ 混合气体，压力 $0 . 6 \\ \\mathrm { M P a }$ ，气流速率 $2 0 0 \\mathrm { \\ m L / m i n }$ 。低压侧用200孤mL/minAr气流吹扫。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "H在 $\\mathrm { A r }$ 气流中的含量用气相色谱法测量，以计算H的渗透通量 $J \\ : ( \\mathrm { m o l / ( m } ^ { 2 } { \\cdot } \\mathrm { s } ) )$ ，根据式(3)来最终计算出渗透率。膜在测试过程中是否发生氢脆或机械破裂，可通过低压侧是否有CO存在来确认。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "属发",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1铸态合金组织",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "据之前的工作[29]可知， $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金铸锭组织呈现出典型的枝晶组织形貌。组织中枝晶相为溶有 Ti、Ni的V基固溶体，微量的枝晶间相为溶有少量V的NiTi和 $\\mathrm { N i T i } _ { 2 }$ 化合物，枝晶间相阻断了枝晶臂之间的连接。$\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金凝固时，由于成分过冷，液-固界面像树枝那样向液体中长大，另外V熔点比Ti和 Ni的熔点高，树枝状的V基固溶体会先凝固，同时溶质原子向周围液相中排出，液相中富集溶质原子形成 NiTi和 $\\mathrm { N i T i } _ { 2 }$ 化合物在枝晶间部位凝固，形成枝晶网状组织。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2合金热处理态显微组织",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金在 800℃下热处理 $1 8 \\mathrm { h }$ 后，从V基固溶体中析出许多白色细小粒子，尺寸大小不一，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从固溶体中心到边缘粒子尺寸不断增大[29]。图1所示为 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金在 $8 0 0 \\mathrm { ~ \\textdegree ~ }$ 下热处理 $1 8 \\mathrm { h }$ 后的TEM暗场像。可以看出，析出的粒子平均直径约为 $1 0 0 \\ \\mathrm { n m }$ ，据之前的工作可知，此析出粒子为溶有少量V的NiTi 相(B2-CsCl 结构)[29]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本工作中合金凝固过程中冷却速率高(水冷铜模冷却)，合金元素扩散速率慢，从而形成过饱和钒基固溶体和非平衡的共晶组织(NiTi 和 $\\mathrm { N i T i } _ { 2 }$ )。合金在 $8 0 0 \\mathrm { ~ \\textdegree ~ }$ 热处理时，原子扩散速率增大，导致过饱和固溶体分解析出细小的NiTi粒子[29]。 >",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/80a539723e62299425742a1089c156b3ea5779ca92771c240746f18069160760.jpg",
+        "img_caption": [
+            "图 $\\mathbf { 1 } \\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金在800℃下热处理 $1 8 \\mathrm { h }$ 后的 TEM暗场像Fig.1 dark-field TEMimage of $v _ { 5 5 } \\vert \\tilde { \\mathbf { g } } _ { 3 0 } ^ { \\ast } \\mathbf { N i } _ { 1 5 }$ alloy heated at $8 0 0 \\mathrm { ~ \\textdegree ~ }$ for $1 8 \\mathrm { h }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3合金轧制态和退火态的显微组织",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2a为热处理后的 $\\mathbf { \\widehat { \\widetilde { y } } } _ { 5 5 } \\mathbf { \\widetilde { l } } _ { 1 _ { 3 0 } \\mathbf { N i } _ { 1 5 } }$ 合金在 $7 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 轧制压下量达到 $70 \\%$ 时显微组织的 SEM像，水平方向为轧制方向。可以看出，合金的显微组织中，V基体和NiTi 相变形量大，沿轧制方向变形伸长，成层状组织。NiTi 相绕过不易变形的 $\\mathrm { N i T i } _ { 2 }$ 相变形拉长，几乎包围了 $\\mathrm { N i T i } _ { 2 }$ 相，沿轧制方向成细长板条状。 $\\mathrm { N i T i } _ { 2 }$ 相在轧制过程中没有出现明显的裂纹，且整个轧制组织较为均匀。合金热处理时从V基体析出的圆形NiTi 粒子在轧制中变形，沿轧制方向被拉长，如图 2b 所示。图2c为合金 $7 0 0 \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ }$ 轧制压下量达到 $70 \\%$ 时位错的TEM像。合金经过轧制变形后，显微组织发生很大变化，出现非常明显位错组织。由于合金在中温 $( 7 0 0 ~ \\mathrm { ~ \\textdegree ~ } )$ （204号轧制，动态回复程度大，合金中位错逐步形成位错墙，图2c中箭头所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa1f9ebfac1c12e1be46e26be7df587bdfac2844f21321d88ca671903f964116.jpg",
+        "img_caption": [
+            "图 $2 \\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金在轧制压下量达到 $7 0 \\%$ 时显微组织"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 SEM image (a), TEM image (b) and dislocation (c) of precipitated NiTi particles of $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ alloys with $70 \\%$ rolling reduction ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3所示为变形合金在 $9 5 0 ^ { \\circ } \\mathrm { C }$ 退火处理 $^ { 3 \\mathrm { ~ h ~ } }$ 后的显微组织。可以看出，变形后NiTi和 $\\mathrm { N i T i } _ { 2 }$ 相的流线层仍然存在，但板条状的NiTi被打断，不再连续，同时V基体体积增大，如图3a所示。轧制后的合金在经过高温退火处理后，变形组织完全消失，未出现明显位错，组织呈现等轴的亚晶。同时，由于析出的NiTi 粒子在 $9 0 0 \\mathrm { ~ \\textdegree ~ }$ 以上重新溶入V 基体[29]，因此合金高温退火后的 TEM像中未观察到 NiTi粒子，如图3b 所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec1ec23e911d2535dced61a28229cde8c82023b853f4ba0f1310b18aedfe895b.jpg",
+        "img_caption": [
+            "图3轧制态 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金在 $9 5 0 \\ \\mathrm { ~ \\textdegree ~ }$ 退火 $^ { 3 \\mathrm { { h } } }$ 后的显微组织"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3SEM(a) and TEM(b)images of rolled $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ alloys annealed at $9 5 0 \\mathrm { ~ \\textdegree C }$ for3 h ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 XRD 谱 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4所示为 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金不同加工条件下(铸态热处理态轧制态和退火态)的XRD谱。可以看出，在铸态、热处理态和退火态的试样中(110)衍射峰的强度是最强的，而在轧制态试样中(200)衍射峰最强。这说明轧制工艺使合金晶粒产生了择优取向，这种择优取向导致的各向异性可能会影响合金的H渗透率。合金在 $9 5 0 \\mathrm { ~ \\textdegree C }$ 退火处理 $3 \\mathrm { h }$ 后，(110）峰强度增，恢复到铸态的强度。利用X射线峰宽化法测定估算的铸态、热处理态、轧制态、退火态合金的位错密度值分别为 $2 . 2 1 7 { \\times } 1 0 ^ { 9 } \\mathrm { c m \\mathrm { \\ddot { ~ } } } ^ { 2 } , 0 . 0 0 1 { \\times } 1 0 ^ { 9 } \\mathrm { c m \\mathrm { \\ddot { ~ } } } ^ { 2 } , 7 . 5 8 3 { \\times } 1 0 ^ { 9 } \\mathrm { c m \\mathrm { \\ddot { ~ } } } ^ { 2 } .$ $1 . 7 2 1 { \\times } 1 0 ^ { 9 } \\mathrm { c m } ^ { - 2 }$ 。可以看致轧制态合申高密度位错在高温退火后迅速降低。铸态和热处理态合金的位错密度由于与轧制态的位错性质不同不能直接比较，但是可以与退火态合金的位错密度相比较，这是因为退报火态合金轧制缺陷和各向异性已被完全消除。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/06bd017675a445f77c3ca0014fb91be2f3534523c79ed2482fe7f93b1389bc46.jpg",
+        "img_caption": [
+            "图4不同加工条件下 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金的 XRD 谱",
+            "Fig. 4 XRD spectra for $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ alloy under different processing conditions "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$2 . 5 \\mathrm { H }$ 渗透率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同加工条件下的 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金试样在 $4 0 0 ^ { \\circ } \\mathrm { C }$ 进行 $\\mathrm { ~ H ~ }$ 渗透率测试后，计算得到的H渗透率如图5所示。可以看出，铸态合金在 $4 0 0 ^ { \\circ } \\mathrm { C }$ 的 $\\mathrm { ~ H ~ }$ 渗透率为 $9 . 5 4 { \\times } 1 0 ^ { - 8 } \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 1 } { \\cdot } \\mathrm { s } ^ { - 1 } { \\cdot } \\mathrm { P a } ^ { - 0 . 5 }$ ，是相同条件下纯 $\\mathrm { P d } ^ { [ 3 1 ] }$ 和Pd-Cu合金[31] $\\mathrm { ~ H ~ }$ 渗透率的近6倍，Pd和 $\\mathrm { P d - C u }$ 合金的 $\\mathrm { ~ H ~ }$ 渗透率见表1。另外，图5还表明 $8 0 0 ^ { \\circ } \\mathrm { C }$ 的热处理使合金的H渗透率相比铸态合金的值略有下降。而合金轧制大变形后 $\\mathrm { ~ H ~ }$ 渗透率明显降低，相比铸态的H渗透率降幅近 $1 5 \\%$ 。类似的实验结果也出现在 $\\mathbf { V } _ { 8 5 } \\mathbf { N i } _ { 1 5 } [ 1 1 ]$ 、 $\\mathrm { V } _ { 8 5 } \\mathrm { A l } _ { 1 0 } \\mathrm { C o } _ { 5 } ^ { [ 3 1 ] }$ 、 $\\mathrm { N b } _ { 4 0 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 3 0 } [ 2 4 ]$ 和 $\\mathbf { N b _ { 4 0 } T i _ { 3 0 } C o _ { 3 0 } } ^ { [ 2 7 ] }$ 合金轧制变形后。 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金轧制变形后的高温退火处理，使合金的 $\\mathrm { ~ H ~ }$ 渗透率恢复至略高于铸态的水平，达到 $9 . 8 9 { \\times } 1 0 ^ { - 8 } \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 1 } { \\cdot } \\mathrm { s } ^ { - 1 } { \\cdot } \\mathrm { P a } ^ { - 0 . 5 }$ ，相对于轧制态合金 $\\mathrm { \\bf { H } }$ 渗透率提高 $2 2 \\%$ ，是纯 Pd的6.2倍。一般来说，合金轧制后的退火处理消除变形缺陷，会提高合金渗透率，但 $\\mathrm { ~ H ~ }$ 渗透率恢复至铸态水平所需时间根据合金种类和变形程度会有所不同[24.27,31]。从这一点可以看出，轧制变形和随后的高温退火处理是多相V-Ti-Ni合金氢分离膜成形的有效。 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { \\widehat { N i } } _ { \\mathrm { \\overline { { { s } } } } } ^ { }$ 合金H渗透试验中出气侧均未检测到 $\\mathrm { C O } _ { 2 }$ 气体，样品表面也均未发现裂纹，表明合金的力学性能和稳定性较好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9eae6301175e620a5576ea693b4a47e7ba38368399f98d3d236b0a05ae411131.jpg",
+        "img_caption": [
+            "图5不同加工条件下的 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金在 $4 0 0 ^ { \\circ } \\mathrm { C }$ 的H渗透率",
+            "Fig.5 Hydrogen permeability at $4 0 0 ^ { \\circ } \\mathrm { C }$ for $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ alloys subjected to different processing conditi "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1几种具有代表性的金属膜在400℃的H渗透率 布 Table1Hydrogen permeabilityat 400 $\\mathrm { { } ^ { \\circ } C }$ for several representative metal membrane ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a73b116dbf2f63dfc6c78b02578586b7564515b2c51772527e7781f65d76fb63.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Membranes</td><td colspan=\"3\">Hydrogen permeabity(Φ) at 400 Hydrogen pressure difference △P</td></tr><tr><td colspan=\"3\">10-8mol·m1.s-1.Pa-0.5</td></tr><tr><td>Pure Pd[31]</td><td></td><td></td><td>MPa 0.6</td></tr><tr><td>Pd-Cu[31]</td><td>金</td><td></td><td></td></tr><tr><td>As-cast V85Ni15[34]</td><td>440</td><td></td><td>000 报</td></tr><tr><td>As-castV41Ti30Ni29[20]</td><td></td><td>1.02</td><td></td></tr><tr><td>As-cast Nb56Ti23Ni21[23]</td><td></td><td>3.47</td><td>布</td></tr><tr><td>Rolled-annealed V85Al10Co5[31]</td><td></td><td>7.5</td><td>0.2</td></tr><tr><td>Rolled-annealed Nb4oTi30Ni3[24]</td><td>1.7</td><td></td><td></td></tr><tr><td>Rolled-annealed Nb4oTi30C030[27]</td><td></td><td>2.43</td><td>发</td></tr><tr><td></td><td>9.89</td><td></td><td>0.7</td></tr><tr><td>Rolled-annealed V55Ti3oNi15</td><td></td><td></td><td>0.6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 分析讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1热处理对合金氢渗透率影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一般来说， $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金中的Ti、Ni原子从V基体中溶出会增加H在V基体中的溶解度和扩散系数[5]，提高了H渗透率。但本工作中合金铸锭热处理后Ti、Ni原子以NiTi粒子的形式从V基体中析出，H渗透率却下降。多相V-Ti-Ni合金中V基体是H渗透的主体，合金的H渗透率与V基体的体积分数大小成正比[20]，而 NiTi的H溶解度和扩散系数极低，即H在 NiTi中的渗透率极低[6]。因此，合金热处理时V基体中析出 NiTi粒子，一方面减少了V基体的体积分数导致H渗透率降低，另一方面V基体中的 NiTi粒子亦降低H渗透率，其中V基体的体积分数减少是合金H渗透率降低的主要因素。当这两方面因素对合金H渗透率的影响大于Ti、Ni原子析出对合金H渗透率的影响程度，合金的H渗透率自然会降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2轧制变形对合金氢渗透率的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "合金轧制变形一般会导致显微组织的各向异性和位错的引入。而这两者都在轧制态 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金中观察到(图2a和图2c所示)，可能是合金轧制变形H渗透率显著降低的原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.1显微组织的各向异性对合金氢渗透率影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "多相 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金轧制变形形成各向异性的显微组织，V基体和共晶相层(NiTi和 $\\mathrm { N i T i } _ { 2 } ^ { \\cdot }$ 间隔形成“层状组织”，如图2a所示。合金轧制后显微组织变形伸长方向和H渗透方向关系示意图如图6所示。Ishikawa等[24研究显微组织的各向异性对Nb-Ti-Ni合金H渗透率的影响，发现当合金bcc 基体体积分数相同时，层状组织平行渗透方向时将会获得更高的H渗透率。由于H在NiTi等中的渗透率极低[3]，从图6中可以得出，当金V基体体积分数相同时， $\\mathrm { \\Delta V }$ 基体和共晶相的变形伸长方向(合金轧制方向)与合金H 渗透分向平行时将会更高。本工作轧制态合金的轧制方向垂直于H渗透方向，因此会降低合金H渗透率。然而，由文献[29]可知，铸态和热处理态 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金V基体已被共晶相(NiTi和 $\\mathrm { N i T i } _ { 2 } ^ { \\cdot }$ 包围，组织类似于轧制后合金的\"层状组织”，即铸态和热处理态合金H渗透方向与轧制态合金的类似。因此合金轧制后显微组织的各向异性对 H渗透率影响程度较小。因此本工作命金H渗透率降低主要考虑轧制变形产生X的位错因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a516770984541d0632cbcc51ef4dc048547f3ef75f9775178656a8ca9447aec8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图 $\\mathbf { 6 } \\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金 $\\mathrm { ~ H ~ }$ 渗透方向与显微组织(NiTi和 $\\mathrm { N i T i } _ { 2 } )$ 伸长方向的两种关系",
+            "Fig.6 Relation between hydrogen permeation and microstructures (NiTi and Ni extending by $\\mathbf { \\sigma } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ alloy (a)parallel and (b) vertical "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2变形位错对合金氢渗透率影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "金预",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { ~ H ~ }$ 在金属中的扩散是利用H原子在金属原子间隙位置之间跳跃来实现。金属中的位错一方面可以作为H扩散的通道，另一方面又可能是H的陷阱。Kurkela等[37发现，H在变形后的Ni中扩散系数远大于未变形 Ni中的，即H在位错中的扩散远快于在晶格中，认为位错是H扩散的通道。但其对塑性变形后全贝氏体钢的H渗透实验结果却显示位错的存在降低了H渗透率。Hirth[38]、Kumnick和Johnson[3研究发现，金属中的位错能吸引并捕获扩散中的H原子，是 $\\mathrm { ~ H ~ }$ 的陷阱。本工作中， $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ 合金经轧制变形后包含有高密度的位错，但高温退火处理极大降低了位错密度 $( 7 . 5 8 3 \\times 1 0 ^ { 9 } \\mathrm { c m } ^ { - 2 } )$ 。而图5显示合金轧制变形后H渗透率极大降低，随后的高温退火处理使合金的H渗透率恢复至略高于铸态的水平。因此可以认为合金中的位错是H陷阱，吸引并捕获扩散中的H原子，降低了H在合金中的扩散系数，降低H渗透率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3高温退火对合金氢渗透率影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "合金轧制变形后的高温退火处理，一方面能有效降低变形产生的高密度位错，提高合金的H渗透率；另一方面也使合金变形组织的各向异性消除，枝晶间相的连接打断，V基体相已经连接起来(图3a)，使轧制退火态合金H渗透方向不再是轧制态合金的垂直方向(图6b所示)，合金H渗透率会升高。因此，变形合金高温退火后H渗透率甚至高于铸态合金是变位错密度降低和组织的各向异性消除的共同结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "一般来说，通过轧制工艺成形多相氢分离合金膜，变形合金会出现“层状”显微组织，H渗透方向必然垂直于轧制方向，且出现高密度位错，这将会极大降低合金膜的H渗透率。随后的高温退火处理在很大程度上可消除这些组织缺陷，提高合金H渗透率。因此控制显微组织对于发展高的H渗透率合金是非常重要的。轧制变形和随后的高温退处理是多相V-Ti-Ni合金氢分离膜成形的有效工艺。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1多相 $V _ { 5 5 } \\mathrm { { \\widehat { T i } _ { 3 0 } ^ { 2 } \\mathrm { { \\widetilde { V } i _ { 1 5 } } } } }$ 合金热处理后NiTi粒子从V基体析出，减少了作为H渗透主体的V基体体积分数，且NiTi粒子H渗透率低，导致热处理态合金H渗透率相比铸态有所降低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）位错是H陷阱，能吸引并捕获扩散中的H原子，从而降低了H在合金中的扩散系数，使H渗透率下降。合金经轧制变形后出现高密度的位错，极大地降低H渗透率。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）高温退火工艺能降低合金轧制变形后的位错密度和消除显微组织各向异性，提高了H渗透率。轧制变形和随后的高温退火处理是多相VTi-Ni合金氢分离膜成形的有效工艺。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "属",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Lubitz W, Tumas W. Hydrogen: An overvie[J]. Chem. Rev., 2007,107(10):3900   \n[2] Adhikari S,Fernando S.Hyrdgen membrane separation techniques [J].Ind. Eng. Chem. Res.,20o6,45(3): 875   \n[3] WardTL,Dao T.Model of hydrogen permeation behavior in paladium membranes [J]. JMembr.S499,153(2): 211   \n[4]Taxak M,KumarS,SheelvantraS,etal.Efectofirononthesolubilityofhydrogenintantaum[J].J.Mater.Sci.,2014, 49(24):8471 学布   \n[5]XiongLYLu,WangLBetalcrostructuresandrogenpermeatiohaacteristicsofb--alys[J].Actaealin, 2008; 44: 781 发 (熊良银，刘实，王隆保等.Nb-Ti-Ni合金的显微组织与氢渗透性能[J].金属学报,2008,44:781)   \n[6] Oh JY,KoWS,SuhJY,etal.Enhanced high temperatureydrogen permeationcharacteristicsofV-Ni allymembranes containing a trace amount of ytrium[J]. ScriptaMater., 2016, 116?122   \n[7] Buxbaum RE, KinneYA B. Hydrogen transport through tubular membranes of palladium-coated tantalum and niobia . Ind. Eng. Chem.Res.,1996,35(2):530   \n[8] Alimov V N,Busnyuk A O,Notkin M E,et al. Hydrogen transport through V-Pd aloy membrapes: Hydroge Solution, permeation and diffusion[J].J.Membr. Sci.,2015,481:54 X   \n[9] SuzukiA,Yukawa H,IjiriS,etal.Alloyingeffectsonhydrogensolubilityandhydrogenpermeabilityfor V-basedlloy membranes[J].Mater. Trans.,2015,56(10):1688 发   \n[10]SuzukiA,ukawaHambuT,etal.Aalsisofpressre-ompositiosothsforesignofon-P-basedalloyba with high hydrogen permeability and strong resistance to hydrogenmbritlementMembr.Sci.2016,503:110   \n[1]NishimuraC,KomakiM,HwangS,etal.V-Nialoymembranesfor hydrogen purification[J].J.AlloysCompd2002, 330(01):902   \n[12] Yang J Y, Nishimura C, Komaki M. Effect of $\\mathrm { H } _ { 2 } \\mathrm { S }$ on hydrogen permeation of $\\mathrm { P d _ { 6 0 } C u _ { 4 0 } / V  – 1 5 N i }$ composite membrane[J]. J. Alloys Compd., 2007, 446(11):575   \n[13] ZhagY,OzakiT,Komaki M,etal.HydrogenpermeationofPd-Agaloycoated V-15Nicomposite membrane:Efectsof overlayer composition[J]. J. Membr. Sci.,2003,224(1):81   \n[14] NishimuraC,OzakiT,Komaki M,etal.Hydrogen permeationand transmisionelectron microscopeobservatiosof V-Al ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "alloys[J]. J. Alloys Compd.,2003,356(356):295 [15]Paglieri SN,WermerJR,BuxbaumRE,etal.Developmentof membranes for hydrogen separation: Pdcoated V-OPd[J]. Energy Mater.,2008,3(3):169 [16]Zhang YOzakiTKoaki,etal.Hyrogenpermeationaracteristicsofandumaluuaoys[J].riptate 47(9):601 [17]Roark SE,MackayR,Mundschau MV.Dense,layered membranes for hydrogenseparation[P],USPat,700l446,2006 [18]Kim K H,ShimJH,LeeBJ.Effectof allying eles (Al,Co,Fe,Ni)onthesolubilityof hydrogen invanadium:A thermodynamic calculation[J]. Int.J. Hydrogen Energy,2012, 37(9): 7836 [19]AdamsT,MickalonisJ.HyrogenpeeabilityofhaseV--metalicmembranes[J]. MaterLet.,,6(3):8 [20]Hashi KaK,tTetrogeneatiohacterstif()-llsJ]lod, 404(12):273 f [21] Jeon S I, Magnone E, et al.The effect of temperature and pressure on the hydrogen permeation through Pd-coatedTi26 （204号 $\\mathrm { N i } _ { 2 1 } \\mathrm { V } _ { 5 }$ alloymembra under different atmospheres[J]. Mater. Lett., 2011, 65(15-16):2495 [22]Hashi KHIshikawa K Iatsuda T, et al. Hydrogen permeation characteristics of multi-phase Ni-Ti-Nb aloys[J]. J. AlloysCompd, 2004,368(1-2):215 [23]Magnone E,Jeon S I, Park JH, et al. Relationship between microstruc gen permeation properties in the multiphase （20 $\\mathrm { N i _ { 2 1 } T i _ { 2 3 } N b _ { 5 6 } }$ alloy membranes[J]. J. Membr. Sci.,2011,384(12):136 布 [24]Ishikawa K, Tokui S,Aoki K. Microstructure and hydrogen permeation of cold rolled and annealed $\\mathrm { N b } _ { 4 0 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 3 0 } \\mathrm { a l l o y [ \\mathrm { J } }$ ] Intermetallics,2009,17(3):109 [25]Luo W, Ishikawa K,Aoki K. Hydrog eable TaTi-Ni duplex phase alloys with high resistance to hydrogen embritlement[J]. J. AlloysCompd.,2008,460(1-2):353 [26] Hashi K, Ishikawa K, Matsuda T, et 9Microstructure and hydrogen permeability in Nb-Ti-Co multiphase alloys[J]. J. AlloysCompd.,2006, 425(1-2):284 [27] Li X,Liu D,Liang X,et al. Hydrogen transport behavior of as-cast,cold rolled and ann edNb40Ti30Co30 alloy membranes[J]. J.Membr. Sci.,2016,514:294 [28] Ishikawa K, Takano T,Matsuda T, et al.High hydrogen permeability in the N Zr-Ni utec alloy containing the primary body-centered-cubic (Nb,Zr) phase[J].Appl. Phys.Lett.,2005,87(8): 081906 [29] Jiang P, Yu Y. Effect of heat treatment proce onmicros dhardnes: $\\mathbf { \\Delta } \\overline { { \\phi } } \\mathbf { k } \\mathbf { \\pi } _ { 5 5 } \\mathrm { T i } _ { 3 0 } \\mathrm { N i } _ { 1 5 }$ alloy for hydrogen permeation[J]. Acta Metall. Sin.,2013,49(9): 1105 (江鹏，于彦东．热处理工艺对透氢 $\\mathrm { V } _ { 5 5 } \\mathrm { T i } _ { 3 0 } .$ 合金的显微 和硬度的影响[J].金属学报,2013,49(9):1105) [30]Dolan MD.Non-PdBCC aloy membranes formdustrial hydrogenseparation[J]. J.Membr.Sci.,2010,362(1-2):12 [31] Fleury E, Suh J Y, Kim DI, et al. Hydrogen permeation characteristics of rolled $\\mathrm { V } _ { 8 5 } \\mathrm { A l } _ { 1 0 } \\mathrm { C o } _ { 5 }$ alloys[J]. Curr. Appl. Phy 12(4):1131 [32] WilliamsonGK, Smallman RE. Dislocation densities in some annealed and cold-worked metals from tsureme debye-scherrer spectrum[J]. Philos. Mag., 1956,1(1):34 [33] Revay L. X-ray line broadening in electrodeposited gold coatings[J]. Electrodepo. Su reat.，1 )：139 [34]Dolan MD,Mclennan KG,WayJD.Difusionof atomic hydrogen throughV-Ni ally membranesunder nondilute conditions[J]. J. Phys. Chem. C,2012,116(1):1512 [35]NishimuraC,KomakiM,manoM.Hydrogenpermeationchraseisticsofvanadium-nickelaloys[J].Mater.Tans.91, 32(5):501 [36] ConnorH. Palladium alloy diffusion cels[J].Platinum Metals. Rev.,1962,6(4): 130 [37]KurkelaM,LatanisionRM.Theeectofplasticeformatioothetrasportofhydrogeninickel[J].Scriptaetal979, 13(10): 927 [38] Hirth JP.Effects of hydrogenon the propertiesof iron and stel[J]. Metall. Mater. Trans.,1980,A: 861 [39] Kumnick AJ,Johnson HH. Deep trapping states for hydrogen in deformed iron[J]. Acta Metall.,1980,28:3 ",
+        "page_idx": 8
+    }
+]

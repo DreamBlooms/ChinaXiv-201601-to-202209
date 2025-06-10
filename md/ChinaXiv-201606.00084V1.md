@@ -1,0 +1,187 @@
+# ·博士论坛·
+
+# Web2.0环境中的学术信息检索行为
+
+顾立平1,2
+
+(1.中国科学院研究生院,北京,100190；2.中国科学院国家科学图书馆,北京,100190)
+
+[摘要]用户在Web2.0交互式环境中,以非线性、非单一、非大众的方式搜索信息。基于LISA文献和C.C.Kuhlthau的信息检索行为模型，本文设计了一项对中科院研究生院的研究生在Web2.0环境中的学术信息检索的问卷调查。这项使用信息检索行为模型的实证研究产生了16项优化与4个应用途径的建议。 m
+
+[关键词]信息检索信息检索行为用户行为Web2.0社会软件 [中图分类号]G354.2[文献标识码]A [文章编号]1003-2797(2008)06-0069-06 [Abstract]The Web2.O is an interactive environment in which user search information by non linear，non signal, non- mass behavior. Based on reviewing literacy of LISA and C.C. Kuhlthau' s information seeking behavior model (ISBM）,a questionnaire has been designed for post- graduate students'academic information retrieval in Graduate School of Chinese Academy of Sciences.The empirical study of using ISBM made some suggestions of 16 items optimization and 4 applications app roach.
+
+[Key words]Information retrieval Information seeking behaviorUser behavior Web2.0 Social software
+
+# 1前言
+
+图书馆学研究中，信息检索基于如下假定：当用户接触图书馆或图书馆员之后，产生了一连串的现象：进入→接触媒介→技术与电脑→信息→借出 $\mid  \mid$ 还入→孤僻独立→支付价格、意见箱制度、图书馆建筑→图书馆员素质→摆设装潢 $$ 目录、索引、分类、规章秩序[1]。然而，考虑到Web2.0环境的快速发展,过去对物理图书馆、线上检索(informationre-trievlonline)所建立的模型面临挑战，随着网路社会的变化，不断出现了新的模型。新旧交替之间，有必要重新回顾，对不同模型的适用性，进行分析，以了解自前信息检索所面临的问题，研究的进展，以及尚未解决的问题，提出可能的解决之道。本文从C.C.Kuhlthau的信息检索行为模型出发，建立研究框架，透过问卷调查实证研究，提出16项Web2.0环境下的模式差异与4项优化模型的方式。
+
+# 2文献回顾
+
+2.1背景文献:LISA数据库的信息检索行为从LISA数据库中下载关键词为informationseeking"的数据1871条，利用JAVA编辑程序，将LISA中的.txt格式，转换为Derwent分析家软件可以读写的.txt文档，将人名转换后再进行数据清理，接着统计结果后用Excel生成图表。共分析了从1970到2007年3月27日止的1813篇文章。
+
+![](images/585be3163e9a92f73cdf0499e040da538bccec2f91493a884e9bccf8267881ab.jpg)  
+信息检索研究1970年～2006年（缺1971年，1973年，1981年)示意图
+
+分析结果表明： $\textcircled{1}$ 学术高峰期从1987年开始，自1997年向上攀升，在 $2 0 0 3 \sim 2 0 0 5$ 年为最多（150、
+
+160 和161篇）,2006年开始下降； $\textcircled{2}$ 主要贡献作者是:Spink,Amanda（33 篇）、Savolainen，Reijo（29篇)、Nicolas，David(29 篇)、Wilson(29 篇)、Ellis,David（17篇）、Kuhlthau，Carol（16篇）、Mar-chionini，Gary（15篇)、Shenton，Andrew（14篇）、Vakkari，P(14 篇)、Ford，N（11篇)和Large，A(11篇); $\textcircled{3}$ 文献类型以期刊为主（1801）； $\textcircled{4}$ 使用语言以英文占绝大多数（1661）； $\textcircled{5}$ 主题词以Informa-tionWork 情报工作(383)、Searching搜索(312)和User Surveys用户调查(275)居前三位。
+
+# 2.2相关文献：信息检索行为模型
+
+从上述的背景知识回顾中，归纳整理四个主要的信息检索发展方向如下：
+
+(1)行为者理论与人机交互。1982年Wilson[2]提出信息行为模型（ModelofInformationBehav-ior），在这个循环式里面，信息检索做为一个最主要的环节。1988年Norman[³]提出行动理论（TheoryofAction），假定人类的行为都具有目的性，而行动包括两部份：执行(作某事)和评价(比较实际发生和我们想要发生的事）。
+
+(2)行为过程与线性模型。1989年Ellis[4]提出信息检索的行为模型(BehavioralModelofinfor-mationseeking），说明六个步骤：开始、圈选、浏览、区别、纪录、离开的线性流程。1991年Kuhlthau[5]提出信息搜索过程模型（InformationSearchProcessModel），研究线性流程之外的用户感知，它描述了用户搜索信息的六个进程和过程中用户的行为、感觉、思考。1995年Marchionini[提出信息检索的过程模型（Process Model of Information-see-king），讨论电子环境下的八个步骤，认为信息检索过程，既是有系统的，又是随即发生的。
+
+(3)动态交互与非线性模型。1996年Belkin[7]提出了信息检索连续模型(Information Seeking Ep-isodeModel)认为用户与信息的互动是过程的主体，其他的活动，例如：比较、再现、呈现、视觉化和漫游，可被归类为支援有效互动的功能性活动。1997年 Saracevie[8]提出了信息检索交互模型(IR Inter-actionModel）定义信息检索是一种参与双方（用户和电脑)通过介面，带着主要目的的对话。1998年Sutcliffe和Ennis[9提出了信息搜索活动过程(Process of Information Searching Activities) 归纳信息搜索的4个主要活动：定义问题、表达需求、问题形成与规划、评估结果。1999 年Choo[10]提出了信息检索过程模型（Information Seeking Process
+
+Model），一种信息需求、检索、使用的内外三角循环模型。2000 年 Sutcliffe等[11]提出模型混合分析(ModelMismatchAnalysis），一种基于人机交互(Human-ComputerInteraction)理论以及任务导向(task approach)的五个检索过程。2002 年 Kim[12]提出了数字图书馆信息检索过程(Digitallibrary information seekingprocess）设计在数字图书馆的环境下，用户的任务和检索工具，模型用于测量未来数字图书馆的可用性（Usability）。
+
+(4)网络环境下的信息检索行为。2003年Loe-ber和Cristea[13]提出了网络信息检索过程模型(WWW Information Seeking Process Model）将信息检索和网站设计（信息中介）一并研究，认为用户的动机、能力和机会主导着信息检索，在网络上没有起始，但是有终止。2004年Foster[14]提出了信息检索的非线性模型（Nonlinear ModelofInformationseeking)发展三个核心过程：内部、外部、认知；以及三个交互情景：开始、强化、导向的动态组合模型。同年Pharo 提出[15]搜索情景变迁模型(Search Situ-ationandTransitionModel)分析工作任务、研究者、社会/组织环境、搜索任务和搜索过程之间的影响。2006年 Savolainen[16]信息检索过程的分片模型（ Schematic Model ofInformation SeekingProcess），认为：①时间是信息检索的情景或脉络中的基本变项；②时间是获取信息的必要条件； $\textcircled{3}$ 时间是信息搜索过程的指标。
+
+# 2.3 最相关文献：C.C．Kuhlthau模型
+
+在文献回顾2.1中的主要作者当中，超过30余年研究生涯的Kuhlthau对2.2中的四种发展方向均有涉及。她花费了6年时间打造的模型，在往后的25年里面被一直引用。
+
+（1）Kuhlthau模式。Kuhlthau从她的博士论文开始，从事不同并且持续的工作，来发展ISP信息搜索过程模式。她的工作建基于人类认知、心理学、教育和图书馆学。以阅读杜威对人如何思考"的哲学，来帮助设计信息检索的步骤”，Kuhlthau论述了人如何思考"（How wethink)这本书和它其中所描述的沉思过程（Reflectivethinking）。按照Ku-hlthau所言，杜威描述了为学习而使用信息过程中个人动作的动态规则，而她从中冥想出用户搜索信息的六个进程和过程[17]。此后，她提出[18-19]著名的信息搜索六步骤：任务起始（Taskinitiation）、主题选择（Topic selection）、重点查找(Prefocusexplora-tion）、重点阐明(Focusformulation）、信息收集（Information gathering)与搜索结束（Search closure）。尔后，她又增加了两个概念到研究中去[20]：不确定性(uncertainty)和中介性(intervention）。
+
+(2)Kuhlthau模式的相关研究。由于概念清晰、模型具有可操作性，许多信息搜索理论或调查研究建立在Kuhlthau的模型基础上，例如：Burdi-$\mathrm { c k } ^ { [ 2 1 ] }$ 利用Kuhlthau的模型发现，女性在重点阐明(focusformulation)阶段可能比男性更清楚和容易抓重点，而男性在信息搜索中程阶段较为模糊不清。但是男女的差异在信息搜索结束时并不明显。Dor-is[22]在他的博士论文里，讨论了博士研究生在进行信息搜索时，在Kuhlthau模型中的一和三阶段里，最感到焦虑。Josette[23]直接利用Kuhlthau模型设计深度访谈，研究护士在网路上搜索医疗教育资料的行为。发现等同于Kuhlthau模型中的那些步骤，但是并非所有护士的感觉、思考和行动等同于Kuhlthau的模型。Esmaeel[24]在他的博士论文里,利用 $\mathrm { K u ^ { - } }$ hlthau模型设计部份问卷内容，发现 $41 \%$ 受访学生认为自己处于第五阶段，而 $72 \%$ 受访学生回答他们同时经历不止一个阶段(信息搜索过程非线性)。Kyunghye $\mathrm { K i m } ^ { [ 2 5 ] }$ 在他的博士论文中，详细列举了包括Kuhlthau在内的信息搜索模型，设计了一个数字图书馆信息搜索过程模型(DLISPModel)来指导对于使用率问题的访谈调查。此外,Susan[26]、Naseer[27]和Abdulmohsin[28分别在他们的研究：信息需求与地球科学教育、高度次序化的中学生网络搜索、和大学生图书馆利用之中引用了Kuhlthau的模型。
+
+# 3调查设计
+
+因为Kulhthau模式可扩展性强，以此为基础设计学术信息检索行为模型，将过程分解为六个步骤：开始搜索、判断信息、查找、使用、获取、学习信息获取。
+
+(1)研究方法。采取问卷调查法，运用简单随机抽样，使用SPSS进行数据分析。
+
+(2)研究对象。本次调查的研究对象为中国科学院北京市海淀区的博硕士研究生，从本科算起至少有4年以上接触计算机的经验。
+
+(3)问卷设计。先在图书馆和研究生院，和中科院研究生进行开放式访谈，设计并评估问卷问题。文献阅读之后，进行问卷草稿设计，接着小范围内30人试填，同时请教专家意见进行修改，再定稿问卷。
+
+(4)数据采集与输入。自2007年1月14日至1月27日，共计14日，每天晚上9点至11点在公寓逐楼、层、间，从7取3的方式，投递与回收问卷，共发放
+
+450份问卷，回收380份，有效问卷数358份；数据输入后，取编号为质数的问卷进行数据核对。
+
+(5)数据核对与分析。进行简单描述统计，目的在于获得初步探索性的情报，作为日后研究工作的参考。
+
+# 4调查结果
+
+# 4.1受访者基本数据分布
+
+表1受访者年龄、网龄及学位  
+
+<html><body><table><tr><td>年龄</td><td>20-25岁岁以上0.26~30 岁 31%,30~ 35 岁</td></tr><tr><td>网龄</td><td>3年以下上36%,3~6年51.1%,7~9年41.6%，</td></tr><tr><td>目前攻读学位</td><td>硕士55.6%、博士44.4%</td></tr></table></body></html>
+
+从年龄分布可知，样本基本符合正态分布特征，调查对象 $2 0 \sim 3 0$ 岁占样本总数的 $9 5 . 5 \ \%$ ;而网龄为3～9年区间的样本占总数的 $9 2 . 7 \%$ 接近年龄特征；调查对象所攻读的博硕学位比为 $5 . 5 \ : 4 . 5$ 符合相对于样本的年龄特征和其具备的教育水平。这表示焦点团体的特征明显而集中，具有适合本研究目的所需要分析的样本的条件。
+
+# 4.2网络基本使用情况调查
+
+表2上网频率及费用  
+
+<html><body><table><tr><td>上网频率</td><td>每天91.1%、二至三天6.7%、四至七天2%、两星 期0.3%、每月或更少0%</td></tr><tr><td>上网费用</td><td>完全公费23.5%、完全自费10.9%、两者皆有</td></tr></table></body></html>
+
+受访者中91. $1 \%$ 每天上网，这表示研究Web2.0信息行为的必要性。在上网费用中，完全自费只占了十分之一强；由于中国科学院各研究所和国家科学图书馆均有提供网络和计算机设备，对于第一年的宿舍上网也有经费补贴，因此上网受到设备或经济等外部因素影响不成立。
+
+# 4.3 网络学术信息行为调查
+
+表3网络学术行为方式  
+
+<html><body><table><tr><td>开始搜索信息</td><td>电子期刊35.5%、搜索引擎33%、专业机构网站 14.5%、Web2.0图书馆13.5%、Web2.0书店 3.6%</td></tr><tr><td>如何判断信息</td><td>个人知识_28.2%、交叉参考27.3%、从不怀疑 22.4%、问专家21.5%、问图书馆员0.6%</td></tr><tr><td>面临查找困难</td><td>换搜索词汇70.4%、换检索系统18.7%、问他人 8.7%原方法1.1%、放弃1.1%</td></tr><tr><td>面临使用困难</td><td>换方式或换工具57.3%、问朋友19.3%、终止 11.2%、问图书馆员8.7%、其他3.6%</td></tr><tr><td>面临获取困难</td><td>文摘.40.8%、放弃 29.9%、其他24.9%、不</td></tr><tr><td>学习信息获取</td><td>自我尝试63.1%、他人告知33%、其他(含不学 习)2.6%、培训课程1.4%</td></tr></table></body></html>
+
+根据调查结果，学生们的网络学术信息行为，首先是通过电子期刊和搜索引擎查找资料；查到资料后，依据个人知识或者对比其他信息来判断网络信息的可靠性；如果查不到想要的学术信息，他们会更换搜索词汇或者检索系统，再次查找；面对缺乏全文的信息，半数人选择用别的方式或工具再查找。即便是没有全文，在获得文摘后选择利用的比率最大；信息获取的学习方式过半靠自己。这些现象显示学生的学术信息行为是：学生面临一个多方信息来源的环境，以自己熟悉的方式来查找、获取、使用和学习，同时处于一个适应环境的过程。
+
+# 5讨论
+
+在一个年龄 $2 0 \sim 3 0$ 岁，上网经验3～9年之间，而且每天上网的学生群体里面，对于信息需求是明显以电子期刊为主，其他资源为辅。而信息搜索主要是从电子期刊的来源，以及搜索引擎的网站开始，如果搜索满意，就会持续使用这类方式，如果没有就会先在同一个地方以更换词汇或者工具的方式执行，最后才会选择去别的Web2.0空间里。图书馆扮演着信息资源提供者的角色，而不是第一时间的访问对象，同时也扮演协助用户查找、获取、使用和学习信息的服务角色。
+
+首先，在Web2.0环境下，研究者不能忽视虚拟社群(VisualCommunity)对信息检索的影响。这对于用户群体的定义和用户的身份，以及信息检索自的，在相对于过去研究者在图书馆或者是信息谘询机构进行研究时，有着巨大的差异和研究困难。
+
+其次，在Web2.0环境下，由于受到其他Web2.0信息的影响，所以信息检索模型可能如同Wilson的循环模型，但是也有可能是随机的、跳跃式的模型。
+
+第三,在Web2.0环境下，仍然符合Norman在1988年描述人机交互（HCI)中的两种活动：执行、评价;但是，由于Web2.0所提供的信息来源不是单一，用户可以不断选择，所以评价和执行是轮流交互的。
+
+第四，在Web2.0环境下，信息检索可能是由无数个短促的流程所组成，在每个信息来源和任务清单中，并行不同的线性流程。
+
+第五，在Web2.0环境下，用户的行为、感觉、思考仍然是重要的，但是不是用户受到信息检索结果的影响，而是用户的行为、感觉、思考主导信息检索过程。
+
+第六，在Web2.0环境下，信息检索的过程可能不存在一个精密复杂的系统公式，反而是由一些极简化的步骤，经过反覆的检索试验所拼凑而成。
+
+第七，在Web2.0环境下，除了考虑用户的心理和社会因素，也考虑信息组成的核心成因：个人的学习与工作状态、文化与社会、信息形式、技术变迁、组识文化与氛围等；以及其他成因，诸如：语言能力、专业知识、批判式思考、联想力、企图心和创造力。
+
+第八，在Web2.0环境下，不单单是用户和电脑的一对一对话，也可能是用户之间的对话和知识交流，通过电脑来完成，实行一种非制式化的共同创作。
+
+第九，在Web2.0环境下，发觉问题和解决问题的一系列过程中，每个环节都需要通过信息检索来获得相关的佐证资料和最新消息，因此，信息检索不是一个部份，而是在整个过程中。
+
+第十，在Web2.0环境下，信息需求、信息检索、信息使用不仅相互影响，而且用户之间的需求、检索和使用也会相互影响，单单个人的需求可能会扩大到群体的需求，或者群体的信息检索会同时影响单一用户的信息需求和使用，例如了解欲望的加大和大量信息的充分使用。
+
+第十一，在Web2.0环境下，任务导向的信息活动和具有目的性的信息检索行为，仍然绝对多数地存在，但是不能不考虑Web2.0环境下非任务性的活动和无目的的信息检索，从无目的到有目的的过程。
+
+第十二，在Web2.0环境下，用户很可能不是进入到一个单一的数字图书馆里，而是在Web2.0工作环境中获得数字图书馆的资源。
+
+第十三，在Web2.0环境下，冲浪（surf)、浏览(browse）、搜索(search）、标引(bookmark)都是信息检索的方式之一，信息检索从单向封闭式转变为双向开放式。
+
+第十四，在Web2.0环境下，非线型的、动态的(可以从任何一个步骤开始和结束)的信息检索模型成为不可排除在外的模型研究重点。
+
+第十五，在Web2.0环境下，联机的范围和程度增大，因此，工作任务和检索活动之间，除了用户心理，社会和组织等因素的影响力也愈发重要。
+
+第十六，在Web2.0环境下，分秒计时成为最重要的度量单位，任何一种信息检索模型都必要考虑时间变项。
+
+在Web2.0环境下研究信息检索，需要考虑的因素比过去要多出许多，甚至环境"成为最主要的考虑因素。Web2.0环境带来的影响，不是放弃原有的信息检索模型，而是提醒研究者在信息检索模型的基础上进行模型优化。
+
+综上所述，Web2.0信息检索模型和其他的信息检索模型最大的不同点，在于信息来源的多样化，用户之间的社群化，检索图谱的改变，以及信息分类由机构存取的方式转向用户认知的方式。优化信息检索行为模式以适应Web2.0环境的应用，如表4：
+
+表4信息检索模型的应用方式  
+
+<html><body><table><tr><td></td><td>已有基础</td><td>优化</td></tr><tr><td>研究对象</td><td>单一用户</td><td>社群模型</td></tr><tr><td>信息来源</td><td>数据库</td><td>搜索引擎、即时通讯、维基 百科、博客、聚合、社会书 签、点对点传输、Web2.0导 航、专业网站入口</td></tr><tr><td>信息分类</td><td>消息、新闻、知识、资料</td><td>呈现、知道、了解、思考</td></tr><tr><td>检索图谱</td><td>直线、块状(非直线)</td><td>蛛网、鱼骨、树枝、多线交叉</td></tr></table></body></html>
+
+# 6结论
+
+信息检索历来是图书情报学中一项重要的研究方向。它是信息系统、信息服务、情报工作乃至用户行为的成果归纳，也相对地提供它们部分指导原则；在书自索引时代如此，在卡片自录时代如此，在检索系统时代如此，在联机目录时代如此，在网络时代也是如此，甚至在新一代的网络技术服务环境，如escience或者web2.0时代里，也是如此地发挥它的功能和重要性。
+
+信息检索行为模型（Information SeekingBehaviorModel，ISBM)一开始面临的是物理图书馆中的单机操作行为，这类行为可以用一个开始一结束"的线性模型解释。然而，从上世纪90年代开始，人们发现单纯线性模型不能完全解释行为现象，一方面来自心理、社会、组织、教育等社会科学的发展，带动了ISBM考虑更多行为者的内在心理与外在社会面向，另一方面，使用情景越来越复杂，联机自录之后，互联网服务的到来，改变了行为过程的环境因素。
+
+于是非线性模型与有限条件下的线性模型，成为2003年以前两种解释信息检索行为的主流，前者多半为尝试性质的研究，而后者多半为延续性质的研究。最近的一波改变来自于网络日志的研究方法日益成熟，社会科学研究方法的验证技术更加严谨，以及Web2.0概念与其相关网络服务应用的环境变迁。它们促使研究者对现存一系列与过去有极大差异的行为现象进行第三波探索性研究。
+
+首先，信息检索模型经过在不同实践环境，例如在：医院、工业工厂、商业机构、学校、研究中心等的应用，产生许多修正后的模型，这些模型中相似的部份又会被归纳为一两个经典的模型，之后再投放到不同的实践环境中去，长时间下来就积累了许多可观的成果，这是它生成进化的特殊性，也是产生众多信息检索模型的原因之一。
+
+再者，信息检索模型是信息系统、信息服务、情报工作乃至用户行为的归纳，也是它们的指导原则，因此同样一个环境中的技术进步、需求改变、功能调整和社会变迁，也会造成模型修正，这也是它在研究上历久不衰的原因之一。
+
+第三，由于在不同的环境中以及不同的情况下实践，因此信息检索模型会不断吸收新的学科学理，来完善自己去适应对象，从而造成不同研究观点下的不同模型。
+
+第四，由于时间的推移、环境的变化、领域的融合，以及经验的归纳，所造成的持续性模型推衍，只有通过多元观点(multi-views)、学科融合(inter-dis-cipline)、综合研究方法的方式，才能进行这样的模型研究。
+
+最后，由于不同环境、不同时间、不同观点造成的不同实际经验，产生了众多不同的信息检索模型。所以，不存在着一个恒久不变的模型，只有解决问题的模型，而当前迫切需要解决，而尚未解决的问题，就是Web2.0信息检索行为，还没有运用到某个模型来完整描述，值得研究者们共同努力研究。
+
+综合这些累积线性、非线性、多任务的模型，至今还要加上时间因素的动态特征。甚至在Web2.0环境中还需要考虑人际互动，而非单纯的人机互动，可想而知工程浩大与困难。本文从C.C.Kulthau模型中，提出在Web2.0环境中的学术信息检索行为"优化与应用，是其中一种改进ISBM的参考方式。
+
+# 参考文献
+
+1 Brigitte Kuehne.Informationssuche Oder Informationskompetenz ?.www.ib.hurberlin.de/～ libreas/libreas _ neu/ausgabe3/pdf/003kue.pdf(2005-03-03)   
+2 Wilson,T.D..Revisiting User Studies and Information Needs.Joruanl of documentation,2006(6) :680-684   
+3 Norman,D.A..Usercentered System Design :New Pre sepctives on Human-computer Interaction.Hillsdale, New York,Lawrence Erlbaum Associates.1986:31-65   
+4 Ellis,D.A Behavioral Approach to Information Retrieval System Design． The Journal of Documentation,1989(3) : 171-211   
+5 Kuhlthau,C..Seeking Meaning:A Process Approach to Library and Information Services. Ablex Publishing Company.Norwood:NJ.1993:18   
+6 GaryMarchionini.Information Seeking in Electronic Environments.Cambridge University Press,1995 :27-30   
+7Lin，Shirrjeng；Belkin，Nicholas J.. Modeling Multiple Information Seeking Episodesl．Proceedings of the ASIS Annual Meeting,37,2000 :133-147   
+8Saracevic，T. Interactive Models in Information Retrieval (IR) :Progress，Problems，Proposal． Proceedings of the A SIS,1996 :33-39   
+9A．G. Sutcliffe,M. Ennis,S.J.Watkinson．Empirical Studies of End user Information Searching.Journal of the American Society for Information Science,2Ooo(13) : 1211 -1231   
+10 Choo,C.W．,Detlor,B．，& Turnbull,D..Information Seeking on the Web: an Integrated Model of Browsing and Searching.http ://www.firstmonday.dk/issues/issue5_2/ch00/ (2001-11-18)   
+11SUTCLIFFE，A．G. AND RYAN，M..Model Mismatch Analysis:Towards a Deeper Explanation of Users ’Usability Problems.Behav. Inf.Tech.,2000(1) :43-55   
+12Kyunghye Kim．A Model of Digital Library Information Seeking Process (DLISP Model） asa Frame for Classifying Usability Problems.(Doctoral Dissertation，New Brunswick,2002） UMI number 3055068.   
+13Susanne Loeber & Alexandra Cristea,A WWW Information Seeking Process Model，Educational Technology& Society,2003(3) :43-52   
+14 Allen Foster ,A Nonlinear Model of Informationr Seeking Behavior,Journal of the American Society for information science and technology,2004(3） :228-237   
+15 Pharo，N.．A New Model of Information Behaviour Based on the Search Situation Transition Schema. Information Research,2004(1) :203   
+16 Reijo Savolainen．Time as a Context of Information Seeking.Library& Information Science Research，28, 2006:110-127   
+17Kuhlthau,C.. Seeking Meaning :A Process Approach to Library and Information Services Second ed.,Westport, CT,2003.   
+18Kuhlthau,C.,Turock，B．，George，M.，Belvin，R.. Validating a Model of the Search Process :A Comparison of Academic ，Public and School Library Users.Library and Information Science Research,1990(1) :5-31   
+1yKunitnau，C.. Inside tne Searcn Process:Intormatin Seeking from the User's Perspective.Journal of the American Society for Information Science ,1991(5):361- 371   
+20 Kuhlthau，C.． Accommodating the User's Information Search Process : Challenges for Information Retrieval System Designers.Bulletin of the American Society for Information Science,1999(3) :1-9   
+21 Burdick，T.. Gender in the Information Search Process : An Exploratory Study of Student Experience．(Doctoral Dissertation)． The State Florida University,1995.   
+22 Doris Judy van Kampen.Library Anxiety: The Information Search Process and Doctoral Use of the Library. (Doctoral dissertation).The University of Central Florida,2003.   
+23 Josete F. Jones.. Searching for Patient Educational Material Using Electronic Information Resources :An Exploration of Nurses Search Behavior. (Doctoral Dissertation)．University of Wisconsin- madison,2002.   
+24 Esmaeel Shamo．University Students and the Internet : Information Seeking Study.(Doctoral Dissertation) .University of North Texas ,2001.   
+25Kyunghye Kim．A Model of Digital Library Information Seeking Process (DLISP Model） asa Frame for Classifying Usability Problems．（Doctoral Dissertation）.New Brunswick,2002.   
+26Susan Ward Aber.Information Needs and Behaviors of Geo science Educators:A Grodunded Theory Study. (Doctoral Dissertation).Emporia State University,2005.   
+27 Naseer Mohammed Aomarl. Implementation of Higher Order Thinking in Internet Searching in Secondary School Students.(Doctoral Dissertation) .Fordham University，New York.2001.   
+28 Abdulmohsin Hasan A-Harbi.Internet Use by Graduate Students in the Communication Department of Florida State University and Its Impact on the Use of FSU Academic Libraries．（Doctoral Dissertation)．Florida State University,2002. (收稿日期:2008-04-23)

@@ -1,0 +1,542 @@
+[
+    {
+        "type": "text",
+        "text": "Journal of Geophysical Research: Space Physics ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.1002/2015JA021669 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Points: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "·Parallel-dominant and perpendiculardominant components of the fast bulk flows   \n·lon distribution of the fast bulk flow near the current sheet   \n·Relationship between the fast bulk flow and the PSBL beams ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence to: L. Q. Zhang, lqzhang@nssc.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang,L.Q., L. Dai,W. Baumjohann, H. Réme,M.W.Dunlop,and X.H.Wei (2015),Parallel-dominant and perpendicular-dominant components of the fast bulk flow: Comparing with the PSBL beams,J.Geophys. Res.Space Physics, 120,9500-9512,doi:10.1002/ 2015JA021669. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 11 JUL2015   \nAccepted 22 OCT2015   \nAccepted article online 26 OCT 2015   \nPublished online 18 NOV2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Parallel-dominant and perpendicular-dominant components of the fast bulk flow: Comparing withthe PSBLbeams ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "L. Q. Zhang1,L. Dai1,W. Baumjohann², H. Réme³4, M.W.Dunlop5,,and X. H.Wei1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State Key Laboratoryofpace Weather,National Space Science Center, Chinese AcademyofSciences,Beijing,China, 2Space Research Institute,AustrianAcademyofSiences,Graz,Austria,UP-OMPIAP,UniversityofToulouse,Toulouse, France,4CNRS,IRAP,Tououse cedex4,France,Space Research Institute,SchoolofAstronautics,Beihang University Beijing, China,Space Sciences Division,Rutherford Appleton Laboratory, Chilton, UK ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Utilizing multipoint observations by the Cluster satelites， we investigated the ion distributions of the fast bulk flows (FBFs)in the plasma sheet.Simultaneous observation by C1 and C3 revealed that parallel-dominant and perpendicular-dominant components of the flows coexist and correspond to $B _ { x }$ -dominant and $B _ { z }$ -dominant magnetic field regions within the FBFs,respectively. In both cases,the ions distributions are characterized bya single-beam/crescent shape.Inparticular,no reflected ions are found within the FBFs.Statistical analysis showed that within the FBFs,the strength of the $B _ { x }$ component is typically less than ${ 5 } { \\mathsf { n } } { \\mathsf { T } }$ for $B _ { z }$ -dominant regionsand above $1 0 \\mathsf { n T }$ for $B _ { x }$ -dominant regions.To distinguish between the paralel-dominant componentof the FBFsand the field-aligned beams in the plasma sheetboundary layer (PSBL),we further statistically analyzed the tailward parallel flows (TPF) with positive $B _ { z }$ in the plasma sheet.The results indicated that the FBFs tend to have higher velocity,weaker $B ,$ and higher magnetic tilt angle $( \\theta _ { \\mathsf { M T A } } )$ than the TPFs/PSBL beams.Statistically,in the region of $B > 3 0 { \\mathsf { n T } }$ （204号 $( \\theta _ { \\mathsf { M T A } } > 1 0 ^ { \\circ } )$ only PSBL beams can be observed, while in the region of $B < 1 0 ~ \\mathsf { n T }$ $( \\theta _ { \\mathsf { M T A } } > 3 0 ^ { \\circ } )$ ,the FBFs are dominant. In the intermediate region $( 1 0 ^ { \\circ } < \\theta _ { \\mathsf { M T A } } < 3 0 ^ { \\circ } )$ of the plasma sheet, the FBFs and the PSBL beams cooccur. These Cluster observations suggest that the X line can produce both perpendicular flowin central plasma sheet and paralelflowin the PSBL.Inaddition,the paralel-dominantcomponent oftheFBFs could bean important origin for the PSBL beams. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fast flows in the plasma sheet playa dominant role in mass and energy transport in the magnetotail [Angelopoulos etal.,1994;Schodeletal.,2001; Baumjohann,2002;Zhang etal.,2009].Theyoftenoccurduring substorms[Akasofuetal,1981;Hones,1973;Luietal,1977a,1977b;Luietal.983]andmayresultfromcur rent disruption in the near-Earth region,as outflows from near-Earth reconnection,or from the distant tail neutral line[Lui,1991;Baker etal.1996;Lui,1996;Shiokawaetal.,1998;Nakamuraetal,2001a,200b; Angelopoulos etal.，2008;Nishimuraetal.2011; Lyons etal.，2012; Angelopoulos et al，2013;Zhang et al., 2015a]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "According to Baumjohann et al.[1990],the fast observed flows exceeded $4 0 0 \\ k m / s$ for less than 10 s.Such short life-time fastflows arealso called burstyflows.Thebursty fastflows are typically convectivein the central plasma sheet (CPS)and paralel in the plasma sheet boundary layer (PSBL).Angelopoulos et al.[1992] found that the convective bursty flows in the inner CPS are usually groups which had durations of up to 10 min.These grouped bursty flows are also named as bursty bulk flows (BBFs).BBFs are mainly considered as signatures of instantaneous,localized magnetic reconnection in the near-Earth magnetotail [e.g., Nagai et al.,1998; Zhang et al.,2010]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fast flows in the CPS and the PSBL can be easily distinguished from each other according to the angles between the velocity of the ions and the magnetic field $( \\theta _ { \\mathsf { V B } } )$ [Paterson et al.,1998; Petrukovich et al., 2001]. However,their relationship is stillunderdebate[Birnetal.,1986;SchindlerandBirn,1987;Angelopoulos etal.,1993;Rajetal.,02;Biretal.,04;Lennartssonetal009].Ononehand,theydoexhibitseveralcommonproperties，including: similar proton flux,energy， hot ion density，time scale,and occurrence [Baumjohann etal.,1990;Lennartsson etal.,2001,2009].Onthe otherhand,theFBFandthePSBLbeams have differentfieldstrengths,magnetic tiltangle,and iondistributions[Baumjohannetal.,1988,1989;Nakamura etal.,1991,1992].Utilizing Windobservations,Rajetal.[2002]statisticallyanalyzedtheiondistributionsofal the fast flows in the plasma sheet.They found that fast flows in the plasma sheet can be divided into two categories: the bulk flow and field-aligned beams.The bulk flow can be observed in both the CPS and the PSBL.The bulk flow is perpendicularto the magneticfield in the CPS but hasa large field-aligned component in the PSBL.The bulk flows in the CPS and the PSBL have the same isotropic ion distribution, while the field-aligned flows in the PSBL have the beam-like ion distribution with a low-energy cutoff. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "lonvelocitydistributions contain important information to help understanding theorigins ofthefastflows inthe plasma sheet.Typicaly,the convective fastflows in the CPS have \"kidney bean\"or isotropic shape iondistributions,while theparalelfastflows inthe PSBLare characteristicofsingle-beam or double-beam ion distributions [Sarris etal.,1978;Takahashiand Hones,988; Willams,1981].Traditionaly,thePSBLbeamsarethoughttobe producedbythefar-tail X lines [e.g.,Ashour-Abdallaetal.1991; Nakamura etal,992;Onsager etal1991; Grigorenko etal,2007,2009],whiletheisotropicshapeiondistributionsassociated withtheconvectivefastflows inthe CPSaregeneratedbythenear-EarthXlines[Angelopoulosetal.,989;Nakamuraetal.,1991;Rajetal02]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The PSBL is an important dynamic region wherethe magnetic field lines are directly connected to the auroral region[DeCosterandFrank,1979; Lyons etal.,2010].Luietal.[1977a,1977b]firstfoundthatalargenumberof fastflows in the PSBL exist.These fast flows move mainlyalong the magnetic field lines in both earthward andtailwarddirections [Willams,1981;Greenand Horwitz,1986;Angelopoulos etal.,1989].Reflectedbeams at the magnetic mirror point can account for tailward paralelflows (TPFs) in the PSBL[Andrew et al.,1981; Eastman et al.,1984,1985; Zhang etal.,2015b]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The organization of this paper is as follows.In section 2,we show three typical ceases. Case 1 shows the simultaneous observation of the parallel-dominant and perpendicular-dominant components in the same FBF by C1 and C3.Case2shows the spatial evolution ofthe ion distribution from paralel-dominantto perpendicular dominant within theFBFobserved by C3.Case 3 showsthe transition ofthe iondistributions of the PSBLbeam from earthward to tailward.Insection 3,we present the dataused in this study andthe selection criterionof the FBFs andthe TPFsas well.Section 4shows thestatisticalanalysis of the internal structure of the ionsand the magnetic field in south-north direction within theFBF.In section 5,we statisticallyanalyze and compare the properties of theFBFs with the TPFs.Insection 6,we discussthe posible formation mechanism forthe coexistence of paralleldominantand perpendicular-dominant components within the FBFs.Inaddition,the explanationof the scarcity of the reflected ions inside the FBF is given. Conclusions are provided in section 6. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Case Studies ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Simultaneous Observations by C1 and C3 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A strong FBF appeared at 23:43 UT on 07 August 2001.The corresponding temporal evolution of the magnetic field and ions are shown in Figure 1.The two flows observed by C1 and C3 have similar velocity, and high ion temperature $( { \\sim } 4 0 M \\mathsf { K } )$ ,and low ion density $( \\sim 0 . 1 \\ \\mathsf { c m } ^ { - 3 } )$ . Before and after the flow, C1 and C3 are both located in the outer plasma sheet (OPS) where $B _ { x }$ component isabout $2 0 { \\mathsf { n } } { \\mathsf { T } } .$ In the following period the flow,strong magnetic field fluctuations are present at both C1 and C3 locations.The $B _ { x }$ component at the C1 location remains positive and is mainly above $1 0 { \\mathsf { n } } { \\mathsf { T } } _ { * }$ while the $B _ { x }$ component at the C3 location becomes negative and the absolute value is mainly less than $1 0 \\mathsf { n T }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "At 23:45:45 (marked by the dashed line),C1 is located at $( - 1 7 . 1 ~ R _ { E } , - 8 . 4 ~ R _ { E } , 2 . 2 ~ R _ { E } )$ and C3 is located at $( - 1 7 . 3 ~ R _ { E } , - 8 . 3 ~ R _ { E } , 2 . 0 ~ R _ { E } )$ . The $B _ { x }$ component is almost zero for C3,and $1 2 { \\mathsf { n T } }$ for C1.The $B _ { z }$ component is almost zero for C3,and ${ 5 } { \\mathsf { n } } { \\mathsf { T } }$ for C1. Clearly, C1 is located in the CPS,while C3 is located in the OPS. The magnetic field is $B _ { z }$ -dominant for C3 and $B _ { x }$ -dominant for C1.The angle $\\theta _ { \\mathsf { V B } }$ is nearly $9 0 ^ { \\circ }$ at C3,and about $1 4 0 ^ { \\circ }$ at C1.Thus,the FBF is perpendicular-dominant at C3,and parallel-dominant at C1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The simultaneous ion distributions observed byC1and C3 at 23:45:45are shown in Figure 2.The ion distributions in both the $V _ { x y }$ and $V _ { x z }$ planes at C1 and C3 are almost the same.Both are beam-like with a low-energy cutoff (lack of ions in the low-velocity regime in the $V _ { x y }$ and $V _ { x z }$ planes).Both are single-beam/crescent shape. Moreover, both positions of the peak ion density (PlD) are located at $V _ { x }$ axis.The similarity in the ion distributions implies thattheion motion remains consistent at C1and C3.lon motions at C1 and C3 are both directed mainly toward the Earth. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4fc2c66bafc64e584d8db95e91fe474fc993e56cb405f34fe6393aff04ca5e2.jpg",
+        "img_caption": [
+            "Figure1.The fast flows simultaneously observed byC1and C3on O7August 2001.First and second panels show the magneticfield observed byC1andC3.Thirdand fourth panelsshowthe plasma velocities observedat C1and C3.Fifth toseventhpanelsaretheiondensity,iontemperature,and theanglebetweentheflowvelocityVandthemagneticfeld $B ,$ （204号 respectively. Corresponding to the dashed line, $B _ { x }$ remains large at C1 but switches sign at C3,demonstrating C3 crossing the CPS. Positive $V _ { x }$ (red) indicate fast earthward flow simultaneously observed by C1 and C3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/75d31dd2c78e0b77e3104daa5cad4f32cac35daf5b3193458bf118a2c2257d97.jpg",
+        "img_caption": [
+            "Figure 2.The ion distributions at 23:45:45 by C1 (upper) and C3 (bottom). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/01fc476516b7f7061cf0bad767045bc588f2be594b250ed528b40ec68cfd4fac.jpg",
+        "img_caption": [
+            "Figure 3.The fastflow near thecurrent sheeton 30 Aug,2002observed byC3 From topto bottm,the panels are respectively magnetic data $( B _ { x } , B _ { y } , B _ { z } ,$ and total $B )$ ,ion density,the three components of the velocity, temperature, and theangle between the flow and the magneticfield.Te dashed line indicates the time when C3 is crossing the current sheet. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the $V _ { \\parallel } – V _ { \\perp 1 }$ plane,the ion distributions at C1 and C3are also quite similar. Both are crescent shape.However, the positions of the PID are distinctly different.The position of the PID is located close to the $V _ { \\parallel }$ axis at the C1 location and to the $V _ { \\perp }$ axis at the C3 location.This is consistent with the observed parallel-dominant and perpendicular-dominant components at C1 and C3,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Combined ion distributions in Figure 2 indicate that the difference of the $\\theta _ { \\mathsf { V B } }$ between C1 and C3 is due to the variation of the direction of the magnetic field B.According to Figure 1,the magnetic field is $B _ { x }$ -dominantand the direction of the magnetic field is Sun-Earth directed at C1.Meanwhile,the magnetic field is $B _ { z }$ -dominant, and the direction of the magnetic field is mainly in the south-north direction at C3.As a consequence,the earthward-moving FBF is perpendicular-dominant at C3,and parallel-dominant at C1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is worth noting that a double-layer structureexists in the ion distribution in Figures 2.Such multiple-layer structure can occasionally be seen in the FBF near the current sheet.Each layer is beam shaped.We checked the associated-energy distribution of the different ion species.It seems that the number of other ion species is too low to affect the ion distribution.In addition,the multiple-layer structure always shows a single peak, but with a very broad energy range of the ions from several hundred eV to above several tens of keV (not shown here).It appears that the count rate of the ions in certain energy range may be lower than that in the others,which then causes the double-or multiple-layer structure in the ion distributions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.FBF Near the Current Sheet ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Typically, the $B _ { z }$ -dominant magnetic field appears in and/or near the current sheet.To understand the spatial evolutions of theions andthe magneticfiled inside theFBFin the north-south direction,we further analyzed the ion distributions of the FBFs near the current sheet. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a933033bdb22e979582ffcbc093ad572f27bd24165f75c0958baee850ae2f030.jpg",
+        "img_caption": [
+            "Figure4.(a)The temporal evolutionsof themagneticfieldfrom1sresolution FGMdata.(b)londistributions (takenat times denoted by the dashed lines in Figure 4a). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A strong FBF near the current sheet event was observed by C3/Cluster on 30 August 2002.The temporal evolution of the magnetic field and ions in the FBF (in GSM coordinates)is shown in Figure 3.The FBF continues from 15:07 UT to 15:16 UT.In this interval, C3 was located near midnight at $\\Upsilon \\sim - 1 8 . 6 ~ R _ { E } .$ The magnitude of the total $B$ associated with the fast flow is weak and mostly less than $1 0 { \\mathsf { n } } { \\mathsf { T } } .$ The $B _ { x }$ component experienced several reversals which indicate that C3 crossed the current sheet several times.The maximum velocity of the flow exceeded $1 0 0 0 \\ k m / s$ .The dominant ion component associated with the flow has a low density less than $0 . 1 \\mathsf { c m } ^ { - 3 }$ and a high temperature about $4 0 \\mathsf { k e V }$ .The angle between the flow velocity and the magnetic field $( \\theta _ { \\mathsf { V B } } )$ strongly fluctuated between $4 0 ^ { \\circ }$ and $1 6 0 ^ { \\circ }$ 、As a whole, the FBF has a significant parallel component. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c280b95abcb2b6135b9d4a25906e4042aa2ce2efc2ce03f3c9577d58004abfd.jpg",
+        "img_caption": [
+            "Figure5.ThebdirectionbeamsinthePSBLon18ugust2006.Thedashedlinescorrespondstotheearthward,absence,and tailward beams, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Around 15:12 (denoted by the dashed line),the $B _ { x }$ component at C3 is almost zero.C3 crosses the current sheet from the north hemisphere to the south hemisphere.We choose this crossing to do the analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The1s resolution FluxGate Magnetometer (FGM) data in the period from 1511:50 UT to 1512:15 UT (corresponding to the dashed line in Figure 3)is shown in Figure 4a.In this interval, the $B _ { y }$ and $B _ { z }$ components stronglyfluctuate,which is consistent with an Alfvén wave,and/orthe turbulent magnetic field near the reconnection site [Nakamura et al.,2006;Dai et al.,2011].The $B _ { x }$ component gradually changed from $1 0 { \\mathsf { n } } { \\mathsf { T } }$ to $- 5 { \\mathsf { n T } } .$ The $B _ { z }$ components mainly change around zero with an absolute values less than 5nT.The direction of the magnetic field gradually changed from $B _ { x }$ -dominant to $B _ { z }$ -dominant.In particular, $B _ { x }$ was almost zero around 1512:01 UT as C3 crosses the current sheet. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The corresponding $4 s$ resolution ion distribution from 15:11:54 UT to 15:12:19 UT is shown in Figure 4b. The ion distribution is characterized by a single component beam-like shape with low-energy cutoff in the $V _ { x } – V _ { y }$ and $V _ { x } – V _ { z }$ planes (GSM coordinates).The crescent-shape of the ion distribution remains almost unchanged in this interval.The position of the peak ion density is located close to the positive $V _ { x }$ axis,which is consistent with earthward moving thermal ions.Similarly,the ion distributions in the $V _ { \\parallel } { - } V _ { \\perp 1 }$ plane are also beam-like with a low-energy cutof. However,the position of the peak ion density continuously moves from $V _ { \\parallel }$ axis to $V _ { \\perp 1 }$ axis.Correspondingly, the flow gradually changes from being paralleldominant to being perpendicular-dominant. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Combined magnetic field and ion distributions in Figure 4 clearly showed that within the FBF,the magnetic field has gradually changed from $B _ { z }$ -dominant (south-north direction） to $B _ { x }$ -dominant (Sun-Earth direction) while away from the neutral sheet.Along with the evolution of the magnetic field, the FBF gradually changes from perpendicular-dominant to parallel-dominant.As a whole, $\\theta _ { \\mathsf { V B } }$ depends on the direction of the magnetic field,which is predominantly determined by the magnitude of the $B _ { x }$ component. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ac0f44d0c765dbbbf04b4addd4faba209467d546db026e348966ee155acda7f.jpg",
+        "img_caption": [
+            "Figure6.londistributions corresponds tothediferentstatesofthebeamsdenotedbythe threedashed lines in Figure5, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.Bidirection Beamsin the PSBL ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Atypical bidirection beam event in the PSBLon18 August 2006 was recorded by C3.Coresponding temporal evolutions of the magnetic field and the hot ions from O5:35 UT to O5:55 UTare shown in Figure 5.The magnitude of $B _ { x }$ component is about $3 0 { \\mathsf { n } } { \\mathsf { T } } .$ .This indicates that C3 is located in the PSBL.The fast earthward flow begins at O5:36.The velocity of the flow reaches the peak $( \\sim 2 5 0 \\ k m / s )$ at 05:39.The velocity is almost zero at 05:44.Afterward,atailward fast flow isobserved. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The ion distributions related to the beamare shown in the Figure 6.The three ion distributions correspond to theearthwardfastflow,thezero-velocityinterval,andthe tailwardfastflow,respectively.Al thethree iondistributionsare characterized bythedouble-beamshape with low energy cutof.AtO5:40:19 UT,the ion densityof the beam is much stronger in the positive $V _ { \\parallel }$ axis than in the negative $V _ { \\parallel }$ axis.The flow moves earthward. At 05:44:02 UT,the ion densities ofthe two beamsare almost equal.The resulting velocity momentis almost zero. At 05:45:53 UT,the flow moves tailward.The density is higher in the negative $V _ { \\parallel }$ direction because more ions are flowing tailward than earthward. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.Flow Selections ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The 4s resolution data of the magnetometer FGM [Balogh et al.,2001] and the plasma analyzer HlA data [Reme et al.,2001]on C3 were collcted from 2001 to 2006.The selection region is chosen to be inside a box of $- 1 9 \\ R _ { E } < \\mathsf { X } < - 1 0 \\ R _ { E } , - 1 0 \\ R _ { E } < \\mathsf { Y } < 1 0 \\ R _ { E }$ and $- 6 \\ R _ { E } < Z < 6 \\ R _ { E }$ (in the GSM coordinates). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The selection criterion of a FBF event is that: the duration time of $V _ { x } > 2 0 0 \\mathrm { k m } / s$ exceeds $2 0 s$ and $B _ { z } > 0$ and $4 5 ^ { \\circ } < \\theta _ { \\mathsf { V B } } < 1 3 5 ^ { \\circ }$ .There are in total 424 FBF events selected. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To ensure that the selected paralel fast flows are PSBL beams,we use tailward paralel flows (TPF) in this study.The selection criterion of the TPF is adopted as that: the duration time of $V _ { x } { < } - 2 0 0 \\mathrm { k m } / s$ exceeds 20s and $B _ { z } > 0$ and $\\theta _ { \\mathsf { V B } } < 4 5 ^ { \\circ } 0 \\mathsf { r } > 1 3 5 ^ { \\circ }$ .From2001 to 2006,there are 167TPF events selected in total.To verify if the selectedTPFsare PSBLbeams,we checked theion distributionsofall167TPFs events.The iondistributions of allTPFsevents are characteristic ofthe double beams.Clearly,the selected TPFsare the PSBLbeams. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c402ae34452b3346a702e8cf173f7578942e992e52c73c2e81b92ac05c500b33.jpg",
+        "img_caption": [
+            "Figure 7.(a) Data points versus $B _ { x } .$ (b) Events number versus $B _ { x } .$ Totally,8275 points of 4s resolution effective data points are collected from all FBF events.Then,all the data points are arranged into small bins with a step of $5 \\mathsf { n T }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Internal Structure of the FBF ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1. $\\pmb { B } _ { \\pmb { x } }$ Within the FBF ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The 4s resolution data points of the ions and the magnetic field of all FBF events in the period of $V _ { x } > 2 0 0 \\mathrm { k m } / s$ are collected.Thereare in total 8275 data points.Each data point within the FBF is arranged into small bins with a step of ${ 5 } { \\mathsf { n } } { \\mathsf { T } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The distribution of the data point number with $B _ { x }$ is shown in Figure 7a.The data points have a wide distribution from $- 3 0 { \\mathsf { n T } }$ to $3 0 { \\mathsf { n } } { \\mathsf { T } }$ .The distribution of the data points is quite symmetric.This suggests that the structure of the FBF is symmetric on the two sides of the current sheet. Most of the data points are located in the weak magnetic region of $B _ { x }$ less than $1 5 { \\mathsf { n T } }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The distribution of the event number with $B _ { x }$ s shown in Figure 7b.The magnitude of $\\left| B x \\right|$ within the FBF has a wide distribution from 0 to $2 5 { \\mathsf { n T } } .$ In addition, the occurrence peaks in the neutral sheet where $\\left| B x \\right|$ is less than ${ 5 } { \\mathsf { n } } { \\mathsf { T } } .$ （2号 The occurrence decreases sharply with $B _ { x }$ increasing.This is related to the crossing-orbit of C3 within the FBF shown in Figure 7a. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2. $\\scriptstyle \\theta _ { \\mathbf { V B } }$ versus $B _ { x }$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The distribution of the angle between the bulk velocity and the magnetic field $( \\theta _ { \\mathsf { V B } } )$ with $B _ { x }$ for each data point is shown in Figure 8.The variations of $\\theta _ { \\mathsf { V B } }$ with $B _ { x }$ in the northern hemisphere and southern hemisphere have similar tendency.The magneticfield within the FBFcan be divided into three different regions depending on the variation of the $\\theta _ { \\mathsf { V B } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. The $B _ { z }$ -dominant region: corresponding to the regime of $\\left. B _ { x } \\right. < 5 ~ \\mathsf { n T }$ 、In this region,the magnetic field is mainly in the north-south direction.The averaged $\\theta _ { \\mathsf { V B } }$ sharply decreases with $B _ { x }$ increasing from $9 0 ^ { \\circ }$ to ${ 6 0 ^ { \\circ } }$ in the northern hemisphere and increases with $B _ { x }$ decreasing from $9 0 ^ { \\circ }$ to $1 2 0 ^ { \\circ }$ in the southern hemisphere.The perpendicular component is dominant. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/55bd6af05edf263e7bbf1b8944efc23f34798463e5be55ec1c1cba11862ce07c.jpg",
+        "img_caption": [
+            "Figure 8. $\\theta _ { \\mathsf { V B } }$ versus $B _ { x } .$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.The $B _ { x }$ -dominant region:corresponding to the regimeof $\\left. B x \\right. > 1 0 \\mathsf { n T }$ In this region,the magnetic field is mainly in the Sun-Earth direction.The averaged $\\theta _ { \\mathsf { V B } }$ tends to slowly increase with the absolute value of $B _ { x }$ increasing. As $\\left| B x \\right|$ increases from $1 0 \\mathsf { n T }$ to $4 0 { \\mathsf { n } } { \\mathsf { T } } ,$ the average value of the $\\theta _ { \\mathsf { V B } }$ varies from about $5 0 ^ { \\circ }$ to $2 0 ^ { \\circ }$ in the northern hemisphere, and from $1 3 0 ^ { \\circ }$ to $1 6 0 ^ { \\circ }$ in the southern hemisphere.The parallel component isdominant. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.The intermediate region: corresponding to the residual regime of 5nT $< \\left| B _ { x } \\right| < 1 0 \\mathsf { n T }$ In this region, the magnetic field varies from $B _ { z }$ -dominant to $B _ { x }$ -dominant,and the FBF isgradually translated from perpendiculardominant to parallel-dominant.The $\\theta _ { \\mathsf { V B } }$ rapidly decrease/increase with $B _ { x }$ increasing in the northern/southern hemisphere. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.Comparing FBF With TPF ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The 4s resolution data points are collected for each FBF/TPF over its duration.The flow velocity and other physical parameters in each FBF/TPF event are defined as average values over the event duration. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9575ce0b384aef7152c9f0ffaa6842f6e970d7e0aa3ff68c9ee6f2106eead80b.jpg",
+        "img_caption": [
+            "Figure 9.Probabilities of velocity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.1. Velocity ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The probabilityof thebulkvelocity(V) of the FBF is shown in Figure9a.Thevalueof thevelocity hasa wide range from $2 5 0 \\ k m / s$ to $5 0 0 \\ k m / s$ .Themost probableTPF velocityobserved isabout $3 0 0 \\ k m / s$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The probability of the bulk velocity, $V ,$ of the TPF is shown in Figure 9b.The probability of the TPFpeaks around $3 0 0 \\ k m / s$ .Above $2 5 0 \\mathrm { k m } / { \\mathsf { s } } ,$ the probability of the TPF decreases rapidly with $V$ increasing.The TPF seldom have higher velocity above $4 5 0 \\ k m / s$ Comparing with Figure 9a, the FBF clearly tend to have a higher velocity than the TPF. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2.Magnetic Field ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The probability of the magnetic field (B) values of the FBF is shown in Figure 10a.The occurrence is ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "distributed dominantly between 5nT and $2 5 { \\mathsf { n T } }$ with peaks around $1 0 \\mathsf { n T }$ .Seldom FBF occur for $B$ above $2 5 { \\mathsf { n T } }$ .This is basically consistent with the previous results [e.g., Baumjohann et al.,1990]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The probabilityof B values of the TPF is shown in Figure 1Ob.The occurrence is distributed dominantly between $1 0 { \\mathsf { n } } { \\mathsf { T } }$ and $3 5 { \\mathsf { n T } }$ with the peak around $2 5 { \\mathsf { n T } }$ 、A certain number of TPF events have stronger $B$ than $4 0 \\mathsf { n T }$ .Comparing with Figure 10a,the TPF is dominant flow in the region of $B$ above $2 0 { \\mathsf { n } } { \\mathsf { T } }$ and the FBF is dominant in the region of $B$ below $2 0 \\mathsf { n T }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1410ffcd5ecef519214367176e90b08f0e46949cb8dfa936aa405f903beddeaf.jpg",
+        "img_caption": [
+            "Figure10.Probabilities of B. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3.0MTA ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The magnetic tilt angle $( \\theta _ { \\mathsf { M T A } } )$ is calculated as arctan $\\left( B _ { z } / \\sqrt { \\left( B _ { x } ^ { 2 } + B _ { y } ^ { 2 } \\right) } \\right)$ .The probability of $\\theta _ { \\mathsf { M T A } }$ values of the FBF is shown in Figure 11a. The $\\theta _ { \\mathsf { M T A } }$ has a wide distribution from $0 ^ { \\circ }$ to $9 0 ^ { \\circ }$ Most of the FBFs occur between $5 ^ { \\circ }$ and $3 5 ^ { \\circ }$ Below $3 5 ^ { \\circ }$ ,the occurrence of the FBF has no clear change.Above $3 5 ^ { \\circ } .$ ,the occurrence of the FBF has a sudden decrease. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The probability of $\\theta _ { \\mathsf { M T A } }$ values of the TPF is shown in Figure 11b.The $\\theta _ { \\mathsf { M T A } }$ predominantly varies between $0 ^ { \\circ }$ and $3 0 ^ { \\circ }$ .TheTPF seldom occur for $\\theta _ { \\mathsf { M T A } }$ above $3 0 ^ { \\circ }$ .The occurrence of the TPF rapidly decreases with the $\\theta _ { \\mathsf { M T A } }$ increasing. Comparing with Figure 8a,in the region of $\\theta _ { \\mathsf { M T A } } < 3 0 ^ { \\circ } .$ ，both TPF and FBF occur.However, in the region of $\\theta _ { \\mathsf { M T A } } > 3 0 ^ { \\circ }$ ，only FBF can be observed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From analysis above,the FBF tend to have a highervelocity,weaker Band higher $\\theta _ { \\mathsf { M T A } }$ than the TPFs/PSBL beams. In the region of $B > 3 0 { \\mathsf { n T } }$ and/or $\\theta _ { \\mathsf { M T A } } < 1 0 ^ { \\circ } ,$ only PSBL beams can be observed.While in the region of $B < 1 0 { \\mathsf { n T } }$ and/or $\\theta _ { \\mathsf { M T A } } > 3 0 ^ { \\circ }$ ，the FBF is dominant. In the intermediate region （20 $( 1 0 \\mathsf { n } \\mathsf { T } < B < 3 0 \\mathsf { n } \\mathsf { T } )$ ，the FBF and the PSBL beams coexist. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/012939bb691fbd8a8b5d38d9acefefee7bc98172470ef57b5a0bca324a7662c0.jpg",
+        "img_caption": [
+            "Figure11.Probabilities of $\\Theta _ { ( \\mathsf { M T A } ) }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.Discussion and Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Most FBFs include perpendicular and parallel components.Previous studies showed that the FBFs in the CPS are typically perpendicular-dominant,and their parallel components are quite small [Baumjohann etal.,1989,1990;Petrukovich et al.,2001]. In this study，we have shown that C1 observe a clear perpendicular-dominant component and C3 observed a clear parallel-dominant component within the same FBF.The perpendicular-dominant andparallel-dominant componentsare located in the weak- $B _ { x }$ and strong- ${ \\bf \\nabla } \\cdot { \\bf B } _ { x }$ mag",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "netic field regions,respectively.This has never been reported before as far as we know.It suggests the X lin (at least at times) produces perpendicular flow in the CPS and parallel flow in the PSBL. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A second interesting result of this paper concerns the beam-like or crescent shape of the ion distribution of the FBF.Traditionally,such a shape of the ion distribution was thought to occur only in the PSBL [Nakamura et al.,1992,Raj et al.,2002].The perpendicular-dominant component within the FBF was especially found to have such beam-like ion distributions near the CPS.Our result suggests that nearEarth magnetic reconnection could produce the crescent shape of the ion distribution in both the CPS and the OPS/PSBL (a somewhat related study [Hietala et al.,accepted],which just appeared online, independently came to a similar conclusion). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The simultaneous observations of the PSBL beams and the bursty flows near the curent sheet have been reported by Zhou etal.[2012]. However,in their study(Figure 2 in Zhouetal.[2012]),the ion distribution has two diferent components.One is isotropic and the other is beam-like which correspond to the bursty flowand PSBL beam,respectively.The ion energy of the beam is distinctly higher than the isotropic component,and the bursty flow and the beam have diferent origins. Hence,the simultaneous beam in Zhou et al. [2012] is not the paralll component within the FBF as presented here,but instead the PSBL beam. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Simultaneous observations by C1 and C3 reveal that the $B _ { x }$ -dominant and $B _ { z }$ -dominant magnetic field regions can coexist in the same flux tube.This implies that theFBF should have largerthickness than the thin current sheet in the outflow region.The thin current sheet is usually formed during the late growth and expansion phase of a substorm in the near-Earth region with a thickness from $5 0 0 \\mathsf { k m }$ to $1 \\ R _ { E }$ [Petrukovich et al.,2007; Nakamura etal.,2O08].Furthermore,the scaleof the current sheet near themagnetic reconnection region could be less than $1 0 0 0 { \\mathsf { k m } }$ ,which is on the same order of ion inertial length or ion gyroradius [Runovetal.,2003;Nakamura etal.,2002,2006;Daietal.,2015].Ourresultsshow thatthefastflowin theoutflow region could be wider than the current sheet thickness,occupying the $B _ { x }$ -dominant and $B _ { z }$ -dominant magnetic field regions at the same time. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Based on multipoint analysis,Nakamura et al.[2004] found that the width of the BBF is $1 . 5 { - } 2 ~ R _ { E }$ in the north-south direction.Probably,the FBF could intrude into the ${ \\mathsf { P S B L } } ,$ and the parallel component could be an important genesis of the beams in the PSBL.In addition,the braking of the convective flows in the near-Earth region could also turn the FBF into the PSBL beams.Here we suggest thatthe paralll component of the FBF could be an important origin of the PSBL beams. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "From the case analysis,we noticed that the parallel component within theFBF is characteristic of a singlebeam structure,while the PSBL beams are typically double-beams structures.To answer the question whether the parallel component within the FBF could also be reflected back, we manually checked the ion distributions of all 424 FBF events case by case.No double-beam ion distribution was found.In other words, no reflected ions can be seen inside the FBF. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Usually,beam ions moving along the magneticfield lines would be lostto the ionosphere/atmosphere due to the precipitation [Ashour-Abdalla etal.,1992].However,theprecipitationof the ions cannot explain the scarcityofthe reflected ions withintheFBF.Ourexplanation is that nonreflected ion within theFBFis related with the bulk motion of the FBF.Allions within the FBF,including the paralel-dominant and perpendiculardominant ion components,move together in the same velocity toward the Earth.This can be clearly seen from the ion distribution of the FBF.The perpendicular-dominant component would stop/brake in the near Earth region (between 13 and15 $R _ { E } )$ [Shiokawa et al.,1997].Afterward,the FBF could be possibly turned into PSBL beam in the deceleration/braking region because the paralel-dominant component was not affected bythe braking.Thus,the reflected ions of the parallel component could not be directly observed inside the FBF before the braking. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we found cases in which both the perpendicular-dominant and parallel-dominant components of the flow, corresponding to the $B _ { z }$ -dominantand $B _ { x }$ -dominant magnetic field, respectively, coexist inside the FBF.Statistical analysis showed that the strength of the $B _ { x }$ component within the FBF is typically less than 5 nT for $B _ { z }$ -dominant region and above $1 0 { \\mathsf { n } } { \\mathsf { T } }$ for $B _ { x }$ -dominant region.Further analysis showed that the FBF tends to have higher velocity, weaker $B$ and higher $\\theta _ { \\mathsf { M T A } }$ than the PSBL beam.Typically,in the region of $B > 3 0 { \\mathsf { n } } { \\mathsf { T } }$ and/or $\\theta _ { \\mathsf { M T A } } < 1 0 ^ { \\circ } .$ ,only PSBL beams can be observed.While in the region of $B < 1 0 { \\mathsf { n T } }$ and/or, $\\theta _ { \\mathsf { M T A } } > 3 0 ^ { \\circ } .$ the FBF is dominant.In the intermediate region ( ${ 1 0 ^ { \\circ } } < \\theta _ { \\mathsf { M T A } } < 3 0 ^ { \\circ } )$ ,the FBF and the PSBL beams coexist. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We thank the Toulouse CIS/Cluster team for supplying the Cluster data used in this paper.The data of Cluster used in this paperare available from http:// cdaweb.gsfc.nasa.gov/cgi-bin/eval3.cgi. This study is supported by NNFSC grants 41174145,41231067,41574161, and 41174144 and in part by the Specialized Research Fund for State Key Laboratories. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Akasofu,S.l.9)ouigtntoladdgesp,ceiRev-9/   \nAndrew,M.K,P.WDalyandE.Keppler(1981),lonjetingatthelasmaseetboundary:imultaneousbservationsficident reflected particle,Geophys. Res. Lett.,8,987-990,doi:10.1029/GL008i009p00987.   \nAngelopoulosVpic.rd.ag89),ctroeisabisdar Res.,94,15,373-15,383,doi:10.1029/JA094iA11p15373.   \nAngelopoulosVCFKF.oi.GveseatJkeHds)t bulk flows in the inner central plasma sheet,J.Geophys.Res.,97,4027-4039,doi:10.1029/91JA02701.   \nAngelopulo)aeiaes doi:10.1029/93GL00847.   \nAngelopouloV,FelFViGveeCel (1994),Statisticalcaractersticsofurstybulkfovents,JGos.Res,99,,-,doi.9/46.   \nAngelopoulosVetal.(8),Tailecoectioriggerigubstooset,ience,2doi:06/siene.60495.   \nAngelopoulosD.s.Lra),ctrig reconnection fronts,Science,341,1478,doi:10.1126/science.1236992.   \nAshour-Abdall,Jcedelen99)uasabatiitrtiointrpltitsd J. Geophys. Res.,96,1601-1609,doi:10.1029/90JA01921.   \nAshour-Abdall,,eleiJodd.vain992)ecipiaiimem layer, Geophys. Res.Lett.,19,617-620,doi:10.1029/1992GL00048.   \nBaker,D.N.VgoloL96)utraloelfbos present view,J.Geophys. Res.,101,12,975-13,010,doi:10.1029/95JA03753.   \nBalog,Aai   \nBaumjohann,W.(202),Modesofconvection inthemagnetotail,Phys.Plasmas,9,665-3667,doi:10.1063/1499116.   \nBaumjoannsnoe..ttedo988),raotsi J. Geophys. Res.,93,11,507-11,520,doi:10.1029/JA093iA10p11507.   \nBaumjohann,WsmandC..atell(989),erageplasapropertiesinenterlast,Joss9 6597-6606,doi:10.1029/JA094iA06p06597.   \nBaumjohann,W,G.PashmannndH.Luhr(199),Characteristicsofigspeediofowsintheplasmasheet,JGeops.Res95 11,507-11,520,doi:10.1029/JA095iA04p03801.   \nBir,J,E.Hosdd86)edidasfotilotdtif boundary layers,J. Geophys. Res.,91,11,116-11,122,doi:10.1029/JA091iA10p11116.   \ni,JJ   \nDiJRtis)i ion jets from magnetotail reconnection,J. Geophys. Res.,116,A12227,doi:10.1029/2011JA017004.   \nDai,L,C.WangVgelopulodK-Hssmeier),ievdenefreingtroznditiotti pressure effect in magnetic reconnection,Ann.Geophys.,33,1147-1153,doi:10.5194/angeo-33-1147-2015.   \nDeCosterdLF7)etiortaifemtJs JA084iA09p05099.   \nEastman.Le) JA089iA03p01553.   \nGreenJ.LJi),stidairy doi:10.1029/GL013i001p00076.   \nGrigorenko,E.Jddel)tiaacteristfaei of magnetotail,J.Geophys.Res.,112,A05218,doi:10.1029/2006JA011986.   \nGrigoreno,Eaidl)eleotail turrentsheet effects,J.Geophys.Res.,114,A03203,doi:10.1029/2008JA013811   \nHones,EJ)dd,   \nLeartssonHid field-alignedprotonflowsfrom thenear-midnighttail,J.Geophys.Res.,06,5859-5871,doi:10.029/20JA003014.   \nLennartsson,.istdHee)steftedrydstootio Geophys.,27,1729-1741,doi:10.5194/angeo-27-1729-2009.   \nLui,A.T.Y.(1991),sthesisofgeosphericbstormodels,J.Gos.Res.9684-5,do09/40.   \nLui,A.T.Y.(99)itsoeielsJs doi:10.1029/96JA00079   \nLi,A.T.Y,Kfua .Geophys.Res.,82,4815-4825   \nLui,A,EHosJsraSsofud),gtotilsristes:ad6 and Imp 6 observations,J.Geophys. Res.,82,1235-1244,doi:10.1029/JA082i007p01235.   \nLui,AT.Etanil9)isfreboJs doi:10.1029/JA088iA10p07753.   \nLyons,LRY.simura,ing,Vgelopoulos,.ZouDrson,JFadden,unov.endendK.-oraco() EnhancedtransportacrosentirelengthofplasmastoundaryfeldlinseadingtosubstorosetJGohysRs,0 doi:10.1029/2010JA015831   \nLyons,LR,anoloc)lolirt substomexpsieoieosdoreJ,   \nNakamuraMs,joe(99)trbiodloareutraet,J 5631-5649,doi:10.1029/90JA02495   \nNakamura,M.W.Bumjoa,G.PchmannandNkopke(992),londistributionsandflowsinndartheplasmastodary layer,J.Geophys.Res.,97,1449-1460,doi:10.1029/91JA02361.   \nNakamuraR,o,del,itaVgvbinadLia)rtd auroral streamers,and smallexpansions,J.Geophys.Res.,106,10,791-10,80,doi:10.1029/20J00306.   \nNakamura,R,,itac,Vrgv,biaud.Lb),osdocii: Onset timingand footpoint location,J.Geophys.Res.,106,10,777-10,789,doi:10.1029/20JA000249.   \nNakamura,R,tal.(),astflurigurresettgses.ett(2),4do/600   \nNakamura,Reta.),paaleofdieassedbtesResLett80 doi:10.1029/2004GL019558.   \nNakamura,RWumjohann,Ysano,uno,BaloghC.JOwen,.NFazakerley.Fujimoto,leckerndHee), Dynamicsofteiio   \nNakamura,Ral.(O08)Custerobservatiosofnsalecurentseetintemagnetotailuderthepresenceofguidefeld .Geophys.Res.,113,A07S16,doi:10.1029/2007JA012760   \nNagaiT,.Foitidaarataidadub99)e dyamicsfiobitaliss)d   \nNishimura,Yseoshde()tiium thin arc formation,and substorm auroral onset,J.Geophys.Res.,116,A09214,doi:10.1029/2011JA016768.   \nOnsage,T.G,M.F.omsen,R.phicnd.Gsling(991),odelofelectronandidistributiosintheplasmasheetbday layer,J.Geophys.Res.,96,20,999-21,011,doi:10.1029/91JA01983.   \nPaterson,W.R.Fank,SubndTYamamot(998),taileyioineplaetOeatiostw and $5 0 ~ R _ { E } ,$ J.Geophys. Res.,103,11,811-11,825,doi:10.1029/97JA0288   \nPetrukovich,.AujoaaraRdeldTuki),eertardurstybuoecti aligned?,J.Geophys.Res.,106,21,211-21,215,doi:10.1029/2001JA900019   \nPetrukovich,A.Aumjoann,akamuraunov,loghndHe'e),ngdrethigoftheaeet J. Geophys. Res.,112,A10213,doi:10.1029/2007JA012349.   \nRaj,AT.anR.dVgelo)ddodnar sheet,J. Geophys. Res.,107(A12),1419,doi:10.1029/2001JA007547   \nReme,Hetal.)irstultispacecraftionmeasurementsiandartheEarth'sagnetospereithteidnticalCUlo Spectrometry (CIS) Experiment, Ann.Geophys.,19(10-12),1303-1354   \nuov   \nSaris,E,Ddiste J.Geophys. Res.,83,5655-5662,doi:10.1029/JA083iA12p05655.   \nSchindlerKdi98)tetiodaidsttodrfttJos9 95-107,doi:10.1029/JA092iA01p00095.   \nSchdel,R,at 106,301-314,doi:10.1029/2000JA900139   \nShiokawa,Kddegdol doi:10.1029/97GL01062.   \nShiokawa,Ka.998),pdbtoetdgdiplelsaisJs doi:10.1029/1997JA01680.   \nTakahashiKsJ8)EdisrbitdyJ 93,8558-8582, doi:10.1029/JA093iA08p08558.   \nWiliamsDJ),eeticaft:seioslelato Res.,86,5507-5518,doi:10.1029/JA086iA07p05507.   \nZhang,L.Q.,etal.(2oo9),Convective bursty flows in the near-Earth magnetotail inside $1 3 R _ { \\mathsf { E } } ,$ J.Geophys. Res.,114,A02202,doi:10.1029/2008JA013125.   \nZhang,L.Q.Z.XLiu,Z.WMa,WBaumjohann,ZYPuM.WDunlop,HReme,ndJ.Y.Wang(0),linedistributiondeterindfro earthwardandtardvecieustyflointecntralplasmeetJosResdoi/49.   \nZhang,LQ,AdJag)biliioti in the Earth's magnetotail,Adv.Space Res.,56,736-741,doi:10.1016/ja.asr.2015,05.001.   \nZhang,L.Q.W.Bumjann,JY.Wang,HReme,.W.unlopndT.Chen(5b),Statisticalharacteristicsofsowarthrdnd tailward flows in theplasma sheet,J.Geophys.Res.Space Physics,120,6199-6206,doi:10.1002/2015JA021354.   \nZhou,X-ZVlooJu)efia localized ion acceleration,J.Geophys.Res.,117,A10216,doi:10.1029/2012JA018171. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

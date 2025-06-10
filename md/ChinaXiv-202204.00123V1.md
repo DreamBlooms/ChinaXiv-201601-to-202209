@@ -1,0 +1,235 @@
+# 新疆县域人力资源时空差异及影响因素分析
+
+孙继明¹²，李建刚¹²，雷军¹²，杨振³，段祖亮1(1.中国科学院新疆生态与地理研究所,新疆乌鲁木齐830011；2.中国科学院大学资源与环境学院，北京100049；3.江苏师范大学地理测绘与城乡规划学院,江苏 徐州221116)
+
+摘要：基于第五和第六次全国人口普查数据,运用区域人力资源测算方法、多元线性回归、地理探测器研究方法，分析了新疆县域人力资源时空分布差异及影响因素。结果表明：(1)2000—2010年新疆人力资源总量增加 $5 4 . 8 9 \%$ ，具有分散分布、空间差异增大的特征；人均人力资源水平提升$3 0 . 7 1 \%$ ，地域差异主要体现为南、北疆差异，呈低值集聚-高值分散的特点。(2)剔除人力资源教育投入的积累性，2000—2010年新疆人力资源总量增加的县(市、区)主要集中在南疆，北疆、东疆以减少为主，人均人力资源提升程度南疆明显高于北疆、东疆。(3）新疆人均人力资源时空分布差异受多种因素的综合影响，除教育因素外，二三产业从业人员，人均国民生产总值(GDP)、地方财政收入及从事卫生、社会保障人数因子的驱动较为显著。本研究结果可为新时期缩小新疆区域人力资源发展差异提供参考。
+
+关键词：人力资源；县域；影响因素；新疆
+
+# 文章编号：
+
+人力资源是知识经济时代经济增长的最重要源泉，是构建新发展格局的重要依托。中国的现代化进程经历了从文盲充斥的人口大国到人力资源大国的转变，目前正在向人力资源强国迈进，人力资源强国是实现中国梦的重要基础和保障。教育是人力资源形成的重要途径，教育强则国家强，教育兴则民族兴，从人口大国到人力资源大国转变的重要标志是人口受教育水平的提升和高等教育人力资源数量的增加，重心是人力资源质量的飞跃[3-4]。教育将成为人力资源增长的主要因素，对经济增长的贡献作用明显加强[5],教育投资是提升人力资源质量水平的重要方式[6-7],教育投入的加大明显提升了人口的受教育程度和增加了人力资源积累[1.8]。教育大发展使中国获得大规模的人力资源红利，伴随着资本型人口红利的孵化和快速成长，未来将推动人口红利由资源型主导向资本型主导转变[9]。
+
+针对人力资源的研究，西方学者通过建立人力资源的研究框架、测度和评估方法[10-13],关注高素质人力资源的流失问题，而国内学者主要基于全国[14]、区域[15-16]、省域[17-19]尺度，采用人口[16]、劳动力数量[17]、就业人数[18]、平均受教育年限[3.15]教育经费投入[14.18-19]等方法研究人力资源数量[7,9]、质量[14-15]、结构[18]以及人力资源开发[17.19]等问题。基于以上研究发现，当前人力资源的研究大多基于非空间的定性或定量分析，地理学空间上的区域性和差异性没有得到充分体现；其次，研究尺度多为全国、省级及西部、陕西北缘等区域尺度，缺少从县域尺度等人力资源空间格局更为细致的刻画。
+
+人力资源差距是我国西部地区与中、东部地区发展差距的重要原因[；不同层次人力资源存量差距巨大，导致人力资源空间配置不当，西部仍然是实现社会主义现代化的短板和薄弱环节，高质量人力资源匮乏[15],人力资源质量水平不高，且各地区之间差异明显。新疆作为西部边疆省区，新疆人口分布格局随着社会经济发展发生了巨大变化[20]，主要表现在人力资源地州分布不均衡[21],质量不高[19],教育投资不足[22]，人才流失严重[19.23]等。第二次中央新疆工作座谈会之后，国家对口支援新疆和脱贫攻坚力度加大，新疆优先发展教育事业，新疆教育投资总量不断增加，财政性教育经费占国民生产总值(GDP)的比重由2000年的 $4 . 1 9 \%$ 增加到2010年的 $6 . 0 8 \%$ 、2019年的 $6 . 9 1 \%$ ,超过全国平均水平约3个百分点 $( 4 . 0 2 \%$ )，新疆基本普及15a教育，人力资源质量明显提升。本研究基于区域人力资源测算方法[14.24],探究新疆县域人力资源时空分布差异的意义在于揭示人力资源的分布特征及变化规律，分析引起人力资源分布地域差异的原因，以期为提升新疆人力资源质量水平、优化人力资源空间配置提供参考，为新时期缩小新疆区域经济发展差距和维持社会稳定提供人力资源支撑。
+
+# 1 研究区概况
+
+新疆地处中国西北部，亚欧大陆中心地带，是亚欧大陆桥上的重要节点，总面积 $1 6 6 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ，全疆下辖4个地级市、5个区、5个自治州，按地理位置主要划分为南疆、北疆和东疆3个地区(图1)，其中南疆有42个县(市、区）北疆有50个县(市、区）、东疆有6个县(市、区）。需要说明的是，考虑到研究区域行政界线的变更，本文以2020年新疆县域矢量地图为底图,其中新设的城市如阿拉尔市、胡杨河市、昆玉市、霍尔果斯等城市数据缺失，故不在本研究注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2019)1825号的标准地图制作，底图边界无修改。下同。
+
+![](images/19daca3c1fbcd17f0eef433873c763a7c3cc4a074416ece012472e7fa619e258.jpg)  
+图1研究区示意图  
+Fig.1 Schematic diagram of study area
+
+之列。
+
+# 2数据与方法
+
+# 2.1数据来源
+
+考虑到数据的可获取性与准确性，本文采用新疆维吾尔自治区第五次和第六次全国人口普查数据，将受教育程度依次归类为未上过学(0a）、小学(6a）初中(3a）高中(含中专）(3a）大专(3a）、大学本科(4a）、研究生(3a)计算不同教育阶段的人口数 $\left( { { p } _ { i } } \right)$ 。
+
+考虑到2000年和2010年教育经费价格因素的影响，为了与分县(市、区)人口数据相统一，同时体现2个时间点的可比性以及更好地反映人力资源变化情况，统一采用《新疆统计年鉴2011》中的普通小学、普通初中、普通高中(含中专)和普通高等学校（其中大专、大学本科、研究生的教育投入均按照普通高等学校年教育经费支出计算)在校学生人数和年教育经费支出，测算出6个不同教育阶段对应的人均教育经费支出 $( e _ { j } )$ ,其中未上过学的6岁以上人口获得的教育经费支出为0。
+
+# 2.2 研究方法
+
+2.2.1区域人力资源测算方法人力资源是指某一地区具有劳动能力的人所拥有的知识水平和劳动技能的总和，不仅反映人口的数量特征，也反映人口的知识、技能、健康等质量特征[24]。对区域人力资源质量的测算常用方法主要有平均受教育年限法[4.15]和教育经费投人法[14.24]。平均受教育年限法的特点是数据的可得性和精确性较好，不足之处在于忽略知识的积累效应，而教育经费投入法考虑到知识的积累。
+
+人力资源质量投资在推动社会和经济发展中发挥重要作用[25]。人力资源质量投资包括对教育、培训、医疗保健和就业等方面的投资，其中教育投资的收益率最高、实用性最强，且易于量化，区域可比性较强[24]。本文基于教育经费投入,参照许泽宁等[14.24]的区域人力资源测算方法，考虑到不同文化程度群体在受教育时，接受的教育投资和知识水平存在差异，既体现不同群体的文化程度，也反映了其接受的教育投资数量。其方法如下：
+
+$$
+{ \mathrm { h r } } = \sum _ { i } \left( p _ { i } \sum _ { j \leqslant i } e _ { j } \right)
+$$
+
+# 干吴区地理
+
+式中： $\mathrm { h r }$ 为新疆各县(市、区)的人力资源总量(元);i和 $j$ 为教育阶段，包括未上过学、小学、初中、高中（含中专）、大专、大学本科、研究生7个阶段； $p _ { i }$ 为完成教育阶段i的6岁以上人口数量(人); $e _ { j }$ 为教育阶段j的人均教育经费支出(元)。通过上述模型计算出新疆各县域人力资源总量，即各个县(市、区）人口的总体知识和技能水平的货币化表现。
+
+此外，为了反映新疆各县(市、区)人口的平均质量，将各县域人力资源总量与6岁及以上人口的比值定义为人均人力资源[average(hr),元]。
+
+$$
+{ \mathrm { a v e r a g e ( h r ) } } = \mathrm { h r } / \sum _ { i } p _ { i }
+$$
+
+2.2.2剔除教育投资积累性的人力资源变化测算方法由于教育投资的逐年积累，人力资源总量和人均人力资源会随着教育投入整体性提升，2个时间点的县域人力资源之差无法客观反映人力资源的相对变化差异，需要剔除第一个年份6岁以上人口在2个时间点内积累的人力资源投人。因此，为更好地反映人力资源总量和人均人力资源净增长的变化，本文对人力资源相对变化的计算方法进行设定，通过计算 $1 0 \mathrm { ~ a ~ }$ 新疆县域人力资源变化率 $( r )$ ，接着计算在整体变化率下2010年新疆各县（市、区）人力资源水平 $\left[ \left( 1 + r \right) \mathrm { h r } _ { i } ^ { 2 0 1 0 } \right]$ ，县域单元2010年人力资源实际值 $\left( \mathrm { h r } _ { i } ^ { 2 0 1 0 } \right.$ )与根据新疆人力资源变化率计算的人力资源 $\left[ ( 1 + r ) \mathrm { h r } _ { i } ^ { 2 0 1 0 } \right]$ 之差，即是剔除积累效应后的人力资源变化值（ $\Delta \mathrm { h r } _ { i }$ ）,具体计算公式如下：
+
+$$
+r = ( \mathrm { h r _ { a l l } ^ { 2 0 1 0 } - h r _ { a l l } ^ { 2 0 0 0 } } ) / \mathrm { h r _ { a l l } ^ { 2 0 0 0 } }
+$$
+
+$$
+\Delta \mathrm { h r } _ { i } = \mathrm { h r } _ { i } ^ { 2 0 1 0 } - ( 1 + r ) \mathrm { h r } _ { i } ^ { 2 0 1 0 }
+$$
+
+式中： $r$ 为人力资源变化率 $( \% )$ ;all为新疆维吾尔自治区； $\Delta \mathrm { h r } _ { i }$ 为剔除人力资源积累效应后的人力资源变化值(元）； $i$ 为新疆各县域单元。
+
+2.2.3多元线性回归方法多元线性回归方法在地理学的应用比较成熟和普遍[26-27],为探讨新疆人均人力资源空间分异与各影响因子之间的统计学关系，利用多元线性回归的数学模型[28],从数量关系考虑各因子对新疆人均人力资源空间分异的影响;并进行共线性诊断，得到各因子与人均人力资源空间分异的线性模型。
+
+2.2.4地理探测器分析方法“地理探测器”是探测和利用空间分异的工具[29],地理探测器模型对多自变量共线性免疫，有具体的探测力值，可以检验单变量的空间分异性，识别因子的决定力大小，更好地解读空间分异各因子的影响强度和不同时期各因子作用强度的变化趋势[30-31]。本文使用因子探测器分析各个因子对人均人力资源的决定力大小。其公式如下：
+
+$$
+P _ { _ { D , U } } = 1 - \frac { 1 } { n \sigma ^ { 2 } U } { \sum _ { i = 1 } ^ { m } } n _ { _ { D , i } } \sigma ^ { 2 } U _ { _ { D , i } }
+$$
+
+式中： $P _ { D , U }$ 为决定要素 $( D )$ 对人均人力资源 $( U )$ 的解释程度； $n , \sigma ^ { 2 }$ 分别为区域样本数和方差； $\sigma ^ { 2 } U$ 为区域人均人力资源的方差; $m$ 为次一级区域个数。 $\scriptstyle { i = 1 }$ $2 , \cdots , m$ 为变量或因子的分层，即分类或分区； $n _ { D , i }$ 为次一级区域样本数; $\sigma ^ { 2 } U _ { D , i }$ 为次一级区域的方差。假设 $\sigma ^ { 2 } U _ { D , i } \mathrm { \neq } 0$ ,模型成立， $P _ { D , U }$ 的取值区间为 $\left[ 0 , 1 \right] , P _ { { D , U } } =$ 0时，表明人均人力资源分布呈随机分布， $P _ { D , U }$ 值越大，说明某一影响因子对人均人力资源影响越大。
+
+# 3新疆县域人力资源时空变化
+
+# 3.1人力资源总量时空变化
+
+3.1.1未剔除教育投入积累的人力资源总量时空变化2000—2010年新疆人力资源总量增加显著，从$2 1 3 3 . 5 6 \times 1 0 ^ { 8 }$ 元增加到 $3 3 0 4 . 6 2 \times 1 0 ^ { 8 }$ 元，增幅为$5 4 . 8 9 \%$ 。2000年县域人力资源总量的GlobalMo-ran's $I$ 指数为0.14( $z$ 值 $\scriptstyle = 5 . 4 8$ ），2010年为0.08(z值 $\underline { { \underline { { \mathbf { \Pi } } } } } = \mathbf { \Pi }$ 3.49)，人力资源总量空间集聚具有分散分布和区域空间差异增大的特征。
+
+2000年新疆大部分县（市、区）人力资源总量较少，人力资源总量较高的地区呈零散分布，表现出不连续的分布状态，主要分布在乌鲁木齐市辖区（天山区、沙依巴克区、新市区）、石河子市、阿克苏市、哈密市等城市(图2a)。到2010年人力资源总量高值区域呈集中连片分布，主要分布在天山北坡城市群、库尔勒市、伊宁市、哈密市等区域中心城市及其周边(图2b)。而人力资源总量较低的区域均主要分布在外围县(市、区）(图2)。
+
+3.1.2剔除教育投入积累的人力资源总量时空变化剔除教育投入积累后,2000—2010年新疆县域人力资源总量增减存在明显区域差异，北疆、东疆以减少为主，南疆以增加为主。整体上，人力资源总量减少的县(市、区)主要集中在北疆边境、东疆边境及天山北坡城市群的大部分县(市、区)等;人力资源总量增加的县(市、区)主要集中在南疆地区（图3a)。从新疆县域人力资源增减程度来看，减少最多的是北疆的乌鲁木齐县和石河子市；增加最多的是乌鲁木齐市下辖的新市区、水磨沟区和天山区(图3b)。
+
+![](images/4fa5ae2fda0c20058643bf2cf02c044ab3400a4662e8943ef9698ab1e6f904fb.jpg)  
+Fig.2Spatial distributions of total human resources at county level in Xinjiang in 2OoO and 2010
+
+![](images/66601ccbed19c3f0caf526ea28753a18dfd9c79e40ca94bba9997c8035801565.jpg)  
+图22000、2010年新疆县域人力资源总量空间分布  
+图32000、2010年剔除人力资源教育投入积累的新疆县域人力资源总量空间变化  
+Fig.3Spatial pattern of the total amount ofhuman resources change at county level in Xinjiang after excluding the accumulation of human resources education investment in 2ooO and 2010
+
+# 3.2人均人力资源时空变化
+
+3.2.1未剔除教育投入积累的人均人力资源总量时空变化2000年，新疆县域人均人力资源呈低值集聚-高值分散特征。低值主要集中在南疆，高值分散在北疆的乌鲁木齐市和克拉玛依市（图4a）。2010年，新疆县域人均人力资源高值集聚特征明显，主要集中在天山北坡城市群、伊宁市、库尔勒市、哈密市等区域中心城市及其周边;低值相对集中分布在和田地区的和田县、皮山县、墨玉县、于田县及喀什地区的巴楚县、疏附县、伽师县(图4b)。
+
+随着新疆教育投资的不断投人和积累，县域人均人力资源水平整体提升。新疆人均人力资源从2000年的 $1 . 2 7 \times 1 0 ^ { 4 }$ 元增长至2010年的 $1 . 6 6 \times 1 0 ^ { 4 }$ 元，提升了 $3 0 . 7 1 \%$ ，但区域差异明显，2000年和2010年新疆县域人均人力资源GlobalMoran'sI分别为0.42（ $\boldsymbol { \mathscr { z } }$ 值 $_ { = 1 5 . 3 3 }$ 和0.42( $z$ 值 $_ { = 1 5 . 5 5 }$ )，说明新疆县域人均人力资源有显著的空间自相关性，同时呈现集聚减弱、空间差异增大特征。
+
+3.2.2剔除教育投入积累的人均人力资源总量时空变化剔除教育投入积累后的人均人力资源变化区域差异显著。2000—2010年新疆大部分县（市、区）人均人力资源减少，减少的有58个，占98个评价单元的 $5 9 . 1 8 \%$ ,增加的有40个，占比为 $4 0 . 8 2 \%$ （图5a）。从人均人力资源增减程度来看，南疆县(市、区)提升幅度明显高于东疆县(市、区)和北疆县（市、区），增加最为显著的是南疆塔什库尔干塔吉克自治县、墨玉县、阿克陶县、民丰县，减少最为显著的是乌鲁木齐市和克拉玛依市(图5b)。
+
+# 4新疆县域人均人力资源时空差异影响因素分析
+
+人力资源的区域差异受多种因素的综合影
+
+![](images/59d2fd0c968f5a0d7943ba18235d257acfbd9b951953adcc5dcf61b19438d6e4.jpg)  
+干旱区地理
+
+Fig.4Spatial distributions of per capita human resourcesat county level in Xinjiang in 2ooo and 2010响[16.14-15,25,32-35],按照科学性、合理性和数据可获得性，本文以人均人力资源作为因变量建立多元线性回归模型，从人口基础、社会经济基础和社会保障基础3个方面选取15个指标来分析人均人力资源时空分异的影响因素(表1)。
+
+![](images/5b969f9d401627e68682bf2c5d84681aee07a7f9d23f1a22c64ac76a700d6b65.jpg)  
+图42000、2010年新疆县域人均人力资源空间分布  
+图52000、2010年剔除人力资源教育投入积累的新疆人均人力资源空间变化  
+Fig.5Spatial pattern of per capita human resources change at county level in Xinjiang after excluding the accumulation of human resources education investment in 2ooo and 2010
+
+（1）人口基础：人口作为人力资源的基础，人力资源总量与地区人口数量密切相关[14],选取人口总量和自然增长率2个指标衡量新疆县域人口总量和自然增长情况；人口流动是人力资源的合理配置和优化组合的必要途径1，选取新疆人口流动的3种类型占总人口的比值来表征人口流动对县域人均人力资源空间分布差异的影响。
+
+(2）社会经济基础：区域经济发展水平是影响人力资源空间差异的主导因素[25]，人均GDP和地方财政收入在很大程度上反映出一个地区的经济发展潜力、就业机会和生活舒适程度[15.32];在岗职工平均货币工资直接影响人们对地区工作的满意程度和向往程度[33];城镇化快速推进为人力资源集聚提供了契机和平台，用城镇人口占年末常住总人口比重表示城镇化率[34-35]；二三产业从业人员占总人口比重和社会消费品零售总额能反映人力资源集聚的市场经济环境[32]。
+
+(3）社会保障基础：社会医疗和养老保障机制的良好运转有助于促进人力资源投入的积累6，选取医院、卫生院床位数，社会福利院床位数，社会福利院数和从事卫生、社会保障人数4个指标来衡量新疆县域社会医疗和养老机制的保障水平。
+
+为了避免因子多重共线性，使用多元线性回归进行显著性水平（ $( P { < } 0 . 1 )$ 和方差膨胀因子（VIF<5）检验，最后筛选得到8个变量因子(表2)，模型拟合优度分别为 $7 4 . 5 \%$ 和 $8 7 . 6 \%$ ，模型整体均达到极显著水平，且正负向符合预期。
+
+2000年的模型估计结果显示：（1）人口总量、自然增长率、流入本省其他县(市、区)人口数量3个因
+
+# 表1新疆县域人均人力资源空间分布差异的影响因素
+
+Tab.1 Influencing factors of spatial distribution differences of per capita human resources at county level in Xinjiang   
+
+<html><body><table><tr><td>自变量类型</td><td>自变量名称</td><td>单位</td></tr><tr><td>人口基础</td><td>人口总量</td><td>人</td></tr><tr><td rowspan="9">社会经济基础</td><td>自然增长率</td><td>%0</td></tr><tr><td>迁入本县(市、区)占比</td><td>%</td></tr><tr><td>流入本省其他县(市、区)占比</td><td>%</td></tr><tr><td>流入外省占比</td><td>%</td></tr><tr><td>人均国内生产总值(GDP)</td><td>元</td></tr><tr><td>在岗职工平均货币工资</td><td>元</td></tr><tr><td>地方财政收入</td><td>10元</td></tr><tr><td>二三产业从业人员占总人口比重</td><td>%</td></tr><tr><td>城镇化率</td><td>%</td></tr><tr><td rowspan="5">社会保障基础</td><td>社会消费品零售总额</td><td>10元</td></tr><tr><td>医院、卫生院床位数</td><td>床</td></tr><tr><td>社会福利院数</td><td>个</td></tr><tr><td>社会福利院床位数</td><td>床</td></tr><tr><td>从事卫生、社会保障人数</td><td>人</td></tr></table></body></html>
+
+子与县域人均人力资源水平呈现负相关关系，说明人口基数的变动影响人均人力资源水平的提升。(2）城镇化率和二三产业从业人员占比越高，吸引人力资源集聚的市场经济越好，人均人力资源水平提升越明显。表明这一时期新疆人均人力资源空间分布差异主要受人口基数变化和吸引人力资源集聚的市场经济环境的影响，
+
+与2000年相比，除二三产业从业人员占比外，2010年人均GDP、地方财政收入和从事卫生、社会保障人数对新疆县域人均人力资源影响较为显著，表明这一时期地区的经济发展水平越好，医疗卫生条件越完善的县域人均人力资源水平越高。
+
+对影响人均人力资源水平较显著的8个影响因子进行自然断裂点分级、分区，利用地理探测器工具计算得到各因子对新疆县域人力资源水平的决定力大小 $( P _ { D , U } )$ （表3）。
+
+因子探测结果显示：2000年多元线性回归分析5个显著的因子中城镇化率、二三产业从业人员占比、迁入本省其他县(市、区)占比、自然增长率对人均人力资源空间分布差异的驱动较为显著，决定力大小分别为 $0 . 4 6 , 0 . 3 9 , 0 . 4 2 , 0 . 3 1$ ;到2010年二三产业从业人员占比、人均GDP、地方财政收入和从事卫生、社会保障人数通过了显著性水平检验，对地区人均人力资源的决定力为0.61、0.51、0.42、0.26,进一步印证了多元线性分析的结果。
+
+# 5讨论与结论
+
+# 5.1 讨论
+
+本文通过未剔除教育投入积累性和剔除的2种算法对新疆人力资源变化研究，得到不同的结果：未剔除教育投人积累的新疆人力资源受教育投入积累和人口流动的影响，相比人口的流动，10a间新
+
+表2新疆县域人均人力资源空间分布差异影响因素结果估计  
+Tab.2Estimated results of influencing factors of spatial distribution differences of per capita human resources at county level in Xinjiang   
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="2">2000年</td><td colspan="2">2010年</td></tr><tr><td>未标准化系数(B)</td><td>方差膨胀因子</td><td>未标准化系数(B)</td><td>方差膨胀因子</td></tr><tr><td>人口总量/人</td><td>-0.039***</td><td>1.215</td><td>0.175</td><td>0.155</td></tr><tr><td>自然增长率/%0</td><td>-0.213**</td><td>2.354</td><td>0.148</td><td>0.273</td></tr><tr><td>迁入本省其他县(市、区)占比/%</td><td>-0.063**</td><td>1.489</td><td>0.215</td><td>0.323</td></tr><tr><td>人均GDP/元</td><td>0.156</td><td>3.143</td><td>0.069**</td><td>4.253</td></tr><tr><td>地方财政收入/10元</td><td>0.024</td><td>3.683</td><td>0.043***</td><td>3.577</td></tr><tr><td>二三产业从业人员占总人口比重/%</td><td>0.068*</td><td>4.364</td><td>0.197***</td><td>3.346</td></tr><tr><td>城镇化率/%</td><td>0.079***</td><td>3.021</td><td>0.063</td><td>0.254</td></tr><tr><td>从事卫生、社会保障人数/人</td><td>-0.043</td><td>3.843</td><td>0.031***</td><td>3.543</td></tr><tr><td>拟合优度(R)</td><td>0.789</td><td></td><td>0.889</td><td></td></tr><tr><td>调整后的R</td><td>0.745</td><td></td><td>0.876</td><td></td></tr><tr><td>sig.</td><td>0.000</td><td></td><td>0.000</td><td></td></tr></table></body></html>
+
+注;\*\*\*、\*\*、\*分别为各统计量对应的 $P$ 值在 $1 \% 5 \%$ $1 0 \%$ 的水平上显著。
+
+# 干吴区地理
+
+# 表3影响因子对县域人均人力资源空间差异决定力及变化
+
+Tab.3 Decisive powers and dynamic changes of the influencing factors on the spatial distribution of per capita human resources at county level in Xinjiang   
+
+<html><body><table><tr><td rowspan="2">影响因子</td><td colspan="2">2000年</td><td colspan="2">2010年</td></tr><tr><td>决定力</td><td>显著性 水平</td><td>决定力</td><td>显著性 水平</td></tr><tr><td>人口总量</td><td>0.17</td><td>0.97</td><td>0.27</td><td>0.54</td></tr><tr><td>自然增长率</td><td>0.31</td><td>0.01</td><td>0.39</td><td>0.00</td></tr><tr><td>迁入本省其他县 (市、区)占比</td><td>0.42</td><td>0.00</td><td>0.56</td><td>0.00</td></tr><tr><td>人均GDP</td><td>0.57</td><td>0.00</td><td>0.51</td><td>0.00</td></tr><tr><td>地方财政收入</td><td>0.09</td><td>0.86</td><td>0.42</td><td>0.00</td></tr><tr><td>二三产业从业</td><td>0.39</td><td>0.00</td><td>0.61</td><td>0.00</td></tr><tr><td>人员占比 城镇化率</td><td></td><td></td><td></td><td></td></tr><tr><td>从事卫生、社会 保障人数</td><td>0.46 0.08</td><td>0.00 0.53</td><td>0.65 0.26</td><td>0.00 0.02</td></tr></table></body></html>
+
+疆各学历人群教育投资的不断积累对人力资源的变化起主导作用;剔除教育投入积累后，人口流动对新疆人力资源变化影响显著，尤其是天山北坡城市群大部分县(市、区)出现人力资源总量和人均人力资源减少现象，可能原因归因于：（1）乌鲁木齐市作为天山北坡经济带的核心城市，在经济、社会各项发展指标中具有明显优势[36]，自“乌鲁木齐都市圈”"乌昌一体化"等建设的提出，周边县(市、区)的人力资源不断流向乌鲁木齐市辖区，相应地造成市县区以外的区域人力资源明显减少。（2）与已有关于新疆人才流失现象研究结果一致[23],新疆经济社会发展相对滞后，受较高教育水平的人口流向内地，新疆面临内地优秀人才引进难，疆内人才不断流失困境，其中人才流出量远高于流入量。(3)2000—2010年新疆人口迁移以省际净迁入为主[7]其中迁入人口主要来自中国西北、西南和中南地区，流入的人口大多以中低文化程度为主，从而导致人口的低素质扩张，人均人力资源减少明显
+
+国家脱贫攻坚计划的实施，加强了对南疆各地贫困县的教育投入，南疆实现了15a教育全覆盖，人力资源数量和质量明显提升，2020年南疆国家级贫困县全部实现脱贫，需进一步通过教育投人的结构性分析，探讨人力资源对脱贫效果的可持续性影响。此外，受数据获得性和可比限制，考虑到数据的精确性，只选择新疆第五次和第六次全国人口普查数据为评价年份进行测度，未来可增添第七次人□普查数据做进一步分析;在区域人力资源测算方面，未把家庭教育投资部分考虑在内，忽视了教育投资的区域差异和年际差异，指标体系的构建还有待进一步充实和完善。
+
+# 5.2结论
+
+本文基于教育投资测算区域人力资源，由于教育投资具有积累性，通过设定剔除人力资源教育投入测算方法，将未剔除与剔除教育投人积累性的人力资源时空变化进行对比分析，研究发现：
+
+（1）未剔除教育投资积累性的新疆县域人力资源总量和人均人力资源整体提升显著，增幅分别为$5 4 . 8 9 \% . 3 0 . 7 1 \%$ ;剔除人力资源教育投人后，人力资源总量、人均人力资源的变化具有区域性，北疆、东疆以减少为主，南疆以增加为主。
+
+(2）人力资源总量空间分布由高值分散-低值 集聚特征向低值分散-高值集中镶嵌分布转变，人 均人力资源南北差异和东西差异显著，且差异趋势 不断扩大。
+
+(3）2000年人均人力资源时空分布差异主要受城镇化率、二三产业从业人员占比、迁入本省其他县(市、区)占比、自然增长率的影响。2010年二三产业从业人员占比、人均GDP、地方财政收入和从事卫生、社会保障人数的影响显著。
+
+以上研究结论表明，新疆人力资源发展存在区域差异，主要受经济发展水平、产业结构及社会保障等因素影响。因此，未来新疆区域人力资源发展的重点是：(1）围绕丝绸之路经济带核心区建设，培育经济发展新动能，推动高质量发展，尤其是加大南疆、边境地区等欠发达地区的经济发展，提升整体经济发展水平，缩小区域发展差距。(2）以丝绸之路经济带核心区医疗服务中心建设为契机，推进健康新疆建设，完善医疗服务体系，积极推进国家级区域医疗中心，提升医疗卫生服务能力，更好满足人民群众基本医疗卫生服务需求和多样化、多层次健康需求，不断提升城乡居民健康水平。(3）完善多元化人才政策，加大人才引进，优化人才发展环境，配套鼓励引导人才向艰苦边远地区和基层一线流动的特殊激励政策。
+
+# 参考文献(References)
+
+[1]童玉芬.从人口大国走向人力资源强国—中国人力资源的现状和形势分析[J].现代经济探讨,2008(1):11-15.[Tong Yufen.
+
+From a population country to a human resource power: An analysis of the status and situation of China’s human resources[J]. Mdern Economy Research, 2008(1): 11-15.]   
+[2]胡鞍钢,王洪川,鄢一龙.中国现代化:人力资源与教育(1949— 2030)[J].教育发展研究,2015,35(1):9-14.[Hu Angang,Wang Hongchuan,Yan Yilong.Modernization in China: Human resources and education (1949—203O)[J]. Research in Educational Development, 2015,35(1): 9-14.]   
+[3]谢炜.人力资源强国战略:内涵、挑战及路径选择[J].云南社会 科学,2011(3):19-23.[Xie Wei. China's strategy of being a country of powerful human resources: Conception, challenges and path selection[J]. Social Sciences in Yunnan,2011(3): 19-23.]   
+[4]杜鹏,安瑞霞.从人口大国到人力资源强国—改革开放四十 年中国教育发展成就与人力资源发展[J].国家教育行政学院 学报,2018(1): 3-12. [Du Peng,An Ruixia. Development from a country of huge population to a country of powerful human resources: China’s educational achievements in the past forty years of reform and opening-up[J]. Journal of National Academy of Education Administration,2018(11): 3-12.]   
+[5]马晓强,崔吉芳,刘大伟,等.中国教育现代化发展的总体趋势 和挑战[J].教育研究,2017,38(11):18-27.[Ma Xiaoqiang,Cui Jifang,Liu Dawei,etal. General trends and challenges of educational modernization in China[J]. Educational Research,2017,38 (11): 18-27.]   
+[6]刘晶.中国人力资本空间分布差异的实证分析[J].西北人口, 2012, 33(3): 33-44.[Liu Jing.An empirical study on human capital regional distributing disparities of China[J].Northwest Population Journal,2012,33(3): 33-44.]   
+[7]乔观民,丁金宏,刘振宇.1982—2000年中国人力资本受教育 程度空间变化研究[J].人文地理,2005,20(2):105-109.[Qiao Guanmin,Ding Jinhong,Liu Zhenyu.A study on spatial diference of human capital educational attainment between 1982 to 2000 in China[J]. Human Geography,2005,20(2): 105-109.]   
+[8]杨俊,李雪松.教育不平等、人力资本积累与经济增长:基于中 国的实证研究[J].数量经济技术经济研究,2007(2):37-45. [Yang Jun,Li Xuesong. Education inequality,human capital and economic growth: An empirical study on China[J]. The Journal of Quantitative & Technical Economics,2007(2): 37-45.]   
+[9]原新,金牛.中国人口红利的动态转变——基于人力资源和人 力资本视角的解读[J].南开学报(哲学社会科学版),2021(2): 31-40.[Yuan Xin, Jin Niu. The dynamic transformation of demographic dividend in China: An interpretation from the perspective of human resources and human capital[J]. Nankai Journal (Philosophy,Literature and Social Science Edition),2021(2): 31-40.]   
+[10]Kodrzycki Y K.Migration of recent college graduates:Evidence form the national longitudinal surveyof youth[J].New England Economic Review,2001,1(1): 13-34.   
+[11]Huang TL, Orazem PF,Wohlgemuth D.Rural population growth, 1950—1990: Therolesof humancapital,industrystructurend government policy[J]. ISU General Staff Papers,2002,38(2):109-208.   
+[12]SchachterJP,Franklin R S,Perry M J. Migration and geographic mobility in metropolitan and non-metropolitan America: 1995—2000 [JJ.Economic Development Quarterly,2003,36(1): 43-50.   
+[13]Gotlieb P. Supply or demand,make or buy: Two simple frame works for thinking about a state-level brain drain policy[J]. Economic Development Quarterly,2011,25(4): 303-315.   
+[14] 许泽宁,高晓路,吴丹贤,等.2000—2010年中国农村人力资源 格局的重构[J].地理科学进展,2019,38(8):1259-1270.[Xu Zening,Gao Xiaolu,Wu Danxian,et al.Change of rural human resources from 20to2010inChina[J].Progress inGeography, 2019,38(8): 1259-1270.]   
+[15] 向志强,孔令锋.人力资源是西部大开发的起点—关于区域 发展差距的另一种解释[J].人文地理,2001,16(4):53-56. [Xiang Zhiqiang,Kong Lingfeng. The development of human resources and the development of western region of China[J]. Human Geography,2001,16(4): 53-56.]   
+[16] 李成.经济后进区人力资源与城镇化发展探讨——以陕西北缘 六县市为例[J].经济地理,2001,21(1): 76-80.[Li Cheng.Study on the development of population resources and urbanization in developing area: A case of six counties at the northern edge of Shaanxi Province[J]. Economic Geography,2001,21(1): 76-80.]   
+[17] 赵筱青,郭焕成,谈树成,等.云南省人力资源开发初探[J].经济 地理,2001,2(增1):255-277.[Zao XioqingGuoHuancng Tan Shucheng,et al.Preliminary study on the exploration of humanresourcesin YunnanProvince[J].Economic Geography, 2001,21(Suppl.1): 25277.]   
+[18] 熊剑平,刘承良,王薇.湖北省旅游人力资源结构性评析[J].经 济地理,2007,27(3): 516-521.[Xiong Jianping,Liu Chengliang Wang Wei. Extimate and analysis structure of human resources in Hubei Province[J]. Economic Geography,2007,27(3): 516-521.]   
+[19] 王永刚.试论新疆人力资源开发的现状、成因及其对策[J].新疆 教育学院学报,2003,19(4):1-4.[Wang Yonggang.Discussion on the present situation,causes and countermeasures of Xinjiang human resources development[J]. Journal of Xinjiang Education Institute,2003,19(4): 1-4.]   
+[20]杨振,雷军,段祖亮,等.新疆人口的空间分布特征[J].地理研 究,2016,35(12): 233- 2346.[Yang Zhen,Lei Jun,Duan Zuliang,et al. Spatial distribution of population in Xinjiang[J]. Geographical Research,2016,35(12): 2333-2346.]   
+[21] 杨瑞旭,蔡文伯.新疆区域人力资本的空间分布状况分析[J].科 技与经济,2009,22(5): 8-11.[Yang Ruixu, Cai Wenbo.Analysis on spatial distribution of regional human capital in Xinjiang[J]. Science & Technology and Economy,2009,22(5): 8-11.]   
+[22] 王雅楠,孙慧,何昭丽.教育投入与经济增长关系计量模型分析 -以新疆教育投入为例[J].干旱区地理,2016,39(6):1373- 1379.[Wang Ya'nan,Sun Hui,He Zhaoli.Relation between the education investment and economic growth using econometric model:A case of education in Xinjiang[J].Arid Land Geography,
+
+# 干吴区地理
+
+2016,39(6):1373-1379.]
+
+[23] 曾义民.浅谈新疆人才流失的思考与对策[J].中共伊犁州委党 校学报,2013(1): 83-85.[Zeng Yimin. Reflection and countermeasures on brain drain in Xinjiang[J]. Journal of Yili Prefecture Communist Party Institute,2013(1): 83-85.]   
+[24]李玉江.区域人力资本研究[M].北京:科学出版社,2005:19- 21.[Li Yujiang.Research on regional human capital[M]. Beijing: Science Press,2005:19-21.]   
+[25] 乔家君,鲁丰先.人力资源地域结构分析——以河南省为例[J]. 地域研究与开发,1999,18(4):3-5.[Qiao Jiajun,Lu Fengxian. Analysis of regional structure of human resources: A case study of Henan Province[J]. Areal Research and Development,1999,18 (4): 3-5.]   
+[26] 刘彦随,李进涛.中国县域农村贫困化分异机制的地理探测与 优化决策[J].地理学报,2017,72(1):161-173.[Liu Yansui,Li Jintao. Geographical detection and optimizing decision of the differentiation mechanism of rural poverty in China[J].Acta Geographica Sinica,2017,72(1): 161-173.]   
+[27] 李建刚,雷军,段祖亮,等.新疆县域城镇化时空格局演变特征 及影响因素[J].中国科学院大学学报,2019,36(6):774-783. [Li Jiangang,Lei Jun,Duan Zuliang,et al. Temporal and spatial pattern evolution and influencing factors of urbanization at county level in Xinjiang[J]. Journal of University of Chinese Academy of Sciences,2019,36(6): 774-783.]   
+[28] 王珂靖,蔡红艳,杨小唤.多元统计回归及地理加权回归方法在 多尺度人口空间化研究中的应用[J].地理科学进展,2016,35 (12):1494-1505.[Wang Kejing,Cai Hongyan,Yang Xiaohuan. Multiple scale spatialization of demographic data with multi-factor linear regression and geographically weighted regression models [J]. Progress in Geography,2016,35(12): 1494-1505.]   
+[29]王劲峰,徐成东.地理探测器:原理与展望[J].地理学报,2017, 72(1):116-134.[Wang Jinfeng,Xu Chengdong.Geodetector: Principle and prospective[J]. Acta Geographica Sinica,2O17,2(1): 116-134.]   
+[30]张亚如,张军民.城镇化与经济发展的时空相互作用机制研究 -以新疆为例[J].干旱区地理,2020,43(3):839-848.[Zhang
+
+Yaru,Zhang Junmin. Spatio-temporal interaction mechanism of ur
+
+banization and economic development: A case of Xinjiang[J].Arid Land Geography,2020,43(3): 839-848.]   
+[31] 石天戈,时卉.基于地理探测器的乌鲁木齐城市扩张特征与时 空驱动因素分析[J].干旱区地理,2021,44(3):867-876.[Shi Tiange,Shi Hui. Urban expansion and its temporal and spatial driving forces of Urumqi based on geo-detector method[J]. Arid Land Geography,2021,44(3): 867-876.]   
+[32]吕小柏,李钊.地区人力资源对人均GDP的作用机理研究— 基于武汉市数据[J].华中师范大学学报(自然科学版),2020,54 (3): 477-485.[Lu Xiaobai,Li Zhao.Research on the mechanism of regional human resources’effect on per capita GDP:Based on Wuhan data[J]. Journal of Central China Normal University (Natural Sciences Edition),2020,54(3): 477-485.]   
+[33] 米热阿依·米吉提,居来提·色依提.新疆人力资源开发综合评 价及对策研究[J].乐山师范学院学报,2020,35(8):82-90.[Mijiti Mireayi, Seyiti Julaiti. Research on the comprehensive evaluation countermeasures of human resources development in Xinjiang [J]. Journal of Leshan Normal University,2020,35(8): 82-90.]   
+[34] 杨振,雷军,英成龙,等.新疆县域城镇化的综合测度及空间分 异格局分析[J].干旱区地理,2017,40(1):230-237.[Yang Zhen, Lei Jun, Ying Chenglong,et al. Comprehensive measurement and spatial differentiation pattern analysis of the county urbanization in Xinjiang[J].Arid Land Geography,2017,40(1): 230-237.]   
+[35] 邹亚锋,李亚静,袁志鸿.西部省会城市新型城镇化水平综合测 度研究[J].干旱区地理,2020,43(6):1612-1621. [Zou Yafeng, Li Yajing,Yuan Zhihong. Comprehensive research on new urbanization level of provincial capital cities in western China[J].Arid Land Geography,2020,43(6): 1612-161.]   
+[36] 方创琳.天山北坡城市群可持续发展战略思路与空间布局[J]. 干旱区地理,2019,42(1):1-11.[Fang Chuanglin.Strategic thinking and spatial layout for the sustainable development of urban agglomeration in northern slope of Tianshan Mountains[J].Arid Land Geography,2019,42(1): 1-11.]   
+[37] 刘追,陈艳.新疆省际人口迁移现状及效果评价[J].西北人口, 2013,34(6): 56-63.[Liu Zhui, Chen Yan.Evaluation of the status and effect of provincial population migration in Xinjiang[J]. Northwest Population Journal,2013,34(6): 56-63.]
+
+# Spatial and temporal differences and influencing factors of county human resources in Xinjiang
+
+SUN Jiming1²，LI Jian'gang¹²，LEI Junl²， YANG Zhen³， DUAN Zuliangl (1.StateKeyLaboratoryofDesertandOasisEcologyXinjiangIstituteofEcologandGeography,CineseAcadeyofieces, Urumqi83ol1,Xinjiang,China;2.CollegeofResourcesandEnvironment,UniversityofChineseAcadeyofSciences,Beijing 100049,China;3.ShoolofGeogaphyGeomaticsandPlanning,JiangsuNormalUnversity,Xuzhou22116,Jiangsu,Cia)
+
+Abstract: This paper selects the data of the fifth and sixth censuses of Xinjiang,in China,to estimate regional human resources based on education fund investment.Due to the accumulation of education investment, the calculation method of human resource change, excluding the accumulation of education investment, was set to analyze the spatiotemporal characteristics of human resources without and with the exclusion of education investment. The influencing factors of the time and space distribution of human resources in counties of Xinjiang are discussed using multiple linear regression and geographical detector techniques.This willprovide references for improving the quality of human resources,optimize the spatial allcation of human resources,and provide human resource support to narow the gap between regional economic development and maintain social stability in Xinjiang.The findings are as folows.（1) Without excluding the accumulation of education investment, the total amount of human resources in Xinjiang increased by $54 . 8 9 \%$ from 2000 to 2010,with the characteristics of scatered distribution and increasing spatial differences. The per capita human resources increased by $30 . 7 1 \%$ in 10 years.The regional diferences are mainly reflected in the differences between southern and northern Xinjiang, showing the characteristics of low-value agglomerationand high-value dispersion. (2)Excluding the accumulation of human resource investment in education,the counties (cities and districts）that experienced an increase in the total amount of human resources in Xinjiang from 20o0 to 2010 were mainly concentrated in southern Xinjiang. Meanwhile,those in the northern and eastern Xinjiang experienced a reduction in the total amount of human resources.The improvement degree of per capita human resources in southern Xinjiang was significantly higher than in northernand easterm Xinjiang. (3) Several factors affect the diferences between the spatial and temporal distribution of per capita human resources.Factors,such as employees in secondary and tertiary industries,per capita gross national product,local fiscal revenue,and number of people engaged in health care and social security,are more significantly driven,except for education factors.
+
+Key words: human resources; counties; influencing factors； Xinjiang

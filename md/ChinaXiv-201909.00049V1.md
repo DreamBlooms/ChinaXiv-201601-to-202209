@@ -1,0 +1,260 @@
+# 天津市能源消费碳排放影响因素及其情景预测
+
+李雪梅¹,²，张庆（1．天津城建大学经济与管理学院,天津300384；2．天津城镇化与新农村建设研究中心,天津300384;3．建业集团安阳区域总公司，河南 郑州455000)
+
+摘要：在天津市 2000—2016 年碳排放测算的基础上,运用LMDI模型分析天津市碳排放影响因素。结果表明：经济规模和能源强度对天津市碳排放影响较大，二者对碳排放影响分别表现为促进和抑制作用;通过将经济变量分为高、中、低3种情景,减排变量分为中减排和强减排2种情景,组合得到高增长强减排、中增长强减排等6种发展情景。基于STIRPAT扩展模型,预测6种组合情景下天津市碳排放变化趋势。结果显示，中增长强减排情景模式在保证经济发展的同时,较其余几种模式碳排放峰值及其年份均有优化，是天津市最佳发展模式。
+
+关键词：能源消费；碳排放；影响因素；情景模式；趋势预测；天津
+
+随着社会经济不断发展，能源资源日益消耗，给人类发展提供便利的同时也带来诸多环境问题。我国是世界碳排放量最大的国家，分析确定碳排放影响因素、探索高效的减排方式是目前亟需解决的问题。天津市作为我国首批低碳城市试点，其发展对于强化京津联动，促进京津冀协同发展、落实京津冀环境保护等方面具有重要作用，因此，研究天津市能源消费碳排放影响因素、预测天津市碳排放达峰发展情景，对我国实现碳减排目标和提前达峰有重要的理论和实践意义。
+
+碳排放的研究主要集中在碳排放与经济发展和能源强度的关系研究、碳排放计量与预测、碳排放时空分布特征、碳排放影响因素分析及预测等方面。Ashfaq等[1通过分析印度碳排放量、经济和能源间关系认为，碳排放与能源消耗表现为正相关关系，与经济增长呈现倒U形关系;王仲璃、郭炳南等[2-4]通过建立脱钩模型，分析不同行业碳排放与经济增长的关系，证明碳排放与经济增长间处于弱脱钩状态。Presley 等[5]利用bootstrap方法对利比亚进行研究发现，利比亚的能源消费与经济增长间存在着双向Granger因果关系，单纯的技术进步已不能满足抵消经济增长带来的碳排放[6,通过优化能源需求结构可以有效降低碳排放量，而高速交通、石化原料和钢铁行业是碳排放的重点行业[7]。若要实现减排目标，必须从能源结构、经济结构、人力资本、资本存量和潜在能源效率来优化减排路径[8],而科学的减排政策和减排措施就是要从区域发展的实际出发,探寻适合本区域可持续发展的路径和模式[9]。武红、袁长伟等(10-12]构建空间相关模型对我国碳排放空间分布特征进行分析，认为河北省、山东省、北京等为高碳聚集区域，应设为优先减排区；Tian等[13]认为北京实现碳减排的可靠路径包括优化能源结构和改善能源需求结构,张巍、邓小乐等(14-16)基于STIRPAT模型对不同省份碳排放进行预测，认为优化能源结构、有效控制碳排放强度与经济增长之间的平衡方式等均能推动碳排放提前达峰。本文在对天津市能源碳排放进行研究的基础上，通过设置不同的发展情景，预测天津市碳排放变化趋势，寻求天津市碳减排的最佳模式及减排路径。
+
+# 1研究区概况及研究方法
+
+# 1.1 研究区概况
+
+天津市地处华北平原海河5大支流汇流处（ $1 1 6 ^ { \circ } 4 3 ^ { \prime } \sim 1 1 8 ^ { \circ } 0 4 ^ { \prime } \mathrm { E } , 3 8 ^ { \circ } 3 4 ^ { \prime } \sim 4 0 ^ { \circ } 1 5 ^ { \prime } \mathrm { N } )$ 。其东临渤海，北枕燕山，毗邻首都北京，是我国4大直辖市之一，是中国北方最大的沿海开放城市。
+
+# 1.2 研究方法
+
+1.2.1 碳排放测算本文采用IPCC 温室气体排放指南中关于碳排放的计量方法，对天津市各行业碳排放进行计算。
+
+$$
+C = \sum _ { i = 1 } ^ { n } { E _ { i } \times N C V _ { i } \times C E F _ { i } \times C O F _ { i } \times \frac { 4 4 } { 1 2 } }
+$$
+
+式中： $C$ 为二氧化碳排放总量 $( \mathfrak { t } ) { \ : } ; i$ 为能源品种，为统计方便，本文选取原煤、洗精煤、焦炭、原油、汽油、柴油、煤油、燃料油、其他石油制品、液化石油气、天然气等11种主要能源品种; $E _ { i }$ 为第 $\mathbf { \chi } _ { i }$ 种能源消耗量； $N C V _ { i }$ 为第 $\mathbf { \chi } _ { i }$ 种能源的低位发热值； $\boldsymbol { C E F } _ { i }$ 为第 $\mathbf { \chi } _ { i }$ 种能源的单位热值含碳量； $C O F _ { i }$ 为第 $\mathbf { \chi } _ { i }$ 种能源的碳氧化率。
+
+1.2.2LMDI分解法LMDI（平均迪式分解法）是指数分解法的一种，其优点是分解无残差，使模型结果更具有说服力，因此，本文选取LMDI模型对天津市二氧化碳排放影响因素进行分解。
+
+$$
+C = P \times \left( { \frac { G D P } { P } } \right) \times \left( { \frac { E } { G D P } } \right) \times \left( { \frac { C } { E } } \right)
+$$
+
+式中： $C$ 表示碳排放总量 $\mathrm { ( ~ t ~ ) } { \ : } ; P$ 表示人口规模( $1 0 ^ { 4 }$ 人）； $G D P / P$ 表示人均GDP变化； $E / G D P$ 表示单位GDP能耗; $C / E$ 表示单位能耗碳排放因子。
+
+1.2.3STIRPAT 模型IPAT恒等式最初由公式$I = P F$ 延伸而来，其中， $I$ 表示环境压力， $P$ 表示人口数量， $F$ 表示人均环境压力。鉴于该模型仅将 $\mathbf { \chi } _ { i }$ 个驱动因子间的关系简单的考虑为同比例线性关系，不能反应驱动因子变化时环境压力的变化。为解决这一问题,迪茨在此基础上提出 STIRPAT 模型[17]具体公式为：
+
+$$
+I = a P ^ { b } A ^ { c } T ^ { d } e
+$$
+
+对该模型两端取对数得公式：
+
+$$
+\ln { I } = a + b \ln { P } + c \ln { A } + d \ln { T } + e
+$$
+
+式中： $A$ 表示经济规模； $T$ 表示技术水平； $a$ 表示模型系数； $\textit { b } _ { \boldsymbol { \cdot } } c _ { \boldsymbol { \cdot } } d$ 表示驱动因子相对应的驱动指数； $\boldsymbol { \mathscr { e } }$ 表示模型的误差项。
+
+# 1.3 数据来源
+
+本文所需能耗数据来源于《中国能源统计年鉴》，经济数据来源于《天津市统计年鉴》，各类能源折标煤系数、低位发热值来源于《中国能源统计年鉴》附录和《能源统计报表制度》，各类能源单位热值含碳量、碳氧化率等数据来源于《省级温室气体清单编制指南》。
+
+# 2碳排放影响因素分析
+
+# 2.1 碳排放测算
+
+按照公式(1)计算天津市碳排放量，结果显示，2000—2016年整体呈增长趋势（图1）。2000 年碳排放量为 $3 . 8 1 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ,增长至2016年的 $7 . 2 9 \times 1 0 ^ { 7 }$ t。其中，2000—2009 年碳排放增长稳定且增长幅度最大。2010—2016 年天津市碳排放呈先增长后减少的趋势。2010年碳排放量为 $6 . 2 8 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ，至2014年已增加至 $7 . 6 7 \times 1 0 ^ { 7 }$ t,2015 年和 2016 年碳排放量稍有减少。
+
+8000  
+5000  
+4000  
+3000  
+年 份
+
+# 2.2 模型建立
+
+借鉴已有研究成果[17-18],将天津市碳排放分为排放因子、能源结构、能源强度、产业结构、经济规模和人口规模6个影响因素。
+
+$$
+C = \sum _ { i j } C _ { i j } = \sum _ { i j } { \frac { C _ { i j } } { E _ { i j } } } \times { \frac { E _ { i j } } { E _ { j } } } \times { \frac { E _ { j } } { G D P _ { j } } } \times
+$$
+
+$$
+\frac { G D P _ { _ { j } } } { G D P } \times \frac { G D P } { P } \times P
+$$
+
+式中： $C$ 表示碳排放总量（t)； $P$ 表示常住人口（ ${ 1 0 } ^ { 4 }$ 人）； $G D P / P$ 表示人均碳排放量; $i$ 表示能源种类，本文选择原煤、焦炭等11种能源种类，因此 $i = 1 1 ; j$ 表示产业类型，本文将天津市总产值分为农业、工业等6 个行业，因此 $j = 6 ; C _ { i j }$ 表示第 $j$ 产业第 $\mathbf { \chi } _ { i }$ 种能源消耗产生的碳排放量； $E _ { i j }$ 表示第 $j$ 产业第 $i$ 种能源消耗量， $E _ { j }$ 表示第 $j$ 产业能源消耗总量， $G D P _ { j }$ 表示第 $j$ 产业生产总值;设定 $C _ { 0 }$ 为基期二氧化碳排放量， $C _ { \iota }$ 为第 $\mathbf { \chi } _ { t }$ 期二氧化碳排放量，则
+
+$$
+\begin{array} { c } { { C _ { \phantom { } _ { t } } - C _ { 0 } = \Delta C = \Delta C _ { \phantom { } { e } } + \Delta C _ { _ { N J } } + \Delta C _ { _ { T } } + \Delta C _ { _ { C J } } + } } \\ { { \phantom { D } } } \\ { { \Delta C _ { \phantom { } _ { A } } + \Delta C _ { { P } } } } \end{array}
+$$
+
+表1 2000—2015年天津市整体碳排放影响因素  
+Tab.1Factors affecting the overall carbon emission in Tianjin during the period of 20oo -2015   
+
+<html><body><table><tr><td rowspan="2">年份</td><td colspan="2">能源结构（△CNJ）</td><td colspan="2">能源强度(△Cr)</td><td colspan="2">产业结构(△CcJ)</td><td colspan="2">经济规模（△CA)</td><td colspan="2">人口规模(△Cp)</td><td colspan="2">碳排放增量(△C)</td></tr><tr><td>/104 t</td><td>/%</td><td>/104t</td><td>/%</td><td>/104 t</td><td>/%</td><td>/104t</td><td>1%</td><td>/104 t</td><td>/%</td><td>/104 t</td><td>1%</td></tr><tr><td>2000—2001</td><td>-26.70</td><td>2.8</td><td>-418.61</td><td>44.3</td><td>-47.86</td><td>5.1</td><td>440.23</td><td>46.6</td><td>10.94</td><td>1.2</td><td>-42.00</td><td>100</td></tr><tr><td>2001—2002</td><td>-48.07</td><td>8.0</td><td>-86.98</td><td>14.4</td><td>-31.75</td><td>5.3</td><td>422. 61</td><td>70.3</td><td>11.83</td><td>1.9</td><td>267.64</td><td>100</td></tr><tr><td>2002—2003</td><td>-95.82</td><td>16.2</td><td>-135.40</td><td>22.9</td><td>-30.47</td><td>5.2</td><td>321.23</td><td>54.4</td><td>7.40</td><td>1.23</td><td>66.94</td><td>100</td></tr><tr><td>2003—2004</td><td>141. 01</td><td>6.7</td><td>- 739.72</td><td>35.6</td><td>402.28</td><td>19.8</td><td>742.73</td><td>35.7</td><td>51.38</td><td>2.5</td><td>597.67</td><td>100</td></tr><tr><td>2004—2005</td><td>- 22.74</td><td>1.4</td><td>- 712.97</td><td>45.1</td><td>-35.51</td><td>2.2</td><td>723.08</td><td>45.7</td><td>87.81</td><td>5.6</td><td>39.66</td><td>100</td></tr><tr><td>2005—2006</td><td>62.49</td><td>5.1</td><td>- 305.46</td><td>25.1</td><td>26.58</td><td>2.2</td><td>673.00</td><td>55.2</td><td>151.36</td><td>12.4</td><td>607.96</td><td>100</td></tr><tr><td>2006—2007</td><td>-22.87</td><td>1.4</td><td>-465.74</td><td>28.9</td><td>-85.04</td><td>5.3</td><td>834.50</td><td>51.8</td><td>203.33</td><td>12.6</td><td>464.17</td><td>100</td></tr><tr><td>2007—2008</td><td>- 160.37</td><td>6.3</td><td>-898.49</td><td>35.5</td><td>8.50</td><td>0.3</td><td>1 145.85</td><td>45.3</td><td>316.36</td><td>12.5</td><td>411.86</td><td>100</td></tr><tr><td>2008- -2009</td><td>44.95</td><td>4.3</td><td>-25.92</td><td>2.5</td><td>- 245.31</td><td>23.5</td><td>448.85</td><td>42.9</td><td>280.38</td><td>26.8</td><td>502.95</td><td>100</td></tr><tr><td>2009- -2010</td><td>- 206.47</td><td>6.7</td><td>-1 524.72</td><td>49.5</td><td>-32.25</td><td>1.1</td><td>955.56</td><td>30.9</td><td>364.13</td><td>11.8</td><td>- 443.74</td><td>100</td></tr><tr><td>2010—2011</td><td>-56.22</td><td>2.7</td><td>- 588.47</td><td>28.2</td><td>-108.83</td><td>5.2</td><td>1 061.91</td><td>50.8</td><td>273.31</td><td>13.1</td><td>581.71</td><td>100</td></tr><tr><td>2011—2012</td><td>-17.77</td><td>1.5</td><td>-80.61</td><td>6.9</td><td>-118.87</td><td>10.3</td><td>637.92</td><td>55.1</td><td>303.49</td><td>26.2</td><td>724.16</td><td>100</td></tr><tr><td>2012—2013 1</td><td>- 128.17</td><td>7.6</td><td>-583.53</td><td>34.7</td><td>- 155.42</td><td>9.2</td><td>507.60</td><td>30.2</td><td>308.09</td><td>18.3</td><td>- 51.44</td><td>100</td></tr><tr><td>2013- -2014</td><td>-102.13</td><td>8.3</td><td>-216.32</td><td>17.6</td><td>-228.02</td><td>18.5</td><td>458.65</td><td>37.2</td><td>226.72</td><td>18.4</td><td>138.89</td><td>100</td></tr><tr><td>2014—2015</td><td>-186.08</td><td>19.6</td><td>-16.81</td><td>1.8</td><td>-363.91</td><td>38.4</td><td>231.82</td><td>24.4</td><td>148.96</td><td>15.7</td><td>-186.02</td><td>100</td></tr><tr><td>2015—2016</td><td>- 168.42</td><td>12.4</td><td>-5.66</td><td>0.4</td><td>- 603.26</td><td>44.5</td><td>505.88</td><td>37.3</td><td>72.01</td><td>5.3</td><td>-199.45</td><td>100</td></tr><tr><td>累计</td><td>-993.38</td><td>4.4</td><td>-6 805.4</td><td>30.4</td><td>-1 649.20</td><td>7.4</td><td>10 111.40</td><td>45.2</td><td>2 817.49</td><td>12.6</td><td>3480.97</td><td>100</td></tr></table></body></html>
+
+式中：将碳排放分解为6部分：排放因子 $( \Delta C _ { e }$ ）、能源结构( $\Delta C _ { N J } ^ { \phantom { \dagger } }$ ）、能源强度 $( \Delta { C _ { T } } )$ ）、产业结构( $\Delta C _ { c J } ^ { \phantom { \dagger } } ,$ ）、经济规模( $\Delta C _ { _ A }$ ）、人口规模( $\ : \cdot \ : \Delta C _ { P } \ :$ )、各影响效应的计算公式如下：
+
+$$
+\Delta C _ { X } = \sum _ { i j } { \frac { C _ { i j } ^ { t } - C _ { i j } ^ { t - 1 } } { \mathrm { l n } C _ { i j } ^ { t } - \mathrm { l n } C _ { i j } ^ { t - 1 } } } \mathrm { l n } \left( { \frac { X ^ { t } } { X ^ { t - 1 } } } \right)
+$$
+
+因各种能源的排放因子为定值，排放因子对碳排放的影响始终为0，下文不做分析，式(7）中 $X$ 为上述影响因素中的任何一个。
+
+# 2.3碳排放影响因素
+
+分别选取能源结构、能源强度、产业结构、经济规模和人口规模作为天津市碳排放影响因素（表1），利用LMDI分解法进行分析，结果表明整体上能源结构、能源强度和产业结构对天津市碳排放具有抑制作用，其中能源强度的抑制作用最强；经济规模和人口规模对天津市碳排放具有促进作用，其中经济规模的促进作用最大。
+
+能源结构表示由各类能源占比变化带来的碳排放变化，天津市能源结构对碳排放具有抑制作用，2000—2016年能源结构的累计贡献值为 $\mathbf { - 9 . 9 3 \times }$ $1 0 ^ { 6 } \mathrm { ~ t ~ }$ ,累计贡献率为 $4 . 4 \%$ ,总体贡献力度较小。能源强度对碳排放具有抑制作用，且该抑制作用较强，2000—2016年能源强度的累计贡献值为 $\phantom { 0 } { - 6 . 8 1 } \times$
+
+$1 0 ^ { 7 } \mathrm { ~ t ~ }$ ,累计贡献率为 $3 0 . 4 \%$ ,在天津市所有碳排放抑制因素中作用强度最大，且天津市各年能源强度均为负值，说明天津市能源强度对碳排放具有持续的抑制作用，尽快提高能源利用效率，降低能源强度是降低天津市碳排放的主要途径。2000—2016 年天津市产业结构累计贡献值为 $- 1 . 6 5 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ，累计贡献率为 $7 . 4 \%$ ,影响程度总体较小。考虑到当前天津市工业，尤其是部分高排放行业占比依然较大，是碳减排的重点，调整天津市产业结构、加速产业升级仍是大势所趋。
+
+天津市经济规模对碳排放的影响为正向促进作用,2000—2016年经济规模的累计贡献值为 $1 . 0 1 \times$ $1 0 ^ { 8 } \mathrm { ~ t ~ }$ ,累计贡献率为 $4 5 . 2 \%$ ,对天津市碳排放影响最大，经济规模各年份对碳排放的贡献值均为正值且整体呈增加趋势，表明经济规模对天津市碳排放具有持续增长的正向促进作用。由LMDI分解结果可见，天津市人口规模对碳排放的影响仍呈现正向促进作用，2000一2016年天津市人口规模的累计贡献值为 $2 . 8 2 \times 1 0 ^ { 7 }$ t,累计贡献率为 $1 2 . 6 \%$ ,与经济规模对碳排放的贡献值相似，天津市人口规模的各年份贡献度均为正值，说明天津市人口扩张对碳排放具有持续的促进作用，控制人口增长对于碳减排具有重要作用。
+
+# 3碳排放情景分析及预测
+
+# 3.1 模型建立
+
+天津市能源消耗中煤炭和焦炭的总体使用量占比基本保持在 $5 0 \%$ 左右，因此，在STIRPAT模型中加入煤类使用量占比;天津市工业一直以来都是高耗能、高排放及高污染行业，因此在模型中加入天津市工业产值占比,对STIRPAT模型拓展后得：$\ln I = a + b \ln P + c \ln A + d \ln T + f \ln N J + g \ln C J + e$ (8)式中： $I$ 代表天津市历年碳排放量(t)； $P$ 表示人口规模( ${ 1 0 } ^ { 4 }$ 人），以天津市历年常住人口表示;A表示经济规模，用天津市人均GDP表示; $T$ 表示技术水平,用能源强度表示； $N J$ 表示能源结构，以天津市能源消耗中煤类占比表示； $C J$ 表示产业结构，以天津市工业产值占比表示。
+
+# 3.2 模型检验
+
+为消除多重共线性，本文采用岭回归模型对各变量进行分析，在其标准化矩阵的元素主对角线上人为地加入一个非负因子岭参数 $( k )$ ,提高模型的稳定性。建立岭回归代码，以0～1为分布区域，以0.01为搜索步长，拟合岭迹图，各变量趋于稳定时所对应的 $k$ 值即为最佳值，图2a显示，当 $k = 0 , 2$ 时，各变量均趋于平稳，此时所对应的 $R ^ { 2 }$ 为0.976（图2b），因此选择 $k = 0 . 2$ 对各变量进行拟合，拟合结果见表2。
+
+岭回归模型 $F$ 检验显著( $F = 9 4 . 6 5 8 \$ ， $s i g =$ 0.000），表明模型拟合结果较好，由表2得，拟合结果显示各变量均满足显著性,对应的岭回归方程为：
+
+$$
+\ln C = 0 . \ 1 4 2 \ln A \ + 0 . 4 8 1 \ln P \ - 0 . \ 1 5 4 \ln T +
+$$
+
+$$
+0 . 2 7 6 \mathrm { l n } N J + 0 . 3 2 4 \mathrm { l n } C J + 3 . 9 8 3
+$$
+
+为检验模型准确性，按照公式（9）计算2000—2016年天津市碳排放量预测值（图3），并将预测值与实际值进行对比，检验结果得模型的平均误差为$3 . 2 0 \%$ ，表明模型拟合效果较好。
+
+# 3.3 情景设置
+
+将STIRPAT模型中5个变量分为2组：经济变量和减排变量，其中经济变量包括人口规模、经济规模和产业结构；减排变量包括能源结构和能源强度。对经济变量分别设置低增长、中增长和高增长3种模式,将减排变量设置为：中减排和强减排2种模式。2组变量组合形成6种发展模式：高增长中减排模式、高增长强减排模式、中增长中减排模式、中注：A表示经济规模， $P$ 表示人口规模， $T$ 表示技术水平， $N J$ 表示能源结构， $C J$ 表示产业结构。下同。
+
+![](images/3e971bdb8228a95b40ce8e64e28d9e1e515726734c3e694f9c946332700aeae3.jpg)  
+图2各变量的岭回归分析
+
+# 表2岭回归结果
+
+Tab.2Results of the ridge regression   
+
+<html><body><table><tr><td>变量</td><td>B</td><td>SE(B)</td><td>Beta</td><td>B/SE(B)</td></tr><tr><td>lnA</td><td>0.142</td><td>0.081</td><td>0.341</td><td>17.488</td></tr><tr><td>lnP</td><td>0.481</td><td>0.041</td><td>0.294</td><td>11.821</td></tr><tr><td>lnT</td><td>-0.154</td><td>0.010</td><td>-0.295</td><td>-16.101</td></tr><tr><td>lnNJ</td><td>0.276</td><td>0.170</td><td>0.071</td><td>1.626</td></tr><tr><td>lnCJ</td><td>0.324</td><td>0.151</td><td>0.089</td><td>2.139</td></tr><tr><td>Constant</td><td>3.983</td><td>0.340</td><td>0.00</td><td>11.697</td></tr></table></body></html>
+
+注：A表示经济规模， $P$ 表示人口规模， $T$ 表示技术水平， $N J$ 表示能源结构， $C J$ 表示产业结构， $B$ 表示非标准化系数， $S E ( B )$ 表示标准差，Beta表示标准化系数， $. B / S E ( B )$ 表示检验值。
+
+![](images/a901dc93f1aa7db482e9d001f4d2ef052ef5453625ad3184885c1a90e27412c8.jpg)  
+Fig.2Analysis on the ridge regression of the variables   
+图3碳排放的预测值与实际值比较   
+Fig.3Compared results of the predicted and measured values of carbon emission
+
+增长强减排模式、低增长中减排模式和低增长强减排模式。
+
+按照《天津市人口发展十三五规划》中常住人口发展目标设置中增长模式下天津市常住人口发展，假设中增长模式下天津市2017—2020 年常住人□年均增长率为 $2 . 5 1 \%$ ,根据国内相关预测，我国人口将在2030年达到峰值，之后开始下降，以此趋势预测2021—2040 年每5a天津市常住人口增长率分别为 $1 . 3 \% . 0 . 1 \% . - 1 \%$ 和 $- 1 . 8 \%$ （表3）。按照《天津市十三五规划》中2020 年天津市常住人口约为 $1 . 8 \times 1 0 ^ { 7 }$ 人的目标设置高增长模式下人口增速，则2017一2020年天津市常住人口年均增长约为 $3 . 6 \%$ ,并假设高、低增长模式较中增长模式，常住人口年均增长率约在中增长模式的基础上浮动1.1个百分点左右。
+
+随着经济进入新常态，天津市人均GDP增速逐渐减小。2016年较 2015年约增长 $7 . 6 5 \%$ ，假设2017—2020 年增长率约为 $7 . 5 \%$ ,借鉴刘晴川[16]等的相关研究，将天津市人均GDP增速设置为每5a约下降1个百分点，则到2036—2040年天津市人均GDP增长率约为 $3 . 5 \%$ ；《天津市十三五规划》预测2020 年天津市GDP为 $2 . 4 9 \times 1 0 ^ { 1 2 }$ 元,按照当前人口发展速度可以预测，天津市人均GDP年增长率约为$5 . 4 \%$ ,将该速度设置为低增长模式下天津市人均GDP 增长速度，假设2017—2020 年中增长模式下天津市人均GDP增速为 $7 . 5 \%$ ,低增长模式为 $5 . 4 \%$ ，按照该变化规律，高增长模式下天津市人均GDP年增长率约为 $9 . 5 \%$ 。
+
+表3不同情景下天津市经济变量变化  
+Tab.3Changes of the economic variables in Tianjin under different scenarios   
+
+<html><body><table><tr><td></td><td colspan="3">低增长模式</td><td colspan="3">中增长模式</td><td colspan="3">高增长模式</td><td colspan="2">中减排模式</td><td colspan="2">强减排模式</td></tr><tr><td>年份</td><td>常住人 口年均 增长率 /%</td><td>人均 GDP年 均增长 率/%</td><td>工业产 值占比 /%</td><td>常住人 □年均 增长率 /%</td><td>人均 GDP年 均增长 率/%</td><td>值占比 /% 工业产</td><td>常住人 口年均 增长率 /%</td><td>人均 GDP年 均增长 率/%</td><td>工业产 值占比 /%</td><td>煤类 占比 /%</td><td>能源强度 /[t·(104 元）-1]</td><td>煤类 占比 /%</td><td>能源强度 /[t·(104 元）-1]</td></tr><tr><td>2017—2020</td><td>1.4</td><td>5.4</td><td>33.1</td><td></td><td>2.5 7.5</td><td></td><td>34.1 3.6</td><td>9.5</td><td>35.2</td><td>38.3</td><td>0.17</td><td>37.2</td><td>0.14</td></tr><tr><td>2021—2025</td><td>0.2</td><td>4.5</td><td>27.5</td><td>1.3</td><td>6.5</td><td>28.6</td><td>2.4</td><td>8.5</td><td>29.6</td><td>33.0</td><td>0.14</td><td>32.0</td><td>0.11</td></tr><tr><td>2026—2030</td><td>-1.0</td><td>3.5</td><td>22.3</td><td>0.1</td><td>5.5</td><td>23.2</td><td>1.2</td><td>7.5</td><td>24.3</td><td>28.5</td><td>0.11</td><td>27.5</td><td>0.08</td></tr><tr><td>2031—2035</td><td>-2.1</td><td>2.5</td><td>16.8</td><td>-1.0</td><td>4.5</td><td>17.7</td><td>0.1</td><td>6.5</td><td>18.8</td><td>23.7</td><td>0.09</td><td>22.6</td><td>0.06</td></tr><tr><td>2036—2040</td><td>-2.8</td><td>1.5</td><td>11.5</td><td>-1.8</td><td>3.5</td><td>12.4</td><td>-0.6</td><td>5.5</td><td>13.5</td><td>20.1</td><td>0.07</td><td>19.1</td><td>0.04</td></tr></table></body></html>
+
+注：工业产值占比、煤类占比、能源强度值均代表各阶段末工业产业所占比重，如 $3 3 . 1 \%$ 代表2020 年天津市工业产值占比为
+
+天津市工业占比整体呈现不断下降趋势，天津市工业产值占比整体上均以每年约1.1个百分点的速度下降，假定中增长模式下天津市工业占比仍以年均1.1个百分点下降,借鉴已有研究[19],本文设定高增长和低增长模式下天津市工业占比分别在中增长模式的基础上浮1.1个百分点左右。
+
+现阶段煤类能源仍是天津市主要能源，降低煤类等非清洁能源的消耗量已是大势所趋。2000一2016年天津市煤类消耗量年均下降约1个百分点，假设中增长中减排模式下天津市煤类占比仍按照此增速变化，则至2050 年煤类占比约为 $2 0 . 1 \%$ 。借鉴已有研究[20],本文设定强减排模式下天津市煤类占比在中减排基础上变化1个百分点左右。
+
+依据《天津市节能十三五规划》中规定，2020 年能源强度较2015年降低 $1 7 \%$ 的目标设置中减排模式下能源强度变化，则中减排模式下天津市2020 年能源强度约为 $0 . 1 7 \mathrm { ~ t ~ } \cdot ( 1 0 ^ { 4 } \mathrm { ~ \overrightarrow ~ { ~ } ~ } ) ^ { \mathrm { ~ } - 1 }$ ,年增长率约为$- 0 . 0 4 \%$ ,并假设此后天津市能源强度仍以此速度继续变化，则至2040年天津市能源强度约为$0 . 0 7 \mathrm { ~ t ~ } \cdot ( 1 0 ^ { 4 } \mathrm { ~ \overrightarrow ~ { ~ } ~ } ) ^ { \mathrm { ~ } - 1 }$ ;参考林伯强等[2]关于不同情境下能源强度的变动范围，本文假定强减排模式下天津市能源强度在中减排模式上变动0.3个百分点。
+
+以上述不同发展情景为依据，将高增长中减排、高增长强减排等6种发展模式对应数据代入模型，预测不同情景下天津市碳排放状况，结果见图4。
+
+# 3.4总体碳排放情景预测
+
+图4显示，6种模式下天津市碳排放均呈现先增加后减少趋势，整体上看，高增长中减排模式下天津市碳排放量最大,峰值为 $9 . 7 9 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ,达峰年份为2040年，在几种模式中达峰最晚；低增长强减排模式下碳排放量最小，峰值为 $7 . 4 8 \times 1 0 ^ { 7 } \mathrm { t }$ ，该模式
+
+中增长中减排 中增长强减排高增长中减排 高增长强减排低增长中减排 低增长强减排100000T/非 9 000 70006000500040003000迎年份
+
+达峰年份为2024年，在6种模式中最先达峰。因此，6种模式下天津市碳排放峰值在 $9 . 7 9 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ 和$7 . 4 8 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ 内浮动,达峰年份在 2040 年和 2024 年间变动。
+
+低增长中减排模式下天津市年碳排放量在2020—2028 年呈逐渐上升趋势变化,2028 年碳排放达到峰值,峰值为 $7 . 8 \times 1 0 ^ { 7 }$ t（表4），较中增长中减排模式和高增长中减排模式分别早达到峰值2a和$1 2 \mathrm { ~ a ~ }$ ,峰值分别比中增长中减排模式和高增长中减排模式低 $5 . 5 2 \times 1 0 ^ { 6 } \mathrm { ~ t ~ }$ 和 $1 . 9 5 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ；低增长强减排模式下天津市碳排放于2024年达到峰值，峰值大小为 $7 . 4 8 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ,较中增长强减排模式和高增长强减排模式分别提前1a和11a达到峰值，峰值分别较中增长强减排模式和高增长强减排模式少 $3 . 7 1 \times$ $1 0 ^ { 6 } \mathrm { ~ t ~ }$ 和 $1 . 3 8 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ,说明在保持减排力度不变的情况下，经济增速变化与碳排放峰值及达峰年份均有关系，且经济增速越高，碳排放达峰年份越晚，峰值越大。中减排前提下，经济中增长和高增长模式分别比低增长模式碳排放峰值高 $7 \%$ 和 $2 4 \%$ 左右同理，以强减排为前提下，经济中增长和高增长分别。比低增长模式的碳排放峰值约高 $5 \%$ 和 $18 \%$ ，说明与中减排模式相比，强减排模式下经济发展对于碳排放峰值的促进作用较小，因此，加强减排力度，可以在一定程度上缓解经济增长带来的碳排放量。
+
+表4不同情景模式下天津市碳排放比较  
+Tab.4Compared results of carbon emission in Tianjin under different scenarios   
+
+<html><body><table><tr><td>模式</td><td>达峰年份 峰值/104t</td></tr><tr><td>低增长中减排</td><td>2028 7 835.75</td></tr><tr><td>中增长中减排</td><td>2030 8 387.82</td></tr><tr><td>高增长中减排</td><td>2040 9 790.32</td></tr><tr><td>低增长强减排</td><td>2024 7 480.74</td></tr><tr><td>中增长强减排</td><td>2025 7 852.23</td></tr><tr><td>高增长强减排</td><td>2035 8 858.66</td></tr></table></body></html>
+
+低增长强减排模式下天津市碳排放达峰年份为2024年，比低增长中减排模式提早 $_ \textrm { 4 a }$ ，比低增长中减排模式峰值低 $3 . 5 5 \times 1 0 ^ { 6 } \mathrm { ~ t ~ }$ ；中增长强减排模式碳排放达峰年份为2025 年，峰值为 $7 . 8 5 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ,比中增长中减排模式早达峰 $5 \mathrm { ~ a ~ }$ ,峰值比中增长中减排模式小 $5 . 3 6 \times 1 0 ^ { 6 } \mathrm { ~ t ~ }$ ;高增长强减排模式达峰年份比高增长中减排模式提前 $5 \mathrm { ~ a ~ }$ ,且峰值比高增长中减排模式低 $9 . 3 2 \times 1 0 ^ { 6 } \mathrm { ~ t ~ }$ ;表明当经济增速不变的情况下，碳排放与减排力度有直接关系，减排力度越大，达峰年份越早，峰值越小；经济低速增长模式下，天津市强减排比中减排峰值降低 $4 \%$ 左右，经济中速增长和高速增长模式下，强减排峰值分别比中减排模式低 $6 \%$ 和 $9 \%$ 左右，表明与经济高速增长模式相比，中速和低速增长模式下，强减排模式降低天津市碳排放峰值的效果更为明显，因此，在保持强减排的模式下，适当降低天津市经济增速对于降低天津市碳排放至关重要。
+
+根据上述分析，单从经济增速方面看，经济增速越低，碳减排效果越好，考虑到天津市作为“一带一路”重要节点城市，京津冀协同发展的重要成员，目前已经在自贸区建设，先进制造业研发转化等方面取得一定优势，因此，低速经济增长可能不适用于天津市发展;单从减排力度来看，减排力度越强，碳排放量越低，我国碳排放权交易市场的启动、《国务院关于印发“十三五”控制温室气体排放工作方案的通知》《国家重点节能低碳技术推广目录》多项政策及文件均表明我国碳减排力度正在不断增强，且天津市作为我国首批低碳城市试点，已在大力推进产业体系低碳发展，着力控制高污染行业碳排放，并大力实施植树造林，增加碳汇面积。另外，对新建民用建筑实行 $100 \%$ 绿色建筑标准，大力提高清洁能源公交车数量，天津市“十二五”“十三五"规划节能减排目标均高于我国目标，由此判断中减排模式已不适用天津市发展，因此，选择中增长强减排模式为天津市最佳发展模式。
+
+# 4结论与建议
+
+# 4.1结论
+
+（1）2000—2016年天津市碳排放整体不断增加,碳排放量由2000 年的 $3 . 8 0 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ 增长至2016年的 $7 . 2 9 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ ,工业碳排放占比不断上升，由2000年的 $6 3 . 8 1 \%$ 增长至 $7 2 . 7 1 \%$ ,原煤、焦炭使用量占比始终保持在 $5 0 \%$ 以上，是当前天津市主要能源。
+
+（2）选取经济规模、人口规模等5个指标分析天津市碳排放影响因素，结果显示经济规模和能源强度对天津市碳排放的累计贡献率高达 $7 5 . 6 \%$ ，是对天津市碳排放影响较大的因素，二者对天津市碳排放表现为促进和抑制作用。
+
+（3）通过情景分析法预测6种组合模式下天津市碳排放变化趋势，结果显示中增长强减排模式下天津市碳排放在2025 年达峰，峰值为 $7 . 8 5 \times 1 0 ^ { 7 } \mathrm { ~ t ~ }$ 该模式在保证经济正常发展的同时，较其余几种模式的峰值及达峰时间均有减少或缩短，是天津市发展的最佳模式。
+
+# 4.2建议
+
+4.2.1调整能源结构,提高能源利用效率严格控制煤炭、柴油等化石能源的使用量，尤其在工业、交通运输业等高排放行业内的使用量，完善天然气管道、光伏电站等清洁能源的基础设施建设，控制清洁煤生产、配送及使用系统，尽快落实煤改燃、煤改电等项目，扩大清洁能源使用范围，尽量减轻各领域内对高排放能源的依赖程度，实施相应的奖惩制度，优化天津市能源结构，这对降低天津市碳排放十分重要。
+
+4.2.2优化产业结构,促进服务业发展调整工业内部结构，推动天津市产业结构优化升级。一方面控制天津市高污染高排放行业，尤其是钢铁、化工等重工业的碳排放量，通过制定分行业、分企业的碳排放管理制度，加快实施产能置换、兼并重组、升级改造等工作，淘汰落后产能；另一方面大力发展制造业和服务业，引领其不断向高端产业拓展，加速天津市产业优化升级，壮大高端产业规模，拓宽高端产业市场，形成产业集群，降低天津市碳排放量。
+
+4.2.3加强减排力度,完善天津市减排体系加强碳减排力度主要从政策调控入手，面对当前碳排放不断增加的形式，天津市减排任务仍较严峻，政府应在此基础上针对不同行业或企业制定具体可行的碳减排任务，形成系统完善的减排体系，扩大碳排放交易市场，建立全面灵活的碳排放交易平台。
+
+# 参考文献(References）：
+
+[1]Ashfaq A,Zhao Y H,Muhammad S,et al. Carbon emissions energy consumption and economic growth:An aggregate and disaggregate analysis of the Indian economy[J].Energy Policy,2016,96:131- 143.
+
+[2]王仲璃.京津冀地区能源消费、碳排放与经济增长关系实证研 究[J].工业技术经济,2017,36（1）:82-92.[Wang Zhongyu. The empirical study on the relationship between energy consumption,carbon emissions and economic growth in Beijing-Tianjin-Hebei[J].Industrial Technology & Economy,2017,36（1）:82- 92.]
+
+[3]郭炳南,林基,刘堂发.长三角地区二氧化碳排放与经济增长脱钩关系的实证研究[J].生态经济，2017，33（4）：25－29，[Guo Bingnan,LinJi,Liu Tangfa.An empirical analysis of decou-pling relations between economic growth and carbon dioxide emis-sions in Yangtze River Delta Region[J].Ecological Economy,2017,33(4) :25-29.]
+
+[4]李彩云，陈兴鹏,张子龙,等.敦煌市旅游业碳排放与经济增长的耦合关系分析[J].生态科学，2016，35（1）：109-116.［LiCaiyun,Chen Xingpeng,Zhang Zilong,et al.Estimation of tourismcarbon emission and its decoupling with tourism development inDunhuang[J].Ecological Science,2016,35（1） :109-116.]
+
+[5]Presley K,Wesseh J,Babette Z.Causal independence between energy consumption and economic growth in Liberia:Evidence from a non-parametric bootstrapped causality test[J].Energy Policy, 2012,50:518-527.
+
+[6] Haberl H,Krausman F,Gingrich S.Ecological Embeddedness of the Economy[J].Economic and Political Weekly,20o5,41（47）： 4 896 -4904.
+
+[7]Chang YF,Lewis C,Lin S J.Comprehensive evaluation of industrial $\mathrm { C O } _ { 2 }$ emission （1989 -2004）in Taiwan by input-output structural decomposition[J]. Energy Policy,2008,36（7）:2 471- 2480.
+
+[8]钟超,刘宇,汪明月,等.中国碳强度减排目标实现的路径及可 行性研究[J].中国人口·资源与环境,2018,28（10)：18-26. [Zhong Chao,Liu Yu,Wang Mingyue,et al.Feasibility studyon China's potential paths to intensity-based carbon reduction targets [J]．China Population Resources and Environment,2O18,28 (10):18- 26.]
+
+[9] WeiJ,Huang K,Yang G S,et al.Driving forces analysis of energyrelated carbon dioxide ( $\mathrm { C O } _ { 2 }$ ）emissions in Beijing:An input-output structural decomposition analysis[J]. Journal of Cleaner Production,2017,163:58-68.
+
+[10]武红.中国省域碳减排：时空格局、演变机理及政策建议-基于空间计量经济学的理论与方法[J].管理世界，2015（11)：3-10.[Wu Hong.Provincial carbon emission reduction of China：Spatiotemporal pattern,evolution mechanism and policy proposalsbased on the theory and method of spatial econometrics[J].Man-agement World,2015（11） :3-10.]
+
+[11]袁长伟,张倩，芮晓丽，等.中国交通运输碳排放时空演变及差异分析[J].环境科学学报，2016，36（12）：4555-4562.[Yuan Changwei,Zhang Qian,Rui Xiaoli,et al.Spatiotemporal e-volution and difference of transport carbon emissions in China[J].Acta Scientiae Circumstantiae,2016,36(12）:4 555-4 562.]
+
+[12]刘永伟,闫庆武.基于GIS的中国碳排放时空分布规律研究[J].安全与环境学报,2015,15（3）：199-205.[LiuYongwei,Yan Qingwu.On the spatio-temporal distribution regularity of thecarbon emissions based on the GIS in China[J]. Journal of Safetyand Environment,2015,15(3）:199-205.]
+
+[13]Tian X,Chang G M,Tanikawa H,etal. Structural decomposition analysis of the carbonization process in Beijing:A regional explana tion of rapid increasing carbon dioxide emission in China[J].En ergy Policy,2013,53(1) :279-286.
+
+[14]张巍.基于STIRPAT模型的陕西省工业碳排放量预测和情景 分析[J].可再生能源，2017，35（5）：771-777.[ZhangWei. Prediction and scenario analysis of industrial carbon emissions in Shaanxi Province based on STIRPAT model[J].Renewable Energy Resources,2017,35(5):771-777.]
+
+[15]邓小乐，孙慧.基于STIRPAT模型的西北五省区碳排放峰值预 测研究[J].生态经济,2016,32（9）:36-41.［DengXiaole,Sun Hui.Forecast of the northwest five provinces’carbon emissions based on STIRPAT model[J].Ecological Economy,2016,32（9）: 36 -41.]
+
+[16]刘晴川,李强,郑旭煦.基于化石能源消耗的重庆市二氧化碳 排放峰值预测[J].环境科学学报，2017,37(4)：1582-1593. [Liu Qingchuan,Li Qiang,Zheng Xuxu.The prediction of carbon dioxide emissions in Chongqing based on fossil fuel combustion[J] Acta Scientiae Circumstantiae,2017,37(4):1 582-1 593.]
+
+[17」王长建，汪菲，张虹鸥.新疆能源消费碳排放过程及其影响因 素——基于扩展的Kaya 恒等式[J].生态学报,2016,36（8）： 2151-2163.[Wang Changjian,Wang Fei,Zhang Hongou.The process of energy-related carbon emissions and influencing mechanism research in Xinjiang[J].Acta Ecologica Sinica,2016,36 (8):2 151-2163.]
+
+[18]顾阿伦，何崇恺，吕志强，等.基于LMDI方法分析中国产业结构变动对碳排放的影响[J].资源科学，2016,38（10)：1861-1 870.［Gu Alun,He Chongkai,Lu Zhiqiang,et al.Industrialstructure changes impacts on carbon emissions in China based onLMDI method[J].Resources Science,2016,38（10）:1 861 -1 870.]
+
+[19]刘彦君.京津冀地区碳排放峰值预测与分析[D].北京：华北 电力大学,2O17.［Liu Yanjun.The Forecast and Analysis of Carbon Emissions’Peak Value in the Beijing-Tianjin-Hebei Region [D].Beijing:North China Electric Power University,2017.]
+
+[20]张巍，尚丽.陕西省工业碳排放影响因素分析与启示[J].生态 经济,2017,33（5）:80-83.[ZhangWei,ShangLi.Impact factors analysis and enlightenment of industrial carbon emission in Shaanxi Province[J].Ecological Economy,2017,33（5）:80-83.]
+
+[21]林伯强，刘希颖.中国城市化阶段的碳排放：影响因素和减排 策略[J].经济研究,2010,45（8）:66-78.［LinBoqiang，Liu Xiying.China's carbon dioxide emissions under the urbanization process:Influence factors and abatement policies[J].Economic Research Journal,2010,45(8) :66-78.]
+
+# Factors Affecting Carbon Emission from Energy Consumption in Tianjin
+
+LI Xue-mei1²， ZHANG Qing³ (1. College of Economics and Management,Tianjin Chengjian University,Tianjin 300384,China;   
+2.Tianjin Center of Urbanization and New Rural Construction Research,Tianjin 3oo384,China;   
+3．Anyang Jianye Construction Group Co,. Ltd,Zhengzhou 45500o,Henan,China)
+
+Abstract：The LMDI model was applied to analyze the factors afecting carbon emission from energy consumption in Tianjin from 2O to 2O16 basedon the estimated carbon emission data.Theresults indicated that the carbon emission in Tianjin was significantly affcted by the scale of economyand energy intensity,which played the promotionand inhibition ofcarbon emission respectively.On whichthe economic variables were clasified into high,medium and low scenarios,and theemission reduction variables were divided into two modes of medium emision reduction and strong emision reduction.By means of thecombination,6development modes including the high economic growth with strong emision reduction and the medium economic growth with strong emission reduction were obtained.Basedonthe STIRPATextended model,the trend of carbon emissions in Tianjinunderthe6combination modes was predicted.The results showed that the mode of medium economic growth with strong emission reduction was the best for maintaining the economic development in Tianjin,and the carbon emision peaks and their occurring years were optimized compared to those of other modes.
+
+Key words:energy consumption；carbon emisson；affcting factor； scenario mode；trend prediction； Tianjin

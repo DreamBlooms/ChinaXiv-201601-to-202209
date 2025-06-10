@@ -1,0 +1,299 @@
+[
+    {
+        "type": "text",
+        "text": "Development of an ultrafast detector and demonstration of its oscillographic application\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Houzhi Cai,‘ Qiuyan Luo,1 Kaixuan Lin,‘ Dong Wang,1 Junkun Huang,‘ and Jinyuan Liu 1,† ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Laboratory of Optoelectronic Devices and Systems of Ministry of Education and Guangdong Province, College ofPhysicsand Optoelectronic Engineering,Shenzhen University,Shenzhen518060,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A dilation X-ray detector (DIXD) based on time dilation and microchannel plate (MCP) gated technology has been reported. The DIXD passes a driving pulse along the transmission photocathode (PC） to obtain a dilated electron signal and finally achieves a high time resolution of 12 ps.Furthermore, the waveform of the PC driving pulse can be obtained using the DIXD,and a DIXD oscillographic function can be obtained. An experiment is presented to demonstrate the DIXD oscilloscope. The waveform of the PC driving pulse from points $t _ { I }$ to $t _ { I 2 }$ is achieved by the DIXD. The waveform agrees well with that measured by a high-speed oscilloscope with a difference of less than $6 \\%$ . The maximum theoretical bandwidth of the DIXD oscilloscope is theoretically studied. The bandwidth is limited by the potential difference between the PC and mesh.When the potential difference is $3 . 4 \\mathrm { k V }$ , the theoretical limiting bandwidth is $1 0 0 0 ~ \\mathrm { G H z }$ .The bandwidth increases with an increase in the potential difference. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Inertial confinement fusion, Ultrafast diagnosis, Dilation $\\mathrm { \\Delta X }$ -ray detector, X-ray framing camera, Microchannel plate ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deuterium and tritium can be used in nuclear fusion to release large amounts of energy.Inertial confinement fusion (ICF)and magnetic confinement fusion (MCF)may be efective methods forachieving nuclear fusion [1-9].In ICF or MCF experiments, plasma diagnostics technology should be used to obtain data for analyzing the fusion process.Twodimensional ultrafast X-ray cameras based on gated microchannel plate (MCP)are widely used in ICF experiments to image the implosion shape and measure the peak $\\mathrm { \\Delta } \\mathrm { X }$ -ray emission [3]. Such cameras have been successfully applied in ICFfacilities such as SG-II,NIF,and OMEGA over several decades [10-13].Theyachievea hightime resolutionof 35-100 ps by conveying an ultrashort electrical pulse onto an MCP microstrip transmision line to gate photoelectrons [14-16].However,for the requirements of current ICF that always stepat a higher level,for example,the selfemision process with a1OO ps duration,the time resolution cannot be served.Faster cameras should be developed to diagnose such ultrafast processs [17]. Recently,a camera named the dilation X-ray imager (DIXI) was developed, and its time resolution was improved to greater than10 ps by using time-dilation technology[18-20].Prosser first introduced electron beam velocity dispersion in1976 to improve the electronic detector bandwidth [21-23].This technology was applied to the DIXI in2O10by Hilsabeck etal.[18].The DIXI dilatesthe electron signal converted fromthe incoming X-ray signal.Then, the temporall magnified electron signal is sampled by a time-resolved MCP imager to achieve a high time resolution.The electron signal time-dilation unit contains a transmisson photocathode (PC),grounded anode mesh,and electron drift tube.A negative high DC voltage plus a dilating pulse are applied to the PC to achieve a time-dependent electric field between the PC and mesh，which results in electron energy dispersion.The photoelectrons born earliercan acquire larger energies than thoseborn later,and theydriftfaster in the region from the mesh to the MCP.Therefore,the time duration of the electron signal is magnified upto 5O times. Subsequently,the temporally magnified electron signal is sampled bya 2O0 ps time-resolved MCP imager [20].The DIXI time resolution is greatly improved because of the temporally magnified electron signal. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study,a dilation X-ray detector (DIXD) is developed,the waveform of the driving pulse on the PC i: measured using the DIXD,and the oscillographic function of the DIXD is presented.Theoretical analysis anc experimental verification are performed to demonstrate the performance of the DIXD oscilloscope.This study provides a novel approach for the development of new high-speed oscilloscopes.The diferences between our DIXD and Hilsabeck's DIXI are the electron imaging system and time-resolution measurement method.In the DIXI,an electron maging system consisting of four solenoid magnet coils is used to image electrons from the PConto the MCP.Coils with large excitation currents are used to generate a 37O Gaussaxial uniform magnetic field, which achieves a spatial resolution of approximately $5 1 0 ~ { \\mu \\mathrm { m } }$ for the Au PC with a three-fold image demagnification [20]. However,a large excitation currnt may generate a considerable amount of Joule heat.Fortunately，the pulsed excitation currntcan be used to reduce the Joule heat.Engelhorn et al.successfullyused a pulse with a duration of ${ \\sim } 1 { - } 1 0 ~ \\mathrm { m s }$ and a peak current of ${ \\sim } 1 \\ \\mathrm { k A }$ to excite magnet coils [17]. In the DIXD,a short magnetic lens with a large aperture was employed, which generated an axisymmetric non-uniform magnetic field.The electrons were imaged from the PConto the MCP at an image ratio of1:1.Such a short magnetic lens has been frequentlyapplied in streak cameras and electron microscopy to improve the optical-electronic imaging quality or focusing ability[24-26].The short magnetic lens was excited by asmallcurent to obtain a high spatial resolution,thereby reducing the Joule heat. Certainly,ashort magnetic lens has the disadvantage of non-uniform spatial resolution.The spatial resolution worsens with increasing off-axis distances.Three or more short magnetic lenses should be used to improve the spatial resolution of the PC edge. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Another difference is the time resolution measurement method. In the DIXI,a Mach-Zehnder interferometer is used to measure the time resolution.Anultraviolet (UV)light pulse is passed through a Mach-Zehnder interferometer to output a pairof pulses.Each leg of the interferometer contains an aperture in the shape of an arrow.The arrow aperture inthefixed-length legof the interferometer is horizontal,whereas thatinthe variable-lengthleg is vertical. The two laser pulse outputs from the interferometer are detected bythe DIXI, which outputs a horizontal arrow image and a vertical arrow image.The arrival time of the laser pulse which produced the horizontal arrow image is set at the center of the DIXI gating time interval.The optical path length of the vertical-arrow UV pulse is then adjusted.The vertical arrow image appears and then disappears over a ${ \\sim } 5$ ps temporal adjustment, which demonstrates that the DIXI has a 5 ps time resolution[18].Six images were used toobtain DIXI time resolution.Ithas ashot-to-shot timing jitter, such as the PCdriving pulse jitter,MCPultrashort pulse jiter,or laser jitter,which could affect the 1.66 ps optical path time between the two adjacent images.The jiter leads to an unstable optical path time and might cause measurement errors.In this study,DIXD time resolution is acquiredusing a fiberbundle comprising 3O fibersof diferent lengths.Time resolution is obtained from the fiber-gating image in a singleshot.In our method,the measurement error caused by shot-to-shot timing jitter can be avoided. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This study is an extension of our previous study[27].An earlier study described a dilation UV imager with timeresolution measurements.ThePC was developedona fused silica window ina UV camera.The fused silica window blocked X-ray transmisson to the PC so that the camera could notbe used for X-ray measurements in the ICF.It was used for dilation performance testing with a UVlaser in the laboratory.In this study,the DIXD is improved froma UV camera, and a gold PC is coated onto a $\\mathrm { C _ { 8 } H _ { 8 } }$ film to achieve an $\\mathbf { \\boldsymbol { X } }$ -ray PC. Furthermore,while previous studies investigated the performance of the camera with a focus on improving its performance,this study focuses on the oscillographic application of the DIXD. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6251c1ba457040acfe0d3f2e7d3783036759a16603438644029aed15f73cb849.jpg",
+        "img_caption": [
+            "II.DETECTORDESCRIPTIONANDOSCILLOGRAPHICPRINCIPLE ",
+            "Fig.1. (a) DIXD diagram. (b) DIXD photograph. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The DIXD comprises a temporally magnified electron pulse device, a sampling MCP imager, a magnetic lens, and a fast pulse generator,as shown inFigure 1.The temporally magnified electron pulse device increases the time duration of the photoelectron pulse emited from the PC.The device consists of three transmission photocathodes,an anode mesh,and a drift tube.The photocathodes are prepared by depositing $8 0 \\ \\mathrm { n m }$ Au on a $\\mathrm { C _ { 8 } H _ { 8 } }$ film with a $5 6 ~ \\mathrm { m m }$ diameter. Each PC has a microstrip transmission line structure and a width of $8 \\mathrm { m m }$ ,and a $2 . 8 ~ \\mathrm { m m }$ gap is left between PCs.A nickel mesh with a $1 0 \\ : \\mathrm { l p / m m }$ spatial frequency and $5 6 ~ \\mathrm { m m }$ diameter is placed $1 . 8 ~ \\mathrm { m m }$ from the PC. The mesh is parallel to the PCand the ground potential.The PCis applied with a driving pulse and biased byanegative DC high voltage,which produces a varied electric field toachieve electron energy dispersion.The electrons then enter the drift tube between the mesh and MCP.The $5 0 ~ \\mathrm { c m }$ drift tube produces a temporal magnification of the electron pulse because of the higher flight speed of the front electrons.However,the electron pulse is spatially dispersed while it movesthrough the drift tube.To obtain suficient spatial resolution,a magnetic lens is used to image the electron pulse from the PC to the MCP.Anannular magnetic lens composed of asoft iron shieldand 120o-turn copper coils is placed in the middle of the PC and MCP.The axial length, inner diameter,and outer diameter are $1 0 0 ~ \\mathrm { { m m } }$ ， $1 6 0 ~ \\mathrm { { m m } }$ and $2 5 6 ~ \\mathrm { m m }$ ,respectively.A circular slit with a width of $4 ~ \\mathrm { m m }$ in the inner circumference is used for the magnetic field leaking from the soft iron to the drift tube to image the electron pulse.When the coil current is $0 . 3 4 \\mathrm { ~ A ~ }$ ，the magnetic field images electrons with an energy of $3 \\mathrm { k e V }$ on the MCP clearly with a 1:1 image ratio. Subsequently, the MCP imager with 78 ps time resolution samples the magnified electron pulse.The sampling MCP imager consists of an MCP signal sampling part, phosphor screen,and charge-coupled device (CCD).The MCP input surface is deposited on three microstrip lines formed by a $\\mathrm { { C u } }$ layer overlying the Au layer.Au and Cu films are also coated on the MCP output surface，which is succesively deposited on the entire surface and connected to the ground.An ultrashort pulseis tansmitted from one sideofthe MCP microstriplineto the other side.While the magnified electron pulse is synchronized withthe ultrashort pulse,the electron pulse is sampled and amplified bythe MCP.The electric field from the phosphor to the MCPaccelerates theamplified electrons,and then the high-speed electrons impact the P20 phosphor, generating fluorescence. A CCD is used to collct the fluorescence.The MCP has a diameter of $5 6 ~ \\mathrm { m m }$ thickness of $0 . 5 \\mathrm { m m }$ , channel diameter of $1 2 \\mu \\mathrm { m }$ ,and bias angle of $6 ^ { \\circ }$ .Each MCP microstrip line has an $8 \\mathrm { m m }$ width, and a $2 . 8 \\mathrm { m m }$ gap to the adjacent line. The phosphor is applied with a $+ 4 \\mathrm { k V }$ DC high voltage and is placed $0 . 5 \\mathrm { m m }$ to the MCP. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The fast pulse generator generates both the PC driving pulse and the MCP ultrashort pulse,and the generator comprises anavalanche transistor circuit and a diode shaper.First,avalanche transistor stacks are formed in a Marx bank circuit to produce six fast step pulses.Three of these are employed to excite photocathodes,and an avalanche diode separately shapes the other three to acquire three MCP ultrashort pulses [28].Each PC driving pulse has a maximum slope of approximately $1 . 6 \\ \\mathrm { V / p s }$ . MCP ultrashort pulses are achieved with a width of 22O ps and an amplitude of $- 1 . 8 \\mathrm { k V }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The time resolution is mainly dependent on the PC driving pulse slope,PC voltage,drift tube,and time resolution of the MCP signal sampling part[20].In DIXD,the drift tube and MCP signal sampling part have invariant parameters.Therefore,the PC voltage and driving pulse slope determine time resolution.The PC voltage and driving pulse slope can also be obtained from the time-resolution results. In other words,the waveform of the PC driving pulse can be reconstructed from the DIXD time resolution, which shows that the DIXDcan be used as an oscilloscope. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The time resolution $T$ of the DIXD can be given by [29] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\sqrt { T _ { p h y s } ^ { 2 } + T _ { t e c h } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { p h y s }$ is the physical time resolution or limiting time resolution,which mainly depends on the transit time dispersion in the PC to the anode mesh region [29]. $T _ { t e c h }$ is the technology time resolution related to the time resolution of the MCP signal sampling part $T _ { M C P }$ and the temporal magnification factor $M$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T _ { p h y s } \\approx \\frac { \\bar { 2 . 6 } 3 \\sqrt { \\delta \\varepsilon } } { E } , \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ { E = \\frac { \\phi ( t ) } { L _ { p a } } , \\quad \\quad \\quad \\quad \\quad } \\\\ { \\phi ( t ) = [ - V _ { B } - V _ { P } ( t ) ] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta \\varepsilon$ ，which is in $\\mathbf { \\pi } _ { \\mathrm { e V } }$ ,is the full width at half maximum (FWHM) of the energy distribution of the electrons emitted from the PC. The $\\delta \\varepsilon$ of Au under $2 6 6 ~ \\mathrm { n m }$ illumination is approximately $0 . 5 \\mathrm { e V }$ [29]. $E$ is in $\\mathbf { k V / m m }$ and is the electric field from the anode mesh to the PC. $\\phi ( t )$ is the potential difference between the PC and anode mesh, while the photoelectron is produced at time $t . L _ { p a }$ is the length of $1 . 8 ~ \\mathrm { m m }$ from the PC to the anode mesh. $V _ { B } < 0$ is the PC bias voltage,which is $- 3 \\ \\mathrm { k V }$ ， $V _ { p } ( t )$ is the PC driving pulse voltage at time $t$ ，In addition, $T _ { p h y s }$ provides time dispersion in ps: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T _ { t e c h } \\approx \\frac { T _ { M C P } } { M } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generally,the sampling MCP imager parameters are fixed; therefore,the time resolution of the MCP signal sampling part $T _ { M C P }$ is constant. The temporal magnification factor $M$ is mainly dependent on the drift tube, PC voltage, and driving pulse slope. In the limit of a small accelerating gap from the PC to the anode mesh and neglecting the initial energy spread of the electrons emitted from the PC,the electron that enters the drift tube at time $t _ { i }$ reaches the MCP at the following time [19]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { t _ { i } ^ { \\prime } = \\frac { L } { \\sqrt { 2 e \\phi ( t _ { i } ) / m } } + t _ { i } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $L$ is the drift tube length $( 5 0 \\ \\mathrm { c m } )$ ： $e$ and $m$ are the electron charge and mass,respectively. The temporal magnification factor $M$ between the two time steps is as follows [27]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { M ( t _ { i + 1 } , t _ { i } ) = \\frac { t _ { i + 1 } ^ { ' } - t _ { i } ^ { \\prime } } { t _ { i + 1 } - t _ { i } } = 1 + \\frac { L ^ { ' } } { \\sqrt { 2 e / m } } \\frac { \\tilde { \\phi } ( t _ { i + 1 } ) ^ { - 1 / 2 } - \\phi ( t _ { i } ) ^ { - 1 / 2 } } { t _ { i + 1 } - t _ { i } } } \\\\ & { ~ \\approx 1 + \\frac { L } { \\sqrt { 2 e / m } } \\big [ \\phi ( t ) ^ { - 1 / 2 } \\big ] ^ { \\prime } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$V _ { P } ( t )$ and $V _ { P } ^ { \\prime } ( t )$ have the following relation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { V _ { P } ^ { \\prime } ( t _ { i + 1 } , t _ { i } ) = \\frac { V _ { P } ( t _ { i + 1 } ) - V _ { P } ( t _ { i } ) } { t _ { i + 1 } - t _ { i } } = \\frac { V _ { P } ( t _ { i + 1 } ) - V _ { P } ( t _ { i } ) } { \\Delta t } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The DIXD time resolution $T$ and time resolution of the MCP signal sampling part TMcp can be experimentally measured. Then, there are only two unknowns, $V _ { P } ( t )$ and $V _ { P } ^ { \\prime } ( t )$ in Equations (1)-(8),and they have the relation shown in Equation (8). Therefore, $V _ { P } ( t )$ can be obtained from Equations (1)-(8). The variation in the PC driving pulse voltage with time $t$ , which is the PC driving pulse waveform, can then be acquired. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.EXPERIMENTALMEASUREMENT ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7e4444fe3a0cfa372130e48e917afc01dedcaa604ec6bf8c8cf64d8d9f30a01.jpg",
+        "img_caption": [
+            "Fig.2.(a)Schematicofthetimeresolutionmeasurementsetup.()Thephotogaphofthfiberbundle.(c)Teoutputportaayofthefiber bundle. The fiber labeled number one has the shortest length,and the length is increased by $2 \\mathrm { m m }$ with each increase in 1. The gap between each two adjacent fibers is $0 . 2 \\mathrm { m m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The time resolution is measured using a Ti-sapphire laser system and a fiber bundle; the measurement setup is shown in Figure 2(a). The Ti-sapphire laser system outputs two laser beams: a $2 6 6 ~ \\mathrm { { n m } }$ UV beam and $8 0 0 \\mathrm { n m }$ infrared light beam. The total reflection mirror $\\mathbf { M } _ { 1 }$ first reflects the UV laser beam with a pulse width of 13O fs,and the light spot size is enlarged to be larger than the fiber bundle diameter using concave lens $\\mathbf { L } _ { 1 }$ . TheUV laser beam then reaches the fiber bundle,which consistsof3O fibers with equal diferences inlength.Aphotograph of thefiber bundle and schematicof the fiber array are shown inFigures 2(b)and 2(c),respectively.The fiber length is increased bya 2 mm step with an error of less than $0 . 2 \\mathrm { m m }$ .Then, 3O UV laser pulses are achieved and exported from the fiber bundle at various times. The delay time between each pair of adjacent fibers is $1 0 ~ \\mathrm { p s }$ . Lenses $\\mathbf { L } _ { 2 }$ and $\\mathrm { L } _ { 3 }$ image the UV laser pulses on the PC to generate 3O photoelectron pulses.The infrared laser beam is reflected from total reflector $\\mathbf { M } _ { 2 }$ to a positive-intrinsic-negative (PIN)diode to produce an electric signal, which triggers the fast pulse generator to produce the driving pulse on the PC and ultrashort pulse on the MCP.To ensure that the $2 6 6 ~ \\mathrm { n m }$ laser pulses are synchronized with the PCdriving pulse,a delay circuit is utilized to preciselyadjust the trigger time.Then,the 3O photoelectron pulses with diffrent emision times are accelerated by a varied electric field,which achieves electron velocity dispersionto magnify the time duration of the electron signal.Finally,the ultrashort pulse is timed to sample the magnified electron pulse on the MCP,and a gating image with time dilation is obtained. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6d7cf43bf4291a26edec2c054a066f1f3c7dc206c7d00a51586d3c8be83e424.jpg",
+        "img_caption": [
+            "Fig.3. (a) Static image of the 30 laser pulses,while the PC is subjected to a static DC bias of $- 3 \\mathrm { k V }$ and the MCP is subjected to a static DC bias of $- 7 0 0 \\mathrm { V }$ .(b) Gating image without time-dilation, a $- 3 \\mathrm { \\ k V }$ DC bias is applied to the PC,and an ultrashort pulse plus a $- 3 0 0 \\mathrm { V }$ DC bias are applied on MCP.The ultrashort pulse has a width of 22O ps and an amplitude of $- 1 . 8 \\mathrm { k V }$ (c) Line out of the gating image withoul time-dilation in (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "First, the time resolution of the MCP signal-sampling part $T _ { M C P }$ is measured. The measured static image of the 30 laser pulses and gating image without time dilation are shown in Figures 3(a) and 3(b),respectively. A $- 3 \\mathrm { \\ k V }$ static DC bias is used for the PC and a $- 7 0 0 \\mathrm { ~ V ~ }$ for the MCP. A static image is obtained, as shown in Figure 3(a). The shortest fiber is imaged at the top right,and every two adjacent images are distanced by $0 . 5 ~ \\mathrm { m m }$ . Figure 3(b) shows the gating image without time dilation,which was obtained by applying a $- 3 \\mathrm { \\ k V }$ DC bias to the PC and an ultrashort pulse plus a $- 3 0 0 \\mathrm { V }$ DC bias to the MCP. The images in Figures 3(a) and 3(b) are raw.To avoid the influence of an uneven light intensitydistribution,the experimental results inFigure 3(b)were calibrated using the static results in Figure 3(a).The line outside thecalibrated results in Figure 3(b)is shown in Figure 3(c).The solid points are the calibrated experimental results, which were fited using Gaus.The Gausian curve is the intensity versus time curve, andits FWHM is definedas the time resolution.While the electron signalis not dilated,itcanbeseen from Figure 3(c that the time resolution is approximately 78 ps, which is the time resolution of the MCP signal sampling part, $T _ { M C P }$ ， ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Then, the time resolution $T .$ ，which varies with the synchronization position,is obtained. As the time the laser pulse takes toreach the PCis constant,changing and accurately adjusting the delay circuit in order to synchronize the UV laser pulse with the rising edge of the PC driving pulse is recommended.A schematic of the synchronization position for the laser pulse with the PC driving pulse is shown in Figure 4.Point $t _ { I }$ was delayed by approximately 200 ps relative to the starting time of the PC driving pulse.The time was increased by 62.5 ps,while the subscript number was added by one until $t _ { I I }$ . In other words,point $t _ { 2 }$ was approximately 262.5 ps later than the PC driving pulse at the very beginning，point $t _ { 3 }$ was approximately 325 ps,and point $t _ { I I }$ was approximately $8 2 5 \\ \\mathrm { p s }$ .Point $t _ { I 2 }$ occurred approximately 12OO ps later than that atthe beginning.The measured gating image when the synchronization position is point $t _ { I }$ and the electron signal is dilated is shown in Figure 5(a).To obtain the gating image with time dilation, the MCP voltages used to obtain Figure 3(b) are retained, while a $- 3 \\ \\mathrm { k V }$ DC bias overlapped by a driving pulse are applied to thePC.The line outside of the measurement results inFigure 5(a)is shown in Figure 6.Figure 6shows that the DIXD time resolution $T$ is approximately 39 ps with time dilation, whereas the synchronization position is point $t _ { I }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2ed6087bfab4070956e73cac5e10ae02928601f114b3216593297d38c31ffe2.jpg",
+        "img_caption": [
+            "Fig.4.Schematicof thesynchronizationpositionforthelaserpulsewiththedrivingpulserisingedgeonthePC.Thesynchronizatiol position is adjusted at points $t _ { I }$ to $t _ { I 2 }$ in turn. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dd95518c4bea475f783578aaa30b7e94f447031ae424d0e303499eee9b5f6d0.jpg",
+        "img_caption": [
+            "Fig.5.Gatingimages withtime-dilationhilethsynchronzationpositionofthelaserpulseandPCdrivingpuseischangedfrompoint $t _ { I }$ to $t _ { I 2 }$ A $- 3 \\mathrm { \\ k V }$ DC bias overlapped by a driving pulse are applied on the PC,and the voltages applied to the MCP are a $- 3 0 0 \\mathrm { V }$ DC bias plus the ultrashort pulse. The gating images (a)-(l) correspond to the synchronization points $t _ { I ^ { - } } t _ { I 2 }$ ， "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/acb4e0a8a8a8d8d6dfa0723f5378b5da26017109ddb7b9ed3160898bb1cdd18a.jpg",
+        "img_caption": [
+            "Fig.6.Signalingoutoftegatingimagewithtime-dilationinFig.5(a),whilethesyhrozationpositionforlaserpulseandCdrig pulse is point $t _ { I }$ ,200 ps later than the very beginning. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To adjust the synchronization position to point $t _ { 2 }$ ,the delay time of the PC driving pulse was changed,and the gating image with time dilation for $t _ { 2 }$ is shown in Figure 5(b). The synchronization position was adjusted at points $t _ { 3 }$ to $t _ { I 2 }$ in turn,and the gating image for each synchronization point was obtained successvely,as shown in Figures 5(c)-5(l). The variation in the time resolution $T$ with the synchronization position was then obtained from Figures 5(a)-5(l),as shown in Figure 7.The time resolution differs when the synchronization position is changed.The best time resolution was 12 ps,while the best synchronization position was $t { \\boldsymbol { \\varsigma } }$ ，which was 45O ps later than that at the beginning. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/10b6a619248343677ca2b8fc47eaf3210519b558a06dca0e9d58584e4fba8893.jpg",
+        "img_caption": [
+            "Fig.7. DIXD time resolution $T$ varying with the synchronization position "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the DIXD,the magnetic lens images the photoelectrons from the PC to the MCP.A corresponding magnetic lens coilcurrent needs tobe used to makea certain energy photoelectron image clearly in the MCP,i.e.,when the electron energychanges,the magnetic lens coil curent changes accordingly.Therefore,we can use the coil current to obtain the electron energy to determine the potential diference between the PC and anode mesh.While the synchronization position of the PC driving pulse is located at point $t _ { I }$ ,the coil current should be $0 . 3 3 \\mathrm { ~ A ~ }$ to obtain the clear spot image shown in Figure 5(a).An experiment was performed to obtain the photoelectron energy related to the $0 . 3 3 \\mathrm { ~ A ~ }$ coil current. Only the PC voltage was changed,and the other conditions,such as the coil current and MCP voltage,remained the same as in Figure 5(a).A DC bias with no PC driving pulse was appliedto the PC.The PC DC bias was adjusted preciselyto obtain the gating image, which was decoupled from time dilation.While the PC DC bias was approximately $- 2 . 8 8 \\mathrm { k V }$ , the gating image without time-dilation was as clear as the spot image in Figure 5(a). Therefore,the O.33 A coil current corresponds to a photoelectron energy of $2 . 8 8 \\ \\mathrm { k e V }$ .In Figure 5(a), PC is applied with a $- 3 \\mathrm { k V }$ DC bias overlaid by a driving pulse, and the photoelectron energy is $2 . 8 8 \\mathrm { k e V }$ . Therefore, the PC driving pulse is approximately $1 2 0 \\mathrm { ~ V ~ }$ at synchronization point $t _ { I }$ . In Equations (1)-(8)，the acquired parameters at synchronization point $t _ { I }$ are $T ( t _ { I } ) = 3 9$ ps, $T _ { M C P } = 7 8$ ps,and $V _ { p } ( t _ { I } ) = 1 2 0 ~ \\mathrm { V }$ .Then, $V _ { P } ^ { \\prime } ( t )$ can be calculated from Equations (1)-(8). A value of $0 . 3 7 ~ \\mathrm { V / p s }$ was obtained. The parameters for point $t _ { 2 }$ are $V _ { P } ( t _ { 1 } ) = 1 2 0$ V, $T ( t _ { 2 } ) { = } 1 7$ ps, and $T _ { M C P } { = } 7 8$ ps,and the values of $V _ { P } ( t _ { 2 } )$ and $V _ { P } ^ { \\prime } ( t _ { 2 } )$ are $1 9 9 { \\mathrm { ~ V ~ } }$ and $1 . 2 6 ~ \\mathrm { V / p s }$ ,respectively,as calculated from Equations (1)-(8). Subsequently, the variations in $V _ { P } ( t )$ and $V _ { P } ^ { \\prime } ( t )$ with time $t$ can be acquired, as shown in Table 1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The waveform of the PC driving pulse from points $t _ { I }$ to $t _ { I 2 }$ measured by the DIXD can be obtained from Table 1, and is represented by the red part in Figure 8.The blue part of Figure 8 shows the PC driving pulse waveform measured using a high-speed oscilloscope.Figure 8 shows that the waveforms from points $t _ { I }$ to $t _ { I 2 }$ measured by the DIXD and oscilloscope are almost the same,and the difference between them is within $6 \\%$ ，which validates the oscilloscopic capability of the DIXD. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Table 1. $V _ { P } ( t )$ and $V _ { P } ^ { \\prime } ( t )$ vary with the synchronization position, which is the point at the rising edge of the PC driving pulse $t$ ps latei than that at the beginning. "
+        ],
+        "table_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/997b9cac5a71b8451ffc3ba1fa8445e7eeccd41df7c4f97ec10443f66e79ecf2.jpg",
+        "img_caption": [
+            "Fig.8.PC driving pulse waveform measured by a high-speed osciloscope,and the waveform from point $t _ { I }$ to $t _ { I 2 }$ was measured by the DIXD. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The limiting time resolution of the DIXD is considered equal to the physical time resolution $T _ { p h y s }$ [30]. The red curve inFigure 9 shows the variation inthe limiting time resolution with the potential diference between the PCand mesh,whereas the space between the grounded anode mesh and PC is $1 . 8 ~ \\mathrm { m m }$ . The larger the potential difference, the smaller the transit time dispersion of the electron in the PC to the mesh region and the higher the limiting time resolution.When the DIXD is used as an oscillscope,the relationship between its maximum theoretical bandwidth and the potential diference is shown by the blue curve in Figure 9.The bandwidth is limited by the potential difference.When the potential difference is $3 . 4 \\mathrm { k V }$ ,the theoretical limiting bandwidth is $1 0 0 0 \\mathrm { G H z }$ .Furthermore, the bandwidth increases with increasing potential difference. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "了 3000 (s) rirnriser aun Buninr 6 Limiting time resolution Maximum theoretical bandwidth 2500 Maximum theoretical bandwidth (GHz) 5 2000 4 1500 3 1000 1 1 500 0 5 T 1 1 0 1 2 3 4 6 7 8 9 10 Potential difference between PC and mesh(kV) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A DIXD composed of a temporally magnified electron pulse device,a sampling MCP imager,a magnetic lens, andafast pulse generator is developed.The temporally magnified device achieves a dilation electron signal,and the DIXD time resolution is improved from 78 ps to 12 ps.A DIXD osciloscope is presented and theoretically analyzed. Typically,the time resolution depends on factors such as the PCvoltage,PC driving pulse slope,time resolution of the MCPsignalsampling part,and drift tube length In the DIXD,the time resolution of the MCP signalsampling part is 78 ps,and the drift tube is $5 0 \\ \\mathrm { c m }$ , which were invariant. Therefore, the slope and voltage of the PC driving pulse determine the time resolution,and theycan be obtained from the time resolution.ThePCdriving pulse waveformcan then be presented based on the DIXD time resolution.In other words,the DIXD can be used as an osciloscope.An experiment is conducted to establish an oscilographic application of the DIXD.The synchronization position for the laser pulse with the PC driving pulse is adjusted at different points,and the time resolution $T$ at each synchronization position can be obtained.Then,the waveform for thePC driving pulse appears after the pulse voltage and slope at each synchronization position are obtained from the measured time resolution.The waveform from point $t _ { I }$ to $t _ { I 2 }$ is measured using DIXDand a high-speed oscilloscope.The two waveforms are almost identical,and the diffrence between them is within $6 \\%$ . The maximum theoretical bandwidth of the DIXD oscilloscope varies with the potential difference between the mesh and thePC.The bandwidth is limited by the potential diference.When the potential difference is $3 . 4 \\mathrm { k V }$ ,the theoretical limiting bandwidth is $1 0 0 0 \\mathrm { G H z }$ .The larger the potential difference,the higher the bandwidth.Therefore,the bandwidthofthe DIXDosciloscope can be improved by increasing the potentialdiffrence This study provides a novel approach for the development of new high-speed oscilloscopes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]G.L.Gao,K.He,J.S.iaetalUrafastalpticalsolidtateframingcamraithoseondtempalrsolutioOptExpr 25,8721-8729 (2017). doi: 10.1364/0E.25.008721   \n[9]J.H.Liu,Z.Ge,Q.Wangetal.,Electrostatic-lensespostion-sensitiveTOFMCPdetectorforbeamdiagnosticsandnesemefor mass measurements at HIAF. Nucl. Sci. Tech.30,152 (2019).doi: 10.1007/s41365-019-0676-1.   \n[10]JAFrenje,NucleardiagnosticsforInertialConfinementFusion(ICF）plasmas.PlasmaPhys.Contr.F62,O230ol(2).doi: 10.1088/1361-6587/ab5137   \n[11]S.E.Jiang,FWangY.K.ingetal.,ExperimentalprogressfiertialonfiementfusionbasedattheeGuagler facility in China.Nucl.Fusion.59,032006 (2019).doi:10.1088/1741-4326/aabdb6   \n[12]S.R.Nagel,A.C.Cpeter,arktl,edlatioiddsingleloightamraforteNatioalIiioaciity Characterization and fielding.Rev. Sci.Instrum.89,10G125 (2018). doi:10.1063/1.5038671   \n[13]W.Theobald,C.Sorce,M.Bedzyk etal.,Thesingle-line-of-sight,time-resolved x-rayimagerdiagnosticonOMEGA.Rev.Sci. Instrum.89,10G117 (2018). doi: 10.1063/1.5036767   \n[14]J.D.Kilkenny，Highspeed proximityfocused X-raycameras.LaserPart.Beams.9，49-69(1991).doi: 10.1017/S0263034600002330   \n[15]P.M.Bell,J.Dke,R.L.Hanksetal.,easurementswith35psecgatetemicrochaelplateamera.Proc.34, 456-464(1991). doi: 10.1117/12.23371   \n[16]S.R.Nagel,L.RedetiDK.detaCoprsofploscoemetris:A0sdlatioX-rager gated microchannel plate.Rev. Sci. Instrum.87,11E311 (2016). doi: 10.1063/1.4959917   \n[17] K. Engelhorn,T. J. Hilsabeck, J. Kilkenny et al., Sub-nanosecond single line-of-sight (SLOS) $\\mathbf { x }$ -ray imagers. Rev. Sci. Instrum. 89, 10G123 (2018). doi: 10.1063/1.5039648   \n[18]T.J.Hilsabeck,J.D.Hares,J.D.Kikenyetal.,Pulse-dilationenancedgatedopticaliagerwith5psresolutionev.Sci. Instrum.81,10E317 (2010). doi: 10.1063/1.3479111   \n[19]S.R.Nagel,T.J.abeck,elletal.estigatigspdpoaiserpliteracsingdiy imager.Rev. Sci. Instrum. 85,11E504 (2014). doi: 10.1063/1.4890396   \n[20]S.R.Nagel,.Jsabck,.elletaliatio-raagefstergated-raagerfoeNFevistr. 83,10E116 (2012). doi: 10.1063/1.4732849   \n[21]R.D.Prose,Electrodspesitchqeforseatiooffstrsietals.s.Ecist.99().do 10.1088/0022-3735/9/1/018   \n[22]H.Geppert-Kleinath,HWHrann,Y.H.Kimetal.,PulsedilatiogasCherenovetectorforultra-fastgammareactistoy at the NIF.Rev. Sci. Instrum.89,10I146 (2018). doi: 10.1063/1.5039377   \n[23]S.G.Gales，C.J.Horsfield,A.L.Meadowcroftetal.，Characterisationofasub-2Opstemporalresolutionpulsedilation photomultiplier tube.Rev. Sci. Instrum.89,063506 (2018). doi: 10.1063/1.5031110   \n[24]J.FengK.Engeo,B.Cotal.,gaingiidece-atreakcaraforulrafast,inglehtmeasurements.Apl. Lett. 96,134102 (2010). doi: 10.1063/1.3371810   \n[25]I.KonvaliaandIMulerov,Propertiesoftecatodelensombinedwithafcusingmagnetic/immersio-magneticls.Nucl. Instrum. Meth.A645,55-59 (2011). doi: 10.1016/j.nima.2010.12.232   \n[26] Z. Chang,A. Rundquist,J. Zhou et al.,Demonstration of a sub-picosecond $\\mathbf { x }$ -ray streak camera. Appl.Phys.Lett. 69,133-135 (1996). doi: 10.1063/1.118099   \n[27]H.Z.Cai,X.Zhao,J.Y.Liuetal.,Dilationframingcamerawith4psresolution.APLPhotonics1,O1610l(2016).doi: 10.1063/1.4945350   \n[28]P.M.Bell,JO.dtaectalactestsofortpeatdoaelate Instrum. 63,5072-5074 (1992).doi: 10.1063/1.1143495   \n[29]M.M.ShakyaandZ.H.Chang,Achieving 280fsresolution withastreakcamerabyreducingthedeflectiondispersion.Appl.Phys. Lett. 87,041103 (2005). doi: 10.1063/1.2001732   \n[30]D.CesarandP.Musumec,Temporalmagnificatioforstreakedultrafastelectrondifractionadicroscopy Ultramicrosopy199, 1-6 (2019). doi:10.1016/j.ultramic.2019.01.003 ",
+        "page_idx": 8
+    }
+]

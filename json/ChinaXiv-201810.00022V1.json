@@ -1,0 +1,699 @@
+[
+    {
+        "type": "text",
+        "text": "基于多特征的跨语言剽窃检测技术研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘刚，胡昱临，李光曦(哈尔滨工程大学 计算机科学与技术学院，哈尔滨 150001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对解决双语剽窃的检测问题，给出了一种跨语言剽窃检测模型。该模型包括了基于多特征选择的跨语言剽窃分类和基于多特征对应的跨语言剽窃检测。该方法主要是根据译者在进行翻译时出现的欧化现象挖掘出常见的译文特征，在对特征进行进一步的特征选择和特征权值的计算后，训练分类器，针对是否存在跨语言剽窃行为进行分类，最后通过WordNet进行最后的剽窃确认。通过实验对比和实验分析，分别进行了分类结果和检测结果的验证，证明了所给出的模型的有效性和科学性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：跨语言剽窃检测；双语特征；欧化现象 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2018.06.0406 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on construction technology of cross-language plagiarism detection model based on multi-features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Gang, Hu Yulin, Li Guangxi (College ofComputerScience&Technology,Harbin Engineering University,Harbin15000l,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder to solve the problemof bilingual plagiarism,this paper constructed a multi-feature-based cros-language plagiarism detection model.This paper firstlyanalyzes and summarizes the research status of single and double language plagiarism,andproposesamulti-feature-basedcros-language plagiarism detectionmodel.The modelicludes multi-featureselection-basedcross-anguageplagiarismclassificationandmulti-feature-corrspondence-basedcro-languageplagiarism detection.Theresultsofplagiarism filtering two times is mainlybasedonthecorespondencebetweentranslationfeaturesand structuralfeatures.Finaly,thelastplagiarismisconfirmedbyWordNet.Inthispaper,thetrascendentalplagiarismmodelis established,andtheresultsoftheclasificationandthetestresultsareverifiedbyexperimentalcomparisonandexperimental analysis. The validity and scientificity of the model are proved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: cross-language plagiarism detection; bilingual feature selection; Europeanized grammar ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 剽窃检测理论",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 剽窃的分类",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "剽窃分为字面剽窃和智能剽窃。其中字面剽窃是比较常见的，它并没有刻意去隐藏所剽窃的内容，只是通过复制粘贴来达到剽窃目的。字面剽窃又分为如下三种：a)精确复制是指不经过任何修改，仅仅对某一段落或者某一整篇文章进行复制；b)相似复制是指通过插入、删减、代替、句子分离或合并等手段进行操作后再复制；c修改复制是指通过短语重排序或对语法的改变进行修改，然后再据为己所用。总的来说，字面剽窃就是做了很少的改动而没有引用原文章。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "而智能剽窃是指用各种方式来试图隐藏和改变原文章。它主要也分为了以下三种方式：a)文本处理是指将文本通过词汇和形态语法进行改变或者通过对概念的归纳、总结和解释的一种剽窃手法；b)翻译是指通过自动翻译（精确翻译、平行语料库等）或者手动翻译将一种语言翻译为另一种语言而没有经过引用，也能够引起剽窃；c观点剽窃是影响最严重的剽窃，它是指窃取了别人的观点却没有经过引用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2跨语言文本相似度算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于机器翻译是跨语言相似度计算中最直接、最简单的一种方式。它是通过将两种语言统一为同一种形式来进行相似性比较，从而实现跨语言相似度的计算。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于多语言词典的算法主要是通过双语词典对应来进行匹配的。在CLIR和CLSD中都有应用，起初由CLIR兴起，现发展到CLSD 并取得了良好的效果。其中比较典型的算法是CL-CNG（cross-language charater N-Gram）算法[12]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "值得说明的是，CL-CNG算法只适用于两种相近的语言，但并不适用于汉语和英语这两种区别很大的语言。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这类算法中最为典型的就是跨语言明确语义分析算法（CL-ESA)。它是ESA算法的扩展。由MartinPotthast等人在2008 年提出的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在引入CL-ESA算法之前，先介绍 ESA 算法。ESA算法是单语言之间的语义相似度分析算法，它是由Wikipedia作为概念空间，将文本向量用向量空间模型表示，然后使用TF-IDF 计算其权值，再根据概念空间中概念权值列表表示文本，通过余弦相似度计算两个向量之间的相似性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设文本 $T = \\{ w _ { 1 } , w _ { 2 } , . . . . , w _ { x } \\}$ ，首先通过 TF-IDF 计算其单词权重 $t = \\{ \\nu _ { 1 } , \\nu _ { _ { 2 } } , . . . , \\nu _ { _ x } \\}$ ，即表示 $w _ { i }$ 的权重是 $\\nu _ { i }$ ， $1 \\leq i \\leq x$ ，$\\{ c _ { 1 } , c _ { 2 } , . . . , c _ { N } \\}$ 是概念空间集合，设 $w _ { i }$ 与 $c _ { j }$ 的关联程度是 $k _ { j }$ ，那么对应维度 $j$ 的数值可表示为 $\\textstyle \\sum _ { w _ { i } \\in T } \\nu _ { i } k _ { j }$ 。当计算两段文本相似时，只需将其用N维向量表示，然后用余弦定理计算其相似性即可。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同理，CL-ESA类似[2I1，只是将ESA算法扩展到跨语言方面，是基于双语Wikipedia 建立的概念空间，且两者是概念对齐的。其过程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/735f30396ab48dfd7bcbc5adff9b280766e20d16cbd963c179b11c1ee7c8a19a.jpg",
+        "img_caption": [
+            "图1 CL-ESA 算法结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于多特征选择的跨语言剽窃分类 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于跨语言剽窃来说，首先应确定某篇文章是否存在跨语言剽窃，将存在跨语言剽窃的文章找出，进而才能确定此文章中哪些段落或哪些部分存在跨语言剽窃现象。针对以上问题，本章主要是从具有跨语言剽窃的中文文章中发现并选择其有效的译文特征，给予不同的特征权重，构建具有跨语言剽窃的分类模型，能够对给定的中文文章进行分类，检测其中哪几篇中文文章中可能存在剽窃行为，而哪几篇文章不存在剽窃行为。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1英汉翻译中的欧化现象和翻译体问题发现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "翻译体是欧化现象的表现，是指翻译出来的译文有欧化现象或不符合汉语的习惯表达方式，也叫翻译腔、翻译症。文献[20]中将其译为“translationese”。而所谓的欧化，也叫西化，是指语法、文笔、风格或用词受欧洲语文过份影响的中文，影响中尤以英文所造成的最为深刻[48]。欧化中文在语言表达和词语运用上都略显生硬，并且比较容易辨别。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上海外国语大学的李颖玉博士总结了常见的欧化翻译表现形式为以下七种情况：a）外来词及词缀化；b）字母词使用；c）连词增多；d）词类活用；e）助词、数量词、代词滥用；f)长句和冗长句；g）被动句使用增多、标记显化和单一化倾向明显等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此可见，在英汉语言相互影响的诸多因素中，词汇和语法的影响比较显著，是区分欧化翻译的最主要的表现形式。中国著名语言学家王力先生曾在文献[7]中的第六章“欧化的语法一整章都在探讨欧化现象，并对一些“恶意欧化”现象提出了批评。“恶意欧化”现象不仅仅存在于不是以翻译作为本职工作的人，而且对于那些优秀的翻译家而言，也会存在纰漏，何况是对于不同领域的文章。所以，抽象出其中的译文特征来确定某一篇文章存在跨语言剽窃问题是可以解决的，构建并选择合理的译文特征是构建分类模型的关键。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2特征选择一一对卡方检验的改进 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用卡方检验进行初步的译文特征选择，并且基于CHI不足，对CHI进行了改进，旨在能够去除一些出现频数较低的且在类别中不稳定的特征，精确找出有效的特征来精确分类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设类别 $c _ { j }$ 中有 $n _ { c _ { j } } \\left( j = 1 , 2 \\right)$ 篇文章，特征项 $t _ { i }$ 在每篇文章中出现的频数是 $t f _ { i 1 } , t f _ { i 2 } , . . . , t f _ { i n }$ ,则特征项 $t _ { i }$ 在 $c _ { j }$ 中的平均频数如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { c _ { j } } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } t f _ { i k } } { n _ { c _ { j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "之所以在分母中用所有文章数而不用只存在特征项 $\\mathbf { \\Psi } _ { t } \\mathbf { \\Psi } _ { \\mathbf { \\Psi } }$ 的文章数，是为了防止低频词只在少部分文章中出现较多，而在绝大多数文章中不出现的情况。这样的情况下将会使频度 $\\alpha$ 变大，对稀有词的区分度不高。由此定义特征项 $t _ { i }$ 的频数之差并使之归一化，得",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha ( t _ { i } ) = \\frac { \\alpha _ { c _ { 1 } } - \\alpha _ { c _ { 2 } } } { \\operatorname* { m a x } ( \\alpha _ { c _ { 1 } } , \\alpha _ { c _ { 2 } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这样的话，将其取值规定到[0,1]区间上。其频度之差越大，越能反映出其区别能力越强，式(2)解决了CHI的第一个不足，通过引入 $\\alpha$ 来区分特征的频数问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对第二点不足，本文引入了信息熵。信息熵是用来表示随机变量的不确定性的度量，它起源于物理学，用来表征物质状态的参量之一。它主要指任意一种能量在空间中分布的均匀程度。设 $\\boldsymbol { \\mathit { X } }$ 是一个取有限个值的离散随机变量，其概率分布为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( X = x _ { i } ) = p _ { i } , \\ i = 1 , 2 , . . . , n\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则随机变量 $X$ 的熵定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( X ) = - \\sum _ { i = 1 } ^ { n } p ( x _ { i } ) \\log p ( x _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $0 \\leq H ( X ) \\leq \\log n \\ , H ( X )$ 越小,分布越不均匀。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文中，需要判断特征 $t _ { i }$ 在指定类别 $c _ { j }$ 中的分布均匀状",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "况。不妨设 $d _ { k } ( 0 < k \\leq n )$ 为类别 $c _ { j } ( j = 1 , 2 )$ 中的第 $k$ 篇文章，则特征项 $t _ { i }$ 在类别 $c _ { j }$ 中信息熵表示如式(5)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( t _ { i } , c _ { j } ) = - { \\sum _ { k = 1 } ^ { n } } \\frac { t f ( t _ { i } , d _ { k } ) } { t f ( t _ { i } , c _ { j } ) } \\mathrm { l o g } \\frac { t f ( t _ { i } , d _ { k } ) } { t f ( t _ { i } , c _ { j } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\it { t f } ( t _ { i } , d _ { k } )$ 表示特征项 $t _ { i }$ 在文章 $d _ { k }$ 中出现的次数； $\\boldsymbol { t f } ( t _ { i } , \\boldsymbol { c } _ { j } )$ 为特征项 $t _ { i }$ 在类别 $c _ { j }$ 中出现的总次数。 $H ( t _ { i } , c _ { j } )$ 越大，说明分布越均匀，其特征项效果越好。规定如果某特征在该类别中不存在，则 ${ \\cal H } ( t _ { i } , c _ { j } ) = 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( t _ { i } ) = \\frac { H ( t _ { i } , c _ { 1 } ) } { H ( t _ { i } , c _ { 2 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $H ( t _ { i } , c _ { j } )$ 为特征项 $t _ { i }$ 在类别 $c _ { j }$ 中的信息熵。当在 $c _ { 1 }$ 类中越稳定，在 $c _ { 2 }$ 类中越不稳定，则 $H ( t _ { i } )$ 的值越大，越能代表剽窃类 $c _ { 1 }$ 。这样，对于所有的特征项 $t _ { 1 } , t _ { 2 } , . . . , t _ { n }$ 对应的 $H ( t _ { i } )$ ，将其进行归一化，得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH o ( t _ { i } ) = \\frac { H ( t _ { i } ) } { \\operatorname* { m a x } ( H ( t _ { 1 } ) , H ( t _ { 2 } ) , . . . , H ( t _ { n } ) ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "显然，Ho(ti)∈[0,1]。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，定义新的CHI方式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC H I _ { n e w } ( t _ { i } , c ) = k _ { 1 } P _ { t _ { i } } + k _ { 2 } \\alpha ( t _ { i } ) + k _ { 3 } H o ( t _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { t _ { i } }$ 为 $\\chi ^ { 2 } ( t _ { i } , c )$ 值查询卡方分布的临界值表得到的概率；$\\alpha ( t _ { i } )$ 为特征项 $t _ { i }$ 平均频数之差； $H o ( t _ { i } )$ 为特征项 $t _ { i }$ 在类别中的信息熵。后两者都进行了归一化处理，故三者都在[0,1]内。$k _ { 1 } , k _ { 2 } , k _ { 3 }$ 为每个因素的权重。 $C H I _ { n e w } ( t _ { i } , c )$ 的值越大，说明该特征区分度越高，是有效的，其值越小说明该特征区分度越低，是无效的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 SVM模型训练 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用非线性支持向量机作为模型，选用RBF（radialbasisfunction，径向基函数）作为核函数，最后经过学习要得到分类决策函数是",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) = \\mathrm { s i g n } ( \\sum _ { i = 1 } ^ { N } \\alpha _ { i } ^ { * } y _ { i } K ( x , x _ { i } ) + b ^ { * } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：RBF为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( x _ { i } , x _ { j } ) = \\exp ( - \\frac { \\| x _ { i } - x _ { j } \\| ^ { 2 } } { 2 \\sigma ^ { 2 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其具体的SVM分类模型构建及求解方法如算法1所示。算法1基于译文特征的SVM模型构建与求解算法输入：训练数据集 $D$ 以及特征 $\\smash { T _ { o } }$ 输出：判断是否剽窃的分类模型 $f ( x )$ 。$\\begin{array} { r l } & { T = \\{ ( x _ { 1 } , y _ { 1 } ) , ( x _ { 2 } , y _ { 2 } ) , . . . , ( x _ { N } , y _ { N } ) \\} , } \\\\ & { } \\\\ & { x _ { i } \\in \\chi = R ^ { M } , y _ { i } \\in Y = \\{ + 1 , - 1 \\} , i = 1 , 2 . . . N } \\end{array}$ 选取参数 $C$ ，用RBF代替内积，得到SVM的对偶问题取初值 $\\boldsymbol { \\alpha } ^ { ( 0 ) } = 0$ ，令 $k = 0$ ：while(当 $\\alpha$ 存在不满足KTT条件的变量)选取优化变量 $\\alpha _ { 1 } ^ { ( k ) } , \\alpha _ { 2 } ^ { ( k ) }$ ；将对偶问题转换为式(2-21)的形式;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "得到最优解 $\\alpha _ { 1 } ^ { ( k + 1 ) }$ $\\alpha _ { 2 } ^ { ( k + 1 ) }$ ，并更新 $\\alpha$ 为 $\\alpha ^ { ( k + 1 ) }$ ；$i f ( \\alpha$ 在精度ε内满足KTT条件)break;end $i f$ //如果满足KTT条件就跳出循环  \n$k + +$   \nend while  \n取 $\\stackrel { \\wedge } { \\alpha } = \\alpha ^ { ( k + 1 ) }$   \n这样，根据求出的最优解 $\\alpha ^ { * }$ 来计算 $b ^ { * }$   \n由 $\\boldsymbol { \\alpha } ^ { * } \\boldsymbol { b } ^ { * }$ 可得其分类模型 $f ( x )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1说明了基于多种译文特征的 SVM分类器的构建和求解过程。首先将原始问题转换为对偶问题，然后运用第二章提到的SMO 算法对不满足约束条件的变量进行更新，直到所有变量都满足KTT条件，进而根据求解出来的最优解来求得分类模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 基于多特征对应的跨语言剽窃检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进行分类模型构建后，给出一篇中文文章，可以判断是否进行了跨语言剽窃。在确认该篇文章是存在跨语言剽窃时，需要进一步确认具体剽窃了哪一篇文章，进而精确到剽窃了哪一个段落。本章基于上述问题，提出了基于多特征对应的跨语言剽窃检测方法，本章是上一章的延续，通过上一章得到的剽窃候选集，将进一步精确分析其特征对应情况，确认出剽窃的具体位置。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1基于译文特征对应的剽窃结果一次过滤",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据英汉翻译中的欧化现象和翻译体问题，构建出了在中文文章中存在的译文特征，并且根据译文特征找出了可能存在剽窃的中文文章。换一种思路来想，中文中的译文特征如果对应到英文中也是存在的，可以根据中英文译文特征出现的位置来进一步确定具体的剽窃结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每个特征在每句话中的特征表示进行加权，得到两个 $n$ 维有序向量，这两个向量即为 $n$ 个特征在要比较的中英文段落中的特征表示，计算出这两个向量的欧氏距离即为段落之间的距离。距离越短，说明这两个段落越相似。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "例1图2和3分别是中文段落及其对应的英文段落。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[近年来，在许多行业中存在对尖端的基于云的应用的巨大需求。』 我们在文件中提出了共享磁盘云数据库架构作为基础，可以开发智能数据存储管理系统以丰富基于云的Web应用程序。』这种提出的架构的重要特征是单拷贝数据一致性，动态负载平衡和高基准性能。』基于软件层，已经指出了用于推广SaaS概念的智能数据管理系统，其提出了用于普及云环境的成本有效的解决方案。]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[In recent years, there is tremendous demand of cutting-edge cloud-based applications in many of the industries.][We have proposed in the paper a shared disk cloud database architecture as the basis on which an intelligent data storage management system can be developed for enriching cloud-based web applications.][ Important features of this proposed architecture are single copied data consistency, dynamic load balancing and high benchmark performance.][ Based on the software layer,an intelligent data management system for popularizing the concept of SaaS has been pointed out suggesting a costeffective solution for popularizing the cloud environment.] ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先根据选择出来的特征进行中英文特征的对应。在中文段落中，特征对应的矩阵为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array} { c c c c c c c c c c c c } { 0 } & { \\dots } & { 0 } & { 0 } & { 0 } & { \\dots } & { t _ { 1 3 } } & { \\dots t _ { 1 6 } \\dots 0 } & { 0 } & { \\dots } & { 0 } \\\\ { 0 } & { \\dots } & { t _ { 6 } } & { 0 } & { 0 } & { \\dots } & { t _ { 1 3 } } & { \\dots } & { 0 } & { \\dots } & { t _ { 2 4 } } & { \\dots } & { 0 } \\\\ { 0 } & { \\dots } & { 0 } & { 0 } & { t _ { 8 } } & { \\dots } & { 0 } & { \\dots } & { 0 } & { t _ { 2 4 } } & { \\dots } & { 0 } \\\\ { 2 t _ { 1 } } & { \\dots } & { 0 } & { 0 } & { 0 } & { \\dots } & { 0 } & { \\dots } & { 0 } & { 0 } & { \\dots } & { 0 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在英文段落中，特征对应的矩阵为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ { \\begin{array} { l l l l l l l l l l l } { 0 } & { \\dots } & { 0 } & { 0 } & { 0 } & { \\dots } & { 2 t _ { 1 3 } } & { \\dots t _ { 1 6 } \\dots 0 } & { 0 } & { \\dots } & { 0 } \\\\ { 0 } & { \\dots } & { t _ { 6 } } & { 0 } & { 0 } & { \\dots } & { t _ { 1 3 } } & { \\dots } & { 0 } & { \\dots } & { 0 } \\\\ { 0 } & { \\dots } & { 0 } & { 0 } & { t _ { 8 } } & { \\dots } & { 0 } & { \\dots } & { 0 } & { t _ { 2 4 } } & { \\dots } & { 0 } \\\\ { 0 } & { \\dots } & { 0 } & { 0 } & { 0 } & { \\dots } & { 0 } & { \\dots } & { 0 } & { 0 } & { \\dots } & { 0 } \\end{array} } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于篇幅所限，英文中出现的其他特征值在此没有表示，但在实际计算中不能忽略。在这里， $t _ { i }$ 是第三章计算出来的每个特征的权重值，是常数。与此同时，在将矩阵转换成段落向量之前，需要确定每一句的权值，将段落表示成矩阵即为$\\{ 0 . 6 2 t _ { 1 } , . . . , 0 . 1 9 t _ { 6 } , 0 , 0 . 1 9 t _ { 8 } , . . . , 0 . 5 t _ { 1 4 } , . . . , 0 . 1 9 t _ { 1 7 } , . . . , 0 . 1 9 t _ { 2 5 } , 0 . 3 8 t _ { 2 6 } , . . . , 0 . 1 6 t _ { 3 7 } , . . . , 0 . 1 9 t _ { 2 5 } , 0 . 3 8 t _ { 3 8 } , t _ { 2 6 } , . . . , 0 . 1 6 t _ { 2 7 } , . . . , 0 . 1 9 t _ { 3 8 } , t _ { 3 8 } \\}$ 1$\\{ 0 , . . . , 0 . 1 9 t _ { 6 } , 0 , 0 . 1 9 t _ { 8 } , . . . , 0 . 5 t _ { 1 4 } , . . . , 0 . 1 9 t _ { 1 7 } , . . . , 0 . 1 9 t _ { 2 5 } , 0 . 3 8 t _ { 2 6 } , . . . , 0 \\}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据公式计算两者之间的欧氏距离d即可。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节利用特征进行了中英文特征的对应，过滤了不符合特征对应的段落，进而将剽窃的结果的范围大大缩小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2基于结构特征对应的剽窃结果二次过滤",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2基于结构特征的段落过滤算法  \n输入：中文剽窃段落 $P$ ，初步剽窃结果 $E _ { \\circ }$ （204号  \n输出：筛选后的剽窃结果。  \n给定阈值 $l , l _ { n } , l _ { \\nu } , l _ { a d j } , l _ { a d \\nu }$ ，给定第i篇中文剽窃段落  \n对于每一篇保留段落 $\\cdot { \\bf { \\nabla } } _ { E _ { j } }$   \nif $P _ { \\scriptscriptstyle { l } } - E _ { \\scriptscriptstyle { j l } } > l \\| P _ { \\scriptscriptstyle { l _ { n } } } - E _ { \\scriptscriptstyle { j l _ { n } } } > l _ { n } \\| P _ { \\scriptscriptstyle { l _ { v } } } - E _ { \\scriptscriptstyle { j l _ { \\nu } } } > l _ { \\nu }$ $\\| P _ { l _ { a d j } } - E _ { j l _ { a d j } } > l _ { a d j } \\| P _ { l _ { a d \\nu } } - E _ { j l _ { a d \\nu } } > l _ { a d \\nu }$ 该段落不符合条件；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "list.add(j);//保存该剽窃段落 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$m a p . p u t ( i , l i s t )$ ;//将所有通过筛选的剽窃结果放入以P为key的map中；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "返回map值 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文选取了句子的长度、句子中名词的长度、句子中动词的长度、句子中形容词的长度、句子中副词的长度五种结构特征，用来对剽窃候选集进行进一步筛选和过滤，如算法2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2给定了五种特征的阈值，给定一篇中文剽窃段落和上一小节筛选出来的一次过滤的剽窃结果一一进行比较，如果某个特征超出特定阈值，则将其从其剽窃结果中进行过滤，过滤之后剩余的段落即为二次过滤后的剽窃结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3基于wordnet的剽窃结果最终认定 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行两次过滤之后，得到了最终剽窃结果。剽窃结果中可能只有一个段落，即已经找出中文段落所剽窃的英文段落，只是从语义上待进一步确认；也可能是多个段落，需要从多个段落中精确找出剽窃的段落。鉴于此，本节引入基于WordNet的跨语言文本相似度的计算方法[22]来进行最终结果的确认。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行名词消歧后，每一个名词都能得到一个有用的指纹序列，但并不是所有的名词都是有用的。有些名词出现频率很低，不具有典型性，诸如此类的都需要进行过滤，留下分辨率较大的指纹来进行相似度的计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采取与TF-IDF计算权重类似的方法来选取指纹。对于一些多次出现的名词，即它的 $T F$ 大，给予保留，而对于逆文档频率 $I D F$ 的选取需要依赖于数据集。因此本文基于WordNet的同义词数据集在树型结构中的深度作为过滤特征集的条件[1]。深度越浅，该节点代表的含义越弱。因此把低 100 全为0的指纹其进行了过滤，剩余的指纹即为选取出来的进行相似度计算的指纹。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行名词语义哈希、名词消歧、指纹选取后，得到了正式的哈希特征序列。设语言 $L$ 的输入文本 $d$ 和语言 $L ^ { \\prime }$ 的输入文本 $d$ ·的特征序列分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { F ( d ) = \\{ \\varphi ( s _ { 1 } ) , \\varphi ( s _ { 2 } ) , \\ldots \\} } \\\\ { F ( \\check { d } ) = \\{ \\varphi ( s _ { 1 } ^ { ' } ) , \\varphi ( s _ { 2 } ^ { ' } ) , \\ldots \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则通过Dice 系数来计算文本d和文本 $d ^ { \\prime }$ 的相似度，如式(11)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns i m ( d , d ^ { ' } ) = \\frac { 2 { \\times } \\left| F ( d ) { \\cap } F ( d ^ { ' } ) \\right| } { \\left| F ( d ) \\right| + \\left| F ( d ^ { ' } ) \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这样，便可得到两者的相似度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验及验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验的相关环境如下：  \n实验平台：Windows 7(64位);  \n处理器：Pentium(R) Dual-Core $( \\mathcal { O } 2 . 5 0 \\ : \\mathrm { G H z }$   \n内存：4.00 GB;  \n实验环境：MyEclipse,WinPython-64bit-2.7.10.3;开发语言：Java，Python;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验数据：本实验的实验数据分为训练数据集和测试数据集两部分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a）训练数据集的数据的正样本来自Springer 里面的Computer Science 学科下的Chapter下的3500 篇文章，通过自动翻译为中文文本作为训练集中的正样本。训练集数据的负样本来自于从中国知网的计算机软件与计算机应用类别中的中国学术期刊网络出版总库，里面包含着由《计算机学报》、《软件学报》等国内著名学报的期刊，选取2800篇中文文章作为训练集负样本。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b）测试数据集为Springer中的100 英文文章和它们的中文翻译以及50篇知网的中文文章。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1第一次过滤",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在对文本进行预处理后，如前述方法将文本中的特征提取出来，将一些出现频度偏低的特征去掉后，将符合的特征进行信息熵的计算，得出每个特征项的的稳定程度；接下来，需要确定三个权重参数 $k _ { 1 } , k _ { 2 } , k _ { 3 }$ 的值。根据结果确定3个参数的值复杂度太大，显然是不可取的。通过人工排序和算法1选择最优参数为 $k _ { 1 } = 0 . 0 4$ ， $k _ { 2 } = 0 . 7 8$ ， $k _ { 3 } = 0 . 1 3$ 。其对比结果如图4 所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/81a048f70365ceebf897ca7b6b53f11a6dcd86fb1439b12f3b0694bfc787ab58.jpg",
+        "img_caption": [
+            "图4选定参数对比分析图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在得到特征权重之后，将训练集中的文章进行特征表示，然后运用SVM进行分类器训练，得到分类模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于译文特征做剽窃分类的文章很少，本文将特征选择及特征赋予的权重后作训练得出的三个评价指标，与特征选择后及特征赋予的权重之前作训练得出的三个评价指标和文献[18]提供的特征训练所得到的三个指标作对比，用本文的训练数据集和测试数据集分别进行封闭测试和开放测试，其结果对比如图5和6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0356384b63d54272004d95b67dc2bfe084c5a39acd3ca1d4ccc29c8a33e6039a.jpg",
+        "img_caption": [
+            "图5封闭测试评价指标对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图中可以看出，在封闭测试中，本文方法与文献[18]相比，除了在非剽窃文本的召回率上与文献[18]的方法持平以外，在其余指标上有了很大提高，综合对比F值也有优势。而在开放测试中，该优势更加明显，各个指标均领先于其他指标。所以，本文针对跨语言剽窃中特征的选取准确性有了很大提高，证明了本文特征选取方法的有效性所在。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/72feeb99f41b406558724c5fa9b9067e54697091ce5311bcf10fbf91e5a72f2e.jpg",
+        "img_caption": [
+            "图6开放测试评价指标对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2第二次过滤",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于一个中文段落的多个英文段落，将不符合条件的全都过滤掉。在对比1000个段落后，有749个段落经过两次过滤后只保留了一个可疑段落，其中有736个段落精确匹配到其剽窃的段落，仅13个段落出现了匹配错误的情况。在剩余251个段落候选集中，有24个段落经过两次过滤没有可疑段落与之匹配，有227个段落有多个可疑段落与之匹配。图7展示了上述结果。由图可见此时正确率已达 $74 \\%$ 。而在227篇与多个结果匹配的段落中，需要筛选出与具体的剽窃段落，这将借助WordNet词典完成最终结果的确认工作。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/569bd4c50b66b26debd05b70f1cc5d11d49805fdbebe3e3ebdf3692c3a5e99f8.jpg",
+        "img_caption": [
+            "图7剽窃结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经统计，在验证的227个段落中，有220个段落实现了剽窃结果的准确对应，仅有7个段落的筛选错误，归其原因，在WordNet计算相似度时出现误差，正确段落并没有得到最大的相似度。但所剽窃段落在过滤后存在其可疑段落中，从侧面说明了结果有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在数据集上作本文基于特征对应的剽窃结果两次过滤，然后用基于WordNet的跨语言相似度检测，与文献[18]直接基于WordNet的跨语言相似度检测，其准确率、召回率、F值对比如图8所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图中可以看出，经过本文实验，精确率和召回率都进行了提升。归其原因，两次过滤将一些在词义上相似但译文和结构特征差别大的段落都进行了过滤，只留下了一些译文和结构特征差别小但词义也不是很相近的段落，所以精确度有了很大提高。这也验证了本文理论的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.94 ■文献[18] ■本文 0.92 0.9 0.88   \n值 0.86   \n标   \n指 0.84 0.82 0.8 0.78 0.76 准确率 召回率 F值 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出的方法跨越了语言与语法之间的不一致问题，从一个新的角度进行了剽窃检测。但正如前面所说的，跨语言剽窃检测才刚刚起步，还存在着诸多的不足，需要不断去完善修改。首先，在语料库选取上，语料库的质量将直接影响最后的分类训练结果，所以未来需要在建设高质量的语料库上下足功夫；其次，在特征构建时，需要进一步完善和挖掘特征，实现对翻译特征的自动挖掘也是未来的研究重点之一；最后，在效率上，需要更加注重效率问题，尤其在面对大数据集训练时，这也是未来需要重点研究的内容。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]张阁阁，孙梅影．浅谈科学共同体内部的伦理问题——以高等院校和 科研机构为例 [J].卷宗,2015 (6): 622-625.(Zhang Gege,Sun Meiying. Ethical issues within the scientific community: taking institutions of higher learning and scientific research institutions as examples [J]. JuanZong, 2015 (6): 622-625. )   \n[2]Brassil JT,Low S,Maxemchuk N F,et al.Electronic marking and identification techniques to discourage document copying [J]. IEEE Journal on Selected Areas in Communications,1995,13 (8):1495-1504.   \n[3]康存辉．道德治理视阈下的学术不端检测是与非[J].武汉纺织大学学 报,2015 (2):74-76.(Kang Cunhui.Detection of academic misconduct from the perspective of Moral Governance [J].Journal of Wuhan Textile University,2015 (2): 74-76.)   \n[4]邹杜，陈育青，张凌．基于语义匹配的抄袭检测方法[J].华南理工大 学学报：自然科学版,2013,41(7):131-136.(Zou Du,Chen Yuqing,Zhang ling.Method of plagiarism detection based on semantic matching [J]. Journal of South China University of Technology: Natural Science Edition, 2013,41(7): 131-136.)   \n[5]张伟．基于n-gram 的中文文本复制检测研究[D].长沙：湖南大学, 2014.(Zhang Wei.Research on Chinese text copy detection based on n-gram ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[D]. Changsha: Hunan University,2014.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[6]夏志明，刘新．一种基于语义的中文文本相似度算法[J].计算机与现 代化，2015 (4):6-9.(Xia Zhiming,Liu Xin.A Chinese text similarity algorithm based on semantics [J]. Computer and Modernization,2015 (4): 6-9.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[7]张贤坤，张倩．基于本体的综合加权案例相似度算法研究[J].算法研 究探讨，2017(2):422-425.(Zhang Xiankun,Zhang Qian.Research on ontology based comprehensive weightedcase similarityalgorithm [J]. Application Research of Computers,2017(2): 422-425.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[8] 谢松山，唐雁．基于左归词频向量空间模型的中文文本抄袭检测算法 [J].西南大学学报：自然科学版,2015,37(5):158-161.(Xie Songshan, Tang Yan. Chinese text plagiarism detection algorithm based on left left word frequency vector space model[J]. Journal of Southwest University: Natural Science Edition,2015,37(5): 158-161.)   \n[9]朱群燕．基于可比语料库的跨语言信息检索研究[D].武汉：华中师范 大学,2015.(Zhu Qunyan. Research on cross language information retrieval based on comparable corpus [D]. Wuhan: Huazhong Normal University, 2015.)   \n[10]Franco-Salvador M, GuptaP,Rosso P.Knowledge graphs as context models improving the detection of cross-language plagiarism with Paraphrasing [C]/Proc of Bridging Between Information Retrieval and Databases.Berlin: Springer,2014: 227-236.   \n[11]Franco-Salvador M,Rosso P,Montes-Y-Gómez,et al.A systematic study of knowledge graph analysis for cross-language plagiarism detection [J]. Information Processing & Management,2016,52 (4): 550-570.   \n[12]彭哲．跨语言文本相关性检测技术研究[D].长沙：中南大学,2014. (Peng Zhe. Research on cross language text correlation detection technology [D]. Changsha: Central South University,2014.)   \n[13]刘娇，崔荣一，赵亚慧，等．跨语言文献相似度的分析方法[J]．延边 大学学报：自然科学版,2016,42(2):151-155.(Liu Jiao,Cui Rongyi, Zhao Yahui,et al. An analysis method of cross-lingual literature similarity [J].JournalofYanbian University: Natural Science,2016,42 (2): 151-155.)   \n[14]张靖．面向高维小样本数据的分类特征选择算法研究[D].合肥：合肥 工业大学,2014. (Zhang Jing. Classification feature selection algorithm for high-dimensional small sample data [D].Hefei:Hefei Polytechnic University, 2014.)   \n[15] Mcnamee P, Mayfield J. Character n-gram tokenization for European languagetextretrieval[J].IformationRetrieal,4,7(-):7-97.   \n[16]蒲晓燕.“英式汉语\"称谓、英文译名及定义辨析[J]．南昌教育学院学报, 2015(12):163-180.(Pu Xiaoyan.An analysis of the titles，English translationsand definitions of\"English Chinese\"[J]. Journal of Nanchang College of Education,2015 (12): 163-180.)   \n[17] Nito E D,Mathews P,Petcu D,et al. Model-driven development and operation of multi-cloud applications [M]. Berlin: Springer International Publishing, 2017.   \n[18]杨倩茹．基于指纹融合的跨语言剽窃检测技术研究[D].哈尔滨：哈尔 滨工程大学,2016. (Yang Qianru. Research on crosslanguage plagiarism detection technology based on fingerprint fusion [D].Harbin: Harbin ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Engineering University,2016.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19] Franco-Salvador M, GuptaP,Rosso P.Cross-language plagiarism detection using a multilingual semantic network [C]// Proc of European Conference on Advances in Information Retrieval. Berlin: Springer, 2O13:710-713.   \n[20]罗远胜，王明文，勒中坚，等.跨语言信息检索中的双语主题相关模型 [J].小型微型计算机系统，2013,34(12):2758-2763.(Luo Yuansheng, Wang Mingwen,Le Zhongjian,et al.Bilingual topic correlation model in cross language information retrieval [J]. Journal of Chinese Computer Systems,2013,34(12):2758-2763.)   \n[21] Narducci F,Palmonari M, Semeraro G. Cross-lingual link discovery with TR-ESA[J].Information Sciences,2017,394-395:68-87.   \n[22] Gamallo P,Pereira-Farina M.Compositional semantics using feature-based models from wordNet [C]// Proc of Workshop on Sense.2017. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

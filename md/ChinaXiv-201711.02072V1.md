@@ -1,0 +1,176 @@
+林丽梅，刘振滨，杜焱强，苏时鹏，郑逸芳．生猪规模养殖户污染防治行为的心理认知及环境规制影响效应[J].中国生态农   
+业学报,2017,DOI: 10.13930/j.cnki.cjea.170828   
+LiuLM,LiuZB,DuYQ,SuSP,ZhengYF.Effectofpsychologicalcognitionandenvironmentalregulationonthepolution   
+prevention and controlbehavioroffamily-oriented scale pig breeders[J]. Chinese Journal ofEco-Agriculture,2017,DOI:   
+10.13930/j.cnki.cjea.170828
+
+# 生猪规模养殖户污染防治行为的心理认知及环境规制影响效应
+
+林丽梅」，刘振滨²，杜焱强，苏时鹏²,郑逸芳2\*\*(1.福建江夏学院公共事务学院福州350108；2.福建农林大学公共管理学院，福州 350001，3.复旦大学环境科学与工程系上海200433）
+
+摘要：从微观层面厘清生猪规模养殖户污染防治的行为逻辑，对宏观层面优化畜禽养殖污染治理具有重要驱动作用。为分析养殖户的无害化处理和资源化利用行为的影响因素，本文以福建省406个生猪规模养殖户为研究对象，运用结构方程模型分析养殖户心理认知对其污染防治行为的影响，并通过层次分析模型检验环境规制对心理认知-防治行为的调节效应。结果表明:1)生猪规模养殖户的污染防治行为是其在心理认知的显著正向影响下，并由环境规制的综合调节而形成的理性选择;2)养殖户的污染防治行为决策源于其对责任意识、生态理性、治污能力自我评估等的认知，是对其他养殖户的参照和对政府、非养殖户环境诉求的积极响应，也是规避风险的理性选择。3)激励性和引导性措施是对约束性环境规制的重要补充，约束性规制措施对无害化处理行为具有更显著的调节效应，激励性规制对资源化利用行为更具调节作用，引导性规制对污染防治行为具有综合调节效应。4)据此，提出加强对市场激励性规制和村规民约等非正式制度手段的应用，充分考虑养殖户对生猪养殖的依赖性及其污染防治的行为控制能力，兼用引导弃养、产业转移扶持和警示惩戒手段等促进生猪规模养殖污染防治的建议。
+
+关键词：心理认知；环境规制；生猪规模养殖户；污染防治行为；结构方程模型
+
+中国分类号：X22 文献标识码：A
+
+# Effect of psychological cognition and environmental regulation on pollution prevention and behavior control of family-oriented pig breeding
+
+LIN Limeil,LIU Zhenbin²,DU Yanqiang,SU Shipeng², ZHENG Yifang²   
+(1.SchoolofublicAdministration,FujanJiangxiaUnversity,uzhou35o08,China;2.SchoolofPublicAdmiistration,ujian   
+AgricultureandForestryUnversityuzo3,Chia;3.hoolofnviromentalSieceandEnginering,FudaUiit Shanghai 200433, China)
+
+Abstract:Large-scalerearingofpigs,withfamilymembersasthemainlaborforce,isanimportant modeofpigproductioninChina. Thecharacteristisofthepoltioncausedbythisbredingmodelaredspersion,publicitynddiicultyilocatingpoluterslof whichcolleielyeakentetofexistigpiciesdgulaiosofpltionontrol.terestiglyweer,ut andregulations targetlarge-salepigfaringdoneatcompanylevelandpigbreedingcommunitiesinthecountrywhilepigfaring atfamilylevelisftlrgelyunrestrained.Conversely,tepoutioncausedbythemostlyuncheckedfamily-orientedpigfarighas becomeachallengetosustainablerural development.This paperaimedtoillustrate thefactors responsibleforpolutionprevention behavioroffarmersandtoprovideefectiverecommendationstothegoverment tobettercontrolpolltionfromfamily-orientedpig farming.Inthispaper,thepolutionpreventionandcontrolbehaviorofpigbreeders weredividedintotwocategories一harmle treatmentandresourceutilizationbehavior.Theresearch utilizedasampleof46householdsengaged inpigrearinginFujian Province,China.Anempirical studywas conductedtoexplainhow farmer psychologicalcognitionimpactedpolutionprevention andcontrol behaviorusingStructuralEquation Model.Themoderating effectof environmentalregulationonrespondent psychological cognitionand polutioncontrolbehavior was examinedusing Mult-Level Regresion Model.Theresultsshowedthat respondent polutionpreventionandcontrolbehaviorwas positivelyimpactedbyindividualpsychologicalcognition,moderated by environmentalregulations.Thedecisionsofpolutionpreventionandcontrolbehaviorsoffarmers wereduetothecognitionsof responsibilityologicalatioalityandself-assessmentofwpolutionontrolabilty.Tedecisioseealseercdfrom the actios ofother farmers,governmentregulationand from non-farmer groups,andit was alsoarational choicetoavoidrisks. Incentiveandguidancemeasuresworkedhandinhandwithrestrictiveenvironmentalregulationinthesensethatrestrictive regulatorymeasures hadamore significant effectonharmlesstreatment behaviors.Theincentiveregulationhadamore important efect nresourceutilizationbehavior.Thenguidanceregulation hadsignificantregulationeffectonbothharmlesstreatmentand resourceutilizationbehaviors.Topromotepollutionpreventionandcontroloffamily-orientedscalepg farming,thispaperadvised thestrengtheningof theapplicationofmarket incentivesregulationandvillgesocialcapitaltoegulatefarmerpollutionprevention behavior.It was necessaryforpolutioncontroltogiveafullconsiderationtofarmerdependenceonrearpigsand behaviorcontrol ability.It was alsoadvanced to guide farmers givinguppig farming inareasonable waythrough strengthening industrytransfer support and using warning and punishment measures.
+
+Keywords:Psychologicalcognition;Environmentalregulation；Family-orientedpigbreeding;Polutionpreventionandcontrol behavior; Structural equation modeling
+
+畜禽养殖污染已成为当前农村和农业发展亟需破解的难题。生猪养殖过程中粪便排放成为畜禽养殖的主要污染源之一[]。以家庭成员为主要劳动力的规模化养殖是当前我国生猪养殖的主要模式之一。一方面，家庭式生猪养殖污染的分散型、公共性和隐蔽性等特征很大程度上削弱了法规制度等事后措施和政策的效果[2]；另一方面，现有的畜禽养殖污染防治的政策法规通常仅适用于集约化的生猪规模养殖场和养殖小区，以家庭成员为主要劳动力的生猪规模养殖户暂时处于监管真空状态。因此，家庭式生猪规模养殖污染成为制约农村可持续发展的重要瓶颈。从源头上进行畜禽养殖污染防治成为主要的政策选择[3]。生猪规模养殖户涉及多元利益需求和多重复杂角色，既是污染的制造者、治理政策的执行者，也是面源污染的受害者，如何引导其自觉进行污染防治已成为一个亟待解决的现实问题。
+
+近年来，从微观主体视角探讨畜禽养殖污染治理问题成为农村可持续发展领域的研究特点之一。研究者集中于对养殖主体污染防治行为的描述及其影响因素的探讨。其中，污染防治行为主要由生态行为[4、环境行为[2.5]、低碳养殖行为[或具体的粪便处理方式选择行为[]加以表征。但事实上，养殖污染防治是一项多维复合行为，需要结合源头控制与末端治理对其进行系统、全面地表征。归纳总结研究者关于养殖污染防治行为影响因素的研究成果：一方面，养殖主体生态认知[4]、环境与健康影响认知[2,5]、污染感知[8]、风险感知[2,9]及主观规范[1]等对各维度污染防治行为具有显著影响，不同心理认知与防治行为之间存在多样化的理论联系以及不尽相同的实证检验结果。即不同心理认知对养殖户污染防治行为的影响方向及程度尚未形成一致结论，且多数文献在选取和分析心理认知对养殖污染防治行为的影响效应时往往缺乏相关理论依据，而重在数据规律的呈现。另一方面，已有文献研究表明绿色补贴、排污收费、技术推广与指导等环境规制能够促进养殖主体采取污染防治行为[1-3]。但在证实环境规制的显著正向效应的同时，其在养殖主体污染防治行为形成过程中的具体作用方式尚且存疑。深究以上研究结果会发现，养殖主体的心理认知与其所处环境规制情境并非独立平行地对其污染防治行为产生影响，而是存在一定的交互影响[1.5-7]。因此，本文依据源头控制与末端治理相结合原则对生猪规模养殖户污染防治行为进行综合表征，力求全面系统地表征养殖户的污染防治行为，寻求理论依据细致探究心理认知对其影响机理，揭示环境规制对养殖户心理认知-防治行为关系的调节效应，以厘清生猪养殖主体的行为规律，以期为提升畜禽养殖污染治理水平开辟新的研究路径。
+
+# 1理论依据和研究方法
+
+# 1.1 理论依据
+
+计划行为理论(TPB,theory of planned behavior)是在管理学和社会学领域广泛应用的认知行为关系理论，它阐释了认知对行为影响机理的一个完整框架，通过权衡行为的潜在决定因素预测并解释主体的行为[14]。据此，养殖户的污染防治行为决定于其行为意向，而行为意向由该行为的态度、主观规范和知觉行为控制3类因素综合决定，较准确的知觉行为控制能一定程度上替代实际控制条件，直接预测行为发生的可能性。此外，风险感知是直接塑造养殖污染防治行为的重要来源[15]，环境风险感知对其环境行为意愿选择存在显著影响[2]，且风险感知还可能直接预测环境行为[10-11]。因此，理论预设将环境风险感知纳入 TPB 理论模型中，综合分析心理认知对规模养猪户污染防治行为的影响效应。畜禽养殖污染问题主要体现在外部性和公共环境产权上，从理性小农角度出发，在缺失外部监控的条件下，养殖户往往没有环保意愿。环境规制是对养殖污染外部性、产权不明晰以及养猪户环保动机缺失的补充，是养殖户污染防治行为实施的重要促进因素[1]。根据规制措施的性质，可概括归纳为引导性、激励性与约束性等3类[69,12]。综上，养殖户污染防治行为是其心理认知与环境规制共同作用的结果，当污染防治行为较难实施的时候，养殖户对心理变量的依赖就会减弱[17]，而环境规制对污染防治行为影响力就会增强[5.18]。心理认知与环境规制之间并非平行无关的影响因素，理论预设环境规制对养殖户心理认知与其污染防治行为之间具有显著调节效应。因此，构建心理认知及环境规制对生猪规模养殖户污染防治行为的影响效应假设模型如图1所示。
+
+![](images/c608ee5f3cc60275316e05974582c3cd7bf28dbd9800234b0c2db2b212c91c40.jpg)  
+图1生猪规模养殖户污染防治行为的心理认知及环境规制影响效应的研究模型
+
+ig.1Research model of effect of psychological cognition and environmentalregulation on farmerspollution cont behaviors
+
+# 1.2 研究方法
+
+# 1.2.1 数据来源与样本特征
+
+本文所采用的数据来自课题组于2016年4—10月在福建省南平、龙岩、三明地区开展的抽样调查。根据生猪养殖业相对集中程度，在3个地区分别选取延平、邵武、新罗、上杭以及尤溪5个县(市、区)。养殖户样本选取采用分层逐级抽样和随机抽样相结合的方法。以每个县(市、区)的平均养殖规模为划分依据，分别随机选取高于和低于平均规模的3\~4个乡镇，依据养殖密度随机、相对地选取高、中、低的 3\~6个行政村，再在各村庄中根据养殖规模大小随机、相对地选取6\~7个生猪养殖户进行问卷调查和访谈。采用与养殖户“一对一、面对面"的访问方式，并由调查者填写卷。共发放问卷451份，回收有效问卷406份，有效率为 $9 0 . 0 \%$ 。样本养殖户的个体特征及其养殖情况如表1所示。统计显示样本主要以男性为主；年龄集中在 $4 1 { \sim } 6 0$ 岁，占全部样本的 $6 9 . 7 1 \%$ ；受教育水平以初中及高中居多，占全部样本的 $56 . 6 5 \%$ ；样本养殖户中担任村干部占比为 $14 . 7 5 \%$ 。养殖特征方面，养殖规模主要集中在100\~500头，养殖年限主要分布在 $1 0 { \sim } 2 0$ 年,2015年的家庭养殖净收入平均水平为19.33万元。
+
+# 表1样本养殖户的个体特征及养殖的基本情况描述
+
+Table 1Individual characteristics of sample pig farmers and description of the basic situation of pig farming   
+
+<html><body><table><tr><td>项目 Item</td><td>类别 Category</td><td>百分比 Percent (%)</td><td>项目 Item</td><td>类别 Category</td><td>百分比 Percent (%)</td></tr><tr><td>性别</td><td>男Man</td><td>86.21</td><td>年龄Age</td><td>≤30</td><td>3.94</td></tr><tr><td>Sex</td><td>女Woman</td><td>13.79</td><td></td><td>31~40</td><td>18.97</td></tr><tr><td>受教育水平</td><td>小学及以下Primary school or below</td><td>39.66</td><td></td><td>41~50</td><td>42.12</td></tr><tr><td>Education</td><td>初中 Junior high educational level</td><td>42.86</td><td></td><td>51~60</td><td>27.59</td></tr><tr><td rowspan="4"></td><td>高中(中专) Senior high educational level</td><td>13.79</td><td></td><td>≥61</td><td>7.38</td></tr><tr><td>大学及以上University or above</td><td></td><td>养殖年限 Breeding year</td><td>1~5 6~10</td><td>8.87</td></tr><tr><td>是Yes</td><td>3.69 76.11</td><td>(a)</td><td>11~15</td><td>27.83</td></tr><tr><td></td><td></td><td></td><td>16~20</td><td>33.00 22.42</td></tr><tr><td>Whether the village cadres</td><td>否No</td><td>23.89</td><td></td><td>≥21</td><td>7.88</td></tr><tr><td>养殖规模(头)</td><td>≤100</td><td>20.69</td><td>养猪年净收入 Annual net income</td><td>≤5</td><td>29.31</td></tr><tr><td rowspan="4">Farming scale (pig)</td><td>101~250</td><td>33.50</td><td>of farming</td><td>6~10</td><td>25.62</td></tr><tr><td>251~500</td><td>27.09</td><td></td><td>11~20</td><td>26.60</td></tr><tr><td>501~1500</td><td>10.84</td><td>(-104¥)</td><td>21~30</td><td>7.39</td></tr><tr><td>≥1501</td><td>7.88</td><td></td><td>≥31</td><td>11.08</td></tr></table></body></html>
+
+# 1.2.2养殖户污染防治行为及其影响因素的变量说明和描述性统计
+
+本文遵照源头控制和末端治理相结合的原则，根据专家意见和访谈结果，将生猪养殖污染防治行为分为无害化处理和资源化利用。根据访谈，清洗猪舍前如若能进行干清粪，能较好地起到削减污染物的作用;沼气池对于畜禽粪便污染物的削减能力主要由养殖量与沼气池容积的比值决定，如能按照养殖规模进行沼气系统设施的建设(最适宜比例为 $1 { : } 7 { \sim } 1 { : } 8 )$ ，才能较理想地削减的污染物。此外，好氧处理技术是经沼气厌氧工艺之后进一步削减污染物的主要措施。因此，无害化处理行为包括采用干清粪养殖方式”、“建有适应养殖规模的沼气系统设施"以及"猪尿及污水是否经好氧处理”。其中，“采用干清粪方式"按照干清粪比例赋值 $40 \%$ 以下 $^ { = 1 }$ ， $4 0 \% { \sim } 5 0 \% { = } 2$ ， $5 0 \% { \sim } 6 0 \% { = } 3$ ， $6 0 \% { \sim } 7 0 \% { = } 4$ $70 \%$ 以上 $\scriptstyle = 5$ )，“沼气设施建设情况"按照沼气设施与养殖规模比例赋值(小于 $1 / 1 0 { = } 1 , 1 / 1 0 { - } 1 / 8 { = } 2 , 1 / 8 { \sim } 1 / 7 { = } 3 , 1 / 7 { \sim } 1 / 5 { = } 4 , 1 / 5$ 以上 $\scriptstyle : = 5$ ),“好氧处理行为"按照设施数量及使用频率赋值(无设施或频率低于 $3 0 \% = 1$ ， $3 0 \% { \sim } 5 0 \% { = } 2$ ， $5 0 \% { \sim } 6 0 \% { = } 3$ ， $6 0 \% { \sim } 7 0 \% { = } 4$ ， $70 \%$ 以上 $\scriptstyle = 5$ 。资源化利用行为包括对养殖废弃物进行肥料化、饲料化和能源化利用3类。为尽量减少主观干扰，养猪户污染防治行为及其心理认知、环境规制变量的测量采取以行为事实为依据，并采用在管理学和心理学上广泛应用的李克特(Likert)五级量表进行测量。据此，对样本养猪户污染防治行为及其心理认知、环境规制的变量说明及统计描述如表2所示。
+
+表2养殖户污染防治行为及其心理认知、环境规制的变量说明与统计  
+ble 2Variables and statisticsof pig farmers’polltion control behaviors andtheirpsychologicalcognitionand environmer   
+  
+
+<html><body><table><tr><td rowspan="2">潜变量</td><td rowspan="2">变量维度 测量项目</td><td colspan="3">regulation</td></tr><tr><td></td><td>均值 Mean</td><td>标准差 Standard deviation</td></tr><tr><td>Latent variable 污染防治行为</td><td>Variable dimension 无害化处理</td><td>Measure item 采用干清粪养殖方式 Using dry feces farming (ITB1)</td><td>2.273</td><td></td><td>1.410</td></tr><tr><td>Pollution control</td><td>Harmless disposal</td><td>建有适应养殖规模的沼气系统设施</td><td></td><td>3.190</td><td>1.519</td></tr><tr><td>behavior</td><td>(ITB)</td><td>Having biogas system meeting the breeding scale (ITB 2)</td><td></td><td></td><td></td></tr><tr><td>(BEH)</td><td></td><td>猪尿及污水经好氧处理后排放</td><td></td><td>2.281</td><td>1.504</td></tr><tr><td rowspan="12">污染防治意愿 Pollution control</td><td></td><td>Pig urine and sewage are discharged after aerobic treatment (ITB 3)</td><td></td><td></td><td></td></tr><tr><td>资源化利用</td><td></td><td>生猪养殖废弃物饲料化利用 Breeding waste is used as fodder (RUB1)</td><td>2.235</td><td>1.459</td></tr><tr><td></td><td></td><td>Recycling utilization 生猪养殖废弃物肥料化利用 Breeding waste is used as fertilizer (RUB2)</td><td>3.285</td><td>1.492</td></tr><tr><td>(RUB)</td><td>生猪养殖废弃物能源化利用 Breeding waste is used as energy(RUB3)</td><td></td><td>3.354</td><td>1.422</td></tr><tr><td>目标意向</td><td>愿意对粪污进行资源化利用 Willing to use the fecal as resources (BI1)</td><td>3.421</td><td></td><td>1.248</td></tr><tr><td>Target intention</td><td>愿意采纳粪污无害化处理技术 Willing to adopt fecal treatment technology (BI2)</td><td>3.397</td><td></td><td>1.297</td></tr><tr><td>behavioral 执行意向</td><td>愿意参加养猪污染防治技术培训</td><td></td><td>3.441</td><td>1.199</td></tr><tr><td>intention</td><td></td><td>Execution intention Willing to participate in the technology training (BI3)</td><td></td><td></td></tr><tr><td>(BI)</td><td></td><td>愿意进行养猪废弃物污染防治治理投资</td><td>3.303</td><td>1.247</td></tr><tr><td></td><td></td><td>Willing to investment in pollution control (BI4)</td><td></td><td></td></tr><tr><td></td><td></td><td>愿意付出精力和时间进行粪污污染防治</td><td>2.966</td><td>1.387</td></tr><tr><td></td><td></td><td>Willing to pay effort and time to carry out pollution control (BI5)</td><td></td><td></td></tr><tr><td>行为态度</td><td>生态理性</td><td>开展养猪污染防治很有必要 It is necessary to carry out pollution control (ATT1)</td><td>4.160</td><td>0.944</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">Behavioral atitude Ecological rationality 养猪会对环境造成严重污染 Pigs cause serious environmental polltion (ATT2)</td><td>4.032</td><td>1.202</td></tr><tr><td rowspan="3">(ATT)</td><td>责任意识 Responsibility</td><td>养猪户应该是养猪污染治理的主体 Pig farmers are responsible for pollution control (ATT3)</td><td>3.515</td><td>1.014</td></tr><tr><td></td><td>养猪户采取防治行为对环境保护很有必要</td><td>3.844</td><td>0.993</td></tr><tr><td>邻里压力</td><td>Pig farmers should take action to protect environment (ATT4)</td><td></td><td></td></tr><tr><td colspan="3">主观规范 村里非养殖户建议应该进行养猪污染治理 Subjective norms Neighborhood pressureNon-pig farmers suggest to control the pollution (SN1)</td><td>2.618</td><td>1.094</td></tr><tr><td>(SN)</td><td>参照效应</td><td>其他养殖户采取污染治理行为，其也会采取</td><td>3.764</td><td>1.223</td></tr><tr><td></td><td>Reference effect 政策压力</td><td>If other pig farmers take pollution control behavior,I will take too (SN2) 政府部门建议应该采取污染防治行为</td><td>3.879</td><td>0.994</td></tr><tr><td>知觉行为控制 Behavioral</td><td>Policy pressure 经济条件</td><td>Government departments suggest to control the pollution (SN3) 具备采取养殖污染防治行为的经济条件</td><td>2.825</td><td>1.052</td></tr><tr><td>perception control (PBC)</td><td>Financial ability 技术能力</td><td>Having the financial ability to take pollution control behavior (PBC1) 掌握养殖污染防治的相关知识或技术</td><td>2.897</td><td>1.079</td></tr><tr><td></td><td>Technical skills 自我效能</td><td>Having the knowledge or technology of breeding pollution control (PBC2) 进行污染防治能改善养殖污染</td><td>3.064</td><td>1.315</td></tr><tr><td>环境风险感知</td><td>Self-efficacy 问题感知</td><td>Pollution control can improve breeding environment (PBC3) 生猪养殖造成的环境污染已较为严重</td><td>4.160</td><td>0.944</td></tr><tr><td>perception (PRF)</td><td>损失感知</td><td>Environmental risk Problem perception Pig farming has caused serious pollution (PRF1) 养殖污染会对造成人体健康危害或经济利益损失</td><td>2.564</td><td>1.176</td></tr><tr><td>引导性规制</td><td>Risk perception 政策感知</td><td>Pollution can cause harm to human health or economic benefits (PRF2) 我很了解政府关于养殖污染治理的政策措施 Policy perceptionIunderstand the government's policy on pollution control (PRF3)</td><td>2.744</td><td>1.171</td></tr><tr><td>Guidance regulation (LER)</td><td>宣传教育 Publicity and</td><td>环境保护和治理的宣传教育效果 Effect of publicity and education for pollution control (LER 1)</td><td>3.229</td><td>1.081</td></tr><tr><td></td><td>education 引导转业</td><td>放弃养猪重新找谋生渠道的难度</td><td>1.980</td><td></td></tr><tr><td>激励性规制 Incentive</td><td></td><td>Guide for other jobs Diffculty of giving up pig breeding to find other works (LER2)</td><td></td><td>1.530</td></tr><tr><td></td><td>粪肥消纳交易</td><td>粪肥消纳交易便利程度</td><td>2.532</td><td>1.319</td></tr><tr><td>regulation (IER)</td><td></td><td>Manure consumption Convenience of the manure disposal (IER1)</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>治污补贴</td><td>养猪污染防治的补贴合理程度</td><td>2.345</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>1.267</td></tr><tr><td></td><td></td><td>Pollution subsidies Reasonability of pollution subsidies (ER2)</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>技术推广</td><td>养殖污染防治技术推广指导水平</td><td>3.067</td><td>1.170</td></tr><tr><td></td><td></td><td>Technology promotion Effect of pollution control technology promotion (IER 3)</td><td></td><td></td></tr><tr><td>约束性规制</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>村规民约</td><td>村里禁止粪污直接排放规定的强度</td><td>2.910</td><td>1.151</td></tr><tr><td>Binding</td><td></td><td>Village regulationsRules of prohibits fecal direct emissions (BER 1)</td><td></td><td></td></tr><tr><td>regulation(BER)</td><td>限量养殖管制</td><td>周边因环保被关闭或拆除的猪场数量</td><td>3.628</td><td>1.215</td></tr><tr><td></td><td>Breeding quantity</td><td>Number of pig farms that are closed or removed by governments (BER2)</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>control</td><td></td><td></td><td></td></tr><tr><td>Emission standards Enforcement of compliance or zero emission standards (BER3)</td><td>排放技术标准</td><td>达标或零排放标准执行力度</td><td>2.596</td><td>1.185</td></tr></table></body></html>
+
+# 1.2.3 研究方法选取
+
+行为态度、主观规范及知觉行为控制属于主观认知，具有难以直接测量和难以避免主观测量误差的基本特征。结构方程模型(structural equation modeling,SEM)是将测量与分析整合为一的计量研究技术，可为难以直接观测的潜变量进行观测和处理，还可估计测量过程中变量测量误差的分析工具[19]。因此，本文运用结构方程模型开展养猪户污染防治行为的心理认知影响效应的分析。此外，通过对养殖户防治行为和防治意愿进行算数平均值求解，继而构建防治意愿综合得分与各环境规制变量的交互项，运用层次回归模型检验环境规制对养殖户污染防治意愿与防治行为关系的调节效应。为尽量降低潜在的多重共线性问题，采用"对中"方法对交互项进行多重共线性处理，处理后的多重共线性检验结果的最大和平均方差膨胀因子值均小于10，表明自变量间不存在多重共线性。
+
+# 2结果与分析
+
+# 2.1养殖户污染防治行为及心理认知变量数据的信度和效度检验
+
+为确保研究结论的可信性和有效性，本文对量表进行了信度和效度检验，结果如表3所示。需要说明的是，在对量表进行问项-总体相关系数(CITC)及内部一致性系数检验时，根据CITC应小于0.4的评价标准，删除资源化利用行为 $\mathbf { R U B } _ { 1 }$ 和行为态度中的 $\mathrm { A T T } _ { 4 }$ 观测变量。通过Cronbach的 $\scriptstyle a$ 值和组合信度检验样本数据的信度，问卷整体Cronbach 的 $\scriptstyle a$ 值为0.845，防治行为、防治意愿、行为态度、主观规范、知觉行为控制及环境风险感知的Cronbach的 $\scriptstyle a$ 值介于 $0 . 5 3 1 { \sim } 0 . 8 9 5$ 之间，说明各项测量指标的一致性良好。同时，各潜变量的组合信度值介于 $0 . 6 9 5 { \sim } 0 . 8 9 0$ 之间，大于评价标准0.6；除知觉行为控制变量外，所有潜变量的抽取平方提炼方差值均高于评价标准0.5。这说明模型具有良好的信度。再者，运用 SPSS17.0软件对样本数据进行因子分析，所得结果的KMO为0.641，方差贡献率为 $71 . 6 6 7 \%$ 。综合来看，模型数据适合做因子分析，即表明模型具有较强的建构效度[19]。
+
+Table3Reliabilityand validity test results of pollution control behaviors and psychological cognitive variable   
+
+<html><body><table><tr><td>潜变量 Latent variable</td><td>方差贡献率 Variance contribution rate</td><td>Cronbach的α值 Cronbach’α</td><td>组合信度 Combination reliability</td><td>平均提炼方差 Mean refining variance</td></tr><tr><td>无害化处理行为 Harmless disposal behavior</td><td>28.458</td><td>0.674</td><td>0.851</td><td>0.535</td></tr><tr><td>资源化利用行为 Recyclingutilization behavior</td><td>38.382</td><td>0.686</td><td>0.758</td><td>0.594</td></tr><tr><td>防治意愿 Behavioral intention</td><td>47.050</td><td>0.895</td><td>0.890</td><td>0.619</td></tr><tr><td>行为态度 Attitude of behavior</td><td>55.000</td><td>0.531</td><td>0.695</td><td>0.533</td></tr><tr><td>主观规范 Subjective norm</td><td>62.277</td><td>0.878</td><td>0.882</td><td>0.714</td></tr><tr><td>知觉行为控制 Perception behavior control</td><td>67.276</td><td>0.732</td><td>0.732</td><td>0.478</td></tr><tr><td>环境风险感知 Environmental risk perception</td><td>71.667</td><td>0.787</td><td>0.790</td><td>0.557</td></tr></table></body></html>
+
+# 2.2结构方程模型适配度检验
+
+由结构方程模型拟合的整体适配度检验指标可知(表4)，初步拟合的卡方值为425.2，残差均方根、拟合优度、规范拟合、相对拟合、赤池信息准则等指标都不符合评价标准。根据模型路径系数与修正指数，按指数从大到小的顺序修正模型，分别增加行为态度与主观规范、行为态度与环境风险感知、无害化处理潜变量与废弃物肥料化利用等变量之间的残差相关关系。修正后，模型的 $\chi ^ { 2 }$ 显著变小(352.1)，除残差均方根和相对拟合指标接近于评价标准外，其他适配度评价指标均符合评价标准，表明模型整体拟合状况更加优化。结构方程模型所得的回归结果及路径图如表5和图2所示。
+
+表3污染防治行为及心理认知变量数据的信度与效度检验分析结果  
+表4结构方程模型整体适配度的评价指标体系及拟合结果  
+Table 4Evaluation index system and the fittng results of Structure Equation Model   
+
+<html><body><table><tr><td>整体模型适配度指数 Overall model fit measure</td><td>统计检验量 Statistical test quantity</td><td>建议值 Suggestive value</td><td>初步模型 Rudimentary model</td><td>最终模型 Final model</td></tr><tr><td>index 绝对指数</td><td>X²/df</td><td><3.00</td><td>2.047</td><td>1.824</td></tr><tr><td>Absolute index</td><td>RMR</td><td><0.08</td><td>0.100</td><td>0.086</td></tr><tr><td rowspan="4"></td><td>RMSEA</td><td><0.08</td><td>0.051</td><td>0.045</td></tr><tr><td>GFI</td><td>>0.09</td><td>0.915</td><td>0.929</td></tr><tr><td>AGFI</td><td>>0.09</td><td>0.891</td><td>0.906</td></tr><tr><td>NFI</td><td>>0.09</td><td>0.896</td><td>0.910</td></tr><tr><td>增值指数 Appreciation index</td><td>RFI</td><td>>0.09</td><td>0.879</td><td>0.892</td></tr><tr><td></td><td>CFI</td><td>>0.09</td><td>0.944</td><td>0.957</td></tr><tr><td>简约指数</td><td>PCFI</td><td>>0.05</td><td>0.809</td><td>0.708</td></tr><tr><td>Contracted index</td><td>PNFI</td><td>>0.05</td><td>0.768</td><td>0.795</td></tr><tr><td></td><td>AIC</td><td>同时小于独立模型值和饱和模型值 Less than values of independent model</td><td>515.4,506,3 964.3</td><td>472.1, 506.0, 3 946.3</td></tr><tr><td></td><td>CAIC</td><td>and standard model 同时小于独立模型值和饱和模型值 Less than values of independent model and standard model</td><td>790.7,1 772.6, 4 056.5</td><td>772.5,1 772.6, 4 056.5</td></tr></table></body></html>
+
+X/df为卡方值与自由度的比值,RMR为残差均方根,RMSEA为近似误差均方根,GFI为拟合优度,AGFI调整拟合优度;NFI、RFI、CFI分别为规范拟合、相对拟合、比较拟合指标;PCFI简约比较拟合,PNFI为简约规范拟合指标,AIC 为赤池信息准则,CAIC 为一致赤池信息准则。
+
+# 2.3养殖户污染防治行为的心理认知影响效应检验结果分析
+
+# 2.3.1 行为态度对防治意愿及行为的影响效应
+
+由表5可知，行为态度对养殖户污染防治意愿的影响路径通过显著性检验，同时，表6进一步显示行为态度对无害化处理和资源化利用行为的间接效应分别为0.063和0.069，说明行为态度对污染防治行为具有显著正向影响。此外，观察生态理性与责任意识测量变量对行为态度的路径平均系数分别为0.63和0.71(图2)，表明较于生态理性，责任意识对养殖户污染防治意愿及行为的作用效应较强。这很大程度上得益于近年来研究区域"谁污染谁治理"的宣传引导政策。
+
+# 2.3.2 主观规范对防治意愿及行为的影响效应
+
+由表5和表6所示，养殖户主观规范对其防治意愿及行为具有显著正向影响效应，且对无害化处理行为和资源化利用行为的间接效应为0.142和0156。同时，由图2显示，主观规范的观测变量中，解释力由高到低的排序分别为参照效应、政策压力、邻里压力，且解释力均在0.79以上。表明养殖户污染防治行为并非单纯出于成本收益评估的理性行为选择，更是对相似主体行为选择的参照和对其他利益主体相应诉求的积极响应，一定程度上具有利他主义与集体行动的属性。随着政府加强对禁建区、禁养区的划定和执行，养殖户对相应的限制养殖政策“耳濡目染”，强化了其所感知到的政策压力。此外，随着农村居民的环境与健康意识的日益增强，其对生活环境污染的敏感度也逐渐提高，由此形成的特定群体规范也成为养殖户采取污染防治行为的重要约束。
+
+# 2.3.3知觉行为控制对防治意愿及行为的影响效应
+
+由表5所示，知觉行为控制对养殖户资源化利用行为的影响路径未通过显著性检验，但对防治意愿和无害化处理行为具有显著正向影响，且其对防治意愿、无害化处理行为的总效应分别为0.268和0.291(表6)。进一步观察表6所示的影响总效应可知，知觉行为控制除了通过防治意愿的中介作用对防治行为产生显著影响外，自身还直接对防治行为具有显著正向影响，且直接效应与间接效应分别为0.157和0.134，表明知觉行为控制通过污染防治意向产生的间接效果占总效果的近一半，中介效应较好。转而观察图2发现，知觉行为控制的3个观察变量，经济能力、技术支持及行为效能感的解释力分别0.757,0.665 和0.647，说明经济能力是养殖户实施污染防治行为时最重要的考虑因素。知觉行为控制对资源化利用行为的不显著影响结果可能原因是资源化利用行为对经济、知识等条件的要求较低，行为实施较少受制于行为成本和条件。
+
+# 2.3.4环境风险感知对污染防治意愿及行为的影响效应
+
+由表5可知，养殖户环境风险感知对其污染防治意愿、无害化处理行为及资源化利用行为均具有显著正向影响，且表6进一步显示其对应上述意愿及行为变量的总效应分别为0.307、0.606和0.456，风险感知对污染防治意愿的影响效应低于污染防治行为，表明养殖户对风险的自我感知能够很大程度上直接解释污染防治行为的实施，具有显著的直接效应。同时，据表6分解风险感知对无害化处理与资源化利用行为的直接效应与间接效应可知，该变量通过污染防治意向对两项行为产生的间接效应分别占总效应的 $6 2 . 7 \%$ 和$6 8 . 4 \%$ ，表明污染防治意向的中介效应较好。由图2可知，问题感知、损失感知及政策感知观测变量对环境风险感知的解释系数分别为0.715、0.706和0.813，说明养殖户的政策感知对其污染防治行为实施作用效应最为显著，而损失风险感知的影响效应最小。
+
+# 2.3.5 防治意愿对心理认知一防治行为关系的影响效应
+
+表5和表6共同显示养殖户污染防治意愿对防治行为具有显著正向影响，对无害化处理和资源化利用行为的影响路径系数分别为0.501和0.549，且在行为态度、主观规范、知觉行为控制、环境风险感知等心理认知与防治行为之间具有中介效应。同时，由图2所示，目标意向中，资源化利用和无害化处理技术采纳意愿的路径系数分别为0.768、0.694，而执行意向中，时间精力付出、技术培训参与以及资本投资等意愿的路径系数分别为0.824、0.828和0.815。表明较于目标意向，执行意向更具解释力。可能原因是养殖户习惯将污染防治行为视为自主生产经营行为，这一定程度上有悖于减少公共环境污染的目标。而相比之下，将污染防治作为生产经营中的部分环节进行投资和参与的行为意向对防治行为更具解释力。
+
+表5心理认知对污染防治行为影响效应的结构方程模型回归结果  
+
+<html><body><table><tr><td colspan="6">Table 5 Structural equation model regression of effect of psychological cognition on pollution control behavior</td></tr><tr><td>路径 Path</td><td>非标准化系数 Non-standardized</td><td>标准误差</td><td>临界比率值 Valueofcritical ratio</td><td>标准化系数 Standardized</td><td>显著性 Significance</td></tr><tr><td></td><td>coefficient</td><td>Standard error</td><td>2.105</td><td>coefficient 0.125</td><td>level</td></tr><tr><td>ATT→BI</td><td>0.164</td><td>0.078 0.056</td><td>5.334</td><td>0.284</td><td>0.035 ***</td></tr><tr><td>SN→BI</td><td>0.301</td><td></td><td>4.616</td><td></td><td>***</td></tr><tr><td>PBC→BI</td><td>0.337</td><td>0.073</td><td></td><td>0.268</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>PRF→BI</td><td>0.346</td><td>0.065</td><td>5.357</td><td>0.307</td><td>***</td></tr><tr><td>BI→ITB</td><td>0.512</td><td>0.071</td><td>7.197</td><td>0.501</td><td>***</td></tr><tr><td>PBC→ITB</td><td>0.202</td><td>0.08</td><td>2.524</td><td>0.157</td><td>0.012</td></tr><tr><td>PRF→ITB</td><td>0.261</td><td>0.071</td><td>3.662</td><td>0.226</td><td>***</td></tr><tr><td>BI→RUB</td><td>0.608</td><td>0.078</td><td>7.782</td><td>0.549</td><td>***</td></tr><tr><td>PBC→RUB</td><td>0.029</td><td>0.083</td><td>0.345</td><td>0.021</td><td>0.730</td></tr><tr><td>PRF→RUB</td><td>0.18</td><td>0.075</td><td>2.405</td><td>0.144</td><td>0.016</td></tr></table></body></html>
+
+“路径”列中的缩写意义见表2。\*、\*\*、 $\ast \ast \ast$ 分别表示 $10 \%$ 、 $5 \%$ 、 $1 \%$ 水平显著。Meanings of abbreviations in the column of"Path"are shown in the able 2.\*,\*\* and $* * *$ mean significant effects of the variables at $10 \%$ $5 \%$ and $1 \%$ levels,respectively.
+
+表6心理认知对生猪规模养殖户污染防治行为的影响效应  
+Table 6Effects of various factors on the pollution control behaviors of pig farmers   
+
+<html><body><table><tr><td rowspan="3">变量 Variable</td><td colspan="2">BI</td><td colspan="2">ATT</td><td colspan="2">SN</td><td colspan="2">PBC</td><td colspan="2">PRF</td></tr><tr><td>直接</td><td>间接</td><td>直接</td><td>间接</td><td>直接</td><td>间接</td><td>直接</td><td>间接</td><td>直接</td><td>间接</td></tr><tr><td>Direct</td><td>Indirect</td><td>Direct</td><td>Indirect</td><td>Direct</td><td>Indirect</td><td>Direct</td><td>Indirect</td><td>Direct</td><td>Indirect</td></tr><tr><td>BI</td><td>一</td><td>1</td><td>0.125</td><td></td><td>0.284</td><td>一</td><td>0.268</td><td>一</td><td>0.307</td><td>一</td></tr><tr><td>ITB</td><td>0.501</td><td></td><td>一</td><td>0.063</td><td>丨</td><td>0.142</td><td>0.157</td><td>0.134</td><td>0.226</td><td>0.380</td></tr><tr><td>RUB</td><td>0.549</td><td></td><td>1</td><td>0.069</td><td></td><td>0.156</td><td>一</td><td></td><td>0.144</td><td>0.312</td></tr></table></body></html>
+
+变量缩写的意义见表2.“—"表示心理认知变量对相应污染防治行为或意向不具有影响效应或显著影响效应。Meanings of abreviations in he column ofvarablesesoinablabeasosianttofgiierablotlotoavi intentions.
+
+![](images/a4cdf0eff1981f33d60255b3e051908e10beb80fd943c0633691830f44469b56.jpg)  
+图2修正后的心理认知对污染防治行为影响效应的结构方程模型路径图
+
+Fig.2Pathdiagramofthe modified structuralequation modelefectof psychologicalcognitiononpollutioncontrolbehavior ATT、SN、PBC、PRF、ITB、RUB 等的意义见表2。Meanings of abbreviations are shown in the table 2.
+
+# 2.4环境规制调节效应的模型检验与结果分析
+
+由表7可知，引导性环境规制对污染防治意愿与行为关系具有显著调节效应。首先，宣传教育主要通过强化养殖户的责任意识和政策感知促进其污染防治行为的实施。其次，政府引导养殖户弃养转业的成效对防治意向转化具有显著负向调节效应。可能解释是：由于养殖户常年从事生猪养殖工作，形成对养殖业的极大依赖；但同时，这类群体容易形成固化思维，对养殖污染治理的必要性和自身责任的认知较为薄弱，在政府引导转业成效尚未显现的情况下，迫于生存和经济理性养殖户不得不采取防治行为，表现为意愿与行为的明显不一致。
+
+如表7所示，激励性环境规制调节效应的理论预设大致得到证实。其中，粪肥消纳的便利度和污染防治补贴两个变量仅对资源化利用行为具有显著调节效应，而知识和技术推广则仅在无害化处理行为起显著调节作用。便捷的粪肥消纳与交易不仅能够为养殖户带来一定的经济收益，弥补其治污成本；还可为养殖户解决粪肥堆放的场地和二次污染问题，促使其实施积极的资源化利用行为。由于调研区域针对生猪规模养殖户开展的污染防治补贴主要为家用型沼气池建设补贴，即治污补贴实则是为开展能源化利用提供了设施保障，因而，污染防治补贴仅对资源化利用行为具有调节效应。再者，当前的基层畜牧主管部门技术和知识推广、指导主要以无害化处理技术为主；且在实际操作中往往带有一定的强制性，这可能导致养殖户的污染防治选择与无害化处理行为实施产生不一致的结果，表现为知识和技术推广的显著调节效应。
+
+根据表7所示检验结果，约束性环境规制调节效应的理论预设仅部分成立。具体地，村规民约对两项污染防治行为均具有显著正向调节效应，限养管制仅对无害化处理行为具有显著调节作用，而排污技术标准的调节效应未通过显著性检验。首先，村规民约根植于乡村的日常生产生活和独特风俗习惯[20]，这种非正式制度对养殖户的污染防治行为的实施具有较强的约束力。其次，限养管制措施分化形成因生存理性而积极治污的养殖户群体，并凸显了以无害化处理为养殖许可前提的政策重点。再者，由于家庭式生猪规模养殖污染的隐蔽性、随机性、分散性特点，排污技术标准的执行不仅对政府监管力度和手段具有较高要求.而且还面临监管难度大、成本高的困境。因而，实行少数重点监管成为该规制措施的权宜选择，但这将弱化其对养殖户污染防治行为的调节效应。
+
+表7环境规制变量对污染防治行为的调节效应检验结果  
+Table 7Test results of regulatory effects of environmental regulation on pollution control behavior   
+
+<html><body><table><tr><td rowspan="2">变量 Variable</td><td colspan="3">无害化处理行为Harmless disposal behavior</td><td colspan="3">资源化利用行为Recycling utilization behavior</td></tr><tr><td>模型1</td><td>模型2</td><td>模型3</td><td>模型1</td><td>模型2</td><td>模型3</td></tr><tr><td></td><td>Model 1 0.583***</td><td>Model 2</td><td>Model 3</td><td>Model 1</td><td>Model2</td><td>Model 3</td></tr><tr><td>BI</td><td></td><td>0.292***</td><td>0.222</td><td>0.659***</td><td>0.322***</td><td>0.347***</td></tr><tr><td>LER1</td><td></td><td>0.400***</td><td>0.123*</td><td></td><td>0.471***</td><td>0.314***</td></tr><tr><td>LER2</td><td></td><td>-1.994***</td><td>-0.174**</td><td></td><td>-0.190***</td><td>-0.143***</td></tr><tr><td>IER1</td><td></td><td>0.130***</td><td>0.067</td><td></td><td>0.017***</td><td>0.031***</td></tr><tr><td>IER2</td><td></td><td>0.031**</td><td>0.036***</td><td></td><td>-0.095***</td><td>-0.197***</td></tr><tr><td>IER3</td><td></td><td>-0.090** 0.110***</td><td>-0.080</td><td></td><td>-0.104***</td><td>-0.182***</td></tr><tr><td>BER1</td><td></td><td>0.014***</td><td>0.038***</td><td></td><td>0.032***</td><td>0.130**</td></tr><tr><td>BER2</td><td></td><td>0.434***</td><td>0.071</td><td></td><td>0.063</td><td>0.329</td></tr><tr><td>BER3</td><td></td><td></td><td>0.037*</td><td></td><td>0.052***</td><td>0.295*</td></tr><tr><td>BI-LER1</td><td></td><td></td><td>0.083***</td><td></td><td></td><td>0.047**</td></tr><tr><td>BI-LER2</td><td></td><td></td><td>-0.007**</td><td></td><td></td><td>-0.015**</td></tr><tr><td>BI-IER1</td><td></td><td></td><td>0.020</td><td></td><td></td><td>0.027***</td></tr><tr><td>BI-IER2</td><td></td><td></td><td>0.022</td><td></td><td></td><td>0.052*</td></tr><tr><td>BI-IER3</td><td></td><td></td><td>-0.004***</td><td></td><td></td><td>-0.224</td></tr><tr><td>BI-BER1</td><td></td><td></td><td>0.020***</td><td></td><td></td><td>0.003***</td></tr><tr><td>BI·BER2</td><td></td><td></td><td>0.011**</td><td></td><td></td><td>-0.077</td></tr><tr><td>BI-BER3</td><td></td><td></td><td>-0.025</td><td></td><td></td><td>0.070</td></tr><tr><td>F-statistic</td><td>154.7***</td><td>175.4***</td><td>122.3***</td><td>103.6***</td><td>187.5***</td><td>104.8***</td></tr><tr><td>调整R²Adjusted R²</td><td>0.277</td><td>0.665</td><td>0.587</td><td>0.559</td><td>0.665</td><td>0.595</td></tr></table></body></html>
+
+变量缩写的意义见表2。表中\*、\*\*、 $* * *$ 分别表示在 $10 \%$ ， $5 \%$ 和 $1 \%$ 的水平上通过了显著性检验。Meanings of abbreviations in the column of variables are shown in the table 2．\*, $^ { * * }$ and $* * *$ mean significant effects of the variables at $10 \%$ $5 \%$ and $1 \%$ levels, respectively.
+
+# 3结论与政策建议
+
+基于以上调研实证与模型检验，得出以下几个结论：1)生猪规模养殖户的污染防治行为是其基于行为态度、主观规范、知觉行为控制及环境风险感知等心理认知，且在政府引导性、激励性和约束性环境规制政策调节作用下形成的综合性选择。2)养殖户的污染防治行为决策来源于责任意识、生态理性、对治污能力自我评估等的认知和判断，是对其他养殖户行为的参照和对政策压力、非养殖户的环境诉求感知的积极响应，更是养猪户规避养殖污染环境风险的理性选择。3)高度依赖政府监管的正式约束性措施具有局限性，非正式制度是实现养殖污染有效规制的重要手段，兼用激励性规制能够提升养殖污染防治行为实施的概率。4)在政府强力规制、猪价行情较好的情境下，养殖户污染防治行为往往是其生存理性下的无奈选择，这一行为决策的长效持续仍需进一步地引导内化。
+
+据此，本文得到以下政策启示:1)为了将养殖污染防治内化为养殖户的自主行为，要兼用内在引导和外在激励手段。通过宣传教育及舆论手段提升责任意识、主观规范压力和风险感知；同时，加强运用补贴、价格保护等市场手段，以激发养殖户的内在积极性。2)应充分认识非正式制度的不可或缺性，重视和强化非正式的惩戒监督、价值导向和传递内化等功能对养殖户污染防治行为的促进作用。3)鉴于经济、技术等实际控制条件对养殖户污染防治行为的重要作用，建议在制定污染防治补贴和提供技术支持多听取养殖户意见，通过协商、对话等渠道达到合理及适用的区间，以降低其进行污染防治的成本。(4)限养管制和弃养转业规制措施的调节效应启示政府应科学合理评估环境承载力，同时，兼用引导和警示惩戒手段，加大产业转移扶持力度，合理控制对养殖户生计的干扰。
+
+# 参考文献References
+
+[1]潘丹，孔凡斌．养殖户环境友好型畜禽粪便处理方式选择行为分析——以生猪养殖为例[J].中国农村经济,2015,(9): 17-29 Pan D,KongFB.Analysisontheenvironment-friendly livestock manure treatment behaviorof breding farmers[J].China Rural Economy,2015,(9): 17-29   
+[2]ChakravortyU,Fisher DK,Umetsu C.Environmental effectsof intensificationof agriculture: Livestock productioand regulation[J].Environmental Economics and Policy Studies,2007,8(4): 315-336   
+[3]张郁，齐振宏，孟祥海，等．生态补偿政策情境下家庭资源禀赋对养猪户环境行为影响——基于湖北省 248个专业养殖 户(场)的调查研究[J]．农业经济问题,2015,(6):82-91 Zhang Y,Qi ZH,Meng X H,etal.Studyonthe influenceoffamilyendowments on theenvironmental bhaviorofmassive pig farmers under the situation of ecological compensationpolicy:Based on the surveyof 248 masive pig farmers in Hubei Province[J]. Problems of Agricultural Economy,2015,(6): 82-91   
+[4]刘雪芬，杨志海，王雅鹏．畜禽养殖户生态认知及行为决策研究——基于山东、安徽等6省养殖户的实地调研[J].中国 人口·资源与环境,2013,23(10):169-176 LiuXF,Yang ZH,Wang YP.Ecological cognitionandbehaviordecisionof poultry farmers:Basedon field research of farmers insix provincessuchasShandongandAnhui[J].ChinaPopulation ResourcesandEnvironment,2O13,23(10):69-176   
+[5]郭利京，赵瑾．农户亲环境行为的影响机制及政策干预——以秸秆处理行为为例[J]．农业经济问题,2014,(12):78-84 GuoLJ,ZhaoJ.Farmers pro-environmental behavior modelingand interventionspolicyinthecaseof thestrawprocessing behavior[J]. Problems of Agricultural Economy, 2014,(12): 78-84   
+[6]邬兰娅，齐振宏，李欣蕊，等．养猪企业环境行为影响因素实证研究[J].中国农业大学学报,2015,20(6):290-296 Wu L Y,Qi ZH,Li XR,etal.Anempirical research of influencing factors of pig farming enterprise'senvironmental behavior[J]. Journal of China Agricultural University, 2015,20(6): 290-296   
+[7]Zheng CH,BluemlingB,LiuY,etal.Managing manure from China’s pigsand poultry:The influenceof ecological rationality[J].Ambio,2014,43(5): 661-672   
+[8]仇焕广，严健标，蔡亚庆，等．我国专业畜禽养殖的污染排放与治理对策分析——基于五省调查的实证研究[J]．农业技 术经济,2012,(5):29-35 Qiu HG,Yan JB,CaiYQ,et al.Polutant emission from specialized livestock and poultryfarming in China and its countermeasures—Anempirical studybasedonfive provinces[J].AgriculturalTechnologyandEconomy,2012,(5):29-35   
+[9]PoortingaW,SpenceA,Demski C,etal.Individual-motivatioalfactors intheacceptabilityofdemand-sideandsupl-side measures to reduce carbon emissions[J]. Energy Policy,2012,48:812-819   
+[10]张晖，虞祎，胡浩．基于农户视角的畜牧业污染处理意愿研究——基于长三角生猪养殖户的调查[J]．农村经济，2011, (10): 92-94 Zhang H,YuY,HuH.Basedontheperspectiveoffrmers inanimal husbandrypollution treatment willJ].RuralEconomy, 2011,(10): 92-94   
+[11]周媛媛，殷捷，杨志敏，等．重庆市畜禽粪污的区域分布及其水环境响应特征分析[J].中国生态农业学报，2016,24(6): 811-818 Zhou YY,YinJ,YangZM,etal.Regional distributionoflivestock manureand responsecharacteristicsofwaterenvironment in Chongqing[J]. Chinese Journal of Eco-Agriculture, 2016, 24(6): 811-818   
+[12]左志平，齐振宏，邬兰娅．环境管制下规模养猪户绿色养殖模式演化机理——基于湖北省规模养猪户的实证分析[J]．农 业现代化研究,2016,37(1):71-78 Zuo ZP,QiZH,WuLY.The evolution mechanismofscaled production of green hog farms under environmental regulations: An empiricalcasestudyofhog farmers from HubeiProvince[J].ResearchofAgricultural Modernization,2016,37(1):71-78   
+[13] 周力．产业集聚、环境规制与畜禽养殖半点源污染[J].中国农村经济,2011,(2):60-73 ZhouL.Industrialaglomeration,environmental regulationandlivestockand poultrybredingsemi-pointsource polution[J]. China Rural Economy,2011,(2): 60-73   
+[14]AjzenI.Thetheoryofplannedbehavior[J].Organzational BehaviorandHumanDecisionProcesses,1991,50(2):179-211   
+[15]王海涛，王凯．养猪户安全生产决策行为影响因素分析——基于多群组结构方程模型的实证研究[J].中国农村经济, 2012,(11): 21-30 Wang HT,Wang K.Analysis of influencing factorson safety production decisionbehaviorof pig farmers[J]. China Rural Economy,2012,(11): 21-30   
+[16] 袁平，朱立志．中国农业污染防控：环境规制缺陷与利益相关者的逆向选择[J].农业经济问题,2015,(11):73-80 Yuan P,ZhuLZ.Agricultural pollution preventionandcontrol in China: Deficienciesofenvironmentalregulationand thestake holder's adverse selection[J].Problems of Agricultural Economy,2015,(11): 73-80   
+[17]PanD,ZhouGZ,Zhang N,etal.Farmers’preferences forlivestock polutioncontrolpolicyin China:Achoiceexperiment method[J]. Journal of Cleaner Production,2016,131: 572-582   
+[18]KumarRR,ParkBJ,ChoJY.Applicationandenvironmentalrisksoflivestock manure[J].Journalof theKoreanSocietyfor Applied Biological Chemistry,2013,56(5): 497-503   
+[19]吴明隆．结构方程模型[M].重庆：重庆大学出版社,2009 Wu ML. Structural Equation Model[M]. Chongqing: Chongqing University Press,2009.   
+[20] 杜焱强，孙小霞，许佳贤，等．社会生态视阈下的敏感区养殖污染治理分析——以福建省南平市西芹水厂水源地周边地 区为例[J]．中国生态农业学报,2014,22(7):866-874 Du Y Q,Sun X X, Xu JX,et al.Analysis of livestock farming pollution control in ecologicall sensitiveareas through Socio-ecologicallens:Acaseof thewatersourcingbufer Zoneof Xiqin Water Plant in NanpingCity,Fujian Province[J]. Chinese Journal of Eco-Agriculture,2014,22(7): 866-874

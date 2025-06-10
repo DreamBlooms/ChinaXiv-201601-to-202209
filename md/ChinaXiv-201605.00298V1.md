@@ -1,0 +1,165 @@
+李彬，王振占，张升伟，等．一种大口径微波/毫米波极化线栅研制的新方法[J]．电波科学学报，2015,30（3)：565-570．doi：10.13443/jcjors. 2014061201LIBin，WANGZhenzhan，ZHANGSengei，etalAnwmetodtofabicatelargeaperturefrestandingpolarizediregridsaticrowavemillieterwavelengthsJ.CineseJouralofRadioSience25,3)：65-57.（inCinese)．doi3443/jjors.461
+
+# 一种大口径微波/毫米波极化线栅研制的新方法
+
+李彬1,2 王振占」　张升伟」王新彪　董帅1,²谢　莹1,2（1.中国科学院微波遥感重点实验室中国科学院国家空间科学中心，北京100190;2.中国科学院大学，北京100190)
+
+摘要提出了用于制作极化线栅的模具法，利用解析法和计算机仿真分析法设计了用于微波/毫米波段的极化线栅，并应用该方法制作出多种口面规格、不同外框材料的极化线栅.对该系列极化线栅进行了液氮环境试验、机械性能测试以及电性能测试.实测结果表明：设计并应用模具法制作的极化线栅环境适应性强、具有较高的机械精度和优良的电气性能，能够满足实际应用需求，为毫米波段极化线栅的国产化开辟了新路径.
+
+关键词极化线栅;极化分离器;大口径;无支撑式线栅；微波/毫米波段；线栅制作中图分类号 TN61 文献标志码 A 文章编号 1005-0388(2015)03-0565-06
+
+# A new method to fabricate large aperture free-standing polarized wire grids at microwave/millimeter wavelengths
+
+LI $\mathbf { B i n ^ { 1 , 2 } }$ WANG Zhenzhan' ZHANG Shengwei' WANG Xinbiao1 DONG Shuai1.² XIE Ying1,2
+
+(1.CenterforSpaceScienceandAppliedResearch，Chinese Academyof Sciences，Beijing lool9o，China; 2.Universityof China Academy of Sciences，Beijing lOoo49，China)
+
+AbstractA mould method used in polarized wire grid fabrication is proposed. The grids with analytical and computer simulation analysis method is designed. A variety of specifications，different aperture and grid frame materials for microwave/millimeter wave band used the mould method is produced. This series of polarized wire grid is tested by the liquid nitrogen environment，mechanical and electrical performance test. The results show that the polarized wire grid has strong environment adaptability，high mechanical precision and excellent electrical performance，and can meet the demand of practical application，which develop a new method for millimeter wave polarized wire grids localization.
+
+Key wordswire grids；polarizer; large aperture; free-standing；microwave/millimeter wave；fabrication
+
+# 引言
+
+极化线栅（极化分离器），是一种用来对电磁波进行极化分离的设备，具有宽频带、低损耗等特点，在微波、毫米波、亚毫米波以及远红外波段应用广泛，例如：在中国科学院空间中心研制的FY-3微波温湿度探测仪中，极化线栅是组成探测仪前端准光网络的关键部件，也正是由于极化线栅的应用，使探测仪的外形尺寸减小了近一半；在星载和地面全极化微波辐射计定标源中用于产生前3个stokes参数，是系统的核心部件，其性能直接决定了定标基准的精度.本文研制的极化分离线栅就是主要针对以上两个方面的应用需求而展开.
+
+# 1极化线栅的原理与设计
+
+极化线栅主体由一系列等间距、垂直或水平排列的金属丝构成（如图1所示）.在理想情况下，当入射波的极化方向与线栅金属丝的方向平行时，则入射波被线栅反射；反之，当入射波的极化方向与线栅金属丝的方向垂直时，则入射波可以完全透过极化线栅.极化线栅性能主要由金属丝直径 $\mathbf { \alpha } _ { a }$ 、间距 $g$ 、波长 $\lambda$ 三者之间的关系共同决定 $[ 1 - 3 ]$ .当电磁波极化方向平行于极化线栅排列方向时，功率反射系数为
+
+$$
+r _ { _ { \mathcal { N } } } = { \frac { 1 } { 1 + { \frac { 2 g } { \lambda } } { \ln { \frac { g } { 2 \pi a } } } } } .
+$$
+
+当电磁波极化方向垂直于极化线栅排列方向时，功率反射系数为
+
+$$
+r _ { \perp } = \frac { \displaystyle \frac { 2 \pi ^ { 2 } a ^ { 2 } } { \lambda g } } { \displaystyle 1 + \left( \frac { 2 \pi ^ { 2 } a ^ { 2 } } { \lambda g } \right) ^ { 2 } } .
+$$
+
+![](images/342b06e5b0d2ae2c682d2e6ea6640fb0352e51ea434b3a191cdc634f800de3ce.jpg)  
+图1应用模具法生产的三种口面极化线栅
+
+说明： $\mathrm { A } { : } 3 5 0 \ \mathrm { m m } \times 3 5 0 \ \mathrm { m m }$ □面极化线栅； $\mathrm { B } { \colon } 3 5 0 ~ \mathrm { m m } { \times } 4 0 ~ \mathrm { m m }$ □面极化线栅； $\mathrm { C } : 2 1 0 \ \mathrm { m m } \times 1 9 0 \ \mathrm { m m }$ □面极化线栅
+
+其误差来源主要来自金属丝直径误差、金属丝间距误差和口面平面度误差.文献1梳理了1962年以前的极化线栅的理论研究成果，文献[3]中给出了选取不同 $a / \lambda$ 与 $g / \lambda$ 的值时，所对应的反射系数与透射系数情况.
+
+在极化线栅制造方法上，国外主要采用缠绕法，其主要思想是：利用匀速自旋运动与匀速直线运动来合成等距螺旋运动，从而形成一系列的等距直线阵列.通过控制匀速自旋运动与直线运动的速度就可以改变间距 $g$ ；通过改变金属丝张紧力与金属外框尺寸就可以制作不同口面的极化线栅；结合现代电子信息与控制技术，该方法可以实现高精密、自动化、柔性化制造，特别适合应用在亚毫米波及太赫兹以上频段的极化线栅制造.文献4」介绍了一种线栅缠绕装置可以用来制作金属丝间距 $2 5 ~ \mu \mathrm { m } { < } g { < } 1 .$ 8$\mathrm { m m }$ ，有效口径 $1 2 0 ~ \mathrm { m m }$ 的极化线栅.文献[5-6]对缠绕式工艺进行了改进，可以实现更高频段的应用.目前的工艺水平可以制作金属丝直径 $d$ 和间距 $g$ 都在 $\mu \mathrm { m }$ 量级的极化线栅.对于应用在 $1 0 \sim 2 0 0 ~ \mathrm { G H z }$ 频段的极化线栅，制造工艺性要求相对较低.若采用缠绕法制作极化线栅，需要单独设计、制造、装配、调试、维护线栅缠绕装置，生产成本高，研制过程复杂，加工周期长.
+
+提出了一种新的极化线栅研制方法——模具法.这种方法简单实用、生产周期短、生产成本低、批量生产性能一致性好，测试结果表明，应用该方法制作的极化线栅，其机械性能和电性能指标优异，完全能够满足科研和工程实际应用的需要，
+
+极化线栅设计主要包括电性能设计和机械性能设计两个方面.在电性能设计方面，由于极化线栅是平面周期性结构，可以采用HFS软件 $S _ { 1 1 }$ 的 Floquet端口实现极化线栅的仿真分析.建立了电磁波电场矢量 $\scriptstyle { E }$ 平行于极化线栅和垂直于极化线栅的HFSS仿真模型，将极化线栅放置在波导中，在波导的一端加上激励，然后通过测量输出端和激励端的S参数，来仿真电磁波极化方向平行与极化线栅的反射特性和垂直与极化线栅的穿透特性.考虑到极化线栅具有低通滤波特性，选取了高于应用频段的中心频率.由HFSS仿真结果可知， $2 0 0 \ \mathrm { G H z }$ 极化线栅要达到比较好的性能，其金属丝的直径一般要小于等于$1 2 0 \ \mu \mathrm { m }$ ,金属丝间隔要小于等于 $3 6 0 ~ \mu \mathrm { m }$ .本文选取了 $a = 1 0 0 \ \mu \mathrm { m } , g = 3 5 0 \ \mu \mathrm { m }$ 的组合，占空比 $a / g =$ 0.29.金属丝材料的选取综合考虑了材料的电导率和力学性能，最终确定使用直径为 $1 0 0 ~ \mu \mathrm { { m } }$ 的钼丝作为金属丝材料，其电阻率为 $5 4 \times 1 0 ^ { - 9 } \Omega$ ，在10$\mathrm { G H } z$ 以上频段趋肤深度小于 $1 . \ 2 \ _ { \mu \mathrm { { m } } }$ ；直径为100$\mu \mathrm { m }$ 的钼丝还是线切割加工的常用材料，容易得到而且具有足够的拉伸强度，能够允许施加足够的张紧力.金属丝张紧力的施加根据材料机械特性与极化线栅口面平面度要求，再结合使用环境计算确定为 $4 . 6 ~ \mathrm { N }$ ，设计口面平面度为 $4 \ \mu \mathrm { m / c m }$ .考虑到极化线栅的使用环境温度为 $- 2 6 9 ^ { \circ } \mathrm { C } \sim 6 0 ^ { \circ } \mathrm { C }$ ，温差很大，需要特别考虑外框材料和金属钼丝之间的热膨胀系数，使金属钼丝和线栅外框在高低温交变环境下能够伸缩一致，不至于出现口面松弛和金属丝被拉断的情况.本设计选用了殷钢(4J36)作为外框材料，它被广泛应用于需要避免热膨胀导致尺寸、性状变化的高精度高精密仪器.金属丝与外框连接采用胶接的方式，结合使用环境要求，选用了DW-3聚氨酯改性环氧树脂低温结构胶作为粘接材料.主要设计参数见表1.
+
+表1极化线栅的主要设计参数  
+
+<html><body><table><tr><td>应用频段</td><td>10～200 GHz</td><td>金属丝 间距g</td><td>350μm</td></tr><tr><td>净口面</td><td>210 mm×190 mm、 350mm×350mm 350 mm×40mm、</td><td>外框 材料</td><td>殷钢</td></tr><tr><td>平面度</td><td>4 μm/cm</td><td>金属丝材料</td><td>钼丝</td></tr><tr><td>使用 环境</td><td>-269℃~60℃，</td><td>张紧力</td><td>4.6N DW-3环</td></tr><tr><td>金属丝</td><td>常压</td><td>粘接剂</td><td>氧树脂胶</td></tr><tr><td>直径a</td><td>100 μm</td><td>使用寿命</td><td>3年</td></tr></table></body></html>
+
+# 2极化线栅的制作及测试
+
+# 2.1 极化线栅的制作
+
+在极化线栅的制造上主要存在以下技术难点：1）极化线栅口面平面度要求高；2）高频电磁波极化线栅金属丝纤细，难以安装固定；3）金属丝难以保证等间距分布；4）使用环境温差大导致热胀冷缩，很难保持口面平面度、张紧度.
+
+为解决上述技术难点，开发了用于线栅制造的模具法.主要思想是用模具法生成所需要的金属丝阵列；利用高精度数控线切割机床在模具上刻画出足够的等间距凹槽,凹槽的宽度为 $1 0 0 _ { \circ } ^ { + 1 0 } \ \mu \mathrm { m }$ ，既保证金属丝能够陷入凹槽内形成间隙配合，但又不至于过分松动，金属槽的间距为 $3 5 0 \pm 2 0 \mu \mathrm { m }$ ，金属槽的深度以低于极化线栅的外框为宜.该方法的好处是模具制造过程能够结合现代先进生产工艺和设备，将应用线栅缠绕装置的制造极化线栅的思想融入到模具制造过程中去，不必单独开发线栅缠绕装置.应用模具法生产的极化线栅实物如图1所示.
+
+# 2.2极化线栅的机械性能测试
+
+测试了极化线栅金属丝间距 $g$ 和金属丝直径$d$ ，检测仪器为万能工具显微镜，其测试精度为1$\mu \mathrm { m }$ ，图2所示为极化线栅在万能工具显微镜上进行检测.由于口径较大，金属丝数目过多，随机抽取了200根极化线栅金属丝的间距 $g$ 和直径 $d$ 进行检测.以 $1 0 \ \mu \mathrm { m }$ 为间隔给出间距 $g$ 的分布数，如图3所示.
+
+另外，测试了 $2 1 0 \ \mathrm { m m } \times 1 9 0 \ \mathrm { m m }$ 口径极化线栅的表面平整度，其表面起伏小于 $6 0 ~ \mu \mathrm { m }$ ，远小于10${ \sim } 2 0 0 ~ \mathrm { G H z }$ 波段的工作波长，由此引入的相位误差可以忽略不计.
+
+![](images/38c03019b0022fb095abc94cbba1540da63e274bd1e9c5080c6efe1470cab818.jpg)  
+图2极化线栅在液氮槽中试验
+
+![](images/d4011de89c471699d9b79c131a78d3e92a765220c875d1c52f6a524baf36b71b.jpg)  
+图3线栅间距 $\boldsymbol { g }$ 抽样统计结果图
+
+# 2.3极化线栅的环境试验
+
+为了使极化线栅能够满足未来星载环境的应用需求，特别设计了定性的液氮实验来对极化线栅的环境适应性进行考核.具体实验过程是：将外框材料为4J36，口面为 $3 5 0 \ \mathrm { m m } \times 4 0 \ \mathrm { m m }$ 的极化线栅样品放入充满液氮的槽内，使极化线栅完全被液氮冷却，约1个小时后再将极化线栅取出，恢复到常温状态后检查极化线栅物理性状的变化情况，如此反复多次.经过检测，采用钼丝作为金属丝材料，4J36为外框材料，DW-3作为树脂粘合剂的极化线栅在反复多次温度循环中，金属丝间距、张紧程度以及口面平面度都没有明显变化，表明该型极化线栅可以在一$2 6 9 ^ { \circ } \mathrm { C } \sim 6 0 ^ { \circ } \mathrm { C }$ 大范围温度变化中使用.
+
+# 2.4极化线栅的电性测试
+
+参考文献7中的极化线栅电测方法，在准暗室环境下搭建了测试系统，通过测量 $T _ { \Psi } / T _ { \sharp }$ 的比值来测量极化线栅透过系数 $\tau _ { 0 }$ .测试系统主要由发射与接收模块、极化线栅双轴旋转机构、光学平台和带扩展模块的矢量网络分析仪组成.其中矢量网络分析仪的测量分辨率为0.01dB，收发模块为单一同极化配置.为了降低驻波以及反射等对测试结果的影响，对文献7中的测试系统进行了改进，将极化线栅及其旋转机构倾斜 $4 5 ^ { \circ }$ 放置，并在两侧放置了吸波材料，如图4所示.整个测试过程主要分2步进行，在测试开始前首先在无线栅情况下，对微波通路进行校准；校准完成后，将待测极化线栅安装到线栅
+
+![](images/4dae2e914f0ad3fb335677c64c3b2ac29a066742fb90927e2b50e7dfb5ecd8e6.jpg)
+
+说明：A：接收模块；  
+B：极化线栅及其轴旋转机构；  
+C：发射模块；D：光学平台  
+图4极化线栅 $4 5 ^ { \circ }$ 放置电性测试
+
+旋转机构上，进行同极化和交叉极化透射系数测试.其中，交叉极化透过率同样通过旋转线栅直至金属丝与水平夹角为 $9 0 ^ { \circ }$ 的方式测量.
+
+为了精细掌握极化线栅在实际应用频点的电气性能，选择了设计频段中 $8 9 , 1 1 0 , 1 8 3 ~ \mathrm { G H z }$ 三个频点进行测试.在极化线栅 $9 0 ^ { \circ }$ 放置电测系统中进行了单点测试和周期测试，受测试条件限制在极化线栅 $4 5 ^ { \circ }$ 放置电性测试系统中进行了单点测试，主要目的是对两种测试方法进行比对.
+
+$8 9 \ \mathrm { G H z }$ 同极化单点透射率测试结果如图5所示.
+
+$1 1 0 \ \mathrm { G H z }$ 同极化单点透射率测试结果如图6所示.
+
+![](images/1eed9051ff43aefa510b11f6c213a9dc7ead132c7421fabae56d3cda58de5432.jpg)  
+图5极化线栅 $\mathbf { 8 9 \ H z }$ 同极化透过率单点测试
+
+![](images/ecbe3b02bd24b21e7898f5b38e345ac735967a6c03cf7d80f4026be0b938bdbe.jpg)  
+图6极化线栅 $\bf { 1 1 0 ~ H z }$ 同极化透过率单点测试
+
+对 $1 8 3 ~ \mathrm { G H z }$ 频点进行了验证性测试. $1 8 3 ~ \mathrm { G H z }$ 同极化单点透射率测试结果如图7所示.
+
+$8 9 \ \mathrm { G H z }$ 和 $1 1 0 \ \mathrm { G H z }$ 频点周期测试实测值与理论值的比对结果如图8和图9所示.
+
+![](images/34e29b359a373508c705405b7fcb2d88054461bc3cde02c2801477008df6e32f.jpg)  
+图7极化线栅 $\mathbf { 1 8 3 ~ H z }$ 同极化透过率单点测试
+
+![](images/177df50466d7b49d8d8aa88a60723d51f91aab7e79251a71683f5c50cc14155f.jpg)  
+图8 $\mathbf { 8 9 ~ G H z }$ 周期测试实测值与理论值比对
+
+![](images/5c0f40aa3fab33f1e681562ffcfced64202703aaf7588e12c32e4cc14392daab.jpg)  
+图9110GHz周期测试实测值与理论值比对
+
+# 3测试结果分析
+
+1）在环境适应性方面：液氮实验表明，外框为殷钢材料的极化线栅环境适应性更强，可在一 $2 6 9 ^ { \circ } \mathrm { C }$ $\sim 6 0 ^ { \circ } C$ 使用，加之极化线栅在星载应用中一般都会进行主动或被动温控保护，因此模具法制作的极化线栅，完全可以应用在FY-3微波温湿探测仪所在的热力学环境；通过将极化线栅成品放置一年期间的观察，金属丝并没有出现松脱等物理特性变化情况，表明极化线栅可以在常温环境下使用；
+
+2）在机械性能方面：选用的工业级金属钼丝直径 $d$ 均值为 $9 8 . ~ 7 ~ \mu \mathrm { { m } }$ ,方差为 $2 . \ 6 5 \ \mu \mathrm { m }$ ;金属丝间距$g$ 均值为 $3 5 0 . ~ 7 5 ~ \mu \mathrm { m }$ ，标准差为 $1 7 . \ 8 6 \ \mu \mathrm { m }$ ；从图3所示金属丝间距的分布数来看，间距分布近似满足高斯分布，证明了模具法的加工精度比较高；通过计算选取的4.6N拉紧力和外框机械加工精度，使得极化线栅口面平面度优于 $4 \ \mu \mathrm { m / c m }$ ;金属线栅间距 $g$ 的标准差 $\sigma$ 与间距 $g$ 均值的比值为 $0 . \ 0 5 1$ ，表明极化线栅具有良好的均匀性.
+
+3）在电性能方面：
+
+$\textcircled{1}$ 在 $8 9 \ \mathrm { G H z }$ 频点：极化线栅 $9 0 ^ { \circ }$ 放置时的同极化透过率的平均值为 $- 0 . \ 0 2 1 \ \mathrm { d B } ( 0 . \ 9 9 5 \ 1 )$ ，标准差为0.0026dB；交叉极化透过率的平均值为$- 2 3 . \ 3 7 2 \ \mathrm { d B }$ ，标准差为 $0 . \ 0 0 6 \ 4 \ \mathrm { d B } .$ 极化线栅 $4 5 ^ { \circ }$ 放置时，同极化透过率的平均值为 $- 0 . \ 0 2 6 \ \mathrm { d B }$ ，标准差为 $\mathrm { 0 . ~ 0 0 2 ~ 2 ~ d B }$ ;周期测试曲线与理论曲线的相关系数为0.9976.
+
+$\textcircled{2}$ 在 $1 1 0 \ \mathrm { G H z }$ 频点：极化线栅 $9 0 ^ { \circ }$ 放置时的同极化透过率的平均值为 $- 0 . \ 0 2 2 \ \mathrm { d B } ( 0 . \ 9 9 4 \ 9 )$ ，标准差为0.0033dB;交叉极化透过率的平均值为$- 2 2 . 0 6 5 ~ \mathrm { d B }$ ，标准差为 $\mathrm { 0 . ~ 0 2 0 ~ 4 ~ d B }$ ;极化线栅 $4 5 ^ { \circ }$ 放置时同极化透过率的平均值为一0.026dB，标准差为 $0 . \ 0 0 3 \ 8 \ \mathrm { d B }$ ;周期测试曲线与理论曲线的相关系数为0.9989;
+
+$\textcircled{3}$ 在 $1 8 3 ~ \mathrm { G H z }$ 频点：极化线栅 $9 0 ^ { \circ }$ 放置时的同极化透过率的平均值为 $- 0 . \ 0 4 4 \ \mathrm { d B } ( 0 . \ 9 8 9 \ 9 )$ ，标准差为0.0114dB.
+
+从上述 $\textcircled{1}$ 和 $\textcircled{2}$ 的测试结果来看，极化线栅 $4 5 ^ { \circ }$ 放置时比 $9 0 ^ { \circ }$ 放置时的同极化透过率低是因为 $4 5 ^ { \circ }$ 放置减小了测试系统中对接收天线的反射，因此极化线栅 $4 5 ^ { \circ }$ 斜入射放置的结果更加接近真实值.周期测试曲线与理论曲线存在差值主要是因为旋转机构实际转角与目标转角误差较大以及系统中存在的反射和驻波所致.
+
+从极化线栅电性测试环节上看，自前普遍采用的测试方法只能算作是摸底测试，测量系统的不确定度虽然可以满足FY-3微波温湿度探测仪准光网络的应用，但不能达到全极化微波辐射定标源作为辐射定标基准的要求，主要存在以下问题：受测试条件限制，测试系统搭建不够精确，测试场地不够理想，系统中引入反射和驻波影响，难以消除；测试设备不确定度较大，只有0.01dB.上述问题不属于本文主要内容，这里不展开论述，但今后需要针对测试问题专门深入研究，继续改进，
+
+# 4结论
+
+提出了用于制作自立式极化线栅的模具法，设计开发了极化线栅制造装置，编制出了完整的线栅制造工艺，通过HFSS仿真分析确定了线栅电性能设计参数，应用模具法成功研制出了同系列（金属钼丝直径 $1 0 0 \ \mu \mathrm { { m } }$ ，间距 $3 5 0 ~ \mu \mathrm { m } \mathrm { , }$ ）、多种口面规格（350$\mathrm { m m } \times 4 0 ~ \mathrm { m m }$ 、 $2 1 0 \ \mathrm { m m } \times 1 9 0 \ \mathrm { m m } , 3 5 0 \ \mathrm { m m } \times 3 5 0$ $\mathrm { m m }$ )的极化线栅.对该型极化线栅进行了覆盖产品研制全过程的实验和测试，包括：环境试验、机械性能测试，在 $8 9 , 1 1 0 ~ \mathrm { G H z }$ 和 $1 8 3 ~ \mathrm { G H z }$ 三个频点对极化线栅进行了电气性能测试，分析了测试结果.测试果表明，应用模具法制作的极化线栅具有优良的环境适应性、机械性能和电气性能，可以满足FY-3温湿度探测仪、全极化微波辐射计定标源以及地基微波辐射计等的应用需求.
+
+与其他方法相比，本方法具有制作工艺与流程简易、生产和维护成本低、生产周期短、具有一定的生产柔性，产品具有较高的加工精度和优良的电气性能.应用本方法可以制作用于常温环境和空间环境的 $2 0 0 ~ \mathrm { G H z }$ 频段以下，净口面在 ${ \mathfrak { o } } 5 0 0 \ \mathrm { m m }$ 口径以下的极化线栅，同时也为微波/毫米波频段极化线栅的国产化开辟了新的路径.
+
+致谢：感谢中国航天科技集团518研究所在极化线栅机械性能测试中给予的帮助；感谢中国航天科工集团203所在极化线栅电气性能测试上给予的帮助与支持.
+
+# 参考文献
+
+[1]LARSEN T. A survey of the theory of wire grids [J]. IRE Transactions on Microwave Theory and Techniques,1962，10(3):191-201.   
+[2] GOLDSMITH P F.Quasi-optical Systems:Gaussian Beam Quasi-optical Propagation and Applications[M].
+
+New York：W1ley-1EEE Press，1998:19Z-193.   
+[3] CHAMBERSWG，COSTLEY A E，PARKER T J. Characteristic curves for the spectroscopic performance of free-standing wire grids at millimeter and sub-millimeter wavelengths [J]. International Journal of Infrared and Millimeter Waves,1988，9(2):157-172.   
+[4] COSTLEYAE，HURSEYKH，NEILLGF，et al. Free-standing fine wire grids：their manufacture，performance and use at millimeter and sub-millimeter wavelengths[J]. Journal of the Optical Society of America，1977，67(7):979-981.   
+[5] EICHHORN W L，MAGNER T J. Large aperture, freestanding wire grid polarizers for the far-infrared: fabrication，characterization，and testing[J].Optical engineering，1986，25(4)：541-544.   
+[6]SHAPIRO JB，BLOEMH OF E. Fabrication of wiregrid polarizers and dependence of sub-millimeter wave optical performance on pitch uniformity[J].International Journal of Infrared and MillimeterWaves,1990, 11(8):973-980.   
+[7] LAHTINENJ，HALLIKAINEN M. Fabrication and characterization of large free-standing polarizer grids for millimeter waves[J]. International Journal of Infrared and MillimeterWaves，1999，20(1)：3-20.   
+[8] VOELLINERG M，BENNETTC，CHUSS D T，et al.A large free-standing wire grid for microwave variable-delay polarization on modulation[C]//Society of Photo-optical Instrumentation Engineers（SPIE）Conference series，2008:1-12.
+
+# 作者简介
+
+李彬 （1985一），男，吉林人，助理研究员，中国科学院国家空间科学中心电磁场与微波技术专业在读博士生，主要从事全极化微波辐射计系统的关键技术研究，
+
+![](images/996c897f15209859e9887bbe7d5819e4048c150a98f9b1572cb0e5a04541fbd6.jpg)
+
+王振占（1969一），男，河北人，研究员，中国科学院国家空间科学中心博士生导师，中国科学院“百人计划"引进人才，主要从事微波遥感新技术及应用技术研究.
+
+张升伟（1963一），男，吉林人，研究员，中国科学院国家空间科学中心博士生导师，主要从事陆基、机载及星载微波遥感器系统设计与研制.

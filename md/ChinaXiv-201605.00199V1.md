@@ -1,0 +1,190 @@
+# 光学遥感对地成像过程中的邻近效应模拟分析
+
+马晓珊²，郭晓勇，孟新，杨震，彭晓东¹，李立钢’，谢文明（1．中国科学院空间科学与应用研究中心复杂航天系统电子信息技术重点实验室,北京100190;2．中国科学院空间天气学国家重点实验室 北京100190)
+
+摘要：光学遥感的邻近效应可以看作大气点扩散函数(PSF)和地表辐射场的卷积通过逆向蒙特卡罗法模拟大气PSF利用辐射传输模型MODTRAN计算地表辐射场获得遥感器入瞳处的辐亮度值.开展不同对比度目标背景物在典型条件下的邻近效应模拟与分析结果显示：目标和背景的反射率分布对邻近效应影响很大，背景反射率越大邻近效应占总辐射的比例越高;暗目标在亮背景下的邻近效应明显大于亮目标在暗背景下的邻近效应；固定成像高度和区域空间分辨率越高邻近效应越明显;地面气象视距对邻近效应的影响非常显著，气象视距增大，邻近效应减弱;太阳天顶角增大邻近效应减弱.模拟结果为高分辨率光学遥感成像系统高精度建模和邻近效应校正算法研究提供了依据，
+
+关键词:光学遥感;邻近效应;大气点扩散函数;蒙特卡罗中图分类号:TP751.1;TP391.9 文献标识码：A
+
+# Simulation and analysis of the adjacency effect in earth-imaging process of the optical remote sensing
+
+MA Xiao-Shan¹²，GUO Xiao-Yong¹，MENG Xin’，YANG Zhen¹ PENG Xiao-Dong'，LI Li-Gang'，XIE Wen-Ming1   
+(1.Key Laboratory of Electronics and Information Technology for Space System,Center for Space Science and Applied Research,Chinese Academy of Sciences,Beijing1OO19O,China;   
+2.Sate Key Laboratory of Space Weather,Chinese Academy of Sciences,Beijing1Oo190,China)
+
+Abstract:Adjacency effectof theoptical remote sensing could beregardedas theconvolutionof theatmospheric point spread function(PSF）and the surface-leaving radiance.By simulating the atmospheric PSFwith backward Monte Carlo methodand calculating the surface-leaving radiance with MODTRAN model,the at-sensor radiance was obtained.The adjacency efects fordifferenttargetandbackground underdiferentpropagationconditions were simulatedandanalyzed. The results show thattargetandbackgroundreflectivityafectadjacency efectsignificantlyandthepercentageof theradiancecaused bytheadjacencyeffectin thetotalradiance increases with theincreaseof the backgroundreflectivityAdjacency efectfordark targetunderbrightbackground is moreobvious thanthatforbright targetunderdark background. Givenimaging heightandarea,the higher the imaging spaceresolution,the stronger theadjacencyefect is.Effectof thesurface meteorologicalrangeon adjacency efect isof high importance.The larger the surface meteorological range， the bigger the sun zenith angle,the weaker theadjacency effectis.Theseresultscould providethe basis for modeling the optical remote sensing imaging system with high precisionand exploring thecorrction algorithmof the adjacencyeffect.
+
+Key words:optical remote sensing,adjacency effect,atmospheric point spread function(PSF）,Monte Carlo PACS: 42.30.-d
+
+# 引言
+
+感中非目标像元对目标像元辐射亮度的贡献，又称为大气的交叉辐射(Cross Radiance)效应[1],如图1所示图中IFOV表示瞬时视场（InstantaneousField光学遥感的邻近效应（AdjacencyEffect）是指遥ofView）定义为一个探测单元在光学系统轴向所确定的对象角.邻近效应不仅影响高空间分辨率光学遥感成像仿真的建模精度，而且在很大程度上影响并制约着定量遥感的发展和应用：一方面影响卫星对地面目标的遥感能力，降低了相邻像元地表亮度的对比模糊了目标和背景的差别[2]；另一方面也影响卫星对大气的遥感能力给准确扣除大气遥感中的地表信息造成困难[3].长期以来,邻近效应并没有得到足够的重视.一方面是早期卫星图像的空间分辨率不高，邻近效应的影响不明显；另一方面邻近效应本质上是针对水平非均匀反射地表的三维辐射传输问题，求解困难.随着光学遥感空间分辨率和应用遥感信息定量化程度要求的不断提高，开展光学遥感邻近效应研究已经成为定量遥感发展面临的重要前沿性科学难题，也是高空间分辨率光学遥感成像仿真高精度建模亟待解决的关键技术问题.
+
+![](images/3641be890ed0e6d4c0b2e6f99ce54a2fa2a01b8c0c0488d04cc8925c518f62e2.jpg)  
+图1邻近效应示意图 Fig.1Schematic diagram of the adjacency effect
+
+邻近效应本质上是针对水平非均匀反射地表的三维辐射传输问题，理论上可以通过求解辐射传输方程来解决，但至今辐射传输方程还没有严格的解析解.早期研究的重点是通过各种假设获得解析近似模型[45],虽简化了问题,却使得研究结果意义不直观，造成应用上的局限性.近年来，有研究人员通过设计测量装置开展实验研究，方法新颖但结果的正确性有待进一步验证[6].此外另一种广泛采用的方法是大气点扩散函数（PointSpreadFunction，PSF).邻近像元的影响可以看作是地表辐射场和大气PSF 的卷积[8],大气PSF的物理意义是它描述了邻近像元对遥感器总辐射亮度贡献率的空间分布.大气PSF的获取主要有解析近似[9-2]和蒙特卡罗（Monte Carlo）模拟[13-5]两种方法.解析近似大多采用单次散射近似，本质上是抛弃辐射传输方程中的多次散射项，使方程退化而得到的近似解.这种近似与实际大气状况是有距离的，究竟会给PSF带来什么样的影响难以预知.蒙特卡罗方法是一种随机模拟方法，以最大的逼真度描述光子在大气中的传输过程既保留了多次散射过程，又回避了求解辐射传输方程的困难，是研究邻近效应的有效方法
+
+本文采用逆向蒙特卡罗法研究光学遥感的邻近效应重点分析地表反射率分布、成像空间分辨率、地面气象视距和太阳天顶角等因素对邻近效应的影响规律.
+
+# 1蒙特卡罗模拟
+
+# 1.1 遥感器入瞳处的辐射方程
+
+针对工作在可见光-近红外波段的被动式光学遥感成像系统，假定表面为朗伯漫反射体，当遥感器对目标像元 $( \textit { i j } )$ 成像时,遥感器接收的辐射可以表示为[8]：
+
+$$
+L ( \textit { i j } ) = t _ { u } ( \textit { i j } ) L _ { s } ( \textit { i j } ) +
+$$
+
+$$
+\sum _ { k } \ \sum _ { l } P ( \textit { i j } ; k \textit { l } ) L _ { s } ( \textit { i + k j } + l ) \ + L _ { p } ( \textit { i j } )
+$$
+
+式中各量均为波长的函数，为简单起见，下标中忽略波长.式中右侧第一项表示离开目标像元表面直接进入IFOV的辐射贡献.其中 $\iota _ { u } ( \textit { i } \dot { \mathcal { J } } )$ 表示目标至遥感器的大气透过率； $L _ { s } ( \textit { i j } )$ 表示离开目标像元表面的辐亮度其来源是太阳直射辐射和天空漫射辐射.第二项表示由离开场景表面的漫反射辐射经过大气散射进入IFOV的辐射贡献. $P ( \textit { i } , \textit { j } ; \textit { k } , \textit { l } )$ 是权重值，表示当对像元 $( \textit { i j } )$ 成像时离开像元 $( \ i + k \ j + l )$ 的辐射中经散射进入IFOV的那部分.当 $k = l = 0$ 时，表示离开目标像元表面的漫反射辐射经大气前向散射而造成的辐射增强；当 $k \neq 0$ 或 $l \neq 0$ 时表示邻近效应的辐射影响.第三项表示大气程辐射.通过逆向蒙特卡罗模拟确定 $P ( \textit { i } , \textit { j } ; \textit { k } , \textit { l } )$ 的值.一旦 $P ( \textit { i } \beta ; k$ -$l )$ 生成 只要视线几何以及大气状况不变 式(1)对任何 $L _ { s }$ 的表面分布都是适用的.
+
+# 1.2逆向蒙特卡罗模拟
+
+# 1.2.1 光子发射
+
+逆向蒙特卡罗模拟是从遥感器出发，模拟光子的行进路径，直至光子到达场景表面.光子发射时考虑遥感器的IFOV.设遥感器的空间分辨率为 $R$ 遥感器高度为 $H$ IFOV内光子发射时与竖直方向的最大夹角为：
+
+$$
+\theta _ { \mathrm { m a x } } \ = \ \mathrm { a r c t a n } \Big ( \frac { R } { 2 H } \Big )
+$$
+
+借助两个在[0，1]区间内均匀取值的随机数 $\boldsymbol { r } _ { \theta }$ 和$r _ { \varphi }$ 获得光子发射的天顶角和方位角：
+
+$$
+\theta _ { \scriptscriptstyle 0 } \ = r _ { \scriptscriptstyle \theta } \cdot \theta _ { \scriptscriptstyle \mathrm { m a x } }
+$$
+
+$$
+\varphi _ { \scriptscriptstyle 0 } = r _ { \varphi } \cdot 2 \pi
+$$
+
+设光子发射的方向矢量为 $( \textbf { \em u } , \boldsymbol { \nu } , \boldsymbol { w } ) , \boldsymbol { u } , \boldsymbol { \nu } , \boldsymbol { w }$ 分别为发射方向的余弦，可表示为：
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { { \pmb u } ~ = ~ \sin ~ { \pmb \theta } _ { 0 } ~ { \bullet } ~ \cos ~ { \varphi } _ { 0 } } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { { \pmb \nu } ~ = ~ \sin ~ { \pmb \theta } _ { 0 } ~ { \bullet } ~ \sin ~ { \varphi } _ { 0 } } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { { \pmb w } ~ = ~ \cos ~ { \pmb \theta } _ { 0 } } } \end{array}
+$$
+
+# 1.2.2 光子传输
+
+光子在大气中传输时将与大气中的分子或气溶胶发生随机碰撞.完整地描述这一过程需要4个参数:
+
+$\textcircled{1}$ 发生碰撞的性质：决定光子是与分子碰撞还是与气溶胶碰撞.假定某一高度 $z$ 上的分子光学厚度与气溶胶光学厚度可分别用 $\tau _ { { \scriptscriptstyle m } } ( { \boldsymbol { z } } )$ 与 $\boldsymbol { \tau } _ { a } ( \boldsymbol { z } )$ 表示那么光子与分子相碰撞的概率可用 $\tau _ { { \scriptscriptstyle m } } \left( { \mathrm { \Delta } z } \right) /$ $[ \tau _ { { \scriptscriptstyle m } } ( z ) + \tau _ { { \scriptscriptstyle a } } ( z ) ]$ 表达.对于一次偶然碰撞的性质，借助一个在[01]区间内均匀取值的随机数 $r _ { 0 }$ 来描述.当 $0 \leqslant r _ { 0 } \leqslant \tau _ { m } \left( \mathbf { \Lambda } _ { z } \right) / \left[ \tau _ { m } \left( \mathbf { \Lambda } _ { z } \right) \mathbf { \Lambda } + \tau _ { a } \left( \mathbf { \Lambda } _ { z } \right) \mathbf { \Lambda } \right]$ 时确认光子与分子发生碰撞；当 $\tau _ { { \scriptscriptstyle m } } ( z ) / [ \tau _ { { \scriptscriptstyle m } } ( z ) + \tau _ { { \scriptscriptstyle a } } ( z ) ] < r _ { 0 } \leqslant$ 1时确认光子与气溶胶发生碰撞
+
+$\textcircled{2}$ 光子自由路程 $d$ ，自由路程可定义为连续两次碰撞之间光子所经历的路程，一般用光学距离（定义为沿自由路程对消光系数的积分） $l$ 来表示.如果取非碰撞概率密度函数 $p$ 与 $\mathbf { \xi } _ { l }$ 间的函数关系为$p = e ^ { - l }$ 那么光子与粒子相距光学距离 $l$ 时的非碰撞概率 $r _ { 1 }$ 应为：
+
+$$
+r _ { 1 } ~ = ~ \int _ { 0 } ^ { l } p ( ~ l ^ { \prime } ) \mathrm { d } l ^ { \prime } = 1 ~ - \mathrm { e } ^ { - l }
+$$
+
+当 $l {  } { \infty }$ 则 $r _ { 1 } {  } 1$ 表明两个粒子相距无穷远时,它们之间不发生碰撞是一个必然事件;当 $l {  } 0$ 时 $r _ { 1 } $ 0表明两个粒子无穷靠近时，它们之间发生碰撞是必然事件.对于一个随机碰撞过程 ${ \bf \nabla } _ { { \bf { \downarrow } } { \bf { \Gamma } } _ { r _ { 1 } } }$ 是一个在[O，1]间均匀取值的随机数，那么由公式 $l = - \ln ( 1 -$ $r _ { 1 } \big .$ 便可算得与 $r _ { 1 }$ 对应的光学距离值.
+
+$\textcircled{3}$ 散射相函数 $P ( \theta \underset { \varepsilon } { \varrho } )$ （ $\theta$ 为散射角 $\mathbf { \Delta } _ { \mathcal { S } }$ 为不对 称因子).散射相函数决定光子碰撞后的去向，它由 碰撞的性质决定.分子对光子的散射采用Rayleigh 散射相函数：
+
+$$
+P ( \theta ) = \frac { 3 } { 4 } ( 1 + \cos ^ { 2 } \theta )
+$$
+
+气溶胶对光子的散射采用改进的Henyey-Greenstein散射相函数：
+
+$$
+P ( \theta , g ) = \frac { 1 } { 4 \pi } \cdot \frac { 3 } { 2 } \cdot
+$$
+
+$$
+\frac { \mathrm {  ~ \sigma ~ } ( 1 \mathrm {  ~ } - \mathrm {  ~ } g ^ { 2 } ) \mathrm {  ~ \left( ~ \right)} 1 \mathrm {  ~ } + \mathrm { c o s } ^ { 2 } \theta  } { \mathrm {  ~ \sigma ~ } ( 2 \mathrm {  ~ } + \mathrm {  ~ } g ^ { 2 } ) \mathrm {  ~ \left( ~ } 1 \mathrm {  ~ } + \mathrm { g } ^ { 2 } \mathrm {  ~ \right. ~ } 2 g \mathrm { c o s } \mathrm {  ~ } \theta ) ^ { 3 / 2 } }
+$$
+
+定义归一化的散射相函数:
+
+$$
+\begin{array} { r l } { P ( \theta \ , g ) } & { = \frac { \displaystyle \int _ { 0 } ^ { \theta } P ( \theta ^ { \prime } \ g ) \ \mathrm { d } \theta ^ { \prime } } { \displaystyle \int _ { 0 } ^ { 2 \pi } P ( \theta ^ { \prime } \ g ) \ \mathrm { d } \theta ^ { \prime } } } \end{array}
+$$
+
+则 $P ( \theta \underset { } { \varrho } )$ 的取值位于[01]之间.产生一个在[O，1]间均匀取值的随机数 $r _ { 2 }$ 令 $r _ { 2 } = P ( \theta \mid _ { \infty } )$ 即可获得随机的散射角.设散射后光子的相对方位角为 $\varphi$ “产生一个随机数 $r _ { 3 }$ 令 $\varphi = 2 \pi r _ { 3 }$ ，可以获得随机的方位角.由此可以确定散射之后的光子传输方向.
+
+$\textcircled{4}$ 确定光子与粒子碰撞后的空间位置.大气光学厚度与垂直高度 $z$ 之间存在一一对应关系，可以用来确定光子的空间位置.设光子与大气中的某种粒子发生碰撞时的位置为 $( \boldsymbol { \textbf { \em x } } , \boldsymbol { y } \ \boldsymbol { \gtrsim } )$ ,由随机数 $r _ { 0 }$ 确定光子与粒子碰撞的性质，由 $r _ { 2 }$ 与 $r _ { 3 }$ 确定粒子碰撞后的去向 $( \theta \ \varphi )$ 由 $r _ { 1 }$ 确定发生碰撞后光子自由行进的光学距离 $l$ 与它对应的大气光学厚度之差应为$\Delta \tau = l \cos \theta$ 根据大气光学厚度和大气层高度的对应关系将 $\Delta \tau$ 转化为 $\Delta z$ 则自由路程 $d = \Delta z / \cos \theta$ 相应地水平坐标的位移量应为： $\Delta x = d { \sin \theta } { \cos \varphi } \ , \Delta y =$ $d \mathrm { s i n } \theta \mathrm { s i n } \varphi$ .如此不断循环直到光子到达地面为止.
+
+# 1.3 光子传输环境
+
+光子传输的大气环境通过美国空军地球物理实验室（AFGL)研发的大气辐射传输模型MODTRAN4来构建.主要进行两方面的工作： $\textcircled{1}$ 计算大气上行和下行透过率、大气程辐射、太阳直射辐射、天空漫射辐射等参数，带入公式(1)计算遥感器入瞳处的总辐射量； $\textcircled{2}$ 计算不同高度的大气光学厚度（包括分子和气溶胶光学厚度），建立大气光学厚度和大气层高度的对应查找表，用于蒙特卡罗模拟时确定光子与粒子碰撞后的空间位置.针对 $5 5 0 ~ \mathrm { n m }$ 波长，采用1976年美国标准大气，乡村型气溶胶类型，$5 ~ \mathrm { k m }$ 地面气象视距，计算得到分子和气溶胶光学厚度随高度的变化曲线如图2所示，
+
+# 2模拟结果与分析
+
+# 2.1大气PSF的模拟结果
+
+从距离地表 $3 0 ~ \mathrm { k m }$ 的高度处在 $0 . 0 7 6 ^ { \circ }$ 的IFOV内发射 ${ 1 0 } ^ { 6 }$ 个波长为 $5 5 0 \ \mathrm { n m }$ 的光子采用计算图2
+
+1.4 1.2 1.0 Atmospheretype:1976USStandard Pdeaeent Aerosol type:rural 0.8 Surface meteorological range:5km Wavelength:550nm 0.6 -MoleculeOpticalDepth 0.4 -Aerosol Optical Depth -Total OpticalDepth 0.2 1 0 5 10 15 20 25 30 Altitude/km
+
+所需的大气条件以及图2所示的大气光学厚度随高度的变化曲线通过逆向蒙特卡罗法模拟光子传输过程获得二维大气PSF，如图3所示.中心像元为$4 0 ~ \mathrm { m } \times 4 0 ~ \mathrm { m }$ 落在中心像元的光子数占光子总数的$4 1 . 7 4 \%$ ：
+
+![](images/b73984e75db5822d2954ff57e4c54b1dab79126b1c63e8434f0ab45d11414df5.jpg)  
+图2大气光学厚度随高度的变化曲线 Fig.2Variation of the atmosphere optical depth with the altitude
+
+# 2.2 影响因素分析
+
+影响邻近效应的因素很多，本文对标准朗伯面且具有固定反射率的自标在不同背景反射率、成像空间分辨率、地面气象视距、太阳天顶角下的邻近效应进行模拟.研究中选取参数如下：研究的波段范围为可见光-近红外波段( $3 5 0 \ \mathrm { n m } \sim 1 2 5 0 \ \mathrm { n m } )$ ；大气类型为1976年美国标准大气；气溶胶类型为乡村型地面气象视距选择 $5 \ \mathrm { k m } \cdot 1 0 \ \mathrm { k m } \cdot 2 3 \ \mathrm { k m } ;$ 目标反射率 $\bigcup _ { \cdot \rho _ { T } ) }$ 选择0.02和0.62,背景反射率 $( \rho _ { B } )$ 选择0.02、0.32和0.62；遥感器在 $3 0 ~ \mathrm { k m }$ 高度垂直向下观测;成像空间分辨率选择 $1 \ \mathrm { m } . 4 \ \mathrm { m } . 1 6 \ \mathrm { m } ;$ 太阳天顶角选择 $0 ^ { \circ } . 3 0 ^ { \circ } { \sqrt { 6 0 ^ { \circ } } }$ .模拟输出遥感器入瞳处的总辐射（204号 $( L _ { T } )$ 和邻近效应产生的辐射( $L _ { \mathrm { } _ { A } }$ ），以邻近效应产生的辐射占总辐射的百分比表征邻近效应的强弱.
+
+# 2.2.1 表面反射率分布
+
+研究中选取自标和背景反射率差异较大的两种情况：暗自标在亮背景下和亮目标在暗背景下.计算 $\rho _ { T }$ 分别为0.02(暗目标)和0.62(亮目标)时 $\pmb { \rho } _ { B }$ 逐渐变大邻近效应占总辐射的比例随波长的变化，结果如图4所示.由图可知： $\textcircled{1}$ 在整个可见光-近红外波段背景反射率的变化对邻近效应的影响很明显随着背景反射率增大邻近效应占总辐射的比例也增大； $\textcircled{2}$ 暗目标在亮背景下的邻近效应占总辐射的比例明显高于亮目标在暗背景下邻近效应占总辐射的比例，说明亮背景下的暗自标比暗背景下的亮目标更加难以识别; $\textcircled{3}$ 在 $7 6 0 \ \mathrm { n m } , 9 4 0 \ \mathrm { m } , 1 \ 1 0 0 \ \mathrm { n m }$ 等几个 ${ \mathrm { H } } _ { 2 } \mathbf { O } { \cdot } \mathbf { O } _ { 2 }$ 吸收峰，邻近效应在总辐射中所占的比例非常的高(图中横坐标断开的区域）因此除非用于大气遥感对地遥感成像时应避开这些波长区域同时也表明较强吸收波段的传输方程是不同的； $\textcircled{4}$ 不考虑吸收峰的情况下，亮目标在背景极暗（ $\rho _ { B } \leqslant 0 . \ 0 2 ;$ ）时，邻近效应占总辐射的比例小于
+
+![](images/e735f6ab320392c89ed46323d354d1a22b904ffaa95deeb4305d7c8c3530c99f.jpg)  
+图3蒙特卡罗法模拟的二维大气PSF Fig.3Two dimensional atmospheric point spread function simulated by Monte Carlo method   
+图4目标和背景反射率对邻近效应的影响(a）暗目 标（b）亮目标 Fig.4Adjacency effect for different target and background reflectivity(a) dark target (b) bright target
+
+$0 . 5 \%$ 可以忽略;暗目标在背景极暗( ${ \bf \rho } _ { \cdot } \rho _ { B } \leqslant 0 . 0 2 )$ （204号时邻近效应占总辐射的比例小于 $1 . 6 \%$ 基本可以忽略；当背景反射率增大时邻近效应所占的比例显著增大，是否可以忽略需进行定量计算才能确定.
+
+# 2.2.2 成像空间分辨率
+
+针对 $1 . 0 2 4 \ \mathrm { k m } \times 1 . 0 2 4 \ \mathrm { k m }$ 的矩形地表区域选择亮目标在极暗背景下( $\rho _ { T } = 0 . 6 2 \ \rho _ { B } = 0 . 0 2 )$ 、暗目标在极亮背景下( $: \rho _ { T } = 0 . 0 2 \ \rho _ { B } = 0 . 6 2 )$ 两种极端情况模拟成像分辨率分别为 $1 ~ \mathrm { m ( }$ 图像尺寸 $1 \ 0 2 4 \times$ 1024) $\mathrm { . 4 ~ m ( }$ 图像尺寸 $2 5 6 \times 2 5 6 ;$ ）、 $1 6 ~ \mathrm { m } ( \$ 图像尺寸$6 4 \times 6 4 )$ 时邻近效应占总辐射的比例如图5所示，计算结果显示： $\textcircled{1}$ 在整个可见光-近红外波段随着成像分辨率提高邻近效应占总辐射的比例略有增大.这是由于对于同样大小的成像区域成像分辨率越高，目标区域所占的范围就越小，背景区域所占的范围则越大，背景像元对总辐射的贡献增加邻近效应所占的比例增大. $\textcircled{2}$ 暗目标在极亮背景的情况下在计算的波段范围内邻近效应占总辐射的比例始终较高必须予以考虑.这种情况下，邻近效应占总辐射的比例呈现出较强的波长相关性随着波长增加邻近效应占总辐射的比例总体呈现快速增长趋势但在某些波段范围（如以 $9 4 0 ~ \mathrm { n m }$ 和 $1 ~ 1 0 0 ~ \mathrm { n m }$ 为中心的水汽吸收带附近）出现快速下降、再快速上升的情况. $\textcircled{3}$ 亮自标在极暗背景下，即使成像分辨率高达 $1 \mathrm { ~ m ~ }$ ,邻近效应占总辐射的比例始终小于$0 . 2 \%$ ,可以忽略.
+
+# 2.2.3地面气象视距
+
+选择乡村型气溶胶类型，分别选取地面气象视距为 $5 ~ \mathrm { k m } \cdot 1 0 ~ \mathrm { k m }$ 和 $2 3 \ \mathrm { k m }$ 开展模拟结果如图6所示.由图可知： $\textcircled{1}$ 在整个可见光-近红外波段地面气象视距对邻近效应的影响非常明显. $\textcircled{2}$ 亮目标在暗背景下随着气象视距增大邻近效应占总辐射的比例迅速下降且随着波长增加邻近效应占总辐射的比例也呈下降趋势. $\textcircled{3}$ 暗目标在亮背景下，情况比较复杂：当气象视距由 $5 ~ \mathrm { k m }$ 增大至 $2 3 \ \mathrm { k m }$ 时（由混浊大气变为清洁大气），邻近效应占总辐射的比例大幅下降；当气象视距由 $5 ~ \mathrm { k m }$ 增大至 $1 0 ~ \mathrm { k m }$ 时（大气始终较为混浊），波长较短时，气象视距对邻近效应的影响并不明显随着波长增加邻近效应占总辐射的比例随气象视距增加而显著减小.
+
+![](images/d254dba70d3d5d45891713aef84dd28b48025b0db5a6a405af5d1e87c6d2c8ad.jpg)  
+图5成像空间分辨率对邻近效应的影响(a）暗目标,亮 背景（b）亮目标暗背景 Fig.5Adjacency effect for different imaging space resolution:（a)dark target in bright background;(b)bright target in dark background
+
+![](images/0ed5a89f400b1a347a15c4072fc449edae872d56c60ea3add2476d9318aa8786.jpg)  
+图6地面气象视距对邻近效应的影响(a）暗目标 亮 背景（b）亮目标 暗背景 Fig.6Adjacency effect for different surface meteorological range:(a）dark target in bright background;（b) bright target in dark background
+
+# 2.2.4 太阳天顶角
+
+对于可见光-近红外波段，太阳是主要的辐射源，太阳天顶角的变化必然会对成像产生影响.由于太阳天顶角的变化造成到达自标和背景的太阳直射辐射和天空漫射辐射同时发生变化，因此可以预计，太阳天顶角对邻近效应会有影响但不会是太大的影响.模拟太阳天顶角为 $0 ^ { \circ } \cdot 3 0 ^ { \circ } \cdot 6 0 ^ { \circ }$ 时邻近效应占总辐射的百分比，如图7所示.总体来看随着太阳天顶角增大邻近效应占总辐射的比例下降只有当太阳天顶角比较大时，这种下降的幅度才会较大.
+
+![](images/c42410ea56cde6d1340125d72617e0b855d88ea0134337c3d83c0ac87de05613.jpg)  
+图7太阳天顶角对邻近效应的影响(a）暗目标 亮背景， （b）亮目标暗背景 Fig.7Adjacency effect for different solar zenith angle:(a) dark target in bright background;（b）bright target in dark background
+
+# 3结论
+
+利用逆向蒙特卡罗法模拟大气PSF，以辐射传输模型MODTRAN计算地表辐射场，获得遥感器入瞳处的辐亮度.通过改变目标和背景的反射率、大气参数和观测条件研究邻近效应的主要影响因素取得了一些研究结果.邻近效应是由背景辐射场通过大气多次散射进入自标像元的IFOV引起的，是一个非常复杂的过程需要考虑的影响因素众多影响机制复杂.尤其是当大气较混浊或地表不均匀的情况下，大气中的多次散射很重要邻近效应的影响更为复杂.本文在模拟时虽然考虑了地表的非均匀性，但对于自标和背景均采用朗伯体假设，没有考虑地表的双向反射分布特性.后续仍需开展持续而深入的研究.
+
+采用的蒙特卡罗模拟方法的优点在于其具有随机的特性能够模拟光子在大气中的随机传输过程但这种随机性，也导致难以获得简单明晰的解析表达式，只能靠大量的统计分析才能得到规律性结果.虽然随着计算机技术的高速发展，这一缺点显得不那么重要了，但依然需要考虑对算法进行优化获得更加稳定的、有代表性的结果，
+
+# 致谢
+
+本研究受到国家自然科学基金、空间天气学国家重点实验室专项基金的支持在此表示感谢！
+
+# References
+
+[1]Schott JR.Remote sensing:the image chain approach[M]. New York:Oxford University Press,2007:58-61.   
+[2]RichterR,Bachmann M,Dorigo W,et al.Influence of the adjacency effect on ground reflectance measurements [J]. IEEE Geosci. Remote S. ,2006 ,3(4) :565-569.   
+[3]Lyapustin AI,Kaufman YJ.Role of adjacency effect in the remote sensing of aerosol[J]．J.Geophys.Res．,2001， 106(d11):11909-11916.   
+[4] Santer R,Schmechtig C.Adjacency effects on water surfaces: primary scattering approximation and sensitivity study [J]．Appl.Opt．,2000,39(3):361-375.   
+[5]WEN Xing-Ping ,HU Guang-Dao,YANG Xiao-Feng. Simulation experiments on adjacency effect of satellite remote sensingpixels[J]．J.InfraredMillim.Waves(温兴平胡 光道杨晓峰.卫星遥感像元邻近效应的模拟试验.红外 与毫米波学报），2009,28(1)：46-65.   
+[6]Ma JW,Chen X.Adjacency effect estimation by ground spectra measurement and satellite optical sensor synchronous observation data[J].Chin.Opt.Lett.,2006,4(9) : 546-549.   
+[7]WANG Qian,CHEN Xue,MA Jian-Wen,et al.A comparative study of two remote sensing image adjacency effect correction algorithms based on SHDOM empirical equation [J]. ActaOpticaSinica（王倩，陈雪，马建文，等．基于 SHDOM经验方程和基于同步实测光谱数据的遥感影像 邻近效应校正算法对比研究．光学学报），2010，30 (11): 3342-3348.   
+[8]Reinersman PN,CarderKL.Monte Carlo simulation of the atmospheric point-spread function with an application to correction for the adjacency effect[J]．Appl.Opt．,1995,34 (21):4453-4471.   
+[9]XIAO Qing,LIU Qin-Huo,LI Xiao-Wen,et al．Analysis and correction of atmospheric cross radiation for high geometric resolution airborne remote sensing data[J].J.RemoteSens.（肖青柳钦火李小文，等.高分辨率机载遥 感数据的交叉辐射影响及其校正.遥感学报），2005，9 (6):621-633.   
+[10]Jia GR Zhao HJ,Li N.Simulation of hyperspectral scene with full adjacency effect[C].IEEE International Geoscience and Remote Sensing Symposium,2008 3:I724-lll 727.   
+[11]YANG Gui-Jun,LIU Qin-Huo,LIU Qiang,et al.Adjacency effect analysis in imaging simulation of high-resolution mid-infrared( $3 \div 5 \ \mu \mathrm { m } )$ remote sensing[J].J.Infrared Millim．Waves(杨贵军柳钦火,刘强，等．高分辨率中 红外遥感( $3 \div 5 \ \mu \mathrm { m } )$ 成像模拟中邻近效应分析.红外与 毫米波学报），2008，27(8)：233-240.   
+[12]LIU Cheng-Yu,CHEN Chun,ZHANG Shu-Qing，et al. Atmospheric adjacency effect correction of ETM images [J]．Spectrosc．Spect．Anal.（刘成玉 陈春 张树清等. ETM图像大气邻近效应校正.光谱学与光谱分析）， 2010 30(9): 2529-2532.   
+[13]LI Hong-Shun,LIUWei.Analysis of the adjacency effect in satellite remote sensing by using backward Monte Carlo method[J]．J.HuazhongUniv.ofSci.&Tech.（Nature ScienceEdition)（李宏顺刘伟.用逆向蒙特卡罗法分析 卫星遥感中的邻近效应.华中科技大学学报(自然科学 版)） 2004 32(11):1-3.   
+[14]LIU Guang-Yuan ,QIU Jin-Huan. Adjacency effect of satellite remote sensing on land surface studies[J].Chin.J. Atmos.Sci.（刘广员邱金桓.卫星对地遥感应用中的邻 近效应研究.大气科学）2004 28(2)：311-319.   
+[15]WANG Qian.Researach on adjacency effect correction algorithm in radiant transfer of ooptical remote sensing information[D].Beijing:China University of Geosciences(王 倩．光学遥感信息辐射传输中邻近效应校正算法研究. 北京：中国地质大学），2010.

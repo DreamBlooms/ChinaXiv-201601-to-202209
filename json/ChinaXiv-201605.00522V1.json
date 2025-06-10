@@ -1,0 +1,565 @@
+[
+    {
+        "type": "text",
+        "text": "Interpreting genotype-by-environment interaction for biomass production in hybrid poplars under short-rotation coppice in Mediterranean environments ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HORTENSIA SIXTO1,PAULA M. GIL1,PILAR CIRIA²,FRANCESC CAMPS,   \nISABEL CANELLAS1 and JORDI VOLTAS4   \n1INIA-CIFOR,Crta.delaCorunakm7,5，Madrid28040,SpainCEDER-CIEMAT,AutoiadeNaarraA-15,lida56,   \nLubia,Soria29Sin-FdaciMasBda,LalldaGrona34,SpinDepaamentderoducVeali   \nCiiencia Forestal-Centro AGROTECNIO,Avda Rovira Roure191，Lleida 25198,Spain ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Understanding genotype $\\times$ environment interaction (GEI) is crucial to optimize the deployment of clonal material to field conditions in short-rotation coppice poplar plantations.Hybrid poplars are grown for biomass productionunder a wide range of climatic and edaphic conditions,but their adaptive performance in Mediterranean areas remains poorly characterized.In this work,site regression (SREG) and factorial regression mixed models are combined to gain insight into the nature and causes underlying GEI for biomass production of hybrid poplar clones.SREG addresses the issue of clonal recommendation in multi-environment trials through a biplot representation that visually identifies superior genotypes.Factorial regresson,alternatively, involves a description of clonal reaction to the environment in terms of physical variables that directly affect productivity. Initially,SREG aided in identifying cross-over interactions thatoften involved hybridsof different taxonomic background. Factorial regression then selected latitude,mean temperature of the vegetative period (MTVP)and soil sand content as main site factors responsible for diffrential clonal adaptation.Genotypic responses depended strongly on taxonomic background: $P$ ，deltoides Bartr.ex Marsh. $\\times \\ P$ . nigra L. clones showed an overall positive sensitivity to increased MTVP and negative sensitivity to increased sand content, whereas the opposite occurred for $P$ .trichocarpa Torr.&Gray $\\times \\ P$ .deltoides clones; the three-cross hybrid [(P.deltoides $\\times \\ P$ .trichocarpa) $\\times \\ P$ .nigral often displayed an intermediate performance. This information can contribute toward the identification and biological understanding of adaptive characteristics relevant for poplar breeding in Mediterranean conditions and facilitate clonal recommendation at eco-regional level. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "eywords:adaptiepaters,factorialegression,GGEbiplotaalysis,bridpoplar,iedmodels,ultinvironttrals ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 22 June 2015;accepted 28 September 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The continued development of sustainable practices for improving short-rotation coppice (SRC） plantations must be grounded,among other factors,on a proper deployment of genetic material as related to planting site characteristics.This goal is often challenged by the presence of genotype-by-environment interaction (GEI) (Yan etal.,2ooO).GEIis definedas thedifference in the response of genotypes to different environments (Bradshaw,1965).It complicates the identification of superior genotypes，highlighting the need to grow different material in different areas within a broader target region.In tree breeding,however，the implications of GEI for selection purposes are difficult to be considered due to the effort associated with the multi-site evaluation of new breeds.Indeed,GEI evaluation in forest tree species requires time,manpower and economic investment, thus hampering its proper characterization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Populus species are present across a broad range of climatic and edaphic conditions,bearing an important ecophysiological variabilitythat often underlies interand intraspecific adaptation patterns (Dickmann, 2001). Populus nigra L. (European black poplar) and $P$ .deltoides Bartram ex Marshall (eastern cottonwood)，both from the Aigeiros section,andP.trichocarpa Torr.& Gray (balsam cottonwood),from the Tacamahaca section (Eckenwalder，1984)，are probably the most relevant species for cultivation in intensively managed plantations,their hybrids being widely used in the northern hemisphere The balsam cottonwood grows from sea level to $2 0 0 0 \\ \\mathrm { m }$ and prefers alluvial,fertile soils,although it can thrive with an acceptableperformance on loessicsoils; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "conversely,its growth is considerably limited in acidic soils $\\mathrm { ( p H < 6 ) }$ (DeBell,1990). On the other hand,species belonging to the Aigeiros section are considered to be more plastic: P.nigra is capable of growing on stony, poorandrelativelydrysoils,whileP.deltoidesisassociated with lowland flood plainsand sand riparian corridors with optimum growth on silty or sandy loam soils (Dickmann,20o1).However,P.deltoides can also thrive on deep，infertile sands and on clay soils (Cooper 1990). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The intraspecific adaptive patterns of these poplar species and their hybrids have been less explored as compared with interspecific characteristics.Interspecific hybrid poplars usually show intermediate morphological and phenological characteristics between those of their parents，but they can also display hybrid vigor and specific adaptation to particular conditions (Bisoffi & Gullberg,1996).Differences in productivity have been reported according to the genetic background (P.deltoides $\\times \\ P$ .nigra vs.P.trichocarpa $\\times \\ P$ 、deltoides）(Marron et al.,2oo7),as well as in functional traits such as water-use efficiency and stomatal conductance (Dillen et al.,2008;Di Matteo et al.,2015).The identification of the adaptive properties of hybrid poplars for SRC plantations becomes a priority for maximizing biomass production,particularlyunder the verydiverse array of growing conditions typical of the Mediterranean region. Forexample，Interamerican hybrids (P.trichocarpa $\\times$ P.deltoides） displaymorevigorousgrowth than Euramerican hybrids (P.deltoides $\\times \\ P$ .nigra）at higher latitudes (Tabbush & Beaton,1998). Studies relating productivity to site characteristics are common in forestry, including fast-growing plantations (Corona et al., 1998; Jug et al.，1999;Alvarez et al.,2010;Park et al.，2012). However, little information is available with regard to the effects of site or management factors on potentially contrasting performances of hybrid poplars in Mediterranean areas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Clones are expected to be more prone to GEI than other breeding material，owing to the absenceof genetic variability at the intraclonal level and the potential relevance of nonadditive genetic effects (in addition to additive variance) causing differential clonal performance (Eriksson et al.,20o6).Previous studies characterizing the stability of poplar genotypes in multi-environment trials (MET） in the Mediterranean area have revealed an important influence of GEI on productivity.GEI has been reported for both initial growth during the establishment year (Sixto et al., 2011)and total biomass (TB) production (and its different woody fractions) at the end of the first rotation per iod (Scarascia-Mugnozza et al., 1997; Sixto et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The identification of physical variables (e.g.related to soil,climate or geography） responsible for differential clonal performance across environments would contribute to a better understanding of GEI patterns affecting productivity in SRC poplar plantations. Additionally， the role of site management strategies derived from fertilization, irrigation or weed management practices should also be considered as potential causes for GEI.In this regard,the incorporation of external information describing environments in statistical models provides an effective approach to understanding GEI. In particular， factorial regression models constitute an informative methodology for interpreting GEI (Denis, 1988;Van Eeuwijk et al.，2005) that can be applied to forestry trials in a straightforward manner (Alia et al., 1997). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Factorial regression describes GEI as differential genotypic sensitivity to explicit environmental factors (i.e. differences among genotypes in their slope of response). This approach can be extremely instructive to improve the understanding of circumstances under which particular genotypes perform better. Such a strategy can be combined with exploratory GEI approaches that exploit phenotypic information solely for the target trait (e.g. biomass-based information in the case of energy crops)．Among these approaches is the sites regression (SREG）model (Crossa & Cornelius，1997), also known asgenotype main effects andgenotype $\\times$ environment interaction effects (GGE） model (Yang et al.,2009).SREG addresses the issue of cultivar recommendation in MET trials in a simple manner through a graphical technique: the so-called GGE biplot (Yan et al.,200o) (but see Yang et al.,2009 for a description of its limitations and most common misuses). The combination of SREG and factorial regression models enables not only the identification of superior material, but also the interpretation of key environmental aspects related to differential plant functioning underlying the observed superiority of certain genotypes in particular environments (Voltas et al.,2005). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most often， the multi-environment evaluationof genotypes calls for a mixed model setting that extends the traditional fixed-effects model, in which genotypes and environments (as well as their interaction) are regarded as fixed.In the last decade，cuting-edge studies in the statistical modelling of GEI have advocated the use of mixed models as the preferred analytic framework,with either genotypes or environments，or both， being treated as random effects (e.g. Smith et al.，2002;Yang，2007；Burgueno et al.，2011). In this regard,a mixed-model analog of the SREG model has been proposed that uses the factor analytic (FA）model for approximating the variance-covariance GEI structure (Piepho,1998;Smith et al.，2002).Furthermore,in factorial regression,environmental factors orcovariates can be easily embedded into a mixed modelling framework(Deniset al.，1997;Malosetti et al., 2004). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The objective of this study is to get an insight into the interpretable patterns of GEI of hybrid poplar genotypes differing in their taxonomic background in SRC in Mediterranean environmentsat the end of the first rotation period.To this end，we combined SREG and factorial regression mixed models to assist in the identification and characterization of superior hybrids in the context of evaluation trials earmarked for biomass production.This work was conceived as an extension of a previous study by Sixto et al. (2014) that was aimed at assessing differences in genotypic stability for productivity traits employing some widely used stability measures:Shukla'sstabilityvariance，Finlay-Wilkinson regression and Eberhart-Russell stability analysis.In Sixto et al. (2014)，we underlined the feasibility of exploiting specific adaptation for optimizing productivityin Mediterranean conditions,in which case hybrid type would play a relevant role. This realization opened the door to the application of more elaborated models inwhich additional information can beusedin the form of explicit environmental characterization to model GEI foratarget trait of choice (Malosetti et al.,2013).Here, we pursue a more comprehensive depiction,description and biological understanding of GEI patterns of SRC poplar plantations grounded on mixed modelling principles，with special emphasis on the taxonomic background of hybrids as regards the adaptive performance of clonal material. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Trials were conducted at four representative sites of the croppingconditions in which poplars are currently grown in northern Spain.Their characteristics are listed in Table1.We used nine poplar clones belonging to different interspecific hybrids. Cloneswere $' \\mathrm { I } { - } 2 1 4 ^ { \\prime }$ ，MC'，‘Guardi'，‘2000 verde'and ‘AF2' (P.deltoides Bartram ex Marshall $\\times \\ P$ .nigra $\\mathrm { L } . = P$ canadensis Moench. ${ \\bf \\xi } = P { \\bf \\xi }$ .euramericana (Dode).Guinier)，Unal’andUW 49-177' ( $P$ trichocarpa Torr.& $\\mathrm { G r a y } \\times P$ .deltoides ${ \\bf \\Phi } = P { \\bf \\Phi }$ generosa Henry ${ \\bf \\Phi } = P { \\bf \\Phi }$ .interamericana Brockh),and Monviso'and Pegaso' [(P. deltoides $\\times \\ P$ .trichocarpa) $\\times \\ : P$ .nigra].The plant material used in the experimental sites was produced in a stool bed established for the provision of stock plant for research purposes. Trials were planted out manually in spring using cuttingsatadensityof33 333cuttings $\\mathrm { \\ h a } ^ { - 1 }$ ，spaced $1 \\times 0 . 3 0 ~ \\mathrm { m } ,$ and a pre-emergence herbicide for weed control (Oxyfluorfen, $4 \\mathrm { ~ l ~ h a } ^ { - 1 } ,$ ）was applied.Three diferent treatments were tested at each site: (i) Additional weed control with herbicide (W):glyphosate application using a protective cover, (ii) Supplementary fertilization (F):granulated fertilizer containing N:P:K (12:12:17)and trace elements $( 0 . 1 \\%$ Fe, $0 . 0 2 \\%$ B and $0 . 0 1 \\%$ Zn) applied at a rate of $8 0 0 ~ \\mathrm { { k g } ~ h a ^ { - 1 } } ,$ ，and (iii) Control, with no further treatment (C). The trials were irrigated up to field capacity using a drip system to optimize the watering application.Irrigation isa common practice in SRC plantations in many Mediterranean areas because rainfall is not enough to optimize tree development. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A hierarchical split-plot experimental design was employed with four replicates per clone and treatment at each location. Two fixed factors were considered: genotype (nine clones, main plot）and treatment (three types，subplot).The allocation of treatments to subplots resulted in three distinct subenvironments for each of the four sites,so a total of 12 evaluation environments were considered in which each genotype had a particular response.Each replicate subplot consisted of 25 ramets of the same clone,resulting in square experimental units in which the nine central ramets were monitored.Yield was evaluated by recording total above-ground dry biomass per plant (TB,g) at the end of the first rotation (3-year-old plants).Data were expressed as dry weight after estimating the humidity content from a subsample of each plot,which was oven-dried to constant weight at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ Detailed information on the series of trials and the experimental design can be found in Sixto et al. (2014). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sitecharacterization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The environmental characterization of each site was performed by considering physical variables that were likely to have a direct influence on above ground biomass in SRC poplar plan tations.These comprised (i) geographic factors (latitude [LAT], longitude [LON],altitude [ALT]),(ii) bioclimatic traits (mean temperature [MT],mean temperature of the warmest [MMTW] and coldest month [MMTC],mean temperature of the vegetative period [MTVP], length of the vegetative period [VP]),and (iii） soil characteristics (clay content [CLAY],sand content [SAND]，silt content [SILT]，pH).Site characteristicsare described in Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b15ac679f16205d769f2f59421850a931890a0b3720705d6378838a9225d417.jpg",
+        "table_caption": [
+            "Table1 Climate,geographic and soil characteristics of the four study sites (S1, S2, S3, S4) "
+        ],
+        "table_footnote": [
+            "ALT,altitude $\\mathrm { ( m ) }$ ; VP,vegetative period (month);MT,annual mean temp. $( ^ { \\circ } C )$ MTVP,mean temp.of vegetative period ${ \\mathrm { ( } } ^ { \\circ } { \\mathrm { C } } { \\mathrm { ) } } ,$ MMTW,mean maximun temp.of warmest month $( ^ { \\circ } C )$ ；MMTC, mean min. temp.of coldest month $( ^ { \\circ } C )$ Clay $( \\% )$ ；; Sand $( \\% )$ Lime $( \\% )$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>S1</td><td>S2</td><td>S3</td><td>S4</td></tr><tr><td>Latitude</td><td>42.05</td><td>42.07</td><td>40.28</td><td>41.36</td></tr><tr><td>Longitude</td><td>2.91</td><td>5.45</td><td>3.22</td><td>2.30</td></tr><tr><td>ALT</td><td>20</td><td>730</td><td>595</td><td>1090</td></tr><tr><td>VP</td><td>8.00</td><td>6.00</td><td>7.00</td><td>6.00</td></tr><tr><td>MT</td><td>14.80</td><td>12.00</td><td>13.70</td><td>10.50</td></tr><tr><td>MTVP</td><td>17.90</td><td>17.40</td><td>18.70</td><td>15.40</td></tr><tr><td>MMTC</td><td>1.4</td><td>-2</td><td>-1.6</td><td>-5.6</td></tr><tr><td>MMTW</td><td>29.6</td><td>29.9</td><td>33.7</td><td>30.3</td></tr><tr><td>pH</td><td>8.25</td><td>8.26</td><td>8.40</td><td>6.84</td></tr><tr><td>Clay</td><td>8.90</td><td>16.80</td><td>15.80</td><td>8.16</td></tr><tr><td>Lime</td><td>26.15</td><td>10.28</td><td>15.28</td><td>5.64</td></tr><tr><td>Sand</td><td>64.95</td><td>72.92</td><td>68.92</td><td>86.2</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i j } = \\mu + G _ { i } + E _ { j } + \\left( G E \\right) _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Combined MET analysis.The four experiments were combined across locations and analyzed as multi-environment analysis of variance according to the following model: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { Y _ { i k l r p } = \\mu + L _ { k } + ( L R ) _ { k r } + G _ { i } + ( G L ) _ { i k } + ( G L R ) _ { i k r } + T _ { l } + ( L T ) _ { k l } } \\\\ { + ( G T ) _ { i l } + ( G L T ) _ { i k l } + e _ { i k l r } + p _ { i k l r p } \\qquad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { i k l r p }$ is the observation of the ith genotype and Ith agro nomic treatment in the kth location and rth block for the pth tree, $\\mu$ is the general mean, $L _ { k }$ is the effect of the kth location, $( L R ) _ { k r }$ is the random effect of the rth block nested to the kth location, $G _ { i }$ is the effect of the ith genotype, $( G L ) _ { i k }$ is the effect of interaction between the ith genotype and the kth location, $( G L R ) _ { i k r }$ is the random effect of the interaction between the rth block nested to the kth location and the ith genotype, $T _ { l }$ is the effect of the lth agronomic treatment, $( L T ) _ { k l }$ is the effect of interaction between the kth location and the Ith agronomic treatment, $( G T ) _ { i l }$ is the effect of interaction between the ith genotype and the Ith agronomic treatment, $( G L T ) _ { i k l }$ is the effect of interaction between the ith genotype,the kth location and the Ith agro nomic treatment, $\\boldsymbol { e } _ { i k l r }$ is the random residual effect of the ith genotype and Ith agronomic treatment in the rth block of the kth location,and $p _ { i j k l }$ is the random tree effect of the Ith individual in the iklrth plot. Prior to the combined analysis across locations,error variances were tested for homogeneity using Levene's test. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mixedmodelling ofMET data.Mixed modelsaccounting for interaction and heteroscedasticity in two-way genotype-byenvironment tables were fitted complementing a number of stability measures,as reported in Sixto et al.(2014):Shukla's stability variance,Finlay-Wilkinson regression and EberhartRussell stability analysis.Model fiting was performed on a genotype-by-environment table of means.This implies that a two-stage strategy for analyzing MET data was applied (for details,see e.g.Malosetti et al.,2013;Mohring& Piepho,2009). First,trials were individually analyzed and least square estimates of genotype-treatment means and plot error variances were obtained at each trial for TB.From these individual trial analyses,adjusted means were carried forward to the second stage,where different models were fitted to genotype-by-environment means.At this stage,each combination of location and agronomic treatment was regarded as a different‘environment'.We did not consider the use of weights (e.g.reciprocals of plot error variances） for estimates of genotype-treatment means,as the low range of plot error variances pointed to approximately equal precision of estimates at the trial level (largesterrorvariance $= 4 4 5 ~ 2 0 0 ~ \\mathrm { g } ^ { 2 } ,$ lowesterrorvari$\\mathrm { a n c e } = 9 1 \\ 4 0 4 \\ { \\mathrm g } ^ { 2 }$ approximate acceptable limit for a pooled residual $= 1 0$ -fold range in error variances,current range $\\mathit { \\Omega } = 4 . 8 \\mathit { \\Omega } _ { , } ^ { \\ ' }$ 1 (Williams et al.,20o2). Single-stage analyses have certain theoretical advantages over two-stage analyses,but two-stage analyses are logistically and computationally easier to handle in complex mixed models (Malosetti et al.,2013). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The standard additive two-way mixed model fitted to genotype-by-environment means can be expressed as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { i j }$ is the observation of the ith genotype in the jth environment, $\\mu$ is the general mean, $G _ { i }$ is the effect of the ith genotype, $E _ { j }$ is the effect of the jth environment,and $( G E ) _ { i j }$ is the effect of interaction between the ith genotype and the jth environment.For our purpose of testing cultivars for a target agroecological condition (i.e. the irrigated cropping system for poplar cultivation in the western Mediterranean),we regarded thedifferent environments as random.Therefore,the random effects $E _ { j }$ and $( G E ) _ { i j }$ are assumed to be independently distributed with zero mean and variances $\\sigma _ { E } ^ { 2 }$ and $\\sigma _ { G E } ^ { 2 }$ .Note that the main effects of location $( L _ { k } )$ and agronomic treatment $( T _ { l } )$ and their interaction $( L T ) _ { k l }$ are not explicitly fitted in the standard model (2),being subsumed as part of the Environment factor (i.e. $E _ { j } = L _ { k } + T _ { l } + L T _ { k l } )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The additive mixed model provided a starting point for comparison with other more complex but informative models: the SREG mixed model and the family of factorial regression mixed models.Eachalternative modelis outlined here as the sum of three components: the fixed terms,the random terms and the residual term.The residual term comprises the interaction not yet accounted for by the existing fixed and random terms.The residual term is very flexible for modelling purposes，and classical GEI approaches can be handled using appropriate variance-covariance (VCOV） structures for its approximation (Yang et al.,2009; Sixto et al.,2014).Following Denis et al.(1997),the general forms of expectation (E）and VCOV structures(Var) read as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( Y _ { j } ) = g ; \\quad \\operatorname { V a r } ( Y _ { j } ) = \\sigma _ { E } ^ { 2 } + \\Gamma\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $g$ is a column vector of size $I$ and $\\Gamma$ is any covariancematrix of size $I$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Three different types of $\\boldsymbol { \\varGamma }$ were used here: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Simple diagonal $\\mathbf { \\left( R _ { 1 } \\right) }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { c o v } ( G E _ { i j } ; G E _ { i j * } ) = \\sigma _ { G E } ^ { 2 } \\mathrm { w h e n } j = j * , } \\\\ { \\mathrm { o t h e r w i s e c o v } ( G E _ { i j } ; G E _ { i j * } ) = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma _ { G E } ^ { 2 }$ is a common variance of $G E$ effects across genotypes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Diagonal $(  { \\mathrm { R } } _ { 2 } )$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { c o v } ( G E _ { i j } ; G E _ { i j * } ) = \\sigma _ { G E i } ^ { 2 } \\mathrm { w h e n } j = j * , } \\\\ { \\mathrm { o t h e r w i s e c o v } ( G E _ { i j } ; G E _ { i j * } ) = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma _ { G E i } ^ { 2 }$ is a genotype-dependent variance of GE effects for the ith genotype. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Factor analytic 2 $( \\mathbb { R } _ { 3 } )$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { c o v } ( G E _ { i j } ; G E _ { i j * } ) = \\lambda _ { 1 j } \\lambda _ { 1 j * } + \\lambda _ { 2 j } \\lambda _ { 2 j * } + \\sigma _ { r } ^ { 2 } \\mathrm { w h e n } j = j * , } \\\\ { \\mathrm { o t h e r w i s e c o v } ( G E _ { i j } ; G E _ { i j * } ) = \\lambda _ { 1 j } \\lambda _ { 1 j * } + \\lambda _ { 2 j } \\lambda _ { 2 j * } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda _ { 1 j }$ and $\\lambda _ { 2 j }$ are environment-specific multiplicative parameters (loadings） and $\\sigma _ { r } ^ { 2 }$ isa common residual variance (Piepho,1997). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Site regression mixed model. The SREG mixed model is a mixed version of the GGE model (also known as SREG model) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "that uses a FA structure with two latent factors (FA(2)) to approximate the residual VCOV structure of (3) (Yang et al., 2009).Here,the residual VCOV structure models the main effects of genotypes plus GEI,while the environmental variance component $\\sigma _ { E } ^ { 2 }$ is included as a random term in the general model (3),as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( Y _ { j } ) = 0 ; \\mathrm { V a r } ( Y _ { j } ) = \\sigma _ { E } ^ { 2 } + R _ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This model, a mixed-model analog of the GGE biplot analysis (Yan & Kang,2oo3),has environmental loadings and genotypic scores of the two latent components of FA(2) that are interpreted in a similar way to those for the $\\mathrm { S R E G } _ { 2 }$ fixed-effect model (Yang et al.,20o9).Details on the identifiability of FA(2) and the principal component rotation applied to this dataset are provided in Burgueno et al. (2oo8).The number of variance components is $2 ( J + 1 )$ .The most common use of GGE biplot analysis in evaluation trials is the identification of mega-environments and the visualization of ‘which-won-where' patterns, thereby summarizing the information contained in complex datasets.'Which-won-where' patterns are only really identifiable if the correlation between the genotypic scores of the first latent factor and the genotypic main effects is positive and nearly perfect (Yan et al.,2001). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Factorial regression mixed models.In factorial regression models,linear regression terms for the explanation of GEI are incorporated in the form of environmental covariates to the levels of the environmental factor. In this way，physical variablesunderlying GEI can be identified.Three variantswere fitted for this purpose. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Model1 (mixed factorial regression model).This is an extension of the fixed factorial regression model as reviewed in Van Eeuwijk (1995).In factorial regression explicit environmental information is included in the levels of the environmental factor to describe the interaction term, GE: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( Y _ { j } ) = g ( 1 , z _ { j } ) ^ { \\prime } ; \\mathrm { V a r } ( Y _ { j } ) = \\sigma _ { E } ^ { 2 } + R _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $g$ isa $I \\times 2$ matrix of fixed parameters containing the ith genotype main effect and the ith genotypic sensitivity to the environmental factor $z _ { j }$ for the jth environment,and ${ \\bf R } _ { 1 }$ is defined above.For the sake of simplicity,we used here a very restricted set of environmental covariates (Table 1）that were tested independently, given the much reduced number of available locations.It is important to note that the term $g _ { i 2 } z _ { j }$ of the product matrix $g ( 1 , z _ { j } ) ^ { \\prime }$ becomes fixed because $z _ { j }$ values contain known,explicit environmental information rather than unobserved variables,as e.g. for the Finlay-Wilkinson model (Piepho,1997).The number of variance components equals two. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Model 2 (Shukla's mixed factorial regression model). This isa mixture between a general heteroscedastic model (model 2 in Sixto et al. (2014))and a mixed factorial regression model，and was first proposed by Shukla (1972) in its fixed guise: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( Y _ { j } ) = g ( 1 , z _ { j } ) ^ { \\prime } ; \\mathrm { V a r } ( Y _ { j } ) = \\sigma _ { E } ^ { 2 } + R _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here,the information about the genotypes is concentrated into‘triplets'of parameters:a general level of performance $( g _ { i 1 } )$ ，ameasure of sensitivity to the environmental covariate $( g _ { i 2 } )$ and a stability variance $( \\sigma _ { G E i } ^ { 2 } )$ . The diagonal $R _ { 2 }$ structure is defined as above,and the number of variance components equals $I + 1$ (Denis et al.,1997). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Model 3 (Shukla's structured mixed factorial regression model).This model is a simplified version of Shukla's mixed model that allows for the definition of $G$ different groups of genotypes with a priori different variability (i.e. heteroscedasticity).Here,three different groups of genotypes (i.e. taxonomic groups) were considered:P.deltoides $\\times \\ P$ nigra, $P$ trichocarpa $\\times P$ .deltoides,and[(P.deltoides $\\times$ $P$ .trichocarpa) $\\times \\ P$ .nigral. The expectation and VCOV structures are essentially the same as in (6),but the diagonal $R _ { 2 }$ structure is defined so as to assign the same residual variance to all genotypes within a particular group. The number of variance components is $G + 1$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The best fitting environmental covariate was independently selected for the set of geographic,bioclimatic and edaphic factorsunder model1.Next, the adequacy of the VCOV models incorporating stability variances at the genotype (model 2) or genotype group (model 3) level was tested against model 1 by computing the restricted log-likelihood statistics for each model and deriving information criteria such as Akaike's information criterion (AIC)and Bayesian information criterion (BIC).Both involve a penalty for the number of parameters in the VCOV structure,which favors parsimonious models,but BIC generallypenalizesa large numberof parametersmore strongly than does AIC.Both statistics are in the smaller-is-better form.It should be noted that the environmental covariates have only four levels characterizing each of the four different locations, while the number of total environments (or location-agronomic treatment combinations) is 12. By using the complete genotypeenvironment matrix (instead of a simplified genotype-location dataset),we aimed at improving the estimation of stability variances for genotypes (model 2) or genotype groups (model 3); on the other hand,estimates of genotypic sensitivities are equivalent regardless of the chosen approach.The analyses were performed with the MIXED procedure of SAS/STAT v.9.3 (2004),using restricted maximum likelihood for estimation of variance components. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Multi-environment trial analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The MET analysis of variance for TB revealed significant differences among locations (L） and among agronomic treatments (T),and also a significant $\\mathrm { ~ L ~ } \\times \\mathrm { ~ T ~ }$ interaction (Table 2). Overall, the highest biomass was achieved by the fertilization treatment $( 1 2 3 7 ~ \\mathrm { g }$ per plant)， followed by the control and herbicide treatments (1o85 and $ { 1 0 6 8 \\mathrm { ~ g ~ } }$ per plant respectively).There were significant differences among clones (G) and also a significant $ { \\cal G } \\times  { \\cal L }$ interaction.It is important to stress that neither the interaction between agronomic treatment and clone nor the second-order $\\mathrm { ~ G ~ } \\times \\mathrm { ~ L ~ } \\times \\mathrm { ~ T ~ }$ interaction was relevant for TB (Table 2).Therefore，GEI patterns were mainly due to a differential reaction of clones to the testing sites. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Siteregression mixed model ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The rotated to principal component biplot of the FA(2) model displays the response patterns of nine hybrid poplar clones evaluated in 12 environments for TB (Fig.1). The amount of GGE variation explained by the two components of the FA(2) model was $7 5 \\%$ (first component $= 5 5 \\%$ ；second component $= 2 0 \\%$ ），suggesting that a rank-two approximation is adequate for defining mega-environments and evaluating genotypes. In particular，the identification of mega-environments and depiction of‘which-won-where'patterns in the biplot seem accomplished for this dataset,as the correlation between genotypic scores of the first latent factor and the genotype main effects (derived from Eqn 2)was highly positive $( r = 0 . 9 2 )$ ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The environmental loadings of the first latent factor were mostly positive or close to zero with the exception of S4H and S4T,which exhibited negative loadings. The twelve environments fell into three apparent groups (i.e.mega-environments):most environments from sites ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc2d3429ae7dfd2511b30f0ddebd403a9e9b743567c33d12c5d3ab6a7e65ba9a.jpg",
+        "table_caption": [
+            "Table 2 Multi-environment analysis of variance for total biomass (g) "
+        ],
+        "table_footnote": [
+            "\\*Chi-squared distribution for Wald tests is an asymptotic approximation. tFor fixed effects. "
+        ],
+        "table_body": "<html><body><table><tr><td>Source of</td><td colspan=\"3\">Fixed effects*</td><td>Variance</td></tr><tr><td>variation</td><td>dft</td><td>Wald/df</td><td>P-value</td><td>component</td></tr><tr><td>Location (L) Block(L) (error a)</td><td>3</td><td>7.50</td><td><0.0001</td><td>28 539 ±17 055</td></tr><tr><td>Genotype (G)</td><td>8</td><td>12.11</td><td><0.0001</td><td></td></tr><tr><td>GxL Block(L)×G</td><td>24</td><td>6.51</td><td><0.0001</td><td>0</td></tr><tr><td>(error b) Treatment (T)</td><td></td><td></td><td></td><td></td></tr><tr><td>L×T</td><td>2 6</td><td>4.37</td><td>0.013 0.013</td><td></td></tr><tr><td>GxT</td><td>16</td><td>2.69</td><td></td><td></td></tr><tr><td>GxLxT</td><td>48</td><td>1.20 1.11</td><td>0.256 0.274</td><td></td></tr><tr><td>Plot error Intraplot</td><td></td><td></td><td></td><td>156 724 ± 23 297</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0bc865e7f881eb015b60fd4c8b065f6c2d2f107fe0ed95d8aec2e3ac1c58505.jpg",
+        "img_caption": [
+            "Fig.1 Biplot of the first two latent factors of the factor analytic model [FA(2)] for total biomass (TB) including nine poplar genotypes and twelve environments (or combinations of site [S1-S4] and cultural treatment $[ { \\cal C } =$ control; $\\mathrm { F } =$ supplementary fertilization; $\\boldsymbol { \\mathsf { W } } =$ weed control with herbicidel). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 and 3 formed one group (hereafter EG1),most environments from site 2 formed a second group (EG2) and, finally,environments from site 4 formed a third group (EG3).As for genotypes,two groups could be visually identified by the scores of the first latent factor:'UW 49/177',Pegaso' and Unal'(with negative scores)and 'AF2'，'20o0 verde'and MC' (with positive scores).On the other hand,clones‘Guardi'，Monviso' and $' \\mathrm { I } { - } 2 1 4 ^ { \\prime }$ displayed close-to-zero scores for the first latent factor. Monviso' and ‘2oo0 verde'showed the most extreme scores (positive and negative respectively） for the secondlatent factor. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In a vector representation,positions of environments on the biplot plane determine lines starting at the origin (0,0),with their corresponding vector norms associated with GEI variability. Thus,it was feasible to visualize the approximate ranking of genotypes in a particular environment on the basis of their projections ordered on the environment vector. For example,the biplot suggested ‘2Ooo verde'as the best yielding clone at S3H, while the least productive clones were Pegaso'and 'UW49/177'. By using the inner-product property of the biplot,the SREG mixed model was useful for visually identifying cross-over interactions: clones‘AF2'and 2000 verde'had higher TB in EG1,whereas Monviso' hadhigher TB in EG2 and Pegaso'displayed betterperformance in EG3.In thelatter case,however,the environments included in EG3 had close-to-zero loadings, indicating that the superiority of Pegaso' should be interpreted cautiously. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Site characteristics underlying GEI ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Single-covariate factorial regression mixedmodels (model1;Eqn 5) were first fitted to the two-way table of genotype-environment means for TB (Table 3). They provided an initial screening of relevant physical variables underlying genotypic responses to changing growing conditions. Significant geographic covariates were LAT,VP and ALT (in this order of significance), whereas all climatic factors were relevant for the explanation of differential genotypic responses (with MTVP asthe most important).Also,all edaphic factors were found to underlie GEI patterns,with SAND and $\\mathrm { \\Delta p H }$ (in this order) being the most relevant ones (Table 3). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The best fitting variable of each class was used thereafter for testing two variants of factorial regression: Shukla's mixed factorial regression model (model 2; Eqn 6) and Shukla's structured mixed factorial regression model (model 3).Models 2 and 3 account for heteroscedasticity in the residual effects so different stability variances can be added for each clone (model 2) or taxonomic group (model 3).Model 2 had the most satisfactory fit to the residual variance structure in all cases according to AIC and BIC statistics (Table 4). Following (6)， the expectation of any genotype-environment combination in model 2 takes into account both the genotypic mean and the sensitivity of the genotype toa selected physical variable (either LAT,MTVP or SAND） given by the factorial regression slope $( g _ { i 2 } )$ .In our case,clones Pegaso'and‘Unal' were sensitive to changes in all three variables (LAT,MTVP and SAND), whereas‘Guardi', $' \\mathrm { I } { - } 2 1 4 ^ { \\prime } .$ ，MC'and Monviso'did not respond significantly to any particular variable. Other clones showed specific responses to LAT ('2000 verde') orto both MTVP and SAND ('AF2'and'UW49/177') (Fig. 2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a388420b11d619f2e6a04fb5e668afca4ffabb6f732a046c083ce1d727bc81e6.jpg",
+        "table_caption": [
+            "Table 3 Wald's statistics for factorial regression mixed models incorporating environmental information "
+        ],
+        "table_footnote": [
+            "In bold,most relevant environmental variables $( P < 0 . 0 5 )$ （204号 underlying GE interaction according to a chi-squared distribution (asymptotic approximation). "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Wald/df</td></tr><tr><td>Geographic variables</td><td></td><td>Climaticvariables</td><td>Edaphic variables</td><td></td></tr><tr><td>LAT×clone</td><td>4.18</td><td>MT×clone</td><td>3.87</td><td>Clay xclone</td></tr><tr><td>LON×clone</td><td>1.22</td><td>MMTW×clone</td><td>5.08</td><td>Sand×clone</td></tr><tr><td>ALT×clone</td><td>2.27</td><td>MMTC×clone</td><td>2.66</td><td>3.79 SiltX clone 2.33</td></tr><tr><td>VP×clone</td><td>2.45</td><td>MTVPxclone</td><td>5.60</td><td>pH×clone 3.75</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The examination ofgenotypic slopes，however, revealed that the three taxonomic classes behaved quite differentially in their response to the environment，so separate sensitivities (i.e.slopes)at the taxonomic level were fitted additionally to model 2 and tested using Wald statistics. In all cases, the genotypic grouping was supported by the outcome of Wald's test for slope (Table 4),although for the sake of clarity the original genotypic sensitivities are presented in Fig.2. In particular，[(P.deltoides $\\times \\ P$ .trichocarpa) $\\times \\ P$ . nigra]genotypesdisplayedanoverallpositiveresponseto increasing latitude $( 0 . 0 0 1 5 \\mathrm { ~ g ~ } \\mathsf { D M } \\mathrm { ~ m } ^ { - 1 }$ ： $\\mathrm { S E } = \\pm 0 . 0 0 0 6 8 )$ ， whereas $P$ .deltoides $\\times \\ P$ .nigra showed a negative sensitivity $( - 0 . 0 0 2 2 \\textrm { g } \\mathsf { D M } \\textrm { m } ^ { - 1 }$ ： $\\mathrm { S E } = \\pm 0 . 0 0 0 6 1$ ）(Fig.2a).In turn, $P$ deltoides $\\times \\ P$ . nigra clones showed a positive sensitivity to increased MTVP $( 1 9 1 . 8 \\mathrm { ~ g ~ D M ~ } ^ { \\circ } \\mathrm { C } ^ { - 1 } .$ ： $\\mathrm { S E = }$ $\\pm 3 6 . 2 8 )$ ，whereas $P$ .trichocarpa $\\times \\ P$ .deltoidesdisplayed a negative sensitivity $( - 1 9 6 . 6 1 \\ \\mathrm { g } \\ \\mathrm { D M } \\ ^ { \\circ } \\mathrm { C } ^ { - 1 } ,$ $\\mathrm { S E } = \\pm 3 4 . 8 1 \\$ 0 (Fig. 2b)． Finally, $P$ .deltoides $\\times \\ P$ .nigra reacted negatively to increased sand content $( - 2 1 . 4 \\mathrm { ~ g ~ D M ~ } \\%$ sand-1; $\\mathrm { S E } = \\pm 6 . 1 3 )$ and $P$ trichocarpa $\\times \\ P$ .deltoidesreacted positively $( 2 8 . 8 \\mathrm { ~ g ~ D M ~ } \\%$ sand $^ { - 1 }$ $\\mathrm { S E } = \\pm 5 . 3 2 )$ (Fig. 2c). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Shukla'smixed factorial regression modelsalso explained genotypic stabilityin terms of independent clonal variancesofresidual GEI effects,butadistinctive (i.e.structured） taxonomic pattern was not detected here,irrespective of the external variable entering the model (Table 4). The relationship between genotypic stabilities estimated forthedifferent Shukla's models (i.e. involving LAT,MTVP or SAND) was high (Spearman's rank correlation between stability estimates ${ \\geq } 0 . 8 2$ $P < 0 . 0 1 \\$ ).Clone ‘20o0 verde' consistently showed the largest residual stability variance and Pegaso'and 'UW49/177' had the lowest values for this parameter (results not shown). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The biomass produced by hybrid poplars in this MET depended simultaneously on factors associated with the plantation site and the genotype，but also on specific genotypic responses to particular site conditions,hence pointing to the existence of GEI (Sixto et al.，2014). Biplots are effective tools for visually identifying GEI patterns,allowing environments with similar characteristics and genotypes with comparable performance to be identified (Yan et al.,2ooO),but they are useful for recommendation purposes only if the target region is sufficiently sampled (Yan et al.，2001). Additionally, they should be considered an initial, exploratory step toward a comprehensive understanding of GEI (Yang et al.，2O09)．To gain predictability in GEI，factorial regression can produce more parsimonious models that help determine the underlying physical factors for interaction (e.g.Voltas et al.,20o5).Here,we have illustrated how SREG and factorial regression mixed models can be combined using a common methodological framework to gain an insight into GEI for biomass production from hybrid poplar clones.This strategy is more in line with the recognized need to allow for random effects in the analysis of MET trials (e.g. Yang. 2007). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/48e4014c86fdf3b70d29dfc7c5eee8ddf668cebbadee29aeea98cf1838fb29b2.jpg",
+        "table_caption": [
+            "tererrrrlnerrertrerrrle aqea "
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">Latitude</td><td colspan=\"3\">Wald/df test</td><td colspan=\"4\">MTVP</td><td colspan=\"4\">Sand percentage Wald/df test</td></tr><tr><td>BIC</td><td>for different slopes (9 genotypes)</td><td>for different slopes (3 groups)</td><td>AIC</td><td>BIC</td><td>for different slopes (9 genotypes)</td><td>for different slopes (3 groups)</td><td>AIC</td><td>BIC</td><td>Wald/df test for different slopes</td><td>Wald/df test different slop (3 groups)</td></tr><tr><td>[odel1. lixed ctorial gression</td><td></td><td></td><td>1592.8</td><td>4.18</td><td>7.64</td><td>1377.4</td><td>1378.4</td><td>5.60</td><td>15.63</td><td>1425.7</td><td>1426.6</td><td>3.79</td><td>9.55</td></tr><tr><td>Iodel 2. nukla's ixed ctorial gression</td><td></td><td></td><td></td><td>4.06</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Iodel3. nukla's ructured ixed</td><td>4</td><td>1594.8</td><td>1596.7</td><td>4.0</td><td>7.49</td><td>1376.0</td><td>1378.0</td><td>7.0</td><td>21.49</td><td>1419.9</td><td>1421.9</td><td>5.58</td><td>14.77</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/54c923c459f9ce86d130a80510f33881cff15ecf80d4bafee146c90cbeb18ed5.jpg",
+        "img_caption": [
+            "Fig.2Genotypic sensitivities of taxonomic groups to (a) latitude,(b) MTVP and (c) soil sand percentage.Asterisks indicate sensitivities different to zero with $P < 0 . 0 5$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The biplot analysis suggested a stable performance of certain clones,namely I-214'，‘Guardi'and,to a lesser extent, MC',the latter displaying the highest production of this group. Selecting the most appropriate genotype is one of the main concerns of plantation managers when planning short-rotation forest crops; thus，the availability of such generalist genotypes can be particularly useful in the absence of precise site information. Theremaining clones exhibited a clearer preference for certain environments in which their production was maximized, revealing a more site-specific behavior.For example,the biplot identified ‘AF2'asa highly productive clone over the MET trial (with the exception of S4 environments),but its performance seemed to improve in those environments where additional fertilizer was applied (cf. Fig.1). Variation in the response of poplar genotypes to treatments involving different degrees of fertilization has been previously reported (Karacic& Weih,2006;Zalesny et al.,2007). Such variation may be attributed,among other factors,to differing behavioras regards nitrogen economy.However，perhapswith the exception of‘AF2'，a differential clonal response to fertilization could not be observed in this MET trial. Similarly,only Monviso' seemed to perform relatively better in environments where more rigorous weed control was applied (S2H and S1H),or where weeds were already scarce prior to the application of additional herbicide,such as in S2C (visual observation). But，despite such approximate interpretation of GEI patterns，we did not detect a significant treatment by genotype interaction for TB in our dataset (Table 2). Makeschin (1999) stated that aspects related to management and,particularly, to weed control have an impact on the production of biomass in short-rotation plantations in central and northern Europe.Other studies have addressed weed-poplar competition dynamics (Otto et al.,201O),although no specific mention has been made,to the best of our knowledge,as regards differences in the productive performance of genotypes associated with competition from weeds. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In relation to the evaluation sites,S4(with environments S4H,S4C and S4F),which presented the most extreme edaphoclimatic conditions for growth,was the least discriminant site for clonal differences as regards productive potential. This fact had already been noted for the establishment year when growth variables for the same set of genotypes were evaluated (Sixto et al., 2011). Conversely，S3 proved to be a good location, allowing for greater discrimination among genotypes as average yields were high (first latent score) and interaction was low (second latent score)，regardless of the agronomic treatment applied. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Among the site characteristics related to geographic, climatic or soil factors,LAT,MTVP and SAND were determined to be most relevant for the explanation of clonal differences in biomass production. Soil texture has been identified as one of the most important site factors forproduction in Salicaceae(Labrecque& Teodorescu，2003；Pinno & Belanger，2009；Bergante et al.,2010).Mean temperature during the growing sea son has also been identified as a major climatic factor forSalix species (Labrecque & Teodorescu，2003). Conversely，site altitude，which had previously been identified as highly explanatory of variation in clonal growth (Tabbush & Beaton，1998)，was not a very relevant (albeit significant） factor in this study despite strong differences in this variable among sites.In fact, the effect of altitude is partly accounted for by the observed differences in growing season length among sites,which turned to be a more important factor than altitude for GEI explanation.The combined effect of the length of the growing period (VP) and altitude is actuallyreflected in MTVP,the most relevant environmental variable underlying GEI. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Those clones identified as stable according to the biplot $( ^ { \\prime } \\mathrm { I } { - } 2 1 4 ^ { \\prime }$ ，'Guardi' andMC')，together with the Monviso'clone,showed no sensitivity to the aforementioned environmental covariates.However，the remaining clones exhibited a significant sensitivity to at least one covariate. The low productive clones Pegaso' and Unal'were sensitivetoallvariablesidentified asrelevant in the analysis,benefiting from cool vegetative periods，sandy soils and high-latitude sites.On the other hand,the Euramerican clone ‘2ooo verde'behaved better at low latitudes. Pegaso'and Unal'，hybrid clonesfrom[(P.deltoides $\\times \\ P$ .trichocarpa) $\\times \\ P$ .nigra] and (P.deltoides $\\times \\ P$ .trichocarpa)，respectively，are betteradaptedtohigherlatitudesand,therefore,toshorter vegetative periods than the Euramerican hybrids. For example，the Euramerican clone‘AF2'benefited from warm vegetative periods and also from not overly sandy soils.This performance has been highlighted in a recent study (Di Matteo et al.,2015).An opposite perfor mance was detected for the Interamericanclone ‘UW49- 177'，which preferred cooler vegetative periods and sandy soils. The overall site productivity appears also to beinfluenced by the covariates identified as significant for GEI. In particular, the least productive site (S4) had the lowest MTVP and the largest percentage of sand. Conversely，the most productive and interactive site (S3)showed the highest values for these variables and also had the most southerly latitude. The remaining sites (S1 and S2）presented intermediate values.We acknowledge that four sites may not suffice to capture conveniently the diversity of agroecological conditions for SRC poplar plantations encountered in northern Spain,and that otherpotentiallyrelevant characteristics for GEI such as soil fertility (e.g. N,P and K content) have not been considered in this study in the absence of a proper soil characterization.Moreover，we have not considered features related to soil water availability which,according to Bergante et al. (2010),is the most important factor explaining variation in biomass production under Mediterranean conditions.This factor, however,was considered to be of little relevance,given that plantations were irrigated during the entire vegetative period and the soil kept close to field capacity, which is a usual management practice in southern Mediterranean areas. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In summary，genotypic responses to environmental covariatesdepended strongly on taxonomic background.P.deltoides $\\times \\ P$ .nigra clones showed an overall positive sensitivity to increased MTVP and negative sensitivity to increased SAND，whereas the opposite occurred for P.trichocarpa $\\times \\ P$ .deltoidesclones. Thethree-cross hybrid [(P.deltoides $\\times \\ P$ .trichocarpa) $\\times \\ : P$ nigral oftendisplayedan intermediate performance,which may be due to its intermediate genetic background in relation to the other hybrid groups.However,in the case of LAT,it was not possible to identify such a clear response pattern based on taxonomic affiliation,even though it was expected that the Interamerican hybrids would exhibit an overall positive sensitivity to increased latitude of the testing site.In this regard, the response of genotypes to latitude being dependent on the geographic origin of the ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) (b) (c) 800 800 800 ●2000 verde r=-0.81\\*\\* r=0.92\\*\\*\\* 2000 verde . ● 2000 verde r=-0.82\\*\\* Fr iraiiiiart 600 600 600 AF2 AF2 MC . MC AF2 . MC 400 GUARDI 400 GUARDI 400 ●GUARDI 200 /1-214 MONVISO 200 1-214/ MONVISO 200 . 1-214 0 PEGASO 0 OUNAL 0 UNAL O PEGASO 0 MONVISO PEGASO UNAL OUW 49-177 OUW 49-177 9 UW 49-177 -200 -200 -200 -0.006 -0.003 0.000 0.003 0.006 -400 -200 0 200 400 -40 -20 0 20 40 60 αis (latitude) (g DM m-1) α (MTVP) (g DM C-1) αi's (sand) (g DM %-1) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "parental material has been accepted for decades (Pryor & Willing，1965).Here，the relatively low number of testing sites and clones may have precluded the detection of clearer responses to latitude changes. In any case,the environmental characteristics linked to GEI point to the existence of different adaptive patterns depending on the taxonomic background, probably influenced by the particular geographic origin of the parental material. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Although onlya limited number of site characteristics were analyzed, clonal performance was found to vary according to geographic (latitude) and edaphoclimatic gradients which explained,at least partially,GEI patterns in clones previously characterized as exhibiting specific adaptation (Sixto et al.,2014).This is confirmed bythe close associations between the Finlay-Wilkinson stability parameter for each clone (Sixto et al.,2014) and the genotypic sensitivities to environmental factors obtained from Shukla's mixed factorial regression models (Fig. 3). The overall response patterns detected at taxonomic group level suggest differences in adaptive performance for each genetic background of hybrid poplars. These patterns could help facilitate clonal recommendation in the Mediterranean area as well as highlight adaptive characteristics to be considered in breeding programs. Although further research and more extensive testing is needed in relation to the factors that influence clonal response and contribute to GEI,the information provided in this study may contribute toward improving GEI predictability in hybrid poplarsatMediterranean eco-regional level. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This research was funded by MINECO (Spain) throughout the project RTA2008-00025-C02-01 and RTA2011-00006-00-00.We also acknowledge the collaboration of project AGL2oo9-11006. We would like to thank the public company SOMACYL for hosting one of the experimental plots.We are also grateful to Juan Pablo de la Iglesia and Ana Parras for their technical sup port throughout the experiment. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AliaR,Moro J,Denis J(1997) Performance of Pinus pinaster provenances in Spain: interpretation of the genotype by environment interaction. Canadian Journal of Forest Research,27,1548–1559.   \nAlvarez P,Diaz E,Camara A,Afif E (2010) Relating growth and nutrition to site factors in young chestnut plantations established on agricultural and forest land in northern Spain. Agroforestry Systems,79,291-301.   \nBergante S,Facciotto G,Minotta G (201o) Identification of the main site factors and management intensity affecting the establishment of Short-Rotation-Coppices (SRC) in Northern Italy through stepwise regression analysis.Central European Journal ofBiology,5,522-530.   \nBisoffi S,Gullberg U (1996) Poplar breeding and selection strategies.In: Biology of Populusand its Implications for Management and Conseroation (eds StetlerR, Bradshaw H,Heilman P,Hinckley T),pp.139-158.NRC Research Press, Ottawa, ON.   \nBradshaw A (1965) Evolutionary significance of phenotypic plasticity in plants. Advancesin Genetics,13,115-155.   \nBurgueno J, Crossa J Cornelius P,RcY(20o8)Using factor-analytic models for joining environments and genotypes without crossover genotype $\\mathrm { ~  ~ x ~ }$ environment interaction. Crop Science,48,1291-1305.   \nBurgueno J, Crossa J Cotes J Vicente F, Das B (2011) Prediction assessment of linear mixed models for multienvironment trials. Crop Science,51, 944-954.   \nCooper T (1990) Silvics manual; hardwoods.Agriculture Handbook USDA Forest Service,654,1044-1052.   \nCorona P,Scoti R,Tarchiani N(1998)Relationship between environmental factors and site index in Douglas-fir plantations in central Italy.Forest Ecology and Management,110,195-207.   \nCrossa J, Cornelius J (1997) Site regression and shifted multiplicative model clustering of cultivar trials sites under heterogeneity of error variances. Crop Science, 37, 406–415.   \nDeBell D (199o)Populus trichocarpa Torrey & Gray: Black Cotonwod.In: Silvics of North America,Vol 2,Hardwoods.Agriculture Handbook 654.(eds Burns RM, Honkala BH),pp. 570-576. USDA, Washington.   \nDenis J(1988) Two-way analysis using covariates.Statistics,19,123-132.   \nDenis J,Piepho H,Van Eeuwijk F(1997) Modelling expectation andvariance for genotype by environment data.Heredity,79,162-171.   \nDi Matteo G,Nardi P,Verani S, Sperandio G (2015) Physiological adaptability of poplar clones selected for bioenergy purposes under non-irrigated and suboptimal site conditions: a case study in Central Italy. Biomass and Bioenergy,81,183- 189.   \nDickmann D (20o1) An overview of the genus Populus.In:Popular Culture in North America (eds Dickmann D,Isebrands J,Eckenwalder J,Richardson J),pp.1-44. NCR Research Press, Otawa, ON.   \nDillen S,Marron N, Koch B,Ceulemans R (2oo8) Genetic variation of stomatal traits and carbon isotope discrimination in two hybrid poplar families (Populus deltoides （20 $\\mathrm { { ' S 9 - 2 ' } } \\times \\mathrm { { \\it P } }$ .nigra'Ghoy'andP.deltoides‘S9 $2 ^ { \\prime } \\times P$ .trichocarpa V24).Annalsof Botany,102, 399–407.   \nEckenwalder J(1984) Natural intersectional hybridization between North American species of Populus (Salicaceae) in sections Aigeiros and Tacamahaca. II. Taxonomy. Canadian Journal of Botany,62,325-335.   \nEriksson G,Ekberg I,Clapham D (eds) (2006)An Introduction to Forest Genetics. Uppsala, Sweden. ISBN 91-576-7190-7.   \nJug A,Hofmann-Schielle C,Makeschin F,Rehfuess K (1999) Short-rotation plantations of balsam poplars,aspen and willows on former arable land in the Federal Republic of Germany. II. Nutritional status and bioelement export by harvested shoot axes.Forest Ecology andManagement,121,67-83.   \nKaracic A,Weih M (2oo6) Variation in growth and resource utilization among eight poplar clones grown under diferent irigation and fertilization regimes in Sweden. Biomassandioenergy,5124.   \nLabrecque M,Teodorescu T(2o03) High biomass yield achieved by Salix clones in SRIC following two 3-year coppice rotations on abandoned farmland in southern Quebec,Canada.iomassandioenergy25,5-146.   \nMakeschin F (1999) Short Rotation Forestry in Central and Northern Europe-introduction and conclusions.Forest Ecology and Management,11,1-7.   \nMaloseti M,Voltas JRomagosa I Ulrich S,Van Eeuwijk F(2004) Mixedmodels including environmental covariables for studying QTL by environment interaction. Euphytica,137,139-145.   \nMaloseti M,RibautJVan EeuwijkF(2O13)Thestatistical analysisof multi-environment data: modeling genotype-by-environment interaction and its genetic basis. Frontiers inPlantPhysiology4,44.   \nMarron N, Dillen S,Ceulemans R (2o07) Evaluation of leaf traits for indirect selectionof high yieldingpoplar hybrids.Environmental and Experimental Botany,61, 103-116.   \nMohring J, Piepho H (20o9)Comparison of weigthing in two-stage analysis of plant breeding trials.Crop Science,49,1977-1988.   \nOtto S,Loddo D,Zanin G (2010) Weed poplar competition dynamics and yield loss in Italian short rotation forestry.Weed Research,50,153-162.   \nPark Y,Lee D,Batkhuu N,Tsogtbaatar J,Combalicer M,Park G,Woo S (2012) Woody species variations in biomass allocation, photosynthetic WUE and carbon isotope composition under natural drought condition in Mongolia. Journal of Environmental Scienceandanagement,,97.   \nPiepho H(1997) Analyzing genotype-environment data by mixed models with multiplicative terms.Biometrics,53,761-766.   \nPiepho H(1998)Methods for comparing the yield stability of cropping systems. Journal of Agronomyand Crop Science,18o,183-213.   \nPinno B, Belanger N (2009) Competition control in juvenile hybrid poplar plantations across a range of site productivities in central Saskatchewan, Canada. New Forests,37,213-225.   \nPryorL,Willing R(1965) The development of poplar clones suited to low latitudes. Silvae Genetica,4,22.   \nSAS Institute Inc (2004) SAS/STAT 9.1 User's Guide.SAS Institute Inc., Cary,NC. ISBN 1-59047-243-8.   \nScarascia-Mugnozza G,Ceulemans R,Heilman P,Isebrands J, Stetler R,Hinckey T (1997)Production physiology and morphology of Populus species and their hybrids grown under short rotation.II. Biomass components and harvest index of hybrid and parental species clones.Canadian Journal of Forest Research,27,285- 294.   \nShukla G (1972) Some statistical aspects of partitioning genotype-environmental components of variability.Heredity,29,237-245.   \nSixto H, Salvia J, Ciria P,Canellas I(2011) Genetic variation and genotype-environment interactions in short rotation Populus plantations in southern Europe.New Forests,42, 163–177.   \nSixto H,GilP,CiriaP,Camps F, Sanchez M,Canellas I, VoltasJ(2014) Performance of hybrid poplar clones in short rotation coppice in Mediterranean environments: analysis of genotypic stability.Global Change Biology Bioenergy,6, 661-671.   \nSmith A, Cullis B,Thompson R (2002) Exploring variety-environment data using random effects AMMI models with adjustment for spatial field trends: part 1: theory.In: Quantitative Genetics,Genomics and Plant Breeding (ed. Kang M),pp.323- 335.CABI Publishing, Oxford, UK.   \nTabbush P, Beaton A(1998) Hybrid poplars: present status and potential in Britain. Forestry,71,355-64.   \nVan Eeuwijk F (1995) Linear and bilinear models for the analysis of multi-environment trials: I. An inventory of models. Euphytica,84,1-7.   \nVan Eeuwijk F,Malosetti M,Yin X,Struik P,Stam P (2005)Statistical models for genotype by environment data: from conventional ANOVA models to eco-physiological QTL models.Australian Journal of Agricultural Research，56, 883-894.   \nVoltas J,L6pez-C6rcoles H,Borras G (2005) Use of biplot analysis and factorial regression for the investigation of superior genotypes in multi-environment trials. European Journal ofAgronomy,22,309-324.   \nWilliams E,Matheson A,Harwood $\\textrm { C }$ (2002) Experimental Design and Analysis for Tree Improvement. CSIRO Publishing, Clayton, VIC.   \nYanW,KangM(2O03) GGEBiplotAnalysis:A Graphical Tool for Breeders,Geneticists and Agronomists.CRC Press,Boca Raton,FL.   \nYan W,Hunt L, Sheng Q, Szlavnics Z (20o) Cultivar evaluation and mega environment investigation based on the GGE Biplot. Crop Science,40,597-605.   \nYan W,Cornelius P,Crossa J,La H (2001) Two types of GGE biplots for anayzing multi-environment trial data. Crop Science, 41, 656-663.   \nYang R (2oo7) Mixed model analysis of crossover genotype-environment interactions. Crop Science,47,1051-1062.   \nYang R,Crossa J,Cornelius P,Burgeno J(2009) Biplot analysis of genotype by environment interaction: proceed with caution. Crop Science,49,1564-1576.   \nZalesny J,Zalesny R,Coyle D,Hall R (2007) Growth and biomass of Populus irrigated withlandfill leachate.Forest Ecology and Management,248,143-152. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

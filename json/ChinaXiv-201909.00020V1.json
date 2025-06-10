@@ -1,0 +1,581 @@
+[
+    {
+        "type": "text",
+        "text": "玛纳斯河流域绿洲时空演变及其景观格局变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄犁，徐丽萍（石河子大学理学院,新疆 石河子832000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于1976、1989、1998、2006、2016 年5期Landsat MSS/TM/OLI遥感影像,提取玛纳斯河流域近40 a的绿洲分布情况，利用数理统计模型及景观指数等方法分析了绿洲时空演变过程及其景观格局变化。结果表明：1976-2016 年玛纳斯河流域中下游绿洲变迁呈退缩—扩张—急剧扩张的变化趋势,除 1976—1989 年绿洲处于退缩状态外,自 1989 年以来绿洲规模一直处于扩张状态,其中,以2006—2016 年绿洲扩张速度最快,其面积增长量和净变化速度高达 $3 \\ 2 6 6 \\ \\mathrm { k m } ^ { 2 }$ 和 $4 . 4 3 \\%$ ,绿洲变化趋势表现出非平衡一极端不平衡的变化。1989—2006 年草地对绿洲退缩的贡献率最大,2006 年以后水域面积减少是绿洲退缩的主要贡献者,1989 年以后耕地对绿洲扩张的贡献率最大;绿洲重心总体向西北方向迁移，各时期的绿洲重心迁移方向为东北—西南一西北一西南。绿洲景观几何形状趋于简单化,绿洲内部破碎化程度增加,这与草地景观破碎化程度不断增大有关,绿洲总体趋向于集中,绿洲聚集度有所增加,这与耕地景观聚集程度不断增大密切相关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：绿洲；时空演变；景观格局；面积变化；贡献率；玛纳斯河流域",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "绿洲指干旱区中以生物群落为基础，能构成相对稳定的异质生态景观，是干旱区的精华所在，也是干旱区生态系统结构的核心{1]。我国绿洲主要分布在贺兰山以西的干旱区，尽管绿洲面积仅占西部干旱区总面积的 $4 \\% \\sim 5 \\%$ ,却养育了全区 $90 \\%$ 以上的人口,集中了干旱区 $9 5 \\%$ 的社会财富[2-3]。近年来，人类不合理的土地利用方式，水资源的过度使用，干旱气候的不断影响下，绿洲生态系统功能不断下降，绿洲生态系统的抵抗能力和自我恢复能力逐渐降低,导致绿洲一旦破坏很难恢复[4]。科学分析和掌握绿洲的历史演变过程，对实现绿洲生态环境持续健康发展具有重要的现实意义[5]。目前，国内已有的大部分绿洲研究主要分布在敦煌绿洲[、高昌绿洲[7]、金塔绿洲[8]、三工河流域[9]、黑河流域[2]、艾比湖流域[10]等区域,且研究内容主要包括绿洲景观的时空变化过程、绿洲时空变化及其驱动因素、绿洲土地利用覆被变化方面等，然而通过绿洲时空演变过程探究其景观格局变化的研究甚少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地处新疆天山北麓中段的玛纳斯河流域绿洲是我国西北干旱地区农耕绿洲的典型代表。已有研究主要侧重对玛纳斯河流域绿洲的空间扩张模式[11]绿洲景观生态脆弱性时空分异[12]、绿洲农田防护林景观格局评价[13]、绿洲土壤盐分时空变化趋势[14]等方面的研究，而对玛纳斯河流域中下游绿洲时空演变过程的研究甚少。本文以玛纳斯河流域绿洲为例，利用1976—2016年5期的遥感影像来探究近40a玛纳斯河流域中下游绿洲的时空演变及其景观格局变化，为实现绿洲生态环境保护提供科学依据，也为该流域及类似地区的生态环境综合治理提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "玛纳斯河流域位于新疆塔城地区和昌吉州境内，地处天山北坡、准噶尔盆地西南部，总面积$3 . 3 5 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 [ 1 5 ] }$ ,介于 $4 3 ^ { \\circ } 2 1 ^ { \\prime } \\sim 4 5 ^ { \\circ } 2 1 ^ { \\prime } \\mathrm { N } \\ : \\mathrm { , } 8 5 ^ { \\circ } 0 1 ^ { \\prime } \\sim$ $8 6 ^ { \\circ } 4 2 ^ { \\prime } \\mathrm { E }$ 。流域主要河流包括塔西河、玛纳斯河、金沟河、八音沟河等，其中玛纳斯河发源于北天山中段依连哈比尔尕山乌代肯尼河的43 号冰川,全长 $4 2 0 ~ \\mathrm { k m }$ ，为玛纳斯河流域最大河流[16]。玛纳斯河流域贯穿了山地一绿洲一荒漠系统，流域绿洲主要以片状或带状分布在山前冲积平原和冲洪积扇扇缘，流域的主要径流水源为高山区的冰雪融水与上游的降水。玛纳斯河流域中下游冲积平原绿洲(图1)属于典型的温带大陆性气候,气候干燥少雨,年平均气温$4 . 7 \\sim 5 . 7 \\mathrm { ~ \\textdegree C }$ ,降水量为 $1 1 5 . 8 \\sim 2 0 0 ~ \\mathrm { m m }$ ,年平均蒸发量为1500\\~2 100 mm（17-18） ○",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ab829cf764c04efacd9ce8b5b8fa2413c23355c6d23192f0099382125c489d7.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1Sketch map of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源及处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以1976—2016年的LandsatMSS、TM/OLI影像为数据源。为保证影像地物分异清晰，所有影像为玛纳斯河流域7一9月的少云或无云影像，通过使用ENVI5.3软件对各时段影像进行几何校正、影像拼接和裁剪等预处理，并对1976年的LandsatMSS影像进行重采样，使所有影像空间分辨率为 $3 0 \\mathrm { ~ m ~ }$ 。本研究以流域肯斯瓦特水文站[19]附近的河流出山口为玛纳斯河流域上游的分界线，以 $1 ~ 1 0 0 \\mathrm { ~ m ~ }$ 的高程等值线裁剪出玛纳斯河流域的中下游绿洲。基于绿洲景观定义[和《土地利用现状分类》[20]，将研究区分为绿洲和荒漠两大系统的基础之上，进一步把玛纳斯河流域绿洲划分为耕地、林地、草地、水域、建设用地5个二级类型。通过使用eCognition8.9软件对各时段影像采取多尺度分割，并根据各地物特征值和目视解译相结合的方法，对各地物分类，获得研究区各土地类型数据，并结合GoogleEarth卫星地图对玛纳斯河流域绿洲的数据进行验证，总体解译精度达到 $90 \\%$ 以上。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1绿洲面积变化与趋势分析",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）绿洲净变化速度",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用(1)式定量描述绿洲变化过程中其退缩或扩张的速度[21] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { x } } = \\left( T \\sqrt { \\frac { U _ { b } } { U _ { a } } } - 1 \\right) \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\overline { { x } }$ 为绿洲净变化速度; $T$ 表示研究时段； $U _ { a }$ 和$U _ { b }$ 分别代表研究时段内绿洲初期和末期的面积，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）绿洲扩张与退缩状态模型",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究时段内绿洲转化为荒漠的区域为绿洲退缩区，荒漠转化为绿洲的区域为绿洲扩张区，该模型可以清楚地反映绿洲扩张退缩情况，定量分析绿洲化和荒漠化强度[22],具体公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { A D R = \\displaystyle \\frac { U _ { a } - ( \\begin{array} { c } { { U _ { a } \\cap U _ { b } } } \\end{array} ) } { U _ { a } } \\times \\frac { 1 } { T } \\times 1 0 0 \\% } } \\\\ { { \\ A O R = \\displaystyle \\frac { U _ { b } - ( \\begin{array} { c } { {  U _ { a } \\cap U _ { b } } ) } } { U _ { a } } \\times \\frac { 1 } { T } \\times 1 0 0 \\% } } \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $U _ { a }$ 和 $U _ { b }$ 分别是研究初期和末期的绿洲面积;$U _ { a } \\cap U _ { b }$ 为研究初期和末期绿洲面积求交集； $T$ 为研究时段； $A O R$ 和 $A D R$ 分别为绿洲退缩度和绿洲扩张度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）绿洲变化趋势状态指数模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了清楚地反映绿洲在研究时段内的变化趋势，可以借助状态指数模型来分析。绿洲变化趋势状态指数模型在一定程度上能描述绿洲变化趋势，还能反映绿洲系统是否稳定[23],具体公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { s } = ( L - D ) / ( L + D )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $L$ 和 $D$ 分别代表研究时段内绿洲的增加量和减少量； $P _ { s }$ 为绿洲状态指数，当 $0 < P _ { s } \\leqslant 1$ 时，绿洲规模朝着增大的方向发展,绿洲处于“扩张”状态，当 $- 1 \\leqslant P _ { s } < 0$ 时,绿洲规模朝着减少的方向发展，绿洲处于“收缩”状态，当越接近0时，绿洲的规模增长(减少)缓慢,呈现为平衡态势；当 $\\boldsymbol { P } _ { s }$ 越接近于1或-1时，说明绿洲呈现极端非平衡态势,致使绿",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "洲面积逐步增加或减少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 绿洲空间变化分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）绿洲重心迁移模型",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分析绿洲重心在各个时期的分布变化，可以反映绿洲的空间变化情况。第 $\\mathbf { \\chi } _ { t }$ 年绿洲重心坐标 $( X$ Y)可表示为[24]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { X = \\displaystyle \\sum _ { i = 1 } ^ { n } (  C _ { i } \\times X _ { i } ) \\Biggl / \\sum _ { i = 1 } ^ { n } C _ { i } } } \\\\ { { {  Y = \\displaystyle \\sum _ { i = 1 } ^ { n } (  C _ { i } \\times Y _ { i } ) \\Biggl / \\sum _ { i = 1 } ^ { n } C _ { i }  } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $X _ { i \\setminus Y _ { i } }$ 分别表示第 $i$ 绿洲斑块重心的经纬度坐标； $C _ { i }$ 表示第 $i$ 个绿洲斑块面积",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）各类型土地在绿洲变迁中的贡献率",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "遥感影像反映的绿洲演变实质是绿洲土地利用/覆被变化[25],绿洲内部各土地类型的变化能定量的分析绿洲的空间变化，各时期各土地类型面积变化对绿洲变迁的贡献率能反映各时期绿洲变化的内在机理。本研究通过分别选取绿洲扩张和退缩贡献率 $R _ { e }$ 和 $R _ { d }$ ，以及各土地类型变化对绿洲变迁的贡献率 $R _ { c }$ 模型，来定量的分析绿洲空间变化过程，具体方法详见参考文献[2]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 绿洲景观特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算玛纳斯河流域中下游绿洲不同时期的景观指数,可以分析绿洲景观格局变化和演变趋势[26] O通过分析不同时期绿洲斑块类型级别和景观级别的景观指数，能反映各时期绿洲景观格局变化的内在机理。利用Fragstats4.2软件，从斑块类型级别选取斑块类型面积比（PLAND）、斑块数目（NP）、斑块密度（PD）、最大斑块指数(LPI)，从景观级别选取边缘密度（ED）、景观形状指数（LSI）、景观分割度（DI-VISION）、绿洲聚集度（AI)，以上指数的计算公式和生态学意义详见参考文献[27]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 绿洲时空演变过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1绿洲面积变化与趋势由图2 可知，1976—2016年玛纳斯河流域中下游绿洲面积总体呈减小一持续增长一快速增长的趋势，除1976—1989 年绿洲面积减小外，自1989年以来绿洲面积一直呈现出持续增长的态势，尤其是2006—2016 年绿洲面积急剧扩张。其中，1976一1989年玛纳斯河流域绿洲面积变化量和净变化速度分别为 $1 \\ \\mathrm { \\ 0 0 1 } \\ \\mathrm { k m } ^ { 2 }$ 和$- 1 . 7 6 \\%$ ,绿洲扩张度（ADR）小于绿洲退缩度(AOR），荒漠化过程大于绿洲化过程，绿洲面积呈现退缩的状况，其绿洲变化趋势状态指数为-0.32，绿洲处于非平衡状态。1989—1998 年玛纳斯河流域绿洲面积呈现扩张状态，其面积变化量和净变化速度分别为 $1 \\ 2 0 9 \\ \\mathrm { k m } ^ { 2 }$ 和 $3 . 0 7 \\%$ ,绿洲扩张度大于绿洲退缩度，且绿洲变化趋势状态指数为0.43，绿洲处于非平衡状态。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3e643d568345d8d57574bd5482274feecb8534bf02b11cbcd3e85ad30b5ba9b.jpg",
+        "img_caption": [
+            "图21976—2016 年绿洲面积、扩张与退缩变化及趋势状态指数变化Fig.2Change of the oasis area and the trend index from 1976 to 2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1998一2006年玛纳斯河流域绿洲面积变化及变化速度相对较小，但绿洲面积仍保持持续增长的态势，绿洲变化趋势状态指数为0.34，绿洲仍处于非平衡状态。2006—2016年玛纳斯河流域绿洲面积快速增长，绿洲面积变化量和净变化速度达到最大,2016 年绿洲面积达到 $9 \\ 1 7 4 . 7 \\ \\mathrm { k m } ^ { 2 }$ ,绿洲扩张度远大于绿洲退缩度，绿洲变化趋势状态指数高达0.79，绿洲处于极端不平衡状态。1976—2016年玛纳斯河流域绿洲面积总体呈现增长趋势，绿洲化过程不断增强，荒漠化过程逐渐减弱，绿洲变化趋势表现出非平衡一极端不平衡的变化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2绿洲空间演变过程绿洲内部各土地类型的面积变化对绿洲变迁的贡献率能反映绿洲变化的内在机理。由各土地类型对绿洲变迁的贡献率（表1）和绿洲空间演变(图3)的综合分析可知，1976—",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/95bb1cfa95034772e8080fe9b1a68dfcc440496b848ab72fb32e795a0c656e6d.jpg",
+        "table_caption": [
+            "表11976一2016年各土地类型对绿洲扩张和绿洲退缩的贡献率",
+            ".1Contribution rates of land use types to oasis expansion or reduction during 1976 -20 "
+        ],
+        "table_footnote": [
+            "注： $R _ { e }$ 为绿洲扩张贡献率； $R _ { d }$ 为绿洲退缩贡献率； $R _ { c }$ 为各土地类型变化对绿洲变迁的贡献率。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份</td><td colspan=\"3\">草地</td><td colspan=\"3\">耕地</td><td colspan=\"3\">建设用地</td><td colspan=\"3\">林地</td><td colspan=\"3\">水域</td></tr><tr><td>R</td><td>Rd</td><td>R</td><td>R</td><td>Rd</td><td>R</td><td>R</td><td>Rd</td><td>R</td><td>R</td><td>Rd</td><td>R</td><td>R</td><td>Rd</td><td>Rc</td></tr><tr><td>1976-1989</td><td>66.22</td><td>83.4</td><td>162.1</td><td>28.91</td><td>12.74</td><td>-63.9</td><td>0.67</td><td>0.24</td><td>-1.3</td><td>0.1</td><td>0.15</td><td>0.1</td><td>4.1</td><td>3.45</td><td>3</td></tr><tr><td>1989-1998</td><td>43.99</td><td>75.29</td><td>-12.08</td><td>50.95</td><td>23.07</td><td>101.82</td><td>0.65</td><td>0.76</td><td>1.32</td><td>0.05</td><td>0.18</td><td>-0.08</td><td>4.4</td><td>0.76</td><td>9.02</td></tr><tr><td>1998-2006</td><td>29.37</td><td>67.93</td><td>- 69.45</td><td>62.65</td><td>22.21</td><td>163.04</td><td>0.64</td><td>1.43</td><td>0.69</td><td>1.81</td><td>0</td><td>3.66</td><td>5.54</td><td>8.43</td><td>2.06</td></tr><tr><td>2006- -2016</td><td>39.33</td><td>19.95</td><td>29.12</td><td>56.04</td><td>37.09</td><td>69.74</td><td>1.26</td><td>0.7</td><td>2.14</td><td>0.08</td><td>1.41</td><td>-0.28</td><td>3.29</td><td>40.85</td><td>-0.71</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcef75e9ec3498aad09f2dd33c707eeaf9208f4a01ffd31ba4afeb919f09028f.jpg",
+        "img_caption": [
+            "图31976—2016 年绿洲空间变化示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2016年绿洲变迁呈退缩一扩张一急剧扩张的变化趋势，对绿洲变迁贡献率最大的为耕地和草地，其次为水域、建设用地和林地。玛纳斯河流域中下游绿洲重心总体向西北方向迁移，各时段的绿洲重心迁移方向为东北—西南—西北—西南（图4）。1976—1989年草地和耕地对绿洲扩张和退缩的贡献率之和占总数的 $9 5 \\%$ 以上，且草地和耕地变化对绿洲变迁的贡献率分别为 $1 6 2 . 1 \\%$ 和 $- 6 3 . 9 \\%$ 。可见，此时段的绿洲退缩主要受草地退缩的影响，草地转为荒漠的主要区域包括绿洲南部和西部(图3a和5b)，故绿洲重心向东北方向迁移,迁移距离为 $3 5 . 6 8 ~ \\mathrm { k m }$ ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1989—1998年耕地面积增加对绿洲扩张的贡献率开始大于草地，分别为 $5 0 . 9 5 \\%$ 和 $4 3 . 9 9 \\%$ ，表明耕地成为绿洲扩张的主要影响因子；但耕地对绿洲退缩的贡献率远小于草地，说明绿洲退缩仍受草地退缩的重大影响;而该时段耕地的变化对绿洲变迁的贡献率远大于其他地类，为 $1 0 1 . 8 2 \\%$ ,说明此时段绿洲开始处于扩张阶段。与上个时段相比，绿洲扩张主要表现为绿洲南部和西部耕地面积的增加（图5b和5c），故该时段绿洲重心向西南方向回移。1998一2006年耕地面积增加对绿洲扩张的贡献率继续增长的同时，草地面积增加对绿洲扩张贡献率继续减少;绿洲退缩除了主要由草地面积减小支持外，水域面积的减小也起了一定作用，水域面积减小对绿洲退缩的贡献率由 $0 . 7 6 \\%$ 增加到 $8 . 4 3 \\%$ ;耕地变化仍为绿洲变迁的主要贡献者，绿洲继续处于扩张状态。绿洲扩张主要表现在绿洲西部和西北部耕地面积的增加（图5c和5d），故该阶段绿洲重心向西北方向迁移。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/72b8aa9523929fae5c9cf8b56fa455840d747a5d21e9f5342632cdf518e21aef.jpg",
+        "img_caption": [
+            "Fig.3Spatial change of the oasis during 1976-2016 ",
+            "图41976—2016年玛纳斯河流域中下游绿洲重心迁移 Fig.4Shift of the oasis main part in the middle and lower reaches of the Manas River Basin during 1976-2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0968bd2f3fac60bca6377db94a5ed28d324e5ca075b5b9580e4991dd9955decd.jpg",
+        "img_caption": [
+            "黄犁等：玛纳斯河流域绿洲时空演变及其景观格局变化",
+            "图51976—2016年玛纳斯河流域中下游绿洲分布",
+            "Fig.5Distribution of the oasis in middleand lower reaches of the Manas River Basin during 1976-2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2006—2016年建设用地面积增加对绿洲扩张的贡献率由0.64上升到1.26，这与近10a流域各城市的快速城市化发展密不可分；草地退缩不再是绿洲退缩的主要影响因子，水域面积减少成为绿洲退缩的主要贡献者，这与玛纳斯湖大面积萎缩有关;草地和耕地变化对绿洲变迁的贡献率分别为$2 9 . 1 2 \\%$ 和 $6 9 . 7 4 \\%$ ，可见此时段绿洲变迁同时受草地和耕地扩张的影响，绿洲处于急剧扩张的状态。该时段绿洲扩张主要由于西部耕地和南部草地面积的增加（图5d和5e），故绿洲重心向西南方向迁移。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 绿洲景观特征变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1类型尺度上的景观特征变化1976—2016年绿洲内草地和耕地的斑块类型面积比远大于其他",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "景观类型，两者斑块类型面积比之和占绿洲总面积的 $9 0 \\%$ 以上，是玛纳斯河流域绿洲的优势景观类型，是绿洲的景观基质（表2）。研究时段内，耕地的",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表21976—2016年绿洲类型尺度上的景观指数变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2ff1d020daab97611ee6a4693c78054c7b86d8a75ca29ca113778ebbdbf0a65.jpg",
+        "table_caption": [
+            "Tab.2Changes of the indexes of landscapes at class scale in the oasis during 1976-2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地 类型</td><td>年份</td><td>斑块类型 面积比 (PLAND)/%</td><td>斑块数 目（NP) /个</td><td>斑块密度 (PD)/（个· 10 -² ·hm-²)</td><td>最大斑 块指数 (LPI)/%</td></tr><tr><td>草地</td><td>1976</td><td>73.31</td><td>565</td><td>0.11</td><td>34.38</td></tr><tr><td></td><td>1989</td><td>52.64</td><td>1 207</td><td>0.3</td><td>5.03</td></tr><tr><td></td><td>1998</td><td>37.19</td><td>1 413</td><td>0.27</td><td>1.44</td></tr><tr><td></td><td>2006</td><td>22.44</td><td>2 051</td><td>0.33</td><td>0.19</td></tr><tr><td></td><td>2016</td><td>25.54</td><td>2190</td><td>0.23</td><td>1.04</td></tr><tr><td>耕地</td><td>1976</td><td>21.86</td><td>970</td><td>0.19</td><td>0.79</td></tr><tr><td></td><td>1989</td><td>41.81</td><td>839</td><td>0.21</td><td>9.3</td></tr><tr><td></td><td>1998</td><td>56.01</td><td>622</td><td>0.12</td><td>8.43</td></tr><tr><td></td><td>2006</td><td>70.98</td><td>558</td><td>0.09</td><td>44.7</td></tr><tr><td></td><td>2016</td><td>69.71</td><td>297</td><td>0.03</td><td>64.73</td></tr><tr><td>水域</td><td>1976</td><td>4.25</td><td>86</td><td>0.02</td><td>1.58</td></tr><tr><td></td><td>1989</td><td>4.54</td><td>31</td><td>0.01</td><td>2.16</td></tr><tr><td></td><td>1998</td><td>5.69</td><td>60</td><td>0.01</td><td>1.94</td></tr><tr><td></td><td>2006</td><td>4.99</td><td>83</td><td>0.01</td><td>2.13</td></tr><tr><td></td><td>2016</td><td>3.1</td><td>158</td><td>0.02</td><td>0.44</td></tr><tr><td>林地</td><td>1976</td><td>0.15</td><td>15</td><td>0.003</td><td>0.02</td></tr><tr><td></td><td>1989</td><td>0.2</td><td>9</td><td>0.002</td><td>0.07</td></tr><tr><td></td><td>1998</td><td>0.1</td><td>10</td><td>0.002</td><td>0.02</td></tr><tr><td></td><td>2006</td><td>0.59</td><td>9</td><td>0.002</td><td>0.27</td></tr><tr><td></td><td>2016</td><td>0.29</td><td>45</td><td>0.005</td><td>0.07</td></tr><tr><td>建设用地</td><td>1976</td><td>0.41</td><td>16</td><td>0.003</td><td>0.16</td></tr><tr><td></td><td>1989</td><td>0.79</td><td>26</td><td>0.007</td><td>0.32</td></tr><tr><td></td><td>1998</td><td>0.99</td><td>26</td><td>0.005</td><td>0.37</td></tr><tr><td></td><td>2006</td><td>0.96</td><td>31</td><td>0.005</td><td>0.38</td></tr><tr><td></td><td>2016</td><td>1.33</td><td>33</td><td>0.004</td><td>0.74</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "斑块类型面积比和最大斑块指数不断增大，斑块数量和斑块密度整体呈减少趋势，表明耕地的优势度在增大，斑块连接成片，耕地景观的聚集程度不断增大，这可能与农业的集约化管理有关。草地的斑块数量远大于同期的其他景观类型，且最大斑块指数总体呈减少趋势，斑块密度整体呈增大趋势，说明研究时段内草地景观破碎化程度不断增大，主要是由于人类不合理的土地利用方式，同时绿洲过渡带的荒漠化，致使其破碎化程度增大。建设用地的斑块类型面积比、斑块数目和斑块密度总体呈增加趋势，表明绿洲受到城镇化进程加快的影响，建设用地面积不断增加且空间布局更加集中。水域和林地的斑块类型面积比较小，斑块数量总体呈增长趋势，景观破碎化程度增大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2景观尺度上的特征变化由表3可知，1976—2016年绿洲的形状指数( $( L S I )$ 总体呈下降趋势，从1976年的50.97下降到2016年的45.36，表明绿洲景观几何形状趋于简单化，斑块不规则程度逐渐下降。边缘密度(ED)值表现为先升后降再升的趋势,表明近40a来,绿洲景观总体破碎化程度增加，这与草地景观破碎化程度不断增大有关。绿洲景观分离度（DIVISION)1976—1989年由0.87上升到0.99，1989—2016年由0.99逐步下降到0.58，说明绿洲斑块个体的离散程度上升后又逐渐下降，绿洲总体趋向于集中;绿洲聚集度(AI)整体值远小于100，但总体呈上升的趋势，说明各时期绿洲斑块密集程度较低，聚集程度较差，但绿洲斑块密集程度是逐渐向增大趋势发展的，绿洲聚集度有所增加，这与耕地景观聚集程度不断增大密切相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8079ff869341b24efe262e6f373e7df9fb212b43de01c56c742c681507168dc1.jpg",
+        "table_caption": [
+            "表31976一2016年绿洲景观尺度上的景观指数变化",
+            "Tab.3Changes of the indexes of landscapes at landscape scale in the oasis during 1976-2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>边缘密度 (ED)</td><td>景观形状 指数(LSI)</td><td>景观分割度 (DIVISION)</td><td>绿洲聚 集度(AI)</td></tr><tr><td>1976</td><td>7.223 1</td><td>50.9651</td><td>0.872 1</td><td>45.076 9</td></tr><tr><td>1989</td><td>7.864 2</td><td>52.419 1</td><td>0.986 2</td><td>36.842 9</td></tr><tr><td>1998</td><td>8.725 2</td><td>51.668 1</td><td>0.975 5</td><td>42.438</td></tr><tr><td>2006</td><td>7.743 2</td><td>53.891 1</td><td>0.789</td><td>51.111 2</td></tr><tr><td>2016</td><td>8.488 4</td><td>45.362 3</td><td>0.580 3</td><td>60.972 6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）本研究借助5期不同传感器的Landsat影像，利用eCognition8.9软件提取玛纳斯河流域绿洲近40a的分布情况。由于不同传感器影像的分辨率和光谱信息不一致（如1976年的LandsatMSS的分辨率为 $6 0 \\mathrm { ~ m ~ }$ ,而LandsatTM/OLI的分辨率为30m），造成在不同影像分类过程中地物特征值和解译标志的选取各不相同。尽管可以通过对LandsatMSS影像重采样来满足 $3 0 \\mathrm { ~ m ~ }$ 分辨率的分类要求，但由于不同传感器影像的波段数量和组合不一致，导致不同影像的光谱信息仍存在一定的差异，对影像总体分类精度和下一步研究的准确性产生重大影响。因此，基于不同传感器影像带来的误差问题及如何进一步提高影像分类精度，仍将是未来研究需要突破的重要内容[28]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）绿洲内部的演化和外部的空间格局变迁，直接影响着绿洲景观格局的变化。近40a来，玛纳斯河流域中下游绿洲总体呈扩张趋势，其中主要表现为人工绿洲中耕地面积的增加，耕地面积从1976年绿洲面积的 $2 1 . 8 6 \\%$ 上升到2016年的 $6 9 . 7 1 \\%$ ，而草地面积从1976年绿洲面积的 $7 3 . 3 1 \\%$ 下降到2016年的 $2 5 . 5 4 \\%$ ,由于草地和荒漠大规模的转化为耕地，耕地斑块增加且连接成片，绿洲斑块密集程度逐渐向增大的趋势发展，绿洲景观整体的聚集度有所增加;但玛纳斯河流域绿洲由于人类近 $4 0 \\mathrm { ~ a ~ }$ 来的过度放牧和砍伐，耕地无序的扩张方式，使得草地面积在大规模减少的同时，致使其破碎化和空间分布的离散程度不断增大，绿洲景观内部的破碎化程度也随之增大。2006年以前，玛纳斯河流域绿洲扩张主要以内部填充式空间扩张为主，内部大量的荒地被转化为绿洲，绿洲的分布程度相对集中；2006—2016年，绿洲扩张主要以边缘式和填充式空间扩张为主，绿洲在内部填充的同时开始向外围扩张，主要表现在绿洲西北的下野地灌区和西南的安集海灌区，绿洲分布开始向四周扩散;绿洲东北的莫索湾灌区由于玛纳斯河下游水量的不断减少，灌区耕地面积逐渐萎缩，废弃耕地的沙漠化情况不断加重，灌区土地利用方式陷入了开荒一耕作一弃耕的恶性循环，故该区域应科学调控和规划土地利用结构，加大绿洲生态环境的整治力度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）水资源可开采的数量与分布状况是影响干旱区绿洲时空分布的重要制约因素[8]。玛纳斯河流域中下游绿洲的主要径流水源为高山区的冰雪融水与上游的降水，随着人口数量的不断增多和社会经济的持续发展,河流径流量早已不能满足农业灌溉的需求，地下水的开发和利用已成为重要的补给方式。但随着地下水和河流径流量的过度使用，下游地表水开始断流，下游湿地逐渐减少，造成玛纳斯河流域内严重的资源性缺水，绿洲外围的天然植被出现大面积的死亡，使得玛纳斯河流域天然绿洲的面积逐渐减少，绿洲生态系统遭受严重的破坏。总之，人类活动是绿洲演变和景观格局变化的主要影响因素，人类在不断追求经济效益的过程中，使得人工绿洲面积不断增大，天然绿洲面积不断减小，导致绿洲生态环境的不断退化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）近40a来，玛纳斯河流域中下游绿洲面积总体呈减少一持续增长一快速增长的趋势，除1976—1989年绿洲面积减小外，自1989 年以来绿洲规模一直处于扩张状态，其中，以2006—2016 年绿洲面积增长速度最快，其面积增长量和净变化速度高达 $3 \\ 2 6 6 \\ \\mathrm { k m } ^ { 2 }$ 和 $4 . 4 3 \\%$ ,绿洲变化趋势状态指数高达0.79，绿洲变化趋势表现出非平衡一极端不平衡的变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）1976—1989 年绿洲退缩主要受草地退缩的影响，1989一2016年耕地面积增加对绿洲扩张的贡献率开始大于草地，草地对绿洲退缩的贡献率逐渐降低，水域对绿洲退缩的贡献率逐渐增大，耕地的变化对绿洲变迁的贡献率远大于其他地类，绿洲开始处于持续扩张阶段。其中，2006一2016年水域面积减少成为绿洲退缩的主要影响因子，草地和耕地变化对绿洲变迁的贡献率分别为29. $12 \\%$ 和$6 9 . 7 4 \\%$ ，绿洲处于急剧扩张的状态;绿洲重心总体向西北方向迁移，各时期的绿洲重心迁移方向为东北—西南—西北—西南。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）1976—2016年绿洲景观几何形状趋于简单化，斑块不规则程度逐渐下降，绿洲内部破碎化程度增加，这与草地景观破碎化程度不断增大有关，绿洲斑块密集程度逐渐向增大的趋势发展，绿洲总体趋向于集中，绿洲聚集度有所增加，这与耕地景观聚集程度不断增大密切相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]凌红波,徐海量,刘新华,等.新疆克里雅河流域绿洲适宜规模[J].水科学进展，2012，23（4）：563-568.［LinHongbo，XuHailiang,Liu Xinhua,et al. Suitable scale of oasisin Keriya Riverbasin,Xinjiang[J].Advances in Water Science,2012,23(4）:563-568.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2]廖杰,王涛,薛娴.近55a来黑河流域绿洲演变特征的初步研 究[J].中国沙漠,2012,32（5）:1426-1441.[Liao Jie,Wang Tao,Xue Xian.Oasis evolution in the Heihe River basin during 1956-2010[J].Journal of Desert Research,2012,32（5):1 426 -1 441. ] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[3]Li W D,Li Z Z,Wang JQ.Evaluation of oasis ecosystem risk by reliability theory in an arid area:A case study in the Shiyang River basin,China[J].Journal of Environmental Sciences,2O07,19 (4):508-512. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4]王林林,刘普幸.近38 年来格尔木河中下游绿洲时空演变及其与人类活动的关系[J].土壤，2016，48（3）：597-605.[Wang Linlin,Liu Puxing.Spatial and temporal change of Oasis inmiddle and lower reaches of Golmud River and itsrelationship withhuman activities[J].Soils,2016,48(3）:597-605.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5]马亚兰，刘普幸.河西走廊金塔绿洲农业生态系统资源环境效应综合评价[J].中国沙漠，2011，31（3）：709-715.［MaYa-lan,Liu Puxing. Comprehensive evaluation of resource and environ-ment effects of agricultural ecosystem in the Jinta Oasis of Gansu,China[J].Journal of Desert Research,2011,31(3）:709-715.][6]张秀霞，頡耀文，卫娇娇,等.1986—2015 年干旱区敦煌绿洲景观的时空演变过程[J].干旱区研究，2017，34（3）：669-676.[Zhang Xiuxia,Xie Yaowen,Wei Jiaojiao,etal.Spatio-temporal e-volution of landscapes in the arid Dunhuang Oasis during the peri-od of1986-2015[J].Arid Zone Research,2017,34（3）:669 -676.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7]刘亚文,阿不都沙拉木·加拉力丁，阿拉努尔·艾尼娃尔，等.1989—2016年吐鲁番高昌区绿洲时空格局变化及其驱动因素[J].干旱区研究，2018,35（4）：945-953.[LiuYawen，Abdush-alam Jalaliding,Alanuer Aniwaer,et al. Spatio-temporal change ofthe Oasis in Gaochang,Turpan and its driving factors during theperiod of 1989-2016[J].Arid Zone Research,2018,35(4）:945-953.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8]巩杰,谢余初，高彦净，等.1963—2009 年金塔绿洲变化对绿洲 景观格局的影响[J].生态学报,2015,35（3）:603-612.[Gong Jie,Xie Xuchu,Gao Yanjing,et al. Spatio-temporal change and its effects on landscape pattern of Jinta Oasis in Arid China from 1963 to 2009[J].ActaEcologica Sinica,2015,35(3）:603-612.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]罗格平,周成虎,陈曦.从景观格局分析人为驱动的绿洲时空 变化——以天山北坡三工河流域绿洲为例[J].生态学报， 2005,25（9）:2197-2 205.[Luo Geping,Zhou Chenhu,Chen Xi.Human-induced spatio-temporal changes of oasis through landscape pattern analysis:A case study of oasis in the Sangong River [J].ActaEcologica Sinica,2005,25(9):2197-2 205.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10」谢霞，塔西甫拉提·特依拜.艾比湖流域绿洲化与荒漠化过程 时空演变研究[J].中国沙漠,2013,33（1）:38-45.[Xie Xia, Tashpolat Tiyip.Spatio-temporal change of oasis and Desert in the Ebinur Lake Basin in Xinjiang,China[J].Journal of Desert Research，2013,33（1）:38-45.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11]王莉红，张军民.玛纳斯河流域人工绿洲空间扩张模式[J].中 国科技论文,2018,13（9）:1072-1077.[Wang Lihong,Zhang Junming.Spatial expansion model of artificial oasis in Manasi river basin[J].China Science Paper,2018,13(9):1 072-1 077.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12]梁二敏，张军民，杨卫红.新疆玛纳斯河流域绿洲景观生态脆 弱性时空分异[J].干旱区研究，2017，34（4）：950-957.［LiangErming,Zhang Junming,Yang Weihong.Spatiotemporal vriation of lndscape eological ulnerability in Oasis in the Manas River Basin Xinjiang[J].Arid Zone Research,2017,34（4）:950- 957.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13]杨书雅，杨会巾，刘丽娟，等.玛纳斯河流域绿洲农田防护林景观格局评价〔J].生态学杂志，2017，36（6）：1690-1698.[Yang Shuya,Yang Huijing,Liu Lijuan,et al. Evaluating the land-scape pattern of the farmland windbreaks in the Manas River basinoasis[J].Chinese Journal of Ecology，2017,36（6）:1 690-1 698.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14]吕娜娜，罗格平，丁建丽，等.滴灌背景下玛纳斯流域绿洲内外 荒地土壤盐分时空变化趋势分析[J].自然资源学报，2017，32 (9）:1542-1553.[Lu Nana,Luo Geping,Ding Jianli,et al. Spatio-temporal variation of soil salinity in Wastelands inside and outside of Oasis in Manas River watershed in the context of dripping irrigation[J].JournalofNaturalResources,2017,32(9）:1542- 1 553.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15]禹朴家，徐海量，刘世薇，等.玛纳斯河流域绿洲区域经济差异分解研究[J].冰川冻土，2011，33（5)：1176-1182.［YuPu-jia,Xu Hailiang,Liu Shiwei,et al.Decomposition of regional eco-nomic disparity in Manasi River Basin[J].Journal of Glaciologyand Geocryology,2011,33(5）:1176-1182.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16]李菊荣,王延华,唐湘玲,等.新疆玛纳斯河流域土地利用变化特征及影响因素研究[J].土壤通报，2018，49（1）：61-68.［LiJurong,Wang Yanhua,Tang Xiangling,et al.The spatial-temporalcharacteristics of land use change in the Manas River basin and in-fluencing factors[J].Chinese Journal of Soil Science,2O18,49(1):61-68.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17]柳梅英，包安明，陈曦，等.近30年玛纳斯河流域土地利用/覆 被变化对植被碳储量的影响[J].自然资源学报,2010,25（6）： 926-938.[Liu Meiying,Bao Anming,Chen Xi,et al.Impact of land use/cover change on the vegetation carbon storage in the ManasRiverbasinbetween1976 and 2OO7[J].Journal ofNatural Resources,2010,25(6):926-938.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]刘金巍，靳甜甜，刘国华，等.新疆玛纳斯河流域2000—2010年土地利用/覆盖变化及影响因素[J].生态学报，2014，34(12）:3211-3223.[LiuJinwei,Jin Tiantian，Liu Guohua,et al.Analysis of land use/cover change from 2OOO to 2O1O and its driv-ingforcesin ManasRiverbasin,Xinjiang[J].Acta Ecologica Sini-ca,2014,34(12):3 211-3 223.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19]陈伏龙，王怡璇,吴泽斌,等.气候变化和人类活动对干旱区内 陆河径流量的影响一—以新疆玛纳斯河流域肯斯瓦特水文站 为例[J].干旱区研究,2015,32（4）:692-697.[Chen Fulong, Wang Yixuan,Wu Zebin,etal.Impacts of climate change and human activitieson runoff of continental river inarid areas; Taking Kensiwate Hydrological Station in Xinjiang Manas River basin as an example[J].Arid ZoneResearch,2015,32(4):692-697.]   \n[20]GB/T21010-2007.中国国家标准化管理委员会—土地利用现 状分类[S].北京：中国标准出版社,2007.［GB/T21010- 2007.Standardization Administration of the People's Republic of China: Current Land Use Condition Classification[S].Beijing: China Standards Publishing House,2007.]   \n[21]Zhou D C,Luo G P,Lei L U.Processes and trends of the land use change in Aksu watershed in the Central Asia from 196O to 2008 [J].Journal of Arid Land,2010,2(3）:157 -166.   \n[22］林兴周.临泽绿洲时空变化过程及其驱动机制研究[D].兰 州：兰州大学,2013.[Lin Xinzhou.Research on Spatio-temporal Changes Processes and Driving Forces Mechanism in Linze Oasis [D].Lanzhou;Lan Zhou University,2013.]   \n[23]谢余初.近60年金塔绿洲时空变化及其驱动力研究[D].兰 州：兰州大学,2012.[Xie Yuchu.Spatio-temporal Change of Jinta Oasis and its Driving Forces in the Latest 60Years（1949 -2009) [D].Lanzhou:Lan Zhou University,2012.]   \n[24]王宏卫,塔西甫拉提·特依拜.干旱区盐渍地遥感动态监测及 其驱动力研究——以渭干河－库车河三角洲绿洲为例[J].干 旱区地理,2009,32（3）:445-453.[Wang Hongwei,Tashpolat Tiyip.Remote sensing dynamic monitor and driving force of soil salinization in arid area:A case of delta oasis of Weigan and Kuqa River[J]. Arid Land Geography,2009,32(3）:445-453.]   \n[25]肖生春,肖洪浪.黑河流域绿洲环境演变因素研究[J].中国沙 漠,2003,23（4）:385-390.[Xiao Shengchun,Xiao Honglang. Influencing factors of Oasis evolution in Heihe River basin[J]. Journal of Desert Research,2003,23（4）:385 -390.]   \n[26」艾克拜尔·买提尼牙孜，阿里木江·卡斯木.新疆维吾尔自治 区皮山县绿洲景观格局变化及驱动力分析[J].干旱区资源与 环境,2017,31（7）:55-62.[Aikebaier Maitiniyazi,Alimujiang Kasimu.Landscape pattern changes and its driving factors in Pishan Oasis,Xinjiang Uyghur Autonomous Region[J]. Journal of Arid Land Resources and Environment,2017,31（7）:55 -62.]   \n[27]邬建国.景观生态学:格局、过程、尺度和等级[M].第2版.北 京：高等教育出版社,2007:46-106.[Wu Jianguo.Landscape Ecology:Patern,Process,Scale and Grade[M].2nd.Beijing: Higher Education Press,2007:46 -106.]   \n[28]Lechner A M,Langford W T,Bekessy S A,et al. Are landscape ecologists addressing uncertainty in their remote sensing data?〔J]. Landscape Ecology,2012,27(9):1249-1 261. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal Evolution of the Oasis and Change of Landscape Pattern in the Manas River Basin ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HUANG Li， XU Li-ping (CollegeofScience,ShiheziUniversity,Shihezi832OOO,Xinjiang,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Based on the Landsat MSS/TM/OLI remote sensing images in 1976,1989,1998,2006 and 2016,the information ofoasis distribution inthe Manas River Basin inrecent 4O years was extracted,andthe methods of mathematical statistics model and landscape index were used to analyze the spatiotemporal evolution of the oasis and the change of landscape paterns inthe study area.The results showed that,in recent 4O years,the oasis in the middle and lower reaches of the Manas River Basin was in a trend of reduction-expansion-sharp expansion,exceptthe oasis was retreated from 1976 to 1989,the oasis wasexpanded after1989,especially during the period from 2006 to 2016,area of the oasis was expanded by $3 \\ 2 6 6 \\ \\mathrm { k m } ^ { 2 }$ ,and the net change rate was as high as $4 . 4 3 \\%$ . The change trend of theoasis was imbalancedandeven extremely imbalanced.From 1989 to 2OO6,thecontribution of grassland to the oasis reduction wasthe highest.After 2OO6,thereduction of waters was the main contributor to theoasis retreat.After 1989,the contribution ofcultivated land to theoasis expansion was the most significant.The main partof theoasis was holisticalyshfted northwestward,and itwasshifted northeastward,southwestward,northwestwardand southwestward during diferent periods.The geometric shapes ofthelandscapes in theoasis were trended to simplification,and the fragmentation of the landscapes inthe oasis became more serious,which was related tothe increasing fragmentation of the grassland landscape.The oasis was trended to centralization,which was closely related to the continuous centralization of cultivated land. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:oasis；spatiotemporal evolution；landscape patern；area change；contribution rate；Manas River Basin ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "欢迎订阅2020年《干旱区研究》",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "《干旱区研究》是由中国科学院新疆生态与地理研究所和中国土壤学会共同主办的，以干旱区水、土、生物、气候四种可再生资源的研究为主要内容的综合性学术期刊，其内容包括干旱区生态及其生态系统与环境；干旱区自然资源的动态变化及相互作用；干旱区与大气圈、水圈、生物圈、岩石圈和人类活动之间的相互作用;干旱区生态与建设;全球变化与干旱区；干旱区减灾、防灾;先进技术在干旱区开发与研究中的应用。依靠广大的科学工作者，开展广泛而深入的基础理论研究，为我国培养和造就大批的干旱区资源与环境的科技人才。本刊适合从事干旱区研究的专家、学者、科技人员及相关院校师生阅读参考。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "国内统一刊号:65-1095/X,本刊为国际大16开本，双月刊,250页，单月15日出版，每期55元。欢迎新老客户及时到当地邮局订阅，邮发代号:58-37。若有漏订者可直接汇款至编辑部补订。编辑部地址：乌鲁木齐市北京南路818 号",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "邮编：830011电话：0991-7827349E-mail: azr@ ms. xjb.ac.cnhttp ://azr. xjegi. com",
+        "page_idx": 8
+    }
+]

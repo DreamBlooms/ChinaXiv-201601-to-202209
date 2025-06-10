@@ -1,0 +1,932 @@
+[
+    {
+        "type": "text",
+        "text": "Supersymmetry and Vector-like Extra Generation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chun Liu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Laboratory of Frontiers in Theoretical Physics and Kavli Institute for Theoretical Physics China, Institute of Theoretical Physics， Chinese Academy of Sciences, P.O. Box 2735， Beijing 100190， China\\* (Dated: January 3, 2014) Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Within the framework of supersymmetry, the particle content is extended in a way that each Higgs doublet is in a full generation. Namely in addition to ordinary three generations, there is an extra vector-like generation，and it is the extra slepton SU $( 2 ) _ { L }$ doublets that are taken to be the two Higgs doublets. R-parity violating interactions contain ordinary Yukawa interactions. Breaking of supersymmetry and gauge symmetry are analyzed. Fermion and boson spectra are calculated. Phenomenological constraints and relevant new physics at Large Hadron Collider are discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 12.60.Jv,12.60.Fr, 14.80.-j ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The main stream spirit of the physics beyond the Standard Model (SM) is like the following. SM gauge interactions unify at a high scale ( $\\sim 1 0 ^ { 1 6 }$ GeV）[1]. Supersymmetry (SUSY) [2] is then a must to stabilize the SM Higgs mass. The minimal SUSY extension of SM (MSSM) which necessarily involves two Higgs doublets, reinforces the idea of the grand unification theory (GUT) because of LEP data [3]. Further assuming R-parity conservation, the dark matter (DM) is provided [4]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, things can be different. Before verification of SUSY GUT, other ideas should be pursued whenever they have reasonable points. In this Large Hadron Collider (LHC) era, discoverable ideas besides MSSM are of particular interests. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we still use weak scale SUSY to extend the SM. Our consideration is as follows. The SUSY SM needs two Higgs doublets in order to provide masses to both upand down-type quarks. Fermions in each doublet cause anomaly. In MSSM,anomalies of the two doublets would cancel each other. The two Higgs doublets would be vector-like matter in MSSM. They are very diferent from the three generation chiral matter in which the anomaly of each generation automatically vanishes. To treat the Higgs and the matter equal footing, we introduce additional fields associated with each Higgs doublet, making them one generation leptons and quarks alike, the anomaly due to each SU(2) Higgsino cancels those of the new introduced. In such an extension, for example, the down-type Higgs is in the same position as a lepton doublet in a full matter generation. Immediately we find that except for the lepton and baryon numbers,the down-type Higgs and its associated fields can be identified as another full matter generation, that is the fourth generation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fourth chiral generation may have been generally disfavored because of the $Z ^ { 0 }$ decays which shows three generation light neutrinos only. There were many discussons about the fourth generation [5, 6,7, 8]. Ref. [7] introduced the fourth generation and identified its slepton as the Higgs. The partial role of sleptons in electro-weak symmetry breaking (EWSB) was discussed previously [9]. Different from Ref. [7], we take the weak scale being a low energy one, therefore we still have two Higgs doublets. As we wil see,whence introducing SUSY, the fourth generation neutrino is automatically heavy because of the existence of the generation associated with the up-type Higgs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The extra generations in this model are vector-like. There are quite a few studies of vectorlike fermionic generations [5, 10, 11]. Vector-like fermions may have interesting physical implications [12, 13]. Within SUSY, Ref. [11] studied one mirror generation case. We introduce a vector-like generation pair which contains the two Higgs doublets required for EWSB. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Sect. II, the model is constructed. SUSY breaking, EWSB and particle spectra are presented. In Sect. III, phenomenological constraints are discussed. LHC phenomenology is given in Sect. IV. We summarize the model and further discuss its other aspects in the final section. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. MODEL ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we consider a SUSY SM with a vector-like generation. The particle contents are given bellow. In addition to the fourth generation superfields, $L _ { 4 }$ ， $E _ { 4 } ^ { c }$ ， $Q _ { 4 }$ ， $U _ { 4 } ^ { c }$ ， $D _ { 4 } ^ { c }$ , the uptype Higgs $H _ { u }$ and its associated matter $( E _ { H } ^ { c } , Q _ { H } , U _ { H } ^ { c } , D _ { H } ^ { c } )$ ， which compose an anomaly-free chiral generation， are introduced. Their quantum numbers under SU $( 2 ) _ { L } \\times$ U $( 1 ) _ { Y } \\times$ SU $( 3 ) _ { c }$ and the global baryon number are ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { c } { { L _ { m } ( 2 , - 1 , 1 , 0 ) , E _ { m } ^ { c } ( 1 , 2 , 1 , 0 ) , Q _ { m } ( 2 , \\frac { 1 } { 3 } , 3 , \\frac { 1 } { 3 } ) , U _ { m } ^ { c } ( 1 , - \\frac { 4 } { 3 } , \\bar { 3 } , - \\frac { 1 } { 3 } ) , D _ { m } ^ { c } ( 1 , \\frac { 2 } { 3 } , \\bar { 3 } , - \\frac { 1 } { 3 } ) } } \\\\ { { { } } } \\\\ { { H _ { u } ( 2 , 1 , 1 , 0 ) , E _ { H } ^ { c } ( 1 , - 2 , 1 , 0 ) , Q _ { H } ( 2 , - \\frac { 1 } { 3 } , \\bar { 3 } , - \\frac { 1 } { 3 } ) , U _ { H } ^ { c } ( 1 , \\frac { 4 } { 3 } , 3 , \\frac { 1 } { 3 } ) , D _ { H } ^ { c } ( 1 , - \\frac { 2 } { 3 } , 3 , \\frac { 1 } { 3 } ) } } \\end{array}$ ， ， where $m = 1 - 4$ . In fact, the up-type Higgs family is in the anti-particle representation compared to particles in the other four ordinary generations. It will be massive after combining with one of the ordinary families ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The superpotential is written as follows. Instead of the R-parity, baryon number conservation is assumed, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\mathrm { \\Lambda } = \\mu _ { m } L _ { m } H _ { u } + \\mu _ { m } ^ { e } E _ { m } ^ { c } E _ { H } ^ { c } + \\mu _ { m } ^ { Q } Q _ { m } Q _ { H } + \\mu _ { m } ^ { U } U _ { m } ^ { c } U _ { H } ^ { c } + \\mu _ { m } ^ { D } D _ { m } ^ { c } D _ { H } ^ { c } + \\lambda _ { l m n } L _ { l } L _ { m } E _ { n } ^ { c } } } \\\\ { { \\mathrm { \\Lambda } = \\mu _ { m } L _ { m } { \\cal D } _ { l } ^ { c } L _ { m } D _ { n } ^ { c } + y _ { m n } Q _ { m } H _ { u } U _ { n } ^ { c } + y _ { m } ^ { \\prime } Q _ { H } L _ { m } U _ { H } ^ { c } + \\tilde { y } _ { m } E _ { H } ^ { c } D _ { m } ^ { c } U _ { H } ^ { c } + \\tilde { y } _ { m n } E _ { m } ^ { c } D _ { H } ^ { c } U _ { n } ^ { c } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mu _ { m }$ 's are mass parameters, $\\lambda ^ { ( \\prime ) }$ ， $y ^ { ( \\prime ) }$ and $\\tilde { \\boldsymbol y } ^ { ( \\prime ) }$ 's coefficients. Note, $l , m , n = 1 - 4$ By redefining the down-type Higgs and the other fourth generation fields, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { d } \\equiv \\frac { \\mu _ { m } } { \\mu } L _ { m } , E _ { 4 } ^ { c } \\equiv \\frac { \\mu _ { m } ^ { e } } { \\mu ^ { e } } E _ { m } ^ { c } , Q _ { 4 } \\equiv \\frac { \\mu _ { m } ^ { Q } } { \\mu ^ { Q } } Q _ { m } , U _ { 4 } ^ { c } \\equiv \\frac { \\mu _ { m } ^ { U } } { \\mu ^ { U } } U _ { m } ^ { c } , D _ { 4 } ^ { c } \\equiv \\frac { \\mu _ { m } ^ { D } } { \\mu ^ { D } } D _ { m } ^ { c } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sqrt { \\sum _ { m = 1 } ^ { 4 } | \\mu _ { m } | ^ { 2 } } , \\mu ^ { e } \\equiv \\sqrt { \\sum _ { m = 1 } ^ { 4 } | \\mu _ { m } ^ { e } | ^ { 2 } } , \\mu ^ { Q } \\equiv \\sqrt { \\sum _ { m = 1 } ^ { 4 } | \\mu _ { m } ^ { Q } | ^ { 2 } } , \\mu ^ { U } \\equiv \\sqrt { \\sum _ { m = 1 } ^ { 4 } | \\mu _ { m } ^ { U } | ^ { 2 } } , \\mu ^ { D } \\equiv \\sqrt { \\sum _ { m = 1 } ^ { 4 } | \\mu _ { m } ^ { U } | ^ { 2 } } , \\mathrm { }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "the superpotential is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { = } & { \\mu H _ { d } H _ { u } + \\mu ^ { e } E _ { 4 } ^ { c } E _ { 4 } ^ { c } + \\mu ^ { Q } Q _ { 4 } Q _ { H } + \\mu ^ { U } U _ { 4 } ^ { c } U _ { H } ^ { c } + \\mu ^ { D } D _ { 4 } ^ { c } D _ { H } ^ { c } + y _ { i j } ^ { I } L _ { i } H _ { d } E _ { j } ^ { c } + y _ { i j } ^ { d } Q _ { i } H _ { d } } \\\\ & { + y _ { i j } ^ { u } Q _ { i } H _ { u } U _ { j } ^ { c } + \\lambda _ { i j k } L _ { i } L _ { j } E _ { k } ^ { c } + \\lambda _ { i j k } ^ { \\prime } Q _ { i } L _ { j } D _ { k } ^ { c } + \\lambda _ { i j } ^ { E } L _ { i } L _ { j } E _ { 4 } ^ { c } + y _ { i } ^ { E } L _ { i } H _ { d } E _ { 4 } ^ { c } + \\lambda _ { i j } ^ { Q } Q _ { 4 } L _ { i } } \\\\ & { + y _ { i } ^ { Q \\prime } Q _ { 4 } H _ { d } D _ { i } ^ { c } + \\lambda _ { i j } ^ { D } Q _ { i } L _ { j } D _ { 4 } ^ { c } + y _ { i } ^ { D } Q _ { i } H _ { d } D _ { 4 } ^ { c } + \\lambda _ { i } ^ { Q } Q _ { 4 } L _ { i } D _ { 4 } ^ { c } + y ^ { Q D } Q _ { 4 } H _ { d } D _ { 4 } ^ { c } + y _ { i } ^ { U } U _ { d } ^ { c } } \\\\ & { + y _ { i } ^ { Q } Q _ { 4 } H _ { u } U _ { i } ^ { c } + y ^ { Q U } Q _ { 4 } H _ { u } U _ { 4 } ^ { c } + \\lambda _ { i } ^ { \\prime } Q _ { H } L _ { i } U _ { H } ^ { c } + y Q _ { H } H _ { d } U _ { H } ^ { c } + \\tilde { \\lambda } _ { i } E _ { H } ^ { c } D _ { i } ^ { c } U _ { H } ^ { c } + \\tilde { \\lambda } E _ { H } ^ { c } } \\\\ & { + \\tilde { \\lambda } _ { i j } E _ { i } ^ { c } D _ { t } ^ { c } U _ { j } ^ { c } + \\tilde { \\lambda } _ { i } ^ { U } E _ { i } ^ { c } D _ { H } ^ { c } U _ { 4 } ^ { c } + \\tilde { \\lambda } _ { i } ^ { E } E _ { 4 } ^ { c } D _ { H } ^ { c } U _ { i } ^ { c } + \\tilde { \\lambda } ^ { E U } E _ { 4 } ^ { c } D _ { H } ^ { c } U _ { 4 } ^ { c } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where field decomposition have been generally written as follows with $i$ being $1 - 3$ ， ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c } { { L _ { m } = c _ { m i } L _ { i } + c _ { m 4 } H _ { d } , } } & { { E _ { m } ^ { c } = c _ { m i } ^ { e } E _ { i } ^ { c } + c _ { m 4 } ^ { e } E _ { 4 } ^ { c } , } } \\\\ { { } } & { { } } \\\\ { { U _ { m } ^ { c } = c _ { m i } ^ { U } U _ { i } ^ { c } + c _ { m 4 } ^ { U } U _ { 4 } ^ { c } , } } & { { D _ { m } ^ { c } = c _ { m i } ^ { D } D _ { i } ^ { c } + c _ { m 4 } ^ { D } D _ { 4 } ^ { c } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and the coefficients are ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { = 2 \\lambda _ { l m n } c _ { l i } c _ { m 4 } c _ { n j } ^ { e } , \\ y _ { i j } ^ { d } = \\lambda _ { l m n } ^ { \\prime } c _ { l i } ^ { Q } c _ { m 4 } c _ { n j } ^ { D } , \\ y _ { i j } ^ { u } = y _ { m n } c _ { m i } ^ { Q } c _ { n j } ^ { U } , \\ \\lambda _ { i j k } = \\lambda _ { l m n } c _ { l i } c _ { m j } c _ { n k } ^ { e } } \\\\ & { = \\lambda _ { l m n } ^ { \\prime } c _ { l i } ^ { Q } c _ { m j } c _ { n k } ^ { D } , \\ \\lambda _ { i j } ^ { E } = \\lambda _ { l m n } c _ { l i } c _ { m j } c _ { n 4 } ^ { e } , \\ y _ { i } ^ { E } = 2 \\lambda _ { l m n } c _ { l i } c _ { m 4 } c _ { n 4 } ^ { e } , \\ \\lambda _ { i j } ^ { Q } = \\lambda _ { l m n } ^ { \\prime } c _ { l 4 } ^ { Q } c _ { m i } c _ { l } ^ { T } } \\\\ & { = \\lambda _ { l m n } ^ { \\prime } c _ { l i } ^ { Q } c _ { m 4 } c _ { n i } ^ { D } , \\ \\lambda _ { i j } ^ { D } = \\lambda _ { l m n } ^ { \\prime } c _ { l i } ^ { Q } c _ { m j } c _ { n 4 } ^ { D } , \\ y _ { i } ^ { D } = \\lambda _ { l m n } ^ { \\prime } c _ { l i } ^ { Q } c _ { m 4 } c _ { n 4 } ^ { D } , \\ \\lambda _ { i } ^ { Q D } = \\lambda _ { l m n } ^ { \\prime } c _ { l 4 } ^ { Q } c _ { m i } c _ { n } ^ { D } } \\\\ & { Q D = \\lambda _ { l m n } ^ { \\prime } c _ { l i } ^ { Q } c _ { m 4 } c _ { n 4 } ^ { D } , \\ y _ { i } ^ { U } = y _ { m n } c _ { m i } ^ { Q } c _ { n 4 } ^ { U } , \\ y _ { i } ^ { Q } = y _ { m n } c _ { m i } ^ { Q } c _ { n i } ^ { U } , \\ y ^ { Q U } = y _ { m n } c _ { m 4 } ^ { Q } c _ { n 4 } ^ { U } , } \\\\ & { \\lambda _ { i } ^ { \\prime } = y _ { m } ^ { \\prime } c _ { m i } ^ { U } , \\ y = y _ { m } ^ { \\prime } c _ { m 4 } , \\ \\tilde { \\lambda } _ { i } = \\tilde { y } _ { m } c _ { m 4 } ^ { D } , \\ \\tilde { \\lambda } = \\tilde { y } _ { m } c _ { m 4 } ^ { D } . } \\\\ &  \\tilde { \\lambda } _ { i j } = \\tilde { y } _ { m n } c _ { m i } ^ { e } c _ { n j } ^ { U } , \\ \\tilde { \\lambda } _ { i } ^ { U } = \\tilde { y } _ { m n } c _ { m i } ^ { e } c _ { n i } ^ { U } , \\ \\tilde  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From the superpotential (4)，we see that because of Dirac mass terms of up-type Higgs and the four generations, one of the four generation, namely the fourth generation ( $H _ { d }$ ， $E _ { 4 } ^ { c }$ $Q _ { 4 } , U _ { 4 } ^ { c } , D _ { 4 } ^ { c } )$ , is always heavy which is identified as the one containing the down-type Higgs. The fourth generation neutrino together with the \"neutrino” in $H _ { u }$ consists of Higgsinos. After the mass terms, the next five terms in Eq. (4) are ordinary Yukawa interactions and trilinear lepton number (R-parity） violating terms, where $i , \\ j , \\ k$ stand for three light generations. The other terms in (4) are new which involve extra generations. Many of these new terms violate lepton numbers. Note that by taking $\\mu ^ { e , Q , U , D } \\gg \\mu \\sim \\mathcal { O } ( \\mathrm { T e V } )$ ， we obtain MSSM as a low energy effective theory. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. SUSY breaking ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Soft SUSY breaking mass terms should be included into the Lagrangian. In addition to gaugino masses, they include mass-squared terms of scalars and $B \\mu$ -type terms corresponding to those $\\mu$ -terms in superpotential (1), ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { M ^ { 2 } \\tilde { L } _ { m } ^ { \\dagger } \\tilde { L } _ { m } + M _ { h } ^ { 2 } h _ { u } ^ { \\dagger } h _ { u } + M _ { E } ^ { 2 } \\tilde { L } _ { m } ^ { c \\dagger } \\tilde { E } _ { m } ^ { c } + M _ { Q } ^ { 2 } \\tilde { Q } _ { m } ^ { \\dagger } \\tilde { Q } _ { m } + M _ { U } ^ { 2 } \\tilde { U } _ { m } ^ { c \\dagger } \\tilde { U } _ { m } ^ { c } + M _ { D } ^ { 2 } \\tilde { D } _ { m } ^ { c \\dagger } \\tilde { D } _ { m } ^ { c } } \\\\ { + M _ { E H } ^ { 2 } \\tilde { E } _ { H } ^ { c * } \\tilde { E } _ { H } ^ { c } + M _ { Q H } ^ { 2 } \\tilde { Q } _ { H } ^ { \\dagger } \\tilde { Q } _ { H } + M _ { U H } ^ { 2 } \\tilde { U } _ { H } ^ { c * } \\tilde { U } _ { H } ^ { c } + M _ { D H } ^ { 2 } \\tilde { D } _ { H } ^ { c * } \\tilde { D } _ { H } ^ { c } } \\\\ { + ( B \\mu _ { m } \\tilde { L } _ { m } h _ { u } + B ^ { e } \\mu _ { m } ^ { e } \\tilde { E } _ { m } ^ { c } \\tilde { E } _ { H } ^ { c } + B ^ { Q } \\mu _ { m } ^ { Q } \\tilde { Q } _ { m } \\tilde { Q } _ { H } + B ^ { U } \\mu _ { m } ^ { U } \\tilde { U } _ { m } ^ { c } \\tilde { U } _ { H } ^ { c } + B ^ { D } \\mu _ { m } ^ { D } \\tilde { D } _ { m } ^ { c } \\tilde { D } _ { H } ^ { c } + B ^ { Q } \\mu _ { m } ^ { D } \\tilde { D } _ { m } ^ { c } \\tilde { D } _ { H } ^ { c } + B ^ { Q } \\mu _ { m } ^ { D } \\tilde { D } _ { m } ^ { c \\dagger } \\tilde { D } _ { m } ^ { c } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where tildes stand for scalars. We have assumed universality of the mass-squared terms and the alignment of the $B$ terms, namely the mass parameters $B ^ { e , Q , U , D }$ do not depend on the sub-script $m$ . In terms of three light generations of Eq. (4)，universality of these soft mass terms is easily seen, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { ^ { - 2 } \\tilde { L } _ { i } ^ { \\dagger } \\tilde { L } _ { i } + M ^ { 2 } h _ { d } ^ { \\dagger } h _ { d } + M _ { h } ^ { 2 } h _ { u } ^ { \\dagger } h _ { u } + M _ { E } ^ { 2 } \\tilde { E } _ { m } ^ { c \\dagger } \\tilde { E } _ { m } ^ { c } + M _ { Q } ^ { 2 } \\tilde { Q } _ { m } ^ { \\dagger } \\tilde { Q } _ { m } + M _ { U } ^ { 2 } \\tilde { U } _ { m } ^ { c \\dagger } \\tilde { U } _ { m } ^ { c } + M _ { D } ^ { 2 } \\tilde { D } _ { m } ^ { c \\dagger } \\tilde { D } _ { m } ^ { c } } \\\\ & { M _ { E H } ^ { 2 } \\tilde { E } _ { H } ^ { c * } \\tilde { E } _ { H } ^ { c } + M _ { Q H } ^ { 2 } \\tilde { Q } _ { H } ^ { \\dagger } \\tilde { Q } _ { H } + M _ { U H } ^ { 2 } \\tilde { U } _ { H } ^ { c * } \\tilde { U } _ { H } ^ { c } + M _ { D H } ^ { 2 } \\tilde { D } _ { H } ^ { c * } \\tilde { D } _ { H } ^ { c } } \\\\ & { ( B \\mu h _ { d } h _ { u } + B ^ { e } \\mu ^ { c } \\tilde { E } _ { 4 } ^ { c } \\tilde { E } _ { H } ^ { c } + B ^ { Q } \\mu ^ { Q } \\tilde { Q } _ { 4 } \\tilde { Q } _ { H } + B ^ { U } \\mu ^ { c } \\tilde { U } _ { 4 } ^ { c } \\tilde { U } _ { H } ^ { c } + B ^ { D } \\mu ^ { D } \\tilde { D } _ { 4 } ^ { c } \\tilde { D } _ { H } ^ { c } + h . c . ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Numerically soft masses $M$ 's, $B$ 's and gaugino masses are assumed to be $\\mathcal O ( 1 0 0 )$ GeV. Soft trilinear terms corresponding to Eq. (1） are ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal { L } \\supset \\bar { \\lambda } _ { l m n } \\tilde { L } _ { l } \\tilde { L } _ { m } \\tilde { E } _ { n } ^ { c } + \\bar { \\lambda } _ { l m n } ^ { \\prime } \\tilde { Q } _ { l } \\tilde { L } _ { m } \\tilde { D } _ { n } ^ { c } + \\bar { y } _ { m n } \\tilde { Q } _ { m } h _ { u } \\tilde { U } _ { n } ^ { c } } \\\\ & { \\qquad + \\bar { y } _ { m } ^ { \\prime } \\tilde { Q } _ { H } \\tilde { L } _ { m } \\tilde { U } _ { H } ^ { c } + \\bar { \\tilde { y } } _ { m } \\tilde { E } _ { H } ^ { c } \\tilde { D } _ { m } ^ { c } \\tilde { U } _ { H } ^ { c } + \\bar { \\tilde { y } } _ { m n } \\tilde { E } _ { m } ^ { c } \\tilde { D } _ { H } ^ { c } \\tilde { U } _ { n } ^ { c } + h . c . , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the following coupling alignment will be assumed, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { \\lambda } _ { l m n } ^ { ( \\prime ) } = \\lambda _ { l m n } ^ { ( \\prime ) } m _ { 0 } , \\bar { y } _ { m n } = y _ { m n } m _ { 0 } , \\bar { y } _ { m } ^ { \\prime } = y _ { m } ^ { \\prime } m _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with $m _ { 0 }$ being the order of soft masses $\\sim \\mathcal { O } ( 1 0 0 )$ GeV. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B. EWSB ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Let us look at gauge symmetry breaking. From the Lagrangian, the scalar potential can be written down straightforwardly. To get EWSB, one needs a negative determinant of the Higgs mass-squared matrix, namely ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( M ^ { 2 } + \\mu ^ { 2 } \\right) \\left( M _ { h } ^ { 2 } + \\mu ^ { 2 } \\right) < | B \\mu | ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with the ordinary condition $M ^ { 2 } + M _ { h } ^ { 2 } + 2 \\mu ^ { 2 } + 2 B \\mu > 0$ . This requirement can be realized when the renormalization group is considered. $M _ { h } ^ { 2 }$ will become negative at the weak scale, due to the large top quark Yukawa coupling. Therefore, everything of EWSB here will be the same as that in MSSM. The MSSM analysis of EWSB applies here. EWSB in this model occurs at the weak scale. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In addition to $B \\mu$ ，other $B \\mu$ -terms in Eqs. (7） and (8） might complicate the gauge symmetry breaking analysis. The experience from MSSM shows that if a $B \\mu$ -term is large enough, gauge symmetry breaking always occurs. The new $B ^ { Q , U , D } \\mu ^ { Q , U , D }$ -terms could result in color symmetry breaking and the $B ^ { e } \\mu ^ { e }$ -term could cause purely $\\mathrm { U } ( 1 ) _ { Y }$ symmetry breaking. Such unwanted gauge symmetry breaking should be avoided. To be concrete, besides Eq. (11),correct EWSB also requires ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( M _ { X } ^ { 2 } + \\mu ^ { X 2 } \\right) \\left( M _ { X H } ^ { 2 } + \\mu ^ { X 2 } \\right) > | B ^ { X } \\mu ^ { X } | ^ { 2 } \\quad \\mathrm { f o r } \\quad X = e , Q , U , D .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Then the remaining analysis of EWSB is identical to that of MSSM with same Higgs and Higgsino spectra. Eq. (12) can be satisfied easily. Careful thinking of EWSB conditions Eqs. (11) and (12)，we see that if $\\mu < \\mu ^ { X }$ ， EWSB occurs naturally. This point will be discussed later. The fact that pure $\\mathrm { U } ( 1 ) _ { Y }$ breaking does not occur can be simply due to a large enough $\\mu ^ { e }$ compared to $\\mu$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the scalar potential, quartic terms are determined by SUSY gauge interactions. From the point of view of quartic terms,the larger the coefficients of certain quartic terms, the more diffcult the gauge symmetry breaking is. Therefore EWSB is easier to be obtained compared to that of the color symmetry. Traditional SU $( 2 ) _ { L } \\times$ U $( 1 ) _ { Y }$ breaking via Higgs doublet fields contains the quartic term ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV \\supset { \\frac { g ^ { 2 } + g ^ { \\prime 2 } } { 8 } } \\left( h _ { u } ^ { \\dagger } h _ { u } - h _ { d } ^ { \\dagger } h _ { d } \\right) ^ { 2 } + \\ldots .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Whereas for purely $\\mathrm { U } ( 1 ) _ { Y }$ symmetry breaking, the relevant quartic term is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV \\supset { \\frac { g ^ { \\prime 2 } } { 2 } } \\left( \\tilde { E } _ { H } ^ { c * } \\tilde { E } _ { H } ^ { c } - \\tilde { E } _ { 4 } ^ { c * } \\tilde { E } _ { 4 } ^ { c } \\right) ^ { 2 } + . . . . . . . .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because $g ^ { \\prime 2 } / 2$ is comparable to $( g ^ { 2 } + g ^ { \\prime 2 } ) / 8$ numerically at the weak scale, pure $\\mathrm { U } ( 1 ) _ { Y }$ symmetry breaking is not really favored. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C. Fermion spectra ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We write down relevant matter superfields in $\\mathrm { S U } ( 2 ) _ { L }$ components explicitly, $L _ { i } \\ =$ $\\left( \\begin{array} { c } { { L _ { i } ^ { 0 } } } \\\\ { { L _ { i } ^ { - } } } \\end{array} \\right)$ $Q _ { m } = \\left( { \\cal Q } _ { m } ^ { t } \\right)$ and $Q _ { H } = \\left( { { Q } \\atop { { Q } _ { H } ^ { b } } } \\right)$ Because fourth generation doublet lep tons have been taken as Higgsinos, and EWSB is the same as that in MSSM, gauginos and Higgsinos are identical to those in MSSM. In the following we first look at the lepton spectrum. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As we have seen, the first three generation sneutrinos do not obtain vacuum expectation values (VEVs). SU $( 2 ) _ { L }$ doublet leptons, therefore,do not mix with the down-type Higgsino and chargino. Lepton masses are due to ordinary Yukawa couplings and Yukawa couplings between SU $( 2 ) _ { L }$ doublet leptons with the fourth generation singlet lepton,as well as the $\\mu ^ { e }$ term, ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset - \\left( e _ { i } ^ { - } , e _ { H } ^ { c } \\right) \\mathcal { M } ^ { l } \\left( { e } _ { j } ^ { c } \\atop e _ { 4 } ^ { c } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where small letters denote fermionic components, the $4 \\times 4$ charged lepton mass matrix is given as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } ^ { l } = \\left( { { m } _ { i j } ^ { l } { m } _ { i 4 } ^ { l } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { i j } ^ { l } \\equiv y _ { i j } ^ { l } \\frac { v } { \\sqrt { 2 } } \\cos \\beta$ ， $m _ { i 4 } ^ { l } \\equiv y _ { i } ^ { E } \\frac { v } { \\sqrt { 2 } } \\cos \\beta$ . Consider typically the 3rd and 4th generation case,namelthatofi,jeing,tkingμemml ， lepton masses are obtained, ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { m _ { \\tau } \\simeq \\sqrt { | m _ { 3 3 } ^ { l } | ^ { 2 } - | m _ { 3 3 } ^ { l } | | m _ { 3 4 } ^ { l } | } , } } \\\\ { { { } } } \\\\ { { M _ { l } \\simeq | \\mu ^ { e } | . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The unitary matrix diagonalizing $\\mathcal { M } ^ { l } \\mathcal { M } ^ { l \\dagger }$ is then ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c c } { { 1 } } & { { - \\left( 1 + \\displaystyle \\frac { | m _ { 3 3 } ^ { l } | } { | m _ { 3 4 } ^ { l } | } \\right) \\displaystyle \\frac { m _ { 3 4 } ^ { l * } } { \\mu ^ { e * } } } } \\\\ { { \\displaystyle \\frac { m _ { 3 4 } ^ { l } } { \\mu ^ { e } } } } & { { 1 } } \\end{array} \\right) + \\mathcal { O } \\left( \\displaystyle \\frac { m _ { \\tau } } { \\mu ^ { e } } \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This implies that there is an $\\mathcal { O } \\left( \\frac { m _ { \\tau } } { \\mu ^ { e } } \\right) ^ { 2 }$ unitarity deviation among the three generation leptons. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the down-type quark spectrum, introduction of additional two generations makes the full down quark mass matrix $\\mathcal { M } ^ { d }$ being $5 \\times 5$ one, ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset - \\left( q _ { i } ^ { b } , q _ { 4 } ^ { b } , d _ { H } ^ { c } \\right) { \\mathcal { M } } ^ { d } \\left( \\begin{array} { c } { { d _ { j } ^ { c } } } \\\\ { { d _ { 4 } ^ { c } } } \\\\ { { q _ { H } ^ { t } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } ^ { d } = \\left( \\begin{array} { c c c } { { m _ { i j } ^ { d } } } & { { m _ { i 4 } ^ { d } } } & { { 0 } } \\\\ { { m _ { 4 j } ^ { d } } } & { { m _ { 4 4 } ^ { d } } } & { { - \\mu ^ { Q } } } \\\\ { { 0 } } & { { - \\mu ^ { D } } } & { { 0 } } \\end{array} \\right) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { i j } ^ { d } \\equiv y _ { i j } ^ { d } \\frac { v } { \\sqrt { 2 } } \\cos \\beta$ Cosβ,m =y $m _ { i 4 } ^ { d } \\equiv y _ { i } ^ { D } \\frac { v } { \\sqrt { 2 } } \\cos \\beta$ ， $m _ { 4 i } ^ { d } \\equiv y _ { i } ^ { Q \\prime } \\frac { v } { \\sqrt { 2 } } \\cos \\beta$ Cosβ,m4 = yQDU $m _ { 4 4 } ^ { d } \\equiv y ^ { Q D } \\frac { v } { \\sqrt { 2 } } \\cos \\beta$ . The （20 $3 \\times 3$ sub-matrix $m _ { i j } ^ { d }$ is the ordinary down quark mass matrix which is now not necessarily unitary. Focusing on its unitarity deviation due to extra generations, we consider the submass-matrix of the 3rd generation and extra generations, that is $\\mathcal { M } ^ { d }$ with $i$ and $j$ being 3. It is natural to take $| \\mu ^ { Q } | \\sim | \\mu ^ { D } | \\gg | m _ { 4 j } ^ { d } |$ ， $| m _ { 4 4 } ^ { d } |$ ， $| m _ { i j } ^ { d } |$ ， $| m _ { i 4 } ^ { d } |$ . To the first order of $m _ { m n } ^ { d } / \\mu ^ { D }$ （204 with $m$ and $n$ being З and 4, the absolute mass eigenvalues are then $| \\mu ^ { Q } |$ ， $| \\mu ^ { D } |$ and $\\vert m _ { 3 3 } ^ { d } \\vert$ respectively. The mass matrix is diagonalized by unitary matrices $U ^ { d }$ and $V ^ { d }$ ， ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ^ { d \\dagger } { \\mathcal { M } } ^ { d } V ^ { d } = { \\left( \\begin{array} { l l l } { m _ { b } } & { 0 } & { 0 } \\\\ { 0 } & { \\mu ^ { Q } } & { 0 } \\\\ { 0 } & { 0 } & { \\mu ^ { D } } \\end{array} \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ^ { d } = \\left( \\begin{array} { c c c } { { 1 } } & { { 0 } } & { { - \\frac { m _ { 3 4 } ^ { d } } { \\mu ^ { D } } } } \\\\ { { } } & { { } } & { { } } \\\\ { { 0 } } & { { 1 } } & { { - \\frac { | m _ { 3 4 } ^ { d } | ^ { 2 } } { \\mu ^ { D } m _ { 4 4 } ^ { d * } } } } \\\\ { { - \\frac { m _ { 3 4 } ^ { d * } } { \\mu ^ { D * } } \\frac { \\mu ^ { D } m _ { 4 4 } ^ { d * } } { | \\mu ^ { D } | ^ { 2 } - | \\mu ^ { Q } | ^ { 2 } } } } & { { 1 } } \\end{array} \\right) + \\mathcal { O } \\left( \\frac { m _ { b } } { \\mu ^ { D } } \\right) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ^ { d } = \\left( \\begin{array} { c c c c } { { 1 } } & { { - \\displaystyle \\frac { m _ { 4 3 } ^ { d * } } { \\mu ^ { Q * } } } } & { { 0 } } \\\\ { { } } & { { } } & { { } } \\\\ { { 0 } } & { { \\displaystyle \\frac { | m _ { 4 3 } ^ { d } | ^ { 2 } } { \\mu ^ { Q * } m _ { 4 4 } ^ { d } } } } & { { 1 } } \\\\ { { \\displaystyle \\frac { m _ { 4 3 } ^ { d } } { \\mu ^ { Q } } } } & { { 1 } } & { { \\displaystyle \\frac { \\mu ^ { Q * } m _ { 4 4 } ^ { d } } { | \\mu ^ { Q } | ^ { 2 } - | \\mu ^ { D } | ^ { 2 } } } } \\end{array} \\right) + \\mathcal { O } \\left( \\frac { m _ { b } } { \\mu ^ { D } } \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Therefore there is generally an $\\mathcal { O } \\left( \\frac { m _ { b } } { \\mu ^ { D } } \\right) ^ { \\sharp }$ contribution to unitarity deviation of the CabbiboKobayashi-Maskawa (CKM) matrix. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Similarly, the up-type quark mass matrix $\\mathcal { M } ^ { u }$ is given in the following ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset - \\left( q _ { i } ^ { t } , q _ { 4 } ^ { t } , u _ { H } ^ { c } \\right) \\mathcal { M } ^ { u } \\left( \\begin{array} { c } { { u _ { j } ^ { c } } } \\\\ { { u _ { 4 } ^ { c } } } \\\\ { { q _ { H } ^ { b } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } ^ { u } = \\left( \\begin{array} { c c c } { { m _ { i j } ^ { u } ~ m _ { i 4 } ^ { u } } } & { { 0 } } \\\\ { { m _ { 4 j } ^ { u } ~ m _ { 4 4 } ^ { u } } } & { { \\mu ^ { Q } } } \\\\ { { 0 } } & { { \\mu ^ { U } } } & { { - m _ { H } ^ { u } } } \\end{array} \\right) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\equiv - y _ { i j } ^ { u } \\frac { v } { \\sqrt { 2 } } \\sin \\beta , m _ { i 4 } ^ { u } \\equiv - y _ { i } ^ { U } \\frac { v } { \\sqrt { 2 } } \\sin \\beta , m _ { 4 j } ^ { u } \\equiv - y _ { j } ^ { Q } \\frac { v } { \\sqrt { 2 } } \\sin \\beta , n$ sinβ,m4=-yQuU $m _ { 4 4 } ^ { u } \\equiv - y ^ { Q U } \\frac { v } { \\sqrt { 2 } } \\sin \\beta$ $m _ { H } ^ { u } \\equiv y \\frac { v } { \\sqrt 2 } \\cos \\beta$ . Taking that $| \\mu ^ { Q } | \\sim | \\mu ^ { U } | \\gg | m _ { 4 j } ^ { u } | , | m _ { 4 4 } ^ { u } | , | m _ { i j } ^ { u } | , | m _ { i 4 } ^ { u } | , | m _ { H } ^ { u } |$ ，the absolute mass eigenvalues are $| \\mu ^ { Q } | , | \\mu ^ { U } |$ ,and $\\left| m _ { 3 3 } ^ { u } \\right|$ , respectively. The diagonalizing matrices to Eq. (25) are $U ^ { u }$ and $V ^ { u }$ ， ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ^ { u \\dagger } { \\mathcal { M } } ^ { u } V ^ { u } = { \\left( \\begin{array} { l l l } { m _ { t } } & { 0 } & { 0 } \\\\ { 0 } & { \\mu ^ { Q } } & { 0 } \\\\ { 0 } & { 0 } & { \\mu ^ { U } } \\end{array} \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ^ { u } = \\left( \\begin{array} { c c c } { { 1 } } & { { 0 } } & { { \\displaystyle \\frac { m _ { 3 4 } ^ { u } } { \\mu ^ { U } } } } \\\\ { { } } & { { } } & { { } } \\\\ { { 0 } } & { { 1 } } & { { \\displaystyle \\frac { | m _ { H } ^ { u } | ^ { 2 } + | m _ { 3 4 } ^ { u } | ^ { 2 } } { \\mu ^ { Q * } m _ { H } ^ { u } - \\mu ^ { U } m _ { 4 4 } ^ { u * } } } } \\\\ { { - \\displaystyle \\frac { m _ { 3 4 } ^ { u * } } { \\mu ^ { U * } } \\displaystyle \\frac { \\mu ^ { U } m _ { 4 4 } ^ { u * } - m _ { H } ^ { u } \\mu ^ { Q * } } { | \\mu ^ { Q } | ^ { 2 } - | \\mu ^ { U } | ^ { 2 } - | m _ { H } ^ { u } | ^ { 2 } } } } & { { 1 } } \\end{array} \\right) + \\mathcal { O } \\left( \\frac { m _ { t } } { \\mu ^ { U } } \\right) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ^ { u } = \\left( \\begin{array} { c c c } { { 1 } } & { { \\displaystyle \\frac { m _ { 4 3 } ^ { u * } } { \\mu ^ { Q * } } } } & { { 0 } } \\\\ { { } } & { { \\displaystyle \\frac { | m _ { H } ^ { u } | ^ { 2 } + | m _ { 4 3 } ^ { u } | ^ { 2 } } { \\mu ^ { U } m _ { H } ^ { u * } - \\mu ^ { Q * } m _ { 4 4 } ^ { u } } } } & { { 1 } } \\\\ { { - \\displaystyle \\frac { m _ { 4 3 } ^ { u } } { \\mu ^ { Q } } } } & { { 1 } } & { { \\displaystyle \\frac { \\mu ^ { Q * } m _ { 4 4 } ^ { u } - m _ { H } ^ { u * } \\mu ^ { U } } { | \\mu ^ { U } | ^ { 2 } - | \\mu ^ { Q } | ^ { 2 } - | m _ { H } ^ { u } | ^ { 2 } } } } \\end{array} \\right) + \\mathcal { O } \\left( \\frac { m _ { t } } { \\mu ^ { U } } \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The contribution to unitarity deviation of the CKM matrix can be as large as $\\left( m _ { t } / \\mu ^ { U } \\right) ^ { : 2 }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "D. Boson spectra ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Boson masses are more complicated than the fermion case because of soft terms as well as SUSY kinetic terms. Higgs bosons, and therefore gauge bosons, in this model have exactly the same spectra as those in MSSM. So we will only consider slepton and squark masses. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SUSY kinetic terms contribute sfermion masses in the same manner like that in MSSM, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV \\supset m _ { Z } ^ { 2 } \\cos 2 \\beta \\left( I _ { 3 } - \\sin ^ { 2 } \\theta _ { W } Q \\right) f ^ { * } f\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where （204号 $\\theta _ { W }$ （ is the Weinberg angle, and the field （204号 $f$ （20 denotes ${ \\tilde { L } } _ { i }$ ， ${ \\tilde { Q } } _ { m }$ ， （204 $\\tilde { Q } _ { H }$ ， ERi， E4， EH，U D m D UH ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Trilinear terms in Eqs. (9) and(1O) contribute ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset - m _ { 0 } \\left( m _ { i m } ^ { l } \\tilde { L } _ { i } ^ { - } \\tilde { E } _ { m } ^ { c } + m _ { m n } ^ { d } \\tilde { Q } _ { m } ^ { b } \\tilde { D } _ { n } ^ { c } + m _ { m n } ^ { u } \\tilde { Q } _ { m } ^ { t } \\tilde { U } _ { n } ^ { c } + m _ { H } ^ { u } \\tilde { Q } _ { H } ^ { b } \\tilde { U } _ { H } ^ { c } + h . c . \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The superpotential which involves $\\mu$ terms and Yukawa interactions contributes ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { L } \\supset - \\big [ \\big | \\mu \\big | ^ { 2 } \\left( h _ { d } ^ { \\dagger } h _ { d } + h _ { u } ^ { \\dagger } h _ { u } \\right) + \\big | \\mu ^ { e } \\big | ^ { 2 } \\left( \\tilde { E } _ { 4 } ^ { e e } \\tilde { E } _ { 4 } ^ { e } + \\tilde { E } _ { H } ^ { e e } \\tilde { E } _ { H } ^ { e } \\right) + \\big | \\mu ^ { Q } \\big | ^ { 2 } \\Big ( \\tilde { Q } _ { 4 } ^ { \\dagger } \\tilde { Q } _ { 4 } + \\tilde { Q } _ { H } ^ { \\dagger } \\tilde { Q } _ { H } \\Big ) } \\\\ & { + \\big | \\mu ^ { U } \\big | ^ { 2 } \\Big ( \\tilde { U } _ { 4 } ^ { * e } \\tilde { U } _ { 4 } ^ { e } + \\tilde { U } _ { H } ^ { * e } \\tilde { U } _ { H } ^ { e } \\Big ) + \\big | \\mu ^ { D } \\big | ^ { 2 } \\left( \\tilde { D } _ { 4 } ^ { * e } \\tilde { D } _ { 4 } ^ { * } + \\tilde { D } _ { H } ^ { * e } \\tilde { D } _ { H } ^ { e } \\right) + \\big | m _ { H } ^ { u } \\big | ^ { 2 } \\Big ( \\tilde { U } _ { H } ^ { * e } \\tilde { U } _ { H } ^ { e } + ( } \\\\ & { + \\tilde { F } ^ { e * m , u \\dagger } m ^ { \\prime } t ^ { * e } + \\tilde { D } ^ { * e } m ^ { d } m ^ { \\prime } t ^ { * e } ) \\tilde { D } ^ { * } + \\tilde { U } ^ { e s } m ^ { \\prime } u ^ { * } \\tilde { U } ^ { e } } \\\\ & { + \\tilde { L } m ^ { l } n ^ { \\dagger } \\tilde { L } ^ { s } + \\tilde { Q } ^ { b } m ^ { d } m ^ { l \\dagger } \\tilde { Q } ^ { h * } + \\tilde { Q } ^ { l } m ^ { u } m ^ { u \\dagger } \\tilde { Q } ^ { l * } } \\\\ & { - \\big ( \\mu \\tan { \\beta } \\tilde { L } m ^ { l } \\tilde { L } ^ { e } + \\mu \\tan { \\beta } \\tilde { Q } ^ { b } m ^ { l } \\tilde { D } ^ { * } + \\mu \\cot { \\beta } \\tilde { Q } ^ { l } m ^ { u } \\tilde { U } ^ { e } + \\mu \\tan { \\beta } m _ { H } ^ { u } \\tilde { Q } _ { H } ^ { d } \\tilde { U } _ { H } ^ { e } } \\\\ &  + \\mu ^ { e } m _ { d } ^ { * } \\tilde { L } _ { 4 } ^ { * e } + \\mu ^ { D } m _ { d } ^ { * e } \\tilde { Q } _ { H } ^ { e m } \\tilde { D } _ { 4 } ^ { * e } + \\mu ^ { U } m _ { u } ^ { u } \\tilde { Q } _ { H } ^ { e m } \\tilde { U } _ { H } ^ { e * } + \\mu ^ { Q } m _  H  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $m ^ { l , d , u }$ are matrices with elements defined before. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Together with $B \\mu$ terms given in Eq. (8)，full mass-squared matrices of sfermions are obtained. In the Appendix, the charged slepton, up squark and down squark mass-squared matrices will be given explicitly. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "III. PHENOMENOLOGICALCONSTRAINTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The direct experimental search of extra generation particles at LEP requires that they should be heavier than 1Oo GeV,and direct search of extra generation quarks at Tevatron requires they are heavier than 27O GeV [14]. This result can be simply satisfied if $\\mu ^ { X }$ 's are ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "larger than 100 GeV or 27O GeV. Note that we do not have extra neutrinos which, in this model, consist of Higgsinos. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The electroweak precision measurement generally has constraints on extra matters [8]. Current constraints are [14] ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { S = - 0 . 1 0 \\pm 0 . 1 0 , } } \\\\ { { \\ } } \\\\ { { T = - 0 . 0 8 \\pm 0 . 1 1 , } } \\\\ { { \\ } } \\\\ { { U = 0 . 1 5 \\pm 0 . 1 1 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For one extra chiral generation, oblique parameters $S$ ， $T$ ， $U$ still allow the existence of the 4th generation [8] provided that there is certain mass splitting in extra SU $( 2 ) _ { L }$ doublets. In our case, the vector-like generation contributes to the parameters in the way of $1 / \\mu ^ { X 2 }$ as expected from the decoupling theorem [13]. Typically, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\simeq T \\simeq \\left( \\frac { m _ { t } } { \\mu ^ { X } } \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The effect of the extra generation can be small enough $\\leq \\left( m _ { t } / \\mu ^ { X } \\right) ^ { 2 } \\simeq ( 1 - 1 0 ) \\%$ if we take $\\mu ^ { X } \\simeq 5 0 0$ GeV $- 1$ TeV. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Important constraints come from the unitarity of the $3 \\times 3$ CKM quark mixing matrix of three chiral generations [14]. This unitarity is consistent with current data within experimental errors. In this model, extra generations mix with ordinary three chiral generations which necessarily break the unitarity of the CKM mixing matrix. As we have observed following Eqs.(20)and (25),unitarityviolationis about $( m _ { i 4 } ^ { d ( u ) } / \\mu ^ { D ( U ) } ) ^ { 2 }$ .This $\\mu ^ { X }$ dependence is generally expected in the case of extra vector-like generations. Hierarchical or small mixing masses $m _ { i 4 } ^ { d ( u ) }$ Caneasilymake theCKmatrixapproxiatelyuitaywits. For an example, $( m _ { 1 4 } ^ { d ( u ) } / \\mu ^ { X } ) ^ { 2 } \\leq 1 0 ^ { - 3 }$ . Assuming only the third generation mixes with extra generatiot $( m _ { 3 4 } ^ { d ( u ) } / \\mu ^ { D ( U ) } ) ^ { 2 } \\leq 0 . 3 9$ The quantity $m _ { 3 4 } ^ { d ( u ) }$ is at most about $m _ { t }$ . This gives that the parameter $\\mu ^ { D , U } \\geq 2 8 0 \\ \\mathrm { G e V }$ ．： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From Eqs. (22), (23), (27) and (28), it can be seen that there are new phases in fermion mixing matrices. However, these new matrix elements are of order of $\\left( m _ { t } / \\mu ^ { X } \\right) ^ { 2 }$ at most. So new CP violation effects are generally suppressed. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "One of the characteristic properties of the superpotential in this model is that there are many $\\mu$ -parameters. In the following analysis,we prefer to take all the $\\mu$ -parameters approximately equal. They are expected having common origin. On the other hand, by taking $| \\mu | \\ll | \\mu ^ { X } |$ ， such as $| \\mu | = 1 0 0$ GeV and $| \\mu ^ { X } | = 5 0 0$ GeV, this model will have MSSM as its low energy efective theory. In order to make this model distinct， considering above discussed constraints, we will take $| \\mu |$ close to $| \\mu ^ { X } |$ , and ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\mu ^ { X } | \\sim 5 0 0 ~ \\mathrm { G e V } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We bear in mind that for correct EWSB, it maybe necessary to require that $| \\mu |$ is a kind of smaller than $| \\mu ^ { e } |$ ,and $| \\mu |$ cannot be too large. Of course, values of soft masses and $B \\mu$ 's are also important to EWSB. They can affect the choice of values of $\\mu$ -parameters. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the following,we give a numerical illustration. $\\mu$ parameters can have the following values, ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu = 3 0 0 ~ \\mathrm { G e V } , \\mu ^ { e } = 4 0 0 ~ \\mathrm { G e V } , \\mu ^ { Q , U , D } = 5 0 0 \\mathrm { G e V } .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Correct EWSB happens if we take ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l } { { B \\mu } } & { { = - ( 2 6 0 ~ \\mathrm { G e V } ) ^ { 2 } , ~ M ^ { 2 } = ( 2 1 9 ~ \\mathrm { G e V } ) ^ { 2 } , ~ M _ { h } ^ { 2 } = - ( 2 4 3 ~ \\mathrm { G e V } ) ^ { 2 } , } } \\\\ { { B ^ { X } \\mu ^ { X } = - ( 2 0 0 ~ \\mathrm { G e V } ) ^ { 2 } , ~ M _ { X } ^ { 2 } = M _ { X H } ^ { 2 } = ( 2 0 0 ~ \\mathrm { G e V } ) ^ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Note that we have taken $M _ { h } ^ { 2 }$ negative. This is expected due to the large top quark Yukawa coupling [2]. It is straightforward to see that this set of parameters results in consistent EWSB,and it fixes that $\\tan \\beta = 2$ and results in the Higgs spectrum, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "紅r號 $n _ { h } ^ { 2 } \\simeq ( 1 2 4 ~ \\mathrm { G e V } ) ^ { 2 } , m _ { H ^ { 0 } } ^ { 2 } \\simeq ( 4 2 0 ~ \\mathrm { G e V } ) ^ { 2 } , m _ { A } ^ { 2 } \\simeq ( 4 1 3 ~ \\mathrm { G e V } ) ^ { 2 } , m _ { H ^ { \\pm } } ^ { 2 } \\simeq ( 4 2 4 ~ \\mathrm { G e V } ) ^ { 2 } .$ V）²， where the quantum correction to $m _ { h } ^ { 2 }$ has been included. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "IV. LHCPHENOMENOLOGY ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This model can be tested at LHC. In addition to the (super) particle content of MSSM, it predicts following vector-like particles: one lepton singlet ( $E _ { 4 } ^ { c }$ ， $E _ { H } ^ { c }$ )，one quark doublet $\\left( Q _ { 4 } , Q _ { H } \\right)$ , one up-type quark singlet ( $U _ { 4 } ^ { c }$ ， $U _ { H } ^ { c }$ ） and one down-type quark singlet $( D _ { 4 } ^ { c } , D _ { H } ^ { c } )$ ， but there is no extra doublet leptons which are already identified as the Higgs doublets. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Let us look at fermions. Because the effect of EWSB is much smaller than $\\mu$ -parameters, these new Weyl fermions form several Dirac fermions with masses $| \\mu ^ { X } | \\sim 5 0 0$ GeV, ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi _ { e } \\equiv \\left( \\begin{array} { l } { { e _ { H } ^ { c } } } \\\\ { { \\bar { e } _ { 4 } ^ { c } } } \\end{array} \\right) ~ , \\Psi _ { Q } \\equiv \\left( \\begin{array} { l } { { q _ { 4 } } } \\\\ { { \\bar { q } _ { H } } } \\end{array} \\right) ~ , \\Psi _ { u } \\equiv \\left( \\begin{array} { l } { { u _ { 4 } ^ { c } } } \\\\ { { u _ { H } } } \\end{array} \\right) ~ , \\Psi _ { d } \\equiv \\left( \\begin{array} { l } { { d _ { 4 } ^ { c } } } \\\\ { { d _ { H } } } \\end{array} \\right) ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Note that in this case，mass splitting in the SU $( 2 ) _ { L }$ doublet $q _ { 4 }$ or $q _ { H }$ is also negligible. Considering gauge kinetic terms, the Lagrangian describing these pseudo-Dirac fermions can be written as ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset \\sum _ { X } \\left( \\bar { \\Psi } _ { X } \\gamma _ { \\mu } D ^ { \\mu } \\Psi _ { X } + \\mu ^ { X } \\bar { \\Psi } _ { X } \\Psi _ { X } \\right) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where the covariant derivative is self-evident. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Decay signals of these new particles can be easily identified. From trilinear Yukawa interactions given in Eq. (4)，it is seen that they decay into SM first three generation matters. $\\Psi _ { e }$ can decay into $e _ { i }$ and a neutral Higgs, the decay rate is ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( \\Psi _ { e } \\to e _ { i } h ^ { 0 } ) \\simeq \\frac { 1 } { 1 6 \\pi } | y _ { i } ^ { E } | ^ { 2 } | \\mu ^ { e } | \\left( 1 - \\frac { m _ { h } ^ { 2 } } { | \\mu ^ { e } | ^ { 2 } } \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Alternative to the Higgs, scalar neutrinos can be also the decay product which is expected at least heavier than the lighter neutral Higgs. Similarly, new quarks $\\Psi _ { u }$ and $\\Psi _ { d }$ decay into ordinary quarks and the Higgs, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi _ { u } \\longrightarrow u \\left( c , t \\right) h ^ { 0 } , \\Psi _ { d } \\longrightarrow d \\left( s , b \\right) h ^ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "with decayrates ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( \\Psi _ { u ( d ) } \\to u _ { i } ( d _ { i } ) h ^ { 0 } ) \\simeq { \\frac { 1 } { 1 6 \\pi } } | y _ { i } ^ { 4 ( D ) } | ^ { 2 } | \\mu ^ { U ( D ) } | \\left( 1 - { \\frac { m _ { h } ^ { 2 } } { | \\mu ^ { U ( D ) } | ^ { 2 } } } \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "And decays of new quarks $q _ { 4 }$ and $q _ { H }$ have following results, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( \\Psi _ { q } ^ { d ( u ) } \\longrightarrow d _ { i } ^ { c } ( u _ { i } ^ { c } ) h ^ { 0 } ) \\simeq \\frac { 1 } { 1 6 \\pi } | y _ { i } ^ { Q ^ { \\prime } ( Q ) } | ^ { 2 } | \\mu ^ { Q } | \\left( 1 - \\frac { m _ { h } ^ { 2 } } { | \\mu ^ { Q } | ^ { 2 } } \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Taking relevant Yukawa coefficients $y _ { i } \\mathrm { ^ { \\circ } s \\sim ~ 1 0 ^ { - 1 } - 1 0 ^ { - 2 } }$ , decay rates in Eqs. (40)-(43) are （20 $1 ^ { \\prime } \\sim 5 - 5 0 0$ MeV. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Taking EWSB into consideration, $\\Psi _ { X }$ mixes with SM fermions. The $5 \\times 5$ generalized CKM matrix is derived from Eqs. (22) and (27), ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\equiv U ^ { u } U ^ { d } \\simeq \\left( \\begin{array} { c c c } { { 1 } } & { { 0 } } & { { - \\frac { m _ { 3 4 } ^ { d } } { \\mu ^ { D } } - \\frac { m _ { 3 4 } ^ { u } } { \\mu ^ { U } } } } \\\\ { { } } & { { } } & { { } } \\\\ { { 0 } } & { { 1 } } & { { \\frac { \\left| m _ { 3 4 } ^ { d } \\right| ^ { 2 } } { \\mu ^ { D } m _ { 4 4 } ^ { d * } } + \\frac { \\mu ^ { U * } m _ { 4 4 } ^ { U } - m _ { H } ^ { u * } \\mu ^ { D } } { \\left| \\mu ^ { Q } \\right| ^ { 2 } - \\left| \\mu ^ { U } \\right| ^ { 2 } - \\left| m _ { H } ^ { u } \\right| ^ { 2 } } } } \\\\ { { \\frac { m _ { 3 4 } ^ { u * } } { \\mu ^ { U * } } + \\frac { m _ { 3 4 } ^ { d * } } { \\mu ^ { D * } } \\ \\frac { \\left| m _ { H } ^ { u } \\right| ^ { 2 } + \\left| m _ { i 4 } ^ { u } \\right| ^ { 2 } } { \\mu ^ { Q } m _ { H } ^ { u * } - \\mu ^ { U * } m _ { 4 4 } ^ { u } } } } & { { 1 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Note that $\\mathcal { O } ( m / \\mu ^ { X } ) ^ { 2 }$ terms have been omitted. We see that decays $\\Psi _ { d } ~ \\longrightarrow ~ t ~ W ^ { + }$ and （204号 $\\Psi _ { u }  b \\ W ^ { - }$ occur via the SU $( 2 ) _ { L }$ gauge interaction at the level of $\\mathcal { O } ( m / \\mu ^ { X } )$ ， ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle _ { i }  \\bar { t } W ^ { + } ) \\simeq \\frac { G _ { F } m _ { W } ^ { 2 } | \\mu ^ { D } | | V _ { 3 5 } | ^ { 2 } } { 8 \\sqrt { 2 } \\pi } \\{ 1 + ( \\frac { m _ { W } } { \\mu ^ { D } } ) ^ { 4 } + ( \\frac { m _ { t } } { \\mu ^ { D } } ) ^ { 4 } - 2 [ ( \\frac { m _ { W } } { \\mu ^ { D } } ) ^ { 2 } + ( \\frac { m _ { W } } { \\mu ^ { D } } ) ^ { 4 } ]  } } \\\\ { { \\displaystyle  + ( \\frac { m _ { t } } { \\mu ^ { D } } ) ^ { 2 } ] \\Bigg \\} ^ { 1 / 2 } \\Bigg \\{ [ 1 - ( \\frac { m _ { t } } { \\mu ^ { D } } ) ^ { 2 } ] ^ { 2 } + ( \\frac { m _ { W } } { \\mu ^ { D } } ) ^ { 2 } [ 1 + ( \\frac { m _ { t } } { \\mu ^ { D } } ) ^ { 2 } ] - 2 [ ( \\frac { m _ { W } } { \\mu ^ { D } } ) ^ { 2 } ] \\Bigg \\} ^ { 1 / 2 } } } \\\\ { { \\displaystyle _ { i }  \\bar { b } W ^ { - } ) \\simeq \\frac { G _ { F } m _ { W } ^ { 2 } | \\mu ^ { U } | | V _ { 5 3 } | ^ { 2 } } { 8 \\sqrt { 2 } \\pi } [ 1 - ( \\frac { m _ { W } } { \\mu ^ { U } } ) ^ { 2 } ] ^ { 2 } [ 1 + 2 ( \\frac { m _ { W } } { \\mu ^ { U } } ) ^ { 2 } ] ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where the phase space factors were given in Refs. [15]. Taking $m / \\mu ^ { X } \\sim 1 / 3$ ， these $\\Gamma$ 's are about 1 GeV. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "All above decays are fast enough that they occur inside detectors. With the invariant mass method, decayed new fermions will be reconstructed. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "These new quarks can be produced at LHC via gluon fusion processes， $g  Q _ { 4 } Q _ { H }$ （204号 $U _ { 4 } ^ { c } U _ { H } ^ { c }$ ， $D _ { 4 } ^ { c } D _ { H } ^ { c }$ . The production mechanism is essentially the same as that of the top quark [16] with an estimated cross section $\\sim$ hundreds $f b$ by taking $\\mu ^ { X } \\sim 5 0 0$ GeV and $\\sqrt { s } = 1 4$ （20 TeV. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "For the new lepton, the Drell-Yan process is the main production mechanism, $p$ $p $ （20 $\\gamma$ $Z \\to e ^ { c } e _ { H } ^ { c }$ . The cross section is estimated to be few $f b$ which means a few tens events in one year [17]. Considering the detector efficiency, new lepton observation maybe challenging at LHC. However, once they are produced, their decay signals are easy to be identified. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "V. SUMMARY AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Within the framework of SUSY, we have extended the matter content in a way that each Higgs doublets is in a full generation. Namely in addition to ordinary three generations, there is an extra vector-like generation，and it is the extra slepton SU $( 2 ) _ { L }$ doublets that are taken as two Higgs doublets. R-parity violating interactions contain ordinary Yukawa interactions. SUSY and gauge symmetry breaking have been analyzed. Fermion and boson spectra have been calculated. Phenomenological constraints and relevant LHC physics have been discussed. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Finally, we discuss some aspects of this model. We are motivated by trying to naturally understand the Higgs. Within SUSY, Higgs can be considered as certain slepton doublets. Thus they are nothing special compared to three ordinary generations, the anomaly cancels within each generation. It might be amusing to note that the first generation composes the ordinary matter, the second generation provides fermion mixing, the third gives CP violation,and the fourth and fifth (the vector one) give out EWSB because they contain Higgs doublets. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Like in traditional R-parity violating models, baryon number conservation is required. While the requirement of any first principle global symmetry is a draw back compared to SM, it is possible to consider baryon number conservation as a result of the so-called discrete gauge symmetry [18]. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "R-parity violation implies that neutralinos cannot be DM. Of course, the TeV particle theory does not necessarily provide DM, there are many alternative scenarios, like the axion, the sterile neutrino, or even the modified gravity. Nevertheless, the thermally produced weakly interacting massive particle (WIMP) is one of the most attractive. To this model, it is still possible to introduce additional matter playing the role of WIMP.We note that a recent DM proposal by Arkani-Hamed et al. [19] can be directly combined with our model. Their proposal is an effort to explain all recent DM experiments [20],WIMP DM lies in a new sector. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Neutrino masses can be generated. This model has lepton number violation which contributes neutrino masses [21]. Although the original superpotential (1) is simple,its expression in terms of ordinary three light generations given in Eq. (4) is complicated. There are many new lepton number violating sources. All of them involve the vector-like extra generation which is heavier than soft SUSY breaking masses. Therefore, except for the ordinary R-parity violating terms with couplings $\\lambda _ { i j k }$ and ${ \\lambda } _ { i j k } ^ { \\prime }$ , the new lepton number violating terms are less stringent constrained at low energies. The full phenomenological analysis of lepton number violation is rather involved, and will be considered in a separate work. Furthermore, the see-saw mechanism can be introduced to get the fully realistic neutrino mass pattern. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "It seems that we have lost GUT. In MSSM, running gauge coupling constants meet together at the energy $\\sim 3 \\times 1 0 ^ { 1 6 }$ GeV. This is regarded as a result of GUT. By adding new matter which is charged under the SM, gauge coupling unification would be lost generally. However， if the new matter composes complete representations of GUT，gauge coupling unification is still kept at least to the one-loop level [22]. Compared to MSSM, the new matter contents we have added in this model are $( E _ { 4 } ^ { c } , Q _ { 4 } , U _ { 4 } ^ { c } , D _ { 4 } ^ { c } )$ and $( E _ { H } ^ { c } , Q _ { H } , U _ { H } ^ { c } , D _ { H } ^ { c } )$ They do not compose complete representations of GUT. Giving up GUT while keeping SUSY sounds bizarre. However, GUT relation of gauge coupling constants maybe finally restored after additional matter, that is DM, is included. This SUSY model has already introduced the new matter $\\mathbf { 5 } \\oplus \\bar { \\mathbf { 5 } }$ and $\\mathbf { 1 0 } \\oplus \\mathbf { 1 0 }$ in SU $( 5 )$ representation. Gauge couplings still do not reach their Landau poles in the GUT energy scale [10, 22]. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We have ignored the mixing of first two chiral generations with the vector generation. Detailed consideration of such possbly smal mixing may give interesting observable phenomena [12]. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "SUSY breaking and its mediation to our sector should be considered systematically. This is closely related to EWSB and LHC phenomenology. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "All above discussed aspects deserve further and separate studies. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "I would like to thank Xiao-gang He, Shu-fang Su and Da-xin Zhang for helpful discussions. This work was supported in part by the National Natural Science Foundation of China under nos.90503002 and 10821504. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX:SCALAR MASS-SQUARED MATRICES ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In writing sfermion mass matrices, for simplicity and without losing generality， we wil omit the first two generations. Neglecting the mixing between $( 1 , 2 )$ generations and $( 3 , 4 )$ generations,the first two generation sfermion themselves are the same as those in MSSM. The charged slepton mass-squared matrix is $\\tilde { \\mathcal { M } } _ { l } ^ { 2 }$ . ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset \\left( \\tilde { L } _ { 3 } ^ { - * } , \\tilde { E } _ { 3 } ^ { c } , \\tilde { E } _ { 4 } ^ { c } , \\tilde { E } _ { H } ^ { c * } \\right) \\tilde { \\mathcal { M } } _ { l } ^ { 2 } \\left( \\begin{array} { l } { \\tilde { L } _ { 3 } ^ { - } } \\\\ { \\tilde { E } _ { 3 } ^ { c * } } \\\\ { \\tilde { E } _ { 4 } ^ { c * } } \\\\ { \\tilde { E } _ { H } ^ { c } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $4 \\times 4 \\ \\tilde { \\mathcal { M } } _ { l } ^ { 2 }$ is given by the following matrix elements, ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } &  \\begin{array} { r l } { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k - 1 } } - \\mathcal { B } ^ { * } \\rangle _ { t _ { k } } } & { =  \\widetilde A ^ { * }  _ { t _ { k } } ^ { 2 } \\begin{array} { r l } & { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } } \\\\ & { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } - \\mathcal { B } ^ { * }  _ { t _ { k } } } \\\\ & { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } - \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } } \\end{array} } \\\\ & { \\begin{array} { r l } { \\langle A ^ { * } \\rangle _ { t _ { k } } - \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } } & { = \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } \\ M _ { t _ { k } } ^ { 2 } , } \\\\ & { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } - \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } } \\end{array} } \\\\ & { \\begin{array} { r l } { \\langle A ^ { * } \\rangle _ { t _ { k } } - \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } } & { = \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } } \\\\ & { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } - \\mathcal { B } ^ { * } } \\end{array} } \\\\ & { \\begin{array} { r l } { \\langle A ^ { * } \\rangle _ { t _ { k } } } & { = | A ^ { * } | _ { t _ { k } } ^ { 2 } } \\\\ & { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } - \\mathcal { B } ^ { * }  _ { t _ { k } } } \\\\ & { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } } \\end{array} } \\\\ & { \\begin{array} { r l } { \\langle A ^ { * } \\rangle _ { t _ { k } } - \\mathcal { B } ^ { * } \\frac { 1 } { t _ { k } }  \\widetilde A ^ { * }  _ { t _ { k } } } \\\\ & { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } } \\\\ & { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } } \\end{array} } \\\\ &  \\begin{array} { r l } { \\langle A ^ { * } \\rangle _ { t _ { k } } - \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } }  \\widetilde A ^ { * }  _ { t _ { k } } } \\\\ & { \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } } \\\\ & { = | \\langle A ^ { * } \\rangle _ { t _ { k } } - \\mathcal { B } ^ { * } | _ { t _ { k } } ^ { 2 } } \\\\ &  \\langle \\widetilde A ^ { * } \\rangle _ { t _ { k } } - \\mathcal { B } ^ { * } \\frac  1 \\end{array} \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The down quark mass-squared matrix is $\\tilde { \\mathcal { M } } _ { d } ^ { 2 }$ （20号",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset \\left( \\tilde { Q } _ { 3 } ^ { b * } , \\tilde { D } _ { 3 } ^ { c } , \\tilde { D } _ { 4 } ^ { c } , \\tilde { D } _ { H } ^ { c * } , \\tilde { Q } _ { 4 } ^ { b * } , \\tilde { Q } _ { H } ^ { t } \\right) \\tilde { M } _ { d } ^ { 2 } \\left( \\begin{array} { l } { \\tilde { Q } _ { 3 } ^ { b } } \\\\ { \\tilde { D } _ { 3 } ^ { c * } } \\\\ { \\tilde { D } _ { 4 } ^ { c * } } \\\\ { \\tilde { D } _ { H } ^ { c } } \\\\ { \\tilde { Q } _ { 4 } ^ { b * } } \\end{array} \\right) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { \\mathcal { M } } _ { d } ^ { 2 }$ is ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r l } & { \\mathrm { S i g s } _ { 1 , 2 } = - \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } - \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 3 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 3 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 4 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 4 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 5 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 4 } + \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 4 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 5 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 4 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 5 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 6 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 7 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 7 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 4 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 9 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 4 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 7 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 4 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 9 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 9 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 1 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 1 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 1 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ & { \\mathrm { S i g s t } _ { 1 , 1 } = \\nu _ { 0 } ^ { 2 } \\nu _ { 0 } ^ { 2 } , } \\\\ &  \\mathrm { S i g s t }  \\end{array}$ $\\begin{array} { r l } & { \\begin{array} { r l } & { \\langle \\hat { \\mathcal { M } } _ { 0 } ^ { \\mathrm { R } } \\rangle = \\Bigl [ \\langle \\mathbf { 0 } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } \\rangle , } \\\\ & { \\langle \\hat { \\mathcal { M } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } \\rangle , } \\\\ & { \\langle \\hat { \\mathcal { M } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } \\rangle , } \\end{array} } \\\\ & { \\begin{array} { r l } & { \\langle \\hat { \\mathcal { M } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } , ~ \\mathbf { \\Lambda } \\rangle = \\left[ \\langle \\mathbf { 0 } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } \\rangle , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } \\rangle , \\right]} \\\\ & { \\langle \\hat { \\mathcal { M } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } \\rangle , } \\\\ & { \\langle \\hat { \\mathcal { M } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } \\rangle , } \\end{array}  } \\\\ &  \\begin{array} { r l } & { \\langle \\hat { \\mathcal { M } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } , } \\\\ & { \\langle \\hat { \\mathcal { M } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } , } \\\\ & { \\langle \\hat { \\mathcal { M } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } , ~ \\hat { \\mathcal { C } } _ { 0 } ^ { \\mathrm { R } } \\mathbf { \\Lambda } \\rangle , } \\\\ &  \\langle \\end{array} \\end{array}$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { ( \\tilde { \\mathcal { M } } _ { d } ^ { 2 } ) _ { 6 1 } = 0 , } \\\\ & { ( \\tilde { \\mathcal { M } } _ { d } ^ { 2 } ) _ { 6 2 } = \\mu ^ { Q } m _ { 4 3 } ^ { d * } , } \\\\ & { ( \\tilde { \\mathcal { M } } _ { d } ^ { 2 } ) _ { 6 3 } = \\mu ^ { Q } m _ { 4 4 } ^ { d * } , } \\\\ & { ( \\tilde { \\mathcal { M } } _ { d } ^ { 2 } ) _ { 6 4 } = 0 , } \\\\ & { ( \\tilde { \\mathcal { M } } _ { d } ^ { 2 } ) _ { 6 5 } = - B ^ { Q } \\mu ^ { Q } , } \\\\ & { ( \\tilde { \\mathcal { M } } _ { d } ^ { 2 } ) _ { 6 6 } = | \\mu ^ { Q } | ^ { 2 } + M _ { Q H } ^ { 2 } + \\frac { m _ { Z } ^ { 2 } + 2 m _ { W } ^ { 2 } } { 6 } \\cos { 2 \\beta } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The up quark mass-squared matrix is $\\mathcal { \\tilde { M } } _ { u } ^ { 2 }$ ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset \\left( \\tilde { Q } _ { 3 } ^ { t * } , \\tilde { U } _ { 3 } ^ { c } , \\tilde { U } _ { 4 } ^ { c } , \\tilde { U } _ { H } ^ { c * } , \\tilde { Q } _ { 4 } ^ { t * } , \\tilde { Q } _ { H } ^ { b } \\right) \\tilde { M } _ { n } ^ { 2 } \\left( \\begin{array} { l } { \\tilde { Q } _ { 3 } ^ { t } } \\\\ { \\tilde { U } _ { 3 } ^ { c * } } \\\\ { \\tilde { U } _ { 4 } ^ { c * } } \\\\ { \\tilde { U } _ { H } ^ { c } } \\\\ { \\tilde { Q } _ { 4 } ^ { t } } \\\\ { \\tilde { Q } _ { H } ^ { b * } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathcal { \\tilde { M } } _ { u } ^ { 2 }$ is ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } = \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } = \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } - \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } - \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } - \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } - \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } - \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } + \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ & { \\mathrm { i } \\langle \\mathcal { A } _ { 1 , 1 } ^ { \\mathrm { o u t } } \\rangle _ { \\mathcal { A } _ { 1 , 1 } } , } \\\\ &  \\mathrm { i } \\langle \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = - \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } , } \\\\ & { \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = - \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } } \\\\ & { \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = - \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } } \\\\ & { \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } } \\\\ & { \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } } \\\\ & { \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } } \\\\ & { \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } } \\\\ & { \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } } \\\\ &  \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\\\ &  \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\| \\hat { \\mathcal { A } } \\| _ { 2 , \\infty } ^ { 2 } = \\operatorname* { m a x } _ { i \\in \\mathcal { I } _ { i + 1 , \\infty } ^ { ( k ) } } \\| \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { ( \\tilde { \\mathcal { M } } _ { u } ^ { 2 } ) _ { 6 1 } = 0 , } \\\\ & { ( \\tilde { \\mathcal { M } } _ { u } ^ { 2 } ) _ { 6 2 } = \\mu ^ { Q } m _ { 4 3 } ^ { u * } , } \\\\ & { ( \\tilde { \\mathcal { M } } _ { u } ^ { 2 } ) _ { 6 3 } = \\mu ^ { Q } m _ { 4 4 } ^ { u * } + \\mu ^ { U * } m _ { H } ^ { u } , } \\\\ & { ( \\tilde { \\mathcal { M } } _ { u } ^ { 2 } ) _ { 6 4 } = ( m _ { 0 } - \\mu \\tan \\beta ) m _ { H } ^ { u } , } \\\\ & { ( \\tilde { \\mathcal { M } } _ { u } ^ { 2 } ) _ { 6 5 } = B ^ { Q } \\mu ^ { Q } , } \\\\ & { ( \\tilde { \\mathcal { M } } _ { u } ^ { 2 } ) _ { 6 6 } = | \\mu ^ { Q } | ^ { 2 } + M _ { Q H } ^ { 2 } + | m _ { H } ^ { u } | ^ { 2 } - \\frac { 4 m _ { W } ^ { 2 } - m _ { Z } ^ { 2 } } { 6 } \\cos 2 \\beta . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "As we have expectedtaking the $3 - 4$ mixing mass to be small $m _ { 3 4 } ^ { l ( u , d ) } \\to 0$ , the third generation also decouples from the two extra generations. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[1] H. Georgi and S.L. Glashow, Phys. Rev. Lett. 32 (1974) 438; J.C. Pati ans A. Salam, Phys. Rev. D 10(1974) 275.   \n[2] Y. Golfand and E. Likhtman, JETP Lett.13 (1971) 323; D.V. Volkov and V. Akulov, Phys. Lett.B 46 (1973) 109; J. Wess and B. Zumino, Nucl. Phys. B 70 (1974) 39; E. Witten, Nucl. Phys.B 188 (1981) 513; S. Dimopoulos and H. Georgi, Nucl. Phys. B 193 (1981) 150; N. Sakai, Z. Phys. C 11 (1981) 153; L. Ibanez and G.G. Ross,Phys. Lett. B 110 (1982) 215; L. Alvarez-Gaume, M. Claudson and M.B. Wise, Nucl. Phys. B 207 (1982) 96.   \n[3] P. Langacker, M.-X. Luo, Phys. Rev. D 44 (1991) 817; C. Giunti, C.W. Kim, U.W. Lee, Mod. Phys. Lett. A 6 (1991) 1745; U. Amaldi, W. de Boer, H. Furstenau, Phys.Lett. B 260 (1991) 447; J.Ellis, S.Kelley,D.Nanopolous,Phys. Lett.B 260（1991） 131.   \n[4] For reviews,see M. Drees and G. Gerbier, Phys. Lett. B 667 (2008) 241; J.L. Feng,J. Phys. G 32(2006) R1; G. Bertone,D. Hooper and J. Silk, Phys. Rept. 405(2005） 279.   \n[5] For a review, see P.H. Frampton, P.Q. Hung and M. Sher, Phys. Rept. 330 (2000) 263.   \n[6] For examples, see B. Holdom, Phys. Rev. Lett. 57 (1986) 2496 (Erratum-ibid 58 (1987) 177); W.S. Hou, R.S. Willey and A. Soni, Phys. Rev. Lett. 58 (1987) 1608 [Erratum-ibid. 60 (1988) 2337]; M.S. Carena, H.E. Haber and C.E.M. Wagner, Nucl. Phys. B 472 (1996) 55； C.-S. Huang, W.-J. Huo and Y.-L. Wu, Phys. Rev. D 64 (2001) O16009; Z. Murdock, S. Nandi and Z.Tavartkiladze,Phys.Lett.B 668（2008） 303.   \n[7] A.K. Grant and Z. Kakushadze, Phys. Lett. B 465(1999) 108.   \n[8] H.-J. He, N. Polonsky and S.-F. Su,Phys. Rev. D 64 (2001) 053004; G.D. Kribs, T. Plehn, M. Spannowsky and T.M.P. Tait, Phys.Rev. D 76 (2007) 075016.   \n[9] C. Liu and H.S. Song, Nucl. Phys.B 545 (1999) 183.   \n10] J.C. Pati, M. Cvetic and H.S. Sharatchandera, Phys. Rev. Lett.58 (1987) 851; J. C. Pati, Phys. Lett.B 228 (1989) 228; K.S. Babu, J.C. Pati and H. Stremnitzer,Phys.Lett.B 256 (1991) 206; K.S.Babu and J.C.Pati,Phys.Lett.B 384 (1996) 140; M. Bastero-Gil and B. Brahmachari, Nucl. Phys. B 575 (2000） 35.   \n11] T. Ibrahim and P. Nath,Phys. Rev.D 78(2008) 075013.   \n12] P.M. Fishbane, R.E. Norton and M.J. Rivard, Phys. Rev. D 33 (1986) 2632; G.C. Branco, T. Morozumi, P.A. Parada and M.N. Rebelo, Phys. Rev. D 48 (1993) 1167; D. Silverman, Phys. Rev. D 58 (1998) 095006; Q. Shafi and Z. Tavartkiladze, Nucl. Phys.B 580 (2000) 83; Y. Liao and X.-Y. Li, Phys. Lett. B 503(2001) 301.   \n[13] L. Lavoura and J.P. Silva, Phys. Rev. D 47 (1993) 2046; N. Maekawa, Phys. Rev. D 52(1995) 1684; H.-Q. Zheng, Phys. Lett. B 378 (1996) 201 (Erratum-ibid B 382 (1996) 448); K.S. Babu, K. Choi, J.C. Pati and X.-M. Zhang, Phys. Lett. B 333 (1994) 364.   \n[14] Particle Data Group (C. Amsler et al.), Phys.Lett. B 667 (2008) 1.   \n[15] M. Jezabek and J.H. Kühn, Nucl. Phys. B 314 (1989)1; J. Reid, G. Tupper, G. Li and M.A. Samuel, Z. Phys. C 51 (1991) 395.   \n[16] E.L. Berger and H. Contopanagos, Phys. Lett. B 361 (1995) 115, hep-ph/9512212; P. Nason, S. Dawson and R. K. Ellis, Nucl. Phys. B 303 (1988) 607; For a review, see T. Han,hep-ph/O508097.   \n[17] P.H. Frampton, D. Ng, M. Sher and Y. Yuan, Phys. Rev. D 48 (1993) 3128; J.E. Cieza Montalvo and P.P. de Queiroz Filho, Phys. Rev. D 66 (2002) 055003.   \n[18] L.M. Krauss and F. Wilczek, Phys. Rev. Lett. 62 (1989) 1221; L.E. Ibanez and G.G. Ross, Nucl. Phys. B 368 (1992) 3.   \n[19] N. Arkani-Hamed,D.P. Finkbeiner, T.R. Slatyer and N. Weiner,Phys.Rev.D 79 (2009) 015014.   \n[20] PAMELA Collaboration (O. Adriani et al.), Nature 458 (2009) 607; ATIC Collaboration (J. Chang et al.)，Nature 456 (2008) 362.   \n[21] For an example, see C. Liu, Mod. Phys. Lett. A 12 (1997) 329; For a recent review, see M. Chemtob,Prog. Part.Nucl. Phys. 54 (2005） 71.   \n[22] L. Ibanez,Phys.Lett.B 126 (1983) 196 (Erratum-ibid B 130 (1983) 463); J.E. Bjorkman and D.R.T. Jones, Nucl. Phys. B 259 (1985） 533; R.Hempfling, Phys.Lett. B 351 (1995) 206. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    }
+]

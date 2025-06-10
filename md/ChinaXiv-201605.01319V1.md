@@ -1,0 +1,103 @@
+# 30nm染色质纤维的结构及调控
+
+梁丹陈 萍李国红\*\*(中国科学院生物物理研究所，生物大分子国家重点实验室，北京100101)
+
+摘要真核细胞中，基因组DNA缠绕组蛋白八聚体形成核小体，核小体再经过多层次折叠压缩形成具有高级结构的染色质．过去30多年，科学家对 $3 0 \mathrm { n m }$ 染色质纤维的结构进行了大量的研究，然而关于 $3 0 \mathrm { n m }$ 染色质纤维的精细结构仍然存在很大的争议．本文综述了近年来对 $3 0 \ \mathrm { n m }$ 染色质纤维结构的最新研究进展，并重点阐述了最近解析的 $3 0 \mathrm { n m }$ 染色质纤维左手双螺旋结构．同时，我们还进一步讨论了一些对 $3 0 \mathrm { n m }$ 染色质纤维结构起调控作用的因子及其作用机制．最后，我们对$3 0 \mathrm { n m }$ 染色质纤维结构与功能领域所面临的挑战和问题进行了展望.
+
+关键词 $3 0 \mathrm { n m }$ 染色质纤维，核小体，连接组蛋白H1，表观遗传学学科分类号 Q71 DOI:10.16476/j.pibb.2015.0250
+
+真核细胞中，基因组DNA经过高度有序的折叠压缩形成染色质存在于细胞核内．过去30年来，染色质结构与功能的研究一直是国际上的研究热点和前沿．早期的研究表明染色质的基本结构单元是核小体I．核小体的结构已经通过X射线晶体学的方法得到解析(2.8A)2．核小体是由一段长度147 bp的DNA以左手螺旋方式缠绕着组蛋白八聚体1.65圈形成的，其中组蛋白八聚体由核心组蛋白H2A、H2B、H3、H4 组成．核小体之间由DNA连接，形成 $1 1 \mathrm { { n m } }$ 的核小体串珠状结构，这是染色质折叠的一级结构．核小体串珠状结构在连接组蛋白H1/H5的作用下，发生更紧密的二次折叠形成了$3 0 ~ \mathrm { { n m } }$ 染色质高级结构3]. $3 0 ~ \mathrm { { n m } }$ 染色质纤维作为染色质的二级结构，是调控基因组DNA可接近性的关键，因此 $3 0 \mathrm { n m }$ 染色质结构的解析对于阐释染色质功能有十分重要的意义．尽管对于 $3 0 \mathrm { n m }$ 染色质纤维结构的研究已经有30多年的历史，然而其精细结构的解析并未取得较大突破[4-5].
+
+本文综述了近年来 $3 0 \mathrm { n m }$ 染色质纤维结构的研究进展，并重点阐述最近解析的 $3 0 \mathrm { n m }$ 染色质纤维的左手双螺旋结构．同时，我们进一步讨论一些对$3 0 \mathrm { n m }$ 染色质纤维结构起调控作用的各种因素及其作用机制，并对 $3 0 \mathrm { n m }$ 染色质纤维结构的研究所面临的挑战和问题进行了展望
+
+# 1 ${ \bf 3 0 ~ n m }$ 染色质纤维的结构
+
+早期，科学家们从细胞核中分离出染色质纤维，并利用电子显微镜进行观察，提出了四种不同的 $3 0 \mathrm { n m }$ 染色质纤维结构模型：Solenoid、Twisted-ribbon、Cross-linker、Superbeads[．这些研究开启了 $3 0 \mathrm { n m }$ 染色质纤维结构研究的先河，然而由于生理条件下染色质结构可以被多种因子调控，包括DNA序列、连接DNA的长度、组蛋白H1的作用、组蛋白的修饰和组蛋白变体等等，因此体内的染色质结构是高度异质性的，这导致这些研究都无法揭示染色质纤维的结构，甚至难以辨别核小体在染色质纤维中的位置以及DNA的具体走向．为了解决体内染色质纤维异质性的问题，科学家们建立了一套体外重构染色质的实验体系，得到了结构均一的染色质纤维．在这个体系中，科学家们选用了含有多次重复的强核小体定位性的601序列DNA的模板，利用盐透析的方法，使DNA模板与组蛋白八聚体在体外组装形成结构均一的核小体串珠和染色质．这样形成的染色质与体内分离的染色质具有基本相同的物理化学性质，并且在这个体系中加入连接组蛋白H1，可以使 $1 1 \ \mathrm { n m }$ 核小体串珠折叠形成 $3 0 \mathrm { n m }$ 染色质高级结构.
+
+利用电子显微镜观察体外重构的染色质纤维结构，科学家们提出了两种结构模型来描述 $3 0 \ \mathrm { n m }$ 染色质纤维的结构：Solenoid 模型和 Zig-zag 模型[7-8](图1)．在Solenoid模型中，核小体依次相邻，螺旋排列，连接DNA被弯曲，形成类似螺线管的结构；在Zig-zag 模型中，核小体间隔相邻，交错排列，连接DNA被拉直，形成Z字走向的螺旋结构．2005年，Schalch等解析了分辨率为9A的4个连续核小体的晶体结构．结果显示连接DNA被拉直，呈Zig-zag走向，DNA在核小体之间交错排列，这一结构支持了 $3 0 ~ \mathrm { { n m } }$ 染色质纤维的 Zig-zag模型．同时，体外交联实验10和体内染色质片段分析实验的结果都支持了 $3 0 \mathrm { n m }$ 染色质高级结构的Zig-zag模型．然而，Robinson等8利用负染和冷冻电子显微镜技术，研究了不同长度的连接DNA与 $3 0 \ \mathrm { n m }$ 染色质纤维直径的相互关系，根据结果提出了 $3 0 ~ \mathrm { n m }$ 染色质纤维是交错螺线管结构(interdigitatedsolenoid)的假设
+
+然而，上述研究都没有解析 $3 0 \ \mathrm { n m }$ 染色质纤维的高分辨率精细结构．2014年，我们利用体外染色质重构技术结合冷冻电子显微镜技术，成功解析了分辨率为11A的 $3 0 \mathrm { n m }$ 染色质纤维的冷冻电镜三维结构[2]．体外重构的 $3 0 ~ \mathrm { n m }$ 染色质纤维具有12个核小体，在连接组蛋白H1的作用下形成高级结构．冷冻电镜三维结构显示 $3 0 ~ \mathrm { { n m } }$ 染色质纤维是一个以四聚核小体为结构单元的左手双螺旋结构(图1)，其中核小体之间的连接DNA是拉直的，两种 $3 0 \mathrm { n m }$ 染色质纤维(177 bp-12 repeats 和 187 bp-12repeats)的结构表明，不同长度的连接DNA并没有影响 $3 0 \mathrm { n m }$ 染色质纤维的整体结构，但是改变了染色质纤维的直径，这些结果符合Zig-zag 模型的特征．另外，我们还发现了在 $3 0 \mathrm { n m }$ 染色质纤维结构中存在着四聚核小体的结构单元，这个结构单元与之前解析的四聚核小体X射线晶体结构基本一致．同时，我们还首次发现连接组蛋白H1可以非对称地结合单个核小体，而H1的这种非对称性的定位使四聚核小体产生极性，这样结构单元之间的H1-H1相互作用，从而使结构单元之间产生相互扭曲形成左手双螺旋结构，
+
+![](images/a9cc316d409a7fbb1c3b58ee45edafd26a311b13fa1b152a738d11f1c4b99077.jpg)  
+Fig.1Solenoid model (a,b),Zig-zag model of $\mathbf { 3 0 \ n m }$ chromatin fiber (c,d)and Cyro-EM structure of ${ \bf 3 0 ~ n m }$ chromatin fiber (e)图1 $\mathbf { 3 0 \ n m }$ 染色质高级结构的 Solenoid模型(a,b)、Zig-zag 模型 $( \mathbf { c } , \mathbf { d } )$ 和 $\mathbf { 3 0 \ n m }$ 染色质的冷冻电镜结构(e)
+
+# 2 $\mathbf { 3 0 \ n m }$ 染色质纤维结构的调控
+
+# 2.1连接组蛋白H1对 $\mathbf { 3 0 \ n m }$ 染色质纤维结构的调控
+
+连接组蛋白H1/H5通常存在于染色质结构相对紧密的区域，它有3个典型的结构域：无结构的N 端尾巴、中间球状结构域和具有大量赖氨酸的无结构C端尾巴[13-14]．目前，对于连接组蛋白在核小体上的精确位置并不清楚，但已有证据表明球状结构域与核小体的结合位点在核小体连接DNA的进出口处[5]．大量研究表明连接组蛋白H1对于$3 0 \mathrm { n m }$ 染色质纤维的形成和维持其结构稳定性起到了至关重要的作用．目前，有两种模型描述连接组蛋白H1与核小体的相互作用：对称结合模型和非对称结合模型[16-17]．对称模型中，组蛋白H1处于核小体对称中心轴线上，在核小体连接DNA进出口处中心帮助连接DNA交叉，稳定核小体结构[;而在非对称模型中，组蛋白H1处于核小体DNA进出口处的一侧，偏离核小体对称轴，帮助DNA向核小体对称轴弯曲[].
+
+连接组蛋白H1C端具有大量赖氨酸，因此可以发生多种表观遗传学修饰，例如磷酸化、乙酰化、甲基化和泛素化4，这些修饰也可以调控染色质纤维的高级结构．最近研究发现，H1第26位赖氨酸的去乙酰化可以促进异染色质的形成[]，而H1第54位精氨酸被催化为瓜氨酸可以破坏H1与核小体的结合，降低了H1与染色质的结合程度[9]，另外，H1C端的磷酸化修饰还可以调控不同细胞周期中染色质结构的紧密程度[20].
+
+在我们解析的 $3 0 \mathrm { n m }$ 染色质纤维的冷冻电镜三维结构中[2，组蛋白H1与核小体的比例是 $1 : 1$ ，组蛋白H1以不对称的方式结合到核小体一端．H1处于四聚核小体结构单元之间，H1与H1之间相互作用维持结构单元之间的稳定性，同时也提供了结构单元之间的扭转力．此外， $3 0 \mathrm { n m }$ 染色质纤维的三维结构表明，组蛋白H1的N端和C端结构域与连接DNA也有相互作用.
+
+# 2.2核小体之间的相互作用对 $\mathbf { 3 0 \ n m }$ 染色质纤维 结构的调控
+
+研究表明，核小体表面上组蛋白H2A-H2B二聚体的酸性区域与相邻核小体组蛋白 $\mathrm { ~ H 4 ~ N ~ }$ 端的相互作用对染色质纤维高级结构的形成和维持起到至关重要的作用[2Il．组蛋白变体H2A.Z含有一段特殊的富含酸性氨基酸残基的结构域，因此形成的核小体有更加酸性的H2A.Z-H2B酸性区域[22]，染色质结构更加紧密，从而参与基因转录的调控过程[23]；然而，组蛋白变体H2A.Bbd与H2B形成的酸性区域相较常规组蛋白酸性较弱，因此形成的染色质结构比较松散，从而参与基因转录的激活过程[24．另外，H4N端第16位赖氨酸的乙酰化修饰会使染色质结构更加开放[25，而含有组蛋白H4N端缺失截短体的染色质不能形成染色质高级结构2四聚核小体晶体结构表明，组蛋白H2A的helix $\propto 2$ 和相邻核小体上组蛋白H2B的helix $\propto 1 / \alpha \mathrm { C }$ 的相互作用维持了染色质结构，但由于四聚核小体结构并不是完整的 $3 0 \mathrm { n m }$ 染色质纤维结构，所以并没有发现核小体侧面组蛋白H2A-H2B二聚体的酸性区域与相邻核小体上组蛋白 $\mathrm { H } 4 \mathrm { ~ N ~ }$ 端的相互作用.
+
+在我们解析的 $3 0 \mathrm { n m }$ 染色质纤维的三维冷冻电镜结构中，四聚核小体结构单元之间核小体上的H2A-H2B二聚体的酸性区域可以与相邻核小体组蛋白 $\mathrm { H } 4 \mathrm { ~ N ~ }$ 端相互作用，从而使四聚核小体结构单元之间发生一定角度的扭转．同时，我们进一步研究发现，组蛋白 $\mathrm { H } 4 \mathrm { ~ N ~ }$ 端第23位精氨酸与相邻核小体H2A-H2B酸性区域有直接作用，对 $3 0 \mathrm { n m }$ 染色质纤维结构的形成具有重要作用[2．分析超速离心实验表明，组蛋白 $\mathrm { ~ H 4 ~ N ~ }$ 端第23位精氨酸的突变会破坏结构单元之间的作用力，但不影响结构单元内部的作用力，这也与之前的文章关于H4N端尾巴对染色质结构的作用相一致[27].
+
+由于连接组蛋白H1的非对称性作用，还有H2A-H2B酸性区域与H4N端的非对称性作用，$3 0 \mathrm { n m }$ 染色质纤维结构单元之间由于扭转形成了一个较大的空隙，这个空隙容易被其他染色质结合因子插入，同时在这个空隙中的组蛋白尾巴也很容易发生表观遗传学修饰．因此，这个空隙无疑是一个很好的表观遗传调控的平台，也是染色质结构与功能调控的关键位点.
+
+# 2.3其他染色质结合因子对 $\mathbf { 3 0 \ n m }$ 染色质纤维结构的调控
+
+除了连接组蛋白H1，一些其他的染色质结合因子也会参与染色质高级结构的调控，其中包括很多转录调控因子，例如PRC1/2、MeCP2、MBT蛋白和HP1等(图2)．PRC1/2是多梳复合物家族蛋白(polycomb group protein)，它们在细胞发育分化过程中起到重要作用．PRC1可以通过结合核小体促进染色质形成紧密结构而抑制基因转录的发生[28，而PRC2可以催化组蛋白H3第27位赖氨酸的甲基化，形成抑制基因转录的兼性异染色质结构[2].MeCP2是一种DNA甲基化位点结合蛋白，它的突变会导致Rett综合征．MeCP2可以在甲基化DNA不存在的情况下，使染色质折叠形成高级结构，与连接组蛋白H1类似，MeCP2结合在核小体DNA进出口处，其突变则改变了MeCP2与连接DNA的结合位点，进一步改变了染色质的结构，使基因 转录异 常[30]．HP1(heterchromatin-associatedprotein1)和 MBT (malignant-brain-tumor)蛋白可以特异性识别组蛋白甲基化，并通过与甲基化修饰的核小体结合使染色质结构更加紧密，从而导致基因转录沉 默[3I-32]．X射线晶体学研究表明，MBT 蛋白通过结合组蛋白H4第20位赖氨酸甲基化使染色质形成比较紧密的结构[β；Rhina(果蝇中HP1的同源蛋白)和Swi6(酵母中HP1的同源蛋白)可以识别并结合组蛋白H3第9位赖氨酸的甲基化[3．除此之外，HP1更易与含有组蛋白变体H2A.Z的染色质结合，形成结构紧密的异染色质[24].
+
+![](images/62542af7826b4477dfb1849445fd80c7ecfa9938aa62a8d242d283b4fd090679.jpg)  
+Fig.2Regulation of $\mathbf { 3 0 \ n m }$ chromatin structure 图2 $\mathbf { 3 0 \ n m }$ 染色质纤维结构的调控
+
+# 3问题与展望
+
+$3 0 \mathrm { n m }$ 染色质纤维左手双螺旋结构的解析确定了染色质高级结构的基本架构，为进一步阐明染色质的功能提供了大量结构信息．然而，现有的11A分辨率并不能完全阐释 $3 0 \mathrm { n m }$ 染色质纤维的所有结构细节，这其中包括H1与H1之间的相互作用和四聚核小体单元之间相互作用的细节等．随着冷冻电子显微镜技术的发展，冷冻电子显微镜解析的结构已经可以达到接近X射线晶体学的水平$( \leqslant 4 \mathrm { \AA } ) ^ { [ 3 3 ] }$ ．我们可以预期高分辨率的 $3 0 \mathrm { n m }$ 染色质纤维三维冷冻电镜结构很快就会得到解析．解析高分辨率的 $3 0 ~ \mathrm { { n m } }$ 染色质结构无疑是阐释H1与H1之间及核小体与核小体之间相互作用分子机制的最佳途径，同时也会进一步解释组蛋白H1以及其他组蛋白对 $3 0 \mathrm { n m }$ 染色质纤维结构调控的分子机制.
+
+$3 0 ~ \mathrm { { n m } }$ 染色质纤维的三维结构以四聚核小体为基本结构单元，每个结构单元之间发生扭转形成一个楔形空间，组蛋白H4的N端尾巴穿过这一空间与相邻核小体的H2A-H2B酸性区域发生作用，这个楔形空间为一些表观遗传学因子的调控作用提供了平台．例如，组蛋白变体H2A.Z的酸性区域和组蛋白尾巴的不同修饰对于 $3 0 \mathrm { n m }$ 染色质结构的调控都是基于这个窗口发生的．而其他一些染色质结合因子，例如MeCP2、MBT蛋白和HP1等也很有可能作用在这个窗口上．利用冷冻电子显微镜技术，我们可以阐释不同表观遗传学因子对染色质纤维结构的调控作用及其分子机制，这对理解表观遗传学调控的分子机制有重大意义．近年来，单分子技术被应用于研究染色质高级结构的动态变化[34-35]单分子力谱(磁镊和光镊)技术可以精确测量 $3 0 ~ \mathrm { { n m } }$ 染色质高级结构形成和解聚时力和能量的变化，为研究不同表观遗传学因子对 $3 0 \mathrm { n m }$ 染色质结构建立和维持的调控提供了条件.
+
+另外，细胞核内 $3 0 \mathrm { n m }$ 染色质纤维结构的解析仍存在挑战．由于细胞核内复杂的调控环境(如组蛋白变体、组蛋白化学修饰、染色质重塑因子、连接DNA序列和长度等)，染色质纤维的结构一直处于高度动态变化的状态，以应对不同的功能需求，因此 $3 0 \mathrm { n m }$ 染色质纤维在这种环境下很可能因为高度的动态变化而不易捕捉，这使得研究细胞核内$3 0 \mathrm { n m }$ 染色质纤维的精细结构变得异常困难．一些新技术的发展为解决这个问题带来希望．Eltsov等[3利用冷冻电子断层扫描技术观察鸡血红细胞，发现了细胞核内存在较短的Zig-zag构象的 $3 0 ~ \mathrm { { n m } }$ 染色质结构3．利用相干X射线衍射成像可以获得细胞中染色质纤维的三维结构[3，结合冷冻制样技术和X射线自由电子激光技术，图像分辨率可达到 $1 0 \mathrm { n m }$ 左右．还有软X射线断层扫描技术和冷冻荧光共聚焦扫描成像等超高分辨率成像技术的发展，都为解析细胞内染色质纤维的高级结构提供了新的技术方法.
+
+# 参考文献
+
+[1]Kornberg RD.Chromatin structure: a repeating unit of histones and DNA. Science,1974,184(4139): 868-871   
+[2]LugerK,Mader AW,Richmond RK,et al.Crystal structure of the nucleosome core particle at 2.8 angstrom resolution.Nature,1997, 389(6648): 251-260   
+[3]Thoma F,Koller T,Klug A.Involvement of histone-Hl in the organization of the nucleosome and of the salt-dependent superstructures of chromatin.Journal of Cell Biology,1979,83(2): 403-427   
+[4]Li G H,Reinberg D.Chromatin higher-order structures and gene regulation. Curr Opin Genet Dev,2011,21(2):175-186   
+[5]Robinson PJ,Rhodes D. Structure of the $: 3 0 \mathrm { n m } ^ { \prime }$ chromatin fibre: a key role for the linker histone.Curr Opin Struct Biol,2OO6,16(3): 336-343   
+[6]Li G, Zhu P. Structure and organization of chromatin fiber in the nucleus.Febs Letters,2015,589(20): 2893-2904   
+[7]Dorigo B,Schalch T,Kulangara A,et al.Nucleosome arrays reveal the two-start organization of the chromatin fiber. Science,2004, 306(5701): 1571-1573   
+[8]RobinsonPJ,FairallL,HuynhVA,et al.EM measurements define the dimensions of the $" 3 0  – \mathrm { n m } "$ chromatin fiber:evidence for a compact, interdigitated structure.Proc Natl Acad Sci USA,2006, 103(17): 6506-6511   
+[9]Schalch T,Duda S,Sargent D F,et al.X-ray structure of a tetranucleosome and its implications for the chromatin fibre. Nature,2005,436(7047): 138-141   
+[10] Grigoryev SA,Arya G,CorrellS,et al. Evidence for heteromorphic chromatin fibers from analysis of nucleosome interactions.Proc Natl Acad Sci USA,2009,106(32): 13317-1332   
+[11] Rydberg B,Holley WR,Mian I S,et al. Chromatin conformation in living cells: Support for a zig-zag model of the $3 0 ~ \mathrm { n m }$ chromatin fiber. JMol Biol,1998,284(1): 71-84   
+[12] Song F,Chen P,Sun D,et al.Cryo-EM study of the chromati fiber reveals a double helix twisted by tetranucleosomal units. Science, 2014, 344(6182): 376-380   
+[13]Ramakrishnan V,Finch JT,Graziano V,et al.Crystal-structure of globular domain of histone H5 and its implications for nucleosome binding. Nature,1993,362(6417): 219-223   
+[14] Happel N,Doenecke D.Histone H1 and its isoforms: Contribution to chromatin structure and function. Gene,2009,431(1-2): 1-12   
+[15] Allan J,Hartman P G,Cranerobinson C,et al. The structure of Histone-Hl and its location in chromatin.Nature,1980,288(5792): 675-679.   
+[16] Staynov D Z, Cranerobinson C.Footprinting of linker Histones-H5 and Histones-H1 on the nucleosome.Embo Journal,1988,7(12): 3685-3691   
+[17] Wong J,Li Q,Levi B Z,et al. Structural and functional features of a specific nucleosome containing a recognition element for the thyroid hormone receptor.Embo J,1997,16(23): 7130-7145   
+[18] Vaquero A,Scher M,Lee DH,et al.Human SirT1 interacts with histone H1 and promotes formation of facultative heterochromatin. Mol Cell,2004,16(1): 93-105   
+[19] Christophorou M A, Castelo-Branco G,Halley-Stott R P,et al. Citrullination regulates pluripotency and histone H1 binding to chromatin. Nature,2014,507(7490): 104-108   
+[20] Roque A,Ponte I, Suau P.Role of charge neutralization in the folding of the carboxy-terminal domain of histone H1.JPhys Chem B,2009,113(35): 12061-12066   
+[21] Dorigo B,Schalch T,Bystricky K,etal. Chromatin fiber folding: Requirement for the histone H4N-terminal tail.JMol Biol, 2003, 327(1): 85-96   
+[22] Suto R K,Clarkson MJ,Tremethick D J,et al. Crystal structure of a nucleosome core particle containing the variant histone H2A.Z. Nat Struct Biol,2000,7(12): 1121-1124   
+[23] Chen P, Zhao JC,Wang Y,et al. H3.3 actively marks enhancers andprimesgene transcription via opening higher-ordered chromatin. Gene Dev,2013,27(19): 2109-2124   
+[24] Zhou J,Fan JY,Rangasamy D,et al. The nucleosome surface regulates chromatin compaction and couples it with transcriptional repression. Nat Struct Mol Biol,2007,14(11): 1070-1076   
+[25] Shogren-Knaak M,Ishii H,Sun JM,et al.Histone H4-K16 acetylation controls chromatin structure and protein interactions. Science,2006,311(5762): 844-847   
+[26] Robinson P J,An W,Routh A,et al.30 nm chromatin fibre decompaction requires both H4-K16 acetylation and linker histone eviction.JMol Biol, 2008,381(4): 816-825   
+[27]Blacketer MJ,Feely S J,Shogren-Knaak MA.Nucleosome interactions and stability in an ordered nucleosome array model system.JBiol Chem,2010,285(45): 34597-34607   
+[28]Francis NJ,KingstonRE,Woodcock CL.Chromatin compaction bya polycomb group protein complex.Science,20o4,306(5701): 1574-1577   
+[29]Margueron R,Li GH,Sarma K,et al.Ezh1 and Ezh2 maintain repressive chromatin through different mechanisms.Mol Cell, 2008,32(4): 503-518   
+[30]Nikitina T,Ghosh RP,Horowitz-Scherer R A,et al.MeCP2- chromatin interactions include the formation of chromatosome-like structures and are altered in mutations causing Rett syndrome. JBiol Chem,2007,282(38): 28237-28245   
+[31] TrojerP,LiG, SimsRJ,et al.L3MBTL1,a histone-methylationdependent chromatin lock. Cell, 2007,129(5): 915-928   
+[32]Yu B,Cassani M,Wang M,et al.Structural insights into Rhino-mediated germline piRNA cluster formation.Cell Res,2015, 25(4): 525-528   
+[33]Bai X C,Mcmullan G,Scheres S H.How cryo-EM is revolutionizing structural biology.Trends in Biochemical Sciences, 2015,40(1): 49-57   
+[34] Cui Y,Bustamante C.Pullinga single chromatin fiber reveals the forces that maintain its higher-order structure.Proc Natl Acad Sci USA,2000,97(1): 127-132   
+[35]Kruithof M,Chien FT,Routh A,et al.Single-molecule force spectroscopy reveals a highly compliant helical folding for the 30-nm chromatin fiber.Nat Struct Mol Biol,2009,16(5): 534-540   
+[36]Eltsov M,Maclellan K M,Maeshima K,et al.Analysis of cryo-electron microscopy images does not support the existence of 30-nm chromatin fibers in mitotic chromosomes in situ.Proc Natl Acad Sci USA,2008,105(50):19732-19737   
+[37]Nishino Y,Takahashi Y,Imamoto N,et al.Three-dimensional visualization of a human chromosome using coherent X-Ray diffraction.Phys RevLett,2009,102(1):018101
+
+# The Structure of $\mathbf { 3 0 \ n m }$ Chromatin Fiber and Its Regulation
+
+LIANG Dan, CHEN Ping,LI Guo-Hong\*\* (NationalLaboratoryofomacromolecules,IstituteofBiophysics,ChineseAcademyofSiences,BeijingO,Cina)
+
+AbstractIn eukaryotic cells,genomic DNA is hierarchically packed into chromatinby histones in the nucleus. Despite of over 3O years'study, the fundamental structure of $3 0 ~ \mathrm { { n m } }$ chromatin fiber remains controversial.In this review, we focus on recent progress in revealing the structure of $3 0 \mathrm { n m }$ chromatin fiber,and emphasize on the most recent left-handed double helix structure of $3 0 \ \mathrm { n m }$ chromatin fiber. In addition，we discuss the epigenetic regulation of the $3 0 \mathrm { n m }$ chromatin structure. Finally,we discuss the possible challenge in elucidating the structure of $3 0 \mathrm { n m }$ chromatin fiber and its regulation.
+
+Key words $3 0 \mathrm { n m }$ chromatin fiber, nucleosome,linker histone Hl,epigenetics DOI: 10.16476/j.pibb.2015.0250

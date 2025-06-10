@@ -1,0 +1,530 @@
+[
+    {
+        "type": "text",
+        "text": "一种云存储环境下的资源调度改进算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐建鹏，李欣，赵晓凡(中国人民公安大学 信息技术与网络安全学院，北京102628)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：如何将用户的海量数据以最小的耗时存储到数据中心，是提高云存储效益、解决其发展瓶颈所需考虑的关键问题。首先证明了云存储环境下资源调度方案的存储最小耗时问题属于一个NPC问题，再针对现有算法对存储调度因素考虑不全面、调度结果易陷入局部最优等问题，提出了一种全新的资源调度算法。该算法首先利用三角模糊数层次分析法全面分析调度影响因素，得到存储节点的判断矩阵，用于构造后续的遗传算法目标函数，再将简单遗传算法从解的编码、交叉变异操作及致死染色体自我改善等角度进行创新，使其适用于云存储环境下的大规模资源调度。最后与OpenStack中的Cinder块存储算法及现有改进算法进行了分析比对，实验结果验证了所提算法的有效性，实现了更加高效的资源调度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：云存储；资源调度；遗传算法；三角模糊数；层次分析法 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.01.0030 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Improved resource scheduling algorithm in cloud storage environment ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xu Jianpeng, Li Xin, Zhao Xiaofan (SchoolofInformationTechnology&CyberSecurity,People'sPublicSecurityUniversityofChina,Beijing02628,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Howto store theusers massivedata intothedatacenterwith the minimumtime-consuming is the keyissue to be considered inimprovingcloud storage eficiencyandsolvingthebotleneckofitsdevelopment.This paper firstproved hatthe minimum storage time-consuming of resource scheduling scheme in cloud storage environment belongs to NPC problem.In viewofthe incompleteconsiderationof the existing scheduling algorithms andthe problemthattheschedulingresulttends to fallinto the local optimum,anewresource scheduling algorithm was proposed.The algorithm firstlyused the triangular fuzzy analytichierarchy processmethodtocomprehensively analyze the scheduling efecting factors,the judgment matrixof storage nodes was obtained,which was used toconstruct the follw-upobjectivefunctionof genetic algorithm,andthen the simple genetic algorithm was innovated fromthe perspectiveof encoding,cross-mutationoperationand self-improvementof lethal chromosome sothatit is suitable forcloud storage environment.Finally,this paper analyzedandcomparedthe Cinder block storage algorithmin OpenStackandtheexisting improved algorithms.The experimentalresults verified the efectiveness ofthe proposed algorithm and achieved more efficient resource scheduling. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: cloud storage; resource scheduling; genetic algorithm; triangular fuzzy number;analytic hierarchy proce ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为云架构的核心支撑，云存储的运行效率直接影响着整个云平台的性能[1]。在现有的主流云存储架构中，如Apache 的Hadoop distributed file system[2]、Google 的 Google file system[3]、Amazon 的Dynamo[4]以及基于OpenStack[5]开源框架的 Swift、Cinder和Ceph，用户的数据通常以较为简单的算法存储到数据中心的存储节点中，如根据剩余存储空间、数据的距离等来进行选择，以此来实现负载的平衡，但并未对网络延迟、带宽、节点内存使用率等其他重要指标进行考虑，这将导致数据存储方案只能陷入一个局部最优解，即并非是最快速的存储方案，而在云存储PB 级的数据量下，较小的效率提升也会带来可观的收益，提升用户体验。同时，云存储环境下的资源调度也是一种复杂的离散组合最优化问题，即属于带约束的大规模装箱问题，在高复杂度的解空间中，本文无法找到一个多项式时间算法来求其最优解，因此往往采用启发式算法来求近似解。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虽然目前已经有很多解装箱问题的启发式算法，但将其进行创新且应用于云存储环境下资源调度的研究仍然不足。王勇[6等提出了一种基于可用空间和I/O吞吐的多维离线调度算法，降低了活动节点数，提高了资源利用率，但其考虑的指标数不足，无法实现更全面的分析。同样，肖博[7在其文章中提出了一种基于三角模糊数的调度算法，实现了较高效的资源调度，但其仅考虑了反指标，且将待存储的数据作为单独的个体来进行决策，未从全局的角度去解该问题，效率较低。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，本文首先在理论上证明了云存储环境下资源调度方案的存储最小耗时问题属于NPC问题;其次，使用三角模糊数层次分析法对资源调度所涉及到的各项影响指标进行全面分析，构造出存储节点的判断矩阵，用以表示影响因素之间的重要性关系，该矩阵将成为下一步遗传算法中目标函数的构造依据;再次，云存储规模一般较大，若仍然对解采用一维的二进制编码，则空间效率较低[8]，本文直接利用矩阵作为解的染色体表示，通过矩阵的变换来实现交叉、变异及适应度计算等操作，提高了算法效率且符合实际应用，除此之外，为加速算法的收敛，本文提出了一种基于学习的致死染色体自我改善算法，该算法通过致死个体向优质个体学习的方式来提高整个种群的质量，以实现更快的寻优，同时保证种群基因的多样性。最后，通过与OpenStack中Cinder块存储算法及文献[7]中算法的实验比较，验证了本文算法的有效性与高效性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 NPC 问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NP（non-deterministicpolynomial）是指一类可在多项式时间内，通过数值运算即可解决的问题，即NP问题的解能够在一个多项式时间内被很容易地验证，所谓验证，即将一个解代入原问题，可以判断出其正确性。更进一步，如果对于一个 NP类问题A，其他所有的NP类问题都能够在多项式时间内规约到A，那么问题A就是NP-complete（NPC）问题。由此，要证明某一个问题A是NPC问题通常需要两步:a)需证明问题A是NP问题，即问题A的解很容易被验证其正确性；b)构造一个多项式时间内的变换，使得从某一个已被验证过的NPC类问题B可以很容易地规约到问题A，那么称问题A为NPC问题[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2三角模糊数层次分析法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过把模糊数学[10]的方法引入到层次分析判断矩阵构造中，可以在定量分析时充分考虑到比较判断的模糊性，使判断矩阵能够更好地反映客观情况,同时避免了一致性检验这一步骤，这种方法被称为三角模糊数层次分析法，其定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1若对于论域 A 上的模糊集合 $P \\in F { \\big ( } A { \\big ) }$ ，满足条件：存在 $x \\in A$ 使得 $\\mu _ { { P } } ( x ) = 1$ ；同时对于任意的 $y \\in \\left( 0 , 1 \\right)$ ，区间 $[ x \\colon \\mu _ { _ A } ( x ) \\geq y ]$ 是闭区间。则有三角模糊数 $P$ ，其隶属度函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mu } _ { A } ( x ) = \\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { 1 } { b - a } \\cdot x - \\displaystyle \\frac { 1 } { b - a } , x \\in [ a , b ] } \\\\ { \\displaystyle \\frac { 1 } { b - c } \\cdot x - \\displaystyle \\frac { 1 } { b - c } , x \\in [ b , c ] } \\\\ { \\qquad 0 , \\ x \\in [ a , c ] } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $a \\leq b \\leq c$ ， $P$ 的上界为 $c$ ，中值为 $b$ ，下界为 $a$ 。一般用 $( a , b , c )$ 的形式来表示三角模糊数[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3遗传算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遗传算法[1]由初始化、个体评价、种群进化三部分构成，其中初始化主要构造种群个体的染色体，即将问题的解进行二进制编码、矩阵编码等；个体评价通过将染色体所代表的解代入目标函数，所得到的结果即是判断种群中个体能否能将基因传递到下一代的重要依据；种群进化包括选择、交叉与变异，是确保基因多样性，跳出局部最优解，找到全局最优解的关键。其原理如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2b98c3673b132d2a7b004ef8e08072d78bba892f5fcbf1e2a613cd156ee12db.jpg",
+        "img_caption": [
+            "图1遗传算法原理图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 问题的数学模型与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1问题建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "云存储环境下的资源调度方案的存储最小耗时问题主要指对同一时刻到达数据中心的待存储数据，采用合适的策略将其存储到节点中，以期得到最小的存储耗时。本文设待存储的数据序列为 $X = \\{ x _ { 1 } , x _ { 2 } , \\cdots , x _ { m } \\}$ ，且$x _ { i } = \\left\\{ s _ { i } , m _ { i } , n _ { i } \\right\\}$ 分别表示某个数据所需要占用的存储空间、内存大小以及网络资源，设现有的存储节点序列为$Y = \\left\\{ y _ { 1 } , y _ { 2 } , \\cdots , y _ { n } \\right\\}$ ，且 ${ { y } _ { i } } = \\left\\{ { { S } _ { i } } , { { M } _ { i } } , { { N } _ { i } } \\right\\}$ 分别表示该存储节点所具有的存储空间、内存资源及网络资源。已知某一个存储方案 $K = ( k _ { 1 } , k _ { 2 } , \\cdots , k _ { m } )$ ，其中 $m$ 表示待存储的数据序号，$k _ { { \\scriptscriptstyle m } }$ 的值表示该数据所选择存储节点的序号，对于该方案 $K$ ，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "需满足如下约束：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ { \\begin{array} { c } { S _ { i } \\geq s _ { a } + s _ { b } + \\cdots + s _ { c } } \\\\ { M _ { i } \\geq m _ { a } + m _ { b } + \\cdots + m _ { c } } \\\\ { N _ { i } \\geq n _ { a } + n _ { b } + \\cdots + n _ { c } } \\end{array} } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "即数据占用的资源不能超过存储节点所具有的资源。为充分提高存储效率，本文所考虑的存储耗时指的是每个数据存储的耗时和。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\operatorname* { m i n } \\sum _ { i = 1 } ^ { m } \\bigl ( t _ { i } ( \\mathbf { s } ) + t _ { i } ( \\mathbf { m } ) + t _ { i } ( \\mathbf { n } ) \\bigr )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $t _ { i } ( s ) , t _ { i } ( m ) , t _ { i } ( n )$ 分别表示该数据存储过程中的数据耗时（由数据的大小、距离所产生的耗时）、内存耗时（由节点的内存情况所造成的耗时）及网络耗时（由节点的网络情况所造成的耗时）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 调度影响因素分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据实际调研情况，本文假设所有的存储节点具有相同的I/O 频率，据此，所需考虑的因素主要包括节点指标、数据指标以及网络指标三个方面，其中节点指标细分为节点故障率、剩余存储空间、内存占用率，数据指标由数据传输距离、数据大小构成，网络指标主要为节点网络带宽与网络延迟，具体如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec0915e3c162f7938867573d5b2addb3cb8031a22dffffd439c01f2e3c6b7922.jpg",
+        "img_caption": [
+            "图2云存储环境下的资源调度问题所涉及到的指标"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文中，需要调度的资源主要为节点的剩余空间、内存与网络带宽，内存占用率与网络延迟则会随着同时或连续存入的数据个数增加而提高，达到一定程度后会导致数据传输的失败。而其他的调度影响因素，则作为该问题的约束条件，以罚函数的形式体现在目标函数中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3问题复杂度分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现已知三维装箱问题属于NPC 问题[9]，由此给出如下定理：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理1云存储环境下资源调度方案的存储最小耗时问题为 NPC 问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明a)首先证明上述问题属于 NP 问题。假设随机生成一个存储方案 $K ^ { ' } \\in K$ ， $\\boldsymbol { K } ^ { ' } = ( k _ { 1 } ^ { ' } , k _ { 2 } ^ { ' } , \\cdots , k _ { m } ^ { ' } )$ ，本文只需要验证公式（2）中的各约束，即可在多项式算法时间内来判断该方案是否属于一个可行解，因此该问题属于NP问题。b)将上述问题归约为一个三维装箱问题，待存储的数据 $X$ 可以归约为待放置的盒子，云存储节点 $Y$ 可归约为箱子，存储数据所需的存储空间、CPU资源、网络资源可归约为盒子的长、宽、高，存储节点的这三类资源可看做箱子的长、宽、高，则耗时归约为已装入箱子内的盒子的总容积。即原问题可转换为：在现有的数据及存储节点下，是否存在一种存储方案使得最终耗时（占用容积）小于 $t$ ，即",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT i m e ( X , Y , K ^ { ' } , L ) \\leq t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $L$ 表示相关的约束，由此可以在多项式时间内将三维装箱问题归约到云存储环境下资源调度方案的存储最小耗时问题上，即定理1得到了证明。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 算法实现 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1三角模糊数层次分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采取“1-9”标度来衡量指标的重要性，且通过广泛的调研与分析，对每两个调度影响因素的比较都选取了三组三角模糊数据[7]，求其平均可得表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f62a42827080d1df8e8e52f5c6ba6c8542278b20b9e86647817d328d9a2ad29.jpg",
+        "table_caption": [
+            "表1云存储环境下资源调度的影响因素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">调度影 响因素</td><td rowspan=\"2\">故障率</td><td rowspan=\"2\">剩余 空间</td><td rowspan=\"2\">内存使 用率</td><td rowspan=\"2\">数据 距离</td><td rowspan=\"2\">数据 大小</td><td rowspan=\"2\">网络 带宽</td><td rowspan=\"2\">网络 延迟</td></tr><tr><td></td></tr><tr><td>故障率</td><td>(1,</td><td>(1.46,</td><td>(0.52,</td><td>(1.38,</td><td>(0.32,</td><td>(0.24,</td><td>(0.38,</td></tr><tr><td></td><td>1,</td><td>2,</td><td>1,</td><td>2,</td><td>0.5,</td><td>0.33,</td><td>0.25,</td></tr><tr><td>剩余</td><td>(0.38,</td><td>(1,</td><td>(0.27,</td><td>(0.33,</td><td>(0.62,</td><td>(0.28,</td><td>(0.25,</td></tr><tr><td>空间</td><td>0.5,</td><td>1,</td><td>0.33,</td><td>0.5,</td><td>1,</td><td>0.5,</td><td>0.33,</td></tr><tr><td>内存使</td><td>(0.7,</td><td>(1.03,</td><td>(1,</td><td>(1.43,</td><td>(0.77,</td><td>(0.13,</td><td>(0.32,</td></tr><tr><td>用率</td><td>1,</td><td>3.03,</td><td>1,</td><td>2,</td><td>1,</td><td>0.5,</td><td>0.5,</td></tr><tr><td>数据</td><td>(0.42,</td><td>(1.03,</td><td>(0.40,</td><td>(1,</td><td>(0.78,</td><td>(0.14,</td><td>(0.14,</td></tr><tr><td>距离</td><td>0.5,</td><td>2,</td><td>0.5,</td><td>1,</td><td>1,</td><td>0.5,</td><td>0.33,</td></tr><tr><td>数据</td><td>(0.96,</td><td>(0.75,</td><td>(0.76,</td><td>(0.76,</td><td>(1,</td><td>(1.47,</td><td>(0.32,</td></tr><tr><td>大小</td><td>2,</td><td>1,</td><td>1,</td><td>1,</td><td>1,</td><td>2,</td><td>0.5,</td></tr><tr><td>网络</td><td>(0.93,</td><td>(1.06,</td><td>(1.14,</td><td>(1.09,</td><td>(0.43,</td><td>(1,</td><td>(0.28,</td></tr><tr><td>带宽</td><td>3.03,</td><td>2,</td><td>2,</td><td>2,</td><td>0.5,</td><td>1,</td><td>0.5,</td></tr><tr><td>网络</td><td>(1.15,</td><td>(1.41,</td><td>(1.39,</td><td>(1.2,</td><td>(1.37,</td><td>(1.19,</td><td>(1,</td></tr><tr><td>延迟</td><td>4,</td><td>3.03,</td><td>2,</td><td>3.03,</td><td>2,</td><td>2,</td><td>1,</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据式（4），求取每个影响因素相对于其他因素的综合重要程度：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal { S } } _ { i } = \\sum _ { j = 1 } ^ { n } r _ { i j } \\otimes \\left[ \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { n } r _ { i j } \\right] ^ { - 1 } , i , j = 1 , 2 , \\cdots , n\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $r _ { i j }$ 表示第 $i$ 个影响因素相对于第 $j$ 个影响因素的重要程度。由此，本文根据表1数据进行计算可得:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$S _ { 1 } = { \\big ( } 5 . 3 0 , 7 . 0 8 , 1 0 . 4 1 { \\big ) } \\otimes \\left( { \\frac { 1 } { 9 8 . 6 7 } } , { \\frac { 1 } { 6 2 . 6 9 } } , { \\frac { 1 } { 3 7 . 8 4 } } \\right) = { \\big ( } 0 . 0 5 4 , 0 . 1 1 3 , 0 . 2 7 5 { \\big ) }$ $S _ { 2 } = { \\big ( } 3 . 1 3 , 4 . 1 6 , 6 . 6 1 { \\big ) } \\otimes \\left( { \\frac { 1 } { 9 8 . 6 7 } } , { \\frac { 1 } { 6 2 . 6 9 } } , { \\frac { 1 } { 3 7 . 8 4 } } \\right) = { \\big ( } 0 . 0 3 2 , 0 . 0 6 6 , 0 . 1 7 5 { \\big ) }$ （204号$S _ { 3 } = \\left( 5 . 3 8 , 9 . 0 3 , 1 2 . 0 6 \\right) \\otimes \\left( \\frac { 1 } { 9 8 . 6 7 } , \\frac { 1 } { 6 2 . 6 9 } , \\frac { 1 } { 3 7 . 8 4 } \\right) = \\left( 0 . 0 5 5 , 0 . 1 4 4 , 0 . 3 1 9 \\right)$ $S _ { 4 } = \\left( 3 . 9 1 , 5 . 8 3 , 8 . 5 2 \\right) \\otimes \\left( \\frac { 1 } { 9 8 . 6 7 } , \\frac { 1 } { 6 2 . 6 9 } , \\frac { 1 } { 3 7 . 8 4 } \\right) = \\left( 0 . 0 4 0 , 0 . 0 9 2 , 0 . 2 2 , 0 . 2 3 , 0 . 2 4 , 0 . 2 5 , 0 . 2 2 , 0 . 2 4 , 0 . 2 5 , 0 . 2 2 \\right) \\otimes \\left( \\frac { 1 } { 9 8 . 6 9 } , \\frac { 1 } { 3 7 . 8 4 } , 0 . 0 9 , 0 . 2 2 \\right) .$ S = (6.02.8.50,11.38) 1 1 1 (0.061,0.136.0.301)98.67 62.69 37.84$S _ { 6 } = \\left( 5 . 9 3 , 1 1 . 0 3 , 2 5 . 0 9 \\right) \\otimes \\left( \\frac { 1 } { 9 8 . 6 7 } , \\frac { 1 } { 6 2 . 6 9 } , \\frac { 1 } { 3 7 . 8 4 } \\right) = \\left( 0 . 0 6 0 , 0 . 1 7 6 , 0 . 6 6 3 , 0 . 0 9 \\right) \\otimes \\left( \\frac { 1 } { 9 8 . 6 7 } , \\frac { 1 } { 6 2 . 6 9 } , \\frac { 1 } { 3 7 . 8 4 } \\right) .$ （$S _ { 7 } = \\left( 8 . 7 1 , 1 7 . 0 6 , 2 4 . 6 0 \\right) \\otimes \\left( \\frac { 1 } { 9 8 . 6 7 } , \\frac { 1 } { 6 2 . 6 9 } , \\frac { 1 } { 3 7 . 8 4 } \\right) = \\left( 0 . 0 8 8 , 0 . 2 7 2 , 0 . 6 5 0 \\right) \\times \\left( \\frac { 1 } { 9 8 . 6 7 } , \\frac { 1 } { 6 2 . 6 9 } , \\frac { 1 } { 3 7 . 8 4 } \\right) = 0 . 6 4 , 2 . 6 7 2 ,$ 定理2假设 $P _ { n } = \\left( a _ { n } , b _ { n } , c _ { n } \\right)$ ， $P _ { { \\scriptscriptstyle m } } = \\left( a _ { { \\scriptscriptstyle m } } , b _ { { \\scriptscriptstyle m } } , c _ { { \\scriptscriptstyle m } } \\right)$ 为两个三角模糊数， $V \\big ( P _ { n } > P _ { m } \\big )$ 表示 $P _ { n }$ 大于 $P _ { m }$ 的可能性[7]，则有$V { \\left( P _ { n } > P _ { m } \\right) } = \\left\\{ \\frac { a _ { m } - c _ { n } } { \\left( b _ { n } - c _ { n } \\right) - \\left( b _ { m } - a _ { m } \\right) } , b _ { n } \\leq b _ { m } , c _ { n } \\geq a _ { m } \\right.$ ≥am (5)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据式（5）计算出每个影响因素优于其他因素的纯测量度，可得： $V \\big ( S _ { 1 } \\ge S _ { 3 } \\big ) = 0 . 8 7 6$ ， $V { \\left( S _ { 1 } \\geq S _ { 5 } \\right) } = 0 . 9 0 3$ ， $V \\big ( S _ { 1 } \\ge S _ { 6 } \\big ) = 0 . 7 7 3$ $\\begin{array} { r c l } { { V \\big ( S _ { 1 } \\geq S _ { 7 } \\big ) = 0 . 5 4 0 ~ , } } & { { V \\big ( S _ { 2 } \\geq S _ { 1 } \\big ) = 0 . 7 2 0 ~ , } } & { { V \\big ( S _ { 2 } \\geq S _ { 3 } \\big ) = 0 . 6 0 6 ~ , } } \\\\ { { V \\big ( S _ { 2 } \\geq S _ { 4 } \\big ) = 0 . 8 3 9 ~ , } } & { { V \\big ( S _ { 2 } \\geq S _ { 5 } \\big ) = 0 . 6 2 0 ~ , } } & { { V \\big ( S _ { 2 } \\geq S _ { 6 } \\big ) = 0 . 5 1 ~ 1 ~ , } } \\\\ { { V \\big ( S _ { 2 } \\geq S _ { 7 } \\big ) = 0 . 2 9 7 ~ , } } & { { V \\big ( S _ { 3 } \\geq S _ { 6 } \\big ) = 0 . 8 9 0 ~ , } } & { { V \\big ( S _ { 3 } \\geq S _ { 7 } \\big ) = 0 . 6 4 3 ~ , } } \\\\ { { V \\big ( S _ { 4 } \\geq S _ { 1 } \\big ) = 0 . 8 9 1 ~ , } } & { { V \\big ( S _ { 4 } \\geq S _ { 5 } \\big ) = 0 . 7 8 8 ~ , } } & { { V \\big ( S _ { 4 } \\geq S _ { 6 } \\big ) = 0 . 6 6 3 ~ , } } \\\\ { { V \\big ( S _ { 4 } \\geq S _ { 7 } \\big ) = 0 . 4 3 2 ~ , } } & { { V \\big ( S _ { 5 } \\geq S _ { 3 } \\big ) = 0 . 9 6 9 ~ , } } & { { V \\big ( S _ { 5 } \\geq S _ { 6 } \\big ) = 0 . 8 5 8 ~ , } } \\end{array}$ （204号$V \\big ( S _ { 5 } \\geq S _ { 7 } \\big ) = 0 . 6 1 0$ ， $V \\big ( S _ { 6 } \\ge S _ { 7 } \\big ) = 0 . 8 5 7$ ，其余比较值均为1。$d \\big ( C _ { 1 } \\big ) = V \\big ( S _ { 1 } \\geq S _ { 2 } , S _ { 3 } , S _ { 4 } , S _ { 5 } , S _ { 6 } , S _ { 7 } \\big ) = 0 . 5 4 0$ $d ( C _ { 2 } ) = V \\displaystyle ( S _ { 2 } \\geq S _ { 1 } , S _ { 3 } , S _ { 4 } , S _ { 5 } , S _ { 6 } , S _ { 7 } ) = 0 . 2 9 7$ $\\begin{array} { r l } & { d ( C _ { 3 } ) = V \\big ( S _ { 3 } \\ge S _ { 1 } , S _ { 2 } , S _ { 4 } , S _ { 5 } , S _ { 6 } , S _ { 7 } \\big ) = 0 . 6 4 3 } \\\\ & { d ( C _ { 5 } ) = V \\big ( S _ { 5 } \\ge S _ { 1 } , S _ { 2 } , S _ { 3 } , S _ { 4 } , S _ { 6 } , S _ { 7 } \\big ) = 0 . 6 1 0 } \\\\ & { d ( C _ { 4 } ) = V \\big ( S _ { 4 } \\ge S _ { 1 } , S _ { 2 } , S _ { 3 } , S _ { 5 } , S _ { 6 } , S _ { 7 } \\big ) = 0 . 4 3 2 } \\\\ & { d ( C _ { 6 } ) = V \\big ( S _ { 6 } \\ge S _ { 1 } , S _ { 2 } , S _ { 3 } , S _ { 4 } , S _ { 5 } , S _ { 7 } \\big ) = 0 . 8 5 7 } \\end{array}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$d ( C _ { 7 } ) = V \\big ( S _ { 7 } \\ : \\geq S _ { 1 } , S _ { 2 } , S _ { 3 } , S _ { 4 } , S _ { 5 } , S _ { 6 } \\big ) = 1$   \n对其做归一化处理：  \n$s u m = 0 . 5 4 0 + 0 . 2 9 7 + 0 . 6 4 3 + 0 . 4 3 2 + 0 . 6 1 0 + 0 . 8 5 7 + 1 = 4 . 3 7 9$   \n$d ^ { ' } \\left( C _ { 1 } \\right) = \\frac { 0 . 5 4 0 } { s u m } = 0 . 1 2 3$   \n$d ^ { ' } \\left( C _ { _ 2 } \\right) = \\frac { 0 . 2 9 7 } { s u m } = 0 . 0 6 8 , d ^ { ' } \\left( C _ { _ 3 } \\right) = \\frac { 0 . 6 4 3 } { s u m } = 0 . 1 4 7$   \n$d ^ { ' } \\left( C _ { _ 4 } \\right) = \\frac { 0 . 4 3 2 } { s u m } = 0 . 0 9 9 , d ^ { ' } \\left( C _ { _ 5 } \\right) = \\frac { 0 . 6 1 0 } { s u m } = 0 . 1 3 9$   \n$d ^ { ' } \\left( C _ { 6 } \\right) = \\frac { 0 . 8 5 7 } { s u m } = 0 . 1 9 6 , d ^ { ' } \\left( C _ { 7 } \\right) = \\frac { 1 } { s u m } = 0 . 2 2 8$   \n对各个权值做检验有：  \n$d ^ { \\prime } ( C _ { 1 } ) + d ^ { \\prime } ( C _ { 2 } ) + d ^ { \\prime } ( C _ { 3 } ) + d ^ { \\prime } ( C _ { 4 } ) + d ^ { \\prime } ( C _ { 5 } ) + d ^ { \\prime } ( C _ { 6 } ) + d ^ { \\prime } ( C _ { 7 } )$   \n$= 0 . 1 2 3 + 0 . 0 6 8 + 0 . 1 4 7 + 0 . 0 9 9 + 0 . 1 3 9 + 0 . 1 9 6 + 0 . 2 2 8 = 1$   \n由此即求得七个指标的相对权重分布，可用于遗传算法目标函数的构造。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2遗传算法的改进 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为将遗传算法充分应用于云存储环境下资源调度中，本文提出如下定义：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义3待存储的数据序列为 $X = \\left\\{ x _ { 1 } , x _ { 2 } , . . . , x _ { n } \\right\\}$ ,可提供存储服务的节点序列为 $Y = \\left\\{ y _ { 1 } , y _ { 2 } , . . . , y _ { m } \\right\\}$ ，若 $x _ { i }$ 存储在 $y _ { j }$ 中，则 $x _ { i } y _ { j } = 1$ ，否则 $x _ { i } y _ { j } = 0$ 。设矩阵 $\\boldsymbol { M } _ { \\boldsymbol { k } }$ 表示 $X$ 与 $Y$ 之间的一种存储方案，其中 $M _ { k } ^ { i j } = x _ { i } y _ { j }$ ，则可得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { k } = { \\left[ \\begin{array} { l l l l } { x _ { 1 } y _ { 1 } } & { x _ { 1 } y _ { 2 } } & { \\cdots } & { x _ { 1 } y _ { m } } \\\\ { x _ { 2 } y _ { 1 } } & { x _ { 2 } y _ { 2 } } & { \\cdots } & { x _ { 2 } y _ { m } } \\\\ { \\cdots } & { \\cdots } & { \\cdots } & { \\cdots } \\\\ { x _ { n } y _ { 1 } } & { x _ { n } y _ { 2 } } & { \\cdots } & { x _ { n } y _ { m } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "且满足：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { m } x _ { i } y _ { j } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上定义表示，在遗传算法的初始化阶段，本文即将种群中所有的个体编码为矩阵 $\\boldsymbol { M } _ { \\boldsymbol { k } }$ 的形式，与之相对应的，在个体评估阶段，本文首先需要构建云存储环境下资源调度方案的存储最小耗时问题的目标函数 $Z _ { k }$ ，可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { c } { \\displaystyle Z _ { k } = M _ { k } \\otimes P ^ { T } + \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { m } x _ { i } y _ { j } \\cdot D _ { j } \\cdot w _ { 4 } + S i z e \\cdot w _ { 5 } } \\\\ { \\displaystyle } \\\\ { P = \\left[ P _ { 1 } , P _ { 2 } , \\cdots , P _ { m } \\right] } \\\\ { \\displaystyle } \\\\ { P _ { j } = S p a c e _ { j } \\cdot w _ { 2 } + M e m _ { j } \\cdot w _ { 3 } + N e t B _ { j } \\cdot w _ { 6 } + N e t D _ { j } \\cdot w _ { 7 } + F a i l _ { i } \\cdot w _ { 1 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\sum _ { j = 1 } ^ { m } \\sum _ { i = 1 } ^ { n } x _ { i } y _ { j } \\cdot S i z e _ { i } \\leq C a p a c i t y _ { j }$ （204号 (8）其中矩阵 $P$ 表示每个节点的代价矩阵，运算“ $\\otimes$ ”表示在基本的矩阵相乘运算的基础上增加更新操作，即当多个数据存储到一个节点中时，需要对节点的各项指标进行更新，得到 $P _ { j } ^ { ' }$ ，且令 $P _ { j } = P _ { j } ^ { ' }$ 。 $D _ { j }$ 表示第 $j$ 个节点距离数据中心根节点的路由跳数， $S i z e _ { i }$ 表每个数据的大小，Capacityj表示第 $j$ 个节点的初始存储空间， $S p a c e _ { j }$ 、 $M e m _ { j }$ 、NetBj、 $N e t D _ { j }$ 、Failj分别表示剩余存储空间、内存使用率、网络带宽、网路延迟与故障率的归一化后的得分，本文假设所有的节点具有相同的I/O 频率，所以从整体的角度来看，数据的大小不会影响调度，因此设置为一个常数 Size， $w _ { i }$ 为各影响因素的权重。为实现种群的进化，需要对种群中的染色体进行交换与变异，根据矩阵 $\\boldsymbol { M } _ { \\boldsymbol { k } }$ 及式(7)(8)的相关内容，提出如下定义：定义4设存在矩阵 $T$ 为 $n \\times m$ 阶初等矩阵，则称种群中个体交换后的结果为 $\\pmb { M } _ { k } ^ { \\prime } = \\pmb { M } _ { k } \\cdot \\pmb { T }$ ；将染色体 $\\boldsymbol { M } _ { \\boldsymbol { k } }$ 中若干行中的“1”调整为 ${ } ^ { \\mathfrak { s } } 0 ^ { \\mathfrak { s } }$ ，并在该行随机选择一个 ${ } ^ { \\mathfrak { a } } 0 ^ { \\mathfrak { , } \\mathfrak { , } }$ 调整为“1”，称之为变异。通过定义4即可在保证式(6)成立的基础上，完成种群的进化。而对于进化过程中所产生的致死染色体，本文提取了一种基于学习的致死染色体自我改善算法，首先有如下定义：定义5种群中适应度排名前 $10 \\%$ 的个体染色体为优质染色体$\\boldsymbol { M } _ { \\scriptscriptstyle N } ^ { G }$ ；种群中适应度排名后 $10 \\%$ 及不符合式（8）的染色体称为致死染色体 $\\boldsymbol { M } _ { \\boldsymbol { M } } ^ { B }$ 。该算法首先为每个致死染色体从优质染色体集合中选择一个作为学习模板，若两者在相同基因位置的值都为1，则将其保留，然后根据学习率随机从学习模板中选择若干值为1的基因，将其替换到致死染色体的对应位置中，则该行原为1的基因值替换为0，最后，将所有优质染色体矩阵进行累加，并将累加值等于优质染色体个数的基因进行保留且置为1，其余置为0，得到该种群的一个综合优质染色体 $M ^ { A G }$ ，并将 $M ^ { A G }$ 中值为1的基因位置所对应的致死染色体基因位置的值置为1，相应地该行原为1的基因替换为0。该算法在保证种群基因多样性的基础上提高了基因质量。最终算法在种群的最优染色体的适应度变化小于1或者迭代次数大于100时停止。其伪代码如下所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "输入： $\\boldsymbol { M } _ { N } ^ { G }$ 、 $\\boldsymbol { M } _ { \\boldsymbol { M } } ^ { B }$   \n输出：经过学习后的染色体 $\\boldsymbol { M } _ { \\boldsymbol { M } } ^ { B ^ { \\prime } }$   \n$L e a r n n i n g \\bigl ( M _ { N } ^ { G } , M _ { M } ^ { B } \\bigr )$   \n{   \n$\\begin{array} { l } { { M = S U M \\big ( M _ { 1 } ^ { G } , M _ { 2 } ^ { G } , { \\cdots } , M _ { N } ^ { G } \\big ) , } } \\\\ { { i f : M \\big ( x _ { l } y _ { k } \\big ) = N } } \\\\ { { M ^ { A ^ { G } } \\big ( x _ { l } y _ { k } \\big ) = 1 ; } } \\end{array}$   \n（204号 $\\begin{array} { l } { f o r \\ ( i = 1 ; i \\leq M ; i + + ) } \\\\ { \\{ \\begin{array} { r l } \\end{array} \\} } \\end{array}$   \n$\\begin{array} { l } { { { j = r a n d o m ( N ) } ; } } \\\\ { { { i f : M _ { j } ^ { G } \\left( x _ { a } y _ { b } \\right) = M _ { i } ^ { B } \\left( x _ { a } y _ { b } \\right) = 1 } } } \\\\ { { { M _ { i } ^ { \\ B } } ^ { \\left( \\right)} x _ { a } y _ { b }  = 1 ; } } \\\\ { { { M _ { i } ^ { \\ B } } ^ { \\left( \\right)} x _ { a } y _ { b }  = C o p y \\left( M _ { j } ^ { G } \\left( x _ { a } y _ { b } \\right) , S t u d y R a t e \\right) } }  \\\\ { { { i f : M ^ { A G } \\left( x _ { c } y _ { d } \\right) = 1 : } } } \\\\ { { { M _ { i } ^ { \\ B } } ^ { \\left( \\right)} x _ { c } y _ { d }  = 1 ; } } \\end{array} \\ \\begin{array} { l } { { } } \\\\ { { { } } } \\\\ { { { } } } \\end{array}$   \n} ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 实验与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1实验设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文对提出的云存储环境下的资源调度算法的有效性进行分析，与Cinder块存储算法及文献[7]的相关算法进行了效率对比，同时实现了代码设计，完成了实验测试。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验硬件环境：IntelCorei7-6700HQ四核处理器，8GB内存，LinuxUbuntul4.04操作系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "软件环境：VMwareWorkstationPro， $\\mathrm { C } { + } { + }$ 语言。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验数据集：本文在程序设计中分别使用StorageNode 类与UserData 类的实例来模拟所有的存储节点与待存储数据。StorageNode类中包含了剩余空间、内存占用率、网络延迟、网络带宽、故障率五个指标，UserData 类中包含了数据大小与距离两个指标项，且在初始化阶段，该七个指标的值均由随机函数产生。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第一组数据集：实例化生成1000个UserData类实例及100个 StorageNode 类实例，即要在100 个存储节点中存入1000 个用户数据。且保证数据总大小小于节点总空间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二组数据集：实例化生成100个UserData类实例及1000个 StorageNode 类实例，即要在1000 个存储节点中存入100 个用户数据。且保证数据总大小小于节点总空间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本实验使用两组数据集分别进行10组实验，且为确保可比性，每组实验初始状态相同（采用相同的数据实例与节点实例），每组实验中包含了10次测试，统计每组实验的平均耗时作为该组对应算法的实验结果，该耗时为算法本身的运算耗时与存储过程产生的耗时之和，其中存储耗时主要由七个影响指标产生。同时，为充分模拟云环境的并行存储模式，所有指标都会随着程序的进行而及时更新，且该程序采用并行方式运行。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 实验结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一组数据集的实验结果如图3所示，其中横坐标表示实验组数，纵坐标表示算法本身的平均运算耗时（s）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4266b32ce664abc0c2d95db213363155abebb7db53b3a22a95b6660e0c215174.jpg",
+        "img_caption": [
+            "图3第一组数据集下三种算法的平均计算耗时比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "相比于Cinder与文献[7]算法，本文算法考虑了更加全面的调度影响因素，且使用了改进的遗传算法来求其近似最优解，因此在调度策略的计算上消耗了更多时间。接下来使用第二组数据集来测试算法的整体耗时，即算法运算耗时与执行存储耗时之和，结果如图4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6430cf7281aa5fc883ae270fd09d41fe7dbae9c1e14762516eee81abc72fbb7.jpg",
+        "img_caption": [
+            "图4第二组数据集下三种算法的整体平均耗时比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于未考虑其他调度影响指标，数据存入高网络延迟、高内存占用节点等情况会导致耗时的大幅增加，因此Cinder算法的表现并不稳定，而文献[7]算法在综合所有正指标后实现了耗时的降低与稳定。本文算法相较另外两种算法，耗时分别降低了 $3 8 . 7 \\%$ 和 $1 8 . 8 \\%$ ，实现了更加高效的云存储环境下的资源调度。根据式（3）可知总耗时主要由算法运行耗时及存储过程中的数据耗时、内存耗时和网络耗时组成，本文对第二组实验结果进行深入分析，研究三种算法在存储过程中的耗时分布情况，分析本算法效率提升的直接原因，具体如图5所示",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5  \n1.5 1  \n0.5 1数据耗时 内存耗时 网络耗时■dinder算法■论文7算法■本文算法",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文算法相较于另外两种算法，效率的提升主要体现在内存耗时与网络耗时上。对于Cinder算法，剩余存储空间大的节点可能不具备良好的网络状态或内存状态，从而导致耗时的增加，文献[7]算法由于考虑的指标因素不全面，调度算法未考虑全局最优解，因此也不能很好地提高效率。本文算法在全面分析调度影响因素的基础上采用全局寻优的算法进行求解，充分考虑了各影响因素之间的平衡关系，从而能够最大限度地优化调度方案，实现效率的提升。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为充分分析本文算法，实验将所有的节点状态进行优化，即确保节点内存占用率、网络延迟等指标在初始化时均处于良好状态，使用第一数据集进行十组实验，比较三种算法的总耗时情况，可得图6。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/24c66f3bb80291e9c44456810c81f7bb0a8ce980f40e1905c04481f6bc9c077d.jpg",
+        "img_caption": [
+            "图5第二组数据集下三种算法的存储过程中的耗时分布情况",
+            "图6在节点指标优化的情况下的各算法耗时"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图6可得，在存储节点均处于较好的状态时，Cinder存储将不会存在高内存占用率或高网络延迟的情况，而相较于本文算法的复杂度，Cinder算法耗时更少，从而在整体上降低总耗时。但云储存规模庞大且复杂，存储节点随时处于读写、删除、数据迁移等操作中，高内存占用与高网络延迟的情况较为普遍，因此本文算法仍具有很好的适用性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文针对目前云存储环境下资源调度研究不够深入、调度算法不够完善的问题，提出了一种高效且适用于云存储的全新资源调度算法，并对算法进行了实现。实验数据表明本文算法在现有算法基础上实现了效率的提升，具备有效性与高效性，为提高用户体验与云存储效益提供了有力保障。但另一方面，本文算法在调度方案的计算耗时方面仍有待提高，需进一步优化算法流程，从遗传算法的初始种群生成及个体的基因编码结构入手，设计更加快速的种群进化方式，以实现更加稳定、高效的云存储环境下的资源调度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 徐建鹏，李欣，孙海春．一种基于可信策略的云存储持久性检测方法[J].计算机应用研究,2018,35(7):1-2(2017-07-27).  \n[2]Borthakur D.The Hadoop distributed file system:architecture and design[J].Hadoop Project Website,2007,11 (11):1-10.  \n[3]Howard SG,GobioffH,Leung S.The Google file system [J].ACM SIGOPSOperating Systems Review,2003,37 (5): 29-43.  \n[4]Decandia G,Hastorun D,Jampani M,et al.Dynamo:amazon's highlyavailable key-value store [J].ACM SIGOPS Operating Systems Review,2007,41(6):205-220.  \n[5]Jackson K,Bunch C, Sigler E.OpenStack cloud computing cookbook [M][S.1.] : Packt Publishing,2015.  \n[6]王勇，田博，王端.云存储的多维离线调度算法[J].计算机应用与软件，2017,34(6):309-313.  \n[7]肖博．云存储调度关键技术研究与实现[D].成都：电子科技大学,2016.  \n[8]杜永贵，陈鑫．矩阵编码的遗传算法[J]．太原理工大学学报，2012,43(2): 111-113, 118.  \n[9]赵晓凡．在线装箱问题相关近似算法研究[D].北京：北京交通大学,2016.  \n[10]苏为华．多指标综合评价理论与方法问题研究[D].厦门：厦门大学,2000.  \n[11]葛继科，邱玉辉，吴春明，蒲国林．遗传算法研究综述[J].计算机应用研究,2008,35(10):2911-2916.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,952 @@
+[
+    {
+        "type": "text",
+        "text": "多变量追踪研究的模型整合与拓展：考察往复式影响与增长趋势",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘源",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西南大学心理学部，认知与人格教育部重点实验室，重庆 400715)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要　追踪研究当中，交叉滞后模型可以探究多变量之间往复式影响，潜增长模型可以探究个体增长趋势。对两类模型进行整合，例如同时关注往复式影响与个体增长趋势，同时可以定义测量误差、随机截距等变异成分，衍生出随机截距交叉滞后模型、特质-状态-误差模型、自回归潜增长模型、结构化残差潜增长模型等。以交叉滞后模型和潜增长模型分别作为基础模型，从个体间/个体内变异分解的角度对上述各类模型梳理，整合出此类模型的分析框架，并拓展建立“因子结构化潜增长模型(factor latent curve model with structured reciprocals)\"作为统合框架。通过实证研究(早期儿童的追踪研究-幼儿园版，ECLS-K)，建立21049名儿童的阅读和数学能力的往复式影响与增长趋势。研究发现，分离了稳定特质的模型拟合最优。研究也对模型建模思路和模型选择提供了建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词追踪研究，往复式影响，增长趋势，因子结构化潜增长模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B841",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "追踪研究(longitudinal analysis)也叫纵向研究、纵贯面研究，是在比较长的时间内，对一个个体或一些个体的心理发展进行有系统的定期的研究，在心理学、教育学、社会学、医学等学科中被广泛使用。随着当代统计技术的不断发展，特别是社会科学统计方法的发展，运用结构方程模型、多层线性模型等统计方法对追踪数据进行研究，能关注更多的信息，比如增长趋势的个体差异，以及影响个体差异的各层级水平的因素等。由此可见，追踪研究越来越细化，所关注的问题也越来越深入。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结合以往的研究(Usami etal.,2019；刘红云，孟庆茂,2003；胥彦，李超平,2019)，可以总结出追踪研究主要关注三个方面的问题：(1)均值差异的比较，(2)对多变量相互影响进行解释，以及(3)描述总体增长趋势。对于均值差异的比较，主要考虑到消除系统偏差、减小误差方差等因素，可以用重复测量的方差分析或多元方差分析等方法。第二类研究旨在探讨多变量之间的往复式影响(reciprocal relations，或相互影响)，与更严格的因果影响(causal effect)进行区分(温忠麟,2017)。可以通过定义交叉滞后模型(Cross-Lagged Model，CLM)，探讨多变量变化的相互影响。最后一类研究关注的是更为宏观的增长趋势或增长趋势，引进潜增长模型(LatentGrowth Model，LGM)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在长期的应用当中，对上述几个问题的研究往往都是孤立的。随着近期一些模型的产出，研究者可以按照研究问题，同时或选择性地考察往复式影响和增长趋势。从应用者的角度，整合此类的追踪研究将要解决的问题，给研究者提出新的研究框架和研究建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1模型定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本节首先介绍往复式影响与增长趋势的两个“基础模型”，随后引入变异分解的具体议题，最后介绍结合了两个基础模型的整合模型",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1交叉滞后模型：多变量往复式影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "探讨变量之间的往复式影响常用的模型是交叉滞后模型(Cross-Lagged Model，CLM)，又称为因果模型、交叉滞后面板模型(Cross-Lagged Panel Model)、自回归交叉滞后模型(Autoregressive Cross-Lagged Model)等(Kenny&Harackiewicz,1979)；后来随着结构方程模型(Structural Equation Modeling,SEM)技术的发展，能够很容易地被研究者所应用(例如Joreskog,1970)。交叉滞后模型以自回归为基础(公式1),分析所测变量的跨时稳定性(temporal stability参见 Hamaker et al.,2015)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i t } = \\mu _ { x t } + x _ { i t } ^ { * } ( 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $x _ { i t } ^ { * } = \\beta _ { x t } x _ { i ( t - 1 ) } ^ { * } + d _ { x i t }$ 。自回归模型中，观测指标 $x _ { \\mathrm { i t } }$ 表示被试 $i$ 在第 $t$ 次测量上的值，系数 $\\beta _ { \\mathrm { x t } }$ 为自回归系数，描述了变量本身随时间变化的效应大小，即跨时稳定性，数值越大则稳定性越高； $d _ { \\mathrm { x i t } }$ 为残差， $\\mu _ { \\mathrm { x t } }$ 为方程的截距。容易拓展到多变量情形，例如含有两个变量的情况(公式2，图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { x _ { i t } = \\mu _ { x t } + x _ { i t } ^ { * } } } \\\\ { { y _ { i t } = \\mu _ { y t } + y _ { i t } ^ { * } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $x _ { i t } ^ { * } = \\beta _ { x t } x _ { i ( t - 1 ) } ^ { * } + \\gamma _ { x t } y _ { i ( t - 1 ) } ^ { * } + d _ { x i t } , y _ { i t } ^ { * } = \\beta _ { y t } y _ { i ( t - 1 ) } ^ { * } + \\gamma _ { y t } x _ { i ( t - 1 ) } ^ { * } + d _ { y i t }$ 。除了自回归系数 $\\beta _ { \\mathrm { x t } }$ 和 $\\beta _ { \\mathrm { y t } }$ 以外， $\\gamma _ { \\mathrm { { x t } } }$ 和 $\\gamma _ { \\mathrm { t y } }$ 为交叉滞后系数，表示变量 $x ($ 或变量 $y )$ 在第 $t$ 次的测量受到第 $_ { t - 1 }$ 次变量y(或变量 $\\ v { x }$ 的影响； $d _ { \\mathrm { x i t } }$ 和 $d _ { \\mathrm { y i t } }$ 表示残差，服从联合正态分布。有研究者(Zyphur,Allison,et al.,2020)认为交叉滞后影响不应仅存在于变量本身，环境(变量之外的偶然因素)也可能对个体的后续表现产生影响。故自回归参数与交叉滞后参数拓展到第t-1次残差对第 $t$ 次测量的影响，被称之为广义交叉滞后模型(General Cross-Lagged Model；袁帅 等,2021)。区别于变量的跨时稳定性，残差对下一次测量的影响包含了“偶然因素\"的贡献，使得模型能同时处理变量本身的前后变化和外在偶然因素对其变化的影响。对于传统CLM模型一般满足2次的测量就能达到识别要求(Usami et al.，2019)；而广义交叉滞后模型则需要至少 4次测量才能识别(Zyphur, Allison, et al., 2020)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/95aa5cee58370ffce9d69c0ca93f1f6344e3c8b74a6525c2835cd168c2bb075d.jpg",
+        "img_caption": [
+            "图1交叉滞后模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究者对CLM模型中最感兴趣的模型参数为自回归系数 $\\beta$ 和交叉滞后回归系数y(刘文等，2015)。此类模型揭示的变量之间的关系通常被研究者定义为“往复式影响(reciprocaleffects)”，即随着时间的推移，每个变量的变化都会影响其他变量的变化(Usami et al.,2019)。但值得注意的是，往复式影响和因果影响仍然不能划等号，后者需要满足更多的前提假设。一般地，在严格的实验设计下，如果已经控制了无关变量，CLM可以用来揭示变量之间的因果关系(温忠麟,2017)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CLM 模型定义相对单，对测量次数要求也不多，也能在一定程度上揭示不同变量随时间变化的相互影响关系，应用领域涉及到个体特质、教育成果与精神疾病特征等领域的长期性、滞后性影响的追踪研究(Cacioppo et al.,2017; Chiu & Du, 2019; Liu& Hou,2018; Selzler et al.,2019)。国内这方面研究主要集中在青少年问题行为、抑郁、能力发展的影响因素等方面(陈红君 等,2019;纪林芹 等,2018)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2潜增长模型：个体增长趋势 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另一类问题是描述个体增长趋势，包含总体增长形态的特点及其是否存在个体差异(即发展群体的同质性)。潜增长模型(Latent Growth Model，LGM，Bollen &Curran,2006)是建立在SEM视角下，通过定义带有均值结构的验证性因素分析模型，固定特殊载荷大小来实现增长趋势的描述。以线性LGM为例(公式3-公式4):",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测量部分yit =ni +(t-1)ni +εi (3)结构部分 $\\left\\{ \\begin{array} { l l } { \\eta _ { 1 i } = \\kappa _ { 1 } + \\zeta _ { 1 i } } \\\\ { \\eta _ { 2 i } = \\kappa _ { 2 } + \\zeta _ { 2 i } } \\end{array} \\right.$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $y _ { \\mathrm { i f } }$ 表示被试 $i$ 在第 $t$ 次的观测指标，其测量误差分别对应 $\\varepsilon _ { \\mathrm { i t } }$ 。定义两个潜变量：截距 $\\eta _ { \\mathrm { 1 i } }$ 和线性斜率 $\\eta _ { 2 \\mathrm { i } }$ ，潜变量因子的均值分别对应 $\\kappa _ { 1 }$ 和 $\\kappa _ { 2 }$ ，方差对应于 $\\mathrm { v a r } ( \\zeta _ { 1 } )$ 和 $\\mathrm { v a r } ( \\zeta _ { 2 } )$ ， $\\zeta _ { \\mathrm { 1 i } }$ 和 $\\zeta _ { 2 \\mathrm { i } }$ 服从联合正态分布。其中，潜变量 $\\eta _ { \\mathrm { 1 i } }$ 和 $\\eta _ { \\mathrm { 2 i } }$ 的系数矩阵 $\\mathbf { A }$ 可以根据时间和形态灵活定义或增减斜率因子，诸如二次增长模型、不定义增长曲线模型和单因素增长曲线模型等(唐文清等,2014；王孟成，毕向阳,2018)。除了连续的增长之外，还可以定义间断增长的趋势，如多阶段增长模型(piecewise growth model,Liu et al.,2018;Lock et al.,2018)。一般对于两个因子的线性增长模型，3次测量是保证模型识别的最低要求，而如果需要增加增长因子(如二次、多阶段因子)，需要增加测量次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4637d9e262ed8f5bf6067320dc10fe0eb3caf9ed202b724a3a17695a946c0a4.jpg",
+        "img_caption": [
+            "图2潜增长模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "描述个体增长趋势有助于研究者把握个体发展的形态，从而根据不同阶段的发展特征制定不同的教育政策或干预手段。如果需要从政策或根源上来干预增长，模型中一般会考虑非时变(time-invariant)协变量，他们不会随着时间的变化而变化，其影响也会较为持久、滞后。如学生的性别、社会经济地位、历史事件等相对稳定的因素(Diallo et al.,2017;Liu et al.,2020)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果干预是即刻的，则时变(time-variant)协变量更为精准。他们属于状态类的变量，其影响是及时的、变化的。此时，多水平模型(MultilevelModel，MLM)中的时变协变量定义方式也可以纳入LGM的研究当中(Liu etal.,2016;McCoach&Kaniskan,2010)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LGM 模型定义也相对简单，研究者如果有3次以上的追踪则可使用该模型建模。LGM将变化分解为初始状态和增长趋势，可以宏观地从两个维度来考察总体增长趋势，在SEM框架下定义也相当灵活。国内的应用研究近年逐日增多，集中在儿童青少年社会能力、孤独感、自我概念、积极适应的发展和老年人的认知功能发展等方面(侯桂云 等，2018；李彩娜 等，2017；李振兴 等,2017；刘俊升 等,2013；张晓,2011)。其中，也包含时间跨度较短的状态类变量，如人际冒犯、抑郁等(程刚 等,2016；杨满云 等,2017)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3测量误差与随机截距 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以上回顾了两个“基础模型”，可以在他们基础之上添加一些特殊议题，将变异进一步分解。以交叉滞后模型为载体，借用 SEM的思路，考察每个指标的测量误差，可以建立“因子交叉滞后模型(Factor Cross-Lagged Model， FCLM)\"(Jöreskog & Sorbom,1974; McArdle, 2009;Usami et al., 2015)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "测量部分：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { x _ { i t } = F _ { x i t } + \\varepsilon _ { x i t } } } \\\\ { { y _ { i t } = F _ { y i t } + \\varepsilon _ { y i t } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结构部分：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { F _ { x i t } = \\mu _ { x t } + \\beta _ { x t } F _ { x i ( t - 1 ) } ^ { * } + \\gamma _ { x t } F _ { y i ( t - 1 ) } ^ { * } + d _ { x i t } } \\\\ { F _ { y i t } = \\mu _ { y t } + \\beta _ { y t } F _ { y i ( t - 1 ) } ^ { * } + \\gamma _ { y t } F _ { x i ( t - 1 ) } ^ { * } + d _ { y i t } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $F _ { \\mathrm { x i t } }$ 和 $F _ { \\mathrm { y i t } }$ 表示潜变量，是分别排除了测量误差 $\\varepsilon _ { \\mathrm { x i t } }$ 和 $\\varepsilon _ { \\mathrm { y i t } }$ 之后的真分数。在FCLM模型中，交叉滞后系数都建立在潜变量上，当测量误差为0时，FCLM可以简化成标准CLM模型。与此同时，FCLM当中每个测量指标到因子之间的路径系数限定为1，测量误差服从联合正态分布，需要至少3次测量能满足模型识别的要求。如果每次的测量模型为多指标，可以按照SEM模型识别的要求建立测量模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/634352e32cf4b7c7e8d188ebe402fb98e48cf3d609d9ffcf5f9e9955992287d7.jpg",
+        "img_caption": [
+            "图3因子交叉滞后模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另一方面，自回归系数虽然描述了跨时稳定性，但是其即使在很高的情况下，经过足够长的时间，原始的秩序也会丢失（如图1中 $\\vert x _ { 1 } \\to x _ { 4 }$ 的自回归间接效应为乘积 $\\beta _ { \\mathrm { x } 2 } \\beta _ { \\mathrm { x } 3 } \\beta _ { \\mathrm { x } 4 }$ ，其值小于1)。随机截距交叉滞后模型(Random Intercept Cross Lagged Model，RI-CLM)的建模方式是将交叉滞后模型增加一个随机截距项，用来描述真正的非时变的特质(time-invariant,trait-like stability，参见Hamaker etal.,2015;Mulder&Hamaker,202O)。具体建模方式如下",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { x _ { i t } = \\mu _ { x t } + \\eta _ { 1 x i } + x _ { i t } ^ { * } } \\\\ & { y _ { i t } = \\mu _ { y t } + \\eta _ { 1 y i } + y _ { i t } ^ { * } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $x _ { i t } ^ { * } = \\beta _ { x t } x _ { i ( t - 1 ) } ^ { * } + \\gamma _ { x t } y _ { i ( t - 1 ) } ^ { * } + d _ { x i t } , ~ y _ { i t } ^ { * } = \\beta _ { y t } y _ { i ( t - 1 ) } ^ { * } + \\gamma _ { y t } x _ { i ( t - 1 ) } ^ { * } + d _ { y i t }$ 。在这个模型中,$\\eta _ { \\mathrm { 1 \\dot { \\mathrm { x i } } } }$ 和 $\\eta _ { \\mathrm { 1 y i } }$ 表示非时变稳定因子，用以呈现跟特质相关的因素，固定其对于所有测量指标的影响都为1。这里，区别于LGM模型， $\\eta _ { \\mathrm { 1 x i } }$ 和 $\\eta _ { \\mathrm { 1 y i } }$ 均值为0，其方差协方差矩阵 $\\Phi$ 和截距项 $\\mu _ { \\mathrm { x t } }$ 和 $\\mu _ { \\mathrm { y t } }$ 自由估计。一般要求至少3次测量能满足模型识别的要求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于引入了特质变量，可以将个体发展的变异分解为个体间变异(between-persondifference)和个体内变异(within-person difference)，这是此类模型进行拓展的重要出发点(Bainter & Howard,2016; Curran & Bauer, 2011; Hamaker et al.,2015; Voelkle et al.,2014;袁帅等，2021)。其中，个体间变异来源为提取所有个体在数次测量之间的公共因素，表示个体跨时间的稳定的特征；个体内变异是每个个体在数次测量之间的滞留影响，表示个体本次状态受到先前状态的影响(Hamaker etal; 2015)。在RI-CLM中，加入随机截距的目的在于将稳定的、不随时间变化的变异真正分解为非时变的特质(个体间变异)和跨时稳定性(个体内变异)因素。此时，自回归系数 $\\beta _ { \\mathrm { x t } }$ 和 $\\beta _ { \\mathrm { y t } }$ 被称为个体内滞留参数(within-person carry-over，Hamaker etal.,2015)，亦被称为个体惰性(inertia，Mulder & Hamaker, 2020)。如果将RI-CLM的 $\\eta _ { \\mathrm { 1 x i } }$ 和 $\\eta _ { \\mathrm { 1 y i } }$ 限定成0时，就成为一个标准CLM模型，表示没有跨时间的稳定特质，即不存在个体间差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/14170cec6aa55089132ac2e5932c05cd366d3134ad648cf9ec234b62506c82e6.jpg",
+        "img_caption": [
+            "图5.随机截距交叉滞后模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在SEM 框架下，很容易将测量误差与随机截距模型结合，得到\"特质-状态-误差\"模型(Trait-State-Error，TSE，Kenny& Zautra,1995,2001)。并且，这个考察单个变量变化的模型很快拓展到多元情形(Luhmann et al.,2011; Zautra et al.,1995)。首先,TSE模型考虑测量误差，即每个题目都有各自的测量信度(公式5)。分解出测量误差 $\\varepsilon _ { \\mathrm { x i t } }$ 和 $\\varepsilon _ { \\mathrm { y i t } }$ 后，真分数 $F _ { \\mathrm { x i t } }$ 和 $F _ { \\mathrm { y i t } }$ 的变异继续被分解成两个部分：一部分是稳定特质 $( \\eta _ { \\mathrm { 1 x } } )$ 和 $\\eta _ { \\mathrm { 1 y i } } )$ 的影响，一部分是状态 $( F ^ { * } \\mathrm { { _ { x i t } } }$ 和 $F _ { \\mathrm { \\ y i t } } ^ { * } )$ （20之间的关系(包括自回归系数 $\\beta _ { \\mathrm { x t } }$ 和 $\\beta _ { \\mathrm { y t } }$ 、交叉滞后系数 $\\gamma _ { \\mathrm { x t } }$ 与 $\\gamma _ { \\mathrm { y t } }$ 两部分):",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { F _ { x i t } = \\mu _ { x t } + \\eta _ { 1 x i } + \\beta _ { x t } F _ { x i ( t - 1 ) } ^ { * } + \\gamma _ { x t } F _ { y i ( t - 1 ) } ^ { * } + d _ { x i t } } \\\\ & { F _ { y i t } = \\mu _ { x t } + \\eta _ { 1 y i } + \\beta _ { y t } F _ { y i ( t - 1 ) } ^ { * } + \\gamma _ { y t } F _ { x i ( t - 1 ) } ^ { * } + d _ { y i t } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "一般地，特质与状态的影响都固定为1。如果假定时变的参数，比如自回归参数 $\\beta$ 、交叉滞后参数 $\\gamma _ { \\setminus }$ 残差和协方差矩阵都随着 $t$ 的不同而自由估计，要求至少4次测量能满足模型识别的要求。如果假定非时变的参数，即上述参数都限定为相等，3次测量即可满足模型识别要求。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c5191a1999eac73751906bc299e104dce48eb49cb3a27b1ba290414cfab7e13.jpg",
+        "img_caption": [
+            "图6特质-状态-误差模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TSE 中，随机截距的 $\\eta _ { \\mathrm { 1 x i } }$ 和 $\\eta _ { \\mathrm { 1 y i } }$ 代表非时变因子，即个体的特质(trait)，是“个体间差异\";自回归和交叉滞后部分表示了当前的测量受到前一次测量的影响，是“个体内差异”，此二者与 RI-CLM相同。与此同时，考察每个测量指标的真分数，被称之为个体的状态(state)，不能被解释的部分是误差(error)，此与FCLM相同。不难看出，TSE 同时包含了随机截距和测量误差，是将RI-CLM和FCLM进行了整合。也有研究者将误差固定为0后将其看成是考虑了测量信度的RI-CLM模型(Mulder&Hamaker,2020)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "该模型在后续发展中改名为\"稳定特质自回归特质与状态模型(Stable Trait AutoregressiveTrait and State Model， STARTS)” (Kenny & Zautra, 2001; Schmitt & Steyer, 1993)。 STARTS 在命名上区分了两种\"特质”：稳定特质指来自于随机截距的部分 $( \\eta _ { \\mathrm { 1 x i } }$ 和 $\\eta _ { \\mathrm { 1 y i } } )$ ，即“个体间变异”;自回归特质 $( \\beta _ { \\mathrm { x t } }$ 和 $\\beta _ { \\mathrm { y t } } )$ 即“个体内滞留影响”。状态指每次测量的真分数 $( F _ { \\mathrm { x i t } }$ 和 $F _ { \\mathrm { y i t } } )$ ，即排除“测量误差”。所以在命名上，STARTS 更为精确。由于 STARTS 和TSE 只是命名上的区分，为了简化，仍然将此模型称之为\"特质-状态-误差\"模型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TSE 模型优点在于可以分离出状态和特质两个因子的心理学概念；同时，它将往复式影响精确定位到个体内层面，被广泛地应用在发展心理学和临床领域中。如抑郁，可分为特质与状态两个层面，前者是个体稳定的特质，随时间推移保持稳定；而后者是情境变量，随时间推移而变化(Hazel & Hankin,2014; Kiken et al.,2015; Masselink et al.,2018)。分离出稳定的特质和变化的状态之后，研究者可以根据其占比大小，进行适当的干预，特别是从特质因素的根源出发，寻找更有效的诊断方法。例如Masselink 等人(2018)通过三个不同样本、不同时间跨度的研究发现，RI-CLM 建模指向“个体内仅有自尊负向预测抑郁\"的结论，自尊和抑郁的负相关是源于特质层面；而CLM建模则指向\"个体内自尊和抑郁之间存在负向的往复式影响\"的结论。该研究的差异化结果恰好证实了贝克认知理论(Beck's cognitive theory)当中的易感模型(vulnerability model)：低自尊的个体容易抑郁；而本来就难以检测的创伤模型(scarmodel)在RI-CLM模型中被证伪。说明使用CLM检测的灵敏度不如RI-CLM，后者能更精准地定位出差异源于何处。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.4自回归模型与潜增长模型结合",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将交叉滞后模型与潜增长模型结合，可以同时考察往复式影响与增长趋势，其建模方式主要有两种思路。第一种建模方法是以交叉滞后模型为基础模型，在其基础之上增加潜增长因子。其中较早提出来的是Curran 和 Bollen (2001)的自回归潜增长模型(Autoregressive LatentTrajectory，ALT，Curran&Bollen,2001)。其建模方式如下。",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { x _ { i t } = \\eta _ { 1 x i } + ( t - 1 ) \\eta _ { 2 x i } + \\beta _ { x t } x _ { i ( t - 1 ) } ^ { * } + \\gamma _ { x t } y _ { i ( t - 1 ) } ^ { * } + d _ { x i t } ( t > 1 ) } \\\\ & { y _ { i t } = \\eta _ { 1 y i } + ( t - 1 ) \\eta _ { 2 x i } + \\beta _ { y t } y _ { i ( t - 1 ) } ^ { * } + \\gamma _ { y t } x _ { i ( t - 1 ) } ^ { * } + d _ { y i t } ( t > 1 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在结合的时候，注意到 $x _ { 1 }$ 和 $y _ { 1 }$ 定义的区别。因为在交叉滞后模型当中， $x _ { 1 }$ 和 $y _ { 1 }$ 是不受模型内其他变量影响的，属于\"外源变量”；而在定义增长因子的时候， $x _ { 1 }$ 和 $y _ { 1 }$ 被当成\"指标”。因为ALT的载体为交叉滞后模型，所以需要将 $x _ { 1 }$ 和 $y _ { 1 }$ 考虑成外源变量，即设定 $x _ { 1 }$ 和 $y _ { 1 }$ 与增长因子之间为相关并自由估计(Curran& Bollen，2001; Jongerling& Hamaker，2011； Zyphur,Voelkle et al.,2020)。此外，如果将斜率项 $\\eta _ { 2 \\mathrm { x i } }$ 和 $\\eta _ { 2 \\mathrm { y i } }$ 限定为0，则得到RI-CLM模型(公式7),故 RI-CLM是ALT 的一个特例。该模型需要有5次测量才能满足时变参数模型的识别要求，而如果限定为非时变参数，4次测量即可。Usami等人(2019)也把ALT模型称之为\"累积增长模型”，增长因子被看成是两个“累积因子(accumulating factors)”。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/046e969464b5fccf086203ac276c21b57e3f8687a5143a84a5205af795ea6eae.jpg",
+        "img_caption": [
+            "图7自回归潜增长模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第二种建模方式以潜增长模型为基础模型，在其基础之上增添交叉滞后的影响系数。其代表为结构化残差潜增长模型(Latent Curve Model with Structured Residuals，LCM-SR,Bainter& Howard,2016;Curran et al.,2014)。它与 ALT 模型的出发点不同：ALT 出发点是自回归，以此添加个体间变异(从个体内影响中分离出个体间变异)；LCM-SR 出发点是潜增长，以此添加交叉滞后影响(从个体间变异种分离出个体内影响)。所以，LCM-SR 不纠结于第一次测量是否为外源变量，直接将因子潜变量作用于所有测量指标，并且在测量部分添加交叉滞后效应(图8)。建模可以表示为",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { x _ { i t } = \\eta _ { 1 x i } + ( t - 1 ) \\eta _ { 2 x i } + \\beta _ { x t } \\varepsilon _ { x i ( t - 1 ) } ^ { * } + \\gamma _ { x t } \\varepsilon _ { y i ( t - 1 ) } ^ { * } + d _ { x i t } } \\\\ { y _ { i t } = \\eta _ { 1 y i } + ( t - 1 ) \\eta _ { 2 x i } + \\beta _ { y t } \\varepsilon _ { y i ( t - 1 ) } ^ { * } + \\gamma _ { y t } \\varepsilon _ { x i ( t - 1 ) } ^ { * } + d _ { y i t } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { \\varepsilon } ^ { * } _ { \\mathrm { x i ( t - 1 ) } }$ 和 $\\varepsilon ^ { * } \\mathrm { _ { y i ( t - 1 ) } }$ 是不能被增长因子所解释的误差项，在他们之间建立自回归和交叉滞后参数。在LCM-SR中，更清晰地看到观测变量的变异被分解到了被试间和被试内两部分。被试间变异表示为潜增长模型部分，被截距项 $( \\eta _ { \\mathrm { 1 x i } } , ~ \\eta _ { \\mathrm { 1 y i } } )$ 和斜率项 $( \\eta _ { 2 \\mathrm { { x i } } } , \\ \\eta _ { 2 \\mathrm { { y i } } } )$ 解释；被试内变异是误差项 $\\boldsymbol { \\varepsilon } ^ { * } _ { \\mathrm { x i ( t - 1 ) } }$ 和 $\\varepsilon _ { \\mathrm { ~ \\ y i ( t - 1 ) ~ } } ^ { * }$ ，将自回归和交叉滞后的影响直接定义在测量误差之间(Bainter &",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Howard,2016;Mulder&Hamaker,2020)。由于误差项本身也是潜变量，故LCM-SR 模型的组内差异建立在潜变量上。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "实际中如何定义误差之间的关系？如果将 $\\varepsilon ^ { * }$ 看成是 $F ^ { * }$ 的一个特例，那 $\\varepsilon ^ { * }$ 即潜变量因子，定义其观测指标 $x$ 和 $y$ 的\"测量误差\"为0(观测指标不再含有其他的误差因子)，就巧妙地将理论定义操作化了(参见Mulder& Hamaker, 2020; Zyphur,Alison,et al.,2020)。LCM-SR要求 4次测量满足时变参数的识别要求，如果限定为非时变参数则需要3次测量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对比两种建模思路可知，除了是否假设第一次测量为外源变量之外，ALT和LCM-SR的建模差异集中在交叉滞后的影响是哪一类变量所指向的。ALT当中的交叉滞后影响直接建立在观测变量上，即不考虑测量误差；而LCM-SR当中的交叉滞后影响建立在测量误差上，即潜变量上。如果将 ALT模型进行拓展，考虑其每个观测变量的测量模型，但是限定这些测量模型的\"测量误差\"为0,即可得到LCM-SR模型(除第一次测量为外源变量)。换言之，LCM-SR可以粗略看成是一个带有因子的ALT模型在经过限定其测量误差为0的基础上得到的。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/215d4dedb9b9b43420327e472a46a41aa6855e6c206c4967f509ccd5218437c3.jpg",
+        "img_caption": [
+            "图8结构化残差潜增长模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "除上述两类建模思想以外，潜变化分数模型(Latent Change Score Model，LCS)，或潜差异分数模型(Latent Difference Score Model，LDS)，也是同一时期衍生出来的同时关注交叉滞后与潜增长的模型(McArdle&Hamagami, 2001)。LCS 在模型定义上，首先纳入了测量误差(公式 5)，然后构造\"因素差异\"(公式11)，并且用差异分数作为指标构造增长特质 $( \\eta _ { \\mathrm { l x i } }$ 和 $\\eta _ { \\mathrm { 1 y i } }$ ，公式12)，即",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { F _ { x i t } = F _ { x i ( t - 1 ) } + \\Delta F _ { x i t } } \\\\ & { F _ { y i t } = F _ { y i ( t - 1 ) } + \\Delta F _ { y i t } \\left( 1 1 \\right) } \\\\ & { \\Delta F _ { x i t } = \\alpha _ { x t } \\eta _ { 1 x i } + \\beta _ { x t } F _ { x i ( t - 1 ) } ^ { * } + \\gamma _ { x t } F _ { y i ( t - 1 ) } ^ { * } + d _ { x i t } ( t > 1 ) } \\\\ & { \\Delta F _ { y i t } = \\alpha _ { y t } \\eta _ { 1 y i } + \\beta _ { y t } F _ { y i ( t - 1 ) } ^ { * } + \\gamma _ { y t } F _ { x i ( t - 1 ) } ^ { * } + d _ { y i t } ( t > 1 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "模型中的增长特质 $\\eta _ { \\mathrm { 1 \\check { x } } }$ 和 $\\eta _ { \\mathrm { 1 y i } }$ 被称为\"斜率”，但容易将上述公式进行转换，将公式12 带入公式11，得到",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\boldsymbol { F } _ { x i t } = \\alpha _ { x t } \\eta _ { 1 x i } + ( 1 + \\beta _ { x t } ) \\boldsymbol { F } _ { x i ( t - 1 ) } ^ { * } + \\gamma _ { x t } \\boldsymbol { F } _ { y i ( t - 1 ) } ^ { * } + d _ { x i t } ( t > 1 ) } \\\\ & { \\boldsymbol { F } _ { y i t } = \\alpha _ { y t } \\eta _ { 1 y i } + ( 1 + \\beta _ { y t } ) \\boldsymbol { F } _ { y i ( t - 1 ) } ^ { * } + \\gamma _ { y t } \\boldsymbol { F } _ { x i ( t - 1 ) } ^ { * } + d _ { y i t } ( t > 1 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "可知,LCS(公式13)中的“斜率因子”— $\\eta _ { \\mathrm { 1 \\mathrm { { s i } } } }$ 和 $\\eta _ { \\mathrm { 1 y i } }$ —其实本质上仍然是 ALT 当中的一个\"截距因子\"(Usami et al.,2015; Usami et al.,2016)。因子载荷 $a _ { \\mathrm { x t } }$ 和 $a _ { \\mathrm { y t } }$ 代表了每次测量的权重。在传统LCS 模型中， $a _ { \\mathrm { x t } }$ 和 $\\alpha _ { \\mathrm { y t } }$ 是设定为非时变的，即 $\\scriptstyle a _ { \\mathrm { x t } } = a _ { \\mathrm { y t } } = 1$ ；若将此限定放宽，即得到时变的截距项 $a _ { \\mathrm { x t } } \\eta _ { \\mathrm { 1 s \\dot { i } } }$ 和 $a _ { \\mathrm { y t } } \\eta _ { \\mathrm { l y i } }$ ,也被称为三重变化分数模型(triple change score,TCS,McArdle& Nesselroade，2014)。这样就可以在LCS 基础上对协方差的进行限定，得到FCLM模型(公式6)。所以,二者具备嵌套关系,可将FCLM看成是LCS的一个特例(Usami etal.,2015,2016)。除此之外，二者的自回归系数的定义也略有差异。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "同时关注潜增长和交叉滞后的模型在模型的解释与应用上相对复杂，常被应用在发展与临床研究当中(Berry & Willoughby,2017; Cole et al.,2005; Curran et al.,2014; Ding et al.,2020;Malone et al.,2004)。这类模型解决的核心问题是：控制了稳定的个体间变异以后，个体内是否仍然存在发展惰性或变量之间的往复式影响。由于在CLM中往复式影响杂糅了稳定的成分，所以传统模型的参数估计与整合后的模型结果或大相径庭；而如果考察的目标变量确实存在这种\"特质\"(研究中常提到的抑郁、焦虑、自尊等心理学成分)，不经控制的模型会高估这种影响。例如,Berry 和Willoughby(2017)的研究中通过两组真实数据对这类数据进行建模，探索儿童的攻击行为与父母的体罚(打屁股，spanking)之间的关系。发现在纳入了增长模型之后，体罚行为随着时间推移，频次降低(斜率为负)，但是攻击行为有所增加；两种行为的交叉滞后影响不显著。但是对比传统CLM，两种行为之间存在交叉滞后影响。研究者指出，往复式影响或不应发生在每个层面。因为个体间的变异应是稳定的非时变效应，而个体内变异应是变化的、波动的，所以剔除个体间变异对于模型的可靠性更是必要的前提(Berry &Willoughby,2017)。所以，在个体间层面，儿童的攻击行为受到父母体罚行为的正向影响，然而这并不会发生在个体内。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2模型整合与拓展",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "这类研究的核心问题在于如何分解变异。潜增长模型所提取出来的总体增长趋势被看成是个体间变异；不能被它解释的，即交叉滞后模型探索的，是个体内变异(Bainter＆Howard,2016; Hamaker et al.,2015; Murayama et al.,2017)。在提取公共因子之前，往复式影响发生在个体的所有层面，但是当分离出特质变量之后，往复式影响被定位到个体内层面。本节的模型整合与拓展思路将按照追踪研究主要解决的问题来展开，旨在解决如何精确定位往复式影响和增长趋势的问题。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "首先，研究者若关注往复式影响，可以建立交叉滞后模型(CLM)；若关注个体增长趋势，则可建立潜增长模型(LGM)。然后，分别以CLM或LGM为基础模型，添加相应的变异分解成分。诸如测量误差，以潜变量指标代替观测变量进行建模，或者根据研究需要只关注截距因子或斜率因子。若考察所有因素，可以将上述模型进行拓展，得到整合的模型——以CLM为基础模型的潜变量自回归潜增长模型(Latent Variable Autoregressive Latent Trajectory,LV-ALT，Bianconcini& Bollen，2018)，以及以LGM为基础模型的因子结构化潜增长模型(Factor Latent Curve Model with Structured Reciprocals， FLCM-SR)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "以LV-ALT为例(CLM为基础模型)，其模型建构表示如公式14所示(图9)。",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { F _ { x i t } = \\eta _ { 1 x i } + ( t - 1 ) \\eta _ { 2 x i } + \\beta _ { x t } F _ { x i ( t - 1 ) } ^ { * } + \\gamma _ { x t } F _ { y i ( t - 1 ) } ^ { * } + d _ { x i t } ( t > 1 ) } \\\\ & { F _ { y i t } = \\eta _ { 1 y i } + ( t - 1 ) \\eta _ { 2 y i } + \\beta _ { y t } F _ { y i ( t - 1 ) } ^ { * } + \\gamma _ { y t } F _ { x i ( t - 1 ) } ^ { * } + d _ { y i t } ( t > 1 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/96e99c5732cf88da89523bc54faca82996cc3173614192f43f936266196d04fd.jpg",
+        "img_caption": [
+            "图9潜变量自回归潜增长模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "建模当中的各个参数同前文。首先考虑测量误差(公式5)，自回归和增长曲线均在真分数$F _ { \\mathrm { x i t } }$ 和 $F _ { \\mathrm { y i t } }$ 上建模。其次，考虑个体的增长形态，即截距 $( \\eta _ { \\mathrm { 1 x i } }$ 和 $\\eta _ { \\mathrm { 1 y i } } )$ 和斜率 $( \\eta _ { 2 \\mathrm { x i } }$ 和 $\\eta _ { 2 \\mathrm { y i } }$ )，其系数固定为特定的增长形态(其与第一次测量真分数 $F _ { \\mathrm { x l } }$ 和 $F _ { \\mathrm { y 1 } }$ 设定为相关而非增长形态)。在此基础上，建立自回归影响 $( \\beta _ { \\mathrm { x t } } , ~ \\beta _ { \\mathrm { y t } } )$ 和往复式影响 $( \\gamma _ { \\mathrm { { x t } } } , \\ \\gamma _ { \\mathrm { { y t } } } )$ 。LV-ALT 模型识别要求可分两阶段进行：结构部分的识别同ALT，时变效应需要5次测量，4次测量要求限定线性增长，3次测量要求进一步限定自回归系数相等；测量部分的识别与一般验证性因素分析模型相同(Bianconcini & Bollen, 2018)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "另一种建模思路，以LGM 模型为基础模型，包含了所有分解变异成分的模型即为因子结构化潜增长模型(FLCM-SR)。其构建方法如公式15。",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { F _ { x i t } = \\eta _ { 1 x i } + ( t - 1 ) \\eta _ { 2 x i } + \\beta _ { x t } F _ { x i ( t - 1 ) } ^ { * } + \\gamma _ { x t } F _ { y i ( t - 1 ) } ^ { * } + d _ { x i t } } \\\\ { F _ { y i t } = \\eta _ { 1 y i } + ( t - 1 ) \\eta _ { 2 y i } + \\beta _ { y t } F _ { y i ( t - 1 ) } ^ { * } + \\gamma _ { y t } F _ { x i ( t - 1 ) } ^ { * } + d _ { y i t } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "这里，观测指标的变异首先被看成是包含真分数和测量误差(公式5)，然后将真分数 $F _ { \\mathrm { x i t } }$ 和 $F _ { \\mathrm { y i t } }$ 的变异分解为个体间变异(包含截距 $\\eta _ { \\mathrm { 1 x i } }$ 和 $\\eta _ { \\mathrm { 1 y i } } .$ 斜率 $\\eta _ { 2 \\mathrm { x i } }$ 和 $\\eta _ { 2 \\mathrm { y i } } )$ 、个体内变异(包含 $F ^ { * } { } _ { \\mathrm { x i ( t - 1 ) } }$ 和 $F _ { \\mathrm { \\ y i ( t - 1 ) } } ^ { * }$ 的自回归影响和往复式影响)和残差( $\\cdot d _ { \\mathrm { x i t } }$ 和 $d _ { \\mathrm { y i t } } )$ 。注意到公式15中的 $F ^ { * }$ 相当于公式10中的 $\\varepsilon ^ { * }$ ，这意味着FCLM-SR模型中将结构化残差因子看成是真正的潜变量，追加每个观测指标真正的测量误差(公式 5)。具体操作层面，在LCM-SR 基础之上放宽观测指标测量误差为0的假设即可(附录3)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed0ac796ebb4ef82e0253b62d93ac1ea1f980fbd88c0f2f6b5d5c20b861dc34c.jpg",
+        "img_caption": [
+            "图10因子结构化潜增长模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "对比LV-ALT，可知FCLM-SR 将公式14中 $t { > } 1$ 的限定放宽，忽略第一次测量的外源变量性质。从图10来看，截距 $\\eta _ { \\mathrm { 1 x i } }$ 和 $\\eta _ { \\mathrm { 1 y i } }$ 直接作用于 $x _ { 1 }$ 和 $y _ { 1 }$ 并固定载荷为1，而不再添加因子之间的相关；其他的建模与LV-ALT 相同。换言之，两类模型在建模过程中的核心问题仍然为\"是否将第一次测量看成外源变量”，其他的参数设定都只是在整体框架当中的特殊案例。这样的假设在实证当中具有可操作性，可以让第一次观测指标从属于个体间变异，即从研究一开始就存在固定的特质。因为实证研究的首次测量点并不一定是特质发展当中真正的\"原点”，或存在于整个研究外部的真正的外源变量。故可在实证过程中直接用第一次的观测指标建模了，由此一来对于结构模型识别的要求也可以减少一次观测指标(时变模型4次测量、非时变模型3次测量)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Usami 等人(2019)在对上述模型进行整合的时候，将变异分解为：(1)测量误差(measurement error)，诸如因子交叉滞后模型、特质-状态-误差模型中对测量信度的考察；(2)成分方程(decomposition equation)，即潜增长部分，包括只有随机截距与同时包含截距和斜率的情况；(3)动态方程(dynamic)，指将第一次测量看成外源变量之后的建模。但是该整合框架问题在于，成分方程和动态方程并不能够同时建模——实质上，动态方程表示了以交叉滞后模型为基础的建模思想，而成分方程表示了以潜增长模型的建模思想。故重新对多变量追踪研究的系列模型所包含的成分进行分解，分别以交叉滞后模型和潜增长模型为基础模型，直接对研究者都比较熟悉的几个成分进行增减建模。拓展框架如表1所示。",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/f05acc4d33a85dfa28e5b536b88135440bc27280a100d3ba88a748f04c071a76.jpg",
+        "table_caption": [
+            "表1交叉滞后与潜增长系列模型的成分构成一览"
+        ],
+        "table_footnote": [
+            "注.‘截距因子的均值为0。假设第一次观测变量为外源变量(与增长因子为相关)。‘限定为0。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>均值 截距因子</td><td></td><td>斜率因子</td><td>滞后残差</td><td>测量误差</td></tr><tr><td>基础模型1：交叉滞后模型(CLM)</td><td>√</td><td></td><td></td><td>√</td><td></td></tr><tr><td>因子交叉滞后模型(F-CLM)</td><td>√</td><td>·</td><td></td><td>√</td><td>√</td></tr><tr><td>随机截距交叉滞后模型(RI-CLM)</td><td>√</td><td>√a</td><td></td><td>√</td><td></td></tr><tr><td>特质-状态-误差模型(TSE/STARTS)</td><td>√</td><td>√a</td><td></td><td>√</td><td>√</td></tr><tr><td>自回归潜增长模型(ALT)</td><td></td><td>Vb</td><td>√b</td><td>√</td><td>·</td></tr><tr><td>潜变量自回归潜增长模型(LV-ALT)</td><td></td><td>√b</td><td>√b</td><td>√</td><td>√</td></tr><tr><td>基础模型2：潜增长模型(LGM)</td><td></td><td>√</td><td>√</td><td></td><td></td></tr><tr><td>结构化残差潜增长模型(LCM-SR)</td><td></td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>因子结构化残差潜增长模型(FLCM-SR)</td><td>?</td><td>√</td><td>√</td><td>√</td><td>√</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "交叉滞后模型当中，不考虑测量误差，也不考虑增长形态，建模最简单。在此基础上，可以分别考察测量误差(因子交叉滞后模型)和随机截距(随机截距交叉滞后模型)，或将二者同时考虑(特质-状态-误差模型)；在此基础上，加入增长模型(自回归潜增长模型)及其测量误差(潜变量自回归潜增长模型)。另一个思路是潜增长模型，不考虑交叉滞后，也不考虑测量误差，建模也相对简单。在此基础上，考虑交叉滞后成分(结构化潜增长模型)，或进一步考虑测量误差(因子结构化残差潜增长模型)。两种思路最终统一于LV-ALT/FCLM-SR。研究者在选用模型的时候，应该以某一类模型为基础模型，在此基础上添加相应的变异分解成分。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3实证应用：往复式影响与个体发展的模型比较",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3.1数据与变量",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "采用美国国家教育统计中心(National Center for Education Statistics，NCES)提供的早期儿童的追踪研究-幼儿园版(Early Childhood Longitudinal Study-Kindergarten cohort，ECLS-K,https://nces.ed.gov/ecls/)。该追踪研究调查了1998-1999 年入学的 21409 名学生，用长达9年的追踪调查了从幼儿园到八年级的学生的智力发展情况和来自不同层面的影响因素。数据测量了7个时间点：幼儿园秋季学期，幼儿园春季学期，一年级秋季学期，一年级春季学期，三年级春季学期，五年级春季学期和八年级春季学期。测量的指标有直接认知能力(包括阅读成绩、数学成绩和科学成绩)、间接认知能力(包括教师对学生认知能力的整体评价，采用行为量表计分)、学生的自我描述以及学生的自我概念和控制点。由于第三次(一年级下期)只对其中 $3 0 \\%$ 的被试进行了调查，本研究中没有采用这一次的调查数据，只使用了其余六次测量的数据，有效样本21049名。第一次测试时学生的平均年龄68.47月，标准差4.21月，最大值79个月，最小值54个月。测量指标采用等值后的阅读能力和数学能力IRT分数，可以进行跨年级比较。测验设计进一步的信息可以参考相应的技术报告。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "数据中的阅读(r)与数学(m)能力的不同年级的均值和标准差以及相关矩阵如下所示。",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3e5ee4d39ab2b02d38b70a682968c04e5078f518ced9c3587a6233975fb7b31.jpg",
+        "table_caption": [
+            "表2ECLS-K学生阅读与数学能力发展均值、标准差与相关"
+        ],
+        "table_footnote": [
+            "注．相关系数均达到 $p { < } . 0 0 1$ 水平。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>r1</td><td>r2</td><td>r4</td><td>r5</td><td>r6</td><td>r7</td><td>m1</td><td>m2</td><td>m4</td><td>m5</td><td>m6</td><td>m7</td></tr><tr><td>r1</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>r2</td><td>.805</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>r4</td><td>.692</td><td>.791</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>r5</td><td>.627</td><td>.683</td><td>.775</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>r6</td><td>.604</td><td>.654</td><td>.732</td><td>.862</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>r7</td><td>.551</td><td>.569</td><td>.625</td><td>.761</td><td>.802</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>m1</td><td>.784</td><td>.735</td><td>.689</td><td>.673</td><td>.657</td><td>.597</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>m2</td><td>.703</td><td>.765</td><td>.708</td><td>.690</td><td>.675</td><td>.608</td><td>.834</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>m4</td><td>.598</td><td>.658</td><td>.729</td><td>.691</td><td>.677</td><td>.606</td><td>.732</td><td>.796</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>m5</td><td>.583</td><td>.624</td><td>.668</td><td>.745</td><td>.730</td><td>.676</td><td>.713</td><td>.764</td><td>.803</td><td>1.000</td><td></td><td></td></tr><tr><td>m6</td><td>.556</td><td>.594</td><td>.637</td><td>.708</td><td>.740</td><td>.692</td><td>.679</td><td>.728</td><td>.771</td><td>.881</td><td>1.000</td><td></td></tr><tr><td>m7</td><td>.540</td><td>.569</td><td>.608</td><td>.680</td><td>.708</td><td>.730</td><td>.639</td><td>.680</td><td>.708</td><td>.815</td><td>.853</td><td>1.000</td></tr><tr><td>M</td><td>-1.333</td><td>-0.754</td><td>0.093</td><td>0.772</td><td>1.027</td><td>1.287</td><td>-1.181</td><td>-0.696</td><td>0.041</td><td>0.701</td><td>1.091</td><td>1.419</td></tr><tr><td>SD</td><td>0.526</td><td>0.512</td><td>0.463</td><td>0.318</td><td>0.302</td><td>0.392</td><td>0.483</td><td>0.465</td><td>0.423</td><td>0.392</td><td>0.415</td><td>0.452</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3.2增长形态的探讨 ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "首先，探讨增长形态。根据前人研究(刘源，刘红云，2018)，该数据的增长形态或存在关键转折点。故建立三个模型进行比较：线性增长模型、二次增长模型和多阶段增长模型。将能力增长曲线和原始数据进行对比，如图10所示。从结果比较中可以看出，多阶段模型对于数据的拟合效果最好(附录1)，故考虑多阶段模型作为潜增长形态。",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fa5f713d50f790076545cac4c6f4f743fdbe9d8cc2d0ccf3556d96acde617df.jpg",
+        "img_caption": [
+            "图10ECLS-K学生阅读、数学能力增长趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3.3往复式影响的模型比较",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "在确定了增长形态的基础上，添加交叉滞后部分。建立如表2所示的七个模型。RI-CLM包含一个随机截距，可参照LGM建模的方式，但是注意RI-CLM限定潜变量均值为0，观测变量截距自由估计(在LGM模型中一般限定观测变量截距为0,潜变量均值自由估计)。在TSE模型中，同样不估计截距因子的均值，放宽指标截距自由估计；同时，定义测量误差，每一个指标都定义一个潜变量，固定载荷为1；在此基础上，自回归和交叉滞后模型就可以在潜变量上进行定义了。ALT 考虑多阶段增长形态(转折点在第三次测量)、自回归与交叉滞后影响：注意载荷矩阵 $\\mathbf { A }$ 只影响第二次到第七次测量，第一次测量与潜变量因子设定成相关并自由估计。LV-ALT 可将TSE的语句与 ALT的语句结合即可(附录2)。潜增长模型方面,LCM-SR中，定义测量误差为潜变量并设定\"误差之误差\"为0，建立潜变量自回归和交叉滞后参数。FLCM-SR中放宽\"误差之误差\"为0的设定(附录3)。",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/6772bb0502a317a80c11731c21aae2f4db8fa4132f16549afda2745043b20d86.jpg",
+        "table_caption": [
+            "表3交叉滞后潜增长系列模型拟合(ECLS-K)"
+        ],
+        "table_footnote": [
+            "注.FLCM-SR：因子结构化潜增长模型；LCM-SR：结构化潜增长模型；LV-ALT：潜变量自回归潜增长模型；ALT：自回归潜增长模型；TSE：特质-状态-误差模型；RI-CLM：随机截距交叉滞后模型；CLM:交叉滞后模型."
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>FLCM-SR</td><td>LCM-SR</td><td>LV-ALT</td><td>ALT</td><td>TSE</td><td>RI-CLM</td><td>CLM</td></tr><tr><td>AIC</td><td>43292.99</td><td>53602.70</td><td>61850.70</td><td>60321.31</td><td>17715.09</td><td>19356.16</td><td>35552.48</td></tr><tr><td>BIC</td><td>43770.27</td><td>53976.57</td><td>62304.12</td><td>60806.54</td><td>18112.82</td><td>19777.75</td><td>35910.44</td></tr><tr><td>卡方</td><td>26373.52</td><td>37616.18</td><td>46737.20</td><td>45200.76</td><td>2258.98</td><td>4038.14</td><td>18979.92</td></tr><tr><td>df</td><td>30</td><td>43</td><td>33</td><td>29</td><td>40</td><td>37</td><td>45</td></tr><tr><td>CFI</td><td>0.841</td><td>0.774</td><td>0.719</td><td>0.704</td><td>0.987</td><td>0.976</td><td>0.975</td></tr><tr><td>RSMEA</td><td>0.204</td><td>0.204</td><td>0.259</td><td>0.272</td><td>0.051</td><td>0.072</td><td>0.067</td></tr><tr><td>SRMR</td><td>0.203</td><td>0.252</td><td>1.321</td><td>1.309</td><td>0.022</td><td>0.084</td><td>0.059</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "七个模型的模型拟合与参数估计结果如表3和表4所示。首先对比CLM、RI-CLM和TSE。这三个模型可以看成是逐步排除变异的过程：添加稳定因子并排除测量误差。可知添加了稳定因子的模型拟合优于CLM，而进一步排除测量误差之后，模型拟合又得到了提升。然后对比 ALT 和LV-ALT，后者在前者的基础上排除了测量误差，模型拟合有所提升。LCM-SR 和FLCM-SR 的对比和上一对类似，后者在排除了测量误差之后，模型拟合得到大幅度提升。再次，对比添加了增长趋势的四个模型(FLCM-SR、LCM-SR、LV-ALT 和ALT)，整体拟合都不如没有添加增长趋势的三个模型(TSE、RI-CLM 和CLM)，这也和增长趋势是否完美拟合数据有关(附录1)。最后，对比两类基础模型的建模(是否包含外源变量)，发现将第一次测量考虑成内源变量的模型(FLCM-SR 和 LCM-SR)要比考虑成外源变量的模型(LV-ALT 和 ALT)拟合更优。从实证数据中综合来看，结合了潜增长与交叉滞后的模型，模型设定比较复杂，参数限定较多，整体拟合也较差。整理来看，特质-状态-误差模型最适合本数据的拟合。",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee22cc5d95dd3e65374fe1b82dc2adeed64ec190e26f7ee196df2e8fb49f36bf.jpg",
+        "table_caption": [
+            "表4交叉滞后潜增长系列模型参数估计(ECLS-K)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">FLCM-SR</td><td colspan=\"2\">LCM-SR</td><td colspan=\"2\">LV-ALT</td><td colspan=\"2\">ALT</td><td colspan=\"2\">TSE</td><td colspan=\"2\">RI-CLM</td><td colspan=\"2\">CLM</td></tr><tr><td>Est.</td><td></td><td>S.E.</td><td>Est.</td><td>S.E</td><td>Est.</td><td>S.E.</td><td>Est.</td><td>S.E</td><td>Est.</td><td>S.E.</td><td>Est.</td><td>S.E</td><td>Est.</td><td>S.E.</td></tr><tr><td>自回归交叉滞后影响</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R2 ON</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R1</td><td>1.303</td><td>0.017</td><td>1.702</td><td>0.042</td><td>0.258</td><td>0.016</td><td>0.353</td><td>0.042</td><td>0.548</td><td>0.013</td><td>0.492</td><td>0.008</td><td>0.579</td><td>0.007</td></tr><tr><td>M1</td><td>-0.391</td><td>0.013</td><td>-0.919</td><td>0.038</td><td>0.575</td><td>0.015</td><td>0.436</td><td>0.036</td><td>0.349</td><td>0.022</td><td>0.031</td><td>0.010</td><td>0.286</td><td>0.008</td></tr><tr><td>R4 ON</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R2</td><td>-1.423</td><td>0.042</td><td>0.531</td><td>0.018</td><td>-0.660</td><td>0.207</td><td>0.714</td><td>0.013</td><td>0.531</td><td>0.010</td><td>0.403</td><td>0.008</td><td>0.544</td><td>0.007</td></tr><tr><td>M2</td><td>1.408</td><td>0.072</td><td>0.462</td><td>0.018</td><td>1.553</td><td>0.213</td><td>0.213</td><td>0.014</td><td>0.296</td><td>0.016</td><td>-0.003ns</td><td>0.009</td><td>0.250</td><td>0.007</td></tr><tr><td>R5 ON</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R4</td><td>0.347</td><td>0.014</td><td>-0.670</td><td>0.065</td><td>-0.978</td><td>0.089</td><td>0.559</td><td>0.017</td><td>0.379</td><td>0.015</td><td>0.169</td><td>0.008</td><td>0.401</td><td>0.006</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/560298ba5dcea40577b2bcf843b3941238d7469f66c593414b83e58c4547d68f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注．‘限制参数影响表示将对应自回归系数、交叉滞后系数限定为相等，估计平均效应，即非时变模型。除标注\"\"以外，均达到 $p { < } . 0 0 1$ 水平。"
+        ],
+        "table_body": "<html><body><table><tr><td>M4</td><td>0.352</td><td>0.010</td><td>1.157</td><td>0.075</td><td>1.467</td><td>0.088</td><td>0.101</td><td>0.011</td><td>0.256</td><td>0.012</td><td>-0.021</td><td>0.007</td><td></td><td>0.203</td><td>0.006</td></tr><tr><td>R6 ON</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R5</td><td>0.889</td><td>0.010</td><td>1.575</td><td>0.02</td><td>0.318</td><td>0.022</td><td></td><td>0.533 0.038</td><td></td><td>0.836</td><td>0.024</td><td>0.252</td><td>0.013</td><td>0.675</td><td>0.007</td></tr><tr><td>M5</td><td>0.030</td><td>0.009</td><td>-0.466</td><td>0.014</td><td>0.526</td><td>0.02</td><td></td><td>0.135 0.023</td><td></td><td>0.045ns 0.016</td><td></td><td>-0.061</td><td>0.009</td><td>0.150</td><td>0.006</td></tr><tr><td>R7 ON</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R6</td><td>0.006ns</td><td>0.029</td><td>1.745</td><td>0.004</td><td></td><td>-0.533 0.094</td><td></td><td>0.496 0.071</td><td></td><td>1.024 0.027</td><td></td><td>0.338</td><td>0.017</td><td>0.834</td><td>0.012</td></tr><tr><td>M6</td><td>0.658</td><td>0.036</td><td>-0.400</td><td>0.015</td><td></td><td>1.493 0.082</td><td></td><td>0.394 0.043</td><td></td><td>0.107 0.022</td><td></td><td>0.034</td><td>0.011</td><td>0.206</td><td>0.009</td></tr><tr><td>M2 ON</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M1</td><td>0.274</td><td>0.013</td><td>1.401</td><td>0.041</td><td></td><td>0.633 0.018</td><td></td><td>0.242 0.077</td><td></td><td>0.920 0.017</td><td></td><td>0.290</td><td>0.010</td><td>0.708</td><td>0.007</td></tr><tr><td>R1</td><td>1.200</td><td>0.049</td><td>-0.592</td><td>0.043</td><td></td><td>0.186 0.018</td><td></td><td>0.572 0.084</td><td></td><td>-0.042ns 0.015</td><td></td><td>0.102</td><td>0.007</td><td>0.113</td><td>0.006</td></tr><tr><td>M4 ON</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M2</td><td>1.046</td><td>0.041</td><td>0.497</td><td>0.017</td><td></td><td>1.977 0.185</td><td></td><td>0.840 0.011</td><td></td><td>0.832</td><td>0.025</td><td>0.203</td><td>0.009</td><td>0.647</td><td>0.007</td></tr><tr><td>R2</td><td>-0.952</td><td>0.027</td><td>0.342</td><td>0.013</td><td></td><td>-1.063 0.178</td><td></td><td>0.026 0.010</td><td></td><td>-0.022ns</td><td>0.019</td><td>0.043</td><td>0.007</td><td>0.096</td><td>0.006</td></tr><tr><td>M5 ON</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M4</td><td>0.409</td><td>0.011</td><td>-0.396</td><td>0.037</td><td></td><td>-0.557 0.095</td><td></td><td>0.892 0.014</td><td></td><td>0.806</td><td>0.033</td><td>0.197</td><td>0.008</td><td>0.628</td><td>0.008</td></tr><tr><td>R4</td><td>0.374</td><td>0.020</td><td>0.661</td><td>0.031</td><td></td><td>1.252 0.096</td><td>0.004 ns</td><td>0.011</td><td></td><td>0.045ns 0.022</td><td></td><td>0.010 ns</td><td>0.007</td><td>0.150</td><td>0.007</td></tr><tr><td>M6 ON 3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M5</td><td>-0.049ns</td><td>0.017</td><td>0.905</td><td>0.009</td><td></td><td>0.961 0.020</td><td></td><td>1.083 0.015</td><td></td><td>1.105</td><td>0.020</td><td>0.373</td><td>0.010</td><td>0.840</td><td>0.007</td></tr><tr><td>R5</td><td>1.221</td><td>0.023</td><td>0.101</td><td>0.007</td><td>-0.008ns</td><td>0.024</td><td></td><td>-0.222 0.014</td><td></td><td>-0.112 0.021</td><td></td><td>-0.106</td><td>0.012</td><td>0.149</td><td>0.009</td></tr><tr><td> M7 ON</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M6</td><td>0.726</td><td>0.017</td><td>0.884</td><td>0.023</td><td></td><td>1.735 0.074</td><td></td><td>0.843 0.021</td><td></td><td>0.970 0.013</td><td></td><td>0.363</td><td>0.011</td><td>0.792</td><td>0.009</td></tr><tr><td>R6</td><td>0.029ns</td><td>0.009</td><td>-0.005ns</td><td>0.003</td><td></td><td>-0.507 0.089</td><td></td><td>0.095 0.022</td><td></td><td>0.073 0.019</td><td></td><td>-0.046</td><td>0.015</td><td>0.254</td><td>0.012</td></tr><tr><td>限制参数影响a</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>OZ:</td><td></td><td>0.59</td><td></td><td></td><td></td><td>0.371</td><td></td><td>0.578</td><td></td><td>0.419</td><td>0.018</td><td>0.32</td><td>0.00</td><td>0.535</td><td>0.003</td></tr><tr><td></td><td></td><td>0.019</td><td>0.149</td><td>0.026</td><td></td><td>0.024</td><td></td><td>0.007</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0.016</td><td></td><td>0.034</td><td></td><td>0.01 0.015</td><td></td><td>0.7 0.013</td><td></td><td>0030</td><td>0.014</td><td>0.214</td><td>0.00</td><td>0.721</td><td>0.003</td></tr><tr><td>ivr</td><td>βy</td><td>0.14</td><td></td><td>0.763</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "对比参数估计，不同模型得出一致性结论：自回归系数比交叉滞后系数估计值大。阅读能力的自回归系数比数学能力的自回归系数略小，说明数学能力更倾向于惰性发展，受到先前状态影响更大。横向对比不同的模型，模型之间的结果差异较大。交叉滞后参数部分，RI-CLM 模型得出了负向影响，需谨慎下结论。在考虑了截距因子滞后，交叉滞后的参数估计值减小；而加入了斜率之后，自回归部分略有增大。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "结合本研究的实际情况，在阅读和数学的增长过程当中，存在着稳定的“能力特质”，即从幼儿园到初中的发展中保持个体间的稳定性，在此基础之上，个体内发展惰性主要存在于低年级；在高年级时个体内的滞留影响较小，容易受到其他能力的影响；阅读和数学能力之间也具有往复式影响。从增长形态来说，多阶段增长模型虽然比线性或二次模型有较好的拟合，但是不及单一随机截距因子模型拟合优良。综合看来，可采用TSE来建模。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4讨论与总结 ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.1建模思路：如何分解变异",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "本文探讨了多元追踪研究中的不同模型，对模型的构建和应用进行了梳理，并且将模型进行整合，拓展出具有操作化意义的模型框架。结合以往研究，Usami等人(2019)的框架并没有考虑ALT模型的测量部分，以及LCM-SR固定“误差之误差\"为0的假设。虽然Bianconcini和 Bolle(2018)的模型考虑了ALT 的测量误差，但是目前的研究大多以CLM为基础模型进行建模，忽略了LGM为基础模型的建模和二者之间的转换。故本文综合梳理了两个建模思路，各自增减相应的变异成分，得到不同的模型。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "以本文整合框架中的FLCM-SR 为例，首先排除个体间变异，即潜增长部分。这部分描述了个体随时间发展的稳定特征，既描述了初始特质(基线)，又刻画了增长规律(成熟)。建模过程中，潜增长部分可以被看成是一个需要被控制的特征，由于个体\"基线\"和\"成熟\"的存在，排除掉一部分自然发展的规律是合理的(Bery&Willoughby,2017)。特别地，在建立潜增长模型的时候，如果测量的变量之间没有经过等值，则斜率因子的意义不明确，或只能反映个体在群体当中的相对变化(Liu etal.,2020)。在本文实证应用的建模过程中，除了CLM之外，其实都考虑了个体间的成熟因素，只不过 RI-CLM 和 TSE 只加入了截距，ALT/LCM-SR 和LV-ALT/FLCM-SR 同时加入了截距和斜率。本例中加入斜率的模型估计结果稍逊于只加截距的模型，其原因可能是多阶段形态模型对本组数据的拟合并非最优的结果而导致。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "在排除了成熟影响之后，就可以考察个体内的影响了，即 FLCM-SR 中的\"SR(结构化往复式影响)”。在这里，个体内的影响主要由自回归和交叉滞后参数两部分构成。特别地，个体内的自回归即滞留影响或个体惰性，研究者应将其和前一段提到的个体间的\"自然成熟\"进行区分(Berry & Willoughby,2017; Curran & Bauer, 2011; Hamaker et al., 2015； Voelkle et al.,2014)。“滞留影响\"是指个体内当前的状态多大程度上取决于他/她的已有状态，即变化的顽固程度，是个体不变的惯性；而\"自然成熟”是个体间的发展规律，就像诸多心理学教材当中书写的\"既定内容”一样。以本文实证研究的阅读发展为例，“自然成熟\"即潜增长部分是一般的阅读发展规律——幼儿园到一年级，阅读发展迅速，进入小学之后，阅读发展速度降下来。而\"滞留影响\"是指，诸如一年级的阅读能力受到幼儿园阅读能力的影响，八年级的阅读能力受到五年级阅读能力的影响。这种滞留影响在一些灵活的 SEM 结构中可以自由估计，比如一年级阅读能力受幼儿园阅读能力的影响较大，而八年级阅读能力受五年级阅读能力影响较小。所以，此类模型区分了个体内和个体间效应，解决了发展当中普遍规律与阶段差异的问题，更强调个体在环境当中的\"可塑性”。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "下面一部分是交叉滞后影响，即往复式影响，这部分结果或许是研究者最为关注的焦点之一。在排除了个体间变异之后，交叉滞后的影响或被淹没。原因有可能是在比较传统的模型中，交叉滞后的影响杂糅了发展、个体间增长规律等因素，使得交叉滞后的影响被高估(Berry&Willoughby,2017)。但是，这种“高估\"并非完全不可接受，因为这种杂糅了其他因素的影响是在某个水平层面上的解读，可以把它看成是\"整体影响”。此类研究倾向于将往复式影响定位到个体内层面，或可以更精确地表达如本文一开始就定义的\"变化是如何引起变化”的含义。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "最后的议题是是否考虑测量误差，即每次观测变量的测验信度。本例中LV-ALT 和FLCM-SR的拟合分别略优于ALT和LCM-SR，可见考虑了测量信度会一定程度上提升模型估计质量。值得注意的是，本例中每次测量都是单一指标，所以测量信度是一个固定值。如果每次的测量有多个指标，或者达到模型识别的要求，测量误差才真正被模型估计。可以参考Bianconcini 和 Bolen(2018)提出的 LV-ALT 或 Mulder 和 Hamaker(202O)提出的多指标RI-CLM框架，建构多指标测量模型。综合看来，如果有先验信息，加入测量信度的模型拟合数据会更精确，但是在只有单一指标的情况下，囿于模型识别等因素，必须人为限定测量信度。此外，在多指标跨时测量时，跨时测量等价性也是需要研究者提前考察的议题(Masselinket al., 2018)。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "4.2模型选择的议题",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "上述论证的变异分解理论建构应该是研究者考虑的模型选择的重要依据之一。尽管如此，模型选择的过程中，确有一些不稳定因素会影响研究者的使用。比如，研究者并不知道\"真\"模型，即理论上真正的变异应该如何分解，所以无法选择\"正确\"的模型。事实上，一些模拟研究的结果也显示，通过不同定义框架来生成的数据，采用“正确\"模型的估计反真率也几乎只有六七成(Usami etal.,2015;2016)。这也表明，在对上述模型的选择上，“正确\"模型能被选出来的概率并不是太高；而\"错误\"模型使用之后，其实对结果解释并不会造成太大的影响。所以，在实证研究中，并不是模型越复杂拟合越佳，系列的拟合指标是研究者选择模型的首",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "要参考依据(Usamietal.,2015)。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "建立复杂的模型容易，但是选择合适的模型并不容易。研究者应首先根据理论基础设定合理的模型。如果某个特质因素确是稳定特质，则考虑包含随机截距的模型以提出稳定特质;如果测量时间较长且确实有发展(如能力)，再考虑增长因子。一般而言，提取出稳定特质的模型会具有较好的模型拟合，而增长因子与交叉滞后部分夹杂在一起会影响带给研究者一些解释困难。其次，通过备选模型之间的拟合指标比较来选择模型是应用研究者应该参考的主要评判标准之一。此类模型由于复杂程度差异较大，前人模拟研究结果建议更多采用CFI和RMSEA来选择模型；信息函数的表现并不理想，且BIC容易惩罚复杂模型而选择更简单的模型(Usami et al.,2015)。综合以往研究的建议(Berry& Willoughby,2017; Usami et al.,2019)和本文实证数据的结果，应用者应使用诸如CFI、TLI、RMSEA、SRMR以及AIC等指标进行综合判断。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.2其他议题与研究展望",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "对于模型的选择，近期有学者提出\"结构方程模型树(SEMtree)\"和\"结构方程模型森林(SEM forest)”。借鉴了管理心理学当中的决策树概念，来对模型的选择提供证据(Brandmaier etal.,2016;Brandmaier,Von et al.,2013)。未来可以通过模拟研究来给出模型选择的建议，比如如何选择真模型，模型误设的代价，以及个体间/个体内差异达到何种程度的时候推荐哪类模型等。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "另一方面，时变模型的构建可以使得模型估计更为精确。比如自回归模型中的非时变影响在 SEM框架下可以将参数进行一定程度的放宽；滞留影响 $\\beta _ { \\mathrm { t } }$ 在不同测量次数之间可以自由估计，模型限定更少，可以有效提高模型整体拟合。Bringmann 等人(2018)提出了时变自回归模型(time-variant autoregressive model)，假设自回归影响在不同次的时间间隔不同(Bringmann etal.,2018)。若设定滞留效应的非时变性的理论假设并不确定，则可以放宽该假设，整体拟合更优(Dinget al.,2020)。但是需要注意参数识别的问题。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "此外，研究者在追踪研究中根据不同测量时间间隔，对于时间变量的精度要求会有所不同。在 SEM框架下，载荷矩阵 $\\mathbf { A }$ 大多都固定测量时间。这会增大估计误差，降低模型的敏感度(Liu etal.,2015;Sterba,2014)。在此基础上，借鉴多水平模型框架，可以放宽测量时间固定的假设，SEM也逐渐开始使用连续时间模型(continuous time models，CTM)，将被试参与的时间定义为一个随机数，而非固定的测量次数(Deboeck& Preacher，2016；Hamaker&",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Wichers,2017; Schuurman etal.,2016)。在新版本的 SEM软件(如Mplus 8.0)中，这类问题也已经得到技术支撑，可以供研究者灵活选用。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "陈红君，赵英，伍新春，孙鹏，谢瑞波，冯杰.(2019)．小学儿童词汇知识与阅读理解的关系:交叉滞后研究．心 理学报,051(008),924-934.   \n程刚，张大均，肖友琴，关雨生，陈艳红.(2016)．大学新生主观社会地位与抑郁的变化轨迹:一项多元潜变量 增长模型分析．心理发展与教育,32(6),753-760.   \n侯桂云，黎光明，谢晋艳，杨栋.(2018).老年人认知功能的变化轨迹：基于潜变量增长模型的分析．心理科学 (4), 835-841.   \n纪林芹，潘斌，王春燕，娄萍，陈亮，张文新.(2018)．青少年早期同伴拒绝、同伴侵害与抑郁的关系:交叉滞后 分析．心理科学,41(3),579-585.   \n李彩娜，顾娇娇，王甲，焦思.(2017)．初中生积极适应的增长趋势:基于潜变量增长模型的分析．心理科学， 40(5),1098-1103.   \n李振兴，郭成，连晓荷，缪华灵.(2017)．流动初中生学业自我概念的增长趋势：一项潜变量增长模型分析．中 国特殊教育,000(1),73-79.   \n刘红云，孟庆茂.(2003)．纵向数据分析方法．心理科学进展,11(5),586-592.   \n刘俊升，周颖，李丹.(2013)．童年中晚期孤独感的增长趋势:一项潜变量增长模型分析．心理学报,45(2),179- 192.   \n刘文，刘红云,李宏利.(2015)．儿童青少年心理学前沿．浙江：浙江教育出版社.   \n刘源，刘红云.(2018).非连续性与异质性——多阶段混合增长模型在语言发展研究中的应用．华东师范大学 学报(教育科学版),36(1),137-148.   \n唐文清，方杰，蒋香梅，张敏强.(2014)．追踪研究方法在国内心理研究中的应用述评．心理发展与教育(2), 216-224.   \n王孟成，毕向阳.(2018)．潜变量建模与Mplus应用(进阶篇).重庆：重庆大学出版社.   \n温忠麟.(2017)．实证研究中的因果推理与分析．心理科学,40(1),200-208.   \n胥彦，李超平.(2019)．追踪研究在组织行为学中的应用．心理科学进展,27(4),600-610.   \n杨满云，郭成，周仁会，李振兴.(2017)．人际冒犯受害者宽恕的变化轨迹:一项潜变量增长模型分析．中国临 床心理学杂志,25(6),1124-1129.   \n袁帅，曹文蕊，张曼玉，吴诗雅，魏馨怡.(2021)．通向更精确的因果分析：交叉滞后模型的新进展.中国人力资 源开发,38(2),23-41.   \n张晓.(2011)．童年早期社会能力的发展:一个潜变量增长模型．心理学报,043(012),1388-1397.   \nBainter,S.A.,& Howard,A.L.(2Ol6). Comparing within-person effects from multivariate longitudinal models. Developmental Psychology, 52(12),1955-1968.   \nBerry,D.,& Willoughby，M.T. (20l7). On the practical interpretabityof cross-lagged panel models:Rethinkinga developmental workhorse. Child Development, 88(4),1186-1206.   \nBianconcini, S.,& Bolen, K.A. (2O18).The latent variable-autoregressive latent trajectory model: a general framework for longitudinal data analysis. Structural Equation Modeling: A Multidisciplinary Journal, 25(5),791-808.   \nBolen, K.A, & Curan, P.J. (206). Latent curve models: A structural equation approach. NJ: Wiley.   \nBrandmaier, A.M.,Prindle,J.J.,Mcardle,J.J.,& Lindenberger, U.(2016). Theory-guided exploration with structural equation model forests. Psychological Methods,21(4),566-582.   \nBrandmaier,A.M.,Von Oertzen,T.,Mcardle,J.J.,& Lindenberger, U.(2O13). Structural equation model trees. Psychological Methods,18(1),71-86.   \nBringmann,L.F.,Ferrer,E.,Hamaker,E.L.,Borsboom,D.,& Tuerlinckx,F. (2O18).Modeling nonstationary emotion dynamics in dyads using a time-varying vector-autoregressive model. Multivariate Behavioral Research,53(3),293-314.   \nCacioppo,J.T.,Chen,H.Y.,& Cacioppo,S. (2017).Reciprocal influences between lonelinessand self-centeredess: A cros-lagged panel analysis in a population-basedsample of african american, hispanic,and caucasian Adults. Personalityand Social Psychology Bulltin,43(8),1125-1135.   \nChiu, C.-J.,& Du,Y.-F. (2O19).Longitudinal investigation of the reciprocal relationship between depressive symptoms and glycemic control: The moderation effects of sex and perceived support. Journal of Diabetes Investigation,10(3),801-808.   \nCole,D.A.,Martin,N.C.,& Steiger, J.H. (2Oo5).Empirical andconceptual problems with longitudinal trait-state models: introducinga trait-state-occasion model. Psychological Methods,10(1),3-20.   \nCurran, P.J.,& Bauer,D.J.(20l).The disaggregationof within-personand between-person effcts in longitudinal models of change. Annual Review of Psychology, 62(1),583-619.   \nCurran, P.J.,& Bolen, K.A. (2O01).The bestof both worlds: Combiningautoregressive and latent curve models. In L.M. Colins & A. G. Sayer (Eds.), New methods for the analysis of change (pp.105-136). Washington DC: American Psychological Association.   \nCurran, P.J.,Howard,A.L.,Bainter,S.A.,Lane,S.T.,& McGinley,J. S. (2O14). The separation of between-person and within-person components of individual change over time: a latent curve model with structured residuals. Journal of Consulting and Clinical Psychology, 82(5),879-894.   \nDeboeck,P.R.,& Preacher,K.J. (2016). No need to be discrete: Amethod for continuous time mediation analysis. Structural Equation Modeling: A Multidisciplinary Journal, 23(1),61-75.   \nDiallo,T.M. O.,Morin,A.J.S.,&Lu,H. (2O17). The impact of total and partial inclusionor exclusionof active and inactive time invariant covariates in growth mixture models.Psychological Methods,22(1),166-190.   \nDing, X., Ansari,A.,Li, X.,Liu, Y.,&Yan,N. (2O2O).Transactional eects between parental sensitivityand child social adjustment: Specifying trait-state aspects of parenting. Developmental Psychology,56(7),1331- 1342.   \nHamaker, E.L.,Kuiper,R. M.,& Grasman,R.P.P.P. (2O15). A critique of the cross-lagged panel model. Psychological Methods,20(1),102-116.   \nHamaker,E.L.,& Wichers,M. (2O17).No time like the present: Discovering the hidden dynamics in intensive longitudinal data. Current Directions in Psychological Science,26(1),10-15.   \nHazel,N. A.,& Hankin,B.L. (2O14).Atrait-state-error modelof adult hasles over twoyears: magnitude,sources, and predictors of stress continuity. Journal of Social and Clinical Psychology, 33(2),103-123.   \nJongerling， J.,& Hamaker,E.L. (2Ol1).On the trajectories of the predetermined ALTmodel: What are we really modelng. Structural Equation Modeling: A Multidisciplinary Joumal,18(3),370-382.   \nJoreskog,K. G. (197o). A general method for analysis of covariance structures. Biometrika(2),239-251.   \nJoreskog,K. G.,& Sorbom,D.(1974). Advances in factoranalysis and structuralequation models. Cambridge,MA: Abt Books.   \nKenny, D.A.,& Harackiewicz, J. M. (1979). Cross-lagged panel correlation: Practice and promise. Journal of Applied Psychology, 64(4),372-379.   \nKenny,D.A.,& Zautra,A.(1995).The trait-state-eror model for multiwave data.JournalofConsulting & Clinical Psychology, 63(1),52-59.   \nKenny,D.A.,& Zautra,A. (20ol). Trait-state models for longitudinal data. In New methodsfor the analysis of change. (pp. 243-263). Washington, DC, US: American Psychological Association.   \nKiken,L. G.,Garland,E.L.,Bluth,K.,Palson,O.S.& Gaylord, S.A. (2O15).From astate toatrait: Trajectories of state mindfulness in meditation during intervention predict changes in trait mindfulness.Personality and Individual Differences,81,41-46.   \nLiu,Y.,Hau,K.-T.Liu,H.,Wu,J.,Wang,X.,&Zheng, X. (202O). Multiplicativeeffectof intrinsicand extrinsic motivation on academic performance: Alongitudinal study of Chinese students. Journal of Personality, 88(3),584-595.   \nLiu,Y.,& Hou, S. (2O18).Potential reciprocal relationship between motivationand achievement: A longitudinal study. School Psychology International,39(1),38-55.   \nLiu,Y.,Liu,H.,& Hau,K.-t.(20l6).Reading abilitydevelopment fromkindergarten tojuniorsecondary:latent transition analyses with growth mixture modeling.Frontiers in Psychology,7,1659.   \nLiu,Y.,Liu,H.,Li, H.,& Zhao, Q. (2O15). The effects of individuallyvarying times of observationson growth parameter estimations in piecewise growth model. Journal of Applied Statistics,42(9),1843-1860.   \nLiu,Y.,Liu, H.,& Zheng,X. (2018). Piecewise growth mixture model with more than one unknown knot: An application in reading development. Nonlinear Dynamics Psychology and Life Sciences, 22(4),485-507.   \nLock,E.F., Kohli, N.,& Bose,M. (2O18). Detecting multiplerandom changepoints in bayesian piecewise growth mixture models. Psychometrika,83(3),733-750.   \nLuhmann,M.,Schimmack,U.,&Eid,M. (2Ol).Stabilityand variabilityin the relationship betweensubjective well-being and income. Journal of Research in Personality,45(2),186-197.   \nMalone,P.S.,Lansford,J.E.,Castellino,D.R.,Berlin,L.J.,Dodge,K.A.,Bates,J.E.,&Peit, G.S. (2004). Divorce and child behavior problems: Applying latent change score models to life event data. Structural Equation Modeling: A Multidisciplinary Journal,11(3),401-423.   \nMasselink,M.,Van Roekel,E.,Hankin,B.L.,Keijsers,L.,Lodder,G.M.A., Vanhalst,J...Oldehinkel,A.J. (2018).The longitudinal association between self-esteem and depressive symptoms in adolescents: Separating between-person effects from within-person effects.European Journal ofPersonality,32(6), 653-671.   \nMcArdle,J.J. (2O09).Latent variable modelingof diferences and changes with longitudinal data.Annual Review of Psychology, 60,577-605.   \nMcArdle, J. J.,& Hamagami, F.(2Ool). Latent difference score structural models for linear dynamicanalyses with incomplete longitudinal data. In New methods forthe analysis ofchange. (pp.139-175). Washington, DC, US: American Psychological Association.   \nMcArdle,J.J.,& Nesselroade,J.R. (2O14). Longitudinal data analysis using structural equation models . Washington, DC: American Psychological Association.   \nMcCoach, D.B.,& Kaniskan, B. (20l0). Using time-varying covariates in multilevel growth models.Frontiers in Psychology, 1:17.   \nMulder,J.D.,& Hamaker,E.L.(2O20). Three extensionsof the random intercept cross-lagged panel model. Structural Equation Modeling: A Multidisciplinary Journal,1-11.   \nMurayama,K., Goetz,T.,Malmberg,L.-E.,Pekrun,R.,Tanaka,A.,&Martin,A.J.(2O17).Within-personanalysis in educational psychology: Importance and llustrations.British Journal of Educational Psychology Monograph Series II,12,71-87.   \nSchmitt M.,& Steyer,R.(1993).Alatent state-trait model (not only)for social desirability.Personality and ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Individual Differences,14(4),519-529.   \nSchuurman,N.K.,Ferrer,E.,De Boersonnenschein,M.,& Hamaker,E.L.(2o16).How tocompare cros-lagged associations in a multilevel autoregressive model. Psychological Methods,21(2),206-221.   \nSelzler,A.-M.,Rodgers,W.M.,Berry,T.R.,McFadden,K.,Husband, C.,&Hall, C.(2019).Reciprocal relationships between self-effcacy, outcome satisfaction, and attendance at an exercise programme. British Journal ofHealthPsychology,24(1),123-140.   \nSterba,S.K.(2O14).Fiting nonlinear latent growth curve models with individuallyvarying time points.Structural Equation Modeling:A Multidisciplinary Journal,21(4),630-647.   \nUsami, S.,Hayes,T.,& McArdle,J.J. (2015).On the mathematical relationship between latentchange score and autoregressve cross-lagged factor approaches: Cautions for inferring causal relationship between variables.Multivariate Behavor Ressearch,50(6),676-687.   \nUsami, S.,Hayes,T.,& McArdle,J.J. (2O16).Inferring longitudinal relationships between variables:Model selection between the latent change score and autoregressive cross-lagged factor models. Structural Equation Modeling:A Multidisciplinary Journal(23),331-342.   \nUsami,S.,Murayama,K.,&Hamaker,E. (2Ol9).Aunified frameworkof longitudinal models toexaminereciprocal relations. Psychological Methods,24(5),637-657.   \nVoelkle,M.C.,Brose,A.,Schmiedek,F.,&Lindenberger, U. (2014).Toward aunified framework for the studyof between-person and within-person structures: Building a bridge between two research paradigms. MultivariateBehavorRessearch,49(3),193-213.   \nZautra,A.J.,Marbach,J.J.,Raphael, K.G.,Dohrenwend, B.P.,& Kenny,D.A.(1995). The examinationof myofascial face pain and its relationship to psychological distress among women. Health Psychology, 14(3),223-231.   \nZyphur,M.J.,Allson,P.D.,Tay,L.,Voelkle,M.C.,Preacher,K.J.,Zhang,Z...Diener,E. (202O).Fromdatato causes I: Building a general cross-lagged panel model (GCLM). Organizational Research Methods,23(4), 651-687.   \nZyphur,M.J.,Voelkle,M.C.,Tay,L.,Allson,P.D.,Preacher,K.J.,Zhang,....Diener,E.(2O2O).Fromdata to causes II: Comparing approaches to panel data analysis. Organizational Research Methods,23(4),688- 716. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "A Unification and Extension on the Multivariate Longitudinal Models: Examining Reciprocal Relationship and Latent Trajectory ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "LIU Yuan SchoolofPsyhoustUesitKybatoyogitoesolityoustUest,nstuo Chongqing 400715,China ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Abstract: When conducting the multivariate longitudinal studies,reciprocal relationship and latent trajectory are two of the focusing issues. These two issues could be flexibly combined by other research questions, such as the measurement error, the random factor, as well as the combination of the above topics. Such a combination yields a more complex model definition exploring the longitudinal relations, such as factor cross-lagged model, random-intercept cross-lagged model, trait-state-error model, autoregressive trajectory model, etc. In the study, a factor latent curve model with structured reciprocals model was built as an extension and unified framework including all the components discussed above. The empirical dataset, Early Childhood Longitudinal Survey-Kindergarten (ECLS-K), was used as an ilustrating example. Results indicated that the trait-state-error modelbest described the data. Finall, we summarized how the results could be interpreted and offered suggestions on model selection for the researchers. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Key words: longitudinal study,reciprocal effect, growth trajectory, factor latent curve model with structured reciprocals ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "附录1线性、二次、多阶段增长模型结果参数估计 ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/9264b1a74485dd4829fbfeb8871f8a811c60d2d65b0c782fc2588ec3426fbe81.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">线性增长模型(LGM)</td><td colspan=\"3\">二次增长模型(QGM)</td><td colspan=\"3\">多阶段增长模型(PGM)</td></tr><tr><td></td><td>Est.</td><td></td><td>S.E.</td><td>Est.</td><td></td><td>S.E.</td><td>Est.</td><td></td><td>S.E.</td></tr><tr><td>Means</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>INTR</td><td>-0.889</td><td>***</td><td>0.004</td><td>-1.112</td><td>***</td><td>0.004</td><td>-1.321</td><td>***</td><td>0.004</td></tr><tr><td>SLPR</td><td>0.353</td><td>***</td><td>0.001</td><td>0.729</td><td>***</td><td>0.002</td><td>1.158</td><td>***</td><td>0.003</td></tr><tr><td>QUAR</td><td></td><td></td><td></td><td>-0.055</td><td>***</td><td>0</td><td></td><td></td><td></td></tr><tr><td>SLPR2</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-1.009</td><td>***</td><td>0.004</td></tr><tr><td>INTM</td><td>-0.865</td><td>***</td><td>0.003</td><td>-1.024</td><td>***</td><td>0.003</td><td>-1.167</td><td>***</td><td>0.003</td></tr><tr><td>SLPM</td><td>0.363</td><td>***</td><td>0.001</td><td>0.64</td><td>***</td><td>0.001</td><td>0.914</td><td>***</td><td>0.002</td></tr><tr><td>QUAM</td><td></td><td></td><td></td><td>-0.042</td><td>***</td><td>0</td><td></td><td></td><td></td></tr><tr><td>SLPM2</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.703</td><td>***</td><td>0.003</td></tr><tr><td>Variances</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>INTR</td><td>0.205</td><td>***</td><td>0.003</td><td>0.244</td><td>***</td><td>0.003</td><td>0.24</td><td>***</td><td>0.003</td></tr><tr><td> SLPR</td><td>0.004</td><td>***</td><td>0</td><td>0.015</td><td>***</td><td>0.001</td><td>0.026</td><td>***</td><td>0.001</td></tr><tr><td>QUAR</td><td></td><td></td><td></td><td>0</td><td>***</td><td>0</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.014</td><td>***</td><td>0.002</td></tr><tr><td>INTM</td><td>0.184</td><td>***</td><td>0.002</td><td>0.196</td><td>***</td><td>0.002</td><td>0.2</td><td>***</td><td>0.002</td></tr><tr><td>SLPM</td><td>0.003</td><td>***</td><td>0</td><td>0.008</td><td>***</td><td>0</td><td>0.008</td><td>***</td><td>0.001</td></tr><tr><td>QUAM</td><td></td><td></td><td></td><td></td><td>***</td><td>0</td><td></td><td></td><td></td></tr><tr><td>SLPM2</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.003</td><td>***</td><td>0.001</td></tr><tr><td>Residual</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>r1</td><td>0.288</td><td>***</td><td>0.004</td><td>0.131</td><td>***</td><td>0.002</td><td>0.045</td><td>***</td><td>0.002</td></tr><tr><td>r2</td><td>0.065</td><td>***</td><td>0.002</td><td>0.041</td><td>***</td><td>0.001</td><td>0.059</td><td>***</td><td>0.001</td></tr><tr><td>r4</td><td>0.266</td><td>***</td><td>0.003</td><td>0.12</td><td>***</td><td>0.002</td><td>0.18</td><td>***</td><td>0.003</td></tr><tr><td>r5</td><td>0.202</td><td>***</td><td>0.003</td><td>0.014</td><td>***</td><td>0.001</td><td>0.026</td><td>***</td><td>0.001</td></tr><tr><td>r6</td><td>-0.009</td><td>***</td><td>0.001</td><td>0.069</td><td>***</td><td>0.001</td><td>0.008</td><td>***</td><td></td></tr></table></body></html>",
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/32d503adfb7fe6aaa395684055235fdbf4d9f43f38783ebb126bcdc3d546fbf8.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "\\*\\*\\* $p { < } . 0 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>r7</td><td>0.657</td><td>***</td><td>0.01</td><td>0.18</td><td>***</td><td>0.008</td><td>0.09</td><td>***</td><td>0.002</td></tr><tr><td>m1</td><td>0.163</td><td>***</td><td>0.002</td><td>0.083</td><td>***</td><td>0.001</td><td>0.042</td><td>***</td><td>0.001</td></tr><tr><td>m2</td><td>0.035</td><td>***</td><td>0.001</td><td>0.029</td><td>***</td><td>0.001</td><td>0.035</td><td>***</td><td>0.001</td></tr><tr><td>m4</td><td>0.179</td><td>***</td><td>0.002</td><td>0.088</td><td>***</td><td>0.001</td><td>0.082</td><td>***</td><td>0.001</td></tr><tr><td>m5</td><td>0.12</td><td>***</td><td>0.002</td><td>0.017</td><td>***</td><td>0.001</td><td>0.03</td><td>***</td><td>0.001</td></tr><tr><td>m6</td><td>0.002</td><td></td><td>0.001</td><td>0.041</td><td>***</td><td>0.001</td><td>0.024</td><td>***</td><td>0.001</td></tr><tr><td>m7</td><td>0.617</td><td>***</td><td>0.01</td><td>0.045</td><td>***</td><td>0.004</td><td>0.134</td><td>***</td><td>0.003</td></tr><tr><td colspan=\"10\">SLPR WITH</td></tr><tr><td>INTR</td><td>-0.02</td><td>***</td><td>0</td><td>-0.052</td><td>***</td><td>0.001</td><td>-0.069</td><td>***</td><td>0.002</td></tr><tr><td>QUAR</td><td></td><td></td><td></td><td>0.004</td><td>***</td><td>0</td><td></td><td></td><td></td></tr><tr><td>SLPR2</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.06</td><td>***</td><td>0.002</td></tr><tr><td colspan=\"10\">SLPR WITH</td></tr><tr><td>QUAR</td><td></td><td></td><td></td><td>-0.001</td><td>***</td><td>0</td><td></td><td></td><td></td></tr><tr><td>SLPR2</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.02</td><td>***</td><td>0.001</td></tr><tr><td colspan=\"10\">SLPMWITH</td></tr><tr><td>SLPM</td><td>-0.01</td><td>***</td><td>0</td><td>-0.023</td><td>***</td><td>0.001</td><td>-0.031</td><td>***</td><td>0.001</td></tr><tr><td>QUAM</td><td></td><td></td><td></td><td>0.002</td><td>***</td><td>0</td><td></td><td></td><td></td></tr><tr><td>SLPM2</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.026</td><td>***</td><td>0.001</td></tr><tr><td>SLPM WITH</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>QUAM</td><td></td><td></td><td></td><td>-0.001</td><td>***</td><td>0</td><td></td><td></td><td></td></tr><tr><td>SLPM2</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.003</td><td>***</td><td>0.001</td></tr></table></body></html>",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "附录2潜变量自回归潜增长模型Mplus语句与示意图",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "TITLE: this is an example ofLV-ALT   \nDATA:FILE IS eclsk_theta+alt.dat;   \nVARIABLE:NAMESARE C1R4RTHT_R C1R4MTHT_R C1RGTHT_RC2R4RTHT_R C2R4MTHT_R C2RGTHT_R C3R4RTHT_R C3R4MTHT_R C3RGTHT_R C4R4RTHT_R C4R4MTHT_R C4RGTHT_R C5R4RTHT_R C5R4MTHT_R ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "C5R2STHT_R C6R4RTHT_R C6R4MTHT_RC6R2STHT_R C7R4RTHT_R C7R4MTHT_RC7R2STHT_R ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "PILEARNP2LEARNP4LEARNTILEARNT2LEARNT4LEARNT5LEARNT6LEARN; ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "USEVARIABLESARE ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "C1R4RTHT_RC2R4RTHT_RC4R4RTHT_R C5R4RTHT_RC6R4RTHT_RC7R4RTHT_R ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "C1R4MTHT_R C2R4MTHT_R C4R4MTHT_R C5R4MTHT_R C6R4MTHT_R C7R4MTHT_R; ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "MISSING ARE ALL (-9); ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "MISSING ARE ALL (-8); ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "MISSING ARE ALL (-7); ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "MISSING ARE ALL (-1); ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "ANALYSIS:MODEL $\\ c =$ NOCOVARIANCES; ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "estimator=mlr; ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "miteration $= 5 0 0 0$ ;convergence $_ { = 0 . 0 1 }$ · ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "MODEL:   \n!define the growth(排除第一次测量为外源变量后，定义多阶段潜增长模型，前三次测量为斜率1，第三次以   \n后为斜率2);   \nINTRbyC2R4RTHT_R@1C4R4RTHT_R $\\boldsymbol { \\mathcal { Q } } \\boldsymbol { 1 }$ C5R4RTHT_R@1 C6R4RTHT_R@1C7R4RTHT_R@1;   \nSLPRbyC2R4RTHT_R $@ 0 . 5$ C4R4RTHT_R@1.5 C5R4RTHT_R $@ 3 . 5$ C6R4RTHT_R $@ 5 . 5$ C7R4RTHT_R $@ 8 . 5$   \nSLPR2 by C2R4RTHT_R@0 C4R4RTHT_R $@ 0$ （204号 C5R4RTHT_R@2 C6R4RTHT_R@4C7R4RTHT_R@7;   \nINTMbyC2R4MTHT_R $@$ 1 C4R4MTHT_R@1 C5R4MTHT_R@1 C6R4MTHT_R@1 C7R4MTHT_R@1;   \nSLPMbyC2R4MTHT_R $@ 0 . 5$ C4R4MTHT_R@1.5 C5R4MTHT_R@3.5 C6R4MTHT_R@5.5 C7R4MTHT_R@8.5;   \nSLPM2 by C2R4MTHT_R@0 C4R4MTHT_R@0 C5R4MTHT_R@2 C6R4MTHT_R@4C7R4MTHT_R@7;   \n[C2R4RTHT_R-C7R4MTHT_R@0];   \nINTR SLPR INTM SLPM slpr2 slpm2;   \n[INTR SLPR INTM SLPM slpr2 slpm2];   \nintr with slpr slpr2; slpr with slpr2;   \nintm with slpm slpm2; slpm with slpm2; !define state factor(定义状态变量，即每次测量的信度);   \nR1BY C1R4RTHT_R@1; R2 BY C2R4RTHT_R@1; R4 BY C4R4RTHT_R@1;   \nR5BY C5R4RTHT_R@1;R6BY C6R4RTHT_R $@$ 1; R7 BY C7R4RTHT_R@1;   \nM1BYC1R4MTHT_R $@$ 1; M2BYC2R4MTHT_R $@$ 1; M4 BYC4R4MTHT_R@1;   \nM5 BY C5R4MTHT_R@1; M6 BY C6R4MTHT_R@1; M7BY C7R4MTHT_R@1;   \n!define the exogenous indicators(定义第一次测量的因子为外源变量); ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "R1 with intr slpr slpr2; ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "M1 with intm slpm slpm2;   \n!define measurement error(定义误差变量); ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "C1R4RTHT_R-C7R4RTHT_R(1); ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "C1R4MTHT_R-C7R4MTHT_R(2); ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "!define auto-regressionand cross-lagged regression(定义自回归与交叉滞后影响); ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "R2 ON R1; R4 ON R2; R5 ON R4;   \nR6 ON R5; R7 ON R6;   \nM2 ON M1; M4 ON M2; M5 ON M4;   \nM6 ON M5; M7 ON M6;   \nM2 ON R1; M4 ON R2; M5 ON R4;   \nM6 ON R5; M7 ON R6;   \nR2 ON M1; R4 ON M2; R5 ON M4;   \nR6 ON M5; R7 ON M6; !define the residuals (定义外源变量方差、被试内残差);   \nR1; R2-R7(3);   \nM1; M2-M7(4);   \n!define the correlation between residuals(定义因子之间协方差/相关);   \nR1WITHM1;R2WITHM2;R4WITHM4;   \nR5WITHM5; R6 WITHM6;R7 WITH M7;   \nOUTPUT: STDYX;tech4;tech1; ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "image",
+        "img_path": "images/49ca98dc87eb3c3bdf909f962b110cb21a14fea688d7edec05fac03307f3c3bd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "附录3因子结构化潜增长模型Mplus语句与示意图",
+        "text_level": 1,
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "TITLE: this is an example of FLCM-SR   \nDATA: FILE IS eclsk_theta+alt.dat;   \nVARIABLE:NAMESARE C1R4RTHT_R C1R4MTHT_R C1RGTHT_RC2R4RTHT_R C2R4MTHT_R C2RGTHT_R C3R4RTHT_R C3R4MTHT_R C3RGTHT_R C4R4RTHT_R C4R4MTHT_R C4RGTHT_R C5R4RTHT_RC5R4MTHT_R C5R2STHT_R C6R4RTHT_R C6R4MTHT_RC6R2STHT_R C7R4RTHT_R C7R4MTHT_R C7R2STHT_R PILEARN P2LEARN P4LEARN T1LEARN T2LEARN T4LEARN T5LEARN T6LEARN;   \nUSEVARIABLESARE C1R4RTHT_RC2R4RTHT_RC4R4RTHT_RC5R4RTHT_RC6R4RTHT_RC7R4RTHT_R C1R4MTHT_R C2R4MTHT_R C4R4MTHT_R C5R4MTHT_R C6R4MTHT_R C7R4MTHT_R;   \nMISSING ARE ALL (-9);   \nMISSING ARE ALL (-8);   \nMISSING ARE ALL (-7);   \nMISSING ARE ALL (-1);   \nANALYSIS:MODEL $\\ c =$ NOCOVARIANCES;   \nestimator=mlr;   \nmiteration $= 5 0 0 0$ ;convergence $_ { \\mathrm { = 0 . 0 1 } }$ ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "MODEL:!define the growth(定义多阶段潜增长模型，前三次测量为斜率1，第三次以后为斜率 2);",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "INTR by C1R4RTHT_R $@$ 1 C2R4RTHT_R@1 C4R4RTHT_R@1 C5R4RTHT_R@1 C6R4RTHT_R@1   \nC7R4RTHT_R@ 1;   \nSLPRby C1R4RTHT_R $@ 0$ C2R4RTHT_R $@ 0 . 5$ C4R4RTHT_R@1.5 C5R4RTHT_R $@ 3 . 5$ C6R4RTHT_R@5.5 C7R4RTHT_R@8.5;   \nSLPR2byC1R4RTHT_R@0 C2R4RTHT_R@0C4R4RTHT_R@0 C5R4RTHT_R@2 C6R4RTHT_R@4C7R4RTHT_R@7; ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "INTM by C1R4MTHT_R@1 C2R4MTHT_R@1 C4R4MTHT_R@1 C5R4MTH C7R4MTHT_R@1;   \nSLPMby C1R4MTHT_R $@ 0$ C2R4MTHT_R $@ 0 . 5$ C4R4MTHT_R@ 1.5 C5R4MTHT_R@3.5 C6R4MTHT_R@5.5 C7R4MTHT_R@ 8.5;   \nSLPM2by C1R4MTHT_R $@ 0$ C2R4MTHT_R@0 C4R4MTHT_R@0 C5R4MTHT_R@2 C6R4MTHT_R@4 C7R4MTHT_R@7;   \n[C1R4RTHT_R-C7R4MTHT_R@0];   \nINTR SLPR INTM SLPM slpr2 slpm2;   \n[INTR SLPR INTM SLPM slpr2 slpm2];   \nintr with slpr slpr2; slpr with slpr2;   \nintm with slpm slpm2;slpm with slpm2;   \n!define state factor(定义状态变量，即每次测量的信度);   \nR1 BY C1R4RTHT_R@1; R2 BY C2R4RTHT_R $@$ 1; R4 BY C4R4RTHT_R@1;   \nR5 BY C5R4RTHT_R@1; R6 BY C6R4RTHT_R@1; R7 BY C7R4RTHT_R@1;   \nM1 BY C1R4MTHT_R@1; M2 BY C2R4MTHT_R@1; M4 BY C4R4MTHT_R@1;   \nM5 BY C5R4MTHT_R $@$ 1; M6 BY C6R4MTHT_R@1; M7 BY C7R4MTHT_R@ 1;   \n!define measurement error(定义误差变量);   \nC1R4RTHT_R-C7R4RTHT_R;   \nC1R4MTHT_R-C7R4MTHT_R;   \n!define auto-regression and cross-agged regression(定义自回归与交叉滞后影响);   \nR2 ON R1; R4 ON R2; R5 ON R4;   \nR6 ON R5; R7 ON R6; M2 ON M1; M4 ON M2; M5 ON M4;   \nM6 ON M5; M7 ON M6;   \nM2 ON R1;M4 ON R2; M5 ON R4;   \nM6 ON R5; M7 ON R6;   \nR2 ON M1; R4 ON M2; R5 ONM4;   \nR6 ON M5; R7 ON M6;   \n!define the residuals (定义被试内残差);   \nR1; R2-R7(3);   \nM1; M2-M7(4);   \n!define the correlation between residuals(定义因子之间协方差/相关);   \nR1WITHM1; R2 WITHM2; R4 WITH M4;   \nR5WITHM5;R6WITHM6:R7WITHM7;   \nOUTPUT: STDYX;tech4;tech1; ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb56dfbfa5a90facb6b564f3486dcdb8bcfb1101a4224ae804a87a4ffbfd8d0c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 34
+    }
+]

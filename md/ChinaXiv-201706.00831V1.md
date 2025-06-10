@@ -1,0 +1,174 @@
+# DOI:10.5846/stxb201606141146
+
+刘璐,何寻阳,杜虎,王克林.喀斯特土壤固氮微生物群落与植被、土壤的关系.生态学报,2017,37(12)：4037-4044.LiuL,HXglleActa Ecologica Sinica,2017,37(12）:4037-4044.
+
+# 喀斯特土壤固氮微生物群落与植被、土壤的关系
+
+刘璐1,²,何寻阳¹,杜 虎¹，王克林1，\*
+
+1中国科学院亚热带农业生态研究所亚热带农业生态过程重点实验室，长沙410125  
+2 湖南省农业生物技术研究中心，长沙410125
+
+摘要;固氮微生物作为土壤中重要的功能微生物群之一,其与地上植物群落、土壤环境之间的关系尚不清楚。在桂西北的环江县、都安县和大化县选取喀斯特典型植被类型(草丛、灌丛、次生林)建立样方,通过植被调查、测定土壤理化性质和构建克隆文库的方法,研究了土壤固氮微生物群落的结构与组成,分析了固氮微生物群落与植物群落、土壤理化性质之间的关系。结果表明;研究区典型植被类型土壤中的优势固氮微生物为慢生根瘤菌。Mantel相关性分析表明植物群落与固氮微生物群落显著相关 $\stackrel { \prime } { r } = 0 . 6 1 1 6 , P = 0 . 0 1 1 \rangle$ ;结合 PCoA分析和Venn图可看出,植物群落组成与结构越相似,土壤固氮微生物群落结构与组成也越相似。CCA分析前两轴的解释率之和仅为 $2 2 . 7 2 \%$ ,其中总氮、有效态钾、有效态钙对固氮微生物群落的影响显著,这表明本研究涵盖的土壤理化性质指标并不能完全解释固氮微生物群落的变异,需要补充更多的土壤数据进行更深入的研究。由此可见，在喀斯特生态恢复过程中,不仅要关注地上植被群落的恢复与重建,同时也应重视地下功能微生物群落的恢复与重建。
+
+关键词：固氮微生物群落； $n i f H$ 基因;植被恢复;喀斯特
+
+# The relationships among nitrogen-fixing microbial communities， plant communities , and soil properties in karst regions
+
+LIU $\mathrm { L u } ^ { 1 , 2 }$ ，HE Xunyang ‘, DU Hu ’，WANG Kelin 1\*   
+1KeyLbortofclrinbroclostufubroclccdefec 410125，China   
+2Hunan Agricultural Biotechnology Research Center，Changsha 410125,China
+
+Abstract：Soil nitrogen-fixingmicroorganismsareoneof the most important functional microrganisms；however，their relationshipwith plantcommunitiesandsoilconditions isporlyunderstood.Inthepresent study,threetypicalkarstregions (Huanjiang，Du'an，andDahua）wereselectedandquadrats wereestablished in typical vegetation types（grassland, scrubland,and secondary forest）.Atotalof27quadrats（3replicates foreach vegetation type）were establishedand the size of each quadrat was $2 0 \mathrm { ~ m ~ } \times \mathrm { ~ } 3 0 \mathrm { ~ m ~ }$ . The composition and structure of plant communities were studied by vegetation surveys，soil propertieswere determined，and thestructureand compositionof soil nitrogen-fixing microrganisms were analyzed bybuilding clone librariesandsequencing.Folowing that，therelationships between nitrogen-fixing microbial communities，plantcommunities，and soil conditionswereexplored.Principal cordinatesanalysis indicated that the composition and structure of the plantcommunities wereobviously diferent between vegetation types.Comparing plant communities among the three regions，the $\mathrm { D u } ^ { \prime }$ an and Dahua regions were found to have similar plant composition and structure.Soil propertiesalsodiferedbetweenvegetationtypesandregions.Totalcarbon,totalnitrogen，andavailableFe, Ca，and $\mathrm { M g }$ were affected by vegetation type and region，while available K was mainly afcted by vegetation type and $\mathrm { p H }$ ， and available $\mathrm { \Delta P }$ was mainly affcted by region.BLAST results indicated that the predominant nitrogen-fixing microbial species inour studyarea belongedtothegenus Bradyrhizobium.Thecomposition of nitrogen-fixing microbial communities varied acrossboth vegetationtypes andregions.There wereonly nine sharedoperational taxonomic units（OTUs）among the threeregions,andonly eleven shared OTUs inthe three vegetation types.The numberof sharedOTUs between the Du'an and Dahuaregions was39,which was much higher thanthatof the Huanjiang region.This indicated thatthecomposition andstructureof plant communities were similartoeach other，aswerethecompositionand structureof thesoil nitrogenfixing microbial communities.Mantel corelation analysisalsoshowed thatsoil nitrogen-fixing microbialcommunitiesand plant communities were significantly correlated ( $r = 0 . 6 1 1 6$ ， $P = 0 . 0 1 1$ ). From the canonical correspondence analysis, the cumulative explanation of the first two axes was only $2 2 . 7 2 \%$ ，which could not fully explain the variation in the nitrogenfixing microbial communities.Total nitrogen，available potassium，andavailablecalcium hadasignificant effctonthe nitrogen-fixingmicrobialcommunities.Thissugests thatfurtherresearch isrequired todetermineadditional soil properties. Inconclusion，soil nitrogen-fixing microbialcommunities，plantcommunities，andsoilconditionswere mutuallafectedby each other.Therefore，duringthe processof karst ecologicalrestorationandreconstruction,itisimportant thatboththe aboveground vegetation and the belowground functional microbial communities are given equal attention.
+
+Key Words:nitrogen-fixing microbial community；nifH gene；re-vegetation；karst
+
+固氮微生物是生态系统中一类重要的功能菌群,它在土壤氮素循环中发挥着不可取代的作用,其群落结构组成对土壤氮素固定及维持氮素循环平衡具有重要意义[1-2]。固氮微生物中均含有编码铁蛋白的 nifH基因,基于该基因的分子生物学分析为固氮微生物群落结构及多样性的探索提供了一个较传统培养更为灵敏和准确的分析方法[3-4]。大量研究表明,固氮微生物群落的结构与组成受土地利用方式、施肥制度、土壤理化性质(如 $\mathrm { p H } \sqrt { \mathrm { s o c } }$ 、TN)等因素的影响,如长期施加氮肥会使土壤固氮微生物的竞争力下降,进而改变其多样性、群落结构与组成[5-7]。越来越多的研究表明,地上植物群落与土壤微生物群落存在着不可分割的相互联系，地上植物群落通过凋落物和根系分泌物影响土壤微生物的种类和丰度,而土壤微生物通过改变土壤环境、影响养分矿化过程等方式影响地上植物群落的多样性、群落结构及生产力[8-10]。然而，目前对固氮微生物群落与地上植物群落相互联系的研究相对较少,它们之间是否存在紧密的相关性尚不清楚。
+
+西南喀斯特地区是我国生态环境最脆弱的地区之一,强烈的人为干扰(如火烧、放牧、樵采等)导致原有植被大面积破坏,水土流失加剧,石漠化严重,生态恢复与重建迫在眉睫[-12]。前期研究表明,氮素是喀斯特植被恢复的重要限制性因素之一,生物固氮作为自然生态系统氮素输入的主要来源,是解决退化生态系统氮素限制的最好方式[13-15]。长期以来,研究者多从地上植物的角度(自然封育和人工造林)提出喀斯特退化生态系统的恢复措施,对喀斯特生态恢复过程中植被与土壤环境的耦合关系已有较深人的认识[16-17]。目前,对喀斯特生态系统的地下生物过程,尤其是对土壤功能微生物(如固氮微生物、丛枝真菌)的研究相对较少,缺乏对植被恢复过程中固氮微生物群落的变化及与地上植物群落、土壤环境之间关系的认识。
+
+本文以桂西北3个县(都安、大化、环江)为研究区域,选取喀斯特典型植被类型(草丛、灌丛、次生林),建立动态监测样地,进行植被调查,采集土壤样品,运用 PCR-克隆-测序技术,明确了喀斯特典型植被类型的固氮微生物群落组成特征,探讨了固氮微生物群落与地上植物群落之间的相互关系,揭示了土壤环境对固氮微生物群落的影响,以期能为喀斯特地区生物固氮潜力的开发及生态恢复与重建提供参考数据和科学指导。
+
+# 1研究区域与研究方法
+
+# 1.1 研究区概况
+
+研究区位于桂西北河池市( $( 2 3 ^ { \circ } 4 1 ^ { \prime } - 2 5 ^ { \circ } 3 7 ^ { \prime } \mathrm { ~ N ~ }$ ， $1 0 6 ^ { \circ } 3 4 ^ { \prime } \mathrm { ~  ~ { ~ - ~ } ~ } 1 0 9 ^ { \circ } 0 9 ^ { \prime } \mathrm { ~ E ~ }$ ),具有典型喀斯特地貌,土壤量少且分布零散,岩石裸露率较高。2011年8月,选取研究区内的典型生态系统(草丛、灌丛、次生林),分别在环江县大才乡、都安县三只羊乡、大化县七百弄乡建立样方(每个地点同植被类型样方各3个重复),各样方的面积为 $2 0 \mathrm { ~ m ~ } \times 3 0 \mathrm { ~ m ~ }$ ,坡位、坡向和地质背景基本一致。
+
+大才乡概况位于环江毛南族自治县东南部， $2 4 ^ { \circ } 4 4 ^ { \prime } \mathrm { N } , 1 0 8 ^ { \circ } 1 9 ^ { \prime } \mathrm { E }$ 附近。该区属亚热带季风气候,年平均气温16.5- $2 0 . 5 \mathrm { ^ { \circ } C }$ ,年平均降水量 $1 3 8 9 . 1 ~ \mathrm { m m }$ ,降水分布不均,雨季4—9月降水占年总降水量的 $70 \%$ 。该区为典型的喀斯特峰丛洼地,土壤量少且分布零散。
+
+三只羊乡概况位于都安瑶族自治县北部， $2 4 ^ { \circ } 2 6 ^ { \prime } \mathrm { N } , 1 0 8 ^ { \circ } 0 2 ^ { \prime } \mathrm { E }$ 附近。该区属亚热带季风气候,多年平均气温 $1 9 . 6 ^ { \circ } \mathrm { C }$ ,年平均降水量 $1 4 9 2 . 2 \ \mathrm { m m }$ ,年平均蒸发量 $1 6 4 4 . 9 ~ \mathrm { m m }$ ,相对湿度 $7 4 \%$ ， ${ > } 1 0 ^ { \circ } \mathrm { C }$ 年积温平均值7289.$5 \%$ ,年日照平均值 $1 3 9 5 . 5 \mathrm { ~ h ~ }$ 。逐月降水分布不均,雨季5—8月降水占年总降水量的 $6 7 . 8 \%$ ,春旱、秋旱较频繁。地貌类型以典型的高峰丛洼地为主,土壤量少且分布零散,境内原生植被极少,森林覆盖率不足 $10 \%$ 。
+
+七百弄乡概况地处大化瑶族自治县西北部, $2 4 ^ { \circ } 0 8 ^ { \prime }$ $\mathrm { N } , 1 0 7 ^ { \circ } 4 0 ^ { \prime } \mathrm { E }$ 附近。该乡属亚热带季风气候区，年均气温17.4— $1 9 . 6 \mathrm { ^ { \circ } C }$ ,年降雨量 $1 5 0 0 { - } 1 6 0 0 ~ \mathrm { m m }$ ,雨水多集中于夏季。该区属最典型的峰丛洼地岩溶类型,大面积岩石裸露,石漠化严重，植被稀少，以灌木丛为主，森林覆盖率在$5 \%$ 以下。研究区域见图1。
+
+# 1.2野外调查与样品采集
+
+植被调查：每块样方分成6个 $1 0 ~ \mathrm { m } \times 1 0 ~ \mathrm { m }$ 的小样方调查植被组成。对于草丛样方，在每个小样方中选取1个2$\mathbf { m } \times 2 \mathrm { ~ m ~ }$ 的样方进行调查；对于灌丛样方，在每个小样方中选取1个 $4 \ \mathrm { m } \times 4 \ \mathrm { m }$ 的样方进行调查;对于次生林样方，则调查全部面积。分3层调查植被多样性：对于乔木层，记录物种名、胸径、数量;对于灌木层，记录物种名、基径、数量；对于草本层，记录物种名、数量。目测各物种的盖度和高度。
+
+![](images/9f2f4ad2727009c85c5d4af87a947b09fd7630f7638db34cd8106fc1f0cdc7fd.jpg)  
+图1研究区域分布情况Fig.1The location of study area
+
+土壤采集：在每个样方内，沿“S”型采集0— $2 0 ~ \mathrm { c m }$ 表层土壤15个点,混合成一个样品。在灭菌牛皮纸上除去大石块和动植物残体,并混合均匀后,用四分法分取 $\mathrm { 1 0 0 ~ g }$ 左右的土,用锡箔纸包好后放入灭菌布袋中,立刻投入液氮罐中速冻,带回实验室经冷冻干燥、磨细分装后放入 $- 7 0 \%$ 冰箱保存,用于提取微生物DNA;剩下的土壤风干,磨碎过筛后装入自封袋中,用于土壤理化性质的测定。
+
+# 1.3样品测定与分析
+
+# 1.3.1 土壤固氮微生物分析
+
+土壤样品中微生物 DNA 提取方法参照 Porteous 等的 SDS-GITC-PEG 方法[18]。采用 PolF（ $5 ^ { \prime }$ TGCGAYCCSAARGCBGACTC- $3 ^ { \prime }$ )和PolR( $5 ^ { \prime }$ :ATSGCCATCATYTCRCCGGA- $3 ^ { \prime }$ )扩增土壤微生物总 DNA 中的nifH 基因片段[3]。每个样品重复扩增3次,将3次的扩增产物混合均匀以消除单次扩增的偏向性。 $2 0 ~ \mu \mathrm { L }$ PCR反应体系为： $2 \times$ EasyTaq PCR Super Mix $1 0 ~ \mu \mathrm { L }$ ,引物各 $1 \ \mu \mathrm { L } ( 2 . 5 \ \mu \mathrm { m o l / L } )$ ,DNA模板约 $4 0 ~ \mathrm { n g }$ ,补充 $\mathrm { d d H } _ { 2 }$ 0至 $2 0 ~ \mu \mathrm { L }$ 。扩增条件为 $: 9 4 ^ { \circ } \mathrm { C } ~ 3 ~ \operatorname* { m i n } ; 9 4 ^ { \circ } \mathrm { C } ~ 3 0 ~ \mathrm { s } , 5 5 ^ { \circ } \mathrm { C } ~ 3 0 ~ \mathrm { s } , 7 2 ^ { \circ } \mathrm { C } ~ 3 0 ~ \mathrm { s } , 3 5 \$ 个循环； $7 2 \mathrm { ^ c } 7 \mathrm { \ m i n }$ 。
+
+采用琼脂糖凝胶 DNA 回收试剂盒(天根,中国)进行凝胶回收纯化。将回收获得的nifH基因片段连接到pMD19-T载体上（宝生物,大连）,转化进入大肠杆菌 $\mathrm { D H } 5 \alpha$ 高感受态细胞,将转化产物涂布到含有氨苄青霉素/IPTG/X-Gal的LB培养基上， $3 7 \%$ 培养 $1 6 { - } 2 4 \mathrm { ~ h ~ }$ ,每个样品挑取200个白色克隆子，采用菌落PCR的方法，用引物PolF/PolR扩增外源插入片段， $1 \%$ 琼脂糖凝胶电泳检测筛选阳性克隆，构建基因克隆文库。
+
+# 1.3.2土壤理化性质测定
+
+土壤 $\mathrm { \ p H }$ 的测定采用电位法（水土比2.5:1）;土壤全碳、全氮的测定采用碳氮元素分析仪（Elementar,
+
+Germany）；土壤有效态 $\mathrm { P } \ 、 \mathrm { K } \ 、 \mathrm { F e } \ 、 \mathrm { C a } \ 、 \mathrm { M g }$ 采用 $| \mathrm { O r r } \rrangle$ 等的Mehlich3法浸提,浸提液过滤后直接上机（ICP-MS,GBC)测定[5]。
+
+# 1.4 数据处理
+
+(1)重要值计算
+
+草本层重要值： $\begin{array} { r } { I V = } \end{array}$ （相对多度 $+$ 相对频度 $^ +$ 相对盖度）/3  
+灌木层重要值： $\begin{array} { r } { I V = } \end{array}$ （相对多度 $^ +$ 相对频度 $+$ 相对显著度)/3  
+乔木层重要值： $\begin{array} { r } { I V = } \end{array}$ （相对多度 $^ +$ 相对频度 $^ +$ 相对显著度)/3  
+相对显著度 $\mathbf { \Sigma } = \mathbf { \Sigma }$ (样方中该种个体胸面积和/样方中全部个体胸面积总和) $\times 1 0 0 \%$   
+相对多度 $\mathbf { \Sigma } = \mathbf { \Sigma }$ (样方中该种的个体数/所有种的总个数) $\times 1 0 0 \%$ 。  
+相对频度 $\mathbf { \Sigma } = \mathbf { \Sigma }$ (样方中该种的频度/所有种的频度总和) $\times 1 0 0 \%$ （204号  
+相对盖度 $\mathbf { \Sigma } = \mathbf { \Sigma }$ (样方中该种的分盖度/样方中全部个体盖度之和) $\times 1 0 0 \%$ 。
+
+(2)克隆文库序列分析
+
+测得的序列首先去除载体和嵌合体序列,将最后所得序列与GenBank 数据库中已知种类的序列进行比对,以确定各序列的种属信息。按 $9 3 \%$ 序列相似性划分OTU,用 Mothur 软件(http://www.mothur.org/)生成OTUs的分类,进行聚类分析和绘制Venn图。采用覆盖度 $( C )$ 来表征克隆文库的代表性,计算公式为 $C = 1 -$ $n / N , n$ 为克隆文库中仅出现过一次的OTUs数， $N$ 为克隆文库总克隆子数目。
+
+描述性统计和方差分析在 Excel 2010 和 SPSS 18.0 软件中进行。采用Canoco 5软件中的主坐标分析法来分析植物群落结构与组成的差异;采用CCA分析土壤理化因子对固氮微生物群落的影响。
+
+# 2结果与分析
+
+2.1典型植被类型的植物群落组成及差异
+
+各样方的植物群落优势种名录见表1。环江地区，草本层以五节芒（Miscanthusfloridulus）、翠云草（Selaginellauncinata）等为优势种；灌木层以木（Loropetalumchinense）豹皮樟(Litsea coreana）、四籽海桐（Pittosporumtonkinense）等为优势种；乔木层以青冈栎（Cyclobalanopsisglauca）、木等为优势种。都安地区，草本层以类芦（Neyraudiareynaudiana）、石山棕（Guihaiaargyrata)等为优势种；灌木层以红背山麻杆(Alchornea trewioides）灰毛浆果楝（Cipadessa baccifera)等为优势种;乔木层以琼楠（Beilschmiediaintermedia）、假玉桂(Celtistimorensis）等为优势种。大化地区，草本层以五节芒、肾蕨（Nephrolepiscordifolia)等为优势种;灌木层以广西密花树（Myrsine kwangsiensis）红背山麻杆等为优势种,乔木层以化香（Platycarya strobilacea）为优势种。不同植被类型的植物群落组成存在较明显的差异（图2)。其中，都安、大化地区同类型植被的群落结构较为相似，聚集在一起，而环江地区植被与都安、大化地区植被存在明显的差异
+
+![](images/eda2b7942f7705b998ef34d05454831050471a878242f2e72782f41e68cf6259.jpg)  
+图2植物群落结构与组成的PCoA分析  
+Fig.2PcoA analysis of plant community compositionand structure
+
+形状代表植被类型。圆形：草丛;菱形：灌丛;正方形：次生林;颜色代表区域。橙色：环江地区；绿色：都安地区；紫色：大化地区
+
+# 表1各样方的优势群落组成
+
+Table1 The dominant species of each plot   
+
+<html><body><table><tr><td>地点 Site</td><td>植被类型 Vegetation type</td><td>层次 Layer</td><td>优势种 Dominant species</td></tr><tr><td rowspan="6">环江</td><td>草丛GL</td><td>草本层H</td><td>五节芒(GL1:31.43%;GL2:25%;GL3:22%)</td></tr><tr><td>灌丛SL</td><td>灌木层S</td><td>四籽海桐(SL1:14.75%）,木(SL2:22.17%；SL3:14.09%)</td></tr><tr><td></td><td>草本层H</td><td>翠云草(SL1:20.78%），扭肚藤(SL2:12.97%），五节芒(SL3:19.21%)</td></tr><tr><td>次生林 SF</td><td>乔木层A</td><td>豹皮樟(SF1:40.81%）,青冈栎(SF2:22.09%）,木(SF3:68.47%)</td></tr><tr><td></td><td>灌木层S</td><td>天仙果(SF1:6.49%），粗丝木(SF2:12.77%），木(SF3:48.91%)</td></tr><tr><td></td><td>草本层H</td><td>驳骨九节(SF1:8.89%），翠云草（SF1:8.39%），紫叶秋海棠(SF2:6.01%），扭肚藤 (SF3:17.43%）,木(SF3:17.34%)</td></tr><tr><td rowspan="6">都安</td><td>草丛GL</td><td>草本层H</td><td>类芦（GL1:28%;GL2:41%;GL3:50%)</td></tr><tr><td>灌丛SL</td><td>灌木层S</td><td>红背山麻杆(SL1:27%;SL2:27%;SL3:28%）,灰毛浆果棟(SL1:24%)</td></tr><tr><td></td><td>草本层H</td><td>粗毛悬钩子(SL1:13%），毛蕨(SL2：14%）,乌莓（SL3:31%）</td></tr><tr><td>次生林 SF</td><td>乔木层A</td><td>琼楠(SF1:13%），青冈栎(SF2:23%），假玉桂(SF2:23%)</td></tr><tr><td></td><td>灌木层S</td><td>红背山麻杆(SF1:7%）,子凌蒲桃(SF1:6%;SF2:10%）,绸缎藤(SF3:7%）</td></tr><tr><td></td><td>草本层H</td><td>石山棕(SF1:19%）,箬竹（SF2:16%）,肾蕨(SF3:9%)</td></tr><tr><td rowspan="6">大化</td><td>草丛GL</td><td>草本层H</td><td>刚莠竹(GL3:19%;GL2:13%）,五节芒(GL1:15%;GL2:13%;),兰香草(GL1:18%)</td></tr><tr><td>灌丛SL</td><td>灌木层S</td><td>一叶萩(SL1:15%;SL2:22%）,广西密花树(SL3:15%)</td></tr><tr><td></td><td>草本层H</td><td>棕竹（SL1:22%）,肾蕨(SL2:14%）;五节芒(SL3:11%)</td></tr><tr><td>次生林SF</td><td>乔木层A</td><td>化香（SF1:30%;SF2:11%）,阴香(SF3:15%）</td></tr><tr><td></td><td>灌木层S</td><td>广西密花树(SF1:16%;SF3:20%）,红背山麻杆(SF2:7%)</td></tr><tr><td></td><td>草本层H</td><td>肾蕨(SF1:13%;SF2:15%;SF3:29%)</td></tr></table></body></html>
+
+括号中为该物种在各样方中的重要值；GL：grassand；SL：scrubland；SF：secondary forest.H：herbaceous；S：shrub；A：arborous扭肚藤（Jasminumelongatum）天仙果（Ficuserecta），粗丝木（Gompandratetrandra），紫叶秋海棠（Begoniapurpureofli）,粗毛悬钩子（ubuleifdius），毛蕨（Cyclosorusinteruptus）乌（Cayratiajponica），凌桃（Syumcamioni），绸缎（Buniahochrysa），竹（olsteselltus）刚（Mciuatu）兰草（prisan），叶（Fugfru），棕（see）香（Cburmannii)
+
+# 2.2典型植被类型土壤的基本理化性质
+
+研究区域土壤接近于中性土, $\mathrm { \ p H }$ 介于6.4—7.8 之间。随着植被从草丛向次生林的演变,土壤养分状况也随之发生了明显的改变,其中土壤总 $\mathrm { ~ N ~ }$ 明显增加(表2）。方差分析结果表明,土壤总C、总N、有效态 Fe、 $\mathbf { M } \mathbf { g }$ 、Ca均受植被类型和地理区域的共同影响,且植被与地理区域存在交互效应(表3）。其中,土壤有效态K主要受植被类型的影响 $( F = 7 . 7 1 , P { = } 0 . 0 0 4 )$ ,地理区域对其无显著影响( $F = 0 . 0 5 , P = 0 . 9 5 )$ ；而土壤 $\mathrm { \ p H }$ 、有效态 $\mathrm { ~ \bf ~ P ~ }$ （204号主要受地理区域的影响 $\prime - 4 . 0 8 , P = 0 . 0 3 5 ; F = 4 . 5 1 , P = 0 . 0 2 6 ,$ ,但植被类型对其无显著影响( $F = 2 . 2 9 , P =$ 0. $1 3 ; F = 0 . 8 7 , P = 0 . 4 3 5 )$ 。
+
+表2各样方的土壤理化性质  
+Table 2Soil properties of each plot   
+
+<html><body><table><tr><td colspan="2">地点 类型</td><td rowspan="2">pH</td><td rowspan="2">总碳 （g/kg)</td><td rowspan="2">总氮 Total carbon/Total nitrogen/Available P/ （g/kg)</td><td rowspan="2">有效态磷 （mg/kg)</td><td rowspan="2">有效态钾 Available K/ （mg/kg)</td><td rowspan="2">有效态铁 Available Fe/ (mg/kg)</td><td rowspan="2">有效态钙 Available Ca/ （g/kg)</td><td rowspan="2">有效态镁 Available Mg/ （g/kg)</td></tr><tr><td>Site Vegetation type</td><td></td></tr><tr><td rowspan="4">都安</td><td>草丛GL</td><td>6.87</td><td>33.14</td><td>2.62</td><td>2.12</td><td>68.61</td><td>56.13</td><td>3.88</td><td>0.08</td></tr><tr><td>灌丛SL</td><td>7.10</td><td>86.71</td><td>6.51</td><td>6.15</td><td>92.17</td><td>46.25</td><td>6.99</td><td>0.26</td></tr><tr><td>次生林 SF</td><td>7.26</td><td>74.96</td><td>5.54</td><td>3.76</td><td>80.74</td><td>50.64</td><td>7.52</td><td>0.34</td></tr><tr><td>草丛GL</td><td>6.43</td><td>46.19</td><td>2.71</td><td>8.31</td><td>31.27</td><td>119.11</td><td>3.01</td><td>0.11</td></tr><tr><td rowspan="5">环江</td><td>灌丛SL</td><td>7.42</td><td>121.69</td><td>7.75</td><td>7.45 7.61</td><td>124.73 80.16</td><td>39.13 50.11</td><td>9.47 9.16</td><td>0.40</td></tr><tr><td>次生林 SF</td><td>7.26</td><td>100.30</td><td>6.65</td><td>7.39</td><td>87.00</td><td>47.43</td><td>5.13</td><td>0.23</td></tr><tr><td>草丛GL</td><td>7.77</td><td>108.98</td><td>4.08</td><td>7.26</td><td>102.78</td><td>53.74</td><td>4.89</td><td>2.00</td></tr><tr><td>灌丛SL</td><td>7.68</td><td>90.43</td><td>4.20</td><td>4.50</td><td>57.67</td><td>57.52</td><td>4.09</td><td>2.17</td></tr><tr><td>次生林SF</td><td>7.02</td><td>58.53</td><td>4.25</td><td></td><td></td><td></td><td></td><td>0.92</td></tr></table></body></html>
+
+http ://www.ecologica.cn
+
+表3植被类型和地点对土壤理化性质的影响  
+Table 3Two-way ANOVA table for the effect of sites and vegetation type on soil properties   
+
+<html><body><table><tr><td>主效应 Main effects</td><td></td><td>pH</td><td>总碳 Totalcarbon</td><td>总氮 Total nitrogen</td><td>有效态磷 Available P</td><td>有效态钾 Available K</td><td>有效态铁 Available Fe</td><td>有效态钙 Available Ca</td><td>有效态镁 Available Mg</td></tr><tr><td>地点 Site</td><td>均方</td><td>0.57</td><td>1579.32</td><td>5.25</td><td>32.89</td><td>31.90</td><td>926.58</td><td>14.26</td><td>6.39</td></tr><tr><td></td><td>F</td><td>4.08</td><td>6.58</td><td>7.51</td><td>4.51</td><td>0.05</td><td>4.42</td><td>7.98</td><td>227.45</td></tr><tr><td></td><td>P</td><td>0.035</td><td>0.007</td><td>0.004</td><td>0.026</td><td>0.950</td><td>0.028</td><td>0.003</td><td>0.000</td></tr><tr><td>植被类型</td><td>均方</td><td>0.32</td><td>3085.77</td><td>22.55</td><td>6.35</td><td>4809.51</td><td>1915.63</td><td>27.33</td><td>0.45</td></tr><tr><td>Vegetation type</td><td>F</td><td>2.29</td><td>12.86</td><td>32.23</td><td>0.87</td><td>7.71</td><td>9.13</td><td>15.30</td><td>16.02</td></tr><tr><td></td><td>P</td><td>0.130</td><td>0.000</td><td>0.000</td><td>0.435</td><td>0.004</td><td>0.002</td><td>0.000</td><td>0.000</td></tr><tr><td>地点×植被类型</td><td>均方</td><td>0.57</td><td>2894.93</td><td>5.41</td><td>7.29</td><td>1866.85</td><td>1937.56</td><td>12.50</td><td>0.52</td></tr><tr><td>SiteXvegetation type</td><td>F</td><td>4.04</td><td>12.06</td><td>7.74</td><td>1.00</td><td>2.99</td><td>9.23</td><td>7.00</td><td>18.38</td></tr><tr><td></td><td>P</td><td>0.016</td><td>0.000</td><td>0.001</td><td>0.433</td><td>0.047</td><td>0.000</td><td>0.001</td><td>0.000</td></tr></table></body></html>
+
+# 2.3典型植被类型的固氮微生物群落差异
+
+由于各克隆文库的克隆子数目相差较大,因此从每个克隆文库中随机挑取70个克隆子(3个重复）,保证3 个区域克隆文库的克隆子数量基本相同（约200个）。每个克隆文库的覆盖度均超过 $6 0 \%$ ,表明克隆文库能够基本代表该区域的土壤固氮微生物群落的多样性。在GenBank 数据库中对序列进行比对,发现土壤中的优势固氮微生物为慢生根瘤菌。
+
+按照 $9 3 \%$ 序列相似性划分OTU,根据 Bray-curtis 指数计算距离,得到相似性矩阵,进行群落结构差异分析。由Vemn图可见（图3）,3个地区共有的OTUs数目仅为9个,其中都安、大化地区共有的OTUs数目为39,而都安和环江、大化和环江之间共有的OTUs数目分别为19、21个,表明都安、大化地区的土壤固氮微生物群落组成更相似,由此可见,植物群落结构更相似,土壤固氮微生物群落也更相似。Mantel相关性分析进一步表明植物群落与固氮微生物群落显著相关 $( r _ { - } = 0 . 6 1 1 6 , P = 0 . 0 1 1 )$ 。同样地,不同植被类型下土壤固氮微生物群落也发生了明显的变化,其中草丛与灌丛、灌丛与次生林、草丛与次生林共有的OTUs数目分别为30、31、19 个,这表明;随着植被的正向演替,土壤固氮微生物群落的改变有个渐变的过程。
+
+![](images/3f360dc79cdd6b90c765cb2f5667e566ebf0a1731e89ad785616538ffc2adeb6.jpg)  
+图3固氮微生物的群落差异分析  
+Fig.3The variance analysis of nitrogen-fixing microbial community DA：都安县;DH：大化县;HJ：环江县;GL：草丛;SL：灌丛;SF：次生林
+
+由图4可见，CCA分析前两轴的解释率之和仅为 $2 2 . 7 2 \%$ ,这表明本研究涵盖的土壤理化性质指标并不能很好的解释固氮微生物群落的变异。但总氮、有效态钾、有效态钙对固氮微生物群落影响显著( $\scriptstyle P < 0 . 0 5$ 。总体来说，土壤固氮微生物群落受植物群落与土壤条件的共同影响。
+
+# 3讨论
+
+本文采用克隆文库的方法，研究了区域尺度上不同植被类型下土壤固氮微生物群落差异。nifH基因是研究固氮微生物的marker基因，它的系统发育分析与16SrDNA基因高度一致，因此常用于进行固氮微生物多样性的研究[19-22]。对于16S rDNA 基因,一般将序列相似性 $5 9 7 \%$ 归为一个OTU（种），而对于功能基因如何划分种无统一标准。已有的研究表明， $1 6 \mathrm { S \ r D N A }$ 基因的序列相似性 $> 9 7 \%$ ,其nifH基因序列相似性可能低于$9 5 \%$ ,甚至低至 $8 5 \%$ ,利用nifH基因序列只能估算物种多样性，并不能真实反映样品中固氮微生物的遗传多样性[4]。不同的研究者往往采用不同的序列相似性$9 3 \% - 9 7 \%$ )来划分OTU，本文参照Hsu等人的研究，按 $9 3 \%$ 的序列相似性来划分OTU并进行后续的分析[21]
+
+以往的研究，多关注固氮微生物群落对施肥制度、土地利用方式和植被变化的响应，对群落尺度上固氮微生物群落与植物群落相关性的研究较少[23-24]。Tai 等[19]研究表明小叶金露梅灌木群落和黑褐苔草牧草地的固氮微生物群落存在显著差异,由此可见固氮微生物群落与地上植物群落密切相关。本研究从群落尺度水平上,采用Venn 图和 Mantel 相关性分析研究了固氮微生物群落与地上植物群落的关系。结果表明,两者之间显著相关,植物群落结构越相似,固氮微生物群落也越相似。研究区域内的顶级植被群落属于中亚热带石灰岩区常绿落叶阔叶混交林,草丛、灌丛和次生林都是由于干扰程度不同退化而成[12]。都安、大化地区属于深峰丛洼地,峰顶海拔多为800— $1 0 0 0 \mathrm { ~ m ~ }$ ,洼地、谷地海拔为600— $8 0 0 \mathrm { ~ m ~ }$ ,地貌较为相似,因此其植被群落组成与结构也较接近。环江地区属低中山峰丛洼地，海拔介于442一 $6 3 7 \mathrm { ~ m ~ }$ 之间,其植被群落组成与结构与都安、大化地区有明显差异。地上植物群落结构与组成的变化导致凋落物的质量和根系分泌物存在差异,间接影响固氮微生物种间的竞争力,从而使整个固氮微生物群落结构与组成发生改变[25]。
+
+![](images/a5b14b7a8e9ffca3f9f987a137f090a12622225c7d77dd581e4a56d6c38201d3.jpg)  
+图4固氮微生物群落与土壤理化性质的CCA分析Fig. 4 CCA analysis of diazotroph communities and soilproperties带箭头的实线表示土壤理化因子（解释变量)，三角形代表固氮微生物群落
+
+土壤理化性质是影响固氮微生物群落的另一重要因素。已有的研究表明, $\mathrm { \ p H }$ 、全氮、全碳、全钾、碳氮比和有效态磷都会显著影响固氮微生物群落的多样性与结构[6,19,26]。本研究中,总氮、有效态钾、有效态钙显著影响固氮微生物群落,这与之前的研究结论一致。固氮微生物在氮素缺乏的土壤中更具竞争优势,土壤氮素含量的变化会影响固氮微生物与其它土壤微生物的竞争关系,从而影响固氮微生物的群落组成[27];而土壤有效态钙可能通过影响固氮酶活性来影响固氮微生物群落。综上所述,地上植物群落、土壤环境、固氮微生物群落三者之间相互影响,存在协同演变机制。今后研究中,有必要从物种的水平上,具体分析固氮微生物与植物、土壤因子之间的耦合机制。
+
+# 参考文献（References）：
+
+[1]DixonR,KahnD.Geneticregulationofbiologicalnitrogenfixation.Nature Reviews Microbiology，2O04,2（8）：621-631.  
+［2］杨成德，龙瑞军，陈秀蓉，薛莉.土壤微生物功能群及其研究进展.土壤通报，2008，39（2）：421-425.  
+[3]PolyFnjadLaaretoubeoeLoarisoofifelsinlsdlcetsiostiproperties.Applied and Environmental Microbiology，2001,67(5）：2255-2262.  
+[4]GabyJcklecmpresiveldifetabaseuipuposeolfoudiesofrogngcteabedoi:10.1093/database/bau001.
+
+http://www.ecologica.cn
+
+[5]rCJermSviifrlrogfcetalceand conventionally managed soils.Applied and Environmental Microbiology，2011,77(3）：911-919.  
+[6]MiaBtssesJespofeirftdithe Amazon rainforest.Applied and Environmental Microbiology，2014,80(1)：281-288.  
+[7]WangJC,ZhangD,ZhangL,LiJ,RazaWHuangQW,henQR.TmpralVariatiofdiazotrophccounitybndanceandsrucureinsurfaceandsubsoiludrffrttiosuringaatgoingasAgcue,osts&Eviont6,4.  
+[8]WardleDA，BardgettRD，KlironomosJN，Setal，VanDerPuten WH,WallDHEcologicallinkagesbetweenabovegroundandbelowground biota.Science，2004，304（5677）：1629-1633.  
+[9]VanDerHejdenGardgetRD,VanStralenNesnajoritoilmcroesasdriversofpantdivestdproduciityterrestrial ecosystems.Ecology Letters，2008，11(3）：296-310.  
+10]everJDstallalptoseictsuctidcLetters，2013,16(2):167-174.  
+[11］彭晚霞，王克林，宋同清，曾馥平，王久荣.喀斯特脆弱生态系统复合退化控制与重建模式.生态学报，2008，28（2）：811-820.  
+[12］杜虎，彭晚霞，宋同清，王克林，曾馥平，鹿士杨，时伟伟，唐成，谭秋锦.桂北喀斯特峰丛洼地植物群落特征及其与土壤的耦合关系.植物生态学报，2013，37（3)：197-208.  
+[13］周炼川，陈效民，李孝良，杨新强，黄代民.西南喀斯特地区典型石漠化阶段土壤氮素变异研究.农业环境科学学报，2009，28（8）：1753- 1757.  
+[14]JohnsonDW,TurnerJ.Nitrogenbudgetsofforestecosystems:Areview.ForestEcologyand Management，2014,318:37-379.  
+[15]VitousekPengeDL，Red，ClevelandCiologicalitrogenfiatioatesaterandcologicalcotrolsieeilecosystems.Philosophical Transactions of the Royal SocietyB:Biological Sciences,2013，368(1621）:20130119.  
+[16］刘成刚，薛建辉．喀斯特石漠化山地不同类型人工林土壤的基本性质和综合评价.植物生态学报，2011，35（10)：1050-1060.  
+[17]LuXQ,TodaH,DingFJFangSZ,YangWX,XuHG.fetfvegetatontyesoncemicaladbiologicalpropertiesofilsfastecosystems. European Journal of Soil Biology，2014,61:49-57.  
+[18]PorteousLA,AmstrongJL，SeideRJWtrdLSAneectieeodtoetractDAfromevioenamplesforpolerasehnreactionamplification and DNA fingerprint analysis.Current Microbiology，1994,29(5）：301-307.  
+[19]TaiXS,MaoWL,LiuGX,ChenT,ZhangW,WuXK,LongHZ,ZhangBG,ZhangY.Highdiversityofnitrogen-fixingbacteria intheupper reaches of the Heihe River，northwestern China.Biogeosciences，2013，10(8）：5589-5600.  
+[20］董志新，孙波，殷士学，隋跃宇.气候条件和作物对黑土和潮土固氮微生物群落多样性的影响.土壤学报，2012,49(1)：130-138.  
+[21]HsuSuckleyDEvideeforfctioalignfiaefzotrohuitytructureinilheJal（：124- 136.  
+22Izquerislo441-452.  
+[23]PatraAKeLsoeadA,aVSld,selFo,aeL,PolyF,roserJLeRouX.ectsofaageentgiendplantspeisoeeactivitdgeneticsructureffing，denitrifyingandnitrfyingbacterialcommunitiesingrassandsoils.Environmental Microbiology,20o6,8（6）：1005-016.  
+[24]刘晓蒨，涂仕华，孙锡发，辜运富，张先琴，张小平.秸秆还田与施肥对稻田土壤微生物生物量及固氮菌群落结构的影响.生态学报，2013, 33(17) : 5210-5218.  
+[25] 王邵军，阮宏华.土壤生物对地上生物的反馈作用及其机制.生物多样性，2008，16(4)：407-416.  
+[26]TengQHSBuX,S,uZLCAalyiieildediaegaJourmal of Microbiology，2009,47(2）：135-141.7 郑棉海，陈浩，朱晓敏，毛庆功，莫江明.矿质养分输入对森林生物固氮的影响.生态学报，2015，35（24）：7941-7954.

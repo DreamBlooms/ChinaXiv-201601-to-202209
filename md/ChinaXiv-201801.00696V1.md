@@ -1,0 +1,142 @@
+# 基础研究
+
+# 旋毛虫及其虫源性蛋白对盲肠结扎穿孔诱导的小鼠脓毒症的影响
+
+李徽徽1,贺文欣¹,宋迪²,吴琦²,李楠³,万勇坤²,张慧²,仇大鹏4,褚亮4,王黎源5,杨小迪²,方强²蚌埠医学院'组织学与胚胎学教研室，病原生物学教研室，病理学教研室，4第二附属医院,5人体解剖学教研室，安徽 蚌埠 233000
+
+摘要：目的观察旋毛虫及其虫源性蛋白对盲肠结扎穿孔(CLP)诱导的小鼠脓毒症的影响。方法80只雄性BALB/c小鼠随机分为假手术组、CLP组、旋毛虫肌幼虫(ML)预感染组、旋毛虫肌幼虫虫体可溶性蛋白(SMP)处理组和排泄分泌蛋白(MES)处理组。ML预感染组于术前 $2 8 \textup { d }$ 经口感染300条旋毛虫肌幼虫，其余各组分别于术后 $3 0 \mathrm { m i n }$ 腹腔注射PBS或SMP( $2 5 \mu \mathrm { g } /$ 只)或MES( $2 5 ~ \mu \mathrm { g } /$ 只)。观察小鼠术后状态和 $7 2 \mathrm { { h } }$ 生存率,检测术后 $1 2 \mathrm { h }$ 小鼠血清中丙氨酸氨基转移酶(ALT)天门冬氨酸氨基转移酶(AST）尿素氮(BUN)和肌酐 $( \mathbf { C r } )$ 水平及TNF-α、IL-6、IL-1β、IL-10、TGF-β水平,观察小鼠肝和肾组织病变。结果 与假手术组相比,CLP组 $7 2 \mathrm { { h } }$ 生存率降低，血清中ALT、AST、BUN和 $\mathrm { C r }$ 水平及细胞因子TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ IL-6、IL- $1 \beta$ IL-10 和TGF-β水平均明显升高 $( P { < } 0 . 0 5 )$ 。肝中肝索排列紊乱，肝细胞水肿,肾中部分血管球皱缩，肾小管细胞水肿。与CLP组相比,ML预感染组血清中ALT、AST、Cr、TNF-α和IL-1β水平降低,IL-10 和TGF-β水平升高( $( P { < } 0 . 0 5 )$ ;SMP处理组血清中ALT、AST、Cr、TNF-α和IL-1β水平降低，TGF-β水平升高 $( P { < } 0 . 0 5 )$ ;MES处理组 $7 2 \mathrm { { h } }$ 生存率明显升高,血清中ALT、AST、BUN、Cr、TNF $\mathbf { \nabla } \cdot \mathbf { a } _ { } $ IL-6和IL-1β水平明显降低，IL-10和TGF-β水平明显升高（ $_ { ( P < 0 . 0 5 ) }$ ,肝和肾组织结构损伤明显减轻。结论 旋毛虫及其虫源性蛋白可减少CLP诱导的脓毒症小鼠血清中促炎因子的释放,促进免疫调节因子的释放，其中MES效果更为显著，并能减轻肝和肾结构和功能的损伤。
+
+关键词：脓毒症；旋毛虫；盲肠结扎穿孔;排泄分泌蛋白；促炎因子；免疫调节因子
+
+# Effect of Trichinella spiralis and its worm-derived proteins on CLP-induced sepsis in mice
+
+LI Huihui,HEWenxin,SONG Di²,WU $Q i ^ { 2 } ,$ LINan³，WAN Yongkun，ZHANGHui²，QIU Dapeng4,CHU Liang，WANG Liyuan', YANG Xiaodi²,FANG Qiang   
+Departmentofstoodboloatetofoolodasiepamntofiologole Hospital,Department ofHumanAnatomy,Bengbu Medical College,Bengbu 233ooo,China
+
+Abstract:ObjectiveToobservetheefectof Trichinell spiralisanditsworm-derivedproteinsoncecal ligationand puncture (CLP)-induced sepsis in mice. Methods Eighty male $\mathtt { B A L B / c }$ mice were randomly divided into sham-operated group, CLP group, Trichinella spiralis muscle larvae (ML) pre-infection group $( { \mathrm { M L } } + { \mathrm { C L P } }$ group), soluble muscle larvae proteins (SMP) treatment group $\mathsf { \Pi } _ { \mathrm { S M P + C L P } }$ group) and excretory-secretory proteins (MES) treatment group $( \mathrm { M E S + C L P }$ group). In $_ { \mathrm { M L + C L P } }$ group,themice wereorally infected with300 Trichinell spiralismusclelarvaeat28days beforeCLPand thoseintheother groups were intraperitioneally injected with PBS or SMP $( 2 5 ~ \mu \mathrm { g } / \mathrm { m i c e } )$ or MES $( 2 5 ~ \mu \mathrm { g / m i c e } )$ $3 0 ~ \mathrm { m i n }$ after CLP. The general condition and 72-h survival after CLPof the mice wereobserved.The levels of alanine transaminase (ALT)，aspartate transaminase (AST), blood urea nitrogen (BUN), creatinine $( \mathrm { C r } )$ ,TNF- $\cdot \alpha ,$ IL-6, IL- $\cdot 1 \beta ,$ IL-10 and TGF- $\cdot \boldsymbol { \beta }$ were measured at $^ { 1 2 \mathrm { ~ h ~ } }$ after the operation,and the pathological changes of the liver and kidney were observed.Results Compared with the sham-operated mice, the mice in CLP group showed decreased 72-h urvival,obviously increased ALT,AT,BUN, $\operatorname { C r } ,$ TNF- $\cdot \alpha ,$ IL-6, IL-1β, IL-10, and TGF- $\cdot \{ \beta$ with hepatic cords disorder, hepatocytes sweling, glomerulus shrinkage,and renal tubular cell edema. Compared with CLP group, the mice in $_ { \mathrm { M L + C L P } }$ group showed lowered levels of ALT, AST, $\operatorname { C r } ,$ TNF- $\alpha$ and $\mathrm { I L } { - } 1 \beta$ and increased levels of IL-10 and TGF- $\cdot \{ \beta ;$ in $_ { \mathsf { S M P + C L P } }$ group, the levels of ALT, AST, $\operatorname { C r } ,$ TNF- $\alpha$ and IL-1β were decreased and
+
+收稿日期：2016-05-05
+
+基金项目：国家自然科学基金项目(81441120);高校科研创新平台团队项目(2016-40);安徽省自然科学基金项目(1508085QH158);安徽省高校优秀青年人才支持计划重点项目(gxyqZD2016159);安徽省高等学校自然科学研究重点项目(KJ2016A708);安徽省自然科学青年科学基金项目(1608085QC51)；安徽省高等学校自然科学研究项目(KJ2015B013by);蚌埠医学院自然科学研究重点项目(BYKL1402ZD);安徽省级大学生创新项目(201510367016)Supported by National Natural Science Foundation of China (81441120).作者简介：李徽徽,硕士,讲师,E-mail:dearlxh@163.com通信作者：杨小迪,博士,副教授,硕士生导师,E-mail:yxd_qf $@$ 163.com;方强,博士,教授，硕士生导师,E-mail: fq333@sohu.com
+
+TGF- $\cdot \boldsymbol { \beta }$ increased. In $\mathbf { M E S } + \mathbf { C L P }$ group, the mice showed obviously increased 72-h survival with lowered levels of ALT,AST, BUN, $\operatorname { C r } ,$ TNF- $\cdot \alpha ,$ IL-6 and IL- $1 { \boldsymbol { \beta } } ,$ increased levels of IL-10 and TGF- $\cdot \{ \beta ,$ and alleviated liver and kidney damages. ConclusionTrichinellaspiralisandits worm-derived proteins can decrease the levelsof pro-inflammatory cytokines and increase immunomodulatory cytokines,and MES has more potent effect to reduce structural and functional damages of the liver and kidney.
+
+Keywords: sepsis;Trichinella spiralis;cecal ligation and puncture; excretory-secretory proteins; pro-inflammatory cytokine; immunomodulatory cytokines
+
+脓毒症是机体在感染因素的作用下，炎症介质过度释放而引发失控的自我持续放大和自我破坏的全身炎症反应综合征，发病急，死亡率高。虽然对脓毒症的抗感染治疗技术在近年来取得了长足进步，但居高不下的发病率和死亡率仍然困扰着临床医生。因此，寻找安全、有效的脓毒症治疗策略显得尤为重要。
+
+近年来，随着“卫生假说"的提出，蠕虫感染与脓毒症的关系备受关注，大量研究表明：蠕虫及其虫源性蛋白可以有效的抑制脓毒症引起的过度的炎症反应[2-]。旋毛形线虫(简称旋毛虫,Trichinellaspiralis)属于蠕虫中旋毛形线虫属，幼虫寄生于横纹肌中，成虫寄生于小肠粘膜内，可引起宿主的旋毛虫病。但多项研究证实，旋毛虫感染后能缓解多种自身免疫性疾病动物模型的炎症反应,如多种类型的肠炎[哮喘[8-9]、I型糖尿病[10-11]等，其机制可能与旋毛虫蛋白有关。旋毛虫作为一种组织寄生虫，在发育的不同时期分泌不同的蛋白调节宿主的局部或全身免疫，进行免疫逃避，达到与宿主共生的目的。有体外实验证实旋毛虫肌幼虫虫体可溶性蛋白及排泄分泌蛋白可诱导T细胞、巨噬细胞和树突状细胞活化,释放更多的免疫调节因子，如白介素-4(IL-4),白介素-10(IL-10)等[12-13],但旋毛虫肌幼虫及其虫源性蛋白能否抑制脓毒症过度的炎症反应尚未见报道。因此，本次实验通过旋毛虫肌幼虫（Trichinellaspiralismuscleslarvae,ML)预感染,旋毛虫肌幼虫虫体可溶性蛋白(soluble muscle larvae proteins,SMP)和排泄分泌蛋白（MES）对盲肠结扎穿孔（cecalligation andpuncture,CLP)致BALB/c小鼠脓毒症进行干预,并探讨其可能的机制，为脓毒症的临床治疗提供新思路。
+
+# 1材料和方法
+
+# 1.1 实验材料
+
+1.1.1实验动物6周龄SPF级BALB/c小鼠(苏州工业园区爱尔特科技有限公司，生产许可证号Scxk(苏)2014-0007,动物伦理批准文号AMU26-08061)，雄性，体质量 $1 8 { \sim } 2 2 \ \mathrm { g }$ ，自由饮食。1.1.2 虫株 旋毛虫虫种引自河南猪源旋毛虫，由郑州大学王中全和崔晶教授惠赠，昆明小鼠传代保种。
+
+# 1.2主要试剂与仪器
+
+苏木精伊红染料(碧云天公司)，ELISA试剂盒(达科为公司)，全自动组织脱水机ZT-14S3(湖北孝感医用电子技术有限公司），组织切片机（德国Leica公司），酶标仪Model550（美国BIO-Rad公司），全自动生化分析仪(美国BeckmanCoulter公司）。
+
+# 1.3方法
+
+1.3.1ML的收集实验前用旋毛虫肌幼虫转种昆明鼠备用。昆明鼠经口感染旋毛虫肌幼虫500条/只，45d后，颈椎离断处死昆明鼠。剥去皮毛，取全部肌肉，剪碎并用高速组织绞肉机搅匀，采用胃蛋白酶消化法( $1 \%$ 胃蛋白酶 $+ 0 . 7 5 \%$ HCI),置于恒温磁力搅拌器上， $3 7 ~ \mathrm { ^ { \circ } C }$ 搅拌消化 $4 \mathrm { { h } }$ ，每 $1 0 0 ~ \mathrm { { m L } }$ 加 $0 . 8 5 \ \mathrm { g \ N a C l }$ 终止反应，100目/英寸无菌不锈钢网过滤，自然沉淀、离心，收集ML，无菌生理盐水洗涤4次后， $4 \%$ 琼脂计数[14]
+
+1.3.2SMP的收集纯净的旋毛虫肌幼虫置于EP管中，置于 $4 ^ { \circ } \mathrm { C }$ 和 $- 8 0 \mathrm { { ^ { \circ } C } }$ 反复冻融5次，加入适量无菌生理盐水，组织研磨器于冰上快速研磨 $1 5 \mathrm { m i n }$ ，再经超声6次，彻底粉碎虫体， $1 2 \ : 0 0 0 \ : \mathrm { r / m i n }$ 离心 $2 0 ~ \mathrm { m i n }$ 后取上清，收集SMP,SDS-PAGE电泳检测SMP成分，BCA法测定SMP蛋白浓度， $- 8 0 \mathrm { { ^ { \circ } C } }$ 保存。
+
+1.3.3MES的收集纯净的旋毛虫肌幼虫置于培养Ⅲ中，加入含双抗不含血清的RPMI1640培养基,调整密度为4000\~5000条 $/ \mathrm { m L }$ ,将培养皿置于 $3 7 \ \mathrm { ^ { \circ } C } , 5 \% \mathrm { C O } _ { 2 }$ 培养箱中孵育 $4 8 \mathrm { { h } }$ ，选取无污染，死虫率 $45 \%$ 的培养皿，离心后取上清液，经 $0 . 2 2 \mu \mathrm { m }$ 硝酸纤维素膜过滤后，置于超滤管中离心浓缩,收集MES[15],SDS-PAGE电泳检测MES成分，BCA法测定MES蛋白浓度， $- 8 0 \mathrm { { ^ circ C } }$ 保存。
+
+1.3.4动物分组及小鼠脓毒症模型的制备雄性BALB/c小鼠80只，适应性饲养1周，随机分为：假手术组(Sham组）、盲肠结扎穿孔组(CLP组）旋毛虫肌幼虫预感染组$\scriptstyle ( \mathbf { M L + C L P }$ 组）、旋毛虫肌幼虫虫体可溶性蛋白处理组$( \mathrm { S M P + C L P }$ 组)和排泄分泌蛋白处理组 $( \mathbf { M E S + C L P }$ 组）,每组10只用于观察小鼠术后状态和 $7 2 \mathrm { { h } }$ 生存率,每组6只于术后12h取材。采用盲肠结扎穿孔[16-17]制备脓毒症小鼠模型。小鼠术前禁食 $1 2 \mathrm { h }$ ,不禁水。 $4 0 ~ \mathrm { g / L }$ 水合氯醛 $0 . 2 ~ \mathrm { m L } / 2 0 ~ \mathrm { g }$ 腹腔注射麻醉，麻醉满意后固定、备皮、消毒。腹部正中(沿腹白线)逐层切开 $0 . 8 ~ \mathrm { c m }$ ，轻柔地找到并结扎盲肠根部， $1 8 \mathrm { ~ G ~ }$ 无菌针头在已结扎盲肠中段对穿1次，轻柔地从戳孔处挤出少许肠内容物。将结扎穿孔后的盲肠小心还纳腹腔，逐层缝合腹壁并消毒。小鼠背部皮下注射生理盐水 $0 . 5 ~ \mathrm { m L } / 2 0 ~ \mathrm { g }$ 抗休克。术后小鼠放回鼠笼，自由饮水、进食。Sham组除不结扎并穿孔盲肠，其余操作与CLP组相同; ${ \bf M } { \bf L } { + } { \bf C } { \bf L } { \bf P }$ 组小鼠于CLP术前28d经口感染300条旋毛虫肌幼虫[18]，常规喂养； $_ { \mathrm { S M P + C L P } }$ 组和 $\mathbf { M E S + C L P }$ 组分别于CLP术后$3 0 \mathrm { m i n }$ 腹腔注射SMP( $2 5 ~ { \mu \mathrm { g } } /$ 只)或MES( $2 5 ~ { \mu \mathrm { g } } /$ 只)，而Sham组、CLP组和 ${ \bf M L + C L P }$ 组注射等量PBS。
+
+# 1.4标本的采集及检测方法
+
+1.4.1检测小鼠肝功能和肾功能术后 $1 2 \mathrm { h }$ ，摘小鼠眼球留取血液，室温下静置 $3 0 \mathrm { m i n }$ ,台式离心机离心 $1 5 \mathrm { m i n }$ ，收集血清， $- 8 0 \mathrm { { ^ circ C } }$ 保存。全自动生化仪检测小鼠血清中ALT、AST、BUN和Cr水平。
+
+1.4.2ELISA检测小鼠血清中细胞因子的变化 取小鼠血清按照ELISA试剂盒进行操作，酶标仪测定其 $A _ { 4 5 0 }$ 值,通过标准曲线计算小鼠血清中TNF $\yen 123,456,789$ IL-10和TGF-β水平
+
+1.4.3小鼠肝和肾组织病理学检查小鼠处死后，迅速取出肝和肾，PBS冲洗干净后，用 $4 0 ~ \mathrm { g / L }$ 多聚甲醛固定$2 4 \mathrm { h }$ ,梯度酒精脱水，石蜡包埋，切片，苏木精-伊红(HE)染色，光学显微镜下观察肝和肾组织的病理改变。
+
+1.4.4 生存率测定密切观察各组小鼠术后的一般情况，记录死亡时间。计算各组小鼠 $7 2 \mathrm { { h } }$ 生存率，并绘制生存曲线。
+
+# 1.5统计学分析
+
+采用 SPSS16.0 统计软件,生存分析使用Kaplan-Meier检验比较，各组方差齐同后采用方差分析(两组之间采用q检验)，以 $P { < } 0 . 0 5$ 为差异具有统计学意义。
+
+# 2结果
+
+2.1旋毛虫及其虫源性蛋白对脓毒症小鼠生存率的影响
+
+Sham组小鼠术后活动正常，进食、进水正常，毛色光亮，CLP组小鼠术后精神萎靡，活动减少，少食或不食，毛色杂乱，无光泽，小鼠眼角分泌物增多。 ${ \bf M L + C L P }$ 组和 $_ { \mathrm { S M P + C L P } }$ 组小鼠术后状态较CLP组改善， $\mathrm { M E S ^ { + } }$ CLP组小鼠术后虽然也出现精神差，少食等症状，但较CLP组明显改善，且 $7 2 \mathrm { { h } }$ 生存率为 $70 \%$ ，较CLP组明显升高 $\scriptstyle \cdot - ( - 0 . 0 5$ ，图1)。
+
+![](images/ab597532bbf27220dd74df6c766b0741d8071035b8f548dafd9d02060aaebe19.jpg)  
+图1各组小鼠的72h生存率 Fig.1 Survival of the mice within $7 2 \mathrm { { h } }$ in each group.
+
+# 2.2 旋毛虫及其虫源性蛋白对脓毒症小鼠肝功能和肾功能的影响
+
+采用全自动生化分析仪检测小鼠血清中ALT、AST、BUN和Cr水平，结果显示：与Sham组相比,CLP组小鼠术后血清中ALT、AST、BUN和Cr水平明显升高$( P { < } 0 . 0 5 )$ ;与CLP组小鼠相比， ${ \bf M } { \bf L } { + } { \bf C } { \bf L } { \bf P }$ 组小鼠经ML预感染后，术后血清中ALT、AST和 $\mathrm { C r }$ 水平降低( $\scriptstyle { \mathcal { P } } <$ 0.05）， $_ { \mathrm { S M P + C L P } }$ 组小鼠经SMP处理，术后血清中ALT、AST和Cr水平降低( $( P { < } 0 . 0 5 )$ ,MES+CLP组小鼠经MES处理,术后血清中ALT、AST、BUN和Cr水平明显降低（ $( P { < } 0 . 0 5 )$ ，且 $\mathbf { M E S + C L P }$ 组小鼠术后血清中AST和BUN水平较 $_ { \mathrm { M L + C L P } }$ 组和 $\mathbf { M E S + C L P }$ 组降低（ $\scriptstyle \phantom { + } P < 0 . 0 5$ ，图2,3)。
+
+2.3旋毛虫及其虫源性蛋白对脓毒症小鼠血清中细胞因子的影响
+
+采用ELISA检测小鼠血清中细胞因子水平，结果显示：与Sham组相比,CLP组小鼠术后血清中TNF- $\mathbf { \alpha } _ { \mathrm { ~ \normalfont ~ a ~ } }$ 、IL-6、IL-1β、IL-10和TGF- $\cdot \beta$ 水平均明显升高 $( P { < } 0 . 0 5 )$ ：与CLP组小鼠相比， ${ \bf M } { \bf L } { + } { \bf C } { \bf L } { \bf P }$ 组小鼠经ML预感染后，术后血清中TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 和IL-1β降低,IL-10和TGF-β升高，$_ { \mathrm { S M P + C L P } }$ 组小鼠经SMP处理，术后血清中TNF- $\mathfrak { a }$ 和IL-1β降低,TGF- $\cdot \beta$ 升高， $\mathbf { M E S + C L P }$ 组小鼠经MES处理,术后血清中TNF- $ { \mathbf { \cdot a } } _ { \mathrm { \cdot } }  { \mathrm { I L } } _ { \mathrm { - } } { 6 }$ 和IL-1β明显降低,IL-10和TGF-β水平明显升高（ $_ { ( P < 0 . 0 5 ) }$ ，且 $\mathbf { M E S + C L P }$ 组较 $\mathrm { M L } +$ CLP组和 $\mathbf { M E S + C L P }$ 组小鼠术后血清中TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 和IL-6降低，TGF-β升高( $\scriptstyle \phantom { + } P < 0 . 0 5$ ，图4)。
+
+# 2.4旋毛虫及其虫源性蛋白对脓毒症小鼠肝和肾组织结构的影响
+
+Sham组小鼠肝和肾大小正常，表面红润，镜下可见肝中肝小叶分界清楚，肝索呈辐射状排列，肝血窦清晰;肾中肾小体内血管球饱满、肾小囊腔清晰，周围肾小管形态正常。CLP组小鼠肝和肾的表面有明显点或斑，光泽较差，镜下可见肝中肝索排列紊乱，肝细胞明显水肿,肝血窦淤血;肾中部分肾小体内血管球皱缩，肾小管肿胀，且肝和肾组织中有大量炎性细胞浸润。 $\mathbf { M L + }$ CLP组、 $S _ { \mathbf { M P + C L P } }$ 组和 $\mathbf { M E S + C L P }$ 组小鼠肝和肾组织结构的损伤较CLP组减轻，其中MES $^ +$ CLP组减轻最明显，肝中肝索较规则，肝细胞水肿减轻；肾中皱缩的血管球明显减少，肾小管结构较清晰，且肝和肾组织中炎症细胞浸润减少(图5、6)。
+
+# 3讨论
+
+脓毒症是临床危重症患者最严重的并发症之一，易引起全身脏器的损伤，最终导致多器官功能障碍综合征的发生[19-20]。盲肠结扎穿孔术是复制脓毒症的金标准[21]，能复制出与临床病人病理生理过程极为相似的脓毒症动物模型。实验中观察到，小鼠CLP术后 $1 2 \mathrm { h }$ ，血清中TNF- $\mathfrak { a }$ IL-6、IL- $\cdot 1 \beta$ IL-10和TGF-β明显升高，且伴随过度的炎症反应，小鼠肝和肾的组织结构和功能都出现不同程度的损伤，这些症状均与脓毒症患者的临床症状相似，说明通过CLP制备的脓毒症小鼠模型成功。
+
+旋毛虫是全世界极为流行的一种人畜共患的食源性寄生虫[22-23]。有实验证实旋毛虫感染或旋毛虫排泄分泌蛋白，都可促使宿主体内免疫反应向辅助性T细胞2(Th2)反应偏移，产生大量抗炎因子(IL-4、IL-5和
+
+A 400 B 900 750 A200 山 (T/AI) ISI 0040 m 300 100 150 0 0 Sham ML+CLP SMP+CLP MES+CLP Sham CLP ML+CLP SMP+CLP MES+CLP
+
+A 20 B 60 50 BUHum) NNn 15 (T/[ouml). \* 40 10 30 山m G 20 5 10 0 0 Sham CLP ML+CLP SMP+CLP MES+CLP Sham CLP ML+CLP SMP+CLP MES+CLP
+
+IL-13等)和免疫调节因子(IL-10和TGF- $\cdot \beta$ )，并能长期维持该状态[24-27],抑制宿主体内的辅助性T细胞1(Th1)炎症反应，减少促炎因子(TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ IL-6和IL-1β等)产生，也有体外实验证实旋毛虫排泄分泌蛋白可以显著减少脂多糖(LPS)刺激的巨噬细胞分泌TNF- $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { ~ a ~ } ~ } }$ IL-6和IL-1β。因此本研究尝试用旋毛虫肌幼虫及其虫源性蛋白对CLP诱导的小鼠脓毒症进行干预，观察其对脓毒症的影响并初步探讨其诱发的免疫机制。实验结果显示，采用旋毛虫肌幼虫排泄分泌蛋白处理，可以显著升高脓毒症小鼠72h生存率，显著减少脓毒症小鼠血清中促炎因子TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 、IL-6和IL-1β水平，升高免疫调节因子IL-10和TGF-β水平，明显改善肝和肾的组织结构和功能损伤。而通过提前感染旋毛虫肌幼虫或采用旋毛虫肌幼虫虫体可溶性蛋白处理，虽然也可减少脓毒症小鼠血清中TNF- $\lvert \mathbf { a } , \mathbf { I } \mathbf { L } \rvert - 1 \lvert \boldsymbol { \beta }$ 水平，升高免疫调节因子TGF-β水平，但效果没有旋毛虫肌幼虫排泄分泌蛋白处理组显著。表明旋毛虫肌幼虫及其虫源性蛋白具有减少促炎因子释放，促进免疫调节因子释放，抑制脓毒症过度炎症反应的作用，但旋毛虫肌幼虫排泄分泌蛋白在调节脓毒症过度炎症反应的过程中更加主动并显著。与此相似的是，日本血吸虫虫卵中由于含有毛,可主动分泌排泄分泌蛋白，调节免疫反应，较成虫可溶性蛋白更能诱导调节性T细胞分泌IL-10和TGF- $\cdot \boldsymbol { \beta } ^ { [ 2 8 ] }$ 。究其原因可能是虫体可溶性蛋白主要发挥刺激宿主机体识别并促进宿主机体清除入侵病原体的功效，诱导宿主体内偏向Th1的免疫应答，而对宿主机体免疫负调控的作用不明显，而排泄分泌蛋白是虫体为达到与宿主共生的目的而主动排泄分泌的蛋白，直接暴露于宿主的免疫系统，是诱导宿主产生免疫反映的主要抗原，通过调控宿主机体的免疫反应，从而达到免疫逃避的目的[29-30],较虫体可溶性蛋白更加主动且有效。
+
+总之，旋毛虫及其虫源性蛋白可通过减少促炎因子释放，增加免疫调节因子产生，缓解脓毒症的过度炎症反应，以旋毛虫肌幼虫排泄分泌蛋白的效果更为显著，并能减少肝和肾的损伤。但是用活旋毛虫肌幼虫治疗脓毒症，患者从生理上及心理上都很难接受，且虫体感染会导致各种病理性损伤[31。因此将旋毛虫肌幼虫虫体可溶性蛋白或排泄分泌蛋白中具有免疫调节作用的蛋白分离出来，可为临床上治疗脓毒症提供新途径。
+
+# 参考文献：
+
+[1]Goodwin A. Sepsis:a 2lst century problem[J].Br J Hosp Med
+
+![](images/3bce7a99ed20abdb16f14be8ebd23dc74d85bb9a7c4a67ca85be59fe3c84f61f.jpg)
+
+![](images/5ab87caa69010f05dc9b70539bf58551459ad0db0b495cd8e407f90b3085db15.jpg)
+
+![](images/bd36a6d43d6c8f895700a304095abf17d18afc319508a2f312a6b1789391de15.jpg)  
+图6各组小鼠肾组织结构的变化 Fig.6Structural changes of the kidney tissue of the mice in each group (HE staining, $\times 2 0 0$ ） $A$ : Sham group;B: CLP group; C: 1 $\mathrm { M L } { + } \mathrm { C L P }$ group; D: SMP $^ +$ CLP group; $E$ MES+CLP group.
+
+![](images/4f2b2fa1213048844f0b9ec7e150deb422139a2fbbadfd05be82bdadff10c0a7.jpg)
+
+(Lond),2016,77(4): 200-1.   
+[2]Puneet P,Mcgrath MA,Tay HK,et al. The helminth product ES-62 protects against septic shock via Toll-like receptor 4-dependent autophagosomal degradation of the adaptor MyD88 [J]．Nat Immunol, 2011,12(4): 344-51.   
+[3]Gondorf F,Berbudi A,Buerfent BC,et al. Chronic filarial infection providesprotection against bacterial sepsisby functionally reprogramming macrophages [J].PLoS Pathog，2O15，11(1): e1004616.   
+[4]Turner JD，Langley RS，Johnston KL，etal．Wolbachia endosymbiotic bacteria of Brugia malayi mediate macrophage tolerance to TLR- and CD4O-specific stimuli in a MyD88/ TLR2-dependent manner[J].JImmunol, 2006,177(2): 1240-9.   
+[5]Martin I, Cabán-Hernändez K,Figueroa-Santiago O,et al. Fasciola hepatica fatty acid binding protein inhibits TLR4 activation and suppressestheinflammatory cytokinesinduced by lipopolysaccharide in vitro and in vivo[J].JImmunol, 2015,194(8): 3924-36.   
+[6]Song T,Yang M,Chen J,et al. Prognosis of sepsis induced by cecal ligation and puncture in mice improved by anti-Clonorchis Sinensis cyclopholina antibodies[J].Parasit Vectors,2015,8:502.   
+[7]Khan WI, Blennerhasset PA, Varghese AK,et al. Intestinal nematode infection ameliorates experimental colitis in mice[J].Infect Immun, 2002,70(11): 5931-7.   
+[8]Aranzamendi C,De Bruin A,Kuiper R,et al.Protection against allergic airway inflammation during the chronic and acute phases of Trichinella spiralis infection[J].Clin Exp Allergy，2013,43(1): 103-15.   
+[9]Ditrich AM,Erbacher A,Specht S,et al.Helminth infection with Litomosoides sigmodontis induces regulatory T cells and inhibits allergic sensitization,airway inflammation,and hyperreactivity in a murine asthma model[J].JImmunol, 2008,180(3): 1792-9.   
+[10] Saunders KA,Raine T,Cooke A,et al. Inhibition of autoimmune type1 diabetes by gastrointestinal helminth infection[J]. Infect Immun,2007,75(1): 397-407.   
+[11]Zaccone P,Hall SW.Helminth infection and type 1 diabetes[J].Rev Diabet Stud,2012,9(4): 272-86.   
+[12]Bai X,Wu X,Wang X,et al. Regulation of cytokine expression in murine macrophages stimulated by excretory/secretory products from Trichinella spiralis in vitro[J].Mol Cell Biochem,2012,360 (1/2): 79-88.   
+[13]Aranzamendi C,Fransen F,Langelaar M,et al. Trichinella spiralissecreted products modulate DC functionality and expand regulatory T cells in vitro[J].Parasite Immunol,2012,34(4): 210-23.   
+[14] Chen X,Yang Y,Yang J，et al.RNAi-mediated silencing of paramyosin expression in Trichinella spiralis results in impaired viability of the parasite[J].PLoS One,2012,7(11): e49913.   
+[15]Bi K, Yang J,Wang L,et al. Partially protective immunity induced bya $2 0 \mathrm { \ k D a }$ protein secreted by Trichinella spiralis stichocytes[J]. PLoS One,2015,10(8): e0136189.   
+[16] Rittirsch D,Huber-Lang MS,Flierl MA,et al.Immunodesign of experimental sepsis by cecal ligation and puncture[J].Nat Protoc, 2009,4(1): 31-6.   
+[17]Gu D, Xiong L, Han Y,et al. Transfusion of necrotic cells redresses regulatory T cell and Thl7 cell imbalance in septic mice[J].Nan Fang YiKe Da Xue Xue Bao,2014,34(7): 956-60.   
+[18]Deng G,Deng R,Yao J, et al. Trichinella spiralis infection changes immune response in mice performed abdominal heterotopic cardiac transplantation and prolongs cardiac allograft survival time [J]. Parasitol Res,2016,115(1): 407-14.   
+[19]Rhodes A,Phillips G, Beale R,etal. The surviving sepsis campaign bundles and outcome: results from the international multicentre prevalence study on sepsis (the IMPreSS study)[J]. Intensive Care Med,2015,41(9):1620-8.   
+[20]Lakshmikanth CL,Jacob SP,Chaithra VH,et al. Sepsis: in search of cure[J].Inflamm Res,2016,65(8):587-602.   
+[21] Niiyama S,Takasu O,Sakamoto T,et al. Intraperitoneal adipose tissue is strongly related to survival rate in a mouse cecal ligation and puncture model[J].Clin Transl Immunol,2016,5(2): e64.   
+[22]Feidas H,Kouam MK,Kantzoura V,et al.Global geographic distribution of Trichinella species and genotypes[J].Infect Genet Evol,2014,26: 255-66.   
+[23]Dubinsky P,Antolovä D,Reiterova K.Human trichinella infection outbreaks in Slovakia,1980-2008[J].Acta Parasitol,2016,61(2): 205-11.   
+[24] Ilic N,Gruden-Movsesijan A, Sofronic-Milosavljevic L.Trichinella spiralis: shaping the immune response[J]. Immunol Res,2O12,52 (1/2): 111-9.   
+[25] Sofronic-Milosavljevic L, Ilic N,Pinelli E,et al. Secretory products ofTrichinella spiralis muscle larvae and immunomodulation: implication for autoimmune diseases,allergies,and malignancies [J].JImmunol Res,2015: 523875.   
+[26]Radovic I, Gruden-Movsesijan A, Ilic N,et al. Immunomodulatory effects of Trichinella spiralis-derived excretory-secretory antigens [J].Immunol Res,2015,61(3):312-25.Epub 2015 May 31.doi: 10.1155/20151523875.   
+[27]Ashour DS.Trichinella spiralis immunomodulation:an interactive multifactorial process[J].Expert Rev Clin Immunol,2O13,9(7): 669-75.   
+[28]Dong XX,Zhang C,Yang XW,et al. Activities of treg cells stimulated by soluble adult worm antigen and egg antigen of Schistosoma japonicum [J]. Zhongguo Xue Xi Chong Bing Fang Zhi Za Zhi,2013,25(2):146-50.   
+[29]Harnett W,Harnett MM. Helminth-derived immunomodulators: can understanding the worm produce the pill [J]? Nat Rev Immunol, 2010,10(4): 278-84.   
+[30]Hewitson JP,Grainger JR,Maizels RM.Helminth immunoregulation: the role of parasite secreted proteins in modulating host immunity[J].Mol Biochem Parasitol,2009,167(1):1-11.   
+[31]Van Kruiningen HJ,West AB.Potential danger in the medical use of Trichuris suis for the treatment of inflammatory bowel disease [J].Inflamm Bowel Dis,2005,11(5): 515. (编辑：吴锦雅）

@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "兴隆2.16米望远镜圆顶吊装通道通风研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李陶然，王建峰中国科学院光学天文重点实验室（国家天文台），北京100101",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：圆顶视宁度来源于圆顶引起望远镜附近的大气湍流，会造成望远镜成像质量与观测精度下降。较差的圆顶视宁度浪费了优秀台址条件。圆顶通风是大型望远镜圆顶设计中必不可少的部分，可有效解决圆顶视宁度问题。为了减少兴隆2.16米望远镜圆顶视宁度的影响，对圆顶吊装通道改造为通风口进行了设计，并使用计算流体动力学软件对通风效果进行分析。分析结果表明，将圆顶吊装通道改造为通风口可以提高圆顶内外热平衡速率，令圆顶内空气更稳定，从而降低圆顶视宁度影响。根据通风效果模拟结果，可对通风策略进行优化设计。圆顶通风的研究可为2.16米望远镜圆顶通风改造提供参考依据，以提高望远镜成像质量和效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：圆顶通风；兴隆2.16米望远镜；计算流体动力学；圆顶视宁度中图分类号：P111.21 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "兴隆观测基地2.16米光学天文望远镜于1989年投入使用，其半球型圆顶直径为 $2 3 \\mathrm { m }$ ，高为 $1 5 \\mathrm { m }$ ，圆顶墙体有低热容量的加气混凝土保温墙和对流区域[1[2]。由于2.16米望远镜使用的英国式赤道仪需要较大回转空间，因此该望远镜的圆顶体积很大，约 $5 6 0 0 \\mathrm { m } ^ { 3 }$ 。圆顶体积过大带来了高热容积的问题，仅靠少数排风系统难以快速达到圆顶内外空气热平衡，且由圆顶天窗进入的自然风会在圆顶内部产生湍流现象。因此，望远镜观测精度会受到圆顶视宁度(dome seeing)的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "圆顶通风已成为大型望远镜圆顶设计中必不可少的部分，可以有效解决圆顶视宁度问题。通过促进圆顶内外空气的水平流通达到改善圆顶视宁度的目的，从而提高望远镜观测精度。在圆顶表面设置一系列的自然通风窗口是非常有效且经济的圆顶通风方法，利用自然风带走圆顶内部的热量和湍流空气，可以快速的达到热平衡条件。但对已建成的圆顶进行大范围自然通风窗口改造则会有诸多限制，需要考虑已有圆顶的改造和施工条件，并根据圆顶的结构强度进行详细分析，时间和经济成本消耗过大，且容易对望远镜正常观测产生影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.16米圆顶内有一供主镜镀膜的吊装通道，约 $4 \\mathrm { m } \\times 3 \\mathrm { m }$ 。若将其改造为通风口可与天窗开口形成对流，大大增加通风效率，提高望远镜观测质量。本文对吊装通道改造为通风口进行了设计，并使用计算流体动力学(Computational Fluid Dynamics，以下简称CFD)软件[3]对其通风效果进行分析，对比通风口存在与否情况下的通风效果，为2.16米望远镜圆顶通风改造提供参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1通风方案设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "兴隆2.16米望远镜吊装通道位置如图1所示。根据圆顶结构，为吊装通道改造进行设计。为最小化风道路径，提高通风效率，将通风管道引入下一层后转折90度向西侧从圆顶墙体排出。根据墙体结构，设计排风口大小为 $1 \\mathrm { m } { \\times } 1 \\mathrm { m }$ 。为提高安全性，在圆顶内吊装通道口处安装防护网，防止跌落。安装防护网前需要将吊装通道处原有地板移开并进行部分改造，以便于防护网的固定。防护网为栅格结构，既不影响通风效果又可以保证人员安全(图2)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图3所示为通风管道部分的剖面图。通风管道底板为活动底板，易于开合。当主镜镀膜时将活动底板打开，不影响吊装通道功能。可开合底板距离地面约 $3 \\mathrm { m }$ ，不影响人员通过。两台可控风速排风机安装在吊顶上方，可选择同时工作并互为备份，排风量 $5 5 0 0 0 m ^ { 3 } / \\mathrm { h }$ 左右（按单台风机每小时换风10次计算）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/97987005a4af602a04b5ba60d31fea2768ac9824dbc3fac65b9bcbf37d40d99d.jpg",
+        "img_caption": [
+            "图1兴隆2.16米望远镜及圆顶吊装通道"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/63d17697a653aa41b165507edafa1c1f8a5629faf513670cf43bebbe832f8a56.jpg",
+        "img_caption": [
+            "Fig1 Xinglong $2 . 1 6 \\mathrm { - m }$ telescope and hoisting tunnel ",
+            "图2通风管道及防护网示意图",
+            "Fig 2 Sketch of ventilation duct and protection layer "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/30f7f531174ffe3a421f7a0c9af5b83c63cad1e4dca7758776453d62073baee2.jpg",
+        "img_caption": [
+            "图3通风管道及活动底板设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2CFD分析模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1望远镜圆顶模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.16米望远镜圆顶总高 $3 5 \\mathrm { m }$ ，随动圆顶部分高 $1 5 \\mathrm { m }$ 、直径 $2 3 \\mathrm { m }$ ，天窗开口宽度为 $5 \\mathrm { m }$ 。该望远镜的3D模型基于2.16米望远镜图纸建立。为了减小计算机负荷及处理时间，将2.16米望远镜模型进行简化，去除对通风效果无影响的微小部件和内部部件。经过简化用于CFD分析的模型分为4个部分，圆顶、转台、望远镜镜筒和流体域，如图4所示。本文仅考虑圆顶内部通风效果，因此该模型的流体域为圆顶的内部空气域。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7dc4cde1efe21004990386b44b63619a73f4a330343e759304b2e12fb14fa20.jpg",
+        "img_caption": [
+            "Fig 3Design of ventilation duct and openable door ",
+            "图4CFD简化模型，包括圆顶、转台、镜筒和流体域",
+            "Fig 4 simplified model in CFD,including dome,mount, tube and fluid domain "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2参数设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据兴隆观测基地气象站数据，常规观测夜风速一般为 $1 \\mathrm { m } / \\mathrm { s } { \\sim } 2 \\mathrm { m } / \\mathrm { s }$ 。因此在本文的分析中，设置环境风速 $\\mathrm { { \\Delta } v = } 1 \\mathrm { { m } / \\mathrm { { s } } }$ ，外界环境空气从天窗进入圆顶。排风口位于圆顶外壁面（图4），设置排风口风速 $\\mathrm { { \\Delta v = - 1 5 m / s } }$ ，用于模拟排风扇（风机风量约 $5 5 0 0 0 \\mathrm { m } ^ { 3 } / \\mathrm { h }$ ，风口面积为 $1 \\mathrm { m } ^ { 2 }$ ，由此计算风速约为 $1 5 \\mathrm { m / s }$ ）。本文采用了基于压力基的 $\\mathbf { k } { \\cdot } \\mathbf { \\mathcal { E } }$ 瞬态模型，适用于慢速不可压缩流体[4I[5]。在TMT关于圆顶通风的研究中，也使用了同样的模型进行处理。初始圆顶内温度设置为278K，外界空气温度为 $2 7 3 \\mathrm { K }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3计算结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据圆顶天窗的朝向，本文对以下三种不同天窗与通风口夹角的情况进行了分析，对比无通风口和主动排风的通风效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1天窗开口与通风口夹角180度时的通风效果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，在此种情况下圆顶天窗朝东，外界空气主要从天窗开口进入。通过观察圆顶内部温度变化得知无通风口时600s左右达到温度平衡，主动排风时 500s左右达到温度平衡。因此，以下取第500s时刻的数据进行分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e56e40125fb59425acf8de70e9399ffea960ccd1e493989e83f93c31772af9fa.jpg",
+        "img_caption": [
+            "图5天窗开口与通风口夹角180 度时温度(a,b)与湍流强度(c,d)分布，无通风(a,c)与主动排风(b.d)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig5 Contour maps for slit-vent angle $\\mathord {  \\mathop { = } } 1 8 0$ of temperature (a,b)and turbulent intensity (c,d) distribution, without vent (a,c) and with vent ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1cec88c1e3bf58bc8f11075362824cbced4aa243d22e906a5ebdc3f534ee60f.jpg",
+        "img_caption": [
+            "图6天窗开口与通风口夹角180度时风速(a,b)与矢量(c,d)分布，无通风(a.c)与主动排风(b.d)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig 6 Contour maps for slit-vent angle $\\scriptstyle = 1 8 0$ of velocity(a.b) and vector (c.d) distribution,without vent (a.c) and with vent (b.d) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对比以上图像（图5和图6)，可得到以下分析结果：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)．温度：在该输入条件下（风速、风向、温度)，主动排风时圆顶内温度在 500s 左右与外界达到平衡，比无主动排风情况更快达到热平衡，有利于圆顶视宁度的快速降低。  \n(2)．湍流强度：在望远镜光路范围内，有无主动排风时的最大湍流强度分别为 $4 2 . 5 1 \\%$ 和 $6 1 . 3 5 \\%$ ，主动排风情况下减小约 $30 \\%$ 。镜盖边缘为 $78 . 8 2 \\%$ 和 $1 3 7 . 3 9 \\%$ 。  \n(3)．风速分布和矢量：在主动排风作用下，主镜遮光筒上方的风速为 $1 . 2 1 \\mathrm { m / s }$ ，而无排风时为 $1 . 2 2 \\mathrm { m / s }$ 。在望远镜迎风面处，有无主动排风时分别为 $1 . 3 1 \\mathrm { m / s }$ 和 $3 . 2 0 \\mathrm { m / s }$ 、圆顶内最大风速分别为 $3 . 9 0 \\mathrm { m / s }$ 和 ${ 7 . 0 0 } \\mathrm { m / s }$ 。  \n(4)．风速矢量图可以清晰的看出圆顶内的气流流动方向。在开启主动排风后，望远镜周围的风向朝着吊装口流动，被排风机排出圆顶。无主动排风情况下，空气经过望远镜后在背风面产生涡流，仍然从天窗流出，望远镜周围风速较大（风速矢量图颜色较深)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2天窗开口与通风口夹角90度时的通风效果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图7所示，当天窗开口与通风口夹角为90度，天窗朝北或朝南（以下按朝北情况进行分析)，外界空气仍然从天窗进入，与通风口的距离减少。仿真参数同3.1节。通过观察圆顶内部温度变化得知，无通风口时360s左右达到温度平衡，主动排风时400s左右达到温度平衡。因此，以下取第360s时刻的数据进行分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9885bee4e9450c2ca5e270c8a979b1b9264336900e7e780782ccd515b0503361.jpg",
+        "img_caption": [
+            "图7天窗开口与通风口夹角90度时，风向（箭头方向）、天窗与通风口位置示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/485f08c7d51b97840d4faa4e4df73e42a95cd64acf88d6e265ada2b83d212f4a.jpg",
+        "img_caption": [
+            "Fig7 Sketch of wind direction (arrow),slit and vent at slit-vent angle $_ { \\mathrm { = } 9 0 }$ ",
+            "图8天窗开口与通风口夹角90度时温度(a,b)与湍流强度(c.d)分布，无通风(a.c)与主动排风(b.d)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Contour maps for slit-vent angle $\\scriptstyle : = 9 0$ of temperature (a.b)and turbulent intensity(c.d) distribution,without vent (a.c)and wi ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9648cfa68de7187cf410b8b8e0690afea2aebc2989877edfb14ae231bd3458c3.jpg",
+        "img_caption": [
+            "图9天窗开口与通风口夹角90 度时风速(a,b)与矢量(c.d)分布，无通风(a.c)与主动排风(b.d)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig 9 Contour maps for slit-vent angle $_ { : = 9 0 }$ of velocity (a.b)and vector(c,d) distribution,without vent (a,c) and with vent (b.d) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过对比以上图像（图8和图9)，可得到以下分析结果：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)．温度：在该输入条件下（风速、风向、温度)，主动排风时圆顶内温度在400s 左右与外界达到平衡，比无主动排风情况（360s）稍慢。在圆顶内主动排风通道的另一侧（图8b中圆顶右上方)，温度降温较慢。这是因为外界低温空气进入圆顶后从左侧排风通道排出，没有吹到圆顶右侧。  \n(2)．湍流强度：在望远镜光路范围内，主动排风时最大湍流强度分别为 $1 5 . 8 9 \\%$ ，圆顶内平均湍流强度为 $3 . 7 6 \\%$ 。无通风时，主镜遮光筒上方最大湍流强度为 $5 8 . 6 2 \\%$ ，圆顶内平均湍流强度为 $9 . 1 7 \\%$ 。相比于无通风情况，主动排风时湍流强度更低且分布更均匀。  \n(3)．风速分布：在主动排风作用下，主镜遮光筒上方的风速为 $0 . 7 5 \\mathrm { m / s }$ 左右，无排风时为 $0 . 8 8 \\mathrm { m / s }$ 。圆顶内最大风速分别为 $4 . 2 5 \\mathrm { m / s }$ 和 $2 . 2 4 \\mathrm { m / s }$ （位于镜盖附近)。  \n(4)．风速矢量：在开启主动排风后，通风口相对的一侧风速较小。无通风情况下主镜盖附近风速较大，在圆顶内形成多个涡流（图 $\\mathsf { 9 c }$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3天窗开口与通风口夹角0度时的通风效果分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如图10所示，当天窗开口与通风口夹角为0度，圆顶朝西。仿真参数同3.1节。通过观察圆顶内部温度变化得知，无通风口时200s左右达到温度平衡，主动排风时250s左右达到温度平衡。因此，以下取第 200s时刻的数据进行分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcbe95359f57206c3053d27542ab785267a291f3db0ebe0f6b419c8d83581e28.jpg",
+        "img_caption": [
+            "图10天窗开口与通风口夹角0度时，风向（箭头方向）、天窗与通风口位置示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fdc4d313b63d1c07bfd32b0ec9494e3ece9050b94e2361ecb41f8d7304b3af6.jpg",
+        "img_caption": [
+            "Fig1O Sketch of wind direction (arrow),slit and ventat slit-vent angle $\\scriptstyle = 0$ ",
+            "图11天窗开口与通风口夹角0度时温度(a.b)与湍流强度(c.d)分布，无通风 $( \\mathrm { a } , \\mathrm { c } )$ 与主动排风(b.d)"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "11 Contour maps for slit-vent angle ${ \\mathrm { \\Omega } } { = } 0$ of temperature (a.b)and turbulent intensity (c,d) distribution,without vent (a,c) and wi ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9262840db2dc8e9da43e0760ae25b41d9d5e4284fdaebbfe2beed4eac6b84015.jpg",
+        "img_caption": [
+            "图12天窗开口与通风口夹角0度时风速(ab)与矢量(c.d)分布，无通风(a.c)与主动排风(b.d)"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig12 Contour maps for slit-vent angl ${ \\mathrm { \\ s = 0 } }$ of velocity(a.b)and vector (c,d) distribution,without vent (a,c) and with vent (b,d) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过对比以上图像（图11和图12)，可得到以下分析结果：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)．温度：在该输入条件下（风速、风向、温度)，主动排风时圆顶内温度在 250s 左右与外界达到平衡，比无主动排风情况（200s）稍慢。与3.2节结果类似，圆顶内主动排风通道相对一侧上方（图11b中圆顶天窗右侧）温度下降较慢。同样是由于外界低温空气进入圆顶后仅有少量吹到圆顶右侧。  \n(2)．湍流强度：湍流强度分布图对比很明显。在望远镜光路范围内，主动排风时最大湍流强度分别为 $1 0 . 4 9 \\%$ ，圆顶内平均湍流强度为 $3 . 4 3 \\%$ 。无通风时，主镜遮光筒上方最大湍流强度为 $6 8 . 2 4 \\%$ ，圆顶内平均湍流强度为 $7 . 8 9 \\ \\%$ 。相比于无通风情况，主动排风时湍流强度分布改善很大。  \n(3)．风速分布：在主动排风作用下，主镜遮光筒上方的风速为 $0 . 6 7 \\mathrm { m / s }$ 左右，无排风时为 $0 . 9 2 \\mathrm { m / s }$ 。圆顶内最大风速分别为 $6 . 2 5 \\mathrm { m / s }$ 和 $1 . 8 7 \\mathrm { m / s }$ （位于镜盖附近）。  \n(4)．风速矢量：在开启主动排风后，圆顶内风速矢量相对平稳。无通风情况下主镜上方风速较大，在圆顶内形成多个涡流。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4排风机风量影响分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当排风机风量发生变化时，势必会造成圆顶内湍流情况的改变。因此，对不同风量情况进行分析有助于风机选型。仿真各参数同3.1节，天窗开口与通风口夹角为0度，圆顶朝西。设置出风口风速为 $9 \\mathrm { m / s }$ ，每小时换气约6次，比前文所设置风速降低一些。在此种情况下，主动排风时 560s左右达到温度平衡。为了便于对比，仍然取第 500s 时刻进行分析。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过对比图5、6（大风量风机）和图13，可得到以下分析结果：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)．温度：在该输入条件下（风速、风向、温度)，主动排风时圆顶内温度在 560s 左右与外界达到平衡，比无主动排风情况（600s）更快达到热平衡，但由于排风风速降",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "低，平衡时间也有所提高。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)．湍流强度：在主镜遮光筒上方最大湍流强度为 $3 2 . 8 0 \\%$ ，相比于无主动排风， $( 6 1 . 3 5 \\%$ ）和大风量情况（ $4 2 . 5 1 \\%$ ）均有降低。圆顶内平均湍流强度为 $12 . 0 4 \\%$ 。  \n(3)．风速分布：主镜遮光筒上方的风速为 $1 . 3 1 \\mathrm { m / s }$ ，而无排风时为 $1 . 2 2 \\mathrm { m / s }$ 。在望远镜迎风面处，有无主动排风时分别为 $1 . 4 1 \\mathrm { m / s }$ 和 $3 . 2 0 \\mathrm { m / s }$ 、圆顶内最大风速为 $3 . 8 5 \\mathrm { m / s }$ 。相比于大风量风机(3.1节)，风速分布变化较小。  \n(5).在使用小风量风机时，望远镜周围风速变小（风速矢量图颜色相对于大风量风机情况较浅)，圆顶内涡流情况仍然存在。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "结合以上分析可知，使用小风量排风机有助于温度和湍流强度的降低，且湍流强度较大风量排风机的情况更小，望远镜附近风速也有略有减少。因此，在满足换气频率的条件下，可以选择风量最小的排风机，既保证了换气和热平衡速率，又可以降低圆顶内的湍流强度和风速。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1ea2aa647ff8a93ea34861097023110de6cc72e331a18c648a3c323a301bcd5.jpg",
+        "img_caption": [
+            "图13天窗开口与通风口夹角0度，小风量风机情况下的温度(a)、风速(b)、湍流强度(c)与矢量分布(d)"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论与展望 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文针对兴隆2.16米望远镜圆顶视宁度问题提出一种改善方法，将吊装通道改造为通风管道，并为2.16米望远镜建模分析通风效果。分析结果表明，将圆顶吊装通道改造为通风口可以提高圆顶内外热平衡速率，令圆顶内空气更稳定，从而降低圆顶视宁度影响，具体如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)．将圆顶吊装通道改造成通风口后，在天窗朝东的情况下可以有效提高降温速度，快速达到圆顶内外热平衡。同时，湍流强度和风速都得到降低，有利于圆顶视宁度改善。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)．当天窗朝北、朝南或朝西时，由于外界冷空气会从西侧的通风口排出。相对的，圆顶的东侧可能降温较慢。但此时圆顶内和望远镜附近的湍流强度、风速都得到较大改善。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3)．增大排风机功率可以提高换热速率，但势必会提高预算以及耗电量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4)．在满足换气频率的条件下，选用风量最小的排风机。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(5)．当温度达到平衡后，湍流强度等各项参数也趋于稳定，此时可关闭通风口。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "除了关于圆顶通风的研究外，兴隆基地运行团队也进行了多项对 2.16米望远镜成像质量和效率提升的研究：开展Tip/Tilt系统研制提高能量集中度、进行主镜室制冷降低主镜视宁度等等。结合圆顶通风的研究，为2.16 米望远镜圆顶通风改造提供参考依据，望远镜成像质量和效率可以得到进一步改善，全面提升2.16米望远镜的科研价值。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]苏定强.2.16米天文望远镜工程文集[M].中国科学技术出版社，2001.  \n[2]毛同生,蒋世仰.2.16米反射望远镜圆顶室[J].天文学报,1992,2:220-228.  \n[3]ANSYSUser's Guide [M].ANSYS.Inc,2013.  \n[4] 王福军.计算流体动力学分析:CFD 软件原理与应用[M].清华大学出版社有限公司,2004.  \n[5]唐家鹏.FLUENT14.0超级学习手册[M].人民邮电出版社,2013.  \n[6]KonstantiosVgiatsdGgeZAgelrateiesftiatigodoesgforJ],roc.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A study of hoist-duct venting for Xinglong 2.16-m telescope ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Li Taoran, Wang Jianfeng ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "KeyLaboratoryofOpticalAstronomy,ationalAstronomicalObservatoriesCneseAcademyofSciences,BeijingOa ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Dome seeing is generated from turbulent fluctuation around the telescope caused by a telescope enclosure. It is one of the main factors affecting the image quality and really a waste for excellent site condition. Dome venting is an essential part in dome design. It could promote the air circulation and reduce the dome seeing effect. Due to the dome seeing issue of Xinglong $2 . 1 6 \\mathrm { - m }$ telescope,this paper describes the design of hoist-duct venting system and the analyses of venting results with computational fluid dynamic software. It's shown that the hoist-duct venting system could improve the heat balance rate and make the air more stable. The results of dome venting give a suggestion of venting strategy and provide reference for hoist-duct venting update of $2 . 1 6 \\mathrm { - m }$ telescope to improve the image quality and efficiency. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: Dome venting; Xinglong $2 . 1 6 \\mathrm { - m }$ telescope; Computational Fluid Dynamics;Dome seeing ",
+        "page_idx": 10
+    }
+]

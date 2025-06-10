@@ -1,0 +1,289 @@
+# 纵向嵌人治理与绿洲生态空间生产：额济纳绿洲生态治理研究
+
+代兰海1²，薛东前²
+
+（1.河西学院历史文化与旅游学院,甘肃 张掖734000；2.陕西师范大学地理科学与旅游学院，陕西 西安710119)
+
+摘要：绿洲是干旱内陆区的精华部分，也是生态文明建设的难点地区，加强绿洲生态治理研究对推进区域生态文明建设具有重要的理论和现实意义。长期以来，绿洲生态治理研究强调通过技术手段、经济措施促进绿洲生态系统恢复，对行动主体在生态治理中的作用重视不够，影响了绿洲生态治理成效和可持续性。以额济纳绿洲为案例，在深入调研基础上，援引空间生产理论和区域治理理论，通过政策工具组合分析，探究纵向嵌入治理下绿洲生态空间生产过程。结果表明：(1）中央政府的机构嵌入打破了传统“以粮为纲”的水资源配置导向，流域用水制度从“粮食生产偏好”向“生态保护偏好”转变，绿洲被建构为国家生态保育空间，成为中国北疆重要的生态安全屏障。(2)中央政府的行政嵌入重塑了流域用水关系和水权秩序，促成了黑河干流水量调度，实现了绿洲来水增多化，干涸多年的东居延海出现稳定水面被开辟为生态旅游景区，由戈壁沙漠湖泊湿地转变为生态观光旅游胜地，重构了黑河尾闾生态空间。(3）中央政府的规则嵌入解决了绿洲工程建设中资金短缺问题,通过对绿洲灌溉的人工化控制和绿洲生态保护区化治理，实现了绿洲河网渠系化与绿洲空间功能化，绿洲由边境牧业生产生活空间转变为国家重点生态功能空间。
+
+关键词：纵向嵌入治理；生态空间生产；生态治理；生态文明建设；额济纳绿洲
+
+# 文章编号：
+
+绿洲是干旱内陆区的精华部分，也是生态文明建设的难点地区，既集中了区域绝大部分人口与社会财富，也承担着维护区域乃至国家生态安全的重任[]。21世纪以来,在经济社会飞速发展的同时，生态环境问题不断显现2，如何统筹协调绿洲经济社会发展与生态环境保护，推进绿洲生态有效治理成为亟待解决的科学和实践难题。
+
+生态治理是一个跨学科研究问题，吸引了中外学者的共同关注。绿洲生态退化以土地退化为主，突出表现为土地荒漠化，其治理研究也主要集中在绿洲荒漠化治理领域。国外荒漠化治理研究起步较早，先期研究主要集中在生态学领域。20世纪30年代,美国爆发的"黑风暴"对世界荒漠化治理产生很大影响，荒漠化治理技术相继产生，并被广泛应用[3]。美国、以色列、澳大利亚等西方发达国家在实施一大批生态建设工程和保护项目中，研制和积累了数量众多的生态治理技术[4-6]。20世纪90年代以后，随着地表生态过程受人类影响加剧，社会科学逐渐介入，生态治理过程中社会、经济、文化等要素的重要性受到重视"，其中，利益相关者与生态治理的交互作用引起了研究者浓厚兴趣[8]。Debra等[9]回顾了社会科学学者关于环境治理的6种概念视角，指出要更加关注国家与社会力量在环境治理中的作用。Reed等["o]从环境治理的多层次系统出发，探讨了多元行动者借助不同层次的权力、权威和行动对环境治理的影响。Thorunn等[指出大型牧场
+
+# 干旱区地理
+
+生态系统的有效恢复取决于相关政策、利益相关者群体以及周围社会经济和政治环境的功能。Heidi等[2研究发现，在一个越来越重视自然资源管理的自愿非管制办法的时代，政府在水资源管理中仍然发挥着根本性的作用。国内绿洲荒漠化治理是在20世纪50年代末我国防沙治沙工作基础上发展起来的[13],伴随着"三北"防护林体系建设工程、退耕还林还草工程、京津风沙源治理工程等国家重大生态工程先后启动，绿洲荒漠化治理研究逐渐走向深入[14]。在此期间,科研人员还依托不同类型试验研究站和示范区，研制出了一系列国际领先的技术体系[15-16],并积极开展多技术协同运用研究[17],探索出适宜于西北极端干旱区和西北干旱区绿洲荒漠化防治的新疆和田模式、甘肃临泽模式与内蒙古磴口模式[18]。21世纪以来，随着绿洲荒漠化治理研究的深化拓展,国内学者把荒漠化治理与农村经济发展结合起来,提出了荒漠化治理的生态经济模式[19],并就影响荒漠化治理的政策制度展开细致分析，指出制度因素已经成为荒漠化成功治理的关键[20-21]。近年来，学者们逐渐意识到行动主体在绿洲生态治理中的作用，强调不同主体之间的互动与合作治理，认为多元治理模式是绿洲荒漠化治理的有效路径[22]。然而,在多元主体合作治理过程中，尤其是跨域合作治理时经常会面临集体行动的困境23，需要将上级政府的纵向嵌人与地方政府的横向协调相结合来解决生态环境协作困境24。总体而言，国内外学者在绿洲生态治理方面取得了丰富的研究成果，但也存在着一些不足：第一，已有研究偏重于绿洲生态治理的工程技术手段与经济措施，兼及治理的政策制度安排，对行动主体在生态治理中的作用关注有限；第二，现有研究对生态治理的空间维度没有给予足够重视,既忽视了空间对绿洲生态治理的基础性和约束性作用，亦忽略了生态治理作为一种重要力量对绿洲空间的生产与重构。
+
+额济纳绿洲是阿拉善盟三道生态防线之一，也是我国西北和华北地区第一道生态屏障。2000年春季，北京等华北地区连续遭受8次特大沙尘暴袭击，频率之高、强度之大、范围之广为新中国成立后罕见，沙尘源地额济纳旗成为新闻焦点，绿洲生态危机浮出水面。经过20余年黑河水量调度，绿洲生态急剧恶化趋势得以遏制，生态环境持续改善，但绿洲生态系统依旧脆弱，如何推进流域生态保护协同创新，实现绿洲生态有效治理仍然是推进绿洲生态文明建设面临的重大问题。为此，本文以额济纳绿洲为案例对象，利用水文监测数据、工程建设数据和社会访谈资料，运用实地考察、深度访谈与数据分析方法，分析生态危机爆发以来绿洲生态空间生产过程，揭示绿洲生态治理与空间生产作用关系，以期为丰富和拓展生态治理研究提供理论和案例支撑，推动新时期绿洲生态治理从技术治理走向主体治理。
+
+# 1研究区概况
+
+额济纳旗位于 $3 9 ^ { \circ } 5 2 ^ { \prime } 2 0 ^ { \prime \prime } { \sim } 4 2 ^ { \circ } 4 7 ^ { \prime } 2 0 ^ { \prime \prime } \mathrm { N }  { \mathrm { . } } 9 7 ^ { \circ } 1 0 ^ { \prime } 2 3 ^ { \prime \prime }  { \sim }$ （24$1 0 3 ^ { \circ } 7 ^ { \prime } 1 5 ^ { \prime \prime } \mathrm { E }$ ,地处我国西北边疆，黑河流域下游，内蒙古自治区最西端。东与阿拉善盟阿拉善右旗相邻，西、南分别与甘肃省肃北蒙古族自治县和金塔县接壤，北抵中蒙边界(图1)，境内国界线全长507$\mathrm { k m }$ ,是我国西北边防重镇。旗境东西最长 $4 8 9 \mathrm { k m }$ 南北最宽 $3 2 4 \mathrm { k m }$ ,总面积 $1 . 1 5 { \times } 1 0 ^ { 5 } \mathrm { k m } ^ { 2 }$ ,是内蒙古自治区面积最大的旗(县）。额济纳旗深居亚欧大陆腹地，属典型的温带荒漠大陆性气候，年均降水量不足 $4 0 \ \mathrm { m m }$ ,蒸发量 $2 5 0 0 { \sim } 4 0 0 0 \ \mathrm { m m }$ ，年均气温$8 . 6 ~ \mathrm { { ^ { \circ } C } }$ ，属极端干旱区[25]。2018年，全旗户籍人口18756人，GDP为 $3 3 . 3 \times 1 0 ^ { 8 }$ 元，三次产业结构比为4:33:63。
+
+黑河是进入额济纳旗的唯一季节性河流，人境后称为额济纳河，过狼心山后分为东、西两河，最终汇入尾闾湖东、西居延海。沿河发育绿洲，形成了围绕东西两河的额济纳三角洲(图1)。20世纪50年代以后，随着黑河中游用水增加，流入下游的水量大幅减少，西居延海和东居延海相继于1961年和1992年彻底干涸，绿洲生态环境急剧恶化。2000年绿洲生态危机爆发后，在中央政府的纵向嵌入治理下，黑河水量统一调度正式开始。2003年完成黑河分水目标，2004年从应急调度转入正常调度。
+
+# 2 理论基础与方法
+
+# 2.1理论视角与分析框架
+
+空间生产理论是法国思想家列斐伏尔提出的，他认为空间是社会的产物，并从空间的感知、构想和经历3个维度，构建了空间生产过程三元一体理论框架：空间实践、空间表征与表征空间[26]。由于注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2016)2923号的标准地图制作,底图无修改。
+
+![](images/341ef5428c787e8ffeef859140869bac32c60e75ef8c6cc4db24578dcb6f9dd7.jpg)  
+图1额济纳旗地理区位示意图  
+Fig.1 Location of Ejina Banner
+
+该理论将物质、社会、文化的空间视作一个整体，深入揭示了空间与塑造它的社会、政治、经济等因素的相互作用关系，其已在城市研究、旅游研究、乡村研究等领域得到了广泛应用，近些年也开始向生态治理领域渗透[27-28],展现了其深刻的洞察力和解释力，有助于更全面系统地审视生态治理研究。
+
+空间生产理论给绿洲生态治理研究提供了重要的理论视角和分析框架。绿洲生态治理不仅仅是绿洲生态系统保护与修复的过程，也是绿洲生态空间生产的过程，是不同行动主体共同进行的空间生产实践。绿洲生态空间生产是在特定历史背景下，为维护绿洲生态系统稳定性，增强绿洲生态系统服务功能，保障区域和国家生态安全，多元社会主体运用各种手段如变革流域管理制度、实施流域综合治理、调整地方发展方式等对绿洲空间重新塑造形成新的绿洲生态空间的过程[29]。绿洲生态空间生产包括3个维度，感知层面的绿洲生态空间实践、构想层面的绿洲生态空间表征和经历层面的绿洲表征生态空间。
+
+纵向嵌人治理是为解决区域合作治理过程中横向政府协调缺乏约束力，纵向政府过度介人与介入不足并存，社会组织力量比较薄弱等问题而采取的制度安排。需要将中央政府嵌人到区域合作治理网络之中，通过纵向机制与横向机制的有机结合来克服区域合作治理困境，形成纵向嵌入式治理机制[24]。纵向嵌入式治理机制运用的关键是根据区域合作特征确定纵向嵌入的时机和方式,强调通过政策工具的选择和组合作用于区域合作过程
+
+根据区域治理问题的复杂程度（常规 $$ 复杂）和纵向政府嵌入的刚性程度(协调性 $$ 干预性)，将纵向嵌入式治理政策工具分为4类[30]：政治嵌入、行政嵌入、机构嵌入和规则嵌入(图2)。在区域合作治理实践中，4类政策工具常组合使用，构成纵向嵌入式治理政策束。
+
+政治嵌入是高度干预性的，面对的区域合作问题比较复杂，需要地方政府严格按照中央政府的指令行事，否则就要承担政治责任。中央政府通过战略方针制定、政治宣传和动员、组织和干部任免以及监督检查等方式介人到区域合作中。在这类政策工具中，纵向政府关系嵌入程度最强，解决问题的效率相对较高[30]
+
+机构嵌入是由中央政府根据区域合作治理的需要，牵头区域合作涉及的地方政府或政府部门组成议事协调机构，以解决区域合作问题的政策工具[30]。机构嵌入不具有很强的干预性，而是将区域合作各方组织起来，通过建立沟通、交流和协商平台来嵌人到区域合作过程，包括建立区域合作领导小组、设立区域合作管理机构等。
+
+![](images/36e892d24c990fd6edd926669f406148d5fe0e02456916ec2f4bb0318dc77b6d.jpg)  
+图2纵向嵌人治理政策工具类型
+
+行政嵌入是中央政府通过规定行政措施、颁布行政法规、发布决定和命令、制定战略规划等方式介入区域合作的政策工具，有助于解决地方政府之间的"协作悖论”[30]。行政嵌入是一种干预式的政策工具类型，中央政府嵌入程度较高。
+
+规则嵌人是中央政府通过制定相应的规则以提供平台与激励，解决地方政府合作中存在成本分担和利益分配的问题，一般通过经济制度手段解决成本收益问题[30]。规则嵌入需要上级政府统筹考虑各个利益相关者的利益诉求，是中央政府干预程度最低的政策工具类型
+
+本文将纵向嵌入治理理论与空间生产理论进行融合分析，探讨纵向嵌入治理政策工具与绿洲生态空间生产不同维度的作用关系，形成具有主体治理特征的理论分析框架(图3)，深入剖析绿洲生态空间生产过程及蕴涵问题，厘清中央政府纵向嵌入治理对绿洲空间的生产和重构，为完善绿洲生态治理研究，实现绿洲生态有效治理提供科学支撑
+
+# 2.2研究方法与数据来源
+
+本文采用实地考察、深度访谈、数据分析相结合的方法，涉及的数据主要包括水文监测数据、工程建设数据和社会访谈资料3种类型。
+
+水文监测数据指2000年黑河统一调度以来，黑河干流主要水文断面下泄水量，东居延海入湖水量、湖面面积及水面维持状况，来源于黑河流域管理局和额济纳旗水务局。
+
+工程建设数据包括黑河(额济纳旗)近期治理数据(水利工程建设和生态工程建设)和生态移民数据。其中，黑河(额济纳旗)近期治理数据来源于黑河流域管理局和额济纳旗水务局，生态移民数据来源于额济纳旗农牧局。
+
+![](images/7c103aeb884a63fe201d8d79c93df73ee6627a97db7f40472ad0fb9b248c03d4.jpg)  
+Fig.2Typesof policy tools for vertical embedded governance   
+图3纵向嵌入治理与绿洲生态空间生产分析框架 Fig.3Framework between vertical embedded governance and oasis ecological space production
+
+社会访谈资料来自于作者2018年8月13—24日、10月6—12日在额济纳旗实地调研获取的绿洲生态治理与旅游发展资料。调研期间，通过实地走访、参与式观察、深度访谈等形式，对不同社会群体从多个方面进行非(半)结构式访谈，获取访谈资料。为确保样本的代表性，调研共进行了28人次的深度访谈，一般人物访谈采取随机抽样方法，作者在绿洲生态移民安置点和居延海景区等随机选取22名不同年龄、性别和民族的当地居民进行15\~30min非结构式访谈，关键人物访谈采取非随机抽样方法，作者在额济纳旗水务局、农牧局和旅游局等单位重点选取6名不同岗位和职位的政府工作人员进行 $3 0 \mathrm { m i n }$ 以上(半)结构式访谈
+
+# 3纵向嵌入治理与绿洲生态空间生产
+
+# 3.1机构嵌入与绿洲生态空间表征
+
+3.1.1机构嵌入与流域管理变革干旱区山地-绿洲-荒漠系统的空间耦合性和绿洲生态系统的尺度依存性，决定了绿洲生态治理的复杂性，涉及到流域水资源分配和用水关系调整，流域生态共治成为绿洲生态空间生产的前提。绿洲生态治理过程中，中央政府通过机构嵌入推动黑河流域生态共治，
+
+1999年水利部黄河水利委员会成立了黑河流域管理局(以下简称“黑河局”)，负责黑河水资源的统一管理和调度，行使黑河流域水行政主管部门职能。同时，考虑到黑河流域水事问题的复杂性，2002年水利部又成立了黑河流域综合治理联席会议委员会。委员会成员由水利部、流域内各省（区）、东风场区及黄河水利委员会等多家单位构成，负责协商解决黑河流域综合治理的重大问题，联席会议议定事项的落实情况由黄河水利委员会督办。
+
+机构嵌人对推进流域管理体制变革起到了重要作用。其一，结束了流域各自为政的水资源管理方式，建立了流域管理和区域管理相结合的水资源管理制度，实现了均水范围从省内均水向省区间均水的转变。其二，流域管理机构的成立为流域各方表达立场、弥合分歧提供了平台，也为解决地方政府由于利益诉求差异所造成的协调不畅提供了解决方案，初步形成了遇事协商、团结治水、同舟共济的工作机制和工作秩序。其三，促进了流域生态协同共治，通过沟通交流确定流域各方的职责分工，降低了协同治理的交易成本。
+
+机构嵌入存在的问题一方面在于，黑河局作为议事协调机构，权威性还不够高，在实际的执行过程中还存在执行不力和监管失效的问题，工作机制的稳定性和持续性也有待加强，在流域生态共治过程中难以发挥长效作用。
+
+“黑河局这些年的作用有目共睹…目前的问题是黑河局作为流域管理机构，其角色和法律定位尚需明确，在流域水资源监管和执法等方面的权威性有待提升，执法中缺乏强有力的法律保护，监督管理机制难以落实。”(FT01-LZL- $\mathbf { \cdot A } ^ { \mathbb { ( D } }$ ,2018年8月）
+
+另一方面，黑河局作为派出机构，由于级别和职权有限，在流域重大问题应对上如黑河分水方案调整力不从心，分水方案执行遭遇阻力。近年来，围绕正义峡断面“来水越丰、欠水越多”的现实状况[31]，甘肃、内蒙古两省(区)就黑河分水方案适应性与分水方案执行各执一词、相互博弈，黑河局在每年召开的各级各类水量调度会议上虽多次协调沟通，但效果不太明显。
+
+3.1.2 流域管理变革与绿洲生态空间表征黑河流域管理变革打破了传统"以粮为纲"的水资源配置导向，实现了流域用水制度从“粮食生产偏好”向“生态保护偏好"的转变，国家通过改变空间表征凸显绿洲生态区位进行绿洲生态空间生产，形成了生态制度空间。
+
+黑河流域横跨3种不同的自然地理单元，上游属于高山牧场区，是流域径流形成区，中游属于灌溉农业区，是流域径流消耗区，下游属于荒漠绿洲区，是流域径流利用消失区。长期以来，黑河水资源开发利用集中在中游绿洲灌溉农业区，历史上形成的“均水制”也主要是中游内部的“经济均水”，并未涉及流域上下游“经济-生态均水”，进而形成了黑河问题是甘肃省内问题的观念。
+
+“自从上面(中央)介入以来，黑河才成为一条真正的河…以前谈黑河问题,就是甘肃省内的分水问题，不关内蒙和青海的事。"（FT02-XZC-A，2018年8月）
+
+随着流域用水制度偏好变化，国家通过重塑生态空间表征话语，把绿洲建构为中国北疆重要的生态安全屏障，在其后出台的各种规划中，绿洲被赋予了特定的自然保育意义和防风固沙功能，承担着维护区域和国家生态安全重任，成为制度性生态空间[32]
+
+2000年绿洲生态危机爆发后，新闻记者实地探访并采访流域管理机构官员，提出如不加制止任由其发展会产生什么后果时，时任黑河局常务副局长常炳炎认为，绿洲是我国重要的生态防线，关系西北和华北地区的生态安全，“如果失去额济纳绿洲这道天然生态屏障，将会使西到新疆边境，东到黄河岸边，沙漠、戈壁和严重的干旱荒漠连成一片，生态环境要比现在更为恶化，甚至会出现灾难性的局面”。
+
+随后，在国家制定的《黑河流域近期治理规划》前言中明确指出“居延三角洲地带的额济纳绿洲，既是阻挡风沙侵袭、保护生态的天然屏障，也是当地人民生息繁衍、国防科研和边防建设的重要依托”，并将流域生态治理上升到国家战略层面“黑河流域生态建设与环境保护，是西部大开发的重要内容，不仅事关流域内居民的生存环境和经济发展，也关系到西北、华北地区的生态环境，是关系民族团结、社会安定、国防稳固的大事”[33]
+
+2010年以来，伴随《全国主体功能区规划》发布实施，主体功能区战略成为指导我国国土空间开发的基础制度[34]，绿洲防风固沙功能日益受到重视。2016年额济纳旗被纳入国家重点生态功能区，这标志着额济纳生态功能进入国家战略层面，额济纳绿洲作为中国北疆生态安全屏障的生态地位正式得
+
+# 干吴区地理
+
+以确立。新时期以来，随着生态文明建设上升为国家战略，绿洲北疆重要生态安全屏障地位更加稳固。
+
+# 3.2行政嵌入与绿洲生态空间实践
+
+3.2.1 行政嵌入与黑河水量调度黑河水量调度是绿洲生态空间生产的基础，是国家利用制度对流域水资源进行调整和空间再分配。额济纳绿洲生态治理过程中，中央政府通过行政嵌入推动黑河水量调度。
+
+# （1）出台黑河水量调度行政规章
+
+为构建良好的水量调度运行机制，水利部2000年制定了《黑河干流水量调度管理暂行办法》。2009年在系统总结黑河水量调度经验的基础上，公布了《黑河干流水量调度管理办法》。该办法是首部以黑河流域水资源管理为主旨的行政规章，为依法管理流域水资源提供了法律规范，对构建黑河水量调度长效机制，提高流域合作的有效性有重要影响。
+
+# (2）制定黑河流域近期治理规划
+
+流域生态共治是保障和促进黑河水量调度的基础。2001年国务院批复了《黑河流域近期治理规划》（以下简称《近期规划》），该规划明确了黑河近期治理的基本目标和分阶段任务，并对黑河上、中、下游治理任务进行了总体布局，为流域合作风险控制提供了政策依据。
+
+# (3）建立健全水量调度监督检查制度
+
+为确保黑河水量调度秩序和效果，黑河局在强化河段水量调度任务分工和责任落实的同时，加强监督检查,实施分级负责、分级督查,流域机构督查和联合督查相结合的督查制度，在关键调度期深入中游各县(区)对主要河段重要引水口门、上游梯级水电站蓄水等进行现场协调和巡回督查，保障黑河水量调度工作。
+
+行政嵌人的问题在于，《近期规划》和黑河水量调度是在特殊时期制定的应急措施，只解决了流域水资源利用和管理当中的突出问题。要从根本上解决额济纳绿洲生态问题，维护和巩固已有治理成果，需要尽快推进流域综合规划启动实施，构建黑河水量调度与水资源管理的长效机制。此外，行政嵌入实施过程中缺乏必要的法律法规支撑，对于水量调度过程中分水执行不力等行为，由于没有相应的处罚依据和手段，约束力和震慑力不足，造成督查效力有限，亟需加快《黑河流域管理条例》立法步骤，使流域水资源管理步人法制化轨道。
+
+3.2.2黑河水量调度与绿洲生态空间实践黑河水量调度而来的是生态用水，流域管理机构和地方政府通过精细的水资源时空分配方案和调控措施，实现了绿洲来水增多化，东居延海持续进水保持稳定水面并被构建为新的生态旅游景区，实现了尾闾湖泊景区化，重塑了黑河尾闾生态空间。
+
+# （1）绿洲来水增多化
+
+空间分配上，平水和枯水年份，重点保障东河绿洲核心区用水。丰水年份，在满足核心区用水基础上，加大西河配水规模，向绿洲边缘区、生态脆弱区和多年未灌溉区配水，实现东、西河全线过流。时间分配上，应急水量调度只在每年关键调度期（7月1日一11月10日)进行水量调度，其它时段不进行调度，调度期内“全线闭口、集中下泄”;正常水量调度后，不但加强了关键调度期的水量调度，而且重视一般调度期(11月11日一次年6月30日)的水量调度，既提高了生态配水的有效性，又减轻了关键调度期水量调度压力。
+
+截至2018年，上游莺落峡断面累计来水$3 5 8 . 1 2 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ，,年均 $1 8 . 8 5 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,较多年均值偏多$3 . 0 5 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 。中游正义峡断面累计下泄 $2 1 5 . 2 9 \times 1 0 ^ { 8 }$ $\mathbf { m } ^ { 3 }$ ,年均 $1 1 . 3 3 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,较20世纪90年代增加了$3 . 5 9 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 。下游狼心山断面累计下泄 $1 1 9 . 1 1 \times 1 0 ^ { 8 }$ $\mathbf { m } ^ { 3 }$ ,年均 $6 . 2 7 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,较20世纪90年代增加了 $2 . 6 5 \times$ $1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ，在来水基本持平状况下，下游生态用水量明显增加(表1)。
+
+# （2）尾阁湖泊景区化
+
+居延海是黑河的尾闾湖泊，也是黑河健康生命的标志。2004年正常调度以来，东居延海开始维持一定水面,最近10a水面面积保持在 $4 0 \mathrm { k m } ^ { 2 }$ 左右，已连续 $1 5 \mathrm { ~ a ~ }$ 不干涸。2002—2018年累计入湖水量$1 0 . 4 4 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,平均入湖水量 $0 . 6 1 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,最大入湖水量 $0 . 8 9 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ (表2)。随着东居延海连续多年进水，地下水得到有效补给，湖区周边土壤含水量显著增加，区域内生物多样性显著提高，鸟类由2010年的14种增加至2018年的73种，数量也由数千只增至 $3 { \times } 1 0 ^ { 4 }$ 余只，黑河尾闾生态系统明显改善。
+
+“现在的沙尘暴比以前少多了，一年也就3\~4次，十几年前每年要刮十几次…我印象中最深的是1992年，那年李先念主席去世，整个春季一直在刮，就没咋停过。一刮沙尘暴天瞬时就暗了下来，就像进入黑夜一样。"(FT03-LHA-A，2018年8月）
+
+Tab.1 Water volume statistics of scheduling year in Ejina Oasis   
+
+<html><body><table><tr><td rowspan="2">调度年</td><td rowspan="2">当年执行 指标/10m</td><td rowspan="2">莺落峡 /10m³</td><td colspan="2">正义峡/10m</td><td rowspan="2">狼心山 /10m²</td><td rowspan="2">环比/%</td><td rowspan="2">东居延海入湖 水量/10m</td><td rowspan="2">最大湖面 面积/km²</td></tr><tr><td>实际</td><td>误差</td></tr><tr><td>2000</td><td>15.8~8.0</td><td>14.62</td><td>6.50</td><td>-0.10</td><td>2.82</td><td>1</td><td>0.00</td><td>0.00</td></tr><tr><td>2001</td><td>15.8~8.3</td><td>13.13</td><td>6.48</td><td>1.15</td><td>2.64</td><td>-6.38</td><td>0.00</td><td>0.00</td></tr><tr><td>2002</td><td>15.8~9.0</td><td>16.11</td><td>9.23</td><td>-0.10</td><td>4.85</td><td>83.71</td><td>0.49</td><td>23.80</td></tr><tr><td>2003</td><td>15.8~9.5</td><td>19.03</td><td>11.61</td><td>-1.63</td><td>7.17</td><td>47.84</td><td>0.42</td><td>31.50</td></tr><tr><td>2004</td><td>15.8~9.5</td><td>14.98</td><td>8.55</td><td>0.02</td><td>3.93</td><td>-45.19</td><td>0.52</td><td>35.70</td></tr><tr><td>2005</td><td>15.8~9.5</td><td>18.08</td><td>10.49</td><td>-1.60</td><td>4.89</td><td>24.43</td><td>0.36</td><td>33.80</td></tr><tr><td>2006</td><td>15.8~9.5</td><td>17.89</td><td>11.45</td><td>-0.41</td><td>6.14</td><td>25.56</td><td>0.69</td><td>38.60</td></tr><tr><td>2007</td><td>15.8~9.5</td><td>20.65</td><td>11.96</td><td>-3.24</td><td>6.49</td><td>5.70</td><td>0.60</td><td>39.00</td></tr><tr><td>2008</td><td>15.8~9.5</td><td>18.87</td><td>11.82</td><td>-1.23</td><td>6.99</td><td>7.70</td><td>0.65</td><td>40.50</td></tr><tr><td>2009</td><td>15.8~9.5</td><td>21.30</td><td>11.98</td><td>-4.01</td><td>6.79</td><td>-2.86</td><td>0.57</td><td>42.00</td></tr><tr><td>2010</td><td>15.8~9.5</td><td>17.45</td><td>9.57</td><td>-1.75</td><td>4.83</td><td>-28.87</td><td>0.48</td><td>40.00</td></tr><tr><td>2011</td><td>15.8~9.5</td><td>18.06</td><td>11.27</td><td>-0.79</td><td>5.81</td><td>20.29</td><td>0.88</td><td>42.80</td></tr><tr><td>2012</td><td>15.8~9.5</td><td>19.35</td><td>11.13</td><td>-2.49</td><td>5.69</td><td>-2.07</td><td>0.62</td><td>42.30</td></tr><tr><td>2013</td><td>15.8~9.5</td><td>19.53</td><td>11.91</td><td>-1.93</td><td>6.70</td><td>17.75</td><td>0.67</td><td>40.50</td></tr><tr><td>2014</td><td>15.8~9.5</td><td>21.90</td><td>13.02</td><td>-3.69</td><td>6.51</td><td>-2.84</td><td>0.75</td><td>42.00</td></tr><tr><td>2015</td><td>15.8~9.5</td><td>20.66</td><td>12.78</td><td>-2.43</td><td>6.53</td><td>0.30</td><td>0.48</td><td>40.90</td></tr><tr><td>2016</td><td>15.8~9.5</td><td>22.37</td><td>15.62</td><td>-1.66</td><td>9.83</td><td>50.53</td><td>0.89</td><td>42.50</td></tr><tr><td>2017</td><td>15.8~9.5</td><td>23.55</td><td>15.92</td><td>-2.79</td><td>10.71</td><td>8.95</td><td>0.65</td><td>42.90</td></tr><tr><td>2018</td><td>15.8~9.5</td><td>20.59</td><td>14.00</td><td>-1.12</td><td>9.79</td><td>-8.59</td><td>0.72</td><td>43.20</td></tr><tr><td>累计</td><td>二</td><td>358.12</td><td>215.29</td><td>-29.80</td><td>119.11</td><td>二</td><td>10.44</td><td>二</td></tr></table></body></html>
+
+注：-表示不适用;调度年水量统计时段为上一年11月11日一当年11月10日;数据来源于黑河流域管理局。
+
+表1额济纳绿洲调度年水量统计  
+表2额济纳绿洲水利工程建设统计  
+Tab.2 Statistics of water conservancy project constructions in Ejina Oasis   
+
+<html><body><table><tr><td rowspan="2">地理位置</td><td rowspan="2">工程名称</td><td rowspan="2">上级河道</td><td rowspan="2">长度/km</td><td colspan="2">支渠</td><td rowspan="2">衬砌/km</td><td rowspan="2">水闸/座</td></tr><tr><td>条数</td><td>长度/km</td></tr><tr><td>东河河道</td><td>东干渠</td><td>黑河</td><td>109.7</td><td>17</td><td>39.5</td><td>109.7</td><td>35</td></tr><tr><td>东河灌域</td><td>东河渠</td><td>黑河</td><td>121.0</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td rowspan="20"></td><td>纳林河渠</td><td>东河渠</td><td>122.1</td><td>2</td><td>3.5</td><td>0.3</td><td>15</td></tr><tr><td>铁库里分干渠</td><td>东河渠</td><td>39.7</td><td>16</td><td>44.5</td><td>50.1</td><td>46</td></tr><tr><td>一道河渠</td><td>东河渠</td><td>62.9</td><td>2</td><td>18.9</td><td>1</td><td>19</td></tr><tr><td>二道河分干渠</td><td>一道河渠</td><td>27.2</td><td>16</td><td>39.6</td><td>24.3</td><td>40</td></tr><tr><td>三道河渠</td><td>一道河渠</td><td>49.4</td><td>2</td><td>6.4</td><td>1</td><td>8</td></tr><tr><td>四道河分干渠</td><td>东河渠</td><td>37.9</td><td>20</td><td>47.1</td><td>14.6</td><td>48</td></tr><tr><td>六道河分干渠</td><td>昂茨河分干渠</td><td>12.4</td><td>12</td><td>21.1</td><td>19.4</td><td>7</td></tr><tr><td>昂茨河分干渠</td><td>四道河分干渠</td><td>34.9</td><td>5</td><td>14.7</td><td>12.7</td><td>30</td></tr><tr><td>昂茨河渠</td><td>东河渠</td><td>57.0</td><td>1</td><td>1</td><td>1</td><td>29</td></tr><tr><td>班布尔河分干渠 西河灌域</td><td>东河渠</td><td>18.9</td><td>6</td><td>14.2</td><td>1</td><td>3</td></tr><tr><td>西河渠</td><td>黑河</td><td>108.7</td><td>1</td><td>1</td><td>1</td><td>10</td></tr><tr><td>乌兰艾立格河渠</td><td>西河渠</td><td>83.9</td><td>1</td><td>1.2</td><td>一</td><td>20</td></tr><tr><td>哈特台河渠</td><td>西河渠</td><td>21.4</td><td>1</td><td>8.0</td><td>1</td><td>3</td></tr><tr><td>聋子河渠</td><td>西河渠</td><td>54.0</td><td>1</td><td>1</td><td>一</td><td>17</td></tr><tr><td>安都河渠</td><td>聋子河渠</td><td>55.4</td><td>1</td><td>1</td><td>1</td><td>22</td></tr><tr><td>穆林河渠</td><td>西河渠</td><td>88.9</td><td>二</td><td>二</td><td>二</td><td>2</td></tr></table></body></html>
+
+注：“-"表示无建设;数据来源于额济纳旗水务局。
+
+“环境变化太大了，简直一个天上、一个地下。
+
+过去(黑河分水前)没有水，羊没有草吃,是旱羊；现在水多草高，羊群钻进草地里人都看不见…而且羊还学会了下水，成了‘水羊’。"（FT04-DBXLT-A,
+
+2018年8月）
+
+随着绿洲来水的增多化，绿洲生态恶化得到有效遏制，绿洲原生态的自然景观受到旅游者追捧。地方政府及时转变经济发展方式，大力推进绿洲生态旅游开发，东居延海旅游、生态和文化价值得以发现，并被塑造为新的生态旅游景区，东居延海由戈壁沙漠湖泊湿地转变为生态观光旅游胜地，重构了黑河尾闾生态空间。
+
+“(黑河)分水以后，(绿洲)生态环境好了，来我们这旅游的人越来越多，全国各地的都有，还有老外。旗上每年都举行胡杨节，整个10月人特别多。(旅游)放在分水前，我们想都不敢想。”(FT05-JEAT-A,2018年8月）
+
+# 3.3规则嵌入与绿洲生态空间实践
+
+3.3.1 规则嵌入与绿洲工程建设规则嵌入是纵向嵌入治理中常用的政策工具类型，在绿洲生态空间实践中主要体现为资金支持。黑河流域地处西北欠发达地区，资金短缺是制约区域生态治理的重要因素，国家通过公共财政转移支付为黑河近期治理提供资金来源，解决了绿洲工程建设中资金短缺问题。
+
+按照项目安排，《近期规划》预算投资 $2 3 . 5 2 \times 1 0 ^ { 8 }$ 元，其中生态建设投资 $1 1 . 3 9 \times 1 0 ^ { 8 }$ 元，节水建设投资$1 1 . 0 3 \times 1 0 ^ { 8 }$ 元，黑河干流决策支持系统建设 $0 . 2 5 { \times } 1 0 ^ { 8 }$ 元，基础研究及前期工作 $0 . 8 5 \times 1 0 ^ { 8 }$ 元。鉴于流域经济基础和生态战略地位，生态建设和黑河干流决策支持系统建设资金全部由中央投资，灌区节水改造所需投资以中央投入为主，地方适当匹配
+
+此外，国家还通过退牧还草项目、公益林建设项目、草原生态保护补助奖励政策和游牧民定居工程等间接对绿洲工程建设提供后续资金，支持绿洲生态建设。
+
+规则嵌入在一定程度上解决了黑河流域由于资金短缺导致的生态治理投入不足、农户生态补偿偏低等问题。但需要指出是，规则嵌入由于涉及财政、资金等问题，中央政府应该对资金的专用性、成效的长期性、资助的后续性等问题进行相应的评估与规划。
+
+“(绿洲)生态治理背后都有国家(财政)的大力支持，如退牧还草项目、公益林建设项目、草原生态补奖等，只靠地方上的财政是远远不行的。……希望国家项目能够持续稳定，这样更有利于(绿洲)生态恢复。"(FT06-CYS-A,2018年8月）
+
+另外，规则嵌入具有阶段性，而生态建设具有长期性，如果不能解决农牧民的生计问题，绿洲生态工程建设产生的治理成果就难以维持，面临再次被破坏的风险。
+
+3.3.2 水利工程建设与绿洲生态空间实践水利工程建设是为控制和调配黑河中游来水，实现输水生态效益最大化，而修(改)建的水利枢纽和渠系工程。地方政府据此构建了清晰化的河水控制体系，通过对绿洲灌溉的人工化控制，重塑了绿洲河网形态，使绿洲河网渠系化，生产出新的绿洲生态空间。
+
+（1）绿洲灌溉人工化
+
+按照《近期规划》要求，当地政府根据来水状况和绿洲分布特点，结合自然条件，重点建设了内蒙古输水渠、东干渠工程、东西河生态水利工程、狼心山分水枢纽工程。
+
+$\textcircled{1}$ 建设内蒙古输水渠。修建一条从正义峡下游大墩门至狼心山分水枢纽 $1 5 6 \mathrm { k m }$ 的输水渠，渠道全部衬砌，减少自然河道输水损失，增加狼心山断面水量。
+
+$\textcircled{2}$ 修建东干渠，直通东居延海。建设一条从狼心山分水枢纽至东居延海近 $1 1 0 \mathrm { k m } .$ 流量 $2 5 ~ \mathrm { m } ^ { 3 } \cdot \mathrm { s } ^ { - 1 }$ 的人工渠，确保下游输水到东居延海任务，保证东居延海供水水量和水域面积
+
+$\textcircled{3}$ 东河河网和河道整治与渠道建设。对绿洲核心区昂茨河分水闸以下10条天然河道中的6条河道裁弯取直，建设6条分干渠，并沿分干渠两侧设置支、斗渠，进行双向控制。
+
+$\textcircled{4}$ 西河河网和河道整治。采取“堵支强干”的手段，归顺整治西河4条，使河水归顺主河道，并新建西河分水枢纽4座，提高输水效率。
+
+$\textcircled{5}$ 改建狼心山分水枢纽。提高防洪能力，使其同时具备分水和分洪功能，满足下游不同情况的用水需求，实现东、西两河水资源的高效利用和合理配置。
+
+# （2）绿洲河网渠系化
+
+水利工程建设重塑了额济纳绿洲河网形态，使绿洲河网渠系化，形成了干渠-支渠-斗渠-农渠等多级灌溉渠系系统，并对部分渠系衬砌，减少河道渗漏，提高输水效率。目前，绿洲（不包括内蒙古输水渠)已建成河渠、干渠、分干渠28条，支渠106条，水闸400个。渠道总长度 $1 4 0 8 . 5 \mathrm { k m }$ ,河渠、干渠、分干渠长度 $1 1 4 7 . 2 \ \mathrm { k m }$ ,支渠长度 $2 6 1 . 3 ~ \mathrm { k m }$ ,衬砌总长度 $2 3 1 . 1 \mathrm { k m }$ (表2)。渠道工程包括东干渠、东河灌域和西河灌域三大片区，主要集中在绿洲核心区东河灌域，东干渠全部衬砌。
+
+3.3.3生态工程建设与绿洲生态空间实践生态工程建设是为减轻绿洲生态压力，优化绿洲人地关系，对绿洲生态系统进行保护修复的生态建设方法。当地政府据此将绿洲生态保护区化，通过将额济纳绿洲转变为区域和国家的生态防线，实现了绿洲空间的功能化，作为整体的绿洲生态空间由此被生产出来。
+
+（1）绿洲生态保护区化$\textcircled{1}$ 胡杨林围封工程
+
+额济纳河道胡杨林与沿河怪柳林是绿洲重要的生态防线，也是当地可利用草场的主体，绿洲上大小牲畜大都分散在沿河灌溉林草场中，草场超载放牧现象突出，未经围封的胡杨幼苗，由于山羊、骆驼的啃食，根本无法复壮，林地日趋老化衰残。为了防止牲畜啃食与人为破坏，提高绿洲林草覆盖，按照《近期规划》要求，当地政府对胡杨林区（包括部分怪柳林、沙枣林)实行封育管理，胡杨林封育面积 $2 { \times } 1 0 ^ { 4 } \ \mathrm { h m } ^ { 2 }$ ，最大化保护沿河绿洲胡杨生态系统，增强绿洲生态系统服务功能。
+
+$\textcircled{2}$ 生态移民工程
+
+根据《近期规划》，当地政府还对居住在胡杨林区、草场严重退化区和人畜饮水困难区的农牧民进行转移搬迁，集中安排在政府统一建造的移民安置区里，并进行转业转产培训，从事加工、旅游、商贸、餐饮、运输等二、三产业。截至2014年，共计转移搬迁农牧民1407户4177人，占全旗农牧民总人口的$71 \%$ 。其中，达来呼布镇安置1266户3703人，苏木镇就地转移安置141户474人[35]。达来呼布镇安置对象为胡杨林区、退牧还草户，苏木镇就地安置对象主要为本嘎查牧民。
+
+# (2）绿洲空间功能化
+
+通过胡杨林围封、生态移民等生态工程建设，地方政府有目的地改变当地农牧民与绿洲生态间关系，引导农牧民转变生产方式，促进畜牧业生产经营方式改革，推动区域发展方式转变和经济结构转型，在构筑北部边疆重要生态安全屏障的同时，实现了绿洲空间的生态功能化一一区域和国家生态防线。
+
+生态工程建设构建了良好的土地生态环境基础，保护了绿洲森林、草原、水域、湿地等基础性生态用地，保障了合理的生态用地规模。2008年以来，具有保护和改善生态环境作用的林地、园地、牧草地、水域等占全旗面积的比例保持在 $5 0 \%$ 以上，生态优先导向的土地利用格局正在形成。
+
+生态工程建设生产出新的空间形态，胡杨林封育区、饲草料基地、生态移民安置区、畜牧产品生产加工基地等新空间相继出现，重塑了额济纳绿洲传统的居住空间形态和经济结构。同时，伴随大量生态工程建设，以胡杨、怪柳为主的森林生态系统受到严格保护，原有退化草场得到大面积恢复，绿洲生态系统的稳定性和安全性有了大幅提升，绿洲主体功能发生改变，绿洲空间生态功能化趋势日益明显，逐步由边境传统牧业生产生活空间向国家重要的生态功能空间转变。
+
+# 4讨论
+
+(1）绿洲生态治理是一种物理空间和社会空间的生产与实践，既体现了行动主体对绿洲生态空间的物理性塑造(黑河水量调度、水利工程建设、生态工程建设等），也体现了行动主体在流域生态共治中的冲突协商，通过关系重塑和意义重构，生产出新的绿洲生态空间。从空间生产的视角考察绿洲生态治理，一方面，有利于打破传统生态治理的技术和经济倾向，提高生态治理研究的深度和广度，推动新时期绿洲生态治理从技术治理走向主体治理[29]；另一方面，有助于凸显绿洲生态问题的复杂性，揭示绿洲生态治理是一种多行动主体共同进行的空间生产实践，推进生态治理研究和空间生产理论相融合，实现空间、人与治理的协调。
+
+(2）绿洲生态空间生产过程是纵向嵌入治理后，黑河流域人水关系协调发展的结果。其中，政府尤其是中央政府的影响居于绝对的主导地位，中央政府的行政权威和政策制度对绿洲生态空间生产起着举足轻重的作用。这既显示了政府在生态公共产品供给中的突出作用，又表明(流域)宏观尺度上，中央政府在组织动员、利益协调、政策推进、社会整合等方面所发挥的强大力量。
+
+（3）中央政府纵向嵌入后，基于自身利益考虑，流域地方政府在生态治理响应上存在差异。其中，下游地方政府作为利益主要获益方，按照流域综合治理要求，在水量统一调度和绿洲生态建设中表现
+
+# 干吴区地理
+
+较为积极，并主动调整区域发展战略，优化绿洲人地关系。中游地方政府作为利益受损方，处于被动响应地位，在分水方案的执行力上有所欠缺，对如何执行分水方案及方案适应性上争论不已[31],呼吁重新制定黑河水量分配方案。
+
+(4）本文通过政策工具组合分析，重点探讨了中央政府纵向嵌入治理下绿洲生态空间表征和绿洲生态空间实践过程,体现的是一种“国家视角”。但对绿洲内的居民而言，国家主导的生态空间生产过程的另一面就是他们的生活空间被重构的过程[27],从“生活者视角"考察当地居民绿洲表征生态空间，充分反映绿洲居民生活诉求和空间认同，是未来研究需要特别关注的内容。
+
+# 5结论
+
+本文基于水文监测数据、工程建设数据和社会访谈资料，通过政策工具组合分析，研究了纵向嵌入式治理下额济纳绿洲生态空间生产过程。主要得出以下结论：
+
+（1）中央政府的机构嵌入推进了流域管理体制变革，实现了流域用水制度从“粮食生产偏好”向“生态保护偏好”的转变。国家通过改变空间表征凸显绿洲生态区位进行新的绿洲生态空间生产，借助规划文本绿洲在被赋予特定自然保育意义和防风固沙功能的同时，还被表征为中国北疆重要的生态安全屏障，完成了制度规则空间的生产。
+
+(2）通过出台黑河水量调度行政规章、制定黑河近期治理目标和建立健全水量调度监督检查制度，中央政府完成了行政嵌入，促成了黑河水量调度，基于对水资源精细化的时空分配，实现了绿洲来水增多化，干涸多年的东居延海出现稳定水面被开辟为生态旅游景区，由戈壁沙漠湖泊湿地转变为生态观光旅游胜地，重构了黑河尾闾生态空间。
+
+(3）借助公共财政转移支付制度，中央政府完成了规则嵌入，解决了绿洲工程建设中资金短缺问题。水利工程建设凭借对绿洲灌溉的人工化控制，重塑了绿洲河网形态，使绿洲河网渠系化，生态工程建设通过对绿洲生态保护区化，构筑了生态优先导向的土地利用格局，实现了绿洲空间功能化，绿洲由边境牧业生产生活空间转变为国家重点生态功能空间。
+
+# 参考文献(References)
+
+[1]王一航,夏沛,刘志锋,等.中国绿洲城市土地利用/覆盖变化研 究进展[J].干旱区地理,2019,42(2):341-353.[Wang Yihang, Xia Pei,Liu Zhifeng, et al. Research progress of urban land use/ cover change in the oasis citiesofChina[J]. AridLand Geography, 2019,42(2): 341-353.]   
+[2]胡云锋,张云芝,韩月琪.2000—2015年中国荒漠化土地识别 和监测[J].干旱区地理,2018,41(6):1321-1332.[Hu Yunfeng, Zhang Yunzhi,Han Yueqi.Identification and monitoring of desertification lands in China from 200O to 2015[J].Arid Land Geography,2018,41(6): 1321-1332.]   
+[3]Zhen L,Yan HM,HuYF,etal.Overview of ecological restoration technologies and evaluation systems[J]. Journal of Resources and Ecology,2017, 8(4): 315-324.   
+[4]Cairns J.The recovery process in damaged ecosystems[M].Ann Arbor: Ann Arbor Science Publishers,1980: 1-161.   
+[5]Nearing M A.A process-based soil erosion model for USDA-water erosion prediction project technology[J]. Transactions of the ASAE,1989,32(5): 1587-1593.   
+[6]Williams J. Soils governance in Australia: Challenges of cooperative federalism[J].International Journalof RuralLawandPolicy, 2015(1): 1-12.   
+[7]Shackelford N,Hobbs RJ, Burgar JM,etal.Primed forchange: Developing ecological restoration for the 21" century[J]. Restoration Ecology,2013,21(3): 297-304.   
+[8]Buisson E,Jaunatre R,Regnery B,et al. Promoting ecological restoration in France: Issues and solutions[J].Restoration Ecology, 2018,26(3): 36-44.   
+[9]Debra JD,Scot F.Understanding environmental governance: Acrtical review[J].Organization & Environment,2004,17(4): 471-492.   
+[10]Reed M G, Bruyneel S.Rescaling environmental governance,rethinking the state: A three-dimensional review[J]. Progress in Human Geography,2010,34(5): 646-653.   
+[1] Thorun P,Olafur A,Susan B,etal.A social-ecological stem approach to analyze stakeholders’interactions within a large- scale rangeland restoration program[J]. Ecology & Society,2013,18(2): 29-40.   
+[12]Heidi H S,Cheng A S. The evolving role of government in the adaptive governance of freshwater social-ecological systems in the western US[J]. Environmental Science and Policy,2O17,77: 40-48.   
+[13] 卢琦,雷加强,李晓松,等.大国治沙:中国方案与全球范式[J]. 中国科学院院刊,2020,35(6): 656-664.[Lu Qi,Lei Jiaqiang,Li Xiaosong,et al. China’s combating desertification: National solutions and global paradigm[J]. Bulletin of Chinese Academy of Sciences,2020,35(6): 656-664.]   
+[14] 王睿,杨国靖.库布齐沙漠生态治理的生态经济系统耦合分析 [J].干旱区地理,2020,43(5):1391-1400.[Wang Rui,Yang Guojing. Coupling analysis of eco-economic system for ecological management in the Hobq Desert[J].Arid Land Geography,2020,43 (5): 1391-1400.]   
+[15] 杨持,常学礼,赵雪,等.沙漠化控制与治理技术[M].北京:化学 工业出版社,2004: 90-267.[Yang Chi, Chang Xueli, Zhao Xue, et al.Desertification control and management technology[M]. Beijing: Chemical Industry Press, 2004: 90-267.]   
+[16] 胡开波,刘凯,蒋勇,等.我国土地荒漠化防治技术体系研究进 展[J].四川林业科技,2009,30(6): 87-92.[Hu Kaibo,Liu Kai,Jiang Yong,etal.Advances in the technology-system of land desertification control in China[J]. Journal of Sichuan Forestry Science and Technology,2009,30(6): 87-92.]   
+[17] 甄霖,胡云锋,魏云洁,等.典型脆弱生态区生态退化趋势与治 理技术需求分析[J].资源科学,2019,41(1):63-74.[Zhen Lin, Hu Yunfeng,Wei Yunjie,et al. Trend of ecological degradation and restoration technology requirement in typical ecological vulnerable regions[J]. Resources Science,2019,41(1): 63-74.]   
+[18] 杨连清,江泽平.中国沙漠化防治的理论和技术[J].世界林业研 究,2001,14(2): 42-49.[Yang Lianqing, Jiang Zeping. Theory and technologyofdeserificationcontrolinChina[J].WorldForestry Research,2001,14(2): 42-49.]   
+[19] 樊胜岳,高新才.中国荒漠化治理的模式与制度创新[J].中国社 会科学,2000(6):37-44,206.[Fan Shengyue,Gao Xincai.Innovations in the modelfor bringing desertificationundercontrol in China and institutional creation[J]. Chinese Social Sciences,2000(6): 37-44, 206.]   
+[20] 樊胜岳,张卉,乌日嘎.中国荒漠化治理的制度分析与绩效评价 [M].北京:高等教育出版社,2011: 5-20.[Fan Shengyue,Zhang Hui,Wu Riga. Institutional analysis and performance evaluation of desertification control in China[M].Beijing: Higher Education Press, 2011: 5-20.]   
+[21] 黄珊,周立华,冯起,等.内陆河流域治理政策的生态环境效果 评价——以民勤绿洲为例[J].中国沙漠,2017,37(3):580- 586.[Huang Shan, Zhou Lihua,Feng Qi,et al. Evaluation of ecoenvironment effects of management policy implementing in inland river basin of China: A case in the Minqin Oasis[J]. Journal of Desert Research,2017,37(3): 580-586.]   
+[22] 贾举杰,王也,刘旭升,等.基于农牧民响应的阿拉善荒漠复合 生态系统管理研究[J].生态学报,2017,37(17):5836-5845.[Jia Jujie,Wang Ye,Liu Xusheng,etal.The response capability analysis of farmers on social-economic-natural complex ecosystem man agement in Alxa,Inner Mongolia[J].Acta Ecologica Sinica, 2017, 37(17): 5836-5845.]   
+[23] 崔晶.跨域生态环境协作治理中的集体行动:以祁连山区域生 态治理为例[J].改革,2019(1):132-140.[Cui Jing.The study on the collective action of collaborative governance in the crossboundary ecological environment governance: The case study of Qilian Mountain[J]. Reform, 2019(1): 132-140.]   
+[24]邢华.我国区域合作治理困境与纵向嵌人式治理机制选择[J] 政治学研究,2014(5):37-50.[Xing Hua.China's regional coop
+
+eration governance dilemma and the choice of vertical embedded
+
+governance mechanism[J]. Journal of Political Science,2014(5): 37-50.]   
+[25] 高冠龙,张小由,鱼腾飞,等.1987—2008年额济纳绿洲土地覆 被变化及其驱动机制[J].中国沙漠,2015,35(3):821-829.[Gao Guanlong, Zhang Xiaoyou,Yu Tengfei, et al. Land cover change and its driving factors in theEjina Oasis during 1987—2008[J]. Journal of Desert Research,2015,35(3): 821-829.]   
+[26]Lefebvre H. The production of space[M]. Oxford: Blackwell,1991: 1-168.   
+[27] 赵宝海.生态边疆的诞生——关于额济纳绿洲抢救工程的环境 政治学分析[J].内蒙古师范大学学报(哲学社会科学版),2014, 43(6): 57-61.[Zhao Baohai.The making of the green-frontier: The space politics of Ejina Oasis conservation project[J]. Journal of Inner Mongolia Normal University (Philosophy and Social Sciences Edition),2014,43(6): 57-61.]   
+[28] Xie L J,Andrew F,May T M,et al. The making and remaking of ecological space in China: The political ecology of Chongming ecoisland[J].Political Geography,2019,69:89-102.   
+[29] 代兰海.内蒙古额济纳绿洲生态空间生产与再生产研究[D].西 安：陕西师范大学,2020.[Dai Lanhai.Study on the production and reproduction of ecological space in Ejina Oasis,Inner Mongolia[D]. Xi'an:Shanxi NormalUniversity,2020.]   
+[30] 邢华,邢普耀.大气污染纵向嵌入式治理的政策工具选择 以京津冀大气污染综合治理攻坚行动为[J].中国特色社会主 义研究,2018(3):77-84.[Xing Hua, Xing Puyao.The selection of policy tools for vertical embedded governance of atmospheric pollution:A case study of Beijing-Tianjin-Hebei comprehensive air pollution control action[J]. Studies on Socialism with Chinese Characteristics,2018(3): 77-84.]   
+[31] 蒋晓辉,夏军,黄强,等.黑河"97"分水方案适应性分析[J].地理 学报,2019,74(1):103-116.[Jiang Xiaohui, Xia Jun,Huang Qiang, etal.Adaptability analysis of the Heihe River“97”water diversion scheme[J]. Acta Geographica Sinica,2019,74(1): 103-116.]   
+[32]马学广.大都市边缘区制度性生态空间的多元治理——政策网 络的视角[J].地理研究,201,30(7):1215-1226.[Ma Xueguang. Multi-stakeholders governance of institutional eco-space in metro politan urban-rural fringe: In the view of policy network[J]. Geographical Research, 2011,30(7): 1215-1226.]   
+[33]中华人民共和国水利部.黑河流域近期治理规划[M].北京：中 国水利水电出版社,2002:5-6.[Ministry of Water Resources of the People's Republic of China. Short-term management plan of the Heihe River Basin[M]. Beijing: China Water Conservancy and Hydropower Press,2002: 5-6.]   
+[34] 中华人民共和国国家发展和改革委员会.全国主体功能区规划 [M].北京:人民出版社,2015:1-107.[National Development and Reform Commission of the People's Republic of China.National major function zone planning[M]. Beijing: People’s Publishing House,2015: 1-107.]
+
+# 干旱区地理
+
+# Vertical embedded governance and the production of oasis ecological space: Study of the ecological governance of Ejina Oasis
+
+DAI Lanhai1²， XUE Dongqian² (1.College of History,Culture and Tourism,Hexi University,Zhangye 734Ooo,Gansu, China; 2.School of Geography and Tourism,Shaanxi Normal University,Xi'an 71O119,Shaanxi,China)
+
+Abstract: Oasis is the essence of an arid inland region and a problematic area for constructing ecological civilization.Itis theoretically and practically important to strengthen the research on oasis ecological governance for promoting the construction of regional ecological civilization. For a long time,research on oasis ecological governance has emphasized the promotion of oasis ecosystem restoration by technical and economic means. However,such studies have not paid sufficient atention to the role of action subjects in ecological governance, which affects the effectiveness and sustainability of oasis ecological governance.Taking Ejina Oasis,Inner Mongolia, China as a case,we used hydrological monitoring data,engineering construction data, and social interview dataand adopted field investigation methods,in-depth interviews,and data analysis through the combined analysis of policy tools. Based on such evidence,this paper investigated the production process of oasis ecological space under vertically embedded governance and clarified the relationship between oasis ecological governance and spatial production.The results showed that: (1) Institutional embedding of the central government broke the traditional food-based orientation of water resource allocation and shifted the water system of the watershed from a food production priority to an ecological protection priority.The Ejina Oasis was constructed as a national ecological conservation space using spatial representation and became an important ecological security barrier at the northern border of China.(2）Administrative embedding of the central government reshaped water use relations and water rights order in the basin,enabled water planning in the main stream of the Heihe River,and increased the inflow of water from the oasis.East Juyan Lake,which has been dry for many years,has a stable water surface now and is open as a scenic spot for eco-tourism.This transformed the wetland ofthe Gobi desertLakeinto an eco-tourism resort and rebuilt the ecological space at the end of the Heihe River. (3)The embedding of central government regulations has solved the problem of lack of funding for the construction of oasis projects.Based on the artificial management of oasis irigation and the governance of the oasis ecological protection zone,the canalization ofthe oasis river network and the functionalization of the oasis space have been realized.This transformed the Ejina Oasis from the marginal pastoral production and living space into the country's major ecological functional space.This paper aims to provide theoretical and case-bycase support to enrich and expand ecological governance research and promote oasis ecological governance from technological governance to subject governance in the new era.
+
+Key words: vertical embedded governance； the production of ecological space; ecological governance； ecologi-cal civilization construction； Ejina Oasis

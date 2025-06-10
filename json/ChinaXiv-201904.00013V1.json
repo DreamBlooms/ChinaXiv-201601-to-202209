@@ -1,0 +1,720 @@
+[
+    {
+        "type": "text",
+        "text": "基于曲率法线流的树点云骨架提取方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝腾宇，耿楠，胡少军，张志毅(西北农林科技大学 信息工程学院，陕西 杨陵 712100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对树木点云拓扑结构复杂、特征细节繁多等问题，提出一种基于点云收缩提取曲线骨架的算法。首先，为了在点云表面直接应用网格收缩算法，对点云进行局部主成分分析和 Delaunay三角剖分;其次，针对树木点云拓扑结构复杂和末枝细节繁多等问题，用曲率法线流算子对点云进行收缩,针对树木枝条细长且弯曲幅度平缓等特点，利用\\改进后的QEM网格简化方法将三角网格折叠成一维曲线骨架;最后，将得到的曲线骨架进行连通和居中处理。提出的算法直接在点云上进行操作，不需要额外的信息和预处理操作，对噪声和残缺点云有良好的鲁棒性。实验证明，该算法提取的树木点云骨架充分表达了树木在自然环境下的生物性结构和特征，相对于rosa、L1-中轴等经典算法，在树木点云的骨架提取速度上提高3倍以上，枝条重建度提高 $2 5 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：曲率法线流算子；点云收缩；主成分分析；Delaunay三角剖分；QEM 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.10.0847 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Skeleton extraction of tree point cloud based-on curvature normal operator ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hao Tengyu, Geng Nan†,Hu Shaojun, Zhang Zhiyi (College ofInformation Engineering,NorthwestA&F University,Yangling Shanxi7121oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming at that complex topological structure and various feature details of treepoint cloud,this paper proposes analgorithm for extract the curve skeleton based on point cloud contraction.First,Inorder to directlyapply the mesh shrinkage algorithm on the surface of the point cloud,performing local cloud principal component analysis and Delaunay triangulationonthe point cloud.Secondly,for the problemthatthe tree pointcloud'scomplex topologyand thedetailsof thelastbranch,thecurvature normal operatorisusedtoshrinkthepoint cloud.In viewofthe slenderness ofthe branchesof thetres and the gentle curvature,the modified QEM mesh simplification method isused to fold the triangular mesh intoa one-dimensional curve skeleton.Finaly,connectingandcentering theresultingcurve skeleton.Thealgorithm inthis paper operates directly on the point cloud and does not require additional information and pre-processng operations.Good robustness to noise andresidual fault clouds.Experiments show that compared with other classical algorithms such as Ll androsa,the tree point cloud seleton extracted bythe algorithm has agood topological structure,which full expresses the biological structureandcharacteristics oftres in the natural environment.The skeleton extractionspeed ofthe tree point cloud is increased by more than 3 times,and the branch reconstruction degree is increased by $2 5 \\%$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: curvature normal flow operator; point cloud contraction; PCA; Delaunay triangulation; QEM ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在获取树木三维点云的过程中，由于枝条和树叶自我遮挡严重，得到的树木点云总是不完整的，尤其是在树冠末枝处的细节特征严重丢失，且树木点云拓扑结构复杂，对扫描点云进行配准1存在一定误差，所以在树木点云表面直接进行三角网格剖分得到的建模结果，难以表达自然树木的生物特性和拓扑结构。树木点云重建的一种常用方法是首先获取树木点云的骨架，然后根据树木的生物特性和先验知识基于骨架对树木点云进行几何构建。骨架结构是树木点云重建的基础，目前大多数方法[2\\~9]严重依赖于交互式操作和先验知识启发，花费大量时间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "骨架提取可以追溯到20世纪60年代，对树木点云骨架提取可以归为基于点云收缩提取骨架的方法、基于点云体素化的方法、基于几何的方法几类。基于点云收缩提取骨架主要文献有Tagliasacchi等人[10]提出的最小化平均曲率流、Au和Cao等人[11:12]提出的应用全局位置约束的拉普拉斯算子收缩网格和点云。文献[10]利用平均曲率流面积最小化的特性来实现网格收缩，结合隐式方案的长时间步长节省大量时间；该算法只能提取模型主要几何形状，在树枝生长方向方面没有施加约束条件，导致提取的骨架在树冠出现畸形结构和与现实树木不相符的现象。文献[11,12]的方法对表面噪声和模型形态不敏感，提取的骨架保留了与输入网格和点云相近的拓扑结构;但是该类算法仅适用于闭合网格和完整点云模型，应用于具有含有大量噪声及不完整的树木点云模型所提取的骨架会出现环形结构和断枝现象，在树冠处细节特征丢失严重。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于体素化的方法主要文献有师翊等人[改进的空间殖民算法和胡少军等人[9]提出的连通图。文献[6]在改进的空间殖民算法引入生长角度约束生成树的三维骨架；文献[13]基于体素化和具有优先级队列的自上而下的贪婪算法提取树木点云骨架，但该算法假定方向场几乎对称于一棵树的中心线，不适合现实世界中某些具有畸形树干的树木。基于几何的方法主要文献有 $\\mathrm { \\Delta X u }$ 等人[14]提出Dijkstra 路径图以及Livny等人[15]使用全局约束优化噪声点云，该算法严重依赖树木种类的先验信息及需要充足的扩展空间，用统一邻域半径应用于不同粗细树枝，产生的骨架可能会偏离模型中心。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在文献[11,12]的基础上，本文引入曲率法线流算子对输入点云数据进行全局收缩。在每次迭代收缩中，用不同权重的曲率法线流算子对每个点进行收缩，适当减小每个点的位置约束权重，以便点云收缩到零体积的状态。在收缩约束中加入一环邻域边界权重，这样可以更加紧密结合点云的局部信息，在处理不完整点云和噪声点云时，自适应设置收缩尺度和采样半径的大小，有效保留树木细枝的特征，能够更加真实的表达树木的拓扑结构和生物特性。为确保提取的骨架与输入点云同轮，通过点云的局部邻域相关性将点云数据收缩到零体积状态。由于树木的特性，重新设置了球采样半径，以避免在分枝处产生畸形的连接。本文算法关键是引入曲率法线流算子，在收缩点云的同时，也保留了树木细枝末节的特征。最后，根据现实世界树木生物生长性质构建驱动管道模型[13]。图1展示本文算法的基本流程。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/63851c1a4ba590daeec97d06b7825e0646fd9b2d8e510e0bc62e8219ca085fd8.jpg",
+        "img_caption": [
+            "图1树点云骨架提取系统",
+            "Fig.1Tree point cloud skeleton extraction system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "提取树木骨架在植物研究中发挥着重要作用，它不仅是树木三维几何造型构建的基础，而且对计算机图形学、景观设计、精准林业等领域研究具有重要意义。本文提出一种直接从点云数据提取骨架的方法，该方法适用于大多数种类树木，对噪声具有良好的鲁棒性，不需要额外的先验信息和点云法线计算，且无须下采样和去除小尺度噪声等预处理。适用于一定程度的数据缺失和噪声干扰等树木点云，极大程度保留了树木细枝末节的细节特征，并且对提取的骨架进行骨架连通和居中等处理，真实重现了原始树木点云拓扑结构和生物特性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 曲率法线流算子 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文结合了点云局部网格化和网格平滑相关算法来实现点云收缩。为了将网格平滑算法直接应用在点云上，用点云局部网格化来近似网格。首先对点云建立KD-tree，计算每个顶点的 $K$ 近邻来提取局部邻域，利用主成分分析算法将局部邻域投影到二维平面，然后使用Delaunay三角剖分对其进行网格化处理，如图1(b)所示。以前的网格平滑[16]方法用所有点或一个子集作为边界约束，通过求解拉普拉斯系统来平滑网格。Nealen等人[17]提出一种包括几何平滑和参数化平滑的网格优化技术。用不同加权方案的拉普拉斯系统来控制参数化平滑，用线性系统来控制几何平滑。在迭代平滑中，通过顶点加权来实现全局平滑以及保持网格体积不变。随着迭代的进行，点云体积越来越小，切平面的计算也变得更加的困难，并且，原始局部网格包含更多的树木点云特征和邻域关系信息，原始一环邻域中三角形较为工整，可以使整个收缩过程保持稳定。所以本文只在算法最开始的时候计算一次邻域信息，得到一环邻域参与整个迭代过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1曲面曲率计算 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在网格收缩的文献[10,11]中，大多数采用约束成本最小化函数。下式是最常见计算曲面S的总曲率的函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ( S ) = \\int k _ { 1 } ^ { 2 } + k _ { 2 } ^ { 2 } d S\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $s$ 是网格表面， $k _ { \\mathrm { 1 } }$ 和 $k _ { 2 }$ 是曲面主曲率。通过在顶点上拟合局部多项式插值来估计式(1)。选择平滑网格的一阶微分函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( X ) = \\frac { 1 } { 2 } \\int X _ { u } ^ { 2 } + X _ { \\nu } ^ { 2 } d u d \\nu\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { \\cal X }$ 代表网格表面， $\\boldsymbol { u }$ 和 $\\nu$ 为网格上相互垂直的参数。当参数 $u = \\nu$ 时，式(2)的函数值等于总曲率。其对应的微分导数为拉普拉斯算子：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( X ) { = } X _ { u u } + X _ { \\nu \\nu }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $X _ { u u }$ 和 $X _ { \\nu \\nu }$ 表示网格 $\\boldsymbol { \\cal X }$ 对 $u \\ , \\ \\nu$ 的二阶微分。通过时间 $t$ 对网格 $\\boldsymbol { \\cal X }$ 进行微分来快速平滑网格高频部分，同时保持网格主要形状。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { { \\hat { \\sigma } } X } { { \\hat { \\sigma } } t } } = L ( X )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2隐式积分方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前向欧拉方案在网格 $\\boldsymbol { \\cal X }$ 上对式(4)积分：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX ^ { t + 1 } = X ^ { t } + \\mu L ( X ^ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $X ^ { t + 1 }$ 代表下一次迭代的网格， $X ^ { t }$ 为当前网格， $\\mu$ 为时间步长。为了满足算法的稳定性，要求 $\\mu < 1$ ，否则，网格将过度收缩，会严重偏离网格原始形状。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前向欧拉方案思路简单，并且在每个平滑阶段只需要线性的时间和内存消耗。但是当数据集很大时，由于时间步长的限制，为达到有效的收缩需要执行大量的积分计算。为了节省时间和解决数值稳定性问题，本文采用隐式积分方案，隐式积分是一种稳健有效的数值方法，隐式欧拉方案有效的避免了时间步长的限制，可以使迭代算法快速收敛。用新生成的网格 $X ^ { t + 1 }$ 来近似积分，这样可以更快的达到平衡状态，并且具有更好的稳定性：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX ^ { t + 1 } - \\mu L \\bigl ( X ^ { t + 1 } \\bigr ) = X ^ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3构造曲率法线流算子 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在特定参数化[18]情况下，一般采用伞状算子作为拉普拉斯算子的近似值。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( p _ { i } ) { = } \\frac { 1 } { n } \\sum _ { j \\in N ( i ) } p _ { i } - p _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： ${ \\boldsymbol { p } } _ { j }$ 为网格顶点， $p _ { i }$ 为 ${ \\boldsymbol { p } } _ { j }$ 伞状邻域顶点， $N ( i )$ 为 $p _ { i }$ 的伞状邻域。伞状算子具有统一性优势，如图2所示，伞状算子是从顶点到其邻域重心的矢量，即使它们表示不同的频率，也具有相同的拉普拉斯算子值，这表示它们具有相同的曲率，这意味着网格应该具有相同长度的边，并且顶点一环邻域内任意两个相邻边之间的角度都相等，这并不适用于实际网格。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文需要一个更加精确的积分方程来收缩网格顶点，以便仔细区分高频和低频部分，保留原始数据的细节特征。为此，本文设计一个与尺度相关的离散拉普拉斯算子来更好的近似式(4)。曲率法线流算子具有不依赖参数的特点，可以节省法线计算成本。曲率法线流通过沿着曲面法线方向以平均曲率为速度移动顶点来达到收缩点云的目的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {  { \\hat { \\sigma } } p _ { i } } {  { \\hat { \\sigma } } t } = - \\overline { { k _ { i } } } n _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overline { { k _ { i } } }$ 为点 $p _ { i }$ 处平均曲率， $n _ { i }$ 为 $p _ { i }$ 的法线向量。通常计算法向矢量的散度来计算平均曲率，如果顶点周围所有面的法线都相同（该点曲率为0)，则该顶点就不应该再被收缩，所以对曲率法线做以下微分几何定义：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\nabla A } { 2 A } = \\overline { { { k } } } n\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $A$ 点 $p _ { i }$ 周围最小区域的面积， $\\boldsymbol { \\nabla }$ 是关于 $p _ { i }$ 的空间坐标$( x , y , z )$ 的导数。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/259bea14ced312494488e6244529d14a9c05e325a8e9ba33e73fb0b2b0bdd0b1.jpg",
+        "img_caption": [
+            "图2伞状算子"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec1ef705f7ba92865b2973045135637aa0383ec8ab08dbb3f37e1393807c3d5a.jpg",
+        "img_caption": [
+            "Fig.2Umbrella operator "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了将式(9)应用到网格，需要将其离散化，如图3(a)所示， $A$ 为 $p _ { i }$ 的一环邻域所有三角形的面积。经过从连续公式版本到离散版本的推导[19]，得到下式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\overline { { k } } n = \\frac { 1 } { 4 A } \\sum _ { n } \\bigl ( \\cot \\alpha _ { i j } + \\cot \\beta _ { i j } \\bigr ) \\bigl \\| e _ { i j } \\bigr \\|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图3(b)所示， $\\alpha _ { i j }$ 和 $\\beta _ { i j }$ 是一环邻域中与边 $\\boldsymbol { e } _ { i j }$ 相对的两个角， $A$ 是一环邻域三角形面积和。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文在原有的拉普拉斯算子的基础上添加一环邻域面积信息和边界权重信息，使得拉普拉斯算子充分利用原始点云局部相关性，综合局部领域信息突出单个点的重要性，反过来，利用点与点之间的相关性突出局域特征。曲率法线流算子提供点云收缩约束力。通过沿其近似曲率法线方向移动顶点从网格表面去除细节和噪声，从而达到收缩点云的目的。求解离散曲率流算子，目的是使点云局部邻域曲率为零，即$L V = 0$ （ $V$ 为顶点)，表示去除顶点法线分量，使顶点沿着其法线方向进行收缩，其中 $\\boldsymbol { L }$ 为曲率法线流算子矩阵， $W _ { i j }$ 为两点之间的权重：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { i j } = \\left\\{ \\begin{array} { c } { { W _ { i j } = \\displaystyle \\frac { 1 } { 4 A } \\sum _ { n } \\bigl ( \\cot \\alpha _ { i j } + \\cot \\beta _ { i j } \\bigr ) \\bigl \\| e _ { i j } \\bigr \\| } } \\\\ { { W _ { i i } = \\displaystyle \\sum _ { ( i , j ) \\in E } ^ { j } - w _ { i j } } } \\\\ { { 0 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 树点云骨架提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1点云收缩 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cao等人[12]利用拉普拉斯算子收缩点云提取一般点云的骨架能充分展示点云模型的几何形状，为了使该系统适用于树木点云，使收缩算法快速收敛，本文用尺度相关的曲率法线流算子 $\\lambda L$ 代替余切算子。如Au等人[]所述，通过求解以下线性系统来更新顶点 $P$ 的位置。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Bigg [ \\lambda L W _ { L } \\Bigg ] _ { P ^ { t + 1 } } = \\Bigg [ 0 \\Bigg ] _ { W _ { H } } \\Bigg ] P ^ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { W } _ { L }$ 和 $W _ { H }$ 分别为收缩力和吸引力的对角加权矩阵， $P ^ { t }$ 是当前顶点位置， $P ^ { t + 1 }$ 是下次更新位置，因为上式中只有 $P ^ { t + 1 }$ 为未知数，方程数大于未知数，所以可以用最小二乘法来解决式(12)。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\| \\lambda L W _ { L } P ^ { t + 1 } \\right\\| ^ { 2 } + \\sum _ { i } W _ { H , i } ^ { 2 } \\left\\| P _ { i } ^ { t + 1 } - P _ { i } ^ { t } \\right\\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $W _ { H , i }$ 表示 $W _ { H }$ 矩阵第 $i$ 个对角元素。第一个式子提供收缩力，使用隐式曲率法线流算子沿顶点法向方向除去局部几何细节特征，第二个式子提供吸引力，在迭代收缩期间保留原始模型几何形状。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9c3f1fc9ff83f4a8ef8cf162819ab6addf599b02005deb56dd15d9d15514925.jpg",
+        "img_caption": [
+            "图3曲率法线流算子 ",
+            "图4点云收缩",
+            "Fig.4Point cloud contraction "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每次迭代中，基于局部收缩比（初始单环面积和当前单环面积比率）更新每个顶点的位置约束 $W _ { H , i }$ 。如图4所示，在迭代过程中，树木点云中薄细的分枝比粗密的分枝率先达到收敛条件。如图5所示，随着迭代的进行，点云体积下降速率加快，在迭代终止前，体积下降速率逐渐平缓。迭代曲率法线流算子可以使一环邻域内的三角形保持良好的形状，从而确保初始质量差的局部单环三角形正常收缩，避免收缩点云发生畸形。随着迭代进行，单环面积越来越小，吸引力权重越来越大，使得系统矩阵逐渐对角占优。对角占优矩阵为非奇异矩阵，所以顶点更新过程将越来越稳定。在这个过程中，避免了包括无穷大值和除零的数值误差。点云收缩是一个全局约束的平滑过程，每次迭代都会清除高频细节和噪声，同时保留关键的几何拓扑特征，使模型体积逐渐变小，当体积接近零时，迭代收敛。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f939be7a6d78e72b76e8267b927d33b1506ffb03f4703c93cc746738a4756641.jpg",
+        "img_caption": [
+            "Fig. 3 Curvature normal flow operator ",
+            "图5当前体积与原始体积的比例和迭代次数的关系",
+            "Fig.5Relationship between shrinkage volume ratio and iteration "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 粗骨架提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上一步把点云收缩为零体积状态，接下来将得到的收缩点云 $c$ 转换为1D曲线骨架，同时建立点云-骨架映射 $M$ 。首先，用半径为 $\\boldsymbol { r }$ 的球对收缩点云进行采样，采样点集为 $s$ 。如图6(b)所示，从 $c$ 中随机取一点 $C _ { i }$ 作为第一个采样点 $S _ { 1 }$ ，然后以 $S _ { 1 }$ 为球心和以 $\\boldsymbol { r }$ 为半径在 $c$ 上进行邻域查询，球内所有点标记为与采样点 $S _ { \\mathrm { 1 } }$ 相关（建立原始点云与采样点的映射关系M），在球内找到距离 $S _ { 1 }$ 最远的点 $C _ { j }$ 为下一个采样点 $S _ { 2 }$ 依此类推，直到所有的收缩点被标记。若 $C _ { n }$ 与 $S _ { i }$ 和 $S _ { j }$ 同时相关，选择距离 $C _ { n }$ 近的采样点标记。采样完成后，建立原始点云与采样点的映射关系 $M$ ，如图6(c)所示,如果 $C _ { n }$ 与 $S _ { i }$ 相关，$C _ { m }$ 与 $S _ { j }$ 相关,则 $C _ { n }$ 与 $C _ { m }$ 共享一个一环邻域，连接 $S _ { i }$ 和 $S _ { j }$ 。若存在孤立的采样点，则将它与其最近的采样点相连。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7169c0a80cf04fb9bea9634c017c87915ebac18bb4fb88dd8024077a7deaf3ca.jpg",
+        "img_caption": [
+            "Fig.6Ball sampling and sampling point connection "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 折叠边 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "得到粗骨架网格之后，需要迭代折叠不必要的边，直到骨架网格中没有三角形。为了使提取的1D曲线骨架与原始点云保持相同的拓扑结构，同时保留足够的骨架点来确保骨架点与输入点云之间的精确对应关系。设置一个包含形状项和抽样项的成本函数，每次迭代折叠最小成本的边。为了节约计算成本，采用半边折叠，折叠 $\\boldsymbol { e } _ { i j }$ 时将顶点 $p _ { i }$ 合并到顶点${ \\boldsymbol { p } } _ { j }$ ，并且删除包含边 $e _ { i j }$ 的所有三角形。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/daee319736c0a4bef3af5113b1fb7fc7b2552d6bdd40f26753a7436056e50668.jpg",
+        "img_caption": [
+            "图6球采样与采样点连接",
+            "Fig.7Half-edge folding "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了保留骨架网格的几何拓扑特征，在网格边上应用QEM网格简化方法作为形状成本函数，通过计算每个顶点的误差度量来估计边折叠引起的误差，误差度量为顶点到其相关联边之间的平方距离之和。点 $p$ 到其相关边 $\\boldsymbol { e } _ { i j }$ 所在直线的平方距离为 $p ^ { T } ( K _ { i j } ^ { T } K _ { i j } ) _ { } p$ ，其中 $K _ { i j } = [ a b c d ]$ ， $( a , b , c , d )$ 为 $e _ { i j }$ 所在直线方程 $ a x + b y + c z + d = 0$ 中的参数，并且 $( a ^ { 2 } + b ^ { 2 } + c ^ { 2 } ) = 1$ ， $K _ { i j } ^ { T } K _ { i j }$ 为二次基本误差矩阵：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { i j } ^ { T } K _ { i j } = { \\left[ \\begin{array} { l l l l } { a ^ { 2 } } & { a b } & { a c } & { a d } \\\\ { a b } & { b ^ { 2 } } & { b c } & { b d } \\\\ { a c } & { b c } & { c ^ { 2 } } & { c d } \\\\ { a d } & { b d } & { c d } & { d ^ { 2 } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$p _ { i }$ 的初始误差度量是 $p _ { i }$ 与其所有相邻边的平方距离之和：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( p _ { i } ) = p _ { i } ^ { T } \\sum _ { ( i , j ) \\in E } ( K _ { i j } ^ { T } K _ { i j } ) p _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以 $\\boldsymbol { e } _ { i j }$ 的误差折叠成本为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { a } ( e _ { i j } ) = F ( p _ { i } ) + F ( p _ { j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "把 $\\boldsymbol { e } _ { i j }$ 折叠到点 $p _ { i }$ ，然后更新 $p _ { i }$ 的误差度量：$F ( p _ { j } ) = F ( p _ { i } ) + F ( p _ { j } )$ ，使之前与 $p _ { i }$ 相连的边与 $p _ { i }$ 相连。需要注意的是，同时更新原始点云采样点映射 $M$ ，将之前与 $p _ { i }$ 相关的输入点云更新为与 ${ \\boldsymbol { p } } _ { j }$ 相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了避免骨架网格被过度简化，导致生成的曲线骨架边过长，失去原始点云与生成骨架的精确对应关系。设置一个成本函数来惩罚生成长边的边折叠操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { b } ( e _ { i j } ) = \\left\\| e _ { i j } \\right\\| \\sum _ { ( i , k ) \\in E } \\left\\| e _ { i k } \\right\\|\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图7所示，其中 $k$ 表示直接与 $p _ { i }$ 相连的点，上式表示将 $p _ { i }$ 合并到 ${ \\boldsymbol { p } } _ { j }$ 后，与 ${ \\boldsymbol { p } } _ { j }$ 直接相连的边的总边长变化程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( e _ { i j } ) = \\gamma _ { a } \\Gamma _ { \\alpha } ( e _ { i j } ) + \\gamma _ { b } \\Gamma _ { b } ( e _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\gamma _ { a } \\mathrm { ~ , ~ } \\gamma _ { b }$ 分别为折叠成本 $\\Gamma _ { \\alpha } ( e _ { i j } )$ 和边长成本 $\\Gamma _ { b } ( e _ { i j } )$ 的权重占比。原始网格中顶点的初始误差为0，当边收缩后，更新顶点误差，依次选取收缩后成本最小的边进行迭代收缩。总成本函数为形状成本和抽样成本的加权和，类似于点云收缩步骤中的收缩权重和位置权重，赋予形状成本函数更大的权重，由于形状成本是累加的，所以形状成本逐渐主导边折叠过程，保留骨架网格的拓扑结构。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4基于生长角度约束的骨架连通 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于扫描分辨率有限以及叶子和其他分支的自我遮挡，得到的树木点云会出现断层和不规则等问题，从而使提取的骨架不连通，针对该问题，使用双向探测方法连接主骨架和其他分支骨架。根据树木的生物特性，不应该存在角度变化过大的树枝，树干与分枝之间连接角度 $\\varphi$ 不应该超过 $4 5 ^ { \\circ }$ 。如图8所示，将含有最低点的骨架定义为主骨架，在主骨架上进行广度优先搜索，在每个骨架点 $p _ { i }$ 处，沿着从其父节点到该点方向投影角度 $\\varphi$ 的圆锥，在一定范围内时，当圆锥与子骨架相交于点 $P$ ，将子骨架点 $P$ 拟定为与 $p _ { i }$ 相连的候选点。在 $P$ 进行样条拟合计算该点切线方向 $T$ ，在 $P$ 处沿着 $T$ 投影一个相同的圆锥，若圆锥与 $p _ { i }$ 也相交，则通过连接 $P { p } _ { i }$ 来连通骨架。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/01c480fd057bb8d5a73405cab877d9fb96db021fea3834e0a89d8543ad5749cc.jpg",
+        "img_caption": [
+            "图7半边折叠",
+            "图8骨架图连通",
+            "Fig.8Skeleton connectivity "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 骨架居中",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在点云收缩的迭代过程中，由于点云密度不均匀，导致生成的曲线骨架偏离模型中心甚至突出模型表面，特别是相邻的部分在密度和粗细程度上存在很大差异的情况下，因为密度和厚度较大的区域需要较强的收缩力才能收缩到零体积状态(近似一条直线)，这会将其附近较细的区域的顶点拉向较厚区域的中心，从而使薄细区域的收缩点云突出原始模型表面。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对该问题，基于在骨架提取步骤中建立的原始点云骨架映射 $M$ ，将每个骨架点Skeletonk 移动到其对应的原始点云$\\boldsymbol { M } _ { k }$ 的中心，如图9所示。从而将每个骨架点重新定位到其局部点云区域的质心处。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS k e l e t o n _ { k } { = } ( S k e l e t o n _ { k } + \\sum _ { i \\in M ( k ) } p _ { i } ) / 2\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f25034904f11f4435ea15b1dec4cd64852375e79ed4d4d30c28b95f9d15a6eb9.jpg",
+        "img_caption": [
+            "图9骨架居中"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6本文算法流程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文算法包括构建点云一环邻域、点云收缩、骨架提取、骨架居中、骨架连通以及几何重建。创建一个数组向量 $T$ 存储点云一环邻域， $\\mathbf { \\Omega } _ { V ^ { t } }$ 为当前点云体积，初始化收缩权重矩阵$W _ { L } ^ { 0 }$ 和吸引矩阵 $W _ { H } ^ { 0 }$ ，收缩点云 $C ^ { t }$ ，曲率流算子矩阵 $L ^ { t }$ ，iter_time为迭代上限， $S ^ { t }$ 为 $p _ { i }$ 一环邻域面积， $t$ 为当前迭代次数,数组Skeleton存储骨架点， $M$ 保存骨架点与原始点云的映射关系， $T r i$ 存储网格三角形。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "aJ啊廷点△邻域，异Pi的邻\"p；\"p近竹PCA 分析和Delaunay三角剖分；将 $p _ { i }$ 一环邻域存入 $T$ ·",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)由式(11)计算 $L ^ { t + 1 }$ ；由式(12)计算 $C ^ { t + 1 }$ ；更新收缩权重：  \n$W _ { L } ^ { t + 1 } = s _ { L } W _ { L } ^ { t }$ ，更新吸引权重： $W _ { H , i } ^ { t + 1 } = W _ { H , i } ^ { t } S _ { i } ^ { 0 } / S _ { i } ^ { n }$ ;c)如果iter_time<5或Vi-Vi $\\frac { V ^ { t + 1 } - V ^ { t } } { V ^ { 0 } } > 0 . 0 1$ ，重复步骤b)，直至迭  \n代收敛；d)在 $c$ 上进行最远点球采样，将采样点存入Skeleton中，  \n根据邻域相关性连接采样点；e)由式(18)更新边权重,折叠最小权重边,f)重复步骤e)，直至骨架网格中不存在三角形；g)根据(19)式将骨架进行居中处理;h)基于本文提出的生长角度约束连通骨架;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 实验与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文的基于骨架提取的树木点云重建算法在CPUi72.2GHz、内存16GB以及显卡IntelIrisPro1536MB的Mac 操作系统平台下实现。骨架提取工作在Matlab2017b平台上完成，树木重建工作使用Xcode以及OpenGL库完成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "相对于文献[18]的余切算子，图10清晰地说明了曲率法线流算子的优势，在点云收缩方面，余切算子在细枝弯曲角度较大时，收缩点云突出原始模型，并且忽略一些短小细枝，与实际情况存在较大差异。在提取的骨架方面，细枝之间距离紧密处，提取的骨架出现环形结构现象，另外，在分枝交叉点处，存在骨架交叉问题。本文算子沿着点云曲率法线方向向点云内部收缩，即使在树冠细枝处也很好遵循该原则，不但良好的保留树木的细枝特征和几何形状，而且避免了奇异结构，充分表达树木的植物特性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "打破收缩力和吸引力之间的平衡是点云收缩的关键，使其在总体上提供一种驱动顶点向内部收缩的力。经实验证明，收缩尺度 $s _ { L }$ 直接影响点云收缩的效果。如图11所示，若 $s _ { L }$ 太小，点云模型收缩不到零体积状态，而且需要多次迭代和花费更多的时间来达到终止条件；若 $s _ { L }$ 太大，点云密度大的部分将吸引其附近密度小的部分的向其移动，粗密分枝和薄细分枝交叉处的收缩点云偏离模型中心，经过多次实验验证，在提取树木点云骨架时， $s _ { L }$ 在[3,5]得到的收缩点云能充分表达模型的几何拓扑。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c040f122853b41d65982cdf3766194354b761cad0e9437b4b1929d8c77a0179.jpg",
+        "img_caption": [
+            "图10算子比较图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee95b070f2bce1570c7300818db6d29a34314809b05a72ecb1ed6ed41b4e9293.jpg",
+        "img_caption": [
+            "Fig.9Skeleton centered ",
+            "图11不同大小收缩尺度的点云收缩效果",
+            "Fig.11Point cloud shrinkage of different contraction scale "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文算法的重点是树木点云骨架提取，大多数种类的树木的形状都是细长的，本文算法在4次迭代内达到收敛。在实验的过程中，发现在对收缩点云进行球采样的步骤中，球采样的半径的大小直接影响提取的骨架的效果。如图12(a)\\~(c)所示，随着采样半径的逐渐增加，提取的骨架特征细节被忽略，比如，树稍分叉处没有被提取骨架，细长分枝变直，失去树木原有的生物特性。但是采样时间和采样点连接时间也相应减少，另外当树枝之间距离小于采样半径时，产生环形结构。本文采用自适应采样机制，根据点云的密度和分枝点的数量自动设置采样半径，实现时间和效果的统一。用户也可以根据自己的需求设置采样半径。实验证明，采样半径 $r = 0 . 0 1$ 时，树冠处细枝骨架清晰，延伸方向合理，保留了更多特征细节，具有良好的视觉效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/beb4f0ec987cb73b19b90210471642d2410606db162f685f323a6c047682773b.jpg",
+        "img_caption": [
+            "Fig.10Operator comparison ",
+            "图12不同球采样半径的骨架对比",
+            "Fig.l2The skeletons of different ball sampling radii "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提取的骨架充分保留了树木点云的几何形状，且骨架连通，无环状结构和多余骨架分枝。树枝末段骨架清晰，树枝延伸方向符合树木生长特性，为树的虚拟修剪等研究提供了数据支持。本文算法不仅适应于树木点云，对大多数非平面点云也有相当显著的效果。本文的算法对于噪声点云有很好的鲁棒性，在点云收缩步骤中，基于隐式积分方案对点云表面进行平滑，用最小二乘系统求解(14)式得到收缩点云，噪声和细微的特征被均匀平滑，使本文算法对噪声不敏感，因此，不需要任何前置滤波器对输入点云进行预处理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图13与14 显示了本文算法与rosa 算法[20]以及L1中轴[21]算法的比较结果。该实验中，本文取 $\\scriptstyle \\mathbf { r } = 0 . 0 1$ 。rosa 算法在拓扑结构复杂的树木点云方面上花费的时间是本文算法的几十倍，并且提取的骨架出现不连通分枝；树干分叉处的骨架出现畸形现象，在末枝处产生大量奇异骨架点，枝条骨架不平滑；出现枝条延伸方向不合理与相交连通现象，在骨架末尾处出现分叉现象，产生多余骨架断枝，另外，rosa 算法输入点云都需要经过去除噪声和异常值等预处理，并且要求法线估计，花费额外时间成本。L1中轴算法在原始点云的下采样点上进行，采样点的好坏直接影响骨架的效果。对于枝条繁多及密度不均匀的树木点云，L1中轴算法采样不均匀，丢失大量主要枝条的特征信息，骨架不连续情况严重，产生了大量的环形骨架，枝条在树冠处生长方向凌乱无序，与现实树木几何形状出入较大，在一般模型和噪声模型方面，L1提取的骨架大多数不连通，并且在环形模型提取的骨架容易突出模型表面。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "相比之下，本文算法不需要任何预处理和法线信息，直接在原始点云上进行操作，节省计算成本，微调收缩尺度和采样半径就可以避免产生拓扑错误的骨架分枝和环形骨架。在不完整点云处理上，点云密度高度不均匀，提取的骨架偏向于点云密度较大的部分，偏离模型中心，本文算法在后期工作中对骨架进行居中操作。在噪声点云处理上，本文采取隐式积分对点云表面进行平滑，没有奇异骨架点产生，本文算法对噪声点云有良好的鲁棒性，提取的骨架结构完整，连续、无交叉现象、无环形结构、生长方向合理、冠层处骨架清晰，真实再现输入模型的几何形态和生物特征。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcddde943b8520061172c17a07341801e13826ed2c3262915317570ff8555e90.jpg",
+        "img_caption": [
+            "图13不同算法树木点云骨架提取结果对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1f911ac94759cc74dac7eb4e1334a6d77c7095f4333895a60cf6e80d9d9b08d.jpg",
+        "img_caption": [
+            "Fig.13Comparison of different algorithm tree point cloud skeleton extraction results ",
+            "图14不同算法在不同类型点云骨架提取结果对比",
+            "Fig.14Comparison of different algorithms for extracting results from diffrent types of point cloud skeletons "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1显示了本文算法不同数目的点云在各个阶段所用时间，从表中可以看出，在点云数量合理的情况下，本文算法重建效率满足一般用户需求。在构造一环邻域阶段和点云收缩阶段耗费大量时间，并且随着点云数量的增加，点云收缩阶段所用时间增长幅度较大，所以本文建议对时间有要求的用户，可以对输入点云进行下采样等预处理。表2显示了本文算法与L1-中轴算法、rosa算法的速率与效果，本文算法不仅在骨架提取速度方面分别是L1-中轴、rosa的3倍和17倍，并且在骨架与原始树木点云重合度以及树木枝条重建率方面提高了 $2 5 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/347acbe4092b144443358bbd6a03beaf465898eb50bf59a65773f551274bad0e.jpg",
+        "table_caption": [
+            "Table 1Time at each stage "
+        ],
+        "table_footnote": [
+            "表2不同算法骨架提取的效率"
+        ],
+        "table_body": "<html><body><table><tr><td>点数</td><td>一环邻域</td><td>点云收缩</td><td>边折叠</td><td>总时间</td></tr><tr><td>1598</td><td>1.483s</td><td>0.781s</td><td>0.053s</td><td>2.317s</td></tr><tr><td>4770</td><td>5.057s</td><td>3.721s</td><td>0.146s</td><td>8.924s</td></tr><tr><td>12108</td><td>12.676s</td><td>24.888s</td><td>0.322s</td><td>37.886s</td></tr><tr><td>34648</td><td>36.718s</td><td>71.907s</td><td>1.108s</td><td>109.733s</td></tr><tr><td>110423</td><td>114.349s</td><td>1200.146s</td><td>26.23s</td><td>1340.725s</td></tr><tr><td>1598</td><td>1.483s</td><td>0.781s</td><td>0.053s</td><td>2.317s</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/847883bcab156cb465c538ba502f6290cf2a49e811555ba14695fb4b77e8390a.jpg",
+        "table_caption": [
+            "表1各个阶段所用时间",
+            "Table 2Efficiency of skeleton from different algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>L1-Medial</td><td>rosa</td><td>本文算法</td></tr><tr><td>提取速度</td><td>0.211k/s</td><td>0.034k/s</td><td>0.579k/s</td></tr><tr><td>重合度</td><td>0.536</td><td>0.731</td><td>0.942</td></tr><tr><td>枝条重建度</td><td>0.473</td><td>0.713</td><td>0.946</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种基于曲率法线流算子的提取树点云骨架的算法，本文算法利用点云自身信息，直接在点云上操作，不需要进行额外预处理和法向量计算，对于噪声点云和残缺点云有良好的鲁棒性。与之前算法相比，本文算法在时间方面提高3倍以上，枝条重建度提高了 $2 5 \\%$ ，充分的保留了树枝细节特征，生动形象的还原了真实树木形态，不仅适用于各种类型和大小的树，也适用于其他物种的一些简单模型。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在未来，本文算法需要加快提取骨架的速度，尝试提取带有树叶的树木点云的骨架。另外，希望将点云-骨架映射应用到蒙皮动画方面，实现模拟树木在大自然各种环境下的运动和生长。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]马福峰，耿楠，张志毅．基于邻域几何特征约束的植株三维形态配 准方法研究[J].计算机应用与软件，2016，33(9):184-189.(Ma Fufeng,Geng Nan,Zhang Zhiyi.On 3D plant morphology registration method based on geometrical feature constraint of neighbourhood [J]. Computer Applications and Software,2016,33(9):184-189.)   \n[2]杨垠晖，王锐．树木的真实感建模与绘制综述[J].计算机辅助设计 与图形学学报，2018，30(2):191-216.(Yang Yinhui，Wang Rui. Realistic modeling and rendering of trees:a survey [J].Journal of Computer-Aided Design & Computer Graphics,2018,30(2):191-216.)   \n[3]Hu Shaojun, Zhang Zhiyi,Xie Haoran,et al. Data-driven modeling and animation of outdoor trees through interactive approach [J].Visual Computer,2017,33(6-8):1017-1027.   \n[4]Hädrich T,Benes B,Deussen O,et al. Interactive modeling and authoring of climbing plants [J].Computer Graphics Forum,2017, 36(2):49-61.   \n[5] Wang Yutong, Xue Xiaowei, Jin Xiaogang,et al. Creative virtual tree modeling through hierarchical topology-preserving blending [J]. IEEE TransonVisualizationand ComputerGraphics,2017,23(12): 2521-2534.   \n[6] 师翊，何鹏，胡少军，等．基于角度约束空间殖民算法的树点云几何 结构重建方法 [J]．农业机械学报,2018,49(2):207-216.(Shi Yi,He Peng,Hu ShaoJun,et al. Reconstruction method of tree geometric structures from point clouds based on angle-constrained space colonization algorithm [J].Transactions of the Chinese Society for Agricultural Machinery,2018,49(2): 207-216. )   \n[7] Argudo O, Chica A,Andujar C. Single-picture reconstruction and rendering of trees for plausible vegetation synthesis[J]. Computers & Graphics,2016,57 (6): 55-67.   \n[8] Xie Ke,Yan Feilong, Sharf Andrei,et al. Tree modeling with real tree-parts examples.[J]. Trans on Visualization and Computer Graphics, 2016,22 (12):2608-2618.   \n[9] 胡少军，耿楠，张志毅，等．基于稀疏图像的真实树交互式建模方法 [J]．农业工程报，2014，30(9):168-175.(Hu Shaojun,Geng Nan, Zhang Zhiyi,et.al. Interactive modeling method of outdoor trees based onsparse images [J]. Transactions of the Chinese Society of Agricultural Engineering,2014,30(9): 168-175.)   \n[10] Tagliasacchi A,Alhashim I,Olson M,et al.Mean Curvature Skeletons [J]. Computer Graphics Forum,2012,31(5): 1735-1744.   \n[11] Au O K C,Tai C L,Chu H K,et al. Skeleton extraction by mesh contraction [J].ACM Trans on Graphics,2008,27(3): 1-10.   \n[12] Cao Junjie,Tagliasacchi A,Olson M,et al.Point cloud skeletons via Laplacian based contraction.[C]//Proc of Shape Modeling International Conference.Piscataway, NJ: IEEE Press,2010:187-197.   \n[13] Hu Shaojun,Li Zhengrong, Zhang Zhiyi,et al. Efficient tree modeling from airborne LiDAR Point Clouds [J].Computers & Graphics,2017, 67 (C): 1-13.   \n[14] Xu Hui,Gosset N,Chen Baoquan.Knowledge and heuristic-based modeling of laser-scanned trees [J].ACM Trans on Graphics,2007, 26(4): articleNo 19.   \n[15] Livny Y, Yan Feilong, Chen Baoquan.Automatic reconstruction of tree skeletal structures from point clouds [J].ACM Trans on Graphics,2010, 29(6): articleNo 151.   \n[16] Vollmer J, Mencl R, H. Muler. Improved Laplacian smoothing of noisy surface meshes [J].Computer Graphics Forum,1999,18(3): 131-138.   \n[17] Nealen A, Igarashi T,Sorkine O,et al. Laplacian mesh optimization [C]/Proc of International Conference on Computer Graphics& Interactive Techniques in Australasia & Southeast Asia.New York: ACM Press,2006: 381-389.   \n[18] Kobbelt L,Campagna S,Vorsatz J,et al. Interactive multi-resolution modeling on arbitrary meshes [C]/Proc of the 25th Annual Conference on Computer Graphics and Interactive Techniques.New York: ACM Press,1998:105-114.   \n[19] Pinkall U, Polthier K. Computing discrete minimal surfaces and their conjugates [J].Experimental Mathematics,1993,2(1):15-36.   \n[20] Tagliasacchi Andrea,Zhang Hao,CohenOr Daniel.Curve skeleton extraction from incomplete point cloud [J].ACM Trans on Graphics, 2009,28(3): 1-9.   \n[21] Huang Hui,Wu Shihao,CohenOr Daniel,et al.Ll-medial skeleton of point cloud [J].ACM Trans\\on Graphics,2013,32(4):articleNo. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

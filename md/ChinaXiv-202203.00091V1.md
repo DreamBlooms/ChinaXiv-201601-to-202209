@@ -1,0 +1,239 @@
+# 黄土高原生物结皮形成过程中土壤胞外酶活性及其化学计量变化特征
+
+姚宏佳¹，王宝荣²，安韶山}²，杨娥女¹，黄懿梅4(1.西北农林科技大学水土保持研究所,黄土高原土壤侵蚀与旱地农业国家重点实验室,陕西 杨凌712100;  
+2.中国科学院水利部水土保持研究所,黄土高原土壤侵蚀与旱地农业国家重点实验室,陕西 杨凌712100;  
+3.中国科学院大学,北京100049；4.西北农林科技大学资源与环境学院,农业部西北植物营养与农业环境重点实验室，陕西 杨凌712100)
+
+摘要：生物土壤结皮在增强土壤抵抗水蚀风蚀能力、改善土壤养分等方面发挥着重要作用,土壤胞外酶活性可作为土壤生化反应强度的微生物指标，对理解荒漠生态系统微生物参与的养分循环过程具有重要意义。选取黄土高原神木县六道沟小流域5个生物结皮发育阶段(裸沙地、全藻结皮、藻-藓混生结皮、藓-藻混生结皮、全藓结皮)的土壤作为研究对象,研究生物结皮发育过程中土壤胞外酶活性(β-1,4-葡萄糖苷酶、β-1,4-N-乙酰基氨基葡萄糖苷酶、亮氨酸氨基多肽酶和碱性磷酸酶)及其化学计量的变化特征。结果表明：(1)土壤4种胞外酶活性均随生物结皮发育序列变化显著增加，全藓结皮土壤显著大于全藻结皮土壤( $\scriptstyle P < 0 . 0 5$ )。(2)生物土壤结皮层胞外酶活性显著高于下层土壤,且胞外酶活性随着土层深度的加深不断降低。（3）相关性分析表明,土壤C、N、P、土壤C:P、土壤N:P均与土壤胞外酶活性呈极显著正相关关系（ $\scriptstyle ( P < 0 . 0 5$ )。（4)有结皮覆盖土壤的养分含量及土壤胞外酶活性显著高于裸沙地,全藓结皮土壤的养分含量及土壤胞外酶活性显著高于全藻结皮土壤。（5）标准化主轴估计表明，土壤胞外酶活性随着生物结皮的发育均有明显增强并呈现稳态特征,N-获取酶和P-获取酶相对于C-获取酶之间的斜率呈现等容关系,这一结果表明土壤微生物通过稳态调控胞外酶化学计量特征，在干旱半干旱生态系统养分循环过程中具有重要作用。
+
+关键词：生物土壤结皮；发育序列；胞外酶；化学计量；黄土高原
+
+生物土壤结皮（Biological Soil Crusts,BSCs）是细菌、真菌、藻类、地衣、苔藓与土壤颗粒形成的有机复合体[],其覆盖全球 $1 . 7 9 \times 1 0 ^ { 7 } ~ \mathrm { k m } ^ { 2 }$ 的面积,占全球地表面积的 $1 2 . 2 \% ^ { [ 2 ] }$ 。BSCs可以增强土壤团聚性和稳定性，改善土壤通气和孔隙度，促进维管植物定植以及提高微生物群落的相对丰度，在荒漠生态系统中扮演了重要的生态作用[3]。BSCs通过表层的微生物光合固碳过程改善土壤质量，在全球土壤碳循环过程中起重要作用[4]。随着BSCs的发育，土壤底物的复杂程度增加，增加了酶促底物供给，促进了土壤酶活性。近年来，BSCs与土壤酶活性的密切关系引起了广泛关注。BSCs的形成导致植物源大分子物质增加，土壤微生物释放出胞外酶来降解难分解的植物大分子，降解后的小分子被微生物再次利用，并参与土壤C、N、P循环[5]。
+
+土壤胞外酶主要来源于土壤中动植物、微生物活动及其残体的分解释放，可以将高分子有机化合物降解为可同化的分子，在调控土壤有机质(SoilOrganicMatter,SOM)降解和养分循环过程中发挥着重要作用[。而土壤酶化学计量是指生态系统中参与营养元素C、N、P循环的土壤酶活性的比值，包括"C-获取酶"(如半纤维素酶、纤维素酶和葡萄糖苷酶）、“N-获取酶"(如脲酶、几丁质酶和肽酶)和"P-获取酶"（如磷酸酶)7],其中最常见的参与C、N、P循环相关胞外酶包括β-1,4-葡萄糖苷酶、β-1,4-N-乙酰基氨基葡萄糖苷酶、亮氨酸氨基多肽酶和磷酸酶。土壤酶生态化学计量反映了微生物的生长代谢和营养需求与环境养分有效性之间的生物地球化学平衡[8-9],其为理解土壤中养分限制、循环和平衡的过程提供了理论参考[10]。吴秀芝等[1]研究得出荒漠草地沙漠化过程中，土壤胞外酶的活性逐渐变弱，BG:AP和NAG:AP基本表现为增加趋势。目前对土壤胞外酶活性的研究主要集中在森林和草地[12-13],而BSCs的形成对土壤胞外酶活性及其化学计量的影响知之甚少。在BSCs发育过程中，土壤性状与微生物群落存在耦合作用和协同变化，由于BSCs处于地气界面，微生物更容易受到扰动，因此研究胞外酶活性更需要注意土壤微生物的内稳性的探索[14]
+
+近年来，BSCs成为黄土高原退耕后普遍存在的地表覆被物[15],包括藻类、地衣、藓类以及混生为主的各种不同类型[16]。BSCs广泛分布于干旱半干旱地区的草原、森林/草原和森林,在草原的覆盖度比例可达 $6 0 \% { \sim } 7 0 \% ^ { [ 1 7 ] }$ ,在提高土壤稳定性、增强土壤抗侵蚀能力、改善土壤养分等方面发挥着重要作用[3.18-19]。目前关于BSCs 的类型和演替对土壤养分的影响已有大量报道，但关于黄土高原BSCs发育如何通过调控土壤胞外酶活性和土壤理化性质，从而对土壤酶化学计量特征产生影响仍需要深入研究。因此，本研究通过调查黄土高原BSCs不同发育序列的土壤胞外酶活性的变化，研究BSCs的形成过程对土壤胞外酶其化学计量特征的影响，探明BSCs在沙区资源生态关系中的效用，深人理解荒漠生态系统养分循环过程。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区六道沟小流域地处黄土高原北部，位于陕西省神木县以西 $1 4 ~ \mathrm { k m }$ 处 $( 1 1 0 ^ { \circ } 2 1 ^ { \prime } { \sim } 1 1 0 ^ { \circ } 2 3 ^ { \prime } \mathrm { E }$ ，$3 8 ^ { \circ } 4 6 ^ { \prime } { \sim } 3 8 ^ { \circ } 5 1 ^ { \prime } \mathrm { N } )$ [16]（图1)。该小流域面积约为6.89$ { \mathrm { k m } } ^ { 2 }$ ,气候属中温带半干旱类型，冬季和春季干旱多风,海拔为 $1 0 9 4 . 0 { \sim } 1 2 7 3 . 9 \ \mathrm { m }$ ,年均温度为 $8 . 4 ~ \mathrm { { ^ { \circ } C } }$ 。年降雨量为 $4 0 8 . 5 ~ \mathrm { m m } ^ { [ 1 5 ] }$ ,多年平均降雨量为437.4$\mathbf { m } \mathbf { m }$ ,年际变化较大，暴雨集中在夏秋季6—9月，此期间降雨量在全年降雨量占比 $70 \% { \sim } 8 0 \%$ ，年潜在蒸发量大于 $1 0 0 0 \mathrm { m m } ^ { [ 2 0 ] }$ 。该区域在实行多年退耕还林还草工程后，生物土壤结皮广泛分布。六道沟小流域的生物土壤结皮主要包括藻结皮、混生结皮和藓结皮，结皮盖度大多介于 $6 0 \% \sim 7 0 \%$ 。这些生物土壤结皮主要分布于梁峁坡或梁峁顶上，占流域面积的$6 0 . 7 \% ^ { [ 1 7 ] }$
+
+# 1.2土壤样品采集
+
+在神木县六道沟小流域选取不同发育阶段的生物土壤结皮，主要为裸沙地(CK)，全藻结皮(以蓝藻为优势群落，A)，藻-藓混生结皮(藓结皮数量<
+
+![](images/05ed41de75723af6927d582ce5f1cc54e8371d64a28f97d85db379c4ff1a5ad7.jpg)  
+图1采样点地理位置示意图  
+Fig.1 Location of sampling sites
+
+$20 \%$ ，AM)，藓-藻混生结皮（藻结皮数量 ${ < } 2 0 \%$ ，MA)，全藓结皮(以土生对齿藓为优势种，M)5个阶段的土壤作为研究对象(表1)。在每个结皮发育阶段选择了5个具有代表性的样地(坡向、坡位一致且坡度相差不大，每个样地的大小为 $4 0 ~ \mathrm { m } { \times } 4 0 ~ \mathrm { m }$ ,且任何2个样地之间的距离超过 $1 0 0 \mathrm { m }$ ),在每个样地中，采用“S"形随机采样策略，选择12\~15个小的采样点。将每个样地的12\~15个采样点的土壤样品混合消除误差，获得大约 $2 \mathrm { k g }$ 的代表性样品。样品采集于2018年8月，共采集了95个代表性样品（5个结皮发育阶段 $\cdot \times 5$ 个野外重复 $\times 4$ 个土层）,包括生物土壤结皮层(BSCs层)和结皮层下的 $0 { \sim } 2 \ \mathrm { c m } , 2 { \sim } 1 0 \ \mathrm { c m }$ 和$1 0 { \sim } 2 0 \ \mathrm { c m } \ 4$ 个层次的土壤样品。BSCs层指的是生物土壤结皮层，它由隐花植物和相关的土壤微生物的复合体组成，与表面土壤颗粒胶着。测量的全藻结皮、藻-藓混生结皮、藓-藻混生结皮、全藓结皮的生物结皮层厚度，分别约为 $7 . 2 { \pm } 2 . 2 \ \mathrm { m m } , 9 . 6 { \pm } 1 . 9$ $\mathrm { m m } , 1 1 . 1 { \pm } 1 . 9 \ \mathrm { m m }$ 和 $1 0 . 9 { \pm } 1 . 8 ~ \mathrm { m m }$ 。在仔细彻底地清除土壤中的苔藓组织和残留物后，将收集的样品放入装有冰袋的泡沫箱，并在 $2 4 \mathrm { h }$ 内移至 $4 ^ { \circ } \mathrm { C }$ 的冰箱中。土壤样品被分成两部分：一部分在一周内立即分析胞外酶活性，另一部分风干后过 $0 . 1 5 ~ \mathrm { m m }$ 筛用于土壤理化性质分析。
+
+表1样地基本信息  
+Tab.1 General information of the investigated sites   
+
+<html><body><table><tr><td>发育阶段</td><td>纬度</td><td>经度</td><td>海拔/m</td></tr><tr><td>裸沙地CK</td><td>38°47'3.98"</td><td>110°21'44.57"</td><td>1207</td></tr><tr><td>全藻结皮A</td><td>38°47'7.45"</td><td>110°21'32.99"</td><td>1224</td></tr><tr><td>藻-藓混生结皮AM</td><td>38°46'57.49"</td><td>110°21'29.58"</td><td>1215</td></tr><tr><td>藓-藻混生结皮MA</td><td>38°46'51.58"</td><td>11021'25.82"</td><td>1210</td></tr><tr><td>全藓结皮M</td><td>38°45'57.64"</td><td>110°21'6.86"</td><td>1242</td></tr></table></body></html>
+
+# 1.3土壤样品测定
+
+土壤有机碳(SOC)含量采用重铬酸钾-外加热 容量法测定；土壤全氮 $\mathrm { ( T N ) H _ { 2 } S O _ { 4 } - }$ -混合加速剂催化 消煮，凯氏定氮仪KDY-9380测定；土壤全磷(TP)采 用 $\mathrm { H _ { 2 } S O _ { 4 } \mathrm { - H C l O _ { 4 } } }$ 消化-钼蓝比色法测定[21]
+
+土壤胞外酶活性使用多功能酶标仪（瑞士TecanInfiniteM200PRO型)通过96微孔板荧光法测定[12]。测定原理是利用荧光物质(4-甲基伞形酮，MUB;7-氨基-4-甲基香豆素,7-amino-4-methyl-coumarin)的共扼物质作为测定底物(表2)，接种土壤悬浊液至96孔微孔板中,测定具有代表性酶活性[7],
+
+# 表2土壤胞外酶和对应的底物
+
+Tab.2Soil extracellular enzymes and corresponding substrates   
+
+<html><body><table><tr><td>土壤胞外酶</td><td>缩写</td><td>对应底物</td></tr><tr><td>β-1,4-葡萄糖苷酶</td><td>BG</td><td>4-MUB-β-D-glucoside</td></tr><tr><td>β-1,4-乙酰基氨基葡萄 糖苷酶</td><td>NAG</td><td>4-MUB-N-acetyl-β-D-glu- cosaminide</td></tr><tr><td>亮氨酸氨基多肽酶</td><td>LAP</td><td>L-leucine-7-amido-4-meth- ylcoumarin hydrochloride</td></tr><tr><td>碱性磷酸酶</td><td>AP</td><td>4-MUB-phosphate</td></tr></table></body></html>
+
+包括1种参与碳循环的酶( $( \beta - 1 , 4 -$ 葡萄糖苷酶，BG）、2种参与氮循环的酶（亮氨酸氨基多肽酶，LAP ; $\beta { - } 1 { , } 4 { - }$ 乙酰基氨基葡萄糖苷酶，NAG)和1种参与磷循环的酶(碱性磷酸酶，AP)。以每小时每克土壤样品所得底物的摩尔数 $\left( \mathrm { n m o l } \cdot \mathbf { g } ^ { - 1 } \cdot \mathbf { h } ^ { - 1 } \right)$ 表示土壤胞外酶活性的大小[11]。
+
+土壤酶活性计算公式如下：
+
+$$
+A _ { \scriptscriptstyle b } = F V / ( e V _ { \scriptscriptstyle 1 } t m )
+$$
+
+$$
+\scriptstyle { F = ( f - f _ { b } ) / q - f _ { s } }
+$$
+
+$$
+e = f _ { r } / ( C _ { s } V _ { 2 } )
+$$
+
+$$
+q = ( f _ { q } - f _ { b } ) / f _ { r }
+$$
+
+式中： $\mathbf { \nabla } _ { A _ { b } }$ 为每小时每克土壤样品的胞外酶活性$\left( { \mathrm { n m o l } } \cdot { \mathrm { g } } ^ { - 1 } \cdot { \mathrm { h } } ^ { - 1 } \right) ;$ $F$ 为校正后的样品荧光值； $V$ 为土壤悬浊液的总体积; $V _ { 1 }$ 为微孔板每孔中加入的土壤悬浊液的体积; $\mathbf { \Phi } _ { t }$ 为暗培养时间; $m$ 为干土样的质量； $f$ 为多功能酶标仪读取土壤样品微孔的荧光值； $f _ { b }$ 为空白微孔的荧光值； $q$ 为淬火系数； $f _ { s }$ 为阴性对照微孔的荧光值； $e$ 为荧光释放系数； $f _ { r }$ 为参考标准微孔的荧光值； $C _ { s }$ 为参考标准微孔的浓度； $V _ { 2 }$ 为加人参考标准物的体积； $f _ { q }$ 为淬火标准微孔的荧光值。
+
+# 1.4数据处理
+
+采用MicrosoftExcel2010来整理和计算试验数据，土壤化学计量和土壤酶化学计量采用质量比的方式分层次计算。在分析土壤C、N、P含量及其获取酶之间的线性关系之前对数据进行 $\ln$ 转化，使用SPSS25.0进行统计分析，通过 $\mathrm { 0 r i g i n } 2 0 1 8$ 和R3.5.1进行作图。对土壤C、N、P含量及其化学计量和土壤胞外酶活性及其化学计量采用单因素方差分析(One-wayANOVA)进行显著性检验( $_ { ( \alpha = 0 . 0 5 ) }$ ，通过一般线性模型(GLM)研究生物土壤结皮形成、土层深度及其交互作用的影响。利用R3.5.1软件分析土壤C、N、P含量及其化学计量和土壤胞外酶活性及其化学计量之间的关系，并实现土壤C、N、P含量及其化学计量和土壤胞外酶活性对土壤酶化学计量的冗余(RDA)分析。利用SMATR2.0软件中的标准化主轴(SMA)估计，探明了参与C、N、P循环的胞外酶活性之间的比例关系变化。C-获取酶、N-获取酶、P-获取酶活性三者之间的化学计量关系采用对数-对数尺度进行分析,模型为 $\log { y } = a + b \left( \log { x } \right)$ 。其中 $x$ 和 $y$ 为参与 $\mathrm { ~ C ~ } , \mathrm { { N } , \mathrm { { P } } }$ 循环的胞外酶活性， $b$ 为斜率， $a$ 为截距。当该模型的斜率 $( b )$ 与1无显著差异时（ $\stackrel { \cdot } { P } < 0 . 0 1 \stackrel { . } { _ . }$ )，将其关系描述为等容关系[22]
+
+# 2结果与分析
+
+# 2.1不同发育阶段土壤C、N、P含量变化特征
+
+在BSCs的不同发育阶段中，土壤有机碳(SOC）、全氮(TN）、全磷(TP)的含量均随着土层的加深而逐渐递减（表） $3 , P { < } 0 . 0 5 )$ 。不同发育阶段之间的SOC、TN、TP含量存在差异( $( P { < } 0 . 0 5 )$ ),SOC含量依次为：藓-藻混生结皮( $\mathrm { \Delta M A } ) >$ 全藓结皮 $( \mathbf { M } ) { > }$ 藻-藓混生结皮（AM) $>$ 全藻结皮(A）。 $\mathrm { A , A M , M A , M }$ 这4个发育序列中 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层的SOC、TN、TP含量均与裸沙地之间差异显著 $( P { < } 0 . 0 5 )$ 0
+
+# 2.2不同发育阶段土壤胞外酶活性变化特征及其与土壤C、N、P之间的关系
+
+A、AM、MA、M这4个发育阶段的β-1,4-葡萄糖苷酶（BG） $\beta - 1 , 4 - \mathrm { N } -$ 乙酰基氨基葡萄糖苷酶（NAG）、亮氨酸氨基多肽酶(LAP)和碱性磷酸酶(AP)活性均在生物土壤结皮层表现为最高(表4，$\scriptstyle P < 0 . 0 5$ )。生物土壤结皮层的BG、NAG和AP活性在不同发育阶段之间存在显著差异( $( P { < } 0 . 0 5 )$ ，NAG活性依次为： $\mathrm { M A } > \mathrm { M } > \mathrm { A M } > \mathrm { A M } > \mathrm { A }$ 。A、AM、MA、M这4个发育阶段的LAP活性对比CK均显著增加( $\scriptstyle P <$ 0.05），AP活性在藓-藻混生结皮阶段和全藓结皮阶段与裸沙地有显著差异 $_ { ( P < 0 . 0 5 ) }$ ,在藻-藓混生结皮阶段和全藻结皮阶段差异不显著，BG和NAG活性在 $2 { \sim } 2 0 ~ \mathrm { c m }$ 土层随着BSCs发育变化不显著。
+
+线性回归分析表明，参与碳、氮、磷循环相关胞外酶活性分别与土壤 $\mathrm { C } , \mathrm { N } , \mathrm { P }$ 含量呈极显著的正相关关系（ $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ , ~ } }$ (图2)。土壤胞外酶活性与土壤$\mathrm { ~ C ~ } , \mathrm { { N } , \mathrm { { P } } }$ 含量的标准化主轴分析结果表明，在藻-藓混生结皮阶段AP与( $\mathrm { N A G + L A P } \setminus$ 活性之间的斜率大于1,且呈现显著水平( $_ { ( P < 0 . 0 0 1 }$ ),在其他生物土壤结皮发育阶段的斜率均与1无显著差异，具有良好的约束关系(表5)。同时，土壤有机碳、全磷含量与BG、AP活性之间的斜率均显著大于 $1 ( P { < } 0 . 0 0 1 )$ 。
+
+# 2.3不同发育阶段土壤化学计量与酶化学计量变化特征
+
+生物土壤结皮层C:P、N:P随发育序列变化逐渐增加，均表现为： $_ \mathrm { A < A M < M A < M }$ （图3）。4个不同发育序列之间土壤C：N变化不显著，与CK均具有显著差异( $( P { < } 0 . 0 5 )$ 。相较裸沙地 $0 { \sim } 2 ~ \mathrm { c m }$ 土层，生物土壤结皮各发育阶段 $0 { \sim } 2 \ \mathrm { c m }$ 土壤C：N显著降低，分别降低了 $3 7 . 9 \% . 4 3 . 5 \% . 4 8 . 0 \%$ 和 $4 4 . 3 \%$ 。
+
+4个不同发育序列的土壤酶C：N相比裸沙地均具有显著差异( $_ { \scriptstyle P < 0 . 0 5 } )$ (表6)，其中在 $0 { \sim } 2 ~ \mathrm { c m }$ 土层,分别降低了 $5 5 . 2 \% . 5 6 . 7 \% . 6 7 . 9 \%$ 和 $7 6 . 9 \%$ 。土壤酶C:P和酶N：P在全藻结皮阶段出现最大值，在藓-藻混生结皮阶段出现最小值。
+
+表3不同发育阶段土壤C、N、P含量变化特征(平均值 $\cdot \pm .$ 标准偏差）  
+Tab.3Variation characteristics of C,NandPcontents at different formation stages $( \mathbf { m e a n } \pm \mathbf { S D } )$   
+
+<html><body><table><tr><td rowspan="2">养分</td><td rowspan="2">土层/cm</td><td colspan="5">发育阶段</td></tr><tr><td>CK</td><td>A</td><td>AM</td><td>M</td><td>M</td></tr><tr><td>SOC/(g·kg -1)</td><td>BSCs</td><td></td><td>15.2±3.08Ba</td><td>17.8±3.20ABa</td><td>20.0±2.20Aa</td><td>19.8±3.97Aa</td></tr><tr><td></td><td>0~2</td><td>2.44±0.29Ba</td><td>6.73±1.97Ab</td><td>5.45±1.24Ab</td><td>5.80±1.97Ab</td><td>6.14±2.76Ab</td></tr><tr><td></td><td>2~10</td><td>1.53±0.37Bb</td><td>2.44±0.65Ac</td><td>2.27±0.46ABc</td><td>2.09±0.69ABc</td><td>2.41±0.69Ac</td></tr><tr><td></td><td>10~20</td><td>1.29±0.28Ab</td><td>1.28±0.43Ac</td><td>1.72±0.44Ac</td><td>1.61±0.37Ac</td><td>1.47±0.47Ac</td></tr><tr><td>TN/(g· kg -1)</td><td>BSCs</td><td></td><td>1.10±0.27Ba</td><td>1.15±0.23Ba</td><td>1.38±0.16Aa</td><td>1.30±0.26ABa</td></tr><tr><td></td><td>0~2</td><td>0.10±0.01Ba</td><td>0.46±0.14Ab</td><td>0.42±0.11Ab</td><td>0.49±0.14Ab</td><td>0.46±0.19Ab</td></tr><tr><td></td><td>2~10</td><td>0.09±0.02Bb</td><td>0.18±0.05Ac</td><td>0.18±0.05Ac</td><td>0.16±0.05Ac</td><td>0.17±0.05Ac</td></tr><tr><td></td><td>10~20</td><td>0.08±0.01Bc</td><td>0.10±0.03ABc</td><td>0.13±0.04ABc</td><td>0.13±0.02Ac</td><td>0.11±0.04Ac</td></tr><tr><td>TP/(g·kg-1)</td><td>BSCs</td><td></td><td>0.40±0.03Ba</td><td>0.40±0.04ABa</td><td>0.45±0.06Aa</td><td>0.39±0.03Ba</td></tr><tr><td></td><td>0~2</td><td>0.19±0.02Ba</td><td>0.32±0.03Ab</td><td>0.32±0.04Ab</td><td>0.34±0.05Ab</td><td>0.31±0.03Ab</td></tr><tr><td></td><td>2~10</td><td>0.16±0.03Bb</td><td>0.24±0.09ABc</td><td>0.27±0.12Ab</td><td>0.23±0.03ABc</td><td>0.23±0.02ABc</td></tr><tr><td></td><td>10~20</td><td>0.16±0.01Bb</td><td>0.19±0.06ABc</td><td>0.20±0.02Ac</td><td>0.20±0.03Ac</td><td>0.19±0.02ABd</td></tr></table></body></html>
+
+注：不同大写字母表示同一土层不同发育阶段差异显著,不同小写字母表示同一发育阶段不同土层间差异显著 $( P { < } 0 . 0 5 )$ 。下同。
+
+表4不同发育阶段土壤胞外酶活性变化特征(平均值 $\pm$ 标准偏差）  
+Tab.4Variation characteristics of soil extracellular enzyme activities at diferent formation stages (mean ± SI   
+
+<html><body><table><tr><td rowspan="2">胞外酶</td><td rowspan="2">土层/cm</td><td colspan="5">发育阶段</td></tr><tr><td>CK</td><td>A</td><td>Mo</td><td>MA</td><td>M</td></tr><tr><td>BG/(nmol·h 1• g" 1)</td><td>BSCs</td><td></td><td>80.1±10.5ABa</td><td>71.6±9.81Ba</td><td>117±6.89Aa</td><td>111±19.3Aa</td></tr><tr><td></td><td>0~2</td><td>19.5±1.65Ba</td><td>41.5±6.83ABb</td><td>26.9±5.11ABb</td><td>42.6±5.68Ab</td><td>36.5±12.5ABb</td></tr><tr><td></td><td>2~10</td><td>13.7±1.95Ab</td><td>15.9±3.21Ac</td><td>12.2±2.51Ab</td><td>12.3±1.70Ac</td><td>13.6±3.14Ab</td></tr><tr><td></td><td>10~20</td><td>8.71±1.13BCc</td><td>6.51±1.47BCc</td><td>10.1±1.98ABb</td><td>13.5±2.02Ac</td><td>4.67±0.85Cc</td></tr><tr><td>NAG/(nmol·h-1·g1)</td><td>BSCs</td><td></td><td>19.3±3.35Ba</td><td>23.9±2.15Ba</td><td>65.1±4.80Aa</td><td>61.0±8.45Aa</td></tr><tr><td></td><td>0~2</td><td>3.75±0.37Bb</td><td>7.13±1.41ABb</td><td>5.14±0.70Bb</td><td>12.3±1.60Ab</td><td>12.5±3.90Ab</td></tr><tr><td></td><td>2~10</td><td>11.6±1.70Aa</td><td>7.04±1.43Ab</td><td>6.79±1.55Ab</td><td>9.68±1.74Ab</td><td>8.68±1.73Ab</td></tr><tr><td></td><td>10~20</td><td>10.8±2.97Aa</td><td>8.16±1.38Ab</td><td>8.80±1.55Ab</td><td>9.85±1.26Ab</td><td>9.99±2.12Ab</td></tr><tr><td>LAP/(nmol·h−1·g"1)</td><td>BSCs</td><td></td><td>167±13.5Aa</td><td>150±25.7Aa</td><td>145±12.3Aa</td><td>206±36.8Aa</td></tr><tr><td></td><td>0~2</td><td>11.3±0.76Ca</td><td>67.7±5.23Ab</td><td>60.8±8.08Bb</td><td>86.4±6.77Ab</td><td>86.2±10.31Ab</td></tr><tr><td></td><td>2~10</td><td>8.85±0.63Bb</td><td>40.0±5.17Ac</td><td>42.4±7.69Ab</td><td>36.1±6.17Ac</td><td>49.0±7.81Abc</td></tr><tr><td></td><td>10~20</td><td>10.3±0.72Cab</td><td>20.0±2.38BCc</td><td>19.0±2.41ABCb</td><td>13.7±3.59ABc</td><td>23.9±4.65Ac</td></tr><tr><td>AP/(nmol·h−1•g"1)</td><td>BSCs</td><td></td><td>80.0±16.2Ba</td><td>72.6±5.75Ba</td><td>143±5.56Aa</td><td>132±5.04Aa</td></tr><tr><td></td><td>0~2</td><td>11.9±1.24Ba</td><td>18.5±2.13Bb</td><td>11.7±1.58Bb</td><td>35.1±2.66Ab</td><td>31.9±4.67Ab</td></tr><tr><td></td><td>2~10</td><td>10.3±1.91Bab</td><td>9.88±1.09Bb</td><td>14.9±4.06Bb</td><td>29.3±4.37ABb</td><td>20.2±5.92Ab</td></tr><tr><td></td><td>10~20</td><td>6.18±0.98Bb</td><td>10.9±1.07Bb</td><td>9.90±1.79Bb</td><td>28.9±4.28Ab</td><td>22.8±4.83Ab</td></tr></table></body></html>
+
+![](images/678ea480f1634d377096b25e18da9a2caaa965cd950820e125e7a0c87978a4f0.jpg)  
+注：灰色的区域为 $9 5 \%$ 的置信带，灰色实线为线性拟合。  
+图2土壤C、N、P含量与参与C、N、P循环相关胞外酶活性的线性回归分析  
+Fig.2Linear regressionanalysis between C,Nand Pcontents and C-,N-and P-acquisition enzymeactivities
+
+# 2.4土壤C、N、P含量及其化学计量和土壤胞外酶活性及其化学计量之间的关系
+
+土壤 $\mathrm { ~ C ~ } , \mathrm { { N } , \mathrm { { P } } }$ 含量及其化学计量比和土壤胞外酶活性及其化学计量比的相关性分析表明，土壤C、N、P之间均表现出极显著的正相关 $\scriptstyle { \phantom { - } } ( P < 0 . 0 1$ ，表7)。土壤 $\mathrm { ~ C ~ } , \mathrm { { N } , \mathrm { { P } } }$ 含量与土壤 $\mathrm { C } { : } \mathrm { P } \ 、 \mathrm { N } { : } \mathrm { P }$ 及各胞外酶活性之间也存在着极显著的正相关关系( $\scriptstyle { \phantom { - } } P < 0 . 0 1$ ），且C、
+
+N、P含量与土壤 $\mathrm { C } : \mathrm { N }$ 之间的相关系数分别为$0 . 0 7 4 _ { \cdot } - 0 . 0 5 3 _ { \cdot } - 0 . 1 6 7 \left( P { < } 0 . 0 5 \right)$ 。土壤BG：( $\mathrm { N A G } +$ LAP)与土壤 $\mathrm { C } : \mathrm { N }$ 呈极显著正相关( $( P { < } 0 . 0 1 )$ ，土壤BG：AP与BG呈现出显著正相关，但与AP表现为极显著负相关 $( P { < } 0 . 0 1 \$ ）
+
+以土壤酶化学计量为响应变量，以土壤 $\mathrm { ~ C ~ } , \mathrm { { N } , \mathrm { { P } } }$ 含量及其化学计量和土壤胞外酶活性为解释变量作冗余(RDA)分析，通过RDA进一步说明BSCs的发育和土层深度对土壤酶化学计量的影响(图4）。在生物土壤结皮层,RDA结果显示土壤BG:AP与土壤C、N、P、BG和NAG有很显著的正相关性（ $P <$
+
+表5土壤胞外酶活性与土壤C、N、P含量的标准化主轴分析  
+Tab.5 Standardized major axis analysis between extracellular enzyme activities of soils involved in the C,N,andPcycles and soil C,N,and P contents   
+
+<html><body><table><tr><td rowspan="2">发育阶段</td><td colspan="2">变量</td><td rowspan="2">R</td><td rowspan="2">P</td><td rowspan="2">斜率</td><td rowspan="2">P(test)</td></tr><tr><td>X</td><td>Y</td></tr><tr><td rowspan="3">裸沙地CK</td><td>BG</td><td>NAG+LAP</td><td>0.055</td><td>0.211</td><td>0.673</td><td>0.035</td></tr><tr><td>BG</td><td>AP</td><td>0.168</td><td><0.05</td><td>1.128</td><td>0.489</td></tr><tr><td>NAG+LAP</td><td>AP</td><td>0.000</td><td>0.960</td><td>/</td><td>/</td></tr><tr><td rowspan="3">全藻结皮A</td><td>BG</td><td>NAG+LAP</td><td>0.682</td><td><0.001</td><td>0.675</td><td>0.000</td></tr><tr><td>BG</td><td>AP</td><td>0.372</td><td><0.001</td><td>0.784</td><td>0.064</td></tr><tr><td>NAG+LAP</td><td>AP</td><td>0.681</td><td><0.001</td><td>1.162</td><td>0.107</td></tr><tr><td rowspan="3">藻-藓混生结皮AM</td><td>BG</td><td>NAG+LAP</td><td>0.272</td><td><0.01</td><td>0.715</td><td>0.018</td></tr><tr><td>BG</td><td>AP</td><td>0.501</td><td><0.001</td><td>1.066</td><td>0.578</td></tr><tr><td>NAG+LAP</td><td>AP</td><td>0.287</td><td><0.001</td><td>1.491</td><td>0.005</td></tr><tr><td rowspan="3">藓-藻混生结皮MA</td><td>BG</td><td>NAG+LAP</td><td>0.667</td><td><0.001</td><td>0.849</td><td>0.087</td></tr><tr><td>BG</td><td>AP</td><td>0.647</td><td><0.001</td><td>0.771</td><td>0.010</td></tr><tr><td>NAG+LAP</td><td>AP</td><td>0.598</td><td><0.001</td><td>0.908</td><td>0.352</td></tr><tr><td rowspan="3">全藓结皮M</td><td>BG</td><td>NAG+LAP</td><td>0.554</td><td><0.001</td><td>0.501</td><td>0.000</td></tr><tr><td>BG</td><td>AP</td><td>0.244</td><td><0.01</td><td>0.597</td><td>0.000</td></tr><tr><td>NAG+LAP</td><td>AP</td><td>0.445</td><td><0.001</td><td>1.192</td><td>0.151</td></tr><tr><td rowspan="3">总计</td><td>SOC</td><td>BG</td><td>0.618</td><td><0.001</td><td>1.116</td><td>0.016</td></tr><tr><td>TN</td><td>NAG+LAP</td><td>0.797</td><td><0.001</td><td>0.911</td><td>0.005</td></tr><tr><td>TP</td><td>AP</td><td>0.418</td><td><0.001</td><td>2.978</td><td>0.000</td></tr></table></body></html>
+
+注： $P ( \mathrm { t e s t } )$ 表示对斜率进行的显著性检验(与1比较),斜率显著大于1用黑体表示( $\cdot P < 0 . 0 5$ 。
+
+0.01)，第一轴和第二轴的特征值分别为 $8 8 . 1 7 \%$ 和$1 1 . 1 7 \%$ 。BG:( $\mathrm { N A G + L A P } \rangle$ 与 $( \mathrm { N A G + L A P } ,$ 和LAP呈显著负相关，这与相关性分析结果一致。
+
+# 3讨论
+
+# 3.1生物土壤结皮形成对土壤C、N、P含量以及胞外酶活性的影响
+
+生物土壤结皮层的形成过程反映了干旱半干旱生态系统土壤性质的转变和区域生态环境的健康状况。在干旱和半干旱地区，BSCs覆盖在沙地表面，促进了细颗粒的积累，对沙地土壤养分的改良起着至关重要的作用[23]。本研究结果表明，BSCs的形成对土壤C、N、P含量均具有极显著影响(表6)，这与李云飞等[24]研究结果相似。这可能和不同发育阶段BSCs的类型不同有关，随着BSCs的发育，藓结皮逐渐占据优势地位(表1)。藓结皮的表面孔隙较为粗糙，这种结构特性可以更好地捕获有机质，使得结皮层下的养分不断聚集，藓结皮的生物量、微生物组成和固碳能力显著高于藻结皮[25]。曾全超等[26研究得出在黄土高原延河流域不同植被带的$\mathrm { ~ C ~ } , \mathrm { { N } , \mathrm { { P } } }$ 含量均为表层高于下层，并且随土层加深而降低，这与本研究结果趋势一致。本研究发现，4个发育序列BSCs的生物土壤结皮层SOC、TN、TP含量均显著高于下层土壤，且不同发育序列间差异显著（表3)，其中SOC与TN的变化具有一致性，均随着土层的加深而减小，且在结皮层下各土层中分布较为均匀。原因可能是：（1）BSCs对下层土壤的影响在土层深度上有局限性；（2）研究区内降水量较少对淋溶作用有影响；(3）矿质风化速率降低，土壤存储能力较弱[27]。TP含量随土层加深而减小的趋势较缓，可能主要与土壤母质有关，土壤母质相对稳定,土壤全磷含量对土层深度变化的响应较弱[25]。
+
+土壤胞外酶是微生物释放出降解复杂大分子的蛋白质，在生态系统中参与养分循环并具有重要作用，作为沙区土壤恢复的重要生物指标，其活性强弱可以指征土壤中养分转化能力的大小[13]。Zhao等[28研究表明，不同的结皮形成阶段会影响固氮酶的活性，这与本研究生物土壤结皮的发育对土壤胞外酶活性具有极显著影响相似(表6)，随着生物土
+
+2.0 (a) (d) 25 上 Aa 山 1.5 Aa 20 Ab (PAA+AAA:AA Ab Aa AaBab   
+NJ 15 T BCbBab 1.0 Ab Ba Aa Ba Aa 1050 L L 1 00 1 诚 CK A AM MA M CK A AM MA M 60 3.5 F Aa (b) (e) 50 ABa ABa 3.0 Aab ABa 40 2.5 ABCa Aa ABab PAPR 2.0 ABAab   
+P 30 N 2010 Ab T 151005 i Ca ABa 0 0.0 CK A AM MA M CK A AM MA M 4.0 7 3.5 (c) 6 (f) Aa Aa Aba 3.0 VA:(AAA+AAA) 5 AaABab ABa ABab   
+dN 2.5 4 Abc BCab 2015 Ab Ab 非 Ab 32 W A ABb βCb Cb 开 T 105 BBa AA ACAC ACAC AAC Db CC Ab 1 T 1 用 非 N m 0.0 0 CK A AM MA M CK A AM MA M 发育阶段 发育阶段
+
+壤结皮的发育，土壤胞外酶的活性显著增加。主要是由于生物土壤结皮层相对丰富的养分含量为酶促反应提供较多的底物，从而提高了酶活性，发育等级越高的生物土壤结皮，其结皮层的酶活性越高。有研究表明，在生态系统中由酶催化的土壤有机质转化和降解过程更多的可能性是由微生物功能基因的丰度驱动的[29]。Miralles等[30]得出生物结皮土壤胞外酶的活性要高于没有结皮发育的裸露土壤，这可能是由于生物土壤结皮层通过利用其深色色素吸收太阳辐射来缓和土壤气候的波动，从而提高了土壤酶的活性[31]。发育后期藓结皮的土壤胞外酶活性高于发育前期的藻结皮，这表明随着结皮形成的进行，土壤结皮层下的微生物活性不断累积。与藻结皮相比，藓结皮可能更具有提高C和N循环的能力，可以更好地改善碳和氮的输入和交换[32]。本研究得出土壤胞外酶活性随土层加深而降低（表4)，这和Maxwell等[33参与P循环相关酶活性随深度的增加而降低的规律一致。生物土壤结皮层的土
+
+# 表6阶段、土层及其交互作用对土壤生态化学计量和土壤胞外酶及其化学计量特征的影响
+
+Tab.6Effects of stage,soil layer and their interaction on soil ecological stoichiometry and soil extracellular enzymes and their stoichiometric characteristics   
+
+<html><body><table><tr><td rowspan="2">组分</td><td colspan="2">发育阶段(S)</td><td colspan="2">土层(L)/cm</td><td colspan="2">SxL</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>C</td><td>6.581</td><td>0.000***</td><td>700.6</td><td>0.000***</td><td>4.982</td><td>0.000***</td></tr><tr><td>N</td><td>10.938</td><td>0.000***</td><td>592.809</td><td>0.000***</td><td>4.393</td><td>0.000***</td></tr><tr><td>P</td><td>19.868</td><td>0.000***</td><td>149.354</td><td>0.000***</td><td>2.258</td><td>0.014*</td></tr><tr><td>C:N</td><td>46.178</td><td>0.000***</td><td>10.84</td><td>0.000***</td><td>5.265</td><td>0.000***</td></tr><tr><td>C:P</td><td>2.434</td><td>0.049°</td><td>433.542</td><td>0.000***</td><td>3.751</td><td>0.000***</td></tr><tr><td>N:P</td><td>9.646</td><td>0.000***</td><td>443.635</td><td>0.000***</td><td>4.044</td><td>0.000***</td></tr><tr><td>BG</td><td>3.432</td><td>0.010°</td><td>127.296</td><td>0.000***</td><td>2.46</td><td>0.007**</td></tr><tr><td>NAG</td><td>18.582</td><td>0.000**</td><td>125.371</td><td>0.000***</td><td>11.751</td><td>0.000***</td></tr><tr><td>LAP</td><td>7.249</td><td>0.000**</td><td>111.851</td><td>0.000**</td><td>1.729</td><td>0.071</td></tr><tr><td>NAG+LAP</td><td>7.962</td><td>0.000***</td><td>139.847</td><td>0.000**</td><td>2.337</td><td>0.011*</td></tr><tr><td>AP</td><td>30.830</td><td>0.000***</td><td>282.224</td><td>0.000***</td><td>5.772</td><td>0.000***</td></tr><tr><td>BG:(NAG+LAP)</td><td>13.282</td><td>0.000***</td><td>10.033</td><td>0.000**</td><td>3.563</td><td>0.000***</td></tr><tr><td>BG:AP</td><td>7.637</td><td>0.000***</td><td>7.062</td><td>0.000***</td><td>1.168</td><td>0.313</td></tr><tr><td>(NAG+LAP):AP</td><td>4.496</td><td>0.002**</td><td>3.456</td><td>0.018*</td><td>1.27</td><td>0.246</td></tr></table></body></html>
+
+注：\*表示在 $P < 0 . 0 5$ 水平上差异显著,\*\*表示在 $P < 0 . 0 1$ 水平上差异显著,\*\*\*表示在 $P { < } 0 . 0 0 1$ 水平上差异显著。
+
+表7土壤C、N、P及其化学计量和土壤胞外酶活性及其化学计量之间的相关性  
+on between C,N,Pand their stoichiometry and soil extracellular enzyme activity and their stoichiomet   
+
+<html><body><table><tr><td></td><td>C</td><td>N</td><td>P</td><td>C:N</td><td>C:P</td><td>N:P</td><td>BG</td><td>NAG</td><td>LAP</td><td>NAG+LAP</td><td>AP</td><td></td><td>BG:(NAG+LAP) BG:AP (NAG+LAP):AP</td><td></td></tr><tr><td>C</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N</td><td>0.981**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P</td><td>0.806**0.834**</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C:N</td><td>0.074 -0.053 -0.167*</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C:P</td><td>0.981**0.946**0.725** 0.159°</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N:P</td><td>0.970** 0.984** 0.776**-0.049 0.965**1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BG</td><td>0.859**0.878** 0.719*-0.019 0.831* 0.868</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NAG</td><td>0.792** 0.784** 0.575**0.005 0.756** 0.760**0.853**1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LAP</td><td>0.808** 0.808** 0.718**-0.058 0.789** 0.805**0.788** 0.667*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NAG+LAP</td><td>0.855**0.853**0.729**-0.047 0.830* 0.845* 0.851** 0.785** 0.985**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>AP</td><td>0.813**0.808** 0.665**-0.0010.778** 0.787** 0.745** 0.762** 0.707**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.763**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>BG:(NAG+LAP) 0.078 0.083 0.001 0.337*0.112</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.0980.243**0.067-0.182*</td><td>-0.136</td><td>0.007</td><td></td><td></td><td></td></tr><tr><td>BG:AP</td><td></td><td>-0.032-0.018 0.089</td><td></td><td>0.09 -0.021-0.011 0.176-0.032-0.029</td><td></td><td></td><td></td><td></td><td></td><td>-0.032</td><td>-0.281**</td><td>0.442**</td><td>1</td><td></td></tr><tr><td>(NAG+LAP):AP-0.115 -0.111-0.044 -0.068-0.119 -0.113 -0.109 -0.126 0.049</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.012</td><td>-0.221**</td><td>-0.208**</td><td>0.321**</td><td>1</td></tr></table></body></html>
+
+注：\*\*表示在0.01级别(双尾)，相关性显著;\*表示在0.05级别(双尾),相关性显著。
+
+壤胞外酶活性最高，在结皮下层土壤中，不同发育序列的4种胞外酶活性均大于裸沙地。这主要缘于生物土壤结皮产生的分泌物和残体等被微生物不断分解形成腐殖质，促进了养分在结皮层的积累，从而使结皮层养分含量显著高于下层土壤。相应地，其为土壤微生物提供底物，使微生物适宜生境的能力增强，这会促进结皮层酶活性的提高[9]
+
+# 3.2生物土壤结皮形成对土壤化学计量和土壤胞外酶化学计量的影响
+
+土壤生态化学计量能够有效地说明养分限制类型和土壤质量状况，是反映C、N、P循环以及土壤养分平衡的重要参数[27]。本研究结果表明生物土壤结皮的发育对土壤生态化学计量有极显著影响(表6)，这与Liu等[34]化学计量比随植被演替阶段变化的研究结果类似。在生物土壤结皮的发育过程中，植被对土壤养分的归还处于动态变化，且土壤理化性质和微生物活性均会在发育过程中发生显著改变。土壤C：N是体现土壤有机质分解速率的指标，比值越高表明土壤有机质的分解矿化速率越慢。在本研究中，4个发育序列生物土壤结皮层的C:N平均值分别为14.0、16.3、14.5、15.2（图3a），均明显高于全国平均值(11.9)，表明研究区土壤相对于全国土壤平均水平土壤碳源、有机质分解和矿化速率均较低。随着生物土壤结皮的发育，土壤有机质的分解速率逐步减弱，增加了土壤有机质的积累[35]。除结皮层外， $0 { \sim } 2 ~ \mathrm { c m } \ 、 2 { \sim } 1 0 ~ \mathrm { c m }$ 和 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 土层的C:N无显著差异，这说明土壤中C和N的含量在外部环境的影响下趋于一致，在养分积累和消耗的过程中C和N作为主要成分,其比值相对稳定[36]。土壤N：P一般可用于预测养分限制的类型，本研究生物土壤结皮层N：P明显高于结皮下层，这说明研究区结皮下层土壤氮元素供应相对较弱，并有可能成为植被生长的限制元素[1]。土壤C:P可以用于表征土壤P的有效性，通常C：P越低，越利于微生物对有机质的分解，进而提高土壤P的含量，反映土壤P的有效性[37]。本研究区结皮层的土壤C:P高于结皮下层土壤，这说明结皮层土壤中有机质的分解速率弱于下层土壤。
+
+![](images/04341149297a84195dd96cd8afadceb65939e42287f4ee12a3a85cdb24d1a056.jpg)  
+注：实线为解释变量，虚线为响应变量。  
+图4土壤酶化学计量与土壤C、N、P和土壤胞外酶活性的关系  
+Fig.4Relationship between soil enzyme stoichiometry and soil C,N,Pand soil extracellular enzyme activities
+
+土壤酶化学计量作为表征土壤中养分供应状况和土壤微生物活动的重要指标，揭示了土壤中微生物营养需求与环境养分有效性之间的平衡关系[38]。当C、N或P中某一元素在土壤中变得有限时，微生物可能就会释放该元素的获取酶，以应对土壤基质和养分供应的变化[39]。本研究中,BG:(NAG+LAP)和BG：AP随着生物土壤结皮的发育下降，这与Wang等[40]的研究中酶C:N和C:P在前22a植被演替中下降有相似的规律，这表明研究区微生物对N和P相对于C的需求更大，藻结皮阶段土壤微生物N、P功能的发挥相对较差。除生物土壤结皮层外，BG:( $\mathrm { N A G + L A P }$ )和BG：AP的降低与土层深度的增加有关，这说明随着土层的加深，微生物对参与C、N、P循环相关胞外酶的释放减少，且减少释放C-获取酶的幅度最大[39]。尽管土壤胞外酶化学计量比受到生物结皮形成的显著影响，但微生物调控释放参与C、N循环相关胞外酶等比例增加(即两者表现为等容关系），呈稳态模式(表5)。在生物土壤结皮形成过程中，微生物内稳性在调控养分资源的获取中扮演重要作用，在环境相对受限的区域，酶化学计量比在外界的条件变化下保持稳态，可以更好地应对养分缺乏,保持土壤养分动态平衡[4I]。本研究得出在全藻结皮、藻-藓混生结皮以及全藓结皮阶段土壤P-获取酶与N-获取酶之间的斜率均大于1，且在藻-藓混生结皮阶段呈显著水平，说明微生物对P-获取酶的释放速率相对N-获取酶较快。同时，土壤有机碳、全磷含量与参与C、P循环的胞外酶活性之间的斜率均显著大于1,呈现非等容模型，反映了土壤胞外酶活性对土壤养分的依赖。
+
+# 3.3土壤C、N、P-胞外酶活性-酶化学计量特征的相关性分析
+
+在植被与土壤协同进化过程中，调控C、N、P循环的土壤胞外酶活性会受到相应的土壤养分状况影响，由于不同发育阶段生物土壤结皮固定C、N的能力不同，对应胞外酶活性就不同，进而使化学计量学特征发生分异[42]。土壤养分含量通过微生物间接调控土壤胞外酶的分泌，使得土壤养分与酶活性之间具有一定的相关关系。本研究中，土壤C、N、P含量与其获取酶化学计量的相关性分析显示，SOC、TN、TP与C-、N-、P-获取酶［BG、( $\mathrm { N A G } +$ LAP)、AP呈显著正相关，表明土壤微生物活动受到SOC、TN、TP含量的调控,其含量越高，土壤 $\mathrm { C } -$ 、N-、P-获取酶活性越高，这反映了SOC、TN、TP是土壤酶生产和分泌的能量来源。本研究发现土壤N:P、C:P分别与土壤(NAG+LAP):AP、BG:AP无显著相关关系，表明土壤胞外酶活性对生物土壤结皮发育过程中土壤养分变化的响应机理不同[43]。综上所述,面对土壤C:N：P生态化学计量的分异,土壤胞外酶会调整自身C：N：P生态化学计量进行适应。本研究表明生物土壤结皮和土层深度均与土壤胞外酶活性及其化学计量显著相关(表6)，生物土壤结皮的发育和土层深度对土壤胞外酶活性的影响呈交互作用。说明胞外酶活性及其化学计量是由养分有效性介导的，生物土壤结皮不同发育阶段的营养供给影响微生物的繁殖和生长，进而决定酶的分泌[44]。
+
+# 4结论
+
+（1）随着生物土壤结皮的发育，参与C、N、P循环的土壤胞外酶活性均有明显增强，全藓结皮阶段的土壤胞外酶活性显著高于全藻结皮。反映出生物土壤结皮的形成丰富了土壤微生物的种类和数量，从而提高了土壤胞外酶的活性。而在相同生物土壤结皮发育阶段，土壤胞外酶活性随土层加深而减弱。
+
+(2）标准化主轴估计分析得出土壤有机碳、全磷含量与C-获取酶、P-获取酶活性之间的斜率均显著大于1,呈现非等容模型，表明土壤胞外酶及其化学计量对土壤养分的依赖，反映了土壤胞外酶及其化学计量与土壤养分循环的密切关系。
+
+(3）各生物土壤结皮发育阶段土壤N-获取酶、P-获取酶相对于C-获取酶的斜率呈现等容关系，表明胞外酶化学计量比在外界的条件变化下保持稳态，微生物内稳性在调控养分资源的获取中扮演重要作用。
+
+# 参考文献(References):
+
+[1] LiXR,JiaRL, Chen YW,et al.Association of ant nests with successional stages of biological soil crusts in the Tengger Desert, Northern China[J].Applied Soil Ecology,2011,47(1): 59-66.   
+[2] Rodriguez-Caballero E,Belnap J,Budel B,et al.Dryland photoautotrophic soil surface communities endangered by global change [J].Nature Geoscience,2018,11(3): 185-189.   
+[3] LiuYM,YangHY,LiXR,et al.Effects of biological soil crusts on soil enzyme activities in revegetated areas of the Tengger Desert, China[J]. Applied Soil Ecology,2014,80: 6-14.   
+[4] Spohn M,Schleuss P.Addition of inorganic phosphorus to soil leads to desorption of organic compounds and thus to increased soil respiration[J]. Soil Biology and Biochemistry,2019,130: 220- 226.   
+[5] Liang C,Schimel JP,Jastrow JD.The importance of anabolism in microbial control over soil carbon storage[J].Nature Microbiology, 2017,2,17105.   
+[6] Zi HB,HuL,Wang C T,et al.Responses of soil bacterial community and enzyme activity to experimental warming of an alpine meadow[J].European Journal of Soil Science,2O18,69(3):429- 438.   
+[7] Yang Y,Liang C,Wang YQ,etal. Soil extracellular enzyme stoichiometry reflects the shift from P-to N-limitation of microorganisms with grassland restoration[J]. Soil Biology and Biochemistry, 2020,149: 107928.   
+[8]勒佳佳,苏原,彭庆文,等.氮添加对天山高寒草原土壤酶活性 和酶化学计量特征的影响[J].干旱区研究,2020,37(2):382- 389.[Le Jiajia,Su Yuan,Peng Qingwen,et al. Efects of nitrogen addition on soil enzyme activities and ecoenzymatic stoichiometry in alpine grassland of the Tianshan Mountains[J].Arid Zone Research,2020,37(2): 382-389.]   
+[9]Xu Z W,Yu G R, Zhang X Y,et al. Soil enzyme activity and stoichiometry in forest ecosystems along the North-South transect in eastern China (NSTEC)[J].Soil Biology and Biochemistry,2017, 104: 152-163.   
+[10]CuiY X,Fang L C,Guo X B,et al.Ecoenzymatic stoichiometry and microbial nutrient limitation in rhizosphere soil in the arid area of the northern Loess Plateau, China[J].Soil Biology and Biochemistry,2018,116:11-21.   
+[11] 吴秀芝,阎欣,王波,等.荒漠草地沙漠化对土壤-微生物-胞外 酶化学计量特征的影响[J].植物生态学报,2018, $4 2 ( 1 0 ) : 1 0 2 2 -$ 1032.[Wu Xiuzhi,YanXin,Wang Bo,etal.Effectsofdesertificationon the $\mathrm { C } : \mathrm { N } : \mathrm { P }$ stoichiometry of soil, microbes,and extracellu lar enzymes ina desert grassland[J]. Chinese Journal of Plant Ecology,2018,42(10): 1022-1032.]   
+[12] 郭天斗,于露,孙忠超,等.宁夏东部荒漠草原向灌丛地人为转 变过程中土壤胞外酶活性响应[J].应用生态学报,2020,31(8): 2541-2548.[Guo Tiandou, Yu Lu, Sun Zhongchao,et al. Responses of soil extracellular enzyme activities to the anthropogenic transition from desert grassland to shrubland in eastern Ningxia, China [J]. Chinese Journal of Applied Ecology,2020,31(8): 2541-2548.]   
+[13] 左宜平,张馨月,曾辉,等.大兴安岭森林土壤胞外酶活力的时 空动态及其对潜在碳矿化的影响[J]).北京大学学报(自然科学 版),2018,54(6): 1311-1324.[Zuo Yiping,Zhang Xinyue, Zeng Hui,et al. Spatiotemporal dynamics of soil extracellular enzyme activity and its influence on potential mineralization rate of soil organic carbon in forests of Daxing'an Mountain range[J].Acta Scientiarum Naturalium Universitatis Pekinensis,20l8,54(6): 1311- 1324.]   
+[14]Xiao L, Liu G B,Li P,et al. Ecoenzymatic stoichiometry and microbial nutrient limitation during secondary formation of natural grassland on the Loess Plateau, China[J]. Soil & Tillage Research, 2020,200:104605.   
+[15] 王嘉维.黄土高原风蚀水蚀交错区典型植被对土壤酶活性的影 响[J].山西农业科学,2018,46(6): 976-980,997.[Wang Jiawei. Effects of typical vegetation on soil enzyme activities in wind erosion and water erosion crisscross region in Loess Plateau[J].Jour nal of Shanxi Agricultural Sciences,2018, 46(6): 976-980, 997.]   
+[16] 王彦峰,肖波,王兵,等.黄土高原水蚀风蚀交错区藓结皮对土 壤酶活性的影响[J].应用生态学报,2017,28(11):3553-3561. [Wang Yanfeng,Xiao Bo,Wang Bing,et al. Effects of moss-dominated biological soil crusts on soil enzyme activities in water-wind erosion crisscross region on the Loess Plateau of China[J]. Chinese
+
+Journal of Applied Ecology,2017,28(11): 3553-3561.]
+
+[17] 李渊博,李胜龙,肖波,等.黄土高原水蚀风蚀交错区藓结皮覆 盖土壤的蒸发特征[J].水土保持学报,2020,34(5):208-215. [Li Yuanbo,Li Shenglong, Xiao Bo,et al.Evaporation characteristics of soil covered with moss crust in the wind-water erosion crisscross region of the Loess Plateau[J]. Journal of Soil and Water Conservation,2020,34(5): 208-215.] [18] 张健,徐明,邹晓,等.不同土壤和植被生境下生物结皮对土壤 性质的影响[J].水土保持学报,2019,33(5):323-328.[Zhang Jian,Xu Ming,Zou Xiao,et al.Effects of biological crusts on soil propertiesunder different soil and vegetation habitats[J]. Journal of Soil and Water Conservation,2019,33(5): 323-328.] [19]王彦峰,王兵,肖波,等.陕北黄土高原藓结皮的7种土壤酶活 性及其剖面分布特征[J.西北农林科技大学学报（自然科学 版),2017,45(3): 161-169.[Wang Yanfeng,Wang Bing, Xiao Bo, et al.Soil enzyme activities and vertical distribution of moss-dominated biological soil crusts on the Loess Plateau in Northern Shaanxi[J]. Journal of Northwest A&F University(Natural Science Edition),2017,45(3): 161-169.] [20] 黄婷婷,史扬子,曹琦,等.黄土高原六道沟小流域近30年来土 壤侵蚀变化评价[J].中国水土保持科学,2020,18(1):8-17. [Huang Tingting,Shi Yangzi, Cao Qi,etal. Soil erosion evaluation of Liudaogou catchment in the Loess Plateau during the past 30 years[J]. Science of Soil and Water Conservation,2O2O,18(1): 8-   
+17.] [21] 王宝荣,杨佳佳,安韶山,等.黄土丘陵区植被与地形特征对土 壤和土壤微生物生物量生态化学计量特征的影响[J].应用生 态学报,2018,29(1): 247-259.[Wang Baorong,Yang Jiajia,An Shaoshan,et al. Effects of vegetation and topography features on ecological stoichiometry of soil and soil microbial biomass in the hilly-gully region of the Loess Plateau, China[J]. Chinese Journal of Applied Ecology,2018,29(1): 247-259.] [22]Fanin N,Fromin N,Buatois B,et al.An experimental test of the hypothesis of non-homeostatic consumer stoichiometry in a plant liter-microbe system[J].EcologyLeters,2013,16:764-772. [23]Li X R, Song G, Hui R,et al. Precipitation and topsoil atributes determine the species diversity and distribution patterns of crustal communities in desert ecosystems[J]. Plant Soil,2017,420(1-2):   
+163-175. [24] 李云飞,马晓俊,李小军.固沙植被演替过程中藓类结皮及其表 层土壤理化性质变化[J].兰州大学学报(自然科学版),2020,56 (4):463-470.[Li Yunfei,Ma Xiaojun,Li Xiaojun. Changes in physicochemical properties of moss crusts and the underlying soil during the succession of sand- binding- vegetation[J].Journal of Lanzhou University (Natural Sciences Edition),2020, 56(4): 463-   
+470.] [25] 杨巧云,赵允格,包天莉,等.黄土丘陵区不同类型生物结皮下 的土壤生态化学计量特征[J].应用生态学报,2019,30(8)：   
+2699-2706.[Yang Qiaoyun, Zhao Yunge,Bao Tianli, et al.Soil ecological stoichiometry characteristics under diffrent types of biological soil crusts in the hilly Loess Plateau region,China[J]. Chinese Journal of Applied Ecology,2019,30(8): 2699-2706.]   
+[26] 曾全超,李鑫,董扬红,等.黄土高原延河流域不同植被类型下 土壤生态化学计量学特征[J].自然资源学报,2016,31(11): 1881-1891.[Zeng Quanchao,Li Xin,Dong Yanghong,et al.Ecological stoichiometry of soils in the Yanhe Watershed in the Loess Plateau: The influence of different vegetation zones[J]. Journal of Natural Resources,2016,31(11): 1881-1891.]   
+[27] 高丽倩,赵允格,许明祥,等.生物土壤结皮演替对土壤生态化 学计量特征的影响[J].生态学报,2018,38(2):678-688.[Gao Liqian, Zhao Yunge,Xu Mingxiang, et al.The effcts of biological soil crust succession on soil ecological stoichiometry characteristics[J].Acta Ecologica Sinica,2018,38(2): 678-688.]   
+[28]Zhao Y,Xu M, Belnap J.Potential nitrogen fixation activity of different aged biological soil crusts from rehabilitated grasslands of the hilly Loess Plateau,China[J]. Journal of Arid Environments, 2010, 74(10): 1186-1191.   
+[29] Chen J, Sinsabaugh R L.Linking microbial functional gene abundance and soil extracellular enzyme activity: Implications for soil carbon dynamics[J]. Global Change Biology,2021,27: 1322-1325.   
+[30]Miralles I,Domingo F,Cantón Y,etal.Hydrolase enzyme activities in a formation gradient of biological soil crusts in arid and semi-arid zones[J]. Soil Biology and Biochemistry,2012,53:124- 132.   
+[31] 王荣女.毛乌素沙地不同类型生物土壤结皮-土壤呼吸的季节 变化特征[J].干旱区研究,2021,38(4): 961-972.[Wang Rongnv. Seasonal variation characteristicsof diferent types of biological soil crust-soil system respiration in Mu Us Sandy Land[J]. Arid Zone Research,2021,38(4): 961-972.]   
+[32] 李彬,武志芳,陶冶,等.古尔班通古特沙漠不同类型生物结皮 对草本植物多样性影响[J].干旱区研究,2021,38(2):438-449. [Li Bin,Wu Zhifang,Tao Ye,etal.Effects of biological soil crust type on herbaceous diversity in the Gurbantunggut Desert[J].Arid Zone Research,2021,38(2): 438-449.]   
+[33] Maxwell TL,Augusto L, Bon L,et al. Effect of a tree mixture and water availability on soil nutrients and extracelular enzyme activities along thesoil profile in an experimental forest[J].Soil Biology and Biochemistry,2020,148:107864.   
+[34]Liu JG,Gou X H, Zhang F,et al. Spatial patterns in the C:N:P stoichiometry in Qinghai spruce and the soil across the Qilian Mountains, China[J]. Catena,2021,196: 104814.   
+[35] 程才.李玉杰.张远东.等.石漠化地区苔藓结皮对十壤养分及
+
+生态化学计量特征的影响[J].生态学报，2020,40(24):9234-
+
+9244.[Cheng Cai,Li Yujie, Zhang Yuandong,et al. Effects of moss crusts on soil nutrients and ecological stoichiometry characteristics in karst rocky desertification region[J].Acta Ecologica Sinica,2020,40(24): 9234-9244.]   
+[36] 娄泊远,王永东,闫晋升,等.亚寒带荒漠草原不同树种人工林 土壤生态化学计量特征[J].干旱区研究,2021,38(5):1385- 1392.[Lou Boyuan,Wang Yongdong,Yan Jinsheng,et al.Characteristics of soil ecological stoichiometry of different tree spcies in sub-frigid desert steppe[J].Arid Zone Research,2021,38(5):1385- 1392.]   
+[37]Wang H, Hu G Q,Xu W H,et al.Effects of nitrogen addition on soil organic carbon mineralization after maize stalk addition[J].European Journal of Soil Biology,2018,89: 33-38.   
+[38]Guan PT, Yang JJ, Yang Y R, et al. Land conversion from cropland to grassland alleviates climate warming effects on nutrient limitation: Evidence from soil enzymatic activity and stoichiometry [J]. Global Ecology and Conservation,2020,24,e01328.   
+[39] Peng X Q,Wang W. Stoichiometry of soil extracellular enzyme activity along a climatic transect in temperate grasslands of northern China[J]. Soil Biology and Biochemistry,2016,98: 74-84.   
+[40] Wang B, Xue S,Liu G B,et al. Changes in soil nutrient and enzyme activities under diferent vegetations in the Loess Plateau area,Northwest China[J]. Catena,2012,92:186-195.   
+[41]Jiao F,Wu JJ, Qian Z,et al. Stimulation of nitrogen-hydrolyzing enzymes in soil aggregates mitigates nitrogen constraint for carbon sequestration following afforestation in subtropical China[J]. Soil Biology and Biochemistry,2018,123:136-144.   
+[42] 于德良,雷泽勇,张岩松,等.沙地樟子松人工林土壤酶活性及 其影响因子[J].干旱区研究,2019,36(3):621-629.[Yu Deliang, Lei Zeyong, Zhang Yansong,et al. Soil enzyme activityand its affecting factors under Pinus sylvestris var.mongolica plantation in sandy land[J]. Arid Zone Research,2019,36(3): 621-629.]   
+[43] 贾培龙,安韶山,李程程,等.黄土高原森林带土壤养分和微生 物量及其生态化学计量变化特征[J].水土保持学报,2020,34 (1): 315-321.[Jia Peilong,An Shaoshan,Li Chengcheng,et al.Dynamics of soil nutrients and their ecological stoichiometry characteristics under different longitudes in the East-West forest belt of the Loess Plateau[J]. Journal of Soil and Water Conservation, 2020,34(1): 315-321.]   
+[44]Kiikkila O,Kanerva S, Kitunen V,et al. Soil microbial activity in relation to dissolved organic matter properties under different tree species[J]. Plant Soil,2014,377(1-2): 169-177.
+
+# Variation in soil extracellular enzyme activities stoichiometry during biological soil crust formation in the Loess Plateau
+
+YAO Hongjia'， WANG Baorong2³， AN Shaoshan'²， YANG E'nv'， HUANG Yimei4 (1.State KeyLaboratoryof Soil Erosionand DrylandFarming onthe Loess Plateau,Instituteof Soiland Water Conservation,Northwest A&FUniversity,Yangling 7121Oo,Shaanxi,China;2.State KeyLaboratoryof Soil Erosionand Dryland Farming on the LoessPlateau,Institute of Soil and Water Conservation,Chinese Academy of Science and Ministryof Water Resources,Yangling 7121oo,Shaanxi, China; 3.Universityof Chinese Academyof Sciences,Beijing 1Ooo49,China;4.KeyLaboratoryofPlant Nutritionand the Agro-Environmentin Northwest China,Ministryof Agriculture,Collge of Natural Resourcesand Environment,Northwest A&F University, Yangling 712100,Shaanxi, China)
+
+Abstract: Biological soil crusts (BSCs) play an important role in enhancing soil resistance to water and wind erosion,and improving soil nutrients.Soil extracellular enzyme activity can be used as a microbial indicatorof the intensityof soil biochemical reactions,which is important for understanding the nutrient cycling processes involving microorganisms in desert ecosystems.However, there is a lack of understanding of the variation in soil extracellular enzymes and their stoichiometry during the formation of BSCs on the Loess Plateau.Soils from five biological crust formation stages (CK,A,AM,MA,and M) in Liudaogou watershed, Shenmu County,on the Loess Plateau were selected for the study. Soil extracellular enzyme activities $[ \beta$ -1,4-glucosidase (BG), $\beta \mathrm { . }$ -1,4-Nacetylaminoglucosidase (NAG)，leucine aminopeptidase (LAP)，and alkaline phosphatase (AP)] and their stoichiometric changes during the formation of biocrusts were characterized.The activities of soil BG,NAG, LAP,and AP increased significantly with the sequence of biological crust development,and activity was significantly greater in Mo soil than that in Al soil $( P { < } 0 . 0 5 )$ . Extracellular enzyme activities were significantly higher in the BSCs layer than those in the lower soillayer,and decreased continuously with the depth of the soil. Soil C,N,P,C:P,and N:P all showed highly significant positive correlations with soil extracellular enzyme activities $( P { < } 0 . 0 5 )$ . The nutrient content and soil extracellular enzyme activity of soil with crust cover were significantly higher than those ofbare land,and those of Mo soil were significantly higher than those of Al soil. Standardized major axis estimates indicated that soil extracellular enzyme activities were significantly enhanced and showed homeostasis with formation of biological crusts,and the slopes between N-and P-acquiring enzymes relative to C-acquiring enzymes showed isotropic relationships.Soil microorganisms play an important role in nutrient cycling in arid and semi-arid ecosystems through homeostatic regulation of extracellar enzyme stoichiometry.
+
+Keywords: biological soil crusts；developmental sequence; extracelular enzymes； stoichiometry;Loess Plateau

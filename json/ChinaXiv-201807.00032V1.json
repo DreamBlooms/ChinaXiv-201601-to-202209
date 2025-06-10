@@ -1,0 +1,472 @@
+[
+    {
+        "type": "text",
+        "text": "Characteristics of soil organic carbon and total nitrogen under various grassland types along a transect in a mountain-basin system in Xinjiang, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BI $\\mathrm { { X u ^ { 1 } } }$ ,LI ${ \\mathbf { B 0 } } ^ { 1 } { } ^ { * }$ ,NAN ${ \\bf B 0 } ^ { 1 }$ , FAN Yao1, FU $\\mathrm { Q i ^ { 1 } }$ , ZHANG Xinshi1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Faculty of Geographical Science,Beijing Normal University,Beijing lOo875, China;   \n² Institute of Botany, Chinese Academy of Sciences,Beijing iOoo93,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Soil organic carbon (SOC) and soil total nitrogen (STN) in arid regions are important components of global C and the $\\mathrm { \\Delta N }$ cycles,and their response to climate change will have important implications for both ecosystem processs and global climate feedbacks. Grassand ecosystems of Funyun County in the southern foot of the Altay Mountains are characterized by complex topography, suggesting large variability in the spatial distribution of SOC and STN.However,there has been litle investigation of SOC and STN on grassands in arid regions with a mountain-basin structure. Therefore, we investigated the characteristics of SOC and STN in different grassland types in a mountain-basin system at the southern foot of the Altai Mountains, north of the Junggar Basin in China,and explored their potential influencing factors and relationships with meteorological factors and soil properties. We found that the concentrations and storages of SOC and STN varied significantly with grassand type, and showed a decreasing trend along a decreasing elevation gradient in alpine meadow, mountain meadow, temperate typical steppe, temperate steppe desert, and temperate steppe desert. In addition, the SOC and STN concentrations decreased with depth,except in the temperate desert steppe. According to Pearson's correlation values and redundancy analysis, the mean annual precipitation, soil moisture content and soil available $\\mathrm { \\Delta N }$ concentration were significantly positively correlated with the SOC and STN concentrations. In contrast, the mean annual temperature, $\\mathrm { \\Delta p H }$ ， and soil bulk density were significantly and negatively correlated with the SOC and STN concentrations.The mean annual precipitation and mean annual temperature were the primary factors related to the SOC and STN concentrations. The distributions of the SOC and STN concentrations were highly regulated by the elevation-induced differences in meteorological factors. Mean annual precipitation and mean annual temperature together explained $9 7 . 8 5 \\%$ and $9 8 . 3 8 \\%$ of the overall variations in the SOC and STN concentrations,respectively, at soil depth of $\\mathrm { 0 - 4 0 ~ c m }$ ，with precipitation making the greatest contribution. Our results provide a basis for estimating and predicting SOC and STN concentrations in grassands in arid regions with a mountain-basin structure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: mountain-basin system; grassand types;soil organiccarbon; soil total nitrogen; meteorological factors; soil properties ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The carbon (C） and nitrogen (N） cycles of terrestrial ecosystems have received increasing attention worldwide in recent decades due to their sizable roles in global climate change and ecosystem sustainability (Fu et al.，2O1O). Soils represent the largest terrestrial C pool and contribute to nitrous oxide $( \\mathsf { N } _ { 2 } \\mathbf { O } )$ emissions (Saikawa et al., 2O14; Nocita et al., 2015). Soil N can also deeply impact ecosystem productivity and C sequestration (Dixon et al.，1994; Reich et al., 2006).Therefore,a better understanding of the characteristics and impact factors underlying soil C and $\\mathbf { N }$ at both regional and global scales is critical for evaluating C and $\\mathbf { N }$ cycles and for predicting the feedback of soil C and $\\mathbf { N }$ to global climate change (Jobbagy and Jackson, 2000; Yang et al.， 2Oo7).As one of the major terrestrial ecosystems，grasslands in China cover approximately $40 \\%$ of the total terrestrial surface and represent $13 \\%$ of the total grasslands in the world. Grasslands are the most important terrestrial C pools in China,with $4 1 . 0 3 \\mathrm { ~ P g ~ C ~ }$ stored in the soil (Ni, 2002; Chen et al.,2O16). During the past several decades,a number of studies on soil C and N,have focused on the grasslands at different scales in China, including the site scale ( $\\mathrm { \\Delta Y u }$ et al.,2013; Wang et al., 2014; Wang et al., 2017),the transect scale (Zhou et al.,2002; Yang et al.,2009; Yang et al.,201O),and the country scale (Ni,2002; Piao et al.,2005; Xie et al., 2007; Fang et al.，2O1O).However, most studies have assessed C and $\\mathrm { \\bf N }$ storage values for specific grassland types, especially temperate grasslands (Conant and Paustian, 2Oo2； Piao et al., 2007; Yang et al., 2010) and alpine grasslands (Li et al.,2014; Yan et al.,2015; Chen et al., 2017). Additionally,numerous studies have studied soil C and $\\mathbf { N }$ in the grasslands of Inner Mongolia (Bai et al.,2004; He et al.,2014; Li et al.,2017) and the Qinghai-Tibetan Plateau (QTP) (Yang et al.，2008；Chang et al.，2O14） in China. However, few studies have investigated soil organic carbon (SOC) and soil total nitrogen (STN) storages variations among different grassland types in the southern foot of the Altai Mountains due to limited soil surveys and the high spatial variability of soils in the arid region. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Arid regions cover approximately $1 2 . 0 \\%$ of the land area in the Earth (Lal，2O04).A distribution of alternating mountains and basins is the basic characteristic of the natural geography of the ecosystems in arid regions in Central Asia (Fu et al.,2O17). Zhang (2001) defined this landform as a mountain-basin system (MBS) (Fig.1). Therefore,the grasslands in arid regions with a MBS structure are an important component in the global C and $\\mathrm { \\Delta N }$ cycles,and their response to climate change will have important implications for both ecosystem processes and global climate feedbacks (Fang et al.,1996). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fuyun County lies in the arid region of Xinjiang,China,and it is a representative MBS, consisting of a vertical mountain vegetation gradient and a concentric annular vegetation gradient in a desert basin. Fuyun County represents an ideal region for studying soil C and $\\mathbf { N }$ cycles in different grassland types and the corresponding feedback interactions with global climate change. Studying the SOC and STN in the grassland ecosystems of Fuyun County can improve our knowledge of grassland C and N cycles and provide guidance for assessing and predicting C and N storage in grasslands in arid region. Thus, we studied the characteristics of SOC and STN and their relationships with meteorological factors and soil properties in different grassand types in Fuyun County through field investigations and sampling. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil C and $\\mathbf { N }$ are often tightly coupled and are significantly impacted by many factors,such as climate (Dai and Huang,2Oo6; Munoz-Rojas et al.,2O17),elevation (Lemenih and Itanna, 2004; Tsui et al., 2013), vegetation (Fu et al.,2010; Roman-Sánchez et al., 2016) and soil properties (Sakin,2012; Six and Paustian, 2014). Climate is commonly considered the most important factor regulating SOC and STN storages (Callesen et al., 2003;Wynn et al., 2006), because it affects the balance of C and $\\mathbf { N }$ inputs from soil organic matter (SOM) and outputs through decomposition and mineralization in soils (Garten et al.，1999;Hevia et al.,2O03).Precipitation affects SOC storage by constraining plant production and decomposition, especially in arid ecosystems (Wynn et al.,20o6; Yang et al.， 2007). Some studies have shown that higher temperatures tend to accelerate the microbial decomposition of soil organic mater, thereby causing C loss (Giardina and Ryan,2OOo; Dorrepaal et al., 2O09). In contrast, other studies have suggested that warming can lead to a net gain of SOC by promoting the input of biomass into the soil such that it exceeds the increase in decomposition (Bond-Lamberty and Thomson,2O1O). In most cases, SOC and STN increase with decreasing temperature and increasing precipitation (He et al., 2O14; England et al.,2016; Zhang et al., 2O16). SOC and STN also change along elevation gradients,as different elevations are characterized by different climatic conditions (Tsui et al.,2O13). SOC generally increases with increasing elevation (Tsai et al., 2O10; Njeru et al.,2O17). In addition to climate, soil properties,such as pH (Ou et al.,2017),bulk density (Hossain et al.,2015; Chen et al., 2017), total phosphorus (Liu et al.,2O13; Tian et al.,2Ol7) and soil moisture content (Singh et al.,2011; Zhao et al., 2O16),are also strongly related to SOC and STN. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on these results,we hypothesize that the SOC and STN values vary among grassland types and decrease with decreasing elevation.Furthermore,the concentrations of SOC and STN are correlated with meteorological factors and soil properties.Meteorological factors are decisive factors in the distributions of SOC and STN,and the values of SOC and STN increase with decreasing temperature and increasing precipitation. Our objectives are to(1） estimate the concentrations of SOC and STN and their storages and distribution characteristics in different grassland types along an elevation gradient, and (2) assess the relationships between temperature, precipitation and soil properties and the concentrations of SOC and STN in this arid region. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Site description ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study area in Fuyun County $( 4 5 ^ { \\circ } 0 0 ^ { \\prime } - 4 8 ^ { \\circ } 0 3 ^ { \\prime } \\mathrm { N }$ ， $8 8 ^ { \\circ } 1 0 ^ { \\prime } { \\ - } 9 0 ^ { \\circ } 3 1 ^ { \\prime } \\mathrm { E } )$ is shown in Figures 1 and 2. It is located in a border region in the northern part of the Xinjiang Uygur Autonomous Region of China and extends from the southern foot of the Altai Mountains to northern margin of the Junggar Basin. The study area is $3 2 , 1 8 6 ~ \\mathrm { k m } ^ { 2 }$ ，with an elevation ranging from 317 to $3 8 6 3 \\mathrm { ~ m ~ }$ It lies in the semi-arid and arid climatic belt of the temperate climate zone,and has an annual mean temperature of $4 . 6 0 ^ { \\circ } \\mathrm { C }$ (2007-2O16) and a mean annual precipitation of $2 0 8 . 4 1 \\ \\mathrm { m m }$ (2007-2016). The Irtysh River and the Ulungur River originate from the Altai Mountains and flow through Fuyun County. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f552e03a691c34fcf9277066f07f2d12b40c6afb1c06ba19b8b5f421cda0e898.jpg",
+        "img_caption": [
+            "Fig.1Cross sectional diagram of the mountain-basin system landscape "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It encompasses complex landforms alternating between mountains and basins (Figs.1 and 2). Grassland is the main ecosystem type in this area, covering $8 7 . 4 6 \\%$ of the total area and grazing is the primary use of grasslands. There are ten types of grassland in Fuyun County according to the grassland resource classfication system in China: alpine steppe,alpine meadow, mountain meadow, temperate meadow steppe, temperate typical steppe, temperate steppe desert, temperate desert steppe,lowland meadow, temperate desert, and swamp. Nomads migrate among different grasslands at different elevations according to the seasons,to utilize grasslands with different conditions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1dd066aaf6b7cd99ca2075fe50fd9624d933b9a752f34061f456d2832213a0ae.jpg",
+        "img_caption": [
+            "Fig.2Location of the study area and plots in the mountain-basin system.AM,alpine meadow; MM,mountain meadow; TTS, temperate typical steppe; TSD, temperate steppe desert; TDS, temperate desert steppe. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2Sampling and measurement methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We investigated the grassland ecosystem in July 2O16 and established a transect from north to south. Our study was conducted along this transect across five natural grassland types: alpine meadow (AM), mountain meadow (MM), temperate typical steppe (TTS), temperate steppe desert (TSD),and temperate desert steppe (TDS) (Fig. 2). The spatial distances among the plots in AM, MM, TTS, TSD,and TDS were 12.47, 68.73, 39.31, and $3 8 . 6 1 \\mathrm { k m }$ ,respectively. The plots in AM, MM,TTS,TSD,and TDS were distributed along the elevation gradient, which decreased from 2432 to $7 7 2 \\mathrm { ~ m ~ }$ 、Four sampling plots( $( 1 0 ~ \\mathrm { m } { \\times } 1 0 ~ \\mathrm { m }$ ，with an interval of $5 0 0 { - } 1 0 0 0 ~ \\mathrm { ~ m } )$ were investigated in each grassland type. In each plot, three soil profiles with an S-shaped pattern were selected,and three quadrats of $1 \\ \\mathrm { m } { \\times } 1 \\ \\mathrm { m }$ were chosen to investigate the vegetation characteristics. We collected core samples from all depth intervals using stainless steel tubes with a volume of $1 0 0 \\ \\mathrm { c m } ^ { 3 }$ (5.1 cm height and $5 . 0 \\ \\mathrm { c m }$ diameter),to quantify bulk density. Soil samples were collected at 0-10,10-20 and $2 0 { - } 4 0 ~ \\mathrm { c m }$ layers, respectively. We recorded the vegetation species and the coverage of each species,and then harvested the aboveground biomass in each quadrat. Allaboveground parts (green parts and litter) of individual species were cut, collected, and placed into envelopes. We measured the biomass aboveground by weighing the aboveground parts of the plants after drying at $6 5 ^ { \\circ } \\mathrm { C }$ to a constant weight. The details of the plots are shown in Table 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The temperature and precipitation data were obtained from the China Meteorological Data Sharing Service System (http://dc.nmic.cn/home.do).To overcome the efects of extreme values in a single year and reflect the mean temperature and precipitation values from a long time series, we used the annual temperature and annual precipitation of 2Oo7-2O16 to calculate the ten-year mean annual temperature (MAT, in $^ { \\circ } \\mathrm { C }$ ）and mean annual precipitation (MAP,in mm） for the meteorological stations in Xinjiang Uygur Autonomous Region. To improve the accuracy of the calculation results,we referred to the regression tree method (Jing et al.，2O13),in which the latitudinal and longitudinal coordinates,and topographic elements are added to the climate data calculation. Therefore, we used the longitude (Lng,in °),latitude (Lat, in ) and altitude (Alt, in m) ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f214cfe11a938dc5535e0cfb4e688c79cb75a1223be2312a4acdb7613b810e85.jpg",
+        "table_caption": [
+            "Table1General conditions of the sampling plots "
+        ],
+        "table_footnote": [
+            "Note:Lng,logitue;Latlatide;Altide;Aeaaualpecipiati;Meaaltemperature;Alpido; MM,mountainmeadow;TTS,temperate typicalsteppe;TSD,temperate steppe desert;TDS,temperatedesertsteppe.Mean±SE. "
+        ],
+        "table_body": "<html><body><table><tr><td>Item</td><td>AM</td><td>MM</td><td>TTS</td><td>TSD</td><td>TDS</td></tr><tr><td>Lng (°)</td><td>89.45</td><td>89.41</td><td>89.75</td><td>89.28</td><td>89.00</td></tr><tr><td>Lat (°)</td><td>47.61</td><td>47.57</td><td>46.97</td><td>46.84</td><td>46.55</td></tr><tr><td>Alt (m)</td><td>2432</td><td>2066</td><td>1414</td><td>985</td><td>772</td></tr><tr><td>MAP (mm)</td><td>394.15</td><td>359.42</td><td>277.06</td><td>227.32</td><td>209.80</td></tr><tr><td>MAT (C)</td><td>-3.55</td><td>-1.71</td><td>2.23</td><td>5.01</td><td>5.88</td></tr><tr><td>Zonal soil</td><td>Alpine meadow soil</td><td>Mountain meadow soil</td><td>Chestnut soil</td><td>Brown calcic soil</td><td>Grey-brown</td></tr><tr><td>Grazing season</td><td>Summer</td><td>Summer</td><td>Spring/Autumn</td><td>Winter</td><td>desert soil Winter</td></tr><tr><td>Average overage</td><td>65-85</td><td>75-90</td><td>30-60</td><td>10-30</td><td>15-30</td></tr><tr><td>Aboveg(g/md)</td><td>129.11±8.21</td><td>160.35±7.23</td><td>108.56±9.54</td><td>76.9±8.65</td><td>73.55±10.78</td></tr><tr><td rowspan=\"5\">Dominant species</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Fest Poa alpneusp.</td><td>Tifolamm</td><td>Stipa capillata</td><td> geriphidum</td><td>Stipea sgregtana</td></tr><tr><td>Kobresiabellardii</td><td>Poa angustifolia</td><td>Festuca ovina</td><td>Stipa glareosa</td><td>borotalense</td></tr><tr><td>Carexstenocarpa</td><td></td><td>Spiraea media</td><td>Seriphidium</td><td></td></tr><tr><td>Polygonum viviparum</td><td>Carex buekii Alchemilla pinguis</td><td>Caragana pumila</td><td>Ceraroidra bateens</td><td>Stipa glareosa Kochia prostrate</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "of 54 meteorological stations (with elevations ranging from 34.5 to $3 5 0 4 . 4 \\mathrm { ~ m } \\mathrm { } ,$ in the Xinjiang Uygur Autonomous Region to establish a regression equation with temperature and precipitation. We then employed the regression equation to estimate the MAT and MAP for the five plots. The MAT and MAP values were calculated using the following formulas: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SOC and STN were determined using a TOC-Analyzer (Multi N/C 31O0, Analytik Jena AG, Germany)and the modified Kjeldahl method (Bao,2Oo5), respectively. The soil available $\\mathbf { N }$ (AN) concentration was measured via the alkali diffusion method (Bao,2Oo5). Soil total phosphorus (STP）was fused with sodium hydroxide,and the concentration was determined via Mo-Sb colorimetry. Soil pH (pH) was determined at a soil-water ratio of 1:2.5 (w:v) with a $\\mathrm { p H }$ meter (SG2, Metler Toledo, Switzerland). Soil bulk density (BD) was measured with a soil wreath knife (Bao,2005). The soil moisture content (SMC) was measured via the oven method. SOC storage $( \\mathrm { t } / \\mathrm { h m } ^ { 2 } )$ and STN storage $( { \\mathrm { t / h m } } ^ { 2 } )$ were calculated as follows (Xie et al., 2007): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S O C \\ s t o r a g e { = } } \\sum _ { i } ^ { m } ( 1 - \\theta \\% ) \\mathrm { S O C } _ { i } \\times B _ { i } \\times D _ { i } \\times 0 . 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S T N \\ s t o r a g e { = } } { \\sum } _ { i } ^ { m } ( 1 - \\theta \\mathcal { I } _ { O } ) \\mathrm { S T N } _ { i } \\times B _ { i } \\times D _ { i } { \\times } 0 . 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $S O C _ { i }$ ，STNi, $B _ { i }$ and $D _ { i }$ are the SOC concentration $( { \\bf g } / { \\bf k g } )$ ， STN concentration $( { \\mathrm { g } } / { \\mathrm { k g } } )$ ，bulk density $( \\mathrm { g } / \\mathrm { c m } ^ { 3 } )$ ，and thickness (cm） of the $i ^ { \\mathrm { t h } }$ layer，respectively. The percentage of rock fragments $> 2 ~ \\mathrm { m m }$ was $\\theta \\%$ . The total volume of rock fragments accounted for far less than $10 \\%$ for all samples and had a negligible effect in the calculations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The data followed a normal distribution based on the normality test. One-way analysis of variance (ANOVA) and the least significant difference (LSD) test were used to analyze the diferences in soil properties among the five grassland types.The analyses were performed using SPSS, version 20.0 (IBM, Chicago, IL, USA). The correlations between SOC and STN, meteorological factors and soil properties were calculated using Pearson's correlation,and graphs were drawn using R (version 3.2.2). Redundancy analysis (RDA) is an alternative to canonical correlation analysis and alows the relationships between two sets of $X$ and $Y$ variables to be examined. Statistical significance was tested via the Monte Carlo permutation method. We used the RDA method to investigate the proportion of the variability in SOC and STN that can be explained by environment variables. The eigenvalues are proportional to the total variance explained by each axis and which are extracted from soil variables as linear combinations of environment attributes (Leps and Smilauer, 1988). RDA was performed using Canoco 4.5 software.In addition, we applied a general linear model (GLM) to assess the integrative effects of meteorological factors on the distribution of SOC and STN concentrations, which was performed in SPSS,version 20.O (IBM, Chicago,IL, USA). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Concentrations and storages of SOC and STN in different grassland types ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the concentrations of SOC and STN in different soil layers in different grassland types.The SOC concentrations in each soil layer showed a decreasing trend from AM, MM, TTS, TSD to TDS (Fig. 3a). The STN concentrations showed a similar decreasing trend, except for MM at the soil depth of $0 { - } 1 0 ~ \\mathrm { c m }$ (Fig.3b).SOC and STN concentrations both decreased with depth in all grassland types except TDS (Fig. 3). The SOC and STN concentrations in AM, MM, TTS and TSD were significantly higher at the $0 { - } 1 0 ~ \\mathrm { c m }$ depth than at the 1O-2O and $2 0 { - } 4 0 ~ \\mathrm { c m }$ depths (Fig.3). In the full examined soil layer $\\left( 0 { - } 4 0 \\ \\mathrm { c m } \\right)$ ，the SOC and STN concentrations decreased from AM to TDS among the five grassland types with decreasing elevation, with SOC values of 44.77, 35.85, 8.49, 5.89 and $2 . 2 6 ~ \\mathrm { g / k g }$ (Fig. 4a) and STN values of 4.40, 4.27, 0.99, 0.51 to $0 . 1 5 ~ \\mathrm { g / k g }$ ,respectively (Fig. 4b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/862f4860ed295c407c1e7c839adfcbcd13b7328060de62e2dfdb71075abd45fc.jpg",
+        "img_caption": [
+            "Fig.3Soil organic carbon concentrations (SOC,a)and soil total nitrogen concentrations (STN,b)in different soil layers in diferent grassand types.AM,alpine meadow;MM,mountain meadow; TTS,temperate typical steppe; TSD,temperate steppe desert; TDS,temperate desert steppe.Bars mean standard erors and the bars labeled with different letters (a,bandcfor diferent soil layers in the same grassland type,and A,B,Cand D for the same soil layer in different grassland types) differ significantly $( P { < } 0 . 0 5 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9050d7aed24221074df053005e0c187d7537d2d8e007b7f834d58e6d4d8b9d46.jpg",
+        "img_caption": [
+            "Fig.4Soil organic carbon concentrations (SOC,a) and soil total nitrogen concentrations (STN,b)at adepth of $0 { \\ - } 4 0 \\ \\mathrm { c m }$ in different grassland types.AM,alpine meadow;MM, mountain meadow; TTS,temperate typical steppe; TSD,temperate steppe desert; TDS,temperate desert steppe.Bars mean standard erors and the bars labeled with diferent lowercase letters represent significant differences among different grassland types $( P { < } 0 . 0 5 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The storages of both SOC and STN decreased from AM to TDS. The SOC and STN storage values were significantly higher in AM and MM than in TTS,TSD and TDS in all soil layers (Table 2). In the $0 { - } 2 0 ~ \\mathrm { c m }$ layer, the SOC storages of AM,MM, TTS,TSD and TDS accounted for $56 . 3 \\%$ ， $6 0 . 9 \\%$ ， $6 0 . 8 \\%$ ， $5 9 . 1 \\%$ and $4 3 . 2 \\%$ , and STN storages accounted for $5 8 . 1 \\%$ ， $6 3 . 7 \\%$ ， $5 9 . 4 \\%$ ， $56 . 5 \\%$ and $4 5 . 9 \\%$ , respectively, of the total SOC and STN storages in the entire examined soil layer $( 0 { - } 4 0 ~ \\mathrm { c m } )$ (Table 2). Therefore,the SOC and STN storage values were greater in the 0-20 cm layer than in the $2 0 { \\ - } 4 0 \\ \\mathrm { c m }$ layer, except in TDS. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/333ead16d97f66b05804eaced667ed8baf56c6c2547ba943d5e9fd1b19da0b27.jpg",
+        "table_caption": [
+            "Table 2SOC storage and STN storage at different soil depths under different grassland types "
+        ],
+        "table_footnote": [
+            "Note:SOC,slgaicarbo;STsltotalroge.A,linemeado;,outainmeado;,peatetyice; TSD,temperate steppe desert;TDS,temperate desert steppe.The values are the mean $\\scriptstyle 1 \\pm \\mathrm { S E }$ and different lowercase letters within the same row represent significant differences among different grassland types $( P { < } 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Depth (cm)</td><td>AM</td><td>MM</td><td>TTS</td><td>TSD</td><td>TDS</td></tr><tr><td></td><td>0-10</td><td>65.00±18.07a</td><td>43.18±12.05b</td><td>14.96±3.59c</td><td>12.41±2.71c</td><td>3.54±1.39d</td></tr><tr><td>SOC</td><td>10-20</td><td>52.66±17.97a</td><td>46.17±12.22a</td><td>11.59±2.22b</td><td>9.95±2.72b</td><td>3.58±1.29b</td></tr><tr><td>(t/hm2)</td><td>20-40</td><td>91.18±30.57a</td><td>57.29±10.34b</td><td>17.13±4.21c</td><td>15.48±6.43c</td><td>9.35±10.84c</td></tr><tr><td></td><td>0-40</td><td>208.83±43.84a</td><td>146.64±27.01b</td><td>43.68±7.24c</td><td>37.84±6.44c</td><td>16.47±9.76d</td></tr><tr><td></td><td>0-10</td><td>6.57±1.09a</td><td>5.86±1.51a</td><td>1.81±0.84b</td><td>1.07±0.19b</td><td>0.23±0.06c</td></tr><tr><td>STN</td><td>10-20</td><td>5.15±1.28a</td><td>4.92±1.32a</td><td>1.26±0.18b</td><td>0.83±0.19bc</td><td>0.27±0.05c</td></tr><tr><td>(t/hm2)</td><td>20-40</td><td>8.44±3.09a</td><td>6.14±1.51b</td><td>2.10±0.74c</td><td>1.46±0.73cd</td><td>0.59±0.19d</td></tr><tr><td></td><td>0-40</td><td>20.16±4.17a</td><td>16.92±3.16b</td><td>5.17±1.65c</td><td>3.36±0.79c</td><td>1.09±0.22d</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Soil properties of different grassland types ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The SMC values of AM,MM,TTS,TSD and TDS were $2 0 . 6 8 \\%$ ， $2 8 . 2 5 \\%$ ， $8 . 1 5 \\%$ ， $5 . 1 8 \\%$ and $2 . 2 7 \\%$ , respectively. The SMC values in the $\\textstyle 0 - 4 0 \\ { \\mathrm { c m } }$ layer decreased with decreasing elevation from AM to TSD, except in MM (Fig. 5a). The BD in the $\\textstyle 0 - 4 0 \\ { \\mathrm { c m } }$ layer increased from AM to TDS with decreasing elevation, except in MM (Fig. 5b). The BD values of AM, MM, TTS, TSD, and TDS were 1.25,1.15,1.37,1.70 and $1 . 7 4 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ ,respectively. The $\\mathsf { p H }$ values of AM, MM, TTS，TSD，and TDS were 4.77，5.02， 7.94，8.61，and 8.33，respectively (Fig. 5c). The concentration of AN was highest in MM ( $2 8 3 . 8 3 ~ \\mathrm { m g / k g ) }$ and decreased from AM to TTS, TSD and TDS (Fig. 5d). The STP concentrations for the five grassand types were 0.48, O.42, 0.60, 0.53,and $0 . 3 6 ~ \\mathrm { g / k g }$ ,respectively (Fig. 5e). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/748c6f093f0d627d139dbb35eaefe8c94f595481d44a2037b8ee5deac0492e6a.jpg",
+        "img_caption": [
+            "Fig.5Soil properties of different grassland types.Bars mean standard errors and the bars labeled with diferent lowercase letters differ significantly $_ { ( P < 0 . 0 5 ) }$ . SMC,soil moisture content; BD,bulk density; pH, pH value; AN, available nitrogen;STP,soil total phosphorus；AM,alpine meadow;MM,mountain meadow;TTS,temperate typical steppe; TSD, temperate steppe desert; TDS, temperate desert steppe. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Correlations among meteorological factors, soil properties and the concentrations of SOC and STN ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pearson's correlation showed close relationships among the SOC and STN concentrations, meteorological factors and soil properties (Fig. 6). The SOC and STN concentrations exhibited significant positive correlations with MAP( $\\scriptstyle \\cdot = 0 . 9 3 3$ ， $P { < } 0 . 0 1$ ：， $r { = } 0 . 9 3 8$ ， $P { < } 0 . 0 1$ , respectively),AN 0 $_ { \\cdot = 0 . 9 0 5 }$ ， $P { < } 0 . 0 1$ ：， $\\scriptstyle r = 0 . 9 4 8$ ， $P { < } 0 . 0 1$ ，respectively） and SMC( $_ { \\cdot = 0 . 8 7 5 }$ ， $P { < } 0 . 0 1$ ：， $r { = } 0 . 9 2 2$ ， $P { < } 0 . 0 1$ ， respectively） and negative correlations with MAT( $r = \\ - 0 . 9 2 8$ ， ${ P \\mathrm { < } } 0 . 0 1$ ； $r = ~ - 0 . 9 3 3$ ， $P { < } 0 . 0 1$ ， respectively), $\\mathrm { \\ p H }$ 0 $\\stackrel { \\cdot } { r } = - 0 . 9 3 1$ ， $P { < } 0 . 0 1$ $r = - 0 . 9 4 6$ ， $P { < } 0 . 0 1$ ，respectively）and BD（ $\\prime = - 0 . 8 0 9$ ， $P { < } 0 . 0 1$ ：， $r = - 0 . 8 4 6$ ， ${ P \\mathrm { { < } } } 0 . 0 1 \\$ ，respectively). The SOC concentrations were also highly correlated with the STN concentrations ( $_ { r = 0 . 9 7 7 }$ ${ P \\mathrm { { < } } } 0 . 0 1 \\$ ) (Fig. 6). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/23fb274a2b2cdf2158e7f6e21ba6dd8161d290a2fc7c3634795f9ae168a666ac.jpg",
+        "img_caption": [
+            "Fig.6Correlation diagram of SOC and STN concentrations，meteorological factors，and soil properties measured in the $0 { \\ - } 4 0 ~ \\mathrm { c m }$ soil layer. The figure shows the correlation coefficients,and the colored solid circles represent significant correlations $_ { ( P < 0 . 0 5 ) }$ ．SOC,soil organic carbon;STN,soil total nitrogen；STP,soil total phosphorus; AN,available nitrogen; pH, pH value; BD,bulk density; SMC,soil moisture content; MAT, mean annual temperature; MAP, mean annual precipitation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,the RDA method was employed to assess the factors that best explained the variability in the SOC and STN concentrations. Seven environmental factors were selected for further RDA analysis after a unified treatment of different types of data. The MAP and MAT represent the meteorological factors，and five other factors (AN，STP, BD, $\\mathrm { \\ p H }$ ，and SMC) represent the soil properties. The RDA ordination accurately reflected the relationships among SOC，STN and the environmental factors,which yielded the canonical coefficients of the environmental factors for the two axes (Fig.7； Table 3). The Monte Carlo permutation test showed that the eigenvalues for the first and second axes accounted for $9 2 . 5 \\%$ of the variation in SOC and STN $( P { < } 0 . 0 1$ ; Table 3). Axis 1 was positively correlated with AN, SMC,and MAP and negatively correlated with $\\mathrm { \\ p H }$ ，BD，MAT and STP. Axis 2 was positively correlated with AN, SMC,MAP and STP, but negatively correlated with the other impact factors (Table 3; Fig.7). The correlations and eigenvalues resulting from the RDA ordination, indicated that the MAP and MAT appeared to be the main regulators of the variation in the SOC and STN concentrations (MAP: $r _ { \\mathrm { a x i s 1 } } { = } 0 . 9 4$ ， and MAT: $r _ { \\mathrm { a x i s 1 } } { = } - 0 . 9 3$ ， $\\scriptstyle P = 0 . 0 0 2$ ； Table 3).However, the effects of these two factors on the SOC and STN concentrations need to be further discussed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Moreover, we applied a GLM to assess the integrative effects of meteorological factors on the variation in the SOC and STN concentrations and determined the amount of the variability that could be explained by MAT and MAP separately. The results showed that MAP and MAT together explained $9 7 . 8 5 \\%$ and $9 8 . 3 8 \\%$ of the overall variation in SOC and STN concentrations, respectively,in the $0 { - } 4 0 ~ \\mathrm { c m }$ soil layer. MAP,as the most important meteorological factor, explained $5 4 . 8 3 \\%$ and $5 4 . 7 9 \\%$ of the variation in SOC and STN concentrations,respectively, in the $\\textstyle 0 - 4 0 \\mathrm { c m }$ soil layer (Table 4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c29ad9199cedce33b1069e8a11154e66b97d5af3d504169827fa33325a8a1fcd.jpg",
+        "img_caption": [
+            "Fig.7Redundancy analysis (RDA) ordination diagram for soil organic carbon (SOC) and soil total nitrogen (STN) concentrations and environmental factors for the $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ soil layer. The numbers 1,2,3,4 represent the plots in AM;5,6,7,8represent the plots inMM; 9,10,11,12 represent the plots inTTD;13,14,15,16reprsent the plots in TSD; and17,18,19,20 represent the plots in TDS.AN,avalable nitrogen; pH,pHvalue; BD,bulk density; SMC,soil moisture content; MAT, mean annual temperature; MAP, mean annual precipitation; STP,soil total phosphorus. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/981421fc2bbb3ae677b4be75ffeb9aee2bc918a1ade494f048af4a85c169dbda.jpg",
+        "table_caption": [
+            "Table3Canonical coefcients of environmental factors with the first two axes of the redundancy analysis "
+        ],
+        "table_footnote": [
+            "Note:AN,availablenitrogenconcentration；pH,pHvalue;BD,bulkdensity；SMC,soilmoisturecontent；MAT,anualmean temperature;MAP,mean annual precipitation; STP, soil total phosphorus. "
+        ],
+        "table_body": "<html><body><table><tr><td>Impact factors</td><td>Axis 1</td><td>Axis 2</td></tr><tr><td>AN</td><td>0.91</td><td>0.18</td></tr><tr><td>pH</td><td>-0.93</td><td>-0.06</td></tr><tr><td>BD</td><td>-0.81</td><td>-0.16</td></tr><tr><td>SMC</td><td>0.88</td><td>0.21</td></tr><tr><td>MAP</td><td>0.94</td><td>0.10</td></tr><tr><td>MAT</td><td>-0.93</td><td>-0.01</td></tr><tr><td>STP</td><td>-0.12</td><td>0.02</td></tr><tr><td>Eigenvalues</td><td>0.90</td><td>0.024</td></tr><tr><td>Cumulative percentage of variance</td><td>90.1</td><td>92.5</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a3cee4bf32ff7a875894e321cec9574c6296feb5d34bce96a485a4ddca59441.jpg",
+        "table_caption": [
+            "Table 4Effects of MAP and MATon SOC and STN concentrations in the $\\textstyle 0 - 4 0 \\mathrm { c m }$ layer "
+        ],
+        "table_footnote": [
+            "Note:MAP,meaaualprecipitatio;,analtmpeature;OC,soilanicbon;,oiltotalitrogenfee of freedom; MS,mean squares; $S S \\%$ ,proportion of variance explained by the variable;the presented results were obtained from GLM analysis. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Parameter</td><td colspan=\"3\">SOC</td><td colspan=\"3\">STN</td></tr><tr><td>df</td><td>MS</td><td>SS%</td><td>df</td><td>MS</td><td>SS%</td></tr><tr><td>MAP</td><td>1</td><td>850.56</td><td>54.83</td><td>1</td><td>10.98</td><td>54.79</td></tr><tr><td>MAT</td><td>1</td><td>667.34</td><td>43.02</td><td>1</td><td>8.73</td><td>43.59</td></tr><tr><td>Residuals</td><td>57</td><td>33.42</td><td>2.15</td><td>57</td><td>0.36</td><td>1.62</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1SOC and STN variations among grassland types and soil depths ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In our study， we investigated the concentrations and storages of SOC and STN in different grassand types in the MBS of Fuyun County， Xinjiang,China. Estimates of SOC and STN storages at the regional scales commonly use vegetation type as a reference (Yimer et al., 2006). Vegetation is the primary source of SOC and STN and can significantly affect the SOC and STN concentrations through variations in the quantity and quality of the organic matter input into the soil, resulting in variations in SOC and STN concentration and storage values (Podwojewski et al., 2011; Tsui et al., 2O13). The grasslands of AM and MM primarily consist of gramineous species and leguminous species grasses with relatively high aboveground biomass, representing relatively high grassland productivity. In contrast, the grassland of TTS primarily consists of short grasses and semi-shrubland species grasses,which feature moderate aboveground biomasses and the vegetation of the TSD and TDS grasslands,are primarily semi-shrubland species grasses and bunchgrasses with low aboveground biomasses (Table 1). The shifts in aboveground biomass and constitutive species from AM to TDS (i.e., from higher elevation to lower elevation) was likely responsible for the variation in the C and $\\mathbf { N }$ inputs from plant biomass to the soils(Wynn et al., 2006). Therefore,the SOC and STN concentrations and storages decreased from AM to TDS in each of the investigated soil layers,except for the STN concentration in the $0 { - } 1 0 ~ \\mathrm { c m }$ layer. The STN concentration at $0 { - } 1 0 ~ \\mathrm { c m }$ layer in MM was higher than that in AM,possibly due to the vegetation species composition. In addition to the gramineous species,leguminous species (Trifolium incarnatum), which are able to fix N, were present in MM. The SOC and STN storage values for $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ decreased from AM (208.83 and $2 0 . 1 6 ~ \\mathrm { t / h m ^ { 2 } }$ ,respectively),MM(146.64 and $1 6 . 9 2 ~ \\mathrm { t / h m } ^ { 2 }$ ,respectively), TTS (43.68 and $5 . 1 7 ~ \\mathrm { t / h m } ^ { 2 }$ ,respectively), TSD (37.84 and $3 . 3 6 ~ \\mathrm { t / h m } ^ { 2 }$ respectively) to TDS（16.47 and $1 . 0 9 \\mathrm { t } / \\mathrm { h m } ^ { 2 }$ ,respectively) in our study,which is in agreement with the overall decreased trend in China (in which the median soil C storage values in alpine meadow, alpine steppe, temperate typical steppe, temperate deserted steppe and temperate desert are 182, 170, 123, 87 and $6 2 ~ \\mathrm { t / h m } ^ { 2 }$ ,respectively,at soil depths of $0 { \\mathrm { - } } 1 0 0 \\ \\mathrm { c m }$ (Ni, 2001). Yang et al. (2007) estimated the SOC storages in five biomes in China and showed the same decreased trend (meadow $\\mathrm { > }$ steppe>desert). Liu et al. (2O12) observed that the SOC and STN storage values in alpine meadow (87.O and $8 . 1 ~ \\mathrm { t } / \\mathrm { h m } ^ { 2 }$ ,respectively） were higher than in desert steppe(7O.9 and 9.9 $\\mathrm { t } / \\mathrm { h m } ^ { 2 }$ ,respectively) and desert (43.9 and $6 . 8 ~ \\mathrm { t / h m } ^ { 2 }$ ,respectively) in the upper1-m soil layer on the QTP.However, due to spatial heterogeneity in the soil, the SOC and STN storage values in our studied grassland types were different than those in other regions. Although the grassland types were between our study and other studies,the soil types and climate conditions were very different, both of which play important roles in determining the SOC storage distributions (Liu et al., 2012). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Our results showed that, except in TDS, the SOC and STN concentrations decreased with depth (Fig. 3),and that total SOC and STN storage values in the O-1O and $1 0 { - } 2 0 ~ \\mathrm { c m }$ soil layers were higher than in the $2 0 { - } 4 0 ~ \\mathrm { c m }$ layer (Table 2). This finding is in agreement with other observations made on the QTP (Yang et al., 201O) and in other ecosystems (Zhang et al., 2013; Dorji et al., 2014). Topsoil is more readily affected by littr falling on the soil surface.The C and N inputs to the subsoil primarily depend on the migration of C and $\\mathrm { \\bf N }$ from the topsoil to subsoil. In our study area,AM and MM usually exhibited thick humus,which is considered to represent the most important soil C sink (Velichko et al.,2OlO).However, this situation was not observed in TDS. The $2 0 { - } 4 0 ~ \\mathrm { c m }$ soil layer in TDS showed the higher SOC and STN concentrations and storages values.Liu et al. (2O12) previously observed the same trend in the desert steppe of the QTP. These results might be related to the scarcity of plants and low plant coverage on the surface in TDS,resulting in a low C input. Additionally, SOM decomposition in the topsoil is enhanced by the relatively higher temperatures in the topsoil than in the subsoil. The low plant coverage and high temperature also result in less soil moisture in the topsoil. Some studies have shown that low soil moisture was advantageous for the allocation of biomass belowground (Gansert, 1995). Another possible reason is the frequently observed high sediment input, where fine sand and silts have been deposited on surface, frequently burying the humic horizons of earlier soil formation beneath fresh sediment (Liu etal., 2012). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2SOC and STN relationships with meteorological factors ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The concentrations and storages of SOC and STN decreased with decreasing elevation throughout the entire $4 0 \\ \\mathrm { c m }$ soil profile (Fig. 4; Table 2), similar to the findings of previous studies in other regions (Garten and Hanson, 2OO6; Podwojewski et al., 2O11). Previous study showed that MAP was positively correlated with SOC and STN concentrations，while MAT was negatively correlated. Our results are also consistent with those of previous studies conducted at a global scale (Ganuza and Almendros,2OO3; Wang et al., 2O1O). However, there is a lack of consensus at the regional scale. Yang et al. (2O1O) found that SOC concentration increased with MAT in Tibetan grasslands, while our study showed that the SOC and STN concentrations decreased with MAT, but were significantly and positively correlated with MAP (Figs. 6 and 7). In Fuyun County, differences in temperature and precipitation were observed among different elevations. Our results indicated that the variations in MAP and MAT along the elevation gradient controlled the SOC and STN concentrations (Fig. 7; Table 3). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The temperature and precipitation affect the SOM input from different vegetation species litter production, as well as the output through decomposition and mineralization (Giardina and Ryan, 2000). At high elevations,higher levels of precipitation can result in an increase in plant biomass, thus further resulting in greater organic matter and nitrogen input. In addition, the decomposition and mineralization of SOM are inhibited in low temperature environments,resulting in the accumulation of soil C and $\\mathbf { N }$ (Tsai et al., 2O1O). In contrast, in low-elevation areas in arid regions, the higher temperature reduces the water use efficiency of plants by increasing evapotranspiration (Lal, 2004). Hence, the water deficit induced by higher temperatures and lower precipitation may restrict plant growth. Furthermore, the higher decomposition and mineralization rates resulting from the higher temperatures may accelerate the decrease in SOC and STN concentrations (Simmons et al.，1996). This effect was significant in Fuyun County，an arid region，since vegetation growth is mainly limited by natural precipitation (Liu et al.,2O13). The GLM analysis suggested that precipitation explained a higher proportion of the distribution of SOC and STN concentrations than temperature (Table 4). These results imply that precipitation is a limiting factor for vegetation growth and vegetation productivity in the examined arid grassland ecosystem, as a small increase in the precipitation may significantly increase the productivity of vegetation, thus contributing to the accumulation of SOC and STN concentrations (Jobbagy and Jackson，2OoO；Callesen et al.，2O03). The results showed that the differences in the climate conditions, such as temperature and precipitation,caused by the differences in elevation are the most important environmental factors affecting the spatial heterogeneity of SOC and STN. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To simply estimate SOC and STN concentrations in arid regions with a MBS structure, we established predictive models for SOC and STN concentrations based on MAP (in mm) and MAT (in $^ { \\circ } \\mathbf { C }$ ). The predictive models for the SOC and STN concentrations are as follows: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The equations effectively fit the relationships between the meteorological factors and the SOC and STN concentrations, with $R ^ { 2 }$ values of 0.904 and 0.919, respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3SOC and STN relationships with soil properties ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The C cycle is closely linked with the $\\mathbf { N }$ cycle through production and decomposition (Liu, 2001). Our results also showed that the STN concentration presented a significant positive correlation with the SOC concentration in the $\\textstyle 0 - 4 0 \\ { \\mathrm { c m } }$ soil layer of the different grassland types (Fig.6) because the main $\\mathbf { N }$ sources were litter,animal residue, biological nitrogen fixation,and organic matter (Bai et al., 2001). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AN was found to be positively correlated with SOC and STN in the present study (Fig. 6). The AN included the inorganic $\\mathbf { N }$ derived via the mineralization of SOM (Hodge et al.,2OoO） and organic $\\mathbf { N }$ derived via the decomposition of SOM (Kielland,1994). Therefore,a high SOM concentration usually is associated with high SOC, STN,and AN concentrations. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our results indicated that SMC was positively correlated with SOC and STN (Fig. 6). This conclusion agrees well with the findings of previous studies (Sun and Wang,2O16; Wang et al., 2016).The anoxic decomposition of SOM tends to be inhibited under higher SMC conditions, resulting in the accumulation of SOC. Moreover, SMC also affects N,as a higher SMC can limit soil microbial activities， producing an environment unfavorable to the mineralization and decomposition of soil organic nitrogen (Bai et al., 2004; Zhao et al.，2O16). Therefore,a high SMC can lead to a high STN concentration. In our study, the SMC in the $\\textstyle 0 - 4 0 \\mathrm { c m }$ layer decreased from AM to TDS with decreasing elevation, with the exception of MM (Fig. 5a). MM might not follow the general trend because it was located in a valley and the Irtysh River flowed through the sites.The slope of the riverbed was small,the riverbed was broad,the runoff was large,and the current velocity was low. In addition, the underground water level was high. Therefore,the SMC was higher in MM. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We found that soil $\\mathrm { p H }$ exhibited a significant negative correlation with SOC and STN (Fig. 6). This finding is in agreement with the conclusions of other studies (Njeru et al., 2O17; Ou et al., 2017). Soil $\\mathsf { p H }$ influences SOC and STN by regulating the microbial structure, function and activities (Bai et al.，2OO2). The decomposition of SOM is inhibited at lower $\\mathrm { \\ p H }$ values and accelerated at higher pH values (Motavalli et al.，1995). The SOC, STN,and $\\mathrm { p H }$ interact with each other via meteorological factors. Cui et al.(2Oo5） reported that topsoil $\\mathrm { p H }$ is closely correlated with precipitation at a large spatial scale in arid areas. Our results indicated that the $\\mathrm { p H }$ was significantly negatively correlated with MAP (Fig. 6). Hence, high precipitation resulted in increases in SOC and STN (Figs. 6 and 7), as well as in the root systems of plants. Consequently, more carbonic and organic acids were produced by root exudation and soil respiration, which could be responsible for the decrease in pH. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "BD was significantly negatively correlated with SOC and STN concentrations in the $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ soil layer (Fig. 6).This relationship has also been recognized by other studies (Zhang et al., 2016; Njeru et al.，2O17). The SOC and STN concentrations were negatively correlated with BD, possibly because the mineralization of SOC and the nitrification of ammonium nitrogen were suppressed in soils with high BD values (De Neve and Hofman, 2Oo0).A low BD soil can store more SOC and STN,as SOC and STN can be mobilized in porous spaces within the soil matrix (Anh et al.,2O14). Furthermore,higher levels of biomass can produce more soil nutrients via decomposition processes,and the soil BD was negatively correlated with soil nutrients.Lister et al.(2004） also reported that BD can be influenced by root development and soil microbial activities and would decrease under higher nutrient levels because of the creation of more and larger soil pores.In addition, the BD in the $0 { \\ - } 4 0 \\ \\mathrm { c m }$ layer increased from AM to TDS with decreasing elevation, except in MM (Fig. 5b). The aboveground biomass was highest in MM,and there was a thick layer of humus in the surface soil due to the abundance of litter and roots, which resulted in a loose and porous structure (and thus a lower BD) for the soil in MM. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "STP was not correlated with SOC and STN in our study (Fig. 6), similar to the findings of previous studies in other regions (Gao et al., 2O16; Hu et al.,2O18).P is primarily derived from rocks and its poor mobility results in a relatively high independence from other nutrients. Hence, its spatial distribution is highly heterogeneous.The factors that influence the STP patterns are usually quite complex.In addition to the soil parent material, the climate and biota also play important roles (Gao et al., 2Ol6). Although STP concentrations have been reported to associated with SOM (Vincent et al.，2010; Camargo et al.， 2013)， the STP concentrations in our study showed no significant correlation with the SOC or STN concentrations. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our results accurately reflect the characteristics of the concentration and storage values of SOC and STN in different grassland types along an elevation gradient, as well as their relationships with meteorological factors and soil properties. The present study is an effective complement to the available data on regional SOC and STN concentrations and storages estimates in grasslands in arid regions with a MBS structure. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In Fuyun County, SOC and STN were found to vary significantly with the grassland type. Our results indicated that the SOC and STN concentration and storage values in the $\\textstyle 0 - 4 0 \\mathrm { c m }$ soil layer decreased in the five investigated grassland types along a decreasing elevation gradient and also decreased with increasing soil depth, except in TDS. The SOC and STN concentration and storage values of different grassland types in Fuyun County presented obvious vertical zonality characteristics.The results of Pearson's correlation and RDA analysis showed that the SOC and STN concentrations in the $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ soil layer were significantly positively correlated with MAP, SMC and AN and negatively correlated with MAT, pH and BD. The SOC and STN concentrations were significantly affected by meteorological factors.MAP and MAT together explained $9 7 . 8 5 \\%$ and $9 8 . 3 8 \\%$ of the overall variations in the SOC and STN concentrations,respectively, in the $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ soil layer.Moreover, MAP explained $5 4 . 8 3 \\%$ and $5 4 . 7 9 \\%$ of the variations in the SOC and STN concentrations in the $\\textstyle 0 - 4 0 \\ { \\mathrm { c m } }$ soil depth,respectively. Our results demonstrated that precipitation and temperature are simple and effective predictors of the SOC and STN concentration and storage values in grasslands in arid regions with a MBS structure. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Science and Technology Support Program of China (2014BAC15B04).The authors are grateful to all of the staff at the Fuyun Grassland Ecology Station for their assistance in site selection and field measurements.We would also like to thank GUO Jia for his helpful comments on this manuscript. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Anh PTQ,Gomi T,MacDonaldLH,etal.2O14.Linkagesamong landuse,macronutrientlevels,andsoil erosionin northen Vietnam: a plot-scale study. Geoderma,232-234: 352-362.   \nBai JH,Deng W,ZhangYX.2Oo1.Spatialdistributionofnitrogenand phosphorus insoilof Momoge Wetland.Journalof Soil and Water Conservation,15(4): 79-81.(in Chinese)   \nBai JH,Deng W,ZhuYM,etal.2OO2.Comparactive studyonthedistributioncharacteristicsofsoilorganic matterandtotal nitrogen in wetlands-Acase studyof Xianghai and Horqin nature reserve.Scientia Geographica Sinica,22(2):232-237.(in Chinese)   \nBaiJH,Deng W,ZhuYM,etal.2O04a.Spatialvariabilityof nitrogeninsoils from land/inland water ecotones. Communications in Soil Science and Plant Analysis,35(5-6): 735-749.   \nBaiYF,HanXG,WuJG,etal.24bEcosystemstabilityandcompensatoryefects intheInnerMongoliagrassland.Nature, 431(7005): 181-184.   \nBao S D.2Oo5. Soil Chemical Analysis of Agriculture ( $3 ^ { \\mathrm { r d } }$ ed.).Beijing: Chinese Agriculture Press,42-58.(in Chinese)   \nBond-LambertyB,ThomsonA.2Ol0.Temperature-assciated increases inthe globalsoilresprationrecordNature,464(7288): 579-582.   \nCalesenI,LiskiJ,aulund-RasmussnK,etal.O.oilcarbonstoresinNordicellrainedforestsilselatioipith climate and texture class.Global Change Biology, 9(3): 358-370.   \nCamargoLA,JuniorJM,PereiraGT,etal.2Ol3.Spatialcorelationbetweenthecompositionofteclayfractionandcotents of available phosphorus of an Oxisol at hillslope scale.CATENA,1Oo:1O0-106.   \nChang XF,Zhu X X,Wang SP,etal.2014.Impactsof management practices on soil organiccarbon in degraded alpine meadows on the Tibetan Plateau.Biogeosciences,11(13):3495-3503.   \nChen LT,JingX,FlynnDFB,etal2017b.Changesofcarbon stocksinalpine grassand soils from2002to2011on the Tibetan Plateau and their climatic causes.Geoderma,288:166-174.   \nChenY,HuangY,Sun WJ.2l7a.Usingorganic materandpHtoestimatethebulkdensityofafforested/reforestedsoilsin northwest and northeast China.Pedosphere,27(5):89O-900.   \nChen YZ,Mu SJ,Sun ZG,etal.2O16.Grasslandcarbonsequestration abilityin China:anewperspectivefromterestrial aridity zones.Rangeland Ecology& Management,69(1): 84-94.   \nConantRT,Paustian K.2Oo2.Spatial variabilityof soilorganiccarbon in graslands:implications fordetectingchangeat different scales.Environmental Pollution,116(Suppl.1):127-135. Inner Mongolia. Ecological Research,20(5): 519-527.   \nDai WH,HuangY.2Oo6.Relationofsoilorganic materconcentrationtoclimate and altitude in zonalsoils of China.CATENA. 65(1): 87-94.   \nDe Neve S,Hofman G.2Ooo.Influenceof soil compaction on carbon and nitrogen mineralization of soil organic matterand crop residues.Biology and Fertility of Soils,30(5-6): 544-549.   \nDixon RK,Solomon A M,Brown S,et al.1994.Carbon poolsand flux of global forest ecosystems.Science,263(5144): 185-190.   \nDorjiT,OdehIOA,FieldDJ,etal.2O14.Dgitalsoilmappingofsoilorganiccarbon stocksunderdiferentlanduseand land cover types in montane ecosystems,Eastern Himalayas.Forest Ecology and Management,318: 91-102.   \nDorrepaalE,Toet S,Van LogtestijnRSP,etal.2Oo9.Carbonrespirationfromsubsurface peat acceleratedbyclimate warming in the subarctic.Nature,460(7255): 616-619.   \nEngland JR,PaulKI,Cunningham SC,etal.2O16.Previous landuseand climate influence diferencesinsoilorganicarbon following reforestation of agricultural land with mixed-species plantings.Agriculture,Ecosystems&Environment,27: 61-72.   \nFang JY,Liu GH,XuSL.1996.Soilcarbon poolin China and itsglobal significance.Journal ofEnvironmental Sciences, 8(2): 249-254.   \nFang JY,YangYH,Ma WH,et al.2010.Ecosystem carbonstocksand theirchanges in China's graslands.ScienceChina Life Sciences,53(7): 757-765.   \nFu Q,LiB,HouY,etal.2O17.Effectsof landuseandclimatechange onecosystemservices inCentral Asia'saridregions:a case study in Altay Prefecture, China.Science of the Total Environment, 607-608: 633-646.   \nFu XL,Shao MG,Wei XR,etal.2O10.Soilorganiccarbon andtotal nitrogenasaffected byvegetation types inNorthe Loess Plateau of China. Geoderma,155(1-2): 31-35.   \nGansertD.1994.Rootrespiration andits importance for thecarbonbalanceof bech saplings (Fagus sylvaticaL.)inamontane beech forest.Plant and Soil,167(1):109-119.   \nGanuza A,Almendros G2Oo3.Organiccarbon storageinsoilsof theBasqueCountry(Spain): the efect of climate,vegetation type and edaphic variables.Biology and Fertility of Soils,37(3):154-162.   \nGao ZQ,FangHJ,BaiJH,etal.2O1.Spatialandseasonal distributionsofsoilphosphorusinashort-termflooding wetland of the Yellow River Estuary,China. Ecological Informatics,31: 83-90.   \nGartenCTJr,Post IIWM,HansonPJ,etal.1999.Forestsoilcarboninventories anddynamics alonganelevationgradientin the southern Appalachian mountains.Biogeochemistry,45(2): 115-145.   \nGartenCTJr,HansonPJ.2Oo6.Measured forest soil C stocks and estimated turnover times along anelevation gradient. Geoderma,136(1-2): 342-352.   \nGiardina C P, Ryan M G. 20o0. Reply: soil warming and organic carbon content. Nature,408(6814): 790.   \nHe NP,Wang R M, Zhang Y H,et al.2014.Carbon and nitrogen storage in inner Mongolian grassands:relationships with climate and soil texture.Pedosphere,24(3):391-398.   \nHeviaGGBuschiazzoDE,HepperEN,etal.2O3.Organic materinsizefractionsofsoilsofthesemiaridArgentia.Efects of climate,soil texture and management. Geoderma,116(3-4): 265-277.   \nHodge A,RobinsonD,FiterA.Ooo.Are microorganisms moreeectivethan plantsatcompeting fornitrogen?Trends in Plant Science,5(7): 304-308.   \nHossain MF,Chen W,Zhang Y.2O15.Bulk density of mineraland organic soils in the Canada’s arctic and sub-arctic. Information Processing in Agriculture,2(3-4):183-190.   \nHu C,LiF,XieYH,etal.2O18.Soilcarbon,nitrogen,and phosphorus stoichiometryof three dominant plantcommunities distributed along a smal-scaleelevation gradient inthe East Dongting Lake.Physics and Chemistryof the Earth,Parts A/B/C,103: 28-34,doi: 10.1016/j.pce.2017.04.001.   \nJing WL,Feng M,Yang YP.2013.Astatistical downscaling approachof NCEP/NCARreanalysis temperature data.Journalof Geo-information Science,15(6): 819-828.(in Chinese)   \nJobbagyEG,JacksonRB.2o.Thevertical distributionofsoilorganiccarbonand itsrelation toclimateandvegetation. Ecological Applications,10(2): 423-436.   \nKielland K.1994.Aminoacid absorptionbyarctic plants: implications forplant nutritionand nitrogencycling.Ecology75(8): 2373-2383.   \nLal R.20o4. Carbon sequestration in dryland ecosystems.Environmental Management, 33(4): 528-544.   \nLemenih M,Itanna F2Oo4.Soil carbon stocks and turnovers in various vegetation types and arable lands alonganelevation gradient in southern Ethiopia. Geoderma,123(1-2): I//-188.   \nLepSJ,SmilauerP.988.Multivariate Analysis ofEcological Data UsingCANOCO.Cambridge: Cambridge UniversityPre, 166-169.   \nLi XB,BaiYX,Wen WY,etal.2O17.Efectsof grasslanddegradationand precipitationoncarbon storage distributions ina semi-arid temperate grassland of Inner Mongolia, China. Acta Oecologica,85: 44-52.   \nLiYY,Dong SK,Wen L,etal.2O14.Soil carbon and nitrogen poolsand their relationship to plant and soil dynamicsof degraded and artificially restored grassands of the Qinghai-Tibetan Plateau. Geoderma, 213: 178-184.   \nListerTW,BurgerJA,Paterson SC.2004.Roleof vegetation inmitigating soil qualityimpactedbyforest harvesting.Soil Science Society of America Journal, 68(1): 263-271.   \nLiu WJ,Chen SY,QinX,etal.2O12.Storage,paters,andcontrolofsoilorganiccarbonandnitrogen inthenortheaste margin of the Qinghai-Tibetan Plateau. Environmental Research Letters,7(3): 035401.   \nLiu ZJ,YangXG,ChenF,etal.20l3.Theefectsofpastclimatechangeonthe northern limitsofmaizeplantinginNortheast China. Climatic Change,117(4): 891-902.   \nLiu ZP,Shao MA,Wang YQ.2013.Spatial patersof soiltotal nitrogenandsoiltotal phosphorus across theentire Loes Plateau region of China.Geoderma,197-198: 67-78.   \nMotavalli PP,Palm CA,Parton WJ,etal.1995.Soil pHandorganic C dynamics intropical forest soils: evidence from laboratory and simulation studies.Soil Biology and Biochemistry,27(12): 1589-1599.   \nMunoz-Rojas M,Abd-Elmabod S K, Zavala L M,et al.2O17. Climate change impacts on soil organic carbon stocksof Mediterranean agricultural areas: acase study inNorthern Egypt. Agriculture,Ecosystems &Environment,238:142-152.   \nNi J. 2002.Carbon storage in grassands of China. Journal of Arid Environments,5O(2): 205-218.   \nNjeru CM,Ekesi S,Mhamed SA,etal.2017.Assessngstockandthresholds detectionofsoilorganiccarbonandnitrogen along an altitude gradient in an east Africa mountain ecosystem. Geoderma Regional,1O: 29-38.   \nNocita M,Stevens A,Van Wesemael B,etal2O15.Soilspectroscopy:anopportunity tobeseized.Global Change Biology, 21(1): 10-11.   \nOu Y,Rousseau A N,Wang L X,et al.2O17. Spatio-temporal paternsof soil organic carbonandpH inrelation to environmental factors—A case study of the Black Soil Region of Northeastern China.Agriculture，Ecosystems& Environment, 245: 22-31.   \nPiaoSL,FangJY,ZhouLM,et al.2005.Changes in vegetation net primary productivity from1982to1999 in China.Global Biogeochemical Cycles,19(2): GB2027.   \nPiao SL,Fang JY,ZhouLM,etal2007.Changes in biomasscarbon stocks in China's graslads between l982and1999. Global Biogeochemical Cycles,21(2): B2002,doi: 10.1029/2005GB002634.   \nPodwojewskiP,PoulenardJ,NguyetML,etal.2Ol1.Cimateandvegetationdeterminesoilrganicmaterstatus innalpine inner-tropical soil catena in the Fan Si Pan Mountain, Vietnam. CATENA,87(2): 226-239.   \nReich PB,Hobbie SE,Lee T,et al. 2006. Nitrogen limitation constrains sustainability of ecosystem response to $\\mathrm { C O } _ { 2 }$ . Nature, 440(7086): 922-925.   \nRoman-Sanchez A, Vanwallghem T,PenaA,etal.2018.Controlsonsoilcarbon storage fromtopographyand vegetationina rocky,semi-arid landscapes. Geoderma,311: 159-166,doi: 10.1016/j.geoderma.2016.10.013.   \nSaikawa E,Prinn R G,Dlugokencky E,et al.2Ol4. Global and regional emissions estimates for ${ \\bf N } _ { 2 } \\mathrm { O }$ ，Atmospheric Chemistry and Physics,14(9): 4617-4641.   \nSakinE.2012.Organiccarbon organic materandbulk densityrelationshipsinarid-semiaridsoilsinsoutheast Anatoliaregion. African Journal of Biotechnology,11(6): 1373-1377.   \nSimmonsJA,FernandezIJ,Briggs RD,etal.1996.Forestflorcarbonpoolsandfluxes alongaregionalclimate gradientin Maine,USA. Forest Ecology and Management, 84(1-3): 81-95.   \nSingh S K,Pandey CB,Sidhu G S,et al.2O11.Concentration and stock of carbon in the soils affected by land uses and climates in the western Himalaya, India. CATENA,87(1): 78-89.   \nSix J,PaustianK.2O14.Aggregate-associated soilorganic materasanecosystem propertyand a measurementtool.Soil Biology and Biochemistry,68:A4-A9.   \nSunJ,Wang HM.2O16.Soil nitrogenandcarbondetermine the trade-ofof theabove-and below-ground biomassacross alpine grasslands,Tibetan Plateau. Ecological Indicators,6O:1O70-1076.   \nTianJH,Boit G,BlackA,tal.2O17.Accumulationanddistributionofphosphorus inthesoilprofileunderfertlized graed pasture.Agriculture,Ecosystems & Environment,239:228-235.   \nTsaiCC,Chen Z S,Kao CI,et al.2010.Pedogenic development of volcanic ash soils along aclimosequence in Northern Taiwan. Geoderma,156(1-2): 48-59.   \nTsuiCC,Tsai CC,Chen ZS.2013.Soilorganiccarbon stocks inrelation to elevation gradients involcanic ashsoils ofTaiwan. Geoderma,209-210: 119-127.   \nVelichkoAA,BorisovaOK,ZeliksonEM,etal.2010.Dynamicsofcarbonstorage inphytomassand soilhumus inNorthern Eurasia during the last climatic macrocycle.Global and Planetary Change,72(4): 257-264.   \nVincent A G,TurmerBL,TannerEVJ.0l0.Soilorganic phosphorus dynamics following perturbationof liter cycling ina tropical moist forest. European Journal of Soil Science, 61(1): 48-57.   \nWangJJ,BaiJH,Zhao QQ,et al.2O16.Five-yearchanges insoilorganiccarbonand total nitrogen incoastal wetlands affected by flow-sediment regulation in a Chinese delta. Scientific Reports,6: 21137.   \nWang M,SuYZ,Yang X,2014.Spatial distributionofsoilorganiccarbonand its influencing factorsindesertgrassandsof the Hexi Corridor,Northwest China.PLoS ONE,9(4): e94652.   \nWang T,KangFF,ChengXQ,etal.2O17.Spatialvariabilityoforganiccarbonandtotalnitrogeninthesoilsofasubalpine forested catchment at Mt. Taiyue,China. CATENA,155: 41-52.   \nWangYG,LiY,YeXH,etal.2Ol0.Profilestorageoforganic/inorganiccarboninsoil:fromforesttodesert.TheScienceof the Total Environment, 408(8):1925-1931.   \nWynnJG,BirdMI,VellenL,etal.2O06.Continental-scale measurementof thesoilorganiccarbonpool with climatic, edaphic,and biotic controls. Global Biogeochemical Cycles,20(1): GB1007,doi: 10.1029/2005GB002576.   \nXie ZB,ZhuJG,Liu G,et al.207.Soilorganiccarbonstocks in China andchanges from1980s to200s.Global Change Biology,13(9):1989-2007.   \nYanL,Zhou GS,WangYH,etal.2O15.Thespatialand temporal dynamicsof carbonbudget inthealpine grasslandsonthe Qinghai-Tibetan Plateau using the Terrestrial Ecosystem Model.Journal of CleanerProduction,1O7:195-201.   \nYangYH,Mohammat A,Feng JM,etal.2Oo7.Storage,paternsand environmentalcontrolsofsoilorganiccarboninChina. Biogeochemistry,84(2):131-141.   \nYangYH,Fang JY,TangYH,etal.2O08.Storage,patternsandcontrolsofsoilorganiccarboninthe Tbetangrasslands. Global Change Biology,14(7): 1592-1599.   \nYangYH,Fang JY,SmithP,etal.2O09.Changes intopsoilcarbonstock intheTibetangrassands betweenthe198Osand 2004. Global Change Biology,15(11): 2723-2729.   \nYangYH,FangJY,GuoDL,etal.2O10.Vertical paternsof soilcarbon,nitrogenandcarbon: nitrogen stoichiometryin Tibetan grasslands.Biogeosciences Discussions,7(1):1-24.   \nYimerF,Ledin S,AbdelkadirA.2O06.Soilorganiccarbonandtotal nitrogenstocksasaffected bytopographic aspectand vegetation in the Bale Mountains,Ethiopia. Geoderma,135:335-344.   \nYuPJ,Li Q,JiaHT,etal.2O13.CarbonstocksandstoragepotentialasaffectedbyvegetationintheSongnengrasslandof northeast China. Quaternary International, 3O6:114-120.   \nZhang C,Liu GB,Xue S,et al.2O13.Soilorganiccarbonand total nitrogenstorageasaected bylanduseina small watershed of the Loess Plateau, China. European Journal of Soil Biology, 54:16-24.   \nZhang X S.2Oo1.Ecologicalrestorationand sustainable agricultural paradigm of mountain-oasis-ecotone-desert system inthe north of the Tianshan Mountains.Acta Botanica Sinica,43(12):1294-1299.(in Chinese)   \nZhang ZS,Craft CB,XueZS,etal.2016.Regulatingefectsofclimate,netprimaryproductivityand nitrogenoncarbon sequestration rates in temperate wetlands,Northeast China.Ecological Indicators,7O:114-124.   \nZhao QQ,BaiJH,Liu Q,etal.2O16.Spatialandseasonalvariationsof soilcarbonand nitrogencontentand stock inatidal salt marsh with Tamarix chinensis,China.Wetlands,36(Suppl.):145-152.   \nZhou G S,Wang YH,Jiang YL,etal.2002.Carbon balance along the Northeast China Transect (NECT-IGBP).Science in China (Series C),45(Suppl.): 18-29. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

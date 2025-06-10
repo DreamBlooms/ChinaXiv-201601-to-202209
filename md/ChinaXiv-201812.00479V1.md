@@ -1,0 +1,212 @@
+饲粮铜水平对冬毛期水貂血清脂类代谢指标、血液参数、肠道消化酶活性及胆汁微量元素含 量的影响
+
+吴学壮1,2　杨　颖刘　志² 高秀华2\* 杨福合杨培龙²　邢秀梅(1.安徽科技学院动物科学学院，蚌埠 233100；2.中国农业科学院饲料研究所，农业部饲料生物技术重点实验室，北京 100081；3.中国农业科学院特产研究所，长春 130112)摘要：本试验旨在研究饲粮铜水平对冬毛期水貂血清脂类代谢指标、血液参数、肠道消化酶活性及胆汁微量元素含量的影响。试验选取（ $1 1 0 \pm 3$ ）日龄的健康水貂140只（公母各占1/2)，随机分为7个组，每组20个重复，每个重复1只水貂。各组水貂分别饲喂在基础饲粮（铜含量为 $7 . 6 8 ~ \mathrm { m g / k g }$ ）中添加0（对照组）、6（Cu6组）、12（Cu12组）、24（ $\mathrm { C u } 2 4$ 组）（ $\mathrm { C u } 4 8$ 组）、96（ $\operatorname { C u 9 6 }$ 组）和 $1 9 2 \mathrm { m g / k g }$ （Cu192组）铜的试验饲粮。预试期7d，正试期90d。结果表明：1）水貂血清总胆固醇（TC）含量随饲粮铜水平的增加呈线性( $3$ ： $P { < } 0 . 0 1$ ，$9$ ： $P { < } 0 . 0 1 \$ )或二次曲线降低（ $8$ ： $P { < } 0 . 0 5$ ， $9$ ： $P { < } 0 . 0 1 \$ )。雄性水貂的血清TC 和甘油三酯（TG)含量显著高于雌性水貂（ $\cdot P { < } 0 . 0 5$ )。2）饲粮铜水平对水貂血红蛋白含量和血细胞比容无显著影响 $( P { > } 0 . 0 5 )$ ，雄性水貂血红蛋白含量和血细胞比容与雌性水貂无显著差异 $( P { > } 0 . 0 5 )$ 。3)雄性水貂空肠脂肪酶活性显著高于雌性水貂（ $P { < } 0 . 0 5 )$ ，空肠、回肠胰蛋白酶活性和空肠淀粉酶活性极显著高于雌性水貂（ $_ { . } { \cal P } { < } 0 . 0 1$ )。4）水貂胆汁铜含量随饲粮铜水平的增加呈线性增加 $( P { < } 0 . 0 5 )$ ，水貂胆汁锰和铁含量随饲粮铜水平的增加呈线性或二次曲线降低 $( P { < } 0 . 0 1 )$ 。由此可见，水貂饲粮添加铜对血清胆固醇、胆汁微量元素含量有重要的调节作用。
+
+关键词：铜；水貂；脂类代谢；胆汁；消化酶活性文献标识码： 文章编号：
+
+铜是动物必需的微量元素，在动物能量代谢、血红蛋白（hemoglobin，Hb）合成和脂肪代谢等生理过程中发挥重要作用[1-2]。铜缺乏会影响动物对铁的吸收，进而影响造血功能[3-4],而动物饲粮添加适宜的铜可以提高肠道脂肪酶的活性[5-7]，进而提高脂肪表观消化率[8-11]。此外，大量研究表明，动物饲粮添加铜可以降低血浆总胆固醇（total cholesterol，TC）和甘油三酯（triglyceride，TG）含量[12-16]。迄今为止，铜对畜禽生物学功能的研究有许多报道，而饲粮中添加铜对水貂脂质代谢、血红蛋白合成及肠道消化酶活性的影响还鲜有报道。为此，本试验以冬毛期水貂为试验对象，通过在其饲粮中添加不同水平的铜，研究铜对冬毛期水貂血清脂类代谢指标、血液参数、肠道消化酶活性及胆汁微量元素含量的影响，旨在揭示铜对于促进和改善动物生长性能和脂类代谢调控的理论机制，为铜的合理应用提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验设计与饲养管理
+
+试验在农业部长白山野生生物资源重点野外科学观测试验站的毛皮动物生产基地展开。在毛皮动物生产基地随机选择健康、体重相近的（110±3）日龄水貂140 只（公母各占1/2）。试验采用单因素随机试验设计，将140只试验水貂随机分为7个组，每组20个重复，每个重复1只水貂。以五水合硫酸铜（ $\mathrm { ( c u S O _ { 4 } \bullet 5 H _ { 2 } O }$ ）为铜源，各组水貂分别饲喂在基础饲粮（铜含量为 $7 . 6 8 ~ \mathrm { m g / k g }$ ）中添加0（对照组）、6（ $\mathrm { C u } 6$ 组）、12（ $\mathtt { C u l 2 }$ 组）、24（ $\mathrm { C u } 2 4$ 组）、( $\mathrm { C u } 4 8$ 组）、96（ $\operatorname { C u 9 6 }$ 组）和 $1 9 2 \mathrm { m g / k g }$ （ $\operatorname { C u l } 9 2$ 组）铜的试验饲粮。预试期7d，正试期 $9 0 \mathrm { d }$ 。
+
+试验水貂均单笼 $( 4 0 \mathrm { c m } { \times } 4 0 \mathrm { c m } { \times } 6 0 \mathrm { c m } )$ 饲养，每日07:30与15:30各饲喂1次，自由采食，自由饮水，常规免疫。水貂目前没有统一的饲养标准，参照国内近几年水貂营养需要量的研究，配制冬毛期水貂基础饲粮，其组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (干物质基础)
+
+Table 1 Composition and nutrient levels of the basal diet (DM basis) %
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>膨化玉米 Extruded corn</td><td>31.2</td><td>代谢能 ME/(MJ/kg)</td><td>15.76</td></tr><tr><td>豆粕 Soybean meal</td><td>6.0</td><td>干物质 DM</td><td>95.36</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>8.0</td><td>粗蛋白质 CP</td><td>33.05</td></tr><tr><td>鱼粉 Fish meal</td><td>18.0</td><td>粗脂肪 EE</td><td>16.72</td></tr><tr><td>肉骨粉 Bone meat meal</td><td>18.0</td><td>碳水化合物 CC</td><td>41.21</td></tr><tr><td>乳酪粉 Cheese meal</td><td>3.0</td><td>粗灰分 Ash</td><td>9.02</td></tr><tr><td>豆油 Soybean oil</td><td>12.0</td><td>赖氨酸Lys</td><td>1.69</td></tr><tr><td>羽毛粉Feather meal</td><td>1.0</td><td>蛋氨酸 Met</td><td>0.93</td></tr><tr><td>血粉 Blood meal</td><td>1.0</td><td>半胱氨酸Cys</td><td>0.36</td></tr><tr><td>预混料 Premix1</td><td>1.0</td><td>钙Ca</td><td>3.22</td></tr><tr><td>L-赖氨酸L-lysine</td><td>0.3</td><td>总磷TP</td><td>2.20</td></tr><tr><td>DL-蛋氨酸 DL-methionine</td><td>0.3</td><td>铜 Cu/(mg/kg)</td><td>7.68</td></tr><tr><td>食盐 NaCl</td><td>0.2</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.0</td><td></td><td></td></tr></table></body></html>
+
+1)每千克预混料含有 Contained the follwing per kg of the premix：维生素 A醇 vitamin Aretinol 1 000000 IU，胆钙化醇 cholecalciferol 200 O00 IU,生育酚醋酸酯 tocopheryl acetate $6 0 0 0 \mathrm { { I U } }$ ，硫胺素 thiamine 600mg，核黄素 riboflavin $8 0 0 ~ \mathrm { { m g } }$ ，钴胺素cobalamin $1 0 \mathrm { m g }$ ，甲萘醌 menadione $1 0 0 \mathrm { m g }$ ，抗坏血酸 ascorbic acid$4 0 0 0 0 \mathrm { m g }$ ，烟酸 nicotinic acid $4 0 0 0 \mathrm { m g }$ ，泛酸 pantothenic acid $1 2 0 0 \mathrm { m g }$ ，生物素 biotin $2 0 ~ \mathrm { m g }$ ，叶酸folicacid $8 0 ~ \mathrm { m g }$ ，胆碱choline $3 0 0 0 0 \mathrm { m g }$ ，Fe $8 2 0 0 \mathrm { m g }$ ，Mn $1 2 0 0 \mathrm { m g }$ ， $Z n 5 2 0 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 5 0 \ : \mathrm { m g }$ ，Se $2 0 \mathrm { m g }$ ，Co 50mg。
+
+2代谢能为计算值,其他营养水平为实测值。ME was acalculated value,while the other nutrient levels were measured values.
+
+# 1.2样品采集
+
+血液样品采集：饲养试验结束后，每组分别选取16只水貂，趾尖采血 $8 { \sim } 1 0 \ \mathrm { m L }$ ，置于促凝采血管和抗凝采血管各1/2。转移至实验室， $3 ~ 5 0 0 ~ \mathrm { r / m i n }$ ， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 离心 $1 0 \mathrm { m i n }$ ，将分离出的血清分装在 $1 . 5 \mathrm { m L }$ 的 Eppendor 管中，置于-80℃中保存，备用。
+
+组织器官样品采集：饲养试验结束后，每组分别选取水貂16只，首先空腹称重，之后各组水貂饲喂相应饲粮， $6 0 \mathrm { m i n }$ 后，注射氯化琥珀胆碱处死，迅速解剖，分别取大约 $1 0 \mathrm { c m }$ 左右空肠和回肠，将用细线扎住肠道两端，投入液氮中速冻，随后从液氮中迅速取出，用解剖剪剪开肠段刮取肠道食糜于冻存管中，转入-80℃冰箱冷藏，待测肠道食糜胰蛋白酶、脂肪酶和淀粉酶活性。
+
+# 1.3 测定指标与方法
+
+# 1.3.1 血清脂类代谢指标
+
+采用磷酸甘油氧化酶-过氧化物酶(GPO-PAP)法检测血清 TG 含量，采用胆固醇氧化酶-过氧化物酶(COD-PAP)法检测血清 TC 含量，采用选择性清除法测定低密度脂蛋白胆固醇（low density lipoprotein cholesterol，LDL-C）、高密度脂蛋白胆固醇（high density lipoproteincholesterol，HDL-C）含量。以上指标均用试剂盒测定，试剂盒购自中生北控生物科技股份有限公司。
+
+# 1.3.2 血液参数
+
+血红蛋白含量测定：采用氰化高铁(HICN)比色法测定血液血红蛋白含量，试剂盒购自南京建成生物工程研究所。
+
+血细胞比容测定：采用温氏法测定血细胞比容。
+
+# 1.3.3 肠道消化酶活性
+
+未解冻前称取定量（ ${ \mathrm { 0 . 5 } } { \sim } 1 . 0 { \mathrm { g } }$ ）的肠道食糜内容物，按质量体积比1:9（质量体积比）加入 $0 . 8 6 \%$ 的生理盐水，匀浆粉碎，低温离心机离心 $2 5 0 0 \mathrm { r / m i n }$ ，离心 $1 0 \mathrm { m i n }$ ，取上清液。按照南京建成生物工程研究所试剂盒说明书操作，用 SPECORD50紫外光分光光度计测定吸光度，计算胰蛋白酶、脂肪酶和淀粉酶活性。
+
+# 1.3.4胆汁微量元素含量
+
+用移液器取 $2 { \mathrm { m L } }$ 胆汁样品于 $1 0 0 ~ \mathrm { { m L } }$ 锥形瓶中，加 $1 0 ~ \mathrm { m L }$ 优级纯硝酸，封口放置 $2 \mathrm { h }$ 置于电炉上低温消煮至近干，将溶液无损失地转移到 $1 0 ~ \mathrm { m L }$ 容量瓶中，使用VARIANSpectrAA-240 原子吸收分光光度计进行铜、锌、锰和铁含量的测定。
+
+# 1.4 数据分析
+
+试验数据采用SAS9.13软件GLM程序进行统计分析，性别差异采用单因素方差分析
+
+（one-way ANOVA）进行显著性检验，组间差异采用Duncan 氏法多重比较进行显著性检验；采用 SAS9.13软件REG 程序，以饲粮铜水平为自变量，各种指标为效应因子，进行线性和二次曲线回归分析。其中 $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+# 2结果
+
+2.1 饲粮铜水平对冬毛期水貂血清脂类代谢指标的影响
+
+饲粮铜水平对冬毛期水貂血清脂类代谢指标的影响见表2。雄性水貂血清TC(线性，$P { < } 0 . 0 1$ ；二次， $P { < } 0 . 0 5 \$ 和TG(线性， $P { < } 0 . 0 1$ ；二次， $\scriptstyle P < 0 . 0 1 { \dot { } }$ 含量随饲粮铜水平的增加呈线性或二次曲线降低。饲粮铜水平对雄性水貂血清HDL-C 和 LDL-C 含量影响不显著 $_ { ( P < 0 . 0 5 ) }$ 。对照组雄性水貂血清 TC 含量显著高于 $\operatorname { C u 9 6 }$ 和 $\operatorname { C u l } 9 2$ 组 $( P { < } 0 . 0 5 )$ ；对照组雄性水貂血清 TG含量极显著高于其他各组 $( P { < } 0 . 0 1 )$ ，且其他各组之间差异不显著 $( P { > } 0 . 0 5 )$ ；各组之间雄性水貂血清HDL-C 和LDL-C 含量差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+雌性水貂血清TC含量随饲粮铜水平的增加呈线性和二次曲线降低 $( P { < } 0 . 0 1 )$ ，雌性水貂血清HDL-C含量与饲粮铜水平呈线性升高 $( P { < } 0 . 0 5 )$ 。饲粮铜水平对雌性水貂血清TG 和LDL-C含量影响不显著 $( P { > } 0 . 0 5 )$ 。对照、Cu6 和 $\operatorname { C u l } 2$ 组雌性水貂血清TC含量极显著高于$\operatorname { C u 9 6 }$ 和Cu192组 $( P { < } 0 . 0 1 )$ ；对照和 $\mathrm { C u } 6$ 组雌性水貂血清 TC 含量显著高于 $\mathrm { C u } 4 8$ 组 $( P { < } 0 . 0 5 )$ ：Cu6 组雌性水貂血清TG含量显著高于 $\mathrm { C u } 4 8$ 组 $_ { ( P < 0 . 0 5 ) }$ ,其他各组之间差异不显著 $( P { > } 0 . 0 5 )$ ：对照组雌性水貂血清LDL-C 含量显著高于 $\mathrm { C u } 4 8$ 组 $( P { < } 0 . 0 5 )$ ，其他各组之间差异不显著 $( P >$ 0.05)。雄性水貂的血清 TC 和TG含量显著高于雌性水貂（ $P { < } 0 . 0 5 )$ ）°
+
+# 表2饲粮铜水平对冬毛期水貂血清脂类代谢指标的影响
+
+Table 2Effects of dietary copper level on serum lipid metabolism parameters of minks during winter   
+fur-growing period mmol/L   
+
+<html><body><table><tr><td>项目 Items</td><td>总胆固醇 TC</td><td>甘油三酯 TG</td><td>高密度脂蛋白胆固 醇</td><td>低密度脂蛋白胆固 醇</td></tr><tr><td>雄性Male</td><td></td><td></td><td>HDL-C</td><td>LDL-C</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="7">组 别 Groups</td><td>对照 Control</td><td>8.60a</td><td>2.50Aa</td><td>2.69</td><td>1.52</td></tr><tr><td>Cu6</td><td>7.74ab</td><td>2.10Bb</td><td>3.22</td><td>1.40</td></tr><tr><td>Cu12</td><td>7.17ab</td><td>2.04Bb</td><td>2.88</td><td>1.29</td></tr><tr><td>Cu24</td><td>6.89ab</td><td>1.98Bb</td><td>3.12</td><td>1.34</td></tr><tr><td>Cu48</td><td>6.71ab</td><td>1.85Bb</td><td>2.91</td><td>1.39</td></tr><tr><td>Cu96</td><td>6.40b</td><td>1.89Bb</td><td>3.47</td><td>1.38</td></tr><tr><td>Cu192</td><td>5.92b</td><td>1.83Bb</td><td>2.81</td><td>1.31</td></tr><tr><td>SEM</td><td></td><td>0.25</td><td>0.05Bb</td><td>0.10</td><td>0.03</td></tr><tr><td rowspan="2">P值 P-value</td><td>线性Linear</td><td>0.007 4</td><td>0.0031</td><td>0.981 7</td><td>0.3366</td></tr><tr><td>二次 Quadratic</td><td>0.011 8</td><td>0.000 6</td><td>0.220 4</td><td>0.619 5</td></tr><tr><td colspan="2">雌性 Female</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="7">组别 Groups</td><td>对照 Control</td><td>7.54Aa</td><td>2.03ab</td><td>2.90</td><td>1.47a</td></tr><tr><td>Cu6</td><td>7.29Aa</td><td>2.24a</td><td>2.98</td><td>1.31ab</td></tr><tr><td>Cu12</td><td>6.96Aab</td><td>1.97ab</td><td>2.91</td><td>1.34ab</td></tr><tr><td>Cu24</td><td>6.40ABabc</td><td>1.80ab</td><td>2.91</td><td>1.36ab</td></tr><tr><td>Cu48</td><td>5.94ABbc</td><td>1.73b</td><td>2.96</td><td>1.23b</td></tr><tr><td>Cu96</td><td>5.18Bc</td><td>1.76ab</td><td>2.98</td><td>1.35ab</td></tr><tr><td>Cu192</td><td>5.20Bc</td><td>1.78ab</td><td>3.25</td><td>1.34ab</td></tr><tr><td>SEM</td><td></td><td>0.20</td><td>0.06</td><td>0.05</td><td>0.02</td></tr><tr><td rowspan="2">P值 P-value</td><td>线性Linear</td><td>0.000 1</td><td>0.096 7</td><td>0.023 8</td><td>0.653 8</td></tr><tr><td>二次 Quadratic</td><td>0.000 1</td><td>0.060 4</td><td>0.0588</td><td>0.472 2</td></tr><tr><td colspan="2">雄性 Male 雌性Female</td><td>7.06a 6.36b</td><td>2.03a 1.90b</td><td>3.02 2.98</td><td>1.38 1.34</td></tr></table></body></html>
+
+同一项目同列数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $\scriptstyle ( P < 0 . 0 1 )$ ），相同或无字母表示差异不显著（ $. P { > } 0 . 0 5 \$ 。下表同。
+
+In the same column and the same item,values with different small leter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,whilewith the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+# 2.2 饲粮铜水平对冬毛期水貂血液参数的影响
+
+饲粮铜水平对冬毛期水貂血液参数的影响见表3。饲粮铜水平对水貂血红蛋白含量和血细胞比容无显著影响 $( P { > } 0 . 0 5 )$ ，雄性水貂水貂血红蛋白含量和血细胞比容与雌性水貂无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+表3饲粮铜水平对冬毛期水貂血液参数的影响  
+Table 3Effects of dietary copper level on blood parameters of minks during winter fur-growing period   
+
+<html><body><table><tr><td colspan="2">项目Items</td><td>血红蛋白 Hb/(g/L)</td><td>血细胞比容 Hematocrit/%</td></tr><tr><td colspan="2">雄性 Male</td><td></td><td></td></tr><tr><td rowspan="7">组别Groups</td><td>对照Control</td><td>222.8</td><td>54.81</td></tr><tr><td>Cu6</td><td>220.4</td><td>55.03</td></tr><tr><td>Cu12</td><td>226.4</td><td>54.89</td></tr><tr><td>Cu24</td><td>218.6</td><td>54.84</td></tr><tr><td>Cu48</td><td>216.9</td><td>55.33</td></tr><tr><td>Cu96</td><td>226.4</td><td>54.78</td></tr><tr><td>Cu192</td><td>224.5</td><td>54.93</td></tr><tr><td>SEM</td><td></td><td>1.38</td><td>0.10</td></tr><tr><td rowspan="2">P值 P-value</td><td>线性Linear</td><td>0.412 4</td><td>0.941 5</td></tr><tr><td>二次Quadratic</td><td>0.6910</td><td>0.954 3</td></tr><tr><td>雌性Female</td><td></td><td></td><td></td></tr><tr><td rowspan="7">组别 Groups</td><td>对照Control</td><td>217.4</td><td>54.91</td></tr><tr><td>Cu6</td><td>220.5</td><td>55.06</td></tr><tr><td>Cu12</td><td>218.5</td><td>55.20</td></tr><tr><td>Cu24</td><td>223.1</td><td>54.83</td></tr><tr><td>Cu48</td><td>224.3</td><td>55.20</td></tr><tr><td>Cu96</td><td>221.8</td><td>55.11</td></tr><tr><td>Cu192</td><td>221.8</td><td>55.09</td></tr><tr><td>SEM</td><td></td><td>1.38</td><td>0.10</td></tr><tr><td rowspan="3">P值 P-value 雄性Male</td><td>线性Linear</td><td>0.327 0</td><td>0.745 7</td></tr><tr><td>二次 Quadratic</td><td>0.190 4</td><td>0.884 7</td></tr><tr><td></td><td>222.3</td><td>54.94</td></tr><tr><td colspan="2">雌性Female</td><td>221.0</td><td>55.06</td></tr></table></body></html>
+
+# 2.3 饲粮铜水平对冬毛期水貂肠道消化酶活性的影响
+
+饲粮铜水平对冬毛期水貂肠道消化酶活性的影响见表4。饲粮铜水平对水貂空肠和回肠消化酶活性均无显著影响 $( P { > } 0 . 0 5 )$ 。雄性水貂空肠、回肠胰蛋白酶活性和空肠淀粉酶活性极显著高于雌性水貂（ $( P { < } 0 . 0 1 )$ ，雄性水貂空肠脂肪酶活性显著高于雌性水貂（ $. P { < } 0 . 0 5 )$ 。
+
+# 表4饲粮铜水平对冬毛期水貂肠道消化酶活性的影响
+
+Table 4Effects of dietary copper level on intestinal digestive enzyme activities of minks during winter fur-growing period
+
+<html><body><table><tr><td colspan="2" rowspan="2">项目Items</td><td colspan="3">空肠 Jejunum</td><td colspan="3">回肠 Ileum</td></tr><tr><td>胰蛋白酶 Trypsin/</td><td>脂肪酶 Lipase/</td><td>淀粉酶 Amylase/</td><td>胰蛋白酶 Trypsin/</td><td>脂肪酶 Lipase/</td><td>淀粉酶 Amylase/</td></tr><tr><td colspan="2"></td><td>prot) （U/mg</td><td>(U/g prot)</td><td>（U/mg prot）</td><td>(U/mg prot)</td><td>(U/g prot)</td><td>(U/mg prot)</td></tr><tr><td colspan="2">雄性Male 对</td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td rowspan="6">组 别 Groups</td><td>照 Control</td><td>8868</td><td>4 653</td><td>565.4</td><td>8 256</td><td>3 793</td><td>433.7</td></tr><tr><td>Cu6</td><td>8850</td><td>4 634</td><td>564.4</td><td>8232</td><td>3776</td><td>441.0</td></tr><tr><td>Cu12</td><td>8859</td><td>4 693</td><td>570.8</td><td>8240</td><td>3824</td><td>441.3</td></tr><tr><td>Cu24</td><td>9038</td><td>4 749</td><td>582.5</td><td>8400</td><td>3865</td><td>456.7</td></tr><tr><td>Cu48</td><td>9010</td><td>4 852</td><td>584.2</td><td>8301</td><td>3960</td><td>438.4</td></tr><tr><td>Cu96</td><td>8833</td><td>4790</td><td>571.4</td><td>8085</td><td>3914</td><td>434.6</td></tr><tr><td></td><td>Cu192</td><td>8934</td><td>4 565</td><td>571.1</td><td>8185</td><td>3704</td><td>432.0</td></tr><tr><td>SEM</td><td></td><td>47.16</td><td>46.41</td><td>3.37</td><td>45.99</td><td>44.45</td><td>2.31</td></tr><tr><td>P 值 P-value</td><td>线性 Linear</td><td>0.889</td><td>0.593</td><td>0.881</td><td>0.340</td><td>0.593</td><td>0.128</td></tr><tr><td colspan="2">二次 Quadratic</td><td>0.967</td><td>0.182</td><td>0.515</td><td>0.598</td><td>0.227</td><td>0.290</td></tr><tr><td colspan="2">雌性Female 对照</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="6">组 别 Groups</td><td>Control</td><td>8412</td><td>4 434</td><td>545.1</td><td>7 699</td><td>3607</td><td>445.3</td></tr><tr><td>Cu6</td><td>8486</td><td>4 572</td><td>550.7</td><td>7766</td><td>3 731</td><td>434.8</td></tr><tr><td>Cu12</td><td>8604</td><td>4 524</td><td>558.9</td><td>7873</td><td>3 678</td><td>432.8</td></tr><tr><td>Cu24</td><td>8441</td><td>4553</td><td>548.6</td><td>7724</td><td>3715</td><td>424.9</td></tr><tr><td>Cu48</td><td>8412</td><td>4 651</td><td>541.8</td><td>7702</td><td>3813</td><td>448.6</td></tr><tr><td>Cu96</td><td>8457</td><td>4 612</td><td>544.7</td><td>7743</td><td>3 774</td><td>441.7</td></tr><tr><td></td><td>Cu192</td><td>8433</td><td>4570</td><td>546.8</td><td>7717</td><td>3 733</td><td>441.8</td></tr><tr><td>SEM</td><td>线性</td><td>45.91</td><td>39.95</td><td>3.08</td><td>42.1</td><td>37.77</td><td>2.63</td></tr><tr><td rowspan="2">P 值 P-value</td><td>Linear</td><td>0.710</td><td>0.546</td><td>0.606</td><td>0.719</td><td>0.522</td><td>0.409</td></tr><tr><td>二次 Quadratic</td><td>0.924</td><td>0.473</td><td>0.727</td><td>0.932</td><td>0.442</td><td>0.663</td></tr><tr><td colspan="2">雄性Male</td><td>8913A</td><td>4 705a</td><td>572.8A</td><td>8 243A</td><td>3834</td><td>439.7</td></tr><tr><td colspan="2">雌性 Female</td><td>8 464B</td><td>4 559b</td><td>548.1B</td><td>7 746B</td><td>3 722</td><td>438.6</td></tr></table></body></html>
+
+# 2.4饲粮铜水平对冬毛期水貂胆汁微量元素含量的影响
+
+饲粮铜水平对冬毛期水貂胆汁微量元素含量的影响见表5。水貂胆汁铜含量随饲粮铜水 平的增加呈线性增加 $( P { < } 0 . 0 5 )$ ，水貂胆汁锰和铁含量随饲粮铜水平的增加呈线性或二次曲线 降低 $( P { < } 0 . 0 1 )$ 。
+
+表5饲粮铜水平对冬毛期水貂胆汁微量元素含量的影响  
+Table 5Efects of dietary copper level on bile trace element contents of minks during winter fur-growing period mg/L   
+
+<html><body><table><tr><td colspan="2">项目Items</td><td>铜Cu</td><td>锌Zn</td><td>锰Mn</td><td>铁Fe</td></tr><tr><td rowspan="7"></td><td>对照 Control</td><td>50.67</td><td>2.28</td><td>9.78</td><td>62.07</td></tr><tr><td>Cu6</td><td>61.32</td><td>1.00</td><td>4.44</td><td>29.19</td></tr><tr><td>Cu12</td><td>68.71</td><td></td><td></td><td>20.55</td></tr><tr><td>组别Groups Cu24</td><td>72.03</td><td></td><td></td><td>8.11</td></tr><tr><td>Cu48</td><td>64.42</td><td>1</td><td></td><td>4.91</td></tr><tr><td>Cu96</td><td>61.30</td><td></td><td></td><td></td></tr><tr><td>Cu192</td><td>71.30</td><td></td><td></td><td>-</td></tr><tr><td>SEM</td><td></td><td>1.34</td><td>0.37</td><td>0.95</td><td>4.08</td></tr><tr><td></td><td>线性 Linear</td><td>0.028</td><td>0.081</td><td>0.001</td><td>0.001</td></tr><tr><td>P值P-value</td><td>二次 Quadratic</td><td>0.089</td><td>0.081</td><td>0.001</td><td>0.001</td></tr></table></body></html>
+
+-:未检出 not detected。
+
+# 3讨论
+
+# 3.1饲粮铜水平对水貂血清脂类代谢指标的影响
+
+大量研究表明，铜与血液脂类代谢存在密切相关性，动物饲粮添加铜能够影响动物体内脂类代谢，主要体现为饲粮添加铜可以降低血浆TC 和 TG 水平[12-13,15-16]。但是，铜对动物体内脂类代谢的内在机制并不清楚，有待进一步研究。动物体内胆固醇主要由肝脏合成，部分来自食物。3-羟基-3-甲基戊二酸单酰辅酶A（HMG-CoA）还原酶是肝细胞合成胆固醇过程中的限速酶[17]，Kim 等[18]研究发现，饲喂低铜水平饲粮时，小鼠肝脏细胞中HMG-CoA还原酶活性增加，胆固醇7α-羟化酶是在肝脏合成并促使胆固醇转化成胆酸的限速酶[19]。Tang 等[20]研究表明，成年大鼠饲喂低铜水平饲粮时，胆固醇7-α羟化酶基因相对表达量降低 $80 \%$ ，胆固醇7α-羟化酶活性降低，胆固醇转化发生障碍，导致高胆固醇血症。本研究结果表明，随饲粮铜水平的增加，血清中TC、TG 和LDL-C 含量都呈现降低的趋势，而饲粮铜水平没有影响血清HDL-C 含量。
+
+血清TC 含量受年龄、性别、饮食等多种因素的影响，一般而言，雄性动物高于雌性动物。本研究结果显示，雄性水貂的血清 TC 和 TG 含量显著高于雌性水貂，其原因可能是由于冬毛期雄性水貂皮下脂肪和体重均高于雌性水貂。此外，水貂为严格的肉食性动物，血清TC 含量高于人类和猪、牛、羊等动物。
+
+# 3.2饲粮铜水平对水貂血液参数的影响
+
+铜在血液中主要以红细胞铜蓝蛋白和血浆铜蓝蛋白2种形式存在[21]。铜蓝蛋白可促使三价铁变为二价铁，促进胃肠道对铁的吸收，促进血红蛋白和卟啉合成[3-4]，此外，铜还可以促进幼稚红细胞的成熟和释放[3]。动物体内铜缺乏时，血浆铜蓝蛋白的活性降低，从而导致铁的价位转变发生障碍而引起贫血，血红蛋白合成受阻，铁代谢紊乱及红细胞减少，形成“低血铜症”(hypocupremia)[22]。本研究发现，饲粮铜水平对水貂血红蛋白含量和血细胞比容没有显著影响，这与Aulerich等[23]的研究结果相似。本研究结果表明，水貂饲喂基础饲粮，并未造成水貂铜的严重缺乏而引起血红蛋白含量和血细胞比容的改变。此外，水貂血红蛋白含量和血细胞比容性别差异不显著。
+
+# 3.3饲粮铜水平对水貂肠道消化酶活性的影响
+
+大量研究表明，动物饲粮添加铜可以提高肠道脂肪酶的活性[5-7]，进而提高脂肪表观消化率[8-11]。动物肠道消化酶活性提高直接提高动物对营养物质的消化率，进而改善生长性能[6]。本研究结果表明，饲粮铜水平对水貂空肠和回肠胰蛋白酶、脂肪酶和淀粉酶活性均无影响，但是脂肪酶活性随饲粮铜水平呈先增加后降低的趋势。分析其原因，可能由于水貂饲喂低铜水平的粮时提高了肠道脂肪酶活性，而水貂饲粮铜水平过高可导致铜中毒[24]，进而导致肠道脂肪酶活性降低。影响动物肠道消化酶活性的因素很多，包括种间差异、生长阶段、饲粮组成和环境温度等[25]。
+
+本研究结果表明，雄性水貂空肠胰蛋白酶、脂肪酶、淀粉酶活性显著高于雌性水貂。前期研究结果表明，雄性水貂对粗蛋白质和粗脂肪消化率高于雌性水貂，得到客观证实。但是性别对水貂肠道消化酶活性影响的内在机制并不清楚，有待进一步研究。
+
+# 3.4饲粮铜水平对水貂胆汁微量元素含量的影响
+
+胆汁是内源性铜的主要排泄途径之一[26-27]。研究表明，随着饲粮铜水平增加，胆汁铜含量有所升高，但是却没有成倍增加，然而胆汁铁、锰和锌含量却成倍降低。关于饲粮铜水平对胆汁铁、锰和锌含量影响的研究还处于空白。结合本研究结果推断，水貂饲喂不同铜水平的饲粮可以增加胆汁分泌量，从而导致胆汁铁、锰和锌含量降低。Czamecki等[28报道，饲粮铜水平低于 $2 5 0 ~ \mathrm { m g / k g }$ 时，胆汁中铜含量不会增加；饲粮铜水平高于 $2 5 0 ~ \mathrm { m g / k g }$ 时，胆汁中铜含量才会增加。Armstrong 等[29]研究表明，饲粮添加 $2 2 5 \mathrm { m g / k g }$ 铜（硫酸铜）时，动物的胆汁铜含量较高；而与对照组相比，饲粮添加低水平(33、66、 $1 0 0 \mathrm { m g / k g ) }$ 的铜却没有引起胆汁铜含量的升高。
+
+# 4结论
+
+$\textcircled{1}$ 随饲粮铜水平的增加，血清中TC、TG 和LDL-C 含量都呈现降低的趋势，而饲粮铜水平没有影响血清HDL-C 含量。
+
+$\textcircled{2}$ 饲粮铜水平没有影响水貂血红蛋白含量和血细胞比容的改变。
+
+$\textcircled{3}$ 水貂空肠和回肠脂肪酶活性有随饲粮铜水平先增加后降低的趋势。
+
+$\textcircled{4}$ 水貂血清脂类代谢指标和肠道消化酶活性存在性别差异，雄性水貂血清 TC、TG 含量和空肠胰蛋白酶、脂肪酶、淀粉酶活性显著高于雌性水貂。参考文献：
+
+[1] SUTTLE N F.Mineral nutrition of livestock[M].4th ed.London:CABI,2010. [2] LEOSCHKE W L.Nutrition and nutritional physiology of the mink:a historical perspective[M].Indiana:Trafford Publishing,2011.
+
+[3]计成.动物营养学[M].北京:高等教育出版社,2008.
+
+[4]PAL A,VASISHTA R K,PRASAD R.Hepatic and hippocampus iron status is not altered in response to increased serum ceruloplasmin and serum "free" copper in Wistar rat model for non-Wilsonian brain copper toxicosis[J].Biological Trace Element Research,2013,154(3):403-411.
+
+[5] LUO X G,DOVE C R.Effect of dietary copper and fat on nutrient utilization,digestive enzymeactivities,andtissuemineral levelsin weanlingpigs[J].Journal of Animal Science,1996,74(8):1888-1896.
+
+[6]冷向军,王康宁.高铜对早期断奶仔猪消化酶活性、营养物质消化率和肠道微生物的影响[J].饲料研究,2001(4):28-29.
+
+[7]鞠翠芳.不同水平的硫酸铜对断奶仔猪生产性能及消化生理的研究[D].硕士学位论文.雅安：四川农业大学，2009
+
+[8]张泽楠,王宝维,葛文华,等.枯草芽孢杆菌与铜协同作用对 ${ 5 } \sim 1 6$ 周龄五龙鹅生长性能、屠宰性能、营养物质利用率及肉品质的影响[J].动物营养学报,2016,28(9):2830-2838.
+
+[9]刘志,吴学壮,郭强,等.饲粮铜水平对冬毛期雌性蓝狐生长性能、营养物质消化率、 血清生化指标及毛皮品质的影响[J].动物营养学报,2016,28(6):1841-1849.
+
+[10] WU X Z,LIU Z,ZHANG T T,et al.Effects of dietary copper on nutrient digestibility,tissular copper deposition and fur quality of growing-furing mink (Mustela vison)[J].Biological Trace Element Research,2014,158(2):166-175.
+
+[11] WU X Z,ZHANG T T,GUO J G,et al.Copper bioavailability,blood parameters,and nutrient balance in mink[J].Journal of Animal Science,2015,93(1):176-184.
+
+[12]王宝维,徐晨晨,葛文华,等.铜对1\~4周龄五龙鹅脂类代谢、抗氧化能力及免疫器官指数的影响[J].动物营养学报,2014,26(8):2093-2100.
+
+[13]徐晨晨,王宝维,葛文华,等.饲粮中不同水平铜对 ${ 5 } \mathrm { \sim } 1 6$ 周龄五龙鹅脂类代谢、抗氧化能力与免疫功能的影响[J].动物营养学报,2014,26(4):908-917.
+
+[14]崔学平,陈代文,余冰.日粮添加高铜对产蛋鸡生产性能和脂质代谢的影响[J].中国畜牧杂志,2007,43(21):30-33.
+
+[15]武书庚,齐广海.日粮中不同铜源及添加水平对产蛋鸡生产性能及蛋黄胆固醇含量的影响[J].黑龙江畜牧兽医,2007(1):45-47.
+
+[16]王荣梅,曹华斌,李和平,等.高铜对肉鸡肝线粒体膜通透性、脂类代谢及肝和肌肉铜含量的影响[J].中国兽医学报,2010,30(2):243-246.
+
+[17] RANJI P,RAUTHAN M,PITOT C,et al.Loss of HMG-CoA reductase in $C$ elegans causes defects in protein prenylation and muscle mitochondria[J].PLoS One,2014,9(2):e100033.
+
+[18] KIM S,CHAO P Y,ALLEN K.Inhibition of elevated hepatic glutathione abolishes copper deficiency cholesterolemia[J].The FASEB Journal,1992,6(7):2467-2471.
+
+[19] 曹扬，贝伟剑.胆固醇 $7 a -$ 羟化酶调节的研究进展[J].广东药学院学报,2011,27(6):658-661.
+
+[20]TANG Z,GASPERKOVA D,XU J,et al.Copper deficiency induces hepatic fatty acid synthase gene transcription in rats by increasing the nuclear content of mature sterol regulatory element binding protein 1[J].The Journal of Nutrition,2000,130(12):2915-2921.
+
+[21] RANGANATHAN P N,LU Y,JIANG L L,et al.Serum ceruloplasmin protein expression and activity increases in iron-deficient rats and is further enhanced by higher dietary copper intake[J].Blood,2011,118(11):3146-3153.
+
+[22] ROBINSON S D,COOPER B,LEDAY T V.Copper deficiency (hypocupremia) and pancytopenia lateafter gastric bypasssurgery[J].BaylorUniversityMedical Center
+
+Proceedin,2013,26(4):382-386.
+
+[23]AULERICH R J,RINGER R K,BLEAVINS M R,et al.Effects of supplemental dietary copper on growth,reproductive performance and kit survival of standard dark mink and the acute toxicity of copper to mink[J].Journal of Animal Science,1982,55(2):337-343.
+
+[24]吴学壮,张铁涛,崔虎,等.饲粮添加铜水平对育成期水貂生长性能、营养物质消化率 及氮代谢的影响[J].动物营养学报,2012,24(6):1078-1084.
+
+[25]刘伟.水貂胰蛋白酶消化模型的建立及外源酶对水貂消化和生产性能的影响[D].博士学位论文.北京:中国农业科学院,2007.
+
+[26] SHIM H,HARRIS Z L.Genetic defects in copper metabolism[J].The Journal of Nutrition,2003,133(5):1527S-1531S.
+
+[27] TAO T Y,GITLIN J D.Hepatic copper metabolism:insights from genetic disease[J].Hepatology,2003,37(6):1241-1247.
+
+[28] CZARNECKI G L,EDMONDS M S,IZQUIERDO O A,et al.Effectof 3-nitro-4-hydroxyphenylarsonic acid on copper utilization by the pig,rat and chick[J].Journal of Animal Science,1984,59(4):997-1002.
+
+[29]ARMSTRONG T A,SPEARS J W,VAN HEUGTEN E,et al.Effect of copper source (cupric citrate vs. cupric sulfate) and level on growth performance and copper metabolism in pigs[J].Asian Australasian Journal of Animal Sciences,2000,13(8):1154-1161.
+
+Effects of Dietary Copper Level on Serum Lipid Metabolism Parameters,Blood Parameters, Intestinal Digestive Enzyme Activities and Bile Trace Element Contents of Minks during Winter
+
+# Fur-Growing Period
+
+WU Xuezhuang1,2 YANG Ying³LIU Zhi² GAO Xiuhua2\* YANG Fuhe3 YANG Peilong2 XING Xiumei3
+
+(1. College of Animal Science, Anhui Science and Technology University, Bengbu 233100, China; 2. Key Laboratory for Feed Biotechnology of the Ministry of Agriculture, Institute of Feed Research, Chinese Academy ofAgricultural Sciences, Beijing 10oo81, China; 3.Institute of Special Animal and Plant Sciences, Chinese Academy ofAgricultural Sciences, Changchun 130112, China)
+
+Abstract: This experiment was conducted to investigate the effects of dietary copper level on serum lipid metabolism parameters, blood parameters, intestinal digestive enzyme activities and bile trace element contents of minks during winter fur-growing period. One hundred and forty healthy 110-day-old minks were randomly allocated to 7 groups with 20 replicates per group and 1 mink per replicate.Minks in the seven groups were fed the diets (copper content was $7 . 6 8 \mathrm { m g / k g } )$ supplemented with 0 (control group), 6 (Cu6 group),12 (Cul2 group), 24( $\mathrm { C u } 2 4$ group), 48 (Cu48 group), 96 ( ${ \mathrm { C u } } 9 6$ group)and $1 9 2 \mathrm { m g / k g }$ （ $\operatorname { C u l } 9 2$ group) copper, respectively. The pre-test period lasted for 7 days,and the trial lasted for 90 days. The results showed as folows: 1) the serum total cholesterol (TC) content of minks was linear ( $\mathscr { S } : P { < } 0 . 0 1 , \mathscr { Q } : P { < } 0 . 0 1 )$ or quadratic $\scriptstyle ( { \mathcal { S } } : P < 0 . 0 5 , { \mathcal { Q } }$ ： $P { < } 0 . 0 1$ ) decreased with dietary copper level increasing. The serum TC and triglyceride (TG) contents of male minks were significantly higher than those of female minks $( P { < } 0 . 0 5 )$ . 2）Dietary copper level had no significant effects on hemoglobin content and hematocrit ( $\mathrm { ( } P > 0 . 0 5 \mathrm { ) }$ ,and the hemoglobin content and hematocrit had no significant difference between male and female minks $\mathrm { ( } P > 0 . 0 5 \mathrm { ) }$ . 3） The jejunum lipase activity of male minks was significantly higher than that of female minks $( P { < } 0 . 0 5 )$ , the activities of trypsase in jejunum and ileum and amylase in jejunum of male minks were significantly higher than those of female minks $( P { < } 0 . 0 1 )$ . 4）The bile copper content of minks was linear increased with dietary copper level increasing $( P { < } 0 . 0 5 )$ , the bile manganese and iron contents of minks were linear or quadratic decreased with dietary copper level increasing $( P { < } 0 . 0 1 )$ . In conclusion, dietary copper has an important effect on regulate the serum TC and bile trace element contents of minks.
+
+Key words: copper; minks; lipid metabolism; bile; digestive enzyme activities

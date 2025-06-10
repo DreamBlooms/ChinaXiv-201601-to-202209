@@ -1,0 +1,271 @@
+[
+    {
+        "type": "text",
+        "text": "Split-SUSY dark matter in light of direct detection limits ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junjie Cao $^ { 1 }$ ， Wenyu Wang $^ 2$ ， Jin Min Yang³   \n$^ { 1 }$ Department of Physics, Henan Normal University, Xinxiang 453007, China （204号 $^ 2$ Institute of Theoretical Physics， College of Applied Science, Beijing University of Technology， Beijing 100124， China   \n（20 $^ 3$ Institute of Theoretical Physics， Academia Sinica, Beijing 100190, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We examine the present and future XENON limits on the neutralino dark matter in split supersymmetry (split-SUSY). Through a scan over the parameter space under the current constraints from collider experiments and the WMAP measurement of the dark matter relic density, we find that in the alowed parameter space only a narrow part can be excluded by the present XENON100 limits while a much larger part can be covered by the future exposure (6Ooo kg-day). In case of unobservation of dark matter, the lightest neutralino will be bino-like and the lightest chargino will be either a light wino-like one (below 150 GeV)or a relatively heavy higgsino-like one (above 200 GeV). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 14.80.Cp,12.60.Fr,11.30.Qc ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "So far the only phenomenology crisis which requires new physics at the TeV scale seems to be the cosmic dark matter. Unlike neutrino oscilations which may indicate some new physics at a very high unaccessible energy scale, the cosmic dark matter naturally points to a WIMP (weakly interacting massve particle) which should appear in some new physics around TeV scale. A perfect candidate for such a WIMP is the lightest neutralino in low energy supersymmetry (SUSY). As a specific low energy SUSY model, the split-SUSY [1] is phenomenologically attractive because it just gives up the acestic (fine-tuning) problem while maintains the phenomenologically required dark matter and the gauge coupling unification. This model also gets rid of the notorious supersymmetric flavor problem because of the assumed superheavy sfermions. Actually, in this framework no supersymmetric scalar particles except the SM-like Higgs boson are accessible at the foreseeable particle colliders. So the only way to test this model is to study its gaugino/higgsino sector. Of course, for such a study the collider experiments will play the leading role. Nonetheless, the dark matter detection experiments like XENON [2] and CDMS [3] can interplay with the collider experiments to allow for a comprehensive test. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, the CDMS and XENON collaborations reported their null search results which set rather stringent limits on the dark matter scattering cross section [2,3]. The implications of these new limits for the neutralino dark matter in low energy SUSY models have been discussed recently (see, e.g., [4-6]). On the other hand, the CoGeNT [7] and DAMA/LIBRA [8] collaborations reported some excesses which are consistent with an explanation of a light dark matter with a mass around 10 GeV (albeit not corroborated by CDMS or XENON results). The possible existence of such a light dark matter also stimulated some theoretical studies in low energy SUSY models [9]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this note we discuss the implication of the direct detection limits for the neutralino dark matter in split-SUSY. Since the most stringent limits come from the XENON100 results, we will focus on the present and future (6000 kg-day) limits from XENON. We will perform a scan over the parameter space under the current constraints from collider experiments and the WMAP measurement of the dark matter relic density, and display the allowed parameter space in the plane of the dark matter scattering rate versus the dark matter mass. Then we can see how large a parameter space can be excluded by the present and future XENON limits. Further, we will show the implication of XENON limits on the properties of the neutralino dark matter and the lightest chargino. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We start our analysis by writing out the chargino mass matrix: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } _ { \\chi ^ { \\pm } } = \\left( \\begin{array} { c c } { { M _ { 2 } } } & { { \\sqrt { 2 } m _ { W } \\sin \\beta } } \\\\ { { \\sqrt { 2 } m _ { W } \\cos \\beta } } & { { \\mu } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the 2-components spinors are defined as $\\tilde { \\psi } ^ { + } = ( - i \\tilde { \\omega } ^ { + } , \\tilde { h } _ { 2 } ^ { + } ) ^ { T }$ ， $\\tilde { \\psi } ^ { - } = ( - i \\tilde { \\omega } ^ { - } , \\tilde { h } _ { 1 } ^ { - } ) ^ { T }$ . The neutralino mass matrix is given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\sf M } _ { \\chi ^ { 0 } } = \\left( \\begin{array} { c c c c } { { M _ { 1 } } } & { { 0 } } & { { - m _ { Z } \\sin \\theta _ { W } \\cos \\beta } } & { { m _ { Z } \\sin \\theta _ { W } \\sin \\beta } } \\\\ { { 0 } } & { { M _ { 2 } } } & { { m _ { Z } \\cos \\theta _ { W } \\cos \\beta } } & { { - m _ { Z } \\cos \\theta _ { W } \\sin \\beta } } \\\\ { { - m _ { Z } \\sin \\theta _ { W } \\cos \\beta } } & { { m _ { Z } \\cos \\theta _ { W } \\cos \\beta } } & { { 0 } } & { { - \\mu } } \\\\ { { m _ { Z } \\sin \\theta _ { W } \\sin \\beta } } & { { - m _ { Z } \\cos \\theta _ { W } \\sin \\beta } } & { { - \\mu } } & { { 0 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the 2-component spinors are defined as $\\tilde { \\psi } ^ { 0 } = ( - i \\tilde { b } , - i \\tilde { \\omega } _ { 3 } , \\tilde { h } _ { 1 } , \\tilde { h } _ { 2 } ) ^ { T }$ . In the above mass matrices, $M _ { 1 }$ and $M _ { 2 }$ are respectively the $U ( 1 )$ and $S U ( 2 )$ gaugino mass parameters, $\\mu$ is the mass parameter in the mixing term $- \\mu \\epsilon _ { i j } H _ { 1 } ^ { i } H _ { 2 } ^ { j }$ in the superpotential, and $\\tan \\beta \\equiv v _ { 2 } / v _ { 1 }$ is ratio of the vacuum expectation values of the two Higgs doublets. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The chargino mass matrix (1） is diagonalized by $U ^ { * } { \\mathcal { M } } _ { \\chi ^ { \\pm } } V ^ { \\dagger }$ to give two chargino mass eigenstates $\\chi _ { 1 , 2 } ^ { + }$ with the convention $M _ { \\chi _ { 2 } ^ { + } } < M _ { \\chi _ { 1 } ^ { + } }$ . The eigenstates can be wino $( - i \\tilde { \\omega } ^ { + } )$ （20 dominant or higgsino $\\left( \\tilde { h } _ { i } ^ { + } \\right)$ dominant. Similarly, the neutralino mass matrix (2） is diagonalized by $N ^ { * } \\mathcal { M } _ { \\chi ^ { 0 } } N ^ { \\dagger }$ to give four neutralino massigenstates $\\chi _ { 1 , 2 , 3 , 4 } ^ { 0 }$ with the convention （20 $M _ { \\chi _ { 1 } ^ { 0 } } < M _ { \\chi _ { 2 } ^ { 0 } } < M _ { \\chi _ { 3 } ^ { 0 } } < M _ { \\chi _ { 4 } ^ { 0 } }$ . The neutralinos can bino $( - i \\tilde { b } )$ ，wino $( - i \\tilde { \\omega } _ { 3 } )$ or higgsino $( \\tilde { h } _ { i } )$ （20 dominant. So the masses and mixings of charginos and neutralinos are determined by four parameters: $M _ { 1 }$ ， $M _ { 2 }$ ， $\\mu$ and $\\tan \\beta$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The spin-independent (SI) interaction between the lightest nuetralino $\\tilde { \\chi } _ { 1 } ^ { 0 }$ and the nucleon (denoted by $f _ { p }$ for proton and $f _ { n }$ for neutron [1O]） is induced by exchanging the SM-like Higgs boson at tree level [10, 11]. Note that the channels of exchanging sqarks, which are important in the MSSM, vanish in split-SUSY. For a light SM-like Higgs boson, $f _ { p }$ is approximated by [10] (similarly for $f _ { n }$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { p } \\simeq \\sum _ { q = u , d , s } \\frac { f _ { q } ^ { H } } { m _ { q } } m _ { p } f _ { T _ { q } } ^ { ( p ) } + \\frac { 2 } { 2 7 } f _ { T _ { G } } \\sum _ { q = c , b , t } \\frac { f _ { q } ^ { H } } { m _ { q } } m _ { p } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { T q } ^ { ( p ) }$ denotes the fraction of $m _ { p }$ (proton mass） from a light quark $q$ while $f _ { T _ { G } } =$ $\\begin{array} { r } { 1 - \\sum _ { u , d , s } f _ { T _ { q } } ^ { ( p ) } } \\end{array}$ is the heavy quark contribution through gluon exchange. $f _ { q } ^ { H }$ is the coefficient of the effective scalar operator given by [10] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { q } ^ { H } = m _ { q } \\frac { g _ { 2 } ^ { 2 } } { 4 m _ { W } } \\frac { C _ { h \\tilde { \\chi } \\tilde { \\chi } } C _ { h q q } } { m _ { h } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $C$ standing for the corresponding Yukawa couplings. The $\\tilde { \\chi } ^ { 0 }$ -nucleus scattering rate is then given by [10] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ^ { S I } = \\frac { 4 } { \\pi } \\left( \\frac { m _ { \\tilde { \\chi } ^ { 0 } } m _ { T } } { m _ { \\tilde { \\chi } ^ { 0 } } + m _ { T } } \\right) ^ { 2 } \\times \\left( n _ { p } f _ { p } + n _ { n } f _ { n } \\right) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { T }$ is the mass of target nucleus and $n _ { p } ( n _ { n } )$ is the number of proton (neutron) in the target nucleus. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From the above formulas we can infer in which situation the scattering cross section is large. Eq.(4) indicates that this occurs when $C _ { h \\tilde { \\chi } \\tilde { \\chi } }$ and/or $C _ { h q q }$ get enhanced. As the Higgs boson is SM-like, $C _ { h q q }$ has no $\\tan \\beta$ enhancement for the down-type quark as in the MSSM. We here only check the behavior of $C _ { h \\tilde { \\chi } \\tilde { \\chi } }$ with the variation of the relevant SUSY parameters. For a bino-like $\\tilde { \\chi } _ { 1 } ^ { 0 }$ , this coupling is generated through the bino-higgsino mixing and thus a large $C _ { h \\tilde { \\chi } \\tilde { \\chi } }$ needs a large mixing, which means a small $\\mu$ . To make this statement clearer, we consider the limit $M _ { 1 } \\ll M _ { 2 } , \\mu$ ( $M _ { 1 }$ ， $M _ { 2 }$ and $\\mu$ denoting respectively the mass of bino, wino and higgsino). After diagonalizing the neutralino mass matrix in a perturbative way, one can get [4] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { h \\tilde { \\chi } \\tilde { \\chi } } \\simeq \\frac { m _ { Z } \\sin \\theta _ { W } \\tan \\theta _ { W } } { M _ { 1 } ^ { 2 } - \\mu ^ { 2 } } \\big [ M _ { 1 } + \\mu \\sin 2 \\beta \\big ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "So both couplings become large when $\\mu$ approaches downward to $M _ { 1 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In our numerical calculation for the dark matter-nucleon scattering rate, we considered all the contributions (including QCD corrections） known so far. We take $f _ { T _ { u } } ^ { ( p ) } = 0 . 0 2 3$ ， $f _ { T _ { d } } ^ { ( p ) } = 0 . 0 3 2$ ， $f _ { T _ { u } } ^ { ( n ) } = 0 . 0 1 7$ ， $f _ { T _ { d } } ^ { ( n ) } = 0 . 0 4 1$ and $f _ { T _ { s } } ^ { ( p ) } = f _ { T _ { s } } ^ { ( n ) } = 0 . 0 2 0$ [12-14]. Note that here the value of $f _ { T _ { s } }$ is much smaller than that taken in most previous studies. This small value comes from the recent lattice simulation [15],and it can reduce the scattering rate significantly. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown in [16], the sfermion mass and $M _ { A }$ begin to decouple from the DM phenomenology when they are heavier than several TeV. Thus in our numerical scan we set （204 $M _ { A } = M _ { 0 } = 1 0 \\mathrm { T e V }$ and the trilinear term $A _ { t } = A _ { b } = 0 ^ { r }$ TeV to simulate the split-SUSY scenario. The remained SUSY parameters are $\\tan \\beta$ ， $M _ { 1 }$ ， $M _ { 2 }$ ， $M _ { 3 }$ ， $\\mu$ . We assume the SUSY ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GUT relation $M _ { 1 } = ( 5 s _ { W } ^ { 2 } / 3 ( 1 - s _ { W } ^ { 2 } ) ) M _ { 2 } \\simeq 0 . 5 M _ { 2 }$ and $M _ { 3 } = ( \\alpha _ { s } s _ { W } ^ { 2 } / \\alpha _ { \\mathrm { { E W } } } ) M _ { 2 } \\simeq 5 . 2 6 M _ { 2 }$ and thus there left only three parameters which make our scan much eficient. We use the package DarkSUSY [17] to scan the parameter space in the ranges ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 < \\tan \\beta < 5 0 , 0 G \\mathrm { e V } < M _ { 2 } , \\mu < 8 0 0 G \\mathrm { e V } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In our scan we consider the following constraints: (1) $\\tilde { \\chi } _ { 1 } ^ { 0 }$ to account for the WMAP measured dark matter relic density at $2 \\sigma$ level [18]; (2） The LEP lower bounds on the Higgs boson, neutralinos and charginos, including the $Z$ -boson invisible decay；(3） The precision EW observables plus $R _ { b }$ [19]. The samples surviving the above constraints will be input for the calculation of the $\\tilde { \\chi } - N$ scattering rate. Note that these constraints have already been encoded in DarkSUSY. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d45a6c6d73f75e4c7d1f128658757f759de70eaf854c2ce732f5ffddd8d1f48.jpg",
+        "img_caption": [
+            "FIG.1: The right (left) panel is the scatter plots of the split-SUSY (MSSM) parameter space which survived the constraints from the dark matter relic density ( $2 \\sigma )$ ）and the collider experiments.The 号 $^ +$ ’ points (red) are excluded by XENON100 (90% C.L.） limits, the ‘ $\\times$ ’(blue） will be covered by the future XENON exposure (6000 kg-days), and the $\\cdot _ { \\bigcirc }$ (green）and $\\triangle ^ { \\prime }$ (yellow） are beyond the future XENON sensitivity. Here for split-SUSY we use $\\cdot _ { \\bigcirc } { } ^ { \\prime }$ (green） and $\\triangle ^ { \\prime }$ (yellow） to show the separate region of $m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } }$ in 45-75 GeV and 175-400 GeV, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our scan samples are $4 \\times 1 0 ^ { 5 }$ random points in the parameter space,and about 5000 samples can survive the constraints from the dark matter relic density (2 $\\boldsymbol { \\sigma }$ ）and the collider experiments. The survived samples are displayed in Fig.1, compared with the MSSM results [6]. From the figure we can see that the $\\tilde { \\chi } - N$ scattering cross section is highly suppressed in split-SUSY because there is no $\\tan \\beta$ enhancement in the quark Yukawa couplings. As a result, only a few survived samples can be excluded by the present XENON100 (90% C.L.) limits. However, the future exposure of XENON (6000 kg-days) can cover a large part of the survived parameter space. Note that the future exposure of XENON can completely cover the dark matter mass range of 75-175 GeV in split-SUSY. This means that in case of null results, two regions of parameter space would survive, characterized respectively by a $\\tilde { \\chi } _ { 1 } ^ { 0 }$ in 45-75 GeV and 175-400 GeV. In the following we check the properties of different regions of the parameter space. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d10abc1fc1b94a0e36f73d3bc6904175bc7f58a39c308188d5402c6ed1cd6bb7.jpg",
+        "img_caption": [
+            "FIG. 2: Same as the right panel of Fig. 1, but showing $M _ { 1 }$ versus $\\mu$ and mx+ versus the dark matter mass. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Eq.(6), as $\\mu$ approaches downward to $M _ { 1 }$ , the coupling $C _ { h \\tilde { \\chi } \\tilde { \\chi } }$ can be enhanced. As shown in the left panel of Fig.2, most of the points covered by the future XENON exposure are in the region of $M _ { 1 } \\simeq \\mu$ ， which corresponds to a large $\\tilde { \\chi } - N$ scattering cross section. In this region the $\\tilde { \\chi } - N$ scattering can be even enhanced to reach the present XENON100 sensitivity. Obviously, the remained points go into two regions: region-I (the lower region denoted by green $\\cdot _ { \\bigcirc }$ ）in which $\\mu$ is much larger than $M _ { 1 }$ and region-II (the upper region denoted by yellow $\\bigtriangleup$ ’）in which $\\mu$ is smaller than $M _ { 2 } ( \\simeq 2 M _ { 1 } )$ . The right panel of Fig. 2 shows again the two regions: in region-I (the lower region denoted by gren $^ \\circ$ ） $^ m x _ { 1 } ^ { + }$ is about $2 m _ { \\chi _ { 1 } ^ { 0 } }$ because in this region the lightest neutralino is highly bino-like and the lightest chargino is highly wino-like; while in region-I (the upper region denoted by yellow $\\triangle \\ '$ ）the masses of the lightest neutralino and chargino are comparable ( $m _ { \\chi _ { 1 } ^ { + } }$ is a little larger than $m _ { \\chi _ { 1 } ^ { 0 } } ^ { \\phantom { \\chi } } ,$ ）because in this region $^ m x _ { 1 } ^ { + }$ is dominated by $\\mu$ ( $\\mu \\ < \\ M _ { 2 } )$ and $^ m x _ { 1 } ^ { 0 }$ is dominated by （20 $M _ { 1 } ( \\simeq 0 . 5 M _ { 2 } )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8d142d1055895488a0c5b0dd05e47cabcdd40954c3dfd363d0a74aa9d11cfdd.jpg",
+        "img_caption": [
+            "FIG.3: Same as the right panel of Fig.1, but showing the bino component of the lightest neutralino. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We show the bino component of the lightest neutralino in Fig.3 and the higgsino component of the lightest chargino in Fig. 4. From Fig.3 we see that the neutralino is excluded or covered when its bino component is small (higgsino component is large). The survived neutralino is either highly bino-like in region-I (left-upper region denoted by green ‘ $\\bigcirc$ ’）or quite bino-like in region-II (right-upper region denoted by yellow ‘ $\\triangle$ ). From Fig. 4 we see that in the excluded or covered region the chargino has a large higgsino component (a small wino component). In the survived region-I (lower region denoted by green ‘ $\\bigcirc$ ’）the chargino has a small higgsino component (a large wino component） while in the survived region-II (right-upper region denoted by yellow $\\bigtriangleup$ ） the chargino has a large higgsino component (a small wino component). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/844846fa95807bdd9207e9a268f6c765d3729b10978083500d6aac3d1a20b4e2.jpg",
+        "img_caption": [
+            "FIG.4: Same as the right panel of Fig.1, but showing the higgsino component of the lightest chargino. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Since the the lightest neutralino is bino-like except in the $M _ { 1 } \\simeq \\mu$ region, the mass of gluino has a simple linear relation with $m _ { \\tilde { \\chi } } { } ^ { 0 }$ which is shown in left panel of Fig. 5. The peak in the plot is the region where the lightest neutralino is higgsino dominant. The dominant production of split-SUSY particles at the LHC is $p p  \\tilde { g } \\tilde { g }$ ， whose cross section is shown in the right panel of Fig. 5. We can see that the survived region-I (upper region denoted by green ‘ $\\cup$ \") has a large production rate while the survived region-II (lower region denoted by yellow ‘ $\\triangle ^ { \\ i }$ ） has an unobservably small cross section. So, if the LHC cannot find a gluino, then region-II will be favored. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note that in split-SUSY the neutralino dark matter cannot be as light as several GeV to explain the CoGeNT and DAMA/LIBRA results. As shown in [9], the neutralino dark matter in the MSSM cannot be such light either; only in the framework of the next-tominimal SUSY model can the dark matter be so light and have a large scattering cross section with the nucleon to explain the CoGeNT and DAMA/LIBRA results. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, we studied the present and future XENON limits on the neutralino dark matter in split-SUSY. We performed a scan over the parameter space under the current constraints from collider experiments and the WMAP measurement of the dark matter relic density. We found that in the allowed parameter space only a narrow part can be excluded by the present XENON10o limits while a much larger part can be covered by the future exposure (6O00 kg-day). In case of unobservation of dark matter, the lightest neutralino will be constrained to be bino-like and the lightest chargino will be either a light wino-like one (below 150 GeV) or a relatively heavy higgsino-like one (above 200 GeV). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/755a1286f36998116fb8b82ebe6b5c848e587f9148c5742fc3e26cdff80ac4cb.jpg",
+        "img_caption": [
+            "FIG. 5: Same as the right panel of Fig.1,but showing the gluino mass and the gluino pair production cross section at the LHC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "JMY thanks JSPS for the invitation fellowship (S-11028) and the particle physics group of Tohoku University for their hospitality. This work was supported in part by NSFC (Nos.10821504，10725526，10635030,11075045,11005006） and the Doctor Fundation of BJUT (No. X0006015201102). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] N. Arkani-Hamed, S. Dimopoulos, hep-th/0405159; G.F. Giudice, A. Romanino, Nucl. Phys. B 699,65 (2004). N. Arkani-Hamed, S. Dimopoulos, G. F. Giudice,A. Romanino, Nucl. Phys. B 709, 3 (2005).   \n[2] E. Aprile et al.,arXiv:1104.2549.   \n[3] Z. Ahmed et al., Science 327, 1619 (2010). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4] J. Hisano,K. Nakayama and M. Yamanaka, Phys. Lett.B 684, 246 (2010). [5] M. Asano et al.,arXiv:0912.5361； M. Holmes and B. D. Nelson, Phys.Rev. D 81, 055002 (2010). [6] J. Cao et al., Phys. Rev. D 82, 051701 (2010); JHEP1007, 044 (2010). [7] C.E. Aalseth et al.， arXiv:1002.4703； arXiv:1106.0650； D. Hoopera and C. Kelso, arXiv:1106.1066. [8] R.Bernabei et al., Eur. Phys. J. C67,39 (2010). [9] D.A. Vasquez et al., Phys. Rev. D 82,115027 (2010); P. Draper et al., Phys. Rev. Lett. 106, 121805 (2011)； J. Cao et al.，arXiv:1104.1754; D. Das and U. Ellwanger, JHEP 1009,085 (2010); J.F. Gunion et al.,arXiv:1009.2555; L. Calibbi, T. Ota, Y. Takanishi,arXiv:1104.1134; N. Fornengo et al., Phys. Rev. D 83, 015001 (2011); Z. Kang et al, JCAP 1101, 028 (2011). [10] G. Junman,M. Kamionkowski and K. Griest, Phys.Rept. 267,195 (1996). [11] M. Drees and M. Nojiri, Phys. Rev. D 48, 3483 (1993). [12] A. Djouadi and M. Drees,Phys. Lett. B 484,183 (2000); G. Belanger et al., Comput. Phys. Commun.180, 747 (2009). [13] M. S. Carena et al., Nucl. Phys. B 577, 88 (2000). [14] J. Hisano, K. Ishiwata and N. Nagata, arXiv:1007.2601 [hep-ph]. [15] H. Ohki et al., Phys.Rev.D 78,054502 (2008)； D. Toussaint and W. Freeman, Phys. Rev. Lett.103,122002 (2009)； J. Giedt,A.W. Thomas and R. D. Young, Phys. Rev. Lett.103, 201802 (2009). [16] F.Wang,W. Wang and J. M. Yang, Eur.Phys. Jour. C 46, 521 (2006); Eur. Phys. Jour. C 51, 713 (2007). [17] P.Gondoloetal.，JCAPO7(2004）O08. Thecodeisavailable from http://www.physto.se/\\~edsjo/darksusy [18] J. Dunkley et al. [WMAP Collboration], Astrophys. J. Suppl. 180, 306 (2009). [19] J. Cao and J. M. Yang, JHEP 0812, 006 (2008). ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,483 @@
+[
+    {
+        "type": "text",
+        "text": "Highly-dispersed ultrafine Pt nanoparticles on reduced graphene oxide nanosheets: In situ sacrificial template synthesis and superior electrocatalytic performance for methanol oxidatic ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shouliang Wu α, Jun Liua, Zhenfei Tiana, Yunyu Cai α, Yixing Yea, Qinglin Yuan ab and Changhao Liang a, b\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aKey Laboratory of Materials Physics and Anhui Key Laboratory of Nanomaterials and Nanotechnology, Institute of Solid State Physics, Chinese Academy of Sciences, Hefei 230031, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "bDepartment of Materials Science and Engineering, University of Science and Technology of China,Hefei 230026,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author. Tel: $+ 8 6$ 55165591129; Fax: Tel: $+ 8 6$ 55165591434; E-mail: chliang@issp.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: ultrafine Pt NPs, electrocatalyst, in situ sacrificial template, laser ablation in liquids, methanol oxidation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We report a simple and environment-friendly route to prepare platinum/reduced graphene oxide $\\mathrm { ( P t / r G O ) }$ nanocomposites (NCs） with highly reactive $\\mathrm { M n O } _ { x }$ colloids as reducing agents and sacrificial templates. The colloids are obtained by laser ablation of a metallic Mn target in graphene oxide (GO)-containing solution. Structural and morphological investigations of the asprepared NCs revealed that ultrafine Pt nanoparticles (NPs) with an average size of $1 . 8 ~ ( \\pm$ 0.6) nm are uniformly dispersed on the surfaces of rGO nanosheets. Compared with commercial Pt/C catalysts,Pt/rGO NCs with highly electrochemically active surface areas show remarkably improved catalytic activity and durability toward methanol oxidation. All of these superior characteristics can be atributed to the small particle size and uniform distribution of the Pt NPs, as well as the excellent electrical conductivity and stability of the rGO catalyst support. These findings suggest that $\\mathrm { P t / r G O }$ electrocatalysts are promising candidate materials for practical use in fuel cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Among the different clean and renewable energy systems currently available, direct methanol fuel cells (DMFCs) have been extensively studied in recent decades because of their simple structure, high power densities, high energy conversion efficiencies,low operation temperatures, and low pollutant emissions.1-5 In these electrochemical cells, methanol is directly oxidized by oxygen from air into water and carbon dioxide to generate electricity. Pt-based materials are widely used as anode electrocatalysts for driving methanol oxidation reactions. However, the high manufacturing cost and slow reaction kinetics of Pt-based catalysts have seriously prevented the successful commercialization of DMFCs. Considering these issues, great effort has been made to develop non-Pt-containing catalysts. Thus far, only a few catalysts have shown suficiently acceptable electrocatalytic activity.6, 7 Therefore, Pt-based catalysts with reduced costs and improved catalytic activities must be developed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The size of Pt NPs is known to be one of the most important factors affecting the performance of a catalyst. As the particle size decreases,a large fraction of active Pt atoms could be exposed to the surfaces； thus,ultrafine Pt NPs often exhibit highly enhanced catalytic activities. Downsizing Pt NPs is another way to reduce the Pt loading and cost of catalysts.However, when the size of the Pt NPs is too small, the high surface energy of the NPs may cause severe aggregation, thereby inducing a serious decline in their performance during catalytic operation and impeding their use in industrial processes.8,9 An effective strategy for solving these deactivation problems involves uniform loading of the Pt NP catalysts onto a carrier with a large surface area and good electrical conductivity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Vulcan XC-72 carbon is commonly used as the support material for dispersed nano-sized Pt catalysts.1° However, this material is susceptible to corrosion at the operating conditions of ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DMFCs, such as in systems with acidic electrolytes $\\mathrm { ( p H < 1 ) }$ ） and high driving potentials $( 0 . 6 -$ 1.2 V).11 12 Thus,semiconductive oxides and carbides,suchas $\\mathrm { T i O } _ { 2 } ^ { 1 3 }$ ， $\\mathrm { C e O } _ { 2 } { } ^ { 1 4 }$ ， ${ \\mathrm { S i C } } ^ { 1 5 }$ and $\\mathrm { B } _ { 4 } \\mathrm { C } ^ { 1 6 }$ have been investigated as catalyst support materials because of their high electrochemical activity and stability. However, their low electrical conductivity seriously impedes their further development as suitable catalyst supports for DMFCs. Graphene is a monolayer of carbon atoms packed into a dense honeycomb crystal structure; this material has recently atracted increased attention because of its potential application as a catalyst support in fuel cells.17-20 Pt NPs can be deposited on graphene sheets to achieve specific properties, such as a large surface area to provide high metal dispersion, a high electrical conductivity to facilitate electron transfer, a suitable porosity to promote gas flow,and a high stability to avoid corrosion in both acidic and alkaline media. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, we propose a simple and green strategy to fabricate Pt/rGO NCs based on laser ablation in liquids (LAL). LAL-generated $\\mathrm { M n O } _ { x }$ colloids with high reactivity can be used as agents to reduce GO and $\\mathrm { P t C l } _ { 6 } { } ^ { 2 - }$ ，and $\\mathrm { M n O } _ { x }$ NPs can be easily deposited onto graphene nanosheets and further used as in situ sacrificial templates to ensure the uniform distribution of reduced Pt NPs on the surface of rGO nanosheets.A schematic of the proposed transformation is shown in Scheme 1. To identify their potential utility in catalytic applications, the electrocatalytic activity of the as-prepared Pt/rGO NCs was tested for methanol oxidation. The NC catalysts obtained displayed remarkably enhanced electrocatalytic performance toward methanol oxidation as compared with commercial $\\mathrm { P t / C }$ catalysts. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab888e85d6045e767817efd5532282781a0baf550f67038a4ce01aa434496d3c.jpg",
+        "img_caption": [
+            "Scheme 1. Schematic illustration for the formation of $\\mathrm { P t / r G O }$ NCs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Experimental section ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chemical reagents and materials ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All chemicals used in this experiment were of analytical grade and applied without further purification. Graphite powder was purchased from Tianjin Guangfu Fine Chemical Research Institute. GO (TEM image in Figure S1) was fabricated according to a modified Hummers method.21,22 The commercial Pt/C catalysts( $20 \\%$ Pt on Vulcan XC72R carbon） were purchased from Johnson Matthey. Double-distilled water (resistance, ${ > } 1 8 \\mathrm { M } \\Omega \\mathrm { c m } ^ { - 1 } .$ ）was used throughout all experiments. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Preparation of Pt/rGO NCs ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After fixing a manganese metal plate $9 9 . 8 \\%$ purity) to a vessel filled with $1 5 ~ \\mathrm { m L }$ GO solution, the rotating metal plate was ablated for 15 min by a fundamental Nd:YAG laser ( $\\left[ 1 0 6 4 \\mathrm { n m } \\right]$ with a $1 0 \\mathrm { H z }$ pulse repetition rate, 1O ns pulse duration, and $1 0 0 ~ \\mathrm { { m J } }$ per pulse laser energy. After ablation, the fresh colloids and $2 \\mathrm { m L }$ chloroplatinic acid $( \\mathrm { H } _ { 2 } \\mathrm { P t C l } _ { 6 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O } ,$ $4 \\mathrm { m g } \\mathrm { m L } ^ { - 1 }$ ）were fed into a round flask ( $\\mathrm { i 0 0 m L }$ ） in an oil bath heated to $9 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { h }$ .During oil bath heating, the solution was intensely stirred. To investigate the formation of the Pt/rGO NCs,1 mL of the suspension was sampled at different reaction intervals (8 and $1 8 \\mathrm { { h } }$ ). The black precipitate was collcted by centrifugation and alternately washed with deionized water and anhydrous ethanol for three times. The final products were obtained by drying the precipitate at $6 0 ~ ^ { \\circ } \\mathrm { C }$ in a vacuumdrying box. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Characterization ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The phase structures of the prepared products were analyzed by a Rigaku X-ray diffractometer with Cu Kα radiation ( $\\Lambda = 0 . 1 5 4 1 9 \\ \\mathrm { n m } )$ ). Raman spectra were measured by a confocal Raman microprobe (RENISHAW in Via Raman Microscope) with $5 3 2 \\mathrm { n m }$ argon ion laser excitation. The surface chemical constituents of the products were analyzed by X-ray photoelectron spectroscopy (XPS, Thermo ESCACLB 250). Fourier transform infrared (FT-IR) spectra were recorded on a Nicolet 870O spectrometer by the KBr pelet technique. High-resolution transmission electron microscopy (HR-TEM) was performed on a JEOL-2010 apparatus with $2 0 0 \\mathrm { k V }$ accelerating voltage. The TEM specimen was made by dispersing the product powders in ethanol to form a suspension， which was then dropped onto a carbon-coated Cu grid after ultrasonictreatment. Electrochemical impedance spectroscopy (EIS） of the products was performed with a Zahner IM6e electrochemical workstation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical measurements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "All electrochemical measurements were conducted at room temperature in a standard threeelectrode Zahner IM6e electrochemical workstation. A KCl-saturated Ag/AgCl electrode and a Pt wire were used as the reference and counter electrodes, respectively. A glassy carbon (GC) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "electrode ( $3 \\mathrm { m m }$ in diameter) was polished to a mirror finish with ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ slurry $( 0 . 3 \\mu \\mathrm { m } )$ and ultrasonically cleaned in ethanol for a few minutes. Subsequently, $1 0 ~ \\mu \\mathrm { L }$ of the as-obtained Pt/rGO NCs or commercial $\\mathrm { P t / C }$ catalyst suspension was directly pipetted onto a working electrode, followed by solvent evaporation at room temperature. Exactly $2 0 ~ \\mu \\mathrm { L }$ of the Nafion solutions were then dropped onto each dried sample. The weight concentration of $\\mathrm { P t }$ in the catalyst suspension was estimated through inductively coupled plasma optical emission spectrometry (ICP-OES). Cyclic voltammetry (CV) experiments were performed in a $0 . 5 \\mathrm { ~ M ~ N ~ } _ { 2 } .$ saturated ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ aqueous solution at a scan rate of $5 0 \\mathrm { m V s } ^ { - 1 }$ . The electrocatalytic activity for methanol oxidation of the catalysts was measured in a mixture of $0 . 5 { \\bf M }$ methanol and $0 . 5 { \\bf M }$ ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ (or 0.5 M KOH). The current-time (CA) curves of the catalysts were recorded at $0 . 6 3 5 \\mathrm { ~ V ~ }$ or $- 0 . 1 9 2 \\mathrm { V }$ for 3600 s. Long-term CV tests (1O0O cycles) were conducted in acidic and alkaline media at a scan rate of $5 0 \\mathrm { m V s } ^ { - 1 }$ to assess the stability of the $\\mathrm { P t / r G O }$ catalysts further. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The morphology of the as-synthesized Pt/rGO NCs was characterized by TEM. As seen from the low-magnification TEM images (Figures la-1c)， large quantities of Pt NPs are highly dispersed on the surface of rGO nanosheets,which shows a very narrow size distribution with average size of $1 . 8 \\ : ( \\pm 0 . 6 )$ nm (inset of Figure 1c). The HR-TEM image of the Pt/rGO NCs in Figure 1d reveals the ordered lattice fringes of Pt NPs. The $d$ -spacing value of $0 . 2 2 6 \\mathrm { n m }$ coincides well with that of face-centered cubic Pt (111), which is also consistent with the XRD peaks in Figure 2a. Moreover, even after a long period of drastic sonication, the Pt NPs were still firmly and uniformly anchored on the surface of rGO sheets，thereby indicating strong interactions between the Pt NPs and rGO sheets. Therefore，the rGO nanosheets play an important role in preventing agglomeration of ultrafine Pt NPs. Conversely, the highly dispersed ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Pt NPs on the surface of rGO sheets can act as “spacers” to prevent the overlapping of rGO sheets. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1da5d7050b6e7d2cc2d99c7d95254b58e293788ea98bd78eab9988cb08b20a94.jpg",
+        "img_caption": [
+            "Figure 1. Low-magnification TEM (a-c) and HR-TEM(d) images of the as-prepared $\\mathrm { P t / r G O }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "NCs. The inset in (c) shows the particle size-distribution histogram of Pt NPs. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/56d42672d76d003f53e79623ed0faf4d5b93ab9bfbb0f823b516889a5dfde713.jpg",
+        "img_caption": [
+            "Figure 2. (a) XRD patterns of pristine graphite, GO, and $\\mathrm { P t / r G O }$ NCs. (b) High-resolution C 1s XPS spectra of Pt/rGO NCs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The XRD patterns of pristine graphite (black line), graphene oxide (GO, blue line), and asprepared Pt/rGO NCs (red line) are shown in Figure 2a. The XRD peak of pristine graphite is observed at a $2 \\theta$ value of $2 6 . 6 ^ { \\circ }$ ，which indicates an interlayer distance of $0 . 3 3 5 ~ \\mathrm { n m }$ .This peak shifts to $1 0 . 5 ^ { \\circ }$ after oxidation treatment, which suggests that the interlayer distance in GO increases to $0 . 8 2 \\mathrm { n m }$ 23,24 The interlayer distance in GO expands because of the presence of epoxide, hydroxyl,and carboxyl groups, as well as water molecules,between the GO layers, which cause the GO to become hydrophilic. These surface functional groups can act as anchoring sites for metallic compounds. As soon as the Pt/rGO NCs are formed, no obvious peaks atributable to pristine graphite or GO could be observed. Many previous studies have shown that, if the regular stacks of graphite or GO are destroyed, for example,by exfoliation, their diffraction peaks would become weaker or even disappear.23 Therefore, combined with the above morphological analysis,it can be concluded that the graphene nanosheets could be destroyed by the decorated Pt NPs.24 Diffraction peaks at $2 \\theta$ values of $4 0 . 0 ^ { \\circ }$ ， $4 6 . 5 ^ { \\circ }$ and $6 7 . 9 ^ { \\circ }$ correspond to the (111), (200),and (220) facets,respectively, of face-centered cubic Pt crystals (JCPDS No. 01-1194), which confirms that the Pt precursor has been chemically reduced to Pt NPs. Peaks corresponding to manganese-based oxides were not observed, which demonstrates that the initial $\\mathrm { M n O } _ { x }$ NPs have completely reacted. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 2b displays the high-resolution C 1s XPS spectra of Pt/rGO NCs, which can be divided into four peaks corresponding to carbon atoms in different oxygen-containing functional groups. The peak located at a binding energy of $2 8 4 . 8 \\mathrm { e V }$ is assigned to the C-C bond. Three other peaks located at binding energies of 286.4, 287.9, and $2 8 8 . 9 \\ : \\mathrm { e V }$ respectively correspond to the C-O, $\\scriptstyle { \\mathrm { C = O } }$ ,and $0 { \\mathrm { - } } \\mathrm { C } { \\mathrm { = } } 0$ bonds,which show much weaker intensity compared with the peak of the CC bond. By comparing the high-resolution C 1s XPS spectrum from GO (Figure S5), the peak intensity of oxygen-containing functional groups sharply decreased, indicating that GO was reduced into rGO.23,25 Consistent with our Raman (Figure S2)and FT-IR (Figure S3) analyses, the results described above reveal that reduction of GO and loading of ultrafine Pt NPs onto rGO nanosheets were successfully achieved via a one-pot treatment. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1b4c6be47b319ea3b7efb3426a9871d98954457a1a094525322c3593d1a6b2b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 3. TEM images and corresponding EDS spectra obtained from the reaction suspension at different reaction intervals: (a) $0 \\mathrm { { h } }$ (b) $^ { 8 \\mathrm { h } }$ （c） $1 8 \\mathrm { h }$ ,and (d) $2 4 \\mathrm { h }$ .The insets illustrate the particle size-distribution histograms of Pt NPs.The peaks assigned to Cu elements during EDS analysis are attributed to the $\\mathrm { C u }$ grid used for TEM measurement. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We propose the formation mechanism of Pt/rGO NCs in our synthesis strategy as follows. In our previous work, we confirmed that fresh colloids generated by the LAL technique possess high activity and reactivity.26-28 For example, LAL-induced $\\mathrm { S n O } _ { x }$ colloids can be used as reducing agents and composite precursors to prepare SnO2/rGO NCs.29 In the present experiment, when the laser beam hits the surface of the Mn target, a Mn cluster containing a plasma plume with high temperature and high pressure is instantaneously produced at the solid-liquid interface. Subsequent ultrasonic and adiabatic expansion of the plume region forms small $\\mathrm { M n O } _ { x }$ clusters with a low valence state. These $\\mathrm { M n O } _ { x }$ clusters retain their relatively high-temperature and high pressure state; thus, the clusters are expected to be very active and quickly oxidized with the simultaneous reduction of GO to some extent. Highly active $\\mathrm { M n O } _ { x }$ NPs can also be well dispersed on the GO sheets to form $\\mathrm { M n O } _ { x } /$ GO NCs (Figure 3a). These NCs are mainly composed of $\\mathrm { M n } _ { 3 } \\mathrm { O } _ { 4 }$ and MnO NPs,which are described as $\\mathrm { M n O } _ { x }$ (XRD pattern is shown in Figure S4). Partial reduction of GO can be confirmed by the high-resolution C 1s XPS spectra of GO and （2 $\\mathrm { M n O } _ { x } / \\mathrm { G O }$ NCs (Figure S5). The peak intensities of the oxygen-containing functional groups of （204号 $\\mathrm { M n O } _ { x } / \\mathrm { G O }$ NCs sharply decreased compared with those of GO,which indicates the reduction of GO to some extent. As soon as the Pt/rGO NCs are formed, the peak intensity of oxygen with its functionalities is further decreased, thereby revealing further reduction of GO during the oil bath heating process. These findings may be further confirmed by the FT-IR analysis results (Figure S3). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To understand the formation process of the Pt NPs beter, we obtained TEM images and the corresponding EDS spectra from the products obtained from the reaction suspension at different reaction intervals (Figure 3). When the $\\mathrm { M n O } _ { x } / \\mathrm { G O }$ NCs were immersed in an aqueous solution of ${ \\mathrm { H } } _ { 2 } { \\mathrm { P t C l } } _ { 6 }$ at $9 0 ^ { \\circ } \\mathrm { C }$ ，Pt nanocrystals were spontaneously formed on the surface of the $\\mathrm { M n O } _ { x }$ NPs, where multiple numbers of tiny Pt nanocrystals, with an average size of $1 . 0 \\left( \\pm 0 . 4 \\right) \\mathrm { m }$ n, were attached to the surface of $\\mathrm { M n O } _ { x }$ NPs,as shown in Figure 3b. However, the longer reaction duration (Figure 3c） could cause additional nucleation and extensive deposition of Pt nanocrystals with slightly larger particle sizes.The TEM and EDS analysis results reveal that the $\\mathrm { M n O } _ { x }$ NPs progressively dissolve during the reaction，which implies that the growth of Pt proceeds via step-by-step consumption of $\\mathrm { M n O } _ { x }$ . Therefore, the TEM images of products with a reaction time of $2 4 \\mathrm { h }$ show the generation of Pt/rGO NCs,wherein the $1 . 8 \\ : ( \\pm 0 . 6 ) \\$ nm-sized Pt NPs are densely and uniformly dispersed on the rGO sheets (Figure 3d). The corresponding EDS spectra of the Pt/rGO NCs show peaks corresponding to C and $\\mathrm { P t }$ elements,which further confirms the formation of Pt NPs. This reaction can be described by the following equation: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P t C l } _ { 6 } \\mathrm { ^ { 2 - } + M n O _ { 2 } ( N P s ) + H ^ { + }  P t ( N P s ) + M n ^ { 3 + } + C l ^ { - } + H _ { 2 } O }\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the potential application of as-prepared $\\mathrm { P t / r G O }$ NCs，we investigated their electrochemical properties for methanol oxidation in both acidic and alkaline media. For comparison, the electrochemical measurements were also carried out with commercial Pt/C catalysts under the same conditions. The morphology and component characterization of the commercial $\\mathrm { P t / C }$ catalysts are presented in Figure S6. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical surface area (ECSA) of Pt catalysts is an important factor determining its catalytic activity. Figure 4a shows the typical CVs of prepared $\\mathrm { P t / r G O }$ and commercial $\\mathrm { P t / C }$ catalysts measured in a $0 . 5 { \\bf M }$ $\\Nu _ { 2 }$ -saturated ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ aqueous solution. Typical hydrogen adsorption and desorption were observed between $- 0 . 2 \\mathrm { V }$ and $0 . 1 6 \\mathrm { V }$ (vs. Ag/AgCl). The CV curve of Pt/rGO catalystsshowspeaks with a current density in the hydrogen adsorption/desorption region higher than those of the commercial $\\mathrm { P t / C }$ catalysts.The ECSA of the catalysts can be calculated on the basis of the hydrogen adsorption region according to the following equation:11,30 ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E C S A } = \\mathrm { Q _ { H } } / \\left( 0 . 2 1 \\times \\mathrm { [ P t ] } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where 0.21 (in $\\mathrm { m C } \\mathrm { c m } ^ { - 2 } .$ ） is assumed as the monolayer charge (calculated from the surface density of $1 . 3 { \\times } 1 0 ^ { 1 5 }$ atom $\\mathrm { c m } ^ { - 2 }$ ) $Q _ { \\mathrm { H } } ( \\mathrm { i n } \\ \\mathrm { m C } \\ \\mathrm { c m } ^ { - 2 } )$ is the amount of charge exchanged during the electro-desorption of hydrogen atoms on $\\mathrm { \\bf P t }$ ,and [Pt] （ $\\mathrm { i n } \\mathrm { m g } \\mathrm { c m } ^ { - 2 } .$ ） is the loading amount of $\\mathrm { P t }$ on the working electrode. The calculated ECSA of the prepared $\\mathrm { P t / r G O }$ catalysts is $1 0 1 3 . 4 \\mathrm { c m } ^ { 2 } \\mathrm { m g } ^ { - 1 }$ which is larger than that of the commercial $\\mathrm { P t / C }$ catalysts $( 8 2 6 . 9 \\mathrm { c m } ^ { 2 } \\mathrm { m g } ^ { - 1 } )$ ). The large ECSA value of the Pt/rGO catalysts indicates the ultrafine size and uniform dispersion of Pt NPs on the rGO nanosheets, which is in good agreement with the observed morphology. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(tu brri) rnelrtrlint 60 (a)   \n40 300   \n20 250 Pt/rGO   \n02040 200 Pt/C 150 100 Pt/rGO 50   \n-60 Pt/C 0   \n-0.2 0.00.20.40.60.8 1.0 0.0 0.2 0.4 0.6 0.8 1.0   \nPotential (VvsAg/AgCl) Potential (VvsAg/AgCl)   \n(c) (td brtr) rnlelptrlint (d) 60 Alkline media   \n300 4001 Pt/rGO 45 n Pt/C   \n200 30 000000000 Time (s)   \n100 15 Pt/rGO Pt/C Acidicmedia   \n0 0   \n-1.0-0.8-0.6-0.4-0.20.00.20.4 0 60012001800240030003600   \nPotential (VvsAg/AgCl) Time (s) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "catalysts measured at a scan rate of $5 0 \\mathrm { m V s ^ { - 1 } }$ in $0 . 5 { \\bf M }$ $\\Nu _ { 2 }$ -saturated ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ (a）, 0.5M $\\Lambda \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } + 0 . 5 \\mathrm { M C H } _ { 3 } \\mathrm { O H }$ (b), and $0 . 5 \\mathrm { M } \\mathrm { K O H } + 0 . 5 \\mathrm { M } \\mathrm { C H } _ { 3 } \\mathrm { O H }$ (c). CA curves of prepared （204号 $\\mathrm { P t / r G O }$ and commercial $\\mathrm { P t / C }$ catalysts measured in 0.5 M $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } + 0 . 5 \\mathrm { N }$ Ⅱ $\\mathrm { C H } _ { 3 } \\mathrm { O H }$ (d) and $0 . 5 { \\bf M }$ （204号 $\\mathrm { K O H } + 0 . 5 \\mathrm { M }$ [ $\\mathrm { C H } _ { 3 } \\mathrm { O H }$ (inset) at a scan rate of $5 0 \\mathrm { m V s ^ { - 1 } }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The mass activity of the $\\mathrm { P t }$ -based catalysts, which is defined as the peak current per amount of Pt loading, is commonly adopted for evaluating their electrocatalytic performances. Figure 4b shows typical CVs obtained in a 0.5 M ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ solution containing 0.5 M $\\mathrm { C H } _ { 3 } \\mathrm { O H }$ . The prepared ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pt/rGO catalysts show obviously higher current density at all corresponding potentials compared with the commercial $\\mathrm { P t / C }$ catalysts. Figure 4b demonstrates that the forward peak current density of the $\\mathrm { P t / r G O }$ catalysts is $3 3 3 . 3 \\mathrm { \\ m A \\ m g ^ { - 1 } }$ or about 2.17 times that of the commercial Pt/C catalysts ( $\\mathrm { 1 5 3 . 3 \\ m A \\ m g ^ { - 1 } }$ ). Similarly, in acidic media, the Pt/rGO catalysts exhibited a higher forward peak current density $( 5 5 2 . 5 \\mathrm { m A } \\mathrm { m g } ^ { - 1 } )$ than the commercial $\\mathrm { P t / C }$ catalysts (301.7 mA mg 1） in alkaline media, as shown in Figure 4c. More importantly, the $\\mathrm { P t / r G O }$ catalysts exhibited beter CO tolerance in alkaline media. Previous reports have confirmed that the ratio of peak current densities for the forward $( I _ { \\mathrm { f } } )$ and backward $( I _ { \\mathrm { b } } )$ scans is an indicator of the CO tolerance of the catalyst.3,32 A highr $I _ { \\mathrm { f } } / I _ { \\mathrm { b } }$ value indicates higher tolerance to intermediate carbon species, which means methanol can be oxidized into carbon dioxide much more eficiently. According to the calculation based on the Figure $\\scriptstyle 4 \\mathrm { c }$ ，the $I _ { \\mathrm { f } } / I _ { \\mathrm { b } }$ value for the Pt/rGO catalysts is 7.45,which is much higher than that of the commercial $\\mathrm { P t / C }$ catalysts (4.46). To describe the electrocatalytic performance of the prepared $\\mathrm { P t / r G O }$ catalysts further, the specific activities observed were also compared with those of commercial $\\mathrm { P t / C }$ catalysts,as shown in Figure S7. Results reveal that the specific activities of $\\mathrm { P t / r G O }$ catalysts are much higher than those of the commercial Pt/C catalysts in acidic and alkaline media. Allof these results provide clear evidence of the superior electrocatalytic activity of the prepared $\\mathrm { P t / r G O }$ catalysts for methanol oxidation. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The stabilities of the prepared $\\mathrm { P t / r G O }$ and commercial Pt/C catalysts were examined by steady-state chronoamperometry, as shown in Figure 4d. Compared with the commercial Pt/C catalysts, the Pt/rGO catalysts exhibited obviously higher initial current densities and maintained higher current densities during the entire test range in acidic and alkaline media; these findings indicate a higher poison-tolerance to absorbed intermediates generated during the methanol oxidation processes. To prove the stability of the $\\mathrm { P t / r G O }$ catalysts further, long-term CV tests were conducted in both acidic and alkaline media.As shown in Figures 5a and 5d, no obvious changes were found in the shape and peak potential of the CV curves of the Pt/rGO catalysts after the CA test and the subsequent 10o0 cycles. In acidic media (Figures 5a-5c), the remaining peak current density of the Pt/rGO catalysts was calculated as $9 3 . 0 \\%$ relative to the initial value after the CA test, which is higher than that observed from the commrcial $\\mathrm { P t / C }$ catalysts $( 7 5 . 9 \\% )$ Even at the 1Oooth cycle, the peak current density of $\\mathrm { P t / r G O }$ catalysts remained at $8 5 . 6 \\%$ ,but the corresponding value obtained from the commercial $\\mathrm { P t / C }$ catalysts sharply dropped to $6 2 . 4 \\%$ . The same phenomena were observed in alkaline media (Figure 5d-5f). The calculated forward peak current for the Pt/rGO catalysts was $8 8 . 6 \\%$ after the CA test and $7 7 . 9 \\%$ after 1000 cycles, both of which are higher than those of the commercial $\\mathrm { P t / C }$ catalysts ( $8 5 . 1 \\%$ and $6 1 . 4 \\%$ ,respectively). These results suggest that the $\\mathrm { P t / r G O }$ catalysts have excellent oxidation ability and corrosion resistance. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "H 400 Initial AfterCAtest After1000 cycles (a) m150 After1000cycles Initial AfterCAtest (b) 100% Acidic media 93.0% Pt/rGO PvC85.6% (c)   \niseergee Acidicrmedia Acidic media wifaeeest 100% 50 75.9%   \n100 62.4% . 0   \n0.0 0.2 .0.4 0.6 0.8 1.0 0.0 0.2 0.4 0.6 0.8 1.0 Potentiai (VvsAg/AgCl) Potential (VvsAg/AgCl) Initial After CA test After 1000 cycles Ater Cod ydles (d） 300 Ater COtesy les (e) 100% Alkalie medlag PVrGO (f) Pt/C Miaessea 77.9% Alkalinremedia Alkaline media 100% 85.1% 61.4% 0   \n0   \n-1.0-0.80.6040.20.00.20.4 -1.0-0.80.604.0.20.0.0.20.4 Potential(VvsAg/AgCl) Potential (VvsAg/AgCl) Initial After CA test After 1000 cycles ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Figure 5. CV curves of prepared $\\mathrm { P t / r G O }$ and commercial $\\mathrm { P t / C }$ catalysts measured in $0 . 5 \\mathrm { ~ M ~ }$ $\\mathrm { H _ { 2 } S O _ { 4 } } + 0 . 5 \\mathrm { M C H _ { 3 } O H ( a - c ) }$ and 0.5 MKOH+0.5M $\\mathrm { C H } _ { 3 } \\mathrm { O H }$ （204 $( \\mathrm { d - f } )$ at the initial, after CA test and the subsequent 100o cycles. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The good performance of as-prepared Pt/rGO catalysts in methanol oxidation can be reasonably understood by considering the following facts. First, compared with other carbon support materials, graphene possesses a larger surface area that can efficiently prevent the Pt NPs from coalescing and thus lead to the formation of highly dispersed, high-density,and ultrafine Pt NPs. These well-dispersed and ultrafine Pt NPs are endowed with more electrochemically active sites,active facets, and an active surface area. As well, the excelent stability of graphene can retain the structural integrity of the Pt/rGO catalysts under harsh electrochemical conditions. More importantly, graphene has excellent conductivity and can cause rapid transport of electron or charge carriers. To investigate the nature of these electrons or charge transfers, typical EIS data are presented as Nyquist plots in Figure S8.The diameter of the semicircle in the plot of the prepared Pt/rGO catalysts is much smaller than that observed for commercial $\\mathrm { P t / C }$ catalysts, and this feature indicates a much smaller solid-state interfacial resistance and electron or charge transfer resistance. These multiple factors contribute to the remarkable catalytic performance of the prepared Pt/rGO catalysts. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In summary, high-quality Pt/rGO NCs were successfully synthesized with graphene-anchored $\\mathrm { M n O } _ { x }$ NPs as a reaction template. Compared with commercial $\\mathrm { P t / C }$ catalysts, the as-prepared Pt/rGO catalysts possess higher activity and better long-term performance for methanol electrooxidation in acidic and alkaline media, which indicates that our electrocatalysts can provide more effcient Pt utilization. Graphene shows great potential application as a catalyst carrier in fuel cells.The proposed synthetic method is simple,efective,and environment-friendly, and the technique may be extended to the preparation of other noble metals or their alloys NPs on graphene for electrocatalytic or electrochemical sensor applications. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Associated Content ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Characterization of prepared GO and commercial $\\mathrm { P t / C }$ catalysts,additional Raman,FT-IR, XRD and XPS analysis of the products, EIS spectra of $\\mathrm { P t / r G O }$ and commercial $\\mathrm { P t / C }$ catalysts. This material is available free of charge via the Internet at http://pubs.as.org. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "AuthorInformation ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Author ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Tel: $+ 8 6$ 55165591129; Fax: Tel: $+ 8 6$ 55165591434; E-mail: chliang@issp.ac.cn ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interest. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "This work was financial supported by the National Basic Research Program of China (2014CB931704), the National Natural Science Foundation of China (NSFC, No. 11174287, 51371166,11204308) and CAS Key Technology Talent Program. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1) Liu, H. S.; Song, C. J.; Zhang, L.; Zhang, J. J.; Wang, H. J.; Wilkinson, D. P. A Review of Anode Catalysis in the Direct Methanol Fuel Cell. J. Power Sources 2006, 155, 95-110. (2） Service,R. F. Shrinking Fuel Cells Promise Power in Your Pocket. Science 2002,296, 1222-1224. (3） Shen, Y.; Zhang, Z. H.; Long, R. R.； Xiao, K. J.； Xi, J. Y. Synthesis of Ultrafine Pt Nanoparticles Stabilized by Pristine Graphene Nanosheets for Electro-oxidation of Methanol. ACS Appl. Mater. Interfaces 2014, 6, 15162-15170. (4） Chen，A. C.； Holt-Hindle,P. Platinum-Based Nanostructured Materials: Synthesis, Properties,and Applications. Chem. Rev. 2010, 110, 3767-3804. (5） Huang，H. J.; Wang， X. Recent Progress on Carbon-based Support Materials for Electrocatalysts of Direct Methanol Fuel Cells. J. Mater. Chem. A 2014,2, 6266-6291. (6) Serov, A.; Kwak, C. Review of Non-platinum Anode Catalysts for DMFC and PEMFC Application. Appl. Catal., B 2009,90, 313-320. (7) Gu, L.; Qian, L.; Lei, Y.; Wang, Y. Y.; Li, J.; Yuan, H. Y.; Xiao, D. Microwave-assisted Synthesis of Nanosphere-like $\\mathrm { N i C o } _ { 2 } \\mathrm { O } _ { 4 }$ Consisting of Porous Nanosheets and its Application in Electro-catalytic Oxidation of Methanol. J. Power Sources 2014, 261, 317-323. (8) Kim, K. W.; Kim, S. M.; Choi, S. H.; Kim, J. W.; Lee, I. S. Electroless Pt Deposition on $\\mathrm { M n } _ { 3 } \\mathrm { O } _ { 4 }$ Nanoparticles via the Galvanic Replacement Process: Electrocatalytic Nanocomposite with Enhanced Performance for Oxygen Reduction Reaction. ACS Nano 2012, 6,5122-5129. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(9) Tang, Y. N.; Yang, Z. X.; Dai, X. Q. A Theoretical Simulation on the Catalytic Oxidation of CO on Pt/graphene.Phys. Chem. Chem. Phys.2012,14,16566-16572. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(10) Qiu, Z.; Huang, H.; Du, J.; Feng, T.; Zhang, W. K.; Gan, Y. P.; Tao, X. Y. NbC Nanowire-Supported Pt Nanoparticles asa High Performance Catalyst for Methanol Electrooxidation. J. Phys. Chem. C 2013, 117,13770-13775. (11）Roen, L. M.; Paik, C. H.; Jarvi, T. D. Electrocatalytic Corrosion of Carbon Support in PEMFC Cathodes. Electrochem. Solid-State Lett. 2004, 7, A19-A22. (12) Xu, J. F.; Fu, G. T.; Tang, Y. W.; Zhou, Y. M.; Chen, Y.; Lu, T. H. One-Pot Synthesis of Three-Dimensional Platinum Nanochain Networks as Stable and Active Electrocatalysts for Oxygen Reduction Reactions. J. Mater. Chem. 2012, 22,13585-13590. (13） Tian,M.; Wu,G. S.; Chen，A. C. Unique Electrochemical Catalytic Behavior of Pt Nanoparticles Deposited on $\\mathrm { T i O } _ { 2 }$ Nanotubes. ACS Catal. 2012, 2, 425-432. (14) Yu, T.; Zeng, J.; Lim, B.; Xia, Y. N.; Aqueous-Phase Synthesis of $\\mathrm { P t } / \\mathrm { C e O } _ { 2 }$ Hybrid Nanostructures and Their Catalytic Properties. Adv. Mater. 2010, 22, 5188-5192. (15) Lv, H.F.; Mu, S. C.; Cheng, N. C.; Pan,M. Nano-Silicon Carbide Supported Catalysts for PEM Fuel Cells with High Electrochemical Stability and Improved Performance by Addition of Carbon. Appl. Catal., B 2010, 100,190-196. (16) Lv, H. F.; Peng, T.; Wu, P.; Pan, M.; Mu, S. C. Nano-Boron Carbide Supported Platinum Catalysts with much Enhanced Methanol Oxidation Activity and CO Tolerance. J. Mater. Chem. 2012, 22, 9155-9160. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(17) Zhai, C. Y.; Zhu, M. S.; Bin, D.; Wang, H. W.; Du, Y. K.; Wang, C. Y.; Yang, P. VisibleLight-Assisted Electrocatalytic Oxidation of Methanol Using Reduced Graphene Oxide Modified Pt Nanoflowers- $\\mathrm { \\cdot T i O } _ { 2 }$ Nanotube Arrays. ACS Appl. Mater. Interfaces 2014，6, 17753-17761. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(18) He, C. L.; Jiang, Y. X.; Rao,L.; Wang, Q.; Zhang, B. W.; Li, Y. Y.; Sun, S. G. Synthesis of Ultrafine Size Platinum Nanoparticles on Defective Graphene with Enhanced Performance Towards Methanol Electro-Oxidation,Fuel cells 2013, 5,873-880. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(19) Zhao, L.; Wang, Z. B.; Li, J. L.; Zhang, J. J.; Sui, X. L.; Zhang, L. M. A Newly-Designed Sandwich-StructuredGraphene-Pt-GrapheneCatalystwithImproved Electrocatalytic Performance for Fuel Cells. J. Mater. Chem. A 2015,3,5313-5320. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(20) Li, F. H.; Guo, Y. Q.; Liu, Y.; Yan, J.; Wang, W.; Gao, J. P. Excellent Electrocatalytic Performance of Pt Nanoparticles on Reduced Graphene Oxide Nanosheets Prepared by a Direct Redox Reaction Between $\\mathrm { N a } _ { 2 } \\mathrm { P t C l } _ { 4 }$ and Graphene Oxide. Carbon 2014, 67, 617-626. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(21)Hummers Jr, W. S.; Offeman, R.E. Preparation of Graphitic Oxide.J. Am. Chem. Soc. 1958, 80, 1339. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(22) Xu, Y. X.; Bai, H.; Lu, G. W.; Li, C.； Shi, G. Q. Flexible Graphene Films via the Filtration of Water-Soluble Noncovalent Functionalized Graphene Sheets. J. Am. Chem. Soc. 2008, 130, 5856-5857. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(23) Xu, C.; Wang, X.; Zhu, J. W. Graphene-Metal Particle Nanocomposites. J. Phys. Chem. C 2008,112,19841-19845. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(24) Xu, C.; Wang, X.; Zhu, J. W.; Yang, X. J.; Lu, L. D. Deposition of $\\mathrm { C o } _ { 3 } \\mathrm { O } _ { 4 }$ Nanoparticles onto Exfoliated Graphite Oxide Sheets. J. Mater. Chem. 2008, 18,5625-5629. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(25） Sun， Y. M.； Hu, X. L.； Luo，W.; Huang,Y. H. Self-Assembled Hierarchical MoO2/Graphene Nanoarchitectures and Their Application as a High-Performance Anode Material for Lithium-Ion Batteries. ACS Nano 2011, 5, 710O-7107. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(26) Tian, Z. F.; Liang, C. H.; Liu, J.; Zhang, H. M.; Zhang, L. D. Reactive and Photocatalytic Degradation of Various Water Contaminants by Laser Ablation-Derived $\\mathbf { S n O } _ { x }$ Nanoparticles in Liquid. J. Mater. Chem. 2011,21, 18242-18247. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(27) Tian, Z. F.; Liang, C. H.; Liu, J.; Zhang, H. M.; Zhang, L. D. Zinc Stannate Nanocubes and Nanourchins with High Photocatalytic Activity for Methyl Orange and 2,5-DCP Degradation. J. Mater. Chem. 2012,22,17210-17214. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(28) Wu, S. L.; Wang, P. P.; Cai, Y. Y.; Liang, D. W.; Ye, Y. X.; Tian, Z. F.; Liu, J.; Liang, C. H. Reduced Graphene Oxide Anchored Magnetic $\\mathrm { Z n F e } _ { 2 } \\mathrm { O } _ { 4 }$ Nanoparticles with Enhanced Visible-light Photocatalytic Activity. RSC Adv. 2015,5, 9069-9074. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(29) Ye, Y. X.; Wang, P.P.; Dai, E. M.; Liu, J.; Tian, Z. F.; Liang, C. H.; Shao, G. S. A Novel Reduction Approach to Fabricate Quantum-sized $\\mathbf { S n O } _ { 2 }$ -Conjugated Reduced Graphene Oxide Nanocomposites as Non-Enzymatic Glucose Sensors. Phys. Chem. Chem. Phys. 2014,16,8801- 8807. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(30) Anandan, S.； Manivel， A.； Ashokkumar, M. One-Step Sonochemical Synthesis of Reduced Graphene Oxide/Pt/Sn Hybrid Materials and Their Electrochemical Properties. Fuel Cells 2012, 6,956-962. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(31) Ding, L. X.; Wang, A. L.; Li, G. R.; Liu, Z. Q.; Zhao, W. X.; Su, C. Y.; Tong, Y. X. Porous Pt-Ni-P Composite Nanotube Arrays: Highly Electroactive and Durable Catalysts for Methanol Electrooxidation. J. Am. Chem. Soc. 2012, 134, 5730-5733. (32) Hao, Y. F.; Yang, Y. Y.; Hong, L. J.; Yuan, J. H.; Niu, L.; Gui, Y. H. Facile Preparation of Ultralong Dendritic PtIrTe Nanotubes and Their High Electrocatalytic Activity on Methanol Oxidation. ACS Appl. Mater. Interfaces 2014, 6,21986-21994. ",
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e57fa5d2ade3c45d2a6c2bc83d0d8234a7049d9975da75acd0f2788dd9486ce.jpg",
+        "img_caption": [
+            "Figure for Graphical abstract "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    }
+]

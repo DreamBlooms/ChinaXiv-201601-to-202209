@@ -1,0 +1,527 @@
+# 基于改进的NSGA2算法考虑病患公平性及医院运作成本的病床配置优化研究
+
+陈龙，刘勤明，叶春明，李佳翔(上海理工大学 管理学院，上海 200093)
+
+摘要：针对目前医院病床调度存在运营成本较大以及医患关系之间公平性的问题，提出一个考虑医院运作成本和病患公平性下单科室病床分配的多目标随机规划模型。首先，根据基于医院的相关政策，提出一个考虑响应性与准入性的权重测度指标来反映医患关系的公平性，并考虑医院的运作成本建立多目标随机规划模型；其次，为方便算法求解，引入线性化方法将复杂模型处理成混合整数线性模型；最后，采用改进后的 NSGA2算法对多目标问题求解，并对算例进行不同的数值实验，通过调整不同的参数进行相对应的灵敏度分析，改进后的算法提升了算法的收敛性与多样性，实验结果验证了模型的有效性和适用性。
+
+关键词：改进的NSGA2；医院病床；公平性；多目标随机规划；权重测度指标 中图分类号：R197.32 doi:10.19734/j.issn.1001-3695.2021.12.0688
+
+Bed allocation based on improved NSGA2 considering patient equity and hospital costs
+
+Chen Long,Liu Qinming†, Ye Chunming,Li Jiaxiang (BusinessSchool,ShanghaiUniversityofTechnology,Shanghai2Ooo93,China)
+
+Abstract: To addressthe problems oflarge operating costs and fairness betweendoctors and patients inthe currnt hospital bed scheduling,this paper proposes a multi-objective stochastic programming model for single departmentbed allocation consideringhospitaloperating costs and patient fairness.First,this paper proposes aweighted measure ofresponsiveness and accessto reflect the fairness of the doctor-patient relationshipbasedon relevant hospital-based policies,and establishes a multi-objectivestochastic programming modelconsidering the operationalcostof the hospital;second,to facilitate the algorithm solution,a linearization method is introduced to process thecomplex model intoamixed integer linear model; finally,theimproved NSGA2 algorithmsolve themulti-objectiveproblemTheimprovedalgorithmenhancesthe convergenceanddiversityof thealgorithm,ndtheexperimentalresults verifythevalidityandappicabilityofthe modelby adjusting different parameters for different numerical experiments.
+
+Key Words: improved NSGA2; hospital wards; equity; multi-objective optimization problem; equity measure index
+
+# 0 引言
+
+在医院诊疗阶段，病人需依据自身病情接受诊疗，然而病人在无序下地排队通常会导致医疗资源的浪费。其中，病床资源作为医疗资源中的关键环节，能否合理配置直接影响了医院的收容水平、运作水平、服务水平等。考虑到资源有限性，内部可使用面积以及运营成本等问题，如何对病床资源优化成为一个亟需解决的问题[1。医院作为国家医疗卫生体系的基础，还需考虑不同类型患者就诊的公平性[2.3]，医院在日常运作过程也需要控制成本[4,5]。因此，在保证患者就诊公平性的同时也要考虑到医院的运作成本情况成了难点。
+
+针对医院的病床分配优化问题，国内外学者们提出了许多不同的解决方法。目前病床分配问题主要分为单一科室的病床资源优化[以及多科室或考虑其他因素的联合优化。对于前者，诸多学者主要采用排队论以及其衍生的相关模型来解决诸如手术室、重症监护室、术后观察室等单科室病床的分配问题。安佰玲等[根据某眼科医院的病床安排指标，采用了休克疗法的思想建立非线性模型，在对指标进行评分后采用蒙特卡洛法仿真求解。如 Song 等人根据病患在医院中的分布情况，设计了基于排队论的急诊室就诊系统，系统会根据病人的诊疗结果进行病床分配，有效地缓解了患者排队拥堵的情况[8。周雄伟等人为了解决患者在就诊过程中等待时间过长，排队拥堵等方面的问题，总结分析了医院的单一门诊资源调度的最优策略[9]。上述的研究主要集中在医院单一科室的病床分配问题，然而不同科室的病人就诊情况差异较大，通常会导致某一科室的病床闲置，而另一科室的病床紧张的情况。因此在提升医院病床利用率方面，单一对某一科室的病床分配往往效率不高。
+
+随着学者们对病床资源分配的进一步深入研究，多目标优化方法也成为学者们求解多科室分配优化问题常用的方法之一，但是医疗资源的复杂性经常导致多个目标函数之间产生冲突[10-12]，对此国内外学者根据病床资源的特性提出了许多目标分配优化策略。Green[13]等指出医院在病床分配的过程中应着重平衡病床资源过剩以及病床资源紧张的问题。Wang等建立以医院拒绝病人就诊次数最少和等待时所花成本最少为目标的非线性规划模型并采用元模型仿真优化[14]。
+
+徐雷等在考虑病人等待和转诊成本的前提下，根据患者信息建立混合整数线性规划的病床分配调度模型[15]。宋鸿芳等考虑患者不能准时入院或提前出院两种因素，构建排队指标多部门间的病床分配模型，利用动态规划的方法取得最优解[16]。周晓鸣等在考虑临时床位与固定床位的情况下提出一个两阶段模型，采用遗传算法求解联合分配问题[17]。Bhattacharjee 和Ray[18]提出对病床资源分配和患者住院时间相结合的联合优化能更好完善患者排队系统。上述研究主要讨论的是关于病床资源的多目标分配优化方法，能较好地刻画患者以及医院的实际情况。在实际情况下要考虑的因素更为复杂，多目标模型的关键之处在于所考虑的因素能否准确的描述患者接受医疗服务的过程。目前研究主要考虑患者的因素较多，优化的目标集中在降低运营成本以及患者的被拒绝就诊方面，对于院方与患者之间的关系，医院与患者之间的公平性以及从医院方因素考虑的研究较少，有较大的研究空间。
+
+综上所述，本文着重在考虑病患公平性以及降低成本的角度进行多目标的分配优化研究。在体现患者公平性方面，本文根据相关的医院卫生政策[19-21]以及医院运营管理政策[22,23]创新性地引入一个权重测度指标作为公平性的判断标准。从院方角度，本文选取医院的运作成本作为保障医院日常运作的因素。在模型的建立过程中，除了设置运作成本以及公平权重最优化两个目标函数，结合病房的总容量，病人的诊疗费用以及系统的稳定性等约束条件构建一个多目标随机规划模型MOP(multi-objectiveprogramming)，并通过算例分析验证了模型在实际运用过程的有效性。研究结果不仅可以拓展多目标下的医院病床分配研究,该模型的合理运用有助于医院管理者在实际医院管理中对病床资源进行合理分配。
+
+# 1 问题描述
+
+本文的问题考虑病患的公平性以及医院的运作成本两个因素，对医院单科室内的特殊病人与普通病人的病床进行分配的问题。病人根据诊疗要求的诊疗服务分为普通病人和特殊病人。医院住院部内的病房依照病人需求类型进一步分类为公共病房与私人病房。考虑到病房分配是一个较为长期的过程，需要在一个有界定的时间范围内解决，因此限定医院的病房类型在半年至一年内的时间内该房间类型不会改变。
+
+医院日常运作成本主要体现在医院工作人员的开支以及医疗设备购买维护上，为了方便模型的建立，本文汇总医院运作产生的成本费用，再针对每种不同类型的病人进行成本平均化处理，即服务单位病人所需的成本。在反映反映公平性方面，不同病人的病情具有复杂性、不确定性，不能很好地度量来体现医院的服务质量，因此本文不考虑是否要预留一定的床位来保证急诊病人的病床供给，并依据此设立一个权重测度指标来衡量病床分配公平性。权重测度指标主要从两方面来考虑：病人入院等待时间以及患者所能接受最大等待天数。
+
+问题的主要难度在于如何平衡医院的运作成本与患者公平性，因此需要建立一个多目标随机规划模型平衡成本与公平，并采取数值检验改模型的有效性以及实用性。
+
+# 2 符号说明和假设
+
+# 2.1符号说明
+
+模型参数说明如表1所示。
+
+# 2.2模型假设
+
+假设A1：不同类型的患者相对独立，同一类型的患者所能接受最大等待天数相同，按照先到先得的原则接受医院诊疗。病人因个人原因的延误治疗以及中途退出等因素不予考虑。
+
+假设A2：每种类型的病人只会分配到对应的病房。不考
+
+虑病房里的病床容量的具体份额。只要任何类型病房的空间里至少有一张床位，病人即可入住。不考虑相同性别的患者一定要住在同一间病房。
+
+表1模型参数说明  
+Tab.1Model parameters description   
+
+<html><body><table><tr><td>符号</td><td>说明</td></tr><tr><td></td><td>病人类型集合，用指数i表示</td></tr><tr><td>J</td><td>病房类型集合，用指数j表示</td></tr><tr><td>T</td><td>病人完整诊疗下来的所需要的时间周期，用指数t表示</td></tr><tr><td>i=1,2</td><td>1表示VIP病人，2表示普通病人</td></tr><tr><td>j=1,2</td><td>1表示私人病房，2表示公共病房</td></tr><tr><td></td><td>ij;i∈I,j∈J表示该患者为ij型患者，确诊类型为i型，住在j型病房</td></tr><tr><td>t ∈[0,T]</td><td>完整诊疗的时间周期</td></tr><tr><td>No</td><td>病房的总数</td></tr><tr><td>bj</td><td>J类型病房的病床数</td></tr><tr><td>gi (x)</td><td>型病患间隔到达时间的概率分布</td></tr><tr><td></td><td>型患者的日均到达率</td></tr><tr><td>hij (x)</td><td>i型患者住院时间的概率分布</td></tr><tr><td>μij</td><td>型患者平均受到服务的概率</td></tr><tr><td>ri</td><td>医院服务一名患者的单位成本</td></tr><tr><td>Tii</td><td>型患者的容忍阈值</td></tr><tr><td>0</td><td>模型中的随机变量</td></tr><tr><td>Nij</td><td>i类型的病人分配到的j型病房的数量</td></tr><tr><td>K</td><td>型病人的准入性指标</td></tr><tr><td>Yij</td><td>型病患的预计到达率</td></tr><tr><td>aij</td><td>型病患的响应度指标</td></tr><tr><td>D,(t,0)</td><td>经过t后诊疗完成的ij型病患数量</td></tr><tr><td>Wij (0)</td><td>型患者等待诊疗的时间</td></tr><tr><td>m=0,1..,M病人预计到达率的离散化指数</td><td></td></tr><tr><td>M</td><td>病人预计到达率的离散度</td></tr><tr><td>ijm</td><td>i型患者的离散到达率</td></tr><tr><td>Kijm ∈{0.1}</td><td>1表示ij型患者的计划到达率为ijm，</td></tr><tr><td></td><td>0表示计划到达率不为ijm</td></tr><tr><td></td><td>n=0.1,..N病房数量的离散化指数</td></tr><tr><td></td><td>Nijn∈{0.1}1表示病房的数量为n，0表示病房数量不为n</td></tr><tr><td>xijmm ∈{0,1}</td><td>当Kijm和Nijn都为1时xjmn为1,</td></tr><tr><td></td><td>否则为0</td></tr><tr><td>5</td><td>最小化权重指数</td></tr></table></body></html>
+
+# 3 模型建立
+
+# 3.1权重测度指标
+
+本文设立了结合准入性公平以及响应性公平的权重测度指标来衡量病床分配的公平性。根据医疗政策方面[19-21]和医院运营策略考量[22,23]，设立一个指数 $K$ 作为准入性公平的度量指标，即入院患者确诊为住院患者的比例。此外设一个病人所能接受的最大等待天数 $\tau \in \mathsf { R } ^ { + }$ ，不确定函数变量为 $\theta$ ，等待的时间为 $\operatorname { W } ( \theta )$ ， $C V a R _ { \alpha }$ (the conditional value-at-risk)[24]为条件风险值，显示了医院院患者确诊为住院患者的转换转换率，其次根据病人的等待时间分布以及所接受的最大等待天数设立指数 $\alpha$ 作为响应性公平度量指标，定义如下：
+
+定义1 当满足
+
+$$
+C V a R _ { \alpha } \left( \theta \right) = E \big [ \mathbf { W } ( \theta ) | ~ \mathbf { W } ( \theta ) > q _ { \alpha } \big ] \ ,
+$$
+
+$$
+K \left( W \left( \theta \right) \leq q _ { \alpha } \right) = \alpha , \alpha \in [ 0 ,
+$$
+
+$$
+\alpha _ { \tau } \triangleq s u p \{ \alpha \leq 0 | \ C V a R _ { \alpha } \leq \tau \}
+$$
+
+$\alpha _ { \tau }$ 用作衡量病人等待诊疗时间，指的是在 $\alpha$ 右侧检验条件分布中的预期等待时间，指标 $\alpha _ { \tau } ( \theta )$ 是指满足 $\alpha$ 的右侧检验下病人预计等待诊疗时间不超过病人的容忍阈值的最大值。该指标从预计等待时间这个角度反映了医疗服务的水平。指
+
+标 $\alpha _ { \tau } ( \theta )$ 有如下的性质。
+
+a)假设 $W ( \theta _ { 1 } ) { \geq } W ( \theta _ { 1 } )$ ，则 $\alpha _ { \tau } \left( \theta _ { 1 } \right) \leq \alpha _ { \tau } \left( \theta _ { 1 } \right)$ ：
+
+b)假设 $W ( \theta ) \leq \tau$ ，则 $\alpha _ { \tau } \left( \theta \right) = 1$ · c)假设 $E \big [ W \big ( \theta \big ) \big ] > \tau$ ，则 $\alpha _ { \tau } \left( \theta \right) = 0$ （204号 $\mathrm { d } ) \alpha _ { \tau } ( \theta ) \leq K \mathopen { } \mathclose \bgroup \left( W \mathopen { } \mathclose \bgroup \left( \theta \aftergroup \egroup \right) \leq \tau \aftergroup \egroup \right)$ 。
+
+证明1)假设 $W ( \theta _ { 1 } ) { \geq } W ( \theta _ { 1 } )$ ，有任意 $\alpha \in [ 0 , 1 ]$ ’ $C V a R _ { \alpha } \left( \theta _ { 1 } \right) \geq C V a R _ { \alpha } \left( \theta _ { 2 } \right)$ ，则 $\alpha _ { \tau } \left( \theta _ { 1 } \right) \leq \alpha _ { \tau } \left( \theta _ { 1 } \right)$ ;
+
+2)假设 $W ( \theta ) \leq \tau$ ，则有 $C V a R _ { 1 } ( \theta ) \leq \tau$ ，那么 $\alpha _ { \tau } \left( \theta \right) = 1$
+
+3)假设 $E \big [ W ( \theta ) \big ] > \tau$ ，则有 $C V a R _ { \mathrm { 0 } } \left( \theta \mathrm { ~ } \right) = E \left[ W \left( \theta \right) \right] > \tau$ ，那么$\alpha _ { \tau } \left( \theta \right) = 0$ ：
+
+4)令 $\alpha _ { 0 } = K \left( W \left( \theta \right) \leq \tau \right)$ ， $C V a R _ { 0 } ( \theta \ ) = E [ W ( \theta )  W ( \theta ) > \tau ] > \tau$ ，则有 $\alpha _ { \tau } \left( \theta \right) \leq K \left( W \left( \theta \right) \leq \tau \right)$ □
+
+定义2结合准入性指标 $K$ 以及响应性的指标 $\alpha$ ，将公平性的指标定义为 $K _ { \alpha }$ ， $K _ { \alpha } = K \times \alpha$ 。
+
+准入性指标 $K$ 和响应性指标 $\alpha$ 是分别用来衡量入院和确诊服务的两个连续过程，两者相乘可得一个衡量公平性的权重测度指标。 $K _ { \alpha }$ 权重测度指标表现了病人入院概率与病人的预期等待确诊时间的关系，为保障多个目标之间的平衡，将$K _ { \alpha }$ 作为公平最大化衡量标准。
+
+# 3.2多目标随机规划模型
+
+# 3.2.1目标函数
+
+式(1)表示了医院的运作成本最低的目标函数。目标函数表示了在预期时间窗T内完成诊疗的所有类型患者之和$D _ { i j } \left( T , \theta \right)$ 与诊疗单位病人的成本费用 $r _ { i j }$ 相乘的总和。
+
+$$
+\operatorname* { m i n } { f _ { \mathrm { l } } } = \sum _ { i \in I } \sum _ { j \in J } r _ { i j } E _ { \theta } \left[ D _ { i j } \left( T , \theta \right) \right]
+$$
+
+由于本文要达到公平性最优，所以取最大值来表示权重测度指标可提高的最大限度，以最大程度的提升医院的公平性。 $K _ { i j } , \alpha _ { i j }$ 如3.1小节所述，分别代表了权重测度指标 $K _ { i j } \alpha _ { i j }$ 里的准入性公平指数与响应性公平指数，即病人的就诊率以及集合病人等待时间分布的病人等待阈值。式(2)描述了公平性权重测度指标最优的目标， $K _ { i j } \alpha _ { i j }$ 为准入性公平指数与响应性公平指数的乘积。
+
+$$
+m a x f _ { 2 } = \underset { i \in I , j \in J } { m i n } \{ K _ { i j } \alpha _ { i j } \}
+$$
+
+3.2.2约束条件
+
+(1）式(3)表示了关于病房总容量的约束，为了确保分配的病房的容量 $N _ { i j }$ 不超过病房的总数 $N _ { 0 }$ 。
+
+$$
+\sum _ { i \in I } \sum _ { j \in J } N _ { i j } \le N _ { 0 }
+$$
+
+(2）式(4)表达的是诊疗时间 $\mathrm { ~ T ~ }$ 结束前完成治疗的 $i j$ 型患者的数量。由于患者的计划到达率与住院的时间分布没有规律性，所以很难采用具体的封闭函数表达式来描述这种函数关系，暂用函数 $\varrho$ 来表示这段闭合函数关系式。在接下来的线性化求解中进行进一步的求解。
+
+$$
+D _ { i j } \left( T , \theta \right) = Q \big ( N _ { i j } , \gamma _ { i j } , g _ { i j } \left( x \right) , h _ { i j } \left( x \right) \big ) \forall i \in I , j \in J
+$$
+
+(3）式(5)和式(6)是3.1小节所提到过的公平性权重测度指标。用简写C来代替 $C V a R _ { \alpha }$ 。设立病人所能接受的最大等待天数 $\tau \in \mathbb { R } ^ { + }$ 为一个容忍阈值，不确定函数变量为 $\theta$ ，等待的时间为 $\mathrm { W } ( \theta )$ 。式(5)表示了通过检验后的响应性指标。式(6)中右侧的变量内容分别为 $i j$ 型病患间隔到达时间，住院时间，预计到达率分布，以及 $i$ 类型的病人分配到的 $j$ 型病房的数量，表示了患者的确诊率。
+
+$$
+\alpha _ { i j } = s u p \{ \alpha \ge 0 \mid C \big ( W _ { i j } \left( \theta \right) \big ) \le \tau _ { i j } \} \forall i \in I , j \in J
+$$
+
+$$
+C \big ( W _ { i j } \left( \theta \right) \big ) = C \big ( N _ { i j } , \gamma _ { i j } , g _ { i j } \left( x \right) , h _ { i j } \left( x \right) \big ) \forall i \in I , j \in J
+$$
+
+# 3.2.3系统的稳定性约束
+
+为了保持整个多目标随机规划模型以及整个医院诊疗流程的稳定性，需要保证式(7)的服务强度要小于1.0，即 $i j$ 型病患的服务接收率要远远小于在公共病房中所有患者类型的
+
+接收率。式(8)表示医院接收每一类病人的诊疗程度由患者的日均到达率和预计到达率的除积体现。
+
+$$
+\frac { K _ { i j } \lambda _ { i j } } { b _ { j } N _ { i j } \mu _ { i j } } < 1 \forall i \in I , j \in J
+$$
+
+$$
+K _ { i j } = \frac { \gamma _ { i j } } { \lambda _ { i j } } \forall i \in I , j \in J
+$$
+
+式(9)为式(1)到式(8)的所有变量的取值范围。
+
+$$
+N _ { i j } \in \mathbb { N } ; K _ { i j } , \alpha _ { i j } \in \mathbb { R } ; 0 \le K _ { i j } , \alpha _ { i j } \le 1 \forall i \in I , j \in J
+$$
+
+模型中虽然考虑了病房的数量，但是病房有时候需要进行扩容或者翻新等处理，式(3)也可以由每个房间所需要的日常运营成本来呈现，但是在本文中不予考虑。
+
+# 3.3线性化转换
+
+式(4)和式(6)缺乏确定的函数表达式，所以本文根据模型之间各个变量的关系使用线性化方法将多目标随机规划模型转变成混合整数线性规划模型。当 $i j$ 型病患的预计到达率 $\gamma _ { i j }$ 和 $i$ 型病人住在 $j$ 型病房的数量 $N _ { i j }$ 已知时， $D _ { i j } \left( T , \theta \right)$ 和$C V a R _ { \alpha } \left( W _ { i j } \left( \theta \right) \right)$ 的关系，如式(10)所示。进一步对 $i j$ 型病患的预计到达率进行分解，式(11)采用0-1变量表示 $N _ { i j }$ 0
+
+$$
+\gamma _ { i j } = \sum _ { m = 0 } ^ { M } K _ { i j m } \lambda _ { i j m } ; \lambda _ { i j m } = \frac { m \lambda _ { i j } } { M } ; \sum _ { m = 0 } ^ { M } K _ { i j m } = 1 ; K _ { i j m } \in \{ 0 , 1 \} \ : \forall i \in I ,
+$$
+
+$$
+j \in J , m \in \{ 0 , 1 , . . . , M \}
+$$
+
+$$
+N _ { i j } = \sum _ { n = 0 } ^ { N _ { 0 } } N _ { i j n } n ; \sum _ { n = 0 } ^ { N _ { 0 } } N _ { i j n } = 1 ;
+$$
+
+$$
+N _ { i j n } \in \{ 0 , 1 \} \forall i \in I , j \in J , n \in \{ 0 , 1 , . . . , N _ { 0 } \}
+$$
+
+在上式中参数 $\lambda _ { i j m }$ 表示的是 $i j$ 型患者的离散到达率，而参数 $K _ { i j m }$ 和 $N _ { \mathrm { \it { i j n } } }$ 的组合都代表着病房病床的容量和病人到达率的组合。通过前文参数来对应的计算 $E _ { \theta } \big [ D _ { i j m } \left( T , \theta \right) \big ]$ 和 $\alpha _ { i j m n }$ 。令$\bar { D } _ { i j m n } = E _ { \theta } \left[ D _ { i j m n } \left( T , \theta \right) \right]$ ，将上述的参数关系之间的线性化转换如式(12)-式(21)所示。只要病人预计到达率的离散程度 $\mathbf { M }$ 够大，则该模型的解近似于原来多目标随机规划模型的解。
+
+$$
+\operatorname* { m i n } { f _ { 1 } } = \sum _ { i \in I } { \sum _ { j \in J m = 0 } ^ { M } { \sum _ { n = 0 } ^ { N _ { 0 } } { { r _ { i j } } x _ { i j m n } } } } \bar { D } _ { i j m n }
+$$
+
+$$
+m a x f _ { 2 } = \xi
+$$
+
+$$
+\sum _ { i \in I } \sum _ { j \in J n = 0 } ^ { N _ { 0 } } N _ { i j n } n \le N _ { 0 }
+$$
+
+$$
+\xi \leq \sum _ { m = 0 } ^ { M } \sum _ { n = 0 } ^ { N _ { 0 } } x _ { i j m n } \frac { m } { M } \alpha _ { i j m n } \forall i \in I , j \in J
+$$
+
+$$
+\lambda _ { i j } \sum _ { m = 0 } ^ { M } \frac { m } { M } K _ { i j m } < \mu _ { i j } b _ { j } \sum _ { n = 0 } ^ { N _ { 0 } } n N _ { i j n } \forall i \in I , j \in J
+$$
+
+$$
+x _ { i j m n } \leq K _ { i j m } \forall i \in L , j \in J , n \in \{ 0 , 1 , . . . , N _ { 0 } \} , m \in \{ 0 , 1 , . . . , M \}
+$$
+
+$$
+\sum _ { m = 0 } ^ { M } K _ { i j m } = 1 , \sum _ { n = 0 } ^ { N _ { 0 } } N _ { i j n } = 1 , \sum _ { m = 0 } ^ { M } \sum _ { n = 0 } ^ { N _ { 0 } } x _ { i j m n } = 1 \forall i \in I , j \in J
+$$
+
+$$
+x _ { i j m n } \ge K _ { i j m } + N _ { i j n } - 1 \forall i \in I , j \in J , n \in \{ 0 , 1 , . . . , N _ { 0 } \} , m \in \{ 0 , 1 , . . . , M \}
+$$
+
+$$
+\begin{array} { r } { \xi \in \mathbb { R } , 0 \le \xi \le 1 ; K _ { i j m } , N _ { i j n } , x _ { i j m n } \in \left\{ 0 , 1 \right\} \forall i \in I , j \in J , n \in \left\{ 0 , 1 , . . . , N _ { 0 } \right\} } \end{array}
+$$
+
+$$
+\mathfrak { m } \in \left\{ 0 , 1 , . . . , M \right\}
+$$
+
+# 4算法设计
+
+为求解3.3小节的多目标整数线性化模型，采用多目标算法是一种较好的选择。其中，NSGA2 算法被广泛运用于复杂的，非线性的多目标优化问题[25-27]。但NSGA2 在遗传种群迭代的收敛性，运算效率，防止陷入局部最优等方面还需改进。本文通过在快速非支配排序中结合拥挤度信息和种群内部分布性保持方法两个因素定义新的个体快速支配强度排序赋值，在精英保留策略的引入伪适应度，在交叉变异过程中根据种群个体的排序赋值信息重新改进交叉算子等方面对原算法进行改进。
+
+# 4.1编码
+
+根据医院单科室病床分配的特点，本文在编码中选择病人的计划到达率以及医院科室的病床分配能力作为两个决策变量进行编码。病床的容量以及病人的离散化计划到达率既可用整数表示，也可用编码的方式呈现。因为NSGA2算法无法直接对问题空间内的参数进行处理，所以本文对连续性变量进行离散化后的离散型变量浮点数编码。染色体分成两组， $scriptstyle \mathrm { X = [ A , B ] }$ ， $A = \left\{ a _ { i } \in A | 1 \le i \le N , 0 \le a _ { i } \le 1 \right\} B = \left\{ b _ { \mathrm { i } } \in B | 1 \le i \le N , 0 \le b _ { i } \le 1 \right\}$ 。
+
+$A$ 表示的是患者的到达率，即一组 $1 \times N$ 的矩阵， $N$ 为到达医院的患者数量， $a _ { i }$ 为表示 $i$ 个患者的分配优先级。 $B$ 表示每个患者在接受诊疗之后分配到各个病房的集合，也是一组 $1 \times N$ 大小的矩阵，N为接受诊疗后的患者数量， $b _ { i }$ 为判断第 $i$ 个患者分配到私人病房或公共病房。
+
+# 4.2改进的快速支配排序
+
+在 NSGA2中采用的是快速非支配排序法，但在求解高维复杂的混合整数规划模型时由于多目标的数量众多导致排序时间过长，且非支配解集中存在大量的无效非支配解降低了种群分层排序的收敛效率。本文采用改进的快速支配排序，将原有的比较个体数增加为两个，并引入新的支配判别强度指标 $\theta$ 判别种群的优越性。指标计算公式如下：
+
+$$
+\theta _ { t } = \sum _ { k = 1 } ^ { N } \left( \frac { f _ { k } \left( i \right) - f _ { k } ^ { \operatorname* { m i n } } } { f _ { k } ^ { \operatorname* { m a x } } - f _ { k } ^ { \operatorname* { m i n } } } \right)
+$$
+
+其中N为目标的个数， $f _ { k } ^ { \operatorname* { m a x } }$ 和 $f _ { k } ^ { \mathrm { m i n } }$ 分别表示解集中第 $k$ 个目标的最大与最小值，通过式(21)排除解集中的无效支配解，在非支配解集中单个个体的支配强度越小，则优化效果越好，确保优异个体能进入遗传迭代。
+
+# 4.3改进的拥挤度计算
+
+NSGA2算法采用计算拥挤度来保障种群的多样性，一般将种群中某个点的周围定点的密度称作拥挤度[28]。虽然拥挤度能保持种群的均匀分布，但如图1所示，个体a和个体b之间的距离相较于a和b另一点的距离更短，a和b的拥挤度距离计算较大且相似，可能会同时保留或淘汰。该策略会导致分布较好的某些个体淘汰，而分布较差的个体保留。
+
+![](images/efa68d6a1241ce2604465e6c856463a777035c7cf6a4c7eb440f8270b40675f3.jpg)  
+图1拥挤度距离比较  
+Fig.1 Crowding distance comparison
+
+为了保持种族的分布性，采用一种考虑拥挤度方差的拥挤距离计算方法，公式如下：
+
+$$
+S = \frac { \underset { k = 1 } { \overset { n } { \sum } } \int _ { k } ^ { i + 1 } - f _ { k } ^ { i - 1 } \big | } { \left[ \underset { n \underset { k = 1 } { \overset { 1 } { \prod } } } { \overset { \quad 1 } { \sum } } \left( \left| f _ { k } ^ { i + 1 } - f _ { k } ^ { i - 1 } \right| - \frac { \underset { k = 1 } { \overset { n } { \sum } } \left| f _ { k } ^ { i + 1 } - f _ { k } ^ { i - 1 } \right| } { n } \right) ^ { 2 } \right] ^ { - 1 } } + 1
+$$
+
+其中：分子 $\sum _ { k = 1 } ^ { n } \Bigl | f _ { k } ^ { i + 1 } - f _ { k } ^ { i - 1 } \Bigr |$ 为原有拥挤度计算公式； $f _ { k } ^ { i + 1 }$ 和 $f _ { k } ^ { i - 1 }$ （204号分别表示个体 $i { + } I$ ； $i \mathrm { - } I$ 在对目标排序后在第 $k$ 个子目标上的目标函数值。
+
+# 4.4改进的精英保留策略
+
+在NSGA2算法中，精英保留策略依照非支配关系进行排序，支配等级低的个体填充到新的父代集合中，直到种群数量达到 $\mathrm { ~  ~ { ~ N ~ } ~ }$ ，较大程度的保留进化过程优秀个体并防止其流失。但由于传统的精英策略保留是固定值，非支配解集收敛效果不佳。为了提高解集的收敛效率，引入伪适应度值 $f ^ { [ 2 9 ] }$ ，增加精英的保留规模 $\cdot f$ 越小则说明个体越优秀，计算公式如下：
+
+$$
+f = k + 1 - { \frac { \sum _ { i = 1 } ^ { n } S i } { N } }
+$$
+
+其中： $k$ 为帕累托前沿的阶数； $s$ 为拥挤度距离； $N$ 为目标函数的数量。通过改进，在种群迭代前期非支配解集较少时，较好的保留精英个体，在后期非支配解集较多的情况下能扩大精英个体保留的规模，使得种群快速收敛。
+
+# 4.5 交叉和变异
+
+由于传统的 SBX(Simulated Binary Crossover)交叉算子的全局搜索能力较弱[30]，为了更好地保证种群的多样性，采用算术交叉分子替代传统的SBX交叉算子，计算公式如下，
+
+$$
+\alpha _ { c } = \frac { B r a n k } { A r a n k + B r a n k }
+$$
+
+$$
+{ { s } _ { 1 } } = 0 . 5 \bigl [ ( 1 + \alpha ) { { S } _ { 1 } } + ( 1 - \alpha ) { { S } _ { 2 } } \bigr ]
+$$
+
+$$
+s _ {  z } = 0 . 5 \big [ ( 1 - \alpha ) S _ { \iota } + ( 1 + \alpha ) S _ { \iota } \big ]
+$$
+
+其中：Arank和Brank分别表示个体 $A$ 与个体 $B$ 的非支配排序值；交叉算子系数 $\alpha _ { c }$ 表示每个个体在快速支配排序强度中的排序关联度。在运算前期 $\alpha$ 的变化较大，非支配排序值较小的个体占据较大数量，随着运算的推进，群内的个体逐渐收敛于同一帕累托前沿， $\alpha$ 趋近于0.5。式(25)和式(26)选取父代个体 $S _ { \mathrm { 1 } }$ 、 $S _ { 2 }$ 交叉得到子代 $s _ { \mathrm { { i } } }$ 、 $s _ { \scriptscriptstyle 2 }$ 。
+
+变异操作则从父代种群中随机选取父代个体 $S _ { 3 }$ ，产生子代 $s _ { \scriptscriptstyle 3 }$ ，多项式变异公式如下，
+
+$$
+s _ { 3 } = S _ { 3 } + \left[ \alpha _ { m } - 1 \right] \left( x _ { \operatorname* { m a x } } - x _ { \operatorname* { m i n } } \right)
+$$
+
+其中： $\alpha _ { { \scriptscriptstyle m } }$ 为变异分布指数； $x _ { \mathrm { m a x } }$ 和 $x _ { \mathrm { m i n } }$ 为变量的上下限。
+
+# 4.6算法步骤
+
+步骤1：对所有参数初始化，随机生成含有 $N$ 个个体的种群 $s$ ，任意选定一个个体作最优解，记为 $b$ 。
+
+步骤2：引入快速支配强度排序法对父代种群 $S _ { \mathrm { 1 } }$ 的内部个体排序，根据排序支配等级选取个体保留到外部集合。
+
+步骤3：对种群 $S _ { \mathrm { 1 } }$ 中个体进行改进的拥挤度计算，赋予个体相应的非支配等级 $F$ ，计算个体拥挤度。
+
+步骤4：运用伪适应度值的精英保留策略对种群 $S _ { \mathrm { _ l } }$ 进行排序，对种群 $S _ { \mathrm { 1 } }$ 交叉变异后得到包含 $N$ 个个体的新子种群，记为 $\varrho$ ，将这两个种群合并，得到个体数为原来2倍的种群S，挑选出前 $N$ 个个体组成第 $S { + } I$ 代种群，并将其产生的最优个体记为b1。
+
+步骤5：将b1与 $\boldsymbol { \mathbf { b } }$ 进行比较，若b1优于个体b，则选用个体b1。
+
+步骤6：判断是否达到最大迭代次数，如果是，则执行步骤7；否则执行步骤2。
+
+步骤7：输出个体最优解。
+
+算法步骤流程图如图2所示。
+
+# 5 算法测试和算例分析
+
+# 5.1多目标算法性能评价指标
+
+为验证改进后的算法性能，本文选用Zitzler和Deb提出[31]中的 ZDT1、ZDT2、ZDT3 和 ZDT6 测试函数进行实验,并与NSGA2测试结果进行比较。同时为了检验改进后的算法在求解混合整数线性问题时的全局搜索优化和约束处理能力，选用DTLZ1、DTLZ4、DTLZ6、DTLZ7函数测试NSGA2-DS 在求解过程的收敛性与多样性[32]。在评价NSGA2-DS 方面选取三个指标来分析改进后算法的收敛性、多样性、以及综合性，指标如下所示，
+
+(1)收敛性的评价指标世代距离(GD)
+
+GD表示解集到真实的帕累托前沿上最近参考点的最小欧式距离[33]以评估算法的收敛性，计算公式如下，
+
+$$
+g _ { i } = \underset { p \in P } { \operatorname* { m i n } } F \big ( x ^ { i } \big ) - F ( p ) , x ^ { i } \in S
+$$
+
+$$
+\mathrm { G D } ( S , P ) = \frac { \sqrt { \sum _ { i = 1 } ^ { S | } g _ { i } ^ { 2 } } } { | S | }
+$$
+
+其中： $g _ { i }$ 表示的是 $x ^ { i }$ 与帕累托近似前沿 $P$ 上的距离最近的参考点 $p$ 之间的欧式距离； $s$ 为算法所求得的解集，世代距离值越小表示算法收敛性越好。
+
+(2)多样性的评价指标空间指标(SP)
+
+选用Schott $\mathrm { ~ J ~ R ~ } ^ { [ 3 4 ] }$ 提出的空间指标度量解集内各个解到其他解之间最小距离的标准差来衡量解在空间的分布情况，计算公式如下，
+
+$$
+g _ { i } = \operatorname* { m i n } \biggr ( \sum _ { k = 1 } ^ { m } \bigl | F _ { k } \left( x ^ { i } \right) - F _ { k } \left( x ^ { j } \right) \bigr | \biggr ) , x ^ { i } \in S , x ^ { i } \neq x ^ { i }
+$$
+
+$$
+S p a c i n g ( P ) = { \sqrt { { \frac { 1 } { \left| S \right| - 1 } } { \sum _ { i = 1 } ^ { \left| S \right| } } { \overline { { g } } } - g _ { i } ) ^ { 2 } } }
+$$
+
+$g _ { i }$ 表示的是 $x ^ { i }$ 到 $x ^ { j }$ 这两个连续解之间的曼哈顿距离， $\frac { - } { g }$ 表示所有 $g _ { i }$ 的均值，SP为第 $g _ { i }$ 个解到其他的解的最小距离，SP的值越小，解集的多样性越好。
+
+(3)综合性的评价指标改进后的反向迭代距离 $( \mathrm { I G D ^ { + } } )$
+
+反向迭代距离[35](Inverted GenerationalDistance)表示帕累托前沿上的每个参考点到解集中邻域内最近的解的均值距离，在计算过程中当参考点较少时，如图3所示，解集 $S _ { 2 }$ 中的所有解都受到解集 $S _ { I }$ 的支配并且解集 $S _ { I }$ 的质量明显高于解集 $S _ { 2 }$ ，如果采用IGD评价会得到解集 $S _ { 2 }$ 的质量高于解集$S _ { I }$ 的情况。
+
+![](images/0203ef4b7aa237794c2b11e14283c7798c429bcc8007687519ac1d5e73a4800b.jpg)  
+图2改进后的NSGA2-DS 算法流程图
+
+Fig.2Flowchart of the improvedNSGA2-DSalgorithm因此本文引入改进后的 $\mathrm { I G D } ^ { + [ 3 6 ] }$ ，计算公式如下,
+
+$$
+d ^ { + } = \sqrt { \sum _ { i = 1 } ^ { \left| P \right| } ( d _ { i } ^ { + } ) ^ { 2 } }
+$$
+
+$$
+I G D ^ { + } ( P , S ) = \frac { d ^ { + } } { | P | }
+$$
+
+$\mathrm { I G D ^ { + } }$ 在原有IGD计算参考点 $p$ 到解 $x$ 的距离的同时考虑支配关系， $d ^ { + }$ 是考虑解的支配关系的帕累托前沿上参考点$p$ 到与之最近的解的欧式距离， $\mathrm { I G D ^ { + } }$ 在缺少帕累托前沿参考集的情况下也一样适用，在实际优化过程中的适用性更高。$\mathrm { I G D ^ { + } }$ 的值越小，说明算法的综合性能更好。
+
+![](images/47715e3618f2c8ae4e33de1db64ed5fac3979372ebb6a1532fdf7fe600fcd684.jpg)  
+图3IGD的局限性Fig.3Limitations of IGD
+
+# 5.2算法测试
+
+# 5.2.1测试参数设置
+
+为检验改进后的算法在收敛性、多样性、分布性等方面的性能，将算法与原来的NSGA2 进行对比。对两种算法均做如下实验参数设置：种群规模N设置为100，种群交叉分布指数 $\alpha _ { c } = 1$ ，交叉参数设置为20，交叉概率为0.9，种群变异分布指数 $\alpha _ { { \scriptscriptstyle m } } = 1$ ，变异参数设置为20，变异概率为0.1，最大迭代次数maxFE为500次。在NSGA2-DS算法中伪适应度值设置为 $f \in [ 0 . 2 , 0 . 8 ]$ ，保证精英个体的增长规模。对ZDT系列测试函数中的ZDT1和ZDT2的变量个数设置为30，ZDT3与ZDT6的变量个数设置为10，DTLZ系列测试函数的变量目标设置为5，每组实验测试独立运行30次。
+
+# 5.2.2实验测试结果及分析
+
+两种算法在ZDT系列测试函数的数值仿真结果如图4\~7所示，DTLZ系列测试函数的数值仿真结果如图8\~11所示。由于ZDT系列函数的决策变量数目较多，适合比较高维的决策变量的混合整数线性规划问题。由图4\~7可知，ZDT1、ZDT2、ZDT3测试函数的求解结果显示NSGA2-DS算法和NSGA2算法都能得到较好的收敛效果，但是改进的算法明显比NSGA2收敛结果更接近帕累托前沿；在求解ZDT6 测试函数时，NSGA2-DS 的收敛效果明显优于NSGA2 算法且NSGA2求解结果中存在较多非支配解。
+
+![](images/3668ee5b78ff3c8f52ed1c609b8c7377b50a6df6e47fc4c4b0aa1f0920ac3aa2.jpg)  
+图4NSGA2-DS与NSGA2的ZDT1 测试函数对比
+
+![](images/0ccc63c329059a3ca75579103880209ef5e66510afa7ee50c30989202f823a0a.jpg)  
+Fig.4Comparison of the ZDT1 test function of NSGA2-DS and NSGA2   
+图5NSGA2-DS与NSGA2 的ZDT2 测试函数对比  
+Fig.5Comparison of the ZDT2 test function of NSGA2-DS and NSGA2
+
+![](images/6ee8b9ed6dbc9ee94907aae3a231810531646bd4112ac17220e23a73b8efbdbd.jpg)  
+图6NSGA2-DS与NSGA2 的ZDT3 测试函数对比
+
+![](images/b42c91a82c36900ea27257b0f1f2d4ab84dd1567882334088fec55340018ba97.jpg)  
+Fig.6Comparison of the ZDT3 test function ofNSGA2-DS and NSGA2
+
+如图8\~11所示，渐变色块为DTLZ系列测试函数的真实帕累托边界，NSGA2-DS和NSGA2算法在求解DTLZ4测试函数时的收敛效果较好；在求解DTLZ1、DTLZ7测试函数的结果中，NSGA2-DS的收敛性、所求解分布均匀性、多样性均优于NSGA2，但在DTLZ6测试函数的所求解收敛性与分布性均差与NSGA2算法，存在较多伪支配解不能收敛。
+
+![](images/88cf918f9312db6050dba71961eb008c4929250134142f32e9465176c2cfae98.jpg)  
+图7NSGA2-DS与NSGA2 的ZDT6 测试函数对比  
+图8NSGA2-DS与NSGA2的DTLZ1 测试函数对比 Fig.8Comparison of DTLZ1 test function of NSGA2-DS and NSGA2
+
+![](images/f310c2a7e9c723f092f1355f51fb076166991ac23e03fa1b6d54a4608539dd91.jpg)  
+Fig.7Comparison of the ZDT6 test function of NSGA2-DS and NSGA2   
+图9NSGA2-DS与NSGA2 的DTLZ4 测试函数对比Fig.9Comparison of DTLZ4 test function of NSGA2-DS and NSGA2
+
+![](images/77c23e4e7cc85e92a40af7aed8db7054f2ab897ca7d2a6a56bdf7da4a9760b2f.jpg)  
+图10NSGA2-DS与 NSGA2 的 DTLZ6 测试函数对比Fig.10 Comparison ofDTLZ6 test function ofNSGA2-DS and NSGA2  
+图11NSGA2-DS与NSGA2 的DTLZ7 测试函数对比
+
+![](images/7336d8a19e74199e8d550dd792ad93180e38e431ae1cdc1a65ab06c6d0128d67.jpg)  
+Fig.11Comparison of DTLZ7 test functions of NSGA2-DS and NSGA2
+
+为了定量比较算法性能，均对两个算法在求解系列测试函数的GD、SP、IGD+指标进行统计，每个测试函数都运行30组的运算。如表5所示，本文给出了部分NSGA2-DS算法在计算 $\mathrm { I G D ^ { + } }$ 指标的实验数据，表2-表4分别统计两个测试函数的GD、SP、IGD+指标均值与均方差。由表2可知，除了ZDT3，ZDT6，DTLZ7的NSGA2-DS均值大于NSGA2的求解结果，NSGA2-DS的收敛性结果总体由于NSGA2；均方差中除了DTLZ4和DTLZ6，NSGA2-DS的结果明显小于NSGA2，具有更强的鲁棒性。同理，由表3可得NSGA2-DS解的多样性与分布性总体优于NSGA2，表4的IGD+指标对比中可看出NSGA2-DS的综合收敛性、多样性、延展性均优于NSGA2。虽然改进后的算法在各个指标上的表现总体优于改进前，但是对比分析后得出NSGA2-DS由于引入伪适应度值的改进精英选择策略在求解前期的非支配解较多，精英个体保留数量较大导致收敛过快易造成局部最优，但总体上NSGA2-DS的性能优于NSGA2，在求解复杂高维问题上明显优于NSGA2。
+
+Tab.2Comparison ofGD metrics of algorithms   
+
+<html><body><table><tr><td rowspan="2">MOP</td><td colspan="2">均值</td><td colspan="2">均方差</td></tr><tr><td>NSGA2-DS</td><td>NSGA2</td><td>NSGA2-DS</td><td>NSGA2</td></tr><tr><td>ZDT1</td><td>1.2905E-03</td><td>1.1155E-01</td><td>1.0383E-01</td><td>2.2383E-01</td></tr><tr><td>ZDT2</td><td>7.7206E-01</td><td>8.0814E-01</td><td>2.1526E-01</td><td>4.7526E-01</td></tr><tr><td>ZDT3</td><td>3.4035E-01</td><td>1.1853E-01</td><td>2.9865E-02</td><td>1.4833E-01</td></tr><tr><td>ZDT6</td><td>1.2527E+00</td><td>7.6714E-01</td><td>6.7582E-02</td><td>8.7535E-01</td></tr><tr><td>DTLZ1</td><td>1.0644E-01</td><td>1.1650E-01</td><td>1.1753E-01</td><td>1.1960E-01</td></tr><tr><td>DTLZ4</td><td>5.6410E-04</td><td>1.6629E-03</td><td>3.7653E-03</td><td>7.2703E-04</td></tr><tr><td>DTLZ6</td><td>1.2322E-06</td><td>3.3224E-02</td><td>5.2175E-01</td><td>4.2736E-02</td></tr><tr><td>DTLZ7</td><td>1.7736E-02</td><td>6.3030E-03</td><td>8.7163E-04</td><td>9.7526E-04</td></tr></table></body></html>
+
+表3算法的 SP 指标对比
+
+表2算法的GD指标对比  
+Tab.3Comparison of SP metrics of algorithms   
+
+<html><body><table><tr><td rowspan="2">MOP</td><td colspan="2">均值</td><td colspan="2">均方差</td></tr><tr><td>NSGA2-DS</td><td>NSGA2</td><td>NSGA2-DS</td><td>NSGA2</td></tr><tr><td>ZDT1</td><td>1.1857E-02</td><td>1.4286E-02</td><td>4.8513E-03</td><td>5.1675E-03</td></tr><tr><td>ZDT2</td><td>8.8445E-03</td><td>4.3118E-02</td><td>2.6579E-02</td><td>3.1536E-02</td></tr><tr><td>ZDT3</td><td>9.6351E-03</td><td>9.6484E-02</td><td>6.2306E-02</td><td>2.0089E-01</td></tr><tr><td>ZDT6</td><td>6.4859E-02</td><td>8.1663E-02</td><td>4.7976E-02</td><td>2.9267E-02</td></tr><tr><td>DTLZ1</td><td>6.2130E-02</td><td>1.2700E-01</td><td>3.5439E-02</td><td>6.7673E-02</td></tr><tr><td>DTLZ4</td><td>5.2798E-02</td><td>4.9750E-02</td><td>1.0575E-03</td><td>2.4318E-02</td></tr><tr><td>DTLZ6</td><td>1.0868E-02</td><td>2.8241E-02</td><td>2.1739E-02</td><td>3.2587E-02</td></tr><tr><td>DTLZ7</td><td>7.8114E-02</td><td>6.5458E-02</td><td>7.3516E-03</td><td>8.6576E-03</td></tr></table></body></html>
+
+# 5.3算例结果及分析
+
+本文选取某家公立医院数据作为数据来源，数据时效性为一个月。采用NSGA2-DS和NSGA2算法求解出多目标整数规划模型的结果。另外，本文还引入吴涛[7等提出的改进的黑洞进化算法(Multi Objective BlackHole)对算例进行求解。
+
+黑洞算法多目标进化算法是一种基于信息熵自适应化策略的粒子群算法，在收敛速度，种群的多样性，种群的收敛性具有较好的性能，因此将MOBH算法与改进后的NSGA2-DS算法的求解结果对比验证算法的前沿性以及有效性。考虑到帕累托最优解的情况，本文中设置种群规模为100，交叉概率为0.8，变异概率为0.2，最大迭代次数为500。本文所做的数值实验均在Inter(R)Core(TM)i5-7300HQ 处理器上进行，CPU为 $2 . 5 0 \mathrm { G H z }$ 。
+
+不同类型的病人有不同类型的住院时长、在所能接受的最大等待天数、到达率，同时医院服务不同的病人所需的成本也不同。部分病人的基本信息如下表6所示，病房总数为300个。
+
+表5部分NSGA2-DS 算法的 $\mathrm { I G D ^ { + } }$ 指标实验数据  
+
+<html><body><table><tr><td rowspan="2">MOP</td><td colspan="2">均值</td><td colspan="2">均方差</td></tr><tr><td>NSGA2-DS</td><td>NSGA2</td><td>NSGA2-DS</td><td>NSGA2</td></tr><tr><td>ZDT1</td><td>2.6380E-01</td><td>2.6731E-01</td><td>2.1354E-01</td><td>2.7446E-01</td></tr><tr><td>ZDT2</td><td>7.2289E-02</td><td>1.6480E-01</td><td>2.3286E-01</td><td>1.9115E-01</td></tr><tr><td>ZDT3</td><td>7.7883E-03</td><td>7.4604E-02</td><td>1.7964E-04</td><td>2.1827E-01</td></tr><tr><td>ZDT6</td><td>4.0492E-03</td><td>2.4583E-01</td><td>7.6553E-02</td><td>3.5836E-01</td></tr><tr><td>DTLZ1</td><td>8.9427E-01</td><td>2.9019E-01</td><td>5.2123E-02</td><td>3.5009E-01</td></tr><tr><td>DTLZ4</td><td>7.2021E-02</td><td>1.8170E-01</td><td>5.4791E-03</td><td>1.9456E-01</td></tr><tr><td>DTLZ6</td><td>5.1624E-03</td><td>4.2612E-01</td><td>5.2175E-01</td><td>5.1147E-01</td></tr><tr><td>DTLZ7</td><td>8.3260E-02</td><td>1.4033E-01</td><td>6.8030E-04</td><td>1.2387E-01</td></tr></table></body></html>
+
+Tab.5Experimental data of $\mathrm { I G D ^ { + } }$ metrics for some NSGA2-DS algorithms   
+
+<html><body><table><tr><td></td><td>ZDT1</td><td>ZDT2</td><td>ZDT3</td><td>ZDT6</td><td>DTLZ1</td><td>DTLZ4</td><td>DTLZ6</td><td>DTLZ7</td></tr><tr><td>1</td><td>1.2369E+00</td><td>5.5009E-01</td><td>8.3731E-04</td><td>1.1201E+00</td><td>1.3793E+00</td><td>7.4869E-02</td><td>4.5272E-02</td><td>2.6386E-01</td></tr><tr><td>2</td><td>1.4817E-01</td><td>1.8469E-01</td><td>1.3343E-03</td><td>7.7460E-01</td><td>4.0639E-01</td><td>5.4145E-01</td><td>6.1207E-02</td><td>2.1322E-01</td></tr><tr><td>3</td><td>1.3494E-01</td><td>1.2456E-01</td><td>5.5377E-03</td><td>5.4134E-01</td><td>5.4101E-01</td><td>7.2493E-02</td><td>4.9200E-02</td><td>2.5220E-01</td></tr><tr><td>4</td><td>9.3185E-02</td><td>2.0480E-01</td><td>5.1773E-02</td><td>1.0118E+00</td><td>4.7429E-01</td><td>6.6197E-02</td><td>1.2824E-02</td><td>2.4571E-01</td></tr><tr><td>5</td><td>4.6381E-01</td><td>6.6873E-02</td><td>1.9210E-02</td><td>5.7931E-01</td><td>2.4599E-01</td><td>6.9159E-02</td><td>1.6820E-02</td><td>3.2278E-01</td></tr><tr><td>6</td><td>5.6183E-01</td><td>5.4086E-02</td><td>1.5812E-02</td><td>1.9935E-03</td><td>5.9775E-02</td><td>1.1230E-01</td><td>1.7746E-03</td><td>8.2786E-02</td></tr><tr><td>7</td><td>4.6979E-01</td><td>2.8209E-01</td><td>1.0978E-03</td><td>1.4068E-01</td><td>7.7372E-02</td><td>6.8710E-02</td><td>1.3956E+00</td><td>5.7351E-03</td></tr><tr><td>8</td><td>4.8367E-01</td><td>6.8352E-02</td><td>5.2100E-03</td><td>9.2168E-02</td><td>6.9379E-02</td><td>1.3291E-01</td><td>1.4465E+00</td><td>3.4214E-02</td></tr><tr><td>9</td><td>8.0304E-02</td><td>9.5271E-02</td><td>3.1011E-03</td><td>3.0865E-01</td><td>6.5800E-02</td><td>6.5710E-04</td><td>6.8387E-01</td><td>1.1199E-02</td></tr><tr><td>10</td><td>1.1164E-01</td><td>1.6310E-01</td><td>1.2379E-03</td><td>3.9021E-02</td><td>5.4966E-02</td><td>1.7579E-03</td><td>1.1603E+00</td><td>7.2705E-03</td></tr></table></body></html>
+
+表4算法的 $\mathrm { I G D ^ { + } }$ 指标对比表  
+表6部分病人类型与所住病房的基本信息表  
+Tab.6Table of basic information of some patient types and wards   
+
+<html><body><table><tr><td colspan="4">病人类型 所住病房 每日到达率 住院时长/天 诊疗成本/元 容忍阈值/天</td></tr><tr><td>普通 公共</td><td>4.383</td><td>9.325 231.52</td><td>14</td></tr><tr><td>特殊 私人</td><td>0.442</td><td>7.662</td><td>724.35 7</td></tr><tr><td>普通 公共</td><td>3.523</td><td>2.617 502.31</td><td>6</td></tr><tr><td>普通 私人</td><td>0.235</td><td>2.701 219.23</td><td>3</td></tr><tr><td>普通 公共</td><td>8.965</td><td>9.970</td><td>193.25 6</td></tr><tr><td>特殊 公共</td><td>0.178</td><td>10.259</td><td>595.00 4</td></tr><tr><td>普通 私人</td><td>0.498</td><td>6.212</td><td>511.08 7</td></tr><tr><td>普通 公共</td><td>3.512</td><td>11.231</td><td>257.09 13</td></tr><tr><td>特殊 私人</td><td>0.642</td><td>10.326</td><td>276.01 5</td></tr><tr><td>特殊 私人</td><td>0.215</td><td>8.679</td><td>735.00 7</td></tr></table></body></html>
+
+其次改变病房的总量参数进行灵敏度分析，以体现医院在注重公平性时的帕累托最优解的情况，改变医院诊疗单位病人所需的成本费用来表现医院追求成本最小化时的最优化解的情况。表7反映的是将要进行的参数变动。
+
+Tab.4Comparison table of $\mathrm { I G D ^ { + } }$ metrics of algorithms   
+表7参数变动表  
+Tab.7Table of parameter changes   
+
+<html><body><table><tr><td>方案</td><td>病房总容量</td><td>诊疗单位病人所需的成本倍率</td></tr><tr><td>1</td><td>280</td><td>1.2</td></tr><tr><td>2</td><td>290</td><td>0.9</td></tr><tr><td>3</td><td>300</td><td>0.8</td></tr><tr><td>4</td><td>310</td><td>0.6</td></tr></table></body></html>
+
+根据上述的基础数据设置，病人预计到达率的离散度M的变化也会影响解的变化。虽然M较大时问题的近似解会更加接近于原多目标随机规划模型的求解，但是所耗费的时间也更长。在不同的M值下，成本的变动幅度不大，但是公平权重指数的变化较大。随着M的增加，NSGA2-DS算法所求解的成本的最低标准一直保持在2.33左右，公平的权重在0.5左右，即在当前的容量内可以接收所有的患者。当M大于
+
+100 时，问题的解并发生没有太多的变化，因此在NSGA2-DS 算法中将M设置在100，图12也显示了使用NSGA2与MOBH算法下的所求得的帕累托最优解，求解结果与NSGA2-DS相比较。结果显示在总体求解结果上NSGA2-DS算法与MOBH算法求解结果均优于NSGA2。NSGA2-DS 算法的所求得最优解效果最好，MOBH算法虽然在求解所耗时比NSGA2-DS 短且较快收敛，但求解结果比NSGA2-DS 略差，在公平权重0.5相邻段时运作成本相较于NSGA2-DS 算法波动幅度较大。
+
+![](images/d14f93dfff1ce03f1fee4a8a3c8a33b137e205bbdca5b9fc157a10943a12ccdb.jpg)  
+图12三种不同算法求得的帕累托最优解比较Fig.12Comparison of the Pareto optimal solutions obtainedby three different algorithms
+
+在多目标随机规划模型中，设置了2个目标函数，对应于横纵坐标轴，分别为医院单科室的运作成本以及公平性权重指数。由于两个目标函数之间存在关联性，在针对其中一个目标函数进行最优化时必然会导致另一目标函数的变动，所以最优解以解集的方式呈现。
+
+# 5.4 灵敏度分析
+
+接下来分别对病房数量以及医院服务单位病人所需成本进行调整，对病房的总数量，诊疗单位病人的成本这两个关键参数进行灵敏度分析。表8和表9给出了在假设两点 $E ^ { \scriptscriptstyle 1 }$ 和$E ^ { 2 }$ 分别代表成本最小化和公平最大化下两个端点的决策。图13和图14分别给出了三种算法在不同参数变动下的求解结果对比。
+
+首先通过改变病房总数N的数量求解。将病房总数设置为4个参数变量280，290，300，310。从图13可以看出，在增加N的同时，公平的比重以及运作成本在不断地增加。病房总容量的增加意味着任意类型的病人都可以获得相对应的床位，选择权也更多，同时容量的增加也会提升响应性以及医院病房的接受率，从而提高公平的权重，但相对应随着病床数的增加医院的运作成本也呈上升趋势。总体上NSGA2-DS求解的曲线相对于NSGA2与MOBH来说更加平缓，在相同的公平权重指数下成本更低，但MOBH算法的求解所耗时以及收敛速度要略快于NSGA2-DS算法，在求解结果上不如NSGA2-DS，解集波动幅度较大。正如表8所示，随着容量增加，病房的接收率并没有降低，从图13的趋势中可以看出病房数达到一定的最大值时，两种算法都会有趋近于一个最优解，在这种情况下成本与公平都会达到平衡。
+
+![](images/2990b6ab5e03b24182fe620e36316d05ff89f9798a16e60f70091ed3557746e4.jpg)  
+图13三种算法在总病房数量不同的最优解 Fig.13Optimal solutions for the three algorithms with different numbers of total wards   
+图14三种算法在单位成本倍率不同的最优解Fig.14Optimal solutions for three algorithmswith different unit cost multipliers
+
+表8不同病房容量下的最优帕累托端点  
+Tab.8Optimal Pareto endpoints for different ward capacities   
+表9单位成本不同倍率下的最优帕累托端点  
+
+<html><body><table><tr><td colspan="2">病房容量 病房接收率</td></tr><tr><td rowspan="2">280</td><td>El={1,1,0.667,1,1,1,1,1,0.967,0.967,1,1,0.933,1,0.95,1,1,0.883,0.9,1}</td></tr><tr><td>E²={0.8,1,0.817,1,0.83,1,0.833,1,0.817,1,0.8,1,0.833,1,0.8,1,1,1,0.,1}</td></tr><tr><td rowspan="2">290</td><td>El={1,1,0.83,1,0.983,1,1,1,1,0.967,1,0.93,1,1,1,,0.983,0.83,0.9,}</td></tr><tr><td>E²={0.85,1,1,1,0.85,1,0.883,1,0.85,1,0,867,1,0.867,1,0.67,1,0.88,1,,1}</td></tr><tr><td rowspan="2">300</td><td>E1 ={1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}</td></tr><tr><td>E²={0.9,1,1,1,0.883,1,0.883,1,0.9,1,0.917,1,0.9,1,0.917,1,1,1,1,1}</td></tr><tr><td rowspan="2">310</td><td>E¹ ={1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}</td></tr><tr><td>E² ={0.95,1,1,1,0.933,1,0.95,1,0.95,1,1,1,0.917,1,0.917,1,1,1,1,1}</td></tr></table></body></html>
+
+其次，在其他的参数不变情况下，通过改变医院服务各种类型单位病人所需成本检验其对最优解集产生的影响。将单位成本的倍率依次调整为1.2，0.9，0.8，0.6。如图14所示，三种算法求得的结果在公平权重指数波动时运作成本的变化幅度明显小于改变病房容量下所求结果，大多数情况下NSGA2-DS所求得成本在相同公平指数下低于其他两种算法，所求结果最优，其次，在其他的参数不变情况下，通过改变医院服务各种类型单位病人所需成本检验其对最优解集产生的影响。将单位成本的倍率依次调整为1.2，0.9，0.8，0.6。如图14所示，三种算法求得的结果在公平权重指数波动时运作成本的变化幅度明显小于改变病房容量下所求结果，大多数情况下NSGA2-DS所求得成本在相同公平指数下低于其他两种算法，所求结果最优，解的稳定性较强，但在收敛速度上略慢于MOBH算法。从表9和图14可以看出在所有的最优解中 $E ^ { \scriptscriptstyle 1 }$ 和 $E ^ { 2 }$ 的决策是相同的，在成本呈现倍数变化的同时，决策变量略微受到影响且不如病房总量变化对求解结果的的影响大，帕累托边界上的最优解的数量随着成本的增加而减少。由于运作成本是由服务单位病人所需成本与病人总数相乘，同时病人总数与医院的接受率有关，因此总成本会随着单位成本的减小而降低，而公平权重指数基本保持不变。
+
+Tab.9Optimal Pareto endpoints at different multipliers of unit cost   
+
+<html><body><table><tr><td>倍率</td><td>病房接收率</td></tr><tr><td>0.6</td><td>E¹={1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}</td></tr><tr><td>0.8</td><td>E¹={1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}</td></tr><tr><td>0.9</td><td>E²={0.9,1,1,1,0.88333,1,0.88333,1,0.9,1,0.91666,1,0.9,1,0.91666,1,1,1,1,1}</td></tr><tr><td>1.2</td><td>E²={0.9,1,1,1,0,88333,1,0.88333,1,0.9,1,0.91666,1,0.9,1,0.91666,1,,1,1,1}</td></tr></table></body></html>
+
+本文在对多目标随机规划模型进行线性化成混合整数线性规划的基础上采用NSGA2-DS 算法进行求解，为了验证NSGA-DS算法的有效性以及前沿性，与原有的NSGA2算法，以及引入的MOBH算法进行比较，图13和图14显示NSGA2-DS 算法求得解都优于其他两种算法。三种算法所得求最优解的解距随着病房总数的增加而减少。根据图13与图14的趋势分析，当病房数量达到一定的最大值时候，三种算法都会求得最优解，使得成本与公平达到平衡，而单位成本对于整体运作成本的影响较大，对公平性几乎没有影响。
+
+300A-MMA A —— NSGA2 倍率=1.2→MOBH 倍率=1.2280 4 4A-A-4 -NSGA2 倍率=0.9 —— NSGA2-DS 倍率=1.2A4些 →MOBH 倍率=0.9≤NSGA2-DS 倍率=0.9260 −— NSGA2 倍率=0.8− MOBH 倍率=0.8() —NSGA2-DS 倍率=0.8240 NSGA2 倍率=0.6转 →MGBH-00.6220H200 = □ □中1800 0.2 0.4 0.6 0.8 1公平权重指数
+
+# 6 结束语
+
+本文提出了一种以每位患者所能接受的最低等待天数作为影响因素，考虑准入性与响应性公平的权重测度指标来反映反映医院与患者的公平性，并结合医院运作成本以及公平性最佳为目标建立多目标随机规划模型。针对多目标随机规划模型的复杂性，采用线性化将原有复杂模型转换转换成方便求解的混合整数线性化模型。对NSGA2算法在求解高维复杂问题上全局搜索能力较差、收敛性不高、分布性较差的局限性进行改进，设计改进后的NSGA2-DS算法。最后先通过实验检验了NSGA2-DS算法的性能，算法在测试函数和文章的问题方面效果均优于NSGA2与MOBH算法，其次调整不同病房容量、服务不同病人下的单位成本等参数进行灵敏度分析，得出参数的变化与目标之间的关联，进一步验证了模型的有效性以及适用性。
+
+本文研究的方向主要是针对单科室的病床分配，未来的研究方向可以进一步的拓展，一方面考虑完全公平情况下，即考虑私人病房预留一定的床位给VIP病人，同时病人的类型更丰富，病人的行为和等待时间的复杂关系等等，这是难点所在；另一方面不仅仅局限于单科室，可以考虑复杂多科室乃至医院集群方面的临床资源联合优化，为实际的医疗资源提供更多参考。
+
+# 参考文献：
+
+scheduling optimization [J].Journal of Mathematics in Practice and Theory,2019,49 (15): 1-15.)   
+[2] Zhang L,Li M,Ye F,et al.An investigation report on large public hospital reforms in China [M].Berlin,Germany: Springer, 2016.   
+[3]Liu S,Griffiths S M.From economic development to public health improvement: China faces equity challenges [J].Public health,2011,125 (10): 669-674.   
+[4]Reynolds L,Mckee M.Serve the people or close the sale?Profit-driven overuse of injections and infusions in China's market-based healthcare system. International Journal of Health Planning & Management 2011; 26: 449-470.   
+[5]Wang H.A dilemma of Chinese healthcare reform: How to re-define government roles?[J]. China Economic Review,2009,20 (4): 598-604.   
+[6] 杜少甫，谢金贵，刘作仪．医疗运作管理：新兴研究热点及其进展 [J]．管理科学学报,2013,16 (08):1-19.(Du Shaofu, Xie Jingui,Liu Zuoyi.Progress and prospects in an emerging hot topic: Healthcare operations man agement [J]. Journal of Management Sciences in China, 2013,16 (08): 1-19.)   
+[7]安佰玲，徐标，王国华．基于非线性规划的病床安排的优化模型[J]. 统计与决策,2016(13): 82-85.(An Bailing,Xu Biao,Wang Guohua. Optimization model of hospital bed arrangement based on nonlinear programming [J]. Statistics & Decision,2016 (13): 82-85.)   
+[8]Song H, Tucker AL, Murrell K L. The diseconomies of queue pooling: An empirical investigation of emergency department length of stay [J]. Management Science,2015,61 (12): 3032-3053.   
+[9]周雄伟，张展笑，马本江，等．多渠道医疗门诊挂号的时间策略研究 [J].中国管理科学,2018,26 (09):129-140.(Zhou Xiongwei, Zhang Zhanxiao,Ma Benjiang，et al. Research on the Time Strategy of Outpatient Registration in Multi-channel Environment [J]. Chinese Journal of Management Science,2018,26 (09): 129-140.)   
+[10] Feng YY, Wu IC,Chen TL. Stochastic resource allocation in emergency departments with a multi-objective simulation optimization algorithm [J]. Health Care Management Science,2017,20 (1): 55-75.   
+[11] Cardoso T, Oliveira M D,Barbosa-Povoa A,et al. Moving towards an equitable long-term care network:A multi-objective and multi-period planning approach [J]. Omega,2016,58: 69-85.   
+[12] Steiner M TA,Datta D,NetoPJS,et al. Multi-objective optimization in partitioning the healthcare system ofParana State in Brazil[J]. Omega, 2015,52:53-64.   
+[13] Green L V.OM forum—The vital role of operations analysis in improving healthcare delivery [J].Manufacturing & Service Operations Management,2012,14 (4): 488-494.   
+[14] Wang X,Gong X,Geng N，et al.Metamodel-based simulation optimisation for bed allocation [J]. International Journal of Production Research,2020,58 (20):6315-6335.   
+[15]徐雷，李娜，张智聪．混合整数规划下的妇科病床安排问题[J].工 业工程与管理,2013,18(06):147-151.(Xu Lei,LiNa,Zhang Zhicong. Mixed Integer Programming for Gynecological Ward Bed Planning [J]. Industrial Engineering and Management,2013,18 (06): 147-151.)   
+[16]宋鸿芳，褚宏睿，张文思．基于患者两阶段医疗服务过程的病床资 源优化[J].中国管理科学,2020,28(03):93-102.(Song Hongfang, Chu Hongrui, Zhang Wensi. Hospital Inpatient Bed Management Based on Two-stage Medical Service Process [J]. Chinese Journal of of Beds in Temporary Beds [J].Computer& Digital Engineering,2021, 49 (01): 111-116.)   
+[18] Bhattacharjee P,Ray P K. Patient flow modelling and performance analysis of healthcare delivery processes in hospitals:A review and reflections [J].Computers & Industrial Engineering,2014,78:299-312.   
+[19] World Health Organization.The world health report 20oo: health systems: improving performance [M].World Health Organization,2000.   
+[20] Le Grand J.Equity, health,and health care [J]. Social justice research, 1987,1 (3): 257-274.   
+[21] Guliford M,Figueroa-Munoz J,Morgan M,et al. What does'access to health care'mean?[J]. Journal of health services research & policy, 2002, 7 (3): 186-188.   
+[22] Zhou L,Geng N, Jiang Z,et al. Combining revenue and equity in capacity allocation of imaging facilities[J].European Journal of Operational Research,2017,256 (2): 619-628.   
+[23] Qi J.Mitigating delays and unfairness in appointment systems [J]. Management Science,2017,63 (2): 566-583.   
+[24]Rockafellar R T, Uryasev S.Optimization ofconditional value-at-risk [J]. Journal of risk,2000,2: 21-42.   
+[25]赖文星，邓忠民．基于支配强度的 NSGA2 改进算法[J].计算机科 学,2018,45 (06): 187-192. (Lai Wenxing,Deng Zhongmin. Improved NSGA2 Algorithm Based on Dominant Strength,[J]. Computer Science, 2018,45 (06): 187-192.)   
+[26]董骏峰，王祥，梁昌勇．基于个体邻域的改进 NSGA-I算法[J]．计 算机工程与应用，2019,55(05):166-174.(DONG Junfeng，WANG Xiang,LIANG Changyong.Improved NSGA-II Algorithm Based on Individual Neighborhood [J]. Computer Engineering and Applications, 2019,55 (05): 166-174.)   
+[27]王青松，谢兴生，周光临．一种改进的非支配排序遗传算法[J]．信 息技术与网络安全,2019,38 (05): $2 8 - 3 2 + 3 6$ （Wang Qingsong, Xie Xingsheng, Zhou Guanglin.An improved non-dominated sorting genetic algorithm[J]. Information Technology and Network Security,2019,38 (05):28-32+36.)   
+[28]苏路，董学育，张森，等．基于改进 NSGA2 算法的配电网分布式电 源优化配置 [J].信息技术,2021(05):39-43.(Su Lu,Dong Xueyu, Zhang Sen,et al. Optimal configuration of distributed power generation in distribution network based on improved NSGA2 algorithm [J]. Information Technology,2021 (05):39-43.)   
+[29]陈婕，熊盛武，林婉如.NSGA-I算法的改进策略研究[J].计算机 工程与应用，2011,47(19):42-45.(Chen Jie,Xiong Shengwu,Lin Wanru. Improved strategies and researches of NSGA-II algorithm [J]. Computer Engineering and Applications,2011,47 (19): 42-45.)   
+[30] Deb K,Pratap A,Agarwal S,et al.A fast and elitist multi-objective genetic algorithm:NSGA-II[J]. IEEE transactions onevolutionary computation,2002,6(2): 182-197.   
+[31]张宁，刘勤明，叶春明，等．基于 NSGA-I的医疗设备预防性维 护与病人调度联合优化[J].重庆师范大学学报（自然科学版）， 2021,38 (01): 130-140.(Zhang Ning,Liu Qinming, Ye Chunming, et al.Joint Optimization of Preventive Maintenance and Patient Scheduling for Medical Equipment Based on NSGA-II [J]. Journal of Chongqing Normal University (Natural Science),2021,38 (01): 130-140.)   
+[32]张丹丽，曹锦，高彦杰．多目标进化算法研究综述[J].科技创新与 应用,2021,11 (28): 69-71+74.(Zhang DanLi,Cao Jin,Gao Yanjie.A reviewofmulti-objective evolutionaryalgorithm research[J]. Technology Innovation and Application,2021,11 (28): $6 9 - 7 1 + 7 4 .$ ）   
+[33]王丽萍，任宇，邱启仓，等．多目标进化算法性能评价指标研究综述 [J]．计算机学报,2021,44(08):1590-1619.(Wang Liping,Ren Yu,Qiu Qicang,et al.Survey on Performance Indicators for Multi-Objective Evolutionary Algorithms [J]. Chinese Journal of Computers,2021,44 (08): 1590-1619.)   
+[34] Schott JR.Fault tolerant design using single and multicriteria genetic algorithm optimization [D].Massachusetts Institute ofTechnology,1995.   
+[35] Coello CAC,Cortés N C.Solving multiobjective optimization problems using an artificial immune system [J].Genetic programming and evolvable machines,2005,6 (2):163-190.   
+[36] Ishibuchi H,Masuda H,Tanigaki Y,et al.Modified distance calculation ingenerational distance and inverted generational distance [C]// International conference on evolutionary multi-criterion optimization. Springer, Cham,2015:110-125.

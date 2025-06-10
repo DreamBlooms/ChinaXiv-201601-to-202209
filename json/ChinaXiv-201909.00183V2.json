@@ -1,0 +1,249 @@
+[
+    {
+        "type": "text",
+        "text": "眼动技术在个体认知能力差异研究中的应用\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陆润豪1,2² 张兴利\\*\\*1,2 施建农\\*\\*1,2（'中国科学院心理研究所行为科学重点实验室，北京，100101)（²中国科学院大学心理学系，北京，100049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本文从可能性和可行性两方面介绍和论述了眼动技术在个体认知能力差异研究中的应用。在可能性方面，个体眼动特征具有的良好的重测信度和内部一致性信度；在可行性方面，已有研究利用注视和眼跳相关指标、眼动轨迹和瞳孔直径这三类指标对该问题进行探索，结果均发现这些眼动特征与认知能力之间存在着密切关系。今后研究应继续深入探索两者关系的内在认知和神经机制，并尝试结合人工智能算法开发高信效度的眼动认知测验。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词眼动眼动特征认知能力个体差异眼动轨迹瞳孔直径",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "眼动技术是研究认知心理学和基础神经科学的重要工具之一（Rayner,2009），在个体差异研究中同样具有重要作用。相比于心理量表或其他认知神经科学技术，眼动技术在个体差异研究中有其独特优势。首先，个体眼动行为是自发产生的，能客观真实地反映个体的认知加工特征。此外，眼动技术具有较好的生态效度、良好的时空分辨率以及丰富的定性定量指标，同时操作相对便捷，成本较低。因此，眼动技术在临床心理学领域已被成功运用于孤独症谱系障碍、失语症等心理疾患的评估和诊断中（赵晓宁等,2019;Smith,Schmidt,Wang,Henderson,& Fridriksson,2018）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实际上，正常人群的认知能力（cognitive ability）同样存在普遍的个体差异，眼动特征能否反映正常人群的认知能力值得研究。认知能力通常指人脑加工、储存和提取信息的能力，涵盖了智力、记忆、观察和想象等能力（彭聘龄，2012）。近年来，国外研究者开始探索个体眼动特征与认知能力（尤其是智力和工作记忆）之间的关系，并试图将眼动技术作为评估个体认知能力的新方法。本文聚焦于眼动技术在个体认知能力差异研究中的应用，介绍和论述了利用眼动技术评估个体认知能力的可能性和可行性。在可能性方面，我们阐述了个体眼动特征所具有的良好的信度；在可行性方面，我们从注视和眼跳相关指标、眼动轨迹和瞳孔直径三个方面回顾和论述近年来有关眼动特征与认知能力关系的研究，并在此基础上提出对该领域的未来研究展望。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1个体眼动特征具有良好的信度",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1眼动特征的重测信度",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "良好的信度是一项测量工具能够被使用的前提，高信度测量对于个体差异研究至关重要",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（邢秀侠，左西年，2019）。在基础认知控制任务中，研究者考察了个体在平滑追踪、注视（fixation）、眼跳（saccade）、反向眼跳（anti-saccade）等基础眼动任务中各项指标（如眼跳幅度、速率、潜伏期等）的重测信度（Bargary etal.,2017;Ettinger et al.,2003; Klein&Fischer,2005）。尽管不同研究的重测间隔时间从18.8天到19个月不等，但这些研究的结果均发现个体的各项基础眼动特征均具有良好的重测信度。在高级认知任务中，Henderson 和 Luke（2014）发现个体在阅读、伪阅读（pseudoreading）、场景观看、视觉搜索等任务中的注视时间和眼跳幅度的平均值与标准差都具有较好的重测信度。之后的研究在更长的重测间隔（Carter&Luke,2018）或儿童被试群体（Foster,Ardoin,&Binder,2018）中都发现了个体在高级认知任务（如阅读任务）中的各眼动指标（如首次注视时间、凝视时间、眼跳幅度等）的平均数与标准差均表现出良好的重测信度和复本信度。此外，Tsukahara,Harrison 和 Engle（2016）发现更为生理性的瞳孔直径同样在3.5周至16.5周的间隔时间里具有良好的重测信度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2眼动特征的内部一致性信度",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ettinger 等人（2003）较早考察了被试在平滑追踪、注视、眼跳和反向眼跳等基础认知控制任务中的眼动特点的内部一致性信度，该研究发现这些任务中绝大部分指标的内部一致性系数均达到较高水平。之后，Klein 和Fischer（2005）和Bargary 等人（2017）均使用了奇偶和前后分半信度两种方法在大样本被试群体中检验了个体在眼跳、反向眼跳等基础认知控制任务中的内部一致性。这两项研究发现，个体在这些任务中的所有眼动指标的分半信度均达到了较高水平。在高级认知任务中，研究者对眼动特征内部一致性的探索还较少，仅有一项研究考察了个体在阅读任务中眼动特征的内部一致性，该研究显示，个体在阅读任务中的各项眼动指标（如平均注视时间、平均眼跳幅度等）的内部一致性系数均达到0.9以上的相当高的水平（Carter&Luke,2018）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，无论是注视、平滑追踪、眼跳等基础认知控制任务中的眼动指标，还是阅读、场景搜索等高级认知任务中的眼动指标，甚至是更为生理性的瞳孔直径，个体各项眼动特征均具有很高的重测信度和内部一致性信度。因此，眼动特征是个体相对稳定的行为和生理特征，可能反映了个体固有的认知能力及其神经系统功能，这一特点为我们利用眼动技术来评估个体认知能力的差异提供了可能性和前提保证。下面我们将结合近年来的有关文献，进一步探讨不同认知能力个体眼动特征的差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2眼动特征与认知能力的关系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1注视和眼跳相关指标与认知能力的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Luke，Darowski 和Gale（2018）利用阅读、视觉搜索和场景观看这三个眼动任务来探索个体眼动特征与工作记忆的关系。这一研究发现，个体的工作记忆容量越小，其阅读任务中的平均眼跳幅度就越小，而在三个任务中注视时间分布的偏度（即长注视的比例）越高。这些特征很好地体现了低工作记忆个体每次加工的信息量较少，且在完成任务时可能存在注意力不集中、认知加工效率较低、反应迟缓等特点。Abdi Sargezeh,Ayatollahi和Daliri（2019)使用视觉搜索任务比较了不同智力个体在视觉搜索时眼动特征的差异，研究发现高智力个体表现出更短的平均注视时间、更大的眼跳幅度以及更多的注视点个数。这些眼动特征体现了高智力个体信息加工速度更快且更有效率，注意力更集中，能在有限时间中加工更多信息。随后，他们提取了不同智力个体具有显著差异的24 种眼动特征，使用支持向量机（supportvector machine）算法构造了若干分类器，其中表现最佳的分类器的分类准确率能够达到$6 8 . 3 \\%$ ，这表明利用个体在特定任务中的眼动特征来分类、预测个体的认知能力是有望实现的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究者同样重视探索个体在智力测验中的眼动特征与其智力的关系，因为这时除了能够得到个体注视时间和眼跳幅度等指标，还可以进一步分析个体在认知测验中的加工策略。Vigneau，Caissie 和 Bors（2006）记录了被试在完成高级瑞文推理测验（Raven's AdvancedProgressiveMatrices Test,RAPM)过程中的眼动情况，发现高智力个体解决问题的速度更快，但会花费更多时间在题目的编码上。具体而言，高智力个体在题目区注视比例更高，在选项区注视比例更低，在题目和选项间切换（toggling）次数更少，切换率更低。这反映了不同智力个体在完成题目时可能持有不同策略：高智力个体倾向于在编码阶段将题中所有信息进行编码，以便之后快速高效地比对选项，得到正确答案；而较低智力个体倾向于检测和编码局部信息，更多地进行切换比对，这使其编码时间较短，但总时间花费较多。与Vigneau 等人（2006）的研究类似，Vakil和Lifshitz-Zehavi（2012）比较了智力缺陷个体与正常智力个体在解决RAPM时的眼动特征，发现智力缺陷个体会花更少的时间注视题目内容，而更多地在题目和选项间反复切换。需要注意的是，这一结论也与所用的具体任务的设计规则有关，高智力个体会根据题目的不同设计规则采用更高效的眼动模式（Laurence,Mecca,Serpa,Martin,&Macedo,2018），因此，只有在相似设计的测验材料中，不同认知能力个体的眼动特征才具有可比性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上，由于个体在任务中的注视和眼跳特征能够体现其信息加工特点和加工策略，因此这些眼动指标与个体认知能力之间存在相关关系。这提示我们在利用注视和眼跳相关指标开展个体认知能力差异的研究时，应选择具有一定认知需求的任务，使眼动指标具有良好的区分度。同时，在选择具体指标时，应考虑到任务本身的特点，选取丰富且有意义的指标（如平均值、标准差、分布特点等），当任务涉及加工策略时，应进一步考虑兴趣区的划分与兴趣区相关指标的选择。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2眼动轨迹与认知能力的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "眼动轨迹是个体在进行任务时认知活动的最直观体现，但由于其复杂性，早期研究只能对眼动轨迹进行主观、定性的判断，难以对其进行量化。随着计算机算法的演进，近年来研究者开发了多套适用于眼动轨迹的定量分析算法，为眼动研究提供了新的有力工具（Hayes,Petrov,& Sederberg,2011; van derLans,Pieters,& Wedel, 2OO8）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "例如，Hayes 等人（2011）应用强化学习算法开发了一种新的眼动轨迹分析方法 SRSA（Successor Representation Scanpath Analysis），并使用该方法进行了一系列研究。在眼动轨迹与认知能力的直接关系上，他们发现被试在场景观看任务中的眼动轨迹指标能够解释 $40 \\%$ 以上的智力和工作记忆的变异以及1/3 以上加工速度的变异（Hayes& Henderson,2017）。除此之外，他们发现眼动轨迹指标在分析认知加工的策略使用上同样有着非常大的优势。Hayes 等人（2011）考察了被试在完成RAPM中的眼动模式，结果表明高智力个体会先对题目内容进行连续逐行地充分加工，而后再选择备选答案；而低智力个体会倾向于在题目区域和选项区域进行频繁的切换。该结果与Vigneau,Caissie 和 Bors（2006）等人的结果类似，但是基于 SRSA的眼动轨迹定量分析能够解释 $56 \\%$ 的个体智力差异,相比Vigneau 等(2006)所使用的基础眼动指标而言提高了 $40 \\%$ 左右的解释率，这说明该眼动轨迹算法在个体差异研究中比传统的指标具有更大的优势。之后，Hayes，Petrov 和 Sederberg（2015）还发现经过认知训练的个体在完成RAPM时的智力分数得到提高，且这种提高能通过其眼动轨迹的变化体现出来。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "眼动轨迹与注视和眼跳指标关系密切，相较之下蕴含的信息更丰富，但解释起来相对复杂。随着相关定量分析算法的出现，眼动轨迹分析摆脱了以往只能进行定性分析的不足，在个体认知能力差异研究中表现出比常规指标更强的预测能力。在今后的研究中，将眼动轨迹的定量分析与常规的注视和眼跳指标相结合是值得研究者关注一个方向。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3瞳孔直径与认知能力的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "瞳孔直径的变化与蓝斑的活动存在共变，能间接反映蓝斑一去甲肾上腺素系统（locuscoeruleus norepinephrine system,LC-NE system）的活动（Aston-Jones & Cohen,2005; Joshi,Li,Kalwani,&Gold,2016）。蓝斑是大脑合成和释放去甲肾上腺素的主要中枢，能调节大脑注意系统的运作。瞳孔直径的变化反映了LC-NE 系统的活动，从而间接成为反映个体唤醒水平、注意资源分配的有效指标（van derWel& van Steenbergen,2018）。适应性增益理论（adaptive gain theory,Aston-Jones&Cohen,2005）认为蓝斑活动分为紧张性（tonic）活动和相位性（phasic）活动，前者对应低任务卷入的基线状态，后者对应任务相关的活动状态，基线瞳孔直径和任务诱发的瞳孔反应（task evoked pupillary response）分别体现这两种状态。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1基线瞳孔直径与认知能力的关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "早期研究偶然发现，高认知能力个体在基线状况下比一般认知能力个体拥有更大的瞳孔直径（Bornemann et al.,2010; Heitz, Schrock,Payne,& Engle,2OO8; van der Meer et al.,2010）。Tsukahara 等人（2016）较系统地探索了基线瞳孔直径与个体认知能力的关系。他们发现高工作记忆和高智力个体在基线状态均比普通个体拥有更大的瞳孔直径，且这个现象与种族、年龄、用药、对实验环境熟悉程度以及测试时间等额外变量无关。此外，他们使用潜变量分析发现，相比于工作记忆，流体智力与瞳孔直径的关系更为密切。由于基线瞳孔直径的大小对应着低任务卷入的探索（exploration）状态（Aston-Jones＆Cohen,2005），研究者认为基线瞳孔直径和认知能力的正向关系是由于高认知能力个体更倾向于去探索环境中新的潜在有用信息（vanderMeer etal.,2010）。此外，研究者还推测高智力个体在基线状态下更强的蓝斑活动可能与其默认网络和执行控制网络间更强的功能连接有关（Tsukaharaetal.,2016）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "但是，也有研究发现了不一致的结果（Aminihajibashi，Hagen,Foldal,Laeng,&Espeseth,2019;Unsworth&Robison,2017）。研究者猜测，造成结果不一致的原因可能有以下几点。首先，各研究使用的认知任务各不相同，即使都是工作记忆任务，其衡量的工作记忆能力具体是言语的还是视觉空间的仍存在区别。其次，不同研究者对基线状态的定义和测量方式的不同，比如 Unsworth 和Robison（2015,2017）采用被试在试次前（pre-trial）的瞳孔直径作为基线，而 Aminihajibashi等人（2019）则是采用被试在实验前（pre-experimental）的瞳孔直径作为基线。基线是指一种无任务状态下的探索状态，将 pre-trial时的注视作为基线存在一定的问题，因为该状态仍处于任务当中。此外，由于瞳孔对光反射的存在，瞳孔直径会在明亮环境中缩小，在昏暗环境中放大（Guillon et al.,2016），环境亮度和刺激材料亮度对瞳孔变化的作用是否独立于认知能力还不清楚，这同样可能对结果产生影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2任务状态下瞳孔直径变化与认知能力的关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在任务状态下，研究者更关注任务诱发的瞳孔反应，即瞳孔在任务状态下相对于基线的扩张，这反映了个体在任务中认知资源的调用情况。研究者目前关注不同任务和不同难度下瞳孔扩张与认知能力的关系，并提出了三种理论假说：效率假说（efficiency hypothesis,Aherm& Beatty,1979）、资源假说（resource hypothesis,vanDerMeer et al.,2010）和控制假说（controlhypothesis,Hayes & Petrov,2016）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "效率假说认为，高智力被试完成任务时具有更高的效率，只需要花费更少的资源就能完成任务。Ahern 和 Beatty（1979）的研究发现高认知能力个体在完成各难度心算题目中的瞳孔扩张均小于低智力个体，支持了效率假说的观点。但是，效率假说的观点过于绝对，后续研究发现其并不能适用于所有情况。比如，资源假说认为，高认知能力个体拥有更多认知资源，在完成较难的任务时能够调用更多资源，从而导致其瞳孔扩张更大，但这种差异在简单任务中不会体现，资源假说也得到了一些实证研究的支持（Bornemann etal.,2010;van derMeer etal.,2010）。此外，Lee等人（2015）发现不同的任务类型能够直接导致研究结果所支持的假说不同，在言语和视空间推理任务中，其研究结果支持了资源假说，但在代数计算任务中，其结果支持了效率假说，这说明任务类型或许在其中起到了调节作用。Hayes 和Petrov（2016）新近提出的控制假说体现了这一观点，他们考虑了任务类型的作用，认为对于需要不断探索问题情境才能解决的探索性任务（如RAPM），高智力个体能够充分调用认知资源来完成任务，导致其瞳孔扩张更大；而对于已经习得规则方法，只需要运用已有规则完成的专注性任务（如代数计算任务），高智力个体只需要利用较少资源就可以轻松解决，瞳孔扩张也就相对较小（Hayes＆Petrov,2016）。Hayes 和 Petrov（2016）利用出声思维与瞳孔测量相结合的方法初步证实了控制假说。尽管控制假说发现了任务类型的调节作用，相对调和了前人研究的矛盾，但该假说忽视了任务难度的作用。今后研究应该重视分离任务类型和难度的不同作用，从而更好地解释不同认知能力个体在任务状态下的瞳孔变化特点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，无论是基线状态的瞳孔直径还是任务诱发的瞳孔反应均与个体的认知能力有着密切关系。但是，由于瞳孔直径同时受到多种因素影响，在研究中仍存在不一致的结果。对于今后利用瞳孔直径指标来考察个体认知能力差异的研究而言，首先应该明确区分基线和任务状态这两种不同模式，然后在实验中控制可能的影响因素（如环境亮度、刺激亮度、被试年龄等），并使用标准化的瞳孔数据处理流程对数据进行分析（Sirois＆Brisson,2014）。在关注任务诱发的瞳孔反应的研究中，还应对潜在的调节因素（如任务难度、任务类型）进行区分和考察，从而澄清瞳孔直径与认知能力之间的关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3小结与展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "个体眼动特征具有良好的信度，同时与认知能力之间存在密切关系，这预示着眼动技术有希望成为评估个体认知能力差异的有力工具。目前为止，该领域已取得一些有趣且有意义的结果，但仍处于初步探索阶段，未来仍有相当大的研究空间，其潜在的理论和应用价值也有待发掘。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从理论角度而言，眼动特征与认知能力关系的内在认知与神经机制需要进一步关注。个体与信息获取相关的基础认知能力（如信息加工速度、注意广度等）以及信息获取的策略在完成高级认知任务中起到了直接的作用。目前研究主要考察的认知能力以智力和工作记忆为主，对其他基础认知能力与眼动特征关系的研究较为缺乏，今后可以进一步检验这些基础认知变量与眼动特征的关系，并检验这些变量是否在高级认知能力和眼动特征间起到中介作用，从而考察其内在认知机制。在神经机制方面，对于瞳孔研究而言，尽管已有研究发现瞳孔直径能间接反映LC-NE 系统的活动，同时也可能与静息态功能连接有关，但LC-NE 系统影响认知能力的神经环路机制及瞳孔变化与静息态功能连接关系的直接证据仍然缺乏。对于注视和眼跳相关指标而言，关于其神经基础的研究寥寥无几。个别研究发现个体在阅读中的注视时间分布特点与大脑皮层的眼动控制网络（包括顶内沟、额下回等区域）存在关联（Henderson,Choi,Luke,& Schmidt,2018），这一定程度上揭示了个体眼动特征反映其认知能力的神经基础，但未来仍需要大量研究为其提供更多的证据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从应用的角度而言，尽管个体的眼动特征与认知能力之间存在密切联系，但是不同眼动特征反映了个体哪些特定的认知能力还未得到完备的检验。未来研究应进一步探索不同眼动指标和特定认知能力之间的关系，提高眼动认知能力测试的效度。同时，可以尝试通过确定合适易行的眼动任务、标准化的测验材料以及具有高预测性的眼动指标，开发具有较高信效度的针对某种认知能力评估的标准化眼动测验，建立与特定认知能力有关的关键眼动指标常模，从而使眼动认知能力测验能够在心理测量领域真正发挥重要作用。相比于传统的认知能力测验，眼动测验具有更强的客观性、真实性和精确性，同时避免了可能因量表泄露或过时而导致的测量结果不准确。此外，随着人工智能与心理学的结合愈加紧密，眼动测验与机器学习等方法的结合或将成为一种新的趋势。由于眼动测验的数据量和特征种类众多，在预测和分类研究中适合进行机器学习建模，因此眼动特征或许可以成为反映个体认知能力的有效预测源之一。目前，已有研究结合了各种机器学习算法，利用各项眼动特征对不同认知能力、人格特质或心理疾患被试进行分类，并取得了不错的效果（Abdi Sargezeh,Ayatollahi,&Daliri,2019; Hoppe,Loetscher,Morey,& Bulling,2018;Lou,Liu,Kaakinen,&Li,2017）。未来研究可以借鉴这样的思路，从统计手段上进行革新，从而开发出能够准确评估个体特定认知能力的分类器或回归模型，这对于客观、准确地选拔重要岗位所需要的特殊认知能力人才、鉴别和诊断认知能力异常群体具有重要的应用价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n彭聘龄.(2012)．普通心理学 (第4版).北京：北京师范大学出版社.   \n邢秀侠，左西年.(2019).“工欲效其事，必先信其器”—个体差异的科学靠谱吗？科学通报,64(24),2465-2467.   \n赵晓宁，胡金生，李松泽，刘西，刘琼阳，吴娜.(2019).基于眼动研究的孤独症谱系障碍早期预测．心理科学进展,27(2),301-311.   \nAbdiSargezehyatoli,A,&Dii.l9).vesigationofyemovementaeprametesfidivualsitht fluid intelligence.Experimental Brain Research,237(1),15-28.   \nAhern,S.,&Beatty,J.(1979).Pupillryresponsesuringinformationprocessingarywithsholasticaptitdetestsors.Science, 205(4412), 1289-1292.   \nAminihajibashi.,gdal.g&pth,T.9).duarensstingateuice forassociationbetween workingmemorycapacityandpupilsizevariabilityInternationalJournalofPsychophysiology40,1-7.   \nAston-Jones,G,&Cohen,J.D.oo5).Anintegrativeteoryoflocuscoeruleus-norepinephiefunction:Adaptiveginandptial performance. Annual Review of Neuroscience,28, 403-450.   \nBargary,G.,nJ.o,P.aO,.Jg.E,J.).iadrei eye movements: An oculomotor signature?Vision Research,141,157-169.   \nBornemann,.Foth,oJisJ.uth,rtebrger,drerE).thicaoioal diferences inresource allcation. ZDM,42(6),55-567.   \nCarter,B.T.,&Luke,S.G.(2O18).Individuals’eye movementsinreadingarehighlyconsistentacrosstimeandtrial.Jouralf Experimental Psychology:Human Perception and Performance,44(3),482-492.   \nEttingerU.rds,o)bit eye movements.Psychophysiology,40(4),620-628.   \nFoster,T.E.,Ardoin,S.,&Binder,K.S.(O18).Reliabilityandvidityofeye movement measuresofchildren'sreading.Reading ResearchQuarterly,53(1),71-89.   \nGuillon,M.,bons,be,l..,odK.6).ctsefracea luminance on pupil size. Optometry and Vision Science,93(9),1093-1100.   \nHayes,T.,&enderon,J.M.().canatesdringearldceneiewingprictiialdreesinoitiacity JournalofVision,17(5),23.   \nHayes,T.R.,&etroAA.(O6).upilamterrckstploratioexploiatioradofingaloicaleasogdelis individual differences in fluid intellgence.Journal of Cognitive Neuroscience,28(2),308-318.   \nHayes,T.R.,etro,A.A.,&derbrg,PB.().oveltodfoalynguentialemoementsealsateicfece onRaven'sAdvanced Progressive Matrices. Journal of Vision,1l(10),10.   \nHayes,T.R.,Petrov,A.A.,&ederbergP.B.(215).Doeeallcomesmarterhnourfd-inteligencetestsoresiproe Intelligence,48,1-14.   \nHeitz,R.P.,Shrock,J.C.,Payn,T.W.,&Enge,R.W.(O8).EffectsofincentiveonworkingmemorcapacityBehavioralad pupillometric data.Psychophysiology,45(1),119-129.   \nHenderson,J.M,&uke,S.G.(4).ablediidaldirencsicadicyovementsingading,sedoreading viewing,and scene search. Journalof Experimental Psychology: Human Perceptionand Performance,40(4),1390-1400   \nHenderson,J.WkeG,J.).raoatsaaio reading. Quarterly Journal of Experimental Psychology,7l(1),314-323.   \nHoppe,S.,oehrTory.A,ulg,.(8).Eyeoentsgeerdavirdictonaitri inHumanNeuroscience,12,105.   \nJoshi,S.,Lialwni.,d,J.6)elatioepierolctiitynle coliculi,andcingulate cortex.Neuro,89(1),2-234.   \nKlein,C.&r.).rumtaldetestebiitfcdcurgialol()   \nLaurence,P.G.ecca,T.rpaA,artin,,acedE.C.8).Eyeoementsdogniitrategiudt test: Item type analysis.Frontiers in Psychology,9,380.   \nLee,G.,Ojha,AKangJ.S.,&L,.5).dlationfsouceallationytellgntidivualsinlistic,ical and visuo-spatial tasks.International Journal of Psychophysiology, 97(1),14-22.   \nLou,Y.,Liu,.P.Kaakinen,J.K,&LiX.S.(7).Usingsupportvectormachinestdentifliteracyskil:Evidencefroeye movements.BehaviorResearch Methods,49(3),887-895.   \nLuke,S.G.,DarowskiE.S.,&Gale,S.D.(018).Predicting eye-movementcharacteristicsacrossultipletasksfromwokingory and executive control. Memory and Cognition,46(5),826-839.   \nRayner,K.(O9).Eymovementsndentioninreading,enepereptionndisualsearch.QuarterlyJoualofExperietal Psychology, 62(8),1457-1506.   \nSirois,S.,&Brisson,J. (2O14).Pupillmetry.Wiley Interdisciplinary Reviews:Cognitive Science,5(6),679-692.   \nSmith,K.GdtJdoJoJ)seadcsa with aphasia.Frontiers inPsychology,9,2430.   \nTsukahara,J.,gle)sepldtell 91,109-123.   \nUnsworth,N.,&obson,M.K.(O15).Idividualdferencesintheallcationofttentiontoitmsinokingmemory:Evidcfro pupillometry.Psychonomic Bulletin and Review,22(3),757-765.   \nUnsworth,N,obson,.K(l).portacefrosalfotiookingmoryapacitydetiootroatt variablepupillmetrystudy.JouralofExperimentalPsychology:Learning,MemoryndCognition43(12),96-1987.   \nVakil,E.,&ifshiz-Zehavi,H.l2).SolvingtheavenProgressiericsbydultsithintelecaldsabilityih/itouto syndrome:Dierentcognitivepatersasidcatedbyeye-movements.ResearchinevelopmentalDiabilities(2),4654.   \nvanderans,eters,&Wdel,.().Eye-oemntalysisfarhectien.Joualfemecantistical Association, 103(482),452-461.   \nvanderMeeE,os Insights from pupillometry.Psychophysiology,47(1),158-169.   \nvanerWel,,abenH.(l).upiliiodortgieoos:ooc and Review,25(6),2005-2015.   \nVigneau,F.,ie.,s.)alsseicteec 34(3),261-272. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The application of eye-movement technique in researching individual differences in cognitive abilities ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lu Runhao ‘2， Zhang Xingli 1,2, Shi Jiannong 1,2 ( CAS Key Laboratory of Behavioral Science, Institute of Psychology, Chinese Academy of Sciences, Beijing,100101) (2 Department of Psychology, University of Chinese Academy of Sciences, Beijing,100049) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Eye-movement technique has been widely used in the studies of cognitive psychology. The application of eye-movement technique in researching individual diferences in cognitive ability has also attracted researchers' attention. Previous studies have successfully identified individuals with psychological disorders (such as autism spectrum disorder and schizophrenia) by using eye-movement analysis. Whether eye-movement characteristics can accurately reflect the cognitive ability of normal people is worth exploring. In this review, we first introduced the good reliability of individual's eye-movement characteristics. Studies indicated that eye-movement characteristics have good test-retest reliability and internal consistency reliability,which lays the foundation for using eye-movement characteristics to measure cognitive abilities. Subsequently, we systematically summarized the relationship between eye-movement characteristics and cognitive abilities from three aspects: fixation and saccade related indicators, scan patterns, and pupil size. These studies provided substantial evidence that eye-movement characteristics could reflect individual's cognitive abilities such as intelligence and working memory. To be specific, individuals with high cognitive abilities show more efficient information processing in eye-movement tasks such as visual searching and reading, reflecting in longer saccade amplitude and lower proportion of long fixation duration. In inteligence tests,individuals with high cognitive abilities tend to select the more efficient strategies according to test's rules. Take Raven's advanced progressive matrices test as an example,high inteligence individuals spend longer time on encoding the problem and demonstrate less toggling rate between problem area and response alternatives area. In addition, studies focusing on scan patterns developed powerful quantitative analysis tools in recent years, which brings new vitality to qualitative scan patterns.These studies found that indicators based on quantitative scan patterns perform bettr than conventional fixation or saccade indicators in predicting individual's cognitive abilities. Moreover, pupil size,a more physiological indicator indirectly reflecting the activity of locus coeruleus norepinephrine (LC-NE) system,also has close relations with cognitive abilities.However,the correlation between cognitive abilities and tonic (baseline) pupil size remained controversial for several reasons,such as the diverging definition of baseline and diferent measurements for cognitive abilities. The correlation between phasic (taskrelated) pupil size and cognitive abilities was close to agreement according to the control hypothesis. For tasks that require more exploration,individuals with high cognitive abilities tend to fully utilize their cognitive resources to complete these tasks, causing their phasic pupil size to dilate more that low cognitive abilities individuals.In contrast,for tasks that require more exploitation, they tend to utilize fewer resources to efciently complete these tasks,causing their phasic pupil size to dilate smaller than individuals with low cognitive abilities.Studies have revealed the close relationship between various eye-movement characteristics and cognitive abilities,indicating eye-movement technique is a promising tool for measuring individual cognitive diferences with good reliability and validity. Future studies need to further explore the causal relationship,internal cognitive mechanism, and underlying neurobiological basis between eye-movement characteristics and cognitive abilities. Also,the influences of possible moderating variables (e.g.,age,task type, task dificulty and physical properties of stimulus materials)should be fully considered in relative studies. Furthermore,it is worth exploring to develop reliable and valid cognitive ability tests combined with artificial intelligence algorithm based on eye-movement characteristics. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words eye movement, eye movement characteristics,cognitive abilities,individual differences, scan patterns, pupil size ",
+        "page_idx": 9
+    }
+]

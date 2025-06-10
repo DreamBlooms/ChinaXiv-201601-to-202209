@@ -1,0 +1,235 @@
+# 建言采纳如何促进员工建言：基于目标自组织视角的整合机制
+
+章凯」时金京」罗文豪²（1中国人民大学商学院，北京100872）（²北方工业大学经济管理学院，北京100144）
+
+摘要文章探讨了领导者建言采纳促进员工建言的理论基础、作用机制及其对发展建言研究的意义。通过引入个体心理的自组织目标系统理论，整合了员工建言研究的动机视角和认知视角，构建了建言的目标自组织观点。在此基础上，分析和检验了工作意义感和建言效能感在领导者建言采纳促进员工建言的关系中所起的中介作用。通过问卷调查收集了来自73 位领导与236位员工的纵向数据，结果显示：(1)领导者的建言采纳对员工的促进型/抑制型建言均具有显著的促进作用；(2)工作意义感和建言效能感在领导者建言采纳与员工建言行为的关系中起到完全中介作用。研究结果发展了对建言行为形成机制的认识，促进了建言研究的理论发展，并对管理实践有着积极的启示。
+
+关键词员工建言；心理目标系统；自组织；建言采纳；整合性机制
+
+# 1问题提出
+
+在快速变化和创新驱动的生存环境中，员工主动建言献策对组织的健康发展意义重大。在员工建言行为的前因研究中，领导者被视作激发或抑制员工建言的关键因素(Morrison,2014;段锦云,张晨，田晓明,2016)，相关文献在理论上运用了认知或动机这两类不同的理论视角。其中，动机视角强调领导行为可以通过激发建言动机来促进员工的建言(例如，梁建，2014;李燕萍,郑馨怡,刘宗华,2017;Ng&Feldman,2012)，运用的理论主要有社会交换理论(互惠的动机)、资源保存理论(获取与保存资源的动机)和期望理论(实现个人目标的动机)。认知视角主张领导者可以通过改变员工的认知来对其建言行为进行调控(例如，Detert &Edmondson,2011;Liu, Zhu,&Yang,2010;段锦云,魏秋江,2012;吴隆增,曹昆鹏,陈苑仪,唐贵瑶,2011)，运用的理论主要有内隐建言理论、信息加工理论和社会认知理论等。
+
+在已有建言研究中，少有学者会考虑整合认知与动机这两类不同的理论视角。虽有个别研究者试图通过提出双中介模型来回应这一问题(如梁建,2014;闫春,王思惠,2018;Zhang,Huai,&Xie,2015)，但只是将两类理论视角机械地叠加到一起，并没有深入到理论逻辑的背后，寻求开发一个更具统合性的理论框架。然而，在管理实践中，员工建言既是一种认知活动，也是一种动机驱动的行为(Klaas,Olson-buchanan,& Ward,2012；Morrison,2014)，影响建言的动机过程与认知过程必然是相互作用和相互联系的。为了促进领导因素与建言关系研究中动机视角与认知视角的整合，我们需要解决的关键问题是：个体认知过程与动机过程相互联系的心理基础及其联系方式是什么？
+
+不同理论视角的分割是建言研究现存问题的一个方面，问题的另一方面是现有文献对建言行为形成过程的考察还不够完整。个体行为的目的性决定了员工建言的基本期望是被领导者采纳，并产生实际价值(Klaas etal.,2012；Morrison,2014)。因此，领导者的建言采纳(voice endorsement)作为一种对员工建言的积极反馈与价值肯定，是员工实现建言目的的必要条件和关键环节。
+
+建言采纳主要表现为领导者对员工建言的接受、认可和支持，本质上属于领导者行为的范畴(孙露莹，陈琳，段锦云，2017)。现有文献已经探讨了下属建言对领导者建言采纳的影响(Weiss,Kolbe,Grote,Spahn,& Grande,2017;孙露莹等,2017)，但是领导者建言采纳是否及如何影响员工继续建言目前还缺乏直接探讨。分析和考察领导者的建言采纳对员工建言的影响，有利于形成"员工建言——建言采纳——员工再建言"这样一个完整的建言闭环模型，从而有利于揭示员工建言的动机过程与认知过程在这一完整的建言心理过程中的相互关系及其作用。本文希望通过考察领导者的建言采纳与员工后续建言的关系，更好地探索员工发动建言的整合性心理机制。
+
+综上，本文的研究目的是：(1)整合建言的动机和认知双重理论视角，构建具有统一理论基础的整合性建言观点，为研究领导采纳如何促进员工建言提供整合性的理论基础；(2)基于这一整合性的建言观点，分析建言采纳促进员工建言的整合性作用机制；(3)运用基于问卷调查的定量研究方法检验研究假设的可靠性。
+
+本研究可以从以下两个方面做出理论贡献：一方面，通过整合建言研究中的认知与动机视角，为建言研究提供整合性的理论基础；另一方面，通过分析和考察领导者的建言采纳与员工建言行为的关系，检验本文提出的理论假设，扩展现有文献对建言行为形成机制的认识。
+
+# 1.1理论基础：自组织目标系统理论
+
+建言作为一种工作行为，它是动机驱动的，并伴随认知和情绪（Morrison,2014)。工作动机理论发展至今，已经取得丰富的理论成果，但也存在突出的问题。一方面理论视角十分丰富，小型理论多样；另一方面目前也很难超越众多小型理论并存的状态，很难实现对认知、动机和情绪的整合。为了进一步发展动机理论，并为理解动机、认知和情绪的关系提供统一的理论基础，心理学需要开发新的基础性理论。基于大脑是一种开放的自组织系统(Kelso,1995)，研究者运用复杂性科学的自组织理论，提出了人类心理的自组织模型这一新的心理学理论根基(章凯,2004,2014)。人类心理的自组织模型是基于复杂性科学的自组织理论和大量的心理事实开发出来的，主张人的心理系统是一种复杂的、开放的自组织系统，心理目标是其中的动力性成分，是个体心理系统实现自组织演化的组织者与驱动者(章凯,2003,2004)。心理目标不同于目标设置理论中的任务目标，它是人们渴望实现的、具有个人价值的、相对稳定的未来状态，是一种指向未来的、具有自我实现倾向的心理时空体系，例如个体相对稳定的理想、愿望或未来期许等。
+
+掌握"自组织”（self-organization）这一基本概念是理解和应用上述理论模型的基础。在自然界和人类社会中，自组织现象普遍存在。例如每个生命体都是一种自组织系统，因为它们的生理结构及其成长趋势不取决于外界的某种干预，而是有自身的规律。就管理而言，自组织是相对于“组织"而言的，个体在传统的组织中容易受组织力量支配，服从组织，成为"组织人”；而自组织正好相反，现代企业文化作为一种新的管理思想和管理模式，强调基于员工认同的文化和自律（而非他律）进行管理，其实就是主张发展员工的自组织，改变传统的“组织”行为。在自组织系统理论中，自组织是指系统不需要外界特定的干预就能够通过内部机制形成新的结构(哈肯，1988)。自组织是大脑与人类心理活动的典型特点，例如研究发现个体的自我概念或成就目标对行为具有动机作用(Cantor& Markus,1986;Dweck&Leggett,1988;Schultz& Schultz,2013)，这些都反映了心理活动的自组织特点。可以说，“自组织"这一术语虽然没有出现在主流心理学理论中，但其精神早已蕴含于其中。
+
+章凯和张必隐(1996)曾基于自组织理论把个体心理世界的认知过程与动机过程结合起来，并据此探索兴趣对文章理解的影响，他们主张个体加工和建构信息的过程不是盲目的，而是在一定的心理目标的组织和驱动下进行的,是为了实现原有的目标或形成新的目标。在之后的理论发展与研究中，研究者基于人类心理的自组织模型提出了动机的自组织目标理论(章凯,2003)、认识兴趣的自组织目标－信息理论(章凯,2004)和情绪的目标结构变化说(章凯,2014)。这些理论有着共同的理论基础和核心逻辑，形成了一个新的、更具整合性的理论体系，被称为自组织目标系统理论或目标动力学，并已应用于多项实证与理论研究中，获得了国际同行的认可(Chen,2017)。
+
+在自组织目标系统理论的视野中，心理目标是自组织与自我驱动的。一方面，心理目标的形成、演变与发展离不开信息获取，另一方面，处于优势地位的心理目标又会选择性地驱动和组织个体的信息加工与信息建构过程。自组织目标系统理论的优势是“涵盖了目前所有动机理论的内涵与要素”(Chen,2017)，为分析个体动机与认知的相互关系提供了基本的理论逻辑。因此，本研究采用自组织目标系统理论来分析员工建言的完整过程以及领导者的建言采纳影响员工建言的认知与动机的整合性机制。
+
+# 1.2研究假设
+
+基于自组织目标系统理论来分析建言行为产生的心理机制，我们提出以下观点：（1)建言作为一种有意识和有目的的行为(Morrison,2014)，既发端于相关心理目标的驱动与组织，又服务于建言者心理目标的实现与成长；(2)驱动建言的心理目标可以是内在目标（学习目标、创新目标、实现自我价值目标等）、外在目标（物质生活目标、职业安全目标和工作－生活平衡目标等）或社会目标(章凯,2014)；（3）驱动建言的心理目标只有在个体心理系统的目标协同与竞争中占据优势地位才能发动建言行为，这需要个体相信自己在建言机会出现时具有有效建言的能力（建言效能感)，同时预期建言具有吸引领导认同和采纳的可能性(对组织有意义)，并有利于个人实现驱动建言的心理目标(具有个人价值)；(4)驱动建言的心理目标在目标系统中一旦占据优势地位，就会驱动和组织个体的认知活动，组织建言内容和选择建言方案，并在一定条件下发动建言行为。在此模型中，个体内心世界自组织和自驱动的心理目标是建言的驱动者与组织者，因此我们将该观点称为员工建言的“目标自组织观点”。可以看出，其中观点（3）融合了社会认知理论、信息加工理论和期望理论。下面我们将运用这一理论观点来分析领导者的建言采纳影响员工建言的整合性机制和作用效果，并据此提出假设模型和进行实证检验。
+
+建言行为指的是员工出于帮助组织改善流程、提高组织运行有效性的目的，向组织提出建设性的想法、意见和建议等的行为(VanDyne,Ang,& Botero,2003;Morrison,2011)，可分为促进性建言和抑制性建言(Liang etal.,2012;梁建,2014)。促进性建言是指员工为提高企业效率而提出新观点和新方法的行为，而抑制性建言是指员工对阻碍组织效率的问题(如对组织有害的行为,不恰当的工作程序或规范等)提出抑制性观点和措施的行为。作为一种有意识的行为，员工的建言行为是由其动机驱动的(Hagedoorm,Van Yperen,Van De Vliert,&Buunk,1999;VanDyne et al.,2003)。促进性建言和抑制性建言是从建言内容上对建言行为进行的划分，它们都反映了建言行为的本质特征，两类建言并非非此即彼的关系，同一种建言动机既可以驱动促进性建言，也可以驱动抑制性建言。根据上述建言的目标自组织观点，当建言获得领导的积极评价与采纳时，员工一方面会认识到自己的建言是可以成功的，另一方面会真实地感受到建言对个人和组织的价值与意义（例如，自己得到领导者的肯定与信任，感到自己的未来会更美好，或对组织的未来发展更有信心等)，从而促进组织建言行为的心理目标占据优势地位，捕捉新的建言机会，组织和驱动新的建言，为组织提供发展性建议（促进性建言）或指出组织当前可能存在的问题（抑制性建言)。因此，我们提出假设1。
+
+假设1：领导者的建言采纳与员工的促进性/抑制性建言存在正向关系。
+
+领导者的建言采纳会通过哪些机制影响员工的建言行为？现有文献已经发现心理安全感(王永跃，葛菁青,柴斌锋,2017)、责任知觉(梁建,2014)和自我效能感(Wang,Gan,Wu,&Wang,2015；王永跃等,2017)等因素在领导行为与员工建言行为的关系中具有中介作用。现有研究一般独立选择动机或认知机制来探讨领导行为如何影响员工建言。
+
+根据自组织目标系统理论和建言的目标自组织观点，试图驱动建言的心理目标在个体心理系统中的目标协同与竞争中占据优势地位是该目标能够发动和组织建言的前提条件。这依赖于两个基本条件：(1)心理目标驱动的建言行为能够取得积极的成果；(2)这些积极的成果能够进一步促进该心理目标的实现进程或成长。在组织情境中，员工建言的成功一方面取决于员工的建言能力，另一方面取决于建言对组织发展的意义。当建言获得领导者的采纳时，员工一方面会更加相信自己的建言能力，另一方面会真实地感受到建言对个人目标实现的价值和对组织发展的积极影响，这两方面都有利于促进组织建言的心理目标在目标协同与竞争中占据优势地位，然后组织和发动新的建言。因此，建言采纳促进员工建言的心理机制主要有两条路径：其一是员工感知到自己可以胜任建言，这可以让员工对自己顺利完成建言充满信心；其二是对建言的意义评估，包括建言对个人的意义(例如预期建言对个人实现当前愿望和未来发展的积极影响等)以及对组织发展的意义(例如相信建言有利于发现和解决妨碍组织发展的问题，使组织的未来更美好等)。在本研究中用员工的建言效能感来度量上述第一条路径，用员工感知的工作意义感来度量第二条路径。
+
+工作意义感和建言效能感在建言采纳与员工建言的关系中的作用是有一定差异的。具体说来，Hackman 和 Oldham(1976)最早将工作意义感定义为员工在工作中体验到的价值(Value)和意义(Meaningfulness)、以及认为值得为该工作付出努力(Worthwhile)的程度。从自组织目标系统理论来看，由建言采纳形成的工作意义感有助于促进建言者相关心理目标的实现进程，并使该目标更容易在心理目标的协同与竞争中占据优势地位，从而促使个体为组织提供发展性建议（促进性建言）或指出组织当前可能存在的问题（抑制性建言)。因此，提出假设2。
+
+假设2：工作意义感在领导者建言采纳与员工促进性/抑制性建言的关系中具有中介作
+
+用。
+
+对建言效能感来说，研究发现，作为一种可以习得的认知因素，成功的体验和积极的心理状态是提升自我效能感的有效途径(Azizli,Atkinson,Baughman,& Giammarco,2015;Bandura,1986)。当员工的建言被领导者采纳时，实际上也是其建言行为获得了领导者的认可，这种成功的经历在提升工作意义感的同时，也会由于组织建言的心理目标的实现进程而产生积极的心理状态和一定的成功体验(章凯，2014)，从而强化个体对自己能力的认知，增强员工对后续建言成功的信念，提高员工的建言效能感。根据前面的理论逻辑，建言效能感的提升有利于促进组织建言的心理目标占据优势地位，从而有利于发动建言行为。因此，领导者的建言采纳可以通过提高员工的建言效能感来促进他们为组织提供发展性建议（促进性建言）或指出组织当前可能存在的问题（抑制性建言)。因此提出以下假设：
+
+假设3：建言效能感在领导者建言采纳与员工促进性/抑制性建言的关系中具有中介作用。
+
+综上所述，我们认为领导者的建言采纳可以通过员工的工作意义感和建言效能感两条中介路径同时促进员工的促进性建言和抑制性建言。假设模型如图1所示。
+
+![](images/840e5bbdf9eb770ef7acb3941687d061446f3e96514b7bce844ccd8dc1ed26c1.jpg)  
+图1建言采纳促进员工建言的整合机制模型
+
+# 2研究方法
+
+# 2.1研究样本与程序
+
+本研究以国内一家大型互联网金融企业的中层和基层员工为调研对象，采用问卷调查的方式收集了该企业位于天津市和浙江省共27家门店的领导－员工匹配问卷。为了避免共同方法偏差，本研究采用了Podsakoff(2003)推荐的程序控制法来降低共同方法偏差对研究结果的影响。首先，在问卷的指导语中，我们特别强调了所有问卷皆为匿名作答，所有回答均无正误之分，且未告知答题者测量的变量，以避免答题者对自变量和因变量关系产生猜测。其次，我们采用了分阶段调研的纵向数据收集方法，获取了领导－员工匹配数据。本研究中领导问卷收集的数据为领导者的人口统计学信息及其对团队中每个下属的建言采纳情况，员工问卷主要收集员工的工作意义感、建言效能感、建言行为和人口统计学信息。在其公司行政人员的配合和帮助下，本研究第一阶段先发放领导问卷，间隔两周再发放员工问卷。本研究共发放领导问卷80份，回收73份，回收率为 $91 . 3 \%$ ；发放员工问卷 270份，回收252份，回收率为 $9 3 . 3 \%$ ，与每个领导者匹配的下属人数平均值为3.45。
+
+所有被试均为自愿参与本次问卷调查，且他们可以在任何时间自由决定是否继续参与调查。为了调动参与者的积极性，我们为他们提供了5－20元的奖励，金额有一定的职位等级差异。所有参与者填写调查问卷之前，都被要求仔细阅读问卷的指导语，并被告知所有问卷均为匿名填写，数据结果仅作学术研究使用，并承诺不会向任何第三方泄露，希望参与者可以根据自身情况如实填写。
+
+在删除有缺失值的问卷及反应倾向明显的无效问卷之后，本研究共获得 236份有效匹配问卷，总有效回收率为 $87 . 4 \%$ 。具体而言，基层员工样本共236人，平均年龄为28.0岁。其中，男性有141人，占总样本的 $59 . 7 \%$ ；大专及以上教育程度的人数为176人，占总样本的 $74 . 6 \%$ 。领导者样本共73人，平均年龄为30岁。其中，男性有58人，占总数的 $7 9 . 5 \%$ 教育程度在大专及以上的有51人，占领导者样本总数的 $69 . 9 \%$ 。
+
+# 2.2变量测量
+
+本研究的变量测量均采用现有成熟量表。对于原量表为英文的题项，我们均采用双盲法进行翻译和回译(Translation and back-translation)，以保证翻译后语义的等值。只是为了适应本研究的具体情境，在保持题项原有含义不变的基础上，我们对部分题项的表达进行了必要的调整，尽量使调整后的表述简明易懂，没有歧义，并符合汉语的表达习惯。以往研究发现，中国被试在填写问卷调查时往往会出现选择中间值的倾向(Harzing,2006)，为了避免集中出现这种模棱两可的情况，除人口统计学变量外，本研究涉及的其它所有变量均采用六点量表进行测量，1-6代表对各题项的同意程度，其中，“1"表示非常不同意，“6"表示非常同意。各变量的测量方法如下：
+
+建言采纳：本研究的建言采纳量表选自Burris(2012)开发的5题项量表。代表性题项有“我认为这名下属的建议应该付诸实施”、“我会将这名下属的建议传达给我的上司"等。在本研究中，该量表的Cronbach's $\mathfrak { a }$ 系数为0.95。
+
+工作意义感：本研究采用 Bunderson 和 Thompson(2009)开发的工作意义感量表，共6个题项。代表性题项有"我的工作就是我生命的召唤”、“我是适合做这项工作的人"等。在本研究中，该量表的Cronbach's $\alpha$ 系数为0.95。
+
+建言效能感：本研究采用段锦云和魏秋江(2012)开发的7题项建言效能感量表。代表性题项有“管理者会听取我提出的建议”、“我能发现各种适当机会，向组织表达自己的想法”等。在本研究中，该量表的Cronbach's $\mathfrak { a }$ 系数为0.93。
+
+建言行为：本研究采用Liang,Farh和Farh(2012)开发的10题项建言量表。此量表共包含两个维度，分别是促进性建言和抑制性建言，各维度分别由5个题项组成。促进性建言的代表性题项包括"我会对可能影响本部门的事，积极谋发展、提建议"等，抑制性建言的代表性题项包括"我会对影响本部门效率的事情勇于建言，即使这样做会让他人难堪"等。在本研究中，促进性建言和抑制性建言量表的Cronbach's $\mathfrak { a }$ 系数分别为0.94和0.90。
+
+控制变量：现有研究表明，当建言者表现出更多的专业特性时，管理者会倾向于考虑他们的建言内容(Sniezek,Schrah,&Dalal,2004)。一般说来，越年长的员工被认为资历越高;受教育程度越高的员工被认为知识储备越多、专业水平越高，因此，本研究选择年龄和受教育程度作为控制变量。其中年龄的测量方式为不设置选项，由被试填写实际年龄；受教育程度的测量设置5个选项，“1"代表高中及以下，“2"表示专科，“3"表示本科，“4"表示硕士，“5"表示博士及以上。另外，本研究也将性别纳入控制变量(男 $^ { - 1 }$ ，女 ${ \bf \bar { \tau } } = 2 { \bf \bar { \tau } }$ )。因此，本研究共设置有3个控制变量，分别是性别、年龄和受教育程度。
+
+# 3数据分析与结果
+
+本研究主要使用软件 SPSS21和Mplus 6.12进行统计分析。首先，本文采用验证性因子分析技术评估研究包含的五个主要变量之间的区分效度，分别是建言采纳、工作意义感、建言效能感和建言行为，其中又将建言行为分为促进性建言和抑制性建言。其次，由于本研究中的数据存在嵌套关系，我们通过在 Mplus 软件中构建多层研究模型，对本研究的主效应假设和包含中介效应的整体模型进行检验。最后，我们采用蒙特卡洛方法对假设模型中的间接效应进行Bootstrap 检验。
+
+# 3.1验证性因子分析
+
+验证性因子分析的结果如表1所示。实际观测数据与五因子模型(模型M0)之间的拟合度良好，大部分拟合指标都达到了理想标准值。而另外四种因子结构模型(模型M1,M2,M3和 M4)与实际观测数据的拟合度并不理想。卡方检验的结果和模型拟合度指数都显示，假设模型M0显著优于另外四种因子结构模型。同时，与模型M0（区分所有研究变量）的良好拟合指标相比，替代模型M1（仅合并两种建言行为的四因子模型）、M2（仅合并两类中介变量的四因子模型）、M3（分别合并两类中介变量和两种建言行为的三因子模型）、M4（同时合并中介变量和建言行为的二因子模型）的拟合指数基本都超出了可接受范围，这说明本研究的数据不存在严重的共同方法偏差。
+
+表1验证性因子分析结果表  
+
+<html><body><table><tr><td>模型拟合指标</td><td>因子</td><td>x</td><td>df</td><td>△x²</td><td>CFI</td><td>TLI</td><td>RMSEA</td></tr><tr><td>M0(五因子)</td><td>VE,WM,VEF,PMV,PHV</td><td>173.99**</td><td>80</td><td>1</td><td>0.98</td><td>0.97</td><td>0.07</td></tr><tr><td>M1(四因子)</td><td>VE,WM,VEF,PMV+PHV</td><td>269.84**</td><td>84</td><td>95.85**</td><td>0.95</td><td>0.94</td><td>0.10</td></tr><tr><td>M2(四因子)</td><td>VE,WM+VEF,PMV,PHV</td><td>828.84**</td><td>84</td><td>654.85**</td><td>0.81</td><td>0.76</td><td>0.20</td></tr><tr><td>M3(三因子)</td><td>VE,WM+VEF,PMV+PHV</td><td>917.66**</td><td>87</td><td>743.67**</td><td>0.79</td><td>0.74</td><td>0.20</td></tr><tr><td>M4(二因子)</td><td>VE,WM+VEF+PMV+PHV</td><td>1506.20**</td><td>89</td><td>1332.21**</td><td>0.64</td><td>0.57</td><td>0.26</td></tr><tr><td>M5(一因子)</td><td>VE+WM+VEF+PMV+PHV</td><td>2234.75**</td><td>90</td><td>2060.76**</td><td>0.45</td><td>0.36</td><td>0.32</td></tr></table></body></html>
+
+注： $N = 2 3 6$ ；VE $\ c =$ 建言采纳， $\mathrm { W M } =$ 工作意义感，VEF $\fallingdotseq$ 建言效能感，PMV $\ O =$ 促进性建言， $\mathrm { \ P H V = }$ 抑制性建言；‘ $\cdot _ { + }$ ”代表前后两个因子合并。 $^ { * * } p < 0 . 0 1$ (双尾检验)。
+
+# 3.2描述性统计与相关分析
+
+表2报告了本研究所涉及的所有变量的均值、标准差及变量之间的相关系数。相关分析结果显示：本研究的自变量(建言采纳)同两个中介变量(工作意义感和建言效能感)和两个结果变量(促进性/抑制性建言)之间均存在显著的正相关；中介变量与结果变量之间也都存在显著的正相关。因此，相关分析的结果显示，各变量之间的关系符合本研究的理论预期，适合做进一步的分析和检验。
+
+表2均值、标准差及变量之间的相关系数表  
+
+<html><body><table><tr><td>变量</td><td>M</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>1.性别</td><td>1.40</td><td>0.49</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.年龄</td><td>27.85</td><td>4.54</td><td>-0.06</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.受教育程度</td><td>1.97</td><td>0.76</td><td>0.06</td><td>-0.11</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.建言采纳</td><td>4.28</td><td>1.03</td><td>-0.07</td><td>0.16*</td><td>-0.08</td><td>(0.95)</td><td></td><td></td><td></td><td></td></tr><tr><td>5.工作意义感</td><td>4.28</td><td>1.14</td><td>-0.28**</td><td>0.12</td><td>-0.07</td><td>0.33**</td><td>(0.95)</td><td></td><td></td><td></td></tr><tr><td>6.建言效能感</td><td>4.35</td><td>1.02</td><td>-0.06</td><td>-0.06</td><td>0.11</td><td>0.32**</td><td>0.46**</td><td>(0.93)</td><td></td><td></td></tr><tr><td>7.促进性建言</td><td>5.00</td><td>0.85</td><td>-0.07</td><td>0.08</td><td>-0.07</td><td>0.23**</td><td>0.42**</td><td>0.48**</td><td>(0.94)</td><td></td></tr><tr><td>8.抑制性建言</td><td>4.93</td><td>0.90</td><td>-0.12</td><td>0.15*</td><td>-0.09</td><td>0.24**</td><td>0.51**</td><td>0.48**</td><td>0.81**</td><td>(0.90)</td></tr></table></body></html>
+
+注： $N = 2 3 6$ 。各量表的Cronbach's $\mathfrak { a }$ 系数标注在对角线上的括号内。 $^ { * } p < 0 . 0 5$ ： $^ { * * } p < 0 . 0 1$ (双尾检验)。
+
+# 3.3假设检验
+
+由于本研究问卷收集过程涉及一位领导者对多位下属建言采纳情况的评价，因此我们通过在Mplus 中建立跨层次嵌套模型的方式(Preacher,Zyphur,& Zhang,2010)，分别进行了主效应检验和中介效应检验。首先，我们检验了领导建言采纳对员工两类建言行为的主效应。在控制了性别、年龄和受教育程度等人口统计学变量后，领导建言采纳对促进性建言$( \gamma = 0 . 2 2 , \mathrm { s . e . } = 0 . 0 7 , p = 0 . 0 0 2 )$ 和抑制性建言 $( \gamma = 0 . 2 3 , \mathrm { s . e . } = 0 . 0 7 , p = 0 . 0 0 1 )$ 的直接效应都是显著的，因此，假设1得到了支持。
+
+其次，我们对包含中介变量的整体模型进行检验，模型估计的标准化路径系数如图 2所示。可以发现，领导者的建言采纳同员工的工作意义感 $( \gamma = 0 . 4 8 , \mathrm { s . e . } = 0 . 0 8 , p < 0 . 0 0 1 )$ 和建言效能感 $( \gamma = 0 . 3 6$ s.e. $= 0 . 0 9$ ， $p < 0 . 0 0 1 \$ 均具有显著的正向关系。此外，工作意义感同员工的促进性建言 $( \gamma = 0 . 1 8 , \mathrm { s . e . } = 0 . 0 6 , p = 0 . 0 0 2 )$ 和抑制性建言 $( \gamma = 0 . 2 4 , \mathrm { s . e . } = 0 . 0 6 , p < 0 . 0 0 1 )$ 均有显著的正向关系；建言效能感同员工的促进性建言 $( \gamma = 0 . 3 3$ ， $\mathbf { s . e . } = 0 . 0 6$ $p < 0 . 0 0 1 \AA .$ 和抑制性建言 $( \gamma = 0 . 3 4$ ， $\mathrm { s . e . } = 0 . 0 6$ $p < 0 . 0 0 1 \$ )也均有显著的正向关系。而且在整体模型的估计中，由于工作意义感和建言效能感的中介作用，建言采纳对促进性建言 $( \gamma = 0 . 0 0 2 , p = 0 . 9 7 )$ 和抑制性建言 $( \gamma = \textrm { -- } 0 . 0 2 , p = 0 . 7 9 )$ 的直接效应都不再显著，这说明工作意义感和建言效能感在建言采纳增强员工的促进性建言和抑制性建言中有可能起到了完全中介作用。
+
+考虑到本研究中涉及嵌套数据，我们根据MacKinnon,Lockwood 和Williams(2004)的建议，运用蒙特卡洛(Monte Carlo)方法对工作意义感和建言效能感的中介效应进行Bootstrapping 检验。结果显示，在建言采纳增强促进性建言和抑制性建言的路径中，工作意义感的间接效应都是显著的，且二者在重复抽样次数为20000 次的 $9 5 \%$ 置信区间中均不包含0，前者为[0.034，0.156]，后者为[0.055，0.186]；同样，建言效能感在以上路径中的间接效应也都是显著的，且二者在重复抽样次数为20000次的 $9 5 \%$ 置信区间中均不包含0，前者为[0.058，0.193]，后者为[0.058，0.195]。因此，工作意义感和建言效能感在领导者的建言采纳与员工的促进性建言、抑制性建言之间的中介效应显著，假设2和假设3都得到
+
+了支持。
+
+![](images/f2450e4ea2f8afffe1aab4b47bf3923f728448dd97af98d64c33a6fb1109b901.jpg)  
+图2理论模型估计图
+
+注： $N = 2 3 6$ ： $^ { * * } p { < } 0 . 0 1$ (双尾检验)；括号中的数值为标准误（s.e.）。
+
+# 4讨论
+
+总结上文，在深入分析建言研究文献时，我们发现建言研究目前存在两方面的不足：其一是建言研究的动机视角与认知视角存在逻辑分割，缺乏有效的理论整合；其二是相关文献忽略了领导者的建言采纳这一关键因素对建言形成的影响，导致建言形成机制的研究不够完整。为了更加全面地认识员工建言行为的形成机制，本研究基于自组织目标系统理论，探讨了动机和认知这两种相互联系的心理过程的整合机制，为员工建言的形成构建了目标自组织观点，从而为建言研究提供了新的理论基础。在此基础上，本研究进一步对领导者的建言采纳如何影响员工再建言进行了理论分析，提出了员工的自我效能感和工作意义感在领导者的建言采纳促进员工建言的路径中共同具有中介效应的作用机制模型。通过采集多时点的上下级匹配样本数据，采用 Mplus 多层次分析对嵌套模型中的主效应和中介效应分别进行了检验，最终得到以下结果：(1)领导者的建言采纳能够正向影响员工的促进性/抑制性建言；(2)工作意义感与建言效能感在领导者建言采纳与员工促进性/抑制性建言行为的关系中具有完全中介作用。以上结果比较好地支持了研究假设。下面将对本文的理论意义、实践启示和未来方向做进一步的讨论。
+
+# 4.1理论意义
+
+本研究的理论贡献主要表现为以下三个方面：
+
+第一，通过引入人类心理的自组织目标系统理论，对以往建言研究中的认知与动机视角进行了理论整合，提出了建言的目标自组织观点，从而为建言研究提供了新的理论基础。现有文献中，学者们在实证检验建言行为的前因时，已经选择和采纳了诸如社会交换理论、资源保存理论、信息加工理论等视角来进行研究模型开发，取得了丰富的成果，然而，认知视角和动机视角却没有得到有效的整合。从理论发展的角度来看，我们有必要深入到建言行为背后开发能够更好地解释、预测和影响这一行为的理论模型。为此，本文首先基于人类心理的自组织目标系统理论，提出了员工建言的目标自组织观点，认为激活并占优势地位的心理目标是产生建言动机的基础，它驱动和组织建言的认知过程和行为以实现自身（心理目标)。在建言的目标自组织观点中，我们可以借助于心理目标的自组织与自驱动这一基础性的心理动力机制及其功能，整合建言发生的动机与认知过程，从而为建言研究提
+
+供了新的理论基础。
+
+第二，从理论和实证两方面分析和考察了领导者的建言采纳对员工建言行为的影响效果及其作用机制，从而完善了对员工建言形成机制的理论认识。在以往的研究中，学者们侧重考察了特定的领导风格对员工建言行为的影响(例如，梁建,2014;Wanget al.,2015；吴隆增等,2011；章璐璐,杨付,古银华,2016)。相对而言，这些领导风格更多的是建言行为的环境因素，领导者的建言采纳对建言者而言具有更加直接的意义，是建言达到目的的关键环节。本研究运用自组织目标系统理论和本文提出的建言的目标自组织观点，分析揭示了建言采纳对员工的认知过程与动机过程的影响，并进一步揭示了建言采纳影响员工建言的积极效果与心理中介机制，分析和检验了工作意义感和建言效能感在二者关系中的中介作用，较为全面地探索了“员工建言——建言采纳——员工再建言"这样一个闭环的社会互动过程中员工复杂的心理过程。因此，在前人研究的基础上，本文为分析领导者建言采纳的激励作用提供了崭新的理论逻辑和实证证据，从而为建言行为形成机制的研究贡献了新的知识。
+
+第三，本研究能够为认识和管理员工的极端建言行为提供新的理论基础。例如，无论是社会交换理论还是资源保存理论，都无法很好地解释员工“以死相谏"的建言行为。从自组织目标系统理论出发，建言的直接驱动者和组织者是个体的心理目标，驱动和组织个体极端建言行为的心理目标很可能是其心理目标系统中占据绝对优势的主导目标，其他目标无法对其形成有力的竞争关系。如果这一目标不能得以实现，就会对个体的心理目标系统和整个心理世界产生毁灭性的影响。因此，即使得不到积极的回报(超越社会交换理论)，即使从收益风险评价的角度来看不够理性(超越理性的期望理论)，即使要消耗自身的资源而无法获取新的资源(超越资源保存理论)，这些员工也可能宁愿冒着牺牲个人长远利益乃至生命的危险进行建言(超越社会认知与信息加工理论)，以保护自己内心世界最重要、最核心的目标或竭力促进该目标的实现进程(回归心理目标的自组织与自驱动)。类似的建言现象还包括组织内的集体性建言、多次持续性建言等，它们在过往的相关理论视角下都难以得到较好的解释。由此可见，通过引入自组织目标系统理论这一新的理论逻辑，可以对一些原本难以理解和预测的建言行为和现象构建出新的理论认识，从而推动人们更完整地认识和管理员工建言。
+
+# 4.2实践启示
+
+本文的研究结果对管理实践也有多方面的启示。第一，研究发现建言采纳对员工的建言行为具有显著的正向作用，这启示管理者在鼓励员工积极地为组织的发展建言献策时，应重视采纳员工的合理化建议，让员工形成一种信念，高质量的建言一定会引起领导们的重视和采纳。第二，在激励员工建言时，可以建立建言的反馈机制和奖励机制，明确建言对组织发展的意义，让员工形成积极的心理预期，从而增强员工的建言效能感和建言工作的意义感，以此维护和促进持续的建言动机。即使对那些不能采纳的员工建议，也可给予下属正面的反馈。第三，管理者需要考虑和分析员工建言动机背后心理目标的内容。员工建言往往试图融合组织目标和个人目标，优秀的管理重视组织－员工的目标融合(章凯,李朋波,罗文豪,张庆红,曹仰锋,2014)，企业培育和建设以人为中心和以人为本的组织文化，员工的目标得以尊重和引导，可以为建言采纳提供更广阔的空间，并激励员工更积极地建言。
+
+# 4.3研究局限和未来方向
+
+本研究存在一定的局限性，需要在以后的研究中予以改进。第一，研究样本来自一家互联网金融公司，虽然我们选取了该公司多家门店的样本，但研究结果的外部效度仍有待继续检验。第二，我们在数据收集阶段努力通过程序设计来控制共同方法偏差的影响，但由于条件限制，中介变量（建言效能感与工作意义感）和结果变量（员工的促进性\抑制性建言）都是员工在同一时间点自我报告的，这可能会在一定程度上夸大二者之间的关系强度。但验证性因子分析的结果（表1）也显示，本研究对各变量的测量区分效度良好，而且替代模型的拟合指标没有达到统计标准要求，这说明本研究采集的数据中不存在严重的共同方法偏差。当然在未来研究中，需要采用更加严谨的纵向数据采集方案，避免共同方法偏差对变量之间的关系强弱可能带来的影响。第三，本研究主要是采用问卷调查的方式获取数据，对于探究变量之间因果关系而言，仅采用分阶段收集数据的纵向研究方法还是不够的，在以后的研究中，可以通过实验研究来对变量之间的因果关系做进一步的检验。
+
+此外，未来研究还可以从以下三方面进行扩展。第一，根据建言的目标自组织观点，未来研究可以进一步考察员工组织和驱动建言的心理目标的类型及其作用方式，直接检验建言效能感和建言意义感对心理目标形成建言动机的影响，从而更加完整地探讨和检验领导者建言采纳影响员工建言的心理过程。第二，未来研究可以进一步探索在领导者建言采纳与员工建言行为关系中各种中介机制的边界条件，例如，可以通过引入人格特质变量或组织环境变量来完善对这一关系的理解。第三，借鉴本研究的理论逻辑，未来也可以运用自组织目标系统理论探讨员工其它工作行为（例如离职行为、组织公民行为、追随行为等)的形成机制，构建相应的理论，深化对这些行为的认识。
+
+# 5结论
+
+通过上述研究和讨论，我们得出以下结论：
+
+（1）领导者的建言采纳通过提升员工的工作意义感和建言效能感两条中介路径来共同促进员工的建言行为，而且建言采纳影响员工建言的动机机制和认知机制可以共同起作用。（2）基于自组织目标系统理论构建的建言的目标自组织观点整合了建言行为形成的动机机制与认知机制，可以为建言研究提供新的理论基础，借此可以更加深入和完整地分析员工建言的形成过程。
+
+# 参考文献
+
+Azizli,N.,Atkinson, B.E., Baughman, H. M.,& Giammarco,E.A. (2015). Relationships between general self-efficacy, planning for the future,and life satisfaction. Personality and Individual Differences,82(5), 58 - 60.   
+Bandura,A.(1986). Social foundations ofthought and action: A social cognitive theory. Englewood Cliffs, NJ, USA: Prentice-Hall, Inc.   
+Bunderson, J. S.,& Thompson, J.A. (2009). The call of the wild: Zookeepers, callings,and the double-edged sword of deeply meaningful work. Administrative Science Quarterly, 54(1), 32 - 57.   
+Burris,E.R.(2012). The risks and rewards of speaking up: Managerial responses to employee voice. Academy of Management Journal, 55(4), 851 - 875.   
+Cantor, N., & Markus, H. (1986). Motivation and self-concept. In Handbook of Motivation and Cognition, Foundations of Social Behavior, edited by R. M. Sorrentino,and E.T. Higgins, pp.96 - 121. New York: Guilford.   
+Chen, X. (2017). The dynamics of psychological goals: A new theory for observing and predicting human behavior. In Dynamics of Psychological Goals: A Self- organization Theory of Motivation and Personality (pp.3 - 5)，authored by K. Zhang.Quebec: Royal Collins Publishing Group INC.   
+Detert, J. R.,& Edmondson,A. C. (2011). Implicit voice theories: Taken-for-granted rules of selfcensorship at work. Academy of Management Journal, 54(3), 461 - 488.   
+Duan,J. Y.,& Wei, Q. J. (2012). The structure of voice efficacy and its role in the formation mechanism of employee voice behavior. Acta Psychologica Sinica, 44(7), 972 - 985.   
+[段锦云,魏秋江.(2012).建言效能感结构及其在员工建言行为发生中的作用.心理学报,44(7), 972 - 985.]   
+Duan, J. Y., Zhang, C., & Tian, X. M. (2016). Review on the relationship between leadership and employee voice. Human Resource Development of China,(5),16 - 26.   
+[段锦云,张晨,田晓明.(2016).员工建言行为的发生机制:来自领导的影响.中国人力资源开发, (5), 16 - 26.]   
+Dweck, C. S.,& Leggett, E.L. (1988). A Social-cognitive Approach to Motivation and Personality. Psychological Review, 95(2),256 - 273.   
+Haken, H. (1988). Information and self-organization (Guo, Z. A. et al., Trans.). Chengdu: Sichuan Educational Press.   
+[哈肯.(1988).信息与自组织(郭治安,宁存政等译).成都:四川教育出版社.]   
+Hackman, J. R., & Oldham, G. R. (1976). Motivation through the design of work: Test of a theory. Organizational Behavior and Human Performance, 16(2),250 - 279.   
+Hagedoorn, M., Van Yperen, N. W., Van De Vliert,E., & Buunk, B.P. (1999). Employees' reactions to problematic events: A circumplex structure of five categories of responses,and the role of job satisfaction. Journal of Organizational Behavior, 20(3),309 - 321.   
+Harzing,A. W. (2006). Response styles in cross - national survey research: A 26 - country study. International Journal of Cross Cultural Management, 6(2), 243 - 266.   
+Kelso, J. A. (1995). Dynamic patterns: The self-organization of brain and behavior. Boston: Massachusets Institute of Technology.   
+Klaas,B. S., Olson-buchanan, J. B., & Ward, A. (2012). The determinants of alternative forms of workplace voice : An integrative perspective. Journal of Management, 38(1), 314-345.
+
+Li,Y. P., Zheng, X. Y., & Liu, Z.H. (2017).The effect of perceived insider status on employee voice behavior: A study from the perspective of conservation of resource theory. Chinese Journal of Management,14(2),196 - 204.
+
+[李燕萍,郑馨怡,刘宗华.(2017).基于资源保存理论的内部人身份感知对员工建言行为的影 响机制研究.管理学报,14(2),196- 204.]   
+Liang, J. (2014). Ethical leadership and employee voice: Examining a moderated-mediation model. Acta Psychologica Sinica, 46(2),252 - 264.   
+[梁建.(2014).道德领导与员工建言：一个调节-中介模型的构建与检验.心理学报,46(2), 252 - 264.]   
+Liang, J.,Farh, C.I1. C.,& Farh,J.L. (2012). Psychological antecedents ofpromotive and prohibitive voice: A two - wave examination. Academy of Management Journal, 55(1), 71 - 92.   
+Liu, W., Zhu, R.， & Yang, Y. (2010). I warn you because I like you: Voice behavior, employee identifications,and transformational leadership. The Leadership Quarterly,21(1),189 - 202.   
+MacKinon,D.P.,Lockwood, C.M., & Williams,J. (2004). Confidence limits for the indirect effect: Distribution of the product and resampling methods. Multivariate Behavioral Research, 39(1), 99 - 128.   
+Morrison, E. W. (2O11). Employee voice behavior: Integration and directions for future research. Academy of Management Annals, 5(1),373 - 412.   
+Morrison, E. W. (2014). Employee voice and silence. Annual Review of Organizational Psychology and Organizational Behavior, 1(1), 173-197.   
+Ng, T. W.，& Feldman,D. C. (2012). Employee voice behavior: A meta-analytic test of the conservation of resources framework. Journal of Organizational Behavior, 33(2), 216 - 234.   
+Podsakof, N. P. (2oo3). Common method biases in behavioral research: A critical review of the literature and recommended remedies. Journal of Applied Psychology, 88(5), 879 - 903.   
+Preacher, K. J., Zyphur, M. J., & Zhang, Z. (2010). A general multilevel SEM framework for assessing multilevel mediation. Psychological Methods, 15(3), 209 - 233.   
+Schultz,D. P.& Schultz, S. E. (2013). Theories of personality (10th Edition). Boston: Cengage Learning.   
+Sniezek, J.A., Schrah, G.E.,& Dalal, R. S. (2004). Improving judgement with prepaid expert advice. Journal of Behavioral Decision Making,17(3),173 - 190.   
+Sun, L. Y., Chen, L., & Duan, J. Y. (2017). Advice taking in decision-making: Strategies, influences and feature research. Advances in Psychological Science, 25(1),169 - 179.   
+[孙露莹,陈琳,段锦云.(2017).决策过程中的建议采纳:策略,影响及未来展望.心理科学进展, 25(1), 169 - 179.]   
+Van Dyne,L., Ang, S.,& Botero, I. C. (2003). Conceptualizing employee silence and employee voice as multidimensional constructs. Journal of Management Studies, 40(6), 1359-1392.   
+Vrieze,S.I. (2012). Model selection and psychological theory: A discussion of the differences between the Akaike information criterion (AIC) and the Bayesian information criterion (BIC). Psychological Methods,17(2),228-243.   
+Wang,D., Gan, C., Wu, C., & Wang, D. (2015). Ethical leadership and employee voice: employee self-efficacy and self- impact as mediators. Psychological Reports, 116(3),751 - 767.   
+Wang,Y. Y., Ge, J. Q., & Chai, B.F. (2017). Comparative analysis on multiple mediating effects of ethical leadership on employee's voice. Journal of Psychological Science, 40(3), 692 - 698.   
+[王永跃,葛菁青,柴斌锋.(2017).伦理型领导影响员工建言的多重中介效应比较研究.心理科 学,40(3), 692 - 698.]   
+Weiss, M., Kolbe, M., Grote, G., Spahn, D.R., & Grande, B. (2017). We can do it! Inclusive leader language promotes voice behavior in multi-professional teams. The Leadership Quarterly, 29(3),389 - 402.   
+Wu,L. Z., Cao, K. P., Chen, Y. Y., &Tang, G. Y. (2011). Transformational leadership and employee voice behavior: An examination of the mediating mechanisms. Chinese Journal of Management, 8(1), 61 - 66.   
+[吴隆增，曹昆鹏,陈苑仪，唐贵瑶.(2011).变革型领导行为对员工建言行为的影响研究．管理 学报,8(1),61 - 66.]   
+Yan, C.& Wang, S. H. (2018). The impact of authentic leadership on employee speaking-up behavior: The construction and test of a dual mediation model. Human Resource Development of China,35(3), 18 - 28.   
+[闫春,王思惠.(2018).真实型领导对员工上行建言行为的影响:一个双重中介模型的构建与 检验.中国人力资源开发,35(3),18-28.]   
+Zhang, K. (2003). A self-organizing goal theory of human motivation and its managerial implications.Journal of Renmin University of China,18(2),109 - 114.   
+[章凯.(2003).动机的自组织目标理论及其管理学蕴涵.中国人民大学学报,18(2),109-114.]   
+Zhang, K. (2004). The self-organizing goal-information theory of interest. Journal of East China Normal University (Educational Sciences), 22(1),62 - 66.   
+[章凯.(2004).兴趣的自组织目标-信息理论.华东师范大学学报(教育科学版),22(1),62 - 66.]   
+Zhang, K. (2014). Dynamics of psychological goals: A self-organization theory of motivation and personality. Beijing: Social Sciences Academic Press.   
+[章凯.(2014).目标动力学:动机与人格的自组织原理.北京:社会科学文献出版社.]   
+Zhang, K., Li, P. B., Luo, W. H., Zhang, Q. H., & Cao, Y. F. (2014). Strategies of integrating organizational and employees’ goals: A case study based on ZZJYT management in Haier Group. Management World, (4), 124 - 145.   
+[章凯,李朋波,罗文豪,张庆红,曹仰锋.(2014).组织-员工目标融合的策:基于海尔自主经
+
+营体管理的案例研究,管理世界，(4),124-145.]
+
+Zhang,K.& Zhang, B. Y. (1996). Impact of interest on text comprehension. Acta Psychologica Sinica,28(3),284- 289.   
+[章凯,张必隐.(1996).兴趣对文章理解的作用.心理学报,28(3),284-289.]   
+Zhang,L.L., Yang, F.,& Gu, Y. H. (2016). Inclusive leadership: Conception, measurement and relationships to related variables. Advances in Psychological Science,24(9),1467 - 1477.   
+[章璐璐,杨付,古银华.(2016).包容型领导:概念、测量及与相关变量的关系.心理科学进 展,24(9),1467 - 1477.]   
+Zhang,Y., Huai, M., & Xie, Y. (2015). Paternalistic leadership and employee voice in China: a dual process model. Leadership Quarterly, 26(1), 25 - 36.
+
+# How can leader's voice endorsement promote employee voice: An integrated mechanism based on the goal self-organization perspective
+
+ZHANG Kai1 SHI Jinjing1 LUO Wenhao² (1School of Business,Renmin University ofChina, Beijing 10o872, China) (² School of Economics and Management, North China University of Technology, Beijing 100144, China)
+
+# Abstract
+
+Extant literature has long documented the important role of employee Voice behavior with such literature pointing to leadership as a vital antecedent to employee voice behavior. However, one relatively unexplored area in this stream or research is the understanding of, how leader's voice endorsement affects employees’ voice behavior. Prior studies have investigated the relationship between leader's behavior and employee voice through a motivational theoretical perspective or a cognitive theoretical perspective. First, the voice literature has drawn on social exchange theory, conservation of resources theory and expectancy theory to explain how employee voice can be triggered through leader behavior that enhances employee motivation to voice. Second, the literature has also drawn on implicit voice theory, information processing theory,and social cognition theory to understand how the leader influences employee voice through a cognitive lens. However, this results in a fragmented literature with the need for an overarching theory that links these perspectives. Therefore，we provide an integrated framework through the self-organizing goal system theory of human psychology. In doing so, we develop a goal self-organization framework of employee voice behavior which integrates the cognitive and motivational approaches to voice. Based on this framework, how employees self-organize their goal system can function as the core mechanism that influences employee's voice. Further, we explain how leader's voice endorsement can promote employee voice using this framework.
+
+Empirically, we tested the hypotheses that both employee's work meaningfulness and voice efficacy mediate the positive relationship between leader's voice endorsement and employee's promotive voice and prohibitive voice. A two-wave survey was conducted in an internet-based financial company operating in Tianjin and Zhejiang. We used existing, validated measures with Chinese questionnaires as well as the standard translation and back-translation procedures to assure item wording validity. Separated surveys were distributed to the focal employees and their immediate supervisors at two different time points. At time 1, supervisors reported their voice endorsement behaviors towards particular subordinate. Two weeks later, focal employees reported their work meaningfulness, voice efficacy,and voice behavior. A sample of 73 supervisors and 236 subordinates’ valid responses was collected.We assessed the discriminant validity with confirmatory factor analysis and tested our hypotheses using Mplus and bootstrap analysis.
+
+Results of the confirmatory factor analysis showed good discriminant validity for the key variables, as well as a good fit between the hypothesized model and the data. In support of our hypotheses, the results revealed a significant positive relationship between leader's voice endorsement and employee voice behavior (including promotive voice and prohibitive voice). Additionally, for both types of employee voice behavior, the aforementioned relationship was mediated by employee's work meaningfulness and voice eficacy, indicating that there are dual psychological mechanisms: specifically, both motivational and cognitive, processes. Our results indicated that employee's work meaningfulness and voice efficacy fully mediated the relationship between leader's voice endorsement and both types of employee voice behavior.
+
+To sum up, this study contributes to theory by providing a goal self-organization framework to integrate the fragmented literature on voice from both a motivational and cognitive perspective. Drawing on the theory of human psychology, we integrate the cognitive and motivational perspective by introducing psychological goal system. Furthermore, our study extends the voice literature by showing how leader's voice endorsement promotes employee Voice.Based on this goal self-organization framework，we show that leader's voice endorsement promotes the atainment of employee's psychological goals, which in turn triggers and regulates the dual psychological mechanism,and drives individuals towards the fulfillment of their psychological goals. This framework extends our understanding of the leader endorsement-employee voice relationship and contributes to theoretical integration of the voice literature as wellas surfaces implications for practice. The implications, limitations and future directions of the study are discussed.
+
+Key words: Employee voice; psychological goal system; self-organization; voice endorsement; integrated mechanism

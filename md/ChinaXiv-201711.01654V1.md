@@ -1,0 +1,143 @@
+赵　鹏」吴文旋1,2\*吴佳海3\*田兴舟」莘海亮4　袁　鑫」　杨春红」　杨　康孙　伦1
+
+# 韩娥1
+
+（1.贵州大学动物科学学院,贵阳 550025；2.贵州大学新农村发展研究院，贵阳550025；3.贵州省草业研究所，贵阳550006；4.黔东南民族职业技术学院，凯里556000）
+
+摘安：本试亚目任叭九过瘤肖胆喊(Kr)对成年北麻干瘤月反酹及血永尘化拍协的影啊。
+
+以体况良好，年龄、体重[（ $3 5 . 0 { \pm } 1 . 2 \$ ） $\mathbf { \left| k g \right] }$ 一致的成年黔北麻羊6只为试验动物，分为对照组和试验组，每组3个重复，每个重复1只羊。采用交叉试验设计，对照组饲喂基础饲粮，不含 RPC；试验组补饲 $1 0 ~ \mathrm { g / d }$ 的 RPC。试验持续 $3 0 \mathrm { ~ d ~ }$ ，分2期，每期15d；每期最后1d采集瘤胃液测定pH、氨态氮浓度、微生物蛋白产量、挥发性脂肪酸（乙酸、丙酸、丁酸）浓度、纤维素酶（微晶纤维素酶、羧甲基纤维素酶、纤维二糖酶、木聚糖酶）活性，同时采血测定血浆葡萄糖、尿素氮、总蛋白、白蛋白、总胆固醇、甘油三酯、肌酐浓度。结果显示：1）RPC对山羊采食速度没有影响，对采食量没有显著影响（ $P { > } 0 . 0 5$ ）；2）RPC 对瘤胃液 $\mathrm { \ p H }$ 、氨态氮浓度、微生物蛋白产量、挥发性脂肪酸浓度及4种纤维素酶活性影响较小，2组间差异均不显著（ $. P { > } 0 . 0 5$ ）；3）RPC 对血浆生化指标影响较小，2 组间差异均不显著（ $. P { > } 0 . 0 5$ ）。由此可见，补饲 $1 0 \ \mathrm { g / d }$ 的 RPC 对成年黔北麻羊的采食量、瘤胃发酵参数和血浆生化指标没有显著影响。
+
+关键词：过瘤胃胆碱；瘤胃发酵；血浆生化指标；黔北麻羊
+
+中图分类号：S816.7
+
+胆碱化学名称为三甲基三醇胺，属B族维生素，最早从猪胆汁中分离，是细胞膜的重要组分，与叶酸、蛋氨酸、维生素B12代谢密切相关。胆碱具有维持细胞完整性的功能，在调节和改善肝脏、血液脂质代谢方面具有良好的作用，可促进脂肪运输或提高肝脏对脂肪酸的利用预防脂肪肝发生。对反刍动物来说，由于纯胆碱在瘤胃内会被迅速降解失去大部分营养价值，因此饲喂过瘤胃胆碱（rumen-protected choline,RPC）已成为学术界的共识。El-Gendy等[1的试验结果表明，在Zarabi山羊饲粮中补饲2g/d的RPC与 $2 \mathrm { g } / \mathrm { d } .$ 过瘤胃蛋氨酸可有效提高饲粮消化率、产奶量和初乳养分含量。Li等[2]也发现在杜泊×湖羊羔羊饲粮中补充 $0 . 2 5 \%$ 的RPC可提高其生长性能，改善肉品质。
+
+黔北麻羊品种特征明显，主产于我国赤水河流域的贵州省习水县、仁怀市境内，是贵州独有的三大优良山羊品种之一，于2009年才被农业部鉴定为新的山羊遗传品种，独具学术研究价值。本课题组前期研究发现，RPC可提高黔北麻羊羔羊生长性能、养分消化率[3和能量利用效率4。本课题组多次尝试对黔北麻羊羔羊采集瘤胃液，均不顺利，未能成功采集。同时，由于其瘤胃尚未发育完全，瘤胃液代表性不强，不能反映瘤胃发酵状态。瘤胃发酵状态是反刍动物营养的重要内容，对科学饲养具有重要的学术意义和生产价值。据此，本试验以成年黔北麻羊为试验动物，着重研究RPC对其瘤胃发酵及血浆生化指标的影响，为提升黔北麻羊养殖技术水平提供理论参考和技术积累。
+
+1材料与方法
+
+1.1试验设计
+
+采用交叉试验设计，选取体况良好，年龄、体重[（ $3 5 . 0 { \pm } 1 . 2 \rangle$ ）kg]一致的成年黔北麻羊6只分为2组：对照组和试验组，每组3个重复，每个重复1只羊，单笼饲养。山羊饲粮为精粗混匀饲喂，精粗比为50:50；对照组饲喂基础饲粮，试验组补饲 $1 0 \mathrm { g / d }$ 的 RPC，RPC 添加在精料中。RPC 购自杭州康德权有限公司，过瘤胃率 $2 8 5 \%$ 。整个试验为期 $3 0 \mathrm { d }$ ，分2期，每期15d。羊舍自然通风，统一管理，每天在09:00、18:00分2次等量饲喂，自由饮水。基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平(干物质基础)
+
+Table 1 Composition and nutrient levels of the basal diet (DM basis) %项目Items 含量Content原料 Ingredients全株玉米 Whole-plant cor 14花生秧 Peanut vine 20草粉 Grass meal 16精料 Concentratel) 50合计 Total 100
+
+营养水平 Nutrient levels²  
+总能GE/( $\mathrm { \cdot } \mathrm { M J / k g } \mathrm { \cdot }$ ） 15.60  
+粗蛋白质 CP 11.47  
+粗脂肪 EE 4.43  
+中性洗涤纤维 NDF 40.11  
+酸性洗涤纤维ADF 29.35  
+粗灰分 Ash 4.78  
+钙Ca 1.03  
+磷P 0.48
+
+1精料组成为 Concentrate consisted of the following：玉米 corn $70 \%$ ，豆粕 soybean meal $1 7 \%$ ，菜籽饼rapeseed cake $6 \%$ ，麦麸 wheat bran $3 \%$ ，预混料premix $1 \%$ ，磷酸氢钙 $\mathrm { C a H P O _ { 4 } } 1 \%$ ，碳酸钙 $C a C O _ { 3 } 1 \%$ ，食盐 $N a C l 1 \%$ 。预混料为每千克饲粮提供 The premix provided the folowing per kg of diet:VA 300 o00\~500 000 IU,VD3 15000\~220 000IU，VE 850 IU,Fe 1 500\~5 000 mg，Cu 500\~620 mg，Mn 1 500\~4000 mg，Zn 2000\~3 500mg，I50\~200 mg， Se $1 0 { \sim } 2 0 ~ \mathrm { m g }$ ，C $\mathrm { ~ o ~ } 2 0 { \sim } 4 0 ~ \mathrm { m g } .$ 赖氨酸Lys $1 0 0 0 0 \mathrm { m g }$ 。  
+2)实测值 Measured values 。
+
+# 1.2 检测指标
+
+# 1.2.1 基础饲粮营养水平
+
+每3d采集1次基础饲粮，混匀、烘干、粉碎，测定营养水平，其中总能(GE)采用氧弹式热量计测定，粗蛋白质（CP）含量采用凯氏定氮法测定，粗脂肪（EE）含量采用乙醚浸提法测定，中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）含量采用Van Soest纤维素分析法，粗灰分（Ash）含量采用高温灼烧法[5]。
+
+# 1.2.2 瘤胃发酵参数
+
+在每期试验最后1d采集瘤胃液，山羊晨饲前利用胃管式瘤胃液采样器从口腔插入瘤胃内抽取 $5 0 ~ \mathrm { m L }$ 瘤胃液，取少许用便携式pH计立即测定pH,剩余瘤胃液经4层纱布过滤后以3000$\mathrm { { r } / \mathrm { { m i n } } }$ 离心 $1 5 \ \mathrm { m i n }$ ，分装上清液，转入-20℃冰箱中冷冻保存。参考冯宗慈等的方法测定氨态氮（ $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ ）浓度，参考王加启[的方法测定纤维素酶（微晶纤维素酶、羧甲基纤维素酶、纤维二糖酶与木聚糖酶）活性和挥发性脂肪酸（VFA）浓度，参考王宁娟8的方法测定微生物蛋白（MCP）产量。
+
+# 1.2.3 血浆生化指标
+
+采集瘤胃液后，用一次性肝素钠抗凝血真空采经颈静脉采血 $1 0 \mathrm { m L } , 3 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$
+
+收集上层血浆，置于-20℃冰箱中保存，用于测定葡萄糖（Glu）、尿素氮（UN）、总蛋白（TP)、白蛋白（AIb）、总胆固醇（TC）、甘油三酯（TG）、肌酐（Cr）浓度。检测试剂盒由南京建成生物工程研究所提供。
+
+1.3数据处理与统计分析
+
+试验数据以平均值±标准差（mean±SD）表示。用Excel2010整理数据后利用SAS9.4进行t检验统计，组间差异显著水平定为 $P { < } 0 . 0 5$ 。
+
+2结果
+
+2.1适口性
+
+在整个试验期，RPC 对黔北麻羊适口性没有产生影响，均能随意采食，采食速度也未见受影响。与对照组相比，试验组采食量略有增加[ $\stackrel { \cdot } { { 0 . 9 2 } } { \pm 0 . 0 6 }$ ）kg/d vs.( $\left( 0 . 8 8 { \pm } 0 . 0 5 \right.$ ）kg/d],组间差异不显著（ $. P { > } 0 . 0 5$ ）。
+
+# 2.2瘤胃发酵参数
+
+由表2可见，试验组瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度和MCP产量略高于对照组，瘤胃液微晶纤维素酶、纤维二糖酶、木聚糖酶活性分别较对照组提高了 $1 . 4 7 \%$ 、 $2 8 . 5 0 \%$ 、 $1 8 . 0 1 \%$ 。总体来看，RPC对黔北麻羊瘤胃液 $\mathrm { \ p H }$ 、 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度、MCP产量及4种纤维素酶活性的影响不大，2组间差异均不显著 ( $. P { > } 0 . 0 5$ ）。
+
+表2RPC 对黔北麻羊瘤胃液pH、 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度、MCP产量、纤维素酶活性的影响
+
+Table 2Effects of RPC on $\mathrm { \ p H }$ $\mathrm { N H } _ { 3 }$ -N concentration,MCP yield and cellulose activities in rumen fluid of Qianbeima goats   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Test group</td><td>P值 P-value</td></tr><tr><td>pH</td><td>6.48±0.35</td><td>6.44±0.39</td><td>0.819</td></tr><tr><td>氨态氮NH3-N/(mg/dL)</td><td>9.70±1.07</td><td>10.09±1.03</td><td>0.937</td></tr><tr><td>微生物蛋白 MCP/(mg/dL)</td><td>7.00±2.48</td><td>7.11±2.60</td><td>0.540</td></tr><tr><td>微晶纤维素酶 Microcrystalline cellulose/(U/dL)</td><td>0.68±0.13</td><td>0.69±0.25</td><td>0.193</td></tr><tr><td>羧甲基纤维素酶 Carboxymethylcellulose/(U/dL)</td><td>1.19±0.22</td><td>1.16±0.20</td><td>0.846</td></tr><tr><td>纤维二糖酶 Cellobiase/(U/dL)</td><td>2.00±0.52</td><td>2.57±0.70</td><td>0.527</td></tr><tr><td>木聚糖酶 Xylanase/(U/dL)</td><td>7.44±2.76</td><td>8.78±2.37</td><td>0.745</td></tr></table></body></html>
+
+由表3可见，试验组瘤胃液VFA浓度较高，乙酸、丙酸、丁酸及总挥发性脂肪酸（TVFA）7浓度分别较对照组高 $1 3 . 4 1 \%$ 、 $9 . 9 1 \%$ 、 $6 . 1 0 \%$ 及 $1 1 . 4 1 \%$ ，但2组间数值差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+Table 3Effects of RPC on VFA concentrations in rumen fluid of Qianbeima goats   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Test group</td><td>P值 P-value</td></tr><tr><td>乙酸 Acetic acid/(mmol/L)</td><td>29.23±1.60</td><td>33.15±1.19</td><td>0.715</td></tr><tr><td>丙酸 Propionic acid/(mmol/L)</td><td>10.90±1.85</td><td>11.98±0.94</td><td>0.193</td></tr><tr><td>丁酸Butyric acid/(mmol/L)</td><td>7.70±0.28</td><td>8.17±0.27</td><td>0.968</td></tr><tr><td>乙酸/丙酸 Acetic acid/propionic acid</td><td>2.75±0.60</td><td>2.77±0.15</td><td>0.114</td></tr><tr><td>总挥发性脂肪酸 TVFA/(mmol/L)</td><td>47.84±0.57</td><td>53.30±1.98</td><td>0.151</td></tr></table></body></html>
+
+# 2.3 血浆生化指标
+
+由表3可见，RPC 对成年黔北麻羊血浆生化指标的影响不大，2组间差异未达显著水平0 $( P { > } 0 . 0 5 )$ ）。
+
+表4RPC对黔北麻羊部分血浆生化指标的影响  
+Table 4Effect of RPC on plasma biochemical metabolites of Qianbeima goats   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Test group</td><td>P值 P-value</td></tr><tr><td>葡萄糖 Glu/(mmol/L)</td><td>3.41±0.20</td><td>3.15±0.28</td><td>0.499</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>5.70±1.70</td><td>5.12±0.79</td><td>0.118</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>36.61±1.28</td><td>36.69±1.05</td><td>0.681</td></tr><tr><td>白蛋白 Alb/(g/L)</td><td>29.00±7.44</td><td>30.66±3.89</td><td>0.180</td></tr><tr><td>总胆固醇 TC/(mg/dL)</td><td>70.06±16.80</td><td>59.37±19.38</td><td>0.762</td></tr><tr><td>甘油三酯 TG/(mg/dL)</td><td>72.28±6.20</td><td>78.88±15.55</td><td>0.065</td></tr><tr><td>肌酐 Cr/(μmol/L)</td><td>47.80±18.52</td><td>44.93±8.50</td><td>0.112</td></tr></table></body></html>
+
+3讨论
+
+3.1RPC对黔北麻羊瘤胃发酵参数的影响
+
+# 3.1.1 pH
+
+瘤胃是一个厌氧性微生物接种和繁殖的活体发酵罐，对反刍动物饲粮消化过程起着积极、不可忽视的作用。瘤胃内正常 $\mathsf { p H }$ 略偏酸性，适合微生物的繁殖。瘤胃微生物发酵底物产生的乳酸、VFA 等决定了瘤胃液 $\mathsf { p H }$ 的大小，而唾液中含有的大量磷酸盐、碳酸盐，可有效维持瘤胃内的酸碱平衡；此外，唾液中的UN、 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 等可影响瘤胃壁对VFA 的吸收，也是维持瘤胃液 pH的因素之一。一致公认，瘤胃液pH是反映瘤胃发酵状况的风向标。本试验中，经交叉试验测定瘤胃液 $\mathsf { p H }$ 处在 6.44\~6.48，数值差异很小，完全处于正常范围[9]，说明补饲 $1 0 \ : \mathrm { g / d }$ 的RPC不会影响黔北麻羊瘤胃液pH。Soltan 等[10]在荷斯坦奶牛饲粮中添加 $0 . 6 \%$ 的RPC发现，瘤胃液 pH在 $6 . 3 { \sim } 6 . 4$ 微小波动，变化不显著。许朝芳[I以西门塔尔杂交改良牛为试验动物研究发现，RPC 对瘤胃液的pH也不会产生显著影响。上述报道均与本试验结论一致。
+
+# 3.1.2 NH3-N 浓度
+
+瘤胃中的细菌是组成 MCP的重要来源。 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 是瘤胃微生物发酵的主要氮源，是保证MCP 合成的前体物，其数值可间接反映特定饲粮组成下的蛋白质降解速率及合成速率之间的平衡状态[12-13]。本试验结果显示,试验组和对照组羊瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度处在 $9 . 7 0 { \sim } 1 0 . 0 9 \ \mathrm { m g / d L }$ 组间差异不显著，说明在黔北麻羊饲粮中补饲RPC 对瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度影响较小。Shannon[14]研究发现，在早期哺乳荷斯坦奶牛饲粮中补饲 $0 . 1 8 \%$ 的 RPC，可显著降低瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度。这与本试验结果不相符，原因可能有：1）黔北麻羊和奶牛瘤胃对RPC 的消化代谢存在差异；2）饲养水平、环境因素、管理及RPC包被材料及方法不同；3）RPC 添加水平差异。
+
+# 3.1.3 MCP产量
+
+瘤胃中MCP 是进入小肠蛋白质的重要来源，对反刍动物的蛋白质营养状况影响较大，也是研究反刍动物蛋白质营养的一个重要指标。本试验中，试验组MCP产量略高于对照组，其原因可能为RPC提高了采食量（虽然差异不显著），为瘤胃微生物提供了更多的营养物质（特别是氮），促进微生物繁殖；同时，部分RPC 在瘤胃发生降解，给微生物提供部分胆碱作为养分，为提高 MCP合成提供了基础。Shannon[14发现，在奶牛饲粮中添加 $0 . 1 8 \%$ 的 RPC 对瘤胃微生物氮含量影响较小，与本试验结果一致。鉴于瘤胃中MCP的重要作用，下一步有必要研究在增加RPC供给量的条件下，瘤胃中是否能产生更多的MCP。
+
+# 3.1.4 纤维素酶活性
+
+纤维素酶是一类能降解纤维素产生碳水化合物（主要是葡萄糖）的复杂酶聚合物，其中微晶纤维素酶可协同水解结晶纤维素产生葡萄糖，羧甲基纤维素酶作用于纤维素非结晶区的葡聚糖链生成纤维二糖、纤维糊精或葡萄糖酶类，纤维二糖酶继续降解纤维二糖生成游离葡萄糖，木聚糖酶能水解木聚糖底物生成木糖多酶复合体，可反映瘤胃微生物分解消化纤维的能力[15]。本试验结果显示，RPC 对上述4 种纤维素酶活性的影响很小，组间差异不显著；但从数值上看，RPC 可提高瘤胃液纤维二糖酶与木聚糖酶活性，反映补饲RPC有提高黔北麻羊降解饲料粗纤维的趋势，这也在课题组前期的工作中得以验证[3]。其原因可能是，在瘤胃中降解的部分RPC为瘤胃纤维素分解菌的生长提供了营养保证，促进其分泌了更多的纤维素酶。
+
+# 3.1.5 VFA浓度
+
+VFA 是瘤胃微生物发酵碳水化合物的主要产物，是反刍动物赖以生存、生长、繁殖与泌乳等基本活动的主要能量来源，其浓度及组成比例是反映瘤胃消化代谢活动正常与否的指标之一。VFA主要包括乙酸、丙酸与丁酸，其浓度高低和相对比例不仅受动物采食水平的影响，也受饲粮组成等因素的影响。VFA 浓度可反映瘤胃中的发酵类型和 VFA 被吸收利用情况[16]。乙酸、丁酸主要用于合成体脂和乳脂，丙酸则主要用于合成葡萄糖和乳糖。本试验结果显示，乙酸浓度最高，丙酸次之，丁酸最低，2 组间的乙酸、丙酸、丁酸和 TVFA 浓度及乙酸/丙酸差异不显著。这说明 $1 0 \ : \mathrm { g / d }$ 的 RPC 对黔北麻羊瘤胃内的VFA 没有产生显著影响，亦可说明其不会影响瘤胃微生物对蛋白质、碳水化合物等的发酵。这也在前人的报道中得以论证。许朝芳[研究胆碱对瘤胃微生物代谢的影响发现，胆碱的添加对瘤胃液中乙酸、丙酸及丁酸的浓度影响较小，差异均未达到显著水平。Soltan 等[10]试验结果也显示，奶牛饲粮中补饲 $0 . 6 \%$ 的RPC，对瘤胃液的TVFA、乙酸、丙酸、丁酸浓度及乙酸/丙酸没有表现出显著影响。
+
+# 3.2RPC对黔北麻羊血浆生化指标的影响
+
+就目前的报道来看，RPC 对血浆生化指标的影响主要表现在对脂肪代谢的改善作用。这是因为胆碱缺乏会影响磷脂酰胆碱的合成，磷脂酰胆碱作为极低密度脂蛋白（VLDL）的重要组分不能被其他磷脂代替，胆碱不足会减少VLDL 的合成从而导致脂肪肝的发生。这在本试验体现不明显，即添加 $1 0 \ \mathrm { g / d }$ 的 RPC 对其他血浆生化指标（TP、AIb 浓度）的影响较小，相比之下，从数值上来看对脂肪代谢指标（TC、TG、Cr浓度）的影响变幅较大，但差异不显著。刘翔[17试验表明，在荷斯坦奶牛中添加 $3 0 ~ \mathrm { g / d }$ 的 RPC，有调节奶牛体内的能量脂肪代谢的作用。李华伟等[18]试验结果显示，在羔羊饲粮中补饲 $0 . 7 5 \%$ 以内的 RPC，对动物血浆 TP、Cr 浓度，肌酸激酶（CK）活性的影响不显著，有降低UN浓度的作用。需要说明的是，黔北麻羊属贵州特有山羊品种，具有特定的生活、生态环境，本试验也仅在前期试验结果的基础上添加了 $1 0 \ \mathrm { g / d }$ 的 RPC，从结果来看，基本未产生显著影响。至于改变RPC剂量是否会产生影响以及最佳RPC剂量，有待于进一步研究。
+
+4结论   
+补饲 $1 0 \ : \mathrm { g / d }$ 的 RPC 未影响黔北麻羊采食量，对瘤胃发酵参数( $\mathrm { \backslash { p H } . N H _ { 3 } }$ -N、MCP 和VFA）、 纤维素酶活性及血浆生化指标未产生显著影响，其最佳RPC 剂量有待于进一步研究。 参考文献:   
+[1]EL-GENDY M E,EL-RIEDY K F,SAKR H S,et al.Effect of rumen protected methionine and/or choline additives on productive performance of Zaraibi goats[J].Nature and Science,2O12,10(10):35- 41.   
+[2]LI H W,WANG H R,YU L H,et al.Effects of supplementation of rumen-protected choline on growth performance,meat quality and gene expression in longissimus dorsi muscle of lambs[J].Archives of Animal Nutrition,2015,69(5):340-350.   
+[3]田兴舟,韦济友,李明忠,等.过瘤胃胆碱对黔北麻羊羔羊生长性能及血浆生化指标的影响[J].动 物营养学报,2014,26(9):2857-2865.   
+[4]韦济友,肖玉贵,李明忠,等.过瘤胃胆碱对黔北麻羊能量效率及血浆免疫指标的影响[J].家畜生 态学报,2015,36(4):35-39.   
+[5]李克广,郭全奎.饲料分析检测技术[M].北京:中国农业大学出版社,2015.   
+[6]冯宗慈,高民.通过比色测定瘤胃液氨氮含量方法的改进[J].内蒙古畜牧科学,1993(4):40-41. [7]王加启.反刍动物营养学研究方法[M].北京:现代教育出版社,2011.   
+[8]王宁娟.人工瘤胃法研究矿物质元素及非蛋白氮对瘤胃发酵的影响[D].硕士学位论文.杨凌： 西北农林科技大学,2003.   
+[9]韩正康,陈杰.反刍动物瘤胃的消化和代谢[M].北京:科学出版社,1988.   
+[10]SOLTAN M A,MUJALLI A M,MANDOUR M A,et al.Effect of dietary rumen protected methionine and/or choline supplementation on rumen fermentation characteristics and productive performance of early lactating cows[J].Pakistan Journal of Nutrition,2012,11(3):221-230.   
+[11]许朝芳.胆碱对瘤胃微生物代谢的影响[J].广西畜牧兽医,2001,17(6):4-7.   
+[12] SRINIVAS B,GUPTA B N.Rumen fermentation,bacterial and total volatile fatty acid (TVFA) production rates in catle fed on urea-molasses-mineral block licks supplement[J].Animal Feed Science and Technology,1997,65(1/2/3/4):275-286.   
+[13]ORSKOV E R,MCDONALD I.The estimation of protein degradability in the rumen from incubation measurements weighted according to rate of passge[J].The Journal of Agricultural Science,1979,92(2):499-503.   
+[14]SHANNON D.Supplementation of rumen-protected forms of methionine,betaine,and choline to earlylactationHolstein cows[DJ.Ph.D.Thesis.North CarolinaState:North CarolinaState University,2006.   
+[15]汪水平,王文娟.瘤胃纤维降解相关酶活性的测定[J].中国饲料,2006(11):31-32.   
+[16]孙华.米曲霉培养物与蛋氨酸羟基类似物对奶牛瘤胃发酵和泌乳性能的影响[D].博士学位 论文.杭州:浙江大学,2012.   
+[17]刘翔.过瘤胃胆碱对围产期奶牛肝脏脂肪代谢调控及泌乳性能影响的研究[D].硕士学位论 文.大庆:黑龙江八一农垦大学,2014.   
+[18]李华伟,王洪荣,王梦芝,等.过瘤胃保护胆碱对肉羊生长、消化、血清指标及肉品质的影响[J]. 动物营养学报,2015,27(4):1117-1123.   
+Effects of Rumen-Protected Choline on Rumen Fermentation and Plasma Biochemical Indices of Qianbeima Goats   
+ZHAO Peng1WU Wenxuan1,2\*WU Jiahai3\* TIAN Xingzhou1XIN Hailiang4YUAN Xin1 YANG Chunhong1YANG Kang1SUN LunlHAN E1   
+(1. College of Animal Science, Guizhou University, Guiyang 550025, China; 2. Institute of New Rural Development, Guizhou University, Guiyang 550O25, China; 3. Guizhou Institute of Prataculture, Guiyang 550006, China; 4. Qiandongnan National Polytechnic, Kaili 556000, China) Abstract: The present study was conducted to investigate the effects of rumen-protected choline (RPC) on rumen fermentation and plasma biochemical indices of Qianbeima goats. Six healthy goats were allocated to 2 groups with 3 replicates per group and 1 goat per replicate using a cross-over design. Goats in control group were fed a basal diet, and those in test group were supplemented with 10 g/d RPC. The experiment lasted for 30 days including 2 phases with 15-day per phase. Rumen fluid and plasma were collected at the last day of each phase. Rumen fluid pH,ammonia nitrogen concentration, microbial protein yield, volatile fatty acid (acetic acid, propionic acid and butyric acid) concentrations and cellulase （microcrystalline cellulose，carboxymethyl cellulose，cellobiase and xylanase） activities were determined; plasma concentrations of glucose,urea nitrogen, total protein, albumin,total cholesterol, triglyceride and creatinine were also determined. The results showed as follows: 1） RPC had no effects on feeding speed,and had no significant effects on feed intake （2 $( P { > } 0 . 0 5 )$ ; 2) rumen fluid $\mathrm { p H }$ ,ammonia nitrogen concentration, microbial protein yield, volatile fatty acid concentrations and 4 kinds of cellulase activities were not significantly aected by RPC supplementation ( $\scriptstyle ( P > 0 . 0 5 )$ ； 3）there were no significant differences of plasma biochemical indices between control and test group $( P { > } 0 . 0 5 )$ . It is indicated from the above-mentioned results that $1 0 \ : \mathrm { g / d }$ RPC supplementation has no significant effects on feed intake, rumen fermentation parameters and plasma biochemical indices of Qianbeima goats.   
+Key words: rumen-protected choline; rumen fermentation; plasma biochemical indices; Qianbeima goat

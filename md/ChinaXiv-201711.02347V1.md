@@ -1,0 +1,154 @@
+DOI:10.13930/j.cnki.cjea.160996
+
+杨梅，刘章勇．农业土地共享和土地分离及其潜在的生物多样性效应[J].中国生态农业学报,2017,25(6):787-794YangM,LiuZY.Agriculturallandsharing/sparingandtheirpotentialefectsonbiodiversity[J].Chinese JournalofEco-Agriculture,2017,25(6): 787-794
+
+# 农业土地共享和土地分离及其潜在的生物多样性效应
+
+杨　梅1,2，刘章勇1\*\*
+
+(1．长江大学主要粮食作物产业化湖北省协同创新中心 荆州 434025;2．长江大学农学院 荆州 434025)
+
+摘要：农业在生物多样性维持方面扮演重要角色，农业既是生物多样性的传递者，同时集约化农业也是导致生物多样性降低的主要原因。“土地共享"和“土地分离"是重要的协调粮食产量和生物多样性保护的土地利用策略，前者关注的是农田环境的改善，后者指通过土地利用集约化，提高作物单产，释放出更多土地用于自然保护。目前，对于哪一种土地利用方式更有利于生物多样性保护仍是有争议的。本研究综述了上述两种土地利用策略的优缺点及其对生物多样性的影响，并分析归纳了应用和选择土地利用方式时应考虑的因素，如：对集约化敏感的物种；景观背景、景观尺度和景观结构；社会经济因素等。在此基础上，展望了该理论对我国未来农业发展的启示，包括：因地制宜规划农业景观格局，如考虑区域的产量潜力和特有物种；发展可持续集约化农业和加强"溢出效应"的管理，提高生态系统自我恢复能力；在不同景观尺度上建立土地共享-分离混合模式，在集约化农业地区适度恢复农用林业。
+
+关键词：生物多样性；粮食供给；土地共享；土地分离；农业景观；集约化农业；有机农业中图分类号：S181;Q149 文献标识码：A 文章编号:1671-3990(2017)06-0787-08
+
+# Agricultural land sharing/sparing and their potential effects on biodiversity
+
+YANG Mei1,2, LIU Zhangyong1 (1.HubeiCollborativeIovatioCenterforGainIdustry,Yangtze Uiversity,ingzou434,China;2.Collgeofgoo Yangtze University, Jingzhou 434025,China)
+
+Abstract: Agricultural systems arecomplicated byboththe eforts to produce foodand protecting biodiversity.Intensive agriculture is the main reason for the decline in agro-biodiversityacrossthe world.Land sparing and land sharing have been important land use strategies in maintaining abalance between food productionand biodiversityconservation.The former advocates the improvementoffarm environmentsand therefore expected tobea wildlife-friendlylandscape.However,the laterproposes thattheland shoulddivide intotwocategories,oneforintensivelandutilization,theotheroneforbiodiversity conservation.Thusadebate hasrisenastowhich aproach was betterforbiodiversity.Inthisreview,wehighlighted the benefits andlimitsof thetwo landuse strategiesandtheefects ofeachonbiodiversity.Furthermore,thefactors were discussed,which guided thechoice towardsanyofthe landusestrategies,including plant species sensitive to intensive farming, landscape-specificconditions,landscape scale/structure and socio-economic factors.Onthis basis,theresourceful application ofthe two landuse approaches in futureagriculture development was proposed.This included:1)designing agricultural landscape structure suitableforlocal circumstances,e.g.,yield potentialand conservationof endemic species;2）promotingsustainableagricultural intensificationandenhancingthe managementof"spilloverefects”toincreasetherecoveryabilityofthe ecosystem;and 3)developing intermediateapproachesor mixturesofland sharingand land sparingat different spatial scales, e.g., planting trees on farms in intensive agricultural areas.
+
+Keywors: Biodiversity; Provisionment; Land sharing;Land sparing;Agricultural landscape; Intensiveagriculture;Organic agriculture
+
+生物多样性保护不仅仅依赖于自然保护区，农业用地也是重要的生物多样性保护地[1-2]。长期以来，作物的高产出是农业生态系统服务功能的首要自的，而农业景观中的生物多样性保护未能得到充分重视[1,3-4]。20世纪50年代以后，传统农业向集约化农业的转变成为农业历史最大的革命[5，粮食需求的压力和农业技术上的革新使农业集约化加速发展。大量证据表明，无论从景观尺度、还是局部的农田尺度，农业景观中的生物多样性降低都与农业生产方式转变有关[5-8]。一方面，大量自然和半自然生境被清除，世界范围内$70 \%$ 的草地、 $45 \%$ 的稀树大草原都转化为农业用地;同时，农业也是森林面积减少的主要因素[6]。另一方面，农业集约化简化了农业景观格局，降低了其空间异质性和时间异质性；集约化的农事管理和大量农业化学品(如除草剂和杀虫剂)的投入，造成农业环境质量急剧降低，不利于农业景观中的生物多样性维持和农业可持续发展[7-9]。
+
+作为重要的可持续发展的农业系统，有机农业被视为实现农业景观生物多样性和生态系统服务功能的重要途径[10-12]。与常规化防农业相比，有机农业是一种在生产过程中不使用任何化学合成的农药、化肥、生长调节剂等，也不采用基因工程获得的生物及其产物的农业生产体系[13]。尽管有机农业在促进生物多样性方面有积极意义，仅在局部尺度上改变农田生产活动方式以促进农业景观生物多样性的方法并未获得广泛支持，原因可能是受到较大尺度上景观结构特征的复杂影响[14-16]。此外，对于有机农业也有反对声音，一般认为有机农业的发展会降低粮食产量，进而需要开垦更多的自然生境作为农业用地以保证产量[17]。据估计，2005—2050 年期间，世界范围内粮食供给需要持续增加 $70 \%$ 以上，以满足人口增长带来的压力[18]。因此，在保障农业生产的同时促进农业景观生物多样性保护和生态系统服务功能维持将面临更严峻的挑战[19]。国内外许多学者都在积极探索既能产生较好经济效益，又能改善农业生物多样性的方法[2.17,20-22]，这些方法集中在两种农业土地利用策略上，即土地共享(landsharing)和土地分离(land sparing)。其中，前者关注农田环境质量的改善，常被认为是野生生物友好型;
+
+而后者则更关注通过提高作物单产，释放出更多土地用于自然保护[18.22]。“土地共享"和"土地分离"的概念最早由英国学者Green 等[4提出，通过探讨有限空间内的土地利用方式选择问题，以实现粮食供给和生物多样性双赢的目的。本文阐述了土地共享和有机农业、土地分离和集约化农业对农业生物多样性的影响，并进一步探讨这两种方式应用和选择时应考虑的因素。该研究可为农业生物多样性保护及农业可持续发展提供启示。
+
+# 1土地共享(land sharing)
+
+土地共享，即土地利用方式是将作物生产和生物多样性保护地整合在同一土地单元内[17,22-23](图1a)。土地共享通过减少农业的外部化学品的输入(如除草剂、杀虫剂及化肥和石油燃料)，保留农田内的自然生境斑块(如乔木和灌木群落、池塘等)，使农田恢复为野生生物友好型的环境(图 2a)。
+
+![](images/2aa04f1b2be994ec4e880db47791a5f2f9f5618e1fc2efc64df17c5121f019ba.jpg)  
+图1土地共享和土地分离的土地利用方式(引自Balmford等[17l)  
+Fig.1The land use patterns of land sharing and land sparing [cited from the reference [17] (Balmford et al.)] a:土地共享，农田尺度上生物多样性友好型的农业景观;
+
+b：土地分离，区域尺度上匀出部分土地作为自然生境的农业景 观。阴影部分代表野生自然生境，且a、b的阴影总面积相同。 a:“biodiversity-friendly”landscapes that involve land sharing at field scale.B:landscapes that involve land sparing at regional scale across a group of farms.In each landscape,the same total area (denoted by the shadows) is given over to wild nature.
+
+# 1.1 土地共享的优点
+
+土地共享方式下的农业景观结构与植被演替早期相似，类似于传统农业或农林复合系统，这种生境的高度异质性有助于维持较高的生物多样性[5,24]。欧洲大量农业环境支付政策(AEP)支持土地共享方式，其主要原因是相当比例的生物多样性是由农业用地维持的，低集约化的农业景观能为物种生存提供更多的资源，甚至较自然生境或保护地维持更多的物种[7,19]。例如，很多农田鸟类长期适应了由传统农业的生产和收获方式所创造的规律的、具时空异质性的农田生境；在热带地区，大量生活在开放生境的鸟类，当它们的自然生境(如，稀树草原)消失时，它们则完全依赖于农田[25]。因此，农业活动对于这些长期适应低集约化农业景观的野生生物的生存是必须的。
+
+土地共享是在农田尺度上实现农业景观生物多样性和作物产量的平衡，其实现常基于有机管理方式，使用少量或不使用农业化学品。许多研究表明，有机农业在促进生物多样性方面有积极意义[8.16.26]，能够增加鸟类[27]、甲虫类[28]和蝴蝶类的丰富度[29]。有机农业对生物多样性维持的作用差异很大，受景观复杂性的影响特别是在大尺度空间范围内[8,14-15,30]。Brittain等[31]研究发现，景观单一的有机农场中，访花昆虫的多样性并没有明显提高；自然生境比例是最重要的景观多样性的表征，Kremen等[32]研究了自然生境比例和农田管理方式对当地蜜蜂类群多样性的影响，发现集约化农业是造成蜜蜂种群消失的最主要因素。生境多样化，如灌木丛、池塘、杂草带、树篱等对生物防治有重要作用[3-34]。Fischer等[8]的研究表明，在每一个农场中，保留至少 $5 \%$ 的自然生境是生物多样性维持的有效方式。
+
+# 1.2 土地共享的局限
+
+土地共享的局限性主要体现在两个方面。首先，该方法对生物多样性的影响还比较模糊，缺乏大量的试验数据支撑。尽管针对特定物种保护的小尺度的土地共享计划确实取得了成效，但是对于大尺度空间的物种保护的影响则变化很大。例如，在欧洲，为维持农田生物多样性设计的土地共享管理模式对维管植物、鸟类和节肢动物的保护效应很小，对一些濒危物种的保护也没有达到预期效果[22]。土地共享对生物多样性的影响随着研究的景观尺度和生物类群的不同而变化，这种变化可能与生物功能群对不同尺度环境变化的响应有关[25,35]。例如,Tuck等[16]综合研究发现，与集约化农业相比，有机农业对食肉动物影响最大，对传粉者影响最小，影响顺序依次为：分解者 $>$ 食肉动物 $| >$ 食草动物 $>$ 植物 $>$ 传粉昆虫。影响差异还与物种的局部活动、活动能力及景观内化学品的使用关联很大。有研究表明，一些传粉者可能对某一类型杀虫剂更为敏感，如果有机农户未使用该杀虫剂，则这些土著传粉者丰富度上升;反之，如果该杀虫剂被使用，则传粉者会转移到附近其他农田[16]。
+
+另一方面，与集约化农业相比，土地共享方式常基于使用少量或不使用农业化学品，进而导致其产量常低于集约化农田。为了平衡产量下降，需要额外的土地作为农业用地，进一步加速了其他有较高生物多样性的陆地生态系统向农业用地转变(图 2a)。发展中国家需要维持高作物产量，因此有机管理方式应用较少。同时低产量意味着需要开垦更多的土地以应对产量需求，因此，有学者将其称为“可持续发展的士地成本(the land cost of sustainability)"[36],这显然不符合土地供应日益紧张的趋势。
+
+![](images/919c897ca469329967e166b997400d2c058ffebcaf4c325eb371c2fd77f9bfa3.jpg)  
+图2土地共享(a)和土地分离(b)的生物多样性效应 Fig.2Effects of land sharing(a) and land sparing (b) on biodiversity 实线和 $^ { \ast _ { + } }$ ”代表正效应，虚线和“-"代表负效应。Solid lines indicate a positive relationship and‘ $\cdot _ { + } , \cdot _ { }$ symbols indicate an increase in the lirectionoftheoerasatcdliesindiateaegatieelatiosipnd“”sybolsidcatedeceaseinthdrectioofteo.
+
+# 2 土地分离(land sparing)
+
+土地分离，即通过部分土地的集约化，释放更多的土地作为非农业生境(如树林、自然草场、湿地等)以用于生态保护(图1b)。相较于土地共享关注农田环境质量的改善，土地分离更关注的是从计划的农业用地中分离出小部分土地用于自然保护，这种策略的目的是作物高产出和自然生境相结合[19,22]。
+
+# 2.1 土地分离的优点
+
+土地分离对生物多样性保护的好处常体现在区域甚至更大的空间尺度。通过土地集约利用和其他外部辅助能的输入以增加单位面积产量，进而降低自然植被向农业用地的转化速度。研究表明,1940年后，通过谷类作物的增产，美国节约了1500万 $\mathrm { h m } ^ { 2 }$ 土地[2.37]；发展中国家通过作物产量的增加，降低了森林砍伐率[38]。还有一些研究发现，土地分离是更好的粮食产量保障政策，对鸟类和植物多样性的负面效应最小[22]。同时，由于土地集约利用增加了单位面积产量，这将有效地减缓气候变化压力，其理由是虽然化肥和其他辅助能的环境成本增加，但这些成本足以抵消因为去林化所导致的温室效应贡献[22]。尽管如此，农田尺度的生物多样性维持及相关生态系统服务功能仍是必须的，不应该因区域尺度的保护地存在而忽略，如传粉、生物防治等对产量有重要贡献。
+
+# 2.2 土地分离的局限
+
+土地分离是在景观尺度上实现生物多样性保护和产量的整合，即在最大化产量的同时，节约出更多土地用于生物多样性保护。因此，集约化农业是土地分离方式的天然组成部分。农业由传统农业向现代集约农业转变，使得全球农产品供给功能得到极大的提高，但同时，农业集约化是造成生物多样性丧失的主要驱动力，并进一步影响了传份、害虫防治和养分循环等生态系统服务功能。在过去50 年内，现代农业集约化是许多农田鸟类[39]、杂草[40]、传粉昆虫[41]、地表节肢动物[42]以及土壤动物[43-44]和土壤微生物[45]等物种丰富度及多度下降的主要原因。例如，对农田鸟类生命周期具有重要影响的有：增加收割频率、增加肥料投入、增用杀虫剂和抗菌素、降低水位、改变轮作种植和大范围清除树篱，过早收割会影响鸟卵及幼鸟存活率，而地下水位的降低导致很多土壤无脊椎动物向土壤剖面深层迁移，超出寻食鸟类的能力范围[46]。
+
+农业集约化影响的范围不仅仅是集约化利用的土地，大量投入的农业化学品，对农业用地以外的其他生态系统也造成负面效应，即具有“溢出效应"(spillovereffects)。此外，大多数农户缺乏农业集约化生产的相关技术。农业集约化依赖于包括化肥、农药、杀虫剂等农业化学品的大量使用，但是这些辅助能输入的有效利用率仍较低。据统计，氮的利用率不足1/2，而磷的利用率不足1/4，且磷在土壤中积累不易被利用，氮则迁移性很强，易通过反硝化作用进入到大气或淋溶作用进入深层土壤及水体[47]。Pimentel[48]认为只有 $0 . 1 \%$ 的杀虫剂捕捉到目标害虫。此外，集约化增加了对集约化生产相关的上游产品(如，农业化学品)及下游产品(如，机械收割)的需求，这将进一步扩大对环境的影响[49]。
+
+# 2.3可持续集约化农业的发展
+
+在上述背景下，近两年产生了可持续集约化农业(sustainable intensification of farming)的概念[17,22.50]。可持续集约化农业的自标，即在提高作物产出的同时，又要减轻集约化对环境和生物多样性保护的压力，使得集约化负面影响最小化[17,22]。其核心是通过加强农田管理，降低“溢出效应”。这些管理措施包括：作物合理密度种植、对减产因素(杂草、病虫害)的控制、提高水肥利用效率等。根据作物需求调控肥料用量、选择适宜的施用时期、推广平衡施肥、氮肥深施等提高肥料利用率；营养在土壤中的垂直损失还可以通过种植不同类型根系作物的回收利用而减少。此外，维持集约化农业生态系统的自我恢复能力和一定的生态系统服务功能也可以降低“溢出效应"风险，生物多样性对于提高系统抗性可能是关键[2]。例如，水稻(Oryza sativa)多品种混种不仅保存了传统品种，且使水稻病虫害发生率下降，进而减少了农药的使用量并降低其环境风险[51]。传粉昆虫、捕食动物和种子传播动物等物种间的交互作用对于生态系统自我恢复能力很重要。例如，水稻复合种养系统(稻-鸭、稻-鱼)对杂草控制[52]、蜘蛛类捕食性天敌下降[53]都有明显效果。
+
+# 3土地共享和土地分离方式的选择和应用
+
+自前很少有研究证明哪种土地利用策略对于解决农业景观中的生物多样性保护和产量平衡问题更为优越[17,23]。土地共享方式无论在农田尺度上(fieldscale)还是区域景观尺度(landscape scale)上，都具有提高农业产量和生物多样性等生态系统服务功能的潜力，但是土地分离提供这些好处只能在区域尺度上[19]。尽管如此，土地共享方式和土地分离方式不应看作两种对立的方法，而是解决问题的不同路径，两种方法同等重要，在选择时应考虑：对集约化敏感的物种；景观背景、景观尺度和景观结构；社会经济因素等。
+
+# 3.1 基于物种的考虑
+
+物种密度-产量关系曲线图形状对于这两种方法的选择有重要启示[21-22]。在特有经济作物生产系统中，如印度尼西亚的可可(Theobromacacao)农田,其生物多样性未显著受到可可产量增加的影响，因此该农业景观中生物多样性的有效保护可以考虑通过土地共享方式[54]。但是，更为常见的是随着农田集约化程度的提高，物种多度急剧下降的现象。例如，欧洲的蝴蝶类群、地表节肢动物和田间植物的种群密度与产量关系曲线为凹形，因此更有可能得利于产量最大化下的土地分离方式[55]。还有一些物种，如许多开放生境下的鸟类(农田或草原鸟类)只能在低集约化下维持多样性，因此其种群密度-产量关系曲线为凸形，这些物种则通过土地共享方式能更好的保护[37]。
+
+# 3.2 基于景观结构、景观尺度和景观背景的考虑
+
+与集约化农业相比，景观结构对生物多样性的影响可能更重要[2]。对景观结构的选择一定程度上代表了土地共享和土地分离方式之间的权衡。农业景观可分为农业基底(matrix)和自然生境斑块(patches)，基于预想的农业景观模式，认为斑块生物多样性丰富，而基底生物多样性贫乏，这显然忽略了农业基底在生物多样性维持中的重要作用[7,56-57]。生境的片断化、斑块大小和斑块隔离程度是衡量斑块生境的重要因素，对于物种空间分布、丰度和行为起很大作用[14,58]。如果物种扩散被阻断、或者没有达到适宜定居的最小斑块面积以及边际效应，那么保证斑块的连通性是非常重要的，但仅提高连通性不能补偿生境损失程度，生境质量也非常重要。
+
+不同物种对不同景观尺度生态过程的响应不同，取决于它们的生活史和迁移能力。因此，农业景观的尺度设置应根据物种对不同尺度生态过程的应答情况而定。景观格局与土地历史和地貌也有关。例如，北欧小面积农田生境异质性较高，倾向于土地共享方式，而西澳大利亚大面积农田景观则倾向于土地分离方式[59]。
+
+土地共享和土地分离方式的选择也可能受生物物理过程影响，如地形地貌和产量潜力。在雨热充沛、土地肥沃的农业潜力高的区域适宜于集约化生产，因此，选择倾向于土地分离方式，同时匀出的土地可以维持较高的生物多样性。在这样的农业景观中，土地共享并不是有效的最大化生物多样性和农业产量的有效方式。相反，在不适宜使用机械化耕作的山区或丘陵地带或低产量区域则倾向于选择土地共享方式，特别是农业用地本身能支持较高生物多样性的区域[2]。
+
+# 3.3 社会经济因素
+
+土地共享或土地分离方式的选择实际上是农户个体在集约化生产和传统农业或有机农业生产方式上的选择。这种选择受复杂的社会经济的影响，如人口密度、资金和技术支持、市场投入产出比、政策等。集约化农业是在土地利用面积渐趋紧张和粮食供给压力背景下产生的，与传统农业相比，集约化更依赖于农业化学品等外部辅助能的输入，需要工业化提供大量的物质、技术、信息和资金支持。如工业技术支持农业，包括信息、物流、储藏技术等；生产过程机械化；国家财政扶持农业，多数农产品生产要靠补贴；生产要素资本化、农事操作专业化；此外，传统农业向集约化农业的转变需要政府的政策支持和金融保险等行业的支持，通过金融手段分担自然灾害的风险；政府的政策支持包括国际贸易的技术壁垒、合作组织的保护、物流绿色通道政策的应用等[60]。
+
+# 4展望
+
+农业景观占据地球近 $40 \%$ 陆地面积[61]，农业景观中的生物多样性维持在全球生物多样性保护中具有重要意义。在中国的土地利用实践中，大多采用土地分离方式，如划定自然保护区等，对土地共享的策略应用不多[62]。随着集约化农业带来的环境和生态系统服务功能减损问题日益突出，农业和生物多样性保护的关系得到广泛关注。未来农业发展将聚焦在“土地共享"和“土地分离"这两种农业土地利用方式上，对上述两种方式的深入认识可为我们在未来农业发展选择何种方式提供以下启示：
+
+1)因地制宜规划农业景观格局。一是要考虑区域的景观特征和产量潜力。在地势平坦且产量潜力高的区域(如，江汉平原)倾向于选择土地分离方式，发展集约化农业；而在崎岖的丘陵地带和山区及低产量区域则倾向于选择土地共享方式。二是要考虑区域内的特有物种[63]和其他受关注物种(如，主要经济作物)对集约化的敏感程度。特有物种是确定生物多样性优先保护区的重要标准[64]，特有物种的分布区域和范围、以及物种种群密度-产量关系曲线可为方法的选择提供指示信息。对于特有物种，即使在选择土地分离方式的区域也应注意自然生境的连通性。但是，针对1个或少数几个物种所做出的努力(如通过景观规划和农田管理改善栖息地)，最终是否能恢复该农田景观中曾经出现的物种多样性，这是今后研究和保护规划时需要进一步关注的问题。
+
+2)在选择土地分离方式和集约化农业生产的区域，在追求单产的同时不应以牺牲农田生物多样性为代价，发展可持续集约化农业、加强“溢出效应”的管理和提高生态系统自我恢复能力是非常急迫的问题。同样，在选择土地共享方式的农业区域，尽管该方式旨在建立生物多样性和野生生物友好型环境，其生物多样性保护也并不是不计成本，作物产量仍是重要的考虑因素。
+
+3)土地共享和土地分离方式是解决问题的不同途径，两者可以相互补充，甚至可以从不同空间尺度上建立土地共享-分离混合模式[58]。例如在集约化农业地区适度恢复农用林业(即农地上的林木，treeson farm)，建立农林复合系统或乔-灌-草农林牧复合系统，发挥其在农业生产和生态系统服务功能维护方面的重要作用。与此同时，从政策和资金支持角度，也需要从传统的农业或林业投资转变为增加农用林业的投资。
+
+# 参考文献References
+
+[1]刘云慧，常虹，宇振荣．农业景观生物多样性保护一般原 则探讨[J]．生态与农村环境学报,2010,26(6):622-627 LiuY H,Chang H,Yu ZR.General principles for biodiversity protection in agro-landscaping[J]. Journal of Ecology and Rural Environment,2010,26(6): 622-627   
+[2]Baudron F,Giller K E.Agriculture and nature:Trouble and strife?[J].Biological Conservation,2014,170:232-245   
+[3]Power A G.Ecosystem services and agriculture:Tradeoffs and synergies[J].Philosophical Transactions of the Royal SocietyB:Biological Sciences,2010,365(1554):2959-2971   
+[4]Green RE,Cornell SJ,Scharlemann JPW,etal.Farming and the fate of wild nature[J]. Science,2005,307(5709): 550-555   
+[5]Benton TG,Vickery JA,Wilson JD.Farmland biodiversity: Ishabitat heterogeneity the key?[J].Trends in Ecology & Evolution,2003,18(4):182-188   
+[6]Hole DG,Perkins AJ,Wilson JD,et al.Does organic farming benefit biodiversity?[J].Biological Conservation,2005, 122(1): 113-130   
+[7]Tscharntke T,Klein A M,Kruess A,et al.Landscape perspectives on agricultural intensification and biodiversityecosystem service management[J]. Ecology Letters，2005, 8(8): 857-874   
+[8]Fischer C,Thies C,Tscharntke T.Mixed effects of landscape complexity and farming practice on weed seed removal[J]. rerspecuves in riant Ecoiogy,Evoiuuon and Systemaucs, 2011,13(4): 297-303   
+[9]尹飞，毛任钊，傅伯杰，等．农田生态系统服务功能及其形 成机制[J].应用生态学报,2006,17(5):929-934 Yin F,Mao R Z,Fu B J,et al.Farmland ecosystem service and its formation mechanism[J]. Chinese Journal of Applied Ecology,2006,17(5): 929-934   
+[10]Van Elsen T.Species diversity as a task for organic agriculture in Europe[J].Agriculture,Ecosystems & Environment, 2000,77(1/2): 101-109   
+[11] Crowder D W,Northfield TD,Strand MR,et al. Organic agriculture promotes evenness and natural pest control[J]. Nature,2010,466(7302): 109-112   
+[12] Sandhu H S,Wratten S D, Cullen R. Organic agriculture and ecosystem services[J]. Environmental Science & Policy,2010, 13(1): 1-7   
+[13] Gomiero T,Pimentel D,Paoletti M G.Environmental impact of different agricultural management practices: Conventional Vs. organic agriculture[J]. Critical Reviews in Plant Sciences, 2011, 30(1/2): 95-124   
+[14]刘云慧，李良涛，宇振荣．农业生物多样性保护的景观规 划途径[J]．应用生态学报,2008,19(11):2538-2543 Liu Y H, Li L T, Yu Z R. Landscape planning approaches for biodiversity conservation in agriculture[J]. Chinese Journal of Applied Ecology,2008,19(11): 2538-2543   
+[15] Gabriel D,Sait S M, Hodgson JA,et al. Scale maters: The impact of organic farming on biodiversity at different spatial scales[J]. Ecology Letters,2010,13(7): 858-869   
+[16] Tuck S L,Winqvist C,Mota F,et al. Land-use intensity and the effects of organic farming on biodiversity: A hierarchical meta-analysis[J]. Journal of Applied Ecology,2014,51(3): 746-755   
+[17] Balmford A,Green R,Phalan B.What conservationists ned to know about farming[J]. Proceedings of the Royal Society B: Biological Sciences,2012,279(1739): 2714-2724   
+[18]FAO.World agriculture: Towards 2030/2050[R]. Rome, Italy: FAO,2006   
+[19] Rey Benayas JM,Bullock JM.Restoration of biodiversity and ecosystem services on agricultural land[J]. Ecosystems, 2012,15(6): 883-899   
+[20]刘云慧，张鑫，张旭珠，等．生态农业景观与生物多样性保 护及生态服务维持[J]．中国生态农业学报，2012，20(7): 819-824 Liu Y H, Zhang X,Zhang X Z,et al. Ecoagricultural landscape for biodiversity conservation and ecological service maintenance[J]. Chinese Journal of Eco-Agriculture,2012, 20(7): 819-824   
+[21] Godfray H C J.Food and biodiversity[J]. Science,2011, 333(6047): 1231-1232   
+[22] Phalan B, Onial M,Balmford A,et al. Reconciling food production and biodiversity conservation: Land sharing and land sparing compared[J]. Science,2011,333(6047): 1289-1291   
+[23] Bennett E M. Changing the agriculture and environment conversation[J/OL]. NatureEcology& Evolution, 2017, doi:10.1038/s41559-016-0018 mental Protection,2016,7(7):1016-1032 [25]Wright HL,Lake IR,Dolman P M.Agriculture —A key element for conservation in the developing world[J]. Conservation Letters,2012,5(1): 11-19 [26] Bengtsson J, Ahnstrom J, WeibullA C. The effects of organic agriculture on biodiversity and abundance:A meta-analysis[J]. Journal of Applied Ecology,2005,42(2): 261-269 [27] Freemark K E,Kirk D A.Birds on organic and conventional farms in Ontario: Partitioning effects of habitat and practices on species composition and abundance[J]. Biological Conservation,2001,101(3): 337-350 [28] Hutton S A,Giller P S. The effects of the intensification of agriculture on northern temperate dung beetle communities[J]. Journal of Applied Ecology,2003,40(6): 994-1007 [29] Weibull A C,Bengtsson J,Nohlgren E.Diversity of butterflies in the agricultural landscape: The role of farming system and landscape heterogeneity[J].Ecography，20o0，23(6):   
+743-750 [30] Rader R,Birkhofer K,Schmucki R,et al. Organic farming and heterogeneous landscapes positively affect different measures of plant diversity[J]. Journal of Applied Ecology,   
+2014,51(6): 1544-1553 [31] Brittain C,Bommarco R,Vighi M, et al. Organic farming in isolated landscapes does not benefit flower-visiting insects and pollination[J]. Biological Conservation,2010,143(8):   
+1860-1867 [32] Kremen C,Williams N M, Throp R W. Crop pollination from native bees at risk from agricultural intensification[J].Proceedings of the National Academy of Sciences of the United States of America,2002,99(26): 16812-16816 [33]谢坚，屠乃美，唐建军，等．农田边界与生物多样性研究进 展[J]．中国生态农业学报,2008,16(2):506-510 Xie J,Tu N M,Tang JJ,et al. Advances in farmland field margin systems and biodiversity research[J].Chinese Journal of Eco-Agriculture,2008,16(2): 506-510 [34] Andersson G K S,Birkhofer K, Rundlof M,et al.Landscape heterogeneity and farming practice alter the species composition and taxonomic breadth of pollinator communities[J]. Basic and Applied Ecology,2013,14(7): 540-546 [35] Batary P,Bäldi A,Kleijn D,et al. Landscape-moderated biodiversity effects of agri-environmental management:A meta-analysis[J]. Proceedings of the Royal Society B:Biological Sciences,2011,278(1713): 1894-1902 [36] Casado G IG,de Molina M G.Preindustrial agriculture versus organic agriculture:The land cost of sustainability[J]. Land Use Policy,2009,26(2): 502-510 [37] Ausubel JH. The great reversal: Nature's chance to restore land and sea[J].Technology in Society,2000,22(3): 289-301 [38] Ewers R M,Scharlemann JP W,Balmford A,et al. Do increases in agricultural yield spare land for nature?[J].Global Change Biology,2009,15(7):1716-1726 [39]Donald P F,Green R E,Heath MF.Agricultural intensifica  
+[40] Sutcliffe O L,Kay Q O N. Changes in the arable flora of central southern England since the 196Os[J].Biological Conservation,2000,93(1): 1-8   
+[41] Allen-Wardell G,Bernhardt P,Bitner R,et al. The potential consequences of pollinator declines on the conservation of biodiversity and stability of food crop yields[J].Conservation Biology,1998,12(1): 8-17   
+[42] Holland J M,Luff ML.The effects of agricultural practices on Carabidae in temperate agroecosystems[J]. Integrated Pest Management Reviews,2000,5(2):109-129   
+[43] Brown R W.Grass margins and earthworm activity in organic and integrated systems[J].Aspects of Applied Biology,1999, 54: 207-210   
+[44] Yeates G W, Wardle D A, Watson R N. Responses of soil nematode populations,community structure,diversity and temporal variability to agricultural intensification over a seven-year period[J]. Soil Biology and Biochemistry,1999, 31(12): 1721-1733   
+[45] Huang P M,Wang M K, Chiuc C Y. Soil mineral-organic matter-microbe interactions: Impacts on biogeochemical processes and biodiversity in soils[J].Pedobiologia,20o5,49(6): 609-635   
+[46] Berendse F,Chamberlain D,Kleijn D,et al. Declining biodiversity in agricultural landscapes and the effectiveness of agri-environment Schemes[J]. AMBIO: A Journal of the Human Environment, 2004,33(8): 499-502   
+[47] Tilman D,Balzer C,Hill J,et al. Global food demand and the sustainable intensification of agriculture[J].Proceedings of the National Academy of Sciences of the United States of America,2011,108(50): 20260-20264   
+[48] Pimentel D.Amounts of pesticides reaching target pests: Environmental impacts and ethics[J]. Journal of Agricultural and Environmental Ethics,1995,8(1):17-29   
+[49] Matson PA,Vitousek P M.Agricultural intensification: Will land spared from farming be land spared for nature?[J]. Conservation Biology,2006,20(3): 709-710   
+[50]朱会义，孙明慧．土地利用集约化研究的回顾与未来工作 重点[J].地理学报,2014,69(9):1346-1357 Zhu H Y,Sun MH. Main progress in the research on land use intensification[J]. Acta Geographica Sinica，2014，69(9): 1346-1357   
+[51］朱有勇，孙雁，王云月，等．水稻品种多样性遗传分析与稻 瘟病控制[J]．遗传学报,2004,31(7):707-716 Zhu Y Y, Sun Y, Wang Y Y, et al. Genetic analysis of rice varietal diversity for rice blast control[J].Acta Genetica Sinica,2004,31(7): 707-716   
+[52]魏守辉，强胜，马波，等．稻鸭共作及其它控草措施对稻田 杂草群落的影响[J]．应用生态学报,2005,16(6):1067-1071 Wei S H, Qiang S,Ma B,et al. Control effects of rice-duck farming and other weed management strategies on weed communities in paddy fields[J]. Chinese Journal of Applied Ecology,2005,16(6): 1067-1071   
+[53]秦钟，章家恩，张锦，等．稻鸭共作系统中主要捕食性天敌 的结构及多样性[J]．生态学杂志,2011,30(7):1354-1360 Qin Z,Zhang JE,Zhang J,etal. Structure and diversity of major predatory natural enemies in rice-duck integrated farming system[J].Chinese Journal ofEcology,2011,30(7):1354-1360   
+[54]Clough Y,Barkmann Y,Juhrbandt J,et al.Combining high biodiversity with high yields in tropical agroforests[J].Proceedings of the National Academy of Sciences of the United States of America,2011,108(20): 8311-8316   
+[55]Kleijn D,Kohler F,Baldi A,et al.On the relationship between farmland biodiversity and land-use intensityin Europe[J].Proceedings of the Royal Society B:Biological Sciences,2009,276(1658):903-909   
+[56]Wagner HH,Wildi O,Ewald K C.Additive partitioning of plant species diversity in an agricultural mosaic landscape[J]. Landscape Ecology,2000,15(3):219-227   
+[57]Fischer J,Lindenmayer D B,Manning A D.Biodiversity, ecosystem function,and resilience:Ten guiding principles for commodity production landscapes[J].Frontiers in Ecology and the Environment,2006,4(2): 80-86   
+[58]郑云开，尤民生．农业景观生物多样性与害虫生态控制[J]. 生态学报,2009,29(3):1508-1518 Zheng Y K,You MS.Biological diversity in support of ecologically-based pest management at landscape level[J].Acta Ecologica Sinica,2009,29(3):1508-1518   
+[59]Fischer J,Brosi B,Daily G C,et al.Should agricultural policies encourage land sparing or wildlife-friendly farming?[J]. Frontiers in Ecology and the Environment,20o8,6(7): 380-385   
+[60]邓秀新．现代农业与农业发展[J]．华中农业大学学报：社 会科学版,2014,(1):1-4 Deng X X. Modern agriculture and agricultural development[J]. Journal of Huazhong Agricultural University:Social Sciences Edition,2014,(1):1-4   
+[61] FAO. Statistics from www.faostat.fao.org[R]. Rome,Italy: FAO,2009   
+[62]冯喆，许学工，周建，等．基于生态系统服务视角的"士地 分离与共享框架"解析[J]．地理科学进展，2016，35(9): 1100-1108 Feng Z,Xu X G, Zhou J,et al. Land sparing versus sharing framework from ecosystem service perspective[J].Progress in Geography,2016,35(9):1100-1108   
+[63]黄继红，张金龙，杨永，等．特有植物多样性分布格局测度 方法的新进展[J].生物多样性,2013,21(1):99-110 HuangJH,ZhangJL,Yang Y,et al.Advances in methods for measuring patterns of endemic plant diversity[J].Biodiversity Science,2013,21(1): 99-110   
+[64]Orme C DL,Davies RG,Burgess M,et al.Global hotspots of species richness are not congruent with endemism or threat[J].Nature,2005,436(7053):1016-1019

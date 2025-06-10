@@ -1,0 +1,546 @@
+[
+    {
+        "type": "text",
+        "text": "arXiv: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two-Higgs-doublet model with a color-triplet scalar: a joint explanation for top quark forward-backward asymmetry and Higgs decay to diphoton ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chengcheng Han $^ { 1 , 2 }$ ， Ning Liu $^ { 1 }$ ， Lei Wu $^ 2$ ， Jin Min Yang $^ 2$ , Yang Zhang $^ { 1 }$ （204号 $^ { 1 }$ Physics Department, Henan Normal University， Xinxiang 453007, China 2 State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Academia Sinica， Beijing 100190, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The excess of top quark forward-backward asymmetry ( $A _ { F B } ^ { t }$ ） reported by the Tevatron and the enhancement of the Higgs decay to diphoton observed by the LHC may point to a same origin of new physics. In this note we examined such anomalies in the two-Higgs-doublet model with a colortriplet scalar. We found that under current experimental constraints this model can simultaneously explain both anomalies at $1 \\sigma$ level. Also,we examined the Higgs decay $h  Z \\gamma$ and displayed its correlation with $h  \\gamma \\gamma$ . We found that unlike other models, this model predicts a special correlation between $h  Z \\gamma$ and $h  \\gamma \\gamma$ ,i.e., the $Z \\gamma$ rate is highly suppressed while the $\\gamma \\gamma$ rate is enhanced. This behavior may help to distinguish this model in the future high luminosity run of the LHC. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 14.65.Ha,14.70.Pw,12.60.Cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although the Standard Model (SM) agrees quite well with collider experiments, new physics is speculated to appear at TeV scale. If new physics beyond the SM indeed exist, it may readily affect the Higgs sector and the top quark sector. The reason is that the Higgs sector is responsible for electroweak symmetry breaking while the top quark is the heaviest fermion and sensitive to electroweak symmetry breaking. Actually, the top quark and Higgs boson entangled with each other, e.g., they couple 'strongly', the top quark loop dominates the Higgs production $g g  h$ and also sizably impact the clean decay $h  \\gamma \\gamma$ . So, the new physics (if really exist） may be simultaneously present in both sectors. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Luckily, we have seen anomalies from both the LHC Higgs data and the Tevatron top quark data. From the LHC Higgs data [1, 2] we see an enhancement in the diphoton channel while from the Tevatron top quark data [3] we see an excess for the top forward-backward asymmetry. Let's take a look at these anomalies: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(i） For the Higgs boson, recently the ATLAS [1] and CMS [2] collaborations independently reported observation of a Higgs-like resonance around 125 GeV. Their observations are also supported by the Higgs search at the Tevatron [4]. Although the property of this Higgs-like boson is in rough agreement with the SM Higgs prediction， an excess at （20 $2 \\sigma$ level was observed in the diphoton channel [5,6] and an enhancement in the $V b b$ （204号 channel was also reported by the Tevatron [7].   \n(ii) For the top quark, although most measurements at the Tevatron and LHC are well consistent with the SM predictions, an excess for the top quark forward-backward asymmetry $( A _ { F B } ^ { t } )$ was observed by both CDF and D0 collaborations. For $A _ { F B } ^ { t }$ in the inclusive $t t$ production and in the high $t t$ invariant mass region ( $m _ { t \\bar { t } } > 4 5 0$ GeV), the deviations from the SM predictions [8] are about $1 . 5 \\sigma$ and $2 . 4 \\sigma$ respectively [3]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although these anomalies are quite mild and may go away in the future, they stimulated various new physics explanations. The enhancement of the Higgs diphoton signal can be explained in the popular low energy supersymmetry (SUSY） [9] and other miscellaneous models (say with new scalars, new fermions or new vector bosons) [1O-15] (note that the Higgs diphoton rate cannot be enhanced in some well-known new physics models like little Higgs theory and universal extra dimensions [16]). For the anomaly of $A _ { F B } ^ { t }$ ，the popular new physics models like SUSY cannot explain it while other strange models are tried to provide an explanation [17-20]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is noteworthy that for the anomaly of $A _ { F B } ^ { t }$ a diquark model with a color anti-triplet scalar $\\left( \\phi \\right)$ can provide a nice explanation [21] although it will inevitably lead to a color triplet resonance in the $\\bar { t } ( t ) + j$ system of the $t t +$ jets signature and thus highly constrained by the current data of top pair or single top production at the LHC [22, 23]. The intriguing point of this model is that the new predicted charged and colored scalar can also affect the processes $g g  h$ and $h  \\gamma \\gamma$ through the Higgs portal operator $\\phi ^ { \\dagger } \\phi H ^ { \\dagger } H$ ( $H$ is the SM Higgs doublet） and may enhance the Higgs diphoton rate at the LHC. Actually, the effects of the general charged and colored scalars in the Higgs productions and decays have been studied in [24],where it is found that the scalars transforming as $( 8 , 2 , 1 / 2 )$ and $( \\bar { 6 } , 3 , - 1 / 3 )$ under the SM gauge group can improve the agreement with the Higgs data. Meanwhile, if the Higgs sector of the SM is also extended, such as in SUSY,a light color-triplet stop wil be feasible for improving the fit of Higgs data [25]. So the extension of the Higgs sector may also play an important role. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this note, we focus on the two-Higgs-doublet model with a new color anti-triplet scalar and examine the top quark forward-backward asymmetry and the Higgs diphoton decay. Under all available experimental constraints, we scan the parameter space to figure out if this model can provide a joint explanation for the anomalies of $A _ { F B } ^ { t }$ and Higgs decay to diphoton. Also，we will study the Higgs decay $h  Z \\gamma$ and display its correlation with h→γγ. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Sec. II, we briefly outline the relevant features of the diquark model. In Sec. III we examine the experimental constraints on the parameter space of the diquark model and then in the allowed parameter space we calculate $h  \\gamma \\gamma$ ， $h  Z \\gamma$ and $A _ { F B } ^ { t }$ . Finally, we draw our conclusion in Sec. IV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II.A BRIEFDESCRIPTION OF THE MODEL ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Motivated by the top quark forward-backward asymmetry, we consider a diquark model, in which the new scalar $\\phi$ transforms as (3,1,4/3) under the gauge group $S U ( 3 ) _ { C } \\times S U ( 2 ) _ { L } \\times$ （204号 $U ( 1 ) _ { Y }$ of the SM. Such a scalar can appear as a pseudo-Goldstone boson after the condensation of the fourth family fermions [26] or the condensation of the stop in SUSY with large $A _ { t }$ term [27]. Compared with other diquarks with exotic quantum numbers, such as the color-sextet scalar, the color-triplet diquark is more favored by the measurement of $t t$ （204号 cross section because its interference with the SM processes is destructive [21]. After the electroweak symmetry breaking, the relevant Lagrangian of the color anti-triplet is given by [21] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset f _ { i j } \\bar { u } _ { i \\alpha } P _ { L } u _ { j \\beta } ^ { c } \\epsilon ^ { \\alpha \\beta \\gamma } \\phi _ { \\gamma } ^ { \\dagger } + \\mathrm { h . c . } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { i j } = - f _ { j i }$ with the indices $i$ and $j$ denoting the quark flavors, $\\epsilon ^ { \\alpha \\beta \\gamma }$ is the antisymmetric tensor for the color indices $\\alpha , \\beta , \\gamma$ ，and $t ^ { c }$ is defined as $t ^ { c } = C \\vec { t } ^ { T }$ with $C$ being the charge conjugate operator. In this model, since the main contribution to the process $u \\bar { u } \\to t t$ arises from flavor changing interaction between up quark and top quark, for simplicity, we can set the couplings $f _ { c u , c t } = 0$ to escape the constraints from low energy flavor physics like $D ^ { 0 } - D ^ { 0 }$ （204 mixing [21]. In this paper,we only use the low energy effective interaction of $\\phi$ and will not discuss the UV completion of this model. Therefore, we treat the coupling $f _ { u t }$ as a free parameter. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another feature of this diquark model is that the color triplet scalar $\\phi$ can couple to the Higgs boson through the Higgs portal operator $\\phi ^ { \\dagger } \\phi H ^ { \\dagger } H$ . In this work, considering the current Higgs data， we study the diquark in the framework of two-Higgs-doublet model, where the interaction between diquark and Higgs boson is given by [28] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = m _ { \\phi } ^ { 2 } \\phi ^ { \\dagger } \\phi + \\kappa ^ { 2 } | \\phi ^ { \\dagger } \\phi | ^ { 2 } + \\lambda ^ { u } \\phi ^ { \\dagger } \\phi | H _ { u } | ^ { 2 } + \\lambda ^ { d } \\phi ^ { \\dagger } \\phi | H _ { d } | ^ { 2 } + \\left( \\lambda _ { M } \\phi ^ { \\dagger } \\phi H _ { d } \\cdot H _ { u } + h . c . \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $H _ { u }$ and $H _ { d }$ denoting the two Higgs doublets. After the electroweak symmetry breaking, the two Higgs doublets can be written as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { d } = \\left( { v _ { d } + ( h _ { d } + i a _ { d } ) / \\sqrt { 2 } } \\right) , H _ { u } = \\left( { H _ { u } ^ { + } } \\atop { v _ { u } + ( h _ { u } + i a _ { u } ) / \\sqrt { 2 } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $v _ { u }$ and $v _ { d }$ are the vacuum expectation values. Then we rotate these Higgs fields from the interaction eigenstates to the mass eigenstates: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c } { { H } } \\\\ { { h } } \\end{array} \\right) ~ = ~ \\left( \\begin{array} { c c } { { \\cos \\alpha } } & { { \\sin \\alpha } } \\\\ { { - \\sin \\alpha \\ \\cos \\alpha } } \\end{array} \\right) ~ \\left( \\begin{array} { c } { { h _ { d } } } \\\\ { { h _ { u } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c } { { G ^ { \\pm } } } \\\\ { { H ^ { \\pm } } } \\end{array} \\right) ~ = ~ \\left( \\begin{array} { c c } { { \\cos \\beta } } & { { \\sin \\beta } } \\\\ { { - \\sin \\beta \\ \\cos \\beta } } \\end{array} \\right) ~ \\left( \\begin{array} { c } { { H _ { d } ^ { \\pm } } } \\\\ { { H _ { u } ^ { \\pm } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( { \\begin{array} { c } { { G ^ { 0 } } } \\\\ { { A } } \\end{array} } \\right) \\ = \\ \\left( \\begin{array} { c c } { { \\cos \\beta } } & { { \\sin \\beta } } \\\\ { { - \\sin \\beta \\ \\cos \\beta } } \\end{array} \\right) \\ \\left( { \\begin{array} { c } { { a _ { d } } } \\\\ { { a _ { u } } } \\end{array} } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\tan \\beta$ is defined as the ratio $v _ { u } / v _ { d }$ and $\\alpha$ is the mixing angle between the two CP-even Higgs bosons. For simplicity, we assume $\\lambda ^ { u } { = } \\lambda ^ { d } { = } \\lambda$ and then obtain the interactions between the diquark and the light CP-even Higgs: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { \\displaystyle \\lambda \\partial ^ { \\dagger } \\phi | H _ { u } | ^ { 2 } + \\lambda \\phi ^ { \\dagger } \\phi | H _ { d } | ^ { 2 } = \\lambda \\partial ^ { \\dagger } \\phi \\left[ H _ { d } ^ { + } H _ { d } ^ { - } + v _ { d } ^ { 2 } + \\frac { 1 } { 2 } ( h _ { d } ^ { 2 } + a _ { d } ^ { 2 } ) + H _ { u } ^ { + } H _ { u } ^ { - } \\right. } } \\\\ { { \\displaystyle } } & { { \\left. + v _ { u } ^ { 2 } + \\sqrt { 2 } ( v _ { u } h _ { u } + v _ { d } h _ { d } ) + \\frac { 1 } { 2 } ( h _ { u } ^ { 2 } + a _ { u } ^ { 2 } ) \\right] } } \\\\ { { \\displaystyle } } & { { \\supseteq \\sqrt { 2 } \\lambda v \\sin ( \\beta - \\alpha ) \\phi ^ { \\dagger } \\phi h + \\lambda v ^ { 2 } \\phi ^ { \\dagger } \\phi } } \\\\ { { \\lambda \\chi \\phi ^ { \\dagger } \\phi H _ { d } \\cdot H _ { u } + h . c . } } & { { = \\lambda M \\phi ^ { \\dagger } \\phi ( 2 v _ { u } v _ { d } + h _ { s } h _ { d } - a _ { d } a _ { u } + \\sqrt { 2 } v _ { u } h _ { d } + \\sqrt { 2 } v _ { d } h _ { u } } } \\\\ { { \\displaystyle } } & { { - H _ { u } ^ { + } H _ { d } ^ { - } - H _ { d } ^ { + } H _ { u } ^ { - } ) } } \\\\ { { \\displaystyle } } & { { \\supseteq \\sqrt { 2 } \\lambda _ { M } \\epsilon \\cos ( \\beta + \\alpha ) v \\phi ^ { \\dagger } \\phi h + \\lambda _ { M } v ^ { 2 } \\sin ( 2 \\beta ) \\phi ^ { \\dagger } \\phi } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here we take the light CP-even Higgs boson as a SM-like Higgs boson. From Eqs.(7) and (8),we obtain the coupling of $h \\phi ^ { \\dagger } \\phi$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal L } _ { h \\phi ^ { \\dagger } \\phi } = - \\sqrt { 2 } v [ \\lambda \\mathrm { s i n } ( \\beta - \\alpha ) + \\lambda _ { M } \\mathrm { c o s } ( \\beta + \\alpha ) ] h \\phi ^ { \\dagger } \\phi .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Then in term of an effective coupling $g _ { h \\phi \\phi }$ and the diquark mass $m _ { s }$ ， we can parameterize the above interaction as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { h \\phi ^ { \\dagger } \\phi } ~ = ~ - \\sqrt { 2 } [ \\lambda \\mathrm { s i n } ( \\beta - \\alpha ) + \\lambda _ { M } \\mathrm { c o s } ( \\beta + \\alpha ) ] v h \\phi ^ { \\dagger } \\phi \\equiv - g _ { h \\phi \\phi } \\frac { 2 m _ { s } ^ { 2 } } { v } h \\phi ^ { \\dagger } \\phi\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { s } ^ { 2 } = m _ { \\phi } ^ { 2 } + \\lambda v ^ { 2 } + \\lambda _ { M } v ^ { 2 } { \\sin { 2 \\beta } }$ . For the reduced couplings of Higgs boson with the vector bosons $c _ { h V V } ( V = Z , W )$ and fermions $c _ { h f \\bar { f } }$ , they are same as in the general THDM: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { h V V } = \\sin ( \\beta - \\alpha ) , \\quad c _ { h b \\bar { b } } = - \\frac { \\sin \\alpha } { \\cos \\beta } , \\quad c _ { h t \\bar { t } } = \\frac { \\cos \\alpha } { \\sin \\beta } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to avoid the constraints from favor physics and the LHC search for the non-standard Higgs bosons, we carry out the calculations in the decoupling limit $m _ { A } \\gg m _ { Z }$ . Therefore, the contribution of those non-standard Higgs bosons to the low energy observables is decoupled in our study. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "III. NUMERICAL RESULTS AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Due to the contributions of the new charged scalar, the decay widths of $h  g g$ ， $h  \\gamma \\gamma$ and $h  Z \\gamma$ in the SM will be modified. In our case, the partial width of $h  \\gamma \\gamma$ can be expressed as [10] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { h \\to \\gamma \\gamma } = \\frac { G _ { \\mu } \\alpha ^ { 2 } m _ { h } ^ { 3 } } { 2 \\sqrt { 2 } \\pi ^ { 3 } } | A ( \\mathrm { W } - \\mathrm { l o o p } ) + A ( \\mathrm { t o p } - \\mathrm { l o o p } ) + A ( \\mathrm { d i q u a r k - l o o p } ) | ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the amplitude functions are given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\cal A } ( \\mathrm { w } - \\mathrm { l o o p } ) = - \\frac { 7 } { 8 } c _ { h V V } A _ { v } ( \\tau _ { W } ) } , }  \\\\ { { \\displaystyle { \\cal A } ( \\mathrm { t o p } - \\mathrm { l o o p } ) = \\frac { 2 } { 9 } c _ { h t \\bar { t } } A _ { f } ( \\tau _ { t } ) , } } \\\\ { { \\displaystyle { \\cal A } ( \\mathrm { d i q u a r k - l o o p } ) = \\frac { N ( r _ { s } ) } { 2 4 } Q _ { s } ^ { 2 } g _ { h \\phi \\phi } A _ { s } ( \\tau _ { \\phi } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $\\tau _ { i } = m _ { h } ^ { 2 } / 4 m _ { i } ^ { 2 } \\ ( i = W , t , \\phi ) , \\ N ($ $N ( r _ { s } )$ being the dimension of the color representation of the new scalar and $Q _ { s }$ being its electric charge. For our model, $N ( r _ { s } ) = 3$ and $Q _ { s } = - 4 / 3$ The one-loop form factors are given by [29] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { A _ { s } ( \\tau ) = \\frac { 3 } { \\tau ^ { 2 } } [ f ( \\tau ) - \\tau ] , } \\\\ & { A _ { f } ( \\tau ) = \\frac { 3 } { 2 \\tau ^ { 2 } } [ ( \\tau - 1 ) f ( \\tau ) + \\tau ] , } \\\\ & { A _ { v } ( \\tau ) = \\frac { 1 } { 7 \\tau ^ { 2 } } [ 3 ( 2 \\tau - 1 ) f ( \\tau ) + 3 \\tau + 2 \\tau ^ { 2 } ] , } \\\\ & { f ( \\tau ) = \\left\\{ \\begin{array} { l l } { \\mathrm { a r s i n } ^ { 2 } \\sqrt { \\tau } , } & { \\tau \\leq 1 ; } \\\\ { - \\frac { 1 } { 4 } [ \\mathrm { l o g } \\frac { 1 + \\sqrt { 1 - \\tau ^ { - 1 } } } { 1 - \\sqrt { 1 - \\tau ^ { - 1 } } } - i \\pi ] ^ { 2 } , \\tau > 1 . } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The partial width of $h  g g$ is given by [10] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { h \\to g g } = \\frac { G _ { \\mu } \\alpha _ { s } ^ { 2 } m _ { h } ^ { 3 } } { 3 6 \\sqrt 2 \\pi ^ { 3 } } | { \\cal A } ( \\mathrm { t o p - l o o p } ) + { \\cal A } ( \\mathrm { d i q u a r k - l o o p } | ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the amplitude functions are ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\cal A } ( \\mathrm { t o p - l o o p } ) = c _ { h t \\bar { t } } A _ { f } ( \\tau _ { t } ) , } } \\\\ { { \\displaystyle { \\cal A } ( \\mathrm { d i q u a r k - l o o p } ) = \\frac { 1 } { 2 } C ( r _ { s } ) g _ { h \\phi \\phi } A _ { s } ( \\tau _ { \\phi } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $C ( r _ { s } ) = 1 / 2$ being the quadratic Casimir of the color representation of the diquark. At leading order, the cross section of $g g  h$ is directly related to the gluonic decay width （20 $\\Gamma ( h  g g )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\sigma } _ { g g  h } = \\frac { \\pi ^ { 2 } } { 8 m _ { h } } \\Gamma _ { h  g g } \\delta ( \\hat { s } - m _ { h } ^ { 2 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From Eqs.(12) and (14) we see that there are two ways to enhance the diphoton rate. One way is that the contribution of diquark is constructive to the $W$ -loop,which needs a negative $g _ { h \\phi \\phi }$ . However, in this case, the main production process $g g  h$ will be highly suppressed and thus the Higgs data, especially for $h \\to V V ^ { * }$ [24] can hardly be accommodated. The other way is that the contribution of diquark is destructive to the $W$ -loop.Then we need a large positive $g _ { h \\phi \\phi }$ . This will also enhance the production rate of $g g  h$ . We found this case to be consistent with the Higgs data by enhancing the decay width of $h  b b$ ，which is also needed to explain the observation of $h  b b$ at Tevatron [7]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note that, due to the gauge symmetry, $h  \\gamma \\gamma$ and $h  Z \\gamma$ have a strong correlation in the SM. Therefore, the precise measurement of $Z \\gamma$ can help to understand the diphoton anomaly. The partial width of $\\Gamma _ { h  Z \\gamma }$ is given by [10] ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu  Z \\gamma = \\frac { G _ { F } ^ { 2 } m _ { W } ^ { 2 } \\alpha m _ { h } ^ { 3 } } { 6 4 \\pi ^ { 4 } } ( 1 - \\frac { m _ { Z } ^ { 2 } } { m _ { h } ^ { 2 } } ) ^ { 3 } | A ( \\mathrm { W } - \\mathrm { l o o p } ) + A ( \\mathrm { t o p } - \\mathrm { l o o p } ) + A ( \\mathrm { d i q u a r k - l o o p } ) | \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where the amplitude functions are ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { A ( \\mathrm { W - l o o p } ) = \\cos { \\theta _ { W } } c _ { h V V } \\mathcal { C } _ { v } ( \\tau _ { W } , y _ { W } ^ { - 1 } ) , } \\\\ & { A ( \\mathrm { t o p - l o o p } ) = \\frac { 2 - ( 1 6 / 3 ) \\sin ^ { 2 } { \\theta _ { W } } } { \\cos { \\theta _ { W } } } c _ { h t \\bar { t } } \\mathcal { C } _ { f } ( \\tau _ { t } , y _ { t } ^ { - 1 } ) , } \\\\ & { A ( \\mathrm { d i q u a r k - l o o p } ) = - \\sin { \\theta _ { W } } g _ { Z \\phi \\phi } N ( r _ { s } ) g _ { h \\phi \\phi } \\mathcal { C } _ { s } ( \\tau _ { s } , y _ { s } ^ { - 1 } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "with $y _ { i } = m _ { Z } ^ { 2 } / 4 m _ { i } ^ { 2 }$ for $i = W , t , \\phi$ and $g _ { Z \\phi \\phi } = 2 ( T _ { \\phi } ^ { 3 } { - } Q _ { s } \\sin ^ { 2 } \\theta _ { W } ) / \\sin 2 \\theta _ { W }$ . The loop functions are given by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal { C } _ { s } ( x , y ) = I _ { 1 } ( x , y ) , } \\\\ & { \\mathcal { C } _ { v } ( x , y ) = 4 ( 3 - \\tan ^ { 2 } \\theta _ { W } ) I _ { 2 } ( x , y ) + \\left( \\left( 1 + 2 x ^ { - 1 } \\right) \\tan ^ { 2 } \\theta _ { W } - \\left( 5 + 2 x ^ { - 1 } \\right) \\right) I _ { 1 } ( x , y ) , } \\\\ & { \\mathcal { C } _ { f } ( x , y ) = I _ { 1 } ( x , y ) - I _ { 2 } ( x , y ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle I _ { 1 } ( x , y ) = \\frac { x y } { 2 ( x - y ) } + \\frac { x ^ { 2 } y ^ { 2 } } { 2 ( x - y ) ^ { 2 } } \\left( f ( x ^ { - 1 } ) - f ( y ^ { - 1 } ) \\right) + \\frac { x ^ { 2 } y } { ( x - y ) ^ { 2 } } \\left( g ( x ^ { - 1 } ) - g ( y ^ { - 1 } ) \\right) , } \\\\ { \\displaystyle I _ { 2 } ( x , y ) = - \\frac { x y } { 2 ( x - y ) } \\left( f ( x ^ { - 1 } ) - f ( y ^ { - 1 } ) \\right) , } \\\\ { g ( x ) = \\sqrt { x ^ { - 1 } - 1 } \\arcsin \\sqrt { x } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In our study we consider the folowing experimental results about the top quark and Higgs boson from the LHC and Tevatron: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(i) The cross section of $t t$ production: The CDF and CMS collaborations have measured the total $t \\bar { t }$ cross sections respectively [22, 31], which are in good agreement with the corresponding values predicted by the SM [32], ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\sigma _ { e x p } ^ { t \\bar { t } , T e v } = 7 . 5 0 \\pm 0 . 3 1 \\pm 0 . 3 4 ~ \\mathrm { p b } , } & { \\sigma _ { t h } ^ { t \\bar { t } , T e v } = 7 . 1 5 _ { - 0 . 2 0 - 0 . 2 5 } ^ { + 0 . 2 1 + 0 . 3 0 } ~ \\mathrm { p b } ; } \\\\ { \\sigma _ { e x p } ^ { t \\bar { t } , L H C } = 1 6 1 . 9 \\pm 2 . 5 \\pm 3 . 6 ~ \\mathrm { p b } , } & { \\sigma _ { t h } ^ { t \\bar { t } , L H C } = 1 6 2 . 4 _ { - 6 . 9 - 6 . 8 } ^ { + 6 . 7 + 7 . 3 } ~ \\mathrm { p b } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In our calculations, we require the theoretical prediction (the SM value plus new physics effects) for the $t \\bar { t }$ total cross section to agree with the experimental data at $2 \\sigma$ level. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(ii) Top+jet resonance in $^ { t t + }$ jets events: In our model, the top quark can be produced in association with a diquark through new top flavor violating interactions. This will lead to a resonance in the top plus jet system of $t t + .$ jets events when the diquark decays to tq. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Tevatron: The CDF Collaboration has recently searched for a t(or $t$ )+jet resonance in $t t$ +jet events and set an upper limit of $0 . 6 1 \\sim 0 . 0 2$ pb for $m _ { X } = 2 0 0 \\sim$ 800 GeV [33]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "- LHC: The similar search has been also carried out by the ATLAS collaboration at the LHC [34]. The measurement is consistent with the SM prediction and a color triplet scalar with mass below 430 GeV is excluded at $9 5 \\%$ confidence level, assuming unit right-handed coupling. However, this bound can be released when the coupling become small. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(iii) The charge asymmetry in $t t$ production at the LHC: The charge asymmetry in $t t$ production has been measured by the CMS [35] and ATLAS collaborations[36] in single lepton channel and is consistent with the SM prediction [37], ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\sigma _ { e x p } ^ { t \\bar { t } , C M S } = 0 . 0 0 4 \\pm 0 . 0 1 0 \\pm 0 . 0 1 2 ; \\ } } \\\\ { { \\sigma _ { e x p } ^ { t \\bar { t } , A T L A S } = - 0 . 0 2 4 \\pm 0 . 0 1 6 \\pm 0 . 0 2 3 ; \\ } } \\\\ { { \\sigma _ { t h } ^ { t \\bar { t } , L H C } = 0 . 0 1 1 5 \\pm 0 . 0 0 0 6 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We also require the new physics contribution plus the SM value to agree with the data at $2 \\sigma$ level. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(iv） The Higgs search data at the Tevatron and LHC: For different decay modes of Higgs boson, we defne the following ratios of signal rate relative to the SM prediction: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { R _ { V V ^ { * } } ^ { L H C } \\equiv \\frac { \\sigma ( g g h + V B F ) } { \\sigma ^ { S M } ( g g h + V B F ) } \\times \\frac { B r ( h \\to V V ^ { * } ) } { B r _ { S M } ( h \\to V V ^ { * } ) } } } \\\\ { { R _ { \\gamma \\gamma } ^ { L H C } \\equiv \\frac { \\sigma ( g g h + V B F ) } { \\sigma ^ { S M } ( g g h + V B F ) } \\times \\frac { B r ( h \\to \\gamma \\gamma ) } { B r _ { S M } ( h \\to \\gamma \\gamma ) } } } \\\\ { { R _ { V b b } ^ { T e v } \\equiv \\frac { \\sigma ( V h ) } { \\sigma ^ { S M } ( V h ) } \\times \\frac { B r ( h \\to b \\bar { b } ) } { B r _ { S M } ( h \\to b \\bar { b } ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Here we do not use the LHC results of $h  \\tau ^ { + } \\tau ^ { - }$ due to the large uncertainty. We also note that an excesses in $V b b$ channel was also observed by the CMS collaboration, but its value was below the expectations for a SM Higgs boson at 125 GeV. So we only consider the measurement of $V b b$ at Tevatron [4,7], which is $R _ { V b b } ^ { T e v } = 1 . 9 7 + 0 . 7 4 - 0 . 6 8$ ： For the observed Higgs boson with a mass of 125 -126 GeV, the best fits to the signal rates are given by [38-40] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { R _ { Z Z ^ { \\epsilon } } ^ { A T L A S } = 1 . 0 1 + 0 . 4 5 - 0 . 4 0 , ~ R _ { Z Z ^ { \\epsilon } } ^ { C M S } = 0 . 8 1 + 0 . 3 5 - 0 . 2 8 , ~ R _ { Z Z ^ { \\epsilon } } ^ { \\mathrm { c o m b i n e d } } = 0 . 8 8 \\pm 0 . 2 5 ; } \\\\ & { R _ { W W ^ { \\epsilon } } ^ { A T L A S } = 1 . 3 5 + 0 . 5 7 - 0 . 5 2 , ~ R _ { W W ^ { \\epsilon } } ^ { C M S } = 0 . 7 0 + 0 . 2 5 - 0 . 2 3 , ~ R _ { W W ^ { \\epsilon } } ^ { \\mathrm { c o m b i n e d } } = 0 . 8 0 \\pm 0 . 2 2 ; } \\\\ & { R _ { \\gamma \\gamma } ^ { A T L A S } = 1 . 7 7 + 0 . 4 1 - 0 . 3 8 , ~ R _ { \\gamma \\gamma } ^ { C M S } = 1 . 5 6 + 0 . 4 6 - 0 . 4 2 , ~ R _ { \\gamma \\gamma } ^ { \\mathrm { c o m b i n e d } } = 1 . 6 8 \\pm 0 . 2 9 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In our study, we require the theoretical predictions in our model to agree with the combined data at $1 \\sigma$ level. We note that very recently， the CMS collaboration has measured $h  Z \\gamma$ and set an upper limit on the production rate [30]. We also include this bound in our study. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the numerical calculations, we take the SM parameters as [41] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { t } = 1 7 5 \\mathrm { G e V } , m _ { Z } = 9 1 . 1 9 \\mathrm { G e V } , \\sin ^ { 2 } \\theta _ { W } = 0 . 2 2 2 8 , \\alpha = 1 / 1 2 8 .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We use the parton distribution function CTEQ6m [42] with renormalization scale and factorization scale $\\mu _ { R } = \\mu _ { F } = m _ { t }$ for $t \\bar { t }$ production. We scan the parameters in the following ranges ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\mathrm { 1 0 0 ~ G e V } < m _ { \\phi } < 5 0 0 ~ \\mathrm { G e V } , ~ 0 . 5 < f _ { u t } < 1 . 2 } } \\\\ { { \\mathrm { - 1 0 } < g _ { h \\phi \\phi } < 1 0 , ~ \\displaystyle - \\frac { \\pi } { 2 } < \\alpha < \\displaystyle \\frac { \\pi } { 2 } , ~ 5 < \\tan \\beta < 5 0 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Here the values of upper and lower bounds of $m _ { \\phi }$ and $f _ { u t }$ are set to satisfy the latest search for top+jet resonance at the LHC [34]. For the coupling $g _ { h \\phi \\phi }$ , we find it can be as large as ten without conflicting with the unitarity constraints [43]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1e8604126b22b04e455da058942fcda18288cc610c7b161974ad54086006275.jpg",
+        "img_caption": [
+            "FIG.1: The scatter plots of the parameter space allwed by the experimental constraints, projected on the planes of $g _ { h \\phi \\phi }$ versus $c _ { h } v v$ and $c _ { h b \\bar { b } }$ versus $c _ { h t \\bar { t } }$ . Here the couplings $c _ { h } v _ { V }$ ， $c _ { h b \\bar { b } }$ and $c _ { h t \\bar { t } }$ are normalized to the SM values. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In Fig.1, we project the samples that survive the experimental constraints (i)-(iv) on the planes of $g _ { h \\phi \\phi }$ versus $c _ { h } v v$ and $c _ { h b \\bar { b } }$ versus $c _ { h t \\bar { t } }$ . We see that the couplings $c _ { h } v V$ and $c _ { h t \\bar { t } }$ in our model are very close to their SM values, but $c _ { h b \\bar { b } }$ can be much larger than the SM value. This result is very different from the usual type-II THDM [44], where the diphoton rates are usually enhanced by reducing the $h b b$ coupling. It can also be seen that the samples with a positive $c _ { h b \\bar { b } }$ can allow for a smaller $c _ { h t \\bar { t } }$ . This is because the negative mixing angle $\\alpha$ can make the coupling of $c _ { h } v v$ larger and a small $c _ { h t \\bar { t } }$ can suppress the production of $g g  h$ to make $h \\to V V ^ { * }$ consistent with the LHC data. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "From Fig.1 we also see that the coupling $g _ { h \\phi \\phi }$ must be larger than 6.3 to meet the diphoton rates observed at the LHC. This can be understood from Fig.2, which shows the contribution of $W$ -loop, top-loop and diquark-loop to the amplitude of $h  \\gamma \\gamma$ and $h  Z \\gamma$ We can see that the diquark-loop contribution to the amplitude of $h  \\gamma \\gamma$ is constructive to the top-loop but destructive to the $W$ -loop.In order to enhance the diphoton rate,the diquark-loop should be dominant over the $W$ -loop.We also note that with the increase of the diquark-loop, the $W$ -loop and top-loop will be reduced by the couplings of $c _ { h } v v$ and （204号 $c _ { h t \\bar { t } }$ so as not to cause excessive production of $g g  h  V V$ at the LHC. For $h  Z \\gamma$ ， the diquark-loop has the same sign as the top-loop. But different from $h  \\gamma \\gamma$ ，the $W$ -loop contribution to the amplitude of $h  Z \\gamma$ is always dominant even for a large $g _ { h \\phi \\phi }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/296a7a80c32b92baaa8b4e2e484c6e2d2c1b6b0fea9f65528a24a5db6c9e9470.jpg",
+        "img_caption": [
+            "FIG. 2: Same as Fig.1, but showing the contribution of $W$ -loop,top-loop and diquark-loop to the amplitude of $h  \\gamma \\gamma$ and $h  Z \\gamma$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In Fig.3 we show the Higgs decay widths and their correlations. We can see that as the coupling $g _ { h \\phi \\phi }$ increases, $\\Gamma ( h  g g )$ and $\\Gamma ( h  \\gamma \\gamma )$ become large,which can maximally exceed the SM values by a factor of 12 and 3 respectively. But $\\Gamma ( h  Z \\gamma )$ decreases and drops to 30% of the SM value when $g _ { h \\phi \\phi }$ goes up. These features lead to the different correlation behaviors, as shown in the below panel of Fig.3. The reasons for these features are two folds. One is that for a large $g _ { h \\phi \\phi }$ the diquark-loop is dominant in the decays $h  \\gamma \\gamma$ （20 and $h  g g$ . Meanwhile, the sign of the diquark-loop is same as the top-loop so that it can greatly increase the width of $h  g g$ and $h  \\gamma \\gamma$ when $g _ { h \\phi \\phi }$ gets large. However, we should mention that the effect of a large $\\Gamma ( h  \\gamma \\gamma )$ on increasing the branch ratio $B r ( h  \\gamma \\gamma )$ is limited, because the main partial width of $\\Gamma ( h  b b )$ is also enhanced by a large $\\tan \\beta$ ： Therefore, in our model the feasible way to increase the diphoton rates is to enhance the cross section of $g g  h$ . The other reason is that unlike the case in $h  \\gamma \\gamma$ , the diquarkloop in $h  Z \\gamma$ can only cancel a small part of the contribution of $W$ -loop. Thus， as $g _ { h \\phi \\phi }$ （20 becomes large, the neat combined contribution to $h  Z \\gamma$ gets smaller in magnitude. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/293ba19692fae7cb42fb8cef7e7297f92d6edb17a5b1a35a168aea776ba4844f.jpg",
+        "img_caption": [
+            "FIG. 3: Same as Fig.1, but showing the widths of $\\Gamma ( h  \\gamma \\gamma )$ ， $\\Gamma ( h  g g )$ and $\\Gamma _ { Z \\gamma }$ normalized to the SM values. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Finally, in Fig.4 we show the results of $A _ { F B } ^ { t }$ at the Tevatron correlated with the LHC Higgs diphoton and $Z$ -photon signal rates. The recent top quark measurement at the Tevatron gives $A _ { F B } ^ { t } = 1 5 . 0 \\pm 5 . 5 \\%$ [3],which is larger than the SM prediction 0.056(7)[8]. Note that the diquark contributes to the $t t$ production through $u$ -channel and will distort the （204 $t t$ invariant mass distribution. The measurement of this $t t$ invariant mass distribution was performed by CDF [45] and ATLAS collaborations [46]. We require the new physics contribution in each bin to lie within the $2 \\sigma$ range of the experimental values. However, because the shape of such a distribution in the high energy tail is sensitive to the cut efficiency of event selection and also sensitive to QCD corrections, we also show the results without considering the constraints from this distribition. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "From Fig.4 we see that without the constraints of $m _ { t \\bar { t } }$ ， the prediction of $A _ { F B } ^ { t }$ at the Tevatron and the Higgs diphoton rate at the LHC can simultaneously lie in the $1 \\sigma$ ranges of the experimental values. We also note that the $Z \\gamma$ rate of the Higgs is suppressed, below the half value of the SM prediction. Therefore, the measurement of $Z \\gamma$ rate will be useful for the test of our model. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d0d67f9e8d692d73e62de6642edc9f1b84fdf9e6a0aca5a02ca84e9813751b5.jpg",
+        "img_caption": [
+            "FIG. 4: Same as Fig.1， but showing the results of $A _ { F B } ^ { t }$ at the Tevatron correlated with the LHC Higgs diphoton and $Z$ -photon signal rates. The bullts (blue) are the samples with the $m _ { t \\bar { t } }$ （20 constraints;while the times (green） are the samples without the $m _ { t \\bar { t } }$ constraints. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "IV.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this paper we studied the Higgs boson decays to $\\gamma \\gamma$ and $Z \\gamma$ and the top quark forwardbackward asymmetry in a two-Higgs-doublet model with a color-triplet scalar. We found that under the current experimental constraints from the Higgs data and the top quark measurements, such a model can explain at $1 \\sigma$ level the anomaly of the top quark forwardbackward asymmetry observed by the Tevatron and the diphoton enhancement of the Higgs boson observed by the LHC. We also checked the correlation between $h  \\gamma \\gamma$ ， $h  Z \\gamma$ （204 and ${ A _ { F B } }$ and found that the decay width of $h  Z \\gamma$ will be highly suppressed due to the cancelation between diquark-loop and $W$ -loop. Therefore, the future measurement of $h  Z \\gamma$ at the LHC will help to test our model. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We thank Prof. Junjie Cao for discussions. C. Han was supported by a visitor program of Henan Normal University, during which this work was finished. This work was supported in part by the National Natural Science Foundation of China under grant Nos. 11275245, 10821504 and 11135003,by the Project of Knowledge Innovation Program (PKIP) of Chinese Academy of Sciences under grant No. KJCX2.YW.W10. and by the Startup Foundation for Doctors of Henan Normal University under contract No.11112. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[8] J.H. Kühn et al.，Phys. Rev. D 59,054017 (1999)； M. T. Bowen et al.， Phys. Rev. D 73, 014008 (2006)； V. Ahrens et al.， JHEP 1009, 097 (2010)； arXiv:1106.6051；N. Kidonakis, arXiv:1105.5167. W. Bernreuther and Z. -G. Si, Nucl. Phys. B 837, 90 (2010); W. Holik and D. Pagani, arXiv:1107.2606.   \n[9] The Higgs diphoton rate can be enhanced in some popular SUSY models, see, e.g., M. Carena et al. JHEP 1203,014 (2012); JHEP 1207,175 (2012); J. Ca0 et al., JHEP 1210,079 (2012); JHEP 1203,086 (2012); Phys.Lett.B 710,665 (2012); Phys. Lett.B 703, 462 (2011); U. Ellwanger, JHEP 1203, 044 (2012); U. Ellwanger, C. Hugonie, arXiv:1203.5048; A. Arbey et al., JHEP 1209,107 (2012); K. Hagiwara, J.S.Lee, J. Nakamura, JHEP 1210,002 (2012); R. Benbrik et al.,arXiv:1207.1096; T. Cheng, arXiv:1207.6392; B. Kyae, J.-C. Park, arXiv:1207.3126; H. An, T. Liu, L.-T. Wang,arXiv:1207.2473; J. Ke et al., arXiv:1207.0990; G. Belanger et al., arXiv:1208.4952; M. Drees, arXiv:1210.6507; S. F. King et al., arXiv:1211.5074; K. Choi et al.,arXiv:1211.0875; M. Berg et al., arXiv:1212.5009; L. Aparicio et al., arXiv:1212.4808; C. Balazs, S. K. Gupta, arXiv:1212.1708; K. Cheung, C.-T. Lu, T.-C. Yuan,arXiv:1212.1288.   \n[10] M. Carena, I. Low and C. E. M. Wagner, JHEP 1208,060 (2012).   \n[11] A.Djouadi, Phys. Lett. B 435,101 (1998).   \n[12] A.G.Akeroyd and S. Moretti， Phys.Rev.D 86，035015 (2012)； A. Kobakhidze, arXiv:1208.5180.L. Wang and X. -F. Han, arXiv:1209.0376; M. Carena et al., arXiv:1211.6136; E. J. Chun et al.， JHEP 1211，106 (2012)； R. Sato et al.,Phys. Lett.B 716,441 (2012); W. -C. Huang and A. Urbano, arXiv:1212.1399； M. Chala, arXiv:1210.6208; I. Picek and B. Radovcic, arXiv:1210.6449; E. O. Itan, arXiv:1212.5695.   \n[13] A. Joglekar et al., arXiv:1207.4235; E. Bertuzzo et al.， arXiv:1209.6359; L. G. Almeida et al., JHEP 1211, 085 (2012); H. Davoudiasl et al.,arXiv:1211.3449; B. Batell et al.,arXiv:1211.2449; H. M. Lee et al.，arXiv:1209.1955；M. B. Voloshin， Phys.Rev.D 86,093016 (2012)；N. Bonne and G. Moreau, Phys. Lett. B717, 409 (2012)； S. Dawson and E. Furlan,Phys. Rev. D 86,015021 (2012); M. A. Ajaib, I. Gogoladze, Q. Shafi, arXiv:1207.7068; S. Dawson et al., arXiv:1210.6663.   \n[14] A.Alves et al.，Phys. Rev. D84，115004 (2011)； T. Abe，N. Chen and H. -J. He, arXiv:1207.4103.   \n[15] A. Urbano, arXiv:1208.5782.   \n[16] K. Hsieh and C.-P. Yuan, Phys. Rev. D78, 053006 (2008)； L. Wang and J. M. Yang, Phys. Rev. D84, 075024 (2011); J. Reuter and M. Tonini, arXiv:1212.5930.   \n[17] J. Cao et al., Phys.Rev. D 81, 014016 (2010). Q.-H. Cao et al., Phys. Rev. D81,114004 (2010); G. Rodrigo and P. Ferrario, Nuovo Cim. C 33,04 (2010); M.I. Gresham et al.,, Phys. Rev. D 83,114027 (2011); J. F. Kamenik, J. Shu and J. Zupan, arXiv:1107.5257; S. Westhoff, arXiv:1108.3341.   \n[18] P.Ferrario，G.Rodrigo，Phys.Rev.D 80，051701 (2009)； JHEP 1002，051 (2010); P. H. Frampton et al., Phys. Rev. D 683, 294 (2010); M. V. Martynov, A. D. Smirnov, Mod. Phys. Lett. A 25,2637 (2010); R. S. Chivukula et al., Phys. Rev. D 82, 094009 (2010); Y. Bai et al.,JHEP 1103, 003 (2011); A. Djouadi et al., Phys.Rev. D 82,071702 (2010); K. Kumar et al.,JHEP 1008,052 (2010); M. Bauer et al., JHEP 1011, 039 (2010)； J. Cao,L. Wu and J. M. Yang, Phys. Rev. D 83, 034024 (2011); B. Xiao et al.， arXiv:1011.0152; C. H. Chen et al.,Phys. Lett. B 694, 393 (2011); R. Foot, Phys.Rev. D 83,114013 (2011); A. Djouadi et al.,Phys. Lett.B 701, 458 (2011); R. Barcelo et al., arXiv:1105.3333; G. M. Tavares and M. Schmaltz, arXiv:1107.0978; E. Alvarez et al., arXiv:1107.1473; E. Gabrieli and M. Raidal, arXiv:1106.4553； G. Z. Krnjaic, arXiv:1109.0648； U. Haisch, S. Westhoff, JHEP 1108, 088 (2011); M. Cvetic et al., JHEP 1211, 064 (2012); S. S. Biswal et al.,arXiv:1211.4075; S. Dutta, A. Goyal and M. Kumar,arXiv:1209.3636; E. Gabrieli et al., arXiv:1212.3272; A. Falkowski et al.,arXiv:1212.4003; M. Baumgart and B. Tweedie, arXiv:1212.4888; D. Barducci, S. De Curtis,K. Mimasu and S. Moretti, arXiv:1212.5948 [hep-ph].   \n[19] S. Jung et al., Phys. Rev. D 81, 015004 (2010); Phys.Rev. D 83,114039 (2011). V. Barger et al.,Phys. Rev. D 81, 113009 (2010); Phys.Lett. B 698, 243 (2011); B. Bhattacherjee et al., Phys. Rev.D 83,091501 (2011); K. M. Patel and P. Sharma, JHEP 1104, 085 (2011); E.R. Barreto et al.， Phys. Rev. D 83, 054006 (2011)； arXiv:1104.1497; K. Blum et al., arXiv:1107.4350; M. I. Gresham et al., arXiv:1107.4364; N. Liu and L. Wu, Commun. Theor. Phys. 55, 296 (2011); Y. Cui et al., arXiv:1106.3086; M. Duraisamy, A. Rashed,A. Datta, arXiv:1106.5982; B. Grinstein et al., arXiv:1108.4027; M. Frank et al., arXiv:1108.0998; J. Cao et al.,Phys. Rev. D 84, 074001 (2011); Phys.Rev. D 85, 014025 (2012); E.L. Berger et al., Phys.Rev.Lett.106,201801 (2011); C. Han et al., Phys. Lett.B 714, 295 (2012); K. Yan et al., Phys. Rev. D 85,034020 (2012); L. Wang et al., Phys. Rev. D 85, 075017 (2012); S. Knapen et al.，Phys. Rev. D 86, 014013 (2012)； V. Barger et al.，Phys. Rev.D 85,034016 (2012); P. Ko,Y. Omura and C. Yu, arXiv:1205.0407; D. Dufty et al., Phys. Rev. D 85, 094027 (2012); L. Wang and X. -F. Han, JHEP 1205, 088 (2012)； E. Alvarez, Phys. Rev. D 86, 037501 (2012); M. Dahiya et al., arXiv:1206.5447; S. Y. Ayazi, arXiv:1207.0643; J. Adelman et al., arXiv:1206.5731; S. Fajfe et al., JHEP 1208,114 (2012); E. Alvarez and E. C. Leskow, Phys. Rev. D 86, 114034 (2012); B. Yang and N. Liu, arXiv:1210.5120; M. Gonzalez-Alonso and M. J. Ramsey-Musolf, arXiv:1211.4581; E. Gabrielli et al. arXiv:1212.3272; L. Basso et al.，JHEP 1209,024 (2012)；L. Basso et al.， JHEP 1209,024 (2012)；G. Belanger et al., arXiv:1212.3526.   \n[20] D.W. Jung et al.， Phys. Lett. B 691， 238 (2010)； arXiv:1012.0102； C. Zhang and S. Willenbrock， arXiv:1008.3869； J. A. Aguilar-Saavedra， Nucl. Phys. B 843， 638 (2011); Nucl.Phys.B 812，181 (2009)；C. Degrande et al.，arXiv:1010.6304；K. Blum et al., arXiv:1102.3133; C. Delaunay et al., arXiv:1103.2297; C. Degrande et al.， arXiv:1104.1798; J. A. Aguilar-Saavedra and M. Perez-Victoria, Phys. Lett.B 701, 93 (2011); D.Y. Shao et al, arXiv:1107.4012. S. S. Biswal et al., Phys. Rev. D 86, 014016 (2012); J. A. Aguilar-Saavedra et al., arXiv:1209.6352; J. Drobnak et al., Phys. Rev. D 86,054022 (2012); J. Drobnak et al., arXiv:1209.4872.   \n[21] J. Shu et al., Phys.Rev.D 81, 034012 (2010)； I. Dorsneret al., Phys.Rev. D 81, 055009 (2010)； A. Arhrib et al., Phys. Rev. D 82, 034034 (2010); Z. Ligeti et al., JHEP 1106,109 (2011); K. Hagiwara and J. Nakamura, arXiv:1205.5005; B. C. Allnach and K. Sridhar, Phys. Rev. D 86, 075016 (2012); G. Dupuis and J. M. Cline,arXiv:1206.1845.   \n[22] S. Chatrchyan et al. [CMS Collaboration], JHEP 1211 (2012) 067.   \n[23] [ATLAS Collaboration]，ATLAS-CONF-2012-096.   \n[24] I. Dorsner, S. Fajfer,A. Greljo and J. F. Kamenik,arXiv:12O8.1266.   \n[25] For a light stop in SUSY and its phenomenology at the LHC,see，e.g.，J. Cao et al., JHEP 1211,039 (2012)； M. R. Buckley and D. Hooper, Phys. Rev. D 86, 075008 (2012); J. R. Espinosa et al., arXiv:1207.7355; S. S. AbdusSalam and D. Choudhury, arXiv:1210.3331; R.T.D'Agnolo et al., arXiv:1212.1165; Z. Kang et al., arXiv:1208.2673; arXiv:1203.2336; X.-J. Bi, Q.-S. Yan, P.-F. Yin,arXiv:1111.2250; arXiv:1209.2703;arXiv:1211.2997.   \n[26] B. Holdom, Phys. Lett. B 703 (2011） 576.   \n[27] J. M. Cornwall, A. Kusenko, L. Pearce and R. D. Peccei, Phys. Lett. B 718 (2013) 951. A. Kusenko, V. Kuzmin and I. I. Tkachev,Phys.Lett. B 432 (1998) 361; G. F. Giudice and A. Kusenko, Phys.Lett. B 439(1998) 55.   \n[28] G. Chalons and F. Domingo, arXiv:1209.6235.   \n[29] D. Carmi, A. Falkowski, E. Kuflik, T. Volansky and J. Zupan, JHEP 1210,196 (2012).   \n[30] CMS Collaboration,CMS-PAS-HIG-12-049.   \n[31] CDF results from http://www-cdf.fnal.gov/； V. M. Abazov et. al. [DO Collaborations], arXiv:0903.5525.   \n[32] M.Beneke,P. Falgari, S.Klein, J. Piclum, C. Schwinn,M. Ubiali and F. Yan,arXiv:1208.5578.   \n[33] htp://www-cdf.fnal.gov/physics/new/top/confNotes/cdf10776_ttj.pdf   \n[34] ATLAS Collaboration,ATLAS-CONF-2012-096.   \n[35] CMS Collaboration, CMS-PAS-TOP-12-010.   \n[36] ATLAS Collaboration，ATLAS-CONF-2011-106.   \n[37] J.H. Kuhn and G. Rodrigo, JHEP 1201 (2012) 063.   \n[38] ATLAS Collaboration，ATLAS-CONF-2012-162;   \n[39] ATLAS Collaboration,ATLAS-CONF-2012-170;   \n[40] CMS Collaboration,CMS-HIG-12-045;   \n[41] C. Amsler et al., Particle Data Group,Phys. Lett.B 667,1 (2008).   \n[42] J. Pumplin et al., Phys. Rev. D 82, 074024 (2010).   \n[43] A. Arhrib,hep-ph/0012353; A. G. Akeroyd et al., Phys. Lett. B 490, 119 (2000).   \n[44] A.Drozd et al.， arXiv:1211.3580; G. Belangeret al.， arXiv:1212.5244;arXiv:1208.4952; P.M.Ferreiraet al.， arXiv:1211.3131； Phys. Rev. D 85,035020(2012)； Phys. Rev. D 85,077703(2012)； Phys. Rev. D 86,015022(2012)； S. Changet al.， arXiv:1210.3439； S. BarShalom et al.， arXiv:1208.3195； H. S. Cheon and S. K. Kang,arXiv:1207.1083； A. Arhrib et al. arXiv:1205.5536;Phys. Rev. D85,095021(2012)； C. -W. Chiang and K. Yagyu, arXiv:1207.1065； J. Chang et al.， arXiv:1206.5853； N. Chen and H. -J. He, JHEP 1204, 062 (2012).   \n[45] T. Aaltonen et al. [CDF Collaboration], Phys. Rev. Lett. 102, 222003 (2009).   \n[46] G. Aad et al. [ATLAS Collaboration], arXiv:1207.5644. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

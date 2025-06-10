@@ -1,0 +1,198 @@
+# 新疆天山遗产地居民对生态移民的感知及满意度研究
+
+王芳¹，栾福明¹，杨兆萍²，熊黑钢，韩芳²，时卉²，王昭国4（1丽水学院商学院,浙江丽水323000；2中国科学院新疆生态与地理研究所,新疆乌鲁木齐830011;3北京联合大学应用文理学院,北京100083；4 中山大学旅游学院,广东珠海519000)
+
+摘要：在遗产地生态移民能否实现生态保护、改善民生、旅游可持续发展的多赢是遗产研究者、决策者和居民共同关注的问题。通过问卷调查和深入访谈法对新疆天山的4个移民社区进行调研，从居民感知和满意度的角度评估移民效果。结果表明：(1）居民对经济、心理正面影响反对率高，社会影响感知存在分歧，环境正面影响赞成率高。生态环境保护成效明显，但居民收入、生活质量改善不大，社区归属感弱。（2）居民满意度偏低。（3）不同人口学特征、旅游依存度的居民感知及满意度存在显著差异。从事旅游业的居民收入和满意度最高，旅游富民作用和不足兼有。（4）与定居民族比，游牧民族在移民后生产生活方式变化更大。最后，提出改善居民经济条件，加强其知识、技能培训，社区赋权，完善生态补偿机制建议。
+
+关键词：遗产地；生态移民感知；居民满意度文章编号： 1000-6060(2019)03-0653-11(0653\~0663)
+
+世界遗产地内居民是遗产重要组成部分。旅游业作为一股外部力量介入，使得遗产保护与居民生存发展的矛盾更加明显，如何处理好这种矛盾是世界遗产地可持续发展的重要课题，生态移民是有效缓解这一矛盾的重要方式之一。生态移民是因环境破坏或为保护环境而发生的移民[1],是把位于生态脆弱区或重要生态功能区的人口向其他地区迁移，以保护和恢复生态环境、消除贫困、发展经济的实践活动[2]
+
+学者们对生态移民的研究也逐渐拓展，关注居民意愿和决策行为[3-6],对移民生活现状[3,7]、社会适应性[8]、家庭碳足迹[9]进行调查，探讨生态补偿标准和机制[10-11],并对移民后的满意度[12-14]、效益[15]、社区自然灾害的社会脆弱性[16]进行评价，进而提出生态移民后续发展对策[17-18]。其中,生态环境保护的意愿评价是全球关注的焦点，研究内主要包括：(1)保护意愿。如澳洲土地所有者参与保护计划的意愿取决于一系列复杂的社会因素以及他们从参与中获得的利益[19]。农业文化遗产地云南哈尼梯田农户对旅游总体上支持但对旅游发展总体满意度一般,对生态环境保护意愿积极[20]。宁夏移民的外出务工频率、对政府财政补贴和清真寺满意度对迁移意愿分别具有不同程度的显著影响[21]。问卷、访谈为相关研究的常用方法。（2）生态补偿。涉及生态补偿的政策[22]、意愿[23-24]、标准[25]、旅游生态补偿[26]等内容。结构方程模型、回归模型是常用方法。（3)支付意愿。其影响因素包括对生态系统服务功能的认知程度[27],对居住环境、环境政策和经济收入的满意度[28]、人口统计学特征[29]、环境态度、物种保护的道德动机[30]、对气候变化的认知[31]等。ROBERTS 等人评估荷兰博内尔岛居民的支付愿意来减少陆地上的过度放牧，其支付费用代表了陆地保护的一个重要资金来源，并说明了在生态系统边界上应用用户费用的潜力[32]。此类研究较多也较深入，研究区覆盖中国、欧洲国家、马来西亚[33]等,条件价值评估法、离散实验是常用方法。
+
+从居民感知或满意度角度探讨自然保护区生态移民的意愿也是学者常采用的研究视角，如关注三江源牧户参与草地生态保护的意愿[34]、玉龙雪山居民适应气候变化影响和生态移民的态度[35]、山江湖区农民参与生态建设后的“生态一经济”效应感知[36]、高黎贡山自然保护区民族村寨政策认知和意愿[37]等。而从居民感知、满意度角度开展的自然遗产地生态移民研究较少。已有研究仅限于武陵源和新疆三工河流域，如武陵源生态移民对居民的影响，不同基本背景的居民对生态移民影响的感知差异[38-40]、生态移民户与非移民户的生计对比研究[41],唐宏等人研究了新疆三工河流域农户的生态移民意愿及影响因素、移民前后农户生产生活和土地利用问题,评价了生态移民的效果[4,42-43],且这些研究关注遗产旅游较少。如何更好地实现遗产地生态保护、改善民生、旅游可持续发展的多赢是亟待解决的问题。综合考量居民感知和满意度提供了一个好的研究和反馈视角。
+
+新疆地处西北干旱区，生态环境脆弱。新疆天山作为新疆唯一的世界自然遗产地，其生态移民政策对保护遗产地生态环境和促进区域和谐发展至关重要，是生态移民典型区，尚需加大研究力度。因此本文选取新疆天山博格达片区的四个移民社区进行实证研究，探讨居民对生态移民的感知和满意度，旨在为新疆天山生态移民效果评估和政策制定提供科学依据，丰富世界自然遗产地生态移民的案例研究，为其他地区提供借鉴。
+
+# 1研究区概况和研究方法
+
+# 1.1 研究区概况
+
+新疆天山于2013年被列入世界自然遗产，包括4个片区。其中，博格达片区是发展旅游和生态移民较早的地区，具有典型性和代表性。博格达核心区面积为 $3 8 \ 7 3 9 \ \mathrm { h m } ^ { 2 }$ ,缓冲区面积 $4 1 ~ 5 4 7 ~ \mathrm { h m } ^ { 2 }$ ;位于中国新疆昌吉回族自治州阜康市和乌鲁木齐市，自然风景优美，民族风情浓郁，旅游业具有一定规模。为保护自然环境和达到旅游可持续发展要求，2005年当地政府开始综合整治，按照“宜农则农、宜游则游、宜牧则牧、宜工则工、养老保险”的原则，进行生态移民。2011年实施国家草原生态保护补助奖励机制,2012年对保护区草场全面禁牧。2015 年博格达主景区天池接待游客 $1 9 0 . 5 \times 1 0 ^ { 4 }$ 人,实现旅游收入 $1 2 . 8 5 \times 1 0 ^ { 8 }$ 元。
+
+# 1.2 研究方法
+
+1.2.1问卷设计调查目标是遗产地居民对生态移民影响感知和满意度。问卷包含两部分，第一部分是受访者人口学特征、旅游依存度;第二部分是生态移民感知(24项)和居民满意度(7项），其中生态移民感知分为经济影响（7项）、社会文化影响（8项）环境影响(4项）、心理影响(5项)4个维度。居民受到旅游发展和生态移民政策的双重影响，指标选取也侧重这两方面影响的考量。指标参考前人研究[44-47]并结合遗产地实际情况修订而成。每个指标采用李克特五级量表形式。该量表由一组陈述组成，每种陈述有“完全不同意”、“不同意”、“无所谓”、“同意”和“完全同意”五个回答，分别记为1，2,3,4,5。
+
+# 1.2.2抽样调查调查社区的选择原则王要是：
+
+(1)社区可进入性强;(2)移民集中性、行业典型性和差异性;(3)社区到遗产距离的差异性。本文选取缓冲区内靠近天池以旅游业为主的毡房公司①，缓冲区内以旅游业为主的阔克胡拉村，缓冲区外围以畜牧业为主的西台子，远离缓冲区以种植农业为主的柏斯胡木牧民定居点（图1）。它们到天池湖边的道路通行距离依次为0.94、18.00、24.64、65.00$\mathrm { k m }$ 。这四个社区绝大多数是哈萨克族原住民，原来分散在遗产地的三工河谷内，过着逐水草而居的游牧生活。移民时根据他们从事行业意愿的不同搬至目前社区定居。
+
+![](images/32bbec1d2f17178552461a5b6422ee3d53b8eed1565c36aa519133e17a21f70a.jpg)  
+图1博格达遗产地及调查样本区   
+Fig.1Location of Bogda heritage and sampling areas for survey
+
+在正式调研前进行了预调研，正式调研时间为2014年7月31日\~2014年8月16日。一户一份问卷，毡房公司共57户，收回有效问卷48份。阔克胡拉村共102户，因景区改造只有少部分毡房营业，收回有效问卷41份。西台子共177户，随机抽样收回有效问卷101份；柏斯胡木共349户，随机抽样收回有效问卷105份。四个社区共发放问卷310份，有效问卷295份，有效率为 $9 5 . 1 6 \%$ 。2014年7月26日\~2014年8月5日，对四个社区的居民37人、企业人员2人、天池管委会管理者2人进行深入访谈，获得样本共41份。访谈数据整理后用于佐证与解释定量分析结果。
+
+1.2.3数据分析用软件SPSS19.0分析数据。第一步，对问卷指标进行描述性统计分析。第二步，对问卷量表进行信度和效度检验，一般要求信度和效度系数达到0.7以上。生态移民影响和居民满意度量表的Cronbach'sAlpha信度系数分别为O.805和0.751，均大于0.7，效度检验时的KMO值分别为0.889和0.709，均大于0.7，且 $P < 0 . 0 0 1$ ,达到极显著水平，说明量表信度和效度较好。第三步，对经济影响、社会文化影响、环境影响、心理影响和居民满意度这五个维度分别进行因子分析，由各维度因子得分计算出每个维度的综合得分。第四步，以人口学特征为自变量，各维度综合得分为因变量，通过两独立样本 $T$ 检验和单因素方差分析，检验各维度在不同人口学特征上是否存在差异。
+
+# 2 结果分析
+
+# 2.1 样本描述
+
+从人口学特征来看，受访者多为男性 $( 7 0 . 2 \% )$ ），绝大部分是哈萨克族( $9 6 . 9 \%$ ),年龄在 $4 0 \sim 4 9$ 岁的受访者最多 $( 4 1 . 7 \% )$ );教育水平为小学的人数比例最大( $3 5 . 3 \%$ )，高中及以下占到 $9 3 . 3 \%$ ，可见居民文化水平偏低；超过一半的受访者家庭年收入处于 $0 \sim 2 0 0 0 0$ 元（ $5 8 \%$ ）， $8 6 . 8 \%$ 的家庭年收入在 $4 \times$ $1 0 ^ { 4 }$ 元以下,处于中低收入水平。
+
+旅游依存度是指旅游目的地居民对旅游的依存程度，包括“是否从事旅游业”、“家中旅游从业人数”、“旅游收入占家庭年收入的比重”三个指标。“从事旅游”的受访者最多 $( 3 9 . 7 \%$ ）。“家中有旅游从业人员”的受访者占到 $4 2 . 8 \%$ ，且以“家中旅游从业人数”在2\~3人的受访者比例最大( $2 0 \%$ 。$4 4 . 1 \%$ 的受访者家庭有旅游收入，其中“旅游收入占家庭年收入比重”在 $7 1 \% \sim 1 0 0 \%$ 范围内的高达$2 5 . 8 \%$ ，可见旅游业是遗产地附近移民的重要经济来源，甚至是一些家庭的全部经济来源（表1）。
+
+# 2.2生态移民感知和满意度分析
+
+2.2.1各维度分析（1）经济影响居民对正面经济影响感知反对率高，大部分居民认为移民后就业机会（ $7 3 . 2 \%$ )和个人收入（ $7 6 . 9 \%$ ）没增加，$4 8 . 8 \%$ 认为生活水平没提高。对负面经济影响感知赞成率高，认为经商意识增强、本地钱外流等（表2）。“以前哈萨克族认为经商是耻辱。现在禁牧，
+
+# 表1样本社会人口统计特征( $N = 2 9 5$ ）
+
+Tab.1 Details of sample sociodemographic   
+
+<html><body><table><tr><td colspan="6">characteristics(N=295)</td></tr><tr><td>项目</td><td>社会人口 统计特征</td><td>比例 /%</td><td>项目</td><td>社会人口 统计特征</td><td>比例</td></tr><tr><td>性别</td><td>男</td><td>70.2</td><td>家庭年收</td><td>0~20 000</td><td>/% 58.0</td></tr><tr><td></td><td>女</td><td>29.2</td><td>入/元</td><td>20 001~40 000</td><td>28.8</td></tr><tr><td></td><td>缺失</td><td>0.6</td><td></td><td>40 001~60 000</td><td>8.8</td></tr><tr><td></td><td>总计</td><td>100</td><td></td><td>60 001~80 000</td><td>1.7</td></tr><tr><td>年龄</td><td>18以下</td><td>1.7</td><td></td><td>80001~100 000</td><td>1.4</td></tr><tr><td></td><td>18~29</td><td>6.8</td><td></td><td>100 001~150 000</td><td>0.7</td></tr><tr><td></td><td>30~39</td><td>27.1</td><td></td><td>150 000 以上</td><td>0.3</td></tr><tr><td></td><td>40~49</td><td>41.7</td><td></td><td>缺失</td><td>0.3</td></tr><tr><td></td><td>50~59</td><td>16.6</td><td></td><td>总计</td><td>100</td></tr><tr><td></td><td>59以上</td><td>5.8</td><td>您目前从</td><td>旅游业</td><td>39.7</td></tr><tr><td></td><td>缺失</td><td>0.3</td><td>事的行业</td><td>畜牧业</td><td>23.0</td></tr><tr><td></td><td>总计</td><td>100</td><td></td><td>农业</td><td>24.4</td></tr><tr><td>民族</td><td>哈萨克族</td><td>96.9</td><td></td><td>其他</td><td>12.9</td></tr><tr><td></td><td>回族</td><td>1.7</td><td></td><td>总计</td><td>100</td></tr><tr><td></td><td>汉族</td><td>1.4</td><td>家中旅游</td><td>0</td><td></td></tr><tr><td></td><td>总计</td><td></td><td>从业人数</td><td></td><td>56.9</td></tr><tr><td>教育</td><td></td><td>100</td><td></td><td>1人</td><td>14.3</td></tr><tr><td>水平</td><td>没上过学</td><td>11.5</td><td></td><td>2~3人</td><td>20.0</td></tr><tr><td></td><td>小学</td><td>35.3</td><td></td><td>4~5人</td><td>6.8</td></tr><tr><td></td><td>初中</td><td>27.8</td><td></td><td>5人以上</td><td>1.7</td></tr><tr><td></td><td>高中(含中专) 大专</td><td>18.7</td><td></td><td>缺失</td><td>0.3</td></tr><tr><td></td><td></td><td>2.7</td><td></td><td>总计</td><td>100</td></tr><tr><td></td><td>本科及以上 缺失</td><td>3.7</td><td>旅游收入</td><td>0%</td><td>55.6</td></tr><tr><td></td><td></td><td>0.3</td><td>占家庭年</td><td>1~20%</td><td>15.2</td></tr><tr><td>社区</td><td>总计</td><td>100</td><td>收入的</td><td>21~50% 51~70%</td><td>2.4</td></tr><tr><td></td><td>毡房公司</td><td>16.3</td><td>比重</td><td>71 ~ 100%</td><td>0.7</td></tr><tr><td></td><td>阔克胡拉村</td><td>13.9</td><td></td><td></td><td>25.8</td></tr><tr><td></td><td>西台子村</td><td>34.2</td><td></td><td>缺失</td><td>0.3</td></tr><tr><td></td><td>柏斯胡木村</td><td>35.6</td><td></td><td>总计</td><td>100</td></tr><tr><td></td><td>总计</td><td>100</td><td></td><td></td><td></td></tr></table></body></html>
+
+吃羊要买，要花钱维持生活。游客到景区吃饭，若不收游客钱，自己则倒贴钱，所以逼迫着你去经商”，“居民这三年年年上访，认为西域公司①来了，自己挣不上钱"（访谈资料）。（2）社会文化影响在正面社会文化影响的四项指标中，居民对“基础设施更加完善”“社会福利更完善”的反对率高，众数均为1，说明多数居民觉得移民后社区基础设施和福利没多大改善。访谈发现“阔克胡拉村是山上引水不稳定，有的人家水电管线坏掉没有人维修。西台子常断水，路不好。柏斯胡木村水碱性大且常停水，2011年说建立水塔，每家交250元钱，但还未建成”。一般人赞同"旅游促进游客和居民文化交流”
+
+（204号 $( 5 7 . 9 \%$ ），“本民族生活方式改变了” $( 5 3 . 6 \%$ ），邻里和谐，治安良好。（3）环境影响一半多居民赞成“我的环境保护意识明显增强 $( 5 7 . 6 \%$ ）”和“自然生态环境得到有效保护 $5 4 . 2 \%$ ）”，众数均为5，居民对正面环境影响感知具有高度的强烈性和一致性;而对负面环境影响感知反对率高，众数均为2，说明多数居民未感到旅游景区拥挤。从均值来看，居民环境影响正面感知强于负面感知，环境保护工作取得一定成效。（4）心理影响大多数居民对正面心理影响感知反对率高，对负面心理影响赞成率高，可见居民社区归属感弱，不太喜欢现在的生活方式、遗产地发展使他们精神上感到不自由。访谈时牧民反映“哈萨克族以前过着无忧无虑的游牧生活，定居使得我们要处理方方面面的事情”，“不太愿意参与禁牧，以前是靠放羊生活，现在种地但地不会种”，“禁牧使得自己没有正常收入”；“这里搞旅游感觉没有好处，自己的亲戚不让随便进”，“每天$1 0 : 0 0 \sim 1 8 : 0 0$ 点自己车不让通行，买米、油等不方便，自己车因赶着进出景区也出过车祸”，阔克胡拉村阿肯①说“找不到以前那种许多人从远方赶来唱歌比赛的感觉，现在每天要随时唱给游客表演”。这说明牧民定居、禁牧、环境保护和旅游管理等多种因素让居民觉得遗产地管得严，精神不自由。
+
+表2博格达遗产地生态移民影响和居民满意度描述性统计分析  
+Tab.2Descriptive statistical analysis of ecological migration impactsand resident satisfaction of Bogda heri   
+
+<html><body><table><tr><td></td><td>平均值</td><td>众数</td><td>标准差</td><td>赞成率／%</td><td>中立率／%</td><td>反对率／%</td></tr><tr><td>经济影响</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>增加了就业机会</td><td>1.93</td><td>1</td><td>1.289</td><td>17.3</td><td>9.5</td><td>73.2</td></tr><tr><td>增加了个人收入</td><td>1.87</td><td>1</td><td>1.261</td><td>16.6</td><td>6.4</td><td>76.9</td></tr><tr><td>提高了生活水平</td><td>2.75</td><td>1.00a</td><td>1.472</td><td>43.4</td><td>7.8</td><td>48.8</td></tr><tr><td>我的商品经济意识增强</td><td>2.91</td><td>4</td><td>1.359</td><td>46.5</td><td>11.5</td><td>42.1</td></tr><tr><td>当地贫富差距拉大</td><td>3.27</td><td>2</td><td>1.415</td><td>45.5</td><td>12.9</td><td>41.7</td></tr><tr><td>本地的钱大部分被外地人赚走</td><td>3.28</td><td>5</td><td>1.431</td><td>44.8</td><td>18.3</td><td>36.9</td></tr><tr><td>当地物价上涨，居民的必要生活成本增加</td><td>3.23</td><td>2</td><td>1.400</td><td>48.5</td><td>11.2</td><td>40.4</td></tr><tr><td>社会文化影响</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>基础设施更加完善</td><td>2.68</td><td>1</td><td>1.518</td><td>33.9</td><td>8.8</td><td>57.3</td></tr><tr><td>社会福利更完善</td><td>2.26</td><td>1</td><td>1.472</td><td>30.9</td><td>9.5</td><td>59.6</td></tr><tr><td>对当地文化保护是一种激励</td><td>3.08</td><td>5</td><td>1.617</td><td>46.7</td><td>10.5</td><td>42.7</td></tr><tr><td>增加游客和居民文化交流</td><td>3.39</td><td>5</td><td>1. 644</td><td>57.9</td><td>8.8</td><td>33.2</td></tr><tr><td>本民族原来的生活方式改变了</td><td>3.13</td><td>1</td><td>1.615</td><td>53.6</td><td>8.5</td><td>37.9</td></tr><tr><td>旅游使邻里关系不如以前和谐</td><td>2.72</td><td>1</td><td>1.641</td><td>37.9</td><td>10.8</td><td>51.1</td></tr><tr><td>本地优良传统受到冲击</td><td>3.11</td><td>2.00a</td><td>1.509</td><td>47.8</td><td>7.1</td><td>45.1</td></tr><tr><td>当地犯罪率上升</td><td>2.58</td><td>1</td><td>1.710</td><td>33.2</td><td>5.1</td><td>61.7</td></tr><tr><td>环境影响</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>我的环境保护意识明显增强</td><td>3.38</td><td>5</td><td>1.657</td><td>57.6</td><td>7.5</td><td>34.9</td></tr><tr><td>自然生态环境得到有效保护</td><td>3.28</td><td>5</td><td>1.586</td><td>54.2</td><td>8.5</td><td>37.3</td></tr><tr><td>旅游者大量涌入造成景区拥挤</td><td>2.62</td><td>2</td><td>1.314</td><td>31.6</td><td>14.2</td><td>54.2</td></tr><tr><td>环境污染增加</td><td>3.01</td><td>2</td><td>1.483</td><td>43.7</td><td>9.8</td><td>46.5</td></tr><tr><td>心理影响</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>我对这个社区有强烈的归属感</td><td>2.48</td><td>1</td><td>1.726</td><td>32.2</td><td>8.1</td><td>59.6</td></tr><tr><td>住在这个社区对我意义重大</td><td>2.43</td><td>1</td><td>1.660</td><td>32.5</td><td>4.4</td><td>63.1</td></tr><tr><td>相比其他社区我喜欢住在这个社区</td><td>2.46</td><td>1</td><td>1.647</td><td>32.9</td><td>6.8</td><td>60.3</td></tr><tr><td>我不喜欢现在的生活方式</td><td>3.86</td><td>5</td><td>1.459</td><td>70.2</td><td>5.4</td><td>24.4</td></tr><tr><td>遗产地发展使我精神上感到不自由</td><td>3.75</td><td>5</td><td>1.513</td><td>63.4</td><td>12.9</td><td>23.8</td></tr><tr><td>居民满意度</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>我对景区旅游发展现状感到满意</td><td>1.92</td><td>1</td><td>1.291</td><td>18.7</td><td>8.1</td><td>73.2</td></tr><tr><td>我对目前收入感到满意</td><td>1.67</td><td>1</td><td>0.991</td><td>9.2</td><td>5.4</td><td>85.5</td></tr><tr><td>我对目前职业感到满意</td><td>1.95</td><td>1</td><td>1.277</td><td>17.0</td><td>7.8</td><td>75.2</td></tr><tr><td>我对社会福利感到满意</td><td>2.08</td><td>1</td><td>1.376</td><td>27.5</td><td>7.5</td><td>65.0</td></tr><tr><td>我对技能和职业培训感到满意</td><td>2.60</td><td>1</td><td>1.415</td><td>37.9</td><td>14.9</td><td>47.1</td></tr><tr><td>我对环境感到满意</td><td>2.42</td><td>1</td><td>1.622</td><td>33.5</td><td>7.1</td><td>59.4</td></tr><tr><td>我对社区的医疗条件感到满意</td><td>2.08</td><td>1</td><td>1.396</td><td>26.7</td><td>6.8</td><td>66.5</td></tr></table></body></html>
+
+注：赞成率为"非常同意"和"比较同意"之和,反对率为"非常不同意"和"比较不同意"之和;a表示多个众数存在，只显示了最小的众数
+
+(5）居民满意度对收入、职业、旅游现状、福利、环境、医疗、培训等指标赞成率均低于反对率，众数均为1，说明居民满意度偏低。超过 $70 \%$ 的居民对旅游发展现状、收入和目前职业不满意，平均值均小于2，对目前收入的满意度最低 $( 9 . 2 \%$ ）。 $3 7 . 9 \%$ 的受访者对社区的技能和职业培训感到满意，赞成率稍高于其他指标。访谈发现存在牧民医疗和养老保险额度和覆盖率低，就医不便，景区周围企业和游
+
+船污染等问题。
+
+2.2.2差异分析 (1)人口学特征差异女性比男性有更强的生态移民经济、社会文化、环境影响感知和更高的居民满意度。30岁以下居民比30岁以上居民有更强的社会文化影响、环境影响感知和更高的满意度。教育水平在高中及以上的居民一般比高中以下居民有更强的经济、环境、心理影响感知和更高的满意度。家庭年收入在 $4 \times 1 0 ^ { 4 }$ 元以上的居民比 $4 \times { 1 0 } ^ { 4 }$ 元以下的居民有更强的经济影响、社会文化影响、心理影响感知和更高的满意度。可见，低满意度人群主要集中在 $3 0 \sim 6 0$ 岁、低收入、初中及以下的男性。居民的经济影响感知和满意度随着家庭年收入增加而增强，说明提高收入对提高满意度有直接正向影响（表3）。（2）旅游依存度差异旅游依存度三个指标在生态移民影响和满意度上均存在显著差异（表4）。从事旅游业的居民对经济影响、心理影响感知更强。从事农业的居民对社会文化、环境影响感知更强，这与他们从森林葱郁的河谷地放牧搬到绿洲与荒漠交界处的柏斯胡木种地有关。居民满意度按照“旅游业一农业一畜牧业一其他行业”顺序依次降低（表4)。而家庭年收入也有同样现象（图2），印证了收人与满意度呈正相关关系。收入较低的畜牧业和其他行业居民主要分布在西台子和柏斯胡木（图3）。
+
+表3博格达遗产地生态移民影响和居民满意度在人口学特征上的差异  
+Tab.3Ecological migration impacts and resident satisfaction variances on demographic characteristi   
+  
+
+<html><body><table><tr><td colspan="2">项目</td><td>经济影响</td><td>社会文化影响</td><td>环境影响</td><td>心理影响</td><td>居民满意度</td></tr><tr><td>性别</td><td>男</td><td>-0.05</td><td>-0.08</td><td>-0.08</td><td></td><td>-0.09</td></tr><tr><td></td><td>女</td><td>0.14</td><td>0.19</td><td>0.19</td><td></td><td>0.21</td></tr><tr><td></td><td>t值和显著性水平</td><td>-3.615***</td><td>-5.683 ***</td><td>-3.937***</td><td></td><td>-5.218***</td></tr><tr><td>年龄</td><td>18以下</td><td></td><td>0.27</td><td>0.18</td><td></td><td>0.62</td></tr><tr><td></td><td>18~29</td><td></td><td>0.29</td><td>0.37</td><td></td><td>0.33</td></tr><tr><td></td><td>30~39</td><td></td><td>-0.11</td><td>-0.14</td><td></td><td>-0.06</td></tr><tr><td></td><td>40~49</td><td></td><td>0.00</td><td>0.00</td><td></td><td>-0.06</td></tr><tr><td></td><td>50~59</td><td></td><td>0.04</td><td>0.02</td><td></td><td>0.02</td></tr><tr><td></td><td>59以上</td><td></td><td>-0.03</td><td>0.09</td><td></td><td>0.08</td></tr><tr><td></td><td>F值和显著性水平</td><td></td><td>3.559 **</td><td>2.596 *</td><td></td><td>4.856 ***</td></tr><tr><td>教育水平</td><td>没上过学</td><td>-0.17</td><td></td><td>-0.23</td><td>-0.23</td><td>-0.16</td></tr><tr><td></td><td>小学</td><td>-0.04</td><td></td><td>0.05</td><td>-0.19</td><td>-0.07</td></tr><tr><td></td><td>初中</td><td>-0.07</td><td></td><td>-0.13</td><td>-0.01</td><td>-0.03</td></tr><tr><td></td><td>高中(含中专)</td><td>0.19</td><td></td><td>0.17</td><td>0.43</td><td>0.23</td></tr><tr><td></td><td>大专</td><td>0.22</td><td></td><td>0.12</td><td>-0.03</td><td>0.12</td></tr><tr><td></td><td>本科及以上</td><td>0.23</td><td></td><td>0.27</td><td>0.53</td><td>0.18</td></tr><tr><td></td><td>F值和显著性水平</td><td>4.940***</td><td></td><td>3.388***</td><td>12.465***</td><td>4.772***</td></tr><tr><td>家庭年收入／元</td><td>0~20 000</td><td>-0.02</td><td>-0.03</td><td></td><td>-0.10</td><td>-0.10</td></tr><tr><td></td><td>20 001~40 000</td><td>-0.09</td><td>-0.04</td><td></td><td>-0.04</td><td>-0.02</td></tr><tr><td></td><td>40001~60000</td><td>0.16</td><td>0.14</td><td></td><td>0.39</td><td>0.37</td></tr><tr><td></td><td>60 001~80 000</td><td>0.19</td><td>0.32</td><td></td><td>0.56</td><td>0.60</td></tr><tr><td></td><td>80 001~10 000</td><td>0.53</td><td>0.25</td><td></td><td>0.96</td><td>0.67</td></tr><tr><td></td><td>100 001~150 000</td><td>0.78</td><td>0.51</td><td></td><td>0.80</td><td>0.84</td></tr><tr><td></td><td>150 000以上</td><td>0.78</td><td>0.48</td><td></td><td>0.78</td><td>0.83</td></tr><tr><td></td><td>F值和显著性水平</td><td>4.181***</td><td>2.158 *</td><td></td><td>6.594***</td><td>9.995***</td></tr></table></body></html>
+
+注 ${ \mathrm { ; ~ } } \ast P \leqslant 0 . 0 5 { \mathrm { , ~ } } \ast \ast P \leqslant 0 . 0 1 { \mathrm { , ~ } } \ast \ast \ast P \leqslant 0 . 0 0 1$
+
+家中旅游从业人数在2人及以上的居民普遍比其他居民，以及旅游收入占家庭年收入比重在 $20 \%$ 以上的居民比其他居民有更强烈的生态移民经济影响、社会文化影响、环境影响、心理影响感知和更高的居民满意度。在涉旅家庭中，随着家中旅游从业人数、旅游收入占家庭年收入的比重的增加，经济影响感知也越强;而满意度却先上升后下降，并在旅游收入占家庭年收入的比重为‘ $5 1 \% \sim 7 0 \%$ ”时达到最高，说明居民希望旅游是家庭的主要而非唯一经济来源(表4）。
+
+# 3结论
+
+本文研究了遗产地4个哈萨克族社区居民对生态移民的感知和居民满意度，有助于评价生态移民的效果，了解旅游业发挥的作用，为后续移民政策制定提供参考和指导。
+
+表4生态移民影响和居民满意度在旅游依存度上的差异  
+Tab.4Ecological migration impacts and resident satisfaction variances on tourism dependence   
+
+<html><body><table><tr><td colspan="2">项目</td><td>经济影响</td><td>社会文化影响</td><td>环境影响</td><td>心理影响</td><td>居民满意度</td></tr><tr><td rowspan="5">您目前从事的行业</td><td>旅游业</td><td>0.11</td><td>0.00</td><td>-0.02</td><td>0.48</td><td>0.15</td></tr><tr><td>畜牧业</td><td>-0.09</td><td>-0.04</td><td>-0.09</td><td>-0.22</td><td>-0.12</td></tr><tr><td>农业</td><td>-0.06</td><td>0.17</td><td>0.24</td><td>-0.44</td><td>0.00</td></tr><tr><td>其他</td><td>-0.08</td><td>-0.25</td><td>-0.25</td><td>-0.26</td><td>-0.25</td></tr><tr><td>F 值和显著性水平</td><td>4.599 **</td><td>9.278 ***</td><td>7.069***</td><td>75.991***</td><td>10.327***</td></tr><tr><td rowspan="5">家中旅游从业人数</td><td>0</td><td>-0.07</td><td>0.00</td><td>0.00</td><td>-0.34</td><td>-0.10</td></tr><tr><td>1人</td><td>-0.29</td><td>-0.34</td><td>-0.48</td><td>0.12</td><td>-0.32</td></tr><tr><td>2~3人</td><td>0.24</td><td>0.16</td><td>0.23</td><td>0.54</td><td>0.32</td></tr><tr><td>4~5人</td><td>0.36</td><td>0.26</td><td>0.18</td><td>0.71</td><td>0.46</td></tr><tr><td>5人以上</td><td>0.43</td><td>-0.02</td><td>0.46</td><td>0.92</td><td>0.40</td></tr><tr><td rowspan="6">旅游收入占家庭年收入的比重</td><td>F值和显著性水平</td><td>17.862 ***</td><td>12.388***</td><td>11.420***</td><td>68.546***</td><td>26.401***</td></tr><tr><td>0%</td><td>-0.06</td><td>0.02</td><td>0.02</td><td>-0.33</td><td>-0.08</td></tr><tr><td>1% ~20%</td><td>-0.40</td><td>-0.45</td><td>-0.55</td><td>-0.08</td><td>-0.35</td></tr><tr><td>21%~50%</td><td>0.15</td><td>0.18</td><td>0.11</td><td>0.20</td><td>0.21</td></tr><tr><td>51% ~70% 71% ~100%</td><td>0.16</td><td>0.25</td><td>0.44</td><td>0.16</td><td>0.71</td></tr><tr><td></td><td>0.34</td><td>0.21</td><td>0.26</td><td>0.73</td><td>0.35</td></tr><tr><td></td><td>F值和显著性水平</td><td>30.008 ***</td><td>22.632***</td><td>16.082***</td><td>93.032***</td><td>27.062***</td></tr></table></body></html>
+
+注： $* * P { \leqslant } 0 . 0 1 , * * * P { \leqslant } 0 . 0 0 1$
+
+![](images/b85974e58037e4121bdcdd8fb65b88af92ec6018af6049003350aa95061ddc61.jpg)  
+图2禁牧后不同行业家庭年收入得分均值对比图 Fig.2Contrast figure for scores of annual houshold income between different industries after banning grazing
+
+![](images/c6a9c907a58add54156cf8d5c1c1798967a683158fdde8f07d3cada8224f5abd.jpg)  
+图3不同社区居民从事行业比较 Fig.3Comparison of the industry engaged of residents between different communities
+
+（1）游牧民族与定居民族的移民差异博格达移民对环境正面影响比较认可，而对经济、社会文化、心理正面影响评价和居民满意度偏低。横向空间对比来看,这与武陵源[39-40]、陕西宏大村[48]的研究存在差异，武陵源和宏大村居民都对经济影响感知存在分歧，对社会文化、心理、环境正面影响比较认可，对生态移民总体持肯定和支持态度。原因可能是武陵源土家族和宏大村汉族是定居民族，移民后生产生活方式基本不变，而博格达移民主要是游牧民族哈萨克族，从游牧变定居，由草原放牧转向旅游业、农业、圈养畜牧业等，生产生活方式变化较大。尤其在移民后多数居民家庭收入、就业、福利状况未改善、基础设施不健全、遗产地管得严的情况下，负面感知就更加强烈， $7 0 . 2 \%$ 的受访居民不喜欢现在的生活方式。所以，对游牧民族生态移民时，当地政府应考虑其移民前后生产生活方式强烈的差异性，“因人制宜”制定更有针对性的政策，而非照搬定居民族的移民经验。
+
+（2）偏低的满意度唐宏等人对柏斯胡木定居点2004年、2009年移民情况研究得出移民工程对河谷内生态环境改善作用显著，居民收入降低，生产生活条件评价较低[4.42-43]。本研究也调研了柏斯胡木,通过纵向时间对比看,2005年开始生态移民直到2014年，环保工作成效明显，禁牧使移民家庭收入来源进一步缩小，收入、生活质量改善不大，总体满意度仍偏低。满意度偏低原因： $\textcircled{1}$ 生计单一。2005 年移民时，可选择旅游业、农业、畜牧业中的一种行业，兼营放牧。禁牧后移民少了一项收入来源，只能从事一种行业，且旅游不稳定、畜牧业成本高、耕地盐碱大等问题造成收入减少、生活困难。 $\textcircled{2}$ 文化技能水平低。高中及以下占 $9 3 . 3 \%$ ,在管委会和西域公司工作的哈萨克族人较少。 $\textcircled{3}$ 补贴低或未兑现。访谈时牧民普遍反映草场补助水平低，认为“草场每亩补助50元，太少了”，“本来该给孩子的600元教育补贴没有给”，“这两年草场补助未给”等,这些关于“提高补贴、兑现补贴”的强烈诉求说明他们对政府补贴有很强的依赖性[21],也反映出某些政府官员工作不到位、移民补贴资金缺乏等现象。$\textcircled{4}$ 基础设施、医疗等条件差。西台子和柏斯胡木居民反映经常断水且水碱性比较大。除柏斯胡木有外,其他三个村没有医院和学校,居民就医、小孩上
+
+学不便。
+
+（3）旅游富民作用与不足差异分析显示不同旅游依存度的居民满意度存在显著差异。从事旅游业的居民家庭收入和满意度最高。可见，相比农业种植、圈养畜牧业和其他行业，旅游富民作用最强。毡房公司是居民自己组建的股份公司。阔克胡拉村由西域公司管理,2014—2025年间安排每家1人就业,对村中自主经营户给 $1 . 3 \times 1 0 ^ { 4 } \cdot { { \mathrm a } ^ { - 1 } }$ ,对租赁经营户给 $2 . 6 \times 1 0 ^ { 4 } \cdot { { \mathrm a } } ^ { - 1 }$ 。这两种模式是旅游生态补偿市场化机制的有益探索。旅游生态补偿的目的在于将旅游资源开发活动产生的外部成本转化为对利益相关者的经济激励，以调和旅游业发展与生态保护之间的矛盾[26]。天池管委会和西域公司对这两个旅游村的基础设施、环境治理、村民培训等投入很多，阔克胡拉村景区的70元门票收入和摊位租赁费也都给村里合作社统一管理分配，算是给村民的补助。
+
+但博格达在旅游发展过程中也存在一些不足，包括： $\textcircled{1}$ 行业不稳定。旅游业有淡旺季明显、敏感性（调研年受新疆七五事件、旅游法出台、禁止公款消费影响)等特点，居民旅游收入不稳定。 $\textcircled{2}$ 就业机会有限。移民人数较多，只有家中有年轻人的可以经营旅游。 $\textcircled{3}$ 旅游参与水平低。访谈资料显示“管委会有几百人，其中当地居民20多人”，西域公司给村民安排的工作有婚俗表演、刺绣，民族特色服装照相，迎宾、售票员等，工资多为 $1 \ 0 0 0 \sim 2 \ 0 0 0$ 多元。可见参与人数少且多为一线服务岗位。 $\textcircled{4}$ 居民主体缺位。居民在旅游发展中没有决策权，访谈得知“这么多年来天池景区在建重大项目时并没有征求居民的意见”，居民主体缺位会导致利益（如就业、资金)分配的劣势。 $4 4 . 8 \%$ 的人认为“本地的钱大部分被外地人赚走”。
+
+# 4建议
+
+遗产地生态移民是为了保护环境，提高居民生活水平。居民迁得出，还需要稳得住，较低的满意度不利于移民社区的稳定和后续移民政策的实行。为了提高居民满意度，应考虑如下措施：
+
+（1）改善居民经济条件影响移民满意度的第一主因子为经济条件相关因子[14]。 $\textcircled{1}$ 增加就业。政府、管委会或旅游企业等为当地居民多提供就业机会，使居民就地就近工作，出台优惠政策吸引受过高等教育的本地年轻人就业。 $\textcircled{2}$ 生计多元。拓展收入来源渠道，即使一项生计来源不稳定，至少还有另一项收入来源保障家庭基本生活。 $\textcircled{3}$ 适度放牧。遗产地内干草易着火且存在打草成本，畜牧业存在用草成本，可探讨“羊进入遗产地吃草”的管理和技术问题，如冬天羊上山吃掉当年老草，节约管理者和牧民双方成本。也可发展景观畜牧业，放养羊等牲畜为自然景观增添动感和灵性。
+
+（2）加强知识和技能培训管委会、当地政府和西域公司可从行业知识、技能、汉语等方面开展培训,尤其是针对分布在西台子和柏斯胡木的 $3 0 \sim 6 0$ 岁、低收入、高中以下、从事畜牧业和其他行业的男性低满意度人群。居民还应转变思想，变“向政府要钱”为“提高自身素质挣钱”。
+
+（3）社区赋权旅游发展中居民主体边缘化会导致利益分配不公平等不和谐因素，妨碍旅游可持续发展。孙九霞认为赋权是一个建立意识、增强能力和发展技能，通向更多参与、更加平等、更大影响的行动过程，相对边缘化的农村社区缺乏实现自我利益主张的权利和能力,需要社区赋权来解决[49]通过经济、政治、社会、心理四个方面的赋权，可以增加居民权利，提高旅游参与水平，使其就业和经济利益分配最大化，减少经济漏损。
+
+（4）完善生态补偿机制生态补偿是贫困减缓的重要机制，在生态保护行为意愿和福祉损失的基础上制定生态补偿标准，关注农牧民生计，引导实现主动参与式保护，构建科学的生态补偿机制才能实现生态保护一人类福祉提高一可持续发展的多赢[25]。居民"希望在生存没问题的情况下保护,希望保护的同时有些好处”，可见，生态补偿政策对居民生态保护意愿和行为的激励效应还较小，有待进一步挖掘[22]。政府应进一步完善生态补偿机制,务实工作兑现承诺以提高公信力，严格监管资金流向，加大移民资金扶持力度。
+
+（5）降低心理和社会文化负面感知加强基础设施建设，解决社区常停水问题，改善路况等。提高福利水平，扩大保险覆盖面和提高医疗、养老金补助额，增加社区医疗设施和医生。增强社区归属感，社区建设融人民族文化，如房屋装饰尽量采用民族元素，鼓励民族非遗传承，不定期举办民族传统活动。制定更人性化的遗产管理措施，提高居民出入遗产地自由度，如简化居民乘区间车、亲戚出入景区手续等。
+
+# 参考文献(References)
+
+[1]税伟，徐国伟，兰肖雄，等.生态移民国外研究进展[J].世界地理研究,2012,21(1）:150-157.[SHUI Wei,XU Guowei,LANXiaoxiong,et al.A review of study on ecological migrant[J].WorldRegional Studies,2012,21（1） :150-157.]
+
+[2］陈静梅.国内生态移民研究述评（1990—2014）［J].贵州师范大学学报（社会科学版）,2015,（3）:94-101.[CHEN Jingmei.A review of research on domestic ecological migrant Chinese eco-system emigrant(1990—2014)[J]. Journal of Guizhou Normal U-niversity（Social Science）,2015,（3）:94-101.]  
+[3]ROWLES G D,WATKINS JF.Elderly migration and developmentin small communities[J].Growth & Change,1993.24（4）:509 -538.  
+[4］唐宏,张新焕,杨德刚.农户生态移民意愿及影响因素研究-基于新疆三工河流域的农户调查[J].自然资源学报,2011,26（10）:1658- 1669.[TANG Hong,ZHANG Xinhuan,YANG De-gang,et al.Study on ecoiogicai migration wilingness and its affect-ing factors:A case of Sangonghe River watershed,Xinjiang[J].Journal of Natural Resource,2011,26(10） :1658 -1669.]  
+[5]时鹏,余劲,加贺爪优,等.基于农户视角的生态移民搬迁意愿及影响因素探析［J].中国水土保持,2012（11）：7-9.[SHIPeng,YU Jin,JIAHE Zhuayou,etal.Ananalysis ofthe willingnessof ecological migrationanditsinfluencing factors fromtheperspective of farmers[J].Soil and Water Conservation in China,2012,(11):7-9.]  
+[6］时鹏,余劲.农户生态移民意愿及影响因素研究——以陕西省安康市为例[J].中国农业大学学报,2013,18（1）:218-228.[SHI Peng,YU Jin. Study on ecological migration willingness andits influencing factors:A case of Ankang,Shaanxi[J].Journal ofChina Agricultural University,2013,18（1）:218 -228.]  
+[7］张荣飞,王建力,李昌晓,等.基于PRA方法调查的农户对生态移民现状的反馈——以宁夏黄河流域五堆子第一安置点为例[J].重庆师范大学学报（自然科学版），2013,30（4）：157－164.[ZHANG Rongfei,Wang Jianli,Li Changxiao,et al.Farmers’feedback on current situation about Ningxia ecological immigrationbased on the method of PRA: The first relocation site in NingxiaYellow River Valley’s Wuduizi asan Example[J]. Journal ofChongqing Normal University（Natural Science）,2O13,30（4）：157 - 164. ]  
+[8]任善英,朱广印,王艳,等.牧区生态移民社会适应研究述评[J].生态经济,2014,30（9）:96-99.［REN Shanying,ZHUGuanyin,WANG Yan,et al.Review on the studies of the adaptabil-ity in the pastoral ecological emigrants society[J].Ecological E-conomy,2014,30(9） :96-99.]  
+[9］邓慧丽,苗红,孔云霄,等.宁夏生态移民家庭碳足迹调查与影响因素研究[J].水土保持研究,2016,23（4）：154－160.[DENG Huili,MIAO Hong,KONG Yunxiao,et al. Research oncarbon footprint of ecomigration family and its influence factors inNingxia[J].Research of Soil and Water Conservation,2016,23(4) :154 -160.]  
+[10］李屹峰,罗玉珠,郑华,等.青海省三江源自然保护区生态移民补偿标准[J].生态学报,2013,33（3）：764－770.[LI Yifeng，
+
+LUOYuzhu,ZHENG Hua,et al.Standard of payments for ecosystem services in Sanjiangyuan Natural Reserve[J].Acta Ecologica Sinica,2013,33（3):764-770.]
+
+[11］刘红.三江源生态移民补偿机制与政策研究［J].中南民族大学学报（人文社会科学版）,2013,33（6)：101-105.［LIUHong.Study on compensation mechanism and policy of ecologicalmigration in Sanjiangyuan[J]. Journal of South-Central Universityfor Nationalities（Humanities and Social Sciences）,2O13,33（6）：101-105.]
+
+[12］张越，李双奎，夏淼，等.生态移民工程中的移民满意度实证研究——以宁夏泾灵新村为例[J].宁夏社会科学，2014，（5）：54-61.[ZHANG Yue,LI Shuangkui,XIA Miao,et al.An empiri-cal study on the resettlement satisfaction in ecological resettlementproject:A case study of Mingzhong Village of Zhongwei City inNingxia[J].Social Sciences in Ningxia,2014,（5）:54-61.]
+
+[13］张伟，张爱国.生态移民后农业生产变化情况及满意度研 究——以宁夏中卫市鸣钟村为例[J].安徽农业大学学报（社 会科学版）,2016,25（4）:25-29.［ZHANGWei,ZHANG Aiguo.Change of agricultural production and people's satisfaction after ecological migration:Taking the Mingzhong Village of Zhongwei Cityin Ningxia as an example[J].Journal of Anhui Agricultural University(Social Sciences Edition）,2016,25(4）:25-29.]
+
+[14］杨永梅,郭志林，洪荣昌，卓玛措.基于因子分析的格尔木市郊工程移民满意度评价[J].干旱区资源与环境，2013，27（9）：38-43.[YANG Yongmei,GUO Zhilin,HONG Rongchang,et al.Satisfaction evaluation on the engineering immigrants in Golmudsuburban based on factor analysisJ」.Journal of Arid Land Re-sourcesandEnvironment,2013,27（9）:38-43.
+
+[15］闫喜凤,林强.大小兴安岭森林生态功能区生态移民效益评价 研究——以伊春市美溪区为例[J].黑龙江环境通报，2014，38 (2）:20-22.[YAN Xifeng,LIN Qiang.Research on benefits of eco-emigration of forest ecological function area on Daxingan Mountain andXiaoxingan Mountain:With MeixiDistrict of Yichun City as example[J].Heilongjiang Environmental Journal,2014,38 (2):20 -22.]
+
+[16］薛晨浩，邓慧丽，苗红，等.TOPSIS视角下西北生态移民社区自然灾害社会脆弱性评价—以宁夏为例[J].开发研究，2016，183（2）:90-94.[XUE Chenhao,DENG Huili,MIAO Hong,etal.From the perspective of TOPSIS，social vulnerability assessmentof natural disasters in northwest ecological immigrant communities :A case study of Ningxia[J].Development Research,2O16,183(2):90-94.]
+
+[17］张丽君，王菲.中国西部牧区生态移民后续发展对策探析[J].中央民族大学学报（哲学社会科学版），2011，38（4）：31-36.[ZHANGLijun,WANG Fei.A probe into the developmental coun-termeasure after ecological migration in the western pasturing re-gion of China[J].Journal of Minzu University of China（Philoso-phy and Social Sciences Edition）,2011,38(4):31-36.]
+
+[18]ROSS S,WALL G.Evaluating ecotourism:The case of North Sulawesi,Indonesia[J].Tourism Management,1999,20（6）:673- 682.
+
+[19］JANUCHOWSKI-HARTLEY SR,MOONK,STOECKL N,et al. Social factors and private benefits influence landholders’riverine restoration priorities in tropical Australia[J]. Journal of Environmental Management,2012,110:20-26.
+
+[20］张灿强,闵庆文,田密.农户对农业文化遗产保护与发展的感 知分析——来自云南哈尼梯田的调查[J].南京农业大学学报 （社会科学版）,2017,17（1）:128-135,148.[ZHANG Canqiang,MIN Qingwen,TIAN Mi.Analysis of farmers’perception on the protection and development of agricultural heritage system: based on investigation of Hani Rice Terrace in Yunnan[J].Journal of Nanjing Agricultural University（ Social Sciences Edition）, 2017,17(1) :128 -135,148.]   
+[21］王艳,彭婧,党晶晶.移民的迁移意愿与生活期望一 一基于宁 夏生态移民调查数据的 Logistic 回归分析［J].西北人口, 2017,38（4）:116-121.[WANG Yan,PENG Jing,DANG Jingjing.The migrationintentionsof migrantsand lifeexpectancy: Based on the Logistic regression analysis of ecological migrant survey data[J].Northwest population,2017,38(4）:116-121.]   
+[22］张文彬,李国平.生态补偿、心理因素与居民生态保护意愿和 行为研究——以秦巴生态功能区为例[J].资源科学,2017,39 （5）:881-892.[ZHANG Wenbing,LI Guoping.Ecological compensation,psychological factors,willingnessandbehaviorof ecological protection in the Qinba ecological function area[J]. Resources Science,2017,39(5) :881-892.]   
+[23］王昌海,崔丽娟,毛旭锋,等.湿地保护区周边农户生态补偿意 愿比较[J].生态学报,2012,32（17）：5345-5354.[WANG Changhai,CUI Lijuan,MAO Xufeng,et al. Comparative studies on the farmers’wilingness to accept eco-compensation in wetlands nature reserve[J].Acta Ecologica Sinica,2012,32（17） :5345- 5354.]   
+[24］张方圆,赵雪雁，田亚彪,等.社会资本对农户生态补偿参与意 愿的影响——以甘肃省张掖市、甘南藏族自治州、临夏回族自 治州为例[J].资源科学,2013,35（9）:1821-1827.[ZHANG Fangyuan,ZHAO Xueyan,TIAN Yabiao,et al. Social capital and farmer willingness to participate in ecological compensation for three sites in Gansu[J].Resources Science,2013,35(9）:1821- 1827.]   
+[25］李惠梅,张安录.基于福祉视角的生态补偿研究[J].生态学 报,2013,33(4）:1065-1070.[LI Huimei,ZHANG Anlu.Ecological compensation boosted ecological protection and human wellbeing improvement[J].Acta Ecologica Sinica,2013,33（4）： 1065 -1070.]   
+[26］蒋依依,宋子千,张敏.旅游地生态补偿研究进展与展望[J]. 资源科学,2013,35（11）:2194－2201.[JIANG Yiyi,SONG Ziqian,ZHANG Min.Tourismecological compensation:Progre and prospects[J]. Resources Science,2013,35（11）: 2194- 2201.]   
+[27］李青,薛珍,陈红梅,等.基于CVM 理论的塔里木河流域居民 生态认知及支付决策行为研究[J].资源科学,2016,38（6）： 1075-1087.[LI Qing,XUE Zhen,CHEN Hongmei,et al. Cognitive ecology and payment decision-making behavior based on the theory of CVM in the Tarim River Basin[J].Resources Science, 2016,38(6) :1075 -1087. ]   
+[28］刘亚萍,赫雪姣,金建湘,等.基于二分式诱导技术的 WTP 值 测算与偏差分析——以广西北部湾经济区滨海生态环境保护 为例[J].资源科学,2014,36(1):156-165.[LIU Yaping，HE Xuejiao,JIN Jianxiang,et al.An application of dichotomous induction technology in WTP estimate and deviation analysis for coastal resource protection in the Guangxi Beibu Gulf Economic ZoneJ]. Resources Science，2014,36(1）:156 -165.]   
+[29］姚晓军,孙美平,张明军.宝天高速公路沿线生态环境保护居 民支付意愿评价[J].生态环境学报,2010,19（2）：404－409. [YAO Xiaojun,SUN Meiping,ZHANG Mingjun. Assessment of average willingnessto pay for preserving the ecology and environment along Baotian highway[J].Ecology and Environmental Sciences, 2010,19(2):404-409.]   
+[30]HALKOS G,MATSIORI S. Environmental atitude,motivations and values for marine biodiversity protection[J]. Journal of Behavioral & Experimental Economics,2017,69:61 -70.   
+[31] VERONESI M,CHAWLA F,MAURER M,et al. Climate change and the willingness to pay to reduce ecological and health risks from wastewater flooding in urban centers and the environment [J].Ecological Economics,2014,98(2）:1-10.   
+[32]ROBERTS M,HANLEY N,CRESSWELL W. User fees across ecosystem boundaries:Are SCUBA divers willing to pay for terrestrial biodiversity conservation?［J]. Journal of Environmental Management,2017.200:53-59.   
+[33]SUZIANA H. Environmental atitudes and preference for wetland conservationinMalaysia[J].Journal forNature Conservation, 2017,37:133 -145.   
+[34］李惠梅,张安录,王珊,等.三江源牧户参与草地生态保护的意 愿[J].生态学报,2013,33（18）:5943-5951.[LI Huimei, ZHANG Anlu, WANG Shan,et al. Herdsmen's willingness to participate in ecological protection in Sanjiangyuan Region,China [J].Acta Ecologica Sinica,2013,33（18）:5943-5951.]   
+[35]WANG S J,CAO W H. Climate change perspectives in an alpine area,Southwest China：A case analysis of local residents‘views [J].Ecological Indicators,2015,53:211 -219.   
+[36］邵景安,邵全琴,芦清水,等.山江湖地区农民参与政府主导生 态建设工程的“生态—经济"效应感知［J].自然资源学报, 2014,29（8）:1323-1335.[SHAO Jing'an,SHAO Quanqin,LU Qingshui,et al.The perception of farmers to eco-economic effects after their participating in government leading ecological construction projects;A case of mountain-river-lake of Jiangxi[J]. Journal of natural resources,2014,29(8):1323-1335.]   
+[37］黄晓园,罗辉.自然保护区民族村寨保护政策认知和意愿研 究——以高黎贡山自然保护区周边民族村寨为例[J].云南行 政学院学报,2012,14（3）:139-142.[HUANG Xiaoyuan,LUO Hui.A study on cognition and wilingness of protection policies for ethnic villages in nature reserves:A case study of ethnic villages around Gaoligong Mountain Nature Reserve[J]. Journal of Yunnan university of administration,2012,14   
+[38］王丛丛.世界遗产地居民对旅游生态移民影响的感知研究 [D].长沙：湖南师范大学,2011.［WANG Congcong.A study on the impact of residents of world heritage sites on tourism ecological migration[D]. Changsha: Hunan Normal Univerdity,2011.]   
+[39］王凯,欧艳,葛全胜.世界遗产地居民对生态移民影响的感 知——以武陵源3个移民安置区为例[J].应用生态学报, 2012,23(6）:1663-1670.[WANG Kai,OU Yan,GE Quansheng.Perception of residents in world heritage site to the effects of ecological migration:A case study of three migrant resettlement spots in Wulingyuan,Hunan Province of south-central China[J]. Chinese Journal of Applied Ecology,2012,23(6）:1663-1670.]   
+[40］王凯,欧艳,黎梦娜,等.遗产旅游地生态移民影响的实证研 究——以武陵源风景名胜区为例[J].长江流域资源与环境， 2012,21(4）:399-405.[WANG Kai,OU Yan,LI Mengna,et al. An analysis of the impact of ecological migration at world heritage destinations:A case study of Wulingyuan scenic area[J].Resources and Environment in the Yangtze Basin,2012,21（4）: 399 -405.]   
+[41］王凯,李志苗,易静.生态移民户与非移民户的生计对比一 以遗产旅游地武陵源为例[J].资源科学,2016,38（8）:1621- 1633.[WANG Kai,LI Zhimiao,YI Jing.Contrastingthelivelihoods of immigrants and non-immigrants in the Wulingyuan world heritage area[J]. Resources Science,2016,38（8）: 1621- 1633.]   
+[42]TANG H,YANG D G,ZHANG X H,et al. Ecological migration effcts on the Tianchi Scenic Area in Xinjiang:From the perspective of migrant farmer families[J]. Journal of Arid Land,2012,4 (1):95 -104.   
+[43］唐宏,杨德刚,张新焕,等.新疆三工河流域生态移民的农户响 应[J].地理科学进展,2011,30（4）:463-469.[TANG Hong， YANG Degang,ZHANG Xinhuang,et al. Respond of far household to eco-immigration in Sangong River Basin of Xinjiang[J]. Progress in geography,2011,30(4）:463 -469.]   
+[44］韩国圣,张捷,黄跃雯,等.天堂寨景区农村社区居民旅游影响 感知的差异分析[J].地理科学,2011,31（12）:1525-1532. [HAN Guosheng,ZHANG Jie,HUANG Yuewen,et al. Evaluation of difference in rural residents’conception on tourism impact：A case study of Tiantangzhai Scenic Spot[J].Scientia Geographica Sinica,2011,31(12):1525-1532.]   
+[45]KIM K.The effects of tourism impacts upon quality of life of residents in the community[D].Blacksburg,Virginia:Virginia Polytechnic Institute and State University,2002.   
+[46]LEE TH.Influence analysis of communityresident supportfor sustainable tourism development[J].Tourism Management,2013.34: 37-46.   
+[47］汪侠,甄峰,吴小根,等.旅游开发的居民满意度驱动因素- 以广西阳朔县为例[J].地理研究，2010,29（5）：841－851 [WANG Xia,ZHEN Feng,WU Xiaogen,et al.Driving factors of resident satisfaction with tourism development;A case study of Yangshuo in Guangxi Zhuang Autonomous Region[J]. Geographical Research,2010,29(5） :841 -851]   
+[48］赵超.生态移民对旅游业的感知差异研究［D].西安：陕西师 范大学,2O12.［ZHAO Chao.A study on the perception difference of ecological migration to tourism[J].Xi'an;Shaanxi Normal University.2012.]   
+[49］孙九霞.赋权理论与旅游发展中的社区能力建设[J].旅游学 刊,2008,23(9）:22-27.[SUN Jiuxia.Empowerment theory and the construction of community capability in the development of tourism[J]. Tourism Tribune,2008,23（9）:22-27.]
+
+# Residents’ perception and satisfaction on ecological migration in Xinjiang Tianshan heritage site
+
+WANG Fang'， LUAN Fu-ming'， YANG Zhao-ping²， XIONG Hei-gang³， HAN Fang²SHI Hui²， WANG Zhao-guo4  
+(1BusinesolsUesitysejga；igituteodg  
+AcademyofSeesUigi；olofteeeiUoUest;4School of Tourism Management,Sun Yat-sen University,Zhuhai 5190OO,Guangdong,China)
+
+Abstract：For heritage researchers,decision makers and residents,it is acommon concern whether the ecological migration in the heritage site can realize the ecological protection and the sustainable development of tourism,and improve people's livelihood.Acomprehensive assessment of the efect of ecological migration fromthe perspective of residents’perceptionand satisfaction is helpful to provide the feedback in tackling such concerns.The questionnaire survey and thorough interviewing method were applied infour immigrant communities in Bogda region,one of the four areas of Xinjiang Tianshan world heritage,Xinjiang,China to evaluate the migration efect from perspective of residents’perception and satisfaction.The ecological migration perception is divided into four dimensions: Economic impact,social and cultural impact,environmental impact and psychological impact.The four communities are mainly Kazak immigrantcommunities,they haveindustrytypicalityand theirdistance tothe heritage site isdiferent.A total of 310 questionnaires were distributed and 295 questionnaires were valid.The effective rate was $9 5 . 1 6 \%$ . The data were analyzed with factor analysis,two independent sample $T$ test and single factor variance analysis using software SPSS19.O the results showed that the majority of interviewees were Kazak ethnic groups ( $9 6 . 9 0 \%$ ）,and their educational level was low. There are $8 6 . 8 \%$ of households with annual incomes below 4O OOO Yuan RMB and they are positioned inthe lowand middle income levels.There are 42.8 percent offamilies having tourism professionals,and those with“tourism income accounts forthe proportion of household income”in the range from 71 percent to 100 percent,are up to 25.8O percent.Tourism is an important economic source of community migration near the heritage site,and even the entire economic source of some families.Residents are against the high rate of economic positive effcts and psychological positive efects,and had divergent views on social impact perception,and highlyaccepted the positive environment effct.Theresults showthat the ecological environment protection is efective,buttheresidents’income and quality of lifeare not improved,andthe residents have a weak sense of community attachment. Residents’satisfaction is low.Residents’approval rateof income,occupation,tourism status,welfare,environment, medical care,training and other indicators was lower than the rejection rate.More than $70 \%$ of residents are dissatisfied with the status quoof tourism,income and current occupation.The satisfaction about current income was the lowest,with an approval rate of $9 . 2 \%$ . There are significant differences in residents’perception and satisfaction for their different demographic characteristicsand diffrent tourism dependency.Residents engaged in tourism have the highest income and satisfaction.The benefits of tourism are most obvious compared with agricultural cultivation, caged animal husbandry and other industries.Atthe same time,there are some deficiencies in the tourism industry， such as industry instability,limited employmentopportunities,lowlevel of tourismparticipation,andabsenceof residents.Compared with the settlement nation,larger changes of production and life style occurred after migration,from nomadic herding,to tourism,agriculture,animal husbandry,and work,etc.After immigration,the livelihoodof the residents became monotonous.Finally,the suggestion is proposed which includes improving economic condition of residents,such asincreasing employment opportunities,livelihood diversity and alowing the moderate grazing; strengthening their training of knowledge and skilsand the community empowerment；and improving ecological compensation mechanism.
+
+Key words:heritage site； perception on ecological immigration； resident satisfaction

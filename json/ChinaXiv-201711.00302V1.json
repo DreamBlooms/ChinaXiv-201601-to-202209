@@ -1,0 +1,490 @@
+[
+    {
+        "type": "text",
+        "text": "基于地形因子的土壤侵蚀评价指数修正-以陕北安塞集水区为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李琪1,2 许晨纯1,2 赵文武 王连喜1,2 陈璐1,2(1．南京信息工程大学江苏省农业气象重点实验室南京210044;2.南京信息工程大学应用气象学院南京210044;3．北京师范大学资源学院北京100875)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要地形是影响土壤流失的重要因素，小流域尺度上的土壤侵蚀评价指数 $( \\mathrm { S L } _ { \\mathrm { s w } } )$ 对于地形的研究过于简单，因此本研究对 $\\mathrm { S L } _ { \\mathrm { s w } }$ 中的地形因子 $( G )$ 进行修正，进而得出 $G$ 因子修正后的土壤侵蚀评价指数 $( \\mathrm { S L } _ { \\mathrm { s w } _ { - } } G )$ 。以黄土丘陵沟壑区—安塞集水区为研究区，基于GIS技术，利用 $2 0 0 6 { - } 2 0 1 2$ 年安塞集水区的数字高程模型(DEM)数据、水文观测站的日降雨量数据、土壤采样数据和土地利用数据，计算研究区 $2 0 0 6 { - } 2 0 1 2$ 年逐年的$\\mathrm { S L _ { \\mathrm { s w } } }$ ，利用安塞集水区实测的输沙量，验证修正的 $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ 指数的有效性，并分析安塞集水区土壤侵蚀强度的时空变化特征。结果表明，修正前后土壤侵蚀情况分布基本相同，均呈现东南部地区 $\\mathrm { S L } _ { \\mathrm { s w } }$ 指数高，而西北部地区相对较低。在安塞集水区东南部，由于人为因素的影响，土壤保持措施相对较弱，同时土壤中黏粒和粉粒质量较轻，黏粒和粉粒湿时有明显的黏结性，降雨过程中容易被水冲刷；根据土壤采样点的采样数据表明，东南部地区土壤中黏粒和粉粒的含量较高，较容易造成土壤侵蚀。修正前后指数通过 $T$ 检验得出， $\\mathrm { \\ S L _ { \\mathrm { s w } } }$ 和 $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ 具有方差齐次性， $P { = } 0 . 0 3 7 { < } 0 . 0 5$ ；通过与实测输沙量的比较，修正后 $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ 与实测输沙量的相关系数大于修正前 $\\mathrm { S L } _ { \\mathrm { s w } }$ 与实测输沙量的相关系数 $( 0 . 3 9 \\mathrm { > } 0 . 3 6 )$ ，修正后的相关性较修正前的相关性有所增加，说明修正是有效的，修正后的 $\\mathrm { S L } _ { \\mathrm { s w } }$ 指数能够更好地评价研究区域土壤侵蚀状况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词安塞集水区土壤侵蚀 GIS 技术土壤侵蚀评价指数地形因子中图分类号：S157 文献标识码：A 文章编号:1671-3990(2016)03-0316-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Revise of soil loss evaluation index based on terrain factor: A case study of Ansai catchment area in northern Shaanxi\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Qi1,2, XU Chenchun1'2, ZHAO Wenwu³, WANG Lianxi1,², CHEN Lu1,2   \n(1.JiangsuKeylaboratoryofAgriculturalMeteorologyNanjingUniversityofInformationScience&TechnologyNanjing0044,   \nChina;2.SchoolofApplied MeteorologyofNanjing Universityof InformationScience &Technology,Nanjing21044,China; 3. College of Resources Science and Technology,Beijing Normal University, Beijing 100875,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractSoil erosionisoneofthemost serious ecological problems in the world,andtheterrain isan importantfactor influencing the soil erosion.Some scholars appliedtherelevant ideas and theories oflandscape ecologyand the algorithmof partial factors in Universal Soil Loss Equation (USLE),and brought forward the soil loss evaluation index ( $\\mathrm { \\Delta S L _ { s w } }$ index) for soil erosion measurement at different scales. The $\\mathrm { S L } _ { \\mathrm { s w } }$ index can reflect to a certain extent the process of soil loss and erosion, avoidthecommon problems of physical model,and provideusresearch ideasand methods in the studyoflanduse and soil loss and erosionon differentscales.But it wastoo simple tostudythetopography,sothis study wastomodifythetopographic factor $( G )$ in $\\mathrm { S L } _ { \\mathrm { s w } } .$ ，and then obtained soil erosion evaluation index with correction factor $G$ $\\mathfrak { i } \\ ( \\mathrm { S L } _ { \\mathrm { s w } _ { - } } G )$ . This study chose the Loess Hilly Gully Region of Ansai watershed as the research area,and used GIS technology to calculate the $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ based on thedataof Ansai catchment DEMdata,dailyrainfalldataofhydrologicalobservationstation,soil samplingdataandlanduse data.The measured sediment transport volume in Ansai watershed was usedto verifythe modified index.And then the soil erosion intensityandits temporaland spatial variation characteristicsof Ansai watershed wereanalyzed.Theresults showed thatthesoil erosion distribution was basicall the same before and after the amendment of SLindex.The soil erosion was higherinsoutheastregionofAnsai watershed,whileitwas lowerinthenorthwestregion.Dueto the influenceofhuman factors,soil conservation measures were relatively weak in the southeastern partof the Ansai watershed.Meanwhile,there were morelight soil clay andsilt,and the clay andsilt had obvious bond when they were wet,soit was easy tobe washed away inthecourseofraining.According tothedataofsoil sampling analysis,thecontentof soilclayand silt were higherin the southeast,soit was easy tocause the soil erosion inthe southeastern partofthe Ansai watershed.According to the $T$ test, the $\\mathrm { S L } _ { \\mathrm { s w } }$ and $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ has the variance homogeneity before and after the amendment, and $P { = } 0 . 0 3 7 { < } 0 . 0 5$ . Compared with the measured sediment transport volume,the correlation between the modified index and the measured volume was greater than the correlationbetwen the original indexand the measured volume.Itcan beconcluded thatthe modified index canbeter explain the regional soil erosion of the study area. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsAnsai watershed; Soil erosion; GIS technology; Soil erosion evaluation index; Terrain factor ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤侵蚀是目前世界上危害最严重的生态环境问题之一，中国土壤侵蚀尤为严重，主要发生在黄河中上游黄土高原地区、长江中上游丘陵地区和东北平原地区，而陕北黄土高原是黄河泥沙主要的物源核心区域[1-2]。土壤侵蚀会破坏土地资源，造成水土资源的流失，而人类不合理的土地利用也是发生土壤侵蚀的主要原因之一，研究土壤侵蚀量的变化对水土资源的保护、水土保持措施的规划、区域可持续发展都有至关重要的意义[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤侵蚀模型是定量化研究土壤侵蚀的有效工具，探讨土壤侵蚀模型研究中的有关问题对于土壤侵蚀评价的发展及相关研究具有重要意义[4-5]。20世纪80年代以来，我国学者以通用土壤流失方程(USLE)模型为基础，建立了若干个土壤侵蚀预报模型如Liu 等[6建立的中国水土流失通用方程(CSLE)、江忠善等构建的坡面土壤流失预报模型。此外，国外学者考虑土壤侵蚀过程的物理模型也相继问世，如美国的WEPP[8]、EUROSEM[9]、LISEM[10]、SEMMED[11]模型等，但由于此类模型涉及的参数众多，实用性受到一定限制。土壤侵蚀评价指数(soillossevaluationindex)模型是由傅伯杰等[12]针对不同尺度提出，并借鉴修正的通用土壤流失方程(RUSLE)中部分侵蚀因子的算法而来。RUSLE模型不能计算坡度大于 $50 \\%$ 坡地土壤侵蚀量，同时对于有机土侵蚀量估算不准确[13]。而土壤侵蚀评价指数既可以评价土地利用对土壤侵蚀的影响，又可以避免因计算太多的参数而造成的误差，为研究土壤侵蚀多尺度研究提供了有效的方法和思路。该指数分为流域尺度上的土壤侵蚀评价指数 $( \\mathrm { S L } _ { \\mathrm { w } } )$ 、小流域尺度上的土壤侵蚀评价指数 $( \\mathrm { S L } _ { \\mathrm { s w } } )$ 和坡面尺度上的土壤侵蚀评价指数 $\\mathrm { ( S L _ { s } ) }$ 。学者们运用此模型也进行了一定的研究，如赵文武等[14]针对坡面尺度、小流域/流域尺度和区域尺度，综述了不同尺度上土地利用对土壤侵蚀的影响研究。朱婧[15]利用SL指数对沿河流域内3个集水区进行了研究，并对距离指数、水土保持措施因子以及沟蚀因子进行了修正。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地形是影响土壤流失的重要因素，而小流域尺度的 $\\mathrm { S L } _ { \\mathrm { s w } }$ 指数对于地形的研究过于简单，因此有必要对地形因子进行修正。本文以地形因子 $( G )$ 作为改进因子，提出改进的 $\\mathrm { S L } _ { \\mathrm { s w } }$ 指数修正方法，通过修正并在陕北安塞集水区进行应用，以期提高小流域尺度土壤侵蚀评价模型的精度，使模型运用更广泛。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "安塞集水区地处西北内陆黄土高原腹地 $( 1 0 8 ^ { \\circ } 5 ^ { \\prime } 4 4 ^ { \\prime \\prime } \\sim$ $1 0 9 ^ { \\circ } 2 6 ^ { \\prime } 1 8 ^ { \\prime \\prime } \\mathrm { E }$ ， $3 6 ^ { \\circ } 3 0 ^ { \\prime } 4 5 ^ { \\prime \\prime } { \\sim } 3 7 ^ { \\circ } 1 9 ^ { \\prime } 3 ^ { \\prime \\prime } \\mathrm { N } ,$ 。图1)，集水区面积为 $1 \\ 3 3 4 \\ \\mathrm { k m } ^ { 2 }$ 。流域内沟壑纵横，海拔高度 $1 \\ 0 0 4 \\sim$ $1 7 2 0 \\mathrm { m }$ ，属于典型的黄土丘陵沟壑区。土壤以黄绵土为主，质地为粉沙，抵蚀能力差。气候属温带大陆性干旱季风气候，多年平均降雨量 $5 0 5 . 3 ~ \\mathrm { \\ m m }$ ，降水年际变化大，6一9月降水量占年均降雨量的 $74 \\%$ ，且多为暴雨。受人为活动的影响，天然植被已严重破坏，现存植被多为人工种植用于生态建设后恢复的次生植被，以沙棘(Hippophae rhamnoides)、柠条(Caraganamocrophylla)等灌木,小叶杨(Populusimoni)、刺槐(Robiniapseudoacacia)等落叶阔叶乔木以及苜蓿(Medicagosativa)、长芒草(Stipa bungeana)等牧草为主[16-17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据来源及方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究所使用的数据包括：1)DEM数据，来源于国家基础地理信息中心的 $1 : 5$ 万数据库，分辨率为 $2 0 \\ m { \\times } 2 0 \\ m _ { \\circ } \\ \\ .$ 2)土地利用类型数据，下载自美国国家宇航局NASA 网站(https://ladsweb.nascom.nasa.gov/data/search.html)中的MODIS3级数据士地覆盖类型产品 MCD12Q1 中 2006一2012 年数据。3)2014年9月在研究区内进行了土壤样品的采集,每个样点采用5点取样法收集 $2 0 \\ \\mathrm { c m }$ 以内的混合土样，采样时综合考虑研究区内不同的地形、土壤、植被以及分布范围等因素，共采集151个具有典型性和代表性的土壤混合样品(图2)进行分析。4)2006—2012年16个站点日降雨量和年输沙量数据来源于中华人民共和国水文年鉴一一黄河流域水文资料(图2)，降雨站点分布在安塞集水区内外，这样的分布一方面可以弥补区域内站点数据的不足，另一方面也可以提高降雨插值的精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/610e3721a29259bfe255280ec6d4f36f14df76a6c57e4ae79e5be399c80e51e5.jpg",
+        "img_caption": [
+            "图1研究区位置示意图Fig.1Location of the study area"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c8a1f4a98a94d1f9887db5eb3a5bbcdfe12584db3bfd2df20f58102ab7732bd.jpg",
+        "img_caption": [
+            "图2安塞集水区土壤数据(a)和降雨数据(b)采样点分布图 Fig.2Distribution maps of soil sampling points (a) and rainfall data sampling points (b)in Ansai watershed "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选用小流域土壤侵蚀评价指数 $( \\mathrm { S L } _ { \\mathrm { s w } } )$ ，并根据研究区特点，评估安塞集水区土壤侵蚀[12]。公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S L } _ { \\mathrm { s w } } = \\frac { \\sum \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\left( D _ { \\mathrm { m } } \\cdot H _ { \\mathrm { m } } \\cdot S _ { \\mathrm { m } } \\cdot R _ { \\mathrm { m } } \\cdot K _ { \\mathrm { m } } \\cdot C _ { \\mathrm { m } } \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\right) } { \\sum \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\left( D _ { \\mathrm { m } } \\cdot H _ { \\mathrm { m } } \\cdot S _ { \\mathrm { m } } \\cdot R _ { \\mathrm { m } } \\cdot K _ { \\mathrm { m } } \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { S L } _ { \\mathrm { s w } }$ 是小流域尺度土壤侵蚀评价指数， $D _ { \\mathrm { m } }$ 是小流域中某点的土壤流失水平距离指数， $H _ { \\mathrm { m } }$ 是小流域中某点的土壤流失垂直距离指数， $S _ { \\mathrm { m } }$ 是坡度因子，$R _ { \\mathrm { m } }$ 和 $K _ { \\mathrm { m } }$ 分别是降雨侵蚀力和土壤可蚀性因子， $C _ { \\mathrm { m } }$ 是作物覆盖与管理因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是在实际应用中，由于集水区的面积和坡向等也会对土壤侵蚀状况产生影响，所以计算土壤侵蚀评价指数时不能忽略这些因子，故考虑用地形因子 $( G )$ 对土壤侵蚀评价指数进行修正及完善，修正后土壤侵蚀评价指数公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { S L } } _ { \\mathrm { s w } - } G = { \\frac { \\sum \\left( G _ { \\mathrm { m } } \\times R _ { \\mathrm { m } } \\times K _ { \\mathrm { m } } \\times C _ { \\mathrm { m } } \\right) } { \\sum \\left( G _ { \\mathrm { m } } \\times R _ { \\mathrm { m } } \\times K _ { \\mathrm { m } } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ 是修正后的小流域尺度土壤侵蚀评价指数， $G _ { \\mathrm { m } }$ 是修正的地形因子, $R _ { \\mathrm { m } } , \\ K _ { \\mathrm { m } } ,$ （20 $C _ { \\mathrm { m } }$ 意义同式(1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1土壤流失距离指数估算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤流失距离指数表示区域内景观单元距流域出口的距离，是用来反映由于距水系距离的差异而导致相应土地利用类型对河流泥沙贡献程度的差异[11]。根据其对土壤流失的影响可以分为水平距离指数和垂直距离指数，其计算公示如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i } = \\frac { D _ { \\operatorname* { m a x } } - d _ { i } } { D _ { \\operatorname* { m a x } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { i } = \\frac { H _ { \\operatorname* { m a x } } - h _ { i } } { H _ { \\operatorname* { m a x } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中: $D _ { i }$ 是某点土壤流失水平距离指数， $D _ { \\mathrm { m a x } }$ 是土壤流失水平距离的最大值， $d _ { i }$ 是某点的土壤流失水平距离， $H _ { i }$ 是某点的土壤流失垂直距离指数， $H _ { \\mathrm { m a x } }$ 是土壤流失垂直距离的最大值， $h _ { i }$ 是某点的土壤流失垂直距离。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 坡度因子 $s$ 估算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一般来说，土壤侵蚀随着坡度的增加而增加。坡度越大，径流能量越大，对坡面的冲刷能力越大。本文采用Liu等[18根据黄土区径流小区资料所建立的坡度因子公式计算：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = 2 1 . 9 1 \\mathrm { s i n } \\theta - 0 . 9 6\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中: $\\theta$ 代表坡度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 $\\textbf { \\textit { G } }$ 因子的估算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "物体在下坡运动中都有潜在的能量作为牵引，那是由于重力的平行分量造成的。该重力来自于上坡的集水区面积和边坡对其的影响[19]。根据此观点,结合坡度的斜率变化(SOS)和坡向变化(SOA)可以研究地形的复杂性，即 $G$ 因子，从而探讨地形因子对土壤侵蚀的影响，其计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { m } \\ln \\left( \\mathbb { C } \\mathrm { A } _ { i , j } \\times \\sin \\alpha _ { i , j } \\times \\mathrm { S O S } _ { i , j } \\times \\mathrm { S O A } _ { i , j } \\right) } { i \\times j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $i , j$ 是DEM网格内的行和列, $\\mathrm { C A } _ { i , j }$ 是汇水面积$a _ { i , j }$ 是斜坡坡度, $\\mathrm { s o s } _ { i , j }$ 是坡度变化值, $\\mathrm { S O A } _ { i , j }$ 是坡向变化值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 土壤可蚀性因子 $( K )$ 估算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤可蚀性因子是土壤侵蚀预报和土地利用规划的重要参数，是土壤抵抗降雨、径流产生的侵蚀能力的综合体现。 $K$ 值估算基本采用Williams[20]在EPIC模型中的方法，利用颗粒组成和土壤有机质含量进行估算。由于本研究土壤数据资料相对有限，并考虑到土壤砾石 $( > 2 ~ \\mathrm { m m } )$ 的资料不足整个资料的$10 \\%$ ，故采用土壤可蚀性因子的简易计算公式。其公式为[17,21-23].",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ K = 7 . 5 9 4 \\{ 0 . 0 0 3 4 + 0 . 4 0 5 \\exp [ - { \\frac { 1 } { 2 } } { \\Bigg [ } { \\frac { \\log ( D g ) + 1 . 6 5 9 } { 0 . 7 1 0 1 } } { \\Bigg ] } ^ { 2 } { \\Bigg ] } \\} \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $K$ 为土壤可蚀性因子估算值 $\\left( \\mathrm { t } { \\cdot } \\mathrm { h } { \\cdot } \\mathrm { M J } ^ { - 1 } { \\cdot } \\mathrm { m m } ^ { - 1 } \\right)$ ）$D g$ 是几何平均粒径, $f _ { i }$ 是原土中粒径组成百分比, $m _ { i }$ 是小于该粒径的算术平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 降雨侵蚀力因子 $( R )$ 估算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "降雨侵蚀力反映了降雨引起土壤侵蚀的潜在能力，是降雨对于土壤侵蚀影响的根本体现。本研究根据研究区内16个站点的日降雨量数据，结合傅伯杰等[12提出针对黄土丘陵沟壑区的月降雨侵蚀力与月降雨量的公式计算降雨侵蚀力值。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = 8 . 3 4 6 2 \\times P _ { 9 } ^ { 1 . 2 5 7 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $R$ 为降雨侵蚀力 $( \\mathrm { M J } { \\cdot } \\mathrm { m m } { \\cdot } \\mathrm { k m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 } { \\cdot } \\mathrm { a } ^ { - 1 } )$ ， $P _ { 9 }$ 代表每月中大于 $9 \\mathrm { m m }$ 的日降雨量之和。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.6 覆盖与管理因子 $c$ 估算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "覆盖与管理因子是指一定条件下有植被覆盖或实施田间管理措施的土壤流失量与同等条件下清耕休闲地上的土壤流失量之比。不同植被类型(或土地利用类型)的水土保持效益不同， $C$ 值不同，介于0\\~1。借鉴前人的研究成果[24]，确定不同土地利用类型的土壤流失率如下表(表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a5bb5fe7fdf7fd357b655ba5bbcc3945f45df4b45f62263af6013d03915dda9.jpg",
+        "table_caption": [
+            "表1不同土地利用类型的土壤流失率Table1Soil loss rates in different land use types"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>植被类型 Vegetation type</td><td>耕地 Farmland</td><td>林地 Woodland</td><td>草地 Grassland</td><td>水域 Waters</td><td>建筑用地 Construction land</td><td>未利用地 Unused land</td></tr><tr><td>土壤流失率 Soil loss rate</td><td>0.61</td><td>0.19</td><td>0.21</td><td>0</td><td>0.2</td><td>0.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于研究区的DEM数据，结合ArcGIS10.2工具中水文分析模块提取研究区的水系图，结合表面分析模块计算出坡度、坡度的斜率变化(SOS)和坡向的变化(SOA)，再利用公式(3)、(4)、(5)、(6)分别计算出各因子值，并通过插值得出土壤流失水平距离指数分布图、土壤流失垂直距离指数分布图、坡度因子分布图和 $G$ 因子分布图。土壤可蚀性因子则采用2014年9月研究区151个采样点的采样数据，利用公式(7)计算得出采样点的 $K$ 值，借助ArcGIS工具中样条函数插值得出土壤可蚀性因子分布图。降雨侵蚀力因子则是利用水文年鉴数据整理得出每月大于 $9 \\ \\mathrm { m m }$ 的降雨量，结合ArcGIS，利用公式(8)插值得出降雨侵蚀力因子分布图。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1小流域土壤侵蚀评价指数中各因子计算结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用小流域土壤侵蚀评价指数模拟的土壤流失距离指数因子(图 $3 ) D$ 和 $H$ 均介于0\\~1，在河流附近地区水平流失距离指数和垂直流失指数均接近于1；而距离河流水系越远的地区水平流失距离指数和垂直流失距离指数越小。总体来看，安塞集水区水平流失距离指数均值为0.84，垂直流失距离指数均值为 $0 . 7 4 _ { \\circ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5688b507e271b9120108421fe5a4099fa70e6bf255223cc85ce4806c01c555ca.jpg",
+        "img_caption": [
+            "图3安塞集水区土壤流失水平距离指数 $( D )$ 和垂直距离指数 $( H )$ 分布图 .3Maps of horizontal distance index $( D )$ and vertical distance index $( H )$ of soil loss in Ansai watershed "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "安塞集水区以陡坡地形为主，坡度起伏较大，介于 $0 ^ { \\circ } { \\sim } 7 7 . 6 2 ^ { \\circ }$ ，平均坡度为 $1 6 . 2 7 ^ { \\circ }$ 。随着坡度的升高，微度侵蚀所占比例会下降；而强烈和极强烈侵蚀比例则呈相反趋势，随坡度升高而增加。坡度越陡，降雨产生的径流流速越大，侵蚀动力越强，使陡坡区域具有产生强度侵蚀的地形条件[17]。同时,在陡坡地区，植被生长困难，植被覆盖度相对较低。因此，陡坡地区土壤侵蚀强度较大。安塞集水区坡度因子范围介于 $0 { \\sim } 2 0 . 4 4$ (图 4)，总体均值为5.08。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "而对于修正的地形因子 $G$ ，研究结果(图4)表明$G$ 因子值范围为0\\~4.82，值越大，土壤侵蚀越严重。从图中可知，由于集水区的汇水面积及坡度对其的影响，中上游地区到安塞集水区中部地形坡度起伏较大, $G$ 值也较高，对土壤侵蚀的贡献也较大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用几何粒径模型计算的土壤可蚀性因子 $K$ 值比较低(图4)，其值介于 $0 . 0 4 2 { \\sim } 0 . 0 4 9 .$ 。 $K$ 值较高的区域分布在研究区的中上游和东南部地区。在上游地区，由于地势较高，植被生长较差，土壤结构松散易发生侵蚀。而在东南部地区，土壤粒径较小的黏粒和粉粒含量比较高，抵抗降雨侵蚀的能力就弱，很容易遭受径流冲刷的侵蚀。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据16个站点各年的降雨侵蚀力 $R$ 值，插值得出2006一2012年各年的年降雨侵蚀力分布图，从各插值图 $R$ 的年平均值可以看出这7年间降雨侵蚀力的年际变化。研究结果(图5)表明，这7年间的降雨侵蚀力呈现逐年波动变化的特点，最高值为2009年的 $1 1 ~ 2 0 4 . 1 4 ~ \\mathrm { M J } { \\cdot } \\mathrm { m m } { \\cdot } \\mathrm { k m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，最低值出现在2008年，为 $6 ~ 6 5 9 . 3 7 ~ \\mathrm { M J \\cdot m m \\cdot k m ^ { - 2 } \\cdot h ^ { - 1 } \\cdot a ^ { - 1 } }$ 。总体来看，安塞集水区 2006一2012 年多年平均的降雨侵蚀力约为 $8 ~ 6 7 7 . 7 6 ~ \\mathrm { M J \\cdot m m \\cdot k m ^ { - 2 } \\cdot h ^ { - 1 } \\cdot a ^ { - 1 } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "安塞集水区以草地和林地居多，根据赋值的方法得出2006一2012年各年的覆盖与管理因子 $C$ 的分布图(图6),7年间 $C$ 因子变化不明显，各年均值都在0.22左右。而在东南部地区，则以农用地居多， $C$ 因子值比较高，为 $0 . 6 1$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfc3cf9bf9433a7c43887909a2fe8ea90e3a674ef5bfa4802410a414ce9450d6.jpg",
+        "img_caption": [
+            "图4安塞集水区坡度 $( S )$ 、地形(G、土壤可蚀性因子 $( K )$ 分布图 Fig.4Distribution of slope factor (S),terrain factor $( G )$ and soil erosion factor $( K )$ in Ansai watershed "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/454bec3e908e953fabc38091e287e085914f2729cea9bb7c441e64d8876109b0.jpg",
+        "img_caption": [
+            "图5安塞集水区2006—2012年降雨侵蚀力变化图Fig.5Rainfall erosivity $( R )$ from 2006 to 2012 in Ansaiwatershed"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2小流域土壤侵蚀评价指数修正结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过公式(1)、(2)计算得出 2006一2012年各年的 $\\mathrm { S L } _ { \\mathrm { s w } \\setminus }$ （ $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ 指数并得出其指数的年平均值的分布图(图7)。从图7可知，修正前后土壤侵蚀情况分布基本相同，均呈现东南部地区指数高，而西北部地区相对较低。在安塞集水区东南部，指数比较高这是由于人为因素的影响，东南部地区主要以耕地为主，土壤保持措施相对较弱，同时土壤中黏粒和粉粒质量较轻，黏粒和粉粒湿时有明显的黏结性，降雨过程中容易被水冲刷，而且根据土壤采样点的采样数据表明，东南部地区土壤中黏粒和粉粒的含量较高，所以较容易造成土壤侵蚀。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于修正结果，本研究采用SPSS中独立样本 $T$ 检验，检验 $\\mathrm { S L } _ { \\mathrm { s w s } }$ $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ 指数是否有差异显著性，并与实测输沙量进行相关性分析，根据相关系数，来判断经过地形因子修正后的土壤侵蚀评价指数与实际土壤侵蚀状况的相关性是否有所提高。 $T$ 检验结果表明， $\\mathrm { S L } _ { \\mathrm { s w } }$ 和 $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ 具有方差齐次性， $P =$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e745be6c77382f1e9f3e42690d985e228e5fadfd4c5e3493560de91e1092c196.jpg",
+        "img_caption": [
+            "图6安塞集水区2006—2012年作物覆盖与管理因子 $( C )$ 分布图ig.6Crop cover and management factor $( C )$ from 2006 to 2012 in Ansai watershed"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$0 . 0 3 7 { < } 0 . 0 5$ ，表明 $\\mathrm { S L } _ { \\mathrm { s w } }$ 和 $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ 有显著性差异。同时 $\\mathrm { S L } _ { \\mathrm { s w } }$ 与实测输沙量的相关系数 $r { = } 0 . 3 6 , \\mathrm { S L } _ { \\mathrm { s w } _ { - } } G$ 与实测输沙量的相关系数 $\\scriptstyle { r = 0 . 3 9 }$ ，修正后的相关性较修正前的相关性有所增加。综合 $T$ 检验和相关性分析结果可以看出，本研究的修正是有效的，修正后的指数能够更好地研究区域土壤侵蚀状况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e76b5b06f03b095dfaaee596701ba926b8148c9dd53b15f6fedd113ed576455.jpg",
+        "img_caption": [
+            "图7安塞集水区小流域尺度的土壤侵蚀评价指数 $( \\mathbf { S L } _ { \\mathbf { s w } } )$ 和地形因子修正的 $\\mathbf { S L } _ { \\mathbf { s w } } ( \\mathbf { S L } _ { \\mathbf { s w } \\_ { G } } )$ 分布图Fig.7Maps of soil loss evaluation index on small watershed scale $\\mathrm { ( S L _ { s w } ) }$ , and terrain factor-modified $\\operatorname { S L } _ { \\operatorname { s w } } ( \\operatorname { S L } _ { \\operatorname { s w } _ { - } } G )$ （204indexes in Ansai watershed"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究对小流域土壤侵蚀评价指数进行了修正基于GIS技术和各类基础数据，研究了安塞集水区的土壤侵蚀状况，结果表明安塞集水区东南部的土壤侵蚀指数比较高。研究表明，该地区以耕地为主,土壤保持措施相对较弱，而且东南部地区土壤中黏粒和粉粒的含量较高，容易被降水冲刷，造成土壤侵蚀。这一结果说明修正的评价指数结果与实际情况相吻合。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$T$ 检验结果表明， $\\mathrm { S L } _ { \\mathrm { s w } }$ 和 $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ 有显著性差异，而且修正后 $\\operatorname { S L } _ { \\operatorname { s w } _ { - } } G$ 与实测输沙量的相关系数大于修正前 $\\mathrm { S L } _ { \\mathrm { s w } }$ 与实测输沙量的相关系数，修正后的指数更加接近实测数据，说明因子算法改进有效、可行，增加了模型的可靠性，为研究地形对土壤侵蚀的影响提供了依据。修正后的指数考虑了汇水面积及坡度坡向的变化率对土壤侵蚀的影响，因此更加接近实际情况。Li等[19]运用地形因子 $G$ 因子也做了相关研究，认为与坡度坡长相比， $G$ 更能作为一个区域的地形因子，这与本研究的结果相一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究参考前人的研究结果，直接对作物覆盖及管理因子 $C$ 因子进行赋值，没有考虑植被覆盖度对土壤侵蚀的影响。孙禹等[25采用遥感与GIS技术结合的方法，研究了土壤侵蚀状况与植被盖度之间的关系。李斌等[26利用GIS技术对黄土高原土壤侵蚀空间数据和植被盖度等级数据进行了空间叠加，研究了不同盖度的植被对土壤侵蚀的影响。这些结果表明NDVI指数能较好地反映植被覆盖度，作为计算土壤侵蚀的因子具有很好的效果。因此后续的研究中将考虑引入NDVI 指数，以进一步提高小流域尺度土壤侵蚀评价指数的精度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢在野外数据采集过程中，得到了中国科学院安塞水土保持综合试验站的支持和帮助，特此感谢！",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]张翼．黄土高原丘陵沟壑区土壤侵蚀研究[J]．水土保持研 究,2000,7(2):39-47 Zhang Y.A study on soil erosion in loess hilly-gully region[J]. Research of Soil and Water Conservation,20o0,7(2):39-47   \n[2]岳大鹏，李奎，刘鹏，等．基于RUSLE 的黄土洼小流域土 壤侵蚀与水土保持研究[J].陕西师范大学学报：自然科学 版,2015,43(2):85-91 Yue D P,Li K,Liu P,et al. Study on soil erosion and soil and water conservation of Huangtuwa watershed basedon RUSLE[J]. Journal of Shaanxi Normal University:Natural Science Edition,2015,43(2): 85-91   \n[3]朱显谟．黄土高原水蚀的主要类型及其有关因素[J]．水土 保持通报，1982(3):40-44 Zhu X M.The main types of soil erosion and its related factors in Loess Plateau[J].Bulletin of Soil and Water Conservation,1982(3):40-44   \n[4]史培军，刘宝元，张科利，等．土壤侵蚀过程与模型研究[J]. 资源科学,1999,21(5):9-18 Shi PJ,Liu B Y, Zhang K L,et al. Soil erosion process and model studies[J].Resources Science,1999,21(5): 9-18   \n[5]蒋春丽，张丽娟，张宏文，等．基于RUSLE模型的黑龙江 省 2000一2010 年土壤保持量评价[J]．中国生态农业学报， 2015,23(5):642-649 Jiang C L，Zhang L J,Zhang H W,et al.Quantitative evaluation of soil conservation in 20oo-2010 in Heilongjiang Province using RUSLE model[J].Chinese Journal of EcoAgcuIuIe,∠UiJ,∠J(J). 04∠-04y   \n[6] Liu B Y,Zhang K L,Xie Y. An empirical soil loss equation[C]//Proceedings of the 12th International Soil Conservation Organization Conference.Beijing,China: Qinghua University Press,2002   \n[7] 江忠善，郑粉莉．坡面水蚀预报模型研究[J]．水土保持学 报,2004,18(1): 66-69 Jiang Z S,Zheng F L.Water erosion prediction model at hillslope scale[J]. Journal of Soil and Water Conservation, 2004,18(1): 66-69   \n[8]刘宝元，史培军.WEPP 水蚀预报流域模型[J]．水土保持通 报,1998,18(5): 6-12 Liu B Y,Shi P J.Water erosion production project(WEPP) model for watershed scale[J].Bulletin of Soil and Water Conservation,1998,18(5): 6-12 [9]Morgan RPC,Quinton JN,Smith RE,et al. The European Soil Erosion Model (EUROSEM):A dynamic approach for predictingsedimenttransport from fieldsandsmall catchments[J].Earth Surface Processes and Landforms,1998, 23(6): 527-544   \n[10]De Roo A PJ,Wesseling C G,Ritsema C J.LISEM:A single-event physically based hydrological and soil erosion model for drainage basins.I：Theory,input and output[J]. Hydrological Processes,1996,10(8): 1107-1117   \n[11]De Jong S M,Paracchini M L,Bertolo F,et al.Regional assessment of soil erosion using the distributed model SEMMED and remotely sensed data[J]. CATENA,1999, 37(3/4): 291-308   \n[12]傅伯杰，赵文武，陈利顶，等．多尺度土壤侵蚀评价指数[J]. 科学通报,2006,51(16):1936-1943 Fu B J,Zhao W W, Chen L D,et al.A multiscale soil loss evaluation index[J]. Chinese Science Bulletin,20o6,51(16): 1936-1943   \n[13]陈云明，刘国彬，郑粉莉，等.RUSLE侵蚀模型的应用及进 展[J]．水土保持研究,2004,11(4):80-83 Chen Y M,Liu G B,Zheng F L,et al.Proceeding and application on soil erosion model of RUSLE[J]. Research of Soil and Water Conservation,2004,11(4): 80-83   \n[14]赵文武,傅伯杰，吕一河，等.多尺度土地利用与土壤侵蚀[J]. 地理科学进展,2006,25(1):24-33 Zhao W W,Fu B J,Lü YH,et al.Land use and soil erosion at multiscale[J]. Progress in Geography,2006,25(1): 24-33   \n[15]朱婧．土壤侵蚀评价指数的修正及应用—以延河流域为 例[D]．北京：北京师范大学,2009 Zhu J. Modification and application of soil loss evaluation index — A case study in Yanhe Watershed[D]. Beijing: Beijing Normal University,2009   \n[16]李天宏，郑丽娜．基于RUSLE模型的延河流域2001—2010 年十壤侵蚀动态变化[J1.自然资源学报，2012．27(7): 1164-1175 Li T H, Zheng L N. Soil erosion changes in the Yanhe Watershed from 2001 to 2010 based on RUSLE model[J]. Journal of Natural Resources,2012,27(7): 1164-1175   \n[17]秦伟，朱清科，张岩．基于GIS 和 RUSLE 的黄土高原小流 域土壤侵蚀评估[J]．农业工程学报,2009,25(8):157-163 Qin W, Zhu Q K, Zhang Y. Soil erosion assessment of small watershed in Loess Plateau based on GIS and RUSLE[J]. Transactions of the CSAE,2009,25(8): 157-163   \n[18] Liu B Y, Nearing M A,Risse L M. Slope gradient effects on soil loss for steep slopes[J]. Transaction of the ASAE,1994, 37(6): 1835-1840   \n[19] LiFY,Tang G A.DEM based terrain factor of soil erosion at regional scale and soil erosion mapping[M]//RuasA. Advances in Cartograhy and GIScience. Berlin, Heidelberg: Springer,2011: 383-395   \n[20]Williams JR.The erosion-productivity impact calculator (EPIC)model: A case history[J]. Philosophical Transactions: Biological Sciences,1990,329(1255): 421-428   \n[21]曾凌云．基于RUSLE模型的喀斯特地区土壤侵蚀研究- 以贵州红枫湖流域为例[D]．北京：北京大学,2008:10 Zeng L Y. Study on soil erosion in Karst area based on RUSLE Model - A case study of the Catchment of Hongfenghu Lake in Guizhou Province[D].Beijing: Beijing University,2008: 10   \n[22]Renard K G. Predicting Soil Erosion by Water: A Guide to Conservation Planning with the Revised Universal Soil Loss Equation (RUSLE)[M]. Washington: Government Printing Office,1997   \n[23]刘宝元，谢云，张科利．土壤侵蚀预报模型[M].北京：中 国科学技术出版社,2001:80 Liu B Y,Xie Y, ZhangKL. Soil Loss Prediction Model[M]. Beijing: China Science and Technology Press,2001: 80   \n[24]徐海燕．区域土地利用格局优化模型构建与应用研究- 以陕西省安塞县为例[D]．北京：北京师范大学,2010:52 Xu H Y. Construction and applications of regional land use pattern optimization model: A case study in Ansai County, Shaanxi Province[D]. Beijing: Beijing Normal University, 2010: 52   \n[25]孙禹，哈斯·额尔敦，杜会石．植被盖度在土壤侵蚀模数计 算中的应用[J]．水土保持通报,2013,33(5):185-189 Sun Y, Eerdun H, Du H S.Application of vegetation cover in soil erosion modulus calculation[J].Bulletin of Soil and Water Conservation,2013,33(5):185-189   \n[26]李斌，张金屯．不同植被盖度下的黄土高原土壤侵蚀特征 分析[J]．中国生态农业学报,2010,18(2):241-244 Li B,Zhang J T. Soil erosion characteristics under different vegetation coverage in the Loess Plateau[J]. Chinese Journal of Eco-Agriculture,2010,18(2): 241-244 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

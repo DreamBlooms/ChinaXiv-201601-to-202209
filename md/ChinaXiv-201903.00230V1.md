@@ -1,0 +1,156 @@
+# 由USB3相机和GigE相机构建的图像采集系统
+
+王谣1，李彬华1，杨帅明1，张益恭2，程向明2
+
+1(昆明理工大学信息工程与自动化学院，昆明，云南，650600)
+
+2（中国科学院云南天文台，昆明，云南，650011）
+
+摘要：使用不同厂商生产且接口类型的不同高速相机组建一个统一控制的图像采集系统，会大大增加开发的难度。本文介绍一个由USB3.0接口CCD 相机和GigE 接口CCD 相机组成的图像采集系统的硬件结构和软件开发方案。硬件方面,相机在外同步触发信号的作用下，由一台图像工作站同时采集两个相机进行图像。软件方面，使用不同相机的开发包进行二次开发，系统运行后弹出两相机的控制与采集界面，采用人机交互方式进行相机配置。两相机可以独立工作，亦可同步采集。图像采集系统实验表明，系统工作正常，但在工作站完成两台相机单帧图像采集的时间差均值约15毫秒。
+
+关键词：图像采集；USB3；GigE；CCD相机；同步
+
+# 0引言
+
+通常情况下，在一个多目标监控的图像采集系统中，会尽可能使用同一相机厂商生产的相同类型的相机，例如：安防监控中多相机图像拼接，生产过程控制与监测，基于三维图像的目标识别或运动检测，地基广角相机阵等[1-3]。但在有些特殊场合，需要观测或监测不同类型的目标，就会根据目标的具体情况，配置不同的类型相机。并且，不同相机的图像采集时刻也会有不同的要求，有的要求同步采集，有的要求相隔规定的时间，具体取决于各自系统的应用要求。例如，云南天文台前几年研制的第一台多功能天文经纬仪，它配备了3个CCD相机，其中一个CameraLink 接口的数字相机采集恒星像和人造星像，另外用两个同轴电缆接口的模拟相机做水平差和轴准直差的测定，各相机采集的时间顺序和时刻有着严格的要求[4-5]；其它工业监控或测量系统也有类似的情况[2]。
+
+近年来，随着现代电子技术的飞速发展，各类高速接口的相机不断涌现,如GigE、CXP、USB3、IIDC2等[6-9]，给图像采集系统带来的更大的发展空间。这既给新系统的构建提供了更多的选择，也给开发人员带来了更多的技术挑战。
+
+本文介绍由一台USB3.0接口CCD 相机和一台GigE 接口CCD 相机组成的图像采集系统，在统一的外部触发信号作用下进行图像采集的过程、控制方法，系统硬件结构和软件开发方案。对不同厂商生产的USB3.0接口相机和GigE接口相机进行开发，关键是要解决两相机平台不一致和相互不兼容的问题，以及外触发模式下同步进行图像采集的问题。
+
+# 1图像采集系统的总体设计
+
+# 1.1图像采集系统的硬件结构
+
+本文所介绍的图像采集系统，是云南天文台一个正在实施项目的前期预研究系统。该系统硬件由一台工作站（PC）和两台CCD 相机组成。两台相机中，一台是 Point Gray 公司GS3 系列的USB 3.0 接口的CCD 相机[]，另一台是 Adimec 公司 OPAL 系列的GigE 接口的 CCD 相机[]。这两台相机需要按望远镜控制系统的要求同步采集图像，曝光开始的时间差应小于等于 $5 \mathrm { m s }$ 。所以，两个相机都必须带有外同步触发功能，并通过一个望远镜控制系统输出的同步信号进行图像的采集控制。
+
+![](images/cac83a6e35478adb4f65c78e854b54a696af08e476ea117ec7e408cf705f8cd9.jpg)  
+图1系统硬件结构  
+Fig.1 system hardware structure
+
+系统硬件结构框图如图1所示。来自望远镜控制系统的图像采集控制信号经光电隔离电路一分为二，输出外触发信号1和外触发信号2，它们分别连接到USB3 相机和GigE 相机的外触发输入口。图像采集工作站的一个USB3接口通过USB 线连接到USB3相机，千兆以太网接口通过网线连接到GigE相机。
+
+系统的工作流程是：系统各部分上电后，图像采集工作站分别通过USB3.0接口和GigE接口，给两个相机发送成像控制指令，设置相机的工作模式和成像参数（如触发模式，曝光时间，增益，采集帧数和帧率等)；当相机处于非外部触发模式时，工作站发送采集指令，控制相机进行成像和图像传输，以及进行图像的显示和存储；当处于外部硬件信号边沿触发模式时，来自望远镜控制系统的图像采集控制信号分别触发USB3相机和GigE 相机，相机生成各自的图像后自动将图像数据通过UBS线或网线传输至工作站，工作站显示图像并按要求存盘。
+
+# 1.2系统软件二次开发的方案
+
+这一双相机高速图像采集系统的图像采集软件是在Windows10 操作系统下使用VisualStudio 2015作为软件开发平台开发的。USB 相机使用的是Point Gray 公司的FlyCapture2 类库，GigE 相机使用的则是Adimec 公司的 Bobcat开发包。在进行两个相机的二次开发时，发现适用于GigE 相机的 Bobcat开发包并不能够兼容USB3.0 相机的FlyCapture2 类库。具体表现为：两个相机的库中封装编译好的 lib及DLL文件不兼容，且Bobcat开发包为基于32 位的解决方案平台，而USB3.0 相机的FlyCapture2类库则是基于64位的解决方案平台，更改任何一个相机平台都会造成库文件不能使用。同时Bobcat开发包中采用的GenICam 标准[12不支持USB 3.0相机的FlyCapture2 类库。为解决这一问题，我们将USB 3.0 相机界面的启动模块程序添加至GigE相机中，然后分别使用各自的开发包独立设计界面及后台程序。
+
+系统工作时，两个相机有同步采集的要求，所以，系统的一个重要的工作模式就是外部硬件触发模式。在此模式下，图像的采集是由外部触发信号控制，每到来一个外部触发信号，两个相机即采集一帧图像。对于具有时间测量要求或者实时性要求较高的多相机同步控制的场合，一般采用这种外部触发模式。
+
+另外，考虑到系统调试的需要，本文增设了一种工作模式：非外部硬件触发模式，或称为软件触发模式。在此模式下，两个相机进行图像采集是各自独立进行的，两者的成像和图像采集过程没有交集。非外部触发模式包含单帧、多帧图像采集，该模式下两相机为独立运行模式，分别进行控制采集，不具有同步功能。
+
+# 2系统软件的设计
+
+每个相机的生产销售商都会提供一个简单的图像采集程序，但这一演示性质的程序不能满足用户的特殊要求。所以，通常情况下用户必须获得厂商提供的用于相机图像采集软件二次开发的库文件，并在一定的开发环境下自主研发系统软件。
+
+# 2.1系统程序设计流程
+
+根据前述系统工作流程和软件二次开发的总体方案，我们确定了系统成像控制与图像采集系统软件的基本框架，系统的程序设计流程如图2所示。系统上电并稳定运行后，在点击工作站桌面程序图标后，同时打开GigE 相机软件界面和 USB 相机软件界面，进入相机参数设置模式，按成像控制的具体要求，人工配置相机参数（如触发模式，曝光时间，增益，采集帧数和帧率等)。在配置完成后，相机处于等待控制指令状态，此时如果设置相机为外部硬件触发状态，则两相机在收到触发信号即开始图像采集，每到来一次触发信号采集一帧图像。如果为非外部触发模式，则相机可选为单帧触发或者连续触发模式，此时的两相机处于非同步采集状态，可分别进行独立的采集设置，单独开始，单独结束。
+
+![](images/ff1f6ce42cba43ef8701e5e7fbde0e7185fd586e1953e8d24acbc37d0f652f81.jpg)  
+图2程序设计流程图  
+Fig.2 programming flow chart
+
+# 2.2USB3相机软件设计
+
+本文设计的USB3相机图像采集软件的界面，界面分为菜单栏和客户区。菜单栏有设置菜单，用来设置内存中可保存的图像数量。客户区分为采集区域、参数设置区域和触发采集区域。分别依次为单帧、连续采集控制，采集曝光、增益参数控制，软件、硬件触发，加载静态图像、存储设置和格式转换等按钮。
+
+在进行采集之前需要先进行准备阶段，或称为预备阶段，包括：扫描总线、获取相机GUID、初始化连接相机和参数设置。预备阶段完成后，USB3相机图像采集主要使用FlyCapture2 软件开发包中两个相机函数 StartCapture()和 RetrieveBufer()，一个为控制相机开始捕获，另一个控制从相机获取图像。而USB3相机软件的采集和存储功能是通过开始函数Start()、采集线程GrabThread(和存储函数 SaveImage(三个函数实现。
+
+本系统有两种触发方式，USB3相机采集程序就是通过首先获取需要设定的触发模式，然后将相机设定到相应模式即可实现触发模式的设置，其中是采用FlyCapture2 库中TriggerMode结构体及PTTriggerMode枚举类型中参数进行设置。
+
+另外，所用的相机是一般工业相机，其开发包支持常见的BMP等图像文件格式，但不支持 FITS 格式。由于本项目面向天文应用，需要保存FITS 图像，所以需要进行图像文件格式的转换。为此，设计了格式转换对话框，实现将BMP图像保存为天文用FITS文件格式。由于实验使用的USB3相机是彩色相机，需要先将图像转换为16位灰度图，然后再采用相关文献中介绍的方法[13-14]转换为16 位FITS 文件。
+
+# 2.3GigE相机软件设计
+
+本文设计的GigE 相机图像采集软件界面,也分为菜单栏和客户区。菜单栏有File、Tools、Convert、Help 四个选项。File菜单中为exit子项：为关闭界面功能。Tools菜单中有BufferOptions（默认为8个）、Save Image、Save Current Image 三个选项卡。依次分别为设置 Buffer大小、保存图像和保存当前图像子功能。客户区分为Connection 组框、USBConnection 组框、Acquition Control 组框、Parameters and Controls 组框和 Display 组框。分别为相机连接区域、USB相机界面打开、采集控制、参数设置和显示图像功能。
+
+GigE 相机在进行采集之前也有一个预备阶段：首先获取接口号、MAC地址、子网掩码和 IP 地址，然后连接相机，最后向相机寄存器写入参数值以设置相机。GigE 相机图像采集的过程是：首先打开一个数据流（或称管道)，对数据流对象的缓冲区变量Buffer进行设定；接着开启数据流，此时数据不断刷新到缓冲区中，然后通过RetrieveNextBuffer()函数从缓冲区变量IBuffer中获取图像数据；最后通过ProcessBuffer(IBuffer)函数将图像数据传递给后续的存储或显示等函数。存储时从Buffer中获取原始数据并使用 Store 函数将图像保存下来。在进行图像保存的时候与USB3相机软件相同需要进行格式转换。
+
+GigE 相机图像采集系统的软件、硬件触发功能实现方法是：首先使用PvGenParameter类对触发控件的组合框中各参数进行映射，然后使用PvGenCommand 类的 Execute(函数将设置执行即可实现触发。
+
+关于GigE 图像采集软件内存控制，直接定义PVImage 类对象以存储 Buffer中的数据时提示权限问题，不能够自定义PVImage类对象的大小；所以最终选择重新定义结构体SnapImageInfo以定义图像数据格式，然后定义该结构体的数组对象，将Buffer中的数据及参数获取下来赋给在内存中定义的结构体 SnapImageInfo 的对象，从而组成图像保存在内存中。
+
+# 3系统测试结果与分析
+
+在完成高速图像采集系统硬件的搭建和软件的设计之后，需要对整个系统进行相应的测试。整个测试在是一台运行Windows10，64位操作系统，cpu2.30GHz的4 核笔记本电脑是上进行的，测试实验分为两部分：软件测试和同步测试。
+
+# 3.1软件测试
+
+软件测试方案为将相机设定到硬件触发模式，设定图像存储格式为BMP图像，并最终将生成的BMP 图像转换为FITS 图像格式。内存控制功能为将图像数据使用自定义结构体或类对象以数组形式存储于内存中，测试中通过输出其中图像并存储以验证。分别对 GigE相机采集软件和USB3.0相机采集软件进行了测试，记录了经相机采集并转换的FITS 文件的头文件的格式、采集参数等信息。
+
+如图3所示为软件工作在硬件触发状态的运行图（左侧为GigE 相机操作界面，右侧为USB 相机操作界面)，两相机软件均可正常完成单帧、多帧图像采集，软件、硬件触发，内存控制，存储、格式转换等功能。
+
+![](images/232156b6029efc46ec15a9d2caa8cb806944370efe06ceac93b69797764c7c4d.jpg)  
+图3图像采集系统软件运行图  
+Fig.3 Software operationinterface of the image acquisition system
+
+# 3.2同步测试
+
+# 3.2.1测试方案
+
+本项目研制要求图像采集系统的CCD 图像采集频率每两秒钟三张图，每张图片大小55Mb,也就是82.5Mb/s的数据传输速度。图像采集系统使用的USB3相机像素为 $1 9 2 8 ^ { * } 1 4 4 8$ ，存储的图像深度为24位。图像帧率决定着图像的流畅性，帧率越高，图像就会显得越流畅，因此相机输出帧率应保证在12帧/秒以上错误！未找到引用源。。将触发信号帧率设置为21帧/秒，此时USB3相机的数据传输量为 $1 6 7 . 5 8 \mathrm { M b / s }$ 。GigE相机像素为 $1 0 2 4 ^ { * } 1 0 2 4$ ，图像深度为32位，同时在触发信号21Hz时数据传输速度为84Mb/s。均达到项目要求的数据传输速率。
+
+图像采集系统软件的同步测试方案与步骤如下：
+
+（1）两种测试情况：一是图像采集工作站上电运行后未开启其它应用程序，只运行我们编写的图像采集程序，称这为少任务情况；另一种情况是，采集工作站上电运行后除了开启了运行我们编写的图像采集程序，还开启了多个其它应用程序(如Office、网易云、迅雷等)，不过在图像采集时，没有使用这些其它的程序没有执行具体任务，称这为多任务情况。
+
+（2）分别在GigE相机采集软件和USB3.0相机采集软件中外部硬件触发模式下相机采集完成一帧图像到缓冲区时将采集完成的时刻记录到txt文档中，每到来一个触发信号就采集一帧图像，同时记录一次时间信息；外触发信号设置成连续3000个脉冲，即每个相机连续进行3000次的图像采集。
+
+（3）使用MATLAB 软件将GigE 相机采集软件和USB 3.0相机采集软件采集的txt文档中的时间数据读入并作差，生成数据分布图，并由差值计算均值及方差。
+
+# 3.2.2同步测试结果及分析
+
+对软件运行两个时间信息文档进行了保存和分析，信息包括：USB3相机采集时刻记录表和GigE相机采集时刻记录表。原始的时间格式为时分秒毫秒，一共9位。先将记录时刻转换成毫秒（ms）为单位的时间，然后将USB3相机与GigE相机数据相减，得到每次完成图像采集的时间差的数据。在少任务和多任务两种测试情况下，两个相机完成图像采集的时间差如图 4(a)、(b)所示。这种测试进行了十几次，实验数据相差都差异很小。如图4(a)、(b)所示的只是其中一次测试结果。图中，横坐标是图像采集次序（或者说帧数)，纵坐标是每次完成图像采集的时间差。
+
+![](images/4b4be45af7e96e365c5774db00ded8e587d3542a260fea29ff9563106252825c.jpg)  
+图4图像采集系统同步测试结果  
+Fig.4 Synchronized test results of the image acquisition system
+
+对于图 4(a)中，上方有三个点处于 $2 0 \mathrm { m s }$ 左右及两个点处于4ms左右的情况，是由于图像采集程序运行于Windows操作系统下，而Windows系统是抢先式分时多任务操作系统，时间片约10-15ms。在操作系统在采集软件的运行过程中会给予其他应用或设备分配一定的处理时间，因此会造成部分采集记录时刻的误差。另外，两图中出现的以毫秒为单位的整数级差，是由系统测试时采集时间的精度为毫秒所致。
+
+对两种情况下的统计结果是：少任务情况下，时间差均值为 $1 5 . 2 9 0 7 \mathrm { m s }$ ，方差为0.7480ms；多任务情况下，时间差均值为 $1 5 . 4 7 4 5 \mathrm { m s }$ ，方差为 $3 . 1 3 2 8 \mathrm { m s }$ 。
+
+实际上，通过外部同步信号触发的多相机图像采集系统，各相机的曝光时刻在毫秒的量级上都是同步的。如果不考虑Windows操作系统的影响，理论上两个相机的图像采集完成的时间差是固定的。两个相机都按前面的设置帧率（21帧/秒）计算，这个时间差的固定应该是0.3626ms。也就是说，在毫秒的量级上，完成图像采集也是同步的。实验中出现的同步性差异，是指各相机将图像传输到计算机并由计算机采集完成的时间差。这个时间差数据的统计结果，验证了Windows系统下其它程序会对两个相机组成的图像采集系统一定的时间差。这说明，基于Windows操作系统构建的双相机图像采集系统，要获得 $1 0 \mathrm { m s }$ 以内的同步性能，采用软件触发就不可能达到小于5ms的同步曝光要求，必须采用具有外部信号边沿触发功能的相机来构成多相机图像采集系统。并且，系统运行时，应该尽可能减少其它任务（程序）的运行。
+
+金少搏等人介绍的双相机同步控制的织物质量检测系统在软件触发下两相机图像捕捉时间差为 $1 0 0 \sim 6 0 0 ~ \mathrm { m s }$ ，而硬件触发下两相机图像捕捉时间差为 $5 0 0 \sim 6 0 0 ~ \mathrm { m s } ^ { [ 2 }$ 错误！未找到引用源。。这其比较，说明了本文介绍的系统及设计方法的可行性和优越性。
+
+# 4结束语
+
+本文介绍了由UBS3接口相机和GigE 接口相机构成的同步高速图像采集系统的结构，探索了UBS3相机和GigE 相机在互不兼容的开发包下的协同开发方法，编写并实现了便捷控制。两相机的控制软件实现了相机单帧、多帧图像采集，显示图像，软件、硬件触发，采集参数设置，图像存储，格式转换等功能。对该图像采集系统进行了软件测试和同步测试，系统及软件运行稳定，同步测试结果说明系统达到了设计要求。另外，文中也讨论了Windows
+
+操作系统对图像采集任务的影响。
+
+# lmage acquisition system built by USB3 camera and GigEcamera
+
+Wang Yao, Li Binhua,YangShuaiming,ZhangYigong,ChenXiangming (Facultyofiforatiogiingdtomation,unngUesityofiencedcologyKuing,u0,
+
+China)
+
+ABSTRACT: Using a high-speed camera produced by different manufacturers and interface types to form a unified control image acquisition system will greatly increase the dificulty of development. This paper introduces the hardware structure and software development scheme of an image acquisition system consisting of USB3.0 interface CCD camera and GigE interface CCD camera. On the hardware side,the camera captures two cameras simultaneously for imagery by an external image triggering signal. In terms of software, the development kits of diferent cameras are used for secondary development. After the system is running,the control and acquisition interfaces of the two cameras are popped up,and the camera configuration is performed by human-computer interaction. Both cameras can work independently or simultaneously. The image acquisition system experiments show that the system works normally, but the time difference between the two cameras' single-frame image acquisition at the workstation is about 15 milliseconds.
+
+Keywords:image acquisition; USB3; GigE; CCD camera; synchronization
+
+# 参考文献
+
+[1] 王荣本，李琳辉，金立生．双目视觉的智能车辆避障物探测技术研究[J].中国图像图形
+
+学报,2007,12:2158-2163.  
+[2] 金少搏,赵凤霞,李纪峰等．基于多相机同步控制的织物质量检测技术研究[J]．机械研究与应用,2016,29(4):190-192,195.  
+[3] 张升华,黄垒,魏建彦等.交流伺服系统在天文望远镜中的应用研究初探[J].天文研究与技术（国家天文台台刊），2017,14(3):337-346.  
+[4]Li B., Zhang Y., Yang L., et al. Imaging acquisition system with three CCD Cameras, 2012,Proc.SPIE, 8451:84512Y.  
+[5]张益恭,李彬华,杨磊等.多功能天文经纬仪图像采集系统[J].天文研究与技术（国家天文台台刊）,2014,11(1):72-79.  
+[6]Feith W.Pro and con of using GenIcam based standard interfaces (GEV, U3V,CXP andCLHS) in a camera or image processing design, 2015, Proc. SPIE, 9405:940511.  
+[7]李达伦，李彬华，晏佳，基于USB3.0的EMCCD 相机高速数据传输系统的研究，天文研究与技术（国家天文台台刊)，2014,11(3):255-263.  
+[8]JIIA. Coaxpress Standard v1.1.1,2015,  
+http://jia.org/wp-content/themes/jia/pdf/standard_dl/coaxpressCXP-001-2015.pdf，2019-02-26[9]JIIA. IIDC2 Digital Camera Control Specification v1.1.1, 2015,http:/jia.org/wp  
+-content/themes/jiia/pdf/standard_dl/ngcp/CP-001-2015_TS2015001.pdf， 2019-02-26  
+[10] FLIR.GS3-U3-Technical-Reference [DB/OL]，2017,  
+https://www.ptgrey.com/support/downloads/10125/， 2019-02-26  
+[11] Adimec. Technical specifications for OPAL series with 5.5 micron CCD [DB/OL],  
+https://www.adimec.com/cameras/machine-vision-cameras/opal-series/opal-series-5-5-micron/,2019-02-26  
+[12] Emva. GenICam Standard v2.1.1, 2016,  
+https://www.emva.org/standards-technology/genicam/  
+[13] 汪燕芳，赵可新，卢晓猛．用VC 实现 FITS 和BMP 格式的转换_汪燕芳[J]．微计算机信息，2006，22(4)：121，232-233.  
+[14]季凯帆,曹文达,宋谦.FITS、BMP 和 SCR 图象格式及相互转换[J].云南天文台台刊,1996(02):60-64.

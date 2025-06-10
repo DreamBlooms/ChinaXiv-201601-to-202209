@@ -1,0 +1,218 @@
+1 仔猪胃肠道内分泌细胞分布与化学感应作用
+
+2 朱翠」杨 俊」蒋宗勇1,2 陈庄1\*
+
+3 （1.广东省农业科学院农业生物基因研究中心，广州510640；2.广东省农业科学院动物科学  
+4 研究所，广州 510640)  
+5摘要：胃肠道内分泌细胞（EECs）是胃肠道黏膜特化的上皮细胞，其数量超过机体其他  
+6 部位所有内分泌细胞的总和，构成了机体最大的内分泌器官。研究发现，哺乳动物胃肠道至  
+7 少有 20多种EECs，其所分泌的胃肠激素在调节胃肠生理功能、能量平衡和摄食行为、胃肠  
+8 化学感应、营养物质代谢以及免疫调节等方面发挥重要作用。本文综述了EECs 的分类、EECs  
+9 的研究手段和方法、仔猪 EECs分布的研究进展，并总结了EECs的化学感应作用、EECs  
+0 与免疫功能，以及肠道微生物与胃肠化学感应等方面的进展，从而为实施改善仔猪肠道健康  
+1 和生长发育的营养调控措施提供科学依据。
+
+关键词：胃肠道内分泌细胞；胃肠激素；化学感应；仔猪；肠道微生物；免疫中图分类号：S828 文献标识码：A文章编号：
+
+14 胃肠道是机体与外界环境物质进行接触最为重要的部位，胃肠道与神经中枢相互作用，  
+15 影响胃肠运动和分泌、营养物质的消化吸收、免疫和机体代谢等生理过程，这离不开胃肠道  
+16 上皮层不同类型细胞（如吸收性肠上皮细胞、胃肠道内分泌细胞、杯状细胞、潘氏细胞和 M  
+17 细胞等）的相互作用。其中，胃肠道内分泌细胞（enteroendocrine cells,EECs）占整个胃肠腔  
+18 上皮细胞的比例不到 $1 \%$ ，但其数量超过机体其他部位所有内分泌细胞的总和，因此构成了  
+19 体内最大的内分泌器官。EECs 所分泌的多种激素统称胃肠激素（gut hormones），参与调节  
+20 胃肠道自身的运动和分泌功能、能量平衡和摄食行为、胃肠化学感应、营养物质代谢以及免  
+21 疫调节过程。目前，对于人和鼠的 EECs 研究较多，尤其是胃肠激素及其受体基因、EECs  
+22 与免疫调节、肠道微生物代谢产物对 EECs的化学感应的互作等方面，取得较大的研究进展，  
+23 而对仔猪方面的研究报道较少。本文概述了仔猪 EECs 的分布及其化学感应作用，旨在为其  
+24 在调控肠道健康和相关疾病防治中的应用提供参考。
+
+# 25 1EECs的分类
+
+收稿日期：2018-04-25  
+基金项目：国家十三五重点研发专项（2016YFD0500501）；国家自然科学基金项目（31501967，31472112)；广州市科技计划项目（201607020035）；广东省农业科学院优秀中青年人才培养项目  
+作者简介：朱翠（1985-），女，广东河源人，副研究员，博士，主要从事仔猪营养研究。E-mail:juncy2010@gmail.com  
+\*通信作者：陈庄，研究员，E-mail:chenzhuang@agrogene.ac.cn
+
+EECs 由肠道干细胞分化而来，在整个胃肠道黏膜上皮呈弥散分布，被认为是体内最大的内分泌器官[1]。研究发现，哺乳动物至少有20种EECs，主要有G细胞、D细胞、EC 细胞、X/A样细胞、K细胞、L细胞和I细胞等（表1）。绝大部分EECs为开放型，其游离面的微绒毛可伸出管腔，感受管腔食物的刺激和胃肠pH等变化，从而引起其内分泌活动的变化[2]；少部分 EECs为封闭型，其顶部被相邻细胞覆盖而未能伸出管腔，主要感受胃肠运动、神经调节和激素分泌等变化而影响其内分泌状态[3]。
+
+表1胃肠道内分泌细胞及其分泌的激素  
+Table 1EECs and hormones secreted by EECs   
+
+<html><body><table><tr><td>细胞类型 Cell types</td><td>分布 Distribution</td><td>激素 Hormone</td><td>功能 Function</td><td>参考文献 References</td></tr><tr><td>G细胞G cell</td><td>胃窦、胃幽门、十二 指肠</td><td>胃泌素(gastrin)</td><td>对壁细胞的泌酸功能有强烈的刺激作用</td><td>[4-6]</td></tr><tr><td>D细胞 D cell</td><td>胃肠道</td><td>生长抑素 (somatostatin)</td><td>抑制胃肠激素分泌</td><td>[4,7]</td></tr><tr><td>D1细胞 D1 cell</td><td>胃底、胃幽门、肠道</td><td>血管活性肠肽 (VIP)</td><td>舒张肠道平滑肌</td><td>[8]</td></tr><tr><td>EC细胞 EC cell</td><td>胃底、胃幽门、肠道</td><td>5-羟色胺(5-HT)</td><td>刺激肠道平滑肌收缩，调节胃肠道运动</td><td>[9]</td></tr><tr><td>ECL 细胞 ECL cell</td><td>胃底</td><td>组胺(histamine)</td><td>作用于壁细胞，间接促进盐酸分泌</td><td>[10]</td></tr><tr><td>X/A样细 胞</td><td>胃窦</td><td>胃饥饿素</td><td></td><td>[9,11]</td></tr><tr><td>X/A-like cell</td><td></td><td>(ghrelin)</td><td>促进采食</td><td></td></tr><tr><td>S细胞S cell</td><td>十二指肠、空肠</td><td>肠促胰液素 (secretin)</td><td>抑制胃酸分泌，促进胰腺HCO分泌</td><td>[12-13]</td></tr><tr><td>K细胞K cell</td><td>空肠、回肠</td><td>抑胃多肽(GIP)</td><td>抑制胃酸分泌，刺激胰岛素释放</td><td>[14]</td></tr><tr><td>I细胞 1 cell</td><td>十二指肠、空肠</td><td>胆囊收缩素 (CCK)</td><td>促进胰酶分泌和胆囊收缩，抑制采食</td><td>[15]</td></tr><tr><td>MO细胞 M0 cell</td><td>空肠、回肠</td><td>胃肠动素 (motilin)</td><td>促进胃肠蠕动</td><td>[16-17]</td></tr><tr><td>N细胞N cell</td><td>空肠、回肠</td><td>神经降压素 (neurotensin)</td><td>降低血管张力</td><td>[18]</td></tr><tr><td>L细胞L cell</td><td>小肠远端和结肠</td><td>胰高血糖素样 肽-1/2</td><td>促进胰岛素分泌，抑制采食、分泌和蠕动</td><td>[9,14,18]</td></tr><tr><td></td><td></td><td>(GLP-1/2)、酪酪 肽（PYY)</td><td></td><td></td></tr><tr><td>P细胞P cell</td><td>胃底、胃幽门、空肠</td><td>蛙皮素 (bombesin)</td><td>刺激各种胃肠激素的释放，调节胃肠运动</td><td>[19]</td></tr></table></body></html>
+
+<html><body><table><tr><td>PP 细胞</td><td>对胃泌素引起的胃酸分泌的抑制作用</td><td>[20]</td></tr><tr><td>胃肠道 PP cell</td><td>胰多肽(PP)</td><td></td></tr></table></body></html>
+
+每种 EECs可合成和分泌一种或多种调节肽或活性分子，不同的 EECs具有不同的化学感应机制。研究发现，胃肠道分泌的具有调节功能的肽类有40 多种，包括胃肠激素、神经递质和生长因子等[21]。目前已知的胃肠激素有 20 多种，主要通过4种方式作用于靶细胞[22]:1）大部分胄肠激素（如胆囊收缩素、促胰液素等）通过内分泌方式进入血液循环运送至靶细胞而起作用；2）一些胃肠激素（如生长抑素）通过旁分泌方式经细胞间隙弥散至邻近细胞发挥作用；3）还有一些胃肠激素（如胃泌素、胰多肽等）则通过腔分泌方式直接进入肠腔发挥效应；4）胃肠激素还可以通过自分泌方式分泌到细胞外，作用于细胞膜上的激素受体而发生效应。胃肠激素与靶细胞上相应的受体结合后可产生相应的生物学效应，如调节胃排空和胃酸分泌、调节胃肠道蠕动和平滑肌运动、调节食欲和采食行为、促进肠液分泌和保护胃肠道黏膜等作用[23]。
+
+# 2.研究EECs的手段和方法
+
+EECs主要弥散分布于胃肠道，大多呈不规则的圆锥形，基底部附于基膜，并有基底侧突与邻近细胞相接触，底部胞质中含大量分泌颗粒，而不同EECs中分泌颗粒的大小、形状与密度存在差异。由于EECs在常规的苏木精-伊红染色组织切片上不易辩认，目前主要通过免疫组织化学（immunohistochemistry,IHC）和免疫荧光(immunofluorescence,IF)方法来显示这些细胞。即通常采用所分泌的激素或细胞表面受体的单克隆抗体或多克隆抗体，通过应用免疫组织化学或免疫荧光技术，在荧光显微镜或激光共聚焦显微镜下检测 EECs[9,14,24]。有些EECs 因其分泌颗粒具嗜铬性、嗜银性或亲银性，可通过电镜观察而被显示[24]。最新研究表明，通过流式细胞仪荧光分选（fluorescence-activated cell sorter,FACS）技术可以筛选得到小鼠肠道EC 细胞[25]。此外，还可结合RT-PCR 和Western blotting方法对 EECs 的标志分子或受体基因进行综合检测[1I]。
+
+3仔猪EECs分布的研究进展
+
+3.1EC 细胞
+
+胃肠道 $90 \%$ 以上的5-羟色胺存储于EC 细胞内，主要分布在胃至结肠的黏膜上皮中，5-HT 直接作用于平滑肌和神经元，改变肠蠕动。对于三元杂仔猪而言，EC 细胞主要以空肠处最多[26]。但是，作为我国优良地方猪种，梅花仔猪的十二指肠、空肠、回肠和结肠上皮均存在EC 细胞，且十二指肠的数量要显著高于其他肠段，主要呈锥形、圆形和梭形等形态[9]。研究发现，不同日龄（0、5、15和100日龄）、不同肠段（十二指肠、空肠和回肠）及日龄 $\times$ 肠段对英系大白猪的EC 细胞密度均有显著影响，其中5、15和100日龄时EC 细胞密度均以十二指肠最高；同一肠段不同日龄间比较发现，十二指肠 EC 细胞密度以15日龄显著高于其他日龄，而空肠和回肠EC 细胞密度呈现随着肠段延长而显著降低的趋势[27]。此外，研究者通过免疫组织化学方法测定了生长猪的D细胞、EC 细胞和L细胞的分布，发现它们主要分布于胃腺和肠腺上皮细胞之间，少数散布于胃肠黏膜上皮细胞之间，而极少数存在于十二指肠腺上皮细胞之间，数量则为EC 细胞 ${ \mathrm { > D } }$ 细胞 ${ \mathrm { > L } }$ 细胞[28]。
+
+# 3.2G细胞
+
+胃泌素主要由G细胞所分泌，具有促进胃酸分泌，调节胃排空、食欲、进食、应激和记忆等作用。猪的G细胞主要位于胃窦腺区[4和胃幽门区[5]的中部，其数量要低于小鼠而高于人，且G细胞和D细胞的受体均包括G蛋白耦联受体C家族6组A(GPRC6A)、钙敏感受体(CaSR)和G蛋白偶联受体(GPR)92[4]。在人、猩猩和大鼠的胃窦中，G 细胞和D 细胞存在于胃窦上皮层的相同区域[7]。童川等[26]通过用免疫组织化学方法研究了不同日龄（0 日龄、7日龄、28日龄、35日龄、2月龄和4月龄）仔猪和生长猪消化道内分泌细胞的发育规律，发现G细胞主要分布在胃幽门处，其他肠道组织偶尔可见零星散布的G细胞，其时空分布规律与母乳喂养和断奶应激等因素有关。
+
+# $3 . 3 \mathrm { X / A }$ 样细胞
+
+胃饥饿素是一种主要由X/A样细胞分泌的，具有调节食欲、激素释放、胄酸分泌、胃肠蠕动、能量稳态、促进细胞增殖等多种功能的胃肠道内分泌激素，主要通过其功能性受体生长激素促分泌素受体-1a(GHSR-1a)发挥生物学功能[29]。胃饥饿素通常在进食前升高，进食后下降。本课题组前期研究发现，梅花猪和长白猪仔猪的胃腺体部、胃幽门、十二指肠和空肠都存在X/A样细胞，其中胃幽门的X/A 样细胞密度长白猪要显著高于梅花猪，而空肠的X/A 样细胞密度梅花猪要显著高于长白猪，且梅花猪与长白猪GHSR-1a表达水平与X/A 样细胞数量分布趋势一致，都是沿肠道方向递减[]。此外，研究还发现，胃饥饿素在不同日龄猪消化道中从胃到盲肠均可检测到，但X/A样细胞密度表现为胃 $>$ 小肠 $\vartriangleright$ 大肠，以胃体区、胃幽门和胃贲门的数量最多，且当仔猪 28日龄断奶时其胃体区X/A样细胞密度显著高于其他日龄。可见，猪的X/A样细胞数量分布受到日龄、采食量、断奶应激及品种差异等因素的影响。
+
+3.4L细胞
+
+L 细胞是EECs 的重要组成部分，主要分泌胰高血糖素样肽-1、胰高血糖素样肽-2（GLP-1）和酪酪肽等重要的肽类激素。其中，空腹时体内胰高血糖素样肽-1水平较低，进食后1h胰高血糖素样肽-1水平迅速上升，进入血液的胰高血糖素样肽-1能够刺激胰岛β细胞分泌胰岛素，并抑制α细胞分泌胰高血糖素，从而控制食欲和血糖水平。研究认为，大概只有 $2 5 \%$ 的胰高血糖素样肽-1分泌量进入肝门静脉， $4 0 \% \sim 5 0 \%$ 在肝脏中被降解，只有 $1 0 \% \sim$ $1 5 \%$ 最终进入全身血液循环中[30]。有研究比较了鼠、猪和人胎儿肠道中胰高血糖素样肽-1阳性细胞的分布，发现它们主要分布于肠道远端，其中鼠和猪胎儿的回肠中数量较多[31]。另一研究则指出，大鼠肠道的胰高血糖素样肽-1阳性细胞数量要高于猪和人[32]。本课题组前期也发现，梅花仔猪不同部位（十二指肠、空肠、回肠和结肠）均有胰高血糖素样肽-1阳性细胞，其密度随着肠道延长呈抛物线分布，以回肠中数量最多[9。临床上2型糖尿病患者的胰高血糖素样肽-1分泌功能异常，可通过受体阻断剂抑制胰高血糖素样肽-1作用，降低饱感信号，而应用于治疗2型糖尿病[33]。
+
+研究表明，同一种EECs可分泌多种肠道激素。胰高血糖素样肽-2是L细胞分泌的另一种重要多肽激素，对胃肠道具有多种生物学功能，如促进肠上皮细胞增殖，抑制其凋亡，提高小肠重量，保护和修复各种肠道疾病中损伤的肠黏膜，恢复和维持小肠黏膜上皮屏障的完整性，从而促进正常小肠的生长和发育，还能抑制胃酸的分泌和胃肠的运动，增加肠道的血液供应等[34-35]。研究表明，对于猪而言，在产前3周胎猪的肠道就开始快速发育，到出生后24h 后，仔猪肠道重量增加，此时血浆胰高血糖素样肽-2水平也随之增加[36]。值得注意的是，不同锌源和锌水平对猪 IPEC-J2 细胞胰高血糖素样肽-2 基因表达具有显著影响[37]。体外细胞试验结果表明，添加胰高血糖素样肽-2可以显著提高结肠上皮细胞的紧密连接蛋白Occludin 和 ZO-1的表达量[38]。此外，小肠L细胞除了可分泌胰高血糖素样肽-1和胰高血糖素样肽-2外，还能分泌酪酪肽、胆囊收缩素和神经降压素[39]。在大鼠上的研究发现，酪酪肽主要由小肠后段的L 细胞所分泌[39]，而小鼠十二指肠和空肠几乎没有L细胞[14]。但是，在猪的十二指肠发现有超过 $40 \%$ 的 EECs同时分泌酪酪肽，大部分还同时分泌胰高血糖素样肽-1或抑胃多肽，提示传统的K细胞和L细胞分类方法需要重新界定[14]。
+
+3.5其他
+
+除了上述EC 细胞、G 细胞、X/A 细胞和L细胞研究相对较多外，仔猪胃肠道其他 EECs细胞报道则较少。有研究者采用免疫组织化学和电镜方法，发现猪肠道黏膜中S细胞、I细胞和D 细胞的颗粒大小具有明显差异，其中D细胞在十二指肠、胃幽门和胃底区表达最多，S 细胞和I细胞主要分布在十二指肠黏膜[13]。研究还发现，食欲肽阳性细胞与X/A样细胞和G 细胞共定位，且它们所分泌的食欲肽、胃泌素和胃饥饿素在胄、十二指肠、空肠、盲肠、结肠和直肠中均有表达，表明这些胄肠激素可能相互协作参与调节胄液分泌、能量平衡、体重和采食量等[40]。研究还表明，断奶后在仔猪饲粮中添加丁酸钠可显著提高断奶仔猪胃黏膜中嗜铬粒蛋白A阳性细胞和D细胞的数量[41]。
+
+4EECs的化学感应作用
+
+# 4.1胃肠化学感应
+
+胃肠化学感应（gutchemosensing）是指EECs功能与内脏迷走神经元之间的一种营养素化学感应系统（nutrient system），涉及神经元、胃肠道化学感应细胞（味觉受体细胞）、管腔化学感受器和免疫系统的复杂调控[42]。作为胃肠道的初级化学感受器，EECs可通过分泌激素和神经递质，激活相应的靶细胞和神经通路，进而对胃肠道内容物做出响应。神经元包括传入神经元和内在神经元，能检测管腔内容物，产生反射作用，影响胃肠蠕动、血流量以及水和电解质的分泌。管腔化学感受器（味觉受体）主要是G蛋白偶联受体（G-proteincoupled receptors,GPCRs）和膜表面溶质转运载体（solute carrier transporter,SLC），在胃肠道不同类型的细胞上均有表达（图1），以胃肠道内分泌细胞管腔侧数量较多[43]。其中，哺乳动物的化学感受器主要属于G蛋白偶联受体超家族，包括味觉受体第1家族（T1Rs或TAS1Rs）和味觉受体第2家族（T2Rs或 TAS2Rs）。T1Rs家族由T1R1、T1R2 和 T1R3 组成，其中T1R1+T1R3 是鲜味受体，T1R2+T1R3是甜味受体，T2Rs是苦味受体。
+
+如图1-b 所示，EECs对碳水化合物的感应依靠T1R2/T1R3、钠葡萄糖共转运载体1(SGLT1)和 ATP 敏感性钾通道等来完成[43]。碳水化合物与EECs上的甜味感受器结合后，活化α-gustducin，激活磷脂酶C，使得膜去极化，导致胞内 $\mathrm { C a } ^ { 2 + }$ 升高，引起相关激素和神经递质的释放，如5-羟色胺、抑胃多肽和胰高血糖素样肽-1等。甜味物质等能刺激肠道产生饱感信号（胰高血糖素样肽-1、酪酪肽和胆囊收缩素），通过迷走神经传递到下丘脑而抑制采食。EECs对蛋白质消化产物（肽和氨基酸）的感应主要涉及CaSR、T1R1/T1R3 和GPRC6A，诱导膜去极化和相关激素分泌，这些过程主要受到哺乳动物雷帕霉素靶蛋白复合物1（mTORC1）信号通路的介导[43-44]。研究还发现，潘氏细胞（Paneth cell）和塔夫细胞（Tuftcell）上也表达 T1R1/T1R3，因而也能感应肠腔中的蛋白质和氨基酸[43,45]。此外，乳糜微粒的形成可能引起EECs的脂质刺激和感应，EECs对游离脂肪酸的感受则依赖于游离脂肪酸受体（FFAR）1/2/3/4、GPR119、GPR120、OLFR78 和分化抗原 36(CD36)等化学感受器来完成[43]。
+
+可见，EECs存在营养感应通路，能够感应肠腔营养物质[46]，并分泌胆囊收缩素、胰高血糖素样肽-1/2、抑胃多肽、酪酪肽、5-羟色胺、生长抑素、胃泌素以及胃饥饿素等胃肠激素，启动迷走神经信号，将信号传递给下丘脑和肠腔相邻细胞，进而调节动物的生理功能、营养物质的吸收与代谢、肠道黏膜屏障和免疫等功能[47-49]。可见，随着人们对 EECs及其胃肠激素的作用和胃肠道化学感应的原理有了更全面地认识之后，通过在猪营养调控研究以及养猪生产中应用胃肠内分泌系统作为调控靶点，可为仔猪的营养调控措施、药物开发和相关疾病干预措施等提供科学依据[50]。
+
+![](images/d8a54b3a137c5469e9366d08ce5b3cac9ea80575b5df1eda6dc63796fd596b5a.jpg)
+
+a:肠上皮细胞 enterocytes；b:肠道内分泌细胞 enteroendocrine cells；c:机械感受神经元 mechanosensory  
+neurons；d:杯状细胞、潘氏细胞和塔夫细胞 goblet cells,Paneth cells and Tuft cells。AA：氨基酸 amino acid；CaSR：钙敏感受体 calcium-sensing receptor；CD36：分化抗原 36 cluster of  
+differentiation36；FATP4：脂肪酸转运蛋白4 fattyacid transportprotein 4；FFAR1/2/3/4：游离脂肪酸受体  
+1/2/3/4 free faty acid receptor1/2/3/4；GLUT2/5:葡萄糖转运载体 2/5 glucose transporter 2/5；GPR119:G蛋  
+白偶联受体 119 G protein-coupled receptor 119；GPRC6A：G蛋白耦联受体 C家族 6组AG protein-coupled  
+receptor family C group 6 member A; ${ \sf K } _ { \mathrm { A T P } }$ ：ATP 敏感性钾通道 ATP-sensitive potassum；MCT：单羧酸转运  
+蛋白 monocarboxylate transporter；OLFR78：嗅觉受体 78 olfactory receptor 78；PEPT1/2：肽转运蛋白1/2  
+peptide transporter 1/2；SCFA/HCO3：短链脂肪酸/碳酸氢根交换体 short-chain fatty acid bicarbonate  
+exchanger；SGLT1/3:钠葡萄糖共转运载体 1/3 sodium-dependent glucose cotransporter 1/3; TAS1R1/2/3：味觉
+
+Fig.1Chemosensors in different cell types of gastrointestinal epithelium[43]
+
+# 4.2EECs与免疫功能
+
+研究认为，EECs是调节肠道免疫的重要因素，也是肠道屏障功能的重要组成部分[47]。许多研究表明，5-羟色胺可以作用于多种免疫细胞（如肥大细胞、单核细胞、树突状细胞、T 细胞、B细胞、嗜酸性粒细胞和中性粒细胞），激活细胞因子的分泌，从而影响先天免疫与获得性免疫的相互关系，还可以直接作用于杯状细胞，诱导黏蛋白的产生[51]。在人和鼠上则发现，在炎症状态下EECs的数量和肠道激素分泌均发生显著变化，其中炎症性肠病显著增加了回肠5-羟色胺细胞、胰高血糖素样肽-1细胞和酪酪肽细胞的数量，以及胰高血糖素样肽-2 的分泌[52]。值得注意的是，患炎症性肠病的病人的 EECs会增加促炎性细胞因子白细胞介素-17C（IL-17C）的产生[53]。此外，胆囊收缩素还能直接影响T 细胞和B 细胞的功能，促进Ⅱ型辅助性T细胞（Th2 细胞）和调节性T细胞的产生[54]。胃饥饿素被证实可以激活磷脂酰肌醇3-激酶（PI3K）和蛋白激酶C（PKC）信号通路，从而促进T细胞的增殖[55],并减少辅助性T细胞17（Th17细胞）作用而参与抗炎性反应[56]。因此，免疫-内分泌轴有可能成为肠道感染和肠道炎症紊乱的治疗靶点[47]。
+
+# 4.3肠道微生物与胃肠道化学感应
+
+研究发现，肠道微生物在宿主胃肠化学感应方面发挥重要作用。肠道微生物代谢产物（如短链脂肪酸）可以通过激活 EECs的感应影响宿主大脑，形成微生物-脑-肠轴，调节动物采食，进而影响机体整体代谢[2]。此外，EECs上表达 Toll样受体（TLRs）对病原菌进行识别[57]，并通过表达特定代谢产物受体对有益菌做出反应，有助于维持肠道稳态[58]。例如，肠道细菌代谢物激活肠道内分泌细胞，产生胰高血糖素样肽-1、酪酪肽和胆囊收缩素等，还可以通过调节胆汁酸，激活法尼酯衍生物X受体(FXR)和G蛋白胆汁酸偶联受体5（TGR5，又称为GPBAR1），刺激胰高血糖素样肽-1分泌。脂多糖（LPS）和细菌鞭毛蛋白等激活TLR4、TLR5和 TLR9 后，会引起肠道内分泌细胞分泌胆囊收缩素[59]。此外，L细胞上表达短链脂肪酸的受体（如GPR41、GPR43、GPR119 和 TGR5）从而诱导胰高血糖素样肽-1、胰高血糖素样肽-2和酪酪肽的分泌，进而调节能量平衡、糖类代谢、肠道屏障功能和代谢性炎症等过程[58]。最新研究表明，丙酸和丁酸显著提高了人的 EECs细胞系（NCI-h716）中酪酪肽基因的表达量和分泌水平[60]。在小鼠上的研究表明，小肠部位的EC 细胞主要通过L细胞旁分泌形式刺激胰高血糖素样肽-1的产生而间接地感应肠腔营养物质，但是结肠部位的 EC 细胞却表达许多微生物代谢产物的受体，能感应短链脂肪酸、次级胆汁酸、酮类和芳香酸等微生物代谢产物的刺激[25]。有意思的是，无菌小鼠对 EECs 的数量具有显著的影响[61]。研究还发现，L细胞有表达胆汁酸受体TGR5，可以感受胆汁酸的刺激，从而促进胰高血糖素样肽-1和胰高血糖素样肽-2的分泌，进而调节能量代谢，因此，有研究者尝试通过靶向调控TGR5 达到调节断奶仔猪胰高血糖素样肽-2分泌的目的[62]。
+
+# 5小结与展望
+
+综上所述，仔猪胃肠道已发现存在多种EECs及其分泌的激素，它们对仔猪食欲和采食、胃肠道的消化生理、营养吸收、肠道屏障和免疫等方面具有非常重要的调节作用。此外，EECs 作为胃肠道化学感应的主要组成成分，其表面存在多种化学感受器，可以识别肠腔中的营养素、毒素以及肠腔微生物和代谢产物，将味觉信号传入神经中枢进行加工处理，释放激素和神经递质作用于靶细胞和迷走神经后，进而调控肠道生理功能和机体活动[63]。因此，针对断奶仔猪应激问题，研究者有望将EECs作为调控靶点，通过调控胄肠道化学感受器及其激素分泌，刺激食欲和调节采食量，改善仔猪肠道发育，促进肠黏膜屏障功能，减少黏膜炎症发生，从而提高肠道完整性和健康，并通过调控肠道微生物内环境，促进短链脂肪酸合成和胆汁酸代谢，改善仔猪生长性能。
+
+参考文献：
+
+[1] AHLMAN H,NILSSON.The gut as the largest endocrine organ in the body[J].Annals of Oncology,2001,12（Suppl.2） :S63-S68.   
+[2] GRIBBLE F M,REIMANN F.Enteroendocrine cells:chemosensors in the intestinal epithelium[J].Annual Review of Physiology,2016,78:277-299.   
+[3] JANSSEN S,LAERMANS J,IWAKURA H,et al.Sensing of fatty acids for octanoylation of ghrelin involves a gustatory G-protein[J].PLoS One,2012,7(6):e40168.   
+[4] HAID D C,JORDAN-BIEGGER C,WIDMAYER P,et al.Receptors responsive to protein breakdown products in g-cells and d-cells of mouse,swine and human[J].Frontiers in Physiology,2012,3:65.   
+[5] BUSSOLATI G,PEARSE A G E.Immunofluorescent localization of the gastrin-secreting G cells in the pyloric antrum of the pig[J].Histochemie,1970,21(1):1-4.   
+[6] VITARI F,DI GIANCAMILLO A,DEPONTI D,et al.Distribution of ghrelin-producing cells in thegastrointestinaltractofpigsatdiffrentages[J].VeterinaryResearch
+
+Communications,2012,36(1):71-80.
+
+[7]BUCHAN A M J,SIKORA L K J,LEVY J G,et al.An immunocytochemical investigation with monoclonal antibodies to somatostatin[J].Histochemistry,1985,83(2):175-180.   
+[8]张肠,李平.血管活性肠肽的研究进展[J].医学综述,2009,15(21):3235-3238.   
+[9] 陈中健,吴秀菊,朱翠,等.梅花猪胃肠道 5-羟色胺、胃饥饿素和胰高血糖素样肽-1免疫阳 性细胞分布特征研究[J].中国畜牧兽医,2017,44(5):1498-1507.   
+[10]LAMBRECHT N W G,YAKUBOV I,ZER C,et al.Transcriptomes of purified gastric ECL and parietal cels:identification of a novel pathway regulating acid secretion[J].Physiological Genomics,2006,25(1):153-165.   
+[11]苏浩贤.梅花猪与长白猪仔猪 Ghrelin 阳性细胞在胃肠道的分布及相关基因表达研究 [D].硕士学位论文.广州:华南农业大学,2016:19-42.   
+[12]ZELKAS L,RAGHUPATHI R,LUMSDEN A L,et al.Serotonin-secreting enteroendocrine cells respond via diverse mechanisms to acute and chronic changes in glucose availability[J].Nutrition & Metabolism,2015,12:55.   
+[13]SOLCIA E,CAPELLA C,VEZZADINI P,et al.Immunohistochemical and ultrastructural detection of the secretin cellin the pig intestinal mucosa[J].Experientia,1972,28(5):549-550.   
+[14]CHO H J,KOSARI S,HUNNE B,et al.Differences in hormone localisation patterns of K and L type enteroendocrine cells in the mouse and pig small intestine and colon[J].Cell and Tissue Research,2015,359(2):693-698.   
+[15]ZHAO X Y,XIAN Y H,WANG C,et al.Calcium-sensing receptor-mediated L-tryptophan-induced secretion of cholecystokinin and glucose-dependent insulinotropic peptide in swine duodenum[J].Journal of Veterinary Science,2018,19(2):179-187.   
+[16]SCHWEIGER M,STEFFL M,AMSELGRUBER W M.Co-localization of the zinc transporter ZnT8 (slc30A8) with ghrelin and motilin in the gastrointestinal tract of pigs[J].Histology and Histopathology,2016,31(2):205-211.   
+[17]CHEN C Y,TSAI C Y.Ghrelin and motilin in the gastrointestinal system[J].Current Pharmaceutical Design,2012,18(31):4755-4765.   
+[18]KUHRE R E,CHRISTIANSEN C B,SALTIEL M Y,et al.On the relationship between glucose absorption and glucose-stimulated secretion of GLP-1,neurotensin,and PYY from different intestinal segments in the rat[J].Physiological Reports,2017,5(23):e13507.
+
+58 [19] WESTSD,MERCER D W.Bombesin-inducedgastroprotection[J].Annalsof   
+59 Surgery,2005,241(2):227-231.   
+60 [20] HOLZER P,REICHMANN F,FARZI A.Neuropeptide Y,peptide YY and pancreatic   
+61 polypeptide in the gut-brain axis[J].Neuropeptides,2012,46(6):261-274.   
+62 [21] REHFELD J F.The new biology of gastrointestinal hormones[J].Physiological   
+63 Reviews,1998,78(4):1087-1108.   
+64 [22] BERG CJ,KAUNITZ J D.Gutchemosensing:implicationsfordisease   
+65 pathogenesis[J].F1000Research,2016,5:2424.   
+66 [23] STEINERT R E,FEINLE-BISSET C,GEARY N,et al.Digestive physiology of the pig   
+67 symposium:secretion of gastrointestinal hormones and eating control[J].Journal of Animal   
+68 Science,2013,91(5):1963-1973.   
+69 [24]BALLOUHEY Q,RICHARD L,FOURCADE L,et al.Involvement of the enteroendocrine   
+70 system in intestinal obstruction[J].PLoS One,2017,12(11):e0186507.   
+71 [25]LUND ML,EGEROD K L,ENGELSTOFT M S,et al.Enterochromaffin 5-HT cells-A major   
+72 target for GLP-1 and gut microbial metabolites[J].Molecular Metabolism,2018,11:70-83.   
+73 [26]童川,岳晓慧,冯俊基,等.仔猪消化道胃泌素和五羟色胺分泌细胞时空分布的观察[J].中   
+74 国农学通报,2010,26(10):5-8.   
+75 [27] 张晗,王磊,张涛,等.不同日龄猪小肠黏膜 5-HT 分布特征的研究[J].中国农业科   
+76 学,2008,41(12):4218-4224.   
+77 [28] 王石平,李克平.猪和狗胃肠道内分泌细胞的分布和密度[J].华中农业大学学   
+78 报,1989,8(1):85-87.   
+79 [29] DONG X Y,XU J,TANG S Q,et al.Ghrelin and itsbiological effectson   
+80 pigs[J].Peptides,2009,30(6):1203-1211.   
+81 [30] HANSEN L,DEACON C F,ORSKOV C,et al.Glucagon-like peptide-1-(7-36)amide is   
+82 transformed to glucagon-like peptide-1-(9-36)amide by dipeptidyl peptidase IV in the   
+83 capillaries supplying theLcells of the porcine   
+84 intestine[J].Endocrinology,1999,140(11):5356-5363.   
+85 [31]王俊波,李艳君,宁树君,等.GLP-1-IR 细胞在鼠、猪和人胎儿肠道的分布[J].解剖科学进   
+86 展,2000,6(2):140-143.   
+87 [32] EISSELE R,GOKE R,WILLEMER S,et al.Glucagon-like peptide-1 cells inthe
+
+gastrointestinal tract and pancreas of rat,pig and man[J].European Journal of Clinical Investigation,1992,22(4):283-291.
+
+[33] BEGG D P,WOODS S C.The endocrinology of food intake[J].Nature Reviews Endocrinology,2013,9(10):584-597.   
+[34]DROZDOWSKI L,THOMSON A B R.Intestinal hormones and growth factors:effects on the small intestine[J].World Journal of Gastroenterology,2009,15(4):385-406.   
+[35]吴云红,朱亮,邹原.GLP-2的生物学作用的研究进展[J].中国药理学通 报,2009,25(12):1673-1677.   
+[36]PETERSEN Y M,HARTMANN B,HOLST J J,et al.Introduction of enteral food increases plasma GLP-2 and decreasesGLP-2 receptor mRNA abundance duringpig development[J].The Journal of Nutrition,2003,133(6):1781-1786.   
+[37]计乔平,余冰,韩国全,等.不同锌源和锌水平对猪 IPEC-J2 细胞GLP-2基因表达的影响[J]. 中国畜牧杂志,2013,49(13):35-38.   
+[38]MORAN G W,O'NEILL C,MCLAUGHLIN J T.GLP-2 enhances barrier formation and attenuatesTNF $\mathfrak { a }$ -induced changesin a Caco-2 cell model of theintestinal barrier[J].Regulatory Peptides,2012,178(1/2/3):95-101.   
+[39]SVENDSEN B,PEDERSEN J,ALBRECHTSEN N J W,et al.An analysis of cosecretion and coexpressionofguthormonesfrommaleratproximalanddistalsmall intestine[J].Endocrinology,2015,156(3):847-857.   
+[40] DALL'AGLIO C,ZANNONI A,FORNI M,et al.Orexin system expression in the gastrointestinal tract of pigs[J].Research in Veterinary Science,2013,95(1):8-14.   
+[41]MAZZONI M,LE GALL M,DE FILIPPI S,et al.Supplemental sodium butyrate stimulates different gastric cells in weaned pigs[J].The Journal of Nutrition,2008,138(8):1426-1431.   
+[42]RAYBOULD H E.Gut chemosensing:interactions between gut endocrine cells and visceral afferents[J].Autonomic Neuroscience,2010,153(1/2):41-46.   
+[43] STEENSELS S,DEPOORTERE I.Chemoreceptors in the gut[J].Annual Review of Physiology,2018,80(1):117-141.   
+[44] EFEYAN A,COMB W C,SABATINI D M.Nutrient-sensing mechanismsand pathways[J].Nature,2015,517(7534):302-310.   
+[45]LIU J,YU K F,ZHU W Y.Amino acid sensing in the gut and its mediation in gut-brain
+
+signal transduction[J].Animal Nutrition,2016,2(2):69-73.
+
+[46]MACE O J,MARSHALL F.Digestive physiology of the pig symposium:gut chemosensing and the regulation of nutrient absorption and energy supply[J].Journal of Animal Science,2013,91(5):1932-1945.
+
+[47] WORTHINGTON J J.The intestinal immunoendocrine axis:novel cross-talk between enteroendocrine cells and the immune system during infection and inflammatory disease[J].Biochemical Society Transactions,2015,43(4):727-733.
+
+[48] IPHARRAGUERREI R.Digestivephysiologyofthepigsymposium:gut chemosensing:integrating nutrition,gut function,and metabolism in pigs[J].Journal of Animal Science,2013,91(5):1929-1931.
+
+[49] KAJI I,AKIBA Y,KAUNITZ J D.Digestive physiology of the pig symposium:involvement of gut chemosensing in the regulation of mucosal barrier function and defense mechanisms[J].Journal of Animal Science,2013,91(5):1957-1962.
+
+[50] LIU Y,IPHARRAGUERRE I R,PETTIGREW J E.Digestive physiology of the pig symposium:potential applicationsofknowledgeofgut chemosensing in pig production[J].Journal of Animal Science,2013,91(5):1982-1990.
+
+[51]SHAJIB M S,KHAN W I.The role of serotonin and its receptors in activation of immune responses and inflammation[J].Acta Physiologica,2015,213(3):561-574.
+
+[52] HARRISON E,LAL S,MCLAUGHLIN J T.Enteroendocrine cells in gastrointestinal pathophysiology[J].Current Opinion in Pharmacology,2013,13(6):941-945.
+
+[53] FRIEDRICH M,DIEGELMANN J,SCHAUBER J,et al.Intestinal neuroendocrine cells and goblet cells are mediators of IL-17A-amplified epithelial IL-17C production in human inflammatory bowel disease[J].Mucosal Immunology,2015,8(4):943-958.
+
+[54] ZHANG J G,LIU J X,JIA X X,et al.Cholecystokinin octapeptide regulates the differentiation and effector cytokine production of $\mathrm { C D 4 ^ { + } }$ T cells in vitro[J].International Immunopharmacology,2014,20(2):307-315.
+
+[55] LEE J H,PATEL K,TAE H J,et al.Ghrelin augments murine T-cell proliferation by activation of the phosphatidylinositol-3-kinase,extracellular signal-regulated kinase and protein kinase C signaling pathways[J].FEBS Letters,2014,588(24):4708-4719.
+
+[56] DIXIT V D,YANG H,COOPER-JENKINS A,et al.Reduction of T cell-derived ghrelin
+
+enhances proinflammatory cytokine expression:implications for age-associated increases in inflammation[J].Blood,2009,113(21):5202-5205.   
+[57]BOGUNOVIC M,DAVE S H,TILSTRA J S,et al.Enteroendocrine cels express functional Toll-likereceptors[J].AmericanJournalofPhysiology-GastrointestinalandLiver Physiology,2007,292(6):G1770-G1783.   
+[58]CANI P D,EVERARD A,DUPARC T.Gut microbiota,enteroendocrine functions and metabolism[J].Current Opinion in Pharmacology,2013,13(6):935-940.   
+[59]PALAZZO M,BALSARI A,ROSSINI A,et al.Activation of enteroendocrine cells via TLRs induces hormone,chemokine,and defensin secretion[J].The Journal of Immunol0gy,2007,178(7):4296-4303.   
+[60] LARRAUFIE P,MARTIN-GALLAUSIAUX C,LAPAQUE N,et al.SCFAsstrongly stimulate PYY production in human enteroendocrine cells[J].Scientific Reports,2018,8:74.   
+[61]NOGUEIRA A M,BARBOSA A J.Immunocytochemical study of intestinal endocrine cells in germ-free mice[J].European Journal of Histochemistry,1994,38(2):213-218.   
+[62]BURRIN D,STOLL B,MOORE D.Digestive physiology of the pig symposium:intestinal bile acid sensing is linked to key endocrine and metabolic signaling pathways[J].Journal of Animal Science,2013,91(5):1991-2000.   
+[63]LATORRE R,STERNINI C,DE GIORGIO R,et al.Enteroendocrine cells:a review of their role in brain-gut communication[J].Neurogastroenterology & Motility,2016,28(5):620-630. Distribution and Chemosensing Role of Enteroendocrine Cells in Piglets ZHU Cui1YANG Jun]JIANG Zongyong1,2²CHENG Zhuang1\* (1. Agro-Biological Gene Research Center, Guangdong Academy of Agricultural Sciences, Guangzhou 510640, China; 2. Institute of Animal Science, Guangdong Academy of Agricultural Sciences, Guangzhou 510640, China)   
+Abstract: Enteroendocrine cells (EECs） are the specialized epithelial cels of gastrointestinal   
+mucosa, whose number exceeds total amount of other endocrine cells in the body,collectively   
+forming the body's largest endocrine organ. Previous studies have shown that there are at least 20
+
+EECs found in the gastrointestinal tract of mammals,and they can secrete many gut hormones which play an important role in regulating gastrointestinal physiology, energy balance, feed intake, gut chemosensing, metabolism of nutrients,and immune regulation. Thus, this review summarizes the classification of EECs, the research techniques of EECs, as well as the research progress on EECs in the gastrointestinal tract of piglets.The chemosensing role of the EECs,the relationship between the EECs and immunity, and impact of the gut microbiota on the gut chemosensing wil also be discussed, aiming to provide insights for potential nutritional regulation on improving intestinal health, and growth and development of piglets. Key words: enteroendocrine cels; gut hormones; chemosensing; piglets; gut microbiota; immune

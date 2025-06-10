@@ -1,0 +1,475 @@
+[
+    {
+        "type": "text",
+        "text": "Influence of spatially dependent, modeled soil carbon emission factors on life-cycle greenhouse gas emissions of corn and cellulosic ethanol ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANGCAI QIN1, JENNIFER B.DUNN1,HOYOUNG KWON²,STEFFEN MUELLER³ and MICHELLEM.WANDER4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Energy SystemsiisionArgoneNationalaboratory,97oSouthCass Aenue,Argonne,I6439,SA,Enoent andProductiolosoneaolFodcyehtetngto USA,EnergyResources Centerniersityoflinoisaticago3O9SouthHalstedtreet，icago,6A 4Departmentof NaturalResourcesandEnironmental Sciences,Unoersityof IlinoisatUrbana-Champaign,South Goodwin Avenue,Urbana,IL 618o1,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Converting land to biofuel feedstock production incurs changes in soil organic carbon (SOC)that can influence biofuel life-cycle greenhouse gas (GHG) emissions.Estimates of these land use change (LUC)and life-cycle GHG emissions affct biofuels'attractiveness and eligibility under a number of renewable fuel policies in the USA and abroad.Modeling was used to refine the spatial resolution and depth extent of domestic estimates of SOC change for land (cropland,cropland pasture,grassland,and forest) conversion scenarios to biofuel crops (corn,corn stover,switchgrass,Miscanthus,poplar,and willow）at thecounty level in the USA.Results show that in most regions,conversions from cropland and cropland pasture to biofuel crops led to neutral or small levels of SOC sequestration， while conversion of grassland and forest generally caused net SOC loss. SOC change results were incorporated into the Greenhouse Gases,Regulated Emissions,and Energy use in Transportation (GREET) model to assess their influenceon life-cycle GHG emissions of corn and cellulosic ethanol. Total LUC GHG emissions $( \\mathrm { g } \\mathrm { C O } _ { 2 } \\mathrm { e q } \\mathrm { M J } ^ { - 1 } )$ were 2.1-9.3 for corn-, $- 0 . 7$ for corn stover-, $- 3 . 4$ to 12.9 for switchgrass-,and $- 2 0 . 1$ to $- 6 . 2$ for Miscanthus ethanol; these varied with SOC modeling assumptions applied. Extending the soil depth from 30 to $1 0 0 ~ \\mathrm { c m }$ affected spatially explicit SOC change and overall LUC GHG emissions; however,the influence on LUC GHG emission estimates was lessignificant in corn and corn stover than cellulosic feedstocks.Total life-cycle GHG emissions $( \\mathrm { g } \\ C \\mathrm { O } _ { 2 } \\mathrm { e q \\ M J ^ { - 1 } } .$ ， $1 0 0 ~ \\mathrm { c m } )$ were estimated to be 59-66 for corn ethanol,14 for stover ethanol, 18-26 for switchgrass ethanol, and $^ { - 7 }$ to $- 0 . 6$ for Miscanthus ethanol. The LUC GHG emissions associated with poplar- and willow-derived ethanol may be higher than that for switchgrass ethanol due to lower biomass yield. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { A E Z } =$ Agro-Ecological Zones   \nCCLUB $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Carbon Calculator for Land Use Change   \n$\\mathrm { C O L E } =$ Carbon On-line Estimator (of U.S.Forest Service)   \n$\\mathrm { C T / R T / N T } =$ Conventional Tillage/Reduce Tillage/No Tillage   \nEF $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Emission Factor   \nGHG $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Greenhouse Gas   \nGREET $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Greenhouse gases,Regulated Emissions,and Energy usein Transportation model (of Argonne National Laboratory)   \n${ \\mathrm { G T A P } } =$ Global Trade Analysis Project (of Purdue University)   \n${ \\mathrm { I P C C } } =$ Intergovernmental Panel on Climate Change   \nLCA $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Life Cycle Analysis   \nLCFS $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Low Carbon Fuel Standard (of California)   \nLUC $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Land Use Change   \nRED $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Renewable Energy Directive (of EU)   \nRFS $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ RenewableFuel Standard (ofUSA)   \nSOC $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Soil Organic Carbon BG $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ billion gallon(s)   \nBL $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ billion liter(s)   \nGal $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ gallon(s)   \nHa $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ hectare(s)   \n$\\mathrm { ~ L ~ } =$ liter(s)   \nMha $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ million hectare(s) $\\mathbf { t } =$ metric ton(s). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:GREETmodel,landusechange,lifeccleanalysis,Miscanthus,poplarsrogateCEURmodel,itga, willow ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Received15June 2015;revised version received15November 2015 and accepted11 December 2015 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To reduce the greenhouse gas (GHG) intensity of the transportation sector，governments in the USA，the European Union (EU),and elsewhere have developed policies that encourage the production and use of low net GHG-intensity biofuels.As these policies have been developed and implemented, concerns have been raised about their influence on the land resource，both its availability and on its carbon stocks (Fargione et al., 2008； Searchinger et al.，2008；Melillo et al.，2009). Considering the quantities of feedstock required to meet policy targets,these concerns have merit. The current US renewable fuel standard (RFS2) establishes a production volume target for corn (Zea mays L.) ethanol of 56.8 billion liters (BL) (15 billion gallons (BG)) by 2015. This fuel volume corresponds to roughly 130 million metric ton (t) of corn (Mumm et al.,2014).Between 2008 and 2014,during which time corn ethanol production increased by 19 BL (RFA (Renewable Fuels Association), 2015),land planted in corn increased by about 2 Mha (Mha） on net. The maximum gain in land planted in corn during this period was 4.5 Mha in 2012 (USDA (U.S.Department of Agriculture)，2015).Although no definitive data exist on the amounts and types of domestic (or international） lands influence by this expansion,grasslands and forests have both likely been affected (Wright & Wimberly，2013;Lark et al.,2015). Moreover, a significant amount of biomass must be produced to meet the RFS call for the production of $6 0 . 6 ~ \\mathrm { B L }$ (16 BG) of cellulosic biofuels by 2022 (US Congress, 2007).For example,188 million t of feedstock would be required to produce the RFS-mandated volume of cellulosic fuels if we assume an ethanol yield from cellulosic feedstocks (e.g., corn stover or energy grasses） of $3 5 5 \\mathrm { ~ L ~ }$ $\\mathrm { t } ^ { - 1 }$ .A significant amount of land would be needed if this biomass demand were met entirely with energy crops.For example，about 21 Mha of land would be required to produce switchgrass (Panicum virgatum L.) and 13 Mha for Miscanthus (e.g.,Miscanthus $\\times$ giganteus) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "if we assume biomass yields of $9 \\mathrm { ~ t ~ } \\mathrm { { h a } ^ { - 1 } }$ for switchgrass and $1 5 \\mathrm { ~ t ~ h a } ^ { - 1 }$ for Miscanthus (US DOE (U.S. Department of Energy),2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transitioning lands in other uses to biofuel feedstock production will affect the carbon stocks of these lands (Melillo et al.,，2009;Fargione et al.,2010).Even if agricultural residues,such as corn stover,are used toward this demand, which would largely change land management rather than land use/cover,soil organic carbon (SOC) stocks will still be affected (Liska et al.,2014;Wu et al.,2015). To achieve decreases in transportation sector GHG emissions,biofuel policies require that the lifecycle GHG emissions of eligible biofuels be less than life-cycle GHG emissions for gasoline. For example, the Renewable Fuel Standard (RFS) mandates that fuels that qualify as cellulosic biofuels achieve a $6 0 \\%$ reduction in life-cycle GHG emissions as compared to conventional fossil fuels(EPA(U.S.Environmental Protection Agency)，2010).GHG emissions associated with landuse change (LUC) (i.e. carbon stock changes) stemming from biofuel feedstock production can significantly influence biofuel life-cycle GHG emissions but are difficult to quantify. LUC GHG emissions rely on economic model predictions of the amount,types,and locations of lands that are affected by expansions in biofuel feedstock production,and on associated changes in carbon stocks (e.g.，aboveground biomass，soil carbon). Since the inception of the RFS and the California Air Resources Board's (CARB) Low Carbon Fuel Standard (LCFS), great strides have been made both in improving the economic models that estimate LUC and in estimates of carbon stock changes upon LUC. While the former advancement is outside the scope of this article, we describe the progression of techniques used to improve soil carbon stock change estimates，which include improved spatial resolution and modeling techniques, in the supporting information. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil carbon modeling is a critical tool that supple ments empirical data in the understanding of the effect of feedstock production on soils and in the estimation of LUC GHG emissions.Earlier SOC estimates in LCA studies have mostly investigated changes in carbon stocks in top soils (20 or $3 0 ~ \\mathrm { c m }$ )，andif SOC modeling resultsareused, theywere developedat the regional or national scale. Recent studies，however，suggest that LUC may affect deep $( > 3 0 \\ \\mathrm { c m } )$ ）SOC stocks (Knops& Bradley,2009;Follett et al.,2012;Qin et al.,2015).Also, low-resolution modeling fails to capture SOC spatial heterogeneity that stems from spatially specific climate, soil,and environmental conditions.Efforts to improve SOC modeling for use in LUC GHG estimates must increase the model's ability to quantify the suitability of different land resources for feedstock production from the point of view of improving or maintaining SOC and to determine how increasing the spatial resolution of soil carbon modeling influences the estimation of LUC GHG emissions,which in turn influences biofuel lifecycle GHG emissions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The objectives of this study are to quantify spatially resolved SOC changes to a $1 0 0 ~ \\mathrm { c m }$ depth caused by LUC resulting from biofuel feedstock production,and then estimate LUC-associated and life-cycle GHG emissions of corn and cellulosic ethanol.First, we use results from model-derived SOC change estimates to examine howdifferent land transitions will influence SOC changes at a US county level to identify regions where biofuel feedstock production could enhance or degrade SOC stocks.Next,we evaluate the sensitivity of SOC change to key modeling assumptions,which include initial land use, soil depth,energy crop yield,and managementpractices. Finally，we determine howthese variations influence LUC and life-cycle GHG emissions for ethanol produced from corn，corn stover，switchgrass,andMiscanthus. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Modeling SOC changes ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Model development. The surrogate CENTURY model (Kwon & Hudson,2010;Kwon et al.,2013) was used in the study to simulate SOC dynamics in different LUC scenarios (see Supporting Information). It was developed as a nonlinear regression tool that is designed for the parameter estimation of CENTURY (version 4.O)'s SOC dynamics submodel (Kwon & Hudson,201o). In the model, simulation processes related to CENTURY's mass balance and decomposition kinetics for the three primary soil organic matter pools (i.e.,active,slow,and passive) and plant litter pools employ various statistical functions embedded within a nonlinear regression procedure of sAs (SAS Institute,2011) that provides parameter estimation,simulation，and forecasting of dynamic nonlinear simultaneous equation models.Importantly, the surrogate CENTURY model treats time-dependent model variables (e.g.，crop/biomass yield and soil/climate conditions)as model inputs so that the simulation uncertainties can be isolated and quantified individually (Kwon & Hudson,2010;Kwon et al.,2013). The C input ratesto soils are derived empirically fromobserved yield/biomass,harvest index (HI, the ratio of grain mass to total aboveground plant production of grain crops),root to shoot ratio (RS，the ratio of total root production to total aboveground shoot production)，and soil temperature/moisture effects on SOC decomposition (Table S1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study,modeling efforts were refined from the state level (Kwon et al.,2013) to the county level to better simulate the temporal and spatial variations of SOC changes associated with four major biofuel feedstocks (i.e.，corn,corn stover, switchgrass，and Miscanthus）and two short rotation woody biofuel feedstocks,poplar (Populus L.）and willow (Salix L.). Additionally,the modeled depth was extended from $3 0 \\ \\mathrm { c m }$ to $1 0 0 ~ \\mathrm { c m }$ to simulate SOC dynamics within two soil layers,topsoil $( 0 { - } 3 0 ~ \\mathrm { c m } )$ and subsoil $( 3 0 - 1 0 0 ~ \\mathrm { c m } ,$ ,under the influences of county level spatially specific land use types,crop yield,and soil and climate conditions (Fig. S1). The soil carbon pools and flows during decomposition were the same for the topsoil as in Kwon & Hudson (201O),but with additional active,slow,and passive pools for the subsoil. The allocation of belowground biomass and temporal influences of soil and climate conditions wereupdated for both soil layers (Table S1).More information on the input data,assumptions,model updates and a summary of new coefficients describing poplar and willow allometry, and carbon allocation to the subsoil forall crops is available in the Supporting Information. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LUC and management scenarios.We considered four historical land use types (i.e., cropland, cropland pasture,grassland, and forest) and five biofuel crop production scenarios (i.e., corn，switchgrass,Miscanthus,poplar,and willow).Each biofuel feedstock was grown only in counties determined to be suitable (Table S2) based on historical land availability (Kwon et al.,2013)and ability to produce the biofuel crop (Halbleib et al.,2012; Eaton et al.,2013).Land use history was constructed for model spin-up by dividing the entire simulation into:(1) pristine (prior to 1881),(2) pre-modern (1881-1950),and (3) modern (1951-2010) agricultural time periods. Note that cropland pasture is defined as cropland that was in pasture for part of the modern period.We designated the 30-year time period from 2011 to 2040 as the period for feedstock production (Table S2).This is the period over which LUC GHG emissions areamortized,and we refer to it herein as the time horizon. Wechosea 30-year time horizon to match that ofUS EPA and because most of SOC change occurs during the first 30 years following LUC (Qin et al.,2015). For corn,a combination of tillage and residue removal practices was applied in the simulation; this includes three tillage practices,conventional tillage (CT),reduced tillage (RT),and no tillage (NT),and two residue removal levels, $0 \\%$ and $30 \\%$ .For the remaining four perennial crops,we assumed these would not be tilled (NT) and modeled themwith one residue/biomass removal rate $( 9 0 \\% )$ (Table S2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cropyield scenarios.For historical (prior to 2011) and reference yields (2011),we used surveyed crop yield for grain crops (i.e.， $\\mathsf { c o r n } ,$ other grain crops）(USDA，2015）and modeled biomass yield for the four perennial biofuel crop scenarios.To predict yields occurring within the 30-year time horizon (2011- 2040)，we considered (1）constant yield (no annual yield change) and(2) increased yield (annual increase) scenarios.For corn，the constant yield scenario used 2O-year county level yield averages from 1991 to 2010; the yield increase was projected using historical yield data (Kwon et al.，2013).For other crops,the county-level reference yields were used for the constant yield scenarios and a $1 \\%$ annual increase was projected for yield increase scenarios. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A total of 80 model runs,40 LUC scenarios (Table S2) with two yield scenarios each,were conducted to simulate dynamic SOC (both 30 and $1 0 0 ~ \\mathrm { c m } ^ { \\cdot }$ ）foreach county (over 20oo counties per LUC scenario).The SOC sequestration rate (t $ { \\boldsymbol { C } }  { \\mathrm { ~ \\ h a ^ { - 1 } ~ } }$ year-1）was calculated as the annual SOC change during the bioenergy crop production period following LUC (2011-2040), with a positive value indicating net SOC gain and a negative value indicating SOC loss.More information on SOC modeling is provided in Supporting Information. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Estimating LUC and life-cycle GHG emissions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LUC estimations.Figure 1 illustrates the combination of models and data sets that we used to model LUC and life-cycle GHG emissions.The overall model that we use is called the Greenhouse gases，Regulated Emissionsand Energy use in Transportation (GREETM）model (Argonne National Laboratory,2014).It has an LUC module called the Carbon Calculator for Land Use Change (CCLUB) (Dunn et al.，2014).CCLUB contains results from modeling runs with an economic model, the Global Trade Analysis Project (GTAP) model (Purdue University,2015),that predict worldwide LUC upon specific shocks (Table 1） in ethanol production from either corn,corn stover,switchgrass,or Miscanthus feedstocks(Taheripouret al.，2011；Taheripour& Tyner, 2013).While shocking the model with production of a single biofuel produced from a single feedstock ignores important interactions between production of different biofuels like biodiesel and production of ethanol from different feedstocks (Kim et al.,2014),it is a technique that permits assignment of all LUC GHG emissions to one feedstock-to-fuel pathway. This approach is used by both EPA and CARB in the RFS and LCFS,respectively.GTAP predicts land shifts between cropland，cropland pasture，grassland，and forest at the Agro-Ecological Zone (AEZ) level. It is important to note that it is not possible to distinguish indirect and direct LUC within the USA from GTAP results.All international LUC could be considered indirect. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8baedde4e8a4109e5c19c97433cf42a7d53fe7b33920b68cd22ff35b3e5c0e58.jpg",
+        "img_caption": [
+            "Fig.1Systemboundaryin GREETand nestedcalculation framework for life-cycleGHG modeling withand withoutland use change (LUC)emisions.GREET models five biofuel life-cycle stages.TheCCLUBmodulecontainsresultsand data fromseveral modelsadoues(aseeoetl;oal;riur&e)(dd used to estimate LUC GHG emissions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/105adbd1e7254d471e7ae66a89451cdf4e9031ca64cd62bc4ae097731b3c96d0.jpg",
+        "table_caption": [
+            "Table 1 GTAP biofuel production scenarios used to simulate LUC as described in CCLUB\\* "
+        ],
+        "table_footnote": [
+            "\\*DetailedinformationofCCLUB is available at https://greet.es.anl.gov and Dunn et al., 2014. "
+        ],
+        "table_body": "<html><body><table><tr><td>Case</td><td>Description</td><td>Ethanol increase</td><td>Notes and references</td></tr><tr><td>Corn1</td><td>Increase in corn ethanol production from its 2004 level of 13 BL (3.41 BG) to 57 BL (15 BG),using the</td><td>44 BL</td><td>Taheripour et al. (2011)</td></tr><tr><td>Corn2</td><td>2004 database Increase in corn ethanol production from its 2004 level (13 BL) to 57 BL,using the 2004 database,with</td><td>44 BL</td><td>Case Dof Taheripour & Tyner (2013)</td></tr><tr><td>Stover</td><td>GTAPcalibrated CET function Increase of ethanol from corn stover 34 BL,on top of 57 BL</td><td>34 BL</td><td>Taheripour et al. (2011)</td></tr><tr><td>Switchgrass</td><td>corn ethanol Increase of ethanol from switchgrass by 26.5 BL,on top of 57</td><td>26.5 BL</td><td>Taheripour et al. (2011)</td></tr><tr><td>Miscanthus</td><td>BL corn ethanol Increase of ethanol from Miscanthus by 26.5 BL,on top of 57 BL corn ethanol</td><td>26.5 BL</td><td>Taheripour et al. (2011)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We considered two scenarios for LUC associated with corn ethanol in Table 1,cornl (Taheripour et al.,2011）and $\\mathrm { c o r n } _ { 2 }$ (Taheripour& Tyner,2013).The $\\mathrm { c o r n } _ { 2 }$ scenario includes modifications to GTAP that reflect differences in the ease of land transformation for different regions of the world and the greater cost of converting forest to cropland as compared to converting pastureland to cropland.It is important to note that restrictions on LUC in the RFS,such as a check on expanding agricultural land beyond the 2oo7 baseline,and the limits on converting forestland to feedstock production (Code of Federal Regulations,2014) are not reflected in this GTAP modeling.The results,therefore,could be viewed as a worst case example.The carbon stock data indicate carbon changes upon LUC. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LUC and life-cycle GHG emissions.Within CCLUB,in the case of domestic LUC, the carbon stock change data are EFs generated with surrogate CENTURY at the county level. Because GTAP results are at the AEZ level,we pair them with an AEZ-level average of the county-level emission factors. If converted domestic land is forested, county-level forest carbon stocks and foregone sequestration data from Carbon On-line Estimator(COLE)(Van Deusen & Heath,2010) are applied, againrolledup to the AEZ level.Wematch internationalLUC withcarbonstockdata fromHarrisetal.(2o09)thatUSEPA used in their analysis. Overall, CCLUB multiplies the GTAPpredicted land area changes by the carbon stock changes to estimate of LUC GHG emissions (Fig. 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The LUC GHG emissions are then combined with GHG emissions (e.g., $\\mathrm { C O } _ { 2 } ,$ （20 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } } ,$ and $\\mathrm { C H } _ { 4 } )$ , calculated in the primary GREET model, from the feedstock production, feedstock transportation,conversion, fuel transportation and distribution,and fuel use portions of the biofuel life cycle to produce an overall life-cycle GHG estimate for a given biofuel (Fig.1).Detailed information regarding CCLUB and GREET modeling can also be found at Dunn et al.(2014) and Wang et al.(2012),respectively.It should be noted that fertilizer and energy intensity values in GREET (e.g., $ { g N }$ fertilizer $\\mathbf { t } ^ { - 1 }$ corn,MJ diesel $\\mathbf { t } ^ { - 1 }$ corn）(Wang et al.，2o12) are yield independent and are not influenced by yield data used in SOC modeling.LUC associated with large-scale ethanol production from poplar and willow has not been subject to analysis with GTAP due to the relatively modest contribution to overall biofuel feedstock production (US DOE，2011).To determine how SOC might respond to a land transition to produce these short rotation woodycrops (SRWC)in different areasofUSA andexpand GREET modeling capacity,we included poplar and willow in our modeling work.We only report life-cycle GHG emissions for ethanol produced from corn,corn stover,switchgrass,and Miscanthus.However,because LUC modeling results for cellulosic crops are largely dependent on crop yield,and because SRWC yields fall below switchgrass yields (Fig.S2),we can infer what the bounds on LUC GHG emissions for SRWC ethanol could be and discuss these qualitatively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Domestic rates of SOC change ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Refinement ofmodeling scale.Evaluation of county-level emissions suggests that sequestration rates can vary greatly among LUC scenarios and counties within the same region (Fig.2).For cropland and cropland pasture conversions, the areas with high SOC gain (e.g.,Fig. 2) are normally those with high crop yield (e.g.,Fig. S2). For example,in cropland conversions, the Midwest for corn (Fig.2a),Miscanthus (Fig.2i) and willow (Fig.2q) the southeast for switchgrass (Fig. 2e),and the east for poplar (Fig. $2 \\mathrm { m } \\mathrm { \\dot { \\Omega } }$ ）areregionswith higher SOC sequestration rates and relatively higher crop yields (Fig. S2). For SOC changes upon forest and grassland transitions, the spatial trends in SOC sequestration rates appeared to be less closely related to yield trends and the influence of yield was more variable. The areas that gain SOC are those where energy grass yields are expected to be high, such as the southeast region for switchgrass and the Midwest for Miscanthus (Fig. S2),converting grassland to switchgrass(Fig.2g) or Miscanthus(Fig.2k) could increase SOC.Overall，where grassland or forest is converted to production of bioenergy crops where yields are low, it is likely SOC will decline (e.g., Fig. 2c and d). It is worth noting that high corn yield contributed significantly to the SOC increase in most cropland conversions and even some grassland/forest conversions (Fig.2). Particulary,in some areas of the western USA (e.g.,Arizona, California,Idaho, Oregon, $\\mathrm { U t a h } ,$ and Washington), the historical corn yield (2001-2010) is about $10 \\%$ (Utah) to over $4 0 \\%$ (Washington） higher than the rest of the USA(USDA,2015),mainly due to the widespread use of irrigation (over $90 \\%$ of corn grown in these states) ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb6d7dc132b54675daa3d16599d48be4ad7f51a2d47a50bbec9ba5cdd55d4c56.jpg",
+        "img_caption": [
+            "Fig.2Modeled soil organic carbon (SOC) sequestration rates at $1 0 0 ~ \\mathrm { c m }$ soil depth for land use changes from cropland, cropland pasture,grasandndfresttitcgra,scatspladilloitieldease.Covragdt tillage practicesandresidueremovalrates.TheSOCsequestrationrateswerebasedona3O-yeartimehorizon.Apositivevaluendi cates netcarbon gain while anegative value indicates carbon loss.Note thattherates are not weighted by crop area. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(USDA,20l2). These regions,however,are not high corn producers due to their extremely limited corn areas (total harvested area of 2006-2010 accounts for only $2 . 4 \\%$ of the national total) (Fig. S7). Future models (e.g., LUC modeling）will need to further restrict pools of land available for LUC based on supporting resources (e.g, water). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When we average emissions over all counties to evaluate the general effect of LUC on GHG emissions,we reconfirm that in general，conversions from cropland and cropland pasture to corn would lead to net SOC sequestration,and that converting grassland and forest to corn would cause net SOCloss in most of the scenarios (Fig. 3).Median rates upon transition to corn systems showed overall SOC increases of $0 . 1 { - } 0 . 4 \\mathrm { ~ t ~ } \\mathrm { C } \\ \\mathrm { h a } ^ { - 1 }$ year-1 when the initial land use was cropland (Fig. 3a) or cropland pasture (Fig.3b).Cropland pasture conversions hadlower predicted SOC sequestration rates than corresponding cropland conversions because they had higher reference SOC levels inherited from inclusion of deeper rooted perennial crops within the rotation in the recent past (Table S2).When the initial land use was grassland (Fig.3c) or forest (Fig.3d),SOC decreased $- 0 . 4$ to $- 0 . 1 \\mathrm { ~ t ~ }$ $\\mathbf { C } \\mathbf { \\ h a } ^ { - 1 }$ year-1 and $- 0 . 7$ to $- 0 . 4 \\mathrm { ~ t ~ C ~ h a ^ { - 1 } ~ y e a r ^ { - 1 } } ,$ respectively.Regardless of the initial land use state,when land transitioned to production of cellulosic crops(i.e., switchgrass and Miscanthus),the averaged SOC sequestration rates showed net carbon sequestration in most counties in almost all LUC scenarios (Fig. 4). New modeling scenarios suggest converting cropland and cropland pasture to woody crops (i.e., poplar and willow) resulted in net SOC sequestration in most cases (Fig. 4a and b),and conversion of grassland or forest is likely to lead to overall SOC loss for both systems (Fig. 4c and d). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SOCresponding to yield and management factors.Because yieldisa major determinant of SOCdynamics,weused a relatively conservative assumption to simulate the annual yield with constant (Figs S4 and S5) and increase scenarios (Figs 3 and 4). The SOC sequestration rates under constant yield were generally lower，and the difference between the constant and increasing yield scenarios was most significant $3 0 \\%$ greater） for crop land and cropland pasture conversions.In the case of cellulosic and woody crop systems, this difference was $1 0 \\%$ ，regardless of soil depth. For grassland converted to corn，the difference was about $1 5 \\%$ .Forall other cases, the differences varied among LUC scenarios from 0 to $10 \\%$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a11f879791e68ff55f53fadff490f5cdf072edfcf4af19d62f60c739b4c8cc84.jpg",
+        "img_caption": [
+            "Fig.3Soil organic carbon sequestration rates in the 30 and $1 0 0 ~ \\mathrm { c m }$ soils for land use changes from (a) cropland,(b) cropland pasture,(c)grassandand(d) forest tocornwith yield increase under diferent management practices.Ro0,R30 indicate $0 \\%$ and $30 \\%$ residue removal rates,respectively; S30 and S10o indicate O-30 and $0 { \\mathrm { - 1 0 0 ~ c m } }$ soil depths,respectively.The box plot for all counties consideredinTableS2(ameinFigure4):thebotomandtopofteboxarethefirstandthirdquartilesandtheandisidethebox is the second quartile (the median).The ends of the whiskers represent 1.5 IQR (interquartile range). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/20ff8d239ab9d2136bd6224b3c57b2f2c14ada127a3b45fde78386a54a37ccf7.jpg",
+        "img_caption": [
+            "Fig.4Soil organic carbon sequestration rates in the 30 and $1 0 0 ~ \\mathrm { c m }$ soils for land use changes from(a) cropland,(b) cropland pas ture,(c)grasaddrsttigs,scaudoihldieasddated $0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { c m } }$ soil depths, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The magnitude of SOC change upon transitions to corn agriculture also depended on residue removal rates and tillage practices.While other factors (i.e., tillage practices and soil depths) were fixed,residue removal resulted in less SOC sequestration regardless of the initial land use (Fig.3).For land transitions from cropland and cropland pasture to corn,the SOC sequestration rates under $30 \\%$ residue removal wereabout $8 2 \\%$ of those under no residue removal. Generally, less frequent tillage resulted in higher positive SOC sequestration rates in cropland (Fig. 3a) and cropland pasture (Fig. 3b). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In grassland and forest conversions,residue removal had a less notable effect on SOC change than seen in cropland transitions; the difference in sequestration rates between residue removal levels of $0 \\%$ and $3 0 \\%$ was $8 – 1 2 \\%$ for grassland transitions to corn and only $2 -$ $5 \\%$ for forest transitions (Fig.3b).For these conversions, environmental factors (i.e., climate,soil conditions) may exert more influence on SOC change than seen in cropland conversion scenarios. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SOCsequestration in different soil depths.Extending the depth of soil considered increased the magnitude of the SOC change,but did not affect the overall direction of change for different LUC scenarios.For land transitions to corn systems,compared with $0 { - } 3 0 ~ \\mathrm { c m }$ soils, the abso lute SOC sequestration rates in $0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { c m } }$ soils were $5 -$ $3 0 \\%$ largerif initial lands were from cropland (Fig. 3a) and cropland pasture (Fig. 3b),and about $3 0 { \\mathrm { - } } 5 0 \\%$ larger if initially converted from grassland (Fig. 3c) and forest (Fig. 3d). The trends also apply to cellulosic and wood crop systems (Fig.4).In particular，when cropland is converted to switchgrass or Miscanthus (Fig. 4a)，the deeper soils can sequester up to $6 0 \\%$ more carbon than the surface $3 0 \\ \\mathrm { c m }$ soils.The amplified SOC change in deeper soils was most apparent for cropland transitions (Fig. 4a） mostly because conventional crops (e.g.，corn and wheat） have shallower roots than cellulosic and woody crops. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Estimating SOC change and GHG emissions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The AEZ-level SOC sequestration rates showed a similar pattern of SOC changes as indicated above (Fig. S6). Conversions of cropland and cropland pasture generally reinforce soil carbon sinks,while replacing grassland and forestwithbiofuel crops is very likely to reduce the SOC content in most of the cases.It should be noted that high SOC sequestration rates do not necessarily mean high levels of SOC change within identified regions. To determinepotential for sequestration associated with LUC, the affected area within specific land use types (Fig. S7) is used in the calculation of total carbon stocks change.In LUC GHG emission estimations,some AEZs (e.g.，AEZ14-16) have fewer counties experiencing LUC than others in the main crop growing zones (e.g.,AEZ10 and 11) (Fig. S7),and therefore, their contribution to the overall LUC GHG emission estimation is minimal in the context of national accounting. The AEZ-level EFs were used to calculate domestic LUC GHG emissions in CCLUB (Fig.1). The international LUC GHG emissions calculated with the EFs from Harris et al. (20o9) are unaffected by varying assumptions about management practices and other aspects of domestic feedstock production that influence surrogate CENTURY model results (Fig. 5). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Land use change GHG emission estimates showed large variations considering all possible scenarios (e.g., constant and increasing yield,all tillage practices,and all residue removal rates) with the total (domestic and international） LUC GHG emissionsranging from $- 2 0 . 1 \\textrm { g } \\textrm { C O } _ { 2 } \\mathrm { e q } \\textrm {  { M J } } ^ { - 1 }$ for Miscanthus to $9 . 3 \\mathrm { ~ g ~ } \\mathrm { C O } _ { 2 } \\mathrm { e q }$ $\\mathbf { M J } ^ { - 1 }$ for corn (Fig.5). Soil depth did not significantly change the LUC GHG emissions for corn and corn stover ethanol,butaffected the estimates for cellulosic ethanol (Table 2).For switchgrass,the domestic LUC impacts changed from net carbon sources $\\left( 0 { - } 3 0 \\ \\mathrm { c m } \\right)$ to sinks $( 0 { - } 1 0 0 ~ \\mathrm { c m } )$ because SOC sequestration was sufficient to offset GHG emissions from farming activities, feedstock transportation，and feedstock conversion when the deeper depth was considered.Miscanthus ethanol became a net carbon sink (Table 2) when the deeper soil depth was considered because soil carbon sequestration doubled. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Land use change associated with Miscanthus and switchgrass ethanol offered remarkably high GHG mitigation potentials in scenarios that assume annual increase in yield,providing significant carbon sequestration on domestic lands.Yield increase isa major driver of SOC sequestration estimates in these LUC scenarios for these two energy grasses. For corn stover, the GHG emissions from domestic LUC, international LUC，and total were all estimated to be marginally negative(Fig.5) because GTAP predicts a small amount of gains in forest lands that result in carbon sequestration,offsetting carbon emissions from limited conversion of cropland pasture to corn agriculture. With this small amount of affected land,yield increase and tillage practice assumptions for corn agriculture with stover removal minimally influenced LUC GHG emissions results for corn stover ethanol. Overall,LUC GHG emissions for corn stover ethanol could be considered negligible. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/77db468a26612660cc382616b69201e9d1f275c4a0759e77b6acbfcdb49afa69.jpg",
+        "img_caption": [
+            "Fig.5Summary of CCLUB estimates of domestic,international,and total greenhouse gas emissions derived from landusechange driven bybiofuel shocks satisfied by individual biofuel sources,where contributions from domestic soil organic carbon change were assessed to $1 0 0 ~ \\mathrm { c m }$ .YO and Y1 indicate yield constant and increase,respectively.CT,RT,and NT indicate conventional, reduced,and no tillage,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For corn ethanol, we generated GHG emissions for LUC predicted from two different GTAP runs, $\\mathrm { c o r n } _ { 1 }$ and $\\mathrm { c o r n } _ { 2 }$ ．Asdescribed earlier，the $\\mathrm { c o r n } _ { 2 }$ scenario (Taheripour&Tyner,2Ol3）incorporated different ease of land transformation rates for different areas of the world and higher costs for conversion of forest to cropland than for conversion of cropland pasture to cropland.Changes in SOC driven by domestic LUC stemming from increased corn production contributed relatively little to total emissions regardless of corn ethanol scenario (Table 2). In the $\\mathrm { c o r n } _ { 1 }$ scenario, domestic LUC GHG emissions account for $2 \\%$ of total life-cycle GHG emissions,inclusive of LUC GHG emissions.In the $\\mathrm { c o r n } _ { 2 }$ scenario,domestic LUC GHG emissions could offset up to $5 \\%$ of life-cycle emissions prior to inclusion of LUC GHG emissions. Total LUC GHG emissions associated with the corn stover ethanol scenario reduce total life-cycle GHG emissions by approximately $2 \\%$ (Table 2). For cellulosic crops，SOC change is a more important contributor to life-cycle GHG emissions and in fact domestic LUC results in carbon sequestration，reducing life-cycle GHG emissions.For example,domestic LUC GHG emissions in the case of switchgrass ethanol decrease life-cycle GHG emissions (prior to inclusion of LUC GHG emissions）by $1 3 \\mathrm { - } 4 8 \\%$ .The large domestic LUC GHG emission reductions in the Miscanthus ethanol pathway can offset all GHG emissions elsewhere in the fuel's life cycle and provide additional carbon credits (Table 2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/448e62e7bdafa731d511d0f166dad89cbe9fa0eede20c349acb6417b3a0fa2d3.jpg",
+        "table_caption": [
+            "Table 2Estimated LUC and life-cycle GHG emissions for ethanol produced from cornand cellulosic feedstocks "
+        ],
+        "table_footnote": [
+            "\\*Range of results with $1 0 0 ~ \\mathrm { c m }$ and $\\dagger 3 0 \\ \\mathrm { c m }$ (in parentheses) soil depth is produced from SOC modeling scenarios with different yield (constant and increasing) and tillage scenarios (i.e., NT,RT and CT). \\$GREET 2014 (Argonne National Laboratory,2014) parameters for neat gasoline without blended ethanol. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">Land use change GHG emissions (g CO2eq MJ-1)</td><td rowspan=\"2\">Life-cycle GHG w/o LUC (g CO2eq MJ-1)‡</td><td rowspan=\"2\">Life-cycle GHG w/LUC (g COzeq MJ-1)</td></tr><tr><td></td><td>Domestic*</td><td>International</td><td>Total</td></tr><tr><td>Corn1</td><td>1.4 to 4.3 (1.5 to 3.7)t</td><td>5.0</td><td>6.4 to 9.3 (6.5 to 8.7)</td><td>57.1</td><td>63.5 to 66.4 (63.6 to 65.8)</td></tr><tr><td>Corn2</td><td>-3.0 to -0.5 (-2.4 to -0.4)</td><td>5.1</td><td>2.1 to 4.6 (2.7 to 4.7)</td><td>57.1</td><td>59.2 to 61.7 (59.8 to 61.8)</td></tr><tr><td>Corn stover</td><td>-0.2 (-0.2)</td><td>-0.5</td><td>-0.7 (-0.7)</td><td>14.8</td><td>14.1 (14.1)</td></tr><tr><td>Switchgrass</td><td>-10.5 to -2.8 (0.5 to 5.8)</td><td>7.1</td><td>-3.4 to 4.3 (7.6 to 12.9)</td><td>21.8</td><td>18.4 to 26.1 (29.4 to 34.7)</td></tr><tr><td>Miscanthus</td><td>-22.3 to -16.3</td><td>2.2</td><td>-20.1 to -14.1 (-10.4 to -6.2)</td><td>13.5</td><td>-6.7 to-0.6 (3.1 to 7.3)</td></tr><tr><td>Gasoline t</td><td colspan=\"3\">(-12.5 to -8.4)</td><td colspan=\"2\"></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the case of corn ethanol, the most important factor determining LUC GHG emissions is the amount of forest predicted to be converted to corn.In LUC estimates from the updated GTAP configuration, Taheripour & Tyner (2013) observed more cropland switching to produce enough corn to meet the mandated level of corn ethanol production.For the $\\mathrm { c o r n } _ { 1 }$ case(Taheripouret al., 2011)，both domestic and international LUC GHG emissions were positive. These emissions were lowest when results from SOC modeling runs assumed corn yield increase and no tillage. The greatest emissions occurred when we assumed constant corn yield and conventional tillage. It is important to note that provisions of the RFS limit the likelihood of expansion of biofuel crop production on nonagricultural and forested lands and should prevent SOCloss from forest-to-bio fuel feedstock production LUC scenarios (Fig. $2 \\mathrm { d } , \\mathrm { h } , \\mathrm { l } , \\mathrm { p } ,$ and t) that could occur or at least prevent an extensive amount of forest conversion to crop production. For example，under the US EPA's aggregate compliance approach (Code of Federal Regulations，2014)，if the amount of agricultural land expands beyond 2oo7 levels (163 million eligible crop hectares)，biofuel producers must show that the land from which feedstock is pro duced was cleared or cultivated prior to December 19, 2007.Additionally,EPA requires that the land be managed，fallow,and non-forested on December 19,2007. Recently,however,Lark et al. (2015) presented an analysis that indicates declines in grassland and forested lands that may be attributable in part to the expansion of corn agriculture despite the policy instruments in the RFS to limit these LUC types. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Total life-cycle GHG emissions of each type of ethanol (including LUC GHG emissions) were lower than those of conventional gasoline (Table 2). Ethanol from all feedstocks except Miscanthus acted as net $\\mathrm { C O } _ { 2 }$ sources, with life-cycle GHG emissions that ranged from $\\boldsymbol { 1 4 \\mathrm { ~ g ~ } }$ $\\mathrm { C O } _ { 2 } \\mathrm { e q } \\ \\mathrm { M J } ^ { - 1 }$ for corn stover ethanol to over $6 0 \\mathrm { ~ g ~ C O } _ { 2 } \\mathrm { e q }$ $\\mathbf { M J } ^ { - 1 }$ for corn ethanol in $\\mathrm { c o r n } _ { 1 }$ scenario.The Miscanthussourced ethanol can be either a net carbon sink $( 0 -$ $1 0 0 ~ \\mathrm { c m }$ soil）or source( $\\mathrm { [ 0 - 3 0 ~ c m }$ soil) depending on the selected soil depth. In the case of corn ethanol，total LUCGHG emissions are about $5 \\mathrm { - } 1 0 \\%$ of life-cycle GHG emissions.For corn stover,Miscanthus and switchgrass ethanol, in some cases,carbon sequestration from LUC can actually mitigate GHG emissions from processes in the fuels' life cycle (e.g.,fuel conversion,transportation) (Table 2). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The diverse,spatially explicit results in Fig.2 highlight the advances possible in estimating changes in soil carbon upon land transitions when spatially explicit carbon stock data are used. Considering the Corn Belt as an example，Fig.2 clearly shows the wide range of SOC EFs that this region would experience upon transitions to biofuel feedstock production. In contrast,if the IPCC (Intergovernmental Panel on Climate Change) Tier 1 approach (see Supporting Information fora description of this approach） were taken to estimating SOC EFs for this region，the spatial heterogeneity would not be fully captured. The IPCC Tier 1 approach characterizes the Corn Belt with only two dominant climate zones,warm temperate moist and cool temperate moist (IPCC (Intergovernmental Panel on Climate Change),2oo6). For each land use management scenario,a limited number of SOC EFs for this region would be calculated from the default reference SOC stocks determined by soil type and the two climate zones. Rather than using a Tier 1-based coarse estimation of SOC change,when possible, process-based SOC modeling should be exercised to accurately capture SOC changes responding to spatially explicit climate,soil, land use,and management factors. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The overall SOC change estimates in this study are in accordance with many previous reports. Many studies have noticed that grassland and forest generally have much higher SOC content,and therefore,the conversions of such lands to managed crop systems inevitably disturb the relatively stable soil system and cause soil carbon loss(Post & Kwon,20oO;Guo & Gifford,2002; Don et al., 2011; Qin et al., 2015). Using a meta-analysis, Guo& Gifford (2002) observed SOC decreases of about $42 \\text{‰}$ and $1 0 \\mathrm { - } 1 3 \\%$ when native forest or pasture were converted to field crops and woody plantations,respectively.Qin etal.(2015）reported $9 \\mathrm { - } 3 5 \\%$ carbon losses when grassland and forest were converted to corn and poplar. However，for cropland conversions to certain cellulosic and woody cropping systems, LUC may not necessarily lead to SOC loss.For instance, Guo & Gifford (2002) noticed about an $1 8 \\%$ carbon gain in cropto-woody plantation transitions.In Qin et al. (2015),an overall SOC increase of $6 \\%$ was observed in cropland conversions to biofuel crops,while land transitions from forest and grassland to switchgrass，Miscanthus and willow did not significantly change SOC. Increased SOC from cropland conversions to corn especially under reduced tillage is consistent with Clay et al. (2015）who documented how tillage practice changes and higher yields increased SOC by $2 4 \\%$ since 1985 in the Western Corn Belt.Don et al. (2011) analyzed LUC in Europe and found that perennial energy crops grown on former cropland may sequester an additional $0 . 4 4 \\mathrm { ~ t ~ }$ $\\mathbf { C } \\ \\mathrm { h a } ^ { - 1 }$ year-1 SOC for poplar and willow and $0 . 6 6 \\mathrm { ~ t ~ C ~ }$ $\\mathrm { { h a } } ^ { - 1 } \\ \\mathrm { { y e a r } } ^ { - 1 }$ for Miscanthus. Modeling studies suggested that converting croplands to cellulosic biofuel crops (e.g.，swtichgrass,Miscanthus） can potentially sequester $0 . 2 – 0 . 9 \\mathrm { ~ t ~ C ~ h a } ^ { - 1 } \\mathrm { ~ y e a r } ^ { - 1 }$ ， depending on crop species and local environment (Qin et al.,2012;Mishra et al.,2013). Kwon et al.(2o13)used an earlier version of the surrogate CENTURY model and estimated state-level top $3 0 \\ \\mathrm { c m }$ SOC changes under LUCs; they found that converting croplands to $\\mathsf { c o r n } ,$ switchgrass,and Miscanthus increased SOC by about $0 . 0 5 { - } 0 . 5 4 \\mathrm { ~ t ~ C ~ h a ^ { - 1 } ~ y e a r ^ { - 1 } }$ ,while conversions of grassland and forest can cause carbon loss to corn system and neutral to median SOC gain to switchgrass and Miscanthus.The sequestration rates predicted in the modeling were generally consistent with corresponding estimates in this study. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The LUC GHG emissions estimated here (Table 2) are comparable with our previous results for corresponding biofuels (Dunn et al., 2013). One source of the variation in results is using SOC EFs at a higher spatial resolution and from deeper soils.For cellulosic ethanol, another source of variation is updates to the process that converts biomass to cellulosic ethanol since the 2013 version of GREET,including updates on ethanol yields and consumption of pretreatment chemicals (Argonne National Laboratory，2013).The differences between the two cases for corn ethanol in Table 2, caused solely by adjustments to GTAP,highlight the critical role the economic modeling results play in determining LUC GHG emissions. The case using the updated GTAP version has lower LUC GHG emissions than the previous estimates $( 4 . 7 \\mathrm { - } 1 1 \\mathrm { ~ g ~ } \\mathrm { C O } _ { 2 } \\mathrm { e q } \\mathrm { M J } ^ { - 1 } )$ (Dunn et al.，2013) regardless of assumptions used in the SOC modeling.Additionally,both corn ethanol scenarios estimated LUC GHG emissions well below Searchinger et al. (2008)'s result of $1 0 4 \\mathrm { ~ g ~ C O } _ { 2 } \\mathrm { e q ~ M J } ^ { - 1 }$ Worst-case corn ethanol life-cycle GHG emissions in Table 2 $( 6 6 . 4 \\textrm { g C O } _ { 2 } \\mathrm { e q } \\textrm { M J } ^ { - 1 } )$ yield a GHG reduction compared to gasoline of about $3 0 \\%$ ，which exceeds the RFS GHG reduction threshold for renewable fuels. The cellulosic feedstocks all surpass the RFS $6 0 \\%$ GHG reduction target for cellulosic biofuels (Table 2).As described above,we have not conducted LUC modeling for scenarios in which poplar or willow (instead of Miscanthus or switchgrass）are used as feedstocks to produce cellulosic ethanol. As LUC model results are a strong function of yield (Dunn et al.,2013) and SRWC yield is fairly close to switchgrass yield in most locations,LUC modeling results for the switchgrass ethanol scenarios can shed light on what we might expect results for poplar- or willow-derived ethanol to be. Given that Fig.4 shows that conversion of any land type to poplar or willow as compared to switchgrass either sequesters less SOC (e.g.，Fig. 4b) or causes carbon emissions (Fig.4d)，we expect that LUC GHG emissions associated with poplar- and willow-derived ethanol would be higher than that for switchgrassderived ethanol. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Given the importance of LUC GHG emissions in biofuel policies and because they are an indication of possible effects of biofuel production, future work is still required to improve techniques used to estimate these emissions. Our focus is on improving modeling of SOC changes and examining emerging issues in their application to LUC GHG emissions estimation. One important area of analysis is SOC changes upon corn stover harvest removal from corn fields for use as a biofuel feedstock.This feedstock is already in use at biorefineries in the USA,for example,in Iowa and Kansas.A good deal of work has been done to examine a sustainable stover removal rate that maintains SOC levels (Muth et al.,2013;Karlen& Johnson,2014).Nonetheless, some have raised concerns that when stover is removed from soils,SOC levels would be lower than if stover were not removed and that this difference between SOC levels with and without stover removal is essentially a carbon debt that biofuels derived from corn stover could incur (e.g.，Liska et al.，2014). This ‘alternative baseline' approach to calculate GHG emissions from SOC changes differs from estimating GHG emissions or sequestration as the difference between SOC levels at the start and finish of the time horizon.The use of alternative land use as a baseline may only be reasonable if thealternative system is practical,verifiable,and likely (Robertson et al.,2014; Sheehan et al.,2014). Methodology considerations aside,there isa need for a better understanding of spatially explicit SOC changes upon stover removal and the role carbon input techniques such as cover crops and manure addition could have on maintaining and even bolstering SOC levels (Ugarte et al.,2014 ;Lu,2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Additional future improvements in SOC modeling related to biofuel crop production include the treatment of nitrogen dynamics,irrigation，and modeling time horizon.Nitrogen dynamics can be introduced into the surrogate CENTURY model for the purposes of both estimating spatially explicit $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions and accounting for feedback between soil carbon and nitrogen (Huang et al.,2009;Melillo et al.，2009). Irrigation,as a possible water input,impacts LUC prediction (Taheripouret al.， 2013)， biomassproduction， soil carbon dynamics,and overall GHG emissions from the ecosystem (Le et al.，2011;Qin & Zhuang，2014)and therefore should be incorporated in the LUC and SOC modeling when spatial data become available.In the study，a 30-year period was used to match the time horizon of U.S.EPA LUC GHG emissions calculations. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "However,it should be noted that this may not accurately reflect the agricultural practices for production of corn and other biofuel crops. For example,corn may be rotated with other crops to avoid a possible yield penalty (Gentry et al.,2013), and energy grasses and SRWC may be rotated or replanted during the 30-year time period. A temporally and spatially specific LUC modeling matched with SOC modeling could improve the representativenessofpotentialcroppingactivities. Finally，additional efforts are still needed to estimate potential land use change associated with SRWC production, so that LUC GHG emissions can be accurately assessed. Estimating uncertainty associated with LUC GHG emissions is challenging because these emissions are estimated from a combination of results derived from(1） economic modeling,in which error is associated with yield response to price movements and many other parameters and (2) soil carbon modeling,in which error is associated with input data,model parameters and spatial aggregation. At times,especially for emerging feedstocks like poplar or willow，few data exist, making estimation of uncertainty associated with SOC model inputs such as allocation and return extremely difficult if not impossible (Table S1). Uncertainty estimation will improve as more data become available for these crops.Furthermore,our ongoing research aims to explore major uncertainties associated with factors in LUC modeling and the surrogate CENTURY model (e.g.,crop yield).We plan to assess the relative magnitude of uncertainty from different elements in LUC GHG emission estimates (e.g.，LUC projection，SOC modeling,and GHG emission estimation).Uncertainties associated with GHG emissions from other steps in the life cycle of ethanol besides LUC (e.g.，fertilizer consumption） have been identified and quantified in an earlier study (Wang et al., 2012). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors are very grateful to Hao Cai, Christina Canter, Laurence Eaton,Julie Jastrow,Paul Van Deusen,and Michael Wang for helpful communication and discussions. We thank the anonymous reviewers for insightful comments.This work was supported by the Bioenergy Technologies Office (BETO) of the Office of Energy Efficiency and Renewable Energy of the United States Department of Energy,under contract DE-AC02- 06CH11357.We thank Kristen Johnson,Alicia Lindauer,and Zia Haq of BETO for support and guidance.The GREET model and its CCLUB module that includes SOC/EF data can be accessed free of charge at https://greet.es.anl.gov/. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Argonne National Laboratory (2O13) Summary of Expansions and Updates in GREET1_2014 and GREET2_2014 Models. Argonne National Laboratory. Available at:https://greet.es.anl.gov/files/greetl-2014-memo (accessed 15 May 2014). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "and Energy Use in Transportation (GREET) Model 2014. Argonne National Laboratory.Available at: https://greet.es.anl.gov/(accessed 15 May 2014).   \nClay DE,ReicksG,Carlson CG, Moriles-MilleJStone JJ,ClaySA (2015)Tillage and corn residue harvesting impact surface and subsurface carbon sequestration. Journal of Environment Quality,44,803.   \nCode of Federal Regulations (2014) Protection of Environment, title 40,chapter I, subchapter C 80 CFR 1454(g).Available at: http://www.ecfr.gov/cgi-bin/retrie veECFR?gp=&SID=869935d65d979ec8256a5227ecb23481&r=SUBPART&n=40y17.0. 1.1.9.13#se40.17.80_11401 (accessed 15 April 2014).   \nDon A,Schumacher J,Freibauer A (20l1) Impact of tropical land-use change on soil organiccarbonstocks-a meta-analysis.Global Change Biology,17,1658-1670.   \nDunn JB, Mueller S,Kwon H, Wang MQ (2013) Land-use change and greenhouse gas emissions from corn and cellulosic ethanol. Biotechnology for Biofuels,6,51.   \nDunn J, Qin Z, Mueller S,Kwon H-Y,Wander MM,Wang M (2014) Carbon calculator for land use change from biofuels production (CCLUB) users'manual and technical documentation. No.ANL/ESD/12-5 Rev.2.Argonne National Laboratory.Available at: https://greet.es.anl.gov/ (accessed 15 October 2014).   \nEatonL,DalyC,Halbleib M,OwensV,StokesB(2013)Productivity Potentialof Bioenergy Crops From the Sun Grant Regional Feedstock Partnership.ORNL/TM-2013/574 Oak Ridge National Laboratory, Oak Ridge, TN.   \nEPA (U.S.Environmental Protection Agency） (2010)Regulation of Fuels and Fuel Additives: Changes to Renewable Fuel Standard Program; Final Rule.40 CFR Part 80.Available at: htp://www.gpo.gov/fdsys/pkg/FR-2010-03-26/pdf/2010- 3851.pdf (accessed 15 May 2014).   \nFargione J,HillJ, Tilman D,Polasky S,Hawthorne P(2Oo8)Land clearingand the biofuel carbon debt. Science, 319,1235-1238.   \nFargione JE,PlevinRJ,Hill JD (2010) The ecological impact of biofuels.Annual Review ofEcology,Eolution,ndSystemtics,41,517.   \nFolett RF, VogelKP,Varvel GE,MitchellRB,KimbleJ(2012)Soil carbon sequestration by switchgrass and no-tillmaize grown for bioenergy. BioEnergy Research,5, 866-875.   \nGentry LF,Ruffo ML, Below FE (2013)Identifying factors controlling the continuous corn yieldpenalty.AgronomyJoural,05,9503.   \nGuo LB, Gifford RM (2o02) Soil carbon stocks and land use change: a meta analysis. Global ChangeBiology,8,345-60.   \nHalbleib M, Daly C,Hannaway D (2012) Nationwide Crop Suitability Modeling of Biomass Feedstocks.Available at: http://www.sungrant.tennesseeedu/NR/ rdonlyres/8CF2F183-8B72-4E48-9E2F-BCAB4E421C7A/3630/46Halbleib_Mike.pdf (accessed 15 March 2015).   \nHarris N,Grimland S,Brown S (2oo9) Land use change and emission factors: Updates since proposed RFS rule.Docket ID #EPA-HQ-OAR-2005- 0161-3163. Available at http://www.regulations.gov (accessed 15 March 2014).   \nHuang Y,YuY,Zhang W etal. (2o09)Agro-C: a biogeophysical model for simulating thecarbon budget of agroecosystems.Agricultural and Forest Meteorology,149, 106-129.   \nIPCC (Intergovernmental Panel on Climate Change) (2006)2006 IPCC Guidelines for National Greenhouse Gas Inventories.Prepared by the National Greenhouse Gas Inventories Programme,Eggleston H.S., BuendiaL., Miwa K.,Ngara T.and Tanabe K. (eds).Published: IGES, Japan.   \nKarlen DL, Johnson JMF (2014) Crop residue considerations for sustainable bioenergy feedstock supplies.BioEnergy Research,7,465-467.   \nKim S,Dale BE, Heijungs R,Azapagic A, Darlington T, Kahlbaum D (2014) Indirect land use change and biofuels: mathematical analysis reveals a fundamental flaw in the regulatory approach.Biomass and Bioenergy,71,408-41.   \nKnops JMH, Bradley KL (209)Soil carbonand nitrogen accumulation and vertical distribution across a 74-year chronosequence.Soil Science Society of America Journal,73,2096-2104.   \nKwon H-Y,Hudson RJM(2010) Quantifying management-driven changes in organic mater turnover in an agricultural soil: an inverse modeling approach using historical dataand a surrogateCENTURY-type model. Soil Biology and Biochemistry, 42, 2241-2253.   \nKwon H-Y,Mueller S, Dunn JB,Wander MM(2013) Modeling state-level soil carbon emission factors under various scenarios for direct land use change associated with United States biofuel feedstock production.Biomassand Bioenergy,55,299-310.   \nLark TJ,Salmon JM, Gibbs HK (2015) Cropland expansion outpaces agricultural and biofuel policies inthe United States.Environmental Research Lettrs,10,044003.   \nLe PVV,Kumar P,Drewry DT(2011) Implications for the hydrologiccycle under climate change due to the expansion of bioenergy crops in the Midwestern United States.Proceedingsof the National Academy of Sciences of the United Statesof America, 108,15085-15090.   \nLiska AJ, Yang H, Milner M et al. (2Ul4) Biotuels trom crop residue can reduce soil carbonand increase CO2 emissions.Nature Climate Change,4,398-401.   \nLuF(2015) How can straw incorporation management impact on soil carbon storage?Ameta-analysis.Mitigationand Adaptation Strategies for Global Change,20, 1545-1568.   \nMelillo JM,ReillyJM,KicklighterDWetal. (29)Indirect emissionsfrombiofuels: ow important? Science,326,139799.   \nMishra U,Torn MS,Fingerman K (2013) Miscanthus biomass productivity within UScroplands anditspotential impact onsoil organiccarbon.GCB Bioenergy5, 391-399.   \nMumm RH, Goldsmith PD, Rausch KD,Stein HH (2014) Land usage atributed to corn ethanol production in the United States: sensitivity to technological advances in corn grain yield,ethanol conversion,and co-product utilization. Biotechnologyfor Biofuels,7,61.   \nMuth DJ Jr, Bryden KM,Nelson RG (2013) Sustainable agricultural residue removal for bioenergy:a spatially comprehensive US national assessment.Applied Energy, 102, 403–417.   \nPost WM,KwonKC(0)Soilcarbonsequestratioandland-usechange:prcs and potential. Global Change Biology,6,177.   \nPurdue University (2015) Global Trade Analysis Project (GTAP).Available at: http://www.gtap.agecon.purdue.edu/(accessed 15 March 2015).   \nQin $Z ,$ Zhuang Q (2014) Estimating water use efficiency in bioenergy ecosystems singaprocess-based model.In: Remote Sensing of the Terrestrial Water Cycle (eds Lakshmi V,Alsdorf D,AndersonR,Biancamaria S,Cosh M,EntinJ,Hufman ${ \\bf G } ,$ （204号 Kustas W,van OevelenP,Painter T,Parajka J,RodellT,Rudiger C),pp.479-491. John Wiley& Sons Inc,Hoboken, NJ.   \nQin Z, Zhuang $\\scriptstyle \\mathrm { Q } ,$ Chen M (2012) Impacts of land use change due to biofuel crops on carbon balance,bioenergy production,and agricultural yield,intheconterminousUnitedStates.GCBBioenergy,4,277-88.   \nQin Z,Dunn JB,Kwon H,Mueler S,Wander MM (2015) Soil carbon sequestration and land use change associated with biofuel production: empirical evidence. GCB Bioenergy. doi:10.111/gcbb.12237.   \nRFA (Renewable Fuels Association) (2015) Historic U.S.fuel Ethanol Production Availableat:htp://www.ethanolrfa.org/pages/statistics (accessd 15April 2015).   \nRobertson GP,Grace PR, Izaurralde RC,Parton WP, Zhang X (2014) CO2 emissions from crop residue-derived biofuels.Nature Climate Change,4, 933-934.   \nSAS Institute (2011)The SAS System for Windows.Release 9.2.SAS Institute,Cary,NC.   \nSearchinger T,Heimlich R,Houghton RA et al.(2008) Use of U.S.croplands for biofuels increases greenhouse gases through emissions from land-use change. Science,319,1238-1240   \nSheehan JJ,Adler PR,Del Grosso SJ,Easter ,Parton W,Paustian K,WilliamsS (2014) CO2 emissions from crop residue-derived biofuels.Nature Climate Change, 4, 932-933.   \nTaheripourF,Tyner WE(2013)Biofuelsandlandusechange: aplying recent evidence to model estimates.Applied Sciences,3,14-38.   \nTaheripour F,Wallace T,Michael W (2011) Global land use changes due to the U.S. cellulosic biofuel program simulated with the GTAP model. Argonne National Laboratory，Available at:greet.es.anl.gov/publication-luc_ethanol (accessed 15 March 2015).   \nTaheripour F,Hertel TW, LiuJ(2013) The role of irrigation in determining the global land use impacts of biofuels.Energy,Sustainability and Society,3,1-18.   \nUgarte CM,Kwon H,Andrews SS,Wander MM (2014)A meta-analysis of soil organic matter response to soil management practices: an approach to evaluate conservation indicators.Journalof Soiland Water Conseroation,69,422-430.   \nUS Congress(2007） The Energy Independence and Security Act of 2007 (H.R.6). Availableat: http://www.congress.gov/bill/110th-congress/house-bill/6 (accessd 15 March 2015).   \nUS DOE (U.S.Department of Energy)(2011) U.S. billion-ton update: biomass supply fora bioenergy and bioproducts industry. Oak Ridge National Laboratory.Availableat:htp://www1.eere.energy.gov/bioenergy/pdfs/billion_ton_update.pdf (accessed 15 March 2014).   \nUSDA(U.S.Department of Agriculture)(2012) Irrigated Corn for Grain,Harvested Acres,as Percent of Corn for Grain,Harvested Acres: 2012. U.S.Department of Agriculture Census Agriculture.Available at: http://www.agcensus.usda gov/Publications/2012/Online_Resources/Ag_Census_Web_Maps/(accessed 15 November 2015).   \nUSDA(U.S.Department of Agriculture) (2015) USDA(U.S.Department of Agriculture) National Agricultural Statistics Service. U.S. Department Agriculture. Available at: http://quickstats.nass.usda.gov/ (accessed 15 August 2015). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Van Deusen PC,Heath LS (2010) Weighted analysis methods for mapped plot forest inventory data: tables,regressions,mapsand graphs.Forest Ecology and Management, 260, 1607-1612. Wang M,Han J, Dunn JB, Cai H,Elgowainy A (2012) Well-to-wheels energy use and greenhouse gas emissions of ethanol from corn, sugarcane and cellulosic biomass for US use. Environmental Research Letters,7,045905. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Wright CK,Wimberly MC (2013) Recent land use change in the Western Corn Belt threatensgrasslandsand wetlands.Proceedings of theNational Academy of Sciences oftheUnitedStatesofAmerica,110,4134-4139.   \nWu Y,Liu S,Young CJ,Dahal D,Sohl TL,Davis B (2015)Projection of corn production and stover-harvesting impacts on soil organic carbon dynamics in the U.S. temperate prairies. Scientific Reports,5,1-12. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article: ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Model S1.Development of methods to quantify biofuel-induced land use change (LUC)and asociated GHG emissions. Model S2. Incorporating LUC GHG emissions into biofuel life-cycle GHG estimates.   \nModel S3.The surrogate CENTURY and SOC modeling.   \nTable S1.Key parameters used intheSOC modelingto simulateimpacts of biomass return,tllageand climateonsoil carbon dynamics.   \nTable S2. Land use change scenarios simulated in the SOC modeling.   \nFigure S1.Agro-Ecological Zones (AEZ) in the United States classified at county-level.   \nFigure S2.Initialyield(20l1)distributionforbiofuelcropsusedintheSOCmodeling:(a)co,(b)switchgrass(c)Miscanthus,(d) poplar and (e) willow.   \nFigure S3. Modeled SOC sequestration rates at $3 0 \\ \\mathrm { c m }$ soil depth for LUCs from cropland, cropland pasture, grassland and forest tocorn,switchgrass,Miscantus,poplarand willowwithyieldincrease.Corn wasaveragedoverdiferent illagepracticesand residue removal rates.The SOCsequestrationrates were based on 30-yrconversiontime period.A positivevalue indicates net carbon gain while a negative value indicates carbon loss.   \nFigure S4. SOC sequestration rates in the 30 and $1 0 0 ~ \\mathrm { c m }$ soils for LUCs from (a) cropland,(b) cropland pasture,(c) grassland and (d) forest to corn with constant yield under different management practices. Ro0,R30 indicate $0 \\%$ and $30 \\%$ residue removal rates; S30 and S100 indicate O-30 and $0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ soil depths.The box plot (same in Figure S5): the bottom and top of the box are the first and thirdquartiles,andtheband inside the boxis the second quartile (the median).Teendsof thewhiskers represent $1 . 5 ~ \\mathrm { I Q R }$ （204号 (interquartile range).   \nFigure S5. SOC sequestration rates in the 30 and $1 0 0 ~ \\mathrm { c m }$ soils for LUCs from (a) cropland,(b) cropland pasture,(c) grassland and (d) forest to switchgras,Miscanthus,poplar and willow with constant yield.S30and S100 indicate O-30 and $0 { \\mathrm { - 1 0 0 ~ c m } }$ soil depths, respectively.   \nFigure S6. AEZ level SOC sequestration rates at top 30 and $1 0 0 ~ \\mathrm { c m }$ soils for LUCs from cropland, cropland pasture, grassland and foresttocorn(on)，orstover(stov),switchgrass(swit)andiscanthus(misc)withyieldincrease.Theateswereavraged (arithmetic means)overcountiesintheAEZregion,witherorbarsshowingthestandarddeviations.Labels (a)to(h)indicate AEZ7to14,respectively.AEZ15and16were not presentedhere,having eitherverylimitedornocounties withcrtainLUCs. FigureS7.Theacreageofharvestedcorngrain (2006-2O10)bystateandbyAEZ.Theprimaryaxisshows thearea(Millonacres) ineach statebyAEZ,andthesecondaryaxis indicatesthecumulativepercentageofthetotalareaofeachstate.Thebarhartindicates theoveralldistributionofcornareaineachAEZ.Datawere extracted from USDA(U.S.Departmentof Agriculture)(2015b). ",
+        "page_idx": 13
+    }
+]

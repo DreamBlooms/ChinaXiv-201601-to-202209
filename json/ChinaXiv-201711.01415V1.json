@@ -1,0 +1,398 @@
+[
+    {
+        "type": "text",
+        "text": "基于高通量测定肉鸡回肠微生物多样性及PICRUSt基因预测分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐　帅林奕岑\\*周梦佳 倪学勤\\*\\*曾东\\*\\*曾　燕（四川农业大学动物医学院动物微生态研究中心，成都611130)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究健康肉鸡回肠的微生物群落结构及功能。采用高通量测序技术对15 只鸡的回肠内容物进行测序，按照 $9 7 \\%$ 的相似度归类OTUs，去除序列数量少的OTUs（ $\\mathbf { \\Omega } _ { n }$ ${ < } 2 { \\mathrm { ) } }$ )，然后进行生物信息学分析及PICRUSt基因预测。结果表明：1)共获得 424062条 tags，并归类于1002个非单OTUs，样品平均 tags为（ $( 2 8 2 7 1 { \\pm } 8 8 5 5 )$ ）条，平均OTUs为（ $2 6 1 { \\pm } 8 2 \\$ ）个。2）所有样品共含有 20个菌门，160个菌属。其中，共享核心菌门4个，分别是厚壁菌门（ $8 5 . 3 5 \\%$ ）、变形菌门（ $6 . 0 9 \\%$ )、蓝细菌门（ $2 . 1 5 \\%$ ）和放线菌门（ $0 . 1 6 \\%$ )。共享核心菌属19个，占样品总微生物总量的 $9 3 . 7 5 \\%$ 。3）鸡回肠预测得出328个功能。从前20功能热图可知，各样品的效能存在差异。由此可见，鸡回肠微生物群落复杂，但主要菌群相对稳定。本试验为进一步研究鸡回肠微生物群落结构与功能提供参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肉鸡；回肠；高通量测序；核心菌群；PICRUSt中图分类号：S811.6",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鸡的肠道是一个巨大的生态系统，肠道微生物对鸡的营养、免疫等功能有着重要的影响。鸡肠道的不同部位具有不同的作用，其中回肠是营养物质吸收的关键部位，且微生物多样性较高被人们广泛关注。鸡肠道微生物多样性的研究方法有很多，早期主要采用传统培养的方法[2]，但肠道中厌氧细菌居多，因此大量微生物未被分离培养。随着分子指纹图谱方法的出现，如末端限制性片段长度多态性[3]（terminal-restrictionfragment lengthpolymorphism,T-RFLP）分析、变性梯度凝胶电泳[4]（denaturinggradientgelelectrophoresis,DGGE）和温度梯度凝胶电 泳[5]（temperaturegradientgelelectrophoresis,TTGE)，使一些厌氧细菌能够在RNA水平上被检测，但研究技术的局限使获得的信息量少且不够深入。近年来，高通量测序技术因其准确性高、快速和信息量大等优点，被广泛的应用于人[6、林麝7、兔子[8等的微生物研究中。但是，利用高通量测序技术对健康鸡回肠微生物进行研究，在国内鲜有报道。本试验通过Illumina MiSeq平台进行Paired-end测序，快速、全面地测定健康鸡回肠微生物并通过KEGG（kyoto encyclopediaof genes andgenomes）数据库进行 PICRUSt（phylogenetic investigation of communities by reconstruction ofunobserved states）基因预测，揭示肠道菌群在回肠中的作用，为进一步研究鸡回肠微生物的结构与在肠道中的功能提供参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验动物与饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取15 只同日孵化的1日龄健康科宝 500 肉鸡（购于成都温江正大有限公司)，饲养21d。饲养条件为 $2 4 \\mathrm { h }$ 光照，自由采食和饮水，试验饲粮为玉米 $( 5 1 . 6 4 \\% )$ 、豆粕 $( 3 9 . 6 0 \\% )$ 八菜籽油 $( 4 . 3 0 \\% )$ 、磷酸氢钙 $( 1 . 8 5 \\% )$ 、碳酸钙 $( 1 . 3 0 \\% )$ ）、 $D L$ -蛋氨酸 $( 0 . 2 0 \\% )$ 、食盐 $( 0 . 4 0 \\% )$ 、胆碱$( 0 . 1 8 \\% )$ 、多维 $( 0 . 0 3 \\% )$ 和微量元素预混料 $( 0 . 5 0 \\% )$ ，每天观察鸡群的采食、饮水与健康情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验第 22天，将15只鸡处死，取鸡回肠内容物，分别编号为H1\\~H15，迅速放置液氮中保存，然后放入一80℃冰箱中冻存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 细菌总DNA的提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取鸡回肠内容物样品（ $1 0 0 { \\pm } 1 0$ ）mg，用OmegaD40-15粪样试剂盒，按操作手册要求提取总DNA，存放于一30℃冰箱中备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4基于16SrRNA的V4区细菌样品检测、文库建立及上机测序",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA 样品送至中国科学院成都生物研究所检验、测序，利用Illumina MiSeq平台进行Paired-end 测序，对样品16S rRNA的V4区建立文库并上机测序。具体操作如下：选择16SrDNA的V4区作为目的扩增区域，用引物对515F/806R目的片段进行扩增。根据PCR产物浓度进行等量混样，充分混匀后使用 $2 \\%$ 的琼脂糖凝胶电泳检测PCR产物。对目的条带使用E.Z.N.A.TM公司的GelExtraction Kit凝胶回收试剂盒切胶回收。用纯化后的样品基于IlluminaMiSeq平台Paired-end 测序技术建立文库，并进行测序。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测序数据利用FastQC 软件评价测序的数量和质量，通过perl脚本去除连续低于20 的碱基以及顺序掉转的reads，在Mothur1.31.2中将处理后的数据合并成一条一条完整的目的片段；利用Usearch 7.0.1001去掉纯化后数据的嵌合体[9]，利用Qiime 1.8.0合并去掉嵌合体的数据，并将数据按照uclust 算法将序列相似性 $29 7 \\%$ 的 OTUs(operational taxonomic units)进行OTUs聚类[10]，同时去掉序列数少的OTUs（OTUs中序列数 ${ < } 2$ ）°",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过Qiime 1.8.0 对每个样品进行物种分类，并统计信息[1]。基于样品OTUs 数量与测试的深度变化的关系，通过不同生物信息学算法计算alpha多样性(样品内部的生物多样性)，并绘画稀释曲线。进行物种注释和核心菌群分析，统计各水平信息，按照样品规定最低比例与OTUs数目之间的关系制作核心菌群数量变化曲线图，通过软件制作门水平所有样品共同含有的核心菌门百分含量热图，在属水平制作所有样品共同含有的核心菌属柱状图。通过KEGG 数据库进行PICRUSt基因预测，利用软件R3.1.1根据数量排列前20的预测结果制作基因预测热图。通过SPSS19.0进行标准误计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1各样品序列及OTUs信息",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究基于Illumina高通量测序技术对15只健康鸡的回肠内容物菌群V4区进行测序，按照 $9 7 \\%$ 的相似度对OTUs进行归类，去除序列数量少的OTUs（OTUs中序列数 ${ < } 2$ ）后，共获得 424062 条 tags，被归类于1002个OTUs，样品平均 tags为（ $2 8 2 7 1 { \\pm } 8 8 5 5$ ）条，平均OTUs为（ $2 6 1 { \\pm } 8 2$ ）个。其中，tags 数量最高的是样品H7，最低的是H8，相差 35100条 tags。OTUs含量最高的是H1，最低的是H8，相差328个OTUs。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Alpha 多样性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用alpha多样性指数对各样品的丰富度和多样性进行比较。从图1可以看出，物种观察指数稀释曲线随着测试深度的不断加深逐渐增加，但没有达到饱和，说明虽然大多数菌群被覆盖，但仍有少量细菌未被测出。Alpha 多样性指数（表1）表明，样品H1的物种丰富度和多样性相对较高。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ab6b2f67515a55e39fafd3a78bb3f472059c4b79994ddc4cb62ac9e8763b22a.jpg",
+        "img_caption": [
+            "图1观察指数稀释曲线",
+            "Fig.1Rarefaction curves of observed species "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1Alpha 多样指数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c896e5fe9638b66662abfc750321ca48c545a99cf84c1b2252c6fd5160f2d95.jpg",
+        "table_caption": [
+            "Table 1Alpha diversity indices "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"10\">样品编号 Sample number</td><td colspan=\"5\"></td><td>标准误</td></tr><tr><td>Item</td><td>H1</td><td>H2</td><td>H3</td><td>H4</td><td>H5</td><td>H6</td><td>H7</td><td>H8</td><td>H9</td><td>H10</td><td>H11</td><td>H12</td><td>H13</td><td></td><td>H14</td><td>H15</td><td>Standard error</td></tr><tr><td>ACE</td><td>656.06</td><td>558.81</td><td>474.92</td><td>420.47</td><td>339.53</td><td>551.91</td><td>312.78</td><td>244.45</td><td>505.48</td><td>427.40</td><td>377.50</td><td>542.01</td><td>389.04</td><td>467.70</td><td>602.14</td><td></td><td>29.52</td></tr><tr><td>Shannon</td><td>3.93</td><td>3.45</td><td>2.83</td><td>2.69</td><td>2.30</td><td>3.82</td><td>0.81</td><td>2.36</td><td>2.56</td><td></td><td>2.63</td><td>2.56</td><td>2.63</td><td>2.80</td><td>2.48</td><td>3.21</td><td>0.19</td></tr><tr><td>Simpson</td><td>0.82</td><td>0.83</td><td>0.73</td><td>0.74</td><td>0.63</td><td>0.86</td><td>0.20</td><td>0.61</td><td>0.70</td><td>0.74</td><td>0.75</td><td>0.67</td><td>0.58</td><td></td><td>0.62</td><td>0.80</td><td>0.04</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 物种注释 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在门水平和属水平对样品进行物种注释分析。15个样品共获得20个菌门，160个菌属。样品中微生物主要为细菌，占所有微生物的 $9 9 . 5 4 \\%$ ，其余为古生菌和未被归类的微生物。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "门水平含量大于 $0 . 1 \\%$ 有5个菌门，分别为：厚壁菌门（Firmicutes）平均含量为 $8 9 . 8 3 \\%$ 变形菌门（Proteobacteria）平均含量为 $6 . 2 8 \\%$ ，蓝细菌门（Cyanobacteria）平均含量为 $2 . 1 6 \\%$ ，拟杆菌门（Bacteroidetes）平均含量为 $1 . 0 8 \\%$ ，放线菌门（Actinobacteria）平均含量为 $0 . 1 6 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "属水平含量大于 $1 \\%$ 的菌属共有8个，乳杆菌属（Lactobacillus）平均含量为 $7 6 . 7 7 \\%$ ，链球菌属（Streptococcus）平均含量为 $2 . 2 9 \\%$ ，乳酸乳球菌（Lactococcus）平均含量为 $2 . 1 4 \\%$ 肠球菌属（Enterococcus）平均含量为 $1 . 3 6 \\%$ ，Solibacillus属平均含量为 $1 . 0 7 \\%$ 。其余3种在属水平未被命名，分别归属于肠杆菌科（Enterobacteriaceae）平均含量为 $5 . 2 2 \\%$ ，消化链球菌科（Peptostreptococcaceae）平均含量为 $2 . 8 3 \\%$ ，Streptophyta平均含量为 $2 . 1 5 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4核心菌群分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "核心菌群是基于OTUs通过Qiime1.8.0软件筛选、统计，获得存在于样品规定最低百分含量中所含的OTUs，然后按照各分类水品进行分类。表2为样品规定最低比例与OTUs数目之间的关系表。从表中可以看出，随着样品规定最低比例的增加，共同OTUs 的数目呈阶梯形减少。当样品规定最低百分含量为 $5 0 \\%$ 时，共含有146个OTUs。规定最低百分含量为 $100 \\%$ 时，OTUs为30个。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd286a2d7a84426e7fafa92d7e4ac4068bf171d8438291831de7cf8935979d71.jpg",
+        "table_caption": [
+            "表2最低百分含量与OTUs数目之间的关系",
+            "Table 2Relationship between the minimum percentage and the number of OTUs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>最低百分含量 The minimum percentage</td><td>50%</td><td>55%</td><td>60%</td><td>65%</td><td>70%</td><td>75%</td><td>80%</td><td>85%</td><td>90%</td><td>95%</td><td>100%</td></tr><tr><td>OTUs 数目 The</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>number of OTUs</td><td>146</td><td>109</td><td>109</td><td>91</td><td>79</td><td>65</td><td>65</td><td>53</td><td>42</td><td>30</td><td>30</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在门水平上，共享核心菌门共有4个，按含量从高到底分别为：厚壁菌门（Firmicutes）平均含量为 $8 5 . 3 5 \\%$ ，变形菌门（Proteobacteria）平均含量为 $6 . 0 9 \\%$ ，蓝细菌门（Cyanobacteria）平均含量为 $2 . 1 5 \\%$ ，放线菌门（Actinobacteria）平均含量为 $0 . 1 6 \\%$ 。通过表3可以看出，除样品 H13 中的厚壁菌门、变形菌门和样品 H11中厚壁菌门外，样品在门水平的差异性较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dbb307dc7fb68b1e1a60fe3bb87fe6bf02f0eaa89073d0a74ca9cb0b000f8ae6.jpg",
+        "table_caption": [
+            "表3共享核心菌门百分含量",
+            "Table 3The percentage of shared core microbiome phylum "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"10\">样品编号 Sample number</td><td colspan=\"5\"></td><td>标准误</td></tr><tr><td>Items</td><td>H1</td><td>H2</td><td>H3</td><td>H4</td><td>H5</td><td>H6</td><td>H7</td><td>H8</td><td>H9</td><td>H10</td><td>H11</td><td>H12</td><td>H13</td><td>H14</td><td>H15</td><td>Standard error</td></tr><tr><td>厚壁菌门 Firmicutes</td><td>81.05</td><td>90.27</td><td>94.55</td><td>96.30</td><td>95.44</td><td>88.30</td><td>99.26</td><td>89.80</td><td>93.74</td><td>97.30</td><td>63.91</td><td>92.23</td><td>15.66</td><td>96.59</td><td>85.93</td><td>5.47</td></tr><tr><td>变形菌门 Proteobacteria</td><td>1.80</td><td>2.12</td><td>2.45</td><td>1.22</td><td>0.99</td><td>3.07</td><td>0.23</td><td>0.33</td><td>1.85</td><td>0.49</td><td>0.60</td><td>1.85</td><td>64.40</td><td>1.16</td><td>8.86</td><td>4.20</td></tr><tr><td>蓝细菌门 Cyanobacteria</td><td>7.46</td><td>4.88</td><td>1.70</td><td>1.48</td><td>2.69</td><td>4.97</td><td>0.21</td><td>0.87</td><td>2.56</td><td>0.63</td><td>0.28</td><td>2.73</td><td>0.32</td><td>0.46</td><td>0.99</td><td>0.55</td></tr><tr><td>放线菌门 Actinobacteria</td><td>0.27</td><td>0.40</td><td>0.16</td><td>0.13</td><td>0.13</td><td>0.47</td><td>0.02</td><td>0.04</td><td>0.14</td><td>0.04</td><td>0.04</td><td>0.16</td><td>0.08</td><td>0.15</td><td>0.13</td><td>0.03</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在属水平上，共享核心菌属共有19个，分别为乳杆菌属（Lactobacillus）平均含量为$7 6 . 7 7 \\%$ ，链球菌属（Streptococcus）平均含量为 $2 . 2 9 \\%$ ，乳酸乳球菌（Lactococcus）平均含量为 $2 . 1 4 \\%$ ，肠球菌属（Enterococcus）平均含量为 $1 . 3 6 \\%$ ，Solibacillus属平均含量为 $1 . 0 7 \\%$ ，芽孢杆菌属（Bacillus）平均含量为 $0 . 9 6 \\%$ ，假单孢菌属（Pseudomonas）平均含量为 $0 . 3 3 \\%$ ，杆菌属（Lysinibacillus）平均含量为 $0 . 1 0 \\%$ ，Ewingella属平均含量为 $0 . 0 5 \\%$ ，Brochothrix属平均含量为 $0 . 0 4 \\%$ ，明串珠菌属（Leuconostoc）平均含量为 $0 . 0 4 \\%$ ，Enhydrobacter属平均含量为 $0 . 0 3 \\%$ ，其余7种细菌在属水平未被分类，其总共占样品微生物的含量为 $8 . 5 7 \\%$ 。共享核心菌属占样品总微生物的 $9 3 . 7 5 \\%$ 。共享核心菌属物种注释柱状图（图2）表明，虽然这些菌属是各样品共同含有，但其百分含量在各样品中差异较大，其中样品 H13 与其他样品差异最明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddfc176c8abbf5d0a36a4f8534f53c1d857409982e7b26cf77ff88d5b8f2e76d.jpg",
+        "img_caption": [
+            "图2核心菌属柱状图",
+            "Fig.2Core microbiome genus histogram "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5 PICRUSt基因预测 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PICRUSt是通过微生物群落的丰富度与数据库比，从而在不可观测的情况下推测出生物群落的功能信息。结果获得 328个预测的功能，数量前20的功能分别为转运蛋白、一般功能预测、ABC 转运体、DNA修复和重组蛋白、核糖体、嘌呤代谢、蛋白酶、嘧啶代谢、转录因子、染色体、氨基糖和核苷酸糖代谢、未知功能、双组分系统、核糖体生物合成、糖酵解/糖异生、其他离子偶联转运蛋白、氨酰 tRNA生物合成、磷酸转移酶系统、DNA复制蛋白和分泌系统。PICRUSt基因预测热图（图3）结果表明，各样品的效能存在一定差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/59c7d5546d978b9ec1ce9d3c921238f5d3f5b7c52eeccc21145bc8744b707d52.jpg",
+        "img_caption": [
+            "图3 PICRUSt基因预测聚类热图",
+            "Fig.3Heatmap of PICRUSt gene predicted function "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验通过16S rRNAV4 区基因扩增子技术，在Illumina Miseq 测序平台上对健康鸡的回肠菌群进行高通量测序。与以往的肠道微生物检验方法相比，高通量测序具有检测数据完整性好、测量快速、测定信息量大等优点[12-13]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "15 只健康鸡回肠微生物的种类和数量不完全相同，可能由个体身体状况、饮食量等试验样品本身差异造成。Alpha稀释曲线是否达到平台期，可以反映测试样品是否达到了测试深度，即样品测试是否足以覆盖所有微生物，通过alpha稀释曲线可以看出高通量测序并没有完全覆盖所有菌群，测试结果具有一定的随机性。研究表明，肠道微生物的种类和数量与刚出生的环境有关，出生环境也可能是造成差异的原因[14]。即使严格控制饲养环境做重复试验，鸡的肠道微生物测试结果仍然会出现差异[15]。本次试验重复数多达15个，且检测结果覆盖了大多数的菌种，所以本次试验具有较好的代表性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "共享核心菌群与物种注释相比，其归类依据在物种分类水平上更高，所以在统计样品微生物百分含量时更加准确，代表性更强。通过物种注释可以看出，含量排在前五的门分别是厚壁菌门、变形菌门、蓝细菌门、拟杆菌门和放线菌门，与 Shaufi等[13]人的研究结果相似。共享核心菌群比较，除蓝细菌门外，其他菌门都是共享核心菌门。从菌门百分含量可以看出，共享核心菌门中菌门百分含量小于物种注释中的百分含量。以厚壁菌门为例，厚壁菌门是健康鸡的回肠中含量最多的菌群。厚壁菌门在肠道或粪便中作为主要菌门在猫[16]、狗[17]、马[18]等动物中也有报道。据报道，厚壁菌门与粗饲料的消化有关，鸡作为以植物为主要食物禽类，厚壁菌门对其营养消化吸收有帮助作用。物种注释中显示厚壁菌门含量高达 $8 9 . 8 3 \\%$ ，核心菌群中显示其含量为 $8 5 . 3 5 \\%$ ，两者相差 $4 . 4 8 \\%$ 。造成差异的原因是物种注释中归于厚壁菌门的OTUs并非所有样品都含有。由此可见，利用共享核心菌群分析百分含量其更准确，但受个体差异影响更大。通过共享核心菌门百分含量表可知，不同个体门水平微生物百分比差异较小。在属水平上，物种注释和共享核心菌属在含量高的菌属中差异不大，因为两者归类参照的物种分类水平更相似。但定量上看，物种注释在属水上显示共含有160个属，而共享核心菌属仅有19个，造成差异的原因是样品个体差异影响。但共同含有的核心菌属在样品微生物总量的 $9 3 . 7 5 \\%$ ，已经表现了样品的大多数微生物。本次试验测得到的共享核心菌种与周小娟等[19]研究北京油鸡和艾拔益加肉鸡回肠优势菌种的结果存在差异，大肠埃希菌和粪链球菌并不是优势菌种。造成差异的原因除饲养环境、肉鸡品种和研究方法不同外，也可能是饲粮配方不同造成的差异。研究表明，饲粮的种类不仅对鸡的健康和代谢有影响[20]，而且可以改变鸡的肠道微生物[21-22]。从核心菌属柱状图可以看出，样品之间菌属含量差异较大，此结果与Buffie 等[23]、Gulino 等[24]研究动物肠道菌群的结果相似。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "肠道中微生物的对免疫功能、营养物质的吸收、甚至酶的代谢作用等有一定的影响[25]。研究表明，人类肠道中微生物异常可以导致过敏、肥胖和糖尿病等[25]。由此可见，肠道微生物对机体的生理功能有一定的影响。PICRUSt将不可视的微生物，通过与数据库比对和生物功能联系起来。PICRUSt基因预测表明，鸡回肠微生物与分子和蛋白质的生成和代谢等基础生命功能有关。PICRUSt基因预测热图显示，相同功能各样品间热图颜色有变化，说明各样品虽然都具有相同的功能，但是由于每个样品中所含微生物的种类和数量有区别，所以各样品的效能存在差异。这与测定样品tags和OTUs的结果吻合。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 15只健康鸡回肠共获得 424 062条 tags 和1002个非单OTUs，样品平均 tags 为（28$2 7 1 { \\pm } 8 8 5 5$ ）条，平均OTUs为（ $2 6 1 { \\pm } 8 2$ ）个。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 通过物种注释和核心菌群比较可知，两者在种类和含量上存在差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 样品个体间菌群百分含量在门水平差异不大，但在属水平存在一定差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 各样品的效能差异，可能与样品菌群含量和种类有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] 倪学勤,GONG J,YUH,等.采用 PCR-DGGE 技术分析蛋鸡肠道细菌种群结构及多样性[J].畜牧兽医学报,2008,39(7):955-961.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2] BARNES E M,MEAD G C,BARNUM D A,et al.The intestinal flora of the chicken in the period 2 to 6 weeks of age,with particular reference to the anaerobic bacteria[J].British Poultry Science,1972,13(3):311-326. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3] GONG J H,FORSTER R J,YU H,et al.Molecular analysis of bacterial populations in the ileum of broiler chickens and comparison with bacteria in the cecum[J].FEMS Microbiology Ecology,2002,41(3):171-179. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4] GONG J,YU H,LIU T,et al.Effects of zinc bacitracin,bird age and access to range on bacterial microbiota in theileum and caeca ofbroiler chickens[J].Journal ofApplied Microbiol0gy,2008,104(5):1372-1382. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[5] ZHU X Y,ZHONG T Y,PANDYA Y,et al.16S rRNA-based analysis of microbiota from the cecum of broiler chickens[J].Applied And Environmental Microbiology,2002,68(1):124-137.   \n[6] QIN N,YANG F L,LI A,et al.Alterations of the human gut microbiome in liver cirrhosis[J].Nature,2014,513(7516):59-64.   \n[7] 王立志,徐谊英,蔡永华.高通量测序分析人工养殖成年林麝粪便古菌菌群多样性[J].动物 营养学报,2016,28(2):477-484.   \n[8] ZENG B,HAN S S,WANG P,et al.The bacterial communities associated with fecal types and body weight of rex rabbits[J].Scientific Reports,2015,5:9342.   \n[9] EDGAR R C.HAAS B J,CLEMENTE J C,et al.UCHIIME improves sensitivity and speed of chimera detection[J].Bioinformatics,2011,27(16):2194-2200.   \n[10] CAPORASO J G,KUCZYNSKI J,STOMBAUGH J,et al.QIIME allows analysisof high-throughput community sequencing data[J].Nature Methods,2010,7(5):335-336.   \n[11] WERNER JJ,KOREN O,HUGENHOLTZ P,et al.Impact of training sets on classification of high-throughput bacterial 16S rRNA gene surveys[J].International Society for Microbial Ecology Journal,2012,6(1):94-103.   \n[12] WILLIAMS S T,FOSTER P G,LITTLEWOOD D T J.The complete mitochondrial genome of a turbinid vetigastropod from MiSeq Ilumina sequencing of genomic DNA and steps towards a resolved gastropod phylogeny[J].Gene,2013,533(1):38-47.   \n[13] SHAUFI M A M,SIEO C C,CHONG C W,et al.Deciphering chicken gut microbial dynamics based onhigh-throughput16SrRNA metagenomicsanalyses[J].Gut Pathogens,2015,7(1):1-12.   \n[14] APAJALAHTI J,KETTUNEN A,GRAHAM H.Characteristics of the gastrointestinal microbial communities,with special reference to chickens[J].Worlds Poultry Science Journal,2004,60(2):223-232.   \n[15] STANLEY D,GEIER M S,HUGHES R J,et al.Highly variable microbiota development in the chicken gastrointestinal tract[J].PLoS One,2013,8(12):e84290.   \n[16] RITCHIE L E,STEINER J M,SUCHODOLSKI J S.Assessment of microbial diversity along the feline intestinal tract using 16S rRNA gene analysis[J].FEMS Microbiology Ecology,2008,66(3):590-598.   \n[17] SUCHODOLSKI J S,CAMACHO J,STEINER J M.Analysis of bacterial diversity in the canineduodenum,jejunum,ileum,andcolonbycomparative16SrRNAgene analysis[J].FEMS Microbiology Ecology,2008,66(3):567-578.   \n[18] COSTA M C,SILVA G,RAMOS R V,et al.Characterization and comparison of the bacterial microbiota in different gastrointestinal tract compartments in horses[J].The Veterinary ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Journal,2015,205(1):74-80.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[19] 周小娟,张日俊,郭宝林.不同品种、日龄和饲养方式对肉鸡肠道菌群的影响[J].中国微生态学杂志,2012,24(7):577-587.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[20] ZHOU M J,ZENG D,NI X Q,et al.Effects of Bacillus licheniformis on the growth performance and expression of lipid metabolism-related genes in broiler chickens challenged with Clostridium perfringens-induced necrotic enteritis[J].Lipids in Health and Disease,2016,15:48. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[21]李可,罗建杰,孟昆,等.不同益生菌对肉鸡肠道菌群结构的影响[J].动物营养学报,2015,27(11):3516-3526.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[22] WITZIG M,CAMARINHA DA SILVA A,GREEN-ENGERT R,et al.Spatial variation of the gut microbiota in broiler chickens as affected by dietary available phosphorus and assessed by T-RFLP analysis and 454 pyrosequencing[J].PLoS One,2015,10(12):e0143442. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[23] BUFFIE C GJARCHUM I,EQUINDA M.Profound alterations of intestinal microbiota following a single dose of clindamycin results in sustained susceptibility to Clostridium difficile-induced colitis[J].Infection and Immunity,2012,80(1):62-73. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[24] GULINO L M,OUWERKERK D,KANG A Y H,et al.Shedding light on the microbial community of the macropod foregut using 454-amplicon pyrosequencing[J].PLoS One,2013,8(4):e61463. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[25] MARTIN R,NAUTA A J,BEN AMOR K,et al.Early life:gut microbiota and immune development in infancy[J].Beneficial Microbes,2010,1(4):367-382. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Analyzing of Ileum Microbial Diversity of Chickens by High-Throughput Sequencing and PICRUSt Predicted ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "XU Shuai LIN Yicen\\*ZHOU MengjiaNI Xueqin\\*\\*ZENG Dong\\*\\*ZENG Yan (Animal Microecology Institute, College of Veterinary Medicine, Sichuan Agricultural University, Chengdu 611130, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The aim of this study was to analyze the composition and function of ileum microbial community of healthy chickens.The samples of ileum contents of 15 chickens were investigated by high-throughput sequencing. OTUs were picked with a $9 7 \\%$ similarity threshold and the sequences less than two in all samples were removed. Than the results were analyzed by bioinformation software and PICRUSt functional profiles. The results showed as follows: 1） a total of 424 062 tags were assigned to $1 \\ 0 0 2$ non-singleton OTUs from all samples.Each sample had ( $2 8 2 7 1 { \\pm } 8 8 5 5$ ）tags and( $2 6 1 { \\pm } 8 2$ ）OTUs on average. 2) In total, 20 phyla and 160 genera were detected, and 4 shared core phyla were contained in all samples. They were Firmicutes （204号 $( 8 5 . 3 5 \\% )$ ,Proteobacteria $( 6 . 0 9 \\% )$ ，Cyanobacteria $( 2 . 1 5 \\% )$ and Actinobacteria $( 0 . 1 6 \\% )$ .Nineteen shared core genera were contained in all samples, which consisted $9 3 . 7 5 \\%$ of the overall bacteria community. 3） Three hundred and twenty-eight functions were detected in all ileum samples. Heat-map of the first 2O functions showed that there were some differences in efficiency of each sample. Therefore,our research reveals that the chicken ileum is complex for the phylogenetic diversity of the microbial communities,but the main microbial communities are relatively stable. The findings of this study will provide basic information and lay the foundation of the research in composition and function of the microbiota of chicken ileum. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: chicken; ileum; high-throughput sequencing; core-microbiome; PICRUSt ",
+        "page_idx": 11
+    }
+]

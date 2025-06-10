@@ -1,0 +1,234 @@
+富硒酵母和枯草芽孢杆菌对湖羊羔羊生长性能、血清指标和消化功能的影响
+
+2 程连平　贺濛初　夏晓冬　李曼曼　舒迎霜　彭成璐 　冯士彬　王希春　李　玉　吴金节  
+3 （安徽农业大学动物科技学院，地方畜禽遗传资源保护与生物育种安徽省重点实验室，合肥  
+4 230036)  
+5號 摘要:本试验旨在研究富硒酵母和枯草芽孢杆菌对湖羊断奶羔羊生长性能、血清指标、养  
+6 分表观消化率、胰腺消化酶活性和瘤胃发酵参数的影响。选取体况良好、体重为 $( 9 . 6 5 { \pm } 0 . 3 8 ) \$ 0  
+7 kg 的湖羊断奶羔羊 21只随机分为3组，即对照组、富硒酵母组（在精料中添加 $1 0 0 \ \mathrm { g / t }$ 富  
+8 硒酵母）和枯草芽孢杆菌组（在精料中添加 $1 0 0 \mathrm { g / t }$ 枯草芽孢杆菌），每组7只。试验期为  
+9 28 d。结果表明，与对照组相比：1）富硒酵母组和枯草芽孢杆菌组的羔羊末重、平均日增  
+10 重显著或极显著提高 （ $\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），精料和粗料的料重比显著或极显著降低（ $\cdot P { < } 0 . 0 5$   
+11 或 $P { < } 0 . 0 1$ ）。2)富硒酵母组和枯草芽孢杆菌组血清中免疫球蛋白A、免疫球蛋白G、免疫球  
+12 蛋白 M、白细胞介素6含量及谷胱甘肽过氧化物酶活性显著或极显著提高（ $P { < } 0 . 0 5$ 或  
+13 $P { < } 0 . 0 1$ ）；富硒酵母组血清中丙二醛含量显著降低（ $P { < } 0 . 0 5 \$ ），血清白细胞介素1含量、超  
+14 氧化物歧化酶活性显著或极显著提高（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）；枯草芽孢杆菌组的白细胞介素  
+15 2、γ干扰素含量显著或极显著提高（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。3)富硒酵母组和枯草芽孢杆菌组  
+16 的干物质、粗蛋白质、酸性洗涤纤维和中性洗涤纤维的表观消化率显著或极显著提高( $. P { < } 0 . 0 5$   
+17 或 $P { < } 0 . 0 1$ ），枯草芽孢杆菌组的粗脂肪的表观消化率显著提高（ $\cdot P { < } 0 . 0 5$ ）。4)枯草芽孢杆菌  
+18 组胰腺脂肪酶和富硒酵母组胰腺胰蛋白酶显著提高（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）。5)富硒酵母组和枯草芽孢杆  
+19 菌组羔羊瘤胃液氨态氮、乙酸、丙酸、异丁酸、正丁酸含量均显著提高（ $\cdot P { < } 0 . 0 5$ ）。结果证  
+20 实，在湖羊断奶羔羊饲粮中添加富硒酵母和枯草芽孢杆菌可以提高羔羊生长性能和抗氧化能  
+21 力，改善免疫力和消化功能。  
+22 关键词:湖羊；富硒酵母；枯草芽孢杆菌；生长性能；血清指标；表观消化率；瘤胃发酵参  
+23 数
+
+24 中图分类号：S826
+
+目前，我国养殖场抗生素的使用导致细菌耐药性不断增加，造成养殖动物的抗病性降低、畜产品药物残留等问题，严重制约了养殖业的发展。因此，在畜禽生产中开发绿色安全、高效、无残留的抗生素替代品已成为研究热点和必然趋势。微生态制剂，是利用正常微生物或促进微生物生长的物质制成的。微生态制剂因其在动物体内无残留，并且可以改善动物健康，提高生产力和免疫力，逐步被广泛应用[。饲粮中添加富硒酵母可以提高育肥猪生长性能、养分表观消化率和抗氧化能力[2]。枯草芽孢杆菌能够改善动物肠道微生物的生存环境，促进营养物质的充分吸收，提高饲粮的利用率，降低成本[3]。枯草芽孢杆菌还可以提高动物机体抵抗力，为其他有益菌创造更好生长和繁殖的条件从而改善肠道菌群，通过抑制致病菌生长提高动物机体的免疫力[4]。湖羊羔羊在断奶后，由于应激反应明显，不喜进食开食料和代乳品等，导致生长迟缓、腹泻等的发生。关于富硒酵母和枯草芽孢杆菌对湖羊羔羊的研究报道较少。因此，本试验拟以45 日龄的湖羊断奶羔羊为试验动物，通过在饲粮中添加富硒酵母和枯草芽孢杆菌，探讨其对湖羊断奶羔羊生长性能、血清指标、养分表观消化率、胰腺消化酶活性和瘤胃发酵参数的影响，为微生态制剂在羊生产中的科学应用提供试验依据。
+
+1材料与方法
+
+# 1. 1 试验材料和试验动物
+
+试验所用枯草芽孢杆菌制剂购自株洲智荟生物科技有限公司，有效活菌数为 $1 \times 1 0 ^ { 1 0 }$ CFU/g；富硒酵母购自安琪酵母有限公司，硒含量 $2 \ : 0 0 0 \ : \mathrm { m g / k g }$ 。试验动物为45日龄湖羊断奶羔羊。基础饲粮和试验动物皆由安徽省马鞍山市金农牧业有限公司提供。
+
+1.2 试验设计
+
+选取21只45日龄体况良好、平均体重为（ $9 . 6 5 { \scriptstyle \pm 0 . 3 8 }$ ） $\mathbf { k g }$ 的湖羊断奶羔羊，随机分为3 组，即对照组、富硒酵母组和枯草芽孢杆菌组，每组7只。试验期 $2 8 \mathrm { d }$ 。参照《肉羊饲养标准》配制饲粮，对照组饲喂基础饲粮，试验组在基础饲粮的精料中分别添加 $1 0 0 \ \mathrm { g / t }$ 富硒酵母和 $1 0 0 \ : \mathrm { g / t }$ 枯草芽孢杆菌制剂。基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) % 原料 Ingredients 含量Content 营养水平 Nutrient levels2) 含量Content
+
+<html><body><table><tr><td colspan="2">精料 Concentrate</td><td>钙Ca</td><td>1.54</td></tr><tr><td>玉米 Corn</td><td>44.50</td><td>磷P</td><td>0.34</td></tr><tr><td>豆粕 Soybean meal</td><td>25.00</td><td>干物质 DM</td><td>87.60</td></tr><tr><td>预混料 Premix1)</td><td>5.00</td><td>粗蛋白质 CP</td><td>18.80</td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>粗脂肪 EE</td><td>2.20</td></tr><tr><td>粗料 Forage</td><td></td><td>中性洗涤纤维 NDF</td><td>16.20</td></tr><tr><td>麸皮 Wheat bran</td><td>5.00</td><td>酸性洗涤纤维 ADF</td><td>25.40</td></tr><tr><td>花生秧 Peanut vine</td><td>20.00</td><td></td><td></td></tr><tr><td>合计Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>
+
+1)每千克预混料含有 One $\mathrm { k g }$ of the premix contained the following: VA 120 000 IU, $\mathrm { V D } _ { 3 } 6 0 0 0 0 \mathrm { I U }$ ，VE1 $9 0 0 ~ \mathrm { { m g } }$ ，烟酸niacin $3 6 0 ~ \mathrm { m g }$ ， $\mathrm { Z n 1 . 8 ~ g }$ ， $ { \mathrm { C u } } 0 . 2 2  { \mathrm { g } }$ ， $ { \mathrm { M n } } 2 . 0 \ \mathrm { g }$ ，Ca $1 5 0 \ \mathrm { g }$ ， $\mathrm { ~ P ~ l ~ 5 ~ g ~ }$ ，NaCl $7 5 \mathrm { g }$ 0 2钙、磷为计算值，参照《动物营养参数与饲养标准》[5]计算，其他营养水平为实测值。Ca and P were calculated values,which were calculated in reference to Nutrition Parameters and Feeding Standardfor Animals[5], while the other nutrient levels were measured values .
+
+# 1.3 饲养管理
+
+试验在安徽省马鞍山市金农牧业有限公司羊场进行，在预饲时免疫注射三联四防疫苗，并注射伊维菌素溶液（ $0 . 2 \mathrm { m g / k g }$ ）进行驱虫处理。每7只羊为1圈饲养，保证有足够运动空间，每天定时投喂精料预混料和粗料。每天根据前1天料盆内剩余料重新调整饲喂量，保证其自由采食和饮水，定期消毒。
+
+1.4样品采集与指标测定方法
+
+1.4.1 生长性能
+
+每天准确记录每组羔羊采食量，观察羔羊生长情况，分别于试验期第1、7、14、21、28 天称量每只羔羊体重，并计算平均日增重（ADG）和料重比（F/G）。
+
+# 1.4.2 血清生化指标
+
+分别于试验期第1、14、28天08：00，对所有羔羊空腹进行颈静脉采血 $1 0 ~ \mathrm { m L }$ ，静置$3 0 \mathrm { m i n }$ ，以 $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心，收集血清，置于 ${ \displaystyle - 2 0 ~ ^ { \circ } C }$ 保存待测。采用迈瑞BSL-220全自动生化分析仪进行血清中谷丙转氨酶（ALT）、谷草转氨酶（AST）、碱性磷酸酶（ALP）、乳酸脱氢酶（LDH）活性及总蛋白（TP）、白蛋白（ALB）、球蛋白（GLB）、尿素（UREA）、总胆固醇（TC）、甘油三酯（TG）含量的测定。血清中超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-Px）活性及丙二醛（MDA）、白细胞介素1（IL-1）、白细胞介素 2（IL-2）、白细胞介素6（IL-6）、免疫球蛋白A(IgA)、免疫球蛋白G(IgG）、免疫球蛋白M(IgM)的含量均采用双抗体夹心酶联免疫吸附法(ELISA)检测完成，试剂盒由南京森贝伽生物科技有限公司提供，具体步骤参照说明书。
+
+# 1.4.3 养分表观消化率
+
+在试验期最后3d，每组随机选取3只羔羊进行消化代谢试验，每组羔羊为同一料盆饲  
+喂，根据剩料量，准确计算采食量。采用直肠取粪法收集粪样，所收集到的鲜粪准确称重，  
+混匀，取总重量的 $20 \%$ 作为样品，并按 $1 0 0 ~ \mathrm { { m L / k g } }$ 加入 $10 \%$ 的盐酸，置于一 $2 0 { } ^ { \circ } \mathrm { C }$ 保存。在  
+$6 5 ~ ^ { \circ } \mathrm { C }$ 条件下烘干 $4 8 \mathrm { { h } }$ ，粉碎后置于室温下回潮 $2 4 \mathrm { h }$ ，装于样品袋中备用，饲粮和粪便样品  
+中的干物质（DM）、粗蛋白质（CP）、粗脂肪（EE）、中性洗涤纤维（NDF）和酸性洗  
+涤纤维（ADF）含量测定分别按照GB/T 6435-2006、GB/T 6432-1994、GB/T6433-2006、  
+GB/T20806-2006、NY/T1459-2007的方法进行。  
+养分表观消化率 $( \% ) = 1 0 0 \times$ （饲粮采食量 $\mathbf { \nabla } \times$ 饲粮养分含量一日排粪量 $\cdot \times$ 粪便养分含量）／（饲粮采食量 $\mathbf { \nabla } \cdot \mathbf { \times }$ 饲粮养分含量）。
+
+# 1.4.4胰腺消化酶活性
+
+在试验期结束空腹称重后每组随机屠宰3只，按《家畜解剖及组织胚胎学》[方法采集胰腺，准确称量并记录重量。从头、体、尾3个部位取 $0 . 2 { \mathrm { ~ g ~ } }$ 左右的胰脏样本，加入 $1 . 8 ~ \mathrm { m L }$ 生理盐水用高速匀浆机配成 $10 \%$ 的组织匀浆，经 $2 ~ 5 0 0 ~ \mathrm { r / m i n } ~ 4 ~ \mathrm { ^ { \circ } C }$ 离心 $1 5 \mathrm { m i n }$ ，取上清液备用。胰腺淀粉酶、脂肪酶和胰蛋白酶活性均采用试剂盒（南京森贝伽生物科技有限公司）进行测定，测定方法参照说明书进行。淀粉酶活性单位定义为：在 $3 7 ^ { \circ } \mathrm { C }$ 条件下，样品中每毫克组织蛋白质与底物作用 $3 0 \mathrm { m i n }$ ，水解 $1 0 \mathrm { m g }$ 淀粉定义为1个活性单位（ $\mathbf { \mathrm { { U } / \mathbf { g } } }$ ）；脂肪酶活性单位定义为:在 $3 7 ^ { \circ } \mathrm { C }$ 条件下，样品中每毫克组织蛋白质与底物反应 $1 \mathrm { m i n }$ ，每消耗 $1 \ \mathrm { \mu m o l }$ 底物为1个活性单位（ $\mathbf { \mathrm { { U } / \mathbf { g } } }$ ）；糜蛋白酶活性单位定义为：在 $3 7 ^ { \circ } \mathrm { C }$ 条件下，样品中每毫克组织蛋白质每分钟分解蛋白质生产 $1 ~ { \mu \mathrm { g } }$ 氨基酸定义为1个活性单位（ $\mathbf { \sigma } _ { \mathrm { { U / g } } }$ ）。
+
+# 1.4.5 瘤胃发酵参数
+
+在试验期结束后每组随机屠宰3只收集瘤胃液，用3层纱布过滤， $1 5 0 0 ~ \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ 取上清液于 ${ } ^ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 保存待测。
+
+瘤胃液氨态氮 $( \mathrm { N H } _ { 3 ^ { - } } \mathrm { N } )$ 的含量的测定采用改进的比色法[7测定。瘤胃液挥发性脂肪酸（VFA）含量采用气相色谱仪-质谱仪（GCMS ISQLT）检测[色谱柱（TGWAX， $3 0 \mathrm { m } { \times } 0 . 2 5$ mm， $0 . 2 5 ~ { \mu \mathrm { m } }$ ）；自动进样器 TriPlusRSH；检测器 MS isq。标准品包括：乙酸、丙酸、异丁酸、正丁酸、异戊酸、正戊酸标准品]。
+
+色谱条件:载气氮气（恒流模式、总流量 $0 . 8 ~ \mathrm { m L / m i n }$ ）；进样口温度 $2 0 0 ^ { \circ } \mathrm { C }$ ；离子源温度 $2 0 0 ^ { \circ } \mathrm { C }$ ；连接线温度 $2 5 0 ^ { \circ } \mathrm { C }$ ；柱温 $1 2 0 ^ { \circ } \mathrm { C }$ （ $6 \mathrm { m i n }$ ） $- 5 ~ ^ { \circ } \mathrm { C } / \mathrm { m i n } ^ { - 1 5 0 ~ ^ { \circ } \mathrm { C } }$ （ $2 \mathrm { m i n }$ ）；分流比75:1;质谱：EI源；轰击电压： $7 0 \mathrm { e V }$ ；单离子扫描模式：定量离子60、73；采用程序升温，初始温度 $1 2 0 ^ { \circ } \mathrm { C }$ ， $6 \mathrm { m i n }$ ，以 $5 \mathrm { { ^ {circ } C / m i n } }$ 的速率升温至 $1 5 0 ^ { \circ } \mathrm { C }$ ，运行 $2 \mathrm { m i n }$ ；进样量为 $1 \mu \mathrm { L }$ 。
+
+1.5 数据统计与分析
+
+试验数据采用SPSS17.0统计软件进行单因素方差分析（one-wayANOVA），并采用LSD 法进行多重比较，试验数据表示为平均值 $\pm$ 标准差，分别以 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 作为差异显著和极显著的判断标准。
+
+2结果
+
+2.1富硒酵母和枯草芽孢杆菌对生长性能的影响
+
+由表2可以看出，各组始重差异不显著（ ${ \cdot } P { > } 0 . 0 5$ ）。与对照组相比，富硒酵母组和枯草芽孢杆菌组羔羊的末重极显著提高（ $_ { \scriptstyle P < 0 . 0 1 }$ ），平均日增重显著提高（ $\cdot P { < } 0 . 0 5$ ），平均日采食量变化不显著( $( P { > } 0 . 0 5 )$ ，但是精料和粗料的料重比显著或极显著降低( $\cdot P { < } 0 . 0 5$ 或 $\scriptstyle P < 0 . 0 1 { \dot { ) } }$ ）°
+
+表2富硒酵母和枯草芽孢杆菌对羔羊生长性能的影响  
+Table 2Effects of selenium-enriched yeast and Bacillus subtilis on growth performance of lambs   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>富硒酵母组 Selenium-enriched yeast group</td><td>枯草芽孢杆菌组 Bacillus Subtilis group</td></tr><tr><td>始重 IBW/kg</td><td>9.71±0.15</td><td>9.66±0.24</td><td>9.60±0.21</td></tr><tr><td>末重FBW/kg</td><td>12.99±0.16Bb</td><td>13.38±0.28Aa</td><td>13.34±0.16Aa</td></tr><tr><td>平均日增重 ADG/kg</td><td>0.12±0.01b</td><td>0.13±0.02a</td><td>0.13±0.01a</td></tr><tr><td>精料平均日采食量 AFDIof</td><td>0.285</td><td>0.289</td><td>0.287</td></tr><tr><td>concentrate/kg 粗料平均日采食量 AFDIof forage/kg</td><td>0.397</td><td>0.388</td><td>0.394</td></tr></table></body></html>
+
+<html><body><table><tr><td>料重比(精料)F/G</td><td>（concentrate）</td><td>2.44±0.16a</td><td>2.20±0.25b</td><td>2.15±0.17b</td></tr><tr><td>料重比(粗料)F/G</td><td>（forage）</td><td>3.40±0.22Aa</td><td>2.96±0.0.34Bb</td><td>2.97±0.24Bb</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。
+
+In the same row, values with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,and with different small letter superscripts mean significant difference $_ { ( P < 0 . 0 5 ) }$ ，while with different capital leter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ).The same as below.
+
+2.2富硒酵母和枯草芽孢杆菌对血清指标的影响
+
+由表3和表4可以看出，第28天，与对照组相比，富硒酵母组和枯草芽孢杆菌组的血清 ALB、GLB、TP、TC、TG、UREA含量及ALT、AST、ALP、LDH活性无显著变化 ${ ( P { > } 0 . 0 5 ) }$ 富硒酵母组和枯草芽孢杆菌组血清IgA、IgG、IgM、IL-6 的含量显著提高 $_ { ( P < 0 . 0 5 ) }$ ，血清GSH-Px活性极显著提高 $( P { < } 0 . 0 1 )$ ；富硒酵母组血清 MDA含量显著降低 $( P { < } 0 . 0 5 )$ ，血清 IL-1含量显著升高（ $P { < } 0 . 0 5$ ），血清SOD活性极显著提高（ $_ { \cdot  { P } < 0 . 0 1 }$ ）；枯草芽孢杆菌组的血清IL-2 含量极显著提高 $( P { < } 0 . 0 1 )$ ，血清 $\mathrm { I F N } { - } \gamma$ 含量显著提高（ $_ { , P < 0 . 0 5 ) }$ 。
+
+表3富硒酵母和枯草芽孢杆菌对羔羊血清生化指标的影响  
+Table 3Effects of selenium-enriched yeast and Bacillus Subtilis on serum biochemical indices of lambs   
+
+<html><body><table><tr><td>项目 Items</td><td>时间 Time/d</td><td>对照组 Control group</td><td>富硒酵母组 Selenium-enriched</td><td>枯草芽孢杆菌组 Bacillus Subtilis group</td></tr><tr><td rowspan="4">白蛋白ALB/(g/L)</td><td></td><td></td><td>yeast group</td><td>24.90±1.69</td></tr><tr><td>1 14</td><td>25.04±1.75 24.44±1.84</td><td>24.78±2.2 24.23±2.11</td><td>22.49±7.33</td></tr><tr><td>28</td><td></td><td>23.49±2.52</td><td>24.69±2.77</td></tr><tr><td></td><td>23.77±1.27</td><td>33.56±3.60</td><td>31.13±3.71</td></tr><tr><td rowspan="3">球蛋白GLB/(g/L)</td><td>1</td><td>32.64±4.17</td><td>34.24±3.62</td><td>35.37±9.84</td></tr><tr><td>14 28</td><td>34.42±4.33 36.19±3.31</td><td>37.80±3.95</td><td>36.17±2.37</td></tr><tr><td>1</td><td>57.69±4.29</td><td>58.34±4.81</td><td>57.46±3.61</td></tr><tr><td rowspan="3">总蛋白 TP/(g/L)</td><td>14</td><td>58.73±4.55</td><td>58.47±3.23</td><td>57.86±3.93</td></tr><tr><td>28</td><td>59.89±3.92</td><td>61.06±2.22</td><td>60.86±4.37</td></tr><tr><td>1</td><td>1.52±0.52</td><td>1.37±0.59</td><td>1.97±0.78</td></tr><tr><td rowspan="3">总胆固醇 TC/(mmol/L)</td><td></td><td>0.90±0.22</td><td>0.95±0.28</td><td>0.92±0.20</td></tr><tr><td>14 28</td><td>0.92±0.21</td><td>0.88±0.19</td><td></td></tr><tr><td></td><td></td><td></td><td>0.99±0.11</td></tr><tr><td rowspan="2">甘油三脂 TG/(mmol/L)</td><td>1 14</td><td>0.31±0.14 0.31±0.08</td><td>0.32±0.38 0.32±0.06</td><td>0.33±0.47 0.30±0.05</td></tr><tr><td>28</td><td>0.30±0.11</td><td>0.33±0.06</td><td>0.35±0.11</td></tr></table></body></html>
+
+表4富硒酵母和枯草芽孢杆菌对羔羊血清免疫和抗氧化指标的影响  
+
+<html><body><table><tr><td></td><td>1</td><td>10.83±1.57</td><td>9.59±1.69</td><td>8.89±02.14</td></tr><tr><td>谷丙转氨酶ALT/(U/L)</td><td>14</td><td>10.84±2.98</td><td>9.76±1.52</td><td>11.47±4.08</td></tr><tr><td></td><td>28</td><td>15.71±1.61</td><td>12.90±2.83</td><td>14.34±5.42</td></tr><tr><td></td><td>1</td><td>88.81±12.77</td><td>82.39±10.57</td><td>73.63±22.74</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>14</td><td>86.10±11.85</td><td>79.66±11.08</td><td>83.49±9.52</td></tr><tr><td></td><td>28</td><td>108.96±16.97</td><td>94.35±15.43</td><td>92.33±25.50</td></tr><tr><td></td><td>1</td><td>233.24±94.59</td><td>149.09±72.09</td><td>171.27±88.77</td></tr><tr><td>乳酸脱氢酶 LDH/(U/L)</td><td>14</td><td>246.54±133.73</td><td>298.79±173.99</td><td>307.63±279.28</td></tr><tr><td></td><td>28</td><td>306.77±103.02</td><td>315.57±36.50</td><td>314.03±127.57</td></tr><tr><td></td><td>1</td><td>5.46±1.07</td><td>4.75±1.77</td><td>5.59±1.18</td></tr><tr><td>尿素 UREA/(mmol/L)</td><td>14</td><td>7.00±1.33</td><td>5.98±1.43</td><td>7.31±1.69</td></tr><tr><td></td><td>28</td><td>7.73±0.86</td><td>7.29±1.20</td><td>7.95±1.30</td></tr><tr><td></td><td>1</td><td>413.14±52.54</td><td>408.37±50.59</td><td>395.94±98.52</td></tr><tr><td>碱性磷酸酶 ALP/(U/L)</td><td>14</td><td>509.43±167.83</td><td>449.33±99.15</td><td>480.87±115.84</td></tr><tr><td></td><td>28</td><td>451.64±133.57</td><td>377.31±132.43</td><td>414.16±263.37</td></tr></table></body></html>
+
+Table 4Efects ofselenium-enriched yeast and Bacillus Subtilis on serum immunological and antioxidant indices   
+
+<html><body><table><tr><td colspan="5">of lambs</td></tr><tr><td colspan="3"></td><td colspan="2">富硒酵母组</td></tr><tr><td>项目</td><td>时间</td><td>对照组</td><td>Selenium-enriched</td><td>枯草芽孢杆菌组</td></tr><tr><td>Items</td><td>Time/d</td><td>Control group</td><td>yeast group</td><td>Bacillus Subtilis group</td></tr><tr><td></td><td>1</td><td>328.17±48.89</td><td>344.91±20.57</td><td>397.64±54.12</td></tr><tr><td>免疫球蛋白A</td><td>14</td><td>388.14±42.60</td><td>445.41±40.79</td><td>393.32±6.48</td></tr><tr><td>IgA/(ug/mL)</td><td>28</td><td>412.38±15.13b</td><td>571.52±40.87a</td><td>457.22±70.34a</td></tr><tr><td></td><td>1</td><td>986.79±8.14</td><td>996.93±48.90</td><td>997.07±8.83</td></tr><tr><td>免疫球蛋白G</td><td>14</td><td>1391.19±167.83</td><td>1471.24±11.43</td><td>1439.33±112.25</td></tr><tr><td>IgG/(μg/mL)</td><td>28</td><td>1797.47±14.30b</td><td>1887.75±64.00a</td><td>1890.24±19.10a</td></tr><tr><td></td><td>1</td><td>3.72±0.23</td><td>3.81±0.19</td><td>3.95±0.48</td></tr><tr><td>免疫球蛋白M</td><td>14</td><td>4.99±0.10b</td><td>5.15±0.06a</td><td>5.06±0.05a</td></tr><tr><td>IgM/(mg/mL)</td><td>28</td><td>5.81±0.17b</td><td></td><td></td></tr><tr><td></td><td>1</td><td>343.88±28.07</td><td>6.07±0.11a</td><td>6.01±0.16a</td></tr><tr><td>白细胞介素1</td><td></td><td></td><td>310.19±48.37</td><td>323.51±6.16</td></tr><tr><td>IL-1/(pg.mL)</td><td>14</td><td>376.20±6.53</td><td>381.66±13.12</td><td>379.98±15.28</td></tr><tr><td></td><td>28</td><td>429.36±5.67b</td><td>476.15±7.34a</td><td>426.88±7.26b</td></tr><tr><td>白细胞介素 2</td><td>1</td><td>3.61±0.11</td><td>3.78±0.28</td><td>3339.20±358.36</td></tr><tr><td>IL-2/(ng/mL)</td><td>14</td><td>3.59±0.26</td><td>3.81±0.08</td><td>3.70±0.28</td></tr><tr><td></td><td>28</td><td>3.99±0.11Bb</td><td>3.93±0.10Bb</td><td>4.36±0.08Aa</td></tr><tr><td>白细胞介素6</td><td>1</td><td>129.80±4.48</td><td>135.54±2.29</td><td>150.82±56.86</td></tr><tr><td>IL-6/(pg/mL)</td><td>14</td><td>129.57±20.01</td><td>147.37±2.39</td><td>132.12±25.59</td></tr><tr><td></td><td>28</td><td>123.53±8.03b</td><td>175.17±17.8a</td><td>176.59±24.98a</td></tr></table></body></html>
+
+表5富硒酵母和枯草芽孢杆菌对羔羊养分表观消化率的影响  
+
+<html><body><table><tr><td></td><td>1</td><td>46.09±1.66</td><td>44.68±9.94</td><td>37.98±8.15</td></tr><tr><td>γ干扰素</td><td>14</td><td>45.49±2.04</td><td>48.70±5.68</td><td>50.71±4.60</td></tr><tr><td>IFN-γ/(ng/mL)</td><td>28</td><td>49.31±2.12b</td><td>49.27±1.69b</td><td>53.33±1.89a</td></tr><tr><td></td><td>1</td><td>122.61±5.95</td><td>132.18±19.27</td><td>110.59±5.07</td></tr><tr><td>谷胱甘肽过氧化物 酶 GSH-Px/(U/L)</td><td>14</td><td>115.95±11.81</td><td>130.51±7.01</td><td>123.92±19.97</td></tr><tr><td></td><td>28</td><td>147.22±1.59Bb</td><td>172.11±9.67Aa</td><td>165.87±10.57Aa</td></tr><tr><td>超氧化物歧化酶</td><td>1</td><td>20.66±4.79</td><td>21.10±2.71</td><td>23.10±2.82</td></tr><tr><td></td><td>14</td><td>29.45±3.81</td><td>33.72±0.45</td><td>31.30±3.07</td></tr><tr><td>SOD/(mU/L)</td><td>28</td><td>38.58±2.95Bb</td><td>54.37±3.02Aa</td><td>37.48±7.56Bb</td></tr><tr><td></td><td>1</td><td>13.93±0.91</td><td>13.52±0.54</td><td>14.47±0.65</td></tr><tr><td>丙二醛</td><td>14</td><td>12.60±0.70</td><td>11.84±0.89</td><td>12.00±2.77</td></tr><tr><td>MDA/(nmol/L)</td><td>28</td><td>10.99±0.54a</td><td>8.52±0.31b</td><td>9.75±2.77a</td></tr></table></body></html>
+
+2.3富硒酵母和枯草芽孢杆菌对湖羊羔羊养分表观消化率的影响
+
+由表5可知，相比对照组，富硒酵母组和枯草芽孢杆菌组的粗蛋白质、酸性洗涤纤维和中性洗涤纤维表观消化率显著提高（ $\scriptstyle P < 0 . 0 5$ ），干物质的表观消化率极显著提高（ $_ { \cdot } P { < } 0 . 0 1$ ）；枯草芽孢杆菌组的粗脂肪表观消化率显著提高（ $\scriptstyle P < 0 . 0 5$ ）
+
+Table 5Effects of selenium-enriched yeast and Bacillus Subtilis on nutrient apparent digestibility of   
+
+<html><body><table><tr><td></td><td>lambs %</td><td colspan="2"></td></tr><tr><td>项目</td><td>对照组</td><td>富硒酵母组</td><td>枯草芽孢杆菌组 BacillusSubtilis</td></tr><tr><td>Items</td><td>Control group</td><td>Selenium-enriched yeast group</td><td>group</td></tr><tr><td>干物质DM</td><td>48.99±0.98Bb</td><td>57.67±1.44Aa</td><td>58.21±2.32Aa</td></tr><tr><td>粗蛋白质CP</td><td>44.03±1.48b</td><td>51.99±1.95a</td><td>52.59±4.28a</td></tr><tr><td>粗脂肪 EE</td><td>45.42±2.34b</td><td>45.62±3.56b</td><td>55.86±2.59a</td></tr><tr><td>中性洗涤纤维 NDF</td><td>47.69±0.80b</td><td>50.00±1.00a</td><td>50.33±1.16a</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>46.96±2.09b</td><td>56.53±6.72a</td><td>57.21±3.05a</td></tr></table></body></html>
+
+2.4富硒酵母和枯草芽孢杆菌对湖羊羔羊胰腺消化酶活性的影响
+
+由表6可知，与对照组相比，枯草芽孢杆菌组胰腺脂肪酶活性和富硒酵母组胰腺胰蛋白酶活性均显著提高（ $P { < } 0 . 0 5$ ），富硒酵母组和枯草芽孢杆菌组胰腺淀粉酶活性变化不显著中 $\cdot P { > } 0 . 0 5$ ），但在数值上略有升高。
+
+表6富硒酵母和枯草芽孢杆菌对羔羊胰腺消化酶活性的影响
+
+Table 6Eects of selenium-enriched yeast and Bacillus Subtilis on digestive enzyme activities in pancreas of
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>富硒酵母组 Selenium-enriched yeast group</td><td>枯草芽孢杆菌组 Bacillus Subtilis group</td></tr><tr><td>淀粉酶 Amylase</td><td>5.35±1.15</td><td>5.48±0.39</td><td>5.44±0.98</td></tr><tr><td>脂肪酶Lipase</td><td>220.78±25.56b</td><td>233.72±29.38b</td><td>296.78±0.16a</td></tr><tr><td>胰蛋白酶 Trypsin</td><td>236.47±23.41b</td><td>293.71±30.73a</td><td>234.97±9.04b</td></tr></table></body></html>
+
+2.5富硒酵母和枯草芽孢杆菌对瘤胃发酵参数的影响
+
+由表7可知，与对照组相比，富硒酵母组和枯草芽孢杆菌组羔羊瘤胃液 $\mathrm { N H } _ { 3 }$ -N、乙酸、丙酸、异丁酸、正丁酸含量显著提高（ $\cdot P { < } 0 . 0 5$ ）；富硒酵母组和枯草芽孢杆菌组瘤胃液的异戊酸、正戊酸含量变化不显著（ $P { > } 0 . 0 5$ ），但在数值上略有提高。
+
+表7富硒酵母和枯草芽孢杆菌对羔羊瘤胃发酵参数的影响  
+Table 7Effects of selenium-enriched yeast and Bacillus Subtilis on rumen fermentation parameters of lambs   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>富硒酵母组 Selenium-enriched yeast group</td><td>枯草芽孢杆菌组 Bacillus Subtilis group</td></tr><tr><td>氨态氮 NH3-N/(mg/dL)</td><td>7.60±0.30b</td><td>8.61±0.26a</td><td>8.67±0.0.51a</td></tr><tr><td>乙酸 Acetate/(ug/g)</td><td>863.77±11.97b</td><td>946.75±45.92a</td><td>955.48±35.30a</td></tr><tr><td>丙酸 Propionate/(ug/g)</td><td>590.01±19.78b</td><td>669.02±26.05a</td><td>679.02±23.55a</td></tr><tr><td>异丁酸 Butyrate/(μg/g)</td><td>18.68±3.15b</td><td>26.91±2.35a</td><td>27.60±3.95a</td></tr><tr><td>正丁酸 Ethacetic acid/(μg/g)</td><td>684.93±75.87b</td><td>740.86±29.74a</td><td>846.61±54.90a</td></tr><tr><td>异戊酸Isobutyric acid/(ug/g)</td><td>102.82±6.15</td><td>107.77±9.52</td><td>108.37±8.40</td></tr><tr><td>正戊酸 Pentanoic acid/(ug/g)</td><td>102.24±8.92</td><td>105.28±9.20</td><td>113.90±4.39</td></tr></table></body></html>
+
+3讨论
+
+3.1富硒酵母和枯草芽孢杆菌对湖羊羔羊生长性能的影响
+
+微生态制剂可以促进多种在肠道消化吸收中占主导地位的厌氧菌的生长繁殖，从而促进肠道对营养物质的代谢吸收，提高机体的生长性能。Shi等[8研究发现，添加酵母硒可以显著提高太白黑羊羔羊的的生长性能。Stewart[9研究发现在母羊饲粮中添加富硒酵母能够显著提高羔羊的平均日增重。仇武松等[10]研究结果表明，在饲粮中添加枯草芽孢杆菌可以降低羔羊的料重比，从而提高生长性能。本试验研究结果与上述报道一致。然而，也有试验结果显示，微生态制剂对畜禽的生长性能没有显著影响[1]。不同的研究结果存在差异，主要是可能与微生态制剂的菌种特性、添加比例以及动物的日龄、生理状态和营养因素有关。从本试验结果来看，饲粮中添加富硒酵母和枯草芽孢杆菌能够降低料重比，显著提高羔羊的生长性能。但如何发挥其最佳使用效果，还需对微生态制剂的添加剂量和使用阶段进一步研究确定。
+
+3.2富硒酵母和枯草芽孢杆菌对湖羊羔羊血清指标的影响
+
+本试验对照组、富硒酵母组、枯草芽孢杆菌组之间的许晴 TP、ALB、GLB 含量及 ALT、AST 活性无显著性差异，说明微生态制剂对湖羊血清中的蛋白质含量无显著影响。细胞因子是免疫系统的重要调节因子，能够影响免疫应答的类型和水平[12]。王兰惠[13]的研究发现给绵羊灌注酵母培养物能够提高血清IgA、IgG 和IL-6 的含量，显著提高血清 IL-2、IFN $\cdot \gamma$ 含量。Rajput 等[14]研究发现，枯草芽孢杆菌可以提高绍兴鸭血清中IL-2 的含量。Hall 等[15]研究发现，在奶牛饲粮中补硒后可增加奶牛血清中的IgG 含量。在本试验中富硒酵母组和枯草芽孢杆菌组血清中IgA、IgG 和IgM均显著高于对照组，这表明微生态制剂可以提高羔羊机体的免疫力。
+
+血清中GSH-Px 和 SOD 活性是反映动物机体抗氧化能力的重要指标。刘强等[16]研究发现在饲粮中添加富硒酵母能够显著提高血清GSH-Px、SOD 活性，显著降低血清 MDA含量。Faixova等[17]在饲粮中添加富硒酵母，显著提高了羊血清GSH-Px 活性。任民等[18]研究发现，在饲粮中添加枯草芽孢杆菌能够显著提高血清GSH-Px 活性，显著降低血清 MDA 含量。本试验中，富硒酵母组和枯草芽孢杆菌组羔羊血清中的GSH-Px 和 SOD 活性也显著提高,血清MDA含量显著下降，这表明富硒酵母和枯草芽孢杆菌能够提高湖羊羔羊的抗氧化能力。
+
+3.3富硒酵母和枯草芽孢杆菌对湖羊羔羊养分表观消化率和胰腺消化酶的影响
+
+国内外的一些研究表明，在畜禽饲粮中合理添加富硒酵母和枯草芽孢杆菌可以显著提高营养物质的表观消化率。张丽娟等[19]研究发现，在饲粮中添加富硒酵母能够提高酸性洗涤纤维的表观消化率。Molnar 等[20]研究发现，在肉鸡饲粮中添加枯草芽孢杆菌够提高饲料转化效率。Cho 等[21研究发现，在猪饲粮中添加枯草芽孢杆能够提高饲粮蛋白质消化率。微生态制剂在肠道内产生的消化酶和促生长因子等活性物质，可协同增强对养分的消化和吸收。本试验中，富硒酵母组和枯草芽孢杆菌组羔羊养分表观消化率也显著提升。但是，也有微生态制剂的试验发现没有对养分消化产生影响[22]，这或许与不同的养殖管理模式有关。
+
+淀粉酶、蛋白酶和脂肪酶作为3类主要的胰消化酶，经胰液分泌与电解质一起进入近端小肠中,在蛋白质、脂肪和碳水化合物的消化中起重要的作用[23]。刘翠玲等[24]研究发现，枯草芽孢杆菌可以显著提高鲤幼鱼胰脏蛋白酶、后肠淀粉酶的活性。李卫芬等[25]研究发现，枯草芽孢杆菌可以显著提高草鱼胰脏中脂肪酶和胰蛋白酶活性。本试验中，富硒酵母组和枯草芽孢杆菌组胰蛋白酶和脂肪酶活性有显著提高，说明对湖羊羔羊消化功能有促进作用。
+
+3.4富硒酵母和枯草芽孢杆菌对湖羊羔羊瘤胃发酵参数的影响
+
+瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 是饲粮中多种蛋白质在瘤胃发酵的重要产物，能够为大约 $50 \%$ 的瘤胃微生物合成菌体蛋白质提供氮源。反刍动物瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 含量正常数值范围一般维持在$6 . 3 { \sim } 2 7 . 0 ~ \mathrm { m g / d L } ^ { [ 2 6 ] }$ 。周传社等[27]研究发现，在饲粮添加酵母培养物可以提高山羊瘤胃液$\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 含量，对于调节山羊瘤胃发酵有促进作用。邓露芳[28]研究发现，在奶牛饲粮添加纳豆枯草芽孢杆菌能够提高瘤胃液 $\mathrm { N H } _ { 3 } { \cdot } \mathrm { N }$ 含量，这也说明枯草芽孢杆菌改善瘤胃发酵参数。反刍动物瘤胃对养分的消化吸收以及微生物动力学过程中可产生大量的挥发性脂肪酸，其主要作用为供能和维持瘤胃环境。朱翱翔等[29]研究发现，酵母硒可以提高湖羊母羊瘤胃液中乙酸和总挥发性脂肪酸含量，从而促进瘤胃发酵。研究发现，枯草芽孢杆菌可以提高奶牛瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 、总挥发性脂肪酸的含量，促进瘤胃发酵[30-31]。本试验中，富硒酵母组和枯草芽孢杆菌组羔羊瘤胄发酵参数得到改善，说明富硒酵母和枯草芽孢杆菌对湖羊瘤胄发酵有促进作用。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加富硒酵母和枯草芽孢杆菌能够提高断奶湖羊羔羊的平均日增重，降低料   
+重比。 $\textcircled{2}$ 饲粮中添加富硒酵母和枯草芽孢杆菌能够提高断奶湖羊羔羊血清中免疫球蛋白含量   
+和抗氧化酶活性。 $\textcircled{3}$ 饲粮中添加富硒酵母和枯草芽孢杆菌能够提高断奶湖羊羔羊对养分的表观消化率、   
+胰腺消化酶活性和瘤胃发酵参数，从而提高消化功能。   
+参考文献:   
+[1]陈云政.微生态制剂提高反刍动物生产性能的研究与应用进展[J].中国动物保 健,2017,19(5):87-88.   
+[2]JORGENSEN JN,LAGUNA J S,MILAN C,et al.Effects of a Bacillus-based probiotic and dietary energy content on the performance and nutrient digestibility of wean to finish pigs[J].Animal Feed Science and Technology,2016,221:54-61.   
+[3]ZHOU X,JIN E,LI S,et al.Effcts of dietary supplementation of probiotics (Bacillus subtilis,Bacillus licheniformis,and Bacillus natto) on broiler muscle development and meat quality[J].Turkish Journal of Veterinary and Animal Sciences,2015,39(2):203-210.   
+[4]张爱武,薛军.枯草芽孢杆菌在动物生产中的应用效果[J].中国畜牧兽 医,2011,38(4):234-238.   
+[5]张宏福.动物营养参数与饲养标准[M].2版.北京:中国农业出版社,2010.   
+[6]马仲华.家畜解剖学及组织胚胎学[M].3 版.北京:中国农业出版社,2002.   
+[7] 冯宗慈,高民.通过比色测定瘤胃液氨氮含量方法的改进[J].畜牧与饲料科 学,2010(6):40-41.   
+[8]SHI L,REN Y S,ZHANG C X,et al.Effects of maternal dietary selenium (Se-enriched yeast) on growth performance,antioxidant status and haemato-biochemical parameters of their male kids in Taihang Black Goats[J].Animal Feed Science and Technology,2017,231:67-75.   
+[9]STEWART W C.Effect of selenium source and supplementation rate in ewes on selenium status,passive immunity and growth performance of their lambs[D].Masters' Thesis.Oregon:Oregon State University,2010.   
+[10]仇武松,王彦芦,张振威,等.日粮添加产胱假丝酵母与枯草芽孢杆菌对湖羊生长性能及 养分消化率的影响[J].中国畜牧杂志,2017,53(2):106-109.   
+[11]RUZIC-MUSLIC D,PETTOVIC M P,CARO-PETROVIC V,et al.Effects of adding different formsofselenium in dietsforfatteninglambs[J].Biotechnologyin Animal Husbandry,2014,30(4):589-600.   
+[12]崔治中,崔保安.兽医免疫学[M].北京:中国农业出版社,2004.   
+[13]王兰惠.灌注酵母培养物对绵羊血液生化指标、免疫及抗氧化功能的影响[D].硕士学位 论文.长春:吉林农业大学,2015.   
+[14]RAJPUT I R,LI W F,LI Y L,et al.Application of probiotic (Bacillus subtilis) to enhance immunity,antioxidation,digestive enzymes activity and hematological profile of Shaoxing duck[J].Pakistan Veterinary Journal,2013,33(1):69-72.   
+[15] HALL J A,BOBE G,VORACHEK W R,et al.Effect of supranutritional maternal and
+
+colostral selenium supplementation on passive absorption of immunoglobulin G in selenium-replete dairy calves[J].Journal of Dairy Science,2014,97(7):4379-4391.
+
+[16]刘强,黄应祥,王聪,等.硒酵母对西门塔尔牛日粮养分消化代谢和血清生化指标的影响 (英文)[J].动物营养学报,2007,19(4):379-385.
+
+FAIXOVA Z,PIESOVA E,MAKOVA Z,et al.Effect of dietary supplementation with selenium-enriched yeast or sodium selenite on ruminal enzyme activities and blood chemistry in sheep[J].Acta Veterinaria Brno,2016,85(2):185-194.
+
+18]任民,王宝维,葛文华,等.不同锰水平饲粮添加枯草芽孢杆菌对 $1 2 { \sim } 1 6$ 周龄五龙鹅生长性能、屠宰性能、抗氧化能力及血清生化指标的影响[JJ.动物营养学报,2016,28(11):3549-3556.
+
+张丽娟,姚鹃,谭斌,等.奶牛日粮中不同水平酵母硒对表观消化率的影响[J].中国畜牧兽医,2007,34(8):66-68.
+
+MOLNAR A K,PODMANICZKY B,KURT P,et al.Effect of different concentrations of Bacillus subtilis on immune response of broiler chickens[J].Probiotics and Antimicrobial Proteins,2011,3(1):8-14.
+
+CHO J H,CHEN Y J,MIN B J,et al.Effect of dietary Bacillus subtilis on growth performance,immunological cells change,fecal $\mathrm { N H } _ { 3 }$ -N concentration and carcass meat qualitycharacteristicsinfinishingpigs[J].JournalofAnimal Science and Technol0gy,2005,47(6):937-946.
+
+SALVITIGG S.夏季日粮中添加活性酵母对奶牛消化率和生产性能的影响[J].赵连生,译.中国畜牧兽医,2015,42(8):2214.
+
+KEOMANIVONG F E,CAMACHO L E,LEMLEY C O,et al.Effects of realimentation after nutrient restriction during mid-to late gestation on pancreatic digestive enzymes,serum insulin and glucose levels,and insulin-containing cell cluster morphology[J].Journal of Animal Physiology and Animal Nutrition,2017,101(3):589-604.
+
+[24]刘翠玲,张家国,张长峰,等.3 种添加剂对鲤幼鱼生长、消化酶和免疫相关酶活性的影响[J].上海海洋大学学报,2016,25(5):710-718.
+
+[25]李卫芬,沈涛,陈南南,等.饲料中添加枯草芽孢杆菌对草鱼消化酶活性和肠道菌群的影响[J].大连海洋大学学报,2012,27(3):221-225.
+
+[26]MURPHY J J,KENNELLY J J.Effect of protein concentration and protein source on the degradabilityofdrymatterandproteininsitu[J].JournalofDairy Science,1987,70(9):1841-1849.   
+[27]周传社,黎智峰,谭支良,等.日粮添加酵母培养物对山羊瘤胃发酵参数和十二指肠氨基 酸流量的影响[J].华北农学报,2009,24(6):109-115.   
+[28]邓露芳.日粮添加纳豆枯草芽孢杆菌对奶牛生产性能、瘤胃发酵及功能微生物的影响 [D].博士学位论文.北京.中国农业科学院,2009.   
+[29]朱翱翔,王锋,冯旭,等.不同硒源对育成湖羊生长性能、组织硒含量和瘤胃发酵的影响[J]. 南京农业大学学报,2017,40(4):718-724.   
+[30]SUN P,WANG J Q,DENG L F.Efects of Bacillus subtilis nato on milk production,rumen fermentation and ruminal microbiome of dairy cows[J].Animal,2013,7(2):216-222.   
+[31]PENG H,WANG J Q,KANG H Y,et al.Effect of feeding Bacillus subtilis natto fermentation   
+product on milk production and composition,blood metabolites and rumen fermentation in early   
+lactation dairy cows[J].Journal of Animal Physiology and Animal Nutrition,2012,96(3):506-512.   
+Effects of Selenium-Enriched Yeast and Bacillus subtilis on Growth Performance, Serum Indices, Digestive Function of Hu Lambs CHENG Lianping HE Mengchu XIA Xiaodong LI Manman SHU Yingshuang PENG Chenglu FENG ShibinWANG Xichun LI Yu WU Jinjie\* (The Open Fund of Anhui Province Key Laboratory ofLocal Livestock and Poultry Genetical Resource Conservation and Breeding, College of Animal Science and Technology, Anhui Agricultural University, Hefei 230036, China)   
+Abstract: The present experiment was conducted to evaluate the effects of selenium-enriched yeast   
+and Bacillus subtilis on growth performance， serum indices, nutrient apparent digestibility,   
+digestive enzyme activities in pancreas and rumen fermentation parameters of $H u$ lambs.
+
+Twenty-one healthy weaned Hu lambs weighted $( 9 . 6 5 { \pm } 0 . 3 8 ) \$ ）kg were randomly divided into control group， selenium-enriched yeast group (added $1 0 0 \ \mathrm { \ g / t }$ selenium-enriched yeast in concentrate) and Bacillus subtilis group (added $1 0 0 ~ \mathrm { g / t }$ Bacillus subtilis in concentrate) with 7 lambs per groups. The feeding assay lasted for 28 days. The results showed that compared with control group: 1） final weight and average daily gain of selenium-enriched yeast group and Bacillus subtilis group were significantly increased( $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ）,and the feed to gain ratios of concentrate and forage were significantly decreased( $\scriptstyle P < 0 . 0 5$ or $P { < } 0 . 0 1$ ）. 2) Serum contents of immunoglobulin A (IgA)， immunoglobulin (IgG)， immunoglobulin M (IgM） and interleukin 6 (IL-6),and glutathione peroxidase (GSH- $\mathbf { \partial } \cdot \mathrm { P x }$ ） activity of selenium-enriched yeast group and Bacillus subtilis group were significantly increased( $\scriptstyle P < 0 . 0 5$ or $P { < } 0 . 0 1$ ）；serum malondialdehyde（MDA） content was significantly reduced $( P { < } 0 . 0 5 )$ , and serum interleukin 1 （IL-1）content and superoxide dismutase (SOD） activity were significantly increased in selenium-enriched yeast group（ $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ）; serum contents of interleukin 2 (IL-2) and γ interferon ( IFN-γ ） of Bacillus subtilis group were significantly increased ( $_ { \it P - 0 . 0 5 }$ or $P { < } 0 . 0 1$ ). 3) The apparent digestibility of dry matter, crude protein, acid detergent fibre and neutral detergent fibre were significantly of selenium-enriched yeast group and Bacillus subtilis group were significantly increased $_ { P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ ） ；the apparent digestibility of ether extract of Bacillus subtilis group was significantly increased $( P { < } 0 . 0 5 )$ . 4) Lipase activity of pancreas in Bacillus subtilis group and trypsin activity of pancreas in selenium-enriched yeast group were significantly increased $( P { < } 0 . 0 5 )$ . 5) The contents of ammonia nitrogen, acetic acid, propionic acid, isobutyric acid and butyric acid in rumen fluid of selenium-enriched yeast group and Bacillus subtilis group were significantly increased $( P { < } 0 . 0 5 )$ . In summary, dietary supplementation of selenium-enriched yeast and Bacillus subtilis improve growth performance, antioxidant capacity， immunity and digestive function of weaned $H u$ lambs. Key words: $H u$ sheep; selenium-enriched yeast; Bacillus subtilis; growth performance; serum indices; apparent digestibility; rumen fermentation parameter

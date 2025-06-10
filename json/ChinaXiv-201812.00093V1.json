@@ -1,0 +1,653 @@
+[
+    {
+        "type": "text",
+        "text": "基于修正后矩阵分解的最优协方差DOA估计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邸敬，马黎文，申东，蒋占军，李翠然(兰州交通大学 电子与信息工程学院，兰州 730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对传统来波方向（direction-of-arrval，DOA）估计在信号相干、低信噪比与噪声非均匀环境下性能差的问题，基于修正后的矩阵分解，提出一种利用凸优化的协方差矩阵最优DOA估计方法。修正后的矩阵分解方法，解相干的同时克服了孔径损失；然后，利用凸优化，重构出无噪声的协方差矩阵；最后，利用最小化搜索计算出DOA。仿真结果表明，所提算法与矩阵分解（matrix decomposition，MD）算法、基于 $L _ { 1 }$ 范数的奇异值分解（ $\\cdot L _ { 1 }$ -normsingular vector decomposition， $L _ { 1 }$ -SVD）算法以及基于空间平滑的协方差秩最小化估计（spatial smoothing basedcovariancerank minimization，SS-CRM）算法比较，能更好地抑制非均匀噪声，且在低信噪比条件下，依然性能良好。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：DOA估计；凸优化；矩阵分解；非均匀噪声 中图分类号：TN911.23 doi:10.19734/j.issn.1001-3695.2018.07.0548 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Optimal covariance matrix based on modified matrix decomposition algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DiJing,MaLiwen, ShenDong,Jiang Zhanjun,LiCuiran (SchoolofElectronics &Information Engineering,Lanzhou Jiaotong University,Lanzhou 73oo7o,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To solve the problems thatthe traditional direction-of-arrival(DOA)estimations have poor performance when processing coherent signals in thecases of low signal-to-noiseratioand non-uniform noise.This paper proposed a DOA method based on the modified matrix decomposition method,withthebestcovariance matrix bytheconvex optimization. The modified matrix decomposition method can deal with the extraction ofthe coherent sources,while,overcomes the apertureloss.Furthermore,the methodreconstrtuctedthe noisefreecovariance matrixbytheconvexoptimization.Finally, using minimization search tocalculate DOA.The simulation results show that,comparing tothe matrix decomposition (MD) algorithm, $L _ { 1 }$ -norm singular vector decomposition $( L _ { 1 } { \\mathrm { - } } S \\mathsf { V D } )$ ）algorithm and spatial smoothing based covariance rank minimization (SS-CRM) algorithm,the method suppress the non-uniform noise well and have good performance in low signal noise ratio (SNR) . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: direction-of-arrival(doa); Convex optimization; matrix decomposition; non-uniform noise ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在无线通信中，由于多径信号相干的影响，信号协方差矩阵会出现秩缺现象，使信号子空间的维数小于信号源数，将信号子空间“扩散”到噪声子空间[1]，导致一些相干信号源的导向矢量与噪声子空间不完全正交，给正确估计信号源方向造成困难[2]。同时，在实际应用中，由于一些信道的硬件差异与非期望干扰，使得实际的噪声模型并不满足高斯白噪声，直接导致传统高分辨率的算法性能恶化[3]。为了解决这个问题，针对相干信号的来波方向（DOA）估计算法相继被提出，这些算法通常都利用阵列导向矢量的特殊性质，对协方差矩阵的秩进行恢复，从而达到解相干的目的[4.5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经典的解相干算法有空间平滑类算法[6\\~8],矩阵重构类算法[9,10]等。矩阵分解算法（matrix decomposition，MD）属于矩阵重构类算法，虽然可以解决信号相关性的问题，但是，MD 算法的解相干能力是通过减少矩阵的维数来换取的[11]。在低信噪比以及非均匀噪声的条件下，信号协方差矩阵的对角线元素也是非均匀的，所以由特征矢量直接构造的信号子空间并不准确[12.13]，其信号估计的性能并不能得到保障。为了进一步提高DOA算法的性能，Malioutov等人提出了基于$L _ { 1 }$ 范数的奇异值分解（ $\\cdot \\mathbf { L } _ { 1 }$ -norm singular vector decomposition,$L _ { 1 }$ -SVD)稀疏重构的DOA估计[14]，较之传统的子空间方法，稀疏重构方法能够同时处理非相干及相干信号，具有更高的角度分辨力，在少量快拍数以及低信噪比条件下有更高的估计精度。但是它在低信噪比情况下，得到的解矢量稀疏性较差，空间谱中存在较多伪峰，对DOA的正确",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\na ( \\theta _ { k } ) =\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\biggl [ 1 , \\exp \\biggl ( - \\mathrm { j } \\frac { 2 \\pi } { \\lambda } d _ { 1 } \\sin \\theta _ { k } \\biggr ) , . . . , \\exp \\biggl ( - \\mathrm { j } \\frac { 2 \\pi } { \\lambda } d _ { M - 1 } \\sin \\theta _ { k } \\biggr ) \\biggr ] ^ { \\mathrm { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "则阵列输出信号可写成如下的矩阵：",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle X = A S + G\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "估计带来了一定的干扰[15]。而在实际应用中，由于接受设备的性能差异与外界影响，各个传感器的噪声通常都是不相干的非均匀噪声，会对传统的DOA估计算法的性能带来很大的影响[16]。针对该问题，文献[17]提出一种基于空间平滑的协方差秩最小化估计(spatial smoothing based covariancerankminimization，SS-CRM)算法，虽然可以有效的降低非均匀噪声对信号子空间的影响，然而，在相邻信号源角度差较小信噪比过低的情况下，还是无法有效检测出信号DOA。而文献[18]提出的二阶统计量域下加权 $L _ { 1 }$ 稀疏重构 DOA 估计（weightedsparsereconstruction DOA estimationalgorithm, $L _ { 1 }$ -MC-WLOSRSS)算法虽然对非均匀噪声有很好的抑制能力，但是加权算法也带来了较大的计算量，对于其应用也带来了限制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，本文将会以矩阵分解算法为基础，提出一种基于修正后矩阵分解的最优协方差矩阵DOA估计(optimal covariance matrix based on the smoothed matrixdecomposition,OC-SMD）。修正后的矩阵分解就是利用空间平滑技术中的前向与后向平滑矩阵来重构协方差矩阵，在大大减少奇异值分解计算量的同时提高算法的稳定性。然后通过凸优化原理，求出非均匀的噪声功率，继而得到无噪声的协方差矩阵。最后进行最小化搜索[19]实现信号的DOA估计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 信号模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设有 $\\kappa$ 个远场窄带目标信号源，入射角度分别为$\\theta _ { 1 } , \\theta _ { 2 } , \\cdots , \\theta _ { \\phantom { K } K }$ 。系统是由 $\\mathbf { \\Omega } _ { M }$ 个阵元构成的等间距直线阵，各阵元位置分别为 $0 , d _ { 1 } , \\cdots , d _ { M - 1 }$ ，且 $M > K$ ，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9508f9d8218c7f884ef008fb15ccb1e5334036ab0c35b603a8535a248f53887f.jpg",
+        "img_caption": [
+            "图1.信号模型",
+            "Fig.1Signal model "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则第 $m$ 个阵元的输出信号为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { m } \\left( t \\right) = \\sum _ { k = 1 } ^ { K } s _ { k } \\left( t \\right) \\exp \\Biggl ( - \\mathrm { j } \\frac { 2 \\pi } { \\lambda } d _ { m - 1 } \\sin \\theta _ { k } \\Biggr ) + g _ { m } \\left( t \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $s _ { k } \\left( t \\right)$ 表示接收到的第 $k$ 个源信号； $\\theta _ { k }$ 为第 $k$ 个信号源的入射角度； $g _ { m } \\left( t \\right)$ 示表示 $\\mathbf { m }$ 信道的非均匀高斯噪声。 $\\lambda$ 为信号波长，定义 $\\theta _ { k }$ 的方向向量为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { X = A S + G }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { X = [ x _ { 1 } ( t ) , x _ { 2 } ( t ) , \\ldots , x _ { M } ( t ) ] ^ { \\mathrm { T } } ; } \\\\ & { A = \\left[ a \\left( \\theta _ { 1 } \\right) , a \\left( \\theta _ { 2 } \\right) , \\cdots , a \\left( \\theta _ { K } \\right) \\right] ^ { \\mathrm { T } } ; } \\\\ & { S = \\left[ s _ { 1 } \\left( t \\right) , s _ { 2 } \\left( t \\right) , \\cdots s _ { K } \\left( t \\right) \\right] ^ { \\mathrm { T } } ; } \\\\ & { G = \\left[ g _ { 1 } \\left( t \\right) , g _ { 2 } \\left( t \\right) , \\cdots , g _ { M } \\left( t \\right) \\right] ^ { \\mathrm { T } } ; } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "非均匀噪声集合 $G \\sim \\mathrm { C N } ( 0 , Q )$ ； $\\boldsymbol { Q }$ 为非均匀噪声的协方差功率矩阵，当快拍数为 $J$ 时根据式(3)可得接收信号协方差矩阵为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\operatorname { E } \\left[ X \\left( t \\right) X ^ { \\mathrm { H } } \\left( t \\right) \\right] = A R _ { \\mathrm { s } } A ^ { \\mathrm { H } } + Q\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $R _ { \\mathrm { s } } = \\mathrm { E } \\left[ S \\left( t \\right) S ^ { \\mathrm { H } } \\left( t \\right) \\right] = \\frac { 1 } { J } \\sum _ { j = 1 } ^ { J } S S ^ { \\mathrm { H } }$ 表示发射信号的协方差矩阵；同时， $R _ { \\mathrm { s } } = \\mathrm { d i a g } \\left[ P _ { \\mathrm { \\uparrow } } , P _ { \\mathrm { 2 } } , \\dots , P _ { \\mathrm { \\downarrow } } \\right]$ ， $P _ { _ l }$ 为第 $\\mathbf { \\xi } _ { l }$ 个信号功率，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$Q = \\operatorname { d i a g } \\left[ q _ { 1 } , q _ { 2 } , \\dots , q _ { m } \\right]$ 是非均匀噪声协方差矩阵， $q _ { { \\scriptscriptstyle m } }$ 指第 $m$ 个阵元上的非均匀噪声功率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式(5)可知，可以通过对接收信号协方差矩阵进行特征值分解从而求出信号的DOA。但是当信号源为相干信号时，接收信号的协方差矩阵秩亏，所以特征值分解之后得到的的特征值少于信号源数目，所以无法实现DOA估计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于修正后矩阵分解的最优协方差矩阵DOA估计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1修正后的协方差矩阵分解算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设一个均匀线阵有 $M$ 个阵元，分成 $P ( P = M - q + 1 )$ 个子阵,每个子阵具有 $q$ 个阵元。另设有 $\\boldsymbol { K }$ 个信号源入射，信号协方差矩阵为式(5)，则第 $n$ 个子阵的接收信号协方差矩阵为$R _ { n } = R ( n : n + q - 1 )$ 。则前向平滑 $P$ 次的数据协方差矩阵为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { f } } = { \\frac { 1 } { P } } \\sum _ { n = 1 } ^ { P } R _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则后向平滑 $P$ 次的数据协方差矩阵可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { { b } } } = J R _ { \\mathrm { { f } } } J\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { \\mathscr { I } }$ 为 $q \\times q$ 的对角矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则将数据协方差矩阵 $R _ { \\mathrm { { s u p } } }$ 作如下改进：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { { S M D } } } = [ R _ { \\mathrm { { f } } } , R _ { \\mathrm { { b } } } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对上述协方差矩阵进行奇异值分解(SVD)就可得到修正后的信号子空间与噪声子空间，从而得出信号DOA，这就是本文提到的修正的协方差矩阵分解(smoothedmatrixdecomposition,SMD)算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但是，划分子阵的做法虽然能够降低信号的相干性影响，且SMD在奇异值分解的过程中相比MD算法也能大大降低其计算量。但是，这也带来了阵列孔径的损失，造成了DOA估计分辨率的降低。同时，当存在非均匀噪声时，接收信号协方差的特征分解所带来的信号子空间泄漏[20]，将会导致DOA估计性能的大幅下降。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2基于SMD 的最优协方差矩阵DOA 估计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了充分利用信号空间的自由度与空间平滑算法对于相干信号的舒缓能力[21]，OC-SMD算法是将整个天线阵列都看做一个子阵，该。则前向待平滑的接收信号即为 $X ( t )$ ，而后向平滑信号可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY ( t ) = J X ^ { + } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $X ^ { + } ( t )$ 代表 $X ( t )$ 的复共轭， $\\boldsymbol { \\mathscr { I } }$ 矩阵满足 $\\mathcal { J } ^ { \\mathrm { { H } } } = 1$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前向平滑信号 $X ( t )$ 的协方差矩阵即为 $R _ { \\mathrm { f } } = R$ ，而根据式(7)可得后向平滑的信号协方差矩阵为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { b } } = \\mathrm { E } [ Y ( t ) Y ^ { \\mathrm { H } } ( t ) ] = J R _ { \\mathrm { f } } ^ { + } J = J A ^ { + } R _ { \\mathrm { s } } A ^ { \\mathrm { T } } J + J Q J\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则新构成的数据协方差矩阵 $R _ { \\mathrm { s u p } }$ 变为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { { s M D } } } = \\left[ R _ { \\mathrm { { f } } } , R _ { \\mathrm { { b } } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $R _ { \\mathrm { f } }$ 与 $R _ { \\mathrm { b } }$ 都可以表示为 $R _ { \\mathrm { f } } = R _ { \\mathrm { s f } } + Q _ { \\mathrm { s f } }$ 与 $R _ { \\mathrm { b } } ^ { \\mathrm { } } = R _ { \\mathrm { s b } } ^ { \\mathrm { } } + Q _ { \\mathrm { s b } } ^ { \\mathrm { } }$ 的形式， $R _ { \\mathrm { s f } }$ 与 $R _ { \\mathrm { s b } }$ 分别代表前向与后向空间的平滑无噪声协方差，而 $Q _ { \\mathrm { s f } }$ 与 $\\boldsymbol { Q } _ { \\mathrm { s b } }$ 代表前向与后向空间的非均匀噪声协方差矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "接着可以通过凸优化原理分别来求出前向与后向的无噪声信号协方差矩阵，以 $R _ { \\mathrm { s f } }$ 为例，假设信号模型中的阵元数远远大于信号源数( $M > > K$ )，则 $\\mathrm { r a n k } ( R _ { \\mathrm { s f } } ) = K < < M$ ，所以 $R _ { \\mathrm { s f } }$ 是低秩矩阵，且噪声所对应的元素值即为 $R _ { \\mathrm { s f } }$ 的主对角线元素，可利用 $R _ { \\mathrm { s f } }$ 的低秩特性与凸优化原理来对其主对角线元素进行重构，从而抑制非均匀的高斯噪声，具体算法如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据 $R _ { \\mathrm { f } } = R _ { \\mathrm { s f } } + Q _ { \\mathrm { s f } }$ 与 $R _ { \\mathrm { b } } ^ { \\mathrm { } } = R _ { \\mathrm { s b } } ^ { \\mathrm { } } + Q _ { \\mathrm { s b } } ^ { \\mathrm { } }$ 可得$\\mathrm { r a n k } ( R _ { \\mathrm { s f } } ) = \\mathrm { r a n k } ( R _ { \\mathrm { f } } - Q _ { \\mathrm { s f } } )$ ，其中 $Q _ { \\mathrm { s f } }$ 为半正定矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则以上问题可以描述为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\underset { Q _ { s \\mathrm { f } } } { \\operatorname* { m i n } } ~ \\mathrm { r a n k } \\{ R _ { \\mathrm { f } } - Q _ { \\mathrm { s f } } \\} } \\\\ & { s . t . ~ R _ { f } - Q _ { \\mathrm { s f } } \\succ 0 \\ , } \\\\ & { ~ Q _ { \\mathrm { s f } } \\in \\mathbb { Z } ^ { + } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbb { Z } ^ { + }$ 代表正定矩阵集合。但是上述的目标函数是非凸的，所以没办法在如此庞大的NP-hard问题中找到全局最优解[22:23]。可以通过核范数来凸近似矩阵的秩，所以上述问题可以转换为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\underset { Q _ { \\mathrm { s f } } } { \\mathrm { m i n } } \\ \\lVert R _ { \\mathrm { f } } - Q _ { \\mathrm { s f } } \\rVert _ { * } } \\\\ & { s . t . \\ R _ { \\mathrm { f } } - Q _ { \\mathrm { s f } } \\succ 0 \\ , } \\\\ & { \\qquad Q _ { \\mathrm { s f } } \\in \\mathbb { Z } ^ { + } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而矩阵 $x$ 的核范数 $\\| X \\| _ { * }$ 定义为 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\| X \\| _ { * } = \\operatorname { t r } ( { \\sqrt { X ^ { \\operatorname { r } } X } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以它又可以等价为矩阵的迹，又因为Qsf=diag(qs）（qsf=f2f），所以式(13)又可以等价为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\underset { Q _ { \\mathrm { s f } } } { \\operatorname* { m i n } } ~ \\mathrm { t r } ( R _ { \\mathrm { f } } - Q _ { \\mathrm { s f } } ) = \\mathrm { m i n } ~ [ \\mathrm { t r } ( R _ { \\mathrm { f } } ) - \\mathrm { t r } ( Q _ { \\mathrm { s f } } ) ] = } \\\\ & { \\mathrm { m a x } ~ \\mathrm { t r } ( Q _ { \\mathrm { s f } } ) = \\mathrm { m a x } ~ ( L q _ { \\mathrm { s f } } ) } \\\\ & { s . t . ~ R _ { \\mathrm { f } } - \\mathrm { d i a g } ( q _ { \\mathrm { s f } } ) \\succ 0 ~ , } \\\\ & { ~ q _ { \\mathrm { s f } } \\ge 0 ~ , ( q _ { \\mathrm { s f } } = [ q _ { \\mathrm { l f } } , q _ { 2 \\mathrm { f } } , . . . , q _ { M \\mathrm { f } } ] ^ { \\mathrm { T } } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(15)中 $\\boldsymbol { L } = [ 1 , 1 , . . . , 1 , 1 ] _ { 1 \\times M }$ ，则式(13)简化为了半正定规划问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "问题(15)可以利用 $\\mathbf { c } \\mathbf { v } \\mathbf { X } ^ { [ 2 4 ] }$ 等工具解出 $q _ { \\mathrm { s f } }$ ，继而可求得前向平滑空间的无噪声信号协方差矩阵 $R _ { \\mathrm { s f } }$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与前向平滑空间的算法一样。通过凸优化处理可以算出Rb。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别得到 $R _ { \\mathrm { s f } }$ 与 $R _ { \\mathrm { s b } }$ 之后，利用式(11)即可得到去掉非均匀高斯噪声后的数据协方差矩阵 $R _ { \\mathrm { { s u p } } }$ ，然后对该修正的矩阵进行SVD，就可得到修正后的信号子空间与噪声子空间，最后通过最小化搜索得出信号源的方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据给出的阵列模型与MD算法的子阵划分方法，则数据协方差矩阵有 $\\operatorname* { m i n } ( \\mathbf { P } , \\mathbf { q } )$ 个相互独立的矢量，并且还要满足$\\mathbf { q } \\geq K$ 才能实现对 $K$ 个相干信号源的DOA估计。即MD算法在以上条件下，最多可估计 $\\operatorname* { m i n } ( \\mathbf { P } , \\mathbf { q } )$ 个相干信号源。而OC-SMD算法将整个线列看为一个子阵，协方差矩阵具有更多的独立矢量，最多可估计 $M - 1$ 个相干信号源，解决了MD算法带来的孔径损失的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)将整个天线阵列看做是一个子阵列，分别算出前向平滑空间的信号协方差矩阵与后向平滑空间的信号协方差矩阵$R _ { \\mathrm { f } }$ 与 $\\boldsymbol { R _ { b } }$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)利用凸优化原理分别来求出前向与后向的无噪声信号协方差矩阵 $R _ { \\mathrm { s f } }$ 与 $R _ { \\mathrm { s b } }$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)利用SMD算法得到去掉非均匀高斯噪声后的数据协方差矩阵，然后对该修正的矩阵进行SVD就可得到修正后的信号子空间与噪声子空间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)通过最小化搜索实现DOA估计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 仿真分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证OC-SMD算法的性能，将采用等间距直线阵列进行仿真实验，入射信号均为远场窄带信号，信源数目已知且均为相干信号。将会与MD算法， $\\boldsymbol { L } _ { \\mathrm { 1 } } \\mathrm { - } \\mathrm { S V D }$ 算法以及SS-CRM算法进行各个方面的比较。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1相同条件下MD和OC-SMD算法检测相干信号源数目对比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在阵元数为8的等间距直线阵列中，信噪比为 $1 5 \\ \\mathrm { d B }$ ，快拍数为1024。当子阵数为5，每个子阵的阵列数为4时，MD 算法可以实现最多相干信号源的估计，此时可以估计4个相干信号源。MD算法的入射角为 $- 4 0 ^ { \\circ } , - 2 0 ^ { \\circ } , 2 0 ^ { \\circ } , 4 0 ^ { \\circ }$ ，OC-SMD算法的入射角为 $- 6 0 ^ { \\circ } \\circ _ { \\circ } - 4 0 ^ { \\circ } \\circ _ { \\circ } - 2 0 ^ { \\circ } \\circ _ { \\circ } 0 ^ { \\circ } \\circ _ { \\circ } 2 0 ^ { \\circ } \\circ _ { \\circ } 4 0 ^ { \\circ } \\circ _ { \\circ } 6 0 ^ { \\circ }$ 。图2是两种算法在八阵元均匀直线阵条件下的空间谱。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/45a2273a9426b2cb8cf5abfc7edd76fa1ea2e246a999adeb24260601f63c174d.jpg",
+        "img_caption": [
+            "(a)MD 算法在八阵元均匀直线阵列中的空间谱",
+            "(a)Spatial spectrum ofMD algorithm in eight element uniform linear ",
+            "图2MD与OC-SMD算法的空间谱对比",
+            "Fig.2Comparison of Spatial Spectra between MD and OC-SMD algorithms "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "array1-10-20 Mull  \n0-40-50-60-100 100(b)OC-SMD算法在八阵元均匀直线阵列中的空间谱  \n(b) Spatial Spectrumof OC-SMDalgorithmin Eight-Array elementuniform Linear Array",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，利用OC-SMD算法，8元阵可以同时检测7个相干信号源，而MD算法最多只能检测4个相干信号源。OC-SMD算法在检测相干信号源数目上明显多于MD算法，很好地克服了孔径损失的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2不同信噪比下四种算法的空间谱对比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在阵元数为8的等间距直线阵列中，有两个相干信号源，入射角分别为 $- 5 ^ { \\circ }$ 和 $0 ^ { \\circ }$ 。令信噪比分别为15dB、5B和-5dB，快拍数为1024，MD算法的子阵数为5，每个子阵的阵列数为4。图2是四种算法的空间谱对比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图3可得以下几点分析结果：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)由图3(a)可以看出，当信噪比为15dB时，四种算法都能准确地分辨出两个信源的入射角；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)由图3(b)可以看出，5dB 这样较小的信噪比对MD 以及 $\\boldsymbol { L } _ { \\mathrm { 1 } } \\mathrm { - } \\mathrm { S V D }$ 算法的影响都很大，从其空间谱图像中已经不能够分辨出角度差为 $5 ^ { \\circ }$ 的两个信号源DOA。较小的信噪比同时也对OC-SMD和SS-CRM算法产生了影响，但是，OC-SMD算法从图像来看，依然可以分辨出两个信号源的方向，表现出了更好的分辨性能；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)由图3(c)可以看出，当信噪比进一步恶化到-5dB时，SS-CRM算法已经无法从其空间谱图像中辨别出两个信号源的入射角度，而OC-SMD算法虽然也会受到低信噪比带来的影响，但是在-5dB的环境下，依然能够在其空间谱图像中辨别出两个相干信源的入射角度。所以，在低信噪比情况下，OC-SMD算法的分辨性能更好。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/759d77772efd1e708a310b11042ea0582d685e56abcd8673dd30e69608c4d971.jpg",
+        "img_caption": [
+            "(a)信噪比为15dB时的空间谱 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ea110fe6afedf7949d30a8e380551a47118f725c95d34e623d733a1ed092644.jpg",
+        "img_caption": [
+            "(a) Spatial spectrum with a signal-to-noise ratio of 15 dB "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/36fc7a5395d62eb96fdd593baba0e198ef353ef0bdb31d296e76c82b5ed4dfad.jpg",
+        "img_caption": [
+            "(b) Spatial spectrum with a signal-to-noise ratio of 5 dB ",
+            "图3空间谱对比",
+            "Fig.3Spatial spectral contrast "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3不同信噪比下的四种算法的均方根误差",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在阵元数为8的等间距直线阵列中，有两个相干信号源，入射角分别为 $- 5 ^ { \\circ }$ 和 $0 ^ { \\circ }$ 。令快拍数为1024，MD算法的子阵数为5，每个子阵的阵列数为4。针对[-8:2:12]范围内不同的信噪比，通过1000次的蒙特卡洛实验，得出四种算法的均方根误差（root mean square error,RMSE)变化情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/382779bfbf6b090b21ef689868a3f5cd807cbeea3aa4e7fa1e153d9de7c32825.jpg",
+        "img_caption": [
+            "图4不同信噪比条件下的均方根误差变化情况Fig.4Change of root mean square error under differentsignal-noise-ratio conditions"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图4可得以下几点分析结果：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)MD算法作为传统算法，对信噪比的改变非常敏感，在低信噪比环境中对相干信源的入射角估计的误差非常大；b) $L _ { 1 }$ -SVD算法虽然较MD算法，在低信噪比时的准确率更高，但是低信噪比对其性能影响还是很大；c）SS-CRM算法虽然在低信噪比条件下的DOA估计误差很小，但是低信噪比对其性能的影响也不可忽略;d)OC-SMD 算法的RMSE在不同信噪比条件下始终是四种算法中最低的，尤其在0dB以下的低信噪比区间中，准确率较之其他三种算法更高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4不同快拍数下四种算法的均方根误差",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在阵元数为8的等间距直线阵列中，有两个相干信号源，入射角分别为 $- 5 ^ { \\circ }$ 和 $0 ^ { \\circ }$ 。令信噪比为5dB，MD 算法的子阵数为5，每个子阵的阵列数为4。针对[100:100:1100]范围内不同的快拍数，通过1000次的蒙特卡洛实验，得出四种算法的RMSE变化情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/239c071160b566210a4a4a8b6b9e980d8f745c125287e64eb93774830f8e4b6a.jpg",
+        "img_caption": [
+            "(b）信噪比为5dB 时的空间谱 ",
+            "图5不同快拍数下的四种算法的均方根误差",
+            "Fig.5Change of root mean square error under different snapshots由图5可得以下几点分析结果："
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)随着快拍数的增加，四个算法的均方根误差都在逐渐减小。尤其是MD算法，其准确率在低信噪比条件下并不理想，而它对于快拍数的依赖更是大大影响了角度分辨性能；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b) $L _ { 1 }$ -SVD算法虽然在快拍数降低的时候其RMSE 较 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MD算法更低，但是因为它在5dB这种低信噪比环境下的误差本来就较大，所以在图4中， $L _ { 1 }$ -SVD的DOA估计性能依然较差；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)SS-CRM算法虽然在快拍数变化的情况下依然能够保持较为稳定的RMSE，但是从图中可以直观地看出当快拍数较低的时候，SS-CRM算法的DOA误差还是比较大；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d)OC-SMD算法与其他三个算法相比，其RSME在小快拍数的环境下要更低一些，RMSE的变化也更为平稳。所以，OC-SMD 算法对于相干信源的DOA估计能力受快拍数变化的影响更小，在小快拍数条件下依然能够实现更为准确的估计。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5不同噪声非均匀强度下四种算法的均方根误差",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在阵元数为8的等间距直线阵列中，有两个相干信号源，入射角分别为 $- 5 ^ { \\circ }$ 和 $0 ^ { \\circ }$ 。令快拍数为1024，MD 算法的子阵数为5，每个子阵的阵列数为4。模拟非均匀噪声环境，已知最小噪声功率为 $\\delta _ { \\mathrm { m i n } } ^ { 2 } = 0 . 5$ ，最大噪声功率为 $\\mathcal { S } _ { \\mathrm { m a x } } ^ { 2 } = \\left[ 1 0 : 5 : 6 0 \\right]$ ，定义噪声的非均匀强度为 $R = \\frac { \\delta _ { \\operatorname* { m a x } } ^ { 2 } } { \\delta _ { \\operatorname* { m i n } } ^ { 2 } }$ 。每次实验都会从最大到最小的噪声功率范围内随机取值，使得噪声功率具有随机性与起伏性，通过1000次的蒙特卡洛实验，得出四种算法在不同噪声非均匀强度下的RMSE变化情况。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e10033d34833a6efd4a345f717775be4e3add895b7575987cda8d2db7d93061d.jpg",
+        "img_caption": [
+            "图6不同噪声非均匀强度下四种算法的均方根误差",
+            "Fig.6Change of root mean square error under different non-uniform noise intensity "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图6可得以下几点分析结果：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a) MD与 $l _ { 1 } - \\mathrm { S V D }$ 算法的RMSE随噪声的非均匀程度波动很大，非均匀程度越高，误差越大。所以，非均匀噪声对于这两种算法的影响非常大，而真实的噪声环境并不是理想的高斯白噪声，所以MD算法与 $L _ { 1 }$ -SVD算法在真实场景中的应用性能会受到噪声环境的限制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)SS-CRM与OC-SMD算法在噪声非均匀程度较大的条件下都能有效地抑制非均匀噪声带来的影响，保持稳定的性能。OC-SMD算法比SS-CRM算法的RMSE 曲线还要更低更平稳一些，对非均匀噪声的抑制能力要更好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对传统的DOA估计算法在信号源相干、信噪比与快拍数较低以及噪声非均匀条件下的估计误差较大的问题，本文基于修正后的矩阵分解方法，提出了一种利用凸优化原理来将信号接收协方差矩阵中非均匀噪声的部分剥离掉，从而有效地找到最优的协方差矩阵的DOA估计方法。克服了矩阵分解算法在解相干时带来的物理孔径损失的缺点，有效地解决了信噪比与快拍数对算法带来的误差影响，同时能够成功抑制非均匀噪声对DOA算法带来的巨大影响。实验结果表明，相比起MD 算法、 $L _ { 1 }$ -SVD算法以及SS-CRM算法，OC-SMD在低信噪比、小快拍数条件下的DOA估计误差更小。同时，在非均匀噪声环境下，拥有比SS-CRM算法更强的噪声抑制能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]王永良．空间谱估计理论与算法[M].北京：清华大学出版社，2004. (Wang Yongliang. Spatial spectral estimation theory and algorithm [M]. Beijing:Tsinghua University Publishing House,2004.)   \n[2] Shi Junpeng,Hu Guoping,Lei Teng. DOA estimation algorithms for Low-angle targets with MIMO radar [J]. Electronics Letters,2016,52 (8): 652-654.   \n[3] 吴晨曦，张旻，王可人．非均匀噪声背景下的欠定 DOA 估计方法 [J]．系统工程与电子技术,2018,40(3):498-503.（Wu Chenxi, Zhang Wen，Wang Keren.Underdetermined direction of arrival estimation with nonuniform noise [J]. Journal of Systems Engineering and Electronics,2018,40(3): 498-503.)   \n[4]Tao Hao, Xin Jingmin,Wang Jiasong,et al. Two-dimensional direction estimation for a mixture of noncoherent and coherent signals [J]. IEEE Trans.on Signal Processing,2014, 63(2): 318-333.   \n[5]Qian Cheng,Huang Lei, Zeng Wenjun,et al.Direction of arrival estimation for coherent signals without knowledge of source number [J]. IEEE Sensors Jourmal,2014,14(9): 3267-3273.   \n[6] Njemcevic P.A novel approach in determination of the appropriate spatial averaging signal length [J]. Wireless Personal Communications, 2015,82(3): 1851-1861.   \n[7]Pannert W. Spatial smoothing for localized correlated sources- Its effect on different localization methods in the nearfield [J].Applied Acoustics,2011, 72(11): 873-883.   \n[8]Liu Jing, Zhou Weidong, Huang Defeng,et al. Covariance matrix based fast smoothed sparse DOA estimation with partly calibrated array [J]. AEU-International Journal of Electronics and Communications,2018, 84(2): 8-12.   \n[9]Bai Jun, Shen Xiaohong,Wang Haiyan.Improved Toeplitz algorithms to coherent sources DOA estimation [C]//Proc.of IEEE International Conference on Measuring Technology and Mechatronics Automation. 2010: 442-445.   \n[10] 张晓凤，陶海红，孙晨伟．Nested 阵列的矩阵重构高精度DOA 估计 算法[J]．西安电子科技大学学报，2017，44(1):152-158.(Zhang Xiaofeng，Tao Haihong，Sun Chenwei. Matrix reconstruction high accuracy DOA estimation algorithm on the Nested array [J]. Journal of Xidian University,2017,44(1): 152-158.）   \n[11]李乐，章毓晋．非负矩阵分解算法综述[J]．电子学报，2008，36(4): 737-743.(Li Le, Zhang Liujin. A survey on algorithms of non-negative matrix factorization [J]．Acta Electronica Sinica,2008，36(4): 737-743. )   \n[12] Liao Bin,Huang Lei,Guo Chongtao,et al. New approaches to direction-of-arrival estimationwith sensorarraysin unknown uonuniform noise [J]. IEEE Sensors Journal,2016,16(24): 8982-8989.   \n[13] Liao Bin,Chan Shingchow,Huang Lei,et al. Iterative methods for subspace and DOA estimation in nonuniform noise[J]. IEEE Trans on Signal Processing,2016,64(12): 3008-3020.   \n[14] Malioutov D,Cetin M,Willsky A S.A sparse signal reconstruction perspective for source localization with sensor arrays [J]. IEEE Trans on Signal Processing,2005,53 (8): 3010-3022.   \n[15]蔡晶晶，宗汝，蔡辉．基于空域平滑稀疏重构的 DOA 估计算法[J]. 电子与信息学报,2016,38(1):168-173.(Cai JinjinJ,Zong Ru,Cai Hui. DOA estimation Via sparse representation of the smoothed array covariance matrix [J].Journal of Electronics and Information Technol0gy,2016,38(1):168-173.)   \n[16]Hu Rui,Fu Yuli,Chen Zhen,et al.Robust DOA estimation via sparse signal reconstruction with impulsive noise [J]. IEEE Communications Letters,2017,21(6):1333-1336.   \n[17]王洪雁，房云飞，裴炳南．利用空间平滑的协方差秩最小化DOA估 计方法[J/OL]．西安电子科技大学学报：[2018-05-30].http://kns. cnki. net/kcms/detail/61.1076.TN.20180328.1032.006.html.(Wang Hongyani,Fang Yunfei，Pei Bingnan．Method for estimation of covariance rank minimization DOA by exploiting spatial smoothing [J/OL].Journal of Xidian University:[2018-05-3O].http://kns.cnki. net/kcms/detail/61.1076.TN.20180328.1032.006.html.)   \n[18]王洪雁，房云飞，裴炳南．基于矩阵补全的二阶统计量重构 DOA 估 计方法[J]．电子与信息学报，2018，40(6)：1383-1389.(Wang Hongyan,Fang Yunfei,Pei Bingnan.Matrix completion based second order statistic reconstruction DOA estimation method[J].Journal of Electronics and Information Technology,2018,40(6):1383-1389.)   \n[19] SchmidtR O.Multiple emitter location and signal parameter estimation. IEEE Trans.on Antennas and Propagation,1986,34 (3):276-280.   \n[20]Liao Bin,Guo Chongtao,Huang Lei,et al.Matrix completion based direction-of-arrival estimation in nonuniform noise [C]//Proc of IEEE International Conference on Digital Signal.Beijing,2O16: 66-69.   \n[21] Pillail S U,Kwon B H. Forward/backward spatial smoothing techniques for coherent signal identification [J].IEEE Trans on Acoustics,Speech, and Signal Processing,1989,37(1): 8-15.   \n[22] Candes E J,Tao T.The power of convex relaxation:Near-Optimal matrix completion [J].IEEE Trans on Information Theory,2O1O,56(5): 2053-2080.   \n[23]彭义刚,索津莉,戴琼海，等.从压缩传感到低秩矩阵恢复：理论与应 用[J].自动化学报,2013,39(7):981-994.(Peng Yigang,Suo Jinl,Dai Qionghai,et al.From compressed sensing to Low-rank matrix recovery: theory and applications [J].Acta Automatica Sinica,2O13,39(7): 981-994. )   \n[24] Grant M.Boyd S.CVX:Matlab software for disciplined convex programming，version 2.1 beta．[EB/OL]. (2015-06)[2018-03-18]. http://cvxr.com/cvx. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

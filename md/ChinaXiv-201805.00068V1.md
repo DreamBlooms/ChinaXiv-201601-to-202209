@@ -1,0 +1,315 @@
+# 批量正则化DBN分类方法研究
+
+李蓓蓓，宋威，戴鑫(江南大学 物联网工程学院，江苏 无锡 214122)
+
+摘要：针对深度置信网络（DBN）在微调过程中易受训练参数影响的问题，提出一种批量正则化 DBN 分类方法(BNDBN)。该方法首先利用 DBN 进行无监督学习以获得原始数据的高层次表达；然后通过引入尺度变换和平移变换参数对网络中间层的输出特征每一维进行批量正则化处理；并将处理后的特征输入到非线性变换激活层中；最后使用随机梯度下降法对仿射变换参数以及原始网络的参数进行训练学习。BNDBN方法减少了梯度对参数规模的依赖性，有效解决了因网络参数变化而造成的激活函数值分布变化的问题，提高了训练效率。为了检验所提出方法的有效性，选取 MNIST手写体数据库和USPS 手写数字识别库进行测试，通过与 Dropout-DBN、DBN、ANN、SVM、KNN 对比，结果表明，提出的方法分类准确率明显提高，具有更强的特征提取能力。
+
+关键词：深度置信网络；分类；无监督学习；尺度变换；平移变换；批量正则化中图分类号：TP183
+
+# Research on batch regularization DBN classification method
+
+Li Beibei, Song Wei, Dai Xin (InstituteofntellgentSystems&NetworkComputing,hoolofInternetofngsEngineering,JangnanUnversityWui Jiangsu 214122, China)
+
+Abstract: Aiming at the problem thatthe deep belief network (DBN)issusceptible tothe training parameters during the finetune process,this paperproposedakindofbatch normalization DBNclasificationmethod(BNDBN).Firstly,this methodused unsupervised learming toobtainhigh-levelrepresentationofrawdata.Thenthroughthe introductionofscaletransformationand translation transformationparameters,itprocessedtheoutputcharacteristicsofeachlayerbybatchnormalization.Anditfedthe post-processingcharacteristics intothenonlinear transformationactivationlayer.Finalyit rainedandstudiedteparameters oftheaffie transformation and the original networkbyusing the stochastic gradient descent method.The BNDBN method reduced the dependence ofthe gradientonthe parameter size,which effectivelyresolved the problemofchanging the value distributionofactivation functioncausedbythechange of network parametersand improves the training eficiency.To verify theeffectivenessof the proposed method,itselected MNIST handwriten databaseandthe USPS handwritten digital identificationlibraryfortesting.Comparedwith theDropout-DBN,DBN,ANN,SVMandKNN,theresultsshowthatthe proposed method significantly improved the clasification accuracy and had stronger feature extraction ability.
+
+KeyWords:deepbeliefnetwork;clasification;unsupervised learning;scale transformation;translation transformation;batch normalization
+
+# 0 引言
+
+Hinton 等人于 2006年提出了深度置信网络(deep beliefnetworks，DBN)以及无监督贪婪逐层训练算法[1]，为解决深度神经网络的优化难题带来了希望。DBN是一个概率生成模型[2]，通过“逐层初始化”克服了训练上的难度，它处理高维输入的能力使其成为固有数量维度的任务的理想选择。因DBN具有自动学习特征和数据降维[3]的优势，已经成为深度学习应用最广泛的网络结构，目前，DBN在语音识别[4]、图像分类[5]、人脸识别[等相关领域都取得了突破性的进展。
+
+目前，数据集规模日益扩大，更复杂、更深层次的体系结构被提出，使得网络训练变得更加困难，这就需要更有效的训练方式。但仅仅适应庞大的数据集是远远不够的，特别是在深度置信网络中，有监督微调也是不容忽视的一个阶段。随机梯度下降（SGD）[7]是微调深度置信网络最有效的方法之一，Adagrad[8]和动量[9]等方面已经有了新的改进。文献[10]提出一种高效自然梯度的深层神经网络并行训练算法应用在图像分类中，有效地提高了算法的收敛性；文献[11,12]分别提出了Dropout 和DropConnect 算法，其主要目的在于引入稀疏性到网络模型中，减弱了神经元节点间的联合适应性，防止过度拟合；文献[13]则将Dropout算法引入到DBN 的微调过程，以提高网络的泛化能力和分类判别性；文献[14\~16]通过元启发式搜索算法及其变种算法来微调DBN的参数，以获得近似最优解，避免了陷入局部最优的问题。
+
+在DBN的微调阶段，优化目标是最小化给定标签和网络输出之间距离的损失函数，虽然这些算法的改进不同程度的提高了网络训练效果，但仍然对模型超参数敏感，需要更小心的初始化。因为每一层网络的输入都是用所有的下层参数来计算的，所以下层某个参数的微小改变有可能随着网络层数的增加而被逐层放大，那么该层网络需要拟合新的分布，以使网络达到稳定状态，这增加了网络训练的复杂度，降低了网络的训练速度，甚至导致深层网络的效果反而不如浅层网络。
+
+为了解决传统DBN 训练方法存在的不足，结合批量正则化算法（batch normalization）[7]的优点，本文提出了一种批量正则化DBN（BNDBN）分类方法。该方法引入了尺度变换和平移变换参数，经过变换重构可以恢复原始网络所学习的特征分布，使得 BNDBN 与DBN 相比具有稳定的网络性能。通过对MNIST和USPS手写数字识别库分类的实验分析，与Dropout-DBN，DBN，人工神经网络(ANN)，支持向量机(SVM)和K近邻方法(KNN)算法进行对比，证明了本文方法具有更优的分类准确率。
+
+# 1 相关工作
+
+# 1.1 深度置信网络
+
+DBN是一种概率生成模型，可以看成是由多个受限玻尔兹曼机（restricted boltzmann machine,RBM）[18]堆叠而成的深层网络。RBM是一种对称连接的随机神经网络，该网络由可见层$\nu$ 和隐藏层 $h$ 组成，如图1所示。
+
+$$
+\displaystyle E ( \nu , h | \theta ) = - \sum _ { i = 1 } ^ { n } a _ { i } \nu _ { i } - \sum _ { j = 1 } ^ { m } b _ { j } h _ { j } - \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { m } \nu _ { i } W _ { i j } h _ { j }
+$$
+
+其中： $\theta = \left\{ W _ { i j } , a _ { i } , b _ { j } \right\}$ 。 $W _ { i j }$ 是可见层和隐藏层之间的权重矩阵，
+
+$a _ { i }$ 表示可见层节点的偏置， $b _ { j }$ 表示隐藏层节点的偏置。
+
+该模型产生可见层节点和隐藏层节点的条件概率如下：
+
+$$
+P ( \nu \mid \theta ) { = } { \frac { 1 } { Z _ { \theta } } } { \sum } _ { h } e ^ { - E ( \nu , h \mid \theta ) }
+$$
+
+$$
+P ( h | \theta ) = \frac { 1 } { Z _ { \theta } } \sum _ { \nu } e ^ { - E ( \nu , h | \theta ) }
+$$
+
+当给定可见层节点的状态时，各隐藏层节点之间的激活状态是条件独立的，故第 $j$ 个隐藏层节点的激活状态为：
+
+$$
+P ( h _ { j } = 1 | \nu ) = \sigma ( \sum _ { i } W _ { i j } \nu _ { i } + b _ { j } )
+$$
+
+其中: $\sigma ( x ) = \frac { 1 } { ( 1 + e ^ { - x } ) }$ 为非线性的sigmoid激活函数。当给定隐藏层节点的状态时，第 $i$ 个可见层节点的激活状态为
+
+$$
+P ( \nu _ { i } = 1 | h ) = \sigma ( \sum _ { j } W _ { i j } h _ { j } + a _ { i } )
+$$
+
+DBN训练过程包括预训练和微调阶段：根据输入数据对网络进行预训练，选用对比散度（contrastivedivergence,CD- $\mathbf { \nabla } \cdot \mathbf { k }$ 算法[19]无监督的自底向上单独训练每一层RBM,得到相应的权值和偏置，最终获得数据的高层次特征；再利用自顶向下的有监督学习-反向传播(back propagation,BP)算法[20]微调整个网络，使DBN模型能很好地拟合输入数据。结构如图2所示。
+
+![](images/18c552afc49b1dcdede4dcda193706c3595d377c637ae8fb90c5d01c1662cb94.jpg)  
+图1 RBM网络结构图
+
+RBM是基于能量的模型，可见层和隐藏层的能量函数公式如下：
+
+![](images/e9fd825882790b50c6c9729c4cea10075f4652133716b0a4cfb0a259c3064e06.jpg)  
+图2 DBN 训练结构
+
+# 1.2Softmax分类器
+
+如果将深度置信网络应用在分类上，需要在网络的最后一层加入分类器。为了使网络应用更广泛，本文使用Softmax分类器来进行分类。
+
+对于训练集 $\{ ( x ^ { ( 1 ) } , y ^ { ( 1 ) } ) , ( x ^ { ( 2 ) } , y ^ { ( 2 ) } ) , . . . , ( x ^ { ( m ) } , y ^ { ( m ) } ) \}$ ，标签$y$ 取 $k$ 个不同的值，表示有 $k$ 个类别。设 $p ( y = j \vert x )$ 表示输入 $\textbf { x }$ 的情况下，样本被判为类别 $j$ 的概率。所以对于一个 $k$ 类的分
+
+类器，输出是一个 $k$ 维的向量(向量的元素和为1)，输出为
+
+$$
+\begin{array} { r l } & { \displaystyle h _ { \theta } ( x ^ { ( i ) } ) = \left[ \begin{array} { l } { p ( y ^ { ( i ) } = 1 \mid x ^ { ( i ) } ; \theta ) } \\ { p ( y ^ { ( i ) } = 2 \mid x ^ { ( i ) } ; \theta ) } \\ { \cdots } \\ { p ( y ^ { ( i ) } = k \mid x ^ { ( i ) } ; \theta ) } \end{array} \right] } \\ & { \displaystyle = \frac { 1 } { \sum _ { j = 1 } ^ { k } \exp ( \theta _ { j } ^ { T } x ^ { ( i ) } ) } \left[ \exp ( \theta _ { j } ^ { T } x ^ { ( i ) } ) \right] } \\ & { \displaystyle \qquad \sum _ { j = 1 } ^ { k } \exp ( \theta _ { j } ^ { T } x ^ { ( i ) } ) \left[ \exp ( \theta _ { k } ^ { T } x ^ { ( i ) } ) \right] } \end{array}
+$$
+
+其中： $\theta$ 是一个矩阵，每一行看做是一个类别所对应分类器的参数，共 $k$ 行。 $\frac { 1 } { \displaystyle \sum _ { j = 1 } ^ { k } \exp ( \theta _ { j } ^ { T } x ^ { ( i ) } ) }$ ∑exp(xi）是对概率分布进行归一化，从而使所有的概率之和为1。因此，Softmax分类器的代价函数为
+
+$$
+J ( \theta ) = - \frac { 1 } { m } \sum _ { i = 1 } ^ { m } \sum _ { j = 1 } ^ { k } 1 \{ y ^ { ( i ) } = j \} \log \frac { \exp ( \theta _ { j } ^ { T } x ^ { ( i ) } ) } { \displaystyle \sum _ { l = 1 } ^ { k } \exp ( \theta _ { l } ^ { T } x ^ { ( i ) } ) }
+$$
+
+其中：1}是一个指示性函数，即1{值为真的表达式 $\} { = } 1$ ，1{值为假的表达式 $\scriptstyle \} = 0$ 。本文使用梯度下降算法来最小化代价函数求解。
+
+# 2 基于批量正则化的DBN分类方法
+
+# 2.1 批量正则化算法
+
+由于传统正则化算法不是处处连续求导，批量正则化（batch normalization，BN）[17,21]算法对其进行了改进。首先，传统的正则化算法是对网络中每层的输入特征进行联合正则化，而 BN 算法对网络中每层的每个标量特征进行独立正则化方法处理，并且是对输入的样本分批进行处理。
+
+其次，因为每层网络的输入随着训练参数的改变而改变，导致改变后的输入无法完整表达原有输入特征。对于某一层 $k$ 维的输入数据 $x$ ，BN算法引入了尺度变换参数》和平移变换参数 $\beta$ 。通过变换重构使得数据也会落入非线性分布中，从而保持了模型的表达能力。经过参数的训练学习，当$\gamma ^ { ( k ) } = V a r [ \boldsymbol { x } ^ { ( k ) } ]$ 即输入的标准差， $\beta ^ { ( k ) } = E [ x ^ { ( k ) } ]$ 即输入的期望值时，可以完全恢复原始网络所要学习的特征分布。
+
+# 2.2 批量正则化DBN 结构
+
+在传统DBN 微调过程中，每层输入分布会随着参数的变化而变化，增加了网络的训练复杂度。如果让非线性输入的分布在训练过程中保持更加稳定的状态，那么优化DBN的过程中会降低出现问题的可能性。因此本文在微调阶段中引入批量正则化算法。BNDBN结构如图3所示。
+
+BNDBN方法可以减少梯度对参数大小或初始值的依赖。传统方法进行迭代更新网络参数时，过高的学习率会导致梯度消失、陷入局部极小值等问题。BNDBN方法引入尺度变换参数和平移变换参数 $\beta$ ，对每个隐层的每一维输出特征进行批量正则化处理，通过变换重构将每层的数据分布转变为稳定的标准正态分布，防止参数的微小变化通过深层网络后扩大为梯度的次优变化，使得网络训练时将不会受参数范围的影响。
+
+![](images/4896a895cc24493c671fdb515d28a12423fa496c8a009da4d7680d4def358e8a.jpg)  
+图3 BNDBN结构
+
+在图3(b)中引入批量正则化层即BN层，对输入特征进行处理，然后输入到激活函数层。对于某一层具有 $k$ 维的输入 $x$ ，每一批样本集合为 $D = \left\{ x _ { 1 } . . . x _ { m } \right\}$ ，网络的隐藏层层数为 $l$ ,每层对输入的每一维都进行正则化，公式如下所示：
+
+$$
+\mu _ { D } ^ { ( l ) } = \frac { 1 } { m } \sum _ { i = 1 } ^ { m } x _ { i } ^ { ( l ) }
+$$
+
+$$
+\sigma _ { D } ^ { ( l ) ^ { 2 } } = \frac { 1 } { m } \sum _ { i = 1 } ^ { m } \Bigl ( x _ { i } ^ { ( l ) } - \mu _ { D } ^ { ( l ) } \Bigr ) ^ { 2 }
+$$
+
+$$
+\hat { x } _ { i } ^ { ( l ) } = \frac { x _ { i } ^ { ( l ) } - \mu _ { D } ^ { ( l ) } } { \sigma _ { D } ^ { ( l ) } } = \sqrt { \frac { 1 } { m } \sum _ { i = 1 } ^ { m } ( x _ { i } ^ { ( l ) } - \mu _ { D } ^ { ( l ) } ) ^ { 2 } }
+$$
+
+其中： $x ^ { ( k ) }$ 表示输入为 $x$ 的第 $k$ 维， $\mu _ { { } _ { B } }$ 表示计算样本集合D 的均值， $\sigma _ { B } ^ { 2 }$ 表示计算样本集合D 的方差， $\hat { x } _ { i }$ 表示对输入 $x$ 的每一维进行正则化处理。
+
+通过尺度变换和平移变换参数来保持模型的表达能力，变换后的公式如下：
+
+$$
+y ^ { ( l ) } = \gamma ^ { ( l ) } \sqrt { \frac { 1 } { m } { \sum _ { i = 1 } ^ { m } } ( x _ { i } ^ { ( l ) } - \mu _ { D } ^ { ( l ) } ) ^ { 2 } } + \beta ^ { ( l ) } \equiv B N _ { \gamma , \beta } ( x _ { i } ^ { ( l ) } )
+$$
+
+其中： $y ^ { ( k ) }$ 是对 $\hat { x } ^ { ( k ) }$ 批量正则化处理后的输出，然后输入到下一个非线性变换激活层中。 $\gamma ^ { ( k ) }$ 和 ${ { \beta } ^ { \left( \mathrm { k } \right) } }$ 与网络中原有参数一起训练学习，使用随机梯度下降法计算梯度，不断迭代更新。
+
+DBN网络每个隐含层最后的输出计算如下：
+
+$$
+\begin{array} { l } { { \displaystyle z ^ { ( l + 1 ) } = f ( W ( l ) y ^ { ( l ) } + b ( l ) ) } } \\ { { \displaystyle \quad = f ( W ^ { ( l ) } ( \gamma ^ { ( l ) } \sqrt { \frac { 1 } { m } { \sum _ { i = 1 } ^ { m } ( x _ { i } ^ { ( l ) } - \mu _ { B } ) ^ { 2 } } } + \beta ^ { ( l ) } ) + b ^ { ( l ) } ) } } \end{array}
+$$
+
+其中：f()= $f ( \cdot ) = \frac { 1 } { ( 1 + e ^ { - x } ) }$ 为 sigmoid函数，权值 $W$ 和偏置 $b$ 是要学习的层参数。经过批量正则化处理的DBN 需要使用反向传播算法计算代价函数梯度，同时计算批量正则化算法中引入的参数。
+
+批量正则化处理后的式(12)可以用下式代替：
+
+$$
+z = f ( B N ( W u ) )
+$$
+
+其中的BN变换单独作用于输入 $x = W u$ 的每一维分量中。在变换输入中加入参数为 $a$ 的尺度变换后，对批量正则化处理$B N ( W u ) = B N ( ( a W ) u )$ 进行求偏导得到如下公式：
+
+$$
+\frac { \hat { c } B N ( ( a W ) u ) } { \hat { c } u } { = } \frac { \hat { c } B N ( W u ) } { \hat { c } u }
+$$
+
+$$
+\frac { \hat { c } B N ( ( a W ) u ) } { \hat { c } a W } = \frac { 1 } { a } \cdot \frac { \hat { c } B N ( W u ) } { \hat { \sigma } W }
+$$
+
+从式(14)和(15)中可以看出，在网络的某一层加入参数为 $a$ 的尺度变换后，并没有影响梯度传播。另外，较大的权重加入尺度变换以后导致梯度减小，从而使得引入的批量正则化算法可以保持参数训练时的稳定性。
+
+# 2.3批量正则化DBN训练过程
+
+批量正则化DBN具体训练过程如下：
+
+a)数据预处理。将图片进行灰度转换，并把灰度值归一化到[0,1];
+
+b)使用RBM构建DBN网络，初始化可见层和隐藏层的权重矩阵和偏置，设置学习率、迭代次数以及Mini-Batch的大小；
+
+c)将预处理后的数据输入到网络输入层中，采用自下而上的无监督学习方法预训练，使用式(4)计算每个RBM隐藏层节点激活状态；使用式(5)计算每个RBM可见层节点激活状态；反复进行该步骤，并对概率的对数求偏导，最后使用如下公式更新参数空间的权重矩阵和偏置：
+
+$$
+\Delta W _ { i j } = \varepsilon ( \left. \nu _ { i } h _ { j } \right. _ { d a t a } - \left. \nu _ { i } h _ { j } \right. _ { r e c o n } )
+$$
+
+$$
+\Delta a _ { i } = \varepsilon ( \big < \nu _ { i } \big > _ { d a t a } - \big < \nu _ { i } \big > _ { r e c o n } )
+$$
+
+$$
+\Delta b _ { j } = \varepsilon ( \left. h _ { j } \right. _ { d a t a } - \left. h _ { j } \right. _ { r e c o n } )
+$$
+
+其中： $\varepsilon$ 为学习率； $\Delta W _ { i j }$ 是权重的更新值； $\Delta a _ { i }$ 和 $\Delta b _ { j }$ 是偏置的更新值； $\langle \bullet \rangle$ 是对数据求期望； $\left. \bullet \right. _ { d a t a }$ 表示重构之前可见层节点 $i$ 与隐藏层节点 $j$ 相乘的值； $\langle \bullet \rangle _ { r e c o n }$ 表示重构之后的值，反映重构模型的分布。
+
+d)进一步优化BNDBN 网络，将预训练得到的参数值即权重和偏置作为该阶段参数的初始值，使用式(6)\~(9)对网络的输入进行批量正则化处理，并输入到激活层。然后在网络最顶层加入一层Softmax分类器，使用Mini-BatchSGD算法最小化代价函数 $J ( \theta )$ ，计算代价函数的梯度，并计算批正则化处理变换中仿射变换参数 $\gamma$ 和 $\beta$ 。 $\gamma$ 和 $\beta$ 求导公式使用链式法则如下：
+
+$$
+\frac { \partial J ( \theta ) } { \partial \hat { x } _ { i } } = \frac { \partial J ( \theta ) } { \partial y _ { i } } \cdot \boldsymbol { \gamma }
+$$
+
+$$
+\frac { \hat { \sigma } J ( \theta ) } { \hat { \sigma } \sigma _ { D } ^ { 2 } } = \sum _ { i = 1 } ^ { m } \frac { \hat { \sigma } J ( \theta ) } { \hat { \sigma } \hat { x } _ { i } } \cdot ( x _ { i } - \mu _ { D } ) \cdot ( - \frac { 1 } { 2 } ) \cdot ( \sigma _ { D } ^ { 2 } + \varepsilon ) ^ { - 3 / 2 }
+$$
+
+$$
+\frac { \partial J ( \theta ) } { \partial \mu _ { D } } = ( \sum _ { i = 1 } ^ { m } \frac { \partial J ( \theta ) } { \partial \hat { x } _ { i } } \cdot \frac { - 1 } { \sqrt { \sigma ^ { 2 } + \varepsilon } } ) + \frac { \hat { \sigma } J ( \theta ) } { \hat { \sigma } \sigma _ { D } ^ { 2 } } \cdot \frac { \sum _ { i = 1 } ^ { m } - 2 ( x _ { i } - \mu _ { D } ) } { m } \cdot
+$$
+
+$$
+\frac { \hat { \sigma } J ( \theta ) } { \hat { \sigma } x _ { i } } = \frac { \hat { \sigma } J ( \theta ) } { \hat { \sigma } \hat { x } _ { i } } \cdot \frac { 1 } { \sqrt { { \sigma } ^ { 2 } + \varepsilon } } + \frac { \hat { \sigma } J ( \theta ) } { \hat { \sigma } \sigma _ { D } ^ { 2 } } \cdot \frac { 2 ( x _ { i } - \mu _ { D } ) } { m } + \frac { \hat { \sigma } J ( \theta ) } { \hat { \sigma } \mu _ { D } } \cdot \frac { 1 } { m }
+$$
+
+$$
+\frac { \partial J \left( \theta \right) } { \partial \gamma } = \sum _ { i = 1 } ^ { m } \frac { \partial J \left( \theta \right) } { \partial y _ { i } } \cdot \hat { x } _ { i }
+$$
+
+$$
+\frac { \partial J \left( \theta \right) } { \partial \beta } = \sum _ { i = 1 } ^ { m } \frac { \partial J \left( \theta \right) } { \partial y _ { i } }
+$$
+
+再按照梯度求导公式对 $W$ 和 $b$ 更新。
+
+e)将测试数据输入训练好的网络中进行测试。在批量正则化层使用训练阶段中的标准差的期望和均值的期望来对测试数据进行处理，如下式所示：
+
+$$
+V a r [ x ]  \frac { m } { m - 1 } E _ { B } \ [ \sigma _ { B } ^ { 2 } ]
+$$
+
+$$
+\hat { x } = \frac { x - E \big [ x \big ] } { \sqrt { V a r [ x ] + \varepsilon } }
+$$
+
+$$
+y = \frac { \gamma } { \sqrt { V a r [ x ] + \varepsilon } } \cdot x + \left( \beta - \frac { \gamma E \big [ x \big ] } { \sqrt { V a r [ x ] + \varepsilon } } \right)
+$$
+
+其中: $E { \big [ } x { \big ] }$ 表示全部批次均值的期望值， $V a r [ x ]$ 表示每个批次标准差的无偏估计。
+
+# 3 实验结果及分析
+
+# 3.1实验数据集
+
+为了验证本文所提出算法的有效性，在MNIST和USPS手写体数据集上分别进行实验分析。MNIST手写体数据集包括由0\~9阿拉伯数字组成的60000个训练样本集和10000个测试样本集，每个图像为 $2 8 \times 2 8$ 的像素。从中随机选取6000个作为训练集，2000个作为测试集。USPS数据集是美国邮政服务手写数字识别库，包括9298个手写数字图像，均为 $1 6 ^ { * } 1 6$ 像素的灰度值，本文对其灰度值作了归一化处理，选取7000 个为训练数据， $4 0 0 0$ 个为测试数据。
+
+# 3.2 实验结果分析
+
+# 3.2.1参数分析
+
+实验在Windows7操作系统上运行，使用MATLABR2008b开发环境。实验参数的选择是进行大量的实验之后选取的较为理想的参数值。若不计入BN层，本文选取网络节点数分别为784-100-100-10共四层，mini-batch设为100，动量参数为0.9，初始迭代次数设为100。
+
+为了测试学习率对BNDBN的影响，本文在其他参数固定的情况下，改变学习率在区间[0.0005,0.05]内变化。在MNIST和USPS数据集上进行对比实验分析，如图4和5所示。
+
+观察图4可知，BNDBN算法具有很好的分类性能。从图4中可以看出BNDBN的分类错误率曲线都在Dropout-DBN 和DBN的下方，分类错误率都在 $6 \%$ 以下。同时，本文算法比Dropout-DBN最优时的分类错误率还低了 $0 . 6 \%$ 。说明本文算法具有更好的稳定性，可以使BNDBN模型很好地提取到数据的主要特征。
+
+![](images/01b74a1768a56a9b38dcecc86d19530a5baa1d708d8e2705fa1197cd553c8865.jpg)  
+图4不同学习率下三种算法的分类错误率对比(MNIST)
+
+![](images/eb2e57a5334236181c2830c4c66e12dcd7c6886eb480955111d2943827ec19df.jpg)  
+图5不同学习率下三种算法的分类错误率对比(USPS)
+
+图5显示了在USPS数据集中三种算法随着学习率变化的分类错误率对比结果，不难发现，BNDBN的分类错误率低于其他算法，进一步增加学习率，虽然导致模型最初的训练有点慢，但分类效果比较好。也证明了本文提出的BNDBN在保证算法不发散的情况下进一步提高了网络的分类性能。
+
+传统DBN的贪婪无监督训练方法可以有效地提取数据特征，各层的权值和偏置会处于最优的位置，使用SGD算法进一步训练更容易使网络收敛到最优。因此前一阶段参数的训练效果会影响到微调阶段的学习，进而影响最终分类效果。为了测试BNDBN在预训练阶段所需最优迭代次数，本文进行了实验对比，如图6和7所示。
+
+![](images/87e6377039b5b0a715a0369f8414aeb279b48e936931e2f7ae02eebd1c7c1daf.jpg)  
+图6不同迭代次数下三种算法的分类准确率对比(MNIST)
+
+![](images/8d89c0917138d622e264805af64248cf84efa804d68047facb225f905283cd00.jpg)  
+图7不同迭代次数下三种算法的分类准确率对比(USPS)
+
+由图6和7可以看出，在MNIST和USPS中，训练每个RBM迭代的次数对整个网络的性能是有一定影响的，BNDBN的分类结果都要高于DBN。在MNIST中，迭代次数为600次时，BNDBN的性能最优，准确率达到 $9 5 . 2 0 \%$ ，Dropout-DBN和DBN达到最好的分类结果分别为 $9 3 . 7 \%$ 和 $9 3 . 1 5 \%$ 。对于USPS 数据集，BNDBN算法在迭代次数为300 次时，分类准确率达到 $9 7 . 7 0 \%$ ，比Dropout-DBN 和DBN最好时的分类准确率提高了 $0 . 8 7 \%$ 和 $1 . 6 7 \%$ 。总体来看，与其他算法的对比进一步表明本文算法具有更好分类效果。
+
+为了验证BNDBN使用更深层网络的性能，在其他参数固定的情况下，隐含层节点为100，逐渐增加隐含层的个数，最多增加到10层，在MNIST和USPS上进行分类准确率对比，如图8和9所示。
+
+![](images/415714eb72e9be5a6e77f39ad41b02d5cd1355113760df07aa961f58654a67dc.jpg)  
+图8不同个数隐含层的三种算法的分类准确率对比(MNIST)
+
+![](images/2a20810ad206e1ea90224fff7048768e8ee0ca3f0d46f5690d148ca94683708a.jpg)  
+图9不同个数隐含层的三种算法的分类准确率对比(USPS)
+
+观察图8和9可知，开始增加隐含层个数时分类准确率逐渐降低，在MNIST数据集上，BNDBN算法当隐含层个数为2时，获得最优的分类准确率；在USPS数据集上，当隐含层为5时，分类准确率最好；对于Dropout-DBN 算法，在隐含层个数超过7层以后，结果开始变得比较差；但整体来看，本文算法都要优于 DBN 和 Dropout-DBN 算法。
+
+# 3.2.2不同算法分类准确率对比
+
+为了进一步验证本文算法的有效性，将本文算法BNDBN与DBN、Dropout-DBN以及其他应用比较广泛的分类算法即BP、SVM、KNN和DBN在MNIST和USPS 数据集上进行分类准确率的比较，如表2所示。表中所列出的是每种算法最优的分类准确率。其中，ANN算法中隐含层节点为100，SVM采用多项式核函数，KNN算法采用欧氏距离方法，K取值为10。
+
+表1六种算法的分类准确率对比 $( \% )$   
+
+<html><body><table><tr><td>数据集</td><td>BNDBN</td><td>Dropout-DBN</td><td>DBN</td><td>ANN</td><td>SVM</td><td>KNN</td></tr><tr><td>MNIST</td><td>95.20</td><td>93.70</td><td>93.15</td><td>92.6</td><td>94.35</td><td>93.00</td></tr><tr><td>USPS</td><td>97.70</td><td>96.83</td><td>96.03</td><td>95.33</td><td>94.97</td><td>93.67</td></tr></table></body></html>
+
+从表1可以看出，在MNIST和USPS中，DBN的分类结果明显高于ANN算法，表明了DBN在图像分类任务中的有效性。Dropout-DBN 算法虽然在一定程度上改善了DBN 存在的过拟合问题，但是仍然受到参数的影响导致分类准确率较低。而本文算法BNDBN相对于这五种算法都取得了最优的分类准确率，说明本文算法在一定程度上解决了DBN 存在的不足，改善了DBN的分类效果。
+
+# 3.2.3训练时间对比分析
+
+表2 给出了BNDBN、Dropout-DBN、DBN、BP、SVM 和KNN算法在MNIST和USPS数据集上的训练时间对比。从表中可以看出，由于使用深度神经网络的深层结构，计算复杂度比较大，所以相比较于传统分类算法SVM和KNN，训练时间较长，但分类准确率比较高；BNDBN 相对于DBN 和Dropout-DBN，训练时间都是最少，而且在较少时间内比Dropout-DBN和DBN的最好分类准确率分别提高 $1 . 5 \%$ 和 $2 \%$ 左右；说明本文算法BNDBN在训练时间上仍有进一步的提升，加快了训练的收敛速度，具有较优的分类性能。
+
+表2不同算法的训练时间对比/min  
+
+<html><body><table><tr><td>数据集</td><td>BNDBN</td><td>Dropout-DBN</td><td>DBN</td><td>ANN</td><td>SVM</td><td>KNN</td></tr><tr><td>MNIST</td><td>16.86</td><td>20.61</td><td>37.62</td><td>5.00</td><td>0.18</td><td>5.57</td></tr><tr><td>USPS</td><td>5.31</td><td>7.93</td><td>8.47</td><td>4.04</td><td>0.19</td><td>3.09</td></tr></table></body></html>
+
+# 4 结束语
+
+本文提了一种批量正则化DBN分类方法，并将它应用到分类识别中。首先介绍了深度置信网络(DBN)的结构，然后详细描述了批量正则化DBN分类方法及其训练过程，该方法不仅利用了DBN的优异的特征提取能力，同时基于批量正则化算法的优点，解决了传统DBN训练方法存在的问题。最后在MNIST和USPS数据集上进行了对比实验，证明了本文算法具有良好的分类效果。在以后的工作中继续侧重于网络参数优化方面的问题，进一步提升算法的特征提取能力。
+
+参考文献：   
+[1]Hinton G E, Osindero S,Teh YW.A fast learning algorithm for deep belief nets [J]. Neural Computation, 2006,18(7): 1527-1554.   
+[2]李慧．深度生成模型学习算法研究与应用[D].北京：中国科学院大学, 2014.   
+[3]Hinton G E, Salakhutdinov R R. Reducing the dimensionality of data with neural networks [J]. Science,2006,313 (5786): 504-507.   
+[4] Zhang J,Tao ZY.Recognition of speech based on deep learning [J]. Electronic Design Engineering,2015,23 (18): 72-73.   
+[5]Liu F, Jiao L, Hou B,et al.POL-SAR image classification based on Wishart DBN and local spatial information [J]. IEEE Trans on Geoscience & Remote Sensing,2016,54 (6): 3292-3308.   
+[6]林妙真．基于深度学习的人脸识别研究[D]．大连：大连理工大学, 2013.   
+[7]Botou L.Large-Scale Machine Learning with Stochastic Gradient Descent [C]// Proc of COMPSTAT.Physica-Verlag,2010: 177-186.   
+[8]Duchi J, Hazan E, Singer Y. Adaptive subgradient methods for online learning and stochastic optimization [J]. Journal of Machine Learning Research,2011,12(7): 257-269.   
+[9]Sutskever I, Martens J, Dahl G,et al. On the importance of initialization and momentum in deep learning [C]// Proc of International Conference on International Conference on Machine Learning.2013: I-1139.   
+[10] Povey D, Zhang X,Khudanpur S.Parallel training of deep neural networks with natural gradient and parameter averaging [J]. Eprint Arxiv: 1410.7455, 2014: 124-145.   
+[11] Srivastava N,Hinton G,Krizhevsky A,et al.Dropout:a simple way to prevent neural networks from overfitting [J]. Journal of Machine Learning Research,2014,15 (1): 1929-1958.   
+[12] Wan L, Zeiler MD, Zhang S,et al. Regularization of neural networks using drop connect [Cl//Proc of International Conference on Machine Learning. 2013: 1058-1066.   
+[13]王忠民，王希，宋辉．基于随机Dropout 深度信念网络的移动用户行为 识别方法[J].计算机应用研究,2017,34(12).   
+[14] Papa JP, Scheirer W,Cox D D. Fine-tuning deep belief networks using harmony search [J].Applied Soft Computing,2015,46 (C): 875-885.   
+[15] Rosa G,Papa J, Costa K,et al.Learning parameters in deep belief networks through firefly algorithm [M]/Artificial Neural Networks in Pattern Recognition.[S.1.]: Springer International Publishing,2016:138-149.   
+[16] Rodrigues D, Yang X S,Papa JP. Fine-tuning dep belief networks using cuckoo search [M]// Bio-Inspired Computation and Applications in Image Processing. 2016: 47-59.   
+[17] Ioffe S,Szegedy C.Batch normalization: accelerating deep network training by reducing internal covariate shift [J].Computer Science,2015: 448-456.   
+[18]Fischer A,Igel C.An introduction to restricted Boltzmann machines [M]// Progress in Pattern Recognition,Image Analysis,Computer Vision,and Applications.Berlin: Springer,2012:14-36.   
+[19] Hinton G E.Training products of experts by minimizing contrastive divergence [J].Neural Computation,2002,14(8):1771-1800.   
+[20] Vogl TP,Mangis JK,RiglerAK,et al.Accelerating the convergence of the back-propagation method [J].Biological Cybernetics,1988,59 (4): 257-263.   
+[21] Cooijmans T,Ballas N,Laurent C,et al. Recurrent batch normalization [J]. arXiv preprint arXiv:1603.09025,2016.

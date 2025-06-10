@@ -1,0 +1,251 @@
+# 基于深层注意力的LSTM的特定主题情感分析
+
+胡朝举，梁宁
+
+(华北电力大学 控制与计算机工程学院，河北 保定 071000)
+
+摘要：目前特定主题情感分析任务中，传统的基于注意力的深度学习模型缺乏对主题特征和情感信息的有效关注。针对该问题，构建了融合主题特征的深层注意力的LSTM模型（deeperattention LSTMwith aspect embedding,AE-DATT-LSTM)，通过共享权重的双向LSTM将主题词向量和文本词向量进行训练，得到主题特征和文本特征进行特征融合，经过深层注意力机制的处理，由分类器得到相应主题的情感分类结果。在SemEval-2014 Task4和SemEval-2017 Task4数据集上的实验结果表明，该方法在特定主题情感分析任务中，较之前基于注意力的情感分析模型在准确率和稳定性上有了进一步的提高。主题特征和深层注意力机制的引入，对于基于特定主题的情感分类任务具有重要的意义，为與情分析、问答系统和文本推理等领域提供了方法的支持。
+
+关键词：特定主题情感分析；深层注意力；LSTM；深度学习；自然语言处理 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2017.11.0736
+
+# Deeper attention-based LSTM for aspect sentiment analysis
+
+Hu Chaoju, Liang Ning (SchoolofControl&Computer Enginering,North China ElectricPower University,Baoding HebeiO710oo,China)
+
+Abstract: Inthecurrentaspectsentiment analysis task,thetraditionalattention-baseddeeplearningmodellacksthe effective atention to theaspect informationandthe sentiment information.This paperput forwardanewLSTMmodel,whichcombining aspectiformationanddeeperattention.Throughthe bidirectionalLSTMwith shared weights,ittrained theaspect embeding andthe text embedding toget theaspectfeatureandtextfeaturetocarronthefeaturefusion,andafter thedeeperattention mechanismprocessing,itobtainedtheclassificationresultofthecorrespondingaspectbytheclassifier.Theexperimentalresults ofthe SemEval-2O14 Task4 and SemEval-2017Task4 datasets show that this method has further improved the acuracy and stabilityof the atention-based sentiment analysis model inthe aspect sentiment analysis.The introductionof aspect features anddeeper atention mechanisms isof great significance tothetask of sentiment analysis basedonaspect,which provides method support for public opinion analysis, question answering system and text reasoning.
+
+Key words: aspect sentiment analysis; deeper attention; LSTM; deep learning; natural language processing
+
+# 0 引言
+
+随着互联网行业的发展，电商评论和社交平台的推广，积累了大量的短文本信息数据。通过提取这些数据中蕴涵的观点和情感，能够帮助人们更好地作一些决策和推广。利用自然语言处理的技术进行文本情感分析，已成为国内外研究的热点领域[1]。
+
+情感分析，也称为观点挖掘，作为NLP领域和计算语言学的基本任务，近几年在工业界和学术界受到越来越多的关注。情感分析任务的关键是去理解用户在社交媒体和产品评论中产生的文本信息，从中挖掘情感信息[2]。
+
+近年来，基于深度学习的方法在许多自然语言处理的任务中有着优异的表现，如机器翻译、语义识别、问答系统和文本摘要等。同时，在情感分析任务中，深度学习模型在没有人工标注的特征工程前提下，提高了分类的准确率。Socher 等人[3]将递归神经网络用于情感树的构建，提高了情感检测的准确率。Tang等人[4]采用循环神经网络建立篇章级循环神经网络模型，该模型相比标准的循环神经网络模型具有较高的优越性，在情感分类任务中取得了进步。Tai等人[5改进标准的LSTM模型，引入Tree-LSTM模型，该模型建立了树状LSTM的网络拓扑结构，在情感分类任务中有较好的表现。
+
+注意力机制来源于人脑关注事物的关键部分分配更多的注意力，通过计算注意力概率分布，对关键性输入进行突出，从而对传统的模型起到优化作用。注意力机制最早由Mnih等人[6将循环神经网络模型中引入注意力机制，从而提高了图像分类的准确率。随后，注意力机制在机器翻译[和文本摘要[8]等自然语言处理领域中取得了很好的效果。Yang等人[9]提出的层级注意力网络用于文本分类，分类的效果要比之前提出的模型效果好。Pavlopoulos等人[lo]提出深层注意力机制，将其应用到审核用户评论，取得了比RNN更好的效果。在自然语言处理领域，注意力机制能够使模型关注句子中重要的部分。在情感分析任务中，许多模型已经利用注意力能够获取句子中重要信息这一优势，从而获取到比较理想的效果。
+
+# 1 相关工作
+
+# 1.1特定主题情感分析
+
+特定主题情感分类是细粒度情感分类任务，该任务的目标是对于给定的句子和句子中出现的主题，推测相应主题对应的情感极性[1,12]，如Positive、Negative 和 Neutral。例如，在“thefood is great and they have a good selection of wines at reasonableprices."中，主题"food"的情感极性是Positive,然而主题“price”的情感极性是Negative。本文中的主题信息来源于已提取好的训练集和测试集，在实际应用中，可以通过TF-IDF或者LDA来在关键词中自动提取主题信息。目前，大多数文献中的方法尝试去挖掘整个句子的情感极性，没有考虑针对特定主题的情况。传统的方法经过一系列的人工标注特征来解决这个问题。随着情感词典的不断构建，情感分析任务使用基于词典的特征进行分析。大多数的研究集中在利用特征构建情感分类器，包括词袋模型和情感词典的构建，具有代表性的方法包括基于SVM的方法[13和基于神经网络的方法[14。神经网络模型能够在不需要关注特征工程能够很好地学习到数据中的特征表示，并且能够在上下文与主题信息之间更好地获取到语义关系和情感信息。
+
+神经网络模型能够有效地学习到特征表示，因此，能够提高特定主题情感分类任务。Tang 等人[15]提出的TD-LSTM和TC-LSTM模型，考虑了主题信息，在特定主题的情感分类任务中，提高了分类的准确率。TC-LSTM通过平均主题信息中包含的词向量获取主题词向量。Wang 等人[16]提出的基于注意力机制的特定主题情感分析，使注意力机制能在不同注意力被输入时，关注句子的不同部分，该模型也在特定主题情感分类任务上取得了比较好的效果。Chen等人[17提出的基于循环注意力记忆网络的特定主题情感分析，将循环神经网络把多个位置注意力机制进行非线性的组合，使模型能够处理更复杂的句子。Tang等人[18]提出的基于深度记忆网络的特定主题情感分析，将内容注意力与位置注意力构建深度记忆网络，该模型能够捕获特定主题情感分类中重要的上下文单词，在处理速度和准确度上有提升。梁斌等人[19]提出的基于多注意力卷积神经网络的特定目标情感分析，融合三种注意力机制构造多注意力卷积神经网络模型，取得了比普通卷积神经网络、基于单注意力机制的卷积神经网络和基于注意力机制的LSTM网络更好的情感分类效果Baziotis等人[20提出的基于注意力的深度LSTM模型，在
+
+SemEval-2017情感分类任务中，取得了比较好的效果。从这些研究工作中可以看出，融合特定主题和注意力的深度学习模型已经在特定主题情感分析任务中取得了很多的成果。但是这些模型没有充分融合经过特征提取后的主题信息，对于注意力的应用，也未能将多层注意力机制应用到情感分析的任务中。
+
+融合主题信息的深度学习模型，虽然将主题信息作为单独的输入，改善了主题信息在文本中的作用，但是不能够把文本信息中影响主题的关键部分提取出来。基于注意力的深度学习模型能够获取到文本中关键信息，但是忽略了主题信息的作用。融合主题信息和单层注意力的深度学习模型，如Wang提出的ATAE-LSTM[16]，将主题信息与文本信息进行连接作为输入，采用单层注意力，未能充分有效的利用主题信息和文本中的关键信息。本文构建的融合主题特征的深度注意力的LSTM模型，将文本信息和主题信息同时作为输入，利用双向LSTM共享权重的方式进行训练，将得到的文本特征和主题特征进行融合，将得到的融合特征利用深层注意力机制进行处理，有效识别文本中不同主题的情感信息。
+
+# 1.2 LSTM
+
+循环神经网络（RNN）改进了前馈神经网络，但是循环神经网络依然面临着梯度消失和梯度爆炸问题。为了解决该问题，Hochreiter等人[2提出和实现了长短记忆网络。在一个LSTM模型中，包括输入门 $i ^ { t }$ 、遗忘门 $f ^ { t }$ 、输出门 $\boldsymbol { o } ^ { t }$ 和记忆单元 $\boldsymbol { c } ^ { t }$ 。输入词向量序列 $\{ x _ { 1 } , x _ { 2 } , \cdots , x _ { \mathrm { n } } \}$ ， $x _ { t }$ 是一个LSTM单元的输入，表示输入序列中一个单词的词向量。 $h _ { { _ t } }$ 表示隐藏层向量。LSTM中每个单元的三个门和记忆单元的计算如下：
+
+$$
+X = { \left[ \begin{array} { l } { h _ { t - 1 } } \\ { x _ { t } } \end{array} \right] }
+$$
+
+$$
+f _ { t } = \sigma ( W _ { f } \cdot X + b _ { f } )
+$$
+
+$$
+i _ { t } = \sigma ( W _ { i } \cdot X + b _ { i } )
+$$
+
+$$
+o _ { t } = \sigma ( W _ { O } \cdot X + b _ { O } )
+$$
+
+$$
+c _ { t } = f _ { t } \odot c _ { t - 1 } + i _ { t } \odot t a n h ( W _ { c } \cdot X + b _ { c } )
+$$
+
+$$
+h _ { t } = o _ { t } \odot \operatorname { t a n h } ( c _ { t } )
+$$
+
+其中： $W _ { i } , W _ { f } , W _ { o } \in R ^ { d \times 2 d }$ 表示权重矩阵； $b _ { i } , b _ { f } , b _ { o } \in R ^ { d }$ ，表示LSTM在训练过程中学习到的偏置值； $\sigma$ 表示激活函数； $\odot$ 表示逐个点乘积。
+
+# 1.3注意力机制
+
+注意力机制能够使模型更多地关注文本中的重要信息。根据 LSTM 产生的隐藏层特征 $H = [ h _ { 1 } , \cdots , h _ { N } ]$ 构建注意力机制的输入， $H \epsilon R ^ { d \times N }$ ，其中： $^ d$ 表示隐藏层的长度； $N$ 表示输入句子的长度。注意力机制将会产生注意力权重矩阵 $\mathfrak { a }$ 和特征表示 $\nu$ 。
+
+$$
+u _ { i } = t a n h \big ( W _ { s } h _ { i } + b _ { s } \big )
+$$
+
+$$
+\alpha _ { i } = \frac { e x p \big ( { u _ { i } } \big ) } { \sum _ { i } e x p \big ( { u _ { i } } \big ) } , \ \Sigma i \alpha _ { i } = 1
+$$
+
+$$
+\begin{array} { r } { \nu = \sum _ { i } \alpha _ { i } h _ { i } } \end{array}
+$$
+
+# 2 融合主题特征的深层注意力的LSTM模型
+
+为了关注更多有价值的信息，本文提出了融合主题的深层注意力的 LSTM 模型（deeper attention LSTM with aspectembedding，AE-DATT-LSTM)，利用改进后的注意力模型和两层双向LSTM构成，能够更好地提取主题信息和情感信息。深度注意力LSTM模型共包含词向量层、双向LSTM层、池化层、特征融合层、注意力层，其中这五层的构建过程如图1所示。
+
+# 2.1任务定义
+
+对于由 $n$ 个词组成的句子或文本 $\mathbf { S } = \{ w _ { 1 } , w _ { 2 } , \cdots , w _ { i } , \cdots , w _ { n } \}$ 以下内容用文本作为句子的统称， $w _ { i }$ 为一个文本中出现的主题词。特定主题情感分析的目标是决定文本 $s$ 中对于主题词 $w _ { i }$ 的情感极性。例如，文本“If you want acasual neighborhood bistrothat has great food and excellent service,this is the place."，对于主题"food"来说，情感极性是Positive，但是对于主题"service”来说，情感极性是Positive。当处理一个文本集的时，将每个词映射到低维度、连续的和实值向量，也称做词向量。所有的词向量由一个词向量矩阵 $\boldsymbol { L } \in \boldsymbol { R } ^ { d \times | V | }$ ，其中： $^ d$ 表示词向量的维度；$\vert V \vert$ 表示词典的大小。文本中词 $w _ { i }$ 表示的词向量为 $w _ { i } ^ { s } \in R ^ { d \times 1 }$ ，主题词 $w _ { j }$ 表示的词向量为 $w _ { j } ^ { t } \in R ^ { d \times 1 }$ ， $w _ { i }$ 和 $\boldsymbol { w } _ { j }$ 为词向量矩阵 $L$ 中的一列。
+
+![](images/e9947449da76319b69643ea04a9799287341165a4002f5cd7dbc8948c603a770.jpg)  
+图1融合主题特征的深层注意力的LSTM模型
+
+# 2.2 构建词向量输入层
+
+融合主题特征的深层注意力的LSTM网络的输入由两部分构成，将文本中词的输入序列转换成词向量为$\boldsymbol { w } ^ { s } = \left\{ \boldsymbol { w } _ { 1 } ^ { s } , \boldsymbol { w } _ { 2 } ^ { s } , \cdots , \boldsymbol { w } _ { n } ^ { s } \right\}$ ，其中， $n$ 表示文本中词的数量；将文本中的主题词转换为词向量位置 $\boldsymbol { w ^ { t } } = \left\{ \boldsymbol { w } _ { 1 } ^ { t } , \boldsymbol { w } _ { 2 } ^ { t } , \cdots , \boldsymbol { w } _ { m } ^ { t } \right\}$ ，其中， $m$ 表示文本中主题的词的数量。
+
+# 2.3 构建双向LSTM
+
+为了能够在文本词向量与主题词向量之间更有意义的比较，本文使用共享权重的双向LSTM将文本和主题映射到相同向量空间。双向LSTM在文本层面产生的特征序列为$H ^ { s } = \left\{ h _ { 1 } ^ { s } , h _ { 2 } ^ { s } , \cdots , h _ { n } ^ { s } \right\}$ ，在主题层面产生的特征向量为 $\Im H ^ { t } = \left\{ h _ { 1 } ^ { t } , h _ { 2 } ^ { t } , \cdots , h _ { m } ^ { t } \right\}$ ，每一部分特征向量都是由前向和后项LSTM 连接产生。 $h _ { i } ^ { j } = \overrightarrow { h _ { i } ^ { j } } \vert \vert \overleftarrow { h _ { i } ^ { j } }$ ， $h _ { i } ^ { j } \in R ^ { 2 L }$ ， $j \in \left\{ s , t \right\}$ ，其中，=表示连接操作； $L$ 表示每个LSTM的大小。
+
+# 2.4 池化层
+
+本文使用一个池化层将主题特征进行聚合，进而产生单一的特征。池化层利用 mean over time 生成主题特征， $\overline { { h ^ { t } } } = \frac { 1 } { m } \sum _ { 1 } ^ { m } h _ { i } ^ { t }$ 。
+
+# 2.5特征融合层
+
+将文本经过LSTM产生的特征与经过池化层将主题聚合后的特征进行连接，对每一个词形成融合特征， $\begin{array} { r } { \dot { h _ { i } ^ { * } } = h _ { i } ^ { s } \Vdash \overline { { h ^ { t } } } } \end{array}$ ，$h _ { i } ^ { j } \in R ^ { 4 L }$ 。
+
+# 2.6 深层注意力
+
+文本中针对特定主题的情感分析，需要更多地关注句子中的主题信息和情感词信息。因此本文引入多层MLP构建的深度注意力机制去提取句子中含有重要意义的主题词和情感词。
+
+为了增强对于句子中针对主题表达情感词向量的贡献率，采用深层感知注意力机制，通过多层MLP实现模型。通过 $l$ 层MLP 深层语义注意力，产生注意力权重 $\alpha _ { i }$ 。
+
+$$
+\boldsymbol { \alpha } _ { i } ^ { ( 1 ) } = R E L U \biggl ( \boldsymbol { W } ^ { ( 1 ) } h _ { i } ^ { \prime } + \boldsymbol { b } ^ { ( 1 ) } \biggr )
+$$
+
+$$
+\alpha _ { i } ^ { ( l - 1 ) } = R E L U \Biggl ( W ^ { \left( l - 1 \right) } \alpha _ { i } ^ { ( l - 2 ) } + b ^ { ( l - 1 ) } \Biggr )
+$$
+
+$$
+\alpha _ { i } ^ { ( l ) } = W ^ { ( l ) } \alpha _ { i } ^ { ( l - 1 ) } + b ^ { ( l ) }
+$$
+
+$$
+\alpha _ { i } = { s o f t m a x } \biggl ( \alpha _ { i } ^ { ( l ) } ; \alpha _ { 1 } ^ { ( l ) } , \cdots , \alpha _ { n } ^ { ( l ) } \biggr ) , \sum _ { i = 1 } ^ { n } \alpha _ { i } = 1
+$$
+
+$$
+\boldsymbol { h } ^ { * } = \sum _ { i = 1 } ^ { n } \alpha _ { i } h _ { i } ^ { \prime } , _ { r \in R } \boldsymbol { 4 } \boldsymbol { L }
+$$
+
+$w ^ { ( 1 ) } , w ^ { ( 2 ) } , \cdot \cdot \cdot , w ^ { ( l ) } , ~ { } _ { b } ^ { ( 1 ) } , b ^ { ( 2 ) } , \cdot \cdot \cdot , b ^ { ( l ) }$ 在训练中得到。
+
+将 $\boldsymbol { h } ^ { * }$ 作为情感分类的特征，利用softmax分类器，将文本进行情感分类。
+
+$$
+p = s o f t m a x { \left( { W _ { h } h } ^ { * } + b _ { h } \right) }
+$$
+
+# 2.7模型训练
+
+本文的模型训练采用端到端的反向传播方式，目标函数（代价函数）采用交叉熵代价函数。将 $y$ 作为文本中已知目标主题分配的情感类别，将 $\hat { y }$ 作为文本中目标主题的预测情感类别。模型训练的目标是最小化所有句子中已知情感类别和预测情感类别的交叉熵。
+
+$$
+\mathit { l o s s } = - \sum _ { i } \sum _ { j } y _ { i } ^ { j } \log \hat { y } _ { i } ^ { j } + \lambda \| \theta \|
+$$
+
+其中： $i$ 表示句子的索引； $j$ 表类别的索引，共分为三类；λ表示 $L _ { 2 }$ 正则化，为代价函数的惩罚项； $\theta$ 表示设置的参数。
+
+# 3 实验
+
+本文将融合主题特征的深层注意力LSTM模型应用到特定主题情感分类任务上。在本文的实验中采用Pennington等人[22]提出的预训练好的300维Glove词向量进行初始化，词典的大小为 $1 . 9 \mathrm { M }$ 。对于词典中未出现的词，采用均匀分布 $U { \left( - \varepsilon , \varepsilon \right) }$ ，进行随机初始化，其中 $\varepsilon$ 设置为0.01。对于一个文本中已知的主题，目标是确定该主题的情感极性。例如，给定一个文本"Therestaurantwastoo expensive."，该文本的主题词是price，情感极性是Negative。该情感分析模型运行在Unbuntu16.04系统，运行环境为Keras1.2.2和 NVIDIAGTX1050ti显卡。
+
+# 3.1实验数据
+
+本文实验采用的英文数据为 SemEval-2014 Task4 数据集[]和 SemEval-2017 Task4 数据集[12]。SemEval是语义评测比赛任务的数据集。SemEval-2014 Task4 包含Laptop 和Restaurant 两个数据集。由于只有Restaurant数据集包含基于主题的情感极性，所以本文实验采用Restaurant数据集，包含顾客的评论文本，其中有 Positive、Neutral 和 Negative 三种情感，{food,price,service,ambience,anecdotes/miscellaneous}五种主题。SemEval-2017Task4包含Twitter的评论数据，该评论的主题从文本中摘取，属于主题的情感极性包含Positive 和Negative 两种。每条评论都包含一系列的主题和主题相关的情感极性。本文的目标是区分文本中不同主题的情感极性，包括Positive和Negative两种情感。本文实验所需要的数据统计如表1所示。
+
+表1实验数据统计  
+
+<html><body><table><tr><td>Data Set</td><td></td><td>Positive</td><td>Neutral</td><td>Negative</td></tr><tr><td rowspan="2">Restaurant</td><td>Train</td><td>2179</td><td>500</td><td>839</td></tr><tr><td>Test</td><td>657</td><td>94</td><td>222</td></tr><tr><td rowspan="2">Twitter</td><td>Train</td><td>14 897</td><td></td><td>3997</td></tr><tr><td>Test</td><td>2 463</td><td></td><td>3 722</td></tr></table></body></html>
+
+# 3.2实验参数设置
+
+文本中词向量的维度、主题词向量的维度和经过LSTM输出的特征连接后的维度都为300。注意力权重的维度和文本中的长度是一致的。通过每个batch中64个样本的方式进行模型的训练，设置Adam的学习率为0.001，设置代价函数的惩罚项为0.001。深层注意力的层数设置为4层。Dropout设置为0.5。同时设置LSTM的层数为64层，双向LSTM的层数为128层。
+
+# 3.3实验对比
+
+将本文提出的融合主题词向量的深层注意力LSTM方法AE-DATT-LSTM与以下六种方法在两个不同数据集上进行实验：
+
+a)LSTM。标准的LSTM模型[2I]不能获取到文本中任何的主题信息。虽然给予不同的主题，但得到情感极性都一致。b）TD-LSTM。Tang 提出来的 TD-LSTM方法[15]，使用前向和后向LSTM方法在主题词之前和之后提取信息。最后一个step，模型 TD-LSTM采用LSTM 的输出特征来表示预测内容分类。TD-LSTM 通过将一个主题特征作为一个目标改善情感分类的表现。但是由于没有在TD-LSTM 模型中应用注意力机制，并不能够获取文本中对于给定主题的重要词信息。
+
+c）TC-LSTM。Tang改进了TD-LSTM模型。TC-LSTM模型[15]在原来TD-LSTM的基础上，将主题向量引入一个句子的特征表示。TC-LSTM模型引入了主题连接组件，能够更好地利用主题词和文本中每个词，将其连接组成一个文本的特征表示。
+
+d）AT-LSTM。标准的LSTM对于基于主题的情感分类不能够侦测到文本中的重要信息。为了解决这个问题，Wang 引入了注意力机制，提出 AT-LSTM 模型[16]，能够获取到文本中给定主题的关键部分。
+
+e）ATAE-LSTM。AE-LSTM中使用主题信息的方式让主题词向量在注意力权重中起到了重要的作用。为了更好地利用主题信息，Wang改进了AE-LSTM，提出ATAE-LSTM[16]，将主题词向量连接到每个单词的输入向量。
+
+f)AE-ATT-BLSTM。融合主题的单层注意力LSTM方法。该方法主要在特征融合层之后加一个基于单层MLP的注意力。
+
+# 3.4实验结果与实验分析
+
+本文选取SemEval-2014Task4中Restaurant数据集的训练样本作为融合主题特征的深层注意力LSTM方法的训练集进行模型训练和交叉校验，采用其测试样例进行测试，得到的结果如表2所示。其中表2给出的是六种模型在Restaurant数据集上的三种情感极性（Positive、Negative 和Neutral）和两种情感极性（Positive 和Negative）的分类准确率效果。本文提出的融合主题特征的深层注意力LSTM模型比其他六种模型都能提高分类的准确率。引入主题特征的模型比无主题特征的模型效果要更好，引入注意力特征的比无注意力特征的效果要好。因此可以得出，主题特征和注意力机制的引入，对于基于特定主题的情感分类任务具有重要的意义。融合主题特征的深层注意力LSTM模型要比单引入注意力的和单引入主题的效果都要好。
+
+表2六种方法在Restaurant数据集的分类准确率  
+
+<html><body><table><tr><td>Models</td><td>Pos/Neg/Neu</td><td>Pos/Neg</td></tr><tr><td>LSTM</td><td>82.0</td><td>88.3</td></tr><tr><td>TD-LSTM</td><td>82.6</td><td>89.1</td></tr><tr><td>TC-LSTM</td><td>81.9</td><td>89.2</td></tr><tr><td>AT-LSTM</td><td>83.1</td><td>89.6</td></tr><tr><td>ATAE-LSTM</td><td>84.0</td><td>89.9</td></tr><tr><td>AE-ATT-LSTM</td><td>85.2</td><td>90.4</td></tr><tr><td>AE-DATT-LSTM</td><td>86.3</td><td>90.7</td></tr></table></body></html>
+
+本文将融合主题特征的深层注意力的LSTM模型在50次epoch过程中的训练过程进行分析，其中包含accuracy、precision和recall的变化趋势图。图2展示的是融合主题的深层LSTM模型在50个epoch内的训练和测试过程，包括模型中损失函数的变化，训练、交叉验证和测试中accuracy、precision 和 recall的变化情况。在测试阶段，当第18个epoch时，分类效果取得最优，此时的F值为87.64。
+
+![](images/9c074515f68754ed5cbe6d376b651e85542f04a8c510a4bcaa60a3a2d3499673.jpg)  
+图2融合主题的深层注意力的LSTM训练过程
+
+图3展示的是融合主题特征的单层注意力和深层注意力LSTM准确率对比。在50个epoch训练过程中，融合主题特征的深层注意力LSTM模型要比单层注意力LSTM 模型的整体效果要好。图4展示的是单层注意力和深层注意力的F1值的对比。从中可以得出深层注意力LSTM模型要比单层注意力模型在整体上效果更佳。
+
+为了验证本文提出的方法在不同数据集上都能取得较好的情感分类效果，将AE-ATT-LSTM与AE-DATT-LSTM模型在SemEval-2017Task4中Twitter的评论数据集上进行实验，实验结果如表3所示。实验结果表明，该任务中融合主题特征的多层注意力的LSTM模型要比融合主题特征的单层注意力模型在分类的准确率上取得了更好的效果。
+
+![](images/068fd98110e3c35ac25bb3b122bcf138af63cce7024deb663ad5842ad53f7297.jpg)  
+图3融合主题的单层与深层注意力的准确率对比
+
+![](images/1e640234ed858d8ec4525a9d15d2e029d8add90274965ceff5e8ea8cdf128576.jpg)  
+图4融合主题的单层与深层注意力的F值对比
+
+表3Twitter数据集分类准确率  
+
+<html><body><table><tr><td>Models</td><td>Positive/Negative</td></tr><tr><td>AE-ATT-LSTM</td><td>85.08</td></tr><tr><td>AE-DATT-LSTM</td><td>85.62</td></tr></table></body></html>
+
+# 3.5 可视化注意力机制
+
+为了更好地理解深层注意力模型，本文抽取出Restaurant数据集中的一个样本，可视化文本中上下文单词的权重。图5展示的是基于深层注意力LSTM模型的结果。文本(a)表示的主题是“food”，文本(b)表示的主题是“service”。颜色深度表示在注意力向量α中权重的重要等级。注意力能够动态的侦测到整个文本中的针对已知主题的情感单词，即使文本中包含有其他主题和其他情感词。
+
+![](images/14d9da4221a6b196d16f74f290366ff43a9da4e25b3065c977bd40754d1f43a3.jpg)  
+图5特定主题文本
+
+# 4 结束语
+
+针对特定主题情感分类任务中，大多数方法没有对主题信息和情感信息进行有效的结合，本文构建了融合主题特征的深层注意力LSTM方法，将主题词向量和文本词向量通过共享权重的双向LSTM模型进行训练，从而进行特征融合。经过深层注意力机制的处理，当给出文本中不同的主题时，该方法能够获取到文本中的不同信息。通过在不同评测集上的对比实验表明，该方法比本文提到的其他方法在准确率和稳定性上有了进一步的提升，从而能够更好的解决特定主题情感分析任务。
+
+本文方法未考虑词性信息，如何将词性注意力方法引入到特定主题情感分析任务中，是下一步工作的重点。本文接下来将针对词性问题进行改进。
+
+# 参考文献：
+
+[1]王仲远，程建鹏，王浩勋，等.短文本理解研究[J].计算机研究与发 展,2016,53 (2):262-269.   
+[2]Liu Bing. Sentiment analysis and opinion mining [J]. Synthesis Lectures on Human Language Technologies,2012,5 (1): 1-167.   
+[3]Socher R,Perelygin A,Wu J,et al.Recursive deep models for semantic compositionality over a sentiment treebank [C]// Proc of Conference on Empirical Methods in Natural Language Processing. 2013.   
+[4]Tang D Y,Qin B,Liu T.Document modeling with gated recurrent neural network for sentiment classification [C]// Proc of Conference on Empirical Methods in Natural Language Processing.2015:1422-1432.   
+[5]Tai K S,Socher R,Manning S D.Improved semantic representations from tree-structured long short-term memory networks [C]// Proc of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing. 2015: 1556-1566.   
+[6]Minh V,Graves N H A,Kavukcuoglu K.Recurrent models of visual attention [Cl// Advances in Neural Information Processing Systems.2014: 2204-2212.   
+[7]Bahdanau D,Cho K,Bengio Y. Neural machine translation by jointly learning to align and translate [Cl// Proc of International Conference on Learning Representations. 2015.   
+[8] Rush A M, Chopra S,Weston J.A neural attention model for sentence summarization [C]//Proc of Conference on Empirical Methods in Natural Language Processing.2015:379-389.   
+[9]Yang Z C,Yang DY,Dyer C,et al.Hierarchical attention networks for document classification [C]//Proc of NAACL-HLT.2016:1480-1489.   
+[10] Pavlopoulos J,Malakasiotis P,Androutsopoulos I.Deeper attention to abusive user content moderation [C]/ Proc of Conference on Empirical Methods in Natural Language Processing. 2017: 1136-1146.   
+[11]Pontiki M,Galanis D,Pavlopoulos J,et al.Semeval-2014 task4:aspect based sentiment analysis [C]//Proc of the 8th International Workshop on Semantic Evaluation.2014: 27-35.   
+[12] Rosenthal S,Farra N,Nakov P. SemEval-2O17 task4: sentiment analysis in twitter [C]// Proc of SemEval. 2017.   
+[13] Kiritchenko S,Zhu X D, Cherry C,et al. NRC-Canada-2014: detecting aspects and sentiment in customer reviews [C]//Proc of the 8th International Workshop on Semantic Evaluation. 2014: 437-442.   
+[14] Nguyen T H, Shirai K.PhraseRNN: phrase recursive neural network for aspect-based sentiment analyisi [C]// Proc of Conference on Empirical Methods in Natural Language Processing. 2015: 2509-2514.   
+[15] TangDY,QinB,FengXC,etal.EffectiveLSTMs for target-dependent sentiment classification [C]// Proc of the 26th International Conference on Computational Linguistics.2016: 3298-3307.   
+[16] Wang Y Q, Huang M, Zhao L,et al. Attention-based LSTMfor aspect-level sentiment classification [C]// Proc of Conference on Empirical Methods in Natural Language Processing. 2016: 606-615.   
+[17] Chen P, Sun Z Q,Bing L D,et al. Recurrent attention network on memory for aspect sentiment analysis [C]// Proc of Conference on Empirical Methods in Natural Language Processing. 2017: 463-472.   
+[18] Tang D Y, Qin B,Liu T.Aspect level sentiment classification with deep memory network [C]// Proc of Conference on Empirical Methods in Natural Language Processing.2016: 214-224.   
+[19]梁斌，刘全，徐进，等．基于多注意力卷积神经网络的特定目标情感分 析[J]．计算机研究与发展,2017,54(8):1724-1735.   
+[20] Baziotis C,Pelekis N,Doulkeridis C.DataStoriesat SemEval-2017 task 4: deep LSTM with attention for message-level and topic-based sentiment analysis [C]// Proc of the 11th International Workshop on Semantic Evaluations. 2017: 747-754.   
+[21] Hochreiter S,Schmidhuber J.Long short-term memory [J].Neural Computation,1997,9(8): 1735-1780.   
+[22] Pennington J,Socher R,Manning C D.GloVe:global vectors for word representation [C]//Proc of Conference on Empirical Methods in Natural Language Processing. 2014: 1532-1543.

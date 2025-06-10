@@ -1,0 +1,795 @@
+[
+    {
+        "type": "text",
+        "text": "Spherical Relativistic Hartree theory in a Woods-Saxon basis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shan-Gui Zhou\\* School of Physics，Peking University，Beijing 10o871，China Max-Planck-Institut firKernphysik,69o29Heidelberg，Germanyt Institute of Theoretical Physics， Chinese Academy of Sciences， Beijing 10oo80， China and Centerof Theoretical Nuclear Physics，National Laboratoryof Heavy Ion Accelerator，Lanzhou 730ooo，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jie Meng‡ School of Physics， Peking University，Beijing 100871，China Physikdepartment，Technische Universitat Minchen，85748 Garching，Germany Institute of Theoretical Physics， Chinese Academy of Sciences，Beijing 1Ooo80，China and Centerof Theoretical Nuclear Physics，NationalLaboratory of Heavy Ion Accelerator，Lanzhou 730oo，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "P. Ring\\$ Physikdepartment，Technische Universitit Munchen，85748 Garching，Germany (Dated: August 1, 2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Woods-Saxon basis has been suggested to replace the widely used harmonic oscillator basis for solving the relativistic mean field (RMF) theory in order to generalize it to study exotic nuclei.As examples,relativistic Hartree theory is solved for spherical nuclei ina Woods-Saxon basis obtained by solving either the Schrodinger equation or the Dirac equation (labelled as SRHSWS and SRHDWS, respectively and SRHWS for both). In SRHDWS,the negative levels in the Dirac Sea must be properly included.The basis in SRHDWS could be smaller than that in SRHSWS which will simplify the deformed problem.The results from SRHWS are compared in detail with those from solving the spherical relativistic Hartre theory in the harmonic oscillator basis (SRHHO)and those in the coordinate space (SRHR). All of these approaches give identical nuclear properties such as total binding energies and root mean square radi for stable nuclei. For exotic nuclei, e.g.， $^ { 7 2 }$ Ca, SRHWS satisfactorily reproduces the neutron density distribution from SRHR,while SRHHO fails. It is shown that the Woods-Saxon basis can be extended to more complicated situations for exotic nuclei where both deformation and pairing have to be taken into account. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:21.60.-n,21.10.Gv,21.10.-k,21.10.Dr ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The existence of an average field in atomic nuclei re vealed by the exceptional role of the nuclear magic numbers provides the foundation of the nuclear shell model and various mean field approaches [1,2,3]. This average field is believed to be approximated most closely by a Woods-Saxon(WS） potential [4] either from analyzing the radial dependence of the nuclear force or by deriving it from a microscopic two-body force. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the eigenfunctions for the WS potential can not be given analytically, as good approximations for stable nuclei,one often adopts the harmonic oscillator (HO) potential or the square well, in particular the former, in shell model calculations for both spherical [1] and deformed nuclei [5]. The HO eigenfunctions also often serve as a complete basis in solving equations in both nonrelativistic and relativistic mean field approximations, such as the Skyrme Hartree-Fock (SHF),Hartree-FockBogoliubov (HFB),relativistic Hartree (RH)and relativistic Hartree-Bogoliubov (RHB) theories. In these approaches,solution of corresponding equations is transformed to a matrix diagnolization problem which can be easily dealt with. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However,due to the incorrect asymptotic property of the HO wave functions,the expansion in the localized HO basis are not appropriate for the description of drip line nuclei [6,7,8] which display many interesting features because of the extremely weakly bound property, e.g.,the coupling between bound states and the continuum due to the pairing correlation,large spacial density distributions,possible modifications of shell structure,et al. One must improve the asymptotic behavior of HO wave functions, e.g., by performing a local scaling transformation [9]. However, one does not know the scaling parameter beforehand thus the predictive power in this method is lost. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A proper representation to solve the HFB or RHB equations for drip line nuclei is the coordinate space [7, 10,11, 12] where wave functions are approximated on a spatial lattice and the continuum is discretized by suitably large box boundary conditions.The HFB method solved in $\\boldsymbol { r }$ space can take fully into account all the meanfield effects of the coupling to the continuum [6,7,10, 13]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless for deformed nuclei, working in $r$ space becomes much more difficult and numerically very sophisticated [8]. Particularly,it become very time consuming when the pairing correlation is included. Therefore much effort is made towards a more efficient solution of HFB or RHB equations, e.g.,using natural orbitals [14] or working on basis-spline Galerkin lattices [15],etc.. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A reconciler between the HO basis and the $r$ space may be the WS basis because (i) the WS potential represents the nuclear average field more suitably than the HO potential and (ii) in principal there is no localization restrictions in the WS potential. Although analytical wave functions can not be given for the WS potential, one may easily find numerical solutions for a spherical WS potential in the $r$ space by virtue of various effective methods of solving ordinary differential equations [16]. One can still use a large box boundary condition to discretize the continuum. These WS wave functions can thus be used as a complete basis for spherical or deformed systems and one finally comes back to the familiar matrix diagnolization problem. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present work we restrict the application of this method to nuclei with spherical symmetry which largely facilitates the discussion of basic principles and allows presenting illustrations for the radial dependence of all relevant physical quantities like density distributions.We combine this approach with the relativistic Hartree theory[17] which provides a framework for describing the nuclear many body problem as a relativistic system of baryons and mesons and,together with its extensions with deformation and/or pairing included,have been successfully applied in calculations of nuclear matter and properties of finite nuclei throughout the periodic table [18,19]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The paper is organized as follows. In Sec. II, we give a brief reminder of the formalism of relativistic Hartree theory. The numerical details of solving it in the WS basis are given in Sec.III. In Sec.IV we present our results and compare them with those obtained in the HO basis and in the $r$ space.We also discuss the contribution from negative levels in the Dirac sea in the same section. Finally, the work is summarized in Sec.V. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Throughout the paper, the relativistic Hartree theories solved in the $r$ space,in the HO basis and in the WS basis are abbreviated as “SRHR”，“SRHHO” and “SRHWS” where the first “S” represents“spherical”. We use “SWS” and “DWS” to distinguish the WS basis which is obtained from solving the Schrodinger equation or the Dirac equation with initial WS potentials, respectively.Thus we have“SRHSWS” and“SRHDWS\" theories. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. BASICFORMALISMOFRELATIVISTIC HARTREETHEORY ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The starting point of the relativistic Hartree theory isaLagrangian density where nucleons are described as ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dirac spinors which interact via the exchange of several mesons ( $\\sigma , \\omega$ ，and $\\rho$ ）and the photon [17,18,19], ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\mathcal { L } } = \\displaystyle \\bar { \\psi } _ { i } \\left( i \\partial / \\partial - M \\right) \\psi _ { i } + \\displaystyle \\frac { 1 } { 2 } \\partial _ { \\mu } \\sigma \\partial ^ { \\mu } \\sigma - U ( \\sigma ) - g _ { \\sigma } \\bar { \\psi } _ { i } \\sigma \\psi _ { i } } } \\\\ { { \\displaystyle ~ - \\frac { 1 } { 4 } \\Omega _ { \\mu \\nu } \\Omega ^ { \\mu \\nu } + \\displaystyle \\frac { 1 } { 2 } m _ { \\omega } ^ { 2 } \\omega _ { \\mu } \\omega ^ { \\mu } - g _ { \\omega } \\bar { \\psi } _ { i } \\phi \\psi _ { i } } } \\\\ { { \\displaystyle ~ - \\frac { 1 } { 4 } \\vec { R } _ { \\mu \\nu } \\vec { R } ^ { \\mu \\nu } + \\displaystyle \\frac { 1 } { 2 } m _ { \\rho } ^ { 2 } \\vec { \\rho } _ { \\mu } \\vec { \\rho } ^ { \\mu } - g _ { \\rho } \\bar { \\psi } _ { i } \\beta \\vec { r } \\psi _ { i } } } \\\\ { { \\displaystyle ~ - \\frac { 1 } { 4 } F _ { \\mu \\nu } F ^ { \\mu \\nu } - e \\bar { \\psi } _ { i } \\frac { 1 - \\tau _ { 3 } } { 2 } A \\psi _ { i } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with the summation convention used and the summation over $i$ runs over all nucleons, ${ \\mathcal { k } } \\equiv \\gamma ^ { \\mu } x _ { \\mu } = \\gamma _ { \\mu } x ^ { \\mu }$ ， $M$ the nucleon mass, and $m _ { \\sigma }$ ， $g _ { \\sigma }$ ， $m _ { \\omega }$ ， $g _ { \\omega }$ ， $m _ { \\rho }$ ， $g _ { \\rho }$ masses and coupling constants of the respective mesons. The nonlinear self-coupling for the scalar mesons is given by [20] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( \\sigma ) = \\frac { 1 } { 2 } m _ { \\sigma } ^ { 2 } \\sigma ^ { 2 } + \\frac { g _ { 2 } } { 3 } \\sigma ^ { 3 } + \\frac { g _ { 3 } } { 4 } \\sigma ^ { 4 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and field tensors for the vector mesons and the photon fields are defined as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { \\Omega _ { \\mu \\nu } \\ = \\ \\partial _ { \\mu } \\omega _ { \\nu } - \\partial _ { \\nu } \\omega _ { \\mu } , } } \\\\ { { \\vec { R } _ { \\mu \\nu } \\ = \\ \\partial _ { \\mu } \\vec { \\rho } _ { \\nu } - \\partial _ { \\nu } \\vec { \\rho } _ { \\mu } - g _ { \\rho } \\big ( \\vec { \\rho } _ { \\mu } \\times \\vec { \\rho } _ { \\nu } \\big ) , } } \\\\ { { F _ { \\mu \\nu } \\ = \\ \\partial _ { \\mu } A _ { \\nu } - \\partial _ { \\nu } A _ { \\mu } . } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The classical variation principle gives the equations of motion for the nucleons,mesons and the photon. As in many applications,we study the ground state properties of nuclei with time reversal symmetry, thus the nucleon spinors are the eigenvectors of the stationary Dirac equation ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\pmb { \\alpha } \\cdot \\pmb { p } + V ( \\pmb { r } ) + \\beta ( M + S ( \\pmb { r } ) ) \\right] \\psi _ { i } ( \\pmb { r } ) = \\epsilon _ { i } \\psi _ { i } ( \\pmb { r } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and equations of motion for the mesons and the photon are ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\left( - \\Delta + \\partial _ { \\sigma } U ( \\sigma ) \\right) \\sigma ( { \\pmb r } ) = - g _ { \\sigma } \\rho _ { s } ( { \\pmb r } ) , } \\\\ { \\qquad \\left( - \\Delta + m _ { \\omega } ^ { 2 } \\right) \\omega ^ { 0 } ( { \\pmb r } ) = g _ { \\omega } \\rho _ { v } ( { \\pmb r } ) , } \\\\ { \\qquad \\left( - \\Delta + m _ { \\rho } ^ { 2 } \\right) \\rho ^ { 0 } ( { \\pmb r } ) = g _ { \\rho } \\rho _ { 3 } ( { \\pmb r } ) , } \\\\ { \\qquad - \\Delta A ^ { 0 } ( { \\pmb r } ) = e \\rho _ { p } ( { \\pmb r } ) , } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\omega ^ { 0 }$ and $A ^ { 0 }$ are time-like components of the vector $\\omega$ and the photon felds and $\\rho ^ { 0 }$ the 3-component of the time-like component of the iso-vector vector $\\rho$ meson.Equations(4) and (5) are coupled by the vector and scalar potentials ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { V ( r ) ~ = ~ g _ { \\omega } \\omega ^ { 0 } ( r ) + g _ { \\rho } \\tau _ { 3 } \\rho ^ { 0 } ( r ) + e \\frac { 1 - \\tau _ { 3 } } { 2 } A ^ { 0 } ( r ) , } } \\\\ { { S ( r ) ~ = ~ g _ { \\sigma } \\sigma ( r ) , } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and various densities ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\rho _ { s } ( \\pmb { r } ) = \\sum _ { i = 1 } ^ { A } \\bar { \\psi } _ { i } ( \\pmb { r } ) \\psi _ { i } ( \\pmb { r } ) , } \\\\ { \\rho _ { v } ( \\pmb { r } ) = \\sum _ { i = 1 } ^ { A } \\psi _ { i } ^ { \\dag } ( \\pmb { r } ) \\psi _ { i } ( \\pmb { r } ) , } \\\\ { \\rho _ { 3 } ( \\pmb { r } ) = \\sum _ { i = 1 } ^ { A } \\psi _ { i } ^ { \\dag } ( \\pmb { r } ) \\tau _ { 3 } \\psi _ { i } ( \\pmb { r } ) , } \\\\ { \\rho _ { c } ( \\pmb { r } ) = \\sum _ { i = 1 } ^ { A } \\psi _ { i } ^ { \\dag } ( \\pmb { r } ) \\displaystyle \\frac { 1 - \\tau _ { 3 } } { 2 } \\psi _ { i } ( \\pmb { r } ) . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For spherical nuclei,meson fields and densities depend only on the radial coordinate $r$ .The spinor is characterized by the angular momentum quantum numbers $( l , j )$ （20 $m$ ，the parity,the isospin $t = \\pm 1 / 2$ （“ $^ +$ ”for neutrons and“ $-$ ” for protons), and the radial quantum number $\\alpha$ . The Dirac spinor has the form ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { \\alpha \\kappa m } ( \\boldsymbol { r } , s , t ) = \\left( \\begin{array} { l } { i \\frac { G _ { \\alpha } ^ { \\kappa } ( r ) } { r } Y _ { j m } ^ { l } ( \\theta , \\phi ) } \\\\ { - \\frac { F _ { \\alpha } ^ { k } ( r ) } { r } Y _ { j m } ^ { l } ( \\theta , \\phi ) } \\end{array} \\right) \\chi _ { t _ { \\alpha } } ( t ) , j = l \\pm \\frac { 1 } { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with $G _ { \\alpha } ^ { \\kappa } ( r ) / r$ and $F _ { \\alpha } ^ { \\kappa } ( r ) / r$ the radial wave functions for the upper and lower components and $Y _ { j m } ^ { l } ( \\theta , \\phi )$ the spin spherical harmonics where $\\kappa = ( - 1 ) ^ { j + l + 1 / 2 } ( j + 1 / 2 )$ and （204号 $\\displaystyle { \\tilde { l } } = l + ( - 1 ) ^ { j + l - 1 / 2 }$ . The value of $\\kappa$ of the upper component is used to label a state both for normallevels in the Fermi sea and for negative ones in the Dirac sea. States with the same $\\kappa$ form a “block\".The radial equation of the Dirac spinor,Eq. (4),is reduced as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { \\epsilon _ { \\alpha } G _ { \\alpha } ^ { \\kappa } = \\left( - \\displaystyle { \\frac { \\partial } { \\partial r } } + \\displaystyle { \\frac { \\kappa } { r } } \\right) F _ { \\alpha } ^ { \\kappa } + \\left( M + S ( r ) + V ( r ) \\right) G _ { \\alpha } ^ { \\kappa } , } } \\\\ { { \\epsilon _ { \\alpha } F _ { \\alpha } ^ { \\kappa } = \\left( + \\displaystyle { \\frac { \\partial } { \\partial r } } + \\displaystyle { \\frac { \\kappa } { r } } \\right) G _ { \\alpha } ^ { \\kappa } - \\left( M + S ( r ) - V ( r ) \\right) F _ { \\alpha } ^ { \\kappa } . } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The meson field equations become simply radial Laplace equations of the form ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( - \\frac { \\partial ^ { 2 } } { \\partial r ^ { 2 } } - \\frac { 2 } { r } \\frac { \\partial } { \\partial r } + m _ { \\phi } ^ { 2 } \\right) \\phi ( r ) = s _ { \\phi } ( r ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$m _ { \\phi }$ are the meson masses for $\\phi = \\sigma , \\omega , \\rho$ and zero for the photon.The source terms are ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { \\phi } ( r ) = \\left\\{ \\begin{array} { l l } { - g _ { \\sigma } \\rho _ { s } ( r ) - g _ { 2 } \\sigma ^ { 2 } ( r ) - g _ { 3 } \\sigma ^ { 3 } ( r ) , \\mathrm { ~ f o r ~ } \\sigma , } \\\\ { g _ { \\omega } \\rho _ { v } ( r ) , } & { \\mathrm { ~ f o r ~ } \\omega , } \\\\ { g _ { \\rho } \\rho _ { 3 } ( r ) , } & { \\mathrm { ~ f o r ~ } \\rho , } \\\\ { e \\rho _ { c } ( r ) , } & { \\mathrm { ~ f o r ~ } A , } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { 4 \\pi r ^ { 2 } \\rho _ { s } ( r ) \\ = \\ \\sum _ { i = 1 } ^ { A } ( \\vert G _ { i } ( r ) \\vert ^ { 2 } - \\vert F _ { i } ( r ) \\vert ^ { 2 } ) , } \\\\ { 4 \\pi r ^ { 2 } \\rho _ { v } ( r ) \\ = \\ \\sum _ { i = 1 } ^ { A } ( \\vert G _ { i } ( r ) \\vert ^ { 2 } + \\vert F _ { i } ( r ) \\vert ^ { 2 } ) , } \\\\ { 4 \\pi r ^ { 2 } \\rho _ { 3 } ( r ) \\ = \\ \\sum _ { i = 1 } ^ { A } 2 t _ { i } ( \\vert G _ { i } ( r ) \\vert ^ { 2 } + \\vert F _ { i } ( r ) \\vert ^ { 2 } ) , } \\\\ { 4 \\pi r ^ { 2 } \\rho _ { c } ( r ) \\ = \\ \\sum _ { i = 1 } ^ { A } \\left( \\frac { 1 } { 2 } - t _ { i } \\right) ( \\vert G _ { i } ( r ) \\vert ^ { 2 } + \\vert F _ { i } ( r ) \\vert ^ { 2 } ) . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The above coupled equations have been solved in the $r$ space [21] and in the HO basis [22] with the no sea and the mean field approximation.Here we depict briefly the procedure of solving these coupled equations.With a set of estimated meson andphoton fields,the scalar and vector potentials are calculated and the radial Dirac equation is solved. Thus obtained nucleon wave functions are used to calculate the source term of each radial Laplace equation for mesons and the photon.New meson and photon fields are calculated from solving these Laplace equations. This procedure is iterated until a demanded accuracy is achieved. Laplace equations are usually solved using ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: Dependence of the average single particle energy, root mean square (rms) radius,and (r4)1/4 on the mesh size $\\Delta r$ for the SRHSWS theory. The meson and Coulomb fields are obtained from SRHR calculations with the parameter set NL3, $\\Delta r = 0 . 0 5$ fm, $R _ { \\mathrm { m a x } } = 3 0$ fm for $^ { 1 6 }$ O and 35 fm for ${ } ^ { 2 0 8 } \\mathrm { { P b } }$ In SRHSWS calculations, the parameter set NL3 is used. For $^ { 1 6 } \\mathrm { O }$ ， $R _ { \\mathrm { m a x } } = 4 r _ { 0 } A ^ { 1 / 3 } = 1 2 . 8$ fm, $E _ { \\mathrm { c u t } } = 3 0 0$ MeV. For $^ { 2 0 8 } \\mathrm { { P b } }$ ， $R _ { \\mathrm { m a x } } = 3 r _ { 0 } A ^ { 1 / 3 } = 2 2 . 6 ~ \\mathrm { f m } ,$ $E _ { \\mathrm { c u t } } = 2 0 0$ MeV. The first row gives results from solving the Dirac equation in the coordinate space. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d89d51c3c58a8100f6fc5233ba3874205529a59fd9fbe96f56cfdd945df5712.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>△r</td><td>Esp/A {r21/2</td><td>{r41/4</td><td>-Esp/A</td><td>{r2)1/2</td><td>{m4)1/4</td></tr><tr><td></td><td></td><td>160</td><td></td><td>208Pb</td><td></td></tr><tr><td></td><td>23.0375</td><td>2.5945</td><td>2.8900</td><td>23.3348 5.6315</td><td>5.9883</td></tr><tr><td>0.05</td><td>23.0375</td><td>2.5945</td><td>2.8900</td><td>23.3348 5.6315</td><td>5.9883</td></tr><tr><td>0.10</td><td>23.0376</td><td>2.5945</td><td>2.8899 23.3348</td><td>5.6315</td><td>5.9883</td></tr><tr><td>0.20</td><td>23.0385</td><td>2.5941</td><td>2.8896 23.3347</td><td>5.6315</td><td>5.9883</td></tr><tr><td>0.30</td><td>23.0430</td><td>2.5930</td><td>2.8889</td><td>23.3343 5.6314</td><td>5.9883</td></tr><tr><td>0.40</td><td>23.0420</td><td>2.5923</td><td>2.8885</td><td>23.3334 5.6315</td><td>5.9885</td></tr><tr><td>0.50</td><td>22.9887</td><td>2.5949</td><td>2.8936</td><td>23.3284 5.6319</td><td>5.9890</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "the Green's function method [21,22] though in Ref.[22] Laplace equations for mesons are solved in the HO basis.SRHR,SRHHO and SRHWS differ from each other mainly in how to solve the Dirac equation. In the following the numerical solution of the Dirac equation in the WS basis will be presented. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. SOLVINGTHEDIRACEQUATIONIN A WOODS-SAXONBASIS AND NUMERICAL DETAILS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A． Woods-Saxon basis from solving a Schrodinger equation (the SWS basis) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the Schrodinger equation with a spherical WoodsSaxon potential ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { W S } } ( r ) = \\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { V _ { 0 } } { 1 + e ^ { ( r - R _ { 0 } ) / a _ { 0 } } } , } & { r < R _ { \\mathrm { m a x } } , } \\\\ { \\displaystyle \\infty , } & { r \\ge R _ { \\mathrm { m a x } } , } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { \\mathrm { m a x } }$ is introduced for practical reasons to define the box boundary, the eigenfunction can be written as $\\phi _ { n l m _ { l } } ( \\pmb { r } ) = R _ { n l } ( r ) Y _ { l m _ { l } } ( \\theta , \\phi )$ . Its radial Schrodinger equation isderived as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { [ - \\frac { 1 } { 2 M } ( \\frac { 1 } { r ^ { 2 } } \\frac { \\partial } { \\partial r } r ^ { 2 } \\frac { \\partial } { \\partial r } - \\frac { l ( l + 1 ) } { r ^ { 2 } } ) + V _ { \\mathrm { W S } } ( r ) ] R _ { n l } ( r ) } } \\\\ & { = } & { E _ { n l } R _ { n l } ( r ) . \\qquad ( 1 4 \\frac { \\quad 1 } { r ^ { 2 } } ) ^ { \\quad } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Equation(14) is solved on a discretized radial mesh with a mesh size $\\Delta r$ ： $R _ { \\mathrm { m a x } } \\left( \\Delta r \\right)$ should be chosen larger (smaller) enough to make sure that the final results do not depend on it. The radial wave functions thus obtained form a complete basis, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ R _ { n l } ( r ) ; n = 0 , 1 , \\cdots ; l = 0 , 1 , \\cdots , n \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/91b659e5bc483baae657e446cd9aff030ddab04add450a165ecaaabbbb04fde3.jpg",
+        "table_caption": [
+            "TABLE II: Dependence of the average single particle energy, rms radius, and $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ on the difference $\\Delta n = \\tilde { n } _ { \\mathrm { m a x } } - n _ { \\mathrm { m a x } }$ for the SRHSWS theory.The meson and Coulomb fields are obtained from SRHR calculations with the parameter set NL3, $\\Delta r = 0 . 0 5$ fm, $R _ { \\mathrm { m a x } } = 3 0$ fm for $^ { 1 6 } \\mathrm { O }$ and $\\mathrm { 3 5 ~ f m }$ for （204号 ${ } ^ { 2 0 8 } \\mathrm { { P b } }$ In SRHSWS calculations,the parameter set NL3 is used.For $^ { 1 6 } \\mathrm { O }$ ，， $R _ { \\mathrm { m a x } } ~ = ~ 4 r _ { 0 } A ^ { 1 / 3 } ~ = ~ 1 2 . 8 ~ \\mathrm { f m }$ For $^ { 2 0 8 } \\mathrm { { P b } }$ （20 $R _ { \\mathrm { m a x } } = 3 r _ { 0 } A ^ { 1 / 3 } = 2 2 . 6$ fm. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>△n</td><td>Esp/A {r2)1/2</td><td>{r4)1/4</td><td>-Esp/A</td><td>(r2)1/2</td><td>{r4)1/4</td></tr><tr><td></td><td>I6O: Ecut = 100 MeV</td><td></td><td>208Pb:</td><td>Ecut =100 MeV</td><td></td></tr><tr><td>1</td><td>23.0382</td><td>2.5947</td><td>2.8920</td><td>23.3344</td><td>5.6315 5.9884</td></tr><tr><td>3</td><td>23.0326</td><td>2.5949</td><td>2.8913</td><td>23.3341 5.6315</td><td>5.9884</td></tr><tr><td>5</td><td>23.0298</td><td>2.5952</td><td>2.8915</td><td>23.3340 5.6315</td><td>5.9884</td></tr><tr><td>7</td><td>23.0290</td><td>2.5953</td><td>2.8915</td><td>23.3340 5.6315</td><td>5.9884</td></tr><tr><td>9</td><td>23.0289</td><td>2.5953</td><td>2.8915</td><td>23.3340</td><td>5.6315 5.9884</td></tr><tr><td></td><td>16O: Ecut = 300 MeV</td><td></td><td>208Pb:</td><td>Ecut =200MeV</td><td></td></tr><tr><td>1</td><td>23.0375</td><td>2.5945</td><td>2.8999</td><td>23.3348</td><td>5.6315 5.9883</td></tr><tr><td>3</td><td>23.0375</td><td>2.5945</td><td>2.8999</td><td>23.3348</td><td>5.6315 5.9883</td></tr><tr><td>5</td><td>23.0375</td><td>2.5945</td><td>2.8999</td><td>23.3347 5.6315</td><td>5.9883</td></tr><tr><td>7</td><td>23.0375</td><td>2.5945</td><td>2.8999</td><td>23.3347</td><td>5.6315 5.9883</td></tr><tr><td>9</td><td>23.0375</td><td>2.5945</td><td>2.8999</td><td>23.3347</td><td>5.6315 5.9883</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "in terms of which the radial part of the upper and the lower components of the Dirac spinor in Eq.(9) are expanded respectively as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle G _ { \\alpha } ^ { \\kappa } ( \\boldsymbol { r } ) = - i \\sum _ { n = 0 } ^ { n _ { \\mathrm { m a x } } } g _ { \\alpha n } r R _ { n l } ( \\boldsymbol { r } ) , } \\\\ { \\displaystyle F _ { \\alpha } ^ { \\kappa } ( \\boldsymbol { r } ) = - i \\sum _ { \\tilde { n } = 0 } ^ { \\tilde { n } _ { \\mathrm { m a x } } } f _ { \\alpha \\tilde { n } } r R _ { \\tilde { n } \\tilde { l } } ( \\boldsymbol { r } ) . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The radial Dirac equation, Eq. (9),is transformed into the WS basis as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c c } { { A _ { m n } } } & { { B _ { m \\tilde { n } } } } \\\\ { { \\mathcal { C } _ { \\tilde { m } n } } } & { { \\mathcal { D } _ { \\tilde { m } \\tilde { n } } } } \\end{array} \\right) \\left( \\begin{array} { c } { { g _ { \\alpha n } } } \\\\ { { f _ { \\alpha \\tilde { n } } } } \\end{array} \\right) = \\epsilon _ { \\alpha } \\left( \\begin{array} { c } { { g _ { \\alpha n } } } \\\\ { { f _ { \\alpha \\tilde { n } } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the matrix elements are calculated as follows ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle { \\mathcal { A } } _ { m n } = \\int _ { 0 } ^ { R _ { \\mathrm { m a x } } } r ^ { 2 } d r R _ { m l } ( r ) \\left( V ( r ) + S ( r ) + M \\right) R _ { n l } ( r ) , } \\\\ { \\displaystyle \\mathcal { B } _ { m \\tilde { n } } = \\int _ { 0 } ^ { R _ { \\mathrm { m a x } } } r ^ { 2 } d r R _ { m l } ( r ) \\left( + \\frac { \\partial } { \\partial r } - \\frac { \\kappa _ { \\alpha } - 1 } { r } \\right) R _ { \\tilde { n } \\tilde { l } } ( r ) , } \\\\ { \\displaystyle \\mathcal { C } _ { \\tilde { m } n } = \\int _ { 0 } ^ { R _ { \\mathrm { m a x } } } r ^ { 2 } d r R _ { \\tilde { m } \\tilde { l } } ( r ) \\left( - \\frac { \\partial } { \\partial r } - \\frac { \\kappa _ { \\alpha } + 1 } { r } \\right) R _ { n l } ( r ) , } \\\\ { \\displaystyle \\mathcal { D } _ { \\tilde { m } \\tilde { n } } = \\int _ { 0 } ^ { R _ { \\mathrm { m a x } } } r ^ { 2 } d r R _ { \\tilde { m } \\tilde { l } } ( r ) \\left( V ( r ) - S ( r ) - M \\right) R _ { \\tilde { n } \\tilde { l } } ( r ) . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In practical calculations,an energy cutoff $E _ { \\mathrm { c u t } }$ (relative to the nucleon mass $M$ ）is used to determine the cutoff of the radial quantum number $n _ { \\mathrm { m a x } }$ for each block.In the expansion of the corresponding lower component，we take $\\tilde { n } _ { \\mathrm { m a x } } = n _ { \\mathrm { m a x } } + \\Delta n$ with $\\Delta n \\geq 1$ in order to avoid spurious states [22]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The following Woods-Saxon parameters have been used according to Ref. [24] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { V _ { 0 } = ( - 5 1 \\pm 3 3 ( N - Z ) / A ) \\ \\mathrm { { M e V } } , } \\\\ { R _ { 0 } = 1 . 2 7 A ^ { 1 / 3 } \\ \\mathrm { { f m } } , \\ a _ { 0 } = 0 . 6 7 \\ \\mathrm { { f m } , } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8dded6b4b802d0b60e831a1aaaf47e78eda76975c6edb4413f4001d84b906979.jpg",
+        "img_caption": [
+            "FIG.1:Deviations of the average single_particle energy $E ^ { \\mathrm { s p } } / A$ (the upper panel)， rms radius $\\langle r \\rangle ^ { 1 / 2 }$ (the middle panel), and $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ (the lower panel) of $^ { 1 6 } \\mathrm { O }$ from the standard results versus the cutoff energy $E _ { \\mathrm { c u t } }$ with different box size $R _ { \\mathrm { m a x } }$ for the SRHSWS theory. The meson and Coulomb fields are obtained from SRHR calculations with the parameter set NL3, $\\Delta r = 0 . 0 5$ fm, $R _ { \\mathrm { m a x } } = 3 0$ fm.In SRHSWS calculations, the parameter set NL3 isused.For $E _ { \\mathrm { c u t } } = 1 0 0$ ，200,300，400 MeV, the approximate maximum principal quantum number in each basis, $N _ { \\mathrm { m a x } } = 2 n _ { \\mathrm { m a x } } + l$ ,is given on the top of the plot. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $+$ ’is for the neutron and ‘ $\\mathit { \\Omega } - \\mathit { \\Omega }$ ’for the proton. As expected, the dependence of final results on the initial WS potential is almost negligible.For example,a variation of $V _ { 0 }$ by $5 0 \\%$ gives differences in total binding energies by less than $0 . 1 \\%$ and charge radii by less than $0 . 5 \\%$ for $^ { 1 6 } \\mathrm { O }$ ， $^ { 4 8 }$ Ca and $^ { 2 0 8 }$ Pb. Such situation is also checked to be true for the other two parameters in the WS potential, $R _ { 0 }$ and $a _ { 0 }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B.Woods-Saxon basis from solving a Dirac equation (the DWS basis) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The radial Dirac equation,Eq.(9),may be solved in the $r$ space [21] with Woods-Saxon-like potentials for （204 $V _ { 0 } ( r ) \\pm S _ { 0 } ( r )$ [23] within a spherical box of the size $R _ { \\mathrm { m a x } }$ ， together with the spherical spinor which gives a complete WS basis ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\left[ \\epsilon _ { n \\kappa m } ^ { 0 } , \\psi _ { n \\kappa m } ^ { 0 } ( \\pmb { r } , s , t ) \\right] ; \\epsilon _ { n \\kappa m } ^ { 0 } \\gtrless 0 \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fab906dd0040e5c2b14c25a98f7eacfaba97688ec0eda13944b3cc0671dd93e4.jpg",
+        "img_caption": [
+            "FIG.2:Deviations of the average single_particle energy （20 $E ^ { \\mathrm { s p } } / A$ (the upper panel)，rms radius $\\langle r \\rangle ^ { 1 / 2 }$ (the middle panel), and $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ (the lower panel) of ${ } ^ { 2 0 8 } \\mathrm { { P b } }$ from the standard results versus the cutoff energy $E _ { \\mathrm { c u t } }$ with different box size $R _ { \\mathrm { m a x } }$ for the SRHSWS theory. The meson and Coulomb fields are obtained from SRHR calculations with the parameter set NL3, $\\Delta r = 0 . 0 5$ fm, $R _ { \\mathrm { m a x } } = 3 5$ fm. In SRHSWS calculations,the parameter set NL3 is used.For $E _ { \\mathrm { c u t } } = 1 0 0$ ，200, 300,400 MeV, the approximate maximum principal quantum number in each basis, $N _ { \\mathrm { m a x } } = 2 n _ { \\mathrm { m a x } } + l$ , is given on the top of the plot. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with $n = 0 , 1 , \\cdots$ ， $\\kappa = \\pm 1 , \\pm 2 , \\cdot \\cdot \\cdot$ ，and $m = - j _ { \\kappa } , \\cdot \\cdot \\cdot , j _ { \\kappa }$ $\\psi _ { n \\kappa m } ^ { 0 } ( \\pmb { r } , s , t )$ takes the form of Eq. (8). We note that states both in the Fermi sea and in the Dirac sea should be included in the basis for the completeness. The nucleon wave function,Eq.(8),can be expanded in terms of this set of basis as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { \\alpha \\kappa m } ( \\pmb { r } , s , t ) = \\sum _ { n = 0 } ^ { n _ { \\operatorname* { m a x } } } c _ { \\alpha n } \\psi _ { n \\kappa m } ^ { 0 } ( \\pmb { r } , s , t ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "normallevelsintheFermseafor where $n _ { \\mathrm { m a x } } = n _ { \\mathrm { m a x } } ^ { + } + n _ { \\mathrm { m a x } } ^ { - } + 1$ and the summation is over $0 \\leq n \\leq n _ { \\operatorname* { m a x } } ^ { + }$ and over negative levels in the Dirac sea for $n _ { \\mathrm { m a x } } ^ { + } + 1 \\le n \\le n _ { \\mathrm { m a x } }$ The negative states is obtained with the same method as the positive ones [21]. In this WS basis,the Dirac equation,Eq. (4),turns out to be ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { \\alpha m } \\epsilon _ { m } ^ { 0 } + \\sum _ { n = 0 } ^ { n _ { \\operatorname* { m a x } } } c _ { \\alpha n } H _ { m n } ^ { \\prime } = \\epsilon _ { \\alpha } c _ { \\alpha m } , \\ m = 1 , \\cdot \\cdot \\ , n _ { \\operatorname* { m a x } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "FIG.3:Deviations of the average single_particle energy $E ^ { \\mathrm { s p } } / A$ (the upper panel)，rms radius $\\langle r \\rangle ^ { 1 / 2 }$ (the middle panel)，and $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ (the lower panel） of $^ { 1 6 } \\mathrm { O }$ from the standard results versus the cutoff energy $E _ { \\mathrm { c u t } }$ with different box size $R _ { \\mathrm { m a x } }$ for the SRHDWS theory. The meson and Coulomb fields are obtained from SRHR calculations with the parameter set NL3, $\\Delta r = 0 . 0 5$ fm, $R _ { \\mathrm { m a x } } = 3 0$ fm. In SRHDWS calculations,the parameter set NL3 is used.For $E _ { \\mathrm { c u t } } = 1 0 0$ ，200, 300,400 MeV, the approximate maximum principal quantum number in each basis, $N _ { \\mathrm { m a x } } = 2 n _ { \\mathrm { m a x } } + l$ , is given on the top of the plot. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l } { { H _ { m n } ^ { \\prime } } } & { { = } } & { { \\displaystyle \\left. \\psi _ { m } ^ { 0 } ( \\pmb { r } ) \\big | \\left[ \\Delta V ( \\pmb { r } ) + \\beta \\Delta S ( \\pmb { r } ) \\right] \\big | \\psi _ { n } ^ { 0 } ( \\pmb { r } ) \\right. } } \\\\ { { \\displaystyle } } & { { = } } & { { \\displaystyle \\int _ { 0 } ^ { R _ { \\mathrm { m a x } } } d r G _ { m } ^ { 0 } ( r ) \\left[ \\Delta V ( r ) + \\Delta S ( r ) \\right] G _ { n } ^ { 0 } ( r ) } } \\\\ { { \\displaystyle } } & { { + } } & { { \\displaystyle \\int _ { 0 } ^ { R _ { \\mathrm { m a x } } } d r F _ { m } ^ { 0 } ( r ) \\left[ \\Delta V ( r ) - \\Delta S ( r ) \\right] F _ { n } ^ { 0 } ( r ) \\mathrm { , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta V ( r ) = V ( r ) - V _ { \\mathrm { 0 } } ( r )$ and $\\Delta S ( r ) = S ( r ) - S _ { \\mathrm { 0 } } ( r )$ The angular, spin,and isospin quantum numbers are omitted for brevity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It should be mentioned that Eq. (9) can be solved directly in the $r$ space with the same method of generating the DWS basis.It is our aim to test the validity of an efficient solution not only for the spherical RH model but also for its extension to include the deformation and/or the pairing correlation.In fact,if only the SRH theory is concerned, this procedure is just a replacement of the direct solution in the $r$ space by a diagnolization of a matrix with some complication introduced by the fact that contributions from states in the Dirac sea must be included. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c928886abf2eb7bc3f5b9f6315dc5be1cc4e61212d68499943cb0f8f47019d2b.jpg",
+        "img_caption": [
+            "FIG.4:Deviations of the average single_ particle energy （204号 $E ^ { \\mathrm { s p } } / A$ (the upper panel)，rms radius $\\langle r \\rangle ^ { 1 / 2 }$ (the middle panel),and $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ (the lower panel) of ${ } ^ { 2 0 8 } \\mathrm { { P b } }$ from the standard results versus the cutoff energy $E _ { \\mathrm { c u t } }$ with different box size $R _ { \\mathrm { m a x } }$ for the SRHDWS theory. The meson and Coulomb fields are obtained from SRHR calculations with the parameter set NL3, $\\Delta r = 0 . 0 5$ fm, $R _ { \\mathrm { m a x } } = 3 5$ fm. In SRHDWS calculations,the parameter set NL3 is used.For $E _ { \\mathrm { c u t } } = 1 0 0$ ，200, 300,400 MeV,the approximate maximum principal quantum number in each basis, $N _ { \\mathrm { m a x } } = 2 n _ { \\mathrm { m a x } } + l$ ,is given on the top of the plot. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "An energy cutoff $E _ { \\mathrm { c u t } }$ (relative to the nucleon mass $M$ )and the cutoff of radial quantum numbers maxare applied to normal levels alternatively according to practical convenience. For the initial Woods-Saxon potentials $V _ { 0 } ( r ) \\pm S _ { 0 } ( r )$ ，we follow Ref. [23]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C.Comparison with the $r$ -space method ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to check the validity of solving the Dirac equation in the WS basis and to provide numerical experiences for future applications,we compare results of $^ { 1 6 }$ O and $^ { 2 0 8 }$ Pb from solving the Dirac equation in the WS basis and those from solving the same equation in the coordinate space.The latter is the most accurate method of solving the Dirac equation for realistic nuclei up to now thus is used as a standard here.The scalar and vector potentials in the Dirac equation are provided by very accurate SRHR calculations with the parameter set NL3 for the Lagrangian, the mesh size $\\Delta r = 0 . 0 5$ fm,the box size $R _ { \\mathrm { m a x } } = 3 0$ fm for $^ { 1 6 } \\mathrm { O }$ and $R _ { \\mathrm { m a x } } = 3 5$ fm for ${ } ^ { 2 0 8 } \\mathrm { P b }$ ： Then with thus obtained $S ( r )$ and $V ( r )$ , the Dirac equation is solved in the coordinate space and in the WS basis with also the parameter set NL3. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To compare results only from solving the Dirac equation avoids errors from other numerical procedures, e.g., the error from the iteration and that from solving the Laplace equations.For the same reason，what we compare between these two methods is not the binding energy which contains the contribution from mesons but the average single particle energy $E ^ { \\mathrm { s p } } / A$ ： $\\begin{array} { r } { E ^ { \\mathrm { s p } } = \\sum _ { i } \\epsilon _ { i } } \\end{array}$ where $\\epsilon _ { i }$ is the single particle energy and the summation over all occupied states for both neutrons and protons.We also compare the rms radius $\\langle r ^ { 2 } \\rangle ^ { 1 / 2 }$ and $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ . The radius $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ reflects the nucleon densities in the tail more than the rms radius. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table I presents the dependence of results of the Dirac equation in the SWS basis on the mesh size $\\Delta r$ .With $\\Delta r$ decreasing,results in the SWS basis approach the standard results,i.e., those in the $r$ space. $\\Delta r = 0 . 1$ fm gives results accurate enough. The dependence on the box size $R _ { \\mathrm { m a x } }$ and on the basis size determined by $E _ { \\mathrm { c u t } }$ are investigated and shown in Figs.1 and 2 where the deviations of the average single particle energy $E ^ { \\mathrm { s p } } / A$ the rms radius $\\langle r ^ { 2 } \\rangle ^ { 1 / 2 }$ and $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ from the standards are plotted versus $E _ { \\mathrm { c u t } }$ for different $R _ { \\mathrm { m a x } }$ .If $R _ { \\mathrm { m a x } }$ is not large enough,it is difficult to approach the standard results.For example,when $R _ { \\mathrm { m a x } } = 3 r _ { 0 } A ^ { 1 / 3 } = 9 . 4$ fm and $E _ { \\mathrm { c u t } } = 3 0 0$ MeV for $^ { 1 6 }$ O (correspondingly, $N _ { \\mathrm { m a x } } \\sim$ 20)，the results seem converge,but the discrepancy of the average single particle energy from the standard one remains O.1 keV.So one must use a large enough box with the size $R _ { \\mathrm { m a x } }$ around $4 r _ { 0 } A ^ { 1 / 3 }$ for light nuclei and $3 r _ { 0 } A ^ { 1 / 3 }$ for heavy ones. It is interesting that the convergence of the results does not depend on $N _ { \\mathrm { m a x } }$ but only on $E _ { \\mathrm { c u t } }$ For $^ { 1 6 }$ 0 $\\left( ^ { \\mathrm { 2 0 8 } } \\mathrm { P b } \\right)$ ， the results converge to the standard ones at $\\sim 3 0 0$ （400）MeV.From Figs.1 and 2,we find the radius $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ also converges very well which implies that nucleon densities could be calculated accurately even for large $r$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We have made similar investigations for results in the DWS basis and similar conclusions are made. For instances,the deviations of the average single particle energy $E ^ { \\mathrm { s p } } / A$ , the rms radius $\\langle r ^ { 2 } \\rangle ^ { 1 / 2 }$ and $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ from the standards are plotted versus $E _ { \\mathrm { c u t } }$ for different $R _ { \\mathrm { m a x } }$ in Figs. 3 and 4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the expansion of the nucleon wave function, Eq.(21),one has to take into account not only the levels in the Fermi sea but also those in the Dirac sea because they form a complete basis together.Now the question arises how many levels in the Dirac sea one has to take into account.In the calculations in Figs.3 and 4, we have used $n _ { \\mathrm { m a x } } ^ { - } ~ = ~ n _ { \\mathrm { m a x } } ^ { + }$ with $n _ { \\mathrm { m a x } } ^ { + }$ determined by $E _ { \\mathrm { c u t } }$ .In Table III, the dependence of the average sin",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TABLE III: Dependence of the single particle energy,rms radius, and $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ on the maximum principal quantum number, $N _ { \\mathrm { m a x } } ^ { - } = 2 n _ { \\mathrm { m a x } } ^ { - } + l$ ，for the SRHDWS theory. The meson and Coulomb fields are obtained from SRHR calculations with the parameter set NL3, $\\Delta r = 0 . 0 5$ fm, $R _ { \\mathrm { m a x } } = 3 0$ fm for $^ { 1 6 } \\mathrm { O }$ and 35 fm for ${ } ^ { 2 0 8 } \\mathrm { { P b } }$ . In SRHDWS calculations,the parameter set NL3 is used. For $^ { 1 6 } \\mathrm { O }$ ， $R _ { \\mathrm { m a x } } = 4 r _ { 0 } A ^ { 1 / 3 } = 1 2 . 5$ fm, $E _ { \\mathrm { c u t } } = 3 0 0$ MeV for positive states.For $^ { 2 0 8 } \\mathrm { { P b } }$ ， $R _ { \\mathrm { m a x } } = 3 r _ { 0 } A ^ { 1 / 3 } = 2 2 . 1$ fm, $E _ { \\mathrm { c u t } } = 2 0 0 ~ \\mathrm { M e V }$ for positive states. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/30141872363d4f8004b20326cf27c51a669607d5340e3af13780df3fee2dd672.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Nmax</td><td>Esp/A</td><td>{r21/2</td><td>{r4)1/4</td><td>Esp/A</td><td>{r21/2</td><td>{r41/4</td></tr><tr><td></td><td></td><td>160</td><td></td><td></td><td>208Pb</td><td></td></tr><tr><td>no</td><td>23.1129</td><td>2.5912</td><td>2.8859</td><td>23.3331</td><td>5.6314</td><td>5.9889</td></tr><tr><td>0</td><td>23.1077</td><td>2.5916</td><td>2.8861</td><td>23.3329</td><td>5.6314</td><td>5.9889</td></tr><tr><td>2</td><td>23.0762</td><td>2.5939</td><td>2.8889</td><td>23.3316</td><td>5.6315</td><td>5.9890</td></tr><tr><td>4</td><td>23.0617</td><td>2.5942</td><td>2.8893</td><td>23.3304</td><td>5.6317</td><td>5.9892</td></tr><tr><td>6</td><td>23.0439</td><td>2.5946</td><td>2.8898</td><td>23.3299</td><td>5.6318</td><td>5.9893</td></tr><tr><td>8</td><td>23.0385</td><td>2.5946</td><td>2.8899</td><td>23.3294</td><td>5.6319</td><td>5.9893</td></tr><tr><td>10</td><td>23.0376</td><td>2.5946</td><td>2.8899</td><td>23.3292</td><td>5.6319</td><td>5.9894</td></tr><tr><td>12</td><td>23.0375</td><td>2.5946</td><td>2.8899</td><td>23.3291</td><td>5.6319</td><td>5.9899</td></tr><tr><td>14</td><td>23.0375</td><td>2.5946</td><td>2.8899</td><td>23.3290</td><td>5.6319</td><td>5.9894</td></tr><tr><td>16</td><td>23.0375</td><td>2.5946</td><td>2.8899</td><td>23.3290</td><td>5.6319</td><td>5.9894</td></tr><tr><td>18</td><td>23.0375</td><td>2.5946</td><td>2.8899</td><td>23.3289</td><td>5.6319</td><td>5.9893</td></tr><tr><td>20</td><td>23.0375</td><td>2.5946</td><td>2.8899</td><td>23.3288</td><td>5.6319</td><td>5.9893</td></tr><tr><td>22</td><td>23.0375</td><td>2.5946</td><td>2.8899</td><td>23.3287</td><td>5.6319</td><td>5.9893</td></tr><tr><td>30</td><td>23.0375</td><td>2.5946</td><td>2.8899</td><td>23.3287</td><td>5.6319</td><td>5.9893</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "gle particle energy, the rms radius $\\langle r ^ { 2 } \\rangle ^ { 1 / 2 }$ and $\\langle r ^ { 4 } \\rangle ^ { 1 / 4 }$ on $N _ { \\mathrm { m a x } } ^ { - } = 2 n _ { \\mathrm { m a x } } ^ { - } + l$ — a cutoff on the principal quantum number of levels in the Dirac sea — are given for $^ { 1 6 }$ 0 and $\\mathrm { ^ { 2 0 8 } P b }$ . From Table III,we find a merit of solving the Dirac equation in the DWS basis: the number of negative states included in the basis could be much smaller that that of the positive states.Let take $^ { 1 6 } \\mathrm { O }$ as an example, $R _ { \\mathrm { m a x } } = 4 r _ { 0 } A ^ { 1 / 3 }$ and $E _ { \\mathrm { c u t } } = 3 0 0$ MeV for positive states correspond to $N _ { \\mathrm { m a x } } ^ { + } \\sim 2 8$ .But for negative states, $N _ { \\mathrm { m a x } } ^ { - } = 1 0$ gives very accurate results, e.g., the discrepancy of $E ^ { \\mathrm { s p } } / A$ from the standard is smaller than O.1 keV. This will significantly simplify the deformed problem by decreasing the matrix dimension compared to solve the Dirac equation in the SWS basis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The above investigations are somehow academic.In practical applications,it is not necessary to go to the accuracy around keV in the single particle energy or $1 0 ^ { - 4 }$ fm in the radius. So in the following calculations,we will use $R _ { \\mathrm { m a x } } = 2 0$ fm, $\\Delta r = 0 . 1$ fm and $E _ { \\mathrm { c u t } } = 6 0 { \\sim } 8 0$ MeV for heavy and light nuclei which give reasonable accuracies both for the binding energy and the radius. This set of cutoff's corresponds approximately $N _ { \\mathrm { m a x } } =$ $2 n _ { \\mathrm { m a x } } + l \\sim 2 5$ where $\\it { l }$ is the orbital angular momentum of relevant state. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IV.RESULTS AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this section we present results of SRHWS. Since our main aim is to show the virtues of SRHWS compared to SRHHO and SRHR,we do not include pairing correlations and restrict our study to doubly magic or magic nuclei only. If not specified, the parameter set NLSH is used for the Lagrangian, $R _ { \\mathrm { m a x } } = 2 0$ fm and $\\Delta r = 0 . 1$ fm throughout this section. Other parameter sets for the Lagrangian do not change the conclusion here.In SRHDWS,the number of normal levels in the Fermi sea and that of negative ones in the Dirac sea are the same forconvenience,ie, $n _ { \\mathrm { m a x } } ^ { + } ~ = ~ n _ { \\mathrm { m a x } } ^ { - }$ For SRHHO, $\\hbar \\omega _ { 0 } = 4 1 A ^ { - 1 / 3 }$ has been used and cutoff's of the expansion for fermions and bosons are the same, i.e., $N _ { \\mathrm { F } } = N _ { \\mathrm { B } } \\equiv N _ { \\mathrm { m a x } }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A. Bulk properties of stable nuclei from different SRHtheories ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In Table IV, the binding energy per nucleon $( E / A )$ and neutron,proton and charge radii ( $r _ { \\mathrm { n } }$ ， $r _ { \\mathrm { p } }$ and $r _ { \\mathrm { c } }$ )of some typical spherical nuclei are presented which are calculated from the present available codes,including SRHR, SRHSWS，SRHDWS，SRHHO.Available data [25,26] are also included for comparison.We use approximately the same $N _ { \\mathrm { m a x } }$ in the SRHHO as that in the SRHWS which is determined by Ecut · ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Generally speaking,for each studied nucleus,the four approaches give almost the same results with an accuracy within $0 . 1 \\%$ with few exceptions where the differences are still less than $0 . 3 \\%$ . They are in excellent agreement with available data. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With the same parameters of spatial lattice $R _ { \\mathrm { m a x } }$ and $\\Delta r$ ，SRHWS should reproduce results of SRHR when $E _ { \\mathrm { c u t } }$ (or $N _ { \\mathrm { m a x } }$ ）is large enough. This is justified in Table IV. One find exactly coincident results between SRHSWS and SRHR for most of the studied nuclei. The remaining differences and those between SRHDWS and SRHR could be diminished by increasing $E _ { \\mathrm { c u t } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In Figures 5,6 and 7, the neutron density distributions are compared between SRHR,SRHSWS,SRHDWS,and SRHHO,in which $^ { 1 6 }$ 0, $^ { 4 8 }$ Ca and $^ { 2 0 8 }$ Pb are chosen as examples. The calculation details are the same as TableIV.For these stable nuclei,all these SRH methods are valid and all calculations are in excellent agreement with each other from the central to outer region of each nucleus.Tiny differences in the central region do not affect the physical observables like the binding energy or nuclear radius as is seen in Table IV.Furthermore, these differences could also be decreased by increasing $E _ { \\mathrm { c u t } }$ or Nmax: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From the above discussions,it is clear that SRHWS is equivalent to SRHR and SRHHO for stable nuclei. Thus we conclude that Woods-Saxon basis provide another possibility to solve (non-)relativistic mean field theory. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6c4c537ac060d758e94c95760431c26c7091b2b110b307bb392b694c6009736.jpg",
+        "table_caption": [
+            "TABLE IV: The binding energy per nucleon and neutron, proton and charge radii of some typical spherical nuclei.The parameter set NLSH is used for the Lagrangian. $R _ { \\mathrm { m a x } } = 2 0$ fm and $\\Delta r = 0 . 1$ fm for SRHR and SRHWS. $\\hbar \\omega _ { 0 } = 4 1 A ^ { - 1 / 3 }$ for SRHHO.Numbers in brackets in the second column give $E _ { \\mathrm { c u t } }$ for SRHWS and $N _ { \\mathrm { m a x } }$ for SRHHO.Data for $E / A$ and （20 $r _ { \\mathrm { c } }$ are taken from Ref.[25] and Ref. [26],respectively. Energy is in MeV and radius in fm. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Nucleus</td><td></td><td>E/A</td><td>rn</td><td>rp</td><td>Tc</td></tr><tr><td>160</td><td>SRHR</td><td>-8.022</td><td>2.551</td><td>2.578</td><td>2.699</td></tr><tr><td></td><td>SRHSWS (80)</td><td>-8.022</td><td>2.554</td><td>2.581</td><td>2.702</td></tr><tr><td></td><td>SRHDWS (80)</td><td>-8.014</td><td>2.553</td><td>2.580</td><td>2.701</td></tr><tr><td></td><td>SRHHO (25)</td><td>-8.034</td><td>2.551</td><td>2.577</td><td>2.699</td></tr><tr><td></td><td>Experiment</td><td>-7.976</td><td></td><td></td><td>2.693</td></tr><tr><td>40Ca</td><td>SRHR</td><td>-8.500</td><td>3.311</td><td>3.359</td><td>3.452</td></tr><tr><td></td><td>SRHSWS (80)</td><td>-8.499</td><td>3.310</td><td>3.358</td><td>3.452</td></tr><tr><td></td><td>SRHDWS (80)</td><td>-8.497</td><td>3.312</td><td>3.359</td><td>3.453</td></tr><tr><td></td><td>SRHHO (25)</td><td>-8.514</td><td>3.310</td><td>3.358</td><td>3.452</td></tr><tr><td></td><td>Experiment</td><td>-8.551</td><td></td><td></td><td>3.478</td></tr><tr><td>48Ca</td><td>SRHR</td><td>-8.644</td><td>3.586</td><td>3.369</td><td>3.463</td></tr><tr><td></td><td>SRHSWS (80)</td><td>-8.646</td><td>3.583</td><td>3.368</td><td>3.461</td></tr><tr><td></td><td>SRHDWS (80)</td><td>-8.639</td><td>3.586</td><td>3.371</td><td>3.464</td></tr><tr><td></td><td>SRHHO (25)</td><td>-8.659</td><td>3.584</td><td>3.368</td><td>3.462</td></tr><tr><td></td><td>Experiment</td><td>-8.666</td><td></td><td></td><td>3.479</td></tr><tr><td>56Ni</td><td>SRHR</td><td>-8.634</td><td>3.582</td><td>3.630</td><td>3.717</td></tr><tr><td></td><td>SRHSWS (80)</td><td>-8.640</td><td>3.580</td><td>3.628</td><td>3.715</td></tr><tr><td></td><td>SRHDWS (80)</td><td>-8.625</td><td>3.585</td><td>2.633</td><td>3.720</td></tr><tr><td></td><td>SRHHO (25)</td><td>-8.650</td><td>3.581</td><td>3.629</td><td>3.716</td></tr><tr><td></td><td>Experiment</td><td>-8.345</td><td></td><td></td><td></td></tr><tr><td>90Zr</td><td>SRHR</td><td>-8.677</td><td>4.294</td><td>4.186</td><td>4.262</td></tr><tr><td></td><td>SRHSWS (75)</td><td>-8.677</td><td>4.295</td><td>4.187</td><td>4.263</td></tr><tr><td></td><td>SRHDWS (75)</td><td>-8.672</td><td>4.295</td><td>4.187</td><td>4.262</td></tr><tr><td></td><td>SRHHO (25)</td><td>-8.693</td><td>4.293</td><td>4.185</td><td>4.261</td></tr><tr><td></td><td>Experiment</td><td>-8.710</td><td></td><td></td><td>4.270</td></tr><tr><td>118Sn</td><td>SRHR</td><td>-8.466</td><td>4.743</td><td>4.553</td><td>4.623</td></tr><tr><td></td><td>SRHSWS (70)</td><td>-8.466</td><td>4.743</td><td>4.554</td><td>4.624</td></tr><tr><td></td><td>SRHDWS (70)</td><td>-8.460</td><td>4.743</td><td>4.554</td><td>4.624</td></tr><tr><td></td><td>SRHHO (25)</td><td>-8.482</td><td>4.741</td><td>4.552</td><td>4.622</td></tr><tr><td></td><td>Experiment</td><td>-8.517</td><td></td><td></td><td>4.641</td></tr><tr><td>T32Sn</td><td>SRHR</td><td>-8.377</td><td>4.964</td><td>4.636</td><td>4.704</td></tr><tr><td></td><td>SRHSWS (70)</td><td>-8.377</td><td>4.964</td><td>4.637</td><td>4.704</td></tr><tr><td></td><td>SRHDWS (70)</td><td>-8.370</td><td>4.964</td><td>4.637</td><td>4.706</td></tr><tr><td></td><td>SRHHO (25)</td><td>-8.393</td><td>4.963</td><td>4.635</td><td>4.703</td></tr><tr><td></td><td>Experiment</td><td>-8.355</td><td></td><td></td><td></td></tr><tr><td>208Pb</td><td>SRHR</td><td>-7.885</td><td>5.713</td><td>5.447</td><td>5.505</td></tr><tr><td></td><td>SRHSWS (60)</td><td>-7.886</td><td>5.712</td><td>5.447</td><td>5.505</td></tr><tr><td></td><td>SRHDWS (60)</td><td>-7.874</td><td>5.712</td><td>5.448</td><td>5.506</td></tr><tr><td></td><td>SRHHO (25)</td><td>-7.900</td><td>5.711</td><td>5.445</td><td>5.504</td></tr><tr><td></td><td>Experiment</td><td>-7.868</td><td></td><td></td><td>5.504</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B. Neutron density distributions for $^ { 7 2 } \\mathbf { C a }$ in different SRHtheories ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Aswe already discussed in the introduction,one of the merits of SRHR against SRHHO is its proper description of exotic nuclei. In this subsection,we will demonstrate the equivalence between SRHWS and SRHR when reasonably large $E _ { \\mathrm { c u t } }$ is applied in SRHWS. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to see the results for the unstable nuclei near the neutron drip line, the neutron density distribution for $^ { 7 2 }$ Ca is studied here. The nucleus $^ { 7 2 }$ Ca is predicted to be the last bound calcium isotope [27, 28, 29,30]. Since it is not a doubly magic nucleus,there might be some uncertainty in present results due to the lack of inclusion of pairing correlations.However，as we stressed in the beginning of this section,the main aim here is to show the virtue of SRHWS compared to SRHHO,it is very unlikely that the pairing would change our conclusion qualitatively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1483d2f268a017c02bcb59527191d40d19d01beb8839ed7153f0d333ce4bf02.jpg",
+        "img_caption": [
+            "FIG.5: Neutron density distributions for $^ { 1 6 } \\mathrm { O }$ from different SRH approaches.The parameter set NLSH is used for the Lagrangian. $R _ { \\mathrm { m a x } } = 2 0$ fm and $\\Delta r = 0 . 1$ fm for SRHR and SRHWS. $E _ { \\mathrm { c u t } } = 8 0$ MeV for SRHWS. Correspondingly, $N _ { \\mathrm { m a x } }$ $= 2 5$ for SRHHO.In SRHDWS,the number of levels in the Dirac sea included in each block is the same as that of normal levels which is determined by $E _ { \\mathrm { c u t } }$ ．The inset presents logarithmic densities. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9ace4eee60e1bcd84f8741e566695f91780f375d86eb71938990b3483aa2d10.jpg",
+        "img_caption": [
+            "FIG.6:Neutron density distributions for $^ { 4 8 } \\mathrm { C a }$ from different SRH approaches.The parameter set NLSH is used for the Lagrangian. $R _ { \\mathrm { m a x } } = 2 0$ fm and $\\Delta r = 0 . 1$ fm for SRHR and SRHWS. $E _ { \\mathrm { c u t } } = 8 0$ MeV for SRHWS. Correspondingly, $N _ { \\mathrm { m a x } } = 2 5$ for SRHHO.In SRHDWS,the number of levels in the Dirac sea included in each block is the same as that of normal levels which is determined by $E _ { \\mathrm { c u t } }$ .The inset presents logarithmic densities. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ee2525e4792fa3234534774565c640314659c3d68583b025ae9cb977f186345.jpg",
+        "img_caption": [
+            "FIG.7: Neutron density distributions for ${ } ^ { 2 0 8 } \\mathrm { { P b } }$ from different SRH approaches.The parameter set NLSH is used for the Lagrangian. $R _ { \\mathrm { m a x } } = 2 0$ fm and $\\Delta r = 0 . 1$ fm for SRHR and SRHWS. $E _ { \\mathrm { c u t } } = 6 0$ MeV for SRHWS.Correspondingly, $N _ { \\mathrm { m a x } } = 2 5$ for SRHHO.In SRHDWS,the number of levels in the Dirac sea included in each block is the same as that of normal levels which is determined by $E _ { \\mathrm { c u t } }$ . The inset presents logarithmic densities. ",
+            "FIG.8:Comparison of density distributions for $^ { 7 2 } \\mathrm { C a }$ from SRHR,SRHSWS and SRHHO.The parameter set NLSH is used for the Lagrangian． $\\Delta r \\ = \\ 0 . 1$ fm for SRHR and SRHSWS. $E _ { \\mathrm { c u t } } = 7 5$ MeV and $R _ { \\mathrm { m a x } } = 2 0$ (thick dot-dashed curve),25 (thick long-dashed curve),30 (thick dashed curve) and 35 fm (thick dotted curve) for SRHSWS.These sets of cutoff's correspond to cutoff's in principal quantum number $N _ { \\mathrm { m a x } } ~ = ~ 2 5$ (thin dot-dashed curve)，31 (thin long-dashed curve)，37 (thin dashed curve)and 43 (thin dotted curve) which are used in SRHHO calculations.The density distribution from SRHR are almost identical with that from SRHSWS with the same box size.For brevity,only $\\rho _ { n } ( r )$ from SRHR with $R _ { \\mathrm { m a x } } = 3 5$ fm(thick solid line） is displayed here which covers the curve corresponding to $\\rho _ { n } ( r )$ from SRHSWS with $R _ { \\mathrm { m a x } } = 3 5$ fm (thick dotted curve). "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4deafe6379a369c1f81d63a7e000a8b3fa6f3cfa19cb7aa2aeb0f024c2bd924f.jpg",
+        "table_caption": [
+            "TABLE V: Convergence study for $^ { 7 2 }$ Ca.The parameter set NLSH is used for the Lagrangian. $\\Delta r = 0 . 1$ fm for SRHR and SRHWS. $E _ { \\mathrm { c u t } } = 7 5$ MeV for SRHWS.Energy is in MeV and radius in fm. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>E/A</td><td>Tn</td><td>rp</td><td>入n</td></tr><tr><td>Rmax</td><td colspan=\"4\">SRHR</td></tr><tr><td>20</td><td>6.482</td><td>4.656</td><td>3.639</td><td>-0.191</td></tr><tr><td>25</td><td>6.483</td><td>4.723</td><td>3.639</td><td>-0.221</td></tr><tr><td>30</td><td>6.484</td><td>4.773</td><td>3.639</td><td>-0.228</td></tr><tr><td>35</td><td>6.484</td><td>4.807</td><td>3.639</td><td>-0.229</td></tr><tr><td>Rmax</td><td colspan=\"4\">SRHSWS</td></tr><tr><td>20</td><td>6.481</td><td>4.663</td><td>3.639</td><td>-0.206</td></tr><tr><td>25</td><td>6.482</td><td>4.726</td><td>3.639</td><td>-0.231</td></tr><tr><td>30</td><td>6.483</td><td>4.774</td><td>3.639</td><td>-0.237</td></tr><tr><td>35</td><td>6.483</td><td>4.803</td><td>3.639</td><td>-0.238</td></tr><tr><td>Rmax</td><td colspan=\"4\">SRHDWS</td></tr><tr><td>20</td><td>6.474</td><td>4.662</td><td>3.641</td><td>-0.163</td></tr><tr><td>25</td><td>6.475</td><td>4.733</td><td>3.641</td><td>-0.197</td></tr><tr><td>30</td><td>6.475</td><td>4.789</td><td>3.640</td><td>-0.205</td></tr><tr><td>35</td><td>6.475</td><td>4.828</td><td>3.640</td><td>-0.206</td></tr><tr><td>Nmax</td><td colspan=\"4\">SRHHO</td></tr><tr><td>25</td><td>6.489</td><td>4.577</td><td>3.639</td><td>-0.054</td></tr><tr><td>31</td><td>6.492</td><td>4.605</td><td>3.639</td><td>-0.128</td></tr><tr><td>37</td><td>6.494</td><td>4.628</td><td>3.639</td><td>-0.166</td></tr><tr><td>43</td><td>6.494</td><td>4.649</td><td>3.639</td><td>-0.189</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For stable nuclei,it has been shown that $R _ { \\mathrm { m a x } } \\sim 2 0$ fm is large enough.For drip line nuclei, the dependence of the results on $R _ { \\mathrm { m a x } }$ for $^ { 7 2 }$ Ca is presented in Table V. For both SRHR and SRHWS, $\\Delta r = 0 . 1$ fm and $R _ { \\mathrm { m a x } }$ $= 2 0$ ，25,30 and 35 fm have been adopted respectively. The energy cutoff $E _ { \\mathrm { c u t } } = 7 5$ MeV is used to SRHWS. In SRHR and SRHWS calculations,the neutron rms radius $r _ { \\mathrm { n } }$ and Fermi energy $\\lambda _ { \\mathrm { n } }$ of $^ { 7 2 }$ Ca converge around $R _ { \\mathrm { m a x } }$ $= 3 5$ fm while a independence of the binding energy per nucleon $E / A$ and proton rms radius $r _ { \\mathrm { p } }$ on the box size can be seen. These sets of parameters in SRHWS, $E _ { \\mathrm { c u t } }$ $= 7 5$ MeV and $R _ { \\mathrm { m a x } } = 2 0$ ,25,30 and 35 fm,correspond to cutoff's on principal quantum number $N _ { \\mathrm { m a x } } = 2 5$ ,31, 37 and 43 which are used in SRHHO calculations in order to make fair comparisons between SRHWS and SRHHO. Similar as those from SRHR and SRHWS, $E / A$ and $r _ { \\mathrm { p } }$ depend little on $N _ { \\mathrm { m a x } }$ in SRHHO.However,the neutron rms radius $r _ { \\mathrm { n } }$ increases with $N _ { \\mathrm { m a x } }$ steadily,which shows a much slower convergence.As it is based on a complete basis,SRHHO can reach convergence of $r _ { \\mathrm { n } }$ if $N _ { \\mathrm { m a x } }$ is large enough.From TableV,one finds that for the same $N _ { \\mathrm { m a x } }$ (or equivalent $R _ { \\mathrm { m a x } }$ )，a difference of $\\Delta r _ { \\mathrm { n } } ~ \\approx ~ 0 . 2$ fm between SRHHO and SRHWS (SRHR) can be seen. From the slow convergence of $r _ { \\mathrm { n } }$ with $N _ { \\mathrm { m a x } }$ in SRHHO （ $\\Delta N _ { \\mathrm { m a x } } = 6$ gives $\\Delta r _ { \\mathrm { n } } \\approx 0 . 0 2$ fm),we can estimate the lower limit of the $N _ { \\mathrm { m a x } }$ as $N _ { \\mathrm { m a x } } \\approx 9 0$ in order to give $r _ { \\mathrm { n } }$ $= 4 . 8$ fm in SRHR or SRHWS. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6f2b9ca165bd24c35ae29ddb86dfe0bd17a577eb18710d1e97888fd3023a9c9.jpg",
+        "img_caption": [
+            "FIG.9: Comparison of density distributions for $^ { 7 2 } \\mathrm { C a }$ from SRHR，SRHDWS and SRHHO.The parameter set NLSH is used for the Lagrangian. $\\Delta r = 0 . 1$ fm for SRHR and SRHDWS. $E _ { \\mathrm { c u t } } = 7 5$ MeV and $R _ { \\mathrm { m a x } } = 2 0$ (thick dot-dashed curve),25 (thick long-dashed curve),30 (thick dashed curve) and 35 fm (thick dotted curve）for SRHDWS.In SRHHO calculations, $N _ { \\mathrm { m a x } } ~ = ~ 2 5$ (thin dot-dashed curve)，31 (thin long-dashed curve),37 (thin dashed curve) and 43(thin dotted curve) are used. The density distribution from SRHR are very close to that from SRHSWS with the same box size. For brevity,only $\\rho _ { n } ( r )$ from SRHR with $R _ { \\mathrm { m a x } } ~ = ~ 3 5$ fm (thick solid line) is displayed here. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We compare the neutron density distribution of $^ { 7 2 } \\mathrm { C a }$ from different SRH approaches in Figs.8 and 9.With the same box size,the density distribution from SRHR are almost identical with those from SRHWS,which indicates the equivalence between SRHWS and SRHR.For brevity,only $\\rho _ { \\mathrm { n } } ( r )$ from SRHR with $R _ { \\mathrm { m a x } } = 3 5$ fm is displayed in Figs.8 or 9 which covers the curve corresponding to $\\rho _ { n } ( r )$ from SRHSWS with $R _ { \\mathrm { m a x } } = 3 5$ fm in Fig. 8. On the other hand, $\\rho _ { \\mathrm { n } } ( r )$ from SRHHO even with $N _ { \\mathrm { m a x } } = 4 3$ fails to reproduce the result of SRHR due to the localization property of HO potential. In addition,with the same $N _ { \\mathrm { m a x } }$ ,the spatial extension of $\\rho _ { \\mathrm { n } } ( r )$ from SRHWS are always larger than that from SRHHO. The variational tendency of the curve $\\rho _ { \\mathrm { n } } ( r ) \\sim r$ also explains different convergence behaviors of $r _ { \\mathrm { n } }$ in SRHWS and SRHHO as given in Table V. With increasing $R _ { \\mathrm { m a x } }$ ， the $\\rho _ { \\mathrm { n } } ( r )$ in SRHWS has the correct asymptotic behavior while that in SRHHO decay too quickly. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This result is very encouraging and tell us that even the long tail (or halo) behavior in neutron density dis tribution for nuclei near the drip line can be described by SRHSWS as well as SRHR, if pairing correlations is incorporated properly. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/853a253d2dcba68fba234e5911d0165002154774670aa6c0800970a77a809a4f.jpg",
+        "table_caption": [
+            "TABLE VI: Effects of negative levels on bulk properties in SRHDWS for $^ { 1 6 }$ O.The parameter set for the Lagrangian is NLSH, $R _ { \\mathrm { m a x } } = 2 0$ fm， $\\Delta r = 0 . 1$ fm,and $N _ { \\mathrm { m a x } } ^ { + } = 2 5$ For the initial Woods-Saxon like potentials,parameters in Ref. [23] are used except for $V _ { 0 }$ which is specified in the table.The left value in each entry gives the result without negative levels included and the right one that with $N _ { \\mathrm { m a x } } ^ { - } = 2 5$ .Energy is in MeV and radius in fm. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Vo= 54 MeV</td><td></td><td>Vo = 72 MeV</td><td></td><td>Vo = 90 MeV</td></tr><tr><td>E/A</td><td>8.547</td><td>8.013</td><td>8.117 8.015</td><td></td><td>8.427 8.012</td></tr><tr><td>rrms</td><td>2.385</td><td>2.568</td><td>2.531</td><td>2.567</td><td>2.610 2.567</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "C. Contribution from negative levels in the SRHDWS theory ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the expansion of the nucleon wave function, Eq.(21),one has to take into account not only the levels in the Fermi sea but also those in the Dirac sea because they form a complete basis together.We study the effects of negative levels and give results of an example, $^ { 1 6 }$ O, in Table VI.Firstly， without negative levels included,the nucleus is over bound and the nuclear size is smaller as seen from Table VI. Secondly, in contrary to the case with negative levels included,the calculated nuclear properties depend on the initial potentials very much if no negative levels included. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that the contribution from negative levels depends on the initial Woods-Saxon potentials for generating the DWS basis. So do the cutoff $N _ { \\mathrm { m a x } }$ or $E _ { \\mathrm { c u t } }$ for convergence.If the initial Woods-Saxon potential is exactly identical to the converged potentials, the matrix in Eq. (22) is diagonal, negative states do not contribute because of the no sea approximation. Positive states can also be chosen as less as possible, e.g., $1 s _ { 1 / 2 }$ ， $1 p _ { 3 / 2 }$ and $1 p _ { 1 / 2 }$ are enough for $^ { 1 6 }$ O.From the third column corresponding to $V _ { 0 } = 7 2$ MeV in Table VI,one finds that the initial nuclear potential for the Dirac equation proposed in Ref. [23] is a good choice for SRHDWS as the negative states only contribute $\\sim 1 . 2 5 ~ \\%$ to both $E / A$ and $r _ { \\mathrm { r m s } }$ If we change the initial potentials,e.g.,by changing $V _ { 0 }$ by $2 5 \\%$ ，much larger contributions from negative states are found in TableVI. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to know the contribution of negative levels in the Dirac sea to the wave function, the value of $\\textstyle \\sum _ { n } | c _ { n } ^ { - } | ^ { 2 }$ in the expansion,Eq. (21) has been given in Table VI for occupied states of $^ { 1 6 } \\mathrm { O }$ . We note that the nucleon wave function is normalized to one.It can be seen that a small component from negative states in the wave functions, about $1 0 ^ { - 4 \\sim - 5 }$ , contributes to the physical observables such as $E / A$ and $r _ { \\mathrm { r m s } }$ by the magnitude of $1 \\% \\sim 1 0 \\%$ as seen from Table VI. Again we notice that the initial Woods-Saxon potentials differ more from the converged ones,the larger is the contribution from negative levels. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "TABLE VII: Contribution of negative levels in the Dirac sea to the single nucleon wave functions of $^ { 1 6 } \\mathrm { O }$ in SRHDWS.For each single particle levels, $\\sum | c _ { n } ^ { - } | ^ { 2 }$ in the expansion Eq. (21) is presented.The parameter set for the Lagrangian is NLSH $R _ { \\mathrm { m a x } } = 2 0$ fm and $\\Delta r = 0 . 1$ fm and $N _ { \\mathrm { m a x } } ^ { + } = N _ { \\mathrm { m a x } } ^ { - } = 2 5$ For the initial Woods-Saxon like potentials,the parameters in Ref.[23] are used except for $V _ { 0 }$ which is specified in the table.The binding energy per nucleon and nuclear radius for each calculation is presented in Table VI. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/976a59f0af93cd3fac3c75d6378dc8236888ae584bf9f20fa3b055382b016976.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Level</td><td>Vo= 54MeV</td><td>Vo=72MeV</td><td>Vo= 90MeV</td></tr><tr><td>N1s1/2</td><td>9.15×10-5</td><td>3.48×10-5</td><td>3.44×10-4</td></tr><tr><td>N1p3/2</td><td>5.32×10-5</td><td>6.05×10-5</td><td>3.69×10-4</td></tr><tr><td>N1p1/2</td><td>4.01×10-4</td><td>1.06×10-5</td><td>8.80×10-4</td></tr><tr><td>P1s1/2</td><td>1.92×10-4</td><td>4.92×10-5</td><td>4.89×10-5</td></tr><tr><td>P1p3/2</td><td>1.17×10-4</td><td>3.27×10-5</td><td>8.07×10-5</td></tr><tr><td>P1p1/2</td><td>8.09×10-4</td><td>2.08×10-4</td><td>2.38×10-5</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "V. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We have solved the spherical relativistic Hartree the ory in the Woods-Saxon basis (SRHWS). The WoodsSaxon basis is obtained by solving either the Schrodinger equation (SRHSWS) or the Dirac equation (SRHDWS). Formalism and numerical details for both cases are presented. The WS basis in the SRHDWS theory could be very smaller than that in the SRHSWS theory. This will largely facilitate solving the deformed problem. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The results from SRHWS are compared with those from solving the spherical relativistic Hartree theory in the harmonic oscillator basis,SRHHO,and those in the coordinate space, SRHR.For stable nuclei, all approaches give identical results for properties such as total binding energies and the neutron,proton and charge rms radii as well as neutron density distributions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For neutron drip line nuclei,e.g. $^ { 7 2 }$ Ca,which has a very small neutron Fermi energy $\\lambda _ { \\mathrm { n } } \\sim 0 . 2$ MeV，both ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SRHR and SRHWS easily approach convergence by increasing box size while SRHHO does not. Furthermore, SRHWS can satisfactorily reproduce the neutron density distribution from SRHR,but SRHHO fails with similar cutoff's. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In SRHDWS calculations,the negative levels in the Dirac Sea must be included in the basis in terms of which nucleon wave functions are expanded. We studied in detail the effects and contributions of negative states.Without negative levels included,the calculated nuclear properties depend on the initial potentials very much.A small component from negative states in the wave functions, about $1 0 ^ { - 4 \\sim - 5 }$ , contributes to the physical observables such as $E / A$ and $r _ { \\mathrm { r m s } }$ by the magnitude of $1 \\% \\sim 1 0 \\%$ . When the initial potentials differ more from the converged ones, the contribution from negative levels becomes more important. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We conclude that the Woods-Saxon basis provides a reconciler between the harmonic oscillator basis and the coordinate space which may be used to describe exotic nuclei both properly and efficiently. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] M.G.Mayer and J.H.D. Jensen, Elementary Theory of Nuclear Shell Struture (Wiley,New York,1955).   \n[2]A.Bohr and B.R.Mottelson，Nuclear Structure，Vol.I (Benjamin,New York,1969).   \n[3]P.Ring and P.Schuck,The Nuclear Many-Body Problem (Springer Verlag,Berlin,1980).   \n[4]R.D.Woods and D.S. Saxon,Phys.Rev.95,577 (1954).   \n[5] S.G.Nilsson,Mat.Fys.Medd.Dan.Vid. Selsk.29,No.16 (1955).   \n[6] J.Dobaczewski，W.Nazarewicz，T.R.Werner，J.-F. Berger,C.R.Chinn,and J.Dechargé,Phys.Rev.C 53, 2809 (1996).   \n[7]J.Meng andP.Ring,Phys.Rev.Lett.77,3963 (1996);J. Meng,Nucl. Phys. A635,3 (1998); J. Meng and P.Ring, Phys.Rev.Lett.80,460 (1998).   \n[8] S.-G. Zhou,J.Meng，S. Yamaji and S.C. Yang,Chin. Phys.Lett.17,717 (2000).   \n[9] M.V. Stoitsov,P. Ring,D. Vretenar,and G.A. Lalazis",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The extension of spherical relativistic Hartree theory in the Woods-Saxon basis to deformed cases with pairing included is in progress. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "S.-G.Z.would like to thank the Max-Planck-Institut fir Kernphysik for kind hospitality where part of this work is done.J.M.would like to thank Physikdepartment,Technische Universität Minchen for kind hospitality. This work is partly supported by the Major State Basic Research Development Program Under Contract Number G2000077407 and the National Natural Science Foundation of China under Grant No.1Oo25522, 10047001 and 19935030. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "sis,Phys.Rev.C 58，2086 (1998)；M.V.Stoitsov，W. Nazarewicz,and S.Pittel,Phys.Rev.C 58, 2092 (1998).   \n[10] J.Dobaczewski,H. Flocard,and J. Treiner,Nucl.Phys. A422,103 (1984).   \n[11]J.Terasaki,P.-H.Heenen,H.Flocard,and P.Bonche, Nucl.Phys.A600,371(1996)；J.Terasaki,H.Flocard, P.-H.Heenen,and P.Bonche,ibid,A621,706 (1997).   \n[12] W. Pöschl, D. Vretenar,G.A. Lalazissis,and P. Ring, Phys.Rev.Lett. 79,3841 (1997).   \n[13]S.T.Belyaev,A.V.Smirnov,S.V.Tolokonnikov,and S. A.Fayans,Yad.Fiz.45,1263(1987)[Sov.J.Nucl.Phys. 45, 783 (1987)].   \n[14]P.-G.Reinhard,M.Bender,K.Rutz,and J.A.Maruhn, Z.Phys.A 358,277 (1997).   \n[15]V.E.Oberacker and A.S.Umar，Proceedings of the International Symposium on Perspectives in Nuclear Physics (World Scientific,Singapore,1999).   \n[16]W.H.Press,S.A.Teukolsky,W.T.Vetterling,and B. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "P.Flannery, Numerical Recipes in Fortran 77 (2nd Ed.) (Cambridge University Press,1992). [17]B.D.Serot and J.D.Walecka,Adv.Nucl.Phys.16,1 (1986). [18] P.-G.Reinhard,Rep.Prog.Phys.52, 439 (1989). [19] P.Ring,Prog.Part.Nucl. Phys.37(1996)193;ibid,46, 165 (2001). [20]J.Boguta and A.R.Bodmer，Nucl.Phys.A 292,413 (1977). [21] C.J. Horowitz and B.D.Serot,Nucl. Phys.A368,503 (1981). [22] Y.K.Gambhir, P.Ring and A. Thimet,Ann. Phys. (NY) 198，132 (1990). [23] W. Koepf and P.Ring,Z.Phys.A 339,81 (1991). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[24] K. Heyde, Basis ideas and concepts in nuclear physics, 2nd Ed.(IoPPublishing,Bristol and Philadelphia,1999).   \n[25]G.Audi and A. H. Wapstra, Nucl. Phys. A595, 409(1995).   \n[26]H.De Vries,C.W.De Jager and C.De Vries,At.Data Nucl.Data Tables 36,495 (1987).   \n[27]S.Im andJ.Meng，Phys.Rev.C61,047302 (2000).   \n[28]I.Hamamoto,H. Sagawa and X.Z. Zhang,Phys.Rev.C 63,024313 (2001).   \n[29] S.-Q. Zhang, J. Meng,S.-G. Zhou and J.-Y. Zeng, Chin Phys.Lett.19,312 (2002).   \n[30]J.Meng，H. Toki,J.Y.Zeng，S.Q. Zhang and S.-G. Zhou,Phys.Rev.C 65,041302(R) (2002). ",
+        "page_idx": 11
+    }
+]

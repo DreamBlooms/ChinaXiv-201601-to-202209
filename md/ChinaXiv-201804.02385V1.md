@@ -1,0 +1,282 @@
+# 工业控制网络通信异常检测的改进鱼群算法优化方法
+
+陈万志1，唐雨1，张静²
+
+(1.辽宁工程技术大学 电子与信息工程学院，辽宁葫芦岛 125105;2.渤海装备辽河重工有限公司，辽宁 盘锦124010)
+
+摘要：针对工业控制网络中典型的攻击类型，提出一种利用深度学习预测工控网络通信异常的方法。首先，利用主成分分析方法对原始数据降维，消除原始数据集的相关性；其次，构建人工神经网络并利用万有引力搜索算法中粒子惯性质量计算思想改进的鱼群算法来优化极限学习机的输入权值和阈值。测试实验结果表明，异常检测的准确率有所提升，同时有效地缩短了检测时间，实现了利用深度学习预测工控网络通信异常的行为。
+
+关键词：工业控制网络；主成分分析；极限学习机；异常检测；人工鱼群算法；万有引力搜索算法中图分类号：TP393.08 doi:10.3969/j.issn.1001-3695.2018.01.0099
+
+# Improved method of optimal fish swarm optimization for industrial control network communication anomaly detection
+
+Chen Wanzhi1, Tang $\mathrm { Y u ^ { 1 } }$ , Zhang Jing2 (1.SchoolofElectronic&InformationEngineeringLiaoningTechnicalUniversityHuludaoLiaoning5i5,China;Cina Petroleum Liaohe Equipment Company,Panjin Liaoning124010, China)
+
+Abstract: Aiming at typical atack types of industrial control networks，this paper proposeda method of predicting communicationanomalies inindustrial networks usingdeep learning.First,the principalcomponent analysisoftherawdata reductionandeliminatedtecorelationbetweentheoriginaldataset.Secondly,uildartificialneuraletworksandtotimize theinputweights andthreshold limitstheuseof machine learning.The fish swarmalgorithm was improvedby the deaof particle iertia mass calculation in the gravitational search algorithm.The test experiment results show thatthe accuracyof anomalydetectionisimproved,andthedetection times areeffectivelyshortened.Andrealizesthe purposeofmakinguseofthe depth learning to predict the abnormal behavior of communication in industrial networks.
+
+Key words:industrialcontrolnetwork;principal componentanalysis;extreme learning machine;anomalydetection;artificial fish swarm algorithm; gravitation search algorithm
+
+# 0 引言
+
+工业控制系统对实时性要求高，没有充足的升级资源和安保功能，并且必须具有容错能力，不能停机或重启[1]。工控系统中的监控网络用来控制信息和操作信息的通信问题，通常采用传输层的TCP、UDP协议。然而传输层的协议未考虑安全性，极易受到拒绝服务攻击、中间人攻击、内部人攻击和端口扫描攻击等。传统的网络入侵检测在流量过滤和监测时存在细粒度过大、协议类型不兼容和在复杂的工业环境中无法防御中间人或内部人攻击[2]等问题，因此不能将传统入侵检测技术套用在工业环境的入侵检测中，需要制定针对工业控制系统环境和协
+
+议类型的入侵检测技术。
+
+工业和信息安全领域的国内外学者现在正针对工业控制系统的异常检测进行研究，但是对于异常检测的相关研究尚处于起步阶段。尚文利等人[提出了一种基于OCSVM算法的入侵检测模型，并将粒子群算法应用其中，提高了系统的准确性。Yang 等人[4提出将误用与异常结合的入侵检测机制，首先根据入侵行为特征库快速识别未授权访问等已知攻击；然后采用基于神经网络的异常检测机制，实现对未知攻击的入侵检测。这种方法可大幅度地提升IDS检测效率。侯重远等人[5提出了基于概率主成分分析法的工业网络流量异常检测方法，建立了工业控制网络流量矩阵的概率主成分分析法模型，有效降低了误报率。但这种方法仅在攻击流量特征与正常业务类型差异较大的情况下才具有指导意义。Zhou等人[通过对工控系统通信行为的特征数据的提取，组成机器学习的训练样本集合来测试样本集，利用机器学习方法建立异常行为入侵检测模型。Aburomman 等人[7]提出一种新的组合 SVM(support vector machine)-KNN(K-nearestneighbor)-PSO(particle swarm optimization)方法的入侵检测系统，利用PSO算法对权重进行优化，组合SVM和KNN这两种分类方法来获取更好的入侵检测精度。但该方法的设计与应用没有充分的考虑工控系统实时性的影响。
+
+本文重点阐述了主成分分析算法(principal component analysis,PCA)、基于万有引力搜索算法(gravitation search algorithm,GSA)的人工鱼群算法(artificial fish swarm algorithm,AFSA)以及人工神经网络在工业控制网络通信异常检测方面的研究工作。通过PCA对原始数据进行预处理，消除变量之间的冗余性和相关性，较大程度上为人工神经网络的训练奠定了较好的数据基础，有利于提升训练结果的精度和稳定性。改进的人工鱼群算法避免了神经网络初始输入权值和阈值的随机性，同时有效地提高了算法的自适应能力和优化精度。通过对神经网络的初始输入权值和阈值进行优化后，使得ELM模型具有更高的预测精度，同时减少盲目寻找产生的训练时间的延长，使得工控网络通信异常行为预测模型有更好的泛化性能。因此PCA-GSA-AFSA-ELM(extreme learning machine)的工控网络通信异常行为预测模型可以对异常行为的预测进行快速高效的预测。
+
+# 1 工业控制网络异常检测的原理
+
+# 1.1通信异常检测思想
+
+近年来，工业控制系统为了便于企业管理，将上层管理系统与底层工业控制网络互连互通，用户通过企业管理信息网中的计算机Windows 相关应用程序监控工业控制网中的工业设备运行参数，以及获取服务器上的生产数据。
+
+因此，依据其特点采用如图1所示的体系结构构建异常检测模型，在管理信息网络中用户客户端与Web服务器间的路由器上加入主成分分析方法、改进的鱼群算法以及ELM神经网络的深度学习检测环节，利用通信数据特征，检测管理网络与服务器的通信异常行为，进一步提升准确率，有效缩短检测时间。
+
+![](images/bc248e18a66db75738e8b680cd507a10f77b68810dbd497b5ff58330fec425fb.jpg)  
+图1系统架构模型
+
+# 1.2通信异常行为的特征选择
+
+通信数据中异常通信数据情况较为单一、样本数量较少。根据目前工业控制网络环境，本文针对以下攻击类型进行分析。
+
+1)DoS 攻击由网络协议本身的安全缺陷造成，最常见的DoS攻击是利用合理的服务请求来占用过多的服务资源，致使服务超载，无法响应其他的请求。这些资源包括网络带宽、文件系统空间容量、开放的进程、内向的连接等。这种攻击会导致系统资源的匮乏。设法远程或本地访问通信基础设施的攻击者可以通过淹没与虚假流量的关键链路或者通过使关键网络设备的计算资源饱和来启动拒绝服务（DoS）攻击，如路由器或计量现场设备。这种攻击导致来自现场设备的实时测量数据被延迟或最差丢弃[8]。
+
+2)端口扫描端口扫描攻击是远程用户(R2L)攻击的第一步。其目的是知道哪些系统端口是开放的。这是基于网络入侵的基本步骤。通过这次攻击，攻击者可以发现一些潜在的漏洞，并通过该漏洞侵入系统。IDS可以使用源地址、目的地址和端□号识别数据包的模式。但是潜行扫描攻击(如慢速端口扫描)很难找出，因为缓慢的端口扫描攻击与正常活动非常相似[9]。
+
+3)中间人攻击通常分布在一些通信线路没有很好的物理保护的地方。攻击者可以通过选择性地删除或修改从现场设备（控制器）发送的传感器数据（控制信号）来发起中间人攻击，从而损害可用性和完整性的消息交换。重播攻击是中间攻击的另一种形式：嗅探通信通道的攻击者可以复制测量数据或控制命令，然后转发它们。中间人对测量数据的攻击主要是在攻击持续存在的情况下有效。这是因为系统是动态系统，即测量数据被新的一组测量持续刷新。因此，单个中间人攻击的效果可以忽略不计，特别是对于每秒刷新几次的同步测量；相反，对控制信号的单一攻击可能是灾难性的[10]。
+
+4)内部攻击内部攻击通常分为两种情况：a)内部人员使用他们的合法访问来执行与安全策略相违背的某些操作，如敏感数据泄露给某些第三方，若此时访问资源被允许和阻止时，则可能发现违规操作源；B)内部人员以访问控制的安全策略的方式，使用他们的访问来扩展其权限，当用户可能具有登录特定系统的合法能力，并滥用该权限以获取对系统的非法级别访问[11]。
+
+本文在设计异常检测方法时，结合了每类攻击的特点，建立入侵检测系统模型。
+
+# 2 PCA-GSA-AFSA-ELM的工控网络异常行为预测模型
+
+# 2.1 GSA-AFSA算法
+
+2.1.1觅食行为
+
+人工鱼 $X _ { t }$ 按式(1)在视野visual 内随机产生一个状态 $X _ { j } ^ { [ 1 2 ] }$ 。
+
+$$
+X _ { _ { j } } = X _ { _ { t } } + ( 2 \cdot r a n d - 1 ) \cdot \nu i s u a l
+$$
+
+存在状态 $X _ { I } , ~ X _ { 2 } , ~ \cdots , X _ { \nu } ( \nu { \leq } t r y \_ n u m b e r )$ 的适应值
+
+$f _ { k } { > } f _ { i } ( k { = } 1 , 2 , . . . , \nu )$ 。其中， $f _ { k } ( k { = } 1 , 2 , . . . , \nu )$ 的最大适应值为 $f ( X _ { b e s t } )$ 。下面对各个状态 $X _ { I } , X _ { 2 } , . . . , X _ { \nu } ( \nu \leq t r y \_ n u m b e r )$ 进行惯性质量计算：
+
+$$
+\left\{ \begin{array} { l l } { { m _ { k } ( X ) = \displaystyle \frac { f _ { k } ( X ) - f ( X _ { i } ) } { f ( X _ { b e s t } ) - f ( X _ { i } ) } } } & { { } } \\ { { } } & { { ( k = 1 , 2 , \cdots , \nu ) } } \\ { { M _ { k } ( X ) = m _ { k } ( X ) / \displaystyle \sum _ { j = 1 } ^ { \nu } m _ { j } ( X ) } } & { { } } \end{array} \right.
+$$
+
+这样状态 $X _ { k }$ 的适应值 $f ( X _ { k } )$ 的大小决定了惯性质量 $M _ { k } ( X )$ 的大小，适应值越大，粒子惯性质量越大，粒子越趋向于最优解。以粒子惯性质量作为权重，计算加权后的中心位置。
+
+$$
+\boldsymbol { X } _ { c } = \sum _ { k = 1 } ^ { \nu } \boldsymbol { m } _ { k } ( \boldsymbol { X } ) \cdot \boldsymbol { X } _ { k }
+$$
+
+状态 $X _ { k }$ 的适应值 $f ( X _ { k } )$ 越大，加权后的中心位置越偏向 $X _ { k }$ 。如果 $f ( X _ { c } ) > f ( X _ { t } )$ ，人工鱼 $X _ { t }$ 按照式(4)向下一个状态 $X _ { n e x t }$ 移动。
+
+$$
+X _ { n e x t } = X _ { i } + \frac { X _ { c } - X _ { i } } { \Vert X _ { c } - X _ { i } \Vert } \cdot r a n d ( ) \cdot s t e p
+$$
+
+相反，随机尝试次数try_mumber后，如若仍然不满足前进条件，则执行随机行为。
+
+# 2.1.2聚群行为
+
+当前人工鱼 $X _ { t }$ 在视野visual 范围内探索的伙伴数目为 $p$ 对其伙伴 $X _ { j } ( j { = } 1 , 2 , . . . , p )$ 按照式(5)计算权重，得到加权后的中心位置。
+
+$$
+\boldsymbol { X } _ { c } = \sum _ { j = 1 } ^ { p } \boldsymbol { m } _ { j } ( \boldsymbol { X } ) \cdot \boldsymbol { X } _ { j }
+$$
+
+如果 $f ( X _ { c } ) > f ( X _ { t } )$ ，人工鱼 $X _ { t }$ 按照式(6)向下一个状态 $X _ { n e x t }$ 移动。
+
+$$
+X _ { n e x t } = X _ { i } + \frac { X _ { c } - X _ { i } } { \Vert X _ { c } - X _ { i } \Vert } \cdot r a n d ( ) \cdot s t e p
+$$
+
+相反，随机尝试次数try_number后，如若仍然不满足前进条件，则执行随机行为。
+
+# 2.2GSA-AFSA算法优化的ELM
+
+由于ELM初始输入权值和阈值是随机确定的，训练的精度和时间都会受随机性的影响，所以需要采用GSA-AFSA算法对ELM初始输入权值和阈值进行优化，从而避免盲目训练人工神经网络。
+
+在本文中用GSA-AFSA算法优化极限学习机中的权值和阈值，建立工业控制网络通信异常行为检测的GSA-AFSA-ELM模型。该算法的具体步骤[13]如下：
+
+a)算法参数初始化设置。鱼群规模N、视野visual、步长step、最大迭代次数T、尝试次数try-number、拥挤度 $\delta$ 等。
+
+b)初始化种群。将极限学习机的输入权值和阈值作为GSA
+
+AFSA算法的人工鱼，长度为 $\scriptstyle \mathbf { D } = \mathbf { k } \times ( \mathbf { n } + 1 )$ 。其中，隐含层节点数目 $\mathbf { k }$ 输入向量维数 $\mathrm { ~ \bf ~ n ~ } _ { \circ } \mathrm { ~ \bf ~ \boldsymbol ~ \theta ~ } ^ { m }$ 为种群中的第 m(1≤m≤popsize)个人工鱼。
+
+$$
+\begin{array} { c }  { \theta ^ { \prime \prime } = \displaystyle { \bigl [ w _ { _ { I I } } ^ { m } , w _ { _ { I 2 } } ^ { m } , \cdots , w _ { _ { I k } } ^ { m } , w _ { _ { 2 I } } ^ { m } , w _ { _ { 2 2 } } ^ { m } , \cdots , w _ { _ { I k } } ^ { m } , \cdots , w _ { _ { n I } } ^ { m } , } } \\ { { w _ { _ { n 2 } } ^ { m } , \cdots , w _ { _ { n k } } ^ { m } , b _ { _ { I } } ^ { m } , b _ { _ { 2 } } ^ { m } , \cdots , b _ { _ { k } } ^ { m } \bigr ] } } \end{array}
+$$
+
+其中: $\boldsymbol { w _ { i j } ^ { m } }$ 、 $b _ { j } ^ { m }$ 为[-Xmax,Xmax]中的随机数，一般 $\scriptstyle \mathrm { X m a x = 1 }$ 。将ELM的训练样本的均方根误差函数作为适应度函数，计算人工鱼的适应度值，并将最优个体的位置及食物浓度记录在公告板上。
+
+c)人工鱼的行为选择。
+
+(a)觅食行为。人工鱼Xt 按式(1)在视野visual内随机产生一个状态Xj。将比当前位置及食物浓度更高的粒子按式(2)计算权重，同时按照式(3)获得加权后的中心位置Xc。如果中心位置的食物浓度相比于当前位置的食物浓度更高且不拥挤，则向前移动一步；相反，执行随机行为。
+
+(b)聚群行为。当前人工鱼Xt在视野visual范围内探索的伙伴数目为p，对其伙伴按照式(5)计算权重，得到加权后的中心位置Xc。如果中心位置的食物浓度相比于当前位置的食物浓度更高且不拥挤，则向前移动一步；相反，执行觅食行为。
+
+(c)追尾行为。当前人工鱼Xt 在视野visual 范围内探索食物浓度最高的伙伴并判断它的周围是否拥挤，如果成立，就向前一步；否则，执行觅食行为。
+
+(d)随机行为。当前人工鱼Xt在视野visual范围内随机选择一个位置，向前一步。
+
+d)更新公告板。将当前最优的人工鱼记录到公告板。
+
+e)迭代次数加一，返回步骤c)，直到迭代次数大于设置的最大迭代次数。
+
+f)将公告板上的最优人工鱼输出代入式(8)中，利用ELM算法训练SLFNs，输出网络通信指标预测值。
+
+$$
+{ \boldsymbol { \beta } } \mathrm { = } { \boldsymbol { H } } ^ { + } { \boldsymbol { T } }
+$$
+
+其中： $\pmb { H }$ 为隐含层输出矩阵； $_ { T }$ 为神经网络的输出； $\beta$ 为输出权重； $\pmb { H } ^ { + }$ 为广义逆。
+
+GSA-AFSA算法能有效地避免鱼群算法过早收敛到局部极值，提高了算法的收敛精度，算法的稳定性得到改善。
+
+# 2.3PCA-GSA-AFSA-ELM工控网络异常行为预测模型
+
+PCA-GSA-AFSA-ELM预测模型工作流程如图2所示。
+
+![](images/9e6b11d16fa8f6a3faccc799de4256988fa9a03979dfb9e2d9ac4d8799108b9b.jpg)  
+图2算法求解流程
+
+# 3 测试与结果分析
+
+# 3.1算法有效性验证
+
+# 3.1.1实验数据描述
+
+实验选用的数据集为异常检测领域广泛采用的KDD99数据集。训练集和测试集分别包含494021条和311029条数据。其中包括正常数据和攻击数据，主要包括 PROBE(probingattack)、DOS(denial of service attack)、U2R(user-to-root attack)和R2L(remote-to-login attack)四大类攻击。每条记录包含41维特征，其中最后一列为标签属性。
+
+# 3.1.2实验环境和参数设定
+
+测试实验硬件为Intelcorei3-5005UCPU $2 . 0 0 ~ \mathrm { G H z }$ ，操作系统为Windows7旗舰版，软件为MATLAB2015b,Python2.7.13。
+
+首先，上文根据工业控制系统通信信息进行入侵检测特征选取，利用python 软件对 494021个样本12个特性[14进行主成分分析。通过计算累计贡献率即可最终确定提取主成分个数。提取主成分之后，由公式计算得到主成分载荷及主成分得分。比较每一个主成分对应的各个原始特性的载荷，载荷越大，对应的主成分反映的该原始特性的信息量就越大。最后提取了10个主成分反映的主要原始特性信息。相应用python 实现PCA的伪代码如下：
+
+<html><body><table><tr><td>import numpyas np</td></tr><tr><td>import pandasas pd</td></tr><tr><td>from sklearn.decomposition import PCA</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td>file=pd.read csv('filename',sep=',,names=names,low memory=False)</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></table></body></html>
+
+# 表1为10个主成分反映的主要原始特性。
+
+表1主成分反映的主要原始特性  
+
+<html><body><table><tr><td>主成分</td><td>反映主要原始变量</td></tr><tr><td>1</td><td>连接持续时间</td></tr><tr><td>2</td><td>协议类型</td></tr><tr><td>3</td><td>目标主机的网络服务类型</td></tr><tr><td>4</td><td>从源主机到目标主机的数据字节数</td></tr><tr><td>5</td><td>从目标主机到源主机的数据字节数</td></tr><tr><td>6</td><td>是否成功登录</td></tr><tr><td>7</td><td>过去2s内，与当前连接具有相同服务的连接数</td></tr><tr><td>8</td><td>过去2s内，与当前连接具有相同的目标主机的连接数</td></tr><tr><td>9</td><td>前100个连接中，与当前连接具有相同目标主机相同源端口的连接</td></tr><tr><td></td><td>所占的百分比</td></tr><tr><td></td><td>10前100个连接中，与当前连接具有相同的目标主机相同服务的连接 数</td></tr></table></body></html>
+
+在MATLAB环境下，利用GSA-AFSA-ELM算法训练神经网络。选择应用最为广泛的3层单向前馈型神经网络，输入层神经元个数为10，隐含层神经元个数为30，输出层神经元为5，分别为Normal正常数据、DoS攻击、U2R攻击、R2L攻击、Probe攻击。对应的神经网络拓扑如图3所示。
+
+![](images/aaf220b6bd52dac1edba19d109c9298239855b8fa55fdb4be18e6c12bb30629e.jpg)  
+图3神经网络拓扑图
+
+本文鱼群寻优部分迭代最大次数为100次，每次迭代过程中记录其鱼群适应度方差。适应度方差曲线比较如图4所示。
+
+从图4中可以看出，AFSA-ELM的方差在迭代20次陷入最小值，GSA-AFSA-ELM迭代81次寻到最优解，跳出了局部最优陷阱。
+
+![](images/31e37cac4cb29df3bd768abd08252b75a468bcd71833f19a135bfcf8dc633260.jpg)  
+图4适应度方差曲线比较
+
+图5所示为AFSA-ELM与GSA-AFSA-ELM算法性能对比。本文提出的GSA-AFSA-ELM算法训练23次时达到误差最小值，其值为0.05；然而AFSA-ELM算法训练36次时达到误差最小值，其值为0.15。因此在本文中提出的GSA-AFSA-ELM算法提高了收敛的精度，有效避免了早期收敛。
+
+![](images/ce541d7e0ad02a5d78f447472637548c7d053cc4d3e92d582039993b1475fbed.jpg)  
+图5训练误差比较
+
+经GSA-AFSA算法寻优后，将公告板上最优的人工鱼的位置及食物浓度输出，对应的神经网络的输入权值和阈值为
+
+0.1745 0.0526 0.7671 0.1806 - 0.2977 0.0169 0.3406 0.3490 -0.1118 -0.1044 -0.11010.2372 -0.0427 -0.4354 0.3969 0.1277-02452-016106 0.3994 0.0476 - 0.16010.2998 - 0.3968 -0.4702 -0.1960-03803034200517 0.2985 - 0.1803 0.3922 0.70510.2282 0.6711 - 0.1860 0.1774 - 0.1005 - 0.6716 -0.2957 0.5644 - 0.2015 0.0281 -0.44950.1569 - 0.7648 0.3801 - 0.01630.1249 0.1249 -0.0823 -0.2818 0.4714 0.9126 - 0.5780 -0.14080.3533 0.2521 0.1053 0.0421 -0.7516 - 0.6069 0.0723 0.3689 0.5701 - 0.0152 0.24260.3460 - 0.4054 0.3804 0.1104 - 0.1984 0.5753 - 0.6607 0.0607 -0.1597 0.0114 -0.0830- 0.0578 0.2673 0.3716 - 0.3078 - 0.30780.0125 0.1512 0.3332 0.7610 0.3159 0.5274 0.00900.4688 0.1066 -0.11590.2283 0.5569 -0.1141 -0.4298 - 0.6029 0.0717 0.0035 -0.01400.5134 0.1484 0.1361 -0.25480.0757 0.1166 -0.1085 0.0619 0.1125 0.0740 0.2732- 0.3094 - 0.30130.0236 0.4005-0.94250.2336-0.4223 -0.0154 0.4791 0.3126 0.43450.1307 - 1.0000 0.0653 0.1301 -0.55060.2747 0.4449 -0.4194 0.1802 0.1544 -0.0028-0.2778 0.5477 - 0.1157 0.0926 -0.5096 -0.2772 0.3016 0.1378 0.6413 0.6775 -0.3394- 0.0720 - 0.0465 0.4065 - 0.0009 - 0.0009 -0.1098 0.2322 0.2401 0.0830 0.3888 - 0.5904 0.4204a= 0 0.8640.0707 b -0.2138-0.2110 -0.75020.04660280026508930 0.3488 0.5379 0.0165 0.3223-0.0295 -0.93240.0569 0.0569-0.3457-00132 -0.3400-0.5292 0.0903 0.4088 0.2174 0.2356- 0.4591 0.3205 -0.5345 0.7530-0.2207 - 0.1696 -0.16960.2479 -0.1120 0.4486 0.2260 0.48990.1156 0.1383 -0.1154-03431042504067 0.6442 - 0.3704 - 0.1275 - 0.3960 0.4109-0.0487 0.06960.1102 0.4951 - 0.2189 0.0094 0.2759 - 0.1065 0.0821 - 0.2678 0.6683-0.5445 0.0400-01084-00359-03452 - 0.3803 - 0.0954 - 0.1358 0.0747 - 0.2187 -0.41100.0769 0.2132 -0.1562 0.0473 -0.1838-0.6245-0.0165 - 0.1359 0.2788 0.4413 0.2665- 0.0891 0.2692 - 0.0401 0.1669 0.56220.2822 0.0791 - 0.0521 - 0.5965 0.2333 0.08840.2473 -0.4012 - 0.0041 0.2227-0908-05565-02535-000050858 0.1392 -0.29690.3315 -0.1649-0.1482-0401503719004822 - 0.0369 0.4429 0.1136 -0.0589- 0.3194 0.1615 -0.5737 0.2524 -0.2139 -0.1697 -0.6757 - 0.3392 0.6766 0.2915 0.75730.5514 -0.4774-0.5548-0.6329-02020-00629-036100.3444 0.2045 0.0208 0.17630.3775 -0.0817 0.0266 -0.0409 -0.0409-0.0755-0.5404 0.2305 0.0902 -0.2038 - 0.1970 0.08040.3787 0.2429 - 0.3257 0.2407 0.8966 0.0064 0.5692 -0.0780 0.3413 - 0.3571 /99 (0.0000 36?
+
+# 3.1.3实验结果分析
+
+算法训练的次数对算法的检测准确率存在影响，文中对比了GSA-AFSA-ELM、AFSA-ELM和ELM这三种算法，如表2所示，本文方法在训练次数和精确程度上都有明显优势。
+
+表2各方法的训练次数及对应的检测率  
+
+<html><body><table><tr><td>方法</td><td>训练次数</td><td>检测率/%</td></tr><tr><td>本文方法</td><td>22</td><td>80.07</td></tr><tr><td>AFSA-ELM</td><td>36</td><td>70.13</td></tr><tr><td>ELM</td><td>47</td><td>68.27</td></tr></table></body></html>
+
+现将该模型与AFSA-ELM、ELM、BP模型进行对比研究，利用训练集和测试集对其进行训练，并产生预测结果。对比结果如图6所示。
+
+![](images/251493cea00092d2d7e5d260438c3740e4473f6211f40db5be02e5f701d209e5.jpg)  
+图6四种算法检测率比较
+
+相比于BP神经网络，ELM极限学习机算法学习速度快、泛化性能好。图7为四种模型训练时间的对比。经过GSA-AFSA算法优化后的ELM训练时间为 $3 . 4 2 1 \ 9 \ \mathrm { ~ s ~ }$ ，而单纯的ELM训练的时间为3.4688s，产生训练时间上的差距主要由于单纯的ELM训练过程输入权值和阈值是随机的，为提升预测结果的精度和决定系数，需要反复训练寻找满足要求的参数。这种较为盲目随的训练方法增长了训练时间。
+
+![](images/0c73701bbaab4636e26adc370300a7b04e493fc7c4ac26d1a9ab5d46b74580b9.jpg)  
+图7多种模型训练时间对比
+
+四种模型对应的测试时间如图8所示。
+
+1.4  
+1.2  
+0.6 二  
+0.4  
+0.2  
+BP ELM AFSA-ELM 本文方法
+
+图9为本文实验ELM、AFSA-ELM、GSA-AFSA-ELM这三种系统分别对DoS、U2R、R2L、Probe攻击的检测率，其中DoS攻击的检测率最高，可以达到 $9 6 . 9 0 \%$ 以上，对于R2L的检测率达到 $8 6 . 2 7 \%$ 。
+
+![](images/42e2a30ae48b52088a2c4e05071e9b7fd0682c075c00ce8758cfcdcfa4ac9bc3.jpg)  
+图8多种模型测试时间对比
+
+# 3.2 算法性能分析
+
+# 3.2.1实验数据描述
+
+为了验证本文算法在工业控制领域的适用性，本文以从某风力发电场获取的数据为基础，对本文算法进行性能分析。图10为某风力发电场的数据采集与同步系统架构拓扑图。
+
+![](images/801638095c895278f1c9127cd6b7a50ea31fac45edd865aba39fcfe130ccc78c.jpg)  
+图9三种系统检测率对比  
+图10数据采集与同步系统架构拓扑图
+
+表3为某风力发电场web发布的部分数据。
+
+表3部分采集数据  
+
+<html><body><table><tr><td>风机编号</td><td>风机名称</td><td>额定功率（KW）</td><td>当前风速(m/s)</td><td>当前功率（xW）</td></tr><tr><td>1</td><td>MADE-01号风机</td><td>660KV</td><td>7.9</td><td>134.6</td></tr><tr><td>2</td><td>MADE-02号风机</td><td>660KV</td><td>5.9</td><td>0.0</td></tr><tr><td>3</td><td>MADE-03号风机</td><td>660KV</td><td>9.9</td><td>151. 3</td></tr><tr><td>4</td><td>MADE-04号风机</td><td>660KV</td><td>7.6</td><td>123. 2</td></tr><tr><td>5</td><td>MADE-05号风机</td><td>660KF</td><td>6.9</td><td>65.7</td></tr><tr><td>?</td><td>MADE-06号风机</td><td>660KV</td><td>6.4</td><td>0.0</td></tr><tr><td>7</td><td>MADE-07号风机</td><td>660KV</td><td>6.7</td><td>99. 0</td></tr><tr><td>8</td><td>MADE-08号风机</td><td>660KV</td><td>0.0</td><td>0.0</td></tr><tr><td>9</td><td>MADE-09号风机</td><td>660KF</td><td>7. 6</td><td></td></tr><tr><td>10</td><td>NORDEX-10号风机</td><td>600KV</td><td>7.4</td><td>59. 7</td></tr><tr><td>11</td><td>NORDEX-11号风机</td><td>600KV</td><td>7.0</td><td>276. 33</td></tr><tr><td>12</td><td>NORDEX-12号风机</td><td>600KV</td><td>6.7</td><td>93.55</td></tr><tr><td>13</td><td>NORDEX-13号风机</td><td>600KV</td><td>5.3</td><td>80. 07</td></tr><tr><td>14</td><td>NORDEX-14号风机</td><td>600KV</td><td>7.3</td><td>47. 31 156. 7</td></tr></table></body></html>
+
+# 3.2.2实验参数设定及数据分析
+
+从某风力发电场获取数据147条，其中正常数据为98条，异常数据为49条。首先利用python 软件对147个样本30个特性进行主成分分析。通过计算最终确定提取10个特性作为主成分。构造单隐层前馈神经网络，将10个主成分作为输入层节点的输入，输出层为5个节点，分别为正常数据、DoS攻击、中间人攻击、内部攻击和端口扫描。其余参数设置与上文相同。
+
+对于在工控系统采集到的147条数据，其中102条作为训练集，训练集包含54条正常数据和48条异常数据；45条作为测试集，测试集中包含31条正常通信数据和17条异常通信数据。
+
+现将本文方法与AFSA-ELM、ELM、BP网络进行对比，利用工控系统采集到的数据对其进行训练，并产生预测结果，对比结果见图11。
+
+![](images/ce3a57e29613ba0ce8d7c929c430a11c2454efc28e57a1932faddceb9858edea.jpg)  
+图11四种算法检测率比较
+
+本文实验ELM、AFSA-ELM、本文方法这三种系统分别对DoS、中间人、内部、端口扫描攻击的检测率，其中DoS攻击的检测率最高，可以达到 $8 7 . 3 1 \%$ 以上，对于内部攻击的检测率达到 $8 4 . 2 4 \%$ 。图12为这三种系统对各个攻击的检测率。
+
+![](images/25dd0a445720bbc90296c4486370002ed52fcc2fd212236904351d3106994f63.jpg)  
+图12三种系统检测率对比
+
+# 4 结束语
+
+本文针对工业控制网络入侵检测问题提出一种主成分分析及GSA-AFSA-ELM神经网络的通信异常检测方法。根据本系统的工作流程可知该方法有以下优势：主成分分析用于提取数据的主要特征分量，常用于高维数据的降维，简化复杂问题。ELM极限学习机相比于BP神经网络，学习速度快、泛化性能好。在训练过程中ELM算法无须调整，只需设置隐含层神经元的个数，便可获得唯一的最优解。利用GSA-AFSA-ELM方法可实现异常通信行为的预测。实验结果表明，本文算法能够有效地检测网络数据中的异常行为，异常检测的准确性提升了$3 . 5 1 \%$ ，有效地缩短了0.6094s的检测时间，实现了利用深度学习预测通信行为的能力。下一步将研究采用模糊逻辑实现入侵检测机制，并重点提升检测系统的容错性。
+
+# 参考文献：
+
+[1] 尚文利，安攀峰，万明，等．工业控制系统入侵检测技术的研究及发展 综述[J].计算机应用研究,2017,34(2): $3 2 8 - 3 3 3 + 3 4 2$ . (Shang Wen Li, An Pan Feng,Wan Ming,et al.Research and development overview of intrusion detection technology in industrial control system [J].Journal of Application Research of Computers,2017,34(2): 328-333+342.)   
+[2]赖英旭，刘增辉，蔡晓田，等．工业控制系统入侵检测研究综述[J]. 通信学报,2017,38(2):143-156.(Lai YingXu,Liu Zenhui, Cai Xiaotian, et al.Research on intrusion detection of industrial control system[J].Journal of Communication,2017,38 (2): 143-156.)   
+[3]尚文利，李琳，万明，等．基于优化单类支持向量机的工业控制系统入 侵检测算法 [J].信息与控制,2015,44(6):678-684.(Shang Wenli,LiLin, WanMing,et al. Intrusion detection algorithm based on optimized one-class support vector machine for industrial control system [J].Information and Control,2015,44(6): 678-684.)   
+[4]Yang Yi,McLaughlinK,LittlerT,et al.Intrusion detection system for IEC 60870-5-104 based SCADA networks[C]// Proc of Power and Energy Society General Meeting.   
+[5]Piscataway, NJ: IEEE Press,2013: 1-5.   
+[6] 侯重远，江汉红，芮万智，等．工业网络流量异常检测的概率主成分分 析法[J].西安交通大学学报,2012,46(2):70-75.(Hou Chongyuan,Jiang Hanhong,Rui Wanzhi,et al.A probabilistic principal component analysis approach for detecting traffic anomaly in industrial networks [J].Journal of XI’AN JiaoTong University,2012,46 (2): 70-75.)   
+[7]Zhou C,Huang S, Xiong N,et al. Design and analysis of multimodel-based anomaly intrusion detection system in industrial process automation [J]. IEEE Trans on System,Man,andCybernetics,2015,45 (10): 2168-216.   
+[8]Aburomman A A, Reaz M B I. A novel SVM-KNN-PSO ensemble method for intrusion detection system [J].Applied Soft Computing,2016,38 (1): 360-372.   
+[9]Parvania M, Koutsandria G,Muthukumar V,et al. Hybrid control network intrusion detection systems for automated power distribution systems [C]// Proc of IEEE/IFIP International Conference on Dependable Systems and Networks.[S.1.]: IEEE Computer Society,2014: 774-779.   
+[10] Jensen PT. Detectionand characterizationof port scan atacks [J]. Key Engineering Materials,2014,602-603 (3): 93-96.   
+[11] Ponomarev S,Atkison T. Industrial control system network intrision detection by telemetry analysis [J].IEEE Trans on Dependable and Secure Computing,2016,13 (2): 252-260.   
+[12] Bishop M, Gates C.Defining the insider threat [C]//Proc of Workshop on Cyber Security & Information Inteligence Research: Developing Strategies To Meet the Cyber Security & Information Intelligence Challenges Ahead. 2008: 1-3.   
+[13]冯国明，郭承军，叶晶晶．基于万有引力搜索算法改进的人工鱼群算法 [J]．数学学习与研究,2016(1):144-146.(Feng Guoming,Guo Chengjun, Ye Jingjing. Artificial fish swarm algorithm improved based on universal gravitational search algorithm [J]. Mathematics Learning and Research, 2016 (1): 144-146. )   
+[14]周华平，袁月．改进鱼群算法优化的 ELM在乳腺肿瘤辅助诊断中的应 用研究[J].计算机工程与科学，2017,39(11):2144-2152.(Zhou Huaping, Yuan Yue.Application of ELM in computer-aided diagnosis of breast tumors based on improved fish swarm optimization algorithm [J]. Computer Engineering & Science,2017,39(11): 2144-2152.)   
+[15]赵新星，姜青山，陈路莹，等．一种面向网络入侵检测的特征选择方式 [A]//第 26 届中国数据库学术会议论文集(B辑)[C]// 中国计算机学 会数据库专业委员会,2009:488-493.(Zhao Xinxing,JiangQingshan, Chen Luying,et al.A feature selection method for network intrusion
+
+detection [A]//Proc of the 26th China Database Conference Papers (series B)[C]// China Computer Society Database Specialized Committee.2009: 488-493.)

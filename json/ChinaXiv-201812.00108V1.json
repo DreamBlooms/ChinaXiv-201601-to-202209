@@ -1,0 +1,801 @@
+[
+    {
+        "type": "text",
+        "text": "拟合矩阵与两阶融合迭代加速推荐算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王帅，孙福振，王绍卿，张进，方春(山东理工大学 计算机科学与技术学院，山东 淄博 255049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：传统的矩阵分解模型无法充分探索用户与物品在均值、偏置和特征之间的内在联系，提出拟合矩阵模型，通过构建用户与物品矩阵分别代表用户与物品特性，提高预测性能。矩阵分解模型在推荐系统领域有精度优势，但求解模型参数最常用的梯度下降法收敛速度缓慢。针对梯度下降法的上述缺陷，考虑与拟牛顿法进行融合，使得收敛速度加快。提出的算法命名为拟合矩阵与两阶融合迭代加速推荐算法(fiting matrix and two orders fusion iterative，FAST)。实验表明,FAST算法比传统的非负矩阵分解(NMF),奇异值矩阵分解(SVD),正则化奇异值矩阵分解(RSVD)在平均绝对误差(MAE）与均方根误差(RMSE）上有下降，在迭代效率上有显著提高，缓解了精度与迭代效率难以平衡的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：拟合矩阵；矩阵分解；拟牛顿法；梯度下降；融合 中图分类号：TP301.6 doi: 10.19734/j.issn.1001-3695.2018.07.0533 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accelerating recommendation algorithm using fiting matrix and two orders Fusion iterative ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Shuai, Sun Fuzhen, Wang Shaoqing, Zhang Jin, Fang Chun lege of Computer Science& Technology，Shandong University ofTechnology,Zibo Shandong 255049,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The traditional matrix decomposition modelcannotfully explored the intrinsic relationship between theuserand theobject in themean,biasandcharacteristics.Thispaperproposedafiting matrixmodel toimprovethe prediction performance byconstructing theuser and the item matrix to represent the characteristics of the user and the item respectively.The matrix decomposition model had the advantageof accuracyin the field of recommender system,but the gradient descent method,which was the most popular method to train parameters of model,hadaslow convergence speed. Considering theabove defects,this paper considered to accelerate theconvergence speed using the convergence of quasi Newton method.We namedthe proposed algorithmas fiting matrix and two orders fusioniterative (FAST)algorithm.The experimental results showed thatthe FAST algorithm was beter than the traditional non negative matrix decomposition (NMF）,singular value matrix decomposition (SVD）,and the regularized singular value matrix decomposition (RSVD). FASTalgorithm had adecrease with regard to the mean absolute error (MAE)and the root mean square error (RMSE),and hadasignificant improvement intheiterative efficiency，which aleviated the problem thattheaccuracy was dificult to balance with the efficiency of the iteration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: fiting matrix; matrix decomposition; quasi Newton method; gradient descent; Fusion ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "协同过滤推荐技术是推荐系统中应用最早和最为成功的技术之一。奇异值矩阵分解（SVD）是用于协同过滤的常用算法之一。而直接应用传统的奇异值矩阵分解算法协同过滤可能导致性能不佳。因而需要结合推荐系统数据稀疏性的特征提出行之有效的奇异值矩阵分解方法1。其中最著名的就是正则化奇异值矩阵分解（RSVD)，在原有奇异值矩阵分解的基础上加入正则化因子和偏置因子，利用线性回归方法让正则化因子与偏置因子产生双向交互作用，提高奇异值矩阵分解的预测能力[2]。不同于奇异值矩阵分解（SVD)，协同过滤中还有一种矩阵分解的方式为非负矩阵分解(NMF)，这种方法也是协同过滤推荐系统中一种比较流行的算法之一[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "而文献[4]提出将梯度下降与拟牛顿法结合，采用一种随机正则化（RES）的拟牛顿法用于求解随机函数的凸优化问题，对拟牛顿法在高维矩阵中的发散问题与海森矩阵的逆矩阵的计算与存储问题提出一种有效的改进思路。然而这种结合方式的预测精度介于梯度下降与拟牛顿法之间，以降低部分预测精度换取二者的有效结合。文献[5]也提出了一种将拟牛顿法与其他方法结合的思路，称为混合人工蜂群策略。通过统计分析，所提出的训练策略相比于用拟牛顿法训练的DNN分类器具有更好的分类性能。这种方法适合于数据稀疏性低且数据特征明显的数据(如图像识别)。不适用于数据稀疏性很高的推荐系统领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文献[6-8]中的模型都借鉴了传统协同过滤技术中的基于用户推荐模型，而这类模型最大的优势是不需要迭代数据，从而时间效率较高，但是与具有迭代数据的模型（例如奇异值矩阵分解）相比推荐精度稍差。文献[910]都是近年来流行的基于排序学习模型，最终形成topN推荐列表的文章，这类模型优势在于算法复杂度低，不需要人为设定超参数。但是精度相比协同过滤中具有迭代数据的模型略低，而且难以进",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "行扩展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，为提升奇异值矩阵分解的训练效率，以及提高预测精度，本文提出了一种基于拟合矩阵和两阶融合迭代加速推荐算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关概念 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1SVD在推荐系统中的应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "奇异值分解是将一个 $m \\times n$ 的矩阵 $A$ ，通过公式 $\\boldsymbol { A } = \\boldsymbol { U } \\boldsymbol { \\Sigma } \\boldsymbol { V } ^ { T }$ 分解为三个矩阵。其中一个 $m \\times m$ 的方阵， $\\Sigma$ 是一个 $m \\times n$ 的奇异值矩阵， $\\boldsymbol { V }$ 是一个 $\\scriptstyle n \\times n$ 的方阵。 $U$ 与 $\\boldsymbol { V }$ 的元素均是正交向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于奇异值分解中的矩阵 $A$ 是一个完整矩阵，而推荐系统的评分矩阵 $R$ 是一个不完整矩阵并且稀疏。导致推荐系统中应用SVD时，不能直接使用公式 $\\boldsymbol { R } = \\boldsymbol { U } \\boldsymbol { \\Sigma } \\boldsymbol { V } ^ { T }$ 。假设用户与物品之间没有直接联系，人为定义特征维度 $r = f$ 。用户与物品通过与 $f$ 的联系将评分矩阵 $R$ 分解成为两个特征维度矩阵$U$ 与 $\\boldsymbol { V } , \\boldsymbol { U }$ 代表用户特征，是一个 $r \\times m$ 的矩阵， $\\mid m$ 代表用户数目。 $\\boldsymbol { V }$ 代表物品特征，是一个 $r \\times n$ 的矩阵， $n$ 代表物品数目。最终通过计算 $U$ 与 $\\boldsymbol { V }$ ，使得 $U ^ { T } V$ 的结果越接近 $R$ 越好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了 $U ^ { T } V$ 的结果不断接近 $R$ ，梯度下降法是最常用的求解方法。梯度下降法的基本原理就是使损失函数沿梯度下降的方向通过步步迭代接近极小值。迭代公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { i } = \\theta _ { i } - { \\tt a } \\frac { \\hat { o } } { \\hat { \\partial } \\theta _ { i } } J \\left( \\theta _ { 0 } , \\theta _ { 1 } . . . , \\theta _ { n } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $- \\frac { \\hat { \\sigma } } { \\hat { \\sigma } \\theta _ { i } }$ 代表负梯度方向， $\\mathrm { ~ \\bf ~ a ~ }$ 代表梯度方向的搜索步长，$\\theta$ 代表参数进行迭代计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2拟牛顿法原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "牛顿法的基本思想是：在现有的极小点估计值的附近对目标函数做二阶泰勒展开式，从而找到极小点的下一个估计值。假设当前的极小点估计值为 $x _ { k }$ 。则目标函数在 $x _ { k }$ 附近的二阶泰勒展开式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi ( x ) = f \\left( x _ { k } \\right) + \\nabla f \\left( x _ { k } \\right) \\left( x - x _ { k } \\right) + { \\frac { 1 } { 2 } } { \\left( x - x _ { k } \\right) } ^ { T } * \\quad \\nabla ^ { 2 } f \\left( x _ { k } \\right) * \\left( x - x _ { k } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\boldsymbol { \\nabla } f$ 为 $f$ 的梯度向量， $\\nabla ^ { 2 } f$ 为 $f$ 的海森矩阵。由于极值的必要条件是 $\\nabla \\varphi ( x ) = 0$ ，设 $\\nabla f$ 为 $G$ . $\\nabla ^ { 2 } f$ 为 $H$ ，则牛顿法的迭代公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx = x _ { k } - H _ { k } ^ { - 1 } \\ast G _ { k } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "牛顿法要求目标函数必须有连续的一阶和二阶偏导数且海森矩阵必须正定，而牛顿法的应用条件在实际情况往往是无法满足的。拟牛顿法是在牛顿法的基础上进行的改进。拟牛顿法的基本思想是利用一阶偏导数求解近似海森矩阵的正定对称阵。近似海森矩阵的条件为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\nabla \\varphi ( { { x } _ { k } } ) \\approx \\nabla f ( { { x } _ { k + 1 } } ) + { { H } _ { k + 1 } } \\ast ( { { x } _ { k } } - { { x } _ { k + 1 } } )  } \\\\ { \\{ \\begin{array} { l } { 1 . { { G } _ { k + 1 } } - { { G } _ { k } } \\approx { { H } _ { k + 1 } } ^ { \\ast } ( { { x } _ { k + 1 } } - { { x } _ { k } } ) } \\\\ { 2 . { { x } _ { k + 1 } } - { { x } _ { k } } \\approx { { H } _ { k + 1 } } ^ { - 1 } \\ast ( { { G } _ { k + 1 } } - { { G } _ { k } } ) } \\end{array}  } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由上述两式作为拟牛顿法的近似约束条件，是拟牛顿法的核心。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 算法结构分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1拟合矩阵模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的推荐系统奇异值矩阵分解模型预测函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma \\big ( p _ { i } , q _ { j } \\big ) = { u + b _ { i } + b _ { j } + p _ { i } ^ { \\textit { T } } q _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $u$ 代表全部评分数据的均值， $b _ { i }$ 代表用户 $i$ 的偏置量， $b _ { j }$ 代表物品 $j$ 的偏置量， $p _ { i }$ 代表用户 $i$ 的特征向量， $q _ { j }$ 代表物品$j$ 的特征向量。传统预测函数虽然将用户 $i$ 与物品 $j$ 分成两个特征矩阵的形式表示，但是特征值的初始化是随机的，而且在计算中不考虑用户与物品自身可能存在的对特征值的潜在影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文引入的拟合矩阵模型将SVD预测公式中的整体均值量 $u$ 替换为当前用户均值与当前物品均值的融合，这样更能够体现当前用户与当前物品的个性化表现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先定义用户i的均值矩阵 $M _ { i }$ 为 $k$ 维，物品 $j$ 的均值矩阵 $\\boldsymbol { M } _ { \\flat }$ 为 $k$ 维。初始化 $M _ { i }$ 与 $\\boldsymbol { M } _ { \\flat }$ 由数据集计算得到标量 $u _ { i }$ 与 $\\boldsymbol { u } _ { j }$ 均分为 $k$ 维矩阵。用户特征矩阵 $S _ { i }$ 与物品特征矩阵 $Z _ { j }$ 也是 $k$ 维的矩阵,初始化随机生成。用户 $i$ 的偏置矩阵 $C _ { i }$ 与物品 $j$ 的偏置矩阵 $C _ { j }$ 同样也是 $k$ 维的矩阵，初始化由标量 $b _ { i }$ 与 $b _ { j }$ 均分成 $k$ 维矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了让均值矩阵（ $M _ { i }$ 与 $\\boldsymbol { M } _ { \\flat }$ ）和特征矩阵（ $S _ { i }$ 与 $Z _ { j }$ ）以及偏置矩阵（ $C _ { i }$ 与 $C _ { j }$ ）融合，引入拟合矩阵模型，为用户 $i$ 与物品 $j$ 分别构造用户矩阵 $X _ { i }$ 与物品矩阵 $Y _ { j }$ ，以 $k$ 维矩阵形式表示。用户矩阵 $X _ { i }$ 由用户 $i$ 的均值矩阵 $M _ { i }$ 、用户 $i$ 的特征矩阵 $S _ { i }$ 、用户 $i$ 的偏置矩阵 $C _ { i }$ 的乘积形式见式（6)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i } = M _ { i } \\times \\left( S _ { i } \\times C _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "物品矩阵 $Y _ { j }$ 由物品 $j$ 的均值矩阵 $\\boldsymbol { M } _ { \\flat }$ 与物品 $j$ 的特征矩阵 $Z _ { j }$ 和物品 $j$ 的偏置矩阵 $C _ { j }$ 以乘积的形式表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { j } = M _ { j } \\times \\left( Z _ { j } \\times C _ { j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此每个用户或物品矩阵由均值矩阵（ $M _ { i }$ 或 $\\boldsymbol { M } _ { \\flat }$ ），特征矩阵（ $S _ { i }$ 或 $Z _ { j }$ ）与偏置矩阵（ $C _ { i }$ 或 $C _ { j }$ ）三部分融合而成，构成双重拟合矩阵。式（6）和（7）的计算过程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用户特征矩阵 $\\cdot S _ { i }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/16517028afa26ce419e8fe53c1fc0e959397a8c81be7062f13c8022a76deb77f.jpg",
+        "img_caption": [
+            "图1拟合矩阵模型",
+            "Fig.1Fitting matrix model "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "构造出的用户与物品的能够在一定程度上反映用户与物品在当前特征上的潜在影响。新的预测函数如式（8）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma \\big ( X _ { i } , Y _ { j } \\big ) { = } \\{ M _ { i } + M _ { j } \\} / 2 + b _ { i } + b _ { j } + X _ { i } ^ { T } Y _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2两阶融合送代加速模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用梯度下降作为一阶计算的处理方式，而拟牛顿法作为二阶计算的处理方式，使用推荐系统中的误差函数作为目标函数，使得梯度下降与拟牛顿法并存，以两阶偏导数融合的形式进行计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于求解SVD模型的参数，拟牛顿法并不能完全替代梯度下降法进行计算，原因主要有：拟牛顿法的学习效率很高，能够迅速拟合训练数据，易于导致过拟合；推荐系统误差函数中存在随机正则项。如，推荐系统误差函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\mathbf { b } _ { i } , b _ { j } , X _ { i } , Y _ { j } } \\sum _ { ( i , j ) \\in K } \\left( R _ { i j } - u - b _ { i } - \\mathbf { b } _ { j } - X _ { i } ^ { T } Y _ { j } \\right) ^ { 2 } + \\mathcal { S } \\left( { b _ { i } ^ { 2 } + X _ { i } ^ { 2 } } \\right) + \\mathcal { S } \\left( { b _ { j } ^ { 2 } + Y _ { j } ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于以上原因，本文提出将梯度下降法与拟牛顿法融合进行计算的思路。对拟牛顿法的步长计算方式进行改进，利用拟牛顿法高效的收敛效率对预测结果与实际结果偏差较小的值进行收敛，而预测结果与实际结果偏差较高的值依然使用梯度下降进行收敛。拟牛顿法中步长λ的计算方式为一维搜索，非精确一维搜索由于存在超参数而梯度下降中已存在超参数 $\\mu$ 与 $\\delta$ ，而算法中如果出现过多的超参数就会失去普适性的意义。若使用成熟的一阶偏导数或函数自身求解极小值则会因误差函数存在随机正则项从而使求解过程失去实际意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此，对于步长的计算方式，通过观察误差函数的形式为完全的二次幂函数，因此利用二阶导数计算最终的步长λ成为可能。由数学定义可知，二阶导数定义是函数的拐点定义。而推荐系统误差函数可满足一般的二次函数特性，函数有且只有一个极小值点，并且极小值点也为拐点。同时在二阶导数的情况下，便完全将正则项转换为常数，从而能把正则项对极值的影响消除，再运用此极小值计算步长λ。便能避开非精确一维线性搜索的超参数过多以及一阶导数或者利用函数自身求解极小值导致的随机正则项问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对拟牛顿法步长的改进处理方式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）对误差函数求关于 $X _ { i }$ 梯度并对 $X _ { i }$ 求关于 $\\lambda _ { i }$ ， $M _ { i } ~ , ~ S _ { i }$ ，$C _ { i }$ 梯度：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla X _ { i } = \\sum _ { i \\in K } \\delta X _ { i } - \\left[ R _ { i j } - \\sigma \\big ( X _ { i } , Y _ { j } \\big ) \\right] Y _ { j } \\ : 2\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\lambda _ { i } = \\frac { \\hat { \\sigma } X _ { i } } { \\hat { \\sigma } \\lambda _ { i } } = { \\sum _ { i \\in K } } \\boldsymbol { d _ { i } } ^ { \\lambda } \\ast \\boldsymbol { M _ { i } } \\times \\left( \\boldsymbol { S _ { i } } \\times \\boldsymbol { C _ { i } } \\right) \\boldsymbol { \\mathrm { ? } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla M _ { i } = \\frac { \\partial X _ { i } } { \\partial M _ { i } } = \\sum _ { i \\in K } { d _ { i } ^ { { \\scriptscriptstyle M } } } \\ast \\boldsymbol { \\lambda } _ { i } ^ { { \\scriptscriptstyle M } } \\ast ( \\boldsymbol { S } _ { i } \\times \\boldsymbol { C } _ { i } ) \\ d { \\mathrm { ? } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla S _ { i } = \\frac { \\partial X _ { i } } { \\partial S _ { i } } = \\sum _ { i \\in K } d _ { i } ^ { s _ { * } } \\lambda _ { i } ^ { \\textit { s * } } ( M _ { i } \\times C _ { i } ) \\textsuperscript { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla C _ { i } = \\frac {  { \\partial } { X } _ { i } } {  { \\partial } { C } _ { i } } = \\sum _ { i \\in K } d _ { i } ^ { \\ : c } {  { \\lambda } ^ { \\ : c } } _ { i } ^ { \\ : * } ( M _ { i } \\times S _ { i } ) ^ { \\ : 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)对误差函数求关于 $Y _ { j }$ 梯度并对 $Y _ { j }$ 求关于 $\\lambda _ { j }$ ， $\\boldsymbol { M } _ { \\flat }$ ， $Z _ { j }$ ，$C _ { j }$ 梯度：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla Y _ { j } = \\sum _ { j \\in K } \\delta Y _ { j } - \\left[ R _ { i j } - \\sigma \\big ( X _ { i } , Y _ { j } \\big ) \\right] X _ { i } \\mathit { ? }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla { \\lambda } _ { j } = \\frac { { \\partial } Y _ { j } } { { \\partial } { \\lambda } _ { j } } = \\sum _ { j \\in K } { d _ { j } } ^ { \\lambda } * { M } _ { j } \\times \\left( Z _ { j } \\times C _ { j } \\right) \\colon\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla M _ { j } = \\frac { \\hat { \\sigma } Y _ { j } } { \\hat { \\sigma } M _ { j } } = \\sum _ { j \\in K } { d _ { j } } ^ { M } * \\lambda _ { j } ^ { \\ M } * \\left( Z _ { j } \\times C _ { j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla Z _ { j } = \\frac { \\partial Y _ { j } } { \\partial Z _ { j } } = \\sum _ { j \\in \\cal K } { d _ { j } } ^ { z } * { \\lambda _ { j } } ^ { z } * \\left( { { M _ { j } } \\times { C _ { j } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla C _ { j } = \\frac { \\partial Y _ { j } } { \\partial C _ { j } } = \\sum _ { j \\in K } d _ { j } ^ { \\textit { c } } * \\lambda _ { j } ^ { \\textit { c } } * \\left( M _ { j } \\times Z _ { j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）将 $d _ { i }$ 与 $\\lambda _ { i }$ 代入 $X _ { i }$ ，将 $d _ { j } { \\stackrel {  } { \\to } } \\lambda _ { j } \\nUparrow \\rangle \\lambda Y _ { j }$ ，并计算误差 $l o s s$ 关于 $\\lambda _ { i }$ 与 $\\lambda _ { j }$ 二阶偏导：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle { \\sum _ { i \\in K } X _ { i } } = X _ { i } + \\lambda _ { i } d _ { i } ^ { \\ \\lambda } ; { \\sum _ { j \\in K } Y _ { j } } = Y _ { j } + \\lambda _ { j } d _ { j } ^ { \\ \\lambda } } } \\\\ { { \\displaystyle { \\sum _ { i , j \\in K } \\frac { \\partial l o s s } { \\partial X _ { i } } \\frac { \\partial X _ { i } } { \\partial \\lambda _ { i } } + \\frac { \\partial l o s s } { \\partial Y _ { j } } \\frac { \\partial Y _ { j } } { \\partial \\lambda _ { j } } = 0 ? } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)将 $\\boldsymbol { d } _ { i } ^ { \\scriptscriptstyle M }$ 与 $\\boldsymbol { \\lambda } _ { i } ^ { \\ : M }$ 代入 $X _ { i }$ ，将 $\\boldsymbol { d } _ { j } ^ { \\upsilon }$ 与 $\\lambda _ { j } ^ { \\phantom { N } }$ 代入 $Y _ { j }$ ，并计算误差loss关于 $M _ { i }$ 与 $\\boldsymbol { M } _ { \\flat }$ 二阶偏导",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i \\in K } X _ { i } = X _ { i } + \\lambda _ { i } ^ { M } d _ { i } ^ { \\ M } ; \\sum _ { j \\in K } Y _ { j } = Y _ { j } + \\lambda _ { j } ^ { \\ M } d _ { j } ^ { \\ M }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i , j \\in K } { \\frac { \\partial l o s s } { \\partial X _ { i } } } { \\frac { \\partial X _ { i } } { \\partial M _ { i } } } + { \\frac { \\partial l o s s } { \\partial Y _ { j } } } { \\frac { \\partial Y _ { j } } { \\partial M _ { j } } } = 0 ?\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)将 $\\boldsymbol { d } _ { i } ^ { s }$ 与 $\\lambda _ { i } ^ { s }$ 代入 $X _ { i }$ ，将 $d _ { j } ^ { ~ Z } \\dag \\lambda _ { j } ^ { ~ Z }$ 代入 $X _ { j }$ ，并计算误差loss关于 $S _ { i }$ 与 $Z _ { j }$ 二阶偏导",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i \\in K } X _ { i } = X _ { i } + \\lambda _ { i } ^ { s } d _ { i } ^ { s } ; \\sum _ { j \\in K } Y _ { j } = Y _ { j } + \\lambda _ { j } ^ { \\ z } d _ { j } ^ { \\ z }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i , j \\in K } { \\frac { \\hat { c } l o s s } { \\hat { \\sigma } X _ { i } } } { \\frac { \\hat { \\sigma } X _ { i } } { \\hat { \\sigma } S _ { i } } } + { \\frac { \\hat { \\sigma } l o s s } { \\hat { \\sigma } Y _ { j } } } { \\frac { \\hat { \\sigma } Y _ { j } } { \\hat { \\sigma } Z _ { j } } } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)将 $\\boldsymbol { d } _ { i } ^ { C }$ 与 $\\lambda _ { i } ^ { C }$ 代入 $X _ { i }$ ，将 $d _ { j } ^ { \\phantom { } C } \\xrightarrow { \\vartriangle { } } \\lambda _ { j } ^ { \\phantom { } C } \\mathcal { H } \\lambda _ { j } ^ { \\phantom { } }$ ，并计算误差 loss关于 $C _ { i }$ 与 $C _ { j }$ 二阶偏导",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i \\in K } X _ { i } = X _ { i } + \\lambda _ { i } ^ { c } d _ { i } ^ { \\phantom { c } } \\quad \\sum _ { j \\in K } Y _ { j } = Y _ { j } + \\lambda _ { j } ^ { \\phantom { c } } d _ { j } ^ { \\phantom { c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i , j \\in K } { \\frac { \\hat { \\sigma } l o s s } { \\hat { \\sigma } X _ { i } } } { \\frac { \\hat { \\sigma } X _ { i } } { \\hat { \\sigma } C _ { i } } } + { \\frac { \\hat { \\sigma } l o s s } { \\hat { \\sigma } Y _ { j } } } { \\frac { \\hat { \\sigma } Y _ { j } } { \\hat { \\sigma } C _ { j } } } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用第a）和 $\\mathbf { b }$ ）步求出需要的代数式，再利用c）\\~f)的二阶公式求出对应的 $\\lambda _ { i }$ ， $\\lambda _ { i } ^ { { \\scriptscriptstyle M } }$ ， ${ \\boldsymbol { \\lambda } } _ { i } ^ { S }$ ， $\\lambda _ { i } ^ { C }$ 和 $\\lambda _ { j } \\ : , \\ : \\lambda _ { j } ^ { \\ : { \\scriptscriptstyle M } } \\ : , \\ : \\lambda _ { j } ^ { \\ : z } \\ : , \\ : \\lambda _ { j } ^ { \\ : c }$ 。取二者绝对值最小者为步长 $\\lambda _ { i j }$ ${ \\bf \\Phi } _ { i j } \\ , \\ { \\lambda _ { i j } } ^ { M } \\ , \\ { \\lambda _ { i j } } ^ { S Z } \\ , \\ { \\lambda _ { \\tilde { \\imath } j } } ^ { C }$ 。为了控制拟牛顿法可能出现的无法保证函数稳定下降的问题。使用 $\\lambda ^ { 2 }$ 控制 $\\lambda$ 的大小范围，一般在 $0 \\sim 1$ 内为有效值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 两阶融合方式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过改进拟牛顿法的步长计算方式之后，利用计算得出的步长作为两阶融合方式的判断标准。下次迭代时，如果步长计算数值不属于 $0 { \\sim } 1$ 范围内，则此次迭代使用梯度下降。如果步长计算数值属于 $0 { \\sim } 1$ 范围内，则此次迭代使用拟牛顿法。这样的融合方式加快了收敛速度。经过实验验证，步长的阈值为 $0 { \\sim } 1$ 时，算法拥有最好的收敛速度与精度。由于梯度下降迭代步长是人为设置的超参数，不具有计算参考意义，因此无法使用梯度下降的步长作为两阶融合方式的判断标准。算法符号表如表1所示，算法流程图如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/39e6948668a0644abee42bc5188c2c84e56ad5bdd12469c8a079cc3f4577f775.jpg",
+        "table_caption": [
+            "表1算法符号表",
+            "Table1Algorithm symbol table "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">拟合矩阵符号表</td><td colspan=\"2\">两阶融合符号表</td></tr><tr><td>u</td><td>均值(标量)</td><td>8</td><td>随机正则项参数</td></tr><tr><td>bi</td><td>用户偏置(标量)</td><td>VXi</td><td>用户矩阵梯度</td></tr><tr><td>bj</td><td>物品偏置(标量)</td><td>V</td><td>用户步长λ梯度</td></tr><tr><td>Pi</td><td>用户特征向量</td><td>VMi</td><td>用户均值梯度</td></tr><tr><td>qj</td><td>物品特征向量</td><td>VS</td><td>用户特征梯度</td></tr><tr><td>M</td><td>用户均值矩阵</td><td>VCi</td><td>用户偏置梯度</td></tr><tr><td>S</td><td>用户特征矩阵</td><td>di</td><td>用户搜索方向</td></tr><tr><td>Ci</td><td>用户偏置矩阵</td><td>VY</td><td>物品矩阵梯度</td></tr><tr><td>X</td><td>用户矩阵</td><td>Vj</td><td>物品步长λ梯度</td></tr><tr><td>M</td><td>物品均值矩阵</td><td>VM;</td><td>物品均值梯度</td></tr><tr><td>Z</td><td>物品特征矩阵</td><td>VZ</td><td>物品特征梯度</td></tr><tr><td>C</td><td>物品偏置矩阵</td><td>VC,</td><td>物品偏置梯度</td></tr><tr><td>Y</td><td>物品矩阵</td><td>d</td><td>物品搜索方向</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 算法伪代码分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "拟合矩阵与两阶融合迭代加速推荐算法基于拟合矩阵算法与两阶融合迭代加速算法两个主要部分组成。其中，两阶融合迭代加速算法分为四部分，目的是对不同类型的矩阵计算不同的迭代步长，迭代步长分开计算的原因是不同的矩阵代表不同的信息，组成的方式也不同。主要包括对用户与物品矩阵计算两阶融合的迭代步长；对用户与物品均值矩阵计算迭代步长；对用户与物品特征矩阵计算迭代步长；对用户与物品偏置矩阵计算迭代步长。以下是具体算法的伪代码表示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法1拟合矩阵算法伪代码",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP r e R a t e \\gets 0 . 5 * M _ { i } + 0 . 5 * M _ { j } + b _ { i } + b _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i } \\gets M _ { i } \\times ( S _ { i } \\times C _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } \\gets M _ { _ j } \\times \\left( Z _ { _ j } \\times C _ { _ j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( X _ { i } , Z _ { j } ) \\gets P r e R a t e + X _ { i } ^ { T } Y _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "End for ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "初始化均值矩阵 $( M _ { i }$ 与M）、特征矩阵( $S _ { i }$ （与zj）与偏置矩阵（ $C _ { i }$ 与 $C _ { j }$ ）↓利用初始矩阵拟合计算得到用户与物品的初始化矩阵xi与y有1.初始化用户与物品近似海森矩阵 $B _ { Y } ^ { X }$ =2.牛顿搜索方向： $d _ { Y } ^ { X } = - B _ { Y } ^ { X ^ { - 1 } }$ = $g _ { Y } ^ { X }$ ：3.利用两阶融合步长计算方式计算 $\\lambda _ { i j }$ 判断 $\\lambda _ { i j }$ 是否属于阈值范围内。3.1 若属于则继续拟牛顿法的计算步骤： $s _ { Y } ^ { X } = \\lambda _ { i j } d _ { Y } ^ { X } ; x ^ { ' } = x + s _ { Y } ^ { X } ; f _ { Y } ^ { X } = g ^ { ' } - g$ 3.2利用 $s _ { Y } ^ { X }$ 与 $f _ { Y } ^ { X }$ 更新近似海森矩阵： $B _ { Y } ^ { X ^ { ' } } =$ $B _ { Y } ^ { X } + f _ { Y } ^ { X } f _ { Y } ^ { X ^ { T } } / f _ { Y } ^ { X ^ { T } } s _ { Y } ^ { X } - B _ { Y } ^ { X } s _ { Y } ^ { X } s _ { Y } ^ { X ^ { T } } B _ { Y } ^ { X } / s _ { Y } ^ { X ^ { T } } B _ { Y } ^ { X } s _ { Y } ^ { X }$ （204号4.若不属于则利用梯度下降法 $X _ { i } \\gets X _ { i } +$ （2 $\\nabla X _ { i } ^ { ' } , Y _ { j } \\gets Y _ { j } + \\nabla Y _ { j }$ 更新用户与物品矩阵。↓  \n1.初始化均 1.初始化特 1.初始化偏  \n值近似海森 征近似海森 置近似海森  \n矩阵 $B _ { M }$ 矩阵 $B _ { S Z }$ ： 矩阵 $B _ { C }$ ，  \n2.牛顿搜索 2.牛顿搜索 2.牛顿搜索  \n方向： $d _ { M }$ （204 方向： $d _ { S Z }$ （204号 方向： $d _ { C }$   \n$\\boldsymbol { \\mathbf { \\rho } } = - \\boldsymbol { B _ { M } } ^ { - 1 } \\cdot \\boldsymbol { g _ { M } }$ ： $= - { B _ { S Z } } ^ { - 1 } \\cdot g _ { S Z }$ ： $ = - { B _ { C } } ^ { - 1 } \\cdot g _ { C }$   \n3.利用二阶 3.利用二阶 3.利用二阶  \n偏导数求解 偏导数求解 偏导数求解  \n均值矩阵的 均值矩阵的 均值矩阵的  \n步长 $\\lambda _ { i j } ^ { ~ M }$ ： 步长 ${ \\lambda _ { i j } } ^ { S Z }$ ： 步长 ${ \\lambda _ { i j } } ^ { C }$ ：  \n4.利用3.1 4.利用3.1 4.利用3.1  \n和3.2的公 和3.2的公 和3.2的公  \n式更新 $B _ { M }$ ： 式更新 $B _ { S Z }$ 式更新 $B _ { C }$ ←用户与物品矩阵通过二阶偏导数参与均值矩阵、特征矩阵与偏置矩阵的更新  \n计算。用户与物品矩阵与其子矩阵的更  \n新通过并行化计算。√拟合矩阵模型预测评分",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i } ^ { ' } \\gets X _ { i } + \\lambda _ { i } d _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } ^ { ' } \\gets Y _ { i } + \\lambda _ { j } d _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i } o r \\lambda _ { j } \\gets \\nabla X _ { i } \\ { ^ * X _ { i } } + \\nabla Y _ { i } { ^ * Y _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i j }  \\operatorname* { m i n } _ { \\lambda \\in R } \\bigl ( \\lambda _ { i } \\ \\mathrm { o r } \\ \\lambda _ { j } \\bigr )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "if(is dissatisfythecondition)then ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i } \\gets X _ { i } + \\nabla X _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } \\gets Y _ { i } + \\nabla Y _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "End $i f$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i j }  { \\lambda _ { i j } } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2表示两阶融合迭代加速关于用户与物品矩阵的步长融合计算过程。输入为 $X _ { i }$ 和 $Y _ { i }$ ， $\\mu \\nabla X _ { i }$ 和 $\\mu \\nabla Y _ { i }$ 通过求解梯度下降学习率与其自身梯度乘积而得。将 $d _ { i }$ 和 $d _ { j }$ （ $d _ { i }$ 与 $d _ { j }$ 由其对应的负近似海森矩阵的逆矩阵与 $\\mu \\nabla X _ { i }$ 和 $\\mu \\nabla Y _ { i }$ 的乘积而得）与 $\\lambda _ { i }$ 和 $\\lambda _ { j }$ 作为参数加入 $X _ { i }$ 和 $Y _ { i }$ 。通过二阶偏导$\\nabla X _ { i } ^ { \\ast } X _ { i } ^ { \\cdot } + \\nabla Y _ { i } ^ { \\ast } Y _ { i } ^ { \\cdot }$ 求解 $\\lambda _ { i }$ 和 $\\lambda _ { j }$ 。对应取 $\\lambda _ { i }$ 和 $\\lambda _ { j }$ 中绝对值最小为$\\lambda _ { i j }$ ，如果不满足阈值范围，则用户与物品矩阵通过梯度下降进行计算。如果满足则 ${ \\lambda _ { i j } } ^ { 2 }$ 作为拟牛顿法的关于用户与物品矩阵的搜索步长因子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法3两阶融合迭代加速模型 $\\lambda _ { i j } ^ { \\phantom { N } M }$ （用户与物品均值 矩阵迭代步长）伪代码： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法1表示拟合矩阵计算过程。输入为 $M _ { i }$ ， $S _ { i }$ ， $Z _ { _ j }$ ， $C _ { i }$ ，$C _ { j }$ ， $b _ { i }$ ， $b _ { j }$ 。通过矩阵内对应向量元素乘积构成用户与物品矩阵对应向量元素，输出用户与物品矩阵的向量元素点积。最终与均值和偏置值组成预测值。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\nabla M _ { i } < \\rho \\delta M _ { i } } \\\\ & { \\nabla M _ { i } \\succeq \\theta \\nabla M _ { i } } \\\\ & { M _ { i } ^ { \\prime } \\succeq \\theta \\nabla M _ { i } } \\\\ & { M _ { i } ^ { \\prime } \\succeq \\theta M _ { i } + \\underline { { \\lambda } } _ { j } ^ { \\prime } M _ { i } ^ { \\prime \\prime } } \\\\ & { M _ { j } ^ { \\prime } \\succeq M _ { j } + \\underline { { \\lambda } } _ { j } ^ { \\prime } M _ { j } ^ { \\prime \\prime } } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\lambda _ { i } ^ { M } \\ o r \\lambda _ { j } ^ { M } \\ \\in \\nabla M _ { i } \\ \\circ M _ { i } ^ { \\prime } \\ \\circ \\nabla M _ { j } ^ { \\prime } M _ { j } ^ { \\prime } } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ &  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2两阶融合迭代加速模型 $\\lambda _ { i j }$ （用户与物品矩阵两 阶融合迭代步长）伪代码： ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\nabla X _ { i } \\gets \\mu \\nabla X _ { i } } \\\\ { \\nabla Y _ { i } \\gets \\mu \\nabla Y _ { i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法4两阶融合迭代加速模型 $\\lambda _ { i j } ^ { \\phantom { } S Z }$ （用户与物品特征矩 阵迭代步长）伪代码： ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\nabla S _ { i } \\gets \\partial i N \\delta _ { i } } \\\\ & { \\nabla Z _ { i } \\gets \\partial i \\nabla Z _ { i } } \\\\ & { S _ { i } \\gets S _ { i } + \\lambda _ { i } ^ { S } \\boldsymbol { d } _ { i } ^ { S } } \\\\ & { Z _ { i } ^ { \\prime } \\gets Z _ { j } + \\lambda _ { i } ^ { Z } \\boldsymbol { d } _ { j } ^ { Z } } \\\\ & { \\lambda _ { i } ^ { S } \\gets \\nabla \\lambda _ { i } ^ { 2 } \\gets \\nabla S _ { i } \\ast \\mathcal { S } _ { i } ^ { \\prime } + \\nabla Z _ { j } ^ { \\prime } \\mathcal { I } Z _ { i } ^ { \\prime } } \\\\ & { \\lambda _ { i } ^ { S } \\gets \\frac { \\sin \\big ( \\lambda _ { i } ^ { S } \\delta ^ { 2 } \\delta \\boldsymbol { r } \\dot { \\mathcal { Z } } _ { i } ^ { \\prime } \\big ) } { \\partial \\mathbf { r } } } \\\\ & { \\lambda _ { i } ^ { S } \\gets - \\lambda _ { i } ^ { S } \\delta \\boldsymbol { \\cdot } \\partial \\boldsymbol { \\cdot } \\partial \\boldsymbol { r } } \\\\ & { \\lambda _ { i } ^ { S } \\gets \\delta _ { i } ^ { S } \\delta ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法5两阶融合迭代加速模型 $\\lambda _ { i j } ^ { C }$ （用户与物品偏置矩 阵迭代步长）伪代码： ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla C _ { i } \\gets \\mu \\nabla C _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VCj← μNC, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i j } ^ { \\textit { c } }  \\operatorname* { m i n } _ { \\lambda \\in \\boldsymbol { R } } \\big ( \\lambda _ { i } ^ { \\textit { c } } { \\mathfrak { d } } r \\lambda _ { j } ^ { \\textit { c } } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i j } ^ { \\ C }  \\lambda _ { i j } ^ { \\ C 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法3\\~5表示两阶融合迭代加速关于用户与物品均值矩阵，特征矩阵与偏置矩阵的步长计算过程。输入为M、 $\\scriptstyle { S Z }$ 、$c$ 。VM、VSZ、 $\\boldsymbol { \\nabla } C$ 通过求解梯度下降学习率与其自身梯度乘积而得。将 $d _ { i }$ 和 $d _ { j }$ （ $d _ { i }$ 和 $d _ { j }$ 由其对应的负近似海森矩阵的逆矩阵与其梯度的乘积而得）与 $\\lambda _ { i } ^ { ' }$ 和 $\\lambda _ { j } ^ { \\cdot }$ 作为参数加入 $M$ 、$\\boldsymbol { s Z }$ 、 $c$ 。通过二阶偏导 $\\nabla ^ { * } { ^ { \\prime } } { + } \\nabla ^ { * } { ^ { \\prime } }$ 求解对应的 $\\lambda _ { i } ^ { \\dot { \\prime } }$ 和 $\\lambda _ { j } ^ { \\cdot }$ 。对应取和 $\\lambda _ { j } ^ { ' }$ 中绝对值最小为 $\\lambda _ { i j } ^ { \\phantom { \\dagger } }$ ， ${ { \\lambda _ { i j } } ^ { \\prime } } ^ { 2 }$ 最终作为拟牛顿法的关于用户与物品均值矩阵，特征矩阵与偏置矩阵的搜索步长因子。不同于用户与物品矩阵的融合计算过程，由于 $M$ 、 $\\boldsymbol { s Z }$ 、 $c$ 的目标函数没有随机化正则项，因此计算 $\\mathbf { \\Omega } _ { M }$ 、 $s Z$ 、 $c$ 的步长可以不需要与梯度下降融合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 实验数据分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1实验数据集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验所用的数据集是美国Minnesota 大学GroupLens 小组开发的MovieLens站点所提供的数据集（https://grouplens.org/datasets/movielens/）与电影租赁网址Netflix的数据集。本文共使用三个不同大小的数据集，分别为：6040个用户对3900部电影的100万条评分的数据；71567个用户对10681部电影给出的1000万条评分的数据;480189个匿名用户对大约17770部电影作的大约1亿次评分的数据。将实验数据集划分为训练集和测试集，其中训练集占 $8 0 \\%$ ，测试集占 $20 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2评价标准",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文采用的推荐质量评价标准是平均绝对误差（meanabsolute error，MAE）与均方根误差（root mean squared error,RMSE）。公式如下： $M A E = \\frac { \\sum _ { \\mathrm { i } , j \\in T } \\left| r _ { i j } - \\hat { r } \\left( i , j \\right) \\right| } { \\left| T \\right| }$ $R M S E = \\sqrt { \\frac { \\sum _ { \\substack { i , j \\in T } } \\left( r _ { i j } - \\hat { r } \\left( i , j \\right) \\right) ^ { 2 } } { T } } \\textnormal { \\texttt { c } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3实验对比",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验引入奇异值矩阵分解（SVD）[I]，随机正则化的奇异值矩阵分解（RSVD）[2]算法，非负矩阵分解（NMF）[3]与本文提出的拟合矩阵与两阶融合迭代加速（FAST）进行均方根误差以及迭代效率的比较。梯度下降迭代步长参数选取为0.04",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3.1迭代次数与时间对比结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3\\~5分别是1M、10M和Netflix数据集的迭代次数对比图。从对比图中可以观察到，NMF、SVD和RSVD模型使用梯度下降的情况下需要几十次才可以收敛。而FAST模型在第8次或第9次迭代就可以收敛，收敛的曲线在数据不断扩大的情况下越接近直线。实验表明FAST模型具有较高",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "的迭代效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4135f00f97ed6c7c4a81cd3d8377188fa431346a7a9692ea36c370358f3fa8b3.jpg",
+        "table_caption": [
+            "表2FAST模型与其他模型的时间数据 /minTable 2Time data of FAST and other models /min"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型</td><td>NMF</td><td>SVD</td><td>RSVD</td><td>FAST</td></tr><tr><td>1M</td><td>10</td><td>15</td><td>18</td><td>12</td></tr><tr><td>10M</td><td>143</td><td>216</td><td>262</td><td>165</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f43afff6fbd5ebda9ca2c7e991b5262a423846ed873bc89c86dbe55131cbd6e4.jpg",
+        "img_caption": [
+            "图3FAST与其他模型在MovieLens-1M数据集中的迭代对比图Fig.3Comparison of FAST and other models in MovieLens-1Mdataset"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/99ed4e054838ffeb1847278de4bff339a61c5c1e2b5732917581ea6a7c30fbf0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c40d5deea016ea6f36c49094161cdd30380971b825690270fce7b1090f178981.jpg",
+        "img_caption": [
+            "图4FAST与其他模型在MovieLens-10M数据集中的迭代对比图Fig.4Comparison of FAST and other models in MovieLens-10Mdataset",
+            "图5FAST与其他模型在Netflix数据集中的迭代对比图Fig.5Comparison of FAST and other models in Netflix dataset4.3.2实验RMSE、MAE对比结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3和4分别是1M、10M，Netflix数据集的RMSE、MAE结果对比。从表3和表4的数据可以看出，FAST相比NMF，SVD，RSVD的均方根误差与平均绝对误差更小。且随着数据集的不断扩大，均方根误差与平均绝对误差减小的越明显，也就是预测效果越好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3FAST 模型与其他模型的RMSE 数据",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bee814a9e4cfa40f1d928dbae4f0d2c15fc580f49cd0e48b43b9aa08359dd361.jpg",
+        "table_caption": [
+            "Table3 TheRMSE data ofFASTandother models "
+        ],
+        "table_footnote": [
+            "表4FAST模型与其他模型的MAE 数据"
+        ],
+        "table_body": "<html><body><table><tr><td>模型</td><td>NMF</td><td>SVD</td><td>RSVD</td><td>FAST</td></tr><tr><td>1M</td><td>1.054</td><td>0.914</td><td>0.893</td><td>0.856</td></tr><tr><td>10M</td><td>0.996</td><td>0.872</td><td>0.857</td><td>0.765</td></tr><tr><td>Netflix</td><td>0.941</td><td>0.887</td><td>0.853</td><td>0.821</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bfbe9c01452633102f104a097f1100f355bf4e31a29fc4dd7b8fba411727aed6.jpg",
+        "table_caption": [
+            "Table 4The MAEdata ofFASTandother models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型</td><td>NMF</td><td>SVD</td><td>RSVD</td><td>FAST</td></tr><tr><td>1M</td><td>0.810</td><td>0.723</td><td>0.711</td><td>0.670</td></tr><tr><td>10M</td><td>0.764</td><td>0.682</td><td>0.661</td><td>0.584</td></tr><tr><td>Netflix</td><td>0.755</td><td>0.665</td><td>0.639</td><td>0.614</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "个性化作为推荐系统的本质需求，通过关注用户与物品的特征构造特定的推荐方式已成为推荐系统的发展趋势。本文通过构造用户矩阵与物品矩阵，使用户与物品分别形成不同的特点融合矩阵，一定程度上体现了推荐系统个性化的方式。根据误差函数改进拟牛顿法的步长，将梯度下降模型与拟牛顿法相融合，实现了减小推荐误差和提高算法迭代效率的目标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "下一步，可以在拟合矩阵的基础上融入更多的个性化因子比如标签，浏览记录等，形成用户与物品的个性化肖像。另一方面，从不同的计算过程将梯度下降与拟牛顿法进行融合，例如利用梯度下降改进近似海森矩阵的计算过程，探索减少近似矩阵的存储空间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Guan Xin,Li Changtun,Guan Yu.Matrix factorization with rating completion: an enhanced SVD model for collaborative filtering recommender systems [J].IEEE Access,2017,5 (99):27668-27678.   \n[2]Yuan Ji,Wang Hong,Yi Shangguan,et al. Regularized singular value decompositioninnewsrecommendationsystem[C]//Procof International Conference on Computer Science & Education.IEEE, 2016.   \n[3]Hernando A,Ortega F. A non negative matrix factorization for collaborative filtering recommender systems based on a Bayesian probabilistic model [J].Knowledge-Based Systems，2016，97(C): 188-202.   \n[4]Mokhtari A,Ribeiro A.RES:regularized stochastic bfgs algorithm [J]. IEEE Trans on Signal Processing,2014,62 (23):6089-6104.   \n[5]Badem H,Basturk A,Caliskan A.A new efficient training strategy for deep neural networks by hybridization of rtificial bee colony and limited-memory BFGS optimization algorithms [J].Neurocomputing,   \n[6]Kohler S,Wohner T,Peters R.The impact of consumer preferences on the accuracy of collaborative filtering recommender systems [J]. Electronic Markets,2017,26(4): 1-11.   \n[7]Elahi M,Ricci F,Rubens N.Active learning in collaborative filtering recommender systems[J]. Computer Science Review,2016,20(C): 29-50.   \n[8]Ghabayen A S,Noah S A M,Ghabayen A S,et al.Using tags for measuring the semantic similarity of users to enhance collaborative filtering recommender systems [J]. International Journal on Advanced Science，Engineeringand InformationTechnology，2O17,7(5): 2063-2070.   \n[9]Morozov S.An empirical study of the recursive input generation algorithm for memory-based collaborative filtering recommender systems [J].International Journal of Information & Decision Sciences, 2017,5 (1): 36-49.   \n[10] Kartoglu IE, Spratling M W. Two collaborative filtering recommender systems based on sparse dictionary coding [J].Knowledge& Information Systems,2018(1):1-12.   \n[11]何洁月，马贝．利用社交关系的实值条件受限玻尔兹曼机协同过滤 推荐算法 [J].计算机学报,2016.39(1):183-195.(He Jieyue,Ma Bei. Based on real-valued conditional restricted boltzmann machine and social network for collaborative filtering [J].Chinese Journal of Computers,2016,39(1): 183-195.）   \n[12]陈婷，朱青，周梦溪,等．社交网络环境下基于信任的推荐算法 [J]. 软件学报，2017,28(3）.(Chen Ting，Zhu Qing,Zhou Mengxi,et al. Trust-Based recommendation algorithm in social network [J]. Journal of Software,2017,28 (3).)   \n[13]孔欣欣，苏本昌，王宏志,等．基于标签权重评分的推荐模型及算法 研究[J].计算机学报，2017，40(6):1440-1452.(Kong Xinxin，Su Benchang,Wang Hongzhi, et al. Research on the modeling and related algorithms of label-weight rating based recommendation system[J]. Chinese Journal of Computers,2017,40(6):1440-1452.)   \n[14]徐蕾，杨成，姜春晓,等.协同过滤推荐系统中的用户博弈[J].计算机 学报,2016,39(6):1176-1189.(Xu Lei, Yang Cheng,Jiang Chunxiao,et al. Game analysis of user participation in collaborative filtering systems[J]. Chinese Journal of Computers,2016,39 (6): 1176-1189.)   \n[15]黄立威，江碧涛，吕守业,等．基于深度学习的推荐系统研究综述 [J]．计算机学报,2018,41(7):1619-1647.(Huang Liwei,Jiang Bitao,Lv Shouye,et al. Survey on deep learning based recommender systems[J]. Chinese Journal of Computers,2018,41(7):1619-1647.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

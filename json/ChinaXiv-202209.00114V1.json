@@ -1,0 +1,334 @@
+[
+    {
+        "type": "text",
+        "text": "基于慢性肾脏病（CKD）管理的精准分级诊疗应用实践",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0643 朱海燕 王朝昕² 孙万驹 1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：上海市浦东新区卫生健康委员会计生卫生科研项目“基于双向转诊循证决策系统的区域慢  \n性病防治一体化模式研究”（项目编号PW2019D-14)  \n1.201299上海市，上海市浦东新区人民医院  \n2.200025上海市，上海交通大学医学院公共卫生学院  \n\\*通信作者：孙万驹，院长，主任医师；E-mail:sunwanju2021@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】背景 分级诊疗制度是优化基本医疗卫生制度的重要步骤，但落地实施时遇到阻碍，因存在转诊标准不一、空间不连贯和时间滞后等问题，医联体模式推进存在难度。目的 遴选区域高发病种慢性肾脏病（CKD)，探索建立CKD医联体精准分级诊疗系统并进行实证应用评价。方法以慢性肾脏病（CKD）病种为例，基于指南梳理CKD患者的疾病管理规律，建立医疗信息联通共享、转诊规则标准的CKD 双向转诊知识库，设计区域CKD专病分级诊疗信息系统流程，构建基于医院—社区联动管理的专病分级诊疗一体化管理模型。结果 研发CKD专病分级诊疗系统，以信息化为支撑推进区域医疗资源整合和上下联动，形成从早期筛查、诊断提醒、专病治疗到持续随访跟踪贯穿全生命周期的疾病管理体系，及上下联动的专病管理模式。结论 基于CKD 知识库的专病分级诊疗模式，可以精准定位易发和高危人群，及时筛查评估CKD早期患者，提升CKD 患者的健康管理和诊疗效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】分级诊疗；医联体；慢性肾脏病；CKD知识库；健康管理【中图分类号】R319;TP391 【文献标识码】A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application Practice of Accurate Classification Diagnosis and Treatment Based on Chronic Kidney ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Disease Management ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHU Hai-yan1 WANG Chao-xin² SUN Wan-ju3\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fund Project: Family Planning Health Scientific Research Project of Shanghai Pudong New Area Health Commission （PW2019D-14) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Shanghai Pudong New Area People's Hospital, Shanghai 2O1299, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Shanghai Jiao Tong University School of Medicine, Shanghai 2Oo025, China \\*Corresponding author: SUN Wan-ju, Hospital Director, Chief Physician, E-mail:sunwanju2021 $@$ 163.com 【Abstract】 Background The graded diagnosis and treatment system is an important step to optimize the basic medical health,but it encounters obstacles in its implementation. Due to the problems ofdifferent referral standards,spatial discontinuity and time lag,it is diffcult to promote the medical consortium model. Objective The study aims to select regional dominant diseases about chronic kidney disease (CKD),explore and establish a regional hierarchical treatment system to conduct empirical evaluation. Methods The hospital took chronic kidney disease (CKD) as an example to sort out the disease management rules of CKD patients that based on clinical guidelines，establish a two-way referral knowledge base of CKD with medical information sharing and referral rules, design the process of regional CKD specific disease classification diagnosis and treatment information system, and build an integrated management model of specific disease classification diagnosis that based on hospital community linkage management. Results The study developed a clasified diagnosis and treatment system for CKD that promoted the integration of regional medical resources and the upper and lower linkages with the support of informatization. It established a disease management system that run through the whole life cycle from early screening, diagnosis reminder, specific disease treatment to continuous follow-up and tracking as well as a specific disease management mode. Conclusion The clasified diagnosis and treatment mode based on CKD knowledge base can accurately locate vulnerable and high-risk population, timely screen and evaluate early CKD patients to improve the health management and diagnosis and treatment efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Keywords】 Graded diagnosis and treatment；Medical consortium； Chronic kidney disease； CKDknowledge base; Health management",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2020年7月，国家卫生健康委与国家中医药管理局联合印发《医疗联合体管理办法（试行）》（国卫医发（2020）13号)，这对医联体发展具有重要的指导意义，也标志着我国医联体的建设重点转向规范化建设，让\"基层首诊、双向转诊、急慢分治、上下联动\"的分级诊疗模式逐步推进。建立分级诊疗制度是优化基本医疗卫生制度的重要步骤，有助于构建更完善的医疗服务体系、更先进的医疗服务模式和更井然有序的就医秩序[I]。以医联体之通来解决群众看病就医之痛，推进各级医疗机构业务协作开展，完善分级诊疗体系，是引导患者合理就医的重要推手[2]。我国各省市已根据国家政策，并结合地方的特点及优劣势，将分级诊疗逐步展开并提出相应方针，成效显著但也存在一定的问题。如医疗资源配置不均，优质的医疗资源都集中在大医院，特别是优质的医生资源，现行政策很难让优秀的医生下基层、留在基层，这就导致医疗资源区域差异性大[3]；医疗机构间的信息共享不够充分，医疗信息碎片化，服务信息未得到很好的整合，因而出现重复医疗行为[4]；落地实施时 遇到阻碍，因存在转诊标准不一、空间不连贯和时间滞后等问题，医联体模式推进存在难度[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述研究分析来看，分级诊疗是优化区域医疗配置，提升基层医疗服务能级的重要突破点。因此，需要中大型医院探索建立区域内医疗机构精准分级诊疗模式，遴选区域高发病种，优化患者诊疗流程，构建患者与综合医院、社区医院的整体协作模式[6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1CKD专病分级诊疗系统构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "慢性肾脏病(Chronic Kidney Disease，CKD)是一种以肾功能丢失逐渐加重为特征的进展性疾病，已成为全球的重大公共健康问题，是导致世界人口死亡的主要疾病[7]。我国慢性肾脏病患病率高达 $10 . 8 \\%$ ，患者总人数已超过1.4亿，与心脑血管疾病、糖尿病和肿瘤一起成为威胁人民群众健康的常见重要疾病。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上海市浦东新区人民医院（以下简称浦人医）的慢性肾衰是浦东新区中医重点专病，近年来医院收治大量的慢性肾病患者，在CKD疾病的诊断、治疗、预防等方面有丰富的临床经验。作为上海市第一批区域性医疗中心单位，为积极探索区域\"大肾病\"慢病管理体系，浦人医联合7家社区卫生服务中心，构建一套以信息化为支撑的川沙医联体CKD专病精准分级诊疗管理方案。方案主要通过信息化手段建立CKD分级转诊提醒及双向转诊流程，优化CKD管理的分级效率和质量，让医联体内专科医生与全科医生共同参与慢性肾脏病全周期的筛查、治疗、跟踪和管理，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "提高区域内居民CKD预防和管理水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1CKD专病分级诊疗系统架构设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CKD 专病分级诊疗管理是借助信息化工具，通过整合、分析、处理患者电子病历数据和检验报告，完成患者精准分级筛查与评估提醒，实现患者上下级医院转诊和患者跨机构医疗信息的管理。为完成患者医疗数据整合，CKD管理系统需要对接上下级医疗机构的电子病历系统（EMR）、实验室信息系统（LIS）、临床决策支持系统（CDSS）等系统。其中EMR 是医院日常临床运行的核心支撑，记载着患者及时全面的病历信息；LIS 记载和保存着患者检验数据信息，对于异常值、危急值等由自动提醒功能，辅助医生及时判断病情；CDSS 是临床辅助医护人员开展医疗工作的智能分析型系统，能为临床诊疗提供诊断、治疗、检查、检验、护理等方面提供医疗决策支持。当医联体专病体系内的医生对慢性肾脏病患者就诊检查时，分级诊疗管理系统将向LIS、EMR 等发送请求提供历史数据，LIS系统也为CDSS 实时推送患者检验数据，为CKD专病分级诊疗提供数据支撑。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1为CKD专病分级诊疗系统逻辑架构，系统可被分为5层。其中，基础设施层包括支持医联体单位的双向转诊网络、数据存储、网络安全等硬件基础设施，依托川沙医联体资源集中部署；数据层是对已对接的LIS 数据库、EMR 数据库、CDSS 知识库和CKD数据库统一处理，汇聚患者就诊、检验、诊断的业务信息，共享区域医疗数据信息，为分级诊疗提供统一的数据共享能力支撑；服务层是对把数据库数据表达成标准服务，建立开放能力接口；业务层是进一步对汇聚数据服务处理，包括数据标准化清洗关联处理、CKD规则计算判断、外部信息调阅等过程；应用层是将分级诊疗评估结果和转诊提醒消息集中在系统界面展示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/49952816e75b126c856a72fecd45a0e6eb87615d66964485985b77e13b39a43b.jpg",
+        "img_caption": [
+            "图1CKD专病分级诊疗系统逻辑架构图",
+            "Figure 1 The Logical architecture of CKD hierarchical treatment system "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2CKD专病分级诊疗知识库",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "构建医疗信息联通共享、转诊规则标准的CKD双向转诊知识库是实现区域医联体肾内科精准分级诊疗的基础。浦人医基于《慢性肾脏病筛查诊断及防治指南（2017年版)》和CKD双向转诊循证决策模型，依托区域慢性肾脏病患者就诊数据，设计了CKD专病分级诊疗知识库，其主要功能模块为慢性肾脏病筛查和风险评估，慢性肾脏病登记、信息更新、随访、统计分析和转诊提醒。分级诊疗知识库统一规范居民既往史、家庭遗传史等医学术语，对多源异构的患者原始数据进行标准化的数据治理，形成高质量、可计算的慢性肾脏病双向转诊知识库，为后续数据应用提供统一的信息源。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CKD 专病分级诊疗知识库基于城乡居民健康档案基本数据集、就诊信息、慢性肾脏病相关检验检查标准、诊断结果等构建了慢性肾脏病管理模型，联通区域医联体内两级医疗卫生服务机构的信息系统，，将医疗机构LIS、CIS、EMR信息系统数据接入存储服务中心，再经过抽取、同步、汇集等环节，实现针对多医院多源异构数据的采集和汇聚。通过数据序列化及反序列化将LIS、EMR系统表格数据转化成CDSS 规则，形成信息相对完整的业务规则信息库。针对数据治理后得到的数据，采用CKD-EPI计算得出eGFR。结合eGFR 检验结果、家族遗传性肾脏病史、急性肾衰竭病史、尿红细胞、年龄等信息设立CKD 分级转诊规则，精准判断患者慢性肾脏病严重程度，并进行分级诊疗方案推送，确保患者诊疗方案的科学性和治理方案的连续性，推动区域医联体开展精准分级诊疗。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3CKD专病分级诊疗系统流程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双向转诊过程中的及时准确的信息传递与整合是实现患者信息连续性的基础，对患者获得连续协调的服务至关重要[8-9]。浦人医为落实\" $1 + 1 + 1$ \"就医模式和分级诊疗制度，加速与下级二级医院、社区医院之间的信息共享，建立CKD专病分级诊疗精准提醒及双向转诊流程，推进区域医疗资源整合和上下联动，具体流程如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5f7c1df7ebca7e53096ca33e5eaaaa0a2a4cb9d4cc17cf8eabd4d3b17692693.jpg",
+        "img_caption": [
+            "图2CKD专病分级诊疗系统流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CKD 上转是指当患者满足上转条件时，由社区医生通过家庭医生站系统提出转诊需求，并在上海市分级诊疗系统网页进行转诊预约。当患者赴社区医院就诊，医生调用CDSS 引擎发出数据请求，由LIS 系统、CIS 系统提供患者基本信息、近3个月的检验数据和历史病历数据，通过CKD-EPI计算得出eGFR。经慢性肾脏病CKD 管理模型判断转诊规则，针对eGFR符合转诊规则1（表1） $\\mathrm { G } 5 { < } 1 5 \\mathrm { m l / }$ （ $\\cdot \\operatorname* { m i n } \\cdot 1 . 7 3 \\mathrm { m } ^ { 2 }$ ）时，被判定为极高危肾病，触发转诊提醒，需要紧急转诊至上级医院肾内科门诊。针对符合转诊规则 2-7（表1)，eGFR 和白蛋白尿同时满足区间值范围时，触发转诊提醒，需由社区医院向上级医院肾内科门诊转诊。当符合转诊规则8时（表1)，患者有急性肾衰竭病史，eGFR ${ < } 6 0 \\mathrm { m l / \\Omega }$ 0 $\\cdot \\operatorname* { m i n } \\cdot 1 . 7 3 \\mathrm { m } ^ { 2 } .$ ）或白蛋白尿 $\\mathrm { A } 3 ( \\mathrm { A C R } { > } 3 0 0 \\mathrm { m g } / \\mathrm { g } )$ ，被判定为疑似慢性肾脏病，触发转诊提醒，需由社区医院向上级医院肾内科门诊转诊。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/74a195f056c8165f66920ea38229f794983a9bcbddb62c7615f375c411416a1b.jpg",
+        "table_caption": [
+            "表1社区医院就诊CKD转诊规则",
+            "Table1 The rules for referral of CKD in community "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>疾病或症状</td><td>转诊条件</td><td>转诊类别</td></tr><tr><td>1</td><td>CKD（极高危）</td><td>eGFR G5<15ml/(min•1.73m2)</td><td>社区医院向上级医院肾内 科紧急转诊</td></tr><tr><td>2</td><td>CKD（极高危）</td><td>eGFR G4 15-29ml/(min·1.73m2)</td><td rowspan=\"4\">社区医院向上级医院肾内 科门诊转诊</td></tr><tr><td>3</td><td>CKD（极高危）</td><td>eGFR G3b 30-45ml/(min·1.73m2)且白蛋白尿 A2、 3(ACR>30mg/g)</td></tr><tr><td>4</td><td>CKD（极高危）</td><td>eGFR G3a 45-59ml/(min·1.73m2)且白蛋白尿 A3(ACR>300mg/g)</td></tr><tr><td>5</td><td>CKD（高危）</td><td>eGFR G3b 30-45ml/(min·1.73m2)且白蛋白尿 A1(ACR<30mg/g)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b579b8b59b203c6d3ab23b045bd9c42c80756af3ed563519d1908c09a8a923c.jpg",
+        "table_caption": [
+            "C hinaXiv合作期刊"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>疾病或症状</td><td>转诊条件</td><td>转诊类别</td></tr><tr><td>6</td><td>CKD（高危）</td><td>eGFR G3a 45-59ml/(min·1.73m2)且白蛋白尿 A2(ACR30-300mg/g)</td><td rowspan=\"4\"></td></tr><tr><td>7</td><td>CKD（高危）</td><td>eGFR G1、2>60ml/(min·1.73m2)且白蛋白尿 A3(ACR>300mg/g)</td></tr><tr><td>8</td><td>CKD（疑似）</td><td>有急性肾衰竭病史且 eGFR<60ml/(min•1.73m2) 或/和白蛋白尿 A3(ACR>300mg/g)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CKD下转流程主要是指患者赴大中型医院就诊，医生调用CDSS 引擎发出数据请求，由LIS系统、CIS系统提供患者基本信息、近3个月的检验数据和历史病历数据，通过CKD-EPI计算得出eGFR。经慢性肾脏病CKD 管理模型判断转诊规则，满足下转指征的患者，医生根据患者病情制定连续治疗方案及康复计划，通过双向转诊平台发出下转申请。针对符合转诊规则1-3（表2），eGFR和白蛋白尿同时满足区间值范围时，触发转诊提醒，需由上级医院肾内科门诊向社区医院转诊，并在社区医院开展慢性肾脏病健康数据监测。当符合转诊规则4-11时（表2），被判定为疑似慢性肾脏病，触发转诊提醒，需由上级医院肾内科门诊向社区医院转诊。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0e4a6976df131a8f012fe417f5d21efefd520aa2ed2f37f4f5e2f0fb64ee71d.jpg",
+        "table_caption": [
+            "表2上级医院就诊CKD转诊规则",
+            "Table2 The rules for referral of CKD in upper hospital "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>疾病或症状</td><td>转诊条件 eGFR G3a45-59ml/(min·1.73m2）且 白 蛋白尿</td><td rowspan=\"2\">转诊类别 由上级医院向社 区医院转诊，在社 区医院开展健康 监测</td></tr><tr><td>1 2</td><td>CKD（中危） CKD（中危）</td><td>A3(ACR<30mg/g) eGFRG1、2>60ml/(min·1.73m2)且白蛋白尿A2(ACR30- 300mg/g)</td></tr><tr><td>3</td><td>CKD（低危）</td><td>eGFR G1、2 >60ml/(min·1.73m2)且白 蛋白尿 A2(ACR<30mg/g)</td><td rowspan=\"6\">由上级医院肾内</td></tr><tr><td>4</td><td>CKD（疑似）</td><td>年龄小于 25 岁且白蛋白尿 A1、2(ACR<300mg/g)</td></tr><tr><td>5</td><td>CKD（疑似）</td><td>年龄小于25岁且eGFR<60ml/(min·1.73m2)或/和白蛋白 尿 A3(ACR>300mg/g)</td></tr><tr><td>6</td><td>CKD（疑似）</td><td>年龄小于25岁且尿红细胞>3/高倍镜或10/ul</td></tr><tr><td>7</td><td>CKD（疑似）</td><td>有家族遗传性肾脏病史且白蛋白尿A1、 2(ACR<300mg/g)</td></tr><tr><td>8</td><td>CKD（疑似）</td><td>有家族遗传性肾脏病史且 eGFR<60ml/(min·1.73m2)或/ 和白蛋白尿 A3(ACR>300mg/g)</td><td rowspan=\"3\">科门诊向社区医 院转诊</td></tr><tr><td>9 CKD（疑似）</td><td></td><td>有家族遗传性肾脏病史且尿红细胞>3/高倍镜或10/ul</td></tr><tr><td>10</td><td></td><td>有急性肾衰竭病史且白蛋白尿 A1、2(ACR<300mg/g)</td></tr><tr><td>11</td><td>CKD（疑似）</td><td></td><td rowspan=\"2\"></td></tr><tr><td></td><td>CKD（疑似）</td><td>血尿且尿红细胞>20/高倍镜</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2CKD专病分级诊疗系统的实证应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1动态管理慢性肾脏病患者健康档案，精准分级诊疗初见成效",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为验证CKD分级诊疗效果，2022年5月开始，在医联体内试点验证CKD专病分级诊疗一体化的管理模型，汇聚患者在不同层级医院就诊时的检查检验报告、处方、诊断结果、住院信息以及健康体检信息。基于医联体内CKD专病分级诊疗知识库和医联体患者数据的整合共享，精准筛查出潜在疑似慢性肾脏病患者，实现对病患的\"双向转",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "诊，上下协同的\"慢病周期动态监管。针对近三个月内在医联体内有检验信息的患者，2022年7月浦人医肾内科门诊就诊426人次，经CDSS 系统调用提醒下转社区的疑似患者36人次，中低危12人次，判断确诊肾功能衰竭氮质血症，尿毒症、慢病肾病5期40人。某社区全科就诊385人次，系统提醒疑似，上转医院肾内科门诊12人次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2推动医联体卫生信息平台建设，构建医疗数据监测预警机制",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "信息化的发展推动了CKD医联体的建设进程，有助于推进医联体内部医生资源整合，以及医疗数据资源共享。浦人医CKD 分级诊疗系统通过对接政务专网数据接口，实现城乡居民健康档案、患者诊疗处方、电子病历、检验检查等信息在医联体内的互联互通、共享利用，完善了医联体卫生信息平台建设。对于需要下转社区医院的患者，医生通过分级诊疗系统向社区医院精准推送连续治疗方案及康复计划，实现医疗资源的有效整合。另一方面，CKD分级诊疗系统可结合患者历史检验检查信息、电子病历信息以及eGFR检验结果，初步判定患者病情严重程度，筛查出早期患者或者疑似患者，并将初步诊断结果预警报送医院和患者，实现居民慢性肾脏病健康监测预警，引导患者到相应层级的医疗机构接受治疗。目前，医联体内医疗单位已广泛应用系统CDSS 监控提醒功能，CKD慢病判断覆盖面 $100 \\%$ ，相较于之前有经验判断，手工填报方式的双向转诊，基于系统的精准分级策略更为全面及时准确的提升患者CKD 慢病管理效率，形成病患的“监测-预警-诊疗-康复-随访\"全生命周期动态监管。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3合理规划配置区域医疗资源，提升精准健康管理服务能力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "医联体牵头组织单位应统筹规划区域内医院人、财、物、技术等资源，网格化布局组建集预防、诊断、治疗、康复、护理于一体的紧密型医联体[10]。在川沙医联体内,浦人医已在超声检查、血液透析等项目上与其他医疗机构达成业务合作，合理分配和安排专家下沉、科室下沉，在社区医院内开设专家门诊、组织科室专家在联合体内进行医疗技术业务巡讲等渠道，形成区域内医疗资源的合理流通。通过共享专家及特色专科医疗服务，给予基层\"输血式\"和\"造血式\"帮扶，提高联合体整体诊疗水平和设备运行效率。浦人医通过分级诊疗系统引导CKD 中低危和疑似患者基层就诊，通过定期举行个案、小组、社区活动为在院和已出院的患者及家属提供慢性病、康复期治疗服务和健康监测管理服务[11-12]。同时，通过随访和健康教育宣传，指导慢性肾脏病患者养成健康的生活方式，重视重症患者心理疏导，纠正居民慢性肾脏病\"重治轻防\"的观念[11]，促进形成\"重病上转、康复下转\"的慢性肾脏病分级诊疗秩序。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分级诊疗是居民慢性病全周期防控的重要环节，本研究聚焦于慢性肾脏病管理规律和方法，构建CKD 专病分级诊疗知识库，深入融合业务系统，打造专病知识库实际应用场景，精准定位易发和高危人群，及时进行CKD 早期筛查评估。一方面，该模式有助于确定疾病风险等级，形成从早期筛查、诊断提醒、专病治疗到随访跟踪的慢病管理体系，实现上级医院和社区基层医疗机构医疗技术及医疗服务整合，打造\"管理精准、信息精准、服务精准\"为特色的整合型管理新模式。另外一方面，在项目实际推进及应用过程中，也发现一些问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1数据采集接入机制不够完善",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CKD 专病分级诊疗系统的应用主要是基于患者的健康档案、处方信息和检验数据等，并依赖于CDSS 的智能触发机制。由于各医疗机构数据格式、标准不一，尤其是社区医院信息化水平相对较低，还存在数据缺失情况，数据采集汇聚的规范性、完整性存在一定的问题，尚未完善数据清洗工作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2模式效果评价尚需数据积累",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前项目转化应用尚在试点推广中，而区域CKD防治效果、CKD防治的卫生经济学改变及对区域CKD 防治的社会/政策的影响的长期效果评价需要数据积累。后续通过卫生经济效果评价进一步深入分析该模式在慢性肾病防治中的优缺点，并不断优化模式。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4具体说明所有作者对本研究及论文的贡献及利益冲突情况",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "朱海燕：负责论文起草、撰写；负责进行系统开发，研究过程的实施。  \n王朝昕：负责大数据分析和高发病种遴选；负责循证医学方案的设计和论证。  \n孙万驹：负责研究命题的提出和设计，负责最终版本修订，对论文负责。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1．国务院办公厅.国务院办公厅关于推进分级诊疗制度建设的指导意见.中华人民共和国中央人民政府 [EB/OLJ.] (2015-03-16) htp://www.gov.cn/zhengce/content/2015-09/11/content_10158.htm.   \n2．何思长,赵大仁,张瑞华等.我国分级诊疗的实施现状与思考[J].现代医院管理.2015,13(2):20-22. DOI:10.3969/j.issn.1672-4232.2015.02.007. HE S Z,ZHAO DR,ZHANGR H,et al. Practical Situation and Consideration of Clasified Diagnosis and Treatment in China[J].Modern Hospital Management,2015,13(2):20-22. DOI:0.3969/j.issn.1672-4232.2015.02.007.   \n3．陈旻洁,鲍勇.医院社区分级诊疗的医患认知研究:基于上海市家庭医生制度[J].中华全科医学,2015,13(5): 788-791,828. DOI:10.16766/j.cnki.issn.1674-4152.2015.05.004. CHEN M J,BAO Y. Research of cognitive level of doctors and patients on grading health care in hospital and community health service center: on the basis of family doctor system in Shanghai[J].Chinese Journal of General Practice,2015,13(5):788-791,828. DO1:10.16766/j.cnki.issn.1674-4152.2015.05.004.   \n4.2017年中国分级诊疗行业发展概况及发展趋势分析[EB/OL]. http://www.chyxx.com/industry/201704/515466.html,2017-4-19/2022-3-9.   \n5．谢树莹,陈露,居益君,等.基于医联体业务联动型互联网医院的\"云转诊\"服务模式探讨[J].中国数字医 学,2020,15(8): 4-5. DOI:10.3969/j.issn.1673-7571.2020.08.002. XIE S Y,CHENL,JUYJ,et al. Exploration on the \"Cloud Referral\" Service Mode of Internet Hospital ofBusiness Linkage Based on Medical Treatment Aliance[J]. China Digital Medicine,2020,15(8):4-5.DOI : 10.3969/j.issn.1673-7571.2020.08.002.   \n6．杨森,殷屹岗,顾进华,等.“互联网 $+ ^ { , }$ 模式下的医联体建设初探[J]．中国卫生产业,2020,17(2):175-176,179.DOI: 10.16659/j.cnki.1672-5654.2020.02.175. YANG S,YIN Y G,GU J H, et al. Probe into the Construction of Medical Union under the“Internet +” Mode[J].China Health Industry 2020,17(2):175-176,179. DOI:10.16659/j.cnki.1672-5654.2020.02.175.   \n7．毛海霞,康婷,吴蔚桦,等．腺嘌呤诱导慢性肾脏病大鼠模型中 HIF- $1 \\alpha$ 、RhoA、SOX9 的表达及意义[J]．中国 比较医学杂志,2022,32(3):70-77,135.D0I: 10.3969 /j.issn.1671-7856.2022.03.010. MAO HX, KANG T, WU W H,et al. Expression and significance ofHIF-1α, RhoA and SOX9 in rats with adenineinduced chronic kidney disease[J].Chinese Journal ofComparative Medicine,2022,32(3):70-77,135.DOI: 10.3969 /j.issn.1671-7856.2022. 03. 010.   \n8．余明洁,LiLi,匡莉.全科医疗转诊体系框架研究[J].中国全科医学,2018,21(4):375-381. DOI:10.3969/j.issn.1007-9572.2018.04.001. YU MJ,LIL, KUANGL.Framework oftheReferalSystem in Primary Care Practice[J]. Chinese General Practice, 2018,21(4):375-381. DO1:10.3969/j.issn.1007-9572.2018.04.001.   \n9．朱海燕,张琳熠,杨晓俊等.互联网医院模式下的医联体分级诊疗服务探索及初步实践[J].中国卫生标准管 理,2021,12(05):9-13.DOI: 10.3969/j.issn.1674-9316.2021.05.004. ZHU HY,ZHANG LY,YANG X J, et al. Exploration and Preliminary Practice of Medical Consortium Hierarchical Diagnosis and Treatment Services Under the Internet Hospital Model[J].China Health Standard Management 2021,12(05):9-13. DOI:10.3969/j.issn.1674-9316.2021.05.004.   \n10．杜晓莉,王秋霞,刘斌等.重庆市医联体内分级诊疗效果研究—以糖尿病诊疗为例[J].卫生经济研 究,2019,36(04):31-33. DO1:10.14055/j.cnki.33-1056/f.2019.04.009. DU X L,WANG Q X,LIU B,et al. Study on the Efect of Grading Diagnosis and Treatment in Chongqing Medical Association —Taking Diabetes Diagnosis and Treatment as An Example[J].Health Economics Research 2019,36(04):31-33.DO1:10.14055/j.cnki.33-1056/f.2019.04.009.   \n11．李明朗.资源整合视角下医务社工在改善患者就医体验中的作用—以上海市浦东新区人民医院为例[J].现代 医院,2020,20(05):654-657. DOI:10.3969/j.issn.1671-332X.2020.05.009. LI M L.The role of medical social workers in improving patients' experience of seeking medical treatment from the perspective ofresource integration:taking shanghai pudong new area people's hospital as an example[J]. Modern Hospital 2020,20(05):654-657. DOI:10.3969/j.issn.1671-332X.2020.05.009.   \n12．王曼菲,陈馨仪,王安石等.基层医疗卫生机构的慢性病管理：经验、问题和建议—基于案例分析[J].卫生经济 研究,2022,39(03):46-49.DOI: 10.14055/j.cnki.33-1056/f.2022.03.011. WANG M F,CHEN X Y,WANG A S, et al. Chronic Disease Management in Primary Health Care Settings: Experiences,Problemsand Recommendations—Based on Case Analysis[J]. Health Economics Research 2022,39(03):46-49. DOI: 10.14055/j.cnki.33-1056/f.2022.03.011. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

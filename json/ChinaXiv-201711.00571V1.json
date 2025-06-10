@@ -1,0 +1,227 @@
+[
+    {
+        "type": "text",
+        "text": "杨　霞」党方昆」赵　峰1\\*李　珂²　张　虎」王钰明」 李黛琳²尹丽婷²张",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宏福1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2．新希望六和股份有限公司，北京100102）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究试验鸡不同季节、不同批次间内源总能的变异及其对饲料原料真代谢能值的影响。试验采用单因素完全随机设计，分春季、夏季和秋季3季共计12个批次测定鸡内源总能及其对饲料原料[玉米、玉米干酒糟（DDGS）、木薯干和木薯渣]真代谢能值的影响，每个批次设4个重复，每个重复3只鸡。将各季节内各批次内源总能的平均值作为该季节内源总能，并根据不同季节的内源总能分别计算其对4种饲料原料真代谢能值的影响。结果表明：1）12个测定批次间 $4 8 \\mathrm { { h } }$ 内源总能差异显著（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ ，但3个季节内 $4 8 \\mathrm { h }$ 内源总能差异均不显著（ $P { > } 0 . 0 5 \\$ )，因此，可将测定季节内各个批次间 $^ { 4 8 \\mathrm { ~ h ~ } }$ 内源总能数据合并，将其平均值作为该季 $^ { 4 8 \\mathrm { ~ h ~ } }$ 内源总能。2）对比3个季节间的 $^ { 4 8 \\mathrm { ~ h ~ } }$ 内源总能，秋季 $^ { 4 8 \\mathrm { ~ h ~ } }$ 内源总能（ $6 7 . 9 7 \\mathrm { k J } / \\$ 只）极显著低于春季（ $8 3 . 0 7 \\mathrm { k J } / \\$ 只）和夏季（ $7 9 . 9 0 \\mathrm { k J } / \\$ 只）（ $\\scriptstyle { \\cdot } P < 0 . 0 1 { \\dot { ) } }$ ，但春季和夏季间 $4 8 \\mathrm { { h } }$ 内源总能差异不显著（ $. P { > } 0 . 0 5$ )。3）季节内 $4 8 \\mathrm { h }$ 内源总能与 $4 8 \\mathrm { h }$ 内源干物质排泄量呈极显著正相关（ $r { \\geq } 0 . 9 1$ ， $P { < } 0 . 0 1$ )。4）在玉米、玉米DDGS、木薯干及木薯渣4种饲料原料中，不同季节 $4 8 \\mathrm { { h } }$ 内源总能的最大变化量分别占饲料总能排泄量的 $7 . 3 6 \\% { \\sim } 8 . 3 8 \\%$ 、2.68%\\~2.94%、 $7 . 9 2 \\% \\sim 1 0 . 8 6 \\%$ 和 $3 . 5 3 \\% { \\sim } 3 . 9 6 \\%$ ，不同季节 $^ { 4 8 \\mathrm { ~ h ~ } }$ 内源总能的变异引起饲料原料真代谢能值的变化范围为 $0 . 2 8 { \\sim } 0 . 3 6 \\ \\mathrm { k J / g }$ 。由此可见，鸡内源总能在季节间存在一定的变异，但是该变异对饲料原料真代谢能值的计算并无显著影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：内源总能；真代谢能；鸡 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S816.17 文献标识码: 文章编号：  \n目前，我国采用 Sibbald[1的排空强饲法作为国家标准[2测定鸡饲料的代谢能值。该方法中内源总能的变异可能会影响到饲料原料真代谢能值测定结果的重现性[3]。前人研究表明，试验鸡内源总能的变异主要由个体差异及代谢室的温热环境引起[4]。因此，研究不同季节及不同测定批次间内源总能的变异对饲料原料真代谢能值计算结果的影响和对国标方法测定鸡饲料原料真代谢能值稳定性的评价有重要意义。Sibbald 等[5-6]从 38 次代谢试验数据总结得出，成年白来航公鸡 $4 8 \\mathrm { ~ h ~ }$ 内源总能的变化范围为49.96\\~188.62kJ/只；欧洲7个实验室测得的罗得岛红成年公鸡 $4 8 \\mathrm { { h } }$ 内源总能的变化范围为 $1 8 . 8 { \\sim } 8 7 . 8 \\ \\mathrm { k J / }$ 只[7]；和小明[8]测得9 周龄艾维因公鸡 $4 8 \\mathrm { ~ h ~ }$ 内源总能的变化范围为98.73\\~351.08kJ/只。由此可见，同一品种试验鸡内源总能的变异幅度均比较大。而在排空强饲法中，内源总能的变异幅度与待测饲料总摄入量的比值将直接决定真代谢能计算值的变异幅度[9]。若该比值较低（ ${ < } 0 . 4 2 \\ \\mathrm { k J / g } )$ ，则表明内源总能的变异对待测饲料真代谢能计算值的影响较小；反之，则表明在真代谢能的测定中必须要着重考虑内源总能的变异对真代谢能计算值的影响。鉴此，本研究以成年海兰褐公鸡为对象，通过测定不同季节、不同批次试验鸡内源总能的变异及其对4种饲料原料真代谢能计算值的影响，探讨现行鸡饲料代谢能测定国家标准（GB/T 20437-2010）中内源总能的变异是否会影响鸡饲料原料真代谢能计算结果的重现性，对进一步规范该方法的应用提供参考。1材料与方法  \n1.1试验设计及试验动物  \n本研究由2个试验组成，试验1研究国标法（GB/T20437—2010）测定鸡内源总能过程中不同季节、不同批次试验鸡的体重变化及内源总能的变异。试验采用单因素完全随机设计，选用体重一致[平均体重为（2.12±0.32）kg]、无怪癖的成年海兰褐公鸡 108只，随机分成9",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "组，每组4个重复，每个重复3只鸡。每批次鸡内源总能的测定随机挑选其中1组，其中春季依次挑选了第9、2、5、1、8、3组，夏季依次选用了6、4、1、9组，秋季先后选用了2、7组试验鸡，测定其 $4 8 \\mathrm { { h } }$ 内源干物质排泄量、48h内源总能及测试过程中鸡体重的变化。试验2研究鸡内源总能的变异对饲料原料真代谢能值的影响。根据鸡饲料代谢能值测定的国家标准（GB/T20437—2010），测定3个玉米样品、3个玉米干酒糟（DDGS）样品、3个木薯干样品及3个木薯渣样品的表观代谢能值。每个饲料样品的测定设4个重复，每个重复 3只鸡。根据试验1计算的春季、夏季和秋季3个季节的鸡内源总能分别计算每个饲料原料经不同季节内源总能矫正后的真代谢能值，以考察内源总能的变异对真代谢能值的影响。代谢试验中，试验鸡的饲养管理按国标法(GB/T26437—2010)的操作规程进行，代谢室温度维持在10\\~27℃，自然光照，自然通风，自由饮水。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 饲料原料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4种待测饲料原料均由新希望六和饲料股份有限公司提供，其养分含量如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/98a5da35a67d5e1a8b1005838ffbb47fa7491cd2035be35e597293ea27f88610.jpg",
+        "table_caption": [
+            "表1饲料原料的养分含量(干物质基础)",
+            "Table 1Nutrient contents of feed ingredient（DM basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>饲料原料Feed</td><td>样品编 Saple</td><td>产地Origin</td><td>物质</td><td>总能 E)</td><td></td><td>分</td><td>肪E</td><td>维</td><td>酸性 维</td><td>中性 维</td><td>淀粉 Starch</td></tr><tr><td></td><td></td><td></td><td>88.30</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corm 玉米Corm</td><td>1 2</td><td>山东 河南</td><td>89.84</td><td>19.01 18.72</td><td>8.92 9.46</td><td>1.47 1.34</td><td>5.44 4.56</td><td>1.70 2.11</td><td>8.00 7.78</td><td>2.17 1.96</td><td></td></tr><tr><td>玉米Corn</td><td>3</td><td>河南</td><td>90.36</td><td>18.84</td><td>9.57</td><td>1.33</td><td>3.87</td><td>1.66</td><td>8.43</td><td>1.98</td><td></td></tr><tr><td>玉米干酒糟 Corn DDGS</td><td>4</td><td>吉林</td><td>89.13</td><td>22.05</td><td>30.45</td><td>5.52</td><td>12.61</td><td>6.87</td><td>30.30</td><td>8.86</td><td></td></tr><tr><td>玉米干酒糟 Corm DDGS</td><td>5</td><td>黑龙江</td><td>88.70</td><td>22.20</td><td>27.54</td><td>5.06</td><td>13.42</td><td>6.47</td><td>26.38</td><td>7.68</td><td>一</td></tr><tr><td>玉米干酒糟ConDDGS</td><td>6</td><td>吉林</td><td>91.09</td><td>21.33</td><td>32.23</td><td>4.24</td><td>6.47</td><td>7.47</td><td>29.93</td><td>8.99</td><td>1</td></tr><tr><td>木薯干 Cassava root</td><td>7</td><td>海南</td><td>88.03</td><td>17.22</td><td>2.15</td><td>2.94</td><td>0.66</td><td>2.63</td><td>5.45</td><td>3.09</td><td>76.06</td></tr><tr><td>木薯干 Cassava root</td><td>8</td><td>广西</td><td>87.95</td><td>17.35</td><td>5.02</td><td>1.84</td><td>0.50</td><td>2.76</td><td>4.36</td><td>2.87</td><td>81.45</td></tr><tr><td>木薯干 Cassava root</td><td>9</td><td>越南</td><td>87.57</td><td>17.70</td><td>5.42</td><td>2.85</td><td>1.14</td><td>5.46</td><td>12.55</td><td>7.42</td><td>67.59</td></tr><tr><td>木薯渣 Cassava meal</td><td>10</td><td>泰国</td><td>88.55</td><td>17.22</td><td>2.56</td><td>5.45</td><td>0.74</td><td>15.01</td><td>26.13</td><td>19.74</td><td>57.34</td></tr><tr><td>木薯渣 Cassava meal</td><td>11</td><td>越南</td><td>89.25</td><td>17.35</td><td>2.76</td><td>6.25</td><td>1.45</td><td>15.98</td><td>28.12</td><td>20.62</td><td>51.82</td></tr><tr><td>木薯渣 Cassava meal</td><td>12</td><td>柬埔寨</td><td>88.38</td><td>17.32</td><td>2.42</td><td>3.29</td><td>0.25</td><td>17.83</td><td>29.79</td><td>22.06 57.18</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3代谢能值测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "代谢能测定过程参照国家标准《强饲法测定鸡饲料表观代谢能技术规程》(GB/T26437—2010)进行。具体过程为：预试期3d，饲喂玉米－豆粕型基础饲粮，预试期的最后一餐饲喂待测饲料原料(内源组饲喂基础饲粮)；预试期结束后禁饲 $^ { 4 8 \\mathrm { ~ h ~ } }$ ；然后强饲待测原",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "料 $5 0 \\ \\mathrm { g }$ （精确至 $0 . 0 0 0 \\dot { 2 } \\ : \\mathrm { g }$ )，内源组继续禁饲，所有试验鸡自由饮水。排泄物的收集处理：  \n排泄物的收集技术参照GB/T26437—2010 的方法进行，每次集粪袋中的排泄物超过粪袋容  \n积的1/3时，将排泄物无损失地转入相应编号的玻璃培养皿中。排泄物收集完毕后立即将玻  \n璃培养皿转移至65℃恒温烘箱中烘干，室温回潮 $2 4 \\mathrm { h }$ 后称重记录，同步测定其干物质含量  \n(参照 GB/T6435—2006 方法)。待整个代谢试验结束后，根据ISO9831:1998 的规程测定排  \n泄物的总能，并同步测定其干物质含量。代谢能的计算公式如下所示：表观代谢 饲料干物质摄入量 $\\times$ 饲料总能-粪尿干物质排泄量 $\\times$ 粪尿总能饲料干物质摄入量能=真代 饲料干物质摄入量 $\\times$ 饲料总能-粪尿干物质排泄量 $\\times$ 粪尿总能 $+$ 内源干物质排泄量 $\\times$ 内源总能饲料干物质摄入量谢能 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } = \\mathbf { \\Pi }$ （204号",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理与统计分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用 SAS9.3中的PROCGLM模块对所有测定批次及春季和夏季禁饲条件下试验鸡的体重变化、内源干物质排泄量、内源总能等数据进行方差分析，并采用Duncan 氏法进行多重比较。秋季2个测定批次试验鸡的体重变化、内源干物质排泄量、内源总能等数据采用t检验进行比较；利用CONTRAST模块对各季节禁饲试验鸡的体重变化、内源干物质排泄量、内源总能进行方差对比分析。利用 PROCCORR 模块对不同季节内不同批次禁饲试验鸡的内源总能与禁饲状态下体重变化、内源干物质排泄量进行相关性分析。 $P { < } 0 . 0 5$ 为差异显著，$P { < } 0 . 0 1$ 为差异极显著。2结果与分析2.1鸡内源总能批次间的变异由表2可知，在12个测定批次中，试验鸡的测试前体重、测试后体重、体重损失、 $4 8 \\mathrm { { h } }$ ，内源干物质排泄量、每克内源干物质能值及 $4 8 \\mathrm { { h } }$ 内源总能均有显著差异（ $P { < } 0 . 0 5 \\mathrm { \\ }$ )。春季的",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6个测定批次中，试验鸡的测试前体重、测试后体重、体重损失以及每克内源干物质能值有显著差异（ $P { < } 0 . 0 5 \\$ ， $4 8 \\mathrm { h }$ 内源干物质排泄量以及 $4 8 \\mathrm { { h } }$ 内源总能并无显著差异（ $. P { > } 0 . 0 5 )$ ）°夏季的4个测定批次中，试验鸡测试前体重、测试后体重、体重损失及 $4 8 \\mathrm { h }$ 内源总能均无显著差异（ $P { > } 0 . 0 5 \\$ ， $4 8 \\mathrm { h }$ 内源干物质排泄量以及每克内源干物质能值差异显著（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ）秋季的2个测定批次中，试验鸡的测试前体重、测试后体重、体重损失、 $4 8 \\mathrm { { h } }$ 内源干物质排泄量、每克内源干物质能值及 $4 8 \\mathrm { { h } }$ 内源总能均无显著的差异（ $P { > } 0 . 0 5$ )。不同测试季节间，春季与夏季的试验鸡测试前体重、测试后体重、 $4 8 \\mathrm { h }$ 内源总能无显著差异（ $( P { > } 0 . 0 5 )$ ，体重损失、 $4 8 \\mathrm { { h } }$ 内源干物质排泄量及每克内源干物质能值均有显著差异（ $P { < } 0 . 0 5 \\$ )。春季与秋季的试验鸡 $4 8 \\mathrm { { h } }$ 内源干物质排泄量无显著差异（ $. P { > } 0 . 0 5 )$ ，测试前体重、测试后体重、体重损失、每克内源干物质能值、 $4 8 \\mathrm { { h } }$ 内源总能均有显著差异（ $. P { < } 0 . 0 5 )$ 。夏季与秋季的试验鸡体重损失及 $4 8 \\mathrm { { h } }$ 内源干物质排泄量无显著差异（ $. P { > } 0 . 0 5 \\$ )，测试前体重、测试后体重、每克内源干物质能值及 $4 8 \\mathrm { h }$ 内源总能均呈极显著差异（ $_ { \\scriptstyle P < 0 . 0 1 }$ ）°",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/298bca8e4b74aa44167f2eae3490105006d111b53ed5dd5dabe6ac07804c21c4.jpg",
+        "table_caption": [
+            "表2鸡内源总能12个批次的变异 ",
+            "Table 2Variation of gross energy of endogenous excreta for 12 batches in roosters "
+        ],
+        "table_footnote": [
+            "94 1BWBB:Body weight before bioassay. 95 2)BWAB: Body weight after bioassay. 96 3)BWL:Body weight loss. 97 4)EDME: Endogenous dry matter excretion. 98 5)EEDMG: Energy of endogenous dry matter per gram. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">测定批次Batches f determinaion</td><td rowspan=\"2\"></td><td colspan=\"2\">测试前体重 T</td><td colspan=\"2\">测试后体重</td><td colspan=\"2\">体重损失</td><td colspan=\"2\">48h 内源干物质排泄</td><td colspan=\"2\">每克内源干物质能值</td><td colspan=\"2\">48 h 内源总能_48h GEEE/</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>春季（3月）</td><td>2.17</td><td>6.17</td><td>2.07</td><td>6.61</td><td>0.10</td><td>14.50</td><td>7.54±0.77</td><td>10.23</td><td>10.70±0.48</td><td>4.46</td><td>80.60±8.36</td><td>10.38</td></tr><tr><td></td><td>春季（月）</td><td>2.27</td><td>7.01</td><td>2.17</td><td>7.06</td><td>0.0</td><td>17.67</td><td>8.13±0.37</td><td>118</td><td>10.2230.15</td><td>1.51</td><td>91.07412.26</td><td>11.14</td></tr><tr><td>234</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>春季（4月）</td><td>2.12</td><td>6.72</td><td>2.04</td><td>6.84</td><td>0.1</td><td>17.07</td><td>8.43±0.75</td><td>8.87</td><td>10.07±0.28</td><td>2.88</td><td>84.76±3.69</td><td>7.89</td></tr><tr><td>450</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>春季（5月）</td><td>2.13</td><td>6.48</td><td>2.06</td><td>7.88</td><td>0.07</td><td>52.73</td><td>8.09±0.31</td><td>3.77</td><td>9.84±0.13</td><td>1.32</td><td>79.61±2.51</td><td>3.15</td></tr><tr><td>7</td><td>夏季（6月）</td><td>2.14 2.23</td><td>7.68 8.82</td><td>2.03 2.13</td><td>9.00 9.19</td><td>0.10</td><td>22.66</td><td>9.08±1.34</td><td>14.80</td><td>8.60±0.27</td><td>3.09</td><td>78.15±11.75</td><td>15.03</td></tr><tr><td>8 9</td><td>夏季（7月） 夏季（8月）</td><td>2.09</td><td>5.57</td><td>1.97</td><td>6.58</td><td>0.09 0.12</td><td>15.30</td><td>7.66±0.81</td><td>10.58</td><td>9.89±0.23</td><td>2.37</td><td>75.68±6.62</td><td>8.75</td></tr><tr><td></td><td>夏季（8月）</td><td>2.07</td><td>8.59</td><td>1.95</td><td>10.35</td><td>0.12</td><td>33.32</td><td>10.23±1.14</td><td>11.15</td><td>8.52±0.11</td><td>1.26</td><td>87.16±10.33</td><td>11.85</td></tr><tr><td>10</td><td></td><td></td><td>6.12</td><td></td><td></td><td></td><td>32.78</td><td>8.08±1.14</td><td>14.08</td><td>9.67±0.12</td><td>1.25</td><td>78.19±11.98</td><td>15.32</td></tr><tr><td>11</td><td>秋季（9月）</td><td>2.22</td><td></td><td>2.10</td><td>6.45</td><td>0.12</td><td>12.54</td><td>8.09±0.80</td><td>9.93</td><td>8.30±0.28</td><td>3.40</td><td>67.01±4.64</td><td>6.93</td></tr><tr><td></td><td>秋事月</td><td></td><td>8840</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10.24</td><td>28353</td><td>74</td><td></td></tr><tr><td></td><td></td><td>301524</td><td></td><td></td><td>33</td><td></td><td>20.89</td><td></td><td>104</td><td></td><td></td><td></td><td>57</td></tr><tr><td></td><td>秋季</td><td></td><td>4.89</td><td>2.14</td><td>4.89</td><td>0.12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>V 11~12 P值 P-value</td><td></td><td>2.26</td><td></td><td></td><td></td><td></td><td>8.32</td><td>8.40±0.75</td><td>8.91</td><td>8.35±0.23</td><td>2.78</td><td>69.97±5.16</td><td>7.38</td></tr><tr><td>全批次 All batches</td><td></td><td>0.005 8</td><td></td><td>0.006 5</td><td></td><td>0.0010</td><td></td><td>0.0149</td><td></td><td><0.000 1</td><td></td><td></td><td></td></tr><tr><td>春季Sprig</td><td></td><td>0.046 0</td><td></td><td>0.039 5</td><td></td><td>0.046 9</td><td></td><td>0.394 4</td><td></td><td>0.004 1</td><td></td><td>0.022 0 0.288 6</td><td></td></tr><tr><td></td><td></td><td>0.095 7</td><td></td><td>0.076 2</td><td></td><td>0.096 6</td><td></td><td>0.037 1</td><td></td><td><0.000 1</td><td></td><td>0.444 1</td><td></td></tr><tr><td>夏季Summer</td><td></td><td>0.398 8</td><td></td><td>0.369 7</td><td></td><td>0.912 4</td><td></td><td>0.263 6</td><td></td><td>0.404 6</td><td></td><td>0.235 4</td><td></td></tr><tr><td>秋季 Autumn</td><td></td><td>0.453 5</td><td></td><td>0.247 8</td><td></td><td>0.003 1</td><td></td><td>0.040 4</td><td></td><td><0.000 1</td><td></td><td>0.234 9</td><td></td></tr><tr><td>S春季vs.夏季 Spring vs.Summer</td><td></td><td>0.003 2</td><td></td><td>0.019 7</td><td></td><td>0.000 6</td><td></td><td>0.463 1</td><td></td><td><0.000 1</td><td></td><td>0.000 4</td><td></td></tr><tr><td>春季 vs.秋季 Spring vs. Autumn 夏季 vs.秋季 Summer vs.Autumn</td><td></td><td>0.0013</td><td></td><td>0.0033</td><td></td><td>0.2728</td><td></td><td>0.367 3</td><td></td><td><0.000 1</td><td></td><td>0.0099</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6GEEE: Gross energy of endogenous excreta. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "下表同。The same asbelow. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2鸡内源总能与体重间的相关性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，在春季、夏季和秋季3个季节，鸡 $4 8 \\mathrm { { h } }$ 内源总能与试验鸡的测试前体重、测试后体重、体重损失及每克内源干物质能值均无显著相关关系（ $P { > } 0 . 0 5 )$ ，而与 $4 8 \\mathrm { { h } }$ 内源干物质的排泄量呈高度正相关（ $_ { r \\geqslant 0 . 9 1 }$ ， $P { < } 0 . 0 1$ )。从12个批次的所有数据来看，虽然 $4 8 \\mathrm { h }$ 内源总能与试验鸡的测试前体重、测试后体重及每克内源干物质的能值有显著相关关系（ $P { < } 0 . 0 5 \\$ )，但相关程度较低（ $r { \\leqslant } | 0 . 3 9 | .$ ，而与 $4 8 \\mathrm { { h } }$ 内源干物质排泄量呈高度相关关系（r${ \\geqslant } 0 . 7 1$ ， $P { < } 0 . 0 1 \\rangle$ ）°",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/8450b32374cf1ca20cf6b7a5083b52868373fac1ee6b0ae3d064b70285332d65.jpg",
+        "table_caption": [
+            "表3鸡内源总能与体重、内源干物质排泄量、每克内源干物质能值的相关关系",
+            "Table 3The correlation between gross energy of endogenous excreta and body weight, endogenous dry matter excretion and energy of endogenous dry matter per gram in roosters "
+        ],
+        "table_footnote": [
+            "数据肩标\\*表示差异显著( $. P { < } 0 . 0 5 )$ ，\\*\\*表示差异极显著（ $( P { < } 0 . 0 1 \\$ )，不标星号表示差异不显著（ $. P { > } 0 . 0 5 \\$ ）°Values with \\* or \\*\\* mean significantly different $( P { < } 0 . 0 5 )$ or extremely significantly different $( P { < } 0 . 0 1 )$ ,whilethose with no asterisks mean no significantly different ( $\\mathrm { \\langle } P { > } 0 . 0 5 \\mathrm { \\rangle }$ ："
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">简单相关系数 Simple correlation coefficient</td></tr><tr><td>测试前体重 BWBB</td><td>测试后体重 BWAB</td><td>体重损失 BWL</td><td>48 h 内源干物质 排泄量 48 h EDME</td><td>每克内源干物质能 值EEDMG</td></tr><tr><td>48h内源总能48h GEEE</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>春季 Spring（n=72）</td><td>-0.18</td><td>-0.28</td><td>0.36</td><td>0.94**</td><td>-0.00</td></tr><tr><td>夏季Summer（n=48）</td><td>-0.25</td><td>-0.33</td><td>0.42</td><td>0.91**</td><td>-0.27</td></tr><tr><td>秋季 Autumn（n=24)</td><td>-0.37</td><td>-0.35</td><td>-0.41</td><td>0.95**</td><td>-0.39</td></tr><tr><td>全批次All batches (n=144)</td><td>-0.37*</td><td>-0.39**</td><td>0.05</td><td>0.72**</td><td>0.31*</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3鸡内源总能对饲料原料代谢能值的影响 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，春季、夏季和秋季各季节内测试批次间 $4 8 \\mathrm { { h } }$ 内源总能无显著差异( $( P { > } 0 . 0 5 )$ ）但季节间有显著差异（ $_ { . } { \\cdot } { \\cdot } { \\cdot } { \\cdot } _ { \\cdot } { 0 . 0 5 } )$ 。因此，将同一测试季节内不同批次的 $4 8 \\mathrm { h }$ 内源总能数据合并，取其平均值作为各季节 $4 8 \\mathrm { { h } }$ 内源总能。由表4可知，在3个玉米样品中， $4 8 \\mathrm { { h } }$ 饲料总能排泄量为 $1 3 9 . 9 2 { \\sim } 1 7 8 . 0 5 \\ \\mathrm { k J } /$ 只，内源总能占饲料总能排泄量的 $3 9 . 3 4 \\% \\sim 5 9 . 4 5 \\%$ ，不同季节内源总能的最大变化量占饲料总能排泄量的 $7 . 3 6 \\% { \\sim } 8 . 3 8 \\%$ ，引起3个玉米样品真代谢能计算值的变化范围为 $0 . 2 8 { \\sim } 0 . 2 9 \\mathrm { k J / g }$ 。在3个玉米DDGS 样品中， $4 8 \\mathrm { h }$ 饲料总能排泄量为446.16\\~488.29kJ/只，内源总能占饲料总能排泄量的 $1 4 . 3 4 \\% \\sim 1 8 . 6 3 \\%$ ，不同季节内源总能的最大变化量占饲料总能排泄量的 $2 . 6 8 \\% { \\sim } 2 . 9 4 \\%$ ，引起3个玉米DDGS样品真代谢能计算值的变化范围为 $0 . 2 9 { \\sim } 0 . 3 0 \\mathrm { k J / g }$ 。在3个木薯干样品中， $4 8 \\mathrm { { h } }$ 饲料总能排泄量为 $1 2 3 . 5 3 \\sim 1 6 5 . 2 9$ kJ/只，内源总能占饲料总能排泄量的 $4 2 . 3 5 \\% \\sim 6 7 . 6 0 \\%$ ，不同季节内源总能的最大变化量占饲料总能排泄量的 $7 . 9 2 \\% \\sim 1 0 . 8 6 \\%$ ，引起3个木薯干样品真代谢能值的变化均为 $0 . 2 9 \\mathrm { k J / g }$ 。在3个木薯渣样品中， $4 8 \\mathrm { h }$ 饲料总能排泄量为 $3 3 1 . 2 7 \\sim 3 7 1 . 0 3 \\mathrm { k J } /$ 只，内源总能占饲料总能排泄量的 $1 8 . 8 7 \\% { \\sim } 2 5 . 0 8 \\%$ ，不同季节内源总能的最大变化量占饲料总能排泄量的变化范围为 $3 . 5 3 \\% { \\sim } 3 . 9 6 \\%$ ，引起3个木薯渣样品真代谢能值的变化范围为 $0 . 2 9 { \\sim } 0 . 3 6 \\mathrm { k J / g }$ 。3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1影响鸡内源总能变异的因素",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/56e2a3a1923c440d392123622caf515243b4251c0b6bc603b37880f4601c1082.jpg",
+        "table_caption": [
+            "表4鸡内源总能对饲料原料代谢能值的影响",
+            ": 4The effect of gross energy of endogenous excreta on the value of metabolizable energy offeedstuffs in r "
+        ],
+        "table_footnote": [
+            "1 FEI: Feed energy intake. 2’EFGE:Excretion of feed gross energy. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>饲料原料Feed</td><td></td><td>e</td><td></td><td></td><td>48</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>numbers</td><td>1</td><td>只）2）</td><td>（kJ/g)</td><td>Spring</td><td>Summer</td><td>Autumn</td><td>CV/</td><td></td><td>Spring</td><td>Summer</td><td>Autumn</td><td>数</td><td>极差 Range</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>%</td><td></td><td></td><td></td><td></td><td>CV/ %</td></tr><tr><td>玉米Com</td><td>1</td><td>848.55</td><td>157.10±2.59</td><td>15.02±0.06</td><td>52.89±0.86 50.87±0.83 44.55±0.72 8.80</td><td></td><td></td><td>8.80</td><td>8.34</td><td>16.81±0.06 16.74±0.06 16.53±0.06</td><td></td><td>0.34</td><td>0.28</td></tr><tr><td>玉米Corn</td><td>2</td><td>850.96</td><td>178.05±6.12</td><td>14.58±0.13</td><td>46.70±1.60 44.92±1.54 39.34±1.35</td><td></td><td></td><td>7.36</td><td></td><td>16.38±0.13 16.31±0.13 16.10±0.13</td><td></td><td>0.82</td><td>0.28</td></tr><tr><td>玉米Com</td><td>3</td><td>829.84</td><td>139.92±5.72</td><td>15.52±0.13</td><td>59.45±2.46 57.17±2.37 50.07±2.08</td><td></td><td></td><td>8.80 8.38 8.80</td><td>17.37±0.13</td><td>17.30±0.13 17.08±0.13</td><td></td><td>0.75</td><td>0.29</td></tr><tr><td>玉米干酒糟 Corm DDGS</td><td>4</td><td>989.74</td><td>446.16±13.22</td><td>12.25±0.30</td><td>18.63±0.55</td><td>17.92±0.53</td><td>15.69±0.47</td><td>2.94 8.80</td><td>14.10±0.30 14.03±0.30 13.81±0.30</td><td></td><td></td><td>2.16</td><td>0.29</td></tr><tr><td>玉米干酒糟 Com DDGS</td><td>5</td><td>961.37</td><td>462.59±14.65</td><td>11.37±0.33</td><td>17.97±0.57 17.29±0.55 15.14±0.48</td><td></td><td></td><td>2.83</td><td>13.24±0.3313.16±0.33 12.94±0.33</td><td></td><td></td><td>2.58</td><td>0.30</td></tr><tr><td>玉米干酒糟 Com DDGS</td><td>6</td><td>935.40</td><td>488.29±10.52</td><td>10.06±0.24</td><td>17.02±0.37 16.37±0.35</td><td></td><td>14.34±0.31</td><td>2.68</td><td>11.91±0.24 11.84±0.24 11.62±0.24</td><td></td><td></td><td>2.04</td><td>0.29</td></tr><tr><td>木薯干 Cassava root</td><td>7</td><td>774.26</td><td>123.53±10.36</td><td>14.33±0.23</td><td>67.60±5.52 65.01±5.31</td><td></td><td>56.94±4.65</td><td>10.86</td><td>16.15±0.23 16.08±0.23 15.87±.23</td><td></td><td></td><td>1.44</td><td>0.29</td></tr><tr><td>木薯干 Cassava root</td><td>8</td><td>776.39</td><td>125.01±4.28</td><td>14.56±0.10</td><td>66.51±2.33 63.97±2.24 56.02±1.96</td><td></td><td></td><td>10.49</td><td></td><td>16.41±0.10 16.34±0.10 16.12±0.10</td><td></td><td>0.59</td><td>0.29</td></tr><tr><td>木薯干 Cassava root</td><td>9</td><td>789.04</td><td>165.29±3.33</td><td>13.65±0.07</td><td>50.27±1.00 48.35±0.96 42.35±0.84</td><td></td><td></td><td>7.92</td><td></td><td>15.47±0.07 15.40±0.07 15.18±0.07</td><td></td><td>0.48</td><td>0.29</td></tr><tr><td>木薯渣 Cassava meal</td><td>10</td><td>780.84</td><td>344.39±8.08</td><td>9.58±0.18</td><td>24.13±0.58 23.21±0.56 20.33±0.49</td><td></td><td></td><td>3.80</td><td></td><td>11.40±0.18 11.33±0.18 11.11±0.18</td><td></td><td>1.60</td><td>0.29</td></tr><tr><td>木薯渣 Cassava meal</td><td>11</td><td>772.25</td><td>331.27±3.27</td><td>9.70±0.07</td><td>25.08±0.25 24.12±0.24 21.12±0.21</td><td></td><td></td><td>3.96</td><td></td><td>11.52±0.07 11.46±0.07 11.24±0.07</td><td></td><td>0.64</td><td>0.29</td></tr><tr><td>木薯渣 Cassava meal</td><td>12</td><td>773.33</td><td>371.03±10.18</td><td>8.88±0.22</td><td>22.40±0.61 21.55±0.59 18.87±0.51 8.80</td><td></td><td></td><td>3.53</td><td></td><td>11.17±0.22 11.08±0.22 10.81±0.22</td><td></td><td>2.08</td><td>0.36</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在 Sibbald 排空强饲法测定鸡饲料的代谢能值中，内源性排泄物主要来源于分泌的胆汁、消化液及脱落的消化道上皮细胞，是动物维持代谢的一部分[5,10]。早期的研究已证明，内源总能在同一群试验鸡个体间有较大的变异，变异系数为 $1 . 9 5 \\% \\sim 1 5 . 8 8 \\% ^ { [ 1 1 ] }$ 。近年来，樊红平等[12]用48只海兰褐公鸡测得的 $4 8 \\mathrm { { h } }$ 内源总能均值为 $8 8 . 8 8 \\mathrm { k J } / \\$ 只，变异系数为 $9 . 5 5 \\%$ 。任立芹[13]测得96只黄羽肉鸡的 $4 8 \\mathrm { h }$ 内源总能均值为 $7 0 . 1 3 { \\sim } 7 7 . 2 4 \\mathrm { k J / }$ 只，变异系数为  \n$4 . 1 1 \\% \\sim 1 0 . 7 7 \\%$ 。本试验12个批次测得海兰褐公鸡的 $4 8 \\mathrm { { h } }$ 内源总能为 $6 7 . 0 1 { \\sim } 9 1 . 2 0 \\mathrm { k J } /$ 只，变异系数为 $3 . 1 5 \\% \\sim 1 5 . 3 2 \\%$ 。上述数据进一步表明，同一品种同群试验鸡个体间内源总能存在较大变异是客观事实。在影响内源总能的因素中，同一品种试验鸡的体重与内源总能并无稳定的相关关系[14]。本试验结果也表明，在代谢试验过程中试验鸡 $4 8 \\mathrm { { h } }$ 内源总能与试验鸡的测试前体重、测试后体重、体重损失及每克内源干物质能值均无显著相关关系，该结论与本实验室前期获得的黄羽肉鸡在代谢试验中体重的变化与内源总能无显著相关关系相一致。而代谢试验中环境温度对试验鸡内源总能有显著影响，随着温度的升高内源总能呈下降趋势[15-16]。本试验中，代谢室冬季和春季采用集中供暖可维持温度在 $1 0 { \\sim } 1 5 ^ { \\circ } \\mathrm { C }$ ，夏季采用中央空调可控制代谢室内温度在 $2 0 { \\sim } 2 5 ^ { \\circ } \\mathrm { C }$ ，秋季并未开启控温设施。因此，根据北京的气候特点，本试验中代谢室内秋季（9\\~10月份）的温度相对于春季和夏季较高，秋季试验鸡的内源总能低于春季和夏季。这也表明，本实验室条件下代谢室应当在秋季继续实行环境温度的人工控制，以降低内源总能的波动。  \n3.2鸡内源总能的变异对饲料原料代谢能值的影响  \n在排空强饲法中，成年试验鸡个体间以及同一试验鸡在不同试验期间内源总能均有较大变化]。虽然该变异系数往往高达 $10 \\%$ ,但其对待测饲料原料真代谢能值的影响不超过 $1 \\% ^ { [ 1 0 ] }$ 而测定批次间饲料原料代谢能值的最大差值约为 $0 . 4 2 \\mathrm { k J / g }$ ，相当于代谢能值的 $3 \\% ^ { [ 1 7 ] }$ 。由此表明，虽然内源总能本身存在较大的变异，但内源总能的变化引起待测饲料代谢能值总变化在 $0 . 4 2 ~ \\mathrm { k J / g }$ 以内，因此，待测饲料代谢能值主要与测试过程中饲料的摄入量或饲料本身的",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "代谢能值有关。本试验中，3个季节内不同测定批次间内源总能无显著差异（ $^ { 4 8 \\mathrm { { h } } }$ 内源总能最大相差为11.99 kJ/只)，折算到每克风干饲料相当于引起真代谢能值的最大变化约为0.27kJ/g。虽然春季和夏季内源总能与秋季的内源总能有显著差异（ $^ { 4 8 \\mathrm { ~ h ~ } }$ 内源总能最大相差为$1 3 . 1 0 \\mathrm { ~ k J } /$ 只)，但折算到每克风干饲料相当于引起真代谢能值的最大变化约为 $0 . 3 6 ~ \\mathrm { k J / g }$ 。这表明不同测定季节间试验鸡的内源总能有显著差异，但其对真代谢能值的影响并没有超出排空强饲法的测定精度（ $0 . 4 2 ~ \\mathrm { k J / g } ^ { \\cdot }$ )。因此，内源总能的变异对真代谢能值的影响是有限的。然而，不同的饲料原料内源总能占饲料总能排泄量的比例是不一致的。本试验中内源总能在玉米和木薯干的饲料总能排泄量中所占比例分别在 $3 9 . 3 4 \\%$ 和 $4 2 . 3 5 \\%$ 以上，而在玉米DDGS和木薯渣的饲料总能排泄量中所占比例分别在 $1 8 . 6 3 \\%$ 和 $2 5 . 0 8 \\%$ 以下，这表明内源总能的变异对玉米和木薯干饲料总能排泄量变异的贡献较大，而对玉米DDGS 和木薯渣饲料总能排泄量变异的贡献较小，从而出现前者饲料总能排泄量的变异比后者大，这可能会对代谢能值的变异也有一定影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 春季、夏季和秋季3个季节内不同测定批次间成年海兰褐公鸡内源总能无显著差异。 但春季和夏季的内源总能显著高于秋季。   \n$\\textcircled{2}$ 季节内不同测定批次间、季节间试验鸡 $4 8 \\mathrm { { h } }$ 内源总能的最大差异在 $1 3 . 1 0 \\mathrm { k J } / \\$ 只以内， 引起玉米、玉米DDGS、木薯干、木薯渣真代谢能值的变化在 $0 . 3 6 \\mathrm { k J / g }$ 以内。   \n参考文献：   \n[1]SIBBALD I R.The true metabolizable energy values of several feedingstufs measured with roosters,laying hens,turkeys and broiler hens[J].Poultry Science,1976,55(4):1459-1463.   \n[2]中国国家标准化管理委员会.GB/T 26437-2010 畜禽饲料有效性与安全性评价 强饲法测定 鸡饲料表观代谢能技术规程[S].北京:中国标准出版社,2011.   \n[3]FARRELL D J,THOMSON E,DU PREEZ J J,et al.The estimation of endogenous excreta and the measurement of metabolisable energy in poultry feedstufs using four feding systems,four assay methods and four diets[J].British Poultry Science,1991,32(3):483-499.   \n[4]YAGHOBFAR A,ZAHEDIFAR M.Endogenous losses of energy and amino acids in birds and their effect on true metabolisable energy values and availability of amino acids in maize[J].British Poultry Science,2003,44(5):719-725.   \n[5]SIBBALD I R,PRICE K.The metabolic and endogenous energy losses of adult roosters[J].Poultry Science,1978,57(2):556-557.   \n[6]SIBBALD I R,PRICE K.Variability in metabolic plus endogenous energy losses of adult cockerels and in the true metabolizable energy values and rates of passage of dehydrated alfalfa[J].Poultry Science,1980,59(6):1275-1279.   \n[7]BOURDILLON A,CARRE B,CONAN L,et al.European reference method for the in vivo determination of metabolisable energy with adult cockerels:reproducibility,effect of food intake and comparison with individual laboratory methods[J].British Poultry Science,1990,31(3):557-565. [8]和小明.TME法与常规法测定鸡饲料代谢能值的比较研究[D].硕士学位论文.雅安:四川农业 大学,2001.   \n[9]GUILLAUME J,SUMMERS J D.Maintenance energy requirement of the rooster and influence of plane of nutrition on metabolizable energylJ].Canadian Journal of Animal Science,1970,50(2):363- 369.   \n[10] SIBBALD I R.Measurement of bioavailable energy in poultry feedingstuffs:a review[J].Canadian Journal of Animal Science,1982,62(4):983-1048.   \n[11]丁耿芝.鸡内源能的估测方法与影响因素[J].饲料博览,2011(4):16-17.   \n[12]樊红平,侯水生,郑旭阳,等.鸡鸭对饲料能量利用的比较研究[J].中国畜牧杂 志,2006,42(19):30-32.   \n[13]任立芹.仿生法评定黄羽肉鸡常用饲料代谢能和可消化氨基酸研究[D].博士学位论文.北京: 中国农业科学院,2012.   \n[14]SIBBALD I R. Metabolic plus endogenous energy and nitrogen losses of adult cockerels: the correction used in the bioassay for true metabolizable energy[J]. Poultry science,1981,6O(4): 805-811. [15]YAMAZAKI M, ZHANG Z Y. A note on the effect of temperature on true and apparent metabolisable energy values of a layer diet[J]. British Poultry Science,1982, 23(5): 447-450.   \n[16]杨琳,杜荣,张子仪.环境温度对鸡饲粮代谢能测值及血浆中甲状腺激素浓度的影响[J].畜牧 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "兽医学报,1993,24(6):494-499.   \n[17]DALE N M,FULLER HL.Repeatability of true metabolizable energy versus nitrogen corrected true metabolizable energy values[J].Poultry Science,1986,65(2):352-354. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The Variation of Gross Energy of Endogenous Excreta and Its Effect on the Value of Metabolizable Energy of Feedstuffs in Roosters ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "YANG Xia1DANG Fangkun1ZHAO Feng1\\*LI $\\mathrm { K e } ^ { 2 }$ ZHANG $\\mathrm { H u ^ { 1 } }$ WANG Yuming1LI Dailin²YIN Liting² ZHANG Hongful   \n(1. State Key Laboratory ofAnimal Nutrition, Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing 100193, China; 2. New Hope Liuhe Co., Ltd., Beijing 100102, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the variation of gross energy of endogenous excreta (GEEE) in different seasons and different batches of determination and its effect on the value of true metabolizable energy（TME） of feedstuffs in roosters. The single-factor completely randomized design was used in the experiment, GEEE of 12 batches in roosters were determined across the spring,summer and autumn,and its effect on the value of TME of feedstufs were studied with 4 replicates per batch and 3 birds per replicate. The feedstuffs contained 3 corn,3 corn distillers dried grains (DDGS),3 cassava slice and 3 cassava meal.The mean of GEEE determined all batches in each season was used as the GEEE of each season,and the effect of GEEE of different seasons on the TME of 4 different feedstuffs was calculated. The results showed as follows: 1) significant differences were observed on GEEE in 48 hours among 12 batches ( $( P { < } 0 . 0 5 )$ ,however, no significant differences were observed on GEEE in 48 hours of different batches in the same season $( P { > } 0 . 0 5 )$ .Thus, the values of GEEE in 48 hours of different batches in the same season can be merged for a mean of GEEE in 48 hours in the season.2) Contrasted GEEE in 48 hours of 3 seasons,the GEEE in 48 hours in autumn (67.97 kJ/bird) was significantly lower than that in spring (83.07 kJ/bird) and summer (79.90 kJ/bird) （20 $( P { < } 0 . 0 1 )$ .However, there was no significant difference of GEEE in 48 hours between spring and summer $( P { > } 0 . 0 5 )$ ). 3）The GEEE in 48 hours had extremely significant positive correlation with the endogenous dry matter excretion in 48 hours in the same season ( $_ { r \\geqslant 0 . 9 1 }$ ， $P { < } 0 . 0 1$ ). 4)In 4 feedstufs,the ratio of maximum variation of GEEE in 48 hours to the excretion of feed gross energy in different seasons were from $7 . 3 6 \\%$ to $8 . 3 8 \\%$ ， $2 . 6 8 \\%$ to $2 . 9 4 \\%$ ， $7 . 9 2 \\%$ to $1 0 . 8 6 \\%$ and （204号 $3 . 5 3 \\%$ to $3 . 9 6 \\%$ for corn, corn DDGS, cassava slice and cassava meal, respectively. The values of TME of feedstuffs were caused by the variation of GEEE in 48 hours in different seasons were ranged from 0.28 to $0 . 3 6 ~ \\mathrm { k J / g }$ . In conclusion,there is a small variation of GEEE in different seasons,but the variation has no significant effect on the TME of feedstuffs in roosters. Key words: gross energy of endogenous excreta; true metabolizable energy; roosters ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

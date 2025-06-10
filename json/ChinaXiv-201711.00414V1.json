@@ -1,0 +1,437 @@
+[
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 符运斌」黄 涛」瞿明仁」宋小珍l\\*陈玉敏」杨食堂² 杨建军²3 （1.江西农业大学江西省动物营养重点实验室，南昌330045；2.江西高安裕丰农牧有限公4 司，宜春 330800)5 摘 要：本试验旨在研究在夏季高温条件下添加金银花提取物对热应激肉牛血清激素及抗氧6 化指标的影响。选择体重 $3 6 0 { \\pm } 2 0 )$ kg 的健康锦江黄牛 20 头分为4 组,分别在精料中添加7 0(对照)、 $0 . 2 \\%$ 、 $0 . 4 \\%$ 和 $0 . 6 \\%$ 金银花提取物,每组5个重复，每个重复1头。预试期 $1 0 \\mathrm { ~ d ~ }$ 8 正试期 $6 0 { \\mathrm { ~ d } }$ 。结果显示：与对照组比较，1）在 $4 0 \\mathrm { ~ d ~ }$ ， $0 . 2 \\%$ 和 $0 . 6 \\%$ 组试验牛的体温显著低9 于对照组（ $P { < } 0 . 0 5$ ）；金银花提取物对肉牛日增重无显著影响（ $P { > } 0 . 0 5$ ）。2）试验组肉牛10 的血清三碘甲状腺原氨酸（ $\\mathbf { \\nabla } \\cdot \\mathbf { T } _ { 3 }$ ）、甲状腺素（ $\\mathrm { \\cdot } \\mathrm { T } _ { 4 }$ ）含量升高，皮质醇（COR）含量下降。11 3）试验组肉牛血清总抗氧化能力(T-AOC)、谷胱甘肽过氧化物酶(GSH-Px)和超氧化物歧12 化酶(SOD)活性均提高，丙二醛（MDA）含量降低。结果提示，金银花提取物可改善肉牛13 抗氧化性能，缓解肉牛热应激反应，但对增重没有显著影响；综合各项指标认为精料中添14 加 $0 . 2 \\%$ 较为适宜。15 关键词：金银花提取物；高温；肉牛；体温；激素；抗氧化酶16 中图分类号：S823；S816.717 现代化肉牛养殖业中，高度集约化的生产模式使应激成为影响肉牛生产性能的重要因18 素之一。在各种应激反应中，热应激对肉牛的影响是最广泛且常常难以避免。已有的报道19 显示，热应激可引起肉牛采食量下降、饲料的利用率低下、生长缓慢，严重的可导致机体20 代谢紊乱甚至死亡，给肉牛生产带来巨大的经济损失[]。为了缓解热应激对肉牛生长的影21 响，国内外除了在牛舍温湿度调控设施上进行投入和改进外，还研究通过饲粮添加营22 养性或非营养性物质调控动物营养代谢，实现缓解热应激产生的影响。研究显示，某些1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "维生素如维生素C、维生素 A、 $\\beta$ -胡萝卜素可通过清除过多的氧自由基和提高动物抗氧化酶活性而缓解机体热应激反应[2]。但维生素添加剂在使用过程中，容易被氧化失效，且机体的吸收利用率很低，剂量难以估计。过高的维生素A和 $\\beta$ -胡萝卜素添加后可能引起牛肉肌间脂肪比例下降、肉色变黄[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "金银花有清热解毒、解暑化湿的作用，只德贤等[4研究表明，金银花的有效成分 1黄酮、绿原酸都是天然的抗氧化剂，具有清除体内超氧离子自由基，保护组织免受氧化损伤的作用。鉴于金银花的药理作用，有可能克服已报道的利用添加物缓解热应激时对动物的负面影响，但是目前尚没有有关金银花及其提取物调节动物的抗热应激作用报道。本试验以锦江黄牛为对象，研究金银花提取物在饲粮中添加对热应激肉牛体温、血清激素及抗氧化指标的影响，旨在为植物提取物在肉牛热应激防治中的应用提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 试验动物",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20头健康无疾病的锦江黄牛未去势公牛，初始体重为（ $3 6 0 { \\pm } 2 0$ ）kg，由高安裕丰农牧有限公司提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2金银花提取物",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "金银花提取物购自西安某生物科技有限公司，采用高效液相色谱（HPLC）法测得其主要活性成分绿原酸的含量为 $1 9 . 0 1 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.3试验饲粮 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲粮由精料和粗料组成，精料组成及营养水平见表1，粗料为干酒糟和皇竹草。精料综合净能根据《中国饲料成分及营养价值表》5计算，其余营养水平参照《动物营养学实验教程》[中的常规分析方法进行测定，其中粗蛋白质含量采用凯氏定氮法测定，磷含量采用钼黄比色法测定，钙含量采用高锰酸钾滴定法测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1精料组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba8d8108c1087a362e27a04401d38939f4f238d4ed53d1a296dda3c87f819961.jpg",
+        "table_caption": [
+            "Table 1 Composition and nutrient levels of the concentrate (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels</td><td>含量Conten</td></tr><tr><td>玉米Corn</td><td>69.00</td><td>干物质DM</td><td>87.30</td></tr><tr><td>麸皮Wheat bran</td><td>18.00</td><td>综合净能NEmf(MJ/kg)</td><td>14.54</td></tr><tr><td>豆粕 Soybean meal</td><td>4.00</td><td>粗蛋白质CP</td><td>12.20</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8feae7cf2823de4045142ef76bcfc89e6b3291bcf89c5dc1efed6f141d0e0fe.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>带格式的：下标</td></tr><tr><td>删除的内容：et energy</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e5e541d76b04d0b8f56b25b3762336242bf53a218b4a0d8bfb7f72b4abfe28b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>棉籽饼 Cottonseed cake</td><td>3.00</td><td>中性洗涤纤维NDF</td><td>16.05</td></tr><tr><td>菜籽粕Rapeseed meal</td><td>3.00</td><td>中性洗涤纤维ADF</td><td>6.13</td></tr><tr><td>石粉Limestone</td><td>1.00</td><td>钙Calcium</td><td>0.63</td></tr><tr><td>磷酸氢钙CaHPO4</td><td></td><td>磷Phosphorus</td><td>0.43</td></tr><tr><td>碳酸氢钠NaHCO3</td><td>0.50</td><td></td><td></td></tr><tr><td></td><td>0.20</td><td></td><td></td></tr><tr><td>食盐NaCl 预混料 Premix</td><td>0.30</td><td></td><td></td></tr><tr><td>合计Total</td><td>1.00 100.00</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "预混料为每千克精料提供 Premix provided the following per $\\mathrm { k g }$ of the concentrate:VA2 640 IU,VD 302 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "J,VE 17 mg,Fe $6 0 ~ \\mathrm { { m g } }$ ，Cu $1 0 \\mathrm { m g }$ ， $Z n 3 6 ~ \\mathrm { m g }$ ，Mn 48mg， $\\mathrm { C o } 0 . 1 2 \\ : \\mathrm { m g }$ ， $\\mathrm { ~ I ~ } 0 . 3 0 \\mathrm { ~ m g ~ }$ ，Se $0 . 2 4 ~ \\mathrm { m g }$ 0 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计与饲养管理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将20头锦江黄牛随机分成4组，每组5个重复，每重复1头牛。各组分别在精料中添加0（对照）、 $0 . 2 \\%$ 、 $0 . 4 \\%$ 和 $0 . 6 \\%$ 的金银花提取物。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本试验于2014年7月1日至2014年9月8日在江西省高安裕丰农牧有限公司完成，预试期 $1 0 \\mathrm { ~ d ~ }$ ，正试期 $6 0 { \\mathrm { ~ d } } .$ 。试验期间，供试牛在同一栏舍内穿鼻拴系单头饲养，由专人负责，试验前统一按常规方法驱除体内外寄生虫，日常管理相同，每天07:00和18:00分2次喂料，精料与干酒糟限量饲喂，每天每头牛饲喂精料 $3 . 5 ~ \\mathrm { k g }$ ，干酒糟 $5 ~ \\mathrm { k g }$ ，全部吃完后再自由采食皇竹草，自由饮水。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 检测指标与方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1牛舍环境温湿度指数(temperature humidity index,THI)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将温湿度表悬挂在试验牛群两边的墙壁上与牛体等高处（距地面约 $1 . 5 \\mathrm { ~ m ~ }$ ），记录正试期每天08:00、14:00及20:00的温度和相对湿度。根据Berman[7报道的方法计算牛舍环境THI。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2af788998adfe4997650c9a95ae92b366df39caacbc2e9b88e9db4106e96c04.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>删除的内容：Song</td></tr><tr><td>删除的内容：等</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T H I } { = } t d { - } ~ ( 0 . 5 5 - 0 . 5 5 { \\times } R H ) ~ { \\times } ( t d { - } 5 8 ) \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：td为华氏温度(td=摄氏温度 $\\times 9 / 5 + 3 2 )$ ；RH为相对湿度。当牛舍THI<72时表示无热应激； $7 2 { \\leq } \\mathrm { T H I } { \\leq } 7 9$ 时为轻度热应激； $7 9 { < } \\mathrm { T H I } { \\leq } 8 8$ 时为高度热应激； $\\mathrm { T H I } { > } 8 8$ 时为重度热应激。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2体温 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别于试验的1、20、40、60d清晨，用数字体温表测定所有试验牛的肛温。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3日增重",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别于试验的1、60d06：00空腹称重，计算日增重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "41.3.4血清激素和抗氧化指标检测 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在正试期的20、40、60d早晨对全部试验牛空腹颈静脉采血 $2 0 ~ \\mathrm { m L }$ ，1 $0 4 8 \\times g$ 离心 $1 5 \\mathrm { m i n }$ 制备血清，放在 ${ \\cdot 2 0 \\ \\mathrm { { ^ { \\circ } C } } }$ 冰箱中冷冻备用待测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "血清激素[三碘甲状腺原氨酸（ $\\mathbf { T } _ { 3 }$ ）、甲状腺素（ $\\mathrm { T } _ { 4 }$ ）和皮质醇（COR）]含量均采取放射免疫技术测定，由南昌大学第二附属医院检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "血清抗氧化指标[总抗氧化能力（T-AOC)、谷胱甘肽过氧化物酶(GSH-Px)和超氧化物歧化酶(SOD)活性、丙二醛（MDA)含量]均采用南京建成生物工程研究所的试剂盒测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4统计方法",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据采用 SPSS17.0软件one-wayANOVA程序进行方差分析，采用Duncan氏法进行多重比较，结果以平均值 $\\pm$ 标准差表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "带格式的：左，缩进：首行缩进：2字符，定义网格后自动调整右缩进，行距：单倍行距，孤行控制，调整中文与西文文字的间距，调整中文与数字的间距，到齐到网格",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析删除的内容：单因素",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1夏季高温条件下牛舍的THI ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "删除的内容：和",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "环境THI是用来反映气温和气湿对牛热交换影响的指标。一般认为，当环境温度超过 $2 5 \\ \\mathrm { ^ \\circ C }$ 、THI大于72时牛处于热应激状态。由表2可见，在试验期间，牛舍的 THI高于72，已超过了肉牛产生热应激的临界值。因而，在本试验条件下，夏季高温高湿环境可引起肉牛出现热应激。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9c8cdf0713007bde2e20ccdb76dbf9a031a006ec34d8181ee5e4bc02de47321.jpg",
+        "table_caption": [
+            "表2牛舍环境温湿指数",
+            "Table2 THI in house of beef catle "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td></td><td>温度T/C</td><td>湿度RH/%</td><td>温湿度指数THI</td></tr><tr><td rowspan=\"3\">1~20 d</td><td>08:00</td><td>29.16±2.14</td><td>78.80±4.86</td><td>81.40</td></tr><tr><td>14:00</td><td>34.56±3.65</td><td>57.10±13.16</td><td>85.66</td></tr><tr><td>20:00</td><td>28.71±2.25</td><td>67.95±10.43</td><td>79.15</td></tr><tr><td rowspan=\"4\">21~40 d</td><td>08:00</td><td>29.10±1.76</td><td>78.00±5.84</td><td>81.19</td></tr><tr><td>14:00</td><td>33.37±3.20</td><td>57.60±11.43</td><td>84.12</td></tr><tr><td>20:00</td><td>29.13±1.70</td><td>66.60±9.38</td><td>79.58</td></tr><tr><td>08:00</td><td>27.96±1.68</td><td>80.50±5.12</td><td>79.72</td></tr><tr><td rowspan=\"2\">41~60 d</td><td>14:00</td><td>32.66±2.10</td><td>60.35±11.07</td><td>83.64</td></tr><tr><td>20:00</td><td>27.80±1.12</td><td>70.55±8.37</td><td>78.15</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2金银花提取物对肉牛日增重的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可见，试验组肉牛的日增重与对照组相比均无显著变化（ $P { > } 0 . 0 5$ ），但表现出了上升的趋势，其中以 $0 . 6 \\%$ 组最高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3金银花提取物对肉牛日增重的影响 Table 3 Effects of honeysuckle extracts on daily gain of beef cattekg ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/da24d39d1ba1c9385fb04ba28033135fcc270fd97d1fe854d04ccd9be0b3e8b7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>0</td><td>0.2</td><td>0.4</td><td>0.6</td></tr><tr><td>初重Initial weight</td><td>388.60±6.56</td><td>377.60±6.29</td><td>392.20±7.47</td><td>387.00±7.18</td></tr><tr><td>末重Final weight</td><td>427.80±6.85</td><td>419.40±4.75</td><td>432.80±6.09</td><td>429.80±7.79</td></tr><tr><td>日增重Daily gain</td><td>0.65±0.03</td><td>0.70±0.03</td><td>0.68±0.03</td><td>0.71±0.04</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同字母表示差异显著（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ），相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。In the same row，values with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,whilewiththe same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same below.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3银花提取物对肉牛体温的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1中显示，在1、20、60d，试验组体温与对照组无显著差异（ $P { > } 0 . 0 5$ ），在 $4 0 \\mathrm { d }$ $0 . 2 \\%$ 和 $0 . 6 \\%$ 组体温显著低于对照组（ $P { < } 0 . 0 5 \\$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据柱形标注不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Value columnswith different small letters mean significant difference $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/256cbed2ee784e3788bd7795a5913c779081e3a83cea90d628707bbd797585bb.jpg",
+        "img_caption": [
+            "图1金银花提取物对肉牛体温的影响",
+            "Fig.1Effects of honeysuckle extracts on body temperatureof beef cattle "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4金银花提取物对肉牛血清激素含量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可见，与对照组比较，试验组肉牛血清 ${ \\mathrm { T } } _ { 3 }$ 含量在 20d无显著差异（ $P { > } 0 . 0 5 \\$ ）；在40 d， $0 . 2 \\%$ 、 $0 . 4 \\%$ 、 $0 . 6 \\%$ 组分别上升了 $3 0 . 5 3 \\%$ 、 $2 2 . 1 1 \\%$ 、 $2 3 . 1 6 \\%$ ( $P { < } 0 . 0 5$ ）；在60d，只有 $0 . 2 \\%$ 组的 ${ \\mathrm { T } } _ { 3 }$ 含量比对照组提高了 $3 9 . 0 8 \\%$ （ $_ { \\cdot \\textcircled { P } < 0 . 0 5 }$ ）。 $0 . 2 \\%$ 组血清 $\\mathrm { T } _ { 4 }$ 含量在20、",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "40、60d分别比对照组上升了 $1 4 . 3 3 \\%$ 、 $45 . 9 7 \\%$ 、 $3 2 . 9 8 \\%$ （ $P { < } 0 . 0 5$ ）， $0 . 4 \\%$ 组在40和60 d分别比对照组提高了 $2 8 . 6 8 \\%$ 、 $2 4 . 3 7 \\%$ （ $P { < } 0 . 0 5$ ）， $0 . 6 \\%$ 组在40和60d分别比对照组提高了 $3 3 . 6 0 \\%$ 和 $2 3 . 5 3 \\%$ ( $P { < } 0 . 0 5$ ）。 $0 . 2 \\%$ 组血清皮质醇含量在20 和 $4 0 \\mathrm { ~ d ~ }$ 分别比对照组下降了$2 0 . 4 5 \\%$ 和 $2 9 . 4 1 \\%$ ( $P { < } 0 . 0 5 \\$ ）， $0 . 4 \\%$ 组在20d比对照组下降了 $1 5 . 2 2 \\%$ ( $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ）， $0 . 6 \\%$ 组在 20、60d分别比对照组下降了 $2 3 . 2 6 \\%$ 和 $1 9 . 2 3 \\%$ （ $\\scriptstyle \\cdot < 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c1c9476c13c2553fb18c3a90e5b850058d7fc0494a78970f898e60842c740d7.jpg",
+        "table_caption": [
+            "表4金银花提取物对肉牛血清激素含量的影响",
+            "Table 4 Effects of honeysuckle extracts on serum hormone contents of beef cattle "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">项目Items</td><td colspan=\"4\">金银花提取物Honeysuckle extract/%</td></tr><tr><td>0</td><td>0.2</td><td>0.4</td><td>0.6</td></tr><tr><td rowspan=\"3\">三碘甲状腺原氨酸T3/(ng/μL)</td><td>20d</td><td>1.09±0.03</td><td>1.15±0.06</td><td>1.05±0.05</td><td>1.12±0.09</td></tr><tr><td>40d</td><td>0.95±0.05a</td><td>1.24±0.08b</td><td>1.16±0.06b</td><td>1.17±0.07b</td></tr><tr><td>60d</td><td>0.87±0.05a</td><td>1.21±0.07b</td><td>0.97±0.05a</td><td>1.01±0.05a</td></tr><tr><td rowspan=\"2\">甲状腺素</td><td>20d</td><td>5.93±0.26a</td><td>6.78±0.21b</td><td>6.34±0.18ab</td><td>6.41±0.16ab</td></tr><tr><td>40d</td><td>5.09±0.15a</td><td>7.43±0.15c</td><td>6.55±0.16b</td><td>6.80±0.23b</td></tr><tr><td>T4/ (μg/μ L)</td><td>60d</td><td>4.76±0.14a</td><td>6.33±0.17b</td><td>5.92±0.19b</td><td>5.88±0.15b</td></tr><tr><td rowspan=\"2\">皮质醇</td><td>20d</td><td>1.06±0.05b</td><td>0.88±0.03a</td><td>0.92±0.04a</td><td>0.86±0.04a</td></tr><tr><td>40 d</td><td>0.88±0.04b</td><td>0.68±0.04a</td><td>0.79±0.05ab</td><td>0.78±0.03ab</td></tr><tr><td>COR/(ug/dL)</td><td>60d</td><td>0.93±0.03b</td><td>0.84±0.04ab</td><td>0.85±0.05ab</td><td>0.78±0.04a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5金银花提取物对肉牛血清抗氧化指标的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可见，与对照组比较，试验组肉牛血清中GSH $\\mathbf { \\cdot P x }$ 活性在20d呈现上升趋势，但差异不显著（ $\\textstyle P > 0 . 0 5$ ）；在 $4 0 \\mathrm { ~ d ~ }$ ， $0 . 2 \\%$ 组比对照组提高了 $1 2 . 7 3 \\%$ （ $P { < } 0 . 0 5$ ），其他试验组与对照组相比差异不显著（ $P { > } 0 . 0 5$ ）；在 $6 0 \\mathrm { ~ d ~ }$ ， $0 . 2 \\%$ 和 $0 . 6 \\%$ 组与对照组相比分别上升了 $1 7 . 9 4 \\%$ ， $1 5 . 3 7 \\%$ （ $P { < } 0 . 0 5$ ），但 $0 . 4 \\%$ 组无显著变化 （ $P { > } 0 . 0 5$ ）。与对照组相比，试验组血清T-AOC在 $2 0 \\mathrm { ~ d ~ }$ 均有上升的趋势，但差异不显著（ $\\cdot P { > } 0 . 0 5$ ），在 $4 0 \\mathrm { ~ d ~ }$ ， $0 . 2 \\%$ 组比对照组上升了 $1 7 . 6 4 \\%$ （ $P { < } 0 . 0 5$ ），在 $6 0 \\mathrm { ~ d ~ }$ ， $0 . 2 \\%$ 、 $0 . 4 \\%$ 和 $0 . 6 \\%$ 组分别比对照组提高了$3 4 . 6 2 \\%$ ， $2 1 . 4 0 \\%$ ， $2 0 . 5 7 \\%$ ( $P { < } 0 . 0 5$ ）。在 $2 0 \\mathrm { ~ d ~ }$ ， $0 . 2 \\%$ 和 $0 . 6 \\%$ 组血清MDA含量分别比对照组下降了 $34 . 9 6 \\%$ 、 $3 4 . 3 6 \\%$ （ $P { < } 0 . 0 5$ ），在40d分别下降了 $5 1 . 2 8 \\%$ 、 $3 5 . 9 4 \\%$ ( $P { < } 0 . 0 5 \\mathrm { ~ ; ~ }$ ），在60d分别下降了 $3 8 . 2 0 \\%$ 、 $2 9 . 0 7 \\%$ （ $P { < } 0 . 0 5$ ）。与对照组比较， $0 . 2 \\%$ 、 $0 . 4 \\%$ 和 $0 . 6 \\%$ 组血清 SOD活性在40d分别比对照组上升了 $1 7 . 7 2 \\%$ 、 $1 3 . 9 7 \\%$ 、 $1 9 . 1 1 \\%$ ；但在 $2 0 ~ \\mathrm { d }$ 和 $6 0 \\mathrm { ~ d ~ }$ ，试验组虽然呈现上升的趋势，但与对照组之间无显著差异（ $\\cdot P { > } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5金银花提取物对肉牛血清抗氧化指标的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 5 Effects of honeysuckle extract on serum antioxidant indexes of beef cattl ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ea659a344403f7dba31f37b5ff0e8722d51337eec0f6dfa896837e683f6d14d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td>0</td><td>0.2</td><td>0.4</td><td>0.6</td></tr><tr><td rowspan=\"2\">谷胱甘肽过氧化物酶</td><td>20d</td><td>108.06±4.93</td><td>114.99±5.48</td><td>111.53±3.03</td><td>112.00±2.28</td></tr><tr><td>40d</td><td>97.44±2.98a</td><td>109.84±1.69b</td><td>103.53±2.44ab</td><td>103.91±1.99ab</td></tr><tr><td>GSH-Px/(U/mL)</td><td>60d</td><td>95.22±5.79a</td><td>112.33±3.05b</td><td>96.04±2.33a</td><td>109.86±2.93b</td></tr><tr><td>总抗氧化能力</td><td>20d</td><td>8.09±0.11</td><td>9.26±0.17</td><td>8.90±0.21</td><td>9.32±0.23</td></tr><tr><td rowspan=\"2\">T-AOC/(U/mL)</td><td>40d</td><td>6.86±0.34a</td><td>8.07±0.06b</td><td>6.85±0.10a</td><td>7.31±0.07a</td></tr><tr><td>60d</td><td>5.98±0.33a</td><td>8.05±0.13b</td><td>7.26±0.37b</td><td>7.21±0.30b</td></tr><tr><td rowspan=\"2\">丙二醛</td><td>20d</td><td>3.05±0.23b</td><td>2.26±0.14a</td><td>2.89±0.23b</td><td>2.27±0.13a</td></tr><tr><td>40d</td><td>2.95±0.20b</td><td>1.95±0.18a</td><td>2.80±0.19b</td><td>2.17±0.14a</td></tr><tr><td rowspan=\"2\">MDA/(nmol/mL) 超氧化物歧化酶</td><td>60d</td><td>2.93±0.17d</td><td>2.12±0.24ab</td><td>2.74±0.15cd</td><td>2.27±0.13bc</td></tr><tr><td>20d</td><td>34.43±1.30</td><td>37.22±1.36</td><td>35.48±0.93</td><td>36.87±0.71</td></tr><tr><td rowspan=\"2\">SOD/(U/mL)</td><td>40d</td><td>32.50±1.23a</td><td>38.26±1.38b</td><td>37.04±1.57b</td><td>38.71±0.94b</td></tr><tr><td>60d</td><td>35.63±2.29</td><td>40.52±2.99</td><td>32.70±4.14</td><td>41.39±6.73</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1金银花提取物对肉牛的抗热应激作用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究的夏季高温高湿环境牛舍的THI高于79，肉牛处于热应激。肾上腺是动物体内一个对应激反应敏感的内分泌腺，应激原可激活下丘脑-垂体-肾上腺皮质轴（HPA）并进而引起皮质醇和皮质酮分泌量增加。皮质醇是肾上腺皮质合成分泌的一种类固醇激素，参与机体多种代谢过程，利于组织的修复[8]。热应激时肉牛甲状腺机能减弱，代谢率降低，产热减少，以增加机体对炎热环境的适应，因此造成甲状腺分泌 $\\mathrm { T } _ { 4 }$ 和 ${ \\bf T } _ { 3 }$ 减少[9]。本试验的结果表明，在热应激期，金银花提取物可引起试验牛血清中 ${ \\bf T } _ { 3 }$ ， $\\mathrm { T } _ { 4 }$ 含量升高，皮质醇含量下降。表明金银花提取物添加剂对肉牛热应激防治具有一定的效果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2金银花提取物对肉牛抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "付戴波等[0研究表明，高温应激能诱发机体大量产生氧自由基，破坏体内的抗氧化酶系统。脂质过氧化反应是细胞膜受到自由基的攻击而发生的一系列氧化连锁反应，最终导致细胞膜破坏及产生毒性代谢产物。GSH $\\mathbf { \\cdot P x }$ 和 SOD是体内2种重要的抗氧化酶，其活性反映了机体清除氧自由基的能力；丙二醛是脂质过氧化反应的产物，其含量与机体组织细胞的脂质过氧化程度有关[11。在本研究中，金银花提取物添加后可降低试验牛血清中MDA 含量，可显著提高GSH-Px、SOD 活性和 T-AOC。这说明金银花提取物添加后提高了肉牛的抗氧化能力，有效地预防了高温应激引起的脂质过氧化损伤。方宇辉[12]研究显示，金银花复方制剂对急性心肌缺血具有明显的保护作用，其作用机制可能就是金银花有效成分黄酮和绿原酸清除了过多的自由基，从而改善心肌能量代谢和各种酶活性，使机体间接地提高对缺氧的耐受性，最终保护和稳定心肌细胞膜的通透性和完整性。金银花提取",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "物可提高血清 SOD 活性，同时致 MDA 含量降低，NO含量降低，加强胰岛细胞的抗氧化能力，对外源性 NO 所造成的 NIT-1胰岛 B 细胞损伤有很好的保护作用[4]。宫璀璀等[13]报道，金银花对 RBL 细胞氧化应激损伤具有一定保护作用，且前保护作用效果好于后保护作用，其保护作用机理可能是通过抑制热应激蛋白70 和核转录因子κB的表达，阻抑核转录因子KB信号传导途径并提高细胞内抗氧化防御酶系水平。  \n4结论  \n$\\textcircled{1}$ 金银花提取物可改善肉牛抗氧化性能，缓解肉牛热应激反应，但对增重没有显著影响。  \n$\\textcircled{2}$ 综合各项指标认为精料中添加 $0 . 2 \\%$ 较为适宜。  \n参考文献：  \n[1] MADER TL,DAVIS M S,BROWN-BRAND T.Environmental factors influencing heat stressin feedlot catle[J].Journal of Animal Science,2006,84(3):712-719.  \n[2]BASS P D.ENGLE T E,BELK K E,et al.Effects of sex and short-term magnesiumsupplementation on stress responses and longissimus muscle quality characteristics of crossbredcattle[J].Journal of Animal Science,2010,88(1):349-360.  \n[3] SIEBERT B D,KRUK Z A,DAVIS J,et al.Efect of low vitamin a status on fat deposition andfatty acid desaturation in beef cattle[J].Lipids,2006,41(4):365-370.  \n[4]只德贤,赵彦巧.金银花提取物修护外源NO致NIT-1胰岛β细胞损伤[J.食品研究与开发,2011,32(9):20-22  \n[5] 中国饲料成分及营养价值表(2013年第 24版)[J].中国饲料,2013(21):34-43.  \n[6] 袁缨.动物营养学实验教程[M].北京:中国农业大学出版社,2006:8-1,12-40.  \n[7]BERMAN A.Estimates of heat stress relief needs for Holstein dairy cows[J].Journal ofAnimal Science,2005,83(6):1377-1384.  \n[8]韩正康.家畜生理学[M].北京:中国农业出版社,2002:11-25,62-66.  \n[9] 王文娟,汪水平,左福元,等.中药复方对夏季肉牛的影响:I.育肥性能、生理指标及血清激素水平和酶活性[J].畜牧兽医学报,2010,41(10):1260-1267.",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d893ae1b9200cd89db7caf40ea47f250a05314c66ea9ed72c0875053cc1d5352.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>带格式的</td></tr><tr><td>删除的内容:(请核对作者)</td></tr><tr><td>带格式的</td></tr><tr><td>带格式的</td></tr><tr><td>删除的内容:SONGXZ,LUOJR.FUDB,et al.Traditional Chinese medicine prescriptions enhance growth performance of heat stressed beef cattle by relieving heat stress responses and increasing apparent nutrient digestibility[J].Asian- Australasian Journal of Animal Sciences,2014,27(1O):1513-</td></tr><tr><td>1520. 带格式的</td></tr><tr><td>带格式的：字体：TimesNew Roman</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10] 宋小珍,付戴波,瞿明仁,等.热应激对肉牛血清内分泌激素含量、抗氧化酶活性及生理生 化指标的影响[J].动物营养学报,2012,24(12):2485-2490.   \n[11] 张瑞光,吴晓鸣,鲍若虹,等.热应激与非热应激期福安水牛生理和抗氧化指标分析[J].江西 农业学报,2010,22(11):136-138.   \n[12]方宇辉.金银花复方制剂对急性心肌缺血的保护作用[D].硕士学位论文.延吉:延边大 学,2006.   \n[13]宫璀璀,郑乃刚,吴景兰,等.金银花对大鼠体内和体外RBL细胞的抗氧化保护作用及其机 制[J].吉林大学学报:医学版,2009,35(6):1074-1078.   \nEffects of Honeysuckle Extracts on Serum Hormones and Antioxidant Indexes of Beef Cattle under Heat Stress   \nFU Yunbin1 HUANG Tao1 QU Mingrenl SONG Xiaozhen1\\* CHEN Yumin1 YANG Shitang2 YANG Jianjun2   \n(1.Key Laboratory of Animal Nutrition of Jiangxi Province,Jiangxi Agricultural University, Nanchang 330045,China; 2. Yufeng Agricultural andLivestock Co.,Ltd.,Yichun 330800,China) Abstract: This study was conducted to investigate the effects of honeysuckle extracts on serum hormones and antioxidant indexes of bef catle under heat stress of high temperature environment in summer.Twenty healthy Jinjiang yellow cattle with body weight of ( $3 6 0 { \\pm } 2 0 \\$ $\\mathrm { k g }$ were divided into four groups with five in each group and one catle per replicate. Honeysuckle extracts at O(control), $0 . 2 \\%$ $0 . 4 \\%$ and $0 . 6 \\%$ were added in concentrates.The pretest lasted for 1O days,and the test lasted for 6O days.The results showed as follows: compared with control group,1) body temperature in $0 . 2 \\%$ and $0 . 6 \\%$ groups were significantly declined on days 40( $P { < } 0 . 0 5 \\$ ）；there was no significant effects on daily gain（ $P { > } 0 . 0 5 \\$ ）.2） Serum contents of triiodothyronine and thyroxine in experimental groups were increased,but serum cortisol content was declined.3) Serum activities of superoxide dismutase,glutathione peroxidase and total antioxidant capacity in experimental groups were enhanced, but serum content of malondialdehyde was decreased. These resultsindicate that dietary supplementation of honeysuckle extracts improve antioxidant ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "capability,and relieve stress reaction of beef cattle,but had no significant effects on weight gain; the optimal level is $0 . 2 \\%$ supplemented in concentrate considered all the indexes. Keywords:honeysuckle extract；high temperature；beef cattle；body temperature；hormones; antioxidase ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,395 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Identification ofLiver Epithelial Cell-derived Ig Expression in μ chain-deficient mice ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:20 October 2015   \nAccepted:07 March 2016   \nPublished:29 March 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WenweiShao¹,Chi Zhang1, Enyang Liu²,Long Zhang²,Junfan Ma¹,Zhu Zhu1,Xiaoting Gong1, Zhihai Qin³ & Xiaoyan Qiu1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Growing evidence indicates that Bcelsare notthe only source of immunoglobulin (lg).To investigate this discovery further, we used $\\mu \\mu \\tau$ mice, which have a disruption of the first transmembrane exon of the $\\mu$ （204号 heavy chain and do not express the membrane form of IgM.These mice lack mature Bcels and thus serve as a good model to explore lg expression by liver epithelial cels.We found that Ig heavy chains $( \\mu , \\delta , \\gamma$ and $\\mathbf { \\alpha } _ { \\mathbf { { \\alpha } } } \\mathbf { \\alpha } _ { \\mathbf { { \\alpha } } }$ )and light chains (K and $\\gimel$ )were expressed insorted liver epithelial cellsof $\\mu \\mu \\tau$ mice.Surprisingly, each heavy chain class showed its respective variable region sequence characteristics in their variable region,instead of sharing the same VDJusage, which suggests that class switching does not occur in liver epithelial cells.Moreover, the $\\gamma$ and $\\mathbf { \\alpha } _ { \\mathbf { { \\alpha } } } \\mathbf { \\alpha } _ { \\mathbf { { \\alpha } } }$ chains,but not the $\\mu$ and δ chains, showed mutations in the variable region,thus indicating that diferent classes oflg have different activities.Ourfindings support the concept that non-B cells,liver epithelial cells here,can produce different classes of Ilg. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Immunoglobulin $( \\mathrm { I g } )$ is one of the classic immune molecules and plays an important role in the body’s immune response.Curently,Blineage lymphocytes are considered to be theonly source of Ig.However, since 20 years ago,a series of studies by our group proved that many non-B cancer cells, especialy epithelial cancer cells,can also express Ig, including IgG, IgA and $\\mathrm { I g } \\mathrm { M } ^ { 1 - 9 }$ .Moreover, epithelial cancer cell-expressed IgG showed growth factor-like activitywhichcan promotecancer progression,2,10Subsequently, these unusualfindings wereconfirmed by other researchers1-i9. Recently,several types ofIg,includingIgG,IgAand IgM,have been found in normalnon-Bcells,incudingepithelialcell,germcell,neurons,endothelialcells,andevenmonocytes,,1. Moreover, normal epithelialcell-derived IgG,IgAand IgMshowedcharacteristicantibodyactivity9,22Allof these studies have challenged the classical concept that Bcells are the only source of Ig. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The functional membrane form of the IgM heavy chain $( \\mu )$ is thought to be essential for B cell differentiation. B cells that lack $\\mu$ chains are eliminated by the body23.TheB cell-deficient $\\mu \\mathrm { M T }$ mice contain a disruption of the first transmembrane exon of the $\\mu$ heavy chain and thus do not express the membrane form of IgM.These mice lack mature Bcells due toa developmental block at the pro-Bcellstage,after which Bcels undergo apoptosis24. $\\mu \\mathrm { M T }$ mice are considered to be a suitable model to explore infection or tumor immunityin the absenceof B cells and Ig production due to the lack of B cells25-30.However, growing studies have found that $\\mu \\mathrm { M T }$ mice contain both Ig,including IgA,IgGand IgE,and Ig-producing cels31-34. With regard toour previous finding that Igcan be found in many non-B cells in human and mice, we hypothesized that the Ig in $\\mu \\mathrm { M T }$ mice is mainly produced by non-Bcells instead of the residual a small population of B cells as described above. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study,B cell-deficient $\\mu \\mathrm { M T }$ mice were used as a model to verify our hypothesis.We firstidentified IgM and IgA expresson inseveral non-immune tissues,including liver,lung and kidney.The levels ofIgMand IgA in these tissues were similar to those found in wild type (WT) mice,whereas the levels of serum Ig in the $\\mu \\mathrm { M T }$ mice were much lower than thosein WTmice.Subsequently, we analyzed IgM,IgG,IgA,and IgD heavyandlightchain transcripts and protein insorted liver epithelial cells and found that liver epithelialcels could express different classes of Ig.Moreover, the liver epithelialcel-erived Ig transcripts displayed distinctcharacteristicscompared with B cell-derived Ig transcripts. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "No mature B cells and low levels of serum lg were detected in $\\mu \\mu \\tau$ mice.We first detected whether there was residual mature B cells in $\\mu \\mathrm { M T }$ mice.In peripheral blood,there were no cells that stained with the $\\mathtt { B 2 2 0 B }$ cell marker (Fig.1A).We then analyzed Bcell development in the bone marrow (BM) of $\\mu \\mathrm { M T }$ mice.Unlike their WT counterparts (BALB/c mice), $\\mu \\mathrm { M T }$ mice contained neither pre-B cells $\\mathrm { ( C D 4 3 ^ { - } B 2 2 0 ^ { + } }$ nor mature B cells $( \\mathrm { B } 2 2 0 ^ { + } \\mathrm { I g } \\mathrm { M } ^ { + } )$ in the BM(Fig.1B,C).B celldevelopment from pro-B to pre-B is prevented in $\\mu \\mathrm { M T }$ mice. Therefore,we used $\\mu \\mathrm { M T }$ mice as a B cell-deficient model. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Next,we measured the concentrations of $\\mathrm { I g } \\mathrm { M }$ and IgG in the serum of $\\mathbf { \\bar { \\mu } } \\mathbf { M T }$ mice byELISA,using the serum of WT mice as a control. The serum IgM and IgG levels in the $\\mu \\mathrm { M T }$ mice were reduced nearly 100-fold compared with WT mice (Fig.1D). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Detection of IgM and Igk in non-B cells in multiple tissues of $\\mu \\mu \\tau$ mice by immunostaining.To determine whether $\\mathrm { I g }$ widely present in non-B cells of the $\\mu \\mathrm { M T }$ mice,we performed immunohistochemistry using anti-mouse IgMand anti-mouse Igk chain antibodies.Although there was hardly any positive staining in the spleen (Fig.2A),non-Bcells (especiallyepithelialcells)inmultiple tissues,including liver,lung,kidney,nd small intestine,displayeda positive staining pater that was equivalent to WTmice (Fig.2B,C).Inaddition,the fact that Ig was widely present in non-B cells was confirmed by Western blotting (Fig.2D). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Different classes of Ig were found in livers of $\\mu \\mu \\tau$ mice. To further explore the expression of Ig, we analyzed different classes of Ig in livers of $\\mu \\mathrm { M T }$ mice using a Rapid Mouse Ig Isotyping Array. First, blood was drawn from the eye canthus to obtain serum,and then the mice were perfused to remove blood cells and serum Ig.Protein was extracted from the liver,andthe Ig in theliverlysateand the serum were quantitatedby fluorescence with Rapid Mouse Ig Isotyping Array.As expected,there were low levels of $\\mathrm { I g }$ in the serum of $\\mu \\mathrm { M T }$ mice compared with WT mice.However, the levels of IgM,IgG1,IgG2b and Igk in the $\\mu \\mathrm { M T }$ liver lysate were the same as those in the WT liver lysate. Moreover, the levels of IgA, IgD, $\\mathrm { I g } \\lambda$ and $\\mathtt { I g G 2 a }$ were much higher in the $\\mu \\mathrm { M T }$ liver lysate than in the WTliver lysate (Fig.3A).We also confirmed this characteristic of IgM and $\\mathrm { I g G }$ in the liver lysate by ELISA (Fig.3B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subsequently,to confirm that liver cells of $\\mu \\mathrm { M T }$ mice could produce Ig,we analyzed the $\\mu$ and k chains in the $\\mu \\mathrm { M T }$ liver lysate by mass spectrometry (MS).An SDS-PAGE band of liver lysate of approximately $7 5 \\mathrm { k D a }$ ,which was stained with a goat anti-mouse IgM antibodyby Western blotting,contained 11 peptides that correspond to the mice $\\mathtt { I g } \\mu$ heavy chain (Fig.3C).Similarly,a band of approximately $2 6 \\mathrm { k D a }$ ,which was detected by an anti-mouse Ig Kantibodyby Western bloting,yielded 1 peptide that corresponded toa K chain variable region and l peptide that corresponded toaK chain constant region (Fig.3D). Inaddition,l peptide corresponding to the $\\lambda$ chain constant region was found in the $2 6 \\mathrm { k D a }$ band (Fig.3E). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IgM and IgG were secreted by liver epithelial cells in $\\mu \\mu \\tau$ mice.To verify that the Ig found in the liverwas producedby epithelialcells,we performedflowcytometric sortingofliver epithelialcels using the epithelial marker CK18 (Fig.4A).We cultured the sorted cells and used ELISPOTto determine whether IgMor IgG was being secreted.In fact, sorted liver epithelial cells from both $\\mu \\mathrm { M T }$ and WT mice could secret IgM and IgG (Fig.4B).Moreover, the levels of IgMand IgG were comparable between $\\mu \\mathrm { M T }$ and WT mice (Fig. 4B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ig heavy and light chain transcripts in sorted liver epithelial cells of $\\mu \\mu \\tau$ mice.To confirm the presence of $\\mu$ and k chain transcripts in the liver cells of $\\mu \\mathrm { M T }$ mice,we performed Northern blot analysis used the DNA fragments of $\\mathrm { I g  { \\mu } }$ or Igk constant region as probes,the Igu and k chain transcripts were significantly found in liver tissues of $\\mu \\mathrm { M T }$ mice (Fig.5A). Subsequently, the Igu and K chain transcripts were also determined in the liver epithelial cells of $\\mu \\mathrm { M T }$ mice with digoxigenin (DIG)-Labeled RNA fragments of Igu CH3-CH4,or Jk-Ck as probes by in situ hybridization (Fig.5B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We used RT-PCR to analyze the expression ofIg in the sorted liver epithelial cell.The variable and constant regions of the different classes ofheavy chains and lightchains wereamplified using aseries of primers (Table S1). We detected rearranged transcripts of heavy chains $( \\mu , \\delta , \\gamma$ and $\\propto$ )and light chains (k and λ) incDNA prepared from the sorted liver epithelial cells of $\\mathbf { \\dot { \\mu } } _ { \\mathrm { \\mathbf { \\mu } } } \\mathbf { M T }$ mice (Fig.5C).However, we did not detect transcripts of the Igε chain. We also did not detect transcripts of CD20,a Bcell marker,which confirmed that there was no Bcellcontamination in the cDNA libraries.The identities of allofthe PCR products were confirmed byDNA sequencing,and these sequences have been submitted to the GenBank database(GenBank Accession Numbers: KT726173-KT726219). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ig variable region in sorted liver epithelial cells of $\\mu \\ M \\tau$ mice displayed distinct sequence characteristics.We cloned 86 VDJrearrangements (from the heavy chain variable region)and 35 VkJk rearrangements (from theκ chain variable region) that were expressed by the sorted liver epithelial cells from ${ 5 \\mu \\mathrm { M T } }$ mice. Sequence analysis showed that 82 of the 86 VDJ rearrangements and all $3 5 \\mathrm { V } \\mathrm { K }$ Jκ rearrangements were products of functional $\\mathrm { I g }$ rearrangements (Table1).The analysis of $\\mathrm { I g }$ repertoires showed that similar to our previous findings6,in the same sorted epithelial cellpopulation,the V,D,and Jusageand VDJ sequences were dissimilar among the $\\mu , \\gamma$ 0 $\\alpha$ and δ heavy chains.In fact,each class of heavy chain showed its own unique VDJ pattern (Table 1).The results further suggested that the liver epithelialcels did not possessa classwitching mechanism. Interestingly, the $\\mu , \\gamma$ and K transcripts showed a restricted clonal VDJ pattern,whereas the $\\alpha$ and δ transcripts displayed VDJ diversity patterns similar to those exhibited by Bcell-derived Igand distinguished from $\\mathrm { I g  { \\mu } }$ and $\\mathrm { I g \\gamma }$ in liver epithelialcels (Table1).To excludean influenceofthe primers,we alsoamplified variable regions of the $\\mu$ and k chains from WTmice spleen cels and found the rearrangement patterns tobe diverse (Table 2). In addition, we analyzed mutations in the representative VDJand VkJK rearrangements (Fig. 6A).The primers for the $\\lambda$ light chain were designed specific to $\\mathrm { V _ { \\mathrm { \\lambda } } } 1 / \\mathrm { J _ { \\mathrm { \\lambda } } } 1$ ,and the products were confirmed to be $\\mathrm { V } _ { \\setminus } 1 / \\mathrm { J } _ { \\setminus } 1$ by DNA sequencing (data not shown). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/94c60d9c8a1e1be240b01f16469bbf52efca71e9f84d0d9c26ce2a8214fa2b1d.jpg",
+        "img_caption": [
+            "Figure 1.Identification of B cells and Igs in $\\mu \\mathrm { M T }$ mice.(A)B lymphocyte and Tlymphocyte in peripheral blood of WT mice and $\\mu \\mathrm { M T }$ mice were detected with PE anti-mouse B220 and FITC anti-mouse CD3 by FACS. (B) Pro-B cell $\\mathrm { ^ C D } 4 3 ^ { + } \\mathrm { B } 2 2 0 ^ { \\mathrm { l o w } } ,$ and pre-B cell $( \\mathrm { C D } 4 3 ^ { - } \\mathrm { B } 2 2 0 ^ { + } )$ in BMofWTmice and $\\mu \\mathrm { M T }$ mice were detected with PE anti-mouse CD43 and $\\mathrm { P E / C y 7 }$ anti-mouse B220 by FACS.The cells in the upper left circle were pre-B cells,and the cells in the bottom right circle were pro-B cells.(C) Mature B cell $( \\mathrm { B } 2 2 0 ^ { + } \\mathrm { I g } \\mathrm { M } ^ { + } )$ inBMofWT mice and $\\mu \\mathrm { M T }$ mice were detected with FITC anti-mouse $\\mathrm { I g } \\mathrm { M }$ and $\\mathrm { P E / C y 7 }$ anti-mouse B220 by FACS.The circle showed mature B cells. $( \\mathbf { D } )$ The concentrations of IgM and $\\mathrm { I g G }$ in serum from WT mice and $\\mu \\mathrm { M T }$ mice were detected by ELISA. $\\mathsf { \\Omega } ^ { \\ast \\ast \\ast \\mathrm { p } } < 0 . 0 0 1$ ， $^ { * * } \\mathrm { P } < 0 . 0 1$ ,ns $\\mathrm { P } > 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e36302d3c2bc2602b3d6918c4bf19f4aeeed95fed96ea73d9c2dc34b52cd9fec.jpg",
+        "img_caption": [
+            "antibodies by immunohistochemistry. (B) $\\mathrm { I g } \\mathrm { M }$ was detected in liver (a,e), lung $^ { ( \\mathrm { b , f } ) }$ ,small intestine (c,g) and kidney $^ { \\mathrm { ( d , h ) } }$ of $\\mu \\mathrm { M T }$ mice and WT mice with goat anti-mouse $\\mathrm { I g } \\mathrm { M }$ antibodies by immunohistochemistry. (C) Igk was detected in liver $^ { ( \\mathrm { a } , \\mathrm { d } ) }$ ,lung (b,e) and small intestine (c,f) of $\\mu \\mathrm { M T }$ mice and WT mice with goat antimouse Igk antibodies by immunohistochemistry. (D) $\\mathrm { I g } \\mathrm { M }$ and $\\mathrm { I g } \\kappa$ were detected in tissues of $\\mu \\mathrm { M T }$ mice and WT mice with goat anti-mouse $\\mathrm { I g } \\mathrm { M }$ or Igk antibodies by western blot. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { N / P } }$ addition in the V-D,D-Jand V-J junctions is a classical feature of Bcell-derived Ig,so we analyzed N/P addition in $\\mathrm { I g }$ transcripts derived from the liver epithelial cells.Markedly, $9 3 \\%$ of the VDJ rearrangements had classical N/Paddition,whereas only $5 \\%$ of the VkJk rearrangements had $\\mathrm { { N / P } }$ addition (Fig. 6B). Interestingly, we found that $8 6 \\%$ of the VkJk rearrangements used Jk2 and that VDJ rearrangements frequently used JH4 and JH2 in Ig expressed by the liver epithelial cells of $\\mu \\mathrm { M T }$ mice (Fig. 6C). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A serum ier 一 ≤T 禁 ≤T \\* 20 三s 10- 川 1 楼 \\*\\*\\* \\*\\*\\* 网 G 2 2a 2D G3 IgA S Igk Sc T 司 G 3 Y   \nB 3000 □ ns ns μMT 公 50- 公 1000 μMT 公 Jllr T 公 T   \nC Score Mass Matches Sequences emPAI 355 50625 13 (10) 10 (9) 0.76 Ig mu chain C region secreted form OS=Mus musculus GN=Igh-6 PE=1 SV=2 anti-IgM SDS-PAGE Matched peptides shown in Bold Red 1SQSFPNVFPL VSCESPLSDK NLVAMGCLAR DFLPSTISFT WNYQNNTEVI 51 QGIRTFPTLR TGKYLATSO VLLSPKSILE GSDEYLVCKI HYGGKNRDLH 101 VPIPAVAEMN PNVNVFVPPR DGFSGPAPRK SKLICEATNF TPKPITVSWL   \n72KDa 151KDGKLVESGF TTDPVTIENK GSTPQTYKVI STLTISEIDW LNLNVYTCRV 201DHRGLTFLKN VSSTCAASPS TDILTFTIPP SFADIFLSKS ANLTCLVSNL 251ATYETLNISW ASQSGEPLET KIKIMESHPN GTFSAKGVAS VCVEDWNNRK 301 EFVCTVTHRD LPSPQKKFIS KPNEVHKHPP AVYLLPPARE QLNLRESATV 351 TCLVKGFSPA DISVQWLQRG QLLPQEKYVT SAPMPEPGAP GFYFTHSILT 401VTEEEWNSGE TYTCVVGHEA LPHLVTERTV DKSTGKPTLY NVSLIMSDTG 451 GTCY   \nD Score MassMatches SequencesemPAI 10311734 1（1) 1(1) 0.29IgkappachainV-VIregionXPC44OS=MusmuscuusPE=1SV=1 Matched peptides shown in Bold Red anti-Igx SDS-PAGE 1 EIVLTQSPAI TAASLGQKVT ITCSASSSVS YMHWYQQKSG TSPKPWIYEI 51 SKLASGVPAR FSGSGSGTSY SLTISSMEAE DAAIYYCQQW NYPLWTFGGG 26KDa 101 TKLEIKR ScoreMass Matches Sequences emPAI 3411942 1(1) 1(1) 0.29IgappchainCreginOSusmuscuusPE1SV1 Matched peptides shown in Bold Red 1 ADAAPTVSIF PPSSEQLTSG GASVVCFLNN FYPKDINVKW KIDGSERQNG 51 VLNSWTDQDS KDSTYSMSST LTLTKDEYER HNSYTCEATH KTSTSPIVKS 101FNRNEC   \nE ScoreMass Matches Sequences emPAI 3211739 1(1) 1(1) 0.29Iglambda-1chainCregiOS=usmusculusE1S1 Matched peptides shown in Bold Red 1QPKSSPSVTL FPPSSEELET NKATLVCTIT DFYPGVVTVD WKVDGTPVTQ 51GMETTQPSKQ SNNKYMASSY LTLTARAWER HSSYSCQVTH EGHTVEKSLS 101RADCS ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9113c18fc7a8960975314c4026f9dd0eaa36a3a31d8611607578564fce154616.jpg",
+        "img_caption": [
+            "Figure 4. IgMand IgG were secreted from sortedliver epithelial cells.(A) CK18 was chosen as the sorting marker for liver epithelial cells.P1 represented the larger cells in liver. $\\mathrm { C K 1 8 ^ { + } }$ cells in P1 gate,which were P2 cells,were harvested.(B) Secreted $\\mathrm { I g } \\mathrm { M }$ and IgG of liver epithelial cells sorted by CK18 from WTmice and $\\mu \\mathrm { M T }$ mice were detected by ELISPOT.WT spleen cells were used as positive control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, by using B cell-deficient $\\mu \\mathrm { M T }$ mice,we further provided evidence that Ig can be expressed by non-B cells under physiological conditions.We found that liver epithelial cells produced multiple classes ofIg,including IgG,IgM,IgAand IgD.Theseliver epithelialcell-derived Ig had distinctive characteristics intheir variable regions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In past 10 years, many studies have shown that non-Bcell cancer cels,including epithelial cancer cels,and other types of malignant cells can produce Ig, especially IgG, which is involved in cellsurvival, proliferation, tumorigenesis and metastasis35-39. Ig expression in non-Bcels was thought tobe unique to malignant cels due to thegenomic instability in thesecels.However,in recent years,growing evidence has indicated that normal non-B cells,such as epithelial cels,endothelial cels,neurons,and even germ cels,canalso express Ig.Te expression ofIg inthese non-Bcells is of unknown significance,and its function remains poorlyunderstood.Because these findings challenge the important classical theory that B cels are the only source of Ig,some immunologists are stillquestioning thepossbilitythat non-Bcels produceIg.To address this issue,weavoidedthecontaminationof B cells by using $\\mu \\mathrm { M T }$ mice (which have a deletion in the transmembrane domain of the $\\mathrm { I g } \\mu$ chain, thus blocking B celldevelopment after the pro-B stage)as a model to determine whether Ig can be produced in non-B cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "First, we found that mature B cells are not present in peripheral blood and lymphoid organs of $\\mu \\mathrm { M T }$ mice; furthermore,these mice have very low levels ( $_ { \\cdot ^ { \\sim 1 0 0 } }$ times lower than WT mice) of $\\mathrm { I g }$ in the bloodstream. Subsequently,using a series of techniques,including immunohistochemistry, western blotting,ELISPOT,MS, RT-PCR and DNA sequencing, we found that different classes of Ig could be expressed and secreted from non-B cells (such as liver epithelial cells)atboth the mRNA and protein level.Moreover,thelevels of Ig in non-immune organs in $\\mu \\mathrm { M T }$ mice was similar to those in WT mice,which suggests that non-Bcels can spontaneously express Ig that is retained locally,whereas the $\\mathrm { I g }$ in the bloodstream may be derived mainly from B cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hepatocytes are epithelial cels that are involved in synthesizing protein,cholesterol, bile salts,fibrinogen, phospholipids and glycoproteins.So far,there are no reports indicating that hepatocytes can express $\\mathrm { I g }$ or perform Ig-related functions.However, mouse liver tisue was used as a negative control by Tonegawa (1987 Nobel laureate in Physiology for discovery of Ig gene rearrangement) when he confirmed that Ig genes are rearranged in Ig-producing cell.In1976,heused Southern blotting to show thatamouse myeloma celine,but notliver tissue, was able to bind toa probe made from the mouse myeloma celline's mRNA fragment ofan Ig variable region40-42. It was concluded that Ig gene rearrangement occurred in te myeloma cels but not in liver tissue. This conclusion further strengthened the classcal concept that only Bcels can produce Ig.However,in the current study, we found that $\\mathrm { I g }$ gene rearrangement also occurs in $\\mu \\mathrm { M T }$ mouse liver epithelial cells sorted by FACS with the specific liver epithelialcellmarker CK18.In lightof the current knowledge of Iggene rearrangement,it is likely thatthe conclusion made by Tonegawa did not take substantial differences in Ig gene rearrangement among Ig-producing cell into account. Different conclusion could have been reached if Tonegawa had used a liver cell-derived Ig variable region mRNA fragment as aprobe in his experiments. In addition,our results reveala novel Ig source in $\\mu \\mathrm { M T }$ mice because Ig can be produced from many non-Bcells,such as liver epithelial cels,but is not limited to Z\"a small population of B cells\" as described previously $^ { - 3 2 - 3 4 }$ . In fact, we did not find any Bcels in peripheral blood or mature B cells in BM in the $\\mu \\mathrm { M T }$ mice we used. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b33aad3177a357cd3fae11dae8ad978ae802cada1006fbd9cffecdf6fa19f01a.jpg",
+        "img_caption": [
+            "Figure 5. Ig gene rearrangement and transcription in $\\mu \\mathrm { M T }$ mice liver epithelial cells.(A) Northern blot analysis.Total RNA from liver cells of three $\\mu \\mathrm { M T }$ mice and WT spleen cells (positive control) were transferred to nylon membrane,and probed with probes to constant region of $\\mathrm { I g  { \\mu } }$ and Igk; 28 s and $1 8 s$ RNA were shown by DNA agarose gel electrophoresis.(B) In situ hybridization analysis was shown for detection of $\\mathrm { I g } \\mu$ and $\\mathrm { I g } \\kappa$ transcripts in $\\mu \\mathrm { M T }$ mice with antisense or sense probes for C region of $\\mu$ chain or J-C region of k chain.(C)a It was shown for the primer design of $\\mathrm { I g } \\mu$ variable region,Ig K variable region and $\\mathrm { I g } \\lambda$ ; b Sorted liver epithelial cells from two $\\mu \\mathrm { M T }$ mice were analyzed for $\\mathrm { I g }$ rearrangement and transcription by RT-PCR.WT spleen cells were used as the positive control. Variable region and constant region of heavy chain $( \\mu , \\alpha , \\delta , \\gamma , \\varepsilon )$ and light chain $( \\kappa , \\lambda )$ ,CD20 and GAPDH were amplified; $^ { \\ast } 1 , 2 ^ { \\ast }$ represented two samples of sorted $\\mu \\mathrm { M T }$ liver epithelial cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "V(D)J gene rearrangement and transcription provide crucial evidence for Ig expression. We detected rearranged transcripts ofIg genes in sorted liver epithelialcels.To exclude the possible contamination ofany other types of cells,we gated on the larger liver cells when $\\mathrm { C K 1 8 ^ { + } }$ liver cells were sorted.As expected,rearranged functional heavychainand light chain transcripts ofIgG,IgM,IgDand IgA,but not IgE,havebeen found in the sortedliver epithelialcels.Sequencing analysis revealed that similar to Bcels,the liver epithelial cells derived V(D)J or VJ showed classical Ig gene rearrangement patrns and had typical N/P additions among the V, D andJsegments.Moreover,liver epithelial cell-derived IgAand IgG,but not IgMand IgD,also tended to show hypermutation.However,in the same liver epithelial cell population of $\\mathbf { \\bar { \\mu } } \\mathbf { M T }$ mice,each Ig heavychain,including $\\mu , \\delta , \\gamma , \\alpha$ ,showed distinctive variable region sequences, but not the same VDJ sequences.This finding suggests that class switching does not occur in liver epithelial cells,unlike the classical conceptof class switching when IgMswitches to IgA,IgG or IgE,only the constant region (not the variable region containing the VDJ sequences) is replaced.Indeed,we also found that non-Bcels lack class switch mechanisms inour previous studies6.This finding suggests that te mechanismofIg production in non-Bcells is different from thatin Bcels,although the mechanism remains unknown. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Based on our current and previous results, non-Bcellare able to express Ig; however,its function remains unclear. Our previous studies suggested that cervical cancer cel-produced IgM have natural IgM activity that could bind to ssDNA,dsDNA and bacteria2.Jiang et al. found that normal epidermal cells can express and secrete IgGand IgA,which can bind to diferent strains ofbacteria'.We have preliminary results showing that IgM extracted from liver tissue of both WTand $\\mu \\mathrm { M T }$ mice possesses natural IgM activity (data not shown).This finding suggests that Ig from non-Bcells,especially epithelialcels,may serve natural antibody functions and may be involved in natural immunity in local tissues.Our focus willbe on the function of these Ig. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c46014a9b0b00192171ec43b061ce493541c0c4f89106a9fb1d1f564033d3b8.jpg",
+        "table_caption": [
+            "Table1.VDJand VJ recombinations in liver epithelialcells of $\\mu \\mathbf { M T }$ mice. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td colspan=\"2\"></td><td rowspan=\"2\"></td><td colspan=\"2\">Iga</td><td colspan=\"4\"></td><td colspan=\"2\"></td><td colspan=\"3\">Igk</td></tr><tr><td>Igu</td><td>Identity with</td><td></td><td colspan=\"2\">Identity with No.of</td><td>VHDJH</td><td rowspan=\"2\">IgY</td><td rowspan=\"2\">Identity with No.ofgermline</td><td>VHDJH recom-</td><td rowspan=\"2\">Igd No. of</td><td>Identity with VJ germline</td><td rowspan=\"2\">recombi-</td><td>No. of</td><td>Identity with germline</td></tr><tr><td rowspan=\"2\">VHDJH re- combination</td><td rowspan=\"2\">No. of clones</td><td rowspan=\"2\">germline VHDJH recom- (%) bination</td><td rowspan=\"2\">IGHV1-80*01/</td><td rowspan=\"2\">germline clones (%)</td><td rowspan=\"2\">recombina- tion</td><td rowspan=\"2\">clones (%)</td><td rowspan=\"2\">bination IGHV17*01/</td><td rowspan=\"2\">clones</td><td rowspan=\"2\">(%) nation</td><td rowspan=\"2\">clones 7/8</td><td rowspan=\"2\">(%) 96</td></tr><tr><td rowspan=\"4\">No.1 IGHJ2*01</td><td rowspan=\"2\">97 IGHJ2*01</td><td></td><td>529</td><td></td><td>5/7 99.6</td><td>IGHJ2*01</td><td>3828</td><td>100</td></tr><tr><td rowspan=\"2\">IGHV1- IGHD2-</td><td rowspan=\"2\"></td><td rowspan=\"2\">98.6</td><td>IGHV1-64*01/ IGHD2-9*01/ IGHJ2*01</td><td>1/9</td><td>98</td><td rowspan=\"4\"></td><td rowspan=\"6\">95.1</td><td>IGHV1-55*01/ IGHD1-1*01/ IGHV1-010*01</td><td>1/8</td><td>100</td><td rowspan=\"4\">IGKV9- 120021/01</td><td rowspan=\"4\">1/8 5/8 97.5</td><td rowspan=\"2\">100</td></tr><tr><td>1/8</td><td>IGHV7-1*02/ IGHD2-1*01/</td><td>1/9</td><td>IGHV1- 1GHD2-1*01/ 2/7 IGHJ3*01</td><td>IGHD2-4*01/ IGHV1-1801/</td><td>1/8 100</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">4/6</td><td>IGHV1-82*01/</td><td></td><td>77</td><td></td><td>1/8 IGHJ4*01 IGHV1-7*01/</td><td>99.3</td><td rowspan=\"2\">120101</td></tr><tr><td>98.6</td><td></td><td>36160</td><td>5/7 97</td><td>3818</td><td>1010</td></tr><tr><td rowspan=\"3\">No.2</td><td></td><td>1/6</td><td>95.2</td><td>IGHV1-82*01/</td><td></td><td></td><td></td><td>2/7</td><td>IGHV1-39*01/</td><td></td><td>1003</td><td rowspan=\"3\">1G0</td><td rowspan=\"3\">2/8</td></tr><tr><td></td><td></td><td></td><td>IGHJ2*01</td><td></td><td>1616</td><td></td><td>IGHJ3*01</td><td>1818</td><td></td><td>1/8</td></tr><tr><td>IGHV6-6*01/</td><td>1/6</td><td>97</td><td></td><td></td><td></td><td></td><td>97.9 IGHJ4*01</td><td>1818</td><td>103</td><td>1G014 IGKV9-</td></tr><tr><td rowspan=\"4\">No.3 IGHJ2*01</td><td>IGHD1-2*01/ IGHJ4*01 IGH- 10*02/ IGHJ2*01</td><td>5/8</td><td>99.7</td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td></td><td></td><td>120*01/</td><td>2/4</td><td>99.6</td></tr><tr><td>V1S16*01/ IGHD2-</td><td>1/8 96</td><td></td><td></td><td></td><td>IGKJ5*01 IGKV9- 120*01/ IGKJ2*01</td><td>1/4</td><td>99.6</td></tr><tr><td>IGHV1- 4GHD1-1*01/</td><td>100</td><td></td><td></td><td>一</td><td>IGKV9- 120*01/ IGKJ4*02</td><td>1/4</td><td>99.6</td></tr><tr><td>IGHV1-7*01/ IGHD4-1*02/ IGHJ2*01</td><td>1/8 100</td><td></td><td></td><td></td><td></td><td></td><td>1017</td><td>6/8</td><td></td></tr><tr><td rowspan=\"3\">No.4</td><td>IGHJ4*01</td><td>5/9</td><td>100</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>2/8</td><td>99.6</td></tr><tr><td>4/9</td><td></td><td></td><td>1G017 IGKV4-</td><td>99.3 99.6</td></tr><tr><td>IGHV1- No.5 GHD2-3*01/ IGHJ2*01</td><td>5/5</td><td>96</td><td>一</td><td></td><td></td><td></td><td></td><td></td><td></td><td>50*01/ IGKJ2401 50*01/ IGKJ5*01</td><td>5/7 2/7</td><td>99.6</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec9f033949d8abaaf7a83a9b231f34dacbb617adfdb87c96ab6d4594572262e4.jpg",
+        "table_caption": [
+            "Table 2. V(D)J recombination of Ig gene in WT spleen cells. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>WT-Spleen</td><td>No. of clones</td><td>Recombination</td><td>V segment identity with germline (%)</td></tr><tr><td rowspan=\"7\">VμDJμ recombination</td><td>2/8</td><td>IGHV1-80*01/IGHD2-4*01/IGHJ3*01</td><td>100</td></tr><tr><td>1/8</td><td>IGHV1-47*01/IGHD2-5*01/IGHJ4*01</td><td>97.6</td></tr><tr><td>1/8</td><td>IGHV1-82*01/IGHD2-9*01/IGHJ1*03</td><td>100</td></tr><tr><td>1/8</td><td>IGHV1-31*01/IGHD2-3*01/IGHJ3*01</td><td>99.2</td></tr><tr><td>1/8</td><td>IGHV1-7*01/IGHD2-5*01/IGHJ2*01</td><td>99.2</td></tr><tr><td>1/8</td><td>IGHV1-78*01/IGHD2-14*01/IGHJ1*03</td><td>98.8</td></tr><tr><td>1/8</td><td>IGHV1-76*01/IGHD2-3*01/IGHJ2*01</td><td>100</td></tr><tr><td rowspan=\"7\">VKJK recombination</td><td>1/7</td><td>IGKV9-120*01/IGKJ2*01</td><td>99.6</td></tr><tr><td>1/7</td><td>IGKV9-120*01/IGKJ2*01</td><td>99.3</td></tr><tr><td>1/7</td><td>IGKV14-111*01/IGKJ2*01</td><td>100</td></tr><tr><td>1/7</td><td>IGKV14-126*01/IGKJ2*01</td><td>100</td></tr><tr><td>1/7</td><td>IGKV17-127*01/IGKJ2*01</td><td>100</td></tr><tr><td>1/7</td><td>IGKV17-127*01/IGKJ2*01</td><td>97.9</td></tr><tr><td>1/7</td><td>IGKV17-127*01/IGKJ5*01</td><td>100</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mice. $\\mathtt { B A L B } / { c }$ mice were purchased from Charles River Laboratories (Beijing,China). $\\mu \\mathrm { M T / B A L B / c }$ mice were housed in Institute of Biophysics,Chinese Academy of Science.Allthese mice used in this study were housed in a specific pathogen free environment at the Peking University Health Science Center.And procedures aboutanimal studies were performed in accordance with the guidelines of the People's Republicof China Ministry of Health and approved by the Animal Care and Use Commitee of Peking University Health Science Center. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Immunohistochemistry.At first, tissues were sectioned and fixed in $1 0 \\%$ formalin,and then was embedded in paraffin.The paraffin sections were rehydrated by ethanol with the concentrations of $7 5 \\%$ $8 0 \\%$ $90 \\%$ 0 $9 5 \\%$ and $1 0 0 \\%$ after deparaffnization.Antigen retrieval was performed in tris-EDTA buffer $\\left( \\mathrm { p H 9 . 0 } \\right)$ at $9 0 ^ { \\circ } \\mathrm { C }$ for 5-min in a microwave oven.To block the andogenous peroxidase activity,the slide was treated with $0 . 3 \\%$ hydrogen peroxide for $5 \\mathrm { { m i n } }$ ,and washed in PBS.Then,the sections were blocked with $1 0 \\%$ normal goat serum for $1 0 \\mathrm { m i n }$ . Slides were incubated with primary antibody, goat anti-mouse IgM(VECTOR LAB, CA, USA) or goat anti-mouse Igk (Southern Biotech,UBA,USA),for $6 0 \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C }$ ina humidified chamber.After washed,the sections were incubated with the HRP-conjugated second antibodies (rabbit anti-goat IgG) at $3 7 ^ { \\circ } \\mathrm { C }$ for $4 0 \\mathrm { { m i n } }$ . After washing with PBS,the signal was detected using DAB (Dako, CA,USA).Sections stained without primary antibody were used as negative controls. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Protein extraction.Heart perfusion was performed to the mice anaesthetized by chloralic hydras before sacrification.The tissues were cut into small pieces and lysed in TSD buffer ( $5 0 \\mathrm { m M }$ Tris-HCL, $0 . 5 \\%$ sodium dodecyl sulfate, $5 \\mathrm { m M }$ DTT) followed by ultrasonication.Lysate were centrifuged at $1 3 , 0 0 0 \\mathrm { r p m }$ for $2 0 \\mathrm { m i n }$ a $4 ^ { \\circ } \\mathrm { C } _ { : }$ and the supernatants were collected for ELISA or Western blot. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rapid Mouse Ig lsotyping Array.As mentioned above,tisues lysate was prepared.Serum from mice was diluted for 100 times.Then the Ig was detected according to the instructions ofRapid Mouse Ig Isotyping Array (Ray Biotech,Norcross GA,USA). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ELISA.To detect the concentration ofIgMand IgG in liver lysate of mice liver and serum, we used Mouse IgM ELISA Quantitation Set and Mouse IgG ELISA Quantitation Set (Bethyl Laboratories, USA). ${ 8 0 \\mu \\mathrm { g } }$ liver lysate or 500 time diluted serum was performed ELISA analysis by following the standard protocol. OD450 was measured with a microplate reader (Bio-Tek,Winooski, VT). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SDS-PAGE,Western Blot and MS.The reduced (with B-mercaptoethanol) tissue lysate samples were separated by SDS-PAGE.For Western blot,the separate proteins were transferred to nitrocellulose membranes. After blocked with tris-buffered saline containing and $5 \\%$ defatted milk for $2 \\mathrm { h }$ at room temperature,membranes were incubated with the appropriate primary antibodies: Biotin-conjugated goat anti-mouse IgM ( $\\dot { \\mu }$ chain specific) antibody (VECTOR LAB,CA,USA) and goat anti-mouse Ig K antibody (Southern Biotech, UBA, USA) overnight at $4 ^ { \\circ } \\mathrm { C }$ .Following the wash with TBS,membranes were incubated with the appropriate IRDye 800 or IRDye 700-conjugated secondary antibodies (LI-COR Bioscience Inc.,Lincoln,NE,USA) in the dark.The Odyssey Imaging System (LI-COR Bioscience Inc.,Lincoln,NE,USA) was used to detect the signals.For MS,the SDS-PAGE bands at specific molecular weight were cut to perform MS analysis. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Isolation of mice liver epithelial cells.Heart perfusion was performed to the mice anaesthetized by chloralic hydras before sacridication.The livers were cut into little pieces and digested with $1 5 0 \\mathrm { U / m l }$ DNase I(Sigma, St.Louis,Mo,USA) and $5 0 0 \\mathrm { U / m l }$ collagenaseIV(Sigma, St.Louis,Mo,USA) at $3 7 ^ { \\circ } \\mathrm { C }$ .Then the liver single-cell ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CTTCCC μ-I .·. .......................... ............. gGGTCG gGGGCTGCCCCCCGGCGGCGTTA μ-2 ... G TG μ3 G...C. CCCATGGTAGGCCAGTCATTCCATGGCCTGG   \nIgμ GCGTCG μ-3.... geeAGTCTCGCCGCCCGGCGCGTA μ-4 ... germline GG GCTA μ-5..........G.. G ...A..AA.A.. ....G. ...T... ..T... ，A， γ-2....C..... ..T.. ........G.. GTGTTGGG gAGGACTACCGAAGTGGCCACGCAACCCCACACAGCCAGCCGCGCCGTTGA   \nIga α-1...A....... ............·.. GGG eliGGGCGCCGCACCCGGCGGT α-2......A.... ........... .....G...A...... BGTCGGGG   \nIg8 GAGGCGCGACCGGCTGTTA δ-1...... T gelineTGGTAGGGCCACGTAGGCAGGGGCAAGTTTCCCACAAGCGTAGAGGGTTTCTACAGGGTCC x-1 ..AAT.. ..A. ....... CCTGTT GGTTT .C。 K-2··.. ....................... CCTGT   \nIgk K-3 geinTAGTGGCAGGCAGCGAGGGGCAATTCTCCGTGGTGAATTAGCTACGTTACATCC K-3 CC x-4 C.TTCAGC. A eiTCGTGGACCCCGAGGCTCATACAAAATCTCACTCC K-4 K-5.. A ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb953f51aff34f5c91f216a2053bdd56a37e611d1d70595a85d21b24e0ae47b9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/69f761459b60e7378000a54ba0cc8688859512573d15ee2ade7a84440b38e536.jpg",
+        "table_caption": [
+            "Figure 6. Characters of liver epithelial cell-derived Ig transcripts in $\\mu \\mathrm { M T }$ mice.(A) The mutation points of VDJ recombines and VJ recombines were shown, which were preponderant rearrangement patern in $\\mu \\mathrm { M T }$ （204号 mice.\" represents the matched nucleotides ofliver epithelial cell-derived Ig transcripts compared with the Ig germline genes.(B) The V-D,D-Jand V-J junctions of dominant liver epithelial cell-derived $\\mathrm { I g  { \\mu } }$ transcripts were shown;“\" represents the missing nucleotides of junctions compared with the Ig germline genes. Each pointrepresents one nucleotide.(C) The frequency of JH and Jk used by Ig derived from liver epithelial cells of $\\mu \\mathrm { M T }$ mice. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>VDJ rearrangement patern</td><td>3'V-REGION</td><td>P N1</td><td></td><td>D-REGION</td><td>P N2</td><td></td><td>5'J-REGION</td><td>VJ rearrangement pattern</td><td>3'V-REGION</td><td>N/P</td><td>5'J-REGION</td></tr><tr><td>IGHV1-55*01/IGHD2-1*01/IGHJ4*01</td><td>tgtgcaaga</td><td>g</td><td></td><td>...ggatac</td><td></td><td>tgggt</td><td></td><td>IGKV14-111*01/IGKJ2*01</td><td>tgtctacagtacgctgagttcc..</td><td></td><td>.gtacacgttc</td></tr><tr><td>IGHV1-39*01/IGHD2-3*01/IGHJ4*01</td><td>tgtgcaaga</td><td>ga</td><td></td><td>...gtatac</td><td></td><td></td><td>....ctatgctatggactactgg</td><td>IGKV9-120*01/IGKJ2*01</td><td>tgtctccaatatggtagttctcct..</td><td></td><td>..tacacgttc</td></tr><tr><td>IGHV14-1*01/IGHD3-2*01/IGHJ2*01</td><td>tgtactac.</td><td>t</td><td></td><td>....c.cg..</td><td></td><td>gg</td><td></td><td>IGKV9-120*01/IGKJ5*01</td><td>tgtctacaatatgctagttc...</td><td></td><td>.gtacacgttc</td></tr><tr><td>IGHV6-6*01/IGHD1-1*01/IGHJ4*01</td><td>tgtaccagg</td><td></td><td></td><td>..catactacg...</td><td></td><td>t</td><td>..ctatgetaigatctgg</td><td>IGKV17-121*01/IGKJ2*01</td><td>tgtttgcaagtgataacttgcc...</td><td></td><td>.gtacacgttc</td></tr><tr><td>IGHV1-67*01/IGHD2-3*01/IGHJ2*01</td><td>gtgcaaga</td><td></td><td></td><td>....atigt...</td><td></td><td></td><td>...ctttgact</td><td>IGKV4-50*01/IGKJ2*01</td><td>tgccagcagtttactagttccccataca</td><td></td><td>...gtc.</td></tr><tr><td>IGHV1-53*01/IGHD2-5*01/IGHJ2*01</td><td>tgtgcaaga</td><td>aggg</td><td></td><td>....aagtactac</td><td>gt</td><td>g</td><td>...tractactgg</td><td></td><td></td><td></td><td></td></tr><tr><td>IGHV1-69*02/IGHD1-1*01/IGHJ1*03</td><td>tgtgcaaga</td><td>ac</td><td></td><td>....ccggacta.</td><td>tag</td><td></td><td>ctattgtcttcgatgtctgg</td><td></td><td></td><td></td><td></td></tr><tr><td>IGHV1-80*01/IGHD2-4*01/IGHJ4*01</td><td>tgtgcaaga</td><td></td><td>gaggga</td><td>...atac.gac</td><td>gt</td><td>gatcccctct</td><td>...tatgctggactctg</td><td></td><td></td><td></td><td></td></tr><tr><td>IGHV1-82*01/IGHD3-3*01/IGHJ2*01</td><td>tgtgcaaga</td><td></td><td></td><td></td><td></td><td>gac</td><td>...ttgacttgg</td><td></td><td></td><td></td><td></td></tr><tr><td>IGHV1-7*01/IGHD2-4*01/IGHJ4*01</td><td>tglgcaag</td><td></td><td>cecccegaggggg</td><td>....atgatacgac</td><td>g</td><td>gggictatgctatggg</td><td>..ctacig</td><td></td><td></td><td></td><td></td></tr><tr><td>IGHV1-7*01/IGHD2-9*01/IGHJ4*01</td><td>tgtgcaaga</td><td>t</td><td></td><td>ctctatggttacgac</td><td></td><td>tgg</td><td>.atggactactgg</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "suspensions was obtained after filtering by mesh.The livercels were stained with rabbitanti-mouse CK18 (Santa Cruz,San Diego,CA,USA),and then were furtherlabeled with secondaryantibody(FITC-conjugated anti-rabbit IgG). The $\\mathrm { C K 1 8 ^ { + } }$ liver epithelial cells were sorted by FACSAriaTM II Flow Cytometer (Becton Dickinson, San Diego, CA,USA).The sorted liver epithelialcells were used for RT-PCR,ELISPOTand WB analysis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometry.To analyze Bcells in mice,blood cells and bone marrow cels were harvest and washed with PBS. Before staining,cells were blocked with $5 \\%$ FBS in PBS for $3 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ .And then cells were stained with membrane marker antibodies: PE-CD43,FITC-IgM,PE-B220 and PE/cy7-B220 purchased from eBioscience (USA). The control was performed that cells were stained with corresponding fluorescein conjugated isotype control antibody. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ELISPOT.To detect the secretion of IgG and $\\mathrm { I g } \\mathrm { M }$ in liver epithelial cells,ELISPOT was performed. $1 \\times 1 0 ^ { 5 }$ sorted liver epithelialcells or $1 \\times 1 0 ^ { 5 }$ spleencellswere used for the IgMorIgGELISPOT.MultiScreen filter plates for ELISPOT were coated with goat anti-mouse $\\mathrm { I g } \\mathrm { M }$ (Bethyl Laboratories, USA) or goat anti-mouse IgG (Bethyl ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Laboratories,USA) for overnight at $4 ^ { \\circ } \\mathrm { C }$ .Following the blocking with $1 0 \\%$ FBS,cells were incubate with plates for $2 4 \\mathrm { h }$ t $3 7 ^ { \\circ } \\mathrm { C }$ .After washed with PBS,HRP conjugated detection antibody were incubated for $\\boldsymbol { 1 \\mathrm { h } }$ at room temperature.Then AEC coloration was performed and analyzed byELISPOT reader. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Northern blot analysis.Total RNA was extracted from liver or spleen cels with TRIzol reagent. A total of $1 0 \\mu \\mathrm { g }$ liver-derived RNA or $5 \\mu \\mathrm { g }$ spleen-derived RNA was separated in $1 \\%$ agarose gel with formaldehyde,and then transferred to a nylon membrane.The sequence of probe specific to $\\mathrm { I g  { \\mu } }$ constant region gene was: ttcatctctgcgacagctggaatgggcacat,and the probe specific to Igk constant region was: cgccattgtcgttcactgccatcaatcttc.The probes were conjugated with biotin.The membrane was hybridized with $6 0 \\mathrm { n g / m l }$ denatured probe in hybridization buffer (Thermo) after prehybrization at $5 6 ^ { \\circ } \\mathrm { C }$ for $1 2 { \\mathrm { - } } 1 6 \\mathrm { h }$ .And the signal was detected with North2South@ Chemiluminescent Hybridization and Detection Kit (Thermo) according to the manufacturer's instructions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In situ hybridization.In situ hybridization was performed on $6 \\mu \\mathrm { m }$ serial sections of paraffin-embedded tissue sections.Plasmids inserted with constant region fragments of the Iguand Igk,which were obtain by PCR with Igu CH3-CH4 primers and Jk-Ck primers (Table S1),were linearized.The RNA probes were labeled with digoxigenin (DIG)and transcribed by T7 RNA polymerase (for the antisense probe)or SP6 RNA polymerase (for the sense probe)byDIG northern starter kit (Roche,Rotkreuz,Switzerland).Paraffn-embeddedtissue sections were performed deparafnized and dehydrate.Then sections were treated with Proteinase K,fixed with paraformaldehyde,prehybridized at $4 2 ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { h }$ ,and hybridized with the DIG-labeled RNA probe $( 5 \\mu \\mathrm { g } / \\mathrm { m L } )$ at $4 2 ^ { \\circ } \\mathrm { C }$ overnight.After hybridization,the sections were washed in $2 \\times { \\mathsf { S S C } }$ and $0 . 1 \\times \\mathsf { S S C }$ t $3 7 ^ { \\circ } \\mathrm { C } .$ ,respectively,and then treated with RNase A.The samples were incubated with alkaline phosphatase-conjugated antidigoxigenin antibody (1:250; Roche,Rotkreuz,Switzerland).BCIP/NBT (Sigma,Saint Louis,USA) was used for the color reaction.Corresponding sense probes were used as controls. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "RNA extraction and RT-PCR. Total RNA in spleen was extracted using TRIzol reagent (Invitrogen, Carlsbad,USA).Forthe sorted liver epithelialcels,RNA was extracted with RNeasy Mini Kit (Qiagen,Hilden, Germany)according to the standard protocol.Reverse transcription (RT) was carried out with RevertAid First Strand cDNA Synthesis Kit (Fermentas, Glen Burnie, USA)by following the manufacturer's instructions. And then the cDNA was prepared for PCR. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The primers used in this study were shown in Table S1.The Ig constant region genes were amplified at the annealing temperature of $5 6 ^ { \\circ } \\mathrm { C }$ for 35 cycles. Semi-nested PCR was performed for $\\amalg _ { \\mathrm { g } } \\mathrm { V }$ region genes. cDNA derived from BALB/c mice spleen cells was used as positive control. PCR products were separated with $1 \\%$ agarose gel by electrophoresis,and then were stained with ethidium bromide.The PCR products were cloned to pGEM-T Easy Vector (Promega) to be sequenced by ABI3730XL Genetic Analyzer. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Sequence analysis.In order to analyze the usage and junctions of Ig variable region genes,al sequence derived from PCR products were submitted to the IMGT V-QUEST program. Alignments were performed with Lasergene software (DNAStar) or with BLAST in NCBI to compare with published sequences. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis. Al statistical calculations were performed using the statistical software program (GraphPad Prism 5.0 software).Differences between diferent groups were evaluated by the Student's t test. Differences were considered to be statistically significance when P was $< 0 . 0 5$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1.Qiu,X.etal.Humaepitelialcancerssecreteimmunoglobulingwithuidentifedspecificitytopromotegrowthandsurvivalof tumor cells.Cancer Res 63,6488-6495 (2003).   \n2.Deng,Y.Q.eal.[ImunogoblinexpressioninolocancercellineH-nditslogicalactiviies].ZongaZogLuZa Zhi 28,88-91 (2006).   \n3.Zhu,X.etal.ImunoglobulinAandproteinexpressoninhumanoralepithelialtumorcell.Appledimmunostohemisty molecular morphology:AIMM/offcialpublicationoftheSocietyforAppliedImmunohistochemistry6,232-238(008).   \n4.Huang,J,Zng,L,aZng,&Qu,XEprooloblieneithialVD)-Jarrngetse testisandepiidis.hejouralofhistochemistryndcytochemistry:fcialjournaloftheHstochemistryociety59-49 (2009).   \n5.Huang,J.etalExpresioofimmunglbulingenewithasicalV-(D)-Jrearrangementinmousebaineuons.IntJioemel Biol 40,1604-1615 (2008).   \n6.Zheng,J.etal.ImmunoglobulingenetranscriptshvedistictVHDJHrecombinationcharacteristicsinumanepithelialcancer cells.JBiol Chem 284,13610-13619 (2009).   \n7.Zhang,S.etal.Immunoglobulingenelocusevents inepithelialcelloflactating mouse mammaryglands.CellMolLife Sci67, 985-994 (2010).   \n8.Huang,Jetal.Rearrangementandexpressionofteimmunoglobulinu-changeneinumanmyeloidcels.CellMolImnol, 94-104 (2014).   \n9.Jiang,D.etalIgGndIgAwithpotentialicrobial-biningctivityareexpredynoralumansineidealcelntol Sci 16,2574-2590 (2015).   \nl0.Zheng,H.etal.Immunoglobulilphaheavychainderivedfromhumanepithelialcancercellspromotes theaccessofSphaeand growth of cancer cells.Cell biology international 31,82-87 (2007).   \nl1.Kimoto,YExpressionofhav-chainconstantregionofimmunoglobulinndT-cellreceptorgene transcriptsinumannonhematopoietic tumor cell lines.Genes Chromosomes Cancer 22,83-86 (1998).   \nl2.Li,J.etal.Proteomicdetectionofchangesinproteinsthesis iducedbyGX6transfectedinumannasoparngealcanoma cells.Journal of protein chemistry 20,265-271(2001).   \nl3.Li,M.etalExpresionofimmunoglobulinappalightchainonstatregioninabormalhumancervicalepithelialcels.IntJ Biochem Cell Biol 36,2250-2257 (2004).   \nl4.Babbage,GOtensmeier,C.Hlaydes,J,tevenson,F.K.&hota,S..Immunoglobulineaychailocusevetsad expressionofactivation-inducedcytidinedeaminase inepithelialbreastcancercelines.CancerRes66,3996-4000 (2006).   \n15.Chen,Z.&Gu,J.Immunoglobulin Gexpresion incarcinomas and cancer cellines.FASEBJ21,2931-2938(2007).   \n16.Liu,H.D.etal. Upregulated expressionofkappalightchain byEpstein-Barr virus encodedlatent membrane proteinlin nasopharyngeal carcinoma cells via NF-kappaB and AP-1 pathways. Cell Signal 19,419-427 (2007).   \n17.Zheng,H.etal.Expresionandsecretionof immunoglobulinalpha heavychain withdiverse VDJrecombinations byhuman epithelial cancer cells.Mol Immunol 44,2221-2227 (2007).   \n18.Lee,G.,aflame,,Chien,C.H.&TngH.HMolecuardentityapancancermarkerCA215.CancerBoler7014 (2008).   \n19.Lee,G.Cancercell-xpressedimmunoglobulins:CA215asapancancermarkeranditsdagnosticaplcations.CancerBiomark5, 137-142 (2009).   \n20.Qiu,X.etal.Immunoglobulin gammaheavychain genewithsomatic hypermutationis fequentlyexpresedinacute myeloid leukemia.Leukemia27,92-99 (2013).   \n21.Zhao,Y,iu,Zrte,C&,Jlobliddhe journalofhistochemistryandcytochemistry:official journaloftheHistochemistry Society59,474-488 (2011).   \n22.Hu,F.etal.Spontaneous productioofimmunoglobulin Minhumanepithelialcancercels.PLoSOne7,e51423 (2012).   \n23.Nemazee,D.Receptor selection in Band Tlymphocytes.Annual review of immunology 18,19-51 (2000).   \n24.Kitamura,D,Roes,J,KuhnR.&Rajewsky,K.ABcel-defcientmousebytargeteddisruptionofthemembranexoofthe immunoglobulin mu chain gene.Nature 350,423-426 (1991).   \n25.Qin,Z.et al. Bcels inhibit induction ofTcell-dependent tumor immunity.Nat Med 4,627-630 (1998).   \n26.Smelt,S.C.,Coerell,S.E.,Engwerda,C..&Kaye,PM.Bcell-eficientmiceareghlyresistattoeishmaniadooai infection,but develop neutrophil-mediated tissue pathology.JImmunol164,368l-3688 (2000).   \n27.Ditel,BUbniaT.&yC.A.Jelaingdgxpitaltoneploliicl deficient mice.JAutoimmun 14,311-318 (2000).   \n28.Li,H.etal.Experimentalutoimmunemyasthenagravis inductioninBcell-efcientmice.IntImmunol,359-65(998).   \n29.Homann,D.etal.EvidenceforanunderlingCD4helperandCD8T-celldefectinB-cel-deficientmice:filuretoearersistet virus infectionafteradoptive immunotherapy with virus-specific memory cels frommuMT/muMT mice.JVirol72,9208-9216 (1998).   \n30.Langhorne,J,Cros,C,SeixasE.,LiC&vonderWeid,TAoleforBcellinthedevelopmentofTcellelperfunctionia malaria infection in mice.Proc Natl Acad Sci USA95,1730-1734(1998).   \n31.Macpherson,A.J.talAprouctionitoutudeltahinxpresioevelongcell.NatImmnl6(0).   \n32.Lagerquist,M.K.tal.17Beta-estradolexpandsIgA-producingBcelsinmicedeficientforthemuchain.ScandJImmunol67, 12-17 (2008).   \n33.Orinska,Z.etal.NovelBcellpopulationproducingfunctionalIgGinteabsenceofmembraneIgMexpresion.EurImmnol2, 3472-3480 (2002).   \n34.Ghosh,S.osel,.A.&h,JuefenieosssB-ceadproducadE,tnotIgllong systemic sensitization and inhalational challenge ina fungalasthma model.JImmunol189,1322-1329 (2012).   \n35.Qiu,Y.etalImmunoglolinexpressoditsloalatioitomplmntprotesinpilyoidacerMdathol 25,36-45 (2012).   \n36.Ma,C.etalImmunoglobulinGexpresionanditspotentialoleinprimaryandmetastaticbeastcancers.Currentmolecular medicine 13,429-437 (2013).   \n37.Niu,N.etalexpressinmanoloectalncadtselasipanercellavrs.One76(01).   \n38.Celis,J.E.alProteoicractzatioofteinterstialfiderfusingtebreasttumorcroenironmnt:aoelsouce for biomarker and therapeutic target discovery.Molecular  cellular proteomics: MCP3,327-344(2004).   \n39.Liu,YetaldngofthP15togGinestaticungadenoacomasiselateditorprgosis.Hsoaology 67,645-653 (2015).   \n40.Hozumi,N.&TnegawaS.Evidenceforsomaticrearrangementofimmunoglobulingenescodingforableandcnstantgions. 1976 [classical article].JImmunol 173,4260-4264 (2004).   \n41.Brack,C.&Toegawa,S.Variablendconstantpartsoftheimmunoglobulinlightchaingeneofmousemyelomacellarel250 nontranslated bases apart.Proc Natl Acad Sci USA 74,5652-5656(1977).   \n42.Bernard,O.,Hozumi,N.&Tnegawa,S.Sequencesofmouseimmunoglobulinlightchaingenesbeforeandaftersomaticchanges. Cell 15,1133-1144 (1978). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the National Natural Science Foundation of China (No.81272237, No.91229102,No.81320108020). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "W.S.and X.Q.designed the experiment; W.S.,JM.,Z.Z,X.G.and Z.Q.led the sample collection; Z.Q.supplied mice used in this study; W.S.,E.L.,L.Z.and C.Z.did the other experiments; W.S.and L.Z.caried out the data analysis; W.S., Z.Q.and X.Q.wrote the paper;all authors reviewed the manuscript. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Shao,W.etal.Identificationof Liver Epithelial Cell-derived Ig Expression in $\\mu$ chaindeficient mice. Sci.Rep.6,23669; doi: 10.1038/srep23669 (2016). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed undera Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwisein the credit line;if the material is notincluded under the Creative Commons icense, users will need to obtain permisson from the license holder to reproduce the material.To viewa copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 11
+    }
+]

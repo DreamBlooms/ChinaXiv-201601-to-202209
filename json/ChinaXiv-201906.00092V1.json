@@ -1,0 +1,265 @@
+[
+    {
+        "type": "text",
+        "text": "植物原生质体在分子细胞生物学研究中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肖政1，徐艳琴²，罗念3,4，周银3,4\\*（1．中冶华天工程技术有限公司，南京 210019；2.江西中医药大学药学院，南昌 330006；3．武汉生物工程学院生命科学与技术学院，武汉 430415；4.武汉生物工程学院应用生物技术研究中心，武汉 430415)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：植物原生质体是去除了细胞壁的裸露细胞，其具有细胞全能性，现在广泛应用于植物分子细胞生物学的研究中，可以大大缩减实验周期，并有助于得到体内实验的实时检测数据。该文除了介绍植物原生质体的提取和纯化方法外，还对国内外利用各种植物的原生质体进行细胞瞬时转化、亚细胞定位、细胞融合和大分子复合物相互作用等试验进行了总结和讨论。植物原生质体还可用于基因表达模式的实时监测，并作为生物反应器的受体细胞进行代谢物的体外生产。此外，当前该技术所面临的瓶颈也进行了分析，为植物原生质体在分子细胞生物学领域的应用提供帮助，为技术的优化和推广提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：植物原生质体，瞬时转化，亚细胞定位，细胞融合，实时检测中图分类号：Q942 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of plant protoplasts in the molecular and cell biology research ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XIAO Zheng1, XU Yanqin², LUO Nian34, ZHOU Yin3,4\\* (1. MCC Huatian Engineering and Technology Corporation, Nanjing 210019, China; 2. Colege of Pharmacy, Jiangxi University ofTraditional Chinese Medicine.Nanchang 33oo06,China; 3.College of Bioscience and Biotechnology,Wuhan University of Bioengineering,Wuhan 430415,China; 4.CenterofApplied Biotechnology, WuhanUniversityofBioengineering,Wuhan43O415,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Plant protoplasts are naked cells without the cell walls. They have been extensively applied in the researches of plant molecular and cell biology for their totipotency，which could greatly shorten the experimental periods and help to get massive effective and real-time experimental data in vivo.In this article,in addition to introduce the purification of plant protoplasts, we mainly summarized the application of plant protoplasts in the respects of transient transformation，subcellular localization，cell fusion and macromolecular complex interaction. Plant protoplasts could also be used to survey the expression pattern of gene in real-time., as well as the target cels for the production of metabolites in bioreactors.Furthermore, we have compared the advantages and disadvantages of plant protoplasts in the current research，which would provide new insights into the researches on plant molecular and cell biology. We have also analyzed the difficulties in the application of plant protoplasts,which would provide the reference for the optimization and promotion of this technology. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: plant protoplasts， transient transformation，subcellular localization，cell fusion, real-time detection ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物原生质体是指通过酶解或者机械的方式去除植物细胞壁所获得的细胞。植物原生质体具有全能性，有再分化、重新进入细胞周期、进行有丝分裂甚至分化为组织或器官的潜能（Eeckhautetal.,2013)。植物原生质体的结构和生理特性在某种程度上与动物细胞的结构比较类似，经过外源添加物处理和外源基因转化后的植物原生质体能迅速进行反应、代谢和反馈，缩短了实验的周期，并能帮助获得有效的体内实验数据，因此目前被广泛应用于植物分子和细胞生物学的研究中。不同的植物来源，原生质体的提取、纯化和包装步骤大致相同，转化效率有所差别，本文将不同植物原生质体提取、纯化和活性检测的方法进行了概括。并重点论述了近几年植物原生质体在分子细胞生物学中的应用，为利用植物原生质体进行研究和育种提供了参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1植物原生质体的提取、纯化和包装",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物原生质体的来源、数量和质量将很大程度上影响后续实验的成功与失败。现在普遍利用酶解法提取植物原生质体，常用的酶为日本Yakult 公司的纤维素酶和离析酶。若酶浓度低，酶解时间短，则原生质体数量不够，若酶浓度和酶解时间延长，则原生质体受到酶的毒害作用易破裂，致使具有活力的原生质体数量减少。利用悬浮培养细胞来提取原生质体，可短时间酶解得到大量具有活力的原生质体（Raimundoetal.,2018）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "原生质体的纯化方法可分为漂浮法和沉淀法，其中常用的为漂浮法，利用 $1 5 \\% { \\sim } 2 5 \\%$ 的蔗糖、Percoll 或 Ficoll即可实现（Gupta& Durzan,1986; Pindel,2007;Fesenko et al.,2015）。而沉淀法获得的植物原生质体虽然数量较多，但是质量较差，很大程度上影响后续实验结果的准确度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物原生质体的数量和密度检测一般通过在显微镜下用血球计数板进行计数，密度为1$\\times 1 0 ^ { 6 } { \\sim } 1 \\times 1 0 ^ { 7 }$ 个原生质体 $/ \\mathrm { m L }$ 较适宜。而质量检测一般通过二乙酸荧光素染色法（Fluoresceindiacetate，FDA）进行鉴定，FDA可自由透过活细胞的细胞膜并对细胞进行示踪，最大激发波长和发射波长分别为 $4 9 0 \\mathrm { n m }$ 和 $5 2 6 \\mathrm { n m }$ ，在荧光显微镜下可观察到活细胞中呈现绿色荧光（Huang et al.,2013;Wang et al.,2015;Li et al.,2018)。除此之外，原生质体的数量和质量控制还可以通过流式细胞术进行检测。流式细胞术广泛应用于植物细胞DNA含量和倍性分析、核型分析和辅助育种等（Zhaietal.,2018)，植物原生质体是进行流式细胞术检测的优选试验材料，在原生质体细胞中转化进入带有荧光标记的特异目的蛋白，利用流式细胞术进行分选，后续可对其进行代谢谱或表达谱分析等（Birnbaumet al.,2005;Petersson etal.,2015）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于原生质体失去了细胞壁，在后续实验操作中非常容易发生破裂和凝聚，因此一些研究学者通过各种有效的方法使原生质体固定包装，如：硅胶/藻酸盐、琼脂糖、结冷胶等，形成统一均质的薄层，从而利于实验操作和显微镜观察（Leietal.,2015）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "木本植物由于其生长周期长，在植物研究中往往处于劣势，为了缩短实验周期，保存优质种质资源，大量具有经济价值和研究价值的木本植物则通过快速繁殖手段获得无菌苗，以无菌苗作为外植体分离纯化原生质体进行试验，不失为一种研究策略，并已经在花椒（Lietal.,2018）、柑（Zhou et al.,2018）、苹果（Fu et al.,2019）、沙冬青（Nan et al.,2018）等乔木和灌木中进行了研究报道。而活体取样时，尽量选取幼嫩的叶片、根尖等组织部位，以便充分酶解，保证原生质体的数量和质量以进行后续试验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过纯化的植物原生质体在数量和质量上均达到要求后，可进行下一步实验应用。一般大约 $1 0 ^ { 3 \\sim 4 }$ 原生质体足以进行报告酶的活性检测；大约 $1 0 ^ { 4 \\sim 5 }$ 原生质体可用于蛋白标记、免疫共沉淀或 Western 印迹实验；大约 ${ 1 0 } ^ { 6 }$ 原生质体可用于微观检测实验（Xinget al.,2017)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2植物原生质体在分子细胞生物学中的应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1亚细胞定位检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前经过纯化的原生质体最广泛应用于植物亚细胞定位的检测中，常用的原生质体来源于烟草、拟南芥等，由于原生质体细胞圆滑完整，在显微镜下对于细胞结构观察非常清楚，并且排除了活体观察时细胞间以及组织部位其他结构的背景干扰，结果分析具有说服力。在植物基因功能验证时，基本的蛋白定位即采用模式植物的原生质体进行亚细胞定位（Sui et al.,2019)，并且在许多生物学背景不清楚、遗传转化体系不稳定或者效率不高的非模式植物中，也广泛进行原生质体的分离、纯化和转化，如Li etal.(2018)在蝴蝶兰杂交种（Phalaenopsishybrid cultivar“Ruili Beauty\"）的叶肉原生质体中由PEG4000 介导瞬时转化绿色荧光蛋白基因（GFP)，转化效率达到 $4 1 . 7 \\%$ 。Huang etal.(2013)在黄瓜原生质体中瞬时表达pUC-GFP质粒，可以在显微镜下明显观察到胞液、叶绿体和质膜上有绿色荧光，转化效率达到 $57 \\%$ 。Fu et al.(2018)在玉米原生质体中，利用eGFP融合转录因子 ZmWRKY79蛋白，对目的蛋白进行亚细胞定位，直观影像确定其位于细胞核中。Wang etal.(2015)分离获得葡萄原生质体，并利用GFP融合黄酮类生物合成途径中的查尔酮合成酶(VvCHS）、查尔酮异构酶（VvCHI)、黄酮醇3-O-葡萄糖苷转移酶（VvUFGT）和花青素还原酶（VvANR）蛋白，将它们的亚细胞定位在细胞质和细胞核中，瞬时转化效率达到 $6 0 . 1 \\%$ 。Sun etal.(2018)在芥蓝(Brassicaoleracae var.alboglabra）中分离、纯化和转化叶肉细胞的原生质体，外源基因的转化效率可达到约 $30 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2细胞融合培育新品种",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物原生质体往往是原生质体融合培育新品种，制造“人工种子\"的优良原始材料，并且原生质体融合技术可以完全或者部分解决自然界种属间有性繁殖不亲和的现象。原生质体融合技术在柑橘的性状改良方面有着巨大潜力，通过将伏令夏橙（Citrus sinensis）愈伤原生质体与叶肉细胞原生质体进行融合，获得了稳定的二倍体\"cybrids”，胚性愈伤原生质体中的线粒体 DNA刺激了叶肉原生质体细胞的分化和再生（Cai et al.,2017)。Dutt et al.(2018)从柑橘悬浮培养细胞中提取原生质体作为初始材料，并将构建在胚中特异性表达花青素的基因载体（Dc3启动子：VvMybA1）转化到柑橘原生质体中，在体细胞胚的发育过程中可以直接通过肉眼观察到\"紫色胚\"来进行初步阳性筛选。Yuetal.(2014)将水稻的育性恢复基因Rf5 转化到细胞质雄性不育（HL-CMS）红莲型水稻的原生质体中，在转化后的原生质体中检测到细胞质雄性不育蛋白 ORFH79 的水平显著降低。Li et al. (2014)将小麦和中间偃麦草（Thinopyrumintermedium）的原生质体细胞进行融合，获得渐渗系群体，筛选出生命力旺盛并自花授粉可育的后代。原生质体培育新品种可以打破物种的限制，但是培育周期较长。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3胞内生化反应的实时监测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "蛋白酶在催化底物发生细胞内生物化学反应时，植物原生质体是非常合适的实验材料，合理选取一些能发荧光的底物，即能在显微镜下实时观察反应的进程。Rottmann etal.(2018)在研究拟南芥蔗糖转运蛋白时，利用荧光蔗糖类似物Esculin作为底物，将表达蔗糖转运蛋白的AtSUC 基因转化到拟南芥原生质体中，再通过调整激光共聚焦显微镜的不同激发光波段，可以实时观察到绿色荧光蛋白、红色叶绿体自发荧光和转运到胞内的湖蓝色荧光Esculin分子。Wang et al.(2019)在水稻中研究氨基酸转移酶OsAAP5 的功能时，从野生型、该基因超表达及RNAi株系中分离原生质体，利用异硫氰酸荧光素（FITC）标记的碱性氨基酸（Lys与 Arg）及部分中性氨基酸（Ala与Val）进行底物吸收实验，结果发现在超表达株系原生质体中荧光信号显著强于野生型，干扰株系原生质体中荧光信号则弱于野生型，表明OsAAP5在水稻中具有转运碱性氨基酸及部分中性氨基酸的功能，此研究将有助于提高水稻的产量和品质。Bienertia sinuspersici是一种进行C4光合作用的陆生植物，有两种不同类型的亚细胞叶绿体。为了揭示细胞内两种叶绿体的分化机制，Wimmer etal.(2017)将光合作用细胞中相关蛋白（丙酮酸磷酸双激酶，PPDK；磷酸丙糖异构酶，TPI和腺苷酸激酶，AK)的转导肽进行突变，再瞬时转化到B.sinuspersici原生质体中进行亚细胞定位和含量检测，结果表明突变的转导肽一定程度上可以使蛋白的选择性发生丢失，而人工合成的诱饵mRNA对于蛋白的分选过程作用并不是很关键。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4基因表达模式的实时监测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于植物原生质体内分子水平的基因表达变化迅速，因此可以利用原生质体瞬时转化来鉴定不同基因在不同内因和外因条件下表达模式的变化水平，为植物稳定转化实验提供辅助证据。Patra et al.(2018)从长春花（Catharanthus roseus）叶肉细胞中提取其原生质体，利用电激的方法分别瞬时转化了众多参与茉莉酸代谢和长春碱代谢相关的转录因子，通过qRT-PCR 检测受各转录因子调控的相关基因的表达模式的变化。Zhang et al.(2011)利用水稻原生质体研究植物光学相关的细胞生物学过程，在水稻绿色组织来源的原生质体中超表达光相关的转录因子OsGLK1,并进行光照和诱导剂达草伏(Norflurazon,NF)处理。通过qRT-PCR检测发现，与光合作用相关的基因（OsLhcbl,OsLhcp,GADPH和RbcS)的表达量在OsGLK1超表达的原生质体中上调了30\\~168倍，而在NF 处理的原生质体中相应基因的表达量则降低了 $3 0 \\% { \\sim } 7 5 \\%$ 。Ondrejetal.(2010)利用黄瓜的原生质体细胞进行抗氧化胁迫研究，结果表明用抗坏血酸处理的黄瓜原生质体细胞，不仅降低了氧化胁迫的水平，还通过qRT-PCR 检测发现提高了抗坏血酸过氧化物酶和过氧化氢酶的表达水平。而在细胞结构观察时发现，相比较未处理的原生质体细胞，染色质的压缩更加紧密，因此，细胞的抗氧化机理还与细胞增殖有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5蛋白质/蛋白质或蛋白质/DNA互作实验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于植物原生质体在瞬时转化过程中耗时短，结果准确性较高，可广泛用于植物蛋白质与蛋白质，以及蛋白质与DNA之间的互作实验，并且可完成高通量快速检测。Song et al.(2017)以非洲菊原生质体为实验材料，建立了高效的瞬时转化体系，并且利用双分子荧光互补系统（BiFC）验证非洲菊原生质体可直接用于蛋白间的相互作用实验。Zhao etal.(2018)通过建立DNase-seq文库，获得大量玉米的DNaseI超敏位点（DHSs)，为了验证这些DHSs是否为基因的启动子或者增强子，并且是否受到转座子（Transposable elements，TEs）的影响和调控，设计了原生质体瞬时转化分析，并快速准确验证了生物信息学分析的结果。染色质免疫共沉淀技术（ChIP）是目前广泛应用于蛋白质和DNA互作检测的实验手段，而仅仅需要大约5000个拟南芥原生质体即可在细胞内钓出与碱性亮氨酸拉链蛋白1（bZIP1）有相互作用的DNA片段，该技术被称为micro-ChIP（ $\\mu \\mathrm { C h I P }$ ）（Para etal.,2018)。除此之外，原生质体还可用于研究mRNA 结合蛋白复合体中的 mRNA 或者蛋白质（Zhang etal.,2016)。Patraetal.(2018)在烟草原生质体中将各个参与茉莉酸代谢和长春碱代谢相关的转录因子与合成途径中结构基因的启动子分别进行共转，通过报告基因萤火虫荧光素酶和GUS的活性来确认二者之间的互作关系，该技术称为基于烟草原生质体的双杂交分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6作为生物反应器的受体细胞",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于原生质体的生长和分化可以从单个细胞水平到细胞团，进而分化为组织甚至个体。在细胞生长分化的过程中，可以通过添加不同的化合物，研究其对植物细胞生长和分化的影响。甚至可以以原生质体细胞为实验材料，对初始添加物进行同位素标记，从而追踪其在细胞内的代谢通路。这种以原生质体细胞为生物反应器，从而获得重组蛋白的操作被称为\"分子农场”（Molecular farming）（Davey et al.,2005）。Sasamoto& Ashihara (2014)在莴苣原生质体细胞培养时，通过添加不同浓度的葫芦巴碱、尼克酸和尼克酰胺，以研究它们对原生质体的分化和群落生成的影响。并且该团队还在白云杉细胞中添加 $^ { 1 4 } \\mathrm { C }$ 标记的尼克酸和尼克酰胺，以研究嘧啶核苷酸的代谢通路（Ashihara et al.，2005）。Aoyagi (2011)将长春花（Catharanthusroseus）的原生质体细胞用富含古罗糖醛酸的藻酸盐凝胶固定起来，然后大量生产出吲哚类生物碱，在培养原生质体进行代谢物生产时，要添加抑制细胞壁生长的物质，才能达到较好的分泌效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3植物原生质体研究的优缺点比较",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物原生质体广泛应用于分子细胞生物学的研究中，其中一大优点是无论从单子叶植物还是双子叶植物中分离、纯化和转化原生质体的技术方法都比较统一，减少了实验操作的繁杂性，当然也有更多的文献报道对原生质体的纯化和诱导分化技术继续进行优化和简化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近年来许多文献报道利用植物原生质体作为实验材料获得大量有效数据，试验周期短(一般转化2\\~3d即可检测)，检测面广泛（细胞水平、亚细胞水平和分子水平)，而且体内实验结果准确。尤其对于组织培养比较困难、生长周期比较长的物种来说，纯化获得原生质体可以为实验的开展另辟蹊径。模式植物拟南芥和烟草的原生质体瞬时转化已经成为了蛋白亚细胞定位实验和双荧光检测实验等的常用材料，Martinhoetal.(2015)还在拟南芥中建立了原生质体-miRNA报告系统，用于快速实时检测植物细胞内miRNA系统中各个元件以及miRNA功能缺失的突变体的生物学功能。除此之外，植物原生质体还可以应用于植物与微生物、植物与动物的相互作用研究中。自然界的许多微生物和动物寄生于植物体或者以植物体为食，从而导致植物中一些侵染性病虫害的发生。以植物原生质体为研究材料，筛选和鉴定病原菌的效应蛋白，从而提出有效的防病措施（Zheng et al.,2019)。Rao et al.(2019)利用水稻原生质体筛选出褐飞虱（brown planthopper）唾液腺分泌蛋白质组中能与植物互作的效",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "应蛋白，为防治水稻褐飞虱提供了理论基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "也正因为植物原生质体实验周期短，实验数据要经过多次重复才能有效并且具有说服力，在瞬时转化的材料中，植物表型并不能维持较长时间，有些瞬时转化的表型并不明显，只能在转录水平结合qRT-PCR 技术对基因的表达模式变化进行检测，而往往基因的表达最终体现在蛋白水平上，转录水平的变化对最终的表型影响大小并不一定呈正相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物原生质体的取材一般来源于植物外植体、组培苗或悬浮培养细胞，对于转化体系建立较困难的物种，一般选择植物外植体作为分离原生质体的来源，该操作对植物损伤较大，有些原生质体的取材来源于某些生殖器官中，大大限制了原生质体的取材来源。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虽然利用植物原生质体进行瞬时转化可以快速简便地获得大量有效的实验数据，但是若利用原生质体进行稳定转化或细胞融合，获得新的优良品种或者杂交品种，将会花费较长的试验周期，因为从一个细胞分化为愈伤组织就需要一段较长的时间，如从棕榈（Elaeisguineensis）的原生质体到成苗的获得大约需要18个月的时间，其中形成愈伤组织就长达9个多月（Masani et al.,2013）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当植物原生质体的分离、纯化和转化效率达到一定稳定水平后，对植物原生质体的应用和研究将会越来越广泛。随着实验周期的逐渐缩短，实验数据的快速获得，植物科研工作者们越来越倾向于使用一些快速简便的瞬时转化方法对实验结果进行初探和预测。并且分子水平高通量实验技术的大量使用，也促使植物原生质体应用在组学方面的初筛和结果验证。Ortiz-Ramirez et al.(2016)利用小立碗藓不同生长阶段、不同发育时期的组织进行转录组学分析(其中包含小立碗藓的原生质体细胞)，筛选到 $P p T C P 5$ 转录因子参与了苔藓植物的孢子体分枝过程，与其在高等被子植物中的作用类似，同时也为陆生植物的进化和发育提供了新的思路。随着基因编辑技术的广泛研究，植物原生质体也为植物基因的定向编辑提供了优良试验材料（Malnoy et al.,2016; Nadakuduti et al.,2019; Park et al.,2019)。对于植物原生质体培养和分化中遇到的困难，也在不断进行探索和优化，以期建立稳定高效的原生质体转化和再生体系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AOYAGI H,2011. Application of plant protoplasts for the production of useful metabolites[J]. Biochem Eng J, 56: 1-8.   \nASHIHARA H, STASOLLA C, YIN Y, et al., 2O05. De novo and salvage biosynthetic pathways of pyridine nucleotides and nicotinic acid conjugates in cultured plant cells[J]. Plant Sci, 169: 107-114.   \nBIRNBAUM K, JUNG JW, WANG JY, et al., 2OO5. Celltype-specific expression profiling in plants via cell sorting of protoplasts from fluorescent reporter lines[J]. Nat Methods,2(8): 615-619.   \nCAI X,FU J, GUO W,2017. Mitochondrial genome of callus protoplast has a role in mesophyll protoplast regeneration in Citrus: Evidence from transgenic GFP somatic homo-fusion[J]. Hortic Plant J, 3(5): 177-182.   \nDAVEY MR,ANTHONY P,POWER JB, et al.,2005. Plant protoplasts: status and biotechnological perspectives[J]. Biotechnol Adv, 23:131-171.   \nDUTT M, ZAMBON FT, ERPEN L,et al., 2018. Embryo-specific expresson of a visual reporter gene as a selection system for citrus transformation[J]. PLoS ONE,13(1): eO190413.   \nEECKHAUT T, LAKSHMANAN PS, DERYCKERE D, et al., 2013. Progress in plant protoplast research[J]. Planta,238(6): 991-1003.   \nFESENKO IA，ARAPIDI GP, SKRIPNIKOV AY et al.， 2015. Specific pools of endogenous peptides are present in gametophore，protonema， and protoplast cells or the moss Physcomitrella patens[J]. BMC Plant Biol, 15: 87.   \nFU J,QIN L，WANG C,et al.， 2018. ZmWRKY79 positively regulates maize phytoalexin biosynthetic gene expression and is involved in stress response[J]. JExp Bot, 69(3): 497-510.   \nFU W, WEI C, WANG X, 2019. Research progress on tissue culture of Malus plant[J]. Mol Plant Breeding,17(4):1320-1325.[付为国，韦晨，王醒,2019.苹果属植物组织培养的研究进展 [J]．分子植物育种,17(4):1320-1325.]   \nGUPTA PK & DURZAN DJ,1986. Isolation and cell regeneration of protoplasts from sugar pine (Pinus lambertiana)[J]. Plant Cell Rep, 5: 346-348.   \nHUANG H, WANG Z, CHENG J, et al., 2013. An efficient cucumber (Cucumis sativus L.) protoplast isolation and transient expression system[J]. Sci Hortic,15O: 206-212.   \nLEI R,QIAO W, HU F, et al.， 2015. A simple and effective method to encapsulate tobacco mesophyll protoplasts to maintain cell viability[J]. MethodsX, 2: 24-32.   \nLI C, CHENG A, WANG M, et al.， 2014. Fertile introgression products generated via somatic hybridization between wheat and Thinopyrum intermedium[J]. Plant Cell Rep, 33(4): 633-641.   \nLI J, LIAO X, ZHOU S,et al., 2018. Eficient protoplast isolation and transient gene expression system for Phalaenopsis hybrid cultivar ‘Ruili Beauty'[J]. In Vitro Cell Dev Biol- Plant, 54: 87-93.   \nLI N,YANG X, ZHOU Z,et al.， 2018. Protoplast isolation and culture of Zanthoxylum bungeanum[J].JNWFor Univ,33(6):100-105.[李南，杨秀平，周正君，等,2018．花椒原生 质体分离与培养研究[J]．西北林学院学报,33(6):100-105.]   \nMALNOY M, VIOLA R, JUNG MH, et al., 2016. DNA-free genetically edited grapevine and apple protoplast using CRISPR/Cas9 ribonucleoproteins[J]. Front Plant Sci, 7: 1904.   \nMARTINHO C, CONFRARIA A, ELIAS CA, et al., 2015. Dissection of miRNA pathways using arabidopsis mesophyll protoplasts[J]. Mol Plant, 8: 261-275.   \nMASANI MY, NOLL G, PARVEEZ GK, et al., 2013. Regeneration of viable oil palm plants from protoplasts by optimizing media components, growth regulators and cultivation procedures[J]. Plant Sci, 210: 118-127.   \nNADAKUDUTI SS, STARKER CG, KO DK, et al., 2019. Evaluation of methods to assess in vivo activity of engineered genome-editing nucleases in protoplasts[J]. Fron Plant Sci, 10: 110.   \nNAN DN, XUE M, TANG KG, et al., 2018. Establishment of the cotyledon protoplast transient expression system of Ammopiptanthus mongolicus and subcellular localization of the AmDREB1 protein[J].Plant Sci J,36(4): 562-568.[楠迪娜，薛敏，唐宽刚，等,2018．沙冬 青子叶原生质体瞬时表达体系的建立及其 AmDREB1 蛋白的亚细胞定位[J]．植物科学学 报,36(4): 562-568.]   \nONDREJ V, NAVRATILOVA B, PROTIVANKOVA I, et al.， 2010. Recondensation level of repetitive sequences in the plant protoplast nucleus is limited by oxidative stressJ]. JExp Bot, 61(9): 2395-2401.   \nORTIZ-RAMIREZ C, HERNANDEZ-CORONADO M, THAMM A, et al., 2016. A transciptome atlas of Physcomitrella patens provides insights into the evolution and development of land plants[J]. Mol Plant, 9(2): 205-220.   \nPARA A, LI Y, CORUZZI GM, 2018. μChIP-seq for genome-wide mapping of in vivo TF-DNA interactions in Arabidopsis root protoplasts. Root development: Methods and Protocols[M]. Methods in Molecular Biology, Chapter 19. https://doi.org/10.1007/978-1-4939-7747-5_19.   \nPARK J, CHOI S, PARK S,et al., 2019. DNA-free genome editing via ribonucleoprotein (RNP) delivery of CRISPR/Cas in letuce[J]. Methods Mol Biol, 1917: 337-354.   \nPATRAB，PATTANAIK S， SCHLUTTENHOFER C，et al.， 2018．A networkof jasmonate-responsive bHLH factors modulate monoterpenoid indole alkaloid biosynthesis in Catharanthus roseus[J]. New Phytol, 217: 1566-1581.   \nPETERSSON SV, LINDEN P, MORITZ T, et al.， 2015. Cell-type specific metabolic profiling of Arabidopsis thaliana protoplasts as a tool for plant systems biology[J]. Metabolomics,11(6): 1679-1689.   \nPINDEL A, 2Oo7. Optimization of isolation conditions of Cymbidium protoplasts[J]. Folia Hortic, 19(2): 79-88.   \nRAIMUNDO SC, SORENSEN I, TINAZ B, et al., 2018. Isolation and manipulation of protoplasts from the unicellular green alga Penium margaritaceum[J]. Plant Methods,14(1): 18.   \nRAO W, ZHENG X, LIU B, et al., 2019. Secretome analysis and in planta expression of salivary proteins identify candidate effectors from the brown planthopper Nilaparvata lugens[J]. Mol Plant Microbe Interact, 32(2): 227-239.   \nROTTMANN TM, FRITZ C, LAUTER A, et al., 2018. Protoplast-esculin assay as a new method to assay plant sucrose transporters: Characterization of AtSUC6 and AtSUC7 sucrose uptake activity in Arabidopsis Col-O ecotype[J]. Front Plant Sci, 9: 430.   \nSASAMOTO H & ASHIHARA H, 2014. Effect of nicotinic acid, nicotinamide and trigonelline on the proliferation of lettuce cells derived from protoplasts[J]. Phytochemy Lett, 7: 38-41.   \nSONG AH, ZHANG WB, SUN SL,et al., 2O17. Preparation of protoplast and establishment of transient expression system in Gerbera hybrida[J]. Chin BullBot, 52: 511-519.[宋爱华，张文 斌，孙姝兰，等，2017．非洲菊原生质体制备及瞬时转化系统的建立[J]．植物学报，52: 511-519.]   \nSUI Z,LUO J，YAO R,et al.， 2019. Functional characterization and correlation analysis of phenylalanineammonia-lyase(PAL） incoumarin biosynthesisfrom Peucedanum praeruptorum Dunn[J]. Phytochemistry, 158: 35-45.   \nSUN B, ZHANG F, XIAO N, et al., 2018.An efficient mesophyll protoplast isolation, purification and PEG-mediated transient gene expression for subcellular localization in Chinese kale[J]. Sci ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hortic,241: 187-193. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WANG H, WANG W, ZHAN J, et al., 2015. An efficient PEG-mediated transient gene expression system in grape protoplasts and its application in subcellular localization studies of flavnoids biosynthesis enzymes[J]. Sci Hortic,191: 82-89.   \nWANG J, WU B,LU K, et al., 2019. The amino acid permease OsAAP5 regulates tiller number and grain yield in rice[J]. Plant Physiol, DOI: https://doi.org/10.1104/pp.19.00034.   \nWIMMER D,BOHNHORST P, SHEKHAR V, et al.，2017. Transit peptide elements mediate selective protein targeting to two different types of chloroplasts in the single-cell C4 species Bienertia sinuspersici[J]. Sci Rep,7: 41187.   \nXING T, LI X,LAROCHE A,et al.， 2017. Protoplasts in the analysis of early plant-pathogen interactions: current applications and perspectives[J]. Eur JPlant Pathol, 149(4): 1001-1010.   \nYU C，WANG L，CHEN C，et al.， 2014. Protoplast: A more efficient system to study nucleo-cytoplasmic interactions[J]. Biochem Biophys Res Commun, 450(4): 1575-1580.   \nZHAI N, XU Y,LIU P, et al., 2O18. Application of flow cytometry in plant and tobacco research[J]. Tobacco Sci Technol,51(9):98-104.[翟妞，许亚龙，刘萍萍，等,2018．植物研究中的流式 细胞术及其在烟草中的应用进展[J]．烟草科技,51(9):98-104.]   \nZHANG Y, SU J, DUAN S, et al., 2011. A highly eicient rice green tissue protoplast system for transient gene expression and studying light/chloroplast-related processes[J]. Plant Methods, 7: 30.   \nZHANG Z, BOONEN K,FERRARI P, et al.， 2016. UV crossinked mRNA-binding proteins captured from leaf mesophyll protoplasts[J]. Plant Methods,12(1): 42.   \nZHAO H, ZHANG W, CHEN L, et al., 2O18.Proliferation of regulatory DNA elements derived from transposable elements in the maize genome[J]. Plant Physiol, 176: 2789-2803.   \nZHENG X, WAGENER N, MCLELLAN H, et al., 2019. Phytophthora infestans RXLR effector SFI5 requires association with calmodulin for PTI/MTI suppressing activity[J]. New Phytol, 219(4): 1433-1446.   \nZHOU YP, HE L, LUO L, et al.,2018. Influences of different enzyme combinations on protoplast isolation in ponkan (Citrus reticulata Blanco)[J]. Jiangsu Agric Sci, 46(21): 45-47.[周一鹏, 何丽，罗丽，等，2018．不同酶液组合对梳柑原生质体分离的影响[J]．江苏农业科学, 46(21): 45-47.] ",
+        "page_idx": 8
+    }
+]

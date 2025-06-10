@@ -1,0 +1,155 @@
+# 基于环境示踪剂氯的北山地区浅部地下水补给研究
+
+李杰彪，苏锐，周志超，郭永海，季瑞利，张明，王洪斌（核工业北京地质研究院,中核高放废物地质处置评价技术重点实验室,北京100029)
+
+摘要：地下水补给研究是高放废物深地质处置库选址和场址评价的重要研究内容之一。甘肃北山地区是我国高放废物地质处置库场址首选预选区，为查明该区地下水补给特征，基于环境示踪剂氯查明了北山地区浅部地下水补给量。结果表明：(1）总体而言，氯质量平衡方法在北山地区应用效果较好。（2）基于包气带的氯质量平衡方法计算得出的浅部地下水垂向补给量在渗透性较大的沟谷盆地中为 $0 . 0 7 \sim 2 . 0 3 \ \mathrm { m m } \cdot \mathrm { a } ^ { - 1 }$ ,平均值约 $1 . 0 \ \mathrm { m m } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 。（3）基于饱和带的氯质量平衡方法计算得出北山地区浅部地下水多年平均入渗补给量为 $0 . 2 5 \mathrm { ~ m m ~ } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ，不足多年平均降水量的$0 . 5 \%$ 。相关结果可为我国高放废物地质处置库选址和场址评价提供依据。
+
+关键词：地下水补给；高放废物地质处置；环境示踪剂；氯质量平衡法
+
+高放废物具有放射性强、毒性大和核素半衰期长等特点，对其进行安全处置是关系到国土安全和环境保护的重大课题。目前，深地质处置是世界各国普遍接受的最终处置高放废物的技术方法[1」查清水文地质问题和条件是高放废物深地质处置库选址和场址评价的重要任务之一，而地下水补给问题是研究地下水流场的基础，也是进行地下水流数值模拟不可缺少的参数[]
+
+常用的研究干旱一半干旱地区地下水补给的方法大体包括[3-4]：地中蒸渗仪法;物理方法;同位素法;数值模拟法。环境示踪剂CI具有直接参与地下水的循环过程、成本低廉、不需要大量的观测资料等优点。氯离子质量平衡法(CMB方法)在实际应用中应用最为普遍，CMB方法包括基于包气带的CMB方法和基于饱水带的CMB方法两种。ERIKS-SON 等[5]首先应用Cl示踪的特性研究地下水补给，并提出了基于饱水带的CMB方法。ALLISON等[6提出了基于包气带的CMB 方法和氯离子剖面法(CPM方法），并进一步提出了氯离子累积法。CROSBIE[7]等采用CMB方法查明了澳大利亚新南威尔士州东部含煤盆地的地下水补给量。我国学者也开展了大量研究：陈植华等[8详细阐述了CMB方法的原理及在干旱一半干旱地区的适用条件。汪丙国等[9应用基于包气带的CMB方法查明了河北平原7个典型区的地下水垂向入渗补给量。刘君等[10]等利用基于包气带的CMB方法估算了石家庄滤沱河冲洪积扇地带地下水天然补给强度。宋献方等[11]采用基于饱水带的CMB 方法揭示了北京怀沙河流域的地下水补给量。聂振龙等[12]应用基于包气带的CMB方法查明了张掖盆地的降水入渗补给量。黄天明等[13]基于多种环境示踪剂,包括Cl、$\mathrm { N O _ { 3 } \setminus B r _ { \setminus } } ^ { 2 } \mathrm { H _ { \setminus } } ^ { 1 8 } \mathrm { O _ { \setminus } } ^ { 1 3 } \mathrm { C _ { \setminus } } ^ { 3 } \mathrm { H }$ 和 $^ { 1 4 } \mathrm { C }$ ,基本查明了典型黄土塬区地下水的补给特征。
+
+回顾国内外研究成果，不难发现其大多在平原地区展开，而针对极旱荒漠地区的鲜有研究，相关理论方法尚未成熟。甘肃北山地区是我国高放废物地质处置库场址首选预选区，新场地段被确定为我国首座地下实验室场址所在地[14]。针对该区地下水补给问题，前期仅开展了初步研究，亟需更加深人研究。同时，北山地区气候干旱，年降雨量极小，蒸发量极大，属于典型的极旱荒漠地区。因而，开展本项研究对于推进相关理论发展也具有重要的意义。
+
+本文采用基于包气带的CMB方法和基于饱水带的CMB方法两种方法定量评价北山地区浅部地下水补给量。通过研究，可为后期深入开展预选区选址比选和性能评价以及未来地下实验室建设提供水文地质依据和技术支撑，同时对于丰富极干旱地区水文地质学研究具有重要理论意义。
+
+# 1 研究区概况
+
+甘肃北山预选区位于甘肃省西北部和内蒙古西部。其行政区划属于甘肃省酒泉市及内蒙古阿拉善盟额济纳旗。北山预选区共开展了旧井、新场、野马泉、沙枣园和算井子5个地段的选址工作（图1），总体上该区属于丘陵地区，地势相对平缓，区内总体地势为南、北高而中部低，西部高而东部低，因而形成南北向次级水系向中部汇流，中部沟谷走向为近东西向。由于本区为极干旱地区，降水量极少，无常年性河流。沟谷两侧阶地不发育，仅在北部沟谷旁偶见 $1 \sim 3 \mathrm { ~ m ~ }$ 高的阶地。
+
+研究区属大陆性气候，缺雨、干燥、风沙大，蒸发量远远超过降水量。区内多年平均降水量约70$\mathbf { m } \mathbf { m }$ ,降水具有明显的季节性特点，降水量主要集中在6\~8月。研究区年平均蒸发量为 $3 ~ 2 0 0 ~ \mathrm { { m m } }$ 年平均气温为 $4 \sim 7 ~ \mathrm { { ^ { \circ } C } }$ ;年平均风速约 $3 . 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。区内基本上无长居居民，只有少数牧民分散居住。按地下水分布的地形、地貌、岩性结构和地质构造等条件,研究区地下水可分为3种类型：沟谷洼地孔隙—裂隙水、盆地孔隙一裂隙水、山地基岩裂隙水。
+
+# 2 研究方法与采样测试
+
+# 2.1基于包气带的CMB方法
+
+基于包气带的CMB方法主要假设条件包括[3]：（1）氯化物输入通量在系统内保持恒定。(2）忽略除大气降水和大气干沉降以外的其它氯源。（3）CI表现稳定，它不被岩土所吸附或被植被吸收。（4）入渗水以活塞式入渗为主。（5）入渗水在包气带以非饱和入渗为主。前期研究成果表明,北山地区基本满足上述假设条件[15-17]。可由下式获得：
+
+$$
+\begin{array} { l l } { \boldsymbol { R } _ { d } = } & { \left( \boldsymbol { F } _ { d } + \boldsymbol { P } \boldsymbol { C } _ { p } \right) \bigg / \mathrm { \Delta } C _ { s } } \end{array}
+$$
+
+式中： $R _ { d }$ 为地下水多年平均补给量( $\mathbf { \check { \Phi } } _ { \mathrm { m m } } \cdot \mathbf { \Phi } _ { \mathrm { a } } ^ { - 1 }$ ）； $\boldsymbol { F } _ { d }$ 为大气 $\mathbf { C l } ^ { - }$ 干沉降量 $\left( \mathbf { g } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 } \cdot \mathbf { \lambda } \right)$ ; $P$ 为多年平均降水量 $( \mathbf { m } \mathbf { m } \cdot \mathbf { a } ^ { - 1 } ) \mathbf { \{ } \mathbf { } \mathbf { } \mathbf { } C _ { p } $ 为降水平均 $\mathbf { \mathrm { C l } ^ { - } }$ 浓度 $\mathbf { \mu } _ { \mathrm { m g } } \cdot \mathbf { \mu } _ { \mathrm { ~ \tiny ~ \cdot ~ } }$ ${ \mathrm { ~ L ~ } } ^ { - 1 } ) : C _ { s }$ 为零通量面以下土壤水中 $| \mathrm { C l } ^ { - }$ 平均浓度$( \mathbf { m g } \cdot \mathbf { L } ^ { - 1 }$ ）。
+
+![](images/097acd7fd9e7fc9d992c26848e73f464401cb20939a3d6823d669d13b049d038.jpg)  
+图1研究区交通位置图  
+Fig.1Sketch map of the studied area
+
+在综合考虑包气带厚度、包气带岩性、剖面代表性以及操作可实施的基础上，在算井子预选地段、沙枣园预选地段以及新场预选地段共选取4个典型剖面（图2），于2013—2015年开展了包气带采样工作。本研究采用挖掘机机械开挖坑道的方法，剖面挖掘好后，然后选取剖面背光一侧采集土壤样品。采样方法为：在侧壁自上而下等间距分层采样，在每个采样层段内用取土环刀采集原状土样3个，现场用高精度电子天平称重并计算土样的天然密度。同时，另取同层新鲜土样约 $2 ~ \mathrm { k g }$ 装人自封袋中，送实验室进行测试。
+
+样品测试在国土资源部地下水矿泉水及环境监测中心与甘肃地质工程实验室完成,测试项目包括：重量含水量、土壤水中易溶盐含量、粒度成分、土壤$\mathrm { \ p H }$ ,土壤水中易溶盐含量采用萃取法测试,试样浸出液测试仪器为iCAP6300型离子体发射光谱仪，测试精度为 $0 . 0 0 1 \%$ ，所有测试项目严格遵循GB/T50123—1999《土工试验方法标准》。
+
+# 2.2 基于饱水带的CMB方法
+
+基于饱水带的CMB 方法主要假设条件包括[18]：（1）地下水中的Cl仅来源于大气降水。（2）氯化
+
+物在地卜水系统中是保守的，不参与任何地球化学反应。（3）在含水层中不存在氯元素的循环。（4）氯化物质量通量不随时间变化。可由下式计算：
+
+$$
+{ R } = P C l _ { { p } } \bigg / C l _ { { g w } }
+$$
+
+式中： $R$ 为地下水多年平均补给量 $( \mathbf { m } \mathbf { m } \cdot \mathbf { a } ^ { - 1 }$ ） $C l _ { p }$ 为大气降水中平均 $\mathbf { \mathrm { C l } ^ { - } }$ 含量 $( \mathbf { m } \mathbf { g } \cdot \mathbf { L } ^ { - 1 }$ ）； $P$ 为当地多年平均降水量( $\mathbf { \chi } _ { \mathrm { m m } } \cdot \mathbf { \chi } _ { \mathrm { a } } ^ { - 1 }$ ）； $C l _ { _ { g w } }$ 为研究区地下水中 $\mathrm { C l } ^ { - }$ 浓度平均值 $( \mathrm { m g \cdot L ^ { - 1 } }$ ）。
+
+本次研究选取研究区内78口民井，采样点位置分布如图2所示，由现场水文地质调查及前人研究成果可知研究区内地下水埋深较浅，多小于 $1 0 \mathrm { ~ m ~ }$ ○为更加准确获取浅部地下水水化学参数，每口民井采集次数不少于2次，浅部地下水中 $\mathrm { C l } ^ { - }$ 含量通过加权求得。
+
+本次研究共计采集175件浅层地下水样品，其中2011年8\~9月采集18件,2012年6\~8月采集15件,2014年9\~10月采集46件，2015年7\~9月采集53件,2016年8～10月采集43件。样品测试在核工业北京地质研究院完成，测试项目包括地下水中主要离子含量和氢、氧稳定同位素含量， $\delta ^ { 1 8 } 0$ 、8D测试仪器为MAT253型稳定同位素质谱仪，测试精度分别为 $\pm 0 . 1 \text{‰}$ 和 $\pm 1 . 0 \% o$ 。
+
+![](images/cd304b3103c46dd5076eec16c6c93e83b986b6f0e62eeb92d8c563d4ab357145.jpg)  
+图2采样点位置分布图  
+Fig.2Distribution map of sampling
+
+# 3结果与分析
+
+# 3.1基于包气带的CMB方法
+
+3.1.1包气带剖面特征TC-1剖面位于算井子地段典型冲沟内，冲沟宽大约在 $2 5 0 \sim 3 0 0 \mathrm { ~ m ~ }$ 之间，长约 $6 0 0 0 \mathrm { ~ m ~ }$ 。剖面附近植被发育较差，地表零星长有白刺。据附近民井观察,该剖面包气带厚度小于$1 0 \mathrm { ~ m ~ }$ （由于试验条件限制，取样深度仅到 $4 . 6 \ \mathrm { m } { \mathrm { , } }$ ，试验结果如图3所示。据图可知，剖面大致可分为两层， $2 \mathrm { ~ m ~ }$ 以上土壤粒径较粗，以角砾、砾砂、粗砂为主， $. 2 \mathrm { ~ m ~ }$ 以下以中细砂为主。据此可知，该剖面大致经历了两个主要的沉积过程，且第二次沉积过程水作用程度明显大于第一次。土壤 $\mathrm { \ p H }$ 随深度变化不大,呈微弱减小的趋势,总体在 $8 . 5 \sim 9 . 5$ 之间，为弱碱性。土壤含水量呈逐渐增大趋势， $1 \mathrm { ~ m ~ }$ 以上主要受蒸发作用影响土壤含水量 $< 3 \% ; 1 \sim 3 . 2 \mathrm { ~ m ~ }$ 段受岩性影响较大， $3 . 2 \mathrm { ~ m ~ }$ 以下土壤含水量基本稳定。土壤水中 $\mathrm { C l } ^ { - }$ 在 $2 . 8 \mathrm { ~ m ~ }$ 以下基本稳定，观察其它离子随深度的变化情况，亦可得出 $2 . 8 \mathrm { ~ m ~ }$ 以下王壤盐分含量基本稳定。因此，综合考虑，选取 $2 . 8 \mathrm { ~ m ~ }$ 以下土壤水中 $\mathrm { C l } ^ { - }$ 作为本次试验计算值,为 $6 9 7 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$
+
+TC-2 剖面位于沙枣园地段典型冲沟内，冲沟宽约 $1 ~ \mathrm { k m }$ ，长约 $2 0 ~ \mathrm { k m }$ ,地表零星长有白刺。据附近民井观察，该剖面包气带厚度应小于 $6 \mathrm { ~ m ~ }$ 。剖面岩性及土壤含水量、土壤 $\mathrm { \ p H }$ 以及土壤水中易溶盐含量分布如图4。由图可知，土壤含水量小于 $4 . 5 \%$ ，总体上具有随深度增加而增加的趋势，土壤 $\mathrm { \ p H }$ 在 $9 \sim$ 10 之间,呈强碱性。土壤水中 $\mathrm { K ^ { + } + N a ^ { + } }$ ） $\mathrm { S O } _ { 4 } ^ { 2 - }$ 随深度变化规律不明显，波动较大，但二者规律相似，这是由于该地区土壤盐分积累主要以 $\mathrm { C a S O _ { 4 } }$ ） $\mathrm { { N a C l } }$ 、KCI形式存在。在 $1 . 8 \ \sim \ 2 . 4 \ \mathrm { m }$ 深度段内发现有芒硝、盐岩等白色矿物，认为这些矿物的溶滤是造成离子浓度产生变化的主要原因。 $\mathrm { C O } _ { 3 } ^ { 2 - }$ 在 $0 . 3 \mathrm { ~ m ~ }$ 以下趋于稳定， $\mathrm { C a } ^ { 2 + }$ 和 $\mathrm { M g } ^ { 2 + }$ 变化趋势相似,在 $1 . 8 \mathrm { ~ m ~ }$ 以下趋于稳定。土壤水 $\mathbf { C l } ^ { - }$ 浓度在 $5 \ 0 0 0 \sim 3 5 \ 0 0 0$ $\mathbf { m } \mathbf { g } \cdot \mathbf { L } ^ { - 1 }$ 之间，在 $2 . 4 \mathrm { ~ m ~ }$ 以下具有明显减小的趋势，其它离子在 $2 . 4 \mathrm { ~ m ~ }$ 以下也基本稳定。因此，综合考虑，选取 $2 . 4 \mathrm { ~ m ~ }$ 以下土壤水中 $\mathbf { \mathrm { C l } ^ { - } }$ 作为计算值,为$2 0 \ 3 1 2 \ \mathrm { m g \cdot L ^ { - 1 } }$ 。
+
+TC-3 剖面位于新场地段四十里井盆地下游，包气带厚度较小（约 $2 . 5 \mathrm { ~ m ~ }$ )，附近植被较发育。剖面岩性及土壤含水量、土壤 $\mathrm { \ p H }$ 以及土壤水中易溶盐含量分布如图5。在 $0 . 2 \mathrm { ~ m ~ }$ 以上处为风沙覆盖层，下层岩性以粉砂、细砂为主。土壤重量含水量为$5 \% \sim 1 8 \%$ ，表层土壤受蒸发作用土壤重量含水量较低； $1 . 1 \mathrm { ~ m ~ }$ 以下随深度增加，在接近地下水位附近达到最大值。土壤 $\mathrm { \ p H }$ 较小,最大值仅为8.54。土壤水中 $| \mathrm { C l } ^ { - }$ 浓度较其它试验点偏小，最大值分布在地表和 $1 . 1 \mathrm { ~ m ~ }$ 深度处， $1 . 5 \mathrm { ~ m ~ }$ 以下趋于稳定。土壤水$\mathrm { N O } _ { 3 } ^ { - }$ 浓度较小,试验点受人类活动影响较小。其余离子在 $1 . 5 \mathrm { ~ m ~ }$ 以下均趋于稳定，因此选取 $1 . 5 \mathrm { ~ m ~ }$ 以下土壤水中 $\mathrm { C l } ^ { - }$ 作为本次试验计算值,为 $9 1 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$
+
+![](images/14d55023f689d7627f0ece252070f55ad3cc15578187417149baf1767ea07f8f.jpg)  
+图3TC-1剖面岩性及土壤重量含水量、土壤pH以及土壤水中易溶盐含量分布Fig.3Lithology，moisture content, $\mathrm { \ p H }$ ,soluble salt content of soil water in TC-1 profile
+
+![](images/0bb550a727df83302952f20912fec5f14c24f5cf651478957dd8e822771db858.jpg)  
+图4TC-2剖面岩性及土壤重量含水量、土壤pH以及土壤水中易溶盐含量分布Fig.4Lithology，moisture content, $\mathrm { \ p H }$ ,soluble salt content of soil water in TC-2 profile
+
+![](images/f3a06f7a162eed686a15acfbabf9cd801d22383747434d1ef43abdceac1c4dbc.jpg)  
+图5TC-3剖面岩性及土壤重量含水量、土壤pH以及土壤水中易溶盐含量分布Fig.5Lithology，moisture content, $\mathrm { \ p H }$ ，soluble salt content of soil water in TC-3 profile
+
+TC-4剖面位于新场地段四十里井盆地的中下游。包气带厚度约 $2 . 5 \mathrm { ~ m ~ }$ ,周围长有白刺、黑果枸杞等少量植被。剖面岩性及土壤含水量、土壤 $\mathrm { \ p H }$ 以及土壤水中易溶盐含量分布如图6所示。地表至$0 . 1 5 ~ \mathrm { c m }$ 处为风沙覆盖层,以下岩性单一，为砂质粉土，土壤粒径组成上下差异较小。地表及 $0 . 6 \sim$ $1 . 0 \mathrm { ~ m ~ }$ 深度处发现盐碱化强烈。土壤重量含水量随深度逐渐增加,最大值约 $2 2 \%$ 。土壤 $\mathrm { \ p H }$ 较小,均小于8.5,在 $1 . 2 \mathrm { ~ m ~ }$ 以下趋于稳定。所有离子浓度剖面均呈现典型的单一稳态型式。土壤水中 $| \mathrm { C l } ^ { - }$ 浓度在 $1 ~ 2 3 4 \sim 7 7 ~ 6 8 1 ~ \mathrm { \ m g } \cdot \mathrm { L } ^ { - 1 }$ 之间,最大值出现在在地表。因此，综合考虑，选取 $1 . 7 \mathrm { ~ m ~ }$ 以下土壤水中 $\mathbf { \mathrm { C l } ^ { - } }$ 作为本次试验计算值,为 $2 ~ 2 0 0 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$
+
+![](images/5dd4944a73555b5ef1387eb8bd7265c53d2111b981520eb680676eef55ab3684.jpg)  
+图6TC-4 剖面岩性及土壤重量含水量、土壤pH以及土壤水中易溶盐含量分布图Fig.6Lithology，moisture content，pH，soluble salt content of soil water in TC-4 profile
+
+3.1.2参数取值本次试验降水中 $\mathbf { \mathrm { C l } ^ { - } }$ 平均浓度选取在北山地区2013一2016年所采集的雨水样品（共计15件大气降水样品）加权得到，平均值为$3 . 1 7 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 。降水量 TC-1 剖面取马鬃山镇1958—2016年监测数据平均值，为 $7 2 . \ 8 \ \mathrm { \ m m }$ 。TC-2、TC-3、TC-4剖面取玉门市1953—2016年监测数据平均值，为 $6 8 . 7 \ \mathrm { m m }$ 。酒泉地区敦煌城区与莫高窟年均降尘总量分别为 $1 9 1 . 7 5 \mathrm { ~ t ~ } \cdot \mathrm { ~ k m ~ } ^ { - 2 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 、$1 4 6 . 9 8 \mathrm { ~ t ~ } \cdot \mathrm { ~ k m ~ } ^ { - 2 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,其中戈壁地区 $| \mathrm { C l } ^ { - }$ 沉降约占总降尘量的 $0 . 7 \% ^ { [ 1 9  - 2 0 ] }$ 。研究区位于酒泉地区,取平均值 $1 6 9 . 3 7 \mathrm { ~ t ~ } \cdot \mathrm { ~ k m ~ } ^ { - 2 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,因此,计算得到 $\mathrm { C l } ^ { - }$ 干沉降量取值为 $1 . 1 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 。
+
+地下水中 $\mathrm { C l } ^ { - }$ 浓度值的选取对于计算结果至关重要。本研究参数的选取综合考虑了土壤中零通量面的位置、浅部地下水毛细作用、土壤中易溶盐垂向变化、土壤岩性等多种因素的影响。本次试验4个剖面地下水位以上 $0 . 8 \mathrm { ~ m ~ }$ 深度内均未参与计算。同时，为减小蒸发作用影响同时确保试验精度，每个采样点至少选取两个采样点并尽可能接近地下水面。根据这一原则，TC-1取 $2 . 8 \mathrm { ~ m ~ }$ 以下 $\mathrm { C l } ^ { - }$ 浓度的平均值；TC-2取 $2 . 4 \mathrm { ~ m ~ }$ 以下 $\mathrm { C l } ^ { - }$ 浓度的平均值;TC-3取$1 . 5 \mathrm { ~ m ~ }$ 以下 $\mathrm { C l } ^ { - }$ 浓度的平均值;TC-4取 $1 . 7 \mathrm { ~ m ~ }$ 以下土壤水中 $\mathbf { C l } ^ { - }$ 浓度的平均值。其中，TC-2剖面在$1 . 8 \ \sim 2 . 4 \ \mathrm { m }$ 深度段内发现有芒硝、盐岩等矿物，试验误差较大，结果仅供参考。
+
+3.1.3试验结果各剖面地下水补给量计算结果如表1。由表可知，区内地下水补给量非常小，4个剖面计算值最大仅为 $2 . 0 3 \ \mathrm { m m } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,占当地多年平均降水量的 $2 . 7 9 \%$ 。从TC-1、TC-3、TC-4 剖面计算，其结果相差不大,计算结果分别为 $2 . 0 5 \ \mathrm { m m } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 、
+
+表1基于包气带CMB方法的地下水补给量计算表  
+Tab.1Groundwater recharge rates based on CMB method based on unsaturated zone   
+
+<html><body><table><tr><td>剖面</td><td>P /mm·a-1</td><td>Cp / mg·L-1</td><td>Fd /g·m-².a-1</td><td>C /mg·L-1</td><td>/mm·a-1 Rdmin</td><td>Smin /%</td><td>Rdmax /mm·a-1</td><td>fmax /%</td></tr><tr><td>TC-1</td><td>72.8</td><td>3.17</td><td>1.19</td><td>697.12</td><td>0.33</td><td>0.45</td><td>2.03</td><td>2.79</td></tr><tr><td>TC-2</td><td>68.7</td><td>3.17</td><td>1.19</td><td>20 312.09</td><td>0.01</td><td>0.02</td><td>0.07</td><td>0.10</td></tr><tr><td>TC-3</td><td>68.7</td><td>3.17</td><td>1.19</td><td>914.88</td><td>0.24</td><td>0.35</td><td>1.53</td><td>2.23</td></tr><tr><td>TC-4</td><td>68.7</td><td>3.17</td><td>1.19</td><td>2 200.44</td><td>0.10</td><td>0.14</td><td>0.64</td><td>0.93</td></tr></table></body></html>
+
+注： $P$ 为当地多年平均降水量； $C _ { p }$ 为大气降水中 $\mathrm { C l } ^ { - }$ 平均浓度； $\boldsymbol { F } _ { d }$ 为大气中 $\mathrm { C l } ^ { - }$ 干沉降量; $C _ { s }$ 为零通量面以下包气带土壤水中 $\mathbf { \mathop { C l } } ^ { - }$ 平均浓度;$R _ { d m i n }$ 为忽略大气干沉降量的计算值； $R _ { d m a x }$ 为考虑大气干沉降量的计算值； $f$ 为占多年平均降水量百分比
+
+$1 . 5 4 \ \mathrm { m m } \cdot \mathrm { ~ a ~ } ^ { - 1 } \setminus 0 . 6 7 \ \mathrm { m m } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 。TC-2 剖面计算结果仅为 $0 . 0 7 \ \mathrm { m m } \cdot \mathrm { a } ^ { - 1 }$ ,远小于其它剖面计算结果。这可能与该剖面含有的大量含氯矿物与入渗大气降水发生溶滤作用，从而造成土壤水中 $| \mathrm { C l } ^ { - }$ 浓度背景值高有关。总之，基于包气带的CMB方法计算结果整体而言较为可靠。沙枣园地段由于试验点土壤水中$\mathrm { C l } ^ { - }$ 浓度背景值较高，其可靠性较差，在此计算结果仅供参考。
+
+# 3.2 基于饱水带的CMB方法
+
+3.2.1适用性分析地下水水中稳定同位素 $\mathrm { ~ D ~ }$ 、18O分布特征常用于识别地下水补给来源。作研究区浅部地下水的 $\delta \mathrm { D } { - } \delta ^ { 1 8 } \mathrm { O }$ 关系图（图7），并与当地大气降水线进行比对。当地大气降水线选取邻近区域张掖盆地地区的，大气降水线方程为： $\delta \mathrm { D } = $ $6 . 8 7 \ \delta ^ { 1 8 } 0 \ - 3 . 4 5 \ ( n \ = \ 7 5 , R ^ { 2 } \ = 0 . 9 4 )$ 。由图可见，该区浅部地下水样品稳定同位素组成大都分布在当地降水线的附近和右侧，反映出当地降水的补给是本区浅部地下水的补给来源。分布在当地降水线附近的水点，多取自冲沟内民井，地下水循环更新速率较快，受蒸发影响较小。而落在当地降水线右下侧的样品，多取自地下水系统局部排泄区，基本沿斜率为5的蒸发线分布，蒸发效应较为明显。
+
+野外调查发现，区内包气带岩性以石英、长石、方解石为主，能与大气降水进行地球化学反应的岩性极少。因此，可认为在地下水系统中 $\mathbf { \mathrm { C l } ^ { - } }$ 在循环中基本保持稳定。
+
+3.2.2试验结果北山地区大气降水中 $\mathrm { C l } ^ { - }$ 含量平均为 $3 . 1 7 \mathrm { ~ m g ~ } \cdot \mathrm { ~ L } ^ { - 1 }$ ，多年平均大气降水量为$6 5 . 4 0 \ \mathrm { m m } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,区内地下水中 $| \mathrm { C l } ^ { - }$ 含量加权平均值为 $8 4 2 . 5 6 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ,计算结果见表2。由表可知,区内浅部地下水多年平均入渗补给量仅为 $0 . 2 5 ~ \mathrm { m m }$ ：$\mathbf { a } ^ { - 1 }$ ，占多年平均降水量的 $0 . 3 8 ~ \%$ 。
+
+![](images/ec84302ecacf4deb3401795c91d63440e5c658f3c83b1182a4290739eb007769.jpg)  
+图7浅部地下水 $ { \delta \mathrm { D } }$ 与 $\delta ^ { 1 8 } 0$ 含量关系图Fig.7Plot of δD versus $\delta ^ { 1 8 } 0$ for shallow groundwater
+
+表2基于饱水带CMB方法的地下水补给量计算表Tab.2Groundwater recharge rates based on saturatedCMB method  
+
+<html><body><table><tr><td>样品 数量件／mm·a-1／mg·L-1</td><td>P</td><td>Clp</td><td>/mg·L-1 Cl ge</td><td>R mm·a-1</td><td>f /%</td></tr><tr><td>175</td><td>65.40</td><td>3.17</td><td>842.56</td><td>0.25</td><td>0.38</td></tr></table></body></html>
+
+注： $P$ 为多年平均降水量； $C l _ { p }$ 为大气降水中 $\mathrm { C l } ^ { - }$ 平均浓度; $C l _ { g w }$ 为北山地区浅部地下水中 $\mathbf { \mathop { C l } } ^ { - }$ 平均浓度; $R$ 为多年平均入渗补给量 $; f$ 为占多年平均降水量百分比。
+
+该试验结果较基于包气带的CMB方法试验结果更小，这主要是由于地下水样品在区域范围内分布较为均匀，计算结果可认为是区域范围尺度而言。由于区域范围内覆盖物颗粒成分差异较大，基于包气带的CMB方法,4个试验点均选在冲沟中,冲沟覆盖物成分多为砾砂、中粗砂等，且雨季洪流多汇集到冲沟中向下径流，因此，浅部地下水补给量也相对较大。
+
+# 4结论
+
+（1）基于包气带的CMB方法计算得出北山地区浅部地下水垂向补给量在渗透性较大的沟谷盆地中各试验点为 $0 . 0 7 \sim 2 . 0 3 ~ \mathrm { \ m m } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,其平均值约$1 . 0 \ \mathrm { m m } \cdot \mathrm { a } ^ { - 1 }$ ;基于饱和带的CMB方法计算得出的区内浅部地下水多年平均补给量为 $0 . 2 5 \mathrm { ~ m m ~ } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ，仅占多年平均降水量的 $0 . 3 8 \%$ 。
+
+（2）尽管基于包气带的CMB方法在部分地区受到一定的限制，如覆盖层内含大量盐岩等易溶含氯矿物导致土壤水中 $\mathrm { C l } ^ { - }$ 浓度背景值高的地带。但整体而言，CMB方法在北山地区应用效果较好。
+
+(3）大气降水中 $\mathrm { C l } ^ { - }$ 平均浓度和大气 $\mathbf { C l } ^ { - }$ 干沉降量作为背景输入值对计算结果影响较大，北山地区缺少长期监测数据，需进一步开展相关研究工作。
+
+（4）由于地下水补给问题的复杂性以及不确定性，建议在本次研究的基础上，进一步开展其它方法研究，如：达西方法、地下水位动态方法、数值模拟方法等，以从多种角度深入揭示北山地区地下水补给演化特征。
+
+参考文献（References）   
+[1］王驹.高水平放射性废物地质处置;关键科学问题和相关进展 [J].科技导报,2016,34（15）:51－55.[WANGJu.Geological disposal of high level radioactive waste: Key scientific issuesand progress in China[J].Science and Technology Review,2016,34 (15) :51-55.]   
+[2]WITHERSPOON P A,BODVARSSON G S. Geological challenges in radioactive waste isolation:Third worldwide review[C].Berkeley:University of California Berkeley Press,2001:77 -84.   
+[3]HEALY R W,SCANLON B R. Estimating groundwater recharge [M].New York:Cambridge University Press,2010:182-189.   
+[4］李杰彪.干旱地区大气降水人渗补给研究——以北山预选区 新场向阳山预选地段为例［D].北京：核工业北京地质研究 院,2014.[LI Jiebiao．Study on recharge of precipitation infiltration in arid area:A case of Xinchang Xiangyangshan preselected site in Beishanarea[D].Beijing: Beijing Research Institute of Uranium Geology,2014.]   
+[5]ERIKSSON E, KHUNAKASEM V. Chloride concentration in groundwater recharge rate and rate of deposition of chloride in the Israel Coastal Plain[J]. Journal of Hydrology,1969,7（2）:178- 197.   
+[6]SIMMERS I. Estimation of natural groundwater recharge[M]. Dordrecht: D.Reidel Publishing Company,1988:49 -72.   
+[7]CROSBIE R S,PEETERS L M, HERRON N,et al. Estimating groundwater recharge and its associated uncertainty: Use of regression kriging and the chloride mass balance method[J].Journal of Hydrology,2018,561:1063-1080.   
+[8］陈植华,徐恒力.确定干旱一半干旱地区降水入渗补给量的新 方法——氯离子示踪法[J].地质科技情报,1996,5（3）：87- 92.[CHEN Zhihua,XU Hengli. Chloride tracer method for estimation natural groundwaterrecharge in arid and semiarid regionsJ]. Geological Science and Technology Information,1996,5（3）:87- 92.]   
+[9］汪丙国,靳孟贵,王文峰,等.氯离子示踪法在河北平原地下水 垂向入渗补给量评价中的应用[J].节水灌溉,2006,（3）：16- 20.[WANG Bingguo,JIN Menggui,WANG Wenfeng,et al. Application of chloride ion tracer method in estimation of vertical infiltration recharge of groundwater in Hebei Plain[J].Water Saving Irrigation.2006,（3）:16-20.]   
+[10］刘君,陈宗宇,张兆吉,等.利用环境示踪剂估算滤沱河冲洪积 扇地下水天然补给［J].地质科技情报,2009,28（6）：114－ 118.［LIU Jun,CHEN Zongyu,ZHANG Zhaoji,et al. Estimation of natural groundwater recharge in the Hutuo River alluvial-proluvial fan using environmental tracers[J].Geological Science and Technology Information,2009,28(6）:114 －118.]   
+[11]SONG XF,LIU X,XIA J,et al.A study of interaction between surface water and groundwater using environmental isotope in Huaisha River Basin[J].Science in China Series D-Earth Sciences,2006,   
+49(12) :1299 -1310. [12]聂振龙,连英立,段宝谦,等.利用包气带环境示踪剂评估张掖 盆地降水入渗速率[J].地球学报,2011,32（1)：118 －122. [NIE Zhenlong,LIAN Yingli,DUAN Baoqian,et al.Application of unsaturated zone environmental tracers to the estimation of rainfall infiltrating rate in the Zhangye Basin,northwestern China[J].Acta Geoscientia Sinica,2011,32(1) :118-122.] [13]HUANG T M,PANG Z H,LIU JL,et al. Groundwater recharge mechanism in an integrated tableland of the Loess Plateau,northern China:Insights from environmental tracers[J].Hydrogeology Journal. 2017,25(7) :2049-2065.] [14]WANG J,CHEN L,SU R,et al. The Beishan underground research laboratory for geological disposal of high-level radioactive waste in China:Planning,site selection,site characterization and in situ tests[J]. Journal of Rock Mechanics and Geotechnical Engineering,2018,10(3) :411-435. [15］郭永海,王驹,肖丰,等.高放废物处置库甘肃北山预选区地下 水的形成［J].高校地质学报,2010,16（1):13－18.［GUO Yonghai,WANG Ju,XIAO Feng,et al. Groundwater formation in Beishan(Gansu） preselected area of high-level radioactive waste disposal repository[J].Geological Journal of China Universities,   
+2010,16(1) :13 -18. ] [16］郭永海,苏锐,季瑞利,等.高放废物处置库甘肃北山预选区综 合水文地质研究［J].世界核地质科学,2014,31（4)：587-   
+593.[GUO Yonghai,SURui,JI Ruili,et al.Synthetic hydrogeological study on Beishan preselected area for high-level radioactive waste repository in China[J]. World Nuclear Geoscience,2014,31 (4):587 -593.] [17］郭永海,王海龙,董建楠,等.高放废物处置库芨芨槽预选场址 深部地下水同位素研究[J].地质学报,2013,87（9)：1477-   
+1488.[GUO Yonghai,WANG Hailong,WANG Ju,et al.Isotopic study of deep groundwater in Jijicao preselected site for China's high level radioactive waste disposal repository[J].Acta Geologica Sinica.2013,87(9):1477 -1488.] [18]WOOD W W,SANFORD W E. Chemical and isotopic methods for quantifying groundwater recharge in a regional,semiarid environment[J].Ground Water,1995,33(3）:458-468. [19]WANG G X,TUO W Q,DU M Y.Flux and composition of wind-eroded dust from different landscapes of an arid inland river basin north-western China[J]. Journal of Arid Environments,2004,58,   
+373 -385. [20］张宁,张武平,张萌.沙尘暴沉降对甘肃大气环境背景值的影 响研究［J].环境科学研究,2005,18（5）:6-10.［ZHANG Ning,ZHANG Wuping,ZHANG Meng.The research on the effect of sand storm dust fall on air environmental background value in Gansu Province[J].Research of Environmental Sciences,2005,18 (5) :6-10.]
+
+# Estimation of shallow groundwater recharge using the environmental tracer chloride method in Beishan Area
+
+LI Jie-biao， SU Rui， ZHOU Zhi-chao， GUO Yong-hai，JI Rui-li, ZHANG Ming， WANG Hong-bin (CNNC Key Laboratoryon Geological Disposal of High-level Radioactive Waste,Beijing Research Instituteof Uranium Geology,Beijing100029,China)
+
+Abstract：Hydrogeological condition isoneof the most important factors in the siteselectionand site safety assessment for the disposal of high-level radioactive waste（HLW).Furthermore,groundwater recharge research is of importance in the study of hydrogeology.Beishanarea in Gansu Province,Chinaisa preselected priorityregion for disposal of China's HLW.Beishan area locate in the north of Hexi Corridor,Gansu Province,about $7 0 ~ \mathrm { k m }$ south of Yumen Town In order to find out the groundwater recharge in thisarea,this paper used the chloride mass balance （CMB）method in the unsaturated zoneas wellas the saturated zone.Considering the thicknessand the lithologyof theunsaturated zone,the typical profileand theavailable fieldwork,four typical profiles werecaried outin Beishan area.Theyare located inSuanjingzi,Shazaoyuanand Xinchang respectively.Inaddition,this experiment successfully collected45samplesof shallow groundwater.The groundwater level of most wells are less than1O meters.The distribution of the wels is relativelyevenly.Theresult indicatedas follws:（1）In general,theapplicabilityof the CMB method in Beishan area is good. The groundwater recharge rate ranges from $0 . 0 7 \ \mathrm { m m } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ to $2 . 0 5 \ \mathrm { m m } \cdot \mathrm { a } ^ { - 1 }$ based on unsaturated CMB method,where allthe profiles were located in thegully basin with relativelylarger permeability.The groundwater recharge rate is approximately $0 . 2 6 \ \mathrm { m m } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ based on saturated CMB method,which accounts for only $0 . 4 0 \%$ of the average annual precipitation.（2）The CMB method based on the unsaturated zone is limited where the background value is high.Therefore,other methods should be considered in these areas,such as the artificial tracer method, $^ { 3 } \mathrm { H } , \mathrm { B r }$ ,water-table fluctuation method,water-budget models method.（3） The chloride concentration in atmospheric precipitation has a great efect on the results asthe background input data.（4）Due to the complexityand uncertaintyof the groundwater recharge research,itis suggested that other methodsshould be studiedonthe basis ofthisstudy,suchasartificial tracer method,water-tablefluctuation method,Darcymethod,and so on.Through this research,the groundwater recharge rate in Beishan area was obtained for the first time.These achievements can be useful for the site selectionand site safety assessment of the HLW repository.Moreover,itcan also be helpful for the construction of the underground laboratory in the future.
+
+Key words:groundwater recharge；high-level radioactive waste disposal；environmental tracer；chloride mass balance（CMB）method

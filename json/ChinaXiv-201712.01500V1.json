@@ -1,0 +1,270 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201511202349 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋有涛，孙子程，朱京海.植物景观遗传学研究进展.生态学报,2017,37（22)：7410-7417.  \nSongYT,SunZC,ZhuJH.Advancesinlandscape geneticsof plants.ActaEcologica Sinica,2017,37(22):7410-7417.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物景观遗传学研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋有涛1,²，孙子程²，朱京海¹，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院沈阳应用生态研究所，沈阳110016  \n2辽宁大学环境学院，沈阳110036",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：植物景观遗传学是新兴的景观遗传学交叉学科的一个重要研究方向。目前植物景观遗传学的研究虽落后于动物,但其在生物多样性保护方面具有的巨大潜力不可忽视。从景观特征对遗传结构、环境因素对适应性遗传变异影响两个方面,系统综述了近十年来国际上植物景观遗传学的研究焦点和研究进展，比较了植物景观遗传学与动物景观遗传学研究在研究设计和研究方法上的异同,并基于将来植物景观遗传学由对空间遗传结构的描述发展为对景观遗传效应的量化分析及预测的发展框架,具体针对目前景观特征与遗传结构研究设计的系统性差、遗传结构与景观格局在时间上的误配、适应性位点与环境变量的模糊匹配、中性遗传变异与适应性遗传变异研究的分隔、景观与遗传关系分析方法的局限等五个方面提出了研究对策。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：植物景观遗传学；生物多样性;基因流;遗传结构;适应性遗传变异",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Advances in landscape genetics of plants ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SONG Youtao12， SUN Zicheng²， ZHU Jinghai1, \\* 1InstituteofApplied Ecology，Chinese Academyof Sciences，Shenyang11Oo16，China 2Liaoning University Environmental Sciences，Shenyang 11Oo36,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Landscape genetics of plants isanimportant research directionof the newly emerged interdisciplinarylandscape genetics，whichlagsbehindthatofanimals.These studiesareincreasinglyimportantfortheconservationofbiodiversityand reserve management.This article briefly summarizes the major advances in plant landscape genetics in the past ten years formtwo aspects:the efectsof landscapeson migration，dispersal，and gene flowmeasuredby neutral genetic variation; and the interaction between theenvironment and adaptive genetic variation innatural populationsand individuals.In addition，itcompareslandscape geneticsof plants with that of animals through diferent study designsandanalytical approaches.Due to thecomplexityof plantdispersal，landscape elementsandanalyticalapproachesarenotgenerally considered in landseape genetics studies.For example，the leastcost path analysis，popular inanimal studies，is rarely used in plant studies.Furthermore,thisarticle elucidates five problems incurrent studiesof plants:（1）many studies lack an explicit research design for evaluating the efect of landscape patem on genetic structure；（2）genetic structure is often analyzed with regard to contemporary landscapes，but itmayreflect historical landscapes；（3）misleading resultscould be produced when limited loci are matched roughly to acombination of environmental variables；（4）studies on gene flow and adaptation have not yet been combined；and（5）manystatistical methodscould be inappropriate for landscape genetics. Plantlandscape genetics studies should focuson solving these problems in the futureand move from the descriptionof spatial genetic structure to quantifying and predicting the efect of landscape pattrn on genetic variation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: plant landscape genetics；biodiversity；gene flow；genetic structure；adaptive genetic variation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "景观遗传学(landscape genetics)最早在 2003 年由 Manel 等提出,它结合了景观生态学和种群遗传学的方法,研究景观的结构连接度对功能连接度的影响,使景观连接度的研究完整化，对于生物多样性的保护具有重要意义[1]。2007年,Storfer等将景观遗传学更加确切地定义为明确量化景观组成、构型和基质质量对基因流和空间遗传变异的影响的研究[2]。当前,景观遗传学研究主要集中于两个方面:(1)用中性遗传变异评估景观和环境对迁移、传播和基因流的影响效果[3-4];(2)研究自然种群和个体中,环境与适应性遗传变异之间的相互作用[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来,分子遗传数据获取方法的进步及高分辨率景观数据的应用促进了景观遗传学，尤其是动物景观遗传学的快速发展。近年来的研究显示，景观遗传学研究中约 $8 0 \\%$ 的研究关注于动物，而只有约14 $5 \\%$ 的研究关注于植物[6],这可能是由于植物花粉和种子的传播机制使得植物景观尺度基因流的研究比动物复杂。但植物景观遗传研究对于生物多样性保护的重要意义是不可忽视的,它为森林等重要生态系统的保护、植被保护单元的划分与管理、物种的局地适应与进化等研究提供了有力工具。本文通过对近十年来国内外植物景观遗传学研究焦点与研究进展的总结,进一步探讨了当前该领域面临的问题及研究对策,为我国植物景观遗传学的基础研究及利用这一学科开展植物生物多样性保护及自然保护区管理研究工作提供必要的参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1植物景观遗传学的国内外研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1景观特征对遗传结构的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 自然景观格局的影响 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "景观格局指景观组成单元的类型、数量及空间分布与配置。景观格局影响植物繁殖体的传播与扩散及种群内或种群间的基因交流,进而影响遗传变异的空间分布。例如,自然界中环境因子的空间分异、地形起伏、生境梯度等往往对种群间的基因流具有重要影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "环境因子影响植物的生长和物候期,而植物间的基因流通过花粉和种子的传播而产生,因此环境因子的空间分异对于植物种群间的遗传分化具有显著影响。例如,Yang 等对内蒙古鄂尔多斯高原不同气候梯度下的锦鸡儿属植物的研究表明,相比于其他气候因素及距离隔离,降水量的差异是导致锦鸡儿（Caraganagenus)种群间遗传分化及适应性趋异的主要因素[7];而Gao 等的研究表明相比于地理距离,土壤盐度是黄河三角洲芦苇(Phragmites australis)种群间的遗传距离形成的主要原因[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地形起伏形成的地理障碍常作为遗传障碍阻碍种群间的基因交流,而河流、河谷等往往能够促进种群间的基因流。研究表明,牡丹(Paeonia rockii)的基因流受到秦岭山脉的阻隔[9],日本桦（Betula maximowicziana)种群间的基因交流受到秩父山山脊的阻碍[10];小河流和高地对三角叶杨（Populus fremonti）的基因流具有抑制作用,而较大及中等的河流则会促进种群间的基因交流[1];神农架自然保护区中的山脊和河谷分别作为领春木（Euptelea pleiospermum)种群间基因流的障碍和廊道,Wei 等据此推断出领春木应对气候变暖的对策[12]；高大的山脉、高原 沙漠等阻碍了亚洲地区胡桃(Juglans regia L.)种群间的基因流,从而形成集中在吉尔吉斯斯坦西部、亚洲西部、南部至中部、乌兹别克斯坦西部到中部、中国新疆和山东等地的四个类群[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生境梯度对种群遗传结构的作用主要通过影响植物种子与花粉的传播能力来实现。 $\\mathrm { H u }$ 等发现了山地与河滨生境对水曲柳(Fraxinus mandshurica)空间遗传结构的不同影响,山地生境中水曲柳种子的传播能力较低,导致各种群内部形成显著的小尺度空间遗传结构,而其种子可以顺着河流传播很远,导致沿着河流的各个种群内及种群间的遗传结构不明显,也导致了山地与河滨生境之间水曲柳种群显著的遗传分化[14]。Guajardo等的研究也证实了生境梯度对香花儿茶(Senegalia mellifera)种群间基因流的限制[15]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 景观破碎化的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "景观破碎化的遗传效应是景观遗传学的核心问题[16]。一般而言,破碎化导致生境斑块面积的减小及斑块间隔离的增加,使有效种群大小和基因流减少,遗传漂变和自交水平增加,进而导致遗传多样性的减少及种群间遗传分化的增加[17]。Jump 等比较了破碎化生境与连续生境中的欧洲山毛榉(Fagus syluatica)的遗传结构,发现破碎化的山毛榉森林形成了遗传障碍,并破坏了物种的繁殖系统,造成种群分化及近交水平显著提高,种群内的遗传多样性减少[18];Dubreuil 等在对西班牙东北部蒙特塞尼山长期破碎化生境中的欧洲红豆杉（Taxus baccata)的研究中发现了显著的空间遗传结构,并在这种异型杂交的物种种群中发现了较高的近交水平[19];Chung 等的研究表明破碎化显著影响了春兰(Cymbidium goeringi)种群的遗传结构,使得破碎化种群间的遗传分化相当于连续种群的2—3倍[20];Yao 等对破碎化生境中的长果安息香（Changiostyrax dolichocarpa)的研究也表明破碎化种群间的现时基因流受到限制[21]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但也有研究证实,破碎化种群间仍然存在良好的基因交流,例如Kamm等用亲本分析的方法,评估花楸果（Sorbus domestica）的现时基因流格局,发现在该树种破碎化的亚种群之间存在良好的功能连接度[22]。景观破碎化的遗传效应受到多种自然、人为因素的影响。首先,植物的生活史特征影响景观破碎化的遗传效应。相比于草本植物,树种由于其异型杂交的交配系统、广泛的基因流以及较大的种群尺度,使得其种群内的遗传多样性较高,而种群间的遗传分化较低[23]。Aparicio 等的研究证实了破碎化景观中寿命长、异性杂交的树种相比于寿命短、自交为主的树种具有更低的遗传分化和更高的遗传多样性[24]。在破碎化生境中,长距离的花粉传播是保持种群间遗传连接度的有效途径。一系列研究表明,由于长距离的花粉传播，使得酸刺柏（Juniperus oxycedrus）[25]等风媒树种,伞花木(Eurycorymbus cavaleriei)[26]等虫媒树种破碎化的种群间具有较高的遗传连接度。由于花粉和种子传播机制的不同,生境破碎化对于花粉和种子基因流的影响也有差异。Medina-Macedo 等发现,疏林中巴西南洋杉（Araucaria angustifolia）花粉的传播距离大于森林中花粉的传播距离,说明破碎化能够增加风媒树种花粉的传播能力[27]。由此可见,对于风媒树种而言,在轻微破碎化的景观中,破碎化的遗传效应往往并不明显;但破碎化往往使种子的传播受到限制,从而易在破碎化种群中形成小尺度的空间遗传结构[28]。其次,种群密度和个体数量也影响景观破碎化的遗传效应。一般而言,破碎化会使种群密度小、个体数量少的植物种的遗传多样性显著减少,而对种群密度大、个体数量多的植物种则没有显著影响[29]。另外,人类的有效管理可以在一定程度上减少破碎化的负面影响。Honnaya 等的研究发现,长期的生境破碎化并没有显著影响黄苜蓿（Anthylisulneraria)种群的遗传多样性和分化,这可能与家畜在斑块间移动从而导致的种子交换有关,说明放牧的有效管理不仅可以提高生境质量，而且可能减缓破碎化的遗传效应[30]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2环境因素对适应性遗传变异的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人类活动导致的全球环境变化在所有空间尺度上造成动植物选择机制的迅速变化，而动植物的适应性进化能否跟上环境变化的速度,成为了人类当前面临的一大挑战。因此,确认环境及景观因子对野生物种适应性遗传变异的影响至关重要。景观遗传学研究中使用的分子遗传标记绝大部分是中性标记,但中性遗传多样性只间接受到影响基因流或交配过程的环境因子的影响,并不直接与适应性遗传变异相关[31,32]。由此,景观遗传学产生了一门独立的分支学科——景观基因组学,其研究的自然种群中适应性基因位点的空间分布及生态意义,将有助于深人理解动植物对环境的适应性以及有效管理适应全球变化的遗传资源[33]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当前的景观基因组学普遍使用单核苷酸多态性(SNPs)方法进行标记。SNP 是指基因组水平单个核苷酸变异引起的DNA水平的多态性,包括单碱基的转换、颠换、插入与缺失等形式[34]。SNPs与功能基因的紧密关联使其相比于扩增片段长度多态性（AFLPs)、微卫星（SSRs)等遗传标记方法更适用于景观基因组研究[35]。景观基因组研究无需表型数据,而直接将环境数据与基因组区域内选择下的基因位点相关联。Eckert等分析了682 棵火炬松（Pinus taeda,Pinaceae)个体中1730 个基因位点的 SNPs 变异的地理格局,研究发现了许多具有显著遗传分化的基因位点,并推断这些基因位点是干旱压力的功能基因[36]。Geraldes 等对毛果杨（Populustrichocarpa）的研究表明 $\\mathrm { \\Delta F _ { \\mathrm { s t } } }$ 异常 SNPs的等位基因频率与气候因子相关[37]。另外,将景观基因组学与同质园实验相结合,能够更好地理解植物的局地适应[38]。例如 Kort 等在 356 棵欧洲桤木（Alnus glutinosa）个体的",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1990个SNPs中确认了 $2 . 8 6 \\%$ 的异常 SNPs,并发现气温与叶片大小及异常的等位基因频率之间具有明确的相关性[39],此研究也为非模式物种局地适应的研究提供了一种综合性方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前的植物景观基因组学研究案例的数量较少,但景观基因组学建立起环境异质性与适应性遗传变异格局之间的联系,使得进化生物学的相关问题受到的越来越多的关注[5]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2植物景观遗传学与动物景观遗传学的异同",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于动植物的迁移和传播方式不同,使得植物和动物景观遗传研究有一定差异。植物的基因流主要通过种子中二倍体胚胎和花粉中单倍体雄性花粉的传播产生,并且其繁殖体的传播依赖于多种生物或非生物媒介,如风、水流、动物、重力等;而动物个体迁移到另一地进行交配就可以产生基因流。因此,当评估迁移、传播和基因流时植物研究比动物研究复杂得多,这也是植物景观遗传研究从研究数量和研究方法上均落后于动物研究的主要原因之一。笔者从研究区类型、空间幅度、所考虑的景观因素、样品、常用遗传标记\\遗传多样性指标、分析方法等方面比较了植物景观遗传研究与动物景观遗传研究的异同（表1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a09247fdff3ea6f5793a4a7da2014ca578ff6a735ad6780f46727863e552b67.jpg",
+        "table_caption": [
+            "表1动植物景观遗传学异同对比",
+            "Table1 Comparisons of landscape genetics of plants and animals "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">研究对象Research Object</td></tr><tr><td>植物 Plants</td><td>动物 Animals</td></tr><tr><td>研究区类型[9,40-41] Type of area</td><td>自然、半自然景观</td><td colspan=\"2\">自然、半自然、人工景观</td></tr><tr><td>空间幅度[9404,42]Sspatial extet</td><td>10—10km²</td><td colspan=\"2\">10—10km²</td></tr><tr><td>景观因素[10,41,43]</td><td>自然景观因素(山脉、河流、海拔高度等);非栖自然景观因素(山脉、河流、海拔高度等);非栖息地</td><td colspan=\"2\"></td></tr><tr><td>Landscape variables 样品[12,44] Sample</td><td>息地区域 叶片</td><td colspan=\"2\">区域;人工景观因素(道路、居民点、建筑物等) 排泄物、组织、血液</td></tr><tr><td>常用遗传标记[6] Molecular marker</td><td>微卫星、等位酶、扩增片段长度多态性</td><td colspan=\"2\">微卫星</td></tr><tr><td>常用遗传多样性指标[6,28]</td><td>等位基因丰富度(A,）、观察杂合度(H。）、期望杂</td><td colspan=\"2\">等位基因丰富度(A,）、观察杂合度(H）、期望杂合</td></tr><tr><td>Genetic diversity measures</td><td>合度(H）遗传分化系数（F）</td><td colspan=\"2\">度(H）遗传分化系数(Fst)</td></tr><tr><td>Analytical methods 常用分析方法[3.6,9,44]</td><td>Mantel检验;距离隔离检验（IBD）；贝叶斯聚类 （Bayesianclustering）；分子变异方差分析 （AMOVA）;亲本分析（parentage analysis）</td><td colspan=\"2\">Mantel检验;局部Mantel检验;最小成本路径分析 （least-cost path analysis）;距离隔离检验(IBD）;贝叶 斯聚类（Bayesian clustering）；分子变异方差分析 （AMOVA）;分配检验（assignment test）</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "动植物景观遗传研究在研究的空间幅度和遗传多样性指标的选取方面较为相似。根据研究目的及研究对象的迁移、传播等特点,选择研究的空间幅度,从十几平方千米的小尺度到百万平方千米的大尺度都是动植物景观遗传研究适用的空间幅度。景观遗传学研究通常用等位基因丰富度 $\\left( \\boldsymbol { A } _ { r } \\right)$ 、观察杂合度 $( H _ { o }$ ）、期望杂合度 $( H _ { e } )$ 等来量化遗传多样性,而遗传分化系数( $\\langle F _ { s t }$ )（包括由其衍生的 $G _ { s t } \\mathrm { ~ , ~ } G _ { s t } ^ { \\mathrm { ~ \\prime ~ } } \\mathrm { , ~ } R _ { s t }$ 等)是景观遗传研究中最常用的遗传距离度量[6]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "动植物景观遗传研究的差异主要体现在以下几方面。在研究区类型方面,由于景观遗传研究选择的研究对象通常为自然物种,因而植物景观遗传研究的区域往往为自然、半自然景观,在半自然景观中以农业景观的研究最多[40],而动物研究可以选择城市等人工景观作为研究区域[41]。动物景观遗传研究所考虑的景观因素要比植物研究复杂的多,例如大量研究证实了道路等人工景观因素通常作为动物移动、迁移、基因流的重要障碍,减少动物种群间的功能连接度,增加种群间的遗传分化和个体的遗传距离[45];而植物研究则通常将这些人工景观因素简化为非栖息地区域,不予单独考虑其影响。植物样品一般采取新鲜植物嫩叶[12],这是由于成熟的叶片中较高的糖和蛋白质含量影响 DNA的纯度,而植物的根茎则不易采集和研磨;动物样品通常取动物的排泄物、组织或血液[44]。微卫星是景观遗传研究最常用的遗传标记方法,等位酶和扩增片段长度多态性在植物研究较常用,而在动物研究中应用较少。由于植物花粉与种子的传播依靠多种生物、非生物媒介,使得动物研究中广泛使用的最小成本距离在植物研究中很少应用,因此局部 Mantel检验方法在植物景观遗传研究中的应用较少,而植物研究主要使用Mantel 检验等方法来检验遗传距离与地理距离间的相关性[9]。在评估现时基因流格局时,植物景观遗传研究常使用亲本分析法（parentage analysis）,这种方法可以清楚的区分出植物种子和花粉的基因流[224];而动物景观遗传研究常应用分配检验法（asignment test）[41],这种方法主要通过辨别迁移者来评估现实基因流,因此在植物研究中少有应用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3目前研究中存在的问题与对策",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "纵观目前的植物景观遗传学研究，还存在以下问题和不足。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)景观特征与遗传结构研究设计的系统性差。迄今大多数的景观遗传研究没有明确的研究设计[3],这一问题在植物研究中更为显著。而造成这一问题的主要原因之一是缺少景观特征影响植物传播的相关数据[47],例如,河流可能帮助植物繁殖体的传播,亦可能阻碍植物种群间基因流的传播[11];山脊可能作为遗传障碍,但对于远距离传播的植物而言,山脊可能对其基因交流并没有显著的负面影响[10.8]。因此目前的大多数研究仅仅提出类似“景观是否影响了种群间的基因交流”或“哪种景观因素影响了植物传播”这种基础性问题。另外,由于上述设计的缺陷,使得研究者无法制定清晰而明确的采样策略,这对于研究结果也产生一定程度的影响。采样策略的制定在景观遗传学的研究中十分重要。首先,采样策略应作为提出的假设的反映,有效地捕捉与研究目标相关的景观特征;其次,采样策略的制定应考虑适当的空间尺度,对于植物而言,取样的范围不应小于植物种子和花粉的传播距离[49]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)遗传结构与景观格局在时间上的误配。种群遗传结构的形成需要基因流在一定时间上的积累,所以遗传结构相对于导致其形成的景观格局往往具有时间上的滞后性(时滞)。一般而言,遗传结构或遗传距离更能够反应历史的景观格局。然而,最近有研究表明,相比于历史景观,遗传距离能更好地反应现时景观。例如 Zellmer 等的研究发现,1978 年后的景观比19 世纪初的历史景观更能解释树蛙(Rana syluatica)种群间的遗传分化[50]。Landguth 等针对时滞问题进行的一项计算机模拟研究的结果表明,加入或移除障碍后,数代内便可在种群间检测出遗传反应,而检测出遗传反应所需的时间主要取决于物种的传播距离及寿命长度[51]。由此可见,遗传结构与景观格局间的时滞问题仍然有待解决,而区分现时及历史的景观过程对种群遗传结构的影响成为当前乃至未来研究的一大挑战。迄今的研究暗示,将历史和现时的景观与遗传结构分别进行匹配，可能是解决这一问题的有效途径[16,30]。另一方面,在研究方法上,选择恰当的遗传标记对解决时滞带来的误配问题也非常重要：微卫星对于小尺度遗传分化的研究较为有效,AFLPs常用于确定较大时空尺度的基因流，而线粒体和叶绿体DNA由于其更低的进化率而更适合于大尺度的研究[49]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3)适应性位点与环境变量的模糊匹配。景观基因组学方法可直接用环境数据与基因组中选择下的基因位点相关联,但多数情况下,将少数位点与环境变量简单匹配将可能产生模糊的结果。由于一个单基因可以影响多种适应性相关性状,而有些表现型的表达是通过多个基因间的相互作用决定的,因而确定多个选择下基因的作用及其相互影响是一项复杂的任务。Balkenhol等提出将基因型格局分析作为选择梯度的函数对于评估和证实理论上的预测是重要且有效的[52]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4)中性遗传变异与适应性遗传变异研究的分隔。局地适应是基因流和多种自然选择因素相平衡的结果[3]。全面理解全球环境变化对动植物的影响,深入地进行格局—过程的分析,需要将景观遗传学研究中的中性遗传变异与适应性遗传变异相结合。但目前的大部分研究应用中性遗传标记评估基因流、迁移、传播等过程,检验中性遗传变异在异质性景观中的分布规律;与此同时,景观基因组学着重于应用复杂的方法确认控制适应性性状的基因位点，而这两者之间缺乏紧密的联系。因此，如何充分利用现有的及新的进化生物学和分子生态学方法,将适应性遗传变异与中性遗传变异相结合,成为景观遗传学,尤其是植物景观遗传学研究中的一大挑战。近年来Manel等提出,将中性与适应性遗传变异的研究相结合可以评估景观中适应性等位基因的基因流,也可以研究基因流与选择作用间的相互作用[5],这为该领域研究提供了可行的方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(5)景观与遗传关系分析方法的局限。景观遗传学研究中需要使用多种统计学方法分析遗传结构，并将遗传结构与景观特征联系起来。但这些统计学方法绝大部分来源于种群遗传学、空间统计学等其他学科，这些模型与方法并不考虑景观的空间异质性,因此其应用在真实的景观情景中的可靠性还有待考证。检验遗传结构与景观格局间的相关性,目前最常用的方法是Mantel检验,但近年来Mantel检验及其相关方法遭到了强烈的质疑[53]。Balkenhol等的研究表明 Mantel检验和局部 Mantel 检验在景观遗传研究中的第一型错误率较高,而多元非线性方法更适合景观遗传学研究中的数据分析[54」。应用新兴的计算机模拟方法可以对现有的统计方法进行比较和改进,并设计新的统计方法,建立景观遗传学最佳分析策略[54-55],这对于景观遗传学未来的研究至关重要。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "纵观近十年来植物景观遗传学的发展,其理论内涵不断深化、研究方法日益完善、研究范畴不断拓展,在遗传资源的保护与管理方面发挥着日益重要的作用。但植物景观遗传学不应仅局限于对空间遗传结构的描述,而应发展为对景观遗传效应的量化分析及预测,这对于景观遗传学在生物多样性保护中的应用具有重要意义。未来的植物景观遗传学研究需要加强实验研究与计算机模拟的结合,优化研究方案并理解景观遗传过程的时空尺度关系;深人研究珍稀野生物种景观—遗传格局的同时,注重多物种研究,并推断遗传变异的一般格局,分析景观格局对基因流及适应性遗传变异的普遍影响;融合种群遗传、景观生态、地理学、空间统计学、生态学、进化论、系统发生生物地理学等相关学科知识与方法,从新的角度深入理解景观中维持种群生存和发展的生态和进化过程。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢中国科学研究院沈阳应用生态研究所胡远满研究员的帮助。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Mane,hartz,kartG,berletPndaegeticsobgsapdpulatiogenetirendsiol&Evolution,2003,18(4）：189-197.  \n[2]StorferA,MurpyMA,EvansJS,GoldbergCS,RobinsonS,SpearSF,DezaniR,DelmelleE,VieringL，WaitsLP.Putingthe\"landscape\" in landscape genetics.Heredity,2006,98(3）：128-142.  \n[3] HolderegerR,BuehlerD，GugerliF,Manel S.Landscape geneticsof plants.Trends in Plant Science，2010,15（12）:675-683.  \n[4] 薛亚东,李丽，吴巩胜，周跃.景观遗传学：概念与方法.生态学报，2011，31(6)：1756-1762.  \n[5] ManelS，Holderegger R.Ten yearsof landscape genetics.Trends in Ecology& Evolution,2013，28(10）: 614-621.  \n[6] Storfer A, Murphy M A, Spear S F Holderegger R，Waits L P.Landscape genetics:where are we now? Molecular Ecology，2010,19（17）:3496-3514.  \n[7] YangJY,usSagJangJtsaicgadieseiciettofgoOeChina.Landscape Ecology，2013,28(9)：1729-1741.  \n[8] GaoLXTangSQ,ZgeL,,ZZ,B,angtieictruceaturalopuiosgitesustrlisofsaline habitats in the Yellow River Delta，China.PLoS One,2012，7(8）：e43334.  \n9 YanJH,CengF,ZuSLenetictructureoftetrepey（eoocindeQilgotaissapcigtefragmentation of a large population.PLoS One,2012,7(4）:e34955.  \n[10] TsudaY,SawadaHOsawaT,akaoK,isikawaH,deY.LandscapegeneticstructureofBetul maximowiczanineChiibuotainrange，central Japan. Tree Genetics & Genomes，2010,6(3）：377-387.  \n[11] CushmanSA,ax,eesesEvasLFerrerSHcakB,ihamG,lnGJ.Lascapegenetoivitinafoundation treeis jointlydrivenbyclimaticgradientsandrivernetworks.EcologicalApplications，2014,24（5）：1000-1014.  \n[12] WeiXZ,MngHJagsaeGeticuctureofsdersesEpteeeospeu（Eupteleace）sigolof river valley and mountain ridge.PLoS One,2013,8(6)：e66928.  \n[13]PoegosteKEoFlperokJeEpelilvodapegeewalnut（Juglans regia L.）across its Asian range.Tree Genetics &Genomes，2014，10(4）：1027-1043.  \n[14]HuLJ,UchaK,hnH,IdYulplealedspatialgetructureofFriusmdshuricoipaan-outaildapein  \n[15]Ruiz GajardJC,SabelA,EosR,PresS，Oter-AraizA，StoneG.LandscapgeneticsfthkeyAfrcancaciaspeciesSeegliamellifera（Vahl)-the importance of the Kenyan Rift Valley.Molecular Ecology,2010,19(23）:5126-5139.  \n[16］沈泽昊，吉成均.景观遗传学原理及其在生境片断化遗传效应研究中的应用.生态学报，2010,30（18)：5066-5076.  \n[17]YoungylroTeopulatiogeeticoseuencofatfragtatoforlantsresiEolog&Evolutio996(10): 413-418.  \n18]Jseafthe United States of America，2006，103(21）：8096-8100.  \n[19]DubrelbaletSeGbsFaesofatfistronggeneticcureieatetusace），iteatispsalbilJuaof303-310.  \n[20]ChungM,soJ,Le-PuolJmashio,YangB,uYB，ug.Geicosequecsoffragmetioulaisfthe terrestrial orchid Cymbidium goeringi. Biological Conservation，2014,170：222-231.  \n[21]YaoXHeGangaHosatelialysevelstepopuaodetitodoiagChangiostyrax dolichocarpa（Styracaceae）with fragmented distribution incentralChina.NewPhytologist，20o7,76(2)：472-480.  \n[22]Kamm U,Rotach P,Gugerli F,Siroky M,Edwards P,Holderegger R.Frequent long-distance gene flow temperate forest tree（Sorbusdomestica）at the landscape scale.Heredity，2009,103(6)：476-482.  \n23]Nybopaoffaotaigsiesitytsleol：1143-1155.  \n[24]Aparicio A，Hampe A，Fernandez-Carillo L，Albaladejo R G.Fragmentation l comparative genetic structure offour mediterranean woodyspecies：complex interactions between life history traits and the landscape c text.Dive ty and Distributions，2012，18(3）：226-235.  \n[25]CurtoMgueiraeja，AmoriFaMeibergfueceofsgiculuralfrgmentatiotheenetirucuJuniperus oxycedrus in a Mediterranean landscape.Tree Genetics & Genomes 2015,11: 32.  \n[26]Wang J, Kong M, Huang H W. Long-distance pollen dispersal ensures c connectivityofthelow-densitytre species，urycorymbuscavalee,in a fragmented karst forest landscape. Conservation Genetics,2014，15(5）:1163-1172.  \n[27]Medina-acedL,bAcedAE,bJZocecortV.iglvesfgeiersityofowof theconiferous Araucariaangustifolia：alandscapelevelstudy inSouthern Brazil.TreeGenetics &Genomes，2O15,11:814.  \n[28]Wang R, Compton S G,Chen X Y.Fragmentation can increas spatial genetic structure without decreasing pollen-mediated gene flow in a wind-pollinated tree.Molecular Ecology，2011，20(21）：4421-4432.  \n[29]VandepiteK,JacqH-uzaOndapegeicsoftesepaibleforsthbGbatsabiatage,fragmentation and local environment. Molecular Ecology，2007,16(19）：4171-4179.  \n[30]HonnayOCoartE，utaeJdriensD,VanGabekeS，oldn-Ruz.Lwpctfresentandstoriallndcapeconfigatioothgenetics of fragmented Anthylis vulneraria populations.Biological Conservation,206，127(4): 411-419.  \n[31] Holderegger R，Wagner HH.A brief guide to Landscape Genetics.Landscape Ecology，2006,21(6)：793-796.  \n2]HoldreUrltietstlfaea797-807.  \n[33] Manel S,JoostS，EpersonBK,HoldereggerR，StorferA，Rosenberg MS，SribnerKT,BonnA,FortinMJ.Perspectivesontheuseoflandscape genetics to detect geneticadaptive variation in the field.Molecular Ecology，2010,19(17）：3760-3772.  \n[34]）施永彬，李钧敏，金则新.生态基因组学研究进展.生态学报，2012，32（18）：5846-5858.SorkVL，AitkenSN，DyerRJ，EckertAJ，LegendreP，NealeDB.Putingthelandscapeintothegenomicsoftres：approachesforunderstanding local adaptationand populationresponses tochanging climate.TreeGenetics &Genomes，2013,9（4）：901-911.  \n[36]EckertAJowDle-JoGaleDactatuolicalgeooflblolyistaeda，Pinaceae). Molecular Ecology，2010,19（17）：3789-3805.  \n[37]GeraldesA,Farzaneh N,GrassaCJ，McKownAD,GuyRD,MansfieldSD,DouglasCJ，CronkQCB.Landscapegenomicsof populustrichocarpa：teoleofhybridization，limitedgenfondnaturalselectioninsapingpatesofpopulationstructure.Evolutio，14，68(11):3260-3280.  \n[38]LepaisOaclesCFE.Toareeeaoeombingdsaegeosdongardsfoetinglcaladaptatifotr.Molecular Ecology，2014，23（19）:4671-4673.  \n[39]DeKortHVandepiteK,ruunH,loetKoD,aergeaLdscaegeoisdcoongrdentrilevealaptivediferentiationto temperatureacross Europe inthetre species Anus glutinosa.MolecularEcology，2O14,23（19)：4709-4721.  \n[40]Schidruster,iaJgeseaftsfsarucugetisurbanumL.populatiosiculturallanscas.-ophologistrbutio,uctioalEolgofants，,4）49.  \n[41]NoelS，OueletM，GalsPLapointeFJImpactofurbanfragmentationnthegeneticstructureoftheastered-backedsalaander.Conservation Genetics，2007，8(3）：599-606.  \n[42]LiSZ,WangYX,YangK,LiuQ，WangQ,ZhangY，WuXH,GuoJG，BergquistR,ZhouXN.Landscapegenetics:thecorelationofspatialandgisasfepesis，teteailfocidspalt2009，3(2):221-231.  \n[43]ZanAengL,uJZigoutaistallsopulatogenetrucuofeeseodg（RnahssTsinling and Daba Mountain region of Northern China.BMC Genetics,2OO9,10：17.  \n[44]LiuZJ,RenBP,WuRD,ZhaoL,HaoYL，WangBS,WeiFW,LongYC,LiM.TheefectoflandscapefeaturesonpopulatoneeticstructureinYndks（ptcusie）popenicttiityularo（）3831-3846.  \n[45] HoldereggerR,Duloegeneticectsofroads：reviefpiicaleviden.BasicndldEo,1).  \n[46] Sork VL，SmousePE.Geneticanalysisoflandscapeconnectivityintreepopulations.LandscapeEcology，Oo6,21（6):82-836.  \n[47] SegelbacherG,shanS,EppersonBK,FortinJ,Fracois,HardyO,HlderegerR,berletWitsL,anelaoof landscapegenetics inconservation biology:conceptsand challenges.Conservation Genetics，201o,11（2)：375-385.  \n4]Rialpine glacier forelands.Heredity，2008,100(5）：526-532.  \n[49]AndersoCD,EpersoBK,ortinMJ,HlderegerR,JamesPA,RsenbergMS,SrberKT,SpearS.Cosideringspaialtemporal scale in landscape-genetic studies of gene flow. Molecular Ecology,2010,19(17) : 3565-3575.  \n[50]ZllerAsisalintsfstteasaueoieEcology，2009，18（17）：3593-3602.  \n[51] LandguthEL，CushmanSA,Schwartz MK,McKelveyKS,MurphyM,LuikartG.Quantifyingthelagtimetodetectbariersinlandscapegenetics.Molecular Ecology，2010，19（19）：4179-4191.  \n[52]BalkenolN,GgerliF,CushanSA,WaitsL,CouloA，AtenJW,HlderegerR,WangrHHIenifngfutureeseasinlandscape genetics:where to from here? Landscape Ecology，2009,24:455-463-463.  \n[53] Raufaste N,Rousset F.Are partial mantel tests adequate? Evolution,2001,55(8）：1703-1705.  \n54BalisJisiafddtaEcography，2009，32(5）：818-830.  \n[55]BlairC,WeigelDE,BalazikM,KeleyATH,WalkerFM,LandguthE,CushmanS,MurpyM,WaitsL,BalkenholN.Asiulatio-basedevaluation of methods for inferring linear barriers to geneflow.Molecular Ecology Resources，2O12,12(5）:822-83.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

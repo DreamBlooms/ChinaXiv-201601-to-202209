@@ -1,0 +1,158 @@
+# 伞形科“东亚分支”系统学研究进展
+
+周静」，郭明佳1，刘振稳2\*
+
+（1．昆明医科大学，药学院暨云南省天然药物药理重点实验室，昆明650500；2．中国
+
+科学院昆明植物研究所，东亚植物多样性与生物地理学重点实验室，昆明650201)摘要：伞形科作为被子植物中非常重要的类群，一直以来都是分类学研究的热点和难点。分类学家在分子生物学证据的帮助下，正努力构建一个相对合理，且能够反映各类群系统发育关系的分类系统。东亚分支（East-AsiaClade）正是近年来通过分子生物学手段构建伞形科新的分类系统过程中命名的分支之一。该分支在地理空间上以东亚为主体，集中分布于中国喜马拉雅区域。在东亚地区复杂的地质演化历史背景下，目前该分支的范围并未准确界定，分支内部复杂的演化关系也没有解决。而东亚分支系统学问题的最终解决，将给芹亚科大系统框架的构建带来新的认识。该文结合最新的分子系统学研究结果，回顾了东亚分支提出的历史背景，东亚分支的建立及其在芹亚科中的系统位置，以及东亚分支各属的界定及其系统关系。目前已有的研究结果表明，东亚分支现有约16个属，在芹亚科系统树上与Komarovieae构成姐妹群关系；除了Heptaptera、Keraymonia 和膜苞芹属外，其余各属均不构成单系，部分属（如滇芎属、茴芹属和瘤果芹属等）的模式种落入芹亚科别的分支。此外，该文还对研究东亚分支的意义以及该分支目前存在的问题进行了讨论，同时指明了其未来的研究方向。
+
+关键词：伞形科，东亚分支，系统分类学，中国-喜马拉雅
+
+# Advances in the study of systematics of “East-Asia Clade"
+
+# in Apiaceae
+
+ZHOU Jing1, GUO Mingjial,LIU Zhenwen²\*
+
+(1. School of Pharmaceutical Science & Yunnan Key Laboratory of Pharmacology for Natural   
+Products, Kunming Medical University, Kunming 650500, China; 2. Key Laboratory for Plant Diversity and Biogeography of East Asia, Kunming Institute ofBotany, Chinese Academy of Sciences,Kunming 650201, China ）
+
+Abstract: Apiaceae (Umbelliferae),a large and readily identifiable family of flowering plants, with about 3575 species in 455 genera, is widely distributed in the temperate zone of both hemispheres, mainly in Eurasia and especially in C Asia. As its important phylogenetic position in angiosperm, it has always been a focal point in taxonomic research. With the evidence of molecular biology, taxonomists are trying to construct a relatively reasonable classification system of Apiaceae that can reflect its phylogenetic relationships. The East-Asia Clade is erected in the process of constructing a new classification system by means of molecular biology in recent years.
+
+基金项目：国家自然科学基金（31960048和31460052）；昆明医科大学百名中青年学术和技术骨干项目 （60118260127）[Supported by the National Natural Science Foundation of China (31460052 and 31960048)；the Hundred-Talent Program of Kunming Medical University (60118260127)]。
+
+作者简介：周静（1981-），女，河南驻马店人，博士，副教授，研究方向为系统与进化植物学，（E-mail)Zhoujing_apiaceae@163.com。
+
+\*通信作者：刘振稳，博士，助理研究员，研究方向为系统与进化植物学，（E-mail）liuzw@mail.kib.ac.cn。
+
+It is mainly located in East-Asia and concentrated in the Sino-Himalayan region. However, due to the complicated historical background of geological evolution in East-Asia, the circumscription of this Clade is not well defined,and the evolutionary relationship within the Clade has also not been resolved. The phylogenetic resolution of the "East-Asia Clade" will bring new insight into the construction of large-scale systematic framework for the Apiacae subfamily Apioideae. In this review,in conjunction with our recent molecular studies,we briefly retrospect the history and progress of the studies on the classification and phylogeny of East-Asia Clade,including its establishment and circumscription, the relationships of genera in the East-Asia Clade. Recent molecular phylogenetic results indicate that the East-Asia Clade consists of about 16 genera,and it comprised a sister group relationship to the Komarovieae of subfamily Apioideae. Except for Heptaptera， Keraymonia and Hymenolaena, all other genera within this Clade are not monophyletic，with the type species of some genera (e.g. Physospermopsis， Pimpinela and Trachydium etc.） faling into other major clades of Apioideae.Therefore， the traditional circumscription between genera has been broken， which will bring a series of nomenclatural transfers.As the East-Asia Clade includes some medicinally important plants,to establish a set of standard identification system suitable for it will greatly promote the healthy development of traditional Chinese medicine industry, and provide guidance for folk safe medication. Furthermore, questions to be solved in its future study are also discussed.
+
+Key words:Apiaceae,East-Asia Clade, systematic classification, Sino-Himalayan
+
+近年来，分子生物学的迅速发展极大地促进了植物系统分类学的研究，利用DNA序列或基因组数据探讨植物类群的系统发育关系，建立起一种新的分子水平上的分类系统成为研究趋势。伞形科作为被子植物中非常重要的类群，一直以来都是分类学研究的热点和难点。分类学家在分子生物学证据的帮助下，正努力构建一个相对合理，且能够反映各类群系统发育关系的分类系统（也称作a"newDrude"）。芹亚科是伞形科中的骨干类群，所含属种数占比分别高达 $8 8 . 8 \%$ 和 $7 9 . 3 \%$ （Pimenov&Leonov，1993）。分子系统学的研究结果显示该亚科为单系，包括41个单系分支（Clade），以东亚为主体的"东亚分支"也在其中（Downie et al.，2010）。作为"东亚分支"的提出者，本文将结合最新的分子系统学研究结果，对该分支的研究背景、研究进展及可能存在的问题作一简单综述，从而促进伞形科东亚相关类群的进一步研究。
+
+# 1东亚分支提出的背景
+
+伞形科是被子植物种类较多的大科之一。据Christenhusz& Byng（2016）对被子植物的统计，该科包括3575种排名第18位，而属级水平上则以442属紧随菊科（1623属），禾本科（780属），豆科（751属）兰科（735属）及茜草科（590属）位列第六。该科植物广布于温带、热带地区，而中国、前苏联地区、欧洲（特别是地中海地区）和北美一起构成了该科的四大分布中心（佘孟兰和舒璞，1987；Sheh etal.，2005）。众所周知，伞形科植物因其分布广、种类繁多且类群间演化历史错综复杂而成为分类学界难啃的"硬骨头"之一。而其在药材、蔬菜、香料、观赏花卉等相关产业发展过程中所具备的潜力，以及在回答诸如"物种形成"这样的重大基础科研问题方面体现出来的价值，吸引着一代又一代的分类工作者投入到伞形科植物的野外资源调查评估、分类鉴定及不同层级的系统发育框架搭建过程中。中国作为伞形科植物的分布中心之一，也是开展分类学研究的重要阵地。在老一辈伞形科研究者的共同努力下，中国伞形科的家底基本被摸清，《中国植物志》和《FloraofChina》是这一成果的直接体现（单人驿和余孟兰，1979，1985，1991；Sheh etal.，2005）。伞形科在中国共有100属，614种，其中芹亚科为95属579种（特有属9个，特有种 323种），分别占该亚科世界属种总数的1/4和1/5（Shehetal.，2005）。
+
+伞形科传统分类系统中，Drude（1898）的系统曾得到广泛的应用，但由于历史的局限性该系统的构建主要运用了果实形态、解剖学等方面的形态学证据，若按现代单系发生的观点来看，系统内大部分的分支均为多系，不能真实地反映出伞形科各类群之间的系统演化关系（Heywood，1986；Shneyer etal.，1992）。自上世纪90年代中期，分子生物学证据开始运用到伞形科系统分类方面的研究以来(Downie＆Katz-Downie,1996;Plunkett etal.,1996)，该科的系统学研究进入了一个井喷的年代，而物种数占比高达 $80 \%$ 以上的芹亚科更成为研究的重点。研究者或是在整体上搭建了芹亚科大的框架（Plunkett&Downie，1999；Downie etal.，2000a，2000b；Downie et al.，2001，Valiejo-Roman et al.， 2002；Calvino et al.，2006;Ajani etal.，2008），或是针对亚科内某一族或属开展了具体的研究（Lee＆Downie，1999,2000；Downie et al.， $2 0 0 0 \mathrm { c }$ ，Neves & Watson，2004，Spalik etal.，2004；Sun & Downie,2004；Bone，2007；Chung，2007；Downie et al.，2008；Feist & Downie，2008；Logachevaet al.，2008）。芹亚科内部的演化关系一步步清晰起来，但是这些工作呈现出一个共同的特点，即研究区域主要集中于非洲，北美洲和欧洲（地中海区域），而东亚特别是中国的芹亚科类群鲜有涉及。当时，在严重缺失中国材料的背景下，芹亚科大的系统演化框架并不完整。直到2008年，周静等人将分布于中国的28个属的60个种整合到前人的研究中，综合形态及分子生物学的证据进一步优化了芹亚科大的框架结构，并首次提出了东亚分支East-Asia Clade的概念（Zhouetal.，2008）。
+
+东亚分支建立于Calvino等人2006年提出的滇芎分支Physospermopsis Clade基础之上，除包含滇芎分支原有类群中的6属8种外（北羌活属Hansenia未包括在笔者当时的分析中），还包括了茴芹属Pimpinella，小芹属Sinocarum和凹乳芹属Vicatia的代表类群，共计9属17种（Zhou etal.，2008），这一分支的建立还同时得到了叶绿体证据的支持（Zhou etal.，2009）。需特别指出的是，滇芎属的模式种滇芎Physospermopsis delavayi (Franch.)H.Wolff并不在此分支内，而是位于芹亚科基部的棱子芹族Pleurospermeae中，而且东亚分支在地理空间上以东亚为主体，集中分布于中国喜马拉雅区域，分支内部类群间形态上展现出一定的多样性，演化关系复杂。因此，用一个更具代表性的地理空间概念"东亚分支"较之于使用特定类群名称"滇芎分支"来命名该分支，前者的处理将更为合理，也容易被同行接受。从后续相关的研究工作来看，这一名称上的处理得到了广泛的支持和运用（Downie etal.，2010；Wang et al.，2014；Fereidounfar etal.，2016；Piwczyhski etal.，2018；Zhou et al.，2019）。东亚分支在芹亚科系统树上与Komarovieae构成姐妹群关系（图1），后者除包括中国特有属外，一些中亚分布的类群也落入其中（Zhouetal.，2009）。
+
+# 2东亚分支内部的系统演化关系
+
+目前，相较于伞形科其它深入研究的分支如水芹族Oenantheae，针果芹族Scandiceae和柴胡族Bupleureae等，东亚分支内部各类群间的关系更为复杂，主要表现出所含种类丰富（约16属，70余种）、传统认识的属间界限被打破、以及由于模式种位置的变化而带来的系列命名学问题等。基于近年来分子系统学的研究进展，现将东亚分支所包括的类群做如下介绍。
+
+北羌活属为一单型属，只包括Hanseniamongolica Turcz.一种。羌活属Notopterygium为中国特有属，有6种，其分生果的五条果棱均扩展成翅，但发展不均匀（Sheh&Watson,2005)。溥发鼎等（2000）依据小苞片的形状和其它特征，将该属划分为两个组：羌活组N.sect.
+
+Notopterygium（包括澜沧羌活N.forrestii H.Wolff，卵叶羌活N.oviforme Shan和宽叶羌活N.franchetii H.de Boissieu）和细叶组N. sect.Tenuifolium（包括羌活N.incisum Ting ex Chang,细叶羌活N.tenuifolium Sheh &Pu和羽苞羌活N.pinnatiinvolucellum Pu& Wang）。Pimenov etal.（2008）基于形态特征的分析，认为羌活属与北羌活属具有相似的果实解剖特征，因而将该属的所有类群转移到北羌活属。在东亚分支中，北羌活属不是一个单系，而是与单球芹Haplosphaera phaea Hand.-Mazz.和少裂凹乳芹Vicatia bipinnata Shan&Pu共同构成一得到强烈支持的单系分支（Zhou etal.，2009）。单球芹属包括两个种，主要分布于中国，不丹以及印度的东北部，单伞形花序密集成紧缩的球形使该属成为芹亚科中一个相对较易识别的类群。基于北羌活属模式种-H.mongolica Turcz.位于该分支且具有优先性，单球芹和少裂凹乳芹的系统位置值得进一步的研究。理塘藁本Ligusticum litangense Pu和尖瓣藁本L.weberbauerianum Fedde ex H.Wolff也落入该分支，Zhou et al.（2019）基于形态特征（果棱均扩展呈翅状）和分子系统学的研究结果，将前者并入澜沧羌活，而后者应为羌活的同物异名种。
+
+Heptaptera约有10种，主要分布于欧洲和中东地区（Tutin etal.，1968，Boisser，1972,Zohary，1972）。舟瓣芹属是中国西南地区特有的单型属，包括两变种舟瓣芹Sinolimprichtiaalpina H.Wolff和裂苞舟瓣芹S.alpina var.dissecta Shan&Liou，舟形的花瓣和紫黑色的花粉囊为该属的典型形态特征（Pan&Watson，2005a）。舟瓣芹属的两个变种在东亚分支与形态上差异很大的Heptaptera anisoptera(DC.) Tutin构成并系分支（Zhou et al.，2019）。Heptaptera其它物种（包括模式种H.colladonioides Marg.&Reut.）的系统位置，以及与舟瓣芹属的关系还有待于进一步的研究。
+
+滇藁本属Hymenidium最初建立时只有两个种（Lindley，1835）。基于47个形态性状的分类学研究，将它的界限扩大到包括中国喜马拉雅地区的棱子芹属Pleurospermum以及其它几个属的类群，共有35种（Pimenov＆Kljuykov，2000a）。滇藁本属就目前的界限而言不是一个单系，该属的模式种-H.brunonis Lindl.位于滇芹分支Sinodielsia Clade，一部分类群位于棱子芹族和丝瓣芹分支AcronemaClade，另有5个种分散在东亚分支（Zhou et al.，2019）。因此滇藁本属存在大量的命名学问题有待解决。
+
+![](images/bbd0e5064d1457ebbe128d099bc23f4108fce89c18682f935a58f7f335c69ae2.jpg)  
+图1伞形科芹亚科（Euapioids）主要分支的系统关系（示东亚分支系统位置） Figure 1 Summary of relationships among the major clades of Apiaceae subfamily Apioideae (showing the phylogenetic position of East-Asia Clade)
+
+膜苞芹属Hymenolaena包括3种，分布于喜马拉雅西部，阿富汗和中东地区，其最明显的特征是一回羽状分裂的叶片和大而明显且几乎全为膜质的小苞片（Pimenov&Kljuykov，2000b）。该属是东亚分支少有的自然类群，其三个种在东亚分支聚成一支持率很高的单系分支（Valiejo-Roman et al.，2012，Zhou etal.，2019）。
+
+Keraymonia目前包括4种，分布于尼泊尔、不丹以及中国的西藏（Pimenov&Kljuykov,2000b）。分子系统学的研究表明，Keraymonia cortiformis Cauwet&S.B.Malla在东亚分支形成一个比较孤立的分支（Zhou etal.，2019）。
+
+1835年，Lindley以瘤果芹T.royleiLind1.为模式建立瘤果芹属Trachydium，现约6种，广泛分布于中亚到喜马拉雅地区和中国西南地区（Pu&Watson，2005a）。历史上，许多具有短缩茎和匍匐茎的中国-喜马拉雅高山类群都曾被归属到瘤果芹属，如矮伞芹Chamaesciadium acaule C.A. Mey.， 矮泽芹 Chamaesium paradoxum H. Wolff及紫脉滇芎Physospermopsisrubrinervis(Franch.)C.Norman等；根据最新的国际植物名称索引（TheInternational Plant Names Index，https://www.ipni.org/）检索结果，以瘤果芹属命名的分类群数目为63个（International Plant Names Index，2019）；Pimenov&Kljuykov(200ob)则将瘤果芹属看成是只包括模式种的单型属。和瘤果芹属关系争议较多的是滇芎属，该属约有10种，主要分布于中国-喜马拉雅地区，其显著的形态学特征是具有明显的,像叶片一样的苞片（Pan&Watson，2005b）。基于形态，孢粉及地理分布等方面的研究，王萍莉和溥发鼎（1992）推测滇芎属可能起源于古地中海，由棱子芹属演化而来，是随着喜马拉雅的隆升而逐渐分化形成的新生类群。因具有许多相近的形态学特征，瘤果芹属和滇芎属自建立以来彼此之间属的界限时常混淆，部分种类难以归属（如小滇芎Physospermopsis kingdon-wardi (H.Wolff)
+
+Norman），存在许多系统分类问题。此外，它们与其它一些近缘属如东俄芹属（Tongoloa）、小芹属、矮泽芹属（Chamaesium）、种沟芹属（Aulacospermum）和棱子芹属，甚至与苞裂芹属（Schulzia）、矮伞芹属（Chamaesciadium）以及藁本属的界限也时有争议（蒲高忠和刘启新，2006）。分子系统学的研究表明（Zhouetal.，2019），滇芎属和瘤果芹属与茴芹属、东俄芹属、小芹属、舟瓣芹属、滇藁本属以及Heptaptera anisoptera混杂在一起，属间界限不清，特别是滇芎属和瘤果芹属的模式种均位于芹亚科基部的棱子芹族，这涉及到诸多分类命名学问题，需要进一步处理。
+
+茴芹属现知约150种，间断分布于非洲，欧洲和亚洲，少数种类分布到南美地区，其果实两侧扁压，合生面收缩，果棱线形或不明显（Pu&Watson，2005b）。依据果实外部特征，中国茴芹属类群被分成两组：毛果组P.sect.Tragium(Spreng.)DC.（包含的类群果实表面被毛或者粗糙，无萼齿）和光果组P.sect.Tragoselinum(Miller)DC.（包含的类群果实表面光滑，萼齿明显或无）（单人骅和余孟兰，1985）。最新的分子系统学研究结果表明（Wang et al，2014，Zhou et al.，unpublished data）：毛果组的类群分别位于亮蛇床族Selineae和茴芹族Pimpinelleae；光果组的尖叶茴芹P.acuminata (Edgew.) C.B.Clarke、川鄂茴芹P.henryi Diels、紫瓣茴芹P.purpurea (Franch.)H.Boissieu和尾尖茴芹P.caudata (Franch.)H.Wolff在东亚分支中聚成一个支持率很高的次级分支，该分支与细叶东俄芹Tongoloa tenuifoliaH.Wolff形成姐妹群。光果组的另外两个种-短果茴芹P.brachycarpa (Komarov) Nakai $\scriptstyle ( = { \frac { } { } }$ Spuriopimpinellabrachycarpa (Komarov)Kitagawa)和菱叶茴芹P.rhomboideaDiels同样落入东亚分支，但是未与上述四个种聚在一起。茴芹属的模式种-虎耳草茴芹P.saxifraga L.位于茴芹族Pimpinelleae，远离位于东亚分支的同属类群，这同样存在命名学问题需要处理。
+
+小芹属包括约20种，主要分布在从尼泊尔到中国西南的高海拔地区（Pu&Watson，2005c）。东俄芹属包括约15种，同样分布在高海拔的中国喜马拉雅地区，该属与滇芹属Sinodielsia，藏香叶芹属Meeboldia以及凹乳芹属的关系还存在较大争议（Pan&Watson，2005c）。实际上，小芹属和东俄芹属具有很多相似的形态特征，如花瓣基部狭窄或呈爪状，顶端钝或有内折的小舌片，花柱基短圆锥形或平压状。目前的研究结果表明，两属所含物种分散于东亚分支中而没有各自构成单系（Zhouetal.，2019）。
+
+凹乳芹属包括5个种，分布于阿富汗到中国西南部的喜马拉雅地区，因胚乳腹面呈深槽状或马蹄形而得名。Pimenov etal.（1991）将西藏凹乳芹V.thibetica H.Boissieu和少裂凹乳芹转移到滇芹属中，将暗红葛缕子Carum atrosanguinea Karelin& Kirilov转移到凹乳芹属（V.atrosanguinea (Karelin& Kirilov)Mukherjee &Pimenov），这一处理因两个属之间存在形态和花粉的差异而没有被接受（舒璞和余孟兰，2001）。分子系统学的研究表明，少裂凹乳芹位于东亚分支，暗红葛缕子与模式种凹乳芹V.coniifoliaWall.ExDC．属于亮蛇床族，西藏凹乳芹与密瘤瘤果芹T.subnudum C.B.Clarke exH.Wolff以及当归属一种（牡丹叶当归Angelicapaeoniifolia Yuan &Shan）则聚在滇芹分支（Zhou et al.，2019， Zhou et al.，unpublished data）。
+
+基于目前分子系统学的研究结果，芹亚科有41个单系分支，其中21个被确立为族或者亚族（Downie etal.，2010）。虽然一些族沿用了在芹亚科中长期存在的名称（比如：美味芹族Smyrnieae Spreng.，水芹族Oenantheae Dumort.以及针果芹族Scandiceae Spreng.等），但是其组成类群却与最初界定时有非常大的差别。此外，除部分族外，大多数基于分子系统学研究建立的族很难找到一些形态学特征来对其进行很好的界定和支持（as described byDownieet al. (2001)- Many tribes and clades recognised in subfamily Apioideae on the basis of moleculardata can notbe delimited unambiguously using morphological or anatomical data.）。东亚分支目前也存在这样的情况，其组成类群形态上差异很大，未来应深入挖掘更多的微观形态解剖特征，找寻共有衍征对其进行界定。
+
+# 3东亚分支研究存在的问题
+
+从目前的情况来看，东亚分支的研究存在以下两个方面的问题。1）首先东亚分支内部样品代表性不足。“东亚分支"主要集中分布在海拔高，地形复杂的中国-喜马拉雅区域，这给第一手实验材料的收集工作带来了一定的困难。再就是自Downie等人2010年发表有关芹亚科大系统方面的研究以后，伞形科的系统分类工作进入了一个以具体族或属为研究对象的时期，而自2010年8月以来，基因数据库NCBI网站（https://www.ncbi.nlm.nih.gov）上有关芹亚科基因片段增加了约11万条（2019年8月访问）。因此，有必要适时地将有用的片段从这些海量数据中提取并整合到东亚分支的分析中，但这部分工作目前来看仍是空白；2）东亚分支可能包括多个传统意义上的远缘类群，而且部分类群的系统位置还发生了变化，已留下诸多的命名学问题有待解决。目前组成东亚分支的各属，除Heptaptera、Keraymonia和膜苞芹属外，另外如滇芎属，茴芹属，藁本属和瘤果芹属等有部分物种落入分支内部，而它们各自的模式种则位于芹亚科其它分支。在东亚分支内部，同属物种也没有聚在一起形成单系，如东俄芹属，小芹属以及羌活属（Zhou etal.，2008，2009，2019）。此外，东亚分支的外延没有确定，近年来不断有新的分类群落入其中（表1）。例如：2010年Downie等人在讨论用核基因片段ITS构建芹亚科大系统时，东亚分支在原来的基础上又包括了Heptaptera,Keraymonia，膜苞芹属和假茴芹属Spruiopimpinella；茴芹属系统分类的相关文章显示，菱叶茴芹P.rhomboidea Diels，尾尖茴芹P.caudata (Franch.)H.Wolff（Wang et al.，2014）以及P. sp.（Fereidounfar etal.，2016）三个种也落入“东亚分支”；最近，Zhou etal.（2019）在讨论藁本属及其相关类群演化关系时，首次发现有藁本属2种-理塘藁本和尖瓣藁本，滇藁本属4种-美丽棱子芹H.amabile (Craib & Smith) Pimenov & Kljuykov，天山棱子芹H.nanum (Rupr.)Pimenov & Kljuykov，H. lhasanum Pimenov & Kljuykov和H. virgatum Pimenov & Kljuykov落入该分支。随着相关研究的不断深入，东亚分支所含类群还会发生变化。
+
+表1东亚分支所包括类群变化总结  
+Table1 Summary of taxa included inEast-Asia Clade   
+
+<html><body><table><tr><td colspan="2">参考文献</td></tr><tr><td>References</td><td>Included taxa</td></tr><tr><td>Calvino et al. (2006)</td><td>Hansenia，Haplosphaera，Notopterygium，Physospermopsis*，Sinolimprichtia, Tongoloa，Trachydium*</td></tr><tr><td>Zhou et al. (2008)</td><td>Haplosphaera，Notopterygium，Physospermopsis*，Pimpinella*，Sinocarum, Sinolimprichtia，Tongoloa，Trachydium*，Vicatia*</td></tr><tr><td>Zhou et al. (2009)</td><td>Hansenia，Haplosphaera，Notopterygium，Physospermopsis*，Pimpinella*, Sinocarum，Sinolimprichtia，Tongoloa，Trachydium*，Vicatia*</td></tr><tr><td>Downie et al. (2010)</td><td>Hansenia，Haplosphaera ，Heptaptera，Hymenolaena，Keraymonia, Notopterygium，Physospermopsis*，Pimpinella*，Sinocarum，Sinolimprichtia,</td></tr><tr><td>Zhou et al. (2019)</td><td>Spuriopimpinella*，Tongoloa，Trachydium*，Vicatia* Hansenia,Haplosphaera,Heptaptera,Hymenidium*,Hymenolaena,Keraymonia, Ligusticum*，Notopterygium，Physospermopsis*，Pimpinella*， Sinocarum, Sinolimprichtia，Spuriopimpinella*，Tongoloa，Trachydium*，Vicatia*</td></tr></table></body></html>
+
+注：\*表示该属有类群落入别的分支。
+
+Note: Asterisks indicated the genus with taxa falling into other clades.
+
+# 4东亚分支研究的意义
+
+对东亚分支这样一个在地理空间上特殊，且处于芹亚科演化关键节点的分支开展全面而深入的工作将有非常重要的理论和现实意义。首先，东亚植物区作为一个自然的植物区系，不仅保存有众多古老残遗的类群，同时又有大量快速辐射演化的新种系，拥有全球最古老和最完整的植物多样性演化系列（Wu＆Wu，1998；吴征镒等，2010；Wen etal.，2014）。芹亚科植物作为典型代表类群之一，在该区域也保留了完整的演化系列，自然就成为探讨物种形成机制、扩散机制的理想对象（Banasiak etal.，2013，Gamlath，2013）。其次，芹亚科中包括了众多的经济植物，就目前的研究来看东亚分支也不乏羌活，少裂凹乳芹，菱叶茴芹，单球芹，东俄芹属部分种类，如宜昌东俄芹T.dunnii H.Wolff和城口东俄芹T.silaifolia (H.de Boissieu)H.Wolff等重要民间药材。但在实际运用过程中因缺乏统一的鉴定标准，常存在替代品混用，甚至错用伪品的情况。如羌活在云南、四川等地易和心叶棱子芹Pleurospermumrivulorum (Diels) Hiroe以及灰叶当归Angelica glauca Edgew.混用，少裂凹乳芹在云南文山地区常作为当归收购，销往广西等地。利用日趋成熟的DNAbarcoding技术开展物种鉴定工作，建立一套适合于东亚分支相关药材的标准鉴定体系。这将极大促进伞形科传统中药产业的健康发展，同时在民间安全用药方面提供指导。
+
+# 5．东亚分支未来的研究方向
+
+越来越多的证据表明，分子生物学证据在构建伞形科系统框架方面作用突出，相关研究结果已被业内所接受，但分子系统学的研究结果也打破了许多传统意义上对类群归属的认识。东亚分支就是最好的例证，目前该分支包括芹亚科内约16个属的"远缘"种类（表1）。为了能更好地界定东亚分支，应该在整个芹亚科的范围内来讨论物种的归属问题。同时，为了使研究结果更具说服力，除ITS外，还应将叶绿体的结果整合进来，界定东亚分支的范围，并结合基因组数据来构建一个更为合理的分支内部物种演化关系；基于目前对东亚分支的认识，随着系统学研究工作的不断深入，东亚分支的确立将使得一系列传统意义上的分类群发生位置的改变，自然就需要对新的分类学等级进行名称上的处理，这将是一项繁杂的工作。因此，查阅相关文献，梳理各大标本馆的馆藏标本，同时针对特定类群开展野外专项调查，对关键形态特征如花和果实特征，叶片及小苞片结构等进行观察记录，为各分类等级的确定提供较为详实的证据。最后按照分类学处理的基本原则，对东亚分支内部各类群进行分类学处理，包括新分类单元名称的赋予以及分类学范畴的规范描述。
+
+# 参考文献:
+
+AJANI Y, AJANI A, CORDES JM, et al., 2008.Phylogenetic analysis of nrDNA ITS sequences reveals relationships within five groups of Iranian Apiaceae subfamily Apioideae [J]. Taxon, 57: 383-401.   
+BANASIAK L, PIWCZYNSKI M, ULINSKI T, et al., 2013. Dispersal patterns in space and time: a case study of Apiaceae subfamily Apioideae [J]. JBiogeogr, 40: 1324-1335.   
+BOISSIER E，1972.Flora Orientalis (Vol. 2）[M]. Genevae et Basileae,apud H.Georg, Bibliopolam: 914-917.   
+BONE TS, 2007. A phylogenetic and biogeographic study of the umbellifer genus Lilaeopsis [D]. Urbana-Champagne: University of Ilinois at Urbana-Champaign.   
+CALVIO CI, TILNEY PM, VAN-WYK BE, et al.， 2006. A molecular phylogenetic study of southern African Apiaceae[J]. Am JBot, 93: 1828-1847.   
+CHRISTENHUSZ M, BYNG JW, 2016. The number of known plant species in the world and its annual increase [J]. Phytotaxa, 261: 201-217.   
+CHUNG KF, 2007. Inclusion of the South Pacific alpine genus Oreomyrrhis (Apiaceae） in Chaerophyllum based on nuclear and chloroplast DNA sequences [J]. Syst Bot, 32: 671-681.   
+DOWNIE SR，KATZ-DOWNIE DS，1996. A molecular phylogeny of Apiaceae subfamily Apioideae: evidence from nuclear ribosomal DNA internal transcribed spacer sequences [J].Am J Bot, 83: 234-251.   
+DOWNIE SR，KATZ-DOWNIE DS, SUN FJ,et al.，2008.Phylogeny and biogeography of Apiaceae tribe Oenantheae inferred from nuclear rDNA ITS and cpDNA psbI-5'trnK(UUU) sequences, with emphasis on the North American Endemics clade [J]. Botany,86: 1039-1064.   
+DOWNIE SR，KATZ-DOWNIE DS， SPALIK K， 2000a.A phylogeny of Apiaceae tribe Scandicinae: evidence from nuclear ribosomal DNA internal transcribed spacer sequences [J]. Am J Bot, 87: 76-95.   
+DOWNIE SR, KATZ-DOWNIE DS, WATSON MF,2000b. A phylogeny of the flowering plant family Apiaceae based on chloroplast DNA rpll6 and rpoC1 intron sequences: towards a suprageneric classification of subfamily Apioideae [J]. Am JBot, 87: 273-292.   
+DOWNIE SR,PLUNKETT GM,WATSON MF, et al.,2001. Tribes and clades within Apiaceae subfamily Apioideae: the contribution of molecular data [J]. Edinb JBot, 58: 301-330.   
+DOWNIE SR， SPALIK K,KATZ-DOWNIE DS, et al.，2010.Major clades within Apiaceae subfamily Apioideae as inferred by phylogenetic analysis of nrDNA ITS sequences [J]. Plant Div Evol, 128: 111-136.   
+DOWNIE SR，WATSON MF, SPALIK K, et al.， 2000c. Molecular systematics of Old World Apioideae (Apiaceae): relationships among some members of tribe Peucedaneae sensu lato, the placement of several island-endemic species,and resolution within the apioid superclade [J]. Can JBot, 78: 506-528.   
+DRUDE CGO，1898.Umbelliferae [M]// ENGLER A，PRANTL K，eds. Die Natirlichen Pflanzerfamilien. Leipzig: Engelmann, W., 63-250.   
+FEIST MA, DOWNIE SR,2008. A phylogenetic study of Oxypolis and Ptilimnium (Apiaceae) based on nuclear rDNA ITS sequences [J]. Syst Bot, 33: 447-458.   
+FEREIDOUNFAR S,GHAHREMANINEJAD F,KHAJEHPIRI M，2016.Phylogeny of the Southwest Asian Pimpinella and related genera based on nuclear and plastid sequences [J]. Genet Mol Res,15: gmr15048767.   
+GAMLATH MP, 2013.Differentiation of climatic niche and spatial distribution of ancestral and advanced Apiaceae phylogenetic groups in Eastern Asia [M]. Taipei: Culture University.   
+HEYWOOD VH， 1986. The Umbeliferae-an impossible family? [J] Symbolae Botanicae Upsalienses, 26: 73-80.   
+International Plant Names Index (IPNI), 2019. Royal Botanic Gardens Kew. htps://www.ipni.org/ (accessed August 19, 2019).   
+LEE BY, DOWNIE SR., 1999. A molecular phylogeny of Apiaceae tribe Caucalideae and related taxa, inferences based on ITS sequence data [J]. Syst Bot, 24: 461-479.   
+LEE BY, DOWNIE SR, 2000. Phylogenetic analysis of cpDNA restriction sites and rps16 intron sequences reveals relationships among Apiaceae tribes Caucalideae, Scandiceae and related taxa [J]. Plant Syst Evol, 221: 35-60.   
+LINDLEY J，1835. Notes upon some of the Himalayan Umbelliferae [M]// ROYLE JF,ed. Illustrations of the botany and other branches of the natural history of the Himalayan Mountains and of the flora of Cashmere: 232-233.   
+LOGACHEVA MD, VALIEJO-ROMAN CM, PIMENOV MG, 2008. ITS phylogeny of West Asian Heracleum species and related taxa of Umbellferae-Tordylieae W.D.J. Koch, with notes on evolution of their psbA-trnH sequences [J]. Plant Syst Evol, 270: 139-157.   
+NEVES SS, WATSON MF, 2004. Phylogenetic relationships in Bupleurum (Apiaceae) based on nuclear ribosomal DNA ITS sequence data [J]. Ann Bot, 93: 379-398.   
+PAN ZH，WATSON MF，2005a. Sinolimprichtia H. Wolff [M] /Flora of China Editorial Committee.Flora of China (vol.14). Beijing & St. Louis: Science Press & Missouri Botanical Garden Press: 55-56.   
+PAN ZH,WATSON MF,2005b.Physospermopsis H. Wolff [M] //Flora of China Editorial Committee, Flora of China (vol.14). Beijing & St. Louis: Science Press & Missouri Botanical Garden Press: 31-33.   
+PAN ZH, WATSON MF, 2005c. Tongoloa H. Wolf.[M] //Flora of China Editorial Committee. Flora of China (vol.14). Beijing & St. Louis: Science Press & Missouri Botanical Garden Press: 34-37.   
+PIMENOV MG,LEONOV MV,1993. The genera of the Umbelliferae: a nomenclator [M]. UK, Kew, Royal Botanic Gardens.   
+PIMENOV MG, KLJUYKOV EV, OSTROUMOVA TA, 2008. Reduction of Notopterygium to Hansenia (Umbelliferae)[J]. Willdenowia, 38: 155-172.   
+PIMENOV MG, KLJUYKOV EV, 2000a. Taxonomic revision of Pleurospermum Hoffm. and related genera of Umbelliferae. II The genera Physospermopsis and Hymenidium [J]. Feddes Repert, 111: 535-552.   
+PIMENOV MG, KLJUYKOV EV, 2000b. Taxonomic revision of Pleurospermum and related genera of the Umbelliferae. II. The genera Pleurospermum, Pterocyclus， Trachydium, Keraymonia, Pseudotrachydium, Aulacospermum and Hymenolaena [J]. Feddes Repert, 111: 517-534.   
+PIMENOV MG, MUKHERJEE PK, KLJUYKOV EV, et al., 1991. Notes on the genera Vicatia DC., Sinodielsia H. Wolff and Tongoloa H. Wolff (Umbelliferae) [J]. Feddes Repert， 102: 375-384.   
+PIWCZYNSKI M, WYBORSKA D, GOLEBIEWSKA J, et al., 2018.Phylogenetic positions of seven poorly known species of Ferula (Apiaceae) with remarks on the phylogenetic utility of the plastid trnH-psbA， trnS-trnG,and atpB-rbcL intergenic spacers [J]. Syst Biodiver,16: 428-440.   
+PLUNKETT GM, SOLTIS DE, SOLTIS PS, 1996. Evolutionary pattrns in Apiaceae inferences based on matK sequence data [J]. Syst Biol, 21: 477-495.   
+PLUNKETT GM, DOWNIE SR,1999. Major lineages within Apiaceae subfamily Apioideae, a comparison of chloroplast restriction site and DNA sequence data [J].Am JBot, 86: 1014-1026.   
+PU GZ, LIU QX, 2006. Comparative anatomical study on the genus Physospermopsis fruit from China and its systematic significance [J].JPl Resources Environm,14:1-6.[蒲高忠，刘启新, 2006.中国滇芎属果实解剖特征及分类学意义[J]．植物资源与环境学报，14：1-6.]   
+PU FD,WNGA PL, ZHENG ZH, et al.， 2000. A reclassification of Notopterygium Boissieu (Umbeliferae)[J].Acta Phytotax Sin,38 (5):430-436.[溥发鼎，王萍莉，郑中华等，2000. 重订羌活属的分类[J]．植物分类学报，38(5)：430-436.]   
+PU FD,WATSON MF, 2005a. Trachydium Lindley [M]// Flora of China Editorial Committee. Flora of China (vol.14). Beijing & St. Louis: Science Press & Missouri Botanical Garden Press: 56-58.   
+PU FD, WATSON MF, 2005b. Pimpinella L. [M]// Flora of China Editorial Committe. Flora of China (vol.14). Beijing & St. Louis: Science Press & Missouri Botanical Garden Press: 93-104.   
+PU FD,WATSON MF,2005c. Sinocarum H. Wolff ex Shan &Pu [M]// Flora of China Editorial Committee. Flora of China (vol.14). Beijing & St. Louis: Science Press & Missouri Botanical Garden Press: 82-85.   
+SHAN RH, SHEH ML,1979. Flora Reipublicae Popularis Sinicae,vol. 55(1). Science Press, Beijing:1-300.[单人驿和余孟兰，1979.伞形科（第 55 卷第1分册）[M]北京：科学出 版社：1-300.]   
+SHAN RH, SHEH ML,1985.Flora Reipublicae Popularis Sinicae,vol. 55 (2). Science Press, Beijing:1-268.[单人骅和余孟兰，1985.伞形科（第55卷第2分册）[M]北京：科学出 版社：1-268.]   
+SHAN RH, SHEH ML,1991. Flora Reipublicae Popularis Sinicae,vol. 55 (3). Science Press, Beijing:1-255.[单人骅和余孟兰，1991．伞形科（第 55卷第3分册）[M]北京：科学出 版社：1-255.]   
+SHEH ML, SHU P,1987. The floristic analysis of endemic genera in Chinese Umbeliferae [J]. Bull Nanjing Bot Gard Mem Sun Yat-Sen,14-26.[余孟兰，舒璞，1987．中国伞形科特有属 的区系分析[J]．南京中山植物园研究论文集，14-26.]   
+SHEH ML, PU FD,PAN ZH, et al, 2005. Flora of China: vol. 14.Apiaceae (Umbeliferae) [M]. Beijing & St.Louis: Science Press & Missouri Botanical Garden Press.   
+SHEH ML,WATSON MF, 2005. Notopterygium H. Boissieu [M]// Flora of China Editorial Committee.Flora of China (vol.14). Beijing & St. Louis: Science Press & Missouri Botanical Garden Press, 53-55.   
+SHNEYER VS,BORSCHTSCHFNK GP, PIMENOV MG,et al.， 1992. The tribe Smyrnieae (Umbelliferae) in the light of serotaxonomical analysis [J]. Plant Syst Evol,182: 135-148.   
+SHU P, SHEH ML,2001. Pollen morphology of Umbelliferae in China [M]. Shanghai: scientific and technical Press.[舒璞，余孟兰，2001．中国伞形科植物花粉图志[M]．上海：科学技 术出版社，2001.]   
+SPALIK K, REDURON JP, DOWNIE SR, 2004. The phylogenetic position of Peucedanum sensu lato and allied genera and their placement in tribe Selineae (Apiaceae, subfamily Apioideae) [J]. Plant Syst Evol, 243: 189-210.   
+SUN FJ, DOWNIE SR, 2004. A molecular systematic investigation of Cymopterus and its allies (Apiaceae) based on phylogenetic analyses of nuclear (ITS) and plastid (rps16 intron) DNA sequences [J]. S Afr JBot, 70: 407-416.   
+TUTIN TG，HEYWOOD VH，BURGES NA，et al.，1968.Flora Europaea (Vol.2）[M]. Cambridge, Cambridge University Press: 344.   
+VALIEJO-ROMAN CM, TERENTIEVA EI,PIMENOV MG, et al., 2012.Broad Polyphyly in Pleurospermum s.1. Umbelliferae-Apioideae) as Inferred from nrDNA ITS and Chloroplast Sequences [J]. Syst Bot, 37(2), 573-581.   
+VALIEJO-ROMAN CM，TERENTIEVA EI，SAMIGULLIN TH，et al.， 2002.nrDNA ITS sequences and affinities of Sino-Himalayan Apioideae (Umbelliferae)[J]. Taxon, 51: 685-701.   
+WANG PL， PU FD， 1992. Pollen morphology diversity_and evolution trend of the genus Physospermopsis in the Hengduan Mountains of China [J]. Acta Bot Yunnanica, 14: 413-417. [王萍莉，溥发鼎，1992.我国横断山区滇芎属花粉形态分化及演化趋势[J]．云南植物研 究，14:413-417.]   
+WANG ZX,DOWNIE SR, TAN JB, et al., 2014. Molecular phylogenetics of Pimpinella and allied genera (Apiaceae), with emphasis on Chinese native species, inferred from nrDNA ITS and cpDNA intron sequence data [J]. Nordic JBot, 32: 642-657.   
+WEN J，ZHANG JQ，NIE ZL，et al.，2014. Evolutionary diversifications of plants on the Qinhai-Tibetan Plateau [J]. Front Genet, 5: 4.   
+WU ZY, SUN H, ZHOU ZK, et al., 2010. Floristic Geography of Seed Plants in China [M] Beijing:Science Press.[吴征镒，孙航，周浙昆等，2010．中国种子植物区系地理[M]．北 京：科学出版社.]   
+WU ZY, WU SG,1998. A proposal for a new floristic kindom (realm) -the E Asiatic kingdom, its delineation and characteristics [M]// Floristic Characteristics and Diversity of East Asian Plants. Beijing, China Higher Education Press & Berlin Heidelberg,Beijing and Springer-Verlga: 3-42.   
+ZHOU J, GAO YZ, WEI J, et al., 2019. Molecular phylogenetics of Ligusticum (Apiaceae) based on nrDNA ITS sequences, rampant polyphyly, placement of the Chinese endemic species, and a much reduced circumscription of the genus [J]. Int JPlant Sci (In Press).   
+ZHOU J, GONG X, DOWNIE SR, et al., 2009. Towards a more robust molecular phylogeny of Chinese Apiaceae subfamily Apioideae, Additional evidence from nrDNA ITS and cpDNA intro (rpl16 and rps16) sequence [J]. Mol Phylogenet Evol, 53: 56-68.   
+ZHOU J, PENG H, DOWNIE SR, et al.， 2008.A molecular phylogeny of Chinese Apiaceae subfamily Apioideae inferred from nuclear ribosomal DNA internal transcribed spacer sequences [J]. Taxon, 57: 1-15.   
+ZOHARY M，1972.Flora of Palestine [M]. Jerusalem， Israel Academy of Sciences and Humanities: 409-410.

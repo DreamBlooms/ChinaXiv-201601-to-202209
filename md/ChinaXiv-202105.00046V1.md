@@ -1,0 +1,263 @@
+# 大脑电刺激在听觉语言加工研究中的应用
+
+马敏璇，李文婕，秦梦玲，韦耀鸿，谭倩宝，沈路，陈骐，韩彪华南师范大学心理学院；教育部脑认知与教育科学重点实验室(华南师范大学)；华南师范大学心理应用研究中心；华南师范大学广东省心理健康与认知科学重点实验室，广州 510631摘 要大脑电刺激是历史悠久但近年来才广泛应用在人类被试上的实验技术。通过对颅内刺激位点进行电刺激，并分析引发的暂时性行为功能变化和记录位点的电位活动，大脑电刺激技术可以揭示认知加工过程中脑区内的功能作用与脑区间的有效连接。通过对听觉语言加工过程相关的丘脑、听觉皮层、高级语言皮层进行电刺激，现有研究发现了各个脑区的不同功能特点以及不同脑区间的信息传递机制，为进一步探索听觉语言加工的神经机制提供了新的视角。
+
+关键词 大脑电刺激，听觉语言加工，有效连接
+
+# 引言
+
+在人们的日常生活中，听觉语言理解在人际沟通中扮演着重要的角色。比如，当朋友问你午餐想吃什么时，你往往只有听到这句话并理解它的含义后,才能进一步做出相应的回应。而当听觉语言理解出现问题时，人们可能会面临"驴唇不对马嘴"的尴尬局面。一般来说，听觉语言理解在大脑内的加工过程表现为：外界环境中传入的语音进入丘脑(thalamus)，随后再传递到听觉皮层(auditorycortex,AC)进行声学-音韵信息的初级加工，然后依次在颞叶、额叶语言区域进行更高级的语言加工，并且，额叶语言区域也可能生成语音相关的预测，并反馈到颞叶语言区域中去，帮助最终实现完整的听觉语言理解过程的加工。纵观以往关于听觉语言加工过程的研究，在技术上多基于磁共振成像等非侵入性神经成像技术，内容方面则是将这个过程分开进行的，比如单纯研究声音基本特征的加工或是语言过程的加工，而没有详尽地描述从听觉语言感知到理解的全过程(Friederici,2012；Skeide&Friederici,2016;Mooreet al.,2008;Rofes et al.,2019)。鉴于大脑电刺激(electrical brain stimulation,EBS)具有提供因果关系映射、信息传递方向的独特优势，近年来越来越受到研究者的关注，因此本文从听觉语言加工完整过程的角度，总结了大脑电刺激相关方法在探索该加工过程中的应用。
+
+# 1大脑电刺激技术
+
+# 1.1大脑电刺激技术的发展历史
+
+大脑电刺激是一项古老的技术，Fritsch 和Hitzig (1870)早在19 世纪晚期就在动物大脑中实施电刺激，首次建立起神经系统中不同区域之间的连接。随后，Cushing (1909)开创性地在人类大脑中实施电刺激并成功诱发了运动反应，但这是在手术期间对开颅的大脑实施高频电刺激的结果，只能通过分析刺激脑区之后出现的功能抑制推测该刺激位点的功能特点，且无法记录其他脑区的神经元活动。在前人研究的基础之上，Foerster 和 Altenburger (1935)发展了记录技术，不仅对大脑的不同部位进行电刺激，还结合了脑皮层电图(Electrocorticograph，ECoG)中记录位点的电位活动，使得探索不同脑区之间的连接成为可能。早期 ECoG 的埋植需要开颅，且使用的电极为硬膜下电极，是放置在硬膜下的大脑皮层表面，因此无法记录到大脑深部的神经元活动。Talairach 和 Bancaud（1966）首次使用立体定向脑电图(Stereoelectroencephalography，SEEG)，该方法借助颅内立体定向电极可以实现对大脑深部结构包括边缘系统、脑沟、脑回等区域神经元活动的记录，并且不需要开颅，风险相较于之前也大大降低(Young et al.,2018)。随着记录技术的发展及不断成熟，越来越多的学者认识到对大脑皮层区域进行直接电刺激可以获得许多具有因果性的知觉或行为反应，电刺激技术因此得到更为广泛的应用。
+
+# 1.2大脑电刺激引发电活动的生理机制
+
+在对大脑电刺激引发电活动生理机制的探索中，目前研究者尚未有统一的结论。Rattay认为在施加电刺激的过程中，神经元最易兴奋的部分是轴突的起始部分，而不是细胞体(Rattay,1999)。轴突起始段是动作电位形成的位置，整合输入的电刺激，随后输出的信息沿着轴突传播(Duffau,2015;Kovac etal.,2016)。大多数研究者认为，电刺激引发的顺行性动作电位通过刺激区域神经元的轴突传播并激活了刺激区域的输出结构，也就是说电刺激引起的反应主要反映了突触后电位(Jankowska,1975)，因此，可以认为电刺激的诱发电位直接反映了脑区间的功能性连接。然而也有部分研究者认为，大脑电刺激诱发的激活模式可能不同于自然的神经生理活动，如电刺激也可能引起逆行性激活(antidromical activation)，即电刺激通过刺激区域的输入结构在刺激区域中的轴突传播并逆向激活刺激区域的输入结构中的神经元，故在评估此技术识别的大脑区域之间连接的真实方向性时，具有潜在的不确定性(Davidet al.,2010)。但由于在存在大量电极的情况下，出现逆行性激活的情况相对来说比例较少(Keller etal.,2014;Ezure& Oshima,1985)，因此总的来说，该技术主要是通过顺行性动作电位进行传播，可以用来反映脑区之间的因果性关系，可以为大脑区域之间的功能性连接提供宝贵的见解和丰富的实证证据。
+
+# 1.3大脑电刺激技术的应用优势
+
+目前对听觉语言加工过程的研究大多是借助磁共振技术、头皮脑电图(Electroencephalography,EEG)等非侵入性神经成像方式，这些方法为揭示人类听觉语言加工过程的机制做出了一定的贡献，但是，由于时空分辨率的限制，不能清晰阐明该加工过程的不同阶段中涉及到的相关皮层的功能特点和组织结构。例如，磁共振成像技术时间分辨率较低，且只能局限于探究灰质区域的功能特点；扩散张量磁共振成像(Diffusion Tensor MagneticResonance Imaging,DT-MRI)虽然已经能够实现在活体内追踪连接大脑灰质的纤维束，然而该技术没有提供这些纤维束传导的功能信息和方向方面的细节，即不能区分脑区之间连接的方向性(Catani& Mesulam,2008;Mars et al.,2016)。还有研究者试图结合头皮EEG 和经颅磁刺激(Transcranial magnetic stimulation,TMS)来评估皮质的功能性连接情况，但这种方法不仅难以记录到大脑深部的电位活动，无法应用于丘脑-皮质连接的研究(Boulogne,Andre-Obadiaet al.,2016)，而且中间的颅骨组织会导致信号衰减和空间失真(Pfurtscheller&Cooper,1975),这使得头皮 EEG 的空间分辨率相对较差(Boulogne,Andre-Obadia et al.,2016)。因此，应用非侵入性神经成像技术探讨听觉语言加工过程涉及到的大规模脑网络间相互作用的具体机制存在一定的局限。
+
+而大脑电刺激是一种在时间和空间上精确定义的局灶性颅内刺激技术。通过给予刺激位点低频电刺激并在另一位点记录诱发电位，可以揭示脑区之间信息传递的方向；或者通过对特定脑区施加高频电刺激之后诱发的短暂性功能障碍快速直接地确定该脑区的功能特点。近十年来，由于技术不断成熟，大脑电刺激技术已具有很高的实践性和安全性，并被广泛地应用于脑肿瘤患者术中脑功能网络的监测及帕金森病到癫痫和抑郁症等各种神经精神疾病的治疗。特别对于癫痫患者，由于其在疾病不发作时的认知功能和正常人群并无明显差异，运用该技术对癫痫患者的研究结果可以推广到正常人群，也为听觉语言加工等认知过程的深入研究提供了独特的机会(Boulogne,Ryvlin et al.,2016)。
+
+综上，大脑电刺激具有超高的时空分辨率，并且采用的记录电极可以深入到大脑皮层以下的脑区，所以基于大脑电刺激的研究具有明显的优势：第一，大脑电刺激可以快速直接地定位与具体认知功能相关的脑区。由于大脑电刺激可以导致刺激脑区暂时性的认知功能抑制，因此可以快速直接地定位与所抑制认知功能相关的脑区(Lesser etal.,1987)；不仅如此，相对于脑损伤研究只能被动地研究某一特定损伤的脑区而言(Boatman,2004)，大脑电刺激可以主动探测同一患者多个脑区的不同认知功能。第二，大脑电刺激可以直接揭示被刺激脑区与相关脑区的因果关系。通过大脑电刺激引发的神经活动，研究者可以推论脑区之间的连接性(Perrone-Bertolotti et al.,2020)及连接的方向(Keller et al.,2014)，并通过探索脑区间的有效连接(effective connectivity)，评估大脑区域之间连接的单向或双向性(David et al.,2013)。第三，大脑电刺激所采用的立体定向电极还可以记录到丘脑等大脑深部的电位活动，实现对大脑深部-皮层之间方向性连接的探索，而且更不容易受到眼睛和肌肉伪迹的影响(Tang et al.,2012; George et al.,2020; Prime et al.,2018; Rosenberg et al.,2009; Lachaux et al.,2003)。因此采用大脑电刺激进行研究使得对听觉语言加工过程本质的进一步认识成为可能(Yiet al,2019)。
+
+# 2大脑电刺激与听觉语言加工
+
+在对输入的语音进行处理的过程中，涉及到的大脑区域是由分布在丘脑和端脑的听觉和听觉语言加工相关区域组成的一个相互连接的网络。具体的协作机制主要表现为：丘脑内侧膝状体将语音相关信息投射到颞叶皮质负责听觉加工区域对应的神经元中，进行基本的声学—音韵编码，随后颞叶皮质负责语言加工的区域从语音输入中提取有意义的词汇句法信息，随后进入额叶语言区，即额下回(inferior frontal gyrus)，进行深入加工，最后颞叶皮层后部整合来自额下回反馈的复杂语法、语义等信息，完成对听觉语言理解过程的加工(见图1)(Hackett,2011; Yi etal.,2019; Hickok & Poeppel,2007; Friederici,2012; Gierhan,2013; Skeide& Friederici, 2016)。
+
+![](images/bf0e01b43c367c6ee9b19cf8b8349ad30ba800e82cc4251ddb34b668ea603740.jpg)
+
+图1听觉语言加工过程示意图。听觉语言信息从丘脑传到听觉皮层，再由听觉皮层依次传导到颞叶、额叶语言区，同时额叶语图片修改于：OpenStax,CCBY 4.0; Cancer Research UK,CC BY-SA via Wikimedia Commons.
+
+下文从听觉语言研究中借助的大脑电刺激技术入手，通过总结丘脑与听觉皮层、听觉皮层内部、高级语言皮层的相关大脑电刺激研究，综述了使用不同大脑电刺激技术方法得出的听觉语言加工中功能特点和脑区连接等相关研究的发现。
+
+# 2.1听觉语言研究中大脑电刺激技术方法
+
+在使用大脑电刺激对听觉语言加工过程的研究中，一般是采用低、高两种频率的大脑电刺激来映射大脑区域负责的功能(George etal.,2020)。低频大脑电刺激(约为1Hz，持续时间为 20\~40ms)可以通过对刺激的时间锁定的平均皮层脑电图来探索皮层-皮层间连接，这种研究方法又被称为皮层-皮层间诱发电位(cortico-cortical evoked potential,CCEP)，该技术由Matsumoto 等人(2004)于 2004 年首次提出，通过在大脑某一区域施加电刺激，然后在远距离或邻近的脑区记录诱发电位(evoked potential,EP)，并可以根据记录位点的响应特点判断刺激位点和记录位点之间的有效连接，即量化一个大脑区域对另一区域可能产生的影响。响应位点的经典波形通常是由早期 $( 1 0 { \sim } 3 0 \mathrm { m s } )$ 负偏转 N1 和稍后(80\~250ms)的慢波N2 组成(Kuniedaet al.,2015)(见图2)。已有研究表明CCEP得到的连接结果和其他已有研究如纤维束追踪和弥散张量成像的结果是一致的，表现在从刺激电极到记录电极周围的区域，N1的振幅和潜伏期与白质纤维束数量有着显著的相关关系(Conner et al.,2011)。
+
+![](images/242017adf9f64415a0730c6d185daeb5fc232249882814debbdcd30592d68952.jpg)
+
+图2CCEP示意图。当刺激某一区域的电极位点(红色位点)之后，可以在有联系的位点(绿色位点)记录到诱发电位。  
+注：虚线为颅内立体定向电极。
+
+图片修改于:CNX OpenStax,CC BY 4.0,viaWikimedia Commons.
+
+除此之外，研究者可以采用高频大脑电刺激（一般为 $5 0 / 6 0 \mathrm { H z }$ 、刺激最长持续时间约为5s）作用于正在执行听觉语言功能任务被试的大脑皮层或皮层下位置，研究者通过比较电刺激前后的任务表现差异，可以揭示功能与被刺激大脑区域间的关系，从而绘制与功能相关的关键区域分布图。具体来说，（1）当高频大脑电刺激同时影响该区域的两种功能时，则该区域的两种功能相关。（2）当高频大脑电刺激仅影响或抑制该区域的其中一种功能，而没有影响另一种时，则该区域的两种功能是分离的。（3）当高频大脑电刺激在一个区域对两种功能都没有损害，而在其他区域仅仅损害了其中一种功能，则推断该区域和功能可能存在双重分离(Borchers et al.,2011; Kovac et al.,2016; Rofes et al.,2019)。此外，也有许多研究者认为高频大脑电刺激引发的功能变化是大脑相关网络改变的结果(Mandonnet et al.，2010;Perrone-Bertolotti et al.,2020)，因此可以综合低频大脑电刺激揭示的脑区间连接，共同提供更多的信息(Enatsu et al.,2013; Matsumoto et al.,2017)。
+
+# 2.2听觉语言加工过程中的大脑电刺激研究
+
+# 2.2.1丘脑与听觉皮层
+
+除嗅觉外，大脑皮层几乎所有的感觉输入都来自丘脑，感觉信息通过被称为“中继神经元"(relayneurons)的丘脑细胞建立的兴奋性连接传递到皮层神经元。传入听觉皮层的丘脑区域主要涉及到内侧膝状体(medial geniculate body,MGB)、丘脑内侧枕(thalamic medial pulvinarnucleus,PuM)和丘脑后部的几个毗邻核这几个部分。丘脑是声学信息加工的必要通道，在声音信号从丘脑向听觉皮层传导的过程中，与语音加工有关的丘脑内侧膝状体接收来自脑干神经核团的混合输入，并以一种特定的方式投射到听觉皮层。MGB是丘脑的主要听觉中枢，与大脑皮层一起建立从脑干发出的对传入听觉信息的提取和解码所必需的环路(Lee&Winer,2011)。根据细胞结构和功能方面的差异，MGB 分为三个主要的部分：腹侧(MGBv)，背侧(MGBd)和内侧(MGBm)或巨细胞侧(magnocelular division)。这三个部分由形态学上有所差异的神经元类型、内部结构和输入连接来区分，并包含对听觉刺激具有不同反应特性的神经元(Antunes & Malmierca, 2014; Bartlett, 2013)。
+
+MGB的三个主要部分又可以划分为丘系系统(lemniscal system)和非丘系系统(nonlemniscal system)，MGBv 属于丘系系统，MGBm 和MGBd 则属于非丘系系统。丘系神经元具有较窄的频率调谐特性，向初级听觉皮层A1 (auditory area 1,A1)提供高频特异性信息；而非丘系神经元则一般拥有较宽的频率调谐特性，广泛投射到包括A1在内的听觉皮层区域(Ma& Suga,2009)。MGBv 和 MGBm不仅在听觉信号处理方面不同，而且在诱发皮层可塑性变化方面也可能有所不同。具体来说，MGBm投射到包括A1在内的所有听觉区域，向 A1提供了关于刺激频率、强度和时间的精确信息；而 MGBd 则主要投射到A1周围的听觉皮层区域，包括带状区域和旁带区域(Tang et al.,2012)。听觉皮层区域也相应地投射回丘脑区域，具体是：A1 和听皮层前区(anterior auditory field,AAF)投射回 MGBv，A1周围的听觉区域投射到MGBd,包括A1在内的所有听觉区域投射回MGBm(Ma et al.,2009; Tang et al.,2012)。
+
+由于丘脑位于大脑深部，使用传统电生理方法如头皮EEG 难以记录到电位活动情况，故以往对丘脑到听觉皮层之间投射通路的研究多是基于顺逆行神经示踪剂等追踪技术。而大脑电刺激借助颅内电极记录电位活动情况，这可以深入到活体丘脑中，因此研究者尝试采用大脑电刺激技术进一步解释在丘脑向听觉皮层投射的过程中相关的连接特点和功能特点。
+
+丘脑与听觉皮层之间存在功能性连接。丘脑内侧枕与颞上回(superior temporal gyrus,STG)的功能联系紧密，刺激丘脑内侧枕可以观察到几乎所有的颞上回电极都产生了诱发电位(Rosenberg et al.,2009)。对猫的研究中用低强度电流刺激丘脑中的 MGBv 可以在初级听觉皮层记录到诱发电位(Atencio et al.,2014)。对蝙蝠的研究表明，对丘脑施加电刺激会影响听觉皮层的频率调谐曲线。具体来说，电刺激窄频带的MGBv神经元可以使得位于A1处的神经元表现出音调特异性可塑性增强，最佳频率(best frequency,BF)发生移动：即 A1 处神经元的频率调谐曲线向受刺激的 MGBv神经元的频率调谐曲线移动，这种移动有利于听觉信号的处理；而电刺激宽频带的 MGBm神经元，同样位于A1处的神经元表现出非特异性可塑性增强，加宽了A1处神经元的频率调谐曲线，最佳频率不发生变化，也就是说MGBm 的激活可以增强皮质神经元的敏感度(Ma etal.,2009; Tang etal.,2012)。
+
+信息在丘脑与听觉皮层的传输过程中，也存在自上而下的反馈途径，即相关信息会从初级听觉皮层反馈到丘脑中。具体来说，电刺激初级听觉皮层可以影响位于丘脑处神经元的频率调谐曲线。同样是来自蝙蝠的研究证据表明：当丘脑神经元的最佳频率与皮层激活区的最佳频率匹配时，髭蝠听觉皮层的局部激活可以增强单个内侧膝状体神经元的反应性，反之则降低(Zhang& Suga,2000)。此外，A1以不同的方式调节丘系和非丘系神经元：电刺激 A1可以引起MGBv处神经元的音调特异性可塑性改变，然而它通过抑制MGBm神经元的听觉反应来降低其频率调谐。MGBv高活性使A1神经元更适合于特定听觉信号的精细加工，而MGBm神经元高活性可能使A1不利于精细听觉信号的加工，因此降低了MGBm的神经元活性(Tang etal.,2012)。这些结果表明大脑皮层反馈的作用之一是调节丘脑神经元输入到大脑皮层的调谐频率(Alitto& Usrey,2003)。
+
+# 2.2.2听觉皮层内听觉语言的加工
+
+听觉皮层有不同的定义标准，本文中的听觉皮层指从内侧膝状体直接接收语音信息输入的皮质区域(Pandya & Sanides,1973;Hackett,2011; de la Mothe et al.,2012)。现有动物研究与人类功能性磁共振研究表明(Rauschecker et al.，1995；Rauschecker,2011；Humphries et al.,2010; Wessinger et al.,2001; Woods et al.,2011)，根据听觉皮层神经元对纯音(pure-tone,PT)、窄带噪声(band-passed noise,BPN)和元音(vowel sounds)的响应程度，可以将听觉皮层细分为三个区域，即核心区(core region)、围绕在核心区周围的带状区域(belt region)和带状区域侧边的旁带区域(parabelt region)。核心区包括尾侧A1区、喙侧R区 (rostral area,R）等结构,其中 A1 区属于初级听觉皮层，位于赫氏回(Heschl's gyrus,HG)的后内侧；带状区域位于 HG的后外侧；旁带区域包括颞上回的大部分外侧面(Brugge et al.,2003)，该皮层区域可以被各种语音和非语音声音激活(Binder et al.,20oo)，被称为颞上回后外侧(posterior lateral superiortemporal area,PLST)，在功能上区别于内侧HG的核心听觉皮层(Howard etal.,2000)。
+
+大量的头皮EEG、fMRI研究已经揭示了听觉皮层不同部分具有独特的功能及存在紧密的联系，但由于像初级听觉皮层深埋于侧裂内，用头皮 EEG 难以探测到（Wessinger et al,2001)；而fMRI的时间分辨率较低，不能实时监测到神经活动情况，因此研究者使用大脑电刺激技术进一步探索听觉皮层的功能特性和连接特点。
+
+大脑电刺激为确定听觉皮层内各区域的功能特点提供了可能性。通过对植入皮质的紧密间隔的电极位点施加直接的皮质电刺激干扰，有可能使原本表现在正常范围内的患者诱发相对局部(约 $1 \mathrm { c m } ^ { 2 } .$ )的短暂性功能障碍，表明电极所在的位置在该任务所涉及的加工过程中起作用。如在对听觉皮层的定位中，通过刺激初级皮层出现暂时性耳聋的现象说明大脑电刺激的部位负责听觉加工(Boatman et al.,1995)。在对听觉语言感知的探讨中，研究者发现对左侧STG 后部进行电刺激会严重干扰听觉语言知觉，并在听觉语言重复任务中会出现语音加工缺陷，如一过性知觉障碍，听觉语言错乱和听觉语言停顿，说明颞上回神经元集群在听觉语言知觉中起着重要作用(Boatman et al.,1995; Leonard et al.,2019)。听觉皮层对感知到的外界声音的辨别也存在一定的区别：如对辅音和元音的辨别中，被试在无电刺激干扰的情况下能很好地分辨出来，但当电流作用于左侧外侧裂周围颞上回区域的某一电极位点时，发现元音辨别能力不受影响而辅音辨别能力受损，这说明在大脑皮层水平上辅音和元音知觉是本质上截然不同的知觉现象(Boatman et al.,1997)。而在对语音和其他复杂声音的感知和辨别中，左侧颞叶后部发挥着重要的作用(Boatman et al.,1995)。听觉语言辨别可以在一定程度上反映听觉语言知觉能力，根据听觉语言辨别任务中语言辨别准确性的降低来衡量大脑电刺激导致的听觉语言感知功能的暂时性障碍可以得知：听觉语言知觉障碍发生在颞上回中部或后部的电极部位，并在音调辨别任务中对所有导致听觉语言知觉受损的部位进行电刺激时发现，音调感知能力并没有受到损害；然而在听觉理解任务中听觉理解能力却受到损害(Sinai et al.,2009)。Roux 等人(2015)通过大脑电刺激技术同样证实左侧颞上回会影响听觉理解：在该研究中，使用1Hz，3mA的电流刺激初级听觉皮层不会干扰句子理解；而用 $5 0 \mathrm { { H z } }$ ，1mA的电流刺激会诱发“回声”的错觉，刺激更内侧的区域则诱发听觉幻觉，如对高音的知觉。除此之外，颞上回后部的功能还存在左右侧半球间的差异：在没有任何背景声音及有变化声音的情况下电刺激PLST，发现刺激右侧时会导致听力受损如声音变远、变弱等；而刺激左侧则出现听觉幻觉如杂音、机械声等，说明左、右侧 PLST 听觉皮层的功能作用不同(Suzuki et al,2018)。颞上回区域还涉及语音理解方面的高级功能，在近期的一项研究中：将颞上回后部、heschl回周围的纤维交叉区和听辐射(acoustic radiation)定义为HGFIA，该区与听觉输入和语音产生的整合有关；刺激HGFIA 引起语言障碍，刺激最深层次的皮层会导致语义错乱(Fernandez et al., 2020)。
+
+大脑电刺激结果显示听觉皮层内不同区域之间存在有效连接。在听觉皮层中，每块听觉皮层分区的连接都是独特的，并与其他听觉相关脑区有联系。在电刺激患者的HG时，可以在颞上回后外侧记录到诱发的短潜伏期电位，表明颞上回后外侧直接或间接地接收来自赫氏回的皮层-皮层间输入；更具体来说，使用双脉冲电流刺激 HG 后内侧可以在颞平面和 HG的外侧部记录到诱发电位，而电刺激HG的外侧部却不能在HG的内侧部记录到诱发电位，这说明 HG 的后内侧为更初级的感觉区(Howard etal.,2000)。而对猴子的解剖学和生理学研究表明，初级听觉区和听觉皮层其他区域呈现不同的连接模式：初级区域主要投射到其周边区域，而不投射到同侧半球偏远的区域(Pandyaet al.,1969)，这与该研究中从后内侧 HG 到后外侧HG的单向连接的实验证据是一致的，这是人类听觉皮层区域之间存在功能性连接的第一个证据(Liegeois-Chauvel et al.,1991)。Bignall 的研究亦表明在电刺激松鼠猴 A1 区可以在颞上回外侧面记录到诱发电位，反之则不能记录到，表明初级听觉区域与其他听觉区域为单向投射(Bignall,1969)。而在另一些研究中表明 HG 与颞上回后部有相互投射，但电刺激PLST 引起的HG 位点的波形与当刺激和记录的位置转换时记录到的波形明显不同，这可能是由于刺激和记录的具体位点不同造成的(Brugge et al.,2003)。
+
+# 2.2.3高级语言皮层与听觉皮层
+
+在颞上回后部区域进行音韵(phonology)信息的初步处理后，颞叶、额叶语言区进一步加工和整合语法、语义等语言信息。以往神经成像研究表明，这些区域主要涉及到左半球的颞上回、颞中回(middle temporal gyrus)、颞下回(inferior temporal gyrus)和额下回(Bonilha et al.,2017;Friederici, 2012;Hickok & Poeppel, 2007; Skeide & Friederici, 2016; Friederici et al.,2017)。颞上回的中、前部具有区域组织特征，在信息从其中间部分向前投射的过程中，实现从词汇到句子层次语言信息的加工(Bonilha et al.，2017；DeWitt & Rauschecker，2012;Rauschecker,2018)。颞中回的部分区域可能将音韵转换和词汇语义处理连接起来，颞下回的部分区域被证明参与了词汇语义加工(Binder et al.,2009;Bonilha et al.,2017;Ripoles et al.,2017)。而额下回对这些听觉语言表征进一步分析以及可能联系听觉语言工作记忆，参与语义整合和复杂语法的处理，例如，对句子成分的重新排序(Europa et al.,2019;Kuhnke et al,2017; Schneider et al.,2016)。额下回在解剖上可以细分为不同的区域，主要包括岛盖部(parsopercularis)、三角部(pars triangularis)以及眶部(pars orbitalis），其中，岛盖部和三角部又被称为 Broca 区(Amunts et al.,2010; Tremblay & Dick,2016)。
+
+除此之外，由于听觉语言理解的加工过程依赖动态的、相互联系的大脑网络，因此，高级语言皮层与听觉皮层脑区间的连接也扮演着重要角色(den Ouden etal.,2012;Europa et al.,2019; Friederici,2012; Gierhan,2013; Hickok & Poeppel,2007; Schneider et al.,2016)。在初级皮层到高级皮层的自下而上前馈传递中，大脑的颞上回/沟的信息沿腹侧方向向前投射到额下回，实现对这些高阶语言信息(例如,句法结构和抽象语义)的处理(Europa et al.，2019;Friederici,2012; Liu et al.,2020; Lyu et al.,2016; Zhang et al.,2019)。此外，大脑也会利用自上而下的反馈途径来协助快速识别信息（Friederici,2012；Lyu et al.,，2016;Oestreich et al.,2018;Zhang et al.,2019)。例如，当大脑凭借先验知识以预测的方式实现声音-意义映射时，额下回将语义预测信息自上而下地反馈到颞叶(Oestreich et al.,2018; Zhang et al.,2019)。基于功能性磁共振成像的动态因果关系(Dynamic Causal Modeling，DCM)、格兰杰因果关系(Granger Causality Analysis,GCM)统计方法的研究均发现：与符合预期的语音内容相比，大脑在处理不符和预期的语音内容时，存在额下回反馈到颞上回前部的有效连接并且连接显著增强(Liu etal.,2020;Lyuetal.,2016)。但DCM采用假设驱动方法，并没有分析所有可能的模型，应该谨慎看待。
+
+总的来说，以往关于脑区功能的神经成像研究常常受到研究技术时、空间分辨率的限制，并且能够直接提供因果关系证据的多数是脑损伤研究，但是脑损伤的面积和位置是不可控制的，因此能够探究的脑区位点和功能受到一定制约。此外，研究脑区间有效连接的技术也常常只能间接地通过DCM等统计方法揭示信息传递方向。而研究者使用大脑电刺激可以相对灵活地快速确定大脑区域的功能特征，并且具有良好的时、空间分辨率。因此，越来越多的大脑电刺激研究通过直接的因果映射，深入探究了听觉语言理解过程中大脑语言网络的结构与功能。
+
+大脑电刺激研究证明了左半球的颞叶(颞上回/沟、颞中回、颞下回)和额叶(额下回)在口语理解方面具有重要作用。颞上回/沟(主要是中、后部)与语音感知功能的相关大脑电刺激研究在上文2.2.2中已做介绍，此外，颞上回/沟(主要是前部)还被证明参与了听觉单词、句子理解的加工过程。一方面，就单词处理而言，以往脑损伤病人研究中，非常缺乏将损伤部位与单词理解联系起来的典型案例，而大脑电刺激研究弥补了这方面的不足，揭示了颞上回前部与听觉单词理解的因果关系。当被试进行听觉单词-图片匹配等任务时，研究者对其施加电刺激并将诱发的功能障碍分为两类：一类表现为无法分辨出听觉单词形式，另一类表现为无法理解语义。研究发现前一类障碍与颞上回的中-前部相关，后一类障碍与颞上回的前部相关，这可以推测听觉单词理解所涉及的区域具有区域组织特征，即从音素、词形到语义检索加工的位置方向是沿着颞上回向前投射(Roux etal.,2015)。另一方面，就句子处理而言，Matsumoto 等人(2011)使用大脑电刺激刺激左侧颞上回/沟的前部，被试表示能听到语音，但无法理解内容。研究者进一步通过对同一句子的视觉呈现、播放古典音乐和非语言声音的任务来明确左侧颞上回/沟前部的作用，却发现被试的视觉句子理解和音乐感知等并没有受到影响，这表明该区域特定作用于听觉语言的理解过程。但该研究需要进一步明确造成被试理解障碍的原因是在词汇层次上还是在句子层次上(Matsumoto etal.,2011)。
+
+大脑电刺激研究也表明左颞中回、颞下回的后部区域促进听觉语言理解。Nakai等人(2017)发现电刺激该区域时，被试表示能够听到问题，却无法理解，这暗示了左颞中回、颞下回的后部参与了语义表征的过程，与ECoG 研究的高伽马结果一致(Nakai etal.,2017)。值得注意的是，颞下回的前部进行的是一种一般意义上的语义表征。在听觉和视觉语义任务中，刺激该区域均短暂抑制了被试的语义理解加工。研究者综合以往研究推测，白质连接将听觉等不同模态的信息传递到前颞叶区域，不同模态的表征信息在这里汇聚，并与跨模式语义表征中心进行配对。最终，在这里生成的神经计算既可以融合成连贯的语义，又可能生成新的语义(Shimotake et al., 2015)。
+
+大脑电刺激研究显示左侧额下回参与抽象语义的加工。Oren 等人(2019)发现，在词汇具体性判断任务中，对BA44施加的高频大脑电刺激会导致被试对抽象词错误处理，但不会影响具体词的加工。这也表明，大脑电刺激能为研究者提供一种直接的方法来揭示两种或多种功能的分离。此外，左侧额下回与左额中回参与词汇提取过程的假设也得到了验证。大脑电刺激研究报告左侧额下回与左侧额中回在接受高频大脑电刺激时，被试无法说出与问题相关的单词(Nakai et al.,2017)。
+
+为了更深入地明确语言加工的整合机制，神经学家利用大脑电刺激技术证明了人体内颞-额叶语言网络间的功能和有效连接(Enatsu et al.，2013；Entz et al,2014；Garell,2013;Kanno et al.,2018; Keler et al., 2011; Matsumoto et al., 2004; Nakae et al.,2020; Nishida et al.,2017)。首先，大脑电刺激研究揭示了区域间的功能特征。Enatsu 等人(2013)根据低频大脑电刺激的诱发电位潜伏期、分布情况，发现语言区域可以在颞叶-额叶语言连接区域范围之外被识别出来，从而可以推断受癫痫疾病影响的语言重组可能与大脑区域的功能转移有关，即从颞叶语言区和额叶语言区连接的终止端转移到到周围皮质区域。其次，大脑电刺激的独特优势更表现在直接揭示脑区之间的信息传递方向上。研究表明，外侧裂周区(perisylvian)内的前后语言区之间的信息传递是双向的，这些语言区域都可以记录到对方的诱发电位(Matsumoto etal.,2004)。同样地，CCEP 的测量也证实了颞上回和额下回位点之间相互投射，是一种两两相互作用的有效连接模式(Keller et al.,2011; Entz et al,2014; Nishida et al.,2017)。研究者还进一步使用大脑电刺激技术在人体内验证了额下回的盖部、三角部、眶部分别与颞叶存在不同的双向有效连接，并呈现出前后梯度性。例如，额下回的前部连接外侧颞叶较前的部分，额下回后部与外侧颞叶较后的部分连接(Matsumoto et al.,2004; Nakae et al.,2020)。这些CCEP研究以直接的方式提供了脑区网络间协作的方向，并且也为我们认识大脑中自下而上与自上而下的反馈方式间接地提供了参考。但需要注意的是，由于大脑网络根据信息内容进行动态交互，研究者将脑区间双向连接的结果应用到解释脑区间前馈与反馈关系的时候，应当注意依据脑区的实时功能进行分析。
+
+本章节中涉及到的主要研究的刺激位点、记录位点、电流参数和主要结论等信息如下表所示(见表1和表 2)。
+
+表1大脑电刺激在听觉语言加工中的应用研究 (脑区连接部分)  
+
+<html><body><table><tr><td>研究</td><td>N</td><td>年龄 mean (min~max)</td><td>刺激位点</td><td>记录位点</td><td>频率 (Hz)</td><td>电流强度 (mA)</td><td>时长 (ms)</td><td>主要结论</td></tr><tr><td>Rosenberg</td><td>7</td><td>34</td><td></td><td>PuM，皮层皮层广泛位</td><td>0.2</td><td>3</td><td>1</td><td>丘脑内侧枕与皮层有广泛</td></tr><tr><td>et al. (2009)</td><td></td><td>(16~47)</td><td>广泛位置</td><td>置,PuM</td><td></td><td></td><td>联系</td><td></td></tr><tr><td>Atencio et al.</td><td>5</td><td>成年</td><td>MGB</td><td>PAC</td><td>2</td><td>(20~35.6)</td><td></td><td>0.2用低强度电流刺激猫丘脑</td></tr><tr><td>(2014)</td><td></td><td></td><td></td><td></td><td></td><td>X 10-6</td><td></td><td>可以激活听觉皮层</td></tr><tr><td>Howard et al.</td><td>18</td><td>/</td><td>HG</td><td>PLST</td><td>1/2</td><td>1~4</td><td></td><td>0.2 HG与PLST之间存在单向</td></tr><tr><td>(2000)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>投射</td><td></td></tr><tr><td>Brugge et al.</td><td>7</td><td>38</td><td>HG, PLST</td><td>HG, PLST</td><td>1/0.5</td><td>1~4</td><td></td><td>0.2HG与PLST之间存在双向</td></tr><tr><td>(2003)</td><td></td><td>(19~46)</td><td></td><td></td><td></td><td></td><td>投射</td><td></td></tr><tr><td>Matsumoto</td><td>8</td><td>24.9</td><td></td><td>颞叶，额叶，颞叶，额叶,</td><td>1</td><td>12</td><td></td><td>0.3Perisylvian 内的双向连接</td></tr><tr><td>et al. (2004)</td><td></td><td>(13~42)</td><td></td><td>面部运动区 顶叶，中央沟</td><td></td><td></td><td></td><td></td></tr><tr><td>Entz et al.</td><td>25</td><td>31.6</td><td></td><td>颞叶，额叶颞叶，额叶</td><td>0.5/1</td><td>10</td><td></td><td>0.2颞叶、额叶等语言网络之</td></tr><tr><td>(2014)</td><td></td><td>(15~60)</td><td></td><td></td><td></td><td></td><td></td><td>间的双向投射</td></tr></table></body></html>
+
+表2大脑电刺激在听觉语言加工中的应用研究 (功能特点方面)  
+
+<html><body><table><tr><td>Kanno et al.</td><td>27</td><td>/</td><td>额叶</td><td>颞顶区</td><td>1</td><td>10</td><td>/</td><td>个体的额叶和颞顶叶在半</td></tr><tr><td>(2018)</td><td></td><td>(13~43)</td><td></td><td></td><td></td><td></td><td></td><td>球之间的连接比较</td></tr><tr><td>Nakae et al.</td><td>14</td><td>45.9</td><td>IFG，外侧</td><td>IFG,外侧</td><td>1</td><td>15</td><td></td><td>0.3左IFG 各部分分别与颞叶</td></tr><tr><td>(2020)</td><td></td><td>(21~79)</td><td>颞-枕区</td><td>颞-枕区</td><td></td><td></td><td></td><td>呈梯度性连接</td></tr></table></body></html>
+
+<html><body><table><tr><td>研究</td><td>N</td><td>年龄 mean (min~max)</td><td>刺激位点</td><td>记录位点</td><td>频率 (Hz)</td><td>电流强度 时长 (mA)</td><td>(ms)</td><td>主要结论</td></tr><tr><td>Ma et al.</td><td>11</td><td>成年</td><td>MGBv/m</td><td>A1</td><td>10</td><td>0.0001</td><td></td><td>0.2刺激蝙蝠MGB不同部位</td></tr><tr><td>(2009)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>对 A1的影响不同</td></tr><tr><td>Zhang et al.</td><td>9</td><td>成年</td><td>听觉皮层</td><td>MGB</td><td>5</td><td>0.0001</td><td></td><td>0.2髭蝠听觉皮层对丘脑神</td></tr><tr><td>(2000)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>经元的反馈作用</td></tr><tr><td>Sinai et al.</td><td>6</td><td>35.7</td><td>STG</td><td>STG</td><td>50</td><td>10~15</td><td></td><td>0.3颞上回中/后部均影响听</td></tr><tr><td>(2009)</td><td></td><td>(23~58)</td><td></td><td></td><td></td><td></td><td></td><td>觉语言知觉和听觉理解</td></tr><tr><td>Boatman</td><td>5</td><td>32</td><td>左 STG</td><td>左 STG</td><td></td><td><15</td><td></td><td>0.3左 STG 辅音和元音知觉</td></tr><tr><td>et al. (1997)</td><td></td><td>(17~47)</td><td></td><td></td><td></td><td></td><td></td><td>是有差异的</td></tr><tr><td>Suzuki et al.</td><td>7</td><td>22</td><td>PLST</td><td>PLST</td><td>50</td><td>0~15</td><td></td><td>0.4双侧PLST 的功能不同</td></tr><tr><td>(2018)</td><td></td><td>(18~47)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Matsumoto</td><td>2</td><td>31</td><td>STG/STS,</td><td>STG/STS,</td><td>50</td><td>/</td><td></td><td>0.3左颞叶前区在听觉语言</td></tr><tr><td>et al. (2011)</td><td></td><td>(30~32)</td><td>pMTG,pITG</td><td>pMTG,pITG</td><td></td><td></td><td></td><td>感知中的作用</td></tr><tr><td>Roux et al.</td><td>90</td><td>48</td><td>额叶，顶叶,</td><td>额叶，顶叶,</td><td>60</td><td>4~12</td><td>1</td><td>左侧颞上回参与单词理</td></tr><tr><td>(2015)</td><td></td><td>(18~74)</td><td>颞叶</td><td>颞叶</td><td></td><td></td><td></td><td>解的加工</td></tr></table></body></html>
+
+注:SEEG，Stereo-electroencephalography，立体定向脑电图；ECoG,electrocorticography，脑皮层电图；PuM, thalamic Medial Pulvinar nucleus，丘脑内侧枕；MGB,Medial Geniculate Body，内侧膝状体；PAC,Primary Auditory Cortex，初级听觉皮层; HG,Heschl's Gyrus，赫氏回; PLST,Posterior Lateral Superior Temporal area, 颞上回后外侧;PST,Posterior Superior Temporal area,颞上回后侧；STG,Superior Temporal Gyrus，颞上回; PCG,Precentral Gyrus 中央前回; IFG,Inferior Frontal Gyrus,额下回; pSTG,Posterior Superior Temporal Gyru, 颞上回的后部；pIFG,Posterior Inferior Frontal Gyrus，额下回的后部;STS,Superior Temporal Sulcus，颞上 沟;pMTG,Posterior Middle Temporal Gyru，颞中回的后部; pITG,Posterior Inferior Temporal Gyrus,颞下回的 后部;MTG,Middle Temporal Gyrus,颞中回.
+
+# 3总结与展望
+
+听觉语言加工从输入到完成理解的整个过程相当复杂，涉及到的大脑范围较广：听觉皮层接收来自丘脑内侧膝状体的输入，进行声音基本特征的分析，再将信息依次传递到颞叶、额叶语言区域处理以及额叶语言区传递复杂语法、语义等预测性信息到颞叶。大脑电刺激可以相对灵活地直接定位在这个过程中负责某一功能的大脑区域。除此之外，大脑电刺激作为一种能反映有效连接的手段，还可以揭示听觉语言加工过程中的脑区连接。本文从大脑电刺激技术方法入手，通过综述现有听觉语言加工过程中的相关大脑电刺激研究，总结了听觉语言加工过程中涉及的脑区的功能特点以及不同脑区间的信息传递机制，为进一步探索听觉语言加工机制以及大脑电刺激技术在大脑功能研究中的应用提供了一个新的视角。
+
+虽然现有研究为听觉语言加工的神经机制提供了一定的证据，然而利用大脑电刺激技术对听觉语言加工的探索仍然不足：
+
+首先，大脑很多区域的功能尚未得到大脑电刺激的验证，研究者未来可以将高频大脑电刺激应用到听觉语言理解相关的任务，直接定位出负责某功能的大脑区域。例如，左侧额下回后部在句法信息处理中扮演着重要作用，虽然使用听觉语言产生任务的电刺激研究对其进行了探索(Chang etal.,2018)，但在听觉语言理解相关的任务中左侧额下回后部较少被研究。除了以上大脑区域，大脑区域间的连接也需要进一步探究。DT-MRI等方法并不能很好地直接说明区域间传递信息的时候依赖哪些结构连接，而区域间信息交流需要大脑功能区的神经元胞体和树突以及白质连接内轴突的作用，通过对这些神经元位置施加大脑电刺激，分析相关功能的变化，这将有助于揭示信息传递的神经通路(Duffau，2015；Ivanova et al.，2016;Ripolles et al.,2017)。纵观以往研究，尽管使用视觉语言理解等任务的大脑电刺激研究为探究大脑结构-功能关联提供了重要依据(Duffau et al.,2008; Koubeissi et al.,2016; Sarubbo et al.,2016;Sierpowska et al.,2019)，但直接使用听觉语言理解任务揭示大脑结构与功能的大脑电刺激研究数量较少(Cocquyt etal.,2020)，还有一些功能任务的加工尽管包括了听觉语言理解过程，比如听觉命名任务，但是不能细致地区分每个听觉语言信息加工阶段参与的脑区(Muhet al.,2020;Serafini et al.,2013)。但近年来有研究者尝试结合大脑电刺激与高伽玛活动等其他指标来揭示听觉语言信息加工每个阶段参与的脑区，例如，高频大脑电刺激可以直接进行功能定位，而高伽玛活动能够直观反映这些位置激活的动态变化(Nakai etal.,2017)。未来研究者可以进一步丰富大脑电刺激研究，为人类听觉语言模型提供更深入的见解。
+
+其次，由于人类听觉语言加工的复杂性，从听觉感知到语言理解的过程不仅仅需要听觉语言系统的参与，也需要一般认知功能网络的协作，从而整合听觉语言信息与非听觉语言信息，最终实现一定的功能作用。由于已有技术限制，听觉语言网络与其他认知功能网络交互的大规模连接模式较少得到有效的探索。近年来，研究者尝试使用低频大脑电刺激进行了初步探索。Entz 等人(2014)通过分析皮质-皮质间诱发电位，考察了Broca 区（BA44、BA45区域）与更广泛的脑区的有效连接，即从Broca区输出的信息，可以传递到BA8、BA21、BA39、BA28、BA41/42、前扣带和海马旁回区域；而 BA9、BA38、BA46 和扣带回的前部将信息输入到 Broca区。大脑电刺激为我们从理解听觉语言区域与其他一般认知功能区域的协作机制打开了一个窗口，未来研究中可以进一步揭示这些区域的连接模式。
+
+此外，目前对听觉语言加工过程的研究中，多数探讨的是左侧优势半球的功能特点和有效连接，对左右侧半球的差异探讨较少。如果能综合优势半球与非优势半球的功能差异将有助于补充、完善听觉语言理解模型(Friederici,2012;Matsumoto et al.,2004)。已有研究将低频大脑电刺激应用于考察非优势半球的语言加工情况。Kanno 等人(2018)发现额叶-颞顶网络在语言优势侧半球和非优势侧半球的功能作用和白质发育方面的差异可以通过诱发电位振幅的偏侧化表现进行预测，即优势半球的诱发电位振幅明显大于非优势半球。具体的生理机制还有待说明，但这为利用低频大脑电刺激揭示优势半球与非优势半球的功能差异提供了借鉴(Kanno et al., 2018)。
+
+最后，就大脑电刺激技术本身而言，仍有许多问题需要进一步明确。第一，就大脑电刺激的生理机制而言，未来应进一步阐明在每一时间段产生诱发电位的通路和细胞机制，为揭示听觉语言皮质间信息传递的路径提供更明确的指导；第二，通过记录低频大脑电刺激刺激位点与响应位点的情况判断两个脑区之间存在连接，这可能存在"假阳性"的情况，即记录位点的响应是通过可能存在的中间位点的激活引起的，未来可以通过可视化电刺激过程的响应情况，确定脑区之间的连接；第三，目前大脑电刺激的应用存在广阔的空间，未来应建立更大的被试数据库以便于扩大颅内电极覆盖的区域，验证已有结果以及增进研究者间的交流(Prime et al., 2018)。
+
+尽管大脑电刺激技术具有一定的局限性，但优势更为明显。在揭示脑区连接方面，不像弥散张量成像和功能性核磁共振技术反映的仅是结构连接和功能连接，而是更为直接的有效连接；而且揭示功能特点方面也是通过直接映射获得相应的结果。利用此技术进行听觉语言研究将有更广阔的应用前景，低、高频电刺激相互结合的应用也会带来更多的因果性证据。因此未来应多加利用此技术，探索听觉语言信息的加工神经机制，进一步认识听觉语言加工的本质。
+
+# 参考文献
+
+Alito,H.J.,& Usrey,W.M.(2003). Corticothalamic feedback and sensory processing. Current Opinion in Neurobiology, 13(4), 440-445.   
+Amunts,K.,Lenzen,M.,Friederici,A.D.,Schleicher,A.,Morosan,P.,Palomero-Gallgher,N.,& Ziles,K. (2010).Broca's region: Novel organizational principles and multiple receptor mapping.Plos Biology,8(9), e1000489.   
+Antunes,F. M.,& Malmierca,M. S.(2014).An overview of stimulus-specific adaptation in the auditory thalamus.Brain Topography,27(4), 480-499.   
+Atencio,C.A.,Shih,J.Y.,Schreiner,C.E.,& Cheung,S.W.(2014).Primaryauditorycortical responses to electrical stimulation of the thalamus. Journal of Neurophysiology,1l1(5),1077-1087.   
+Bartlett E.L.(2O13).The organization and physiologyof the auditory thalamus andits role in processing acoustic features important for speech perception. Brain and Language,126(1),29-48.   
+Bignall,K.(1969).Bilateral temporofrontal projections in the squirel monkey: Origin,distributionand pathways. Brain Research,13(2),319-327.   
+Binder, J.R.,Desai,R.H., Graves,W.W.,& Conant,L.L.(2009). Where is the semantic system?Acriticalreview and meta-analysis of 120 functional neuroimaging studies.Cerebral Cortex, 19(12),2767-2796.   
+Binder, J.R.,Frost,J.A., Hammeke,T.A.,Bellgowan,P.S.,Springer,J.A., Kaufman,J. N.,& Possing,E.T. (2000). Human temporal lobe activation by speech and nonspeech sounds. Cerebral Cortex,10(5),512-528.   
+Boatman,D.(20o4). Cortical bases of speech perception: Evidence from functional lesion studies.Cognition, 92(1-2), 47-65.   
+Boatman, D.，Hall，C.，Goldstein， M.H.，Lesser,R.，& Gordon，B.(1997). Neuroperceptual differences in consonant and vowel discrimination: As revealed by direct cortical electrical interference. Cortex,33(1),83- 98.   
+Boatman,D.,Lesser,R.P.,& Gordon,B.(1995).Auditory speech processing in the left temporal lobe: An electrical interference study. Brain and Language,51(2),269-290.   
+Bonilha,L.,Hilis,A.E.,Hickok,G.,den Ouden,D.B.,Rorden, C.,&Fridriksson,J.(2017).Temporal lobe networks supporting the comprehension of spoken words.Brain, 140(9),2370-2380.   
+Borchers,S.,Himmelbach,M.,Logothetis,N.,& Karnath,H. O.(2011). Direct electrical stimulationof human cortex - the gold standard for mapping brain functions?. Nature Reviews. Neuroscience,13(1), 63-70.   
+Boulogne,S.,Andre-Obadia,N.,Kimiskidis,V.K.,Ryvlin,P.,&Rheims,S.(2016).Cortico-corticaland motor evoked potentials to single and paired-pulse stimuli: An exploratory transcranial magnetic and intracranial electric brain stimulation study. Human Brain Mapping,37(11),3767-3778.   
+Boulogne,S.,Ryvlin,P.,& Rheims,S. (20l6).Single and paired-pulse electrical stimulation during invasive EEG recordings. Revue neurologique,172(3),174-181.   
+Brugge,J.F. Volkov,I.O.,Garel,P.C.,Reale,R.A.,& Howard,M.A.3rd (20o3).Functional connections between auditory cortex on Heschl's gyrus and on the lateral superior temporal gyrus in humans.Journal of Neurophysiology, 90(6),3750-3763.   
+Catani,M.,& Mesulam,M. (2oo8).The arcuate fasciculus and the disconnection theme in language and aphasia:
+
+History and current state. Cortex,44(8),953-961.
+
+Chang,E.F., Kurteff, G.,& Wilson,S.M.(2018).Selective interference with syntactic encoding during sentence production by direct electrocortical stimulation of the inferior frontal gyrus.Journal of Cognitive Neuroscience,30(3),411-420.   
+Cocquyt,E.M.,Lanckmans,E.,van Mierlo,P., Duyck, W.,Szmalec,A.,Santens,P.,&De Leter,M. (202). The white mater architecture underlying semantic processing: A systematic review. Neuropsychologia,136, 107182.   
+Conner, C.R.,Ellmore,T.M.,DiSano,M.A.,Pieters,T.A.,Poter,A.W.,& Tandon,N. (2011).Anatomic and electro-physiologic connectivity of the language system: A combined DTI-CCEP study. Computers in Biology and Medicine,41(12),1100-1109.   
+Cushing,H. (1909).Anote upon the faradic stimulationof the postcentral gyrus inconscious patients.Brain,32(1), 44-53.   
+David,O.,Bastin,J., Chabardes,S.，Minoti,L.，& Kahane,P.(2010). Studying network mechanisms using intracranial stimulation in epileptic patients.Frontiers in Systems Neuroscience,4,148.   
+David,O.,Job,A.S.,De Palma,L.,Hoffmann,D.,Minotti,L.,& Kahane,P.(2013).Probabilisticfunctional tractography of the human cortex. Neurolmage, 80, 307-317.   
+de la Mothe,L.A.,Blumel,S.,Kajikawa,Y.,&Hackett,T.A.(2Ol2).Thalamic connectionsofauditorycortex in marmoset monkeys: Lateral belt and parabelt regions.The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology, 295(5), 822-836.   
+den Ouden,D.B.,Saur,D.,Mader,W.,Schelter,B.,Lukic,S.,，Wali,E.,..Thompson,C.K. (2012).Network modulation during complex syntactic processing. NeuroImage, 59(1), 815-823.   
+DeWit, I.,&Rauschecker,J.P. (2Ol2).Phoneme and word recognition in the auditoryventral stream.Proceedings of the National Academy of Sciences,109(8),E505-E514.   
+Duffau,H. (2015). Stimulation mapping of white mater tracts to study brain functional connectivity. Nature
+
+Reviews Neurology, 11(5),255-265.
+
+Dufau,H.,Leroy,M.,& Gatignol,P.(2008). Cortico-subcortical organizationof language networks in the right hemisphere: An electrostimulation study in left-handers. Neuropsychologia, 46(14),3197-3209.   
+Enatsu,R.,Kubota,Y.,Kakisaka,Y.,Bulacio,J.,Piao,Z.,OConnor,T.,..Nair,D.R.(2o13).Reorganizationof posterior language area in temporal lobe epilepsy: A cortico-cortical evoked potential study. Epilepsy Research,103(1),73-82.   
+Entz,L.,Toth,E.,Keler,C.J.,，Bickel,S.,，Groppe,D.M.,Fabó,D.,..Mehta,A.D. (2014).Evoked effective connectivity of the human neocortex. Human Brain Mapping, 35(12), 5736-5753.   
+Ezure,K.，& Oshima,T. (1985).Lateral spread of neuronal activity within the motor cortex investigated with intracellular responses to distant epicortical stimulation.The JapaneseJournal ofPhysiology,35(2),223-249.   
+Europa,E. Gitelman, D.R., Kiran, S.,& Thompson, C.K. (2019). Neural connectivity in syntactic movement processing. Frontiers in Human Neuroscience, 13,27.   
+Fernandez,L., Velasquez, C.,Garcia Porrro,J.A.，de Lucas,E.M.,& Martino,J. (202O). Heschl's gyrus fiber intersection area: Anew insight on the connectivity of the auditory-language hub. Neurosurgical Focus, 48(2), E7.   
+Foerster, O.，& Altenburger,H.(1935)Elektrobiologische vorgange an der menschlichen hirnrinde.Dtsch. Z. Nervenheilk,135,277-286.   
+Friederici, A.D.(2012). The cortical language circuit: From auditory perception to sentence comprehension. Trends in Cognitive Sciences,16(5),262-268.   
+Friederici,A.D., Chomsky, N.， Berwick,R.C.， Moro,A.，& Bolhuis,J. J. (2017). Language，mind and brain. Nature Human Behaviour; 1(10),713-722.   
+Fritsch,G.,& Hitzig,E.(1870) Uber die elektrische erregbarkeit des Grosshirns.Arch Anat Physiol Wissen,37, 300-332.Reprinted in 2009: Electric excitability of the cerebrum. Epilepsy& Behavior; 15(2),123-130.   
+Garell,P. C.,Bakken,H.,Greenlee,J.D.W.,Volkov,I.,Reale,R.A.,Oya,H.,..Brugge,J.F. (203).Functional
+
+connection between posterior superior temporal gyrus and ventrolateral prefrontal cortex in human. Cerebral Cortex,23(10),2309-2321.
+
+George,D. D., Ojemann, S. G., Drees, C.,& Thompson, J. A. (2020). Stimulation mapping using stereoelectroencephalography: Current and future directions. Frontiers in Neurology,11, 320.   
+Gierhan,S.M.E.(2Ol3). Connections for auditory language in the human brain. Brain and Language,127(2), 205-221.   
+Hackett T.A.(2011). Information flow in the auditory cortical network. Hearing Research,271(1-2),133-146.   
+Hickok，G.，& Poeppel，D. (2007). The cortical organization of speech processing.Nature Reviews. Neuroscience, 8(5),393-402.   
+Humphries，C.，Liebenthal，E.，& Binder，J.R.(2010). Tonotopic organization of humanauditory cortex. Neurolmage, 50(3),1202-1211.   
+Howard,M.A.,Volkov,I.O.,Mirsky,R.,Garell,P.C.,Noh,M.D.,Graner,...Brugge,J.F. (2).Auditor cortex on the human posterior superior temporal gyrus.The Journal of Comparative Neurology,416(1),79- 92.   
+Ivanova,M.V,Isaev,D.Y.,Dragoy,O.V.,Akinina,Y.S.,Petrushevskiy,A. G.,Fedina,O.N...Dronkers,N.F. (2016). Diffusion-tensor imaging of major white mater tracts and their role in language processing in aphasia. Cortex, 85,165-181.   
+Jankowska,E.,Padel,Y.,& Tanaka,R.(1975).The mode of activation of pyramidal tract cels by intracortical stimuli. The Journal of Physiology,249(3), 617-636.   
+Kanno,A.,Enatsu,R.,Ookawa,S.,Noshiro,S.,Ohtaki,S.,Suzuki,K.,..Mikuni,N. (2018).Interhemispheric asymmetry of network connecting between frontal and temporoparietal cortices: A corticocortical-evoked potential study. World Neurosurgery,120, e628-e636.   
+Keller, C.J.,Bickel,S.,Entz,L.,Ubert,I.,Milham,M.P.,KelyC.,&Mehta,A.D.(20).Intrisicfunctional architecture predicts electrically evoked responses in the human brain. Proceedings of the National Academy of Sciences,108(25),10308-10313.
+
+Keller,C.J.,Honey, C.J.,Mégevand,P.,Entz,L.,Ulbert,I.,& Mehta,A.D.(2014).Mapping human brain networks with cortico-cortical evoked potentials.Philosophical Transactions of the Royal Society of London. Series B,Biological Sciences,369(1653),20130528.
+
+Koubeissi, M. Z.,Fernandez-Baca Vaca, G., Maciunas,R.,& Stephani, C. (2016). A white mater tract mediating awareness of speech. Neurology, 86(2),177-179.   
+Kovac,S.,Kahane,P.,& Diehl, B.(2O16).Seizures induced by direct electricalcortical stimulation-mechanisms and clinical considerations. Clinical Neurophysiology,127(1),31-39.   
+Kuhnke,P.,Meyer,L.,Friederici, A.D.,& Hartwigsen, G. (2O17).Left posterior inferior frontal gyrus is causally involved in reordering during sentence processing. NeuroImage, 148, 254-263.   
+Kunieda,T., Yamao,Y., Kikuchi,T.,& Matsumoto,R. (2015). Newapproach for exploring cerebral functional connectivity: Review of cortico-cortical evoked potential. Neurologia Medico-Chirurgica,55(5),374-382.   
+Lachaux JP,Rudrauf D,Kahane P. (2O03). Intracranial EEG and human Brain Mapping.Journal of Physiology-Paris, 97(4-6), 613-628.   
+Lee,C.C.,& Winer, J. A. (201). Convergence of thalamic and cortical pathways in cat auditory cortex. Hearing Research,274(1-2), 85-94.   
+Leonard,M.K., Cai,R., Babiak,M.C.,Ren,A.，& Chang,E.F.(2019). The peri-Sylvian cortical network underlying single word repetition revealed by electrocortical stimulation and direct neural recordings. Brain and Language, 193, 58-72.   
+Lesser,R.P.,Luders,H.,Klem, G.,Dinner,D.S.,Moris,H.H.,Hahn,J.F.,& Wylle,E.(1987).Extraoperative cortical functional localization in patients with epilepsy.Journal of Clinical Neurophysiology: Offcial Publication of the American Electroencephalographic Society,4(1),27-53.   
+Liegeois-Chauvel, C.，Musolino，A.，& Chauvel，P. (1991). Localization of the primary auditory area in man.Brain,114(1),139-153.
+
+Liu,Z.,Shu,S.,Lu,L.,Ge,J.,& Gao,J.H. (2020). Spatiotemporal dynamics of predictive brain mechanisms during speech processing:An MEG study.Brain and Language,203,104755.
+
+Lyu, B., Ge,J., Niu, Z., Tan,L. H.,& Gao,J. H. (2016). Predictive brain mechanisms in sound-to-meaning mapping during speech processing. Journal of Neuroscience,36(42),10813-10822.   
+Ma,X.,& Suga,N.(2O9).Specific and nonspecific plasticity of the primary auditory cortex elicited by thalamic auditory neurons. Journal of Neuroscience,29(15), 4888-4896.   
+Mandonnet,E.,Winkler,P.A.,and Duffau,H.(20lO). Direct electrical stimulationasan input gate into brain functional networks: Principles,advantages and limitations. Acta neurochirurgica.152(2),185-193.   
+Mars,R.B.,Foxley,S.,Verhagen,L.,Jbabdi,S.,Sallet,J.,Noonan,M.P.,.Rushworth,M.F. (2016).The extreme capsule fiber complex in humans and macaque monkeys: A comparative diffusion MRI tractography study. Brain Structure and Function,221(8), 4059-4071.   
+Matsumoto,R.，Nair, D.R.,LaPresto,E.,Najm,I.， Bingaman,W., Shibasaki, H.,& Luders,H.O.(2004). Functional connectivity in the human language system: A cortico-cortical evoked potential study. Brain, 127(10), 2316-2330.   
+Matsumoto,R.,Imamura,H.,Inouchi,M.,Nakagawa,T.,Yokoyama,Y.,Matsuhashi,M.,..& Ikeda,A.(201). Left anterior temporal cortex actively engages in speech perception: A direct cortical stimulation study. Neuropsychologia, 49(5),1350-1354.   
+Matsumoto,R.， Kunieda,T.，& Nair,D.(2O17). Single pulse electrical stimulation to probe functional and pathological connectivity in epilepsy. Seizure, 44, 27-36.   
+Moore,B. C.,Tyler, L. K.,& Marslen-Wilson, W. (2008). Introduction. The perception of speech: From sound to meaning.Philosophical Transactionsof the Royal Societyof London. SeriesB， Biological Sciences,363(1493),917-921.   
+Muh, C.R.,Chou,N.D.,Rahimpour,S.,Komisarow,J.M.,Spears,T. G.,Fuchs,H.E.,..& Grant, G.A. (2020). Cortical stimulation mapping for localization of visual and auditory language in pediatric epilepsy patients. Journal of Neurosurgery: Pediatrics, 25(2),168-177.
+
+Nakae,T.,Matsumoto,R.,Kunieda,T.,Arakawa,Y.,Kobayashi,K.,Shimotake,A.,..Miyamoto,S.(2020). Connectivity gradient in the human left inferior frontal gyrus: Intraoperative cortico-cortical evoked potential study. Cerebral Cortex,30(8), 4633-4650.
+
+Nakai,Y.,Jeong,J. W.,Brown,E.C.,Rothermel,R.,Kojima,K.,Kambara,T.,.Asano,E. (2017).Three-and four-dimensional mapping of speech and language in patients with epilepsy. Brain,140(5),1351-1370.   
+Nishida,M.,Korzeniewska,A.,Crone,N.E.,Toyoda,G.,Nakai,Y.,Ofen,N.,..Asano,E. (2o7).Brain network dynamics in the human articulatory loop. Clinical Neurophysiology, 128(8),1473-1487.   
+Oestreich,L.K.,Whitford,T.J.,& Garrido,M.I. (2018).Prediction ofspeech sounds is facilitated byafunctional fronto-temporal network.Frontiers in Neural Circuits,12,43.   
+Orena，E.F.，Caldiroli, D.，Acerbi,F.，Barazzeta,1.，& Papagno，C.(2019).Investigating the functional neuroanatomy of concrete and abstract word processing through direct electric stimulation (DES) during awake surgery. Cognitive Neuropsychology, 36(3-4),167-177.   
+Pandya,D.N.,& Sanides,F. (1973). Architectonic parcelation of the temporal operculum in rhesus monkey and its projection pattern. Zeitschrift fur Anatomie und Entwicklungsgeschichte,139(2),127-161.   
+Pandya,D.N., Hallet,M.,& Kmukherjee, S.K.(1969). Intra-and interhemisphericconnections of the neocortical auditory system in the rhesus monkey. Brain Research,14(1),49-65.   
+Perrone-Bertoloti,M.,Alexandre,S.,Jobb,A.S.,De Palma,L,Baciu,M.,Mairesse,M.P.,..&David,O.(2020). Probabilistic mapping of language networks from high frequency activity induced by direct electrical stimulation. Human Brain Mapping, 41(14),4113-4126.   
+Pfurtscheller, G.，& Cooper,R.(1975).Frequency dependence of the transmission of the EEG from cortex to scalp. Electroencephalography and Clinical Neurophysiology,38(1),93-96.   
+Prime,D.，Rowlands,D., O'Keefe,S.,& Dionisio,S. (2018). Considerations in performing and analyzing the responses of cortico-cortical evoked potentials in stereo-EEG. Epilepsia, 59(1),16-26.
+
+Ratay,F. (1999).The basic mechanism for the electrical stimulation of the nervous system.Neuroscience,89(2),
+
+335-346.
+
+Rauschecker,J.P.,Tian,B.,& Hauser, M.(1995).Processing of complex sounds in the macaque nonprimary auditory cortex. Science,268(5207),111-114.   
+Rauschecker,J.P.(2011).An expanded role for the dorsal auditory pathway in sensorimotor control and integration. Hearing Research, 271(1-2),16-25.   
+Rauschecker, J. P. (2018). Where did language come from? Precursor mechanisms in nonhuman primates. Current Opinion in Behavioral Sciences,21,195-204.   
+Ripollés,P.，Biel,D.，Penaloza,C.，Kaufmann,J.，Marco-Pallares,J.,Noesselt,T.,& Rodriguez-Fornells，A. (2017). Strength of temporal white matter pathways predicts semantic learning. Journal of Neuroscience, 37(46), 11101-11113.   
+Rofes,A.,Mandonnet,E.,de Aguiar, V.,Rapp,B.,Tsapkini,K.,& Miceli,G. (2019).Language processng from the perspective of electrical stimulation mapping. Cognitive Neuropsychology, 36(3-4),117-139.   
+Rosenberg,D.S., Mauguiere,F., Catenoix, H.,Faillnot, I.,& Magnin,M. (2009).Reciprocal thalamocortical connectivity of the medial pulvinar: A depth stimulation and evoked potential study in human brain.Cerebral Cortex,19(6),1462-1473.   
+Roux,F.E.，Miskin，K.，Durand,J.B.，Sacko,O.，Rehault，E.，Tanova,R.，& Démonet,J.F.(2015). Electrostimulation mapping of comprehension of auditory and visual words. Cortex,71, 398-408.   
+Sarubbo,S.,De Benedictis,A.,Merler,S.,andonnet,E.,Barbareschi,M.,Dallabona,M.,..Duffau,H.(016). Structural and functional integration between dorsal and ventral language streams as revealed by blunt dissection and direct electrical stimulation. Human Brain Mapping, 37(11),3858-3872.   
+Schneider,L.,Spierer,L.,Maeder,P.,ButtetSovilla,J.,&Clarke,S.(O16).Auditory-verbalanalysis inaphasia. Aphasiol0gy,30(12),1483-1511.   
+Serafini S, Clyde M,Tolson M,Haglund MM. (2013). Multimodality word-finding distinctions in cortical stimulation mapping. Neurosurgery, 73(1), 36-47.
+
+Shimotake,A.,Matsumoto，R.,，Ueno,T.，Kunieda,T.，Saito，S.,Hoffman,P.，.Ikeda,A.(2015).Direct exploration of the role of the ventral anterior temporal lobe in semantic memory: Cortical stimulation and local field potential evidence from subdural grid electrodes.Cerebral Cortex,25(10),3802-3817.
+
+Sierpowska,J., Gabarroós,A.,Fernandez-Coello,A., Camins,A., Castaner,S., Juncadella,M...& Rodriguez-Fornells, A. (2019). White-matr pathways and semantic processing: Intrasurgical and lesion-symptom mapping evidence. NeuroImage: Clinical, 22,101704.   
+Sinai,A.,Crone,N.E.,Wied,H.M.,Franaszczuk,P.J.,iglioreti,D.,&Boatman-Reich,D.(2o9).Intracraial mapping of auditory perception: Event-related responsesand electrocortical stimulation. Clinical Neurophysiology,120(1),140-149.   
+Skeide,M.A.,& Friederici,A.D. (2016).The ontogeny of the cortical language network.Nature Reviews Neuroscience,17(5),323-332.   
+Suzuki,Y,Enatsu,R.,Kanno,A.,Ochi,S.,&Mikuni,N.(2018).The auditorycortex network inthe posterior superior temporal area. Clinical Neurophysiology,129(10),2132-2136.   
+Talairach,J.,&Bancaud,J.(1966).Lesion,"iritative"zone and epileptogenic focus.StereotacticandFunctional Neurosurgery, 27(1-3), 91-94.   
+Tang,J.，Yang,W.,& Suga,N.(2012).Modulation of thalamic auditory neurons by the primary auditory cortex.Journal of Neurophysiology,108(3),935-942.   
+Tremblay,P.,& Dick, A.S. (2016). Broca and Wernicke are dead, or moving past the classic model of language neurobiology. Brain and language, 162, 60-71.   
+Wessinger,C.M.，VanMeter,J.,Tian,B.，Van Lare,J.,Pekar,J.,&Rauschecker,J.P.(2001).Hierarchical organization of the human auditory cortex revealed by functional magnetic resonance imaging. Journal of Cognitive Neuroscience,13(1),1-7.   
+Woods,D.L.,Herron,T.,Kang,X., Cate,A.D.,& Yund,E. W. (2011). Phonological processing in human auditory cortical fields.Frontiers in human neuroscience, 5(42),1-15.
+
+Yi,H.G.,Leonard,M. K.,& Chang,E.F. (2O19).The encoding of speech sounds in the superior temporal gyrus. Neuron,102(6),1096-1110.
+
+Young,J. J.,Coulehan,K,Fields,M.C.,Yoo,J.Y.,Marcuse,L.V,Jete,N.,..&Bender,H.A. (218).Language mapping using electrocorticography versus stereoelectroencephalography: A case series.Epilepsy & Behavior, 84,148-151.
+
+Zhang,G.,Si,Y.,& Dang, J. (2019). Revealing the dynamic brain connectivity from perception of speech sound to semantic processing by EEG. Neuroscience, 415,70-76.
+
+Zhang,Y.,& Suga,N.(2Ooo).Modulation ofresponses and frequency tuning of thalamic and collcular neurons by cortical activation in mustached bats.Journal ofNeurophysiology,84(1),325-333.
+
+# Application of electrical brain stimulation in the auditory language processing
+
+MA Minxuan, LI Wenjie, QIN Mengling, WEI Yaohong, TAN Qianbao, SHEN Lu, CHEN Qi,
+
+HAN Biao
+
+Schoolof Psychology,South China Normal University;KeyLaboratoryofBrain,CognitionandEducation Sciences (South China NormalUniversity),inistryofucation;CenterforudiesofsychlogicalApplicatio,SouthChinaNalUniversity;Gadog KeyLaboratoryof Mental Health and Cognitive Sciene,South China Normal University,Guangzhou 510631,China
+
+Abstract: Electrical brain stimulation is an experimental technique with a long history, but only in recent years has it been widely used on human subjects.By electrically stimulating intracranial stimulation sites and analyzing elicited transient behavioral functional changes and electrical brain activity at the recording sites, electrical brain stimulation techniques can reveal functional roles within brain regions and efective connections between brain regions during cognitive processing For auditory language processing, by stimulating thalamus, auditory cortex, and higher language area,existing research has revealed the different functional roles of each brain region and the information transfer mechanism between different brain regions, providing a new perspective for further exploring the neural mechanisms of auditory language processing
+
+Key words: electrical brain stimulation, auditory language processing, effective connectivity

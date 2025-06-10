@@ -1,0 +1,1390 @@
+[
+    {
+        "type": "text",
+        "text": "Periodic sponge effect on tourism ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hongxuan Yan 1 Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing 1O0190, China and Center for Forecasting Science, Chinese Academy of Sciences, Beijing 1OO190, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Periodic sponge effect on tourism ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Periodic sponge effect ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tourism has grown an integral contributor to economics for various countries.Tourist as a goods consumer and a services beneficiary, the huge demands bring the numerous benefits and advantages to the host country. Tourism stimulate the economic growth from diferent aspects,including directly boosting economic units from the tourism industry (housing,food, transportation, etc), creating new employment opportunities, bringing important revenues to the State budget in the form of taxes and fees and enhancing the developments of other sectors engaging in the accomplishment of the tourism product (Bunghez,2016). According to the statistical data from the WTO data for Tourism Sector including passenger Transportation Services (excluding freight), Travel Services,and the recreation portion of the Other Commercial Services sector (WTO,2008),the proportion of the Tourism Sector is the sixth largest sector of the global economy and the largest Service Sector industry in the world (Lew,2011). Furthermore, the impacts of the development of tourism on the industrial production has been drawn great attentions. Copeland (1991) and Ojaghlou et al. (2019) claimed that a growing tourism will causes the de-industralization，whereas Kenell (2008) found that there is no evident negative impacts of the development of tourism on the manufacturing industry in Thailand.Besides,tourism and hospitality increase the number of available jobs (Aynalem et al., 2016).Consequently, tourism as a great contributor to economic growth is needed to be investigated to reveal the dynamic mechanism of tourism developments via modelling and forecasting. The characteristic of development paths in tourism area has also been underexplored. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Seasonality as a common characteristic has been widely found in tourism industry (Jollife and Farnswortl 2003). Seasonality in tourism has traditionally been regarded as a major problem which needs to be overcome. Cannas (2Ol2) attempt to provide a rational framework for the tourism seasonality by analysing the main characteristics of these challenges.Butler(1998)studied the characteristics of seasonality and developed a methodology to study this phenomenon. Jang (2O04) proposed quantitative solutions via financial portfolio theory to assist marketers in mitigating seasonal effects.Furthermore,in terms of quantitative analysis method, Duro and Turrion-Prats (2O19) investigated the causalities of seasonality using a mixed effects panel data model for the main tourist destinations in the world. Ferrante et al. (2O18)propose a new index to measure the seasonality in tourism by analysing the pattern of seasonal swing including seasonal amplitude and similarity. This method focus on the ordinal and cyclical structures of seasonal variations. By adopting this approach,a strong relationship between seasonal patterns and the spatial distribution throughout European countries were found. Shen et al. (2O09) compared the performance of various econometric time-series models in forecasting seasonal tourism demand and found that the methods of seasonality treatment, such as the pre-test for seasonal unit roots,affect the forecasting performance of the models.Mishra et al. (2018) evaluated the performance of Holt-Winters and Seasonal ARIMA models for forecasting foreign tourist arrivals in India. Kulendran and Wong (2O05) studied ARIMA modellng seasonality in tourism forecasting with two setings,such as one for for modeling stochastic nonstationary seasonality and another for a constant seasonality with three seasonal dummies. The out-of-sample forecasting performances were evaluated. Chen et al. (2Ol9) proposed a multiseries structural time series method with one variable to predict seasonal tourism demand. Chang and Liao (2O10)adopted seasonal ARIMA model to forecast the monthly outbound tourism departures. Gil-Alana et al. (2OO8)argued that the simple deterministic model with seasonal dummy variables and AR(1) disturbances has beter forecast performance. Saayman and Botha (2O17) proposed a SARIMA model with non-linear methods to forecast a seasonal tourist with a structural break in the data. Shen et al.(2O11) investigated the performance of combination forecasts in international tourism demand. Chu (2O09) forecasted tourism demand with ARMA-based methods. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The long memory phenomena has been widely studied in many areas,which motivates researchers to analyse this non-ignorable dependence between the present observation and al previous observations in a time series (Graves et al.,2O14).And the decay rate of this dependence can often be slower than exponential decay. Beran (1994) provided a decent condition for a long memory stationary process using the autocorrelation function (ACF), denoted by $\\rho ( j )$ for integers $j$ ， such that $\\begin{array} { r } { \\sum _ { j = - \\infty } ^ { \\infty } \\rho ( j ) = \\infty } \\end{array}$ . Furthermore, Granger and Joyeux (1980) and Hosking (1981） proposed autoregressive fractionally integrated moving average (ARFIMA) model by incorporating a fractional differencing operator of certain order $d$ $( 0 < d <$ $1 / 2 )$ with the classical autoregressive integrated moving average (ARIMA) model. To capture the real world cyclical phenomena with long-range dependence, Porter-Hudak (1990) and Hassler (1994) adopted the seasonal autoregressive fractionally integrated moving-average (SARFIMA) model. Moveover, to describe the long memory with a oscillatory pattern in many fields,Hosking (1981) extended ARFIMA model to Gegenbauer ARMA (GARMA) model by introducing Gegenbauer polynomial. To overcome the difficulties of applying the classical time series models to model, forecast and analyze time series in the form of counts,Davis et al. (1999) constructed generalised linear ARMA(GLARMA) model by modifying the linear predictor into a ARMA time series structure in a generalised linear regression model. With the prevalence of seasonal discrete time series in many areas such as biology, finance and engineering,Yan et al. (2017) extended GLARMA by replacing the ARMA structure in the linear predictor by Gegenbauer ARMA structure. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Contribution and structure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From a modelling perspective,our first contribution is to propose generalised linear regression GARMA (GLRGARMA) model and generalised linear regression SARMA (GLRSARMA) model with a innovative function of explanatory variables in order to extend GLGARMA to incorporate relevant information for model fiting and forecast in tourism area.Besides,the generalised Poisson (GP) distribution is adopted to accommodate over- equal- and under-dispersion for certain tourism data. Moreover, the performance of GLRGARMA model and GLRSARMA model with their nested sub-models are compared and evaluated using several well-known selection criteria. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our second contribution is to investigate the behaviour of tourism data. The pattern of long memory is examined. The analysis of Hurst exponent, ACF plot and periodogram plot shows that Gegenbauer long memory features are presented in tourism data. Furthermore, the distinct characteristics between Gegenbauer long memory and seasonality are demonstrated to reveal the that the GLRGARMA model is more suitable for modelling tourism data. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our third contribution is to derive a Bayesian approach via the efcient and user-friendly Rst an package in estimating our proposed models. For ML approach,the likelihood function is untractable because of involving very high dimensional integrals. Several monitors of convergence of posterior samples are discussed, such as the number of effective sample and $\\widehat { R }$ estimate. The criteria for modelling performance are also derived. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The rest of the paper is organised as follows. Section 2 reviews GLMs in the insurance area and long memory time series models for discrete data.The long memory stochastic period effect model is introduced in terms of mean function for eight sub-models and their reduced forms. Section 3 derives the Bayesian approach of our proposed models with various selection criteria. Section 4 conducts a series of simulation studies to validate the accuracy of the estimation techniques we develop for the proposed models. Section 5 presents the in-sample fiting of mortality data,out-of-sample forecast and life table construction. Section 6 concludes the paper. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Models ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Long memory time series models with Gaussian innovation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In time series setings,the terms of long memory refers to the strength of statistical dependence, extended temporal dependence or persistence between lagged observations in a time series. And the rate that such lagged dependency decreases should be slower than exponential decay, which is the main feature in the long memory structure time series (Graves et al.,2O14). The Wold representation introduced by Wold (1938) states that ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2.1. Any zero-mean nondeterministic covariance-stationary process $Y _ { t \\in \\{ 1 , 2 , 3 , \\cdots , T \\} }$ can be expressed as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { t } = c _ { t } + \\sum _ { j = 0 } ^ { \\infty } \\psi _ { j } \\varepsilon _ { t - j } = \\Psi ( B ) \\varepsilon _ { t } + c _ { t } , \\varepsilon _ { t } \\sim W N ( 0 , \\sigma ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\varepsilon _ { t }$ and $\\psi _ { j }$ are uniquely defined and satisfy $ \\begin{array} { r } { \\mathrm { ~  ~ \\rho ~ } _ { 1 } = 1 , \\sum _ { j = 0 } ^ { \\infty } \\psi _ { j } ^ { 2 } < \\infty , E ( \\varepsilon _ { t } ) = 0 } \\end{array}$ ， $E ( \\varepsilon _ { t } ^ { 2 } ) = \\sigma _ { \\varepsilon } ^ { 2 }$ $E ( \\varepsilon _ { t } \\varepsilon _ { s } ) = 0 , \\forall t , s ,$ the coefficients $\\{ c _ { t } ; t \\in \\mathbb { Z } \\}$ is a deterministic term with $\\mathbb { E } ( c _ { t } , \\varepsilon _ { s } ) = 0 , \\forall t , s _ { \\cdot }$ ， WN stands for white noise. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given a stationary time series process $\\pmb { Y } _ { 1 : T } \\equiv ( Y _ { 1 } , Y _ { 2 } , \\ldots , Y _ { T } )$ which admits Wold representation, with $\\pmb { Y } _ { 1 : T } \\in ( \\mathbb { N } \\cup \\{ 0 \\} ) ^ { T }$ ,Beran(1994) defined a condition for a long memory stationary process in terms of the divergence of the autocorrelation function (ACF) for $Y _ { t }$ and $Y _ { t + j }$ at lag $j$ ，such that ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { n \\to \\infty } \\sum _ { j = - n } ^ { n } | \\rho ( j ) | \\to \\infty { \\mathrm { ~ w h e r e ~ } } \\rho ( j ) = { \\frac { \\operatorname { C o v } ( Y _ { t } , Y _ { t + j } ) } { \\sqrt { \\operatorname { V a r } ( Y _ { t } ) \\operatorname { V a r } ( Y _ { t + j } ) } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to the Szego-Kolmogorov formula, the spectral density $f _ { s } ( \\lambda )$ can be derived by taking the Fourier transform of autocovariance functions $\\gamma _ { \\theta } ( l - j ) = ( \\mathbf { { r } } _ { \\theta } ) _ { l j }$ and $I _ { T } ( \\lambda _ { k } )$ can be derived by_taking Discrete Fourier Transformation $( { \\mathfrak { D } } ( \\cdot ) )$ d $Y _ { t \\in \\{ 1 , 2 , 3 , \\cdots , T \\} }$ where $\\begin{array} { r } { \\lambda _ { k } = \\frac { 2 \\pi k } { T } } \\end{array}$ for $\\begin{array} { r } { k = l - j = 1 , \\cdots , \\left[ \\frac { T } { 2 } \\right] , } \\end{array}$ [] represents the integer part and only half of frequencies are enough to demonstrate the features because of symmetry. The spectral density is given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { s } ( \\lambda ) = \\frac { 1 } { 2 \\pi } \\int _ { - \\infty } ^ { \\infty } \\gamma _ { \\theta } ( k ) \\exp ( - \\mathrm { i } \\lambda k ) d k , - \\pi < \\lambda < \\pi .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In practice, the periodogram $I _ { T } ( \\lambda )$ is usually employed as a estimator of the spectral density $f _ { s } ( \\lambda )$ . Koopmans (1995） stated that $I _ { T } ( \\lambda )$ is unbiased but inconsistent estimator of $f _ { s } ( \\lambda _ { k } )$ for a Gaussian white noise ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "process $Y _ { t \\in \\{ 1 , 2 , 3 , \\cdots , T \\} }$ . The periodogram is given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { I _ { T } ( \\lambda _ { k } ) } } & { { = } } & { { \\displaystyle \\frac { 1 } { 2 \\pi T } | \\Re ( Y _ { i \\in \\{ 1 , 2 , \\ldots , T \\} } ) | ^ { 2 } } } \\\\ { { } } & { { } } & { { } } \\\\ { { } } & { { = } } & { { \\displaystyle \\frac { 1 } { 2 \\pi T } \\left| \\displaystyle \\sum _ { j = 1 } ^ { T } Y _ { j \\in } ^ { i } \\right. \\nonumber \\dot { y } \\lambda _ { k } \\biggr | ^ { 2 } } } \\\\ { { } } & { { } } & { { } } \\\\ { { } } & { { = } } & { { \\displaystyle Y _ { 1 } ^ { 2 } ( \\lambda _ { k } ) + Y _ { 1 } ^ { 2 } ( \\lambda _ { k } ) , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\displaystyle Y _ { 1 } ( \\lambda _ { k } ) } } & { { = } } & { { \\displaystyle \\frac { 1 } { \\sqrt { 2 \\pi T } } \\sum _ { j = 1 } ^ { T } \\cos ( j \\lambda _ { k } ) Y _ { j } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { Y ( \\lambda _ { k } ) } } & { { = } } & { { \\displaystyle \\frac { 1 } { \\sqrt { 2 \\pi T } } \\sum _ { j = 1 } ^ { T } \\sin ( j \\lambda _ { k } ) Y _ { j } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There are two typical types of long memory model structure, the autoregressive fractionally integrated moving average (ARFIMA) model class and the generalised form of ARFIMA called Gegenbauer autoregressive integrated moving average (GARMA） model. Granger and Joyeux (1980) and Hosking (1981) extended the classical ARIMA model to the ARFIMA model, which describe a long memory stationary process with integrated order $d \\in ( 0 , 1 / 2 )$ . Hosking (1981) further extended to a generalised ARFIMA model called Gegenbauer ARMA (GARMA) model, which can model data with an oscilatory damping autocorrelation function (ACF) because the representation of long memory time series structure of GARMA model is expressed naturally in terms of Gegenbauer polynomials. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For $d \\in ( 0 , 1 / 2 )$ , the ARFIMA model exhibit long memory features. The short memory ARMA model is a special case of ARFIMA model with $d = 0$ where the long memory operator $( 1 - B ) ^ { - 2 d } = 1$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Definition 2.1 (ARFIMA). Consider a stationary time series process with constant $c \\in \\mathbb { R } .$ ，an ARFIMA model with order $( p , d , q )$ is defined by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi ( B ) ( Y _ { t } - c ) = \\Theta ( B ) ( 1 - B ) ^ { - 2 d } \\varepsilon _ { t } , \\varepsilon _ { t } \\stackrel { i . i . d } { \\sim } N ( 0 , \\sigma _ { \\varepsilon } ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the long memory operator in ARFIMA model can be represented as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 1 - B ) ^ { - d _ { a } } = \\sum _ { j = 0 } ^ { \\infty } \\frac { \\Gamma ( j + d _ { a } ) } { \\Gamma ( j + 1 ) \\Gamma ( d _ { a } ) } B ^ { j } = \\sum _ { j = 0 } ^ { \\infty } \\varphi _ { j } B ^ { j } w i t h d _ { a } = 2 d .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $B$ is the backshift operator, such that $B Y _ { t } = Y _ { t - 1 }$ and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi ( B ) = 1 - \\phi _ { 1 } B - \\cdot \\cdot \\cdot - \\phi _ { p } B ^ { p } ~ a n d ~ \\Theta ( B ) = 1 + \\theta _ { 1 } B + \\cdot \\cdot \\cdot + \\theta _ { q } B ^ { q } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "are the autoregressive and moving-average characteristic polynomials, respectively with no common roots. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For $d \\in ( 0 , 1 / 2 )$ and $u \\in ( - 1 , 1 )$ , the GARMA model exhibits a long memory with an oscillatory pattern. The ARFIMA model is the specaial case of GARMA model with $u = 1$ (see (Granger and Joyeux, 1980)) such that the factor $( 1 - 2 u B + B ^ { 2 } ) ^ { - d }$ （20 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Definition 2.2 (GARMA). Consider a stationary time series process with constant $c \\in \\mathbb { R }$ ，a GARMA model with order $( p , d , q )$ is defined by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathfrak { P } ( B ) ( Y _ { t } - c ) = \\Theta ( B ) ( 1 - 2 u B + B ^ { 2 } ) ^ { - d } \\varepsilon _ { t } \\equiv \\Theta ( B ) \\left( \\sum _ { j = 0 } ^ { \\infty } \\psi _ { j } \\varepsilon _ { t - j } \\right) , \\ \\varepsilon _ { t } i \\overset { i , i , d } { \\sim } N ( 0 , \\sigma _ { \\varepsilon } ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\Phi ( B )$ and $\\Theta ( B )$ are defined in Equations (2.1). The Gegenbauer long memory operator in GARMA model can be represented as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 1 - 2 u B + B ^ { 2 } ) ^ { - d } = \\sum _ { j = 0 } ^ { \\infty } \\psi _ { j } \\varepsilon _ { t - j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and $\\psi _ { j }$ denote the coefficients of the generating function for the Gegenbauer polynomials $( 1 - 2 u B + B ^ { 2 } ) ^ { - d }$ （204号 (Stein and Weiss, 1971). These coefficients are formulated as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { j } = \\sum _ { q = 0 } ^ { [ j / 2 ] } \\frac { ( - 1 ) ^ { q } ( 2 u ) ^ { j - 2 q } \\Gamma ( d - q + j ) } { q ! ( j - 2 q ) ! \\Gamma ( d ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $[ j / 2 ]$ represents the integral part of $j / 2$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The coefficients $\\psi _ { j }$ in Equation (2.2) are functionally dependent on $d$ that controls the strength of long memory and the Gegenbauer parameter $u$ that controls the oscillation of ACF (Rainville,196O). Furthermore, the coefficients $\\psi _ { j }$ can be easily computed using the recursive formula: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { j } = 2 u \\left( \\frac { d - 1 } { j } + 1 \\right) \\psi _ { j - 1 } - \\left( 2 \\frac { d - 1 } { j } + 1 \\right) \\psi _ { j - 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the first three terms are $\\psi _ { 0 } = 1$ ， $\\psi _ { 1 } = 2 d u$ and $\\psi _ { 2 } = - d + 2 d ( 1 + d ) u ^ { 2 }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the bounds for the coefficients in the Gegenbauer polynomials $\\psi _ { j }$ are the coefficients of ARFIMA  i ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\psi _ { j } | \\leq \\frac { ( 2 d ) _ { j } } { j ! } = \\varphi _ { j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which are demonstrated in Yan et al. (2017). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For a long memory process, investigating the behaviours of ACF with different values of $d$ and $u$ helps to understand the characteristic of long memory time series. In particular, when $u = - 1$ and $0 < d < 1 / 4$ the ACF can be written as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho ( j ) = ( - 1 ) ^ { j } \\frac { \\Gamma ( 1 - 2 d ) \\Gamma ( j + 2 d ) } { \\Gamma ( 2 d ) \\Gamma ( j - 2 d + 1 ) } \\sim \\mathrm { c o n s t a n t } \\cdot ( - 1 ) ^ { j } j ^ { 4 d - 1 } , \\mathrm { a s } j \\to \\infty .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { F o r } \\mathrm { A R F I M A } ( 0 , d , 0 )$ with $u = 1$ and $0 < d < 1 / 4$ , it is given asymptotically by, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho ( j ) = \\frac { \\Gamma ( 1 - 2 d ) \\Gamma ( j + 2 d ) } { \\Gamma ( 2 d ) \\Gamma ( j - 2 d + 1 ) } \\sim \\mathrm { c o n s t a n t } \\cdot j ^ { 4 d - 1 } , \\mathrm { a s } j  \\infty .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition, we note that the closed form ACF for the $\\mathbf { G A R M A } ( 0 , d , 0 )$ model with the constraint given by $| u | < 1 , 0 < d < 1 / 2$ is unavailable (Woodward et al., 1998) but is asymptotically given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\rho ( j ) \\sim \\mathrm { c o n s t a n t } \\cdot j ^ { 2 d - 1 } \\sin ( \\pi d - j \\lambda _ { 0 } ) , \\mathrm { a s } j  \\infty , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda _ { 0 } = \\cos ^ { - 1 } ( u )$ . For different values of $d$ and $u$ , the ACF plots of long memory time series show different patterns. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2long memory models for time series of counts: GLGARMA ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To model discrete time series with Gegenbauer long memory features, Yan et al. (2Ol7) extended the GLM to generalised linear GARMA model (GLGARMA) model which combines the GLM and the GARMA time series model. Hence,the GLGARMA model consisting of an observation variable and state variables ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "is a generalised state-space model for a time series $\\mathbf { Y } _ { 1 : T } \\equiv ( Y _ { 1 } , Y _ { 2 } , \\ldots , Y _ { T } )$ ． The canonical log link is adopted as the mean of a count distribution to ensure a strictly positive intensity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Definition 2.3 (GLGARMA model). The general model for $\\mathbf { Y } _ { t \\in \\{ 0 , 1 , 2 , \\dots \\} }$ of order $( p , d , q )$ is defined as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { Y _ { t } | \\mathcal { F } _ { 1 : t - 1 } , X _ { 1 : t } \\sim \\mathrm { D } ( \\mu _ { t } , \\nu ) , } \\\\ & { ( 1 - 2 u B + B ^ { 2 } ) ^ { d } \\Phi ( B ) ( \\ln \\mu _ { t } - c - b X _ { t } ) = \\Theta ( B ) \\varepsilon _ { t } , } \\\\ & { \\qquad \\varepsilon _ { t } = \\left\\{ \\begin{array} { l l } { z _ { t } \\frac { i . i . d } { \\sim } N ( 0 , \\sigma ^ { 2 } ) \\ f o r P D , } \\\\ { e _ { t } = \\frac { Y _ { t - 1 } - \\mu _ { t - 1 } } { \\sqrt { \\mu _ { t - 1 } } } \\ f o r O D , } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$D ( \\cdot , \\cdot )$ represents the Poisson,NB,GP or DP distributions. The dispersion parameter is defined as $\\nu \\in ( - 1 , 1 )$ for GP distribution and $\\nu > 0$ for NB and DP distributions. $\\Phi ( B )$ and $\\Theta ( B )$ are defined in Equations (2.1). The Gegenbauer parameter $| u | < 1$ controls the pattern of oscillation and the long memory parameter $0 < d < 1 / 2$ determines the strength of long memory. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The data filtration $\\mathcal { F } _ { 1 : t - 1 }$ corresponds to observed realizations of time series up to time $t - 1$ . It is the process of choosing a subset of the data set for analysis. So natural sigma algebra $\\mathcal { F } _ { 1 : t - 1 }$ for the observed data filtration means the analysis requires any subset of a given data $( Y _ { 1 } , Y _ { 2 } , \\cdot \\cdot \\cdot , Y _ { t - 1 } )$ $( Y _ { t } \\in ( \\mathbb { N } \\cup \\{ 0 \\} ) )$ （20 including empty set. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the error terms in the mean function $\\mu _ { t }$ , there are two definitions under the parametric driven (PD) and observation driven (OD) modeling approaches and they are defined in equation (2). These state equations combined with the structural equation in (2) form the structure of a class of count valued state space models. The errors of PD model follow a normal distribution which together with the data distributions, Poisson, negative binomial (NB),double Poisson (DP)and generalised Poisson (GP),constitute two sources of randomness whereas the errors of OD model are defined in terms of observations $Y _ { t }$ and mean functions $\\mu _ { t }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the data distributions,the Poisson and NB are well-unknown. GP distribution has the pmf, mean and variance given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\begin{array} { r l } { \\prime \\rangle = \\mu _ { t } ( 1 - \\nu ) [ \\mu _ { t } ( 1 - \\nu ) + \\nu y _ { t } ] ^ { y _ { t } - 1 } e ^ { - \\mu _ { t } ( 1 - \\nu ) - \\nu y _ { t } } / y _ { t } ! , } } & { { \\mu _ { t } > 0 , - 1 \\leq \\nu < 1 , } } \\\\ { { } } & { { } } \\\\ { { \\mathbb { E } ( Y _ { t } ) = \\mu _ { t } \\quad \\mathrm { a n d } \\quad \\mathrm { V a r } ( Y _ { t } ) = \\mu _ { t } ( 1 - \\nu ) ^ { - 2 } , } } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "respectively. Furthermore,the GP distribution is over-,under- and equi-dispersed when $\\nu$ is greater than, less than and equal to O respectively. On the other hand, the pmf for the DP distribution is given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { f } ( y _ { t } ; \\mu _ { t } , \\nu ) = c ( \\nu , \\mu _ { t } ) f ( y _ { t } ; \\mu _ { t } , \\nu ) , \\mu _ { t } > 0 , \\nu > 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the normalizing term $c ( \\nu , \\mu _ { t } )$ , given by Efron (1986), is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { c ( \\nu , \\mu _ { t } ) } = \\sum _ { y = 0 } ^ { \\infty } f ( y _ { t } ; \\mu _ { t } , \\nu ) \\approx 1 + \\frac { 1 - \\nu } { 1 2 \\mu _ { t } \\nu } \\left( 1 + \\frac { 1 } { \\mu _ { t } \\nu } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because of the complicated structure of $c ( \\nu , \\mu _ { t } )$ ，some properties of the DP distribution are difficult to derive. The unnormalised pmf, mean and variance are given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { f ( y _ { t } ; \\mu _ { t } , \\nu ) = ( \\nu ^ { 1 / 2 } e ^ { - \\nu \\mu _ { t } } ) \\left( \\displaystyle \\frac { e ^ { - y _ { t } } y _ { t } ^ { y _ { t } } } { y _ { t } ! } \\right) \\left( \\displaystyle \\frac { e \\mu _ { t } } { y _ { t } } \\right) ^ { \\nu y _ { t } } , } } \\\\ { { \\mathbb { E } ( Y _ { t } ) \\approx \\mu _ { t } \\quad \\mathrm { a n d } \\quad \\mathrm { V a r } ( Y _ { t } ) \\approx \\displaystyle \\frac { \\mu _ { t } } { \\nu } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "respectively. The DP distribution is over-,under- and equi-dispersed when $\\nu$ is less than, greater than and equal to 1 respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 Generalised linear regression models with periodic features ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The results from Yan et al. (2O17)shows that generalised Poisson is consistently the best distribution choice compared with Poisson,NB and DP distributions. Furthermore,PD type models with higher flexibilities is often beter than OD type models in both in-sample fiting and put-sample forecast.In terms of model structure, GLGARMA type model outperforms other types model including generalised autoregressive score (GAS) model(Creal et al.,2013),autoregressive conditional Poisson (ACP) model (GroB-KluBMann and Hautsch,2013)and GLARFIMA model in both short and long memory data with or without obvious seasonal periodicity. In this study,since our models are extended from GLGARMA types model, basing on the conclusions from Yan et al. (2O17),only PD type error term and GP distribution with Gegenbauer and seasonal periodic process are considered. Hence, generalised linear regression GARMA (GLRGARMA) model and generalised linear regression SARMA (GLRSARMA) model are proposed to capture the periodic sponge effect in a time series. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Definition 2.4 (GLRGARMA model). Given a discrete stationary time series process and a natural $\\sigma$ 1 algebra for the observed data filtration $\\mathcal { F } _ { 1 : t - 1 } = \\sigma ( Y _ { 1 } , Y _ { 2 } , \\cdot \\cdot \\cdot , Y _ { t - 1 } )$ with $t \\in [ 1 , T ] .$ ，a GLGARMA model with order $( p , d , q )$ is defined by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\displaystyle Y _ { t } | \\mathcal { F } _ { 1 : t - 1 } , X _ { 1 : t } } } & { { \\sim } } & { { G P ( \\mu _ { t } , \\nu ) , } } \\\\ { { \\Phi ( B ) \\ln ( \\mu _ { t } ) } } & { { = } } & { { c + \\displaystyle \\beta { \\bf g } ( { \\bf X _ { t } } ) + ( 1 - 2 u B + B ^ { 2 } ) ^ { - d } \\Theta ( B ) \\varepsilon _ { t } } } \\\\ { { \\varepsilon _ { t } } } & { { \\stackrel { i . i . d } { \\sim } } } & { { N ( 0 , \\sigma ^ { 2 } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { g } ( \\mathbf { X } _ { \\mathbf { t } } ) \\in \\mathbb { R } ^ { W }$ are the function of explanatory variables representing the entire feature state at time $t$ with regressors $X _ { t , s }$ for $t \\in [ 1 , T ]$ and $w \\in [ 1 , W ]$ ： $\\boldsymbol { \\beta } \\in \\mathbb { R } ^ { W }$ is a parameter vector that describing the relationship between $\\mathbf { Y }$ and $\\mathbf { X }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition to the model properties and periodic specification, namely, the seasonal difference. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Definition 2.5 (GLRSARMA model). The GLSARIMA model with order $( p , s , q )$ is given by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { Y _ { t } | \\mathcal { F } _ { 1 : t - 1 } , X _ { 1 : t } } } & { { \\sim } } & { { G P ( \\mu _ { t } , \\nu ) , } } \\\\ { { \\displaystyle \\Phi ( B ) ( 1 - \\alpha B ^ { s } ) \\ln \\mu _ { t } } } & { { = } } & { { c + \\beta { \\bf g } ( { \\bf X _ { t } } ) + \\Theta ( B ) ( 1 - \\gamma B ^ { s } ) \\varepsilon _ { t } } } \\\\ { { \\varepsilon _ { t } } } & { { \\stackrel { i . i . d } { \\sim } } } & { { N ( 0 , \\sigma ^ { 2 } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $( 1 - B ^ { s } )$ is the standard integer seasonal difference operator with the integer seasonal period $S$ that defines the frequency of the seasonal pattern. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.1ACF oscillation in Gagenbauer fractional differences versus integer and fractional seasonal difference SARFIMA models. ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The differences between the SARIMA model and GARMA model are demonstrated by Yan et al. (2017) and clarified that there exists a clear distinct feature between seasonal oscillation and the oscillation that comes from a Gegenbauer long memory process. Their results further showed that the deseasonalisation cannot remove the oscilating behavior in the Gegenbauer long memory time series.The first row in Figure 1 shows the time series plot simulated by SARMA (left panel) and GARMA (right panel). For SARMA model, the period is set to 12 which is agree with our real world data (1 year period for monthly data). For GARMA data set, the long memory parameter is $d = 0 . 4 9$ and Gegenbauer parameter i $s u = 0 . 7$ which is similar to the period of SARMA. According to the time series,the tendencies of SARMA and ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "GARMA looks very similar.It is hardly to distinguish the nature between these two series. The ACF plots (second row） and periodogram (last row） plots are provided to analysis the fundamental characteristics between SARMA and GARMA. The ACF plot for SARMA shows damped periodic peaks with overall short memory pattern. For GARMA, the ACF plot shows a typical Gegenbauer long memory ACF. There exists an oscillated long memory pattrn. The periodogram plot as an representation of ACF in frequency domain can easily reveal the diferences between SARMA and GARMA. The peaks for SARMA model in periodogram plot are allocated in several places. These peaks must be located in 0, $\\pi / 2$ and $\\pi$ because the number of peaks represents the period, which can be regarded that these peaks chop the region $[ 0 , \\pi ]$ into 12 pieces. For GARMA model, the location of the peak represents the period of Gegenbauer long memory process, which can be interpret into $\\lambda = \\cos ^ { - 1 } ( u )$ where $\\lambda$ is the location of the peak. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/05d3e23bc1b48d67da34dc3cbb0bbaf8c4a90c8695e94918ee4b8ea0229f9dac.jpg",
+        "img_caption": [
+            "Figure 1: Simulation studies for SARMA and GARMA models "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Sub-models. ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Considering some special cases of $\\beta \\mathbf { g } ( \\mathbf { X } _ { \\mathbf { t } } )$ , the GLRGARMA model and GLRSARMA model can be further divided into 8 different sub-models with their mean functions defined in Table 1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 1: 10 different sub-models where model 1,3,5,6 are GLRGARMA models, model 2,7,9,10 are GLRSARMA models. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a588311b9afc75a1d6680ee00139ebbbc5f3cdce50c1616ae464d90c9f3cc25d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>mean function</td></tr><tr><td>model 1</td><td>ln μt = βo+βX1+(1-2uB+B²)-dεt</td></tr><tr><td>model 2</td><td>ln μt= βo+βiX1+β2X2+(1-2uB+B²)-dεt</td></tr><tr><td>model 3</td><td>ln μt = (1-2uB+B²)-dX+εt</td></tr><tr><td>model 4</td><td>ln μt = (1-2uB+B²)-dX +(1-2uB+B²)-dεt</td></tr><tr><td>model 5</td><td>ln μt =β+βX1+αln μt-s+(1-γB)εt</td></tr><tr><td>model 6</td><td>ln μt = βX1+βX2+ln μt-s+(1-Bs)εt</td></tr><tr><td>model 7</td><td>lnμt =(1-δBs)X+αln μt-s+εt</td></tr><tr><td>model 8</td><td>ln μt =(1-δB$)X+αln μt-s+(1-γBs)εt</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3Bayesian inference ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this study, we adopt Bayesian inference that Bayes theorem is used to implement in-sample fiting and out-sample forecast because apriori beliefs on model structures can be incorporated into the state space structures.In addition,the computation complexities in evaluating the marginal likelihood function for PD model which involve latent values and high-dimensional integration can be avoided (Yan et al., 2017). In terms of forecast,posterior predictive distributions can be obtained to provide distributional forecast summaries,which helps to gain a deeper understanding on the model features. For example, the creditable intervals for all parameters can be easily constructed basing on the posterior distributions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Given a set of observed values ${ \\pmb y } _ { 1 : T } = ( y _ { 1 } , y _ { 2 } , . . . , y _ { T } )$ ，with each $y _ { t } \\in \\mathbb { Z } ^ { + } \\cup \\{ 0 \\}$ and the vector of unknown parameters $\\vartheta ^ { \\ast }$ , the posterior distribution for $\\vartheta ^ { \\ast }$ conditional on $\\pmb { y } _ { 1 : T }$ is given by ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pi ( \\vartheta ^ { \\ast } | \\pmb { y } _ { 1 : T } ) = \\frac { f ( \\pmb { y } _ { 1 : T } | \\pmb { \\vartheta } ^ { \\ast } ) \\pi ( \\pmb { \\vartheta } ^ { \\ast } ) } { \\int f ( \\pmb { y } _ { 1 : T } | \\pmb { \\vartheta } ^ { \\ast } ) \\pi ( \\pmb { \\vartheta } ^ { \\ast } ) d \\pmb { \\vartheta } ^ { \\ast } } \\propto f ( \\pmb { y } _ { 1 : T } | \\pmb { \\vartheta } ^ { \\ast } ) \\pi ( \\pmb { \\vartheta } ^ { \\ast } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "which is proportional to the likelihood function $f ( y _ { 1 : T } | \\vartheta ^ { * } )$ and the prior densities $\\pi ( \\vartheta ^ { \\ast } )$ estimated using available information or past data. Even if there is no prior information,we can stillapply non-informative or reference priors. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1Bayesian model ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Let $\\vartheta ^ { \\ast } = \\left( \\vartheta , z \\right)$ denote the vector of all model parameter $\\pmb { \\vartheta } = ( c , u , d , \\theta _ { j } , \\phi _ { j } , \\sigma ^ { 2 } , \\nu )$ and state parameter $\\pmb { \\varepsilon } = \\pmb { \\varepsilon } _ { 1 : T } = ( \\varepsilon _ { 1 } , \\varepsilon _ { 2 } , \\cdots , \\varepsilon _ { T } )$ ，with each $\\textstyle \\varepsilon _ { t } \\in \\mathbb { R }$ . For demonstrating purpose, both GLRGARMA model and GLRSARMA model with simple regression structure $\\beta X _ { t }$ ， $p = 0$ for $\\Phi ( B )$ and $q = 0$ for $\\Theta ( B )$ are proposed as examples. Hence, for GLRGARMA model, the latent process is $\\ln ( \\mu _ { t } ) = c + \\beta ( X _ { t } ) + ( 1 -$ （20 $2 u B + B ^ { 2 } ) ^ { - d } \\varepsilon _ { t }$ and the set of model parameter is $\\pmb { \\vartheta } = ( c , u , d , \\beta , \\sigma ^ { 2 } , \\nu )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The priors $\\pi ( \\vartheta )$ are defined as: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { u \\sim \\mathrm { U } ( - 1 , 1 ) , d \\sim \\mathrm { U } ( 0 , 1 / 2 ) , c \\sim \\mathrm { N } ( 0 , \\sigma _ { c } ^ { 2 } ) , } \\\\ & { } & { \\beta \\sim \\mathrm { N } ( 0 , \\sigma _ { \\phi } ^ { 2 } ) , \\sigma ^ { 2 } \\sim \\Gamma ( a , b ) \\mathrm { a n d } \\nu \\sim \\mathrm { U } ( - 1 , 1 ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "are adopted in which $\\mathrm { U } ( a _ { u } , b _ { u } )$ denotes the uniform priors on the range $( a _ { u } , b _ { u } )$ for the long memory parameters $u , d$ and $\\nu$ and $\\Gamma ( a , b )$ denotes the gamma prior with shape and scale parameters $a$ and $b$ respectively for the scale parameter $\\sigma ^ { 2 }$ . The joint posterior distribution for the GLRGARMA $( 0 , d , 0 )$ model with GP ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "data distribution is ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle f ( \\vartheta ^ { * } | y _ { 1 : T } , x _ { 1 : T } ) = f ( y _ { 1 : T } | \\varepsilon _ { 1 : T } , x _ { 1 : T } , \\vartheta ) f ( \\varepsilon _ { 1 : T } | \\vartheta ) \\pi ( \\vartheta ) } } \\\\ { { \\displaystyle x \\prod _ { t = 1 } ^ { T } \\left[ \\frac { \\exp ( c + \\beta ( X _ { t } ) + \\sum _ { j = 0 } ^ { \\infty } \\psi _ { j } \\varepsilon _ { t - j } ) ( 1 - \\nu ) [ \\exp ( c + \\beta ( X _ { t } ) + \\sum _ { j = 0 } ^ { \\infty } \\psi _ { j } \\varepsilon _ { t - j } ) ( 1 - \\nu ) + \\sum _ { j = 0 } ^ { \\infty } \\psi _ { j } \\varepsilon _ { t - j } ] } { \\Gamma ( y _ { t } + 1 ) \\exp - y _ { t } \\nu - \\exp ( c + \\beta ( X _ { t } ) + \\sum _ { j = 0 } ^ { \\infty } \\psi _ { j } \\varepsilon _ { t - j } ) ( 1 - \\nu ) } \\right] \\vartheta ( \\vartheta ) } } \\\\ { { \\displaystyle x \\frac { 1 } { \\sigma } \\exp \\biggl ( - \\frac { \\varepsilon _ { t } ^ { 2 } } { 2 \\sigma ^ { 2 } } \\biggr ) \\mathrm { e x p } \\biggl ( - \\frac { c ^ { 2 } } { 2 \\sigma _ { c } ^ { 2 } } \\biggr ) \\cdot \\biggl ( - \\frac { \\beta ^ { 2 } } { 2 \\sigma _ { \\beta } ^ { 2 } } \\biggr ) \\cdot ( \\sigma ^ { 2 } ) ^ { a - 1 } e ^ { - ( \\sigma ^ { 2 } ) b } I _ { u } ( - 1 , 1 ) I _ { d } ( 0 , 0 . 5 ) I _ { \\nu } ( - 1 , 1 ) , \\forall \\nu ( 0 , 1 ) } . }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where the hyperparameters are set to be $\\sigma _ { c } ^ { 2 } = \\sigma _ { \\beta } ^ { 2 } = 1 0$ ， $a = 3$ and $b = 1$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For GLRSARMA model, the latent process is $( 1 - B ^ { s } ) \\ln \\mu _ { t } = c + \\beta \\mathbf { g } ( \\mathbf { X _ { t } } ) + ( 1 - B ^ { s } ) \\varepsilon _ { t }$ and the set of model parameter is $\\pmb { \\vartheta } = ( c , \\beta , \\sigma ^ { 2 } , \\nu )$ . The priors $\\pi ( \\vartheta )$ are defined as: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc \\sim \\mathrm { N } ( 0 , \\sigma _ { c } ^ { 2 } ) , ~ \\beta \\sim \\mathrm { N } ( 0 , 1 ) , ~ \\gamma \\sim \\mathrm { N } ( 0 , 1 ) , ~ \\alpha \\sim \\mathrm { N } ( 0 , 1 ) , ~ \\sigma ^ { 2 } \\sim \\Gamma ( a , b ) ~ \\mathrm { a n d } ~ \\nu \\sim \\mathrm { U } ( \\cdot \\cdot \\cdot \\cdot ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The joint posterior distribution for the GLRSARMA $( 0 , s , 0 )$ model with GP data distribution is ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle f ( \\vartheta ^ { * } \\vert y _ { 1 : T } , x _ { 1 : T } ) = f ( y _ { 1 : T } \\vert \\varepsilon _ { 1 : T } , x _ { 1 : T } , \\vartheta ) f ( \\varepsilon _ { 1 : T } \\vert \\vartheta ) \\pi ( \\vartheta ) } } \\\\ { { \\displaystyle \\propto \\prod _ { t = 1 } ^ { T } \\left[ \\frac { \\exp \\left( c + \\beta ( X _ { t } ) + \\alpha \\ln \\mu _ { t - s } + ( 1 - \\gamma B ^ { s } ) \\varepsilon _ { t - j } \\right) \\left( 1 - \\nu \\right) } { \\Gamma ( y _ { t } + 1 ) \\exp - y _ { t } \\nu - \\exp ( c + \\beta ( X _ { t } ) + \\alpha \\ln \\mu _ { t - s } + ( 1 - \\gamma B ^ { s } ) \\varepsilon _ { t - j } ) \\left( 1 - \\nu \\right) } \\right. } } \\\\ { { \\displaystyle \\qquad \\left. \\times [ \\exp ( c + \\beta ( X _ { t } ) + \\alpha \\ln \\mu _ { t - s } + ( 1 - \\gamma B ^ { s } ) \\varepsilon _ { t - j } ) ( 1 - \\nu ) + y _ { t } \\nu ] ^ { y _ { t } - 1 } \\right] } } \\\\ { { \\displaystyle \\qquad \\times \\frac { 1 } { \\sigma } \\exp \\biggl ( - \\frac { \\varepsilon _ { t } ^ { 2 } } { 2 \\sigma ^ { 2 } } \\biggr ) \\exp \\biggl ( - \\frac { c ^ { 2 } } { 2 \\sigma _ { c } ^ { 2 } } \\biggr ) \\cdot \\biggl ( - \\frac { \\beta ^ { 2 } } { 2 \\sigma _ { \\beta } ^ { 2 } } \\biggr ) \\cdot ( \\sigma ^ { 2 } ) ^ { \\alpha - 1 } e ^ { - ( \\sigma ^ { 2 } ) b } I _ { \\nu } ( - 1 , 1 ) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2Bayesian forecasting ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "One outstanding advantage of Bayesian inference in forecasting is the construction of posterior predictive distributions for al forecasts. In this study, $m$ -step forecasts $y _ { T + 1 : T + m }$ are constructed via a sequence of 1-step ahead forecasts of $y _ { T + s }$ ， $s = 1 , \\ldots , m$ using sliding window where the observed data filtration for each window is $\\mathcal { F } _ { s : T + s - 1 }$ and ${ \\pmb x } _ { 1 : T }$ . The posterior predictive distribution for $y _ { T + s }$ ， $s = 1 , \\ldots , m$ is defined as ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } {  { f \\big ( y _ { T + s } \\big | \\mathcal { F } _ { s : T + s - 1 } , x _ { s : T + s } \\big ) } \\quad } & { } \\\\ & { = \\int . } \\\\ & { = \\int . . \\int f \\big ( y _ { T + s } \\big | \\mu _ { T + s } , \\vartheta , \\mathcal { F } _ { s : T + s - 1 } , x _ { s : T + s } \\big ) f \\big ( \\mu _ { T + s } \\big | \\mu _ { s : T + s - 1 } , \\vartheta , \\mathcal { F } _ { s : T + s - 1 } , x _ { s : T + s } \\big ) f \\big ( \\vartheta \\big | \\mathcal { F } _ { s : T + s - 1 } , \\vartheta , \\mathcal { F } _ { s : T + s - 1 } , \\vartheta , \\mathcal { F } _ { s : T + s - 1 } \\big ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "and this integral can be approximated by the Monte Carlo estimator, constructed from posterior samples according to: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { f } ( y _ { T + s } | \\mathcal { F } _ { s : T + s - 1 } , \\pmb { x } _ { s : T + s } ) = \\frac { 1 } { L } \\sum _ { l = 1 } ^ { L } f ( y _ { T + s } | \\pmb { \\mu } _ { s : T + s } ^ { ( l ) } , \\pmb { \\vartheta } _ { s } ^ { ( l ) } , \\mathcal { F } _ { s : T + s - 1 } , \\pmb { x } _ { s : T + s } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study, we set $L = 9 0 , 0 0 0$ as the number of iterations after burn-in in each MCMC sampler run given the current window of information $\\mathcal { F } _ { s : T + s - 1 }$ and $\\pmb { x } _ { s : T + s }$ . In addition, $\\mu _ { s : T + s } ^ { ( l ) }$ and $\\vartheta _ { s } ^ { ( l ) }$ are the $l$ -th draw in the posterior sample of $\\mu _ { s : T + s }$ and $\\vartheta$ , respectively. For Bayesian inference, except of the posterior predictive distribution,the various posterior predictive point estimators and predictive credible intervals can also be obtained. Empirical Bayes forecasts as a typical forecast estimator in the Bayesian seting can improve the computational efciency (?). Moreover, the features of frequentist and empirical Bayes forecasts are compared by ?.For empirical Bayes forecasts,the calculations undertake condition upon selected posterior (in sample） point estimators denoted by $\\tilde { \\vartheta }$ and $\\tilde { \\mu } _ { s : T + s }$ rather than integrating out posterior (in sample) parameter uncertainty from the predictive distribution and resultant forecast estimators (Yan et al., 2017). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { f } ^ { E B } ( y _ { T + s } | \\mathcal { F } _ { s : T + s - 1 } ) = f ( y _ { T + s } | \\tilde { \\mu } _ { s : T + s } , \\tilde { \\vartheta } _ { s } , \\mathcal { F } _ { s : T + s - 1 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Typically the point estimators used in $\\tilde { \\vartheta } _ { s }$ (similarly for $\\tilde { \\mu } _ { s : T + s } )$ are either formed from the maximum-aposteriori estimate (MAP) or the estimate which minimizes the posterior expected loss. The concept of MAP is similar to the ML estimate when the priors are uninformative since in this case $\\tilde { \\vartheta } _ { s }$ is the mode of the posterior distribution ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\tilde { \\pmb { \\vartheta } } _ { s , M A P } = \\underset { \\pmb { \\vartheta } _ { s } } { \\arg \\operatorname* { m a x } } f _ { \\pmb { \\vartheta } _ { s } } ( \\pmb { \\vartheta } _ { s } | \\mathcal { F } _ { s : T + s - 1 } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Another Bayes estimator which minimises the posterior expected loss (PEL) is defined as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\pmb { \\vartheta } } _ { s , P E L } = \\underset { \\pmb { \\vartheta } _ { s } } { \\arg \\operatorname* { m i n } } E \\big ( L ( \\pmb { \\vartheta } _ { s } , \\tilde { \\pmb { \\vartheta } } _ { s } | \\mathcal { F } _ { s : T + s - 1 } ) \\big ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $L ( \\vartheta _ { s } , \\tilde { \\vartheta } _ { s } | \\mathcal { F } _ { s : T + s - 1 } )$ is the loss function. One example is the commonly used minimum mean square error (MSE) estimator defined as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\pmb { \\vartheta } } _ { s , M S E } = \\underset { \\pmb { \\vartheta } _ { s } } { \\arg \\operatorname* { m i n } } E ( [ \\pmb { \\vartheta } _ { s } - \\tilde { \\pmb { \\vartheta } } _ { s } ] ^ { 2 } | \\mathcal { F } _ { s : T + s - 1 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { \\vartheta } _ { s , M S E }$ corresponds to the posterior mean $E ( \\vartheta _ { s } | \\mathcal { F } _ { s : T + s - 1 } ) = \\vartheta _ { s }$ . If the minimum absolute error (AE) estimator $L ( \\vartheta _ { s } , \\tilde { \\vartheta } _ { s } ) = \\left| \\vartheta _ { s } - \\tilde { \\vartheta } _ { s } \\right|$ is used, it gives $\\tilde { \\vartheta } _ { s , A E } = \\vartheta _ { s , 0 . 5 }$ which is the posterior median. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3Bayesian tool: implementation with Rstan ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To implement the proposed models efficiently, we choose the Bayesian $\\mathtt { R }$ package Rstan which utilises the stan program within $\\mathtt { R }$ developed in the $\\mathrm { C } + +$ language. The sampling method applied in Rstan is the Hamiltonian Monte Carlo (HMC) sampler (see (Duane et al.,1987), (Neal,1994)) that belongs to the class of Markov chain Monte Carlo (MCMC) sampling methods (see (Metropolis et al.,1953)). For some complicated models with many parameters,the HMC sampler converges faster than the conventional samplers such as random-walk Metropolis (see (Metropolis et al.,1953))and Gibbs sampler (see (Geman and Geman,1984)) because the HMC sampler transforms the simulation of high-dimensional target distribution into the simulation of Hamiltonian dynamics (see (Neal, 2O11)). By using the gradient information, Hamiltonian dynamics can produce distant proposals for the Metropolis algorithm, thereby avoiding the slow exploration of the state space that results from the difusive behaviour of random-walk proposals. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For the HMC sampler, to assess the dependence, precision and convergence of posterior sample, three measures are reported in Rstan. The first measure is the number of efective samples which indicates dependence within a Monte Carlo sample.The second measure is the Monte Carlo standard error(MCSE) ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { M C S E } } = { \\frac { \\mathrm { p o s t e r i o r ~ s t a n d a r d ~ d e v i a t i o n } } { \\sqrt { \\mathrm { n u m b e r ~ o f ~ e f f e c t i v e ~ s a m p l e s } } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "which reports the error of estimation for the posterior mean. To monitor the convergence for $k > 2$ chains of length $2 n$ each, Gelman and Rubin(1992) proposed $\\widehat { R }$ which is defined as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\widehat { R } } = { \\frac { \\widehat { V } } { W } } \\cdot { \\frac { d f } { d f - 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widehat { V } = \\frac { n - 1 } { n } W + \\frac { k + 1 } { k n } B , W = \\sum _ { i = 1 } ^ { k } \\frac { s _ { i } ^ { 2 } } { k } , B = n \\sum _ { i = 1 } ^ { k } \\frac { ( \\overline { { \\vartheta } } _ { i } - { \\overline { { \\vartheta } } _ { \\bot } } ) ^ { 2 } } { k - 1 } , d f = \\frac { 2 \\widehat { V } ^ { 2 } } { \\widehat { \\mathrm { V a r } } ( \\widehat { V } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { \\widehat { \\mathrm { V a r } } ( \\widehat { V } ) } & { = } & { \\displaystyle \\left( \\frac { n - 1 } { n } \\right) ^ { 2 } \\frac { 1 } { k } \\widehat { \\mathrm { V a r } } ( s _ { i } ^ { 2 } ) + \\left( \\frac { k + 1 } { k n } \\right) ^ { 2 } \\frac { 2 } { k - 1 } B ^ { 2 } + } \\\\ & & { \\displaystyle 2 \\frac { ( k + 1 ) ( n - 1 ) } { k n ^ { 2 } } \\cdot \\frac { n } { k } [ \\widehat { \\mathrm { C o v } } ( s _ { i } ^ { 2 } , \\overline { { \\vartheta } } _ { i \\cdot } ^ { 2 } ) - 2 \\overline { { \\vartheta } } _ { \\cdot } \\widehat { \\mathrm { C o v } } ( s _ { i } ^ { 2 } , \\overline { { \\vartheta } } _ { i \\cdot } ) ] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$s _ { i }$ is the within-chain variance and $\\vartheta _ { i j }$ is the $j$ -th parameter in chain $i$ .If $\\widehat { R }$ is close to 1, the parameter $\\vartheta$ has converged. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study, the number of chain is $k = 1$ and hence $B = 0$ in(3) and (4).For this chain,there are overall totally 1Oo,OoO iterations,with the first 10,OOO iterations as burn-in.Hence, there are $L = 9 0 , 0 0 0$ （204号 subsequent iterations with thin set to 1. The values of $\\widehat { R }$ for each estimators and the history plot are carefully checked to ensure that all parameters meet the convergence condition.For all of in-sample fiting and out sample forecast studies,the number of effective sample ranges from 75,0oo to 86.00O across parameters. The range of $\\widehat { R }$ is between 1.OoOO and 1.OoO3, which indicates moderate dependency and clear convergence. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4Model selection and forecast performance ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The performance of each model is evaluated through a popular Bayesian model selection criteria caled deviance information criterion (DIC) (Spiegelhalter et al.,2O14). As a generalisation of Akaike's Information Criterion (AIC),DIC can deal with models containing informative priors,such as hierarchical models. As the priors can effectively restrict the freedom of model parameters, the number of parameters as required in the calculation of AIC is generally unclear. DIC overcomes such problems by providing an estimate for the effective number of parameters. The DIC can be calculated using the equation ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D I C } = \\bar { D } + p _ { D } = 2 \\bar { D } - D ( \\bar { \\vartheta } _ { x } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where the deviance is defined as $D ( \\vartheta _ { x } ) = - 2 \\ln ( f ( \\pmb { y } _ { x } | \\vartheta _ { x } ) )$ ， $\\bar { D } = \\mathbb { E } _ { \\underline { { \\vartheta } } _ { x } | y _ { x } } [ - 2 \\ln ( f ( \\pmb { y } _ { x } | \\pmb { \\vartheta } _ { x } ) ) ]$ measures the model fit and the estimated number of parameters $p _ { D } = \\bar { D } - D ( \\bar { \\vartheta } _ { x } )$ measures model complexity (Spiegelhalter et al., 2002). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Consider the $m$ -step ahead forecasts $\\hat { y } _ { x , t }$ given by the posterior mean or median and the observations $y _ { x , t }$ with $T$ time point and $g$ age groups, the forecast performance can be evaluated by adopting three types of measures, namely residuals $\\boldsymbol { r } _ { x , t } = y _ { x , t } - \\boldsymbol { \\hat { y } } _ { x , t }$ ， percentage errors $\\begin{array} { r } { p _ { x , t } = \\frac { r _ { x , t } } { y _ { x , t } } \\times 1 0 0 \\ \\mathrm { \\Omega } } \\end{array}$ and scaled errors $\\epsilon _ { x , t }$ defined in Equation (7). Based on $r _ { x , t }$ and $p _ { x , t }$ , three popular criteria, namely mean absolute error (MAE), root mean squared error (RMSE) and mean absolute percentage error (MAPE),are defined respectively below ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { { \\bf M } { \\bf A } { \\bf E } = \\frac { 1 } { g } \\displaystyle \\sum _ { x = 1 } ^ { g } \\left[ \\frac { 1 } { m } \\sum _ { t = 1 } ^ { m } | r _ { x , T + t } | \\right] , ~ { \\bf R } { \\bf M } { \\bf S } { \\bf E } = \\sqrt { \\frac { 1 } { g } \\sum _ { x = 1 } ^ { g } \\left[ \\frac { 1 } { m } \\sum _ { t = 1 } ^ { m } r _ { x , T + t } ^ { 2 } \\right] } } \\\\ & { \\quad \\quad \\quad \\mathrm { a n d } ~ { \\bf M } { \\bf A } { \\bf P } { \\bf E } = \\frac { 1 } { g } \\displaystyle \\sum _ { x = 1 } ^ { g } \\left[ \\frac { 1 } { m } \\sum _ { t = 1 } ^ { m } | p _ { x , T + t } | \\right] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "However $r _ { x , t }$ are scale-dependent making comparison diffcult. Although $p _ { x , t }$ are scale-free, they are sensitive to observations close to zero. Hence the fourth criterion we adopt is mean absolute scaled error(MASE) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "defined as ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M A S E } = \\frac { 1 } { g } \\sum _ { x = 1 } ^ { g } \\left[ \\frac { 1 } { m } \\sum _ { t = 1 } ^ { m } | \\epsilon _ { x , T + t } | \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "makinguse of the scaled errors ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon _ { x , T + t } = \\frac { r _ { x , T + t } } { \\frac { 1 } { m - 1 } \\displaystyle \\sum _ { t = 2 } ^ { m } \\left| y _ { x , T + t } - y _ { x , T + t - 1 } \\right| } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "proposed by Hyndman and Koehler (2O06). Furthermore,similar approach can also be applied to evaluate estimated results $\\hat { \\mu } _ { x , t }$ calculated by the posterior mean or median. Hence, the residuals $\\begin{array} { r } { r _ { x , t } ^ { s } = \\mu _ { x , t } - \\hat { \\mu } _ { x , t } } \\end{array}$ percentage errors $\\begin{array} { r }  p _ { x , t } ^ { s } = \\frac { r _ { x , t } ^ { s } } { \\mu _ { x , t } } \\times 1 0 0 \\ \\end{array}$ and scaled errors ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon _ { x , t } ^ { s } = \\frac { r _ { x , t } ^ { s } } { \\frac { 1 } { m - 1 } \\displaystyle \\sum _ { t = 2 } ^ { m } \\left| \\mu _ { x , t } - \\mu _ { x , t - 1 } \\right| } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "can be used to construct similar criteria for the $\\mu$ estimator, namely the MAE, RMSE,MAPE and MASE by using the same formulas in Equations (5) to (6). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4 Data analysis ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Denmark is often be analysed in political-economic research area because of the lowest Gini coefficient (latest OECD figures from 2012), strong local companies with great competitiveness and prominent economic performance (Refslund and Sprensen, 2O16). The data set analysed in this study is obtained from Den (202O) that is the central authority on Danish statistics.It is a state institution under the Ministry of Economic Affairs and the Interior. They collect,compile and publish statistics on the Danish society. Danish was a predominantly agricultural country. After the year of 1945,Denmark has significantly developed the industrial base and service sector.By 2Ol7, the agriculture sector only contribute less than $2 \\%$ of overall GDP. On the other hand, the industrial base and services contribute around $18 \\%$ and $76 \\%$ ，respectively (Den, 202O).And tourism is the most important component in Denmark's tertiary industry, which can be a representative indicator of service sector. In this study, we adopt rented hotel room numbers in a month as aindex to investigate the dynamic mechanism of service sector statistics.Furthermore, we use industrial production index (IPI) to describe the changes in the manufacturing because the IPI is a key indicator to measure the output of industrial economic activities.In order to describe the characteristic of agriculture in Denmark, we adopt the percentage of agriculture in Gross Domestic Product (GDP) as an index. Agriculture sector includes forestry, hunting,and fishing,cultivation of crops and livestock production. Besides, The labour market of Denmark is the freest in Europe (Wor,202O). Employers maintain a very high level of flexibility, which means they can hire and fire whenever they want. And on the other hand, the unemployment compensation is relatively high to guarantee a stable living standard for unemployed persons. The unemployed rate used in this paper is the statistic for unemployment comprise allunemployed persons basing on the resident population in Denmark. In addition,the statistics of electricity production is used to measure the industrial production activities. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.1 Empirical data analysis ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Hurst exponent $H$ also known as the index of long-range dependence was proposed by Hurst (1951). It is a clasical self-similarity parameter that measures the long memory feature in a time series (Millen and Beard,2O03). Since it is robust with few assumptions about underlying system, it has been widely applied to many fields (Qian and Rasheed, 2OO4).A value of $H$ in the range $\\textstyle { \\left( { \\frac { 1 } { 2 } } , 1 \\right) }$ indicates long memory in a time series,which means that a high value in the series willmore likely be followed by another high value and such an effect is likely to maintain for a long period into the future. A value of $\\begin{array} { r } { H = \\frac { 1 } { 2 } } \\end{array}$ can indicate a standard Brownian motion which is a short memory process.Furthermore, There exists a relationship between $d$ and $H$ ,which is then given by $d = H - 0 . 5$ .Consequently, the estimator of the Hurst exponent $H$ can be approximate the long memory parameter $d$ (Yan et al., 2O17). There exist various estimators of $H$ , in this section, a well-known estimator called rescaled range analysis (R/S) is adopted to implement following empirical studies. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Hurst (1951） proposed the first Hurst exponent estimator using the rescaled range $R / S$ analysis to measure the intensity of long-range dependence. Given a time series $Y _ { t \\in \\{ 1 , 2 , 3 , \\cdots , T \\} }$ , the sample mean and the standard deviation process are given by ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { Y } } _ { T } = \\frac { 1 } { T } \\sum _ { j = 1 } ^ { T } Y _ { j } \\mathrm { a n d } S _ { t } = \\sqrt { \\frac { 1 } { t - 1 } \\sum _ { j = 1 } ^ { t } ( X _ { j } ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where the mean adjusted series $X _ { t } = Y _ { t } - \\overline { { Y } } _ { T }$ . Then a cumulative sum series is given by $\\begin{array} { r } { Z _ { t } = \\sum _ { j = 1 } ^ { t } X _ { j } } \\end{array}$ （204 and the cumulative range based on these sums is ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { t } = { \\bf M a x } \\left( 0 , Z _ { 1 } , \\cdot \\cdot \\cdot , Z _ { t } \\right) - { \\bf M i n } \\left( 0 , Z _ { 1 } , \\cdot \\cdot \\cdot , Z _ { t } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "An important proposition for the estimator of $H$ was derived by Mandelbrot (1975). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Proposition 4.1. Consider a time series $Y _ { t } \\in \\mathbb { R }$ and define $S _ { t }$ and $R _ { t }$ in Equations (8) and (9) respectively, then $C \\in \\mathbb { R }$ such that the following asymptotic property of the rescaled range $R / S$ holds ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ R / S ] ( T ) = \\frac { 1 } { T } \\sum _ { t = 1 } ^ { T } R _ { t } / S _ { t } \\sim C T ^ { H } , a s T  \\infty .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In addition, for small sample size $T$ , the rescaled range $R / S$ can also be approximated by following equation (Annis and Lloyd,1976) ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ R / S ] ( T ) = \\left\\{ \\begin{array} { c c } { { \\frac { T - 1 / 2 } { T } \\frac { \\Gamma ( ( T - 1 ) / 2 ) } { \\sqrt { \\pi } ( T / 2 ) } \\sum _ { j = 1 } ^ { T - 1 } \\sqrt { \\frac { T - j } { j } } , \\mathrm { f o r } T \\le 3 4 0 } } \\\\ { { \\frac { T - 1 / 2 } { T } \\frac { 1 } { \\sqrt { T \\pi / 2 } } \\sum _ { j = 1 } ^ { T - 1 } \\sqrt { \\frac { T - j } { j } } , \\mathrm { f o r } T > 3 4 0 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where the $\\textstyle { \\frac { T - 1 / 2 } { T } }$ term was added by Peters (1994). The $H$ estimate can be obtained by a simple linear regression ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log R / S ( T ) = \\log C + H \\log T .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Hence, the definition for the estimator of $H$ is given by the following equation ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Definition 4.1 (Estimator $\\widehat { H }$ by $R / S$ ). The estimator $\\hat { H }$ based on the rescaled range $R / S$ analysis is given by ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widehat { H } _ { R / S } = \\frac { T ( \\sum _ { t = 1 } ^ { T } \\log R / S ( t ) \\log t ) - ( \\sum _ { t = 1 } ^ { T } \\log R / S ( t ) ) ( \\sum _ { t = 1 } ^ { T } \\log t ) } { T ( \\sum _ { t = 1 } ^ { T } ( \\log t ) ^ { 2 } ) - ( \\sum _ { t = 1 } ^ { T } \\log t ) ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The empirical confidence interval of $\\widehat { H }$ given in Equation (1O) with sample size $T = 2 ^ { N }$ (Weron, 2002) is ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 0 . 5 - \\exp ( - 7 . 3 3 \\log ( \\log N ) + 4 . 2 1 ) , \\exp ( - 7 . 2 0 \\log ( \\log N ) + 4 . 0 4 ) + 0 . 5 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this paper, the R package called $\\mathtt { p }$ r a cma is adopted to estimate the value of $H$ adopting the $R / S$ analysis. For the data set of rented hotelroom numbers in a month,the estimated Corrected R over S Hurst exponent is ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "0.908, which indicates that there exist a strong long memory in this data. Furthermore, according to Figure 2 that shows the ACF and periodogram plot for rented hotel room numbers,the class of long memory structure is a typical Gegenbauer long memory pattern with apparent oscillatory structure in ACF plot. For the periodogram plot, the peaks locates at non-zero position which aligns with the characteristics for Gegenbauer long memory type models. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/66356cf64238e228c1d1e9efcbedd7eb37847ded77b1dc71cdab6181b27c5f2f.jpg",
+        "img_caption": [
+            "Figure 2: Plot of ACF and periodogram for rented hotel room numbers "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2Model fitting ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In this section,Model 1 to Model 8 are adopted to ft rented hotel room numbers in a month.Industrial production index (IPI), power production (PG) and unemployment rate (UR) are incorporated to improve model feasibility. The in-sample fiting performances of seasonal component and Gegenbauer long memory component are compared in this study.To monitoring the convergence of Bayesian approach, the values of $\\widehat { R }$ for each estimators are between 1.0o00 and 1.003 and the number of effective sample are always more than 80,0o. Figure 3 is an example of convergence test, which reports the MCMC sample path for several key parameters for Model 1. According to these plots, the model parameters are properly estimated. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/0efe911396ecb60d2388a75cc89fdfe9fe73c087a23eebd957996490604c1dc7.jpg",
+        "img_caption": [
+            "Figure 3: Trace plots for part of Model 1 parameters "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The goodness of fit for the eight models are evaluated by using DIC to select the best fiting model for each data set. Table 2 reported the DIC values of these models. The performance of the models incorporating Gegenbauer long memory or seasonal component into error terms are significantly better than the models with these components on the explanatory variables $X$ . This indicates that the historical information provided by the explanatory variables $X$ will cause negative impacts on modelling performance. As a contrast, the error terms only keep essential characteristics of previous knowledge for modellng.Furthermore,the performance of model with seasonal component is similar with the long memory model, since the differences of DIC values between both type models are very small Consequently, for in-sample fitting staudy,Model1,Model 2,Model 5 and Model 6 outperform other models. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/2721f79242abffc88cba030193d6582ec657c2e428424fd7f65ff88d846d3e78.jpg",
+        "table_caption": [
+            "Table 2:DIC results. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model 1 DIC</td><td>X =IPI 1285.48</td><td>X =UR 825.40</td><td>X =PG 1440.54</td></tr><tr><td>Model 2 DIC</td><td>X1 =IPI, X2=PG 1325.06</td><td>X =IPI,X2=UR 794.77</td><td>X1 =UR,X2=PG 863.48</td></tr><tr><td>Model 3 DIC</td><td>X =IPI 2367.663</td><td>X =UR 2115.049</td><td>X =PG 2510.72</td></tr><tr><td>Model 4 DIC</td><td>X =IPI 2416.19</td><td>X =UR 2291.37</td><td>X =PG 2516.81</td></tr><tr><td>Model 5 DIC</td><td>X =IPI 1287.67</td><td>X =UR 825.87</td><td>X =PG 1327.78</td></tr><tr><td>Model 6 DIC</td><td>X1 =IPI, X2=PG 1318.26</td><td>X=IPI,X2=UR 820.23</td><td>X1 =UR,X2=PG 847.93</td></tr><tr><td>Model 7 DIC</td><td>X =IPI 2397.63</td><td>X =UR 2187.52</td><td>X =PG 2508.97</td></tr><tr><td>Model 8 DIC</td><td>X =IPI 2417.82</td><td>X =UR 2128.53</td><td>X =PG 2607.18</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where HR is short for the number of rented hotel room,PG is short for power production,and UR is short for unemployment rate. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The figures show the in-sample fit performance, which confirms that there is no significant evidence to claim long memory model superior than seasonal model in model fitting. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRGARMA model ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Observed data 000 Esitmated data ooi jeor pinen WVVV WWWM 40 01/2000 01/2004 03/2008 05/2012 07/2016 Time ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRGARMA model ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Observed data 00 Esitmated data wWWWW 01/2000 01/2004 03/2008 05/2012 07/2016 Time ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRGARMA model ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac1199c411e2a169ad517a2ba4f805d0f7d88eb568bb24907381cd1efc496132.jpg",
+        "img_caption": [
+            "Figure 6: In-sample fitting plot for Model 1 with $X = \\mathbf { U R }$ ",
+            "Figure 7: In-sample fittng plot for Model 5 with $X = { \\mathrm { I P I } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Observed data 000 Esitmated data onijeaor peuen 40 WW 01/2000 01/2004 03/2008 05/2012 07/2016 Time ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Observed data 000 Esitmated data oieou pen WWWA 01/2000 01/2004 03/2008 05/2012 07/2016 Time ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7dffaea48c2519fa9b11a3112f5ef3f59656180b45045134fb549cc1ef455cd.jpg",
+        "img_caption": [
+            "Figure 8: In-sample fitting plot for Model 5 with $X = \\mathrm { P G }$ ",
+            "Figure 9: In-sample fiting plot for Model 5 with $X = \\mathbf { U } \\mathbf { R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRGARMA model ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/99b4920a2bfc1fdd8a5ba57634dc17fb4aac278de286f18b21d33bd553cba9c7.jpg",
+        "img_caption": [
+            "Figure 1O: In-sample fitting plot for Model 2 with $X _ { 1 } = \\mathrm { I P I }$ and $X _ { 2 } = \\mathbf { U } \\mathbf { R }$ ",
+            "Figure 11: In-sample fitting plot for Model 2 with $X _ { 1 } = \\mathrm { I P I }$ and $X _ { 2 } = \\mathbf { P G }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Observed data Esitmated data 00 rrr jeitn peaen AMM 01/2000 01/2004 03/2008 05/2012 07/2016 Time ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRGARMA model ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRGARMA model ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcc3fb18ae63952a95c2c33aefe7f8dffc91aa59780e2f547f03388655b494cb.jpg",
+        "img_caption": [
+            "Figure 12: In-sample fitting plot for Model 2 with $X _ { 1 } = \\mathbf { P G }$ and $X _ { 2 } = \\mathbf { U } \\mathbf { R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/b15fc38ba3d603fe109bbb6b0093de257edffdf579110e02b2f2ad7f4030198a.jpg",
+        "img_caption": [
+            "Figure 13: In-sample fitting plot for Model 6 with $X _ { 1 } = \\mathrm { I P I }$ and $X _ { 2 } = \\mathbf { U } \\mathbf { R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Observed data Esitmated data 00 ooigalog pen 1 山 + 3 40 01/2000 01/2004 03/2008 05/2012 07/2016 Time ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "In-sample fit results of GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/96142023ba13671be2a41d736f50494245cff650297ac59fe195f7646dd28663.jpg",
+        "img_caption": [
+            "Figure 14: In-sample fitting plot for Model 6 with $X _ { 1 } = \\scriptstyle \\mathrm { I P I }$ and $X _ { 2 } = \\mathbf { P G }$ ",
+            "Figure 15: In-sample fitting plot for Model 6 with $X _ { 1 } = \\mathbf { P G }$ and $X _ { 2 } = \\mathbf { U } \\mathbf { R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.3Model forecast ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "In this section, we calculate one-step ahead forecast for $m = 2 0$ time points based on the posterior predictive distributions and the posterior sample size of $L = 9 0 , 0 0 0$ . Only Model 1,Model 2,Model 5 and ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Model 6 are adopted in out-sample forecasting study because these models show reasonable in-sample fitting performance. The forecasts $\\hat { y } _ { t }$ are given by the posterior mean or median. To evaluate the forecast performance, three types of measures, namely residuals $\\boldsymbol { r } _ { t } = \\boldsymbol { y } _ { t } - \\boldsymbol { \\hat { y } _ { t } }$ , percentage errors $\\begin{array} { r } { p _ { t } = \\frac { r _ { t } } { y _ { t } } \\times 1 0 0 } \\end{array}$ and scaled errors $q _ { t }$ are adopted. Based on $\\boldsymbol { r } _ { t }$ and $p _ { t }$ ,three popular criteria, namely the mean absolute error (MAE),root mean squared error(RMSE) and mean absolute percentage error (MAPE) are calculated in Table 3. Overall, Gegenbauer long memory models with smaller criteria values provide more accurate forecast results than seasonal models. Moreover, the forecast performance can be greatly improved by incorporating more explanatory variables. ",
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b35e0b1eb974cd6f487bbb6f4514facdbfbb5e832982833b666d767b73fe41e.jpg",
+        "table_caption": [
+            "Table 3: Comparison of models in forecasts. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model 1 MAE RMSE MAPE MASE Model 5</td><td>X =IPI 15.43 16.75 0.16 1.72</td><td>X =UR 10.71 12.01 0.11 1.34</td><td>X =PG 8.08 9.59 0.09</td></tr><tr><td>MAE RMSE MAPE MASE</td><td>X =IPI 18.08 20.57 0.18 2.02</td><td>X =UR 12.01 13.16 0.12 1.19</td><td>X =PG 12.91 14.89 0.13 1.44</td></tr><tr><td>MAE RMSE MAPE MASE</td><td>X1=IPI,X2=PG 6.91 8.02 0.07 0.77</td><td>X1=IPI,X2=UR 9.91 11.27 0.10 1.10</td><td>X1 =UR,X2=PG 7.63 9.17 0.08 0.85</td></tr><tr><td>MAE RMSE MAPE MASE</td><td>X1=IPI,X2=PG 10.92 12.77 0.11 1.22</td><td>X=IPI,X2=UR 9.92 11.54 0.10 1.11</td><td>X1=UR,X2=PG 8.27 9.84 0.09 0.92</td></tr></table></body></html>",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "where HR is short for the number of rented hotel room,PG is short for power production,and UR is short for unemployment rate. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Figures below show the forecast results, which agree with Table 3. Gegenbauer long memory type model should be the best choice in dealing with the number of rented hotel room data with Gegenbauer long memory features. Seasonal models cannot replace Gegenbauer long memory model since some fundamental features cannot be capture by seasonal component. ",
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/50f512385614b064a1a3fad31e709c4b056c8997eed3e4a55e2e326de2a51bda.jpg",
+        "img_caption": [
+            "Figure 16: Out-sample forecasting plot for Model 1 with $X = { \\mathrm { I P I } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Out-sample forecast results by GLRGARMA model ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/f53262fa839168baf2114f5be2ba8e9da43eef6366f70d27afc703104b028519.jpg",
+        "img_caption": [
+            "Figure 17: Out-sample forecasting plot for Model 1 with $X = \\mathrm { P G }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/88ea185c25e3e37b8528b513cc1613d3f68275ffed4cf5fcc90d2095b45e3cfb.jpg",
+        "img_caption": [
+            "Out-sample forecast results by GLRGARMA model "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Out-sample forecast results by GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa55b3769393b6e47ab4821205daa3e32c9e179064859ad86d672d5363f09cb6.jpg",
+        "img_caption": [
+            "Figure 18: Out-sample forecasting plot for Model 5 with $X = \\mathbf { U } \\mathbf { R }$ ",
+            "Figure 19: Out-sample forecasting plot for Model 5 with $X = { \\mathrm { I P I } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcb2c999409f7e57f78bd72154c269b18b59a5373b4347dff740f45178a5eefc.jpg",
+        "img_caption": [
+            "Out-sample forecast results by GLRSARMA model "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Out-sample forecast results by GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc086c4612755d7521b883642c91c8f16692b5dbb57a4c9a5fb02d7634a0e7da.jpg",
+        "img_caption": [
+            "Figure 2O: Out-sample forecasting plot for Model 5 with $X = \\mathrm { P G }$ ",
+            "Figure 21: Out-sample forecasting plot for Model 5 with $X = \\mathbf { U } \\mathbf { R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Out-sample forecast results by GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcd10f5fddf49ad6ab8494ad7b8753db5c84ac004dd986474890ce2810d85dac.jpg",
+        "img_caption": [
+            "Figure 22: Out-sample forecasting plot for Model 2 with $X _ { 1 } = \\mathrm { I P I }$ and $X _ { 2 } = \\mathbf { U } \\mathbf { R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Out-sample forecast results by GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/eefe3f4c2bdcd24645bce10d0ffc795b92fcf24ae7bf1672f48a671879433caf.jpg",
+        "img_caption": [
+            "Figure 23: Out-sample forecasting plot for Model 2 with $X _ { 1 } = \\mathrm { I P I }$ and $X _ { 2 } = \\mathbf { P G }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Out-sample forecast results by GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/24540f8e55c6043b270fd9cae67bd0f43e49b56639c6dd38f85e44a182ead8eb.jpg",
+        "img_caption": [
+            "Figure 24: Out-sample forecasting plot for Model 2 with $X _ { 1 } = \\mathbf { P G }$ and $X _ { 2 } = \\mathbf { U } \\mathbf { R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Out-sample forecast results by GLRSARMA model ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dafdd8bdc91f6269cbd2130264eff2919fcecac93e3d8a81ed3a799d4d946a3.jpg",
+        "img_caption": [
+            "Figure 25: Out-sample forecasting plot for Model 6 with $X _ { 1 } = \\mathrm { I P I }$ and $X _ { 2 } = \\mathbf { U } \\mathbf { R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b3ff6c5deec7f6882469b47a08e981b5e802b2df8b08241ab26595e960e0a4a.jpg",
+        "img_caption": [
+            "Out-sample forecast results by GLRSARMA model "
+        ],
+        "img_footnote": [],
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/cce0944cf627c7b84f54128b3df34cd34db2c472c1a886d67543229e6ced2646.jpg",
+        "img_caption": [
+            "Figure 26: Out-sample forecasting plot for Model 6 with $X _ { 1 } = \\mathrm { I P I }$ and $X _ { 2 } = \\mathbf { P G }$ ",
+            "Figure 27: Out-sample forecasting plot for Model 6 with $X _ { 1 } = \\mathbf { P G }$ and $X _ { 2 } = \\mathbf { U } \\mathbf { R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusion ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "This paper proposed a generalised linear regresson structure with a innovative function of explanatory variables.Essential relevant information for modeling can be take into the consideration via explanatory variables.To capture the Gegenbauer long memory feature in a time series,seasonal and Gegenbauer long memory components are incorporated to enhance model feasibility. Moreover, to improve model flexibility,the generalised Poisson (GP)distribution with over- equal-and under-dispersion is adopted. Overall,eight sub-models are implemented with the number of rented hotel room data set to evaluate the model performance. Furthermore, for the number of rented hotelroom data in tourism area, the Gegenbauer long memory feature is revealed. Especially, the fundamental diferences between seasonal component and Gegenabuer long memory component are distinguished. By ploting ACF and periodogram graphs, the long memory pattern is investigated. Beyesian approach is applied to implement in-sample fiting and outsample forecast studies.Several model selection criteria are adopted to select most feasible model. Overall, GLRGARMA model is evaluated to be the best model to handle the time series with Gegenbauer long memory feature, especially in tourism area. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(2008). World trade organization (wto). http://www.wto.org/english/res_e/statis_e/ its2007_e/its07_merch_trade_product_e.htm.   \n(2020). Statistics denmark. https : //www.dst .dk/en.   \n(2020). World bank country and lending groups. https: //datahelpdesk.worldbank.org/ knowledgebase/articles/906519#High_income.   \nAnnis,A. and Lloyd,E. (1976). The expected value of the adjusted rescaled hurst range of independent normal summands. Biometrika, 63(1):111-116.   \nAynalem, S., Birhanu, K.,and Tesefay, S. (2O16). Employment opportunities and challenges in tourism and hospitality sectors. Journal of Tourism & Hospitality, 5(6):1-5.   \nBeran, J. (1994). Statistics for long-memory processes, volume 61. CRC press.   \nBunghez, C.L. (2O16). The importance of tourism to a destination's economy. Journal of Eastern Europe Research in Business & Economics,2016:1-9.   \nButler, R.(1998). Seasonality in tourism: Issues and implications. The Tourist Review.   \nCannas,R. (O12). An overview of tourism seasonality: key concepts and policies. Almatourism-Journal of Tourism, Culture and Territorial Development, 3(5):40-58.   \nChang,Y.-W.and Liao, M.-Y. (2010). A seasonal arima model of tourism forecasting: The case of taiwan. Asia Pacifc journal of Tourism research, 15(2):215-221.   \nChen, J.L.,Li, G., Wu,D.C.,and Shen,S. (2019). Forecasting seasonal tourism demand using a multiseries structural time series method. Journal of Travel Research, 58(1):92-103.   \nChu,F.-L. (2O09). Forecasting tourism demand with arma-based methods. Tourism Management, 30(5):740-751.   \nCopeland, B.R.(1991). Tourism, welfare and de-industrialization in a small open economy. Economica, pages 515-529.   \nCreal,D., Koopman,S.J.,and Lucas,A.(Ol3). Generalized autoregressve score models with applications. Journal of Applied Econometrics, 28(5):777-795.   \nDavis,R. A., Dunsmuir, W. T.,and Wang, Y.(1999). Modeling time series of count data. Statistics Textbooks and Monographs, 158:63-114.   \nDuane,S., Kennedy, A.D.,Pendleton,B.J.,and Roweth,D.(1987). Hybrid monte carlo. Physics letters B, 195(2):216-222.   \nDuro, J. A. and Turrion-Prats, J. (2O19). Tourism seasonality worldwide. Tourism Management Perspectives, 31:38-53.   \nEfron,B. (1986). Double exponential families and their use in generalized linear regression. Journal of the American Statistical Association, 81(395):709-721.   \nFerrante, M., Magno, G.L.L., and De Cantis, S. (2O18). Measuring tourism seasonality across european countries. Tourism Management, 68:220-235.   \nGelman, A.and Rubin,D.B.(1992). Inference from iterative simulation using multiple sequences. Statistical Science, 7(4):457-472.   \nGeman, S.and Geman, D. (1984). Stochastic relaxation, gibbs distributions,and the bayesian restoration of images. IEEE Transactions on Patern Analysis and Machine Intelligence, PAMI-6(6):721-741.   \nGil-Alana, L.A., Cunado,J.,and Perez de Gracia,F. (2Oo8). Tourism in the canary islands: forecasting using several seasonal time series models. Journal of Forecasting,27(7):621-636.   \nGranger, C. W. and Joyeux,R. (1980). An introduction to long-memory time series models and fractional differencing. Journal of Time Series Analysis, 1(1):15-29.   \nGraves,T., Gramacy,R.B., Watkins,N.,and Franzke, C.(2O14). A brief history of long memory. arXiv preprint arXiv:1406.6018.   \nGroB-KluBMann, A. and Hautsch,N. (2013). Predicting bid-ask spreads using long-memory autoregressive conditional poisson models. Journal of Forecasting, 32(8):724-742.   \nHasler, U. (1994). (mis) specification of long memory in seasonal time series. Journal of Time Series Analysis, 15(1):19-30.   \nHosking, J. R. (1981). Fractional differencing. Biometrika, 68(1):165-176.   \nHurst, H.E. (1951). Long-term storage capacity of reservoirs. Trans. Amer: Soc. Civil Eng.,116:770-808.   \nHyndman, R. J. and Koehler, A. B. (2O06). Another look at measures of forecast accuracy. International Journal of Forecasting, 22(4):679-688.   \nJang, S. S. (2O04). Mitigating tourism seasonality: A quantitative approach. Annals of Tourism Research, 31(4):819-836.   \nJolliffe,L. and Farnsworth, R. (2Oo3). Seasonality in tourism employment: human resource challenges. International Journal of Contemporary Hospitality Management.   \nKenell, L. (2Oo8). Dutch disease and tourism-the case of thailand.   \nKoopmans,L. H. (1995). The spectral analysis of time series. Academic press.   \nKulendran, N. and Wong, K. K. (2Oo5). Modeling seasonality in tourism forecasting. Journal of Travel Research, 44(2):163-170.   \nLew,A. A. (2011). Tourism's role in the global economy. Tourism Geographies,13(1):148-151.   \nMandelbrot, B.B.(1975). Limit theorems on the self-normalized range for weakly and strongly dependent processes. Probability Theory and Related Fields, 31(4):271-285.   \nMetropolis,N.,Rosenbluth, A.W., Rosenbluth, M. N., Teller, A.H.,and Teller, E.(1953). Equation of state calculations by fast computing machines. The Journal of Chemical Physics, 21(6):1087-1092.   \nMillen,S.and Beard,R.(2O03). Estimation of the Hurst exponent for the Burdekin River using the HurstMandelbrot rescaled range statistic. In First Queensland Statistics Conference.   \nMishra, P. K., Rout, H. B.,and Pradhan, B.(2O18). Seasonality in tourism and forecasting foreign tourist arrivals in india. Iranian Journal of Management Studies, 11(4):629-658.   \nNeal, R. M. (1994). An improved acceptance procedure for the hybrid Monte Carlo algorithm. Journal of Computational Physics, 111(1):194-203.   \nNeal, R. M. (2011). Mcmc using hamiltonian dynamics. Handbook of Markov Chain Monte Carlo, 2:113- 162.   \nOjaghlou, M. et al. (2019). Tourism-led growth and risk of the dutch disease: Dutch disease in turkey. International Business Research,12(7):103-120.   \nPeters,E. E. (1994). Fractal market analysis: applying chaos theory to investment and economics, volume 24. John Wiley & Sons.   \nPorter-Hudak,S.(1990).An application of the seasonal fractionally differenced model to the monetary aggregates. Journal of the American Statistical Association, 85(410):338-344.   \nQian, B.and Rasheed, K. (2Oo4). Hurst exponent and financial market predictability. In Proceedings of The 2nd IASTED international conference on financial engineering and applications, pages 203-209.   \nRainville, E. D. (1960). Special functions, volume 442. New York.   \nRefslund,B.and Sprensen, O.H. (2O16). Islands in the stream? the challenges and resilience of the danish industrial relations model in a liberalising world. Industrial Relations Journal, 47(5-6):530-546.   \nSaayman, A. and Botha,I. (2O17). Non-linear models for tourism demand forecasting. Tourism Economics, 23(3):594-613.   \nShen,S.,Li, G., and Song,H. (2Oo9). Effect of seasonality treatment on the forecasting performance of tourism demand models. Tourism Economics, 15(4):693-708.   \nShen, S.,Li, G. and Song,H. (2O11). Combination forecasts of international tourism demand. Annals of Tourism Research, 38(1):72-89.   \nSpiegelhalter,D.J., Best, N. G., Carlin,B.P.,and Linde, A. (2014). The deviance information criterion: 12 years on. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 76(3):485-493.   \nSpiegelhalter, D.J.，Best, N. G., Carlin, B.P.,and Van Der Linde,A. (2O02). Bayesian measures of model complexity and fit. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 64(4):583-639.   \nStein, E. M. and Weiss, G. L. (1971). Introduction to Fourier analysis on Euclidean spaces, volume 1. Princeton university press.   \nWeron,R. (2O02). Estimating long-range dependence: finite sample properties and confidence intervals. Physica A: Statistical Mechanics and its Applications,312(1):285-299.   \nWold,H. (1938). A study in the analysis of stationary time series. PhD thesis, Almqvist & Wiksell.   \nWoodward, W.A., Cheng,Q. C.,and Gray,H.L.(1998). A k-factor GARMA long-memory model. Journal of Time Series Analysis, 19(4):485-504.   \nYan,H., Chan, J. S.,and Peters, G. W. (2O17). Long memory models for financial time series of counts and evidence of systematic market participant trading behaviour paterns in futures on US treasuries. SSRN: https://ssrn.com/abstract $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ 2962341. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 33
+    }
+]

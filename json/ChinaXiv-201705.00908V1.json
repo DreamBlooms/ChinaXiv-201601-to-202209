@@ -1,0 +1,429 @@
+[
+    {
+        "type": "text",
+        "text": "除湿换热器系统冬季采暖加湿性能研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张婧宇　葛天舒　代彦军赵 耀　王如竹(上海交通大学制冷与低温工程研究所，上海200240)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本文在上海典型冬季工况下，测试了太阳能驱动的除湿换热器系统的采暖加湿性能。同时针对再生热水温度、再生热水流量和再生风量等三个影响再生过程的重要因素进行了实验研究。结果表明，除湿换热器系统在冬季工况下可以有效实现采暖加湿，并在热水温度为 $4 0 ^ { \\circ } \\mathrm { C }$ ，流量为 $0 . 4 ~ \\mathrm { k g / s }$ ，再生风量为 $4 0 0 ~ \\mathrm { { m ^ { 3 } / h } }$ 的工况下达到最佳送风状态。此时送风含湿量为 $5 . 1 5 ~ \\mathrm { k g / s }$ ，系统热力学性能系数（ $\\chi O P _ { \\mathrm { t h } } \\mathrm { \\cdot }$ )达到1.78。同时，针对冬季环境含湿量的变化提出了不同的风量控制策略，实现送风温湿度和系统性能的最优化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词除湿换热器；冬季工况；采暖加湿；太阳能；实验研究中图分类号：TK173 文献标识码：A 文章编号:0253-231X(2017)04-0684-06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on the Heating and Humidification Performance of Desiccant Coated Heat Exchanger System inWinter ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Jing-YuGE Tian-ShuI DAI Ya ZHAO Yao WANG Ru-Zhu (Institute of Refrigeration and Cryogenics,Shanghai Jiao Tong University，Shanghai 2O0240,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractIn this paper, a desiccant coatedeat exchanger system is installed and tested under typical winter condition at Shanghai. Efets of hot water temperature, hot water mass fow rate and regeneration air fow flux are discussed as vital factors impacting system performance. It is found that the optimum regeneration hotwater temperature and mass flow rate is $4 0 ^ { \\circ }$ C and $0 . 4 \\mathrm { k g / s }$ ，when the regeneration air mass fowfux is $4 0 0 ~ \\mathrm { { m ^ { 3 } / h } }$ . Under this operation condition,average humidity ratio of supply air is $5 . 1 5 \\times 5 = 1 5 . 1 5$ and $C O P _ { \\mathrm { t h } }$ can reach 1.78. For different humidify ratios of ambient air,a strategy of appropriate mass fow fluxes of air is implemented tobalance thermal comfort and system thermal efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsdesiccant coated heat exchanger; winter; heating nd humidification; solar energy; experimental investigation Q ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，蒸汽压缩空调系统被普遍应用于中国南方地区以实现冬季采暖，然而传统空调系统仅能满足对空气温度的提升，无法提供加湿。除湿换热器作为一种新型的固体除湿设备，不仅能近似实现理想的等温除湿[1,2]，其再生过程也可应用于冬季工况，实现对室内的采暖加湿。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，国内外学者针对除湿换热器的研究主要集中在除湿侧的传热传质性能上。在实验研究方面，已有学者针对单个除湿换热器单元的除湿性能进行了深入研究[3]。并有学者进一步搭建了除湿换热器空调系统，对该系统的夏季除湿性能及影响除湿性能的重要参数进行了测试与分析 [4-6]。在数值模拟方面，已有学者建立了除湿换热器的数学模型，可准确预除湿换热器系统的除湿量和系统COP[7-9]。同时，对于新型固体除湿材料的研制也有了一定进展[10-12]。从文献调研中可以看到，目前对于除湿换热器应用于冬季的采暖加湿性能及其影响因素的研究，仍处于较为空白的阶段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于以上研究现状，本文重点探究了除湿换热器系统在典型上海冬季工况下的采暖加湿性能，并对不同再生条件对于系统送风空气状态以及系统能效的影响进行了实验研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1系统原理及组成",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "太阳能除湿系统兼具冬季采暖加湿和夏季降温除湿的功能。实验系统原理图如图1所示。冬季工况下，环境空气（AA）通过除湿系统除湿侧，空气中的水蒸汽被除湿换热器表面的干燥剂吸附，吸附热由换热器内流动的冷却水带走，干燥剂内含湿量增大，且空气湿度降低。完成除湿过程后，被处理后空气(EA）作为废气排出系统。同时，在除湿换热器再生侧，热水通过除湿换热器，驱动再生过程的进行，对环境空气（AA）进行增温加湿，空气温、湿度增大,处理后的空气作为送风（SA）通入室内。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本系统主要由3个部分组成，包括除湿换热器单元、太阳能集热器单元和冷却单元。除湿换热器单元作为系统的核心部分，由安装在平行风道内的两组除湿换热器（DCHE A 和 DCHE B）构成。再生过程所需的热水由真空管太阳能集热器提供，并采用水箱对太阳能热水进行储存。再生过程中，再生侧除湿换热器内通入热水为固体干燥剂的再生过程提供热源，被处理空气含湿量增大，潜热增加，同时空气温度升高，显热增加，有效实现采暖加湿。除湿过程中，由冷却塔提供的冷却水，带走除湿过程中产生的吸附热，促进除湿过程的进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同时基于以上原理，系统运行过程中两组除湿换热器DCHEA和DCHEB，一组进行再生过程的同时，另一组完成除湿过程。在除湿侧吸附饱和且再生侧再生基本完全时，通过电磁阀控制三通风阀和三通水阀的周期性切换，两组换热器除湿过程和再生过程交替进行，从而以达到系统的连续运行，实现对室内提供持续暖风供应的目的。系统运行的两种模式如图1(a)、(b)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/173098336ee74178f5a5f0e6c32a939fb0aef64d69e89a8d725eef080dbf6b3e.jpg",
+        "img_caption": [
+            "图1实验系统原理示意图",
+            "Fig.1 Operation principle of the system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 主要部件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1除湿换热器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验采用的除湿换热器由翅片管式换热器经表面喷涂、浸泡硅胶等工艺制成，换热器的尺寸和硅胶的具体参数如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1换热器及硅胶参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0d1bcf5761b4210395275ee71a566d0cfb072d14ab093137b3d16dbb91e6a50.jpg",
+        "table_caption": [
+            "Table1The structural parameters of the heat exchanger and the basic parametersof the silica gel "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>参数</td></tr><tr><td>换热器尺寸(长×宽×高)/mm</td><td>400×200×400</td></tr><tr><td>翅片厚度/mm</td><td>0.15</td></tr><tr><td>干燥剂涂层厚度/mm</td><td>0.3</td></tr><tr><td>翅片间距/mm</td><td>3</td></tr><tr><td>硅胶类型</td><td>Macro pore, ZCX- II</td></tr><tr><td>硅胶粒径/um</td><td>150</td></tr><tr><td>上胶量/kg</td><td>2.52</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2太阳能集热器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统采用太阳能集热器产生的热水作为热源驱动除湿系统再生过程的进行。所采用的集热器为真空管太阳能集热器，其额定集热功率为8.5W；所采用的配套水箱容量为 $5 0 0 \\mathrm { L }$ 。同时，太阳能集热系统内所采用的循环水泵的最大流量4m/h，其最大扬程为 $2 0 ~ \\mathrm { m }$ ，额定功率为0.2kW。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3风道和水路",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统风道内安装轴流式风机驱动除湿和再生侧的空气流动，最大空气流速为 $\\mathrm { 5 ~ m / s }$ ，在最大流速下对应的空气流量为 $4 0 0 \\mathrm { { m ^ { 3 } / h } }$ 。风机均配备变频器，实验中，除湿侧风量保持为 $4 0 0 ~ \\mathrm { { m ^ { 3 } / h } }$ 恒定，再生风量通过在 $0 { \\sim } 5 0 ~ \\mathrm { H z }$ 的范围内改变风机频率进行调节。冷、热水路中采用的水泵所能提供的最大质量流量分别为 $0 . 3 2 \\mathrm { k g / s }$ 和 $0 . 4 0 \\mathrm { k g / s }$ ，通过调节水路中阀门的开度可以调节再生热水的流量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4测量仪器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验中需要测量的变量参数包括：环境空气温度和相对湿度，空气侧进、出口温度和相对湿度，冷热水进、出口温度，以及空气和冷、热水的质量流量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验系统中使用的温度传感器均采用铂电阻(PT100 RTD)，其精度为 $\\pm 0 . 1 ^ { \\circ } \\mathrm { C }$ ，测量范围为$0 { \\sim } 2 0 0 ^ { \\circ } \\mathrm { C }$ 。空气的相对湿度由精度为 $\\pm 2 \\ \\% \\mathrm { R H }$ 湿度传感器测量。空气流量采用热线风速仪 (精度为$\\pm 0 . 0 1 5 ~ \\mathrm { m / s }$ ，测量范围为 $0 { \\sim } 5 0 ~ \\mathrm { m / s } ,$ ）多次测定风速求平均值的方法，结合空气密度和风管横截面积计算得到。冷热水流量则由流量计 (精度为 $\\pm 1 . 0$ ，允许的流量范围为 $3 { \\sim } 2 0 ~ \\mathrm { L / m i n } )$ 进行测量。所有数据信号均由型号为A-34972A的安捷伦采集并记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3性能评价指标 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除湿换热器系统的采暖加湿性能主要由系统的加湿量和送风空气的温度、含湿量的平均值进行评价。其中，平均加湿量（ $\\left( \\Delta D _ { \\mathrm { a v e } } \\right)$ 是评价系统冬季加湿性能的首要指标，单位 $\\mathrm { g / k g }$ ，其计算式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta D _ { \\mathrm { a v e } } = \\overline { { \\sum _ { 0 \\to t _ { \\mathrm { e } } } \\left( d _ { \\mathrm { a , o u t } } - d _ { \\mathrm { a , i n } } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $d _ { \\mathrm { a , i n } }$ 和 $d _ { \\mathrm { a , o u t } }$ 分别为再生侧进、出口空气含湿量， $\\mathrm { g / k g }$ ; $t _ { \\mathrm { e } }$ 为循环周期，s。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "送风空气的平均含湿量和温度是衡量送风舒适性的重要评价标准，由于系统运行的过程中送风空气状态星周期规律变化，因此平均送风含湿量0 $\\mathrm { \\Delta } D _ { \\mathrm { a v e } }$ 单位 $\\mathrm { { \\dot { g } / k g } }$ ，可表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { \\mathrm { a v e } } = \\overline { { \\sum _ { 0 \\to t _ { \\mathrm { e } } } d _ { \\mathrm { a . o u t } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统热力学性能系数 $( C O P _ { \\mathrm { t h } } )$ 是评价除湿换热器系统能效性能的重要参数，它的定义是再生侧空气焓值的增量 $\\left( Q _ { \\mathrm { t } } \\right)$ 与再生过程中太阳能热水消耗量$( Q _ { \\mathrm { w } } )$ 之比，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC O P _ { \\mathrm { t h } } = \\frac { Q _ { \\mathrm { t } } } { Q _ { \\mathrm { \\infty } } } = \\frac { M _ { \\mathrm { a } } \\left( h _ { \\mathrm { a , o u t } } - h _ { \\mathrm { a , i n } } \\right) } { c _ { \\mathrm { w } } M _ { \\mathrm { w } } \\left( T _ { \\mathrm { w , i n } } - T _ { \\mathrm { w . o u t } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $h _ { \\mathrm { a , i n } } { \\times } h _ { \\mathrm { a , o u t } }$ 分别为再生侧空气进、出口焓值， $\\mathrm { k J } / \\mathrm { k } \\mathrm { \\dot { g } _ { \\dot { 3 } } } \\mathcal { \\hat { T } } _ { \\mathrm { w , i n } }$ ， $T _ { \\mathrm { w , o u t } }$ 分别为太阳能热水进、出□水温 $\\bigcirc \\mathrm { ^ \\circ C }$ $c _ { \\mathrm { w } }$ 为水的比热容, $\\mathrm { k J / ( k g { \\cdot } K ) }$ ; $M _ { \\mathrm { a } }$ ， $M _ { \\mathrm { w } }$ 分别为空气和水的质量流量， $\\mathrm { k g / s }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4实验结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在上海冬季典型工况下，对除湿换热器系统进行采暖加湿性能测试，并比较了不同再生条件下系统的性能变化。针对影响再生过程的三个重要因素一再生热水温度、再生热水流量和再生风量进行了探究。实验采用600s作为循环周期，1s作为采样间隔。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1再生热水温度对系统性能的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除湿换热器再生过程中，再生热水温度对于固体干燥剂的再生脱附过程和送风温湿度都具有重要影响。为了确定系统的最适再生热水温度，实验测试了再生热水温度分别为30、35、40、 $4 5 ^ { \\circ } \\mathrm { C }$ 时系统的采暖加湿性能和系统能效。测试工况下，环境含湿量为 $2 . 9 1 { \\sim } 3 . 1 0 ~ \\mathrm { g / k g } ,$ ，热水流量为 $0 . 4 ~ \\mathrm { k g / s }$ ，再生风量为 $4 0 0 ~ \\mathrm { { m ^ { 3 } / h } }$ 。实验测得的不同再生热水温度下的平均加湿量、送风含湿量和风温，以及系统 $C O P _ { \\mathrm { t h } }$ 如图2、3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/33165c610e5609b12c5708a1085fce54adc7e3e18c37702bb97673c4505ffe99.jpg",
+        "img_caption": [
+            "图2不同再生热水温度下系统采暖加湿性能比较Fig.2 Effect of hot water temperature on humidifyingcapacity"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/565d04e9b2131c988065f2531035be6c2aebfc23f339f2a67f7ab1a543feadd6.jpg",
+        "img_caption": [
+            "图3不同再生热水温度下平均系统 $C O P _ { \\mathrm { t h } }$ 比较Fig. 3 Effect of hot water temperature on average $C O P _ { \\mathrm { t h } }$ ",
+            "图4不同再生热水流量下系统采暖加湿性能比较Fig.4 Effect of hot water mass flow rate on humidifyingcapacity"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图2可见，在不同的再生热水温度下，送风含湿量和送风温度相比环境空气都有了明显的提高,说明除湿换热器系统能够在冬季工况下有效的实现采暖加湿。同时，随着再生热水温度的升高，加湿量不断增大，由 $1 . 4 6 ~ \\mathrm { g / k g }$ 增加到 $2 . 1 3 \\ \\mathrm { g / k g }$ ，增幅为 $4 5 . 9 \\%$ 。这是由于再生热水温度的升高促使再生过程完成的更加彻底，同时再生过程结束时固体干燥剂表面更为干燥，促进了下一个除湿过程的进行，从而一定程度的增大了除湿量。除湿量的增大同时有利于再生过程中加湿量的提升。系统的热力性能系数 $C O P _ { \\mathrm { t h } }$ 也由 $3 0 ^ { \\circ } \\mathrm { C }$ 时的1.05逐渐增大到$4 5 ^ { \\circ } \\mathrm { C }$ 时的1.85，且在热水温度由 $3 0 ^ { \\circ } \\mathrm { C }$ 增加到 $3 5 ^ { \\circ } \\mathrm { C }$ 时系统热效率显著提升， $3 5 ^ { \\circ } \\mathrm { C }$ 后热效率的增长速率减缓。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时根据中国冬季室内空气设计标准(温度： $1 8 { \\sim } 2 4 ^ { \\circ } \\mathrm { C }$ ，相对湿度： $3 0 \\% { \\sim } 6 0 \\%$ )，综合考虑送风温湿度对人体舒适性影响与系统能效的最优化。热水温度为 $4 5 ^ { \\circ } \\mathrm { C }$ 时系统的平均送风含湿量和 $C O P _ { \\mathrm { t h } }$ 达到最大，但其平均送风温度过高 $( 3 4 . 7 ^ { \\circ } \\mathrm { C } )$ ，人体舒适性较差。当采用 $4 0 ^ { \\circ } \\mathrm { C }$ 的再生热水时，系统的送风含湿量和 $C O P _ { \\mathrm { t h } }$ 虽略低于 $4 5 ^ { \\circ } \\mathrm { C }$ 工况下，但其平均送风温度更为适宜，系统达到最佳采暖加湿性能。综上所述，宜选择热水温度 $4 0 ^ { \\circ } \\mathrm { C }$ 为系统最适再生热水温度。此时，除湿换热器系统的平均送风含湿量为 $5 . 1 5 ~ \\mathrm { g / k g }$ ，平均送风温度为 $2 8 . 3 ^ { \\circ } \\mathrm { C }$ ， $C O P _ { \\mathrm { t h } }$ 为1.78。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2再生热水流量对系统性能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除湿换热器系统中，除湿换热器内流动的再生热水提供脱附过程的再生热，而热水流量的大小直接影响热水与翅片管换热器管壁的换热效率，从而影响再生过程的进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了研究再生热水流量对系统性能的影响，实验在环境含湿量为 $2 . 4 2 { \\sim } 2 . 5 9 \\mathrm { g / k g } .$ ，再生热水温度为$4 0 ^ { \\circ } \\mathrm { C }$ ，再生风量为 $4 0 0 ~ \\mathrm { { m ^ { 3 } / h } }$ 的条件下，以再生热水流量分别为 $0 . 1 , ~ 0 . 2 , ~ 0 . 3 , ~ 0 . 4 ~ \\mathrm { k g / s }$ 对系统性能进行测试。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同再生热水流量下的平均加湿量和送风含湿量、送风温度如图4所示。由实验结果可得，当热水流量从 $0 . 1 ~ \\mathrm { k g / s }$ 增大到 $0 . 2 ~ \\mathrm { k g / s }$ 时，加湿量显著增大，而当流量继续增大时，平均加湿量的增长速率变缓。出现这种现象的原因是， $0 . 1 \\mathrm { k g / s }$ 的热水流量过小，热水与管壁的换热效率低，为再生过程提供热量较少，再生过程不完全。当再生热水流量大于等于 $0 . 2 ~ \\mathrm { k g / s }$ 后，再生过程获得的热量增多，脱附过程完成的更加彻底，加湿量和送风含湿量增大，同时送风温度升高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8 40好 平均加湿量平均送风含湿量6 -■一平均送风温度 358/ 4.13 4.37 224 3.64 277 28.02 21.6 1.62 1.87 2.011.17 20150.1 0.2 0.3 0.4再生热水流量 $/ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时比较图4与图5可见，随着再生热水流量的增大，虽然加湿量和送风温度逐渐趋于稳定，但系统 $C O P _ { \\mathrm { t h } }$ 的增大趋势依然明显存在，因此，在本系统的热水流量范围内，应采用大流量 $0 . 4 ~ \\mathrm { k g / s }$ 作为再生热水流量，更有利于再生过程的进行并提供最佳的送风空气状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8b8f90268f0af15639bf33e2b024e1b646e0c5df4dc2b3d48323efae36bf623.jpg",
+        "img_caption": [
+            "图5不同再生热水流量下平均系统 $C O P _ { \\mathrm { t h } }$ 比较Fig.5 Effect of hot water mass flow rate on average G"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3再生风量对系统性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在上海冬季环境含湿量较低的情况下，通过除湿换热器系统加湿后的送风空气含湿量可能仍会略低于冬季室内空气设计标准。同时，在再生总量基本不变的情况下，减小风量可有效增大送风含湿量，使得在低环境含湿量工况下，除湿换热器系统仍能满足冬季送风的舒适性要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过改变风机频率来调节再生风量，选取风量为 $1 6 0 , \\ 2 4 0 , \\ 3 2 0 , \\ 4 0 0 \\ \\mathrm { m ^ { 3 } / h }$ 为测试再生风量对系统采暖加湿性能进行测定。测试工况下，环境含湿量为 $2 . 9 0 { \\sim } 3 . 0 7 ~ \\mathrm { g / k g }$ ，热水温度为 $4 0 ^ { \\circ } \\mathrm { C }$ ，热水流量为$0 . 4 ~ \\mathrm { k g / s }$ 。实验测得的除湿换热器系统在不同再生风量下的平均加湿量、平均送风含湿量和平均送风温度，以及系统 $C O P _ { \\mathrm { t h } }$ ，如图6、7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过实验测得，在实验测试的不同再生风量下，除湿换热器系统的平均除湿量均在 $1 . 8 0 ~ \\mathrm { \\ g / k g }$ 的$\\pm 2 . 2 \\%$ 范围内，基本可认为除湿量总量相同，根据质量守恒定律，即在本实验中，所有测试的再生风量下再生过程的再生总量基本相同。从实验结果图6中可以看到，加湿量和送风含湿量的平均值均随再生风量的降低而增大，送风含湿量均值依次为5.154$\\mathrm { g / k g \\ , \\ 5 . 3 4 1 \\ 9 / k g , \\ 6 . 0 4 6 \\ { g / k g } }$ 和 $7 . 1 1 7 \\ \\mathrm { g / k \\ g }$ ，再生风量由 $4 0 0 ~ \\mathrm { { m ^ { 3 } / h } }$ 降至 $\\mathrm { 1 6 0 ~ m ^ { 3 } / h }$ 时送风含湿量增加量了 $3 8 . 3 \\%$ 。然而随着再生风量的减小，系统 $C O P _ { \\mathrm { t h } }$ 也随之下降，从1.78 降低到1.07。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5728dfeda83e6f8d016e540daeb1d7a2028fe8e2c2fcaee7822fe0507eb103f7.jpg",
+        "img_caption": [
+            "图6不同再生风量下系统采暖加湿性能比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f5ce6612c0465fb4e866f1499629d83fb6527e771ce020f5ce30e1883fcba94.jpg",
+        "img_caption": [
+            "Fig.6 Effect of regeneration air mass flow flux on humidifying capacity ",
+            "图7同再生风量下平均系统 $C O P _ { \\mathrm { t h } }$ 比较Fig.7Effect of regeneration air mass flow flux on averagetp COPth"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，根据不同的环境空气含湿量，应选取相应的再生风量以实现送风含湿量和系统 $C O P _ { \\mathrm { t h } }$ 的平衡：在环境含湿量较小的情况下，除湿换热器系统宜采用较小风量，有利于增大送风含湿量，提高室内舒适性；在环境含湿量较高的情况下，宜采用较大风量，在保证送风空气状态的情况下，加快室内空气循环速率，提高系统 $C O P _ { \\mathrm { t h } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文在上海典型冬季工况下，建立了除湿换热器系统并对其采暖加湿性能进行了实验研究。针对再生过程中的三个重要影响因素 一—再生热水温度、再生热水流量和再生风量，分别研究了其对送风状态和系统热力性能的影响规律。所得结论如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1)太阳能驱动的除湿换热器系统在冬季工况下可有效实现采暖加湿。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）随着再生热水温度和再生热水流量的增大，除湿换热器系统的采暖加湿性能和系统 $C O P _ { \\mathrm { t h } }$ 均不断提升。综合考虑人体舒适性和系统性能，选取$4 0 ^ { \\circ } \\mathrm { C }$ 作为最适再生热水温度， $0 . 4 ~ \\mathrm { k g / s }$ 为最适再生热水流量。此时除湿换热器系统的平均送风含湿量为 $5 . 1 5 ~ \\mathrm { g / k g }$ ，平均送风温度为 $2 8 . 3 ^ { \\circ } \\mathrm { C }$ ，系统 $C O P _ { \\mathrm { t h } }$ 为1.78。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）随再生风量的减小，系统的加湿量和送风含湿量均不断增大，同时系统 $C O P _ { \\mathrm { t h } }$ 降低。因此,在不同的环境含湿量下采用相应的再生风量控制策略：环境含湿量低时，应采用较小风量，保证送风空气含湿量，以提供舒适的室内送风；环境含湿量高时，宜采用较大风量，在保证送风空气状态的情况下，增大了室内空气循环速率，同时提高系统COPtho",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]彭作战．再生式除湿换热器除湿性能研[D].上海： 海交 通大学，2010 甲 PENG Zuozhan.Study on Dehumidification Performance of Regenerative Desiccant Heat ExchangerADp. Shanghai: Shanghai Jiao Tong University201q   \n[2] GE Tianshu, DAI Yanjun,WANG Ruzhu, et al. Experimental Comparison and Analysis on Silica Gel and Polymer Coated Fin-tube Heat Exchangers [J].Energy,2010, 35(7):2893-2900   \n[3]Finocchiaro P,Beccali M,Gentile V.Experimental Results on Dsorption Beds for Air Dehumidification [J].International Journal of Refrigeration,2016,63(1):100-112   \n[4]赵耀，葛天舒，代彦军．基于太阳能能驱动的连续除湿换热 器空调系统的实验研究[J].工程热物理学报，2014,35(02): 223-227 ZHAO Yao,GE Tianshu,DAI Yanjun,Experimental Investigation on Silica Gel Coated Heat Exchanger Cooling System Driven by Solar Energy [J]. Journal of Engineering Thermophysics,2014,35(02):223-227 [5]赵耀，代彦军,葛天舒，等.基于除湿换热器技术的回热型除 湿系统实验研究[J].工程热物理学报，2016，37(05)：921- 928 ZHAO Yao,DAI Yanjun,GE Tianshu,et al.Experimental Investigation on Silica Gel Coated Heat Exchanger Desiccant System With Heat Recovery [J]. Journal of Engineering Thermophysics,2016,37(05):921-928 [6] Aynur T N,Hwang Y H,Radermacher R. Integration of Variable Refrigerant Flow and Heat Pump Desiccant Systems for The Heating Season [J].Energy Buildings, 2010, 42(4): 468-476   \n[7]GE Tianshu,DAI Yanjun,WANG Ruzhu.Performance Study of Silica Gel Coated Fin-tube Heat Exchanger Cooling System Based on a Developed Mathematical Model [J]. EnergyConversion and Management, 2011, 52(6): 2329- ongs C,MorgensternA,Lukito Y,etal.Advanced Performance of an Open Desiccant Cycle with Internal Evaporative Cooling[J]. Solar Energy,2014,104:103-114   \n[9] Pistocchini L,Garone S,Motta M.Air Dehumidification by Cooled Adsorption in Silica Gel Frains:Part II: Theoretical Analysis of the Prototype Testing Results [J].Applied Thermal Engineering,2017,110:1682-1689   \n[10] Aristov YI,Restuccia G，Tokarev M M,et al.Selective Water Sorbents for Multiple Applications 11 CaCl $^ 2$ （204号 Confined to Expanded Vermiculite.Reaction Kinetics [J]. Mechanisms and Catalysis, 2000,71(2):377-384   \n[11]Gonzalez J C,Molina S M,Rodrt'guez R F.Sepiolitebased Adsorbents as Humidity Controller [J].Applied Clay Science 2001, 20(3): 111-118   \n[1] ZHENG Xu, GE Tianshu, JIANG Yu, et al. Experimental Study on Silica Gel-LiCl Composite Desiccants for Desiccant Coated Heat Exchanger [J].International Journal of Refrigeration, 2015,51:24-32 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

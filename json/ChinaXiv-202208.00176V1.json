@@ -1,0 +1,427 @@
+[
+    {
+        "type": "text",
+        "text": "南京大学65cm反射式望远镜CCD相机的性能研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "何秋会」　杨天宁²　王旭」",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.南京大学天文与空间科学学院，南京 210046；2.南京大学匡亚明学院，南京 210046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：2021年6月，使用南京大学本科实验教学的 $6 5 \\mathrm { c m }$ 反射式望远镜系统，对其后端的探测器--电荷耦合器件（Charge-Coupled Device,简称CCD)系统的性能采用圆顶平场法进行了实际测定，得到了CCD相机的快门函数；同时用平场序列曝光，检测了CCD相机的线性，结果为：CCD相机的读出值从0到61900模数转换单位（Analog-DigitalUnit，简称adu），非线性小于 $1 \\%$ ，同时CCD相机的增益为1.02e/adu，读出噪音为 $\\mathsf { 1 3 e ^ { - } }$ 。但对于恒星这样的点光源的观测，当像元的数值高于38000adu时，会产生溢出。因此，在使用本CCD相机做点光源（例如恒星）观测研究时，需要选择恰当的曝光时间，避免星像发生溢出。实际天文观测中，利用此研究得到的快门函数，可对观测图像进行校准，有效提高测光精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：CCD；快门函数；线性；探测器；天文望远镜",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：P123.1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文献标识码：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金(11873030,12041306)；中华人民共和国科学技术部 SKA 专项基金(2020SKA0120300)资助收稿日期：作者简介：何秋会，女，工程师，硕士，主要从事天文观测及天文实验教学，qhe@nju.edu.cn。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Performance of the CCD Camera On the 65cm Reflective Telescope at Nanjing University ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HE Qiuhui1， YANG Tianning²，WANG xul   \n( 1.School of Astronomy & Space Science, Nanjing University, Nanjing   \n210046, China ; 2.Kuang Yaming Honors School, Nanjing University, Nanjing 210046, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: We have determined the capability of the CCD system by the dome flat field method on the backend of the 65cm reflective telescope at the Zuodijiang Observatory of Nanjing University, and have obtained its shutter function. The response linearity of CCD camera has also been tested by the flat field exposure series. The results show that nonlinearity of the readout value is less than $1 \\%$ from O to 61900ADU, and the gain of CCD camera is about 1.O2 e/ADU, and the readout noise is about $1 3 \\mathrm { ~ e ~ } ^ { \\cdot }$ However, overflow has occurred when the readout value is above 38,000 ADU for point-source observation. Therefore, proper exposure time is needed to avoid star image overflow when using this camera for point source observation. In the future observation, this shutter function could be used to calibrate the image in order to improve the photometric accuracy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: CCD； Shutter function; Linearity; Detectors； Astronomicaltelescope;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "天文学是一门观测与理论研究紧密联系的学科，也是现代科学与高新技术完美结合的典范。天文学的发展离不开天文望远镜，现代的天文望远镜离不开探测器。1609 年伽利略发明了天文望远镜[1]，之后的200多年，天文学家都是依靠望远镜和肉眼来进行天文观测，并通过观察或素描来记录他们的发现[2]。1839 年美国化学家约翰的·雷柏首次用照相机拍摄了月亮的照片，从此照相技术开始用于天文观测，天文测光技术也逐渐建立起来。20世纪后，随着电子技术的发展，人们开始把光信号转化成电信号，天文观测探测器逐步出现了光电器件，如光电倍增管，天文观测进入了光电测光时代[3]。底片照相的优点是探测面积大，并且可以长时间曝光，缺点是响应的非线性。光电测光的优点是高灵敏度而且线性，但探测面积小。1969 年美国贝尔实验室发明了CCD，它兼有底片照相和光电测光的优点。1975年科学级CCD相机应用于天文望远镜进行观测，很快在天文学的光学波段观测中被广泛应用，从而彻底改变了天文学的观测方法。20 世纪90 年代，光学天文探测器基本完全由科学级CCD探测器代替。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "科学级CCD相机在天文上的广泛应用，不仅因为CCD相机可以得到数字化的图像[4]，还因为科学级CCD 相机的高灵敏、低噪声、极好线性和大动态范围等良好性能[3]。这些性能使科学级CCD 相机能探测到更暗弱的天体。科学级CCD相机性能虽然良好，但在实际使用时，会随着环境改变或使用年限等因素变化而变化。当购置CCD相机时，生产厂家会提供部分性能参数，但按照惯例，生产厂家并不提供CCD相机各个像元的快门或线性等性能参数。在观测亮天体时，让CCD相机短时间曝光进行图像采集，需考虑CCD相机快门性能对测光精度的影响，所以天文观测工作者必须自己对CCD相机的性能参数进行测定[56]。本文作者对南京大学65cm天文望远镜使用的探测器PIXIS2048BCCD相机进行了一些特性测定，分析了它的快门函数和线性，以便于做精细测光时进行必要修正。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文第一节简单介绍快门函数和线性的测定方法，第二节介绍观测情况及观测结果，第三节对观测结果进行讨论，第四节对本文的工作进行总结。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1CCD的线性和快门函数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1 快门函数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "天文CCD 相机系统中要求有快门功能。由于相机快门的动作独立于光学系统，所以在光学系统对光通量控制的基础上，相机快门进一步增强了对信号电荷量控制的灵活性[7]。天文CCD 相机的快门有光瞳式和帘幕式两种类型，PIXIS2048BCCD相机使用的是光瞳式。光瞳式CCD相机在曝光开始后，相机快门在CCD靶面中心最先打开，曝光结束时相机快门在CCD 靶面中心最后关闭，因此CCD 靶面中心像元的实际曝光时长与边角的实际曝光时长是不相同的。其次相机快门的开关速度有限，当使用CCD相机做短时间曝光进行图像采集，快门效应会很明显。对于观测比较亮的天体目标，图像采集时一般只能进行短时间曝光，因此必须对使用的CCD相机的快门进行测定，了解其响应大小，然后进行必要的修正。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测定快门修正的方法有P.B.Stetson 提出的圆顶平场法和P.Surma提出的晨昏蒙影天光平场法8。其中圆顶平场法不要求定平场函数而只要求定快门函数，此方法简单准确，只需要光源稳定即可9，因此本文使用该方法进行快门函数的测定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "快门函数的修正首先需要测定快门函数，快门函数的获得类似于平场修正的获得：假设CCD第i列第j行的像元，其响应系数为a(i，j)，稳定的圆顶平场灯光照射到此像元的光强为 $\\mathrm { L } ( \\mathrm { i } , \\mathrm { j } )$ ，取CCD 相机长短不同的两个积分时间 $\\mathbf { t } _ { 1 }$ 和 $\\mathbf { t } _ { 2 }$ ，测量该像元的实际输出为 $\\mathrm { I ( i \\Omega , j ) \\Omega t _ { 1 } }$ 和 $\\mathrm { I } ( \\mathrm { i } \\ r , \\mathrm { j } ) \\mathbf { t } _ { 2 }$ ，则有",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { I _ { 1 } \\equiv I ( i , j ) \\cdot t _ { 1 } = a ( i , j ) \\cdot L ( i , j ) \\cdot ( t _ { 1 } + \\varDelta ( i , j ) ) } \\\\ & { } \\\\ & { I _ { 2 } \\equiv I ( i , j ) \\cdot t _ { 2 } = a ( i , j ) \\cdot L ( i , j ) \\cdot ( t _ { 2 } + \\varDelta ( i , j ) ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中，快门函数 $\\Delta ( \\mathrm { i } \\ r , \\mathrm { j } )$ (对 PIXIS 2048B CCD, i=1.,..,2048; j=1.,..,2048,(i,j)为CCD第i列第j行像元)是由于相机快门影响导致的延迟时间，即拍摄程序设置的积分时间 $\\mathrm { ~  ~ { ~ t ~ } ~ }$ 与真实的积分时间 $\\mathrm { T ( i ~ , j ) }$ 的差值。因为$\\mathrm { \\ a ( i \\ , j ) }$ 和 $\\mathrm { L } ( \\mathrm { i } , \\mathrm { j } )$ 不变化，可消除它们的影响，(1)、(2)两式相除有",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { 1 } / I _ { 2 } = \\left( t _ { 1 } + \\Delta ( i , j ) \\right) / \\left( t _ { 2 } + \\Delta ( i , j ) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "整理可得快门函数",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varDelta ( i , j ) = ( I _ { 2 } \\cdot t _ { 1 } - I _ { 1 } \\cdot t _ { 2 } ) / ( I _ { 1 } - I _ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所以第 $\\mathrm { ~ i ~ }$ 列第 $\\mathrm { j }$ 行像元真实的曝光时间为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT ( i , j ) = t + \\varDelta ( i , j )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2线性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CCD的线性是动态范围内入射光强变化与CCD响应变化之间的线性程度。一般用代表CCD相机产生的电信号与入射光强之间的线性关系的线性度来表征线性的好坏。在典型的视频或TV应用中，人们并不十分关心CCD相机的线性度，甚至高达 $20 \\%$ 的偏差都是允许的[10]。然而，在成像科学研究领域里，响应的线性度是必须考虑的重要参数。理想的情况是：每一个像元都可作为一个高保真的光子测量器件，它产生的电信号与入射光的强度成精确的正比。因此，保证CCD相机的线性度对于成像科学在定量研究中的应用十分重要。一个高性能的科学级CCD相机的非线性度在整个动态范围内甚至要小于 $0 . 1 \\% ^ { [ 8 ] }$ ，同时像元与像元之间具有很好的响应均匀性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CCD相机的线性是衡量天文探测器的一个重要指标，线性不好意味着观测得到的图像会失真，从而难以进行信息处理。本文采用的线性的测量方法是：通过拍摄一系列不同曝光时间 $t _ { i }$ 的平场图像，获取像元的响应数值 $V _ { t i }$ 即测量值；然后对 $V _ { t i }$ 与 $t _ { i }$ 进行线性函数拟合，得到线性函数；计算测量值 $V _ { t i }$ 与 $t _ { i }$ 时线性函数值 $V _ { t i } ^ { \\prime }$ 之间的差值，此差值是测量值与对应的线性值的偏离值，此偏离值的百分比即为我们求得的非线性度：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { N L } = \\frac { V _ { t i } - V _ { t i } ^ { \\prime } } { V _ { t i } ^ { \\prime } } \\times 1 0 0 \\% } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据不同数据的处理对精度的不同要求，可以在NL大于一定值的区域范围，才认为是非线性区域。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2观测情况及观测结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1观测情况 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "南京大学天文与空间科学学院本科教学中心实验室在左涤江天文台（地理位置：东经 $1 1 8 ^ { \\circ } 5 7 ^ { \\prime } 3 4 ^ { \\prime \\prime }$ ，北纬 $3 2 ^ { \\circ } 0 7 ^ { \\prime } 4 5 ^ { \\prime \\prime } .$ ）拥有一架65cm口径的天文光学望远镜，该望远镜使用的探测器是型号为PIXIS2048B的一款CCD 相机。这款CCD 相机主要用于南京大学本科实验课程教学的实验观测。实验观测项目有大气消光、像元比例尺、变星较差测光等。实验观测项目的主要目的是训练天文本科学生的观测能力以及数据处理能力，最初对实验结果的精度要求不高，CCD相机快门和线性对实验项目的影响归算在了实验误差分析之中。但是，随着实验教学质量提升计划的实施、研究生参与观测项目的增多以及和外单位合作的联合观测项目的开展，实验观测项目对观测精度的要求也逐步提高。为了在观测时更好地了解CCD相机性能，确定在精准测光时合适的曝光时间，必须对CCD相机的参数有详细的了解。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2021年5-6月，通过使用望远镜室内的平场灯先对快门函数进行了测定。测定时，选择了CCD最灵敏的I滤光片，曝光时间为一短一长，短的为1s，长的为10s。CCD采集的图像最大值为65535 adu,1s 曝光的图像减去本底后的值为5000 adu左右；10s曝光的图像减去本底后的值为50000adu左右。测定快门函数的拍摄顺序为：1s 曝光连续拍摄了5幅，10s曝光连续拍摄了2幅，1s 曝光连续再拍摄5幅。在快门函数测定拍摄前后各拍摄了10 幅本底图像，用作处理曝光拍摄的图像和检查CCD状态是否稳定。在整个测定过程，保持了CCD相机制冷后温度稳定和平场灯照度稳定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同时，对CCD相机的线性进行了测定。使用经过光学设计的出射光较为均匀的平场灯做平场拍摄。为了等待光源趋于稳定，在开灯半小时后才开始拍摄，在刚开始拍摄时，每隔几分钟拍一幅平场图像，当场计算图像的平均值，数值基本不变了才正式开始采集。在进行平场图像采集时，CCD 相机的曝光序列分为图像采集序列和监测采集序列，如表1，监测采集序列穿插在图像采集序列之中。根据测得的快门函数，本文作者观测时选择的最低曝光时间从5s开始，直到180s 饱和。CCD 相机的曝光序列的曝光时间为：10s；5s；10s；15s；10s;20s；10s；25s； 10s;30s； 10s; 35s; 10s; 40s；10s； 45s; .； 10s;180s，其中穿插的10秒曝光为监测曝光，所以测定线性的图像采集序列的时间为：5 s；10s；15s；20s；25s；30s；35s；40s；45s；.;180s。穿插10 秒曝光是因为如果光源亮度不稳定，光源亮度会慢慢漂移，为了减小光源不稳定带来的影响，所以中间不断加拍监测图像以监视亮度变化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表1CCD 图像采集的曝光时间顺序",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Exposure time sequence of CCD imaging ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/46177c46e47455b8e31e9616bf1a5770a6be2826412792214836765e2add9327.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>曝光序列</td><td></td><td></td><td>123456789</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>106970</td><td></td><td></td></tr><tr><td>图像采集序 列时间 (秒)</td><td></td><td>5</td><td></td><td>15</td><td></td><td>20</td><td></td><td>25</td><td></td><td>30</td><td>：</td><td></td><td>18 0</td></tr><tr><td>监测采集序 列时间 (秒)</td><td>10</td><td></td><td>10</td><td></td><td>10</td><td></td><td>10</td><td></td><td>10</td><td></td><td>：</td><td>10</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过对观测数据的处理，得到了快门函数、线性、增益和读出噪声。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2观测结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.1快门函数",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对观测得到的数据，我们使用通用的 IRAF 软件[1对其进行了处理，得到了相机的快门函数SHUTTER.fits和快门函数的等光图如图2（其中不同的闭合曲线代表了不同的快门修正值）。根据处理得到的CCD相机快门函数，可得知快门中心处极大值约为0.04秒，边缘极小值约0.006秒，CCD相机的中心与边缘曝光时间相差约0.04秒。因此根据测量的快门函数的结果，若需要整个图像的测光精度差异小于 $1 \\%$ ，设置的曝光时间则需大于4秒；若需要整个图像的测光精度差异小于 $0 . 1 \\%$ ，设置的曝光时间则需大于40 秒。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbb0845954c0b5490e71b86a981616d62143d79f6cea5ec187233d1432fa7c99.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 diagram of the shutter function ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/1551f93ed36d4b202316fe20087096664cca5f9bcdf3d3718896bceac2bc8cbe.jpg",
+        "img_caption": [
+            "图1 相机快门函数示意图",
+            "图2 相机快门函数的等光图",
+            "Fig.2 contour of the shutter function "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图1快门函数示意图和图2快门函数等光图都只是示意图，它们可以用来半定量地判断CCD上有关区域的快门影响大小。为了定量地修正快门效应，还需要做图像处理[12]。在实际观测的修正中,SHUTTER'表示快门函数，对于观测目标进行曝光t时间得到的星像图像，先减去CCD本底‘BIAS'，再做平场处理后，得到的星像图像表示为IMAGE'，使用任何图像处理软件，例如IRAF，进行图像运算处理:",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI M A G E 0 = [ I M A G E / ( S H U T T E R + t ) ] \\cdot t\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "这样就得到了修正过快门效应的所需图像IMAGE0'。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "快门函数测定后，可以使用一段时间，但长时间多次反复开关快门，可能引起快门的机件老化，需要定期重新检测。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.2线性",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过对观测数据的处理，得到CCD的线性情况，如图3和图4。图3是CCD的线性实测值和拟合曲线，图4是测量值偏离线性值的百",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fd20927bc05b23dc8967f92b2090118cf33db4cf5ed940187064c70c5deeb91.jpg",
+        "img_caption": [
+            "图3 CCD的线性实测值和拟合曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 experimental value and fit curve of the CCD Iinearity ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfaa7888f04fb90278b2e552328de2090210cd0606520d470ac834171de56ae7.jpg",
+        "img_caption": [
+            "图4测量值偏离线性的百分比"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Linearity deviation measument of the CCD分比。从处理的数据可以清晰地得到CCD的线性：实验使用的PIXIS2048BCCD相机的动态范围是0到65535adu，测试结果显示一直到61900adu，CCD的非线性都小于 $1 \\%$ 。需要说明的是：图3和图 4是对面光源（圆顶平场）的线性测定，虽然直到61900adu还保持线性，但是对于点光源（恒星）的拍摄，情况却有所不同。在2021年的1月到5月，多次对巨蟹座中的一个疏散星团M67进行了观测。以 M67中的一颗亮星HD75700（08:51:49+11:53:38）为例，曝光 5秒得到图像，经过 IRAF 处理得这颗亮星的面亮度分布图(surface)如图5和该星的径向轮廓图(radialprofile)如图6。由图5和图6可见，在约38000adu时，星像已经饱和，所以曝光后图像数值大于38000adu的图像部分是不能使用的。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/95fffafe1ec08197e543f8fe078fcbdbcae832ba3a0368c68fb4fbfcd1e770c1.jpg",
+        "img_caption": [
+            "图5 拍摄的HD75700的面亮度分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 surface brightness profile of the observed HD75700 ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/c644981673d35b8e2f5cb78a7d4ee6e9d43e9d9e0b75559c4cfc11cf4964ab82.jpg",
+        "img_caption": [
+            "图6拍摄的HD75700的径向轮廓图"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 radial profile of the observed HD75700 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "过早饱和即溢出是本CCD相机的弱点，这限制了点光源测光的动态范围，以及进一步使用点扩散函数（Point SpreadFunction）分析。但如果控制曝光时间，避免亮星过度曝光，仍然可以使用本CCD相机对点光源做高精度测光[13]。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本文在使用CCD相机进行图像采集时，使用的是基特峰天文台也使用的MaxImDL控制程序。为探究使用MaxImDL控制程序控制CCD 相机进行图像采集会出现过早溢出的原因，联系了云南天文台1m 望远镜的负责人和国家天文台 $2 . 1 6 \\mathrm { m }$ 望远镜的观测专家，进行了细致讨论。云南天文台 $ { \\mathrm { 1 m } }$ 望远镜使用不同型号的CCD相机溢出情况不同，曾经PI公司大小为 $1 0 2 4 \\times 1 0 2 4$ 的 CCD相机没有过早溢出，但是，后来购进的ANDOR 公司的CCD 相机却有过早溢出，经过各种尝试，也没有从根本上解决过早溢出问题。国家天文台 $2 . 1 6 \\mathrm { m }$ 望远镜使用MaxImDL控制程序，当有过早溢出时，改变bin参数，过早溢出会得到改善。本文也曾试着改变参数，但是情况没有改变。在文献中得知当Massey 等在基特峰天文台处理老的RCA CCD 相机资料时，有遇到类似情况，他们把这归之于“细微的电荷传递问题”[13]过早溢出究竟是电荷传递问题还是CCD芯片问题或控制程序问题？还需要以后进一步的分析探究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "对于在实验中使用的CCD等仪器设备，尽管厂家提供了参考的性能参数，但为了更细致深入了解该仪器设备，仍需要使用者自己测定相关参数。本文的研究测定方法对于新购CCD的使用者具有参考性和指导性。本文对南京大学65cm反射式望远镜的后端探测器PIXIS2048BCCD相机性能进行了研究和实际测定，得到了CCD相机的快门函数、线性、增益和噪声。测得的快门函数已存储于观测用的计算机中，以后的观测中，会在必要时把观测数据和快门修正函数一同给与数据处理者，方便进行修正。这款CCD相机的读出值从0到61900adu，非线性都小于 $1 \\%$ ，CCD 相机的增益约1.02e/adu，读出噪声约 $1 3 \\mathrm { e } ^ { \\cdot }$ 。在后续的实验教学观测项目以及研究项目观测中，这些测得的性能参数将指导学生和研究者更好地选择合适的观测目标，设置观测中的观测参数，以及后期处理数据的校正，有利于更好地发挥设备性能和进行观测研究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "非常感谢上海天文台姚保安老师给予的指导和帮助。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1]路甬祥．从仰望星空到走向太空--纪念伽利略用望远镜进行天文观测 400 年［J]．天文学进展，2010，1：1-9  \nLu Yong-xiang.From Earth to Space: in Celebrating the 4OOth Anniversary of the Use ofTelescope by Galileo to Study the Universe[J]. Progress in Astronomy,2010,1:1-9  \n[2]赵永恒．从照相底片到CCD[J]．现代物理知识，2019，6:31-34  \nZhao Yong-heng. From photographic negatives to CCDs[J]. Modern Physics,2019, 6: 31-34[3]黄佑然，许敖敖，唐玉华，等．实测天体物理学[M]．北京，科学出版社,1987.Huang You-ran， Xu Ao-ao,Tang Yu-hua,et al.Observational Astrophysics[M]. Bei Jing,SciencePress,1987.  \n[4]冯海霞，陈建军，邓建榕，等.CCD 图像中宇宙线 $\\mu$ 子甄选技术[J]．天文研究与技术,ZUZU,弟1/ 仓(2):2U1-209.  \neng Haixia, Chen Jianjun, Deng Jianrong,et al. Cosmic-ray Muons Extraction Technology in  \nCD Image[J]. Astronomical Research & Technology,2020,17(2): 201-209  \n[5]林清．1.56 米望远镜CCD 线性检测及非线性特征分析[J].紫金山天文台台刊，1997,Vol.16:12-24Lin Qing. Linearity Analysis of the CCD for the $1 . 5 6 \\mathrm { m }$ Reflector[J]. Publications of PurpleMountain Observatory,1997,16: 12-24[6]姚保安，张春生，林清．关于云南天文台 Tek1024CCD 的线性及其他[J].紫金山天文台台刊，1998，Vol.17:57-61Yao Bao-an, Zhang, Chun-sheng, Lin Qing, et al. On the Linearity of the TEK 1O24 CCD atYunnan Observatory[J]. Publications of Purple Mountain Observatory,1998,17: 57-61  \n[7]王海涌，申功勋．基于电子快门实现 CCD 曝光量无级调节技术[J]．光电工程，2006,33(08): 136-139.  \nVang Hai-yong， Shen Gong-xun. Technology of stepless adjustment to CCD exposure based on  \nlectronic shutter[J]. Opto-Electronic Engineering, 2006,8:136-139[8]姚保安.关于 CCD平场快门效应的改正及有关问题[J].天文学报，1997,Vol.38:312-322Yao Bao-an,Lin Qing. Some notes on the Shutter-Free Flatfielding for CCD Cameras[J].Acta Astronomica Sinica，1997，Vol.38:312-322[9] Yao Bao-an, Wang Shu-he, Tang Zheng-hong. Performance Study of the CCD Camera onthe 1m Reflector at NAOC[J]. Annals of Shanghai Observatory Academia Sinica， 2007,NO28:80-88[10] 李相民，周立伟，金伟其．科学级制冷CCD 相机的性能与技术[J].大连理工大学学报,1997，S2:15-17Li Xiang-min, Zhou Li-wei, Jin Wei-qi. Performance and technology for Scientific coolingCCD cameras[J]. Journal of Dalian University of Technology, 1997， S2:15-17[1] 郭碧峰，彭青玉，尚一佳，等.CCD 图像相对测光中的技术研究与精度回报现象[J]．天文研究与技术，2022,19（2）：111-117.Guo Bifeng,Peng Qingyu, Shang Yijia, et al. Technology Researchand PrecisionPremiuminRelative Photometry Based on CCD Images[J].AstronomicalResearch & Technology,2020，19(2):111-117.[12] Yao Bao-an, Zhang Chun-sheng.Shutter Function and Linearity of the New CCD Camera atthe 1.56m Reflctor in shao[J]. Annals of Shanghai Observatory Academia Sinica， 2003,NO24:71-74[13]姚保安，张春生，林清．电荷守恒与CCD 孔径测光[J].天文学报，2006，Vol47:111-118Yao Bao-an, Zhang Chun-sheng,Lin Qing. Charge Conservation and CCD AperturePhotometry[J].Acta Astronomica Sinica， 2006，Vol47:111-118",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

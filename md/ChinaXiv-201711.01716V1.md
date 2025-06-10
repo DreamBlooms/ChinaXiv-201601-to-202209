@@ -1,0 +1,161 @@
+# 灌溉方式对优质晚稻褐飞虱及其主要天敌种群动态的影响
+
+李超1,3 刘洋1 陈恺林1 方宝华1 汤文光²周学其4 张玉烛1\*\* 陈松5
+
+(1.湖南省水稻研究所 长沙410125;2.湖南省土壤肥料研究所 长沙410125;3．湖南农业大学农学院长沙 410128;4．益阳市赫山区农业局益阳413002;5．中国水稻研究所杭州 310006)
+
+摘要优质晚稻米以其良好的口感而备受消费者欢迎，灌溉方式作为优质晚稻的重要栽培措施之一，研究其对褐飞虱及其主要天敌种群动态的影响，找出一种能够有效降低褐飞虱发生的灌溉方式，从而减少化学农药用量，提高优质晚稻稻米品质，对实现提质增效意义重大。本研究设置长期灌溉、间歇灌溉、湿润灌溉及非充分灌溉4种灌溉方式，研究不同灌溉方式在两种害虫防治方式(生物防治和化学防治)及防虫网全隔离和半隔离方式下对优质晚稻褐飞虱及其主要天敌(拟环纹豹蛛和黑肩绿盲蝽)种群动态的影响，以期为优质晚稻绿色栽培提供理论支撑。结果表明：生物防治下，黑肩绿盲蝽的始见期迟于褐飞虱，与褐飞虱间主要表现为跟随效应，只利用黑肩绿盲蝽不能有效控制褐飞虱的发生。在晚稻褐飞虱快速增长的主要时期(孕穗一乳熟期)，长期灌溉的褐飞虱种群数量显著低于非充分灌溉，非充分灌溉的拟环纹豹蛛种群数显著低于其他灌溉方式；黑肩绿盲蝽、拟环纹豹蛛的种群变化与褐飞虱种群变化相关性显著 $( P { < } 0 . 0 5 )$ ，当田间褐飞虱种群数量低于1891.1只·百丛-，蛛虱比(拟环纹豹蛛：褐飞虱)大于 $1 : 9 . 6 7$ 时，拟环纹豹蛛能够完全控制褐飞虱的发生。化学防治下，化学农药对各灌溉方式下的黑肩绿盲蝽均具有严重的致死效应，而长期灌溉能够有效降低化学农药对拟环纹豹蛛的毒害。综上所述，长期灌溉有利于保护稻田主要天敌，对褐飞虱的防控效果最好，生产中结合节水理念，可在晚稻全生育期内探索采用分段长期灌溉，从而达到既节约水资源又有效减少化学农药用量的效果。
+
+关键词灌溉方式害虫防治方式优质晚稻褐飞虱天敌种群动态中图分类号：S181 文献标识码：A 文章编号:1671-3990(2016)10-1391-10
+
+# Effect of irrigation method on population dynamics of Nilaparvata lugens and natural enemies of high-quality late rice field
+
+LI Chao1,3,LIU Yang', CHEN Kailin', FANG Baohua’, TANG Wenguang² ZHOU Xueqi,ZHANG Yuzhul\*\*,CHEN Song5
+
+(1.Hunan ProvinceRiceResearch Institute,Changsha410l25,China; 2.Hunan ProvinceSoilandFertlizerResearch Institute, Changsha410125,China;3.ColegeofAgronomy,HunanAgricultural University,Changsha410128,China; 4.HeshanDistrict Agriculture BureauofYiyang CityYiyang 413002,China; 5.China National Rice Research Institute,Hangzhou 3106,China)
+
+AbstractHigh-quality latericeis prefered by mostconsumers foritsgoodtaste.Irigation isan important management practicein ricecultivation.This study analyzed theeffectsofirigation methodonthe populationdynamicsof Nilaparvata lugens (Stal)andtheainnaturalenmies[Cyrtohinus livdipennis (Reute),Pardosapseudoanulata (ose.etStr.906)]f high-quality late rice.The study alsodetermined the effective irigation method which reduced theoccurrenceof N.lugens, thatinturnreducedtheuseofchemical pesticides,and improvedricequalityandcultivation eficiency.Todo so,deficit irrigation，wetirrigation,intermitent irigationandlong-termirigation weresetuptostudytheeffectsofthevarious irrigation methods on the population dynamics of $N .$ lugens and the main natural enemies of high-quality late rice under two pestcontrolmethods (biological and chemical control)and two isolation methods (semi-artitioningand fullpartitioning method).The results showed that $C$ .livdipennis occurred after $N .$ .lugens,which limited the effective control of $N .$ lugens by $C$ livdipennis. The population of $N .$ lugens under long-term irrigation was less than that under deficit irrigation and $P .$ pseudoannulata under deficit irigation was lessthan that under other irigation methods.These diffrences were significant for main growth stages (booting stage tomilk stage)whenthere wasrapid growthoflatericebrown plant hopperunder biological control. There were significant correlations of population changes between $P .$ pseudoannulata and C. livdipennis and $N .$ lugens. P. pseudoannulata had an absolute control over $N .$ lugens when $N .$ lugens population was less than 1 891.1 per 100-clump and the ratio of $N .$ lugens to $P .$ pseudoannulata exceeded 9.67. Chemical pesticides had a severe lethal efect on C.livdipennis under all the irrigation methods.Long-term irrigation greatly reduced the toxicity of chemical pesticides to $P .$ pseudoannulata. In summary, long-term irigation was beneficialforthe protection of main natural enemiesof paddy riceand itwas the best prevention optionforN.lugens.Long-termirrgationcombined production with watersaving,explored theuseofsub-long-termiigation in the growth period of late rice and thereby enhanced efective water saving and reduced use of chemical pesticides.
+
+KeywordsIrrigation method;Pestcontrol method; High-quality laterice； Nilaparvata lugens(Stal);Natural enemy; Population dynamics
+
+化学农药的诞生，使水稻(Oryza sativaL.)病虫害化学防治呈暴发式发展，而化学农药的长期大量使用导致害虫的耐药性显著增强，害虫大发生越发频繁[1-2]。同时，农药用量呈逐年递增趋势，稻米品质不断下降，而随着消费观念的不断进步，消费者对稻米品质的要求越来越高。在此背景下，优质晚稻稻米越来越受到消费者的青睐[3-4]，特别是绿色及有机晚稻米。水稻害虫是限制优质晚稻高产稳产的重要因子，水稻三大害虫中的稻纵卷叶螟[Cnaphalocrocismedinalis(Guenee)]及二化螟[Chilosuppressalis(Walker)]可通过赤眼蜂(Trichogrammatid sp.)得以防控[5-6]，而褐飞虱[Nilaparvata lugens (Stal)]则是目前生物防治领域的一大难点，也是一大热点。前人研究[7-9]表明蜘蛛(Araneae sp.)是褐飞虱的重要天敌之一，通过天敌功能指数(EF)证实EF值的升降与水稻受飞虱危害的程度呈显著的负相关。稻田蜘蛛对飞虱具有较大的控制作用，能有效控制飞虱的过度繁殖，其中，拟环纹豹蛛[Pardosa pseudoannulata(Bose.et Str.，l906)]及拟水狼蛛(Pirata subpiraticusBoes.et Str.，1906)为稻田的优势蛛种[10-1]。黑肩绿盲蝽[Cyrtorrhinus livdipennis (Reute)]是褐飞虱的重要捕食性天敌，主要刺吸褐飞虱的卵，还可捕食其若虫和短翅型成虫[12-13]。近年来，化学农药的长期使用对稻田天敌的生长繁殖影响严重，且褐飞虱的耐药性逐年增强，导致化学农药的用量不断增加，使得农田生态环境面临前所未有的严峻考验。灌溉方式是绿色栽培技术体系中的重要组成部分，其对稻田害虫及天敌种群动态的影响研究尚鲜见报道，因此，本研究从不同灌溉方式入手，以化学防治为对照，研究不同灌溉方式下褐飞虱及其主要天敌的种群消长动态，以期探寻一种与优质晚稻相配套的灌溉方式，从栽培上为绿色优质晚稻的生产提供一定的理论支撑。
+
+# 1材料和方法
+
+# 1.1 试验区概况
+
+田间试验于2013—2015年在湖南省益阳市赫山区笔架山乡中塘试验基地 $( 2 8 ^ { \circ } 2 9 ^ { \prime } 3 0 " { \sim } 2 8 ^ { \circ } 2 9 ^ { \prime } 5 0 " \mathrm { N }$ $1 1 2 ^ { \circ } 3 0 ^ { \prime } 2 0 ^ { \prime \prime } { \sim } 1 1 2 ^ { \circ } 3 0 ^ { \prime } 4 0 ^ { \prime \prime } \mathrm { E } )$ 进行，该区属亚热带大陆性季风湿润气候，年平均气温 $1 6 . 5 ~ \ { ^ { \circ } C }$ ，日平均日照$1 ~ 5 6 0 ~ \mathrm { h }$ ，年平均降雨量 $1 ~ 4 6 5 ~ \mathrm { m m } _ { \mathrm { c } }$ 。试验田前茬作物为水稻，土壤肥力均匀。生物防治区土壤碱解氮、有效磷、速效钾、有机质及 $\mathsf { p H }$ 分别为 $1 6 5 . 2 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、$6 . 5 7 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ ！ $6 6 . 2 \mathrm { m g { \cdot } k g ^ { - 1 } }$ （ $3 3 . 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 和5.63，化学防治区分别为 $1 7 4 . 3 \mathrm { m g ^ { - } k g ^ { - 1 } }$ （ $7 . 0 3 \mathrm { m g } \mathrm { \cdot k g } ^ { - 1 }$ （ $6 2 . 1 \ \mathrm { m g ^ { . } k g ^ { - 1 } } .$ 、$3 5 . 8 ~ \mathrm { g \cdot k g ^ { - 1 } }$ 和5.42。试验期间降雨量及温湿度见图1。
+
+# 1.2 试验设计
+
+试验于2013—2015年每年的7月一11月进行，2013年为预备试验。试验用水稻品种为‘湘晚粘12号，由湖南省农丰种业有限公司提供。
+
+1)半隔离试验：设置长期灌溉(A)、湿润灌溉(B)间歇灌溉(C)和非充分灌溉(D)4 种处理。长期灌溉:全生育期田间保持 $3 { \sim } 5 \ \mathrm { c m }$ 水层，收割前1周断水;湿润灌溉：移栽和抽穗期保持 $3 { \sim } 5 ~ \mathrm { c m }$ 水层，其余时期土壤持水量维持在 $60 \%$ 以上；间歇灌溉：移栽和抽穗期保持 $3 { \sim } 5 ~ \mathrm { c m }$ 水层，抽穗期后干湿交替，收割前1周断水；非充分灌溉：除移栽期外，全生育期无人工灌水，靠自然降雨。每种灌溉方式采取生物防治及化学防治两种害虫防治方式，化学防治区全生育期用化学农药进行防治；生物防治区全生育期不打农药，通过人工释放赤眼蜂及稻田天敌进行防治各小区之间用尼龙纱窗网进行隔离，小区上部不隔离。每个处理3次重复。
+
+![](images/7a29b72c3b52934645af61fbba2b3ada38f61ecbcbf92723e961d902dfc2c8e6.jpg)  
+图12014年和2015年试验期间试验区降雨和温湿度的变化  
+Fig.1Changes of rainfall,temperature and humidity in the test area during in 2O14 and 2015
+
+生物防治区：周围区域均采用生物防治，小区面积为 $1 0 0 \mathrm { m } ^ { 2 }$ 。
+
+化学防治区：周围区域均采用化学防治，小区面积为 $1 0 0 \mathrm { m } ^ { 2 }$ ，土壤肥力水平与生物防治区相当。
+
+2)全隔离试验：小区上部用尼龙纱窗网(30目 $\times$ 30自)进行全隔离以防止天敌及害虫的迁入及迁出，其余设计同半隔离试验。
+
+# 1.3 试验管理
+
+水稻6月15日播种，种子用200倍强氯精液浸种消毒，催芽后用旱育保姆拌种，每公斤旱育保姆拌稻种 $3 . 5 ~ \mathrm { k g }$ ；用规格为308孔的育秧盆进行育秧，每盘播种量为 $3 5 \mathrm { ~ g ~ }$ 左右，2014年由于持续降雨，导致早稻贪青晚熟，抛秧推迟至7月26日进行，2015年于7月17日抛秧。菜饼 $6 0 0 . 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 及复合肥$8 0 0 . 0 ~ \mathrm { k g } . \mathrm { h m } ^ { - 2 } ( \mathrm { N } : \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } : \mathrm { K } _ { 2 } \mathrm { O } = 1 5 : 1 0 : 1 5 )$ 作基肥施用;8月3日追施尿素 $6 0 . 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $\mathrm { K C l } ~ 1 4 0 . 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ (分蘖肥);8月23日追施尿素 $2 0 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ (穗肥)。8月13日对小区进行隔离。化学防治区2014年于8月3日用 $3 0 0 ~ \mathrm { g } { \cdot } \mathrm { h m } ^ { - 2 }$ 的 $10 \%$ 的苄嘧磺隆可湿性粉剂用于防治阔叶杂草及莎草科杂草; $6 0 0 \ \mathrm { m L } \cdot \mathrm { h m } ^ { - 2 }$ 的陶氏益农千金 $( 1 0 0 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 的氰氟草酯)用于防治千金子;$3 0 0 \mathrm { \ m L } { \cdot } \mathrm { h m } ^ { - 2 }$ 陶氏益农稻杰 $( 2 5 \ \mathrm { \ g } { \cdot } \mathrm { L } ^ { - 1 }$ 五氟磺草胺)用于防治稗草；8月23日用 $6 \ \mathrm { g } { \cdot } \mathrm { h m } ^ { - 2 }$ 的井冈霉素用于防治纹枯病及稻曲病；9月20日和10月5日用$1 5 0 ~ \mathrm { \ m L } { \cdot } \mathrm { h m } ^ { - 2 }$ 的康宽 $( 2 0 0 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 氯虫苯甲酰胺)用于防治二化螟及卷叶螟; $3 0 0 ~ \mathrm { g } { \cdot } \mathrm { h m } ^ { - 2 }$ 的 $10 \%$ 的可湿性粉剂吡虫啉及 $2 5 \%$ 的噻嗪酮用于防治褐飞虱。2015年于7月24日、8月16日、9月13日和9月28日进行化学防治，用药同2014年。生物防治区2014年于8月19日、9月11日和9月28日，2015年于8月13日、9月5日和9月22日均匀释放赤眼蜂，释放数量为15万 $\cdot \mathrm { h m } ^ { - 2 }$ ，用于防治卷叶螟及二化螟，除用井冈霉素防治纹枯病外，水稻全生育期不使用其他农药。
+
+# 1.4 测定项目与方法
+
+抛秧26d后，为最大程度地保证小区生态系统不被干扰与破坏，采用无损直接目测法，每8\~10d调查一次拟环纹豹蛛、黑肩绿盲蝽及褐飞虱数量，直至水稻收获为止。每个小区按五点取样法选择代表性5点，每点调查10丛水稻，然后统计百丛拟环纹豹蛛、黑肩绿盲蝽及褐飞虱数量。
+
+# 1.5 数据处理
+
+采用DPS14.50及MicrosoftExcel2007实用数
+
+据分析软件进行数据分析与作图。
+
+# 2 结果与分析
+
+# 2.1灌溉方式对褐飞虱种群动态的影响
+
+图2表明，长期灌溉处理的褐飞虱种群除成熟期外都小于其他灌溉处理。在生物防治半隔离条件下(图2a)，2014年各灌溉方式的褐飞虱数量均随时间推移呈现先增加后下降趋势；其中长期灌溉处理各时期的褐飞虱种群数量最少，9月7日(孕穗期)至10月14日(蜡熟期)显著低于非充分灌溉，10月4日(乳熟期)至10月14日显著低于其他3种灌溉方式$( P { < } 0 . 0 5 )$ ，于9月23日达到高峰；而另3种灌溉方式处理褐飞虱种群数量高峰期则均出现在10月4日。9月7日至9月23日(抽穗期)，非充分灌溉条件下的褐飞虱数量显著多于其他3种灌溉方式 $( P { < } 0 . 0 5 )$ ，其中9月23日的种群量达到3212只·百丛-，表明非充分灌溉条件下的褐飞虱较其他灌溉方式发生早，危害程度大。在生物防治全隔离条件下(图1b),2014年褐飞虱数量同样呈现先增加后下降的趋势，非充分灌溉处理下褐飞虱数量在全生育期都显著高于其他灌溉方式 $( P { < } 0 . 0 5 )$ ，4种处理褐飞虱高峰期均出现在10月14日，相对半隔离有所后延，其中非充分灌溉处理下褐飞虱数量达3894.0只·百丛-，比湿润灌溉、间歇灌溉以及长期灌溉处理分别高 $3 7 . 3 \%$ /$34 . 3 \%$ 、 $7 9 . 9 \%$ 。生物防治半隔离条件下，除长期灌溉外，2014年间歇灌溉、非充分灌溉、湿润灌溉的褐飞虱数量最大值均显著高于全隔离同时期褐飞虱种群数量 $( P { < } 0 . 0 5 )$ ，且在10月4—14日种群数量急剧下降，表明半隔离条件下稻飞虱发生了外迁(未发表数据)。图1表明10月4一14日的空气湿度波动不大，10月4—12日的气温均在 $2 0 \mathrm { ~ \textdegree ~ }$ 以上，平均温度为 $2 2 . 6 \mathrm { ~ \ ^ { \circ } C }$ ，而10月13日和14日的温度分别降至 $1 8 . 6 ~ \ \mathrm { ~ \textdegree ~ }$ 和 $1 8 . 8 ~ \ { ^ { \circ } C }$ ，且未有降雨发生，表明温度降低是褐飞虱外迁的重要因子。2015年晚稻各灌溉处理的褐飞虱发生程度显著低于2014年，其主要是因为生育中后期持续降雨、气温偏低所致。
+
+化学防治条件下(图2c，d)，各灌溉处理的褐飞虱种群数量显著低于生物防治 $( P { < } 0 . 0 5 )$ ，且灌溉方式间未表现出一定规律，主要是因为化学农药的使用掩盖了灌溉处理效果。
+
+![](images/05268885873ac87c998685e1e627359b012488a4b4c27898c3df8395779ab1bb.jpg)  
+图22014年和2015年半隔离(a,c)和全隔离(b,d)的生物防治(a,b)和化学防治(c,d)条件下灌溉方式对褐飞虱种群动态的影响  
+Fig.2Effectsof irigationmethodsonNilaparvata lugens (Stal)(NLS)populationdynamicsunderbiologicalcontrol (a,b) andchemicalcontrol(c,d)with semi-partitioningofflynet (a,c)andfull-partitioningofflynet(b,d)in2O14and 2015 NLS 代表褐飞虱，下同。NLS represented Nilaparvata lugens (Stal).The same below.
+
+# 2.2 灌溉方式对拟环纹豹蛛种群动态的影响
+
+图3a表明：生物防治半隔离条件下，2014年各灌溉方式的拟环纹豹蛛种群动态总体上呈现波浪式变化趋势，拟环纹豹蛛种群数量在8月20日至9月
+
+7日迅速增加，于9月7日达到最大，随后缓慢下降于9月23日降到最低，随着时间的推移，长期灌溉表现为缓慢上升的趋势，其他3种灌溉方式则表现为先增加后降低的趋势，于水稻成熟期种群数量降
+
+http://www.ecoagri.ac.cn
+
+到最低。表明长期灌溉及间歇灌溉有利于晚稻后期拟环纹豹蛛种群的构建。各灌溉方式间的拟环纹豹蛛种群数量差异显著 $( P { < } 0 . 0 5 )$ ，其中非充分灌溉处理拟环纹豹蛛的种群数量在各生育时期均显著低于其他3种灌溉方式 $( P { < } 0 . 0 5 )$ ，表明非充分灌溉不利于拟环纹豹蛛种群的发展。全隔离条件下(图3b)，各灌溉方式下的拟环纹豹蛛种群数量均于9月14日达到最大值。9月14日至水稻成熟期，各灌溉方式间总体上表现出下降趋势，这与半隔离条件下的表现趋势存在一定差异。2015年由于水稻生育中后期的持续降雨导致各灌溉方式间拟环纹豹蛛种群数量差异不显著。
+
+环纹豹蛛种群动态整体上未表现出一定规律(图 3c),8月20日至9月15日，4种灌溉方式拟环纹豹蛛种群表现为交替递增的趋势，9月15日至成熟期，长期灌溉下的拟环纹豹蛛种群数量显著高于其他3种灌溉方式 $( P { < } 0 . 0 5 )$ ，非充分灌溉最低；全隔离条件下(图3d)，整体上4种灌溉方式间拟环纹豹蛛的种群动态规律性不明显，但长期灌溉总体上显著高于其他3种灌溉方式，而非充分灌溉下的拟环纹豹蛛种群数在晚稻整个生育期内均最低。表明长期灌溉下的拟环纹豹蛛种群受化学农药的影响最小，非充分灌溉最大，在水稻害虫防治过程中，应采用适当的灌溉方式以增加拟环纹豹蛛种群数量，有效发挥稻田天敌的控害作用，减少化学农药施用量。
+
+![](images/c71c5f490217a1a26c0e4d6b13e0ec5094940a10704d82d88252864c5e6ade5f.jpg)  
+化学防治条件半隔离处理下4种灌溉方式的拟  
+图32014年和2015年半隔离(a,c)和全隔离(b,d)的生物防治(a,b)和化学防治(c,d)条件下灌溉方式对拟环纹豹蛛种群动态的影响Fig.3Efctsofigatmetodsonardosapseudoanlata (BoseetSt906)populatiodamicsuderlogicalotol(,b)andchemicalcontrol (c,d) withsemi-partitioningofflynet (a,c)andfull-partitioningofflynet(b,d) in2O14and 2015PPN 代表拟环纹豹蛛，下同。PPN represented Pardosa pseudoannulata (Bose.et Str.,l906).The same below.
+
+# 2.3灌溉方式对黑肩绿盲蝽种群动态的影响
+
+图4表明：生物防治半隔离试验区(图4a)在8月28日前，田间未见到黑肩绿盲蝽，9月7日开始少量出现，之后随着晚稻生育进程的推移而表现为先增后降的趋势，4种灌溉方式下的黑肩绿盲蝽种群数量均于10月14日(腊熟期)达到最大，9月7日至10月4日，4种灌溉方式间的黑肩绿盲蝽种群数量表现为非充分灌溉 $\mathrm { > }$ 湿润灌溉 $; >$ 间歇灌溉 $>$ 长期灌溉，10月14日之后，非充分灌溉、间歇灌溉及湿润灌溉的种群数量急剧下降，长期灌溉下降则相对较缓，表明非充分灌溉条件下黑肩绿盲蝽表现为水稻生育前期种群大而后期衰减快的趋势，而长期灌溉条件下则表现为前期种群小而后期发生量大的趋势。全隔离条件下(图 4b)，10月11日之前的表现规律与半隔离基本一致，而在10月11日之后，4种灌溉处理的黑肩绿盲蝽种群数量的下降相对半隔离则比较缓慢，这主要是由于全隔离条件下防治了黑肩绿盲蝽的外迁(未发表数据)。2015年的黑肩绿盲蝽种群数量显著低于2014年，主要是由于褐飞虱种群数量较少，导致黑肩绿盲蝽取食受到限制，影响了其种群的发展。化学防治下，各灌溉处理间未表现出一定规律，且各生育期间波动极大(图4c,d)，表明黑肩绿盲蝽对化学农药极其敏感。
+
+![](images/0ec38934f3e6191482627859beb9929f1f72cf921f068ffe257d9826c38ef2fd.jpg)  
+图42014年和2015年半隔离(a,c)和全隔离(b,d)的生物防治(a,b)和化学防治(c,d)条件下灌溉方式对黑肩绿盲蝽种群 动态的影响 Fig.4Effectsofirigation methodsonCyrtorrhinus livdipennis (Reute)populationdynamicsunderbiologicalcontrol(a,b)and chemical control (c,d) with semi-partitioning offlynet (a,c)and ful-artitioning offlynet (b,d) in2O14 and 2015 CLR代表黑肩绿盲蝽，下同。CLR represented Cyrtorrhinus livdipennis (Reute).The same below.
+
+# 2.4生物防治下天敌与褐飞虱间的相关分析
+
+半隔离条件下(图5)，褐飞虱数量与拟环纹豹蛛数量相关性达显著水平 $\scriptstyle ( R ^ { 2 } = 0 . 5 3 7 8$ ， $P { = } 0 . 0 5 )$ ，褐飞虱种群量表现为随拟环纹豹蛛的增加而先增后降的抛物线趋势；对曲线方程求导可知，最大值点对应的拟环纹豹蛛及褐飞虱种群量分别为195.6只·百丛-1、1891.1只·百丛-。表明当田间的褐飞虱种群低于1891.1只·百丛-，拟环纹豹蛛：褐飞虱的比例大于$1 : 9 . 6 7$ 时，拟环纹豹蛛能够完全控制住褐飞虱的发生，否则单纯依靠拟环纹豹蛛这一种天敌很难对褐飞虱达到防控效果。褐飞虱数量与黑肩绿盲蝽数量相关性呈极显著正相关, $R ^ { 2 } { = } 0 . 8 7 7 ~ 3 ~ ( P { = } 0 . 0 1 )$ 。
+
+在全隔离条件下(图5)，褐飞虱数量与拟环纹豹蛛数量相关性呈极显著负相关, $R ^ { 2 } { = } 0 . 8 6 7 ~ 1 ( P { = } 0 . 0 1 ) _ { \circ }$ （204号褐飞虱种群数量随着拟环纹豹蛛的增加而减少，这与半隔离条件下的结果不一致，其主要是因为全隔离条件下，阻止了褐飞虱的迁入及迁出，从而增加了试验区内稻飞虱被捕食的概率，并再次证明了增加拟环纹豹蛛种群数量能有效降低稻飞虱的危害程度。全隔离条件下黑肩绿盲蝽与稻飞虱的关系同半
+
+隔离基本一致。
+
+在全隔离条件下，以稻飞虱 $( Y )$ 为因变量，黑肩绿盲蝽 $( X _ { 1 } )$ 、拟环纹豹蛛 $( X _ { 2 } )$ 为自变量，进行二次多项式回归，可得方程 $Y { = } 3 2 9 . 5 6 { + } 0 . 3 2 X _ { 1 } { - } 5 . 2 3 X _ { 2 } { - }$ $0 . 0 0 0 2 1 { X _ { 1 } } ^ { 2 } - 0 . 0 3 6 { X _ { 2 } } ^ { 2 } + 0 . 0 0 5 ~ 5 X _ { 1 } X _ { 2 }$ ，通过 $F$ 检验可知：$F { = } 1 2 . 5 4$ ， $P { = } 0 . 0 0 1 \ 2 8$ ，达极显著水平，表明黑肩绿盲蝽及拟环纹豹蛛与褐飞虱之间的回归关系极显著。同时对各项回归系数进行显著性检验， $X _ { 1 }$ 、 $X _ { 2 }$ 、 $X _ { 1 } ^ { 2 }$ /${ X _ { 2 } } ^ { 2 }$ / $X _ { 1 } X _ { 2 }$ 的 $P$ 值分别为0.097、0.028、0.047、0.079、0.049，表明 $X _ { 2 }$ 、 $X _ { 1 } ^ { 2 }$ 、 $X _ { 1 } X _ { 2 }$ 是影响褐飞虱种群 $( Y )$ 的主要因子。
+
+# 3 讨论与结论
+
+# 3.1灌溉方式对稻飞虱种群动态的影响
+
+栽培方式是水稻害虫传统防治的重要措施之一。前人研究表明氮肥、密度能显著影响稻飞虱的发生[14-17]。刘芳等[18]认为手栽稻褐飞虱发生最严重,机插稻次之，直播稻最轻。灌溉方式作为优质晚稻的重要栽培措施之一，其对水稻主要害虫种群动态的影响研究已有报道，长期淹水条件下，稻株根系发育不良、茎叶脆弱，有利褐飞虱的繁殖，而晒田能够抑制稻飞虱的繁殖[19]。本研究表明：生物防治下,两种隔离方式下，褐飞虱发生高峰期均出现在生育后期，且长期灌溉处理的稻飞虱数量在任何时期都小于其他灌溉处理，表明长期灌溉条件下不利于稻飞虱的生长繁殖，其原因可能是长期灌溉条件下灌溉深度的频繁回落不利于褐飞虱的产卵及产卵后的孵化，甚至直接将褐飞虱的卵淹没，使其缺氧室息而死，这与罗玉峰等[20]的研究结果不一致，其研究认为节水灌溉较传统淹水灌溉的褐飞虱发生轻，但该研究未注明是采用何种害虫防治方式，倘若采用化学防治，只能说明传统淹水灌溉化学防治后的褐飞虱发生反弹的可能性要高于节水灌溉，并不能完全解释灌溉方式对褐飞虱种群发生的真正影响。生物防治条件下非充分灌溉的褐飞虱较其他灌溉方式发生早，危害程度大，其原因可能是褐飞虱的重要天敌拟环纹豹蛛对水有较强的趋性，非充分灌溉下，拟环纹豹蛛的种群数量少，导致水稻生育前期的褐飞虱基数较其他灌溉处理大；另外，非充分灌溉条件下不存在灌溉水面的回落，不存在褐飞虱卵被淹死的情况，从而致使水稻生育前期非充分灌溉条件下的稻飞虱发生最为严重，其具体的影响机理还有待进一步研究。江守林等[21研究认为年均气温和年降雨量与褐飞虱的发生危害面积及水稻产量损失之间相关不显著。而本研究发现不同年份间的褐飞虱发生情况差异较大，可能主要是因为气温偏低及频繁降雨影响了稻飞虱的迁入，而本地繁殖的稻飞虱在稻田天敌的防控下得以完全控制。因此生产中化学农药的使用应根据当年的气候条件而定，并结合田间调查，在晚稻生育前期褐飞虱种群数量较低时，不使用化学农药，尽量发挥天敌的控害作用，当褐飞虱种群达到经济损害水平时，使用高效低毒农药进行防治，以尽量减少农药用量，避免农药浪费，减少环境污染，这将有利于我国“两减"行动的进一步推进。
+
+![](images/f3b68acaa59db0959ca5eff7350ba2e07c764eac34a635e25b5da56570448689.jpg)  
+图5半隔离(a,b)与全隔离(c,d)条件下褐飞虱数量与天敌拟环纹豹蛛(a,c)和黑育绿盲蝽数量(b,d)的相关分析 Fig.5Corelationanalysisof Nilaparvata lugens (Stal)and major naturalenemies,Cyrtorrhinus livdipennis (Reute)(,c)and Pardosapseudoannulata (Bose.etStr.,l906)(b,d)undersemi-isolatedcondition (a,b)andful-isolatedcondition (c,d)
+
+# 3.2灌溉方式对拟环纹豹蛛及黑肩绿盲蝽种群动态的影响
+
+拟环纹豹蛛及黑肩绿盲蝽是褐飞虱的重要天敌。目前，在施氮量、移栽方式、化学农药施用种类及施用量等方面对拟水狼蛛、食虫沟瘤蛛[Ummeliatainsecticeps (Boes)][18,22-24]和黑肩绿盲蝽[18,25-28]的研究较多，但在灌溉方式对拟环纹豹蛛及黑肩绿盲蝽种群动态的影响还鲜见报道。本研究表明：生物防治下，拟环纹豹蛛种群总体上表现出先增加后降低的趋势，前期种群数量增加主要是因为褐飞虱等害虫种群的增加，而后期降低则可能是因为气温的降低及褐飞虱的外迁所致；长期灌溉有利于晚稻后期拟环纹豹蛛种群的构建，对于后期褐飞虱的防治具有重要作用。非充分灌溉下拟环纹豹蛛的种群数量在水稻整个生育期内均显著低于其他3种灌溉方式，表明非充分灌溉不利于拟环纹豹蛛种群的发展，这可能与拟环纹豹蛛具有较强的趋水性有关，与祝增荣等[29]的研究结果不一致，其认为覆膜旱作与常规淹水对水稻生长后期蜘蛛类的影响无显著性差异。化学农药对黑肩绿盲蝽的影响较大，氯虫苯甲酰胺能够显著降低黑肩绿盲蝽种群的增长，具有显著的致死效应[27.30]。本研究发现长期灌溉下拟环纹豹蛛种群受化学农药的影响最小，非充分灌溉最大，因此在水稻害虫防治过程中，应采用适当的灌溉方式以增加拟环纹豹蛛种群数量，有效发挥稻田天敌的控害作用，减少化学农药的用量。但长期灌溉水资源浪费严重，有必要探索一种分段淹水灌溉模式，既节约水资源，又能有效保护拟环纹豹蛛等田间天敌。本研究发现黑肩绿盲蝽的发生迟于褐飞虱，且随着褐飞虱的增加而增加，说明褐飞虱是黑肩绿盲蝽种群发展的重要食物来源，但这主要为一种跟随效应，只利用黑肩绿盲蝽一种天敌并不能有效控制褐飞虱的大发生。非充分灌溉条件下黑肩绿盲蝽表现为水稻生育前期种群大而后期衰减快的趋势，而长期灌溉条件下则表现为前期种群小而后期发生量大的趋势，这主要是因为非充分灌溉的褐飞虱发生早，而长期灌溉的褐飞虱发生较迟所致。全隔离条件下，10月11日之前黑肩绿盲蝽的表现规律与半隔离基本一致，而在10月11日之后，4种灌溉处理的黑肩绿盲蝽种群数量的下降相对半隔离则比较缓慢这主要是由于全隔离条件下阻止了黑肩绿盲蝽的外迁(未发表数据)。
+
+# 3.3生物防治下主要天敌与褐飞虱的相关性
+
+李剑泉等[31]通过主要天敌食虫沟瘤蛛、拟水狼蛛、粽管巢蛛[Clubiona japonicola(Boes.)]与褐飞虱组成多物种共存系统，并运用二次通用旋转组合设计分析了天敌之间以及天敌与害虫之间的相互作用关系，当食虫沟瘤蛛、拟水狼蛛和粽管巢蛛的密度比例为 $6 . 9 : 4 . 8 : 2 . 5$ 时天敌间相互干扰程度较弱，对害虫的捕食量最高达33.19头，捕食率为 $6 6 . 3 8 \%$ 因而从最优控制角度来看，当害虫密度一定时并非天敌越多越好，应充分考虑到天敌的最佳比例，减少种内种间的干扰，以避免人力物力资源的浪费。王智等[1研究认为当拟水狼蛛与飞虱之比为1：20.2，蜘蛛对飞虱表现出明显的控制力。本研究表明：当田间褐飞虱种群低于1891.1只·百丛-1，蛛虱比大于 $1 : 9 . 6 7$ 时，拟环纹豹蛛能够完全控制褐飞虱的发生，否则单纯依靠拟环纹豹蛛这一种天敌很难对褐飞虱达到较好的防控效果，与王智等[10]的研究结果基本一致；本研究的蛛虱(拟环纹豹蛛：褐飞虱)比偏小，其原因可能是拟水狼蛛的捕食能力强于拟环纹豹蛛。前人通过室内模拟试验，用蝽虱比(黑肩绿盲蝽：褐飞虱)来评价黑肩绿盲蝽控制稻飞虱的作用，认为当蝽虱比达到一定比值，即使不使用化学农药，也可以有效控制褐飞虱的为害，但报道的蝽虱比存在很大差异，如 $1 : 1 ^ { [ 3 2 ] }$ 、 $1 : 1 . 1 ^ { [ 3 3 ] }$ 、1：$8 ^ { [ 3 4 ] }$ （ $1 : 9 . 4 ^ { [ 3 5 ] }$ 、 $2 0 : 1 ^ { [ 3 6 ] }$ 。本研究表明黑肩绿盲蝽的始见期迟于褐飞虱，与褐飞虱间表现出跟随效应，这与齐会会等[33]的研究结果一致。将褐飞虱与黑肩绿盲蝽、拟环纹豹蛛进行二次多项式回归分析可知：拟环纹豹蛛及拟环纹豹蛛与黑肩绿盲蝽互作能够显著影响褐飞虱的种群动态，拟环纹豹蛛对于控制水稻生育前期褐飞虱基数具有重要作用，而拟环纹豹蛛与黑肩绿盲蝽互作主要控制褐飞虱发生之后的种群发展。
+
+综上所述，本文通过研究灌溉方式对优质晚稻褐飞虱及其主要天敌种群动态的影响，初步得出：生物防治下，长期灌溉的稻田天敌对害虫的防控效果最好，非充分灌溉最差；化学防治下，长期灌溉能够有效降低化学农药对拟环纹豹蛛的毒害，但研究尚不够深入，其具体机理还有待进一步研究。同时，生物防治下长期灌溉的水稻产量显著高于其他灌溉方式(未发表数据)，但其对稻米品质是否有负面影响还有待研究。长期灌溉的水资源浪费严重，与节水灌溉理念相冲突，因此有必要探索出一种分段长期灌溉(苗期浅水灌溉，分蘖盛期排水晒田，孕穗期至乳熟期淹水灌溉，乳熟期至成熟期干湿交替)的方法，将传统的害虫防治方法与化学防治有效结合起来，将褐飞虱控制在经济损害水平之下[37-38],达到既节水又能充分发挥天敌的控害作用，以减少化学农药的用量，从而为绿色优质晚稻的发展提供一定科学依据。
+
+# 参考文献References
+
+[1]蔡海林，柏连阳，周小毛，等．褐飞虱抗药性研究进展[J]. 江西农业学报,2007,19(4):58-61 CaiHL,BaiLY,ZhouXM,etal.Research on insecticide resistance of Nilaparvata lugens[J].Acta Agriculturae Jiangxi,   
+2007,19(4): 58-61 [2]余月书，薛珊，王芳，等．农药诱导害虫再猖獗的研究[J]. 昆虫知识,2008,45(1):15-20 Yu Y S,Xue S,Wang F,et al. Pest resurgence induced by pesticides[J]. Chinese Bulletin of Entomology,2008,45(1):   
+15-20 [3]徐得泽，程航，游艾青，等．湖北省高档优质稻产业化研 究[J]．现代农业科技,2010(20):114-115 Xu D Z,Cheng H,You AQ,et al. Industrialization research onhigh quality ricein Hubei Province[J].Modern Agricultural Science and Technology,2010(20):114-115 [4]陈公贤，周长庚，史友华，等．沅江市优质稻产业发展的现 状与对策[J].湖南农业科学,2014(13):70-72 Chen G X，Zhou C G,Shi Y H，et al.Situation and countermeasures of high quality rice industry development in
+
+[5]黄志农，张玉烛，朱国奇，等．稻螟赤眼蜂防控稻纵卷叶螟 和二化螟的双果评价[J].江西农业字报,2012,24(5):37-40 Huang Z N, Zhang Y Z, Zhu G Q,et al. Evaluation of control effect of Trichogramma japonicum against Cnaphalocrocis medinalisand Chilo suppressalis[J]. Acta Agriculturae Jiangxi,2012,24(5): 37-40
+
+[6] 陈洪凡，黄寿山，张玉烛，等．稻螟赤眼蜂对二化螟和台湾 稻螟的控制潜能评价[J]．应用生态学报，2010，21(3): 743-748 Chen HF,Huang S S, Zhang Y Z,et al. Control efficacy of Trichogramma japonicum against Chilo suppressalis and Chilaraea auricilia[J]. Chinese Journalof AppliedEcology, 2010,21(3): 743-748 [7] 刘向东，张孝羲，罗跃进，等．稻田节肢动物群落的多样性 及对褐飞虱的控制功能[J]．昆虫学报,2002,45(3):359-364 Liu X D,Zhang X X,Luo Y J,et al. The diversity of arthropod community and control function to brown planthopper (BPH) in rice field[J].Acta Entomologica Sinica, 2002,45(3): 359-364 [8]周浩东，裴强，闫香慧，等．褐飞虱和白背飞虱与主要天敌 时间生态位研究[J]．西南师范大学学报：自然科学版, 2010,35(5): 80-86 Zhou H D,Pei Q, Yan X H,et al. Temporal niches of brown planthopper and white-backed planthopper and their natural enemies[J]. Journal of Southwest China Normal University: Natural Science Edition,2010,35(5): 80-86   
+[9] 刘向东，张孝羲，郭慧芳，等．稻田蜘蛛群落对稻飞虱的控 制功能作用研究[J]．生态学报,2001,21(1):100-105 Liu X D, Zhang X X,Guo H F,et al. Control function of spider community to planthopper in the rice field[J].Acta Ecologica Sinica,2001,21(1): 100-105   
+[10]王智，颜亨梅，吕志跃，等．稻田蜘蛛优势种对飞虱与叶蝉 控制力的分析[J]．生命科学研究,2001,5(1):76-79 Wang Z, Yan HM,Lü Z Y,et al. Control of paddy spiders on and rice population of rice planthopper leafhopper[J].Life Science Research,2001,5(1): 76-79   
+[11] 李超，陈恺林，刘洋，等．不同氮素水平对晚稻拟环纹豹蛛 及稻飞虱种群动态的影响[J]．湖南农业科学，2014(20): 37-40 Li C,Chen KL,Liu Y,et al.Effects of different nitrogen rate on population dynamics of Pardosa pseudoannulata and planthoppers in late rice[J]. Hunan Agricultural Sciences, 2014(20): 37-40   
+[12]吴光荣，陈琇．黑肩绿盲蝽的生物学特性及其捕食作用的 研究[J]．浙江农业大学学报,1987(2):102-107 Wu G R,Chen X. Studies on the biology of the mirid, cyrtorrhinus lividipennis Reuter (hemiptera: miridae） and its efficacy as a predator[J]. Journal of Zhejiang Agricultural University,1987(2): 102-107   
+[13]陈常铭，肖铁光，胡淑恒．黑肩绿盲蝽Cyrtorrhinus lividipennis Reuter 生物学特性初步观察[J]．湖南农学院学 报,1981(3): 15-20 Chen C M,Xiao T G,Hu S H.Preliminary observation on   
+[14]王玲，黄世文，林贤青，等．两种氮肥用量对超级稻产量性 状和病虫害发生的影响[J]．植物保护,2007,33(3):76-79 Wang L, Huang S W,Lin X Q,et al. Effects of two nitrogen applications on yield components and occurrence of major diseases and insect pests of super hybrid rice[J].Plant Protection,2007,33(3): 76-79   
+[15]张桂芬，鲁传涛，申效诚，等．栽插密度、施氮量对水稻主 要病虫害的综合生态效应[J]．植物保护学报，1995，22(1): 38-44 Zhang G F,Lu C T,Shen X C,et al. The synthesized ecological effect of rice density and nitrogen fertilizer on the occurrence of main rice pests[J].Acta Phytophylacica Sinica, 1995,22(1): 38-44   
+[16]陈罗湘，周尚泉，陈远贵，等．不同施肥处理对水稻病虫害 及天敌发生的影响[J]．作物研究,2006(4):330-334 Chen L X,Zhou S Q,Chen Y G,et al. Effects of different fertilization treatments on diseases and insect pests and occurrence of natural enemies[J]. Crop Research, 2006(4): 330-334   
+[17]黄炳超，肖汉祥，张扬，等．不同施氮量对水稻病虫害发生 的影响[J]．广东农业科学,2006(5):41-43 Huang B C,Xiao H X,Zhang Y,et al. Effect of different nitrogen utilization on the occurrence of rice insect pest and diseases[J]. Guangdong Agricultural Sciences， 2006(5): 41-43   
+[18]刘芳，江涛，赵俊玲，等．水稻不同栽插方式对褐飞虱及其 天敌种群数量的影响[J]．江苏农业科学,2009(6):159-161 Liu F, Jiang T, Zhao JL,et al. Effects of diferent planting patterns on population number of Nilaparvata lugens Stal and its enemies[J]. Jiangsu Agricultural Sciences,2009(6): 159-161   
+[19]黄日宗，沈荣武，吴德荣．不同灌溉处理对晚稻褐飞虱数 量的影响[J]．江西植保,1986(1):5-8 Huang R Z, Shen R W, Wu D R. Effect of different irrigation treatment on brown planthopper number of late rice[J]. Jiangxi Plant Protection,1986(1): 5-8   
+[20]罗玉峰，付浩龙，白凯华，等．节水灌溉对稻田节肢动物群 落结构及动态的影响[J]．灌溉排水学报，2014，33(4/5): 338-342 Luo Y F,Fu HL,Bai K H, et al. Effects of water-saving irrigation on community structure and dynamics of arthropod community in paddy fields[J].Journal of Irrigation and Drainage,2014,33(4/5): 338-342   
+[21] 江守林，全银华，黄珂毓，等．气候变化下山东稻区水稻重 大害虫灾变规律及其防控评价——以郯城为例[J].生物灾 害科学,2014,37(1): 20-25 Jiang S L,Quan Y H,Huang K Y,et al. Assessment on economic-yield loss caused by key pests of rice in paddy fields of Shandong Province -A case in Tancheng County[J]. Biological Disaster Science,2014,37(1): 20-25   
+[22] 林源，周夏芝，毕守东，等．中稻田三种飞虱的捕食性天敌 优势种及农药对天敌的影响[J]．生态学报，2013，33(7): 2189-2199 Lin Y,Zhou X Z,Bi S D,et al. The dominant species of predatory natural enemies of three kinds of planthoppers and impact of pesticides on natural enemies in paddy field[J]. Acta Ecologica Sinica,2013,33(7):2189-2199   
+[23]王智，宋大祥，朱明生．稻田蜘蛛和害虫的生态位研究[J]. 华南农业大学学报,2005,26(2):47-51 Wang Z,Song D X,Zhu MS.Study on the ecological niches of spiders and target pests in rice field[J]. Journal of South China Agricultural University,2005,26(2): 47-51   
+[24]俞明全，林贤文，祝增荣，等．蜘蛛种群高密度是稻飞虱轻 发生的重要原因[J]．科技通报,2011,27(3):371-375 Yu MQ,Lin X W, Zhu ZR,et al.High density of spiders is the important factor resulting in the light occurrence of rice planthoppers[J].Bulletin of Science and Technology,2011, 27(3): 371-375   
+[25]孙定炜，苏建亚，沈晋良，等．杀虫剂对褐飞虱捕食性天敌 黑肩绿盲蝽的安全性评价[J]．中国农业科学，2008，41(7): 1995-2002 Sun D W,Su J Y,Shen JL,et al．Safety evaluation of insecticides to Cyrtohinus lividipennis (Reuter) (Hemiptera: Miridae),a predator of Nilaparvata lugens (Stal) (Homoptera: Delphacidae)[J]. Scientia Agricultura Sinica, 20o8,41(7): 1995-2002   
+[26]孙定炜．杀虫剂对褐飞虱捕食性天敌黑肩绿盲蝽的影响研 究[D]．南京：南京农业大学,2007 SunD W.Effects of insecticides on Cyrtohinus lividipennis (Reuter） (Hemiptera:Miridae)，a predator of Nilaparvata lugens (Stal) (Homoptera: Delphacidae)[D]. Nanjing: Nanjing Agricultural University,2007   
+[27]杨洪，王召，金道超．氯虫苯甲酰胺对黑肩绿盲蝽实验种 群的影响[J].生态学报,2012,32(16):5184-5190 Yang H,Wang Z,Jin D C.Effects of chlorantraniliprole on experimental populations of Cyrtorhinus lividipennis (Reuter) (Hemiptera:Miridae)[J].Acta Ecologica Sinica,20l2,32(16): 5184-5190   
+[28]刘芳，奚本贵，包善微，等．氯虫苯甲酰胺对稻纵卷叶螟的 防效及对稻田有益节肢动物的安全性评价[J]．植物保护, 2009,35(5): 139-144 Liu F,Xi B G, Bao S W,et al. Control effectiveness of chlorantraniliprole on Cnaphalocrocis medinalis and evaluation of its safety to beneficial arthropods in the rice fields[J]. Plant Protection,2009,35(5): 139-144   
+[29]祝增荣，吴良欢，吴国强，等．水稻覆膜旱作对病虫草害发 生程度的影响[J]．植物保护学报,2000,27(4):295-301 Zhu Z R,Wu L H, Wu GQ,et al. The effects of filmed ground and dry growing conditions on the occurrence of rice pests, natural enemies and saprophagous insects[J]. Acta Phytophylacica Sinica,2000,27(4): 295-301   
+[30]王召，杨洪，金道超．氯虫苯甲酰胺对黑肩绿盲蝽捕食功 能的影响[J]．昆虫学报,2012,55(5):618-624 Wang Z,Yang H,Jin D C.Effects of chlorantraniliprole on predatory capacity of Cyrtorhinus lividipennis (Hemiptera: Miridae)[J].Acta Entomologica Sinica,2012,55(5): 618-624   
+[31]李剑泉，赵志模，吴仕源，等．多物种共存系统中3种蜘蛛 对褐飞虱的控制作用[J]．蛛形学报,2001,10(1):35-40 Li J Q,Zhao Z M,Wu S Y,et al. Control function of three spiders for brown plant hopper in coexistent system[J].Acta Arachnologica Sinica,2001,10(1): 35-40   
+[32]傅子碧，卓文禧．黑肩绿盲蝽的特性及其保护与利用[J]. 福建农业科技,1980(3):8-10 Fu Z B,Zhuo W X. The characteristic of Cyrtorhinus lividipennis (Reuter） and its conservation and utilization[J]. Fujian Agricultural Science and Technology,1980(3): 8-10   
+[33]齐会会，张云慧，蒋春先，等．黑肩绿盲蝽与褐飞虱的伴迁 行为研究[J]．中国生物防治学报,2014,30(2):171-177 Qi H H, Zhang Y H, Jiang C X,et al. Accompanying migration by Cyrtorhinus lividipennis (Reuter) with its host insect,Nilaparvata lugens (Stal)[J]. Chinese Journal of Biological Control,2014,30(2): 171-177   
+[34]陈常铭，肖铁光，胡淑恒．黑肩绿盲蝽的初步研究[J]．植 物保护学报,1985(1):69-73 Chen C M,Xiao T G,Hu S H. Preliminary study of Cyrtorrhinus lividipennis Reuter[J].Journal of Plant Protection, 1985(1): 69-73   
+[35]周集中，陈常铭．黑肩绿盲蝽对褐飞虱卵的捕食作用及其 模拟模型的研究[J]．湖南农业科学,1986(6):22-25 Zhou J Z,Chen C M. Study on the predation of Cyrtorrhinus lividipennis Reuter to brown Planthopper egg and its simulation model[J].Hunan Agricultural Sciences,1986(6): 22-25   
+[36] Stapley J H. The brown Planthopper and Cyrtorhinus spp. predators in the Solomon Islands[J].Rice Entomology News Letter,1976,4: 15-16   
+[37] Lou Y G, Zhang G R, Zhang W Q,et al. Biological control of rice insect pests in China[J].Biological Conrtol,2013,67(1): 8-20   
+[38] Cook S M,Khan Z R,Pickett JA.The use of push-pull strategies in integrated pest management[J].Annual Review nf Fntnmnlngv 2007 5271): 375_400

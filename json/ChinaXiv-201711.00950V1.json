@@ -1,0 +1,422 @@
+[
+    {
+        "type": "text",
+        "text": "毒死蜱对棉花根际土细菌群落多样性和结构的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程娟 万婷婷 赵慧慧　王伟 \\*\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(华东理工大学生物反应器工程国家重点实验室上海200237)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要通过室内盆栽试验模拟自然环境条件，采用高效液相色谱(HPLC)和末端限制性片段长度多态性(T-RFLP)技术，研究了土壤使用推荐剂量 $( 5 ~ \\mathrm { m g \\cdot k g ^ { - 1 } } )$ 及推荐剂量的2倍、3倍和4倍 $( 1 0 \\mathrm { m g } \\mathrm { \\cdot k g } ^ { - 1 }$ 、 $1 5 ~ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ ， $2 0 \\mathrm { m g \\cdot k g ^ { - 1 } } ,$ 毒死蜱对棉花根际土壤细菌群落多样性和结构的影响，以不施用毒死蜱的土壤为对照。结果表明， ${ 5 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 } }$ 、$1 0 \\mathrm { m g } \\mathrm { k g } ^ { - 1 }$ 、 $1 5 ~ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ 和 $2 0 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 毒死蜱在土壤中的半衰期分别为10.04d、11.36d、11.55d和12.16d,60 d时基本完全降解。毒死蜱处理60d后，棉花生物量显著降低；毒死蜱浓度越高，棉花生物量越低。无毒死蜱条件下不同取样时间根际细菌多样性无显著差异，毒死蜱处理组前30d细菌多样性均显著降低， $6 0 \\mathrm { d }$ 时毒死蜱处理组细菌多样性恢复到正常水平。研究发现毒死蜱浓度越高对细菌多样性抑制作用越显著，恢复越缓慢。主成分分析结果发现，第10d、30d和60d毒死蜱处理组与对照组细菌群落结构差异显著，其中 $6 0 \\mathrm { ~ d ~ }$ 时 $2 0 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 毒死蜱处理组差异最显著，即使土壤中毒死蜱完全降解，根际细菌群落结构仍不会恢复到正常水平。 $6 0 \\mathrm { ~ d ~ }$ 时，被毒死蜱抑制的细菌有硝化刺菌属(Nitrospina sp.)和Cellulophaga sp.等，被激活的有芽孢杆菌属(Bacillus sp.)和链霉菌属(Streptomyces sp.)等。可见，毒死蜱的引入，重新构建了土壤细菌群落结构，显著影响棉花生长，对棉花根际土壤微生态环境冲击较大，应对其生态安全性予以重视。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词毒死蜱半衰期棉花生物量根际土细菌群落多样性群落结构中图分类号：X172 文献标识码：A 文章编号:1671-3990(2016)05-0652-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Changes in cotton rhizosphere soil bacterial community diversity and structure induced by chlorpyrifos ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHENG Juan,WAN Tingting, ZHAO Huihui, WANGWei\\*\\* (StateKeyLaboratoryofBioreactorEngineering,EastChinaUniversityofScienceandTechnologyShanghai 2O0237,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractIndoor potexperimentsimulating thenatural environment conditions along with high eficiency liquid chromatography(HPLC) method and terminalrestriction fragment length polymorphism (T-RFLP)techniques was conducted to investigatetheeffectofchlorpyrifosonbacterialcommunitydiversityandstructureofcotonrhizospheresoil.Chlorpyrifos doses in the experiment were ${ 5 \\ \\mathrm { m g \\cdot k g ^ { - 1 } } }$ (recommended dose), $1 0 \\ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ ， $1 5 ~ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ and $2 0 ~ \\mathrm { m g ^ { \\cdot } k g ^ { - 1 } }$ ，with no chlorpyrifos additionas the control treatment.Diversity indices (including Shannon-Weiner indexand Simpson index）were used to evaluate bacterial community diversity.Principal componentanalysis (PCA)was conducted to determinechanges in bacterial community structure.Then the MiCA web tool was used for taxonomic interpretation ofTRFs.Theresults suggested that the degradation half-life of chlorpyrifos doses of ${ 5 \\mathrm { \\ m g } { \\cdot } } \\mathrm { k g } ^ { - 1 }$ $1 0 \\ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ $1 5 ~ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ and $2 0 \\mathrm { m g } \\mathrm { \\cdot k g } ^ { - 1 }$ were $1 0 . 0 4 \\mathrm { d } , 1 1 . 3 6 \\mathrm { d } , 1 1 . 5 5 \\mathrm { d }$ and $1 2 . 1 6 \\mathrm { ~ d ~ }$ ，respectively. After 60 days of treatment， chlorpyrifos was almost completely degraded.At the end of the experiment (60 days after treatment)，coton biomassignificantly decreased with increase of chlorpyrifos dose.Plantroot growth was alsosignificantlyinhibitedbychlorpyrifos.Te soil rhizosphere bacterialcommunitydiversityunder chlorpyrifos treatments decreased significantly after $1 0 \\mathrm { ~ d ~ }$ and $3 0 \\mathrm { ~ d ~ }$ of treatment compared with that of control. There was no significant difference between the $1 0 \\mathrm { ~ d ~ }$ and $3 0 \\mathrm { ~ d ~ }$ treatments in terms of diversity indexes under all chlorpyrifos treatments. Soil rhizosphere bacterialcommunitydiversityofchlorpyrifosapplication treatments almostrecoveredtothenormallevelafter60 days.With theconcentrationofchlorpyrifos increasing,bacterialcommunity diversity decreased and recoverytime became longer.The bacterial community structurewas significantlydiferent betweenchlorpyrifostreatmentsandthe control, respectively,at 10 d, 30 d and $6 0 \\textup { d }$ after treatment, even though chlorpyrifos was almost completely degraded at 60 days. The difference between chlorpyrifos treatments and the control was increased at $6 0 \\textup { d }$ after treatment, and $2 0 \\ \\mathrm { m g \\cdot k g ^ { - 1 } }$ chlorpyrifos treatment had the most significant difference. Also $6 0 \\mathrm { ~ d ~ }$ after treatment, Nitrospina sp. and Cellulophaga sp.were inhibited whereasBacilus sp.and Streptomyces sp.enhanced bythe presence of chlorpyrifos.This showed that rhizosphere soil bacterial community was restructured after treatment with chlorpyrifos.In conclusion,the study presented acomprehensive evaluationoftheeffectsofchlorpyrifosoncotonrhizosphere soilsbacterialcommunitydiversityand structure.Itsuggested thatrecommendedorhigher doses of chlorpyrifos resulted incottonrhizosphere soil bacterialcommunityrestructuring with a significantly adverse efect on coton growth andsoil bacterial communities，which was need to pay close attention to ecological security of chlorpyrifos using. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsChlorpyrifos; Half-life; Cottonbiomass;Rhizosphere soilbacterial; Communitydiversity;Communitystructure ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "毒死蜱是一种广谱含氯有机磷杀虫剂、杀线虫剂、杀螨剂，用于棉花、水稻等农作物以及草坪和观赏植物病虫害的防治，自1965年问世就在世界各地被广泛使用，因其价格便宜、购买方便，其销量高于其他种类农药[1-3]。据中国农药市场 2012 年报告显示，全球毒死蜱需求量以每年 $10 \\%$ 的比率增长[4]。2015年中国毒死蜱产量每月达 $4 \\ 0 0 0 \\ \\mathrm { t } .$ ，预计会继续增加。毒死蜱能吸附在土壤颗粒、有机质、黏土矿物质上，移动性差，药效持久。毒死蜱的半衰期与其使用量、土壤类型、土壤微生物及气候条件等相关，短至几周，长可达4年之久[5。长期反复使用毒死蜱会使其大量积累，可能威胁到土壤微生物群落与功能的稳定性、农业的可持续发展及人类的健康[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物群落是农田生态系统的重要成员，参与土壤矿质营养转化，在土壤营养物质循环及维持作物正常生长中起着重要作用，是维持农田土壤生态系统稳定不可或缺的重要角色之一，是监测土壤质量及其可持续性发展的可靠指标[6-7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，国内外对毒死蜱的研究主要集中在毒死蜱对土壤微生物生物量、呼吸、酶活、矿物质循环的影响，以及毒死蜱降解菌株的筛选等方面。如研究指出 $1 0 { \\sim } 3 0 0 \\ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ 毒死蜱显著抑制土壤中好养固氮细菌、总细菌量以及氮固定[8]。Shan 等[9研究表明 $2 { \\sim } 1 0 \\ \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } }$ 毒死蜱在短期内会显著抑制土壤中总细菌量以及酶活性，毒死蜱浓度越高抑制作用越强，抑制时间也越久。毒死蜱农田推荐剂量$( 5 \\ \\mathrm { \\ m g \\cdot k g ^ { - 1 } } ) \\ ,$ 显著抑制壤质砂土脱氢酶活性以及 $\\mathrm { F e } ^ { 3 + }$ 还原[10]。 $4 { \\sim } 1 2 \\ \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } }$ 毒死蜱两周内抑制土壤微生物群落多样性[1]。Alcaligenes sp.JAS1[12]、Bacilluspumilus strain C2A1[13]、Acinetobacter calcoaceticus[14]以及Streptomycessp.[15]等均具有降解毒死蜱的能力。以上都是针对毒死蜱对未种植植物的非根际土壤的研究，自前为止，鲜有毒死蜱对作物根际土微生物群落影响方面的研究。在国内毒死蜱主要用于棉花等重要农作物的虫害防治，但自前针对毒死蜱对棉花根际土壤微生物群落多样性和结构的影响方面研究还少有报道。因此，开展毒死蜱使用后对农田作物根际土壤微生物群落多样性和结构的研究具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，用于分析环境微生物群落结构和多样性的研究方法主要有磷脂脂肪酸技术(PLFA)、末端限制性片段长度多态性(T-RFLP)、核糖体间隔基因分析(RISA)、变性/温度梯度凝胶电泳(DGGE/TGGE)、单链构象多态性(SSCP)、扩增核糖体基因限制性分析(ARDRA)等。其中T-RFLP具有快速、高重复性以及可在RDP数据库比对等优点而被广泛应用于微生物群落结构分析[16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究通过室内盆栽试验模拟自然环境条件，采用高效液相色谱(HPLC)和 T-RFLP 技术，分析不同剂量毒死蜱使用后对棉花根际土壤细菌多样性和结构的影响，以期揭示毒死蜱对棉花根际土壤微生物生态环境是否存在危害，为毒死蜱的使用安全性评价提供技术支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试棉花品种为'冀棉 $1 6 9 ^ { \\circ }$ ；毒死蜱(江苏苏州佳辉化工有限公司)剂型为乳油，有效成分含量 $4 8 0 \\ \\mathrm { g { \\cdot } L ^ { - 1 } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 试验土壤采集与预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验土壤采自上海市农业科学院试验田 $( 1 2 1 . 4 8 ^ { \\prime } \\mathrm { E }$ $3 0 . 9 5 ^ { \\prime } \\mathrm { N } )$ ，为近10年内未使用农药的土壤。5点采",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "样，弃除距地表 $1 0 { \\sim } 1 5 ~ \\mathrm { c m }$ 的表层土，挖取距地表 $1 5 \\sim$ $3 0 ~ \\mathrm { c m }$ 的土壤。室温风干，搅拌均匀，过 $2 ~ \\mathrm { m m }$ 筛。分装于PVC 花盆(口径 $1 7 \\ \\mathrm { c m }$ ，高 $1 3 . 5 \\mathrm { c m }$ 中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 盆栽试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "棉花种子表面消毒： $70 \\%$ 的乙醇连续30s冲洗两次，再用灭菌蒸馏水冲洗。对棉花种子进行催芽后[17],每盆播种10颗。置于光照培养箱内，白天 $2 3 ^ { \\circ } \\mathrm { C }$ ，晚间 $1 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，每天光照 $1 2 \\ : \\mathrm { h } _ { \\circ }$ 浇灌无菌水，使土壤含水量维持在 $60 \\%$ 左右。待幼苗长出两片子叶后，移除多余幼苗，每盆留两棵生物量相仿的幼苗。盆栽试验共设置4个毒死蜱浓度处理组和不加毒死蜱的对照组。4个处理组土壤中毒死蜱的含量分别为 ${ 5 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 } }$ (推荐剂量)、 $1 0 \\mathrm { m g } \\mathrm { \\cdot k g } ^ { - 1 }$ 、 $1 5 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 和 $2 0 \\mathrm { m g ^ { \\cdot } k g ^ { - 1 } }$ 。每组设3个重复，共45盆。试验共持续 $6 0 \\ \\mathrm { d } _ { \\circ }$ 采集第 $\\mathrm { ~ 0 ~ d ~ } _ { \\setminus }$ （20$1 0 \\mathrm { ~ d ~ } , \\mathrm { ~ } 3 0 \\mathrm { ~ d ~ }$ 和60d时的土样用于后续的土壤细菌群落多样性和结构分析及毒死蜱残留量检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 棉花生物量测量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验结束后(处理 $6 0 \\mathrm { d }$ ，每个处理组收获3株棉花，测量表征植物生长状况的生物量，包括株高、茎鲜/干重、根鲜/干重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4土壤中毒死蜱残留量检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究表明高效液相色谱技术(HPLC)能精确地检测土壤等样本中毒死蜱的含量[11,18]。将土样自然风干 $^ { \\mathrm { ~ 1 ~ h ~ } }$ ，称取 $\\boldsymbol { 1 0 . 0 \\ \\mathrm { g } }$ 置于 $2 5 0 ~ \\mathrm { m L }$ 三角瓶中，加入 $2 0 ~ \\mathrm { m L }$ 乙腈，摇床上 $1 2 0 ~ \\mathrm { r } \\cdot \\mathrm { m i n } ^ { - 1 }$ 震荡 $3 0 \\mathrm { m i n } ^ { [ 1 2 ] }$ 。真空抽滤,滤液转移至 $2 5 0 ~ \\mathrm { m L }$ 烧瓶，浓缩至近干，乙腈定容，过 $0 . 2 2 \\ \\mathrm { \\mu m }$ 有机滤膜[19]。HPLC检测条件：Agilent1100 高效液相色谱仪(HPLC)，紫外检测器,COSMOSIL 5C18-MS-II反向色谱柱 $( 5 ~ { \\mu \\mathrm { m } } ~ 4 . 6 ~ \\mathrm { m m }$ I.I $) . { \\times } 2 5 0 ~ \\mathrm { m m ^ { * } }$ )，流动相为乙睛：水 ${ : = } 7 0 : 3 0 ( \\nu / \\nu )$ ，流速 $1 . 0 \\ \\mathrm { \\ m L { \\cdot } m i n ^ { - 1 } }$ ，检测波长 $2 3 0 \\ \\mathrm { n m }$ ，柱温 $2 5 \\ \\mathrm { ~ \\textdegree C }$ ，进样量 $2 0 \\mu \\mathrm { L } _ { \\circ }$ 毒死蜱的出峰时间为 $1 8 . 3 ~ \\mathrm { m i n } .$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 基于T-RFLP的细菌群落分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用PowerSoil DNA Isolation Kit (MobioLaboratories,Carlsbad,CA,USA)试剂盒提取根际士壤总DNA。选用细菌特有的通用引物27f( $5 ^ { \\prime }$ -AGAGTT TGA TCC TGG CTC AG-3')和1492r(5'-GGTTACCTTGTTACGACTT-3')扩增细菌16SrRNA基因，上游引物27f用6-FAM(6-carboxyfluorescein)标记5'末端[20]。采用Touch-Down PCR扩增条件进行扩增[21]。限制性内切酶HaeIII和HhaI酶切 $| 3 7 \\ ^ { \\circ } \\mathrm { C } , 3 \\ \\mathrm { h } ^ { [ 2 2 ] } ,$ 0酶切产物T-RFLP检测得到图谱。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6 T-RFLP数据处理与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "T-RFLP图谱用Genemapper进行分析。小于50 bp和大于 $5 0 0 ~ \\mathrm { b p }$ 的限制性末端片段(TRF)舍去。TRF在3次重复中单独存在的舍弃，取有重复的TRF(2/3或3/3)用于后续分析。相对含量小于 $1 \\%$ 的TRFs舍弃,相对含量小于 $1 \\%$ 的TRFs不会对群落特性产生明显的影响[23]。使用Past 2.02软件[24]，进行主成分分析(PCA)以及多样性指数分析微生物群落多样性和结构[25]。将TRFs在MiCA3网站(http://www.mica.ibest.uidaho.edu/)上选用RDP数据库进行比对[26]，得出微生物种属变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤中毒死蜱残留量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空白样品的HPLC图谱如图1所示，空白样品中未检测出毒死蜱，可见采集的土壤适合于本试验研究。土壤中毒死蜱的降解符合一级降解动力学方程$C _ { t } { = } C _ { 0 } \\mathsf { e } ^ { - k t [ 1 2 ] }$ 。 $5 ~ \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 、 $1 0 \\ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ 、 $1 5 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 和$2 0 \\ \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } }$ 处理土壤中毒死蜱的降解动力学方程分别为 $C _ { t } { = } 5 \\mathrm { e } ^ { - 0 . 0 6 9 t }$ 、 $C _ { t } { = } 2 0 \\mathrm { e } ^ { - 0 . 0 6 1 t }$ 、 $C _ { t } { = } 1 5 \\mathrm { e } ^ { - 0 . 0 6 \\ i }$ 和 $\\vert C _ { t } = 1 0 \\mathrm { e } ^ { - 0 . 0 5 7 t }$ 半衰期分别为10.04d、11.36d、11.55d和12.16d，第60d时土壤中的残留量分别为 $1 0 . 0 8 \\mathrm { m g \\cdot k g ^ { - 1 } }$ 、 $0 . 3 3 \\mathrm { m g ^ { \\cdot } k g ^ { - 1 } }$ （$0 . 4 1 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 和 $0 . 5 1 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 。毒死蜱在土壤中的降解曲线如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/369d66a7a70518a54a9937c28ec27221463cbe268c53d1fc59d59c7f9a327c85.jpg",
+        "img_caption": [
+            "图1空白土样高效液相色谱图(HPLC) Fig.1High efficiency liquid chromatography (HPLC) chromatogram of blank soil "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/95763036ca6ff0f30df9e49034edd984083c282aba952a2c8845a4ea9bbc76c3.jpg",
+        "img_caption": [
+            "图2土壤中不同使用量毒死蜱的降解曲线Fig.2Degradation curves of chlorpyrifos in soil underdifferent chlorpyrifos concentrations application"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2毒死蜱对棉花生长的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4组毒死蜱处理组处理60d时，棉花地上部分和地下部分生物量都显著降低(表1)。其中, $5 ~ \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ （204号和 $1 0 ~ \\mathrm { \\ m g { \\cdot k g } ^ { - 1 } }$ 毒死蜱处理组相比较，棉花生物量无显著差异。 $1 5 ~ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ 和 $2 0 \\mathrm { m g } \\mathrm { \\cdot k g } ^ { - 1 }$ 毒死蜱处理组间相比较，除株高差异显著外，其他器官生物量无显著差异。毒死蜱浓度越高，对棉花的生长抑制作用越显著，棉花生物量越低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/947103c065bc90d64534e451e75d44bead45b5c9c72a7318602abb6b99e9d76f.jpg",
+        "table_caption": [
+            "表1第60d不同浓度毒死蜱处理下棉花生长状况 Table 1 Cotton biomass in different chlorpyrifos'concentration treatments after 60 days "
+        ],
+        "table_footnote": [
+            "同列不同小写字母表示处理间差异显著 $( P { < } 0 . 0 5 )$ 。Different lowercases in a column indicate significant difference among treatments at 0.0: level. "
+        ],
+        "table_body": "<html><body><table><tr><td>毒死蜱用量 Chlorpyrifos concentration (mg·kg-1)</td><td>株高 Stem length (cm)</td><td>茎鲜重 Stem fresh weight (g·plant-)</td><td>根鲜重 Root fresh weight (g:plant-1)</td><td>茎干重 Stem dry weight (g·plant-1)</td><td>根干重 Root dry weight (g·plant-)</td></tr><tr><td>0</td><td>26.01±1.47a</td><td>5.16±0.38a</td><td>0.32±0.054a</td><td>1.00±0.094a</td><td>0.094±0.018a</td></tr><tr><td>5</td><td>21.57±1.10b</td><td>3.28±0.26b</td><td>0.23±0.052ab</td><td>0.61±0.094b</td><td>0.060±0.028ab</td></tr><tr><td>10</td><td>19.74±1.32bc</td><td>2.83±0.30bc</td><td>0.13±0.045cb</td><td>0.47±0.063bc</td><td>0.042±0.010cb</td></tr><tr><td>15</td><td>15.86±0.85cd</td><td>1.59±0.13d</td><td>0.07±0.014cd</td><td>0.26±0.028cd</td><td>0.026±0.008bcd</td></tr><tr><td>20</td><td>10.78±1.25e</td><td>0.79±0.06d</td><td>0.04±0.005cd</td><td>0.15±0.002d</td><td>0.014±0.002cd</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 毒死蜱对棉花根际土细菌群落多样性的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "酶切图谱和多样性指数结果均显示，HhaI酶切样品细菌多样性略高于HaeII酶切，故后续分析采用HhaI酶切结果。以HhaI酶切样品细菌群落多样性指数见表2。棉花不同生长期其根际细菌群落多样",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/930c678b5aa150a314dc12b93b4eae382ff0256caf839e74b02a261f39aac6b8.jpg",
+        "table_caption": [
+            "表2不同浓度毒死蜱处理不同时间棉花根际土细菌群落多样性指数Table 2Diversity indexes of cotton rhizosphere soil bacterialcommunity in different chlorpyrifos'concentration treatmentsafter10,30 and 60 days"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>毒死蜱用量 Chloentyrifos (mg:kg-1)</td><td>处理时间 Treatment time (d)</td><td>Shannon-Weiner index 香农-威纳指数(H)</td><td>： Simpson index 辛普森指数(D)</td></tr><tr><td>对照 Control</td><td>0</td><td>2.81±0.003a</td><td>0.92±0.000 3</td></tr><tr><td rowspan=\"6\">5</td><td>10</td><td>2.56±0.085bA</td><td>0.90±0.012 0</td></tr><tr><td>30</td><td>2.61±0.026bA</td><td>0.90±0.002 0</td></tr><tr><td>60</td><td>2.54±0.044bA</td><td>0.88±0.002 4</td></tr><tr><td>10</td><td>2.05±0.019bB</td><td>0.78±0.002 6</td></tr><tr><td>30</td><td>2.20±0.057bB</td><td>0.81±0.009 6</td></tr><tr><td>60</td><td>2.62±0.088aA</td><td>0.90±0.007 3</td></tr><tr><td rowspan=\"3\">10</td><td>10</td><td>2.04±0.053bB</td><td>0.76±0.010 0</td></tr><tr><td>30</td><td>2.19±0.110bB</td><td>0.81±0.036 0</td></tr><tr><td>60</td><td>2.68±0.029aA</td><td>0.92±0.001 0</td></tr><tr><td rowspan=\"2\">15</td><td>10</td><td>2.01±0.029bB</td><td>0.78±0.012 0</td></tr><tr><td>30</td><td>2.11±0.023bB</td><td>0.82±0.002 4</td></tr><tr><td rowspan=\"3\">20</td><td>60</td><td>2.60±0.089aA</td><td>0.89±0.007 4</td></tr><tr><td>10</td><td>1.97±0.051bB</td><td>0.79±0.016 0</td></tr><tr><td>30</td><td>2.05±0.040bB</td><td>0.75±0.016 0</td></tr><tr><td></td><td>60</td><td>2.40±0.100cA</td><td>0.88±0.008 6</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同列不同小写字母表示同一浓度毒死蜱处理不同时间差异显著$( P { < } 0 . 0 5 )$ ，同列不同大写字母表示同一时间不同毒死蜱处理差异显著 $( P { < } 0 . 0 5 )$ 。Different lowercases in a column indicate significantdifferences at O.05 level among different sampling times of the sameconcentration of chlorpyrifos.Different capital letters indicatesignificant differences at O.O5 level among different concentrations ofchlorpyrifos at the same sampling time.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "性无显著差异。所有浓度毒死蜱处理组与对照组相比，第10d和 $3 0 \\mathrm { d }$ 时细菌群落多样性指数均显著低于对照组，60d时与对照组无显著差异；4组毒死蜱处理组内不同时间相比，细菌多样性有相似的变化规律，第 $1 0 \\mathrm { d }$ 与30d之间相比细菌群落多样性无显著性差异，第 $1 0 \\mathrm { d }$ 与 $6 0 \\mathrm { ~ d ~ }$ 相比细菌群落多样性差异显著，第 $3 0 \\mathrm { d }$ 与60d相比细菌群落多样性同样差异显著，表现为前期多样性指数更低。相同处理时间，毒死蜱浓度越高，细菌群落多样性指数越低。可见，毒死蜱浓度越高，对根际微生物群落多样性抑制作用越强，多样性指数恢复时间也越久。60d时，所有毒死蜱处理组根际土壤细菌群落多样性全部恢复到正常水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4毒死蜱对棉花根际土细菌群落结构的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了提高主成分分析结果精确率，仅以3次重复中均出现的TRFs用于PCA分析。以HhaI酶切样品细菌群落PCA结果如图3所示，成分1和成分2分别占 $67 . 5 \\%$ 和 $1 5 . 0 \\%$ ，二者之和达 $80 \\%$ 以上。根据距离远近，可以将获得的16组样品数据归为3大簇。对照组第 $0 \\mathrm { d } , 1 0 \\mathrm { d } , 3 0 \\mathrm { d }$ 和60d归为一大簇，所有浓度毒死蜱处理组中第10d和30d归为一大簇，所有浓度毒死蜱处理组第 $6 0 \\mathrm { d }$ 归为一大簇。结果表明，毒死蜱和植物各自对根际土壤细菌群落结构演变均具有不同程度的选择压力，所有浓度毒死蜱在第 $1 0 \\mathrm { d }$ 已经突显出对细菌群落结构组成的选择压力，植物(对照组)在第30d突显出对细菌群落结构组成的选择压力，毒死蜱的存在对根际细菌群落组成的选择压力更为突出。第10d、30d、60d时，所有浓度毒死蜱处理组距离对照组均较远。第60d时，",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b50104103e1ba3e9472c2935875a35bbf254fee76810e002b9dd8ab6a21f97de.jpg",
+        "img_caption": [
+            "图3不同浓度毒死蜱处理棉花根际土壤细菌群落主成分分析",
+            "Fig.3Principal component analysis of cotton rhizosphere soil bacterial communities under different chlorpyrifos' concentrations treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A表示无毒死蜱对照组,B\\~E分别表示 ${ 5 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 } }$ / $1 0 ~ \\mathrm { m g ^ { \\cdot } k g ^ { - 1 } }$ /$1 5 ~ \\mathrm { m g ^ { \\cdot } k g ^ { - 1 } }$ 、 $2 0 \\ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ 毒死蜱处理。0表示试验处理前，1、3、6分别表示处理后 $1 0 \\mathrm { ~ d } , 3 0 \\mathrm { ~ d } , 6 0 \\mathrm { ~ d } _ { \\circ }$ In the figure,A represents controlwithout any chlorpyrifos.B-E represent ${ 5 \\ \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 } }$ ， $1 0 ~ \\mathrm { m g ^ { \\cdot } k g ^ { - 1 } }$ ，15$\\mathrm { m g \\cdot k g ^ { - 1 } }$ and $2 0 \\ \\mathrm { \\ m g { \\cdot k g } ^ { - 1 } }$ chlorpyrifos treatments,respectively.0represents the sample before treatment.1,3 and 6 represent samplesat10 days,3O days and 6O daysafter treatment.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "毒死蜱处理组与对照组的距离由近到远的顺序为${ 5 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 } }$ 、 $1 0 \\ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ 、 $1 5 \\mathrm { m g ^ { \\cdot } k g ^ { - 1 } }$ 、 $2 0 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 。可见，毒死蜱浓度越高，对根际细菌群落选择压力越大；随着时间的推移，无恢复到正常水平趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 TRFs物种分类",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了提高物种分类结果的精确率及简化结果，仅以3次重复中均出现的TRFs用于物种分类分析。以HhaI酶切样品获得的T-RFLP图谱，60d时对照组和${ 5 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 } }$ 、 $1 0 \\ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ 、 $1 5 \\mathrm { m g } \\mathrm { \\cdot k g } ^ { - 1 }$ ！ $2 0 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 浓度毒死蜱处理组共获得39种TRF。不同长度TRF的分布及相对含量如表3所示。受毒死蜱抑制的TRFs主要有68、89、94、98、175、350等，被毒死蜱激活的TRFs主要有79、91、93、215、366等。将受毒死蜱抑制和激活的TRFs在MiCA3网站上选用RDP数据库比对，得到的属水平细菌如表4所示。毒死蜱处理60d时，被抑制的细菌有硝化刺菌属(Nitrospinasp.)、噬纤维素菌属(Cellulophagasp.)等，被激活的有芽孢杆菌属(Bacillus sp.)、链霉菌属(Streptomyces sp.)、Magnetococcussp.等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "国内棉花等农作物虫害防治中，毒死蜱是使用最广泛的有机磷农药。根际土细菌群落在农田生态系统稳定及营养物质循环中起着重要作用。研究毒死蜱对棉花农田生态系统中土壤微生物种群多样性和结构的影响，对农田生态系统的可持续发展意义重大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验结果表明，1\\~4倍毒死蜱推荐使用量在土壤中的半衰期分别为10.04d、11.36d、11.55d和12.16d,60d时土壤中毒死蜱近乎完全降解。1\\~4倍毒死蜱推荐使用量前30d显著抑制根际土细菌群落多样性，60d时恢复到正常水平；毒死蜱浓度越高，细菌多样性恢复越慢。同样，有研究表明 $4 { \\sim } 1 2 \\ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ 毒死蜱两周内显著抑制土壤微生物群落多样性，且浓度越高抑制程度越强烈，恢复时间越长，后期微生物群落多样性恢复到对照组水平[11]。Pandey等[27]研究也发现毒死蜱对土壤微生物群落多样性有短暂抑制作用，后期恢复到对照组水平。这可能是因为前期土壤中残留的毒死蜱抑制细菌群落多样性，当土壤中毒死蜱残留量逐渐减少，细菌群落多样性也逐渐恢复。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第60d时，1\\~4倍毒死蜱推荐使用量处理组根际细菌群落结构与自然条件下差异显著；且毒死蜱浓度越高，细菌群落结构差异越显著，4倍毒死蜱推荐使用量处理组细菌群落结构差异最显著。自然条件下种植棉花后，不同采样时间其根际细菌群落结构间存在较小差异。Bulgarelli等[28]研究同样发现在根际土壤细菌群落形成过程中，植物对其存在较小程度的影响力。毒死蜱处理组，在60d时土壤中毒死蜱近乎完全降解，而其根际土细菌群落结构与自然条件下仍存在显著差异。TRFs物种分析发现，毒死蜱处理60d时，部分细菌相对含量显著改变。可见，毒死蜱的引入可导致土壤细菌群落结构重建。同样，Azarbad等[29]研究表明土壤长期遭受重金属污染，会显著影响细菌群落结构，但对细菌多样性无影响。Newman等[30]指出化学农药显著增加根际变形菌纲(Proteobacteria)相对含量，显著减少根际酸杆菌门(Acidobacteria)相对含量。这可能是因为土壤细菌群落具有应答外界环境变化的功能，而通过改变自身细菌群落结构来适应环境变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究发现，微生物农药如Pseudomonasfluorescens2P24、Pseudomonas fluorescens CPF10[31]、 Trichodermaatroviride SC1[32]以及苏云金芽孢杆菌菌剂[33]等对根际土壤微生物群落的影响仅是暂时的，后期能恢复到正常水平。与微生物农药相比，毒死蜱对根际土壤微生态环境产生的冲击较大。可能是因为毒死蜱的施入改变了土壤的结构或理化性质。Delmont等[34]认为土壤微生物群落结构是随着土壤环境物理化学的变化而变化的。Bulgarelli等[28同样认为根际与非根际土微生物群落结构主要是由土壤的结构主导的。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f66bc0f21835be0853003fe6d6acc6d33719ac5b8181f1976a8b13fe2397a759.jpg",
+        "table_caption": [
+            "表3处理60d时对照和毒死蜱处理棉花根际土细菌TRFs种类及相对含量变化 Table 3Changes of species and relative abundance of TRFs of cotton rhizosphere soil bacteria after $6 0 \\textup { d }$ treatment of different concentrations of chlorpyrifos "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">TRF</td><td colspan=\"5\">T 相对含量Relative abundance (%)</td></tr><tr><td rowspan=\"2\">对照组</td><td colspan=\"4\">毒死蜱用量浓度 Chlorpyrifos concentration (mg·kg-1)</td></tr><tr><td>Control</td><td>5</td><td>10</td><td>15</td><td>20</td></tr><tr><td>58</td><td>2.92</td><td>2.16</td><td>2.78</td><td>2.25</td><td>2.06</td></tr><tr><td>59</td><td>3.12</td><td>2.53</td><td>1.85</td><td>4.53</td><td>1.07</td></tr><tr><td>63</td><td>4.27</td><td>1.89</td><td>3.01</td><td>1.81</td><td>1.35</td></tr><tr><td>68</td><td>1.73</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>77</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.98</td></tr><tr><td>79</td><td>16.28</td><td>24.04</td><td>14.06</td><td>12.16</td><td>13.03</td></tr><tr><td>80</td><td>1.24</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>81</td><td>2.69</td><td>0.00</td><td>1.14</td><td>0.00</td><td>0.00</td></tr><tr><td>89</td><td>3.66</td><td>15.89</td><td>11.46</td><td>18.88</td><td>21.65</td></tr><tr><td>91</td><td>0.00</td><td>4.62</td><td>8.34</td><td>8.11</td><td>15.72</td></tr><tr><td>92</td><td>4.04</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>93</td><td>1.61</td><td>0.00</td><td>6.84</td><td>0.00</td><td>6.63</td></tr><tr><td>94</td><td>0.00</td><td>4.69</td><td>0.00</td><td>3.79</td><td>0.00</td></tr><tr><td>95</td><td>0.00</td><td>0.81</td><td>3.05</td><td>1.25</td><td>0.44</td></tr><tr><td>97</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.07</td><td>0.88</td></tr><tr><td>98</td><td>1.66</td><td>1.23</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>152</td><td>0.86</td><td>0.00</td><td>0.00</td><td>0.83</td><td>0.00</td></tr><tr><td>175</td><td>0.00</td><td>1.41</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>204</td><td>0.00</td><td>0.00</td><td>0.98</td><td>0.00</td><td>0.00</td></tr><tr><td>206</td><td>20.81</td><td>8.44</td><td>10.67</td><td>8.77</td><td>7.38</td></tr><tr><td>211</td><td>8.56</td><td>8.45</td><td>12.20</td><td>8.93</td><td>7.87</td></tr><tr><td>220</td><td>2.54</td><td>1.92</td><td>1.64</td><td>2.54</td><td>1.08</td></tr><tr><td>226</td><td>3.97</td><td>7.08</td><td>8.70</td><td>11.39</td><td>6.14</td></tr><tr><td>234</td><td>8.84</td><td>6.34</td><td>4.47</td><td>3.53</td><td>5.68</td></tr><tr><td>292</td><td>1.10</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>340</td><td>0.00</td><td>1.11</td><td>1.31</td><td>1.46</td><td>1.19</td></tr><tr><td>350</td><td>0.00</td><td>1.18</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>362</td><td>0.00</td><td>0.00</td><td>0.78</td><td>1.98</td><td>0.00</td></tr><tr><td>365</td><td>1.80</td><td>1.07</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>366</td><td>3.31</td><td>0.00</td><td>2.47</td><td>1.66</td><td>1.35</td></tr><tr><td>371</td><td>2.06</td><td>1.60</td><td>2.34</td><td>1.51</td><td>2.02</td></tr><tr><td>376</td><td>2.08</td><td>0.00</td><td>0.00</td><td>0.92</td><td>0.00</td></tr><tr><td>384</td><td>0.00</td><td>0.87</td><td>1.19</td><td>1.59</td><td>1.03</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用1\\~4倍毒死蜱推荐使用量处理土壤后，棉花根部生长受到显著抑制，整体生长速度显著降低;且毒死蜱浓度越高，棉花生长速度越缓慢，生长周期越长。有研究表明毒死蜱可在各种陆生和水生植物体内积累，其毒性程度与浓度呈正相关，如毒死蜱对地中海白松(Pinus halepensis)、黑麦草(Loliumperenne)、各种蔬菜、Cenchrussetigerus、梗花狼尾草(Pennisetum pedicellatum)、白芥(Sinapis alba)、玉米(Zeamays)和大豆(Glycinemax)等幼苗生长均具有不同程度的抑制作用[35-40]。Dawson等[41]研究表明毒死蜱可直接通过抑制植物根部生长而导致植株生长缓慢。本研究结果表明毒死蜱可直接抑制植物根部生长，及通过影响微生物群落间接作用于植物生长。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "T-RFLP分子技术已经被广泛应用于分析各种环境样品，具有快速、高重复性以及可在RDP数据库比对等优点。而T-RFLP是基于PCR扩增的分子方法，因而土壤DNA中仅优势菌被扩增；只能在",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8cedec6b27cb5148a81d2318cdfcad47307638161ef0b1c649fb8e079909b0d8.jpg",
+        "table_caption": [
+            "表4处理60d时棉花根际土细菌受毒死蜱激活和抑制菌株 Table 4Induced and inhibited bacterial genus in cotton rhizosphere soil after $6 0 \\textup { d }$ treatmentofchlorpyrifos "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>激活菌株的属 Genus of induced strain</td><td>抑制菌株的属 Genusof inhibited strain</td></tr><tr><td>Arcicella sp.</td><td>Cellulophaga sp.</td></tr><tr><td>芽孢杆菌属 Bacillus sp.</td><td>梭形杆菌属 Fusobacterium sp.</td></tr><tr><td>拟杆菌属 Bacteroides sp.</td><td>革兰菌属 Gramella sp.</td></tr><tr><td>伯克氏菌属Burkholderia sp.</td><td>颗粒链菌属 Granulicatella sp.</td></tr><tr><td>二氧化碳嗜纤维菌属</td><td>微球菌属 Micrococcus sp.</td></tr><tr><td>Capnocytophaga sp.</td><td></td></tr><tr><td>Chloroflexus sp.</td><td>硝化刺菌属 Nitrospina sp.</td></tr><tr><td>脱硫弧菌属 Desulfovibrio sp.</td><td>叶杆菌属 Phyllobacterium sp.</td></tr><tr><td>长绳菌属 Longilinea sp.</td><td>浮霉状菌属 Planctomyces sp.</td></tr><tr><td>Magnetococcus sp.</td><td>嗜冷杆菌属 Psychrobacter sp.</td></tr><tr><td>分支杆菌属 Mycobacterium sp.</td><td>沙雷氏菌属 Serratia sp.</td></tr><tr><td>盐水球菌属 Salinicoccus sp.</td><td>葡萄球菌属 Staphylococcus sp</td></tr><tr><td>链霉菌属 Streptomyces sp.</td><td>地杆菌属 Terrabacter sp.</td></tr><tr><td rowspan=\"2\">海栖热袍菌属 Thermotoga sp.</td><td>高温黄色微菌属</td></tr><tr><td>Thermoflavimicrobium sp. 贪噬菌属 Variovorax sp.</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RDP数据库注释到属，不能深入到种水平；无法研究土壤微生物的功能基因变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "可见，土壤中毒死蜱含量在1倍及以上推荐剂量，会显著影响棉花生长；引起土壤细菌群落结构重构，且当土壤中毒死蜱基本降解完全时，新演变成的细菌群落结构仍不会恢复到正常水平；毒死蜱浓度越高，新演变成的细菌群落结构与正常水平差异越大。毒死蜱对棉花根际土壤微生态环境冲击较大，应对其生态安全性予以重视。本研究探讨了毒死蜱对棉花根际土细菌群落多样性和结构的影响，今后将进一步采用高通量测序技术研究毒死蜱在土壤中的长效作用，以揭示毒死蜱对植物根际土微生物群落种属及功能基因的影响，为评估毒死蜱对环境微生物的生态安全性及农田生态系统的可持续发展提供关键信息。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Garcia-Rodriguez D,Cela-Torrijos R,Lorenzo-Ferreira R A, et al.Analysis of pesticide residues in seaweeds using matrix solid-phase dispersion and gas chromatography-mass spectrometry detection[J].Food Chemistry,2012,135(1): 259-267   \n[2]Babina K，Dollard M,Pilotto L，et al.Environmental exposure to organophosphorus and pyrethroid pesticides in South Australian preschool children:A cross sectional study[J].Environment International,2012,48:109-120   \n[3]Munoz-Quezada M T,Iglesias V,Lucero B,etal.Predictors of exposure to organophosphate pesticides in schoolchildren in the Province of Talca,Chile[J].Environment International, Tracking—Chlorpyrifos[EB/OL].AgroNews.[2013-02-15].http:// news.agropages.com/News/NewsDetail--8993.htm [5] John E M,Shaike J M.Chlorpyrifos:Pollution and remediation[J].Environmental Chemistry Letters,2015,13(3):   \n269-291 [6]Bloem J，Hopkins D W,Benedetti A．Microbiological Methods for Assessing Soil Quality[M].London: CABI Publishing,2008:117-126 [7] Tipayno S, Kim C G, Sa T M. T-RFLP analysis of structural changes in soil bacterial communities in response to metal and metalloid contamination and initial phytoremediation[J]. Applied Soil Ecology,2012,61: 137-146 [8] Martinez-Toledo M V, Salmeron V,Gonzalez-Lopez J. Effect of the insecticides methylpyrimifos and chlorpyrifos on soil microflora in an agricultural loam[J]. Plant and Soil,1992,   \n147(1): 25-30 [9] Shan M,Fang H,Wang X,et al.Effect of chlorpyrifos on soil microbial populations and enzyme activities[J].Journal of Environmental Sciences,2006,18(1): 4-5 [10] Menon P,Gopal M,Parsad R.Effects of chlorpyrifos and quinalphos on dehydrogenase activities and reduction of $\\mathrm { F e } ^ { 3 + }$ in the soils of two semi-arid fields of tropical India[J]. Agriculture,Ecosystems & Environment,2005,108(1):73-83 [11]Fang H, Yu YL,Chu XQ,et al. Degradation of chlorpyrifos in laboratory soil and its impact on soil microbial functional diversity[J]. Journal of Environmental Sciences,2009,21(3):   \n380-386 [12]Silambarasan S,Abraham J.Kinetic studies on enhancement of degradation of chlorpyrifos and its hydrolyzing metabolite TCP by a newly isolated Alcaligenes sp.JAS1[J]. Journal of the Taiwan Institute of Chemical Engineers,2013,44(3):   \n438-445 [13] Anwar S,Liaquat F,Khan Q M,et al.Biodegradation of chlorpyrifos and its hydrolysis product 3,5,6-trichloro-2-pyridinol by Bacillus pumilus strain C2A1[J]. Journal of Hazardous Materials,2009,168(1): 400-405 [14] Briceno G, Fuentes M S,Palma G,et al． Chlorpyrifos biodegradation and 3,5,6-trichloro-2-pyridinol production by actinobacteriaisolatedfromsoil[J].International Biodeterioration & Biodegradation,2012,73:1-7 [15] Zhao L，Wang F,Zhao J. Identification and functional characteristics of chlorpyrifos-degrading and plant growth promoting bacterium Acinetobacter calcoaceticus[J]. Journal of Basic Microbiology,2014, 54(5): 457-463 [16]Giebler J,Wick L Y,Harms H,et al.Evaluating T-RFLP protocols to sensitively analyze the genetic diversity and community changes of soil alkane degrading bacteria[J]. European Journal of Soil Biology,2014,65:107-113 [17]中华人民共和国农业部．NY/T 1385—2007 棉花种子快速 发芽试验方法[S]．北京：中国农业出版社,2007 The Ministry of Agriculture of the People's Republic of China. NY/T 1385-2007 Quick germination test methods of cotton seed[S]. Beijing: China Agriculture Press,2007 and TCP residues in agricultural soil and apples by HPLC[J]. Journal of Food,Agriculture & Environment,2011,9(1):   \n659-662 [19]韩畅.HPLC 测定水体、土壤及苹果中毒死蜱及其有毒降解 产物 TCP[D]．泰安：山东农业大学,2009:25-26 Han C.Analysis of chlorpyrifos and TCP residues in water, agricultural soil and apples using HPLC[D]. Tai'an: Shandong Agricultural University,2009:25-26 [20] Trabelsi D,Mengoni A,Ammar H B,et al.Effect of on-field inoculation of Phaseolus vulgaris with rhizobia on soil bacterial communities[J].FEMS Microbiology Ecology,2011,   \n77(1): 211-222 [21]Don RH,Cox P T,Wainwright B J,et al.‘Touchdown'PCR to circumvent spurious priming during gene amplification[J]. Nucleic Acids Research,1991,19(14): 4008 [22]Park S,Ku Y K, Seo MJ,et al. Principal component analysis and discriminant analysis(PCA-DA） for discriminating profiles of terminal restriction fragment length polymorphism (T-RFLP) in soil bacterial communities[J]. Soil Biology and Biochemistry,2006,38(8): 2344-2349 [23]Liu W T,Marsh T L,Cheng H,et al.Characterization of microbial diversity by determining terminal restriction fragment length polymorphisms of genes encoding 16S rRNA[J].Applied and Environmental Microbiology，1997,   \n63(11): 4516-4522 [24] Hammer Y, Harper D A T,Ryan P D. Past:Paleontological statistics software package for education and data analysis[J]. Palaeontologia Electronica,2001,4(1): 1-9 [25] Culman S W,Gauch HG, Blackwood C B,et al.Analysis of T-RFLP data using analysis of variance and ordination methods:A comparative study[J]. Journal of Microbiological Methods,2008,75(1): 55-63 [26] Shyu C, Soule T,Bent S J,et al.MiCA:A web-based tool for the analysis of microbial communities based on terminalrestriction fragment length polymorphisms of 16S and 18S rRNA genes[J]. Microbial Ecology,2007,53(4): 562-570 [27] Pandey S, Singh D K. Total bacterial and fungal population after chlorpyrifos and quinalphos treatments in groundnut (Arachis hypogaea L.） soil[J]. Chemosphere,2004,55(2):   \n197-205 [28] Bulgarelli D,Rott M, Schlaeppi K,et al. Revealing structure and assembly cues for Arabidopsis root-inhabiting bacterial microbiota[J]. Nature,2012,488(7409): 91-95 [29] Azarbad H,Niklinska M,Laskowski R,et al. Microbial community composition and functions are resilient to metal pollutionalongtwoforestsoilgradients[J]. FEMS Microbiology Ecology,2015,91(1):1-11 [30] Newman M M,Hoilett N,Lorenz N,et al. Glyphosate effects onsoil rhizosphere-associated bacterial communities[J]. Science of The Total Environment,2016,543(Part A): 155-160   \n[31] Yin D H,Wang N,Xia F,et al.Impact of biocontrol agents Pseudomonas fluorescens 2P24 and CPF10 on the bacterial community in the cucumber rhizosphere[J]. European Journal of Soil Biology,2013,59:36-42   \n[32] Savazzini F,Longa C MO,Pertot I. Impact of the biocontrol agent Trichoderma atroviride SC1 on soil microbial communities of a vineyard in northern Italy[J]. Soil Biology and Biochemistry,2009,41(7): 1457-1465   \n[33]韩美哲，王小显，刘常宏，等．苏云金芽孢杆菌菌剂对棉花 根际土壤细菌数量及多样性的影响[J]．中国生态农业学报, 2013,21(10):1277-1283 Han M Z,Wang X X,Liu C H, et al. Effects of Bacillus thuringiensis agent on bacterial population and diversity in cotton rhizosphere soil[J]. Chinese Journal of Eco-Agriculture, 2013,21(10): 1277-1283   \n[34]Delmont T O,Francioli D,Jacquesson S,et al.Microbial community development and unseen diversity recovery in inoculated sterile soil[J]. Biology and Fertility of Soils,2014, 50(7): 1069-1076   \n[35]Olofinboba M O,Kozlowski T T.Effects of three systemic insecticides on seed germination and growth of Pinus halepensis seedlings[J]. Plant and Soil,1982,64(2): 255-258   \n[36] Korade D L,Fulekar MH. Effect of organic contaminants on seed germination of Lolium multiflorum in soil[J]. Biology and Medicine,2009,1(1): 28-34   \n[37] Dubey K K,Fulekar M H.Effect of pesticides on the seed germinationof Cenchrussetigerusand Pennisetum pedicellatum as monocropping and co-cropping system: Implications for rhizospheric bioremediation[J]. Romanian Biotechnological Letters,2011,16(1): 5908-5918   \n[38]Bassey IY,Effiong E B,Archibong U D,et al.Germination and root nodule formation of soybean [Glycine max (L.) Merr.] in ridomil and chlorpyriphos treated soil[J].American Journal of Environmental Protection,2015,4(1):17-22   \n[39]GvozdenacS, Indic D,Vukovic S.Phytotoxicityof chlorpyrifos to white mustard(Sinapis alba L.） and maize (Zea mays L.):Potential indicators of insecticide presence in water[J].Pesticides & Phytomedicine,2013,28(4): 265-271   \n[40] 张清海，廖朝选，闫轶亚，等．毒死蜱对不同蔬菜种子生长 的毒性研究[J]．贵州科学,2013,31(6):46-49 Zhang QH,Liao C X, Yan Y Y,et al. Toxicity of chlorpyrifos on seed germination of different vegetables[J].Guizhou Science,2013,31(6): 46-49   \n[41]Dawson L A,Grayston S J,Murray P J,et al. Influence of pasture management (nitrogen and lime additionand insecticide treatment） on soil organisms and pasture root system dynamics in the field[J].Plant and Soil,2003,255(1): 121-130 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

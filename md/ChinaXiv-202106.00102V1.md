@@ -1,0 +1,251 @@
+# 视觉工作记忆的同类别存储优势
+
+孙彦良」宋佳汝」辛晓雯²丁晓伟3\* 李寿欣1\*(1山东师范大学心理学院，济南 250358)(中国石油大学(华东)党委学生工作处，青岛 266580)
+
+(中山大学心理学系，广州 510006)
+
+摘 要 概念规律如记忆项间的类别关系如何影响视觉工作记忆容量是一个有争议的问题。针对该问题，学界存在两种预测截然不同的假说：(1)混合类别优势假说，(2)同类别优势假说。综述文献发现，该类研究均采用带有细节特征的真实客体作为实验材料，因此前人研究中发现的混合类别优势效应或同类别优势效应中必然混有低水平知觉特征的影响。故本研究采用去除细节信息的动物剪影作为记忆材料来排除上述因素的影响，旨在厘清上述两种假设，并采用对侧延迟活动作为神经指标，来进一步探讨概念规律影响工作记忆容量的内在机制。两个行为实验发现，不论记忆项同时呈现还是序列呈现，均存在同类别记忆优势效应。脑电实验结果发现相比记忆不同类别客体，记忆同等数量的同类别客体诱发的对侧延迟活动的幅值更小。上述结果一致表明，视觉工作记忆可借助概念的方式将同类别客体加以组织，从而有效扩大视觉工作记忆容量，支持了同类别优势假说。
+
+关键词视觉工作记忆，类别信息，对侧延迟活动
+
+分类号B842
+
+# 1前言
+
+视觉工作记忆(visual working memory,VWM）是一个容量有限的认知系统，仅能暂时存储 $3 \sim 4$ 个项目用于当前的认知加工(Cowan,2001;Luck& Vogel,1997)。尽管视觉工作记忆容量有限，但诸多研究发现这种限制并非固定，如刺激的复杂性可以调节视觉工作记忆的容量(Alvarez & Cavanagh,2004; Brady & Alvarez,2015; Brady et al.,2016; Song & Jiang,2006; but see Awh et al.,2007 for a different view)，一般刺激越复杂，视觉工作记忆容量越低(Alvarez&Cavanagh,2004; Song&Jiang,2006)。然而，与简单刺激相比，真实客体尽管更复杂，但视觉工作记忆对带有细节特征的真实客体的存储反而更多(Brady etal.,2016)。此外，记忆项之间的关系如统计规律性(Brady et al.,2009)、真实空间位置规律(Kaiser et al.,2014,2015)及语义和功能关系(O'donnell et al.,2018; Rudner et al.,2016)均影响视觉工作记忆容量。但是，高层次概念规律如记忆项间的类别关系如何影响视觉工作记忆容量，仍是一个有争议的问题。
+
+从理论上讲，客体类别对视觉工作记忆容量的影响存在两种可能性：混合类别优势和相同类别优势。混合类别优势与神经资源理论(neural resource theory)的预测一致，该理论认为同时加工多个客体的能力会受到客体神经表征重叠程度的限制。具体表现为客体的神经表征重叠程度越高，大脑同时加工多个客体的能力会因竞争相同的神经资源而下降(Cohen etal.,2014)。因为同类客体更容易有重叠的神经表征，故混合类别客体更可能表现出认知加工优势。前人研究为该理论提供了诸多证据支持。Cohen 等人(2014)让被试记忆相同类别(例如，四个面孔)或不同类别(例如，两个面孔和两个场景)的四个项目并使用功能性核磁共振成像技术(functional magnetic resonance imaging，fMRI)来测量四个项目神经表征的皮层重叠程度，结果发现被试对不同类别项目的记忆绩效更优，这表明存在混合类别优势。同时，fMRI结果还显示，四个项目的神经表征皮层重叠程度能预测这种优势的大小，即皮层重叠程度越小，混合类别优势越大(Cohen et al.,2014)。随后，Jiang 和Lee 等人(2016)为了探讨神经资源如何限制视觉工作记忆容量，重新分析了面孔和场景的混合类别优势，实验重复出了Cohen 等人(2014)的结果，发现记忆两个面孔和两个场景比记忆四个面孔或四个场景效果更好。然而，这种混合类别优势仅特异于“面孔"刺激：当面孔与场景共同呈现时，对面孔的记忆成绩优于当面孔与其他面孔共同呈现时的记忆成绩，而对场景的记忆成绩并不优于场景与其他场景共同呈现时的记忆成绩。此外，具有人脸特异性的混合类别优势也出现在面孔与房子、蝴蝶或身体共同呈现时，而只呈现人造客体作为记忆项时混合类别优势效应就消失了(Wong et al.,2008)。
+
+同类别优势与率失真理论(rate-distortion theory)的预测一致。率失真理论认为任意容量有限的通信系统的绩效均存在理论限制(Sims et al.,2012)。基于这一理论的理想观测者假设认为，若环境中特征的变异增加，记忆精度会下降(Sims et al.,2012,p.812)。Sims 等人(2012)分别通过一个朝向实验和一个线段长度实验证实了这一假设，他们发现对低变异的箭头朝向和线段长度的记忆成绩比对高变异的箭头朝向和线段长度的记忆成绩更好。另外一些研究也支持了上述理论假设。例如，对同一类别的颜色(如浅红、玫红、紫红)的记忆成绩优于不同类别的颜色(如红绿蓝；Lin&Luck,2009)；记忆由相同身份面孔产生的平均面孔比由不同身份面孔产生的平均面孔更精确(Jiang,Lee,etal.,2016)。尽管这些研究均认为同类别的加工优势来自知觉的相似性，但不可否认类别信息也可能发挥了重要作用。综上，我们认为基于理想观测者模型的同类别优势能够成立可能有两方面的原因：首先，同类客体的低层次知觉特征的变异通常比混合类别客体的知觉特征变异小；其次，同类客体其高层次的概念特征的变异也更小。
+
+总之，一方面，尽管神经资源理论支持混合类别优势，然而几乎所有支持证据仅适用于面孔(Jiang,Lee,et al.,2016;Wong et al.,2008)，因此神经资源理论的普适性受到限制；另一方面，尽管同类别优势与理想观测模型预期一致，然而尚缺少这一假设从低层次知觉特征拓展到高层次概念特征的直接证据支持。另外，刺激材料的选择对探讨视觉工作记忆容量的类别效应至关重要。总结前人研究发现，以往关于类别对视觉工作记忆容量影响的研究均采用具有详细信息的真实客体。前人研究中发现的混合类别优势(如面孔特异的混合类别优势，Jiang,Remington,et al.,2016;Wong et al.,2008)与同类别优势效应(Quinlan& Cohen,2016)存在矛盾的结果，可能主要源于刺激材料的不同。这是因为类别信息的表达依赖于刺激材料的一些关键知觉属性，无关的知觉属性应尽可能地加以控制或消除。否则，前人发现的混合类别或者同类别优势效应可能是由客体的某些低层次知觉属性而非高层次类别关系所致。因此，在当前研究中采用没有详细信息的动物剪影作为记忆材料。此外，大量研究发现材料的相似性会影响工作记忆容量。记忆项目的相似性增加，工作记忆成绩提高(Lin&Luck,2009;Peterson et al.,2015)，材料的相似性还会促进对记忆项的整体编码，从而降低记忆负荷，增加记忆信息容量(Mate&Baques,2009; Zhang et al.,2015)。因此，本研究对相同类别和不同类别动物剪影的姿态相似性也进行了控制，以减少或消除知觉相似性的可能影响。例如，实验中猫这一基本类别包含12个剪影图片，其中6张具有高相似姿态，6张具有低相似姿态(见图 1)。
+
+在当前研究中我们首先设计了两个行为实验来探讨类别信息是否可以影响视觉工作记忆容量。如果研究结果支持神经资源理论，那么应该出现混合类别优势，即对不同类别剪影的记忆效果会更好，表现为在混合类别条件下记忆容量更大；相反，如果研究结果支持理想观察者模型，那么应该出现同类别优势，同类别剪影的记忆容量会更大。
+
+DX 5 S JDXXD
+
+姿态高相似姿态低相似
+
+图1一个基本类别的12 张动物剪影示例。此示例中动物剪影来自开放版权的网站 Pixabay(htps://ixabay.com)，仅用于展示。
+
+工作记忆任务通常包含编码(encoding)、保持(maintenance)和提取(retrieve)三个不同的认知加工阶段。如果类别信息可以影响视觉工作记忆容量，那么类别效应可能发生在工作记忆认知加工的哪个阶段呢？行为实验很难帮助我们回答这一问题，而电生理测量如事件相关电位技术(event-related potentials,ERPs)对回答这一问题特别有用。因为它可以帮助我们区分效应可能的发生阶段。因此，本研究还设计了一个脑电实验，采用对侧延迟活动(contralateral delay activity,CDA)这一电生理指标来进一步探讨类别信息影响视觉工作记忆容量的认知神经机制。CDA是一个在记忆项呈现位置的对侧大脑半球出现的负慢波，它通常在顶叶和顶枕区域最大，它的振幅与视觉工作记忆中保持的客体数量有关(Luria et al.,2016; McCollough et al.,2007; Vogel& Machizawa,2004)。当视觉工作记忆中保持的项目数量增加时，CDA 波幅会更大(Vogel&Machizawa,2004)；当视觉工作记忆中保持的项目数量减小时，CDA 波幅会降低(Vogel et al.,2005;Williams & Woodman,2012)。因此，记录CDA 可帮助我们确认类别效应是否发生在工作记忆的保持阶段。CDA的重要功能还在于可进一步揭示类别效应的认知机制，若同类别记忆优势存在，即类别信息可提升工作记忆容量，从理论上存在两种可能：(1)类别信息起到类似格式塔组织的作用，将同类别信息通过组织形成一个大的组块，从而提升工作记忆容量。该假设预期相较于不同类别条件，同类别条件下CDA幅值会降低；(2)类别信息使更多的信息存入视觉工作记忆，但没有形成组块。该假设预期相比不同类别条件，同类别条件下CDA的幅值会升高。
+
+2 实验1识记项同时呈现时识记项的类别信息对视觉工作记忆容量的影响
+
+实验1检验同时呈现的识记项的类别信息是否会影响视觉工作记忆容量。我们预计Cowan's $K$ 在相同和不同类别条件下会有显著差异。为避免低估视觉工作记忆容量，识记项的持续时间会根据动物剪影数量 $2 5 0 \mathrm { m s } \times$ 动物剪影数量)来设置。此外，该实验中还增加了一个同时进行的发音抑制任务，以抑制在对动物剪影记忆过程中可能的言语编码(Curby& Gauthier, 2007; Vogel et al., 2001)。
+
+# 2.1方法
+
+2.1.1被试
+
+20 名学生(13名女性，年龄 $1 9 \sim 3 2$ 岁，平均年龄 24 岁)参加了实验1。被试从山东师范大学招募，自愿参加实验，实验后给予相应学分或金钱报酬。所有人的视力或矫正视力正常。被试不知道研究目的，并在实验之前签署了知情同意书。该程序符合世界医学协会伦理规范(赫尔辛基宣言)，并经山东师范大学研究伦理委员会批准。
+
+为了确保足够的统计检验力，样本量由PANGEA(Westfall,2015)基于预期的效应量进行的统计检验力分析来确定。基于以往相关的行为研究(Jiang,Lee,etal.,2016; Jiang,Remington,etal.,2016)，为获得较大程度的效应量(Cohen's $d = 0 . 8 0 \AA$ ， $\mathfrak { a }$ 水平设置为0.05,统计功效为 $8 5 \%$ 时，计算出的样本量约为17个被试。因此本研究招收的20名被试能够确保足够的统计检验力。
+
+# 2.1.2刺激
+
+视觉刺激通过PsychoPy(Peirce,2007)编写的程序来控制，呈现在经过线性矫正后的CRT 显示器(21英寸索尼G520；分辨率： $1 0 2 4 \times 7 6 8$ 像素；刷新率： $\boldsymbol { 1 0 0 } \mathrm { H z } \mathrm { \rangle }$ 。被试眼睛距离屏幕约70 厘米。刺激呈现在平均亮度 $1 7 . 5 \mathrm { c d } / \mathrm { m } ^ { 2 }$ 的灰色背景上。
+
+该实验采用了192张动物剪影图片，它们分属于四个上位类别(食肉动物、灵长类动物、有蹄动物和鸟类)下的16 种基本类别(猫、狗、狐狸、狮子；猴子、狒狒、大猩猩、人类；牛、羊、鹿、马；鸡、鸭、孔雀、鸽子)。上述图片选自谷歌图片，并经GIMP 重新制作(版本 2.8.16,GIMP Development Team,2016)。每个基本类别中有 12 张剪影图形$( 2 ^ { \circ } { \times } 2 ^ { \circ } )$ ，其中6 张姿态高相似(头的朝向相同和脚踩地)和6 张姿态低相似(见图1)。我们招募了30 名学生(22名女性，年龄 $1 9 \sim 2 7$ 岁，平均年龄 22岁)对动物剪影图片进行了相似性评定，5点计分(1为十分不相似，5为十分相似)，结果表明相同类别的高相似图片得分(M$= 4 . 2 1$ ， $S D = 0 . 6 5 \$ 高于低相似图片 $\mathbf { \mathit { M } } = 2 . 1 3$ $S D = 0 . 8 6 )$ ， $t ( 2 9 ) = 1 4$ ， $p < 0 . 0 0 1$ ， Cohen's d${ } = 2 . 5 6 { }$ ；不同类别的高相似图片得分 $( M = 3 . 7 9$ $S D = 0 . 8 1$ )高于低相似图片 $\overset { \triangledown } { \boldsymbol { M } } = 1 . 8 3$ 0 $S D =$ 0.6)， $t ( 2 9 ) = 1 0 . 7$ ， $p < 0 . 0 0 1$ ，Cohen's $d { = } 1 . 9 5$ 。此外，我们制作了8个由一系列随机生成的非彩色圆形轮廓(大小 $0 . 1 \substack { - 0 . 3 6 ^ { \circ } }$ ，亮度值 $0 . 3 \sim 7 4 ~ \mathrm { c d } / \mathrm { m } ^ { 2 } )$ 组成的掩蔽刺激 $( 2 ^ { \circ } { \times } 2 ^ { \circ } )$ 用以消除识记项的后像。
+
+# 2.1.3设计和程序
+
+实验1采用2(记忆负荷：2， $4 ) \times 2 ($ 类别：相同，不同 $\lvert \times 2 \rvert$ (姿态：高相似，低相似)的被试内设计。记忆序列分别由2个或4个动物的剪影组成。在一半的试次中，识记项属于同一基本类别；在另一半的试次中，识记项属于两个(或四个)不同的基本类别，但属于同一上位类别。在一半的试次中，动物剪影姿态高相似，而在另一半试次中，动物剪影姿态低相似。实验1和其它所有实验都使用了单项目探测觉察任务(变化觉察范式的一种)。在该任务中，探测阶段只在屏幕中央呈现一个探测项目，要求被试判断该项目是否在记忆序列中呈现过。在一半的试次中探测项目与一个识记项相同，在另一半试次中探测项目与任何一个识记项均不同。变化的探测项目是从对应记忆项所在基本类别下的四个动物剪影(排除识记剪影，其中两个剪影有高相似姿态，另外两个剪影有低相似姿态)中随机选取。实验试次为混合设计，即每个block均包含实验的所有处理水平，且不同block 内包含的同一种水平的次数相同。该情况会提前告知参与者。每个参与者共完成256个试次。
+
+实验1的流程如图2所示。每个试次先呈现 $5 0 0 \mathrm { m s }$ 的发音抑制序列，即从1到9中随机选择两个数字在屏幕中心的两侧(间隔 $4 ^ { \circ }$ )呈现，期间要求被试大声复述这两个数字，直到完成对探测项目的反应。然后呈现一个 $5 0 0 \mathrm { m s }$ 的注视点，实验过程该注视点会一直呈现。接下来，在两个矩形区域内 $( 4 ^ { \circ } \times 1 2 ^ { \circ } )$ 呈现记忆序列 $5 0 0 \mathrm { m s }$ 或 $1 0 0 0 \mathrm { m s }$ (取决于识记项序列的大小，目的是保证每个项目有相同的编码时间： $2 5 0 \mathrm { m s } /$ 项目)。其中任意两个项目之间的距离不小于 $2 . 5 ^ { \circ }$ ，距离注视点中心 $4 ^ { \circ }$ 。记忆项消失后会在识记项相同位置上呈现掩蔽刺激 $1 0 0 \mathrm { m s }$ ，来消除识记项的后像。掩蔽刺激消失后呈现 $9 0 0 \mathrm { { m s } }$ 空屏，然后在屏幕中心呈现单探测项目 $2 0 0 0 \mathrm { { m s } }$ 或者直到被试反应。要求被试判断探测项目是否在记忆序列中呈现过，同时要求被试尽可能保证准确性而不是反应速度。
+
+![](images/0a8bccc130317480e2b06ac1d2de502f4d79b6b699b265fdde0b9512896b4852.jpg)  
+图2 实验1流程图(记忆项为4个)
+
+# 2.1.4数据分析
+
+VWM容量基于Cowan's $K$ (Cowan,2001)计算， ${ \cal K } = ( \mathrm { H } { \mathrm { - } } \mathrm { F A } ) \times \mathrm { N }$ ，H(Hit rate)是当发生变化时被试判断“是”的概率，FA(False Alarmrate)是当没有发生变化时被试判断“是”的概率，N(Setsize)是记忆负荷。在反应正确的试次中，删除反应时间小于 $2 0 0 \mathrm { m s }$ 和超出三个标准差的试次(最终删除的试次少于 $1 \%$ )。我们首先对 $K$ 进行了记忆负荷(2， $4 ) \times$ 类别(相同，不同) $\boldsymbol { \cdot } \times$ 姿态(高相似，低相似)三因素重复测量方差分析。然后根据三因素重复测量方差分析的结果再做进一步的分析。
+
+# 2.2结果和讨论
+
+表1 实验1八种条件下的 $K ( M \pm S D )$   
+
+<html><body><table><tr><td rowspan="2">姿态相似性</td><td colspan="2">负载2</td><td colspan="2">负载4</td></tr><tr><td>相同类别</td><td>不同类别</td><td>相同类别</td><td>不同类别</td></tr><tr><td>高相似姿态</td><td>1.63±.20</td><td>1.34±.16</td><td>3.09±.45</td><td>1.83±.69</td></tr><tr><td>低相似姿态</td><td>1.59±.25</td><td>1.59±.22</td><td>2.50±.78</td><td>1.80±.60</td></tr></table></body></html>
+
+不同条件下的 $K$ 值见表1。对 $K$ 进行三因素重复测量方差分析发现，记忆负荷主效应显著， $F ( 1 , \ 1 9 ) = 7 9 . 3 4 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 8 1$ ，类别主效应显著， $F ( 1 , \ 1 9 ) = 4 7 . 6 5$ ， $p <$ 0.001， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 7 2$ ，姿态主效应不显著， $F ( 1 , \ 1 9 ) = 2 . 7 3$ ， $p = 0 . 1 1 5$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 3$ ，记忆负荷和类别的交互作用显著 $F ( 1 , \ 1 9 ) = 3 4 . 9 4 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 6 5$ ，记忆负荷和姿态的交互作用显著 $F ( 1 , \ 1 9 ) = 9 . 5 7 \$ ， $p = 0 . 0 0 6$ ， $\boldsymbol \eta _ { \mathsf { p } } ^ { 2 } = 0 . 3 4$ ，类别和姿态的交互作用显著 $F ( 1 , \ 1 9 ) =$ 14.51， $p = 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 3$ ，三因素交互作用不显著 $F ( 1 , \ 1 9 ) = 1 . 1 9$ ， $p = 0 . 2 8 9$ ， $\boldsymbol \eta _ { \mathsf { p } } ^ { 2 } =$ 0.06。
+
+![](images/8bafb54c116165e96e6a3439bfb9cd7477524f8f72f9950bf521f7e8b812ba22.jpg)  
+图3实验1结果 记忆负荷(a)和姿态(b)对相同或不同类别试次的作用，记忆负荷对高相似低相似姿态试次的作用(c)。误差线代表被试内 $9 5 \%$ 的置信区间， $^ { * } p < 0 . 0 5$ ， $\ast \ast _ { p } < 0 . 0 1$
+
+对记忆负荷与类别之间显著的交互作用进行简单效应分析(将姿态的两个水平合并，如图 3a)，当记忆负荷为2时，同类别试次的 $K ( M = 1 . 6 1 , S D = 0 . 2 1 )$ 显著大于不同类别试次的$K ( M = 1 . 4 7 , S D = 0 . 1 0 )$ ， $t ( 1 9 ) = 3 . 3 6$ ， $p = 0 . 0 0 3$ ，Cohen's $d = 0 . 7 5$ ；当记忆负荷为4时同样存在同类别优势效应[同类： $M = 2 . 7 9 , S D = 0 . 5 3$ ；不同类： $M = 1 . 8 1$ ， $S D = 0 . 5 3$ ， $t ( 1 9 ) =$ 6.69, $p < 0 . 0 0 1$ ，Cohen's $d = 1 . 5 0 ]$ 。此外，我们分别用记忆负荷为2和4时相同类别的 $K$ 值减去不同类别的 $K$ 值，得到同类别优势效应量，并对该效应量进行 $t$ 检验，发现记忆负荷为4时的同类别优势效应量 $( M = 0 . 9 8$ $S D = 0 . 6 6 )$ 显著大于记忆负荷为2时的同类别优势效应量 $( M = 0 . 1 4$ $S D = 0 . 1 9 ,$ ， $t ( 1 9 ) = 5 . 9 1$ ， $p < 0 . 0 0 1$ ，Cohen's $d = 1 . 3 2$ 。该结果表明，无论记忆负荷是2还是4均存在同类别优势，但记忆负荷为4时，同类别优势更大。
+
+对类别与姿态之间显著的交互作用进行简单效应分析(将记忆负荷的两个水平合并，如图 3b)，当动物剪影姿态高相似时，同类别试次 $K \left( M = 2 . 3 6 , S D = 0 . 3 0 \right)$ 显著大于不同类别试次 $K \left( M = 1 . 5 8 , S D = 0 . 3 5 \right)$ ， $t ( 1 9 ) = 9 . 1 8$ ， $p < 0 . 0 0 1$ ，Cohen's $d = 2 . 0 5$ ；当姿态低相似时，存在同样的类别效应[同类： $M = 2 . 0 5 , S D = 0 . 4 3$ ；不同类： $M = 1 . 7 0$ $S D = 0 . 3 1$ ， $t ( 1 9 ) =$ 3.15， $p = 0 . 0 0 5$ ，Cohen's $d = 0 . 7 0 ]$ 。此外，我们分别对高相似姿态和低相似姿态时相同类别和不同类别的 $K$ 值做差，得到同类别优势效应量，对该效应量进行 $\mathbf { \chi } _ { t }$ 检验，发现高相似姿态的同类别优势效应量 $( M = 0 . 7 8 , S D = 0 . 3 8 )$ 显著大于低相似姿态的同类别优势效应量(M$= 0 . 3 5$ $S D = 0 . 5 0 \$ ）， $t ( 1 9 ) = 3 . 8 1$ ， $p < 0 . 0 0 1$ ，Cohen's $d = 0 . 8 5$ 。为了进一步排除姿态相似性诱发同类别优势的可能性，我们比较了低相似姿态同类别与高相似姿态不同类别在 $K$ 值上的差异，发现低相似姿态同类别条件下的 $\mathrm { \sf ~ K }$ 值 $M = 2 . 0 5$ $S D = 0 . 4 3 )$ 依然显著大于高相似姿态不同类别条件下的 $K$ 值 $( \mathrm { M } = 1 . 5 8 \$ ， $S D = 0 . 3 5$ ）， $t ( 1 9 ) = 3 . 8 2$ ， $p = 0 . 0 0 1$ ，Cohen's $d = 0 . 8 5$ 。这些结果表明无论动物剪影姿态高相似还是低相似均存在同类别优势，且同类别优势效应确实由类别信息而非姿态相似性造成。
+
+对记忆负荷与姿态之间显著的交互作用进行了简单效应分析(将类别的两个水平合并，如图 3c)，当记忆负荷为2时，姿态高相似试次的 $K \left( M = 1 . 4 8 , S D = 0 . 1 3 \right)$ 显著小于姿态低相似试次的 $K \left( M = 1 . 5 9 \right.$ $S D = 0 . 1 9 ,$ ）， $t ( 1 9 ) = - 2 . 8 2$ ， $p = 0 . 0 1 1$ ，Cohen's $d = - 0 . 6 3$ ；当记忆负荷为4时，高相似姿态试次的 $K \left( M = 2 . 4 6 , S D = 0 . 4 7 \right)$ ，显著大于低相似姿态试次的 $K ( M =$ 2.15, $S D = 0 . 5 1 \$ ）， $t ( 1 9 ) = 2 . 5 5$ ， $p = 0 . 0 2 0$ ，Cohen's $d = 0 . 5 7$ 。这些结果表明姿态相似性会影响视觉工作记忆的容量，并且这种效应受到存储记忆负荷的调节。
+
+总的来说，我们发现类别信息能影响视觉工作记忆容量，并产生同类别优势效应。
+
+3行为实验2：识记项序列呈现时识记项的类别信息对视觉工作记忆容量的影响
+
+在实验1中，我们发现在识记项同时呈现时同类别条件下记忆容量更大。在工作记忆的研究中，记忆项的呈现方式通常有同时呈现和序列呈现两种。以往研究表明，这两种呈现方式存在多种差异(Alln et al.,2006; Atkinson et al.,2018; Ding et al.,2015; Gao et al.,2016)。首先，两种呈现方式在编码阶段涉及的加工有所不同。序列呈现需要涉及内容的更新而同时呈现不需要(Allen et al.,2006)。其次，两种呈现方式下对工作记忆的容量估计会有所不同。例如，序列呈现可能会因前摄抑制和后摄抑制低估工作记忆的容量(Allen et al.,2006;Atkinson et al.,2018)。考虑到以上两种呈现方式的差异，实验2旨在探讨识记项序列呈现时同类别优势效应是否仍然存在。
+
+# 3.1方法
+
+# 3.1.1被试
+
+实验2样本量的选择方式与实验1相同。一组新的20 名学生(15名女性，年龄在 $1 9 \sim$ 25 岁之间，平均21岁)参加了实验2。
+
+3.1.2设计和程序
+
+识记项在随机选择的不同位置上序列呈现，每个呈现 $2 5 0 \mathrm { m s }$ 。除此以外，实验2的设计和流程均与实验1相同。
+
+# 3.2结果和讨论
+
+表2 实验2八种条件下的 $K ( M \pm S D )$   
+
+<html><body><table><tr><td rowspan="2">姿态相似性</td><td colspan="2">负载2</td><td colspan="2">负载4</td></tr><tr><td>相同类别</td><td>不同类别</td><td>相同类别</td><td>不同类别</td></tr><tr><td>高相似姿态</td><td>1.53±.27</td><td>1.31±.34</td><td>2.78±.51</td><td>1.79±.46</td></tr><tr><td>低相似姿态</td><td>1.53±.27</td><td>1.46±.30</td><td>2.48±.48</td><td>1.46±.75</td></tr></table></body></html>
+
+不同条件下的 $K$ 值见表2。对 $K$ 进行记忆负荷(2， $4 ) \times$ 类别(同类，不同类) $| \times \rrangle$ 姿态(高相似，低相似)三因素重复测量方差分析，记忆负荷主效应显著， $F ( 1 , \ 1 9 ) = 6 0 . 1 1$ ， $p <$ 0.001， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 7 6$ ；类别主效应显著， $F ( 1 , \ 1 9 ) = 8 2 . 0 6$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 8 1$ ；记忆负荷和类别的交互作用显著， $F ( 1 , \ 1 9 ) = 6 1 . 3 7$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 7 6$ ；记忆负荷和姿态的交互作用显著， $F ( 1 , \ 1 9 ) = 7 . 5 0$ ， $p = 0 . 0 1 3$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 8$ 。然而姿态的主效应 $[ F ( 1 , ~ 1 9 ) = 1 . 6 2 \$ ， $p =$
+
+0.219， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 0 8 ]$ ，类别和姿态的交互作用 $[ F ( 1 , \ 1 9 ) = 0 . 5 5$ ， $p = 0 . 4 6 7$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 0 3 ]$ 和三因素交互作用 $[ F ( 1 , \ 1 9 ) = 0 . 1 4$ ， $p = 0 . 7 1 0$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 0 1 \AA$ 均不显著。
+
+![](images/aab0b3fc90dd2ccdfae1e946d73aef42b440b7877d463a3147c7b67077949a85.jpg)  
+图4实验2结果 记忆负荷(a)和姿态(b)对同类或不同类试次的作用，记忆负荷对高低相似姿态试次的作用(c)。误差线代表被试内 $9 5 \%$ 的置信区间， $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$
+
+对记忆负荷和类别的交互作用进行简单效应分析(将姿态的两个水平合并，如图 4a)表明，当记忆负荷为2时同类试次的 $K \left( M = 1 . 5 2 , S D = 0 . 2 2 \right)$ 显著大于不同类试次的 $K ( M =$ 1.38, $S D = 0 . 2 6 )$ ， $t ( 1 9 ) = 2 . 5 0$ ， $p = 0 . 0 2 2$ ，Cohen's $d = 0 . 5 6$ ；当记忆负荷为4时同样存在同类别优势效应[同类: $M = 2 . 6 3$ $S D = 0 . 3 3$ ；不同类： $M = 1 . 5 8$ $S D = 0 . 4 5$ ， $t ( 1 9 ) = 9 . 5 2$ ， $p <$ 0.001，Cohen's $d = 2 . 1 3 ]$ 。此外，我们分别用记忆负荷为2和4时相同类别的 $K$ 值减去不同类别的 $K$ 值，得到同类别优势效应量，并对该效应量进行 $t$ 检验，发现记忆负荷为4时的同类别优势效应量( $\stackrel { \cdot } { M } = 1 . 0 4$ $S D = 0 . 4 9 _ { , } ^ { \cdot }$ 显著大于记忆负荷为2时的同类别优势效应量 $( M$ $= 0 . 1 4$ $S D = 0 . 2 5$ )， $t ( 1 9 ) = 7 . 8 3$ ， $p < 0 . 0 0 1$ ，Cohen's $d { = } 1 . 7 5$ 。该结果表明，无论记忆负荷是2还是4均存在同类别优势，但记忆负荷为4时，同类别优势更大。
+
+尽管类别与姿态交互作用不显著，基于实验1的结果，计划比较表明(将记忆负荷的两个水平合并，如图4b)，当动物剪影的姿态高相似时同类试次的 $K ( M = 2 . 1 5$ ， $S D = 0 . 2 8 \$ 显著大于不同类试次的 K(M= 1.50, $S D = 0 . 3 4 )$ ， $t ( 1 9 ) = 7 . 5 9$ ， $p < 0 . 0 0 1$ ，Cohen's $d = 1 . 7 0$ ；当姿态低相似时存在同样的差异[同类试次： $M = 2 . 0 0$ ， $S D = 0 . 2 5$ ；不同类试次： $M = 1 . 4 6$ ,SD$= 0 . 4 3$ ， $t ( 1 9 ) = 4 . 8 8$ ， $p < 0 . 0 0 1$ ，Cohen's $d = 1 . 0 9 ]$ 。这些结果表明无论记忆项目的姿态相似程度高低均存在同类别优势效应。为了进一步排除姿态相似性诱发同类别优势的可能性，我们比较了低相似姿态同类别与高相似姿态不同类别在 $K$ 值上的差异，发现低相似姿态同类别条件下的 $K$ 值 $\mathit { T M } = 2 . 0 0$ ， $S D = 0 . 2 5 )$ 显著大于高相似姿态不同类别条件下的 $K$ 值 $( M =$
+
+1.50, $S D = 0 . 3 4 )$ ， $t ( 1 9 ) = 6 . 1 7$ ， $p < 0 . 0 0 1$ ，Cohen's $d = 1 . 3 8$ 。这些结果再一次表明同类别优势效应确实由类别信息而非知觉相似性造成。
+
+对记忆负荷与姿态之间显著的交互效应进行简单效应分析(将类别的两个水平合并，如图 3c)，当记忆负荷为2时，高相似试次的 $K \left( M = 1 . 4 2 , S D = 0 . 2 1 \right)$ ，显著小于低相似试次的$K \left( M = 1 . 4 9 \right.$ $S D = 0 . 2 4 _ { . }$ ， $t ( 1 9 ) = - 2 . 1 1$ ， $p = 0 . 0 4 9$ ，Cohen's $d = - 0 . 4 7$ ；当记忆负荷为4时，高相似试次 $K \left( M = 2 . 2 4 , S D = 0 . 4 1 \right)$ 与低相似试次 $K \left( M = 1 . 9 7 , S D = 0 . 4 4 \right)$ 的差异边缘显著，$t ( 1 9 ) = 2 . 0 1$ ， $p = 0 . 0 5 9$ ，Cohen's $d = 0 . 4 5$ 。这些结果表明姿态相似性会影响视觉工作记忆的容量，当记忆负荷较低时，相似性有抑制作用，当记忆负荷较高时，相似性有促进作用。
+
+总的来说，实验2的结果与实验1的结果基本相同，证实了即使识记客体是以序列方式呈现，同类别优势效应依然存在。
+
+# 4脑电实验3：识记项同时呈现时识记项的类别信息对视觉工作记忆容量影响的ERPs研究
+
+在实验1和2中，我们均发现视觉工作记忆容量具有同类别优势。在实验3中，除了测量工作记忆容量的行为指标Cowan's $K$ 外，我们还测量了电生理指标CDA，以进一步探究同类别优势效应的认知神经机制。如果同类别信息只是增加了视觉工作记忆单元的数量，那么同类别条件下的CDA幅值要大于不同类别条件下的CDA幅值。如果同类别信息通过将同类客体加以概念组织来提高视觉工作记忆单个单元的信息容量，那么同类别条件下的 CDA幅值要小于不同类别条件下的CDA幅值。因为在实验1和实验2中，不管姿态相似程度高低均发现了同类别优势，所以在实验3中识记项均采用低相似姿态的材料，其它方面均与实验1相同。
+
+# 4.1方法
+
+# 4.1.1被试
+
+基于之前相关的CDA 研究(Brady etal.,2016)，本实验采用的样本量为18。一组新的20 名被试(9 名女性，年龄 $1 9 \sim 2 1$ 岁，平均19 岁)参加了实验3。两名被试因过度的眼动等伪迹被排除在分析之外。
+
+4.1.2设计和程序
+
+实验3采用了2(记忆负荷：2， $4 ) \times 2 ($ 类别：同类，不同类)的被试内设计。为了测量CDA，在注视点的提示侧呈现识记项。根据同样的规则选取控制项并将控制项呈现在识记项的对侧，即识记项和控制项数量相同，且识记项为相同(或不同)类别时，控制项也为相同(或不同)类别。此外，为了减少脑电伪迹，本实验未采用发音抑制任务。每个参与者进行了800个试次。其他方面均与实验1相同。
+
+实验3的流程如图5所示。每个试次开始时，屏幕上显示两个同向箭头提示向左或向右 $2 0 0 \mathrm { m s }$ ，然后呈现 $3 0 0 \sim 4 0 0 ~ \mathrm { m s }$ 的随机延迟，在此期间只显示一个注视点。接下来在两个矩形区域内(视角为 $4 ^ { \circ } { \times } 1 2 ^ { \circ }$ ，距离中心 $4 ^ { \circ }$ )呈现两个记忆序列(记忆项或控制项)500 或$1 0 0 0 \mathrm { m s }$ (取决于识记项数量：2或4， $2 5 0 \mathrm { m s }$ /项目)。接下来呈现只有注视点的空屏1000ms，然后在矩形区域的中心呈现两个项目 $2 0 0 0 \mathrm { { m s } }$ 或者直到被试做出反应。被试需要判断线索指向侧的探测项是否在同侧记忆序列呈现过，并强调准确性而不是反应速度。
+
+![](images/7bfaf6a8b53b4cf85186e5dbe2fc2f49a6a17e7c43cbe37cbf0c6c7f22d40537.jpg)  
+图5 实验3记忆流程图(记忆负荷为2)
+
+# 4.1.3EEG记录
+
+采用美国NeuroScan公司的CURRY7系统，按国际 $1 0 \sim 2 0$ 系统扩展的64导电极帽记录EEG。前额 $\mathrm { F P z }$ 接地，双眼外侧约 $1 . 5 \mathrm { c m }$ 处安置电极记录水平眼电，左眼上下约1cm 处安置电极记录垂直眼电。以左侧乳突为参考电极，离线分析时再转换为双侧乳突的平均值作参考。滤波带通为 $0 . 0 5 \sim 1 0 0 \mathrm { H z }$ ，采样频率为 ${ 5 0 0 } \mathrm { H z }$ ，每个电极的头皮电阻阻抗小于 $5 \mathrm { k } \Omega$ 。
+
+# 4.1.4EEG预处理
+
+采用装有 ERPLAB 插件(Lopez-Calderon& Luck,2014)的 EEGLAB 软件(Delorme &Makeig,2004)对反应正确试次(剔除 $2 9 \%$ 的错误试次)的EEG 数据进行离线处理，采用$0 . 1 { \sim } 3 0 \mathrm { H z }$ 零相位Butterworth 过滤器滤波(48 dB/oct slope)。分析时程(epochs)截取记忆项呈现前 $2 0 0 \mathrm { m s }$ 至呈现后 $1 5 0 0 \mathrm { m s } ( 2 \$ 个记忆负荷)或者 $2 0 0 0 \mathrm { m s } ( 4 \$ 个记忆负荷)，并以识记项呈现前 $2 0 0 \mathrm { m s }$ 作为基线。采用ERPLAB 插件中的简单电压阈限函数剔除所有电极中波幅阀值大于 $7 5 \mu \mathrm { V }$ 的时程，并采用 step 函数剔除垂直眼电超过 $1 0 0 \mu \mathrm { V }$ 和水平眼电超过 $3 2 \mu \mathrm { V }$ 的时程。如果观察者的数据中有超过 $10 \%$ 的试次因眼动或者运动伪迹而剔除，那么剔除该观察者的数据(有2个被试被排除)。
+
+# 4.1.5EEG分析
+
+对侧差异波通过相对于提示侧的对侧活动减去同侧活动得到。选择记忆序列消失后$4 0 0 \sim 1 0 0 0 ~ \mathrm { m s }$ 的时间窗来测量对侧减同侧差异波。这个间隔的选取是基于以往研究确定的(Brady et al.,2016; Kang & Woodman,2014)。选择顶叶(P8/P7、P6/P5、P4/P3)和顶枕(PO8/PO7、PO6/PO5、PO4/PO3)区域具有代表性的电极位点进行进一步分析。电极位点的选择也是基于以往以CDA 作为视觉工作记忆容量指标的研究(Gao et al.,2011;Qi et al.,2014)。对于任意一对电极位置，通过对双侧电极位置的波幅差值求平均，最终得到CDA指标。对时间窗内CDA的平均波幅进行记忆负荷(2， $4 ) \times$ 类别(同类，不同类)的两因素重复测量的方差分析。
+
+4.2结果和讨论
+
+4.2.1行为结果
+
+表3 实验3四种条件下的 $K ( M \pm S D )$   
+
+<html><body><table><tr><td>类别</td><td>负何2</td><td>负荷4</td></tr><tr><td>相同类别</td><td>0.97±.23</td><td>1.95±0.41</td></tr><tr><td>不同类别</td><td>0.86±.24</td><td>1.08±0.40</td></tr></table></body></html>
+
+不同条件下的 $K$ 值见表3。对 $K$ 的结果进行负荷 $( 2 , ~ 4 ) \times$ 类别(同类，不同类)的两因素重复测量方差分析，结果发现记忆负荷主效应显著， $F ( 1 , \ 1 7 ) = 1 3 4 . 9 8$ ， $p < 0 . 0 0 1$ ， $\boldsymbol \eta _ { \mathsf { p } } ^ { 2 } =$ 0.46，类别主效应显著， $F ( 1 , \ 1 7 ) = 9 5 . 5 4 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 3 7$ ，记忆负荷和类别的交互作用显著， $F ( 1 , \ 1 7 ) = 5 2 . 7 0$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 6$ 。简单效应分析表明当记忆负荷为2时，同类试次的 $K ( M = 0 . 9 7 , S D = 0 . 2 3 )$ 显著大于不同类试次的 $K ( M = 0 . 8 6 , S D = 0 . 2 4 )$ ， $t ( 1 7 ) =$ 3.62， $p = 0 . 0 0 2$ ，Cohen's $d = 0 . 8 5$ ；当记忆负荷为4时，存在同样的同类别优势效应[同类试次： $M = 1 . 9 5$ ， $S D = 0 . 4 1$ ；不同类试次： $M = 1 . 0 8$ $S D = 0 . 4 0$ ， $t ( 1 7 ) = 8 . 9 0$ ， $p < 0 . 0 0 1$ Cohen's $d = 2 . 1 0 ]$ 。此外，我们分别用记忆负荷为2和4时相同类别的 $K$ 值减去不同类别的$K$ 值，得到同类别优势效应量，并对该效应量进行 $t$ 检验发现，记忆负荷为4时的同类别优势效应量 $\stackrel { \triangledown } { \boldsymbol { M } } = 0 . 8 8$ ， $S D = 0 . 4 2 )$ 显著大于记忆负荷为2时的同类别优势效应量 $( M = 0 . 1 1 , S D$ $= 0 . 1 3 )$ ， $t ( 1 7 ) = 7 . 2 6$ ， $p < 0 . 0 0 1$ ，Cohen's $d { = } 1 . 7 1$ 。该结果与实验1和实验2的结果一致，表明无论记忆负荷是2还是4均存在同类别优势，但记忆负荷为4时，同类别优势效应更大。
+
+![](images/f60f2bbb71d3f5c0c737921a99b734f1246e0013be139f7032c162fd69f3884a.jpg)  
+图6 实验3行为结果 记忆负荷对同类或不同类试次的作用。误差线代表被试内 $9 5 \%$ 的置信区间， $^ { * * } p < 0 . 0 1$
+
+# 4.2.2 CDA结果
+
+对CDA的结果进行记忆负荷(2， $4 ) \times$ 类别(同类，不同类)的两因素重复测量的方差分析，结果发现类别的主效应显著， $F ( 1 , \ 1 7 ) = 3 2 . 1 5$ ， $p < 0 . 0 0 1$ ， $\boldsymbol \eta _ { \mathsf { p } } ^ { 2 } = 0 . 6 5$ ，记忆负荷的主效应不显著， $F ( 1 , \ 1 7 ) = 0 . 4 3$ ， $p = 0 . 5 2 0$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 0 3$ ，记忆负荷和类别的交互作用不显著，$F ( 1 , \ 1 7 ) = 0 . 1 6$ ， $p = 0 . 6 9 7$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 0 1$ 。计划比较(图 7b)表明，当记忆负荷为2时，同类试次 CDA 的平均波幅 $\begin{array} { r } { ( M = - 0 . 7 2 ~ \mu \mathrm { V } , } \end{array}$ （20 $S D = 0 . 6 2 \mathrm { \Omega }$ 显著小于不同类试次 $( M = - 0 . 9 0 \mu \mathrm { V } , S L$ $S D =$ 0.67)， $t ( 1 7 ) = 2 . 5 3$ ， $p = 0 . 0 2 2$ ，Cohen's $d = 0 . 6 0$ 。当记忆负荷为4时，存在同样的效应[同类试次： $M = - 0 . 6 4 ~ \mu \mathrm { V } , S D = 0 . 6 3$ ；不同类试次： $M = - \ 0 . 8 7 \ \mu \mathrm { V } .$ （号 $S D = 0 . 6 2$ ， $t ( 1 7 ) = 3 . 4 3$ ， $p =$ 0.003，Cohen's $d = 0 . 8 1$ l
+
+![](images/be14ec1343d9cbe9ac3f07a3772abb4f387acc386bcce44f524274d1ba510286.jpg)  
+图7(a)记忆负荷为2和4时大脑顶叶(P8/P7、P6/P5、P4/P3)和顶枕(PO8/PO7、PO6/PO5、PO4/PO3)区域对侧减同侧波幅。灰色
+
+线段表示记忆项序列呈现时段。灰色矩形表示CDA 时间窗口。b 图为平均的对侧延迟活动(CDA)波幅。CDA从记忆序列消失后 $4 0 0 ~ \mathrm { { m s } }$ 开始测量，误差线表示 $9 5 \%$ 的置信区间， $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ 。
+
+CDA 结果表明，不论记忆负荷大小，类别信息对CDA的波幅均有影响，使得同类的CDA 的平均波幅小于不同类的CDA的平均波幅。CDA结果与行为结果相结合表明，类别信息可以通过概念组织的方式对同类客体的表征进行压缩，从而扩大视觉工作记忆的总体容量。
+
+# 3总讨论
+
+本研究考察了客体类别信息对视觉工作记忆容量的影响，两个行为实验的结果表明，不论识记项是同时还是序列呈现，动物剪影识记项姿态是高相似还是低相似，与识记项相关的类别信息都可以影响视觉工作记忆容量。具体表现为同类别客体的记忆容量显著大于不同类别客体的记忆容量；ERPs数据显示，与不同类的客体相比，同类别客体引起的CDA 波幅更小。上述研究结果表明，类别信息可以作为一种组织线索，压缩同类客体的表征，从而扩大视觉工作记忆的容量。
+
+本研究结果与理想观察者模型的预测一致，即特征变化越大，记忆精度越差(Sims etal.,2012)。具体而言，识记项的类别关系变化越小，视觉工作记忆的容量越大。除客体之间的类别关系外，最近有研究表明，客体间其它语义和功能关系也会影响视觉工作记忆容量(O'donnell et al.,2018; Rudner et al.,2016)。例如，对语义相关的成对物体(如，高尔夫球杆和高尔夫球，打火机和香烟)的记忆绩效要好于对语义无关的成对物体(如，打火机和高尔夫球，高尔夫球杆和香烟)的记忆绩效。这些发现表明理想观察者模型的预测可以从低层次知觉特征(如颜色和形状)扩展到高层次概念特征(如类别关系)。
+
+当前研究的结果与神经资源理论的预测不一致。根据神经资源理论，不同类客体对应的不重叠神经资源更多，应该能提高视觉工作记忆容量而不是起到干扰作用(Cohen et al.,2014)。导致这种不一致的原因可能有两个。首先，神经资源理论的适用性存在局限。多项研究表明，混合类别的优势只存在于人脸刺激(Jiang,Lee,et al.,2016;Wong et al.,2008)。此外，当采用具有详细信息的人造客体(如家具和乐器)作为记忆项时，没有观察到类别对视觉工作记忆的影响(Quinlan&Cohen,2016)。其次，在本研究中，与支持神经资源理论的研究(Cohen et al.,2014; Jiang,Lee,et al.,2016; Wong et al.,2008)相比，本研究有如下两项不同：(1)本研究使用剪影而不是带有细节信息的真实客体作为记忆项，排除了细节信息对记忆容量的可能影响；(2)本研究没有使用人脸刺激，因为人脸作为一种特殊的客体在视觉工作记忆中拥有独特的加工优势(Curby&Gauthier, 2007)。当然对细节信息的记忆也是工作记忆非常重要的方面。细节信息的有无可能会调控观察者在工作记忆任务中关注的是整体还是细节。例如，如果识记项存在细节信息，那么观察者可能关注细节，产生混合类别优势；而如果识记项不存在细节信息，那么观察者可能关注整体，产生同类别优势。因此本研究结论的适用范围也可能存在一定局限。未来的研究可以继续探讨细节信息对视觉工作记忆容量及类别效应的影响。
+
+类别信息是如何扩大视觉工作记忆容量的呢？本研究表明，类别信息可以作为一种组织线索来整合同类客体的表征，从而扩大视觉工作记忆的容量。容量有限是工作记忆的核心特征(Bays& Husain,2008;Cowan,2001; Luck& Vogel,2013)，解决这一限制的一种方法是将几个特征绑定或组织到一个整体表征中。格式塔原则如相似性(Gao et al., 2011;Peterson et al.,2015)和共同命运(Luria& Vogel,2014)都可以通过组织过程影响视觉工作记忆容量。Gao 等人(2011)发现4个相同颜色的方形能够被整合到一个表征，从而使4个相同颜色的方形与一个方形的CDA没有差异，二者的CDA均低于4个独特颜色的方形。就共同命运而言，共同运动的客体也会被组织成一个整体的表征(Luria&Vogel,2014)。此外，还有其他非知觉因素，例如客体之间的语义和功能关系(O'donnell et al.,2018)和现实世界的规律(Kaiser etal.,2014,2015)，均可以作为视觉工作记忆中客体组织的方式。本研究的结果表明，客体之间的类别关系也可以作为一种在视觉工作记忆中对客体进行组织的方式。
+
+基于知觉相似性的组织和基于来自长时记忆中的类别信息的组织有何不同呢?Brady等人(2011)提出的工作记忆的层级理论认为，工作记忆表征存在层级，包括低层次的特征表征、客体表征和整合表征。此外，这些表征还受到长时记忆信息的影响。知觉相似性属于低层次的表征方式，能影响工作记忆的编码阶段。相似的客体能够整合成一个整体进行编码，进而促进记忆表征(Brady& Tenenbaum,2013)。研究表明，当记忆项数量增加时，高相似客体引发的CDA 波幅增加，低相似客体引发的CDA 波幅不增加；当记忆项目数量相同时，高相似客体的 CDA 波幅低于低相似客体(Zhang et al.,2015)。也就是说，个体倾向于将相似客体通过组织的方式进行整合表征，降低记忆负荷，进而扩大记忆容量。此外，存储在长时记忆中的信息，可以为当前的工作记忆表征提供编码模型。这一编码模型由多个特征维度构成，包括知觉特征和特定类别的概念特征；在编码同类信息时，已有的编码模型可以促进对同类别客体的编码(Brady etal.,2011)。例如，近来有研究表明来自长时记忆中的语义和功能关系可以通过组织的方式扩大视觉工作记忆容量(O'donnell et al.,2018;Rudner etal.,2016)。我们的实验结果更加明确地支持了这种类别编码模型解释，三个实验的行为结果均表明类别信息可以扩大工作记忆保持信息的容量，并且脑电结果表明同类别客体诱发的CDA波幅比混合类别客体诱发的CDA波幅低，进一步说明同类别优势效应是通过类似知觉组织的方式实现的。总之，基于知觉相似性的组织和基于来自长时记忆中的类别的组织在认知神经机制方面存在诸多相似之处，两者的差异主要来自于是否有长时记忆信息的帮助。而来自长时记忆的类别信息对工作记忆容量调控的神经基础还有待于进一步的探索。
+
+记忆负荷对三个实验的行为结果均有影响，但在CDA结果中该影响消失。这种差异可能是由于当使用动物剪影等复杂客体作为记忆项时，视觉工作记忆容量会降低。一般来说，当使用简单的刺激(例如，圆形和正方形)作为记忆项时，视觉工作记忆容量大概有 3到4个。然而，大量研究表明记忆项的复杂性会降低视觉工作记忆的容量。Gao 等人(2009)以CDA 波幅作为视觉工作记忆容量的指标，发现视觉工作记忆容量不是固定的，而会受到识记项复杂性的影响。当记忆复杂多边形时，记忆负荷从2个增加到4个，CDA 波幅不会随之增加；而当记忆简单特征客体时，记忆负荷从2个增加到4个，CDA 波幅会随之增加。还有研究者(Luria etal.,2010）发现两个随机多边形就能使视觉工作记忆容量趋于饱和。因此，即便动物剪影相对于真实动物图片已经做了尽可能多的简化，然而动物剪影仍属于复杂客体而不是简单特征客体，所以视觉工作记忆的容量也可能被两个动物的剪影信息就占满。如图3和4所示，实验1和实验2中的记忆负荷效应主要是由于在同类别记忆负荷为4时视觉工作记忆容量比同类别(或不同类别)记忆负荷为2时更大引起的(实验1：通过在相同类别和不同类别两条件下，分别用记忆负荷为4时工作记忆容量减去记忆负荷为2时的工作记忆容量计算得到记忆负荷效应量，对两种条件下记忆负荷效应量配对 $\mathbf { \chi } _ { t }$ 检验发现同类别条件下的记忆负荷效应量显著大于不同类别条件下的记忆负荷效应量，$t ( 1 9 ) = 5 . 9 1$ ， $p < 0 . 0 0 1$ ，Cohen's $d = 1 . 3 2$ ；实验2：同样发现同类别条件下的记忆负荷效应量显著大于不同类别条件下的记忆负荷效应量， $t ( 1 9 ) = 7 . 8 3$ ， $p < 0 . 0 0 1$ ，Cohen's $d =$ 1.75)。但是，如上所述，这种容量增加效应主要是通过对同类客体加以组织引起的。CDA的结果显示，不论呈现2个还是4个项目，在视觉工作记忆中存储的单元数量相同，但当记忆负荷为4时，每个单元内压缩的信息更多，这可以解释三个实验的行为结果均出现记忆负荷效应而CDA 结果中没有出现记忆负荷效应的矛盾。此外，由于动物剪影不再属于具有纹理、斑点、彩色等细节信息的真实客体，因此其在工作记忆中的存储容量也与以往研究发现的真实客体的存储容量(Brady etal.,2016)相较于简单客体的存储容量有所增加不同，即动物轮廓并未像具有细节信息的真实客体一样容量有显著提高。
+
+行为实验的结果表明记忆负荷不仅可以调节类别信息对工作记忆容量的影响，还可以调节姿态相似性对工作记忆容量的影响。之于前一种影响，三个实验的行为结果均表明记忆负荷为4时的同类别优势效应均显著大于记忆负荷为2时的同类别优势效应。这可能是因为记忆负荷为2时不管基于类别的组织有没有发生，工作记忆的容量基本够用，所以同类别优势效应较小；而当记忆负荷为4时，记忆负荷已经超过工作记忆的容量，只有通过基于类别的组织来降低对有限工作记忆容量的占用才能将更多的识记项保存在工作记忆中，即只有识记项在组织前超过工作记忆容量时组织后基于类别的组织效应才能更好的表现出来。之于记忆负荷对姿态相似性效应的影响，实验1和实验2的结果均显示，当记忆负荷为2时，姿态相似性对容量有抑制效果，而当记忆负荷为4时，姿态相似性对容量有促进效果。这可能是由于当记忆项目数量为2时，工作记忆资源充足，根据工作记忆的层级理论(Bradyetal.,2011)，个体不但会对每个项目进行客体水平的表征还会进行特征水平的表征。在姿态相似的条件下，识记项会消耗容量资源对每个项目的特征进行精细的加工，且相似的特征还会相互干扰，因而工作记忆容量会降低。而在姿态不相似的条件下，记忆项特征差异较大，易于进行特征表征，且相互之间来自特征的干扰较小，因而工作记忆容量相对于姿态相似条件会升高。因此，在记忆负荷为2时，姿态相似对容量总体表现出抑制效果。而当记忆项数量为4时，工作记忆资源无法满足对每个记忆项进行客体水平的表征，个体倾向于对项目进行整体表征，姿态的相似性能够促进整体表征(Son et al.,2020)。因此，在记忆负荷为4时，姿态相似性对工作记忆容量的总体影响表现为促进效果。记忆负荷对类别效应和姿态相似性效应的不同调节，也反映出类别信息和知觉相似性对工作记忆容量影响机制存在不同之处。
+
+综上所述，该研究证实了视觉工作记忆容量的同类别优势效应，这表明客体的类别关系可以通过将相同类别的客体加以组织的方式来扩大视觉工作记忆容量。同时说明视觉工作记忆的容量不是固定的，而是可以灵活地变化。如何变化取决于何种类型的信息被识记。此外，该研究进一步表明理想观察者模型的预测可以从低水平的知觉特征拓展到高水平的概念特征。
+
+# 参考文献
+
+Alen,R.J,ddeleichGJ).sgialurkingroudeadalf ExperimentalPsychology:General,135,298-313.doi:10.1037/0096-3445.135.2.298   
+Alvarez,G.A,&Cavanagh,P.(o4).Theapacityofvisualshorttemmemoryissothbyisualiformationladandbyberf objects.Psychological Science,15(2),106-111. https://doi.org/10.111/j.0963-7214.2004.01502006.x   
+Atkinson,A.yE.ten.dey.hGJn()eiplet attentionin workingmemor?AnnalsoftheNewYorkAcademofScences1424,115-126.htps://i.org/1.111yas.634.   
+Awh,E.,Barton,,Vogel,E.K. ().Visaloringemoryepresntsaedumbrofiteegadlesofoleity Psychological Science,18(7),622-628. https:/oi.org/10.1111/j.1467-9280.2007.01949.x   
+Bays,P.M.,&Husain,M.(oo8).Dynamicshiftsoflimited workingmemoryresourcesinumanvision.Science(NewYok,N.Y), 321(5890),851-854. https://doi.org/10.1126/science.1158023   
+Braci,S.,&eeck,H.oe.(6).oiatiosndssociatiostwensaeadcategorypreentatiosinttsal pathways.The Journalof Neuroscience $\therefore$ the Official Journal of the Society for Neuroscience,36(2),432-444. https://doi.0rg/10.1523/JNEUROSCL.2314-15.2016   
+BradyT.F.,&vare,G.A.(l).Nvdenceforafiedectlitirkingmemory:Spatilesemblerepresetatiosfate estimatesofworkingmemorycapacityforcomplexobjects.JournalofExperimentalPsychology:Learning,MemoryandCognition 41(3),921-929.https://doi.org/10.1037/xlm0000075   
+Brady,T.F.,Konkle,TazG.A.(o).Cmpesinaloinmeory:Usgtaistialuritst efficientmemoyepresetatios.Joualfprimentalcolog:eal,38(4),870.htp/oog/16797   
+Brady,T.F.,Konkle,T,&varez,G.A.(ol1).AreviewofisualmemorcapacityBeyondindvidualitemsandtowardtructured representations.JournalofVision,11(5),:4,1-34. https:/doi.org/10.167/11.5.4   
+Brady,T.F.,Stoer,V.S.,&lvarezG.A. (16).Workingmemryisnotfied-capacity:oreactivestoragecapacityforeal-world objects thanforsimplestimuli.ProcedingsoftheNationalAcademyofSciencesofthe UnitedStatesofAmerica,l13(2)7459 7464. htps://doi.org/10.1073/pnas.1520027113   
+Brady,T.F.,&Tnenbaum,J.B.(0l3).Aprobabilisticodelofvisalworingmemory:Icorporatingigherorderregularitiinto workingmemorycapacity estimates.Psychological Review,120(1),85-109.https:/doi.org/10.1037/a0030779   
+Cohen,M.A.ole,T,,J.Y,K,azGA.).roesgultilevalectsisited meuralchannels.ProceedingsoftheNationalAcademyofSciencesoftheUnitedStatesofAmerica,l(24),955-8960
+
+https://doi.org/10.1073/pnas.1317860111
+
+Cowan,N.(2ool).Themagicalnumber4inshort memory:Areconsiderationofmentalstoragecapacity.Behavioraland Brain Sciences,24(1),87-114. htps://oi.org/10.1017/S0140525X01003922 Curby,K.M.,uer,I.().salsortemoyaagfc.yooci&vie4(),8. https://doi.0rg/10.3758/BF03196811 Delorme,A.,&Makeig,S.(4).EEGLAB:Anopensource tlboxfoanalysisofsinge-tralEEGdynamcs icludingidepedet componentanalysis.Journalof Neuroscience Methods,134(1),9-21.htps://doi.org/10.1016/j.jneumeth.203.10.009 Ding,X.,Zhao,Y.,Wu,F.,Lu,X.,Gao,Z.,&hen,M..(ol).Bindingbiologicalmotionandvisualeaturesinworkingmor JournalofExperimentalPsychology:HumanPerceptionandPerformance,41(3),85865.hps:/doiorg/00/xh1 Son,G.,Oh,B.-Kang,M.-.,og,S.C.().iilaritybasedutersarereprestatioalitsofsalokigr JoumalofExperimentalPsychology:Learing,MemoryandCognition,46(1),46-59.hps://do.org/10.037/xl722 Gao,Z.,Gao,Q.,Tang,N,Shui,R.,&hen,M.(16).Organzatioprinciples invisual working memory:evidencefromsutial stimulus display.Cognition,146,277-288.https://doi.org/10.1016/j.cognition.2015.10.005 Gao,Z.,Li,J,ing,Jen,Hin,J,&en,.(o).tongfdetaldiftiisalwokngemoide fromevent-related potentials.Journal of Vision,9(7),17. https://doi.org/10.1167/9.7.17 Gao,Z.,Xu,Xnn,,,.(1).oralatelelactivitracsecidtitftial short term memory. Brain Research,1406,30-42. https://doi.org/10.1016/j.brainres.2011.06.049 Jiang,Y.V.,L,HJad,A,to,.(6).ittsaoiglvie   
+23(2),476-482.https://doi.org/10.3758/s13423-015-0905-5 Jiang,Y.V.,Rington,.Wsaad,A,Lee,H.J,also,T.C.(6).memberigfacandscenes:eieategor advantage invisualworkingmemory.JournalofExperimentalsychology:HumnPereptionandPerformance,42(9),399411. https://doi.org/10.1037/xhp0000228 Kaiser,D.,Stein,T.,&Peelen,M.V.(014).Objectgroupingbasedoreal-worldregularitiesfacilitatesperceptionbyrducing competitiveinteractiosivisualcortex.ProceedingsoftheNatioalAcademyofSiencesoftheUnitedStatesofAmerica(),   
+11217-1122. https://doi.org/10.1073/pnas.1400559111 Kaiser,D.,Stein,T.,&Pelen,M.V.(O15).Real-worldspatialregularitiesectvisalworkingmemoryforbects.Psyoomic Bulletin&Review,22(6),1784-1790.htps://doi.org/10.3758/s13423-015-0833-4 Kang,M.-S.,& Woodman,G.F.(o14).The neurophysiologicalindexofvisualworking memorymaintenanceisnotduetoload
+
+spendent eye movements.Neuropsychologia,56,63-72.htps://doi.org/10.1016/j.neuropsychologia.2013.12.02
+
+LinP.-H,&uk,.J.).eefslityaoigpeasslgo). https://doi.0rg/10.1080/13506280701766313   
+Lopez-Caldero,J,&Luck,S.J.(O14).ERPLAB:Anpen-souretoboxforthenalsisofevent-relatedpotentials.Frotsin Human Neuroscience,8(1),213.htps://doi.org/10.3389/fnhum.2014.00213   
+Luck,S.J.,&Vgel,EK.(1997).eapacityofisalokingmemoryforeaturesadcojuctios.Nature9(1. https://doi.0rg/10.1038/36846   
+Luck,S.J.,&Vogel,E.K.(ol3).Visalworkingmemorycapacity:Frompschophicsandnurobiologytodividuaderece. Trends in Cognitive Sciences,17(8),391-400.https://doi.org/10.1016/j.tics.2013.06.006   
+Luria,R.,Balaban,H,AwhE,&Vogel,E.K.(1).ecotralatealdelactivityeualmeasureosualwokingr Neuroscience and Biobehavioral Reviews,62,100-108.https://doi.org/10.1016/j.neubiorev.2016.01.003   
+Luria,R.esa,Pote.uP,ea,R.().Vatyacitfledoleet. Journal of Cognitive Neuroscience,22(3),496-512. htps://doi.org/10.1162/jocn.2009.21214   
+Luria,R.,&Voel,E.K(4).Cometogethghoaiceitigfect'sstortougoonfate.ualf Cognitive Neuroscience,26(8),1819-1828. https://doi.org/10.1162/jocn_a_00584   
+Mate,J.,&Bqs,J.)VisalilaitytcongdrealincogitaskQuarterlyualxptal psychology (2006),62(7),1277-1284. htps://doi.org/10.1080/17470210802680769   
+McCollugh,A.Wchawa,.G,&Vogel,E.K.().ElectrohsiologicaleasuresofintaiingRepresetatioiVisal Working Memory. Cortex,43(1),77-94. htps://doi.0rg/10.1016/S0010-9452(08)70447-7   
+O'Donnel,.E,mnt,A.,&rockmole,J.(1).manticductioalelaionsiogectseastacityf visual working memory.JournalofExperimentalPsychology:Learning,Memory,ndCognition.44(7),51-158. https://doi.org/10.1037/xlm0000508   
+Peirce,J.W.(20o7).PsychoPy--PsychophysicssoftwareinPython.Journalof Neuroscience Methods,162(1-2),8-13. https://doi.org/10.1016/j.jneumeth.2006.11.017   
+Peterson,D.J,Gzean,F,riea,H,yhill,.E.(5).Cotralatraldecivitytrackstifuecetalt grouping principlesoctivevisualworkingmemoryepresetatios.Aention,erception&syhopsis,7(),28. https://doi.0rg/10.3758/s13414-015-0929-y   
+QiS.DigC,).etfollalcg anxiety.Cognitive,Affective&BehavioralNeurosience,14(1),253-265.htps:/di.org/10.3758/s13415-01-020-5 Quinlan,P.T.,&CohnD.J.(6).eprecategoricalnatureofisalsort-tememoryJoualofxperimentalsyhology: Learning,Memory,and Cognition,42(11),1694-1712. https://doi.org/10.1037/xlm0000274 Rudner,M.,fduEdin,Vk,C.ol,rg,J.(6).eisigmticestati workingmemoryperformanceinthevisuospatialdomain.Memory&Cognition,44(4)60862.hps:/doorg/10.3758/s3421-   
+016-0585-z Sims,C.R.Jacob,.A.,&KnilD.C.().AdealbseeralysisofsalokingmemoryyhologicalRevie(4),   
+807-830. htps://doi.org/10.1037/a0029856 Song,J.-H.,&Jang,Y.(6).Visualworking memoryforimpleandcomplexfeatures:Anfstudy.Neuromage,30(3),963-972. https://doi.org/10.1016/j.neuroimage.2005.10.006 Vogel,E.K.,&cawa.G.(4).ralciityredictsdidalreceialokingeoraacityture,   
+428(6984),748-751.https://doi.org/10.1038/nature02447 Vogel,E.K.,cologh.,c,.G.().aleareeliuaeitoic working memory. Nature,438(7067),500-503.https://doi.org/10.1038/nature04171 Vogel,E.K.ocucstsoiof ExperimentalPsychology:HumanerceptionandPerformance,27(1),92-114.tps://oiorg/10.037//06-52.7..92 Westfall,J.():owealyisfgenaesis.Unpubsedmansttreedrotp/eestl. org/publications/pangea.pdf Williams,M.,&Woodman,G.F.(012).Directed forgetinganddirectedremembering invisualworkingmemory.Journalof ExperimentalPsychology:Learning,MemoryndCognition,38(5),1206-1220.htps://doiorg/10.103/0027389 Wong,J.Hteso,..,oo,J..).Valoingoyacictsfrotaegosc specific maintenance effect.Cognition,108(3),719-731.htps://doi.org/10.1016/j.cognition.2008.06.006 Zhang,Q.,Li,S.,Wang,X,&Che,X.(l5).eefectsofdrectiosiilarityinisualworkingmemory:ehavouraldevet related potential studies. Quarterly Journal of Experimental Psychology,69(9),1812-1830. https://doi.0rg/10.1080/17470218.2015.1100206
+
+# Same-Category Advantage on the Capacity of Visual Working Memory
+
+SUN Yanliang1, SONG Jiaru1, XIN Xiaowen²,DING Xiaowei³, LI Shouxin1 (1 School of Psychology, Shandong Normal University, Jinan 250358, China) (2 Department of Party Committee Student Affairs, China University of Petroleum, Qingdao 266580, China) (3 Department of Psychology, Sun Yat-Sen University, Guangzhou 510006, China)
+
+# Abstract
+
+Visual working memory (VWM) is a limited-capacity cognitive system that is responsible for temporarily storing up to three or four items, maintaining their availability for current cognitive processing. Although VWM capacity is limited, the limit is not fixed. Factors such as the complexity, statistical regularity, real-world spatial regularity, and perceptual grouping principles of memory objects can modulate this capacity. However, the potential influence of higher-order conceptual regularities, such as categorical relationships among memory objects, remains an open and controversial issue. The effect of object category on VWM capacity, if any, has two possibilities: a mixed-category advantage and a same-category advantage. The first is consistent with the neural resource theory, by which the ability to simultaneously process multiple items is limited by the extent to which those items are represented by nonoverlapping neural representations.The same-category advantage is consistent with a prediction yielded by an idealobserver analysis of VWM, based on the rate-distortion theory. Although the mixed-category advantage is predicted by the neural resource theory, almost all current supporting evidence solely involves faces. On the other hand, although the same-category advantage is consistent with the ideal-observer prediction, there is stillack of direct evidence to support the generalization of this prediction from low-level to high-level features. Hence, in the present study, we used behavioral and electrophysiological methods to explore this issue.
+
+Here,we report two behavioral experiments and one event-related-potentials (ERPs) experiment that assess whether category knowledge aects VWM capacity. The experiments were carried out on 6O undergraduate students.
+
+A 2 (memory load: two or four) $\times \ 2$ (category: same or different) $\times \ 2$ (posture: high similar or low similar) within-subject design was used in this experiment 1.The results showed that category knowledge modulates the capacity of the VWM and leads to a same-category advantage.
+
+In experiment2, we changed the presentation of MIs from simultaneous to successive and replicated the findings from Experiment 1, demonstrating that category knowledge leads to larger memory capacity in the same-category rather than in the different-category condition, even if the MIs are sequentially presented.
+
+In Experiment 3, in addition to Cowan's K, the electrophysiological index CDA was measured to further explore the processng mechanism underlying the same-category advantage. Our electrophysiology results show for the first time that same-category objects can induce a smaller contralateral delay activity (an index of VWM capacity) than different-category objects. The CDA results combined with behavioral results indicated that category knowledge can help compact the representations of same-category objects and therefore enlarge the total information capacity of VWM.
+
+In conclusion, our data clearly demonstrate an advantageous same-category effect on the capacity of VWM, which indicates that categorical relationships among objects play an important role in expanding the capacity of VWMby enabling the grouping of same-category objects. This suggests that VWM capacity is not fixed but can be flexible depending on the type of information to be remembered.Moreover, our data also suggest that the ideal-observer prediction can be extended from low-level to high-level features.
+
+Keywords visual working memory, category information, contralateral delay activity

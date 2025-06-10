@@ -1,0 +1,322 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "比索洛尔预处理对缺氧/复氧诱导的 $\\mathbf { H 9 6 2 }$ 细胞损伤的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "习明明'，刘 晶²,谢 亮²,宫剑滨²  \n1泰州市人民医院内科,江苏泰州 225300;2南京大学医学院附属金陵医院(南京军区南京总医院)心脏内科，  \n江苏 南京 210002",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的研究比索洛尔预处理对缺氧/复氧诱导的大鼠心肌细胞损伤的保护作用，并探讨该作用的机制。方法对大鼠心肌细胞株(H9c2)进行缺氧复氧 $( 6 \\mathrm { h } / 2 \\mathrm { h } )$ ),模拟大鼠心肌缺血再灌注损伤模型,将H9c2细胞随机分成4组：正常对照组(control组）缺氧/复氧组(H/R组）缺氧/复氧 $_ { + }$ 比索洛尔预处理组( $\\mathrm { \\cdot H / R } { + } \\mathrm { B }$ 组）缺氧/复氧 $_ { + }$ 比索洛尔预处理 $+$ PI3K/AKT阻滞剂LY294002组(H/$_ { \\mathrm { R + B + L Y } }$ 组);分别采用MTT法检测心肌细胞活力,流式细胞仪法检测心肌细胞凋亡、ROS水平,Westem免疫印迹法检测心肌细胞p-AKT及p-GSK3β蛋白表达情况。结果与正常组相比,H/R组细胞活力下降,细胞凋亡率增加、ROS水平升高;经比索洛尔预处理后,细胞活力明显提高,细胞凋亡率下降、活性氧水平降低,p-AKT/GAPDH、p-GSK3β/GAPDGH显著提高,而加入PI3K/AKT阻滞剂LY294002后比索洛尔的保护作用消失。结论比索洛尔能减少缺氧/复氧所引起的氧化应激，对心肌细胞具有明显的保护作用,其作用机制是通过激活PI3K/AKT/GSK3β通路而提高AKT、GSK3β磷酸化水平,减少ROS产生,增加细胞的活性实现的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：比索洛尔;缺氧/复氧损伤;H9c2;心肌保护;PI3K/AKT;GSK3β ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of bisoprolol pretreatment on hypoxia/reoxygenation-induced injury in H9c2 cardiomyocytes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XI Mingming,LIU Jing,XIE Liang²,GONG Jianbin Departmntdesialaemgia University SchoolofMedicine/Nanjing General HospitalofNanjingMilitaryCommand,Nanjing 2oo0China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToinvestigated the efects ofbisoprolol pretreatmentonhypoxia/reoxygenation (H/R)-induced njuryin H9c2 cardiomyocytes. Methods Cultured H9c2 cells were exposed to hypoxia for $6 \\mathrm { { h } }$ followed by reoxygenation for $^ { 2 \\mathrm { h } }$ with or without pretreatments with bisoprolol or bisoprolol $^ +$ LY294002. The cell survival was measured by MTT assay, and the cell apoptosisand levels of radical oxygen species (ROS)were evaluated with flowcytometry.Theprotein levels of phosphyorylated AKT and phosphorylated GSK3β in the cells were determined by Western blotting. Results Compared with thenormalcontrolcels，tecellsexposed toH/R injuryshowed significantlydecreasedcellsurvivaland increasedcell apoptosis andROS production; pretreatmentof thecels withbisoprolol significantly decreased thecellapoptoticrates and ROS production and obviously enhanced the cell survival and protein levels of p-AKT and $\\mathrm { { \\tt ~ p } }$ GSK3β in the exposed cells. The protective effctofbsioprololaganstH/R-induced cellinjurywassignificantlyattenuatedbyY29402.ConclusionBisoprolol can protect H9c2 cells against $\\mathrm { H } / \\mathrm { R }$ -induced injury and oxidative stress by activating PI3K/AKT/Gsk-3β pathway to increase the phosphorylation of AKT and $_ \\mathrm { G S K } 3 \\beta$ and reduce ROS production. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: bisoprolol; hypoxia/reoxygenation injury; H9c2; myocardial protection; PI3K/AKT; GSK3β ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "再灌注治疗是急性心肌梗死最为有效的治疗手段，随着冠状动脉搭桥术(CABG）、经皮冠状动脉成形术(PTCA)等血管再通术的迅速开展，急性心肌梗死(AMI)的再灌注治疗出现了一个飞跃。但是，开通的罪犯血管带来的血液再灌注本身亦可以造成心肌细胞损伤，称为心肌缺血再灌注损伤(myocardialischemia-reperfusion injury,MIRI)[2]。心肌缺血再灌注过程中，再灌注损伤挽救激酶信号通路(RISK)被激活，包括磷脂酰肌醇-3激酶(PI3K）蛋白激酶B(PKB，又称AKT）、内皮一氧化氮合成酶(eNOS）、ERK1/2、PKC、JAK-STAT3等。其中PI3K/AKT和其下游的GSK-3β信号通路是心肌缺血再灌注损伤信号传递的重要通路，具有很多保护性的调控作用4。心肌缺血再灌注过程中，心肌细胞表面β受体大量表达，尤其是β1受体的激活会引起心肌细胞胞内ROS产生增多、心肌细胞大量凋亡[5。比索洛尔是一种高选择性的β1受体阻滞剂，它可以特异性阻断缺血再灌注过程中β1受体的激活，降低交感神经活性，从而发挥其抗氧化和凋亡作用[。研究表明，STEMI发病6h内行直接PCI治疗前静脉应用美托洛尔明显缩小梗死面积，提升左室射血分数，而不增加不良事件[7-8]。近期又有研究表明,AMI后早期应用β受体阻滞剂并不能改善患者后期心脏功能[9-10]。因此本实验通过建立心肌细胞缺氧/复氧模型，模拟心肌缺血再灌注损伤，探讨β受体阻滞剂预处理对心肌缺血再灌注损伤的保护作用，并运用特异性PI3K/AKT通道抑制剂LY294002探究β1受体阻断发挥作用与PI3K/AKT/GSK-3β通路的关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "H9c2心肌细胞(美国ATCC细胞库）；SDS-PAGE电泳液(碧云天)；BCA试剂盒(碧云天);DMEM高糖培养基(GibcoBRL);胎牛血清(GibcoBRL);SDS裂解液(碧云天)；比索洛尔(大连美仑生物技术公司);MTT(南京萌邦生物），AnnerxinVFITC细胞凋亡检测试剂盒(Biouniquer公司);活性氧检测试剂盒(碧云天)；兔抗大鼠磷酸化AKT抗体(p-AKT Ser473)(Cell signalingTechnology）;兔抗大鼠磷酸化抗体(p-GSK3β)(CellsignalingTechnology);GAPDH(1A6)单克隆抗体-HRP（南京巴奥德生物)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1H9c2细胞系培养将 $\\mathrm { H } 9 \\mathrm { c } 2$ 细胞接种于 $2 5 ~ \\mathrm { m L }$ 培养瓶中，用含 $10 \\%$ 胎牛血清的高糖DMEM培养基，$3 7 \\ \\%$ $\\mathrm { C O } _ { 2 }$ 培养箱( $9 5 \\%$ 空气)中培养,待细胞生长融合至 $80 \\%$ 左右用 $0 . 2 5 \\%$ 胰酶消化传代1次，分别接种于96孔或6孔培养板中，取对数生长期细胞进行实验",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2细胞缺氧/复氧(Hypoxia/Reoxygenation,H/R)模型的构建建模前预先将三气培养箱参数调至： $3 7 \\ \\mathrm { { ^ circ C } }$ $9 4 \\% \\mathrm { N } _ { 2 } . 5 \\% \\mathrm { C O } _ { 2 } \\mathrm { , } 1 \\% \\mathrm { O } _ { 2 }$ 状态。参照文献],配置改进缺氧液 $\\mathrm { ( N a H _ { 2 } P O _ { 4 } 2 . 6 \\ m m o l / L , N a H C O _ { 3 } 2 6 . 2 \\ m m o l / L , C a C l _ { 2 } }$ $1 . 8 \\ \\mathrm { m m o l / L }$ 、 $\\mathrm { M g S O _ { 4 } 0 . 8 }$ mmol/L、HEPES 20.1 mmol/L、$\\mathrm { N a C l ~ 1 1 6 . 4 ~ m m o l / L . K C l ~ 5 . 4 ~ m m o l / L } )$ ,将细胞板内正常培养液换成等量的缺氧液后，把细胞培养板换至三气培养箱中 $( 9 4 \\% \\mathrm { N } _ { 2 } . 5 \\% \\mathrm { C O } _ { 2 } . 1 \\% \\mathrm { O } _ { 2 } )$ 进行缺氧 $6 \\mathrm { { h } }$ 处理，后再将缺氧液换成新鲜的 $10 \\%$ FBSDMEM溶液，在正常培养条件下，复氧 $2 \\mathrm { h } _ { \\odot }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3实验分组将正常培养的H9c2细胞随机分成4组：正常培养组(control组)： $3 7 ~ \\mathrm { ^ { 9 } C } \\cdot 5 \\% ~ \\mathbf { C O } _ { 2 } . 9 5 \\%$ 空气培养箱中正常培养;缺氧/复氧组(H/R组)：按照上述构建模型；缺氧/复氧 $\\cdot ^ { + }$ 比索洛尔组 $\\mathrm { \\cdot H / R } { + } \\mathrm { B }$ 组)：于缺氧前 $3 0 \\mathrm { m i n }$ 在无血清培养基中加入终浓度为 $2 \\mu \\mathrm { m o l } / \\mathrm { L }$ 的比索洛尔构建模型；缺氧/复氧 $_ { i + }$ 比索洛尔组 $. +$ PI3K/AKT特异性阻断剂LY294002组 $\\mathrm { ( H / R + B / \\mathrm { { L Y } } }$ 组)：缺氧前1h在无血清培养基中加入 $2 5 ~ \\mathrm { \\textmu m o l { L } }$ LY294002余后处理同 $\\mathrm { H } / \\mathrm { \\Omega }$ $\\scriptstyle \\mathrm { R + B }$ 组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4MTT法测定H9c2细胞活力将细胞接种于96孔培养板中，待细胞生长状态良好、融合至 $80 \\%$ 左右随机按实验分组处理,每孔中加入 $2 0 \\mu \\mathrm { L M T T } ( 5 \\mu \\mathrm { g / m L } )$ ，继续培养 $^ \\textrm { \\scriptsize 4 h }$ 后，轻轻弃去上层液体，每孔中加入$\\mathrm { D M S O 1 0 0 ~ \\textmu L }$ ，,振荡 $1 0 \\mathrm { m i n }$ 后，采用多功能酶标仪检测各孔中吸光度 $A$ 值(检测波长 $5 7 0 ~ \\mathrm { n m }$ )。细胞活力 $\\ c =$ （对照组A值-实验组 $A$ 值)对照组A值 $\\dot { \\times } 1 0 0 \\%$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5AnnexinV-FITC/PI双标法及流式细胞仪检测细胞凋亡取处理过的各组6孔培养板细胞，先将其上层培养液分别收集于 $1 . 5 ~ \\mathrm { m L }$ EP管中，用 $0 . 2 5 \\%$ 的胰酶消化贴壁细胞,并收集于对应的EP管中， $4 \\mathrm { \\ : ^ { \\circ } C \\ : , 1 0 0 0 \\ : r / m i n }$ 离心 $5 \\mathrm { m i n }$ ，然后用预冷的PBS洗涤细胞1次，用 $1 9 5 ~ \\mu \\mathrm { L }$ AnnexinV-FITC结合液轻轻重悬细胞。各样品分别加入 ${ 5 \\mu \\mathrm { L } }$ AnnexinV-FITC,轻轻混匀,再加入 ${ 5 \\mu \\mathrm { L } }$ PI,用铝箔包裹样品，避光室温反应 $2 0 \\mathrm { m i n }$ ,置于冰浴中，随即进行检测。经流式细胞仪分析结果判断：左下象限B3显示活细胞(FITC/PI);左上象限B1显示死亡细胞；右上象限B2显示晚期凋亡细胞；右下象限B4显示早期凋亡细胞,凋亡率 $\\scriptstyle \\mathtt { \\backslash = B 2 + B 4 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.6荧光探针法及流式细胞仪检测细胞活性氧(ROS)水平取处理过的各组6孔培养板，轻轻吸去培养基后，用PBS清洗1次，加入按1:1000无血清培养液稀释的DCFH-DA1mL,37C细胞培养箱内孵育 $2 0 ~ \\mathrm { m i n }$ 再用预冷的PBS轻轻洗涤细胞3次，用 $0 . 2 5 \\%$ EDTA胰酶消化贴壁细胞，终止消化，收集于 $1 . 5 ~ \\mathrm { m L }$ EP管中， $4 \\mathrm { ^ { \\circ } C } \\mathrm { , 1 0 0 0 \\mathrm { \\ r / m i n } }$ 离心,吸去上清液后,洗涤1次，在用 $2 0 0 ~ \\mu \\mathrm { L }$ PBS缓冲液重悬细胞，随即用流式细胞仪进行检测（激发波长 $5 2 5 ~ \\mathrm { n m }$ 发射波长 $4 8 8 ~ \\mathrm { n m }$ 各组细胞阳性率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.7Westernblotting检测蛋白表达水平取各组处理后的6孔板 $\\mathrm { H } 9 \\mathrm { c } 2$ 细胞，以预冷的PBS洗涤3次后加入${ 8 0 \\mu \\mathrm { L } }$ 含PMSF的细胞裂解液（按1:100稀释，使用前$5 ~ \\mathrm { m i n }$ 配置)，进行蛋白定量，加入上样缓冲液，放入$1 0 0 \\mathrm { { ^ { \\circ } C } }$ 水浴中煮沸 $5 \\mathrm { m i n }$ ，使蛋白变性;配置好 $10 \\%$ 的分离胶和 $5 \\%$ 的浓缩胶后，进行上样，电泳完成后再用$3 0 0 ~ \\mathrm { { m A } }$ 恒定电流进行转膜 $9 0 ~ \\mathrm { m i n }$ ,封闭1h,继续孵一抗过夜，TBST缓冲液清洗3次后，孵二抗1h,再次用TBST清洗3次，化学发光仪进行检测。用UVP软件分析照片中蛋白的吸光度值A值，以靶蛋白A值/GAPDHA值的比值反映靶蛋白相对水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Westernblotting结果采用单因素方差分析，均满足 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方差齐性检验，两两比较时用LSD法。数据以均数±标准差表示，采用SPSS19.0统计软件进行单因素方差分析各组间均数两两比较。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1比索洛尔对缺氧复氧H9c2细胞保护作用最佳浓度确定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了确定比索洛尔对 $\\mathrm { H } 9 \\mathrm { c } 2$ 心肌细胞缺氧复氧损伤保护作用的最佳浓度，本实验用MTT法检测心肌细胞活力结果显示(表1)：与对照组相比， $\\mathrm { H } / \\mathrm { R }$ 组细胞活力明显下降 $( P { < } 0 . 0 1 )$ ；而比索洛尔预处理组较H/R组细胞活力明显提高 $( P { < } 0 . 0 5 )$ ，并且 $0 . 2 { \\cdot } 2 { \\cdot } 2 0 ~ \\mathrm { \\mu m o l / L }$ 的比索洛尔预处理均能提高心肌细胞活力，而 $2 \\mu \\mathrm { m o l } / \\mathrm { L }$ 的比索洛尔保护作用最明显 $( P { < } 0 . 0 5 )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1不同浓度比索洛尔预处理对细胞活力影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/23e7ea39012c5323021c8642b0b9aeda9c3efa7602767ac9ab6395add02397b4.jpg",
+        "table_caption": [
+            "Tab.1 Effects of pretreatment with different concentrations of bisoprolol on cell viability "
+        ],
+        "table_footnote": [
+            "H/R:hypoxia/reoxygenation. $^ { * } P { < } 0 . 0 5$ vs Control group; $^ { \\# } P { < } 0 . 0 5$ Us H/R group. "
+        ],
+        "table_body": "<html><body><table><tr><td>Groups</td><td>Cell viability (%)</td></tr><tr><td>Control</td><td>100±9.1</td></tr><tr><td>H/R</td><td>63.1±8.5*</td></tr><tr><td>H/R+0.2</td><td>70.4±10.4</td></tr><tr><td>H/R+2</td><td>75.1±8.6#</td></tr><tr><td>H/R+20</td><td>69.6±7.8</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2LY294002比索洛尔预处理的缺氧复氧H9c2心肌细胞活力的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "比索洛尔预处理的细胞活力明显高于 $\\mathrm { H } / \\mathrm { R }$ 组L $( 7 4 . 7 \\pm 7 . 4 ) \\%$ US $( 5 4 . 2 \\pm 6 . 2 ) \\%$ ， $P { < } 0 . 0 5 )$ ，给予PI3K/AKT特异性阻断剂LY294002后，与 $\\mathrm { H } / \\mathrm { R } { + } \\mathrm { B }$ 组比较, $\\mathrm { H } / \\$ $_ { \\mathrm { R + B + L Y } }$ 组细胞活力明显下降 $( 5 3 . 7 { \\pm } 5 . 3 ) \\%$ vs $\\cdot 7 4 . 7 \\pm$ $7 . 4 ) \\%$ $P { < } 0 . 0 5 ]$ 。H/R组与 $\\mathrm { H } / \\mathrm { R } + \\mathrm { L Y } 2 9 4 0 0 2$ 组比较无明显差异( $\\mathrm { \\ P { > } 0 . 0 5 }$ ，表2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3各个分组细胞凋亡水平检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用流式细胞仪检测细胞凋亡情况如下：与control组相比，H/R组细胞凋亡明显升高[ $( 7 . 6 \\pm 1 . 2 8 ) \\%$ vs$( 0 . 6 { \\pm } 0 . 2 ) \\%$ $P { < } 0 . 0 1 ]$ 。比索洛尔预处理组细胞凋亡明显低于H/R组[ $( 3 . 0 { \\pm } 0 . 4 ) \\%$ vs $( 7 . 6 { \\pm } 1 . 2 8 ) \\% , P { < } 0 . 0 5 ) \\}$ ，给予PI3K/AKT特异性阻断剂LY294002后，与 $\\mathrm { H } / \\mathrm { R } { + } \\mathrm { B }$ 组比较， $_ \\mathrm { H / R + B + L Y }$ 组细胞调亡明显上升 $( 5 . 3 { \\pm } 2 . 3 ) \\%$ vs $( 3 . 0 { \\pm } 0 . 4 ) \\%$ $\\scriptstyle P < 0 . 0 5 .$ （图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4各个分组细胞内活性氧水平检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用DCFH-DA探针检测ROS水平，结果显示（图2)，与对照组相比，缺氧/复氧处理后，细胞内ROS水平明显增多[ $( 6 3 . 9 \\pm 3 . 4 ) \\%$ vs $( 4 . 5 { \\pm } 1 . 8 ) \\%$ $P { < } 0 . 0 5 )$ ],而比索洛尔能显著降低H/R刺激引起的ROS产生增多二 $3 5 . 1 \\pm 4 . 4 ) \\%$ vs $( 6 3 . 9 { \\pm } 3 . 4 ) \\%$ $P { < } 0 . 0 5 ]$ ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5Western blotting检测p-AKT、p-GSK3β蛋白表达水平",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Western蛋白印迹结果显示(图3A、B)：与control组相比,H/R组 $\\mathsf { p }$ -AKT/GAPDH、p-GSK3β/GAPDH水平明显升高 $( P { < } 0 . 0 5 )$ ;经比索洛尔预处理的细胞组，p-AKT/GAPDH、p-GSK3β/GAPDH水平明显高于H/R组 $( P { < } 0 . 0 5 )$ ;而加入LY294002 组的p-AKT、p-GSK- $\\cdot 3 \\beta$ 蛋白水平明显低于比索洛尔预处理组 $( P { < } 0 . 0 5 )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验证实比索洛尔对缺氧/复氧诱导的心肌细胞损伤具有明显保护作用，其作用机制与PI3K/AKT/GSK-3β信号通路的激活有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "心肌缺血再灌注所造成的损伤目前仍然是临床上的一大难题，国内外不少学者目前致力于研究减轻心肌缺血再灌注损伤[12]。大量研究发现缺血预适应、药物预适应是强有效的心肌保护方式，尤其是药物预适应，能激发体内内源性的防御体系，增强机体耐受缺血再灌注能力、缩小心肌损伤面积、提高预后，具有广泛的研究前景。PAMI、PAMI-2和SentPAMI研究显示，急诊PCI术前使用静脉β受体阻滞剂，术中并发症显著减少，病死率和主要心血管事件显著降低,但其机制尚不清楚[8.13]。大鼠实验表明β1受体阻滞剂能够减轻急性心肌梗死瘢痕区、边缘区和非梗死区的凋亡心肌细胞，其作用机制与大鼠机体体液调节的负性变时和负性变力作用密切相关。小鼠离体心脏实验，β肾上腺素(异丙肾上腺素)能刺激缺血/再灌注所诱导的心肌细胞凋亡，而β1受体拮抗剂(美托洛尔)能明显抑制异丙肾上腺素和缺血再灌注所导致的细胞凋亡[14]。临床和动物实验表明,心肌缺血过程中β受体阻滞剂可以通过阻断cAMP依赖的PKA途径，清除自由基、减少脂质的氧化，从而保护细胞膜磷脂分子的完整性15，但是其具体机制目前不完全清楚。比索洛尔是一种高度特异性的β1受体阻滞剂，具有良好的降压疗效和心血管保护作用，能明显改善心血管病患者的临床转归[16-17],通过本实验研究,我们发现比索洛尔具有抗心肌细胞缺氧复氧损伤的作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "细胞凋亡是心肌缺血/再灌注损伤后的主要死亡形式之一。本实验通过运用MTT法检测细胞活力，根据测得的吸光度值(OD值),来判断活细胞数量，OD值越大，细胞活性越强。观察到H/R组OD值较control组明显下降，说明该组细胞活性低，比索洛尔预处理组OD值较H/R组明显提升，加入特异性抑制剂LY294002后OD值较比索洛尔预处理组明显降低，说明比索洛尔提高缺氧/复氧心肌细胞的活力的作用部分被LY294002抵消。AnnexinV/PI细胞凋亡检测结果显示，比索洛尔预处理组细胞凋亡率较缺氧复氧组明显下降；而",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/27e2830e060681cc73f2ec7f6044875dd26ae3ccea531e82be014ee87961b98f.jpg",
+        "img_caption": [
+            "图1H9c2心肌细胞凋亡水平 Fig.1 Representative images of flow cytometric analysis of H9c2 cardiomyocyte apoptosis.A: Control; B: Hypoxia/reoxygenation group (H/R); C: $\\mathrm { H } / \\mathrm { R } +$ biosoprolol;D:H/R $^ +$ biosoprolol $^ +$ LY294002. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3883d488ddea0bc559d719205e6026ea71d7ebd302c3cfadc9db156488b40790.jpg",
+        "img_caption": [
+            "图2H9c2细胞内ROS水平 Fig.2 Representative images of DCFH flow cytometric analysis of intracellular ROS level in H9c2 cardiomyocytes in each group.A: Control; B: Hypoxia/reoxygenation $( \\mathrm { H } / \\mathrm { R } )$ group; $c$ H/R+biosoprolol; D:H/R+biosoprolol+LY294002. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LY294002组与缺氧复氧组凋亡率无明显差异，说明比索洛尔预处理确实减轻缺氧复氧诱导的H9c2心肌细胞的凋亡，与MTT结果一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e6d8b8514525cde1ff1f60937b88075ea9f07f9c8cb9a7c9f56dac885c5db7b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "心肌缺血再灌注过程是一个氧化应激过程，大量的活性氧通过多个途径爆发产生，加之内源性的自由基清除系统功能障碍,造成活性氧在体内聚集[18-19]。活性氧的聚集会对心肌细胞造成机构损伤和功能障碍，引起细胞内蛋白质变性降解、功能丧失，细胞色素氧化酶系统传递的电子明显减少，导致能量代谢障碍。本实验中发现，H9c2心肌细胞经历缺氧/复氧后，细胞内ROS水平明显升高，而比索洛尔预处理组ROS水平显著降低，说明比索洛尔能够减少缺氧/复氧过程中H9c2心肌细胞内ROS的产生，维持其细胞内氧自由基的水平，减轻细胞损伤。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当心肌发生缺血再灌注损伤时，体内的一些激酶被激活，而发生保护作用，称为再灌注挽救激酶(RISK)，磷脂酰肌醇-3-激酶(PI3K)/蛋白激酶B(protein kinaseB,PKB/AKT)信号通路是其中重要的信号通路之一。PI3K是磷脂酰肌醇的肌醇环上第3位点碳原子磷酸化形成，是细胞内转导信号的重要分子之一。PI3K激活后与AKT发生相互作用，磷酸化AKT具有促细胞生存、抗心肌细胞调亡的作用。糖原合成酶激酶-3(GSK3β)磷酸化后，生物活性显著降低，即磷酸化的是非活性状态，减少线粒体通透性转换孔的开放，发挥保护心肌功能。多项实验包括动物体内、体外的实验已经证实缺血预适应、药物预处理可通过激活PI3K/AKT/GSK3β信号途径，在缺血再灌注损伤和缺氧复氧损伤过程中发挥重要作用，表现为减少心肌梗死范围、改善心脏收缩舒张功能、抑制细胞凋亡。本实验表明，H/R组与 Control组相比,p-AKT/GAPDH、p-p-GSK3β/GAPDH比值增大，说明AKT、GSK3β蛋白磷酸化水平增高，这与缺氧复氧所引起的RISK途径反应性激活有关；比索洛尔预处理组与H/R组相比，p-AKT/GAPDH、p-GSK3β/GAPDH比值显著提高，说明这两种蛋白磷酸化水平明显提高，而加入LY294002后AKT和磷酸化水平显著减少，差异具有显著意义 $( P { < } 0 . 0 5 )$ 。该结果与文献报道的一致，说明比索洛尔预处理能够减轻缺氧复氧诱导的H9c2心肌细胞的损伤，该作用的发挥与PI3K/AKT/p-GSK3β信号通路激活密切相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验通过H9c2心肌细胞系建立缺氧/复氧模型，模拟缺血再灌注损伤，研究比索洛尔的缺血再灌注损伤的保护作用，存在在体与离体之间的差异，但是通过培养H9c2心肌细胞系，运用PI3K/AKT特异性阻滞剂LY294002已表明比索洛尔能够激活PI3K/AKT/p-GSK3β信号通路的表达，促进AKT、GSK3β的磷酸化，发挥抗心肌细胞缺氧复氧损伤的保护作用，这为临床上减轻心肌缺血再灌注提供了实验室基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]中华医学会心血管病学分会,中华心血管病杂志编辑委员会.急性ST 段抬高型心肌梗死诊断和治疗指南[J].中华心血管病杂志,2015,43 (5): 380-93.   \n[2]Moens AL,Claeys MJ, Timmermans JP,et al.Myocardial ischemia/ reperfusion-injury,a clinical view on a complex pathophysiological process[J].Int JCardiol,2005,100(2):179-90.   \n[3] Sivaraman V,Yellon DM.Pharmacologic therapy that simulates conditioningforcardiacischemic/reperfusioninjury [J].J Cardiovasc Pharmacol Ther, 2014,19(1): 83-96.   \n[4] Vigneron F,Dos Santos P,Lemoine SA,et al. GSK-3 beta at the crossroads in the signalling of heart preconditioning:implication of mTOR and Wnt pathways[J].Cardiovasc Res,2011,9O(1): 49-56.   \n[5]Communal C, Singh K, Sawyer DB,et al. Opposing effects of beta (1）-and beta (2）-adrenergic receptors on cardiac myocyte apoptosis-Role ofa pertussis toxin-sensitive G proteins [J]. Circulation,1999,100(22):2210-2.   \n[6]付德明,柴颖儒,黄淑田.比索洛尔对慢性心力衰竭大鼠心肌细胞凋 亡及心功能的保护作用[J].中国药物与临床,2011(11):1272-6.   \n[7]Roolvink V, Rasoul S,Ottervanger JP,et al.Rationale and design of a double-blind,multicenter,randomized,placebo-controlled clinical trial of early administration of intravenous beta-blockers in patients with ST-elevation myocardial infarction before primary percutaneous coronary intervention:EARLY beta-blocker Administration before primary PCI in patients with ST-elevation myocardial infarction trial[J].Am Heart J,2014,168(5): 661-6.   \n[8]Ibanez B,Macaya C,Sánchez-Brunete V,et al. Effect of early metoprolol on infarct size in ST-segment-elevation myocardial infarction patientsundergoing primary percutaneous coronary intervention: the effect of metoprolol in cardioprotection during an acutemyocardialinfarction（METOCARD-CNIC） trial [J]. Circulation,2013,128(14):1495-503.   \n[9]Er F,Dahlem KM,Nia AM,et al．Randomized control of sympathetic drive with continuous intravenous esmolol in patients with acute ST-Segment elevation myocardial infarction the BEtA-Blocker therapy in acute myocardial infarction (BEAT-AMI) trial[J].JACC Cardiovasc Interv,2016,9(3):231-40.   \n[10]Newby LK.Intravenous beta-blockers for cardioprotection in STEMI:the saga continues[J].J Am Coll Cardiol,2016:67(23): 2716-8.   \n[11]Matoba S,Tatsumi T,Keira N,et al. Cardioprotective effect of angiotensin-convertingenzymeinhibitionagainsthypoxia/ reoxygenation injuryinculturedrat cardiacmyocytes[J]. Circulation,1999,99(6): 817-22.   \n[12]Ibanez B,Heusch G,Ovize M.Van de Werf F.evolving therapies for myocardial ischemia/reperfusion injury[J].JAm Coll Cardiol, 2015,65(14): 1454-71.   \n[13]Harjai KJ,Stone GW,Boura J,et al.Effects of prior beta-blocker therapy on clinical outcomes after primary coronary angioplasty for acute myocardial infarction[J].AmJ Cardiol,2003,91(6): 655-60.   \n[14]成 蓓,张秀娥,Wiedemann J,等.β-肾上腺素能刺激促进离体小鼠心 脏缺氧/复氧诱导的细胞凋亡[J].中国病理生理杂志,2006(02): 270-3.   \n[15] Jane-Wit D,Altuntas CZ,Johnson JM,et al.Beta(1) -adrenergic receptorautoantibodiesmediatedilated cardiomyopathyby agonistically inducing cardiomyocyte apoptosis [J]. Circulation, 2007,116(4): 399-410.   \n[16]He YM,Yang XJ,Zhao X,et al. beta-Blockers in heart failure: benefits of beta-Blockers according to varying male proportions of study patients[J]. Clin Cardiol,2012,35(8): 505-11.   \n[17] Chatterjee S,Biondi-Zoccai G,Abbate A,et al.Benefits of beta blockers in patients with heart failure and reduced ejection fraction: network meta-analysis[J].BMJ,2013: f55.   \n[18]Akar FG, Silachev DN,Plotnikov EY,et al. The mitochondrion as a key regulator of ischaemic tolerance and injury[J].Oxid Med Cell Longev,2014,23(10): 897-904.   \n[19]Motloch LJ,Hu J,Akar FG.The mitochondrial translocator protein and arrhythmogenesis in ischemic heart disease[J].Oxid Med Cell Longev,2015:234104.doi:10.1155/2015/234104. (编辑：吴锦雅) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

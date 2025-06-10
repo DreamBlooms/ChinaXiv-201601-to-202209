@@ -1,0 +1,169 @@
+饲粮中添加艾叶粉对生长肉兔营养物质表观消化率、氮代谢和肌肉品质的影响！
+
+2； （山东农业大学动物科技学院学院，山东省动物生物工程与疾病防治重点实验室，泰安 271018）
+
+又 ：摘要：本试验旨在研究饲粮中添加艾叶粉对生长肉兔营养物质表观消化率、氮代谢和肌肉品质的  
+5 影响。试验选取160只35日龄的体重相近的商品伊拉肉兔，随机分成4组（每组40个重复，每个重复  
+6 1只兔），分别饲喂艾叶粉添加量为0（对照组）、 $3 \%$ （替代对照组饲粮中 $1 \%$ 的花生秧和 $2 \%$ 的小麦  
+7 麸）、 $6 \%$ （替代对照组饲粮中 $3 \%$ 的花生秧和 $3 \%$ 的小麦麸）、 $9 \%$ （替代对照组饲粮中 $4 \%$ 的花生秧  
+8 和 $5 \%$ 的小麦麸）的饲粮。预试期7d，正试期30d。结果表明：饲粮中添加 $3 \%$ 、 $6 \%$ 和 $9 \%$ 的艾叶粉  
+9 对粗纤维（CF）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）、木质素（ADL）、钙（Ca）、  
+10 磷（P）的表观消化率以及食入氮、粪氮、尿氮、沉积氮、氮利用率、氮生物学效价均无显著影响  
+11 （ $. { \cal P } { > } 0 . 0 5$ ）；饲粮中添加 $3 \%$ 和 $6 \%$ 的艾叶粉对家兔饲粮的CP的表观消化率和可消化氮无显著影响  
+12 1 ${ \cdot } P { > } 0 . 0 5$ ），但饲粮中添加 $9 \%$ 的艾叶粉显著降低了饲粮的CP的表观消化率和可消化氮（ $_ { . P < 0 . 0 5 ) }$ ）；  
+13 与对照组相比，饲粮中添加 $6 \%$ 和 $9 \%$ 的艾叶粉显著提高了饲粮中EE的表观消化率（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）；与对  
+14 照组相比，饲粮中添加 $3 \%$ 、 $6 \%$ 和 $9 \%$ 的艾叶粉显著增加了肌肉的滴水损失（ $. P { < } 0 . 0 5$ ），而对其他肌  
+15 肉品质指标并无显著影响（ $. { \cal P } { > } 0 . 0 5$ ）。综合本试验测定指标，生长肉兔饲粮中艾叶粉的添加量不宜  
+16 超过 $6 \%$ 。
+
+关键词：肉兔；艾叶粉；营养物质表观消化率；氮代谢；肌肉品质中图分类号：S816 文献标识码：A文章编号：
+
+艾叶含有丰富营养，其中粗蛋白质含量为 $1 6 . 1 \% ^ { [ 1 ] } .$ 粗脂肪含量为 $5 . 6 9 \%$ 、粗纤维含量为 $1 5 . 2 6 \% ^ { [ 2 ] }$ 还含有多种氨基酸、多糖、维生素、微量元素、精油和有机酸等化学成分，因此，常被用为饲料原料或添加剂。李建民等[3]报道，在饲粮中添加 $1 \%$ 、 $2 \%$ 和 $3 \%$ 的艾叶粉均能不同程度地提高岭南黄鸡的平均日增重，降低料重比，提高生产性能。吴有华等[4报道，在基础饲粮中添加不同水平的艾叶粉均能显著提高肉鸡的法氏囊指数、脾脏指数和胸腺指数，对肉鸡的生长有明显的促进作用，并确定艾叶粉在肉鸡饲粮中的最佳添加量为 $3 \%$ 。高宏伟等[5]报道，在基础饲粮中添加艾叶粉能显著提高小鼠小肠消化酶活性。本实验室前期试验发现，饲粮中添加 $3 \% { \sim } 9 \%$ 的艾叶粉替代花生秧和麦麸并没有改变肉兔的采食量和生产性能[]，但其具体的营养价值仍未确定。本试验主要通过在饲粮中添加不同水平的艾叶粉替代小麦麸和花生秧，研究艾叶粉的营养价值以及饲粮中添加艾叶粉对生长肉兔营养物质表观消化率、氮代谢和肌肉品质的影响，进一步探讨生长肉兔饲粮中艾叶粉的适宜添加量。
+
+1材料与方法
+
+# 1.1试验动物与饲养管理
+
+选用健康、体重相近的35日龄商品伊拉肉兔160只(公母各占1/2)，随机分成4组（每组40 个重复，每个重复1只肉兔），对照组试验兔饲喂基础饲粮（不添加艾叶粉），试验组试验兔分别饲喂艾叶粉添加量为0（对照组）、 $3 \%$ （替代对照组饲粮中 $1 \%$ 的花生秧和 $2 \%$ 的小麦麸）、 $6 \%$ （替代对照组饲粮中 $3 \%$ 的花生秧和 $3 \%$ 的小麦麸）、 $9 \%$ （替代对照组饲粮中 $4 \%$ 的花生秧和 $5 \%$ 的小麦麸)的试验饲粮。艾叶粉由信阳艾尔康实业有限公司提供。试验饲粮组成及营养水平见表1。预试期 $\mathrm { ~ 7 ~ d ~ }$ 正试期 $3 0 \mathrm { d }$ 。试验兔采用单笼饲养模式，自然采光，自由采食和饮水。试验结束前6天，各组随机抽取8只试验兔转移到消毒处理的代谢笼进行代谢试验，预饲3d后，连续3d记录采食量，采集每只试验兔全天的粪样和尿样，预处理后4℃保存。试验结束后，空腹 $1 2 \mathrm { h }$ ，每组随机抽取8只试验兔进行屠宰，然后进行肌肉品质测定。
+
+表1试验饲粮组成及营养水平(风干基础)  
+Table 1Composition and nutrient levels of diets (air-dry basis)   
+
+<html><body><table><tr><td colspan="8">Table ofdiets(air-drybasis) 原料Ingredients 艾叶粉添加量Artemisia argyi</td><td colspan="4">% 艾叶粉添加量 Artemisia argyi powder</td></tr><tr><td></td><td colspan="4">powder addition</td><td colspan="2">营养水平 Nutrient</td><td colspan="5">addition</td></tr><tr><td></td><td>0</td><td>3</td><td>6</td><td>9</td><td>levels2)</td><td></td><td>0</td><td>3</td><td>6</td><td></td><td>9</td></tr><tr><td>玉米 Corn</td><td>14.0</td><td>14.0</td><td></td><td>14.0</td><td>14.0</td><td>消 化 能</td><td>8.37</td><td>8.19</td><td></td><td>7.88</td><td>7.90</td></tr><tr><td>大豆粕 Soybean</td><td>13.0</td><td>13.0</td><td></td><td>13.0</td><td>13.0</td><td>DE/(MJ/kg) 粗蛋白质CP</td><td>16.60</td><td></td><td>16.56</td><td>16.60</td><td>16.59</td></tr><tr><td>meal</td><td></td><td></td><td>10.0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米胚芽粕 Corn germ meal</td><td>10.0</td><td>10.0</td><td></td><td></td><td>10.0</td><td>粗脂肪 EE</td><td>2.74</td><td>2.74</td><td></td><td>2.58</td><td>2.62</td></tr><tr><td>苜蓿草粉 Alfalfa</td><td>22.0</td><td>22.0</td><td></td><td>22.0</td><td>22.0</td><td>粗纤维CF</td><td>16.82</td><td></td><td>17.07</td><td>17.23</td><td>16.90</td></tr><tr><td>meal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>小麦麸 Wheat</td><td>15.0</td><td>13.0</td><td></td><td>12.0</td><td>10.0</td><td>酸性洗涤纤维</td><td>18.35</td><td>18.14</td><td></td><td>18.21</td><td>18.24</td></tr></table></body></html>
+
+<html><body><table><tr><td>bran</td><td colspan="10">ADF</td></tr><tr><td>花生秧 Peanut</td><td>22.0</td><td>21.0</td><td>19.0</td><td>18.0</td><td>中性洗涤纤维</td><td>37.06</td><td>36.58</td><td>36.18</td><td>36.19</td></tr><tr><td>vine</td><td></td><td></td><td></td><td></td><td>NDF</td><td></td><td></td><td></td><td></td></tr><tr><td>艾叶粉</td><td></td><td>3.0</td><td>6.0</td><td>9.0</td><td>木质素 ADL</td><td>3.16</td><td>3.47</td><td>3.34</td><td>3.36</td></tr><tr><td>Artemisia argyi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>powder</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>预混料 Premix1)</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td><td>钙Ca</td><td>1.43</td><td>1.42</td><td>1.46</td><td>1.49</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>磷P</td><td>0.65</td><td>0.65</td><td>0.63</td><td>0.64</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 Premix provided the following per $\mathrm { k g }$ of diets:VA $1 0 0 0 0 \mathrm { \ I U } , \mathrm { V D } _ { 3 } 2 0 0$ 0IU，VE $5 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } \ 5 \ \mathrm { m g } .$ ， $\mathrm { V B } _ { 2 } ~ 1 0 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $2 0 ~ \mathrm { m g }$ ，泛酸 pantothenic acid$5 0 ~ \mathrm { m g }$ ，叶酸 folic acid $2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } \mathrm { ~ l ~ m g ~ }$ ，氯化胆碱 choline chloride $4 0 0 \mathrm { m g }$ ，Fe $1 0 0 \mathrm { m g }$ ， $Z { \mathrm { n } } 5 0 { \mathrm { m g } }$ ，$\mathrm { C u 4 0 ~ m g }$ ， $\mathrm { M n } 3 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 5 \mathrm { ~ m g ~ }$ ， $\mathrm { S e } \ 0 . 0 5 \ \mathrm { m g }$ ， $\mathrm { C a H P O _ { 4 } } 1 5 0 0 0 \mathrm { m g }$ ， $\mathrm { { N a C l } 5 0 0 0 \mathrm { { m g } } }$ ，赖氨酸Lys1500mg，蛋氨酸 Met $1 5 0 0 \mathrm { m g }$ ，其余为杂粕载体补足 the rest was miscellaneous meal carrier complement。
+
+2)营养水平为实测值。Nutrient levels were measured values.
+
+1.2 指标测定与计算
+
+总能（GE）采用氧弹式热量测定仪测定，干物质（DM）含量依据GB/T6435-2006所给出的方法进行测定，粗蛋白质（CP）含量采用凯氏定氮法进行测定，粗纤维（CF）含量采用酸碱洗涤法进行测定，粗脂肪（EE）含量采用油重法进行测定，粗灰分含量（ash）采用灰化法进行测定，中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）和木质素（ADL）含量采用范氏纤维素测定法进行测定，钙（Ca）含量采用高锰酸钾滴定法进行测定，磷（P）含量采用钼黄比色法进行测定。营养物质表观消化率、氮代谢指标的计算公式如下：表观消化能 $\underline { { \underline { { \mathbf { \Pi } } } } } = :$ 摄入饲粮的总能一粪能;营养物质表观消化率 ${ \tt - } 1 0 0 \times { \tt }$ （饲粮中某营养物质的含量-粪中该营养物质的含量）/饲粮中该营养物质含量;可消化氮 $( \mathbf { g } / \mathbf { d } ) =$ 食入氮一粪氮;沉积氮 $( \mathrm { g / d } ) \mathrm { = }$ 食入氮-粪氮－尿氮;氮表观消化率 $( \% ) = 1 0 0 \times$ 可消化氮/食入氮;氮利用率 $( \% ) = 1 0 0 \times$ 沉积氮/食入氮;氮生物学效价 $( \% ) = 1 0 0 \times$ 沉积氮/可消化氮;试验兔放血后屠宰，去除皮、尾和前后腿的末端部分、胃肠道、泌尿生殖道称量胴体重，再除去全部脏器和腹脂后称量全净膛重，取前腿肌（去除骨头）和后腿肌（去除骨头）称重，计算屠宰率、全净膛屠宰率、前腿肌率和后腿肌率，计算公式如下：
+
+屠宰率 $\underline { { \underline { { \mathbf { \Pi } } } } } = \mathbf { \Pi }$ 胴体重\宰前活重；
+
+全净膛屠宰率 $\scriptstyle { \frac { } { } } =$ 全净膛重\宰前活重；
+
+前腿肌率：两前腿重（去除骨头）/宰前活重；
+
+后腿肌率：两后腿重（去除骨头）/宰前活重。
+
+$\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ ：于宰后 $4 5 \mathrm { m i n }$ ，用MettlerMP120 型酸碱度计测量背腰最长肌第5 肋骨处的 $\mathfrak { p H }$ ，将探头插入肌肉 $3 \mathrm { m m }$ 读数。
+
+滴水损失：屠宰后 $^ { 4 \mathrm { h } }$ ，取眼肌，顺样品肌纤维方向切成 $3 \ \mathrm { c m } { \times } 1 \ \mathrm { c m } { \times } 1 \ \mathrm { c m }$ 的长条后称重，记为$m _ { 1 }$ ；用铁丝钩住肉条一端，悬空挂于纸杯中，用保鲜膜将纸杯口密封，置于 $4 ^ { \circ } \mathrm { C }$ 冰箱中 $2 4 \mathrm { h }$ ，取出肉样进行称重，记为 $m _ { 2 }$ 。通过下面公式计算滴水损失：
+
+滴水损失 $( \% ) \ { = } 1 0 0 { \times } ( m _ { 1 } { - } m _ { 2 } ) / m _ { 1 } ,$ 0
+
+剪切力：将采集的新鲜背腰最长肌放于 $0 { \sim } 4 ~ ^ { \circ } \mathrm { C } ~ 4 8 \mathrm { h }$ 贮存熟化后取出，将温度计插入肌肉中心部位，于恒温水浴锅内 $8 0 ~ ^ { \circ } \mathrm { C }$ 加热，在肌肉中心的温度达到 $6 0 ~ ^ { \circ } \mathrm { C }$ 时停止加热，取出肉样，将肉样顺肌肉纤维方向修剪成直径为 $1 . 1 2 \mathrm { c m }$ 、厚度为 $3 \mathrm { c m }$ 的圆柱形肌肉块，用C-LM型肌肉嫩度计测定剪切力(kgf) 。
+
+肉色：用日本Konica Minolta CR-10 型色差仪，采用CIE-Lab 输出模式，在背腰最长肌处切开3个切面分别记录3个切面的亮度(L)、红度(a)、黄度(b)值，取平均值。
+
+分别测定基础饲粮和试验饲粮中养分，利用套算法确定艾叶粉中营养物质的表观消化率，采用3 个添加量下测定的艾叶粉中营养物质表观消化率的平均值计算艾叶粉中可消化营养物质的含量。
+
+套算法计算艾叶粉中营养物质的表观消化率的计算公式如下：
+
+$$
+D { = } \ \left[ ( A { - } B ) / F \right] \ \times 1 0 0 { + } B ;
+$$
+
+$$
+\begin{array} { l } { { F { = } c _ { 1 } f { / } \ \left[ c _ { 1 } f { + } c _ { 0 } ( 1 { - } f ) \right] \ } } \end{array} { } { _ \circ }
+$$
+
+式中： $D$ 为被测饲料原料（本试验中为艾叶粉）中某营养物质的表观消化率； $A$ 为试验饲粮中该营养物质的表观消化率； $B$ 为基础饲粮中该营养物质的表观消化率； $F$ 为被测饲料原料提供的该营养物质占试验饲粮中该营养物质的比例； $\boldsymbol { f }$ 为试验饲粮中掺入被测饲料原料的比例； $c _ { 0 }$ 为基础饲粮中该营养物质的含量； $c _ { 1 }$ 为被测饲料原料中该营养物质的含量。
+
+1.3 数据的处理与分析
+
+用 SAS9.1.3统计软件中的一般线性模型（GLM）程序进行数据的方差分析，并用Duncan 氏法进行数据的多重比较检验。试验结果以平均值和均方根误差表示， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果与分析
+
+2.1艾叶粉的营养成分及营养价值
+
+由表2可知，艾叶粉中DM、Ash、CP、EE、CF的含量分别为 $) 1 . 5 6 \%$ 、 $1 0 . 3 5 \%$ 、 $1 5 . 7 0 \%$ 、 $7 . 2 9 \%$ 、$1 6 . 6 4 \%$ ；艾叶粉中NDF、ADF、ADL的含量分别为 $34 . 3 2 \%$ 、 $2 8 . 8 7 \%$ 、 $7 . 0 9 \%$ ；艾叶粉中Ca和P的含量分别为 $1 . 1 9 \%$ 、 $0 . 2 8 \%$ ；艾叶粉的总能为 $1 7 . 6 2 \mathrm { M J / k g }$ 。艾叶粉的可消化DM、可消化Ash、可消化CP、可消化EE、可消化CF、可消化NDF、可消化ADF、可消化ADL、可消化Ca和可消化P含量分别为$4 0 . 9 5 \%$ 、 $1 . 7 3 \%$ 、 $6 . 8 1 \%$ 、 $6 . 0 0 \%$ 、 $2 . 4 6 \%$ 、 $4 . 8 6 \%$ 、 $1 0 . 6 4 \%$ 、 $1 . 9 0 \%$ 、 $0 . 4 6 \%$ 、 $0 . 1 2 \%$ 。由上可知，艾叶粉中粗脂肪和粗灰分含量较高，可消化干物质和可消化粗蛋白质的含量较低。
+
+表2艾叶粉的营养成分及营养价值 Table 2Nutritional components and nutritional value of Artemisia argyi powder %   
+
+<html><body><table><tr><td rowspan="2">项目 含量</td><td>DM</td><td>Ash</td><td>干物质 粗灰分 粗蛋白质 CP</td><td></td><td>EE CF</td><td>粗脂胶 粗纤维中性洗涤纤维 NDF</td><td></td><td>酸性洗涤纤维 ADF</td><td>木质素钙 ADL</td><td>Ca</td><td>磷 P</td><td>总能 GE/(N</td></tr><tr><td>91.56</td><td></td><td>10.35</td><td>15.70</td><td>7.29</td><td>16.64</td><td>34.32</td><td>28.87</td><td>7.09</td><td>1.19</td><td>0.28</td><td>17.62</td></tr><tr><td>项目</td><td></td><td></td><td></td><td></td><td></td><td></td><td>可消化 可消化可消化粗蛋 可消化可消化可消化中性洗涤纤维</td><td>可消化酸性洗涤纤维</td><td></td><td></td><td>可消化 可消亻可消亻消化</td><td></td></tr><tr><td>含量</td><td></td><td>DDM DAsh</td><td>DCP</td><td></td><td>DEE</td><td>DCF DNDF</td><td></td><td>DADF</td><td>DADL DCa</td><td></td><td>DP</td><td>DE/(N</td></tr><tr><td></td><td>40.95</td><td>1.73</td><td>6.81</td><td></td><td>6.00 2.46</td><td>4.86</td><td></td><td>10.64</td><td>1.90</td><td>0.46</td><td>0.12</td><td>5.62</td></tr></table></body></html>
+
+# 2.1艾叶粉对生长肉兔的应用效果评价
+
+2.1.1艾叶粉对生长肉兔表观消化能和营养物质表观消化率的影响
+
+由表3可知，与对照组相比，饲粮中添加 $3 \%$ 、 $6 \%$ 和 $9 \%$ 的艾叶粉对饲粮中CF、NDF、ADF、ADL、Ca、P的表观消化率无显著影响（ $. P { > } 0 . 0 5 \$ ）；与对照组相比，饲粮中添加 $9 \%$ 的艾叶粉显著降低了饲粮中CP和能量的表观消化率（ $\cdot P { < } 0 . 0 5$ ），而添加 $3 \%$ 和 $6 \%$ 的艾叶粉对饲粮中CP和能量的表观消化率无显著影响（ $. P { > } 0 . 0 5$ ）；与对照组相比，饲粮中添加 $6 \%$ 和 $9 \%$ 的艾叶粉显著提高了饲粮中EE的表观消化率（ $. P { < } 0 . 0 5$ ），但添加 $3 \%$ 的艾叶粉对饲粮中EE的表观消化率无显著影响（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ 。
+
+表3艾叶粉对生长肉兔表观消化能和营养物质表观消化率的影响  
+Table 3Efects of Artemisia argyi powder on apparent digestible energy and apparent digestibility of nutrients of growing meat rabbits （20   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">艾叶粉添加量 Artemisia argyi powder supplemental level/%</td><td rowspan="2">均方根误差 R-MSE</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>3</td><td>6</td><td>9</td></tr><tr><td>表观消化能Apparent（53.86a</td><td></td><td>51.96ab</td><td>51.39ab</td><td>50.06b</td><td>15.25</td><td>0.197 6</td></tr><tr><td>energy 营养物质消化率Appar</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>digestibility of nutrien 67.97a</td><td></td><td>7.27ab</td><td>5.60ab</td><td>65.01b</td><td>2.64</td><td>0.109 3</td></tr><tr><td>粗蛋白质 CP</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗脂肪 EE</td><td>63.18b</td><td>61.89b</td><td>70.14a</td><td>72.49a</td><td>4.09</td><td>0.000 1</td></tr><tr><td>粗纤维CF</td><td>10.91</td><td>6.86</td><td>11.12</td><td>12.28</td><td>5.38</td><td>0.368 1</td></tr><tr><td>中性洗涤纤维 NDF</td><td>37.22</td><td>35.29</td><td>32.19</td><td>36.69</td><td>4.43</td><td>0.123 7</td></tr><tr><td>酸性洗涤纤维ADF</td><td>15.26</td><td>11.61</td><td>14.91</td><td>16.32</td><td>5.03</td><td>0.333 2</td></tr><tr><td>木质素 ADL</td><td>8.70</td><td>10.35</td><td>11.37</td><td>13.70</td><td>6.02</td><td>0.447 2</td></tr><tr><td>钙Ca</td><td>47.01</td><td>48.04</td><td>45.53</td><td>44.47</td><td>4.77</td><td>0.494 9</td></tr><tr><td>磷P</td><td>15.47</td><td>18.93</td><td>16.61</td><td>18.08</td><td>5.37</td><td>0.695 1</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row,values with no letter or the same letter superscripts mean no significant difference $( P > 0 . 0 5 )$ )，while with different letter mean significant difference ( $\scriptstyle ( P < 0 . 0 5 )$ ).The same asbelow.
+
+# 2.1.2艾叶粉对生长肉兔氮代谢的影响
+
+由表4可知，与对照组相比，饲粮添加 $3 \%$ 、 $6 \%$ 和 $9 \%$ 的艾叶粉对生长肉兔的食入氮、粪氮、尿氮、沉积氮、氮利用率、氮生物学效价均无显著影响（ $P { > } 0 . 0 5$ ）；与对照组相比，饲粮中添加 $3 \%$ 和 $6 \%$ 的艾叶粉对生长肉兔的可消化氮和氮表观消化率无显著影响（ $. { \cal P } { > } 0 . 0 5$ ），但添加 $1 9 \%$ 的艾叶粉显著降低了生长肉兔的可消化氮和氮表观消化率（ $\scriptstyle P < 0 . 0 5$ ）。
+
+表4艾叶粉对生长肉兔氮代谢的影响  
+Table 4Effects of Artemisia argyi powder on nitrogen metabolism of growing meat rabbits   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">艾叶粉添加量 Artemisia argyi powder addition/%</td><td colspan="2">均方根误差P值</td></tr><tr><td>0</td><td>3</td><td>6</td><td>9</td><td>R-MSE</td><td>P-value</td></tr><tr><td>食入氮 IN/(g/d)</td><td>5.55</td><td>5.49</td><td>5.48</td><td>5.18</td><td>0.34</td><td>0.153 8</td></tr><tr><td>粪氮 FN/(g/d)</td><td>1.88</td><td>1.85</td><td>1.81</td><td>1.78</td><td>0.15</td><td>0.524 6</td></tr><tr><td>尿氮 UN/(g/d)</td><td>2.08</td><td>2.01</td><td>1.93</td><td>1.71</td><td>0.41</td><td>0.332 7</td></tr><tr><td>可消化氮 DN/(g/d)</td><td>3.78a</td><td>3.64ab</td><td>3.60ab</td><td>3.37b</td><td>0.30</td><td>0.080 0</td></tr><tr><td>沉积氮 RN/(g/d)</td><td>1.70</td><td>1.63</td><td>1.67</td><td>1.67</td><td>0.49</td><td>0.995 3</td></tr><tr><td>氮表观消化率 N</td><td>67.97a</td><td>67.27ab</td><td>65.60ab</td><td>65.01b</td><td>2.64</td><td>0.109 3</td></tr><tr><td>apparent digestibility/% 氮利用率 Nutilization/%</td><td>30.14</td><td>29.66</td><td>30.26</td><td>32.35</td><td>8.32</td><td>0.924 8</td></tr><tr><td>氮生物学效价Biological</td><td>44.34</td><td>44.94</td><td>45.65</td><td>49.87</td><td>12.12</td><td>0.8009</td></tr><tr><td>value of N/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.1.3 艾叶粉对生长肉兔肌肉品质的影响
+
+由表5 可知，与对照组相比，饲粮添加 $3 \%$ 、 $6 \%$ 和 $9 \%$ 的艾叶粉对生长肉兔的前腿重、前腿肌率、后腿重、后腿肌率、全净膛屠宰率以及肌肉的剪切力、 $\mathrm { \ p H } _ { 4 5 \mathrm { m i n } }$ 、亮度值、红度值均无显著影响 $_ { ( P > 0 . 0 5 ) }$ ，
+
+表5艾叶粉对生长肉兔肌肉品质的影响 Table 5Effects of Artemisia argyi powder on muscle quality of growing meat rabbits   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">艾叶粉添加量 Artemisia argyi powder addition/%</td><td colspan="2">均方根误差 P值</td></tr><tr><td>0</td><td>3</td><td>6</td><td>9</td><td>R-MSE</td><td>P-value</td></tr><tr><td>全净膛率 Eviscerated ratio/%</td><td>54.35</td><td>52.99</td><td>53.81</td><td>53.70</td><td>0.02</td><td>0.6911</td></tr><tr><td>前腿重Forelegs weight/g</td><td>215.60</td><td>245.40</td><td>210.70</td><td>213.80</td><td>10.14</td><td>0.754 9</td></tr><tr><td>前腿肌率 Foreleg muscle ratio/% 7.98</td><td></td><td>7.92</td><td>7.82</td><td>7.87</td><td>0.35</td><td>0.806 8</td></tr><tr><td>后腿重 Hind legs weight/g</td><td>398.88</td><td>405.68</td><td>397.20</td><td>418.38</td><td>33.25</td><td>0.577 9</td></tr><tr><td>后腿肌率 Hind leg muscle ratio/% 14.75</td><td></td><td>14.93</td><td>14.81</td><td>15.40</td><td>1.14</td><td>0.666 7</td></tr><tr><td>亮度L*</td><td>33.81ab</td><td>37.90a</td><td>31.35b</td><td>34.41ab</td><td>4.07</td><td>0.027 6</td></tr><tr><td>红度a*</td><td>16.36ab</td><td>12.66b</td><td>12.83b</td><td>15.28ab</td><td>1.96</td><td>0.001 2</td></tr><tr><td>黄度b*</td><td>0.1375</td><td>0.7125</td><td>0.7250</td><td>1.1375</td><td>1.08</td><td>0.341 3</td></tr><tr><td>pH45 min</td><td>6.45</td><td>6.50</td><td>6.54</td><td>6.57</td><td>0.15</td><td>0.430 0</td></tr><tr><td>剪切力 Shear force/kgf</td><td>2.57</td><td>2.48</td><td>2.59</td><td>2.43</td><td>1.23</td><td>0.782 5</td></tr><tr><td>滴水损失 Drip loss/%</td><td>8.65b</td><td>13.50a</td><td>14.50a</td><td>14.47a</td><td>3.55</td><td>0.007 4</td></tr></table></body></html>
+
+3.1艾叶粉的营养成分以及营养价值
+
+艾叶营养价值丰富，含有挥发油、黄酮、多糖、蛋白质、矿物质、维生素、氨基酸等[16]。本试验中测得的艾叶粉的总能、干物质、粗蛋白质、粗脂肪、钙、磷、粗灰分、粗纤维、中性洗涤纤维、酸性洗涤纤维以及木质素含量分别为 $1 7 . 6 2 \mathrm { M J / k g }$ 、 $91 . 5 6 \%$ 、 $1 5 . 7 0 \%$ 、 $7 . 2 9 \%$ 、 $1 . 1 9 \%$ 、 $0 . 2 8 \%$ 、 $1 0 . 3 5 \%$ 、$1 6 . 6 4 \%$ 、 $34 . 3 2 \%$ 、 $2 8 . 8 7 \%$ 、 $7 . 0 9 \%$ ，艾叶粉的可消化干物质、可消化粗蛋白质、可消化粗脂肪、可消化钙、可消化磷、可消化粗灰分、可消化粗纤维、可消化中性洗涤纤维、可消化酸性洗涤纤维以及可消化木质素含量分别为 $40 . 9 5 \%$ 、 $6 . 8 1 \%$ 、 $6 . 0 0 \%$ 、 $0 . 4 6 \%$ 、 $0 . 1 2 \%$ 、 $1 . 7 3 \%$ 、 $2 . 4 6 \%$ 、 $1 0 . 6 4 \%$ 、 $4 . 8 6 \%$ 、$1 . 9 0 \%$ 。由此可知，艾叶粉在营养成分上介于能量饲料与粗饲料之间，其粗脂肪和粗灰分含量较高，可消化干物质含量低，可消化粗蛋白质含量过低，因此，饲粮中艾叶粉添加量过高可能影响粗蛋白质的表观消化率，进而影响生长肉兔的日增重。由于饲料原料的品种、收获期、贮存方法、加工方法等不同，测定的数值可能存在一定的差异。
+
+3.2艾叶粉对生长肉兔营养物质表观消化率以及氮代谢的影响饲粮中添加艾叶粉可以提高生长肉兔对饲粮中营养物质的消化率，促进畜禽生长发育。高宏伟等[5]研究发现，大鼠饲粮中添加 $0 . 5 \%$ 和 $1 . 0 \%$ 的艾蒿粉能显著提高大鼠小肠食糜中总蛋白酶、胰脂肪酶和胰淀粉酶的活性，从而提高蛋白质等营养物质的消化率，促进动物的生长发育。Kim等研究了在肉羊饲粮中添加 $3 \%$ 、 $5 \%$ 和 $10 \%$ 的干燥艾蒿对营养物质表观消化率的影响，结果发现，当添加量为 $5 \%$ 时，饲粮的DM表观消化率和可消化总养分(TDN)含量显著高于对照组，CP和CF的表观消化率也显著高于对照组。但本试验的结果显示，在生长肉兔上，与对照组相比，饲粮中添加 $9 \%$ 的艾叶粉显著降低了饲粮的CP和能量的表观消化率，添加 $6 \%$ 和 $9 \%$ 艾叶粉显著提高饲粮中EE的表观消化率，添加 $3 \%$ 、 $6 \%$ 和 $9 \%$ 的艾叶粉对CF、NDF、ADF、ADL、Ca、P的表观消化率无显著影响。出现这种结果的原因可能是：首先，试验动物种类的不同；其次，艾叶粉中含有较高的CF，这意味着饲粮的难消化组分比例增加,表观消化能浓度下降,加上体积膨大加重了消化道负担,导致能量摄入不足；同时,还会使肠管副交感神经兴奋性增高，引起肠道蠕动过速，饲粮通过消化道速度加快，以至饲料在盲肠内的滞留时间过短,影响大肠对粗纤维的消化,也削弱肠道对其他营养物质的消化吸收利用[9]。高添加量的艾叶粉显著提高EE的表观消化率，可能与艾叶中精氨酸含量较丰富有关[，研究发现EE表观消化率随饲粮精氨酸水平的提高会呈现出先升高后降低的现象[10]。
+
+消化代谢试验是研究动物体内蛋白质增减规律的必要手段。动物食入的氮，一部分沉积用于合成机体蛋白质，另一部分随着代谢产物排出体外，构成氮的平衡代谢和蛋白质的动态平衡体系。粪氮、尿氮是食入氮的2个损失部分，粪氮是食入的饲粮蛋白质经过消化道没有吸收的部分，这部分受饲粮蛋白质水平的影响很大[11]。本试验结果表明，饲粮中添加 $3 \%$ 、 $6 \%$ 和 $9 \%$ 的艾叶粉对生长肉兔的氮代谢没有产生显著影响，其原因可能是：添加艾叶粉对饲粮中 NDF、ADF、CF 的表观消化率没有产生显著影响，而饲粮的氮代谢与饲粮中 NDF、ADF、CF 的表观消化率呈正相关[12]。
+
+总之，艾叶经过多重物理粉碎后，杂质增加，当饲粮中艾叶粉添加量为 $9 \%$ 时，生长肉兔对饲粮中CP 以及能量的表观消化率要显著低于基础饲粮，消化能较低，因此饲粮中艾叶粉的添加量不宜过高，建议艾叶粉添加量为 $6 \%$ 。
+
+3.3艾叶粉对生长肉兔肌肉品质的影响
+
+艾叶粉既有营养价值又有保健功能。高宏伟等[13]在饲粮中添加艾叶粉饲养肉仔鸡，试验结果表明艾叶粉对肉仔鸡的屠宰性能和肉品质没有产生显著影响。本试验结果与此相似，饲粮中添加 $3 \%$ ，$6 \%$ 和 $9 \%$ 的艾叶粉对生长肉兔的前腿重、前腿肌率、后腿重、后腿肌率、全净膛屠宰率均没有产生显著影响。
+
+肉的品质反映了肉的消费性能和潜在价值，人们常用胴体质量以及肉的色泽、风味、嫩度、保水性和多汁性来评价肉与肉制品的品质,在试验中常常用 $\mathfrak { p H }$ 、肉色、滴水损失、剪切力等指标来判断肉的品质。本试验结果表明，饲粮中添加 $3 \%$ 、 $6 \%$ 和 $9 \%$ 的艾叶粉对肌肉的滴水损失有显著影响。肌肉中大约有3/4都是水分，屠宰后，水分被从肌纤维间隙中挤出到细胞间隙，细胞间隙的水分就会部分流失。损失的水分中含有稀释的肌浆蛋白，导致部分营养物质流失。滴水损失较高的肉品表现出肉色较浅、嫩度和风味较差、风味物质易流失的趋势。滴水损失导致肉的产量下降，造成一定的经济损失，并且影响包装的美观。本试验中发现饲粮中添加 $3 \%$ 、 $6 \%$ 和 $9 \%$ 的艾叶粉显著降低了生长肉兔肌肉的滴水损失，表明饲粮添加艾叶粉后容易造成兔肉营养物质的流失。兔肉的品质在很大程度上取决于家兔的营养[14]，然而不同养分对兔肉不同指标的影响却不尽相同。Carrilho 等[15]研究表明，给 5\~8 周龄家兔饲喂不同CF水平（ $14 . 3 \%$ 、 $1 8 . 0 \%$ 和 $20 . 5 \%$ ，干物质基础）同时降低消化能水平（9.3、9.1、8.0MJ/kg）的3种饲粮，随后饲喂肥育饲粮到屠宰，结果表明，不同饲粮间兔肉的物理品质（pH、肉色、系水力和韧性）和感官品质没有显著差异。本试验中，饲粮中添加 $3 \%$ 、 $6 \%$ 和 $9 \%$ 的艾叶粉对肌肉的剪切力、 $\mathrm { \ p H { } _ { 4 5 \mathrm { m i n } } }$ 、亮度值、红度值均无显著影响，表明饲粮中添加 $3 \% { \sim } 9 \%$ 的艾叶粉对生长肉兔肌肉品质无太大的影响。这与艾叶粉在家禽上的研究结果[13]相似。
+
+4结论
+
+艾叶粉在营养成分上介于能量饲料与粗饲料之间，生长肉兔饲粮中添加 $3 \% { \sim } 6 \%$ 的艾叶粉对营养物质的表观消化率和氮代谢并无太大影响，因此艾叶粉可以作为一种肉兔饲料原料来使用，但生长肉兔饲粮中艾叶粉的添加量不宜超过 $6 \%$ 。参考文献：[1]王艳荣,何云,苗志国,等."绿色"饲料添加剂——艾叶的研究进展[J].粮食与饲料工业,2009(10):38-40.[2]陈维岩,王贞友,高宏伟,等.艾叶的化学分析及含艾叶饵料对鱼的饲效观察[J].中国兽医学报,1989(2):189-194.[3]李建民,李爱江,王玉海.艾叶粉添加剂对岭南黄肉鸡生产性能的影响[J].黑龙江畜牧兽医,2011(17):64.[4]吴有华,刘力,王敬,等.艾叶粉对肉鸡免疫器官指数及生长的影响[J].湖北畜牧兽医,2015,36(3):14-16.[5]高宏伟,陈维岩,陈金文.日粮中添加艾叶对大鼠小肠消化酶活性的影响[J].黑龙江畜牧兽医,1993(7):34-35.[6]左文山.艾叶粉在生长肉兔的应用效果评价[D].硕士学位论文.泰安:山东农业大学,2017.[7]周孝琼,王华,李炳贵,等.艾叶水提液对肉兔生长性能及肉品质的影响[J].湖北农业科学,2016,55(18):4767-4770.
+
+[8] KIM JH,KIM C H,KO Y D.Influence of dietary addition of dried wormwood (Artemisia sp.) on the performance and carcass characteristics of Hanwoo steersand the nutrient digestibility of sheep[J].Asian-Australasian Journal of Animal Sciences,2002,15(3):390-395.
+
+[9]王诚,王文亭,李福昌.日粮粗纤维水平对莱芜猪及其杂交猪氮代谢及营养物质消化率的影响[J].   
+山东农业大学学报:自然科学版,2011,42(3):422-427.   
+[10]张帝.日粮精氨酸水平对繁殖母兔能氮代谢、脂肪表观消化率和血液指标的影响[D].硕士学位   
+论文.泰安:山东农业大学,2014.   
+[11]SPREADBURY D.Proceedings:protein and amino acid requirements of the growing meat   
+rabbit[J].The Proceeding of the Nutrition Sciety,1974,33(2):56A.   
+[12]郭亮,李德发,邢建军,等.玉米蛋白粉日粮纤维和能量对猪氮代谢的影响[J].粮食与饲料工   
+业,2001(4):34-36.   
+[13]高宏伟,陈维岩,张德金.日粮中添加艾叶粉饲养肉仔鸡的试验研究[J].中国兽医学   
+报,1991(1):81-83.   
+[14]李福昌,王春阳,朱岩丽,等.营养对兔肉品质的影响[J].中国养兔杂志,2012(4):25-28.   
+[15]CARRILHO M C,CAMPO M M,OLLETA J L,et al.Efect of diet,slaughter weight and sex on   
+instrumental and sensory meat characteristics in rabbits[J].Meat Science,20o9,82(1):37-43. Effects of Dietary Artemisia Argyi Powder on Apparent Digestibility of Nutrients, Nitrogen Metabolism and Muscle Quality of Growing Meat Rabbits2 LIU HongliZUO WenshanLIU Lei LIFuchang\* (Shandong Provincial Key Laboratory of Animal Biotechnology and Disease Control and Prevention, Shandong Agricultural University, Tai'an 271018, China)   
+Abstract: This experiment was conducted to study the effects of dietary Artemisia argyi powder on apparent   
+digestibility of nutrients, nitrogen metabolism and muscle quality of growing meat rabbits. One hundred   
+and sixty Hyla meat rabbits at 35 days of age and with similar body weight were randomly assigned to 4   
+groups with 40 replicates per group and one rabbit per replicate. Rabbits in the 4 groups were fed diets   
+added with O (control group), $3 \%$ （ $1 \%$ peanut vine and $2 \%$ wheat bran in the diet of control group were   
+replaced), $6 \%$ （ $3 \%$ peanut vine and $3 \%$ wheat bran in the diet of control group were replaced), and $9 \%$ 0 $4 \%$   
+peanut vine and $5 \%$ wheat bran in the diet of control group were replaced) Artemisia argyi powder,
+
+respectively.The pre-test period lasted for 7 days,and the experimental period lasted for 3O days.The results showed that diet added with $3 \%$ ， $6 \%$ and $9 \%$ Artemisia argyi powder did not significantly affect the apparent digestibility of crude fiber (CF)，neutral detergent fiber (NDF),acid detergent fiber (ADF), calcium (Ca) and phosphorus (P) $( P { > } 0 . 0 5 )$ , and the intake nitrogen, fecal nitrogen, urine nitrogen, retention nitrogen, nitrogen utilization and biological value of nitrogen were not significantly affected by diet added with $3 \%$ $6 \%$ and $9 \%$ Artemisia argyi powder $( P { > } 0 . 0 5 )$ . The apparent digestibility of crude protein (CP) and digestible nitrogen had no significant efects when diet added with $3 \%$ and $6 \%$ Artemisia argyi powder, but diet added with $9 \%$ Artemisia argyi powder significantly reduced the apparent digestibility of CP and digestible nitrogen ( $( P { < } 0 . 0 5 )$ . Compared with the control group, diet added with $6 \%$ and $9 \%$ Artemisia argyi powder significantly increased the apparent digestibility of ether extract (EE) $( P { < } 0 . 0 5 )$ . Diet added with $3 \%$ ， $6 \%$ and $9 \%$ Artemisia argyi powder significantly increased the drop loss of muscle $( P { < } 0 . 0 5 )$ , and had no significant effects on other muscle quality indexes $( P { > } 0 . 0 5 )$ ，compared with the control group. According to the test indexes of this experiment, the addition of Artemisia argyi powder in the diet of growing meat rabbits should be no more than $6 \%$
+
+Key words: meat rabbits; Artemisia argyi powder; nutrient apparent digestibility; nitrogen metabolism; muscle quality

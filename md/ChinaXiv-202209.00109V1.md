@@ -1,0 +1,327 @@
+# 睡眠剥夺与购物后悔：基于大规模个体层面数据的实证研究
+
+龚诗阳」张义博² 高月涛²(1北京师范大学经济与工商管理学院，北京100875)(厦门大学管理学院，厦门361005)
+
+摘要 睡眠剥夺正在成为人们面临的一种普遍问题，但是已有研究很少将睡眠剥夺与消费者行为联系起来。本文采用真实购物情境下的大规模消费者个体层面数据(N=1625472)，通过建立计量模型来研究睡眠剥夺与购物后悔的关系。结果表明，睡眠剥夺显著地增加了消费者的购物后悔倾向，具体在行为上表现为增加了商品的退货概率和加快了商品的退货速度。此外，商品的价格正向调节了睡眠剥夺对购物后悔的影响，而促销优惠金额的比例则负向调节了睡眠剥夺对购物后悔的影响。
+
+关键词 睡眠剥夺，购物后悔，商品退货，大规模个体层面数据，实证研究分类号B849;C93
+
+# 1引言
+
+睡眠剥夺，通常也称为睡眠不足，已经成为一种普遍的社会现象。参考美国国家睡眠基金会建议的睡眠时间标准，全球约 $3 5 \%$ 的成年人存在睡眠剥夺的情况(Hirshkowitz et al.,2015)。《2020年中国睡眠指数报告》显示，中国目前有超过3亿人存在睡眠障碍，并且年青人在睡眠方面的问题更为突出'。大量的研究探索了睡眠剥夺的影响。在生理健康方面，睡眠剥夺会影响人们的免疫系统(Spiegel et al.,2002)、代谢功能(Knutson et al.,2007)、认知能力(Durmer& Dinges,2005)、情绪状态(Borbely&Wirz-Justice,1982)等。在日常的行为表现上，睡眠剥夺会引发更多的工作事故(Barmes&Wagner,2009; Yam etal.,2020)和工作场所中的不道德行为(Akerstedt et al.,2007; Barnes et al.,2011; Wagner et al.,2012)。
+
+尽管如此，目前很少有研究直接探讨睡眠剥夺对消费者决策行为的影响。据调查，大约 $2 7 \%$ 的消费者经常在睡眠剥夺时段进行购物。为了迎合这种趋势，众多网络购物网站也经常将大型促销活动的起始时间定在凌晨(例如，京东"618”、淘宝"双11"等)。然而，生活中人们经常提到“不要在深夜做任何决定，否则一定会后悔”。西方也有类似的谚语，例如“Nothing good happens after midnight”。这说明人们似乎经常将深夜与后悔联系在一起。那么，当消费者处于睡眠剥夺的深夜进行购物后，是否更有可能产生购物后悔呢？
+
+针对上述问题，本文采用国内某大型零售网站提供的大规模消费者个体层面数据$( N { = } 1 6 2 5 4 7 2 )$ 来展开实证研究。得益于该网站在消费者退货时所记录的原因，我们运用消费者在真实购物情境下的行为数据——退货选择和退货速度两个维度——来度量购物后悔。首先，我们通过建立Logit二元选择模型和Cox比例风险模型，系统地分析了睡眠剥夺对消费者购物后悔(退货选择和退货速度)的影响。然后，我们进一步探究了可能影响两者之间关系的调节效应。由于在购物决策中，价格信息和促销信息是消费者面临的两种最普遍且直观的环境线索，所以我们讨论这与之相关的两种因素的调节作用：其一为商品的价格；其二为促销优惠金额占总体购物金额的比例。本文通过对真实的网络购物情境下大规模数据的实证分析，有效地拓展了睡眠剥夺在消费者决策行为领域的研究。
+
+# 1.1睡眠剥夺对认知和决策的影响
+
+个体的认知和决策与控制睡眠与清醒的系统有着密切的联系。研究表明，人们的睡眠与清醒周期受多种生物学机制的调控，包括昼夜节律(Saper etal.,2005)、睡眠与觉醒内稳态(Benington,2000)等。这些生物机制共同控制着人们何时感到困倦和需要睡眠(Borbely,1982)。
+
+睡眠剥夺(sleepdeprivation)是指个体缺乏足够的睡眠时间或质量来维持机体的常规表现。产生睡眠剥夺的主要原因有两类。第一类原因是内在生理因素，例如，睡眠呼吸暂停(Zammit & Zanca,1998)、褪黑素分泌失调(Shilo et al.,2000)、原生性和继生性失眠(Morphyet al.,2007)等。第二类原因主要来自于外在干扰因素，例如，不良作息与习惯(Hershner&Chervin,2014)、环境噪音(Wesselius et al.,2018)等。近年来，互联网和相关智能设备的使用逐渐成为影响睡眠的重要因素(Lanaj et al.,2014)。根据 Hershner 和 Chervin(2014)的总结，在睡前使用智能手机的受访者比例为 $67 \%$ ，此外使用计算机、音乐设备和玩电子游戏的比例分别为 $60 \%$ 、 $43 \%$ 和 $1 8 \%$ 。互联网相关设备的使用会大幅增加产生睡眠剥夺的风险(Alshobaili & AlYousefi, 2019)。
+
+最早有关睡眠剥夺与认知领域的研究可以追溯到19 世纪末期，Patrick 和Gilbert(1896)通过开创性的实验研究证明了睡眠缺失与个体代谢和神经活动之间存在特殊的联系。后续的研究深入地探索了睡眠剥夺与众多认知领域之间的关系，例如，注意力、记忆力、信息处理能力、推理能力等(相关综述请参考Durmer& Dinges,2005;Lim&Dinges,2010;钱柳 等,2020)。大量研究表明，睡眠剥夺所带来的认知能力下降会提升各类决策风险。例如，May和 Kline(1987)研究了军事人员在经历了两个晚上的睡眠剥夺之后，在没有额外身体疲劳的情况下对于一系列认知任务的表现。研究表明参与者在创新思维和灵活决策方面的表现明显恶化。Harrison 和 Horme(1999)的研究发现，经历了一个晚上睡眠剥夺的被试在参与营销策略模拟游戏的过程中更容易决策失败。组织领域的研究发现睡眠剥夺会增加企业员工次日在工作场所中的不道德行为(Akerstedt et al.,2007; Wagner et al.,2012)。Yam 等(2020)的研究发现，亚洲观众在深夜观看大型足球赛事所引发的睡眠剥夺会增加次日的交通事故发生率。Kolla等(2021)的研究表明，在美国夏令时(减少1小时睡眠时间)刚开始后的一周内，由于睡眠剥夺将使医疗事故增加 $4 . 2 \%$ 至 $8 . 8 \%$ 。
+
+尽管已有关于睡眠剥夺的研究已经涉及了医疗、军队、企业组织等多个领域，但直接考察睡眠剥夺对消费者决策行为影响的研究还很少(Huang et al.,2019)。随着网络购物的迅速发展，消费者在睡眠剥夺时段进行购物的情况已经越来越普遍。以此为背景，本研究试图探索睡眠剥夺与消费者购物后悔之间的关系。在此基础上，我们还将进一步考虑两种购物环境线索的调节效应(研究框架见图 1)。
+
+![](images/d29fd30c58ea10909eef56c5576eaf41c25e4a904643081d69da81e6e9168f06.jpg)  
+图1本文研究框架
+
+# 1.2睡眠剥夺对购物后悔的影响
+
+后悔是一种认知上的负面情感表现(Gilovich&Medvec,1995)。后悔既可以针对过去发生的事件(回溯性后悔)，也可以针对未来可能发生的事件(预期性后悔)。消费者在购物后产生的后悔即属于回溯性后悔。消费者购物后悔对企业是不利的，因为经历购物后悔的消费者通常会对产品产生负面口碑(Tsiros&Mittal,2000)、降低复购意向(Zeelenberg&Pieters,2004)，或者是转向替代产品(Zeelenberg&Pieters,1999)等。
+
+后悔在消费者决策中扮演着非常重要的角色(Venkatesan&Kumar,2004)。出于对后悔情绪的厌恶，消费者会通过调节自己的行动来最大化其短期和长期的收益，从而调节这种负面情绪所带来的影响(Cases,2002)。当后悔情绪产生后，消费者会回想已经犯下的错误和失去的机会，并且想要获得第二次机会来纠正错误使事情恢复原状(Hetts et al.,2000)。因此，消费者在经历后悔后的关键诉求之一是想要撤销引发后悔结果的决策。在绝大多数消费情境中，退货是通过撤销消费者最初的购买决策来降低其购物后悔的一种主要方式。通过将商品退回给零售商来消除购买决策所带来的损失，退货可以缓解消费者因购买到不满意的商品而产生的购物后悔情绪(Dunne etal.,2013;李东进 等,2013)。
+
+那么，睡眠剥夺是否会影响购物后悔呢？相关研究表明，产生购物后悔的原因主要有：消费者在购物时考虑不足(Lee＆Cotte,2009)、没有收集到足够信息(Janis& Mann,1977)、没有按原本的计划进行购物(Pieters& Zeelenberg,2005)等。总之，这些决策过程都与消费者认知资源的使用密切相关。根据 Baumeister 等(2000)的"自我损耗(ego depletion)"理论，人们的认知资源是有限的。对于大多数人而言，认知资源通常在人们早上醒来时最高，然后随着一天中进行各种任务而不可避免地逐渐耗尽，最终导致自我控制和调节能力的下降(Muraven&Baumeister,2000)。当人们处于认知资源损耗的状态时，很难避免做出不利于自己的冲动性行为或适得其反的行为(Marcus& Schuler,2004;窦凯 等,2014)。
+
+睡眠对于认知资源的恢复具有非常重要的影响(Hursh etal.,2004)。Ghumman 和Barmes(2013)的研究指出，认知资源会在睡眠时得到恢复，从而帮助人们提升抑制偏见的能力。Barmes 等(2011)发现睡眠时间减少将引发认知疲惫，从而增加不道德行为。在一项更加直接的实验研究中，研究者要求一群吸烟者通过控制自己不要吸烟来消耗认知资源。与不要求戒烟的参与者相比，要求戒烟的参与者在后续任务中的表现明显更差。但是，当这些参与者在睡觉之后，在任务中的表现显著提升(Parrott etal.,1996)。除了这些行为研究提供的证据，神经学的研究也佐证了睡眠对人们恢复认知资源的作用。相关的研究表明，大脑的前额叶皮层对个体的自我调控功能至关重要(Kaplan&Berman,2010)。在睡眠剥夺期间，大脑的前额叶皮层的代谢率急剧下降，从而导致其执行功能的能力下降(Schnyer et al.,2009)。所以，经历睡眠剥夺的个体更容易做出冲动的决策，因为他们没有足够的休息来恢复认知资源(Baumeister,2010)。结合本文的研究情景，我们推测，当消费者在处于睡眠剥夺的时间段进行购物时，更有可能因为缺乏足够的认知资源而做出冲动性或计划外的购买决策，从而在后续的过程中更有可能产生购物后悔。基于上述推断，我们提出本文的研究假设1:
+
+假设1：与一天中的其他时间段相比，消费者在睡眠剥夺时段进行购物后更有可能产生购物后悔。
+
+# 1.3购物环境线索的调节效应：价格和促销
+
+接下来，我们探讨睡眠剥夺对购物后悔影响的边界条件。由于在购物决策中，价格信息和促销信息是消费者面临的两种最普遍且直观的环境线索，所以我们主要讨论这两种因素的调节作用。首先是价格因素。相比于低价格的商品，高价格的商品会让消费者产生更高的感知风险，从而提高选购过程中的卷入程度(Bloch&Richins,1983)。不少已有的研究指出，高价格的商品会激发消费者参与更加复杂的决策过程。例如，在选购高价格的商品时，消费者会投入更多的时间和精力来搜索外部信息、考虑更多的候选商品集合、比较不同产品或购物平台的特征等(Beatty& Smith,1987;Celsi& Olson,1988;Divine,1995;Ratchford,1982)。这些过程无疑会导致消费者在购物中消耗更多的认知资源。那么，当消费者正好处于睡眠剥夺的状态时，由于现存的认知资源有限，更有可能做出错误的决策而导致购物后悔。因此，我们推测，商品的价格可能会对睡眠剥夺和购物后悔的关系产生正向的调节作用。综上，我们提出研究假设2：
+
+假设2：商品价格正向调节睡眠剥夺与购物后悔的关系，即当消费者购买的商品价格越高时，他们在睡眠剥夺时段购物后产生购物后悔的倾向越高。
+
+其次，我们考虑促销线索的影响。根据消费者决策的经典理论，当人们做出决策之后，存在强烈的动机向自己或他人证明自己的决策是正确的(Simonson,1989)。在日常生活中，消费者经常会考虑为他们之前的购买决策提供“合理"的理由或解释，而这又会进一步影响他们后续的态度和行为(Simonson& Nowlis,2000)。由于在睡眠剥夺状态进行购物的消费者更有可能因为之前的冲动决策而后悔，所以他们具有更加强烈的动机来为自己的购物决策提供一个"合理"的理由，从而增加保留该决策的倾向(Shafir etal.,1993)。我们推测，如果消费者在购买过程中获得的促销优惠金额较高，特别是当其占总体支付金额的比例较高时，消费者的后悔倾向和退货概率可能会降低。一个理由是经济性的因素。当促销优惠金额较高时，消费者会认为购物时付出了更低的成本，所以获得同样的商品更为划算(Choi et al.,2014)。另一个理由是情感性的因素。Schindler(1998)的研究表明，除了经济性的因素外，获得促销优惠也会增加消费者的感知责任，从而促进他们对产品的积极情感和行为后果。综上，我们提出本文的研究假设3：
+
+假设3：促销优惠比例负向调节睡眠剥夺与购物后悔的关系，即当消费者在购物过程中获得的促销优惠比例越高，他们在睡眠剥夺时段购物后产生购物后悔的倾向越低。
+
+# 2数据与变量
+
+# 2.1数据来源与介绍
+
+我们的研究数据来自国内一家大型电子商务零售网站4。该数据集包含了2021年6月1日至7月31日期间该零售网站上个体消费者层面的行为数据，样本量为1625472条。该数据集主要包含了消费者的购买、退货、参与促销和人口统计方面的相关信息。
+
+消费者的购买数据主要包含每笔购物订单的购买者信息、购买时间和商品编号。通过精确到分钟的购买时间信息，我们可以区分出在睡眠剥夺时段和非睡眠剥夺时段产生的购物订单。参考Kanuri等(2018)的划分标准，我们将处于凌晨时段(12:00A.M.至5:59A.M.)产生的购物订单划分为处于睡眠剥夺时段的购物，而处于其它时段(6:00A.M.至11:59P.M.)产生的购物订单划分为非睡眠剥夺阶段的购物。图2详细地展示了消费者在不同时段的购物频数。左图(a)表明，在睡眠剥夺的凌晨时段(12:00A.M.至5:59A.M.)消费者购物量明显少于其它时段。从右图(b)中可以进一步看出，在凌晨12:00A.M.之后消费者的购物量迅速下降，直到早上6:00A.M.之后才开始上升并逐渐恢复到比较稳定的状态。从图2的现象中可以推断，消费者大多会在凌晨12:00A.M.至5:59A.M.之间进行睡眠，而在这一时段进行购物的消费者，更有可能产生睡眠剥夺。
+
+![](images/9b5f4d5aff9f4118ccdaae884ee0a3f68eb7b4aecda38bd4b7d4ee68e78f4967.jpg)  
+图2不同时段的消费者购物数量
+
+得益于该网站在消费者退货时的调研功能，我们可以采用消费者的真实行为表现来度量购物后悔。当消费者在网站上点击退货选项时，网页会自动弹出一个调研问题：“请选择退货的原因(必选)”，消费者需要选择相应的原因之后才能提交正式的退货申请。其中一个原因选项是"不想要了”，当消费者点击该选项后，该行为会在我们的数据集中产生一条代表购物后悔的退货数据。该数据集追踪了消费者在购物之后的未来十天时间之内是否因购物后悔而产生了退货。我们可以根据该信息描绘出消费者在购物后一段时间之内的后悔情况。如图3所示，消费者的退货率随时间呈逐渐下降的趋势。在购物后的第一天，消费者的退货率远远高于后续日期的退货率，达到 $3 . 4 7 \%$ 。随后，消费者的退货率在第二天快速下降至 $0 . 9 8 \%$ ，然后逐步递减至第十天的 $0 . 1 5 \%$ 。这一退货率的行为模式与消费者冲动购物之后所产生的回溯性购物后悔行为相符(李东进 等,2013; Zeelenberg＆Pieters,2007)。
+
+图4进一步显示了睡眠剥夺和非睡眠剥夺时间段消费者购物后的后悔情况。我们可以直观地看到，如果消费者是在睡眠剥夺时段进行的网络购物，那么他们在购物后的第一天的退货率明显高于在非睡眠剥夺时段进行购物的消费者 $( 5 . 2 9 \% \mathrm { v s . } 3 . 4 0 \% )$ 。随着时间间隔的增加，两者所引发的退货率逐渐持平。这一现象初步表明，睡眠剥夺时段购物的消费者更有可能迅速意识到自身的冲动性消费行为，然后产生购物后悔。
+
+![](images/cbf67ea2a403b0cd7df087cff2cfbbd251e73a9736046e315fd230b850c98b5f.jpg)  
+图3“后悔权"时间内的退货率
+
+![](images/5d8788873663605ad847edc95423e9a4ebbde1a9b964273e14172e0566c667bd.jpg)  
+图4睡眠剥夺时段与其它时段购物的退货率
+
+此外，我们还获取了消费者在付款过程中参与由银行发起的抽奖型促销活动的相关数据。当消费者在购物过程中进入付款页面后，如果选择采用银行卡进行支付，会同时参与到"随机最高减188元"的促销活动中。该促销活动会在消费者原本的付款金额上给予一个随机优惠，优惠金额的范围在0.01元至188元之间。具体的减免金额会在完成支付后向消费者展示。在整个过程完成后，数据集中会相应地生成一条数据，主要包含消费者的付款时间、付款金额和优惠金额。
+
+# 2.2变量描述
+
+在原始数据的基础上，我们对后续实证分析中需要使用的变量进行了构建。表1对主要的变量进行了汇总和描述。
+
+(1)因变量。本研究采用消费者的退货行为来测量购物后悔。因此，我们构建了两个与退货行为相关的因变量。第一个因变量为消费者的退货选择，即消费者在购物后的十天之内是否选择退货(二值变量； $1 { = }$ 退货， $0 =$ 未退货)。第二个因变量为消费者的退货速度，即选择退货的消费者的退货时间距离购买时间的间隔天数(连续变量；1.,.,10 天)。
+
+(2)自变量。我们运用购物时段来测量顾客在购物时是否经历了睡眠剥夺。参考Kanuri等(2018)的研究，如果消费者的购物时间处于凌晨12:00A.M.至早上5:59A.M.这一时间段，我们认为其经历了睡眠剥夺，为自变量赋值为1；如果消费者的购物时间处于早上6:00A.M.至晚间11:59P.M.之间，我们则认为其没有经历睡眠剥夺，为自变量赋值为0。因此，我们的自变量为一个二值变量( $1 { = }$ 睡眠剥夺； $2 \mathrm { = }$ 非睡眠剥夺)。
+
+(3)调节变量。为了研究购物环境线索的调节作用，我们构建了两个相关的调节变量。其中，第一个调节变量为商品的价格；第二个调节变量为促销优惠比例，即消费者在付款的过程中参加银行卡优惠活动时获得的优惠金额与付款总金额的比例。
+
+(4)控制变量。我们还构建了一系列控制变量，用来控制其它因素可能会对研究结果产生的潜在影响。首先，优惠金额会直接影响消费者购物时所付出的金钱成本，从而可能会影响消费者购物的后悔程度。其次，当购物网站处于大型促销时期(例如，“618"促销活动季)，消费者更有可能产生冲动性消费，从而可能会增加购物后悔的倾向。因此，我们构建了网站促销时期这一控制变量，当购物网站处于大型促销期间，其赋值为1，否则赋值为0。最后，我们还构建了两个消费者的个人特征变量，包括顾客性别(二值变量； $1 =$ 男性，$2 { = }$ 女性)和顾客类型(分类变量； $1 =$ 新用户， $2 { = }$ 普通用户， $3 \mathrm { = }$ 老用户)。
+
+表1变量及描述  
+
+<html><body><table><tr><td>变量</td><td>类型</td><td>变量描述</td></tr><tr><td>退货选择</td><td>因变量</td><td>消费者在购物后的十天之内是否选择退货(1=退货，0=未退货)</td></tr><tr><td>退货速度</td><td>因变量</td><td>消费者的退货时间距离购买时间的间隔天数</td></tr><tr><td>睡眠剥夺</td><td>自变量</td><td>消费者购物时间是否处于睡眠剥夺时段(1=睡眠剥夺，0=非睡眠剥夺)</td></tr><tr><td>商品价格</td><td>调节变量</td><td>消费者购物时选购商品的价格</td></tr><tr><td>促销优惠比例</td><td>调节变量</td><td>消费者参与促销的优惠金额与付款总金额的比例(优惠金额/付款总金额)</td></tr><tr><td>优惠金额</td><td>控制变量</td><td>消费者购物时通过参与银行卡促销活动获得的优惠金额</td></tr><tr><td>网站促销时期</td><td></td><td>控制变量购物网站是否处于大型促销时期(1=是，0=否)</td></tr><tr><td>顾客性别</td><td>控制变量</td><td>顾客性别(1=男性，0=女性)</td></tr><tr><td>顾客类型</td><td>控制变量</td><td>顾客类型(1=新用户，2=普通用户，3=老用户)</td></tr></table></body></html>
+
+表2展示了主要变量的描述性统计结果。在全部1625472个购物订单中，因购物后悔而退货的订单有114237个。超过一半的退货行为都是在购物后的第一天产生的(占$5 1 . 0 6 \%$ ，退货速度的平均值为购物后的第2.78天。在所有购物订单中，处于睡眠剥夺时段(凌晨12:00A.M.至早上5:59A.M.)进行的购物占 $9 . 1 \%$ ，剩下的购物在其它时段(早上6:00A.M.至晚间11:59P.M.)产生。在调节变量方面，消费者购买的商品的平均价格为275.346元；消费者参与银行卡促销获得的优惠金额占付款总金额的比例约为 $2 . 2 \%$ 。在控制变量方面，消费者参加银行卡促销活动获得的优惠金额均值为0.587元；购物订单中有$2 8 . 4 \%$ 处于购物网站的大型促销活动期间；消费者中有 $62 . 5 \%$ 为男性；普通用户、新用户和老用户的比例分别占 $57 . 2 \%$ 、 $1 . 0 0 \%$ 和 $4 1 . 9 \%$ 。
+
+表2变量的描述性统计  
+
+<html><body><table><tr><td>变量</td><td>平均值</td><td>标准差</td><td>最小值</td><td>中位数</td><td>最大值</td></tr><tr><td>退货选择</td><td>0.070</td><td>0.256</td><td>0.000</td><td>0.000</td><td>1.000</td></tr><tr><td>退货速度</td><td>2.780</td><td>2.514</td><td>1.000</td><td>1.000</td><td>10.000</td></tr><tr><td>睡眠剥夺</td><td>0.091</td><td>0.288</td><td>0.000</td><td>0.000</td><td>1.000</td></tr><tr><td>商品价格</td><td>275.346</td><td>901.102</td><td>0.010</td><td>98.720</td><td>59999.720</td></tr><tr><td>促销优惠比例</td><td>0.022</td><td>0.090</td><td>0.000</td><td>0.005</td><td>1.000</td></tr><tr><td>优惠金额</td><td>0.587</td><td>1.774</td><td>0.010</td><td>0.500</td><td>188.000</td></tr></table></body></html>
+
+<html><body><table><tr><td>网站促销时期</td><td>0.284</td><td>0.451</td><td>0.000</td><td>0.000</td><td>1.000</td></tr><tr><td>顾客性别</td><td>0.625</td><td>0.484</td><td>0.000</td><td>1.000</td><td>1.000</td></tr><tr><td>顾客类型</td><td>2.409</td><td>0.511</td><td>1.000</td><td>2.000</td><td>3.000</td></tr></table></body></html>
+
+注：N=1625472。
+
+# 3实证分析与结果
+
+# 3.1睡眠剥夺对购物后悔的影响
+
+实证研究的第一部分是分析睡眠剥夺与购物后悔的关系。我们采用两个因变量来度量购物后悔：退货选择和退货速度。首先，我们分析睡眠剥夺对退货选择的影响。由于退货选择为二值因变量( $1 =$ 退货， $0 =$ 未退货)，我们采用Logit回归模型来对顾客的退货概率进行估计，如下所示：
+
+$$
+P ( y _ { i } = 1 ) = \frac { \exp { ( U _ { i } ) } } { 1 + \exp { ( U _ { i } ) } } ,
+$$
+
+$$
+U _ { i } = \alpha _ { 0 } + \alpha _ { 1 } x _ { i } + \mathrm { Z } _ { i } \varphi + \varepsilon _ { i } ,
+$$
+
+在模型(1)中，因变量 $y _ { i }$ 为顾客的退货选择，当取值为1时代表顾客选择退货，而取值为0时代表顾客未选择退货。自变量 $x _ { i }$ 代表睡眠剥夺，当取值为1时代表购物时间处于睡眠剥夺时段(凌晨12:00A.M.至早上5:59A.M.之间)，而取值为0时代表购物处于非睡眠剥夺时段(早上 6:00A.M.至晚间 11:59P.M.之间)。 ${ \bf { Z } } _ { i }$ 为一个向量，包含了一系列控制变量：商品价格(千元)、促销优惠比例、优惠金额(元)、网站促销时期、顾客性别、顾客类型和时间效应(周一至周日)。
+
+表3展示了Logit回归的结果。其中，面板A为全部样本的回归结果，而面板B为去掉了6月18日平台促销活动的样本。由于购物平台在6月18日促销期间，可能有很多促销活动在凌晨开始，从而使睡眠剥夺效应产生样本内的偏差。因此，我们采用两种方法来控制其影响。在面板A中，我们采用全部样本，并在模型中加入了代表网站促销时期的控制变量；在面板B中，我们从全部样本中删除了6月18日的样本。此外，我们还尝试删除了6月18日前后3日和前后5日的样本。所有的回归结果均表明，睡眠剥夺的系数是正向且显著的。
+
+表3的系数汇报了各变量在样本均值处的边际效应。我们发现，自变量睡眠剥夺的系数估计值为正向显著 $_ { ( \mathrm { b = } 0 . 0 1 3 6 }$ ， $p { < } 0 . 0 0 1$ ， $9 5 \%$ 置信区间=[0.0122,0.0150])，说明当顾客在睡眠剥夺时段（凌晨12:00A.M.至早上5:59A.M.之间）进行购物后，有更高的概率选择退货。根据回归结果，睡眠剥夺在样本均值处对退货率的边际贡献约为 $1 . 3 6 \%$ 。为了更加直观地说明睡眠剥夺的效应量大小，我们可以将睡眠剥夺和优惠金额(元)的系数结果进行比较(0.0136vs.-0.0006)，这意味着抵消睡眠剥夺对退货的影响等同于增加约23元促销优惠金额(0.0136/-0.00061≈-23元)。根据总体样本的描述性统计结果(表 2)，实际上企业向顾客提供的促销优惠金额的均值仅为0.587元，所以增加23元优惠金额几乎是企业不可能承担的促销成本。这说明睡眠剥夺对顾客退货选择的影响是不可忽视的。
+
+其它控制变量的回归结果也符合预期：商品价格越高，退货率越高 $\scriptstyle ( { \mathsf { b } } = 0 . 0 0 8 7$ $p { < } 0 . 0 0 1 )$ ；优惠金额越高，退货率越低 $( \mathsf { b } { = } { - } 0 . 0 0 0 6$ ， $\scriptstyle p = 0 . 0 0 6 )$ ；网站如果处于促销时期，退货率会增加 $\scriptstyle ( 1 = 0 . 0 1 0 9$ ， $p { < } 0 . 0 0 1 \rangle$ ；顾客性别对退货率没有显著影响 $( \mathsf { b } { = } { - } 0 . 0 0 0 3$ ， $\scriptstyle { p = 0 . 5 2 5 } )$ ：相对于新用户和普通用户，老用户的退货率更高 $\scriptstyle ( { \mathsf { b } } = 0 . 0 0 9 8$ ， $\scriptstyle { p < 0 . 0 0 1 }$
+
+表3睡眠剥夺与退货选择：Logit模型回归结果  
+
+<html><body><table><tr><td>变量</td><td>b</td><td>SE</td><td>z值</td><td>p值</td><td>95%置信区间</td></tr><tr><td colspan="6">A．全部样本(N=1625472)</td></tr><tr><td>睡眠剥夺</td><td>0.0136</td><td>0.0007</td><td>18.63</td><td>0.000</td><td>[0.0122, 0.0150]</td></tr><tr><td>商品价格(千元)</td><td>0.0087</td><td>0.0003</td><td>34.30</td><td>0.000</td><td>[0.0082, 0.0092]</td></tr><tr><td>促销优惠比例</td><td>-0.0438</td><td>0.0033</td><td>-13.42</td><td>0.000</td><td>[-0.0503,-0.0374]</td></tr><tr><td>优惠金额(元)</td><td>-0.0006</td><td>0.0002</td><td>-2.77</td><td>0.006</td><td>[-0.0009,-0.0002]</td></tr><tr><td>网站促销时期</td><td>0.0109</td><td>0.0005</td><td>23.96</td><td>0.000</td><td>[0.0100, 0.0118]</td></tr><tr><td>顾客性别</td><td>-0.0003</td><td>0.0004</td><td>-0.64</td><td>0.525</td><td>[-0.0011,0.0005]</td></tr><tr><td>顾客类型</td><td>0.0098</td><td>0.0004</td><td>25.29</td><td>0.000</td><td>[0.0091,0.0106]</td></tr><tr><td colspan="6">B．去掉6月18日样本(N=1595663)</td></tr><tr><td>睡眠剥夺</td><td>0.0109</td><td>0.0008</td><td>14.08</td><td>0.000</td><td>[0.0094, 0.0124]</td></tr><tr><td>商品价格(千元)</td><td>0.0085</td><td>0.0003</td><td>33.18</td><td>0.000</td><td>[0.0080, 0.0090]</td></tr><tr><td>促销优惠比例</td><td>-0.0411</td><td>0.0032</td><td>-12.81</td><td>0.000</td><td>[-0.0474, -0.0348]</td></tr><tr><td>优惠金额(元)</td><td>-0.0006</td><td>0.0002</td><td>-3.10</td><td>0.002</td><td>[-0.0010,-0.0002]</td></tr><tr><td>顾客性别</td><td>-0.0002</td><td>0.0004</td><td>-0.40</td><td>0.690</td><td>[-0.0010, 0.0006]</td></tr><tr><td>顾客类型</td><td>0.0099</td><td>0.0004</td><td>25.19</td><td>0.000</td><td>[0.0091, 0.0106]</td></tr></table></body></html>
+
+注：因变量为退货选择，系数汇报了变量在样本均值处的边际效应。回归模型中还加入了代表退货时间的控制变量(周二至周日，以周一为基准)。
+
+进一步的实证挑战来自于不同时段购物的消费者之间的异质性，以及可能由此引发的样本自选择偏差，即我们发现的结果并非来源于睡眠剥夺，而可能是源自于那些习惯晚睡的消费者购物后更容易后悔。尽管无法严格地排除该可能性，但我们可以采用倾向得分匹配法(propensity score matching，简称 PSM)来进行样本间的选择和匹配，构造出尽可能相似的"处理组"和"控制组"样本，从而在最大程度上降低样本选择偏误，以验证实证结果的稳健性(Rosenbaum & Rubin,1983)。
+
+基于倾向得分匹配法，我们采用多维匹配的方法来寻找与睡眠剥夺时段的样本接近的非睡眠剥夺时段的样本。在运用Logit模型计算倾向得分值时，我们将模型(1)中 $\mathbf { Z } _ { i }$ 包含的所有控制变量均作为协变量纳入匹配模型。然后，我们分别运用近邻匹配法(1:1，可放回和无放回匹配)、近邻匹配法(1:4 匹配)、以及样条匹配法来计算睡眠剥夺的平均处理效应。通过多种匹配方法来计算平均处理效应，可以检验结果的稳健性。附录中的附表2展示了匹配后样本的平衡情况，所有变量在处理组和对照组之间的标准化偏差均大幅减小，均值仅为 $1 . 1 4 \%$ 。
+
+表 4报告了不同匹配法得到的睡眠剥夺的平均处理效应。结果表明，运用4种不同匹配方法得到的结果均在 $p { < } 0 . 0 0 1$ 的水平显著。运用近邻匹配法(1:1，可放回匹配)、近邻匹配法(1:1，无放回匹配)、临近匹配法(1:4)和样条匹配法得到的睡眠剥夺的平均处理效应值分别是0.0118、0.0149、0.0112和0.0141，均值为0.0130。这些结果均与表3中睡眠剥夺的估计值0.0136非常接近，因此证明了原回归结果的稳健性。
+
+表4睡眠剥夺与退货选择：倾向得分匹配法的结果  
+
+<html><body><table><tr><td>变量</td><td>匹配方法</td><td>平均处理效应</td><td>SE</td><td>t值</td></tr><tr><td rowspan="5">睡眠剥夺</td><td>1.临近匹配(1:1，可放回匹配)</td><td>0.0118</td><td>0.0009</td><td>12.88***</td></tr><tr><td>2.临近匹配(1:1，无放回匹配)</td><td>0.0149</td><td>0.0007</td><td>20.23***</td></tr><tr><td>3.临近匹配(1:4)</td><td>0.0112</td><td>0.0008</td><td>13.38***</td></tr><tr><td>4.样条匹配</td><td>0.0141</td><td>0.0008</td><td>17.75***</td></tr><tr><td>1-4匹配方法均值</td><td>0.0130</td><td></td><td></td></tr></table></body></html>
+
+注：因变量为退货选择。\*代表 $\scriptstyle { p < 0 . 0 5 }$ ， $^ { * * }$ 代表 $p { < } 0 . 0 1$ ， $\ast \ast \ast$ 代表 $p { < } 0 . 0 0 1$ 。
+
+表5报告了不同编码方式的睡眠剥夺的回归结果。其中，面板A采用四分法将时间区间划分为凌晨(12:00A.M.-5:59A.M.)、上午(6:00A.M.-11:59A.M.)、下午(12:00P.M.-5:59P.M.)和晚上(6:00P.M.-11:59P.M.)。由于晚上为消费者购物的主要时间段，所以我们以晚上(6:00P.M.-11:59P.M.)为基准进行回归分析。结果表明，与晚上的"黄金"购物时间段相比，下午购物的退货率并没有明显的区别 $\scriptstyle ( { \mathsf { b } } = 0 . 0 0 0 8$ ， $\scriptstyle { p = 0 . 0 9 4 ) }$ ，上午购物的退货率仅略高一点$\scriptstyle ( \mathbf { b } = 0 . 0 0 2 9$ ， $p { < } 0 . 0 0 1 \$ )。然而，在凌晨时间段，消费者购物的退货率明显增加 $\scriptstyle ( 6 = 0 . 0 1 4 9$ ，$\scriptstyle { p < 0 . 0 0 1 }$ 。
+
+面板B进一步采用以小时为单位的编码方法，将时间区间划分为24个小时。同样，我们还是以晚上(8:00P.M.-8:59P.M.)这一消费者主要购物时间段作为为基准进行回归分析。结果显示，消费者在凌晨(12:00A.M.-0:59A.M.)时段购物后的退货率最高，比晚上(8:00P.M.-8:59P.M.)增加 $2 . 2 4 \%$ 。其次是在此之后的凌晨(1:00A.M.-4:59A.M.)，在这段时间购物的退货概率均比晚上(8:00P.M.-8:59P.M.)增加超过 $1 \%$ 。此外，所有上午时段购物后的退货概率也略高于晚上(8:00P.M.-8:59P.M.)，直到下午3:00P.M.之后的时段，消费者购物的退货率逐渐下降到与晚上(8:00P.M.-8:59P.M.)无显著的差异。上述的这些结果进一步印证了睡眠剥夺对购物后悔的影响。
+
+表5睡眠剥夺与退货选择：不同编码方式的回归结果  
+
+<html><body><table><tr><td>变量</td><td>b</td><td>SE</td><td>z值</td><td>p值</td><td>95%置信区间</td></tr><tr><td>A．睡眠剥夺其它编码方式(按上午、下午、晚上和凌晨划分，以晚上6:00P.M.-11:59P.M.为基准)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>凌晨(12:00A.M.-5:59A.M.)</td><td>0.0149</td><td>0.0008</td><td>18.44</td><td>0.000</td><td>[0.0133,0.0165]</td></tr></table></body></html>
+
+<html><body><table><tr><td>上午(6:00A.M.-11:59A.M.)</td><td>0.0029</td><td>0.0005</td><td>5.45</td><td>0.000</td><td>[0.0019,0.0039]</td></tr><tr><td>下午(12:00P.M.-5:59P.M.)</td><td>0.0008</td><td>0.0005</td><td>1.67</td><td>0.094</td><td>[-0.0001,0.0018]</td></tr><tr><td colspan="6">B. 睡眠剥夺其它编码方式(按小时划分， 以晚上8:00P.M.-8:59P.M.为基准)</td></tr><tr><td>晚上(9:00P.M.-9:59P.M.)</td><td>0.0003</td><td>0.0012</td><td>0.22</td><td>0.823</td><td>[-0.0021,0.0027]</td></tr><tr><td>晚上(10:00P.M.-10:59P.M.)</td><td>0.0010</td><td>0.0012</td><td>0.81</td><td>0.416</td><td>[-0.0013,0.0032]</td></tr><tr><td>晚上(11:00P.M.-11:59P.M.)</td><td>0.0067</td><td>0.0014</td><td>4.95</td><td>0.000</td><td>[0.0040,0.0093]</td></tr><tr><td>凌晨(12:00A.M.-0:59A.M.)</td><td>0.0224</td><td>0.0015</td><td>15.16</td><td>0.000</td><td>[0.0195, 0.0253]</td></tr><tr><td>凌晨(1:00A.M.-1:59A.M.)</td><td>0.0107</td><td>0.0019</td><td>5.68</td><td>0.000</td><td>[0.0070, 0.0144]</td></tr><tr><td>凌晨(2:00A.M.-2:59A.M.)</td><td>0.0082</td><td>0.0026</td><td>3.13</td><td>0.002</td><td>[0.0031, 0.0134]</td></tr><tr><td>凌晨(3:00A.M.-3:59A.M.)</td><td>0.0100</td><td>0.0034</td><td>2.93</td><td>0.003</td><td>[0.0033,0.0168]</td></tr><tr><td>凌晨(4:00A.M.-4:59A.M.)</td><td>0.0111</td><td>0.0038</td><td>2.90</td><td>0.004</td><td>[0.0036,0.0186]</td></tr><tr><td>凌晨(5:00A.M.-5:59A.M.)</td><td>0.0081</td><td>0.0031</td><td>2.67</td><td>0.008</td><td>[0.0022, 0.0141]</td></tr><tr><td>上午(6:00A.M.-6:59A.M.)</td><td>0.0069</td><td>0.0020</td><td>3.37</td><td>0.001</td><td>[0.0029,0.0109]</td></tr><tr><td>上午(7:00A.M.-7:59A.M.)</td><td>0.0044</td><td>0.0016</td><td>2.77</td><td>0.006</td><td>[0.0013,0.0075]</td></tr><tr><td>上午(8:00A.M.-8:59A.M.)</td><td>0.0027</td><td>0.0014</td><td>2.02</td><td>0.043</td><td>[0.0001,0.0054]</td></tr><tr><td>上午(9:00A.M.-9:59A.M.)</td><td>0.0061</td><td>0.0013</td><td>4.68</td><td>0.000</td><td>[0.0035,0.0086]</td></tr><tr><td>上午(10:00A.M.-10:59A.M.)</td><td>0.0044</td><td>0.0012</td><td>3.56</td><td>0.000</td><td>[0.0020,0.0068]</td></tr><tr><td>上午(11:00A.M.-11:59A.M.)</td><td>0.0051</td><td>0.0013</td><td>3.93</td><td>0.000</td><td>[0.0025,0.0076]</td></tr><tr><td>下午(12:00P.M.-00:59P.M.)</td><td>0.0058</td><td>0.0013</td><td>4.43</td><td>0.000</td><td>[0.0033,0.0084]</td></tr><tr><td>下午(1:00P.M.-1:59P.M.)</td><td>0.0036</td><td>0.0013</td><td>2.76</td><td>0.006</td><td>[0.0011,0.0062]</td></tr><tr><td>下午(2:00P.M.-2:59P.M.)</td><td>0.0022</td><td>0.0013</td><td>1.73</td><td>0.084</td><td>[-0.0003,0.0048]</td></tr><tr><td>下午(3:00P.M.-3:59P.M.)</td><td>0.0018</td><td>0.0013</td><td>1.43</td><td>0.153</td><td>[-0.0007,0.0043]</td></tr><tr><td>下午(4:00P.M.-4:59P.M.)</td><td>0.0017</td><td>0.0013</td><td>1.37</td><td>0.171</td><td>[-0.0007,0.0042]</td></tr><tr><td>下午(5:00P.M.-5:59P.M.)</td><td>0.0007</td><td>0.0013</td><td>0.54</td><td>0.592</td><td>[-0.0018,0.0032]</td></tr><tr><td>晚上(6:00P.M.-6:59P.M.)</td><td>0.0013</td><td>0.0013</td><td>0.97</td><td>0.333</td><td>[-0.0013,0.0039]</td></tr><tr><td>晚上(7:00P.M.-7:59P.M.)</td><td>0.0024</td><td>0.0013</td><td>1.77</td><td>0.077</td><td>[-0.0003,0.0050]</td></tr></table></body></html>
+
+注：N=1625472。因变量为退货选择，系数汇报了变量在样本均值处的边际效应。回归模型中还加入了表3中的所有控制变量：商品价格、促销优惠比例、优惠金额、网站促销时期、顾客性别、顾客类型和退货时间哑变量(周二至周日)。
+
+为了佐证睡眠剥夺和购物后悔之间的因果关系，我们还进行了两项子样本的回归分析，相关的结果见表6。首先，我们从数据提供方额外获取了两类不同品类的商品，一种是容易引起冲动消费的享乐品(美妆)，另一种是不容易引起冲动消费的实用品(冰箱)1。由于睡眠剥夺会导致消费者的认知资源和自我控制能力下降，所以更有可能因冲动消费而增加享乐品的退货率，而实用品受到影响则可能相对较小。实证结果与我们的预期相符，睡眠剥夺对享乐品的影响 $\scriptstyle ( { \mathsf { b } } = 0 . 0 3 0 6$ ， $p { < } 0 . 0 0 1 \$ )明显高于对实用品的影响 $_ { ( \mathrm { b = } 0 . 0 1 2 2 }$ ， $_ { p = 0 . 3 1 3 ) }$ 。
+
+其次，我们将原数据区分为周中和周末的样本分别进行回归。可以预期，对于大部分需要工作的消费者而言，在周中的深夜进行购物更容易产生睡眠剥夺，而在周末休息期间睡眠剥夺的程度则可能相对较小。表6中的实证结果与我们的预期一致，睡眠剥夺对退货选择的影响在周中 $_ { ( \mathrm { b = } 0 . 0 1 7 6 }$ ， $p { < } 0 . 0 0 1 \rangle$ 高于周末 $\scriptstyle ( { \mathsf { b } } = 0 . 0 1 2 3$ ， $p { < } 0 . 0 0 1 \rangle$ 。上述子样本的回归分析结果进一步在理论层面上佐证了睡眠剥夺对购物后悔的影响机理。
+
+表6睡眠剥夺与退货选择：子样本的回归结果  
+
+<html><body><table><tr><td>变量</td><td>子样本</td><td>N</td><td>b</td><td>SE</td><td>z值</td><td>p值</td><td>95%置信区间</td></tr><tr><td rowspan="4">睡眠剥夺</td><td>享乐品：美妆</td><td>54629</td><td>0.0306</td><td>0.0042</td><td>7.36</td><td>0.000</td><td>[0.0225, 0.0388]</td></tr><tr><td>实用品：冰箱</td><td>7282</td><td>0.0122</td><td>0.0121</td><td>1.01</td><td>0.313</td><td>[-0.0115,0.0358]</td></tr><tr><td>周中</td><td>1150581</td><td>0.0176</td><td>0.0014</td><td>12.60</td><td>0.000</td><td>[0.0149, 0.0204]</td></tr><tr><td>周末</td><td>474891</td><td>0.0123</td><td>0.0009</td><td>14.43</td><td>0.000</td><td>[0.0107, 0.0140]</td></tr></table></body></html>
+
+注：因变量为退货选择，系数汇报了变量在样本均值处的边际效应。回归模型中还加入了表3中的所有控制变量：商品价格、促销优惠比例、优惠金额、网站促销时期、顾客性别、顾客类型和退货时间哑变量(周二至周日)。
+
+接下来，我们分析睡眠剥夺与退货速度的关系。由于因变量为持续时间，所以我们采用比例风险模型(proportional hazard model)来进行分析(Gilovich&Medvec,1995)。该模型可以将终点事件和出现终点事件所经历的时间结合起来分析，具体的模型设定如下：
+
+$$
+\lambda ( t ) = \lambda _ { 0 } ( t ) \mathrm { e x p } { ( U _ { i t } ) } ,
+$$
+
+$$
+U _ { i t } = \beta _ { 0 } + \beta _ { 1 } x _ { i } + \mathrm { Z } _ { i } \delta + \epsilon _ { i t } ,
+$$
+
+在模型(2)中，因变量 $\lambda ( t )$ 代表购物订单在t时间出现退货的的风险率(hazard rate)。自变量 $x _ { i }$ 代表睡眠剥夺，当取值为1时代表购物时间处于睡眠剥夺时段(凌晨12:00A.M.至早上5:59A.M.之间)，而取值为0时代表购物处于非睡眠剥夺时段(早上6:00A.M.至晚间11:59P.M.之间)。 $\mathbf { Z } _ { i }$ 为一个向量，包含了一系列控制变量：商品价格、促销优惠比例、优惠金额、网站促销时期、顾客性别、顾客类型和时间效应(周一至周日)。
+
+表7展示了Cox比例风险模型的回归结果。我们同时汇报了各变量的估计系数以及相对应的风险比率(hazard ratio)。自变量睡眠剥夺的系数估计值为正向显著( $\scriptstyle 1 = 0 . 1 9 4 3$ $p { < } 0 . 0 0 1 \rangle$ ，其相对应的风险比率大于1(hazard ratio=1.2144， $9 5 \%$ 置信区间=[1.1924,1.2369])。该结果说明，睡眠剥夺将导致更高的退货风险，也即退货这一终点事件"生存"的时间更短。在其他条件不变的情况下，睡眠剥夺将使退货风险在原有基础上增加 $2 1 . 4 4 \%$ 。图5的Kaplan-Meier生存率曲线图更加直观地展示了这一结果。从图中可以看到，睡眠剥夺的生存曲线比非睡眠剥夺的生存曲线下降得更快，这说明在睡眠剥夺时段购物后的风险事件(退货)容易更早出现。
+
+表7睡眠剥夺与退货速度：Cox比例风险模型回归结果  
+
+<html><body><table><tr><td>变量</td><td>b</td><td>SE</td><td>z值</td><td>p值</td><td>风险比率[95%置信区间]</td></tr><tr><td>睡眠剥夺</td><td>0.1943</td><td>0.0093</td><td>20.79</td><td>0.000</td><td>1.2144 [1.1924,1.2369]</td></tr><tr><td>商品价格(千元)</td><td>0.0736</td><td>0.0018</td><td>41.07</td><td>0.000</td><td>1.0764 [1.0726,1.0802]</td></tr></table></body></html>
+
+<html><body><table><tr><td>促销优惠比例</td><td>-0.7126</td><td>0.0508</td><td>-14.03</td><td>0.000</td><td>0.4904[0.4439, 0.5417]</td></tr><tr><td>优惠金额(元)</td><td>-0.0075</td><td>0.0029</td><td>-2.55</td><td>0.011</td><td>0.9926 [0.9869,0.9983]</td></tr><tr><td>网站促销时期</td><td>0.1571</td><td>0.0063</td><td>24.86</td><td>0.000</td><td>1.1701 [1.1557, 1.1847]</td></tr><tr><td>顾客性别</td><td>-0.0034</td><td>0.0061</td><td>-0.56</td><td>0.573</td><td>0.9966 [0.9848,1.0085]</td></tr><tr><td>顾客类型</td><td>0.1444</td><td>0.0058</td><td>25.03</td><td>0.000</td><td>1.1553 [1.1423,1.1684]</td></tr></table></body></html>
+
+注： $N { = } 1 6 2 5 4 7 2$ 。因变量为退货速度。回归模型中还加入了代表退货时间的控制变量(周二至周日，以周一为基准)。
+
+![](images/2ca4e44efa731b298cc4ac1a675db21a73f11c3e9b9516a151ab916561bf7e44.jpg)  
+图5Kaplan-Meier累积生存率曲线
+
+综合上述的一系列分析结果，我们提出的假设1得到了支持，即相比于非睡眠剥夺时段，顾客在睡眠剥夺时段进行购物后更有可能产生购物后悔。
+
+# 3.2购物环境线索的调节作用
+
+这一部分，我们将分析购物环境线索对睡眠剥夺与购物后悔关系的调节效应。根据研究假设，我们将具体分析两个变量的调节作用：商品价格和促销优惠比例。
+
+在模型(1)的基础上，我们分别加入睡眠剥夺与这两个调节变量的交互项进行回归分析。表 8展示了加入调节效应的结果。首先，睡眠剥夺与商品价格的交互项的系数估计值为正向显著 $\scriptstyle \left( \ b = 0 . 0 0 3 0 \right)$ ， $p { < } 0 . 0 0 1 )$ 。该结果说明，商品价格对睡眠剥夺与购物后悔的关系具有正向的调节作用，即当消费者购买的商品价格越高时，他们在睡眠剥夺时段购物后产生购物后悔的倾向越高。我们提出的研究假设2得到支持。
+
+其次，睡眠剥夺与促销优惠比例的交互项的系数估计值为负向显著 $\scriptstyle ( 1 = - 0 . 0 2 2 7$ $\scriptstyle { p = 0 . 0 3 2 ) }$ 。这一结果说明，促销优惠比例对睡眠剥夺与购物后悔的关系具有负向调节作用，即当消费者在购物过程中获得的促销优惠比例越高，他们在睡眠剥夺时段购物后产生购物后悔的倾向越低。我们提出的研究假设3得到支持。
+
+表8购物环境线索的调节效应：商品价格和促销优惠比例  
+
+<html><body><table><tr><td>变量</td><td>b</td><td>SE</td><td>z值</td><td>p值</td><td>95%置信区间</td></tr><tr><td>睡眠剥夺</td><td>0.0125</td><td>0.0008</td><td>15.01</td><td>0.000</td><td>[0.0109, 0.0142]</td></tr><tr><td>商品价格(千元)</td><td>0.0083</td><td>0.0003</td><td>31.28</td><td>0.000</td><td>[0.0078,0.0088]</td></tr></table></body></html>
+
+<html><body><table><tr><td>促销优惠比例</td><td>-0.0413</td><td>0.0034</td><td>-12.02</td><td>0.000</td><td>[-0.0481,-0.0346]</td></tr><tr><td>睡眠剥夺×商品价格(千元)</td><td>0.0030</td><td>0.0008</td><td>3.73</td><td>0.000</td><td>[0.0014, 0.0045]</td></tr><tr><td>睡眠剥夺×促销优惠比例</td><td>-0.0227</td><td>0.0106</td><td>-2.15</td><td>0.032</td><td>[-0.0434,-0.0020]</td></tr><tr><td>优惠金额(元)</td><td>-0.0006</td><td>0.0002</td><td>-2.79</td><td>0.005</td><td>[-0.0009,0.0002]</td></tr><tr><td>网站促销时期</td><td>0.0108</td><td>0.0005</td><td>23.74</td><td>0.000</td><td>[0.0099,0.0117]</td></tr><tr><td>顾客性别</td><td>-0.0003</td><td>0.0004</td><td>-0.62</td><td>0.532</td><td>[-0.0011,0.0005]</td></tr><tr><td>顾客类型</td><td>0.0098</td><td>0.0004</td><td>25.28</td><td>0.000</td><td>[-0.0091,0.0106]</td></tr></table></body></html>
+
+注：N=1625472。因变量为退货选择，系数汇报了变量在样本均值处的边际效应。回归模型中还加入了代表退货时间的控制变量(周二至周日，以周一为基准)。
+
+# 4结论与讨论
+
+# 4.1研究结论
+
+近年来，睡眠问题已经成为一种普遍存在的社会现象。与此同时，消费者在睡眠剥夺时段进行网络购物的情况也大幅增加。那么，睡眠剥夺是否会对消费者购物后悔产生影响呢？本研究基于国内某大型购物网站提供的大样本(N=1625472)数据，通过实证分析探讨了睡眠剥夺与购物后悔的之间的影响关系，以及顾客在购物过程中所经历的促销线索的调节作用。主要研究结论如下。
+
+首先，我们发现睡眠剥夺对购物后悔有显著的正向影响。Logit模型的回归结果显示，相对于非睡眠剥夺时段(6:00A.M.至11:59P.M.)，顾客如果在睡眠剥夺时段(12:00A.M.至5:59A.M.)进行购物，更有可能在之后选择退货。计算结果显示，睡眠剥夺对退货概率的边际贡献约为 $1 . 3 6 \%$ 。并且，睡眠剥夺的分析结果在经过倾向得分匹配法、不同睡眠剥夺的编码方法、子样本回归等多种实证方法的检验后依然稳健。此外，Cox比例风险模型的分析也表明，睡眠剥夺将导致更高的退货风险。在其他条件不变的情况下，睡眠剥夺将使退货风险在原有基础上增加 $2 1 . 4 4 \%$ 。
+
+其次，我们发现消费者在购物过程中所经历的环境线索可以调节睡眠剥夺对购物后悔的影响。我们分析了两种购物环境线索：商品价格和促销优惠比例。研究结果表明，商品价格对睡眠剥夺与购物后悔之间的关系存在正向调节效应；促销优惠金额占购物总金额的比例对睡眠剥夺的影响存在负向的调节效应。
+
+# 4.2理论贡献
+
+本文的理论贡献主要体现在以下三个方面。第一，我们的研究结果有助于了解睡眠剥夺如何影响消费者购物后悔行为。鉴于睡眠剥夺现象的普遍性，已有的研究广泛地揭示了睡眠剥夺对个体健康的负面影响，例如，抑郁症(Chellappa etal.,2009)、心血管疾病(Mullngton et al.,2009)、老年痴呆(Foley etal.,2003)等。还有一些研究集中于睡眠剥夺对个体认知的影响。例如，创造力下降(Harrison&Horne,1999)、记忆力损伤(Chee& Cho0,2004)、风险决策偏误(Venkatraman etal.,2007)等。尽管这些已有研究对消费者行为有所启示，但主要还是侧重于个体的一般决策倾向，很少有研究直接分析睡眠剥夺对消费者行为的影响(Huang etal.,2019)。我们的研究通过分析睡眠剥夺与退货行为的关系补充了消费者行为的相关研究。
+
+第二，本研究拓展了昼夜时间节律在营销领域的研究。近年来，营销学者逐步开始关注一天中的不同时间段对消费者行为所产生的异质性影响。例如：Kanuri等(2018)的研究发现，社交媒体在上午发布的内容与下午和晚上发布的内容相比，点击量大约增加了 $8 . 8 \%$ 和 $1 1 . 1 \%$ 。Gullo(2019)等发现，与一天中的其他时间相比，消费者在上午对产品品种的多样性寻求倾向较低。本文从消费者购物后悔和退货的角度补充了昼夜节律理论在营销领域的应用。
+
+第三，本文的研究结论拓展了对消费者购物后悔的测量方法。购物后悔是一种消费者的负面情绪状态，由于退货行为可以帮助消费者通过撤销最初的购买决策来调节这种情绪状态，所以退货是购物后悔的一种主要的行为上的表现形式。本文借助于购物网站在消费者退货时的调研功能，采用大规模的客观行为数据来测量购物后悔，主要有以下两点优势：首先，自变量睡眠剥夺和因变量购物后悔都是真实情境下产生的，相对于传统的问卷数据和实验数据具有较高的外部效度；其次，通过对大样本数据的回归估计，可以获得有关睡眠剥夺和购物后悔之间影响关系的较为稳定的效应量。
+
+# 4.3管理启示
+
+本文的研究结论为消费者和企业提供了如下启示。对于消费者而言，应该尽量减少在12:00A.M.至5:59A.M.这一段时间内进行购物。由于睡眠剥夺所引发的认知功能减弱会使消费者在这一时段更容易产生冲动性购物，从而承担更多的购物风险，产生更多的预期后悔和退货行为。如果在这一时段进行购物，消费者应该多关注产品和促销的中心信息，更多地采用理性和精细化的思考模式去做出购买决策。
+
+对于企业而言，消费者购物后悔和退货率的提升不仅会增加企业的管理成本，同时也不利于企业建立和维护顾客关系。因此，企业应该尽量控制睡眠剥夺带来的负面影响。首先，购物网站可以考虑将促销活动的时间从睡眠剥夺时段调整到其它时段。例如，购物网站可以将"618"和"双11"等活动从以往的凌晨时间调整为晚上8点至12点的黄金时间段。这种调整可以避免消费者熬夜购物，增加消费者的理性消费，降低购物后悔和退货倾向。其次，对于习惯于在睡眠剥夺时段进行购物的消费者，企业应该给予更多关注和提供更加有针对性的应对策略。例如，在消费者的购物过程中提供更多可以激发消费者理性决策的商品和促销线索。此外，对于预测出的退货风险率较高的消费者和日期，企业可以定向发送信息，向消费者传递商品的内在价值，从而降低其后悔程度和退货倾向。
+
+# 4.4研究局限与未来研究方向
+
+未来的研究可以考虑以下几个方向。首先，未来的研究可以采用其它测量方法(例如，问卷法和实验法等)、其它变量(例如，复购意愿、品牌转换、负面评价等)、其它退货理由(例如，“商品错选/多选”、“没用/少用/错用优惠"等)来测量购物后悔，以进一步验证睡眠剥夺与购物后悔之间的关系和内在机制。其次，除了购物后悔以外，睡眠剥夺还有可能会影响其它形式的消费者行为。例如，由于认知能力的减弱，消费者可能会对需要精细化思考的营销线索(例如，数字、文字等)不那么敏感，而启发式的营销线索(例如，色彩、代言人等)可能更加有效。再次，我们研究采用真实的消费者个体层面的数据来开展研究，其优势在于具有较高的外部效度，研究结论对企业具有现实的指导意义。但是，采用二手数据的劣势是难以从消费者心理层面揭示睡眠剥夺与购物后悔之间关系的中介机制。后续的研究可以考虑采用实验操纵的方法进一步分析两者之间影响关系的中介机制。最后，出于企业对消费者数据的保密需求，我们用于实证研究的数据在个体消费者层面的信息上维度较少。例如，已有的研究发现睡眠剥夺对不同年龄段的人群的影响存在差异(Webb&Levy,1982)。未来的研究可以进一步分析睡眠剥夺对不同消费者人群的异质性影响。
+
+# 参考文献：
+
+Akerstedt,T.,Kecklund, G.,Alfredsson,L.,& elen,J. (20o7).Predicting long-term sicknessabsence fromsleep and fatigue.Journal of Sleep Research,16(4),341-345.   
+Alshobaili,F.A., & AlYousefi, N. A. (2019).The effect of smartphone usage at bedtime on sleep quality among Saudi non-medical staf at King Saud University Medical City. Journal of Family Medicine and Primary Care,8(6), 1953-1957.   
+Barnes,C.M., Schaubroeck,J.,Huth, M.,& Ghumman, S. (2011).Lack of sleep and unethical conduct. Organizational Behavior and Human Decision Processes,115(2),169-180.   
+Barnes,C.M.,& Wagner,D.T. (2O09). Changing to daylight saving time cuts into sleep and increases workplace injuries.Journal ofApplied Psychology,94(5),1305-1317.   
+Baumeister, R.F.(2010). The self. Oxford university press.   
+Baumeister,R.F.,Muraven, M.,& Tice,D.M. (20oo).Ego depletion: Aresource model of volition, selfregulation,and controlled processing. Social Cognition,18(2), 130-150.   
+Beatty,S.E.,& Smith, S.M. (1987). External search effort: An investigation across several product categories. Journal of Consumer Research,14(1),83-95.   
+Benington, J.H. (2000). Sleep homeostasis and the function of sleep. Sleep,23(7),959-966.   
+Bloch,P.H.,& Richins,M.L.(1983). A theoretical model for the study of product importance perceptions. Journal of Marketing,47(3),69-81.   
+Borbely,A.A.(1982). Sleep regulation: Circadian rhythm and homeostasis.In Sleep (pp.83-103).Springer.   
+Borbely,A.A.,& Wirz-Justice,A. (1982).Sleep,sleepdeprivation and depresson. Hum Neurobiol,1(205),205- 210.   
+Cases,A.-S. (2002).Perceived risk and risk-reduction strategies in Internet shopping.The International Review of Retail,Distribution and Consumer Research,12(4),375-394.   
+Celsi,R.L.,& Olson,J.C. (1988).The role of involvement in attention and comprehension processes.Journal of Consumer Research,15(2),210-224.   
+Chee,M.W.,& Choo, W. C. (2o04).Functional imaging of working memory after $2 4 \mathrm { h r }$ of total sleep deprivation. Journal of Neuroscience,24(19), 4560-4567.   
+Chellappa,S.L., Schroder, C.,& Cajochen, C. (20o9). Chronobiology, excessive daytime sleepiness and depression: Is there a link? Sleep Medicine,10(5), 505-514.   
+Choi,J.,Li,Y.J.,Rangan,P.,Chaterjee,P.,& Singh,S.N. (2O14).The odd-ending price justification effect: The
+
+influence of price-endings on hedonic and utilitarian consumption. Journal of the Academy of Marketing Science, 42(5),545-557. Cox,D.R. (1972). Regression models and life-tables.Journal of the Royal Statistical Society: Series B (Methodological),34(2),187-202. Cox,D.R.,& Oakes,D.(2018).Analysis of survival data. Chapman and Hall/CRC. Darke,P.R.,& Freedman, J.L. (1997). The belief in good luck scale.Journal of Research in Personality,31(4), 486-511. Divine,R.L.(1995).The influence of price on the relationship between involvement and consideration set size. Marketing Letters,6(4),309-319. Dunne,P. M.,Lusch,R.F.,& Carver,J.R.(2013). Retailing. Cengage Learning. Durmer, J. S.,& Dinges,D.F.(20o5). Neurocognitive consequences of sleep deprivation. Seminars in Neurology, 25(01), 117-129. Dou, K.,Nie,Y. G., Wang, Y.J.,Li,J.B.,& Shen, W.B. (2014).Ego depletion promotes impulsive decision: Evidences from behavioral and ERPs studies.Acta Psychologica Sinica, 46(10),1564-1579. [窦凯,聂衍刚,王玉洁,黎建斌,& 沈汪兵.(2014).自我损耗促进冲动决策:来自行为和 ERPs 的证据．心理学 报,46(10), 1564-1579.] Foley,D.J.,Masaki,K., White,L.,Larkin,E.K.,Monjan,A.,&Redline,S.(20o3).Sleep-disordered breathing and cognitive impairment in elderly Japanese-American men. Sleep,26(5), 596-599. Ghumman, S., & Barnes, C.M. (2013). Sleep and prejudice: A resource recovery approach. Journal of Applied Social Psychology,43,E166-E178. Gilovich,T.,& Medvec, V.H.(1995). The experience ofregret: What, when,and why. Psychological Review, 102(2), 379-395. Griffiths, M.D.,& Bingham,D. (20o5). A study of superstitious beliefs among bingo players.Journal of Gambling Issues,13,1-13. Gullo,K., Berger,J.,Etkin,J.,& Bollinger,B. (2019).Does time of day affect variety-seeking? Journalof Consumer Research, 46(1),20-35. Harison, Y.,& Horne,J.A. (1999).One night ofsleep lossimpairs innovative thinking and flexible decision making. Organizational Behavior and Human Decision Processes,78(2),128-145. Hershner,S.D.,& Chervin,R.D.(2014). Causes and consequences of sleepiness among college students. Nature and Science of Sleep, 6,73-84. Hetts,J.J.,Boninger,D.S.,Armor,D.A., Gleicher,F.,& Nathanson,A. (2ooo).The influence of anticipated counterfactual regret on behavior. Psychology & Marketing,17(4),345-368. Hirshkowitz,M., Whiton,K.,Albert,S.M.,Alessi, C.,Bruni,O.,DonCarlos,L,Hazen,N.,Herman,J.,Katz,E. S., Kheirandish-Gozal,L.,Neubauer,D.N., O'Donnell,A.E.,Ohayon,M.,Peever,J.,Rawding,R., Sachdeva,R. C.,Seters,B., Vitielo,M.V., Ware,J. C.,&Adams Hillard,P.J. (2015). National Sleep Foundation's sleep time duration recommendations: Methodology and results summary. Sleep Health, 1(1), 40-43. Huang,Z. (Tak),Liang,Y., Weinberg, C.,& Gorn, G. (2019). The sleepy consumer and variety seeking.Journal of Marketing Research, 56(2),179-196. Hursh,S.R.,Balkin,T.J.,Miller,J. C.,&Eddy,D.R. (2004).Thefatigue avoidance scheduling tool: Modeling to minimize the effects of fatigue on cognitive performance. SAE Transactions,111-119. Janis, I.L., & Mann,L.(1977).Decision making: A psychological analysisofconflict,choice,and commitment. Free press. Jiang,Y., Cho,A.,& Adaval,R. (2o09).The unique consequences offeeling lucky: Implications for consumer
+
+behavior.Journal of Consumer Psychology,19(2),171-184.   
+Kanuri,V.K., Chen,Y.,& Sridhar,S. (Hari). (2018).Scheduling content on social media: Theory,evidence,and application. Journal of Marketing,82(6), 89-108.   
+Kaplan, S., & Berman, M. G. (2010). Directed atention as a common resource for executive functioning and selfregulation. Perspectives on Psychological Science, 5(1), 43-57.   
+Knutson, K.L., Spiegel, K.,Penev,P.,& Van Cauter,E.(207). The metabolic consequences of sleep deprivation. Sleep Medicine Reviews,11(3),163-178.   
+Kolla,B.P., Coombes,B.J., Morgenthaler,T.I.,& Mansukhani,M.P. (2021). Increased patient safety-related incidents folowing the transition intodaylight savings time.Journal ofGeneral Internal Medicine,36(1),51- 54.   
+Kramer,T.,& Block,L.(2oo8). Conscious and nonconscious components of superstitious beliefs in judgment and decision making. Journal of Consumer Research,34(6),783-793.   
+Lanaj,K.,Johnson,R.E.,& Barmes, C.M. (2014).Beginning the workday yet already depleted? Consequences of late-night smartphone use and sleep.Organizational Behavior and Human Decision Processes,124(1),11- 23.   
+Lee, S.H., & Cote,J. (2009). Post-purchase consumer regret: Conceptualization and development of the PPCR scale.ACR North American Advances,36,456-462.   
+Lim, J.,& Dinges,D.F. (2010). A meta-analysis ofthe impact of short-term sleep deprivation on cognitive variables. Psychological Bulletin,136(3),375-389.   
+Li, D. J., Wu,B.,&Li.Y. (20l3)The influence ofproduct returnon purchaseregret in remote purchase environment. Nankai Business Review, 16(5),77-89.   
+[李东进,吴波,&李研.(2013).远程购物环境下退货对购后后悔影响研究.南开管理评论,16(5),77-89.]   
+Marcus,B.,& Schuler, H. (2004). Antecedents of counterproductive behavior at work: A general perspective. Journal of Applied Psychology, 89(4), 647-660.   
+May, J.,& Kline,P.(1987).Measuring the effects upon cognitive abilities of sleep loss during continuous operations. British Journal of Psychology, 78(4),443-455.   
+McDaniel, S.R. (2002). Investigating the roles of gambling interest and impulsive sensation seeking on consumer enjoyment of promotional games. Social Behavior and Personality: An International Journal,30(1),53-64.   
+Morphy,H.,Dunn, K. M.,Lewis,M.,Boardman, H.F.,& Croft,P.R.(20o7).Epidemiology of insomnia: A longitudinal study in a UK population. Sleep,30(3), 274-280.   
+Mullington,J.M.,Haack,M.,Toth,M.,Serrador,J.,&Meier-Ewert,H. (2o9).Cardiovascular,inflammatoryand metabolic consequences of sleep deprivation. Progress in Cardiovascular Diseases,51(4),294-302.   
+Muraven, M.,& Baumeister,R.F.(2ooo).Self-regulation and depletion of limited resources: Does self-control resemble a muscle? Psychological Bulletin,126(2),247-259.   
+Parrott,A. C., Garnham,N.J., Wesnes,K.,&Pincock, C.(1996). Cigarette smoking and abstinence: Comparative effects upon cognitive task performance and mood state over 24 hours. Human Psychopharmacology: Clinical and Experimental,11(5),391-400.   
+Patrick,G.T.W.,& Gilbert,J.A. (1896). Studies from the psychological laboratory of the UniversityofIowa: On the effects of loss of sleep. Psychological Review, 3(5), 469-483.   
+Pieters,R.,& Zelenberg,M. (20o5). On bad decisions and deciding badly: When intention-behavior inconsistency is regrettable. Organizational Behavior and Human Decision Processes,97(1),18-30.   
+Qian,L.,Ru,T.T.,Luo,X.,Niu,J.X.,Ma,Y.J.,& Zhou, G.F. (202O).Effect of sleeprestriction on cognitive function and its underlying mechanism.Advances in Psychological Science,28(9),1493-1507.   
+[钱柳,汝涛涛,罗雪,牛佳兴,马永骏,& 周国富.(2020).睡眠限制对认知功能的影响及其潜在作用机制.心理 科学进展,28(9),1493-1507.]   
+Ratchford,B.T.(1982). Cost-benefit models for explaining consumer choice and information seeking behavior. Management Science,28(2),197-212.   
+Rosenbaum, P.R., & Rubin,D.B.(1983). The central role of the propensity score in observational studies for causal effects. Biometrika,70(1),41-55.   
+Saper, C.B., Scammell,T.E.,&Lu,J.(20o5). Hypothalamic regulation of sleep and circadian rhythms.Nature, 437(7063), 1257-1263.   
+Schindler,R.M. (1998). Consequences of perceiving oneself as responsible for obtaining a discount: Evidence for smart-shopper felings. Journal of Consumer Psychology, 7(4),371-392.   
+Schnyer,D.M., Zeithamova,D.,& Williams,V.(2009). Decision-making under conditions of sleep deprivation: Cognitive and neural consequences. Military Psychology, 21(sup1), S36-S45.   
+Shafir,E., Simonson,I.,& Tversky,A.(1993).Reason-based choice. Cognition,49(1-2),11-36.   
+Shilo,L.,Dagan,Y.,Smorjik,Y.,Weinberg,U.,Dolev,S.,Komptel,B.,& Shenkman,L. (20oo).Effectof melatonin on sleep quality of COPD intensive care patients: A pilot study. Chronobiology International, 17(1), 71-76.   
+Simmons,L.C.,& Schindler,R.M. (2oo3). Cultural superstitions and the price endings used in Chinese advertising. Journal of International Marketing,11(2),101-111.   
+Simonson, I. (1989). Choice based on reasons: The case of atraction and compromise effects.Journal of Consumer Research,16(2),158-174.   
+Simonson,I.,& Nowlis,S.M. (2ooo).The role of explanations and need for uniquenessin consumer decision making: Unconventional choices based on reasons. Journal of Consumer Research,27(1),49-68.   
+Spiegel,K., Sheridan,J.F.,& Van Cauter,E. (2o02).Effect of sleep deprivation on response to immunizaton. Jama,288(12),1471-1472.   
+Tsiros,M.,& Mittal, V.(20oo).Regret: A model of its antecedents and consequences in consumer decision making. Journal of Consumer Research, 26(4), 401-417.   
+Venkatesan,R.,& Kumar, V. (2o04). A customer lifetime value framework for customer selection and resource allocation strategy. Journal of Marketing, 68(4),106-125.   
+Venkatraman, V., Chuah,Y.L.,Huettel, S.A.,&Chee,M.W.(2007). Sleep deprivation elevates expectationof gains and attenuates response to losses following risky decisions. Sleep,30(5), 603-609.   
+Wagner,D.T.,Barmes, C.M.,Lim, V. K.G.,&Ferris,D.L. (2012).Lost sleep and cyberloafing: Evidence from the laboratory and a daylight saving time quasi-experiment. Journal of Applied Psychology,97(5), 1068- 1076.   
+Webb,W.B., & Levy,C.M. (1982). Age,sleep deprivation,and performance.Psychophysiology,19(3),272-276.   
+Wesselius,H. M., Van Den Ende,E.S.,Alsma,J.,Ter Maaten,J.C.,Schuit,S.C.,Stasen,P.M.,de Vries,O.J., Kaasjager, K.H., Haak, H. R.,& Van Doormaal,F.F. (2O18). Quality and quantity of sleep and factors associated with sleep disturbance in hospitalized patients.JAMA Internal Medicine,178(9),1201-1208.   
+Yam,K. C.,Jackson,J.C.,Lau,J.,Qin,X.,Barnes, C.M.,& Chong,J.-K. (202O). Association of high profile football matches in Europe with trafic accidents in Asia: Archival study.BMJ,371, m4465.   
+Zammit, G. K., & Zanca, J.A. (1998). Good nights: How to stop sleep deprivation,overcome insomnia,and get the sleep you need. Andrews McMeel Pub.   
+Zeelenberg,M.,& Pieters,R. (1999). Comparing service delivery to what might have been: Behavioral responses to regret and disappointment. Journal of Service Research,2(1),86-97.   
+Zeelenberg,M.,& Pieters,R.(20o4).Beyond valence in customer dissatisfaction: A review and new findings on behavioral responses to regret and disappointment in failed services. Journal of Business Research, 57(4),
+
+445-455. Zeelenberg, M.,& Pieters,R. (2007). A theory ofregret regulation 1.0. Journal ofConsumer Psychology,17(1), 3-18. Zhu,H.W.,& Huang,M.X.(2O13).Does hyperopia lead to self-control or indulgence: Self-control and impulsive buying.Journal ofMarketing Science,8(3),45-62. [朱华伟,黄敏学.(2013).高瞻远瞩导致自控还是冲动:自我建构与冲动购买.营销科学学报,8(3),45-62.]
+
+# Sleep deprivation and post-purchase regret: An empirical study based on large-scale individual-level data
+
+GONG Shiyang1 ZHANG Yibo² GAO Yuetao² ( Business School, Beijing Normal University, Beijing 10o875, China) (2 School of Management, Xiamen University, Xiamen 3610o5, China)
+
+Abstract: Sleep problems have become a very common phenomenon in modern society, but few studies have directly explored the impact of sleep deprivation on consumer choice and decisionmaking behavior. This study combined the common late-night shopping scene in the current market and the theory of ego-depletion.This study speculated that when consumers shopped during sleep-deprived time, they were more likely to make impulsive or unplanned actions due to lack of sufficient cognitive resources.Furthermore, this study postulated that purchase decisions were more likely to have regrets and return behaviors in the subsequent process. In addition, the moderating effect of two promotional cues (discount ratio/lucky numbers) was explored.
+
+The data comes from a large domestic e-commerce retail website. The data contains shopping behavior data at the individual consumer level from June l to July 31,2O21,with a sample size of 1,625,472. With minute-accurate purchase time information, we can distinguish between purchase orders generated during sleep-deprived and non-sleep-deprived periods. This paper used the Logit regression model to estimate the customer's return probability,and used the Cox risk model to analyze the relationship between sleep deprivation and return speed. Finally, the adjustment variables were added to the Logit regression model for verification.
+
+This paper derives several findings. First, it shows that sleep deprivation can significantly increase consumers' shopping regret behavior, which is manifested as increasing the probability of product returns and accelerating the speed of product returns. Second, this paper finds that products' prices positively moderate the effect of sleep deprivation on shopping regret, while the preferential ratio of promotional activities negatively moderate that effect.
+
+The findings help understand how sleep deprivation affects consumer behavior, i.e., consumers were more likely to experience shopping regrets (e.g., returns) after shopping during sleep-deprived periods compared to other times of the day, while promotional depth negatively moderates the efect of sleep deprivation on shopping regret. The results of the study suggest that consumers should try to minimize shopping during the period from 12:00 A.M. to $5 { : } 5 9 \mathrm { A . M }$ in the morning. If shopping during this period, they need to pay more attention to the central information of products and promotions. In the meanwhile, this study suggests that companies can consider adjusting the time of promotional activities from sleep deprivation periods to other periods, so as to reduce the increase in operating costs due to consumer shopping regrets and the increase in return rates.
+
+Keywords: sleep deprivation; post-purchasing regret; product return; large-scale individual-level data; empirical study
+
+附表1睡眠剥夺与退货选择：去掉购物网站促销阶段样本的回归结果
+
+附录：  
+
+<html><body><table><tr><td>变量</td><td>b</td><td>SE</td><td>z值</td><td>p值</td><td>95%置信区间</td></tr><tr><td colspan="6">A．去掉6月18日样本(N=1595663)</td></tr><tr><td>睡眠剥夺</td><td>0.0109</td><td>0.0008</td><td>14.08</td><td>0.000</td><td>[0.0094,0.0124]</td></tr><tr><td>商品价格(千元)</td><td>0.0085</td><td>0.0003</td><td>33.18</td><td>0.000</td><td>[0.0080, 0.0090]</td></tr><tr><td>促销优惠比例</td><td>-0.0411</td><td>0.0032</td><td>-12.81</td><td>0.000</td><td>[-0.0474,-0.0348]</td></tr><tr><td>优惠金额(元)</td><td>-0.0006</td><td>0.0002</td><td>-3.10</td><td>0.002</td><td>[-0.0010,-0.0002]</td></tr><tr><td>顾客性别</td><td>-0.0002</td><td>0.0004</td><td>-0.40</td><td>0.690</td><td>[-0.0010,0.0006]</td></tr><tr><td>顾客类型</td><td>0.0099</td><td>0.0004</td><td>25.19</td><td>0.000</td><td>[0.0091, 0.0106]</td></tr><tr><td colspan="6">B.去掉6月18日前后3日样本(N=1466171)</td></tr><tr><td>睡眠剥夺</td><td>0.0087</td><td>0.0008</td><td>10.80</td><td>0.000</td><td>[0.0072,0.0103]</td></tr><tr><td>商品价格(千元)</td><td>0.0085</td><td>0.0003</td><td>32.94</td><td>0.000</td><td>[0.0080,0.0090]</td></tr><tr><td>促销优惠比例</td><td>-0.0459</td><td>0.0035</td><td>-13.27</td><td>0.000</td><td>[-0.0527,-0.0391]</td></tr><tr><td>优惠金额(元)</td><td>-0.0005</td><td>0.0002</td><td>-2.66</td><td>0.008</td><td>[-0.0008,-0.0001]</td></tr><tr><td>顾客性别</td><td>-0.0001</td><td>0.0004</td><td>0.19</td><td>0.850</td><td>[-0.0008,0.0009]</td></tr><tr><td>顾客类型</td><td>0.0089</td><td>0.0004</td><td>21.84</td><td>0.000</td><td>[0.0081, 0.0097]</td></tr><tr><td colspan="6">C．去掉6月18日前后5日样本(N=1366567)</td></tr><tr><td>睡眠剥夺</td><td>0.0082</td><td>0.0008</td><td>9.74</td><td>0.000</td><td>[0.0065, 0.0098]</td></tr><tr><td>商品价格(千元)</td><td>0.0083</td><td>0.0003</td><td>31.60</td><td>0.000</td><td>[0.0078, 0.0088]</td></tr><tr><td>促销优惠比例</td><td>-0.0637</td><td>0.0040</td><td>-15.95</td><td>0.000</td><td>[-0.0715,-0.0559]</td></tr><tr><td>优惠金额(元)</td><td>-0.0003</td><td>0.0002</td><td>-1.68</td><td>0.093</td><td>[-0.0007,0.0001]</td></tr><tr><td>顾客性别</td><td>-0.0000</td><td>0.0004</td><td>-0.01</td><td>0.991</td><td>[-0.0009,0.0009]</td></tr><tr><td>顾客类型</td><td>0.0080</td><td>0.0004</td><td>19.13</td><td>0.000</td><td>[0.0072, 0.0088]</td></tr></table></body></html>
+
+注：因变量为退货选择，系数汇报了变量在样本均值处的边际效应。回归模型中还加入了代表退货时间的控制变量(周二至周日，以周一为基准)。
+
+附表2倾向得分匹配法的数据平衡结果  
+
+<html><body><table><tr><td>变量</td><td>组别</td><td colspan="2">均值</td><td>%偏差</td><td>%缩减偏差</td></tr><tr><td></td><td></td><td>处理组</td><td>对照组</td><td></td><td></td></tr><tr><td>商品价格(千元)</td><td>匹配前</td><td>0.3401</td><td>0.2696</td><td>7.4</td><td>22.2</td></tr><tr><td></td><td>匹配后</td><td>0.3401</td><td>0.3950</td><td>-5.7</td><td></td></tr><tr><td>促销优惠比例</td><td>匹配前</td><td>0.0226</td><td>0.0215</td><td>1.2</td><td>-51.6</td></tr><tr><td></td><td>匹配后</td><td>0.0226</td><td>0.0242</td><td>-1.8</td><td></td></tr><tr><td>优惠金额(元)</td><td>匹配前</td><td>0.5867</td><td>0.5873</td><td>-0.0</td><td>-193.6</td></tr><tr><td></td><td>匹配后</td><td>0.5867</td><td>0.5849</td><td>0.1</td><td></td></tr><tr><td>网站促销时期</td><td>匹配前</td><td>0.4091</td><td>0.271</td><td>29.5</td><td>92.2</td></tr><tr><td></td><td>匹配后</td><td>0.4091</td><td>0.3984</td><td>2.3</td><td></td></tr><tr><td>顾客性别</td><td>匹配前</td><td>0.6236</td><td>0.6247</td><td>-0.2</td><td>-250.2</td></tr><tr><td></td><td>匹配后</td><td>0.6236</td><td>0.6197</td><td>0.8</td><td></td></tr><tr><td>顾客类型</td><td>匹配前</td><td>2.4938</td><td>2.4009</td><td>18.2</td><td>98.6</td></tr><tr><td></td><td>匹配后</td><td>2.4938</td><td>2.4951</td><td>-0.3</td><td></td></tr><tr><td>周一</td><td>匹配前</td><td>0.1301</td><td>0.1472</td><td>-4.9</td><td>97.9</td></tr><tr><td></td><td>匹配后</td><td>0.1301</td><td>0.1305</td><td>-0.1</td><td></td></tr><tr><td>周二</td><td>匹配前</td><td>0.2277</td><td>0.1407</td><td>22.6</td><td>95.1</td></tr><tr><td></td><td>匹配后</td><td>0.2277</td><td>0.2320</td><td>-1.1</td><td></td></tr><tr><td>周三</td><td>匹配前</td><td>0.1360</td><td>0.1524</td><td>-4.7</td><td>97.6</td></tr><tr><td></td><td>匹配后</td><td>0.1360</td><td>0.1364</td><td>-0.1</td><td></td></tr><tr><td>周四</td><td>匹配前</td><td>0.1152</td><td>0.1375</td><td>-6.7</td><td>97.9</td></tr><tr><td></td><td>匹配后</td><td>0.1152</td><td>0.1147</td><td>0.1</td><td></td></tr><tr><td>周五</td><td>匹配前</td><td>0.1123</td><td>0.1287</td><td>-5.0</td><td>94.0</td></tr><tr><td></td><td>匹配后</td><td>0.1123</td><td>0.1133</td><td>-0.3</td><td></td></tr><tr><td>周六</td><td>匹配前</td><td>0.1452</td><td>0.1437</td><td>0.4</td><td>96.4</td></tr><tr><td></td><td>匹配后</td><td>0.1452</td><td>0.1451</td><td>0.0</td><td></td></tr><tr><td>周日</td><td>匹配前</td><td>0.1335</td><td>0.1498</td><td>-4.7</td><td>66.3</td></tr><tr><td></td><td>匹配后</td><td>0.1335</td><td>0.1280</td><td>1.6</td><td></td></tr></table></body></html>
+
+注：数据平衡结果基于近邻匹配法(1:1，可放回匹配)。

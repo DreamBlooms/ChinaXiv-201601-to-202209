@@ -1,0 +1,316 @@
+# 基于动态适应度函数的模糊测试技术研究
+
+邓一杰，刘克胜，朱凯龙，常超(国防科技大学 电子对抗学院，合肥 230031)
+
+摘要：模糊测试是一种有效的自动化漏洞挖掘技术，主流模糊测试技术采用遗传算法生成测试用例，存在早熟现象，导致路径覆盖率不足。针对该问题，提出一种基于动态适应度函数的模糊测试方法。综合考虑了种子新度和路径深度因素，设计了根据测试阶段不同而动态变化的适应度函数，实现了基于动态适应度函数的模糊测试工具DynFuzzer。在 BegBunch 和CGC 提供的测试集上进行实验，结果表明与现有模糊测试工具相比，DynFuzzer 路径覆盖率提高了$40 \%$ ，多发现了 $10 \%$ 的bug。基于动态适应度函数的模糊测试方法能有效克服早熟问题，提高路径覆盖率，发现更多的bug。
+
+关键词：模糊测试；遗传算法；动态适应度函数；DynFuzzer；路径覆盖率 中图分类号：TP311.5 doi:10.3969/j.issn.1001-3695.2018.04.0266
+
+# Research on fuzzing technique based on dynamic fitness function
+
+Deng Yijie, Liu Kesheng, Zhu Kailong, Chang Chao (National University ofDefense Technology,Electronic Engineering Institute,HeFei23oooo,China)
+
+Abstract: Fuzzing isanefective technique for automatically mining vulnerabilities.The mainstream fuzzing technique uses genetic algorithm to generatecases fortesting,butalmost there exists aprematurephenomenon,whichleads tolowerratioof path coverage.Giventhis problem,this paper proposed a fuzzng test method based on dynamic fitnessfunction.Considering the newnessof seedand the depth of thepath,designed an improved fitnessfunctionofdynamicchange with diferent test phases,bywhich,implementedthe fuzzing testing tool-DynFuzzer.Onthe testsetprovided byBegBunchand CGC,deviseda experiment. The results show that compared with the existing fuzzing test tools,the DynFuzzer path coverage is $40 \%$ higher and （204号 $10 \%$ more bugs are found.The fuzzing test method based on dynamic fitnessfunction can overcome the problem ofprematurity, improve path coverage and find more bugs.
+
+Key words: fuzzing; genetic algorithm; dynamic fitness function; DynFuzzer; path coverage
+
+# 0 引言
+
+模糊测试是一种有效的漏洞挖掘技术，具有高度自动化、可扩展性强、可适用于大型程序等优势，被广泛应用于软件测试领域错误！未找到引用源。据统计，微软产品发布前有 $2 0 \% { \sim } 2 5 \%$ 的安全漏洞是通过模糊测试技术发现的错误!未找到引用源。。因此，设计一种高效的模糊测试方法在软件安全领域具有重要意义。
+
+根据测试用例生成方法不同，可以将模糊测试分为：基于格式分析和程序理解相结合的和基于静态分析与动态测试相结合的错误!未找到引用源。，前者的代表工具有 SPIKE、Peach 错误!未找到引用源。等，该方法的优点是执行效率高、应用范围广、通用性强，缺点是仍然需要大量的人工参与来进行多种知识的获取错误!未找到引用源。；后者的代表工具有 Buzz-Fuzz错误!未找到引用源。等，该方法的优点是代码覆盖率较高，缺点是无法克服路径爆炸的问题，也无法解决高强度的程序检查。2016年结合启发式算法的模糊测试工具AFL因为其简单、高效的优点成为了工业化漏洞挖掘最常用的模糊工具之—错误!未找到引用源。
+
+AFL采用以路径覆盖率为导向的遗传算法进行模糊测试，相比其他模糊测试方法，提高了路径覆盖率错误!未找到引用源。。但是，AFL的遗传算法采用固定的适应度函数，而没有充分利用在测试过程中动态获得的程序路径信息，导致种群基因收敛过早，测试后期难以发现新的路径，路径覆盖率不足。
+
+针对上述问题，本文提出了一种基于动态适应度函数的模糊测试方法，适应度函数的设计综合考虑路径的新度和深度两个因素，在模糊测试的不同阶段赋予其不同的权值以得到更高的路径覆盖率。
+
+# 1 问题分析
+
+# 1.1AFL的测试用例生成方法
+
+AFL 采用遗传算法生成测试用例错误!未找到引用源。。首先，用户提供初始测试用例集，然后，以路径覆盖作为导向，采用变异操作产生下一代测试用例，将能产生新路径的用例保留为种子，循环上述操作,通过不断覆盖程序的执行路径来发现bug错误!未找到引用源。
+
+AFL中种子从测试用例中选择而来，测试用例又由种子变异产生，如果该测试用例在执行过程中产生了新的路径则将其加入种子集中生成下一代种群，这样能建立种子和路径的一一对应关系错误!未找到引用源。，这也表示 AFL 的种群数量是只增不减。在种子执行过程中AFL还有其独特的favorite 策略，对于每条路径片段，将到达该片段速度最快或输入体积最小的种子标记为 favorite 错误!未找到引用源。，被标记为 favorite 的种子在选择时会拥有更高的概率被选中。
+
+在种子被选中后，每个种子会变异生成一定数量的测试用例，生成测试用例的数量由种子的执行时间、路径片段覆盖率和产生新输入所花的时间共同决定，被标记为 favorite 的种子每次被选择时会生成几千个测试用例，其他种子被选中后只产生几十个测试用例。AFL特殊的种子选择和能量分配策略提升了模糊测试的效率但也导致了其种群基因收敛过早，代码覆盖率不足。
+
+# 1.2AFL实例分析
+
+使用AFL对CGC中b64_encode_1赛题进行模糊测试，测试时间为2小时。AFL进行了约2000次循环，每个种子被选择次数分布如图1所示。
+
+横坐标表示种子的编号，纵坐标表示种子被选择的次数。可以发现编号为1、7、8、13、15、18的种子被选择的次数远高于其他的种子，这些种子也是被标记为favorite的种子。
+
+![](images/4d222149947af115dec334b87d56cf8406c45df43ecae50737f3e1bc8074e3cc.jpg)  
+图2AFL的种子生成测试例情况
+
+![](images/f671deed47b5f59433774a4986b6cf5f6ff90034bd1f87724f2c36b954137994.jpg)  
+图1AFL的种子选择情况
+
+在与上一个实验相同的实验环境中统计每个种子生成的测试用例数量并计算得到种子被选中时平均生成测试用例的数量，具体如图2所示。
+
+横坐标表示对所有种子按照生成测试例数进行降序排序的编号，纵坐标表示每个种子在一个Fuzz循环中生成的测试用例的数量即路径被执行的次数。可以发现AFL在测试例生成上有如下几个特点：a)有 $3 8 \%$ 的种子只生成了极少的测试用例；b)有 $28 \%$ 的种子生成了绝大多数的测试用例。
+
+可以看出AFL的大部分时间都在执行favorite 种子，非favorite的种子执行时间占不到 $1 \%$ ，但是favorite的判定是根据种子的执行速度和体积大小决定的，与是否有可能产生新路径并没有直接关系，以上原因导致AFL的种群基因收敛过早，路径覆盖率不足。
+
+# 2 基于路径状态的动态适应度函数
+
+为了能有效地把模糊测试的资源集中到缺陷多发区，取得更高的路径覆盖率，本文提出了一种基于动态适应度函数的模糊测试方法。方法结合了两个适应度函数：新度优先适应度函数和深度优先适应度函数，采用了根据测试阶段不同而动态变化的适应度函数。
+
+# 2.1新度适应度函数
+
+新度适应度函数的目的是为了使程序的控制流图尽可能完整并发现一些浅层的bug。根据实验和漏洞挖掘经验，本文总结提出两条模糊测试前期的启发式规则。
+
+启发式规则1一个种子发现的路径片段越新，则其后代在下一轮测试中发现新路径的概率越大。
+
+启发式规则2一个种子所执行路径上的片段越多，其后代在下一轮测试中发现新路径的概率越大。
+
+根据上述启发式规则，定义种子的新度适应度等于其对应执行路径上所有路径片段的新度和
+
+$$
+F i t n e s s \_ n f s \_ \nu a l u e ( s e e d ) = \sum _ { i = 1 } ^ { n } 2 ^ { c y c ( i ) }
+$$
+
+其中:i为种子对应执行路径上的路径片段编号，cyc(i)为路径片段 $i$ 第一次被执行的循环轮次， $2 ^ { c y c ( i ) }$ 表示路径片段 $i$ 的新度。将时间对适应度的影响定义为指数级别，提高了发现新路径片段的种子被选中的优先级。
+
+![](images/e1907a390f66fa979b62d95f378314bd10b40be1e59fc18fe5db6715a9b90d00.jpg)  
+图3新度适应度计算
+
+通过图3中的实例解释测试用例新度适应度的计算方法。
+
+图3表示一个程序的部分控制流，路径片段上的数字表示该路径片段被发现的轮次。
+
+假设有c1、c2、c3三个种子，执行路径分别为a-b-d、a-c-e、a-c-f可以计算三个种子的新度适应度：
+
+$$
+F i t n e s s \_ n f s \_ \nu a l u e ( c 1 ) = 2 ^ { 1 } + 2 ^ { 1 } + 2 ^ { 1 } = 6
+$$
+
+$$
+F i t n e s s \_ n f s \_ { - } \nu a l u e ( c 2 ) = 2 ^ { 1 } + 2 ^ { 2 } + 2 ^ { 2 } = 1 0
+$$
+
+$$
+F i t n e s s \_ n f s \_ { - } \nu a l u e ( c 3 ) = 2 ^ { 1 } + 2 ^ { 2 } + 2 ^ { 3 } = 1 4
+$$
+
+就得到了三个种子的新度适应度。
+
+# 2.2 深度适应度函数
+
+深度适应度函数的目的是为了从程序的路径中选出危险性较高的路径，有针对性的对危险路径进行模糊测试以发现深层的 bug。根据实验和漏洞挖掘经验，本文总结提出一条模糊测试后期的启发式规则。
+
+启发式规则3种子对应的路径越深，该条路径上越有可能存在bug。
+
+基于上述启发式规则，在模糊测试后期以路径的深度作为适应度函数的优先影响因子，以求提高发现深层bug的概率。
+
+# 2.2.1控制流到马尔可夫链的映射
+
+马尔可夫链是概率学中的一种离散事件随机过程，该过程中的状态转换满足如下性质：过去状态对于将来状态的预测是无影响的，将来的状态只与现在的状态有关错误!未找到引用源。。本文研究的目标是以C语言等结构化程序语言编写的二进制程序，针对结构化的程序，可以将程序的每个基本块视为一种状态，之前经过的基本块对于下一步可能到达的基本块是无影响的，下一步可能到达的基本块只与现在所在的基本块有关系，所以程序的执行流程是满足马尔可夫性质的，这种随机过程可以抽象为一条马尔可夫链[14]。
+
+把程序基本块视为状态后，路径就可视为状态转移过程，对应的每条路径的概率就是状态转移概率，这个概率由统计得出，AFL在程序的每个分支点处插桩了一些轻型代码以获得路径信息[14]，本方法利用这些代码记录了在分支点处选择不同分支的测试用例数，分支用例数所占总用例数的比例定义为该路径分支的概率，具体计算方法如图4所示。
+
+![](images/e7fc654eb3b6eea0223bc6d0dfd8c1febf8ccaff10cd231f97be802f2b9426f7.jpg)  
+图4路径分支概率
+
+假设在一次Fuzz过程后，有m个测试用例经过路径分支AB， $\mathrm { ~ n ~ }$ 个测试用例经过分支AC，则
+
+$$
+\scriptstyle p ( A B ) = { \frac { m } { m + n } } , p ( A C ) = { \frac { n } { m + n } } \ ,
+$$
+
+# 2.2.2路径的权重计算
+
+本方法通过计算每条路径的权重获得种子的深度适应度，每个种子的深度适应度由其对应的路径上的基本块权重相加得到，基本块概率由路径状态转移概率求得，公式如下：
+
+$$
+p ( S ) = \sum _ { D \in { \boldsymbol { u } } ( S ) } p ( D ) ^ { * } p ( D S )
+$$
+
+其中：S为基本块， $\mathrm { u ( S ) }$ 为能通过一步状态转移到达S的基本块的集合，DS 表示基本块D到基本块 S 的路径，p(Dot)和p(edge)分别表示基本块的概率和路径片段的概率。
+
+每个基本块的权重定义为其状态概率的倒数，S基本块的权重为
+
+$$
+w ( S ) = { \frac { 1 } { p ( S ) } }
+$$
+
+若某个种子seed 对应路径经过的基本块集合为block(seed)则该路径对应种子的深度适应度为
+
+$$
+F i t n e s s \_ d f s \_ \nu a l u e ( s e e d ) =
+$$
+
+需要特别指出的是，模糊测试过程中会不断产生新的路径，所以程序的控制流图也会动态变化，每经过一次Fuzz循环就更新一次控制流图，然后依靠新的控制流图计算新的种子适应度并进行新一轮的Fuzz。图5展示了一次完整的Fuzz过程路径权值计算。
+
+![](images/df5c1c6684d16f47a4a2c241c218e75e8dd347940fc2ac6270bb1a275a6e3576.jpg)  
+图5路径适应度计算
+
+图5表示程序的控制流，基本块旁的值(a.b)，a表示基本块的概率，b表示基本块的权值，基本块之间的数字表示基本块间的转移概率。假设现在有一个种子c4对应着Main-B-C-E-F-Bug-Return 路径，另一个种子c5 对应着Main-B-C-D-G-Return路径，分别依靠现有控制流计算两个种子的深度适应度，计算方法如下:
+
+先基于现在控制流图计算出的每个基本块概率和权值：
+
+$$
+p ( B ) = 1 ^ { * } 0 . 7 = 0 . 7
+$$
+
+$$
+w ( B ) = \frac { 1 } { p ( B ) } = 2
+$$
+
+$$
+p ( G ) = 0 . 3 5 ^ { * } 0 . 8 + 0 . 3 5 ^ { * } 0 . 6 + 0 . 1 4 ^ { * } 0 . 9 = 0 . 6 1 6
+$$
+
+$$
+w ( G ) = \frac { 1 } { p ( G ) } = 1 . 6 2
+$$
+
+再把路径包含的基本块权值相加即可得到对应种子的深度适应度，相加的时候需要去掉程序的起始块和结束块：
+
+$$
+F i t n e s s \_ d f s \_ \nu a l u e ( c 4 ) = w ( B ) + w ( C ) + w ( E )
+$$
+
+$$
++ w ( F ) + w ( B u g ) = 8 4 . 2 9
+$$
+
+$$
+F i t n e s s \_ d f s \_ \nu a l u e ( c 5 ) = w ( B ) + w ( C ) + w ( D )
+$$
+
+$$
++ w ( G ) = 7 . 3 4
+$$
+
+得出两个种子的深度适应度。
+
+# 2.3 动态适应度函数
+
+基于上文提出的两种适应度函数计算方法，本方法在不同的时期分别赋予其不同的权值实现了动态的适应度函数设计，
+
+前期新度适应度占权重较高，后期深度适应度占权重较高，具体设计方法如下：
+
+为了避免新度适应度和深度适应度相互影响，首先将其均标准化处理
+
+$$
+F i t n e s s \_ n f s ( s e e d ) = \frac { F i t n e s s \_ n f s \_ \nu a l u e ( s e e d ) } { \displaystyle \sum _ { j \in s e t } F i t n e s s \_ n f s \_ \nu a l u e ( j ) }
+$$
+
+$$
+F i t n e s s \_ d f s ( s e e d ) = \frac { F i t n e s s \_ d f s \_ \nu a l u e ( s e e d ) } { \displaystyle \sum _ { j \in s e t } F i t n e s s \_ d f s \_ \nu a l u e ( j ) }
+$$
+
+set表示该次循环中的种子集。
+
+然后将标准化后的两个适应度函数赋予不同的权重后相加：
+
+$$
+F i t n e s s = \left\{ \begin{array} { l l } { \displaystyle ( 1 - \log _ { a } ( c y c ) ) F i t n e s s \_ n f s + \log _ { a } ( c y c ) F i t n e s s \_ d f s \quad } & { \ c y c \leq \sqrt { a } } \\ { \displaystyle \frac { b } { c y c } F i t n e s s \_ n f s + ( 1 - \frac { b } { c y c } ) F i t n e s s \_ d f s \quad } & { \ c y c > 2 b } \end{array} \right.
+$$
+
+为了让适应度函数连续，参数a和b满足条件${ \sqrt { a } } = 2 b = { \mathrm { r u s h } }$ ，rush 的值根据不同程序规模可自定义，默认为20，rush是一个适应度阈值，表示在小于rush的轮次中新度适应度的权重大于深度的权重，在大于rush的轮次中新度适应度的权重小于深度的权重。这种设计方法通过动态改变遗传算法的适应度函数避免种群的收敛并有效的提高路径覆盖率和发现深层bug的概率。
+
+这种基于动态适应度函数的模糊测试方法可以有效的发现程序的完整路径并将模糊测试的时间和计算资源分配给更可能存在bug的区域，有利于发现代码更深层次的缺陷，不足之处是在前期发现crash的速率方面略有下降。
+
+# 3 DynFuzzer系统设计与实现
+
+根据上文提出的基于动态适应度函数的模糊测试方法设计实现了模糊测试工具DynFuzzer，本节对DynFuzzer 使用的遗传算法和系统架构进行介绍。
+
+# 3.1种子选择和能量分配算法
+
+DynFuzzer通过种子的动态适应度值挑选进行Fuzz的种子并给其分配能量，在本文中定义能量为种子变异产生测试用例的数量。在计算得到种子集中种子的动态适应度后，采用轮盘赌算法选择种子进行Fuzz，每个种子都有一定的概率被选中，选择种子i的概率为
+
+$$
+P r o ( i ) = \frac { F i t n e s s ( i ) } { F i t }
+$$
+
+其中：
+
+$$
+F i t = \sum _ { i = 1 } ^ { n } F i t n e s s ( i )
+$$
+
+选择种子后进入能量分配阶段，适应度高的种子能量大，将产生更多的测试用例，在Fuzz开始前针对每个种子定义一个最大测试用例数。
+
+$$
+M A X \_ c a s e ( i ) = 2 ^ { s p l i t ( i ) }
+$$
+
+split(i)为种子i对应路径所含的路径片段数，种子i最终被分配的能量为
+
+$$
+p o w e r ( i ) = \left\{ \begin{array} { l l } { 1 0 ^ { 2 } } & { \mathrm { ~ } } \\ { P r o ( i ) ^ { * } M A X \_ c a s e ( i ) } & { 1 0 ^ { 2 } < p o w e r ( i ) < 1 0 ^ { 5 } } \\ { 1 0 ^ { 5 } } & { \mathrm { ~ } } \end{array} \right.
+$$
+
+该公式表明给种子分配的能量是有边界的，最小产生100个测试用例，最多产生 $1 0 ^ { 5 }$ 个。
+
+# 3.2 系统架构
+
+DynFuzzer系统分为两个模块：代理模块和监控模块，模块设计如图6所示。
+
+![](images/0f46168be84e3789c84420fe57a1db60cfac697446e048388df107768dd24a77.jpg)  
+图6DynFuzzer 模块架构
+
+代理模块：模糊测试的主模块，负责从种子集中选出进行Fuzz的种子并将其变异生成测试用例；调用目标程序执行测试用例；选择执行了新路径的测试用例将其加入到下一代种子集中。
+
+监控模块：负责监控测试用例在执行过程中是否产生crash，并记录产生crash时的现场如各寄存器的值和堆栈的值等。
+
+系统的运行流程如下：
+
+a)用户输入初始测试用例集并执行；
+
+b)记录程序的执行路径信息，若产生crash则调用监控模块记录程序详细执行信息，然后选择执行了新路径的测试用例加入下一代种子集；
+
+c)根据第b)步的路径信息计算出种子的适应度，根据种子的适应度进行种子选择和能量分配操作；
+
+d)将第c)步中选出来的种子变异生成测试用例集并调用目标程序执行，转到步骤b);
+
+Fuzz循环会一直持续，直到用户手动结束或者当超过一定时间没有产生新的路径后停止测试。
+
+# 4 实验及分析
+
+# 4.1BegBunch
+
+针对本论文设计的DynFuzzer 采用BegBunch[15]作为实验数据集，BegBunch 是一个人工构造的包含 67个crash 的 bug测试集。本实验的运行环境为64位的Ubuntu14.04、8个核心CPU、内存为12GB，运行时间为6h，AFL和DynFuzzer在不同时间点发现的路径数和crash数统计如图7和8所示。
+
+![](images/4a174affa82af15356708b88deee62e07f1c86a0c9f9f85ed91ceb5f3e70fa77.jpg)  
+图7路径对比图
+
+![](images/f93f297418475769cfa159c7593d490af7b94f862312e9d30911ade871c6810c.jpg)  
+图8缺陷对比图
+
+横坐标表示Fuzz的时间，图7和8的纵坐标分别表示发现的路径数和crash数，通过实验结果可以发现，DynFuzzer在前期发现新路径的能力上略弱于AFL，但是当经过一定次数循环后，DynFuzzer最终发现了13058条路径，AFL只发现了7613条路径，DynFuzzer比AFL多发现了 $40 \%$ 的路径；在产生crash方面，DynFuzzer的能力在不同时间阶段能保持相对稳定，后期的Fuzz 能力与前期相差不大，最终发现了66个crash；而AFL的Fuzz能力明显随着时间的推移越来越差，这也说明了AFL后期Fuzz能力不足的问题，最终只发现了60个crash，采用了动态适应度函数的DynFuzzer 比 AFL 多发现了 $10 \%$ 的crash。
+
+# 4.2 CGC赛题
+
+收集CGC(cybergrandchallenge)比赛中用到的赛题作为本次实验测试集，由于CGC赛题的难度不一，对于一些较简单的题AFL和DynFuzzer 都能比较快的发现crash，太难的题都无法发现crash，看不出性能上的差别，因此只统计了中等难度的、Fuzz时间较长的测试用例测试情况，这次实验运行环境与4.1节相同，不同点是两种工具均让其运行12h后统计crash情况，结果如图9所示。
+
+![](images/97b2be47fbc36b55315fe09f029c8e94522a9a63f7443cf95261111765ce9737.jpg)  
+图9基于CGC 的实验测试
+
+横坐标表示CGC赛题的编号，纵坐标表示模糊测试结束后发现的crash数，通过实验发现，DynFuzzer总共发现了438个crash，而AFL发现了总共348个crash，DynFuzzer比AFL多发现 $2 6 \%$ 的crash，考虑到统计的CGC赛题都是中等难度的测试题，真实的测试集中还包含10道简单的测试题，对这些题AFL和DynFuzzer均能发现所有的crash，还有5道对于难度系数很高的CTF赛题，AFL和DynFuzzer都无法发现crash，综合这些题目对比较实验的影响后，计算得到DynFuzzer 比AFL平均多发现 $0 . 2 6 ^ { * } { \frac { 1 0 } { 1 0 + 1 0 + 5 } } = 1 0 . 4 \%$ 的crash。
+
+# 5 结束语
+
+针对现行模糊测试技术存在的种群基因收敛过早错误！未找到引用源。，路径覆盖率不足的问题提出了基于动态适应度函数的模糊测试方法，并基于该方法实现了模糊测试工具DynFuzzer。通过实验证明DynFuzzer在模糊测试的路径覆盖率方面比AFL多发现 $40 \%$ 的路径，在发现crash方面平均比AFL多发现 $10 \%$ 的crash。DynFuzzer的不足有两个方面，一是在模糊测试前期产生新路径和crash 的能力较弱；二是由于模块耦合度对控制流转化成马尔可夫链模型的影响，本方法对于复杂的非结构化程序和大型实际程序依然不能达到理想的效果，如何解决这两个问题还需要在接下来的工作中进一步研究。
+
+# 参考文献：
+
+[1]廉美，邹燕燕，霍玮，等．动态资源感知的并行化模糊测试框架[J] 计算机应用研究,2017,34(1):52-57.(Lian Mei,Zhou Yanyan,Huo Wei, etal.Parallel fuzzy testing framework for dynamic resource perception [J] Application Research of Computers,2017,34(1):52-57.)   
+[2]李红辉，齐佳，刘峰，等.模糊测试技术研究[J].中国科学：信息科学, 2014,44 (1O): 1305-1322.(Li Honghui, Qi Jia,Liu Feng,etal. Research on fuzzy testing technology [J]. Chinese science: information science,2014,44 (10): 1305-1322.)   
+[3]吴志勇，王红川，孙乐昌，等.Fuzzing 技术综述[J].计算机应用研究, 2010,27 (3): 829-832. (Wu Zhiyong,Wang Hongchuan,Sun Lechang,etal Review offuzzing technology[J].Application Research ofComputers,2010, 27 (3): 829-832. )   
+[4]Peach [EB/OL]. (2014-02-23)[2015-11-28]. http://community.peachfuzzer com/.   
+[5]Luo Yongbiao,Ye Jun,Ma Xiaowen.Multicriteria fuzzy decision-making method based on weighted correlation coefficients under interval-valued intuitionistic fuzzyenvironment[J].EuropeanJournalof Operational Research,2010,205 (1): 202-204.   
+[6]Vuori J. Student engagement: buzzword offuzzword?[J]. Journal ofHigher Education Policy& Management,2014,36 (5): 509-519.   
+[7]Caroline Lemieux,Koushik Sen.FairFuzz: targeting rare branches to rapidly increase greybox fuzz testing coverage [J]. 2017.   
+[8]Serebryany K.Continuous fuzzing with Libfuzzer and address sanitizer[C]// Cybersecurity Development. 2017: 157-157.   
+[9]Cha S, Woo M, Brumley D.Program-adaptive mutational fuzzing [C]//Proc of IEEE Symposium on Security and Privacy. 2015: 725-741.   
+[10] Rawat S,Jain V, Kumar A,etal.VUzzer: application-aware evolutionary fuzzing [C]//Proc ofNetwork and Distributed System Security Symposium. 2017.   
+[11] Pham VT, Roychoudhury A. Coverage-based greybox fuzzing as Markov chain [C]// Proc of ACM SIGSAC Conference on Computer and Communications Security. 2016: 1032-1043.   
+[12] Wang Junjie,Chen Bihuan,Wei Lei,et al. Skyfire: data-driven seed generation for fuzzing [Cl/ Security and Privacy.2017: 579-594.   
+[13] Yoshida Y. Markov chains with a transition possibility measure and fuzzy dynamic programming [J]. Fuzzy Sets and Systems,1994,66 (1): 39-57.   
+[14]Mohamed MA, Gader P.Generalized hidden Markov models I: theoretical frameworks [M].[S.1.] : IEEE Press,2000.   
+[15] Yan S,Wang Ruoyu,Christopher S,et al. SOK:(State of) the art of war: offensive techniques in binary analysis [Cl// Security and Privacy. 2016: 138-157.   
+[16] Cifuentes C,Hoermann C,Keynes N,et al. BegBunch: benchmarking for C bug detection tools [C]//Proc of International Workshop on Defects in Large Software Systems: Held in Conjunction with the ACM Sigsoft International Symposium on Software Testing and Analysis.New York: ACMPress,2009: 16-20.   
+[17]王丽薇，洪勇．遗传算法的收敛性研究[J].计算机学报,1996,19(10): 794-797.(Wang Liwei， Hong Yong. Study on convergence of genetic algorithm [J].Chinese Journal of Computers,1996,19 (10): 794-797.)

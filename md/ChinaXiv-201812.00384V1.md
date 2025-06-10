@@ -1,0 +1,156 @@
+1 饲粮中添加酵母β葡聚糖对围产期奶牛生产性能、血清生化指标及抗氧化能力的影响
+
+2 顾鲲涛」赵连生²王留香卜登攀 2,4,5刘宁」王建平1\*（1．河南科技大学动物科技学院，洛阳471023；2．中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；3．乐斯福管理有限公司，上海 200235;4．中国农业科学院与世界农用林业中心农用林业与可持续畜牧业联合实验室，北京100193；5．湖南畜产品质量安全协同创新中心，长沙 410128)
+
+7 摘要：本试验旨在研究饲粮中添加酵母β葡聚糖对围产期奶牛生产性能、血清生化指标及抗氧  
+8 化能力的影响。选择40头体况评分（ $3 . 6 3 { \pm } 0 . 0 6 )$ 、胎次（ $2 . 8 8 { \pm } 0 . 0 5 \ )$ 、上一泌乳期产奶量  
+9 [ $\cdot 3 6 . 8 6 { \pm } 1 . 0 6$ ） $\mathrm { k g / d } ]$ 及预产期[（28±1）d]相近的健康荷斯坦奶牛，采用完全随机设计分为对  
+10 照组和试验组，每组20 头，对照组饲喂基础饲粮，试验组饲喂在基础饲粮中添加 $\mathrm { 1 0 ~ g / }$ (头·d)  
+11 酵母β葡聚糖的试验饲粮。试验期 $4 9 \mathrm { d }$ ，其中预试期 $^ { 7 \mathrm { d } }$ ，正试期 $4 2 { \mathrm { ~ d ~ } }$ 。结果表明：1）饲粮中添  
+12 加酵母β葡聚糖显著提高了产后干物质采食量、产奶量及乳蛋白产量（ $P { < } 0 . 0 5 )$ ，对产后乳中其  
+13 他乳成分产量和比率没有显著影响（ $. P { > } 0 . 0 5 \$ )；2）饲粮中添加酵母β葡聚糖显著提高了产后血清  
+14 葡萄糖含量（ $P { < } 0 . 0 5 )$ ，显著降低了产后血清非酯化脂肪酸含量（ $P { < } 0 . 0 5 )$ ，产后血清总蛋白含  
+15 量有增加趋势（ $\scriptstyle \cdot { \cal P } = 0 . 0 6 )$ ，对产前和产后血清中白蛋白、C-反应蛋白、结合珠蛋白和淀粉样蛋白  
+16 含量没有显著影响（ $. P { > } 0 . 0 5 )$ ；3）饲粮中添加酵母 $\beta$ 葡聚糖显著提高了产前和产后血清谷胱甘肽  
+17 过氧化物酶活性（ $_ { . P < 0 . 0 5 ) }$ ，有降低产前血清丙二醛含量的趋势（P=0.05)，对产前和产后血清  
+18 总抗氧化能力和超氧化物歧化酶活性没有显著影响（ $\scriptstyle P > 0 . 0 5 { \mathrm { : } }$ )。综上所述，围产期饲粮中添加  
+19 10 g/(头·d)酵母 $\beta$ 葡聚糖可提高奶牛的产后干物质采食量、产奶量、乳蛋白产量，提高产后血清  
+20 葡萄糖含量及血清抗氧化能力，降低产后血清非酯化脂肪酸含量。
+
+关键词：酵母β葡聚糖；围产期奶牛；生产性能；生化指标；抗氧化能力
+
+中图分类号：S823  
+围产期包括围产前期和围产后期，为产前21d至产后21d，奶牛要经历由干奶到泌乳、由妊娠到空怀的转变[1]。围产期奶牛物质代谢发生剧烈改变，免疫力降低、抗病能力下降、食欲减退，机体处于应激状态[2]，奶牛易发生乳房炎、酮病、子宫炎等一系列疾病[3]，影响奶牛的繁殖和产奶。提高奶牛围产期的抗应激能力具有重要意义。  
+酵母β葡聚糖是酵母细胞壁中的主要成分，极富生物活性，是以β-1,3 和 1,6 键连接的以β-1,3-D-葡聚糖苷为重复单元的具有空间构象的结构多糖[4]。研究表明，酵母β葡聚糖可提高机体非特异性免疫机能，改善动物肠道内环境、调控肠道微生物区系、抑制有害菌增殖，进而提高动物的生产性能、抗应激能力和免疫能力[5-7]。周怪等[8]研究发现，饲粮中添加酵母β葡聚糖可优化早期断奶特牛肠道微生物结构、刺激瘤网胃的发育、提高犊牛的生产性能。此外，酵母β葡聚糖可提高动物机体抗氧化酶的活性。刘群芳等[9]研究表明，饲粮中添加β葡聚糖可提高凡纳滨对虾血清中谷胱甘肽过氧化物酶（glutathione peroxidase，GSH- $\mathbf { \cdot P x }$ ）和超氧化物歧化酶（superoxide dismutase,SOD）活性，降低丙二醛（malondialdehyde，MDA）含量，其中GSH-Px和 SOD 活性分别提高了 $0 . 6 4 \%$ 、 $5 0 . 8 0 \%$ ，MDA含量降低了 $4 9 . 8 1 \%$ 。目前，饲粮中添加酵母β葡聚糖在单胃动物[10]、幼龄反刍动物[1]和水产动物[6]上的研究已经证明，酵母β葡聚糖作为一种微生态制剂的有效性，但有关围产期奶牛饲粮中添加酵母 $\beta$ 葡聚糖对母牛生产性能、血液生化指标及抗氧化能力的影响未有报道。因此，本试验旨在探究饲粮中添加酵母β葡聚糖对围产期奶牛生产性能、血液生化指标及抗氧化能力的影响，为奶牛生产应用提供参考。  
+材料与方法  
+1.1酵母β葡聚糖来源  
+试验用酵母β葡聚糖由法国乐斯福集团生产，主要成分为 $70 \%$ β葡聚糖、 $4 \%$ 蛋白质、 $2 \%$ 脂肪、 $5 \%$ 甘露寡糖、 $5 \%$ 灰分、 $4 \%$ 水分和 $10 \%$ 其他多糖。  
+1.2试验动物与试验设计  
+试验采用完全随机设计，选择体况评分（ $3 . 6 3 { \scriptstyle \pm 0 . 0 6 } )$ 、胎次（ $2 . 8 8 { \pm } 0 . 0 5 ) \$ 、上一泌乳期产奶
+
+量[ $\cdot 3 6 . 8 6 { \pm } 1 . 0 6$ ） $\mathrm { k g / d } ]$ 及预产期[（ $2 8 { \pm } 1$ ）d]相近的40头干奶牛健康荷斯坦奶牛，随机分为2组，每组20头。对照组饲喂基础饲粮，试验组饲喂在基础饲粮中添加 $\mathrm { 1 0 ~ g / }$ （头·d）酵母β葡聚糖的试验饲粮。产前21d开始饲喂，晨饲时将酵母β葡聚糖撒在基础饲粮表面，保证奶牛进食完全。试验期49d，其中预试期7d，正试期42d。本试验于2016年12月1日至2017年1月18日在山东省东营市澳亚现代牧场进行。
+
+# 1.3饲粮与饲养管理
+
+饲粮参照NRC（2001）奶牛饲养标准配制，以全混合日粮（TMR）形式饲喂。试验粮组成及营养水平见表1。试验牛采用的散栏式饲养（带卧床)，每天饲喂2次（07:00 和14:00），自由采食、饮水，保证剩料量在 $5 \% { \sim } 1 0 \%$ 。母牛产后在07:00、14:00 和20:00采用利拉伐PR3100HD自动转盘挤奶系统挤奶3次。
+
+表1试验饲粮组成及营养水平(干物质基础)  
+Table 1 Composition and nutrient levels of experimental diets (DM basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>产前 Prepartum</td><td>产后Postpartum</td><td></td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td></tr><tr><td>羊草 Chinese wildrye</td><td></td><td>32.21</td><td></td></tr><tr><td>燕麦草 Oats hay</td><td></td><td>20.12</td><td></td></tr><tr><td>苜蓿 Alfalfa</td><td></td><td></td><td>28.17</td></tr><tr><td>玉米青贮 Corn silage</td><td></td><td></td><td>26.75</td></tr><tr><td>玉米粉 Corn powder</td><td></td><td></td><td>7.37</td></tr><tr><td>压片玉米 Flaked corm</td><td></td><td></td><td>12.11</td></tr><tr><td>豆粕 Soybean meal</td><td></td><td></td><td>7.90</td></tr><tr><td>膨化大豆 Extruded soybean</td><td></td><td></td><td>5.27</td></tr><tr><td>小麦青贮 Wheat silage</td><td>38.02</td><td></td><td></td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>3.95</td><td></td><td></td></tr><tr><td>双低菜籽粕 Double-low rapeseed meal</td><td></td><td></td><td>4.74</td></tr><tr><td>全棉籽 Whole cotton seed</td><td>3.95</td><td></td><td>3.69</td></tr><tr><td>初产奶牛预混料 Premix for primiparous cowl)</td><td></td><td></td><td>4.00</td></tr><tr><td>干奶牛预混料 Premix for dry cow2)</td><td>1.75</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td></td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3</td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>60.72</td><td></td><td>55.53</td></tr><tr><td>粗蛋白质 CP</td><td>13.75</td><td></td><td>18.39</td></tr><tr><td>中性洗涤纤维 NDF</td><td>47.66</td><td></td><td>30.55</td></tr></table></body></html>
+
+<html><body><table><tr><td>酸性洗涤纤维 ADF</td><td>25.30 20.17</td></tr><tr><td>粗灰分 Ash</td><td>7.21 5.91</td></tr><tr><td>泌乳净能 NE/(MJ/kg)</td><td>5.57 6.95</td></tr><tr><td>钙Ca</td><td>0.73 1.03</td></tr><tr><td>磷P 0.30</td><td>0.40</td></tr></table></body></html>
+
+1)每千克初产奶牛预混料含 One kilogram of premix for primiparous cow contained the follwing:I 100 mg,Cu1 500 mg,Mn 3300 mg,Zn 5000 mg,Co 36 mg,VA 550 000 IU,VD 220 000 IU,VE3100 IU。
+
+2)每千克干奶牛预混料含 One kilogram of premix for dry cow contained the following:I $1 0 0 \mathrm { { m g } , C u \ 2 \ 2 0 0 }$ mg,Mn 5 000 mg,Zn 7 500 mg,Co 40 mg,VA 675 000 IU,VD 225 000 IU,VE 7 200 IU。
+
+3）泌乳净能为计算值[根据 NRC(2001)]，其余指标均为实测值。 $\mathrm { N E } _ { \mathrm { L } }$ was a calculated value [according to NRC(2oo1)],while other nutrient levels were measured values.
+
+# 1.4 样品的采集与分析
+
+# 1.4.1 饲粮样品的采集与分析
+
+正试期每周最后3d，每天记录每组牛的加料量和剩料量，计算每组牛的采食量，按四分法采集饲粮样和剩料样，使用DGG-9203A 型鼓风机干燥箱65℃烘至恒重，制备成风干样品，再将风干样品使用RETSCH-SM100 型切割式研磨仪粉碎，过 $2 \mathrm { m m }$ 孔径筛保存，测定干物质(DM)含量，计算干物质采食量（DMI）。DM、粗蛋白质（CP）、中性洗涤纤维（NDF）和酸性洗涤纤维（ADF）含量的测定参照张丽英[¹2]的方法。
+
+# 1.4.2 奶样的采集与分析
+
+奶牛产犊后，每天逐头牛记录产奶量。分娩后每周最后1天将采集的正常乳样按早:中:晚$\mathtt { \ = } 4 { : } 3 { : } 3$ 混合，取 $5 0 ~ \mathrm { m L }$ 加入溴硝丙二醇防腐剂，立即送往北京奶牛中心乳品质量监督检验站，采用FOSS乳成分分析仪（MilkoScanTMFT6000）测定乳成分。按照以下公式计算 $4 \%$ 乳脂校正乳产量：
+
+$4 \%$ 乳脂校正乳产量 $( \mathrm { k g / d } ) { = } 0 . 4 \times$ 产奶量 $( \mathrm { k g / d } ) / 1 5 \times$ 乳脂产量 $( \mathrm { k g / d } )$ 。
+
+# 1.4.3 血样的采集与分析
+
+分别于产前21、7d晨饲前，产后 $2 \mathrm { h }$ ，产后3、7、15、21d晨饲前用真空采血管于尾静脉采集血样 $1 0 ~ \mathrm { m L }$ ，室温静置 $3 0 \mathrm { m i n }$ 后， $3 0 0 0 \times g 4 ^ { \circ } \mathrm { C }$ 离心 $1 5 \mathrm { m i n }$ 制备血清，血清分装于 ${ 5 0 0 \mu \mathrm { L } }$ 无菌离心管，-20℃冷冻保存备用。采用南京建成生物工程研究所的试剂盒，按照操作说明测定血清的总抗氧化能力（total antioxidant capacity,T-AOC）、SOD 和 GSH-Px 活性、MDA 及非酯化脂肪酸（nonesterified fatty acid,NEFA）含量；采用葡萄糖氧化酶法检测血清葡萄糖（glucose,GLU）含量；采用双缩脲法检测血清总蛋白（total protein,TP）含量；采用溴甲酚绿法检测血清白蛋白(albumin,ALB)含量；血清结合珠蛋白（haptoglobin,Hp）、淀粉样蛋白A（amyloidA，AA）和C-反应蛋白（C-reactive protein，CRP）含量由北京华英生物技术研究所采用酶联免疫竞争法检测。
+
+# 1.5 数据统计分析
+
+数据采用 SAS 9.4中的PROC MIXED 模块进行统计学检验，以最小二乘平均值表示统计结果。试验牛为随机因素，试验处理为固定因素，采用Duncan 氏法进行多重比较。 $P { < } 0 . 0 5$ 表示差异显著， $0 . 0 5 { \le } P { < } 0 . 1 0$ 表示有差异趋势。
+
+# 2 结果与分析
+
+2.1酵母β葡聚糖对围产期荷斯坦奶牛生产性能的影响
+
+由表3可知，试验组产前DMI与对照组之间差异不显著( $. P { > } 0 . 0 5 )$ ，但产后DMI提高了 $9 . 6 6 \%$ 差异显著（ $_ { . P < 0 . 0 5 ) }$ ；试验组奶牛的产奶量比对照组提高了 $1 . 6 8 \mathrm { k g / d }$ ，差异显著（ $P { < } 0 . 0 5 \rangle$ ，乳蛋白产量提高了 $0 . 0 9 \mathrm { k g / d }$ ，差异显著（ $_ { . P < 0 . 0 5 ) }$ ，乳脂率、乳糖率及乳蛋白率与对照组差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+表3饲粮中添加酵母 ${ \bf \ddot { \boldsymbol { \beta } } }$ 葡聚糖对围产期荷斯坦奶牛生产性能的影响  
+Table 3Effects of dietary supplementation of yeast $\beta$ -glucan on performance of transition Holstein dairy cows   
+
+<html><body><table><tr><td>项目Items</td><td>对照组Control group</td><td>试验组 Experimental group</td><td>SEM</td><td>P值P-value</td></tr><tr><td>干物质采食量 DMI/(kg/d)</td><td></td><td></td><td></td><td></td></tr><tr><td>产前 Prepartum</td><td>12.90</td><td>12.69</td><td>0.628</td><td>0.84</td></tr><tr><td>产后 Postpartum</td><td>18.22</td><td>19.98</td><td>0.142</td><td><0.05</td></tr><tr><td>产奶量 Milk yield/(kg/d)</td><td>30.56</td><td>32.24</td><td>0.547</td><td><0.05</td></tr><tr><td>4%乳脂校正乳4%FCM/(kg/d)</td><td>31.57</td><td>33.31</td><td>1.416</td><td>0.40</td></tr><tr><td>乳脂率 Milk fat percentage/%</td><td>3.95</td><td>4.23</td><td>0.215</td><td>0.36</td></tr><tr><td>乳脂产量 Milk fat yield/(kg/d)</td><td>1.28</td><td>1.36</td><td>0.093</td><td>0.59</td></tr></table></body></html>
+
+<html><body><table><tr><td>乳蛋白率 Milk protein percentage/%</td><td>3.56</td><td>3.61</td><td>0.145</td><td>0.81</td></tr><tr><td>乳蛋白产量 Milk protein yield/(kg/d)</td><td>1.06</td><td>1.15</td><td>0.023</td><td><0.01</td></tr><tr><td>乳糖率 Lactose percentage/%</td><td>4.57</td><td>4.83</td><td>0.263</td><td>0.55</td></tr><tr><td>乳糖产量 Lactose yield/(kg/d)</td><td>1.45</td><td>1.55</td><td>0.069</td><td>0.34</td></tr></table></body></html>
+
+99 2.2酵母β葡聚糖对围产期荷斯坦奶牛血清生化指标的影响
+
+由表4可知，试验组奶牛血清TP和ALB含量与对照组间差异不显著！ $( P { > } 0 . 0 5 )$ ，但产后血清TP含量有升高的趋势（ $\scriptstyle \cdot { \cal P } = 0 . 0 6 )$ ；试验组产后血清中GLU含量较对照组提高了 $9 . 4 3 \%$ ，差异显著( $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ；试验组产后血清中NEFA含量较对照组低 $1 7 . 9 2 \%$ ，差异显著（ $_ { . P < 0 . 0 5 ) }$ ；在产前和产后，试验组与对照组奶牛血清CRP、AA 和 $\mathrm { H } \mathfrak { p }$ 含量均没有显著差异（ $_ { . } { P > } 0 . 0 5 )$ 。
+
+表4饲粮中添加酵母β葡聚糖对围产期荷斯坦奶牛血清生化指标的影响  
+Table 4Effects of dietary supplementation of yeast $\beta$ -glucan on serum biochemical indices of transition Holstein   
+
+<html><body><table><tr><td colspan="5">dairy cows</td></tr><tr><td>项目Items</td><td>对照组Control group</td><td>试验组 Experimental</td><td>SEM</td><td>P值 P-value</td></tr><tr><td>产前 Prepartum</td><td></td><td>group</td><td></td><td></td></tr><tr><td>总蛋白 TP/(g/L)</td><td>71.47</td><td>72.26</td><td>1.180</td><td>0.64</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>33.96</td><td>34.52</td><td>0.446</td><td>0.38</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>3.16</td><td>3.18</td><td>0.039</td><td>0.73</td></tr><tr><td>非酯化脂肪酸 NEFA/(mmol/L)</td><td>0.19</td><td>0.18</td><td>0.020</td><td>0.79</td></tr><tr><td>C-反应蛋白 CRP/(mg/L)</td><td>21.68</td><td>20.36</td><td>0.829</td><td>0.38</td></tr><tr><td>结合珠蛋白 Hp/(mg/L)</td><td>5.52</td><td>6.45</td><td>0.923</td><td>0.55</td></tr><tr><td>淀粉样蛋白AAA/(mg/L)</td><td>14.56</td><td>17.05</td><td>1.357</td><td>0.32</td></tr><tr><td>产后 Postpartum</td><td></td><td></td><td></td><td></td></tr><tr><td>总蛋白 TP/(g/L)</td><td>67.44</td><td>68.84</td><td>0.518</td><td>0.06</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>34.04</td><td>34.27</td><td>0.686</td><td>0.81</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>2.97</td><td>3.25</td><td>0.085</td><td>0.02</td></tr><tr><td>非酯化脂肪酸 NEFA/(mmol/L)</td><td>1.06</td><td>0.87</td><td>0.049</td><td><0.05</td></tr><tr><td>C-反应蛋白 CRP/(mg/L)</td><td>22.18</td><td>24.06</td><td>0.480</td><td>0.11</td></tr><tr><td>结合珠蛋白 Hp/(mg/L)</td><td>6.92</td><td>5.85</td><td>0.302</td><td>0.13</td></tr><tr><td>淀粉样蛋白AAA/(mg/L)</td><td>13.87</td><td>13.96</td><td>1.319</td><td>0.96</td></tr></table></body></html>
+
+2.3酵母β葡聚糖对围产期荷斯坦奶牛血清抗氧化能力的影响
+
+由表5可知，试验组产前和产后血清MDA含量较对照组分别降低了 $2 9 . 7 1 \%$ 、 $8 . 5 4 \%$ ，差异不显著( ${ \cdot } P { > } 0 . 0 5 { \rangle }$ ，血清GSH-Px活性分别比对照组提高了 $5 8 . 2 5 \% . 2 7 . 0 0 \%$ ，差异显著（ $_ { , P < 0 . 0 5 ) }$ 试验组产前和产后血清T-AOC较对照组分别提高 $5 . 1 4 \%$ 、 $1 . 9 6 \%$ ，血清SOD活性较对照组分别提高 $5 . 3 2 \%$ 、 $8 . 2 0 \%$ ，差异均不显著（ $_ { . P > 0 . 0 5 } )$ ）
+
+表5饲粮中添加酵母β葡聚糖对围产期荷斯坦奶牛血清抗氧化能力的影响
+
+Table 5Effects of dietary supplementation of yeast $\beta$ -glucan on serum antioxidant capacity of transition Holstein   
+
+<html><body><table><tr><td colspan="5">dairy cows</td></tr><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td><td>SEM</td><td>P值P-value</td></tr><tr><td>产前Prepartum</td><td></td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mL)</td><td>115.32</td><td>182.49</td><td>5.784</td><td><0.01</td></tr><tr><td>总抗氧化能力 T-AOC/(U/mL)</td><td>2.14</td><td>2.25</td><td>0.110</td><td>0.47</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>107.43</td><td>113.14</td><td>6.951</td><td>0.56</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>4.61</td><td>3.24</td><td>0.494</td><td>0.05</td></tr><tr><td>产后Postpartum</td><td></td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mL)</td><td>124.01</td><td>157.49</td><td>6.557</td><td><0.01</td></tr><tr><td>总抗氧化能力 T-AOC/(U/mL)</td><td>2.04</td><td>2.00</td><td>0.093</td><td>0.73</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>120.50</td><td>130.38</td><td>5.402</td><td>0.21</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>3.98</td><td>3.64</td><td>0.221</td><td>0.29</td></tr></table></body></html>
+
+3讨论
+
+3.1酵母β葡聚糖对围产期荷斯坦奶牛生产性能的影响
+
+酵母β葡聚糖与许多功能性寡糖的作用相似，可增加动物肠道乳酸杆菌等有益菌增殖，降低大肠杆菌等有害菌数，对提高动物的生产性能有重要作用[13-14]。周怪等[8]研究表明，酵母β葡聚糖可显著提高早期断奶犊牛瘤胃乳头长度（ $1 \ 0 5 9 . 0 5 \ \mu \mathrm { m }$ VS. $1 \ 5 2 1 . 8 2 \ \mu \mathrm { m }$ ）、宽度（ $3 9 2 . 9 5 ~ \mu \mathrm { m }$ Vs.$4 5 7 . 1 6 ~ { \mu \mathrm { m } }$ ）和黏膜厚度（ $1 \ 3 1 0 . 7 7 \ \mu \mathrm { m }$ Vs. $1 6 7 9 . 5 6 ~ \mu \mathrm { m } \cdot$ )，促进瘤胃组织发育，调节微生物结构，提高生产性能。魏占虎等[15]研究表明，饲粮中添加酵母β葡聚糖可提高早期断奶羔羊的日增重，调节瘤胃微生物区系的平衡，促进瘤胃表皮发育，改善羔羊的生长性能。Dritz 等[]和 Schoenherr等[14]研究表明，饲粮中添加 $0 . 0 2 5 \%$ 的 $\beta$ 葡聚糖可以增加断奶仔猪的采食量而显著提高日增重。本试验结果表明，饲粮中添加酵母β葡聚糖使奶牛的产后DMI、产奶量和乳蛋白产量分别提高了 $9 . 6 6 \%$ 、 $1 . 6 8 \mathrm { k g / d }$ 和 $0 . 0 9 \mathrm { k g / d }$ 。这可能是瘤胃乳酸菌和纤维分解菌菌群在酵母β葡聚糖的刺激下进行增殖，增加了有益菌的数量与生长速度，有助于粗纤维的消化和缓解进食后瘤胃液pH的降低，维持瘤胃内环境的稳定；酵母菌细胞壁的破裂，释放了丰富的风味化合物，增加了饲料的适口性，刺激奶牛采食，增加产奶量。此外，酵母β葡聚糖可以提高瘤胃微生物蛋白的浓度与质量，有助于肠道中乳蛋白的产生，提高乳蛋白产量。
+
+3.2酵母β葡聚糖对围产期荷斯坦奶牛血清生化指标的影响
+
+血清 TP与ALB可以反映机体对蛋白质的吸收、合成、分解情况，正常范围分别为67.4\~74.6g/L和 $2 9 . 0 { \sim } 3 6 . 6 \ \mathrm { g } / \mathrm { L } ^ { [ 1 6 ] }$ 。本试验结果表明，饲粮中添加酵母β葡聚糖对奶牛血清的 TP 和ALB 含量无显著影响，且均在正常范围内，与Ma等[17研究结果相一致。但产后奶牛血清中 TP 含量在数值有升高的趋势，可能是酵母β葡聚糖提高了瘤胃中纤维分解菌的活性，促进纤维的消化和乳酸的利用，增加瘤胃至十二指肠的微生物蛋白含量，从而提高了血清中 TP 的含量。
+
+血清GLU 含量是反映机体内能量平衡的一种常用指标，血清GLU 低是能量缺乏的标志[18]。NEFA是机体处于能量负平衡状态时，分解脂肪组织中的甘油三酯的产物，NEFA含量高是诱发机体氧化应激的主要原因，其可以抑制GSH-Px的活性，引起线粒体中超氧阴离子、过氧化氢的生成，产生更多的活性氧等自由基[19]。本试验结果表明，饲粮中添加酵母β葡聚糖显著提高了围产期奶牛血清GLU含量，降低了血清 NEFA含量。这可能是试验组奶牛血清抗氧化能力及DMI较高，增强了围产期的奶牛糖异生作用，缓解了奶牛的能量负平衡及脂质动员，使得血清GLU含量升高且血清NEFA含量降低。
+
+β葡聚糖可以改变白细胞介素1（IL-1）和其他细胞因子受体拮抗剂的平衡，减少急性期蛋白Hp 的合成，使拮抗剂被优先合成分泌，减少免疫反应，降低免疫反应营养物质的消耗，提高动物的生产性能[11,20]。Hp 是动物受到来自内外的刺激，如感染、炎症、外伤等应激后，机体出现急性期反应时，发生急剧变化的蛋白质，除 Hp 以外，急性期蛋白还包括AA、CRP 等[21-22]。Lei 等[23]研究肉牛饲粮中添加酵母细胞壁可降低血浆中Hp、AA及CRP 含量，提高肉牛生产性能。Dritz 等[1]研究发现，饲粮中添加β葡聚糖可降低断奶仔猪血浆中Hp 含量，提高了仔猪的日增重。本试验饲粮中添加酵母β葡聚糖对急性期蛋白没有显著影响，有待于进一步研究。
+
+3.3酵母β葡聚糖对围产期荷斯坦奶牛血清抗氧化能力的影响酵母β葡聚糖作为一种具有广泛免疫活性的多糖类物质，可以有效地清除体内的自由基，阻正过氧化氢和其他活性氧对机体的损害，同时也可以提高机体内的抗氧化酶活性，降低氧化产物对细胞的毒害作用，保护细胞膜结构和功能的完整性[6.24]。GSH-Px 是机体内广泛存在的一种抗氧化酶，可催化过氧化氢分解，使机体组织的大分子成分免受氧自由基的侵袭。MDA是氧自由基攻击生物膜中多不饱和脂肪酸导致其发生脂质过氧化反应生成的主要产物，可引起细胞损伤，降低血清中的抗氧化酶GSH-Px 和 SOD 的活性[25-26]。刘金艳等[27]研究发现，饲粮中添加$4 0 0 \mathrm { m g / k g }$ 的β葡聚糖可显著提高断奶仔猪血浆中GSH-Px 活性。段丽娟[28]研究发现，饲粮中添加 $0 . 0 2 5 \%$ 的 $\beta$ 葡聚糖可显著提高早期断奶仔猪的血液抗氧化能力，降低血液MDA含量。本研究中，添加酵母β葡聚糖显著提高了围产期奶牛血清GSH-Px 活性，有降低产前血清 MDA含量的趋势，有效地提高了围产期奶牛的抗氧化能力，降低了脂质过氧化反应，缓解了围产期奶牛的氧化应激。
+
+4结论  
+在本试验条件下，围产期饲粮中添加10g/(头·d)酵母β葡聚糖可提高奶牛的产后DMI、产奶量、乳蛋白产量，提高产后血清GLU含量及血清抗氧化能力，降低产后血清NEFA含量。参考文献:  
+[1]任卫青,周二艳,常瑶瑶,等.奶牛围产期疾病的发病原因及预防措施[J].当代畜牧,2017(12):14-16.  
+[2] 郝宏晓,刘光磊,张佩华.日粮添加硒对围产期奶牛生产性能和氧化应激状态的影响[J].黑龙江畜牧兽医,2017(13):40-45,48.  
+[3] GREENFIELD R B,CECAVA M J,JOHNSON TR,et al.Impact of dietary protein amount andrumen undegradability on intake,peripartum liver triglyceride,plasma metabolites,and milk productionin transition dairy cattle[J].Journal of Dairy Science,20oo,83(4):703-710.  
+[4] 孙虎山,李光友.硒多糖和酵母聚糖对栉孔扇贝血淋巴中二种抗氧化酶活力的影响[J].中国海洋药物,2000,19(5):20-23.  
+[5]曹俊明,吴春玉,黄燕华,等.β-葡聚糖对花鲈免疫和抗氧化指标的影响[J].水产科学,2015,34(1):1-7.
+
+[6] 李永娟,曹俊明,赵红霞,等.β-葡聚糖在水产动物营养生理中的作用研究进展[J].广东农业科学,2014,41(21):128-134,143.
+
+[7] GU M,MA H M,MAI K S,et al.Effects of dietary $\beta$ glucan,mannan oligosaccharide and their combinations on growth performance,immunity and resistance against Vibrio splendidus of sea cucumber,Apostichopus japonicus[J].Fish & Shelfish Immunology,2011,31(2):303-309.   
+[8]周怿,刁其玉,屠焰,等.酵母β-葡聚糖对早期断奶犊牛胃肠道发育的影响[J].动物营养学 报,2009,21(6):846-852.   
+[9] 刘群芳,曹俊明,黄燕华,等.β-葡聚糖与硒、维生素E联合添加对凡纳滨对虾生长、血清免疫和 抗氧化指标及抗病力的影响[J].中国水产科学,2013,20(5):997-1006.   
+[10] DRITZ S S,SHI J,KIELIAN T L,et al.Influence of dietary $\beta$ -glucan on growth   
+performance,nonspecific immunity,and resistance to Streptococcus suis infection in weanling pigs[J].Journal of Animal Science,1995,73(11):3341-3350.   
+[11]MCKEE C,EICHER S,JOHNSON T.Ascorbic acid and a beta-glucan product from Saccharomycescerevisiaeinfluenceondairycalfwell-being[J].JournalofDairy Science,2000,83(Suppl.1):134.   
+[12]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版 社,2007:56-56,67-78.   
+[13]潘树德,李学俭,边连全,等.酵母β-葡聚糖对断奶仔猪肠道菌群的影响[J].饲料工 业,2012,33(12):21-23.   
+[14] SCHOENHERR W D,POLLMANN D S,COALSON J A.Titration of MacroGard-TM-S on growth performance of nursery pigs[J].Journal of Animal Science,1994,72(Suppl.2):57.   
+[15]魏占虎,李冲,李发弟,等.酵母β-葡聚糖对早期断奶羔羊生产性能和采食行为的影响[J].草业 学报,2013,22(4):212-219.   
+[16] 王玲,吕永艳,程志伟,等.复合酵母培养物对奶牛产奶性能、氮排放及血液生化指标的影响[J] 草业学报,2015,24(12):121-130. [17] MA T,TU Y,ZHANG N F,et al.Effects of dietary yeast $\beta$ -glucan on nutrient digestibility and serum profilesinpre-ruminant Holsteincalves[J].JournalofIntegrative Agriculture,2015,14(4):749-757.   
+[18] 邵伟,赵艳坤,张晓雪,等.微生态制剂对新疆荷斯坦奶牛生产性能和血清生化水平的影响[J]. 饲料工业,2015,36(17):47-50.   
+[19] 郭咏梅,闫素梅.非酯化脂肪酸对奶牛氧化应激的诱导作用及其机制[J].动物营养学 报,2017,29(5):1469-1474.   
+[20] EURELL T E,BANE D P,HALL W F,et al.Serum haptoglobin concentration as an indicator of weight gain in pigs[J].Canadian Journal of Veterinary Research,1992,56(1):6-9.   
+[21] EBERSOLE J L,CAPPELLI D.Acute-phase reactants in infections and inflammatory diseases[J].Periodontology,2000,23(1):19-49.   
+[22] 李昊阳,钟荣珍,房义,等.急性期蛋白应用于动物健康检测的研究进展[J].黑龙江畜牧兽 医,2015(15):68-71.   
+[23] LEI C L,DONG G Z,JIN L,et al.Effects of dietary supplementation of montmorillonite and yeast cell wall on lipopolysaccharide adsorption,nutrient digestibility and growth performance in bef cattle[J].Livestock Science,2013,158(1/2/3):57-63.   
+[24] 唐茂妍,林冬梅.酵母细胞壁多糖在饲料中的应用研究进展[J].饲料与畜牧,2016(3):44-48. [25] 雷金龙,吴树清,王玲玲,等.围产期奶牛血清中GSH-Px、SOD、MDA 的比较研究[J].中国奶 牛,2008(6):38-43.   
+[26] 程艳.酵母培养物对患隐性乳房炎奶牛免疫、抗氧化功能及生产性能的影响[D].硕士学位论 文.呼和浩特:内蒙古农业大学,2007.   
+[27] 刘金艳,王瑶,毛俊霞,等.日粮添加β-葡聚糖对仔猪生长性能、肠道发育与免疫功能的影响[J] 中国兽医学报,2017,37(11):2197-2205.   
+[28] 段丽娟.β-葡聚糖对早期断奶仔猪生产性能和免疫机能的影响[D].硕士学位论文.沈阳:沈阳 农业大学,2006. and Antioxidant Capacity of Transition Dairy Cows GU Kuntaol ZHAO Liansheng²WANG Liuxiang³BU Dengpan2,4,5 LIU Ning1WANG Jianping1\*   
+(1. College of Animal and Technology, Henan University of Science and Technology, Luoyang 471023,   
+China; 2. State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of   
+Agricultural Sciences,Beijing 100193, China; 3.Lesafre Management Co., Ltd., Shanghai 200235, China; 4. Chinese Academy of Agricultural Sciences and World Agroforestry Center Joint Lab on Agroforestry and Sustainable Animal Husbandry, Beijing 100193, China; 5. Hunan Co-Innovation Center ofAnimal Production Safety, Changsha 410128, China)
+
+Abstract: The objective of this study was to evaluate the effects of dietary supplementation of yeast $\beta$ -glucan on performance,serum biochemical indices and antioxidant capacity of transition dairy COws. Forty Holstein cows with similar body condition score $( 3 . 6 3 { \pm } 0 . 0 6 ) \$ ，parity $( 2 . 8 8 { \pm } 0 . 0 5 ) \$ ,milk yield of the last parity $[ ( 3 6 . 8 6 \pm 1 . 0 6 ) \mathrm { k g / d } ]$ and expected parturition date [(28±1) d] were assigned to 2 groups with 20 cows per group in a completely randomized design. Cows in control group were fed a basal diet, and those in experimental group were fed the basal diet supplemented with $1 0 \mathrm { \ g / }$ （head $\mathbf { \nabla } \cdot \mathbf { d }$ ） yeast $\beta$ -glucan. The experiment lasted for 49 days with a pretrial period of 7 days and an trial period of 42 days. The results showed as follows: 1) dietary supplementation of yeast $\beta$ -glucan significantly improved postpartum dry matter intake，milk yield and milk protein yield $( P { < } 0 . 0 5 )$ ，but had no significant effects on yield and percentage of the other milk composition $( P { > } 0 . 0 5 )$ ；2） dietary supplementation of yeast $\beta$ -glucan significantly improved postpartum serum glucose (GLU） content $( P { < } 0 . 0 5 )$ ，significantly decreased postpartum serum nonesterified fatty acid (NEFA） content was significantly decreased $( P { < } 0 . 0 5 )$ ，and tended to increase postpartum serum total protein content （ $P { = } 0 . 0 6$ ）,but had no significant effects on prepartum and postpartum serum contents of albumin (ALB)， haptoglobin $( { \mathrm { H p } } )$ ，C-reactive protein (CRP） and amyloid A （AA） $( P { > } 0 . 0 5 )$ ；3） dietary supplementation of yeast $\beta$ -glucan significantly improved prepartum and postpartum serum
+
+glutathione peroxidase activity $( P { < } 0 . 0 5 )$ ，and tended to decrease prepartum serum malondialdehyde content $( P { = } 0 . 0 5 )$ ,but had no significant effects on serum total antioxidant capacity and superoxide dismutase activity $( P { > } 0 . 0 5 )$ . These results indicate that dietary supplementation of yeast $\beta$ -glucan can improve postpartum dry mater intake, milk yield, milk protein yield, increase postpartum serum GLU content and antioxidant capacity, decrease postpartum serum NEFA content.   
+Key words: yeast $\beta$ -glucan； transition dairy cow； performance； biochemical index； antioxidant performance

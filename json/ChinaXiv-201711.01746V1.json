@@ -1,0 +1,601 @@
+[
+    {
+        "type": "text",
+        "text": "冰鲜杂鱼和人工配合饲料对大口黑鲈肌肉品质及健康状况影响的评价李志斐 龚望宝 王金林 王广军 余德光 谢骏\\*（中国水产科学研究院珠江水产研究所，农业部热带亚热带水产资源利用与养殖重点实验室，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "广州 510380)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验通过测定血清生化指标和肌肉营养成分，评价冰鲜杂鱼和人工配合饲料对大口黑鲈肌肉品质及健康状况的影响。养殖过程中冰鲜组大口黑鲈全程投喂冰鲜杂鱼，饲料组大口黑鲈全程投喂大口黑鲈专用人工配合饲料。在商品鱼上市前，冰鲜组和饲料组各随机采集6尾用于测定血清生化指标，再各随机采集6尾用于测定肌肉营养成分。结果显示：饲料组大口黑鲈血清中谷草转氨酶(AST)活性显著高于冰鲜组 $( 0 . 0 1 { \\leq } P { < } 0 . 0 5 )$ ，血清中碱性磷酸酶(ALP)活性极显著高于冰鲜组 $( P { < } 0 . 0 1 )$ ，血清中总蛋白(TP)和白蛋白(ALB)含量极显著低于冰鲜组 $( P { < } 0 . 0 1 )$ 。冰鲜组大口黑鲈肌肉中总氨基酸(TAA)含量显著高于饲料组 $( 0 . 0 1 { \\leq } P { < }$ 0.05)，且肌肉中各种氨基酸的氨基酸评分（AAS）和化学评分（CS）以及必需氨基酸指数(EAAI)均高于饲料组。饲料组大口黑鲈肌肉中亚油酸（C18:2）含量极显著高于冰鲜组 $( P <$ 0.01)。结果表明，本试验条件下，冰鲜组大口黑鲈肌肉营养品质特别是蛋白质品质及氨基酸组成要优于饲料组，且健康状况也优于饲料组，但饲料组大口黑鲈肌肉中亚油酸较冰鲜组极显著升高。因此，大口黑鲈的人工配合饲料配方还需要进一步的优化，来满足消费者对大□黑鲈的营养需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大口黑鲈；人工配合饲料；冰鲜杂鱼；血清生化指标；肌肉营养成分中图分类号：S963 文献标志码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大口黑鲈(Micropterus salmoides)，俗称加州鲈，属鲈形目(Perciformes)，太阳鱼科(Cehtrachidae)，黑鲈属(Micropterus)。大口黑鲈原产于美洲的淡水河流和大型湖泊中，尤以美国五大湖盛产此鱼，现已被广泛移养于世界各地，因其肉嫩味美深受消费者的喜爱，国际市场甚为畅销，素有\"淡水石斑\"之称。据《中国渔业统计年鉴 2016》，我国大口黑鲈养殖总产量达35.3万t。在大口黑鲈的养殖过程中，使用的饵料主要有2种：冰鲜杂鱼和人工配合饲料，这2种饵料均能将大口黑鲈成功饲养至商品鱼规格。然而，这2种饵料饲养出来的大口黑鲈在鱼体健康状况及营养价值优劣方面一直备受广大消费者关注。根据目前的研究，比较这2种饵料饲养出来的大口黑鲈的差异主要涉及其生长性能[1-2]、肌肉营养成分[2-3]、肠道蛋白酶活性[4]和肠道微生物群落结构[5]等方面，并未全面系统地评价其鱼体健康状况及肌肉营养品质的优劣。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内外学者对鱼类肌肉营养成分进行直接分析的报道较多，其中国外主要集中在对海产鲈形目鱼类肌肉脂肪酸的研究[6-9]，国内对各食用鱼类的研究均有涉及[1-3]。Alasalvar 等[6]比较分析了野生及人工饲养状态下，海鲈肌肉总脂肪含量、微量元素含量及脂肪酸组成的差异。Codier等[8研究了海鲈在整个养殖周期内组织磷脂脂肪酸组成的变化情况。Glover 等[10]分析了饵料成分、遗传因素、生长周期以及生存环境等对大西洋鲑(Salmo salarL.)肌肉营养成分的影响。吉红等[1]分析了池塘与网箱养殖匙吻鲟(Polyodon spathula)肌肉营养成分的差异。孙海涛等[12]研究了饲料蛋白质水平对匙吻鲟幼鱼肌肉营养成分的影响。刘邦辉等[13]比较分析了投喂蚕豆和普通配合饲料对草鱼(Ctenopharyngodon idellus)肌肉营养成分的影响。目前未见有投喂不同饵料对大口黑鲈健康状况的比较分析。有研究表明，鱼类的血液生化指标与其营养状况、代谢水平以及疾病的发生密不可分，可以肯定的是，鱼类在受到外界的不同影响后，其生理或病理变化必定会在血液的生理生化指标中表现出来[14]。因此，本试验拟对全程投喂冰鲜杂鱼和人工配合饲料的大口黑鲈的血清生化指标、肌肉氨基酸及脂肪酸组成进行全面比较分析，旨在客观评价摄食冰鲜杂鱼和人工配合饲料的大口黑鲈健康状况及营养品质的优劣。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1试验设计与管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验于佛山市三水区华淼水产养殖有限公司进行，采用当年孵化的大口黑鲈幼苗进行商品鱼养殖，养殖过程中分别全程投喂冰鲜杂鱼(冰鲜组)和大口黑鲈专用人工配合饲料(饲料组)。冰鲜杂鱼购于佛山市顺德区某市场，大口黑鲈专用人工配合饲料购于广东省佛山市某饲料厂，表1列出了冰鲜杂鱼和人工配合饲料的基本营养成分。在商品鱼上市前，分别采集冰鲜组和饲料组大口黑鲈进行测定分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/92081cb7f61a5ad318bc6f0f2cb0fc2c2688493b896233d77e5dafff437424b9.jpg",
+        "table_caption": [
+            "表1人工配合饲料和冰鲜杂鱼的基本营养成分",
+            "Table 1Basic nutritional components of artificial compound feed and frozen fresh fish[5] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>冰鲜杂鱼 Frozen fresh fish</td><td>人工配合饲料 Artificial compound feed</td></tr><tr><td>粗蛋白质CP</td><td>20.0</td><td>43.0</td></tr><tr><td>粗脂肪EE</td><td>4.4</td><td>6.0</td></tr><tr><td>粗纤维CF</td><td>0.6</td><td>5.0</td></tr><tr><td>粗灰分 Ash</td><td>4.7</td><td>15.0</td></tr><tr><td>水分Moisture</td><td>64.3</td><td>12.0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 血清生化指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "商品鱼上市前，分别在塘头随机采集冰鲜组和饲料组大口黑鲈各6尾，尾柄抽血，制备血清后4℃保存待测14项血清生化指标，其中白蛋白(ALB)含量采用溴甲酚绿法测定，谷丙转氨酶(ALT)、谷草转氨酶(AST)、碱性磷酸酶(ALP)、淀粉酶(AMY)活性采用速率法测定，葡萄糖(GLU)含量采用葡萄糖氧化法测定，总胆固醇(TC)含量采用胆固醇氧化法测定，低密度脂蛋白胆固醇(LDL-CH)及高密度脂蛋白胆固醇(HDL-CH)含量采用直接法测定，甘油三酯(TG)含量采用酶法测定，总蛋白(TP)含量采用双缩脲法测定，脂肪酶(LPS)活性采用干化学法测定，超氧化物歧化酶(SOD)及溶菌酶(LZM)活性采用南京建成生物工程研究所生产的试",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "剂盒测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 肌肉营养成分测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "商品鱼上市前，分别在塘头随机采集冰鲜组和饲料组大口黑鲈各6尾，取背部肌肉 200g，用于氨基酸、脂肪酸组成及其他营养指标的测定。其中，17种氨基酸，包括天冬氨酸(Asp)、苏氨酸(Thr)、丝氨酸(Ser)、谷氨酸(Glu)、甘氨酸(Gly)、丙氨酸(Ala)、缬氨酸(Val)、蛋氨酸(Met)、异亮氨酸(Ile)、亮氨酸(Leu)、酪氨酸(Tyr)、苯丙氨酸(Phe)、组氨酸(His)、赖氨酸(Lys)、精氨酸(Arg)、脯氨酸(Pro)、色氨酸(Trp)含量均采用GB/T 5009.124-2003 规定的方法测定;21种脂肪酸，包括豆蔻酸(C14:0)、十五烷酸(C15:0)、棕榈酸(C16:0)、十七烷酸(C17:0)、硬脂酸(C18:0)、花生酸(C20:0)、二十一烷酸(C21:0)、山崙酸(C22:0)、棕榈一烯酸(C16:1)、十七碳一烯酸(C17:1)、油酸(C18:1)、花生一烯酸(C20:1)、亚油酸(C18:2)、亚麻酸(C18:3)、花生二烯酸(C20:2)、花生四烯酸(C20:4)、二十碳五烯酸(C20:5，EPA)、二十二碳二烯酸(C22:2)、二十二碳四烯酸(C22:4)、二十二碳五烯酸(C22:5)、二十二碳六烯酸(C22:6，DHA)含量均采用 GB/T17377-2008规定的方法测定；粗脂肪含量采用GB/T5009.6-2003规定的方法测定；粗蛋白质含量采用GB 5009.5-2010规定的方法测定；粗灰分含量采用GB 5009.4-2010规定的方法测定；水分含量采用GB5009.3-2010 规定的方法测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 营养价值评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据联合国粮食与农业组织(Food and Agriculture Organization of the United Nation，FAO)  \n以及世界卫生组织(World Health Organization，WHO)1973年制定的人体必需氨基酸(EAA)均  \n衡模式[15]和1991年中国预防医学科学院营养与食品卫生研究所提出的全鸡蛋蛋白质模式[16]  \n对摄食不同饵料的大口黑鲈肌肉营养价值进行评价，氨基酸评分(amino acid score，AAS)、  \n化学评分(chemical score，CS)和必需氨基酸指数(EAAI)按下式计算：测试蛋白质氨基酸含量 $/ ( \\mathrm { m g / g N } )$   \nASS= -×100；FAO/WHO评分标准模式氨基酸含量 $/ ( \\mathrm { m g } / \\mathrm { g N } )$ （204号  \n$C S =$ 测试蛋白质氨基酸含量/( $\\underbrace { \\mathrm { m g / g N ) } } _ { \\mathrm { i / ( m g / g N ) } } { \\times } 1 0 0 ^ { \\mathrm { ; } }$ 1鸡蛋蛋白质相应氨基酸含量",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE A A I = { \\sqrt { \\frac { t _ { 1 } \\times t _ { 2 } \\times \\cdots \\times t _ { n } } { s _ { 1 } \\times s _ { 2 } \\times \\cdots \\times s _ { n } } } } \\times 1 0 0 \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：1，2，…， $n$ 为不同种氨基酸； $t _ { 1 }$ ， $t _ { 2 }$ ，…， $t _ { n }$ 分别为大口黑鲈肌肉蛋白质不同种氨基酸含量 $\\mathrm { ( m g / g N ) }$ ； $s _ { 1 }$ ， $s _ { 2 }$ ，…， $s _ { n }$ 分别为鸡蛋蛋白质相应氨基酸的含量 $\\left( \\mathrm { m g / g N } \\right)$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用数据处理软件Excel2007进行数据处理，使用 SPSS18.0 软件中的独立样本 $t$ 检验对数据进行分析。试验数据用平均值 $\\pm$ 标准差(mean±SD)表示， $0 . 0 1 { \\leq } P { < } 0 . 0 5$ 为差异显著， $P <$ 0.01为差异极显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.12组大口黑鲈的血清生化指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对2组大口黑鲈14项血清生化指标的测定结果进行独立样本 $t$ 检验，结果见表2。饲料组大口黑鲈血清 AST、SOD 活性及GLU 含量显著高于冰鲜组 $( 0 . 0 1 { \\leq } P { < } 0 . 0 5 )$ ，ALP 活性极显著高于冰鲜组 $( P { < } 0 . 0 1 )$ ，ALB、AMY 活性及TP含量极显著低于冰鲜组 $( P { < } 0 . 0 1 )$ ，其他7 项血清生化指标在2组之间没有显著性差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d5361e4db84d2d9103202b8ac551c42c0b335db3b5e3f4524ad723be97622cc.jpg",
+        "table_caption": [
+            "表22组大口黑鲈的血清生化指标",
+            "Table 2Serum biochemical indexes of Micropterus salmoides in 2 groups $( n { = } 6 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>冰鲜组 Frozen fresh group</td><td>饲料组Feed group</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>18.72±1.79</td><td>14.91±1.28**</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>15.00±6.87</td><td>9.13±4.45</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>61.25±17.20</td><td>83.00±14.60*</td></tr><tr><td>碱性磷酸酶 ALP/(U/L)</td><td>57.00±10.27</td><td>103.00±14.91**</td></tr><tr><td>淀粉酶 AMY/(U/L)</td><td>468.00±86.50</td><td>207.28±74.58**</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>15.31±3.43</td><td>21.67±5.55*</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>22.43±4.94</td><td>17.64±4.19</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/43f6658ab7fce947e4af3853eb0072ce89da82f50bbcf97508bb2bdc87996286.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>低密度脂蛋白胆固醇 LDL-CH/(mmol/L)</td><td>6.82±1.08</td><td>6.18±0.64</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>19.79±12.40</td><td>16.12±11.34</td></tr><tr><td>高密度脂蛋白胆固醇 HDL-CH/(mmol/L)</td><td>4.44±0.82</td><td>3.85±1.85</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>52.78±7.28</td><td>39.24±3.50**</td></tr><tr><td>脂肪酶 LPS/(U/L)</td><td>115.75±20.82</td><td>115.13±23.94</td></tr><tr><td>溶菌酶 LZM/(μg/mL)</td><td>23.72±5.75</td><td>28.58±2.64</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>71.44±12.22</td><td>88.78±13.59*</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲料组数据肩标“\\*”表示与冰鲜组差异显著 $( 0 . 0 1 { \\leq } P { < } 0 . 0 5 )$ ，肩标“\\*\\*”表示与冰鲜组差异极显著(P${ < } 0 . 0 1 \\dot { ] }$ 。表3、表4和表6同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Vaules in feed group with“\\*” and “\\*\\*” superscripts indicate significant diffrence $( 0 . 0 1 { \\leqslant } P { < } 0 . 0 5$ and extremely significant difference $( P { < } 0 . 0 1 )$ compared with Frozen fresh group,respectively. The same as Table 3, Table 4and Table 6. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.22组大口黑鲈的肌肉常规营养成分",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对2组大口黑鲈肌肉常规营养成分的测定结果进行独立样本 $t$ 检验分析，结果见表3。冰鲜组肌肉水分含量极显著低于饲料组 $( P { < } 0 . 0 1 )$ ，粗蛋白质含量显著高于饲料组 $( 0 . 0 1 { \\leq } P { < }$ 0.05)，粗灰分及粗脂肪含量2组间没有显著差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表32组大口黑鲈的肌肉常规营养成分",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 3Proximate nutritional components in muscle of Micropterus salmoides in 2 groups ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f63ef57b10103c1cb005b08d3a1e6a0f1a77c9e519770d772578763e017873b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>冰鲜组 Frozen fresh group</td><td>饲料组 Feed group</td></tr><tr><td>粗脂肪 EE</td><td>1.20±0.10</td><td>0.82±0.22</td></tr><tr><td>粗蛋白质CP</td><td>19.80±0.00</td><td>19.47±0.11*</td></tr><tr><td></td><td></td><td></td></tr><tr><td>粗灰分Ash</td><td>1.13±0.06</td><td>1.13±0.11</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.32组大口黑鲈的肌肉氨基酸含量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表4中显示的氨基酸种类看，大口黑鲈肌肉中所含氨基酸种类齐全，2组大口黑鲈的肌肉均检测到17种氨基酸，冰鲜组和饲料组肌肉总氨基酸（TAA）含量分别为（ $( 1 9 . 5 7 { \\pm } 0 . 1 1 \\$ ） $0 \\%$ 和（ $1 8 . 8 0 { \\scriptstyle \\pm 0 . 2 6 } \\$ ）%。对2组大口黑鲈肌肉中17种氨基酸及TAA、EAA、鲜味氨基酸（DAA）含量的测定结果进行独立样本t检验分析，发现冰鲜组肌肉Ser、His含量极显著高于饲料组( $P$ ${ < } 0 . 0 1 \\dot { ] }$ ，TAA、Thr、Leu、Tyr、Lys、Arg和Pro含量显著高于饲料组 $( 0 . 0 1 { \\leq } P { < } 0 . 0 5 )$ ，其他9种氨基酸以及EAA和DAA2组之间没有显著差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a30c2ab7c460e25ba3ee2ee9e907ab184b67be5ad3fffa938a7e13bd68647b6.jpg",
+        "table_caption": [
+            "表42组大口黑鲈的肌肉氨基酸含量",
+            "Table 4Amino acid contents in muscle of Micropterus salmoides in 2 groups $\\scriptstyle ( n = 6$ $0 \\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>氨基酸 Amino acids</td><td>冰鲜组 Frozen fresh group</td><td>饲料组Feed group</td></tr><tr><td>天冬氨酸 Asp</td><td>2.28±0.36</td><td>2.00±0.03</td></tr><tr><td>苏氨酸 Thr</td><td>0.9±0.02</td><td>0.85±0.00*</td></tr><tr><td>丝氨酸 Ser</td><td>0.83±0.01</td><td>0.78±0.01**</td></tr><tr><td>谷氨酸 Glu</td><td>3.10±0.03</td><td>3.02±0.03</td></tr><tr><td>甘氨酸 Gly</td><td>0.87±0.03</td><td>0.85±0.01</td></tr><tr><td>丙氨酸 Ala</td><td>1.42±0.02</td><td>1.37±0.03</td></tr><tr><td>氨酸Val</td><td>1.01±0.01</td><td>0.99±0.03</td></tr><tr><td>蛋氨酸Met</td><td>0.65±0.01</td><td>0.63±0.01</td></tr><tr><td>异亮氨酸Ile</td><td>0.91±0.01</td><td>0.91±0.03</td></tr><tr><td>亮氨酸Leu</td><td>1.67±0.02</td><td>1.62±0.02*</td></tr><tr><td>酪氨酸Tyr</td><td>0.70±0.01</td><td>0.67±0.01*</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.9±0.01</td><td>0.87±0.02</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/eba98f4443fecfa2e104fa152eee619f45db0f97eb533e3e19983c7785f4c974.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组氨酸 His</td><td>0.48±0.01</td><td>0.42±0.00**</td></tr><tr><td>赖氨酸Lys</td><td>1.98±0.01</td><td>1.91±0.04*</td></tr><tr><td>精氨酸 Arg</td><td>1.34±0.01</td><td>1.29±0.01*</td></tr><tr><td>脯氨酸 Pro</td><td>0.72±0.03</td><td>0.65±0.02*</td></tr><tr><td>色氨酸Trp</td><td>0.25±0.01</td><td>0.22±0.01</td></tr><tr><td>总氨基酸TAA</td><td>19.57±0.11</td><td>18.80±0.26*</td></tr><tr><td>必需氨基酸 EAA</td><td>8.26±0.07</td><td>8.01±0.15</td></tr><tr><td>鲜味氨基酸 DAA</td><td>7.67±0.32</td><td>7.24±0.09</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.42组大口黑鲈的肌肉营养价值评价 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如表5所示，以ASS为评价标准，冰鲜组和饲料组大口黑鲈肌肉Met+Cys的评分最低，说明冰鲜组与饲料组第一限制氨基酸均为Met+Cys；以CS为评价标准，2组大口黑鲈肌肉Met+Cys的评分也最低。在ASS和CS2种评分标准模式下，冰鲜组各种氨基酸的评分均高于饲料组，且冰鲜组的EAAI也高于饲料组，说明投喂冰鲜杂鱼的大口黑鲈肌肉的氨基酸组成较为合理，肌肉的营养品质要优于饲料组。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3aae8b5c2ae8aa91ba0b96ae7a10f9f001b08bc71ea2e705428bd75efd99be92.jpg",
+        "table_caption": [
+            "表52组大口黑鲈的肌肉营养价值评价",
+            "Table 5Nutritional value evaluation of muscle of Micropterus salmoides in 2 groups "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>氨基酸 Amino acids</td><td>冰鲜组 Frozen fresh group</td><td>饲料组Feed group</td></tr><tr><td rowspan=\"5\">氨基酸评分 ASS</td><td>异亮氨酸Ile</td><td>0.93</td><td>0.84</td></tr><tr><td>亮氨酸Leu</td><td>0.98</td><td>0.86</td></tr><tr><td>赖氨酸Lys</td><td>1.50</td><td>1.31</td></tr><tr><td>色氨酸Trp</td><td>1.06</td><td>0.86</td></tr><tr><td>苏氨酸Thr</td><td>0.93</td><td>0.79</td></tr><tr><td></td><td>氨酸 Val</td><td>0.84</td><td>0.74</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8e083c839bc330dc36a8031f3a56d4a420e04bc6bf37adea8a746bce7790958.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">蛋氨酸+半胱氨酸 Met+Cys 苯丙氨酸+酪氨酸 Phe+Tyr</td><td>0.76</td><td>0.67</td></tr><tr><td colspan=\"2\"></td><td>1.08</td><td>0.95</td></tr><tr><td rowspan=\"7\">化学评分 CS</td><td>异亮氨酸Ile</td><td>0.71</td><td>0.64</td></tr><tr><td>亮氨酸Leu</td><td>0.81</td><td>0.71</td></tr><tr><td>赖氨酸Lys</td><td>1.16</td><td>1.01</td></tr><tr><td>色氨酸Trp</td><td>0.64</td><td>0.52</td></tr><tr><td>苏氨酸Thr</td><td>0.80</td><td>0.68</td></tr><tr><td>氨酸Val</td><td>0.63</td><td>0.56</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.43</td><td>0.38</td></tr><tr><td rowspan=\"2\">必需氨基酸指数 EAAI</td><td>苯丙氨酸+酪氨酸 Phe+Tyr</td><td>0.73</td><td>0.64</td></tr><tr><td></td><td>71.30</td><td>61.97</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.52组大口黑鲈的肌肉脂肪酸含量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对2 组大口黑鲈肌肉中21种脂肪酸含量的测定结果进行独立样本 $\\mathbf { \\chi } _ { t }$ 检验分析，结果见表6。冰鲜组有8种脂肪酸的含量极显著高于饲料组 $( P { < } 0 . 0 1 )$ ，这8种脂肪酸分别为C14:0、C15:0、C16:1、C17:0、C17:1、C21:0、EPA、DPA；有5种脂肪酸的含量极显著低于饲料组$( P { < } 0 . 0 1 )$ ），这5种脂肪酸分别为C18:2、C18:3、C20:1、C20:2、C22:0；有2种脂肪酸的含量显著高于饲料组 $( 0 . 0 1 { \\leq } P { < } 0 . 0 5 )$ ，这2 种脂肪酸分别为C22:2、C22:4，其他6种脂肪酸含量2组之间没有显著性差异 $( P { > } 0 . 0 5 )$ 。此外，饱和脂肪酸(SFA)、单不饱和脂肪酸(MUFA)及多不饱和脂肪酸(PUFA)总量在2组之间没有显著差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/36b7aa9df84d999d139cfbec97178f644a3ad9e9deaded28e28721e317c96a59.jpg",
+        "table_caption": [
+            "表62组大口黑鲈的肌肉脂肪酸含量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Table 6</td><td colspan=\"2\">Fatty acid contents in muscle of Micropterus salmoides in 2 groups (n=6)</td><td>%</td></tr><tr><td>脂肪酸Fattyacids</td><td>冰鲜组Frozen fresh group</td><td>饲料组 Feed group</td><td></td></tr><tr><td>豆蔻酸 C14:0</td><td>3.97±0.11</td><td>1.53±0.06**</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a62c932f0853a64efa0ba2325e37d8822e03313e19e800e26f61d852e326ec31.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>0.56±0.02</td><td>0.31±0.01**</td></tr><tr><td>棕榈酸 C16:0</td><td>20.23±2.92</td><td>17.43±1.04</td></tr><tr><td>十七烷酸 C17:0</td><td></td><td>0.61±0.04**</td></tr><tr><td></td><td>0.96±0.12</td><td></td></tr><tr><td>硬脂酸C18:0</td><td>4.53±1.01</td><td>4.57±0.35</td></tr><tr><td>花生酸 C20:0</td><td>0.17±0.03</td><td>0.15±0.01</td></tr><tr><td>二十一烷酸 C21:0</td><td>0.66±0.11</td><td>0.24±0.04**</td></tr><tr><td>山崙酸 C22:0</td><td>0.23±0.01</td><td>0.35±0.02**</td></tr><tr><td>饱和脂肪酸 SFA</td><td>31.24±3.91</td><td>25.14±1.42</td></tr><tr><td>棕榈一烯酸 C16:1</td><td>10.3±0.36</td><td>5.13±0.32**</td></tr><tr><td>十七碳一烯酸 C17:1</td><td>1.33±0.06</td><td>0.73±0.09**</td></tr><tr><td>油酸C18:1</td><td>19.67±3.08</td><td>25.33±2.33</td></tr><tr><td>二十一烷酸 C20:1</td><td>1.00±0.00</td><td>1.43±0.06**</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>32.3±3.5</td><td>32.63±2.66</td></tr><tr><td>亚油酸 C18:2</td><td>1.77±0.11</td><td>16.53±0.66**</td></tr><tr><td>亚麻酸 C18:3</td><td>1.17±0.06</td><td>1.80±0.17**</td></tr><tr><td>花生二烯酸 C20:2</td><td>0.28±0.00</td><td>0.68±0.01**</td></tr><tr><td>花生四烯酸 C20:4</td><td>2.00±0.26</td><td>1.70±0.20</td></tr><tr><td>二十碳五烯酸 C20:5</td><td>4.67±1.02</td><td>1.47±0.25**</td></tr><tr><td>二十二碳二烯酸 C22:2</td><td>0.66±0.17</td><td>0.30±0.01*</td></tr><tr><td>二十二碳四烯酸 C22:4</td><td>0.94±0.11</td><td>0.63±0.05*</td></tr><tr><td>二十二碳五烯酸 C22:5</td><td>6.10±1.04</td><td>2.93±0.40**</td></tr><tr><td>二十二碳六烯酸 C22:6</td><td>17.57±3.96</td><td>15.10±1.87</td></tr><tr><td>多不饱和脂肪酸 PUFA</td><td>35.05±6.82</td><td>41.13±2.97</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.12组大口黑鲈血清生化指标的差异 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "鱼类的血液生化指标与其营养状况、代谢水平以及疾病的发生密不可分，可以肯定的是，鱼类在受到外界的不同影响后，其生理或病理变化必定会在血液的生理生化指标中表现出来[14]。血清中的转氨酶是反映肝功能的重要指标，其活性升高是肝细胞损伤的标志[17]。本研究中，饲料组血清 AST 活性显著高于冰鲜组，ALP 活性极显著高于冰鲜组，说明使用人工配合饲料投喂大口黑鲈由于某种原因可能导致大口黑鲈肝脏代谢异常。张璐等[18]研究饲料中维生素A含量对花鲈(Lateolabrax japonicus)血清生化指标的影响时发现，饲料添加维生素A会显著提高花鲈血清 ALP 活性。蓝汉冰等[19]在研究维生素A对大口黑鲈血清生化指标的影响时发现，摄食高维生素A含量饲料的大口黑鲈血清 AST活性显著高于对照组，且过量的维生素A 对大口黑鲈肝脏造成了一定的毒害作用。血清中的蛋白质主要是维持血浆胶体渗透压及pH 稳定，同时也具有运输、营养等功能[20-21]，如果血清中 ALB 含量降低，则会对血液渗透压造成极大影响，血清中 ALB 含量可以从一定程度上反映肝脏问题[22]。吴金平等[23]在研究生物素缺乏对吉富罗非鱼(Oreochromis niloticus)幼鱼生长及血清生化指标的影响时发现，当生物素缺乏时，罗非鱼血清中 ALB及TP 含量显著降低，幼鱼厌食、生长减缓。本研究中，饲料组大口黑鲈血清中 ALB及 TP 含量极显著低于冰鲜组，再次说明目前的人工配合饲料营养还不够均衡，会在一定程度上导致大口黑鲈肝脏代谢异常。由此可以推断，人工配合饲料的配方还需要进一步的优化。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.22组大口黑鲈肌肉营养成分的差异",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本次研究中，冰鲜组大口黑鲈肌肉粗蛋白质含量显著高于饲料组。王广军等[3利用人工配合饲料、冰鲜杂鱼投喂大口黑鲈，研究不同饵料对大口黑鲈成鱼肌肉营养成分的影响，研究结果表明冰鲜组成鱼的肌肉粗蛋白质含量比人工配合饲料组提高了 $5 . 9 4 \\%$ 。高露姣等[24]比较分析了不同饵料(杂鱼和人工饲料)饲养的褐牙鲆(Paralichthys olivaceus)的肌肉营养成分，发现摄食杂鱼组的鱼体粗蛋白质含量显著高于摄食人工饲料组。上述研究均与本试验结果相似，说明肉食性鱼类大口黑鲈在改投人工配合饲料后肌肉品质有所下降，大口黑鲈的人工配合饲料配方还需要进一步的优化，来满足消费者对大口黑鲈的营养需求。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.32组大口黑鲈肌肉氨基酸组成的差异 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本次研究中，不同饵料组大口黑鲈肌肉中所含氨基酸种类齐全，均检测到17种氨基酸。17 种氨基酸中，冰鲜组肌肉中 Ser、His 含量极显著高于饲料组，Thr、Leu、Tyr、Lys、Arg和 Pro 含量显著高于饲料组；此外，冰鲜组肌肉中 TAA含量也显著高于饲料组，说明投喂冰鲜鱼的大口黑鲈肌肉营养品质特别是蛋白质品质要优于投喂人工配合饲料的大口黑鲈。施永海等[25]在比较分析配合饲料和活饵料喂养的刀(Coilia macrognathos Bleeker)肌肉中的18 种氨基酸时发现，有10种氨基酸的含量为配合饲料组显著高于活饵料组，其余8种氨基酸的含量在 2 组之间没有显著差异。庄平等[26]在研究转食不同饵料对中华鲟(Acipensersinensis Gray)幼鱼肌肉营养成分的影响时发现，中华鲟幼鱼从人工配合饲料转食水蚯蚓后，肌肉中有9种氨基酸的含量发生显著变化，并认为肌肉营养成分的变化不仅与其转食饵料的营养成分相关，与其饵料的适口性也密切相关。张丽等[2认为活饵料中可能含有某种微量的诱导鱼类酶分泌的活性物质，这些活性物质的存在可能会促进鱼类的蛋白酶分泌，同时生物活饵料还能提供可直接或间接参与食物消化的外源酶(如胰蛋白酶)[27]。所以，活饵料能提高鱼类对食物中蛋白质的消化吸收能力(特别是EAA)，最终导致鱼类肌肉蛋白质品质的提高。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "蛋白质营养价值的评价取决于氨基酸的组成[28]。本次研究中，以 FAO/WHO 模式及全鸡蛋蛋白质标准模式对大口黑鲈肌肉营养价值进行评价，结果显示，2种模式中，Met+Cys均为第一限制性氨基酸，这与吕帆等[29研究得出的黄河鲤鱼的第一限制性氨基酸一致；且冰鲜组各种氨基酸评分及EAAI均高于饲料组，再次表明投喂冰鲜杂鱼的大口黑鲈肌肉的氨基酸组成较为合理，具有较高的营养品质。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.42组大口黑鲈肌肉脂肪酸组成的差异 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究显示，冰鲜组大口黑鲈肌肉中有8种脂肪酸（分别为C14:0、C15:0、C16:1、C17:0C17:1、C21:0、EPA、DPA）的含量极显著高于饲料组；有5种脂肪酸（分别为C18:2、C18:3、C20:1、C20:2、C22:0)的含量极显著低于饲料组，尤其是C18:2，其在冰鲜组的含量为 $1 . 7 7 \\%$ 在饲料组的含量为 $1 6 . 5 3 \\%$ ，这可能是由于鱼类不能自身合成C18:2，且不同鱼类从C18不饱和脂肪酸合成长链不饱和脂肪酸的能力不同，因此C18:2 必须从饲料中获取[30]。C18:2 属于n-6 系列脂肪酸，是淡水鱼类主要的脂肪酸，分别投喂冰鲜杂鱼和人工配合饲料对大口黑鲈肌肉C18:2 含量造成的差异，推测可能是由于饲料不同脂肪源造成的。Tidwell等[31研究了不同脂肪源对 $\\mathrm { 1 5 ~ g }$ 大口黑鲈脂肪酸组成的影响，认为饲料中脂肪酸的组成会影响鱼体脂肪酸组成。Xue 等[32研究不同脂肪源对花鲈幼鱼鱼体粗脂肪含量的影响时发现，投喂大豆油饲料组花鲈幼鱼鱼体脂肪酸含量显著低于其他组。陈家林等[33]研究不同脂肪源对异育银鲫肌肉脂肪酸组成的影响时发现，肌肉脂肪酸含量与饲料脂肪源脂肪酸含量呈正相关关系。高坚等[34]研究不同脂肪源对泥鳅(Misgurnus anguillicaudatus)稚鱼脂肪酸组成的影响时发现，鱼油可以显著提高泥鳅鱼体中n-3系列脂肪酸的含量。鱼体的脂肪酸组成基本上能反映饲料的脂肪酸组成[35]，说明本次试验使用的人工配合饲料中 C18:2 含量较高。然而，淡水鱼类一般具有延链和去饱的能力，将C18:2转化为DHA，这已经在多数鱼类中得到证实，包括白梭吻鲈(Sander lucioperca)[36]、花鲈[32]、异育银鲫[33]。在本次研究中，饲料组大口黑鲈肌肉C18:2含量极显著高于冰鲜组，针对此结果，可对大口黑鲈是否具有转化C18:2的能力进行深入研究。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在本试验条件下，投喂冰鲜杂鱼的大口黑鲈肌肉营养品质特别是蛋白质品质及氨基酸组成要优于投喂人工配合饲料的大口黑鲈，具体表现为肌肉粗蛋白质含量、各种氨基酸含量及评分较高。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 与投喂冰鲜杂鱼相比，使用人工配合饲料投喂大口黑鲈可能导致大口黑鲈肝脏代谢异常，导致健康状况欠佳，但能显著提高大口黑鲈肌肉中的C18:2含量。参考文献：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] 陈乃松,梁勤朗,肖温温,等.在低蛋白质饲料中补充必需氨基酸对大口黑鲈生长、体组成和免疫指标的影响[J].水生生物学报,2014,38(2):262-271.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[2] 张丽,许国焕,郭慧青,等.摄食不同饵料对加州鲈生长性能及体成分的影响[J].淡水渔业,2011,41(6):60-63.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[3]王广军,关胜军,吴锐全,等.大口黑鲈肌肉营养成分分析及营养评价[J].海洋渔业,2008,30(3):239-244.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[4] 关胜军,吴锐全,谢骏,等.两种饲料对大口黑鲈生长、消化道指数和消化酶活性的影响[J]. 饲料工业,2007,28(2):32-36. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[5]郁二蒙,张振男,夏耘,等.摄食不同饵料的大口黑鲈肠道菌群分析[J].水产学报,2015,39(1):118-126.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[6] ALASALVAR C,TAYLOR K D A,ZUBCOV E,et al.Differentiation of cultured and wild sea bass (Dicentrarchuslabrax),totallipids content,fatty acid and trace mineral composition[J].Food Chemistry,2002,79(2):145-150. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[7] CEJAS J R,ALMANSA E,VILLAMANDOS J E,et al.Lipid and fatty acid composition of ovaries from wild fish and ovaries and eggs from captive fish of White Sea bream (Diplodus sargus)[J].Aquaculture,2003,216(1/2/3/4):299-313. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[8] CODIER M,BRICHON G,WEBER J M,et al.Changes in the fatty acid composition of phospholipids in tissues of farmed sea bass(Dicentrarchus labrax) during an annual cycle.Roles of environmental temperature and salinity[J].Comparative Biochemistry and Physiology Part B:Biochemistry and Molecular Biology,2002,133(3):281-288. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[9] OGATAA H Y,EMATAB A C,GARIBAYB E S,et al.Faty acid composition of five candidate aquaculture species in Central Philippines[J].Aquaculture,2004,236(1/2/3/4):361-375. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[10] GLOVER K A,OTTERA H O,OLSEN R E,et al.A comparison of farmed,wild and hybrid Atlantic salmon (salmo salar L.） reared under faming conditions[J].Aquaculture,2009,286(3/4):203-210. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[11]吉红,孙海涛,单世涛.池塘与网箱养殖匙吻鲟肌肉营养成分及品质评价[J].水产学报,2011,35(2):261-267.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[12]孙海涛,吉红.饲料蛋白水平对匙吻鲟幼鱼肌肉营养成分及消化酶活力的影响[J].水产科学,2011,30(12):721-725.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[13]刘邦辉,王广军,郁二蒙,等.投喂蚕豆和普通配合饲料草鱼肌肉营养成分比较分析及营养评价[J].南方水产科学,2011,7(6):58-65.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[14] VASEEM H,BANERJEE T K.Contamination of the River Ganga and its toxic implication in the blood parameters of the major carp Labeo rohita (Ham)[J].Environmental Science and Pollution Research,2013,20(8):5673-5681. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[15] FAO/WHO.Energy and protein requirements[R].Rome:FAO,1973:40-73. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[16]中国预防医学科学院营养与食品卫生研究所.食物成分表(全国代表值)[M].北京:人民卫生出版社,1991:30-82.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[17]李永娟,王卫民,黄燕华,等.饲料中添加 $\\beta$ -葡聚糖对黄颡鱼幼鱼生长性能、血清生化指标及抗嗜水气单胞菌感染能力的影响[J].动物营养学报,2015,27(12):3754-3762.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[18] 张璐,李静,谭芳芳,等.饲料中不同维生素 A 含量对花鲈生长和血清生化指标的影响[J].水产学报,2015,39(1):88-96.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[19] 蓝汉冰,陈翠英,黄永政,等.饲料中不同水平维生素A对加州鲈生长和血清生化指标的影响[J].饲料工业,2016,37(12):34-38)",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[20] 徐浩,张东玲,陈庆凯,等.低温下饥饿胁迫对大黄鱼血清生化指标的影响[J].生物技术通",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "报,2015,31(6):195-199. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[21]冯广朋,庄平,章龙珍,等.温度对中华鲟幼鱼血液生化指标的影响[J].生态学杂志,2010,29(10):1973-1978.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[22] ZHOU C P,GE X P,LIN H Z,et al.Effect of dietary carbohydrate on non-specific immune response,hepatic antioxidative abilities and disease resistance of juvenile golden pompano (Trachinotus ovatus)[J].Fish & Shellfish Immunology,2014,41(2):183-190. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[23] 吴金平,文华,蒋明,等.生物素对吉富罗非鱼幼鱼生长、体成分及血清生化指标的影响[J].西北农林科技大学学报：自然科学版,2016,44(2):15-22.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[24] 高露姣,楼宝,毛国民,等.不同饵料饲养的褐牙鲆肌肉营养成分的比较[J].海洋渔业,2009,31(3):293-299.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[25] 施永海,张根玉,张海明,等.配合饲料和活饵料喂养刀肌肉营养品质分析与比较[J].动物营养学报,2014,26(2):427-436.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[26] 庄平,宋超,章龙珍,等.转食不同饵料对野生中华鲟幼鱼肌肉营养成分的影响[J].水生生物学报,2009,33(5):998-1004.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[27] 李芹,刁晓明.不同饵料对瓦氏黄颡鱼稚鱼生长和消化酶活性的影响[J].水生态学杂志,2009,2(1):98-102.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[28]陈志强,郑月,蔡洁琼,等.固城湖中华绒螯蟹可食部位氨基酸和脂肪酸组成[J].食品科 学,2016,37(10):122-127. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[29] 吕帆,朱文彬,王兰梅,等.福瑞鲤与黄河鲤、建鲤鱼肉品质的比较及影响肉质的主成分分析[J].食品科学,2016,37(5):28-34.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[30] OWEN JM,ADRON J W,MIDDLETON C,et al.Elongation and desaturation of dietary fatty acidsin turbotScophthalmusmaximus L.,andrainbowtrout,Salmogairdnerii rich[J].Lipids,1975,10(9):528-531. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[31] TIDWELL JH,COYLE S,BRIGHT L A.Efects of different types of dietary lipids on growth andfatty acid composition of largemouth bass[J].North American Journalof Aquaculture,2007,69(3):257-264. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[32] XUE M,LUO L,WU X F,et al.Effects of six alternative lipid sources on growth and tissue fatty acid composition in Japanese sea bass (Lateolabrax japonicus)[J].Aquaculture,2006,260(1/2/3/4):206-214. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[33] 陈家林,韩冬,朱晓鸣,等.不同脂肪源对异育银鲫的生长、体组成和肌肉脂肪酸的影响[J].水生生物学报,2011,35(6):988-997.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[34] 高坚,李洋,叶伟钊,等.不同脂肪源对泥鳅稚鱼生长性能及脂肪酸组成的影响[J].水生生物学报,2016,40(1):1-9.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[35] REGOST C,ARZEL J,ROBIN J,et al.Total replacement of fish oil by soybean oil with return to fish oil in turbot (Psetta maxima): I .Growth performance,flesh fatty acid profile,and lipid metabolism[J].Aquaculture,2003,217(1/2/3/4):465-482. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[36] HAMZA N,MHETLI M,KHEMIS I B,et al.Effect of dietaryphospholipid levels on performance,enzyme activities and fatty acid composition of pikeperch (Sander lucioperca) larvae[J].Aquaculture,2008,275(1/2/3/4):274-282. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of Effects of Frozen Fresh Fish and Artificial Compound Feed on Muscle Quality and Health StatusofMicropterussalmoides ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "LI Zhifei GONG WangbaoWANG JinlinWANG Guangjun YU Deguang XIE Jun\\* (Pearl River Fishery Research Institute, Chinese Academy of Fisheries Sciences, Guangzhou 510380, China) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this experiment,the efects of frozen fresh fish and artificial compound feed on muscle quality and health status of Micropterus salmoides were evaluated by measuring serum biochemical indexes and muscle nutritional components. The Micropterus salmoides in frozen fresh group and feed group were fed frozen fresh fish and special artificial compound feed for Micropterus salmoides during the whole farming process, respectively. Before the commercial fish came into the market, six fish were randomly sampled from frozen fresh group and feed group, respectively, to measure serum biochemical indexes,and another six fish were randomly sampled tomeasure muscle nutritional components. The results showed that serum aspartate aminotransferase activity in feed group was significantly higher than that in frozen fresh group （20 $( 0 . 0 1 { \\leq } P { < } 0 . 0 5 )$ , and serum alkaline phosphatase activity in feed group was extremely significantly higher than that in frozen fresh group $( P { < } 0 . 0 1 )$ , while serum albumin and total protein contents were extremely significantly lower than those in frozen fresh group $( P { < } 0 . 0 1 )$ ). Muscle total amino acid content in frozen fresh group was significantly higher than that in feed group $( 0 . 0 1 { \\leq } P { < } 0 . 0 5 )$ ， and the amino acid score (AAS) and chemical score (CS) of each amino acid and essential amino acid index (EAAI) of muscle in frozen fresh group were higher than those in feed group. Muscle linoleic acid （C18:2） content in feed group was extremely significantly higher than that in frozen fresh group $( P { < } 0 . 0 1 )$ . The results indicate that the muscle nutritional quality, especially protein quality and amino acid composition, and health status of Micropterus salmoides in frozen fresh group are superior to feed group, but the muscle linoleic acid content in feed group is extremely significantly improved. So,the formula of artificial compound feed needs further optimization to better satisfy the nutrient requirements of Micropterus salmoides. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Key words: Micropterus salmoides; artificial compound feed; frozen fresh fish; serum biochemical indexes; muscle nutritional components ",
+        "page_idx": 17
+    }
+]

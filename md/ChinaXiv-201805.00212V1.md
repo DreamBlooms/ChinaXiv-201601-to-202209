@@ -1,0 +1,245 @@
+# 一种邻域自适应半监督局部Fisher判别分析算法
+
+杜伟，房立清，齐子元(军械工程学院 火炮工程系，石家庄 050003)
+
+摘要：针对利用局部化思想解决多模数据的判别分析问题时，根据经验对局部邻域大小进行全局统一设定无法体现局部几何结构的差异性的不足，提出一种邻域自适应半监督局部Fisher判别分析(neighborhood adaptive semi-supervisedlocalFisherdiscriminantanalysis，NA-SELF）算法。该算法在半监督局部Fisher判别分析算法的基础上，结合马氏距离和余弦相似度确定初始近邻数，并根据样本空间概率密度估计调整近邻数。通过人工数据集和5组UCI标准数据集对该算法的特征降维性能进行验证，并与典型的维数约简算法和采用传统 $k$ 近邻方法的判别分析算法进行比较，实验结果表明该算法具备更高的有效性。
+
+关键词：局部邻域；自适应；半监督局部Fisher判别分析；维数约简 中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2017.07.0691
+
+# Neighborhood adaptive semi-supervised local Fisher discriminant analysis algorithm
+
+Du Wei, Fang Liqing, Qi Ziyuan (Dept.ofArtillery Engineering,Ordnance Engineering College,Sijiazhuang 05ooo3,China)
+
+Abstract:Forthediscriminantanalysisof multimodaldata,theideaoflocalizationcan hardlyreflectthediferenceof local geometric structure according tothe global seting oflocal neighborhood by experience.Aiming atthis problem,this paper proposedaneighborhoodadaptivesemi-supervisedlocalFisherdiscriminantanalysis (NA-SELF)algorithm.Thenewalgorithm basedonthesemi-supervisedlocal Fisherdiscriminant analysis algorithm,obtained theinitial neighborhood bycombining the Mahalanobisdistanceandcosinesimilarity,andadjustedtheumberofneighborsaccordingtotheprobabilitydensityetiation ofsample space.The performanceoffeature dimensionality reduction using the algorithm was verifiedbythe synthetic datasets andfive UCIstandarddatasets.Compared withseveraltypial dimensionalityreductionalgorithmsandthediscriminantanalysis algorithmusingthe traditionalK-nearestneighbor method,the experimentalresultsshowthattheproposedalgorithmhashigher effectiveness.
+
+Key Words:local neighborhood; adaptive;semi-supervised localFisherdiscriminant analysis; dimensionalityreductio
+
+# 0 引言
+
+随着信息技术的发展，许多研究和应用领域需要处理的数据往往存在维数高、含有大量冗余和混叠信息等问题。为避免陷入“维数灾难”，提高效率并充分挖掘原始数据的本质信息，需要对数据进行有效的维数约简。降维技术作为数据预处理的重要手段，在图像处理、模式识别和计算机视觉等领域得到了广泛应用。
+
+降维算法通过采用线性变换或非线性变换，使数据从高维空间映射到低维空间后尽量保持结构特征信息。降维算法按照样本中是否含有类别标签分为有监督降维和无监督降维[1]。属于有监督降维的线性判别分析（lineardiscriminationanalysis，
+
+LDA）[2]和属于无监督降维的主成分分析（principlecomponentanalysis，PCA）[3]是典型的线性降维方法。然而，无监督降维方法忽略了类别标签的指导，有监督降维方法需要大量的带标签样本，在工程实践中往往成本过高。半监督降维方法综合利用无标签数据和少量有标签数据，取得了很好的效果[4-6]。为解决线性判别分析在多模数据情况下评价能力差的缺陷，许多学者引入局部化的思想，希望用局部信息来挖掘数据的流形结构，例如局部保持投影（locality preserving projection，LPP）[7]、局部Fisher 判别分析（localFisher discrimination analysis，LFDA）[8]和边界Fisher 判别分析（marginalFisher analysis,MFA)[9]等。现有的算法在构建邻域时往往是根据经验进行全局统一设定，忽略了数据局部几何结构的差异性，从而影响低维投影向量的类别可分性。因此，根据数据点之间的距离度量自动确定邻域大小，成为一个值得研究的问题[10]。
+
+基于以上分析，本文提出一种邻域自适应半监督局部Fisher 判别分析（neighborhood adaptive semi-supervised localFisherdiscriminantanalysis,NA-SELF）算法。该算法结合距离度量和角度相似性度量构建邻域，并利用样本空间概率密度估计自适应调整近邻数，有效克服了SELF算法使用全局统一邻域参数的不足。最后，将运用NA-SELF算法得到的低维向量输入支持向量机（supportvector machine,SVM）进行识别，验证了NA-SELF算法的有效性。
+
+# 1 半监督局部Fisher判别分析
+
+Sugiyama 等人[1]将LFDA和PCA有效融合，提出一种半监督局部Fisher判别分析（semi-supervisedlocalFisherdiscriminantanalysis，SELF）算法。LFDA通过描述样本局部信息提高了处理多模态数据的能力，但在有标签样本不足时容易陷入过学习，而PCA能够利用无标签样本获取全局分布。SELF算法结合二者优势，兼具LFDA利用类别信息指导降维的能力和PCA利用无类别信息获取全局分布的能力。
+
+假设给定样本集共包含 $D$ 维特征， $c$ 个类别，记为$X = \{ x _ { i } \in R ^ { o } , ( i = 1 , 2 , . . . , n ^ { \prime } , . . . , n ) \}$ ，其中有类别标签样本$X _ { i } ( i = 1 , 2 , . . . , n ^ { \prime } )$ ，类别标签记为 $l _ { i } \in \{ 1 , 2 , . . . , C \} ( i = 1 , 2 , . . . , n ^ { \prime } )$ 。PCA的全局散度矩阵定义为
+
+$$
+\pmb { S } ^ { ( t ) } = \frac { 1 } { 2 } \sum _ { i , j = 1 } ^ { n } W _ { i , j } ^ { ( t ) } ( \pmb { X } _ { i } - \pmb { X } _ { j } ) ( \pmb { X } _ { i } - \pmb { X } _ { j } ) ^ { T }
+$$
+
+其中：权值 $W _ { i , j } ^ { ( t ) } = 1 / n$ 。LFDA的局部类间散度矩阵 $S ^ { ( l b ) }$ 和局部类内散度矩阵 $S ^ { ( l w ) }$ 可定义为下面的逐对形式[]：
+
+$$
+\pmb { S } ^ { ( l b ) } = \frac { 1 } { 2 } \sum _ { i , j = 1 } ^ { n ^ { \prime } } W _ { i , j } ^ { ( l b ) } ( \pmb { X } _ { i } - \pmb { X } _ { j } ) ( \pmb { X } _ { i } - \pmb { X } _ { j } ) ^ { T }
+$$
+
+$$
+\pmb { S } ^ { ( l w ) } = \frac { 1 } { 2 } \sum _ { i , j = 1 } ^ { n ^ { * } } W _ { i , j } ^ { ( l w ) } ( \pmb { X } _ { i } - \pmb { X } _ { j } ) ( \pmb { X } _ { i } - \pmb { X } _ { j } ) ^ { T }
+$$
+
+其中：权值矩阵 $W ^ { ( l b ) }$ 和 $W ^ { ( l w ) }$ 定义为
+
+$$
+\begin{array} { r } { W _ { i , j } ^ { ( l b ) } = \left\{ { A _ { i , j } } ( 1 / n ^ { \prime } - 1 / n _ { _ i } ^ { \prime } ) \ \mathrm { i f } \ l _ { _ i } = l _ { _ j } \right. } \\ { \left. 1 / n ^ { \prime } \right. \qquad \mathrm { i f } \ l _ { _ i } \ne l _ { _ j } } \end{array}
+$$
+
+$$
+W _ { i , j } ^ { ( l w ) } = \left\{ { \begin{array} { l l } { A _ { i , j } ( 1 / n _ { \ i } ^ { \prime } ) { \mathrm { ~ i f ~ } } l _ { i } = l _ { { \mathrm { { \it ~ j ~ } } } } } \\ { 0 { \mathrm { ~ i f ~ } } l _ { i } \neq l _ { { \mathrm { { \it ~ j ~ } } } } } \end{array} } \right.
+$$
+
+其中： $n _ { \mathit { \iota } _ { l _ { i } } } ^ { \prime }$ 为第 $l _ { i } \in \{ 1 , 2 , . . . , C \} ( i = 1 , 2 , . . . , n ^ { \prime } )$ 类样本数；相似矩阵 $A$ 的第 $( i , j )$ 个元素 $A _ { i , j } \in [ 0 , 1 ]$ 用于描述两个样本 $x _ { i }$ 和 $\boldsymbol { x } _ { j }$ 之间的相似性，且 $A _ { { \scriptscriptstyle i } , { \scriptscriptstyle j } }$ 有高斯相似度、 $k$ 近邻相似度和局部尺度相似度等多种定义形式[8]，如
+
+$$
+A _ { _ { i , j } } = \exp ( - \frac { \left\| x _ { _ { i } } - x _ { _ { j } } \right\| ^ { 2 } } { \sigma _ { _ i } \sigma _ { _ j } } )
+$$
+
+其中： $\sigma _ { { } _ { i } }$ 为样本点 $x _ { i }$ 的局部尺度，定义为 $\sigma _ { _ i } = \left\| x _ { _ i } - x _ { _ i } ^ { ( k ) } \right\|$ ， $x _ { i } ^ { ( k ) }$ 为$x _ { i }$ 的第 $k$ 个最近邻点，文献[8]建议设置全局参数 $k = 7$ 。事实上，式（6）体现了样本点之间的局部近邻关系，能够根据具有相同类别标签的数据对的距离远近对权值进行调整。
+
+由式 $( 1 ) \sim ( 3 )$ ，定义SELF 的类间散度矩阵和类内散度矩阵：
+
+$$
+\pmb { S } ^ { ( b ) } = ( 1 - \beta ) \pmb { S } ^ { ( l b ) } + \beta \pmb { S } ^ { ( t ) }
+$$
+
+$$
+S ^ { ( w ) } = ( 1 - \beta ) S ^ { ( w ) } + \beta I _ { d }
+$$
+
+其中：权系数 $\beta \in [ 0 , 1 ]$ ， $I _ { { _ d } }$ 为标准矩阵。权系数 $\beta$ 使算法兼具LFDA和PCA的特性，通过调节其值大小，增加了算法的灵活性。显然，当 $\beta = 1$ 时 SELF 等价于PCA，当 $\beta = 0$ 时则等价于LFDA。寻找最佳的投影转换矩阵 $\tau$ ，即求解如下最大化目标函数问题：
+
+$$
+T = \underset { T \in { \cal R } ^ { d \times r } } { \arg \operatorname* { m a x } } [ t r T ^ { r } S ^ { \scriptscriptstyle ( b ) } T ( T ^ { r } S ^ { \scriptscriptstyle ( w ) } T ) ^ { \scriptscriptstyle - 1 } ]
+$$
+
+式（9）转换矩阵的求解等效于式（10）的广义特征向量求取问题。
+
+$$
+S ^ { \scriptscriptstyle ( b ) } \alpha = \lambda S ^ { \scriptscriptstyle ( w ) } \alpha
+$$
+
+则转换矩阵 $\tau$ 由式（10）的前 $d$ 个最大广义特征值对应的广义特征向量 $( a _ { _ 1 } , a _ { _ 2 } , . . . , a _ { _ d } )$ 组成。
+
+# 2 邻域自适应半监督局部Fisher判别分析
+
+传统的近邻数设置方法一般分为 $\mathrm { ~ K ~ }$ 近邻法和 $\boldsymbol { \varepsilon }$ 近邻法两种。SELF 算法在计算局部尺度相似矩阵 $A$ 时采用 $k$ 近邻法构建邻域，且根据经验设置全局统一参数。然而，实际采集到的样本数据在局部几何结构上往往存在差异性，因此不同的样本在低维映射的过程中所需要的近邻样本集不同，对算法的性能产生的影响也不同。为解决这一问题，本文采用邻域参数自适应调整的方法，在提高算法鲁棒性的同时能提高低维特征的识别效果。
+
+# 2.1相似性度量
+
+SELF算法通过计算样本点与其第 $K$ 个最近邻点的欧式距离来描述局部尺度，但欧式距离只能度量样本间的空间位置，不能体现样本整体的集合结构[12]。而马氏距离不受特征量纲选择的影响[10]，余弦相似度[13]利用矢量夹角的余弦来度量相似性。因此，为充分反映样本间的相似性，文中将余弦相似度和马氏距离相结合，即
+
+$$
+d _ { _ { i , j } } = ( \frac { 1 - d _ { _ { i , j } } ^ { c } } { 2 } ) \times d _ { _ { i , j } } ^ { m } \ ( i , j = 1 , 2 , . . . , n )
+$$
+
+其中: $d _ { i , j } ^ { m }$ 和 $d _ { i , j } ^ { c }$ 分别为样本间的马氏距离和余弦相似度，且$( 1 - d _ { i , j } ^ { c } ) / 2 \in [ 0 , 1 ]$ 。式（11）融合了样本点间的空间位置和夹角信息，相当于为马氏距离附加了取值范围为[0,1]的影响因子，两向量夹角越小则影响因子越小， $d _ { i , j }$ 越小。
+
+基于上述融合马氏距离和余弦相似度反映数据分布方面的优势，将SELF算法中的相似矩阵元素描述如下：
+
+$$
+A _ { _ { i , j } } = \exp ( - \frac { d _ { _ { i , j } } ^ { 2 } } { \sigma _ { _ i } ^ { \cdot } \sigma _ { _ j } ^ { \cdot } } )
+$$
+
+其中:将 $x _ { i }$ 及其第 $k$ 个最近邻点 $x _ { i } ^ { ( k ) }$ 代入式（11）获得局部尺度$\sigma _ { i } ^ { ' }$ 。由所有样本的相似系数均值 $\boldsymbol { M } _ { \flat }$ 确定初始近邻数 $k _ { i }$ ，
+
+$M _ { i } = ( \sum _ { j = 1 } ^ { n ^ { * } } a _ { i , j } ) / n ^ { * }$ ，相似系数 $a _ { i , j } = \exp ( - d _ { i , j } ^ { 2 } / \sigma ^ { 2 } )$ ， $\sigma$ 为所有样本之间距离的均值。若相似系数 $a _ { { } _ { i , j } }$ 大于 $M _ { ☉ }$ ，则 $X _ { _ j }$ 是 $x _ { i }$ 的近邻样本。显然，通过该方法得到的每一个样本的近邻数 $k _ { i }$ 可能是不相等的。
+
+# 2.2邻域参数自适应调整
+
+在构建邻域时，特征相似的样本分布往往较为密集，而相似性较差的样本分布较为稀疏。若能够根据局部区域样本点的概率密度自适应地调整近邻数 $k$ ，则降维得到的低维特征更能反映原始数据的本质结构。Parzen 窗概率密度估计[14]是一种非参数概率密度估计方法，它不需要对概率密度函数形式作出假设，而是由数据自身信息估计出总体概率密度。因此，将Parzen窗概率密度估计用于邻域构建，对相似度均值 $M _ { ☉ }$ 确定的初始近邻数 $k _ { i }$ 进行自适应调整。
+
+假设 $R ^ { \scriptscriptstyle { p } }$ 是包含数据集 $\pmb { X } = \{ X _ { 1 } , X _ { 2 } , . . . , X _ { _ N } \}$ 的 $D$ 维空间，对于数据点 $\mathbf { \delta } _ { X _ { i } } ( i = 1 , 2 , . . . , N )$ ，Parzen 窗的概率密度估计式为
+
+$$
+p ( { X } _ { i } ) = \frac { 1 } { V } \sum _ { j = 1 } ^ { N } \frac { 1 } { N } \phi ( \frac { d ( { X } _ { i } , { X } _ { j } ) } { h } )
+$$
+
+其中： $V = h ^ { \scriptscriptstyle D }$ 为窗体体积， $N$ 为数据集样本个数， $\boldsymbol { h }$ 为窗体宽度， $d ( x _ { i } , x _ { j } )$ 为根据式（11）计算的 $X _ { i }$ 与 $X _ { _ j }$ 的距离， $\phi ( x )$ 为窗函数，且满足 $\phi ( x ) > 0 , \intop _ { x } \phi ( x ) \mathrm { d } x = 0 .$ 0
+
+窗函数选择平滑性较好的正态窗函数[15]，窗宽 $h = k _ { i } \ , k _ { i }$ 为数据点 $x$ 的初始近邻数。则数据点 $x$ 的邻域概率密度为
+
+$$
+p ( \boldsymbol { x } _ { i } ) = \frac { 1 } { N k _ { i } ^ { o } } \sum _ { x _ { j } \in N _ { k i } ( x _ { i } ) } \frac { 1 } { \sqrt { 2 \pi } } \mathrm { e x p } ( - \frac { d _ { i , j } ^ { 2 } } { 2 k _ { i } ^ { 2 } } )
+$$
+
+由 $p ( \boldsymbol { x } _ { i } )$ 可得到数据集所有样本的平均邻域概率密度$\overline { { p } } = [ \sum _ { i = 1 } ^ { N } p ( X _ { i } ) ] / N$ ，并通过下式调整邻域参数 $k _ { i }$ ：
+
+$$
+k ( X _ { i } ) = \mathrm { f l o o r } [ k _ { i } \frac { p ( X _ { i } ) } { \overline { { p } } } ]
+$$
+
+其中：floor为向下取整函数。
+
+分析式（15）可知，当数据点 $x$ 附近数据的概率密度大于平均值时，可自动增大近邻数 $k ( X _ { i } )$ ，使得距离较远的数据对对降维产生较小的作用；反之，则可自动减小近邻数 $k ( X _ { i } )$ ，使距离较近的数据对对降维产生更大的作用，从而保持邻域的局部结构，有利于恢复低维数据集的全局结构信息。
+
+# 2.3邻域自适应半监督局部Fisher判别分析算法流程
+
+半监督邻域自适应局部Fisher判别分析（NA-SELF）算法的具体步骤如下：
+
+输入： $D$ 维空间数据样本集$X = \{ x _ { i } \in R ^ { o } , ( i = 1 , 2 , . . . , n ^ { \prime } , . . . , n ) \}$ ，其中有类别标签样本数为 $n ^ { \prime }$ ，低维特征空间目标维数 $d ( d \leq D )$ 。
+
+输出：投影转换矩阵 $\tau$ ，低维特征向量 $\gamma$ 。
+
+a）根据式（12）计算高维空间数据点间的相似系数ai，并由相似系数均值 $M _ { \scriptscriptstyle i }$ 得到每个样本的初始近邻数 $k _ { i }$ ；
+
+b）由 Parzen 窗概率密度估计计算样本的邻域概率密度$p ( \boldsymbol { x } _ { i } )$ ，并根据式(15)调整邻域参数 $k _ { i }$ ，从而构造相似矩阵 $A$ ，代入式（4）（5）得到权值矩阵 $W ^ { ( l b ) }$ 和 $W ^ { ( l w ) }$ ，进而得到局部类间散度矩阵 $S ^ { ( l b ) }$ 和局部类内散度矩阵 $S ^ { ( l w ) }$ ;
+
+c）根据式（10）求解前 $d$ 个最大广义特征值对应的广义特 征向量 $\alpha _ { \scriptscriptstyle 1 } , \alpha _ { \scriptscriptstyle 2 } , . . . , \alpha _ { \scriptscriptstyle d }$ ，即为投影转换矩阵 $\tau$ ，从而可得低维空间 特征Y=TX°
+
+# 2.4算法时间复杂度分析
+
+文中所提NA-SELF算法与原始算法的时间复杂度差异主要体现在NA-SELF算法流程的步骤a）b）中，即计算相似矩阵以及对邻域参数进行自适应调整。假设数据样本的总数为 $N$ 原始特征维数为 $D$ ，则由式（11）计算余弦相似度和马氏距离的时间复杂度为 $O ( D N ^ { 2 } )$ ；由式（12）重新计算相似度矩阵时，确定初始近邻数的时间复杂度为 $O ( N )$ ；利用式（14）（15）计算数据点的邻域概率密度和调整邻域参数的时间复杂度均为$O ( N )$ 。设原始 SELF 算法在整个流程中的时间复杂度为$O ( S E L F )$ ，则经过化简后可得NA-SELF算法的时间复杂度为
+
+$$
+O \big ( N A - S E L F \big ) = O \big ( S E L F \big ) + O ( D N ^ { 2 } )
+$$
+
+根据式（16）可知，改进算法和原始算法时间复杂度的差异主要与样本总数和原始特征维数有关，样本总数和原始特征维数约多则时间复杂度越大。
+
+# 3 实验与分析
+
+# 3.1人工数据实验
+
+在本实验中，分别利用PCA、LFDA、SELF和NA-SELF等算法对二类人工数据集进行降维，采用可视化比较实验直观地验证降维算法的性能，算法采用MATLABR2013a实现。在每个人工数据实验中，由二元正态分布随机产生200组数据，每组数据包含二类各100个无类别标签数据和10个有类别标签数据，二类数据分别用圆形和三角形表示，无标签和有标签分别用空心和实心表示。图1\~3为实验1\~实验3中的一组数据及不同算法得到的投影方向，直线表示的是一维的投影空间，分别用不同线型绘出。在每个人工数据实验中将一组作为训练样本，另一组作为测试样本，先对测试样本进行降维得到投影转换矩阵，再使用投影转换矩阵对测试样本进行降维。将低维特征输入支持向量机进行训练识别，共进行100次实验，识别率的均值如表1所示。设定SELF和NA-SELF算法中权系数（20 $\beta = 0 . 5$ ，SELF 算法中近邻数 $k = 7$ ，SVM的核函数选用径向基核函数，设置惩罚参数 $C = 1$ ，核函数参数 $g = 1$ 。
+
+图1所示的二类数据集各有一个模态，无标签样本均值分别为(-4,0)和(4,0)，协方差矩阵为[4,0;0,4]，有标签样本均值为 $( - 4 , 0 )$ 和(4,-3)，协方差矩阵为二阶单位阵，显然正确的投影方向为水平方向。实验结果显示，PCA和NA-SELF得到了较好的投影方向；LFDA 受偏下的有标签样本的影响，导致投影方向偏差较大；由于SELF同时利用了有标签样本和无标签样本，因此投影方向位于PCA和LFDA之间。
+
+![](images/d8c15769f39e42a1fe9f92e7a93fb5e9b84f9b3bcc99347406db50cdb418dc2f.jpg)  
+图1实验1的一组数据
+
+![](images/1e3c8a7b4ed41dbe5bc0778e786ee6615d8ed4973934695fdf85ab2cbd2d8f94.jpg)  
+图2实验2的一组数据
+
+![](images/c2788df0c107b7834ddbbe308240197e42a077baba6b2eaf70cab419b3ed7022.jpg)
+
+表1各种算法的平均识别准确率 $( \% )$   
+
+<html><body><table><tr><td>算法</td><td>实验1</td><td>实验2</td><td>实验3</td><td>平均值</td></tr><tr><td>PCA</td><td>96.82</td><td>54.96</td><td>54.02</td><td>68.60</td></tr><tr><td>LFDA</td><td>87.98</td><td>67.71</td><td>62.43</td><td>72.71</td></tr><tr><td>SELF</td><td>92.90</td><td>64.46</td><td>58.84</td><td>72.01</td></tr><tr><td>NA-SELF</td><td>96.34</td><td>90.44</td><td>91.51</td><td>92.76</td></tr></table></body></html>
+
+图2所示的二类数据集分别有一个模态和两个模态，中间一类数据的均值为(0.0)，两侧一类数据的均值分别为(-4,0)和(4,0)，无标签样本的协方差矩阵为[1,0;0,10]，有标签样本的均值和协方差矩阵与无标签样本相同，显然正确的投影方向为水平方向。NA-SELF算法得到了较好的投影方向，而PCA选择使数据集方差最大的投影方向，LFDA选择投影后异类样本的距离平方和较大的方向，因此PCA和LFDA会选择向垂直方向投影。
+
+图3所示的二类数据集各有两个模态，无标签样本均值分别为(-8,4) (8,4)和(-8,-4)(8,-4)，协方差矩阵为[2.0;0,2]，有标签样本均值与无标签样本相同，协方差矩阵为二阶单位阵，显然正确的投影方向为垂直方向。由于相同类别两模态样本间的距离大于不同类别相同模态样本间的距离，因此PCA会选择水平的投影方向；由于距离较远的同类样本在LFDA投影方向的选取中产生较小的作用，因此LFDA的投影方向存在一定偏差；NA-SELF通过自适应调整近邻数，得到的相似矩阵能够更加充分地反映样本数据的局部结构，因此能够得到较好的投影方向。
+
+从表1中可以看出，在单模态数据的实验1中，NA-SELF算法的平均识别准确率略低于PCA，而在具有多模态数据的实验2和实验3中，NA-SELF算法比其他算法得到了更高的平均识别准确率，而且3个实验结果的平均值也达到最高，表明NA-SELF算法具有较为明显的优势，在多模态数据的降维处理上具备更好的适用性。
+
+# 3.2 UCI数据实验
+
+从UCI机器学习数据库中选取5个标准数据集进行维数约简，并将低维特征输入支持向量机进行分类识别。实验中使用的UCI数据集如表2所示。
+
+表2UCI数据集信息  
+
+<html><body><table><tr><td>数据集</td><td>类别数</td><td>特征维数</td><td>训练样本</td><td>测试样本</td></tr><tr><td>Ionosphere</td><td>2</td><td>34</td><td>100</td><td>251</td></tr><tr><td>Wine</td><td>3</td><td>13</td><td>95</td><td>83</td></tr><tr><td>Iris</td><td>3</td><td>4</td><td>60</td><td>90</td></tr><tr><td>Vehicle</td><td>4</td><td>18</td><td>400</td><td>446</td></tr><tr><td>Segment</td><td>7</td><td>18</td><td>700</td><td>1610</td></tr></table></body></html>
+
+为了便于对比，分别利用PCA、LFDA、SELF和NA-SELF等算法进行比较实验。其中，SELF 算法中近邻数 $k = 7$ ，SELF和 NA-SELF算法的参数 $\beta$ 采用5折交叉验证从{0.1,0.3,0.5,0.7,0.9}中获得，SVM 的参数设置与3.1 相同，训练样本中有类别标签样本数与无类别标签样本数按 $1 { : } 3$ 随机分配。首先以Wine数据集的降维结果为例进行分析。图4为利用各种算法将Wine数据集降至5维时，训练样本低维特征集前3个矢量的三维空间分布图。
+
+分析图4可知，PCA的降维效果较差，不同类别的特征集出现了较为严重的混叠；LFDA仅利用少量有类别标签的样本进行降维，因此各个类别也存在一定程度的混叠；SELF算法同时利用大量无类别标签样本和少量有类别标签样本，降维后各个类别基本能够分离；NA-SELF采用马氏距离和余弦相似度相结合的方法能够反映样本点的空间位置和夹角信息，得到的相似性更精确，因此可得到更好的降维效果。
+
+图5为各种算法随着选取的降维维数不同，Wine数据集测试样本的识别准确率。为了比较不同的相似性度量方法对降维效果的影响，将基于欧式距离的NA-SELF 算法以及基于马氏距离和余弦相似度相结合的NA-SELF算法也进行比较。从图5中可以看出，采用不同的维数约简算法和降维维数，数据集的识别准确率均存在差异，而NA-SELF 算法在一定范围内取得了最高的分类精度。
+
+![](images/dbeea0826b8c6e9ab0415fb386f9175c5f7d3bc7406191239bfccd9711e4555f.jpg)  
+图4Wine数据集各种算法维数约简结果对比
+
+![](images/1e0994ed65b146e7396915cf7bce964454fee7367beb031286cde66733b66c7c.jpg)  
+图5Wine数据集测试样本的识别准确率
+
+各种算法在5个数据集分别进行100次实验，平均识别准确率如表3所示。平均识别准确率为每次实验得到的最高识别准确率的平均值，括号中为标准差，同时给出了直接使用原始数据（None）进行分类的平均识别准确率。
+
+根据测试结果可知，由于未经维数约简的原始数据特征集中含有较多的冗余信息，因此大部分数据集降维前的识别率低于降维后的识别率。PCA具备较好的稳定性，但其属于线性降维方法，忽略了样本数据的非线性结构，而LFDA在有类别标签样本不足时可能陷入过学习，因此PCA和LFDA的识别准确率几乎都低于SELF 算法。由于SELF 选取全局统一的邻域参数，所以SELF的识别准确率和稳定性相对于NA-SELF（欧式距离）较低，而文中所提算法采用的相似性度量方法能够更充分反映样本间的相似性，所以识别准确率在5个数据集中有3 个达到最优，且在所有数据集的识别率平均值上也达到了最优。为了比较NA-SELF算法与原始SELF算法的时间复杂度，表4列出了两种算法的平均测试时间，以及改进算法相对于原始算法测试时间增长的百分比。
+
+表3各算法的平均识别准确率 $( \% )$ ）  
+
+<html><body><table><tr><td>算法</td><td>Ionosphere</td><td>Wine</td><td>Iris</td><td>Vehicle</td><td>Segment</td><td>平均值</td></tr><tr><td>None</td><td>72.11 (2.36)</td><td>93.39 (3.38)</td><td>90.33 (1.44)</td><td>66.95(2.03)</td><td>68.82 (0.89)</td><td>78.32 (2.02)</td></tr><tr><td>PCA</td><td>69.72 (1.28)</td><td>92.78 (2.14)</td><td>90.02 (1.58)</td><td>61.26(1.79)</td><td>63.60 (2.67)</td><td>75.48(1.89)</td></tr><tr><td>LFDA</td><td>74.13 (2.52)</td><td>90.83 (1.50)</td><td>77.78 (2.93)</td><td>68.88 (2.55)</td><td>69.13 (3.14)</td><td>77.16 (2.53)</td></tr><tr><td>SELF</td><td>73.92(2.03)</td><td>92.93 (2.52)</td><td>92.56 (2.45)</td><td>64.45(3.01)</td><td>78.70 (2.96)</td><td>80.51 (2.60)</td></tr><tr><td>NA-SELF （欧式距离）</td><td>74.81 (1.87)</td><td>90.98(2.15)</td><td>92.96(2.12)</td><td>66.73 (2.26)</td><td>78.76 (2.87)</td><td>81.25 (2.25)</td></tr><tr><td>NA-SELF</td><td>74.72 (1.95)</td><td>95.16 (2.17)</td><td>95.55 (2.25)</td><td>66.95(2.22)</td><td>80.75 (2.85)</td><td>82.63 (2.29)</td></tr></table></body></html>
+
+表4测试时间对比 /ms  
+
+<html><body><table><tr><td>耗时</td><td>Ionosphere</td><td>Wine</td><td>Iris</td><td>Vehicle</td><td>Segment</td></tr><tr><td>SELF</td><td>203.90</td><td>198.83</td><td>197.15</td><td>228.48</td><td>279.47</td></tr><tr><td>NA-SELF</td><td>269.37</td><td>264.58</td><td>247.39</td><td>318.31</td><td>428.79</td></tr><tr><td>百分比</td><td>32.11%</td><td>33.07%</td><td>25.48%</td><td>39.32%</td><td>53.43%</td></tr></table></body></html>
+
+分析表4可知，由于改进算法的时间复杂度高于原始算法，因此测试时间略长，并且耗时增长的百分比随着测试样本数量和特征维数的增长而变大，说明数据自身的属性对于算法改进前后的时间复杂度差异具有较大的影响。因此，在模式识别的实际应用中，应充分考虑数据自身的属性，在处理样本数和特征维数相对较少的多模数据时，文中所提方法具有很好的适用性。另外，在对识别准确率要求较高而对计算效率要求次之的场合，也可以将文中所提算法用于多模数据的维数约减。
+
+# 4 结束语
+
+本文提出了一种邻域自适应半监督局部Fisher判别分析算法。该算法采用马氏距离和余弦相似度相结合的方法描述样本间的相似性，并在构建邻域时利用Parzen窗概率密度估计对近邻数进行自适应调整，有效避免了人为选择的随意性，且具有更好的局部几何结构特征表达能力。通过对人工数据集和5个UCI标准数据集进行维数约简和分类识别的结果表明，相比于典型的PCA、LFDA和SELF等算法，NA-SELF算法可得到更优的投影空间和可区分度更高的低维特征向量，基于马氏距离和余弦相似度相结合的相似性度量方法比基于欧氏距离的方法具备更高的有效性。然而在半监督降维算法中，权系数值目前还是利用交叉验证的方法获得，如何快速得到有效的权系数将是本文后续的研究方向之一。
+
+# 参考文献：
+
+[1]谢钧，刘剑．一种新的局部判别投影方法[J].计算机学报,2011,34 (11):2243-2250.   
+[2]Zhai L D,Ding ZY,Jia Y,et al.A word position-related LDA model [J]. International Journal of Pattern Recognition and Artificial Inteligence,2011, 25 (6): 909-925.   
+[3]Nguyen V H,Golinval JC.Fault detection based on Kernel Principal Component Analysis [J].Engineering Structures,2010,32(11): 3683-3691.   
+[4]Yang W Y,Liang W,Xin L,et al.Subspace Semi-supervised Fisher Discriminant Analysis [J]. Zidonghua Xuebao//Acta Automatica Sinica, 2009,35(12): 1513-1519.   
+[5] 苏祖强，汤宝平，刘自然，等．基于正交半监督局部 Fisher判别分析的 故障诊断[J].机械工程学报,2014,50(18):7-13.   
+[6]杨昔阳，邓朝阳，李志伟．半监督模糊Fisher 降维分析[J].厦门大学 学报：自然科学版,2015,54(6):869-875.   
+[7]Yu J B.Bearing performance degradation assessment using locality preserving projections [J].Expert Systems with Applications,2011,38 (6): 7440-7450.   
+[8]Sugiyama M. Dimensionality Reduction of Multimodal Labeled Data by Local Fisher Discriminant Analysis [J]. Journal of Machine Learning Research,2007,8:1027-1061.   
+[9]Yan S,Xu D, Zhang B,et al. Graph Embedding And Extension: A General Framework For Dimensionality Reduction [J].IEEE Trans on Pattern Analysis & Machine Intelligence,2006,29(1): 40-51.   
+[10]张晓涛，唐力伟，王平，等．自适应邻域构造流形学习算法及故障降维 诊断[J].振动、测试与诊断,2016,36(6):1210-1215.   
+[11] Sugiyama M.Semi-supervised local Fisher discriminant analysis for dimensionality reduction [J]. Journal of Machine Learning Research,2010, 78 (1-2): 35-61.   
+[12]刘志勇，袁媛．基于测地距离的半监督增强[J].计算机工程与应用, 2011,47 (21): 202-204.   
+[13]李文博，王大轶，刘成瑞．一类非线性系统的故障可诊断性量化评价方 法[J].宇航学报,2015,36(4):455-462.   
+[14]杨望灿，张培林，吴定海，等．基于改进半监督局部保持投影算法的故 障诊断[J].中南大学学报：自然科学版,2015,46(6):2059-2064.   
+[15]刘晗，张庆，孟理华，等．基于Parzen 窗估计的设备状态综合报警方法 [J].振动与冲击,2013,32(3):110-114.

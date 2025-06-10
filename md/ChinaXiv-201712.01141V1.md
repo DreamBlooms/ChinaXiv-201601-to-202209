@@ -1,0 +1,128 @@
+临床研究
+
+# 超声引导经皮微波消融脾肿瘤的疗效分析
+
+于杰，梁萍，于晓玲，程志刚，韩治宇，穆梦娟,刘艳梅解放军总医院介入超声科，北京100853
+
+摘要：目的 分析超声引导经皮微波消融脾肿瘤的可行性、安全性和有效性。方法7例患者共8个病灶行微波消融治疗,病理诊断分别为卵巢转移癌2个,肺、胃、肝、直肠转移癌各1个，血管瘤1个,炎性假瘤1个,肿瘤最大直径 $1 . 3 { \sim } 6 . 2 ( 3 . 1 { \pm } 1 . 9 ) \mathrm { c m } _ { }$ 。水冷微波天线在超声引导下经皮植入肿瘤内，消融中一根20G热敏电偶测温针植入瘤周 $5 \mathrm { m m }$ 处实时监测热场温度。微波辐射功率设置 $5 0 { \sim } 6 0 \mathrm { W }$ 。治疗后1、3、6月以及之后每隔6个月行增强影像(超声造影、CT/MRI)检查评判疗效。结果 所有肿瘤均经1次微波消融治疗达到完全坏死。在中位随访13（4\~92)月内无肿瘤局部进展发生。影像检查消融区边界清晰且随时间延长逐渐缩小。1例卵巢癌脾转移患者消融后11月脾脏新生另一病灶，再次行微波消融后完全坏死。转移癌患者消融后中位生存期13.0(4.0\~92.0)月。除发热和腹痛外无治疗相关严重并发症发生。结论 微波消融治疗适合的脾脏肿瘤患者是一种安全有效的微创介入技术。
+
+关键词：微波消融；超声；脾；肿瘤
+
+# Clinical evaluation of ultrasound-guided percutaneous microwave ablation of splenic tumors
+
+YU Jie,LIANG Ping,YU Xiaoling, CHENG Zhigang,HAN Zhiyu, MU Mengjuan, LIU Yanmei Departmentof Interventional Ultrasound,General Hospital ofPLA,BeijingOo853,China
+
+Abstract: Objective To investigate the feasibilitysafetyand eficacy of ultrasound-guided percutaneous microwave ablation (MWA)of splenic tumors.Methods Seven patients with 8 pathologically confirmed splenic tumors (including 2 metastases from the ovaryand 4 from the lung gastric adenocarcinoma, hepatocellar carcinoma,orrectalcarcinoma; 1hemangioma and 1 inflammatory pseudotumor) with sizes ranging from 1.3 to $6 . 2 \mathrm { c m }$ (mean $3 . 1 { \pm } 1 . 9 ~ \mathrm { c m }$ ）were treated with MWA. A cooled shaft needle antenna was percutaneously inserted into the tumor under ultrasound guidance.A thermocouple was placed about $0 . 5 \mathrm { c m }$ away from the tumorto monitor the temperature in real time during the ablation.The microwave emiting power was setat50-60W.The treatment eficacy was assessedbycontrast-enhanced imagingat1,3and6months following the procedure,and every6months thereafter.Results All the tumors were completely ablated in a single session and no complications occurred. No local tumor progression was observed during a median follow up time of 13 months (4 to 92 months).The ablation zone, well defined oncontrast-enhanced imaging, was gradually reduced withtime.Anew metastatic lesion was detected inte spleenat11monthsaftertheablationina ovariancarcinoma patientand wassuccessfulltreated by a second MWA.The post-ablation survival ofthe patients with splenic metastasis was 13 months (range 4 to 92 months). No complicationsother than feverandabdominal pain were observed in thesepatients.Conclusion Ultrasound-guided percutaneous MWA is asafe and efective minimall-invasive technique fortreatmentofsplenic tumors in selected patients. Key words: microwave ablation; ultrasound; spleen; tumor
+
+脾脏是一个具有免疫功能的特殊器官，可在一定程度上抑制和杀灭肿瘤细胞及病原微生物，所以脾脏的局灶性病变相对于肝脏、肾脏等其它实质脏器的病变少见，继发恶性肿瘤发生率在尸检病例中证实仅为$2 \% { \sim } 8 \%$ ,位于所有可发生转移病变的器官中第十位[2]。最常转移至脾脏的实性肿瘤包括肺癌、乳腺癌和卵巢癌[2-3]。血管瘤是脾脏最为常见的良性肿瘤，其他少见实性肿瘤还有结核和淋巴管瘤等[2.4]。由于意识到了脾脏在免疫功能方面的重要性，脾肿瘤的处理方法已经从过去几十年的脾切除术转变为保脾治疗。文献报道$2 5 \% { \sim } 5 0 \%$ 的脾脏需要被保留以确保患者有充足的免疫功能[5-7]。热消融包括射频消融和微波消融近年来已经成功应用于实性肿瘤的微创介入治疗[8-10]。然而,目前为止，热消融治疗脾肿瘤尚处于起步阶段，仅5个转移癌和1个血管瘤被报道行射频消融[1-14],我团队前期也对4例脾转移癌患者微波消融的疗效进行了初步观察[15]，关于微波消融脾肿瘤的安全性和长期疗效尚不明确。
+
+近年来水冷微波天线的研发提高了微波消融热效率，增加了消融体积,这使得大肿瘤和富血供脏器肿瘤治疗成为可能，拓展了该技术在临床肿瘤治疗应用的领域[16-17]。我们在前期工作基础上总结了7例脾肿瘤患者8个病灶行超声引导经皮微波消融的经验并对其临床治疗脾脏这一富血供器官肿瘤的安全性和疗效进行了进一步观察分析。
+
+# 1资料与方法
+
+每位治疗患者均签署书面知情同意书，治疗计划经院伦理委员会批准。所有消融均为住院治疗。
+
+# 1.1研究对象
+
+病例1，女性，55岁，2002年5月因右卵巢腺癌行盆腔根治术。2006年8月腹部超声检查分别于右肝和紧邻脾门处各发现一低回声结节，大小分别 $1 . 4 ~ \mathrm { c m } { \times } 1 . 1$ cm和 $1 . 3 \mathrm { c m } { \times } 1 . 1 \mathrm { c m }$ ,均边界清楚，肿瘤周边可见血流信号。CT检查显示脾门处可见一孤立低密度结节。PET检查证实结节高代谢符合转移癌表现。行肝脏病灶消融后一周行脾脏肿瘤消融治疗。11月后超声造影发现脾脏上极另一病灶，大小 $2 . 3 \ : \mathrm { c m } { \times } 1 . 8 \ : \mathrm { c m }$ ，由于该病灶位置较高，因肺气遮挡而超声显示欠清，予以行人工液胸灌注后微波消融治疗以避免肺部并发症。患者随访至今无瘤存活92月。
+
+病例2，女性，56岁，2007年11月因左肺低分化腺癌人我院治疗，同时PET检查发现脾脏高代谢病灶。CT检查提示脾脏下极单发低密度结节,外周可见增强，大小 $1 . 6 \mathrm { c m } { \times } 1 . 4 \mathrm { c m }$ 。转移仅限于脾脏，肺脏病灶行6周期化疗缓解后患者拒绝行其他治疗处理肺癌。脾脏病灶行微波消融治疗。随访48个月患者死于肿瘤晚期，脾脏病灶无复发。
+
+病例3，男性，56岁，2007年6月发现胃中分化腺癌并行6周期化疗，当地医院不考虑手术治疗。2008年2月因发现肝脏4个转移病灶(最大直径 $2 . 9 \mathrm { c m }$ 人我院治疗，行5次微波消融后肝肿瘤完全坏死。5个月后，腹部CT检查显示脾脏下极单发低密度结节，大小 $2 . 5 \mathrm { c m } \times$ $2 . 3 \mathrm { c m }$ ，考虑为转移癌，予以行微波消融治疗。随访4个月后患者死于胃出血，脾脏病灶无复发。
+
+病例4,男性，32岁，2007年1月诊断为肝细胞癌并行肝切除术。2008年11月因增强核磁和超声造影均显示肝脏2个复发肿瘤(最大直径 $4 . 9 \ \mathrm { c m }$ )和脾脏上极单发转移病灶(直径约 $2 . 9 \ \mathrm { c m } { \times } 2 . 7 \ \mathrm { c m }$ )入我院治疗。3个病灶均行微波消融治疗后完全坏死。随访13个月后患者死于肝衰竭，脾脏病灶无复发。
+
+病例5，女性，35岁，2010年9月因直肠中分化腺癌行直肠切除术及放化疗治疗，2013年3月超声发现脾门处高回声结节，大小 $2 . 1 \mathrm { c m } { \times } 1 . 9 \mathrm { c m }$ 。腹部CT检查显示脾内强化减低结节影，转移不除外。PET检查提示结节高代谢符合转移癌表现。超声引导下经皮穿刺活检病理证实为脾转移癌，2013年4月人我院行超声引导经皮微波消融治疗，随访至今12个月肿瘤无复发。
+
+病例6,女性，35岁，2011年6月体检超声发现脾脏上极低回声肿块,大小 $5 . 9 \ \mathrm { c m } { \times } 4 . 3 \ \mathrm { c m }$ 。CT检查显示脾脏低密度占位，考虑良性。超声引导下经皮穿刺活检病理证实为脾脏血管瘤，患者要求积极治疗。2011年7月入我院行超声引导经皮微波消融治疗后肿瘤完全坏死。
+
+病例7,女性,37岁，2011年11月体检超声发现脾脏上极高回声肿块，大小 $6 . 2 \mathrm { c m } { \times } 5 . 7 \mathrm { c m }$ 。腹部CT检查显示脾脏等和稍长T1、稍长T2结节，动脉期轻度异常强化，门脉和延迟期持续轻度强化，假包膜延迟轻度强化，少血供结节考虑错构瘤、炎性假瘤或炎性肌纤维母细胞瘤。超声引导下经皮穿刺活检免疫组化病理考虑为脾脏炎性假瘤，患者要求积极治疗。2013年10月入我院行人工液胸辅助超声引导经皮微波消融治疗后肿瘤完全坏死。
+
+# 1.2 技术
+
+1.2.1微波仪器KY-2000型水冷微波治疗仪（康友医疗，南京，中国），工作频率 $2 4 5 0 ~ \mathrm { M H z }$ ，输出功率 $1 \sim$ $1 0 0 \mathrm { W }$ 。微波仪通过低损耗同轴电缆与 $1 5 \mathrm { ~ G ~ }$ 水冷式微波天线相连接，天线直径 $1 . 9 \ : \mathrm { c m } ( 1 5 \ : \mathrm { G } )$ ，长 $1 8 ~ \mathrm { c m }$ ,外敷防粘连涂层，长约 $3 \mathrm { m m }$ 的发射缝隙置于天线内距尖端$5 { \sim } 1 1 ~ \mathrm { m m } ( 2 4 5 0 ~ \mathrm { M H z } )$ 处，天线内部有进水管和出水管各一根，治疗时使用蠕动泵以室温注射用水循环冷却（流速 $4 0 \mathrm { m l / m i n } )$ ，防止杆温过高。该仪器配有2支外径为$2 0 \mathrm { G }$ 的热敏电阻测温针，插入组织后可实时提取和监测温度变化信息，提高治疗的精确性，保护胃肠道、膈肌等容易受热损伤的结构,减少周围正常脾组织的损伤。
+
+1.2.2微波消融技术患者侧卧位，术前行超声造影及增强CT/MRI检查以详细了解病变清况。超声造影检查了解病灶的位置、形态、大小和肿瘤内部及周边血供清况，选择肋间部位确定最佳进针部位和途径，避开脾门血管和胸腔。定位后常规消毒、铺巾，用 $1 \%$ 利多卡因局部麻醉后切开穿刺点皮肤 $2 \mathrm { m m }$ ,消融前先用 $1 8 \mathrm { { G } }$ 活检针行肿瘤穿刺活检取出组织2\~3条，继而在超声引导下将微波电极植入脾肿瘤后给予静脉麻醉。肿瘤直径${ \leqslant } 2 . 0 \ \mathrm { c m }$ 者，使用1根微波天线，肿瘤直径 $> 2 . 0 \mathrm { c m }$ 者，使用2根微波天线，并保持天线间距不超过 $1 . 8 ~ \mathrm { c m } .$ 。测温针置于瘤周 $5 { \sim } 1 0 ~ \mathrm { m m }$ 处实时监测热场温度。布针完成后给予异丙酚和氯胺酮联合静脉麻醉并监测血流动力学变化。微波辐射功率为 $5 0 { \sim } 6 0 \mathrm { W }$ ，当整个肿瘤变为强回声且肿瘤周围测温达到肿瘤细胞死亡阈值时停正微波辐射。原则上临床一次治疗尽量满足覆盖整个瘤体要求，恶性肿瘤消融范围要超出肿块边缘至少 $5 \mathrm { m m }$ ，以获得安全消融边界，良性肿瘤根据病灶大小实行主体灭活或适形消融。退针过程中常规烧灼针道，以防止针道
+
+出血及种植转移。
+
+1.2.3人工液胸灌注技术病例1，在消融第二个脾脏上极肿瘤前，超声引导下将 $1 6 \mathrm { G }$ 套管针通过肋间途径植入胸腔，拔出金属针芯，常温生理盐水通过保留的针鞘持续滴入胸腔，超声观察肺与膈肌至少分离 $1 . 0 \mathrm { c m }$ 以上,灌注盐水量 $1 0 0 0 \mathrm { m l }$ O
+
+1.2.3超声造影检查 超声仪采用Sequoia512(AcusonSimense,美国),4V1探头，使用频率4MHz,配有对比脉冲序列成像技术软件CPS(Contrast Pulse Sequences）,进行低机械指数(LowMI)连续扫查成像。造影剂采用声诺维(SonoVue,意大利Bracco公司）,在 $2 4 . 9 8 ~ \mathrm { m g }$ 六氟化硫冻干粉末中加入 $5 \mathrm { m l }$ 生理盐水，配成均匀乳白色悬浊液。先用灰阶及彩色多普勒超声行常规扫查以记录病灶的大小、回声、个数、血供并选择合适的观察断面，再转换至CPS超声造影模式，经时静脉快速团注$0 . 8 { \sim } 1 . 2 ~ \mathrm { m l }$ 造影剂，尾随推注 $5 ~ \mathrm { m l }$ 生理盐水,连续实时观察病灶的增强过程 $5 \mathrm { m i n }$ 。
+
+# 1.3 随访
+
+病人在消融疗程结束后密切观察可能出现的并发症，包括腹腔内出血、皮肤烫伤、胸腔积液、发热和疼
+
+痛。通过血清肿瘤标记物水平及增强影像学检查(超声造影及增强CT/MRI)来评判疗效。随访按照术后第1、3、6、12个月然后每6月1次的原则进行。
+
+# 1.4 统计方法
+
+使用 SPSS16.0 统计软件(SPSS,Chicago II)进行统计。患者及病灶基本特征以及消融参数采用平均值 $\dot { \bf \Phi } _ { \pm }$ 标准差方式表示。随访时间采用中位数方式表示。 $P <$ 0.05被认为有统计学意义的差异。
+
+# 2结果
+
+表17例脾肿瘤患者临床特征和治疗结果 Tab.1 Clinical data and outcomes of the7patients   
+
+<html><body><table><tr><td>Parameters</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>Age (Year)</td><td>55</td><td>56</td><td>56</td><td>32</td><td>58</td><td>35</td><td>37</td></tr><tr><td>Sex</td><td>F</td><td>F</td><td>M</td><td>M</td><td>M</td><td>F</td><td>F</td></tr><tr><td>Primary tumor site</td><td>ovary</td><td>lung</td><td>stomach</td><td>liver</td><td>colon</td><td>hemangioma</td><td>inflammatory or hemangioma</td></tr><tr><td>Splenic neoplasm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Number</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Site</td><td>hilum; upper pole</td><td>lower pole</td><td>lower pole</td><td>upper pole</td><td>hilum</td><td>upper pole</td><td>upper pole</td></tr><tr><td>Size (cm)</td><td>1.3x1.1; 2.3x1.8</td><td>1.6x1.4</td><td>2.5x2.3</td><td>2.9x2.7</td><td>2.1×1.9</td><td>5.9x4.3</td><td>6.2x5.7</td></tr><tr><td>Ablation power (W)</td><td>60</td><td>60</td><td>60</td><td>60</td><td>55</td><td>55</td><td>50</td></tr><tr><td>Ablation time (s)</td><td>1030;780</td><td>960</td><td>540</td><td>600</td><td>420</td><td>880</td><td>720</td></tr><tr><td>Applicator number</td><td>1;2</td><td>1</td><td>2</td><td>2</td><td>1</td><td>2</td><td>2</td></tr><tr><td>Ablation session</td><td>1;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Assistive technology</td><td>artificial pleural infusion</td><td>no</td><td>no</td><td>no</td><td>no</td><td>artificial pleural infusion</td><td>artificial pleural infusion</td></tr><tr><td>Local tumor progression</td><td>no</td><td>no</td><td>no</td><td>no</td><td>no</td><td>no</td><td>no</td></tr><tr><td>Survival</td><td>yes</td><td>no</td><td>no</td><td>no</td><td>yes</td><td>yes</td><td>yes</td></tr><tr><td>Follow-up (month)</td><td>92</td><td>48</td><td>4</td><td>13</td><td>12</td><td>32</td><td>6</td></tr></table></body></html>
+
+7例患者年龄 $4 7 . 9 { \pm } 1 2 . 1 ( 3 3 { \sim } 5 8 )$ 岁。消融肿瘤平均直径 $1 . 3 { \sim } 6 . 2 ( 3 . 1 { \pm } 1 . 9 ) \ \mathrm { c m }$ 。穿刺组织病理诊断为：5例转移癌患者与原发肿瘤一致，2例良性病变为血管瘤和炎性假瘤。微波辐射功率 $5 7 . 1 { \pm } 3 . 9 ( 5 0 { \sim } 6 0 ) \$ W，时间$1 2 . 4 { \pm } 3 . 5 \$ （范围6.0\~17.2）min达到肿瘤完全坏死温度。所有肿瘤均行1次微波消融完全坏死。术后住院时间$5 { \sim } 7 \ \mathrm { d } _ { \circ }$ 所有患者均有治疗后左上腹轻中度疼痛，给予观察或药物对症处理缓解，无其他并发症发生。消融后患者凝血功能及血常规均正常(表1)。
+
+消融后超声造影显示所有消融区均无增强(图1)，增强CT显示消融区均为低密度影无增强(图2)。病人进行常规随访，在中位时间13.0(4.0\~92.0)月的随访期内，病例3于消融后4月死于急性胃出血，病例2和4分别于消融后48月和13月死于肿瘤晚期，均无脾脏肿瘤复发。其他患者均存活，仅病例1于消融后11月脾脏新发病灶行再次微波消融后无复发。转移癌患者消融后中位生存期13.0(4.0\~92.0)月。病例6和7因病灶较大且逐步增长，为防止肿瘤破裂出血，治疗目的以肿瘤主体大部灭活或适形消融为主，消融后无肿瘤继续进展。
+
+表1显示7例患者的临床特征和结局。
+
+# 3讨论
+
+脾脏肿瘤非常少见，尤其转移癌，经常发生于具有高转移潜质的肿瘤，尤其是可通过血性转移至多器官的肿瘤。肿瘤局部治疗包括传统的手术切除和放射治疗。然而，脾脏是一个重要的免疫器官，过去几十年观察表明脾切除术后带来的副作用明显增加。脾切除后继发败血症导致的死亡率据报道是正常人群的600
+
+![](images/afb6acc9aa6abca52fed5c132e1eb13a44e015ee6ec4ba6c4463a53c1c1a1d45.jpg)  
+图132岁男性肝癌脾转移患者超声图像
+
+![](images/5c6dbea8b8331e5cf83a08c562b5baa5a6decbcf1c640b736d51e356c902db9e.jpg)
+
+Fig.1 Ultrasound (US) imaging of a 32 year-old-male patient with splenic metastasis from hepatocellular carcinoma.A: Color US scan showing a hypo-echoic lesion $( 2 . 9 \times 2 . 7 ~ \mathrm { c m } ,$ arrow） in the splenic upper pole before ablation. Blood flow signal can be seen in the peripheral of the lesion.B: Contrast-enhanced US scan showing a hypo-enhancement lesion (arrow） in the arterial phase in the splenic upper pole before ablation. C:US scan showing a hyper-echoic ball produced by microwave antennae (angles) emitting in the lesion;D: Contrast-enhanced US scan showing the non-enhancement ablation zone (arrow）3 days after ablation,indicating complete necrosis of the tumor.
+
+![](images/c1effe47407846b8985b068209d40047100cc1bb25162b8fc9753585331c3408.jpg)  
+图237岁女性肝良性肿瘤(炎性假瘤或血管瘤)患者核磁/CT图像  
+Fig.2Magnetic resonance imaging/Computed tomography imaging of a 37-year-old female patient with benign splenic tumor (splenic inflammatory pseudotumor or hemangioma).A: Contrast-enhanced magnetic resonance imaging scan showing aheterogeneous hypo-intensity lesion (arrow)in thearterial phasein spleen before ablation. B: Contrast-enhanced magnetic resonance imaging scan showing slight enhancement of the lesion and its pseudocapsule (arrow) in the late phase before ablation. C: Contrast-enhanced computed tomography imaging scan showing the non-enhancement ablation zone (arrow)one month after ablation, which completely covered the tumor.
+
+倍[3]。近年来微创治疗良恶性肿瘤的趋势使得减少创伤、降低费用、缩短时间的治疗理念逐步得到重视。包括脾栓塞、脾动脉闭塞、导管内脾消融等多种技术被采用代替脾切除[18-19]。局部热消融不仅减少了肿瘤负荷和创伤，而且能够减少进一步全身化疗的必要性。超声引导下微波消融是一种有效的微创技术，已经在肝及肾肿瘤中成功应用,效果良好且并发症低6。并且已有研究证实微波消融治疗脾亢的可行性和安全性、有效性[20]。目前国内外报道消融治疗脾肿瘤患者不超过10例[1-12.14-15],以转移癌为主,射频应用较微波消融略为广泛，均取得了较好的疗效。理论上讲，与包括射频和冷冻在内的其他热消融技术相比，微波消融治疗脾肿瘤具有如下潜在优势：(1)微波消融范围更大，其在组织中传递不受炭化和水分流失限制。因而，消融区内能够达到更高温度，这可形成更大的消融范围，更少的治疗时间以及更彻底的肿瘤坏死21；(2)微波更少受血流灌注导致的热沉降作用影响，这有助于治疗包括脾脏在内的富血供脏器肿瘤[22],尤其是当天线插入脾组织后发生即刻出血，启动高热效率的微波辐射后可立刻达到止血效果；(3)多天线同时使用可取得更大消融范围；(4)近年技术改进后水冷微波天线能够使热量在组织中传递更深入，可形成更大消融范围和更好止血效果，这可在避免皮肤烫伤的基础上获得更彻底的肿瘤坏死。
+
+由于上述原因并基于我们微波消融的经验[9,15-16.23],我们进行了目前最大样本量的超声引导下经皮微波消融脾肿瘤的临床研究以评价该技术的可行性和安全性。消融后，全部肿瘤获得完全坏死,5位转移癌患者消融后生存最长达92月（中位13月），均未发生与脾肿瘤相关的死亡，与文献报道脾切除术后生存期相当[24-25]。值得注意的是，为了避免潜在的风险，需注意以下技术细节：(1)脾脏的丰富血供可产生腹腔内高温进而造成邻近组织的热损伤。为了准确评价疗效并避免造成热损伤，治疗中可使用1\~2根测温针置于瘤周 $0 . 5 \mathrm { c m }$ 处及邻近脾门血管处或肠道处，在确保无肿瘤残存的基础上避免发生并发症;(2)通过脾脏下极进行穿刺或如果需要消融前建立人工胸水进行穿刺可减少肺损伤并发症和相关疼痛；(3)穿刺点务必远离脾门大血管；(4)对于不断增长的良性肿瘤，治疗策略可采取病灶主体灭活以达到避免肿瘤过大破裂的目的，不必一味追求完全灭活而造成周围脏器损伤或消融术中出血。
+
+随访时间有限、仅7例患者进行治疗是本研究的主要局限性。微波消融脾脏在组织属性及血供等特点与肝实质不同，因而仍需进一步探索合适的治疗时间和能量。另外,本研究设定如下适应证标准：恶性肿瘤单个直径小于 $3 \mathrm { c m }$ ,病灶数量小于3个且最大直径小于 $2 \mathrm { c m }$ 无脾外转移，病人一般状态能够耐受微波消融，上述标准将有助于实现完全和安全消融。良性肿瘤治疗适用于肿瘤直径小于 $8 ~ \mathrm { c m }$ ,具有观察后不断增长或恶性转化可能而需要临床干预的特点，更加完善和合理的适应证还有待于进一步研究确定。
+
+总之，初步研究认为微波消融为脾肿瘤治疗提供了一条新的安全、可行、有效的微创途径。但仍需进一步深入研究总结该技术的治疗原则、合适的纳入和排除标准以及客观长期疗效。
+
+patientswithhepatocellularcarcinomaafterpercutaneous microwave ablation[J].Radiology,2005,235(1): 299-307.   
+[10] Gharib H,Hegedues L,Pacella CM,et al.Nonsurgical, ImageGuided,minimally invasive therapy for thyroid nodules[J].JClin Endocrinol Metab,2013,98(10): 3949-57.   
+[11]Marangio A,Prati U, Luineti O,et al. Radiofrequency ablation of colorectal splenic metastasis [J].Am J Roentgenol，2002;178: 1481-2.   
+[12] Wood BJ,Bates S.Radiofrequency thermal ablation of a splenic metastasis[J]. JVasc Interv Radiol,2001,12(2): 261-3.   
+[13]Lardiere-Deguelte S, De Mestier L,Amroun KL, et al. Laparoscopic thermal ablation of splenic metastases initial experience and present aspects[J]. J Visc Surg,2013,150(5): 355-8.   
+[14] Liu QD,Song Y, Zhou NX,et al.Radiofrequency ablation of splenic tumors: a case series[J].JGastrointestin Liver Dis,2013,22 (1): 105-8.   
+[15]Yu J,Liang P,Yu XL,et al. Ultrasound-guided percutaneous microwave ablation of splenic metastasis: Report of four cases and literature review[J]. Int JHyperthermia,2011,27(5): 517-22.   
+[16]Liang P, Wang Y, Zhang D,et al. Ultrasound-guided percutaneous microwave ablation of small renal cancer:initial experience[J].J Urol,2008,180(3): 844-88.   
+[17] Liu FY, Yu XL,Liang P, et al. Comparison of percutaneous 915 MHz microwave ablation and $2 4 5 0 ~ \mathrm { M H z }$ microwave ablation in large hepatocellular carcinoma[J]. Int JHyperthermia,2010,26(5): 448-55.   
+[18] Kaiho T,Miyazaki M, Iinuma K,et al. Long-term prognosis of idiopathic thrombocytopenic purpura treated by partial splenic embolization[J]. Nippon Geka Gakkai Zasshi,1993,94(4): 383-93.   
+[19]Guzzett PC, Stolar CH,Potter BM,et al. Partial splenic ablation in preparationforrenal transplantation in children［J].JPediatr Surg, 1983,18(6): 800-4.   
+[20]Duan YQ,Gao YY, Ni XX, et al. Changes in peripheral lymphocyte subsets in patients after partial microwave ablation of the spleen for secondary splenomegaly and hypersplenism:A preliminary study [J].Int JHyperthermia,2007,23(5): 467-72.   
+[21] Simon CJ,Dupuy DE,Mayo-Smith WW. Microwave ablation: principles and applications [J]. Radiographics,20o5,25(suppl 1): S69-83.   
+[22] Wright AS, Sampson LA,Warner TF,et al. Radiofrequency versus microwave ablation in a hepatic porcine model[J].Radiology,2005, 236(1): 132-9.   
+[23] Wang Y, Liang P, Yu XL,et al. Ultrasound-guided percutaneous microwave ablation of adrenal metastasis:Preliminary results [J]. Int JHyperthermia,2009,25(6): 455-61.   
+[24] Sauer J, Sobolewski K,Dommisch K. Splenic metastases-not a frequent problem,but an underestimate location of metastases: epidemiology and course[J].JCancer Res Clin Oncol,2009,135 (5): 667-71.   
+[25]Otrock ZK，Seoud MA，Khalifeh MJ，et al． Laparoscopic splenectomy for isolated parenchymal splenic metastasis of ovarian cancer[J]. Int JGynecol Cancer,2006,16(5): 1933-5.
+
+# 参考文献：
+
+[1]Berge T. Splenic metastases: frequencies and patterns [J].Acta Pathol Microbiol Scand,1974,82:499-506.   
+[2]Morgenster L,Rosemberg J,Geller SA.Tumors of the spleen[J]. World J Surg,1985,9: 468-76.   
+[3]Klein B,Stein M, Kuten A,et al. Splenomegaly and solitary spleen metastasis in solid tumors[J].Cancer,1987,6O:100 -2.   
+[4]Yu XL,Yu J,Liang P,et al.Real-time contrast-enhanced ultrasound in diagnosing of focal spleen lesions[J].Eur JRadiol, 2012,81(3): 430-6.   
+[5]Traub A,Giebink GS,Smith C,et al. Splenic reticuloendothelial function after splenectomy，spleen repair,and spleen autotransplantation[J].NEnglJMed,1987,317:1559-64.   
+[6]Uranues S,Kronberger L,Kraft-Kine J.Partial splenic resection using the TA-Stapler[J].AmJ Surg,1994,168:49-53.   
+[7]Bradshaw PH,Thomas CG Jr. Partial splenectomy and overwhelming infection in rats[J].JSurg Res,1982,32:173-5.   
+[8] Gervais DA,Mcgovern FJ,Arellano RS,et al. Radiofrequency ablation of renal cell carcinoma:Part I, indications,results,and role in patient management over a 6-year period and ablation of 100 tumors[J].Am JRoentgenol,2005,185(1): 64-71.   
+[9]Liang P,Dong B,Yu X,et al.Prognostic factors for survival in
+
+（编辑：吴锦雅）

@@ -1,0 +1,223 @@
+1 鸡肉粉替代鱼粉对黄颡鱼幼鱼生长性能、饲料利用、消化酶活性及抗氧化能力的影响罗嘉翔黄文文袁野李晨晨朱婷婷 周歧存\*
+
+3 (宁波大学海洋学院鱼类营养研究室，宁波 315211)  
+4 摘要：本试验旨在研究鸡肉粉替代鱼粉对黄颡鱼(Pelteobagrus fulvidraco)幼鱼生长性能、  
+5 饲料利用、消化酶活性和抗氧化能力的影响。配制6种等氮等脂的试验饲料(粗蛋白质含量  
+6 为 $45 \%$ 、粗脂肪含量为 $10 \%$ )，6 种试验饲料中鸡肉粉的添加量分别为0(对照组)、 $5 . 2 5 \%$ 、  
+7 $10 . 5 1 \%$ 、 $1 5 . 7 7 \%$ 、 $2 1 . 0 3 \%$ 和 $3 1 . 5 4 \%$ ，替代鱼粉的比例分别为0、 $10 \%$ 、 $20 \%$ 、 $30 \%$ 、 $40 \%$ 和  
+8號 $60 \%$ 。选用初始体质量为 $( 2 . 1 7 { \scriptstyle \pm 0 . 0 2 } ) \ \mathbf { g }$ 的黄颡鱼幼鱼540尾，随机分为6组，每组3个重复，  
+9 每个重复30尾，进行为期8周的养殖试验。结果显示：饲料中鸡肉粉替代鱼粉比例对黄颡  
+10 鱼幼鱼成活率的影响不显著 $( P { > } 0 . 0 5 )$ 。当鸡肉粉替代鱼粉比例由0增加到 $20 \%$ 时，黄颡鱼幼  
+11 鱼的增重率、特定生长率、饲料效率及蛋白质效率均显著升高 $_ { ( P < 0 . 0 5 ) }$ ；而当鸡肉粉替代鱼  
+12 粉比例由 $30 \%$ 增加到 $60 \%$ 时，黄颡鱼幼鱼的增重率、特定生长率、饲料效率及蛋白质效率  
+13 则显著降低 $_ { ( P < 0 . 0 5 ) }$ 。鸡肉粉替代鱼粉比例对黄颡鱼幼鱼的肥满度、脏体比和肠脂比无显著  
+14 影响 $( P { > } 0 . 0 5 )$ 。黄颡鱼幼鱼全鱼和肌肉干物质、粗蛋白质、粗脂肪、粗灰分含量在各组间均  
+15 无显著差异 $( P { > } 0 . 0 5 )$ 。对照组黄颡鱼幼鱼的胃蛋白酶活性显著低于其他各组 $( P { < } 0 . 0 5 )$ ；鸡肉  
+16 粉替代鱼粉比例大于10%时，黄颡鱼幼鱼的胃淀粉酶活性显著高于对照组 $( P { < } 0 . 0 5 )$ ；10%鱼  
+17 粉替代组黄颡鱼幼鱼的前肠淀粉酶活性显著高于对照组 $( P { < } 0 . 0 5 )$ ； $30 \%$ 鱼粉替代组黄颡鱼幼  
+18 鱼的肝脏淀粉酶活性显著高于对照组 $( P { < } 0 . 0 5 )$ 。各鱼粉替代组黄颡鱼幼鱼血清谷草转氨酶活  
+19 性与对照组无显著差异 $( P { > } 0 . 0 5 )$ ，而血清谷丙转氨酶活性及甘油三酯和总胆固醇含量在鸡肉  
+20 粉替代 $30 \%$ 鱼粉组达到最高值，且显著高于对照组 $( P { < } 0 . 0 5 )$ 。黄颡鱼幼鱼肝脏超氧化物歧化  
+21 酶活性在 $20 \%$ 鱼粉替代组达到最高值，并显著高于对照组 $( P { < } 0 . 0 5 )$ ； $40 \%$ 和 $60 \%$ 鱼粉替代组  
+22 肝脏丙二醛含量显著高于对照组 $( P { < } 0 . 0 5 )$ ；鸡肉粉替代鱼粉对肝脏过氧化氢酶活性没有显著  
+23 影响 $( P { > } 0 . 0 5 )$ 。以增重率为评价指标，经折线模型分析得出，黄颡鱼幼鱼配合饲料中鸡肉粉  
+24 替代鱼粉的最适比例为 $20 . 8 4 \%$ 。
+
+关键词：黄颡鱼；鸡肉粉；鱼粉；生长性能；饲料利用；抗氧化能力中图分类号：S963文献标识码：A 文草编号：
+
+鸡肉粉是由产蛋下架鸡及白条鸡剥离胸脯肉之后剩下部分，经冲洗、粉碎和蒸煮等一系列工序加工而成的新型饲料蛋白质源，具有营养丰富(粗蛋白质含量在 $6 5 \% { \sim } 7 3 \%$ 、粗脂肪含量在 $9 \% { \sim } 1 2 \%$ 、消化率高、氨基酸平衡且生物转化率高等优点，是重要的潜在鱼粉替代品之一[1]。随着加工工艺的改进，鸡肉粉品质得到了进一步的提高，其营养价值远超于骨肉粉，甚至可与秘鲁鱼粉相媲美，但也存在缺少蛋氨酸、赖氨酸等必需氨基酸的缺陷[2。已有研究显示触状黄姑鱼(Nibea miichioides)[3]、黑海大比目鱼(Scophthalmus maeoticus)[4]和军曹鱼(Rachycentron canadum)[5对鸡肉粉的利用取得了较好的试验效果。黄颡鱼因其含肉率高、肉质鲜美、营养丰富等优点深受人们的喜爱，在国内外都存在着巨大的市场潜力。有关动、植物蛋白质源替代鱼粉对黄颡鱼生长性能等影响的研究，主要集中在蝇蛆粉[和豆粕上[7]，关于鸡肉粉替代鱼粉对黄颡鱼生长性能等影响的研究则未见报道。本试验通过研究鸡肉粉替代鱼粉对黄颡鱼幼鱼生长性能、饲料利用、消化酶活性及抗氧化能力的影响，分析鸡肉粉在黄颡鱼幼鱼饲料中替代鱼粉的可行性，并以增重率为评价指标，确定黄颡鱼配合饲料中鸡肉粉的适宜添加量，从而为研制资源节约型高效黄颡鱼配合饲料提供科学依据。
+
+1材料与方法
+
+1.1 试验饲料
+
+以秘鲁鱼粉、小麦蛋白粉、豆粕和鱿鱼粉为蛋白质源，面粉为糖源，鱼油和大豆卵磷脂为脂肪源，并补充维生素和矿物质预混料，配制成6种等氮等脂的试验饲料(粗蛋白质含量为 $45 \%$ 、粗脂肪含量为 $1 0 \%$ )。6 种试验饲料中鸡肉粉的添加量分别为0(对照组)、 $5 . 2 5 \%$ 、$1 0 . 5 1 \%$ 、 $1 5 . 7 7 \%$ 、 $2 1 . 0 3 \%$ 和 $3 1 . 5 4 \%$ ，替代鱼粉中蛋白质的比例分别为0、 $10 \%$ 、 $20 \%$ 、 $30 \%$ ，$40 \%$ 和 $60 \%$ 。除对照组饲料外，在其余组饲料中均补充蛋氨酸和赖氨酸，使其蛋氨酸和赖氨酸含量与对照组饲料一致。试验饲料组成及营养成分见表1，试验饲料的氨基酸组成见表2。饲料原料均粉碎后过60目筛，按照表1配方称取各种饲料原料，维生素和矿物质预混料等微量成分采取逐级扩大法混合均匀，再加入鱼油、大豆卵磷脂以及水混合均匀，用双螺杆挤条机制成粒径为2以及 $3 \ \mathrm { m m }$ 的颗粒饲料，在烘箱中 $9 0 \ \mathrm { { ^ circ C } }$ 熟化 $3 0 ~ \mathrm { m i n }$ ，阴凉处风干至含水量约 $10 \%$ ，分组密封于封口袋中并放于 $- 2 0 \mathrm { { } ^ { \circ } C }$ 水柜冷冻保存备用。
+
+# 表1试验饲粮组成及营养水平(干物质基础)
+
+项目Items
+
+Replacement ratio of fish meal by poultry by-product meal/%   
+
+<html><body><table><tr><td></td><td>0</td><td>10</td><td>20</td><td>30</td><td>40</td><td>60</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>秘鲁鱼粉 Fish meal (Peru)</td><td>50.00</td><td>45.00</td><td>40.00</td><td>35.00</td><td>30.00</td><td>20.00</td></tr><tr><td>鸡肉粉 Poultry by-product meal</td><td></td><td>5.25</td><td>10.51</td><td>15.77</td><td>21.03</td><td>31.54</td></tr><tr><td>小麦蛋白粉 Wheat gluten meal</td><td>6.50</td><td>6.50</td><td>6.50</td><td>6.50</td><td>6.50</td><td>6.50</td></tr><tr><td>豆粕 Soy bean meal</td><td>5.55</td><td>5.55</td><td>5.55</td><td>5.55</td><td>5.55</td><td>5.55</td></tr><tr><td>鱿鱼粉 Squid meal</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>面粉 Wheat flour</td><td>26.97</td><td>26.97</td><td>26.97</td><td>26.97</td><td>26.97</td><td>26.97</td></tr><tr><td>鱼油Fish oil</td><td>2.52</td><td>2.23</td><td>1.93</td><td>1.63</td><td>1.33</td><td>0.74</td></tr><tr><td>大豆卵磷脂 Soybean lecithin</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>赖氨酸 Lysine</td><td></td><td>0.04</td><td>0.08</td><td>0.13</td><td>0.17</td><td>0.25</td></tr><tr><td>蛋氨酸Methionine</td><td></td><td>0.03</td><td>0.05</td><td>0.07</td><td>0.10</td><td>0.15</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>纤维素 Cellulose</td><td>0.16</td><td>0.13</td><td>0.11</td><td>0.08</td><td>0.05</td><td></td></tr><tr><td>合计 Total</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>90.24</td><td>90.57</td><td>88.92</td><td>90.37</td><td>90.65</td><td>90.63</td></tr><tr><td>粗蛋白质 Crude protein</td><td>45.16</td><td>44.94</td><td>44.87</td><td>45.26</td><td>45.25</td><td>45.44</td></tr><tr><td>粗脂肪 Crude lipid</td><td>10.72</td><td>10.35</td><td>10.38</td><td>10.23</td><td>10.51</td><td>10.54</td></tr><tr><td>粗灰分 Ash</td><td>10.85</td><td>10.52</td><td>11.29</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>11.33</td><td>11.86</td><td>10.95</td></tr></table></body></html>
+
+5 1)每千克饲料含有 The premix provided the following per $\mathrm { k g }$ of diets: VA $2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } ~ 1 0 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 }$   
+5 $1 2 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 2 \ : \mathrm { m g }$ ，VC $1 0 5 ~ \mathrm { { m g } }$ ， $\mathrm { V D } _ { 3 } 0 . 1 5 \mathrm { m g }$ ，VE $1 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { V K } _ { 3 } 4 0 \mathrm { m g }$ ，生物素biotin $2 . 5 \mathrm { m g }$ ，叶酸folic   
+7 acid $4 . 0 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 5 0 \mathrm { m g }$ ，烟酸 nicotinic acid $4 0 0 ~ \mathrm { { m g } }$ ，肌醇 inositol $2 0 0 0 \mathrm { m g }$ 。   
+B 2)每千克矿物质预混料含有 Contained the following per $\mathrm { k g }$ of mineral premix:Fe (as ferric citrate) $1 2 \mathrm { m g }$ , Zn (as   
+9 zinc sulfate) $3 2 \mathrm { m g }$ ，Mn (as manganese sulfate) $2 0 \mathrm { m g }$ ， $\mathrm { c u }$ (as copper sulfate) $2 5 ~ \mathrm { m g }$ ，I(as potassium iodide) 0.10
+
+mg， $\mathbf { M g }$ (as magnesium sulphate) $3 5 0 ~ \mathrm { m g }$ ，K(as monopotassium phosphate) $1 \ 0 0 0 \ \mathrm { m g }$ ，Na (as monosodium phosphate) $3 0 0 ~ \mathrm { { m g } }$ ,Ca (as calcium lactate) $6 5 ~ \mathrm { m g }$ ,Co (as cobalt dichloride) $5 \mathrm { m g }$ ,Se (as sodium selenite) $0 . 3 ~ \mathrm { m g }$ 。 3)营养水平均为实测值。Nutrient levels were all measured values 。
+
+# 表2试验饲料的氨基酸组成 (干物质基础)
+
+Table 2Amino acid composition of experimental diets (DM basis)   
+
+<html><body><table><tr><td rowspan="2">氨基酸 Amino acids</td><td colspan="6">鸡肉粉替代鱼粉比例</td></tr><tr><td>Replacement ratio of fish meal by poultry by-product meal/%</td><td></td><td></td><td>30</td><td>40</td><td>60</td></tr><tr><td></td><td>0</td><td>10</td><td>20</td><td></td><td></td><td></td></tr><tr><td>必需氨基酸 Assential amino acids</td><td></td><td></td><td>1.58</td><td>1.58</td><td>1.57</td><td>1.55</td></tr><tr><td>苏氨酸Thr</td><td>1.56</td><td>1.56</td><td></td><td></td><td></td><td></td></tr><tr><td>赖氨酸Lys</td><td>2.71</td><td>2.71</td><td>2.71</td><td>2.72</td><td>2.71</td><td>2.64</td></tr><tr><td>苯丙氨酸 Phe</td><td>1.71</td><td>1.71</td><td>1.73</td><td>1.67</td><td>1.77</td><td>1.65</td></tr><tr><td>精氨酸Arg</td><td>2.18</td><td>2.23</td><td>2.29</td><td>2.35</td><td>2.32</td><td>2.46</td></tr><tr><td>蛋氨酸Met</td><td>1.04</td><td>1.06</td><td>1.05</td><td>1.05</td><td>1.06</td><td>1.02</td></tr><tr><td>亮氨酸 Leu</td><td>2.97</td><td>2.99</td><td>3.01</td><td>3.01</td><td>2.99</td><td>2.97</td></tr><tr><td>异亮氨酸 Ile</td><td>1.58</td><td>1.61</td><td>1.59</td><td>1.60</td><td>1.59</td><td>1.58</td></tr><tr><td>组氨酸 His</td><td>0.78</td><td>0.79</td><td>0.81</td><td>0.81</td><td>0.79</td><td>0.82</td></tr><tr><td>氨酸Val</td><td>1.85</td><td>1.86</td><td>1.85</td><td>1.88</td><td>1.87</td><td>1.84</td></tr><tr><td>非必需氨基酸 Nonessential amino acids</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>天门冬氨酸 Asp</td><td>3.38</td><td>3.37</td><td>3.37</td><td>3.38</td><td>3.30</td><td>3.27</td></tr><tr><td>丝氨酸 Ser</td><td>1.62</td><td>1.62</td><td>1.66</td><td>1.67</td><td>1.66</td><td>1.66</td></tr><tr><td>谷氨酸 Glu</td><td>6.77</td><td>6.82</td><td>6.86</td><td>6.86</td><td>6.84</td><td>6.78</td></tr><tr><td>甘氨酸Gly</td><td>2.36</td><td>2.50</td><td>2.63</td><td>2.74</td><td>2.74</td><td>2.97</td></tr><tr><td>丙氨酸 Ala</td><td>2.34</td><td>2.36</td><td>2.39</td><td>2.42</td><td>2.36</td><td>2.41</td></tr><tr><td>酪氨酸Tyr</td><td>1.14</td><td>1.15</td><td>1.17</td><td>1.14</td><td>1.15</td><td>1.15</td></tr><tr><td>脯氨酸Pro</td><td>1.87</td><td>1.95</td><td>2.01</td><td>2.08</td><td>2.05</td><td>2.22</td></tr><tr><td>半胱氨酸Cys</td><td>0.34</td><td>0.33</td><td>0.35</td><td>0.35</td><td>0.34</td><td>0.38</td></tr></table></body></html>
+
+# 1.2养殖管理
+
+养殖试验在宁波大学鱼类营养研究室淡水养殖基地进行，试验所用黄颡鱼鱼苗购自浙江省嘉兴市。黄颡鱼鱼苗暂养于玻璃钢桶中2周，并用商品饲料(宁波天邦股份有限公司提供，粗蛋白质含量为 $45 \%$ 、粗脂肪含量为 $1 0 \%$ 投喂，暂养结束后停食 $2 4 \mathrm { ~ h ~ }$ ，挑选规格基本一致的健康个体 540 尾[初始体质量为 $( 2 . 1 7 { \scriptstyle \pm 0 . 0 2 } ) \ \mathrm { g } ]$ ，随机分为6组，每组3个重复，每个重复30尾，以重复为单位随机分配于18个 $3 0 0 \mathrm { { L } }$ 玻璃钢养殖桶中，试验周期为8周。每天投喂2次，日投喂量为其体质量的 $4 \% { \sim } 6 \%$ ，投喂时间分别为07:30和17:00，投喂后 $^ \mathrm { ~ 1 ~ h ~ }$ 观察其摄食情况，养殖前期每隔1d换1次水，换水量为 $50 \%$ ,养殖中、后期每天换水量 $5 0 \% { \sim } 1 0 0 \%$ 。养殖期间每天检查充气和水温情况，若有死亡的鱼及时取出并称重记录。每2周称重并计数1次，并及时调整饲料投喂量。养殖试验期间不间断充氧，水温为 $2 6 . 0 { \sim } 2 9 . 5 \mathrm { ^ { \circ } C , p H }$ 为 $7 . 5 { \sim } 8 . 0$ 溶解氧浓度大于 $6 . 0 \mathrm { m g / L }$ 。
+
+# 1.3样品采集与指标测定
+
+养殖试验结束后饥饿 $2 4 \mathrm { ~ h ~ }$ 后称重，并记录每个养殖桶中的黄颡鱼尾数及总重，计算增重率(weight gain rate，WGR)、特定生长率(specific growth rate，SGR)、成活率(survival rate,SR)、饲料效率(feed efficiency，FE)及蛋白质效率(protein efficiency ratio，PER)。每个养殖桶随机取3尾鱼，用丁香酚(1:10 000，上海化学试剂公司产品)麻醉后，测其体长、体质量，剥离内脏和肠系膜脂肪并称重，用以计算肥满度(condition factor，CF)、肠脂比(intraperitonealfat ratio，IPF)和脏体比(viscerosomtic index，VSI)；剥离背部肌肉置于封口袋，用于肌肉常规营养成分的分析。每个养殖桶再随机取4尾鱼，置于封口袋中，用于全鱼常规营养成分的分析。每个养殖桶再另随机取3尾鱼，分别剥离肝脏、胃、前肠于 $1 . 5 ~ \mathrm { m L }$ 离心管中，用于抗氧化指标及消化酶活性的检测。用注射器抽取每个养殖桶内 $5 { \sim } 8$ 尾鱼的血液注入 $1 . 5 \mathrm { \ m L }$ 离心管中，于 $4 \mathrm { ^ { \circ } C F }$ 静置过夜后 $\textup { 5 } 0 0 0 \ \mathrm { r / m i n }$ 离心 $1 0 ~ \mathrm { { m i n } }$ ，取上清液保存于 $- 8 0 \ \mathrm { { ^ circ C } }$ 备用，用于分析血清生化指标。
+
+饲料、肌肉及全鱼常规营养成分分析：参照 AOAC(1995)的方法，其中水分含量的测定采用105C常压干燥法；粗蛋白质含量采用蛋白质分析仪(LECO FP-528，美国力可公司)进行测定；粗脂肪含量的测定采用索氏抽提法；粗灰分含量的测定采用 $5 5 0 ~ \mathrm { { ^ \circ C } } ^ { \overline { { L } } }$ 马福炉灼烧法。饲料样品中氨基酸含量(除色氨酸外)采用高速氨基酸自动分析仪(Model835-50，日本日立公司)进行测定。
+
+血清生化指标分析：总蛋白(total protein，TP)、白蛋白(albumin，ALB)、总胆固醇(totalcholesterol，TC)、甘油三酯(triglyceride，TG)的含量均由宁波大学附属医院使用全自动生化分析仪(7600-110，日本日立公司)测定。
+
+肝脏抗氧化指标分析：谷丙转氨酶(alanine aminotransferase，ALT)、谷草转氨酶(aspartateaminotransferase，AST)、超氧化物歧化酶(superoxide dismutase，SOD)、过氧化氢酶(catalase,
+
+CAT)活性及丙二醛(malondialdehyde，MDA)含量均采用南京建成生物工程研究所生产的相关试剂盒测定，相应操作均参照说明书进行。
+
+消化酶活性分析：组织匀浆方法参照南京建成生物工程研究所试剂盒说明书，胃蛋白酶(pepsin，PEP)活性测定采用福林-酚法，肝脏、胃、前肠淀粉酶(amylase，AMY)活性采用碘-淀粉比色法测定。
+
+1.4计算公式
+
+成活率 $( \% ) = 1 0 0 \times 1$ (终末个体数/初始个体数);  
+增重率 $( \% ) = 1 0 0 \times$ (终末均体质量-初始均体质量)/初始均体质量;  
+特定生长率 $( \% / \mathrm { d } ) { = } 1 0 0 \times ( \mathrm { l }$ n终末体质量-ln初始体质量)/饲养天数;  
+蛋白质效率 $\scriptstyle = ($ 终末体质量-初始体质量)/蛋白质摄入量;  
+饲料效率 $\scriptstyle = ($ 终末总重 $+$ 死亡总重一初始总重)/(投饲总量×饲料干物质含量);  
+肥满度 $( { \bf g } / { \bf c m } ^ { 3 } ) { = } 1 0 0 \times$ 体质量/体长;  
+肠脂比 $( \% ) = 1 0 0 \times$ 肠脂重/体质量；  
+脏体比 $( \% ) = 1 0 0 \times$ 内脏团重/体质量。
+
+1.5 统计分析
+
+数据均以平均值 $\pm$ 标准差(mean $\mathsf { \Pi } _ { \mathsf { I } \pm \mathsf { S D } } \rangle$ 表示。用SPSS17.0软件对所有数据进行单因素方差分析(one-way ANOVA)，当组间差异显著时，进行Turkey 氏法多重比较。以 $P { < } 0 . 0 5$ 作为差异显著性判断标准。
+
+# 2结果与分析
+
+2.1鸡肉粉替代鱼粉对黄颡鱼幼鱼生长性能的影响
+
+由表3可知，黄颡鱼幼鱼的成活率在各组间均无显著差异 $( P { > } 0 . 0 5 )$ 。随鸡肉粉替代鱼粉比例的升高，增重率和特定生长率呈先上升后下降的趋势，且当鸡肉粉替代鱼粉比例为 $20 \%$ 时，黄颡鱼幼鱼的增重率和特定生长率均达到峰值，并显著高于对照组 $( P { < } 0 . 0 5 )$ 。黄颡鱼幼鱼的肥满度、脏体比及肠脂比在各组间无显著差异 $( P { > } 0 . 0 5 )$ 。如图1，以增重率为评价指标，经折线模型拟合回归方程后得出，黄颡鱼幼鱼配合饲料中鸡肉粉替代鱼粉最适比例为$2 0 . 8 4 \%$ 。
+
+![](images/3388b4abd39135d7c2077c66bccc4b0180b81d1e0c9de307b9dbb39703b9c80f.jpg)  
+图1折线模型分析黄颡鱼幼鱼增重率与鸡肉粉替代鱼粉比例的关系  
+表4鸡肉粉替代鱼粉对黄颡鱼幼鱼饲料利用和消化酶活性的影响
+
+Fig.1 Broken-line model analysis of the relationship between the replacement ratio of fish meal by poultry by-product meal and WGR of juvenile yellow catfish (Pelteobagrus fulvidraco)
+
+2.2鸡肉粉替代鱼粉对黄颡鱼幼鱼饲料利用和消化酶活性的影响
+
+由表4可知，且当鸡肉粉替代鱼粉比例为 $20 \%$ 时，黄颡鱼幼鱼的饲料效率及蛋白质效率达到最高值，并显著高于对照组 $( P { < } 0 . 0 5 )$ 。对照组中黄颡鱼幼鱼的胃蛋白酶活性显著低于其他各组 $_ { ( P < 0 . 0 5 ) }$ 。当鸡肉粉替代鱼粉比例为 $20 \% { \sim } 6 0 \%$ 时，黄颡鱼幼鱼的胃淀粉酶活性显著高于对照组 $( P { < } 0 . 0 5 )$ ；当鸡肉粉替代鱼粉比例为 $10 \%$ 时，黄颡鱼幼鱼的前肠淀粉酶活性显著高于对照组 $( P { < } 0 . 0 5 )$ ；当鸡肉粉替代鱼粉比例为 $30 \%$ 时，黄颡鱼幼鱼的肝脏淀粉酶活性显著高于对照组 $( P { < } 0 . 0 5 )$ 。
+
+Table 4Effects offish mealreplacement with poultryby-product meal on feed utilization and digestive enzyme activities of juvenile yellow catfish (Pelteobagrus fulvidraco)
+
+胃蛋白酶
+
+<html><body><table><tr><td>项目Items</td><td>饲料效率 FE</td><td>蛋白质效率 PER</td><td>青虫口酶 Stomach PEP</td><td colspan="3">淀粉酶AMY/ (U/mg prot)</td></tr><tr><td>鸡肉粉替代鱼粉比例</td><td></td><td></td><td>(U/mg prot)</td><td></td><td></td><td></td></tr><tr><td>Replacement ratio of fish</td><td></td><td></td><td></td><td>胃 Stomach</td><td>前肠 Foregut</td><td>肝脏Liver</td></tr><tr><td>meal by poultry by-product</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>meal/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0</td><td>0.92±0.06c</td><td>1.84±0.02c</td><td>2.67±0.09d</td><td>0.44±0.02</td><td>2.09±0.13b</td><td>0.07±0.02b</td></tr><tr><td>10</td><td>1.03±0.02ab</td><td>2.13±0.05ab</td><td>4.48±0.79c</td><td>0.76±0.13bc</td><td>2.69±0.07a</td><td>0.08±0.00ab</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+20 1.07±0.03a 2.23±0.09a 10.46±0.00a 1.18±0.15ab 2.37±0.09ab （204号 $0 . 0 9 { \scriptstyle \pm 0 . 0 2 ^ { \mathrm { a b } } }$   
+30 1.07±0.01a 2.22±0.02ab 8.36±0.38b 1.15±0.36ab 2.26±0.25b $0 . 1 2 { \scriptstyle \pm 0 . 0 0 ^ { \mathrm { a } } }$ （20   
+40 1.04±0.06ab 2.10±0.09b 8.55±0.58b 1.56±0.05a 2.31±0.17ab 0.07±0.02b   
+60 0.97±0.07bc 1.91±0.02 8.10±0.05b 1.41±0.08a 2.27±0.16ab 0.07±0.00b
+
+同列数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。表7同。
+
+In the same column,values with no letter or the same leter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { > } 0 . 0 1 )$ .The same as Table 7.
+
+2.3鸡肉粉替代鱼粉对黄颡鱼幼鱼全鱼及肌肉常规营养成分的影响
+
+由表5可知，随着鸡肉粉替代鱼粉比例的升高，全鱼干物质、粗蛋白质、粗脂肪及粗灰分含量无显著变化 $( P { > } 0 . 0 5 )$ ；肌肉干物质、粗蛋白质、粗脂肪及粗灰分含量在各组间也无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+# 2.4鸡肉粉替代鱼粉对黄颡鱼幼鱼血清生化指标的影响
+
+由表6可知，黄颡鱼幼鱼血清总蛋白与白蛋白含量在各组间均无显著差异 $( P { > } 0 . 0 5 )$ ，各替代组血清谷草转氨酶活性与对照组无显著差异 $( P { > } 0 . 0 5 )$ 。当鸡肉粉替代鱼粉比例为 $30 \%$ 时，血清谷丙转氨酶活性及甘油三酯和总胆固醇含量达到最高值，且显著高于对照组 $( P { < } 0 . 0 5 )$ 。
+
+Table3Efectoffsmealeplacementwithpoutryy-productmealongrowthpeformaneofjuveileyelocatsh(Pelteobagusfulvidraco)
+
+表3鸡肉粉替代鱼粉对黄颡鱼幼鱼生长性能的影响  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="6">鸡肉粉替代鱼粉比例 Replacement ratio of fish meal by poultry by-product meal/%</td></tr><tr><td>0</td><td>10</td><td>20</td><td>30</td><td>40</td><td>60</td></tr><tr><td>初始体质量 IBW/g</td><td>2.18±0.03</td><td>2.17±0.01</td><td>2.18±0.01</td><td>2.18±0.00</td><td>2.17±0.02</td><td>2.17±0.01</td></tr><tr><td>成活率 SR/%</td><td>100.00±0.00</td><td>100.00±0.00</td><td>100.00±0.00</td><td>100.00±0.00</td><td>100.00±0.00</td><td>100.00±0.00</td></tr><tr><td>增重率 WGR/%</td><td>538.62±21.56a</td><td>604.97±32.28b</td><td>663.50±11.55℃</td><td>645.49±28.70c</td><td>593.36±8.49b</td><td>537.80±12.66a</td></tr><tr><td>特定生长率 SGR/(%/d)</td><td>3.31±0.06C</td><td>3.49±0.08ab</td><td>3.63±0.03a</td><td>3.59±0.07ab</td><td>3.53±0.12bc</td><td>3.38±0.13c</td></tr><tr><td>肥满度CF/(g/cm3)</td><td>1.66±0.13</td><td>1.64±0.08</td><td>1.70±0.03</td><td>1.54±0.14</td><td>1.64±0.06</td><td>1.72±0.09</td></tr><tr><td>脏体比 VSI/%</td><td>5.36±0.16</td><td>5.62±0.46</td><td>5.87±0.33</td><td>5.66±0.44</td><td>5.35±0.47</td><td>5.46±0.19</td></tr><tr><td>肠脂比 IPF/%</td><td>2.09±0.21</td><td>2.05±0.77</td><td>1.92±0.25</td><td>1.91±0.05</td><td>1.94±0.27</td><td>2.04±0.05</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。表5和表6同。
+
+In the same row,values with no leter or the same lettr superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $_ { ( P < 0 . 0 5 ) }$ ,and with diferent capital leter superscripts mean significant difference $( P { > } 0 . 0 1 \dot { ] }$ ). The same as Table 5 and Table 6.
+
+able5feofeepturoaterilotsoldejul lable6Effectsofspcetorodueaadfjuelshlsdrac
+
+<html><body><table><tr><td colspan="6">(Pelteobagrus fulvidraco) %</td></tr><tr><td></td><td colspan="5">鸡肉粉替代鱼粉比例 Replacement ratio of fish meal by poultry by-product meal/%</td></tr><tr><td>项目Items</td><td>0</td><td>10</td><td>20</td><td>30</td><td>40</td></tr><tr><td>全鱼 Whole body</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>29.96±0.69</td><td>30.28±0.78</td><td>30.15±0.74</td><td>29.79±1.43</td><td>29.47±0.54 29.50±0.34</td></tr><tr><td>粗蛋白质 Crude protein</td><td>14.26±0.11</td><td>14.57±0.78</td><td>14.69±0.08 14.06±0.01</td><td>14.44±0.99</td><td>14.56±0.13</td></tr><tr><td>粗脂肪 Crude lipid</td><td>10.82±0.26</td><td>10.72±0.77</td><td>11.28±0.31</td><td>10.07±0.15</td><td>11.13±0.77 11.22±0.22</td></tr><tr><td>粗灰分Ash</td><td>12.06±0.21</td><td>11.53±0.27</td><td>11.71±0.26</td><td>11.81±0.42</td><td>11.78±0.36 12.69±0.46</td></tr><tr><td>肌肉Muscle</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>20.88±0.33</td><td>21.21±0.15</td><td>20.63±0.01</td><td>20.80±0.38</td><td>21.16±0.25 21.21±0.30</td></tr><tr><td>粗蛋白质 Crude protein</td><td>17.57±0.24</td><td>17.64±0.07</td><td>17.53±0.03</td><td>17.51±0.08</td><td>17.69±0.33 17.80±0.19</td></tr><tr><td>粗脂肪 Crude lipid</td><td>2.55±0.17</td><td>2.79±0.20</td><td>2.53±0.08</td><td>2.78±0.03</td><td>2.81±0.08 2.78±0.16</td></tr><tr><td>粗灰分 Ash</td><td>6.12±0.22</td><td>6.34±0.48</td><td>6.08±0.14</td><td>5.62±0.41</td><td>5.96±0.34 5.95±0.24</td></tr></table></body></html>
+
+表6鸡肉粉替代鱼粉对黄颡鱼幼鱼血清生化指标的影响  
+鸡肉粉替代鱼粉比例 Replacement ratio of fish meal by poultry by-product meal/%   
+
+<html><body><table><tr><td>项目 Items</td><td>0</td><td>10</td><td>20</td><td>30</td><td>40</td><td>60</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>37.37±1.96</td><td>33.80±3.20</td><td>33.63±0.60</td><td>35.10±1.67</td><td>37.10±1.10</td><td>32.70±1.81</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>11.60±0.53</td><td>10.67±0.93</td><td>10.77±0.25</td><td>11.27±0.59</td><td>11.85±0.55</td><td>10.43±0.32</td></tr><tr><td>谷草转氨酶</td><td>26.69±3.84ab</td><td>20.26±1.01b</td><td>28.43±2.00a</td><td>23.92±2.52ab</td><td>23.80±3.37ab</td><td>28.13±1.33a</td></tr><tr><td>AST/(U/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷丙转氨酶</td><td>11.49±0.49b</td><td>14.13±1.02a</td><td>12.60±1.04ab</td><td>14.85±1.22a</td><td>11.70±0.84b</td><td>11.49±0.21b</td></tr><tr><td>ALT/(U/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>7.27±0.67b</td><td>6.63±0.34b</td><td>3.85±0.59℃</td><td>11.73±0.52a</td><td>11.24±1.19a</td><td>5.95±0.75b</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>6.12±0.17℃</td><td>6.59±0.07ab</td><td>5.54±0.20d</td><td>6.78±0.15a</td><td>6.49±0.04b</td><td>6.23±0.07bc</td></tr></table></body></html>
+
+2.5鸡肉粉替代鱼粉对黄颡鱼幼鱼抗氧化指标的影响
+
+由表7可知，当鸡肉粉替代 $20 \%$ 鱼粉时，黄颡鱼幼鱼的肝脏超氧化物歧化酶活性达到最高值，并显著高于对照组 $( P { < } 0 . 0 5 )$ ；肝脏过氧化氢酶活性在各组间差异不显著 $( P { > } 0 . 0 5 )$ 鸡肉粉替代鱼粉比例大于 $30 \%$ 时，肝脏丙二醛含量显著高于对照组 $( P { < } 0 . 0 5 )$ 。
+
+表7鸡肉粉替代鱼粉对黄颡鱼幼鱼肝脏抗氧化指标的影响
+
+Table 7 Effects of fish meal replacement with poultry by-product meal on antioxidant indices of juvenile yellow catfish (Pelteobagrus fulvidraco)
+
+项目Items
+
+<html><body><table><tr><td>鸡肉粉替代鱼粉比例</td><td>超氧化物歧化酶 SOD/</td><td>过氧化氢酶CAT/</td><td>丙二醛 MDA/</td></tr><tr><td>Replacement ratio of fish</td><td>(U/mg prot)</td><td>(U/mg prot)</td><td>(U/mg prot)</td></tr><tr><td>meal by poultry by-product</td><td></td><td></td><td></td></tr><tr><td>meal/% 0</td><td></td><td></td><td></td></tr><tr><td>10</td><td>34.30±1.36bc</td><td>10.10±0.38</td><td>4.32±0.20b</td></tr><tr><td></td><td>26.49±2.38</td><td>10.23±0.70</td><td>5.52±0.15ab</td></tr><tr><td>20</td><td>43.72±1.62a</td><td>10.68±0.72</td><td>5.75±1.30ab</td></tr><tr><td>30</td><td>40.08±6.61ab</td><td>10.21±0.29</td><td>5.33±0.19ab</td></tr><tr><td>40</td><td>33.00±6.39bc</td><td>10.42±0.44</td><td>7.03±0.93a</td></tr><tr><td>60</td><td>41.02±3.31ab</td><td>11.02±0.32</td><td>6.86±0.57a</td></tr></table></body></html>
+
+3讨论
+
+由于试验鱼的品种和鸡肉粉来源等因素的制约，相关鸡肉粉替代鱼粉对鱼类生长性能影响的试验往往会取得不同的结果。有研究表明，相比与全鱼粉组，鸡肉粉替代鱼粉组的蛋白质效率显著提高]，但亦有研究发现一些鱼类投喂鸡肉粉替代鱼粉的饲料后，蛋白质效率或饲料效率较全鱼粉组显著下降[10-14]。在本试验中，与对照组相比，各替代组黄颡鱼幼鱼的饲料效率和蛋白质效率均大大提高，与前者取得的研究结果一致。与此同时，当鸡肉粉替代$20 \%$ 鱼粉时，黄颡鱼幼鱼的增重率及特定生长率达到峰值，当鸡肉粉替代鱼粉比例大于 $30 \%$ 时，其生长性能和饲料利用能力逐渐降低。在一些类似研究中，当饲料中鸡肉粉替代鱼粉比例大于 $3 3 \%$ 时，镜鲤(Cyprinus carpio)[15]、杂交条纹鲈(Morone chrysops ${ \mathcal { Q } } \times M .$ saxatilis $8$ [16]和美国红鱼(Sciaenops ocellatus)l1o的生长性能显著降低，这些研究都取得了与本试验一致的结果。但 Nengas 等[17]研究发现鸡肉粉可替代 $50 \%$ 鱼粉且不影响金头海鲷(Sparus aurata)生长性能，且 Fasakin 等[18]在对杂交罗非鱼(Oreochromis niloticus $\times$ Oreochromis mossambicus)的研究中表明，鸡肉粉替代 $60 \%$ 鱼粉组与全鱼粉组在增重率、饲料转化率和蛋白质效率上无显著差异，这些结果均与本试验结果存在差异。鸡肉粉替代鱼粉存在的主要缺陷是消化率低和氨基酸缺乏，相比于鱼粉，鸡肉粉缺乏异亮氨酸、蛋氨酸、赖氨酸等必需氨基酸[19],由此引起的氨基酸失衡会影响鱼类对氨基酸的利用，抑制生长。同时，饲料中鱼粉被鸡肉粉替代会导致其适口性降低[20]，而适口性降低是导致蛋白质源替代鱼粉后鱼类生长性能显著降低的主要原因[19]。
+
+消化酶是机体内具有催化作用的活性物质，能促进食物消化与营养吸收。消化酶活性的增强可以促进机体对营养物质的消化吸收，从而促进鱼体的生长[21]。本试验中，鸡肉粉替代 $20 \%$ 鱼粉时黄颡鱼幼鱼胃蛋白酶活性显著高于对照组且达最高值，与此同时，饲料效率和蛋白质效率也都达到了最高值，说明此替代比例有利于黄颡鱼幼鱼蛋白质的消化，提高了黄颡鱼幼鱼对饲料和其中蛋白质的利用能力。当鸡肉粉替代鱼粉比例大于 $20 \%$ 时，各替代组胃淀粉酶活性显著高于对照组，说明鸡肉粉替代鱼粉增强了黄颡鱼幼鱼的胃淀粉酶活性，促进了黄颡鱼幼鱼对饲料中淀粉物质的吸收。
+
+本试验中，黄颡鱼幼鱼的形体指标并未受到鸡肉粉替代鱼粉比例的显著影响，鸡肉粉替代不同比例鱼粉组黄颡鱼幼鱼的肥满度、脏体比和肠脂比与全鱼粉组无显著的差异，说明鸡肉粉可以在一定程度上替代黄颡鱼幼鱼配合饲料中的鱼粉量而不影响其形体指标。这与Shapawi 等l11l对驼背鲈(Cromileptes altivelis)以及 Hu 等[22]对银鲫(Carassius auratus gibelio)的研究结果一致。同时，鸡肉粉替代不同比例鱼粉对黄颡鱼幼鱼全鱼及肌肉干物质、粗蛋白质、粗脂肪和粗灰分含量均无显著影响。Takagi等[23]对真鲷(Pagrusmajor)和李宗升[19]对大菱鲆(S.maximus)的研究也发现，鸡肉粉替代鱼粉对试验鱼的体成分无显著影响，与本试验得出的结果类似。鸡肉粉替代不同比例鱼粉组黄颡鱼幼鱼的形体指标和体成分与全鱼粉组无显著性差异，说明投喂鸡肉粉替代鱼粉的饲料不会影响黄颡鱼的口感与品质，保证了其商品价值。血清总蛋白含量是检测机体蛋白质代谢以及营养健康的重要指标。有研究显示豆粕中由于蛋氨酸和赖氨酸的不足会导致褐点石斑鱼吸收饲料蛋白质的能力下降，从而影响血清中总蛋白的含量[24]。黄颡鱼对饲料中蛋氨酸和赖氨酸的需要量分别为 $0 . 7 9 \% { \sim } 1 . 0 2 \%$ 和$2 . 9 1 \% { \sim } 3 . 7 4 \% ^ { [ 2 5 ] }$ 。而在本试验中，全鱼粉组饲料中检测出蛋氨酸和赖氨酸含量分别为 $1 . 0 4 \%$ 和 $2 . 7 1 \%$ ，接近黄颡鱼蛋氨酸和赖氨酸的需要量，同时在各鸡肉粉替代鱼粉组饲料中分别添加蛋氨酸和赖氨酸，以此保证这2种氨基酸在各组饲料间的平衡，因此本试验中血清总蛋白含量在各组间无显著差异。邱红等[26]对凡纳滨对虾(Litopenarus vannamei)的研究也得到相似的结果。在正常情况下，血清中的谷丙转氨酶和谷草转氨酶活性较稳定，当机体受到胁迫或者营养不良而导致肝脏受到损伤时，这 2 种酶活性往往会显著升高[27]。在本试验中，鸡肉粉替代 $30 \%$ 鱼粉组黄颡鱼血清中谷丙转氨酶活性显著高于对照组，表明此组黄颡鱼幼鱼肝
+
+脏细胞可能受损。此外，当鸡肉粉替代 $30 \%$ 鱼粉时，血清中甘油三酯和总胆固醇含量达到最高值并显著高于对照组，而血清甘油三酯和总胆固醇含量是反映机体脂肪代谢的重要指标，该结果表明鸡肉粉替代鱼粉影响了机体正常的脂肪代谢。
+
+抗氧化酶系统是机体防御活性氧所致的损伤效应，维持自由基产生和清除之间的平衡的一套抗氧化防御机制，主要包括谷胱甘肽过氧化物酶、过氧化氢酶和超氧化物歧化酶[28]。本试验中，鸡肉粉替代不同比例鱼粉对黄颡鱼幼鱼肝脏过氧化氢酶活性无显著性影响，这与Zhou 等[5]对军曹鱼的研究结果一致，说明鸡肉粉替代鱼粉并不会显著影响黄颡鱼幼鱼肝脏过氧化氢酶清除体内过量过氧化氢的能力；同时，当鸡肉粉替代 $2 0 \% \sim 6 0 \%$ 鱼粉时，黄颡鱼幼鱼肝脏超氧化物歧化酶活性显著提高，说明鸡肉粉替代 $20 \% \sim 6 0 \%$ 鱼粉后在一定程度上提高了机体清除自由基的能力。油脂氧化属于自由基链反应，产生的自由基能通过攻击生物膜中的不饱和脂肪酸进而引发脂质过氧化，形成脂质过氧化产物并降解为丙二醛，其含量的高低可以反映体内脂质过氧化强弱，间接反映组织细胞的损伤程度[2]。随着鸡肉粉替代鱼粉比例的升高，黄颡鱼幼鱼肝脏丙二醛含量也逐渐上升，尤其当替代比例在 $4 0 \% \sim 6 0 \%$ 时，丙二醛含量显著高于其他各组，说明此替代比例导致肝脏内脂质过氧化物的积累，损伤肝脏细胞。综上所述，过高的鸡肉粉替代鱼粉比例会导致黄颡鱼幼鱼机体脂肪氧化，从而产生过量的自由基，损坏细胞膜结构，进而影响细胞完整性，干扰其抗氧化能力。
+
+4结论
+
+$\textcircled{1}$ 适宜的鸡肉粉替代鱼粉比例使黄颡鱼幼鱼血清甘油三酯、总胆固醇含量降低，肝脏 抗氧化酶活性增强，胃肠道消化酶活性上升，说明饲料中添加适量的鸡肉粉有利于黄颡鱼 幼鱼的健康生长。 $\textcircled{2}$ 以增重率为评价指标，经折线模型拟合回归方程后得出，黄颡鱼幼鱼配合饲料中鸡   
+肉粉替代鱼粉最适比例为 $2 0 . 8 4 \%$ 。   
+参考文献：   
+[1]吕景旭,郭伟东.鸡肉粉的饲用营养价值[J].中国饲料,1995(13):25-26.   
+[2] 韩陆奇.鸡肉粉的开发利用[J].肉品卫生,1995(12):30.   
+[3] WANG Y,GUO J H,BUREAU D P,et al.Replacement of fish meal by rendered animal protein ingredients in feeds for cuneate drum (Nibea miichthioides)[J].Aquaculture,2006,252(2/3/4):476-483.
+
+[4] TURKER A,YIGIT M,ERGUN S,et al.Potential of poultry by-product meal as a substitute for fishmeal in diets for Black Sea turbot Scophthalmus maeoticus:growth and nutrient utilization in winter[J].Israeli Journal of Aquaculture-Bamidgeh,20o5,57(1):49-61.
+
+[5]ZHOU Q C,ZHAO J,LI P,et al.Evaluation of poultry by-product meal in commercial diets for juvenile cobia (Rachycentron canadum)[J].Aquaculture,2011,322/323:122-127..   
+[6] 文远红,曹俊明,黄燕华,等.蝇蛆粉替代鱼粉对黄颡鱼幼鱼生长性能、体组成和血浆生化 指标的影响[J].动物营养学报,2013,25(1):171-181.   
+[7]杨严鸥,张艳,潘宙,等.豆粕替代不同水平的鱼粉对黄颡鱼饲料利用、ATP 酶活性和免疫 功能的影响[J].饲料广角,2006(15):39-41.   
+[8]AOAC.Oficial methods of analysis of Ofcial Analytical Chemists International[S].16th ed.Arlington,VA:Association of Official Analytical Chemists,1995.   
+[9]YANG Y,XIE S QCUI Y B,et al.Partial and total replacement of fish meal with poultry by-product meal in diets for gibel carp,Carassius auratus gibelio Bloch[J].Aquaculture Research,2006,37(1):40-48.   
+[10]KURESHY N,DAVIS D A,ARNOLD C R.Partial replacement of fish meal with meat-and-bone meal,flash-dried poultry by-product meal,and enzyme-digested poultry by-product meal in practical diets for juvenile red drum (Sciaenops ocellatus)[J].North American Journal of Aquaculture,2000,62(4):266-272.   
+[11]SHAPAWI R,NG W K,MUSTAFA S.Replacement of fish meal with poultry by-product meal indietsformulatedforthehumpbackgrouper,Cromileptes altivelis[J].Aquaculture,2007,273(1):118-126.   
+[12] YANG Y,XIE S,CUI Y,et al.Effect of replacement of dietary fish meal by meat and bone meal and poultry by-product meal on growth and feed utilization of gibel carp,Carassius auratus gibelio[J].Aquaculture Nutrition,2004,10(5):289-294.   
+[13]YIGIT M,ERDEM M,KOSHIO S,et al.Substituting fish meal with poultry by-product meal in diets for Black Sea turbot Psetta maeotica[J].Aquaculture Nutrition,2006,12(5):340-347.   
+[14]GAYLORD T G,RAWLES S D.The modification of poultry by-product meal for use in hybrid striped bass Morone chrysops $\times$ M.saxatilis diets[J].Journal-World Aquaculture Society,2005,36(3):363-374.   
+[15]EMRE Y,SEVGILI H,DILER i.Replacing fish meal with poultry by-product meal in
+
+practical diets for mirror carp (Cyprinus carpio) fingerlings[J].Turkish Journal of Fisheries and Aquatic Sciences,2003,85:81-85.
+
+[16]RAWLES S D,RICHE M,GAYLORD T G,et al.Evaluation of poultry by-product meal incommercial diets for hybrid striped bass (Morone chrysops ${ \mathcal { Q } } \times M .$ saxatilis $8$ ） in recirculatedtank production[J].Aquaculture,2006,259(1/2/3/4):377-389.  
+[17]NENGAS I,ALEXIS M N,DAVIES S J.High inclusion levels of poultry meals and relatedbyproductsindietsforgilthead seabream Sparus aurataL.[J].Aquaculture,1999,179(1/2/3/4):13-23.  
+[18]FASAKIN E A,SERWATA R D,DAVIES S J.Comparative utilization of rendered animalderived products with or without composite mixture of soybean meal in hybrid tilapia(Oreochromis niloticus $\times$ Oreochromis mossambicus)diets[J].Aquaculture,2005,249(1/2/3/4):329-338.  
+[19]李宗升.鸡肉粉、豆粕替代鱼粉对大菱鲆幼鱼生长、消化酶活性及能量收支的影响[D].硕士学位论文.青岛:大连海洋大学,2016.  
+[20]胡亮,薛敏,王彬,等.晶体氨基酸提高混合动物蛋白替代花鲈饲料中鱼粉的潜力[J].水产学报,2011,35(2):268-275.  
+[21]黄瑾,熊邦喜,陈洁,等.鱼类消化酶活性及其影响因素的研究进展[J].湖南农业科学,2011(5):129-131,141.  
+[22] HU M H,WANG Y J,WANG Q,et al.Replacement of fish meal by rendered animal proteiningredients with lysine and methionine supplementation to practical diets for gibelcarp,Carassius auratus gibelio[J].Aquaculture,2008,275(1/2/3/4):260-265.  
+[23]TAKAGI S,HOSOKAWA H,SHIMENO S,et al.Utilization of poultry by-product meal in adiet for red sea bream Pagrus major[J].Nippon Suisan Gakkaishi,2000,66(3):428-438.  
+[24] 王赛,陈刚,张建东,等.不同蛋白质源部分替代鱼粉对褐点石斑鱼幼鱼生长性能、体组成以及血清生化指标的影响[J].动物营养学报,2012,24(1):160-167.  
+[25]刘兴旺,许丹.黄颡鱼营养需求研究进展[J].广东饲料,2013,22(7):43-45.  
+[26]邱红,李弋,侯迎梅,等.鸡肉粉或猪肉粉部分替代鱼粉对凡纳滨对虾生长性能、饲料利用及血清生化指标的影响[J].动物营养学报,2015,27(9):2784-2792.  
+[27]孙瑞健,张文兵,徐玮,等.饲料蛋白质水平与投喂频率对大黄鱼生长、体组成及蛋白质代谢的影响[J].水生生物学报,2013,37(2):281-289.
+
+[28]MACHLIN L J,BENDICH A.Free radical tissue damage:protective role of antioxidant nutrients[J].The FASEB Journal,1987,1(6):441-445.
+
+29]LIN C C,LIANG JH.Effect of antioxidants on the oxidative stability of chicken breast meat in a dispersion system[J].Journal of Food Science,2002,67(2):530-533.
+
+Effects of Fish Meal Replacement with Poultry By-Product Meal on Growth Performance, Feed Utilization, Digestive Enzyme Activities and Antioxidant Capacity of Juvenile Yellow Catfish (Pelteobagrus fulvidraco)
+
+LUO JiaxiangHUANG Wenwen YUAN Ye LI Chenchen ZHU Tingting ZHOUQicun (Laboratory of Fish Nutrition,School of Marine Sciences,Ningbo University, Ningbo 315211, China)
+
+Abstract: An 8-week feeding trial was conducted to evaluate the effects of fish meal (FM) replacement with poultry by-product meal (PBM) on growth performance， feed utilization， digestive enzyme activities and antioxidant capacity of juvenile yellow catfish (Pelteobagrus fulvidraco). Six iso-nitrogenous and iso-lipid diets (crude protein content was $45 \%$ and crude lipid content was $10 \%$ ） werforulai,t $5 . 2 5 \%$ $10 . 5 1 \%$ $1 5 . 7 7 \%$ （ $2 1 . 0 3 \%$ and $3 1 . 5 4 \%$ PBM to replace 0, $10 \%$ $20 \%$ $30 \%$ $40 \%$ and $60 \%$ FM, respectively. A total of 540 juvenile yellow catfish with an initial body weight of $( 2 . 1 7 { \scriptstyle \pm 0 . 0 2 } )$ （20号 $\mathbf { g }$ were randomly divided into 6 groups with 3 replicates per group and 3O yellow catfish for each replicate.The results showed that survival ratio (SR) was not significantly influenced by the replacement ratio of FM by PBM $( P { > } 0 . 0 5 )$ . The weight gain ratio (WGR)，specific growth rate (SGR), feed efficiency (FE) and protein efficiency ratio (PER) of yellow catfish were significantly increased when the replacement ratio ofFM with PBM increased from 0 to $20 \%$ $( P { < } 0 . 0 5 )$ , and they were significantly decreased while the replacement ratio of FM with PBM increased from $30 \%$ to $60 \%$ $( P { < } 0 . 0 5 )$ . The condition factor (CF),intraperitoneal fat ratio (IPE） and viscerosomtic index (VSI) of yellow catfish were not significantly influenced by the replacement ratio of FM with PBM $( P { > } 0 . 0 5 )$ . There were no significant differences in the contents of dry matter, crude protein, ash and crude lipid in muscle and whole body among groups $( P { > } 0 . 0 5 )$ . The stomach pepsin (PEP) activity of control group had significantly lower than the other groups $( P { < } 0 . 0 5 )$ ，the stomach amylase (AMY) activity was significantly increased when the replacement ratio of FM by PBM more than $10 \%$ compared with control group $( P { < } 0 . 0 5 )$ , the foregut AMY activity of $10 \%$ FM replace group was significantly higher than of control group $( P { < } 0 . 0 5 )$ , and the liver AMY activity of $30 \%$ FM replace group was significantly higher than that of control group $( P { < } 0 . 0 5 )$ . The activity of aspartate aminotransferase (AST) in serum of allFM replace groups had no significant diffrence compared with control group $( P { > } 0 . 0 5 )$ , but the alanine aminotransferase (ALT) activity and triglyceride(TG) and total cholesterol (TC) contents in serum of $30 \%$ FM replace group had the highest values,and they were significantly higher than those of control group $( P { < } 0 . 0 5 )$ . The liver superoxide dismutase (SOD) activity reached the highest value in $20 \%$ FM replace group,and it was significantly higher than that of control group $( P { < } 0 . 0 5 )$ , and the liver malondialdehyde (MDA) content in $40 \%$ and $60 \%$ FM replace groups was significantly higher than that of control group $( P { < } 0 . 0 5 )$ ．However， no significant difference was occurred at liver catalase (CAT） activity among all groups $( P { > } 0 . 0 5 )$ . Using WGR as the evaluation index, the optimal replacement ratio of FM with PBM is estimated to be $20 . 8 4 \%$ by broken-line model analysis.
+
+Key words: Pelteobagrus fulvidraco; poultry by-product meal; fish meal; growth performance; feed utilization; antioxidant capacity

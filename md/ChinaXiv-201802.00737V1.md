@@ -1,0 +1,150 @@
+# 中国农田土壤固碳潜力与速率：认识、挑战与研究建议
+
+赵永存 徐胜祥 王美艳 史学正
+
+中国科学院南京土壤研究所土壤与农业可持续发展国家重点实验室南京210008摘要土壤有机碳作为土壤肥力形成的基础，不但影响土壤质量、功能和粮食产量，而且在全球气候变化中扮演重要角色。在我国土壤资源同时面临保障粮食安全、发挥生态系统服务功能和应对气候变化等多重挑战的背景下，准确把握中国农田土壤固碳潜力及速率，对于实现土壤资源合理利用和农业可持续发展具有重要意义。文章首先介绍了对中国农田土壤有机碳变化速率和土壤固碳潜力的基本认识以及研究中面临的挑战，而后从基础研究、土壤信息平台、方法体系及研究成果与国家农业管理决策支撑方面提出了研究建议。
+
+关键词中国农田，土壤有机碳，变化速率，固碳潜力
+
+DOI 10.16418/j.issn.1000-3045.2018.02.009
+
+土壤是陆地生态系统的核心，是人类赖以生存的重要自然资源。土壤有机碳（soilorganic carbon，SOC）作为土壤肥力形成的基础，不但影响土壤质量和功能，而且在全球气候变化中扮演重要角色。SOC是土壤肥力的决定性因素，其含量高低、质量好坏直接影响土壤肥力属性，即土壤有效持水量、保肥能力、养分利用效率、土壤微生物数量和活性，进而显著影响作物产量。同时，作为土壤碳库的重要组成部分，SOC通过土壤微生物分解释放二氧化碳（ $\mathrm { C O } _ { 2 }$ ），而大气中的 $\mathrm { C O } _ { 2 }$ 则通过光合作用被固定到植物体，植物根系、凋落物及人为归还使得植物体中的部分碳再次归还到土壤中。因此，SOC具有一定的大气 $\mathrm { C O } _ { 2 }$ 浓度调节功能。地球上SOC储量巨大且较为活跃，因而其微小变化就可能对大气 $\mathrm { C O } _ { 2 }$ 浓度产生重大影响，进而影响全球气候变化。
+
+我国人多地少，耕地土壤质量总体不高，随着工业化和城市化进程的高速发展，人地、人粮矛盾日益突出，土壤资源正同时面临着保障粮食安全、发挥生态系统服务功能和应对气候变化等多重挑战。而农田作为受人为管理措施影响最为强烈的土壤利用方式，其SOC库最为活跃。同时，农田SOC库也是唯一可在较短时间尺度上通过合理利用而进行适度调节的碳库。因此，准确把握农田SOC变化速率及固碳潜力对于实现我国土壤资源高效利用及农业可持续发展战略，意义十分重大。
+
+# 1我国农田土壤固碳潜力及速率的基本认识
+
+国家尺度农田SOC变化速率估算主要采用Meta分析①、土壤调查数据差减和过程模型模拟3类方法。Meta分析采用已发表文献中的SOC数据，计算SOC变化速率；调查数据差减法通过两期土壤调查采样的SOC实测数据直接差减计算变化速率；过程模型模拟则采用SOC周转机理模型，在气候、土壤、农业管理措施等因子驱动下，实现SOC变化速率估算。Meta分析和两期调查数据差减，在SOC变化速率估算中没有整合SOC周转过程，主要用于估算“过去”的SOC变化速率，并不能获得 SOC动态的逐年“演变”规律，也难以预测“未来”的固碳潜力。过程模型则整合了SOC周转的机理过程，广泛用于“未来”不同假定情景下的固碳潜力预估。此外，基于长期试验数据建立SOC速率与管理措施的统计模型或获取SOC饱和水平并外推至全国尺度也被用于估算农田土壤固碳潜力。
+
+我国农田SOC变化速率及固碳潜力估算中所采用的方法、农田面积、土层深度、土壤及管理措施数据来源及分辨率等均存在一定差异。但总体来看，目前对我国农田土壤固碳潜力及速率的认识基本形成了以下4点共识。
+
+# 1.1近30年来中国农田表层SOC库总体增加，发挥了碳汇功能
+
+早期基于特定年份农业管理措施数据及DNDC 过程模型②的估算认为，中国农田土壤丢碳[1,2]，随着不同尺度SOC观测及农田管理措施数据收集的日趋完善，Meta分析、两期调查数据差减及过程模型等方法估算的结果均证明（表1），近30年来中国农田表层SOC库总体增加，发挥了碳汇功能。其中，农田 $2 0 \mathrm { c m }$ 深度的土壤年固碳量在 $9 . 6 { - } 2 5 . 5 \mathrm { T g }$ 之间， $3 0 \mathrm { c m }$ 深度在11—$3 6 . 5 \mathrm { T g }$ 之间。单位耕地面积的固碳速率， $2 0 \mathrm { c m }$ 深度每年74 $\mathrm { \ 1 - 1 8 4 \mathrm { k g C / h a } }$ ， $3 0 \mathrm { c m }$ 深度则为每年 $8 5 - 2 8 1 \mathrm { k g C / h a }$ 。
+
+表1不同方法估算的中国农田土壤有机碳变化速率  
+
+<html><body><table><tr><td>估算方法</td><td>估算时段</td><td>面积 (Mha)</td><td>土壤深度 (cm)</td><td>变化速率 (Tg C/yr)</td><td>参考文献， 发表年份</td></tr><tr><td>DNDC模型</td><td>1990年</td><td>130</td><td>30</td><td>-95</td><td>[1]，2003</td></tr><tr><td>DNDC模型</td><td>1998年</td><td>96.8</td><td>30</td><td>-78.89</td><td>[2]，2006</td></tr><tr><td>Meta分析</td><td>1980-2000年</td><td>118</td><td>20</td><td>15.6-20.1</td><td>[3],2006</td></tr><tr><td>Meta分析</td><td>20世纪80代 -21世纪初</td><td>155.76</td><td>剖面</td><td>23.61</td><td>[4]，2007</td></tr><tr><td>Meta分析</td><td>1980-2000年</td><td>130</td><td>30</td><td>21.9 (16.6-27.8)</td><td>[5],2010</td></tr><tr><td>Meta分析</td><td>1985-2006年</td><td>138.7</td><td>20</td><td>25.5</td><td>[6]，2010</td></tr><tr><td>两期调查 数据差减</td><td>1980-2007年</td><td>130</td><td>20</td><td>9.6</td><td>[7],2011</td></tr><tr><td>Agro-C模型</td><td>1980-2009年</td><td>130</td><td>30</td><td>24.3 (11.0-36.5)</td><td>[8]，2012</td></tr><tr><td>DNDC+Century</td><td>1980-2008年</td><td>130</td><td>20</td><td>17.8</td><td>[9],2015</td></tr></table></body></html>
+
+# 1.2相对较低的初始SOC含量是中国农田土壤固碳的先决条件
+
+初始 SOC含量是影响 SOC变化的重要因素之一。初始 SOC含量对SOC变化的影响通常具有负基线效应，即初始 SOC含量高的地区土壤容易丢碳，而初始SOC含量低的地区则容易实现固碳。与西方发达国家相比，中国农田土壤除东北地区外，20世纪80年代的初始SOC库总体偏低，这不仅与我国农田土壤上千年的耕种和持续农业利用有关，也与盐碱土开垦耕地（如华北平原）、土壤侵蚀（如黄土高原）等因素有关。
+
+基于第二次全国土壤普查数据估算的中国农田20 世纪80年代初始SOC库（ $2 0 \mathrm { c m }$ 深度）基本处于26.6—32.5tC/ha之间[9-]，远低于美国农田的平均值 $4 3 . 7 \mathrm { t C / h a } ^ { [ 1 2 ] }$ 和欧洲农田的平均值 $4 0 . 2 \mathrm { t C / h a } ^ { [ 1 3 ] }$ 。中国农田相对较低的初始SOC含量，为利用化肥增加作物干物质产量从而提高土壤碳输入、促进农田土壤固碳提供了先决条件。
+
+# 1.3 作物增产及秸秆还田大面积推广在中国农田土壤碳汇形成中发挥了关键作用
+
+影响农田SOC变化的因素主要包括气候、土壤理化性质等自然因子，以及农业管理措施等人为因子。气候影响 SOC的积累和分解过程，而土壤质地、pH值、通气性和土壤结构等理化性质则是影响SOC库容量的重要因素。施肥、耕作、秸秆管理等农业措施影响土壤碳输入和输出；同时，相对于温度、降水、土壤黏粒含量等因子而言，施肥、耕作、秸秆管理等农业措施促进农田土壤固碳是现实途径。因此，从这一点来看，中国近30 年来农田土壤总体固碳必然与农业管理措施的变化历程密切相关。
+
+从我国农田施肥和秸秆利用的阶段性特点来看，20世纪80年代早期化学肥料投入非常有限，而农家肥使用较为普遍；作物秸秆则主要用于燃烧和饲料。随后，农田化肥投入和粮食产量均快速增长，而农家肥投入逐年降低，但作物秸秆还田依然非常有限。90年代后期，我国出现秸秆田间焚烧现象[14]。1999 年，原国家环保总局联合农业部、财政部等部门下发《秸秆禁烧和综合利用管理办法》的通知，禁止田间焚烧秸秆，引导秸秆综合利用。随后，秸秆还田在全国大规模推广。基于这些阶段性特点，从农田土壤碳输入变化角度来看，早期粮食产量的快速增长导致作物根系生物量增加从而显著增加了土壤碳输入；而随后秸秆还田的大规模推广则促进了作物地上生物量归还到土壤中。
+
+中科院战略性先导科技专项项目课题“中国农田土壤固碳潜力与速率研究”覆盖全国农田的11470 个点位的作物秸秆还田比例调查结果也表明（图1），2000年之前我国水稻、小麦和玉米三大作物的秸秆还田比例均不足 $2 5 \%$ ；但截至2010年，还田比例则分别达到了 $3 6 . 4 \%$ 、 $3 9 . 7 \%$ 和 $23 . 5 \%$ ，从而在中国农田土壤碳汇形成中发挥了巨大作用。
+
+![](images/6f60ebd8d331e2afdf268c474f9c5005fe5c296750fb8432f08413effaabb884.jpg)  
+图1　近30年来中国主要粮食作物的秸秆还田比例变化
+
+# 1.4 中国农田SOC库当前水平依然总体偏低，未来还有进一步增加的潜力
+
+“中国农田土壤固碳潜力与速率”课题基于2011年全国58个典型县4060个点位的SOC及容重等实测数据，估算的我国农田表层 $2 0 \ \mathrm { c m }$ 深度SOC库为32.34—$3 3 . 4 7 \mathrm { ~ t ~ C ~ } / \mathrm { h a }$ ，过程模型模拟的2010年全国农田平均 SOC上限为 $3 6 . 0 \mathrm { { t C / h a } ^ { [ 9 ] } }$ ，均还远低于欧盟同期的平均值 46.8 t C/ha[15,16]
+
+此外，全国95个水稻土长期施肥和秸秆还田试验、102个旱地长期施肥试验以及157个农田保护性耕作试验的Meta分析也表明，氮、磷、钾配施有机肥的固碳年速率可达 $0 . 3 7 { \pm } 0 . 0 4 \mathrm { g / k g }$ ，而传统耕作 $+$ 秸秆还田、免耕以及免耕 $+$ 秸秆还田也均能显著提高我国农田的SOC含量，固碳年速率分别可达 $0 . 2 2 \mathrm { g / k g }$ 、 $0 . 3 5 \mathrm { g / k g }$ 和 $0 . 5 2 \mathrm { g } / \mathrm { k g } ^ { [ 1 7 - 1 9 ] }$ 。
+
+因此，在当前中国农田SOC依然总体相对较低的条件下，通过优化农业管理措施，我国农田土壤固碳潜力仍然有进一步提升的空间。目前的长期试验外推、过程模型预估等结果也表明，尽管中国农田土壤固碳潜力估算结果差异还较大（表2），但可以确定的是SOC未来还有进一步增加的潜力。
+
+# 2 面临的挑战
+
+# 2.1现有机理过程模型有待进一步改进
+
+相对于两期调查数据差减及长期试验数据直接外推等方法的诸多局限性，过程模型整合了影响SOC动态的更多机理，能够反映气候、土壤、耕作管理等的空间变异性对SOC动态的影响，并且易于与土壤数据库、地理信息系统（GIS）、遥感等手段结合，因此已经成为大尺度 SOC变化速率及固碳潜力研究的主流方法。
+
+表2　不同方法估算的中国农田土壤固碳潜力  
+
+<html><body><table><tr><td colspan="2">方法</td><td></td><td>面积 (Mha)</td><td>深度 (cm)</td></tr><tr><td rowspan="2">长期试 验外推</td><td>统计模型+施肥、秸秆 还田、免耕情景[20]</td><td>60.7a</td><td></td><td>5.96-34.4 Tg/yr</td></tr><tr><td>农田SOC饱和水平统计 模型[11]</td><td>140</td><td>30</td><td>2.7 Pg</td></tr><tr><td>经验公 式估算</td><td>经验公式+NPP增速、 秸秆还田比例、免耕面 积情景[5</td><td>130</td><td>30</td><td>2-2.5 Pg (2000-2050年)</td></tr><tr><td rowspan="2">过程模 型模拟</td><td>Agro-C模型+产量、秸 秆还田比例达、免耕面 积情景[21]</td><td>130</td><td>30</td><td>20.3-88.4 Tg/yr (至2050年)</td></tr><tr><td>Century 模型、DNDC+ 少免耕、秸秆还田比 例、有机肥用量情景[]</td><td>130</td><td>20</td><td>0.12-0.71 Pg (2009-2028年)</td></tr></table></body></html>
+
+耕地中具有大规模秸秆还田及优化施肥的面积
+
+多库土壤碳周转模型（如RothC、Century等）在揭示不同尺度SOC库的变异性以及由于管理措施和土地利用变化而导致的土壤碳库变化方面均被证明是有效的，但在SOC对气候变化响应的适用性方面还有争议，主要问题是离散分库划分中的难分解/惰性碳库对温度变化的响应是否像假定的那样敏感性很小[22]。同时，多库土壤碳周转模型中，微生物作物分解者的作用也被隐含在分解速率常数中，没有明确表达。
+
+而目前新出现的微生物模型则直接把土壤碳周转和微生物生物量及生理机能耦合，对于探讨全球变暖和 SOC间的反馈很有用[23。但是，该方法还存在震荡效应及对碳输入响应的不敏感性等问题。
+
+因此，对农田土壤来说，在模型方面如何能同时有效的反映管理措施及气候变化对SOC的影响，还面临巨大挑战。
+
+# 2.2土壤基础数据分辨率低、更新慢、缺乏生物学指标
+
+中国土壤资源丰富多样、空间分异明显。同时，在农业高强度利用、工业化及城镇化进程快速发展的背景下，土壤资源受人为活动影响强烈，土壤属性的变异性极强。土壤基本属性信息（SOC、容重、机械组成、pH值等）是固碳潜力估算模型的最基本驱动数据，同时SOC等直接观测数据也是模型参数校正及估算结果验证的关键。
+
+然而，在初始土壤条件信息方面，目前可用的最精细的国家尺度土壤数据也仅为基于20世纪80年代第二次全国土壤普查成果建立的1:1000000土壤数据库。相较我国土壤的变异性而言，该数据的分辨率依然偏低。在模型参数校正及估算结果验证方面，目前可用的主要是不同地区零散的土壤调查及SOC数字制图数据。这些数据对我国典型农田区的空间覆盖不够完整，覆盖的时段则更少。此外，土壤基础信息的更新非常慢，或者说在国家尺度上基本没有更新。同时，表征土壤生物属性的微生物量、微生物多样性等空间分布基础信息极度缺乏，严重制约了国家尺度农田土壤固碳潜力研究
+
+# 2.3缺乏不确定性的定量评估，制约了应用效果
+
+由于土壤有机质形成机理和周转过程认识、观测数据误差、时空分辨率及可获取性等因素限制，农田SOC变化速率及固碳潜力估算结果中必然包含一定的不确定性。这些不确定性会通过随后的分析及应用过程加以传递，从而对土壤资源可持续管理决策产生重大影响。
+
+然而，目前土壤评估结果所提供的不确定性定量信息非常有限，综合考虑模型结构、内部参数及外部驱动数据不确定性的评估更少。中国国家尺度农田土壤固碳潜力及速率估算的不确定性空间分布信息则基本没有，在很大程度上制约了相关研究成果在国家农田土壤碳分区管理及指导土壤资源可持续利用中的实际应用效果。
+
+# 3行动建议
+
+# 3.1加强土壤有机质分解对温度变化响应的敏感性等基础研究
+
+目前，关于土壤有机质分解对温度变化响应的敏感性尚存很大争议，这也是未来气候变化条件下，土壤对大气 $\mathrm { C O } _ { 2 }$ 正负反馈的综合效应估算存在很大不确定性的主要原因之一。温度直接影响有机质分解速率，同时，环境因子也对土壤有机质分解产生影响，而环境因子本身也受气候变化影响。例如，气候和管理措施影响团聚体的形成，而团聚体对土壤有机质具有物理保护作用;温度影响有机质在矿物表面的吸附和解吸的化学过程;气候驱动的水平衡决定了土壤水膜的厚度，而可溶性有机碳和胞外酶通过土壤水膜进行扩散等。
+
+因此，加强土壤有机质分解的温度敏感性等基础研究工作，对于改进现有SOC周转过程模型、准确估算 SOC变化速率和固碳潜力具有重要意义。
+
+# 3.2 强化数字土壤制图研究，丰富土壤基础数据，建立国家土壤信息服务平台
+
+基于土壤空间变异先验信息建立土壤采样优化设计方案，整合遥感、近感、高光谱分析等技术，建立土壤基本属性快速获取方法，有效地降低土壤数据获取成本。加强土壤空间变异驱动因子定量识别研究，建立高强度人为作用影响下平原区农田土壤属性三维预测制图方法，为固碳潜力估算提供精细的土壤驱动数据。
+
+建立土壤生物学指标的空间分布图以提供更全面的验证数据；建立历史土壤图的降尺度及空间和属性数据融合新方法，实现土壤遗产数据的高效利用，为固碳潜力研究提供高分辨率的初始土壤条件信息；建立包含多元土壤信息库、多服务模式的国家土壤信息服务平台，有效整合农田长期试验、土壤及农业管理措施区域调查等观测数据，实现土壤基础信息的有效共享，推进中国农田土壤固碳潜力研究。
+
+# 3.3建立系统化的研究方法体系，强化研究成果对土壤资源管理决策的支持作用
+
+以土壤有机质形成机理和周转过程研究为基础，改进现有SOC过程模型，以数字土壤制图获取的SOC、微生物量碳等多时段空间分布数据为依托，结合数据同化方法，实现模型内部参数校正以及固碳潜力估算结果的不确定性定量评估。整合模型结构改进、参数敏感性分析、参数校正、模型结构、参数及外部驱动数据的不确定性，建立系统化的中国农田土壤固碳速率及潜力研究方法体系。加强以SOC变化与相关政策关联性为切入点的研究工作，强化中国农田土壤固碳与相关政策之间的反馈研究，为我国土壤资源可持续利用管理提供强大的战略决策支撑。
+
+# 参考文献
+
+1 Li C S, Zhuang Y H,Frolking S,et al. Modeling soil organic carbon change in croplands of China.Ecol Appl,2003,13(2): 327- 336.   
+2Tang HJ, Qiu JJ, Van Ranst E,et al. Estimations of soil organic carbon storage in cropland of China based on DNDC model. Geoderma,2006,134(1-2): 200-206.   
+3Huang Y, Sun W J. Changes in topsoil organic carbon of croplands in mainland China over the last two decades. Chinese Sci Bull, 2006,51(15): 1785-1803.   
+4Xie ZB,Zhu JG,Liu G,et al. Soil organic carbon stocks in China and changes from 1980s to 2000s. Global Change Biology, 2007, 13(9): 1989-2007.   
+5Sun W J, Huang Y, Zhang W, et al. Carbon sequestration and its potential in agricultural soils of China. Global Biogeochem Cy, 2010,24,doi:10.1029/2009GB003484.   
+6Pan G X,Xu X W, Smith P, et al.An increase in topsoil SOC stock of China's croplands between 1985 and 2006 revealed by soil monitoring.Agr Ecosyst Environ,2010,136(1-2): 133-138.   
+7Yan X Y, Cai Z C,Wang S W, et al. Direct measurement of soil organic carbon content change in the croplands of China. Global Change Biology,2011,17(3): 1487-1496.   
+8Yu Y Q, Huang Y, Zhang W. Modeling soil organic carbon change in croplands of China,1980-2009.Global Planet Change,2012, 82-83: 115-128.   
+9 赵永存,于东升,董琳琳,等.中国农田碳源汇分布及其驱动因
+
+子分析//全球陆地碳汇的遥感和优化计算方法.北京：科学出版社,2015:195-232.
+
+10 Song G H, Li L Q,Pan G X, et al. Topsoil organic carbon storage of China and its loss by cultivation.Biogeochemistry,20o5,74(1): 47-62.
+
+11 Qin Z C, Huang Y, Zhuang QL. Soil organic carbon sequestration potential of cropland in China.Global Biogeochem Cy,2013, 27(3): 711-722.
+
+12 Guo Y Y,Gong P,Amundson R,et al.Analysis of factors controlling soil carbon in the conterminous United States.Soil Science Society of America Journal,2006,70(2): 601-612.
+
+13SmithP,PowlsonD S,Smith JU,etal.Meeting Europe's climate change commitments: quantitative estimates of the potential for carbon mitigation by agriculture.Global Change Biology,2000, 6(5): 525-539.
+
+14 Miao Y X,Stewart BA,Zhang F S.Long-term experiments for sustainable nutrient management in China—A review.Agron Sustain Dev,2011,31(2): 397-414.
+
+15Lugato E,Panagos P,Bampa F,et al.A new baseline of organic carbon stock in European agricultural soils using a modelling approach.Global Change Biology,2014,20(1): 313-326.
+
+16Panagos P,Van Liedekerke M, Jones A,etal.European Soil Data Centre:Response to European policy support and public data requirements.Land Use Policy,2012,29(2):329-338.
+
+17 Tian K, Zhao YC,Xu XH,et al.Effects of long-term fertilization and residue management on soil organic carbon changes in paddy soils of China:A meta-analysis.Agr Ecosyst Environ, 2015,204: 40-50.   
+18 田康,赵永存,邢喆,等.中国保护性耕作农田土壤有机碳变化 速率研究—基于长期试验点的Meta分析.土壤学报,2013, 50(3): 433-440.   
+19 田康,赵永存,徐向华,等.不同施肥下中国旱地土壤有机碳变 化特征——基于定位试验数据的Meta分析.生态学报，2014, 34(13): 3735-3743.   
+20 Lu F,Wang X K,Han B,et al. Soil carbon sequestrations by nitrogen fertilizer application,straw return and no-tillage in China's cropland. Global Change Biology,2009,15(2): 281-305.   
+21 Yu Y Q, Huang Y, Zhang W. Projected changes in soil organic carbon stocks of China's croplands under different agricultural managements,2011—2050.Agr Ecosyst Environ,2013,178:109- 120.   
+22 Davidson EA, Janssens IA.Temperature sensitivity of soil carbon decomposition and feedbacks to climate change.Nature,2006, 440(7081): 165-173.   
+23 Wieder W R,Bonan G B,Allison S D.Global soil carbon projections are improved by modelling microbial processes. Nat Clim Change,2013,3(10): 909-912.
+
+# Carbon Sequestration Potential in Chinese Cropland Soils: Review, Challenge, and Research Suggestions
+
+ZHAO Yongcun\*XU ShengxiangWANG Meiyan SHI Xuezheng (State KeyLaboratory of Soiland Sustainable Agriculture,Institute of Soil Science, Chinese Academy of Sciences,
+
+Nanjing 210008,China)
+
+AbstractSoiloanicbo(OCasthoreofsilrtilityectsslalityctiodopruco,dplale globalclimatechangeSoilresourcesinChinaarefacingmultiplechalengessuchasmaintainmentandimprovementoffoodsecurityand ecosystemfunctioingndtigationofiatehange.onseqentlyfomatioandowedgeoangesinOCinseoplad areextremelyimportantfrtesustainableutliationoftesoilresourcesinthecountryThispaperfirstreviewsthecommonviwsoSOC sequestrationrateandotetialininesecoplandatteatialsalendthpotsouttheposiblealengesthataecingforte researchcomuitisndallopesarchuggstiosfroesctsoflancatoerproessiliai service platfomconstruction,andtheconectionsbetweeSOCsequestrationresearchandagrculturalmanagementdecisionsupport.
+
+KeywordsChinese cropland,soil organic carbon (SOC),rate of change,carbon sequestration potential赵永存中国科学院南京土壤研究所研究员，土壤资源与遥感应用研究室主任。长期从事土壤空间变异性及空间预测、土壤有机碳储量估算及尺度效应、农田土壤有机碳时空演变模拟及不确定性评估等方面的研究工作。发表研究论文130余篇，其中SCI论文70余篇。E-mail:yczhao@issas.ac.cn
+
+![](images/28b5598585bb44317cff5f1367b9bf05ee7e89fa8b49995e9be8d63a65db7862.jpg)
+
+ZHAOYongcun Professor of soil science at the Institute of Soil Science,Chinese Academy of Sciences. His current research is mainly concentrated on spatial variability,spatial prediction (soil-landscape modeling, pedometrics),sampling design, uncertainty assessment for mapping soil properties,and dynamic modellng of oilrganiccarboninoplandofChina,estimatesofcarbonsequestrationpotentialincoplandofChinaunderrecommendedmaagement ractices.Hehaspublishedmorethanl30researchpapers,inhichmore tan70ofthemareSCIindexed.E-mail:yczhao@ias.ac.cn

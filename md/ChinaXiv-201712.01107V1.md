@@ -1,0 +1,121 @@
+临床研究
+
+# 冠心病患者血清I型胶原羧基末端肽的表达变化及临床意义
+
+邓意,陈立珩，王先宝，宋旭东，凌苑娜,陈爱华,杨平珍，郭敬宾,阙冬冬，陈贵明南方医科大学珠江医院心内科，广东广州 510280
+
+摘要：目的 检测冠心病患者血清中I型胶原羧基末端肽(ICTP)的水平变化，探讨其与MMP-2、MMP-9相关性,及在冠心病中的临床意义。方法纳人2013年10月\~2014年03月在我院门诊和住院的冠心病患者103例，其中稳定型心绞痛(SAP)患者39例,不稳定型心绞痛(UA)患者39例,急性心梗(AMI)患者25例，选取38名非冠心病患者为对照组(Control,C)。留取研究对象$5 \mathrm { m l }$ 静脉血,用夹心酶联免疫吸附法(ELISA)检测静脉血清(基质金属蛋白-2）、MMP-9、ICTP水平,组间比较采用单因素方差分析。结果 SAP与C组比较,血清MMP-2,MMP-9,ICTP水平稍增高, $P { > } 0 . 0 5$ 。UA组与SAP组、C组比较血清MMP-2、MMP-9、ICTP水平升高， $P { < } 0 . 0 5$ 。AMI组与SAP组及C组比较，血清MMP-2、MMP-9、ICTP升高， $P { < } 0 . 0 5$ 。AMI组与UA组比较，血清MMP-2、MMP-9、ICTP均无显著差异， $P { > } 0 . 0 5 ,$ 。ICTP与MMP-2、MMP-9都具有正相关性( $P { < } 0 . 0 5 )$ ;与斑块纤维组成比例呈负相关，与脂质比例呈正相关 $( P { < } 0 . 0 5 )$ 。结论 冠心病患者血清ICTP水平升高可提示粥样斑块的不稳定性，与MMP-2水平相关，可作为无创性的ACS的预测指标。
+
+关键词：冠心病；I型胶原羧基末端肽;基质金属蛋白酶
+
+# Changes in serum level of carboxy-terminal telopeptide of type I collagen in patients with coronary heart disease
+
+DENG Yi, CHEN Liheng，WANG Xianbao，SONG Xudong,LING Yuanna,CHEN Aihua,YANG Pingzhen,GUO Jingbin，QUE Dongdong, CHEN Guiming Departmentof Cardiology, Zhujiang Hospital, Southern Medical University, Guangdong,Guangzhou 510280
+
+Abstract: ObjectiveToinvestigate theserum levelofcarboxy-terminaltelopeptideof typeIcollagen (ICTP)and explore its correlation with MMP-2 and MMP-9 in patients with coronary artery disease (CHD). Methods A total of $1 0 3 \mathrm { \ C H D }$ patients treated inourosptaltweenctober,23anday014wereerolled,nuing39ithablenginapctors(),9 with unstable angina (UA),and25withacute myocardialinfarction (AMI), with 38non-CHDvolunteers asthecontrol group. The serum levels of ICTP,MMP-2,and MMP-9 weredetected inal thesubjectsusing enzyme-linked immunosorbentassay (ELISA).ResultsNosignificantdiference inserumlevelsofMMP-2,MMP-9,orICTPwasfoundbetweenthecontrolandSAP groups or between UA and AMI groups $( P { > } 0 . 0 5 )$ , but the latter two groups had significantly higher serum levels of MMP-2, MMP-9, and ICTP than the former two groups $( P { < } 0 . 0 5 )$ . Serum ICTP level was found to negatively correlated with the fibrotic area and positively with the lipid component in the plaques $_ { ( P < 0 . 0 5 ) }$ . Regression analysis revealed significant positive correlations of serum ICTP with MMP-2 and MMP-9 $( P { < } 0 . 0 5 )$ . Conclusions An elevated serum ICTP level is indicative of the presence of unstable plaques in CHD patients.Serum ICTP is more strongly correlated with MMP-2 than with MMP-9,and can be used as anon-invasive marker for asessing vulnerable plaques in patients with acute coronary syndrome. Key words: coronary heart disease; carboxy-terminal telopeptide of type Icollagen; matrix metalloproteinase
+
+心血管疾病是全球发病率死亡率最高的疾病[]我国冠心病的发病率正逐年攀升，并呈现年轻化趋势。冠脉造影是目前诊断冠心病的“金指标”，而有创的冠脉造影在很多身体条件差及对造影剂过敏的患者中很难得到应用，且不能检测早期冠状动脉粥样硬化(AS)，也不能预测急性冠脉综合征(ACS)发生。因此，探寻科学的可早期筛查冠心病或能预测ACS的无创指标具有重要的临床意义。
+
+动脉粥样硬化斑块中富含I型胶原，经过巨噬细胞分泌的基质金属蛋白(MMPs)催化，I型胶原被降解。I型胶原羧基末端肽(carboxy-terminal telopeptide oftypeIcollagen,ICTP)是MMPs依赖性的I型胶原的降解产物2。因此，血清ICTP水平或许是能提示不稳定性斑块的血清指标。MMPs同样对斑块的稳定性也用重要的调节作用[3]。除此之外，炎症反应贯穿于动脉粥样硬化发生发展的整个过程4，炎症因子水平变化能提示AS斑块的演变，与冠心病的严重程度相关5。因此，本研究检测稳定性心胶痛(SAP)及ACS患者血清ICTP、MMP-2、MMP-9水平，从临床角度,进一步探讨ICTP与冠心病不同阶段的关系及意义。
+
+# 1资料和方法
+
+# 1.1研究对象
+
+2013年10月\~2014年03月在我院心内科门诊和住院的冠心病患者103名，其中SAP患者39例，UA患者39例，AMI患者25例，其中11例SAP患者、12例UA患者及6例AMI患者行血管内超声仪(intravenousultrasound,IVUS)检测，并纳入38名非动脉粥样硬化患者为Conrol(C)组。SAP诊断参考2006年欧洲心脏学会(ESC)的诊断标准[。UA诊断参考美国心脏病学学会/美国心脏协会(ACC/AHA)诊断标准[7]。AMI诊断标准参考ESC的诊断标准8。排除标准(符合一条即排除)：(1)有恶性肿瘤病史；(2)严重肝肾功能不全；(3)明确的血液系统疾病；(4)明确的免疫性疾病等炎性疾病；(5)明确的甲亢等甲状腺疾病；(6)其他引起胸痛的原因如肺栓塞、心肌病、主动脉瘤、心脏瓣膜病及充血性心里衰竭等；(7)上呼吸道、肝脏、肾脏等感染性疾病。所有入组对象的一般临床资料包括年龄、性别、体质量指数(BMI）、血压、血脂及是否吸烟(表1)。
+
+# 1.2 方法
+
+冠心病组患者采集静脉血 $5 ~ \mathrm { m l }$ ，静置 $2 \mathrm { ~ h ~ }$ 后，3000r,水平离心 $3 \mathrm { m i n }$ ，收集血清 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冻存备用。收集健康体检人员静脉血 $5 \mathrm { m l }$ ，处理方法同上。用夹心酶联免疫吸附法(ELISA)检测血清MMP-9、MMP-2、ICTP、CRP、IL-6浓度，人血清MMP-9、MMP-2、ICTPCRP、IL-6检测试剂盒为杭州生物联科公司、武汉华美公司提供。操作步骤按照试剂盒说明进行。IVUS为BostonScientific公司生产iLab型号，采用 $3 \mathrm { F 4 0 M H z }$ 单轨机械探头，所有超声图像通过一自动回辙系统获得，回辙速度为 $1 \mathrm { m m / s }$ ，所有数据记录在录像带上，选择每例最狭窄部位进行分析，收集最狭窄管腔面积、外弹力膜面积、斑块负荷及各种斑块组成比例数据，最狭窄斑块面积为最狭窄处外弹力膜面积减去最狭窄处管腔面积
+
+# 1.3统计学分析
+
+应用SPSS13.0软件进行数据处理,用GraphPadPrism5.01做统计图，计量资料以均数 $\cdot \pm$ 标准差表示，计量资料比较采用单因素方差分析，计数资料采用卡方检验。计数资料采用卡方检验方法进行， $P { < } 0 . 0 5$ 时认为差异有统计学意义。
+
+# 2结果
+
+# 2.1一般临床资料比较
+
+SAP组患者男17名，女22名，平均年龄59.3岁；UA组患者男17名，女22名，平均年龄61.2岁；健康对照组中男16名，女22名，平均61.0岁。AMI组男11名，女14名，平均年龄59.5岁；各组年龄、性别、BMI及血压、血脂水平等比较差异无明显统计学意义， $P { > } 0 . 0 5$ ,具有可比性(表1)。
+
+表1患者基本临床资料 Tab.1 General clinical data of the patients in different groups (Mean±SD)   
+
+<html><body><table><tr><td>Group</td><td>n</td><td>Age (years)</td><td>Gender (M/F)</td><td>BMI (kg/m²)</td><td>Hypertension (cases)</td><td>TG (mmol/L)</td><td>LDL (mmol/L)</td><td>Smoking(cases)</td></tr><tr><td>SAP</td><td>39</td><td>59.3±5.0</td><td>17/22</td><td>24.7±2.9</td><td>9</td><td>4.2±1.3</td><td>3.4±1.4</td><td>16</td></tr><tr><td>UA</td><td>39</td><td>61.2±6.3</td><td>17/22</td><td>24.2±4.6</td><td>10</td><td>4.5±1.2</td><td>3.5±1.5</td><td>15</td></tr><tr><td>AMI</td><td>25</td><td>59.5±5.9</td><td>11/14</td><td>25.4±3.7</td><td>6</td><td>4.9±2.4</td><td>3.8±1.6</td><td>9</td></tr><tr><td>C</td><td>38</td><td>61.0±5.7</td><td>16/22</td><td>23.5±3.0</td><td>7</td><td>4.1±1.1</td><td>3.2±0.9</td><td>14</td></tr></table></body></html>
+
+# 2.2各组血清ICTP水平比较
+
+SAP组与对照组比较，血清ICTP水平稍增高， $P >$ 0.05，无显著差异；UA组与SAP组、对照组比较血清ICTP水平升高， $P { < } 0 . 0 5$ ，有显著差异;AMI组与SAP组、对照组比较血清ICTP水平升高， $P { < } 0 . 0 5$ ,有显著差异，UA组与AMI组比较，ICTP升高不明显， $P { > } 0 . 0 5$ ，无显著差异(图1)。
+
+2.3SAP组及UP-AMI组IVUS斑块组成分析图，如图2IVUS管腔最狭窄处斑块数据比较：SAP组与UA-AMI组比较，最狭窄斑块面积、斑块负荷，有显著性差异， $P { < } 0 . 0 5$ ;斑块纤维组成、脂质、坏死比例,有显著差异， $P { < } 0 . 0 5$ ;最狭窄管腔面积、钙化，无显著性差异， $P >$ $0 . 0 5$ 。最狭窄处斑块等数据与ICTP相关性分析：纤维组成比例，脂质与ICTP具有相关性，分别为 $r { = } { - } 0 . 3 7 , r { = }$ $0 . 3 5 , P { < } 0 . 0 5$ ,最狭窄处斑块面积、管腔面积、斑块负荷以及坏死组成比例、钙化组成比例与ICTP无相关性0 $\mathrm { \ P { > } 0 . 0 5 }$ ,表2)。
+
+# 2.4各组血清MMP-2、MMP-9、CRP、IL-6水平比较
+
+SAP组与对照组比较，血清MMP-2,MMP-9水平稍增高， $P { > } 0 . 0 5$ ,无显著差异;血清CRP、IL-6水平升高，
+
+![](images/ab8ef2ae548ed5b9d7681ca20552ee5bb06505df2fb8c90a627ed0de1a47eaa5.jpg)  
+图1各组血清ICTP水平比较 Fig.1 Serum levels of ICTP in different groups.
+
+$P { < } 0 . 0 5$ ,有显著差异。AMI组、UA组与SAP组、对照组比较血清MMP-2、MMP-9、CRP、IL-6水平升高， $P <$ 0.05,有显著性差异。AMI组与UA组比较，血清MMP-2、MMP-9、CRP均无显著差异， $P { > } 0 . 0 5$ ,IL-6增加明显， $P { < } 0 . 0 5$ ,有显著差异(表3)。
+
+2.5血清ICTP与MMP-2、MMP-9相关性分析
+
+血清ICTP与MMP-2,MMP-9相关性分析，ICTP与MMP-2相关性为0.272 $2 , P { < } 0 . 0 5$ ;ICTP与MMP-9相关性为0.221( $_ { P < 0 . 0 5 }$ ，图3)。
+
+# 3讨论
+
+冠心病是多种遗传和环境因素共同作用引起的复杂疾病，其易患因素众多，主要是年龄、性别、高血压、糖
+
+![](images/43b2f4f5a167072c43c56cbe2ef2426e763a78ee33321df2b7f43856639e93fd.jpg)  
+图2SAP组和UAP-AMI组IVUS斑块组成分析图
+
+Fig.2Intravascular ultrasound-virtual histology for assessing the composition of the atherosclerotic coronary lesions in SAP and UA-AMI patients.The green area represents the fibrous tissue,the yellow area the lipidic tissue,and the purple area the necrotic tissue; the blue area indicates calcification.
+
+表2SAP与UAP-AMI组IVUS斑块数据比较及与ICTP相关性分析  
+Tab.2Plaque data analysis by IVUS in SAPand UAP-AMI groupsand regression analysis of therelationship between serumICTPandplaquedata(Mean±SD)   
+
+<html><body><table><tr><td></td><td>SAP</td><td>UA-AMI</td><td>P</td><td>Correlation with ICTP</td><td>P</td></tr><tr><td>n</td><td>11</td><td>18</td><td></td><td></td><td></td></tr><tr><td>MLA, mm²</td><td>6.21±3.50</td><td>5.15±2.81</td><td>0.38</td><td>0.21</td><td>0.278</td></tr><tr><td>Plaque area of MLA, mm²</td><td>6.34±2.42</td><td>9.25±2.41</td><td>0.004</td><td>0.34</td><td>0.067</td></tr><tr><td>Plaque stress, %</td><td>51.90±16.30</td><td>64.94±6.70</td><td>0.027</td><td>0.07</td><td>0.706</td></tr><tr><td>Fibrous area of MLA, %</td><td>79.64±6.44</td><td>70.94±8.33</td><td>0.006</td><td>0.37</td><td>0.043</td></tr><tr><td>Lipid area of MLA, %</td><td>7.45±2.91</td><td>10.83±3.03</td><td>0.006</td><td>0.35</td><td>0.002</td></tr><tr><td>Necrosis area of MLA, %</td><td>10.45±4.32</td><td>17.56±6.86</td><td>0.005</td><td>0.32</td><td>0.087</td></tr><tr><td>Calcium area of MLA, %</td><td>2.18±3.14</td><td>0.61±1.50</td><td>0.16</td><td>0.30</td><td>0.113</td></tr></table></body></html>
+
+MLA,minimum luminal area.
+
+尿病等。AS是其病理基础，随后可出现SAP，当不稳定斑块形成后，可出现UA，当病情进一步发展，最终可导致AMI,威胁生命。由于冠脉造影存在缺陷，因此探寻无创且能反应冠心病病情或者AS斑块的指标具有重要
+
+的临床意义。
+
+细胞外基质的构成成分影响斑块的稳定性，MMPs是一类具有切割细胞外基质成分功能的的锌依赖性肽链内切酶,MMP-2、MMP-9属于明胶酶类,主要功能是切割IV、V、VI、X型胶原和弹性蛋白以及胶原酶作用后的I、Ⅱ、Ⅲ型胶原，能促进斑块形成并减少斑块的体积。斑块的稳定性取决于纤维帽。MMP-2的分泌主要会降解斑块纤维帽，导致不稳定斑块的形成，其在冠脉粥样斑块中非常活跃,它的激活与斑块钙化有关[10];Galis在MMP-9基因敲除小鼠中发现，MMP-9的缺乏可导致血管内膜斑块明显减少和管腔消失，胞外基质增加，推测MMP-9的抑制将会使动脉血管壁更加坚固[1-12]。研究发现SAP和UA患者巨噬细胞MMP-2、MMP-9的表达和分泌较C组明显增加[13]。研究发现MMP-2、MMP-9水平从C组,SAP组，UA组，AMI组依次递增，提示其水平与疾病严重程度相关[14]。UA与SAP组比较,MMP-2,MMP-9均明显增加,提示MMPs可参与不稳定斑块的形成，MMP-2和MMP-9升高可提示AS斑块的不稳定性;但是SAP组与C组比较无统计学意义，与Kai等人研究结果一致15，提示MMP-2、MMP-9在早期AS斑块形成过程中作用不大。
+
+表3各组血清MMP-2、MMP-9.CRP、IL-6水平比较Tab.3 Serum levels of MMP-2, MMP-9, CRP,and IL-6 in different groups (Mean±SD)  
+
+<html><body><table><tr><td>Group</td><td>n</td><td>MMP-2 (ng/mL)</td><td>MMP-9 (ng/mL)</td><td>CRP (mg/L)</td><td>IL-6 (pg/mL)</td></tr><tr><td>SAP</td><td>39</td><td>1.45±1.02</td><td>317.53±89.17</td><td>3.78±1.38**</td><td>116.00±48.20***</td></tr><tr><td>UA</td><td>39</td><td>2.34±1.47**#</td><td>393.04±185.46*</td><td>4.69±1.59****#*</td><td>164.78±51.41***</td></tr><tr><td>AMI</td><td>25</td><td>3.44±1.89***排</td><td>463.18±222.09*#</td><td>5.39±1.95***#*</td><td>196.45±59.85***</td></tr><tr><td>C</td><td>38</td><td>1.36±0.89</td><td>302.15±84.33</td><td>2.63±1.19</td><td>67.39±49.34</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ $* * P { < } 0 . 0 1$ $^ { * * * } P { < } 0 . 0 0 1$ vs C group; $^ { \# } P { < } 0 . 0 5$ $^ { \# \# } P < 0 . 0 1$ $^ { \# \# \# } P { < } 0 . 0 0 1$ vs SAP group; $^ { * } P { < } 0 . 0 5$ $^ { * * } P { < } 0 . 0 1$ $^ { * * * } P { < } 0 . 0 0 1$ vs UA group.
+
+![](images/7545bd4ca207ea76b38e187081b8b98cf75fc134539e09ac83f92da95fd15288.jpg)  
+图3ICTP与MMP-2、MMP-9相关性分析Fig.3 Regression analysis of the correlation of serum ICTP with MMP-2 and MMP-9.
+
+AS病灶含较多的I型胶原，巨噬细胞侵入病灶后分泌MMPs,催化降解I型胶原,破坏AS斑块的结构，分解生成ICTP[2]。目前ICTP是转移性骨肿瘤的指标[16],与其他的转移性骨肿瘤指标相比，ICTP不受组织蛋白酶K的催化和破骨细胞的骨吸收的影响[17]。新近研究表明,在排除骨肿瘤的冠心病患者，血清ICTP水平高低与斑块核心坏死面积大小有关，或可提示不稳定斑块的形成[2。本研究结果显示，UA组、AMI组比SAP组、C组的ICTP水平明显升高，而SAP组与C组，AMI组与UA组ICTP无明显差异。斑块稳定性与许多斑块数据有关，Nasu等18认为斑块稳定性与坏死组成比例相关，而斑块纤维比例与坏死比例呈负相关，而斑块脂质比例越高，斑块越易坏死破裂，因此三者皆是斑块稳定性的良好指标[19],结合人选病例IVUS管腔最狭窄处斑块数据,与ICTP相关性分析，提示ICTP升高与不稳定斑块的形成相关，或不参与AS斑块的早期形成，其升高可见于不稳定斑块的形成，或可作为临床指标。在无骨肿瘤时，ICTP的形成主要来源于MMPs的降解，ICTP与MMPs相关性分析，结果提示，MMP-2与ICTP相关性更高，可能与MMP-2能降解I型胶原，而MMP-9无这种作用有关。MMP-9升高可能与整体MMPs增加有关[0]。CRP、IL-6等炎症因子，在AS斑块的结构变化,冠心病病情进展具有重要作用，其水平与冠心病病情严重程度关系密切[5,20-21]。与CRP、IL-6相比,ICTP在SAP组中升高不明显，或不能提示早期冠心病，而在UA组中，ICTP升高，表明炎症因子参与AS斑块早期形成，并且炎症因子的水平能提示AS斑块的演变。
+
+综上所述，患者血清CRP、IL-6水平与冠心病发生发展密切相关，且其水平与冠心病的疾病严重程度一致，结合临床，这些因子升高可提示早期冠心病的患病风险。MMP-2、MMP-9水平在SAP组中与C组中无明显差异，不能用于冠心病的早期筛查，但其升高能提示AS斑块的不稳定性。ICTP在国内暂无类似研究，根据其产生原理及本研究结果提示，ICTP与MMPs类似，其升高能提示斑块的不稳定性，不能用于提示早期冠心病。由于本研究样本量较小,今后还需进一步扩大样本量并通过严格设计的临床试验来证实，冠心病的早期治疗及临床诊治提供新的无创指标。
+
+# 参考文献：
+
+[1]Isaacs A,Willems SM,Bos D,et al. Risk scores of common genetic variants for lipid levels influence atherosclerosis and incident coronary heart disease[J].Arterioscler Thromb Vasc Biol,2013,33 (9): 2233-9.   
+[2]Kato S,Endo I,Fujimura M,et al. Serum carboxy-terminal telopeptide of type I collagen (ICTP）as a surrogate marker for vulnerable plaques in atherosclerotic patients:A pilot study [J]. Atherosclerosis,2013,229(1):182-5.   
+[3]Mittal B,Mishra A, Srivastava A,et al.Matrix metalloproteinases in coronary artery disease[J].Adv Clin Chem,2014,64:1-72.   
+[4]Manduteanu I, Simionescu M. Inflammation in atherosclerosis:a cause or a result of vascular disorders?[J].JCell Mol Med,2012,16 (9): 1978-90.   
+[5]Pant S,Deshmukh A,Gurumurthy GS,et al. Inflammation and atherosclerosis--revisited[J].JCardiovasc Pharmacol Ther,2014,19 (2): 170-8.   
+[6]Messerli FH,Mancia G,Conti CR,et al.Guidelines on the management of stable angina pectoris: executive summary: the task force on the management of stable angina pectoris of the European society of cardiology[J].Eur Heart J,2006,27(23): 2902-3.   
+[7]Anderson JL,Adams CD,Antman EM,et al.2011 ACCF/AHA focused update incorporated into the ACC/AHA 2OO7 guidelines forthemanagementofpatientswithunstableangina/ Non-ST-Elevation myocardial infarction:a report of the American college of cardiology foundation/American heart association Tas[J]. Circulation,2011,123(18): e426-579.   
+[8]Task Force on the management of ST-segment elevation acute myocardial infarction of the European Society of Cardiology (ESC)，Steg PG,James SK，et al.ESC guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation[J].Eur Heart J,2012,33(20): 2569-619.   
+[9]Cheng XW,Kikuchi R, Ishi H, et al. Circulating cathepsin K as a potentialnovel biomarkerofcoronaryarterydisease [J]. Atherosclerosis,2013,228(1):211-6.   
+[10] Jones CB,Sane DC,Herrington DM. Matrix metalloproteinases: a review of their structure and role in acute coronary syndrome[J]. Cardiovasc Res,2003,59(4): 812-23.   
+[11]Galis ZS,Khatri J.Matrix metalloproteinases in vascular remodeling and atherogenesis: the good,the bad,and the ugly[J]. Circ Res,2002,90(3): 251-62.   
+[12] Choi ET, Collins ET,Marine LA,et al. Matrix metalloproteinase-9 modulation by resident arterial cells is responsible for injuryinducedacceleratedatheroscleroticplaquedevelopmentin apolipoprotein E-deficient mice[J].Arterioscler Thromb Vasc Biol, 2005,25(5):1020-5.   
+[13]Bäck M, Ketelhuth DF,Agewall S.Matrix metalloproteinases in atherothrombosis[J]. Prog Cardiovasc Dis,2010,52(5): 410-28.   
+[14]唐其东,吴平生,候玉清,等.急性冠脉综合征和冠脉慢性完全闭塞患 者MMP2、MMP9升高及临床意义[J].南方医科大学学报,2009,29 (5): 1004-7.   
+[15]Kai H, Ikeda H,Yasukawa H,et al.Peripheral blood levels of matrix metalloproteases-2 and -9 are elevated in patients with acute coronary syndromes[J].JAm Coll Cardiol,1998,32(2): 368-72.   
+[16]Fardellone P, Sejourne A,Paccou J，et al. Bone remodelling markers in rheumatoid arthritis [J].Mediators Inflamm,2014: 484280.   
+[17]Koizumi M,Takahashi S,Ogata E.Comparison of serum bone resorption markers in the diagnosis of skeletal metastasis [J]. Anticancer Res,2003,23(5b): 4095-9.   
+[18]Nasu K, Tsuchikane E,Katoh O,et al. Accuracy of in vivo coronary plaque morphology assessment: a validation study of in vivo virtual histology compared with in vitro histopathology[J].J Am Coll Cardiol,2006,47(12): 2405-12.   
+[19]杨青苗,吕树铮.血管内超声在冠心病诊断中的临床应用进展[J].心 肺血管病杂志,2010,29(1):73-6.   
+[20]Hartman J,Frishman WH. Inflammationand atherosclerosis:a reviewof the role of interleukin-6 in the development of atherosclerosis and the potential for targeted drug therapy [J]. Cardiol Rev,2014,22(3): 147-51.   
+[21]Udeanu M,Guizzardi G,Di Pasquale G,et al. Relationship etween coronary artery disease and C-reactive protein levels in NSTEMI patients with renal dysfunction:a retrospective study [J].BMC Nephrol,2014,15:152. (编辑：吴锦雅)

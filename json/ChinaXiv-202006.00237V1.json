@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "黄土高原恢复草地土壤水分对降水响应及模拟",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邹慧1²，高光耀，朱斌²，刘丹一²，杨文斌1(1.中国林业科学研究院，北京100091;2.中国治沙暨沙业学会，北京100714；3.中国科学院生态环境研究中心城市与区域生态国家重点实验室，北京 100085)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：降水是干旱半旱地区土壤水分的主要来源，对该区植被恢复具有重要意义。本文采用 EC-5 土壤水分传感器对2014—2015年 $0 { \\sim } 1 2 0 ~ \\mathrm { c m }$ 土壤水分进行连续监测，研究了退耕后不同恢复年限草地土壤水分动态变化及其 $0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土壤 $1 0 ~ \\mathrm { m i n }$ 时间尺度土壤水分对降水的响应。结果表明：土壤水分从恢复5a草地向恢复15 a草地逐渐降低，这种降低趋势在恢复 $3 0 \\mathrm { a }$ 草地减弱。恢复5a草地土壤水分增幅最小，响应次数最少。单次降雨事件中，土壤水分增长过程和衰减过程均符合 Logistic 模型。恢复5a草地相对稳定期(平台期)历时最长；恢复$1 5 \\mathrm { ~ a ~ }$ 草地土壤水分在表层(0\\~5， $5 { \\sim } 1 0 ~ \\mathrm { c m } ,$ 增速最快，而在下层 $( 2 0 { \\sim } 4 0 ~ \\mathrm { c m } )$ 增速减慢且响应时间滞后；恢复30a草地在下层 $( 2 0 { \\sim } 4 0 ~ \\mathrm { c m } )$ 增速最快。建议对恢复草地应适当采取措施，促进降雨向深层土壤水分转化，并减少恢复初期平台期历时。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：恢复草地；Logistic 模型；降水响应；土壤水分；黄土高原",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄土高原是世界上水土流失最严重的区域之一，属半干旱大陆性季风气候。自1998年开始，我国在该区采取了大规模的退耕还林(草)和天然植被封育措施，成效显著[I-2]。然而，研究发现近年来植被恢复引起的土壤干层等土壤水分负平衡现象在黄土高原半干旱半湿润条件下时有发生，对当前植被建设成效构成一种潜在的威胁。土壤水分是干旱半干旱地区植被恢复的主要限制因子，一直以来深受重视[3-5]，天然降水是该区域非灌溉条件下土壤水分补给的主要甚至是唯一来源，研究土壤水对降水的响应对于揭示该地区土壤水分的动态变化，指导该区域植被恢复均具有重要意义[6-8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于土壤水分既受降雨等气候条件的影响，又受植被、地形地貌特征等下垫面性质的影响，一直以来都是水文循环和水量平衡研究中的难点。降水在很大程度上影响了土壤水分的变化，同时土壤水分又在降水一径流响应过程中起到主要的控制作用。植被对降水的响应存在延迟效应以及响应阈值，降雨特征、植被和土壤性质共同决定了植被覆盖条件下土壤水对降水的响应[9-10]，而土壤水分的响应是植被响应的基础[]。目前对草地恢复过程中土壤水分对降水响应的研究相对较少[12-13]，且研究主要集中在降水入渗过程、入渗深度[14]和土壤水分补给量上[15]，在土壤水分对降水响应的全过程及时间特征方面研究相对不足。土壤水分对降水的响应一般会经历增长期、相对稳定期和衰减期，不同时期随着土壤水分的变化，土壤水分对降水的响应以及降水-径流产生机制不同；同时受降水量、降水强度、降水历时的影响，不同深度土层的响应速度，持续时间也不同[16-23]。本文以不同恢复年限草地为研究对象，通过连续 2a 的降水和土壤水分的野外实时定点监测，研究了土壤水分动态变化以及土壤水分对典型单次降水事件的响应过程，并用Logistic增长模型和衰减模型对全过程进行拟合，通过对不同恢复年限(5a、15a、30a)草地土壤水分对降水响应过程的定量研究，以期为植被恢复过程中土壤水分的动态变化和降水资源的利用提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验地点位于陕西省榆林市神木县 $( 1 1 0 ^ { \\circ } 2 1 ^ { \\prime } { \\sim } 1 1 0 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { E }$ ， $3 8 ^ { \\circ } 4 6 ^ { \\prime } { \\sim } 3 8 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { N } )$ ，属于黄土高原水蚀风蚀交错带六道沟流域，中温带半干旱气候，年际、年内气候变化剧烈，冬春季干旱少雨，多风沙，夏秋多雨。降水稀少且比较集中，多年平均降水量为 $4 3 7 . 4 \\ : \\mathrm { m m }$ ，其中6一9月的降水约占全年降水量的 $80 \\%$ 左右。本区为丘陵、森林草原向沙漠、干草原的过渡地带，天然次生植被主要为旱生禾草类和旱中生蒿类，其中常见的主要有长芒草(Stipa bungeana)、斜茎黄芪(Astragalus adsurgens)、草木樨状黄芪(Astragalus melilotoides)、狗尾巴草(Setaria viridis)、茵陈蒿(Artemisia capillaries)等。1998年，退耕还林还草工程开始启动实施，至今 $90 \\%$ 以上的坡耕地已经退耕，植被恢复极大地改变了该地区的自然环境，平均植被覆盖率达 $70 \\%$ 以上，荒山已经基本被植被覆盖。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 样地选择 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此次试验于 2014—2015年的生长季(6—9月)进行，为将造成土壤本身空间异质性的因子最小化，选择立地条件大致相似的3个样地作为实验样地。3个样地分别为恢复 5a，15a，30a(RG5，RG15，RG30)。样地的基本情况如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/dde3a52d802739c8cf6650c7089f44b563f718b228c9a08fb2fde3c84b64144e.jpg",
+        "table_caption": [
+            "表1不同恢复年限草地概况 Table 1 Site characteristics of the three restoration grasslands with different restoration ages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>海拔/m</td><td>坡度/坡向</td><td>砂粒含量/%</td><td>优势种</td></tr><tr><td>RG5</td><td>1250~1260</td><td>20~25，W</td><td>95.5</td><td>茵陈蒿(Artemisia capillaris) 猪毛菜(Salsola collina) 狗尾草(Setaria viridis) 长芒草(Stipa bungeana)</td></tr><tr><td>RG15</td><td>1250~1260</td><td>20~25，W</td><td>92.2</td><td>长芒草(Stipa bungeana) 茵陈蒿(Artemisia capillaris) 草木樨状黄芪(Astragalus melilotoides) 达乌里胡枝子(Lespedesa davurica)</td></tr><tr><td>RG30</td><td>1250~1260</td><td>20~25，W</td><td>96.3</td><td>长芒草(Stipa bungeana) 草木樨状黄芪(Astragalus melilotoides) 达乌里胡枝子(Lespedesa davurica) 远志(Polygala tenuifolia)</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 实验观测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在3个实验样地，各安装一套U30-NRC型土壤水分自动监测系统，通过EC-5土壤水分传感器，连续监测0\\~5，5\\~10，10\\~20，20\\~40，40\\~60，60\\~80，80\\~120cm土壤水分变化。同时，用时域反射仪法(Timedomain reflectrometry 法,简称 TDR法)和烘干法对其进行数据校正。降水量测定采用自记式雨量计(RG3-M,美国 Onset 公司)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3Logistic 模型构建(1)Logistic 模型简介",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Logistic 模型是一种生长模型，该模型又被称为 Verhulst-Pearl 模型,在生态学、人口学等领域得到广泛应用。Logistic 模型的微分形式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { d s } { d t } = c s ( 1 - \\frac { s } { a } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $s$ 为种群大小； $\\mathbf { \\Psi } _ { t }$ 为时间； $\\mathbf { \\Delta } _ { a }$ 为环境容量； $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 为内禀增长率。式(1)的解，即Logistic 模型的积分形",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { s = \\frac { a } { 1 + b e ^ { - c t } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(2)所表示的是一条S形曲线，被称为Logistic 曲线或Pearl 曲线，它反映了事物发生、发展、成熟，并趋于饱和(极限)的过程。式(2)中 $b$ 为待求参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)Logistic 模型构建 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 0 \\mathrm { m i n }$ 尺度上土壤水分对降雨的响应过程可分为增长期、相对稳定期和衰减期，增长过程和衰减过程均呈现S形曲线，符合三参数Logistic 方程，如式(3)和式(4)所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ba3d60f03dd6987245eb2dcff22069b4fc9b8983b56813ce0c2ca9917d7eb90.jpg",
+        "img_caption": [
+            "图1土壤水分响应曲线 Fig.1 Soil moisture response curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\theta _ { ( \\dot { \\mathrm { z } } \\dot { \\mathrm { s } } \\dot { \\mathrm { z } } ) } = \\theta _ { 0 } + \\frac { a _ { 1 } } { 1 + b _ { 1 } \\mathrm { e } ^ { - c _ { 1 } t } } } \\\\ & { } \\\\ & { \\theta _ { ( \\dddot { \\ast } \\dddot { \\ast } ) } = \\theta _ { 0 } + \\frac { a _ { 2 } } { 1 + b _ { 2 } \\mathrm { e } ^ { c _ { 2 } t } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对函数 $\\theta ( t )$ 计算3次导数，可以计算出模型的2个拐点：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { t _ { 2 } = { \\frac { 1 } { c _ { 1 } } } \\times \\ln { \\frac { b _ { 1 } } { 2 - \\sqrt { 3 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { \\mathrm { m a x } } { = } \\theta _ { 0 } + a\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { m a x } } = a \\times { \\frac { c } { 4 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中增长期的 $t _ { 1 }$ 为土壤水分开始响应的时间，增长期的 $t _ { 2 }$ 为达到相对稳定期(平台期)开始的时间，衰减期的 $t _ { 3 }$ 为衰减期开始的时间，衰减期的 $t _ { 4 }$ 为土壤水分衰减结束的时间。 $\\theta _ { 0 }$ 为降水前的初始土壤含水率，$\\theta _ { \\mathrm { { m a x } } }$ 为达到稳定时的最大土壤含水率。 $a$ 、 $b$ 、 $\\mid c \\mid$ 的含义见上式(1)和式(2)。 $R _ { \\mathrm { m a x } }$ 为最大增长或衰减速率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据公式(11)\\~(13)分别计算增长期、相对稳定期和衰减期历时 $T _ { 1 }$ 、 $T _ { 2 }$ 、 $T _ { 3 }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { T _ { 1 } = t _ { 2 } - t _ { 1 } } \\\\ { T _ { 2 } = t _ { 5 } - t _ { 2 } + t _ { 3 } } \\\\ { T _ { 3 } = t _ { 4 } - t _ { 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1降水特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区2014—2015年降水量分别为 $4 0 5 . 4 \\mathrm { m m } , 3 8 8 . 4 \\mathrm { m m }$ ，其中6一9月生长季的降水量分别占全年降水量的 $6 2 . 3 \\%$ 和 $7 0 . 5 \\%$ (图2)。将生长季的降水事件按降水量划分为 $< 5$ 、5\\~10、 $1 0 { \\sim } 2 0 \\ \\mathrm { m m }$ 和 $> 2 0 \\ \\mathrm { m m }$ 共4个等级，2014—2015年各量级的降水量分别为：95.4、133.1、 $1 7 2 . 6 \\ : \\mathrm { m m }$ 和 $1 2 5 . 4 \\ : \\mathrm { m m }$ ，各量级降水发生的频次分别为： $6 4 . 8 \\%$ 、 $1 7 . 6 \\%$ 、 $1 2 . 1 \\%$ 和 $5 . 5 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5b159e3eaf5b877a837316bbedcc7b63c1e645ce77c204af11c4002ae1ffb18.jpg",
+        "img_caption": [
+            "图22014—2015年生长季(6—9月)的降水量Fig.2Precipitationsof growth seasonfromJunetoSeptember"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤水分动态变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据土壤水分对降水的响应程度，一般可将土层划分为3个层次，即土壤水分活跃层、渐变层和相对稳定层。本文中 $0 { \\sim } 4 0 ~ \\mathrm { c m }$ 为土壤水分活跃层，土壤水分随降水脉动呈波动变化。 $6 0 { \\sim } 1 2 0 ~ \\mathrm { c m }$ 为土壤水分相对稳定层，土壤水分波动较少，表现为每年生长季的初期较高，在7、8月份出现消耗(图3d\\~图3f)。在土壤水分活跃层(图 $3 a \\mathrm { \\sim }$ 图 3c)，不同恢复年限草地土壤水分对降雨的响应不同，主要表现为RG5土壤水分增加幅度最小，响应次数也最少。在土壤水分相对稳定层(图 3d\\~图3f)，不同恢复年限草地之间土壤含水量开始出现差异，表现为RG15土壤水分处于较低水平。土壤水分从恢复5a草地向恢复15a草地逐渐降低，而这种降低趋势在恢复30a草地减弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/65e2446deed60d6273c63174ec1c525d32433a30d758e2efbc653ae11a430649.jpg",
+        "img_caption": [
+            "图3不同恢复年限草地不同土层6一9月土壤水分动态变化 Fig.3Soil moisture temporal variations of different layers of grasslands with different restorationages from June to September "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤水分对降水的响应过程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合考虑草本植物根系分布和降水影响深度，本文选取 $0 { \\sim } 4 0 \\mathrm { c m }$ 土壤来分析不同土层土壤水分对降水的响应。在典型大降水事件中(2015年6月28日)，土壤水分变化呈典型的2拐点3阶段变化特征：分别为增长期、相对稳定期和衰减期(图4)。从开始响应时间来看(图4)，RG5 在 $5 { \\sim } 1 0 \\mathrm { c m }$ 土层响应较慢，RG15在 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层响应较慢。从土壤水分增加幅度来看，RG5在不同土层均最小，RG15 在表层(0\\~5，5\\~10cm)较大，RG30 在下层(10\\~20， $2 0 { \\sim } 4 0 ~ \\mathrm { c m } ,$ 较大(图 4a\\~4d)。从达到稳定时的最大土壤含水量来看(图 4)，RG15在表层(0\\~5， $5 { \\sim } 1 0 \\mathrm { c m } ,$ 较高，但在 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层明显降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb087424ce0184f7aa27470450ad070ef2c5eb23eb43773de7602694ccecae96.jpg",
+        "img_caption": [
+            "图4典型大降水事件(6月28日)中土壤水分对降水的响应过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Soil moisture response processes of grasslands withdierent restorationages ina heavyrainfall event (28th June) 2.4土壤水分对单次降水事件响应的模拟 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Logistic 模型适用于单次降水事件中土壤水分对降水的响应。由于没有明显的开始增长时间和开始衰减时间，此模型不适宜用于连续降水事件；由于没有相对稳定期(平台期)，该模型也无法进行非大雨量降雨事件中相对稳定期时间特征的模拟。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用Logistic方程对典型大降水事件中土壤水分增长和衰减过程进行拟合，通过模型拟合得出的参数，代入公式(6)\\~(13)，得出土壤水分响应过程的时间特征和变化速率。模拟结果如图4所示，相关系数 $R ^ { 2 }$ 均在0.98 以上，从时间特征来看(表2)，相对稳定期和衰减期在不同深度均表现为RG5 最长，RG5 相对稳定期在0\\~5、5\\~10、10\\~20、 $2 0 { \\sim } 4 0 \\mathrm { c m }$ 土层分别是RG15的3.7、11.0、2.4、1.1倍，RG30的2.0、12.4、1.9、1.3倍。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "选取 2015年雨季中发生较强土壤水分脉动的4次主要降水事件(6月28日，7月17日，8月3日，9月10日)土壤水分增长过程进行拟合，相关系数 $R ^ { 2 }$ 在0.71以上，得到雨季主要降水事件中土壤水分增长速率如表3所示。对比6月28日和9月10日，在相似雨强条件下，RG15在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层增长速率随降水量变化较大；对比7月17日和8月3日，在相似降水量、降水历时条件下，，在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层，RG15增长速率随雨强变化较大；在 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层，RG30增长速率随雨强变化较大。随土层变化来看，RG30增长速率随土层变异性较小，分层现象较弱。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e19925ff16e66b5acafe092c187816be7fb2aa588a77fa838012cd9e11a01227.jpg",
+        "table_caption": [
+            "表2不同恢复年限草地土壤水分增长和衰减过程时间特征 ble 2 Time characteristics of the soil moisture response processes of grasslands with diferent restoration "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">相对稳定期历时/10 min</td><td colspan=\"3\">衰减期历时/10 min</td></tr><tr><td>土层/cm</td><td>RG5</td><td>RG15</td><td>RG30</td><td>RG5</td><td>RG15</td><td>RG30</td></tr><tr><td>0~5</td><td>245</td><td>66</td><td>125</td><td>1574</td><td>1352</td><td>1116</td></tr><tr><td>5~10</td><td>309</td><td>28</td><td>25</td><td>2080</td><td>1279</td><td>1831</td></tr><tr><td>10~20</td><td>838</td><td>345</td><td>438</td><td>2139</td><td>2069</td><td>2091</td></tr><tr><td>20~40</td><td>1100</td><td>995</td><td>845</td><td>2222</td><td>2053</td><td>1928</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3aa41a598e006d7f1dcb4baf92a87290c0678b3ccce4f4a754f027dc2c290215.jpg",
+        "table_caption": [
+            "表3不同恢复年限草地土壤水分增长速率Table 3 The soil moisture increase rate of grasslands with different restoration ages"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\"></td><td colspan=\"3\">日期</td></tr><tr><td></td><td colspan=\"3\">6月28日</td><td>7月17日 8月3日</td><td>9月10日</td></tr><tr><td rowspan=\"2\">降雨特征</td><td colspan=\"2\">降雨量/mm</td><td>38.2 1639</td><td>22.6 18.9</td><td>14.4</td></tr><tr><td colspan=\"3\">降雨历时/min</td><td>210 380</td><td>720</td></tr><tr><td rowspan=\"12\"></td><td></td><td>降雨强度/mm h-1</td><td>0.09</td><td>0.43 0.11</td><td>0.09</td></tr><tr><td rowspan=\"5\">RG5</td><td>0~5</td><td>1.03 6.20</td><td>1.69</td><td>0.16</td></tr><tr><td>土层 5~10</td><td>1.88</td><td>2.12 1.43</td><td>0.18</td></tr><tr><td>cm 10~20</td><td>0.79</td><td>0.23 0.62</td><td>0.71</td></tr><tr><td>20~40</td><td>0.04</td><td>0.00 0.00</td><td>0.00</td></tr><tr><td>0~5</td><td>3.35 23.14</td><td>2.24</td><td>0.30</td></tr><tr><td rowspan=\"4\">增长速率 RG15</td><td>土层</td><td>5~10</td><td>2.60 100.42</td><td>0.81</td><td>0.45</td></tr><tr><td>cm</td><td>10~20</td><td>0.85 8.87</td><td>0.90</td><td>0.58</td></tr><tr><td></td><td>20~40</td><td>0.11 0.07</td><td>0.00</td><td>0.00</td></tr><tr><td></td><td>0~5</td><td>6.73</td><td>2.42</td><td>0.81</td></tr><tr><td rowspan=\"4\">RG30</td><td>土层</td><td></td><td>1.34</td><td></td><td></td></tr><tr><td></td><td>5~10</td><td>1.05 1.29</td><td>0.61</td><td>0.14</td></tr><tr><td>cm</td><td>10~20</td><td>0.98 0.26</td><td>0.07</td><td>0.37</td></tr><tr><td></td><td>20~40</td><td>0.12 1.02</td><td>0.05</td><td>0.03</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在干旱半干旱地区，土壤水分是影响植被恢复与重建的关键因素，而植被恢复也能提高土壤蓄水能力，改良土壤结构，从而增加土壤含水率[3.6-7]。一些研究也发现，随着植被恢复年限的增加，土壤水分逐渐减少，甚至出现土壤干层，最终导致生态退化[8,15]。郝文芳等[24]对黄土高原2、6、9、16、19、25、30、40 a退耕地土壤性质的研究表明，除受耕作影响退耕2a的群落外，从6\\~40a随着恢复年限的增加，土壤结构得到改善，土壤容重逐渐减小。而土壤含水量在退耕9a的群落中最高。在本研究中，土壤水分从恢复 5a草地向恢复15a草地逐渐降低，这种降低趋势在恢复 $3 0 \\mathrm { a }$ 草地减弱。说明随着恢复年限的增加，土壤水分先降低，后降低趋势减弱并有所恢复。从土壤水分对降水的响应来看，导致这个现象的原因可能是由于恢复初期土壤水分对降水的响应较弱，对降水的利用不足。本文中，从 $0 { \\sim } 4 0 \\mathrm { c m }$ 土壤水分对降水的响应来看，RG5土壤水分增幅最小,响应次数也最少(图3)。在典型单次降水事件中,RG5相对稳定期(平台期)在 $0 { \\sim } 4 0 \\mathrm { c m }$ 各层(0\\~5，5\\~10，10\\~20， $2 0 { \\sim } 4 0 ~ \\mathrm { c m } ,$ 均最大(表2)。相对稳定期时土壤水分处于近饱和状态，水分入渗能力明显减弱，此时降水因地表径流损失而不能对土壤形成有效补给，同时还会造成对表土的冲刷，引起土壤侵蚀[25]。RG5 相对稳定期历时长，一方面可能是由于退耕时间较短，受前期灌溉的影响，RG5 初始土壤含水量较高，受高的初始土壤含水率的影响，RG5土壤入渗率小，产流大[10]；另一方面可能是由于 RG5 处于演替初期，以一年生植物为主，土壤孔隙度小、入渗能力差，随着恢复年限的延长，多年生草本植物增加，较多的根量和地表凋落物的输入与分解形成的土壤有机质和养分的积累，改善了土壤结构，土壤入渗能力有了明显提高[8,26-27]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "大气降水是干旱半干旱地区土壤水分的主要补给来源，土壤水分随降水脉动呈波动变化。降水是影响土壤水分变化最重要的因素，研究较多的有降水量、降水强度、降水历时。本研究中不同恢复年限草地对降水量、降水强度变化的响应不同。从表3来看，在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层，RG15土壤水分增长速率随降水量、雨强变化均较大；在 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层，RG30土壤水分增长速率随雨强变化较大。不同恢复年限草地的响应随深度的变化也不同。由于降水入渗、再分布和土壤蒸发向深层传递的滞后性，上层土壤水分受降水的影响明显大于深层，其对降水的响应也最明显。RG15在表层 $( 0 { \\sim } 5 , \\ 5 { \\sim } 1 0 \\ \\mathrm { c m } )$ 土壤水分响应最大(图4a\\~图4b，表3)，而在下层 $( 2 0 { \\sim } 4 0 \\mathrm { c m } )$ 响应减弱且响应时间明显滞后(图4d)，这说明RG15表层具有较高的持水能力，而水分通过表层向深层土壤的水分入渗能力较弱[28]。RG30 在下层 $( 2 0 { \\sim } 4 0 ~ \\mathrm { c m } )$ 增长幅度和增长速率最大(图4d，表3)，说明 RG30 更有利于较深层土壤的水分补给和恢复。在黄土高原天然草地恢复过程中，应该从提高降水资源的利用出发，优化土壤水分剖面分布格局，促进降水向土壤水的转化，且增加深层土壤水分的响应。为防止畧荒或封育草地植被再次退化，笔者建议在恢复前期，可以采取适当的人工措施来增加水分入渗，以减少平台期历时，同时增加恢复过程中深层土壤水分对降水的响应。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)土壤水分从恢复5a草地向恢复 $1 5 \\mathrm { ~ a ~ }$ 草地逐渐降低，这种降低趋势在恢复 $3 0 \\mathrm { a }$ 草地减弱。从土壤水分对降水响应来看，恢复5a草地土壤水分增幅最小，响应次数也最少。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)在单次降水事件中，土壤水分增长过程和衰减过程均符合Logistic 模型。从时间特征来看，恢复 5a草地相对稳定期历时最长；从随土层变化来看，恢复15a草地土壤水分在表层(0\\~5， $5 { \\sim } 1 0 \\mathrm { c m } )$ 增长幅度和增长速率最大，而在下层 $( 2 0 { \\sim } 4 0 ~ \\mathrm { c m } )$ 增长幅度明显减小且响应时间滞后；恢复 $3 0 \\mathrm { ~ a ~ }$ 草地在下层 $( 2 0 { \\sim } 4 0 ~ \\mathrm { c m } )$ 增长幅度和增长速率最大。建议在黄土高原天然草地恢复初期，适当采取人工措施来增加水分入渗，以减少平台期历时，同时增加恢复过程中深层土壤水分的响应，提高有限降水的利用效率。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Wang S,Fu BJ,Piao $\\mathrm { ~ s ~ L ~ }$ ,et al.Reduced sediment transport in the Yellow River due to anthropogenic changes[J]. Nature Geoscience,2016,9(1): 38-42. [2] 侯扶江，肖金玉，南志标．黄土高原退耕地的生态恢复[J]．应用生态学报，2002,13(8):923-929.[Hou Fujiang,Xiao Jinyu, NanZhibiao.EcorestorationofabandonedfarmlandintheLoess Plateau[J].ChineseJournalofApliedEcologyOo,13(8): ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "923-929.]   \n[3] 易彩琼，王胜，樊军．黄土高原坡地退耕恢复草地的土壤水分动态[J].草地学报，2015,23(6):1182-1189.[Yi Caiqiong, Wang Sheng,FanJun.Soilwaterdnamicsofdegraded grassandontheslopeof theLoessPlateau[J].ActaAgrestiainica,2015, 23(6): 1182-1189.]   \n[4]孙芳强，尹立河，马洪云，等．准噶尔盆地南缘土壤水运移特征及其补给来源识别[J].干旱区研究,2017,34(6):72-78. [SunFangqiang,YinLie,Ma Hongyun,etal.Identificationofsoilwater migrationandrechargesouresinthesouthernmarginal Zone of the Junggar Basin, China[J]. Arid Zone Research, 2017,34(6): 72-78.]   \n[5] 陈新均，王学全，卢琦，等．季节性河道土壤水及其渗漏特征初探[J].干旱区研究，2020,37(1):97-104.[Chen Xinjun, Wang Xuequan,LUQietal.Soilmoisturecontentandsoil waterinfiltrationinseasonal watercourseinaridarea[J].Arid Zone Research,2020,37(1): 97-104.]   \n[6]王军，傅伯杰，邱扬，等．黄土丘陵区土地利用与土壤水分的时空关系[J]．自然资源学报,2001,16(6):521-524.[Wang Jun, Fu Bojie,QiuYang,etal.SpatiaandtmporalrelatioshipsbetwnlndusendsoilmoistureinillreaoftheLessPlateau[J]. Journal of Natural Resources,2001,16(6): 521-524.]   \n[7]Wu,G.L.,Liu,Yang,N.F.,etal.Soilpysicalpropertisresposetgrassandconversionfromroplandoearid area[J]. Ecohydrology, 2016, 9(8): 1471-1479.]   \n[8]DuF.,ShaoH.B,ShanL,etal.Secondarysucessionanditseectsonsoilmoistureandnutritioninbadonedldfeldsf hilly region of Loess Plateau, China[J]. Colloids and Surfaces B: Biointerfaces,20o7,58(2): 278-285.]   \n[9]赵娜娜，于福亮，李传哲，等．降水入渗及土壤水分变化对产流过程影响研究进展[J]．南水北调与水利科技，2014，12(2): 111-115.[ZhaoNana,YuFuliang,LiChuanzhe,etal.Reviewonefectsofrainfallinfitrationandsoilmoisturevariationonthe rainfallrunoff process[J]. South-to-North Water Transfers and WaterScience &Technology,2014,12(2):111-115.   \n[10]SchwiningS,EhleringerJR.Waterusetrade-ofsandoptimaladaptations topulse-drivenaridecosystems[J].Joualof Ecology,2001,89(3): 464-480.   \n[1] 刘宝军，赵晓光，党小虎，等．陕北黄土丘陵区退耕地植物群落演替特征[J]．中国水土保持科学,2012,10(5):77-83.[Liu Baojun，Zhao Xiaoguang,Dang Xiaohu,et al. Characteristics of plant community sucesiononabandoned farmland in the Hilly-Gully Region of Loess Plateau[J]. Science of Soil and Water Conservation,2012,10(5): 77-83.]   \n[12]徐冉，张圣微，朱仲元，等．典型草原禁牧条件下土壤水分对降雨模式的响应[J].干旱区研究，2019，36(6):1359-1367. [Xu Ran,Zhang Shengwei, Zu Zhongyuan,etal.Responseofsoil moisturecontent torainfallpattemsintypical steppeunder grazing prohibition[J]. Arid Zone Research,2019,36(6): 1359-1367.]   \n[13]邹慧，高光耀，傅伯杰．干旱半干旱草地生态系统与土壤水分关系研究进展[J].生态学报,2016,36(11:3127-3136.[Zou Hui,Gao Guangyao,FuBojie.Therelationshipbetween grassland ecosystemandsoil waterinaridandsemiaridareas:areview[J]. Acta Ecologica Sinica, 2016,36(11): 3127-3136.]   \n[14] WangS,FuBJ,GaGY,etal.Responsesofsoilmoistureindierentlandcovertypestoaifalleventsinavegetation catchment area of the Loess Plateau, China[J]. Catena,2013,101(3): 122-128.   \n[15] 杨磊，张涵丹，陈利顶．黄土宽梁缓坡丘陵区次降雨对土壤水分补给效率与阈值研究[J].中国科学：地球科学，2018, 48(4):47-466.[YangLeiZhang Handan,ChenLiding.Identificationonthresholdandeficiencyofrainfallofrainfall replenishment to soil water in semi-arid loess hilly areas[J].Scientia Sinica (Terrae),2O18,48(4): 457-466.]   \n[16]常昌明，牛建明，王海，等．小针茅荒漠草原土壤水分动态及其对降雨的响应[J].干旱区研究，2016,33(2):260-265. [ChangchangmingNiuJianming,Wanghai,etal.ynamicchangeofsoilmoistureanditsresponsetoinfallina Stipalemeni Steppe[J].Arid Zone Research,2016,33(2): 260-265.]   \n[17] 刘冰，赵文智，常学向，等．黑河流域荒漠区土壤水分对降水脉动响应[J]．中国沙漠,2011,31(3):716-722.[Liu Bin,Zhao Wenzhi,Chang Xuexiang,etal.Responseofsoilmoisture torainfallpulseindesertregionoftheHeiheRiverbasin[J].Joualof Desert Research,2011,31(3): 716-722.]   \n[18]常兆丰，汪杰，王耀琳，等．降水在沙丘中的运动特征研究-以甘肃民勤沙区为例[J]．中国沙漠，2005，25(3):422-426. [Chang Zhaofeng, Wang Jie,Wang Yaolin,etal.Motioncharacteristics of precipitation insanddunes:acase studyin Minqinsandy area,Gansu[J].Journal of Desert Research,2005,25(3): 422-426.]   \n[19]冯伟，杨文斌，党宏忠，等．毛乌素沙地流动沙丘土壤水分对降雨的响应[J].中国沙漠,2015,35(2):400-406.[Feng Wei, Yang Wenbin,DangHongzhong,etal.Responseofsoilmoisture torainfalinte mobiledunesoftheMuUsandyLandJ.Joual of Desert Research,2015,35(2): 400-406.]   \n[20]魏雅芬，郭柯，陈吉泉．降雨格局对库布齐沙漠土壤水分的补充效应[J]．植物生态学报，2008，32(6):1346-1355.[Wei Yafen,Guo Ke,ChenJiquan.Efectof precipitationpattrnonrecruitmentofsoil waterinKubuqi desert,northwesten Chia[J]. Journal of Plant Ecology,2008,32(6): 1346-1355.]   \n[21]Wang XP,CuiY，PanY X,etal.Effectsofrainfallcharacteristicsoninfitrationandredistributionpaternsin revegetation-stabilized desert ecosystems[J]. Journal of Hydrology,2008,358(1): 134-143.   \n[22] He Z,ZhaoW,Liu H,et al.Theresponseof soil moisture torainfallevent sizeinsubalpine grassandandmeadows ina semi-ardmountanrange:AcasesudyinorthwesteChina’sQilanountains[J].JouralofHydrology,l2,42-421:8-190. [23]张北赢，徐学选，刘文兆，等．黄土丘陵沟壑区不同降水年型下土壤水分动态[J].应用生态学报,2008,19(6):1234-1240. [Zhang Beiying,Xu Xuexuan,Liu Wenzhao,etal.Dynamicchangesofsoiloisture inloesshillyand gullyegionunderectsof diferent yearly precipitation pattrns[J]. Chinese Journal of Applied Ecology, 2008,19(6): 1234-1240.]   \n[24]郝文芳，梁宗锁，陈存根等．黄土丘陵沟壑区弃耕地群落演替与土壤性质演变研究[J]．中国农学通报，2005，21(8): 226-231.[Hao Wenfang,Liang Zongsuo,Chen Cungen,etal.Studyof thediferentsuccesionstagecommunitydynamicsandthe evolutionofsolcharacteristicsof theold-fieldinLess HillGully[J].ChieseAgrculturalBulltin,o,21(8):6-231] [25]晏清洪，原翠萍，雷廷武，等．降雨类型和水土保持对黄土区小流域水土流失的影响[J]．农业机械学报，2014,45(2): 169-175.[Ya Qinghong,YuanCuiping,Lei Tingu,etal.Efectofainstompattesandsoilerosioncontrolpracticesonilad waterlossinsmall watershedonLoess PlateauJ].TransactionsoftheChinese SocietyforAgriculturalMachinery,2O14,45(2): 169-175.]   \n[26]LiYY,ShaoMA.Changeof soil physical properties underlong-termnatural vegetationrestoration intheloessplateauof china[J]. Journal of Arid Environments,2006,64(1): 77-96.   \n[27] 马祥华，焦菊英．黄土丘陵沟壑区退耕地自然恢复植被特征及其与土壤环境的关系[J]．中国水土保持科学,2005，3(2): 15-22.[MaXiaga,JaoJuying.Characteristisofegetatiowihaturalestorationinmoallandsis hillullio andtherelatiosipetweenthearacteristicsadsleviontJ].ieneofoilandWaterConservatio,(2)-2] [28]韦兰英，上官周平．黄土高原不同演替阶段草地植被细根垂直分布特征与土壤环境的关系[J].生态学报，2006,26(11): 3740-3748.[WeiLanying,Shangguan Zhouping.Relationshipbetweenvertical distributionoffinerootindiferentsuccessional stages of herbaceousvegetationndsoilenviromentinLoess Plateau[J].ActaEcologicaSinica,2o6,26(11):374-3748.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Research and modeling of soil moisture response to precipitation in the restored grasslands on the Loess Plateau ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZOU Hui1.2，GAO Guang-yao³， ZHU Bin²，LIU Danyi²，YANG Wen-bin1 (.Ce Labratorfdoloehtete ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Soil moisture temporal variations and its response to precipitation are critical important for vegetation growth and ecological restoration in arid and semi-arid areas.Hence, we analyzed soil moisture dynamics and its response to rainfallat 1Omin time scale by EC-5 real-time soil moisture monitoring sensors in naturallyrestored grasslands at diferent restoration ages (5,15 and 30 years, namely RG5,RG15,RG30). Results showed that soil moisture was high at RG5，and decreased at RG15,and finally stopped decreasing at RG30.RG5 was characterized by lower response frequency and smaler response amplitude in two years with similar rainfall amounts. Under a single heavy rainfall event,the variation processof soil moisture can be divided into three periods,including the rising,steady and decreasing period which are consistent with the logistic growth and decline model separately.The lasting time of the steady period of RG5 were the longest in each layer in the upper soil layer $( 0 { - } 4 0 \\mathrm { c m } )$ . The response of RG15 was the most significant in the surface soil layer (O-5, 5-1Ocm) but an obviously lagged response at $2 0 { \\cdot } 4 0 \\mathrm { c m }$ layer, while the response of RG3O was the most significant in $2 0 { \\cdot } 4 0 \\mathrm { c m }$ soil layer. Ourresults indicated thatthe utilization of limited rainfallshould be improved by promoting the conversion of rainfallto deep layer soil moisture and by reducing the steady period or plateau period lasting time in the earlier restoration stage. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: restored grassland; Logistic model; response to precipitation; soil moisture; Loess Plateau ",
+        "page_idx": 10
+    }
+]

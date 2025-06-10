@@ -1,0 +1,250 @@
+硒代蛋氨酸对条纹锯鮨生长性能、组织硒含量、抗氧化能力及血清生化指标的影响张清雯1,2陈超1\*邵彦翔」赵亭亭 1,2（1.中国水产科学研究院黄海水产研究所，农业部海洋渔业可持续发展重点实验室，
+
+肖岛 200U/1；Z.上海海汗人字小广与生命字阮，上海 2U1300）摘要：本试验旨在研究饲料中添加硒代蛋氨酸（Se-Met）对条纹锯鮨生长性能、组织硒含量、抗氧化能力及血清生化指标的影响。选取初始体重为（ $8 1 . 6 2 { \scriptstyle \pm 0 . 7 5 }$ ）g的健康条纹锯鮨幼鱼540尾，随机分为6组，每组3个重复，每个重复30尾。各组分别投喂硒含量为0.09、0.21、0.44、0.58、0.77 和 $1 . 0 5 \mathrm { m g / k g }$ 的试验饲料。试验期8周。结果表明：1）饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 组的终末体重和增重率最高，显著高于其他各组 $( P { < } 0 . 0 5 )$ 。饲料硒含量为0.58$\mathrm { m g / k g }$ 组的饲料系数最低，显著低于饲料硒含量为0.09、0.77 和 $1 . 0 5 ~ \mathrm { m g / k g }$ 组 $( P { < } 0 . 0 5 )$ 。2)饲料硒含量为 $0 . 7 7 \mathrm { m g / k g }$ 组的肌肉粗脂肪含量最高，显著高于除饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 组的其他各组 $_ { ( P < 0 . 0 5 ) }$ 。饲料硒含量为 $0 . 4 4 \mathrm { m g / k g }$ 组的肌肉粗灰分含量最高，显著高于其他各组 $( P { < } 0 . 0 5 )$ 。3）饲料硒含量为 $0 . 7 7 \mathrm { m g / k g }$ 组的肝脏中硒含量显著高于饲料硒含量为0.09、0.21和 $0 . 4 4 \mathrm { m g / k g }$ 组（ $. P { < } 0 . 0 5$ ）。饲料硒含量为 $0 . 5 8 ~ \mathrm { m g / k g }$ 组的血清中硒含量最高，显著高于饲料硒含量为 $0 . 0 9 , 0 . 2 1 , 0 . 4 4$ 和 $1 . 0 5 ~ \mathrm { m g / k g }$ 组 $\cdot P { < } 0 . 0 5$ ）。4）饲料硒含量为 $1 . 0 5 ~ \mathrm { m g / k g }$ 组的血清谷胱甘肽过氧化物酶（ $\mathbf { G P x } )$ 活性显著高于其他各组（ $( P { < } 0 . 0 5 )$ ）。饲料硒含量为0.58$\mathrm { m g / k g }$ 组的血清谷胱甘肽还原酶（GR)活性最高，显著高于饲料硒含量为0.77 和 $1 . 0 5 ~ \mathrm { m g / k g }$ 组。饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 组的血清过氧化氢酶（CAT）活性最高，显著高于饲料硒含量为0.09、0.21和 $1 . 0 5 \mathrm { m g / k g }$ 组（ $\cdot P { < } 0 . 0 5$ ）。饲料硒含量为 $1 . 0 5 ~ \mathrm { m g / k g }$ 组的血清谷胱甘肽S-转移酶(GST)活性最高，显著高于饲料硒含量为0.09、0.21、0.44和 $0 . 5 8 \mathrm { m g / k g }$ 组 $. P { < } 0 . 0 5 )$ 。5）饲料硒含量为 $0 . 0 9 \mathrm { m g / k g }$ 组的肝脏GPx活性最低，显著低于饲料硒含量为 $0 . 4 4 , \ 0 . 5 8$ 和$0 . 7 7 \mathrm { m g / k g }$ 组( $\cdot P { < } 0 . 0 5$ ）。饲料硒含量为 $0 . 0 9 \mathrm { m g / k g }$ 组的肝脏GR 活性最低，显著低于饲料硒含量为 $0 . 4 4 , \ 0 . 5 8$ 和 $1 . 0 5 ~ \mathrm { m g / k g }$ 组（ $\cdot P { < } 0 . 0 5$ ）。饲料硒含量为 $0 . 0 9 \mathrm { m g / k g }$ 组的肝脏GST活性最高，显著高于饲料硒含量为 $0 . 4 4 , 0 . 5 8 , 0 . 7 7$ 和 $1 . 0 5 ~ \mathrm { m g / k g }$ 组（ $\cdot P { < } 0 . 0 5$ ）。饲料硒含量为 $0 . 7 7 \mathrm { m g / k g }$ 组的肝脏超氧化物歧化酶（SOD）活性最高，显著高于饲料硒含量为0.09和 $1 . 0 5 \mathrm { m g / k g }$ 组（ $. P { < } 0 . 0 5$ ）。饲料硒含量为 $0 . 4 4 \mathrm { m g / k g }$ 组的肝脏CAT活性最高，显著高于其他各组（ $\scriptstyle P < 0 . 0 5 .$ ）。6）饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 组的血清总蛋白含量最高，显著高于其他各组（ $. P { < } 0 . 0 5$ ）。饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 组的血清总胆固醇含量最高，显著高于饲料硒含量为0.09、0.21和 $0 . 4 4 \mathrm { m g / k g }$ 组（ $\cdot P { < } 0 . 0 5$ ）。饲料硒含量为 $0 . 7 7 \mathrm { m g / k g }$ 组的血清免疫球蛋白 M含量和溶菌酶活性最高，显著高于饲料硒含量为0.09、0.21、0.44 和 $1 . 0 5 \mathrm { m g / k g }$ 组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）。以增重率、肝脏中硒含量、血清溶菌酶活性为评价指标，通过二次曲线分析得出条纹锯鮨对硒的适宜需求量分别为0.62、0.92、 $0 . 7 2 \mathrm { m g / k g }$ ，可见饲料中硒的适宜含量为$0 . 6 2 { \sim } 0 . 9 2 \ \mathrm { m g / k g }$ 。
+
+关键词：条纹锯鮨；硒代蛋氨酸；生长性能；组织硒含量；抗氧化能力中图分类号：S963.73
+
+硒(Se)是生物必需的微量矿物元素，是谷胱甘肽过氧化物酶(GPx)和脱碘酶（DIO）的组成成分，硒可以利用还原的谷胱甘肽，将过氧化氢和脂肪酸过氧化氢转化为水和脂肪酸，从而保护细胞膜免受氧化损伤，在水产动物生长性能、抗氧化能力、免疫功能等方面有重要的作用[1-2]。硒代蛋氨酸（Se-Met）是有机硒的一种，是一定条件下由硒元素取代了蛋氨酸中同族的硫元素而合成[3]。与无机硒被动扩散的吸收方式不同，含硒氨基酸、酵母硒等有机硒在小肠通过主动运输的方式被吸收，具有吸收快、利用率高、毒副作用小、环境污染少的特点[4]。有机硒在提高生长速率、抗氧化能力、免疫力等方面的应用广受关注，作为饲料添加剂在畜禽应用十分广泛，但是在水产养殖中少有研究。
+
+条纹锯鮨（Centropristis striata），又名美洲黑石斑，隶属鮨科（Serranidae），石斑鱼亚科（Serraninae），锯鮨属（Centropristis），其生物学特性与石斑鱼属接近[5]。条纹锯鮨于 2002年引入我国，2006年驯化及人工繁育成功6。条纹锯鮨不仅肉质丰腴、口感鲜软清爽、骨刺少、易加工，而且肌肉含肉率高，有较多的粗蛋白质和粗脂肪，具有较高的营养价值和保健功效[7]。条纹锯鮨在养殖过程中也表现出病害少、抗逆性强、生长快的特点[8]。近年来，条纹锯鮨的人工繁育和养殖技术不断成熟，表现出很大的养殖潜力[9-1]。但是对于条纹锯鮨的研究大多集中在生理学、病理学、苗种繁育和养殖技术等[12-16]，缺乏对其饲料中微量元素需求量的研究。目前，关于无机硒对水产动物的生长和抗氧化性作用的研究有很多，如鲈鱼[17]、草鱼[18]、斑点叉尾[19]、鲤鱼[20]、虹鳟[21]、大黄鱼[22、黄颡鱼[23]、皱纹盘鲍[24]等，而有机硒在水产上的应用研究仅见于罗非鱼[25]、石斑鱼[26]、异育银鲫[27]、白鲟[28]、青虾[29]等。本试验通过在饲料中添加不同水平的硒代蛋氨酸，探究其对条纹锯鮨生长性能、组织硒含量、抗氧化能力及血清生化指标的影响，为有机硒在石斑鱼类配合饲料的应用提供依据。
+
+# 1材料与方法
+
+# 1.1 试验材料与试剂
+
+试验用硒代蛋氨酸为 $L .$ -硒代蛋氨酸，购于上海源叶生物科技有限公司，纯度为 $98 \%$ 。
+
+$\mathbf { G P x }$ 、谷胱甘肽还原酶（GR）、谷胱甘肽S转移酶（GST）、超氧化物歧化酶（SOD）、过氧化氢酶（CAT）、溶菌酶（LZM）活性，总抗氧化力（T-AOC），总蛋白（TP）、甘
+
+油三酯（TG）、总胆固醇（TC）含量检测试剂盒均购于南京建成生物试剂研究所。免疫球蛋白M（IgM）含量酶联免疫吸附测定（ELISA）试剂盒购于上海酶联生物科技有限公司。
+
+# 1.2 试验饲料
+
+基础饲料以酪蛋白和明胶为主要蛋白质源，鱼油和豆油为主要脂肪源，并添加矿物元素和多维配制而成。基础饲料中硒代蛋氨酸的添加水平分别为0（对照组）、0.2、0.4、0.6、0.8、 $1 . 0 \mathrm { m g / k g }$ ，硒含量实测值分别为0.09（对照组）、0.21、0.44、0.58、0.77、 $1 . 0 5 \mathrm { m g / k g }$ 号试验饲料组成及营养水平见表1。所有饲料原料粉粹后过80目筛，采用逐级扩大法混匀，加鱼油和豆油搓匀至无油粒，加适量水搅拌后用挤条机制成直径为 $3 \mathrm { m m }$ 的颗粒饲料，于烘箱内 $1 2 \mathrm { h }$ 烘干，分组装袋并置于 ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C } .$ 冰箱内备用。
+
+Table 1Composition and nutrient levels of experimental diets (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="3">项目 8 Items N原料 Ingredients</td><td colspan="6">饲料硒含量 Dietary Se content/(mg/kg)</td></tr><tr><td>0.09</td><td>0.21</td><td>0.44</td><td>0.58</td><td>0.77</td><td>1.05</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酪蛋白Casein</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td></tr><tr><td>0 明胶Gelatin ?</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>21 鱼油Fish oil</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td></tr><tr><td>W 豆油Com oil</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td></tr><tr><td>@ α-淀粉 α-starch n</td><td>25.50</td><td>25.50</td><td>25.50</td><td>25.50</td><td>25.50</td><td>25.50</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>C 矿物质预混料 Mineral premix2)</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>卵磷脂Lecithin</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>羧甲基纤维素 Carboxymethyl cellulose</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>甜菜碱 Betaine</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>额外添加硒代蛋氨酸 Added Se-Met</td><td></td><td>0.20</td><td>0.40</td><td>0.60</td><td>0.80</td><td>1.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 CP</td><td>49.80</td><td>45.20</td><td>45.50</td><td>45.30</td><td>44.90</td><td>45.20</td></tr><tr><td>粗脂肪 FE</td><td>7.80</td><td>7.80</td><td>7.70</td><td>7.80</td><td>7.80</td><td>7.90</td></tr></table></body></html>
+
+<html><body><table><tr><td>粗灰分 Ash</td><td>3.40</td><td>3.20</td><td>3.40</td><td>3.20</td><td>3.30</td><td>3.40</td></tr><tr><td>硒Se</td><td>0.09</td><td>0.21</td><td>0.44</td><td>0.58</td><td>0.77</td><td>1.05</td></tr></table></body></html>
+
+1维生素预混料为每千克饲料提供 The vitamin premix provided the following per $\mathrm { k g }$ of diets:$\mathrm { V B } _ { 1 } 7 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 2 0 0 \ : \mathrm { m g }$ ，叶酸 folic acid $2 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 5 0 \mathrm { m g }$ ，烟酸niacin $5 0 0 ~ \mathrm { { m g } }$ ，泛酸钙 calcium pantothenate $3 0 0 \mathrm { m g }$ ，肌醇 inositol $1 0 0 0 \mathrm { m g }$ ，生物素 biotin $6 \ : \mathrm { m g }$ ,VE $5 0 0 \mathrm { m g }$ ，VK $6 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } \mathrm { ~ l ~ m g ~ }$ ，维生素A乙酸酯VAacetate $1 5 \mathrm { m g }$ ， $\mathrm { V D } 0 . 0 5 \mathrm { m g }$ ，VC $2 0 0 ~ \mathrm { { m g } }$ 。  
+2)矿物质预混料为每千克饲料提供 The mineral premix provided the following per $\mathrm { k g }$ of diets :$\mathrm { F e S O _ { 4 } { \bullet } H _ { 2 } O \ 8 \ g }$ ， $\mathrm { C u S O _ { 4 } } { \bullet } 5 \mathrm { H _ { 2 } O } \mathrm { ~ 1 ~ g ~ }$ ， $\mathrm { M n S O } _ { 4 } { \bullet } \mathrm { H } _ { 2 } \mathrm { O } \ : 2 \ : \mathrm { g }$ ， $\mathrm { Z n S O _ { 4 } } { \bullet } 7 \mathrm { H } _ { 2 } \mathrm { O } \ 3 0$ g， $\mathrm { M g S O _ { 4 } bullet 7 H _ { 2 } O }$ 150g， $\mathrm { C a I } _ { 2 } 0 . 5 \ \mathrm { g }$ ， $\mathrm { C O S O _ { 4 } 7 H _ { 2 } O 0 . 1 \ g }$ ，KCl $7 0 \mathrm { g }$ ，沸石粉 zeolite powder $7 3 8 . 3 6 \mathrm { g }$ 。
+
+# 1.3 试验设计和饲养管理
+
+养殖试验在山东日照一养殖厂内进行，试验鱼全部来自本实验室养殖的条纹锯鮨亲鱼繁育的二龄幼鱼。选取健康、无伤、体重（ $8 1 . 6 2 { \scriptstyle \pm 0 . 7 5 }$ ）g的美洲黑石斑幼鱼540尾，随机分为6组，每组3个重复，每个重复30尾。各组鱼随机放入18个体积为500L的养殖桶，每个养殖桶放养30尾。条纹锯鮨幼鱼暂养2周，饲喂普通石斑鱼饲料以适应养殖环境。各组分别投喂硒含量为0.09、0.21、0.44、0.58、0.77和 $1 . 0 5 \mathrm { m g / k g }$ 的试验饲料。试验开始前，所有美洲黑石斑幼鱼饥饿 $2 4 \mathrm { h }$ ，称重。每天07：00和17：00定时投喂2次试验饲料，每次投喂时间持续 $1 \mathrm { ~ h ~ }$ ，表观饱食投喂，投喂量为体重的 $4 \% \sim 6 \%$ ，并根据摄食和生长情况调节，试验期8周。
+
+试验用水为山东日照地下海水， $\mathrm { p H } \breve { \ J } \ J 6 . 8 { \sim } 7 . 3$ ，整个试验期水温在 $1 8 { \sim } 2 4 ^ { \circ } \mathrm { C }$ ，海水盐度为 $22 \text{‰}$ ，氨氮浓度小于 $0 . 2 \mathrm { m g / L }$ 。 $2 4 \mathrm { h }$ 不间断充气泵增氧，溢流水环境。每2周取海水检测其中硒含量，试验过程中没有检测到硒。
+
+# 1.4样品采集
+
+试验结束时，所有鱼饥饿 $2 4 \mathrm { h }$ 后，用 $1 0 0 \mathrm { m g / L }$ 的丁香酚轻微麻醉试验鱼，对每个养殖桶中的鱼计数、称重，计算增重率（WGR）和存活率（SR）。所有鱼测完体重后，每个养殖桶中随机取5尾鱼进行尾静脉取血，装入 $1 . 5 ~ \mathrm { m L }$ 离心管，然后放置在 $4 ^ { \circ } \mathrm { C }$ 冰箱中过夜，随后 $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，将所得血清分装到 $1 . 8 ~ \mathrm { m L }$ 冻存管中，暂存液氮罐中速冻，用于测定血清生化指标和抗氧化酶活性。取肾脏、肝脏、肌肉用塑封袋分装，于 $- 2 0 { } ^ { \circ } \mathrm { C } .$ 冰箱中保存，用于测定硒含量。每个养殖桶取5尾鱼，丁香酚轻微麻醉后，取肝脏称重，计算肝体比（HSI），然后取肌肉，用于测定肌肉基本营养成分（粗蛋白质、粗脂肪、水分、粗灰分含量）。另从每个养殖桶中随机取3尾鱼，麻醉后置于冰盘上，取肝脏并混合放入冷冻管中，迅速放入液氮中， $- 8 0 ~ ^ { \circ } \mathrm { C }$ 暂存，用于测定肝脏GPx、GR、GST、SOD、CAT 活性和T-AOC。
+
+# 1.5 测定指标及方法
+
+全鱼和饲料中常规营养成分的测定方法采用AOAC法。组织中硒含量采用氢化物原子荧光光谱法测定（GB/T13883-2008）。肝脏和血清中抗氧化酶活性采用南京建成生物工程研究所提供的试剂盒并使用多功能酶标仪（SpectraMax iD3）测定。血清中LZM活性使用UV-2000型分光光度计测定，TP和IgM含量使用日立7020多功能生化分析仪测定。
+
+生长性能相关计算公式如下：
+
+增重率 $( \% ) \ =$ [(鱼体末重-鱼体初重)/鱼体初重] $\lvert \times 1 0 0$ 存活率 $( \%$ ） $\ c =$ (试验鱼终末尾数/试验鱼初始尾数) $\lvert \times 1 0 0$ 饲料系数（FCR） $\ c =$ 饲料摄食量/(终末均重-初始均重);肝体比 $( \%$ ） $\ L =$ （肝脏重量/鱼体重量） $\lvert \times 1 0 0$
+
+# 1.6 数据处理
+
+试验数据（存活率除外）以平均值 $\pm$ 标准误表示，采用SPSS19.0分析软件进行单因素方差分析(one-way ANOVA)，当差异显著（ $\cdot P { < } 0 . 0 5 \$ ）时，采用Tukey's检验比较不同组间差异。使用二次回归曲线对增重率、肝脏硒含量、血清LZM活性进行分析，以确定条纹锯鮨对硒的需求量。
+
+# 2结果
+
+2.1硒代蛋氨酸对条纹锯鮨生长性能的影响
+
+由表2可知，饲料硒含量为 $0 . 2 1 { \sim } 1 . 0 5 ~ \mathrm { m g / k g }$ 组的终末体重和增重率显著高于对照组1 $\cdot P { < } 0 . 0 5 \$ )；当饲料硒含量在 $0 . 0 9 { \sim } 0 . 5 8 \ \mathrm { m g / k g }$ 时，增重率随饲料硒含量的升高而呈升高趋势，饲料硒含量高于 $0 . 5 8 ~ \mathrm { m g / k g }$ 后降低并趋于平稳。对增重率进行二次曲线分析，得出条纹锯鮨饲料中硒代蛋氨酸的适宜添加量为 $0 . 6 2 \mathrm { m g / k g }$ （图1）。饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 组的饲料系数最低，显著低于饲料硒含量为 $0 . 0 9 \mathrm { m g / k g }$ 组（ $\cdot P { < } 0 . 0 5$ ）。随着饲料硒含量的升高，肝体比先降低后升高再降低。各组之间存活率没有显著影响（ $\scriptstyle P > 0 . 0 5 { \mathrm { ) } }$ ）。
+
+表2硒代蛋氨酸对条纹锯鮨生长性能的影响
+
+Table 2Effects of Se-Met on growth performance of Centropristis striata   
+
+<html><body><table><tr><td>饲料硒含量</td><td>初始体重</td><td>终末体重</td><td>增重率</td><td>存活率</td><td>饲料系数</td><td>肝体比</td></tr><tr><td>Dietary Se</td><td>IBM/g</td><td>FBM/g</td><td>WGR/%</td><td>SR/%</td><td>FCR</td><td>HSI/%</td></tr><tr><td>level/(mg/kg</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>0.09</td><td>81.76±1.51</td><td>127.49±3.76a</td><td>56.54±3.76a</td><td>98</td><td>2.51±0.14b</td><td>2.12±0.35bc</td></tr><tr><td>0.21</td><td>82.14±0.86</td><td>144.56±2.05c</td><td>75.98±2.05c</td><td>100</td><td>2.13±0.14a</td><td>1.88±0.21ab</td></tr><tr><td>0.44</td><td>80.69±0.49</td><td>141.53±1.27c</td><td>75.43±1.28c</td><td>97</td><td>2.17±0.15ab</td><td>1.71±0.29ab</td></tr><tr><td>0.58</td><td>81.34±0.60</td><td>149.72±1.46d</td><td>84.09±1.46d</td><td>98</td><td>2.02±0.26a</td><td>2.58±0.14c</td></tr><tr><td>0.77</td><td>82.33±0.14</td><td>137.29±1.18b</td><td>66.85±1.18b</td><td>98</td><td>2.57±0.15b</td><td>1.38±0.21a</td></tr><tr><td>1.05</td><td>81.59±1.15</td><td>134.53±2.46b</td><td>65.52±2.46b</td><td>98</td><td>2.47±0.31b</td><td>1.77±0.06ab</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $_ { \cdot } P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。In the same column, values with different smalletter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,whilewith the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+![](images/fe0541fc34646cdbbd05d705fde1c71df1832d6953895087e028a61d22c0b88e.jpg)  
+图1饲料硒含量与增重率的二次曲线模型
+
+Fig.1The second-order polynomial model between dietary selenium content and weight gain rate
+
+2.2硒代蛋氨酸对条纹锯鮨肌肉营养成分的影响
+
+由表3可知，各组之间肌肉水分和粗蛋白质含量没有显著差异（ $\scriptstyle P > 0 . 0 5 .$ ），肌肉水分含量为 $7 3 . 0 6 \% { \sim } 7 7 . 3 2 \%$ ，粗蛋白质含量为 $2 1 . 5 3 \% { \sim } 2 2 . 6 0 \%$ 。随着饲料硒含量的增加，肌肉粗脂肪含量呈先降低后升高的趋势，饲料硒含量为 $0 . 7 7 \mathrm { m g / k g }$ 组的肌肉粗脂肪含量最高，显著高于除饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 组的其他各组 $( P { < } 0 . 0 5 )$ 。饲料硒含量为 $0 . 4 4 \mathrm { m g / k g }$ 组的肌肉粗灰分含量最高，显著高于其他各组 $( P { < } 0 . 0 5 )$ ，其他各组之间无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）。
+
+表3硒代蛋氨酸对条纹锯鮨肌肉营养成分的影响  
+Table 3Effects of Se-Met on muscle nutrient component of Centropristis striata   
+
+<html><body><table><tr><td>饲料硒含量</td><td>水分</td><td>粗蛋白质</td><td>粗脂肪</td><td>粗灰分</td></tr><tr><td>Dietary Se level/(mg/kg)</td><td>Moisture</td><td>Crude protein</td><td>Crude lipid</td><td>Ash</td></tr></table></body></html>
+
+<html><body><table><tr><td>0.09</td><td>76.13±1.01</td><td>21.53±0.83</td><td>4.27±0.24a</td><td>2.93±0.38a</td></tr><tr><td>0.21</td><td>73.06±2.35</td><td>22.13±1.27</td><td>4.07±0.64a</td><td>3.33±0.64a</td></tr><tr><td>0.44</td><td>77.73±2.11</td><td>22.60±0.26</td><td>4.07±0.51a</td><td>5.70±0.72b</td></tr><tr><td>0.58</td><td>75.16±1.20</td><td>22.60±0.87</td><td>4.87±0.55ab</td><td>3.97±0.16a</td></tr><tr><td>0.77</td><td>75.37±3.16</td><td>22.13±0.81</td><td>5.57±1.06b</td><td>3.30±0.30a</td></tr><tr><td>1.05</td><td>74.97±2.61</td><td>22.00±0.17</td><td>4.33±0.72a</td><td>3.36±0.60a</td></tr></table></body></html>
+
+2.3硒代蛋氨酸对条纹锯鮨组织及血清硒含量的影响
+
+由表4可知，各组肌肉和肾脏中硒含量没有显著差异（ $_ { . } { \cal P } { < } 0 . 0 5$ ）。肝脏中硒含量随饲料硒含量的增加呈先升高后降低的趋势，饲料硒含量为 $0 . 7 7 \mathrm { m g / k g }$ 组的肝脏中硒含量显著高于饲料硒含量为0.09、0.21和 $0 . 4 4 ~ \mathrm { m g / k g }$ 组（ $. P { < } 0 . 0 5$ ）。血清中硒含量与饲料硒含量的关系与肝脏硒中含量趋势相同，饲料硒含量为 $0 . 5 8 ~ \mathrm { m g / k g }$ 组的血清中硒含量最高，显著高于饲料硒含量为0.09、0.21、0.44和 $1 . 0 5 ~ \mathrm { m g / k g }$ 组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）。对肝脏中硒含量进行二次曲线分析，得出饲料中硒代蛋氨酸的适宜添加量为 $0 . 9 2 \mathrm { m g / k g }$ （图2）。
+
+表4硒代蛋氨酸对条纹锯鮨组织及血清硒含量的影响  
+Table 4Effects of Se-Met on tissue and serum selenium content of Centropristis striata   
+
+<html><body><table><tr><td colspan="5">mg/kg</td></tr><tr><td>饲料硒含量</td><td>肌肉</td><td>肾脏</td><td>肝脏</td><td>血清</td></tr><tr><td>Dietary Se level/(mg/kg)</td><td>Muscle</td><td>Kidney</td><td>Liver</td><td>Serum</td></tr><tr><td>0.09</td><td>0.20±0.03</td><td>0.89±0.05</td><td>0.31±0.01a</td><td>0.08±0.04a</td></tr><tr><td>0.21</td><td>0.17±0.09</td><td>1.12±0.05</td><td>0.39±0.01a</td><td>0.09±0.07a</td></tr><tr><td>0.44</td><td>0.26±0.10</td><td>1.40±0.04</td><td>0.50±0.02a</td><td>0.10±0.04a</td></tr><tr><td>0.58</td><td>0.27±0.10</td><td>1.52±0.02</td><td>0.70±0.02ab</td><td>0.26±0.09b</td></tr><tr><td>0.77</td><td>0.28±0.06</td><td>1.60±0.06</td><td>1.02±0.02b</td><td>0.25±0.07b</td></tr><tr><td>1.05</td><td>0.25±0.07</td><td>1.63±0.02</td><td>0.74±0.06ab</td><td>0.12±0.01a</td></tr></table></body></html>
+
+![](images/abcc446668c5596b7a87c4d628b9099a8d4e709cc759f2d754470ba80c8ed5fc.jpg)  
+图2饲料硒含量和肝脏中硒含量的二次曲线模型
+
+Fig.2 The second-order polynomial model between dietary selenium content and liver selenium content
+
+2.4硒代蛋氨酸对条纹锯鮨血清和肝脏中抗氧化酶活性的影响
+
+由表5可知，血清 $\mathbf { G P x }$ 活性随饲料硒含量的升高而升高，饲料硒含量为 $1 . 0 5 \mathrm { m g / k g }$ 组的血清GPx活性显著高于其他各组（ $_ { . P < 0 . 0 5 }$ ）。血清GR活性随饲料硒含量的升高呈先上升后降低的趋势，饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 组的血清GR活性最高，显著高于饲料硒含量为0.77和1.05$\mathrm { m g / k g }$ 组。血清CAT活性随饲料硒含量的升高先升后降低，饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 组的血清CAT活性最高，显著高于饲料硒含量为0.09、0.21和 $1 . 0 5 \mathrm { m g / k g }$ 组（ $_ { . P < 0 . 0 5 }$ ）。各组之间血清SOD活性没有显著差异（ $\cdot P { > } 0 . 0 5$ ）。血清GST活性随饲料硒含量的升高先降低后升高，饲料硒含量为 $1 . 0 5 \mathrm { m g / k g }$ 组的血清GST活性最高，显著高于饲料硒含量为0.09、0.21、0.44和0.58$\mathrm { m g / k g }$ 组（ $_ { . } { \cal P } { < } 0 . 0 5$ ）。
+
+表5硒代蛋氨酸对条纹锯鮨血清中抗氧化酶活性的影响  
+Table 5Effects of Se-Met serum antioxidant enzyme activities of Centropristis striata   
+
+<html><body><table><tr><td>饲料硒含量</td><td>谷胱甘肽过氧</td><td>谷胱甘肽还原</td><td>谷胱甘肽S转移</td><td>超氧化物歧化</td><td>过氧化氢酶</td></tr><tr><td>Dietary Se</td><td>化物酶</td><td>酶</td><td>酶</td><td>酶</td><td>CAT/(U/mL)</td></tr><tr><td>level/(mg/kg)</td><td>GPx/(U/mL)</td><td>GR/(U/L)</td><td>GST/(U/mL)</td><td>SOD/(U/mL)</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>0.09</td><td>120.65±10.41a</td><td>1.67±0.17bc</td><td>98.77±3.51ab</td><td>33.98±1.16</td><td>6.06±0.73a</td></tr><tr><td>0.21</td><td>123.63±9.23a</td><td>1.74±0.09bc</td><td>65.39±3.22ab</td><td>36.91±1.66</td><td>8.97±0.96a</td></tr><tr><td>0.44</td><td>123.76±5.11a</td><td>1.85±0.19c</td><td>48.76±1.44a</td><td>42.90±3.57</td><td>14.55±0.72b</td></tr><tr><td>0.58</td><td>134.59±4.89a</td><td>1.86±0.18c</td><td>107.04±5.07ab</td><td>43.78±1.77</td><td>16.18±1.65b</td></tr><tr><td>0.77</td><td>138.92±6.14a</td><td>1.49±0.18ab</td><td>129.14±7.58bc</td><td>37.32±2.56</td><td>14.60±1.58b</td></tr><tr><td>1.05</td><td>160.62±1.62b</td><td>1.31±0.07a</td><td>164.48±9.43c</td><td>36.35±1.43</td><td>4.76±0.87a</td></tr></table></body></html>
+
+由表6可知，肝脏GPx活性随饲料硒含量的升高呈先上升后降低的趋势，饲料硒含量为$0 . 0 9 \mathrm { m g / k g }$ 组的肝脏GPx活性最低，显著低于饲料硒含量为0.44、0.58和 $0 . 7 7 \mathrm { m g / k g }$ 组 $( P { < } 0 . 0 5 )$ 。在饲料硒含量为 $0 . 0 9 { \sim } 0 . 5 8 \mathrm { m g / k g }$ 时，肝脏GR活性随着饲料中硒含量的升高而升高，饲料硒含量为 $0 . 0 9 \mathrm { m g / k g }$ 组的肝脏GR活性最低，显著低于饲料硒含量为0.44、0.58和 $1 . 0 5 ~ \mathrm { m g / k g }$ 组（ $\cdot P { < } 0 . 0 5$ ）。肝脏GST活性随着饲料硒含量的升高呈降低趋势，饲料硒含量为 $0 . 0 9 \mathrm { m g / k g }$ 组的肝脏GST活性最高，显著高于饲料硒含量为0.44、0.58、0.77和 $1 . 0 5 ~ \mathrm { m g / k g }$ 组（ $\cdot P { < } 0 . 0 5$ ）。肝脏SOD活性随着饲料硒含量的升高先升高后降低，饲料硒含量为 $0 . 7 7 \mathrm { m g / k g }$ 组的肝脏SOD活性最高，显著高于饲料硒含量为0.09和 $1 . 0 5 \mathrm { m g / k g }$ 组（ $. P { < } 0 . 0 5$ ）。肝脏CAT活性随着饲料硒含量的升高呈先升高后降低再升高的趋势，饲料硒含量为 $0 . 4 4 \mathrm { m g / k g }$ 组的肝脏CAT活性最高，显著高于其他各组（ $\cdot P { < } 0 . 0 5$ ）。各组之间的肝脏T-AOC差异不显著（ $\cdot P { > } 0 . 0 5 )$ ）。
+
+表6硒代蛋氨酸对条纹锯鮨肝脏中抗氧化酶活性的影响  
+Table 6Effects of Se-Met on liver antioxidant enzyme activities of Centropristis striata   
+
+<html><body><table><tr><td>饲料硒含量 Dietary Se</td><td>谷胱甘肽过氧化</td><td>谷胱甘肽还</td><td>谷胱甘肽S转移</td><td>超氧化物歧化</td><td>过氧化氢酶</td><td>总抗氧化力</td></tr><tr><td>level/(mg/kg</td><td>物酶</td><td>原酶</td><td>酶</td><td>酶</td><td>CAT/(U/mg</td><td>T-AOC/(U/mg</td></tr><tr><td>）</td><td>GPx/(U/mg prot)</td><td>GR/(U/g prot)</td><td>GST/(U/mg prot)</td><td>SOD/(U/mg prot)</td><td>prot)</td><td>prot)</td></tr><tr><td>0.09</td><td>340.56±10.35a</td><td>0.92±0.03a</td><td>29.45±2.04b</td><td>40.99±2.73ab</td><td>9.89±0.75a</td><td>0.95±0.08</td></tr><tr><td>0.21</td><td>344.33±12.02ab</td><td>0.97±0.09ab</td><td>29.22±1.05b</td><td>43.81±2.48abc</td><td>14.65±0.72a</td><td>0.89±0.02</td></tr><tr><td>0.44</td><td>364.63±5.34cd</td><td>1.13±0.35c</td><td>21.98±0.97a</td><td>44.03±3.28abc</td><td>24.52±1.85b</td><td>0.89±0.03</td></tr><tr><td>0.58</td><td>377.23±4.20d</td><td>1.51±0.03d</td><td>20.14±1.07a</td><td>53.17±2.29bc</td><td>12.04±0.82a</td><td>0.91±0.03</td></tr><tr><td>0.77</td><td>360.95±2.83bcd</td><td>0.94±0.06ab</td><td>22.43±1.45a</td><td>57.11±2.34c</td><td>13.39±1.59a</td><td>0.88±0.02</td></tr><tr><td>1.05</td><td>346.79±3.49abc</td><td>1.05±0.02bc</td><td>18.90±0.88a</td><td>34.48±1.46a</td><td>15.27±1.24a</td><td>0.86±0.20</td></tr></table></body></html>
+
+2.5硒代蛋氨酸对条纹锯鮨血清生化指标的影响
+
+由表7可知，饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 组的血清TP含量最高，显著高于其他各组( $. P { < } 0 . 0 5 )$ ）饲料硒含量为 $0 . 5 8 ~ \mathrm { m g / k g }$ 组的血清TC含量最高，显著高于饲料硒含量为0.09、0.21和0.44$\mathrm { m g / k g }$ 组（ $_ { \cdot } P { < } 0 . 0 5$ ）。各组之间血清TG含量和T-AOC没有显著差异（ $P { > } 0 . 0 5$ ）。血清IgM含量随饲料硒含量的升高呈先升高后降低的趋势，饲料硒含量为 $0 . 7 7 \mathrm { m g / k g }$ 组的血清IgM含量最高，显著高于饲料硒含量为0.09、0.21、0.44和 $1 . 0 5 ~ \mathrm { { m g / k g } }$ 组（ $\cdot P { < } 0 . 0 5$ ）。血清LZM活性随饲料硒含量的升高呈先升高后降低的趋势，饲料硒含量为 $0 . 7 7 \mathrm { m g / k g }$ 组的血清LZM活性最高，显著高于饲料硒含量为0.09、0.21、0.44和 $1 . 0 5 ~ \mathrm { m g / k g }$ 组（ $\cdot P { < } 0 . 0 5$ ）。对条纹锯鮨血清LZM活性进行二次曲线分析，得出条纹锯鮨对饲料硒的适宜需求量为 $0 . 7 2 \mathrm { m g / k g }$ （图3）。
+
+表7硒代蛋氨酸对条纹锯鮨血清生化指标的影响  
+Table 7Effects of Se-Met on serum biochemical indices of Centropristis striata   
+
+<html><body><table><tr><td>饲料硒含量 Dietary Se</td><td>总蛋白</td><td>总抗氧化能力</td><td>甘油三酯</td><td>总胆固醇</td><td>免疫球蛋白 M</td><td>溶菌酶</td></tr><tr><td>level/(mg/kg)</td><td>TP/(g/L)</td><td>T-AOC/(U/mL ）</td><td>TG/(mmol/L ）</td><td>TC/(mmol/L)</td><td>IgM/(g/L)</td><td>Lysozyme/(U/mL)</td></tr><tr><td>0.09</td><td>57.19±6.18bc</td><td>0.60±0.04</td><td>1.21±0.04</td><td>3.12±0.36a</td><td>1.06±0.01a</td><td>78.14±3.97a</td></tr><tr><td>0.21</td><td>38.86±8.74ab</td><td>0.61±0.05</td><td>1.33±0.11</td><td>4.59±0.94a</td><td>1.27±0.06b</td><td>111.3±6.36b</td></tr><tr><td>0.44</td><td>48.97±3.13abc</td><td>0.53±0.02</td><td>1.22±0.09</td><td>3.43±0.61a</td><td>1.27±0.09b</td><td>131.59±3.81c</td></tr><tr><td>0.58</td><td>80.77±7.50d</td><td>0.59±0.03</td><td>1.28±0.07</td><td>7.11±0.36b</td><td>1.35±0.03c</td><td>162.89±6.91d</td></tr><tr><td>0.77</td><td>61.68±5.53c</td><td>0.61±0.02</td><td>1.12±1.13</td><td>6.81±0.64b</td><td>1.41±0.09c</td><td>166.93±0.75d</td></tr><tr><td>1.05</td><td>30.03±2.25a</td><td>0.57±0.07</td><td>1.18±0.07</td><td>6.98±0.69b</td><td>1.04±0.01a</td><td>135.73±9.75c</td></tr></table></body></html>
+
+![](images/7efc25c92433ddb23847714d6161c697adc90e21620f7063d6ac60b01f24552f.jpg)  
+图3饲料硒含量和血清中溶菌酶活性的二次曲线模型
+
+# Fig.3The second-order polynomial model between dietary selenium content and serum
+
+lysozyme activity
+
+3讨论
+
+3.1硒代蛋氨酸对条纹锯鮨生长性能的影响
+
+许多关于饲料中添加硒对鱼类生长的影响的研究表明，在饲料中添加适宜浓度的硒可以促进鱼类生长并降低饲料系数。魏文志等[27]使用有机硒（含硒多糖和硒蛋白）含量为0.2$\mathrm { m g / k g }$ 的饲料饲喂异育银鲫，结果显示，其增重率提高了 $1 5 . 2 9 \%$ ，饲料系数降低了 $12 . 4 9 \%$ 。Lin等[30]研究发现，饲料中硒代蛋氨酸添加量为 $0 . 7 \mathrm { m g / k g }$ 时，点带石斑鱼增重率和饲料效率最高。本试验结果表明，饲料硒含量为 $0 . 5 8 \mathrm { m g / k g }$ 时，条纹锯鮨幼鱼的增重率最高，饲料效率最低，使用未添加硒代蛋氨酸的纯化饲料饲喂条纹锯鮨会抑制其生长，因此饲料中添加硒对于维持条纹锯鮨的生长和正常的生理功能是必要的。以增重率为评价指标，通过二次曲线模型分析得出条纹锯鮨对硒的需求量为 $0 . 6 2 \mathrm { m g / k g }$ ，与在罗非鱼[25]（ $0 . 6 \mathrm { m g / k g }$ ）、点带石斑鱼[30]( $\mathrm { \langle 0 . 7 \ m g / k g \rangle }$ ）中对饲料添加硒代蛋氨酸的研究结果比较接近。
+
+# 3.2硒代蛋氨酸对条纹锯鮨组织和血清中硒含量的影响
+
+硒可以在机体内蓄积，而机体中硒代蛋氨酸的增加不仅能够增加硒的吸收与沉淀，还可以作为内源性硒池，满足鱼体氧化应激状态下的快速利用。Bell等[31研究大西洋鲑对不同形式的硒的生物利用率发现，硒最重要的代谢地点是在肝脏、肾脏、肌肉处。Sele等[32]使用高效液相色谱与电感耦合等离子体质谱联用技术（HPLC-ICP-MS）分析饲喂有机硒和无机硒的大西洋鲑肌肉中硒的存在形式，研究证明，硒代蛋氨酸是大西洋鲑鱼肌肉中硒的主要存在形式。本试验结果表明，条纹锯鮨组织中硒含量的关系为肾脏 $\mathrm { > }$ 肝脏 $\mathrm { > }$ 肌肉 $>$ 血清，在饲料硒含量为 $1 . 0 5 ~ \mathrm { m g / k g }$ 时肾脏出现了组织硒含量的最高值。Elia等[33]使用硒含量为0.25和1.00$\mathrm { m g / k g }$ 的2种饲料饲喂鲤鱼，研究发现，鲤鱼肝脏、肾脏、肌肉的积累量分别是肾脏 $\ >$ 肝脏>肌肉，且在饲料硒含量为 $1 . 0 0 \mathrm { m g / k g }$ 时肾脏积累量达到最高值，本试验结果与其一致。本试验中，条纹锯鮨幼鱼肝脏中硒含量随饲料硒含量的增加先升高后降低，与军曹鱼[34肝脏中硒的积累趋势相同；肾脏中硒含量随饲料硒含量的增加而升高的趋势与虹鳟[35]一致。以肝脏中硒含量为评价指标，通过二次曲线分析，条纹锯鮨对饲料中硒的适宜需求量为0.92$\mathrm { m g / k g }$ 。条纹锯鮨肾脏中硒含量最高，说明条纹锯鮨肾脏相比肝脏和肌肉对饲料中硒代蛋氨酸具有更高的剂量效应。Tashjian等[28]使用硒代蛋氨酸添加量为 $0 . 4 { \sim } 2 0 . 5 \ \mathrm { m g / k g }$ 的饲料饲喂白鲟8周，研究发现，白鲟肾脏与肌肉中硒含量显著提高，肝脏中硒含量并无显著增加，表明不同鱼类即使使用同种硒源，各组织对硒的累积量也会有所不同。
+
+# 3.3硒代蛋氨酸对条纹锯鮨血清和肝脏中抗氧化酶活性的影响
+
+硒对生物机体的抗氧化主要是通过GPx等硒蛋白实现的。硒是GPx发挥活性作用必不可少的组分，在其活性中心有4个硒原子结合的硒代半胱氨酸，是氧化还原的中心。GPx是生物机体内重要的抗氧化酶之一，催化还原型谷胱甘肽(GSH)把体内的脂质过氧化物(ROOH)还原为无害的羟基化合物，并分解过氧化氢，从而阻断活性氧自由基（ROS）对机体的进一步损伤[36]。Behne等[37研究表明，大鼠血浆、肝脏、肾脏和肌肉中GPx活性与硒含量显著相关。GR是一种黄素蛋白氧化还原酶，以还原型辅酶Ⅱ为供氢体，能催化氧化型谷胱甘肽（GSSG）还原成GSH，对于维持生物体氧自由基的平衡起着重要作用[38]。在本试验中，血清中GPx活性随着饲料中硒含量的增加呈线性升高，肝脏中GPx活性随饲料硒含量升高先升高后降低，且与肝脏中硒含量积累相同，说明组织内高水平的硒可以诱导肝脏中GPx活性，增强机体防御自由基的能力。这与对石斑鱼[30]、军曹鱼[34]的研究结果类似。GST也是生物体内的解毒酶，随着饲料硒含量的升高，其活性降低。
+
+SOD和CAT一起构成机体的抗氧化防御体系，是细胞防御功能的第1道防线。有机硒对于鱼类抗氧化力的影响在石斑鱼[30]、军曹鱼[34]、杂交[39]的试验均有所研究。在正常条件下，超氧阴离子自由基（ $\mathbf { O } _ { 2 } \mathbf { \bar { \Gamma } }$ ）可被SOD催化生成过氧化氢和氧气，再由GPx和CAT分解成水[40]。本试验中，肝脏和血清中SOD活性均随着饲料硒含量升高先升高后降低，与杨原志等[34]试验中硒代蛋氨酸组饲料对于军曹鱼的结果相同，与罗非鱼[25]中血清SOD活性随饲料硒含量先升后降的结果一致。肝脏中CAT活性随饲料硒含量增加呈先升高后降低再升高的趋势，添加硒代蛋氨酸的各组肝脏中CAT活性均高于对照组，与肝脏中SOD活性相同，说明饲料中添加硒代蛋氨酸能够提高机体抗氧化力。
+
+硒虽然能维持硒蛋白和机体的正常生理功能，然而，硒本身也是有毒的，超过营养要求的身体积累的硒水平可能对生物体造成很大危害[41]。熊华伟等[42]以富硒酵母为饲料硒源，以硒含量为 $0 . 6 7 \mathrm { m g / k g }$ 饲料饲养斑点叉尾56d后发现，斑点叉尾出现中毒症状，肝脏产生病理性改变。因为机体需求量与有毒程度之间的范围很狭窄,硒被认为是一把"双刃剑"[43]。通过对小鼠的研究发现，硒代蛋氨酸的慢性毒性比亚硒酸钠小[44]。在本研究中，血清中GR、CAT、GST和肝脏中SOD、GST活性均随饲料硒含量上升呈先升后降的趋势，且在饲料硒含量最高（ $\mathrm { { . 1 . 0 5 \ m g / k g } ) }$ 时出现最低值，推测可能与饲料中硒含量超过了条纹锯鮨生理需求量，引起抗氧化酶系统紊乱或氧化应激有关。
+
+# 3.4硒代蛋氨酸对条纹锯鮨血清生化指标的影响
+
+血清IgM含量是反映鱼体免疫功能和抵抗力的重要指标。汪开毓等[45]研究发现，使用缺硒饲料喂养鲤鱼，血清IgM含量随饲料硒含量下降而下降，其分析认为缺硒导致鲤鱼肝脏、头肾、脾脏等器官的损伤，合成IgM能力下降。在本试验中，随着饲料硒含量的升高，条纹锯鮨血清中IgM含量和LZM活性均有升高趋势，在饲料硒含量为 $0 . 7 7 \mathrm { m g / k g }$ 时出现最高值，说明此时机体免疫功能最强。对条纹锯鮨血清LZM活性进行二次曲线分析，得出条纹锯鮨对饲料硒的适宜需求量为 $0 . 7 2 \mathrm { m g / k g }$ 。LZM是鱼体非特异性免疫的另一个重要组成成分，通过酶解病原体细胞壁的黏多糖，帮助机体抵御细菌、病毒、寄生虫的感染。Kong等[29]用添加酵母硒的饲料饲喂青虾，研究发现，在饲料硒含量为0.31、0.47、0.59和 $0 . 8 8 \mathrm { m g / k g }$ 时，青虾血清中LZM活性显著高于饲料硒含量为0.11和 $1 . 1 7 \mathrm { m g / k g }$ 时，这与本试验得出的结果相似。综上所述，饲料中硒代蛋氨酸的添加可以增强条纹锯鮨的免疫功能。
+
+4结论
+
+饲料中添加硒代蛋氨酸对条纹锯鮨生长性能、抗氧化能力、免疫功能方面有重要影响，通过二次曲线分析饲料硒含量对条纹锯鮨增重率、肝脏中硒含量、血清LZM活性的影响，得出条纹锯鮨对硒的适宜需求量分别为0.62、0.92、 $0 . 7 2 \mathrm { m g / k g }$ ，可见饲料中硒的适宜含量为 $\mathrm { 1 0 . 6 2 { \sim } 0 . 9 2 \ m g / k g }$
+
+# 参考文献：
+
+[1]LIN Y H.Effects of dietary organic and inorganic selenium on the growth,seleniumconcentration and meat quality of juvenile grouper Epinephelusmalabaricus[J].Aquaculture,2014,439:114-119.  
+[2]严旭霞,王彦波.元素硒在水产动物营养中的研究进展[J].饲料工业,2013,34(24):45-47.  
+[3]蒋守群.有机硒在动物营养上的研究与应用[J].饲料工业,2005,26(20):43-45.  
+[4] MURPHYR.了解不同类型的有机硒[J].国外畜牧学(猪与禽),2016,36(9):76-78.  
+[5]林国清.美洲黑石斑胚胎发育的观察及其规模化繁育技术研究[J].福建水产,2012,34(1):54-60.  
+[6]雷霁霖,卢继武.美洲黑石斑鱼的品种优势和养殖前景[J].海洋水产研究,2007,28(5):110-115.  
+[7]党冉,竺俊全,邱新志.美洲黑石斑鱼含肉率及肌肉营养成分分析[J].海洋学研究,2010,28(2):60-66.  
+[8]潘元潮,杨心德,陆波.美洲黑石斑大规格鱼种培育技术[J].水产养殖,2013,34(2):31-32.  
+[9]谢书秋.条纹锯鮨苗种批量培育技术[J].水产养殖,2017,38(9):17-19.  
+[10]张春禄,陈超,李炎璐,等.盐度对条纹锯鮨(Centropristis striata)仔鱼的活力、开口、摄食的影响[J].渔业科学进展,2017,38(2):77-82.
+
+[11]刘瑞棠.引进美洲黑石斑鱼海水网箱养殖试验[J].河北渔业,2011(10):28-29.
+
+[12]陈超,贾瑞锦,李炎璐,等.条纹锯鮨精子超微结构及其入卵过程的电镜观察[J].渔业科学进展,2014,35(5):77-82.
+
+[13]陈建国,陈超,李炎璐,等.美洲黑石斑鱼(Centropristis striata)"突眼症"的病原菌分离鉴定[J].渔业科学进展,2017,38(5):32-40.
+
+[14]崔兆进,赵海涛,付仲,等.美洲黑石斑苗种培育技术[J].河北渔业,2015(2):43-44.
+
+[15]油九菊,殷小龙,李伟业,等.美洲黑石斑烂尾病的诊断与防治[J].科学养鱼,2018(3):68-69.
+
+[16]刘洪军,官曙光,刘清华,等.美洲黑石斑精子超低温保存研究[J].海洋科学,2013,37(1):76-80.
+
+[17]梁萌青,王家林,常青,等.饲料中硒的添加水平对鲈鱼生长性能及相关酶活性的影响[J].中国水产科学,2006,13(6):1017-1022.
+
+[18]苏传福,罗莉,李芹,等.硒对草鱼抗氧化功能及组织结构的影响[J].西南师范大学学报（自然科学版）,2008,33(5):69-75.
+
+[19] GATLIN II D M,WILSON R P.Dietary selenium requirement of fingerling channel catfish[J].The Journal of Nutrition,1984,114(3):627-633.
+
+[20]金明昌,汪开毓.不同硒水平对幼鲤生产性能和免疫功能的影响[J].中国畜牧杂志,2008,44(5):32-36.
+
+[21] HILTON JW,HODSON P V,SLINGER S J.The requirement and toxicity of selenium in rainbow trout (Salmo gairdneri)[J].Journal of Nutrition,1980,110(12):2527-2535.
+
+[22] 曹娟娟,张文兵,徐玮,等.大黄鱼幼鱼对饲料硒的需求量[J].水生生物报,2015,39(2):241-249.
+
+[23]胡俊茹,王国霞,孙育平,等.饲料硒含量对黄颡鱼幼鱼生长性能、抗氧化能力和脂肪代谢基因表达的影响[J].动物营养学报,2016,28(12):3925-3934.
+
+[24]WANG W F,MAI K S,ZHANG W B,et al.Dietary selenium requirement and its toxicity in juvenile abalone Haliotis discus hannai Ino[J].Aquaculture,2012,330-333:42-46.
+
+[25] LEE S,NAMBI R W,WON S,et al.Dietary selenium requirement and toxicity levels in juvenile Nile tilapia,Oreochromis niloticus[J].Aquaculture,2016,464:153-158.
+
+[26] LIN Y H,SHIAU S Y.Mutual sparing of dietary requirements for alpha-tocopherol and selenium in grouper,Epinephelus malabaricus[J].Aquaculture,2009,294(3/4):242-245.
+
+[27]魏文志,杨志强,罗方妮,等.饲料中添加有机硒对异育银鲫生长的影响[J].淡水渔 业,2001,31(3):45-46.
+
+[28] TASHJIAN D H,TEH S J,SOGOMONYAN A,et al.Bioaccumulation and chronic toxicity of dietary l-selenomethionine in juvenile white sturgeon (Acipenser transmontanus)[J].Aquatic Toxicology,2006,79(4):401-409.
+
+[29] KONG Y Q,DING Z L,ZHANG Y X,et al.Dietary selenium requirement of juvenile oriental river prawn Macrobrachium nipponense[J].Aquaculture,2017,476:72-78.
+
+[30] LIN Y H,SHIAU S Y.Dietary selenium requirements of juvenile grouper,Epinephelus malabaricus[J].Aquaculture,2005,250(1/2):356-363.
+
+[31] BELL JG,PIRIE B J S,ADRON J W,et al.Some effects of selenium deficiency on glutathione peroxidase (EC 1.11.1.9) activity and tissue pathology in rainbow trout (Salmo gairdneri)[J].British Journal of Nutrition,1986,55(2):305-311.
+
+[32] SELE V,ORNSRUD R,SLOTH J J,et al.Selenium and selenium species in feeds and muscle tissue of Atlantic salmon[J].Journal of Trace Elements in Medicine and Biology,2018,47:1124-133.
+
+[33]ELIA A C,PREARO M,PACINI N,et al.Effects of selenium diets on growth,accumulation andantioxidantresponse injuvenilecarp[J].EcotoxicologyandEnvironmental Safety,2011,74(2):166-173.
+
+[34]杨原志,聂家全,谭北平,等.硒源与硒水平对军曹鱼幼鱼生长性能、肝脏和血清抗氧化指标及组织硒含量的影响[J].动物营养学报,2016,28(12):3894-3904.
+
+[35] PETTEM C M,BRIENS J M,JANZ D M,et al.Cardiometabolic response of juvenile rainbow trout exposed to dietary selenomethionine[J].Aquatic Toxicology,2018,198:175-189.
+
+[36]王咏梅.自由基与谷胱甘肽过氧化物酶[J].解放军药学学报,2005,21(5):369-371.
+
+[37] BEHNE D,ALBER D A,KYRIAKOPOULOS A.Effects of long-term selenium yeast supplementation on selenium status studied in the rat[J].Journal of Trace Elements in Medicine and Biology,2009,23(4):258-264.
+
+[38]孙虎山,王海娜,王宜艳.栉孔扇贝血淋巴中谷胱甘肽还原酶的活性研究[J].海洋通 报,2007,26(6):108-112.
+
+[39]刘新轶,马恒甲,冯晓宇,等.补充有机硒对杂交生长性能及抗氧化能力的影响[J].饲料研究,2013(4):57-59.
+
+[40]杨宏杰,陈咸川,郑敏,等.黄芪和丹参清除自由基能力的研究[J].复旦学报（自然科学版）,2003,42(6):935-938.
+
+[41] FORDYCE F M.Selenium deficiency and toxicity in the environment[C]//SELINUS O.Essentials of Medical Geology.Dordrecht:Springer,375-416.
+
+[42] 熊华伟,简少卿,贾小芳,等.富硒酵母对斑点叉尾鮰肝脏的毒性作用及蛋白质组学的影响[J].水产学报,2011,35(7):1008-1014.
+
+[43] WATANABE T,KIRON V,SATOH S,et al.Trace minerals in fish nutrition[J].Aquaculture,1997,151(1/2/3/4):185-207.
+
+[44] 1 胡秋辉,陈晓红,安辛欣,等.富硒茶提高大鼠非特异性免疫功能的效应[J].食品科学,2000,21(11):56-58.
+
+[45]汪开毓,彭成卓,金明昌,等.鲤硒缺乏的病理学[J].水产学报,2009,33(1):103-111.
+
+Effects of Selenomethionine on Growth Performance, Tissue Selenium Content, Antioxidant Capacity and Serum Biochemical Indices of Centropristis striata² ZHANG Qingwen1.2 CHEN Chaol\*SHAO Yanxiang1ZHAO Tingting1.2   
+(1. Key Laboratory of Sustainable Development of Marine Fisheries, Ministry of Agriculture, Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences, Qingdao 266071, China; 2. College of Fisheries and Science, Shanghai Ocean University, Shanghai 201306, China)
+
+Abstract: This experiment was conducted to investigate the effects of selenomethionine (Se-Met) on growth performance, tissue selenium content, antioxidant capacity and serum biochemical indices of Centropristis striata. A total of 54O healthy juvenile Centropristis striata with the initial body weight of $( 8 1 . 6 2 { \pm } 0 . 7 5 ) \$ ） g were randomly divided into 6 groups with 3 replicates per group and 30 fish per replicate. Fish in those groups were fed experimental diets which containing 0.09 (control group)，0.21，0.44，0.58，0.77 and $1 . 0 5 ~ \mathrm { \ m g / k g }$ selenium， respectively.The experiment lasted for 8 weeks.The results showed as follows: 1) the final body weight and weight gain rate of dietary selenium content $0 . 5 8 ~ \mathrm { m g / k g }$ group were the highest, and significantly higher than those of other groups ( $( P < 0 . 0 5 ) \$ ). The feed conversion rate of dietary selenium content 0.58 $\mathrm { m g / k g }$ group was the lowest, and significantly lower than that of dietary selenium content 0.09, 0.77 and $1 . 0 5 ~ \mathrm { m g / k g }$ groups $( P < 0 . 0 5 ) \$ . 2） The muscle crude lipid content of dietary selenium content $0 . 7 7 ~ \mathrm { m g / k g }$ group was the highest,and significantly higher than that of other groups except dietary selenium content $0 . 5 8 ~ \mathrm { m g / k g }$ group $( P < 0 . 0 5 ) \$ . The muscle crude ash content of dietary selenium content $0 . 4 4 ~ \mathrm { m g / k g }$ group was the highest, and significantly higher than that of other groups ( $\left( P < 0 . 0 5 \right)$ ). 3） The liver selenium content of dietary selenium content $0 . 7 7 ~ \mathrm { m g / k g }$ group was significantly higher than that of dietary selenium content O.09, 0.21 and $0 . 4 4 ~ \mathrm { m g / k g }$ groups $( P { < } 0 . 0 5$ ). The serum selenium content of dietary selenium content $0 . 5 8 ~ \mathrm { m g / k g }$ group was the highest, and significantly higher than that of dietary selenium content 0.O9,0.21, 0.44 and 1.05 （204号 $\mathrm { m g / k g }$ groups $( P { < } 0 . 0 5 )$ ). 4) The serum glutathione peroxidase $( \mathrm { G P x } )$ activity of dietary selenium content $1 . 0 5 ~ \mathrm { m g / k g }$ group was significantly higher than that of other groups ( $\lceil P { < } 0 . 0 5$ ). The serum glutathione reductase (GR) activity of dietary selenium content $0 . 5 8 ~ \mathrm { m g / k g }$ group was the highest, and significantly higher than that of dietary selenium content 0.77 and $1 . 0 5 ~ \mathrm { m g / k g }$ groups ( $P <$ 0.05). The serum catalase (CAT) activity of dietary selenium content $0 . 5 8 ~ \mathrm { m g / k g }$ group was the highest,and significantly higher than that of dietary selenium content 0.09,0.21 and $1 . 0 5 ~ \mathrm { m g / k g }$ （204号 groups $( P { < } 0 . 0 5$ ). The serum glutathione S-transferase (GST) activity of dietary selenium content （204 $1 . 0 5 ~ \mathrm { m g / k g }$ group was the highest, and significantly higher than that of dietary selenium content 0.09, 0.21, 0.44 and $0 . 5 8 ~ \mathrm { m g / k g }$ groups $( P { < } 0 . 0 5 )$ ). 5) The liver $\mathrm { G P x }$ activity of dietary selenium content $0 . 0 9 \mathrm { m g / k g }$ group was the lowest, and significantly lower than that of O.44, 0.58 and 0.77 $\mathrm { m g / k g }$ groups $( P { < } 0 . 0 5$ ). The liver GR activity of dietary selenium content $0 . 0 9 \mathrm { m g / k g }$ group was the lowest, and significantly lower than that of 0.44, 0.58 and $1 . 0 5 ~ \mathrm { m g / k g }$ groups $( P { < } 0 . 0 5 )$ ). The liver GST activity of dietary selenium content $0 . 0 9 \mathrm { m g / k g }$ group was the highest, and significantly higher than that of dietary selenium content 0.44, 0.58, 0.77 and $1 . 0 5 ~ \mathrm { m g / k g }$ groups( $( P < 0 . 0 5 )$ ！ The liver superoxide dismutase (SOD) activity of dietary selenium content $0 . 7 7 ~ \mathrm { { m g / k g } }$ group was the highest, and significantly higher than that of dietary selenium content 0.09 and $1 . 0 5 ~ \mathrm { m g / k g }$ （204 groups $( P < 0 . 0 5 )$ ). The liver CAT activity of dietary selenium content $0 . 4 4 ~ \mathrm { m g / k g }$ group was the highest, and significantly higher than that of other groups ( $( P < 0 . 0 5 ) \$ ). 6) The serum total protein content of dietary selenium content $0 . 5 8 ~ \mathrm { m g / k g }$ group was the highest, and significantly higher than that of other groups $( P < 0 . 0 5 )$ . The serum total cholesterol content of dietary selenium content $0 . 5 8 ~ \mathrm { m g / k g }$ group was the highest, and significantly higher than that of dietary selenium content 0.09, 0.21 and $0 . 4 4 ~ \mathrm { m g / k g }$ groups $( P { < } 0 . 0 5 )$ . The serum immunoglobulin M content and lysozyme activity of dietary selenium content $0 . 7 7 \mathrm { m g / k g }$ group was the highest, and significantly higher than those of dietary selenium content O.09, 0.21, 0.44 and $1 . 0 5 ~ \mathrm { m g / k g }$ groups $( P { < } 0 . 0 5 )$ ） Based on weight gain rate, liver GPX activity and serum lysozyme activity as evaluating indicators by quadratic curve analysis, the dietary selenium requirement of Centropristis striata are 0.62, 0.92 and $0 . 7 2 ~ \mathrm { m g / k g }$ ，respectively,and the suitable dietary selenium content is 0.62 to （204号 $0 . 9 2 \mathrm { m g / k g }$
+
+Key words: Centropristis striata; selenomethionine; growth performance; tissue selenium content; antioxidant capacity

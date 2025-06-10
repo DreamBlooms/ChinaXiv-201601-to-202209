@@ -1,0 +1,405 @@
+[
+    {
+        "type": "text",
+        "text": "基于文献计量分析与内容分析法的国内外智库研究进展综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "裴瑞敏1,2，刘慧晖1,2，杨国梁1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院科技战略咨询研究院 北京 100190²中国科学院大学 北京 100049",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：[目的/意义]智库作为独立运作且相对稳定的政策研究和咨询机构，为政府、企业及社会公众提供决策参考，对实现我国决策的科学化和民主化具有重要作用。然而，我国智库研究落后于国外智库研究近20年，且智库发展过程中也存在诸多问题亟待研究。因此，综述分析国内外相关智库研究，识别研究发展趋势和重要研究主题，为我国高端智库建设提供理论依据，具有重要意义。[方法/过程]本文基于文献计量分析和内容分析法对国内外智库研究现状进行分析，总结国内外智库的发展趋势，识别智库研究的重要主题。[结果/结论]通过对智库影响力研究、智库建设与运行机制研究、智库信息管理与情报支撑研究3个重要主题进行深入分析，探寻智库研究发展的研究趋势和重点，以期推进中国特色新型智库的建设进程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：智库影响力 运行机制情报文献计量分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：C931.5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为社会主义民主政治建设的重要任务，决策科学化是指基于科学的决策思想指导，按照科学的决策规律，遵循科学的决策程序，运用科学的决策方法进行决策。然而，科学的决策离不开科学咨询机构，即专业智库的支持。所谓智库（ThinkTank），又称思想库、智囊团、脑库等。实际上，只要需要决策的地方，就需要有人出思想、出对策、出声音，因此，自古至今一直都有类似智库的机构[]。现代意义上的智库起源于20世纪70年代的西方国家，美国学者PaulDickson首先将智库界定为：一种独立运作且相对稳定的政策研究和咨询机构，其研究人员通过科学的研究方法对广泛的政策问题进行跨学科研究，在与政府、企业及大众密切相关的政策问题上提出咨询建议[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国现代意义上的智库则是出现于新中国成立之后。随着经济全球化的发展，我国的智库建设日益受到重视。一方面，各国之间的竞争日益激烈，我国面临的外部环境较为复杂，需要智库充分发挥前沿引领作用；另一方面，网络信息技术迅猛发展，加强了政务公开化的程度，社会舆论环境更加复杂，需要智库合理利用网络传播，充分发挥决策咨询作用。2013年，党的十八届三中全会做出的《中共中央关于全面深化改革若干重大问题的决定》明确表示要“加强中国特色新型智库建设，建立健全决策咨询制度”，至此我国的智库建设已上升到国家战略高度。随着深化改革的步伐加快，智库建设如雨后春笋般蓬勃发展起来，不仅中央层面启动高端智库建设试点工作，地方以及各高校也积极参与到智库建设中。因此，智库相关研究也引起了国内外学者的广泛关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用文献计量分析和内容分析等方法，对国内外智库相关研究的现状和发展态势进行梳理，探寻智库研究发展的趋势和重点，以期为我国智库研究、建设和发展提供决策参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1国内外智库研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智库作为继立法、行政、司法和媒体之后的“第五权力中心”，是国家决策咨询系统或体系的重要组成部分3，智库研究也是国内外学者关注的重要议题。本节利用文献计量法分别对国内外智库研究现状进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在Webof Science（WoS）核心合集中以“think tank\\*\"为主题进行检索（文献检索时间截至：2017年8月9日），得到期刊论文、会议论文、书的章节共1,445条记录；在CNKI数据检索平台中以“智库”“思想库”和“智囊机构”为主题对CSSCI收录的期刊（含扩展版）进行检索（文献检索时间截至：2017年8月9日），去除“卷首语、订阅信息、会议通知、征稿启事、目录、中心简介”等不相关文献，得到1,662条记录，据此描绘国内外智库研究文献数量年度变化趋势（图1和图2）。可以看出，国内外智库的研究文献数量总体呈增长趋势，然而，我国智库研究文献较国外智库研究文献出现晚10多年。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/da2d608f8078a19b7238a0aeecc8e805b0358549e4a7291c93a5174bc95e538e.jpg",
+        "img_caption": [
+            "图1国外智库研究发文量"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4388d746f94dc612c0e1deb71a87ac4cbff3af7fb48b976f3af29407a54553e5.jpg",
+        "img_caption": [
+            "图2国内智库研究发文量",
+            "Figure 1Published paper of abroad think tank ",
+            "Figure2Published paperofthinktankinChina "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1国外智库研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从研究趋势来看（见图1），虽然国外智库研究出现在20世纪70年代左右，但一直处于潜伏期，直到20世纪90年代智库研究才开始不断发展壮大。此外，一些关于智库的重要著作，例如迪克森（Dickson）的《智库》[2]、斯通（Stone）的《跨国智库比较研究》[、埃布尔森（Abelson）的《智库重要吗？公共政策机构影响力评价》[5等都成为智库研究的经典。国外智库研究影响力较大的学者有麦甘（James G.McGann）、埃布尔森（Donald EAbelson）、斯通（Diane Stone）、里奇（AndrewRich）、詹姆斯（Simon James）、迪克森（Paul Dickson）、戴伊（ThomasDye）等，其中McGann 是美国宾夕法尼亚大学“智库和市民社会研究项目（TTCSP）”的负责人，宾夕法尼亚大学自2006年开始每年发布1份全球智库排名报告。总体来看，国外智库发展可划分为历史路径、实证主义和国际比较研究3个阶段，重点研究了智库影响政策形成的多元理论、精英理论和国家理论等[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INTERNATIONALRELATIONS PUBLIC ADMINISTRATION GOVERNMENT&LAW POLITICALSCIENCE BUSINESS&ECONOMICS ENGINEERING ENVIRONMENTALSCIENCES&ECOLOGY ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从研究内容来看，国外智库的理论研究多集中于政治学中，主要围绕政治学研究路径、政策过程研究路径、知识运用研究路径进行讨论，尤其是研究智库在国家政策制定中所扮演的角色和发挥的作用，例如，美国智库对越战政策形成过程的影响[等。利用Citespace对WoS数据平台中的智库相关研究进行主题分析后发现，这些论文的主题主要集中在公共管理、政策、法律、环境、经济、政府等方面（图3）。此外，智库的影响力研究和评价也是研究重点[5,&-II]。随着智库研究的发展，智库研究也从定性的研究转向定量的研究[I]。另外，智库在领域政策中具有一定的影响力，主要的领域包括国际关系与外交政策[12-22]、环境科学[23-25]、人类健康[23,26-32]、教育[33-35]等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2国内智库研究现状",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我国智库研究文献最早出现于20世纪90年代左右，2013年开始呈井喷式增长[1。国内智库研究有影响力的学者主要有薛澜、丁煌、任晓、朱旭峰、王莉丽等[36]，这些学者主要对美国智库发展进行研究，并逐步引向国内智库研究，集中于以下领域：专家决策咨询，公共政策议程设置，中国思想库的内涵、社会职能、影响力，智库的旋转门机制等。利用Citespace对CNKI数据库中的智库相关研究进行主题分析发现，国内关于智库的研究主要集中在智库建设、决策咨询、美国、特色智库等（图4）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中国特色新型智库新型智库中华人民共和国美国智库 策咨询高校智库教育智库智库建设 一带一路智库北美洲美国中国智库思想库决策智囊团美利坚合众国",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从内容分析角度，我国智库研究经历了3个阶段：从智库的内涵及外延研究到欧美智库发展模式研究，再到中国特色新型智库建设研究[36]。杨安等[1对中国智库研究进行分析，形成12个聚类主题，融合为4个方面：面向决策支持的智库角色定位、智库影响对外政策的运作机制、智库影响力的机理分析与评价、中国特色新型智库建设与发展（截至2014年12月31日的文献）。2014年后，国家建设新型智库政策的出台，进一步推动了国内智库研究，涌现了一批关于新型智库建设的研究成果，除了上述提到的关于智库本身建设、评价、机制等的讨论，很多学者从讨论领域智库和特色智库的建设，例如教育智库、高校智库、旅游智库等[37-40]；另一方面，智库的情报研究以及情报机构如何向智库转型的研究也随之浮出水面，成为亟待研究的重要问题[41-47]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总体来看，虽然国内智库研究的文献较多，但研究离散程度高，智库研究的多数学者主要分散在政策研究、情报研究、公共管理研究、新闻研究等研究团队中，很多学者关于智库的研究呈现阶段性或偶然性特征，没有很好的连续性，智库研究没有形成强有力的专业核心团队和研究体系。关于智库的研究内容也主要集中在对国外智库发展的认知和引介，以及对国内智库建设的探索和完善。自2014年起逐步出现了关于智库的定量研究，但研究成果数量还很欠缺。此外，无论在实践层面还是研究层面，我国智库在运行机制、队伍建设等方面的转型发展尚未到位[1]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2智库研究的重要主题",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过上文中对国内外智库研究的现状分析可以看出，智库研究的重要作用日益凸显。在对文献进行整体分析的基础上，对重点文献进行了内容分析，发现智库影响力、智库建设与运行、智库的情报支撑等主题成为智库研究中的重要研究问题，受到国内外学者的广泛关注。根据分析，发现这3个研究问题在一定程度上存在着内在的逻辑关系，由于智库建设与运行的核心问题体现在智库的影响力上，而影响力取决于智库研究成果的质量，研究质量又建立于情报收集和处理的基础上，即，智库的影响力、建设与运行、情报支撑研究三者是相辅相成的关系，构成了目前智库研究中的核心问题。因此，下文将着重围绕这3项主题进行阐述。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1智库影响力研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "智库的主要研究对象为政策，通过为政府等决策部门提供建议和方案等决策咨询服务的影响和声誉来维持自身的生存。智库影响力是指智库通过其研究成果来影响决策者或公众思考、判断及行为的能力[48]。因此，智库影响力不仅是智库的价值和意义所在，而且是智库核心竞争力的体现，逐渐成为智库研究中的重要主题。智库通常通过参与国家公共政策或其他政策的制定和实施、引导公众舆论、利用国际政策网络来发挥其影响力。然而，由于缺乏统一的评价标准，21世纪前智库影响力的研究局限于定性分析阶段，智库影响力评价的定量分析于近些年才广泛开展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2000年，NicolasRuble首次对智库影响力进行定量分析，估计了2年内共12家经济政策智库和171位智库学者的新闻能见度[49]。2002 年，Adam Posen 将Nicolas Ruble的研究进行扩展，对16家智库和276位经济学家开展研究[50]。2005年，Susanne Trimbath将NicolasRuble的研究观测期延长至8年，并补充了智库与媒体的数量[51]。2009 年，Donald EAbelson 利用政策过程概念框架创新了智库影响力评价的方法，该方法以智库被媒体引用的概率和出席国会听证会的次数为评价依据，据此对美国和加拿大智库的政策影响力进行比较[5]。2012年，PeterTLeeson 等利用计量回归法评价了美国的自由市场导向型智库在政府支出、税收和私有化领域中8类相关公共政策的影响力[52]。此外，自2006年起，JamesGMcGann 等每年均会发布《全球智库报告》，2016年该报告已覆盖全球智库中的6,846家，并且已成为许多国家智库评价的重要依据[53]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "国内的智库影响力研究最初聚焦于国外的智库影响力及其评价模式的定性研究，近年来逐渐形成智库影响力评价体系的定量研究[54]。例如，王桂侠和万劲波从社会资本、受众对象、影响渠道、介入时机、产品市场和思想产品等维度构建了科技智库影响力的基本要素模型[55]。陈升和孟漫根据智库影响对象的不同将智库影响力划分为政策影响力、学术影响力及社会影响力3个维度，对中国智库的影响力进行了测算研究[5。陈媛媛从信息计量学视角，采用统计分析方法对智库的学术性进行定量评价与分析[57]。杨思洛和冯雅从智库网站建设、智库网络传播、智库新媒体维度构建了智库网络影响力评价指标体系[58]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可以看出，智库影响力逐渐从定性向定量研究发展，且智库影响力水平不仅取决于智库拥有的顶级专家数量和资金情况，还应体现出智库研究成果被决策者采纳的情况。智库作为现代决策咨询体系的重要组成部分，如何合理地评价智库影响力从而更好地建设高端智库是值得研究的重要主题。然而，我国智库影响力评价研究尚处于初级阶段，影响力的相关研究亟待深入开展，以期明确我国智库未来的发展方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2智库建设与运行机制研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "智库的建设不仅要关注智库的自身运行机制和研究质量，而且也需有政府资助和各方面的支持，通过智库内外部的共同作用保障智库建设的顺利开展。其中，智库的运行机制是智库生存发展的固有机能，引导和制约着智库的运行行为及相应制度，运行机制不完善将导致智库要素资源的浪费。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "国外智库运行机制的研究始于20世纪90年代，Stone初步对智库的组织管理和认知进行了探讨[59]。随后，智库运行机制的研究逐渐引起了相关学者的重视。例如，McGann对国际典型智库的机制以案例讨论的方式进行了介绍[60]，并分析了全球化智库的组织结构及其历史机遇和挑战[611；Struyk针对智库运行的人员激励机制、成本管理机制、沟通机制和竞争机制等进行了详细的研究，为优化智库的运行提供依据[62]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "我国智库建设起步较晚，相关研究在近几年才大量涌现。2015年，中央文件《关于加强中国特色新型智库建设的意见》明确表示要“加强中国特色新型智库建设，建立健全决策咨询制度”。至此，智库建设引起我国政府的高度重视，我国的智库建设迈入黄金时期。从我国目前研究文献来看，关于智库运行机制的研究主要分为3类。第1类集中在对国外智库建设的运行机制进行介绍，例如，杨尊伟和刘宝存对美国智库进行分类，并分析了美国智库的运行机制和基本特点[63]；刁榴和张青松对日本智库的模式及存在的问题进行深入分析[64]；刘旺洪对英国智库的运行机制特色进行研究，分析了英国智库的发展方向[65]。第2类是国外智库建设对我国智库的启示，例如丁宏结合英国智库建设的运行机制给出了对我国智库建设的启示建议；莫神星和张平通过对美国智库建设经验的分析，提出了美国智库的政策分析独立性、资金来源多元化和旋转门机制对我国智库建设的启示[67]。第3类是对我国智库建设的运行机制开展研究，例如张家年和卓翔芝从情报视角探讨了我国智库建设的运行机制和途径[68]；周湘智从运行技术与实施流程方面对我国智库建设运行机制进行研讨[69]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可以发现，国外著名智库大多形成了成熟和完备的智库运行机制，然而我国智库的当前运行机制存在着诸多问题，例如，我国智库组织关系较单一，智库的运行成本较高和工作效率较低，运行机制导致理论研究与实际应用研究匹配度较低，研究成果的质量难以保障。因此，中国特色新型智库建设需从智库内部着手，重点解决智库的运行机制问题，响应智库理论发展与实际应用的完美结合，尽快完善中国特色新型智库的运行机制框架。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3智库信息管理与情报支撑研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在传统的认知中，情报机构和情报工作为智库提供重要的支撑作用。情报在智库前端研究中起着重要的作用，情报机构是智库的重要信息资源，负责文献资料提供、资源网站建设以及智库成果保存，也是智库的信息服务平台，负责制定检索策略、确定研究策略和分析方法、个性化定制与推送，同时还承担着智库的成果评价职能[42]。智库的知识再生产过程得以进行离不开知识资源的支持，它需要掌握全面而准确的信息资源，利用科学的方法对数据和信息进行分析，才能保证研究结论的可靠性，情报机构几乎参与上述智库知识生产的全过程。随着情报研究的发展，情报机构以及情报工作在智库中发挥的职能已经远超过上述职能，可以说情报研究和情报工作已经越来越接近智库职能，智库也越来越离不开其情报研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "智库的情报机能实质上是站在情报的视角看智库的建设与发展。情报学是一门研究情报活动及其规律的学科，并以服务组织决策为目标。智库则为决策主体提供直接或间接的服务，并在政策决策中扮演着重要角色[3]。可以说，从服务决策视角来看，情报与智库建设有着密切联系。从服务于决策的本质来看，智库与情报研究具有较高的相似性和密切的关联性[7]。反过来讲，智库提供各类信息资源以及咨询服务，实质上也属于情报学研究的重要内容之一。一般来说，智库遵循着资料搜集、研究分析与拟定方案的“三步走”战略，这实际上分别对应着情报研究（工作）中的情报收集、情报分析与情报服务（评估与应用）。目前来看，情报学对信息资源共享、信息服务、知识管理、专家智慧等研究已经取得了重大进展，这恰恰迎合了智库建设的相关理念。不仅如此，智库的“知行合一”为情报学的理论和实践提供了若干思考[3]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在实践中，从情报机构向智库转型，国际上也有典型案例。例如胡佛研究所（HooverInstitution）是美国著名公共政策智库机构，其前身是创办于1919年的“胡佛战争图书馆”。随着时间的发展，胡佛研究所越来越向智库功能靠拢，研究所及其学者们取得了丰富的研究成果，也逐渐获得智库业界的认同，其在 20世纪上半叶逐步完成了从图书馆到公共政策智库的转型[70]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我国情报研究机构是“出对策”的主力军，有“出思想”的优秀历史传统，也有“出声音”的潜质，具备进行智库转型的基础条件，可能将其转变成适合现代决策要求的新型智库[41]。此外，实践中越来越多的大科学、大工程等项目，以及日益复杂的信息环境表明：在很多重大问题的处理上，以往的决策形式、方式、机制等已难以应对及处理复杂化的决策事务，政府依赖于智库的“情报产品”“知识精华”为其出谋划策、资政谋远[3]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2015年1月习近平总书记提出《建设新型智库的建议》，探讨情报视角下智库建设问题是一个新兴的课题，同时对于如何通过情报学的发展来促进新型智库建设也有积极意义[3。但是，仅有情报收集和分析能力难以成为一个有影响力的智库。智库的核心竞争力在于支撑战略决策的研究能力[3]。虽然传统的科技情报机构要成为新型科技智库有天然的基础与优势，但是研究能力和队伍仍是当前的短板[71]。从文献分布来看，我国关于智库情报机能的研究较少，从微观角度尤其是情报队伍和能力角度的研究更少。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3智库研究发展趋势",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从文献分析可见，随着智库研究的队伍不断壮大，涌现了大量的研究成果，发现了一系列特点和趋势，但也有一些尚欠成熟的研究领域，主要总结如下。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1智库研究内容和研究对象逐渐多样化，从单一学科向多学科交叉转化",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最初智库研究主要集中在政治学、社会学、公共政策与公共管理学领域，例如国外智库研究的著名学者埃布尔森、麦甘、斯通等人都是大学政治学、社会学、政策学等领域的教授；国内的朱旭峰、薛澜、任晓等人也是公共政策和国际关系领域的教授。随着经济社会的不断发展，进入21世纪后国内外的智库研究呈现出“百家齐鸣”的状态，对智库相关文献进行研究主题演化分析可以看出，在教育学、情报学、管理学、经济学，甚至心理学、医学、环境科学、工程学等领域都有智库研究的相关成果（见图5和图6）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e318fe5e3ea7f0a46314002d27f299c9a5ec6aaa2fc5183334f9bcc960abbb3.jpg",
+        "img_caption": [
+            "图5基于WoS的智库研究主题演化分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/569dfdb31337169eaa9f60847ed67a23d3a67226827fd4feb23bf583966242c3.jpg",
+        "img_caption": [
+            "Figure 5 Research topic evolution analysis based on WoS ",
+            "图6基于CNKI的智库研究主题演化分析",
+            "Figure 6 Research topic evolution analysis based on CNKI "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2智库研究正经历从定性研究到定量研究的转折过程中，研究方法不断丰富目前，国内外对智库的研究正处于从定性分析到定量研究的转折过程中。传统  \n的定性研究方法包括历史研究方法和比较研究方法。例如，史密斯较早地分析了作  \n为“政策精英”的政策专家以及后来逐渐形成的智库专家在美国政治中形成与壮大",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "的历史。考斯特立足于历史的视角分析了英国自由市场的经典自由派智库自1931年至1983年的半个世纪中从形成、发展、成功到衰落的过程。詹姆斯·麦肯在《智库与公民社会：思想与行动的催化剂》、斯通在《跨国智库比较研究》中较早进行了智库的比较研究。美国外交政策研究所的麦甘教授于1995年发表的著作《公共政策研究产业中经费、学者和影响力的竞争》开创了智库定量研究的先河[72]。随后，定量研究方法逐步在智库研究中普及，斯通在《俘获政治意象：智库与政策过程》中首次在中观实证层面分析了智库在政策过程中的影响力[59]。詹姆斯·麦肯首次运用问卷调查方法实证考察了智库的发展情况。埃布尔森通过观点被主要媒体的引用率和出席国会听证会的次数，定量分析了美国和加拿大智库的政策影响力[5]。里奇首次将回归分析的定量研究方法应用于智库研究中。国内的陈升等人也利用统计学方法研究智库影响力机制[5]，虽然智库的定量化研究逐步兴起，但仍未形成气候。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "最新的智库研究方法是以多学科综合研究方法为主要特征的系统分析方法。由于政治决策及重大经济问题抉择一般都与经济增长、政治稳定、劳动就业、社会福利、大众文化等领域相关，所以单纯的基于某一单独学科的决策咨询研究已经无法满足决策者的基本需求，进而产生了应用多学科方法开展综合性、系统性研究的现实需要。其中，集成政策分析就是系统性智库研究方法的重要成果之一[]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3智库研究逐步从宏观转到微观，但研究还很欠缺",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "朱旭峰从宏观-体制、中观-模式、微观-行动3个维度提出了建设中国特色新型智库的理论框架[74]。在宏观-体制维度，主要讨论中国智库发展与中国政治经济体制、政策决策体系和中国传统文化的关系；在中观-模式维度，进行例如智库建设的组织类型、地方差异、专家个体特质等多方面与政策参与模式的研究；在微观-行动维度，加强对中国特色新型智库的组织定位研究，包括人才资源、经费资源、信息资源等内部治理的研究，以及中国智库政策分析方法和信息支持研究[73]。从国内外文献可以看出，随着更多学者加入智库研究的队伍，智库研究也从最初的讨论智库的内涵与外延以及国外智库的引介，逐步转向对智库问题的深入研究，例如智库的情报机能研究[3]、智库影响力的提升策略[74]、智库运作机制研究[75]、智库型人才的素质结构[，但关于智库内部的人力资源和经费资源的研究仍未深入、相对欠缺。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "学界的共识认为智库已经成为衡量国家软实力水平的重要指标之一。国家近两年对智库重视程度之高、推进力度之大不同以往。随着智库不断发展，智库机构的不断建立，智库在国家政策制定和决策中发挥越来越重要的作用，同时，建设我国特色新型智库已上升为国家战略，迫切需要加大这方面的研究。因此，在我国智库建设进程中，如何合理地识别分析智库研究的重要主题，是我国建设新型智库中的关键问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论与展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "随着科技改革的推进，我国面临的国内外问题日益复杂，政府决策的正确性对我国社会经济的发展至关重要。智库作为独立运作且相对稳定的政策研究和咨询机构，为政府、企业及社会公众提供决策参考，对实现我国决策的科学化和民主化具有重要作用。本文通过对国内外智库研究现状进行分析，基于文献计量分析凝练目前智库研究的重要主题，即智库影响力研究、智库建设与运行机制研究、智库信息管理与情报支撑研究。通过提炼智库研究中3个主题的逻辑关系，总结智库研究的发展趋势，得出如下结论，并进行展望。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "首先，随着中国高端智库试点工作的不断推进，智库研究的质量和科学性也逐步得到学术界和公众的重视。虽然近年来我国智库研究的成果层出不穷，但现有智库研究文献中缺乏从科学的角度对智库研究的质量进行把关，从而未能准确判断智库报告成果的可信性与有效性。针对此问题，潘教峰提出了智库问题导向下的DIIS理论方法[77]，即智库研究遵循的步骤应包括收集数据（Data）一揭示信息（Information）一综合研判（Intelligence）一形成方案（Solution）4个阶段，每个阶段遵循严格的质量评估标准和机制，最终形成高质量的智库研究报告。上述DIIS理论提出的智库报告研究体系可为今后智库研究的深入开展提供思路。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其次，由于智库运行机制的核心问题是智库的影响力，影响力取决于智库研究成果的质量，而研究质量建立于情报收集和处理的基础上。因此，智库的影响力、运行机制、情报支撑研究是相辅相成的，但目前我国关于这些主题的研究还处于初级阶段，亟待深入和持续的研究，才能促进我国中国特色新型智库的建设进程，更好地发挥智库的决策咨询作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "最后，从目前智库研究现状来看，我国关于智库的研究较为分散，没有形成很好的研究体系，智库研究缺乏系统性。因此，在未来智库研究中应从智库研究的质量和科学性出发，致力于形成系统性的智库研究方法、研究队伍和研究共同体，从而更好地完善智库功能，便于智库研究人员判断智库问题的研究程度，快速定位亟待解决的智库问题。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "物女,将合领,土 知识图增分析时找国省库研九进展还评[JJ.图节馆字研九,ZUI5,(IU):0-11. 2[] DICKSON P. Think tanks[M]. New York: Scribner, 1971: 25-30.   \n3[]李纲,李阳.情报视角下的智库建设研究[J].图书情报工作,2015 (11):36-41.   \n4[] STONE D,DENHAMA, GARNETT M. Think tanks across nations: a comparative approach[M]. New York: Manchester University Press,1998:1-234.   \n5[] ABELSON DE. Do think tanks matter?: assessing the impact of public policy institutes[M]. Canada: McGillQueen's University Press, 2009: 1-278.   \n6[]朱旭峰.“思想库”研究:西方研究综述[J].国外社会科学,2007(1):60-69.   \n7[]高士超.美国思想库对政府越战政策形成过程的影响[D].黑龙江,黑龙江大学,2013.   \n8[] AHMADM.US think tanks and the politics of expertise: role,value and impact[J].Political Quarterly, 2008, 79(4): 529-555.   \n[9]DENHAM A, GARNETT M.The nature and impact of think tanks in contemporary Britain[J]. Contemporary British History, 1996,10(1): 43-61.   \n[10] JAMES S.The idea brokers:the impact of think tanks on British government[J].Public administration,1993, 71(4): 491-506.   \n[11] SHENG C,MAN M.Study on the mechanism of the impacts and think tanks influence: based on the empirical research on 39 samples of Chinese think tanks [J].Studies in Science of Science,2015(9): 4. [12] ABB P. China's foreign policy think tanks: institutional evolution and changing roles[J].Journal of Contemporary China, 2015,24(93): 531-553.   \n[13] ABB P, KOELLNER P.Foreign policy think tanks in China and Japan:characteristics,current profile,and the case of collective self-defence[J]. International Journal, 2015,70(4): 593-612.   \n[14] ABELSON D E. Old world,new world: the evolution and influence of foreign affairs think-tanks[J]. International Affairs,2014, 90(1): 125-142.   \n[15] CELIK N. Riseof think-tanks: foreign policyand national security cultures in Turkey[J]. UluslararasiliskilerInternational Relations, 2012, 9(33): 121-124.   \n[16] LIH.The roleof think tanks in Chinese foreign policy[J].Problems of Post-Communism,2002,49(2):33-43. [17] LONGHINlA. Foreign policy think tanks in the Italian political context: evolutions and perspectives[J]. International Journal, 2015,70(4): 573-592.   \n[18] LAWsON G.Think tanks and power in foreign policy: a comparative study of the role and influence of the Council on Foreign Relations and the Royal Institute of International Affairs[J]. Milennium Journal of   \nInternational Studies, 2006,34(3): 998-999.   \n[19] LONGHINlA. Institutionalization of foreign policy think tanks in Italy and in the UK: an explanatory framework[J]. Central European Journal of Public Policy, 2016, 9(2): 96-120.   \n[20] MERKE F, PAUSELLIG.In the shadow of the state: think tanks and foreign policy in Latin America[J]. International Journal, 2015,70(4): 613-628.   \n[21] NELSONA K.Think tanks and powerin foreign policy:a comparative study of the role and influence of the council on foreign relations and the Royal Institute of International Afairs,1939-1945[J].Journal of American History, 2005,92(3):1037-1038.   \n[22] WIARDA HJ.Think tanks and foreign policy in a globalized world: new ideas,new \"tanks\",new directions[J] International Journal, 2015,70(4): 517-525.   \n[23] GILDINER A.Politics dressedas science: Two think tanks on environmental regulationand health[J].Journal of Health Politics Policy and Law, 2004,29(2): 313-322.   \n[24] JACQUES P J, DUNLAP R E,FREEMAN M.The organisation of denial: conservative think tanks and environmental scepticism[J]. Environmental Politics,2008,17(3): 349-385.   \n[25] TORGERSEN T. Observatories,think tanks,and community models in the hydrologic and environmental sciences: how does it affect me?[J].Water Resources Research, 2006,42(6): 4.   \n[26] ERIKSSON C,FALCK M,WHITEP,etal.Think tanks for public healthaction:aSwedish example[J].European Journal of Public Health, 2015,25(10): 1093.   \n[27] SHAW S E, RUSSELLJ,GREENHALGH T, et al.Thinking about think tanks in health care: acallfora new research agenda[J]. Sociology of Health & Ilness, 2014,36(3): 447-461.   \n[28] SMITH KE,KAYL,TORRESJ.Think tanks as research mediators? Case studies from public health[J]. Evidenci & Policy, 2013,9(3): 371-390.   \n[29] BENNETTS,CORLUKAA,DOHERTYJ,etal.Influencing policychange: the experience of health think tanks i low- and middle-income countries[J]. Health Policy and Planning, 2012,27(3): 194-203.   \n[30] HARDING R,GOMES B,FOLEY K M,etal. Research priorities in health economics and funding for palliative care: views of an international think tank[J]. Journal of Pain and Symptom Management, 2009,38(1):11-14. report of an international think tank[J]. Journal of Pain and Symptom Management,2009,38(1): 4-10.   \n[32] HUTTER CM, MECHANICLE,CHATTERJEEN,etal. Gene-environment interactions incancer epidemiology:a national cancer institute think tank report[J]. Genetic Epidemiology, 2013,37(7): 643-657.   \n[33] MCDONALD L.Think tanks and the media: how the conservative movement gained entry into the education policy arena[J]. Educational Policy, 2014, 28(6): 845-880.   \n[34] NESS EC,GANDARA D.Ideological think tanks in the states an inventory of their prevalence,networks,and higher education policy activity[J]. Educational Policy, 2014,28(2): 258-280.   \n[35] WELNER KG.Free-market think tanks and the marketing of education policy[J]. Dissent, 2011,58(2): 39-43. [36] 陈琴,蒋合领,王晴.基于 CSSCI的我国智库研究态势可视化分析[J].情报杂志,2015,34(7):71-76. [37]厉新建,胡晓芬.旅游智库建设的二元融合之路[J].旅游学刊,2016(1):4-6.   \n[38]薛二勇.我国高校建设中国特色新型智库的政策分析[J].高等教育研究,2015(12):7-12.   \n[39]尹达.论地方性教育 智 库建 勺四大核心问题[J].基础教育,2015(6):27-32.   \n[40]于博,杨旭.地 育科研机构 型教育智库转型的战略思考[J].天津市教科院学报,2015(6):17-19. [41] 王延飞,闫志开,何芳.从智库功能看情报研究机构转型[J].情报理论与实践,2015(5):1-4.   \n[42]吴育良.图书情报机构在智库中的前端作用[J].图书情报工作,2012(2):29-31.   \n[43]吴育良.国外智库信息服务的分析及启示[J].情报杂志,2015(2):188-193.   \n[44] 吴育良.国外智库决策信息支持研究及启示[J].图书馆理论与实践,2015(10):31-35.   \n[45]袁建霞,董瑜,张薇.论情报研究在我国智库建设中的作用[J].情报杂志,2015(4):4-7.   \n[46] 张家年,马费成.美国国家安全情报体系结构及运作的研究[J].情报理论与实践,2015,38(7):7-14. [47]张军,周磊,慕慧鸽.国际权威智库定量研究方法进展与趋势[J].图书情报工作,2015(7):132-139. [48]金芳,孙震海,国锋等.西方学者论智库[M].上海:上海人民出版社,2010:95-108.   \n[49] NICOLAS R. Who's hot & who's not-an assessment of think tanks' influence on US economic   \npolicymaking[M]. The International Economy, 20oO: 10-16.   \n[50] POSEN A S.Think tanks: hot economists and hot topics[M].The International Economy,2002: 8-11. [51] SUSANNE T.Think tanks: who's hot and who's not[M].The International Economy, 20O5: 10-47.   \n[52] Leeson PT, Ryan ME,Williamson CR.Think tanks[J].Journal of Comparative Economics,2012,40: 62-77. [53] MCGANNJG.2016 Global go to think tank index report[M]. University of Pennsylvania Press,2017: 26. [54] 朱敏,房俊民.智库评价研究进展及我国智库评价建设[J].情报杂志,2017,36(8):33-38.   \n[55]王桂侠,万劲波.科技智库影响力基本要素模型研究[J].科研管理,2016,(8):146-152.   \n[56]陈升,孟漫.智库影响力及其影响机理研究：基于39个中国智库样本的实证研究[J].科学学研究,2015, 33(9): 1305-1312.   \n[57] 陈媛媛.智库学术影响力评价研究[J].图书馆论坛,2017,37(12):54-60.   \n[58] 杨思洛,冯雅.中国智库网络影响力分系统对比评价研究[J].重庆大学学报（社会科学版）,2017,23(2): 68-77.   \n[59] STONE D. Capturing the political imagination: think tanks and the policy process[M].London: Routledge, 1996: 53-72.   \n[60] MCGANNJG,VIDEN A, RAFFERTY J. How think tanks shape social development policies[M]. University of Pennsylvania Press,2014: 65-342.   \n[61] MCGANNJG,SABATINI R. Global think tanks: policy networks and governance[M]. London: Routledge, 2015: 66-116.   \n[62] STRUYK R.Improving think tank management: practical guidance for think tanks,research advocacy NGOs, and their funders[M]. Washington: Results for Development Institute,2015: 22-134.   \n[63] 杨尊伟,刘宝存.美国智库的类型、运行机制和基本特征[J].中国高校科技,2014(7):56-59.   \n[64]刁榴,张青松.日本智库的发展现状及问题[J].国外社会科学,2015(1):41-43.   \n[65] 刘旺洪.英国智库运行特色和发展[J].唯实,2017(1):21-25.   \n[66]丁宏.英国智库建设的启示[J].理论学习,2016(5):54-55.   \n[67]莫神星,张平.美国智库经验对中国特色新型智库作用发挥的鉴示[J].领导科学,2017(23):31-34. [68]张家年,卓翔芝.融合情报流程:我国智库组织结构和运行机制的研究[J].情报杂志,2016(3):42-48. [69]周湘智.中国特色新型智库现代运行机制的构建[J].河南社会科学,2017(3):22-28.   \n[70]吴育良.从胡佛研究所的转型谈地方社科图书情报机构在智库中的前端作用[J].四川图书馆学报, 2012(6): 15-17.   \n[71] 陈超.情报与智库[J].竞争情报,2015,11(2):3. [72] MCGANNJG.The competition for dollars,scholars and influencein the public policy research industry[M Lanham:University Press of America,1995:1-200.   \n[73]朱旭峰.构建中国特色新型智库研究的理论框架[J].中国行政管理,2014(5):29-33.   \n[74] 陆蒨,唐娜.智库影响力及其提升策略的研究[J].文教资料,2015(24):68-70.   \n[75]朱猛.日本智库的运作机制[D].北京,外交学院,2015.   \n[76] 陈朝宗.智库型人才的素质结构、资本投入与培养渠道[J].重庆社会科学,2013(6):109-113.   \n[77] 潘教峰.科技智库研究的 DIIS 理论方法[N].中国科学报,2017-1-9(7). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "作者贡献说明：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "裴瑞敏：设计研究思路与论文撰写；  \n刘慧晖：资料调研与论文撰写；  \n杨国梁：论文指导与完善。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Research Progress on Think Tanks in Domestic and Abroad based on Bibliometrics and Content Analysis Method ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pei Ruimin1,2Liu Huihui1,2 Yang Guoliang1,2 lInstitutes of Science and Development, Chinese Academy of Science, Beijing 100190 2University of Chinese Academy of Sciences, Beijing 100049 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Purpose/significance] As an independent and relatively stable policy research and advisory institution, think tank provides decision-making supports for the government, enterprises and the public, which plays an important role in realizing the scientific and democratic decisionmaking in China. However, the think tank research in China lags behind the research abroad for nearly 2O years,and there are a lot of problems encountered and needed to be studied in the process of development of think tanks in China.Therefore,the summary and analysis of related researches in domestic and abroad to identify the research trends and important research topics will provide theoretical base for the construction of high-end think tanks in China. [Method/process] This paper uses bibliometric content analysis methods to investigate the research status quo, to summarize the research trends,and to identify the important research topics on think tanks. [Result/conclusion] This paper probes deeply into the think tank's impact, operation mechanism, as well as information management and support in order to explore the research trend and focus and promote the construction process of Chinese think tanks with new features. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Think tank impact operation mechanism information bibliometrics收稿日期：2018-01-27 修回日期：2018-03-02本文责任编辑：唐果媛",
+        "page_idx": 12
+    }
+]

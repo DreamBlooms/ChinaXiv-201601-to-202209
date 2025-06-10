@@ -1,0 +1,465 @@
+[
+    {
+        "type": "text",
+        "text": "黄河上游河源区不同量级降水对径流变化的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "保广裕¹，也虹²，戴升³，燕振宁¹，杨春华¹，代青措(1.青海省气象服务中心,青海 西宁810001；2.青海省气象干部培训学院,青海 西宁810001;3.青海省气候中心，青海 西宁  810001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用1961—2019年黄河上游河源区13个气象观测站逐日地面降水和唐乃亥水文站径流量数据,采用统计分析方法分析黄河上游河源区不同量级降水对径流变化的影响,研究表明：（1）黄河上游河源区1961—2019年降水量变化率为 $7 . 5 7 \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 。尤其是进入21世纪,黄河上游河源区气候暖湿化加快，降水量呈显著性增加趋势；（2）1961—2000年黄河上游河源区各地年总降水量 $\\gtrsim 5 . 0 \\ \\mathrm { m m } , \\gtrsim 1 0 . 0 \\ \\mathrm { m m } , \\gtrsim 2 5 . 0 \\ \\mathrm { m m }$ 的降水量呈微弱增加趋势，而2001一2019年呈显著增加趋势，分别增加 $5 . 1 \\% . 6 . 9 \\% . 7 . 4 \\% . 1 5 . 0 \\%$ ；(3）1961—2019年黄河上游河源区 $\\geqslant 5 . 0$ $\\mathrm { m m } , \\geqslant 1 0 . 0 \\ \\mathrm { m m } , \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 降水贡献率分别为 $7 1 \\% 4 3 \\% . 7 \\%$ ,呈增加趋势,2001—2019年比1961—2000年降水量贡献率分别增加了 $1 . 5 \\% , 1 . 2 \\% , 0 . 8 \\%$ ;(4)年降水量与年径流量变化成显著正相关,年总降水量 $\\cdot \\geqslant 5 \\mathrm { ~ m m } \\ 、 \\geqslant 1 0 \\mathrm { ~ m m }$ 和 $| \\geqslant 2 5 \\mathrm { m m }$ 年降水量与年径流量也成显著正相关，是年径流量增加(减少)的主要气候因子。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：气候变暖；黄河上游河源区；不同量级降水；径流量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄河上游河源区位于青藏高原东南部，是黄河源区的门户，是中华母亲河的发源地[1-2]。黄河上游河源区一般是指黄河源头至唐乃亥水文站的区域[3]。以唐乃亥水文站断面为界，黄河上游河源区流域面积为 $1 2 . 1 9 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，占黄河流域总面积的$1 6 . 2 \\%$ 。断面以上河长 $1 5 5 3 ~ \\mathrm { k m }$ ，占黄河全长的$2 8 . 4 \\%$ 。近60a唐乃亥水文站年平均径流量达$1 9 8 . 8 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ ，占黄河入海口同期径流量的 $42 \\%$ 左右，是黄河主要的产流区[4-6]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "20世纪末随着全球气候显著变暖以来，黄河上游河源区气候状况发生了较大变化。极端天气气候事件频发、冰川消融加快、多年冻土与季节性冻土水释放等，促使河川径流量扩大、湖泊面积增加、植被恢复增加、干旱强度降低等，特别是进人21世纪，这种变化特征更为明显，受到国内学者的广泛关注[7-16]。段水强等[8]应用多种趋势分析方法辨识了三江源区近 $6 0 \\mathrm { ~ a ~ }$ 降水量的时空特征，结果表明三江源区降水量总体呈现弱增趋势；王欢等11利用黄河河源区唐乃亥水文站近60a逐月径流量实测数据，通过趋势分析、小波分析及不均匀系数方法，分析了黄河河源区流量趋势变化特征及主要成因，结果表明近60a黄河河源区径流量演变有2个上升时段（1956—1967年和2002—2012年）、1个下降时段(1989—2002年)和1个振荡调整时段(1967—1989年)；周帅等4使用P-M潜在蒸散量计算方法定量评估了黄河河源区气候变化和人类活动对径流变化的影响，结果表明人类活动是导致径流变化的主要因子，占比达到 $6 7 . 6 2 \\%$ ，气候变化占比仅为$3 2 . 3 8 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现有研究成果尚未阐述不同量级降水与径流变化的关系，以及径流量增加的事实及未来影响。为了更好地适应气候变化，确保黄河上游河源区生态圈的良性发展，本文采用年降水量(强度）、不同量级降水日数对河流径流量的影响来分析黄河上游河源区降水的变化特征及演变规律。旨在加强黄河上游河源区生态研究与监测力度，用科学手段支撑生态恢复，规范黄河上游河源区人类活动，为黄河上游河源区生态圈的恢复提供良好条件。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄河上游河源区指黄河源头至唐乃亥的区域，地处中纬度的内陆高原,流域面积 $1 2 . 2 { \\times } 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，占黄河流域面积的 $16 \\%$ (图1)。该区域东西高差和垂直高度十分显著，是黄河流域最大的冰雪融水和降水补给区，也是黄河水资源的主要产水区之一。河源区气候属高原高寒气候，不同地区气候差异大，年平均气温为 $- 4 ^ { \\circ } \\mathrm { C }$ 左右，一般仅5—9月日平均气温在 $0 \\%$ 以上。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4e86077a863dd1e6c3ac5f53b8950f1734e9b71f7505837ae2266acfa488189.jpg",
+        "img_caption": [
+            "图1黄河上游河源区气象站点分布",
+            "Fig.1 Distribution map of meteorological stations in the source area of the upper reaches of the Yellow River "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以黄河上游河源区为研究区(图1)，选取1961—2019年黄河流域唐乃亥水文站上游的玛多、玛沁、甘德、达日、班玛、久治、若尔盖、红原、玛曲、河南、泽库、同德、兴海气象观测站逐日降水量数据(20:00—20:00总降水量），数据来源于青海省气象信息中心、四川省气象信息中心和甘肃省气象局信息中心。水文数据来源于青海黄河上游水电开发有限责任公司唐乃亥水文站，分辨率为逐日平均径流量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1气候趋势和气候倾向率用 $x _ { i }$ 表示样本量为$n$ 的某一气候变量，用 $t _ { i }$ 表示 $x _ { i }$ 所对应的时间，建立 $x _ { i }$ 与 $t _ { i }$ 之间的一元线性回归[17-18]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } = a + b t _ { i } , ( i = 1 , 2 , \\cdots , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathbf { \\alpha } _ { a }$ 为回归常数; $b$ 为回归系数； $\\mathbf { \\alpha } _ { a }$ 和 $b$ 采用最小二乘法计算，计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\{ b = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } x _ { i } t _ { i } - \\frac { 1 } { n } ( \\displaystyle \\sum _ { i = 1 } ^ { n } x _ { i } ) ( \\displaystyle \\sum _ { i = 1 } ^ { n } t _ { i } ) } { \\displaystyle \\sum _ { i = 1 } ^ { n } t _ { i } ^ { 2 } - \\frac { 1 } { n } ( \\displaystyle \\sum _ { i = 1 } ^ { n } t _ { i } ) ^ { 2 } }  } \\\\ {  \\qquad \\quad \\sum _ { i = 1 } ^ { n } \\displaystyle - b \\bar { t } \\qquad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： ${ \\bar { x } } = { \\frac { 1 } { n } } \\sum _ { i = 1 } ^ { n } x _ { i }$ ， $\\overline { { t } } = \\frac { 1 } { n } { \\sum _ { i = 1 } ^ { n } t _ { i } }$ 。利用回归系数 $b$ 与相关系数之间的关系，求出时间 $t _ { i }$ 与变量 $x _ { i }$ 之间的相关系数，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = { \\sqrt { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } t _ { i } ^ { \\ : 2 } - { \\frac { 1 } { n } } \\Biggl ( \\sum _ { i = 1 } ^ { n } t _ { i } \\Biggr ) ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { n } x _ { i } ^ { \\ : 2 } - { \\frac { 1 } { n } } \\Biggl ( \\sum _ { i = 1 } ^ { n } x _ { i } \\Biggr ) ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$b$ 又称线性趋势项，把 ${ \\mathit { b } } \\times 1 0$ 称为气候变量 $x$ 每10a的气候倾向率。 $b$ 的符号表示气候变量 $x$ 的趋势倾向， $b > 0$ 时，说明随时间 $\\mathbf { \\Phi } _ { t }$ 增加， $x$ 呈上升趋势;$b < 0$ 时，说明随时间 $\\mathbf { \\Phi } _ { t }$ 增加， $x$ 呈下降趋势。 $\\textit { b }$ 的绝对值反映了上升或下降的速率，即表示上升或下降的倾向程度。相关系数 $\\boldsymbol { r }$ 表示变量 $x$ 与时间 $\\mathbf { \\Phi } _ { t }$ 之间线性相关的密切程度，通过对相关系数 $\\boldsymbol { r }$ 进行显著性检验来判断气候变量 $x$ 变化趋势的程度是否显著。确定显著性水平 $\\alpha$ ,若 $\\mid r \\mid > r \\alpha$ ，表明 $x$ 随时间 $\\mathbf { \\Phi } _ { t }$ 的变化趋势是显著，否则表明变化趋势不显著。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2不同量级降水划分不同量级降水量划分采用年总降水量 $, \\geqslant 5 . 0 \\mathrm { m m }$ 降水日数 $\\cdot \\geqslant 1 0 . 0 \\mathrm { m m }$ 降水日数 $, \\geqslant 2 5 . 0 \\mathrm { m m }$ 降水日数[19-21]。区域平均降水量采用算术平均值。不同量级降水贡献率定义为各量级降水量除以总降水量。不同量级降水量划分见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/55bbc4c16263e40e2b22270778684a749461aad63050bf81581ed5f45c553ec9.jpg",
+        "table_caption": [
+            "表1不同量级降水量划分",
+            "Tab.1 Differentlevels of precipitation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>降水量级</td><td>说明</td></tr><tr><td>年降水量(≥0.1mm降水量)</td><td>年内有效降水≥0.1mm的累计值</td></tr><tr><td>≥5.0 mm降水量</td><td>年内≥5.0 mm降水累计值</td></tr><tr><td>≥10.0 mm降水量</td><td>年内≥10.0 mm降水累计值</td></tr><tr><td>≥25.0 mm降水量</td><td>年内≥25.0mm降水累计值</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2降水量变化特征分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1降水量年际变化特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由黄河上游河源区1961—2019年年总降水量变化曲线图2可知，近 $5 9 \\mathrm { ~ a ~ }$ 总降水量变化率倾向为$7 . 5 7 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 。由黄河上游河源区气候倾向率和相关系数分析看出(表2)，各地年总降水量的气候倾向率为 $0 . 8 2 { \\sim } 1 6 . 4 2 \\ \\mathrm { m m } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ，说明黄河上游河源区各地降水量均呈增加趋势，增幅最明显的兴海为$1 6 . 4 2 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,其次是玛多、甘德、同德、泽库在$1 3 . 1 7 { \\sim } 1 6 . 2 1 \\ \\mathrm { m m } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 } .$ 。各地年总降水量显著性系数为 $0 . 0 1 4 { \\sim } 0 . 4 1 6$ ,玛多、兴海、泽库均通过了0.01的显著性检验，甘德、达日、同德通过了0.05的显著性检验，其他地区均未通过显著性检验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "众多研究结果表明，进入21世纪，黄河上游河源区气候向暖湿化发展,降水量持续增加[22-23]。因此本文以2000年为界分时段对黄河上游河源区降水量年际变化特征进行分析研究。2001一2019年变化倾向率为 $6 5 . 9 0 \\ \\mathrm { m m \\cdot ( 1 0 a ) ^ { - 1 } }$ （表略），相关系数为0.563，通过0.01显著性检验。各地变化趋势来看，气候变化倾向率为 $3 2 . 4 1 { \\sim } 1 3 1 . 5 8 \\ \\mathrm { m m } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,各地年平均降水量相关系数为 $0 . 2 6 0 { \\sim } 0 . 5 9 8$ ,除泽库、河南、玛曲未通过显著性检验外，兴海、玛沁、达日、若尔盖通过了0.01显著性检验,玛多、同德、甘德、红原、班玛、久治通过了0.05显著性检验。1961—2000年（ $5 4 8 . 8 ~ \\mathrm { m m } ,$ 与2001—2019年（ $5 7 8 . 6 ~ \\mathrm { m m }$ 相比增加了 $2 9 . 8 \\ : \\mathrm { m m } ( 5 . 1 \\% )$ (表2)。各地增加幅度不太一致，班玛减少 $1 2 . 4 ~ \\mathrm { m m } ( - 1 . 9 \\% )$ ,其余各地均在增加,其中同德、兴海、泽库和玛多增加幅度较大，为 $1 0 . 8 \\% .$ ）$1 6 . 5 \\%$ ,其他地区增加幅度在 $0 . 5 \\% { \\sim } 6 . 2 \\%$ 之间。进入21世纪以来，黄河上游河源区降水量增加趋势明显加快,进入丰水期，降水量的增加使湖泊水位上升，河流径流量增加，黑土滩、沙漠面积减少，植被改善，玛多地区湖泊增加1000多个[24]",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8396948a4362f6a69094309e5dc87005aa8d7e7f0ab474b641a96d6ad18e8bf7.jpg",
+        "img_caption": [
+            "图21961—2019年黄河上游河源区年总降水量变化 Fig.2 Changes in annual total precipitation in the headwater area of the upper reaches of the Yellow River from 1961 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2降水量年内分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由黄河上游河源区月平均降水量分布图可知（图3)。黄河上游河源区平均月降水量分布特征为单峰型，平均月降水量从4月前缓慢增加，随着5月中下旬雨季的来临，降水量快速增加，7月达到峰值，为 $1 0 8 . 2 \\ \\mathrm { m m }$ ,8—9月缓慢下降，10—12月快速下降。降水量主要集中在5—9月，在 $6 5 . 0 { \\sim } 1 0 8 . 2 ~ \\mathrm { m m }$ 之间，其他月份较少，冬季各月在 $1 0 . 0 \\mathrm { m m }$ 以下。黄河上游河源区5—9月平均降水量总共达 $4 4 4 . 2 \\mathrm { m m }$ ，占全年降水总量的 $8 1 . 6 \\%$ O",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fd24a181e60d494acd0f0c2a3b9715ba0bcb6cef0d1af33b2ad4e347ae2a24c.jpg",
+        "table_caption": [
+            "表21961—2019年黄河上游河源区平均降水量气候倾向率和检验",
+            "Tab.2 Climatic tendency rate and test table of average precipitation in the source region of the upper YellowRiverfrom1961to 2019 "
+        ],
+        "table_footnote": [
+            "注：-表示未通过显著性水平检验。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">气象站点</td><td colspan=\"2\">降水量/mm</td><td rowspan=\"2\">距平/%</td><td rowspan=\"2\">倾向率/[mm·(10a)-]</td><td rowspan=\"2\">显著性</td><td rowspan=\"2\">显著性检验</td></tr><tr><td>1961—2000年</td><td>2001—2019年</td></tr><tr><td>兴海</td><td>352.9</td><td>422.4</td><td>16.45</td><td>16.42</td><td>0.359</td><td>0.01</td></tr><tr><td>同德</td><td>423.7</td><td>487.2</td><td>13.03</td><td>13.17</td><td>0.251</td><td>0.05</td></tr><tr><td>泽库</td><td>468.3</td><td>525.2</td><td>10.83</td><td>13.93</td><td>0.301</td><td>0.01</td></tr><tr><td>玛多</td><td>311.8</td><td>360.7</td><td>13.55</td><td>16.21</td><td>0.416</td><td>0.01</td></tr><tr><td>玛沁</td><td>510.1</td><td>540.6</td><td>5.64</td><td>6.26</td><td>0.144</td><td>1</td></tr><tr><td>甘德</td><td>525.3</td><td>550.2</td><td>4.53</td><td>12.66</td><td>0.227</td><td>0.05</td></tr><tr><td>达日</td><td>547.6</td><td>584.1</td><td>6.25</td><td>9.24</td><td>0.218</td><td>0.05</td></tr><tr><td>河南</td><td>585.0</td><td>588.9</td><td>0.66</td><td>8.54</td><td>0.108</td><td>1</td></tr><tr><td>久治</td><td>747.5</td><td>758.1</td><td>1.39</td><td>0.82</td><td>0.014</td><td>1</td></tr><tr><td>班玛</td><td>666.6</td><td>654.2</td><td>-1.90</td><td>3.06</td><td>0.064</td><td>一</td></tr><tr><td>玛曲</td><td>598.9</td><td>624.7</td><td>4.13</td><td>2.74</td><td>0.049</td><td>一</td></tr><tr><td>若尔盖</td><td>651.7</td><td>662.7</td><td>1.66</td><td>1.67</td><td>0.029</td><td>一</td></tr><tr><td>红原</td><td>758.5</td><td>762.7</td><td>0.5</td><td>5.94</td><td>0.097</td><td></td></tr><tr><td>黄河源区</td><td>548.8</td><td>578.6</td><td>5.1</td><td>7.57</td><td>0.209</td><td>一</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/43c4904e305bda37b2ed53cc408142f539f09bcaec78cbbdc1bdea5817b1d566.jpg",
+        "img_caption": [
+            "图31961—2019年黄河上游河源区月平均降水量变化",
+            "Fig.3Variation of monthly average precipitation in the source area of the upper reaches of the Yellow River from 1961 to 2019 ",
+            "图41961—2019年黄河上游河源区不同量级降水日数变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同量级降水量变化特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由黄河上游河源区不同量级降水量变化图可见（图4），1961—2019年黄河上游河源区各地 $_ { \\gtrsim 5 . 0 }$ $\\mathrm { m m } , \\geqslant 1 0 . 0 \\ \\mathrm { m m } , \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 不同量级的降水量以$6 . 2 2 , 3 . 5 9 , 1 . 1 1 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 的速率增加(表3)，其中$\\geqslant 5 . 0 \\ \\mathrm { m m }$ 增加速率最快，而 $\\geqslant 1 0 . 0 \\ \\mathrm { m m } \\ 、 \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 降水量增加较慢。黄河上游河源区 $\\geqslant 5 . 0 \\ \\mathrm { m m } _ { \\cdot } \\geqslant 1 0 . 0$ $\\mathrm { m m } _ { \\cdot } \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 各级降水量均未通过显著性水平检验，增加趋势不明显。从1961—2000年黄河上游河源区各地 $\\geqslant 5 . 0 \\ \\mathrm { m m } , \\geqslant 1 0 . 0 \\ \\mathrm { m m } , \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 降水量变化倾向率来看，久治 $\\geqslant 5 . 0 \\ \\mathrm { m m } , \\geqslant 1 0 . 0 \\ \\mathrm { m m } , \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 降水量变化倾向率分别以 $- 2 . 8 0 \\ 、 - 7 . 5 1 \\ 、 - 7 . 3 7 \\ \\mathrm { m m } \\cdot$ （204$( 1 0 \\mathrm { a } ) ^ { - 1 }$ 和若尔盖 $\\geqslant 1 0 . 0 \\ \\mathrm { m m }$ 以 $- 0 . 9 8 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 及玛沁、达日 $\\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 分别以 $- 1 . 1 \\AA _ { \\mathrm { { \\scriptsize , } } } - 1 . 2 \\mathrm { ~ m m } \\cdot ( 1 0 \\mathrm { { a } } ) ^ { - 1 }$ 的速率减少,其余地区 $\\geqslant 5 . 0 \\ \\mathrm { m m } , \\geqslant 1 0 . 0 \\ \\mathrm { m m } , \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 以$1 . 2 7 { \\sim } 1 6 . 1 0 \\ \\mathrm { m m } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 } { \\setminus } 0 . 1 0 { \\sim } 1 2 . 5 0 \\ \\mathrm { m m } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 } { \\setminus } 1 . 0 3 \\sim$ $9 . 9 5 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 的速率增加。 $\\geqslant 5 . 0 \\ \\mathrm { m m }$ 兴海、同德、泽库、玛多通过了0.05和甘德通过了0.10显著性水平检验， $\\geqslant 1 0 . 0 \\ \\mathrm { m m }$ 兴海、同德、泽库通过了0.05显著性水平检验， $\\geqslant 2 5 . 0 ~ \\mathrm { m m }$ 兴海、泽库、久治通过了0.05和河南通过了0.10显著性水平检验，其余地区 $\\geqslant 5 . 0$ $\\mathrm { m m } \\ 、 \\geqslant 1 0 . 0 \\ \\mathrm { m m } \\ 、 \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 降水量增加或减少的趋势不显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由黄河上游河源区不同量级降水量变化可见（图4），2001—2019年黄河上游河源区各地 $\\geqslant 5 . 0$ $\\mathrm { m m } \\ 、 \\geqslant 1 0 . 0 \\ \\mathrm { m m } \\ 、 \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 年总降水量变化倾向率分别以 $5 3 . 1 2 , 3 2 . 6 9 , 1 0 . 8 5 \\mathrm { ~ m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 增加， $\\geqslant 5 . 0$ $\\mathrm { m m } _ { \\cdot } \\geqslant 1 0 . 0 \\mathrm { m m }$ 降水量变化趋势通过0.05显著性水平检验，而 $\\geqslant 2 5 \\ \\mathrm { m m }$ 降水量未通过显著性水平检验。说明黄河上游河源区 $\\geqslant 5 . 0 \\ \\mathrm { m m } _ { \\cdot } \\geqslant 1 0 . 0 \\ \\mathrm { m m }$ 降水量呈显著增加趋势，而 $\\geqslant 2 5 \\ \\mathrm { m m }$ 降水量变化不明显。由黄河上游河源区各地各量级降水量气候倾向率可知(表3)，黄河上游河源区各站 $\\geqslant 5 . 0 \\ \\mathrm { m m }$ 、$\\geqslant 1 0 . 0 \\ \\mathrm { m m } \\ 、 \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 不同量级降水量中除玛曲$\\geqslant 1 0 . 0 \\ \\mathrm { m m }$ 以 $- 1 . 0 2 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 及玛曲、久治、达日$\\geqslant 2 5 . 0 \\mathrm { m m }$ 分别以 $- 0 . 3 8 \\AA _ { \\mathrm { { s } } } - 1 . 8 2 \\AA _ { \\mathrm { { s } } } - 1 . 1 3 ~ \\mathrm { { m m } } \\cdot { \\left( 1 0 \\mathrm { { a } } \\right) } ^ { - 1 }$ 减少",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "/m 6000505 750 (a)年总降水量 y=0.7567x-947.46 uu/ 550 404030 (b) ≥5.0 mm y=0.6225x-839.72  \n450 300  \n400 250  \n096L 1964 896[ 7161 9L61 0861 4864 886I 7665 966 0002 5004 8000 2402 9400 096L 4961 896D 7161 9L6L 0861 4864 8861 7661 966L 0002 2004 1002 9405年份 年份  \n400 (c) ≥10.0 mm 10080760504302010 (d) ≥25.0 mm  \n/m 350 y=0.3585x-470.94 / y=0.1109x-179.67R=0.0137 R=0.118  \n300  \n250  \n200  \n150  \n096L 4964 8961 7L61 9L61 0861 1864 886L 7661 966L 0000 5004 800 907 096I 4964 896 7161 9L61 086 4864 8861 9 90 000 5004 8002 2022 2055年份 年份",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Curves ofprecipitation daysof diferent magnitudes inthe headwaterareaoftheupper YelowRiver from1961 to 2019外,其余地区 $\\geqslant 5 . 0 \\ \\mathrm { m m } , \\geqslant 1 0 . 0 \\ \\mathrm { m m } , \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 分别以$2 0 . 5 7 { \\sim } 1 1 8 . 4 1 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } , 2 . 8 5 { \\sim } 1 0 2 . 3 5 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } ,$ $1 . 5 5 { \\sim } 3 3 . 2 4 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 增加。泽库、河南、玛多、玛沁、甘德、达日、河南 $\\geqslant 5 . 0 \\ \\mathrm { m m }$ 降水量未通过0.10显著性水平检验，其余地区均通过了显著性水平检验，而 $\\geqslant 1 0 . 0 \\ \\mathrm { m m } . \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 年总降水量大部分地区增加趋势不明显，只有同德、久治、红原 $\\stackrel { \\cdot } { \\geqslant } 1 0 . 0 \\ \\mathrm { m m }$ 年总降水量和班玛 $\\geqslant 2 5 . 0 ~ \\mathrm { m m }$ 年总降水量通过了0.05显著性水平检验外，其余大部均未通过著性水平检验。总体看出， $\\geqslant 5 . 0 \\ \\mathrm { m m }$ 降水量呈显著增加趋势，对黄河上游河源区年总降水量的增加起着关键性作用，对年总降水量的贡献最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/098ff69a5ed214a451350381e96dd4647239a309833eda3de8f2422a6d66092c.jpg",
+        "table_caption": [
+            "表31961—2019年黄河上游河源区各级降水量气候倾向率和相关性检验",
+            "Tab.3The climatic tendencyrateand correlation testof precipitation at allevels in the headwater area of the upper Yellow River from1961 to 2019 "
+        ],
+        "table_footnote": [
+            "注：\\*、\\*\\*、\\*\\*\\*分别表示通过0.1、0.05、0.01的显著性水平检验。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">气象 站点</td><td colspan=\"6\">1961—2019年</td><td colspan=\"6\">2001—2019年</td></tr><tr><td colspan=\"2\">≥5.0 mm</td><td colspan=\"2\">≥10.0 mm</td><td colspan=\"2\">≥ 25.0 mm</td><td colspan=\"2\">≥5.0 mm</td><td colspan=\"2\">≥10.0 mm</td><td colspan=\"2\">≥ 25.0 mm</td></tr><tr><td>倾向率</td><td>显著性</td><td>倾向率</td><td>显著性</td><td>倾向率</td><td>显著性</td><td>倾向率</td><td>显著性</td><td>倾向率</td><td>显著性</td><td>倾向率</td><td>显著性</td></tr><tr><td>兴海</td><td>16.10</td><td>0.37***</td><td>12.50</td><td>0.36*</td><td>7.18</td><td>0.39**</td><td>44.86</td><td>0.30</td><td>36.35</td><td>0.29</td><td>11.92</td><td>0.15</td></tr><tr><td>同德</td><td>12.90</td><td>0.25**</td><td>11.42</td><td>0.28**</td><td>3.68</td><td>0.18</td><td>113.05</td><td>0.61***</td><td>85.42</td><td>0.53**</td><td>23.37</td><td>0.26</td></tr><tr><td>泽库</td><td>13.14</td><td>0.29**</td><td>11.89</td><td>0.30**</td><td>4.50</td><td>0.29**</td><td>20.57</td><td>0.17</td><td>16.71</td><td>0.15</td><td>8.21</td><td>0.17</td></tr><tr><td>玛多</td><td>11.42</td><td>0.34***</td><td>3.89</td><td>0.15</td><td>1.09</td><td>0.10</td><td>34.12</td><td>0.36</td><td>21.75</td><td>0.31</td><td>13.51</td><td>0.33</td></tr><tr><td>玛沁</td><td>5.28</td><td>0.13</td><td>0.10</td><td>0.00</td><td>-1.10</td><td>-0.06</td><td>37.76</td><td>0.28</td><td>5.32</td><td>0.04</td><td>9.40</td><td>0.15</td></tr><tr><td>甘德</td><td>11.23</td><td>0.22*</td><td>5.92</td><td>0.13</td><td>0.98</td><td>0.06</td><td>35.86</td><td>0.31</td><td>8.25</td><td>0.08</td><td>1.55</td><td>0.04</td></tr><tr><td>达日</td><td>6.89</td><td>0.16</td><td>2.16</td><td>0.06</td><td>-1.20</td><td>-0.07</td><td>40.41</td><td>0.35</td><td>2.85</td><td>0.03</td><td>-1.13</td><td>-0.03</td></tr><tr><td>河南</td><td>8.46</td><td>0.11</td><td>0.23</td><td>0.00</td><td>9.95</td><td>0.24*</td><td>33.06</td><td>0.20</td><td>9.11</td><td>0.05</td><td>18.67</td><td>0.19</td></tr><tr><td>久治</td><td>-2.80</td><td>-0.05</td><td>-7.51</td><td>-0.13</td><td>-7.37</td><td>-0.27**</td><td>65.09</td><td>0.39°</td><td>57.18</td><td>0.41*</td><td>-1.82</td><td>-0.03</td></tr><tr><td>班玛</td><td>1.80</td><td>0.04</td><td>0.71</td><td>0.02</td><td>1.26</td><td>0.06</td><td>59.79</td><td>0.43°</td><td>45.01</td><td>0.34</td><td>33.24</td><td>0.52**</td></tr><tr><td>玛曲</td><td>2.51</td><td>0.05</td><td>5.90</td><td>0.11</td><td>3.65</td><td>0.10</td><td>20.78</td><td>0.15</td><td>-1.02</td><td>-0.01</td><td>-0.38</td><td>0.00</td></tr><tr><td>若尔盖</td><td>1.27</td><td>0.02</td><td>-0.98</td><td>-0.02</td><td>1.03</td><td>0.03</td><td>66.74</td><td>0.37°</td><td>35.69</td><td>0.20</td><td>11.60</td><td>0.11</td></tr><tr><td>红原</td><td>11.27</td><td>0.18</td><td>8.06</td><td>0.14</td><td>3.25</td><td>0.12</td><td>118.41</td><td>0.58**</td><td>102.35</td><td>0.54**</td><td>12.87</td><td>0.13</td></tr><tr><td>黄河源区</td><td>6.22</td><td>0.19</td><td>3.59</td><td>0.14</td><td>1.11</td><td>0.12</td><td>53.12</td><td>0.56***</td><td>32.69</td><td>0.45**</td><td>10.85</td><td>0.33</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由黄河上游河源区1961—2000年与2001—2019年不同等级年总降水量增加率可见(表4），黄河上游河源区 $\\geq 0 . 1 \\ \\mathrm { m m } \\ \\geqslant 5 . 0 \\ \\mathrm { m m } \\ \\geqslant 1 0 . 0 \\ \\mathrm { m m } \\ \\geqslant 2 5 . 0$ $\\mathbf { m } \\mathbf { m }$ 年平均降水量分别为 $5 4 8 . 8 , 3 8 9 . 6 , 2 3 6 . 4 , 3 8 . 9$ $\\mathbf { m } \\mathbf { m }$ 和 $5 7 8 . 6 , 4 1 8 . 7 , 2 5 5 . 2 , 4 5 . 8 \\ \\mathrm { m m }$ 。两者相比，分别增加了 $5 . 1 \\%$ 、 $6 . 9 \\%$ 、 $7 . 4 \\%$ / $1 5 . 0 \\%$ ，从 $\\geqslant 0 . 1 \\ \\mathrm { m m }$ 到$\\geqslant 2 5 . 0 ~ \\mathrm { m m }$ 年总降水量依次增加。从黄河上游河源区各地 $1 \\gtrsim 0 . 1 \\ \\mathrm { m m } \\gtrsim 5 . 0 \\ \\mathrm { m m } \\gtrsim 1 0 . 0 \\ \\mathrm { m m } \\gtrsim 2 5 . 0 \\ \\mathrm { m m }$ 年总降水量增加率分析看出,班玛 $\\geqslant 0 . 1 \\ \\mathrm { m m } _ { \\cdot } \\geqslant 5 . 0 \\ \\mathrm { m m } .$ $\\geqslant 1 0 . 0 \\ \\mathrm { m m }$ 年总降水量分别减少 $- 1 . 9 \\% _ { \\mathrm { ~ } } - 2 . 3 \\%$ 、$- 5 . 6 \\%$ ，久治 $\\geqslant 5 . 0 \\mathrm { ~ m m ~ } , \\geqslant 1 0 . 0 \\mathrm { ~ m m ~ } , \\geqslant 2 5 . 0 \\mathrm { ~ m m }$ 年总降水量分别减少 $- 0 . 4 \\% , - 2 . 8 \\% , - 3 0 . 1 \\%$ ,玛沁、甘德>$2 5 . 0 \\mathrm { m m }$ 年总降水量分别减少 $- 3 . 3 \\% . - 7 . 3 \\%$ ,其他各地各级降水量均在增加， $\\geqslant 0 . 1 \\ \\mathrm { m m } _ { \\cdot } \\geqslant 5 . 0 \\ \\mathrm { m m } _ { \\cdot } \\geqslant 1 0 . 0$ $\\mathrm { m m } _ { \\cdot } \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 年总降水量分别增加 $0 . 7 \\% { \\sim } 1 6 . 5 \\%$ 、$3 . 7 \\% - 2 2 . 0 \\% . 2 . 4 \\% - 2 8 . 4 \\% . 1 . 4 \\sim 7 1 . 2 \\%$ 。总之，各级降水量的增加趋势与年总降水量的变化趋势基本一致，接近龙羊峡的兴海、同德、泽库及黄河源区的玛多增加幅度大于其他地区，玛曲 $| \\geqslant 1 0 . 0 \\mathrm { ~ m m } _ { \\cdot } \\geqslant 2 5 . 0$ $\\mathrm { m m }$ 年总降水量增加幅度也较大。另外1961—2000年、2001—2019年 $\\geqslant 5 0 . 0 \\ \\mathrm { m m }$ 年平均降水量分别为$1 . 9 , 3 . 1 \\mathrm { m m }$ ,增加 $3 9 . 3 \\%$ ,各级降水量中增幅最大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4不同量级降水量贡献率特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "贡献率是反应不同要素占总要素的百分比，降水贡献率定义为不同量级降水量除以总降水量。由1961—2019年黄河上游河源区不同量级降水贡献率可见(表5)，黄河上游河源区各地 $\\geqslant 5 . 0 \\ \\mathrm { m m } _ { \\cdot } \\geqslant 1 0 . 0$ $\\mathrm { m m } _ { \\cdot } \\geqslant 2 5 . 0 \\mathrm { m m }$ 的年总降水量贡献率平均值为 $71 \\%$ /$4 3 \\%$ ） $7 \\%$ ，依次减少，并每 $1 0 \\mathrm { ~ a ~ }$ 以 $0 . 1 9 \\%$ 、 $0 . 1 1 \\%$ 、$0 . 1 0 \\%$ 的速率呈增加趋势，其中 $\\geqslant 5 . 0 \\mathrm { m m }$ 的降水贡献率增加最快。经显著性检验可知，各级年总降水量的贡献率未通过显著性水平检验，变化不显著",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "黄河上游河源区1961—2000年与2001—2019年 $\\geqslant 5 . 0 \\ \\mathrm { m m } , \\geqslant 1 0 . 0 \\ \\mathrm { m m } , \\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 年平均降水量贡",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/079f51195c83c034637306ae0216e96968cf2acd11beefbc481346391db37eea.jpg",
+        "table_caption": [
+            "Tab.4Annual total precipitation increase rate of different grades in the headwater area of theupper Yellow River "
+        ],
+        "table_footnote": [
+            "注：A表示1961—2000年，B表示2001—2019年，T表示增加率。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">气象 站点</td><td colspan=\"3\">≥0.1 mm</td><td colspan=\"3\">≥5.0 mm</td><td colspan=\"3\">≥10.0 mm</td><td colspan=\"3\">≥ 25.0 mm</td></tr><tr><td>A</td><td>B</td><td>T/%</td><td>A</td><td>B</td><td>T/%</td><td>A</td><td>B</td><td>T/%</td><td>A</td><td>B</td><td>T/%</td></tr><tr><td>兴海</td><td>352.9</td><td>422.4</td><td>16.5</td><td>240.1</td><td>307.9</td><td>22.0</td><td>131.2</td><td>183.3</td><td>28.4</td><td>11.1</td><td>38.4</td><td>71.2</td></tr><tr><td>同德</td><td>423.7</td><td>487.2</td><td>13.0</td><td>300.9</td><td>361.4</td><td>16.7</td><td>175.2</td><td>224.0</td><td>21.8</td><td>22.5</td><td>36.1</td><td>37.6</td></tr><tr><td>泽库</td><td>468.3</td><td>525.2</td><td>10.8</td><td>330.8</td><td>388.8</td><td>14.9</td><td>198.5</td><td>248.0</td><td>20.0</td><td>30.6</td><td>42.5</td><td>28.1</td></tr><tr><td>玛多</td><td>311.8</td><td>360.7</td><td>13.5</td><td>177.4</td><td>215.8</td><td>17.8</td><td>89.5</td><td>108.9</td><td>17.8</td><td>5.8</td><td>11.1</td><td>47.3</td></tr><tr><td>玛沁</td><td>510.1</td><td>540.6</td><td>5.6</td><td>352.8</td><td>385.1</td><td>8.4</td><td>204.5</td><td>211.5</td><td>3.3</td><td>29.2</td><td>28.3</td><td>-3.3</td></tr><tr><td>甘德</td><td>524.3</td><td>550.2</td><td>4.7</td><td>338.5</td><td>366.2</td><td>7.5</td><td>184.2</td><td>202.7</td><td>9.1</td><td>18.2</td><td>17.0</td><td>-7.3</td></tr><tr><td>达日</td><td>547.6</td><td>584.1</td><td>6.2</td><td>368.9</td><td>399.7</td><td>7.7</td><td>212.1</td><td>217.4</td><td>2.4</td><td>24.5</td><td>24.8</td><td>1.4</td></tr><tr><td>河南</td><td>554.9</td><td>588.9</td><td>5.8</td><td>400.8</td><td>436.1</td><td>8.1</td><td>262.4</td><td>275.7</td><td>4.8</td><td>43.0</td><td>64.2</td><td>33.0</td></tr><tr><td>久治</td><td>753.1</td><td>758.1</td><td>0.7</td><td>560.1</td><td>557.9</td><td>-0.4</td><td>345.6</td><td>336.3</td><td>-2.8</td><td>58.2</td><td>44.7</td><td>-30.1</td></tr><tr><td>班玛</td><td>666.6</td><td>654.2</td><td>-1.9</td><td>484.4</td><td>473.6</td><td>-2.3</td><td>294.8</td><td>279.1</td><td>-5.6</td><td>33.2</td><td>36.1</td><td>8.3</td></tr><tr><td>玛曲</td><td>598.9</td><td>624.7</td><td>4.1</td><td>433.0</td><td>459.8</td><td>5.8</td><td>272.7</td><td>313.6</td><td>13.0</td><td>61.4</td><td>83.7</td><td>26.6</td></tr><tr><td>若尔盖</td><td>651.7</td><td>662.7</td><td>1.7</td><td>483.7</td><td>502.4</td><td>3.7</td><td>328.4</td><td>341.8</td><td>3.9</td><td>83.9</td><td>91.3</td><td>8.2</td></tr><tr><td>红原</td><td>758.5</td><td>762.7</td><td>0.5</td><td>566.7</td><td>588.2</td><td>3.7</td><td>359.6</td><td>375.7</td><td>4.3</td><td>65.9</td><td>76.6</td><td>13.9</td></tr><tr><td>黄河源区</td><td>548.8</td><td>578.6</td><td>5.1</td><td>389.6</td><td>418.7</td><td>6.9</td><td>236.4</td><td>255.2</td><td>7.4</td><td>38.9</td><td>45.8</td><td>15.0</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表51961—2019年黄河上游不同量级降水量对总降水量的贡献率和相关系数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b373e0640236b5ce5d4f89732054912b9fed709c2a855d47b6237e06afbd38a9.jpg",
+        "table_caption": [
+            "表4黄河上游河源区不同等级年总降水量增加率",
+            "Tab.5 Contributionrates andcorrelationcoefficients of different grades of precipitation in the upper reaches of the Yellow River from1961-2019 to total precipitation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td colspan=\"2\">≥5.0 mm</td><td colspan=\"2\">≥ 10.0 mm</td><td colspan=\"2\">≥ 25.0 mm</td></tr><tr><td>贡献率相关系数</td><td></td><td>贡献率</td><td>相关系数</td><td>贡献率相关系数</td><td></td></tr><tr><td>兴海</td><td>69 0.260**</td><td>38</td><td>0.245*</td><td>5</td><td>0.330***</td></tr><tr><td>同德</td><td>71</td><td>0.164</td><td>42</td><td>0.190</td><td>5</td><td>0.113</td></tr><tr><td>泽库</td><td>71</td><td>0.212°</td><td>43</td><td>0.260**</td><td>7</td><td>0.219*</td></tr><tr><td>玛多</td><td>57</td><td>0.201</td><td>28</td><td>-0.008</td><td>2</td><td>0.095</td></tr><tr><td>玛沁</td><td>69</td><td>0.057</td><td>39</td><td>-0.122</td><td>5</td><td>-0.132</td></tr><tr><td>甘德</td><td>65</td><td>0.189</td><td>35</td><td>0.066</td><td>3</td><td>0.030</td></tr><tr><td>达日</td><td>67</td><td>0.067</td><td>38</td><td>0.019</td><td>4</td><td>-0.088</td></tr><tr><td>河南</td><td>73</td><td>0.091</td><td>46</td><td>-0.113</td><td>9</td><td>0.207</td></tr><tr><td>久治</td><td>74</td><td>-0.145</td><td>45</td><td>-0.198</td><td>7</td><td>-0.285**</td></tr><tr><td>班玛</td><td>72</td><td>-0.015</td><td>43</td><td>-0.018</td><td>5</td><td>0.024</td></tr><tr><td>玛曲</td><td>72</td><td>0.042</td><td>46</td><td>0.143</td><td>11</td><td>0.128</td></tr><tr><td>若尔盖</td><td>74</td><td>0.011</td><td>50</td><td>-0.066</td><td>12</td><td>0.023</td></tr><tr><td>红原</td><td>75</td><td>0.337***</td><td>47</td><td>0.165</td><td>9</td><td>0.103</td></tr><tr><td>黄河河源</td><td>71</td><td>0.109</td><td>43</td><td>0.046</td><td>7</td><td>0.067</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "献率分别为 $7 0 . 7 \\%$ 、 $4 2 . 8 \\%$ 、 $7 . 0 \\%$ 和 $7 2 . 3 \\%$ 、 $44 \\%$ ）$7 . 8 \\%$ ,分别增加了 $1 . 5 \\% , 1 . 2 \\% , 0 . 8 \\%$ ，从 $> 5 . 0 \\ \\mathrm { m m }$ 到$\\geqslant 2 5 . 0 ~ \\mathrm { m m }$ 年总降水量增加率依次减少(表略)。久治、班玛 $\\geqslant 5 . 0 \\ \\mathrm { m m }$ 年总降水量贡献率分别减少$0 . 7 \\% . 0 . 3 \\%$ ,其余地区增加 $1 . 4 \\% { \\sim } 4 . 7 \\%$ ;玛沁、达日、河南、久治、班玛 $\\gtrsim 1 0 . 0 \\ \\mathrm { m m }$ 年总降水量贡献率减少$0 . 6 \\% { \\sim } 1 . 4 \\%$ ,其余增加 $1 . 1 \\% { \\sim } 5 . 8 \\%$ ;玛沁、甘德、达日、久治 $\\geqslant 2 5 . 0 \\ \\mathrm { m m }$ 年总降水量贡献率减少 $0 . 2 \\% .$ ）$1 . 6 \\%$ ,其余增加 $0 . 8 \\% \\sim 5 . 1 \\%$ 。总之，各级降水量的贡献率增加幅度与年总降水量的变化趋势仍较为一致，兴海、同德、泽库、玛多、玛曲增加幅度大于其他地区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3降水量对水资源的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "黄河上游水资源主要以降水量补给为主，其次为冰雪、冻土融水和地下水，在这种多水源补给情况下，气候变化对径流量的影响过程较为复杂。本文主要以降水量、不同量级降水分析黄河上游年径流量的丰枯。李林等在黄河源区径流对气候变化的响应及未来趋势预测中，通过分析黄河源区年总降水量和年径流量表明两者年际波动具有较好的一致性,说明降水量对径流量有着较为显著的影响[4]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1998年气候显著变暖以来，极端天气气候事件频发，黄河上游河源区气候发生了较大变化，降水强度增强，大降水日数明显增多， $\\geqslant 0 . 1 \\ \\mathrm { m m }$ 降水日数减少，特别是进入21世纪后尤为突出，这些气候要素对湖泊、河流产生了很大影响，使河川径流量扩大，湖泊面积增加、水位上升，气候向暖湿化方向发展速度加快。2003年以来黄河上游河源区径流量持续增加主要由于全球增暖情形下区域夏季降水强度和降水量的增加，地表径流和地下水补给起着一定作用，而冰川融水的贡献则十分有限。受气候湿润化的因素控制，流域内地温在该时段也处于增加状态，地温的增加使得多年冻土与季节性冻土水释放，导致湖泊面积的扩张、河流径流量的增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从1961—2019年青海黄河上游河源区年平均降水量与唐乃亥水文站径流量变化图可知(图5），年平均降水量与年平均径流量变化成正相关,年平均降水量与径流量的相关系数为 $R { = } 0 . 7 9 2$ ，通过0.001显著性检验。唐乃亥水文站年平均径流量与降水量年际变化一致，年平均降水量的增加(减少)与唐乃亥水文站径流量上升(下降)成正比，黄河上游河源区降水量对唐乃亥水文站径流量的贡献率非常明显，当年的降水量越多，径流量增加越明显，当年的降水量越少，径流量越少。黄河上游年总降水量2002年降至谷值后，从2003年开始增加，2018年达最大值( $7 1 2 . 4 ~ \\mathrm { m m }$ ),年径流量与上游地区降水量变化一致，2002年降到历史最小值后随着年总降水量的不断增加而增加，且不断上升，2012年、2018—2019年龙羊峡等水电站多次出现汛情，因此，黄河上游河源区年总降水量的多(少)是决定黄河河流径流量增(减)的主要气候因子。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由黄河上游河源区各级年总降水量与唐乃亥水文站径流量变化可见(图6)，黄河上游河源区 $\\geqslant 0 . 1$ $\\mathrm { m m } \\cdot \\geqslant 5 \\ \\mathrm { m m } \\cdot \\geqslant 1 0 \\ \\mathrm { m m }$ 和 $\\geqslant 2 5 ~ \\mathrm { m m }$ 年总降水量与唐乃",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/36f58ef2ef8a20e2b426644f3b66d5a48a2601f7a3ffb98aa6ccb61fe12826ca.jpg",
+        "img_caption": [
+            "图51961—2019年黄河上游河源区年总降水量与唐乃亥径流量变化",
+            "Fig.5Changes in annual total precipitation and Tangnaihai runoff in the headwater area of the upper reaches of the YellowRiverfrom1961to 2019 ",
+            "图61961—2019年黄河上游河源区不同等级年总降水量与唐乃亥径流量变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a)≥0.1mm— 年总降水量年径流量 (b)≥5 mm -年总降水量年径流量800 450 800N A V 400 400 A 400200 300 2000 250 000 896I 100 7665 030 2020 0 896[ 00000 00 2020年份 年份  \n3012020 (c)≥10 mm 年总降水量 . 年径流量 3 A 30040 /鲁 1008 6040 (d)≥25 mm) M 年总降水量 年径流量 300407 WW WW200 20 200  \n1 0 0896I 7161 00 030 0800 000 0000 00 2002 2401年份 年份",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Changesinannualtotal precipitatioandTangnaihaidischargeatdiferentlevels inthesourceareaoftheuppereachesof the Yellow River from1961 to 2019 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "亥水文站径流量变化趋势一致， $\\geqslant 0 . 1 \\ \\mathrm { ~ m m } _ { \\setminus } \\geqslant 5$ $\\mathrm { m m } _ { \\cdot } \\geqslant 1 0 \\mathrm { m m } _ { \\cdot } \\geqslant 2 5 \\mathrm { m m }$ 年总降水量与唐乃亥水文站径流量的相关系数分别为 $0 . 7 9 2 、 0 . 7 3 7 、 0 . 6 6 3$ 和$0 . 2 7 3 , \\geqslant 0 . 1 \\ \\mathrm { m m } , \\geqslant 5 \\ \\mathrm { m m } , \\geqslant 1 0 \\ \\mathrm { m m }$ 年总降水量通过0.001显著性水平检， $\\geqslant 2 5 \\ \\mathrm { m m }$ 年总降水量通过0.05显著性水平检验，说明黄河上游河源区各级降水量是影响径流量的气候因子。各级降水量对唐乃亥总径流量都有较大的影响，也与各级降水量的多少紧密相关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）黄河上游河源区1961—2019年平均降水量变化倾向率为 $7 . 5 7 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,变化趋势不显著。各地年平均降水量气候倾向率在 $0 . 8 3 \\substack { \\sim } 1 6 . 4 2$ $\\mathrm { m } \\mathrm { m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ，但产流区最大降水增加趋势不明显。进入21世纪，黄河上游河源区气候暖湿化加快，变化倾向率为 $6 5 . 9 0 ~ \\mathrm { { m m } \\cdot ( 1 0 a ) ^ { - 1 } }$ ,降水量大多呈显著性增加趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）1961—2019年黄河上游河源区各地不同量级降水量以 $5 . 5 7 \\cdot 6 . 2 3 \\cdot 3 . 5 9 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 和 $1 . 1 1 \\ \\mathrm { m m }$ $( 1 0 \\mathrm { a } ) ^ { - 1 }$ 微弱的速率增加，其中 $\\geqslant 5 . 0 \\ \\mathrm { m m }$ 增加速率最快。黄河上游河源区2001—2019年比1961—2000年各级年总降水量分别增加 $5 . 1 \\% , 6 . 9 \\% \\ , 7 . 4 \\%$ 、$1 5 . 0 \\%$ ，而 $\\geqslant 5 0 . 0 \\ \\mathrm { m m }$ 年平均降水量增加 $3 9 . 3 \\%$ ，各级降水量中增幅最大。 $\\geqslant 5 . 0 \\ \\mathrm { m m } _ { \\cdot } \\geqslant 1 0 . 0 \\ \\mathrm { m m } _ { \\cdot } \\geqslant 2 5 . 0$ $\\mathbf { m } \\mathbf { m }$ 的年总降水量贡献率平均值分别为 $7 1 \\% . 4 3 \\%$ 、$7 \\%$ ,并每10a以 $0 . 1 9 \\% 0 . 1 1 \\% 0 . 1 0 \\%$ 速率呈增加趋势，变化趋势不显著。2001—2019年比1961—2000年与各级年总降水量贡献率增加了 $1 . 5 \\% . 1 . 2 \\%$ 、$0 . 8 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）年平均降水量与年平均径流量变化成正相关。黄河上游年总降水量2002年降至谷值后，从2003年开始增加，2018年达最大值，年径流量跟上游地区降水量变化一致，2002年降到历史最小值后随着年总降水量的不断增加而增加，2019年达历史第2极值，年总降水量的多(少)是决定黄河河流径流量增(减)的主要直接气候因子。黄河上游河源区不同量级年总降水量与唐乃亥水文站径流量变化趋势一致，不同量级年总降水量与唐乃亥水文站径流量的相关系数分别为 $R { = } 0 . 7 9 2 、 0 . 7 3 7 、 0 . 6 6 3$ 和0.273，均通过0.05显著性水平检验，各级降水量都是影响径流量的气候因子，与各级降水量的多少紧",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "密相关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "梦乂m（neiereces）: ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]王欢.近60年黄河源区流量变化特征及其影响因子的研究[D]. 南京：南京信息工程大学,2014.[Wang Huan.The Research of Variation and Impact Factor of the Runoff in Source Region of the Yellow River Nearly 6O years[D]. Nanjing: Nanjing Universityof Information Science and Technology,2014.]   \n[2]李二辉,穆兴民,赵广举.1919—2010年黄河上中游区径流量 变化分析[J].水科学进展,2014,25(2):155-163.[Li Erhui,Mu Xingmin, Zhao Guangju. Temporal changes in annual runoff and influential factors in the upper and middle reaches of Yellow River from 1919-2010[J]. Advances in Water Science,2014,25(2): 155-163.]   \n[3]郭西军,郝岩浩,赵俊麟.气候变暖对黄河源区水文要素变化影 响初步分析[J].农业科技与信息,2016,29(5):133-134.[Guo Xijun,Hao Yanhao, Zhao Junlin.Preliminary analysis of the impact of climate warming on the changes of hydrological elements in the source region of the Yellow River[J].Agricultural Technology and Information,2016,29(5): 133-134.]   \n[4]李林,申红艳,戴升.黄河源区径流对气候变化的响应及未来趋 势预测[J].地理学报,2011,66(9):1261-1269.[Li Lin,Shen Hongyan,Dai Sheng,etal.Responseof runoffto climate change and its future tendencyin the source region of Yellow RiverJ.Acta Geographica Sinaca,2011,66(9): 1261-1269.]   \n[5]蓝永超,刘根生,喇承芳,等.近55年来黄河河源区径流的变化 及区域差异[J].山地学报,2017,35(3):257-265.[Lan Yongchao, Liu Gensheng,La Chengfang,et al. Study on the characteristics and trend of runoff change in the source region of the Yellow River and itsregional difference[J].Mountain Research,2O17,35(3): 257-265.]   \n[6]王亚迪,权全,薛涛涛,等.气候变化对黄河源区的水文影响分 析[J].水资源研究,2018,40(2):135-143.[Wang Yadi,Quan Quan, Xue Taotao,et al. Hydrological impact of climate change on the source region of the Yellow River[J]. Journal of Water Resources Research,2018,40(2): 135-143.]   \n[7]王素萍,宋连春,韩永翔,等.玛曲气候变化对生态环境的影响 [J].冰川冻土,2006,28(4): 556-561.[Wang Suping,Song Lianchun,Han Yongxiang,et al.Impacts of climate change on ecological environment in Maqu grassand[J]. Journal of Glaciology and Geocryology,2006,28(4): 556-561.]   \n[8]段水强,刘强,曹广超,等.近期长江源区湖泊扩张特征及其成 因[J].干旱区研究,2015,32(1):15-22.[Duan Shuiqiang,Liu Tao, Cao Guangchao,et al. Expansion of the lakes and its causes in the source region of the Yangtze River[J].Arid Zone Research, 2015,32(1): 15-22.]   \n[9]杨春华,燕振宁,周丹,等.1967—2016年黄河上游河曲地区降 水变化特征研究[J].沙漠与绿洲气象,2020,14(2):43-49. [Yang Chunhua,Yan Zhenning,Zhou Dan,et al. Precipitation change characteristics in the upper reaches of the Yellow River during 1967-2016[J]. Desert and Oasis Meteorology,2020,14(2): 43-49.]   \n[10] 白爱娟,黄融,程志刚,等.气候变暖情景下的青海湖水位变化 [J].干旱区研究,2014,31(5):793-797.[Bai Aijuan,Huang Rong,Cheng Zhigang. Change of water level of the Qinghai Lake under climate warming[J]. Arid Zone Research,2014,31(5): 793- 797.]   \n[11]王欢,李栋梁,蒋元春.1956—2012年黄河源区流量演变的新 特征及其成因[J].冰川冻土,2014,36(2):403-412.[Wang Huan,Li Dongliang, Jiang Yuanchun. Characteristics and reasons of the runoff variation insource regions of the Yellow River during 1956-2012[J].Journal of Glaciology and Geocryology,2014,36 (2): 40-412.]   \n[12] 周陈超,贾绍凤,燕华云,等.近50年以来青海省水资源变化趋 势分析[J].冰川冻土,2005,27(3):432-437.[Zhou Chenchao,Jia Shaofeng,Yan Huayun,et al.Changing trend of water resources in Qinghai Province from 1956 to 2O0o[J].Journal of Glaciology and Geocryology,2005,27(3): 432-437.]   \n[13] 张建云,王国庆.气候变化对水文水资源研究影响[M].北京:科 学出版社,2OO7.[Zhang Jianyun,Wang Guoqing.Impact of Climate Change on Hydrology and Water Resources Research[M]. Beijing: Science Press,2007.]   \n[14] 周帅,王义民,郭爱军,等.气候变化和人类活动对黄河源区径 流影响的评估[J].西安理工大学学报,2018,34(2):205-210. [Zhou Shuai,Wang Yimin, Guo Aijun,et al. Assessment on impacts of climate change and human activities on runoff in source region of the Yellow River[J]. Journal of Xi'an University of Technology,2018,34(2): 205-210.]   \n[15] 常国刚,李林,朱西德,等.黄河源区地表水资源变化及其影响 因子[J].地理学报,2007,62(3):312-320.[Chang Guogang,Li Lin,Zhu Xide,et al.Changes and influencing factors of surface water resources in the source region of the Yellow River[J].Acta Geographica Sinica,2007,62(3): 312-320.]   \n[16] 许君利,张世强,上官冬辉.30a来长江源区冰川变化遥感监测 [J].干旱区研究,2013,30(5): 919-926.[Xu Junli, Zhang Shiqiang,Shangguan Donghui.Glacier change in headwaters of the ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Yangtze River in recent three decades[J]. Arid Zone Research, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2013, 30(5): 919-926.]   \n[17]魏凤英.现代气候统计诊断与预测技术[M].北京:气象出版社, 2008.[Wei Fengying.Modern Climate Statistics Diagnosis and Prediction Technology[M]. Beijing: Meteorological Press,2008.]   \n[18]周丹.1961—2013年华北地区气象干旱时空变化特征及其成 因分析[D].兰州:西北师范大学,2015.[Zhou Dan.Spatio-temporal Changes and the Cause Analysis of Meteorological Drought in North China from 1961 to 2013[D].Lanzhou: Northwest Normal University,2015.]   \n[19]丁裕国,江志红.极端气候研究方法导论[M].北京:气象出版 社,2009.[Ding Yuguo,Jiang Zhihong. Introduction to Extreme Climate Research Methods[M].Beijing:Meteorological Press, 2009.]   \n[20]冯晓莉,申红艳,李万志,等.1961—2017年青藏高原暖湿季节 极端降水时空变化特征[J].高原气象,2020,39(4):694-705. [Feng Xiaoli,Shen Hongyan,Li Wanzhi,et al. Spatiotemporal changes for extreme precipitation in wet season over the QinghaiTibetan Plateau and the surroundings during 1961-2017[J]. Plateau Meteorology,2020,39(4): 694-705.]   \n[21]Wu Z H, Huang N E. Ensemble empirical mode decomposition: A noise-assisted data analysis method[J].Advances in Adaptive Data Analysis,2009,1(1): 1-41.   \n[22] 张士锋,贾绍凤,刘昌明,等.黄河源区水循环变化规律及其影 响[J].中国科学(技术科学),2004,39(增刊):117-125.[Zhang Shifeng,Jia Shaofeng,Liu Changming,etal.The water circulation change rule and its influence in the source area of the Yellow River[J]. Scientia Sinica(Technologica), 2004,39(Suppl. ): 117-125.]   \n[23] 苏贤保.黄河上游径流复杂性多尺度特征及其驱动机制研究 [D].兰州:兰州大学,2019.[Su Xianbao.Research on the Multiscale Characteristic of Runoff Complexity and It's Driving Mechanism in the Upper Reaches of the Yellow River[D]. Lanzhou: Lanzhou University,2019.]   \n[24] 叶培龙,张强,王莺,等.1980—2018年黄河上游气候变化及其 对生态植被和径流量的影响[J].大气科学学报,2020,43(6): 967-979.[Ye Peilong, Zhang Qiang,Wang Ying,et al.Characteristics of climate change in the upper Yellow River basin and its influence on vegetation and runoff during recent 4O Years[J]. Transactions of Atmospheric Sciences,2020,43(6): 967-979.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Research on effects of different precipitation magnitudes on runoff changes in the headwater region of the upper Yellow River ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "BAO Guangyu'， NIE Hong²， DAI Sheng³， YAN Zhengning', YANG Chunhua'， DAI Qingcuo' (1. Qinghai Meteorological Service Center, Xining 810o01,Qinghai, China; 2. Qinghai Meteorological Cadre Training Institute,Xining 810001,Qinghai, China; 3.Qinghai Climate Center, Xining 810001, Qinghai, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Daily surface precipitation data from 13 meteorological observation stations in the headwater region of the Yellow River upper reaches from 196l to 2019 and runoff data from Tangnaihai hydrological station were used to study the influence of diferent precipitation magnitudes on runoff changes in the upper reaches of the Yellow River.This research showed that: (1) the precipitation change rate in the headwater region of the Yellow River upper reaches from 1961 to 2019 was $7 . 5 7 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ . Especially in the 21st century, climate warming and humidification in the headwater region of the Yelow River upper reaches have accelerated,and precipitation has shown a significant increase.(2) The annual total precipitation, precipitation more than $5 . 0 ~ \\mathrm { m m }$ ，more than $1 0 . 0 \\ \\mathrm { m m }$ and more than $2 5 . 0 \\ \\mathrm { m m }$ in the upper reaches of the Yellow River showed a slight increasing trend from 1961 to 2Oo0,while the annual precipitation increased by $5 . 1 \\%$ ， $6 . 9 \\%$ ， $7 . 4 \\%$ and $1 5 . 0 \\%$ from 2001 to 2019, respectively. (3) From 1961 to 2019, the contribution rates of more than $5 . 0 ~ \\mathrm { m m }$ ，more than $1 0 . 0 ~ \\mathrm { m m }$ and more than $2 5 . 0 \\ \\mathrm { m m }$ in the upper reaches of the Yellow River were $71 \\%$ ， $43 \\%$ and $7 \\%$ ，respectively， showing an increasing trend.Compared with 1961-2000,the contribution rates of precipitation from 200l to 2019 increased by $1 . 5 \\%$ ， $1 . 2 \\%$ and $0 . 8 \\%$ ,respectively. (4) Annual precipitation is significantly positively correlated with annual runoff, annual total precipitation,annual precipitation more than $5 ~ \\mathrm { m m }$ ，annual precipitation more than $1 0 ~ \\mathrm { m m }$ and annual precipitation more than $2 5 ~ \\mathrm { m m }$ are also significantly positively correlated with annual runoff, which are the main climatic factors for the increase (decrease) of annual runoff. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: climate warming; the headwater region of the upper Yelow River; diffrent precipitation magnitude；runoff ",
+        "page_idx": 9
+    }
+]

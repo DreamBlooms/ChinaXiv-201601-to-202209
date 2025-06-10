@@ -1,0 +1,396 @@
+[
+    {
+        "type": "text",
+        "text": "不同环境因子及破壳处理对锥栗种子萌发特性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李吉涛1,2，陈宗游1,2\\*，唐辉1,2，王满莲²，韦霄²（1．广西植物功能物质研究与利用重点实验室，广西桂林 541006；2.广西壮族自治区中国科学院广西植物研究所，广西桂林 541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：锥栗（Castanea henryiRehd.&Wils）是我国南方重要的木本粮食树种和特色果树资源，具有很高的食用及药用价值。为了探明最适宜锥栗种子萌发的条件，为锥栗种苗繁育提供理论基础，该试验以当年采收的锥栗种子为材料，研究了温度、光照、基质、基质含水量以及破壳处理等对锥栗种子萌发的影响。结果表明，锥栗种子萌发的最适温度是 $2 5 \\ \\mathrm { { ^ \\circ C } }$ ，其最终萌发率为 $( 9 2 . 6 7 { \\pm } 2 . 6 7 ) \\%$ ，在其它温度条件下，锥栗种子的萌发率有所下降，但与 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 条件下的萌发率无显著差异；黑暗条件可缩短锥栗种子发芽时间，明显提高种子的萌发率和发芽势，但黑暗条件下的种子胚根长度显著小于周期性光照条件下的胚根长度；锥栗种子在泥炭土中的萌发率和发芽势均高于在河沙中的萌发率和发芽势，且泥炭土中种子胚根长度显著长于河沙中的种子胚根长度；基质含水量对锥栗种子萌发率和发芽势无显著性影响；种皮的机械阻碍是限制锥栗种子萌发的因素之一，破壳处理后，锥栗种子的萌发率明显提高，其发芽势和胚根长度与未破壳相比差异显著，实际生产中剪破种壳能加快种子的萌发进程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：锥栗，种子，环境因子，破壳处理，萌发中图分类号：S792.17 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of environmental factors and shell-breaking treatment on germination characteristics of Castanopsis chinensis seeds ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Jitao1,2, CHEN Zongyou1,2\\*， TANG Hui 1,2， WANG Manlian²， and WEI Xiao²(1. Guangxi Key Laboratory of Functional Phytochemicals Research and Utilization， Guilin541006， Guangxi， China; 2. Guangxi Institute of Botany， Guangxi Zhuang AutonomousRegion and the Chinese Academy of Sciences， Guilin 541006，Guangxi， China)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Castanea henryi Rehd.& Wils has very high edible and medicinal value, which is an important woody grain and a characteristic fruit tree resource in the south of China. In order to find out the best treatment strategy to improve the germination rate of $C .$ . henryi seeds, and provide scientific references for its exploration and utilization, efects of temperature,light, matrix,matrix moisture and shell-breaking treatment on seed germination of $C .$ henryi were investigated. The results were as follows: The suitable temperature for germination was $2 5 \\ \\mathrm { { ^ \\circ C } }$ , the final germination percentage was $( 9 2 . 6 7 { \\scriptstyle \\pm 2 . 6 7 } _ { . }$ ） $0 \\%$ ，and the germination percentage under other temperature conditions decreased, but had no significantly differences with that under $2 5 \\ \\mathrm { { ^ \\circ C } }$ . The germination percentage and germination energy under the dark regime was significantly higher than under alternating light regime, but the root length under alternating light regime was significantly longer 基金项目：广西创新驱动重大专项项目（桂科AA17204058-12）；广西科技基地和人才专项（桂科 AD17195014）；桂林市科学研究与技术开发计划项目（20150121）；广西植物研究所基本业务费项目（桂 植业15010、桂植业180016）；广西植物功能物质研究与利用重点实验室自主项目（ZRJJ2017-9)[Supported by Innovation Driven Major Program of Guangxi(AA17204058-12), Guangxi Science and Technology Base and Special Fund for Talent (AD17195014),Key Scientific and Technological Program of Guilin City (20150121), Basic Research Business Foundation of Guangxi Institute of Botany（(150l0,1800l6)，Autonomous Foundation of Guangxi Key Laboratory ofFunctional Phytochemicals Research and Utilization (ZRJJ2017-9)]。 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：李吉涛(1980-），男，湖北襄阳人，博士，助理研究员，主要研究方向为植物分子生物学，（E-mail)ljtyouth@163.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*通讯作者：陈宗游，男，副研究员，主要研究方向为特色经济植物的引种驯化和分子生物学，（E-mail)chenzongyou1980@foxmail.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "than that under the dark regime. Peat soil had the best effect on seed germination and seedling growth, the germination percentage and germination energy in peat soil were higher than that in sand,and the root length in peat soil was significantly longer than that in sand. The matrix moistures had no significant efect on seed germination percentage and germination energy. The mechanical barrier of seed shell was one of the limiting factors of seed germination.After shell-breaking treatment， the seed germination percentage was obviously improved， and the germination energy and root length were significantly different from those without shell-breaking. Shell-breaking treatment could accelerate seed germination in actual production. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words:Castanea henryi, seed, environmental factors, shell-breaking treatment, germination ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "锥栗（Castanea henryi Rehd.&Wils)又名榛子、珍珠栗、旋栗或棒栗,为壳斗科(Fagaceae）栗属（Castanea）植物，是我国南方著名的干果和木本粮食树种之一，为我国特色落叶果树资源（刘国华和方精云，2001）。锥栗具有很高的食用、药用价值。锥栗果实富含淀粉、可溶性糖、不饱和脂肪酸、核黄素、 $\\mathrm { v _ { B } }$ 、Vc及人体所必需的Ca、Fe、 $\\mathbf { M g }$ 、Mn等微量元素（郑诚乐等，2003），其蛋白质和脂肪含量与小麦相当，比稻米高2-3倍，碳水化合物含量高于小麦（宋爱云等，2001）。锥栗所含的不饱和脂肪酸和多种维生素，对高血压、冠心病和动脉硬化等疾病，有较好的预防和治疗作用；栗内薄皮可去皱、美容；栗壳有止反胃、消渴、止泻血的功能；栗花可治疗颈淋巴结核；栗毛球和树皮有去毒、消肿功效；栗根有治偏肾气的作用（景芸等，2004；郑诚乐，2008）。锥栗的壳斗、树皮含有大量的鞣质，可提取拷胶。锥栗是落叶乔木，实生树可高达 $3 0 \\mathrm { m }$ ，树干比板栗和茅栗直，材质坚实、耐水湿，是枕木、建筑、家具、造船的优质经济树种；其根系发达，能固结、改良土壤，防止水土流失，是提高森林覆盖率、有效改善生态环境的优良树种（王海为，2003）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "种子是种子植物特有的延存器官。种子成功萌发与否对种子植物的生存和繁衍具有决定性作用（Rajjou etal,2012），是它们完成种群扩散、占领新领地，以及种群更新的极为关键的一步。种子萌发是植物对环境抵抗力最弱的阶段，其中会受到氧气、温度、阳光、水分等环境因子以及自身能力的综合影响，是植物为适应环境以保持自身的繁殖发展而形成的一种生物特性，具有重要的生态学意义。本试验通过研究不同因素（温度、光照、基质类型、基质含水量、破壳处理等）对锥栗种子萌发的影响，探讨适合锥栗种子萌发的条件，以期为锥栗播种育苗及大量繁殖提供参考和理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "锥栗种子于2016年10月采自广西灵川县海洋乡小平乐村山林的野生种群。种子采回经去杂清理后即进行千粒重、种径测定，并置于温度为 $4 ^ { \\circ } \\mathrm { C }$ 、水分含量约 $4 \\%$ 的沙床进行沙藏保存，备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "种子千粒重是从干净种子中随机抽取1000粒种子进行称重，重复3次。种径测定是随机抽取30粒种子进行纵、横径的测定。种子萌发试验于2015年11月—2016年4月在室温条件和LRH-250-G光照培养箱（广东省医疗器械厂生产）条件下进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1种子萌发特性测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验前种子经清水搓洗，并以水选法选取饱满种子，用 $0 . 5 \\% \\mathrm { K M n O } _ { 4 }$ 浸泡消毒 $3 0 \\mathrm { m i n }$ 清水冲洗，滤干后备用。采用单因素试验，分别探讨不同温度、光照、基质、基质含水量及破壳处理5个试验因素对种子萌发的影响，萌发试验的所有处理均设3个重复，每重复50粒种子。种子置于培养皿中萌发，试验因素为基质的处理设河沙和泥炭土2种基质，其他的试验因素的处理均用河沙作为培养基质；试验因素为基质含水量的处理设置 $5 \\% . 1 0 \\%$ 和 $20 \\%$ 三个不同的含水量梯度，其他的试验因素的处理的基质含水量约为 $10 \\%$ ，每隔一个星期根据培养皿失水情况补充水份，使各处理的基质保持相应的含水量。播种时，试验因素为光照的处理的播种方式为坚果（种子）果球的一半露在基质外面，其他的试验因素的处理的播种方式为坚果（种子）的果球全部没入基质中。每30d将萌发和霉烂的种子挑出培养皿，统计萌发的种子数（胚根伸出达 $5 \\mathrm { m m }$ 以上即视为萌发）。每次统计时均对不同处理的所有新萌发的种子的胚根进行长度和粗度的测定，试验结束时取其均值以了解不同的试验处理对胚根发育状况的影响。各试验处理设置如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)温度：设置15、20、25和 $3 0 \\ { ^ { \\circ } C } \\ 4$ 个温度梯度，以室温作为对照。(2)光照： $\\textcircled{1}$ 室温条件下，设室内周期性光照（把培养皿置于靠近窗口的台面）和持续黑暗 $( 0 \\mathrm { l x } , 2 4 \\mathrm { h } { \\cdot } \\mathrm { d } ^ { - 1 }$ ，用不透光的盖子罩住)2个处理； $\\textcircled{2} 2 5 ^ { \\circ } \\mathrm { C }$ 光照培养箱条件下，设置周期性光照！ $\\left( 3 0 0 0 \\mathrm { l x , } 1 2 \\mathrm { h } { \\cdot } \\mathrm { d } ^ { - 1 } \\right)$ 和持续黑暗！ $\\langle 0 \\mathrm { l x } , 2 4 \\mathrm { h } { \\cdot } \\mathrm { d } ^ { - 1 }$ ，用不透光的盖子罩住）2个处理。(3)培养基质：分别在光照培养箱（ $2 5 \\ \\mathrm { { ^ \\circ C } }$ 、周期性光照 $3 0 0 0 \\mathrm { l x } , 1 2 \\mathrm { h } { \\cdot } \\mathrm { d } ^ { - 1 } \\rangle$ 和室内（室温、室内周期性光照）条件下，各设置河沙、泥炭土2个不同基质。(4)基质含水量：分别在光照培养箱（ $2 5 \\ \\mathrm { { ^ \\circ C } }$ 、周期性光照 $3 0 0 0 \\mathrm { l x } , 1 2 \\mathrm { h } { \\cdot } \\mathrm { d } ^ { - 1 } ,$ ）和室内（室温、室内周期性光照）条件下，各设置 $5 \\%$ 、 $10 \\%$ 、 $20 \\% 3$ 个不同含水量梯度。(5)破壳处理：分别在光照培养箱（ $2 5 \\ \\mathrm { { ^ \\circ C } }$ 、周期性光照（ $\\cdot 3 0 0 0 \\mathrm { l x } , 1 2 \\mathrm { h } { \\cdot } \\mathrm { d } ^ { - 1 } \\big >$ ）和室内（室温、室内周期性光照）条件下，各设置种子破壳（在种子尖端把壳剪开一个小孔）和未破壳2 个处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2数据统计与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以萌发率和发芽势为指标，在规定时间（60d）内计算发芽势，在在种子萌发试验终期（规定日期内，本试验为 $1 5 0 \\mathrm { d } )$ ）计算最终发芽率。发芽率和发芽势计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "萌发率（ $G P ) = .$ 正常发芽种子粒数/参试种子总粒数 $\\times 1 0 0 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "发芽势（ $G E ) =$ 规定时间（ $[ 6 0 \\mathrm { d } )$ ）内发芽的种子数/供试种子数 $\\times 1 0 0 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS13.0 软件作单因素方差分析(one-way ANOVA),用Duncan 法进行多重比较，方差不齐的，采用 Tamhane's T2 进行比较；用 Sigmaplot10.0 作图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1种子形态特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "锥栗坚果呈圆锥形或卵形，横径（ $0 . 6 5 { \\scriptstyle \\pm 0 . 0 1 }$ ） $\\mathrm { c m }$ ，纵径（ $0 . 8 3 { \\scriptstyle \\pm 0 . 0 2 }$ ）cm，种皮为红褐色。成熟坚果千粒鲜重为‘ $( 3 \\ 3 0 0 { \\pm } 8 4 . 9 8 \\$ ） $\\mathrm { \\bf { g } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同温度对种子萌发的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同温度条件下，锥栗种子萌发过程存在差异。萌发前期（60d内），温度对种子萌发率的影响较大， $2 5 \\mathrm { ^ \\circ C }$ 的萌发率曲线斜率最大，萌发率增加量最大， $3 0 \\ \\mathrm { ^ { \\circ } C }$ 次之，室温条件下最小，且 $2 5 \\mathrm { { ^ \\circ C } }$ 的萌发率分别高于20、 $1 5 \\ \\mathrm { { ^ \\circ C } }$ 的萌发率。 $6 0 \\mathrm { d }$ 后，室温条件下萌发率增加较多，其余几个温度萌发率逐渐趋于平稳。试验结束时， $2 5 \\ \\mathrm { { ^ \\circ C } }$ 萌发率最大，其次为15、 $2 0 ^ { \\circ } \\mathrm { C }$ ， $3 0 ^ { \\circ } \\mathrm { C }$ 和室温的发芽率依次居后（图1）。对于发芽势， $2 5 \\ \\mathrm { { ^ \\circ C } }$ 和 $3 0 \\ \\mathrm { ^ { \\circ } C }$ 的发芽势差异不显著，但它们显著高于 $1 5 ^ { \\circ } \\mathrm { C } , 2 0 ^ { \\circ } \\mathrm { C }$ 和室温的发芽势（图2A）。5种温度条件中， $2 5 ^ { \\circ } \\mathrm { C }$ 最适宜种子萌发，在播种后60d内，随着温度的升高或降低，萌发率和发芽势都有所下降，其中， $3 0 ^ { \\circ } \\mathrm { C }$ 条件下的萌发率和发芽势均高于15、 $2 0 ^ { \\circ } \\mathrm { C }$ 和室温条件下。不同温度条件下，胚根粗度不存在显著性差异（ $P > 0 . 0 5 ,$ ），但不同温度对胚根长度有影响（图2：B）。 $1 5 \\mathrm { ^ \\circ C }$ 和 $2 0 ^ { \\circ } \\mathrm { C }$ 之间的胚根长度以及 $2 5 \\mathrm { { ^ \\circ C } }$ 和 $3 0 ^ { \\circ } \\mathrm { C }$ 之间的胚根长度均不存在显著性差异（ $P > 0 . 0 5 \\dot { , }$ ），25、 $3 0 ^ { \\circ } \\mathrm { C }$ 的胚根长度与15、 $2 0 ^ { \\circ } \\mathrm { C }$ 、室温的胚根长度具有显著性差异 $( P < 0 . 0 5$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/242154cad6159471d0463622a9cfe1214adf1eb510c282450f5a93c5c2d8fc67.jpg",
+        "img_caption": [
+            "图1不同温度条件下锥栗种子的萌发过程"
+        ],
+        "img_footnote": [
+            "注：RT.室温。下同。"
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note: RT.Room temperature.The same below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Germination process of Castanea henryi seeds in diffrent temperatures ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/36ef51a900936349c14f1af156817a7371c013549875b5ae980100fb1790788e.jpg",
+        "img_caption": [
+            "图2A.不同温度对锥栗种子发芽势的影响；B.不同温度条件锥栗种子胚根的生长情况",
+            "Fig.2A.Effects of different temperature on germination energy of Castanea henryi seeds; B.Growth status of radiclesofCastaneahenryi seedlingsindifferent temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同光照对种子萌发的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同的光照条件对种子萌发率有不同的影响。在 $2 5 ^ { \\circ } \\mathrm { C }$ 、黑暗条件下，种子在播种 $6 0 \\mathrm { d }$ 后达到峰值，为 $9 2 . 6 7 \\%$ ，而在 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 、周期性光照条件下萌发率上升较为平缓，最终萌发率不高，为 $7 9 . 3 3 \\%$ ；室温下，在种子萌发的早中期（120d之前），黑暗下萌发率远高于周期性光照条件下的萌发率，直到试验末期（120d）后，两者的累积萌发率才基本持平（图3）。相同的温度条件下，黑暗条件下的种子发芽势显著高于周期性光照条件下（ $\\cdot P < 0 . 0 5$ ）（图4A）。总体来看，黑暗条件下，种子的萌发率和发芽势明显高于光照下，黑暗更利于种子萌发。不同光照条件下，胚根粗度差异不显著（ $P > 0 . 0 5 ,$ ），但胚根长度差异显著（图4B）。在相同温度条件下，黑暗条件下的种子胚根长度均显著小于周期性光照条件下 $( P < 0 . 0 5 ) \\$ 0°",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/44abc5e78ba56c4006c41823348d1ed6db0139b21ba67bdf518afe610f21034d.jpg",
+        "img_caption": [
+            "图3不同光照条件下锥栗种子的萌发过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e55018378311921809e41b69f7f1a70bb927b526ffeea1d94d9526874a513ab4.jpg",
+        "img_caption": [
+            "Fig.3Germination process of Castanea henryi seeds in different light ",
+            "图4A.不同光照条件对锥栗种子发芽势的影响；B.不同光照条件下锥栗种子胚根的生长情况Fig.4A.Efects ofdiffrent light on germination energy ofCastanea henryi seeds; B.Growth status ofradiclesofCastanea henryi seedlings in different light"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同基质对种子萌发的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "河沙和泥炭土对种子发芽的快慢和萌发率有不同的影响（图5）。 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 、周期性光照条件下，60d内，河沙、泥炭土中种子的萌发率均快速升高，前者略高于后者。随着时间的推移，萌发率缓慢上升，在试验中后期（ $9 0 \\mathrm { d }$ 后）达到顶峰，后者略高于前者。室温、周期性光照条件下，泥炭土中种子的萌发率高于同一阶段河沙中的萌发率（图5）， $2 5 \\ \\mathrm { { ^ \\circ C } }$ 、周期性光照条件下，河沙中的种子发芽势略高于泥炭土的，但它们之间并不存在显著性差异（ $\\vert P >$ 0.05），而室温、周期性光照条件下，河沙中的种子发芽势显著低于泥炭土（ $\\cdot P { < } 0 . 0 5$ ）（图6A）。综合分析，泥炭土更适于种子萌发，可能由于泥炭土土质疏松，透气性好，且肥力较好。基质对胚根粗度的影响不显著（ $\\langle P > 0 . 0 5 \\rangle$ ，但对胚根长度则有显著的影响， $( P < 0 . 0 5 )$ （图6B）。在相同的温度条件下，沙河中的种子胚根长度显著小于泥炭土中！ $( P < 0 . 0 5 ) ~$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f1feddb64b180f3b1f8a279b74f683e3269fa57f3f0a86153489ede0ac42a46.jpg",
+        "img_caption": [
+            "图5不同基质条件下锥栗种子的萌发过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/55c66a11f621c2f8687d17b836a2fb0cae172112a67460df3fa0b697819dbe43.jpg",
+        "img_caption": [
+            "Fig.5Germination process of Castanea henryi seeds in different matrix ",
+            "图6A.不同基质对锥栗种子发芽势的影响；B.不同基质条件锥栗种子胚根的生长情况 Fig.6A.Efect of different matrix on germination energy of Castanea henryi seeds; B.Growth status of radicles of Castanen henryi seedlings in different matrix "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4基质含水量对种子萌发的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同基质含水量对种子萌发有一定的影响， $2 5 \\mathrm { { ^ \\circ C } }$ 、周期性光照条件下，含水量为 $5 \\%$ 、$10 \\%$ 、 $20 \\%$ 基质中种子最终萌发率分别为 $8 4 . 4 4 \\%$ 、 $8 6 . 6 7 \\%$ 、 $8 1 . 1 1 \\%$ ，而室温、周期性光照条件下相同含水量基质中种子的最终萌发率 $8 8 . 8 9 \\%$ 、 $90 \\%$ 、 $8 4 . 4 4 \\%$ （图7）。对于发芽势，在相同温度、光照条件下，均以含水量为 $10 \\%$ 的基质中为最大，含水量 $20 \\%$ 的基质次之、$5 \\%$ 基质中的最小，不同含水量基质中种子发芽势之间无显著性差异（ $\\cdot P > 0 . 0 5$ ）（图8A）。综合以上可知，种子萌发对基质含水量要求不严格，适应能力较强。基质含水量对胚根粗度不具有显著性影响（ $\\cdot P > 0 . 0 5 )$ ； $2 5 \\mathrm { { ^ \\circ C } }$ 、周期性光照条件下，不同含水量基质中胚根长度无显著性差异（ $P > 0 . 0 5 \\dot { , }$ ），而室温、周期性光照条件下，不同含水量基质中胚根长度则有显著性差异（ $\\ P \\ < \\ 0 . 0 5 )$ ），在相同温度、光照条件下，均以含水量为 $20 \\%$ 基质中的胚根长度最大，含水量 $5 \\%$ 的次之、含水量为 $10 \\%$ 的最小（图8B）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f5ba59d3f200ce5cde17ec4b57c7d6f5e6050c55f5d191a8b0441e421568d16.jpg",
+        "img_caption": [
+            "图7不同基质含水量条件下锥栗种子的萌发过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c61f41e5af3cd0c8f08813146c2541b197f4dc08318ed8b90d6d0f3ba5af0ce.jpg",
+        "img_caption": [
+            "Fig.7Germination process of Castanea henryi seeds in different matrix moisture "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5破壳处理对种子萌发的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 、周期性光照条件下，未破壳处理的种子在播种 $3 0 \\mathrm { d }$ 后才开始萌发，晚于破壳种子， $9 0 \\mathrm { d }$ 后二者的累积萌发率相同，但发芽势显著低于破壳种子（ $\\left. P < 0 . 0 5 \\right.$ ）。在室温、周期性光照条件下，破壳处理的种子的萌发率高于未破壳种子，破壳种子发芽势显著高于未破壳种子（ $P < 0 . 0 5 )$ ）（图9，10A）。由此分析可知，相同温度、光照条件下，破壳与否可影响种子的萌发率和发芽势，打破外壳的束缚，使种子更容易收水分和氧气，进而有利于种子萌发。如图10B，破壳与否对于胚根粗度不产生显著性影响（ $\\ P > \\ 0 . 0 5$ ）；但在相同条件下，破壳的种子的胚根长度显著大于未破壳种子（ $( P < 0 . 0 5 ) \\$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3a552f9086e7d6caeeb8b8905c0017a64a534072a983a26c0ad286344ed29e1.jpg",
+        "img_caption": [
+            "图8A.不同基质含水量对锥栗种子发芽势的影响；B.不同基质含水量条件锥栗种子胚根的生长情况 Fig.8A.Effects of diferent matrix moisture on germination energy of Castanea henryi seeds; B.The growth status of radicles of Castanea henryi seedlings in different matrix moisture "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ee02a98a3f357ebfa1e45c02586fc8994f44cd499336a19f9db01ebf99f65e4.jpg",
+        "img_caption": [
+            "图9破壳处理条件下锥栗种子的萌发过程",
+            "Fig.9Germination process of Castanea henryi seeds after shell-breaking treatment ",
+            "图10A.破壳处理对锥栗种子发芽势的影响；B.破壳处理后锥栗种子胚根的生长情况 Fig.10A.The efect of shell-breaking treatment on germination energy of Castanea henryi seeds; B.The growth status ofradicles of Castanea henryi seedlings after shell-breaking treatment "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "种子萌发需要充足的水分，适宜的温度，充足的氧气和适当的光照，但因生境和种类的不同，影响种子萌发的主要因子也有所不同。种子萌发过程受到温度、光照、基质、基质含水量等环境因子及播种前破壳处理的综合影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "温度是影响种子萌发的关键因素之一，适宜的温度能够提高种子萌发率和促进幼苗生长（Ojeifo etal,2007；张小娇等,2014）。不同物种种子的萌发温度也不同。如海韭菜（Triglochinmaritima）（Khan&Ungar,1999）、坡柳（Dodonaea viscosa）（霍冬芳等，2016）等在高温下种子的萌发率较高，而低温能提高梭梭（Haloxylon ammodendron）（黄振英等，2001）等植物种子的萌发率。研究结果表明，锥栗种子萌发具有较好的环境适应性，萌发温差范围较大（杨期和等，2005），且最适宜萌发温度为 $2 5 \\mathrm { { ^ \\circ C } }$ ，温度过高或过低对种子萌发均有不同程度的影响，这与白沙蒿（Artemisia sphaerocephala）种子类似（黄振英等，2001）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同物种的种子萌发所需要的光照条件有所不同（杨期和等，2001）。锥栗种子在光照和黑暗条件下均能萌发，不管是在恒温条件下，还是在室温条件下，黑暗条件都更有利于锥栗种子萌发，符合杨期和等（2005）提出的锥栗种子萌发不需要光的结论。可能是因为锥栗种子比较大，所储藏的物质和能量较多，能满足种子萌发和幼苗生长所需的物质，这与Pamukov&Schneider（1978）的研究结果相似。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同基质含有的营养物质、微生物种类及数量不同，其松紧程度也不同，从而影响种子的萌发、幼苗的生长（Puerta-Pinero etal,2006）。在相对适宜的光温条件下，泥炭土中种子的萌发率高于河沙，这可能是由于泥炭土质地较轻、透气性好，氧气供给充足，减少种子霉变，而有利于种子萌发，而河沙粒间孔隙小、通透性差、通气透水不良、质地重，因此种子容易发霉。由此可知，泥炭土更适于锥栗种子萌发。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "水是种子萌发必备的条件之一，是控制种子萌发的最重要因素。种子萌发过程中需要从基质中吸收水分，从基质中进入种子的水分能溶解一些贮藏物质，使之成为种胚能够利用的养料，基质含水量的不同也会影响植物种子的萌发（林涛等，2008)。锥栗在含水量为 $5 \\% - 2 0 \\%$ 的基质中均能萌发，发芽率也无显著性差，表明锥栗种子对基质含水量要求不严格，适应范",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "围较广。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "锥栗的外壳韧硬坚实且外层没有结合缝，透气性差、透水性差，导致萌发过程中吸水困难，影响种子萌发。人为打破种子外壳的束缚，减小种皮的阻碍作用，让种子直接处于容易吸收水分的状态下，使种子原生质吸收到足够水分而促使其所含的物质迅速活跃起来，从而促进种子发芽。破壳处理能提高锥栗种子的萌发率和发芽势，这与大别山五针松（Pinusdabeshanensis）种子类似（韩建伟等，2014）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述，锥栗种子最适宜萌发温度是 $2 5 \\mathrm { { ^ \\circ C } }$ ；黑暗条件更适宜于种子萌发；种子萌发对基质含水量要求不严格；适宜以泥炭土等质地较轻、透气性好的基质作为萌发基质；在实际生产中，剪破种壳能提高种子的萌发率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献  \nHAN JW, ZHANG ZY, WANG EM, et al, 2001. Pinus dabeshanensis seed characteristics and thepromotion of seed germination [J].Chin Agric Sci Bull, 30(1): 5-10.[韩建伟，张智勇，王恩茂，等，2014．大别山五针松种子特性及促进种子萌发的研究［J]．中国农学通报,30(1): 5-10.]  \nHUANG ZY,GUTTERMA Y,HU ZH, et al,2001. Seed germination in Artemisia sphaerocephalaII. The influence of environmental factors [J]. Chin JPlant Ecol, 25(2): 240-246.[黄振英,GUTTERMAY，胡正海，等，2001．白沙蒿种子萌发特性的研究II．环境因素的影响[J]．植物生态学报，25(2)：240-246.]  \nHUANG ZY, ZHANG SX, GUTTERMA Y, et al, 2001. Influence of light, temperature andsalinity on the seed germination of Haloxylon ammodendron [J]. Acta Phytophysiol Sin,27(3):275-280.[黄振英，张新时，GUTTERMAY，等，2001．光照、温度和盐分对梭梭种子萌发的影响[J]．植物生理学报，27(3)：275-280.]  \nHUO DF, HUANG BQ,SU WH, et al, 2016. Effects of high temperature treatment on seedgermiation of semi-Savanna species: Dodonaea viscosa (L.) Jacq [J]. Seed, 36(10): 10-18.[霍冬芳，黄博强，苏文华，等，2016．萌发前高温处理对坡柳种子萌发率的影响[J]．种子，36(10）：10-18.]  \nJING Y, LIANG YC, YANG H, 2004. Comparison of fruit nutrition components of Castaneahenryi clones [J].J Zhejiang For Coll,21(2): 176-179.[景芸，梁一池，杨华，2004．不同锥栗无性系果实营养成分的比较分析［J]．浙江林学院学报，21(2）：176-179.]  \nKHAN MA, UNGAR IA, 1999. Effect of salinity on seed germination of Triglochin maritimaunder various temperature regimes [J]. Great Basin Nat, 59(2): 144-150.  \nLIN T, TIAN YL, WANG Y, et al, 2008. Effects of moisture contents of medium, temperatureconditionon seeds germination of Caragana korshinski and other four psammophytes [J]. JInner Mongolia Agric Univ,29(4):30-33.[林涛，田有亮，王燕，等，2008．基质含水量、温度条件对柠条等5种沙生植物种子萌发的影响［J]．内蒙古农业大学学报，29(4）：30-33.]  \nLIU GH, FANG JY, 2001. Spatial paterns of chestnut (Castanea millissima) and its speciesgeographical distribution in China [J].Acta Ecol Sin,21(1): 164-170.[刘国华，方精云,2001.我国栗属物种地理分布及其空间特征分析［J]．生态学报，21(1）：164-170.]  \nOJEIFO IM, EMUH FN, IGBENIJEOGOR B,2007. Effect of different temperature regimes onseed germination and growth parameters of Dacryodes edulis [J]. Agric J, 2(1): 16-19.  \nPAMUKOV K, SCHNEIDER MJ,1978.Light inhibition of Nigella germination: the dependenceof a high irradiance reaction on $7 2 0 \\mathrm { - n m }$ irradiance [J].Bot Gaz, 139(1): 56-59.  \nPUERTA-PINERO C,GOMEZ JM， ZAMORA R，2006. Species specific effects on topsoildevelopment affect Quercus ilex seedling performance [J]. Acta Oecol, 29(1): 65-71.  \nRAJJOU L, DUVAL M, GALLARDO K, et al, 2012. Seed germination and vigor [J]. Ann RevPlant Biol, 63: 507-533.  \nSONG AY, CHEN Q, LEI RP, et al, 2001. Analysis of content of nut nutrient elements in differentcultivars of Henry chestnut Castanea henryi [J].Econ For Res,19(4): 5-7.[宋爱云，陈钦,雷日平，等，2001．锥栗栽培品种果实营养成分差异的分析[J]．经济林研究，19(4)：5-7.]  \nWANG HW, 2003. Study on cultivars and community of Castanea henyi [D]. Fuzhou: FujianAgric ForUniv:6.[王海为，2003．锥栗的品种与群落学研究[D]．福州：福建农林大学：6.]  \nYANG QH, YANG W,LI XR, 2001. Affecting factors of tropical plant seed germination [J]. Seed,5:45-48.[杨期和，杨威，李秀荣，2001．热带植物种子萌发影响因素初探［J]．种子,5:45-48.]  \nYANG QH, YE WH, ZHANG Y, et al, 2005. Eco-physiological characteristics of germination andstorage of Castanopsis chinensis seeds [J]. JBeijing For Univ,27(1): 92-95.[杨期和，叶万辉，张云，等，2005．锥栗种子萌发和贮藏特性的初步研究[J]．北京林业大学学报，27(1):92-95.]  \nZHANG XQ, QI J, CAO WX, 2014. Efects of salt, temperature and their interaction on seedgermination and seedling growth of Elymus nutans [J]. Chin J Grassl, 36(1): 24-30.[张小娇,祁娟，曹文侠,2014．盐分、温度及其互作对垂穗披碱草种子萌发及幼苗生长的影响[J].中国草地学报，36(1）：24-30.]  \nZHENG CL, 2008. Studies on several aspects on Chinquapin (Castanea henryi Rehd. & Wils.)'sbiology [D].Fuzhou: Fujian Agric For Univ:1-3.[郑诚乐，2008．锥栗若干生物学问题研究[D]．福州：福建农林大学：1-3.]  \nZHENG CL，WU SH， SHE WQ，et al， 2003.Analyses of nutrient ingredients and quanlityevalution in nuts of Chinquapin (Castanea henryi) [J]. JFujian Coll For,23 (4): 293-296. [郑诚乐，吴少华，佘文琴，等，2003．锥栗果实营养成分分析与品质的模糊评判［J]．福建林学院学报，23（4）：293-296.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,266 @@
+1育肥饲料中混合植物油替代鱼油对中华绒螯蟹成体雄蟹性腺发育、脂质代谢、抗氧化及免疫性能的  
+2 影响
+
+赵磊 龙晓文1 吴旭干 $^ { 1 , 2 ^ { * } }$ （204 刘泽华」何杰」成永旭1,2（1.上海海洋大学，水产种质资源发掘与利用教育部重点实验室，上海 201306；2.上海海洋大学，上海市教委水产动物遗传育种协同创新中心，上海 201306)
+
+6 摘要：本试验旨在研究混合植物油替代鱼油对中华绒螯蟹成体雄蟹性腺发育、脂质代谢、抗氧化  
+7 及免疫性能的影响。采用混合植物油（豆油：菜籽油 $= 1 { : } 1$ ）替代不同水平（0、 $2 5 \%$ 、 $5 0 \%$ 、 $7 5 \%$ 和  
+8 $100 \%$ ）鱼油，制成5种等氮等脂的育肥饲料（粗蛋白质和粗脂肪含量分别为 $3 9 . 5 \%$ 和 $1 4 . 0 \%$ ，分  
+9 别记为饲料1#、2#、3#、4#和5#)，对5组成体雄蟹（每组4个重复，每个重复25只）进行了为  
+10 期60d的室外池塘饲养试验。结果显示：1）混合植物油替代不同水平鱼油对雄蟹性腺指数（GSI)  
+11 及肝胰腺指数（HSI）均无显著影响（ $P { > } 0 . 0 5$ )。2）饲料4#组肝胰腺中甘油三酯（TG）含量最低，  
+12 其余各组肝胰腺中TG及总胆固醇（TC）含量均无显著差异（ $\scriptstyle \cdot > 0 . 0 5 .$ ；除游离胆固醇（FC）和高  
+13 密度脂蛋白胆固醇（HDL-C）含量外，饲料 2#组血清中其余各项脂质代谢指标均显著高于其他组  
+14 （ $P { < } 0 . 0 5$ )。3）对于肝胰腺中的抗氧化指标，除超氧化物歧化酶（SOD）活力在各组间无显著差异  
+15 （ $. P { > } 0 . 0 5$ ）外，饲料1#组的总抗氧化能力（T-AOC）、过氧化物酶（POD）活力和丙二醛（MDA）  
+16 含量均显著高于其他各组（ $P { < } 0 . 0 5 )$ ；对于肝胰腺中的免疫指标，碱性磷酸酶（ALP）和酸性磷酸  
+17 酶（ACP）活力均以饲料1#组最高，而 $\gamma$ -谷氨酰转肽酶（γ-GT）活力则以饲料4#组最高，饲料1#  
+18 组次之，饲料2#组最低。4）饲料3#组血清中ALP活力最高，且显著高于饲料1#和4#组（ $( P { < } 0 . 0 5 )$ ，  
+19 但血清中ACP活力在各组间无显著差异（ $( P { > } 0 . 0 5 )$ ；饲料2#组血清中血蓝蛋白（Hc）含量、T-AOC  
+20 和 SOD 活力显著高于其他组（ $_ { ( P < 0 . 0 5 ) }$ ，但该组血清中POD 活力和 MDA含量最低。综上，育肥  
+21 饲料中以豆油：菜籽油 $= 1 { : } 1$ 的混合植物油替代不同水平鱼油对中华绒螯蟹成体雄蟹性腺发育无显著  
+22 影响，且适宜的替代水平对中华绒螯蟹成体雄蟹的脂质代谢、抗氧化及免疫性能均无负面影响，其  
+23 适宜的替代水平为 $2 5 \% { \sim } 5 0 \%$ 。
+
+关键词：鱼油替代水平；中华绒螯蟹；性腺发育；脂质代谢；抗氧化能力中图分类号：S963 文献标识码：A 文章编号：
+
+26 鱼油是水产饲料的重要原料之一，据统计，全球 $7 5 \%$ 左右的鱼油被用于水产饲料生产[]。随  
+27 着水产养殖业的快速发展，全球鱼油资源已不能满足水产饲料生产的需求，因此寻求合适的鱼油替
+
+代源已势在必行[2]。由于植物油具有来源广泛、价格低廉和总产量大等优点，因此成为了水产饲料中替代鱼油的首选[3]。中华绒螯蟹（Eriocheir sinensis）（又称河蟹）是我国主要的养殖蟹类之一，具有重要的营养价值，其独特的香气和营养价值与其含有较多的高度不饱脂肪酸（HUFA）有关[4-5],因此，通常需要在中华绒螯蟹育肥饲料（性腺发育期的饲料）中添加较高含量的鱼油[6-7]。但随着鱼油资源的紧缺和价格上涨，水产饲料中普遍开始采用植物油替代鱼油[8-9]。目前，有关中华绒螯蟹饲料中的鱼油替代的研究较少，且主要集中于在生长阶段[8,10]，尚未见性腺发育阶段的鱼油替代研究。这个阶段中中华绒螯蟹雌体和雄体性腺发育规律差异较大，营养需求也可能有所不同[11-12]。此外，先前的研究表明，中华绒螯蟹育肥饲料中HUFA组成和含量可能对其雌体卵巢发育造成一定的影响[7,13]，并且至今尚未见任何关于中华绒螯蟹雄体育肥饲料中鱼油替代和 HUFA需求的研究报道，因此探讨育肥饲料中合适的鱼油替代水平具有重要的现实意义。同时，考虑到不同植物油的脂肪酸组成有所不同，因此不同植物油混合使用可能起到脂肪酸平衡的作用，有利于提高替代效果[14-15]，而豆油和菜籽油是目前水产饲料中最常用的2种植物油，其脂肪酸和维生素组成具有一定的互补性，因此采用两者混合使用具有一定的优势[16-17]。鉴于此，本文采用混合植物油（豆油：菜籽油 $= 1 { : } 1$ ）替代鱼油，较系统研究实用配合饲料中替代不同水平（0、 $2 5 \%$ 、 $5 0 \%$ 、 $7 5 \%$ 和 $100 \%$ ）鱼油对成体雄蟹性腺发育、脂质代谢及抗氧化能力的影响，以期为中华绒螯蟹育肥饲料配制、育肥养殖和鱼油替代源的开发等提供一定的理论依据和实践参考。
+
+# 1．材料与方法
+
+# 1.1试验饲料
+
+试验饲料以豆粕、菜籽粕和鱼粉作为主要蛋白质源，采用混合植物油（豆油：菜籽油 $= 1 { : } 1$ ）替代不同水平的鱼油，按表1配方配制5种试验饲料，试验饲料中鱼油的替代水平分别为0、 $2 5 \%$ 、$5 0 \%$ 、 $7 5 \%$ 和 $100 \%$ 。配制饲料前，所有饲料原料均粉碎后过60目筛，直径 $2 5 0 ~ { \mu \mathrm { m } }$ 左右，按照饲料配方用牧羊 SLHS2.0A 单轴混合机混合后再用 SLHSJ1.0A双轴混合机进行二次混合，充分混合后用恒润 $\mathrm { H R } 1 1 8 ^ { * } 2$ 双螺杆膨化机制成沉性膨化饲料，粒径 $4 . 5 { \sim } 5 . 0 \ \mathrm { m m }$ ，长约 $1 0 . 0 \ \mathrm { m m }$ ，植物油和鱼油按比例混合后采用真空喷涂方式添加。所有试验饲料冷却包装后于 $- 2 0 \mathrm { ~ \textdegree ~ }$ 冰箱中保存备用。
+
+表1试验饲料组成 (风干基础) Table 1 Compositon of experimental diets (air-dry basis)   
+%   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">饲料Diets</td></tr><tr><td>1#</td><td>2#</td><td>3#</td><td>4#</td><td>5#</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>14.54</td><td>14.54</td><td>14.54</td><td>14.54</td><td>14.54</td></tr><tr><td>谷腕粉Wheat gluten</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>鱼粉 Fish meal</td><td>18.00</td><td>18.00</td><td>18.00</td><td>18.00</td><td>18.00</td></tr><tr><td>面粉 Wheat flour</td><td>14.00</td><td>14.00</td><td>14.00</td><td>14.00</td><td>14.00</td></tr><tr><td>啤酒酵母粉 Brewer's yeast</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>乌贼粉 Squid meal</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>虾粉 Shrimp meal</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>0.76</td><td>0.76</td><td>0.76</td><td>0.76</td><td>0.76</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>1.20</td><td>1.20</td><td>1.20</td><td>1.20</td><td>1.20</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>氯化胆碱 Choline chloride (50%)</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>肌醇 Inositol</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>鱼油Fish oil</td><td>8.00</td><td>6.00</td><td>4.00</td><td>2.00</td><td></td></tr><tr><td>豆油 Soybean oil</td><td></td><td>1.00</td><td>2.00</td><td>3.00</td><td>4.00</td></tr><tr><td>菜籽油 Rapeseed oil</td><td></td><td>1.00</td><td>2.00</td><td>3.00</td><td>4.00</td></tr><tr><td>卵磷脂Lecithin</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>食盐 NaCl</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr></table></body></html>
+
+D)维生素预混料为每千克饲料提供 The vitamin premix provided the follwing per kg of diets:VA 62 500 IU,VD 15000 IU，VE $1 . 0 5 \mathrm { g }$ ， $\mathrm { V K } _ { 3 } 3 5 . 4 \mathrm { m g }$ ， $\mathrm { V B _ { 1 } ~ 1 0 0 ~ m g }$ ， $\mathrm { V B } _ { 2 } \ 1 5 0 \ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 1 5 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 2 \ : \mathrm { m g }$ ，VC $7 0 0 ~ \mathrm { { m g } }$ ，生物素biotin$4 \ : \mathrm { m g }$ ， $D$ 泛酸钙 $D$ calcium pantothenate $2 5 0 \mathrm { m g }$ ，叶酸 folic acid $2 5 ~ \mathrm { m g }$ ，烟酰胺 nicotinamide $3 0 0 ~ \mathrm { { m g } }$ 。
+
+2)矿物质预混料为每千克饲料提供 The mineral premix provided the folowing per kg of diets： $\mathrm { F e S O _ { 4 } } { \cdot } \mathrm { H _ { 2 } O } 2 0 0 \mathrm { m g }$ $\mathrm { C u S O _ { 4 } { \cdot } 5 H _ { 2 } O 9 6 m g }$ ， $\mathrm { Z n S O _ { 4 } } { \cdot } \mathrm { H _ { 2 } O } \ 3 6 0 \ \mathrm { m g }$ ， $\mathrm { M n S O _ { 4 } { \cdot } H _ { 2 } O \ 1 2 0 \ m g }$ ， $\mathrm { M g S O _ { 4 } { \cdot } H _ { 2 } O 2 4 0 \ m g }$ ， $\mathrm { K H _ { 2 } P O _ { 4 } } 4 . 2 \ \mathrm { g }$ ， $\mathrm { N a H _ { 2 } P O _ { 4 } 0 . 5 \ g }$ $\mathrm { K I } 5 . 4 \mathrm { m g }$ ， $\mathrm { C o C l _ { 2 } } { \cdot } 6 \mathrm { H _ { 2 } O } \ 2 . 1 \ \mathrm { m g }$ ， $\mathrm { N a } _ { 2 } \mathrm { S e O } _ { 3 } 3 \mathrm { m g }$ 。
+
+按照AOAC(1995)[18]的标准方法测定饲料水分（ $1 0 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 烘干法）、粗蛋白质（凯氏定氮法）和粗灰分（ $5 5 0 \ \mathrm { ~ ^ { \circ } C }$ 灼烧法）含量；按照 Folch 等[19]的方法，采用氯仿：甲醇（ $\nu / \nu { = } 2$ ：1）提取总脂并测定其含量。脂肪酸组成测定参考吴旭干等[20]的方法，采用 $14 \%$ 的三氟化硼-甲醇对总脂进行甲脂化，使用美国 Thermo TRACEGCULTRA气相色谱仪进行测定。色谱柱为Agilent SP-2560毛细管柱（ $1 0 0 \mathrm { m } { \times } 0 . 2 5 \mathrm { m m }$ ; $0 . 2 \mu \mathrm { m } \dot { }$ ， $5 0 \ \mathrm { ^ { \circ } C / m i n }$ 由 $7 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 升至 $1 4 0 ^ { \circ } \mathrm { C }$ ，保持 $1 \mathrm { m i n }$ ， $4 \mathrm { { } ^ { \circ } C / m i n }$ 升到 $1 8 0 ~ \mathrm { { ^ circ C } }$ ，保持 $1 \mathrm { m i n }$ ，最后 $3 ~ \mathrm { { ^ { \circ } C / m i n } }$ 升至 $2 2 5 \mathrm { ~ \textdegree C }$ ，保持 $3 0 \mathrm { m i n }$ 。试验饲料常规营养成分含量及脂肪酸组成见表2。
+
+表2试验饲料常规营养成分含量及脂肪酸组成(风干基础) Table 2Proximate nutrient contents and fatty acid composition of experimental diets (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">饲料Diets</td></tr><tr><td>1#</td><td>2#</td><td>3#</td><td>4#</td><td>5#</td></tr><tr><td>常规营养成分 Proximate nutrients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>水分 Moisture</td><td>11.81</td><td>11.45</td><td>11.85</td><td>12.34</td><td>11.18</td></tr><tr><td>粗蛋白质 Crude protein</td><td>39.55</td><td>39.22</td><td>39.38</td><td>39.59</td><td>39.55</td></tr><tr><td>粗脂肪 Crude lipid</td><td>13.84</td><td>14.75</td><td>14.18</td><td>13.23</td><td>14.03</td></tr><tr><td>粗灰分 Ash</td><td>9.21</td><td>9.15</td><td>9.14</td><td>9.24</td><td>9.40</td></tr><tr><td>脂肪酸Fatty acids</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C14:0</td><td>4.08</td><td>3.63</td><td>2.69</td><td>1.85</td><td>0.92</td></tr><tr><td>C15:0</td><td>0.59</td><td>0.54</td><td>0.40</td><td>0.25</td><td>0.12</td></tr><tr><td>C16:0</td><td>20.73</td><td>19.39</td><td>17.09</td><td>15.02</td><td>12.61</td></tr><tr><td>C17:0</td><td>0.54</td><td>0.49</td><td>0.39</td><td>0.27</td><td></td></tr><tr><td>C18:0</td><td>4.52</td><td>4.43</td><td>4.20</td><td>3.89</td><td>0.15</td></tr><tr><td>C20:0</td><td>0.51</td><td>0.53</td><td>0.46</td><td>0.39</td><td>3.69</td></tr><tr><td>SFA</td><td>31.49</td><td>29.51</td><td>25.47</td><td>22.17</td><td>0.48</td></tr><tr><td>C16:1</td><td>4.14</td><td>3.89</td><td>2.96</td><td>1.96</td><td>18.07</td></tr><tr><td>C18:1n-9</td><td>15.22</td><td>18.77</td><td>24.32</td><td>28.85</td><td>1.04</td></tr><tr><td></td><td></td><td>3.38</td><td>3.16</td><td></td><td>31.91</td></tr><tr><td>C18:1n-7</td><td>3.17</td><td>0.92</td><td>0.85</td><td>3.12</td><td>3.13</td></tr><tr><td>C20:1</td><td>0.90</td><td></td><td>31.96</td><td>0.75</td><td>0.68</td></tr><tr><td>MUFA C18:2n-6</td><td>24.21 18.67</td><td>27.72 18.51</td><td>23.83</td><td>34.24 28.79</td><td>37.22 33.06</td></tr></table></body></html>
+
+<html><body><table><tr><td>C20:2n-6</td><td></td><td>1.20</td><td>0.87</td><td>0.61</td><td>0.37</td></tr><tr><td>C22:2n-6</td><td>1.26 0.38</td><td>0.35</td><td>0.26</td><td>0.18</td><td>0.09</td></tr><tr><td>C18:3n-3</td><td>2.42</td><td>2.68</td><td>3.44</td><td>4.20</td><td>5.22</td></tr><tr><td>C20:4n-6</td><td>0.80</td><td>0.75</td><td>0.52</td><td>0.33</td><td>0.19</td></tr><tr><td>C20:5n-3</td><td>6.26</td><td>5.80</td><td>4.25</td><td>2.90</td><td>1.56</td></tr><tr><td>C22:6n-3</td><td>9.92</td><td>9.39</td><td>6.62</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>4.37</td><td>2.15</td></tr><tr><td>PUFA n-3 PUFA</td><td>39.76</td><td>38.68</td><td>39.79</td><td>41.56</td><td>42.78</td></tr><tr><td>n-6 PUFA</td><td>18.66</td><td>17.87</td><td>14.32 25.48</td><td>11.47</td><td>8.96</td></tr><tr><td>HUFA</td><td>21.11</td><td>20.81 15.94</td><td></td><td>30.09</td><td>33.81</td></tr><tr><td></td><td>17.03</td><td></td><td>11.39</td><td>7.60</td><td>3.87</td></tr><tr><td>n-3/n-6PUFA</td><td>0.88</td><td>0.86</td><td>0.56</td><td>0.38</td><td>0.27</td></tr></table></body></html>
+
+表中含量低于 $0 . 4 \%$ 的脂肪酸未列出。SFA：饱和脂肪酸；MUFA：单不饱和脂肪酸；PUFA：多不饱和脂肪酸； HUFA：高不饱和脂肪酸。Contents were less than $0 . 4 \%$ of the fatty acids not listed in the table. SFA: saturated fatty acids; MUFA: monounsaturated fatt acids; PUFA: polyunsaturated fatt acids; HUFA: highly unsaturated fatty acids.
+
+# 1.2试验蟹的养殖管理
+
+试验用蟹采自上海海洋大学崇明基地养殖池塘，均为生殖蜕壳后的雄蟹，体重 $_ { 1 3 5 - 1 6 5 \mathrm { ~ g ~ } }$ ，从中挑选600 只附肢健全、体无外伤、活力较好的个体用于试验。为了使研究结果更加接近于生产实际，育肥养殖试验在室外小型试验土池（长 $\times$ 中 $\scriptstyle { \vec { \mathcal { N L } } } \times { \dot { \mathcal { Y } } } { \vec { \mathcal { K } } } = 7 . 8 \ \mathrm { m } \times 7 . 8 \ \mathrm { m } \times 0 . 7 \ \mathrm { m }$ ）中进行，土池四周设置双层防逃塑料板，试验前采用漂白粉对试验土池进行消毒。试验土池水深 $7 0 \mathrm { c m }$ 左右，周围适量种植水稻和培植水花生。每个饲料组设4个重复(池塘)，每个池塘随机放入25只雄蟹，经3\~5d暂养后于2014年9月25日进行正式试验。
+
+试验期间每日18:00左右进行投喂，平均水温高于 $2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 时按总体重的 $2 \% { \sim } 3 \%$ 投喂，当水温为$1 5 { \sim } 2 0 \ \mathrm { ~ \textdegree ~ }$ 则按照总体重的 $1 . 5 \%$ 左右投喂。投喂方式为全池均匀泼洒，投喂后 $2 { \sim } 3 \mathrm { ~ h ~ }$ 检查食台残饵情况，并于次日09:00左右检查池塘四周残饵和试验蟹死亡情况。养殖过程中，每隔3d测定1次水质指标，根据水质指标每2周左右适当换水或加水，养殖期间温度在11.5\~27.2℃范围内，水质指标如下：$\mathrm { p H } 7 . 0 { \sim } 9 . 0 \$ ，平均溶氧浓度 $> 4 ~ \mathrm { m g / L }$ ，氨氮浓度 ${ < 0 . 5 \mathrm { m g / L } }$ ，亚硝酸盐浓度 $< 0 . 1 5 ~ \mathrm { m g / L }$ ，均在中华绒螯蟹养殖的安全水质指标范围内，养殖试验共进行 $6 0 \mathrm { d }$ 。
+
+# 1.3样品采集
+
+正式试验30d后停食1d，从每个池塘中随机取2只雄蟹，每个饲料组共8只。用吸水纸擦干体表水分并用电子天平称重（精确度 $_ { \mathrm { = 0 . 0 1 ~ g } }$ ；将雄蟹放在冰上麻醉后，用 $1 . 0 \mathrm { m L }$ 无菌注射器从第3支步足基部抽取 $2 . 0 \mathrm { m L }$ 血淋巴样品分装于2个 $1 . 5 ~ \mathrm { m L }$ 离心管中，于-40℃保存；沿蟹壳侧面将蟹壳与躯体分离，然后直接解剖取出肝胰腺和性腺，准确称重后分别计算肝胰腺指数（hepatosomatic index，HSI）和性腺指数（gonadosomatic index，GSI)。肝胰腺和性腺样品称重后于-40℃中保存备用。
+
+HSI $( \% ) \ = 1 0 0 \times$ 肝胰腺重/体重；  
+GSI $( \% ) = 1 0 0 \times$ 精巢重/体重。
+
+# 1.4样品制备和脂质代谢指标测定
+
+称取0.2g左右的肝胰腺，加入 $1 \mathrm { m L } ( m / \nu { = } 1 { : } 5 )$ 预冷的生理盐水后用微型匀浆器匀浆30s后，取部分匀浆液直接测定脂肪酶（lipase,LPS）、脂蛋白脂酶（lipoprotein lipase,LPL）和肝脂酶（hepaticlipase,HL）活力，剩余部分立即在4 $\mathrm { { } ^ { \circ } C }$ ， $1 2 0 0 0 \mathrm { r / m i n }$ 条件下离心 $2 0 \mathrm { m i n }$ ，取中间清液再次离心，取中间清液用于后续抗氧化和免疫指标的分析。称取 $\boldsymbol { 0 . 1 \mathrm { ~ g ~ } }$ 左右的肝胰腺，参照Folch等[19]的方法提取总脂，所得总脂用甲醇定容至 $2 \mathrm { m L }$ ，用于测定总胆固醇（totalcholesterol,TC）和甘油三酯（triglyceride,TG）含量。血淋巴解冻后用微型匀浆器匀浆30s后，在4 $\mathrm { { } ^ { \circ } C }$ ， $1 2 0 0 0 \mathrm { r / m i n }$ 条件下离心$2 0 \mathrm { m i n }$ ，取出上清液（血清）待测。
+
+使用迈瑞全自动生化分析仪及其配套试剂盒测定血清和肝胰腺中TC、TG及血清中高密度脂蛋白胆固醇（high-density lipoprotein,HDL-C）和低密度脂蛋白胆固醇（low-density lipoprotein,LDL-C)含量；采用南京建成生物工程研究所生产的试剂盒测定肝胰腺中LPL和HL活力；采用苏州科铭生物科技有限公司生产的试剂盒测定血清中游离胆固醇（freecholesterol,FC）以及肝胰腺中苹果酸脱氢酶（malate dehydrogenase,MDH）和LPS活力。血清中胆固醇酯（cholesterylester,CE）含量为TC含量与FC含量的差值。
+
+# 1.5抗氧化指标测定
+
+利用先前制备的肝胰腺和血清样品，采用南京建成生物工程研究所生产的试剂盒测定超氧化物歧化酶（superoxide dismutase,SOD）、过氧化物酶（peroxidase,POD）、过氧化氢酶（catalase,CAT）和酸性磷酸酶（acid phosphatase,ACP）活力，丙二醛（malondialdehyde,MDA）含量及总抗氧化能力（total antioxidantcapacity,T-AOC)；使用迈瑞全自动生化分析仪及其配套试剂盒测定碱性磷酸酶（alkaline phosphatase,ALP）活力。采用苏州科铭生物科技有限公司生产的试剂盒测定肝胰腺中 $\gamma \cdot$ 谷氨酰转肽酶（ $\gamma$ -glutamyl transpeptidase,y-GT）活力；参考Nickerson 等[21l的方法测定血清中血蓝蛋白（hemocyanin,Hc）含量，即用 Tris-Ca 缓冲液（50 mmol/L Tris-HCl+10 mmol/L CaCl, $\mathrm { p H } { = } 8 . 0$ ）将血清稀释70倍后，在 $3 3 5 \mathrm { n m }$ 波长下比色测定吸光度（OD）值。
+
+Hc含量 $\mathrm { ( m g / m L ) } { = } 3 . 7 1 7 { \times } \mathrm { O D } _ { 3 3 5 \mathrm { n m } } { \times }$ 稀释倍数。
+
+# 1.6数据分析及统计
+
+采用SPSS16.0软件对试验数据进行统计分析，所有数据均以平均值 $\pm$ 标准误表示。采用Levene法对所有数据进行方差齐性检验，当不满足齐性方差时对百分比数据进行反正弦或平方根处理。采用ANOVA对试验结果进行方差分析，采用Duncan法进行多重比较，取 $P { < } 0 . 0 5$ 为差异显著。
+
+# 2. 结果与分析
+
+# 2.1混合植物油替代鱼油对成体雄蟹性腺发育的影响
+
+由表3可知，经过 $3 0 \mathrm { d }$ 育肥后，各组HSI在 $7 . 1 4 \% { \sim } 7 . 9 7 \%$ 之间，其中以饲料3#组最高 $( 7 . 9 7 \%$ )，饲料1#组最低（ $7 . 1 4 \%$ )，但各组间差异不显著（ $. P { > } 0 . 0 5 )$ ；混合植物油替代鱼油对雄蟹性腺发育具有一定的影响，GSI在 $2 . 1 6 \% { \sim } 2 . 4 4 \%$ 之间，以饲料5#组最高，饲料3#组最低，但各组间均无显著
+
+差异（ $P { > } 0 . 0 5 \$ )。育肥60d后，各组GSI和HSI也无显著差异（ $( P { > } 0 . 0 5 )$ ，各组变化规律与30d时相似；随着育肥时间的延长，各组HSI略有下降，GSI明显上升。
+
+Table3Effects of fish oil replacement by vegetable oils on HSI and GSI of adult male E. sinensis   
+%   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">时间 Time/d</td><td colspan="5">组别Groups</td></tr><tr><td>饲料1#</td><td>饲料2#</td><td>饲料3#</td><td>饲料4#</td><td>饲料5#</td></tr><tr><td>肝胰腺指数 HSI</td><td></td><td>Diet 1# 7.14±0.39</td><td>Diet 2# 7.92±0.24</td><td>Diet 3#</td><td>Diet 4#</td><td>Diet 5#</td></tr><tr><td rowspan="3">性腺指数 GSI</td><td>30</td><td></td><td></td><td>7.97±0.35</td><td>7.60±0.44</td><td>7.64±0.22</td></tr><tr><td>60</td><td>6.83±0.34 2.18±0.17</td><td>7.02±0.37 2.25±0.10</td><td>7.14±0.28 2.16±0.13</td><td>7.15±0.22 2.30±0.15</td><td>6.85±0.08 2.44±0.09</td></tr><tr><td>30</td><td></td><td>2.84±0.16</td><td>2.80±0.12</td><td></td><td></td></tr><tr><td></td><td>60</td><td>2.59±0.10</td><td></td><td></td><td>2.75±0.20</td><td>3.04±0.25</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著，不同小写字母表示差异显著 $_ { ( P < 0 . 0 5 ) }$ 。下表同。 Values in the same row with no or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+# 2.2混合植物油替代鱼油对成体雄蟹脂质代谢的影响
+
+各组成体雄蟹肝胰腺脂质代谢指标见表4。饲料4#组TG 含量显著低于其他组（ $. P { < } 0 . 0 5 \$ ，其余4组间差异不显著（ $_ { . } { P > } 0 . 0 5 )$ ；各组TC含量无显著差异（ $( P { > } 0 . 0 5 )$ 。就脂质代谢相关酶活力而言，饲料1#组MDH活力显著高于饲料2#和3#组（ $. P { < } 0 . 0 5 )$ )，其中2#组MDH活力最低；饲料2#组LPS活力显著低于其他组（ $. P { < } 0 . 0 5 )$ ，其余4组随着鱼油替代水平的上升而提高，并在饲料5#组出现了最高值；饲料2#组LPL 和HL 活力最低，均显著低于饲料4#和5#组（ $. P { < } 0 . 0 5 ^ { \cdot }$ )，以饲料4#组的LPL和 HL 活力最高。
+
+表3混合植物油替代鱼油对成体雄蟹肝胰腺指数和性腺指数的影响  
+表4混合植物油替代鱼油对成体雄蟹肝胰腺脂质代谢指标的影响 Table 4Effects of fish oil replacement by vegetable oils on lipid metabolism indices in hepatopancreas of adult male $E .$ sinensis   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">组别Groups</td></tr><tr><td>饲料1#</td><td>饲料2#</td><td>饲料3#</td><td>饲料4#</td><td>饲料5#</td></tr><tr><td></td><td>Diet 1#</td><td>Diet 2#</td><td>Diet 3#</td><td>Diet 4#</td><td>Diet 5#</td></tr><tr><td>甘油三酯 TG/(mmol/g)</td><td>0.39±0.03a</td><td>0.40±0.01a</td><td>0.39±0.01a</td><td>0.26±0.03b</td><td>0.35±0.01a</td></tr><tr><td>总胆固醇 TC/(μmol/g)</td><td>2.05±0.30</td><td>2.39±0.10 0.22±0.02b</td><td>2.20±0.08 0.24±0.02b</td><td>2.29±0.13 0.28±0.02ab</td><td>2.27±0.06</td></tr><tr><td>苹果酸脱氢酶 MDH/(U/ug prot)</td><td>0.35±0.04a</td><td>7.72±0.52d</td><td>13.00±0.54b</td><td>12.96±0.51b</td><td>0.31±0.04ab</td></tr><tr><td>脂肪酶 LPS/(U/g prot)</td><td>10.49±0.84c 6.12±0.90c</td><td>4.87±0.59c</td><td>5.42±0.40c</td><td>12.18±1.10a</td><td>17.32±0.77a</td></tr><tr><td>脂蛋白脂酶 LPL/(U/mg prot)</td><td></td><td></td><td>6.78±0.71bc</td><td></td><td>8.65±0.95b</td></tr><tr><td>肝脂酶 HL/(U/mg prot)</td><td>6.39±0.56c</td><td>4.94±0.50c</td><td></td><td>14.67±1.44a</td><td>8.86±0.36b</td></tr></table></body></html>
+
+各组成体雄蟹血清脂质代谢指标见表5。饲料 2#组TG、TC 和CE 含量显著高于其他4组中 $. P { < } 0 . 0 5 )$ ，其他4组间差异不显著（ $( P { > } 0 . 0 5 )$ ；饲料2#组CE含量显著高于饲料3#组（ $P { < } 0 . 0 5 )$ ，其他组间差异不显著（ $( P { > } 0 . 0 5 )$ ；饲料1#组FC含量最低，显著低于饲料2#、3#组（ $( P { < } 0 . 0 5 )$ ，与饲料4#、5#组差异不显著（ $( P { > } 0 . 0 5 )$ ；饲料2#组LDL-C 含量显著高于饲料1#、3#和4#组（ $P { < } 0 . 0 5 )$ ：饲料5#组HDL-C含量最低，饲料1#组次之，其余3 组相对较高，均为 $0 . 3 1 \mathrm { m m o l / L }$ 。
+
+Table 5Efects of fish oil replacement by vegetable oils on serum lipid metabolism indices of adult male E. sinensis   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">组别 Groups</td></tr><tr><td>饲料1#</td><td>饲料2#</td><td>饲料3#</td><td>饲料4#</td><td>饲料5#</td></tr><tr><td></td><td>Diet 1#</td><td>Diet 2#</td><td>Diet 3#</td><td>Diet 4#</td><td>Diet 5#</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.15±0.01b</td><td>0.22±0.01a</td><td>0.13±0.01b</td><td>0.14±0.02b</td><td>0.13±0.01b</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>0.64±0.04b</td><td>0.80±0.06a</td><td>0.61±0.02b</td><td>0.60±0.05b</td><td>0.66±0.03b</td></tr><tr><td>胆固醇酯 CE/(mmol/L)</td><td>0.55±0.05ab</td><td>0.70±0.06a</td><td>0.53±0.02b</td><td>0.57±0.07ab</td><td>0.58±0.03ab</td></tr><tr><td>游离胆固醇 FC/(μmol/dL)</td><td>7.11±0.43b</td><td>8.94±0.48a</td><td>9.13±0.54a</td><td>8.54±0.65ab</td><td>8.11±0.36ab</td></tr><tr><td>低密度脂蛋白胆固醇LDL-C/(mmol/L)</td><td>0.29±0.00b</td><td>0.39±0.04a</td><td>0.29±0.01b</td><td>0.25±0.03b</td><td>0.34±0.03ab</td></tr><tr><td>高密度脂蛋白胆固醇 HDL-C/(mmol/L)</td><td>0.28±0.02ab</td><td>0.31±0.01a</td><td>0.31±0.01a</td><td>0.31±0.01a</td><td>0.27±0.01b</td></tr></table></body></html>
+
+2.3混合植物油替代鱼油对成体雄蟹抗氧化及免疫性能的影响
+
+各组成体雄蟹肝胰腺抗氧化及免疫指标见表6。各组雄蟹 SOD 活力无显著差异（ $( P { > } 0 . 0 5 )$ ；饲料1#组T-AOC，MDA含量均显著高于其他4组（ $_ { _ { P < 0 . 0 5 } }$ ，其他4组之间无显著差异（ $( P { > } 0 . 0 5 )$ ：饲料1#、4#组POD、ACP 活力显著高于其他3组（ $. P { < } 0 . 0 5 )$ ，其他组间无显著差异（ $( P { > } 0 . 0 5 )$ ；饲料1#组ALP活力与饲料5#组差异不显著 $( P { > } 0 . 0 5 )$ ，但显著高于其余3组 $( P { < } 0 . 0 5 )$ ；饲料4#组 $\scriptstyle \gamma - \mathbf { G } \mathbf { T }$ 活力显著高于其他组（ $P { < } 0 . 0 5 )$ ，以饲料2#组 $\scriptstyle \gamma - \mathbf { G } \mathbf { T }$ 活力最低。
+
+表6混合植物油替代鱼油对成体雄蟹肝胰腺抗氧化及免疫指标的影响 Table 6 Effects of fish oil replacement by vegetable oils on antioxidant and immune indices in hepatopancreas of adult male $E .$ sinensis   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">组别 Groups</td></tr><tr><td>饲料1#</td><td>饲料2#</td><td>饲料3#</td><td>饲料4#</td><td>饲料5#</td></tr><tr><td></td><td>Diet 1#</td><td>Diet 2#</td><td>Diet 3# 3.64±0.23</td><td>Diet 4#</td><td>Diet 5#</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mg prot) 总抗氧化能力 T-AOC/(U/mg prot)</td><td>4.35±0.27 0.93±0.09a</td><td>3.97±0.18 0.65±0.06b</td><td>0.64±0.04b</td><td>4.36±0.36 0.69±0.02b</td><td>4.41±0.29 0.62±0.04b</td></tr><tr><td></td><td></td><td>4.66±0.35b</td><td>5.58±0.71b</td><td></td><td></td></tr><tr><td>过氧化物酶 POD/(U/mg prot)</td><td>9.50±0.47a</td><td>1.21±0.16b</td><td>1.03±0.09b</td><td>8.79±0.37a</td><td>4.38±0.80b</td></tr><tr><td>丙二醛 MDA/(nmol/mg prot)</td><td>1.85±0.21a</td><td>28.31±1.87b</td><td>29.29±4.93b</td><td>1.26±0.17b 35.48±3.01b</td><td>1.08±0.13b 36.99±6.75ab</td></tr><tr><td>碱性磷酸酶 ALP/(U/g prot) 酸性磷酸酶 ACP/(x10-2 U/mg prot)</td><td>46.54±1.80a 4.88±0.31a</td><td>3.42±0.37b</td><td>3.80±0.15b</td><td>4.65±0.23a</td><td>3.32±0.18b</td></tr><tr><td></td><td></td><td></td><td>0.81±0.14c</td><td></td><td></td></tr><tr><td>γ-谷氨酰转肽酶 γ-GT/(U/mg prot)</td><td>1.29±0.14b</td><td>0.31±0.02d</td><td></td><td>1.68±0.14a</td><td>0.82±0.14c</td></tr></table></body></html>
+
+各组成体雄蟹血清抗氧化及免疫指标见表7。饲料2#组SOD 活力显著高于其他组（ $_ { . } { P } { < } 0 . 0 5 )$ ·饲料 2#组Hc 含量显著高于其他组（ $_ { , P < 0 . 0 5 ) }$ ，且其他各组之间的差异不显著（ $P { > } 0 . 0 5 )$ ；饲料2#组T-AOC 显著高于饲料1#、4#和 5#组（ $. P { < } 0 . 0 5 ^ { \cdot }$ )；饲料3#组CAT 活力最低，饲料2#组次之，其余3组间无显著差异（ $( P { > } 0 . 0 5 )$ ；饲料1#组POD 活力和MDA含量显著高于其他组（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } _ { } ( { 0 . 0 5 } )$ ，饲料 2#组的这2个指标在数值上最低；各组ALP和ACP活力差异不大，仅饲料 3#组ALP活力显著高于饲料1#和4#组（ $P { < } 0 . 0 5 \$ ）°
+
+表7混合植物油替代鱼油对成体雄蟹血清抗氧化及免疫指标的影响 Table 7Effects of dietary fish oil replacement by vegetable oils on serum antioxidant and immune indices of adult male $E .$ sinensis   
+
+<html><body><table><tr><td>项目Items</td><td>饲料1#</td><td>饲料2#</td><td>饲料3#</td><td>饲料4#</td><td>饲料5#</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>Diet 1#</td><td>Diet 2#</td><td>Diet 3#</td><td>Diet 4#</td><td>Diet 5#</td></tr><tr><td>超氧化物歧化酶</td><td>17.82±0.47b</td><td>25.42±0.48a</td><td>14.63±0.47c</td><td>11.71±0.84d</td><td>16.38±0.56b</td></tr><tr><td>SOD/(U/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>血蓝蛋白 Hc/(mg/mL)</td><td>53.76±2.26b</td><td>67.81±2.98a</td><td>59.84±1.50b</td><td>53.60±1.68b</td><td>57.19±1.81b</td></tr><tr><td>总抗氧化能力</td><td>4.82±0.28c</td><td>7.35±0.61a</td><td>6.34±0.48ab</td><td>5.48±0.26bc</td><td>5.22±0.28bc</td></tr><tr><td>T-AOC/(U/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>过氧化氢酶 CAT/(U/mL)</td><td>57.63±1.63a</td><td>49.59±2.73bc</td><td>43.17±3.20c</td><td>55.14±1.20ab</td><td>57.73±3.07a</td></tr><tr><td>过氧化物酶 POD/(U/mL)</td><td>112.34±3.41a</td><td>79.48±3.63c</td><td>85.60±2.91c</td><td>102.72±2.85ab</td><td>89.88±7.68bc</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>23.59±1.02a</td><td>11.47±1.91c</td><td>17.53±1.26b</td><td>16.03±2.18bc</td><td>14.04±1.71bc</td></tr><tr><td>碱性磷酸酶 ALP/(U/mL)</td><td>0.13±0.01b</td><td>0.13±0.01ab</td><td>0.15±0.01a</td><td>0.13±0.01b</td><td>0.14±0.00ab</td></tr><tr><td>酸性磷酸酶 ACP/(U/dL)</td><td>4.17±0.21</td><td>3.93±0.08</td><td>3.74±0.10</td><td>3.83±0.18</td><td>3.87±0.28</td></tr></table></body></html>
+
+# 3.讨论
+
+# 3.1混合植物油替代鱼油对成体雄蟹性腺发育的影响
+
+本研究结果发现，实用配合饲料中混合植物油替代不同水平鱼油并不会造成雄蟹性腺指数的显著变化，这与在雌蟹上的相关研究结果有所不同，在雌蟹上的研究结果表明育肥饲料中缺乏HUFA会降低雌蟹的卵巢指数和生殖性能[4,7,13,2-23]，但本研究中不同 HUFA 含量的饲料并未影响雄蟹的性腺发育。分析原因，可能是由于雌、雄个体性腺发育期间对脂肪酸营养需求不同造成的。因为尽管雄体性腺中的HUFA在总脂肪酸中的相对含量较高，但与卵巢相比，精巢的总脂含量及性腺指数远远偏低，故精巢中的HUFA绝对含量远低于卵巢，推断雄蟹性腺发育期间对于饲料中 HUFA的需求低于雌蟹[7.24]。此外，本试验饲料采用鱼粉、虾粉和乌贼粉为主要蛋白质源，这些原料中含有一定量的HUFA，因此，各试验饲料中因存在相当含量的HUFA，即使最高替代水平下试验饲料中的HUFA含量也能够满足雄蟹的需求，因而对雄蟹的性腺发育无显著影响。
+
+刘立鹤等[23]以不同脂肪源饲料饲喂雌蟹后发现，高 n-3 HUFA[二十碳五烯酸（EPA) $^ +$ 二十二碳六烯酸（DHA）]含量（鱼油、磷脂和杂鱼）组卵巢指数显著高于花生油和猪油组，这是因为 EPA和 DHA 是甲壳动物卵巢正常发育的物质基础，卵巢中 EPA 和DHA 含量及比例直接影响部分甲壳动物的产卵量、受精率和孵化率[]。因此，饲料中HUFA含量不同必然会导致雌蟹性腺发育的差异。但与雌蟹不同，雄蟹的性腺发育主要受睾酮和前列腺素调控[25]，对饲料中的 HUFA 的需求可能相对较低，且HUFA对雌、雄蟹性腺发育的影响机制有所不同。研究表明中华绒螯蟹可能具有一定的将亚油酸（LOA）转化成花生四烯酸（ARA）的能力[24]，而 ARA作为前列腺素 E2（PEG2）的前体物质，可间接刺激睾酮的生成[26]，血淋巴中的睾酮水平则与雄蟹的 GSI 呈正相关[27]。此外，有研究报道，饲料中高含量的DHA会降低动物辜丸（或精巢）中类固醇的生成量以及血清中的雌二醇与睾酮的水平[25]，并认为可能的机制是通过n-3 PUFA含量影响睾丸（或精巢）中类固醇的生成。因此，饲料中混合植物油替代不同水平鱼油造成的HUFA 含量差异对雌、雄蟹的性腺发育影响机理有所不同，其影响机理有待进一步研究。
+
+# 3.2混合植物油替代鱼油对成体雄蟹脂质代谢的影响
+
+肝胰腺是甲壳动物营养物质主要的消化吸收和代谢储存器官，在其生长蜕壳、免疫抗病和性腺发育过程中起着重要作用[28-29]，HSI和肝胰腺中的甘油三酯含量是甲壳动物脂类营养状况的重要指标。本研究发现，试验第30天和第60天时全鱼油组（饲料1#组）和全混合植物油组（饲料 5#组）HSI相对较低， $5 0 \%$ 替代组(饲料3#组)的HSI相对较高，这说明育肥饲料中合适的鱼油替代水平$5 0 \%$ ）有利于雄蟹肝胰腺中营养物质的积累，从而提高HSI，而HSI的升高可能与其积累了较多的 TG 有关[22]。本研究中 $7 5 \%$ 替代组（饲料4#组）雄蟹肝胰腺中TG含量最低，其他各组间差异不大，说明育肥饲料中混合植物油替代 $7 5 \%$ 的鱼油后不利于肝胰腺中TG 的积累，这可能是由于大量的鱼油被替代后改变了饲料中脂肪酸的平衡，从而影响了脂质的吸收和沉积。本试验所得结果与在颗粒新厚蟹（Chasmagnathus granulata）[30l和黄道蟹（Cancerpagurus）[31]上的研究的所得结果类似。也有研究表明，饲料中过量混合植物油替代鱼油容易造成大菱鲆（Scophthalmus maximus）幼鱼肝胰脏中脂肪酸合成酶（FAS）基因表达上升，氧化基因肉碱棕榈酰转移酶1（CPT1）表达降低，故其肝胰脏和肌肉中的总脂含量上升[32]。出现上述结果差异的原因这可能是由于鱼类和甲壳动物的脂质代谢差异造成的。MDH与脂类物质的合成密切相关[33，本研究中 $2 5 \%$ 替代组（饲料3#组）和$5 0 \%$ 替代组肝胰腺中MDH活力显著低于全鱼油组，说明饲料中n-6PUFA 抑制了MDH的活性力，暗示饲料中脂肪酸组成影响肝胰脏中MDH的活力[34]。本研究中 $2 5 \%$ 替代组肝胰腺中LPS 活力显著低于全鱼油组，而其他组均显著高于全鱼油组和 $2 5 \%$ 替代组，这与郭占林等[35]对红螯光壳螯虾（Cherax quadricarinatus）的研究结果相似，推测肝胰腺中LPS活力与饲料中脂肪酸组成有关，但饲料中脂肪酸组成与LPS 活力的关系还有待进一步研究。
+
+LPL 通过催化水解脂蛋白释放出游离脂肪酸供机体贮存或氧化供能，在脂质代谢调控中起关键作用[36]。本研究中，高水平（ $7 5 \%$ 和 $100 \%$ ）替代组雄蟹肝胰腺中LPL 和HL 活力显著高于其他组，这与王煜恒等[37]对异育银鲫（Carassus auratus gibelio）的研究结果基本相似，但与潘瑜等[38]研究得出的鲤鱼肝胰脏中 LPL 活力随饲料中鱼油替代量的上升而显著下降的结论有差异，这可能是由于饲料中适宜含量的 HUFA 可以促进LPL 基因的表达，因此肝胰脏中LPL 活力增加[3.39]。肝胰腺中 LPL 活力降低，可以减少脂肪酸氧化供能，从而有利于脂类沉积[38]，因此，饲料1#、2#、3#组雄蟹肝胰腺中的 TG 含量相对较高。
+
+甲壳动物血淋巴中的脂质代谢指标在一定程度上可以反映机体的脂质代谢情况[40]。本研究发现，以混合植物油替代 $2 5 \%$ 的鱼油时，雄蟹血清中TG含量显著高于其他组，说明该替代水平有利于雄蟹对 TG 的吸收。而胆固醇作为甲壳动物重要的激素前体和细胞膜组成物质[41]，主要以CE 的形式储存在于体内，其含量的高低可以反映脂类的吸收和肝脏脂质代谢状况[41-42]。但由于虾蟹类缺乏胆固醇合成能力，其体内所需胆固醇需要从饲料中得到补充，并通过脂蛋白外源饲料中的胆固醇由血淋巴运输到其他组织中[42-43]。本研究中， $2 5 \%$ 替代组血清中 TC 和CE 含量高于其他组，同时该组 TC 的转运形式——HDL-C 和LDL-C 的含量也较高，这说明饲料中混合植物油替代 $2 5 \%$ 的鱼油有利于雄蟹对胆固醇的吸收、运输和利用。
+
+# 3.3混合植物油替代鱼油对成体雄蟹抗氧化及免疫性能的影响
+
+SOD 是清除机体内氧自由基的重要酶，在机体的抗氧化和免疫调控中起着重要作用[44]。本研究中，混合植物油替代 $2 5 \%$ 鱼油后显著提高了成体雄蟹血清中 SOD 活力，而替代 $5 0 \% { \sim } 7 5 \%$ 鱼油后显著降低了血清中 SOD 活力，这与对中华绒螯蟹生长阶段的相关研究结果[8.45]基本一致。T-AOC是机体抗氧化能力的综合体现，本试验中混合植物油替代不同水平鱼油降低了肝胰腺中T-AOC，但却提高了血清中 T-AOC，这可能是由于全鱼油饲料导致肝胰腺中 HUFA 含量升高，因而肝胰腺中需要较高的 T-AOC 来维持正常生理功能[46]。此外，全鱼油组雄蟹肝胰腺和血清中 POD、CAT 活力显著高于其他组，这可能是由于过多的HUFA摄入导致机体内过氧化物含量升高，机体适应性地提高了 POD 和CAT 等抗氧化酶的活力来降低过氧化物对机体的危害[47-48]。MDA 是脂质过氧化的主要产物之一[49]。本试验中，随着饲料中鱼油含量的降低，雄蟹肝胰腺和血清中MDA 含量也呈下降趋势，这与陈彦良等8在幼蟹上的研究结果类似，这说明饲料过高含量的鱼油（HUFA）可能使成蟹处于氧化胁迫状态，故MDA含量和抗氧化酶活较高。
+
+甲壳动物的Hc 具有运输氧气和免疫防御等重要生理功能，主要存在于血淋巴中，约占血淋巴总蛋白的 $9 0 \%$ 以上 $[ 5 0 - 5 1 ]$ 。本研究中混合植物油适量替代鱼油后提高了雄蟹血清中Hc 的含量，推测其可能原因是鱼油与植物油合理搭配促进了Hc 的合成[45]，这暗示饲料中鱼油与植物油合理搭配比单一鱼油或植物油更有利于中华绒螯蟹的氧气运输，进而提高免疫力。ALP 和ACP 是2种重要的非特异性磷酸水解酶，能催化磷酸单酯的水解及磷酸基团的转移反应，对机体的免疫防御具有重要作用[52]。本研究中，肝胰腺中ALP 和 ACP 活力受饲料中鱼油替代水平的影响较大，而血清中 ALP和 ACP 活力受到的影响则较小。其可能原因如下：肝胰腺是中华绒螯蟹脂类代谢中心，脂类含量较高，通常受饲料中脂类成分影响较大，因此其ALP和ACP 活力的变化也较大；血清中脂类含量较低，主要是进行脂类运输，脂类成分受到的影响相对较小，故其ALP和ACP 活力相对稳定。本研究结果也表明，饲料中鱼油与豆油和菜籽油适当搭配可提高肝胰腺中的ALP 和ACP活力，推测饲料中适宜的脂肪酸组成可提高水产动物的免疫性能[53]。 $\gamma$ GT 是一种质膜结合黏蛋白，为 $\gamma \cdot$ 谷氨酰循环中的关键酶，其活力的高低被认为是反映肝功能是否正常的主要指标之一[54-55]。本研究中$2 5 \%$ 替代组肝胰腺中 $\gamma$ -GT 活力最低，这暗示该组雄蟹肝细胞受到氧化应激和损伤较小。整体上，育肥饲料中混合植物油替代适宜水平的鱼油可以提高雄蟹肝胰腺和血清的抗氧化及免疫性能，降低脂类氧化产物含量，减少氧化损伤。
+
+# 4.结论
+
+$\textcircled{1}$ 育肥饲料中采用豆油：菜籽油 $= 1 { : } 1$ 的混合植物油替代鱼油对成体雄蟹的性腺发育无显著影响，且混合植物油合理替代鱼油有利于中华绒螯蟹成体雄蟹肝胰腺脂质的吸收、转运和积累，提高机体的抗氧化和免疫性能，减少氧化损伤。
+
+$\textcircled{2}$ 综合考虑性腺发育、脂质代谢、抗氧化和免疫性能等，中华绒螯蟹成体雄蟹育肥饲料中可采用豆油：籽油 $= 1 { : } 1$ 的混合植物油替代 $2 5 \% { \sim } 5 0 \%$ 的鱼油。
+
+参考文献：
+
+1] DN SILVA S S,FRANCIS D S,TACON A G J.Fish oil in aquaculture:in retrospect[M]//TURCHINI G M,NG W K,TOCHER D R.Fish oil replacement and alternative lipid sources in aquaculture feeds.Boca Roton:Chemical Rubber Company Press,2011:1-12.
+
+[2]TACON A G J,METIAN M.Global overview on the use of fish meal and fish oil in industrially compounded aquafeeds:trends and future prospects[J].Aquaculture,2008,285(1/2/3/4):146-158.
+
+[3]NASOPOULOU C,ZABETAKIS I.Benefits of fish oil replacement by plant originated oils in compounded fish feeds:a review[J].LWT-Food Science and Technology,2012,47(2):217-224.   
+[4]吴旭干,成永旭,沈站,等.饲料中磷脂和高度不饱和脂肪酸对中华绒螯蟹育肥和卵巢发育的影响 [J].上海师范大学学报:自然科学版,2004,33(增刊):33-41.   
+[5]高先楚,王锡昌,顾赛麒,等.蟹性腺中的脂质对性腺香气的作用[J].广东农业科 学,2014,41(2):128-132.   
+[6]WEN X B,CHEN L Q,AI C X,et al.Variation in lipid composition of Chinese mitten-handed crab,Eriocheir sinensis during ovarian maturation[J].Comparative Biochemistry and Physiology Part B:Biochemistry and Molecular Biology,2001,130(1):95-104.   
+[7]WU X G,CHENG Y X,SUIL Y,et al.Effect of dietary supplementation of phospholipids and highly unsaturated fatty acids on reproductive performance and offspring quality of the Chinese mitten crab Eriocheir sinensis (H.Milne-Edwards),female broodstock[J].Aquaculture,2007,273(4):602-613.   
+[8]陈彦良,李二超,禹娜,等.豆油替代鱼油对中华绒螯蟹幼蟹生长、非特异性免疫和抗病力的影响 [J].中国水产科学,2014,21(3):511-521.   
+[9]TURCHINIG M,TORSTENSEN B E,NG W K.Fish oil replacement in finfish nutrition[J].Reviews in Aquaculture,2009,1(1):10-57.   
+[10]阙有清,杨志刚,纪连元,等.配合饲料替代杂鱼对中华绒螯蟹生长发育、体成分及脂肪酸组成的 影响[J].水产学报,2012,36(10):1612-1623.   
+[11]王群,马强,李恺,等.饲料中添加不同含量的微量元素锌对河蟹雄性生殖腺的影响[J].水生生物 学报,2005,29(4):417-423.   
+[12]滕炜鸣,成永旭,吴旭干,等.莱茵种群和长江种群子一代中华绒螯蟹性腺发育及相关生物学指数 变化的比较[J].上海水产大学学报,2008,17(1):65-71.
+
+[13]SUI L Y,SUN H X,WU X G,et al.Effect of dietary HUFA on tisse fatty acid composition and reproductive performance of Chinese miten crab Eriocheirsinensis(H.Milne-Edwards) broodstock[J].Aquaculture International,2011,19(2):269-282.
+
+[14]GUNSTONE F D.The world's oils and fat[M]/TURCHINI G M,NG W K,TOCHER D R.Fish oil replacement and alternative lipid sources in aquaculture feeds.Boca Roton:Chemical Rubber Company Press,2011:61-98.   
+[15]GLENCROSS B D,TURCHINI G M.Fish oil replacement in starter,grow-out,and finishing feeds for farmed aquatic animals[M]/TURCHINI G M,NG W K,TOCHER D R.Fish oil replacement and alternative lipidsourcesin aquaculture feeds.Boca Roton:Chemical Rubber Company Press,2011:373-404.   
+[16]BROWN P B,HART S D.Soybean oil and other n-6 polyunsaturated faty acid-rich vegetable oils[M]//TURCHINI G M,NG W K,TOCHER D R.Fish oil replacement and alternative lipid sources in aquaculture feeds.Boca Roton:Chemical Rubber Company Press,2011:133-160.   
+[17]TURCHINI G M,FRANCIS D S,SENADHEERA S P S D,et al.Fish oil replacement with different vegetable oils in Murray cod:evidence of an “omega-3 sparing eect” by other dietary fatty acids[J].Aquaculture,2011,315(3/4):250-259.   
+[18]AOAC.Official methods of analysis of the Association of Official Analytical Chemists[M].16th ed.Arlington,VA:Association of Analytical Communities International,1995.   
+[19]FOLCH J,LEES M,SLOANE-STANLEY G H.A simple method for the isolation and purification of total lipides from animal tissues[J].Journal of Biological Chemistry,1957,226(1):497-509.   
+[20] 吴旭干,汪倩,楼宝,等.育肥时间对三疣梭子蟹卵巢发育和营养品质的影响[J]).水产学 报,2014,38(2):170-182.   
+[21]NICKERSON K W,VAN HOLDE K E.A comparison of molluscan and arthropod hemocyaninI.Circular dichroism and absorption spectra[J].Comparative Biochemistry and Physiology Part B:Comparative Biochemistry,1971,39(4):855-872.
+
+[22]WEN X B,CHEN L Q,ZHOU Z L,et al.Reproduction response of Chinese miten-handed crab (Eriocheir sinensis） fed different sources of dietary lipid[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2002,131(3):675-681.
+
+[23]刘立鹤,陈立侨,李康,等.不同脂肪源饲料对中华绒螯蟹卵巢发育与繁殖性能的影响[J].中国水产科学,2007,14(5):786-793.
+
+[24]WU X G,CHANG G L,CHENG Y X,et al.Effects of dietary phospholipid and highly unsaturated fatty acids on the gonadal development,tissue proximate composition,lipid class and fatty acid compositionofprecocious Chinesemittencrab,Eriocheirsinensis[J].Aquaculture Nutrition,2010,16(1):25-36.
+
+[25] CASTELLANO C A,AUDET I,LAFOREST J P,et al.Fish oil diets alter the phospholipid balance,fattyacid composition,andsteroid hormone concentrations in testes ofadult pigs[J].Theriogenology,2011,76(6):1134-1145.
+
+[26]TOCHER D R.Metabolism and functions of lipids and fatty acids in teleost fish[J].Reviews in Fisheries Science,2003,11(2):107-184.
+
+[27] 姜仁良,谭玉钧,吴嘉敏,等.中华绒螯蟹血淋巴中20-羟基蜕皮酮、17β-雌二醇和睾酮含量的变动[J].水产学报,1992,16(2):101-106.
+
+[28]王群,赵云龙,马强,等.中华绒螯蟹(Eriocheir sinensis)雄性生殖系统发育过程中生化成分的季节 变化[J].海洋与湖沼,2004,35(4):351-357.
+
+[29]WANG W,WU X GLIU Z J,et al.Insights into hepatopancreatic functions for nutrition metabolism and ovarian development in the crab Portunus trituberculatus:gene discovery in the comparative transcriptome of different hepatopancreas stages[J].PLoS One,2014,9(1):e84921.
+
+[30]KUCHARSKI L C R,DA SILVA R S M.Effect of diet composition on the carbohydrate and lipid metabolism in an estuarinecrab,Chasmagnathusgranulate(Dana,1851)[J].Comparative Biochemistry and Physiology Part A:Physiology,1991,99(1/2):215-218.
+
+[31]BERGE G M,WOLL A.Feeding Saithe fillet or a formulated moist feed to the Brown crab Cancer pagurus:effectsonyield,composition andsensoryqualityofmedium filled captured crabs[J].Aquaculture,2006,258(1/2/3/4):496-502.
+
+[32]PENG M,XU W,MAI K S,et al.Growth performance,lipid deposition and hepatic lipid metabolism related gene expression in juvenile turbot (Scophthalmus maximus L.) fed diets with various fish oil substitution levels by soybean oil[J].Aquaculture,2014,433:442-449.
+
+[33]MERSMANN H J,POND W G,YEN JT.Use of carbohydrate and fat as energy source by obese and lean swine[J].Journal of Animal Science,1984,58(4):894-902.
+
+[34] RIBEIRO P A P,LOGATO P V R,PAULAD A D G,et al.Effect of different oils in the diet on lipogenesis and the lipid profile of Nile tilapias[J].Revista Brasileira de Zootecnia,2008,37(8):1331-1337.
+
+[35]郭占林,李嘉尧,甘信辉,等.不同脂肪源对红螯光壳螯虾幼虾生长、消化酶活性及其肌肉生化组成的影响[J].中国水产科学,2010,17(5):996-1004.
+
+[36]AUWERX J,LEROY P,SCHOONJANS K.Liporotein lipase:recent contributions from molecular biology[J].Critical Reviews in Clinical Laboratory Science,1992,29(3/4):243-268.
+
+[37]王煜恒,王爱民,刘文斌,等.不同脂肪源对异育银鲫体脂沉积、内源酶活性和脂肪酸组成的影响[J].动物营养学报,2011,23(4):604-614.
+
+[38]潘瑜,陈文燕,林仕梅,等.亚麻油替代鱼油对鲤鱼生长性能、肝胰脏脂质代谢及抗氧化能力的影 响[J].动物营养学报，2014,26(2):420-426
+
+[39]梁旭方,李月琴,李贵生,等.真鲷脂蛋白脂肪酶基因顺式元件 PPRE 及在肝脏活体调控作用[J].热带海洋学报,2004,23(4):49-55.
+
+[40]姚东明,吴超,黄晶晶,等.日本囊对虾精巢发育过程中组织器官生化组分含量的变化[J].福建水产,2012,34(2):99-104.
+
+[41] 成永旭,王武,吴嘉敏,等.虾蟹类幼体的脂类需求及脂类与发育的关系[J].中国水产科学,2001,7(4):104-107.
+
+[42]温小波,陈立侨.磷脂和胆固醇在虾蟹类营养中的研究进展[J].淡水渔业,2000,30(5):25-27.  
+[43]王镜岩,朱圣庚,徐长法.生物化学[M].3版.北京:高等教育出版社,2002:75-80.
+
+[44]CAMPA-CORDOVA A I,HERNANDEZ-SAAVEDRA N Y,ASCENCIO F.Superoxide dismutase as modulator of immune function in American white shrimp (Litopenaeus vannamei)[J].Comparative Biochemistry and Physiology Part C:Toxicology & Pharmacology,2002,133(4):557-565.
+
+[45]邱仁杰,成永旭,吴旭干,等.投喂不同油脂饲料对中华绒螯蟹免疫、代谢及耐低氧性能的影响[J].动物学杂志,2012,47(1):78-87.
+
+[46]FRENOUX J M,PROST E D,BELLEVILLE JL,et al.A polyunsaturated fatty acid diet lowers blood pressure and improves antioxidant status in spontaneously hypertensive rats[J].The Journal of Nutrition,2001,131(1):39-45.
+
+[47]STEPHAN GGUILLAUME J,LAMOUR F.Lipid peroxidation in turbot (Scophthalmus maximus) tissue:effectofdietary vitamin Eand dietaryn-6 orn-3polyunsaturatedfatty acids[J].Aquaculture,1995,130(2/3):251-268.
+
+[48]SEKINE S,KUBO K,TADOKORO T,et al.Dietary docosahexaenoic acid-induced generation of liver lipid peroxides is not suppressed further by elevated levels of glutathione in ODS rats[J].Nutrition,2006,22(4):385-394.
+
+[49]JANERO D R.Malondialdehyde and thiobarbituric acid-reactivity as diagnostic indices of lipid peroxidation and peroxidative tissue injury[J].Free Radical Biology and Medicine,1990,9(6):515-540.
+
+[50]LEE S Y,LEE B L,SODERHALL K.Processing of an antibacterial peptide from hemocyanin of the freshwater crayfish Pacifastacus leniusculus[J].Journal of Biological Chemistry,2003,278(10):7927-7933.
+
+[51]ZHANG X B,HUANG C H,QIN Q W.Antiviral properties of hemocyanin isolated from shrimp Penaeus monodon[J].Antiviral Research,2004,61(2):93-99.
+
+[52]XUE Q G,RENAULT T.Enzymatic activities in european flat oyster,Ostrea edulis,and pacific oyster,Crassostrea gigas,hemolymph[J].Journal of Invertebrate Pathology,2000,76(3):155-163.
+
+[53] KIRON V,FUKUDA H,TAKEUCHI T,et al.Essential fatty acid nutrition and defence mechanisms inrainbow trout OncorhynchusmykissJ].Comparative Biochemistry and Physiology Part A:Physiol0gy,1995,111(3):361-367.
+
+[54]GIANNINI E G,TESTA R,SAVARINO V.Liver enzyme alteration:a guide for clinicians[J].Canadian Medical Association Journal,2005,172(3):367-379.
+
+[55]WHITFIELD J B.Gamma glutamyl transferase[J].Critical Reviews in Clinical Laboratory Sciences,2001,38(4):263-355
+
+Effects of Fish Oil Replacement by Blending Vegetable Oils inFattening Diets on Gonadal Development, Lipid Metabolism, Antioxidant and Immune Capacities of Adult Male Chinese Mitten Crab (Eriocheir sinensis)
+
+ZHAO Leil LONG Xiaowen1WU Xugan1,2\*LIU ZehualHE Jiel CHENG Yongxu1,2   
+(1. Key Laboratory of Exploration and Utilization of Aquatic Genetic Resources,Ministry of Education,   
+Shanghai Ocean University, Shanghai 2Ol306, China; 2. Collaborative Innovation Center of Aquatic   
+Animal Breeding Center Certificated by Shanghai Municipal Education Commission,Shanghai Ocean University, Shanghai 201306,China)
+
+Abstract: In order to investigate the effects of fish oil replacement by blending vegetable oils on gonadal development, lipid metabolism,antioxidant and immune capacities of adult male Chinese mitten crab (Eriocheir sinensis)， five isonitrogenous and isolipidic fattening diets with $3 9 . 5 \%$ crude protein and $1 4 . 0 \%$ crude lipid were formulated to replace 0, $2 5 \%$ $50 \%$ $7 5 \%$ and $100 \%$ of fish oil(diets 1#,2#,3#,4# and 5#,respectively） with blending vegetable oils (soybean oil: rapeseed oil $\scriptstyle 1 = 1 : 1$ ). Therefore,there were five groups in this study and each group had four replicates (each replicate with 25 crabs) for the culture of male crabs. The experiment lasted for 6O days in outdoor pond. The results showed as the follows: 1) diferent levels of fish oil replacement by blending vegetable oils had no significant effects on gonadosomatic index (GSI) and hepatosomatic index (HSI) of male $E$ sinensis $\scriptstyle ( P > 0 . 0 5 )$ .2） The lowest content of triglyceride (TG) in hepatopancreas was detected in diet 1# group,while there were no significant diferences in the contents of hepatopancreas TG and total cholesterol (TC)among the other groups $( P { > } 0 . 0 5 )$ . Except for the contents of free cholesterol (FC) and high density lipoprotein cholesterol (HDL-C),the serum lipid metabolism indices in diet $2 \#$ group were significantly higher than those in other groups （ $P { < } 0 . 0 5 \rangle$ . 3) For the antioxidant indices in the hepatopancreas,the total antioxidant capacity (T-AOC） peroxidase (POD） activity and malondialdehyde (MDA） content in diet 1# group were significantly higher than those in other groups（ $. P { < } 0 . 0 5 ) ,$ ）, but no significant difference was found for the superoxide dismutase (SOD） activity among the five groups $( P { > } 0 . 0 5 )$ .For the immune indices in the hepatopancreas,the highest activities of alkaline phosphatase (ALP) and acid phosphatase (ACP） were found in diet 1# group,and diet 4# group had the highest activity of $\gamma$ glutamyl transpeptidase ( $\langle \gamma \rangle$ GT), diet 1# group took second place, and diet $2 \#$ group was the worst. 4) The highest ALP activity in the serum was detected in T3,and significantly higher than that in diet 1# and 4# groups( $P { < } 0 . 0 5 \$ ），but no significant difference was found for the serum ACP activity among the five groups $( P { > } 0 . 0 5 )$ . The serum hemocyanin （Hc） content, T-AOC and SOD activity in diet $2 \#$ group were significantly higher than those in other groups( $P { < } 0 . 0 5$ ），while the lowest serum POD activity and MDA content were found in diet $2 \#$ group. In conclusion, fish oil replacement by blending vegetable oils (soybean: rapeseed oil=1:1) in fatening diets have no significant efect on male gonadal development, and the appropriate replacement levels would have no negative efects on lipid metabolism,antioxidant and immune capacities of adult male $E$ ，sinensis. Therefore, the appropriate replacement levels of fish oil are around $2 5 \%$ to $50 \%$ for fattening diets of adult male E. sinensis.
+
+Key words: fish oil replacement level; Chinese miten crab (Eriocheir sinensis); gonadal development; lipid metabolism; antioxidant capacity

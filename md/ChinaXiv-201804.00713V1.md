@@ -1,0 +1,82 @@
+# 自体造血干细胞移植是适合移植的多发性骨髓瘤患者的标准治疗？
+
+陈文明
+
+首都医科大学附属北京朝阳医院血液科，北京100020电话：010-85231000，E-mail：13910107759@ qq.com
+
+【摘要】自体造血干细胞移植（autologous stem celltransplantation，ASCT）是多发性骨髓瘤的标准治疗策略之一。不论是传统药物时代，还是新药时代，ASCT均作为多发性骨髓瘤治疗的重要手段之一。尽管文献报道 ASCT可延长患者的无进展生存期，但对总生存期的获益有待进一步探讨，特别是高危患者，ASCT可能并不能使患者获益。此外，ASCT后的巩固、维持治疗对预后也至关重要，且ASCT具有存在相关不良反应以及再发肿瘤的风险，故 ASCT用于多发性骨髓瘤治疗的价值仍有待商榷。
+
+【关键词】多发性骨髓瘤；自体造血干细胞移植【中图分类号】R733.3 【文献标志码】A
+
+# Is Autologous Stem Cell Transplantation the Standard Treatment for Transplant-eligible Patients with Multiple Myeloma?
+
+CHEN Wen-ming
+
+Department of Hematology，Beijing Chaoyang Hospital，Capital Medical University，Beijing 1Ooo2O,China
+
+Tel:010-85231000，E-mail：13910107759@ qq.com
+
+【Abstract】 Autologous stem celltransplantation （ASCT） is a standard choice for the treatment of multiple myeloma（MM).ASCT is an important therapyforMM notonly in the eraof classical drugs but also in the times of new medicines.As literature reported,the length of progresion-free survival of MM patients can be extended by ASCT.But the effect of ASCTon the overallsurvival is still unknown，especially for high-risk patients with cytogeneticabnormalities.Consolidation and maintenance after the ASCT is very important to maintain the effects of ASCT.It is necessary to be aware of the side effects and second primary malignances after ASCT.
+
+【Keywords】 multiple myeloma；autologous stem cell transplantation
+
+自1844年Solly医生首次报道多发性骨髓瘤（multiplemyeloma，MM）病例后的100余年里，对MM的有效治疗方案一直处于探索阶段；直到1958 年Blokhin医生首次将马法兰应用于MM治疗，才使得MM患者的总生存期（overall survival，OS）延长至3年左右[1]。1983年McElwain 首次将自体造血干细胞移植（autologous stem cell transplantation，ASCT）用于MM的治疗，患者的OS 进一步延长[2]。而1999 年,Singhal将沙利度胺用于MM治疗开创了MM治疗的新药时代[3]；此后的 2002 年，Orlowski 等[4-5]和
+
+Hideshima等[6分别报道了蛋白酶体抑制剂硼替佐米和新一代免疫调节剂来那度胺治疗MM，使得MM的治疗效果进一步提高。截至2016年，美国食品药品监督管理局（Food and Drug Administration，FDA）先后批准了近20种用于治疗MM的药物，使得MM患者的OS由3\~5年延长至8\~10年。以嵌合抗原受体（chi-mericantigenreceptor，CAR）为代表的细胞免疫治疗，有望进一步清除微小残留病灶（minimum residual dis-ease，MRD），提高MM的治疗效果。这种治疗方法成为近几年研究的热点之一。
+
+尽管新的治疗药物及治疗手段使用广泛，到目前为止，MM仍是一种不可治愈的疾病。与其他血液肿瘤相同，本病的治疗分为诱导缓解、巩固（含ASCT）及维持治疗、复发后的再诱导治疗以及支持治疗[7-10]。无论是传统药物治疗时代还是新药时代，ASCT均作为MM治疗的重要手段之一，那么ASCT对MM治疗的意义究竟有多大呢？
+
+# 1传统药物治疗时代自体造血干细胞移植的 价值
+
+截至2006年，已有3400余篇文献报道了ASCT治疗MM的研究，包括10个随机对照研究，分别是IFM90[11]、MAG90[12]、MAG91[12]、CIAM[13]、MRC7[14]S9321[15]、PETHEMA[16]、HOVON[17]、M97G[18]、IFM$9 9 . { \overline { { \bf { \ } } } } 6 6 ^ { [ 1 9 ] }$ ，但各研究结果差异较大。绝大部分研究认为ASCT可延长MM患者的无进展生存期（progres-sion-free survival，PFS），而对OS的获益报道不一。为此，Dana Farber 肿瘤研究所的 Koreth 等[20]在 BiolBlood Marrow Transplant上发表了一篇荟萃分析，其主要研究目的是探究接受ASCT的MM患者的OS和PFS获益情况。该研究对3407篇相关文献进行了筛选，9个随机对照研究（IFM90、MAG90、MAG91、MRC7、S9321、PETHEMA、HOVON、M97G、IFM9906）共2411例患者纳入分析。通过比较ASCT与常规化疗疗效结果发现，各研究结果具有明显异质性；与常规化疗相比，ASCT可延长患者PFS，延迟复发，也许对提高患者生活质量具有一定帮助，但并无OS获益，且与常规化疗相比，移植相关死亡率（transplant-relatedmortality，TRM）增加了3倍。
+
+从学术角度考虑，这些研究均存在一定缺陷：（1）对于诱导治疗获得完全缓解（complete remission，CR）或非常好的部分缓解（very good partial response,VGPR）的患者是否可从移植中获益，各项研究均未进行分层分析；（2）这些研究均未对患者进行细胞遗传学分析，高危细胞遗传学异常患者的PFS及OS均很短，在传统药物时代ASCT对这些患者PFS及OS的影响很少涉及；（3）对于一些惰性、进展缓慢的MM，缓解率低，但生存时间很长。因此，惰性MM是否存在过度治疗，ASCT能否改善高危细胞遗传学患者的不良预后，新药时代ASCT的地位与作用，这部分患者是否可真正从ASCT中获益等问题目前仍存在争议。然而，ASCT可改善患者生活质量，尤其是对躯体功能、周围神经炎与日常生活能力的改善显著[21]，病情的进一步缓解还可延长缓和用药间隔，使患者避免遭受大剂量化疗引起的毒副反应。遗憾的是，由于ASCT过程及移植并发症十分痛苦，造成大部分患者拒绝此项治疗。ASCT发生的不良反应导致仅有 $2 0 \%$ \~$3 0 \%$ 符合ASCT治疗标准的患者最终接受了ASCT。另外，ASCT产生的医疗费用较高，如果仅能带来生活质量的改善，而不能延长生存期，则很难被患者及其家属接受。
+
+# 2新药时代自体造血干细胞移植的价值
+
+2017年4月，NewEnglJMed报道了来自法国的IFM2009 研究[22]，该研究对年龄小于65岁的700 例新诊断MM患者使用3个疗程VRD方案（硼替佐米 $^ +$ 来那度胺 $^ +$ 地塞米松）诱导治疗后随机分为2组，分别接受5个疗程的VRD巩固治疗，或单次 $\mathrm { A S C T } { + } 2$ 个疗程的巩固治疗；随后所有患者均接受1年的来那度胺维持治疗。其主要研究终点是PFS，次要终点包括有效率、起效时间、OS及不良反应。结果显示，经过中位时间43～44个月的随访，在ASCT组和非ASCT组的PFS分别为50个月和36个月，而4年的OS分别为 $8 1 \%$ 和 $8 2 \%$ ，全程治疗结束后ASCT组和非ASCT组的CR分别为 $5 9 \%$ 和 $4 8 \%$ ，用流式细胞术检查的MRD阴性比例分别为 $7 9 \%$ 和 $6 5 \%$ ，ASCT组的3\~4级不良反应明显高于非ASCT组。
+
+尽管该研究达到了主要研究终点PFS的获益，但是正如传统药物时代一样，仅有PFS 的获益并不够，需进一步随访观察两组间患者的 $\mathrm { 0 s }$ ○
+
+众所周知，免疫球蛋白IgA亚型及荧光原位杂交（Fluorescence in situ hybridization，FISH）高危患者的预后较差；该研究根据年龄、性别、免疫球蛋白类型、国际分期系统（international staging system，ISS）将细胞遗传学异常进行了亚组分析，发现不同亚组的PFS均可从移植中获益。但仔细分析研究结果，即使接受了ASCT，免疫球蛋白IgA亚型及FISH高危患者的PFS 改善有限。
+
+该研究采用7色流式细胞术监测MM患者骨髓MRD，结果发现治疗后获得VGPR及CR患者MRD阴性的比例在ASCT 组和非 ASCT组分别为 $7 9 \%$ 和 $6 5 \%$ 。从中可以看出，部分获得VGPR的患者，其流式细胞术监测MRD 阴性，但这部分患者的PFS及OS如何，该研究并未给出明确答案。
+
+关于不良反应，从目前报道结果看，ASCT组不论是血液学还是非血液学的胃肠道3\~4级不良反应均明显高于非ASCT组。尽管第二肿瘤发生的概率在两组无统计学差异，但从绝对值看，ASCT组发生第二肿瘤的风险仍比非ASCT组高。
+
+对于年龄大于65岁的老年MM患者，ASCT的疗效如何？2007年Lancet发表了IFM99-06的研究结果[19]。该研究将441 例新诊断 65\~75 岁 MM患者随机分为3组，分别接受MP方案（马法兰 $^ +$ 强的松）、MPT方案（马法兰 $^ +$ 强的松 $^ +$ 反应停）以及减低剂量的ASCT，主要研究终点是OS，次要终点为有效率、PFS及副反应。结果发现，MP、MPT、ASCT组的OS分别为33.2个月、51.6个月及38.3个月；3组的PFS分别为17.8个月、27.5个月及19.4个月；MPT组的OS及PFS明显长于MP组及ASCT组。不论是OS还是PFS，MP 组及ASCT 组均无明显差异。获得VCPR、CR疗效患者的比例在3组分别为 $7 \%$ 、 $4 7 \%$ 和$4 3 \textcircled { \% } .$ 3\~4级不良反应在ASCT组明显升高。以上结果表明，对于年龄大于65岁的MM患者来说，ASCT并不是适宜选择。
+
+002014年，国际骨髓瘤工作组根据MM的ISS分期、肿瘤细胞的生物学活性（乳酸脱氢酶）及FISH检查细胞遗传学异常，将MM分为低危、标危及高危组。低危组患者约占 $2 0 \%$ ，其中位OS 超过10 年;而高危患者亦占 $2 0 \%$ 左右，其中位OS仅2年左右。针对高危患者，ASCT并不能改善其不良预后，需要异基因干细胞移植或使用新的作用机制药物如抗CD38单克隆抗体等。此外，由于MM在疾病过程中可能发生克隆演化[23]，因此移植后的巩固及维持治疗至关重要。正如IFM99-06的研究结果，即使接受ASCT后获得了较高的缓解率，如果移植后未进行维持治疗，其PFS 和OS 均不能获益。
+
+# 3小结
+
+尽管ASCT可延长患者的PFS，但不能明确改善OS，同时可能带来移植相关不良反应，加重患者经济负担，故无论是在传统药物时代还是在新药时代,ASCT用于MM治疗的价值仍有待商榷。
+
+# 参考文献
+
+[1] Blokhin N,Larionov L,Perevodchikova N,et al．［Clinical
+
+Ann N Y Acad Sci,1958，68:1128-1132.   
+[2]McElwain TJ，Powles RL.High-dose intravenous melphalan for plasma-cell leukaemia and myeloma ［J].Lancet，1983, 2: 822-824.   
+[3]Singhal S,Mehta J,Desikan R,et al. Antitumor activity of thalidomide in refractory multiple myeloma [J].N Engl J Med，1999，341:1565-1571.   
+[4]Orlowski RZ，Eswara JR，Lafond-Walker A，et al.Tumor growth inhibition induced in a murine model of human Burkit's lymphoma by a proteasome inhibitor［J]. Cancer Res，1998, 58: 4342-4348.   
+[5]Orlowski RZ,Stinchcombe TE，Mitchell BS,et al.Phase I trial of the proteasome inhibitor PS-341 in patients with refractory hematologic malignancies[J]. JClin Oncol，2002, 20: 4420-4427.   
+[6]Hideshima T,Richardson P,Chauhan D,et al. The proteasome nhibitor PS-341 inhibits growth,induces apoptosis，and overcomes drug resistance in human multiple myeloma cells [J].Cancer Res，2001,61：3071-3076.   
+[7]Kumar SK,Callander NS,Alsina M,et al.Multiple myeloma, version3.2017,NCCNclinical practiceguidelines inocology [J]. JNatl Compr Canc Netw,2017,15:230-269.   
+[8]Moreau P,San Miguel J,Sonneveld P,et al. Multiple myeloma:ESMO Clinical Practice Guidelines for diagnosis，treatment and follow-up [J].Ann Oncol,2017，28：iv52-iv61.   
+[9]Chng WJ,Dispenzieri A，Chim CS，et al. IMWG consensus on risk stratification in multiple myeloma [J].Leukemia, 2014，28: 269-277.   
+[10]Dingli D,Ailawadhi S, Bergsagel PL，et al. Therapy for relapsed multiple myeloma:guidelines from the mayo stratification for myeloma and risk-adapted therapy[J].Mayo Clin Proc，2017，92:578-598.   
+[11]Barlogie B,Attal M，Crowley J,et al.Long-term follow-up of autotransplantation trials for multiple myeloma：update of protocols conducted by the intergroupe francophone du myelome，southwest oncology group，and university of arkansas for medical sciences［J]．JClin Oncol，2010，28: 1209-1214.   
+[12]Porcher R,Levy V,Fermand JP,et al. Evaluating high dose therapy in multiple myeloma:use of quality-adjusted survival analysis [J]. Qual Life Res，2002，11：91-99.   
+[13]Facon T，Mary JY，Harousseau JL，et al.Front-line or rescue autologous bone marrow transplantation （ABMT） following a first course of high dose melphalan（HDM） in multiple myeloma（MM).Preliminary results of a prospective randomized trial（CIAM）protocol［J]．Blood，1996, 88:2729.   
+[14] Child JA，Morgan GJ，Davies FE，et al．High-dose chemotherapy with hematopoietic stem-cell rescue for multiple myeloma［J].N Engl JMed,2003，348：1875-1883.   
+[15] Barlogie B，Kyle RA，Anderson KC，et al.Standard chemotherapy compared with high-dose chemoradiotherapy for multiple myeloma：final results of phase III US intergroup trial S9321［J].JJClin Oncol，2006，24：929-936.   
+[16] Rosinol L,Pérez-Simón JA，Sureda A，et al.A prospective PETHEMA study of tandem autologous transplantation versus autograft followed byreduced-intensity conditioning allogeneic transplantation in newly diagnosed multiple myeloma ［J]. Blood，2008，112：3591-3593.   
+[17] Lokhorst HM,Segeren CM，VerdonckLF,etal.Partially Tcell-depleted allogeneic stem-cell transplantation for first-line treatment of multiple myeloma：a prospective evaluation of patients treated in the phase III study HOVON 24 MM[J].J Clin Oncol，2003，21：1728-1733. Palumbo A，Bringhen S,Petrucci MT，et al.Intermediatedose melphalan improves survival of myeloma patients aged 50 to 70：results of a randomized controlled trial［J].Blood, 2004，104:3052-3057.   
+[19]Facon T,Mary JY,Hulin C,et al. Melphalan and prednisone plus thalidomide versus melphalan and prednisone alone or reduced-intensity autologous stem cell transplantation in elderly patientswith multiple myeloma（IFM 99-O6）：a randomised trial[J].Lancet，2007，370：1209-1218.   
+[20] Koreth J,Cutler CS,Djulbegovic B,et al.High-dose therapy with single autologous transplantation versus chemotherapy for newly diagnosed multiple myeloma：a systematic review and meta-analysis of randomized controlled trials［J].Biol Blood Marrow Transplant，2007，13：183-196.   
+[21] Etto LY，MorelliVM，Silva VC，etal.Autologous stem cell transplantation improves quality of life in economically challenged，Brazilian multiple myeloma patients［J].Clinics （Sao Paulo），2011，66：1855-1859.   
+[22] Attal M,Lauwers-Cances V，HulinC，etal.Lenalidomide, bortezomib，and dexamethasone with transplantation for myeloma［J].NEnglJMed，2017，376：1311-1320.   
+[23] Keats JJ,Chesi M，Egan JB，et al.Clonal competition with alternating dominance in multiple myeloma ［J].Blood, 2012，120：1067-1076.
+
+（收稿日期：2017-07-25)

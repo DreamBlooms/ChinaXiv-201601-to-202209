@@ -1,0 +1,413 @@
+[
+    {
+        "type": "text",
+        "text": "苦豆子表型性状多样性分析及综合评价",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王瑷，郁万文，周凯，汪贵斌，曹福亮\\*（南京林业大学南方现代林业协同创新中心，南京210037）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：该研究以苦豆子自然分布的内蒙、宁夏、甘肃、新疆、陕西等23个不同地理来源（种源）的野生苦豆子种子及其播种于内蒙古鄂托克前旗同质园内的当年生植株为材料，采用方差分析、主成分分析、聚类分析等方法对种子长、宽、千粒重以及植株的叶长、叶宽、叶面积、叶形指数、苗高、地径及生物量等10个表型性状的多样性进行了研究，结果如下：各个表型性状种源间均呈极显著差异，其中种子表型性状的变异系数为 $5 . 2 4 \\%$ ，植株表型性状的变异系数为 $1 8 . 3 4 \\%$ ，表明种子性状的稳定性高于植株性状。同时，10个性状的表型分化系数均高于 $70 \\%$ ，说明苦豆子表型多样性主要来源于种源间的表型变异；各种源苦豆子种子性状的表型分化系数均值高达 $9 7 . 5 5 \\%$ ，且种长、千粒重分别与采集地经度、海拔和纬度等环境因子呈极显著相关性，说明种子表型性状受环境因素的影响较大；相关性分析则显示，苦豆子植株性状LL、LA分别与种子性状TW、SL和SW 有显著相关性，暗示表型性状中的可遗传变异影响；利用主成分和聚类分析对23个种源苦豆子进行综合评价，筛选出生物量较大、苗高较高、千粒重较重、叶面积较大等综合表现较好的6个种源，共分为两类，它们分别是DK、JY、WY、WH和ETK及YN，这为苦豆子种质资源定向开发及选育、栽培提供了一定的理论支撑和基础材料。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：苦豆子，表型多样性，变异系数，植株，种子",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diversity analysis and comprehensive evaluation on ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "phenotypic traits of Sophora alopecuroides ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Yuan, YU Wanwen, ZHOU Kai, WANG Guibin, CAO Fuliang\\* (Co-Innovation Center for the Sustainable Forestry in Southern China, Nanjing Forestry University, Nanjing 210037, Jiangsu, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Seeds of 23 wild Sophora alopecuroides populations were collected from Inner Mongolia，Ningxia, Gansu， Xinjiang， and Shanxi Province，which were finally planted in Etuokeqianqi in Inner Mongolia. ANOVA, principal component analysis and cluster analysis were used to analyze phenotypic traits such as seed length, seed width,lOoo-seed weight and leaf length,leaf width,leaf area,leaf shape index，seedling height, ground diameter and biomass, which came from seeds and plants among these different S. alopecuroides sources.The results showed that there were significantly different among 23 diffrent geographical sources of S. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "alopecuroides in every phenotypic trait. The average coefficient of variation $( C V )$ of the seed phenotypic traits was $5 . 2 4 \\%$ and the $C V$ of the plant phenotypic traits was $1 8 . 3 4 \\%$ ，which indicated that the seeds had higher stability than the plants.At the same time,the phenotypic differentiation coefficient of each phenotypic trait was higher than $70 \\%$ ，which indicated that the phenotypic diversity of $S .$ alopecuroides is mainly derived from phenotypic variation between different sources. The mean phenotypic differentiation coefficient of seed phenotypic trait was as high as $9 7 . 5 5 \\%$ and the seed length and 1ooo-seed weight were significantly correlated with the environmental factors such as longitude and altitude,which indicated that the seed phenotypic traits were greatly affected by environmental factors. Correlation analysis showed that the plant traits LL and LA were significantly correlated with seed traits TW,SL and SW， which implicated the influence of heritable variation in phenotypic traits.In the end,6 sources of S. alopecuroides with Larger biomass, higher height, heavier 1 Ooo-seed weight and larger leaf area were picked out through the main components and cluster analysis,which divided into two categories,this result will provide certain theoretical support and basic materials for the targeted development, breeding and cultivation of S. alopecuroides germplasm resources. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Sophora alopecuroides, phenotypic diversity, coeficient of variation, seedling, seeds ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "苦豆子（Sophora alopecuroidesL.）又名草本槐或苦豆根，为豆科槐属（Sophora）多年生草本植物，广泛分布于亚洲大陆干旱、半干旱地区，在我国主要分布于西北荒漠与半荒漠地区，是优良的固沙、耐盐碱植物（杨阳和刘秉儒，2013)，同时也是优良的绿肥及蜜源植物（Zhao etal.,2010)。研究发现其富含生物碱类化合物（Lee et al.,2013)，有抗炎症、抗病毒和抗肿瘤的作用，是优良的天然中草药及民族药材（周福生和穆青，2006)。此外，苦豆子内蕴含丰富的内生菌资源（高媛等，2016)，使其具有很大的农业药用开发潜力（Lin et al,2013 ;Zhao etal.,2013)。作为一种全株可入药、兼具医药、生态等多价值的西域特色植物，苦豆子具有较大的开发利用潜力（高亮等，2017)，但到目前为止，该植物仍处于野外采集利用阶段，没有进行规模化的栽培利用，而对其种质资源及遗传多样性等基础性的研究也非常少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表型可塑性是指生物的单个基因型可以在不同环境中产生不同的表型，其很大比例是遗传选择的结果（Nicotra etal.,2010; Pfenning et al.,2010)。表型多样性是遗传多样性及环境多样性的综合体现，主要研究种群在各自分布区环境下由表型可塑性产生的表型变异（胡盼等，2015）。近两年，研究通过调查分析不同种源或自然种群的大红袍花椒（Zanthoxylumbungeanum Maxim.）（杨建雷等，2018）、珙桐（Davidia involucrata Baill.）（张腾驹等，2019）、核桃（Juglans regiaL.）（刘昊等，2017）、长柄扁桃（Amygdalus pedunculata Pall.）（柳江群等,2017）、香椿（T.sinensis（A.Juss.）Roem.）（吴军等,2018）、橡胶草（Taraxacum kok-saghyzRodin）（李英霜等，2017）、鱼腥草（Houttuynia cordata Thunb.）（李爱民等，2018）、掌叶木（Handeliodendron bodinieri（Lévl.)Rehd.）（郭松等,2018)和茶条槭（Acer ginnala Maxim.）（武艳虹等，2018）等植物的株高、地径、叶片、果实以及种子等表型性状的多样性，揭示了不同植物的遗传多样性水平，从而为这些植物资源的开发利用及选择育种提供了科学依据和基础材料。杨翠等（2010）研究发现不同野生种群苦豆子种子的大小、千粒重等表型性状存在较大差异，表明苦豆子种质资源的生态类型较多，遗传背景较复杂（杨翠等，2010)。然而，由于天然种群生长环境的差异，使得环境效应和遗传效应对植物表型变异的影响不能很好的区分（Sultan etal.,1995)，因此保证生长环境一致能更好的反映群体遗传多样性（郝蕾等，2017；李爱民等，2018)。本研究采集了23个不同地区野生种群的苦豆子种子并对其表型性状（种子长、宽、千粒重）进行了遗传多样性分析，同时将其统一栽培于同质园，对其一年生植株的表型性状（株高、地径、生物量、叶长、叶宽、叶面积及叶形指数）进行了多样性分析，目的在于揭示苦豆子的遗传多样性构成及水平，为苦豆子种质资源定向开发，选育和栽培提供理论基础和材料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1野生苦豆子种子采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照苦豆子在我国的主要分布区和实际挂果情况，于2014年10月至11月采集了苦豆子主要分布5个省的23个地区的野生种子，并采用全球卫星定位系统（GPS）观测经度、纬度、海拔等地理因子并记录土壤类型、生境等生态因子（表1)。每个采样地作为一个野生种源处理，视林分生长情况，选取生境条件较为一致，生长健壮、结实量大、无严重病虫害的30个单株的成熟荚果进行采集，株间距离控制在 $5 0 \\mathrm { m }$ 以上(避免母系遗传)，然后带回实验室去皮、取种子测定其长、宽、千粒重等表型性状。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e455b072c49033b2dc331d56b43246e9fa30ee98bc27096e76e1e75c28f2c136.jpg",
+        "table_caption": [
+            "表1苦豆子23种源的地理位置及生态因子",
+            "Table 1 Location and related ecological factors of sampled 23 sources of Sophora alopecuroides "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>种源 Source</td><td>经度 Longitude</td><td>纬度 Latitude</td><td>海拔 Altitude (m)</td><td>年均温 Annual average temperature (℃)</td><td>年降水 Precipitation (mm)</td></tr><tr><td>LT</td><td>86°08'E</td><td>41°47'N</td><td>1012</td><td>10.9</td><td>72</td></tr><tr><td>AWT</td><td>80°23'E</td><td>40°28'N</td><td>1036</td><td>10.4</td><td>61</td></tr><tr><td>DQW</td><td>93°53'E</td><td>42°43'N</td><td>815</td><td>10.6</td><td>39</td></tr><tr><td>BT</td><td>88°08'E</td><td>47°17'N</td><td>548</td><td>3.8</td><td>132</td></tr><tr><td>BC</td><td>78°49'E</td><td>39°53N</td><td>1105</td><td>10.0</td><td>45</td></tr><tr><td>XY</td><td>83°14'E</td><td>43°24'N</td><td>985</td><td>8.6</td><td>476</td></tr><tr><td>JYN</td><td>81°32'E</td><td>44°00'N</td><td>887</td><td>9.0</td><td>340</td></tr><tr><td>TC</td><td>83°37'E</td><td>46°29'N</td><td>509</td><td>5.5</td><td>150</td></tr><tr><td>XX</td><td>106°05'E</td><td>38°33'N</td><td>1126</td><td>8.5</td><td>200</td></tr><tr><td>PL</td><td>106°42'E</td><td>38°49'N</td><td>1102</td><td>11.9</td><td>173</td></tr><tr><td>YC</td><td>107°25'E</td><td>37°44'N</td><td>1344</td><td>7.6</td><td>256</td></tr><tr><td>YN</td><td>106°15'E</td><td>38°14'N</td><td>1118</td><td>8.7</td><td>201</td></tr><tr><td>SPT</td><td>105°08'E</td><td>3731N</td><td>1230</td><td>8.8</td><td>180</td></tr><tr><td>HSB</td><td>106°00'E</td><td>37°26'N</td><td>1325</td><td>8.7</td><td>251</td></tr><tr><td>WY</td><td>107°46'E</td><td>40°54'N</td><td>1035</td><td>6.1</td><td>170</td></tr><tr><td>JY</td><td>107°28'E</td><td>40°35'N</td><td>1018</td><td>6.8</td><td>330</td></tr><tr><td>DK</td><td>107°01'E</td><td>40°19'N</td><td>1053</td><td>8.3</td><td>145</td></tr><tr><td>WH</td><td>106°42'E</td><td>39°34'N</td><td>1079</td><td>9.6</td><td>160</td></tr><tr><td>AZQ</td><td>105°41'E</td><td>38°52'N</td><td>1561</td><td>7.9</td><td>203</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9737d4018cf37b7da2cf23c9ce69958eb659b684f116e34abeba05962c55428d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ETK</td><td>107°28'E</td><td>38°14'N</td><td>1321</td><td>7.7</td><td>227</td></tr><tr><td>GJC</td><td>102°23'E</td><td>38°34'N</td><td>1414</td><td>9.4</td><td>114</td></tr><tr><td>GMQ</td><td>10301'E</td><td>38°35'N</td><td>1382</td><td>8.3</td><td>128</td></tr><tr><td>SM</td><td>110°30'E</td><td>38°49'N</td><td>1038</td><td>8.9</td><td>441</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：LT.新疆轮台县；AWT.新疆阿瓦提县；DQW.新疆大泉湾乡；BT.新疆北屯市；BC．新疆巴楚县； XY.新疆新源县；JYN．新疆伊宁县；TC．新疆塔城；XX.宁夏银川西夏区；PL.宁夏平罗县；YC.宁夏 盐池县；YN.宁夏银川永宁县；SPT.宁夏中卫沙坡头；HSB.宁夏吴忠红寺堡区；WY.内蒙五原县；JY. 内蒙包头九原区；DK.内蒙磴口县；WH.内蒙乌海市；AZQ.内蒙古阿拉善左旗；ETK．内蒙古鄂托克前 旗；GJC.甘肃金昌；GMQ.甘肃省民勤县；SM.陕西省神木市。下同。   \nNote:LT.Luntai county in Xinjiang; AWT.Awati county in Xinjiang; DQW.Daquanwan county in Xinjiang; BT. Beitun city in Xinjiang; BC. Bachu county in Xinjiang; XY. Xinyuan county in Xinjiang; JYN. Yining county in Xinjiang; TC.Tacheng in Xinjiang; XX. Xixia district in Ningxia; PL.Pingluo county in Ningxia; YC.Yanchi county in Ningxia; YN.Yongning county in Ningxia; SPT.Shapotou district in Ningxia; HSB.Hongsibao district in Ningxia; WY.Wuyuan county in Inner Mongolia; JY. Jiuuyuan district in Inner Mongolia; DK.Dengko county in Inner Mongolia;WH.Wuhai city in Inner Mongolia； AZQ.Alashanzuoqi in Inner Mongolia； ETK. Etuokeqianqi in Inner Mongolia; GJC.Jinchang in Gansu; GMQ.Minqin county in Gansu; SM. Shenmu city in Shanxi. The same below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验地概况及实验设计",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本试验同质园设在内蒙古鄂尔多斯市鄂托克前旗敖勒召其镇伊克乌素嘎查境内。属典型的温带干旱、半干旱大陆性季风气候，年平均气温 $7 . 7 ~ \\mathrm { ^ { \\circ } C }$ ，年平均日照 $2 \\ 7 0 0 { \\sim } 2 \\ 9 0 0 \\ \\mathrm { h }$ ，年均降水量 $2 2 7 \\mathrm { m m }$ ，年蒸发量 $2 5 1 5 \\mathrm { m m }$ 。试验地土壤为沙壤土，土层较厚，肥力中等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2015年4月进行播种育苗。播种前用 $6 5 \\% \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ 将种子处理 $2 0 \\mathrm { m i n }$ ，然后用清水冲干净后置入 $3 0 ^ { \\circ } \\mathrm { C }$ 温水浸泡 $2 4 \\mathrm { h }$ ，而后将其放在 $2 \\mathrm { c m }$ 沙盘上，待发芽率 $60 \\%$ 以上将种子连沙一并播种入土，每种源播种面积 $1 0 0 \\mathrm { m } ^ { 2 }$ ，并定期进行田间管理。试验采用随机完全区组设计，3次重复，每重复每种源选取苦豆子10株，于2015年8月10日采集苦豆子苗高和地径数据；于2015年9月12日采集苦豆子植株顶端向下第三轮叶片（每株3片）进行扫描；而后于2015年9月15日每种源取7株苦豆子植株小心挖出根系用去离子水洗净后装入牛皮纸袋放入烘箱，先在 $1 0 5 \\mathrm { ~ \\textdegree ~ }$ 烘干 $3 0 \\mathrm { m i n }$ ，再在 $6 0 { \\sim } 7 0 ^ { \\circ } \\mathrm { C }$ 下烘干至恒重后测定干重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3种子及叶片性状调查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用游标卡尺，采用阳翠（2010）等的方法测定各种群苦豆子种子的大小及千粒重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "苦豆子叶片表型性状的测定主要包括叶片扫描图像阈值分割和形状参数计算两个步骤。首先，在Matlab 语言环境中读入扫描的叶片图像，通过设定决策树分类阈值将叶片性状覆盖部分（白）和背景部分（黑）进行对照阈值的分割（图1)，并使用bwareaopen 函数去除误识别为叶片部分的背景杂质；然后，在得到准确叶片性状覆盖像素范围的基础上，使用regionprops 函数中的boundingbox（最小包围盒）属性分别计算各张图片中叶片的长度（横向最大值）、宽度（纵向最大值）以及叶面积（独立白色区域面积）等指标值（张卫正等，2016)。图像处理的所有函数及步骤均使用Matlab语言编程实现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D ，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4数据统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用EXCEL2016和SPSS23.0进行数据整理和统计分析。以单株测定值参与各性状单因素方差分析，多重比较采用Duncan法；用性状的变异系数 $( C V )$ 表示表型性状多样性水平，以各群体平均值参与变异系数（ $C V )$ 计算。 $C V { = } S / x$ ，式中， $s$ 为标准差， $x$ 为群体平均值；采用相对极差 $( R ^ { \\prime } )$ 反映种群间的离散程度（苏应雄等，2017）， $R ^ { \\prime } { = } R _ { i } / R _ { O }$ ，其中 $R _ { i }$ 表示种群内极差， $R o$ 表示总极差。以表型分化系数表示群体间变异占遗传总变异的百分比，计算公式为（武艳虹等，2018)： $V _ { s t } \\{ { \\bf { \\sigma } } \\psi _ { s t } { = } { \\bf { \\sigma } } ( \\delta ^ { 2 } { } _ { t / s } ) { \\bf { \\sigma } } / { \\bf { \\sigma } } ( \\delta ^ { 2 } { } _ { t / s } { + } { \\delta ^ { 2 } } { } _ { t } )$ ，式中， $V _ { s t }$ 为表型分化系数， $\\delta ^ { 2 } { } _ { t / s }$ 为群体间方差分量， $\\delta ^ { 2 } { } _ { t }$ 为群体内方差分量；应用SPSS23.0软件进行有关的相关性分析、主成分分析及聚类分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1不同种源苦豆子种子及植株表型性状变异特征",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1种子表型性状 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "单因素方差分析表明，苦豆子种子的3个表型性状种源间差异极显著（ $_ { \\cdot } P { < } 0 . 0 1$ ）（表2），种长、种宽、千粒重的变化范围分别为 $3 . 8 3 \\sim 4 . 5 5 \\mathrm { m m }$ 、 $2 . 8 1 { \\sim } 3 . 3 1 ~ \\mathrm { c m }$ 、 $1 9 . 6 9 \\sim 2 4 . 1 2 ~ \\mathrm { g }$ ，这3 个表型性状均以GJC 的最大，BT的最小，两者之间分相差1.19、1.18和1.22倍。将各种源种子性状与采集地的地理因子进行相关性分析后发现，苦豆子种子长和千粒重分别与其种源地经度、海拔呈极显著正相关性，而与纬度呈极显著负相性（表3)，表明苦豆子种子长和千粒重这两个性状具有明显的地理变异特征，也就是说受环境因素的影响较大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 植株表型性状 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "方差分析显示，苦豆子植株的各个表型性状种源间均有极显著差异（ $( P { < } 0 . 0 1 )$ ，其中苗高最大值为种源YN 的 $6 6 . 6 7 \\mathrm { c m }$ ，比苗高最小的种源XX 高 $3 3 . 0 1 \\mathrm { c m }$ 、近 $100 \\%$ 。地径和生物量则均以新疆LT 种源最大，分别比地径最小的内蒙AZQ种源大 $3 8 . 0 1 \\%$ ；比生物量最小的甘肃GMQ 种源大 $7 2 . 4 4 \\%$ 。苦豆子叶片性状中均以新疆种源BC的叶长（ $2 . 9 0 \\mathrm { c m } \\dot { } ,$ 、叶宽（ $1 . 1 8 ~ \\mathrm { c m }$ 、叶面积（ $\\cdot 2 . 6 4 \\ \\mathrm { c m } ^ { 2 }$ ）最大，陕西种源 SM的叶长（ $2 . 0 8 \\mathrm { c m }$ ）最小，叶宽、叶面积均以内蒙种源 $\\mathrm { A Q Z } ( 0 . 8 8 \\mathrm { c m } ; 1 . 8 3 \\mathrm { c m } ^ { 2 } )$ 的最小；叶形指数以新疆AWT种源的指标值(2.94)最大，新疆种源XY的指标值（2.18）最小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总体来看，植株性状中苗高和生物量的种源间变幅较大，最大值比最小值大 $50 \\%$ 以上。另外，值得注意的是个别植株表型性状的极值都出现于新疆的种源中，可能是地域间隔较远种源的遗传变异导致，也可能是种源对新的生长环境适应的结果（Pfenning etal.,2010)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/425a0d2ecadf96f581441b947228626579457a257e2c22e94f9261d0da60400e.jpg",
+        "table_caption": [
+            "表2不同种源苦豆子种子及植株表型性状的比较",
+            "Table 2 Seeds traits and plants traits comparison of Sophora alopecuroides derived from diffrent sources "
+        ],
+        "table_footnote": [
+            "注：同性状间的不同字母表示在 $\\mathrm { P } { < } 0 . 0 5$ 水平下差异显著；\\*和\\*\\*分别表示在 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 水平下显著差异；SL.种子长；SW.种子宽；TW.种子千粒重；H.苗高；D. 地径；B.生物量；LL．叶长；LW.叶宽；LA．叶面积；LSI．叶形指数。下同。 Note: Different letters indicate significant difference at $\\mathrm { P } < 0 . 0 5$ ; The same below. \\*and\\*\\*indicate significant difference at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ respectively; SL. Seed length; SW. Seed width;s "
+        ],
+        "table_body": "<html><body><table><tr><td>种源</td><td>苗高</td><td>地径</td><td>生物量</td><td>叶长</td><td>叶宽</td><td>叶面积</td><td>叶形指数</td><td>种长</td><td>种宽</td><td>千粒重</td></tr><tr><td>Source</td><td>H(cm)</td><td>D (mm)</td><td>B(g)</td><td>LL (cm)</td><td>LW (cm)</td><td>LA (cm2)</td><td>LSI</td><td>SL (mm)</td><td>SW (mm)</td><td>TW (g)</td></tr><tr><td>LT</td><td>51.02±6.60cdefghi</td><td>5.70±0.76a</td><td>23.28±5.46a</td><td>2.55±0.27cdefg</td><td>1.01±0.11def</td><td>1.96±0.40defghi</td><td>2.52±0.17cde</td><td>4.16±0.02i</td><td>3.05±0.01j</td><td>21.19±1.34hi</td></tr><tr><td>AWT</td><td>53.40±11.72cdef</td><td>5.08±0.63abc</td><td>16.64±6.75bcdefgh</td><td>2.71±0.24abcd</td><td>0.93±0.09fghi</td><td>1.90±0.35efghjj</td><td>2.94±0.12a</td><td>4.12±0.03j</td><td>3.02±0.02k</td><td>21.72±0.81fgh</td></tr><tr><td>DQW</td><td>57.35±7.12bcde</td><td>5.13±0.68abc</td><td>20.54±4.49abcdefg</td><td>2.74±0.23abc</td><td>0.98±0.11defgh</td><td>2.05±0.34def</td><td>2.81±0.31ab</td><td>4.07±0.02k</td><td>2.95±0.021</td><td>20.36±0.82ij</td></tr><tr><td>BT</td><td>48.47±6.84efghij</td><td>5.11±0.85abc</td><td>15.33±5.28fgh</td><td>2.41±0.15efghij</td><td>1.08±0.10bcd</td><td>2.03±0.24defg</td><td>2.26±0.30ef</td><td>3.83±0.02m</td><td>2.81±0.02n</td><td>19.69±0.46j</td></tr><tr><td>BC</td><td>43.63±6.21hij</td><td>4.67±0.53cd</td><td>15.61±5.43efgh</td><td>2.90±0.15a</td><td>1.18±0.12a</td><td>2.64±0.32a</td><td>2.47±0.27cdef</td><td>4.10±0.02j</td><td>2.95±0.021</td><td>20.83±0.89hi</td></tr><tr><td>XY</td><td>49.85±6.73defghij</td><td>5.00±0.43abc</td><td>16.18±3.57cdefgh</td><td>2.50±0.14defghi</td><td>1.15±0.08ab</td><td>2.23±0.25bcd</td><td>2.18±0.16f</td><td>4.43±0.02d</td><td>3.20±0.02e</td><td>23.38±0.25abcde</td></tr><tr><td>JYN</td><td>44.20±6.46ghij</td><td>4.79±0.43bcd</td><td>15.93±4.51defgh</td><td>2.52±0.14cdefgh</td><td>1.02±0.05def</td><td>1.99±0.24defgh</td><td>2.47±0.10cdef</td><td>4.33±0.02f</td><td>3.17±0.01f</td><td>23.17±0.49abcde</td></tr><tr><td>TC</td><td>42.06±+7.07ij</td><td>4.71±0.48cd</td><td>13.96±3.83h</td><td>2.76±0.21abc</td><td>1.15±0.09ab</td><td>2.45±0.31ab</td><td>2.41±0.17cdef</td><td>3.96±0.031</td><td>2.87±0.01m</td><td>20.17±2.30ij</td></tr><tr><td>XX</td><td>33.66±5.63k</td><td>5.12±0.93abc</td><td>22.10±3.09abcd</td><td>2.52±0.24cdefgh</td><td>1.04±0.12cde</td><td>2.05±0.27def</td><td>2.45±0.38cdef</td><td>4.26±0.02g</td><td>3.11±0.01h</td><td>21.52±0.79gh</td></tr><tr><td>PL</td><td>53.12±11.52cdefg</td><td>5.03±0.84abc</td><td>17.23±5.10abcdefgh</td><td>2.61±0.18bcdef</td><td>1.08±0.05bcd</td><td>2.18±0.25bcde</td><td>2.43±0.14cdef</td><td>4.31±0.03f</td><td></td><td>23.59±0.91abc</td></tr><tr><td>YC</td><td>44.44±9.56fghij</td><td>4.58±0.71cd</td><td>15.65±4.81efgh</td><td>2.26±0.25jkl</td><td>0.97±0.11efgh</td><td>1.73±0.36ghijkl</td><td>2.32±0.16def</td><td>4.33±0.03f</td><td>3.17±0.01f</td><td></td></tr><tr><td>YN</td><td>66.67±13.57a</td><td>5.33±0.65abc</td><td>22.62±5.38ab</td><td>2.38±0.24fghijk</td><td>0.90±0.07hi</td><td>1.61±0.17jkl</td><td>2.66±0.39abc</td><td>4.32±0.01f</td><td>3.18±0.02f</td><td>23.63±1.29abc</td></tr><tr><td> SPT</td><td>41.66±4.75j</td><td>5.28±1.12abc</td><td>23.24±1.54a</td><td>2.41±0.23efghij</td><td>1.00±0.07defg</td><td>1.81±0.31fghij</td><td>2.41±0.17cdef</td><td>4.25±0.02g</td><td>3.17±0.01f</td><td>22.84±0.40bcdef</td></tr><tr><td>HSB</td><td>49.80±12.21defghij</td><td>4.59±0.99cd</td><td>18.64±5.90abcdefgh</td><td>2.73±0.14abcd</td><td>1.12±0.09abc</td><td>2.38±0.32abc</td><td>2.44±0.17cdef</td><td></td><td>3.12±0.02gh</td><td>22.68±1.04bcdef</td></tr><tr><td>WY</td><td>59.13±7.89abc</td><td>4.87±0.38bc</td><td>22.34±4.44abc</td><td>2.20±0.17jkl</td><td></td><td></td><td></td><td>4.25±0.02g</td><td>3.13±0.02g</td><td>22.80±1.64bcdef</td></tr><tr><td>JY</td><td>57.78±10.27bcd</td><td>5.12±1.01abc</td><td>21.80±6.05abcde</td><td>2.30±0.31hijkl</td><td>0.98±0.09efgh 0.99±0.09defgh</td><td>1.66±0.29ijkl 1.75±0.27fghijk</td><td>2.26±0.20ef 2.34±0.32def</td><td>4.33±0.03f</td><td>3.19±0.01f</td><td>22.34±0.56defg</td></tr><tr><td>DK</td><td>58.09±11.10bcd</td><td>4.96±0.56bc</td><td>22.24±5.73abcd</td><td>2.82±0.14ab</td><td></td><td>2.15±0.27cde</td><td></td><td>4.38±0.04e</td><td>3.22±0.02e</td><td>23.15±0.43abcde</td></tr><tr><td>WH</td><td>49.18±8.68defghij</td><td>4.81±0.82bcd</td><td>16.38±5.48bcdefgh</td><td>2.65±0.28bcde</td><td>0.99±0.09defgh</td><td></td><td>2.84±0.18ab</td><td>4.40±0.02e</td><td>3.24±0.02d</td><td>23.34±0.80abcde</td></tr><tr><td>AZQ</td><td>46.30±9.50fghij</td><td>4.13±0.72d</td><td>14.61±4.36gh</td><td>2.16±0.15kl</td><td>0.91±0.06ghi</td><td>1.88±0.28efghij 1.43±0.201</td><td>2.90±0.26a</td><td>4.33±0.03f</td><td>3.17±0.01f</td><td>22.54±0.53cdefg</td></tr><tr><td>ETK</td><td>64.04±14.98ab</td><td>5.52±1.08ab</td><td>21.29±6.85abcdef</td><td>2.27±0.38ijkl</td><td>0.88±0.07i 0.93±0.08fghi</td><td>1.61±0.21jkl</td><td>2.47±0.14cdef</td><td>4.21±0.02h</td><td>3.07±0.02i</td><td>22.28±1.09efg</td></tr><tr><td>GJC</td><td>51.97±7.18cdefg</td><td>5.11±0.59abc</td><td>15.53±3.86efgh</td><td>2.25±0.23jkl</td><td>1.01±0.06def</td><td></td><td>2.47±0.56cdef</td><td>4.51±0.03b</td><td>3.28±0.02b</td><td>23.73±1.79ab</td></tr><tr><td>GMQ</td><td></td><td>4.90±0.85bc</td><td></td><td></td><td></td><td>1.75±0.20fghijk</td><td>2.23±0.24ef</td><td>4.55±0.01a</td><td>3.31±0.02a</td><td>24.12±1.88a</td></tr><tr><td>SM</td><td>47.83±9.68fghij</td><td>4.96±0.51bc</td><td>13.50±4.76h</td><td>2.37±0.24ghijk</td><td>0.93±0.10fghi</td><td>1.70±0.17hijkl</td><td>2.58±0.42bcd</td><td>4.53±0.01a</td><td>3.27±0.02b</td><td>24.04±1.15a</td></tr><tr><td>F值</td><td>53.27±10.63cdef 8.067**</td><td>2.341**</td><td>15.05±5.52fgh 3.223**</td><td>2.08±0.151 6.13**</td><td>0.94±0.08fghi 8.487**</td><td>1.49±0.21kl 11.327**</td><td>2.22±0.19ef 6.13**</td><td>4.48±0.03c 557.921**</td><td>3.25±0.01c 559.102**</td><td>23.49±1.16abcd 13.312**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3苦豆子种子性状与地理环境因子的相关系数",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/50b610baebf80b140440aae5ca05ae932bb9254a760557c8ac6ea9895ad53dc9.jpg",
+        "table_caption": [
+            "Table3 Correlation coeficients between the geo-ecological factors and seed traits of Sophora alopecuroides "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>种子性状 Seed trait</td><td>经度 Longitude</td><td>纬度 Latitude</td><td>海拔 Altitude</td><td>年均温 Annual average temperature</td><td>年降水 Annual precipitation</td></tr><tr><td>千粒重 1000-seed weight</td><td>0.559**</td><td>-0.632**</td><td>0.667**</td><td>0.229</td><td>0.501*</td></tr><tr><td>种长 Seed length</td><td>0.562**</td><td>-0.616**</td><td>0.636**</td><td>0.237</td><td>0.464*</td></tr><tr><td>种宽 Seed width</td><td>-0.207</td><td>0.162</td><td>-0.126</td><td>-0.089</td><td>0.073</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2苦豆子表型性状的变异及分化",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "变异系数和相对极差表示种源的离散程度，二者数值越大，表明该表型性状的变异程度越大（李英霜等，2017；苏应雄等，2017)。由表3可以看出，苦豆子10个表型的变异系数表现为 $\\mathbf { B } > \\mathbf { H } > \\mathbf { L A } > \\mathbf { D } > \\mathbf { L S I } > \\mathbf { L L } > \\mathbf { L W } > \\mathbf { T W } > \\mathbf { S L } > \\mathbf { S W }$ ，相对极差的变化规律与变异系数基本一致。总的来看，种子表型性状的变异系数和相对极差均值为 $4 . 1 8 \\%$ 和 $2 7 . 8 8 \\%$ ，分别比植株表型性状的变异系数和相对极差均值低了 $7 7 . 2 0 \\%$ 和 $71 . 3 4 \\%$ ，说明苦豆子种子性状相对于植株性状较为稳定，其中种宽（ $C V 4 . 1 8 \\%$ ， $R ^ { \\prime } 1 7 . 5 9 \\%$ ）、种长（ $C V 4 . 1 9 \\%$ ， $R ^ { \\prime } 1 8 . 2 3 \\%$ ）的变异程度相对较小，而生物量（ $C V 3 1 . 4 1 \\%$ ， $R ^ { \\prime } 1 2 3 . 3 6 \\%$ 、苗高（ $C V 2 3 . 0 2 \\%$ ， $R ^ { \\prime } 1 5 5 . 1 2 \\%$ ）和叶面积（ $C V 2 0 . 8 1 \\%$ ， $R ^ { \\prime } 1 0 8 . 3 3 \\%$ ）的变异程度相对较大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从方差分量来看，10个表型性状的种源间方差分量占总变异的比重较大，种源内方差分量占总变异的比重较小。各种源表型分化系数均高于 $70 \\%$ ，而种子各表型性状的分化系数均值高达 $9 7 . 5 5 \\%$ ，同时植株性状的表型分化系数均值也达到了 $8 4 . 7 8 \\%$ ，其中最小为D的表型分化系数也达到了 $7 0 . 0 6 \\%$ ，说明苦豆子种源间的表型多样性特别是种子表型多样性远高于同一种源内的表型多样性，各表型性状的多样性主要来源于不同种源间的表型变异。此外，种子性状的表型分化系数均值比植株性状的表型分化系数均值高 $1 5 . 0 7 \\%$ ，这在一定程度上体现了表型多样性构成中的环境异质性因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/74c7f4d0bdde34016dfd4b36b19cfb995d0c93c59a58e672efd97c83667e87a7.jpg",
+        "table_caption": [
+            "表4苦豆子表型性状变异系数、离散系数及分化系数",
+            "Table 4 CV and $R ^ { \\prime }$ and $V _ { s t }$ from morphological data of Sophora alopecuroides "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">表型性状 来源</td><td rowspan=\"2\">表型性状</td><td rowspan=\"2\">变异 系数</td><td rowspan=\"2\">相对 极差 R'(%)</td><td colspan=\"2\">方差分量 Variance portion</td><td rowspan=\"2\">表型分化 系数 Vst (%)</td></tr><tr><td>种源间</td><td>种源内</td></tr><tr><td rowspan=\"4\">Trait sources 种源地种子 Seeds of</td><td>Phenotypic trait</td><td>CV(%)</td><td>18.23</td><td>Among sources 0.3293</td><td>Within sources</td><td></td></tr><tr><td>SL</td><td>4.19</td><td>17.59</td><td>0.1750</td><td>0.0006 0.0003</td><td>99.82</td></tr><tr><td>SW TW</td><td>4.18</td><td>47.82</td><td>16.6354</td><td></td><td>99.82</td></tr><tr><td>平均值Mean</td><td>7.35 5.24</td><td>27.88</td><td>5.7132</td><td>1.2496</td><td>93.01 97.55</td></tr><tr><td rowspan=\"8\">同质园植株 Homogeneous cultivation plant</td><td></td><td>31.41</td><td>123.36</td><td>81.0625</td><td>0.4168 25.1515</td><td>76.32</td></tr><tr><td>B H</td><td>23.03</td><td>155.12</td><td>703.2275</td><td></td><td>88.97</td></tr><tr><td>D</td><td>15.86</td><td>100.87</td><td>1.3175</td><td>87.1743 0.5628</td><td>70.07</td></tr><tr><td>LL</td><td>12.37</td><td>57.53</td><td>0.4766</td><td>0.0486</td><td>90.75</td></tr><tr><td>LW</td><td>11.67</td><td>60.01</td><td>0.0652</td><td>0.0077</td><td>89.46</td></tr><tr><td>LA</td><td>20.81</td><td>108.33</td><td>0.8694</td><td>0.0768</td><td>91.89</td></tr><tr><td>LSI</td><td>13.25</td><td>75.75</td><td>0.4285</td><td>0.0699</td><td>85.98</td></tr><tr><td>平均值Mean</td><td>18.34</td><td>97.281</td><td>112.4925</td><td>16.1559</td><td>84.78</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3苦豆子表型性状的相关性分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为研究种子表型性状与植株表型性状之间的相关性，利用 SPSS 软件对调查的3个种子性状及7个植株性状进行了相关性分析，结果表明，种子表型性状TW、SL和 SW两两间互为极显著正相关性（ $\\mathbf { \\widetilde { P } < } 0 . 0 1$ )；叶片的表型性状LL、LW和LA两两间也都呈极显著正相关性，而LSI只与LL极显著正相关，与其他叶表型性状相关性不显著；生长类指标中，只有B 和D存在极显著正相关性，相关系数为0.616，说明生物量的积累受地径指标的影响较大，即地径大的植株生物量水平也相应较高，而苗高则与其他表型性状之间的相关性均不显著（表4)。此外，种子和植株的表型性状间也存在相关性：植株性状LL、LA分别与种子性状TW、SL 和 SW呈显著负相关性（ $\\scriptstyle \\mathbf { \\tilde { P } } < 0 . 0 5 ,$ )。可以看出，调查的种源苦豆子种子、叶及生长指标各表型性状内部存在较大的相关性，而种子和叶的表型性状之间也存在较为复杂的相关性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/66727b56ca1588104a6770920e3a75738517971ca1865dc216047f3827c3a7d4.jpg",
+        "table_caption": [
+            "Table 5 Correlative coefficient of phenotypic traits "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>表型性状 Phenotypic trait</td><td>H</td><td>D</td><td>B</td><td>LL</td><td>LW</td><td>LA</td><td>LSI</td><td>SL</td><td>SW</td><td>TW</td></tr><tr><td>H</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D</td><td>0.391</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B</td><td>0.374</td><td>0.616**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LL</td><td>-0.185</td><td>-0.025</td><td>0.028</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LW</td><td>-0.410</td><td>-0.091</td><td>-0.161</td><td>0.534**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LA</td><td>-0.362</td><td>-0.118</td><td>-0.118</td><td>0.861**</td><td>0.886**</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>LSI</td><td>0.209</td><td>0.077</td><td>0.177</td><td>0.562**</td><td>-0.396</td><td>0.070</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>SL</td><td>0.303</td><td>0.097</td><td>0.076</td><td>-0.473*</td><td>-0.370</td><td>-0.473*</td><td>-0.151</td><td>1.000</td><td></td><td></td></tr><tr><td>Sw</td><td>0.334</td><td>0.116</td><td>0.158</td><td>-0.472*</td><td>-0.404</td><td>-0.495*</td><td>-0.122</td><td>0.987**</td><td>1.000</td><td></td></tr><tr><td>TW</td><td>0.273</td><td>-0.015</td><td>-0.018</td><td>-0.456*</td><td>-0.344</td><td>-0.448*</td><td>-0.165</td><td>0.936**</td><td>0.952**</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4苦豆子表型性状主成分分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4.1各种源表型性状主成分分析及综合得分排序",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为综合评定苦豆子种源及其表型性状，研究对种子和植株的各表型性状进行了主成分分析。由表5可知，前4个主成分的方差贡献率达 $89 . 9 5 0 \\%$ ，代表了苦豆子23个种源10个表型性状的大部分信息。表型性状第一主成分的特征向量中，贡献率达 $4 3 . 0 9 7 \\%$ ，载荷较高的表型性状是千粒重、种子长和种子宽，可以看作是反映苦豆子种子各表型性状的综合性状；第二主成分贡献率为 $2 0 . 5 7 6 \\%$ ，载荷较高的表型性状是生物量、地径、叶形指数和苗高，可以看作是反映苦豆子植株生长水平的综合性状；第三主成分载荷较高的表型性状是叶宽、叶面积和叶长，可以看作是反映苦豆子叶片各表型性状的综合性状；第四主成分载荷较高的表型性状叶形指数、叶长和千粒重，可以认为是反映苦豆子叶形指数水平的综合性状。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/363761b647a686ec61daaac13269a204c26c72cdf04d4d82a1656761889fe6f4.jpg",
+        "table_caption": [
+            "表510个表型性状的相关性",
+            "表6苦豆子表型性状的主成分分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">表型性状 Phenotypic trait</td><td colspan=\"4\">主成分</td></tr><tr><td></td><td>Principal components</td><td></td><td></td></tr><tr><td></td><td>PC1</td><td>PC2</td><td>PC3</td><td>PC4</td></tr><tr><td>H</td><td>0.239</td><td>0.389</td><td>0.040</td><td>0.004</td></tr><tr><td>D</td><td>0.097</td><td>0.474</td><td>0.260</td><td>-0.404</td></tr><tr><td>B LL</td><td>0.097</td><td>0.513</td><td>0.231</td><td>-0.284</td></tr><tr><td>LW</td><td>-0.359</td><td>0.216</td><td>0.315</td><td>0.411</td></tr><tr><td>LA</td><td>-0.336</td><td>-0.217</td><td>0.504</td><td>-0.203</td></tr><tr><td>LSI</td><td>-0.397</td><td>-0.037</td><td>0.460</td><td>0.130</td></tr><tr><td>SL</td><td>-0.062</td><td>0.450</td><td>-0.151</td><td>0.642</td></tr><tr><td>SW</td><td>0.418</td><td>-0.131</td><td>0.327</td><td>0.174</td></tr><tr><td></td><td>0.428</td><td>-0.092</td><td>0.326</td><td>0.170</td></tr><tr><td>TW 特征值Eigenvalue</td><td>0.402 4.308</td><td>-0.191 2.059</td><td>0.303 1.377</td><td>0.226 1.251</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 6 PCA of phenotypic traits in different geographical regions of Sophora alopecuroides ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/32799e240dc859c48e9bbdea211fb7179ccfc2ebb5fcdf492b95c9eee22c9715.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注： $\\mathrm { P C l } \\sim 4$ 为主成分特征向量，即主成分系数。 Note: $\\mathrm { P C l } { \\sim } 4$ means principal component coefficient. "
+        ],
+        "table_body": "<html><body><table><tr><td>贡献率Contributionrate（%）</td><td>43.097</td><td>20.576</td><td>13.768</td><td>12.509</td></tr><tr><td>累计贡献率 Cumulative contribution rate（%）</td><td>43.097</td><td>63.673</td><td>77.441</td><td>89.950</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4.2主成分得分及聚类分析 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于苦豆子全株及种子均富含生物碱类等可利用有效成分，且各部分有效成分种类及含量都不同（李春英，2009)，因此认为实验调查的10项表型性状除叶形指数（主成分分析前已将该指标正向化处理）外其余均为正向指标，即在不考虑性状间相关性的前提下认为每项性状指标值越大的苦豆子表型性状越优。将各表型性状原数据标准化后代入主成分表达式，得到种源各主成分得分值，以各主成分的方差贡献率为权重，将得分带入主成分综合得分总表达式：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { F _ { \\scriptscriptstyle \\perp } } \\mathrm { = } 0 . 4 2 9 \\mathrm { F } 1 + 0 . 2 2 9 \\mathrm { F } 2 + 0 . 1 5 3 \\mathrm { F } 3 + 0 . 1 3 9 \\mathrm { F } 4$ （注：F1～F4为各主成分得分）计算苦豆子种源各自的综合得分值，对各主成分及综合得分并进行排序，结果如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b91697167dd3df4c740288afaa451f4625f26caeb6d6b9824342473fae8ae47b.jpg",
+        "table_caption": [
+            "表7苦豆子表型性状主成分综合得分值及其排序与聚类",
+            "Table 7 Ranking and clustering of integrated principal component scores for phenotypic traits of Sophora alopecuroides "
+        ],
+        "table_footnote": [
+            "注： ${ \\mathrm { F } } 1 { \\sim } { \\mathrm { F } } 4$ 为各主成分得分。 Note: ${ \\mathrm { F } } 1 { \\sim } { \\mathrm { F } } 4$ means principal component scores. "
+        ],
+        "table_body": "<html><body><table><tr><td>种源 Sources</td><td>F1</td><td>排序 Rank</td><td>F2</td><td>排序 Rank</td><td>F3</td><td>排序 Rank</td><td>F4</td><td>排序 Rank</td><td>F</td><td>综合排序 Rank</td><td>聚类 Clustering</td></tr><tr><td>ETK</td><td>3.149</td><td>1</td><td>1.444</td><td>6</td><td>0.562</td><td>7</td><td>-0.652</td><td>16</td><td>1.834</td><td>1</td><td>4</td></tr><tr><td>YN</td><td>2.035</td><td>5</td><td>2.428</td><td>2</td><td>-0.460</td><td>16</td><td>-0.182</td><td>12</td><td>1.435</td><td>2</td><td>4</td></tr><tr><td>DK</td><td>0.433</td><td>10</td><td>1.745</td><td>4</td><td>1.427</td><td>3</td><td>1.888</td><td>2</td><td>1.088</td><td>3</td><td>1</td></tr><tr><td>GJC</td><td>2.391</td><td>3</td><td>-1.462</td><td>19</td><td>0.857</td><td>6</td><td>-0.387</td><td>14</td><td>0.888</td><td>4</td><td>1</td></tr><tr><td>JY</td><td>1.742</td><td>6</td><td>0.445</td><td>9</td><td>0.428</td><td>8</td><td>-0.919</td><td>19</td><td>0.874</td><td>5</td><td>1</td></tr><tr><td>GMQ</td><td>2.040</td><td>4</td><td>-1.168</td><td>18</td><td>-0.234</td><td>13</td><td>1.379</td><td>4</td><td>0.866</td><td>6</td><td>1</td></tr><tr><td>SM</td><td>2.698</td><td>2</td><td>-1.476</td><td>20</td><td>-0.727</td><td>18</td><td>-0.687</td><td>17</td><td>0.747</td><td>7</td><td>1</td></tr><tr><td>WY</td><td>1.592</td><td>7</td><td>0.187</td><td>10</td><td>-0.349</td><td>15</td><td>-1.312</td><td>21</td><td>0.570</td><td>8</td><td>1</td></tr><tr><td>WH</td><td>0.211</td><td>12</td><td>0.609</td><td>7</td><td>-0.752</td><td>19</td><td>2.229</td><td>1</td><td>0.435</td><td>9</td><td>1</td></tr><tr><td>SPT</td><td>0.248</td><td>11</td><td>0.528</td><td>8</td><td>0.222</td><td>12</td><td>-1.164</td><td>20</td><td>0.112</td><td>10</td><td>6</td></tr><tr><td>PL</td><td>-0.165</td><td>15</td><td>-0.374</td><td>13</td><td>1.416</td><td>4</td><td>0.306</td><td>10</td><td>0.094</td><td>11</td><td>6</td></tr><tr><td>LT</td><td>-0.714</td><td>16</td><td>2.262</td><td>3</td><td>0.309</td><td>10</td><td>-1.513</td><td>22</td><td>0.013</td><td>12</td><td>6</td></tr><tr><td>YC</td><td>1.062</td><td>8</td><td>-1.958</td><td>23</td><td>-0.725</td><td>17</td><td>0.167</td><td>11</td><td>-0.027</td><td>13</td><td>6</td></tr><tr><td>AWT</td><td>-1.009</td><td>17</td><td>1.709</td><td>5</td><td>-1.243</td><td>21</td><td>1.519</td><td>3</td><td>-0.071</td><td>14</td><td>6</td></tr><tr><td>JYN</td><td>-0.028</td><td>13</td><td>-1.145</td><td>17</td><td>0.253</td><td>11</td><td>0.685</td><td>6</td><td>-0.142</td><td>15</td><td>6</td></tr><tr><td>XY</td><td>-0.102</td><td>14</td><td>-1.626</td><td>21</td><td>2.054</td><td>1</td><td>-0.530</td><td>15</td><td>-0.180</td><td>16</td><td>6</td></tr><tr><td>DQW</td><td>-1.927</td><td>20</td><td>2.468</td><td>1</td><td>-0.860</td><td>20</td><td>0.365</td><td>9</td><td>-0.439</td><td>17</td><td>3</td></tr><tr><td>AZQ</td><td>0.756</td><td>9</td><td>-1.823</td><td>22</td><td>-3.146</td><td>23</td><td>0.674</td><td>7</td><td>-0.443</td><td>18</td><td>3</td></tr><tr><td>HSB</td><td>-1.479</td><td>19</td><td>-0.755</td><td>14</td><td>1.451</td><td>2</td><td>0.715</td><td>5</td><td>-0.560</td><td>19</td><td>3</td></tr><tr><td>XX</td><td>-1.103</td><td>18</td><td>-0.040</td><td>11</td><td>0.417</td><td>9</td><td>-0.756</td><td>18</td><td>-0.579</td><td>20</td><td>3</td></tr><tr><td>BC</td><td>-4.128</td><td>22</td><td>-0.838</td><td>15</td><td>1.056</td><td>5</td><td>0.513</td><td>8</td><td>-1.936</td><td>21</td><td>5</td></tr><tr><td>BT</td><td>-3.294</td><td>21</td><td>-0.142</td><td>12</td><td>-1.716</td><td>22</td><td>-2.155</td><td>23</td><td>-2.172</td><td>22</td><td>2</td></tr><tr><td>TC</td><td>-4.408</td><td>23</td><td>-1.019</td><td>16</td><td>-0.242</td><td>14</td><td>-0.183</td><td>13</td><td>-2.407</td><td>23</td><td>2</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从各样地综合得分值可以看出，排名前9的样地分别为ETK、YN、DK、GJC、JY、GMQ、SM、WY 和WH，这9个种源的各主成分排名也均靠前，其中种源ETK 和YN 被聚为一类，其余7个种源为另一类（表7），结合其他各主成分分值排名来看，各主成分排名表现出一定的地域特征：新疆的8个种源的第一主成分排名较靠后，说明新疆的种源千粒重、种长、宽等种子表型性状表现较差；第二主成分排名前10位的种源中，包含内蒙的5个种源，新疆的3个种源以及宁夏的2个种源，而甘肃和陕西的3种源排名均靠后，说明其生物量、地径等植株生长性状表现较差。此外，第三、第四主成分排名各省份种源分布较分散，说明苦豆子植株叶片的表型性状没有较明显的区域性分布特征。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1苦豆子表型多样性分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表型多样性是遗传多样性及环境多样性的综合体现（Nicotraetal.,2010)，不同种群的自然资源经过长期的自然选择后可能会形成较大的遗传变异从而导致相对稳定的表型变异特征（武艳虹等，2018），因此尽可能多的对遗传资源进行鉴定、筛选以及分析评价，对今后相应种质资源的改良、亲本选配及杂种优势利用等人工选择具有重要意义（范君华等，2016）。实验通过对采集的23个不同种源的野生苦豆子种子及其一年生植株的10个表型性状多样性的研究对比发现：各表型性状的种源苦豆子差异极显著（ $_ { . } { \\cal P } { < } 0 . 0 1 \\$ )，说明苦豆子遗传多样性较为丰富。其中，种子长、宽、千粒重等表型性状的变异较为丰富，这与阳翠等(2010)的研究结果一致。通过对种子性状及其采集地地理因子进行相关性分析发现，种长、千粒重与地理因子中的经度、海拔和纬度呈极显著相关性，说明种子表型性状多样性中环境多样性的构成因素较大。进一步对比发现，苗高、生物量及叶面积等植株表型性状多样性水平更为丰富，将各种源苦豆子种子及植株的所有调查表型性状进行相关性及主成分分析后发现，二者的部分性状呈显著相关性，且体现了一定程度的地理隔离特征，因此可以推断苦豆子的表型多样性中也存在一定程度的遗传多样性构成因素，这是种群遗传多样性与环境异质性互作的自然选择结果，也是群体分化的来源（李军等，1998)。此外，方差分析也表明，苦豆子各表型性状的表型分化系数均较大（超过 $70 \\%$ )，表明不同种源苦豆子的种子及植株各表型性状多样性主要存在于种源间，这反映的是地理或生殖隔离上的变异，变异程度越高，适应的环境越广（胡盼等，2015)，说明苦豆子对不同环境的适应性较为广泛，种质资源遗传多样性较为丰富。总的来看，苦豆子各表型性状的多样性水平较高，且种源间多样性远大于种源内，表型变异丰富，这就为苦豆子进一步的人工选择育种提供了较丰富的种质资源和遗传基础（郭松等，2018）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2苦豆子表型多样性综合评价",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "苦豆子的全身都具有开发利用价值，目前较为成熟的模式是对其种子进行有效成分的提取及直接性药物利用，使用其生长高峰期的整个植株提取生物碱等有效成分的粗浅化工工艺也有少量报道（高晓原等，2009；于蕾等，2015)。随着苦豆子开发利用的进一步深入，对其种质资源的研究应随之拓宽。实验通过苦豆子种子、叶片及生长指标类表型性状对其进行了遗传多样性分析，研究发现苦豆子各表型性状变异丰富。同时，为综合评定各种源苦豆子表型性状的遗传多样性及其表现，实验对供试的23个种源进行主成分分析及综合评分，结果可以看出，种源采集的5个省份中，内蒙6个种源除了AZQ外，其余5个种源的第一、二主成分及综合评分均靠前；宁夏的6种源中YN 和SPT的第二主成分及综合排名靠前；甘肃和陕西的3个种源的第一主成分及主成分综合评分较高，但体现其生物量等生长指标的第二主成分排名则靠后；新疆的LT、AWT和DQW3个种源的第二主成分排名靠前，但综合排名靠后。聚类分析显示，主成分分析综合评分前九的种源被分为了两类，结合可以体现苦豆子植株整体生长水平的第二主成分排名，得到了表现较优的内蒙DK、JY、WY、WH这4个分类为1的种源以及内蒙ETK和宁夏YN这2个分类为4的种源，为苦豆子种质资源定向开发及选育、栽培提供了一定的理论支持和基础材料。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此外，进一步研究这6个种源地及其表型性状后发现：种源 ETK综合评分第一可能是由于栽培同质园就设立于该种源采集地，乡土种适应性强的结果；而其他的5个种源地宁夏银川永宁县、内蒙乌海市、内蒙磴口县、内蒙五原县、内蒙包头九原区则依次沿黄河流域沿岸分布，因此考虑这5个地区的苦豆子可能是同一种源沿黄河流域依次传播分布而至，该推测是否合理还有待于该实验分子水平研究的深入探讨。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "YANG Y, LIU BR, 2Ol3.Research progress on plant characteristics and resource utilization ofSophora alopecuroides[J].Guizhou Agric Sci,(12): 4-9.[杨阳，刘秉儒，2013．苦豆子植物特性及资源化利用研究进展［J]．贵州农业科学，（12)：4-9.]ZHAO LF, DENG ZS, YANG WQ，et al.， 2010. Diverse rhizobia associated with Sophoraalopecuroides grown in different regions of Loess Plateau in China[J]. Syst Appl Microbiol,",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "33(8): 468-477.  \nGAO L,FU G,FU M, 2017. Comprehensive Utilization on Agriculture of Sophora alopecurides L.and Its Biological Products[J].Mod Agric Sci Technol,(24):49-50.[高亮，伏国，伏民，2017.苦豆子及其生物制品在农业上的综合应用[J]．现代农业科技，（24)：49-50.]  \nLEE ST, COOK D, MOLYNEUX RJ, et al., 2013. The alkaloid profiles of Sophora nuttallianaand Sophora stenophylla[J]. Biochem Syst Ecol, 48(2): 58-64.  \nZHOU FS,MU Q，2006. Chemical constituents and pharmacological activities of Sophoraalopecuroides L.[J].Chin Wild Plant Resour,25(4): 1-3.[周福生，穆青，2006．野生植物苦豆子的化学成分和主要药理作用[J].中国野生植物资源，25（4)：1-3.]  \nGAO Y, ZHOU XC, SUN MD,et al., 2016. Diversity and ecological distribution of endophyticfungi of Sophora alopecuroides L. from Baijitan Nature Reserve of Ningxia[J]. Acta Agresti Sin,24(6):1309-1317．［高媛，周星辰，孙牧笛，等，2016．宁夏白芨滩国家级自然保护区苦豆子内生真菌多样性及生态分布［J]．草地学报，24（6)：1309-1317.]  \nLIN TX, ZHAO LF, YANG YZ, et al.， 2013.Potential of endophytic bacteria isolated fromSophora alopecuroides nodule in biological control against Verticillium wilt disease[J]. Aust JCrop Sci, 7(1): 139-146.  \nZHAO LF， XU YJ, MA ZQ， et al.， 2013.Colonization and plant growth promotingcharacterization of endophytic Pseudomonas chlororaphis strain Zongl isolated from Sophoraalopecuroides root nodules[J]. Braz JMicrobiol, 44(2): 623-631.  \nHU P,ZHONG CL， ZHANG Y, et al.， 2015. Variation analysis on morphological traits ofCasuarina equisetifolia at seedling stage from different regions[J]. Acta Bot Bor-Occid Sin,35(5):1013-1020.[胡盼，仲崇禄，张勇，等，2015．短枝木麻黄种群苗期表型多样性评价[J]．西北植物学报，35（5)：1013-1020.]  \nNICOTRA AB, ATKIN OK, BONSER SP, et al., 2010. Plant phenotypic plasticity in a changingclimate[J]. Trends Plant Sci,15(12): 684-692.  \nPFENNING DW, WUND MA, SNELL-ROOD EC, et al. 2010. Phenotypic plasticity's impactson diversification and speciation[J]. Trends Ecol Evol, 25(8): 459-467.  \nHAO L， ZHANG GS, MU XY, et al.， 2017. Phenotypic diversity of salix psammophilapopulations in germplasm resources[J]. Acta Bot Bor-Occid Sin,37(5): 1012-1021.[郝蕾，张国盛，穆喜云，等，2017．北沙柳种质资源居群表型多样性[J]．西北植物学报，37（5)：1012-1021. ]  \nYANG JL，REN M, CAO YH, et al.，2018.Phenotypic varieties of several Dahongpao inZanthoxylum bungeanum with different provenances[J]. Nonwood Forest Res, 36(3): 32-37.[杨建雷，任苗，曹永红，等，2018．几个不同种源大红袍花椒表型多样性研究［J]．经济林研究，36（3)：32-37.]  \nZHANG TJ, CHEN XH, KANG XK, et al., 2019. Phenotypic diversity of leaf morphologic traitsof Davidia involucrata natural populations in Sichuan Province[J]. Chin J Ecol, 38(1): 35-43.[张腾驹，陈小红，康喜坤，等，2019．四川省珙桐天然种群叶表型多样性[J]．生态学杂志，38（1)：35-43.]  \nLIU H, MA QG, ZHANG JY, et al., 2019. Phenotypic diversities of nuts of walnut populationsoriginated from seedlings in liangshan prefecture[J]. Forest Res,30(5): 771-778.[刘昊，马庆国，张继勇，等，2017．凉山州核桃坚果表型多样性研究[J]．林业科学研究，30（5)：771-778.]  \nLIU JQ，YIN MY, ZUO SY, et al.， 2019. Phenotypic variations in natural populations ofAmygdalus pedunculata[J]. Chin JPlant Ecol,41(10): 1091-1102.[柳江群，尹明宇，左丝雨，等，2017．长柄扁桃天然种群表型变异[J]．植物生态学报，41（10)：1091-1102.]  \nWU J, ZHONG ZZ, LOU J, et al., 2019.A Study on phenotypic diversity of cone and seed innatural populations of Toona sinensis [J]. Acta Agric Univ Jiangxiensis, 40(2): 248-256.[吴军,钟志真，楼君，等，2018．香椿天然群体种实性状表型多样性研究[J]．江西农业大学学报，40（2)：248-256.]  \nLI YS,LU L,LU T, et al., 2017. Study on phenotypic diversity of Taraxacum kok-saghyz and itssympatric relative species[J].Acta Bot Bor-Occid Sin,37(6):1205-1215.[李英霜,陆璐,陆婷,等，2017．橡胶草及其同域近缘种表型多样性研究［J]．西北植物学报，37（6）：1205-1215.]  \nLI AM,LV ML, ZHOU CM, 2018.Phenotypic diversity analysis of leaf traits in cultivatedHouttynia cordata Thunb. populations from Hunan Province[J]. Plant Sci J, 36(1): 73-85.[李爱民，吕敏丽，周春鸣,2018．同质园栽培下的湖南鱼腥草居群叶表型性状多样性分析［J].植物科学学报，36（1)：73-85.]  \nGUO S,LI ZL，XUE JH, et al.， 2018.Diversity analysis and comprehensive evaluation onphenotypic traits of fruit and seed of Handeliodendron bodinieri from different provenances[J].JPlant Resour Environ,27(4):13-22.[郭松，李在留，薛建辉，等，2018．不同种源掌叶木果实和种子表型性状多样性分析及综合评价[J]．植物资源与环境学报，27（4)：13-22.]  \nWU YH,FAN ZL,LI J, et al.,2018.Phenotypic diversity of seeds and fruits in natural populationsof Acer ginnala in China[J].Guihaia,38(6):795-803.[武艳虹，樊泽璐，李佳，等，2018．茶条槭自然种群种子和果实表型多样性研究[J]．广西植物，38（6)：795-803.]  \nYANG C, YANG F, MA HW, et al., 2010. Distribution and morphological variation of germplasmresource of Sophora alopecuroides[J]. Chin JChin Mat Med,35(7): 817． [阳翠，杨飞，马宏玮，等，2010．苦豆子种质资源调查及种子生物学特性研究［J].中国中药杂志，35（7)：817.]  \nSULTAN SE, 1995.Phenotypic plasticity and plant adaptation[J]. Plant Biology, 44(4): 363-383.  \nZHAGN WZ, DONG SY, QI XX, et al., 2016. The Identification and Location of SugarcaneInternode Based on Image Processing[J].JAgric Mech Res,(4): 217-221.[张卫正，董寿银,齐晓祥，裘正军，等，2016．基于图像处理的甘蔗茎节识别与定位[J]．农机化研究，（4)：217-221.]  \nSU YX, ZHANG X, WANG WL, et al., 2017. Phenotypic diversity of Rhododendron rubiginosumpopulations at different altitudes[J].Acta Bot Bor-Occid Sin,37(2): 356-362.[苏应雄，张雪,王文礼，等，2017．红棕杜鹃不同海拔种群的表型多样性研究[J]．西北植物学报，37（2)：356-362.]  \nLI CY,HU YQ,2009. Distribution of Alkaloid Different Organ and Changes of Its Contents inDifferent Growth Phases of Sophora alopecuroides L.[J]. JPlant Physiol, 45(9): 910-912. [李春英，胡永强，2009．苦豆子中生物碱的分布及其在生长期内的含量变化［J]．植物生理学报，45（9)：910-912.]  \nFAN JH,LIU M, WU QZ, et al.， 2016. Principal component and cluster analysis of leafphysiological traits of 52 Helianthus tuberosus germplasm resources in southern Xinjiang[J]. JAgric,6(1):66-72.[范君华，刘明，吴全忠，等，2016．南疆引进的 52 份菊芋品种资源叶片生理性状主成分和聚类分析［J]．农学学报6（1)：66-72.]  \nYU L, ZHAGN LF,DONG F, et al., 2015. The advances in research of main alkaloids in Sophoraalopecuraides L. and its pharmacological activity[J]. JBeijing Un Univ, 29(2): 61-66.[于蕾,张连芳，东方，等，2015．苦豆子中主要生物碱药理作用的研究进展[J]．北京联合大学学报 29（2)：61-66.]  \nLI J, QIAN B, ZHENG S, et al.,1998. Genetic diversity at isozyme level in seed bank of Glycinesoja—A preliminary study[J]. Chin JApp Ecol,9(2): 145-149.[李军，钱波，郑师，等，1998.野生大豆种子库中同工酶水平上的遗传多样性的初步研究[J]．应用生态学报，9（2)：145-149.]  \nGAO XY,BEI ZL,LEI X, et al., 2009. Sophora alopecuroides L. resources in Ningxia and itscomprehensive utilization[J].Chin Wild Plant Res,28(2):17-20.[高晓原，贝盏临，雷茜，等,2009．宁夏苦豆子资源基本情况及综合开发现状［J]．中国野生植物资源 28（2)：17-20.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

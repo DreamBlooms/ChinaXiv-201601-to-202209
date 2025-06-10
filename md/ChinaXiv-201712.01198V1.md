@@ -1,0 +1,162 @@
+技术方法
+
+# 旋转通气培养法建立小鼠睾丸体外培养模型
+
+刘艺1,5,朱彦锋1,²,高志斌1,,李敏14,钟灵毓1,5,印德娇1,5，李云1,5  
+1四川大学华西公共卫生学院营养食品卫生与毒理学系,四川 成都 610041;成都医学院公共卫生系,四川 成都 610500;卫生局卫生监督所,上海 浦东 200120；泸州医学院附属医院营养科,四川 泸州 646000;食品安全监测与风险评估四川省重点实验室，四川成都610041
+
+摘要：目的通过探索适宜的培养条件,建立小鼠睾丸器官培养模型。方法 利用旋转通气培养法在体外培养睾丸，优化培养条件,并与Transwell小室培养法进行形态学比较。HE染色观察睾丸组织结构的变化,BrdU染色法观察睾丸在体外的细胞增殖，放射免疫法观察体外培养睾丸的睾酮分泌能力，免疫组化法观察辜丸中功能蛋白的表达。结果通过培养结局的对比，旋转通气培养法培养的睾丸组织形态更完整。睾丸大小以 $0 . 3 { \sim } 0 . 8 \ \mathrm { m m } ^ { 3 }$ 为宜。各组精原细胞增殖指数呈上升趋势,Sertoli细胞增殖指数呈下降趋势：3d组精原细胞增殖指数的增加与1d组相比有统计学差异 $\cdot P { < } 0 . 0 5 ) , 5 \mathrm { d }$ 组Sertoli细胞增殖指数的减小与1d组相比有统计学差异 $( P { < } 0 . 0 5 )$ 。睾酮分泌量随培养天数的增加而减少且差异均有统计学意义 $( P { < } 0 . 0 5 )$ 。培养3d后，Leydig细胞胞浆内可见3β-羟基类固醇脱氢酶(3β-HSD）、细胞色素P45017α羟化酶(P450c17）、胆固醇侧链裂解酶（ $\mathrm { \cdot P 4 5 0 S c c }$ )蛋白的表达，Sertoli细胞胞浆内可见波形蛋白(Vimentin)表达。结论 利用旋转通气培养法成功建立睾丸器官体外培养的模型。
+
+关键词：睾丸；器官培养;睾酮;细胞增殖;免疫组化
+
+# Establishment of a rotary aerobic culture system for in vitro culture of mouse testis
+
+LIU Yi 15, ZHU Yanfeng¹²,GAO Zhibin13,LIMin4, ZHONGLingyu5,YINDejiaol5,LI Yun1,5   
+DepartentofiddHgeestinlbcaltaityuat fPublicHaltdlledunalteulthoig departmentfaedialofudicallezo;rocialKyboooofey andRisk AssessmentofSichuan,Chengdu 61oo41,China
+
+Abstract: Objective To establish an in vitro model of cultured mouse testis using rotaryaerobic culture. Methods Rotary aerobic incubation withoptimized cultureconditions wasusedforinvitro cultureof mouse testis,andthe morphology of the cultured testiculartisues was compared with that cultured in Transwell chambers.The changes in the testicular tissue structure were examined using HEstaining，and thecell proliferation was assessed with BrdU staining. Testosterone concentrations in theculture medium were tested with radioimmunoassay and the expression of the functionally related proteins in the testis wasdetected using immunohistochemistry.Results The testicular tissecultured byoptimized rotary aerobic culture presented with more intact histological structure with the size of the testis ranged from 0.3 to $0 . 8 ~ \mathrm { m m } ^ { 3 }$ . In the twoculturesystems,theprolifeationindexof thespermatogoniaincreasedandthatofSertolicelsdecreasedwithtime,and such changes in spermatogonia and Sertoli cell proliferation indices became statistically significant at 3 days $_ { ( P < 0 . 0 5 ) }$ and 5 days $_ { ( P < 0 . 0 5 ) }$ of culture,respectively,as compared with those at1 day.The concentration of testoerone in the culture media decreased significantly with incubation time $( P { < } 0 . 0 5 )$ . At 3 days of culture, the protein expression of $3 \beta$ -hydroxysteroid dehydrogenase, cytochrome $\mathrm { P } 4 5 0 \ 1 7 \alpha$ -hydroxylase and cholesterol side-chain cleavage enzyme was detected in Leydig cell cytoplasm andvimentin expression in Sertolicellcytoplasm.ConclusionAn invitro modelofcultured mouse testis has ben successfully established using rotary aerobic incubation.
+
+Key words: testis; organ culture; testosterone; cell proliferation; immunohistochemistry
+
+近年来，外源性内分泌干扰物对男性生殖系统的影响越来越受到学界关注，相关研究主要以动物试验和体外研究为主。但随着"3R"理念的推广以及分子机制研究的需要，体外研究越来越受到青睐。目前国内外有关雄性生殖器官的体外研究日渐增多，以睾丸细胞培养和睾丸组织器官培养两种形式为主[1-2]。睾丸细胞培养主要包括对筛选出的各期生殖细胞、Sertoli细胞、Leydig细胞等的单独培养以及Sertoli细胞与生殖细胞的共培养[3-5]。但单一种类细胞的培养无法体现出细胞间的关联性，即使是共培养也仅是模拟Sertoli细胞的分泌产物对生殖细胞的作用，无法完整体现Sertoli细胞对生殖细胞的支持作用。此外，细胞培养无法在保持原组织形态的情况下对细胞进行原位观察，而辜丸器官培养能弥补细胞培养的不足。器官组织培养可避免体内复杂的生殖内分泌环境的干扰作用，更真实地反映外源内分泌干扰物对辜丸组织的影响，更适合于探索外源内分泌干扰物对新生儿和胎儿睾丸发育影响的研究[。国外的睾丸组织培养多采用Transwell小室培养法[5.7],但由于睾丸是附于通透膜上，上部与气相接触，下部与液相接触，极易因为组织迁移性造成扁平化生长，使组织三维结构遭到破坏，难以进行组织病理学检测，且Millicell插入式培养血体积小，要保证培养组织同时接触气相与液相需要精准控制培养基的量，增加了操作难度。由于小室体积小，小室内容纳的辜丸组织体积小并且数量有限，使得分泌到培养基中的睾酮含量低，影响睾酮测定。本研究拟在全胚胎及胚胎枝芽培养的基础上[8]，利用旋转通气培养法建立辜丸体外培养模型，该模型可以作为研究外源内分泌干扰物对生殖器官影响的体外模型，也可应用于发育生理学方面的研究[7]。
+
+# 1材料与方法
+
+# 1.1主要仪器与试剂
+
+DMEM高糖培养基、新生牛血清、青霉素、链霉素和HEPES液购自成都哈里生物公司;胰岛素、转铁蛋白和5-溴脱氧尿嘧啶核苷(BrdU)购自Sigma;谷氨酰胺和二甲基亚砜购自Amresco;抗-BrdU单克隆抗体(SantaCruz);BrdU检测试剂盒(IHC)(南京凯基);碘 $\left( { } ^ { 1 2 5 } \mathrm { { I } } \right)$ 1睾酮放射免疫分析药盒(天津协和医药);苏木素染色液（Solarbio）；抗 $3 \beta$ -HSD抗体（1:800），抗P450scc抗体(1:200)，抗 $\mathrm { P 4 5 0 c 1 7 }$ 抗体(1:200)，抗波形蛋白抗体(1:400)，免疫组化试剂盒(北京中杉金桥);Millicell悬挂式插入培养皿（Millipore），24孔培养板(Millipore);旋转培养装置[8（自制如图1)。
+
+![](images/fe908dd84c7ef89710139a29a4bb0d5e70710f36bb58acb2f37948771329a5b4.jpg)  
+图1旋转培养装置 Fig.1Photograph (A) and design (B) of the rotary cultivation device.
+
+# 1.2实验动物
+
+清洁级4\~5d龄昆明种健康雄性小鼠，由四川大学实验动物中心提供，动物合格证号SYXK（川）2009-045。
+
+# 1.3睾丸体外培养方法及试验分组
+
+将4\~5d龄KM种雄性小鼠室息处死后，无菌操作取出双侧睾丸，去除被膜，切分成4\~8块，体积约 $0 . 3 \sim$ $0 . 8 ~ \mathrm { m m } ^ { 3 }$ 。PBS漂洗后混合。将辜丸随机移入含有DMEM高糖培养基的培养瓶中，每瓶6\~7块。实验分为5组，每组分别培养1、2、3、4、5d,记为1\~5d组，每组3瓶。培养基中含 $10 \%$ 新生小牛血清 $. 1 \%$ 双抗(青霉素 $1 0 0 ~ \mathrm { U / m l }$ 链霉素 $1 0 0 ~ \mathrm { \mu g / m l }$ HEPES液 $\mathrm { ( 1 5 ~ m m o l / m l ) }$ 、生长因子(谷氨酰胺 $2 \mathrm { m m o l } / \mathrm { m l } \$ 胰岛素 $1 0 ~ \mathrm { \mu g / m l }$ 转铁蛋白 $5 ~ { \mu \mathrm { g } } / { \mathrm { m l } }$ ）$0 . 1 \mathrm { m o l / L }$ 碳酸氢钠 $2 0 \mu \mathrm { l _ { o } }$
+
+旋转通气培养法：培养瓶通入混合气体( $5 0 \% \mathrm { N } _ { 2 }$ $4 5 \% \mathrm { O } _ { 2 } , 5 \% \mathrm { C O } _ { 2 } ) 1 \ \mathrm { m i n }$ ，流量 $1 . 5 \mathrm { L } / \mathrm { m i n }$ ;将培养瓶封口后置于 $3 4 ~ \mathrm { { ^ { \circ } C } }$ 恒温培养箱中旋转培养，旋转速度 $3 0 ~ \mathrm { r / m i n }$ 每 $2 4 \mathrm { h }$ 更换培养基并重新通入混合气体。
+
+Transwell小室培养法：用于与旋转通气法组织形态进行对比。参考国外经验[5.7],同种方法处理获得小鼠睾丸碎片，睾丸碎片放入Millicell悬挂式插入培养皿中，培养皿放入24孔培养板，添加培养基至正好浸没组织。将培养板置于 $\mathrm { C O } _ { 2 }$ 恒温培养箱中， $3 4 ~ \mathrm { ^ { \circ } C }$ 培养， $5 \%$ $\mathrm { C O } _ { 2 }$ ，每 $2 4 \mathrm { h }$ 更换培养基。
+
+# 1.4观测指标及检测方法
+
+1.4.1HE染色培养结束后的睾丸经漂洗后用Bouin's液固定过夜后，依次梯度酒精脱水、石蜡包埋、常规切片、HE染色、脱水、透明树脂封片。光镜下观察
+
+1.4.2BrdU检测细胞增殖参照试剂盒使用说明，培养结束前 $3 \mathrm { ~ h ~ }$ 向培养瓶中加入 $3 0 ~ \mathrm { \mu g / m l }$ BrdU,培养结束后，辜丸组织经漂洗并在Bouin's液固定过夜后，梯度酒精脱水、常规石蜡包埋，切片。石蜡切片烤片后，用二甲苯脱蜡，梯度酒精水化;2NHC1孵育 $1 5 \ \mathrm { m i n } , 0 . 1 \ \mathrm { m o l / L }$ $\mathrm { N a _ { 2 } B _ { 4 } O _ { 7 } }$ 室温处理 $1 5 \ \mathrm { m i n } , 0 . 1 \%$ Trition-X100打孔， $3 \%$ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 } /$ 甲醇灭活 $1 0 ~ \mathrm { { m i n } }$ ，正常山羊血清工作液室温封闭1h后滴加抗-BrdU单克隆抗体 $( 1 : 1 0 0 ) , 4 \mathrm { ~ \textdegree C }$ 冰箱孵育过夜(用一抗稀释液代替一抗作阴性对照);次日，滴加生物素标记的通用型二抗室温孵育 $1 5 \mathrm { m i n }$ ，洗涤后滴加辣根过氧化物酶标记的链霉素卵白素工作液室温孵育$1 5 ~ \mathrm { m i n }$ ；DAB显色，苏木素复染，盐酸酒精分化，PBS液返蓝；常规脱水，透明，干燥，封片；显微镜下观察细胞形态及增殖情况。每组随机选取5张切片，每张切片1000倍下选取睾丸组织四角及中央部分的视野，视野内随机选择3处完整曲细精管，对曲细精管内的所有细胞分别计数，并对阳性细胞分别计数。按下列公式计算增殖指数：
+
+增殖指数 $\varXi$ 某细胞阳性细胞数/某细胞总数
+
+1.4.3 睾酮测定 睾丸培养过程中，每 $2 4 \mathrm { h }$ 更换培养基，收集每1d更换的培养液，通过放射免疫法检测培养液中的睾酮含量，以睾丸重量进行校正。放射免疫法由四川大学基础医学与法医学院同位素室测定。
+
+1.4.4免疫组化观察相关蛋白表达免疫组化法采用链霉菌抗生物素蛋白-过氧化物酶连结法(SP法),按说明书进行操作。 $5 \mu \mathrm { m }$ 厚的石蜡组织切片，以二甲苯脱蜡，酒精梯度水化， $0 . 0 1 \mathrm { m o l / L }$ 柠檬酸盐缓冲液微波加热修复抗原 $2 0 ~ \mathrm { m i n }$ 。经 $0 . 1 \%$ 的TritionX-100打孔， $3 \% \mathrm { H } _ { 2 } \mathrm { O } _ { 2 } /$ 甲醇灭活内源性过氧化物酶，正常羊血清封闭 $^ { \textrm { 1 h } }$ ，稀释一抗孵育 $4 ^ { \circ } \mathrm { C }$ 过夜，阴性对照用一抗稀释液代替一抗。切片滴加二抗 $1 5 \mathrm { m i n }$ ,链霉素标记HRP室温孵育 $1 5 \mathrm { m i n }$ DAB显色，苏木素染色，脱水，透明，封片，镜检。阴性对照用一抗稀释液代替一抗。
+
+# 1.5统计学处理
+
+睾酮和增殖指数的数据以均数 $\cdot \pm$ 标准差形式进行表示。实验结果采用单因素方差分析进行分析，组间两两比较采用Dunnett法，检验水准为 $0 . 0 5 , P { < } 0 . 0 5$ 说明差异具有统计学意义。
+
+# 2结果
+
+# 2.1 HE染色结果
+
+2.1.1旋转通气培养法培养72h后，睾丸组织结构正常，曲细精管结构完整，曲细精管内基底膜完整;精原细胞、Sertoli细胞排列正常,连接紧密,间质内可见Leydig细胞(图2A)；曲细精管内，精原细胞核为圆形或椭圆形，核内染色质呈细颗粒状或近核处有大的染色质块;Sertoli细胞细胞核呈椭圆形或三角形，位于曲细精管管壁上偏基膜侧，其细胞质位于精原细胞之间，不易分辨其细胞界限;Leydig细胞位于各曲细精管之间,细胞呈多角形或圆形,体积大，其细胞核呈圆形或椭圆形，符合正常辜丸组织细胞生长情况(图2B)。此时的培养体积约为 $0 . 3 { \sim } 0 . 8 \ \mathrm { m m } ^ { 3 }$ 左右。
+
+![](images/04d74659f0d2f541e4bf45604ee56c2a8a13128ccd5c0acd7d7f1234363cd3a7.jpg)  
+图2旋转通气培养法培养成功的辜丸形态学观察
+
+图3为培养失败的图片，由于体积过大(大于 $1 \mathrm { m m } ^ { 3 }$ ），组织中心出现坏死，组织结构紊乱，曲细精管结构模糊或消失;细胞排列杂乱,细胞形态异常，出现核固缩等现象。外围组织结构尚可，曲细精管清晰可辨，细胞形态正常。
+
+2.1.2Transwell小室培养法合适体积的辜丸组织经Transwell小室培养法培养 $7 2 \mathrm { ~ h ~ }$ 后，组织仍然存活。培养后的辜丸，部分地方组织结构仍然正常，曲细精管结构完整，基底膜正常；曲细精管内可见精原细胞和Sertoli细胞，排列正常，连接紧密，曲细精管之间可见Leydig细胞(图4A)，但组织三维结构异常，通常呈现扁平化，多数部位曲细精管结构紊乱，精原细胞和Sertoli细胞形态发生变化(图4B)，此外，与旋转通气培养法相比，相同体积下的睾丸组织经小室培养法培养后，除了呈现出形态扁平状外，组织内还出现大量异常细胞，如调亡细胞(图5B)，说明组织生长状况不好不适合做免疫组化等原位检测，故我们选用生长更好，更能维持组织形态完整的旋转通气培养法培养的组织进行增殖及睾酮分泌等的研究。
+
+![](images/0818f3d31c9f46f366b9d64e2c558d20b472e5e19e3013a5bba7cd6908974b7b.jpg)  
+Fig.2Morphology of the testicular tissues successfully cultured by rotary aerobic incubation (HE staining, $A$ ：originalmagnification: $\times 4 0 0$ B:original magnification: $\times 1 0 0 0$ ）   
+图3旋转通气法培养失败的睾丸形态学观察 Fig.3Morphology of the testis failed to be cultured by rotary aerobic incubation (HE staining, original magnification: $\times 2 0 0$ ）
+
+# 2.2 睾丸中细胞的增殖情况分析
+
+为了观察旋转通气培养法培养的辜丸组织的细胞增殖能力，我们用该方法进行了连续5d的器官培养。经旋转通气培养法体外培养5d后的小鼠辜丸内仍然可以观察到抗-BrdU阳性细胞。图6所示，培养至第5天时，依然有许多染成棕色的细胞，精原细胞、Sertoli细胞和Leydig细胞均有增殖，说明辜丸组织细胞增殖情况良好。
+
+![](images/038f967066eb70de57dac814e8956d76962d0f0d57533ddcc2981f85f2ecb197.jpg)  
+图4小室培养法培养的睾丸形态学观察 Fig.4Testis morphology cultured by Transwell chamber method (HE staining,A: $\times 1 0 0 0$ B: $\times 1 0 0$ ）
+
+![](images/f1d7c75e9e13f57a6d197ac2255b2de54928756dfacadf7c5aaf407b0b7b7dc4.jpg)  
+图5旋转通气法(A)与小室培养法 $\left( B \right)$ 培养的辜丸形态学观察
+
+![](images/d52031afbce11f6ee6e7725c8fe8564c8c23711674b60699ac909009d5804aa9.jpg)  
+Fig.5 Testis morphology cultured by rotary aerobic incubation (A) and transwell (B) (HE staining, $\times$ 1000).   
+图6小鼠睾丸组织体外培养细胞增殖情况Fig.6 Cell proliferation of mouse testis cutured in vitro (A: $\times 4 0 0 .$ B: $\times 1 0 0 0$ ）
+
+通过计算增殖指数发现培养第3天时精原细胞增殖能力显著增加，与1d组相比较，差异有统计学意义中 $( P { < } 0 . 0 5 )$ ,但其他组与1d组比较，差异没有统计学意义$( P { > } 0 . 0 5 )$ 。培养5d后，Sertoli细胞的增殖指数下降。与1d组比较差异有统计学意义( $\scriptstyle \phantom { + } ( P < 0 . 0 5$ ，表1)。
+
+# 2.3 睾丸的睾酮分泌能力
+
+为了研究旋转通气培养法培养的睾丸的雄性激素分泌能力，我们检测了不同培养天数的睾酮分泌情况。睾丸在体外培养期间，辜酮分泌量呈逐日下降趋势。1d组辜酮分泌量最高，5d组最低。各组与1d组相比较，睾酮分泌水平差异均具有统计学意义( $\scriptstyle \phantom { + } P < 0 . 0 5$ ，表2)。
+
+# 2.4睾丸特异性蛋白的表达
+
+为了观察旋转通气培养法对辜丸功能的影响，我们用免疫组织化学法观察了影响睾丸功能实现的关键蛋白。选择培养3d后的睾丸组织进行免疫组织化学法检测，在曲细精管间隙的Leydig细胞胞浆内能观察到典型的 $3 \beta$ -HSD、P450Scc、P450c17蛋白的表达（图7A\~C)。在Sertoli细胞胞浆内表达观察到Vimentin棕黄色深染(图7D)。
+
+# 3讨论
+
+睾丸的体外培养通常用于生殖生理学、发育生物学
+
+# 表1精原细胞与Sertoli细胞增殖指数
+
+Tab.1 Proliferation indexes of spermatogonia and Sertoli cells in the cultured testis (Mean±SD, $\scriptstyle n = 3 ^ { \cdot }$   
+
+<html><body><table><tr><td rowspan="3">Incubation time (d)</td><td colspan="2">Prolifeation index (%)</td></tr><tr><td>Spermatogonia</td><td>Sertoli cell</td></tr><tr><td>1</td><td>18.07±5.81</td><td>25.36±2.72</td></tr><tr><td>2</td><td>20.37±3.99</td><td>19.93±4.96</td></tr><tr><td>3</td><td>25.48±1.91*</td><td>22.47±3.60</td></tr><tr><td>4</td><td>19.63±2.58</td><td>20.15±2.97</td></tr><tr><td>5</td><td>21.95±3.20</td><td>16.81±8.54*</td></tr></table></body></html>
+
+Note:\*indicates compared with 1d group, $P { < } 0 . 0 5$ ，astatistically significant difference.
+
+# 表2放射免疫法测定辜酮含量
+
+Tab.2 Testosterone levels in the culture media measured byradioimmunoassay (ng/mg, Mean±SD,n=3)   
+
+<html><body><table><tr><td>Incubation time (d)</td><td>Testosterone level</td></tr><tr><td>1</td><td>0.5481±0.3844</td></tr><tr><td>2</td><td>0.1506±0.1344*</td></tr><tr><td>3</td><td>0.0894±0.0283*</td></tr><tr><td>4</td><td>0.0230±0.0242*</td></tr><tr><td>5</td><td>0.0062±0.0048*</td></tr></table></body></html>
+
+Note:\* indicates compared with 1d group, $P { < } 0 . 0 5$ ,astatistically significant difference.
+
+及生殖毒理学的研究，国外采用的是Transwell小室培养法，其方法是培养物在插入培养板中的生物薄膜上生长，薄膜下缘接触培养基。膜上的培养物在贴膜面可接触到培养基的营养物质，且培养物的上部可以接触外部气体,进行气体交换[57],但此方法限制了营养和气体置换，故而培养物的体积通常很小，同时由于辜丸组织在薄膜上易发生迁移，造成辜丸组织扁平化生长，不利于病理观察及深入研究。而旋转通气培养法由于培养组织处于旋转装置中，避免了辜丸组织贴壁生长，保持了组织的三维结构。由图1可见，旋转培养装置易于自行制作且方便操作，与小室培养法相比，旋转通气培养法在硬件方面的优势有两方面，一方面为小室培养法中应用的Millicell悬挂式插人培养血，操作过程中容易破损且要保证膜上的组织同时接触空气和膜下的培养液，需要精确控制培养液的量，实际操作中很难完全保证，在培养过程中还存在培养基蒸发减少造成培养基液面下降，组织完全暴露于空气中的问题，而旋转培养法只需要将辜丸组织移入培养瓶即可，无上述问题的困扰；另一方面小室培养法中的Millicell培养皿体积很小,每个小室中能容纳的睾丸组织体积小且数量有限，操作不慎会导致各组织生长到一起无法区分，对操作要求较高且影响后期切片观察，同时，由于培养的组织数量过少且睾丸组织只有一部分位于液相中，造成分泌到培养基中的睾酮含量过低，低于检测限，使得测不出辜酮含量。
+
+![](images/6c5871727dd732cfd367d54795bcd8d878ccf15c29adb3d48e756f77fad486e5.jpg)  
+图7免疫组化观察睾丸内 $3 \beta$ -HSD、P450c17、P450Scc和 Vimentin的表达 Fig.7 Expression of $3 \beta$ -HSD (A), P450c17(B)，P450scc(C)，and vimentin $( D )$ inmouse testis detected by immunohistochemical staining.
+
+我们的研究发现，尽管小室培养法培养的辜丸组织局部生长良好，但整体形态呈片状，三维结构混乱，组织内存在细胞凋亡现象。而旋转通气培养法培养的辜丸，组织结构正常，曲细精管结构完整，曲细精管内基底膜完整；精原细胞、Sertoli细胞排列正常，连接紧密，间质内可见Leydig细胞，并未出现细胞调亡，由此说明旋转通气培养法培养的组织在形态学上就优于小室培养法。
+
+为了优化培养条件，在培养物体积方面，我们发现辜丸组织的体积过大容易使组织中心无法接触到足够的营养物质和氧气,引起组织中心坏死(图3),通常培养的体积不能超过 $1 ~ \mathrm { m m } ^ { 3 }$ 。另一方面，如果培养的睾丸太小，则不利于进行后续观察，如病理切片、免疫组化等，且由于培养的细胞数量过少，也使得培养液中的睾酮含量难以检测。所以体外培养的辜丸适合体积为 $0 . 3 { \sim } 0 . 8 \ \mathrm { m m } ^ { 3 }$
+
+在培养物增殖活性方面，我们发现旋转通气法培养的辜丸组织可以观察到增殖活性，且与体外培养 $2 4 \mathrm { h }$ 的睾丸相比：精原细胞的增殖活力逐渐增高且培养3d时增殖活力最高( $P { < } 0 . 0 5 )$ ,Sertoli细胞的增殖活力逐渐减弱且培养5d时最弱 $( P { < } 0 . 0 5 )$ ，说明在体外培养的条件下，精原细胞的增殖活力基本未受影响，尽管第5天Sertoli细胞的增殖能力出现了下降，但仍表现出一定的活力。因此，在以辜丸体外培养法进行外源性化合物毒性研究方面，培养3d的睾丸较为合适。
+
+为了观察旋转通气法建立的睾丸培养模型对睾丸组织功能的影响，我们分析了培养物的雄性激素分泌能力。机体内超过 $90 \%$ 的睾酮是睾丸Leydig细胞合成分泌的，辜酮可以调节生殖细胞分化和精子成熟。体外培养的睾丸在无外界刺激(如HCG和LH)及存在辜酮合成前体物质的情况下，辜酮分泌会随时间逐渐减少[10-2]。在我们的模型中,也存在这个问题。培养各组辜酮分泌量逐日减少的原因有两个：一是小鼠出生前1周左右，体内睾酮量会达到一个峰值，出生后减少，到青春期后逐渐增加并稳定至成年鼠水平[13]。实验中用到的动物为出生4\~5d的小鼠，处于睾酮分泌量下降的生理阶段。二是储存于睾丸Leydig细胞中的用于合成的前体物质有限，随着培养时间逐渐消耗减少，引起辜酮分泌量下降[10.14]。虽然睾酮分泌量随时间逐渐减少，但仍然可以被检测到，说明Leydig细胞在体外培养时保持着原有的细胞功能。
+
+除了辜丸组织的雄性激素分泌能力，辜丸组织功能的实现同样离不开关键蛋白的作用。在Leydig细胞合成睾酮的过程中,P450scc、P450c17、3β-HSD等限速酶起关键作用[15],是反映Leydig细胞功能重要生物标志物。一些生殖内分泌干扰物可以通过抑制这些限速酶表达,进而抑制睾酮分泌[10,16]。Vimentin为Sertoli细胞合成的波形蛋白，在维持Sertoli细胞的细胞骨架、Sertoli细胞与生精细胞的黏附以及二者间的信号传递等方面起着重要作用[17-18],也是重要的生物标志物。当波形蛋白的结构、表达等发生改变，必将影响Sertoli细胞的功能,进而影响精子发生的过程[9。在体外培养3d的睾丸中，免疫组化可以观察到明显P450scc、P450c17、$3 \beta$ -HSD及Vimentin阳性表达。因此，体外培养睾丸有望作为外源性化合物生殖毒性初筛的体外模型
+
+综上所述，旋转通气法培养的辜丸不仅能维持辜丸组织结构的正常，而且保持了辜丸内各种细胞的正常功能。在避免体内复杂的生殖内分泌环境的干扰作用及保证辜丸内各细胞之间的联系的基础上，此方法能更真实地反映外源化学物质对辜丸组织的影响，适于探索外源化学物对新生儿和胎儿辜丸发育影响的研究，也可应用于发育生理学方面的研究，为深入研究雄性生殖系统
+
+内的各种机制提供平台。
+
+# 参考文献：
+
+[1]Roulet V, Denis H, Staub C,et al. Human testis in organotypic culture:application for basic or clinical research[J]. Hum Reprod, 2006,21(6): 1564-75.   
+[2］陈 江,傅剑云,毛光明,等.VitB_6对支持细胞乳酸分泌和体外培养 睾丸碎块合成睾酮的影响[J].浙江预防医学,2006,18(7):15-6.   
+[3]Phillips BT,Gassei K,Orwig KE.Spermatogonial stem cell regulation and spermatogenesis[J].Philos Trans R Soc Lond B Biol Sci,2010,365(1546): 1663-78.   
+[4］杨建英,张勇法.T-2毒素对小鼠睾丸间质细胞睾酮生成的毒性作用 [J].毒理学杂志,2010,24(1): 53-4.   
+[5]Li H, Kim KH. Effectsof mono-(2-ethylhexyl) phthalateon fetal and neonatal rat testis organ cultures[J]. Biol Reprod,2O03,69(6): 1964-72.   
+[6]Rouiller-Fabre V,Levacher C,Pairault C,et al. Development of the foetal and neonatal testis[J]. Andrologia,2003,35(1): 79-83.   
+[7]Lambrot R, Coffigny H,Pairault C,et al. Use of organ culture to study the human fetal testis development: effect of retinoic acid[J]. J Clin Endocrinol Metab,2006,91(7): 2696-703.   
+[8]Li Y,Yu ZL.Effect of Zinc on bone metabolism in fetal mouse limb culture[J].Biomed Environ Sci,2002,15(4): 323-9.   
+[9]于 洁,万汇涓,蔡志明,等.新生小鼠睾丸组织移植到裸鼠体内不同时 期移植物的组织学观察[J].解剖学报,2007,38(2):213-7.   
+[10]孙佳音,应 锋,韩晓冬.睾丸间质细胞中睾酮合成酶及蛋白表达的调 控因子[J].生殖与避孕,2009,29(1):42-7.   
+[11]T AT, Ge R, Rosenfeld CS. Estrogen receptor-alpha gene deficiency enhances androgen biosynthesis in the mouse leydig cell [J]. Endocrinology,2003,144(1): 84-93.   
+[12] Savchuk I，Soder O,Svechnikov K.Mouse leydig cells with different androgen production potential are resistant to estrogenic stimuli but responsive to bisphenol a which attenuates testosterone metabolism[J].PLoS One,2013,8(8): e71722.   
+[13]O'shaughnessy PJ.Baker PJ, johnston H. the foetal leydig celldifferentiation,function and regulation[J].Int JAndrol,2006,29 (1): 90-5.   
+[14]刘建中,郭海彬,邓春华,等.大鼠睾丸Leydig细胞的培养和鉴定[J]. 中华男科学杂志,2006,12(1): 14-7.   
+[15]Ye L,Zhao B,Hu G,et al.Inhibitionof human andrat testicular steroidogenic enzyme activities by bisphenol A[J].Toxicol Lett, 2011,207(2): 137-42.   
+[16]陈 亮,辛钟成,田 龙,等.Cox7a2对睾酮合成及 StAR、P450scc 和 3β-HSD蛋白表达影响研究[J].中国男科学杂志,2006,20(9):2-6.   
+[17]Mruk DD,Cheng CY. Sertoli-Sertoli and sertoli-germ cell interactions and their significance in germ cell movement in the seminiferous epithelium during spermatogenesis[J]. Endocr Rev, 2004,25(5): 747-806.   
+[18]Kleymenova E, Swanson C,Boekelheide K,et al. Exposure in utero to di(n-butyl) phthalate alters the vimentin cytoskeleton of fetal rat sertoli cells and disrupts sertoli cell-gonocyte contact [J].Biol Reprod,2005,73(3): 482-90.   
+[19]季宇彬,孙晶超,郎 朗.龙葵碱对小鼠睾丸支持细胞波形蛋白表达的 影响[J].毒理学杂志,2010,24(5):352-5. /+ 口
+
+(编辑：孙昌朋)

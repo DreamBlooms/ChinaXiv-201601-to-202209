@@ -1,0 +1,605 @@
+[
+    {
+        "type": "text",
+        "text": "基于遥感和GIS的洮河流域面源污染流域尺度模拟及防治对策研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘全謁，齐明亮，马啸宙，巩娟霄（甘肃省环境科学设计研究院,甘肃兰州730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于遥感与GIS 技术的研究进展，采集洮河流域高程数据、土地利用类型、土壤类型特性、气象数据等,在SWAT模型中模拟与面源污染有关的降水、地表径流、壤中流、下渗和蒸散发等水文过程，计算侵蚀量、总氮和总磷等面源污染负荷,研究洮河流域面源污染特征。结果表明：洮河流域多年平均侵蚀量为 $0 . 7 0 \\times 1 0 ^ { 8 } \\mathrm { ~ t ~ }$ ，多年平均总氮面源污染负荷为244.11t,洮河流域多年平均总磷面源污染负荷为27.91t,洮河流域1967—2017年多年平均侵蚀量、总氮面源污染、总磷面源污染负荷总体呈不明显的波动减少趋势，同时提出了改变土地利用方式、设置植被过滤带、坡改梯等面源污染防治对策及建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：洮河流域；面源污染；SWAT模型；防治对策 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着水体点源污染控制水平的提高，面源污染问题逐渐显现，成为世界范围水体的主要污染源[1]。面源污染是降雨(或融雪)产流或灌溉过程中，冲刷、侵蚀等使地表土壤累积的污染物进入河流、湖泊等受纳水体造成的污染，具有广泛性、随机性和不确定性等特征[2-4]。全球 $30 \\% \\sim 5 0 \\%$ 地表水在不同程度上受到面源污染影响，美国、德国、丹麦、芬兰、英国、日本和俄罗斯等国家的研究也表明，面源污染是导致水环境日益恶化的主要因素之_[5-9]。我国太湖、巢湖、滇池面源污染问题十分严重[10-12],长江流域、黄河流域、松辽流域和珠江流域的面源污染状况也不容忽视[13-15]。由现期看,我国水环境管理仍以点源污染治理为主，较少考虑面源污染的影响[16]。忽视面源污染控制,不利于重点污染物排放总量控制制度的顺利实施，也难以达到生态环境规划目标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王莺等[17]研究了洮河流域土地利用现状及覆盖植被变化的水文过程响应;朱丽等[18]研究了近50a来洮河流域气候变化和干旱演变过程，发现近41a洮河流域大多数年份无旱，仅个别年份出现干旱,且程度较轻，下游地区干旱相对较重。景春刚[19]发现洮河流域水环境持续向好,干流水质均能达到目标值要求；部分支流受到轻度污染，超标物为氨氮。目前对于洮河流域面源污染与土壤侵蚀量、总磷、总氮关系的模拟却少有研究。本研究拟以洮河流域为研究对象，采用ArcGIS地理信息系统平台，划分流域边界，解析流域内土地利用类型、土壤类型特性和地形特征；通过建立流域SWAT模型[20],模拟与面源污染有关的降水、地表径流、壤中流等水文过程，计算侵蚀量、总氮和总磷等面源污染负荷，研究洮河流域面源污染特征；同时从景观管理和耕作管理等方面提出洮河流域面源污染防治措施。本研究有利于加深认识流域面源污染机理，扩展遥感和地理信息系统技术在流域面源污染定量研究的应用范围，为提升流域环境质量和生态健康水平提供有效的方法和途径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1洮河流域概况及数据来源",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 洮河流域概况 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "洮河[18]位于中国甘肃省南部,是黄河上游第一大支流，发源于青海省海南州蒙古族自治县境内的西倾山东麓勒尔当，甘肃境内流经甘南、定西、临夏等地，在临夏州永靖县刘家峡水库大坝上游汇入黄河。干流河道长 $6 7 3 \\ \\mathrm { k m }$ ,流域面积 $2 5 ~ 5 2 7 ~ \\mathrm { k m } ^ { 2 }$ 。沟门村站多年平均流量 $1 7 2 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,年径流量 $5 3 \\times$ $1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ （红旗水文站）。自产水资源总量 $4 7 . 2 \\times 1 0 ^ { 8 }$ $\\mathbf { m } ^ { 3 }$ ,为甘肃中部提供了丰富的水资源。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "洮河流域流域高程数据DEM源自ASTERG-DEM数据集[2I],该数据集由 NASA对地观测卫星Terra热发射和反射辐射仪观测结果进行加工得来，是全球空间分辨率为 $3 0 \\mathrm { ~ m ~ }$ 的数字高程数据产品。洮河流域1:10万土地利用源自寒区旱区科学数据中心的WestDCVersion $1 . 0 1 \\ \\mathrm { k m }$ 分辨率土地覆盖数据集。洮河流域土壤数据来自基于世界土壤数据库(HWSD)的中国土壤数据集。在中国气象数据网查询洮河流域内且有历史数据的气象站，并从地面气候资料日值数据集提取流域上游玛曲气象站1967—2017年、流域中游岷县气象站1951—2017年以及下游临洮气象站1951—2017年的地面气候资料，包括降水、气温、相对湿度、风速和日照等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用流域尺度模型SWAT模型描述降雨径流、土壤侵蚀和污染物迁移等过程[22],在具有不同土壤类型、土地利用和管理条件特征的大尺度复杂流域一洮河流域内，模拟土地管理措施长期对产水、产沙及农业化学污染物负荷等的影响。SWAT模型中植物生长模型可用于评估根区水分和营养物的迁移、植物的蒸散发和生物量/产量。各水文响应单元中的侵蚀量和产沙量通过修正的通用土壤流失方程即MUSLE来计算。最终模拟流域多种形式的氮/磷的运移和转化，营养物进入干流河道或者通过地表径流和壤中流向下游迁移结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 流域边界 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "洮河流域采用多幅遥感影像图合并，生成流域边界。SWAT模型以整个洮河流域为对象，以刘家峡水电站为流域出口，进行流域划分，最终生成子流域139个。生成的洮河流域图与中国地图彩色版叠加后显示出了整个洮河流域范围(图1)。洮河流域面积 $2 5 5 1 2 . 8 4 ~ \\mathrm { k m } ^ { 2 }$ ,边界长度 $1 6 3 8 . 1 2 \\ \\mathrm { k m }$ ,最低高程 $1 \\ 7 4 8 \\ \\mathrm { m }$ ,最高高程 $4 ~ 8 6 6 ~ \\mathrm { ~ m ~ }$ ,平均高程 $3 \\ 0 4 9 \\mathrm { m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb5e4611aadd6528bdcfddcb7fde35374f55a56937956d11f70a504317c77be4.jpg",
+        "img_caption": [
+            "图1 洮河流域边界示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 土壤类型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "洮河流域薄层土所占面积最大为11559.92$\\mathrm { k m } ^ { 2 [ 2 3 ] }$ ,占流域总面积的 $4 5 . 2 7 \\%$ ,主要分布在流域的中上游。其次为黑钙土,面积为 $5 ~ 7 5 4 . 9 1 ~ \\mathrm { k m } ^ { 2 }$ ，占流域总面积的 $2 2 . 5 4 \\%$ ,主要分布在流域中游。始成土面积为 $4 \\ 5 7 3 . \\ 3 6 \\ \\mathrm { \\ k m } ^ { 2 }$ ，占流域总面积的$1 7 . 9 1 \\%$ ,主要分布在流域下游。高活性淋溶土面积为 $1 ~ 6 6 7 . 3 6 ~ \\mathrm { k m } ^ { 2 }$ ,占流域总面积的 $6 . 5 3 \\%$ 。黑土面积为 $7 0 2 . 9 2 ~ \\mathrm { k m } ^ { 2 }$ ，占流域总面积的 $2 . 7 5 \\%$ 。栗钙土面积为 $4 7 1 . 8 4 ~ \\mathrm { k m } ^ { 2 }$ ，占流域总面积的 $1 . 8 5 \\%$ 。潜育土面积为 $4 1 0 . 5 1 ~ \\mathrm { k m } ^ { 2 }$ ，占流域总面积的 $1 . 6 1 \\%$ 。灰色森林土面积为 $2 3 7 . 3 2 ~ \\mathrm { { k m } } ^ { 2 }$ ，占流域总面积的$0 . 9 3 \\%$ 。钙积土面积为 $9 4 . 4 0 ~ \\mathrm { k m } ^ { 2 }$ ,占流域总面积的 $0 . 3 7 \\%$ 。冲积土面积为 $4 4 . 6 9 ~ \\mathrm { k m } ^ { 2 }$ ，占流域总面积的 $0 . 1 8 \\%$ 。有机土面积为 $1 8 . 4 5 \\ \\mathrm { k m } ^ { 2 }$ ,占流域总面积的 $0 . 0 7 \\%$ 。洮河流域土壤类型占比见图2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "洮河流域土壤类型对应于SWAT模型，生成土",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3596c1f090385c41dc58d717bbaf17688c163720dccd9b962570d6dd8dae437c.jpg",
+        "img_caption": [
+            "Fig.1The diagram of the Taohe River Basin Boundary ",
+            "图2洮河流域各土壤类型占比",
+            "Fig.2Proportion of soil types in Taohe River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1洮河流域土壤属性变量定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/022a6985eb6d84a3582b7020073e7e5cadf7398679f9e17ce8b2745249b8c55d.jpg",
+        "table_caption": [
+            "Tab.1 Definition of soil attributes in the TaoheRiverBasin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量名</td><td>定义</td></tr><tr><td>HYDGRP</td><td>土壤水文单元(A、B、C或D），A为低径流潜力 土壤，B为中等径流潜力土壤，C为较高径流潜 力土壤，D为高径流潜力土壤</td></tr><tr><td>SOL-ZMX</td><td>土壤剖面的最大根底深度／mm</td></tr><tr><td>SOL-Z</td><td>土层底部的埋深／mm</td></tr><tr><td>SOL-BD</td><td>土壤的湿容重，为固体颗粒的质量与土壤总体 积的比／g·cm-3</td></tr><tr><td>SOL-AWC</td><td>土层的有效含水量，等于田间持水量减去永久 调萎系数／mm·mm-1</td></tr><tr><td>SOL-K</td><td>饱和渗透系数／mm·h-1</td></tr><tr><td>SOL-CBN</td><td>有机碳含量／%</td></tr><tr><td>SOL-CLAY</td><td>粘粒含量，粒径<0.002mm／%</td></tr><tr><td>SOL-SILT</td><td>粉粒含量，粒径在0.002~0.05mm／%</td></tr><tr><td>SOL-SAND</td><td>砂粒含量，粒径在0.05~2.0mm／%</td></tr><tr><td>SOL-ROCK</td><td>石砾含量，粒径>2.0mm／%</td></tr><tr><td>SOL-ALB</td><td>湿土的反照率</td></tr><tr><td>USLE-K</td><td>USLE方程中的土壤侵蚀K因子</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "壤属性，洮河流域土壤属性变量定义见表1，洮河流域土壤属性见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3植被覆盖及土地利用类型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "旱地划分为耕地，编号为1。有林地、灌木林、疏林地和其他林地划分为林地，编号为2。高覆盖度草地、中覆盖度草地和低覆盖度草地划分为草地，编号为3。河渠、湖泊、水库坑塘、永久性冰川雪地和滩涂划分为水体，编号为4。城镇用地、农村居民点和其他建设用地划分为建设用地，编号为5。沙地、沼泽地、裸土地、裸岩石砾地和其他划分为未利用地，编号为6（图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将洮河流域土地利用栅格数据转换为面数据，统计各种土地利用类型的面积占流域面积的比例。洮河流域草地面积所占面积最大，为15257.35$ { \\mathrm { k m } } ^ { 2 }$ ，占流域总面积的 $5 9 . 7 6 \\%$ ，在整个流域分布的比较均匀。其次为林地,面积为 $5 ~ 6 0 4 . 7 7 ~ \\mathrm { k m } ^ { 2 }$ ，占流域总面积的 $2 1 . 9 7 \\%$ ，主要分布在洮河流域的中上游。耕地面积 $3 \\ 6 3 3 . 3 0 \\ \\mathrm { k m } ^ { 2 }$ ，占流域总面积的",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/781167dd73cb57a7d29f889f4e44fde9da6c6f38fae6b5d76418a71a8cec7aae.jpg",
+        "table_caption": [
+            "表2洮河流域土壤属性",
+            "Tab.2Soil attributes in the Taohe RiverBasin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类编</td><td>土壤</td><td>HYD GRP</td><td>SOL-Z1</td><td>SOL-Z2</td><td>SOL-BD1</td><td>SOL-BD2</td><td>SOL-AWC</td><td>SOL-K1</td><td>SOL-K2</td><td>SOL-CBN1 SOL-CBN2</td><td></td></tr><tr><td>号 1</td><td>名称 黑钙土</td><td>B</td><td>/mm 300.00</td><td>/mm 1 000.00</td><td>/g·cm-3 1.40</td><td>1.40</td><td>/g·cm-³/mm·mm-1/mm·h-1 0.14</td><td>16.00</td><td>/mm·h-1 63.40</td><td>/% 1.61</td><td>/% 0.73</td></tr><tr><td>2</td><td>钙积土</td><td>B</td><td>300.00</td><td>1 000.00</td><td>1.40</td><td>1.40</td><td>0.15</td><td>186.00</td><td>165.00</td><td>0.46</td><td>0.46</td></tr><tr><td>3</td><td>始成土</td><td>B</td><td>300.00</td><td>1 000.00</td><td>1.39</td><td>1.37</td><td>0.14</td><td>9.20</td><td>6.70</td><td>1.07</td><td>0.51</td></tr><tr><td>4</td><td>冲积土</td><td>C</td><td>300.00</td><td>1 000.00</td><td>1.41</td><td>1.41</td><td>0.15</td><td>74.00</td><td>22.00</td><td>0.60</td><td>0.40</td></tr><tr><td>5</td><td>潜育土</td><td>C</td><td>300.00</td><td>1 000.00</td><td>1.33</td><td>1.31</td><td>0.15</td><td>61.00</td><td>11.00</td><td>1.86</td><td>0.73</td></tr><tr><td>6</td><td>灰色森林土</td><td>B</td><td>300.00</td><td>1 000.00</td><td>1.37</td><td>1.35</td><td>0.15</td><td>41.00</td><td>123.00</td><td>1.60</td><td>0.40</td></tr><tr><td>7</td><td>栗钙土</td><td>B</td><td>300.00</td><td>1 000.00</td><td>1.37</td><td>1.35</td><td>0.15</td><td>37.00</td><td>74.00</td><td>1.31</td><td>0.53</td></tr><tr><td>8</td><td>薄层土</td><td>C</td><td>300.00</td><td>1 000.00</td><td>1.51</td><td>1.51</td><td>0.06</td><td>33.50</td><td>52.00</td><td>1.74</td><td>1.74</td></tr><tr><td>9</td><td>高活性淋溶土</td><td>B</td><td>300.00</td><td>1 000.00</td><td>1.41</td><td>1.36</td><td>0.15</td><td>62.50</td><td>109.00</td><td>0.63</td><td>0.33</td></tr><tr><td>10</td><td>黑土</td><td>B</td><td>300.00</td><td>1 000.00</td><td>1.38</td><td>1.39</td><td>0.15</td><td>17.20</td><td>41.00</td><td>1.66</td><td>0.58</td></tr><tr><td>11</td><td>有机土</td><td>D</td><td>300.00</td><td>1 000.00</td><td>1.32</td><td>1.39</td><td>0.15</td><td>42.00</td><td>6.30</td><td>39.40</td><td>38.46</td></tr><tr><td>类编</td><td>土壤</td><td>SOL-</td><td>SOL-SILT1</td><td>SOL-SAND1 SOL-ROCK1</td><td></td><td>SOL-CLAY2</td><td>SOL-SILT2</td><td>SOL-SAND2</td><td>SOL-ROCK2</td><td>USLE-K1</td><td>USLE-K2</td></tr><tr><td>号 1</td><td>名称 黑钙土</td><td>CLAY1/ % 21.60</td><td>/% 39.40</td><td>/%</td><td>/%</td><td>/%</td><td>/%</td><td>/%</td><td>/%</td><td>1</td><td>1</td></tr><tr><td>2</td><td>钙积土</td><td>21.00</td><td></td><td>39.00</td><td>5.20</td><td>26.60</td><td>39.00</td><td>34.40</td><td>15.40</td><td>0.14</td><td>0.17</td></tr><tr><td></td><td></td><td></td><td>38.00</td><td>41. 00</td><td>7.00</td><td>23.00</td><td>37.00</td><td>40.00</td><td>7.00</td><td>0.17</td><td>0.17</td></tr><tr><td>3</td><td>始成土</td><td>23.11</td><td>39.22</td><td>37.67</td><td>7.44</td><td>26.00</td><td>37.67</td><td>36.33</td><td>17.67</td><td>0.16</td><td>0.17</td></tr><tr><td>4</td><td>冲积土</td><td>18.00</td><td>48.00</td><td>34.00</td><td>15.00</td><td>18.00</td><td>46.00</td><td>36.00</td><td>10.00</td><td>0.18</td><td>0.18</td></tr><tr><td>5</td><td>潜育土</td><td>33.33</td><td>35.67</td><td>31.00</td><td>3.00</td><td>36.00</td><td>31.33</td><td>32.67</td><td>2.33</td><td>0.13</td><td>0.15</td></tr><tr><td>6</td><td>灰色森林土</td><td>21.00</td><td>54.00</td><td>25.00</td><td>10.00</td><td>28.00</td><td>49.00</td><td>23.00</td><td>10.00</td><td>0.16</td><td>0.19</td></tr><tr><td>7</td><td>栗钙土</td><td>23.50</td><td>43.50</td><td>33.00</td><td>8.00</td><td>22.00</td><td>45.00</td><td>33.00</td><td>5.00</td><td>0.15</td><td>0.18</td></tr><tr><td>8</td><td>薄层土</td><td>13.0</td><td>38.75</td><td>48.25</td><td>14.00</td><td>13.00</td><td>38.75</td><td>48.25</td><td>14.00</td><td>0.15</td><td>0.18</td></tr><tr><td>9</td><td>高活性淋溶土</td><td>22.50</td><td>30.50</td><td>47.00</td><td>4.50</td><td>29.50</td><td>28.50</td><td>42.00</td><td>6.50</td><td>0.16</td><td>0.16</td></tr><tr><td>10</td><td>黑土</td><td>22.50</td><td>41.00</td><td>36.50</td><td>2.50</td><td>22.00</td><td>40.50</td><td>37.50</td><td>4.50</td><td>0.14</td><td>0.17</td></tr><tr><td>11</td><td>有机土</td><td>32.00</td><td>33.00</td><td>35.00</td><td>28.00</td><td>25.00</td><td>23.00</td><td>52.00</td><td>5.00</td><td>0.12</td><td>0.12</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6c0b162282f7e9f0d386cbe76bf3c421425606726ec5661e6af57df6bd3f4d8.jpg",
+        "img_caption": [
+            "图3洮河流域植被覆盖及土地利用类型图 Fig.3Vegetation cover and land use type map in theWeiheRiverBasin "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 4 . 2 4 \\%$ ，主要分布在洮河流域的中下游。未利用地为 $7 3 7 . 4 2 ~ \\mathrm { k m } ^ { 2 }$ ,占流域总面积的 $2 . 8 9 \\%$ 。建筑用地$2 0 3 . 5 5 ~ \\mathrm { k m } ^ { 2 }$ ，占流域总面积的 $0 . 8 0 \\%$ 。水体86.35$ { \\mathrm { k m } } ^ { 2 }$ ，占流域总面积的 $0 . 3 4 \\%$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4水文响应单元",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "洮河流域坡度分为 $\\leqslant 2 ^ { \\circ } \\left( \\vartheta \\% \\right) , 2 ^ { \\circ } \\left( \\vartheta \\% \\right) \\sim 6 ^ { \\circ }$ $( 1 1 \\% ) . 6 ^ { \\circ } ( 1 1 \\% ) \\sim 1 5 ^ { \\circ } ( 2 7 \\% ) , 1 5 ^ { \\circ } ( 2 7 \\% ) \\sim 2 5 ^ { \\circ }$ 中 $47 \\%$ ）、 $> 2 5 ^ { \\circ } ( 4 7 \\% )$ 五个坡度级。流域土地利用、土壤和坡度的数据库构建完毕以后，将每一个子流域的土地利用、土壤和坡度进行组合,创建独一无二的水文响应单元。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5 面源污染负荷 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5.1水文过程计算结果及分析将洮河流域的土地利用、土壤、气象等数据导入SWAT模型中，从1967年1月1日一2017年12月31日，在计算时间步长内贡献于河流的地表径流量、壤中流量及流域范围下渗量、蒸发量等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）降水量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "降水量是在计算时间步长内，由流域内雨量站网的实测降雨量通过泰森多边形法计算得到的流域平均降水量。洮河流域1967—2017年多年平均降水量为 $5 8 2 . 8 ~ \\mathrm { m m }$ ,年降水量最大值出现在1967年，为 $8 1 3 . 8 ~ \\mathrm { m m }$ ,年降水量最小值出现在1997年，为$4 1 5 . 5 ~ \\mathrm { m m }$ 。洮河流域1967—2017年的降水量变化如下图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对洮河流域年降水量进行非参数Man-Kendall趋势检验[24],通过计算可知， $S = - 8 5 , Z = - 0 . 6 8 <$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0，但未通过信度 $90 \\%$ ( $\\pm 1 . 2 8$ ）、 $9 5 \\%$ (±1.64)和$9 9 \\%$ ( $\\pm 2 . 3 2 \\rangle$ 显著性检验，表明洮河流域1967—2017年降水量呈减少趋势，但这种趋势不明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）地表径流贡献量",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SWAT模拟结果中洮河流域1967—2017年降水对于地表径流贡献量变化如下图5所示。洮河流域多年平均地表径流贡献量为 $4 8 . 7 \\ \\mathrm { m m }$ ,年地表径流贡献量最大值出现在1967年，为 $9 7 . 5 \\ \\mathrm { m m }$ ,年降水量最小值出现在1987年,为 $1 8 . 0 \\ \\mathrm { m m }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对洮河流域年地表径流量进行非参数ManKendall趋势检验，通过计算可知， $S = 0 , Z = 0$ ,但未通过信度 $9 0 \\%$ 0 $^ { ( \\pm 1 . 2 8 ) }$ ）、 $9 5 \\%$ ( $\\pm 1 . 6 4 { \\cdot }$ 和 $9 9 \\%$ $( \\pm 2 . 3 2 )$ 显著性检验，表明洮河流域1967—2017年地表径流量呈不明显的波动减少趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）壤中流量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "壤中流是在时间步长内根区和包气带中贡献于河流的横向流动水量。通过SWAT模拟，洮河流域多年平均壤中流量为 $1 0 3 . 1 \\ \\mathrm { m m }$ ,壤中流量最大值出现在1967年，为 $1 5 9 . 7 \\mathrm { m m }$ ，壤中流量最小值出现在",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a89922730bdbd7dfd19a0cc5db65c54324f836e135d9eb164e7c1dfd6d6a2d08.jpg",
+        "img_caption": [
+            "图41967—2017 年洮河流域降水量变化Fig.4Changes in precipitation in Taohe RiverBasin from 1967 to 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce15d27ad1caf41e0e3d7471e892c09ab397061c7b55b1c7eb03ca9eac24bebc.jpg",
+        "img_caption": [
+            "图51967—2017年洮河流域地表径流量变化Fig.5Changes of surface runoff in Taohe River Basinfrom 1967 to 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1997年，为 $5 2 . 9 \\ \\mathrm { m m }$ 。洮河流域1967—2017年的壤中流量变化如下图6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对洮河流域年壤中流量进行非参数Man-Kendall趋势检验，通过计算可知， $S ~ = ~ - ~ 1 8 5$ ， $Z =$ $- 1 . 4 9 < 0$ ， $\\lvert Z \\rvert > 1 . 2 8$ ,通过信度 $9 0 \\%$ ( $\\pm 1 . 2 8$ 显著性检验，表明洮河流域1967一2017年壤中流量总体呈减少趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4）下渗量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下渗量是在时间步长内下渗到根区的水量。通过SWAT模拟，洮河流域多年平均下渗量为109.8$\\mathbf { m } \\mathbf { m }$ ，下渗量最大值出现在1967年，为 $1 9 3 . 2 ~ \\mathrm { m m }$ ，下渗量最小值出现在1997年，为 $3 3 . 4 ~ \\mathrm { m m }$ 。洮河流域多年下渗量变化如下图7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对洮河流域下渗量进行非参数Man-Kendall趋势检验，通过计算可知， $S = - 2 1 7 , Z = - 1 . 7 5 < 0$ ，$\\vert Z \\vert > 1 . 6 4$ ,通过信度 $9 5 \\% ( \\ \\pm 1 . 6 4 )$ 显著性检验，表明洮河流域1967—2017年下渗量总体呈波动减少趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（5）蒸散发量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水文响应单元的实际蒸散发量，包括土壤蒸发量和植物蒸腾量。将SWAT模拟的洮河流域1967—2017年蒸散发量导入统计分析软件SPSS 进行数据分析可得[25],洮河流域多年平均蒸散发量为$3 2 0 . 9 ~ \\mathrm { { \\ m m } }$ ，蒸散发量最大值出现在2012年，为$3 6 5 . 4 ~ \\mathrm { m m }$ ;蒸散发量最小值出现在1981年，为$2 9 1 . 9 \\ \\mathrm { m m }$ 。洮河流域多年蒸散发量变化如下图8所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c4c122ba62dd5ab20e62f1e34de7434de587e3d2fbda6c946dc986e5b982bf9.jpg",
+        "img_caption": [
+            "图61967—2017年洮河流域壤中流量变化Fig.6Changes of flow in soil in Taohe River Basinfrom 1967 to 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d4b43043ef4b5e24d5fe71d9b9febc110cd0d36c136653857804adbd5d68b6f.jpg",
+        "img_caption": [
+            "图71967—2017年洮河流域下渗量变化Fig.7Changes of infiltration in Taohe River Basinfrom 1967 to 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/04754eaabf2cac947a94b3a44afade38773df8708f3799106ccf0f8d1d6b1953.jpg",
+        "img_caption": [
+            "图81967—2017年洮河流域蒸散发量变化Fig.8Changes of evapotranspiration in Taohe River Basinfrom 1967 to 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对洮河流域蒸散发量进行非参数Man-Kendall趋势检验，通过计算可知， $S = 3 9 3 , Z = 3 . \\ 1 8 > 0$ ，$| Z | > 2 . 3 2$ ,通过信度 $9 9 \\%$ ( $\\pm 2 . 3 2 \\rangle$ 显著性检验，表明洮河流域1967—2017年蒸散发量总体呈波动上升趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5.2 面源污染负荷计算结果及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）侵蚀量",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "各水文响应单元内的侵蚀量通过MUSLE（Mod-ifiedUniversal Soil Loss Equation）计算。USLE中将降水量作为侵蚀能力的指标，而MUSLE中运用径流量模拟侵蚀量。将洮河流域1967—2017年侵蚀量[26]模拟结果导入统计分析软件 SPSS 进行数据分析可得，洮河流域多年平均侵蚀量为 $0 . 7 0 \\times 1 0 ^ { 8 } \\mathrm { ~ t ~ }$ 侵蚀量最大值出现在1967年，为 $1 . 3 5 \\times 1 0 ^ { 8 } \\mathrm { ~ t ~ }$ ；侵蚀量最小值出现在1997年,为 $0 . 2 5 \\times 1 0 ^ { 8 } ~ \\mathrm { t }$ 。洮河流域多年侵蚀量变化如图9所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对洮河流域年侵蚀量进行非参数Man-Kendall趋势检验，通过计算可知， $S = - 4 3 , Z = - 0 . 3 4 < 0$ ，$\\mid Z \\mid < 1 . 2 8$ ，未通过信度 $90 \\%$ 1 $^ { ( \\pm 1 . 2 8 ) }$ 、 $9 5 \\%$ $( \\pm 1 . 6 4 )$ 和 $9 9 \\%$ ( $\\pm 2 . 3 2 )$ 显著性检验，表明洮河流域1967—2017年侵蚀量总体呈不明显的波动减少趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）总氮 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SWAT模型计算的总氮面源污染负荷是在计算步长内，结合土壤类型，模拟从各水文响应单元通过地表径流进人到河道中的总氮负荷量。将洮河流域1967—2017年总氮面源污染负荷导入统计分析软件 SPSS进行数据分析可得，洮河流域多年平均总氮面源污染负荷为244.11t，总氮面源污染负荷最大值出现在2012年，为 $1 ~ 1 2 2 . 5 1 \\mathrm { ~ t ~ }$ ；总氮面源污染负荷最小值出现在1997年，为 $2 5 . 5 1 \\mathrm { ~ t ~ }$ 。洮河流域多年总氮面源污染负荷的变化如下图10所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e395446ff5972aab9713781ccdeec42fe80f473e9fff4b7572a461361cf583c6.jpg",
+        "img_caption": [
+            "图91967—2017 年洮河流域侵蚀量变化 Fig.9Changes of soil erosion in Taohe River Basin from 1967 to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对洮河流域年总氮面源污染负荷进行非参数Man-Kendall趋势检验，通过计算可知， $S = - 4 3 , Z =$ $- 0 . 3 4 < 0$ ， $| Z | < 1 . 2 8$ ,未通过信度 $9 0 \\%$ （ $\\pm 1 . 2 8 )$ 、$9 5 \\%$ ( $\\pm 1 . 6 4 \\rangle$ 和 $9 9 \\%$ ( $\\pm 2 . 3 2 )$ 显著性检验,表明洮河流域1967—2017年总氮面源污染负荷总体呈不明显的波动减少趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）总磷",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SWAT模型计算的总磷面源污染负荷是在计算步长内，结合土壤类型，模拟从各水文响应单元通过地表径流进入到河道中的总磷负荷量。将洮河流域",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2047e8abe8996425cb10a030fa0dd9c61b414e451201c02a2ce742ee1209c7d.jpg",
+        "img_caption": [
+            "图101967—2017年洮河流域总氮变化Fig.10Changes of total nitrogen in Taohe River Basinfrom 1967 to 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1967—2017年总磷面源污染负荷导入统计分析软件SPSS进行数据分析可得，洮河流域多年平均总磷面源污染负荷为27.91t,总磷面源污染负荷最大值出现在2012年，为 $6 1 . 2 3 \\mathrm { ~ t ~ }$ ；总磷面源污染负荷最小值出现在1997年，为5.1t。洮河流域多年总磷面源污染负荷的变化如下图11所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cebb58694862d93bbdd473a6ac756250a72e18ae5b2197bfff2ca0f6492cef2.jpg",
+        "img_caption": [
+            "图111967—2017年洮河流域总磷变化Fig.11Changes of total phosphorus in Taohe River Basinfrom 1967 to 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对洮河流域年总磷面源污染负荷进行非参数Man-Kendall趋势检验，通过计算可知， $S = - 6 1 , Z =$ $- 0 . 4 9 < 0$ ， $| Z | < 1 . 2 8$ ,未通过信度 $9 0 \\% ( \\ \\pm 1 . 2 8 )$ 、$9 5 \\% ( \\ \\pm 1 . 6 4 )$ 和 $9 9 \\%$ （ $\\pm 2 . 3 2 \\rangle$ 显著性检验，表明洮河流域1967—2017年总磷面源污染负荷总体呈不明显的波动减少趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）使用SWAT模型计算了洮河流域1967—2017年水文过程，包括降水量、地表径流贡献量、壤中流量、下渗量、蒸散发量，使用Man-Kendall检验法对其进行了趋势分析与突变点分析。结果表明：洮河流域1967—2017年多年平均降水量为582.8mm,年降水量最大值出现在1967年,为 $8 1 3 . 8 ~ \\mathrm { m m }$ ，年降水量最小值出现在1997年，为 $4 1 5 . 5 \\ \\mathrm { m m }$ 。洮河流域多年平均地表径流贡献量为 $4 8 . 7 \\ \\mathrm { m m }$ ,年地表径流贡献量最大值出现在1967年，为 $9 7 . 5 \\ \\mathrm { m m }$ ，年降水量最小值出现在1987年，为 $1 8 . 0 \\ \\mathrm { m m }$ 。通过SWAT模拟，洮河流域多年平均壤中流量为103.1mm,壤中流量最大值出现在1967年,为 $1 5 9 . 7 \\ \\mathrm { m m }$ ，壤中流量最小值出现在1997年，为 $5 2 . 9 \\ \\mathrm { m m }$ 。洮河流域多年平均下渗量为 $1 0 9 . 8 ~ \\mathrm { m m }$ ，下渗量最大值出现在1967年，为 $1 9 3 . 2 \\ \\mathrm { m m }$ ，下渗量最小值出现在",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1997年，为 $3 3 . 4 ~ \\mathrm { m m }$ 。洮河流域多年平均蒸散发量为 $3 2 0 . 9 \\ \\mathrm { m m }$ ,蒸散发量最大值出现在2012年，为$3 6 5 . 4 ~ \\mathrm { \\ m m }$ ;蒸散发量最小值出现在1981年，为$2 9 1 . 9 \\mathrm { m m }$ 。洮河流域多年平均下渗量为 $1 0 9 . 8 ~ \\mathrm { m m }$ ，下渗量最大值出现在1967年，为 $1 9 3 . 2 ~ \\mathrm { m m }$ ，下渗量最小值出现在1997年，为 $3 3 . 4 ~ \\mathrm { m m }$ 。洮河流域多年平均蒸散发量为 $3 2 0 . 9 ~ \\mathrm { m m }$ ,蒸散发量最大值出现在2012年，为 $3 6 5 . 4 ~ \\mathrm { m m }$ ;蒸散发量最小值出现在1981年,为 $2 9 1 . 9 \\ \\mathrm { m m }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）使用SWAT模型计算了洮河流域1967—2017年侵蚀量、总氮面源污染负荷、总磷面源污染负荷，总体呈波动减少趋势。结果表明洮河流域多年平均侵蚀量为 $ { 0 . 7 0 \\times 1 0 ^ { 8 } \\mathrm { ~ t ~ } }$ ,侵蚀量最大值出现在1967年，为 $1 . 3 5 \\times 1 0 ^ { 8 } \\mathrm { ~ t ~ }$ ;侵蚀量最小值出现在1997年，为 $0 . 2 5 \\times 1 0 ^ { 8 }$ t。洮河流域多年平均总氮面源污染负荷为244.11t,总氮面源污染负荷最大值出现在2012年，为 $1 ~ 1 2 2 . 5 1 \\mathrm { ~ t ~ }$ ；总氮面源污染负荷最小值出现在1997年，为25.51t。洮河流域多年平均总磷面源污染负荷为27.91t,总磷面源污染负荷最大值出现在2012年，为 $6 1 . 2 3 \\mathrm { ~ t ~ }$ ；总磷面源污染负荷最小值出现在1997年，为 $5 . 1 \\mathrm { ~ t ~ }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 面源污染防治对策 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为进一步降低面源污染中土壤侵蚀程度及总磷、总氮负荷，结合洮河流域特点，提出以下对策：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）改变土地利用方式",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将易造成水土流失的耕地因地制宜地植树造林，恢复为森林植被。退耕还林之后地表径流量会相应减少，流域内土壤水分持蓄能力的提高，可以有效地减少土壤侵蚀，从而降低泥沙的输出负荷。随着耕地面积的减少，流域内化肥使用量将会大幅度降低，氮磷营养物的输出也会大幅度的削减。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）设置植被过滤带",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "植被过滤带是植物密集条带，用于拦截上坡污染源处的径流，并进行过滤。植被过滤带通过降低坡面地表径流的流速进而导致微粒沉降来去除污染物。同时，植被过滤带也可以增加区域的下渗、减少地表径流和非颗粒污染物。植被过滤带的覆盖植物常选用草和灌木，一般选址于河流湖库岸边，道路、农田的周边，作为坡面径流的进入水体前的缓冲。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）坡改梯",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "梯田是田间用于拦截径流和预防侵蚀的堤项。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "坡改梯是在坡地上分段沿着等高线建造阶梯式农田,以减少片蚀和沟蚀作用,增加水保效果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）   \n[1]LIU Ruimin,ZHANG Peipei, WANG Xiujuan,et al. Assessment of effects of best management practices on agricultural non-point source pollution in Xiangxi River watershed[J].Agricultural Water Management,2013,117 -126.   \n[2]宋晓猛,占车生,孔凡哲,等.大尺度水循环模拟系统不确定性 研究进展[J].地理学报,2011,66(3）:396-406.[SONG Xiaomeng,ZHAN Chesheng,KONG Fanzhe,et al. Research progress on uncertainty of large-scale water cycle simulation system[J]. Acta Geographica Sinica,2011,66(3）:396 -406.]   \n[3]OMERNIK J. The influence of land use on stream nutrient levels [J].Water Air& Soil Pollution,1976,（1）:10-15.   \n[4]FARAMARZI M,ABBASPOUR K,VAGHEFI S,et al. Modeling impacts of climate change onfreshwater availability in Africa[J]. Journal of Hydrology,2013,480:85-101.   \n[5]KRONVANG Brian, WINDOLF JΦrgen,GRANT Ruth,et al. Linking monitoring and modelling for river basin management: Danish experience with combating nutrient loadings to the aquatic environment from point and non-point sources[J]. Science in China（ Series E:Technological Sciences） 2009,52(11）:3335-3347.   \n[6]COLLINS A,ANTHONY S. Predicting sediment inputs to aquatic ecosystems across England and Wales under current environmental conditionsJ].Applied Geography,2008,28(4）:281-294.   \n[7]DELGADO A,SCALENGHE R. Aspects of phosphorus transfer from soils in Europe[J]. Journal of Plant Nutrition and Soil Science,2008,171(4) :552-575.   \n[8]HAIDARY A,AMIRI B,ADAMOWSKI J,et al. ASssessing the mpacts of four land use types on the water quality of wetlands in Japan[J].Water Resources Management,2013,27（7）: 2217 - 2229.   \n[9]FONSECA A,BOTELHO C,BOAVENTURA R,et al. Integrated hydrological and water quality model for river management：A case study on Lena River[J]. Science of the Total Environment,2014, 485 - 486:474 - 489.   \n[10］金洋,李恒鹏,李金莲.太湖流域土地利用变化对非点源污染 负荷量的影响[J].农业环境科学学报,2007,26（4）：1214- 1218.［JIN Yang,LI Hengpeng,LI Jinlian. Effects of land use change on non-point source polltion load in Taihu Basin[J]. Journal of Agro-Environment Science,2007,26(4）:1214-1218.]   \n[11］刘庄,李维新,张毅敏,等.太湖流域非点源污染负荷估算［J]. 生态与农村环境学,2010,26（S1）:45－48.[LIU Zhuang,LI Weixin,ZHANG Yimin,et al.Estimation of non-point source polution load in Taihu Basin[J]. Journal of Ecology and Rural Ecology,2010,26(S1) :45 -48.]   \n[12］吴春蕾,马友华,李英杰,等.SWAT模型在巢湖流域农业面源 污染研究中应用前景与方法［J].中国农学通报,2010,26 (18）:324-328.[WU Chunlei,MA Youhua,LI Yingjie,et al. Application prospect and method of SWAT model in agricultural non-point source polution research in Chaohu Lake Basin［J]. Chinese Agricultural Science Bulltin,2010,26(18）:324-328.]   \n[13］程红光,岳勇,杨胜天,等.黄河流域非点源污染负荷估算与分 析[J].环境科学学报,2006,26(3）:384-391.[CHENG Hongguang,YUE Yong,YANG Shengtian,et al. Estimation and analysis of non-point source pollution load in the Yellow River Basin[J]. Journal of Environmental Science,2006,26(3）:384-391.]   \n[14］刘瑞民,沈珍瑶,丁晓雯,等.应用输出系数模型估算长江上游 非点源污染负荷[J].农业环境学报,2008,27（2）:677-682. [LIU Ruimin,SHEN Zhenyao,DING Xiaowen,et al.Application of output coefficient model to estimate non-point source pollution load in the upper reaches of the Yangtze River[J]. Journal of Agricultural Environment,2008,27(2）:677 -682.]   \n[15］田甜,刘瑞民,王秀娟,等.三峡库区大宁河流域非点源污染输 出风险分析[J].环境科学与技术,2011,34(6)：185－189. [TIAN Tian,LIU Ruimin,WANG Xiujuan,et al.Risk analysis of non-point source pollution in the Daning River Basin of the Three Gorges Reservoir area[J]. Environmental Science and Technology, 2011,34(6):185 -189.]   \n[16]沈珍瑶,刘瑞民,宫永伟,等.三峡库区农业非点源污染特征与 控制技术［M].北京：科学出版社,2015.［SHEN Zhenyao,LIU Ruimin,GONG Yongwei,et al. Characteristics and control techniques of agricultural non-point source pollution in the Three Gorges Reservoir area [M].Beijing:Science Press,2015.]   \n[17］王莺,张雷,王劲松.洮河流域土地利用/覆被变化的水文过程 响应[J].冰川冻土,2016,38（1):200－210.[WANG Ying, ZHANG Lei,WANG JinSong.Response of the hydrological process to land-use /cover change in Taohe River Basin[J].Journal of Glaciology and Geocryology,2016,38（1）:200-210.]   \n[18］朱丽,刘蓉,文军,等.近50a来洮河流域气候变化和干旱演变 过程［J].干旱气象,2018,36（2）:234-242.[ZHULi,LIU ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rong,WEN Jun,et al.Climate change and drought evolution in the Tao River Basin in the past 5O years[J].Journal of Arid Meteorology,2018,36(2):234-242.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19］景春刚.洮河流域水环境变化及综合评价分析[J].地下水， 2019,41（2）:62-63.[JING Chungang.Analysis of water environment change and comprehensive evaluation in Weihe River Basin[J].Groundwater,2019,41(2）:62-63.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[20］CHEN Bochao.Applicationof GPRbased SWAT-MODFLOW model's coupling calculation in Xi'an Heihe River Basin[J].Journal ofWater Resources Research,2015,4(5):424-431. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21]DAS S,PARDESHI S D.Comparative analysis of lineaments extracted from Cartosat,SRTM and ASTER DEM:A study based on four watersheds in Konkan region,India[J].Spatial Information Research,2018,26(1）:47-57. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22]ARMOLD J,SRINIVASAN R,MUTTIAH R,et al.Large area hydrologic modeling and assessment part I：Model development [J].Journal of the American Water Resources Association,1998, 34(1):73-89. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23］杨志红，张春林.洮河流域土壤熵情变化规律分析[J].农业科 技与信息，2015，（7）:24-26.[YANGZhihong，ZHANGChunlin.Analysis of the change law of soil moisture in Taohe River Basin[J].Agricultural Science & Technology and Information,2015, (7):24 -26.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24］周芬.Kendall检验在水文序列趋势分析中的比较研究[J].人民珠江,2005,26（S1）:35-37.［ZHOUFen.Comparative studyofKendall test in trend analysis of hydrological sequences[J].Peo-ple'sPearl River,2005,26（S1） :35-37.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25］蔡朝阳.统计分析软件SPSS在化探数据处理中的应用[J].矿床地质,2010,29（S1）:635-636.[CAI Chaoyang.Application ofstatistical analysis software SPSS in geochemical data processing[J].Deposit Geology,2010,29（S1）:635-636.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[26］李庆和.基于GIS和USLE的准格尔旗土壤侵蚀量估算[J].水 土保持应用技术,2018,（4）:16-18.［LIQinghe.Estimation of soil erosion in Zhungeer banner Based on GIS and USLE[J].Ap plication of Soil and Water Conservation,2018,（4）:16-18.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SWAT simulation and countermeasures of non-point source pollution based on remote sensing and GIS in Taohe River Basin ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LIU Quan-yang， QI Ming-liang， MA Xiao-zhou， GONG Juan-xiao (Gansu Academy of Environmental Sciences,Lanzhou 73oooO,Gansu,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Based on the research progressof remote sensing and GIS technology,the elevation data,land use types,soil type characteristics,and meteorological data in the Taohe River basin in Qinghai and Gansu Province, China werecollected.The precipitation,surface runof,soilflow,infiltration,and evapotranspiration parameters relating to non-point source polutions were simulated using SWAT model to calculate non-point source polution loads of the erosion,total nitrogen and total phosphorus,and study the non-point source pollution characteristics in the Taohe River basin.The hydrological cycle simulated by SWAT model was based on the water balanceequation to predict the runoffof each hydrological response unit.We thencalculated the total runoff of the basin,which improves the prediction accuracy and more accurately describes the physical processes of the water balance.The effcts of long-term land management measures on water production,sediment yield,and agricultural chemical pollutantloads were predicted inthelarge-scalecomplex watershedofTaoheRiver basin with diferent types ofsoil,land uses,and management conditions.The plant growth model in the SWAT model can be used to assess water and nutrient migration,plant evapotranspiration,and biomass/yield in theroot zone.The intensityof erosionand sediment yield in each hydrological response unit were calculated using the modified universal soil loss equation-MUSLE.Finall,various forms of nitrogen/phosphorus migration and transformation were simulated inthe basin,with nutrients entering the mainstream and migrating downstream via surface runof and subsurface flows.Studies showed that the average annual erosion was $0 . 7 0 ~ \\times ~ 1 0 ^ { 8 } ~ \\mathrm { t }$ and the average annual total nitrogen and phosphorus of non-source pollutionloadswere 244.11 tand27.91t,respectivelyin the Taohe River basin.The averageannual erosion,total nitrogen,and total phosphorus of non-point source polution loads showed adecreasing trend with indistinct fluctuations. At the same time,countermeasures and suggestions for non-point source pollution prevention and control,such as changing land-use patterns,setting up vegetation filter belts,and changing slopes to terraces were proposed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Taohe River Basin;non-point source pollution;SWAT model;countermeasures ",
+        "page_idx": 8
+    }
+]

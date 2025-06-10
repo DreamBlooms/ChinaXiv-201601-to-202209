@@ -1,0 +1,500 @@
+[
+    {
+        "type": "text",
+        "text": "矿用三相异步电动机故障仿真分析 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张景杰",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d98bec7ed4fc6550c42a675b30455a1cddca3b9aff9f651a9e35661ef566f44a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张景杰男 1988年生，硕士，主要从事电气工程专业的教学和科研工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（河南广播电视大学 郑州 454000 )",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：三相异步电动机是煤矿生产主要的动力设备。损坏的电动机中有 $90 \\%$ 以上，是由于电动机在异常情况下运转造成的，其中主要原因有：接地、堵转、断相、三相电压不平衡、过载和短路故障等。工作在这种异常状态，会使电动机的定子电流过高，长期运行会造成电动机寿命降低和绝缘老化，严重时会烧毁电动机。因此，研究电动机运行中的各种状态，分析异常情况下的各种电流和电压特征，是正确判断电动机的故障和使用合适保护的基础。传统的分析三相异步电机方法是首先根据电机的数学模型创建微分方程，然后使用数值分析法求解简化分析计算，本文采用了Matlab软件中的 SimpowerSystems工具箱，分析三相异步电机的运行状态，并对异步电动机的短路、过载、堵转和断相等典型故障进行仿真分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：三相异步电动机Matlab 故障分析中图分类号：TM343.2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mine Three-Phase Asynchronous Motor Fault Simulation Analysis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Jingjie (Henan Radio & Television UniversityZhengzhou454000 China ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Three-phase asynchronous motor as motive equipment in mine production, are widely used in in mine production.More than $90 \\%$ of the motor damage is the resul of the abnoamal operation ,which is often caused by the overload, stall, broken phase, three-phase voltage unbalance,grounding and short circuit and so on. These abnormal operation states may cause motor stator current over the rated current. Even more, long-term operation in this state run,may cause motor insulation aging and reduce the mechanical life at the ideal expectation,and even worse, it may burn motor badly. Thus, to analysis of the motor operation state and to find out all kinds of exceptional cases of current characteristics,as the fundation of motor judgment and effective protection, appear more important.As is known to all, motor is a nonlinear, strong coupling,multivariate mechanical and electrical energy conversion system,and the traditional analysis method includes a set of differential equation fiestly,and then using the numerical analysis method to solve its calculation and analysis.The design uses the software SimPower System of Matlab toolbox to realize the motor running analysis,and the simulation analysis of the typical faults such as short circuit,overload, stalland so on of asynchronous motors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Three-phase asynchronous motorr, Matlab,malfunction analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电动机是矿并生产使用广泛的动力设备，随着煤矿产量的不断增加，生产机械化程度也日益提高，生产中所用的电动机越来越多，其功率也越来越大。由于煤炭开采业的工作环境异常恶劣，矿山机电设备的损坏程度大、损坏比例非常高。电动机的故障会直接影响煤矿的安全生产，电动机故障引起的事故已经占煤矿井下机电事故 $60 \\%$ 以上，给矿井的安全生产和经济效益带来了很大影响[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 矿用三相异步电动机",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1矿用三相异步电动机概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电动机是煤矿生产最主要的动力，所以煤矿矿用电动机类型较多。按照供电电源性质来分，可以分为直流和交流两类。而直流电动机在煤炭生产中应用比例较少，主要用于矿用提升机以及电机车等设备。在煤矿生产的动力中，应用最多的是三相异步电动机，如图1所示。三相异步电动机效率高，结构简单，转动部分和固定部分除了两端轴承之外没有其他接触点，因而易做成隔爆结构，具有起动和过载性能较好，转动力矩平稳等优点[3]，所以煤矿中绝大部分的电动机都是采用三相交流异步电动机，本设计进行的就是矿用三相交流异步电动机保护的仿真。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b5a1864e0332ef25e6eaf22e5c5de93af2a3f6025f312c5c0e76dcd338c5931.jpg",
+        "img_caption": [
+            "图1隔爆型三相异步电动机",
+            "Fig.1Explosion-proof three-phases asynchronous motol "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2矿用三相异步电动机的数学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "矿用三相异步电机作为煤矿生产的最主要动力，其动态模型是一个强耦合、多变量且高阶的非线性动力系统[3]。本设计在三相异步电动机动态模型的基础上进行仿真，由于动态模型变量多、阶数高且求解复杂，故在建立数学模型时，可以针对本课题做以下假设：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）忽略电力系统谐波，假设矿用三相异步电动机定子和转子绕组三相完全对称（在空间上相互差 $1 2 0 ^ { \\circ }$ ，如图2所示，气隙均匀，磁动势按照正弦分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/867355f3dff095628a15435b7b4c03c55031fc9009e3f805d007b599347a2945.jpg",
+        "img_caption": [
+            "图2异步电机在三相静止坐标系下的物理模型Fig.2The induction motor model of the ABC Coordinat"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）各绕组阻抗的值恒定不变，自感和互感系数不变。(3）对铁心的损耗不考虑。(4）不考虑外界因素的影响，例如，温度和频率变化。在d、q坐标轴下矿用隔爆型三相异步电动机数学模型如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）电压方程",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { U _ { \\mathrm { d s } } = R _ { \\mathrm { s } } i _ { \\mathrm { d s } } + p \\varPsi _ { \\mathrm { d s } } } \\\\ { U _ { \\mathrm { q s } } = R _ { \\mathrm { s } } i _ { \\mathrm { d s } } + p \\varPsi _ { \\mathrm { d s } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { U _ { \\mathrm { d r } } = R _ { \\mathrm { r } } i _ { \\mathrm { d r } } + p \\psi _ { \\mathrm { d r } } + \\omega _ { \\mathrm { r } } L _ { \\mathrm { m } } i _ { \\mathrm { q s } } - \\omega _ { \\mathrm { r } } L _ { \\mathrm { r } } i _ { \\mathrm { q r } } } \\\\ & { U _ { \\mathrm { q r } } = R _ { \\mathrm { r } } i _ { \\mathrm { d r } } + p \\psi _ { \\mathrm { q r } } - \\omega _ { \\mathrm { r } } L _ { \\mathrm { m } } i _ { \\mathrm { d s } } - \\omega _ { \\mathrm { r } } L _ { \\mathrm { r } } i _ { \\mathrm { d r } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）磁链方程",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\psi _ { \\mathrm { d s } } = L _ { \\mathrm { o r } } i _ { \\mathrm { d s } } + \\psi _ { \\mathrm { d m } } = L _ { \\mathrm { o s } } i _ { \\mathrm { d s } } + L _ { \\mathrm { m } } ( i _ { \\mathrm { d s } } + i _ { \\mathrm { d r } } ) } \\\\ & { \\psi _ { \\mathrm { q s } } = L _ { \\mathrm { o s } } i _ { \\mathrm { q s } } + \\psi _ { \\mathrm { q m } } = L _ { \\mathrm { o s } } i _ { \\mathrm { q s } } + L _ { \\mathrm { m } } ( i _ { \\mathrm { q s } } + i _ { \\mathrm { q r } } ) } \\\\ & { \\psi _ { \\mathrm { d r } } = L _ { \\mathrm { o r } } i _ { \\mathrm { d r } } + \\psi _ { \\mathrm { d m } } = L _ { \\mathrm { o r } } i _ { \\mathrm { d r } } + L _ { \\mathrm { m } } ( i _ { \\mathrm { d s } } + i _ { \\mathrm { d r } } ) } \\\\ & { \\psi _ { \\mathrm { q r } } = L _ { \\mathrm { o r } } i _ { \\mathrm { q r } } + \\psi _ { \\mathrm { d m } } = L _ { \\mathrm { o r } } i _ { \\mathrm { q r } } + L _ { \\mathrm { m } } ( i _ { \\mathrm { q s } } + i _ { \\mathrm { q r } } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）电磁转矩和机械转矩方程式",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { e } } = N _ { \\mathrm { p } } \\frac { L _ { \\mathrm { m } } } { L _ { \\mathrm { r } } } ( \\psi _ { \\mathrm { d r } } i _ { \\mathrm { q s } } - \\psi _ { \\mathrm { q r } } i _ { \\mathrm { d s } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { e } } - T _ { \\mathrm { l } } = \\frac { J } { N _ { \\mathrm { p } } } \\frac { \\mathrm { d } \\omega _ { \\mathrm { r } } } { \\mathrm { d } t } + \\frac { R _ { \\mathrm { \\Omega } } } { N _ { \\mathrm { p } } } \\omega _ { \\mathrm { r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3矿用三相异步电动机的故障特殊性 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在煤矿开采掘进作业过程中会产生大量煤尘、瓦斯等多种混合性易燃、易爆物质，煤层地质复杂多变，要求矿用三相异步电机必须具有防爆性能。矿用电动机多为移动式，工作面潮湿，环境温度受矿井通风系统制约，其故障相对于普通的三相异步电机有很强的特殊性，而在煤矿生产不同场合所用的三相异步电机又有不同的特殊性。例如，采煤机用三相异步电机功率消耗并非恒定消耗，是随煤层构造的变化而变化的。煤层中可能夹杂有岩石等，电机负荷来回波动，有时出现过载与强烈振动，也可能出现堵转情况，因此过载跟堵转是采煤机用电动机常见故障。又如，刮板运输机一般为单速或双速电动机驱动，而且电动机多在负载状态下起动，因此刮板运输机电动机起动故障发生的频率较多[4]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 短路故障的Simlink仿真",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1电动机的参数选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本设计中选择的电动机为南阳防爆电机集团生产的YX3E一5型三相异步电动机，详细参数见下表。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5255266318e2e0cc4af8095e7ac043a556fb017a8acaff87208d1887df8ced4b.jpg",
+        "table_caption": [
+            "表YX3E—5型电动机参数",
+            "Tab.YX3E—5 motor parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数名称</td><td>数值</td><td>参数名称</td><td>数值</td></tr><tr><td>额定功率/kW</td><td>10</td><td>额定电压/V</td><td>380</td></tr><tr><td>频率/Hz</td><td>50</td><td>定子电阻/Ω</td><td>1.113</td></tr><tr><td>定子漏感/mH</td><td>0.0057</td><td>转子电阻/Ω</td><td>1.04</td></tr><tr><td>转子漏感/mH</td><td>0.0068</td><td>互感/mH</td><td>0.20</td></tr><tr><td>转动惯量/(kg·m)</td><td>0.02</td><td>极对数</td><td>4</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2搭建 Simulink仿真模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三相异步电动机短路故障仿真模型如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6992ad3784f95b91fec502415f777222b71e2156b03ff47b1c18fb563f96b562.jpg",
+        "img_caption": [
+            "图3三相异步电动机短路故障 Simulink仿真模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3短路故障分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "短路故障是指供电线路对大地直接或者间接发生金属性的接触或经过小的阻抗的接触而引起的电动机短路故障，又分为相间短路和匝间短路两种。短路故障是由于电动机电流过大、电源电压变动过大、单相运行、机械碰伤或制造不良等造成绝缘损坏所致，分绕组匝间短路、绕组间短路、绕组极间短路和绕组相间短路。而矿用三相异步电动机常常工作在高负荷情况下，因此短路故障是最常见的故障之一。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此重点对短路故障进行仿真分析，首先仿真电力系统中性点不接地时三相异步电动机的故障，图4和图5为两相短路时的故障波形。在波形中， $0 . 1 \\sim 0 . 6 \\mathrm { s }$ 为短路时间。在发生故障的时间$( 0 . 1 \\sim 0 . 6 \\mathrm { s } ) \\$ ）的仿真结果分析为：三相定子电流不对称，出现较大的负序电流分量；相电流的大小突然增大；短路是不对称故障，三相阻抗不对称，匝间短路相的阻抗值比正常相的阻抗值小，继续运行能引起电动机转子不稳定等状况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea6d56d29fa875156b9b141db3c2b779793d49734d864c0129dcdbc8504bf572.jpg",
+        "img_caption": [
+            "Fig.3Three-phase asynchronous motor fault Simulink simulation model ",
+            "图4供电系统中性点不接地的两相短路电流波形 Fig.4Non-ground neutral is the power of two phase short circuit current waveform "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a5fc576f1874f0fe65bfa58b5c1e55bc91f6f5f6f06d22a92adf7135b7757ba.jpg",
+        "img_caption": [
+            "图5供电系统中性点不接地的两相短路电磁转矩波形 Fig.6The power supply of neutral point grounding two phase short circuit torque waveform "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了更好预防两相短路故障，考虑煤矿工作环境的特殊性，首先，要对电动机进行日常维护，对于大型设备要准备备用设备，避免一台设备长时间高负荷运行，可以主设备跟备用设备来回切换配合使用；其次，提高供电电源质量，减少供电系统电压波动、频率偏差等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统中性点不接地情况下电动机三相短路和电磁转矩波形如图6和图7所示，发生短路的故障区间是 $0 . 1 \\sim 6 \\mathrm { s }$ ，电动机三相短路的短路电流计算为$I _ { \\mathrm { p } } = { \\frac { U _ { \\mathrm { a p } } } { \\sqrt { 3 } Z _ { K \\Sigma } } } \\circ$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc2e26e8bbad692ffbf29677177b21bebb71135ab760db8e4539435dba2f9845.jpg",
+        "img_caption": [
+            "图6三相短路电流波形"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/117009065bd37316b7a25dc6d7775e9a23c8a1c90f2ccde66b24c642a7345131.jpg",
+        "img_caption": [
+            "Fig.7Three phase short circuit torque waveform "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三相短路故障发生概率较低，但是一旦发生，后果极其严重， $I _ { \\mathrm { p } }$ 为电动机发生短路故障时的电流，$U _ { \\mathrm { a p } }$ 是短路时刻所在点发生故障的平均电压， $Z _ { \\scriptscriptstyle { K \\Sigma } }$ 为系统短路时回路的所有阻抗之和，根据短路电流的计算方法得到短路电流大约为0.235A，而在仿真系统中短路时电流的最大值为0.286A，即有效值是0.203A，仿真分析的结果与理论计算的误差为$0 . 0 3 6 \\mathrm { A }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由仿真的波形图可得出如下结论：当系统发生短路故障时，短路瞬间会产生强大的冲击电流，并且短路电流将一直持续增大，会使设备产生大量的热量，容易烧毁设备，同样可能造成重大火灾及伤害事件，由于矿并具有高瓦斯环境，产生大量热量会间接引起瓦斯爆炸事故，严重威胁正在进行矿井作业的工作人员的生命安全。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 断相等故障的Matlab仿真",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1建立Matlab仿真模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用Matlab的SimpowerSystems工具箱中选择所需要元件建立 Simulink 仿真模型[5]。如图8所示。将合适的参数输入仿真模型中各个元件中。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d39dc53d7d26d374e0afd5bbaadbd89dd6f47dd7f2e30e3da540c68d60101a2c.jpg",
+        "img_caption": [
+            "Fig.6Three-phase short-circuit current waveform ",
+            "图7三相短路转矩波形",
+            "图8三相异步电动机Matlab仿真模型",
+            "Fig.8Three-phase asynchronous motor Matlab simulation model "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2过载运行分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三相异步电动机的过载是指其在某个允许的时间内流过电机的电流超过额定电流。三相异步电动机的过载能力是指最大转矩标幺值与额定转矩标么值之比，可以理解为三相异步电动机实际能够负载的最大负荷与额定负载负荷的比，比值越高，过载能力就越好，电动机性能也就比较优秀。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "产生过载的原因：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）拖动的机械有故障，当被拖动的机械有故障、转动不灵活或被卡住，将使电动机过载，造成电动机绕组过热。故检修电动机过热时，负载方面的因素不能忽视。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）拖动的机械负载工作不正常，设备虽然配套，但所拖动的机械负载工作不正常，运行时负载时大时小，如脱粒机喂入量过大时电动机过载而发热。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）当设备不配套，电动机的负载功率大于电动机的额定功率时，电动机长期过载运行（即小马拉大车），会导致电动机过热。维修过热电动机时，应先搞清负载功率与电动机功率是否相符，以防盲无目的拆卸。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假如电动机拖动的负载为 $1 ~ 3 0 0 \\mathrm { N \\cdot m }$ 时，图9和图10为过载运行时候三相电流波形和电磁转矩转矩波形。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ad2799a257dcf7969bb506cdbb7cf4e6d996c41e1b715265716036100606475.jpg",
+        "img_caption": [
+            "图9发生过载运行时定子电流波形"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8e21624d9eac8c7ce966976ddef7f61dc385f41fcd94b6962604af527dd2f69.jpg",
+        "img_caption": [
+            "Fig.9 Overload running current waveformof stator ",
+            "图10过载运行时定子电磁转矩波形",
+            "Fig.10Overload running torque waveform of stator "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由仿真的结果可以分析：电机转速下降，甚至可能下降到零；会增大电流，因此电动机发热量会增大；电机有低鸣声，振动一般；如果负载剧烈变化，会出现电机转速忽高忽低。长期过载运行，对电动机极为不利。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "常发生过载的电动机有：采煤机和掘进机。为了预防过载故障通常会采取特殊手段，例如，常用的掘进机电动机有较大的最大转矩或采用双速电动机，当遇到阻力矩较大情况时，转换为低速操作。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3三相不平衡运行分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当三相异步电动机发生不正常运行的时候，常常会遇到三相不平衡运行状态。造成电动机三相不平衡的主要原因是个别绕组匝间短路，其次是由于起动设备故障造成电动机接线柱上三相电压不平衡，除此之外还有谐振和单相接地等。对于绕组重新绕制的电动机，除上述原因外，还可能是由于线圈接线有错误或部分线圈匝数有错误所造成[5]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图11为三相异步电动机在其中某一项电压减小时的电磁转矩波形，系统的仿真时间为 $0 . 5 \\mathrm { s }$ 。三相电压不平衡严重时，会使转子和定子绕组电流额外增加，产生严重的不平衡还会使电磁转矩减小，电磁噪声增加。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6775a7c24150e033bb708b2f3613a01a14346a997db061add3d9a733fc3e3ad2.jpg",
+        "img_caption": [
+            "图11 三相不平衡运行转矩波形",
+            "Fig.11Three phase unbalanced operation torque waveform "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不对称故障：A相的电流大幅度减少，且定子绕组电流大于额定电流。长时间运行在三相不平衡状态，电压最高的相可以导致电机绕组绝缘受到破坏，并引起绕组匝间短路等更严重的故障。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过以上分析可知，由于煤矿生产具有特殊的工作环境，导致矿用三相异步电动机的故障的特殊性。长期工作运行在恶劣环境下，电动机短路、过载及三相平衡故障时有发生。为了减少矿用电动机故障率，首先，要对电动机使用针对矿用电动机用的综合保护器进行保护；其次，加强机电设备的管理，建立建全各项管理制度，严格交接班手续，加强检修班对机械设备及电动机的维护，勤检查，及时发现问题及时处理，建立完备、准确的安装试运转验收记录，并以此为基础，做好运行中的的电动机维护、监测和状态诊断，以保证电动机处于良好状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 吕辉，刘诤．基于Matlab 的异步电动机故障仿真分析[J]．吉林化工学院学报，2010，27(1)：73-76.Lü Hui, Liu Zheng. Simulating on typical fault ofasynchronous motor based on Matlab[J]. Journal ofJilin Institute of Chemical Technology,2010,27(1):73-76.  \n[2] 李建军，王雪琴．煤矿用电动机损坏原因与修复[J].煤炭技术，2008，27(5)：44-45.Li Jianjun,Wang Xueqin. Damaged reason andrepairing of coal mine electric motor[J]. CoalTechnol0gy, 2008,27(5): 44-45.  \n[3] 胡虔生．电机学[M]．北京：中国电力出版社,2009.  \n[4] 张小红．矿用电动机性能特点及故障处理[J]．机械工程师，2014(5)：257-258.  \n[5] 于群，曹娜．Matlab/Simulink 电力系统建模与仿真[M]．北京：机械工业出版社，2012.  \n[6] 纪志成，沈艳霞，姜建国．基于Matlab无刷直流电机系统仿真建模的新方法[J]．系统仿真学报,2003，15(12):1745-1749.Ji Zhicheng,Shen Yanxia, Jiang Jianguo.A novelmethod for modeling and simulation of BLDCsystem based on Matlab[J]. Journal of SystemSimulation,2003,15(12): 1745-1749.  \n[7] 仍月仙．无刷直流电动机转速模糊PID控制系统仿真[J]．电气应用，2016，35(24)：24-29.  \n[8] 纪志成，薛花，沈艳霞．基于Matlab交流异步电机矢量控制系统的仿真建模[J]．系统仿真学报,2004，16(3):384-389.Ji Zhicheng,Xue Hua,Shen Yanxia.Modeling andsimulation of AC asynchronism motor vector controlsystem based on Matlab[J]. Journal of SystemSimulation, 2004,16(3): 384-389.  \n[9] 贾建强，韩如成，左龙．基于Matlab/Simulink 的交流电机调速系统建模与仿真[J]．电机与控制学报，2000，4(2)：91-93.Jia Jianqiang, Han Rucheng, Zuo Long. Model andsimulation of induction motor control system basedon Matlab/Simulink[J]. Electric Machines & Control,2000, 4(2): 91-93.  \n[10]张洪宝，王秀和，仲慧．三相异步电动机的Matlab 仿真研究[J]．电机技术，2009(4)：14-18.Zhang Hongbao,Wang Xiuhe, Zhong Hui, Matlabsimulation research of the three phase asynchronousmotor[J]. Electrical Machinery Technology, 2009(4):14-18.  \n[11]邵杰．基于Matlab/Simulink 异步电机矢量控制系统仿真[J]．自动化技术与应用，2009，28(3)：73-76.Shao Jie,Simulation of the asynchronous motorsystem based on Matlab/Simulink[J]. Techniques ofAutomation and Applications,2009,28(3): 73-76.  \n[12]王俊柳，王敏，王颖．基于Matlab的异步电动机仿真试验平台[J]．计算机仿真，2002，19(4)：118-123.Wang Junliu, Wang Min, Wang Ying. Simulationplatform of the AC motor based on Matlab[J].Computer Simulation, 2002,19(4): 118-123.  \n[13]郭冀岭，王君瑞，王远波．基于Matlab/Simulink的异步电机直接转矩控制系统仿真[J]．电机技术,2005(2): 14-17.Guo Jiling,Wang Junrui,Wang Yuanbo. Simulationof induction motor direct torque control system basedon Matlab/Simulink[J]. Mechanical & ElectricalEngineering Magazine, 2005(2): 14-17.  \n[14]史晓非，张忠，贾洪成．用Matlab 仿真异步电机直接转矩控制系统[J]．大连铁道学院学报，2000,21(3): 84, 88.Shi Xiaofei, Zhang Zhong, Jia Hongcheng. UsingMatlab to simulate the direct self-control systemof induction motor[J]. Journal of Dalian RailwayInstitute,2000,21(3): 84, 88.  \n[15]卢广东，邵珠勇．矿用电动机常见故障分析与维护[J]．山东煤炭科技，2010(6)：86,88.  \n[16]李荣高，宁玉泉．SPWM交流调速的 Matlab 仿真[J]．中小型电机，2001，28(3)：41-43.Li Ronggao,Ning Yuquan. Matlab simulation forSPWM speed adjusting[J]. S & Meectric Machines,",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2001,28(3):41-43. [17] PovinelliRJ,Bangura JF,Demerdash NA O,et al. Diagnostics of bar and end-ring connector breakage faults in polyphase induction motors through a novel dual track of time-series data mining and time-stepping coupled FE-state space modeling[J]. IEEE Transactions ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "on Energy Conversion,2002,17(1):39-46. [18] CruzS,Cardoso AJM.Multiple reference frames theory:a new method for the diagnosis of stator faults in three-phase induction motors[J].IEEE Transactions on Energy Conversion,20o5,20(3): 611-619. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（上接第39页）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Machines& Control Application,2015, 42(5):28-31. [10] 何柏荣，马继瑞，韩桂军，等．海水温度垂直分 布预报数据同化的离散伴随算子法[J]．计算物理， 2009，17(5):553-559. He Borong,Ma Jirui,Han Guijun,et al.Discrete adjoint operator method for the data assimilation of vertical distribution of sea water temperature[J]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chinese Journal of Computation Physics,2009,17(5): 553-559.[11] 陈敏祥．温度应力对电动机可靠性及寿命的影响[J].中小型电机，1998，25(3)：18-21.Chen Minxiang.Effect of temperature stress onreliability and service life of electric motors[J].S&MElectric Machines,1998,25(3): 18-21.",
+        "page_idx": 6
+    }
+]

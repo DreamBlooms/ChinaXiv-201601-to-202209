@@ -1,0 +1,132 @@
+$a -$ 酮戊二酸对动物营养物质代谢和一些功能性指标的调控作用及其机理
+
+郭昊璐 $^ { 1 , 2 }$ （20 于航宇1,2 孙会1,2\*
+
+（1.吉林农业大学动物科技学院，长春130118；2.吉林省动物营养与饲料科学重点实验
+
+室，长春 130118)
+
+摘要： $a -$ 酮戊二酸既是三羧酸循环中为动物机体供能的重要物质，又是连接碳代谢和氮代谢的重要枢纽。它可提高动物机体的免疫功能，影响钙磷代谢，增强骨密度和提高骨骼矿物质元素含量，改善肠道黏膜结构，正面影响部分氨基酸代谢。此外， $a -$ 酮戊二酸可以通过激活雷帕霉素靶蛋白（mTOR）信号通路增加骨骼肌蛋白质的合成和沉积，进而改善动物的生长性能。本文就 $a -$ 酮戊二酸对动物营养物质代谢和一些功能性指标的调控作用进行了综述，为 $a -$ 酮戊二酸在养殖领域中的推广应用提供参考依据。
+
+关键词： $a -$ 酮戊二酸；动物；营养物质代谢；调控；机理
+
+$a -$ 酮戊二酸（ $\alpha$ -ketoglutaricacid，AKG）是一种具有多重作用的短链羧酸，它在动物体内可以通过三羧酸循环为机体提供大量能量，并且可以转化为谷氨酰胺、谷氨酸等氨基酸，是连接碳代谢和氮代谢的重要中间物质（图1）[I]。谷氨酰胺是动物血液和体组织中的一种重要氨基酸，对动物体有多重作用。谷氨酰胺作为一种条件性氨基酸，是动物体胃肠道细胞的重要供能物质，在维持早期断奶仔猪肠道结构和功能等方面具有重要作用[2]。但是在实际使用过程中，谷氨酰胺不仅价格昂贵，且非常不稳定，对酸十分敏感，容易被环化生成有毒的焦谷氨酸和氨。AKG具有谷氨酰胺碳架，可以通过谷氨酰胺脱羧酶或转氨酶形成谷氨酸，然后进一步形成谷氨酰胺，这个过程快速稳定，并且安全无毒，所以，AKG作为谷氨酸和谷氨酰胺的前体物质而备受关注。研究表明，AKG可以促进动物机体的生长，提高其生长性能[3-6]。研究发现，AKG在调控动物肠道营养物质代谢方面可能替代谷氨酰胺[2]。
+
+AKG: $a -$ 酮戊二酸 $\mathfrak { a }$ -ketoglutaric acid； NADH, $\mathrm { \Delta N A D H ^ { + } }$ ：还原型烟酰胺腺嘌呤二核苷酸 reduced form of nicotinamide-adenine dinucleotide； $\mathrm { N A D ^ { + } }$ ：氧化型烟酰胺腺嘌呤二核苷酸oxidized form of nicotinamide adenine dinucleotide； $\mathrm { C O } _ { 2 }$ ：二氧化碳 carbon dioxide； $\mathrm { N H } _ { 3 }$ ：氨气ammonia。
+
+![](images/f229734eec439fa29ff61df4b74186e0800bf2aaba0f9e70f1c2648e4e8290bf.jpg)  
+Fig.1Tricarboxylic acid cycle and transamination
+
+# 三羧酸循环和转氨基作用
+
+1AKG对动物机体氧化应激和免疫的调控作用
+
+在注射脂多糖产生免疫应激的断奶仔猪饲粮中添加 $1 \%$ AKG，发现AKG可以缓解血液丙二醛含量增加和超氧化物歧化酶活性下降所造成的影响，说明AKG 可以缓解断奶带来的氧化应激，提高断奶仔猪的抗氧化能力；血浆球蛋白含量降低，说明AKG能够提高断奶仔猪的免疫功能[7]。夏利宁等在断奶大鼠饲粮中添加改进型中草药921合剂和AKG，发现复合添加改进型中草药921合剂和AKG 可以增加肠上皮淋巴结表面积，促进黏膜细胞分泌免疫球蛋白A（IgA)，改善肠道免疫功能，并且中草药和 AKG 的结合使用在效果和起始作用时间方面均要优于单独使用中草药。在草鱼饲料中添加AKG，发现AKG 可以显著提高草鱼血清超氧化物歧化酶和溶菌酶的活性，显著降低血清尿素氮和丙二醛含量，表明 AKG 可以提高草鱼的非特异性免疫功能[3]。
+
+# 2AKG对动物机体钙磷代谢的调控作用
+
+AKG 可调控动物机体内的钙磷代谢。钙、磷作为机体必须的矿物质元素，是形成机体骨骼和牙齿的重要成分，参与机体多种代谢的调节，还会影响某些激素的分泌[9。研究发现，在小羔羊饲粮中添加 $3 ~ \mathrm { g / k g }$ AKG 可显著增加骨小梁和皮质骨的密度[10]。研究证明，在仔猪饲粮中添加 $1 2 \ : \mathrm { g / k g }$ AKG 可显著增加骨骼中的矿物质密度[II]。一方面，AKG 在动物机体内可以转化生成谷氨酸，而谷氨酸是骨钙素的重要组成部分，骨钙素的生物学效应依赖于谷氨酸和维生素K；另一方面，AKG在动物体内还可以代谢产生脯氨酸，然后羟化生成羟脯氨酸，羟脯氨酸是合成结缔组织和骨胶原蛋白必不可少的物质，骨胶原蛋白也是骨基质的主要成分[12]。给新生羊连续14d摄入0.1g/kg AKG 溶液，发现血液脯氨酸含量和骨密度显著增加[13]。在仔猪饲粮中添加 $0 . 1 \ \mathrm { g / k g }$ AKG，发现股骨的矿物质密度显著增加[14]。这些研究进一步证明了AKG 对骨骼矿物质沉积有积极的调节作用。另外，在生长猪低蛋白质饲粮中添加2%AKG，发现可以显著降低粪中钙、磷的含量，显著增加钙、磷的表观消化率，可减少尿中钙、磷的含量，但效果不显著[12]。
+
+3AKG对动物机体肠道功能和健康的调控作用
+
+AKG 作为谷氨酸家族的代谢产物，可以通过三羧酸循环彻底分解成二氧化碳（ $\mathrm { C O } _ { 2 }$ ）和水，为小肠上皮细胞提供能量。谷氨酰胺是肠道和门脉系统的能量来源，能够合成谷氨酰胺的AKG 则是作为一种选择性代谢燃料，在维持小肠黏膜完整性方面发挥着重要的作用[15-16]。研究发现，饲料中添加 AKG 可以提高鲤鱼的肠道结构及其功能的完整性[17-18]。肠道不仅是吸收各种营养物质的主要场所，而且是吸收AKG的主要场所。研究表明，谷氨酰胺在动物机体内对肠道形态结构发育和肠道的营养物质吸收功能均有积极影响[19-22]。而 AKG在体内可以转化为谷氨酰胺，促进动物机体肠道的发育。AKG可以增加断奶仔猪各肠段的绒毛高度，提高其吸收能力[23]。饲粮中添加 AKG 可以在一定程度上增加 2周龄肉仔鸡的十二指肠长度[24]。关于中草药和 AKG的配合使用也有相关研究，研究证明，中草药和 AKG的配合使用具有提高动物肠道吸收能力的作用，其效果要强于单独使用中草药或AKG[25]。
+
+4AKG对动物机体氨基酸平衡和蛋白质沉积的调控作用
+
+AKG 在动物机体内具有运输氮和贮存氮的功能，它可以与体内的氨结合，降低内源氮的毒性[26]。研究表明，AKG 可以通过降低谷氨酸盐和谷氨酰胺的氧化作用进而减少血液中游离氨的含量[27]。AKG 可以改善因手术而产生的机体负氮平衡，并能增加肌肉中蛋白质的合成[28]。AKG 及相关产物谷氨酰胺、谷氨酸和鸟氨酸-α-酮戊二酸对老年疾病、术后和烧伤病人的恢复都有作用，长期口服AKG 可以降低血液透析病人血浆尿素和精氨酸含量，对蛋白质代谢产生积极影响[29-30]。在大鼠的无氮饲粮中添加AKG，发现血液中的氨基酸含量降低了 $22 \%$ ，但小肠上皮细胞数量增加，并且具有更小的体重损失[31]。研究证明，与甘氨酸相比，饲喂鸟氨酸 $- a -$ 酮戊二酸烧伤大鼠的血浆和肌肉的谷氨酰胺含量大幅度增加[32]。在免疫应激仔猪饲粮中添加AKG，发现肝脏游离丙氨酸和谷氨酸含量具有升高的趋势，赖氨酸和酪氨酸含量升高，并且血浆谷氨酸含量升高[3-34]。AKG 不仅可以促进动物上皮细胞蛋白质的合成，而且可以抑制蛋白质的降解[35]。研究表明，在不同蛋白质源饲料中添加 AKG可以显著增加松浦镜鲤肌肉的粗蛋白质含量，同时能显著提高静脉血清中氨基酸含量，而血清氨基酸含量的提高会使蛋白质的合成增加[36]。
+
+雷帕霉素靶蛋白（mTOR）信号通路在骨骼肌蛋白质翻译过程中起着重要作用。mTOR信号通路是重要的细胞内信号通路，它是生长调节的中心环节。2条上游信号通路磷脂酰肌醇3-激酶（PI3K）/蛋白激酶B（Akt）/mTOR 和丝/苏氨酸蛋白激酶（LKB1）/AMP 依赖的蛋白激酶（AMPK）/mTOR可以激活mTOR信号通路，然后通过激活2个下游相关信号通路核糖体 S6蛋白激酶（S6K）和真核细胞始动因子4E 结合蛋白1（4EBP1）来进行有序的蛋白质合成。调控mTOR上游信号通路的方式主要包括各种生长因子、氨基酸和三磷酸腺甙（ATP）的活化[37]。在研究饲粮中添加AKG 对脂多糖刺激仔猪小肠黏膜磷酸化mTOR 与mTOR以及磷酸化p70 核糖体蛋白 S6激酶（p70S6K）与p70S6K蛋白表达量比值的影响时发现，相对于脂多糖刺激对照组，AKG 组磷酸化mTOR与mTOR蛋白表达量的比值显著提高了 $4 7 . 9 3 \%$ ，磷酸化p70S6K与p70S6K蛋白表达量的比值显著提高了 $2 3 . 7 7 \%$ ，说明AKG可以作用于mTOR信号通路，提高蛋白质的合成以及沉积[34]。体外细胞试验表明，AKG 直接刺激C2C12细胞可以使细胞内总蛋白含量显著升高，所以AKG 也可能通过直接激活mTOR 信号通路来提高蛋白质的合成速率[38-39]。AKG 在机体内可以合成氨基酸，而氨基酸也可以激活 mTOR 信号通路[40]。因此，AKG 可能通过合成氨基酸来激活 mTOR 信号通路。
+
+# 5存在的问题和展望
+
+AKG 在动物机体消化道不同部位的消化吸收情况不尽相同。研究表明，AKG在小肠的消化吸收率最高，胃次之，结肠最低[41]。也有研究表明，AKG 在动物机体内整体吸收率不高。Junghans 等[42]发现十二指肠灌注对全身能量代谢和营养物质代谢有更大的影响。与谷氨酸和谷氨酰胺不同的是，AKG 始终会有一部分保留在机体内。对生长猪分别进行肠内和肠外注射 $5 \%$ AKG，发现肠内注射只有 $5 \%$ 的 AKG进入门静脉血液，而肠外注射则有 $86 \%$ 的
+
+AKG进入门静脉血液[43]。使用 $^ { 1 3 } \mathrm { C } .$ -AKG研究其利用率发现只有很少一部分会被氧化生成$^ { 1 3 } \mathrm { C O } _ { 2 } [ 4 4 ]$ 。由此发现，AKG在机体内的利用率比较低，需要通过另外的方式解决此问题，如包被过胃，或通过合成复合物如 $a -$ 酮戊二酸二甲酯、鸟氨酸 $- a -$ 酮戊二酸等；复合物在机体内是否具有与AKG 单体相同的效果，利用效率是否相同及其更深层次的机理还有待进一步研究。
+
+AKG 在动物生产和饲料领域有很大的应用前景，如动物去势或者生产之后的恢复、降低疫苗注射或者转群应激带来的负面影响等。使用AKG开发出更好的饲料添加剂，可以对动物的免疫功能、骨骼生长、氨基酸平衡和蛋白质合成、沉积等产生积极的影响。研究 AKG调控动物机体营养物质代谢等方面的有效作用，对提高动物的生长性能以及有效利用饲料资源有着重要的意义。
+
+参考文献：
+
+[1] 郭洪伟,堵国成,周景文,等.微生物发酵生产 $a -$ 酮戊二酸研究进展[J].生物工程学报,2013,29(2):141-152.  
+[2] 王蕾,吴信,付大波.α-酮戊二酸对动物肠道黏膜作用的研究进展[J].黑龙江畜牧兽医,2010(11):36-37.  
+[3] 金柏涛,王红权,梁健,等.α-酮戊二酸对草鱼生长和生化指标的影响[C]/第九届世界华人鱼虾营养学术研讨会论文集.厦门:中国水产学会,2013:1.  
+[4] XU Q, GATLIN D M. Effects of alpha-ketoglutarate (AKG) on growth performance andnon-specific immunity of juvenile red drum fed diets with low or adequate phosphoruslevels[J].Fish physiology and biochemistry,2017:1-10.  
+[5] 王金泉,项方献,姚刚.中草药结合AKG对断奶仔猪生长及消化吸收功能的影响[J].西北农林科技大学学报（自然科学版）,2011,39(5):27-31.  
+[6] 胡泉舟,侯永清,丁斌鹰.α-酮戊二酸对断奶仔猪生长性能和肠道功能的影响[C]/中国畜牧兽医学会动物营养学分会第十次学术研讨会论文集.北京:中国农业科学技术出版社,2008:362.  
+[7] 王友炜.α-酮戊二酸对脂多糖刺激仔猪生长性能、肠道功能和血浆指标的影响[D].硕士学位论文.武汉：武汉工业学院,2010  
+[8] 夏利宁,陶刚,王凤英,等.改进型中草药921合剂结合 $a -$ 酮戊二酸对断奶大鼠肠道免疫的影响[J].新疆农业大学学报,2004,27(2):91-95.  
+[9] 张铁鹰,张艳玲,闫素梅,等.用线性回归法测定生长猪内源钙、磷排泄量和豆粕钙、磷真消化率的研究[J].畜牧兽医学报,2008,39(12):1684-1691.
+
+[10] HARRISON A P,TYGESEN M P,SAWA-WOJTANOWICZ B,et al.α-Ketoglutarate treatment early in postnatal life improves bone density in lambs at slaughter[J].Bone,2004,35(1):204-209.
+
+[11]KOWALIK S,SLIWA E,TATARA M R,et al.Influence of alpha-ketoglutarate on mineral density and geometrical and mechanical parameters of femora during postnatal life in piglets[J].Bulletin of the Veterinary Institute in Pulawy,2005,49(1):107-111.
+
+[12]CHEN J S,WU F, YANG H S,et al. Growth performance，nitrogen balance,and metabolism of calcium and phosphorus in growing pigs fed diets supplemented with alpha-ketoglutarate[J]. Animal Feed Science and Technology, 2017, 226: 21-28.
+
+[13] TATARA M R,TYGESEN M P,SAWA-WOJTANOWICZ B,et al.Bone development:the effect of short-term alpha-ketoglutarate administration on long-term mechanical properties of ribs in ram lambs[J].Small Ruminant Research,2007,67(2):179-183.
+
+[14]ANDERSEN N K,TATARA M R,KRUPSKI W,et al.The long-term effect of $\mathfrak { a }$ -ketoglutarate,given early in postnatal life,on both growth and various bone parameters in pigs[J].Journal of Animal Physiology and Animal Nutrition,2008,92(5):519-528.
+
+[15]PIERZYNOWSKI S G,SJODIN A.Perspectives of glutamine and its derivatives as feed additives for farm animals[J].Journal of Animal and Feed Sciences,1998,7(S1):79-91.
+
+[16]位莹莹.α-酮戊二酸对松浦镜鲤生长性能、血清生化和肠道发育的影响[D].硕士学位论 文.上海:上海海洋大学,2014
+
+[17]JIANG J,ZHENG T,ZHOU X Q,et al.Influence of glutamine and vitamin E on growth and antioxidant capacity of fish enterocytes[J].Aquaculture Nutrition,20o9,15(4):409-414.
+
+[18] YAN L,XIAO Q Z.Dietary glutamine supplementation improves structure and function of intestine of juvenile Jian carp (Cyprinuscarpio var.Jian)[J].Aquaculture,2006,256(1/2/3/4):389-394.
+
+[19]姜俊,周小秋.Gln 对鲤鱼肠上皮细胞增殖和分化的影响[C]//第五届全国饲料营养学术研讨会论文集.北京：中国农业科学技术出版社,2006:167.
+
+[20]徐奇友,朱青,许红,等.丙氨酰-谷氨酰胺对鲤鱼生长性能、肠道发育和免疫的影响[C]//2010 年中国水产学会学术年会论文集.西安:中国水产协会,2011:1.
+
+[21]TANNURI U,CARRAZZA F R,IRIYA K.The effects of glutamine-supplemented diet on the intestinal mucosa of the malnourished growing rat[J].Revista Do Hospital Das Clinicas,2000,55(3):87-92.
+
+[22]WU G,MEIER S A,KNABE D A.Dietary glutamine supplementation prevents jejunal atrophy in weaned pigs[J].The Journal of Nutrition,1996,126(10):2578-2584.
+
+[23]胡泉舟.α-酮戊二酸对断奶仔猪生长性能和肠道功能的影响[D].硕士学位论文.武汉:武汉工业学院,2008.
+
+[24]余亲平,陈雁群,谢金蝉,等.日粮添加 $a -$ 酮戊二酸对肉仔鸡生长性能及组织器官发育的影响[J].中国畜牧兽医,2010,37(10):10-14.
+
+[25]付晓辉,项方献,罗金生,等.中草药结合 ${ \mathfrak { a } } -$ 酮戊二酸作为饲料添加剂对断奶仔猪消化吸收功能的影响[J].黑龙江畜牧兽医,2011(7):71-72.
+
+[26]宋芳杰.谷氨酰胺及其前体物对松浦镜鲤生长性能、免疫和肠道发育的影响[D].硕士学位论文.南京:南京农业大学,2016
+
+[27] REN W K,DUAN J L,YIN J,et al.Dietary $L$ -glutamine supplementation modulates microbial community and activates innate immunity in the mouse intestine[J].Amino Acids,2014,46(10):2403-2413.
+
+[28] BLOMQVIST B I,HAMMARQVIST F,VON DER DECKEN A,et al.Glutamine and $\mathfrak { a }$ -ketoglutarate prevent the decrease in muscle free glutamine concentration and influence protein synthesis after total hip replacement[J].Metabolism,1995,44(9):1215-1222.
+
+[29] RIEDEL E,NUNDEL M,HAMPL H.α-Ketoglutarate application in hemodialysis patients improves amino acid metabolism[J].Nephron,1996,74(2):261-265.
+
+[30] HE L Q,XU Z Q,YAO K,et al.The physiological basis and nutritional function of alpha-ketoglutarate[J].Current Protein and Peptide Science,2015,16(7):576-581.
+
+[31]PIVA A,MORLACCHINI M,PRANDINI A,et al.α-Ketoglutaric acid reduces nitrogen losses in rats fed nitrogen-free diet[C]/Digestive Physiology of Pigs:Proceedings of the 8th Symposium.Uppsala:CABI,2001:101.   
+[32]LE BOUCHER J,OBLED C,FARGES M C,et al.Ornithine alpha-ketoglutarate modulates tissueproteinmetabolisminburn-injuredrats[J].TheAmericanJournalof Physiol0gy,1997,273(3):E557-E563.   
+[33]李永塘,付大波,侯永清,等 $. \mathsf { a } -$ 酮戊二酸对免疫应激仔猪肝脏氨基酸代谢的影响[J].饲料 工业,2010,31(3):10-12.   
+[34]王蕾. $\mathfrak { a } -$ 酮戊二酸对脂多糖刺激仔猪肌肉和肠黏膜组织生长与代谢的影响及其分子机 理[D].硕士学位论文.武汉:武汉工业学院,2009.   
+[35]YAO K,YIN Y L,LI X L,et al.Alpha-ketoglutarate inhibits glutamine degradation and enhancesproteinsynthesisinintestinalporcineepithelialcels[J].Amino Acids,2012,42(6):2491-2500.   
+[36]魏玉强,徐奇友,位莹莹,等.不同蛋白源饲料中添加 $a -$ 酮戊二酸对松浦镜鲤肌肉成分、 血清氨基酸和生化指标的影响[J].东北农业大学学报,2015,46(1):94-100.   
+[37]綦松智,吴登俊,张中显.mTOR对信号通路调控的研究进展[J].中国畜牧杂 志,2010,46(1):57-60.   
+[38]INOKI K,OUYANG HJ,LI Y,et al.Signaling by target of rapamycin proteins in cell growth control[J].Microbiology and Molecular Biology Reviews,2005,69(1):79-100.   
+[39]蔡兴才,江青艳,束刚,等 $. a -$ 酮戊二酸对骨骼肌细胞蛋白质合成的影响[C]//全国动物生 理生化第七届全国代表大会暨第十三次学术交流会论文集.沈阳:中国畜牧兽医学 会,2014:1.   
+[40]AVRUCH J, LONG X, ORTIZ-VEGA S, et al. Amino acid regulation of TOR complex 1[J]. American Journal of Physiology:Endocrinology and Metabolism,2009,296(4):E592-E602.   
+[41]BUDDINGTON R K,PAJOR A,BUDDINGTON K K,et al.Abs0rption of $\mathfrak { a }$ -ketoglutarate
+
+bythe gastrointestinal tract of pigs[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2004,138(2):215-220.
+
+[42]JUNGHANSP,DERNO M,PIERZYNOWSKI S,et al.Intraduodenalinfusionof （204号 $\mathfrak { a }$ -ketoglutarate decreases whole body energy expenditure in growing pigs[J].Clinical Nutrition,2006,25(3):489-496.
+
+[43]KRISTENSEN N B,JUNGVID H,FERNANDEZ JA,et al.Absorption and metabolism of a-ketoglutarate in growing pigs[J].Animal Nutrition,2002,86(7/8):239-245.
+
+[44] LAMBERT B D,FILIP R,STOLL B,et al.First-pass metabolism limits the intestinal absorption of enteral （204 $\mathfrak { a }$ -ketoglutarate in young pigs[J].The Journal of Nutriti0n,2006,136(11):2779-2784.
+
+Mechanism and Regulation of $\mathfrak { a }$ -Ketoglutaric Acid on Nutrient Metabolism and Some Functional Indicators of Animals
+
+GUO Haolu1,2 YU Hangyu1.2 SUN Hui1,2\*
+
+(1. College of Animal Science and Technology, Jilin Agricultural University, Changchun,130118, China; 2. Jilin Provincial Key Laboratory of Animal Nutrition and Feed Science, Changchun, 130118, China)
+
+Abstract: $\mathfrak { a }$ -ketoglutaric acid is an important substance for the animal organism energy supply in tricarboxylic acid cycle,and an important hub to connecting the carbon metabolism and nitrogen metabolism. $\mathfrak { a }$ -ketoglutaric acid can improve the immune function of animal organism, affect the metabolism of calcium and phosphorus, increase the bone density and the contents of bone mineral elements, improve the intestinal mucosal structure, and affect some amino acid metabolism positively. In addition, $\mathfrak { a }$ -ketoglutaric acid can improve the growth performance of animals by activating the mammalian target of rapamycin (mTOR) signaling pathway to improve protein synthesis and deposition in skeletal muscle.This article summerized the mechanism and regulation of $\mathfrak { a }$ -ketoglutaric acid on nutrient metabolism and some functional indicators of animals, and provided evidences for the popularization and application of $\mathfrak { a }$ -ketoglutaric acid in
+
+aquaculture.
+
+Key words: $\mathfrak { a }$ -ketoglutaric acid; animal; nutrient metabolism; regulation; mechanism

@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "新疆公共服务资源空间配置与城乡互动耦合协调发展评价",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴文婕，韩鹤，赵艳梅，桑川，王梦珂（新疆农业大学管理学院,新疆乌鲁木齐 830052)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：公共服务资源是社会发展的“先行资本”,对于区域社会经济发展与城乡融合发展具有正面外部效应。依据公共服务资源公平性、效益性与协调性原则，结合AHP、熵值与聚类分析方法，建立新疆公共服务资源配置与城乡互动效益评价指标体系，利用协调耦合发展模型，揭示研究区公共服务、城乡互动发展以及两者耦合协调度的总体特征和空间特征。结果表明：(1)新疆各地不同类型公共服务资源空间配置公平性有所差异，空间非公平性 $>$ 人口非公平性。(2）公共服务资源综合效益以及城乡互动发展水平呈现较低、一般(中等）、较高三个类型。(3)公共服务效益空间分异特征呈现出东南片区 $>$ 西北片区;城乡互动水平空间差异呈现出天山北坡经济带高于其他区域。(4)新疆大部分处于城乡互动与公共服务相互影响、相互磨合的过渡发展阶段，导致公共服务损益或城乡互动损益，个别区域处在两个系统相互制约、失调衰退阶段。通过进一步提出加快建立健全城乡互动公共服务体系,构建大、中、小多层次城镇空间格局，继续完善和开拓新的公共服务增长点以满足不断增长的城乡社会发展需求等建议措施，为确保城乡居民生存发展公平与效率，促进公共服务与城乡互动耦合协调发展提供参考借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：公共服务；公平与效益；城乡互动；耦合协调；新疆文章编号： $1 0 0 0 - 6 0 6 0 \\lfloor 2 0 2 0 \\rfloor 0 4 - 1 1 1 7 - 1 0 \\lfloor 1 1 1 7 \\sim 1 1 2 6 \\rfloor$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "城乡之间存在地域上的空间联系以及无形的经济、社会、服务功能联系。公共服务资源是社会发展的“先行资本”，为实现城乡互动发展背景下的要素流动、资源共享提供了平台，并与城乡互动发展互为共进关系，对于区域社会经济发展与城乡融合发展具有正面外部效应。在已经初步构建起覆盖全民的公共服务制度体系的背景下，实现公共服务公平性与效益性，需要加快推进城乡互动与公共服务资源配置的协调发展[]。公共服务资源合理化空间配置是城镇化与现代化的重要标志，在构建新型城乡互动空间格局，充分发挥地方资源优势中具有明显的比较优势。此外，公共服务资源高效利用也是实现城乡互动可持续发展的重要机制，有助于提升城乡居民生活质量，改善区域生活环境，促进城乡间人员、信息、资本等各类要素的双向互动，同时增加社会就业，稳定社会发展[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国外学者对公共服务资源的研究较为前沿，作为一个系统性研究主体，其研究被细化为服务功能、外部效应以及工程技术三个主要方面，通过新兴技术手段和经济管理方法来提升设施的服务功能以更好的满足公众需要、维护公共健康、创造卫生环境是当前的研究重点[3-4]。对公共服务资源布局与运行的实证研究主要涉及设施的配置、布局、以及使用者的感受，并将需求指数应用到评价公共资源的公平性领域[5-6]。此外，国外公共服务综合效益相关研究偏向多学科科学，涉及公共环境、健康卫生、生态环境、生物多样性以及经济管理等层面[。我国学者对公共服务资源的研究多集中在居",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "住区内部的公共服务资源配置方面，基于存量规划视角和生活圈理论对区域公共服务资源可达性研究领域或探索从使用者满意度视角评价公共服务资源综合效益[8-9]。公共服务资源作为公共产品，学者更多地关注其均等化、公平性，采用定性结合定量的研究思路，建立公共服务资源综合效益系统的理论评价体系[10-12]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆地域辽阔，地区间经济发展差异较大，城市化水平较低，农村区域占的比例较大，缺少具有核心辐射力的特大或大城市群[13，城市和农村长期处于分割发展状态，地区间、城乡间社会经济发展与公共服务并未实现协同发展，制约了新疆外向型经济的长远发展[14]。因此，深入分析公共服务与城乡互动发展之间的协调关系，探究区域间二者协调关系的差异，对于推进城乡一体化的开放式整体协调发展模式5，实现资源、劳动力、资金、文化、信息等各类要素在城乡之间自由流动，优化组合，提高利用效率，制定科学的区域经济、城市化与公共服务政策具有重要参考价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆地处中国西北部，丝绸之路经济带核心区，在国家向西开放空间格局中起着“承东启西”的关键作用，总面积 $1 6 6 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ,现辖14个地、州、市，101个县；2017年总人口 $2 ~ 2 8 6 . 7 2 \\times 1 0 ^ { 4 }$ 人，城镇人口比重 $4 9 . 3 8 \\%$ ；国民生产总值 $1 0 9 2 0 \\times 1 0 ^ { 8 }$ 元，占全国比重均不足 $2 \\%$ ，城乡人均可支配收入19975元，城乡人均收入比2.79，城乡发展差距明显。在“一带一路”与新型城镇化两大体系融合的背景下，新疆作为丝绸之路经济带核心区，其城镇化的健康发展不仅关系着新疆社会稳定、长治久安与经济的可持续发展,同时对“一带一路\"建设起到支撑作用[16]。综合考虑新疆地方与兵团行政管辖系统所辖县（市）级城镇状况，以及对城乡人口、社会、经济、公共服务资源数据统计的一致性，本文对自治区直辖县级市(兵团市)不做统计，最终确定14个研究单元(地区、州、市）图3)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "公共服务资源是指为市民提供公共服务产品的各种公共性、服务性设施，按照具体的项目特点可分为教育、医疗卫生、文化娱乐、交通、体育、社会福利与保障、行政管理与社区服务、邮政电信和商业金融服务等。基于数据的可获取性与一致性，参考《城市公共服务资源规划标准GB50442（修订）》(2018)界定本文“公共服务资源\"所包含教育文化、医疗卫生、交通枢纽、金融保险、公共场所、商业购物以及休闲娱乐七大类公共服务资源。文中涉及数据来源：公共设施数量空间点分布数据来源于百度地图API。遵循代表性和准确性原则，选择与居民生活息息相关且能体现城乡互动发展代表性的公共服务资源。包括2017年教育文化设施（幼儿园、中小学4199个点）、医疗卫生设施（中大型医院、社区医疗机构、卫生所、药店等共7435个点）、交通枢纽设施(火车站、机场、长途汽车站等共1369个点）金融保险设施(金融证券机构、银行网点等，共3805个点）公共场所设施（文化体育场馆、公共卫生间、广场等，共1990个点）、商业购物设施（各类商场及购物超市等27420个点）以及休闲娱乐设施（俱乐部、电影院等休闲娱乐场所，共3 742个点）。人口、经济、社会数据来源于《新疆统计年鉴》[17]。基于各类数据的时效性与统一性,本文以2017年末为研究时点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 公平性分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "公共服务具有公共产品(或准公共产品)性质，一般由政府承担并借助公共资源进行供给，用于满足社会成员的共性需求。依据罗尔斯主义8第一条公平性原则，政府所提供的公共服务应一视同仁地覆盖到所辖区域所有居民，不以居住地域不同、社会阶层不同而有所区别。本文所指的公平性是指七类公共服务资源在地域空间上实现平等分配，不因为地理空间区位的差异，导致公共服务资源分配不平等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "公平性采用基尼系数进行测度，该系数主要用来综合考察居民内部收入分配差异状况，反映社会分配不平等程度，在经济、社会其他领域不平等的研究，已得到广泛应用[19]。洛伦兹曲线为基尼系数提供计算基础。本文根据洛伦茨曲线提出的判断公共服务资源空间配置平等程度的指标：用横坐标表示常住人口累计比例，纵坐标表示公共服务服务量累计比例时， $4 5 ^ { \\circ }$ 直线被称为平等线，表示研究区各研究单元公共服务资源空间数量配置与人口总量是均衡的。任何分配不平等都导致洛伦兹曲线位于平等线下方。洛伦兹曲线的弯曲程度越大，反映分配越不平等。基尼系数 $G$ 为 $4 5 ^ { \\circ }$ 平等线与洛伦兹曲线之间的区域面积与 $4 5 ^ { \\circ }$ 平等线以下区域面积的比值(图1)。基尼系数介于 $0 \\sim 1$ 之间：在0.2以下，表示分配平等， $0 . 2 \\sim 0 . 3$ 之间表示差距较小，$0 . 3 \\sim 0 . 4$ 之间表示差距尚合理， $0 . 4 \\sim 0 . 5$ 之间表示差距偏大，0.5以上表示差距悬殊。本文采用基尼系数计算研究区各研究单元公共服务配置的人口公平性，几何法计算公式：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = 1 - \\sum _ { i = 0 } ^ { n - 1 } \\bigl ( p _ { i + 1 } - p _ { i } \\bigr ) \\bigl ( s _ { i + 1 } + s _ { i } \\bigr )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 为研究单元总数( $\\scriptstyle { \\overbrace { n { = } 1 4 } }$ ； $p _ { i }$ 为从 $1 \\sim i$ 个研究单元的常住人口累计比例; $p _ { i + 1 } - p _ { i }$ 是第 $i$ 个研究单元常住人口占研究区常住总人口比例； $s _ { i }$ 为从 $1 \\sim i$ 个研究单元的公共服务资源累计服务量（数量）比例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 综合效益评价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1指标体系构建国内学者对公共服务资源的效益评价理论研究基本遵循公平正义理论和均等化价值观念[20-21],但尚未形成统一的指标体系。本文认为，综合效益评价对应不同行业、不同研究主体有不同侧重层面内容。结合相关文献[22-24]及学者已有研究基础，本文以均衡论或永续发展为大方向，采取熵值法与AHP相结合对研究区公共服务综合效益以及城乡互动发展水平进行评价后对指标排序，体现了科学性、全面性与系统性。鉴于研究区公共服务资源内容的复杂性及特殊性，研究从基础设施、教育文化、医疗卫生、生态环境与社会保障五个方面对新疆公共服务资源效益展开评价，并从人口互动、经济互动、城乡协调以及可持续发展四个方面对城乡互动水平进行综合测度(表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2计算过程 (1)数据标准化处理。研究区共14个研究单元，27项评价指标。 $x _ { i j }$ 为第 $i$ 个研究单元第j个评价指标的指标值。标准化公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i j } = \\frac { x _ { i j } - x _ { i j \\operatorname* { m i n } } } { x _ { i j \\operatorname* { m a x } } - x _ { i j \\operatorname* { m i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)确定指标权重系数。为避免主观因素干扰，本文采取熵值法对各项评价指标赋权重，并采用加权求和最终得到两个子系统的综合得分。公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ 1 } { = } \\sum _ { j = 1 } ^ { n } p _ { j } y _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ 2 } { } = \\sum _ { j = 1 } ^ { n } p _ { j } y _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $F _ { 1 }$ 为研究单元公共服务效益指数； $F _ { _ { 2 } }$ 为城乡互动发展指数; $p _ { j }$ 为第 $j$ 个评价指标的权重系数; $y _ { i j }$ 为标准化后的指标值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3耦合协调模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "公共服务的非排他性对于区域发展具有正面外部效应，城乡之间往往借助公共服务资源进行频繁密切的人口、经济、社会互动往来。“耦合\"为物理概念，积极的耦合关系中，两个子系统相互促进、协同发展，消极的耦合关系中两个子系统则相互制约、失调发展。本文将城乡互动发展与公共服务视为两个相互作用而彼此影响的社会子系统，建立城",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1新疆公共服务资源效益与城乡互动水平评价指标体系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/84740ff03781607b68e1005da27f56328fc4eeac7be31ec70b7b6f028fe78e08.jpg",
+        "table_caption": [
+            "Tab.1Evaluation index system of Xinjiang public service resource benefit and urban-rural interactionlevel "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>评估维度</td><td>因素层</td><td>指标 (y)</td><td>熵值权重 (p)</td></tr><tr><td>公共服务资</td><td>基础设施</td><td>市辖区人均道路面积／m</td><td>0.042 9</td></tr><tr><td>源效益系统</td><td></td><td>市辖区万人均公交车数/辆</td><td>0.045 4</td></tr><tr><td></td><td></td><td>用水普及率／%</td><td>0.0562</td></tr><tr><td></td><td>教育文化</td><td>万人教师数／人</td><td>0.0582</td></tr><tr><td></td><td></td><td>万人中小大学学校数量／个</td><td>0.061 4</td></tr><tr><td></td><td></td><td>万人文化场馆数量／个</td><td>0.063 7</td></tr><tr><td></td><td>医疗卫生</td><td>万人医疗机构数量／个</td><td>0.064 3</td></tr><tr><td></td><td></td><td>万人均医生数／人</td><td>0.0568</td></tr><tr><td></td><td></td><td>万人床位数/张</td><td>0.0458</td></tr><tr><td></td><td>生态环境</td><td>人均绿地面积／m</td><td>0.044 6</td></tr><tr><td></td><td></td><td>生活垃圾无害化处理率/%</td><td>0.049 5</td></tr><tr><td></td><td></td><td>生活污水无害化处理率／%</td><td>0.040 6</td></tr><tr><td></td><td>社会保障</td><td>养老参保率/%</td><td></td></tr><tr><td></td><td></td><td>医疗参保率/%</td><td>0.123 9</td></tr><tr><td></td><td></td><td></td><td>0.125 6</td></tr><tr><td>城乡互动水人口互动</td><td></td><td>失业保险覆盖率/%</td><td>0.1211</td></tr><tr><td>平系统</td><td></td><td>非农人口比重/%</td><td>0.048 7</td></tr><tr><td></td><td></td><td>暂住人口比重/%</td><td>0.063 6</td></tr><tr><td></td><td>经济互动</td><td>人均国民生产总值/元</td><td>0.092 5</td></tr><tr><td></td><td></td><td>社会消费品零售总额/10元</td><td>0.104 1</td></tr><tr><td></td><td>城乡协调</td><td>非农产业结构比／%</td><td>0.105 6</td></tr><tr><td></td><td></td><td>建成区面积/km</td><td>0.1003</td></tr><tr><td></td><td></td><td>非农从业劳动力比重/%</td><td>0.101 8</td></tr><tr><td></td><td></td><td>城乡居民年人均收入比/% 耕地面积/hm</td><td>0.090 7</td></tr><tr><td></td><td>可持续发</td><td>固定资产投资／10*元</td><td>0.052 4 0.090 8</td></tr><tr><td></td><td>展</td><td>小城镇个数／个</td><td></td></tr><tr><td></td><td></td><td>公共财政收支比／%</td><td>0.0674 0.0821</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "乡互动与公共服务耦合协调模型，揭示区域公共服务资源配置与城乡互动发展之间不同程度的耦合关系，计算公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = { \\sqrt { \\frac { F _ { 1 } \\times F _ { 2 } } { \\left( F _ { 1 } + F _ { 2 } \\right) ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 为耦合度，介于 $0 \\sim 1$ 之间， $C$ 值越大，两个子系统耦合性越高；反之，耦合性越低。耦合度是对子系统间关联程度的度量，仅反映各系统间相互作用程度大小，不能反映各系统的水平。耦合协调度在耦合度的基础上综合了子系统的耦合状况和各自的发展层次，既能反映各系统是否具有较好的水平，又能反映系统间的相互作用关系，即动态耦合效应，引入耦合协调度公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1987dcf1e4d2eb12b9344663ef0a67ad0c794164848fa748fe3e805d76f5ea1.jpg",
+        "img_caption": [
+            "图1新疆常住人口各类公共设施空间配置服务量洛伦兹曲线 Fig.1Lorenz curve of public facilities service for all inhabitants in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\alpha { \\cal F } _ { \\mathrm { 1 } } + \\beta { \\cal F } _ { \\mathrm { 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = { \\sqrt { C \\times T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $T$ 为综合协调指数，反映城乡互动发展与公共服务整体协调的效应或水平； $D$ 为耦合协调度，介于 $0 \\sim 1$ 之间， $D$ 值越大,表明城乡互动发展与公共服务协调程度越高； $\\alpha$ 和 $\\beta$ 为待定系数，分别取$\\alpha = \\beta = 0 . 5$ ,认为两个子系统同等重要。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1新疆各地、州、市公共服务资源空间配置",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据公式(1)计算，得到研究区14个研究单元常住人口七大类公共设施空间配置服务量洛伦兹曲线与基尼系数(图1)。结合图1、图2分析可知：（1）全疆公共服务资源总量配置基尼系数为0.25，差距较小，以常住人口为参照，数量配置较为均衡。（2）分类考查：交通枢纽设施 $>$ 教育文化 $>$ 休闲娱乐 $>$ 金融保险 $>$ 公共场所 $>$ 医疗卫生 $>$ 商业购物， $\\textit { G }$ 越大，该项公共服务资源配置公平性越低。(3）以常住人口为参考标准，交通枢纽设施空间配置在14个地、州、市之间差距偏大，主要集中在乌鲁木齐市、伊犁州以及阿勒泰地区。(4)教育文化、休闲娱乐以及金融保险三类公共服务资源空间配置在地区间尚存在一定差距，教育文化主要集中在乌鲁木齐市，休闲娱乐多集中在乌鲁木齐市、塔城地区和伊犁州三地；金融保险则主要集中分布在乌鲁木齐和克拉玛依市。（5）公共场所、医疗卫生以及商业购物三类公共服务资源配置在地区间差距较小，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐市阿勒泰地区 0.4 克拉玛依市0.3 教育服务  \n塔城地区 吐鲁番市0.2 医疗卫生  \n伊犁州 U 哈密市 一交通枢纽0.0 一金融保险克州 阿克苏地区 一公共场所一商业购物巴州 喀什地区一休闲娱乐博州 和田地区昌吉州",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基本与常住人口累计比例相均衡。(6）乌鲁木齐作为新疆维吾尔自治区的首府城市，是全疆人口、经济等要素高密度聚集的区域，集聚了大规模高等级的各类公共服务资源，具有公共服务吸引力与社会经济发展潜力优势。（7）七类公共服务资源空间配置呈现出明显的空间分异特征，即北疆(天山以北)地区多于南疆(天山以南)地区，即空间非公平性 $>$ 人口非公平性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2新疆公共服务资源效益与城乡互动水平分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据熵值法与AHP法结合，对研究区14个研究单元进行测度，利用SPSS软件对基本公共服务综合效益指数以及城乡互动水平指数进行聚类分析，形成较高、中等（一般）、较低三个类型等级，导入AcrGIS10.2软件(图3、图4)。分析可知：（1）大部研究区为公共服务资源中等效益类型，公共服务资源空间配置数量与效益基本匹配，大体呈现出低比例一低效益、高比例一中等效益以及中等比例一高效益的空间格局。个别地区表现出两者的不均衡，例如伊犁州占有全疆 $1 1 \\%$ 的公共服务资源，但综合效益偏低;克拉玛依市虽只占有 $3 \\%$ 的公共服务资源，却有较高的综合效益。此外，公共服务资源综合效益呈现出明显的空间分异特征，即东南片区 $>$ 西北片区,4个地级市(乌鲁木齐、克拉玛依、吐鲁番及哈密)综合效益明显大于其他地州。(2）研究区城乡互动发展水平介于 $0 \\sim 0 . 8$ 之间，基本呈正态分布。南疆四地州由于地形复杂、极端天气频繁、居民点分散，导致城乡互动水平偏低，公共服务资源正面外部性效应不能充分释放。相比之下，天山北坡经济带城市群(昌吉州、哈密市、克拉玛依市及乌鲁木齐市)依托有利的自然地形条件与优越的社会经济环境，城乡间人口、资源、文化、资本等各类生产要素密切往来，城市化水平稳定增长，良性互动效益显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3新疆公共服务资源空间配置与城乡互动耦合协调发展评价",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.1协调发展度总体特征分析根据公式(5）～（7)计算，得到研究区14个研究单元的综合协调指数 $( T )$ 、耦合度 $( C )$ 以及耦合协调度 $( D )$ （表2)。分析可知：（1）研究区各地城乡互动与公共服务效益综合协调度、耦合度以及耦合协调度均为偏低水平，介于 $0 . 1 9 \\sim 0 . 6 4$ 之间，反映出研究区公共服务的非排他性对于区域城市化推进与城乡互动发展的正面外部效应并未充分体现出来。（2）从指数的绝对差异来看，耦合协调度最高为首府乌鲁木齐市， $D$ 值为0.6317;最低为南疆和田地区， $D$ 值为0.1962，差距较大，反映出研究区公共服务与城乡互动发展地区间发展水平不均衡，社会、经济、人口中心城市指向性明显。(3）研究区各地公共服务效益与城乡互动发展水平和耦合协调度总体上呈现出较高一致性，两者共进关系较为显著。(4)参考相关文献[25],将14个研究单元的耦合协调度阈值划分为低、中、高三类，大部分研究区为城乡互动与公共服务效益耦合协调中等水平(图5)。5）地级市的耦合协调水平明显高于地区与自治州，反映出地级市城市化水平较高，公共服务资源数量集中、利用效率较高、服务管理较完善。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/14509a3f4eabd8bd35717828efa66d615bf58157fe97cc9b27274866f5f4c144.jpg",
+        "img_caption": [
+            "图3新疆各地、州、市公共服务效益指数空间分异 Fig.3Spatial differentiation of public service benefit indexes in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b14faa7f00dd2d43174b5b2ebcafea5621b3cce987dacdca795732c3271ce99.jpg",
+        "table_caption": [
+            "表2新疆14地、州、市城乡互动与公共服务效益指数、协调指数、耦合度与耦合协调度",
+            "Tab.2Urban-rural interaction and public service benefit index, coordination index, coupling degree and coupling coordination degree of 14 study units in Xinjiang "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>F</td><td>F</td><td>C</td><td>T</td><td>D</td></tr><tr><td>乌鲁木齐</td><td>0.6312</td><td>0.632 2</td><td>0.6317</td><td>0.6317</td><td>0.631 7</td></tr><tr><td>克拉玛依</td><td>0.551 4</td><td>0.474 2</td><td>0.511 3</td><td>0.512 8</td><td>0.512 1</td></tr><tr><td>吐鲁番</td><td>0.416 9</td><td>0.349 6</td><td>0.3818</td><td>0.383 2</td><td>0.382 5</td></tr><tr><td>哈密</td><td>0.414 2</td><td>0.797 0</td><td>0.574 6</td><td>0.605 6</td><td>0.589 9</td></tr><tr><td>阿克苏</td><td>0.299 6</td><td>0.3615</td><td>0.329 1</td><td>0.330 5</td><td>0.329 8</td></tr><tr><td>喀什</td><td>0.3651</td><td>0.253 2</td><td>0.3041</td><td>0.309 2</td><td>0.306 6</td></tr><tr><td>和田</td><td>0.224 2</td><td>0.170 2</td><td>0.195 3</td><td>0.197 2</td><td>0.196 2</td></tr><tr><td>昌吉</td><td>0.386 5</td><td>0.505 2</td><td>0.4419</td><td>0.445 9</td><td>0.443 9</td></tr><tr><td>博州</td><td>0.301 6</td><td>0.240 3</td><td>0.269 2</td><td>0.2710</td><td>0.2701</td></tr><tr><td>巴州</td><td>0.397 0</td><td>0.325 9</td><td>0.359 7</td><td>0.361 4</td><td>0.360 6</td></tr><tr><td>克州</td><td>0.345 8</td><td>0.3109</td><td>0.327 9</td><td>0.328 3</td><td>0.3281</td></tr><tr><td>伊型</td><td>0.258 6</td><td>0.300 6</td><td>0.2788</td><td>0.279 6</td><td>0.279 2</td></tr><tr><td>塔城</td><td>0.3358</td><td>0.3007</td><td>0.3178</td><td>0.318 3</td><td>0.318 0</td></tr><tr><td>阿勒泰</td><td>0.3628</td><td>0.2529</td><td>0.302 9</td><td>0.3078</td><td>0.3054</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b23848df06a51a7938ca3b57256460e1c32c61316471f11e2171a4d46c590dc.jpg",
+        "img_caption": [
+            "图4新疆各地、州、市城乡互动水平指数空间分异 Fig.4Spatial differentiation of urban-rural interaction level indexes in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.2协调发展类型根据表2、图5以及相关文献[25-26],将新疆14地、州、市城乡互动与公共服务资源配置耦合协调发展类型划分为协调发展、过渡发展以及失调衰落三个类型(表3)。就全区而言，不论是城乡互动发展水平还是公共服务效益总体上都呈现出由天山北坡城市群向周边地州递减的分布情况，说明新疆维吾尔自治区长期以来侧重核心区发展的目标得到很好的实现。就具体空间分布看：（1）区域梯度差异依然存在，但总体上差别较大，全区分为8类发展类型，并遵循从中心城市向地州递减的规律。（2）首府乌鲁木齐市公共服务资源效益指数与城乡互动发展水平基本接近，协调耦合发展，相互促进。行政区划调整影响下，哈密市公共服务相对滞后;而农业人口比重偏低也在一定程度上影响了克拉玛依市的城乡互动水平。(3）公共服务资源数量、规模有限，建成区面积较小等因素，一定程度上造成对部分地州城乡互动发展的制约;而南北疆及沿边地区自然环境相对较差、地形复杂、社会经济发展滞后，交通不便，城乡间差距显著，公共服务资源的中心集聚指向性等因素，也导致其城乡互动缺乏动力。（4）作为国内最大的连片贫困地区，和田地区的公共服务与基础设施发展严重滞后，城市化水平较低，目前处在精准脱贫攻坚阶段，城乡互动发展严重失调;而伊犁州则由于公共服务及基础设施资源较为滞后，社会保障参保率偏低；加之人口数量多，人均公共服务占有量较低，明显制约当地的社会、经济、城乡协调发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ec56676cb41bac7f196a727312ac3538fb7fb24a45eb54b19062c326add8dff.jpg",
+        "img_caption": [
+            "图5新疆公共服务资源配置与城乡互动水平耦合协调度空间分异",
+            "Fig.5Spatial differentiation of the coupling coordination degree between public service resource allocation and urban-rural interaction level in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c411dae3e12ea22a2a24b9d3fd95643ac9787a859207918c2be0a0cb01fc0cf9.jpg",
+        "table_caption": [
+            "表3新疆城乡互动与公共服务资源配置耦合协调发展类型",
+            "Tab.3Coupling coordination development types of urban-rural interaction and public service resource allocation in Xinjiang "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>耦合协调 类型</td><td>耦合协 调度</td><td>效益指 数对比</td><td>发展类型 特点</td><td>地区</td></tr><tr><td>协调发展</td><td>0.60~1.00</td><td>F=F2</td><td>耦合协调、相互 促进</td><td>乌鲁木齐市</td></tr><tr><td rowspan=\"5\"></td><td>0.50~0.60</td><td>F>F</td><td>城乡互动相对 滞后</td><td>克拉玛依市</td></tr><tr><td></td><td>F>F1</td><td>公共服务相对 滞后</td><td>哈密市</td></tr><tr><td>过渡发展0.40~0.50</td><td>F>F</td><td>公共服务损益</td><td>昌吉回族自治州</td></tr><tr><td>0.30~0.40</td><td>F>F2</td><td>城乡互动损益</td><td>吐鲁番市、喀什 地区、巴音郭楞 蒙古自治州、克</td></tr><tr><td></td><td></td><td></td><td>孜勒苏柯尔克孜</td></tr><tr><td rowspan=\"4\"></td><td></td><td></td><td></td><td>自治州、塔城地 区、阿勒泰地区</td></tr><tr><td></td><td>F>F</td><td>公共服务损益</td><td>阿克苏地区</td></tr><tr><td>失调衰退 0.20~0.30</td><td>F>F</td><td>城乡互动衰退</td><td>博尔塔拉蒙古自 治州</td></tr><tr><td>F>F</td><td></td><td>公共服务衰退</td><td>伊犁哈萨克族自 治州</td></tr><tr><td></td><td>0.10~0.20</td><td>F>F</td><td>城乡互动衰退 失调</td><td>和田地区</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.3促进公共服务效益与城乡互动耦合协调发展的路径对策从研究结果看，除了首府乌鲁木齐市，研究区各地城乡互动发展水平与公共服务资源效益并不完全耦合协调，大部分区域处于城乡互动与公共服务相互影响、相互磨合的过渡阶段，个别区域还处在两个系统相互制约、失调衰退的阶段，不利于新型城乡关系的建立以及社会经济协调长远发展。公共服务资源作为城乡社会经济发展的重要资源禀赋，其空间配置决定了社会外部性效应的发挥，也是促进城乡互动往来、优化城乡功能发展的重要基础，但公共服务的发展不是立竿见影的，而是一个循序渐进的过程",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文提出以下建议：（1）作为丝绸之路经济带核心区，新疆应积极争取国家政策支持，建立健全城乡互动公共服务体系，加强与完善城乡间公共服务资源及基础设施建设，不断缩减城乡之间空间距离及发展差距。(2）积极发挥城镇规模体系建设在城乡关系构建方面的优势功能，通过建立大中小多层次城镇体系以及分区域发展模式，进一步提升过渡发展类型区域公共服务与城乡互动的综合效益。(3）对于社会经济欠发达地区，继续完善和开拓新的公共服务增长点以满足不断增长的城乡社会发展需求。(4)对于失调衰退区域，进一步加强基本公共服务的覆盖面，加大对口财政支出，完善体制制度，确保地区间城乡居民，尤其是农村居民生存与发展的公平性，从根本上实现基本公共服务均等化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文以新疆维吾尔自治区14个研究单元（地区、州、市)为对象，结合空间点分布数据与社会、经济、人口等定性定量指标，建立城乡互动发展水平与基本公共服务效益的综合评价指标体系，综合分析考察14个地区、自治州及地级市公共服务资源配置的空间公平性、效益性;利用耦合协调度模型，揭示研究区基本公共服务与城乡互动发展耦合协调性(度)总体特征与空间特征。主要结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）以常住人口为参照，新疆公共服务资源量空间配置综合基尼系数为0.25，表示各地、州、市公共服务资源配置相对较公平，地区间差距较小。但分类来看，不同类型公共服务资源空间配置公平性有所差异，非公平性表现为：交通枢纽 $>$ 教育文化$>$ 休闲娱乐 $>$ 金融保险 $>$ 公共场所 $>$ 医疗卫生 $>$ 商业购物类公共服务资源。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）公共服务资源综合效益以及城乡互动发展水平呈现较低、中等(一般）较高三个类型；公共服务资源空间配置及综合效益大体呈现出低比例一低效益、高比例一中等效益以及中等比例一高效益类型；公共服务效益空间分异特征呈现出东南片区$>$ 西北片区；而城乡互动水平空间差异则呈现出天山北坡经济带高于其他区域。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）新疆各地州耦合度、协调度及耦合协调度水平均偏低。乌鲁木齐属于城乡互动与公共服务效益协调较高水平发展模式，克拉玛依市城乡互动相对滞后型协调发展模式，哈密市属于公共服务效益相对滞后型协调发展模式。新疆南北疆及沿边地区六地州大部分区域属于城乡互动损益型过渡发展模式，和田、伊犁以及博州地区属于失调衰退型发展模式。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前，新疆城市化总体水平较低，社会经济、城乡发展不均衡，公共服务资源覆盖率及综合效益相对滞后于东中部省份。本文以新疆各地州为例，综合全面评价分析了公共服务资源作为一种社会公共产品在发挥其公平性、效益性的基础上，进一步释放正面外部性效益，与城乡互动实现耦合协调发展的必要性与可行性；并就如何采取适当的调控对策来提高城乡互动发展与基本公共服务的协调水平，促进两系统实现良性互动，提出几点建议，为积极推进基本公共服务均等化、丰富城乡一体化理论，提供了参考借鉴。同时，需要指出的是本文建立的基本公共服务与城乡互动发展耦合模型以及指标体系尽可能体现了科学性，但受数据可获性所限，未能进行不同年份的对比分析，有待进一步利用最新和更长时间数据对研究结论进行验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］钮心毅,陈晨.郊区城镇基本公共服务空间均等和公正的测度 [J].城市规划，2018,42（10）:42－50.[NIUXinyi,CHEN Chen.Measuring spatial equality and justice of basic services in suburban towns[J].City Planning Review,2018,42(10):42- 50.]   \n[2] 湛东升，张文忠，谌丽，等.城市公共服务资源配置研究进展及 趋向[J].地理科学进展,2019,38(4):506-519.[ZHAN Dongsheng,ZHANG Wenzhong,CHENLi,et al.Research progress and its enlightenment of urban public service facilities allocation [J].Progress in Geography,2019,38(4):506-519.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3]CAOX,WANGDG.Environmental correlates of residential sat ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "isfaction:An exploration of mismatched neighbor-hood characteristics in the Twin Cities[J].Landscape and Urban Planning, 2016,150:26-35.   \n[4]DELL'OVO M,CAPOLONGO S,OPPIO A. Combining spatial analysis with MCDA for the siting of healthcare facilities [J]. Land Use Policy,2018,76:634- 644.   \n[5]GAO F,KIHAL W,LE M N,et al. Does the edge effect impact on the measure of spatial accessibility to healthcare providers? [J].International Journal of Health Geographics,2017,16(1）: 46.   \n[6]MONTGOMERY M C,CHAKRABORTY J,GRINESKI S E, et al.An environmental justice assessment of public beach access in Miami,Florida[J].Applied Geography,2015,62:147- 156.   \n[7]COOMBES E,JONES A P,HILLSDON M. The relationship of physical activity and overweight to objectively measured green space accessibility and use[J].Social Science & Medicine, 2010,70(6):816- 822.   \n[8］秦萧,甄峰,朱寿佳,等.基于网络口碑度的南京城区餐饮业空 间分布格局研究——以大众点评网为例[J].地理科学,2014, 34(7):810 - 817.[QIN Xiao,ZHEN Feng,ZHU Shoujia,et al. Spatial pattern of catering industry in Nanjing urban area based on the degree of public praise from internet:A case study of dianping.com[J]. Scientia Geographica Sinica,2014,34（7） : 810 - 817.]   \n[9］蒋海兵,张文忠,韦胜.公共交通影响下的北京公共服务资源 可达性[J].地理科学进展,2017,36(10)：1239－1249.［JIANG Haibing,ZHANG Wenzhong,WEI Sheng. Public service facility accessbility as influenced by public transportation in Beijing[J].Progress in Geography，2017,36（10）:1239 - 1249.]   \n[10］田莉,王博祎,欧阳伟,等.外来与本地社区公共服务资源供 应的比较研究一基于空间剥夺的视角[J].城市规划,2017, 41(3）:77 - 83.[TIAN Li,WANG Boyi,OUYANG Wei,et al. A comparative study on urban public service facilities supply between local and migrant communities:A perspective of spatial deprivation[J].City PlanningReview,2017,41(3）:77-83.]   \n[11］史卫东,赵林.山东省基本公共服务质量测度及空间格局特征 [J].经济地理,2015,35(6):32-37.[SHI Weidong,ZHAO Lin. The measure of the quality of basic public services in Shandong Province and its spatial patterns[J]. Economic Geography, 2015,35(6):32- 37.]   \n[12］徐金燕,范学工，蒋利平.我国城市社区公共服务居民满意度 的现状及其影响因素研究——以长沙市为例[J].城市发展研 究,2015,22（2）:7- 10.[XU Jinyan,FAN Xuegong,JIANG Liping.The analysis of status and factors about resident satisfaction in China’s urban community public service: Take Changsha City as the example[J]. Urban Development Studies,2015,22 (2):7-10.]   \n[13］李雪梅.新疆绿洲城镇组群内部经济联系及空间差异测得研 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "究[J].干旱区地理,2019,42(1):180-186.[LIXuemei.Measuring of internal economic relation and space difference of oasis town groups in Xinjiang[J]. Arid Land Geography,2019,42 (1):180-186.]   \n[14］吴文婕,张小雷,杨兆萍,等.基于社会需求与交通可达性的新 疆通勤机场布局研究[J].干旱区地理,2017,40(5)：1097- 1104.［WU Wenjie,ZHANG Xiaolei,YANG Zhaoping,et al. Commuter airport layout of Xinjiang based on the social need & traffic accessibility[J].Arid Land Geography,2017,40（5）: 1097 - 1104.]   \n[15］李智,张小林,陈媛,等.基于城乡相互作用的中国乡村复兴研 究[J].经济地理,2017,37(6):144-150.[LI Zhi,ZHANG Xiaolin,CHEN Yuan,et al.Research on China's rural revival based on the interaction between urban and rural areas［J].Economic Geography,2017,37(6):144-150.]   \n[16］刘晶,何伦志.丝绸之路经济带核心区新型城镇化驱动因素量 化分析与对策一基于LASSO的变量筛选[J].干旱区地理, 2019,42(6):1478 -1485.[LIU Jing,HE Lunzhi. Quantitative analysis of new-type urbanization driving factors and countermeasures in the core area of the Silk Road Economic Belt:Based on LASSO screening method[J].Arid Land Geography,2019, 42(6):1478 -1485.]   \n[17］新疆维吾尔自治区统计局.新疆统计年鉴[M].北京：中国统 计出版社,2018.[The Statistics Bureau of Xinjiang Uygur Autonomous Region. Statistics of Xinjiang Uygur Autonomous Region[M].Beijing:China Statistics Press,2018.]   \n[18］杨宏山.城市管理学[M].北京：中国人民大学出版社,2013. [YANG Hongshan. City management[M].Beijing:Renmin University of China Press,2013.]   \n[19］刘承良,薛帅君.上海市主城区公共服务资源网点分布的空间 异质性[J].人文地理,2019,134(1):122-130.[LIU Chengliang,XUE Shuaijun. Spatial heterogeneity of public service facilities in central Shanghai[J].Human Geography,2019,134（1）： 122 - 130.]   \n[20］马慧强,王清，弓志刚.京津冀基本公共服务均等化水平测度 及时空格局演变[J].干旱区资源与环境,2016,30(11)：64- 69.[MA Huiqiang,WANG Qing,GONG Zhigang. The spatio",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "temporal evolution of basic public services equalization in Bei",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "jing-Tianjin-Hebei region[J]. Journal of Arid Land Resources and Environment,2016,30(11):64-69.]   \n[21］韩增林,李彬,张坤领.中国城乡基本公共服务均等化及其空 间格局分析[J].地理研究,2015,34(11):2035－2048.[HAN Zenglin,LI Bin,ZHANG Kunling.Evaluation and spatial analysis of the equalization of basic public service in urban and rural areas in China[J].Geographical Research,2015,34(11):2035- 2048.]   \n[22]叶超,陈明星.国外城乡关系理论演变及其启示[J].中国人 □·资源与环境,2008,18(1):34-39.[YE Chao,CHEN Mingxing.Review about the theoretical evolvement of rural-urban relations [J]. China Population,Resources and Environment, 2008,18(1):34-39.]   \n[23］吴涛,李同昇,芮肠,等.陕西省城乡关联发展与基础设施建设 动态关系分析[J].经济地理,2011,31(12):2021－2027.［WU Tao,LI Tongsheng,RUI Yang,et al. Dynamic analysis of the relationship between urban-rural integration development and infrastructure construction in Shaanxi Province[J].Economic Geography,2011,31(12):2021-2027.]   \n[24］鲍超,邹建军.中国西北地区城镇化质量的时空变化分析[J]. 干旱区地理,2019,42(5):1141-1152.[BAO Chao,ZOU Jianjun.Spatiotemporal variations of urbanization quality in northwest China［J].Arid Land Geography,2019,42（5）: 1141 - 1152.]   \n[25］马慧强,王清.中国地级以上城市经济发展与基本公共服务协 调性空间格局[J].干旱区资源与环境,2016,30(9)：72－77. [MA Huiqiang,WANG Qing. Spatial pattern of coordination between economic development and basic public service in prefecture-level cities of China［J]. Journal of Arid Land Resources and Environment,2016,30(9):72-77.]   \n[26］钟佳利，杨德刚,霍金炜.乌昌地区基本公共服务失配度时空 格局演化及影响因素分析[J].干旱区地理,2019,42(5)： 1205 -1212.[ZHONG Jiali,YANG Degang,HUO Jinwei. Spatiotemporal evolution and influencing factors of basic public service mismatch in Urumqi-Changji region[J].Arid Land Geography,2019,42(5):1205-1212.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Coupling coordination evaluation on public service resource spatial allocation and the urban-rural interaction development in Xinjiang ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WU Wen-jie， HAN He， ZHAO Yan-mei， SANG Chuan， WANG Meng-ke(Management College of Xinjiang Agriculture University,Urumqi 83oo52,Xinjiang,China)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:At present,the overallevel of urbanization in Xinjiang,China is relatively low,socioeconomic and urban-rural development is imbalanced,and the level of comprehensive public services lags behind those in eastern and central provinces of China. Analyzing the relationship between public services and urban-rural development as well as exploring the asymmetries between urban-rural regions willhelp optimize the coordination ofresources,labor,capital,culture,information,and other elements dividing urban and rural regions,thus supporting the formulation of regional economic,urbanization,and public service policies based on scientific data. This paper is based on the principles of fairness,eficiency,and coordination of public service resources and combines analytic hierarchy process,entropy,and the cluster analysis method to establish a public service resource allocation and urban-rural mutual benefit evaluation index system for Xinjiang.In addition,this paper reveals the general and spatial characteristics of the coupling coordination degree between urban and rural areas by using the coupled coordination model.The results demonstrated that the fairness of spatial alocation of diferent types of public service facilities in diferent study units is diffrent,and that spatial unfairnessis more severe than population unfairness.The comprehensive benefits of public service resources and the urban-rural interaction development level can be divided into three types:low,general (medium）,and high.Spatial diferentiation characteristics show that the southeast area is bigger than the northwest area,and the urban-rural interaction level of the Tianshan North Slope Economic Belt is higher. Mostof the study area is undergoing a period of transitional development of mutual integration and run-in between the urban-rural interaction and public services.Moreover,few regions are undergoing a period of imbalance or recession where the two systems are mutually constrained.This paper further proposes measures to establish and improve an interactive urban-rural public service system,build a large,medium,and smallmulti-level urban spatial arrangement,strive for national policy support,and continue to improve and develop new basic public service growth points.Therefore,this study can help ensure the fairness and efficiencyof the survival and development of urban and rural residents,while also promoting the coordinated development of public services and urban-rural interaction. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:public service； fairnessand eficiency；urban-rural interaction; coupling coordination; Xinjiang ",
+        "page_idx": 9
+    }
+]

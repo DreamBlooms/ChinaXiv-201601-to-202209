@@ -1,0 +1,654 @@
+[
+    {
+        "type": "text",
+        "text": "黄土沟壑区黑麦草植被冠层与根系坡面水沙效益及水力特性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "焦若禺，宋孝玉，赵新凯，李蓝君，符冲，张志旭，王绍娜(西安理工大学省部共建西北旱区生态水利国家重点实验室,陕西 西安710048)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于野外人工模拟降雨试验和黑麦草全植被结构、根系结构及裸坡结构,通过设置不同雨强 $3 0 \\mathrm { m m } { \\cdot } \\mathrm { h } ^ { - 1 } \\cdot 6 0 \\mathrm { m m } { \\cdot } \\mathrm { h } ^ { - 1 }$ 和 $9 0 \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ )和不同下垫面坡度( $1 ^ { \\circ } , 3 ^ { \\circ }$ 和 $5 ^ { \\circ }$ )，对坡面产流产沙特征、水力参数分布变化及坡面侵蚀特征和水力特征关系进行了分析，揭示了不同草被结构类型下坡面产流产沙特征与水力特性。结果表明：随着雨强和坡度的变化，全植被坡面具有最小的产流产沙率，根系坡面次之，产流产沙率最大的则是裸坡坡面。黑麦草冠层的减流贡献率优于根系，冠层与根系的平均减流贡献率分别可达到 $6 2 \\%$ 和 $3 8 \\%$ ，减沙贡献率则是根系优于冠层，冠层与根系的平均减沙贡献率分别可达到 $3 7 \\%$ 和 $6 5 \\%$ ，以上产流产沙特征均揭示了草本植被冠层和根系在抑制侵蚀当中的有效性。水力参数中，雷诺数和水流功率是适用的2个水力指标，与产流产沙速率显著相关$( P { < } 0 . 0 1 )$ 。本次研究可为不同草被结构下的水土保持效益提升以及水力特性的分析提供理论依据和试验参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：草地下垫面；人工降雨；产流产沙；减流减沙；坡面侵蚀；水力特征",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水土流失一直是困扰黄土高原发展的长久性问题，如何使黄土高原地区生态环境高质量发展是当前学术界研究的一个重要方向[1-3]。造成黄土高原地区水土流失的原因主要有2个方面，其一是由于当地生态环境导致植被覆盖稀疏，整体土壤环境恶劣，地表起伏较大，同时由于季节性暴雨等天气因素，导致了水土流失情况日益突出；其二则是人为因素，人类生产活动对自然环境的负面影响致使问题越发严重[4-5]。以陕甘宁接壤地带的黄土高原沟壑区为代表，此地区由于受到人类活动与自然环境的影响，沟壑发展快速，进一步危及工业设施、造成道路安全事故等[6-8]。针对这一现象,学术界发现草地、林地等植被下垫面可以对土壤形态进行构造，并且缓解侵蚀现象的产生。因而，如何利用草地、林地下垫面的不同水力条件产生作用，解决因水土流失引发的一系列侵蚀问题，具有重大研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对植被所具有的减沙减流效益，国内外已有诸多专家和学者进行了研究。Roundy等为了确定减少树木和播种增加植被覆盖之间的联系，对 $1 0 \\mathrm { m } ^ { 2 }$ 跨流域径流小区自然降水后径流和泥沙进行观测，得出减少树木和恢复行间植被具有显著水文效益的结论;Soulis等选择多汁植物、旱生植物及草坪草作为植被覆盖层，对比不同类型浅绿色屋顶的系统径流量、初始基质含水量、总降雨深度，发现植被覆盖层在减少径流方面可发挥积极作用。国内的王葆等\"对比沙打旺与紫花苜蓿不同的流量和植被覆盖度的条件下，利用潜水泵进行径流冲刷的方法，发现两种植被均具有减流减沙效益;Li等采用多元混合模型和流域对比，针对小流域暴雨径流变化和泥沙来源进行分析，试验发现暴雨前后，径流在有无植被结构覆盖条件下存在显著差异；综合上述关于减流减沙的研究成果，发现随着环境条件等的不同，草地林地下垫面对于减流减沙的作用存在一定的差异，然而该领域涉及水力特性的研究工作较为匮乏，特别是不同植被结构的冠层和根系对减流减沙效益的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对以上问题，本文利用野外模拟降雨的方法，对全植被、根系、裸坡3种不同下垫面植被覆盖类型以及不同降雨强度下的产流产沙及减流减沙效益进行了分析，探究了不同下垫面植被覆盖的水土保持效益以及水力特性，为解决黄土高原地区水土流失问题提供了理论依据和试验参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次试验时间为2019年8月9日至2019年9月17日，地点为甘肃省庆阳市黄河水利委员会西峰水土保持试验站。选择黑麦草作为试验用草，因其具有低耗水特性[13-14]。降雨采用的是侧喷式降雨器，并将降雨器的高度设置为 $4 \\mathrm { m }$ ，整体降雨的均匀度在 $8 5 \\%$ 以上，通过对压力表以及喷头大小的调节来控制降雨器的降雨强度。为了保证能够均匀喷洒到植被上，降雨器的高度设置为 $4 \\mathrm { m }$ 。野外调查表明黄土塬沟壑区塬面坡度在 $1 ^ { \\circ } { \\sim } 5 ^ { \\circ }$ ,且多集中在 $3 ^ { \\circ }$ ，为更好模拟黄土塬沟壑区溯源侵蚀过程，因此试验场地借助石棉瓦分割为12个具有不同坡度特征的径流小区，坡度分别为 $1 ^ { \\circ } , 3 ^ { \\circ }$ 和 $5 ^ { \\circ }$ ,每个小区规格均为 $1 . 5 ~ \\mathrm { m } { \\times } 1 0 . 0 ~ \\mathrm { m }$ 。试验小区的土壤理化性质及颗粒组成由样地内随机选取土样，风干后剔除植物根系残体，碾压后过 $2 ~ \\mathrm { m m }$ 土筛，使用激光粒度分析仪(Mastersizer2000，UK)测试，结果如表1所示。试验的降雨器以及试验场地，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验小区土壤理化性质及颗粒组成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/84a8ad4d35e54a9c55461b97f6c7b0712bf909d7f256f7803b7e2647a28a821a.jpg",
+        "table_caption": [
+            "Tab.1 Physical and chemical properties and particle composition of soil in the test plot "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">土壤参数</td><td>数值</td></tr><tr><td rowspan=\"3\">土壤颗粒组成占比/%</td><td>2.00~0.02 mm</td><td>76.85</td></tr><tr><td>0.02~0.002 mm</td><td>23.15</td></tr><tr><td><0.002 mm</td><td>0.00</td></tr><tr><td rowspan=\"3\">土壤理化性质</td><td>孔隙率/%</td><td>0.53</td></tr><tr><td>干容重/g·cm-3</td><td>1.50~1.90</td></tr><tr><td>饱和含水量/%</td><td>0.45</td></tr><tr><td></td><td>饱和度/%</td><td>86.60</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7259b5768dec1be77baf5b16953c7ad99fe6b733187ab8b9d3972aa2f1c74daa.jpg",
+        "img_caption": [
+            "图1 试验场地 Fig.1Test sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验方案设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验开始前2个月，在试验小区通过条播方式种植了覆盖度 $4 0 \\%$ 试验用黑麦草，考虑到雨天排水，采用横坡种植的方式。本次降雨试验开始前，黑麦草的生长高度为 $2 0 ~ \\mathrm { c m }$ ，且整体生长态势良好。结合试验用装置、土壤入渗变化以及坡面产流情况，本试验综合考虑降雨强度（以下简称雨强）、坡度大小以及植被结构这3个方面，其中雨强设置为 $3 0 ~ \\mathrm { { m m } \\cdot h ^ { - 1 } \\cdot 6 0 ~ \\mathrm { { m m } \\cdot h ^ { - 1 } } }$ 和 $9 0 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ ，结合实际试验环境，坡度的大小设置为 $1 ^ { \\circ } , 3 ^ { \\circ }$ 和 $5 ^ { \\circ }$ ，植被结构选择全植被、根系和裸坡3种类型。每次试验均在无风前提下进行，每次试验前均需重新调整雨强和降雨均匀度，降雨均匀度需大于 $8 5 \\%$ 。多次重复试验，以试验均值作为计算的依据，试验结果标准误差在 $3 \\% { \\sim } 5 \\%$ 之间。试验中的3种试验用坡面，如图2所示，其中根系植被结构是贴着地表剪去植被冠层之后得到的，根系植被高度为 $3 { \\sim } 4 ~ \\mathrm { c m }$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3试验方案实施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沿着试验选择坡面，从上到下依次设置3个测量断面。根据已有的研究成果，由于土壤前期的含水率情况在坡面地表径流的生成，以及泥沙等的输送转移方面均有较大的作用[15]。因此，降雨试验前，先通过土壤水分测量仪测定试验小区内不同断面的土壤含水量，通过均匀喷洒使得土壤饱和，当土壤含水量的测量深度为 $6 0 ~ \\mathrm { m m }$ 时，停止喷洒。以降雨后坡面开始产流为准，记录产流历时。每次降雨历时1h，起始阶段 $1 0 \\mathrm { m i n }$ 内，每间隔 $2 \\mathrm { m i n }$ 即取一次径流泥沙混合物，之后每间隔 $5 ~ \\mathrm { m i n }$ 取一次。对于含沙量，用烘干法进行测量，对于水流流速，以染色剂追踪法完成测定，应保持测定频率同坡面径流收集频率一致。两场降雨至少间隔 $2 4 \\mathrm { ~ h ~ }$ ，完成上述全植被整株牧草试验之后，贴着地表将试验用黑麦",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae9b5d5b64433aa40607e3ed54939f13c29be20eed576203e0e958e9ef6558c4.jpg",
+        "img_caption": [
+            "图23种植被结构",
+            "Fig.2 Three types of vegetation structure "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "草的冠层部分削减掉，仅保留根系结构的植被结构坡面，为了抑制根系生长对试验产生不利影响，对黑麦层进行割除。重复上述步骤完成根系植被结构的试验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理及参数计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对比不同雨强及坡度下全植被、根系和裸坡坡面产流产沙过程，植被根系和全植被坡面的减流减沙过程，对不同草被结构下的产流减流和产沙减沙特征及水力特征进行分析。涉及到的相关参数计算具体如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）减流减沙相关参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次试验主要分析黑麦草根系与冠层在调控坡面侵蚀中的作用，期间黑麦草生长旺盛，不形成枯枝落叶，故将坡面侵蚀中黑麦草的调控作用视为冠层与根系的作用之和。减流减沙效益的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { B R _ { a } } = \\frac { ( R _ { \\mathrm { f } } - R _ { \\mathrm { a } } ) } { R _ { \\mathrm { f } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { B R } _ { \\mathrm { s } } = \\frac { ( R _ { \\mathrm { f } } - R _ { \\mathrm { s } } ) } { R _ { \\mathrm { f } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { B R _ { \\mathrm { c } } = B R _ { \\mathrm { a } } - B R _ { \\mathrm { s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { B S } _ { \\mathrm { a } } = \\frac { ( S _ { \\mathrm { f } } - S _ { \\mathrm { a } } ) } { S _ { \\mathrm { f } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { B S } _ { \\mathrm { s } } = \\frac { ( S _ { \\mathrm { f } } - S _ { \\mathrm { s } } ) } { R _ { \\mathrm { f } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { B S _ { _ c } = B S _ { _ a } - B S _ { _ s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { B R _ { a } }$ 、BR和BR分别为全植被、根系和冠层的减流效益; $R _ { \\mathrm { a } }$ 、 $R _ { \\mathrm { s } }$ 和 $R _ { \\mathrm { f } }$ 分别为全植被、根系和裸地坡面的产流率； $\\mathrm { B S _ { a } }$ 、BS和BS分别为全植被、根系和冠层的减沙效益； $S _ { \\mathrm { a } } , S _ { \\mathrm { s } }$ 和 $S _ { \\mathrm { f } }$ 分别为全植被、根系和裸地坡面的产沙率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "减流贡献率和减沙贡献率计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { { \\cal R } _ { \\mathrm { s } } = \\frac { \\mathrm { B R } _ { \\mathrm { s } } } { \\mathrm { B R } _ { \\mathrm { a } } } \\times 1 0 0 ^ { \\% } } \\\\ { { \\cal R } _ { \\mathrm { c } } = \\frac { \\mathrm { B R } _ { \\mathrm { c } } } { \\mathrm { B R } _ { \\mathrm { a } } } \\times 1 0 0 ^ { \\% } } \\\\ { { \\cal S } _ { \\mathrm { s } } = \\frac { \\mathrm { B S } _ { \\mathrm { s } } } { \\mathrm { B S } _ { \\mathrm { a } } } \\times 1 0 0 ^ { \\% } } \\\\ { { \\cal S } _ { \\mathrm { c } } = \\frac { \\mathrm { B R } _ { \\mathrm { c } } } { \\mathrm { B S } _ { \\mathrm { a } } } \\times 1 0 0 ^ { \\% } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { \\mathrm { s } } , \\ R _ { \\mathrm { c } }$ 分别为植被根系、植被冠层的减流贡献率; $S _ { \\mathrm { s } } \\setminus S _ { \\mathrm { c } }$ 分别为植被根系、植被冠层的减沙贡献率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）水力参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水深是一个重要的水力参数变量[16],假设水流在坡面上均匀分布，水深 $( D )$ 的表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = \\frac { Q } { V _ { ☉ } W t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $D$ 为坡面流水深 $( \\mathrm { m } ) { \\mathrel { \\mathop : } } Q$ 为径流量 $\\left( \\mathbf { m } ^ { 3 } \\right)$ ； $V _ { \\sharp \\sharp }$ 为断面流速 $\\left( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 } \\right)$ ； $W$ 为过水断面宽度 $\\left( \\mathbf { m } \\right) ; t$ 为取样间隔时间(s)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在坡面侵蚀特征研究中，水力参数主要有雷诺数、弗劳德数以及阻力相关系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "雷诺数(Re)的表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R e } = { \\frac { V D } { v } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $V$ 为坡面流流速 $( \\boldsymbol { \\mathrm { m } } \\cdot \\boldsymbol { \\mathrm { s } } ^ { - 1 } ) ; v$ 为水流运动粘滞系数 $\\left( \\mathbf { m } ^ { 2 } \\cdot \\mathbf { s } ^ { - 1 } \\right) ; D$ 为坡面流水深 $\\left( \\mathrm { m } \\right)$ O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "弗劳德数 $( \\mathrm { F r } )$ 的表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F r } = { \\frac { V } { \\sqrt { g D } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { g }$ 为重力加速度 $( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 2 } ) ; V$ 为坡面流流速( $_ \\mathrm { m \\cdot }$ $\\mathbf { s } ^ { - 1 }$ ； $D$ 为坡面流水深 $\\left( \\mathrm { m } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑到Dracy-weisbach阻力系数使用起来更为容易，且适用性广[17],因而本次试验选择该阻力系数来研究水力参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "阻力系数 $( f )$ 表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw = \\tau V { = } \\rho g D S V\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf { = } \\frac { 8 g r J } { V ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { g }$ 为重力加速度 $\\left( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 2 } \\right) ; r$ 为水力半径 $\\mathbf { \\Pi } ( \\mathbf { \\Pi } _ { \\mathrm { m } } ) : J$ 为水流能坡; $V$ 为坡面流流速 $\\left( \\mathbf { m } { \\cdot } \\mathbf { s } ^ { - 1 } \\right)$ 0 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验中，降雨流经试验坡面时会产生剪切力，是造成土壤颗粒分离、坡面发生侵蚀的一种重要力量。坡面径流以及坡面径流剪切力的计算比较复杂，在此将试验坡面简化，当作单一维度的均匀流。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水流剪切力表达式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau = \\gamma r J = \\rho g D S\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\tau$ 为水流剪切力 $( \\mathrm { P a } ) ; \\gamma$ 为水容量 $( \\mathrm { N } \\cdot \\mathrm { m } ^ { - 3 } ) { \\ ; } r$ 为水力半径 $\\mathrm { ( m ) }$ $J$ 为水流能坡; $\\rho$ 为混水的密度( $\\mathrm { l e g }$ $\\mathbf { m } ^ { - 3 }$ ) $\\boldsymbol { g }$ 为重力加速度 $\\left( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 2 } \\right) ; D$ 为坡面流水深 $\\mathrm { ( m ) }$ ;$s$ 为坡度(°)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水流功率 $\\mathbf { \\Pi } ( \\boldsymbol { w } )$ 的表达式为(式中参数含义同上)：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1试验坡面产流与减流特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次研究产流结果如图3所示，在不同坡度和雨强条件下,裸坡坡面产流率为 $6 3 . 5 5 { \\sim } 3 3 8 . 7 6 \\mathrm { m L } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，根系坡面产流率为 $6 1 . 7 8 { \\sim } 3 1 9 . 0 3 ~ \\mathrm { m L } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,全植被坡面产流率为 $4 5 . 8 1 { \\sim } 2 7 4 . 8 5 ~ \\mathrm { m L } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,产流率顺序呈现全植被坡面 $\\textless$ 根系坡面 $\\angle$ 裸坡坡面的规律。同时，与裸坡坡面对比根系坡面减少产流率 $1 . 0 6 \\% { \\sim } 1 5 . 0 0 \\%$ ，冠层坡面减少产流率 $1 . 1 2 \\% \\sim 4 0 . 2 2 \\%$ 。由上述结果可见，黑麦草冠层及根系均具有减流作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由不同雨强及坡度下冠层和根系的减流特征(图4)可以发现，随着雨强及坡度的增加，冠层与根系的减流贡献率增加。试验冠层的减流效益更加",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全植被 根系 裸坡8 (a)雨强30 mm·h-1 aAabB (b)雨强60 mc bB aC bA 320(） cB bcaAbBaC bA 160 aAbA aB -S.TU/ 202010 bBbBA aB /aB80 12020 40 400 0 01 3 5 1 3 5 1 3 5坡度/() 坡度/() 坡度/()",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Runoff yieldratesofthreevegetationstructures under differentrainfallintensities withthechangeofslope gradients显著，不同雨强下均优于根系部分。对比不同坡度同雨强条件下的减流贡献率，冠层减流贡献率在坡度为 $1 ^ { \\circ }$ 与 $5 ^ { \\circ }$ 时呈逐渐增大的趋势，而坡度为 $3 ^ { \\circ }$ 时先降低再增加。根系减流贡献率在雨强为 $6 0 \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 、坡度 $3 ^ { \\circ }$ 时达到最大。在不同降雨条件及坡度条件下冠层与根系的减流贡献率比值均大于1。由上述数据可知，相同试验条件下，冠层与根系的平均减流贡献率分别可达 $6 2 \\%$ 和 $3 8 \\%$ ，可见冠层的减流效益更加显著，不同雨强下均优于根系部分。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecff8c08578893a0149728fdd3c958221580fc410f34a7c3f583a54f96bfc179.jpg",
+        "img_caption": [
+            "注：小写字母代表不同植被覆盖类型产流率差异显著性( $scriptstyle P = 0 . 0 5$ ;大写字母代表同一植被覆盖类型下不同坡度产流率差异显著性( $scriptstyle P = 0 . 0 5$ 。",
+            "图33种植被结构不同雨强下产流率随坡度的变化",
+            "图4不同雨强和坡度的黑麦草冠层及根系减流贡献率 Fig.4Contribution rates of ryegrass canopy and root system to runoff reduction under different rainfall intensities and slope gradients "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2试验坡面产沙与减沙特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次研究产沙结果如图5所示，在不同坡度和雨强条件下，裸坡坡面产沙率始终最大，产沙率为$2 . 3 0 { \\sim } 1 2 . 8 4 \\ \\mathrm { g } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,根系坡面产沙率为 $1 . 7 2 { \\sim } 1 0 . 4 0 \\ \\mathrm { g } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，全植被坡面产沙率为 $0 . 5 1 { \\sim } 5 . 1 5 ~ \\mathrm { g } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,产沙率顺序呈",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全植被 根系 裸坡10− (a)坡度1° bA 10 < (b)坡度3° aA 14(c)坡度5° aAs.8/率 8 bA aA -S.8/ 8 S.8率 210 aAaAB6 abA 6 aA aAaB 8aA bBaB T 64 aBbA42 bBC 42 aBaAaBaA BBb2 aB0 0 030 60 90 30 60 90 30 60 90雨强/mm·h-1 雨强/mm·h-1 雨强/mm·h-1注：小写字母代表不同植被覆盖类型径流产沙率差异显著性( $\\scriptstyle P = 0 . 0 5$ )；大写字母代表同一植被覆盖类型下不同雨强径流产沙率差异显著性( $\\scriptstyle P = 0 . 0 5$ 。图5不同植被结构径流小区径流产沙率随坡度的变化",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "现全植被坡面 $<$ 根系坡面 $<$ 裸坡坡面的规律。对比于裸坡坡面,根系坡面减少产沙率 $1 5 . 2 9 \\% { \\sim } 4 4 . 8 3 \\%$ ，全被坡面减少产沙率 $4 1 . 3 0 \\% { \\sim } 8 6 . 1 0 \\%$ 。可见，相对于裸坡坡面，全植被坡面和根系坡面均有减沙作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6为不同雨强及坡度下冠层和根系的减沙特征。由图4与图6对比根系和冠层的减流效益与减沙效益是不同的。相同坡度条件下，冠层的减沙贡献率呈下降趋势，而根系的减沙贡献率成上升趋势；与之相反的，受雨强影响，冠层与根系均呈现出先下降后上升的情况。由对比结果可知，根系的减沙效益更为显著，冠层的减沙效益则相对较小。不同雨强下根系的减沙贡献率可达到 $7 5 \\%$ 左右，而冠层仅达到 $4 0 \\%$ 左右；不同坡度下根系的减沙贡献率可达到 $6 8 \\%$ 左右，而冠层的减沙贡献率仅达到 $4 2 \\%$ 左右。由此可得出，与减流试验相反的结论，根系结构的减沙效益更加显著，不同雨强下均优于冠层部分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3坡面水力特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于水力特征，本文主要依托水流流速、水流深度、雷诺数8以及弗劳德数来进行分析探讨。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7c254a992227d3dde09d426c0cbcf262eb4501891387897b0836ac19d3939ac.jpg",
+        "img_caption": [
+            "Fig.5Runoff and sand yield rates of different vegetation structures inrunoff plots with the changeofslope gradients ",
+            "图6不同雨强和坡度的黑麦草冠层及根系减沙贡献率 Fig.6Contribution rates of ryegrass canopy and root system to sand reduction under different rainfall intensities and slope gradients ",
+            "图7不同雨强及坡度下3种植被结构的水流流速变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由不同雨强及坡度下3种植被结构的水流流速变化(图7)可以发现，在不同雨强及坡度下，全植被和根系均有较好的减速效果。3种植被结构类型的水流流速整体规律为：裸坡坡面最大，根系坡面次之，全植被坡面最小。 $3 0 \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 雨强下，全植被坡面在坡度1时的水流流速为 $0 . 0 5 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ ,坡度 $5 ^ { \\circ }$ 时的水流流速为 $0 . 0 9 3 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ ,表现出的减速效果明显。相比裸坡",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "全植被 --根系 ▲ 裸坡  \n0.20 ┌(a)雨强30 mm·h-l 0.20 (b)雨强60 mm·h-1 (c)雨强90 mm·h-1I _S./ 0.18 s.u/ 0.30 4  \n0.14 0.14 0.22  \n0.10 0.10 0.18  \n0.08 0.080.14  \n0.06 + 0.06 +  \n0.04 1 0.04 1 L 0.10 T 上1 3 5 1 3 5 1 3 5坡度/() 坡度/() 坡度/()",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Changes offlow velocity ofthree vegetation structures under diferent rainfall intensities and slope gradients坡面,根系坡面在坡度1时的水流流速 $0 . 0 6 5 \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，以及在坡度为 $5 ^ { \\circ }$ 时的水流流速 $0 . 1 0 2 \\ \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，同样表现出较好的减速效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "水深往往随坡面变形而发生波动，因为降雨形成的坡面流属薄层流，坡面形态(泥沙搬运及淤积)以及下垫面的影响(冠层的截留及根系固结土壤的作用)都将对坡面流水深产生一定影响，且在草被覆盖下水深不易测量，因此本研究通过测量断面处的流速和流量而间接计算坡面流水深。由不同雨强及坡度下水力参数的分布(表2)可以发现，裸坡坡面的弗劳德数显著高于其他植被结构的参数，说明裸坡坡面的水流属于急流，其他则属于缓流。裸坡坡面的弗劳德数为6.32，根系坡面为0.98，全植被坡面仅为0.62。全植被坡面的Dracy-weisbach阻力系数达到9.25。由于本试验条件下坡面流水深较小，因此表征水流惯性力与粘滞力比值的参数雷诺数也较小。不同下垫面条件下的雷诺数变化不是很大，且都小于临界值500，说明不同植被结构覆盖下的坡面流流态为层流，因而其能量耗散以及流速等特征均遵循层流的规律。根据河流动力学原理，弗劳德数越大，说明径流携沙能力越强，径流剪切力越大。在裸坡试验坡面，水流的弗劳德数远大于全植被坡面和仅有根系作用的坡面，且大于临界值1,属于急流，而剩余两种情形，即全植被坡面和仅",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2基于不同雨强和坡度的水力参数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/04c5271ad243026b2a8fbc6f348c58ba742dc5d96631faa57c48bfc47344a31f.jpg",
+        "table_caption": [
+            "Tab.2 Hydraulic parameters based on different rainfall intensities and slope gradients "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>水力参数</td><td>全植被坡面 根系坡面</td><td>裸坡坡面</td></tr><tr><td>水流深度/mm</td><td>5.791</td><td>2.435 2.087</td></tr><tr><td>雷诺数</td><td>230</td><td>214 201</td></tr><tr><td>弗劳德数</td><td>0.62</td><td>0.98 6.32</td></tr><tr><td>Dracy-weisbach阻力系数</td><td>9.25</td><td>5.05 0.18</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有根系作用坡面的弗劳德数小于1,属于缓流，这是因为植被分散阻滞径流的能力使流速减小，径流流动变缓；而裸地流速却较大，相应地，径流以较大的惯性作用向坡下流动，因而导致弗劳德数较大。上述现象表明植被的根系及冠层能够明显的降低水流剪切力及径流的泥沙搬运能力，缓解坡面流的流态。全植被和根系坡面的阻力系数为裸坡坡面的79.6倍和30.3倍；冠层的增阻作用强于根系部分，不同雨强下，相对于裸坡，冠层可使坡面流阻力增加$6 6 . 7 \\% \\sim 1 4 7 . 5 \\%$ ，而根系仅能增加 $4 1 . 6 \\% { \\sim } 5 4 . 3 \\%$ ；随着雨强的增大根系增阻效益先小幅度减小后又变大，冠层增阻效益则一步步变弱。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4坡面侵蚀特征与水力特征相关性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由不同雨强下水力参数的分布(表3)可以发现，随着雨强增加，全植被坡面的水流剪切力从$0 . 1 0 1 1 \\ \\mathrm { P a }$ 增加至 $2 . 9 8 3 5 \\ \\mathrm { P a }$ ，水流功率从 $0 . 0 0 5 0 \\mathrm { ~ N ~ }$ 中$\\mathbf { m } ^ { - 1 } \\cdot \\mathbf { s } ^ { - 1 }$ 增加至 $0 . 3 2 8 2 ~ \\mathrm { N \\cdot m ^ { - 1 } \\cdot s ^ { - 1 } }$ ;根系坡面随着雨强的增加，水流剪切力从 $0 . 0 6 1 3 \\mathrm { P a }$ 增加至 $1 . 7 5 6 4 \\mathrm { P a }$ 而水流功率则从 $0 . 0 0 5 8 ~ \\mathrm { N \\cdot m ^ { - 1 } \\cdot s ^ { - 1 } }$ 增加至 $0 . 3 4 7 8 \\mathrm { ~ N ~ }$ ·$\\mathbf { m } ^ { - 1 } \\cdot \\mathbf { s } ^ { - 1 }$ 。在坡度为 $3 ^ { \\circ }$ 和 $5 ^ { \\circ }$ 的情况下，全植被和根系坡面在水流剪切力和水流功率上的变化规律与 $1 ^ { \\circ }$ 时的变化趋势一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由不同坡度下水力参数的分布(表4)可以发现，随着坡度增加，全植被坡面的水流剪切力从$0 . 1 0 1 1 \\ \\mathrm { P a }$ 增加至 $0 . 1 6 2 4 ~ \\mathrm { P a }$ ，水流功率从 $0 . 0 0 5 0 ~ \\mathrm { N }$ ：$\\mathrm { m } ^ { - 1 } \\cdot \\mathrm { s } ^ { - 1 }$ 增加至 $0 . 1 6 4 2 ~ \\mathrm { N \\cdot m ^ { - 1 } \\cdot s ^ { - 1 } }$ ;根系坡面随着雨强的增加,水流剪切力从 $0 . 0 6 1 3 \\mathrm { P a }$ 增加至 $0 . 1 5 9 2 \\mathrm { P a }$ ，而水流功率则从 $0 . 0 0 5 8 ~ \\mathrm { N \\cdot m ^ { - 1 } \\cdot s ^ { - 1 } }$ 增加至 $0 . 0 3 0 2 \\mathrm { N }$ .$\\mathbf { m } ^ { - 1 } \\cdot \\mathbf { s } ^ { - 1 }$ 。在雨强为 $6 0 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 和 $9 0 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 的情况下，全植被和根系坡面在水流剪切力和水流功率上变化趋势一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb1f13f79fe8e51234ed6586ac726510964099425e1a139cb2a44b87d9c53298.jpg",
+        "table_caption": [
+            "表3不同雨强的水流剪切力和水流功率",
+            "Tab.3 Water shear force and water power under different rainfall intensities "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">水流系数</td><td colspan=\"3\">全植被坡面(冠层作用)</td><td colspan=\"3\">根系坡面(根系作用)</td></tr><tr><td>30 mm·h-1</td><td>60 mm·h-1</td><td>90 mm ·h−1</td><td>30 mm·h-1</td><td>60 mm·h-1</td><td>90 mm·h-1</td></tr><tr><td>水流剪切力/Pa</td><td>0.1011</td><td>1.1912</td><td>2.9835</td><td>0.0613</td><td>0.0922</td><td>1.7564</td></tr><tr><td></td><td>0.1435</td><td>1.5978</td><td>3.3754</td><td>0.0931</td><td>0.9798</td><td>1.9985</td></tr><tr><td></td><td>0.1624</td><td>2.3072</td><td>4.9385</td><td>0.1592</td><td>1.1329</td><td>2.0772</td></tr><tr><td>水流功率/N·m-1·s-1</td><td>0.0050</td><td>0.0835</td><td>0.3282</td><td>0.0058</td><td>0.0178</td><td>0.3478</td></tr><tr><td></td><td>0.0115</td><td>0.1423</td><td>0.4286</td><td>0.0167</td><td>0.1931</td><td>0.5975</td></tr><tr><td></td><td>0.0162</td><td>0.2468</td><td>0.6567</td><td>0.0302</td><td>0.3162</td><td>0.8226</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/952662dbb6ba7cc79af0aa64f635d3d31b2b371cec158ddcf5b4de25c55fbf5d.jpg",
+        "table_caption": [
+            "Tab.4Water shear force and water flow power with different slope gradients "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">水流系数</td><td colspan=\"3\">全植被坡面(冠层作用)</td><td colspan=\"3\">根系坡面(根系作用)</td></tr><tr><td>1°</td><td>3°</td><td>5°</td><td>1°</td><td>3°</td><td>5°</td></tr><tr><td>水流剪切力/Pa</td><td>0.1011</td><td>0.1435</td><td>0.1624</td><td>0.0613</td><td>0.0931</td><td>0.1592</td></tr><tr><td rowspan=\"5\"></td><td>1.1912</td><td>1.5978</td><td>2.3072</td><td>0.0922</td><td>0.9798</td><td>1.1329</td></tr><tr><td>2.9835</td><td>3.3754</td><td>4.9385</td><td>1.7564</td><td>1.9985</td><td>2.0772</td></tr><tr><td>0.0050</td><td>0.0115</td><td>0.0162</td><td>0.0058</td><td>0.0167</td><td>0.0302</td></tr><tr><td>0.0835</td><td>0.1423</td><td>0.2468</td><td>0.0178</td><td>0.1931</td><td>0.3162</td></tr><tr><td>0.3282</td><td>0.4286</td><td>0.6567</td><td>0.3478</td><td>0.5975</td><td>0.8226</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对土壤侵蚀特征及水力参数进行单因素方差分析及配对样本t检验，通过灰色关联分析坡面土壤侵蚀特征与水力参数之间的关系，其基本原理为根据比较数列和参考数列在几何形状上的相似程度,来判断数列间的关系是否紧密[20]。不同雨强下产流速率与水力参数间的相关性存在差异，水流功率、雷诺数以及水流剪切力同产流速率间的相关程度较高(表5)。雨强较低时雷诺数与水流功率同产沙速率间的相关性较高，在雨强较大的前提下，水流流速与弗劳德数同产沙速率的相关性较高，在60$\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { h } ^ { - 1 }$ 雨强下水流剪切力与产沙速率之间的相关性较高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对土壤侵蚀特征与水力参数之间的拟合关系进行分析，能够反映土壤侵蚀的水动力过程潜在机制，并能够判断评估有效的水力指标。由土壤侵蚀特征与水力参数之间的拟合式(表6)可以发现，不同植被结构下水流功率、雷诺数和水流剪切力与产流速率间的线性拟合结果显著，显著性水平小于0.01;水流功率、雷诺数和水流剪切力间是幂函数和指数函数的对应关系，雷诺数、水流功率同产沙速率间显著相关，显著性水平小于0.01,水流剪切力的拟合效果则不是很理想。因此，对于评估产流速率和产沙速率来说，雷诺数和水流功率是适用的2个水力指标，而水流剪切力则不适用。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/500e0276057e39269965269646e0cfe66fda73ac04b2ab834bc4bc55dc14d0dd.jpg",
+        "table_caption": [
+            "表4不同坡度的水流剪切力和水流功率",
+            "表5坡面土壤侵蚀特征与水力参数之间的相关性"
+        ],
+        "table_footnote": [
+            "注：\\*代表显著相关，\\*\\*代表极显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">水力参数</td><td colspan=\"2\">雨强30 mm·h-1</td><td colspan=\"2\">雨强60 mm·h-1</td><td colspan=\"2\">雨强90 mm·h-</td></tr><tr><td>产流速率</td><td>产沙速率</td><td>产流速率</td><td>产沙速率</td><td>产流速率</td><td>产沙速率</td></tr><tr><td>水流流速</td><td>0.486**</td><td>0.828**</td><td>-0.192</td><td>-0.032</td><td>-0.601**</td><td>0.422**</td></tr><tr><td>雷诺数</td><td>0.999**</td><td>0.415**</td><td>0.996**</td><td>0.693**</td><td>0.995**</td><td>-0.002</td></tr><tr><td>弗劳德数</td><td>0.168</td><td>0.782**</td><td>0.352*</td><td>0.108</td><td>-0.647**</td><td>0.398**</td></tr><tr><td>阻力系数</td><td>-0.250</td><td>-0.243</td><td>0.175</td><td>0.338*</td><td>0.642**</td><td>-0.185</td></tr><tr><td>水流剪切力</td><td>0.698**</td><td>-0.086</td><td>0.607**</td><td>0.504**</td><td>0.808**</td><td>-0.254</td></tr><tr><td>水流功率</td><td>0.999**</td><td>0.413**</td><td>0.999**</td><td>0.671**</td><td>0.999**</td><td>-0.011</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9f545d7b6f0b304b4b33d4dd55f12bdc34ba8f1cffa01918316e5e07e1a6c53.jpg",
+        "table_caption": [
+            "Tab.5 Correlation between slope soil erosion characteristics and hydraulic parameters ",
+            "表6坡面土壤侵蚀特征与水力参数拟合式",
+            "Tab.6Fitting formulas of slope soil erosion characteristics and hydraulic parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">坡面处理</td><td>全植被</td><td>根系</td><td>裸坡</td></tr><tr><td rowspan=\"6\">产流速率</td><td rowspan=\"2\">雷诺数</td><td>y=0.07x-0.06</td><td>y=0.06x-0.12</td><td>y=0.07x-0.05</td></tr><tr><td>R²=0.996</td><td>R²=0.997</td><td>R²=0.999</td></tr><tr><td rowspan=\"2\">水流剪切力</td><td>y=-9.17×10-x²+0.33x-1.76</td><td>y=-5.887×10-x²+0.3x-0.59</td><td>y=-2.5×10-³x²+0.18x-1.03</td></tr><tr><td>R²=0.995</td><td>R²=0.998</td><td>R²=0.976</td></tr><tr><td rowspan=\"2\">水流功率</td><td>y=0.014x</td><td>y=0.014x</td><td>y=0.014x</td></tr><tr><td>R²=1</td><td>R²=1</td><td>R²=1</td></tr><tr><td rowspan=\"6\">产沙速率</td><td rowspan=\"2\">雷诺数</td><td>y=4.98x0.72-22.36</td><td>y=0.17x177-0.88</td><td>y=0.02x233+0.53</td></tr><tr><td>R²=0.985</td><td>R²=0.987</td><td>R²=0.915</td></tr><tr><td rowspan=\"2\">水流剪切力</td><td>y=-422.73e-0.43x+25.48</td><td>y=-88.88e-0.06x+0.024</td><td>y=-47.78e-0.03x+34.44</td></tr><tr><td>R²=0.245</td><td>R²=0.988</td><td>R²=0.645</td></tr><tr><td rowspan=\"2\">水流功率</td><td>y=0.017x1,66+0.024</td><td>y=2.58x0.64-24.3</td><td>y=-433.74x-0.14+248.9</td></tr><tr><td>R²=0.926</td><td>R²=0.838</td><td>R²=0.735</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "产流减流试验中发现裸坡坡面的产流率最大，根系坡面次之，全植被坡面最小,相对于裸坡坡面，全植被坡面和根系坡面均有减流作用，其原因是黑麦草根系坡面和全植被坡面能够拦蓄雨水，减小坡面流速，使雨水在坡面有更多入渗时间。对比根系部分,黑麦草叶片较为茂密[2I-22],冠层能够对雨滴进行拦截，减小雨滴到达坡面时的动能，因雨水的渗透通常由一个被称为密封层的低渗透层控制，雨水动能的减少不利于结皮的形成[23-24],使其坡面入渗作用更强，而根系由于比较细使坡地土壤直接裸露在雨滴的击打作用之下，因此根系弱于冠层的减流贡献率。试验进一步发现随着雨强的增大，3种坡面径流量呈增加趋势。但同一雨强下，坡度对3种坡面径流的影响有所差异。雨强 $3 0 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 和雨强$6 0 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 时，不同坡度径流量差异显著，但是雨强$9 0 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 时，坡度 $3 ^ { \\circ }$ 和 $5 ^ { \\circ }$ 坡面径流量并无显著差异。分析其原因，在雨强较小时，坡度对坡面产流影响较大，随着雨强的增大，雨强对于坡面产流的影响增强，雨强对坡面产流的影响掩盖了坡度对坡面产流的影响。郭星星等、孙佳美等和张璐等[25-27]也有过类似发现。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "产沙减沙试验发现不同植被结构的径流产沙率随雨强的增加而增加，最大值出现在雨强最大的时，这与侵蚀动力理论相契合。对比冠层部分，黑麦草的根系细小，在生长初期不会破坏土壤，并在生长过程中促进土壤团聚体的形成及增强抗冲刷能力。根系对土壤团聚体的积极作用包含以下几点：根系的分泌物附着于较细的土壤颗粒表面，可使土粒转化为稳定的大团聚体；为土壤提供了大量可分解的有机物，从而增加土壤有机质含量;支持根际微生物和土壤动物的生长，这有助于根系发挥其水土保持功效；释放多价阳离子并增加土壤水的离子浓度，特别是在后期随着植被的进一步生长，黑麦草的根系发育达到顶峰，根系网络化结构形成，根系生物量达到最大，伴随根系的发育，根系会分泌一些能够胶结土壤颗粒的物质,进一步促进生成比较稳定的团聚体结构，增加土壤的内聚力，因此冠层弱于根系的减沙贡献率,而Thomaz[28]等的研究也证实了这一点。试验同样发现，较大的雨强会更快产生地表径流，对坡面冲刷变强，携带走地表更多的泥沙，使冲刷量增加。随着雨强的增加，雨滴动能和终极速度越大，对表层土壤稳定性破坏越大，击溅侵蚀加剧，邓龙洲等有过类似发现，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "黑麦草的冠层部分与根系部分减速效果良好，这与植被结构组成直接关联。裸坡坡面的径流剪切力最大，是因为径流的流动速度较大，对应的惯性作用也较大，这使得弗劳德数的数值处于较高范围;在全植被和根系坡面上，植被存在分散限制径流的能力，径流流速变小，径流流动变得缓慢，弗劳德数处于较小范围。不难发现，黑麦草植被的根系以及冠层部分在降低水流剪切力以及泥沙输移上效果明显。与张光辉等[30]结论类似，不同雨强下侵蚀特征对于水力参数所产生的影响不同。雷诺数与水流功率能够用于水力特性当中。而全植被、根系、裸坡坡面的水流剪切力与产沙速率的决定系数$\\left( R ^ { 2 } \\right)$ 分别为0.245、0.988、0.645(表6)，其显著水平小于0.01，是不能够用于水力特性当中的指标。吕春娟等[31基于降雨试验对铁尾矿坡面水力特性的分析，也发现产流功率、产沙速率与雷诺数以及水流功率具有显著的线性关系，而本文针对3种植被结构坡面展开分析，研究结论适用范围更广。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文通过设置不同雨强和下垫面坡度，进而以全植被、根系及裸坡结构作为基础植被类型，经过对不同条件下的产流产沙特征以及减流减沙特征进行分析，并结合水力特征参数，探讨了不同雨强及坡度全植被、根系以及裸坡条件下坡面产流产沙及水力特性，得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）在不同雨强及植被结构下，产流流量随坡度的变化整体呈现出：裸坡坡面>根系坡面>全植被坡面。而在不同坡度及植被结构下，产流流量随雨",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "强的变化整体呈现出同样的规律。(2）在不同雨强及坡度下，冠层表现出比根系  \n更加显著的减流效益，冠层的平均减流贡献率为  \n$6 2 \\%$ ,而根系的平均减流贡献率为 $3 8 \\%$ ○（3）在不同雨强及植被结构下，径流产沙率随  \n坡度的变化整体呈现出裸坡坡面 $\\scriptstyle >$ 根系坡面>全植  \n被坡面。而在不同坡度及植被结构下，径流产沙率  \n随雨强的变化整体呈现出裸坡坡面 $\\scriptstyle >$ 根系坡面 $\\mathrm { \\dot { ~ } } >$ 全  \n植被坡面。(4）在不同雨强及坡度下，根系表现出比冠层  \n结构更加显著的减沙效益。(5）在不同雨强及坡度下，水流流速变化整体  \n呈现出：裸坡坡面 $\\mathrm { > }$ 根系坡面 $\\mathrm { \\dot { ~ } } >$ 全植被坡面；植被的  \n根系及冠层部分在降低水流剪切力以及泥沙输移  \n方面效果显著;坡度一定时，全植被和根系坡面的  \n水流剪切力与水流功率随着雨强的增加均增加；水  \n流功率、雷诺数和水流剪切力与产流速率的相关性  \n较高，各种水力参数与产沙速率的相关性与降雨强  \n度的大小有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]朱燕琴,赵志斌,齐广平,等.陇中黄土高原丘陵沟壑区不同植 被恢复模式下次降雨产流产沙特征[J].干旱区地理,2020,43 (4): 920-927.[Zhu Yanqin, Zhao Zhibin,Qi Guangping,et al. Characteristics of slope runoff and sediment of different vegetation restoration patterns under individual rainfall events in hilly and gully loess region in middle Gansu Province[J].Arid Land Geography, 2020,43(4): 920-927.]   \n[2] 姚雪玲,杨国靖,王帅,等.黄土丘陵沟壑区不同深度土壤水分 对降雨的响应及其稳定性[J].干旱区地理,2021,44(2):507- 513.[Yao Xueling,Yang Guojing,Wang Shuai,et al. Soil moisture response and stability to rainfall in different depths in Loess Plateau[J].Arid Land Geography,2021,44(2): 507-513.]   \n[3]赵令,苏涛,李杰卫,等.采煤沉陷区地表水土流失时空演化研 究[J].煤矿安全,2019,50(4):37-40.[Zhao Ling,Su Tao,Li Jiewei,et al. Temporal and spatial evolution of surface soil erosion in mining subsidence areas[J]. Safety in Coal Mines,2O19,50(4): 37-40.]   \n[4]高健翎,高燕,马红斌,等.黄土高原近70a水土流失治理特征 研究[J].人民黄河,2019,41(11):65-69,84.[Gao Jianling,Gao Yan,Ma Hongbin, et al. Study on characteristics of soil and water loss control in Loess Plateau in recent 7O years[J].Yellow River, 2019,41(11): 65-69, 84.]   \n[5]亢小语,张志强,陈立欣,等.自动基流分割方法在黄土高原昕 水河流域适用性分析[J].北京林业大学学报,2019,41(1):92- 101.[Kang Xiaoyu, Zhang Zhiqiang, Chen Lixin, et al. Applicability of automatic baseflow separation method in Xinshui River Basin of the Loess Plateau,norther China[J].Journalof Beijing Forestry University,2019,41(1): 92-101.]   \n[6]王夏青,夏梦婷,许建伟,等.黄土高原北部丘陵沟壑区近160 年土壤侵蚀量演变及其对ENSO事件的响应[J.地理科学, 2019,39(7): 1174-1183.[Wang Xiaqing, Xia Menging, Xu Jianwei,et al. Erosion flux change and its response to ENSO events during the past l6O years within the hil-gully area at the northern Loess Plateau[J]. Scientia Geographica Sinica,2019,39(7): 1174- 1183.]   \n[7]王天宇,吴凯,洪倩,等.基于差分主成分分析的特高压输变电 工程线路施工道路水土保持监测研究[J].矿产勘查,2020,11 (4): 842-847.[Wang Tianyu,Wu Kai, Hong Qian,et al. Study on soil and water conservation monitoring of UHV transmission in econstruction road based on differential principal component analysis[J]. Mineral Exploration, 2020,11(4): 842-847.]   \n[8]黄文丹.九龙江北溪水土流失现状及防治对策[J].亚热带水土 保持,2018,30(3):41-43.[Huang Wendan.Present situation of soil and water lossin Beixi of Jiulong River and itscontrolcountermeasures[J]. Subtropical Soil and Water Conservation, 2018,30 (3): 41-43.]   \n[9]Roundy B A,Farmer M, Olson J. Runoff and sediment response to tree control and seeding on a high soil erosion potential site in Utah: Evidence for reversal of an abiotic threshold[J].Ecohydrology,2017,10(1): e1775,doi: 10.1002/eco.1775.   \n[10] Soulis K X,Ntoulas N,Nektarios PA,et al. Runoff reduction from extensive green roofs having different substrate depth and plant cover[J]. Ecological Engineering,2017(102): 80-89.   \n[11] 王葆,程金花,王文凯,等.北京北部褐土区2种典型植物措施 减流减沙效应[J].水土保持学报,2017,31(3):56-61.[Wang Bao,Cheng Jinhua,Wang Wenkai,et al.Efcts of two typical plant measures on runoff and sediment reduction in a cinnamon soil region in northern Beijing[J].Journal of Soil and Water Conservation,2017,31(3): 56-61.]   \n[12] Li P,Xu G,Lu K,et al. Runoff change and sediment source during rainstorms in an ecologically constructed watershed on the Loess Plateau, China[J]. Science of the Total Environment,2019,664: 968-974.   \n[13] 王晓瑜,郭艳娥,冯希,等.AM真菌与禾草内生真菌对黑麦草 抗旱性的影响[J].草业科学,2018,35(2):380-390.[Wang Xiaoyu,Guo Yan'e,Feng Xi,etal.Effect of arbuscular mycorrhiza and a grass endophyte on the drought tolerance of perennial ryegrass[J]. Pratacultural Science,2018,35(2): 380-390.]   \n[14]Liang SX,JinY,Liu W,et al.Feasibilityof Pb phytoextraction us ing nano-materials assisted ryegrass: Results of a one-year fieldscale experiment[J]. Journal of Environmental Management, 2017, 190: 170.   \n[15] 马腾,韩玲,刘全明.考虑地表粗糙度改进水云模型反演西班牙 农田地表土壤含水率[J].农业工程学报,2019,35(24):129- 135.[Ma Teng, Han Ling,Liu Quanming.Inversion of surface soil moisture content of Spanish farmland using modified water cloud model[J]. Transactions of the Chinese Society of Agricultural Engineering (Transactions of the CSAE),2019,35(24): 129-135.]   \n[16] Cheng P, Zhao L,Li Q,et al. Water inflow prediction and grouting design for tunnel considering nonlinear hydraulicconductivity[J]. KSCE Journal of Civil Engineering,2019,9(23): 1-9.   \n[17] 陈心逸,李丽,佘冬立.砾石覆盖条件下盐碱土边坡降雨侵蚀水 动力学特征[J].水土保持学报,2018,32(1):116-120.[Chen Xinyi,LiLi, She Dongli. Hydrodynamic characteristics of rainfall runoff on saline-alkali slope covered by gravel[J]. Journal of Soil and Water Conservation, 2018,32(1): 116-120.]   \n[18] 肖姚,秦浩,宋文武,等.较大雷诺数下方柱绕流的数值模拟[J]. 动力工程学报,2017,37(8): 679-684.[Xiao Yao,Qin Hao, Song Wenwu,et al.Numerical simulation of the flow around a square cylinder at higher Reynolds numbers[J]. Journal of Chinese Society of Power Engineering,2017,37(8): 679-684.]   \n[19]甘凤玲,何丙辉,覃自阳.喀斯特槽谷区的顺/逆层坡面对水动 力学参数的影响[J].土壤学报,2019,56(4):825-837.[Gan Fengling,He Binghui,Qin Ziyang. Effect of bedding slope on hydrodynamic parameters in typical karst valley[J].Acta Pedologica Sinica,2019,56(4): 825-837.]   \n[20] 崔胜寓.不同下垫面条件的水土保持效益及机理研究——以南 小河沟流域为例[D].西安:西安理工大学,2017.[Cui Shengyu. Solid and water conversation benefit and mechanism of diferent underlying surface:A case study of Nanxiaohegou Basin[D]. Xi' an: Xi'an University of Technology,2017.]   \n[21] 魏忠平,朱永乐,汤家喜,等.模拟黑麦草植被缓冲带对径流中 氮、磷以及悬浮颗粒物的截留效果研究[J]J.沈阳农业大学学 报,2020,51(3):328-334.[Wei Zhongping,Zhu Yongle,Tang Jiaxi,et al. Study of the reduction of nitrogen, phosphorus and suspended solids in simulated ryegrass vegetation buffer zone[J]. Journal of Shenyang Agricultural University,2020,51(3): 328-334.]   \n[22] 崔中佳,郑岩,兰菲,等.断根对去叶黑麦草地上补偿性生长的 影响[J].植物学研究,2018,7(6):550-557.[Cui Zhongjia,Zheng Yan,LanFei,et al.Effects of rooting oncompensatory growth of defoliated rye grassland[J]. Botanical Research, 2018,7(6): 550- 557.]   \n[23]Baumhardt RL,Romkens MJM, WhislerFD,et al.Modeling infiltration into a sealing soil[J].Water Resources Research,1990, 26(10): 2497-2505.   \n[24]Morin J, Benyamini Y, Michaeli A.The effect of raindrop impact on the dynamics of soil surface crusting and water movement in the profile[J].Journal of Hydrology,1981,52(3-4): 321-335.   \n[25] 郭星星,吕春娟,陈丹,等.雨强和坡度对铁尾矿砂坡面复垦前 后产流产沙的影响[J].水土保持研究,2019,26(1):8-13.[Guo Xingxing,Lu Chunjuan,Chen Dan,etal.Effects of rainfall intensity and slope gradient on runoff and sediment production on the slope before and after reclamation in iron tailings[J]. Research of Soil and Water Conservation,2019,26(1): 8-13.]   \n[26]孙佳美,余新晓,李瀚之,等.模拟降雨下枯落物调控坡面产流 产沙过程及特征那研究[J].水利学报,2017,48(3):341-350. [Sun Jiamei,Yu Xinxiao,Li Hanzhi,et al.Runoff and sediment yield process and characteristics research on litter slopes in simulated rainfal[J].Journal of Hydraulic Enginering,2017,48(3): 341-350.]   \n[27] 张璐,刘渊博,雷孝章.黑麦草密度对坡面水流阻力影响的试验 研究[J].灌溉排水学报,2020,39(6):99-106.[Zhang Lu,Liu Yuanbo,Lei Xiaozhang. The effects of ryegrass density on hydraulic resistance of slope against overland water flow[J]. Journal of Irrigation and Drainage,2020,39(6): 99-106.]   \n[28]Thomaz E L, Pereira A A.Misrepresentation of hydro-erosional processes in rainfall simulations using disturbed soil samples[J]. Geomorphology,2017,286(4): 27-33.   \n[29] 邓龙洲,张丽萍,范晓娟,等.不同雨强和坡度下侵蚀性风化花 岗岩母质坡地产流产沙特征[J].农业工程学报,2018,34(17): 143-150.[Deng Longzhou, Zhang Liping,Fan Xiaojuan,et al. Characteristics of runoff and sediment yield under different rainfall intensities and slope gradients in erosive weathered granite area[J]. Transactions of the CSAE,2018,34(17): 143-150.]   \n[30] 张光辉,刘宝元,何小武.黄土区原状土壤分离过程的水动力学 机理研究[J].水土保持学报,2005,19(4):48-52.[Zhang Guanghui,Liu Baoyuan,He Xiaowu.Study on hydro-dynamic mechanism of natural soil detachment in Loess Region[J]. Journal of Soil and Water Conservation,2005,19(4): 48-52.]   \n[31]吕春娟,郭岩松,毕如田,等.不同复垦模式下铁尾矿坡面产流 产沙与水力特性[J].农业工程学报,2020,36(2):156-165.[Lu Chunjuan,Guo Yansong,Bi Rutian,etal.Effects ofdifferentreclamation patterns on surface runoff,sediment yield and hydraulic characteristics of slopes in iron ore tailings[J]. Transactions of the Chinese Society of Agricultural Engineering (Transactions of the CSAE),2020,36(2): 156-165.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Runoff and sediment yield benefits and hydraulic characteristics of perennial ryegrass plantation canopy and root slope in the Loess Plateau ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "JIAO Ruoyu, SONG Xiaoyu, ZHAO Xinkai， LI Lanjun, FU Chong， ZHANG Zhixu, WANG Shaona (State KeyLaboratoryofEco-hydraulicsinNorthwestAridRegionofChina,Xi'anUniversityofTechnology,Xi'an70048, Shaanxi, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Based on artificial rainfallsimulations and the canopy structure,root structure,and bare slope structure of perenial ryegrass (Lolium perenneL.),analysis on runofand sediment yield patterns on a slope,changes in hydraulic indicator distribution,and the relationship between slope erosionand hydraulic characteristics were conducted through setting various rainfall intensities ( $3 0 \\mathrm { m m } { \\cdot } \\mathrm { h } ^ { - 1 }$ ， $6 0 \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ ,and $9 0 \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ ）and different lowerbedding surfaces $( 1 ^ { \\circ } , 3 ^ { \\circ }$ ，and $5 ^ { \\circ }$ ). Consequently, the patterns of runoff and sand yield,as well as the hydraulic characteristics of diffrent slopes in varied grassstructures，were revealed.The findings show that as rainfall intensities and slope gradients change,the fullvegetation structure has the lowest rate of runoff and sand yield, followed bythe root structure,and the bare slope has the highest rate.In terms of contribution to runof reduction, the ryegrasscanopy outperforms the root structure,with the average contribution rate of the canopy and root structure to runoff reduction reaching $62 \\%$ and $3 8 \\%$ ，respectively. For contribution to sand reduction, the root structure is superior to that of the canopy structure.The average contribution of the canopy and root structure to sand reduction can reach $3 7 \\%$ and $65 \\%$ separately. The abovementioned runoff and sand yield patterns demonstrate the effectiveness of the herbaceous canopy and root structure in preventing erosion.Reynolds number and water power,as applicable hydraulic parameters,have shown notable correlations with runoff rate and sediment yield $( P { < } 0 . 0 1 )$ . This study can provide theoretical and experimental references for optimizing water and soil conservation benefits and analyzing hydraulic characteristics under varied grass structures. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: underlying grass surface;artificial rainfall； runoff and sand yield;runoff and sand reduction； slope erosion；hydraulic characteristics ",
+        "page_idx": 10
+    }
+]

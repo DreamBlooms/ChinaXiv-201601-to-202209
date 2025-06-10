@@ -1,0 +1,136 @@
+# 基础研究
+
+# PRKCD和ASK1在人髓系白血病U937细胞分化过程中的作用
+
+闫 峰」，王效民²,袁思波1，马全明'，韩慧平3  
+厦门大学附属中山医院'胃肠外科//厦门市消化疾病诊治中心//厦门大学消化病研究所,肝胆外科,福建 厦门  
+361004，杭州赫贝科技有限公司，浙江杭州311111
+
+摘要：目的 通过检测 ASK1和PRKCD在单核细胞分化过程中的表达变化，探索其在门静脉高压症(PH)脾亢脾脏巨噬细胞(MΦ)功能变化中所起的作用。方法 采用佛波酯诱导U937分化成为巨噬细胞样细胞,q-PCR检测不同分化阶段ASK1和PRKCD mRNA的表达,Westem Blot检测诱导前后ASK1和PRKCD蛋白表达水平变化,ELISA法检测细胞分化过程中与吞噬功能相关的细胞因子IL-10和TNF-α的分泌情况，鸡红细胞吞噬试验鉴定诱导后细胞功能。结果 随着PMA诱导U937细胞时间延长,ASK1和PRKCD基因表达水平下降,TNF-α的分泌量逐渐增加,而IL-10在诱导后24h达到最大分泌量,随后又呈下降趋势;Westem Blot结果显示,ASK1及p-ASK1蛋白表达水平较诱导前均显著上升,PRKCD及p-PRKCD蛋白表达水平显著下降;吞噬实验结果显示,诱导后的细胞具有一定的吞噬功能。结论 在PMA诱导的U937细胞向单核细胞分化过程中,ASK1蛋白表达上调,PRKCD蛋白表达下调,与脾亢脾Mφ一致,并导致Mφ活性增强。
+
+关键词：单核细胞分化；U937；PRKCD；ASK1;门静脉高压症脾亢
+
+# RoleofPRKCD and ASK1 inU937cell differentiation
+
+YAN Feng1,WANG Xiaomin2,YUANSibo,MA Quanming1,HANHuiping   
+Departmentofstrotestinalgeryongsanspitalimenieity;iameniesityigstesessite; DigestiveDisessteoeCiy;ertetpatobygeyeagbl co.,LD,Hnghou,,n
+
+Abstract:ObjectiveToinvestigate theexpressionofASK1andPRKCDinthe processofmonocyte diferentiation,andexplore their role in functional changes of hypersplenism spleen macrophages (MΦ)in portal hypertension (PH). Methods U937cels were stimulated todiferentiateintomonocyte/macrophage-likecellsbycultivationinPMAand themRNA expresionsof ASK1 and PRKCD were detected by $\mathfrak { q }$ -PCR and the changes of protein expression were identified by western blot analysis. The secretion of phagocytose related cytokines such as IL-10 and TNF-a were tested by ELISA,and the function of the macrophage-like celswere studiedbychickenred blood cell phagocytose test.Results The expresions of PRKCDand ASK1 mRNA were gradually decreased along with the cell differentiation, while the secretion of TNF- $\cdot \alpha$ was increased, IL-10 secretion reached a maximum at $2 4 \mathrm { ~ h ~ }$ after PAM stimulation, and then gradually fell. The expression of ASK1 and $\mathrm { ~ \tt ~ p ~ }$ -ASK1 were rapidly increased compared with the non-stimulated U937 cels, while the expresson of PRKCD and p-PRKCD were sightlydeclined.The phagocytose testshowthatU937cels induced withPMAwereable toswallowthechickenredbloodcell. Conclusion Up-regulated protein expresson of ASK1 and p-ASK1 and down-regulated protein expresson of PRKCD and p-PRKCD in the process of PMA induced monocyte diferentiation,are consist with theexpresion changes of splenic macrophage phagocytosis in hypersplenism, which leads to increased activity of MΦ.
+
+Keywords: monocyte differentiation; U937; PRKCD;ASK1; PHT
+
+基因芯片研究表明，同正常脾巨噬细胞相比，门静脉高压症(PHT)脾亢患者脾巨噬细胞 $\left( \mathbf { M } \boldsymbol { \varphi } \right)$ 呈现21个表达上调的已知基因以及73个表达下调的基因[1。其中PRKCD(proteinkinaseC,delta)基因表达出现 $2 9 . 8 \%$ 的下调,ASK基因(activatorofS phasekinase)的mRNA表达量为正常脾巨噬细胞的两倍多。前期研究表明，
+
+PRKCD与单核细胞的分化及功能密切相关[2]PRKCD作为细胞增殖与分化的重要调节蛋白，是否在脾亢脾Mφ细胞中发生上述变化中发挥作用需要进一步探讨。ASK1(apoptosis signal- regulating kinase 1)作为MAP(mitogen-activated protein)激酶级联激酶(MEKKK)家族的一员，对胞内许多转录翻译过程进行调控，从而对细胞的存活、分化或死亡发挥重要作用，其基因表达上调与脾巨噬细胞功能是否存在相应关系值得关注。为此，本研究以U937单核细胞株为模型，采用佛波酯(phorbolmyristicacid,PMA)体外诱导其分化,研究细胞不同分化阶段这两个基因mRNA和蛋白表达变化以及其引起的细胞生物学效应。
+
+# 1 材料和方法
+
+1.1 材料
+
+人单核细胞株U937（中科院上海细胞生物所细胞中心);PMA(Sigma公司),1640基础培养基(Gibco公司)，胎牛血清(Hyclone公司),逆转录试剂盒(Fermentas公司),RNA提取试剂(Invitrogen公司),qPCR试剂PlatinumSYBR Green qPCR SuperMixUDG(Invitrogen公司）,PRKCD、p-PRKCD、ASK1及p-ASK1抗体(Santa cruz公司)，HRP酶标二抗(Bioworld公司），彩色预染蛋白分子量标准(Fermentas公司)，Gimesa染液(碧云天生物技术研究所),ELISA试剂盒(南京凯基生物科技发展有限公司)。
+
+# 1.2 方法
+
+1.2.1U937细胞株培养和巨噬细胞诱导人髓系白血病细胞U937细胞株悬浮培养于含 $10 \%$ 胎牛血清的RPMI1640培养液，于 $3 7 ~ \mathrm { ^ { \circ } C } \setminus { 5 \% } \mathrm { ~ C O } _ { 2 }$ 、饱和湿度的孵箱中培养和传代，取对数生长的细胞进行处理。以每孔$1 \times 1 0 ^ { 6 }$ 接种6孔板， $0 . 2 ~ { \mu \mathrm { g / m l } }$ 终浓度的PMA进行分化诱导，于显微镜下观察不同诱导时间细胞形态的变化。
+
+1.2.2逆转录-聚合酶链式反应(RT-PCR)检测PRKCD和ASK1mRNA的表达取诱导前、诱导后 $2 4 \mathrm { h }$ 诱导后$4 8 \mathrm { ~ h ~ }$ 换液培养 $4 8 \mathrm { ~ h ~ }$ 后的细胞，用q-PCR检测mRNA的表达。用抽提液提取总RNA,逆转录cDNA模板, $2 5 \mu \mathrm { l }$ 反应体系:Platinum SYBR Green qPCR SuperMix-UDG 1 $1 2 . 5 \ \mu 1 .$ 、Forward primer( $1 0 \ \mathrm { \textmu m o l { } / L }$ ） $1 ~ \mu \mathrm { l }$ ，Reverseprimer $\mathrm { \langle 1 0 \ \mu m o l / L \rangle 1 \ \mu l . c D N A \ 1 \ \mu l }$ ,加DNase/RNase-free $\mathrm { \ d d H _ { 2 } O }$ 至 $2 5 ~ { \mu \mathrm { l } } _ { \circ }$ PRKCD的上游引物为5'-AGCCGACCATGTATCCTGAGTG-3'，下游引物为$5 ^ { \prime }$ -TCAGCCTTGCCATTGTTCTTCT-3',扩增片段产物长度166bp,ASK1的上游引物为5'-CCGCAGCCCACTCGTTT-3'，下游引物为 $5 ^ { \prime }$ CAGTCGCCCGGCACCTAC-3',扩增片段产物长度 $2 2 5 ~ \mathrm { b p }$ ,扩增内参 $\beta$ -actin上游引物5'-GACTTAGTTGCGTTACACCCTTTC-3',下游引物:5'-GACTGCTGTCACCTTCACCGT-3',扩增片段产物长度163bp,qPCR反应程序： $5 0 \mathrm { ~ \textdegree ~ } 3 \mathrm { ~ m i n }$ $9 5 \ \mathrm { \textcircled { C } \ 3 . 5 \operatorname* { m i n } , 9 5 \ \mathrm { \textcircled { C } \ 1 5 s , 6 0 \ \mathrm { \textcircled { C } \ 2 0 \ { s } , 7 2 \ \mathrm { \textcircled { C } \ 3 0 \ { s } } } } }$ ，共45个循环，实验结果由荧光定量PCR分析软件BIO-RADCFXManager自动进行统计和计算。
+
+1.2.3Westernblot检测PRKCD和ASK1蛋白水平的变化取诱导前及诱导后换液培养48h的细胞，裂解液裂解细胞提取蛋白，BCA(bicinchoninicacid)法测定蛋白浓度。每孔上样量 $3 0 ~ \mu \ g$ ,进行SDS-PAGE电泳,电泳完毕，湿转转膜， $5 \%$ 脱脂奶粉封闭 $^ { \textrm { 1 h } }$ ，一抗 $4 \mathrm { { ^ \circ C } }$ 孵育过夜，$1 \times \mathrm { T B S T }$ 洗膜3次(20min/次），室温孵育二抗 $ { \mathrm { ~ 1 ~ h ~ } } ,  { \mathrm { 1 } } \times$ TBST洗膜3次（ $2 0 \mathrm { m i n } /$ 次)，ECL化学发光显影。
+
+1.2.4酶联免疫吸附实验取诱导不同时间的细胞上清，按照ELISA操作试剂盒进行TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 分泌水平的测定。标准曲线的设定：在酶标包被板上设标准品孔4孔，初始孔TNF- $\mathfrak { a }$ 标准品浓度为 $2 0 ~ \mathrm { p g / m l }$ ，依次二倍倍比稀释，分别设样品孔和空白孔，样品作5倍稀释，每孔 $5 0 ~ \mu \mu \mu$ ；每孔加入酶标试剂(HRP标记的检测抗体）$1 0 0 ~ \mu \mathrm { l }$ ，空白孔除外，用封板膜封板后置 $3 7 ~ \mathrm { ^ { \circ } C }$ 温育 $6 0 ~ \mathrm { { m i n } }$ 小心揭掉封板膜，弃去液体，甩干，每孔加满洗涤液，静置 $1 ~ \mathrm { m i n }$ 后弃去，如此重复5次，拍干;每孔先加入显色剂 $\mathsf { A S 0 \mu l }$ ,再加入显色剂 ${ \tt B S O \mu l }$ ,轻轻震荡混匀， $3 7 \ \mathrm { { ^ circ C } }$ 避光显色 $1 5 \mathrm { m i n }$ ；每孔加终止液 $5 0 ~ \mu \mu \mu$ ，终止反应；以空白空调零， $1 5 \mathrm { m i n }$ 内， $4 5 0 ~ \mathrm { n m }$ 波长依序测量各孔的吸光度(D)。
+
+1.2.5鸡红细胞吞噬实验取诱导后 $8 \mathrm { ~ h ~ }$ 及诱导 $4 8 \mathrm { ~ h ~ }$ 后换液培养两天后的细胞进行红细胞吞噬实验。按照余虹等3方法进行实验，鸡红细胞悬液的制备：鸡翅下静脉取血保存于阿氏液(葡萄糖 $2 . 0 5 \ \mathrm { g }$ 、柠檬酸钠 $0 . 8 \ \mathrm { g }$ 、柠檬酸 $0 . 0 5 5 \mathrm { \ g }$ 、氯化钠 $0 . 4 2 ~ \mathrm { g }$ ，加蒸馏水至 $1 0 0 ~ \mathrm { { m l } }$ ，加热溶解后将pH值调到6.1,121 $\mathrm { { ^ \circ C } }$ 高压灭菌 $3 0 \mathrm { m i n }$ ,放置在$4 \mathrm { { ^ { \circ } C } }$ 的环境内，保存备用)。血液和阿氏液的体积比为1：4。使用前先用生理盐水洗涤鸡红细胞2次，每次离心弃上清( $\mathrm { 1 0 0 0 ~ r / m i n } , 5 \mathrm { ~ m i n } ,$ ，最后用生理盐水配制$5 \% ( V / V )$ 的鸡红细胞悬液。吞噬实验：上述诱导组细胞弃尽培养上清及未贴壁细胞，加入适量鸡红细胞悬液，$3 7 ~ \mathrm { ^ { \circ } C }$ 作用 $9 0 ~ \mathrm { m i n }$ 。取出，弃尽多余液体， $3 7 ~ \mathrm { ^ { \circ } C }$ 预热的PBS冲洗掉未粘附的鸡红细胞，加入甲醇固定 $3 \mathrm { m i n }$ ，弃去甲醇液体，风吹晾干，再加入适量Giemsa染液，染色$3 0 \mathrm { m i n }$ ，自来水冲洗掉多余液体，自然晾干，拍照。
+
+# 2结果
+
+# 2.1PMA诱导U937细胞分化为巨噬细胞
+
+人髓系白血病细胞U937细胞呈类圆形，在培养液中悬浮生长。经PMA诱导后 $8 \mathrm { { h } }$ 细胞即贴壁， $2 4 \mathrm { h }$ 后贴壁细胞出现聚集， $4 8 \mathrm { ~ h ~ }$ 贴壁细胞形态改变，细胞表面出现伪足;更换正常培养基后继续培养 $4 8 \mathrm { ~ h ~ }$ ，可见大部分细胞形态发生变化，呈现梭型、星型等不规则形态(图1)。2.2U937细胞诱导后不同时间PRKCD和ASK1mRNA的表达
+
+为明确诱导过程中ASK1和PRKCD基因mRNA表达水平的变化，分别取非诱导细胞、PMA诱导后8、$2 4 . 4 8 \mathrm { ~ h ~ }$ 的细胞，提取总RNA,q-PCR检测两个基因的mRNA表达变化。结果显示，随着诱导时间的延长，两个基因的mRNA表达均呈现下降趋势(图2)。
+
+# 2.3U937细胞诱导前后PRKCD和ASK1蛋白的表达
+
+取诱导前及诱导后恢复48h的细胞，提取总蛋白，Westernblot检测ASK1和PRKCD蛋白的表达，总蛋白上样量 $3 0 ~ \mu \mathrm { g } _ { \circ }$ 结果显示：细胞分化后,ASK1和p-ASK1表达水平较诱导前均显著上升，而PRKCD和p-PRKCD表达水平较诱导前显著下降(图3A\~D)。
+
+![](images/95dafe64841a13a484402e810bbdba9d0cd00b081cd0ac5a0b6413ad058a15d7.jpg)  
+图1PMA诱导后不同时间细胞形态变化
+
+Fig.1 The typical morphological changes of U937 cells induced with PMA for different time (Original magnification: $\times 4 0$ ).A:Without PMA-induced U937 cells;B:U937 cells were induced with PMA for $2 4 \mathrm { h } .$ $c$ ：U937cellswere induced withPMA for $2 4 \mathrm { h }$ ;D:U937 cellswere induced withPMA for $2 4 \mathrm { h }$ and incubated with normal medium for $^ { 4 8 \mathrm { h } }$
+
+![](images/7bc425b279d04a4385605d48b08e1db523df4f3632c2ebf5306fba00901496c0.jpg)  
+图2 $\mathbf { q }$ -PCR检测U937细胞经PMA诱导后不同时间后ASK1和PRKCDmRNA的表达  
+Fig.2 Expression ofASK1 and PRKCD mRNAin U937 cells induced with PMA for different time by $\mathsf { q }$ -PCR ASK1, $^ { * * } P { < } 0 . 0 1$ Us ctrl; PRKCD, $^ { \sharp \sharp } P < 0 . 0 1$ Us ctrl.
+
+2.4ELISA检测诱导不同时间点TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 和IL-10的分泌
+
+采用ELISA法测定与吞噬功能相关的细胞因子TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 和IL-10的分泌。结果显示，随着细胞分化程度的增加,TNF-α的分泌量逐渐增加,IL-10分泌量呈现先增加后下降的趋势(图4A,B)。
+
+# 2.5诱导后细胞吞噬功能的检测
+
+为了进一步检测所诱导细胞是否具有吞噬功能，取诱导后 $8 \textup { h }$ 和诱导恢复 $4 8 \mathrm { ~ h ~ }$ 的细胞做鸡红细胞吞噬实验。结果表明，PMA诱导后 $8 \mathrm { ~ h ~ }$ ，尚未有红细胞被吞噬（图5A箭头所示为鸡红细胞)；当细胞诱导 $4 8 \mathrm { ~ h ~ }$ 后更换正常培养基培养 $4 8 \mathrm { ~ h ~ }$ ，可观察到有鸡红细胞被吞噬(图5B箭头所示）。
+
+# 3讨论
+
+脾功能亢进症是一常见临床综合征，主要由肝硬化门静脉高压(PHT)引起,表现为脾肿大、同时有一种或几种血细胞的减少等目前临床上治疗上比较困难[4]。
+
+本课题组前期研究结果发现，在PHT发生时，脾脏Mφ细胞吞噬功能增强的可能分子机制如下：PRKCD表达下调，通过抑制Mφ凋亡、减少免疫抑制性细胞因子(如IL-10)分泌、影响Mp分化及趋化游走等多种途径引起脾脏Mφ功能增强;ASK表达明显上调,可导致Mp活性增强(包括其吞噬功能的增强）。但PRKCD和ASK能否作为脾亢基因治疗的靶点，还需进一步研究证实。本研究采用体外诱导单核细胞分化方法，研究以上两个基因在单核-巨噬细胞分化不同阶段的表达情况以及其引起的生物学效应。
+
+U937细胞系是单核巨噬细胞性白血病细胞，通过PMA诱导U937细胞分化而获得的成熟巨噬细胞，在某些方面可替代血液及组织中的单核/巨噬细胞。通过对诱导过程中基因及蛋白表达调控的研究，有助于初步了解体内血液单核细胞逐渐分化为组织巨噬细胞的机制，目前体外诱导单核细胞为巨噬细胞的模型已经用于多项巨噬细胞吞噬功能的研究[6I]。本研究中,U937细胞经PMA诱导后，细胞形态类似巨噬细胞，并通过鸡红细胞吞噬实验证明诱导后的细胞具备吞噬功能。HosoyaH等用PMA诱导U937成为巨噬细胞的研究中，发现已分化在诱导的细胞仍具有去分化能力，并初步推测这一过程中伴随着基因表达的改变。Young-Sook等[13]采用基因芯片研究表明在血液单核细胞转变为组织巨噬细胞的过程中，一系列与细胞因子、趋化因子、细胞表面抗原相关分子和信号转导蛋白相关的转录因子的基因表达发生变化。
+
+![](images/26e21ec4291dd05e0fcbcc99339c1aa9fa01ab516c5742ab189bacb821bec5a9.jpg)  
+图3AWestern-blotting检测U937细胞经PMA前后ASK1和p-ASK1蛋白的表达变化
+
+![](images/08fc68a4f742713767fbd6d45478b25a8c08391a29181dacb73648c00132572d.jpg)  
+图3BWestern-blotting检测U937细胞经PMA前后PRKCD和p-PRKCD蛋白的表达变化
+
+PKC是存在于哺乳动物细胞胞浆内的脂质依赖性丝氨酸/苏氨酸蛋白激酶，至少包括12中亚型，分为经典型PKC(conventional PKC,cPKC）、新型PKC(novelPKC,nPKC)非经典型PKC(atypicalPKC,αPKC)及PKC- $\mu$ 四类。PKC通过催化多种蛋白质上丝氨酸(Ser)/苏氨酸(Thr)磷酸化，来调节细胞的代谢、生长、增殖和分化[14]。PKC8是nPKC亚型家族的重要成员,在细胞的生长、分化、调亡、肿瘤进展中发挥重要的作用，但PKC8在细胞信号转导中的作用还不十分清楚[15-16]。
+
+PRKCD作为调控细胞增殖与凋亡的蛋白激酶，同时也是PMA的受体，在这一过程中很可能会发生基因或蛋白水平的变化[17]。在本研究中,随着细胞的分化,PRKCD的mRNA表达呈下降趋势，这一现象同我们前期研究的脾亢患者脾巨噬细胞PRKCD基因表达下调相符[4]。从Westernblot结果看,细胞分化后,PRKCD蛋白表达及其磷酸化水平均明显下降，这可能是因为细胞在受到PMA刺激时，PRKCD被激活后与泛素结合，最终降解所致[18]
+
+![](images/297c28a8c3bdf229a702b07ed7fa9261c7d7816ad929fee5e7634b7e65dcdd2b.jpg)  
+Fig.3A Expression of ASK1 and p-ASK1 protein in U937 cells induced with PMA cells compared with uninduced control by Western-blotting. $^ { * * } P { < } 0 . 0 1$ Us ctrl.   
+Fig.3B Expression of PRKCD and p-PRKCD protein in U937 cells induced with PMA cells compared with uninduced control by Western-bloting. $^ { * * } P { < } 0 . 0 1$ Us ctrl.   
+图4AElsia检测U937细胞经PMA诱导不同时间后 TNF-α的分泌 Fig.4A Secretion of TNF- $\alpha$ in U937 cells induced with PMA for different time by Elisa. $^ { * * } P { < } 0 . 0 1$ Us $^ { 0 \mathrm { h } }$
+
+![](images/06feb8a3cf610845ce0759675060786fee065d2bb21a07d43dbf9cfe3c678698.jpg)  
+图4BElsia检测U937细胞经PMA诱导不同时间后IL-10的分泌Fig.4B Secretion of IL-10 in U937 cells induced withPMA for different time by Elisa. $_ { * * P < 0 . 0 1 \ v s \ 0 \ h }$ ：  
+图5PMA诱导前后U937细胞吞噬功能检测  
+Fig.5Phagocytosis changes of U937 cells induced with PMA (Original magnification: $\times 4 0$ .A: Without PMA-induced U937 cells;B:U937 cells were induced with PMA for $2 4 \mathrm { h }$ and incubated with normal medium for $^ { 4 8 \mathrm { h } }$
+
+ASK1是细胞丝裂原活化蛋白激酶激酶激酶家族成员之一。在正常细胞中，ASK1的活化受到严格的控制，如苏氨酸/丝氨酸磷酸化和去磷酸化、蛋白-蛋白相互作用等。多种应激和促炎因子能激活ASK1，因此在多种生理和病理过程中都有活化的ASK1的参与[19]ASK1能够对许多内源性和外源性的刺激进行平衡和整合,使细胞对不同的刺激作出合适的应答[20-21]。本研究发现，PMA诱导U937细胞分化后，ASK1蛋白表达量#车 中 ：
+
+显著增加，其磷酸化水平也成上升趋势，但其mRNA表达水平呈下降趋势。Yamada等研究了人ASK基因编码的Cdc7激酶的活性调节基团并分离鉴定了对应的ASK启动子区域，证实这一ASK启动子能够有效地刺激细胞生长，提高细胞活力。
+
+TNF- $\mathfrak { a }$ 与IL-10在淋巴细胞、单核巨噬细胞进行免疫调控及炎症反应中发挥多种效应。TNF-α主要由巨噬细胞分泌，为多功能的炎症因子。随着诱导时间的延长，其分泌量逐渐增大，提示其可能的原因为PMA在诱导单核细胞分化的过程中，扮演着炎症刺激因子角色，促使细胞在分化过程中释放TNF- $\mathbf { \cdot a } _ { \scriptscriptstyle \odot }$ Janeway等[23]研究表明，巨噬细胞分泌的TNF-α通过促进血凝从而抑制机体感染病原菌。本课题组前期研究表明[24],在脾亢 $\mathbf { M } \boldsymbol { \Phi }$ 中，TNF-α的分泌量大量增加，这可能因为机体遭遇病原菌感染时， $\mathbf { M } \boldsymbol { \rho }$ 吞噬破坏血细胞增多，从而发生PHT。同时也发现PHT脾 $\mathbf { M } \boldsymbol { \rho }$ ,IL-10分泌量受到抑制。IL-10为免疫抑制性细胞因子，U937分化过程中，细胞发生聚集后其分泌量逐渐下降，进一步证明了IL-10可能影响单核细胞进一步分化。
+
+综上所述，本研究采用U937这一单核细胞株体外诱导成巨噬细胞样细胞,并对诱导不同阶段脾亢脾Mp相关基因和蛋白表达及影响巨噬细胞功能的细胞因子分泌进行检测，发现PRKCD及其磷酸化蛋白表达下调，ASK1及其磷酸化蛋白表达明显上调，为以PRKCD和ASK1作为脾亢治疗的靶点提供了实验依据。
+
+# 参考文献：
+
+[1]闫峰,李 威,陈君填,等.基因芯片筛选门静脉高压症脾亢脾和正常 脾巨噬细胞中差异表达基因[J].南方医科大学学报,2006,26(11): 1548-51.   
+[2]Liu H,Keefer JR,Wang QF,et al. Reciprocal effects of C/EBPalpha and PKCdelta on JunB expression and monocytic differentiation depend upon the C/EBPalpha basic region[J].Blood,2O03,101 (10):3885-92.   
+[3］余 虹.小鼠巨噬细胞吞噬功能测定方法的改进及应用(英文)[J].生 命科学研究,2013,4(4):316-20.   
+[4]Elmakki E.Hypersplenism:reviewarticle [J].JBiol Agric Healthcare,2012,2(10): 89-99.   
+[5]YanF,Zhao J,MaJ,etal.Metabolic effects of a novel bioartificial liver on serum from severe hepatitis patients:an in vitro study[J]. Chin Med J,2003,116(10): 1471-4.   
+[6]Chabot S,Charlet D,Wilson TL,et al．Cytokine production consequent to T cell--microglia interaction:the PMA/IFN gammatreated U937 cells display similarities to human microglia[J].J Neurosci Methods,2001,105(2):111-20.   
+[7]Daigneault M,Preston JA,Marriott HM, et al. The identification of markers of macrophage differentiation in PMA-stimulated THP-1 cells and monocyte-derived macrophages[J].PLoS One,2010,5 (1): e8668.   
+[8]Kim JA,Kong CS,Pyun SY,et al.Phosphorylated glucosamine inhibits the inflammatory response in LPS-stimulated PMAdifferentiated THP-1 cells [J].Carbohydr Res,2010,345(13): 1851-5.   
+[9]Desai A，Darland G,Bland JS，et al.METAO6O attenuates TNF-α-activated inflammation,endothelial-monocyte interactions, and matrix metalloproteinase-9 expression,and inhibits NF $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ and AP-1 in THP-1 monocytes[J].Atherosclerosis,2012,223(1):130-6.   
+[10]Froemming,R G,O'Brien,et al. M.U937 cells as a model to study the effect of phytochemicals on superoxide anion production [J]. Nutr Res,1997,17(7): 1091-103.   
+[11] Lessig J,Neu B,Glander HJ,et al.Phagocytotic competence of differentiated U937 cells for colloidal drug delivery systems in immune cells[J]. Inflammation,2011,34(2): 99-110.   
+[12]Hosoya H MT,dedifferentiation of the human monocytic leukemia cell line.U937[J].Cell Struct Funct,1992,17(5): 263-9.   
+[13]Baek YS,Haas S,Hackstein H,et al.Identification of novel transcriptional regulators involved in macrophage differentiation and activation in U937 cells[J].BMC Immunol, 2009,10(18): 18.   
+[14]崔恩凤,唐建武.蛋白激酶C-8的研究进展[J].国际病理科学与临床杂 志,2006,26(2):156-8.   
+[15]Liao YF,Hung YC,Chang WH,et al.The PKC delta inhibitor, rottlerin,induces apoptosis of haematopoietic cell lines through mitochondrial membrane depolarization and caspases'cascade [J]. Life Sci,2005,77(6): 707-19.   
+[16] Nabha SM,Glaros S,Hong M,et al.Upregulation of PKC-delta contributes to antiestrogen resistance in mammary tumor cells [J]. Oncogene,2005,24(19): 3166-76.   
+[17]Lu Z,Liu D, Hornia A,et al. Activation of protein kinase C triggers its ubiquitination and degradation[J].Mol Cell Biol,1998,18(2): 839-45.   
+[18]Dutil EM,Toker A,Newton AC.Regulation of conventional protein kinase C isozymes byphosphoinositide-dependent kinase 1 (PDK-1)[J].Curr Biol,1999,8(25): 1366-75.   
+[19]倪军,唐圣松.ASK1激活的分子机制与相关疾病[J].现代生物医学 进展,2009,9(4):772-4,789.   
+[20]Matsukawa J,Matsuzawa A,Takeda K,et al.The ASK1-MAP kinase cascades in mammalian stress response[J].JBiochem,2004, 136(3): 261-5.   
+[21]Kim SY,Kim TJ,Lee KY.A novel function of peroxiredoxin 1 (Prx-1）in apoptosis signal-regulating kinase 1 (ASK1)-mediated signaling pathway[J].FEBS Lett,2008,582(13):1913-8.   
+[22]Yamada M, Sato N, Taniyama C,etal.A 63-base pair DNA segment containing an Spl site but not a canonical E2F site can confer growth-dependent and E2F-mediated transcriptional stimulation of the human ASK gene encoding the regulatory subunit for human Cdc7-related kinase[J].JBiol Chem,2002,277(31): 27668-81.   
+[24]Janeway C,Travers P,Walport M,et al.The immune system in health and disease[J].Immuno-bio,1999,354(23): 49-58.   
+[24]马双余,李爱民,李宗芳,等.应用蛋白质芯片研究门静脉高压症脾亢 脾与正常脾组织细胞因子的表达差异[J].中华普通外科学,2008,2 (6): 24-30.
+
+（编辑：吴锦雅）

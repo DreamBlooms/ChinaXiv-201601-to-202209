@@ -1,0 +1,196 @@
+多营养源饲粮对生长育肥猪生长性能、养分表观消化率及肉品质的影响徐亚兰 陈代文余　冰　虞　洁　罗钧秋　黄志清　郑　萍　毛湘冰　罗玉衡 黄纯波
+
+何军\*
+
+（四川衣亚八子动物吕介叭九所，幼物抗吕介叙月部里点头验至，成郁 0II130)摘要：本试验旨在研究营养源饲粮对生长育肥猪生长性能、养分表观消化率及肉品质的影响，探索使用非常规饲料原料配制饲粮的可能性。试验选取日龄相近、体重在（ $( 4 1 . 0 6 { \pm } 1 . 4 3 )$ $\mathbf { k g }$ 的"杜长大"生长猪 48头，随机分配到2个组，分别饲喂玉米-豆粕型基础饲粮（对照组）和多营养源饲粮组（试验组)。生长阶段试验期为42d，育肥阶段待猪体重达 $1 2 0 \mathrm { k g }$ 时，每个组选择5头猪进行屠宰并测定肉品质。结果表明：1）与对照组相比，试验组试验猪平均日采食量提高了 $7 . 7 6 \%$ （ $P { > } 0 . 0 5 \$ ),平均日增重、料重比和能量摄入量均无显著差异( $( P { > } 0 . 0 5 )$ ；2）与对照组相比，试验组钙、磷、能量、粗蛋白质、粗灰分和干物质的表观消化率显著降低（ $_ { . P < 0 . 0 5 ) }$ ，粗脂肪的表观消化率无显著差异（ $P { > } 0 . 0 5$ )；3）与对照组相比，饲喂多营养源饲粮显著提高了试验猪血清谷丙转氨酶的活性（ $_ { _ { P < 0 . 0 5 } }$ )，但对其余血清生化指标均无显著影响（ $P { > } 0 . 0 5 )$ ；4）与对照组相比，饲喂多营养源饲粮对猪肉品质及背最长肌肌内脂肪和蛋白质含量无显著影响（ $P { > } 0 . 0 5 )$ 。由此可知：在本试验条件下，饲喂以非常规饲料原料为主的多营养源饲粮降低了生长育肥猪营养物质表观消化率，但对其生长性能和肉品质无负面影响。
+
+关键词：营养源；生长性能；养分表观消化率；肉品质中图分类号：S828 文献标识码： 文章编号：
+
+现代动物营养科学经过200多年的发展，科学家们已经逐步揭开了动物所需营养素的神秘面纱，包括这些营养素的种类以及在动物上的功能和需要量，从而建立了动物营养需要标准。在实际生产及众多动物试验的结果显示：采食以相同营养标准配制的不同营养源饲粮，饲喂效果却大相庭径[1l。这表明：动物营养的内涵仅用营养素和营养水平还不能充分诠释，于是科学家提出了“营养结构"的概念[2]。营养结构强调营养素平衡、营养源平衡、二者相互关系以及和促营养素的关系。本研究主要从营养源及其相互关系这一层面来开展试验。在目前的饲料生产中，为了确保使用效果和组织生产的方便，饲料常以玉米-豆粕为主的简单配方，这使得优质饲料原料玉米、豆粕的使用量大，国内产量通常很难满足需求。而我国资源丰富的粮食加工副产物在饲料行业使用不足，造成了极大的饲料资源浪费。为了避免出现人畜争粮的尴尬局面，增加粮食加工副产物在饲料中的应用显得尤为重要。Apple等[3]研究发现，使用 $3 \%$ 的水解羽毛粉等量替代豆粕时动物生产性能无显著变化；黄伟杰等[4研究发现，在生长猪饲粮中加入 $20 \%$ 的高梁和 $10 \%$ 的干酒糟及其可溶物（DDGS)，其生长性能与玉米组无显著差异。这表明，使用非常规营养源在一定范围内替代玉米、豆粕，对猪的生产性能不产生负面影响，然而合理剂量的确定和更多营养源的搭配仍然需要深入地分析和试验。因此，本研究旨在通过使用多营养源配制饲粮，考察其对于生长育肥猪生长性能、养分表观消化率以及肉品质的影响，以期得到多营养源饲粮在充分利用非常规原料、降低饲料成本以及提高生产效益等方面的应用价值。
+
+# 1材料和方法
+
+# 1.1 试验材料
+
+本试验的饲料原料：玉米粕、小麦、DDGS、棉籽粕购于四川省眉山市彭山青龙场原料批发市场，皮大麦、菜籽粕购于四川铁骑力士集团，亚麻籽粕和花生粕分别购于山东菏泽和河南驻马店。
+
+# 1.2 试验动物与试验设计
+
+试验选择初始体重为（ $4 1 . 0 6 { \pm } 1 . 4 3$ ）kg 的"杜长大”（DLY）生长猪48头，随机分配到2 个组，每组12个重复（圈)，每个重复2头猪；对照组饲喂玉米-豆粕型基础饲粮；试验组饲喂多营养源饲粮，能量低于对照组。生长阶段试验期为 42d，在试验开始的第 32\~35天进行内源指示剂法消化试验，在第43天早上每个重复选择1头猪进行采血，并对所有猪进行称重；育肥阶段将猪继续饲喂至 $1 2 0 ~ \mathrm { k g }$ 体重时，每个组选择5头猪进行屠宰并测定肉品质。
+
+# 1.3 试验饲粮
+
+试验饲粮参考 NRC(2012)50\~75 kg 和 $7 5 { \sim } 1 2 0 \mathrm { k g }$ 猪营养需要量配制，基础饲粮为玉米-豆粕型，多营养源饲粮则是由多种能量和蛋白质源组合配制而成。饲粮组成及营养水平见表1。
+
+Table1 Composition and nutrient levels of the diets (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="2">生长阶段 Growing stage</td><td colspan="2">育肥阶段 Finishing stage</td></tr><tr><td>对照组</td><td>试验组</td><td>对照组</td><td>试验组</td></tr><tr><td></td><td>Control group</td><td>Experimental group</td><td>Control group</td><td>Experimental group</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>81.71</td><td>34.12</td><td>86.35</td><td>41.04</td></tr><tr><td>皮大麦 Hulled barley</td><td></td><td>10.44</td><td></td><td>10.03</td></tr><tr><td>碎米 Broken rice</td><td></td><td>10.41</td><td></td><td>10.03</td></tr><tr><td>小麦麸 Wheat bran</td><td></td><td>10.62</td><td></td><td>10.03</td></tr><tr><td>小麦Wheat</td><td></td><td>10.57</td><td></td><td>10.03</td></tr><tr><td>高梁 Sorghum</td><td></td><td>10.35</td><td></td><td>10.03</td></tr><tr><td>豆粕 Soybean meal</td><td>15.47</td><td>3.07</td><td>11.07</td><td>1.09</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td></td><td>1.50</td><td></td><td>1.06</td></tr><tr><td>菜籽粕Rapeseed meal</td><td></td><td>1.50</td><td></td><td>1.00</td></tr><tr><td>亚麻籽粕 Flaxseed meal</td><td></td><td>1.50</td><td></td><td>1.00</td></tr><tr><td>花生粕 Peanut meal</td><td></td><td>1.50</td><td></td><td>1.05</td></tr><tr><td>干酒糟及其可溶物 DDGS</td><td></td><td>1.50</td><td></td><td>1.00</td></tr><tr><td>石粉 Limestone</td><td>0.54</td><td>0.85</td><td>0.52</td><td>0.79</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.91</td><td>0.43</td><td>0.74</td><td>0.31</td></tr><tr><td>食盐 NaCl</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td></tr><tr><td>赖氨酸 Lys</td><td>0.45</td><td>0.64</td><td>0.42</td><td>0.56</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.12</td><td>0.13</td><td>0.10</td><td>0.10</td></tr><tr><td>苏氨酸 Thr</td><td>0.12</td><td>0.19</td><td>0.12</td><td>0.17</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>维生素预混料 Vitamin</td><td>0.08</td><td>0.08</td><td>0.08</td><td>0.08</td></tr><tr><td>permix1)</td><td></td><td></td><td></td><td></td></tr><tr><td>矿物质预混料 Mineral</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="5">premix2)</td></tr><tr><td>总计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.77</td><td>12.89</td><td>13.81</td><td>13.02</td></tr><tr><td>净能 NE/(MJ/kg)</td><td>10.26</td><td>9.50</td><td>10.59</td><td>9.75</td></tr><tr><td>粗蛋白质CP</td><td>13.75</td><td>13.76</td><td>12.13</td><td>12.14</td></tr><tr><td>钙Ca</td><td>0.59</td><td>0.59</td><td>0.52</td><td>0.52</td></tr><tr><td>总磷TP</td><td>0.52</td><td>0.52</td><td>0.47</td><td>0.47</td></tr><tr><td>有效磷 AP</td><td>0.33</td><td>0.24</td><td>0.29</td><td>0.21</td></tr><tr><td>可消化赖氨酸 Digestible Lys</td><td>0.85</td><td>0.86</td><td>0.74</td><td>0.73</td></tr><tr><td>可消化蛋氨酸Digestible Met</td><td>0.30</td><td>0.30</td><td>0.26</td><td>0.26</td></tr><tr><td>可消化蛋氨酸+半胱氨酸</td><td>0.48</td><td>0.49</td><td>0.43</td><td>0.43</td></tr><tr><td>Digestible Met+Cys</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>可消化苏氨酸Digestible Thr</td><td>0.52</td><td>0.52</td><td>0.47</td><td>0.46</td></tr></table></body></html>
+
+1)维生素预混料为每千克饲粮提供 The vitamin premix provides the following per $\mathrm { k g }$ of diets: VA 32 000 IU, $\mathrm { V D } _ { 3 } 8 0 0 \mathrm { I U }$ ，VE 20 IU，VK3 4 mg, $\mathrm { V B } _ { 1 } 1 . 6 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } ~ 1 2 . 8 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 . 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 4 ~ \mathrm { m g }$ ，烟酸niacin （204号 $2 8 ~ \mathrm { m g }$ ， $D _ { \mathbf { \delta } }$ 泛酸钙 $D$ calcium pantothenate $2 0 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 4 ~ \mathrm { m g }$ 。
+
+2)矿物质预混料为每千克饲粮提供 The mineral premix provides the following per $\mathrm { k g }$ of diets: Fe (as ferrous sulfate monohydrate) $5 0 . 0 \mathrm { m g }$ , Cu (as copper sulfate pentahydrate) $3 . 5 ~ \mathrm { m g }$ , Mn (manganese sulfate) $2 . 0 \mathrm { m g }$ ， Zn (as zinc sulfate) $5 0 . 0 \mathrm { m g }$ ， I(as potassium iodide) $0 . 1 4 ~ \mathrm { m g }$ ， Se (as sodium selenite ) $0 . 1 5 \mathrm { m g }$ 。
+
+3)饲粮营养水平全部参照中国饲料原料数据库提供的数值进行计算。Nutrient levels of diets were all calculatedbythevaluesinChinesefeeddatabase.
+
+# 1.4饲养管理
+
+本试验在四川农业大学动物营养研究所教学实验基地进行。预试5d进入正式试验，每天喂料3次（08:00、13:30和19:00)，每次喂料少量多次，直至自由采食后料槽还有少量余料为止，自由饮水，保持圈舍温度在21℃左右。
+
+# 1.5 屠宰及组织取样
+
+选择体重在 $1 2 0 \mathrm { k g }$ 左右的猪进行屠宰，分离左侧胴体对背最长肌进行取样，从腰荐结合处开始，第1\~2段肋骨处背最长肌用于测定肌肉pH和肉色，第3\~4段测定滴水损失及蒸煮损失，第5\~6段则用于测定肌内脂肪及蛋白质含量。
+
+# 1.6 测定指标及方法
+
+# 1.6.1 生长性能
+
+分别在试验开始的第1天和第43天以圈为单位对猪进行空腹称重，试验期每天记录每圈猪每日饲粮摄入量，计算每个圈的平均日采食量（ADFI）、平均日增重（ADG）以及料重比（F/G)。
+
+# 1.6.2 养分表观消化率
+
+测定粪便和饲粮中各养分的含量以及内源指示剂盐酸不溶灰分的含量，计算各养分的表观消化率。能量用全自动氧弹热量仪（PARR6400，美国）测定；粗蛋白质含量用全自动凯氏定氮仪（BUCHIK-360,瑞士)测定；盐酸不溶灰分含量按照GB/T23742—2009/ISO 5985:2002方法测定；粗灰分、钙、磷、干物质含量按照张丽英[5《饲料分析以及饲料质量检测技术》（2007）方法测定。
+
+各养分表观消化率 $( \% ) \ = 1 0 0 - 1 0 0 \times A / A _ { 1 } \times ( B _ { 1 } / B )$
+
+A为每千克粪中某营养物质的含量， $A _ { 1 }$ 为每千克饲粮中某营养物质的含量； $B$ 为每千克粪中盐酸不溶灰分的含量， $B _ { 1 }$ 为每千克饲粮中盐酸不溶灰分的含量。
+
+# 1.6.3 血清生化指标
+
+使用全自动血液生化分析仪（日立7020，日本)测定血清中葡萄糖(GLU）、尿素氮（UN）、甘油三酯（TG）含量以及碱性磷酸酶(AKP)、谷草转氨酶（AST）和谷丙转氨酶（ALT）的活性。
+
+# 1.6.4 肉品质
+
+参照 NY/T1333—2007《畜禽肉品质测定方法》[和严鸿林[7]试验中肉品质测定的方法进行检测。
+
+# 1.7 数据统计分析
+
+试验数据采用MicrosoftExcel2007进行整理，用SPSS19.0统计软件进行 $t$ 检验，以$P { < } 0 . 0 5$ 为差异显著性判断的标准。
+
+2结果
+
+2.1多营养源饲粮对生长育肥猪生长性能的影响
+
+由表2可知：与对照组相比，试验组生长育肥猪ADFI提高了 $7 . 7 6 \%$ ，但差异不显著（ $. P { > } 0 . 0 5 )$ )；2组ADG、F/G和消化能和净能的摄入量均无显著差异（ $( P { > } 0 . 0 5 )$ 。
+
+Table 2Effects of multi-nutrient source diet on growth performance of growing-finishing pigs   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td></tr><tr><td>初重 Initial weight/kg</td><td>41.06±1.22</td><td>41.08±1.21</td></tr><tr><td>末重 Final weight/kg</td><td>78.42±2.28</td><td>80.90±2.00</td></tr><tr><td>平均日采食量 ADFI/(kg/d)</td><td>2.45±0.11</td><td>2.64±0.09</td></tr><tr><td>平均日增重 ADG/(kg/d)</td><td>0.89±0.04</td><td>0.95±0.03</td></tr><tr><td>料重比F/G</td><td>2.76±0.05</td><td>2.78±0.06</td></tr><tr><td>消化能摄入量 DE intake/(MJ/d)</td><td>33.78±1.47</td><td>33.95±1.13</td></tr><tr><td>净能摄入量 NE intake/(MJ/d)</td><td>25.12±1.34</td><td>25.07±1.00</td></tr></table></body></html>
+
+同行数据肩标相同小写字母或无字母表示差异不显著（ $P { > } 0 . 0 5$ )，不同小写字母表示差异显著（ $P <$ 0.05)。下表同。
+
+In the same row, values with the same leter or no letter superscripts mean no significant diferent ( $. P { > } 0 . 0 5 \ '$ ）， while with different letter superscripts mean significant difference（ $\cdot < 0 . 0 5$ ）.The same as below.
+
+2.2多营养源饲粮对生长育肥猪养分表观消化率的影响
+
+由表3可知：与对照组相比，试验组钙、磷、能量、粗蛋白质、粗灰分、干物质的表观消化率显著降低（ $. P { < } 0 . 0 5 ^ { \cdot }$ )，2组粗脂肪的表观消化率差异不显著（ $. P { > } 0 . 0 5 )$ ）
+
+表2多营养源饲粮对生长育肥猪生长性能的影响  
+表3多营养源饲粮对生长育肥猪养分表观消化率的影响  
+Table 3Effects of multi-nutrient source diet on apparent nutrient digestibility of growing-finishing   
+
+<html><body><table><tr><td></td><td>pigs</td><td>%</td></tr><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td></tr><tr><td>钙Ca</td><td>62.76±2.50a</td><td>52.14±4.28b</td></tr><tr><td>磷P</td><td>60.67±1.89a</td><td>52.24±2.52b</td></tr><tr><td>能量Energy</td><td>87.96±0.72a</td><td>81.80±1.06b</td></tr></table></body></html>
+
+表4多营养源饲粮对生长育肥猪血清生化指标的影响  
+
+<html><body><table><tr><td>粗蛋白质 CP</td><td>84.23±1.10a</td><td>78.14±1.50b</td></tr><tr><td>粗脂肪 EE</td><td>38.54±3.27</td><td>38.12±2.10</td></tr><tr><td>粗灰分 Ash</td><td>60.51±1.88a</td><td>46.61±2.94b</td></tr><tr><td>干物质 DM</td><td>88.24±0.78a</td><td>82.17±1.00b</td></tr></table></body></html>
+
+2.3多营养源饲粮对生长育肥猪血清生化指标的影响
+
+由表4可知：对对照组相比，饲喂多营养源饲粮显著提高了生长育肥猪血清ALT的活性（ $_ { . P < 0 . 0 5 ) }$ ，但对其余血清生化指标无显著影响（ $P { > } 0 . 0 5 )$ 。
+
+Table 4Effects of multi-nutrient source diet on serum biochemical indices of growing-finishing pigs   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>3.31±0.28</td><td>2.74±0.28</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.28±0.03</td><td>0.30±0.01</td></tr><tr><td>尿素氮UN/(mmol/L)</td><td>3.41±0.22</td><td>3.13±0.23</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>41.30±2.72b</td><td>50.44±2.59a</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>52.60±4.83</td><td>54.57±4.67</td></tr><tr><td>碱性磷酸酶 AKP/(U/L)</td><td>124.23±7.74</td><td>109.70±6.33</td></tr></table></body></html>
+
+2.4多营养源饲粮对生长育肥猪肉品质的影响
+
+由表5可知：与对照组相比，饲喂多营养源饲粮对生长育肥猪肌肉品质以及背最长肌肌内脂肪和蛋白质含量无显著影响（ $\lceil P > 0 . 0 5 \rangle$ 。
+
+表5多营养源饲粮对生长育肥猪肉品质的影响  
+Table 5Effects of multi-nutrient source diet on meat quality of growing-finishing pigs   
+
+<html><body><table><tr><td>项目Items</td><td>对照组Control group</td><td>试验组Experimental group</td></tr><tr><td>pH45 min</td><td>5.73±0.31</td><td>5.93±0.34</td></tr><tr><td>pH24 h</td><td>5.42±0.05</td><td>5.45±0.07</td></tr><tr><td>45 min 亮度 L*45 min</td><td>41.65±0.48</td><td>41.93±1.08</td></tr><tr><td>45 min 红度 a*45 min</td><td>4.44±0.46</td><td>3.35±0.33</td></tr><tr><td>45 min 黄度 b*45 min</td><td>2.76±0.21</td><td>2.39±0.38</td></tr><tr><td>24 h亮度L*24h</td><td>47.51±2.37</td><td>47.55±1.05</td></tr></table></body></html>
+
+<html><body><table><tr><td></td></tr><tr><td>24 h 红度 a*24 h 5.46±0.65</td></tr><tr><td>24 h黄度b*24h 2.78±0.40 2.38±0.17</td></tr><tr><td>蒸煮损失 Cooking loss/% 37.30±1.16 36.16±0.68</td></tr><tr><td>滴水损失 Drip loss/% 2.50±0.26 2.59±0.10</td></tr><tr><td>蛋白质 Protein/% 79.80±1.35 78.65±0.82</td></tr><tr><td>脂肪Fat/% 3.09±0.44 2.97±0.37</td></tr></table></body></html>
+
+3讨论
+
+影响猪生长性能的主要因素为采食量和摄入营养物质的消化利用效率。影响猪采食量的因素有很多，其中饲粮的组成是最重要的因素之一。猪的味蕾很多，具有敏感的味觉，通过调节饲粮味道也可以影响猪的采食量[8]。菜籽粕中含有的异硫氰酸盐是产生苦味的主要物质，会严重影响适口性，研究发现在育肥猪饲粮中加入 $5 \%$ 的菜籽粕就会降低采食量。而本试验中，菜籽粕及其他杂粕的添加量均在 $1 . 5 \%$ 及以下，因此对猪的采食量未产生负面影响。饲粮能量也是影响采食量的重要因素，饲粮能量偏低，猪会通过提高采食量来获得足够的能量[9]。乔楠[1]研究表明在正常能量水平饲粮中分别加入 $10 \%$ 和 $20 \%$ 的麦麸稀释能量后，与正常组相比ADG 和ADFI均有提高。因此能量水平和营养来源的不同均对采食量有所影响。
+
+本试验结果显示，多营养源饲粮组（试验组）养分表观消化率普遍低于基础饲粮组（对照组)，其原因可能是因为多营养源饲粮组饲粮中含有较多影响消化的成分。欧秀琼[11研究表明，由于大麦中含较多的 $\beta$ -葡聚糖，可增加食糜黏性，使得食糜与消化酶接触不充分，导致大麦中营养物质消化率较低，需要通过外源酶制剂的添加来提高其消化率。饲粮纤维含量的增加，可以增加食糜的黏度，加速食糜在肠道中的流通速度，从而降低饲粮营养物质的消化率。Wilfart等[12]研究表明，在生长猪饲粮中分别添加0、 $20 \%$ 和 $40 \%$ 的小麦麸来增加饲粮纤维含量，随着纤维含量的增加，粪便中粗蛋白质、粗脂肪、纤维以及有机物的含量也逐渐提高。饲粮中的植酸是具有较强络合金属离子的能力，在胃肠道中形成不溶性植酸盐，从而降低矿物元素的利用率[3；植酸分子中的磷酸基团，可与蛋白质结合形成二元复合物，使蛋白质发生沉淀，从而降低蛋白质的利用率[14]。孙杰龙[15]研究表明，在含菜籽粕或棉籽粕的饲粮中，添加 $1 0 0 0 \mathrm { m g / k g }$ 的植酸酶，可以显著提高粗蛋白质、钙和磷的消化率，但对总能和干物质的消化率无显著影响。多营养源饲粮中杂粕的添加导致植酸磷的含量偏高，皮大麦和麸皮的添加增加了粗纤维的含量，以及大麦中葡聚糖和小麦醇溶蛋白等综合因素作用
+
+使得试验组饲粮养分表观消化率较对照组低。
+
+本试验在饲粮营养水平基本一致，但多营养源饲粮组养分表观消化率更低，且在采食量无显著差异的情况下保持了与对照组一致的生长性能，可能的原因是：虽然养分表观消化率降低了，但可能由于机体调节了内源排泄，从而提高了营养物质的真消化率。左建军[16]研究表明：在（大麦、高梁）-豆粕型饲粮中，饲粮磷表观消化率随总磷含量升高先快速增加后缓慢增加或保持稳定，而真消化率则不受饲粮总磷含量影响。这表明，猪可以通过内源排泄来适应不同营养物质水平的饲粮。饲粮粗蛋白质的消化也是引起生长性能改变的重要因素。研究表明：饲粮的能源物质为肠道提供持续足量的GLU的情况下，可以减少氨基酸的氧化功能，从而增加门静脉中氨基酸的含量，玉米淀粉与乳糖供能相比显著降低了门静脉总氨基酸的含量[7]。本试验可能会由于多营养源饲粮消化更慢，所以给猪提供的GLU 更慢更持久而使在肠道中氧化功能的氨基酸减少。在生长猪试验中，抗性淀粉组门静脉总氨基酸的吸收量也显著低于玉米、糙米和糯米组，但却显著提高了门静脉总挥发性脂肪酸的吸收量[18]。挥发性脂肪酸是肠道微生物发酵肠道中不能被消化酶消化的抗性淀粉和粗纤维等物质的主要代谢产物，主要为乙酸、丙酸和丁酸。丁酸可以为肠道细胞提供能量，促进肠道挥发性脂肪酸的吸收[19]；乙酸是合成胆固醇的重要底物，进入血液循环的乙酸在肝脏被氧化，为周边组织提供能量[20]；丙酸可以抑制机体内胆固醇和脂肪酸的合成[21]，因此可以通过改变饲粮组成来调节机体胆固醇的代谢。所以多营养源饲粮组也可能是由于增加了挥发性脂肪酸的供给，所以得以维持与对照组一致的生长性能。由此可见，饲粮不仅是为动物体真核细胞在提供营养，也需要为大量的原核生物提供生长的必需能量。饲粮配制不能一味地追求高消化率、优质的饲料原料，合理搭配杂粮满足机体和微生物的营养需要，才能获得最佳的饲料报酬。
+
+血清GLU、TG以及UN的含量可以在一定程度上反应三大营养物质的代谢情况。GLU是动物机体代谢供能最主要的营养素，晁金[22]研究发现，血糖浓度随着饲粮能量的增加而增加。血清UN 是哺乳动物体内蛋白质和氨基酸代谢的主要终产物，是没有在生物合成作用中被利用的物质，其含量的高低可以较为准确地体现动物机体蛋白质代谢情况以及氨基酸平衡情况，UN含量降低表示氨基酸平衡状态更好[23]。夏继桥[24]研究表明：添加 $1 7 \%$ DDGS组与豆粕组相比血清UN的含量无显著差异，加入酪蛋白则有显著的降低，这表明易消化蛋白质可以显著降低血清UN的含量。TG 是机体脂肪沉积的主要形式，主要来自于饲粮中摄入和肝脏脂肪的合成。血清中TG含量高可以在一定程度上反应肝脏脂肪的合成也更多。本试验结果显示各组之间TG含量差异不显著。在临床医学上，AST和ALT被认为是肝脏损伤标志性的指标，然而研究表明，在猪上它们没有器官特异性[25]，ALT和AST在猪上可以作为机体蛋白代谢的参考指标。石常友[26]研究表明，饲粮添加 $10 \%$ 的国产菜籽粕替代豆粕，可显著提高血清AST活性和UN含量，而使用发酵菜籽粕却无显著影响。这表明未发酵菜籽粕的降低了肝脏蛋白质的合成能力，而发酵后的菜籽粕蛋白质品质更高。大量研究表明AKP与ADG 呈显著正相关，AKP在机体代谢过程中可催化水解6-磷酸糖、磷酸单脂等物质，可以使得机体代谢加快，从而提高其生长性能[27]。杨伟平等[28]研究表明，不同品种的鸭子在7和10 周龄时，血清 AKP 活性与ADG 呈显著相关；朱年华等[29]在猪上的研究也得到了相似的结果，这与本研究结果基本一致。
+
+猪肉常规肉品质指标主要包括 $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ 、 $\mathrm { p H } _ { 2 4 \mathrm { h } }$ 、 $4 5 \mathrm { m i n }$ 和 $2 4 \mathrm { h }$ 肉色、肌肉滴水损失、蒸煮损失、剪切力等，营养调控是改善肉品质的主要手段。戎婧[30使用花生藤粉替代不同比例的麦麸而增加饲粮纤维含量，结果表明：随着饲粮纤维含量的增加，淮猪肌肉滴水损失呈先增加后降低的趋势，并在花生藤粉和麦麸比例在 $1 : 1$ 左右时达到最高，并显著高于只加麦麸的对照组，肌肉蛋白质的含量则随着纤维含量的提高而提高，这可能是因为淮猪对于饲粮纤维的代谢情况与DLY猪不同。陈代文等[31研究表明，低代谢能（ $1 2 \ \mathrm { M J / k g }$ ）组与高代谢能（ $1 4 \mathrm { M J / k g } ^ { \cdot }$ ）组相比，在80 和 $1 0 0 \mathrm { k g }$ 阶段显著降低了瘦肉率和肌内脂肪含量。本试验中能量较低的试验组肌内脂肪含量没有显著提高，可能是因为2个组之间饲粮能量差异只有0.88 MJ/kg，且净能的摄入量无显著差异，没有能达到足以提高肌内脂肪含量的量。
+
+# 4结论
+
+在本试验条件下，多营养源饲粮显著降低了生长猪的营养物质表观消化率，但对其生长性能及肉品质均无显著影响。
+
+参考文献：
+
+[1]陈代文,郑萍,余冰,等.猪营养与营养源[J].动物营养学报,2012,24(5):791-795.
+
+[2]陈代文.营养源与营养结构——饲粮配制的系统理念[C]//中国林牧渔业经济学会饲料经济专业委员会第十届学术交流大会论文集.上海:中国林牧渔业经济学会,中国饲料工业协会,2013.
+
+[3] APPLE J K,BOGER C B,BROWN D C,et al.Effect of feather meal on live animal performance and carcass quality and composition of growing-finishing swine[J].Journal of Animal Science,2003,81(1):172-181.
+
+[4]黄伟杰,温玉梅,卢文钦,等.添加高梁和谷物干酒精糟对生长猪生长性能的影响[J].养 猪,2015(2):17-18.
+
+[5]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007.
+
+[6]中华人民共和国农业部.NY/T 1333—2007 畜禽肉质的检测方法[S].北京:中国标准出版社,2007.
+
+[7]严鸿林.高脂日粮对IUGR猪生长育肥效率与肉质的影响[D].硕士学位论文.雅安:四川农业大学,2013.
+
+[8] LV JR,KIMI H,ZHANG K Y,et al.The Effects of different types of feed flavors on feed intake and feeding behaviorsin growing pigs[J].Journal of Animal and Veterinary Advances,2012,17(11):3179-3186.
+
+[9] BEAULIEU A D,LEVESQUE C L,PATIENCE J F.The effects of dietary energy concentration andweaningsite onweanlingpigperformance[J].Journal of Animal Science,2006,84(5):1159-1168.
+
+[10]乔楠.木聚糖酶提高生长育肥猪低能日粮养分消化率和有效能的效果研究[D].硕士学位论文.武汉:华中农业大学,2006
+
+[11]欧秀琼.提高大麦作猪基础饲料的饲用价值研究[D].硕士学位论文.雅安:四川农业大学,2004.
+
+[12]WILFART A,MONTAGNE L,SIMMINS P H,et al.Sites of nutrient digestion in growing pigs:effect of dietary fiber[J].Journal of Animal Science,2OO7,85(4):976-983.
+
+[13]ERDMAN J W.Oilseed phytates:nutritional implications[J].Journal of the American Oil Chemists' Society,1979,56(8):736-741.
+
+[14]GRAF E.Applicationsofphytic acid[J].Journal of the American Oil Chemists Society,1983,60(11):1861-1867.
+
+[15]孙杰龙.不同日粮中添加植酸酶对生长猪生产性能及养分利用的影响[D].硕士学位论文.长沙：湖南农业大学,2009
+
+[16]左建军.非常规植物饲料钙和磷真消化率及预测模型研究[D].博士学位论文.广州:华南
+
+农业大学，2005
+
+[17]刘飞飞.日粮能源结构对仔猪氮素利用的影响及机制研究[D].博士学位论文.长春:吉林农业大学,2015.
+
+[18]戴求仲.日粮淀粉来源对生长猪氨基酸消化率、门静脉净吸收量和组成模式的影响[D].博士学位论文.雅安:四川农业大学,2005.  
+[19]PRYDE S E,DUNCAN S H,HOLD G L,et al.The microbiology of butyrate formation in thehuman colon[J].FEMS Microbiology Letters,2002,217(2):133-139.  
+[20]刘松珍,张雁,张名位,等.肠道短链脂肪酸产生机制及生理功能的研究进展[J].广东农业科学,2013,40(11):99-103.  
+[21]屠友金,胡彩虹.低聚果糖和丙酸钠对肥育猪胆固醇代谢的影响[J].中国粮油学报,2005,20(1):65-68.  
+[22]晁金.日粮能量浓度对肥育猪脂肪组织中脂肪沉积相关指标的影响[D].硕士学位论文.武汉:武汉工业学院,2009.  
+[23] BROWN J A, CLINE T R.Urea Excretion in the pig:an indicator of protein quality andamino acid requirements[J].The Journal of Nutrition,1974,104(5):542-545.  
+[24]夏继桥.不同蛋白源对断奶仔猪粗蛋白消化吸收的影响研究[D].硕士学位论文.长春:吉林农业大学,2014.  
+[25]卢宗藩.家畜及实验动物生理生化参数[M].北京:农业出版社,1983:356.  
+[26]石常友.黑曲霉固态发酵菜粕的理化特性及对猪的营养价值研究[D].博士学位论文.雅安:四川农业大学,2015.  
+[27]王林,陈光伟,吴信生,等.肉兔血浆AKP、GPT活性与生产性能关系的研究[J].畜禽业,2003(8):12-13.  
+[28]杨伟平,鄢珣,藏大存.不同品种鸭血清碱性磷酸酶活力与生长性能的关系研究[J].安徽农业科学,2010,38(16):8453-8454.  
+[29]朱年华,肖永祚.生长猪血液生化指标与生产性能及肉质的关系[J].江西畜牧兽医杂志,1997(1):13-17.  
+[30]戎婧.日粮纤维水平对育肥淮猪生产性能和肉品质的影响[D].硕士学位论文.扬州:扬州大学,2012.[31]陈代文,张克英,胡祖禹,等.营养水平及性别对生长育肥猪肉质性状发育规律的影响[J].  
+四川农业大学学报,2002,20(1):7-11.
+
+Effects of Multi-Nutrient Source Diet on Growth Performance, Apparent Nutrient Digestibility and Meat Quality of Growing-Finishing Pigs
+
+XU Yalan CHENDaiwen YU Bing YU Jie LUO Junqiu HUANG Zhiqing ZHENG PingMAO Xiangbing LUO YuhengHUANG Chunbo HE Jun\*   
+(Key Laboratory for Animal Disease-Resistance Nutrition of Ministry of Education, Institute of Animal Nutrition, Sichuan Agricultural University, Chengdu 611130,China)
+
+Abstract: The experiment was conducted to investigate the effects of multi-nutrient source diet on growth performance, apparent nutrient digestibility and meat quality of growing-finishing pig, exploring the possbility of using unconventional raw materials to make feed. A total of 48 healthy DurocxLandraceXYorkshire growing pigs with an initial average body weight of $( 4 1 . 0 6 { \pm } 1 . 4 3 ) \mathrm { k } _ { \xi }$ 50 were randomly allocated to 2 groups with 12 replicates each and 2 pigs in each replicate. Pigs in the control group were fed a corn-soybean basal diet, and in the experimental group were fed a multi-nutrient source diet. The growing stage was last for 42 days,and five pigs were chosen in each group to slaughter for measuring meat quality when the body weight reached about $1 2 0 ~ \mathrm { k g }$ during finishing stage. The result showed as follows: 1） compared with the control group, the average daily feed intake of pigs in the experimental group was decreased by $7 . 7 6 \%$ $( P { > } 0 . 0 5 )$ ,and there were no significant diferences on average daily gain,the ratio of feed to gain and energy intake between two groups $( P { > } 0 . 0 5 )$ ；2） compared with the control group,apparent nutrient digestibility of calcium, phosphorus, energy, crude protein,ash and dry mater in the experimental group was significantly decreased $( P { < } 0 . 0 5 )$ , but there was no significant difference in ether extract apparent nutrient digestibility $( P { > } 0 . 0 5 )$ ; 3）compared with the control group, the serum alanine transaminase activity was significantly increased by the multi-nutrient source diet $( P { < } 0 . 0 5 )$ ,but the other serum biochemical indices were not significantly affected $( P { > } 0 . 0 5 )$ ; 4) compared with the control group,the multi-nutrient source diet had no significant effects on the meat quality and contents of fat and protein in longissimus doris of pigs $( P { > } 0 . 0 5 )$ . In summary, under the condition of this test, feeding the multi-nutrient source diet prepared by unconventional raw materials decreases the apparent nutrient digestibility,but has no side effects on the growth performance and meat quality of growing-finishing pigs.
+
+Key words: nutrient source; growth performance; apparent nutrient digestibility; meat quality

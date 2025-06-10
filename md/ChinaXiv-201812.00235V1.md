@@ -1,0 +1,143 @@
+1
+
+2 田娟1,2 郜卫华1\*文 华2
+
+3 (1.长江大学动物科学学院水产系，荆州 434020；2.中国水产科学研究院长江水产研究  
+4 所，农业部淡水生物多样性保护重点实验室，武汉430223)
+
+摘要：肠道健康水平决定着动物的健康状况，肠道健康是保障动物快速生长的关键因素之一，一些外源性饲料添加剂可以改善动物的肠道健康。本文总结了国内外在畜禽和水产动物上已报道的可改善动物肠道健康的添加剂，包括功能性氨基酸、锌、脂肪酸、益生菌、多糖等，综述了其对动物肠道结构和功能的影响，并阐述了部分作用机制，以期为改善水产动物肠道健康提供参考。
+
+关键词：肠道健康；饲料添加剂；水产动物中图分类号：S963.7 文献标识码：A 文章编号：
+
+肠道是动物营养物质消化吸收的主要场所，其结构分为4层，即黏膜层、黏膜下层、肌层和浆膜层。肠道黏膜层处于最外面，其直接与营养物质和肠道微生物接触，因此肠黏膜屏障系统具有阻碍肠腔内毒素和细菌入侵的功能。对机体来说，正常的肠黏膜形态结构和功能是十分重要的。但诸多因素都会导致肠黏膜损伤，如营养不良、各种肠炎、肠外营养、内毒素感染等[1]。肠道正常功能一旦受到损害，例如正常肠黏膜形态完整性被破环、肠道屏障功能发生紊乱、肠道免疫系统失调等，会造成机体众多疾病的发生，如食欲下降、摄食量低、发育缓慢，以及对营养物质的消化吸收能力下降等[2]。在水产动物上，饲料成分、养殖水域环境、肠道菌群等均可影响肠道健康[1]。如当饲料中使用豆粕量较高时，豆粕所含有的抗营养因子可引起鱼类肠道氧化损伤和结构破坏，进而诱发肠炎[3]。鱼类肠炎的典型症状表现为：1）黏膜皱襞厚度变薄，吸收细胞出现核空泡或消失；2）黏膜皱襞固有层变厚，固有层和黏膜上皮被大量炎性细胞（吞噬细胞或嗜曙红粒细胞）浸润；3）黏膜上皮细胞中杯状细胞增加[3]。因此，通过外在的营养措施干预来改善水产动物肠道功能，对水产动物的健康显得尤为必要。因此，本文将重点综述饲料添加剂对水产动物肠道健康的影响，以期为改善水产动物肠道健康提供参考。
+
+# 1 功能性氨基酸
+
+功能性氨基酸是指除了合成机体蛋白质外还具有其他特殊功能的氨基酸，其不仅是动物正常生长和维持机体功能所必需的，也是合成多种生物活性物质的必需物质，其在营养学上可能是非必需氨基酸，也可能是必需氨基酸，包括谷氨酰胺、精氨酸、支链氨基酸、色氨酸、脯氨酸、甘氨酸、组氨酸、天冬氨酸、天冬酰胺和含硫氨基酸等[4。资料表明：精氨酸、谷氨酰胺、苏氨酸、色氨酸、赖氨酸等氨基酸都能促进肠道发育，有利于肠道黏膜损伤后的修复等。
+
+# 1.1 谷氨酰胺
+
+谷氨酰胺是脂肪族中性氨基酸，在动物体内含量最为丰富。谷氨酰胺是快速增殖性细胞（如上皮细胞、淋巴细胞、肿瘤细胞和成纤维细胞等）的关键性能量底物，也是合成蛋白质、核苷酸和氨基糖的重要前体[5]。谷氨酰胺是小肠黏膜的主要能源物质，且是小肠中重要的代谢物质，其含量大大超过了葡萄糖和脂肪酸，是合成多胺、谷胱甘肽等维持黏膜结构和功能的重要前体[5]。大量研究表明，谷氨酰胺能被小肠黏膜分解利用，是小肠黏膜维持结构完整性和功能必不可少的营养物质[6-7]。在病理状态下，无论经口或经静脉补充谷氨酰胺后，均可以促进病变（多器官系统功能衰竭、内毒素血症、皮肤烧伤、断奶和癌症）所致肠道损伤的改善和恢复[7-8]。在对啮齿动物和猪等的研究中，谷氨酰胺的效果比较一致，如添加 $12 \%$ 谷氨酰胺能改善断奶仔猪的生长性能和肠道功能[9]；在大鼠模型中，对穿刺式脑外伤的大鼠饲粮中添加 $3 \%$ 谷氨酰胺可以减少肠损伤[10]。  
+由于谷氨酰胺在水溶液中易被分解，对高压消毒不耐受，故医学临床或者实际生产中直接利用单体谷氨酰胺的并不多。近年来，因人工合成含谷氨酰胺的小肽如丙氨酸-谷氨酰胺（aanine-glutamin，Ala-Gln）或甘氨酸-谷氨酰胺（glycine-glutamin，Gly-Gln）的水稳定性好、能耐受高压消毒，并且进入机体后能很快分解释放出谷氨酰胺，而被应用于各个领域。在断奶仔猪上发现，当其饲料原料均为植物原料时，向其饲喂含 $1 . 0 1 \ \mathrm { g / k g }$ BW丙氨酸-谷氨酰胺的饲粮14 d后发现断奶仔猪的免疫功能、肠道结构和生长均较对照组明显改善[1]；通过饮水的方式，给由营养不良导致发生肠炎的小鼠喂饮用含111mmol/L丙氨酸-谷氨酰胺的水21d,结果小鼠的肠道功能得到明显改善[12]；同样的结果在小鼠肠上皮细胞[13]、猪肠上皮细胞[14]等研究对象上也被证实。这些研究均发现含谷氨酰胺的二肽对肠道功能的改善有良好效果。谷氨酰胺是第1个被发现能激活肠道细胞相关信号通路里关键激酶的氨基酸。谷氨酰胺通过各种转运载体进入细胞内，其主要是通过钠依赖型氨基酸转运载体即氨基酸转运蛋白$\mathrm { B } ^ { 0 , + }$ (amino acid/carnitine transporters $\mathbf { B } ^ { 0 , + }$ ， $\mathrm { \ A T B ^ { 0 , + } }$ ）/中性氨基酸转运载体[neutral amino acid
+
+transporter B(O)-like，ASCT2]进入细胞内，并可通过调节转运载体的水平来维持谷氨酰胺以较高的水平进入小肠上皮吸收细胞[15]。关于谷氨酰胺在营养性疾病（如慢性腹泻、短肠综合征、肠炎、多器官系统功能衰竭等）中的作用已被广泛研究，其对腹泻或肠炎有效的作用机制主要有：1）谷氨酰胺转运与钠相偶联；2)谷氨酰胺对钠吸收作用是葡萄糖对钠吸收作用的补充[7]。并且，谷氨酰胺通过钠依赖型氨基酸转运载体ASCT2或ATB+进入细胞内，ASCT2是高亲和力转运谷氨酰胺的中性氨基酸转运载体，对谷氨酰胺进入细胞内起重要作用，并可通过调节转运载体的水平来维持谷氨酰胺以较高的水平进入小肠上皮吸收细胞，且ASCT2为逆向转运载体[15]。另有研究认为谷氨酰胺是介导猪肠道细胞增殖促分裂素原活化蛋白激酶（mitogen-activated protein kinases，MAPKs）信号通路的重要作用因子，也是提高肠道和其他重要器官中细胞存活率的信号，并可抑制肠道细胞的凋亡，从而起到抗炎作用[7]。关于谷氨酰胺对水生动物肠道健康影响的研究目前也有报道。Pohlenz等[16]在饲料中补充谷氨酰胺饲喂斑点叉尾10周，发现谷氨酰胺不影响斑点叉尾的生长和血浆氨基酸含量，且饲料中添加 $2 \%$ 的谷氨酰胺能改善肠道结构和肠道细胞的迁移。在建鲤饲料中添加$1 . 2 \%$ 的谷氨酰胺可提高生长性能、饲料利用率、肠道重量、绒毛长度和消化酶活力[17]。在对细胞的研究上，在建鲤肠道细胞培养液中添加4mmol/L 谷氨酰胺可以提高其抗氧化能力[18]。含谷氨酰胺的二肽在鱼类上的应用也有报道。在建鲤饲料中添加 $0 . 3 6 \%$ 的丙氨酸-谷氨酰胺，其生长、饲料利用率和肌肉蛋白质含量均显著提高[19。在对哲罗鱼仔鱼的研究中发现，饲料中添加 $0 . 7 5 \%$ 的丙氨酸-谷氨酰胺能提高其生长性能和抗氧化能力[20]。
+
+# 1.2精氨酸
+
+除作为体内蛋白质合成的必需前体外，精氨酸及其代谢产物鸟氨酸、瓜氨酸和一氧化氮等在免疫调节及维持和保护肠道黏膜结构和功能等方面起着重要的作用[21]。在人类和其他陆生动物的研究中发现，精氨酸作为组织修复的一种必需营养素和免疫营养素，一直被认为是肠道修复所必需的多胺的主要氨基酸前体[7。如给大鼠口服 $2 \%$ 精氨酸溶液能改善缺血所导致的肠黏膜损伤[22]；在饲粮中添加 $0 . 7 \%$ 的精氨酸能改善断奶仔猪的肠道微绒毛发育[23];在饲粮中添加 $0 . 6 \%$ 的精氨酸能改善仔猪的生长性能、健康状况和肠道功能[24]。这可能是因为精氨酸能促进肠道黏膜细胞增殖和生长，进而增强肠道机械屏障功能，从而减小疾病对肠道的损害，维持体内环境的稳定性，保证肠黏膜的完整性。同时，在研究中发现，精氨酸是一把“双刃剑”，当精氨酸的剂量为 $4 \mathrm { m m o l / L }$ ，即"肠腔生理水平"时，对细胞迁移有益，而剂量 ${ > } 1 0 \ \mathrm { m m o l / L }$ 对细胞迁移有害[25]。在鱼类上，精氨酸是鱼类的必需氨基酸。目前关于精氨酸对水产动物肠道功能影响的报道还较少。在眼斑拟石首鱼饲料中添加 $1 \%$ 的精氨酸和 $1 \%$
+
+谷氨酰胺可以改善其肠道功能[26]；在建鲤饲料中添加 $1 . 8 5 \%$ 的精氨酸可以减少脂多糖对鲤鱼肠道的损伤[27]。  
+关于精氨酸在肠道修复中的作用机制，普遍认为精氨酸是通过促进活性氧簇的产生和增强肠黏膜的硝基酪氨酰化作用来实现的，并是肠细胞迁移和上皮恢复的有力刺激物。同时，精氨酸可增强细胞迁移率，并活化雷帕霉素靶蛋白（mammal targetofrapamycin，mTOR）的下游核糖体S6酶1（ribosomal protein S6 kinase，S6K1）[7]。
+
+# 1.3 其他氨基酸
+
+苏氨酸是血浆γ-球蛋白和肠道黏蛋白主要成分之一，婴儿摄入的苏氨酸中约有 $70 \%$ 被肠道组织代谢[28]。当饲粮中苏氨酸缺乏时，仔猪肠道组织中的肥大细胞、杯状细胞数目下降，同时肠道黏蛋白的含量亦显著下降，并且通过静脉补充苏氨酸后，这种抑制行为并不能完全被修复[29]。限制饲粮中的苏氨酸后，大鼠小肠各段黏蛋白的合成能力显著降低[30]。研究发现，在仔猪饲粮中添加 $0 . 8 9 \%$ 的苏氨酸可以提高肠道功能[31]。在仔猪发生炎症反应时，苏氨酸缺乏将导致肠道屏障功能减弱，而增加小肠苏氨酸的供应能促进黏蛋白的合成和肠道黏膜功能的恢复[32]。
+
+亮氨酸被认为是一种功能性氨基酸，对肠道功能有重要作用，如婴儿所摄入的亮氨酸有$4 2 \% \sim 4 8 \%$ 被肠道组织利用[33]，而成人仅有 $2 0 \% \sim 3 0 \% ^ { [ 2 8 ] }$ 。赖氨酸同样在肠道中被用来合成肠道黏膜蛋白质，也可通过分解代谢为肠道提供能量。研究发现，仔猪饲粮中的赖氨酸有 $3 5 \%$ 被肠道截留，其中仅 $1 8 \%$ 用于合成肠道黏膜蛋白质[34]。
+
+在鱼类上的研究发现，适宜水平的色氨酸改善了生长中期草鱼前、中、后肠免疫状态，提高了草鱼肠道的抗氧化能力，保证了肠道屏障结构的完整[35]。微囊苏氨酸能有效改善幼建鲤的肠道健康，从而提高其对营养物质的消化吸收能力[36]。
+
+# 2 其他物质
+
+2.1锌
+
+锌是影响肠道细胞分裂和再生、调控肠道氨基酸和蛋白质代谢的重要影响因素之一[37-38]。在断奶仔猪饲粮中添加 $3 ~ 0 0 0 ~ \mathrm { { m g / k g } }$ 锌会促进肠道发育[37],降低空肠干细胞因子mRNA和蛋白质表达水平[38]，进而预防肠炎。饲粮中添加氧化锌能提高断奶仔猪的抗氧化应激能力，抑制肠道细胞凋亡，从而预防新生仔猪发生肠炎[39]。在幼建鲤饲料中添加适量的锌可促进肠道发育，提高肠道消化酶和肠刷状缘酶的活力，进而提高幼建鲤对营养物质的消化吸收能力，从而提高生产性能[40]。
+
+# 2.2脂肪酸
+
+现已证实多不饱和脂肪酸（polyunsaturated fatty acids，PUFAs）有利于肠炎的防治。在患结肠炎的幼鼠饮食中添加C18:3n-3能减轻炎症反应[41]，n-3PUFAs也能降低小鼠坏死性结肠炎的发生概率[42]。在人结肠腺癌细胞培养液中加入二十碳五烯酸（eicosapentaenoic acid,EPA)，可影响肠道单层细胞的紧密连接和渗透性[43]。这说明n-3PUFAs能预防肠炎可能与其提高肠道屏障功能有关[44]。在猪肠黏膜原代培养液中加入游离脂肪酸，能促进肠道刷状缘脂筏微结构域的发育[45]。在仔猪饲粮中加入 $0 . 3 \%$ 混合中链脂肪酸能影响胃微生物种群和肠道细菌代谢物产量[46]，这可能与中链脂肪酸具有提高免疫力和抗菌功能有关。在降低鱼粉含量的情况下，饲料中添加 $0 . 0 2 \%$ 的植物精油能够改善凡纳滨对虾的生长性能及肠道健康[47]。
+
+# 2.3 益生菌
+
+益生菌在肠道内与各种细胞成分相互作用，能以多种方式影响肠内细胞的功能。一些研究表明，主要的细胞信号调节通路和细胞因子，如核转录因子、MAPKs、热休克蛋白、过氧化物酶体增殖物活化受体，均为益生菌或其产物作用的对象，这些细胞通路和细胞因子均可被益生菌通过不同的方式进行修改、调节[48]。目前益生菌已被广泛应用于水产养殖行业，已证实其能通过提高肠道消化酶活力、维持肠道细菌平衡、增强免疫能力来促进水产动物的生长[49- 50]。
+
+# 2.4糖类
+
+能改善动物肠道功能的糖类包括低聚糖和多糖。研究发现，给患癌小鼠腹腔注射肽聚糖可显著抑制结肠癌细胞的生长[51]。研究表明，植物寡糖可调节畜禽肠道微生物区系，抑制肠道有害微生物的增殖，促进双歧杆菌和乳酸杆菌的增殖[52]。低聚糖对畜禽肠道菌群的调节主要是通过增殖有益菌如双歧杆菌，抑制有害菌如大肠杆菌，并阻止病原菌的定植从而促进病原菌的排出来实现的[53]，而多糖主要是通过提高畜禽的肠道免疫功能来实现对病原菌入侵的抵抗作用，多糖可以通过维持肠黏膜微循环正常功能，以及促进肠黏膜相关免疫细胞的增殖，来提高肠道黏膜抗氧化能力，从而实现调节细胞因子和炎症介质的分泌和表达等[54]。在罗非鱼上的研究发现，饲料中添加黄芪多糖可提高罗非鱼绒毛长度，增加肠道黏液细胞和上皮内淋巴细胞的数量[55]。
+
+# 3小结
+
+综上所述，肠道健康是保障水产动物快速生长的关键因素之一。一些添加剂可促进水产动物肠道发育，维持肠道的正常结构和功能，并提高营养物质转运吸收能力。因此，在饲料中添加一些可改善肠道健康的添加剂，可提高水产动物对一些比较低廉的饲料源的利用率，
+
+但其提高水产动物消化吸收能力的作用机制尚待进一步研究。   
+参考文献:   
+[1]周小秋.营养物质与鱼肠道健康的关系[C]//动物营养研究进展(2012年版).北京:中国畜牧 兽医学会动物营养学分会,2012:246-260.   
+[2] 余冰,张克英,郑萍,等.猪营养与肠道健康[J].中国畜牧杂志,2010,46(15):73-76.   
+[3]谷珉.影响海水鱼虾对植物蛋白利用的抗营养因子和蛋氨酸的研究[D].博士学位论文.青 岛:中国海洋大学,2013:14.   
+[4] WU G Y.Functional amino acids ingrowth,reproduction,and health[J].Advances in Nutrition:An International Review Journal,2010,1(1):31-37.   
+[5] CURI R,LAGRANHA C J,DOI SQ.et al.Molecular mechanismsof glutamine action[J].Journal of Celllar Physiology,2005,204(2):392-401.   
+[6] XI P B,JIANG Z Y,ZHENG C T,et al.Regulation of protein metabolismby glutamine:implications for nutrition and health[J].Frontiers in Bioscience,2011,16(2):578-597.   
+[7] MARC R J,WU G Y.Glutamine,arginine,and leucine signaling in the intestine[J].Amino Acids,2009,37(1):111-122.   
+[8] DAI Z L,LI X L,XI P B,et al.L-Glutamine regulates amino acid utilization by intestinal bacteria[J].Amino Acids,2013,45(3):501-512.   
+[9] YI G F,CARROLL J A,ALLEE G L,et al.Effect of glutamine and spray-dried plasma on growth performance,small intestinal morphology,and immune responses of Escherichia coli $\mathrm { K } 8 8 ^ { + }$ -challenged weaned pigs[J].Journal of Animal Science,2005,83(3):634-643.   
+[10] CHEN G,SHI J,QI M,et al.Glutamine decreases intestinal nuclear factor kappa B activity and pro-inflammatory cytokine expression after traumatic brain injury in rats[J].Inflammation Research,2008,57(2):57-64.   
+[11] ZHOU Y X,ZHANG P S,DENG G C,et al.Improvements of immune status,intestinal integrity andgain performance in the early-weaned calves parenterally supplemented with L-alanyl-L-glutamine dipeptide[J].Veterinary Immunology and Immunopathology,2012,145(1/2):134-142.   
+[12] UENO P M,ORIA R B,MAIER E A,et al.Alanyl-glutamine promotes intestinal epithelial cell homeostasis in vitro and in a murine model of weanling undernutrition[J].American Journal of
+
+Physiology Gastrointestinal and Liver Physiology,2011,301(4):G612-G622.
+
+[13] HAYNES T E,LI P,LI X L,et al.L-Glutamine or L-alanyl-L-glutamine prevents oxidant- or endotoxin-induced death of neonatal enterocytes[J].Amino Acids,2009,37(1):131-142.   
+[14] BRAGA-NETO M B,OLIVEIRA B M C,RODRIGUES R S,et al.Protective effects of alanyl-glutamine supplementation against nelfinavir-induced epithelial impairment in IEC-6 cells and in mouse intestinal mucosa[J].Cancer Biology & Therapy,2012,13(14):1482-1490.   
+[15] AVISSAR N E,ZIEGLER TR,TOIA L,et al.ATB/ASCT2 expression in residual rabbit bowel isdecreased after massive enterectomyand isrestored bygrowth hormone treatment[J].Journal of Nutrition,2004,134(9):2173-2177.   
+[16] POHLENZ C,BUENTELLO A,BAKKE A M,et al.Free dietary glutamine improves intestinal morphology and increases enterocyte migration rates,but has limited effects on plasma amino acidprofileandgrowthperformanceofchannelcatfish Ictalurus punctatus[J].Aquaculture,2012,370/371:32-39.   
+[17] YAN L,ZHOU X Q.Dietary glutamine supplementation improves structure and function of intestine of juvenile Jian carp (Cyprinus carpio var.Jian)[J].Aquaculture,2006,256(1/2/3/4):389-394.   
+[18] CHEN J,ZHOU X Q,FENG L,et al.Effects of glutamine on hydrogen peroxide-induced oxidative damage in intestinal epithelial cellsof Jian carp (Cyprinuscarpio var.Jian)[J].Aquaculture,2009,288(3/4):285-289.   
+[19] 徐贺,郑伟,陈秀梅,等.丙氨酰-谷氨酰胺和γ-氨基丁酸对建鲤生长、饲料利用及体成分的 影响[J].华南农业大学学报,2016,37(2):7-13.   
+[20] 徐奇友,王常安,许红,等.丙氨酰-谷氨酰胺对哲罗鱼仔鱼生长和抗氧化能力的影响[J].动 物营养学报,2009,21(6):1012-1017.   
+[21] WU G Y,BAZER F W,DAVIS T A,et al.Important roles for the arginine family of amino acids in swine nutrition and production[J].Livestock Science,2008,112(1/2):8-22.   
+[22] SUKHOTNIK I,HELOU H,MOGILNER J,et al.Oral arginine improves intestinal recovery following ischemia-reperfusion injury in rat[J].Pediatric Surgery International,2005,21(3):191-196.   
+[23] ZHAN Z F,OU D Y,PIAO X S,et al.Dietary arginine supplementation afects microvascular development inthesmallintestineofearly-weanedpigs[J].Journal of   
+[24] WU X,RUAN Z,GAO Y L,et al.Dietary supplementation with $L$ -arginineor N-carbamylglutamate enhances intestinal growth and heat shock protein-7O expression in weanling pigs fed a corn- and soybean meal-based diet[J].Amino Acids,2010,39(3):831-839.   
+[25] RHOADS J M,CHEN W,GOOKIN J,et al.Arginine stimulates intestinal cell migration through a focal adhesion kinase dependent mechanism[J].Gut,2004,53(4):514-522.   
+[26] CHENG Z Y,BUENTELLO A,GATLIN D M.Efcts of dietary arginine and glutamine on growth performance,immune responses and intestinal structure of red drum,Sciaenops ocellatus[J].Aquaculture,2011,319(1/2):247-252.   
+[27] JIANG J,SHI D,ZHOU X Q,et al.In vitro and in vivo protective effect of arginine against lipopolysaccharide induced inflammatory response in the intestine of juvenile Jian carp (Cyprinus carpio var.Jian)[J].Fish & Shellfish Immunology,2015,42(2):457-464.   
+[28] HOERR R A,MATTHEWS D E,BIER D M,et al.Effects of protein restriction and acute refeeding on leucine and lysine kinetics in young men[J].American Journal of Physiology,1993,264(4 Pt 1):E567-E575.   
+[29] BERTOLO R F,CHEN C Z,LAW G,et al.Threonine requirement of neonatal piglets receiving total parenteral nutrition is considerably lower than that of piglets receiving an identical diet intragastrically[J].The Journal of Nutrition,1998,128(10):1752-1759.   
+[30] FAURE M,MOENNOZ D F,MONTIGON F,et al.Dietary threonine restriction specifically reduces intestinal Mucin synthesis in rats[J].The Journal of Nutrition,2005,135(3):486-491.   
+[31] WANG W W,ZENG X F,MAO X B,et al.Optimal dietary true ileal digestible threonine for supporting the mucosal barrier in small intestine of weanling pigs[J].Journal of Nutrition,2010,140(5):981-986.   
+[32] WANG X,QIAO S Y,YIN Y L,et al.A deficiency or excess of dietary threonine reduces protein synthesisin jejunum and skeletal muscle of youngpigs[J].Journal of Nutrition,2007,137(6):1442-1446.   
+[33] RIEDIJK M A,VAN GOUDOEVER J B.Splanchnic metabolism of ingested amino acids in neonates[J].Current Opinion in Clinical Nutrition and Metabolic Care,2007,10(1):58-62.   
+[34] STOLL B,HENRY J,REEDS P J,et al.Catabolism dominates the first-pass intestinal metabolism of dietary essential amino acids in milk protein-fed piglets[J].Journal of
+
+Nutriti0n,1998,128(3):606-614.
+
+[35] WEN H L,FENG L,JIANG W D,et al.Dietary tryptophan modulates intestinal immune response,barrier function,antioxidant status and gene expression of TOR and Nrf2 in young grass carp (Ctenopharyngodon idella)[J].Fish & Shellfish Immunology,2014,40(1):275-287.
+
+[36]冯琳,彭艳,刘扬,等.晶体苏氨酸和微囊苏氨酸对幼建鲤生长性能和消化吸收能力影响的比较研究[J].动物营养学报,2011,23(5):771-780.
+
+[37] LI X L,YIN J D,LI D F,et al.Dietary supplementation with zinc oxide increases IGF-I anD IGF-I receptor gene expression in the small intestine of weanling piglets[J].The Journal of Nutriti0n,2006,136(7):1786-1791.
+
+[38] OU D Y,LI D F,CAO Y H,et al.Dietary supplementation with zinc oxide decreases expression of the stem cell factor in the small intestine of weanling pigs[J].Journal of Nutritional Biochemistry,2007,18(12):820-826.
+
+[39] WANG X Q,OU D Y,YIN J D,et al.Proteomic analysis reveals altered expression of proteins related to glutathione metabolism and apoptosis in the small intestine of zinc oxide-supplemented piglets[J].Amino Acids,2009,37(1):209-218.
+
+[40] 谭丽娜.锌对幼建鲤消化吸收能力、免疫能力和抗氧化功能的影响[D].硕士学位论文.成都:四川农业大学,2009.
+
+[41] JACOBSON K,MUNDRA H,INNIS S M.Intestinal responsiveness to experimental colitis in young rats is altered by maternal diet[J].American Journal of Physiology Gastrointestinal & Liver Physiology,2005,289(1):G13-G20.
+
+[42] CAPLAN M S,JILLING T.The role of polyunsaturated fatty acid supplementation in intestinal inflammation and neonatal necrotizing enterocolitis[J].Lipids,2001,36(9):1053-1057.
+
+[43] USAMI M,MURAKI K,IWAMOTO M,et al.Effect of eicosapentaenoic acid (EPA) on tight junction permeability in intestinal monolayer cells[J].Clinical Nutrition,2001,20(4):351-359.
+
+[44] DE QUELEN F,CHEVALIER J,ROLLI-DERKINDEREN M,et al.n-3 polyunsaturated fatty acids in the maternal diet modify the postnatal development of nervous regulation of intestinal permeability in piglets[J].Journal of Physiology,2011,589(17):4341-4352.
+
+[45] HANSEN G H,RASMUSSEN K,NIELS-CHRISTIANSEN L L,et al.Dietary free fatty acids formalkaline phosphatase-enriched microdomainsin the intestinal brush border membrane[J].Molecular Membrane Biology,2011,28(2):136-144.
+
+[46] ZENTEK J,BUCHHEIT-RENKO S,MANNER K,et al.Intestinal concentrations of free andencapsulated dietary medium-chain fatt acids and effects on gastric microbial ecology andbacterial metabolic products in the digestive tract of piglets[J].Archives of AnimalNutrition,2012,66(1):14-26.  
+[47]王猛强,黄晓玲,金敏,等.饲料中添加植物精油对凡纳滨对虾生长性能及肠道健康的改善作用[J].动物营养学报,2015,27(4):1163-1171.  
+[48]梁勇,秦环龙.益生菌调节肠内细胞信号通路研究进展[J].中华临床营养杂志,2012,20(2):112-116.  
+[49] 夏磊,赵明军,张洪玉,等.不同比例复合益生菌对凡纳滨对虾生长、免疫及抗氨氮能力的影响[J].中国水产科学,2015,22(6):1299-1307.  
+[50] 胡毅,谭北平,麦康森,等.饲料中益生菌对凡纳滨对虾生长、肠道菌群及部分免疫指标的影响[J].中国水产科学,2008,15(2):244-251.  
+[51] 马西艺,乐国伟,施用晖,等.乳杆菌肽聚糖对结肠癌细胞的抑制作用及其免疫机制研究[J].营养学报,2004,26(6):467-470.  
+[52]王秀武,杜昱光,白雪芳,等.壳寡糖对肉仔鸡肠道主要菌群、小肠微绒毛密度、免疫功能及生产性能的影响[J].动物营养学报,2003,15(4):32-35.  
+[53]盛清凯,姚惠源.低聚糖对肠道菌群的调节机理[J].动物科学与动物医学,2002,19(2):35-38.  
+[54]韩立丽,王建发,王凤龙,等.黄芪多糖对肠道免疫功能影响的研究进展[J].中国畜牧兽医,2009,36(8):133-135.  
+[55] 黄玉章,林旋,王全溪,等.黄芪多糖对罗非鱼肠绒毛形态结构及肠道免疫细胞的影响[J].动物营养学报,2010,22(1):108-116.
+
+Research Advances: The Intestinal Health and Feed Additives in Aquatic Animals TIAN Juan1,2 GAO Weihual\* WEN Hua2\*
+
+(1. Department of Aquaculture, Collge of Animal Science, Yangtze University, Jingzhou 434024, China; 2. Key Lab ofFreshwater Biodiversity Conservation Ministry of Agriculture, Yangtze River
+
+Fisheries Research Institute, Chinese Academy ofFishery Sciences, Wuhan 430223, China)
+
+Abstract: Intestinal health is vital for body health,therefore,it is one of the key factors in ensuring rapid growth of animals,and some exogenous feed additive can improve intestinal health in animals.This article reviewed the recent research progress of feed additives which could improve intestinal health of animals at home and abroad, including functional amino acids, zinc,fatty acids, probiotics,polysaccharide,etc,and reviewed the influence of them on animal intestinal structure and function, to provide theoretical basis and reference for aquatic animals health. Key words: intestinal health; feed additives; aquatic animals

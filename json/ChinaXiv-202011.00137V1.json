@@ -1,0 +1,392 @@
+[
+    {
+        "type": "text",
+        "text": "Endophytic bacteria associated with halophyte Seidlitzia rosmarinus Ehrenb. ex Boiss. from saline soil of Uzbekistan and their plant beneficial traits ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vyacheslav SHURIGIN1\\*，Dilfuza EGAMBERDIEVA², LI $\\mathrm { L i } ^ { 2 }$ ,Kakhramon DAVRANOV4,   \nHovik PANOSYAN5,Nils-Käre BIRKELAND, Stephan WIRTH,   \nSonoko DBELLINGRATH-KIMURA3.7 1 Faculty of Biology,National University of Uzbekistan,Tashkent 1OO174,Uzbekistan;   \n² Key Laboratoryof Biogeographyand Bioresource inAridLand, Xinjiang Instituteof EcologyandGeography,Chinese Academy of Sciences,Urumqi 830o11, China;   \n3Leibniz Centre for Agricultural Landscape Research (ZALF),Muncheberg 15374, Germany;   \n4Institute of Microbiologyof the Academy of Sciencesof theRepublicof Uzbekistan,Tashkent 100128,Uzbekistan; 5Departmentof Biochemistry,Microbiologyand Biotechnology,Yerevan State University,Yerevan O025,Armenia; Department of Biological Sciences, University of Bergen,NO-5020 Bergen 7803,Norway;   \n7Faculty of Life Science,Humboldt University of Berlin,Berlin 14195,Germany ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Endophytic bacteria of halophytic plants play essential roles in salt stress tolerance. Therefore,an understanding of the true nature of plant-microbe interactions under extreme conditions is esential. The current study aimed to identify cultivable endophytic bacteria associated with the roots and shoots of Seidlitzia rosmarinus Ehrenb.ex Bois.grown in the salt-affected soil in Uzbekistan and to evaluate their plant beneficial traits related to plant growth stimulation and stress tolerance.Bacteria were isolated from the roots and the shoots of $S$ ，rosmarinus using culture-dependent techniques and identified by the 16S rRNA gene. RFLP (Restriction Fragment Length Polymorphism) analysis was conducted to eliminate similar isolates.Results showed that the isolates from the roots of $S$ ，rosmarinus belonged to the genera Rotbia, Kocuria, Pseudomonas, Stapbylococcus,Paenibacillus and Brevibacterium.The bacterial isolates from the shoots of $S$ 、rosmarinus belonged to thegenera Stapbylcoccus，Rotbia，Stenotropomonas，Brevibacterium，Halomonas，Planococcus，Planomicrobiumand Pseudomonas，which differed from thoseof the roots.Notably，Stapbylococcs,Rotbia and Brevibacterium were detected in both roots and shoots,indicating possible migration of some species from roots to shoots.The root-associated bacteria showed higher levels of IAA (indole-3-acetic acid) synthesis compared with those isolated from the shoots,aswell as the higher production of ACC (1-aminocyclopropane-1-carboxylate) deaminase.Our findings suggest that halophytic plants are valuable sources for the selection of microbes with a potential to improve plant fitness under saline soils. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: endophytic bacteria; phylogenetic analysis; halophyte; auxin; plant beneficial traits ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Salinity is considered to be a major threat to the environment and for food security,as it can affect biodiversity and reduce agricultural production and yield (Announ et al.,2Oo4; Egamberdieva et al., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2017a,b). Under saline conditions,only a few highly tolerant plants,i.e., halophytes withstand high salinity levels.Thus,revegetation of saline soils with halophytes is considered as a potential phytoremediation approach (El Shaer,201O; Egamberdieva et al., 2O15; Mishra and Tanna, 2017). Moreover,the introduction of perennial and annual halophytes in salt-affected soils helps to improve soil structure and to increase soil organic biomass,soil biodiversity and activity,as well as crop productivity (Toderich et al.，2O08；Hasanuzzaman et al.，2014；Flowers and Colmer, 2015). Halophytes have developed different morphological and physiological strategies to thrive under salinity stress, including the regulation of stress-responsive genes (Grigore et al., 2O14; Muchate et al.,2016), the generation of reactive oxygen species and active osmoregulation (Hashem et al.,2016). There is also evidence that salt stress tolerance of halophytes is modulated by endophytic bacteria that colonize internal tissues (Etesami and Beattie, 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The roles of endophytes in plant stress tolerance and growth stimulation under abiotic stress conditions have been reported in several studies (Ludwig-Mueler,2O15;Hashem et al.,2016; Egamberdieva et al.， 2Ol7； Etesami and Beattie, 2O18). There is now clear evidence for the mechanisms used by endophytic bacteria to induce stress tolerance and to stimulate plant growth, such as the synthesis of plant growth hormones, the modulation of plant metabolites and the inhibition of ethylene synthesis in roots through 1-aminocyclopropane-1-carboxylate (ACC) deaminase (Kaplan et al.,2O13; Cho et al., 2015; Egamberdieva et al.,2017; Etesami and Beatie, 2018).Mora-Ruiz et al. (2O16) found a clear diference in the diversity of endophytes in the aerial and below-ground parts of Arthrocnemum macrostachyum,a flowering plant in the Amaranthaceae family.The colonization of plant tissue by endophytes originated in the rhizosphere,and followed by migration to the aerial parts of the plant. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Halophytic plants harbor diverse endophytic bacteria,e.g.，Chromohalobacter canadensis, Rudaea cellulosilytica, Psychrobacter sp., Bradyrhizobium sp. and Halomonas sp. were found in A. macrostachyum (Mora-Ruiz et al.,2016). Bacillus sp.,Serratia sp., Rhodococcus sp.,Thalassospira sp., Rhizobium sp., Salinicola sp., Hafnia sp., Streptomyces sp., Microbacterium sp. were isolated from the halophyte Salicornia europaea L. (Szymahska et al.， 2016), belonging to the family Chenopodiaceae. Zhao et al. (2O16) isolated the endophytes Bacillus endophyticus,B.tequilensis, Planococcus rifietoensis, Variovorax paradoxus and Arthrobacter agilis from tissues of S. europaea. The endophytic isolates associated with Salicornia brachiate L. were identified as Brachybacterium saurashtrense sp. nov.， Zhihengliuella sp.， Brevibacterium casei， Haererehalobacter sp., Halomonas sp., Vibrio sp., Cronobacter sakazakii, Pseudomonas sp., Rhizobium radiobacter and Mesorhizobium sp. (Jha et al., 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To date, there have been no reports of endophytes associated with halophytes from salt-affected arid lands of Central Asia.Thus, here, we report on the endophytic bacteria associated with Seidlitzia rosmarinus Ehrenb.ex Boiss.,a perennial woody shrub belonging to the Amaranthaceae family found in deserts and the arid and salt-affected regions in Jordan,Iraq, Iran,Saudi Arabia,and Central Asia. The plant is highly salt-tolerant and can grow on substrates up to $5 0 0 \\ \\mathrm { m M \\ N a C l }$ and is extremely well adapted even to hypersaline conditions (Kurkova et al.,2OO2).The shrub is used as a fodder crop for camels and is also considered for phytoremediation of salt-affected soils (Hadi,2009). thus providing commercial value and ecological importance.To improve plant fitness to abiotic and biotic stresses,an enhanced understanding of plant and microbial interactions under extreme conditions is essential. The aims of our study were: (1) to isolate and identify cultivable endophytic bacteria associated with the roots and shoots of S. rosmarinus grown in salt-affected soil by using 16S rRNA gene analysis; and (2) to evaluate plant beneficial traits of endophytic bacteria related to plant growth stimulation and stress tolerance. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Plant sample collection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Seidlitzia rosmarinus Ehrenb.ex Boiss was collected from the foothills of a mountain not far from Tuzkon salt cave in the Surkhandarya Province,Uzbekistan in August 2O17. The soil has an EC (electrical conductivity） value of $6 . 5 \\ \\mathrm { m S / c m }$ . Three individual plants over a distance of $1 0 { - } 1 2 \\mathrm { ~ m ~ }$ were collected as a whole,stored in zip-lock plastic bags using sterile gloves and transported to the laboratory. The roots were separated from the stems with a sterile scalpel and were rinsed in water to remove the soil attached to the roots. Approximately $1 0 \\mathrm { g }$ of the plant roots and shoots were prepared for the isolation of endophytic bacteria. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Isolation of endophytic bacteria ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The roots and shoots (stems with leaves together) were separated with a sterile scalpel, sterilized with $9 9 . 9 \\%$ ethanol for $2 ~ \\mathrm { m i n }$ and subsequently with $10 \\%$ NaClO and were rinsed five times in sterile distilled water. The sterile shoots and roots ( $\\boldsymbol { 1 0 } \\ \\mathrm { g }$ fresh weight） were cut into $3 { - } 4 ~ \\mathrm { c m }$ pieces and macerated using a sterile mortar and pestle (Mora-Ruiz et al., 2O15). The macerated tissue ${ \\bf \\left( 1 \\Delta g \\right) }$ was transferred into plastic tubes with $9 \\mathrm { m L }$ of sterile phosphate-buffered saline (PBS) ( $2 0 ~ \\mathrm { m M }$ sodium phosphate, $1 5 0 \\ \\mathrm { m M \\ N a C l }$ ， $\\mathrm { p H } \\ 7 . 4 \\AA .$ ） and shaken for 1 min using a Biosan B-1 Vortex (Microspin FV-2400; BIOSAN, Riga, Latvia). About $1 0 0 ~ \\mu \\mathrm { L }$ aliquot from dilutions $( 1 0 ^ { 1 } – 1 0 ^ { 5 } )$ was spread on $30 \\%$ Tryptic Soy Agar plates (TSA) (BD, Difco Laboratories,Detroit, USA） supplemented with nystatin $5 0 \\mu \\mathrm { g / m L }$ ,and the plates were incubated for $4 \\mathrm { d }$ at $2 8 ^ { \\circ } \\mathrm { C }$ .The content of $30 \\%$ TSA (tryptone soya agar) was as follows: $4 . 5 \\mathrm { g / L }$ pancreatic digest of casein, $1 . 5 \\mathrm { g / L }$ enzymatic digest of soya bean, ${ 5 . 0 ~ \\mathrm { g / L } ~ \\mathrm { N a C l } }$ and $1 5 . 0 ~ \\mathrm { g / L }$ agar. After ${ 4 \\mathrm { ~ d } } .$ ，colonies with different shape,color and density were picked and carefully transferred by streaking on nutrient agar plates,and incubated for the next $7 2 \\mathrm { { h } }$ to check the purity of the isolates. Visually homological colonies in sizes,shapes and colors were checked under a microscope for purity and used for DNA isolation. In order to test the sterility of the outer surfaces of the plant parts after sterilization with ethanol, we put two uncut pieces of roots and shoots onto TSA media,and the absence of any colonies after $^ { 7 2 \\mathrm { ~ h ~ } }$ confirmed that sterilization was successful. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 DNAisolation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For DNA extraction, the heat treatment method (Dashti et al.,2OO9) was used.The small parts of the colonies were transferred into $2 { \\cdot } \\mathrm { m L }$ Eppendorf tubes with $1 . 5 ~ \\mathrm { m L }$ of sterile MQ-water and were mixed with a Biosan B-1 Vortex for $1 0 \\mathrm { ~ s ~ }$ .The tubes were incubated at $9 0 ^ { \\circ } \\mathrm { C }$ for $2 0 ~ \\mathrm { { m i n } }$ in a Dry Block Heater (IKA Works, Inc.，Wilmington, USA) and centrifuged at $1 2 , 0 0 0 ~ \\mathrm { r p m }$ for $5 ~ \\mathrm { m i n }$ . The DNA-containing supernatant was taken and stored at $- 2 0 ^ { \\circ } \\mathrm { C }$ .The presence of DNA was checked by horizontal gel electrophoresis ( $0 . 8 \\%$ agarose) and was quantified with a NanoDropTM One (Thermo Fisher Scientific Inc.,Waltham, USA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 Polymerase chain reaction (PCR) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Extracted DNA was used as a template for 16S rRNA gene analysis.The 16S rRNA genes were amplified via PCR using the following primers: 27F (5'-GAGTTTGATCCTGGCTCAG-3'） and 1492R (5'-GAAAGGAGGTGATCCAGCC-3') (Sigma-Aldrich, St. Louis, Missouri, USA) (Lane, 1991). Each $2 5 \\mu \\mathrm { L }$ of reaction mixture contained $1 \\mu \\mathrm { L }$ （20 $( 1 5 { - } 4 0 ~ \\mathrm { n g } )$ DNA, $5 \\mu \\mathrm { L }$ （204号 $5 \\times$ OneTaq standard reaction buffer (BioLabs,New England), $0 . 5 { \\mu \\mathrm { L } }$ $1 0 \\mathrm { m M }$ dNTP mix (Thermo Scientific), $0 . 5 { \\mu \\mathrm { L } }$ 10 mM primer 16SF (Merck), $0 . 5 { \\mu \\mathrm { L } }$ $1 0 ~ \\mathrm { m M }$ primer 16SR (Merck) $( 2 5 \\ \\mu \\mathrm { m o l / m L } )$ ， $1 \\mu \\mathrm { L } 0 . 1 \\%$ bovine serum albumin (TaKaRa Bio Inc., USA), $0 . 1 2 5 \\mu \\mathrm { L }$ One Taq polymerase (BioLabs,New England), and $1 6 . 3 7 5 ~ \\mu \\mathrm { L }$ Milli $\\mathsf { Q }$ water.The PCR was performed using a PTC-2OO thermocycler (Bio-Rad Laboratories, USA). The PCR program was as follows: a primary heating step for 30 s at $9 4 ^ { \\circ } \\mathrm { C }$ followed by 3O cycles of denaturation for $1 5 \\mathrm { ~ s ~ }$ at $9 4 ^ { \\circ } \\mathrm { C }$ ,annealing for $3 0 ~ \\mathrm { s }$ at $5 5 ^ { \\circ } \\mathrm { C }$ and extension for $1 . 5 \\ \\mathrm { m i n }$ at $6 8 ^ { \\circ } \\mathrm { C }$ ,followed by the final step for $2 0 ~ \\mathrm { { m i n } }$ at $6 8 ^ { \\circ } \\mathrm { C }$ .The PCR-amplified products were examined by electrophoresis in a $0 . 8 \\%$ agarose gel containing GelRed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5 Restriction fragment length polymorphism (RFLP) analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine the difference of the isolates similar in their color,shape and size, we conducted RFLP analysis of PCR amplicons of 16S rRNA gene as described by Jinneman et al. (1996).The fragments of digested PCR amplicons were checked via gel electrophoresis ( $1 \\%$ agarose gel). After the electrophoresis,the gel was visualized using a digital gel imaging system (Gel-Doc XR $\\mathrm { T M } +$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bio-Rad Laboratories,USA) to identify identical isolates and reduce the number of strains to be sequenced. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6 Sequencing and phylogenetic analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Before being sequenced, we purified the PCR products with the USB $\\textsuperscript { \\textregistered }$ ExoSAP-IT $\\textsuperscript { \\textregistered }$ PCR Product Cleanup Kit （Affymetrix, $\\mathrm { U S B } ( \\mathbb { R } )$ Products，USA） according to the manufacturer's protocol. Sequencing Was performed using an ABI PRISM BigDye 3.1 Terminator Cycle Sequencing Ready Reaction Kit (Applied Biosystems， USA） by the manufacturer's protocol. Received data were analyzed and corrected using Chromas software v2.6.5. Corrected sequences were manually merged using EMBOSS Explorer (htp://emboss.bioinformatics.nl/). The sequences were compared with those registered in GenBank from the National Center for Biotechnology Information (NCBI) (http://www.ncbi.nlm.nih.gov/) using basic local alignment search tool (BLAST). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All sequences were multiply aligned using ClustalX software v2.1,and a FASTA format file was used to construct the phylogenetic tree. The evolutionary history was inferred using the Neighbor-Joining method (Saitou and Nei,1987).The optimal tree with the sum of branch length of 0.96928586 is shown. The percentage of replicate trees in which the associated taxa clustered together in the bootstrap test (5OO replicates) is shown next to the branches (Felsenstein,1985).The tree is drawn to scale, with branch lengths in the same units as those of the evolutionary distances used to infer the phylogenetic tree.The evolutionary distances were computed using the Maximum Composite Likelihood method (Tamura et al.,2O04)and were in the units of the number of base substitutions per site. The analysis involved 35 nucleotide sequences.All positions containing gaps and missing data were eliminated. There were a total of 1278 positions in the final dataset. Evolutionary analyses were conducted in Molecular Evolutionary Genetics Analysis v6.O (Tamura et al., 2013). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7 Accession numbers ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The 16S rRNA gene sequences of the endophytic bacteria of S. rosmarinus were deposited into GenBank under the accession numbers: MH311985-MH311991 for root endophytesand MH311992-MH312003 for sh0ot endophytes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.8 Plantbeneficial traits ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IAA (indole-3-acetic acid) production was studied following the description of Bano and Musarrat (2003).The calibration curve of pure IAA was used as a standard to calculate IAA concentrations in culture supernatants. The utilization of ACC deaminase by endophytic bacteria as the sole $\\mathrm { \\bf N }$ source was also determined. The bacterial isolates were grown in basal medium supplemented with $3 . 0 \\mathrm { m M }$ of ACC (Sigma Chemical Co., St. Louis, Missouri, USA) to test ACC utilization, or of $\\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ (positive control) as the sole $\\mathbf { N }$ source or without added $\\mathrm { \\bf N }$ source (negative control) (Egamberdieva et al., 2011). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.9 Plant growth stimulation assay ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the plant growth stimulation capacity of endophytic bacteria was performed by using cress-lettuce (Lepidium sativum L.) seedlings. The bacterial isolates were grown for $3 \\mathrm { ~ d ~ }$ in nutrient broth at $2 8 ^ { \\circ } \\mathrm { C }$ .Seeds of cress-lettuce were sterilized with $1 \\%$ sodium hypochlorite solution followed by $9 5 \\%$ ethanol for 3 min and were rinsed five times with sterile distilled water.The sterilized seeds were soaked for $1 0 \\ \\mathrm { m i n }$ in bacterial suspension at a cell density of $1 \\times 1 0 ^ { 7 }$ cells/mL and were germinated on 1/2 agar plate supplemented with $1 0 0 \\ \\mathrm { m M \\ N a C l } .$ .The untreated seeds were soaked with corresponding medium only. Each plate received 15 seeds and was kept in a plant growth chamber for $5 { \\mathrm { ~ d ~ } }$ . The germination rate,lengths of the roots and stems of seedlings were measured. All experiments were conducted in three replications. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.10 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data were tested for statistical significance using the analysis of variance package included in Microsoft Excel 2O10. Comparisons were performed using Student's $t$ -test. Mean comparisons were conducted using the least significant difference (LSD) test ( $( P { = } 0 . 0 5 )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Isolation and identification of cultivable endophytic bacteria ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A total of 45 bacterial isolates were isolated from root and shoot tissues of the halophytic plant $S .$ rosmarinus (Fig. 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5dfb2ff0be7baf9e1005899ad735854f60591650cb2848cc79816cd5bc412b1c.jpg",
+        "img_caption": [
+            "Fig.1Seidlitzia rosmarinus growing on saline soil in the Surkhandarya Province,Uzbekistan "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Only19 isolates were obtained after RFLP analysis,in which 7 isolates were obtained from the roots (Table 1) and 12 from the shoots (Table 2). The 16S rRNA gene sequence similarities of endophytic bacteria isolated from the roots of S.rosmarinus with sequences from GenBank are shown in Table 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f367a58005bf81ab9bdff97a106f74722c0aae1d521a89262e324b4f51321ff2.jpg",
+        "table_caption": [
+            "Table1Sequencesimilarities of endophytic bacteriaisolatedfrom the roots of Seidlitzia rosmarinus with sequences registered in GenBank "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Isolated strain sequence</td><td colspan=\"3\">Closest match among bacteria (16S rRNA gene)</td></tr><tr><td>Strain</td><td>Length</td><td>Anuession</td><td>Species</td><td>Accession number</td><td>Identity (%)</td></tr><tr><td>JRT1</td><td>1452</td><td>MH311985</td><td>Rothiaterrae</td><td>NR_043968</td><td>99.1</td></tr><tr><td>JRT2</td><td>1450</td><td>MH311986</td><td>Kocuria palustris</td><td>NR_026451</td><td>98.9</td></tr><tr><td>JRT3</td><td>1452</td><td>MH311987</td><td>Pseudomonas baetica</td><td>NR_116899</td><td>98.9</td></tr><tr><td>JRT4</td><td>1450</td><td>MH311988</td><td>Staphylococcus warneri</td><td>NR_025922</td><td>99.1</td></tr><tr><td>JRT5</td><td>1471</td><td>MH311989</td><td>Staphylococcusepidermidis</td><td>NR_113957</td><td>99.1</td></tr><tr><td>JRT6</td><td>1460</td><td>MH311990</td><td>Paenibacillus amylolyticus</td><td>NR_025882</td><td>98.7</td></tr><tr><td>JRT7</td><td>1466</td><td>MH311991</td><td>Brevibacterium frigoritolerans</td><td>NR_115064</td><td>99.6</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All strains provided $9 8 . 4 \\% - 9 9 . 6 \\%$ identities to those registered in GenBank. Isolated strains belonged to three phyla: Actinobacteria (JRT1, JRT2),Proteobacteria (JRT3)and Firmicutes (JRT4, JRT5,JRT6 and JRT7).The isolates were identified as Rothia terrae JRT1, Kocuria palustris JRT2, Pseudomonas baetica JRT3， Staphylococcus warneri JRT4， Staphylococcus epidermidis JRT5, Paenibacillus amylolyticus JRT6 and Brevibacterium frigoritolerans JRT7 (Table 1; Fig.2). The diversity of isolates from the shoots of S.rosmarinus is shown in Table 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In total,12 different isolates from the shoots of S.rosmarinus were selected after RFLP analysis. Isolated strains belonged to three phyla: Actinobacteria (JST2),Proteobacteria (JST3, JST7 and JST12)and Firmicutes (JST1, JST4, JST5,JST6,JST8,JST9, JST10 and JST11). The isolates JRT1, JRT2 and JST2 represent the same family Micrococcaceae,and it should be noted that the strains representing $R .$ .terrae inhabit both the roots and the shoots of S. rosmarinus.The same applies to S. warneri, S. epidermidis and B.frigoritolerans. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All isolated strains of the phylum Proteobacteria were predominantly related to the class Gammaproteobacteria, but from different orders,i.e.， Pseudomonadales (JRT3 and JST12), Xanthomonadales (JST3) and Oceanospirillales (JST7). Representatives of the phylum Firmicutes were related to the order Bacillales and four families: Bacillaceae (JRT7 and JST5),Paenibacillaceae (JRT6)，Planococcaceae (JST8, JST9, JST1O and JST11） and Staphylococcaceae (JRT4, JRT5, JST1, JST4 and JST6). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/94fcf7a617719d16bd3800138e213a6e453f49a8371924c6eed2521580f48351.jpg",
+        "img_caption": [
+            "Fig.2Neighbor-joining phylogenetic tree basedon 16S RNA gene sequences isolated from endophytic bacteria of Seidlitziarosmarinus,showing therelationshipofisolated strains totheirclosestrelatives inGenBank.Allpresented strains were divided into three groups: Firmicutes,Actinobacteria and Proteobacteria. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/46b445f137a735d9000f46f7ac60b18e8a1131a7248cea5b41cc4615a82cf1ee.jpg",
+        "table_caption": [
+            "Table2Sequence similarities of endophytic bacteria isolated from the shoots of Seidlitzia rosmarinus with sequences registered in GenBank "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Isolated strain sequence</td><td colspan=\"3\">Closest match among bacteria (l6S rRNA gene)</td></tr><tr><td>Strain</td><td>Lenpth</td><td>Anuession</td><td>Species</td><td>Accession number</td><td>Identity (%)</td></tr><tr><td>JST1</td><td>1474</td><td>MH311992</td><td>Staphylococcus warneri</td><td>NR_025922</td><td>99.6</td></tr><tr><td>JST2</td><td>1445</td><td>MH311993</td><td>Rothia terrae</td><td>NR_043968</td><td>98.7</td></tr><tr><td>JST3</td><td>1467</td><td>MH311994</td><td>Stenotrophomonas pavanii</td><td>NR_118008</td><td>98.4</td></tr><tr><td>JST4</td><td>1474</td><td>MH311995</td><td>Staphylococcus succinus</td><td>NR_028667</td><td>98.6</td></tr><tr><td>JST5</td><td>1471</td><td>MH311996</td><td>Brevibacteriumfrigoritolerans</td><td>NR_115064</td><td>99.4</td></tr><tr><td>JST6</td><td>1458</td><td>MH311997</td><td>Staphylococcus epidermidis</td><td>NR_113957</td><td>99.4</td></tr><tr><td>JST7</td><td>1442</td><td>MH311998</td><td>Halomonassulfidaeris</td><td>NR_027185</td><td>98.8</td></tr><tr><td>JST8</td><td>1478</td><td>MH311999</td><td>Planococcus salinarum</td><td>NR_116802</td><td>98.7</td></tr><tr><td>JST9</td><td>1471</td><td>MH312000</td><td>Planomicrobiumkoreense</td><td>NR_025011</td><td>98.5</td></tr><tr><td>JST10</td><td>1476</td><td>MH312001</td><td>Planococcus halocryophilus</td><td>NR_118149</td><td>98.9</td></tr><tr><td>JST11</td><td>1454</td><td>MH312002</td><td>Planomicrobium soli</td><td>NR_134133</td><td>98.5</td></tr><tr><td>JST12</td><td>1464</td><td>MH312003</td><td>Pseudomonas fluorescens</td><td>NR_115715</td><td>98.6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "According to species diversity, the representatives of Firmicutes phyla (12 species） were more numerous as compared with Actinomycetes (3 isolates） and Proteobacteria (4 isolates) in both the roots and shoots of S. rosmarinus.A phylogenetic tree constructed showed the closest relatives of the isolates to known species (Fig. 2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Plant beneficial traits ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We characterized several plant growth traits of endophytes isolated from S. rosmarinus.The results showed that 6 out of 7 root-associated bacteria produced IAA, whereas 7 out of 12 shoot-associated bacteria produced IAA (Table 3). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Among the studied isolates from the roots,the following isolates showed the IAA production potential: $R .$ terrae JRT1, $K$ palustris JRT2, $P _ { \\cdot }$ baetica JRT3,S. warneri JRT4, S. epidermidis JRT5, P. amylolyticus JRT6 and $B$ . frigoritolerans JRT7. The highest IAA synthesis was observed in the root-associated bacteria P. baetica JRT3（ $\\mathbf { \\nabla } ( 1 4 . 9 \\mu \\mathrm { g / m L } )$ and $P$ 、amylolyticus JRT6( $1 5 . 8 \\mu \\mathrm { g / m L } ,$ . The shoot-associated bacteria that produced IAA belonged to $R .$ terrae JST2, S. pavanii JST3,S. succinus JST4, S. epidermidis JST6, $P _ { \\cdot }$ ，koreense JST9, $P .$ ，soli JST11 and $P _ { \\cdot }$ 、fluorescens JST12. ACC deaminase production was observed in 5 out of 7 bacterial isolates from the root system and 7 out of 12 isolates from the shoots (Table 3). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a097052d286fb5048fb405e4f140d5375fd62e2de86205d45fb7c92f163cf0b9.jpg",
+        "table_caption": [
+            "Table 3Production of IAA (indole-3-acetic acid) and ACC (1-aminocyclopropane-1-carboxylate） deaminase activities in endophytic isolates of Seidlitzia rosmarinus and plant growth promoting abilities "
+        ],
+        "table_footnote": [
+            "Note: Tr-, without tryptophan; ${ \\mathrm { T r } } +$ ,with tryptophan; $^ +$ ,ACC deaminase production; -, non-ACC deaminase production.\\* means significant difference between isolated strain and control at $P { < } 0 . 0 5$ level.Mean±SE. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Isolated strain</td><td colspan=\"2\">IAApgr/dLtion</td><td rowspan=\"2\">ACC deaminase</td><td colspan=\"2\">Plant growth stimulation (cm)</td><td rowspan=\"2\">germination percentage</td></tr><tr><td>Tr-</td><td>Tr+</td><td>Roots</td><td>Shoots</td></tr><tr><td>R. terrae JRT1</td><td>8.4±0.7</td><td>11.7±1.0</td><td>+</td><td>5.2±0.5*</td><td>5.4±0.5</td><td>89±4</td></tr><tr><td>K. palustris JRT2</td><td>8.9±0.7</td><td>12.5±0.8</td><td>+</td><td>5.4±0.6*</td><td>5.5±0.6</td><td>90±6</td></tr><tr><td>P.baetica JRT3</td><td>10.1±0.8</td><td>14.9±1.0</td><td>+</td><td>5.5±0.5*</td><td>5.5±0.6</td><td>92±5</td></tr><tr><td>S.warneri JRT4</td><td>3.8±0.4</td><td>4.0±0.4</td><td></td><td>4.7±0.5</td><td>4.8±0.5</td><td>82±5</td></tr><tr><td>S.epidermidis JRT5</td><td>4.8±0.5</td><td>8.9±0.5</td><td>-</td><td>4.9±0.5</td><td>5.1±0.5</td><td>85±5</td></tr><tr><td>P.amylolyticus JRT6</td><td>11.4±0.9</td><td>15.8±1.1</td><td>+</td><td>5.4±0.6*</td><td>5.5±0.5</td><td>91±6</td></tr><tr><td>B.frigoritolerans JRT7</td><td>0.0</td><td>0.0</td><td>+</td><td>4.8±0.5</td><td>5.1±0.5</td><td>85±6</td></tr><tr><td>S.warneri JST1</td><td>0.0</td><td>0.8±0.4</td><td>-</td><td>4.6±0.4</td><td>5.0±0.5</td><td>85±5</td></tr><tr><td>R. terrae JST2</td><td>8.4±0.7</td><td>11.7±1.0</td><td>+</td><td>5.2±0.5*</td><td>5.4±0.5</td><td>89±5</td></tr><tr><td>S. pavanii JST3</td><td>9.5±0.7</td><td>20.5±0.9</td><td>+</td><td>5.5±0.6*</td><td>5.6±0.6*</td><td>93±4</td></tr><tr><td>S.succinus JST4</td><td>7.1±0.6</td><td>10.9±0.9</td><td>-</td><td>5.1±0.5</td><td>5.3±0.5</td><td>87±6</td></tr><tr><td>B.frigoritolerans JST5</td><td>0.0</td><td>0.0</td><td>+</td><td>4.9±0.5</td><td>5.2±0.4</td><td>85±5</td></tr><tr><td>S.epidermidis JST6</td><td>3.3±0.5</td><td>6.5±0.5</td><td>-</td><td>4.7±0.4</td><td>5.1±0.5</td><td>85±4</td></tr><tr><td>H. sulfidaeris JST7</td><td>0.0</td><td>1.7±0.8</td><td>+</td><td>4.9±0.5</td><td>5.1±0.4</td><td>85±4</td></tr><tr><td>P.salinarum JST8</td><td>0.0</td><td>0.0</td><td>-</td><td>4.6±0.5</td><td>4.9±0.4</td><td>83±5</td></tr><tr><td>P.koreense JST9</td><td>7.8±0.7</td><td>9.9±0.9</td><td>+</td><td>5.1±0.6</td><td>5.3±0.6</td><td>88±6</td></tr><tr><td>P.halocryophilus JST10</td><td>0.0</td><td>1.0±0.4</td><td>-</td><td>4.7±0.4</td><td>5.0±0.5</td><td>85±5</td></tr><tr><td>P. soli JST11</td><td>9.3±0.7</td><td>12.3±0.8</td><td>+</td><td>5.4±0.5*</td><td>5.4±0.5</td><td>90±6</td></tr><tr><td>P.fluorescens JST12</td><td>7.2±1.3</td><td>11.6±1.5</td><td>+</td><td>5.6±0.6*</td><td>5.7±0.6*</td><td>94±4</td></tr><tr><td>Control</td><td></td><td></td><td></td><td>4.8±0.5</td><td>5.1±0.5</td><td>85±5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 3 illustrates plant growth stimulation capabilities of endophytic isolates on lettuce. The results showed that $K .$ palustris JRT2, $P .$ baetica JRT3and $P$ 、amylolyticus JRT6 isolated from roots, stimulated roots and shoots of lettuce seedlings by $12 \\%$ ， $1 5 \\%$ and $13 \\%$ ,respectively,as compared with the control seedlings.However, only S. warneri JRT4 reduced the growth of lettuce seedlings. Similarly,the isolates from the shoots also showed significant plant growth stimulatory capabilities, although four isolates,i.e.，S. warneri JST1，S. epidermidis JST6, $P .$ ，salinarum JST8 and $P .$ （20号 halocryophilus JST1O,showed inhibitory activity. The highest stimulatory percentage was obtained with $P _ { \\cdot }$ fluorescens JST12 $( 1 7 \\% )$ , followed by S. pavanii JST3 $( 1 4 \\% )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To our knowledge,this is the first report in which endophytic bacteria associated with the halophyte S.rosmarinus growing on salt-affected soils were analyzed.In total,19 isolates were selected, and we found that the majority of the isolates (i.e.,12 isolates)were from the Firmicutes phylum,divided into four clusters:Bacillceae，Paenibacillaceae，Planococcaceae and Staphylococcaceae.The Actinobacteria phylum contained three isolates, belonging to Kocuria and Rothia genera. The Proteobacteria phylum contained four isolates,belonging to Pseudomonas,Stenotrophomonas and Halomonas genera.In our study,the endophytic bacteria $P _ { \\cdot }$ ，halocryophilus and $P$ ，salinarum were associated with the roots of S.rosmarinus.Zhao et al. (2O16) also identified $P _ { \\cdot }$ rifietoensisassociated with Salicornia europaea growing on a highly saline soil. $P _ { \\cdot }$ 、rifietoensis was also found in permafrost soil from the Canadian Arctic region (Mykytczuk et al., 2012). Yoon et al. (2010) observed a strain of $P$ 、salinarum ina marine solar saltern inKorea.The strains $R .$ terrae JRT1and $R$ terrae JST2 were isolated from root and shoot tissues of S. rosmarinus in the present study.The occurrence of this bacterium was also observed in a soil from Taiwan, China (Chou et al., 2008). In our study,one of the shoot-associated bacterial species was identified as $P$ 、koreense. Yoon et al. (2001) observed a strain similar to $P$ .koreense JST9 from fermented seafood in Korea.The species $P$ soli was first isolated from soil of Alxa National Geological Park in Iner Mongolia Autonomous Region, China (Luo et al., 2O14). The identification of the isolate $H .$ sulfidaeris in our study is the first report of the occurrence of halotolerant $H .$ sulfidaeris in plant tissue. You et al. (2O15) also observed several Halomonas species,including $H .$ sulfidaeris from rhizosphere soils of coastal plants from the Dokdo Islands of South Korea. Previously，this species was found in Pacific hydrothermal vents,similar to many other halotolerant microorganisms (Kaye and Baross,2000). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We have observed five isolates from the roots and the shoots of S. rosmarinus belonging to Staphylococcus species, such as S. warneri JRT4, S.epidermidis JRT5, S. warneri JST1, S. succinus JST4 and S. epidermidis JST6. The representatives of the genus Staphylococcus are commonly known as potential human or animal pathogens (Kloos and Schleifer,1975; Novakovä et al., 2006). For example, S. warneri causes bovine abortion (Barigye et al.,2OO7) or multifocal discitis (Announ et al.,20o4).There are also several reports of the occurrence of salt-tolerant Staphylacoccus species in diverse environments,including saline soils (Roohi et al.,2O12; Nanjani and Soni,2014).For example，S. saprophyticus was isolated from the rhizosphere of wheat grown in saline soil (Egamberdieva et al., 2008)， from carrot (Surette et al.， 2O03),or from chestnut phyllosphere (Valverde etal., 2005). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ramos et al. (2O11) isolated and identified Stenotrophomonas pavanii JST3 from the stems of Brazilian sugar cane,which possesses nitrogen-fixing capacity. Notably，we have observed S. warneri,S.epidermidis and B.frigoritolerans both in the roots and the shoots of the plant. It has been reported that bacteria in plant tissues are capable of migrating from soil to aerial parts of the plant through chemotaxis (Chi et al., 2OO5; Bulgarelli et al., 2013). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bacteria use different mechanisms to improve plant health and fitness under stressed environmental conditions，such as salinity or drought. There are numerous reports in which endophytic bacteria stimulated plant growth and improved the resistance of a host plantto abiotic and biotic stresses, including drought and salt stress (Rashid et al., 2O12; Egamberdieva et al., 2017c). The production of IAA by endophytic bacteria is considered to be an essential trait that modulates plant growth and physiology (Egamberdieva et al.,2O17c). In our study,root-associated bacteria showed higher IAA synthesisactivities compared with shoot-associated bacteria. The phytohormones produced by bacteria stimulate the growth and development of the root system architecture,which then facilitates the nutrient acquisition of plants under saline conditions (Piccoli et al.,2011; Egamberdieva et al.,2O17a, c). Sorty etal.(2016) observed IAA production by several bacterial species isolated froma halotolerant weed (Psoralea corylifolia L.),including Acinetobacter. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Enterobacter,Pseudomonas and Bacillus.The salt-tolerant strain $P _ { \\cdot }$ fluorescens SPB2145 produced IAA,through which the root and shoot growth,nutrient uptake and plant stress tolerance of cucumber significantly increased (Egamberdieva et al.,2O11). In our study, we observed that eight bacterial isolates produced IAA and stimulated root length.Interestingly,all of them were also able to produce ACC deaminase,which could cleave the plant ethylene precursor ACC,and thereby lowered the level of ethylene in a stressed plant (Glick,2O14). Our observations are in line with the results of Sgroy et al. (2O09), showing that the endophytic bacteria isolated from the halophyte Prosopis strombulifera were positive for ACC deaminase activity. Gupta and Pandey (2019) reported that ACC deaminase producing bacteria Paenibacillus sp. alleviated the negative effects of salinity stress and increased root and shoot growth of French bean seedlings subjected to salinity stress.However,in our study two isolates of B.frigoritolerans, which produced ACC deaminase, but not IAA,or Staphylococcus strains that produce IAA but not ACC deaminase did not show any stimulation on plant growth. This finding indicates that multiple plant growth promoting activities vary with the trait and the isolate. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the first time,we revealed the diversity of endophytic bacteria isolated from the roots and the shoots of the halophyte S.rosmarinus, grown on saline soil of Uzbekistan.The isolates belong to the genera Rothia， Kocuria， Pseudomonas， Staphylococcus， Paenibacillus， Brevibacterium, Stenotrophomonas,Halomonas,Planococcus and Planomicrobium.The most frequently isolated genus in the plant roots and shoots was Staphylococcus, which is known for its capacity of high salt tolerance. The root-associated bacteria showed higher levels of IAA synthesis compared with bacteria isolated from the plant shoots,as well as the production of ACC deaminase. Our findings suggest that halophytic plants could be a source for the selection of microbes that could improve plant fitness under saline soils.However,these findings also show that further research is necessary in pot as well as field experiments to resolve the impact of endophytic bacteria with selected plant growth promoting traits on plant growth and stress tolerance. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the Eurasia Program of the Norwegian Centre for Cooperation in Education (CPEA-LT-2016/10095),the German Academic Exchange Service (DAAD）and the President's International Fellowship Initiative of the Chinese Academy of Sciences (2O18VBA002S). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Anoun N,MateiJ,Jaoua S,etal.2Oo4.MultifocaldiscitiscausedbyStaphylococcus warneri.JointBone Spine,7(3): 240-242.   \nBano N,MusarratJ.2Oo3.Characterizationofanew PseudomonaseruginosastrainNJ-15asapotentialbiocotrolgent. Current Microbiology,46(5):324-328.   \nBarigyeR,SchaanL,Gibbs PS,etal.2O7.Diagnostic evidence of Staphylococcus warneriasapossiblecauseof bovine abortion.Journal of Veterinary Diagnostic Investigation,19(6):694-696.   \nBulgarelliDchlaeppiK,SpaepenS,etal.2O13.tructureandfunctiosofthebacteralmicrobiotaofplants.Anualevie of Plant Biology,64: 807-838.   \nChiF,Shen SH,ChengHP,etal.2Oo5.Ascendingmigrationofendophyticizobia,fromroots toleaves,nsidericeplants and assessment of benefits to rice growth physiology.Applied and Environmental Microbiology,71(11):7271-7278.   \nCho ST,Chang HH,EgamberdievaD,etal.2015.Genomeanalysisof Pseudomonas fluorescens PCL1751:arhizobacterium that controls root diseases and alleviates salt stress for its plant host.PLoS ONE,1O(1O): eO140231.   \nChou YJ,ChouJH,LinKY,etal.2Oo8.Rothiateraesp.nov.isolated from soil inTaiwan.International Journalof Systematic and Evolutionary Microbiology,58(1): 84-88.   \nDashti AA,Jadaon MM,AbdulsamadAM,etal.2O09.Heattreatmentof bacteria:asimple methodofDNA extraction for molecular techniques.Kuwait Medical Journal,41(2):117-122.   \nEgamberdievaD,KamilovaF,ValidovS,etal.2Oo8.Highincidenceof plant growth-stimulating bacteriaassociated withthe rhizosphere of wheat grown in salinated soil in Uzbekistan.Environmental Microbiology,10(1):1-9.   \nEgamperuieva D,ucnarova ,Davranov,elal.ZUl1.baciera ale tocorolooanurootrotanu to promote grown ol cucumber in salinated soils.Biology and Fertility of Soils,47:197-205.   \nEgamberdieva D,LiL,Lindstrom K,et al.2O15.A synergistic interaction between salt tolerant Pseudomonas and Mesorhizobium strains improves growth and symbiotic performance of liquorice (Glycyrrhizauralensis Fish.）under salt stress.Applied Microbiology and Biotechnology,100: 2829-2841.   \nEgamberdievaD,LiL,Wirth S,etal.2017.Microbialcooperation intherhizosphere improvesliquorice growthundersalt stress.Bioengineered, 8(4): 433-438.   \nEgamberdievaD,Wirth SJ,ehrendtU,etal.2017a.Antimicrobialactivityofmedicinalplantscorelateswiththeproortion of antagonistic endophytes.Frontiers in Microbiology,8:199.   \nEgamberdievaD,WirthSJ,ShuriginVV,etal.2O17b.Endophyticbacteriaimproveplant growth,symbioticperforanceof chickpea(Cicer arietinum L.)and induce suppression of rotrot caused by Fusarium solani under salt stress.Frontiers in Microbiology,8: 1887.   \nEgamberdievaD,Wirth SJ,Alqarawi AA,etal.2O17c.Phytohormonesand beneficial microbes:essentialcomponents for plants to balance stress and fitness.Frontiers in Microbiology,8:2104.   \nEl Shaer HM.2Ol0.Halophytesand salt-tolerant plants aspotential forage forruminants in the NearEastregion.Small Ruminant Research,91(1): 3-12.   \nEtesami H,Beatie GA.2017.Plant-microbe interactions inadaptationof agriculturalcros toabiotic stressconditions.In: Kumar V, Kumar M, Sharma S,et al. Probiotics and Plant Health. Singapore: Springer,163-200.   \nEtesami H,BeatieGA.2O18.Mining halophytes for plant growth-promoting halotolerantbacteriato enhancethesalinity tolerance of non-halophytic crops.Frontiers in Microbiology,9:148.   \nFelsenstein J.1985.Confidence limits on phylogenies: Anapproach using the bootstrap.Evolution,39(4):783-791.   \nFlowers TJ,ColmerTD.2O15.Plant salt tolerance: Adaptations in halophytes.Annals ofBotany,115(3): 327-31.   \nGlickBR.2014.Bacteria with ACCdeaminasecan promote plant growthandhelptofeed theworld.MicrobiologicalResearch. 169(1): 30-39.   \nGrigore M N,Ivanescu L,Toma C.2014.Halophytes: An Integrative Anatomical Study.New York: Springer,39-43.   \nGupta S,PandeyS.2O19.ACCdeaminaseproducingbacteria withmultifarious plant growth promoting traits allviatessalinity stressin French bean (Phaseolus vulgaris)plants.Frontiers in Microbiology,10:1506.   \nHadiMR.20o9.Biotechnological potentialsofSeidlitzia rosmarinus: Aminireview.African JournalofBiotechnology,8(11): 2429-2431.   \nHasanuzzaman M,Nahar K,Alam M,et al.2O14.Potential useof halophytes to remediate saline soils.BioMed Research International, 589341.   \nHashemA,AbdAllahEF,AlqarawiA,etal.2O16.The interaction between arbuscularmycorrhizalfungi and endophytic bacteria enhances plant growth of Acacia gerrardii under salt stress.Frontiers in Microbiology,7: 1089.   \nJhaB,GontiaI,Hartmann A.2O12.Therootsof the halophyte Salicornia brachiata areasourceof new halotolerant diazotrophic bacteria with plant growth-promoting potential.Plant and Soil, 356: 265-277.   \nJineman K C,Wetherington JH,Adams AM,et al.1996.Diferentiationof Cyclospora sp.and Eimeria spp.byusingthe polymerase chain reaction amplification productsand restriction fragment length polymorphisms.Food and Drug Administration Laboratory Information Bulletin,4044.   \nKaplan D,Maymon M,Agapakis CM,etal.2O13.Asurveyof the microbialcommunityintherhizosphereof twodominant shrubs of the Negev Desert highlands,Zygophyllum dumosum (Zygophylaceae)and Atriplex halimus (Amaranthaceae), using cultivation-dependent and cultivation-independent methods.American Journal of Botany,1OO:1713-1725.   \nKaye JZ,Baros JA.2Oo.High incidenceof halotolerant bacteria in Pacific hydrothermal-vent and pelagic environments. FEMS Microbiology Ecology,32(3): 249-260.   \nKloos WE,SchleiferKH.1975.Isolationand characterizationof staphylococi from humanskinII.descriptionsoffournew species:Staphylococcus warneri，Staphylococcus capitis，Staphylococcus hominis，and Staphylococcus simulans. International Journal of Systematic Bacteriology,25(1): 62-79.   \nKurkova EB,KalinkinaLG,BaburinaOK,etal.2O2.ResponsesofSeidlitzi rosmarinus tosalt stres.BiologyBuletinof the Russian Academy of Sciences,29: 221-229.   \nLane DJ.1991.16S/23S rRNA Sequencing.In: Stackebrandt E,Goodfellw M.Nucleic Acid Techniques in Bacterial Systematic,New York: John Wiley and Sons,115-175.   \nLudwig-MuellerJ.2015.Plantsandendophytes:equalpartners insecondary metabolite production?BiotechnologyLetters,37: 1325-1334.   \nLuo X,Zhang J,LiD,etal.2014.Planomicrobiumsoli sp.nov.,solated fromsoil.InternationalJournalofSystematicand Evolutionary Microbiology,64: 2700-2705. Science,8: 829.   \nMora-Ruiz MDR,Font-Verdera F,Diaz-Gil C,et al.2O15.Moderate halophilic bacteria colonizing thephyllplaneof halophytes of the subfamily Salicornioideae (Amaranthaceae).Systematic and Applied Microbiology,38(6): 406-416.   \nMora-Ruiz MDR,Font-VerderaF,OrfilaA,etal.2O16.Endophytic microbialdiversityof the halophyte Arthrocnemum macrostachyum across plant compartments.FEMS Microbiology Ecology,92(9): fiw145.   \nMuchate N S,Nikalje G CRajurkar N S,et al.2016.Plant salt stres:adaptive responses,tolerance mechanism and bioengineering for salt tolerance.The Botanical Review,82: 371-406.   \nMykytczuk NC,WilhelmR C,Whyte LG,2012.Planococcus halocryophilus sp.nov.,an extreme sub-zero species from high Arctic permafrost. International Journal of Systematic and Evolutionary Microbiology,62:1937-1944.   \nNanjani SG,Soni HP.2014.Characterizationof anextremely halotolerant Staphylococus arletae HPSSN35C isolatefrom Dwarka Beach,India.Journal of Basic Microbiology,53(8):1-8.   \nNovakova D,Sedacek I,Pantcek R,et al.2o6.taphylococcus equorumand Staphylococcus succinus isolated fromman clinical specimens. Journal of Medical Microbiology,55(5): 523-528.   \nPiccoli P,Travaglia C,Cohen A,et al.2O11.An endophytic bacterium isolated from roots of the halophyte Prosopis strombulifera produces ABA,IAA,gibberellins $\\mathbf { A } _ { 1 }$ and $\\mathbf { A } _ { 3 }$ and jasmonic acid in chemically-defined culture medium.Plant Growth Regulation, 64: 207-210.   \nRamos PL,van Trappen S,ThompsonFL,et al.2011.Screening for endophytic nitrogen-fixingbacteria in Brazilian sugar cane varieties used inorganic farming and description of Stenotrophomonas pavani sp.nov.International Journal of Systematic and Evolutionary Microbiology, 61(4): 926-931.   \nRashid S,Charles TC, Glick BR.2012.Isolation and characterization of new plant growth-promoting bacterial endophytes. Applied Soil Ecology, 61(4): 217-224.   \nRoohi A,AhmedI,IqbalM,etal.2Ol2.Preliminaryisolationandcharacterzationofhalotolerantandhalophilicbacteriafrom salt mines of Karak.Pakistan Journal of Botany,44:365-370.   \nSaitou N,NeiM.1987.Theneighbor-joining method: Anewmethodforreconstructing phylogenetic trees.MolecularBiology and Evolution,4(4):406-425.   \nSgroyV,CassanF,Mascareli O,etal.2009.solationandcharacterizationof endophytic plant growth-promoting(PGPB)or stresshomeostasis-regulating (PSHB)bacteriaassociated to the halophyte Prosopis strombulifera.Applied Microbiology and Biotechnology,85(2): 371-381.   \nSorty AM,Meea KK,ChoudharyK,etal.2O16.Efectofplant growth promoting bacteriaassociated withhalophytic weed (Psoralea corylifolia L.)on germination and seedling growth of wheat under salineconditions.Applied Biochemistry and Biotechnology,180: 872-882.   \nSurete MA,turzAVLadaRR,etalO.Bacterialedophyes inprocesingcarots (DaucuscarotLvar.stivus):thr localization,population density,biodiversityand their effects on plant growth.Plant and Soil,253:381-390.   \nSzymahska S,Plociniczak T,Piotrowska-Seget Z,etal.2016.Metabolic potentialand community structureof endophyticand rhizosphere bacteriaassociated withtherootsofthe halophyteAster tripoliumL.Microbiological Research,82:68-79.   \nTamura K,Nei M,Kumar S.2O04.Prospectsforinferring verylarge phylogenies byusing the neighbor-joining method. Proceedings of the National Academy of Sciences of the United States of America,101(30):11030-11035.   \nTamura K,Stecher G,Peterson D,et al.2013. MEGA6: molecular evolutionary genetics analysis version 6.0.Molecular Biology and Evolution,30(12): 2725-2729.   \nToderich K N,Ismail S,JuylovaEA,etal.2O08.New approaches for Biosaline Agriculture development,managementand conservationof sandy desert ecosystems.In: ChedlyA,MunirO,Muhamad A,etal.Biosaline Agriculture and Salinity Tolerance in Plant. Basel: Birkhauser Verlag,247-264.   \nValverdeA,IgualJM,Santa RI,etal.Oo5.Preliminarydiversitystudiesof culturablephylosphere bcteriaonchestut (Castanea sativa).Acta Horticulturae, 693: 263-270.   \nYoon JH,Kang SS,Le KC,etal.2Ool.Planomicrobium koreesegen.nov.,sp.nov.,abacteriumisolated fromtheKorean traditionalfermentedseafood jeotgal,andtransferofPlanococcusokeanokoites (Nakagawa etal.,996)andPlanococcus mcmeekini (Junge et al.，1998)to the genus Planomicrobium.International Journal of Systematicand Evolutionary Microbiology,51: 1511-1520.   \nYoonJH,Kang SJ,LeeSY,etal.2olo.Planococcussalinarumsp.nov.,isolated fromamarine solarsaltern,andemended descriptionof thegenus Planococcus.InternationalJournalof SystematicandEvolutionary Microbiology,60(4):754-758.   \nYouYH,Park MJ,LeMC,etal.2O15.Characterizationand phylogeneticanalysisof halophilicbacteriaisolated from rhizosphere soils of coastal plants in Dokdo Islands. Korean Journal of Microbiology,51(1): 86-95.   \nZhao S,Zhou N,ZhaoZY,etal.016.Isolationof endophytic plantgrowth-promoting bacteria associated with thehalophyte Salicornia europaea and evaluation of their promoting activity under salt stress.Current Microbiology,73(4): 574-581. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

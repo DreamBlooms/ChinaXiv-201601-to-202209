@@ -1,0 +1,329 @@
+[
+    {
+        "type": "text",
+        "text": "Baicalin Inhibits the Lethality of Shiga-Like Toxin 2 in Mice ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ing Dong,ab Yong Zhang,aYutao Chen, Xiaodi Niu,dYu Zhang,a Cheng Yang, Quan Wang, Xuemei Li Xuming Denga ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kebato Rearit iences ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shiga-liketoxins (Stxs),producedbypathogenicEscherichiacol,areamajorvirulencefactorinvolvedineverediseasshmanandanimals.Thesetoxinsareribosome-inactivatingproteins,andtreatmentfordiseasescausedbythemisnotavailable. Therefore,thereisanurgentnedforagentscapableoffectivelytargetingthisetaltoxin.Intisstudyweidentifdbaicalin, aflavonoidcompoundusedinChinesetraditionalmedicine,asacompoundagainst Shiga-liketoxin2(Stx2).Wefoundthat baicalinsignificantlyimprovesrenalfunctionandreducesSt2-inducedlethalityinmice.Furtherexperimentsrevealedthatbaicaliinducestheformationof oligomersbythetoxinbydirectbinding.Wealsoidentifiedtheresiduesimportantforsuchinteractionsandanalyzedtheirrolesinbindingbaicalinbybiophysicalandbiochemicalanalyses.Ourresultsestablishbaicalinas a candidate compound for the development of therapeutics against diseases caused by Stxs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chiga toxin-producing Escherichia coli(STEC),particularly $E$ coli O157:H7,can cause several diseases,ranging from bloody diarrhea to life-threatening hemolytic uremic syndrome (HUS), which is the leading cause of acute renal failure in children and the elderly(1).STEC infection often is caused by ingestion of contaminated food and drink orbydirect contactwith infected animals (2). The mortality of STEC infection can reach $5 0 \\%$ or more in susceptible populations (3,4). The emergence of antibiotic-resistant E.coli strains has made the treatment of STEC infection more difficult.Moreover, therapies with antimicrobial agents for this infection have been shown to carry a higher risk of patients' developingHUS(5,6).Asa result, STEC infections have become a worldwide challenge.Shiga-like toxins (Stxs） are considered the most important virulence factor of STEC.These toxins can be divided into two types: Stxl and Stx2 (7).Although Stxl and $\\operatorname { S t x } 2$ possess similar mechanisms of action, Stx2 has been proved to be more toxic than Stxl(4,8).Inaddition,several studies have demonstrated that Stx2 is able to induce bloody diarrheaand hemolytic-uremic syndrome(HUS) inanimal models(9,10). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stxs are highly toxic class II ribosome-inhibiting proteins (RIPs)(11),which consist of the enzymatic A chain,which has $N \\mathrm { \\Omega }$ -glycosidase activity,and the Bchain,which is essential for the toxin's entry into the cell (12).The A subunit cleaves an adenine base at position 4,324of the 28S rRNA,leading to the inhibition of protein synthesis of target cells (4). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Death caused by Stx poisoning normally occurs 3 to 5 days after exposure in a mouse model of HUS,but efficacious therapeutics are notavailable for postexposure treatments (13).Similarly, there is no therapy for treating STEC infections that has been approved by any country. Therefore, there is an urgent need for the development of countermeasures against this severe threat.A number of antibodies capable of neutralizing the toxicity of Stxs have been developed(14).Small molecules with similar inhibitory effects have also been described(15).The availabilityof high-resolution structure of Stxs has greatly facilitated the development of inhibitorymolecules byrational compound design(l6).For example, agents capable of interfering with the RNA $N$ -glycosidase activity ofboth Shiga-like toxin and ricinhave been identified via such methods (17).Moreover,inhibitors that block the retrograde trafficking between endosome and the trans-Golgi network (TGN) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "have been shown to be effective in protecting mice from killing by ricin and Stxs (18,19).Despite this progress, there is an urgent need for compounds that are able to treat Stx poisoning after individuals have been exposed to the toxins. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here,we described the identification ofbaicalin(BAI),a flavonoid compound isolated from Scutellaria baicalensis Georgi,as an agent capable of inhibiting poisoning by Stx2.Similar to its effects on ricin (20),we found that BAI inhibits the activity of Stx2 byinducing the formation of oligomers by the toxin.Our results established BAI as a potentially useful compound in treating STEC infections. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chemicals and reagents.Baicalin (BAI; purity, $9 8 . 5 \\%$ ）(Fig.1A)was obtained from Sigma-Aldrich (St.Louis,MO,USA),and the stock solution at a concentration of $4 0 . 9 6 ~ \\mathrm { m g / m l }$ was prepared in dimethyl sulfoxide (DMSO) (Sigma-Aldrich).For in vivo studies,BAI was dissolved in sterile phosphate-buffered saline (PBS)at a concentration of $1 0 0 \\mathrm { m g / m l }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Expression and purification of rStx2.(i) Construction of plasmid encoding Stx2.The recombinant plasmid was constructed as described previously (21). Briefly, the $E$ coli ${ \\mathfrak { s t } } x _ { 2 }$ gene,coding for the mature Stx2 protein,was amplified from the genome of $E$ .coli O157:H7 strain ATCC 43895 with the primer pair $5 ^ { \\prime }$ -CCGGAATTCATGAAGTGTATATTATT TAAATG- $\\cdot 3 ^ { \\prime }$ (forward) and $5 ^ { \\prime }$ -ACGCGTCGACTTAGTGGTGGTGGTG GTGGTGGTCATTATTAAACTGCACTTC $\\cdot 3 ^ { \\prime }$ (reverse).An EcoRI site and a SalI site (underlined) were added to the $5 ^ { \\prime }$ and $3 ^ { \\prime }$ ends of the primers and used for subcloning of the gene into the expression vector pET32a (Merck,Germany).The resulting plasmid,pET32a-stx2,was transformed into strain BL21(DE3) for protein production. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7206fba30852bc5234420d69c8a78ec459405394b5aab943aa6adcbb80c2ee89.jpg",
+        "img_caption": [
+            "G with the indicated concentrations of baicalin for $7 2 \\mathrm { { h } }$ .Cytotoxicity was evaluated by measuring extracellular LDH $7 2 \\mathrm { { h } }$ after addition of the toxins.(C) rStx2 premixedialdcaedl measured after incubating for $7 2 \\mathrm { { h } }$ .(D)Effects of baicalinon the inhibition of protein synthesis by $\\mathrm { r } \\mathrm { S t x } 2$ .Baicalin was added to in vitro proteinsynthesis with rStx2,and theexpressonofluciferasewasmeasured.Alldataare meansandstandarderrorsfromtreeidepedentexperiments $P < 0 . 0 5$ ， $P < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(ii) Procedure of protein expression and purification.Cells of strain BL21(DE3)(pET32a-stx2) grown in LB to saturation were diluted 1:100 into $1 , 0 0 0 ~ \\mathrm { m l }$ of LB broth with $0 . 0 8 \\%$ glucose.Protein expression was induced with $1 \\mathrm { m M }$ IPTG when the optical density at $6 0 0 \\mathrm { n m } \\left( \\mathrm { O D } _ { 6 0 0 } \\right)$ （204号 of the culture reached O.6 to O.8 for $^ { 1 0 \\mathrm { ~ h ~ } }$ at $3 0 ^ { \\circ } \\mathrm { C }$ .Cells harvested by centrifugation at $3 , 8 0 0 ~ \\times ~ g$ for $3 0 ~ \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ were suspended in lysis buffer ( $\\mathrm { 1 \\times }$ PBS, $1 \\mathrm { m M }$ dithiothreitol [DTT],and $1 ~ \\mathrm { m M }$ phenylmethylsulfonyl fluoride [PMSF]）and broken by sonication.The lysates were cleared by centrifugation at $1 6 { , } 0 0 0 \\times g$ for $4 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ .The supernatant was loaded onto a self-packaged nickel-nitrilotriacetic acid (Ni-NTA)affinity column (2 ml Ni-NTA Hi-Bind resin; Qiagen).Unbound proteins were removed by washing with 1O column volumes of washing buffer (lysis buffer containing $6 0 ~ \\mathrm { m M }$ imidazole).The protein was eluted with $2 0 0 \\mathrm { m M }$ imidazole inlysis buffer.The protein was further purified with a Superdex $7 5 ~ 1 6 / 6 0$ column(GE Healthcare) on an AKTA system.The purity of all proteins was greater than $9 5 \\%$ ,as assessed by SDS-PAGE and Coomassie bright blue staining. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell-free translation assay.The TNT coupled reticulocyte lysate systems and luciferase assay system(Promega,Madison,WI) were employed to investigate the ability of BAI to block protein synthesis inhibition imposed by rStx2 (22).One nanogram of rStx2 was used in all reactions,and the concentration of BAI ranged from $9 \\mu \\mathrm { M }$ to $7 2 \\mu \\mathrm { M }$ .The reaction was allowed to proceed for $9 0 \\mathrm { m i n }$ at $3 0 ^ { \\circ } \\mathrm { C }$ in a water bath and was terminated byplacing the plates on ice.Luciferase activity was measured per the manufacturer's instructions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell-based assay for protectionagainst rStx2.We examined the effects of BAI on cell toxicity of Stx2 with HeLa cells as described previously (23).HeLa cells were cultured in Dulbecco's modified Eagle's medium (DMEM） supplemented with $3 ~ \\mathrm { m M }$ glutamine,antibiotics ( $\\mathrm { ~ \\ ' ~ } 1 0 0 \\mathrm { ~ U / m l }$ penicillin and $1 0 0 ~ \\mathrm { U / m l }$ streptomycin),and $1 0 \\%$ heat-inactivated fetal bovine serum,at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ ina humidified incubator. Cells for experiments were plated ona 96-well plate at a density of $1 . 5 \\times 1 0 ^ { 4 }$ cells per well in DMEM and incubated for $1 6 \\mathrm { h }$ at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\% \\mathrm { C O } _ { 2 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The cells were incubated with $5 0 \\mathrm { p g / m l r S t x } 2$ (capable of killing about $8 0 \\%$ cells)(see Table S1 in the supplemental material) in the presence of BAI at different concentrations for $7 2 \\mathrm { { h } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ .Samples without BAI or toxin were established as controls.Cytotoxicity was evaluated by measuring lactate dehydrogenase(LDH) release using the cytotoxicity detection kit(LDH)(Roche,Basel, Switzerland) according to the manufacturer's directions.Plates were read ona microplate reader(Tecan, Austria)at $4 9 0 ~ \\mathrm { n m }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ethics statement.All animal studies were performed according to the Regulations for the Administration of Affairs Concerning Experiments Animals (1988.11). The experimental protocols were approved and supervised by the Institutional Animal Care and Use Committee (IACUC) of Jilin University. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mice injection protocols.Assays for lethality,clinical chemistry,histopathology,and cytokine secretion were performed to detect the ability of BAI to protect mice from rStx2.Eight-week-old BALB/c mice weighing 16 to $1 8 \\mathrm { ~ g ~ }$ were obtained from the Experimental Animal Center of Jilin University (Changchun,China).Mice were injected intraperitoneally with $1 0 0 \\mu \\mathrm { l }$ of either sterile PBS or various amounts of rStx2.For mortality studies,each mouse was injected with a single dose of rStx2 at $1 0 0 ~ \\mathrm { n g }$ (about twice the dose required for killing $5 0 \\%$ of the animals $\\mathrm { [ L D _ { 5 0 } ] }$ (see Table S2 in the supplemental material); for other studies,mice were administered a single dose of rStx2 ( $\\mathrm { 5 0 n g }$ per mouse).For mortality studies, the infected mice were treated with $1 0 0 \\mathrm { m g B A I / k g }$ of body weight subcutaneously $6 \\mathrm { h }$ after injection and then at 6-h intervals fora total of 6 days. Mice were weighed at 24-h intervals for 8 days after receiving all the treatments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hematology and clinical chemistry analysis.For blood studies,mice were euthanized and blood was collected $^ { 7 2 \\mathrm { ~ h ~ } }$ after toxin injection. For blood urea nitrogen(BUN) and serum creatinine $( \\mathrm { C r } )$ level analysis, blood samples were coagulated for $1 0 \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C }$ and then were centri",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dong et al. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2487692887ccb8b428d9859552710fe8fca88aa71b26b819ec58fd8b0c0739c0.jpg",
+        "img_caption": [
+            "FIG 2 Baicalin protects mice against lethality induced by rStx2. (A) Groups ( ${ \\bf \\dot { \\theta } } _ { n } = 1 0$ )of mice injected with rStx2 were treated with PBS solution or with BAI 6 htertoxiedlcodatei rtaisi rank test $P = 0 . 0 0 0 2$ for $1 0 0 \\mathrm { m g / k g }$ of BAI against rStx2). (B)Effects ofBAI on body weight caused by sublethal doses of rStx2.Groups ${ \\bf \\dot { \\rho } } _ { n } = 1 0$ )of mice receiving Stx2 or a control solution were administered BAI or $\\mathrm { P B S 6 h }$ after toxin injection.The body weight was monitored at $2 4 { \\cdot } \\mathrm { h }$ intervals for 8 days.Similar results were obtained from more than three independent experiments. $^ *$ $P < 0 . 0 5$ for rStx versus rStx plus BAI and PBS at day $6 ; { ^ { * * * } }$ $P < 0 . 0 1$ for rStx2 versus PBS at day 7 and for rStx2 versus rStx plus BAI and PBS at day 8. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "fugedat $2 , 9 0 0 \\times g$ for $1 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ to obtain serum.BUNand Cr levels were determined with a Hitachi 76oo biochemical analyzer.For hemoglobin level determinations, $1 0 0 \\mu \\mathrm { l }$ serum was used to obtain an absorbance from $3 0 0 \\mathrm { n m }$ to $6 0 0 \\mathrm { n m }$ with a spectrophotometer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Histopathology analysis.Mice receiving the different treatments were anesthetized and sacrificed by cervical dislocation $^ { 7 2 \\mathrm { ~ h ~ } }$ after rStx2 injection.Kidneys were removed and fixed in $1 \\%$ formalin.Fixed kidneys were then stained with hematoxylin and eosin (H&E) and were visualized by light microscopy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cytokine detection in kidneys.Kidneys were dissected from mice treated with the different regimens $7 2 \\mathrm { { h } }$ after toxin injection. Kidney tissues were homogenized in PBS buffer.After centrifugation,the supernatants were collected and stored at $- 2 0 ^ { \\circ } \\mathrm { C }$ until analysis.Cytokine levels were measured using an enzyme-linked immunosorbent assay(ELISA) by specific mouse ELISA kits (BioLegend,CA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cell-free translation assays for mutant proteins.Cell-free translation assays were performed as described above.Briefly,1 ng rStx2 was mixed with BAI at a concentration of $3 6 \\mu \\mathrm { M }$ ,and the mixture was then added to the reaction system according to the manufacturer's directions.After incubation for $9 0 \\mathrm { m i n }$ at $3 0 ^ { \\circ } \\mathrm { C }$ ina water bath, the reaction was terminated by placing the plates on ice and analyzed by the luciferase assay system. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis.The experimental data were assessed using independent Student's t test with SPSS 14.O statistical software (SPSS Inc., Chicago,IL),and a $P$ value less than O.O5 was considered statistically significant. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BAI protects against rStx2-induced cytotoxicity.BAI is able to neutralize the toxicity of ricin (2O).Because Stxs are also ribosome-inactivating enzymes,we first evaluated whether BAI is able to protect cultured cells caused by $\\operatorname { S t X } 2$ .To this end,we incubated various amounts of BAI with HeLa cells treated with $5 0 ~ \\mathrm { p g / m l }$ rStx2 and evaluated the integrity of cell membranes by measuring LDH release.In samples from mice that did not receive BAI, $8 2 . 9 6 \\%$ LDH release was detected (Fig.1B). Significant protection was detected when BAI was used at $4 . 5 \\mu \\mathrm { M }$ ,and maximal protection was achieved with $3 6 \\mu \\mathrm { M }$ under our experimental conditions (Fig. 1B). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Similar protection was achieved when BAI was mixed with $\\mathrm { r S t x } 2 3 0 \\mathrm { m i n }$ prior to addition to the cells under the same experimental conditions.Again, $4 . 5 ~ \\mu \\mathrm { M }$ BAI was able to significantly protect HeLa cells,and maximal protection was achieved when the concentration used was $3 6 \\mu \\mathrm { M }$ (Fig.1C). These results suggest that BAI is able to block the activity of the toxin,and this inhibitionlikelyoccurs bydirect interactions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stxs induce cell death by inhibiting protein synthesis.We thus employed the cell-free translation assay to evaluate the effects BAI on the inhibition of ribosomal activity.Under our experimental conditions, $3 6 ~ \\mu \\mathrm { M }$ BAI significant rescued protein synthesis in reactions received $1 \\mathrm { n g } \\mathrm { r } \\mathrm { S t x } 2$ (Fig.1D). Taken together, these results establish that BAI is able to neutralize the cytotoxicity of rStx2 invitro. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BAI significantly reduces rStx2-induced lethality in mice. The strong protective effects of BAI against rStx2-induced cytotoxicity in in vitro systems prompted us to explore its potential usefulness in therapeutics.To this end,we employed the mouse model for hemolytic-uremic syndrome (HUS) (9).Under our experimental conditions,a single dose $( \\sim 2 ~ \\mathrm { L D } _ { 5 0 } s ,$ $1 0 0 \\ \\mathrm { \\ n g }$ per mouse） of rStx2 caused $1 0 0 \\%$ animal deaths within 6 days (Fig. 2A).Mice receiving $\\mathrm { r } { \\mathrm { S t x } } 2$ alone showed tremors and ataxia2days postinjection,and death began to occur on the third day (Fig.2A). In mice receiving BAI subcutaneously at $6 \\mathrm { ~ h ~ }$ postexposure and subsequentlyat 6-hour intervals fora total of 23 doses,all at100 $\\mathrm { m g / k g }$ ,the death rate at day 6 was about $3 0 \\%$ (Fig. 2A), indicating that this compound can provide approximately $7 0 \\%$ protection. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We further evaluated the ability of BAI to protect against the weight loss caused by sublethal doses of rStx2 (9).BAI alone,even athighdoses,doesnot detectablyaffect mouse bodyweight over 8 days (24).In our experiments,mice injected with PBS or a single dose of rStx2 ( $\\mathrm { 5 0 ~ n g }$ per mouse) were monitored for body weight at 24-h intervals.In the treated group, $1 0 0 \\mathrm { m g / k g }$ BAI was administered $6 \\mathrm { { h } }$ after toxin injection and subsequently at 6-h intervals for 8 days.Untreated mice in the group injected with the toxin exhibited decreased food and water intake,body weight loss became apparent on day 3,and weights reached the lowest point at day 6 (Fig.2B).In agreement with the lethality protection results,BAI treatment delayed the occurrence ofbody weightloss for $2 4 \\mathrm { h }$ ; further,the severity of the loss was significantly lower throughout the experiment (Fig.2B).As expected,consistent with their normal health status,the body weights of control mice receiving PBS displayed detectable increases throughout the experiment (Fig. 2B). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Treatment with BAI improves renal function and blood pathology induced by rStx2. Severe renal damage is another symptom associated with Stxs toxicity(5);we thus performed a pathology study to evaluate whether BAI treatment can alleviate the manifestation of renal injury.Mice injected with $5 0 ~ \\mathrm { n g } ~ \\mathrm { r S t x } 2$ were administered BAI at $1 0 0 ~ \\mathrm { { m g / k g } }$ or witha PBS buffer $6 \\mathrm { ~ h ~ }$ after receiving the toxin and subsequently at $^ { 6 \\mathrm { - h } }$ intervals as described above.Kidneys from micein the different treatment groups were sectioned for pathological examination $^ { 7 2 \\mathrm { ~ h ~ } }$ after toxin injection.In mice not receiving BAI treatment,significant damage was observed in tubules,characterized by swelling and casts in the lumen; the glomerulus also appeared to be hyperemic and smaller (Fig.3A).Such renal injury was not observed in kidneys from mice treated with BAI after toxin challenge,which was similar to those from control animals not receiving the toxin (Fig.3A). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bab93fb234e61816ace8eb97c03f10b5ad4da150040026243b0bfa350a511e2.jpg",
+        "img_caption": [
+            "FG3Treatmieeou.aut rt miceleft)sdt Eachgrouposdso $( \\mathrm { C r } )$ （204号 (C) induced by rStx2.The blood of mice in the relevant groups was evaluated for BUN and $\\mathrm { C r }$ at $7 2 \\mathrm { { h } }$ after treatment.Each circle represents the BUN or Cr level from one mouse $( n = 5$ ).(D)Baicalintreatmentreduced thelevelof hemoglobin intheserum.Seraofrelevant mice wereevaluatedforhemoglobin spectootelts Stx2Kideeuc $^ { * * }$ $P < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To further determine kidney function after BAI treatment, we examined levels of blood urea nitrogen(BUN）and creatinine $( \\mathrm { C r } )$ ,the two important indicators of kidney function, $7 2 \\mathrm { { h } }$ after injection (9). The BUN level in mice receiving rStx2 was $6 . 5 6 \\pm$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0.32 mmol/liter.BAI treatment significantly reduced the BUN level $( 4 . 5 6 \\pm 0 . 2 8$ mmol/liter).In fact, this level is comparable to the $4 . 5 3 ~ \\pm ~ 0 . 4 3$ -mmol/liter concentration observed in control mice that were notinjected with the toxin (Fig.3B).Similar results were observed when $\\mathrm { C r }$ was measured (Fig. 3C). Significantly higher levels of hemoglobin were detected at $7 2 \\mathrm { { h } }$ in the serum of untreated mice that had been injected with the toxin; similarly, treatment with BAI led to reduction of hemolysis (Fig. 3D). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We also examined the levels of several relevant cytokines to determine whether BAI reduces inflammation accompanied by kidney damage.As expected,rStx2 caused elevated levels of interleukin $1 \\beta$ (IL-1β),IL-4,IL-6,tumor necrosis factor alpha(TNF$\\propto$ ),and gamma interferon (IFN-γ)(Fig.3E). Consistent with its effect in protecting kidney damage caused by Stx2, the levels of these cytokines significantly decreased in mice treated with BAI at $7 2 \\mathrm { h }$ after injection (Fig.3E).Taken together, these results indicate that BAI is able to effectively reduce the damage to the kidney caused byrStx2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/825904df493e2541d3530d87484a43d94d2464c5f0052b6c7655764c58fae1ec.jpg",
+        "img_caption": [
+            "FIG 4 Overlay of structures of ricin subunit A(cyan) and Shiga-like toxin 2 subunitA1 (purple).The crystal structures of RTAand Stx2Al are displayed in ribbon representation,with coils for $\\propto$ -helicesand arrows for $\\beta$ strands.BAI is superimposed in stick mode,with carbon and oxygen atoms in yellow and red, respectively. ",
+            "FGtru residuesreoidfontcodyrcturesresofothrotesodeloterspectieseqesitolstig $\\alpha / \\eta$ -helices and arrows representing $\\beta$ -strands. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BAI inhibits rStx2 activity by directly interacting with the toxin to induce protein oligomerization. Our results from both in vitro and in vivo experiments suggest that BAI exerts its protective activity by targeting rStx2 directly. Our previous study revealed that BAI inhibits the activity of ricin,another RIP,by inducing the A subunit of ricin (RTA） to form enzymatically less active oligomers (20).Given the fact that the activities ofRTA and Stx2aare highly similarand that these two toxins share high-level resemblance in their structures (Fig.4),we attempted to identify residues on Stx2 potentially involved in binding baicalin.Comparative structural analysis allowed us to identify Rl79,Q180, S183,El84,and V218 as candidate residues involved in the binding ofStx2 to BAI(Fig.5).We thus replaced each ofthese sites with an alanine residue and studied the relevant phenotypes associated with the mutant proteins.In HeLa cells,only the Q180A mutant lost considerable toxicity (Fig. 6A),and it was still sensitive to BAI. The Sl83A mutant maintained toxicity but was sensitive to BAI (Fig.6B).In contrast, the R179A,E184A,and V218A mutants retained toxicity similar to that of wild-type rStx2 (Fig. 6B). Importantly,all these mutations abolished or significantly reduced the sensitivity of rStx2 to BAI (Fig. 6B),suggesting the involvement of these residues in engaging BAI. Taken together, these results suggest that BAI interacts with Stx2a directly,probably by ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "β1 α1 2 β3 η1 eeeeeeeeeeeeee ee 1 10 20 30 40 50   \nRTA AD   \nStx2A1 eeeeeeeeeee β1 α1 β2 β3 β4 β4 β5 β6 7 α2 η2 β8 eeeeeee 60 7 80 90 100 110   \nRTA VELSNHAELSVTLALDVTNAYVVGYRAGNSAYEFHPDNQEDAEAITELFTDVQNRYTFAF   \nStx2A1 LDVYQARFDHLRLIIEQNNLYVAGFVNTATNTEYR FSDFTEISVPGVTTVSMTT ee β5 β6 β7 n1 8 α3 n3 α4 η4 α5 ceeeeeee ee ceeeeeeeeeee ee ceeeeeeeeeeeeeeeeee   \nRTA   \nStx2A1 DSs TMTRDASRAVLRFVTVTAEAL eeeeeeee eeeeeeeeeee ceeeeeeeeeeeee α2 9 α3 α4 α5 α6 \\*\\* \\*\\* α7 9 \\* eeeeeeeeeeee eeeeeeeeeeeeeeeeeee 180 190 200 210 220 230   \nRTA   \nStx2A1 GDVDLTLNWGRISNVLPEYRG..EDG VRVGR eeeeeeeeeeee → ee α6 n2 β10 α7 x8 n3 β11 β10 η5 \\* ee 240 250 260   \nRTA KFSVYDVSILIPIIALMVHRCAPPPSSQF   \nStx2A1 ISFNNISAILGTVAVILN. CH eeeeeee ↓ β12 α9 β13 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4705195429e5842331034c9965ef9a0de20f0ab5e21c6708886d7c1cb2c15564.jpg",
+        "img_caption": [
+            "FG6Validatitoleteacialtaesl byeteeo)lo heffets reactions without toxinorbaicalin.Alldata are means and standard errors from three independent experiments. $^ *$ 0 $P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "inducing the formation of oligomers with markedly reduced activity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pathogenic E.coli is one of the most common pathogens that often is contracted from contaminated food and wateras well as animal and human effluents (25).Shiga-like toxin (Stx)-producing E.coli (STEC),particularly enterohemorrhagic E.coli(EHEC）strains such as Ol57:H7,are a leading cause of outbreaks and sporadic cases of bloody diarrhea and hemolytic-uremic syndrome (HUS) (26).These infections pose grave challenges to public health. In the United States,265,0o0 STEC infections occur each year,of which about $3 6 \\%$ are caused by EHEC O157:H7.Although antibiotics can be used when oligoanuric HUS is established, the wide spread of resistance has threated the effectiveness of such treatments (6,27).Furthermore,in some cases,the problemis further is compounded by the fact that conventional treatments such as antibiotics aggravate symptoms (5,28). Thus, there is an urgent need for agents complementary to antibiotics that are clinically effective in treating diseases caused by these pathogens.With better understanding of how bacteria cause diseases,some new approaches based on our understanding of virulence mechanisms have been established in recent years (29).Among these,agents that target virulence factors hold great promise. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Shiga-like toxins(Stxs) are the key virulence factor associated with severe diseases caused by STEC infections,and Shiga-like toxin 2(Stx2) is the primary virulence factor for HUS(30). Stx2 thus has been recommended as a potent target for drug development (15).Recently,several excellent reports described the identification of novel small-molecule inhibitors and the development of specific antibodies against Stx2.Significant achievements have been made in therapies against STEC infections using specific neutralizing monoclonal antibodies,and several antibodies have been tested in phase Iclinical trials (14,25,31). Small-molecule inhibitors presumably have some advantages over neutralizing antibodies,such as having a lower cost,being relatively easier to store and transport among differentlocations,and being less likely to be contaminated.To date,only two small-molecule inhibitors for Stx2 toxicity had been described. These compounds,called Retro-l and Retro-2,have been shown to protect mice from ricinand Stxl-induced lethality (18).However, to achieve the protection,the animals need to receive these compounds at least $^ \\textrm { \\scriptsize 1 h }$ prior to toxin exposure (18). Clearly,these inhibitors are not appropriate for therapeutic purposes,where the treatmentof infection or toxin exposure is the focus.Furthermore,these two compounds function by targeting the retrograde trafficking of the host cells (18), the potential side effects of which are unknown. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our identification of baicalin(BAI) as an inhibitor for the activity of Stx2 and the observation that this compound at a low concentration is able to significantly protect mice from toxininduced mortality after toxin exposure represent a significant step forward in this research direction.The successful use of the structure information of the ricin-BAI complex to identify the key residues on Stx2 important for its interactions with BAI suggests that BAI targets Stx2 with a similar mechanism,namely,induction of protein oligomerization to occlude its active site (20).These results also suggest that chemical modification of BAI to obtain moleculeswith higheraffnity for the toxins is feasible and clearly is a direction worth pursuing in future research.Moreover,BAI is reported as a safe agent in mice; the dosage can reach $1 5 ~ \\mathrm { g / k g }$ of body weight when administered intragastrically and $2 . 7 4 ~ \\mathrm { g / k g }$ of body weight when injected intraperitoneally (24,32). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Given the similarity in the mechanism of action between ricin andStxs, the activity ofBAI against Stx2 is not completelyunexpected.Because toxin released from dead bacteria killed by antibiotics can potentially compound the disease symptoms,agents that target the toxin directly will be very beneficial. It will be interesting to determine howa combination of antibiotics and BAI functions in the treatment ofHUS and other infectious diseases caused by Stx toxin-producing pathogens.Because BAI directly targets the toxin released by the bacteria killed by the antibiotics, such a treatment regimen may be more efficacious than BAI administered alone. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Basic Research Program of China (grant 2013CB127205 to X.D.),the National Nature Science Foundation of China (grant 31130053 to X.D.),and the National 863 program (grant 2012AA020303). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We declare that no competing interests exist. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.Grifin PM,Tauxe RV.1991.The epidemiology of infections caused by Escherichia coli O157:H7,other enterohemorrhagic E.coli,and the associated hemolytic uremic syndrome.Epidemiol Rev 13:60-98. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. O'Brien AD,LaVeck GD,Thompson MR,Formal SB.1982.Production of Shigella dysenteriae type 1-like cytotoxin by Escherichia coli.J Infect Dis 146:763-769. http://dx.doi.org/10.1093/infdis/146.6.763.   \n3.O'Brien AD,Holmes RK.1987. Shiga and Shiga-like toxins.Microbiol Rev 51:206-220.   \n4.Tesh VL,Burris JA,Owens JW,Gordon VM,Wadolkowski EA,O'Brien AD,Samuel JE.1993.Comparison of the relative toxicities of Shiga-like toxins type Iand type II for mice.Infect Immun 61:3392-3402.   \n5.Zhao YL,Cen XB,Ito M,YokoyamaK,Takagi K,Kitaichi K,Nadai M, Ohta M,Hasegawa T.2oo2.Shiga-like toxin I derived from Escherichia coli O157:H7 modifies renal handling of levofloxacin in rats.Antimicrob Agents Chemother 46:1522-1528.http://dx.doi.org/10.1128/AAC.46.5 .1522-1528.2002.   \n6.Davis TK,McKee R,Schnadower D,Tarr PI.2013. Treatment of Shiga toxin-producing Escherichia coli infections.Infect Dis Clin North Am   \n27:577-597. http://dx.doi.org/10.1016/j.idc.2013.05.010.   \n7.Melton-Celsa A,Mohawk K,TeelL,O'Brien A.2012.Pathogenesis of Shiga-toxin producing Escherichia coli. Curr Top Microbiol Immunol   \n357:67-103.http://dx.doi.org/10.1007/82_2011_176.   \n8.Louise CB,Kaye SA,Boyd B,Lingwood CA,Obrig TG.1995.Shiga toxin-associated hemolytic uremic syndrome: effect of sodium butyrate on sensitivity of human umbilical vein endothelial cels to Shiga toxin. Infect Immun 63:2766-2769.   \n9.Sauter KA,Melton-Celsa AR,Larkin K,Troxell ML,O'Brien AD, Magun BE.2oo8.Mouse model ofhemolytic-uremic syndrome caused by endotoxin-free Shiga toxin 2 (Stx2) and protection from lethal outcome by anti-Stx2 antibody. Infect Immun 76:4469-4478. http://dx.doi.org/10 .1128/IAI.00592-08.   \n10.Stearns-Kurosawa DJ,Collins V,Freeman S,Tesh VL,Kurosawa S.   \n2010.Distinct physiologic and inflammatory responses elicited in baboons after challenge with Shiga toxin type l or 2 from enterohemorrhagic Escherichia coli. Infect Immun 78:2497-2504. htp://dx.doi.org/10.1128 /IAI.01435-09.   \n11. Olsnes S, Reisbig R,Eiklid K.1981. Subunit structure of Shigella cytotoxin.JBiol Chem 256:8732-8738.   \n12.Yamasaki C,Natori Y, Zeng XT,Ohmura M, Yamasaki S,Takeda Y.   \n1999.Induction of cytokines in a human colon epithelial cell line by Shiga toxin 1(Stxl) and Stx2 but not by non-toxic mutant Stxl which lacks N-glycosidase activity. FEBS Lett 442:231-234. http://dx.doi.org/10.1016 /S0014-5793(98)01667-6.   \n13．Silberstein C,Lucero MS,Zotta E,Copeland DP,Lingyun L,Repetto HA,Ibarra C.2011.A glucosylceramide synthase inhibitor protects rats against the cytotoxic effects of shiga toxin 2.Pediatr Res 69:390-394. http: //dx.doi.0rg/10.1203/PDR.0b013e318211dd57.   \n14.Wahome PG,Robertus JD,Mantis NJ.2012. Small-molecule inhibitors of ricin and Shiga toxins.Curr Top Microbiol Immunol 357:179-207. http://dx.doi.org/10.1007/82_2011_177.   \n15.Pang YP,Park JG,Wang S,Vummenthala A,Mishra RK,McLaughlin JE,DiR,Kahn JN,Tumer NE,Janosi L,Davis J,Millard CB.2011. Small-molecule inhibitor leads of ribosome-inactivating proteins developed using the doorstop approach. PLoS One 6:e17883. http://dx.doi.org /10.1371/journal.pone.0017883.   \n16.Fraser ME,Fujinaga M,Cherney MM,Melton-Celsa AR,Twiddy EM, O'Brien AD,James MN.2004.Structure of shiga toxin type 2(Stx2) from Escherichia coli O157:H7.JBiol Chem 279:27511-27517.http://dx.doi .org/10.1074/jbc.M401939200.   \n17. Miller DJ,Ravikumar K, Shen H, Suh JK,Kerwin SM,Robertus JD.   \n2002.Structure-based design and characterization of novel platforms for /10.1021/jm010186s.   \n18. Stechmann B,Bai SK,Gobbo E,Lopez R,Merer G,Pinchard S,Panigai L,Tenza D,Raposo G,Beaumelle B, Sauvaire D,GilletD, Johannes L, Barbier J.2010. Inhibition of retrograde transport protects mice from lethal ricin challenge. Cell 141:231-242.http://dx.doi.org/10.1016/j.cell .2010.01.043.   \n19.Bassik MC,Kampmann M,Lebbink RJ,Wang S,Hein MY,Poser I, Weibezahn J,Horlbeck MA,Chen S,Mann M,Hyman AA,Leproust EM,McManus MT,Weissman JS.2013.A systematic mammalian genetic interaction map reveals pathways underlying ricin susceptibility. Cell152:909-922.http://dx.doi.org/10.1016/j.cell.2013.01.030.   \n20.Dong J, Zhang Y,Chen Y,Niu X, LiR, Yang C,Wang Q,Li X,Deng X.2015.Baicalin inhibits the lethality of ricin in mice by inducing protein oligomerization.J Biol Chem 290:12899-12907. http://dx.doi.org/10 .1074/jbc.M114.632828.   \n21.Tu W,Cai K,Gao X,Xiao L,Chen R, ShiJ,Liu H,Hou X,Wang Q, Wang H. 20o9.Improved production of holotoxin Stx2 with biological activities by using a single-promoter vector and an auto-induction expression system.Protein Expr Purif 67:169-174.http://dx.doi.org/10.1016/j .pep.2009.05.005.   \n22.Endo Y,Tsurugi K.1987. RNA N-glycosidase activity of ricin A-chain. Mechanism of action of the toxic lectin ricin on eukaryotic ribosomes. J Biol Chem 262:8128-8130.   \n23.Challa S,Tzipori S,Sheoran A.2014.Selective evolution of ligands by exponential enrichment to identify RNA aptamers against Shiga toxins.J Nucleic Acids 2014:214929.http://dx.doi.0rg/10.1155/2014/214929.   \n24.Zhang X,Cheng Q, ZhangY.2oo6.Acute toxicity test of baicalin capsule in mice. JMed Res 35:17-19.   \n25.Tzipori S,Sheoran A,Akiyoshi D,Donohue-Rolfe A,Trachtman H. 2004.Antibody therapy in the management of shiga toxin-induced hemolytic uremic syndrome.Clin Microbiol Rev 17:926-941.http://dx.doi.org /10.1128/CMR.17.4.926-941.2004.   \n26.Matussek A,Lauber J, Bergau A,Hansen W,Rohde M, Dittmar KE, Gunzer M,Mengel M,Gatzlaff P,Hartmann M,BuerJ,Gunzer F.2003. Molecular and functional analysis of Shiga toxin-induced response patterns in human vascular endothelial cels.Blood 102:1323-1332. http://dx .doi.org/10.1182/blood-2002-10-3301.   \n27.Beceiro A,Tomas M,Bou G.20l3.Antimicrobial resistance and virulence:a successful or deleterious association in the bacterial world? Clin Microbiol Rev 26:185-230.http:/dx.doi.org/10.1128/CMR.00059-12.   \n28．Wong CS,Jelacic S,Habeeb RL,Watkins SL,Tarr PI.2OOo.The risk of the hemolytic-uremic syndrome after antibiotic treatment of Escherichia coli O157:H7 infections.N Engl JMed 342:1930-1936. http://dx.doi.org /10.1056/NEJM200006293422601.   \n29.Clatworthy AE,Pierson E,Hung DT.2Oo7. Targeting Virulence: a new paradigm for antimicrobial therapy.Nat Chem Biol 3:541-548.http://dx .doi.org/10.1038/nchembio.2007.24.   \n30．Slutsker L,Ries AA,Maloney K,Wells JG,Greene KD,Griffin PM. 1998.A nationwide case-control study of Escherichia coli O157:H7 infection in the United States.J Infect Dis 177:962-966. http://dx.doi.org/10 .1086/515258.   \n31.Bitzan M,Poole R,Mehran M, Sicard E, Brockus C,Thuning-Roberson C,Riviere M.2009.Safety and pharmacokinetics of chimeric anti-Shiga toxin 1 and anti-Shiga toxin 2 monoclonal antibodies in healthy volunteers.Antimicrob Agents Chemother 53:3081-3087.http://dx.doi.org/10 .1128/AAC.01661-08.   \n32. Zhang X,Cheng Q, Shen P,Yan W,Li $\\scriptstyle { \\mathbf { Q } } ,$ Wang F, He Q. 2007. Empirical study on safety and acute toxicity of baicalin injection.JMed Res 36:15-21. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,500 @@
+[
+    {
+        "type": "text",
+        "text": "Identification and functional characterization of the AGO1 ortholog in maize ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dongdong Xu, Hailong Yang, Cheng Zou, Wen-Xue Li, Yunbi Xu and Chuanxiao Xie\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "InstituteofCroence,CeeAcademyofgricturalSiences,ejingoCina.oespodence:ieani@a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractEukaryotic Argonaute proteins play primary roles in miRNA and siRNA pathways that are essential for numerous developmental andbiological processes. However， the functional roles of the four ZmAGO1 genes have not yet been characterized in maize (Zea mays L.).In the present study，ZmAGO1a Was identified from four putative ZmAGO1 genes for further characterization.Complementation of the Arabidopsis ago1-27 mutant with ZmAGO1a indicated that constitutive overexpression of ZmAGO1a could restore the smaller rosette,serrated leaves,later floweringand maturation,lower seed set,and darker green leavesat late stages of the mutant to the wild-type phenotype.The expression profiles of ZmAGO1a under five different abiotic stresses indicated that ZmAGO1a shares expression patterns similar to those of Argonaute genes in rice,Arabidopsis,and wheat. Further，variation in ZmAGO1a alleles among diverse maize germplasm that resulted in several amino acid changes revealed genetic diversity at this locus.The present data suggest that ZmAGO1a might be an important AGO1 ortholog in maize.The results presented provide further insight into the function of ZmAGO1a. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:AGO1; functional complementation; maize; ZmAGO1d Citation: Xu D,Yang H, Zou C,Li WX,Xu Y,Xie C (2o16) Identification and functional characterization of the AGO1ortholog in maize.J Integr Plant Biol XX:XX-XX doi: 10.111/jipb.12467   \nEdited by:Hailing Jin,University of California,Riverside,USA   \nReceived Nov.21,2015;Accepted Feb.1,2016   \nAvailable online on Feb.5，2016 at www.wileyonlinelibrary.com/ journal/jipb   \n$\\mathfrak { O }$ 2016 The Authors.Journal of Integrative Plant Biology published by John Wiley & Sons Australia,Ltd on behalf of Institute of Botany, Chinese Academy of Sciences   \nThis is an open access article under the terms of the Creative Commons Attribution License,which permits use,distribution and reproduction in any medium,provided the original work is properly cited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Argonaute (AGO) proteinsare key mediators of all small-RNAguided gene-silencing processes involving $\\approx 2 1 - 2 6$ nt short RNAs (sRNAs)that are cleaved from double-stranded or partially double-stranded RNAs by the RNase Ill enzyme Dicer (Baulcombe 20o4; Meister 2013). As key components of the RNA-induced silencing complex (RISC),Argonaute proteins guide sRNAs to specific targets through sequence complementarity，leading to cleavage of target mRNA sequences,translational repression,or chromatin modification (Baumberger and Baulcombe 2oo5).Through their crucial roles in the regulation of eukaryotic gene expression,AGO proteins broadly participate in numerous biological processes, including developmental timing，cell differentiation， cell proliferation,cell death,metabolic control, immunity,transposon silencing,alternative splicing,and DNA repair,among other processes (Wei et al.2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Argonautes are large proteins,approximately 9o-1oo kDa, consisting of one variable N-terminal domain and conserved Cterminal PAZ (Piwi-Argonaute-Zwille),Mid,and PIWl domains (Tolia and Joshua-Tor 2oo7; Hutvagner and Simard 2oo8).AGO protein families generally can be classified into three groups in view of their phylogenetic relationships and capacity to bind to sRNAs (Vaucheret 2oo8).These include the AGO proteins that bind to miRNAs and siRNAs, the PIWl proteins that bind to piRNAs,and the proteins that bind to secondary siRNAs that have only been described in C. elegans (Yigit et al. 2006). As for crop plants,a total of 19 Argonaute genes in rice (Oryza sativa) and 15 in tomato (Solanum lycopersicum) have been ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "35S CaMV35S promoter   \nAGO Argonaute protein   \nCol o Arabidopsis thaliana (L.)ecotype Colombia   \nDUF domain of unknown function   \nHMM Hidden Markov Model   \nLow N low nitrate   \nLow P low phosphate   \nMid middle domain   \nmiRNA microRNA   \nMS Murashige and Skoog nutrient   \nMu Mu transposon   \nNCBI the National Center for Biotechnology Informa",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "tion NJ neighbor-joining PAZ Piwi-Argonaute-Zwille PEG polyethylene glycol piRNAs Piwi-interacting RNA PPFD photosynthetic photon flux density qRT-PCR quantitative real time PCR QTL quantitative trait loci RISC RNA-induced silencing complex RNAi RNA interference siRNA small interference RNAs RNAs short or small RNAs wt wild-type ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "identified (Kap0or et al. 20o8；Bai et al． 2012). Among Argonaute proteins characterized so far,AGO1 plays essential roles in miRNA and siRNA pathways (Vaucheret 2008). AtAGO1 mediates cleavage of target mRNAs，which is the main proposed mechanism of plant miRNA action.The AtAGO1-RISC complex has also been found to repress translation initiation (lwakawa and Tomari 2o13). Indeed, complementation analysis of ago1 mutant plants revealed that the catalytic residues of AtAGO1 are required to restore the normal wild-type phenotype to the ago1 mutant, suggesting that the Slicer activity of AtAGO1 is essential for plant development (Carbonell et al.2o12). Complementation of Arabidopsis ago1 mutants with genes from other higher plant species that also encode AGO1 and with the other alleles of ZmAGO1 should be an effective way to examine the function of the ZmAGO1 genes we identified. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The organization of genes encoding AGO1 in the genome differs among species,even though AGO1 plays important roles in similar important developmental,immunity，and other biological processes.For example，the Arabidopsis genome contains a single AGO1 gene，but the protein it encodes shares some functional redundancies with other AGO proteins.For example，AtAGO1o shows functional redundancies with AGO1 during at least some aspects of development (Lynn et al.1999).In contrast, four AGO1 genes have been found in rice that exhibit some functional redundancies and specialization (Wu et al.2oo9). In previous Work on maize AGO proteins,18 AGO genes were identified in the maize genome by Hidden Markov Model (HMM) analysis (Qian et al.2o11). The temporal-spatial expression patterns of 17 of these AGO genes were analyzed to identify meiosis-specific AGO proteins in maize.A meiosis-expressed AGO protein (ZmAGO18b) was specifically expressed during meiosis in pollen mother cells in maize and was enriched in the tapetum and germ cells of meiotic anthers (Zhai et al. 2014).Maize AGO1o4 was found to be required for the generation of male and female spores through meiosis,and to act in repression of somatic fate in germ cells (Singh et al. 2011).Four maize AGO1 genes have been predicted in other studies (Qian et al.201; Zhai et al. 2014),but it has been unclear whether these genes could be annotated as encoding functional AGO1 proteins.Here，we focused on ZmAGOia to analyze its expression pattern in response to abiotic stress， its functional complementation ofan ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Arabidopsis ago1 mutant,and the DNA sequence variation in this gene among diverse maize germplasm.The data and results presented here provide further insights into the expression and function of the AGO1 protein and the sequence diversity within this gene in maize. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ldentification of Argonaute 1 genes in maize ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Four putative Zea mays ZmAGO1 genes (Table 1),encoding both PAZ and PiWl domains,were predicted using an online DELTA-BLAST tool against the maize genome (Zea mays, (Taxld:4577)) at http://blast.ncbi.nlm.nih.gov/Blast.cgi. The predicted results were consistent with previous studies (Qian et al. 2011; Zhai et al. 2014) that identified GRMZM2G361518,which had been designated ZmAGO1d by Qian et al. (2o11)，but was named ZmAGO1f by Zhai et al. (2014).The genomic location，intron/exon structure,and cDNA length of this gene have been reported previously (Qian et al. 2011; Zhai et al. 2014),but its genomic location has changed due to updates to the maize genome sequence. Based on the existing functional annotations,four OsAGO1 genes from rice,one AtAGO1 gene from Arabidopsis,and one TaAGO1 gene from wheat were chosen for analysis of their phylogenetic relationships with the four predicted putative ZmAGO1 genes. Phylogenetic analyses revealed a close evolutionary relationship among the predicted Zea mays AGO1 genes with those from rice,wheat，and Arabidopsis (Figure 1A). Among these AGO-encoding genes, those from monocot species，ZmAGO1a，OsAGO1a，and TaAGO1b，were clustered together,indicating their relatively closer evolutionary relationship.Motif Scan (See Materials and Methods.)was used to search for conserved motifs across these known and putative AGO1 genes.Motif scanning revealed that these genes，except for OsAGO1c and TaAGO1b，all contain PIWI,PAZ,DUF1785,and Gly-rich domains (Table 1). The four AGO1 genes in rice appear to be functionally redundant in the miRNA pathway (Wu et al. 2oo9). The genomic organization，phylogeny，and conserved domains of the ZmAGO1 genes suggested that the maize genes might share a function similar to that of the rice AGO1 genes.The expression profiles of four ZmAGO1 genes (Figure 1B) among different organs or tissues including seedling leaves and roots，young ear，polinating tassels，and flowering silks revealed that ZmAGO1a had the highest expression levels across those observed organs or tissues,indicating it is the primary member of the families.In addition,the phylogenetic and expression profiling analyses suggest that functionalcharacterizationshouldfocusinitiallyon ZmAGO1a. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e8e11e49d6458fbf4f390a5825a6ef3f2f4e2a8c11ebf978e7250a1aea83920.jpg",
+        "table_caption": [
+            "Table 1.Conserved motifs among AGO1 gene homologs across maize,rice,wheat,and Arabidopsis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td colspan=\"6\">Amino acid sequence regions of conserved motifs</td></tr><tr><td>Gene name</td><td>Accession number</td><td>PIWI</td><td>PAZ</td><td>DUF1785</td><td>Gly-rich</td><td>Gln-rich</td><td>Pro-rich</td></tr><tr><td>AtAGO1</td><td>AT1G48410</td><td>678-999</td><td>389-526</td><td>336-388</td><td>13-108</td><td>33-168</td><td>一</td></tr><tr><td>ZmAGO1a</td><td>GRMZM2G441583</td><td>728-1050</td><td>438-575</td><td>385-437</td><td>8-148</td><td>1</td><td>48-181</td></tr><tr><td>ZmAGO1b</td><td>AC209206.3_FG011</td><td>723-1042</td><td>424-570</td><td>371-423</td><td>8-132</td><td>180-201</td><td>1</td></tr><tr><td>ZmAGO1C</td><td>GRMZM2G039455</td><td>708-1029</td><td>418-555</td><td>365-417</td><td>13-126</td><td>1</td><td>1</td></tr><tr><td>ZmAGO1d</td><td>GRMZM2G361518</td><td>653-974</td><td>360-498</td><td>307-359</td><td>20-86</td><td>1</td><td>1</td></tr><tr><td>OsAG01a</td><td>LOC_Os02g45070</td><td>709-1030</td><td>419-556</td><td>366-418</td><td>29-130</td><td>1</td><td>1</td></tr><tr><td>OsAGO1b</td><td>LOC_Os04g47870</td><td>746-1067</td><td>456-593</td><td>403-455</td><td>25-164</td><td>212-233</td><td>1</td></tr><tr><td>OsAGO1c</td><td>LOC_Os02g58490</td><td>638-959</td><td>351-485</td><td>298-350</td><td>1</td><td>32-66</td><td>1</td></tr><tr><td>OsAGO1d</td><td>LOC_Os06g51310</td><td>669-990</td><td>379-516</td><td>326-378</td><td>10-55</td><td>1</td><td>一</td></tr><tr><td>TaAGO1b</td><td>AGB34310.1</td><td>497-818</td><td>207-344</td><td>154-206</td><td>1</td><td>1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/021cb3fed33122a5221798fe766d9e213bc581a35d8d5c5b3c3781bd7b7c065b.jpg",
+        "img_caption": [
+            "Figure1.Phylogeneticanalysis (A)offour predicted Zea maysAGO1 genes (ZmAGOia-1d)and their expressionpattern (B) in selected organs in different developmental stages (A)AtAGO1,Arabidopsis AtAGO1;ZmAGOa,b,1cand1dwereAGOgenes inmaize; OsAGO1a,1b,1c,dwereAGO1gee ice; TaAGOib,wheat AGOib.(B)Seedling leaves,3-week maize seeding leaves;Seedling roots,3-week maize seeding roots; Young ear,maize immatureearinflowering;Tasels,maizeflowering maleinflorescence;Silks,maizeflowering(silking)silksinyoung ear. Note: The AGO1 gene accessions are listed in Table 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Complementation of Arabidopsis ago1-27 with ZmAGO1a ZmAGO1a has a gene structure typical of AGO1 genes (Figure 2A).The full-length ZmAGO1a cDNA from Ye478,an important temperate inbred maize line from China，was isolated to construct a constitutive overexpression vector driven by the CaMV35S (35S) promoter (Figure 2B) in an Arabidopsis ago1-27 mutant in the Columbia (Col) background (Figure 2C). Plants derived from three independent transformation events,lines 16,19 and 21,the Arabidopsisago1-27 mutant,and Arabidopsis Col wild-type (wt) plants were grown in the same culture medium and under the same conditions (Liu et al.2o14） to compare their phenotypes (Figure 2C,D,E).As ina previous study (Morel et al.2oo2), the ago1-27 mutant developed smaller rosettes with darker green, serrated,narrower leaves; initiated flowering in 7-12 d;and produced around $\\approx 5 0 \\%$ of the seeds with typical wild type (Figure 2C,D,E; Table 2). At the seedling stage (Figure 2C), ZmAGO1a overexpression lines had larger leaves with shallower serrated leaf edges compared to the ag01-27 mutant,but its leaf color was darker green than that of wild type (Figure 2C; Table 2). All 35S::ZmAGO1a-transformed lines had significant differences in leaf length and width from the ago1-27 mutant,indicating larger leaves and rosettes than in the mutant (Table 2).As shown by the leaf length/width (A) ZmAGO1a gene structure.Empty rectangles,untranslated region $( 5 ^ { \\prime }$ or $3 ^ { \\prime }$ UTR)；Black rectangles，exons；Fold lines， introns； 8451bp， totalgenomicDNA length; AGPv3:6:43253105:43261555:1， maize gen0me ver3 physical region annotation.(B) The p35S::ZmAGO1a construct in which the ZmAGO1a cDNA was expressed under the control of CaMV35S promoter (35S) and NOS terminator(Tnos).Hollow arrows with the text“35S” inside indicated CaMV35S promoter.Bar，glufosinate ammonium resistance selection marker;35S-PloyA,CaMV35S polyA signal sequence; LB and RB, T-DNA left and right borders.Vertical arrows indicated the restriction sites.(C） Phenotypic comparison of seedlings among the wild type，ago1-27 and ago1-27 carrying p35S:: ZmAGO1a construct.(D) Phenotypic comparison at the flowering stage among the wild type，ago1-27 and ag01-27 carrying p35S::ZmAGO1a construct (note: the ago mutant flowered later). (E) Phenotypic comparison at the mature state among the wild type,ago1-27 and ago1-27 carrying p35S:: ZmAGO1a construct (note: the ago mutant matured later.) C-E:wt,wild type Arabidopsis thaliana (L.) Colombia (Col-o); ag01-27,Arabidopsis thaliana (L.) ago1-27 mutant in the Col-o background; line 16,19,and 21: three independent homozygous ago1-27 T3 lines transformed with 35S::ZmAGO1a. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/67ed6c4a967a2f52ed96d83c83b8b93fdd62d2edb5bb4c7009effd3268eb2d69.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/00228acd20ba1ee9fc319509c0585f6124cb6d24d322c3ac8a468acdbc84f983.jpg",
+        "img_caption": [
+            "Figure 2. The effect of constitutive expression of ZmAGO1a in ag01-27of Arabidopsis "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ratio,the mutant had narrower leaves than the wild type and the 35S::ZmAGO1a-transformed lines.Most of the phenotypic traits of the 35S::ZmAGO1a-transformed lines,except for leaf colorat the seedling stage,were comparable to those of wild type.However,the darker green leaf color disappearedat the flowering stage (Figure 2D; Table 2). ZmAGO1a overexpression lines 16,19,and 21 appeared more similar to wild type at flowering time in terms of plant height,leaf number,and leaf color.However, these lines matured about 12d earlier,and hadhigher silique numbers per plant and fertile seeds compared with the ago1-27 mutant (Figure 2D,E;Table 2). Thus,constitutive overexpression of ZmAGO1a in the ag01-27 mutant could nearly rescue the hypomorphicago1-27 mutant phenotype. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f3ad41781801b791add3e78e1c47839e58c26fb1ac84b809f87e6a000edf6f96.jpg",
+        "table_caption": [
+            "eseeeteeeeeeee ",
+            "trlgieregenirersiel ",
+            "srrel uo sedrtoreed "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td>Leaf</td><td>Margin</td><td colspan=\"4\"> Stages with dark</td><td>Days to</td><td>Days to</td><td colspan=\"2\"></td></tr><tr><td>Line</td><td>Genotype</td><td>No.</td><td>serration</td><td>green leaves</td><td>Length (cm)</td><td>Width (cm)</td><td>Length/width flower</td><td></td><td>maturity</td><td>Silique count</td><td>Seed count</td></tr><tr><td>ag01-27</td><td>Columbia AtAGO1 mutant</td><td>7</td><td>+++</td><td>vegetative and reproductive stages</td><td>1.14± 0.03 C*</td><td>0.53±0.02 C*</td><td>2.2±0.09 A*</td><td>wt+12</td><td>wt+12</td><td>32.4±1.83 B*</td><td>1458±82.5 B*</td></tr><tr><td>16</td><td>ag01-27 with 35S:: ZmAGO1a</td><td>10</td><td>+</td><td>only at vegetative</td><td>1.34 ± 0.03 B*</td><td>0.80±0.02 B* 1.7±0.05 B*</td><td></td><td>wt+2</td><td>Wt+1</td><td>46.4±1.50 A*</td><td>2088±67.6A*</td></tr><tr><td>19</td><td>ag01-27 with 35S:: ZmAGO1a</td><td>10</td><td>+</td><td>stage only at vegetative</td><td>1.49±0.03A* 0.92±0.03A* 1.6±0.03 B*</td><td></td><td></td><td>wt+1</td><td>Wt+1</td><td>46.6 ±1.40 A*</td><td>2097±63.0A*</td></tr><tr><td>21</td><td>ag01-27 with 35S: ZmAGO1a</td><td>10</td><td>+</td><td>stage only at vegetative</td><td></td><td>1.50±0.04A* 0.90±0.02A* 1.7±0.02 B*</td><td></td><td>wt+1</td><td>Wt+1</td><td>47.4±0.87A*</td><td>2133±39.2A*</td></tr><tr><td>wt</td><td>Columbia Co (wild</td><td>11</td><td>一</td><td>stage Control</td><td></td><td>1.58±0.03A* 1.00±0.02A* 1.6±0.04 B*</td><td></td><td>wt</td><td>wt</td><td>48.0±3.89A*</td><td>2160±174.9A*</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To provide a full view of the functional complementation of Arabidopsis ago1-27 by ZmAGO1a,profiles of the restored phenotypes of transformants from the T1and T2 generations are shown in Figure 3.Of $\\sim 2 , 3 0 0$ transformed T1 seeds screened，21 bialaphos-resistant plants were recovered and confirmed for the presence of the integrated transgene using polymerase chain reaction (PBR).The phenotypes of eight of 21 T1 lines were fully rescued (Figure 3A),and 13 of them exhibited partially restored phenotypes for leaf color,leaf morphology,or both (Figure 3A).The phenotype of four T2 lines (Figure 3B) including three selected T3 homozygous lines (Figure 2C,D，E) was well restored. Theresult shows that the functional complementation was quite stable both within individual lines and across generations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Expression of ZmAGO1a among ZmAGO1a transformants and expression of endogenous AtAGO1 in the ago1-27 mutant and wild type ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To analyze the expression of ZmAGO1 and native AtAGO1, quantitative analyses of relative mRNA expression levels of the AGO1 gene were performed on each independent ZmAGO1a transformant Arabidopsis line,and on the Arabidopsis ago1-27 mutant and wild type.The expression of ZmAGO1 relative to alpha-Tubulin 4，the internal reference gene,was over 2ooo-fold higher in the Arabidopsis ZmAGO1a transformant lines 16,19,and 21,compared to the same internal reference gene in the ago1-27 mutant and wildtype Arabidopsis (Figure 4A).These results indicate that the ZmAGOia transgene was expressed at high levels across different tissues when transformed into the Arabidopsis ago1- 27background.However，the expression of endogenous AtAGO1 was 3.7-fold higher in ago1-27 than in Col wild type (Figure S1).This result was consistent with a previous study suggesting that the single-nucleotide mutation in AtAGO1 results in compensatory overexpression of the AtAGO1a mRNA and AtAGO1 protein in the ago1-27 background (Mallory et al.2oo9).Such mRNA overexpression was also observed among the Arabidopsis ZmAGO1a overexpression lines. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Expression profiles of ZmAGO1a in response to diverse abiotic stresses in maize ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To generate an expression profile of ZmAGOia to analyze the role(s) of this gene during abiotic stress responses, five diverse abiotic stresses,including dehydration (polyethylene glycol (PEG） treatment)，salt (NaCl)，ABA，low nitrate (low N) and low phosphate (low P)，were applied at the seedling stage as described in Materials and Methods.Young leaves,the organs with the highest level of ZmAGO1aexpression at this stage，were chosen for analysis of ZmAGO1a expression in response to these abiotic stresses. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ZmAGO1a was differentially expressed in leaves under different stress conditions.ZmAGO1a expression was slightly upregulated under low N，low P，and PEG treatment, increasingby 1.74-， 1.04-， and 1.16-fold， respectively, (Figure 4B).A previous analysis in rice indicated that expression of the OsAGO1a and OsAGO1b genes was also slightly upregulated in seedlingsunder variousabiotic stresses (Kapoor et al.2oo8).Our results indicate that ZmAGO1d expression was obviously downregulated under salt stress (NaCl),while the previous study indicated that expression of both OsAGO1a and OsAGO1d were slightly downregulated in rice under salt and drought stresses (Kapoor et al.2008). However, the effects of NaCl and PEG stress treatments on the expression of ZmAGO1a revealed in this study were consistent with those of previous studies in maize (Qian et al. 2011). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1bca89a15fc93e60759d92496c9bda0d29982fc09d69bb3cac4303231239320.jpg",
+        "img_caption": [
+            "Figure 3.Overexpresionof ZmAGO1a inArabidopsis ago1-27(T1andT2 generations)and itsrescue effect onphenotype (A) p35S:ZmAGO1a transgenic T1 seedlings and their genetic background CK (ago1-27). (B) Phenotyping comparison of T2 transgeniclines(line16,19,20,and21)atgeneticbackgroundofago1-27withago-7andwildtype(wt.Col-).ago-7asalso Col-o background but with ago1 mutation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f315b8004c5a8f8795926f4ad600486c329c0011569985e04d3eb39c87ab6ccb.jpg",
+        "img_caption": [
+            "Figure 4.Relative expresion levels of ZmAGOia (A)in diferent Arabidopsis genotypes and relative expression level of ZmAGO1a in response to different abiotic stresses in 3-weeks-old maize seedling leaves (A)wt,wildtypeArabidopsis thaliana(L.）Colombia(Col-o);ago1-27,Arabidopsis thaliana(L.）ago1-27mutantintheColo background; lines 16,19,and 21, three independent ago1-27 lines transformed with $3 5 S { : : } Z m A G O 1 a$ .(B) CK,control; NaCl, salt stress (NaCl,200 mM); ABA, $1 0 0 \\mathrm { m M }$ ABA; PEG,dehydration (PEG-6000; $20 \\%$ w/v); LN, low nitrate $\\left( 0 . 0 4 \\mathsf { m M N O _ { 3 } } ^ { - } \\right)$ ; LP,low phosphorus （20 $( 2 . 5 \\mu \\mathsf { M } \\ K \\mathsf { H } _ { 2 } \\mathsf { P } \\mathsf { O } _ { 4 } )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DNA sequence variation in ZmAGO1a genes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To gain insight into the diversity of the ZmAGO1a gene among lines within Zea mays,sequence variation in the ZmAGO1a gene among 87 lines representing both temperate and tropical maize germplasm was analyzed. In total，1o5 SNPs were detected (Table S1). Most of the identified SNPs,79 out of 105, were located in introns;however,26 SNPs were located in exons (Table 3).Seven of 26 SNPs located in coding regions could result in amino acid changes.The allele frequencies of these variants，including those that resulted in protein sequence changes and those that did not，ranged from $5 . 7 5 \\%$ to $3 6 . 7 8 \\%$ ,indicating that these variants were not rare alleles. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Possible functional redundancy of ZmAGO1 genes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In contrast with Arabidopsis,which has a single AGO1 gene, maize possesses four AGO1 homologs,as does rice (Wu et al. 2009).Five maize AGO1 genes were identified based on HMM analysis of sequences coding for conserved PAZ and PIWI domains in a previous report (Qian et al.2o11). However, our analysis and another parallel analysis(Zhaiet al.2o14)with a more stringent model indicated that only four of the maize AGO1 genes likely have biological activity.Consistent with previous reports (Qian et al.2011; Zhai et al. 2014)，our phylogenetic analysis showed that the four ZmAGO1 homologs were highly conserved and wereclosely related to otherrice and wheat AGO1 homologs (Figure 1). Both some redundancy and some possible functional specialization among AGO1 genes in rice has been suggested by sequencing miRNAs identifiedbygel retardationassaysof AGO1 immunoprecipitates from the in vitro interaction of AGO and miRNAs (Wu et al.2oo9). However, the specialized functions and biological roles of each particular AGO1are still unknown in maize.Our expression profiles data showed that the ZmAGO1a was the highest expression in diverse organs,suggesting its'primary role among family members (Figure 1B).The phylogeny and similar organization of AGO1-encoding homologs in rice and maize suggest that functional redundancy of ZmAGO1 genes might be conserved.Among the four maize AGO1 genes, ZmAGO1a，which is very closely related to ZmAGO1b and ZmAGO1c and more conserved with AtAGO1 and OsAGO1, was selected for further analysis of gene expression and complementation analysis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b0fffd7da263866d621aad37389851664f889e8415c1c67a65d0c72a54f96b5.jpg",
+        "table_caption": [
+            "Table3.DNAsequencevariationin thecoding regionof ZmAGOla among resequenced 87linesrepresenting broad tropical and temperatemaize germplasm "
+        ],
+        "table_footnote": [
+            "Note: the reference allele for both DNA and protein sequence numbering was B73 ZmAGO1a. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\"></td><td colspan=\"2\">Amino</td><td rowspan=\"2\">Amino acid change</td><td rowspan=\"2\">Nos. of variants (Tropical/Temperate)</td><td rowspan=\"2\">Variant frequencies</td></tr><tr><td>Mutation type</td><td>DNA site</td><td>SNP</td><td>acid site</td><td>Domain</td></tr><tr><td>Missense</td><td>1567</td><td>G-A</td><td>8</td><td>Gly-rich</td><td>G8D</td><td>5 (5/0)</td><td>5.75%</td></tr><tr><td rowspan=\"9\"></td><td>1828</td><td>G-A</td><td>95</td><td>Gly-/Pro-rich</td><td>R 95 H</td><td>32 (11/21)</td><td>36.78%</td></tr><tr><td>1873</td><td>G-T</td><td>110</td><td>Gly/Pro-rich</td><td>G 110 V</td><td>7 (3/4)</td><td>8.05%</td></tr><tr><td>2118</td><td>G-C</td><td>192</td><td>1</td><td>A 192 P</td><td>8 (3/5)</td><td>9.20%</td></tr><tr><td>6348</td><td>G-T</td><td>770</td><td>PIWI</td><td>Q 770 H</td><td>32 (11/21)</td><td>36.78%</td></tr><tr><td>6821</td><td>A-G</td><td>870</td><td>PIWI</td><td>T 870 A</td><td>32 (11/21)</td><td>36.78%</td></tr><tr><td>7219</td><td>G-C</td><td>925</td><td>PIWI</td><td>E 925Q</td><td>7 (3/4)</td><td>8.05%</td></tr><tr><td></td><td></td><td></td><td>Subtotal of missense mutation</td><td></td><td>123 (47/76)</td><td></td></tr><tr><td>1829</td><td>T-C</td><td>95</td><td>Gly-/Pro-rich</td><td>1</td><td>21 (16/5)</td><td>24.14%</td></tr><tr><td>2015</td><td>A-G</td><td>157</td><td>Pro-rich</td><td>1</td><td>18 (14/4)</td><td>20.69%</td></tr><tr><td></td><td>2288</td><td>T-C</td><td>248</td><td>1</td><td>1</td><td>21 (16/5)</td><td>24.14%</td></tr><tr><td></td><td>2294</td><td>G-T</td><td>250</td><td>1</td><td>1</td><td>29 (20/9)</td><td>33.33%</td></tr><tr><td></td><td>2410</td><td>G-A</td><td>263</td><td>1</td><td>1</td><td>32 (11/21)</td><td>36.78%</td></tr><tr><td></td><td>2545</td><td>A-G</td><td>308</td><td>1</td><td>1</td><td>21 (16/5)</td><td>24.14%</td></tr><tr><td></td><td>2584</td><td>A-G</td><td>321</td><td>1</td><td>1</td><td>29 (20/9)</td><td>33.33%</td></tr><tr><td></td><td>2605</td><td>A-C</td><td>328</td><td>1</td><td>1</td><td>29 (20/9)</td><td>33.33%</td></tr><tr><td></td><td>3001</td><td>T-G</td><td>408</td><td>DUF1785</td><td>1</td><td>29 (20/9)</td><td>33.33%</td></tr><tr><td></td><td>6046</td><td>C-T</td><td>695</td><td></td><td>1</td><td>29 (20/9)</td><td>33.33%</td></tr><tr><td></td><td>6158</td><td>C-T</td><td>733</td><td>PIWI</td><td>1</td><td>28 (19/9)</td><td>32.18%</td></tr><tr><td></td><td>6270</td><td>C-T</td><td>744</td><td>PIWI</td><td>1</td><td>32 (11/21)</td><td>36.78%</td></tr><tr><td></td><td>6273</td><td>A-G</td><td>745</td><td>PIWI</td><td>1</td><td>28 (20/8)</td><td>32.18%</td></tr><tr><td></td><td>7245</td><td>T-C</td><td>933</td><td>PIWI</td><td>1</td><td>32 (11/21)</td><td>36.78%</td></tr><tr><td></td><td>7447</td><td>A-G</td><td>970</td><td>PIWI</td><td>1</td><td>32 (11/21)</td><td>36.78%</td></tr><tr><td></td><td>8018</td><td>A-G</td><td>1071</td><td>1</td><td>一</td><td>29 (20/9)</td><td>33.33%</td></tr><tr><td></td><td>8024</td><td>G-A</td><td>1073</td><td>1</td><td>1</td><td>29 (20/9)</td><td>33.33%</td></tr><tr><td></td><td>8048</td><td>G-A</td><td>1081</td><td>1</td><td>1</td><td>21 (16/5)</td><td>24.14%</td></tr><tr><td></td><td>8075</td><td>C-T</td><td>1090</td><td>1</td><td>1</td><td>32 (11/21)</td><td>36.78%</td></tr><tr><td colspan=\"6\">Subtotal of synonymous mutation</td><td>521 (312/209)</td><td></td></tr><tr><td colspan=\"6\"></td><td colspan=\"2\">644 (359/285)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZmAGO1a rescues phenotypic defects and gene expression of Arabidopsis ago1 mutants ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study,we observed that constitutive overexpression of ZmAGO1a could rescue most of the phenotypic defects of the ago1-27 mutant, including rosette size,leaf size,leaf shape, flowering time，maturation time,and seed set (Figure 2). Some mutant phenotypes,such as leaves that were darker green and more serrated than wild type,could be partially restored to normal green colorat later stagesand shallower serrated leaf edges (Figure 2). The partially rescued phenotypes observed in these experiments could have been due to expression patterns specific to the promoter used.In our transformants,the ZmAGO1a gene was driven by the CaMV35S promoter so that it would be highly and constitutively expressed (Figure 4). In the same organ and tissue，the expression of endogenous AtAGO1 wasalso 3.7-fold higher in the ago1-27 mutant and 3.o-fold higher in the ZmAGO1a overexpression transformants of ago1-27 than in wild-type (Col-o） Arabidopsis.Our results indicated that constitutive overexpression of ZmAGO1a could rescue most of the defects in the mutant phenotype,but could not rescue the impaired expression of native AtAGO1.So,AtAGO1 and ZmAGO1a in the ZmAGO1a overexpression transformants in ago1-27 might share some but not all functional roles.The unusual expression of these genes may or may not have any effect on their downstream functions,unless a direct effect on their own expression is suggested.The level of AtAGO1 mRNA is maintained and modulated by feedback regulation of miR168 (Vaucheret et al. 2oo6). Obviously，a trans-modulation element could affect the expression of the endogenous AtAGO1 gene,but not that of exogenous ZmAGO1a,due to the absence of the effector within the expression cassette. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Variation in ZmAGO1a sequences in maize ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The functional basis of the genetic control of traits by quantitative trait loci (QTL) is due mostly to variation within numerous genes in a species like maize,which is one of the most diverse crops at both the molecular and phenotypic levels (Buckler et al.2oo6). Such variation can occur within genes of interest in crop plant populations that have been subjected to both natural and artificial selection for a long time.Sequencing of 87 tropical and temperate maize linesat $1 0 \\times$ depth was performed to analyze possible variation in the ZmAGO1a DNA sequence among these lines.Some missense mutations were found among these lines (Table 3), suggesting that ZmAGO1a could possibly contribute to phenotypic diversity in maize,as the function of AGO1 also contributes to the phenotype of other grass species such as rice (Wu et al. 2009). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Reverse genetic analysis of ZmAGO1a ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Areverse genetics approach,which seeks to draw conclusions from the phenotypes that arise after mutation of a gene of interest，as by knockout via gene tagging or knockdown through RNA interference (RNAi)， could provide solid biological evidence for functional redundancy of ZmAGO1a. For example, rice AGO1 genes have been knocked down using RNAi (Wu et al. 2oo9). By screening a public Mu transposontagged maize library (Settles et al.2oo7),we recovered one line(seed stock:UFMu-o4885) in which the $3 ^ { \\prime }$ -UTRregionof ZmAGO1a was tagged.No obvious phenotype was evident in this line after the line was selfed until the Mu-tagged ZmAGO1d allele was homozygous (data not shown).After obtaining this Mu-tagged ZmAGO1a allele,more independent knockouts of each of the other AGO1 genes will be required to further test the proposed functional redundancy of ZmAGO1a and the other AGO1 genes in maize. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Argonaute1 (AGO1) protein plays key roles in miRNA and siRNA pathways that are essential for plant developmental andbiological processes.Weperformed bioinformatics searches for maize genes encoding proteins containing conserved motifs consistent with AGO1 function and cloned the ZmAGO1a cDNA.The AGO1 function of ZmAGO1a was confirmed by complementation of the Arabidopsis ag01-27 mutant phenotype witha ZmAGO1a transgene that restores the mutant phenotype to wild type.The expression pattern of this gene and that of the endogenous AtAGO1a gene in response to various abiotic stresses indicated that ZmAGO1a might play an important role in both development and responses to environmental changeasa member of the AGO gene family in maize. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plant materials,culture,and stress treatment conditions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Arabidopsis thaliana(L.) ecotype Colombia(Col-o) was used as the wild type.The mutant ago1-27 in the Col ecotype,which developed rosettes with dark green and serrated leaves,had been described previously.The rosette size of this mutant is intermediate between that of stronger alleles and wild-type plants,and this mutant initiates flowering7-12 d after the wild type and is fertile (Morel et al. 2002). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After seed sterilization, plants were grown in sterile in $0 . 5 \\times$ Murashige and Skoog(MS) nutrient agar medium in a short-day( $\\mathsf { B h }$ light/16h dark) regimen under a PPFD (photosynthetic photon flux density）of $7 0 \\mu \\mathrm { m o l } / \\mathrm { m } ^ { 2 } / \\mathrm { s }$ and constant temperature of $2 3 \\pm 1 ^ { \\circ } { \\mathsf { C } }$ .After1o d,the plants were transferred to soil in a growth chamber with $1 6 \\mathsf { h }$ light: 8 h dark at $2 3 \\pm 1 ^ { \\circ } { \\mathsf { C } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Maize (Zea mays L.inbred lines B73 and Ye478) plants were grown ina greenhouse under $1 6 \\mathsf { h }$ light: $^ { 8 \\mathfrak { h } }$ dark at $2 8 ^ { \\circ } C$ 0 $\\chi _ { \\mathsf { U } }$ et al.2011). Three-week-old seedlings were subjected to one of the five following abiotic stress treatments: low phosphorus $( 2 . 5 \\mu \\mathsf { M } \\ K H _ { 2 } \\mathsf { P } \\mathsf { O } _ { 4 } )$ ,low nitrogen $( 0 . 0 4 \\mathsf { m M } \\mathsf { N O } _ { 3 } ^ { - } )$ salt stress (NaCl,2oo mM),dehydration (polyethylene glycol, PEG-6000; $2 0 \\% \\mathsf { w } / \\mathsf { v } )$ ，orABA $( 1 0 0 \\mathrm { m M } )$ .Seedling leaveswere sampled at $2 4 \\mathsf { h }$ after the treatment.The controls were treated with normal nutrient solution with no additives as listed ( $\\mathtt { \\backslash x \\backslash }$ et al. 2011). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bioinformatic analyses and identification of Argonaute1 genes ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AtAGO1 protein sequences from the MaizeGDB database (http://www.maizegdb.org/) and the National Center for Biotechnology Information （NcBl）were used to perform blastp queries against the maize (Zea mays,(Taxld:4577)) NR (Non-redundant protein sequence)) database at NCBl using the newly developed algorithm DELTA-BLAST (Domain Enhanced Lookup Time Accelerated BLAST).Amino acid alignments were conducted using DNAman software (LynnonBioSoft,Vaudreuil, Quebec, Canada).A phylogenetic tree was constructed based on this amino acid alignment result using the neighbor-joining(NJ) method in MEGA5.o5 (http:// www.megasoftware.net/）with a Poisson model，pairwise deletion，uniform rates among sites，and 1ooo bootstrap replicates.Protein domains were analyzed using Motif Scan (http://hits.isb-sib.ch/cgi-bin/motif_scan). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cloning the full-length ZmAGO1a cDNA and construction of the overexpressionvector ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The primers for ZmAGO1a cDNA isolation were designed using Primer 5.o (Premier Biosoft International,Palo Alto, CA，USA).The sense and antisense primers were $5 ^ { \\prime }$ ggactctagaggatccCCCTTTCTCCGTCCGCAT- $3 ^ { \\prime }$ and $5 ^ { \\prime } \\mathrm { . }$ cggtacccggggatccCCCATCTTAATAGGAGTATATCGCA- $3 ^ { \\prime }$ ，respectively. PCR amplifications were performed using the HiFidelity PCR Kit (Tiangen Biotech Co.，Ltd.Beijing，China).The temperature cycling program was $9 5 ^ { \\circ } C$ for $5 \\mathsf { m i n } _ { \\cdot }$ ，followed by 35 cycles of $9 5 ^ { \\circ } C$ for 15 s, $5 8 ^ { \\circ } C$ for 10 s,and $6 8 ^ { \\circ } C$ for 2 min,witha final extension at $6 8 ^ { \\circ } C$ for10 min.PCR products were visualized on $1 . 0 \\%$ agarose gels by ethidium bromide staining.The amplified fragment was subcloned into the CPB vector using the In-Fusion HD Cloning Kit(Clontech Laboratories Inc.，Mountain View，CA，USA).The vector was then isolated from Escherichia coli strain $\\mathsf { D H } 5 \\alpha$ and transferred into A. tumefaciens strain GV31o1 using the freeze-thaw method (Clough and Bent 1998). The DNA sequence of the ZmAGOia insertion in the plasmid construct inboth E. coli and A. tumefaciens were verified by sequencing. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Plant transformation and identification of transformant: ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Arabidopsis was transformed using the Agrobacterium floral dip method following a reported method (Clough and Bent 1998). Plants of the mutant ago1-27 in the Col-o background were used for transformation.Transgenic plants were screened on plates with $5 0 ~ { \\mu \\mathrm { g / m L } }$ glufosinate ammonium. Theglufosinate-resistant transformed plants were validated by PCR and with a strip test for detecting the bialaphos resistance protein encoded by the bar gene (QuickStix Kit for Liberty Link (bar) Cotton, EnviroLogix,Portland,ME, USA).T3 homozygous lines were used for all phenotyping and gene expression analysis. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Gene expression analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Quantitative (q)RT-PCR primers were designed using Beacon Designer7 software (Premier Biosoft International,Palo Alto, CA，USA)，and qRT-PCR was performed using the Applied Biosystems 75oo Fast Real-Time PCR System with the SYBR Premix Ex Taq I Master Mix (Takara Bio Inc.,Dalian,China). The primers for analyzing ZmAGO1a expression profiles were ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$5 ^ { \\prime }$ -GCTTGACTTGCTGATGGTAATACT $3 ^ { \\prime }$ and $5 ^ { \\prime }$ -CTGATGCTTGTTCGCCTTGA $3 ^ { \\prime }$ .The primer pairs for ZmAGOib, ZmAGO1c and ZmAGO1dwere $5 ^ { \\prime }$ GCCCGAGGTCACGAAATAC $3 ^ { \\prime }$ and $5 ^ { \\prime } \\mathrm { . }$ 车 GGGTCCTGCCATACTTTGA- $3 ^ { \\prime }$ ， $5 ^ { \\prime }$ -TTCTATTGATGGTGCCTGTGC $3 ^ { \\prime }$ and $5 ^ { \\prime }$ CAGACAGAAGGCAAGCAAAACG- $3 ^ { \\prime }$ ， $5 ^ { \\prime }$ -TCCAGAAACGCCACCATA ${ \\boldsymbol { \\cdot } } 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -ACGACAGTTCCAGGAAGTAT- $3 ^ { \\prime }$ ，respectively.The primers used to amplify GAPDH，the internal reference for expression analysis in maize,were $5 ^ { \\prime }$ -ACTGTTCATGCCATCACTGC $3 ^ { \\prime }$ and $5 ^ { \\prime }$ GAGGACAGGAAGCACTTTGC- $3 ^ { \\prime }$ Amplification was followed by a melting curve analysis and anappropriate blank wasapplied.The primers used to amplify AtAGO1 were $5 ^ { \\prime }$ ATCAGACAGTGGCTCAAT- $3 ^ { \\prime }$ and $5 ^ { \\prime } - G A -$ CACGCTTCACATTCTC $3 ^ { \\prime }$ .The primers used to amplify Arabidopsisalpha-Tubulin4,the internal referencefor expression analysisinArabidopsis，were $5 ^ { \\prime }$ -GAGGGAGCCATTGACAACATCTT $3 ^ { \\prime }$ and $5 ^ { \\prime }$ -GCGAACAGTTCACAGCTATGTTCA- $3 ^ { \\prime }$ The expression of both ZmAGO1a and AtAGO1 was analyzed in the mutant,wild type,and transformants using qRT-PCR.The $2 ^ { \\tt - \\Delta \\Delta C T }$ method was used to estimate fold changes in the expression of each gene (Livak and Schmittgen 2oo1).Each data point represents four biological replicates with three technical replicates. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Analysis of DNA sequence variation in ZmAGO1a among maize populations ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The resequencing data (mean Poisson-distributed $1 0 \\times$ depth for each line) from 87 maize inbreds representing tropical (47 of 87) and temperate (4o) lines (Table S1) were used to analyze DNA sequence variation in ZmAGO1a across lines.The data,SNP-calling methods,and maize lines in our germplasm panel were described in our previous report (Xie et al.2013). The resequencing data for ZmAGO1a have been deposited into GenBank at the NCBl under the accession numbers ranging from KJ958272 to $\\mathsf { K J 9 5 8 3 5 8 }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PCR confirmation of Mu insertions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Mu insertion mutations (UFMu-o4885) in ZmAGO1a were submitted to the MaizeGDB database (http://www.maizegdb. org/documentation/uniformmu/).Confirmation of Mu insertions was performed according to McCarty et al. (2005), including primer sequences. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "COMPETING INTERESTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing interests. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the National Natural Science Foundation of China (31361140364 & 31171562),the National High Technology Research and Development Program of China (2o12AA1oA3o6) and The Agricultural Science and Technology Innovation Program (ASTIP) of CAAS to CX. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR CONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "D.X.carried out the experiments.C.X.designed the study and analyzed data.H.Y.carried outtransformation.Z.C.performed DNA sequence variation analysis.W.X.L.and Y.X. performed data analysis. D.X. drafted the paper,and C.X.and Y.X.wrote and revised the paper.All authors read and approved the final manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES   \nBai M,Yang GS,Chen WT,Mao ZC, Kang HX,Chen GH,YangYH,Xie BY (2012)Genome-wide identification of Dicer-like,Argonaute and RNA-dependent RNA polymerase gene families and their expression analyses in response to viral infection and abiotic stresses in Solanum lycopersicum.Gene 5o1: 52-62   \nBaulcombe D (2004) RNA silencing in plants. Nature 431: 356-363   \nBaumberger N, Baulcombe DC (2oo5) Arabidopsis ARGONAUTE1 is an RNA Slicer that selectively recruits microRNAs and short interfering RNAs. Proc Natl Acad Sci USA 102: 11928-11933   \nBuckler ES,Gaut BS,McMullen MD(2oo6) Molecular and functional diversity of maize. Curr Opin Plant Biol 9: 172-176   \nCarbonell A, Fahlgren N, Garcia-Ruiz H, Gilbert KB,Montgomery TA, Nguyen T,Cuperus JT, Carrington JC (2o12) Functional analysis of three Arabidopsis ARGONAUTES using slicer-defective mutants. Plant Cell 24: 3613-3629   \nClough SJ，Bent AF (1998) Floral dip:A simplified method for Agrobacterium-mediated transformation of Arabidopsis thaliana. Plant J 16: 735-743   \nHutvagner G, Simard MJ (2oo8) Argonaute proteins: Key players in RNA silencing. Nat Rev Mol Cell Biol 9: 22-32   \nIwakawa HO,Tomari Y (2o13） Molecular insights into microRNAmediated translational repression in plants.Mol Cell 52: 591- 601   \nKapoor M,Arora R,Lama T, Nijhawan A, Khurana JP,Tyagi AK, Kapoor S (2008) Genome-wide identification,organization and phylogenetic analysis of Dicer-like, Argonaute and RNA-dependent RNA Polymerase gene families and their expression analysis during reproductive development and stress in rice.BMc Genomics 9: 451   \nLiu WW,Tai HH,Li SS,Gao W, Zhao M,Xie CX,Li WX(2014) bHLH122 is important for drought and osmotic stress resistance in Arabidopsis and in the repression of ABA catabolism.New Phytol 201: 1192-1204   \nLivak KJ, Schmittgen TD (2oo1) Analysis of relative gene expression data using real-time quantitative PCR and the 2(T)(-Delta Delta C) method. Methods 25: 402-408   \nLynn K,Fernandez A,Aida M, Sedbrook J,Tasaka M,Masson P, Barton MK(1999） The PINHEAD/ZWILLE gene acts pleiotropically in Arabidopsis development and has overlapping functions with the ARGONAUTE1 gene. Development 126: 469-481   \nMallory AC, Hinze A,Tucker MR,Bouche N,Gasciolli V, Elmayan T, Lauressergues D,Jauvion V，Vaucheret H，Laux T (2009) Redundant and specific roles of the ARGONAUTE proteins AGO1 and ZLL in development and small RNA-directed gene silencing. PLoS Genet 5: e1000646   \nMcCarty DR,Settles AM,Suzuki M,Tan BC,Latshaw S,Porch T,Robin K, Baier J,Avigne W,LaiJ,Messing J, Koch KE,Hannah LC (2005) Steady-state transposon mutagenesis in inbred maize.Plant J44: 52-61 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Meister G (2o13） Argonaute proteins: Functional insights and emerging roles. Nat Rev Genet 14: 447-459 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Morel JB,Godon C,MourrainP,Béclin C, BoutetS,FeuerbachF,Proux F, Vaucheret H (2oo2) Fertile hypomorphic ARGONAUTE (ago1) mutants impaired in post-transcriptional gene silencing and virus resistance. Plant Celi 14: 629-639   \nQian Y,Cheng Y,Cheng X,Jiang H,Zhu S,Cheng B (2o11) Identification and characterization of Dicer-like,Argonaute and RNA-dependent RNA polymerase gene families in maize. Plant Cell Rep 30: 1347-1363   \nSettles AM,Holding D,Tan B,Latshaw S,LiuJ,Suzuki M,LiL,O'Brien B,Fajardo D,Wroclawska E,Tseung CW,LaiJ,Hunter C,Avigne W, Baier J，Messing J，Hannah LC，Koch K，Becraft P,Larkins B, McCarty D(2oo7) Sequence-indexed mutations in maize using the UniformMu transposon-tagging population.BMc Genomics 8: 116   \nSingh M,Goel S,Meeley RB, Dantec C,Parrinello H, Michaud C,Leblanc O,Grimanelli D (2o11） Production of viable gametes without meiosis in maize deficient for an ARGONAUTE protein.Plant Cell 23:443-458   \nTolia NH,Joshua-Tor L (2oo7) Slicer and the Argonautes.Nat Chem Biol 3: 36-43   \nVaucheret H(20o8) Plant ARGONAUTES. Trends Plant Sci 13:350-358   \nVaucheret H,Mallory AC, Bartel DP(2oo6) AGO1 homeostasis entails coexpression of MIR168 and AGO1 and preferential stabilization Of miR168 by AGO1. Mol Cell 22: 129-136   \nWei KF,Wu LJ,Chen J, Chen YF,Xie DX(2o12) Structural evolution and functional diversification analyses of argonaute protein.J Cell Biochem 113: 2576-2585   \nWu L,Zhang Q,Zhou H,NiF,Wu X,QiY(2oo9) Rice microRNA effector complexes and targets. Plant Cell 21: 3421-3435   \nXie C,WengJ,Liu W,Zou C, Hao Z,LiW,LiM,Guo X,Zhang G,XuY,LiX, Zhang S (2o13) Zea mays(L.） P1 locus for cob glume color identified as a post-domestication selection target with an effect on temperate maize genomes. Crop J1: 15-24   \nXu Z,Zhong S,Li X,Li W,Rothstein SJ,Zhang S,Bi Y,Xie C (2011) Genome-wide identification of microRNAs in response to low nitrate availability in maize leaves and roots.PLoS ONE 6:e28009   \nYigit E,Batista PJ,Bei Y,Pang KM,Chen CC,Tolia NH,Joshua-Tor L, Mitani S,Simard MJ,Mello CC (2oo6) Analysis of the C.elegans Argonaute family reveals that distinct Argonautes act sequentially during RNAi. Cell127: 747-757   \nZhai L, Sun W, Zhang K,Jia H,Liu L,Liu Z, Teng F, Zhang Z (2014) Identification and characterization of Argonaute gene family and meiosis-enriched Argonaute during sporogenesis in maize. JIntegr Plant Biol 56: 1042-1052 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTING INFORMATION ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional supporting information may be found in the online version of thisarticle at the publisher's web-site. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table S1.Maize lines resequenced for analysis of DNA sequencevariation Figure S1. Relative expression levels of native AtAGO1 among wild type and ZmAGO1a transformed lines ",
+        "page_idx": 9
+    }
+]

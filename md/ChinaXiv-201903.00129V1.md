@@ -1,0 +1,196 @@
+# 高压直流电容器电介质研究现状
+
+许然然杜伯学　肖谧（天津大学电气自动化与信息工程学院天津 300072)
+
+![](images/23e3d558cf5fc1b50a952e70ba49e4443230100737545a1b1f80663ab65503f7.jpg)
+
+许然然 女 1990年生，博士研究生，主要从事电容器电介质材料方面的研究工作。
+
+摘要：直流滤波电容器、直流支撑电容器等高压直流电容器是保证高压直流输电质量与稳定运行的核心器件。聚合物薄膜作为电力电容器的关键固体电介质，其击穿强度、温升特性直接影响电容器的容量与绝缘水平。本文简要介绍了高压直流电容器固体电介质材料的发展历程，论述了聚合物薄膜的击穿强度、温升特性，同时探讨了温度、复杂电场对聚合物薄膜老化行为的影响规律，对聚合物薄膜电介质面临的问题与改进措施的国内外研究成果进行了总结。
+
+关键词：高压直流电容器 聚合物薄膜复杂电场 击穿场强温度特性中图分类号：TM85
+
+# Research Status on Solid Dielectric Material in HVDC Capacitor
+
+Xu RanranDu Boxue Xiao Mi (School of Electrical and Information Engineering, Tianjin University Tianjin300072China ）
+
+![](images/e667320a100f8eb32705a33d8745222c689ceeaedb413f25a3547d2d5c452416.jpg)
+
+杜伯学男 1961年生，博士，教授，博士生导师，主要从事聚合物绝缘材料的可靠性和安全性理论与试验、高温超导电介质、纳米复合绝缘材料、电气绝缘在线监测、高电压新技术等方面的研究工作。
+
+Abstract: HVDC capacitors, such as DC filter capacitor and DC-link capacitor, are the core components to insure the quality of HVDC transmission and steady operation of power system.The breakdown field strength and temperature characteristic of polymer film affects the capacity level and the insulation of capacitors. This paper briefly introduces the development of solid dielectric materials of the power capacitor. The dielectric breakdown voltage and temperature characteristic of the polymer film were discussed in this paper. The influence of the temperature and complex electric field on polymer dielectric aging behavior is studied.Besides,the problems of the solid dielectric materials faced with and research results of improvements at home and abroad are summarized.
+
+Keywords: HVDC capacitor, polymer film,complex electric field,breakdown strength,thermal characteristic
+
+收稿日期：2018-08-03
+
+# 1 引言
+
+我国能源东西分布不均衡，制约着国民经济的快速可持续发展。高压直流输电及柔性直流电网是解决可再生能源接纳、远距离大范围电能输送和输电走廊紧缺问题的有效技术手段。随着高压直流输电技术的长足发展，对电力电容器的需求也日益增加[1]。高压直流输电工程建设需要大量各类电力电容器设备，运行于直流侧的电容器有直流滤波电容器、直流支撑电容器等，在高压直流输电系统中起到直流滤波、直流电压支撑的重要作用，是保证直流输电质量以及换流阀正常稳定运行的核心设备[2-3]。
+
+目前，高压直流电容器广泛采用聚合物薄膜作为固体电介质材料，聚合物薄膜成本约占电容器生产成本的 $70 \%$ 左右。聚合物薄膜质量的好坏直接影响电容器的容量稳定性、耐压性能、使用的安全性及其寿命周期等各项性能指标。电力电容器的发展历史，实质上就是电力电容器用电介质材料发展的历史，可以说电介质材料的发展是电力电容器技术进步的基础。随着电容器向低损耗、小型化的方向发展，电容器固体电介质材料经历了电缆纸、电容器纸、聚合物薄膜与电容器纸复合，最后到全部采用聚合物薄膜的发展过程[4-7]。20世纪20年代，以牛皮纸为固体电介质的箔式电容器在美国诞生；20世纪70年代，聚丙烯薄膜使电容器电介质出现改变[8]，随之出现纸膜复合电介质；到20世纪80年代，聚丙烯膜的使用量大大超过纸介质的使用量，20世纪90年代，聚丙烯薄膜已经成为电力电容器的主要电介质材料[9-10]。目前，在实际应用中，由于双向拉伸聚丙烯（BiaxiallyOrientedPolypropylene，BOPP）薄膜具有介电性能稳定、高耐受电场及易于规模化连续双向拉伸制备的优点，其相对介电常数约为2.2，介质损耗角正切值一般为$2 \times { 1 0 } ^ { - 4 }$ 0 $\mathrm { { ( 0 \sim 3 0 ^ { \circ } C } }$ )，BOPP 薄膜成为电力电容器最为重要的首选介质材料，并且是目前电力电容器中应用最为广泛的电介质材料。
+
+如果按照电极形式分类，高压直流电容器可以分为箔式薄膜电容器与金属化薄膜电容器两类。箔式电容器出现时间比较早，主要由铝箔、电介质薄膜和浸渍剂三部分构成[11-12]；而金属化薄膜电容器结构则是由两层金属化聚合物薄膜重叠卷绕而成，有油浸式和干式两种结构[13]。相比于箔式薄膜电容器，金属化薄膜电容器具有自愈特性，在发生击穿后绝缘可恢复[14]，是高压直流电容器的理想换代产品。目前，不论是箔式电容器还是金属化薄膜电容器，其电介质材料均为聚合物薄膜，一般都是BOPP薄膜。
+
+随着高压直流输电技术的发展，高压直流电容器向着高电压、大容量方向发展，提高其对高电压、大电流的处理能力，降低损耗，提高储能密度，在满足电压输出质量的前提下减小电容器体积及重量都是非常重要的[15]。影响高压电容器性能的因素有很多，如电介质材料的性能、电容器的结构等。经过近一百年来的发展，电力电容器的结构设计已日趋完善，而电介质材料的性能则成为影响高压直流电容器发展的根本因素。高压直流电容器的储能密度取决于介电常数与电场耐受能力。因此，对于电力电容器而言，提高介质聚合物薄膜的电压耐受能力十分重要[1]。此外，在电力电容器长期运行过程中，其内部温升也是一个不可忽视的因素。电容器内部温度升高对于聚合物电介质老化、击穿性能和介电性能都具有非常重要的影响[17]。高压直流电容器在运行中，会受到大量谐波电流的作用，电极电阻的发热、聚合物介电损耗的存在，都会导致电容器内部温度升高，使绝缘介质的老化加速，甚至会造成击穿现象的发生。电场与热场共同长期作用是电介质老化的主要原因，温度与过电压的联合作用对于电容器电介质材料的老化影响不容忽视。
+
+目前，国内外学者已经开展了大量电力电容器聚合物电介质材料的研究工作，但针对高压直流电容器电介质材料击穿、温升等问题仍需深入研究。因此，对目前的研究现状以及取得的成果进行必要的归纳和总结，对于研究提升高压直流电容器电介质材料性能具有重要的参考意义。本文综合国内外研究成果，介绍了高压直流电容器电介质材料的发展现状，探讨了聚合物电介质材料击穿场强、温升等问题，并对高压直流电容器薄膜电介质的研究作了总结和展望。
+
+# 2 高压直流电容器电介质面临问题
+
+长期运行中，应用于高压直流侧的电力电容器面临高压直流、谐波及暂态过电压叠加的复杂电场与电容器内部温度升高的运行工况，电介质材料的击穿与热老化问题是影响高压直流电容器寿命及工作稳定性的最为关键的两个因素。
+
+# 2.1 击穿问题
+
+有研究表明，BOPP薄膜的击穿场强可高达$7 0 0 \mathrm { V / \mu m ^ { \left[ 1 8 \right] } }$ 。然而，在实际工程应用中，高压直流电容器的实际应用场强一般仅为 $2 0 0 \mathrm { V / \mu m } ^ { [ 1 9 ] }$ ，究其原因，在于聚合物电介质薄膜中电弱点的存在不可避免。BOPP薄膜本身结构的不完整性、生产过程中不可避免地会引入的气泡、杂质等缺陷[20]。BOPP薄膜属于典型的半结晶聚合物，在材料内部，结晶区被非结晶区围绕，并且非晶区间相互连通。定向拉伸聚合物中的分子并不是完全按规律排列的，其中存在着微孔、链的弯曲、位错和结晶区与非结晶区的界面等缺陷，少量残存的催化剂、抗氧剂等杂质缺陷，这些缺陷成为了BOPP薄膜内部的电弱点[21]，以及由于薄膜老化而产生的新的电弱点[20]。
+
+高压直流电容器的实际运行中会受到高压直流工作电压、谐波及暂态过电压叠加的复杂电场的作用，聚合物薄膜中的电弱点会发生击穿。有研究表明，聚合物电介质材料的直流击穿电压是 $5 0 \mathrm { { H z } }$ 交流击穿电压有效值的 $1 . 7 \sim 1 . 8$ 倍[22]。然而，在实际工程应用中，直流电容器的使用寿命仅为交流电容器寿命的1/3。因此，有必要对高压直流电容器介质材料的击穿机理和影响因素进行深入分析，以提高高压直流电容器的工作场强及其实际使用寿命。
+
+# 2.2热老化问题
+
+在运行中，高压直流电容器会受到大量谐波电流的影响，由此带来的充放电电流使电极和介质发热进而导致电容器内部温度上升。电容器内部温升导致绝缘介质的老化加速，使得介质薄膜的击穿场强下降[23-27]。热老化是电容器失效的主要原因之一,将使薄膜电介质中性能较弱部分的性能变得更弱，直接导致电容器的寿命下降。研究表明，热老化过程对于聚丙烯薄膜的非结晶区的影响尤为显著，经过热老化过程，聚丙烯薄膜非结晶区的击穿场强大幅降低。当温度由 $1 0 \mathrm { { ^ \circ C } }$ 上升至 $1 0 0 ^ { \circ } \mathrm { C }$ 时，聚丙烯薄膜的击穿场强下降约 $1 5 \% ^ { [ 2 8 ] }$ ，对聚丙烯薄膜进行的$1 ~ 0 0 0 \mathrm { { h } }$ 电热老化实验表明，聚丙烯薄膜的击穿电压降低，且聚丙烯薄膜的结晶度出现了下降[29]。由电力电容器的结构可以得出，电介质薄膜的局部击穿场强直接决定了电力电容器的实际使用寿命 [30-32]。此外，当电容器内部温升不均匀时，会导致电介质材料不均匀的膨胀收缩而产生气隙，气隙的存在将加剧局部放电，甚至会使介质发生热击穿现象[33]。根据统计，电容器的寿命随温度上升而减少[31]。有试验数据表明，温度每上升 $8 \mathrm { { ^ \circ C } }$ ，电容器的寿命就减少一半[27]，并且介质工作温度越高，热寿命减半的温度差就越小[35]
+
+聚丙烯薄膜本身的电导率极低，但是随着温度的升高，其电导率不断增大[36。对电场与温度场共同作用下的聚丙烯薄膜的电导变化进行研究，结果表明，温度为293K时，介质阈值电场为 $1 0 \mathrm { M V / m }$ 当小于该阈值电场时，电导率保持不变，为 $2 . 5 9 \times$ ${ 1 0 } ^ { - 1 8 } \mathrm { S / m }$ ，当高于阈值电场时，电导率随场强呈指数上升。当场强为 $1 2 5 \mathrm { M V / m }$ 时，介质电导率随温度呈线性增加。电容器对外所呈现的绝缘电阻随温度升高明显下降；在场强、温度共同影响下，电导率随场强的增大而增加，但是在高温下这种增大趋势变缓，这是由高温下载流子的无序运动所致，如图1所示[37-38] 。
+
+![](images/284e47a703ffe9c87ee0876f86790ee19f410c788806165f8f0d6161f7f47895.jpg)  
+图1不同温度下电导率随电场的变化[37  
+Fig.1Variation of calculated conductivities with the electric field at different temperatures[37]
+
+在高电场、高温作用下，聚合物电介质电导率的增大，使电介质的电导损耗增加，致使聚合物电介质的热老化问题更加严峻。此外，聚合物电介质电导率的上升，还会造成电容器充放电效率下降。有研究表明，在室温条件下，BOPP薄膜充放电效率可达 $9 9 . 5 \%$ 以上，但是在 $1 0 0 ^ { \circ } \mathrm { C }$ 下，其充放电效率降低至20%[39]
+
+# 3电力电容器用电介质的研究现状
+
+# 3.1与击穿现象有关的研究
+
+# 3.1.1空间电荷现象
+
+对于高压直流电容器而言，提高聚合物的电场强度，空间电荷注入现象更加明显。当电场强度高于空间电荷注入积累的阈值电场时，空间电荷的注入与积累效应以及泄露电流将显著增加[40]。空间电荷的积累会导致聚合物绝缘介质局部电场畸变，畸变电场的存在会使绝缘材料中产生机电应力，降低材料绝缘性能，加速聚合物绝缘介质的老化过程。
+
+高压直流电场下的聚合物电介质材料面临的突出问题是材料内部空间电荷的积累容易引发材料击穿[41]。聚合物材料微观结构的不完整性以及介质中引入的外来杂质构成了引起介质老化的电荷积累中心[42]。如前所述，BOPP薄膜中存在着微孔、链的弯曲、位错和结晶区与非结晶区的界面等缺陷，少量的残存的催化剂、抗氧剂等杂质缺陷，这些缺陷是空间电荷陷阱的主要来源[21]。
+
+BOPP薄膜中的空间电荷积累情况已被实验结果证实[43-44]。有研究发现，在较高的直流电场下,双向拉伸聚丙烯薄膜电容器充电电荷量超过理论预期[45]，而且随外加电场的增加超过理论预期的充电电容量呈非线性增长，这正是由于BOPP 薄膜在高电场下发生空间电荷注入的结果。空间电荷的积累会导致聚合物绝缘介质局部电场畸变，加速聚合物绝缘介质的老化过程[46]。
+
+与交流电压相比，介质在直流电压下的空间电荷积累与击穿过程有所区别。有研究表明，在交流电压作用下，由电极注入的电荷在介质与电极界面处入陷为空间电荷，导致电极与介质界面处的电场畸变，从而导致介质击穿始于界面处介质的破坏。而在直流电压作用下，电极注入的同极性空间电荷会减弱界面处的电场，进一步地抑制空间电荷的注入；与此同时，介质内部的电场则在两侧同极性空间电荷的作用下得以加强，因此，直流电压下的击穿始于介质内部的破坏[47-48]
+
+# 3.1.2复杂电场下的击穿现象
+
+如前所述，固体电介质的性能直接影响电力电容器的性能。高压直流电容器的技术含量及可靠性要求较高，目前我国高压直流电容器大部分依赖进口。由于国外技术封锁，我国国产的高压直流电容器只能沿用交流电容器的BOPP薄膜。而由前面介绍可知，直流电场与交流电场下空间电荷导致的击穿机理并不相同；而且，高压直流电容器运行时面临着更为复杂的电场应力。在投切电容器或其他电容器并联的电气设备时，电容器的端子间会出现时间很短、幅值相当大的暂态过电压[23]。同时，高压直流电容器还会承受谐波电压的作用。因此，对于高压直流电容器的电介质材料，需要承受高直流、谐波及暂态过电压叠加的复杂电压作用[49]。
+
+目前，对于直流、脉冲电场下聚合物薄膜性能的研究取得了一些成果[50-52]。天津大学杜伯学等对脉冲电压、直流电压叠加脉冲电压下聚丙烯薄膜的沿面闪络特性进行了大量研究[50-51]。然而，对于直流电容器电介质在实际工程应用中面临的高压直流、谐波及暂态过电压叠加的复杂电场作用下的击穿现象研究还很少，而这些情况下的介质老化、击穿性能可能正是高压直流电容器寿命较短的原因，对于多场耦合下电介质的老化击穿需进一步展开研究。
+
+# 3.1.3表层分子结构调控抑制电荷注入
+
+表层分子结构调控技术能够抑制电荷注入与积累。使用氟气或含氟的气体混合物来对聚合物进行表层分子结构调控的直接氟化技术是当前最方便、有效的表层分子改性方法[53-55]。含氟基团容易在聚合物表面富集形成特殊结构，由于表面氟化改性能够在聚合物表面产生极性基团，改变聚合物的表面能，通过交联反应等提高材料表面的致密度，含氟聚合物表现出良好的表面性能[56]。
+
+天津大学杜伯学等的研究表明，对聚丙烯薄膜进行直接氟化可以在聚丙烯表面形成一层致密的氟化层，其能够弥补试样表层本身的某些缺陷，显著改变聚丙烯的电荷陷阱深度与密度，提高聚丙烯薄膜的电气性能，有效抑制表面电荷注入与积累[51]。研究表明，聚丙烯薄膜表面电荷密度随氟化时间的不同而有所区别，当氟化时间为 $3 0 \mathrm { m i n }$ 时，表面电荷密度最低并且消散速度最快，如图2所示。大量的研究表明，通过对其他聚合物薄膜进行直接氟化处理，也可以获得相似的结果，即对聚合物的表面电荷积累有明显的抑制作用[57-58]。相关研究结果也表明，表层分子结构调控在抑制聚合物空间电荷积累方面也有一定的作用。这些研究均已表明，聚合物材料的表层分子结构调控改性能够改善聚合物的电荷输运特性。通过对聚合物电介质进行直接氟化处理抑制表面电荷的注入，抑制电介质材料内部的空间电荷积累，对于减小空间电荷引起的电场畸变、提高击穿电压具有积极影响。
+
+![](images/48458e0d3164f1e9756be6f9a31ae7100345322e9d40d8ff6c23b4506e564b6c.jpg)  
+图2聚丙烯表面电荷密度与氟化时间关系[51] Fig.2Relationship between the surface charge density and the decay time with different fluorination time[51]
+
+# 3.1.4电介质耐压性能的提升
+
+为了有效提升聚丙烯材料的耐压性能，目前，大量的研究主要集中在通过不同聚合物共混和纳米粒子掺杂改性的方法制备聚丙烯基复合电介质，从而提高电介质击穿电压性能[58-61]。研究表明，当纳米氧化铝含量为 $0 . 5 \mathrm { w t \% }$ 时，聚丙烯/氧化铝纳米电介质的击穿场强相比于未掺杂时可提高 $2 7 \%$ 左右[62]。聚丙烯中添加质量分数为 $2 \%$ 的纳米有机黏土可以提高纳米复合聚丙烯的直流击穿场强[3]。但是，电力电容器用聚丙烯薄膜厚度仅为 $5 \sim 1 5 \mu \mathrm { m }$ ，掺杂的无机纳米粒子极易形成亚微米或微米级别的团聚，团聚粒子在微米级的薄膜中可能形成大量孔洞等电弱点，反而降低复合薄膜击穿场强。
+
+化学改性的方法通过接枝、嵌段共聚等手段在聚烯烃分子链上连接功能基团，相比于物理共混，此方法获得的聚合物均匀性好、结构稳定。研究表明，在聚合物中引入不同极性的功能基团能够改善聚合物的极性、介电性能。目前，已有学者利用聚合物接枝改性来解决高压直流电缆绝缘空间电荷注入积累问题，通过聚合物接枝改性可以抑制空间电荷的注入与积累、达到抑制电树枝的发生发展的有益效果[64-66]。嵌段共聚改性能够保持聚合物本身的良好性能同时兼具极性链段的性能[7]。针对电介质材料空间电荷积累以及击穿机理，需进一步开展利用聚合物化学改性方法改善电介质材料击穿性能的研究。
+
+# 3.2与热老化现象有关的研究
+
+# 3.2.1电介质热导率的提升
+
+纯聚合物热导率很低，影响热传导性质的因素主要有聚集态结构及取向效应。经过物理结构改变，如高度拉伸取向后可提高材料热导率。分子动力学模拟显示单个分子链或定向排列的分子链具有极高热导率 $( \sim 3 5 0 \mathrm { W } / ( \mathrm { m } \cdot \mathrm { K } ) )$ ，高热导是由于热沿着单个分子链以弹道方式传递所致[68]。
+
+将高导热填料填充到聚合物基体中形成的复合材料能有效提高热导率[69-70]。例如，采用偏苯三羧酸（BTC）接枝MWCNTs，实现BTC以共价键与MWCNTs的结合， $5 \ \mathrm { v o l \% }$ 时，环氧树脂复合材料的热导率可达 $0 . 9 6 \mathrm { W / ( m \cdot K ) ^ { [ 7 1 ] } }$ 。将笼型8倍半硅氧烷（POSS）功能化的BNNT添加到环氧树脂中，发现当体积分数约为 $1 7 \%$ 时，复合材料在保持较低的介电常数及损耗下，热导率将近提高了13.6倍[72]。在导热材料较低的填加量下在复合材料内部构筑尽可能多的导热通路的方法可以大幅提高热导率[73-74]。聚偏氟乙烯/聚苯乙烯不相容共混物中，添加碳化硅纳米粒子可以成功构建双阈渗结构[73]。自组装是指基本结构单元（分子、纳米材料、微米或更大尺度的物质）自发形成有序结构的一种技术[75-76]。在相同的体积分数下，通过自组装方法制备的环氧树脂/纳米银复合材料的热导率是微米粒子复合材料热导率的近50倍[77-78]。
+
+上述方法能否应用于聚丙烯材料热导率的提升，还需要做进一步深入研究。而且，这种在聚合物中填充高导热材料的方法，同样会形成电弱点，引起高压直流电容器用聚合物薄膜其他性能的下降。如何在不形成电弱点的情况下，有效提升聚合物薄膜的热导率，或通过某种方法将电容器卷绕芯子内部积聚的热量有效引出，则是未来高压直流电容器相关研究的努力方向。
+
+# 3.2.2耐高温电介质
+
+电力电容器在实际运行过程中，内部温升会导致电介质长期受到高温作用而发生热老化，致使电介质的各项性能下降，最终将导致电容器失效。因此，提高聚丙烯薄膜的耐温性能对于提高电容器的寿命具有重要意义。提高作为电介质使用的聚丙烯薄膜耐温性可以从提高结晶度入手[79]。聚丙烯的分子链具有较大取代基且螺旋形构象，主链结构具有一定的规整性，结晶区的分子排列紧密且具有较高的分子间作用力。因此，提高薄膜耐温性的关键是提高薄膜的结晶度，提高分子排列的规整性，减少非晶区的存在。聚合物分子中取代基团的对称性直接影响薄膜的结晶，因此提高聚丙烯原料的等规度能够提高聚丙烯薄膜的结晶度。目前，国内电容器薄膜用聚丙烯颗粒的等规度为 $96 \%$ 左右，结晶度也仅为 $40 \%$ 。有研究表明，采用等规度为 $9 8 . 5 \%$ 以上的聚丙烯颗粒作为原料，可使聚丙烯薄膜的结晶度提高到 $50 \%$ 左右[80]，能够显著提高聚丙烯薄膜的耐高温性能。
+
+# 4 结论与展望
+
+随着高压直流输电技术的发展，高压直流电容器向着高电压、大容量的方向发展，固体电介质材料BOPP薄膜的性能也相应面临更高的要求。面对不断提高的电容器电压等级与容量密度的要求，电介质材料工作时面临承受直流、脉冲和谐波叠加的复杂电场的作用，以及温升等因素的影响，电介质
+
+[1] 詹奕，尹项根．高压直流输电与特高压交流输电的 比较研究[J]．高电压技术，2001，27(4)：44-46. Zhan Yi, Yin Xianggen. Comparative research on HV DC and UHV power transmission[J]. High Voltage Engineering,2001,27(4): 44-46.   
+[2] Olundh Sandstrom G, Tingstrom J. Management of radical innovation andenvironmental challenges: development of the DryQ capacitor at ABB[J]. European Journal of Innovation Management, 2008, 11(2): 182-198.   
+[3] 房金兰．HVDC输电工程中各种电容器的用途 和技术特点[J]．电力电容器与无功补偿，2015, 36(4):6-12. Fang Jinlan.Applications and technical characteristics of various capacitors for HVDC power transmission projects[J].Power Capacitor & Reactive Power Compensation,2015,36(4): 6-12.   
+[4] 房金兰．我国电力电容器技术的发展[J]．电力电 容器与无功补偿，2010，31(1)：1-5. Fang Jinlan.Development of power capacitor technology in china[J].Power Capacitor& Reactive Power Compensation,2010,31(1): 1-5.   
+[5] Shaw D G, Cichanowski S W, Yializis A. A changing capacitor technology-failure mechanisms and design innovations[J].IEEE Transactions on Electrical Insulation,1981,EI-16(5): 399-413.
+
+# 参考文献
+
+[6] Lowe S K. Development, testing and performance of HV power capacitors[J]. Power Engineering Journal, 1988, 2(4): 215-222.   
+[7] Yoshida Y,Nishimatsu N,Mukai S,etal.Evolution of power capacitors as a result of new material development[J]. Cigre Report, 1980: 15-01.   
+[8] Tomago A, Shimizu T, Iijima Y, et al. Development of oil-impregnated, all-polypropylene-film power capacitor[J]. IEEE Transactions on Electrical Insulation,1977,EI-12(4): 293-301.   
+[9] Dhillon M S,Tziouvaras D A. Protection of fuseless capacitor banks using digital relays[C]. Western Protective Relay Conference,1999:1-17.   
+[10]Yasufuku S, Umemura T, Yasuda Y. Dielectric properties of oil-impregnated all polypropylene film,power capacitor insulation system[J]. IEEE Transactions on Electrical Insulation,1978,EI-13(6): 403-410.   
+[11]卢有盟，李兆林．全膜电力电容器及其发展[J]. 电力电容器，2002(4)：1-4. Lu Youmeng,Li Zhaolin. Development of all-film power capacitor[J]. Power Capacitor, 2002(4): 1-4.   
+[12]Ennis JB, MacDougall F W, Cooper R.A, et al. Recent development in pulse capacitors[C]. 2nd International Symposium on Pulsed Power and Plasma Applications,2001: 1-6.   
+[13]田兴旺，郝江涛．天生桥换流站直流滤波电容器 故障原因分析及改进建议[J]．电力电容器与无功 补偿，2009，30(6)：62-65. Tian Xingwang, Hao Jiangtao. The fault analysis and improvement suggestion on DC filter capacitor at converter station of TSQ[J]. Power Capacitor & Reactive Power Compensation, 2009,30(6): 62-65.   
+[14]Tortai J H, Denat A, Bonifaci N. Self-healing of capacitors with metallized film technology: experimental observations and theoretical model[J]. Journal of Electrostatics,2001, 53(2): 159-169.   
+[15]Lu Y, Li Z. Application research of polypropylene film[C]. International Conference on Properties and Applications of Dielectric Materials,2000(2):1052- 1057.   
+[16]MacDonald JR, Schneider M A, Ennis JB, et al. High energy density capacitors[C]. IEEE Electrical Insulation Conference,2009: 306-309.   
+[17]左干清，叶建铸，石延辉，等．特高压换流站直 流滤波电容器故障分析研究[J]．电力电容器与无 功补偿，2013，34(6)：88-94. Zuo Ganqing, Ye Jianzhu, Shi Yanhui, et al. Study on fault analysis of DC capacitor for UHV converter station[J]. Power Capacitor & Reactive Power Compensation, 2013,34(6): 88-94.   
+[18]Duarte L H S, Alves M F. The degradation of power capacitors under the influence of harmonics[C]. 10th IEEE International Conference on Harmonics and Quality of Power, 2002(1): 334-339.   
+[19]谢超，叶建铸，石延辉，等．直流滤波电容器剩 余预期寿命的试验研究[J]．电力电容器与无功补 偿，2017，38(2):87-93. Xie Chao,Shi Jianzhu,Shi Yanhui,et al. Experimental investigation of predict remiander lifetime for DC filter capacitors[J].Power Capacitor & Reactive Power Compensation, 2017, 38(2): 87- 93.   
+[20]Yoshida Y,Nishimatsu M.Power capacitors[J]. IEEE Transactions on Electrical Insulation,1986,21(6): 963-972.   
+[21]王文娟．基于空间电荷理论的脉冲电容器性能研 究[D]．武汉：华中科技大学，2016.   
+[22]李兆林，陈松，冯春林．电容器介质直流、交流 击穿电压值的对比研究[J]．电力电容器与无功补 偿，2011，32(2)：38-42. Li Zhaolin, Chen Song,Feng Chunlin. Comparison study on AC and DC breakdown voltage ratio of the power capacitor dielectric[J]. Power Capacitor & Reactive Power Compensation, 2011, 32(2): 38-42.   
+[23]沈文琪．温度、电压、谐波、涌流等对电容器寿 命的影响[J]．电力电容器，2005(2)：6-8. Shen Wenqi. Influence of temperature, voltage, harmonic and inrush transient current on power capacitor life expectancy[J]. Power Capacitor, 2005 (2): 6-8.   
+[24]Seguin B, Gosse JP, Sylvestre A, et al. Calorimetric apparatus for measurement of power losses in capacitors[C]. Instrumentation and Measurement Technology Conference,1998(1): 602-607.   
+[25]李黎，林福昌，李劲，等．高场强下金属化膜 电容器自愈失败的原因[J]．高电压技术，2001， 27(1): 43-44. Li Li,Lin Fuchang,Li Jin,et al.Discussion on reasons of metallixed film capacitors self-healing failure under high electric stress[J]. High Voltage Engineering, 2001, 27(1): 43-44.   
+[26]Lee S H, Lee B Y, Kim H K, et al. Local heat source approximation technique for predicting temperature rise in power capacitors[J]. IEEE Transactions on Magnetics,2009,45(3): 1250-1253.   
+[27]Gasperi M L.Life prediction modeling of bus capacitors in AC variable frequency drives[J]. IEEE Transactions on Industry Applications, 2005, 41(6): 1430-1435.   
+[28]Schneuwly A,Groning P, Schlapbach L,et al. Breakdown behaviors of oil-impregnated polypropylene as dielectric in film capacitors[J]. IEEE Transactions on Dielectrics and Electrical Insulation, 1998, 5(6): 862-868.   
+[29]程璐，漆乐俊，姚成，等．电热老化对聚丙烯薄 膜形态及击穿特性的影响[J]．电力电容器与无功 补偿，2015，36(6)：69-72. Chen Lu,Qi Lejun, Yao Cheng,et al. Influence of electric-thermal aging on BOPP film morphology and breakdown performance[J]. Power Capacitor & Reactive Power Compensation, 2015,36(6): 69-72.   
+[30] Umemura T, Abe K, Akiyama K. Thermal aging behavior of BOPP films[J]. IEEE Transactions on Electrical Insulation, 1987, EI-22(6): 735-743.   
+[31]Reed C W, Cichanowski S W. The fundamentals of aging in HV polymer-film capacitors[J]. IEEE Transactions on Dielectrics and Electrical Insulation, 1994,1(5): 904-922.   
+[32] Gao L Y, Tu D M, Zhou S C,et al. The influence of morphology on the electrical breakdown strength of polypropylene film[J]. IEEE Transactions on Electrical Insulation,1990,25(3):535-540.   
+[33] Kreczanik P, Venet P, Hijazi A,et al. Study of supercapacitor aging and lifetime estimation according to voltage, temperature, and RMS current[J]. IEEE Transactions on Industrial Electronics,2014, 61(9): 4895-4902.   
+[34]Sarjeant W J, Macdougall F W, Larson D W. Energy storage capacitors, aging,and diagnostic approaches for life validation[J]. IEEE Transactions on Magnetics,1997,33(12): 501-506.   
+[35]江正平．电力电容器热寿命减半的温度差[J]．电 力电容器，2005(3)：41-45. Jiang Zhengping. Temperature differential of thermal life expectancy decreasing to half for power capacitor[J]. Power Capacitor, 2005(3): 41-45.   
+[36]Ho J,Jow TR. High field conduction in biaxially oriented polypropylene at elevated temperature[J] IEEE Transactions on Dielectrics and Electrical Insulation,2012,19(3): 990-995.   
+[37]LiH, Li Z, Xu Z, et al. Electric field and temperature dependence of electrical conductivity in biaxially oriented polypropylene films[J]. IEEE Transactions on Plasma Science, 2014, 42(11): 3585-3591.   
+[38]Li Hua,Li Zhiwer,Lin Fuchang, et al. Mechanism of insulation resistance in metalized polypropylene film capacitors[J]. Electrical Insulation & Dielectric Phenomena,2013: 643-646.   
+[39]Tan D, Zhang L L, Chen Q, et al. High-temperature capacitor polymer films[J]. Electronic Materials, 2014, 43(12): 4569-4575.   
+[40]Dissado L A,Laurent C, Montanari G C, et al. Demonstrating a threshold for trapped space charge accumulation in solid dielectrics under dc field[J]. IEEE Transactions on Dielectrics and Electrical Insulation,2005,12(3): 612-620.   
+[41]Zheng FH, Lin C,Liu C D,et al. A method to observe fast dynamic space charge in thin dielectric films[J]. Applied Physics Letters, 2012,101(17): 334.   
+[42]Dissado L A, Mazzanti G, Montanari G C. The role of trapped space charges in the electrical aging of insulating materials[J]. IEEE Transactions on Dielectrics and Electrical Insulation,1997,4(5): 496-506.   
+[43]Zheng F H,Liu C D, Lin C, et al. Thermal pulse measurements of space charge distributions under an applied electric field in thin films[J]. Measurement Science and Technology,2013,24(6): 065603.   
+[44]Zheng F,Miao Y, Dong J, et al. Space charge characterization in biaxially oriented polypropylene films[J]. IEEE Transactions on Dielectrics & Electrical Insulation,2016,23(5): 3102-3107.   
+[45]LiH, Wang B W,Li Z W, et al. Modeling of stored charge in metallized biaxially oriented polypropylene film capacitors based on charging current measurement[J]. Review of Scientific Instruments, 2013, 84(10): 104707.   
+[46]尹毅，肖登明，屠德民．空间电荷在评估绝缘聚 合物电老化程度中的应用研究[J]．中国电机工程 学报，2002，22(1)：43-48. Yin Yi, Xiao Dengming,Tu Demin. An application of space chargein valuing the electric aging degree of insulating polymer[J]. Proceedings of the CSEE, 2002,22(1): 43-48.   
+[47]Li S, Zhu Y, Min D, et al. Space charge modulated electrical breakdown[J]. Scientifc Reports, 2016,6: 32588.   
+[48]Fujii M,Fukuma M, Tokoro T,et al. Numerical analysis of space charge distribution in polypropylene film under AC high field[C]. IEEE International Symposium on Electrical Insulating Materials,2001: 156-159.   
+[49]刘水平，饶娣． $\pm 5 0 0 \mathrm { k V }$ 超高压直流输电直流滤 波电容器及装置的开发[J]．电力电容器与无功补 偿，2009，30(1)：1-3. Liu Shuiping, Rao Di. Development of DC fltering capacitors and installations for $\pm 5 0 0 \mathrm { k V }$ extra HVDC transmission[J]. Power Capacitor & Reactive Power Compensation, 2009,30(1): 1-3.   
+[50]Du B X, Zhu W B,Li J, et al. Temperature-dependent surface charge behavior of polypropylene film under DC and pulse voltages[J]. IEEE Transactions on Dielectrics and Electrical Insulation, 2017, 24(2): 747-783.   
+[51]Du B X, Huang PH, Xing YQ. Surface charge and flashover characteristics of fluorinated polypropylene under pulse voltage[J]. IET Science, Measurement & Technology,2017,11(1): 18-24.   
+[52]Barshaw EJ, White J, Chait M J,et al. High energy density (HED） biaxially-oriented poly-propylene (BOPP) capacitors for pulse power applications[J]. IEEE Transactions on Magnetics, 2007,43(1): 223- 225.   
+[53]Blanksby S J,Ellison G B.Bond dissociation energies of organic molecules[J]. Accounts of Chemical Research,2003,36(4): 255-263.   
+[54]Kharitonov A P. Direct fluorination of polymers-from fundamental research to industrial applications[J]. Progress in Organic Coatings,2008,61(2-4): 192   
+[55]Kharitonov A P. Practical applications of the direct fluorination of polymers[J]. Journal of Fluorine Chemistry,2000,103(2):123-127.   
+[56] Tressaud A,Durand E,Labrugere C,et al. Modification of surface properties of carbonbased and polymeric materials through fluorination routes: from fundamental research to industrial applications[J]. Journal of Fluorine Chemistry, 2007, 128(4): 378-391.   
+[57]Du B X,Li J, Du W. Surface charge accumulation and decay on direct-fluorinated polyimide $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ nanocomposites[J]. IEEE Transactions on Dielectrics and Electrical Insulation,2013,20(5): 1764-1771.   
+[58]Du B X,Li J, Du W. Dynamic behavior of surface charge on direct-fluorinated polyimide films[J]. IEEE Transactions on Dielectrics and Electrical Insulation, 2013, 20(3): 947-954.   
+[59]Dang Y, Wang Y, Deng Y, et al. Enhanced dielectric properties of polypropylene based composite using （204号 ${ \mathrm { B i } } _ { 2 } { \mathrm { S } } _ { 3 }$ nanorod filler[J]. Progress in Natural Science: Materials International, 2011,21(3): 216-220.   
+[60]Takala M, Sonerud B,Ranta H,et al. Efect of low amount of nanosilica on dielectric properties of polypropylene[C]. IEEE International Conference on Solid Dielectrics, 2010: 1-5.   
+[61]谢东日，闵道敏，刘文凤，等．介质击穿与界面区 陷阱特性的关联[J]．高电压技术，2018，44(2)： 432-439. Xie Dongri,Min Daomin,Liu Wenfeng,et al. Correlation between dielectric breakdown and interface traps characteristics[J]. High Voltage Engineering, 2018, 44(2): 432-439.   
+[62]Rytöluoto I, Lahti K, Kartunen M,et al. Influence of low amounts of nanostructured silica and calcium carbonate fillers on the large-area dielectric breakdown performance of bi-axially oriented polypropylene[C]. Electrical Insulation and Dielectric Phenomena, 2014: 655-658.   
+[63]马超，闵道敏，李盛涛，等．聚丙烯／氧化铝纳 米电介质的陷阱与直流击穿特性[J]．物理学报, 2017, 66(6): 067701. Mao Chao,Min Daomin, Li Shengtao,et al. Trap distribution and direct current breakdown characteristics in polypropylene $' \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ nanodielectrics [J].Acta Physica Sinica, 2017, 66(6): 067701.   
+[64]Bamji S S,Abou-Dakka M, Bulinski A T, et al. Dielectric properties of polypropylene containing nano-particles[C]. Annual Report Conference on Electrical Insulation and Dielectric Phenomena, 2005: 166-170.   
+[65]Yoshifuji N, Niwa T, Takahashi T, et al. Development of the new polymer insulating materials for HVDC cable[J]. IEEE Transactions on Power Delivery, 1992, 7(3): 1053-1059.   
+[66]Lee S,Park J,Han J,et al. Space charge and electrical conduction in maleic anhydride-grafted polyethylene[J]. IEEE Transactions on Dielectrics and Electrical Insulation,1995,2:1132-1139.   
+[67]Zhou Y, Hu J, Dang B, et al. Mechanism of highly improved electrical properties in polypropylene by chemical modification of grafting maleic anhydride[J]. Journal of Physics D: Applied Physics, 415301.   
+[68]Ye Y,Li P, Shangguan Y, et al. A convenient,highlyefficient method for preparation of hydroxylterminated isotactic poly (propylene) and functional di-block copolymer[J]. Chinese Chemical Letters, 2014, 25(4): 596-600.   
+[69] Wang Z H, Carier JA, Lageutchev A, et al. Ultrafast flash thermal conductance of molecular chains[J]. Science,2007,317(5839): 787-790.   
+[70]Noma Y, Saga Y, Une N. Amorphous silica-coated graphite particles for thermally conductive and electrically insulating resins[J]. Carbon, 2014, 78(18): 204-211.   
+[71] Michael Bozlar, et al. Carbon nanotube microarchitectures for enhanced thermal conduction at ultralow mass fraction in polymer composites[J]. Advanced Materials,2009,47(21): 1-5.   
+[72]Yang S Y, et al. Effect of functionalized carbon nanotubes on the thermal conductivity of epoxy composites[J]. Carbon, 2010,48(3): 592-603.   
+[73]Huang X Y, Zhi C Y, Jiang P K,et al. Polyhedral oligosilsesuioxane-modified boron nitride nanotube based epoxy nanocomposites: an ideal dielectric material with high thermal conductivity[J].Advanced Functional Materials,2013,23(14): 1824-1831.   
+[74] Cao JP,Zhao J,Zhao X,et al. High thermal conductivity and high electrical resistivity of poly(vinylidene fluoride） /polystyrene blends by controlling the localization of hybrid fillers[J]. Composite Science and Technology, 2013,89(1): 142-148.   
+[75] Yorifuji D,Ando S.Enhanced thermal conductivity over percolation threshold in polyimide blend films containing ZnO nano-pyramidal particles: advantage of vertical double percolation structure[J]. Journal of Materials Chemistry,2011,21(12): 4402-4407.   
+[76] Zeng X,Yao Y,Gong Z,et al. Ice-templated assembly strategy to construct 3D boron nitride nanosheet networks in polymer composites for thermal conductivity improvement[J]. Small,2015, 11(46): 6205-6213.   
+[77] Chen J,Huang X,Zhu Y,et al.Cellulose nanofiber supported 3D interconnected BN nanosheets for epoxy nanocomposites with ultrahigh thermal management capability[J].Advanced Functional Materials,2016,27(5): 1604754.   
+[78] Pashayi K,Fard HR,Lai F,etal. Self-constructed tree-shape high thermal conductivity nanosilver networks in epoxy[J]. Nanoscale, 2014, 6(8): 4292- 4296.   
+[79] 姚力丁．提高电容器用BOPP薄膜耐温性能探讨 [J]．电力电容器，2003(2)：46-48. Yao Liding.Discussion on BOPP capacitor film with improved heat resistance[J].Power Capacitor, 2003(2): 46-48.   
+[80] 储松潮，常庆阳，吴建章，等．耐高温BOPP电 容薄膜的开发和应用[J]．电力电容器与无功补偿， 2018(1): 62-64. Chu Songchao, Chang Qingyang,Wu Jianzhang,et al. Development and application of high temperature resistance biaxially oriented polypropylene film for capacitor[J].Power Capacitor & Reactive Power Compensation,2018(1): 62-64.

@@ -1,0 +1,482 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.11931/guihaia.gxzw201903042 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "贵州省国家重点保护野生植物物种丰富度分布特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "及保护优先区分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "金勇1²，安明态1,2\\*,崔兴勇1,2，叶超1,²，安青青1.2（1．贵州大学 林学院，贵阳 550025；2．贵州大学生物多样性与自然保护研究中心，贵阳5520025)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本研究以国家重点保护野生植物为指示物种，结合贵州各县（市、区）的国家重点保护野生植物调查统计信息，基于GIS 技术，分析贵州省国家重点保护野生植物物种丰富度分布特征；应用Dobson算法筛选识别贵州国家重点保护野生植物的保护优先区，并利用全省已建自然保护区信息评价分析所筛选的保护优先区的保护现状。结果表明：（1）在贵州国家重点保护野生植物的物种丰富度分布上，总体来说全省南部地区高于北部地区，环省界区域往内陆延伸的物种丰富度明显呈减少趋势。（2）在 $7 5 \\%$ 和 $1 0 0 \\%$ 的国家重点保护野生植物物种保护水平上，筛选识别出了荔波县等4个和17个县域为保护优先区，其中分别有1个和9个国家重点保护野生植物保护优先区内涵盖的自然保护区面积低于 $5 \\%$ ，且涉及的自然保护区中68. $2 6 \\%$ 的面积是市/县级。（3）贵州国家重点保护野生植物物种较丰富的区域和全省生物多样性热点区域与所筛选识别的保护优先区有较好的空间对应关系。（4）贵州国家重点保护野生植物的就地保护应以国家重点保护野生植物地理分布丰富的区域结合本研究筛选的保护优先区为重点，进行优先保护。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：保护优先区，国家重点保护野生植物，物种丰富度分布特征，自然保护区，贵州中图分类号：Q948.2 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of species abundance distribution feature and protection priority area of national protected wild plants in Guizhou Province ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIN Yong1,2,ANMingtai1,2,，CUI Xingyong1,2,YEChao12,AN Qingqing1 (1.CollegeofForestry,Guizhou University,Guiyang 55o025,China;2.Research Center forBiodiversity and Nature Conservation, Guiyang 550025, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study used national protected wild plants as indicator species and combined with the statistical survey information of national protected wild plants on the county (city, district) to analyze the geographical distribution feature of species richness based on the GIS technology in Guizhou Province.We applied Dobson algorithm to identify the protection priority area of national protected plant. Then we used the information of existing nature reserves to assess the protection status of the national protected wild plants priority conservation areas in Guizhou. The results were as follows: (1） In terms of the species richness distribution of the national key protected wild plants in Guizhou,the Southern region is generally higher than the northern region, and the species richness of the area extending inland from the provincial boundary is obviously decreasing. (2) In terms of the $7 5 \\%$ and $100 \\%$ national protected wild plants conservation levels, four and seventeen counties (cities,districts） were identified priority conservation areas,for example Libo County, respectively. Among them,1 and 9 national priority zones of key protection of wild plants cover less than $5 \\%$ of the nature reserves,and $6 8 . 2 6 \\%$ of the areas involved were city/county level. (3) The areas with abundant wild plant species under state key protection and the biodiversity hotspots in the whole province have good spatial correspondence with the selected priority areas in Guizhou. (4) Local protection of wild plants under state key protection should be carried out in priority areas with rich geographical distribution of wild plants under state key protection combined with priority areas selected in this study in Guizhou. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: protection priority areas， national protected wild plants， species abundance distribution feature, nature reserve,Guizhou ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贵州是典型的山区省份，由于特殊的地理位置、纵横交错的山脉水系、复杂多变的地形地貌和气候背景，造就了全省丰富的植物多样性。据统计贵州有高等植物10255种，约占中国高等植物物种数的 $30 \\%$ (罗扬和邓伦秀,2015；熊源新，2014；覃海宁和赵莉娜,2017），是中国高等植物非常丰富的省区之一。根据1999 年国务院批准的《国家重点保护野生植物名录（第一批)》的 294 种国家重点保护野生植物(于永福,1999)中，贵州就有85 种，占 $2 8 . 9 \\%$ 。由于全省人口密度高，干扰大，加上喀斯特地貌覆盖面广且多数地区深度发育，生态环境脆弱且严酷，受威胁的贵州省的国家重点保护野生植物物种比例较高，且受威胁物种分布不均，通过优先排序并加强针对性的保护对于减少国家重点保护野生植物的威胁至关重要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自然保护区是保护生物多样性和维护生态系统平衡的重要途径之一(黄志强等，2014)，是国家重点保护野生植物物种及其生境保护最为直接、有效的方式(陈雅涵等，2009)。自1978年贵州省建立第一个自然保护区——梵净山自然保护区(黎平，2014)至今，全省已建立自然保护区124个，面积占全省国土面积的 $5 . 1 \\%$ (贵州省统计局和国家统计局贵州调查总队，2018)，低于全国 $12 . 9 9 \\%$ (黄志伟,2016)的平均水平。目前还有许多地方性特有植物和濒危植物物种没有被纳入任何保护区之内有效保护(Zhang＆Ma，2008)，保护区的空间分布也不平衡(Sang et al.,2011)，这种现象在贵州省较为突出，日益频繁的人类活动又加剧了贵州国家重点保护野生植物的保护压力。因此，开展保护优先区排序并尽早加以优先保护已变得迫在眉睫。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "物种丰富度是区域物种多样性保护的重要参考和依据(徐卫华等，2010)，且国内外广泛使用濒危物种等作为识别和分析保护优先区的指示物种(Dobson，1997；徐卫华等，2010；杨飞龄等,2013)。结合物种丰富度分布特征，使用Dobson 筛选法识别保护优先区，其重要目的是为了以有限的保护资源分配在最有保护价值的地区，是实现区域生物多样性保护的最佳有效途径(杨飞龄,2016)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究选取国家级重点保护植物作为指示物种，基于贵州省各县（市、区）（下文统称县）的国家重点保护野生植物信息统计，利用GIS 技术分析全省国家重点保护野生植物物种丰富度分布特征，应用Dobson 算法(Dobson，1997)，筛选出全省国家重点保护野生植物物种的互相补充且需要保护面积最小的保护优先区，再使用已建立的自然保护区的信息分析所筛选保护优先区的保护状况，为贵州省针对国家重点保护野生植物优先排序保护、减少对国家重点保护野生植物的威胁提供直接有效的参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贵州省位于我国西南部，地理坐标为 $1 0 3 ^ { \\circ } 3 6 ^ { \\prime } \\mathrm { - } 1 0 9 ^ { \\circ } 3 5 ^ { \\prime } \\mathrm { E }$ 和 $2 4 ^ { \\circ } 3 7 ^ { \\prime } - 2 9 ^ { \\circ } 1 3 ^ { \\prime } \\mathrm { N } .$ ，全省国土总面积 $1 7 . 6 2 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ，占全国国土面积的 $1 . 8 \\%$ 。全省气候垂直差异显著，故有“高低物候别，十里不同天”的景象。地貌类型较为复杂，以高原山地和丘陵为主。全省森林覆盖率达$57 \\%$ ，是全国生物多样性十分丰富的省区之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1国家重点保护野生植物数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2013 年至2018年，由国家林业和草原局和贵州省林业局组织开展的第二次全国重点保护野生植物资源调查（贵州省区）是贵州省史上历时最久、规模最大、最系统的一次重点保护植物调查，基本摸清了全省国家重点保护野生植物资源的家底，得到目前贵州省涉及国家重点保护野生植物最权威和系统的分布数据。本论文主要依据该调查数据为基础构建了贵州省国家重点保护野生植物县域分布数据库，同时参考《国家重点保护野生植物名录(第一批)》(1999)、查阅其他文献(黎平,2016；罗扬和邓伦秀,2015；董泽琴,2010)以及贵州省目前已出版的自然保护区科考集与相关种质资源调查报告等，共确定了85种国家重点保护野生植物及其分布信息。本研究利用ArcGIS建立贵州省国家重点保护植物物种丰富度分布数据库，ArcGIS中贵州省县域行政单元的空间数据来源于《全国地理信息资源目录服务系统》（http://www.webmap.cn）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2国家重点保护野生植物物种丰富度分布特征分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于贵州省国家重点保护野生植物物种在县域单元分布数据，采用Arcgis10.2软件对国家重点保护野生植物物种丰富度分布特征进行分析。在绘制贵州省国家重点保护野生植物物种空间分布图时，以县为分析单位，考虑每个县面积大小不一致，为消除面积因素影响，采用基于面积自然对数的密度修正公式(Qian,1998)。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = { \\frac { S } { \\ln A } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $D$ 表示每个县域单元的国家重点保护野生植物物种密度（国家重点保护野生植物物种数 $/ \\mathrm { k m } ^ { 2 }$ ）， $s$ 是每个县域调查单元的国家重点保护野生植物物种数，A代表每个县域调查单元的面积( $\\cdot \\mathrm { k m } ^ { 2 }$ )。将计算所得 $D$ 赋值在贵州省县域行政单元的属性，采用NaturalBreakes(Jenks)分类方法将物种空间分布密度进行分级，绘制贵州省县域单元国家重点保护植物物种丰富度分布图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3保护优先区识别",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选取贵州省列入国家重点保护野生植物物种作为指示种，使用Dobson筛选法识别筛选贵州国家重点保护野生植物的保护优先区，并设置 $7 5 \\%$ 和 $100 \\%$ 国家重点保护野生植物物种保护水平。Dobson筛选法的核心是基于“互补子集原则”，筛选出为保护指示物种需要最小面积的空间单元。具体步骤为：在贵州省涉及国家重点保护植物的县域分布数据库中，首先选择分布指示物种数量最多的县，然后在数据库中删除该县含有的指示物种，则选择的这个县就是保护优先区，删除的这部分指示种就是该保护优先区保护的物种，再根据数据库中含有指示物种数量从多到少的县重新排序，再选中排序最高的县并进一步重复前面的步骤。若两个或者两个以上的县含有指示物种数相同，优先选取面积较小的县，直到所筛选出的空间单元的累积保护的指示物种数达到特定数量比例或全部指示物种都被保护，这些空间单元即为该指示种的保护优先区(杨飞龄等,2013)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4保护状况分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "国家重点保护野生植物物种及其生境保护最为直接有效的方式是自然保护区(陈雅涵等，2009)。本研究利用已建自然保护区信息评价分析筛选识别的国家重点保护野生植物保护优先区的保护状况。贵州省自然保护区信息来源于：生态环境部《2015年全国自然保护区名录》（http:/sts.mee.gov.cn/zrbhdjg/201611/P020161125559865886359.pdf）以及综合汇总近年贵州省自然保护区整合、升级或新建信息。统计的自然保护区基本信息包括：面积、名称、保护区等级、分布位置等。在全省已建的124个自然保护区中，对于跨行政区域的自然保护区将自然保护区面积均分于各县级行政区域，并计算筛选的保护优先区涉及的自然保护区总面积，进行分析评价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1国家重点保护野生植物物种丰富度分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "贵州省已知列入国家重点保护野生植物共有42科66属85种，以县为单元统计的国家重点保护野生植物物种丰富度分布特征如表1和图1所示。全省的85种国家重点保护野生植物物种，其中有惠水等10个县分布有 20 种及以上的国家重点保护野生植物；望谟等 3个县分布有30种以上，最高的是荔波县分布有33种；务川等38个县的国家重点保护野生植物低于于10种。其中，中部地区南明、观山湖；东部地区的玉屏以及北部地区的汇川等县分布的国家重点保护野生植物物种数最少仅有1种。从全省重点保护野生植物的县域物种丰富度来看，南部区域最高，且环省界区域物种丰富度往内陆区域延伸呈减少趋势。全省5个物种密度等级较高的县，有4个县在贵州南部区域即荔波、望谟、独山和黎平一带，仅道真1个县在北部，中部、东部和西部均没有，同时该5个县均在环省界区域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1b41f35bcb4ef199e42b340635873c678831f0163e9fbc535b54b94c1f16a67.jpg",
+        "table_caption": [
+            "表1贵州省涉及国家重点保护野生植物物种数量分布县域统计表",
+            ".able1 Distribution of species number of national protected wild plants "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">TabieTDisuributior</td></tr><tr><td></td><td></td><td>物种数</td><td></td><td></td><td>物种数</td><td></td><td></td><td>物种数</td></tr><tr><td>县域名</td><td>面积</td><td>Number</td><td>县域名</td><td>面积</td><td>Number</td><td>县域名</td><td>面积</td><td>Number</td></tr><tr><td>County</td><td>Area</td><td>of</td><td>County</td><td>Area</td><td>of</td><td>County</td><td>Area</td><td>of</td></tr><tr><td>name</td><td>（km²）</td><td>species</td><td>name</td><td>（km²）</td><td>species</td><td>name</td><td>（km²）</td><td>species</td></tr><tr><td>荔波 Libo</td><td>2 431.8</td><td>33</td><td>赫章 Hezhang</td><td>3 242.74</td><td>14</td><td>威宁 Weining</td><td>6298</td><td>9</td></tr><tr><td>道真 Daozhen</td><td>2156</td><td></td><td>水城 Shuicheng</td><td></td><td></td><td>平坝</td><td></td><td></td></tr><tr><td>望谟</td><td></td><td>32</td><td>德江</td><td>3 607.82</td><td>14</td><td>Pingba 松桃</td><td>999</td><td>7</td></tr><tr><td>Wangmo</td><td>3018</td><td>32</td><td>Dejiang</td><td>2 072</td><td>13</td><td>Songtao 七星关区</td><td>3 409</td><td>8</td></tr><tr><td>独山 Dushan</td><td>2 442.2</td><td></td><td>紫云 Ziyun</td><td></td><td></td><td>Qixingguan</td><td></td><td></td></tr><tr><td>黎平</td><td></td><td>26</td><td>沿河</td><td>2 284</td><td>13</td><td>District 晴隆</td><td>3 412</td><td>8</td></tr><tr><td>Liping 从江</td><td>4 441</td><td>26</td><td>Yanhe</td><td>2 468.8</td><td>13</td><td>Qinglong</td><td>1 309.8</td><td>7</td></tr><tr><td>Congjiang</td><td>3 245</td><td>24</td><td>贵定 Guiding</td><td>1 631</td><td>12</td><td>普安 Puan</td><td>1453</td><td>7</td></tr><tr><td>榕江 Rongjiang</td><td>3316</td><td></td><td>麻江 Majiang</td><td></td><td></td><td>岑巩</td><td></td><td></td></tr><tr><td>印江</td><td></td><td>24</td><td>湄潭</td><td>960</td><td>11</td><td>Cengong 龙里</td><td>1 486.5</td><td>7</td></tr><tr><td>Yinjiang 三都</td><td>1969</td><td>21</td><td>Meitan 息烽</td><td>1864</td><td>12</td><td>Longli 余庆</td><td>1521</td><td>7</td></tr><tr><td> Sandu</td><td>2 400</td><td>20</td><td>Xifeng</td><td>1 036.5</td><td>11</td><td>Yuqiang</td><td>1 623.7</td><td>7</td></tr><tr><td>惠水</td><td></td><td></td><td>瓮安</td><td></td><td></td><td>白云区 Baiyun</td><td></td><td></td></tr><tr><td>Huishui</td><td>2 470</td><td>20</td><td>Wengan</td><td>1973.8</td><td>12</td><td>District</td><td>272</td><td>5</td></tr><tr><td>雷山</td><td></td><td></td><td>思南</td><td></td><td></td><td>云岩区</td><td></td><td></td></tr><tr><td>Leishan</td><td>1218.5</td><td>18</td><td>Sinan</td><td>2 230.5</td><td></td><td>Yunyan</td><td></td><td>4</td></tr><tr><td>习水</td><td></td><td></td><td></td><td></td><td>12</td><td>District</td><td>93.57</td><td></td></tr><tr><td></td><td></td><td></td><td>凯里</td><td></td><td></td><td>遵义</td><td></td><td></td></tr><tr><td>Xishui</td><td>3128</td><td>20</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Kaili</td><td>1571</td><td>11</td><td>Zunyi</td><td>2 487.63</td><td>6</td></tr><tr><td>罗甸</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>黄平</td><td></td><td></td><td>清镇</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Luodian</td><td>3013</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>19</td><td>Hangping</td><td>1 668</td><td>11</td><td>Qingzhen</td><td>1383</td><td>5</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>花溪区</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>盘州</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Huaxi</td><td></td><td></td><td>关岭</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Panzhou</td><td></td><td></td><td></td><td></td><td>10</td><td>Guanling</td></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b5c9a1db2cf12fa52c6714f23a200cf216ea185200a515fd0ca4ea558d25fd1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>pingtang</td><td></td><td></td><td>开阳</td><td></td><td></td><td>福泉</td><td></td><td></td></tr><tr><td></td><td>2806</td><td>18</td><td>Kaiyang</td><td>2 026</td><td>11</td><td>Fuquan 西秀区</td><td>1688</td><td>5</td></tr><tr><td>赤水 Chishui</td><td>1852</td><td>17</td><td>正安 Zhengan</td><td>2 595</td><td>11</td><td>Xixiu District</td><td>1710</td><td>5</td></tr><tr><td></td><td></td><td></td><td>六枝特区 Liuzhi</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>江口 Jiangkou</td><td>1869</td><td>17</td><td>Special Region</td><td></td><td>10</td><td>镇宁 Zhenning</td><td>1 717.3</td><td>5</td></tr><tr><td></td><td></td><td></td><td>碧江区</td><td>1 799.48</td><td></td><td>乌当区</td><td></td><td></td></tr><tr><td>台江 Taijiang</td><td>1108</td><td>15</td><td>Bijiang District</td><td>1012</td><td>9</td><td>District Wudang</td><td>686</td><td>4</td></tr><tr><td>石阡 Shiqian</td><td>2 173</td><td>16</td><td>三穗</td><td></td><td></td><td>修文</td><td></td><td>4</td></tr><tr><td>安龙</td><td></td><td></td><td>Sansui 务川</td><td>1 035.8</td><td>9</td><td>Xiuwen 仁怀</td><td>1075.7</td><td></td></tr><tr><td>Anlong</td><td>2 237.6</td><td>16</td><td>Wuchuan</td><td>2 777</td><td>10</td><td>Renhuai 红花岗区</td><td>1788</td><td></td></tr><tr><td>桐梓</td><td></td><td></td><td></td><td></td><td></td><td>Hong</td><td></td><td></td></tr><tr><td>Tongzi</td><td>3200</td><td>16</td><td>织金 Zhijin</td><td>2868</td><td>10</td><td>Huagang District</td><td>1 422.75</td><td>3</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>钟山区</td><td></td><td></td></tr><tr><td>剑河 Jienhe</td><td>2176</td><td>15</td><td>大方</td><td></td><td>10</td><td>Zhongshan District</td><td>478.99</td><td></td></tr><tr><td></td><td></td><td></td><td>Dafang</td><td>3 505.21</td><td></td><td>万山区</td><td></td><td></td></tr><tr><td>都匀 Duyun</td><td>2 274</td><td>15</td><td>锦屏</td><td></td><td></td><td>Wanshan</td><td></td><td></td></tr><tr><td>纳雍</td><td></td><td></td><td>Jinping 兴仁</td><td>1597</td><td>9</td><td>District 普定</td><td>842</td><td></td></tr><tr><td>Nayong</td><td>2 452.32</td><td>15</td><td>Xingren</td><td>1785</td><td>9</td><td>Puding</td><td>1 079.93</td><td></td></tr><tr><td>施秉</td><td></td><td></td><td>镇远</td><td></td><td></td><td>南明区 Nanming</td><td></td><td></td></tr><tr><td>Shibing</td><td>1 531.83</td><td>14</td><td> Zhenyuen</td><td>1878</td><td>9</td><td>District</td><td>209.34</td><td></td></tr><tr><td>册亨</td><td></td><td></td><td>黔西</td><td></td><td></td><td>观山湖区 Guanshanhu</td><td></td><td></td></tr><tr><td>Ceheng</td><td>2 598</td><td>15</td><td>Qianxi</td><td>2 380.5</td><td>9</td><td>District</td><td>307</td><td></td></tr><tr><td>丹寨 Danzhai</td><td>940</td><td>13</td><td>贞丰</td><td></td><td></td><td>玉屏</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Zhenfeng</td><td>1 511.9</td><td>8</td><td>Yuping 汇川区</td><td>523.78</td><td></td></tr><tr><td>兴义</td><td></td><td></td><td>长顺</td><td></td><td></td><td>Huichuan </td><td></td><td></td></tr><tr><td>Xingyi</td><td>2 915</td><td>15</td><td>Changshun</td><td>1 543</td><td>8</td><td>District</td><td>1515</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>天柱</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>金沙</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>14</td><td>Tianzhu</td><td>2 201</td><td>6</td><td></td><td></td><td></td></tr><tr><td>Jinsha</td><td>2 528</td></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/06ade889e5c5b54a6d0db90899ba25daaa20976c27236ec1f75482b6b28870ed.jpg",
+        "img_caption": [
+            "图1贵州省县域单元国家重点保护植物物种丰富度分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Distribution of national key protected plant species richness in county units of Guizhou ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用物种密度表示物种丰富度，目的是减小各县的面积大小差异对丰富度的影响。将县域单元内的物种密度为第4、5级定义为物种丰富度较高的县。再对物种丰富度较高的5个县分析，如表2所示，第5级的2个县共分布52种国家重点保护野生植物，第5级和第4级的5个县累计分布66种保护植物，分别占全省所有国家重点保护野生植物物种的 $6 1 . 6 8 \\%$ 和$7 7 . 6 5 \\%$ ，这两个等级包含了大部分的国家重点保护野生植物物种，从荔波县到黎平县，累计保护物种数递增速率逐渐降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca16a93f06dafdd7ef03523e418440f7ade3c6531e4f894df96dec9a1fb67cb7.jpg",
+        "table_caption": [
+            "表2贵州省国家重点保护野生植物丰富度较高的县的物种数量统计表",
+            "able 2 Counties with higher National Protected Wild Plants richness and the amount of th "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">species</td></tr><tr><td>序号 nSeriaer</td><td>County</td><td>密度 Dey</td><td>保护植物密度 Pr</td><td>保护物种数</td><td>排除</td><td>累计保护 物种数 species</td><td>比例 Proportion</td></tr><tr><td>1</td><td>荔波 Libo</td><td>5</td><td>4.23</td><td>33</td><td>33</td><td>33</td><td>38.82</td></tr><tr><td>2</td><td>道真 Daozhen</td><td>5</td><td>4.17</td><td>32</td><td>19</td><td>52</td><td>61.68</td></tr><tr><td>3</td><td>望谟 Wangmo</td><td>4</td><td>3.99</td><td>32</td><td>7</td><td>59</td><td>69.41</td></tr><tr><td>4</td><td>独山 Dushan</td><td>4</td><td>3.33</td><td>26</td><td>3</td><td>62</td><td>72.94</td></tr><tr><td>5</td><td>黎平 Liping</td><td>4</td><td>3.10</td><td>26</td><td>4</td><td>66</td><td>77.65</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体来看，全省国家重点保护植物物种丰富度南部地区高于北部地区，东部地区高于西部地区。环省界与邻省接壤地区保护物种丰富度较高，往内陆延伸保护物种丰富度明显呈减少趋势。国家重点保护野生植物物种丰富度较高的分布区域集中在贵州南部荔波、册亨、独山、黎平和北部道真一带，这些区域自然生态较好，海拔低，雨热丰富，保护植物物种丰富，人口密度较小，人为干扰较少。但是作为贵州国家重点保护野生植物物种密度较高的区域，如册亨和黎平等县自然保护区建设力量薄弱，保护力度不够，使该区域国家重点保护野生植",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "物的保护面临严峻考验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2国家重点保护野生植物保护优先区",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据表3和图2可知，在全省 $7 5 \\%$ 和 $100 \\%$ 国家重点保护野生植物物种保护水平上分别筛选出荔波、道真、黎平、安龙共4个和荔波、道真、黎平、安龙、水城、惠水、册亨、麻江、凤冈、印江、都匀、独山、兴义、望谟、桐梓、盘县、威宁共24个国家重点保护野生植物保护优先区。 $7 5 \\%$ 国家重点保护野生植物物种保护水平上的4个保护优先区能够保护贵州省67种国家重点保护野生植物，占全省保护植物物种总数 $78 . 8 2 \\%$ ，这4个保护优先区的累积面积仅占贵州省国土面积的 $6 . 4 0 \\%$ 。优先排序为1和2的保护优先区之间的国家重点保护野生植物物种互补度最高，第2保护优先区补充第1保护优先区的物种数量达19 种。 $7 5 \\%$ 保护水平的4个保护优先区是贵州省国家重点保护野生植物保护最关键的区域。 $100 \\%$ 保护水平的17个保护优先区能完全保护贵州省85种国家重点保护野生植物，所有保护优先区累积面积占全省国土面积 $2 7 . 7 9 \\%$ ；从水城开始，后面的保护优先区的国家重点保护野生植物物种互补性显著降低(仅为1\\~2种)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：图中保护优先区的标示数字和表3的“优先序号一致”。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d960d4357f0e063773685443e9c1bb05d38ec43ca3aefd462f4ecd1878dcfb6f.jpg",
+        "img_caption": [
+            "图2本研究筛选的保护优先区与全省重点生态功能区的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:The number of the protection priorityarea in the figure is the same as the “priority number of the table\"in Table 3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Spatial relationships between conservation priority regions identified in this study and key ecological functional areas in Guizhou ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图2表明， $7 5 \\%$ 国家重点保护野生植物物种保护水平的4个保护优先区，即荔波、道真、黎平和安龙。其中，荔波保护优先区分布在贵州省省级重点生态功能区，黎平和安龙2个保护优先区分别相邻贵州省国家级和省级重点生态功能区； $100 \\%$ 国家重点保护野生植物物种保护水平上的17个保护优先区中，册亨、望谟和威宁3个保护优先区分布在贵州省国家重点生态功能区，荔波和印江2个保护优先区分布在贵州省省级重点生态功能区，另有黎平、安龙、水城、惠水、凤冈、都匀和独山共7个保护优先区与国家和省级重点功能生态区相邻。图1和图2表明，贵州省国家重点保护野生植物物种较丰富的荔波、道真、望谟、独山和黎平共5个县均含在所筛选的保护优先区内，说明全省的重点生态功能区和国家重点保护野生植物物种较丰富的地区与本研究所筛选的保护优先区有较高的空间对应关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/25c2da7cfb73cda0229e635c16232938c89765873ab1057df3e7fc051f4a97f7.jpg",
+        "table_caption": [
+            "表3贵州国家重点保护野生植物的保护优先区"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table 3Conservation priority regions in Guizhou based on national protected wild plants</td></tr><tr><td>优先序</td><td>优先区名</td><td>保护植物</td><td>互补植</td><td>互补植物累</td><td>优先区面积</td><td>优先区累积 优先区累积</td></tr><tr><td>号</td><td>称</td><td>数量</td><td>物累积</td><td>积数量百分 Priority area</td><td>面积Priority</td><td>面积百分比</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e53c5a2517ee3759bfd9029106f26d8cc6ee319185291cac0d00dd136f9a8099.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Priority number</td><td>Priority area name</td><td>Protecting the number of plants</td><td>数量 Comple mentary plant accumul ation</td><td>比 Percentage of complement ary plants (%)</td><td>（km²）</td><td>area cumulative area（km²）</td><td>Priority area cumulative area percentage (%)</td></tr><tr><td>1</td><td>荔波 Libi</td><td>33</td><td>33</td><td>38.82</td><td>2 431.8</td><td>2 431.8</td><td>1.38</td></tr><tr><td>2</td><td>道真 Daozhen 黎平</td><td>32</td><td>52</td><td>61.18</td><td>2 156</td><td>4 587.8</td><td>2.60</td></tr><tr><td>3</td><td>Liping 安龙</td><td>26</td><td>61</td><td>71.76</td><td>4 441</td><td>9 028.8</td><td>5.13</td></tr><tr><td>4</td><td>Anlong 水城</td><td>16</td><td>67</td><td>78.82</td><td>2 237.6</td><td>11 266.4</td><td>6.40</td></tr><tr><td>5</td><td>Shuicheng 惠水</td><td>14</td><td>71</td><td>83.53</td><td>3 607.82</td><td>14 874.22</td><td>8.44</td></tr><tr><td>6</td><td>Huishui 册亨</td><td>20</td><td>73</td><td>85.88</td><td>2 470</td><td>17 344.22</td><td>9.85</td></tr><tr><td>7</td><td>Ceheng 麻江</td><td>15</td><td>75</td><td>88.24</td><td>2 598</td><td>19 942.22</td><td>11.32</td></tr><tr><td>8</td><td>Majiang 凤冈</td><td>11</td><td>76</td><td>89.41</td><td>960</td><td>20 902.22</td><td>11.87</td></tr><tr><td>9</td><td>Fenggang 印江</td><td>8</td><td>77</td><td>90.59</td><td>1883</td><td>22 785.22</td><td>12.93</td></tr><tr><td>10</td><td>Yinjiang 都匀</td><td>21</td><td>78</td><td>91.76</td><td>1969</td><td>24 754.22</td><td>14.05</td></tr><tr><td>11</td><td>Duyun 独山</td><td>15</td><td>79</td><td>92.94</td><td>2 274</td><td>27 028.22</td><td>15.34</td></tr><tr><td>12</td><td>Dushan 兴义</td><td>26</td><td>80</td><td>94.12</td><td>2 442.2</td><td>29 470.42</td><td>16.73</td></tr><tr><td>13</td><td>Xingyi 望谟</td><td>15</td><td>81</td><td>95.29</td><td>2 915</td><td>32 385.42</td><td>18.38</td></tr><tr><td>14</td><td>Wangmo 桐梓</td><td>31</td><td>82</td><td>96.47</td><td>3018</td><td>35 403.42</td><td>20.10</td></tr><tr><td>15</td><td>Tongzi 盘州</td><td>16</td><td>83</td><td>97.65</td><td>3 200</td><td>38 603.42</td><td>21.91</td></tr><tr><td>16</td><td>Panzhou 威宁</td><td>19</td><td>84</td><td>98.82</td><td>4 056</td><td>42 659.42</td><td>24.22</td></tr><tr><td>17</td><td>Weining</td><td>9</td><td>85</td><td>100</td><td>6298</td><td>48 957.42</td><td>27.79</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：互补保护植物累积数量百分比（ $\\%$ ）是指占贵州省国家重点保护野生植物物种总数百分比；优先区累积面积百分比（ $\\%$ ）是指占贵州省总面积百分比。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note: The cumulative percentage of complementary protected plants $( \\% )$ refers to the percentage of the total number of national key protected wild plant species in Guizhou Province;the percentage of cumulative area in the priority area $( \\% )$ refers to the percentage of the total area of Guizhou Province. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3国家重点保护野生植物保护优先区的保护现状",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表4可知， $100 \\%$ 国家重点保护野生植物物种保护水平的17个保护优先区包含了44个已建立自然保护区的统计信息， $7 5 \\%$ 的国家重点保护野生植物物种保护水平的4个保护优先区中，荔波的自然保护区总面积占其国土面积的比例最高达 $2 8 . 1 7 \\%$ ，道真县的自然保护区总面积占其国土面积比例为 $1 2 . 5 2 \\%$ ，也相对较高，且2个优先区内均有国家级自然保护区，保护级别较高。安龙的自然保护区所占面积比例低于 $5 \\%$ ，仅有 $2 . 2 5 \\%$ ，且涉及的自然保护区级别也很低，均是县级。 $100 \\%$ 国家重点保护野生植物物种保护水平的17个保护优先区中，安龙、水城、册亨、凤岗、都匀、兴义、望谟、桐梓和威宁等9个保护优先区的自然保护区所占面积低于 $5 \\%$ ，水城和桐梓更是不足 $1 \\%$ 。从 $7 5 \\%$ （ $100 \\%$ ）的国家重点保护野生植物物种的保护水平来看，上述1（9）个保护优先区明显存在保护空缺。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "自然保护区的面积大小和保护等级等都影响其保护效果。市县一级的自然保护区，多数是典型的“纸上保护”，无法达到规划时的理想保护状态(孔石，2015)。在上述44个自然保护区中，国家级、省级、市/县级分别为4、2和38个，相对于17个保护优先区而言，仅有",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4个国家级和2个省级自然保护区，却有38个市/县级自然保护区，管理等级严重偏低，市/县级自然保护区面积占所涉及自然保护区面积的比例高达 $6 8 . 2 4 \\%$ ，而且有10个县级自然保护区面积低于 $1 0 \\mathrm { k m } ^ { 2 }$ 。这些保护等级低、面积小的自然保护区亟待加强建设。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1883cabbbd29088698cb1fd01349ba6966f63f00748b7a932c953a839fd77c5.jpg",
+        "table_caption": [
+            "表4贵州国家重点保护野生植物保护优先区所涉自然保护区现状 Table4 Status quo of nature reserves involved in the protection priority area of wild plants under state key protection in Guizhou "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">优先 优先区 序号</td><td rowspan=\"2\">名称</td><td colspan=\"4\">understate CtionmrOuiznou 所涉自然保护区</td></tr><tr><td colspan=\"4\">Nature reserve</td></tr><tr><td rowspan=\"4\">riority</td><td rowspan=\"4\">Prioritye</td><td>名称</td><td>级别</td><td>面积</td><td>占优先区面积百分 比Percentage of priority area（%）</td></tr><tr><td>茂兰自然保护区</td><td>国家级 National</td><td>212.85</td><td></td></tr><tr><td>Maolan Nature Reserve 岜岭五针松自然保护区</td><td>县级</td><td>27.33</td><td rowspan=\"2\"></td></tr><tr><td>Baling Nature Reserve 兰顶山自然保护区</td><td>County 县级</td><td></td></tr><tr><td rowspan=\"6\">1</td><td rowspan=\"6\">荔波 Libo</td><td>Landing Mountain Natural Reserve</td><td>County</td><td>54.67</td><td></td></tr><tr><td>捞村河谷自然保护区</td><td>县级</td><td>60.67</td><td>28.17</td></tr><tr><td>Laocun Hegu Nature Reserve 瑶麓单性木兰自然保护区</td><td>County 县级</td><td></td><td></td></tr><tr><td>Yao Lu Natural Reserve</td><td>County</td><td>63.55</td><td></td></tr><tr><td>Z</td><td>县级y</td><td>226.00</td><td></td></tr><tr><td>甲良三层洞自然保护区</td><td>县y</td><td>40.00</td><td></td></tr><tr><td rowspan=\"6\">3</td><td>Daozhen</td><td>大沙河自然保护区 Dashahe Nature Reserve</td><td>国家级 National</td><td>269.90</td><td>12.52</td></tr><tr><td rowspan=\"4\">L平</td><td>黎平三省坡自然保护区</td><td>市级</td><td></td><td></td></tr><tr><td>Liping Sanshengpo Nature Reserve</td><td>Municipal</td><td>77.45</td><td></td></tr><tr><td></td><td></td><td></td><td>9.43</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"8\">4 5</td><td></td><td>黎平太平山自然保护区 Liping Taiping Mountain Nature Reserve</td><td>县级 County</td><td>315.51</td><td></td></tr><tr><td></td><td>仙鹤坪自然保护区 Xianheping Nature Reserve</td><td>市级 Municipal</td><td>20.00</td><td></td></tr><tr><td></td><td>安龙莲花山自然保护区 Anlong Lianhua Mountain Nature Reserve</td><td>县级</td><td>5.33</td><td></td></tr><tr><td></td><td></td><td>County</td><td></td><td></td></tr><tr><td>安龙 Anlong</td><td></td><td></td><td>313</td><td>2.25</td></tr><tr><td></td><td>Banyan Nature Reserve 青山绿塘自然保护区</td><td>County 县级</td><td></td><td></td></tr><tr><td></td><td>Qingshan Lvtang Nature Reserve 停西自然保护区</td><td>County 县级</td><td>6.67 10.00</td><td></td></tr><tr><td></td><td>Tingxi Nature Reserve 王院自然保护区 Wangyuan Nature Reserve</td><td>County 县级 County</td><td>6.67</td><td></td></tr><tr><td rowspan=\"4\"></td><td>Shuiceng</td><td>Y钟黑a自然保护区</td><td>Mnicipal</td><td>26.74</td><td>0.79</td></tr><tr><td></td><td>老林沟自然保护区</td><td>县级</td><td>1.70</td><td></td></tr><tr><td></td><td>Laolingou Nature Reserve</td><td>County</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>n</td><td></td><td></td><td>54.00</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>4.94</td></tr><tr><td></td><td></td><td>Cchenr</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>惠水</td><td>长安喀斯特自然保护区</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>县级</td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>443.10</td><td>17.94</td></tr><tr><td></td><td>Huishui</td><td>Chang'an Karst Nature Reserve</td><td>County</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c3617c10ae90d5e2bb09b27cb834fe251c7d344a55fc8e043a7f0102863e56c7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Ceheng Laizi Mountain Nature Reserve</td><td colspan=\"3\">County</td></tr><tr><td rowspan=\"6\"></td><td rowspan=\"6\">麻江 Majiang</td><td>落凡自然保护区 Luofan Nature Reserve</td><td>县级 County</td><td>32.00</td><td></td></tr><tr><td></td><td></td><td>7.33</td><td></td></tr><tr><td>Zhec冲口自然t保护区serve</td><td>县级y</td><td></td><td></td></tr><tr><td>麻江老蛇冲自然保护区 Majiang Laoshechong Nature Reserve</td><td>市级 Municipal</td><td>86.78</td><td>9.4</td></tr><tr><td>凤冈万佛山自然保护区 Fenggang Wanfoshan Nature Reserve</td><td>县级 County</td><td>84.00</td><td>4.46</td></tr><tr><td>梵净山自然保护区 Fanjing Mountain Nature Reserve</td><td>国家级 National</td><td>209.50</td><td></td></tr><tr><td rowspan=\"3\">10</td><td>印江 Yinjiang</td><td>印江洋溪自然保护区</td><td>省级</td><td>130.00</td><td>21.72</td></tr><tr><td rowspan=\"2\"></td><td>Yinjiang Yangxi Nature Reserve 石家岭自然保护区</td><td>Provincial 县级</td><td>88.15</td><td></td></tr><tr><td>Shijiazhuang Ling Nature Reserve 都匀斗蓬山自然保护区</td><td>County 县级</td><td></td><td></td></tr><tr><td rowspan=\"3\">11</td><td rowspan=\"3\">D都yu</td><td>Duyun D完自然保in atrte</td><td>县级</td><td>42.33</td><td>3.84</td></tr><tr><td>Duyun Luosike Nature Reserve</td><td>County</td><td>45.00</td><td></td></tr><tr><td>独山都柳江源自然保护区 Dushan Du Liujiangyuan Nature Reserve</td><td>省级 Provincial</td><td>212.66</td><td></td></tr><tr><td rowspan=\"3\">12</td><td>独山 Dushan</td><td>高岩天然林自然保护区 Gaoyan Natural Forest Nature Reserve</td><td>县级 County</td><td>4.67</td><td>9.85</td></tr><tr><td></td><td>琴阳天然林自然保护区 Qinyang Natural Forest Nature Reserve</td><td>县级 County</td><td>23.33</td><td></td></tr><tr><td>兴义 Xingyi</td><td>坡岗自然保护区</td><td>市级</td><td>32.00</td><td>1.1</td></tr><tr><td rowspan=\"2\">14</td><td></td><td>Pogang Nature Reserve 渡邑自然保护区</td><td>Municipal 县级</td><td></td><td></td></tr><tr><td></td><td>Du苏铁自保护区</td><td>C级ty</td><td>111.96</td><td>4.81</td></tr><tr><td rowspan=\"2\">15</td><td>桐梓</td><td>Wangmo Cycas Nature Reserve</td><td>County</td><td>33.33</td><td></td></tr><tr><td>Tongzi</td><td>桐梓柏箐自然保护区 Tongzi Baijing Nature Reserve</td><td>市级 Municipal</td><td>25.42</td><td>0.99</td></tr><tr><td>16</td><td>盘县 Panxian</td><td>盘县八大山自然保护区 Panxian Badashan Natural Reserve</td><td>市级 Municipal</td><td>260.00</td><td>6.41</td></tr><tr><td rowspan=\"4\">17</td><td></td><td>威宁草海自然保护区 Weining Caohai Nature Reserve</td><td>国家级 National</td><td>120.00</td><td></td></tr><tr><td>威宁 Weining</td><td>威宁黄杉自然保护区</td><td>县级</td><td>9.37</td><td>3.55</td></tr><tr><td></td><td>Weining Douglas Fir Nature Reserve 威宁妥打自然保护区</td><td>County 县级</td><td></td><td></td></tr><tr><td></td><td>Weining Touda Natural Reserve</td><td>County</td><td>93.93</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1国家重点保护野生植物物种丰富度分布特征的代表性",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "贵州省的国家重点保护野生植物物种丰富度分布特征总体上表现为南部地区物种丰富度高于北部地区，环省界区域往内陆延伸的物种丰富度明显呈减少趋势。其中，贵州南部海拔较低，雨热丰富，人口密度小，人为影响较低，国家重点保护野生植物丰富度高于北部地区；中部地区城镇化程度高，开发强度大，人为干扰严重，环省界区域较为偏远，人为干扰较轻，自然生态环境较好，因此环省界地区国家重点保护野生植物物种丰富度较高。生物多样性越高就越有可能含有更多的国家重点保护野生植物，荔波县地形地貌复杂，生态环境特殊，植被保存良好，是中国南方喀斯特世界自然遗产地的主体区域之一，拥有1个国家级自然保护区和6个县级自然保护区，生物多样性丰富，是众多珍稀濒危植物的栖息地(熊康宁，2006)；位于贵州北部大娄山脉的道真县拥有的大沙河国家级自然保护区与重庆金佛山国家级自然保护区山水相连，区内具有高度丰富的生物多样性，是我国多种特有植物的集中分布区，也是贵州物种多样性分布的热点区域之一。此外，望谟县、独山县和黎平县等国家重点保护野生植物集中分布县都是贵州省植被和生态环境相对较好的区域。因此，贵州省的国家重点保护野生植物物种丰富度空间分布特征高度代表了全省的生物多样性热点区域的大背景。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2国家重点保护野生植物保护优先区的合理性",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "保护优先区的识别是生物多样性保护的关键(余艳红等，2015)，也是为了将有限的保护资源分配到最具有保护价值的区域，并以最小的保护成本最大限度地保护区域生物多样性。本研究筛选的 $7 5 \\%$ 和 $100 \\%$ 国家重点保护野生植物物种保护水平上的4个和17个保护优先区，与全省国家重点保护野生植物物种丰富度高的的地区和国家级和省级重点功能区有较好的重叠或相邻关系；而且与全国的32个陆地生物多样性保护优先区中贵州涉及的2个优先区(中华人民共和国生态环境部,2010)有较高的空间对应关系。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在全省生物多样性研究的层面上，王瑞等(2014)研究的贵州省生物多样性分布热点，其中“黔东北—梵净山、佛顶山为中心的高中山、中山山地”与本研究所筛选保护优先区中的印江对应；“黔北大娄山区及赤水河、习水河河谷”与道真和桐梓基本对应；“荔波—独山喀斯特低中山地”与荔波和独山相对应；“黔西北威宁草海高原湖泊”与威宁相对应；“黔西南的南盘江、北盘江及红水河谷”与安龙、册亨、兴义和望谟相对应；“黔东南雷公山、月亮山及都柳江河谷”与黎平大致对应。该研究所用到的植物数据是通过贵州省野生植物调查报告与资料来收的根据《IUCN物种红色名录濒危等级和标准》中收录的极危(CR）、濒危（EN)、易危（VU）的物种，空间单元是以分布的县域和生境为单位。确定的生物多样性分布热点具有极高的参考价值。即使本研究与王瑞等(2014)在物种选择与研究方法等方面都不相同，但本文识别筛选出的保护优先区与王瑞等(2014)研究所得的贵州生物多样性保护热点地区整体上存在很高的空间对应关系。这说明，国家重点保护野生植物物种作为指示物种来识别保护优先区是可行和具有代表性的。而且，由于生物多样性信息，特别是其空间分布数据的普遍缺乏，国际上常采用珍稀濒危物种为对象来制定保护决策。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究筛选的所有保护优先区中，对于一些急需保护的国家重点保护野生植物例如云贵水韭（Isoetes yunguiensis）、贵州苏铁（Cycas guizhouensis）、叉孢苏铁（C.segmentifida),可能在筛选识别的保护优先区中优先排序靠后，不能完全按照优先排序进行优先保护，应根据其急需保护的程度多加关注优先保护。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3保护优先区保护状况分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "确保贵州 $7 5 \\%$ 和 $100 \\%$ 国家重点保护野生植物物种水平上的保护，只需要在这两个水平的4个和17个优先区内建立优先保护模式。这 $7 5 \\%$ 保护水平的4个和 $100 \\%$ 保护水平的17个优先区的累积面积分别占贵州省国土面积的 $6 . 4 0 \\%$ 和 $2 7 . 7 9 \\%$ ，考虑国家重点保护野生植物物种在各个优先区中实际分布面积，则保护优先区实际需要保护面积比例更低。在 $7 5 \\%$ 国家重点保护野生植物物种保护水平上的4个优先区中，安龙已建自然保护区面积占安龙国土面积比例低于 $5 \\%$ ，而且涉及的自然保护区级别全是县级。 $100 \\%$ 保护水平的17个优先区中，安龙、水城、册亨、凤岗、都匀、兴义、望谟、桐梓和威宁共9个保护优先区的自然保护区所占面积低于 $5 \\%$ ，水城和桐梓更是不足 $1 \\%$ 。得出贵州已建自然保护区未能有效覆盖上述保护优先区，已覆盖保护优先区的绝大部分自然保护区管理级别低下，保护效果偏低。要使贵州国家重点保护野生植物得到 $7 5 \\%$ 或 $100 \\%$ 保护水平上，上述保护优先区需加强自然保护区升级和建设。生物多样性保护的主体都是相应的行政单元，将保护优先区和行政单元相结合，可以提升保护优先区对国家重点保护野生植物保护的有效性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4研究数据的局限性",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究以第二次全国重点保护野生植物资源调查（2013—2018年）贵州省区的调查数据为基础，同时参考其他文献以及贵州省目前已出版的自然保护区科考集与相关种质资源调查报告等，是贵州目前最权威和系统的国家重点保护野生植物物种分布数据。尽管如此，查询参考的部分文献、书籍和报告等已经时间久远，贵州近年发展迅速，资源（尤其是土地和植物）大规模的开发利用，必然使得部分国家重点保护野生植物空间分布发生变化。现阶段仍旧难以对全部的国家重点保护野生植物在各县的分布数据精确界定。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "自然保护区数据主要是根据生态环境部发布的《2015年全国自然保护区名录》及近年的贵州自然保护区信息更新，构建贵州自然保护区基本信息数据库，用于评价筛选的保护优先区对国家重点保护野生植物的保护状况。通过对 $100 \\%$ 国家重点保护野生植物保护水平的17个保护优先区涉及已建自然保护区面积信息进行保护状况评价分析，保证了所有保护优先区保护状况分析的准确性。不过对于自然保护区缺乏准确的矢量数据，对于17个保护优先区中涉及1个跨县域的自然保护区只能采取均分在2个行政单元内。对印江县保护优先区的保护状况评价无法 $100 \\%$ 准确的做出评价。但其余43个自然保护区信息均准确纳入保护状况评价，表4的结果基本能够反映贵州省保护优先区的保护状况。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（1）从全省分布上，国家重点保护野生植物物种丰富度分布特征，整体上贵州南部物种丰富度高于北部地区，中部、东部和西部均偏低；环省界与邻省接壤区域保护物种丰富度较高，往内陆延伸保护物种丰富度明显呈减少趋势。物种丰富度较高的5个县累计分布了全省国家重点保护野生植物物种的 $7 7 . 6 5 \\%$ ，物种丰富度低的地区仅分布1种，体现了贵州国家重点保护野生植物物种分布聚集、分布范围较为狭窄的特点。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（2）从全省国家重点保护野生植物物种 $7 5 \\%$ 和 $100 \\%$ 的保护水平上，分别筛选了4个和17个保护优先区， $7 5 \\%$ 保护水平的前4个保护优先区累积保护67种国家重点保护野生植物，排序前4的优先区累积面积仅占贵州省国土面积的 $6 . 4 0 \\%$ ，是贵州国家重点保护野生植物保护的关键区域。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（3）全省的重点生态功能区和国家重点保护野生植物物种较丰富的地区与本研究所筛选的保护优先区有较好的对应关系，说明国家重点保护野生植物物种作为指示物种来识别保护优先区是具有代表性的。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（4）全省 $7 5 \\%$ 和 $100 \\%$ 国家重点保护野生植物物种保护水平上荔波等4个和17个保护优先区中，分别有1个和9个保护优先区的自然保护区面积低于 $5 \\%$ ，在9个低于 $5 \\%$ 的保护优先区中甚至有2个保护优先区被已建自然保护区的覆盖不足 $1 \\%$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（5）贵州省国家重点保护野生植物的就地保护体系建设应以国家重点保护野生植物地理分布丰富的地区结合本文筛选出的保护优先区为基础，针对物种丰富、优先排序靠前、保护级别低、存在保护空缺的优先区加强保护管理。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CHEN YH, TANG ZY, FANG JY, 2O09. Distribution of nature reserves and status of biodiversity protection in China[J].Biodivers Sci,17(6): 664-674.[陈雅涵，唐志尧，方精云,2009．中国自 然保护区分布现状及合理布局的探讨[J]．生物多样性，17(6):664-674.]   \nDOBSON AP, 1997. Geographic distribution of endangered species in the United States[J]. Sci, (275):550-553.   \nDONG ZQ，2O10. Biodiversity of Guizhou Province[M]. Guiyang: Guizhou Science and Technology Publishing House :54-238[董泽琴,2010．贵州省生物多样性现状[M]．贵阳：贵 州科技出版社:54-238]   \nGuizhou Bureau of Statistics,2O18. Guizhou Survey Team of National Statistics Bureau. Guizhou Statistics Yearbook 2018[M].Beijing:China Statistics Press:201.[贵州省统计局，国家统计局 贵州调查总队．贵州统计年鉴2018[M]．北京：中国统计出版社:201.]   \nGUO WY,1999.National Protected Wild Plants List (first batch)[J], Plants,(5): 4-11.[国家重点 保护野生植物名录(第一批)[J]．植物杂志,(5):4-11.]   \nHUANG ZQ,LU L,DAI NH, et al.，2O14. Vacancy analysis on the development of nature reserves in Jiangxi Province[J].Acta Ecol Sin,34(11):3099-3106.[黄志强，陆林，戴年华，等, 2014．江西省自然保护区发展布局空缺分析[J]．生态学报,34(11):3099-3106.]   \nHUANG ZW, 2O16. Research on daily patrol management system of nature reserve[D]. Guangzhou: South China Agricultural University:1.[黄志伟,2016．自然保护区日常巡护管 理体系研究[D]．广州：华南农业大学:1.]   \nKONG S, 2O15. Spatial relationship and distribution pattern of national nature reserves and other main protected areas in China[D]. Harbin: Northeast Forestry University: 3.[孔石,2O15.国家 级自然保护区与其他主要保护地类型的空间关系与分布格局[D]．哈尔滨：东北林业大学: 3.]   \nLI P,2014. Guizhou: Natural park province[J]. For Humank, (5):165-166.[黎平,2014. 贵州:自 然天成公园省[J]．森林与人类,(5):165-166.]   \nLI P, 2O16. Guizhou national plant protection manual[M]. Guiyang: Guizhou Science and Technology Publishing House :1-287.[黎平,2016.贵州国家保护植物手册[M]．贵阳：贵州 科技出版社:1-287.]   \nLUO Y,DENG LY, 2015. Guizhou vascular plant catalogue[M]. Beijing: China Forestry Publishing House:1-554.[罗扬，邓伦秀,2015．贵州维管束植物编目[M]．北京：中国林业 出版社:1-554.]   \nMinistry of Ecology and Environment of the People's Republic of China， 2010. China Biodiversity Conservation Strategy and Action Plan (2011-2030) Huanfa [2010] No.106.[中华 人民共和国生态环境部，2010.中国生物多样性保护战略与行动计划（2011-2030）环发 [2010]106号.]   \nQIAN H,1998. Large-scale biogeographic patterns of vascular plantrichness in North America: An analysis at the genera level[J]. JBiogeogr,25: 829-836.   \nQIN HN, ZHANG LN, 2O17. Evaluating the threat status of higher plants in China[J]. Biodivers Sci，25(7):689-695.[覃海宁，赵莉娜，2017．中国高等植物濒危状况评估[J]．生物多样性, 25(7): 689-695]   \nSANG W, MA K, AXMACHER JC, 2011. Securing a Future for China's Wild Plant Resources[J]. Bioscience, 61(9): 720-725.   \nWANG R,AN YL， WANG PB,et al.， 2014. Study on biodiversity conservation hotspots in Guizhou[J].Res Soil Water Con,21(6):152-157.[王瑞，安裕伦，王培彬，等,2014．贵州省生 物多样性热点地区研究[J]．水土保持研究,21(6):152-157.]   \nXIONG KN，2006. South China Karst cone Karst ecological processes and biodiversity of Libo[M].Guiyang: Guizhou People Publishing House:583[熊康宁,2006.中国南方喀斯特荔 波锥状喀斯特生态过程与生物多样性[M]．贵阳：贵州人民出版社:583.]   \nXIONG YX,2014. Bryophyte Flora of Guizhou China Volume 2[M]. Guiyang: Guizhou Science and Technology Publishing House:1.[熊源新,2014．贵州苔藓植物志第二卷[M]．贵阳：贵 州科技出版社:1.]   \nXU WH, OUYANG ZY, ZHANG L, et al., 2010. Spatial distribution and priority areas analysis for key protection species in Yangtze Basin[J]. Res Environ Sci, 23(3): 312-319.[徐卫华，欧阳 志云，张路，等，2010.长江流域重要保护物种分布格局与优先区评价[J]．环境科学研究， 23(3): 312-319.]   \nYANG FL, 2O16. Identifying priority conservation areas and optimizing the protected areas based on national protected wild plants and animals in Yunnan， China[D]. Kunming: Yunnan University:49-58.[杨飞龄，2016.基于国家重点保护野生动植物的云南保护优先区识别与 保护地体系优化[D]．昆明：云南大学:49-58.]   \nYANG FL, HU JM, WU RD,2O13. Analysis of Yunnan plant protection priority area based on NPWP[J].Acta Geogr Sin,68(11):1538-1548.[杨飞龄，胡金明，武瑞东．基于NPWP的云南 植物保护优先区分析[J]．地理学报,68(11):1538-1548.]   \nYU YF,1999. A milestone in the protection of wild plants in China-\"National List of Key Protected Wild Plants (First Batch)”was released[J].Plants,(5): 3.[于永福,1999.中国野生植 物保护工作的里程碑- 《国家重点保护野生植物名录(第一批)》出台[J]．植物杂志,(5): 3.]   \nYU YH, SONG FQ,LI ZQ, et al., 2O15. Priority conservation area identifying and its protection strategies based on ecosystem services evaluation in the ecotone of Northwest of Yunnan Province[J].Ecol Econ,31(9):156-161.[余艳红，宋福强，李卓卿，等,2015．基于生态服务 功能评估的滇西北脆弱区保护优先区识别及管理策略[J].生态经济,31(9):156-161.]   \nZHANG Y, MA K, 2Oo8. Geographic distribution patterns and status assessment of threatened plants in China[J].Biodivers Conserv,17(7): 1783-1798. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "type": "text",
+        "text": "谷氨酸和天冬氨酸对断奶仔猪生长性能和肠道功能的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黎育颖1² 尹 杰² 王利剑1,²　何流琴1²王 倩1³　吴 飞1,²　姚继明 范文君李铁军1,4,5\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.中国科学院亚热带农业生态研究所亚热带农业生态过程重点实验室，畜禽养殖污染控制与资源化技术国家工程实验室，湖南省畜禽健康养殖工程技术研究中心，农业部中南动物营养与饲料科学观测实验站，长沙 410125；2.中国科学院大学，北京100039；3.湖南农业大学动物科技学院，长沙 410125；4.广东省旺大集团猪清洁饲料技术研发院士工作站，广州510663；5.湖南畜禽安全生产协同创新中心，长沙410128)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：谷氨酸和天冬氨酸是小肠上皮细胞的重要能量来源，可通过脱羧基或转氨基等作用转化为其他营养物质，在维持猪的生长性能和肠道正常功能、信号通路、缓解氧化应激、基因的表达调控、神经调节等方面均发挥着重要的作用。鉴此，本文主要综述了谷氨酸和天冬氨酸对断奶仔猪生长性能和肠道功能的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：谷氨酸；天冬氨酸；断奶仔猪；生长性能；肠道功能中图分类号：S828",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谷氨酸（glutamate，Glu）和天冬氨酸（aspartate，Asp）结构中含有2个羧基，等电点小于7，属于酸性氨基酸。在传统营养学中，Glu 和 Asp 被认为是非必需氨基酸[1-2]，可在动物小肠、肝脏和肾脏等组织间通过转氨基、脱羧基等方式相互转化或转化为其他氨基酸，满足机体的正常需求，故在膳食和饲粮中较少考虑外源性添加Glu 和 Asp。然而，近期研究表明，Glu 和Asp 在猪的生长性能、基因表达调控、细胞信号通路、激素分泌、抗氧化能力和神经调节等方面发挥了重要作用[,3-5]，在猪的生长发育和繁殖泌乳等方面也具有巨大的潜能[-7]。且在小肠的吸收代谢过程中，谷氨酰胺、Glu 和 Asp 是产生能量和二氧化碳的主要来源而非葡萄糖[8,这预示着Glu 和 Asp 可作为功能性氨基酸在猪的肠道健康方面扮演极其重要的角色。因此，本文主要围绕Glu 和 Asp 对断奶仔猪生长性能和肠道功能的影响进行讨论，以期为研究Glu和Asp 对肠道健康的影响提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Glu 和 Asp 的基本功能",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Glu 和Asp 分子内含有2个羧基，具有酸鲜味。Asp 又称为天门冬氨酸或门冬氨酸，化学名为氨基丁二酸，为白色晶体或白色粉末状，其最早于1962年在天门冬植物中发现，等电点为2.77。Glu 化学名为氨基戊二酸或氨基羧基戊酸，为无色晶体，最早被Ritthauser 等于1866 年发现，于1890 年其结构被Wolff等证实[4]，等电点为3.24。在动物和细胞研究中，Glu 和 Asp 可在机体组织细胞中通过转氨基和脱羧基等作用转化为其他基底物质（如谷胱甘肽、精氨酸、瓜氨酸和谷氨酰胺）发挥重要作用[7]。另外，Glu 和Asp 是机体内重要的兴奋性神经递质[9-10]，也是小肠能量的主要来源[8]，还可与阳离子结合形成螯合剂治疗心脏疾病和肝功能损伤等[11-12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Glu和Asp 对断奶仔猪生长性能的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，Glu和Asp 对断奶仔猪生长性能的直接影响仍有待深入研究，但其在应激情况下对猪的生长性能具有积极改善作用[13-17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Glu和Asp对断奶仔猪生长性能的直接影响",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲粮蛋白质水平为 $1 7 \\%$ 、Asp 水平为 $1 . 3 \\% \\sim 1 . 5 \\%$ 、Glu 水平为 $2 . 6 \\% { \\sim } 2 . 9 \\%$ 时，可促进断奶仔猪的生长，有利于氨基酸的利用；而饲粮蛋白质水平为 $1 7 \\%$ 、Glu水平为 $3 . 2 \\%$ 时，可抑制断奶仔猪的生长；Glu水平为 $3 . 5 \\%$ 时，对断奶仔猪血液葡萄糖水平和能量代谢有较大影响[18]。饲粮中添加 $1 \\%$ Glu，可促进28日龄断奶仔猪的健康生长、降低料重比、缓解断奶应激反应，从而提高饲料转化率和机体的免疫能力[19]。饲粮中添加乳糖后，补充 $0 . 8 \\% L -$ 谷氨酰胺和 $L$ -Glu 可提高21\\~35日龄断奶仔猪的生长性能[20]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Glu 和 Asp 对断奶仔猪应激模型的干预效果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究表明，在注射脂多糖（LPS）前（ $1 \\sim 1 6 \\mathrm { ~ d } )$ ，Asp对断奶仔猪的生长性能无显著影响，但在注射LPS后（ $1 7 \\sim 2 4 \\textrm { d } )$ ， $0 . 5 \\%$ 或 $1 . 0 \\%$ Asp 能够显著缓解LPS 刺激导致的平均日增重的下降[14]；同时，烫伤引起的动物体重的急剧下降可通过注射 Asp 得到缓解[15]。在注射敌草快介导的断奶仔猪氧化应激模型中，饲粮中添加 $2 \\%$ Glu可显著缓解氧化应激导致的体重下降[16]。饲粮中添加 $2 \\%$ Glu 对脱氧雪腐镰刀菌烯醇（DON）导致的仔猪平均日采食量的下降有一定的缓解作用，并能显著提高仔猪的平均日增重，降低料重比[21]。在乳猪教槽料中补充谷氨酸钠或者Glu 能够显著提高小猪的饲料转化率[22]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在饲粮中单独添加或者联合使用 $1 \\%$ Asp 和 $2 \\%$ Glu 时，能缓解过氧化氢（ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ）介导的仔猪肠道氧化损伤所带来的生长性能抑制，提高其平均日采食量（图1)，降低料重比[23]。总之，Asp 和Glu在一定程度上能够缓解断奶仔猪的应激，提高其生长性能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "红色箭头表示分别于试验第8天和第11天腹腔注射 $1 0 \\% \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ；数值用平均值(means）$\\pm$ 标准误(SEM)表示， $\\scriptstyle n = 8$ ；NC：对照组；PC： $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 组；PG：基础饲粮 ${ 2 \\% \\mathrm { G l u } { + } \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } }$ 组；PA：基础饲粮 $+ 1 \\% \\mathrm { A s p } \\mathrm { + H } _ { 2 } \\mathrm { O } _ { 2 }$ 组；PGA：基础饲粮 $+ 2 \\% \\mathrm { G l u } + 1 \\% \\mathrm { A s p } \\mathrm { + } \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 组。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c92220fa28f3d39687c7921b1c2b24dd69a1668a68e7a1729bfe6b1ba5b646bf.jpg",
+        "img_caption": [
+            "图1Glu 和 Asp 对注射 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 后仔猪平均日采食量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Red arrows mean intraperitoneal injection with $10 \\%$ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ at days 8 and 11. The data are presented as means $\\pm$ SEM, $n { = } 8$ . NC: control group; PC: $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ group; PG: basal diet $+ 2 \\%$ （20 $\\mathrm { \\ G l u { + } H _ { 2 } O _ { 2 } }$ group; PA: basal diet+ $1 \\%$ $\\mathrm { A s p } { + } \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ group; PGA: basal diet $+ 2 \\%$ $G \\vert \\mathrm { u } { + } 1 \\%$ $\\mathrm { A s p } { + } \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ group. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Effects of Glu and Asp on average daily feed intake of piglets after $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ injection[23] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3Glu和Asp对断奶仔猪肠道功能的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小肠是动物机体内营养物质消化吸收的主要场所，也是机体抵抗有害物质的天然屏障[24]。研究表明，氨基酸是肠道优先利用的营养物质[25]，小肠结构和功能的完整性是通过肠道中消耗大量三磷酸腺苷（ATP）来支持的，当能量缺乏时极容易引起肠道损伤。而Glu 和",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Asp 是哺乳动物肠细胞 ATP 的主要来源[3,26]，故对猪肠道形态结构、氨基酸吸收转运、能量代谢和氧化应激发挥着重要的作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Glu和Asp对断奶仔猪肠道形态结构的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Glu 和Asp 在动物机体新陈代谢中通过脱羧基作用转化为谷氨酰胺，谷氨酰胺可改善动物的肠道形态结构，促进肠道生长发育[23.27]。饲粮中添加 $1 \\%$ Glu 可改善断奶仔猪的小肠绒毛高度、隐窝深度、绒毛宽度以及绒毛表面积[28]；饲粮中添加乳糖后，同时补充Asp 和Glu,能够增加断奶仔猪十二指肠、空肠和回肠的绒毛高度[20]。饲粮中添加 $0 . 5 \\%$ 或 $1 . 0 \\%$ Asp 能够缓解 LSP引起的断奶仔猪小肠和结肠结构的损伤，提高仔猪肠黏膜相关抗氧化酶活性，从而改善肠道形态结构[29]；Asp 和Glu 可恢复双氧水导致的断奶仔猪肠道组织和形态学损伤，减少肠道细胞调亡[23]。研究也揭示，补充 Asp 可抑制断奶仔猪在LPS 诱导下肠道中 Toll 样受体 4（Toll-like receptor 4，TLR4）和核苷酸结合寡聚域/核因子 $\\boldsymbol { \\kappa } \\mathrm { B }$ （nucleotide bindingoligomerization domain protein/nuclear factor-kB，NODs/NF-kB）信号通路的表达，说明在炎症反应下Asp 可提高仔猪的肠道免疫功能，进而维持肠道屏障功能[30]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Glu和Asp 对断奶仔猪肠道氨基酸吸收转运的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小肠是机体吸收氨基酸的主要部位。采用小肠原位结节灌流技术表明 $\\mathrm { A s p } ( 1 7 1 \\ \\mathrm { m g / L } )$ 和Glu( $\\mathrm { \\Omega } 3 0 7 \\mathrm { \\ m g / L }$ ）主要在回肠中端和末端被吸收，利用尤氏灌流技术可知 Asp 和Glu 在转运过程中电阻量增大，且高Glu 或 Asp 浓度会抑制 Asp 或Glu 的吸收[31]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肠腔中被水解的游离氨基酸主要通过肠上皮细胞的氨基酸转运载体进行转运，从而从肠腔进入血液供全身机体各组织利用[32]。肠道中主要负责转运Glu 的转运载体有兴奋性氨基酸转运载体-3（SLC1A1)，兴奋性氨基酸转运载体-2（SLC1A2）以及谷氨酸胱氨酸转运体（SLC7A11）[33]。饲粮中添加 $1 \\%$ Glu 能够显著提高肠道 SLC1A1 的基因表达水平，降低阳离子氨基酸运载体-1（SLC7A1）的基因表达水平[34]；Glu 和Asp 可下调肠道T型转运载体-1（SLC16A10）和 $y ^ { + } \\mathrm { L }$ 氨基酸运载体-1（SLC7A7）的基因表达水平，提高氧化应激介导的肠系膜静脉、肝门静脉以及颈静脉的赖氨酸、蛋氨酸、苏氨酸、丙氨酸、脯氨酸、瓜氨酸等含量；饲粮中添加 $2 \\%$ Glu 能够提高断奶仔猪空肠黏膜中性氨基酸转运载体的基因表达水平，有益于促进空肠营养物质的消化和吸收[35]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3Glu和Asp对断奶仔猪肠道能量代谢的影响 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Asp 能够在精氨酸琥珀酸合成酶作用下转化为瓜氨酸进入尿素循环，也能转化为Glu 进入三羧酸循环，还能进入苹果酸天冬氨酸循环影响机体的能量代谢[26,3]。 $0 . 5 \\%$ 或 $1 . 0 \\%$ Asp能够提高肠道中ATP、二磷酸腺苷（ADP）和总腺嘌呤核苷酸含量以及腺苷酸能荷，降低单磷酸腺苷（AMP)/ATP。Asp 可下调肠道和肌肉中 AMP 活化蛋白激酶（AMP-activated proteinkinase，AMPK）α1、AMPKα2、沉默信号调控因子(silent information regulator 1，SIRT1)和过氧化物酶体增殖物激活受体 $\\gamma$ 辅 激 活 因 子 (proliferator-activated receptor gammacoactivator-1α，PGClα）的基因表达水平并降低肠道中AMPKα 的氧化磷酸化，通过影响AMPK 信号通路进而影响肠道的能量供应[26]；同时，Asp 可增加三羧酸循环中关键酶（如柠檬酸合成酶，异柠檬酸脱氢酶和 $\\mathfrak { a }$ -酮戊二酸脱氢酶)活性及肠道黏膜中二糖酶的活性[26.37]。Glu 为饲粮中含量丰富的氨基酸，但在小肠上皮细胞从肠腔到肠系膜静脉的跨细胞转运过程中被大量氧化供能，只有少部分被血液循环系统吸收代谢[38-39]。当饲粮Glu 摄入量增加 3\\~4倍时，大部分在肠道被分解代谢转化为其他氨基酸，并产生大量的 ATP 供机体利用[38]。Glu能够上调能量代谢通路哺乳动物雷帕霉素靶蛋白（mammalian target of rapamyci，mTOR）通路的表达，增加血液柠檬酸、延胡索酸等含量[40]；Glu 在机体内还能通过脱羧基和转氨基作用转化为谷胱甘肽、N-乙酰谷氨酸、Asp、α-酮戊二酸以及 $\\mathrm { C O } _ { 2 }$ 等（图2）[1,15,35-36]，这些物质可为肠道提供营养，也能作为基底物质参与多种代谢过程，特别是在肠道完整性、蛋白质合成[35]、氮节约、氧化应激[38-39.41]及能量代谢[4]方面起着主要作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/efe8fab92d4cd869682e13de98fd1ee7b9a23dc18dad1646f11f40cb88195401.jpg",
+        "img_caption": [
+            "图2谷氨酸在肠道中的代谢",
+            "Fig.2 Glutamate metabolism in the intestinal tract[38] "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4Glu和Asp 对断奶仔猪氧化应激的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Glu 和Asp 因在机体中可转化为谷胱甘肽等抗氧化物质，故在缓解动物机体氧化应激方面也发挥着重要作用，在一定程度上可提高肠道的抗氧化能力[38-39.41]。研究表明，Asp 具有提高仔猪肠黏膜抗氧化相关酶活性的趋势，同时降低相关氧化产物的生成，从而改善肠道结构，缓解机体的氧化应激[29]。Glu可能通过一定的细胞信号转导过程上调仔猪肠道酸性氨基酸转运载体基因表达水平，来增加其在肠道的代谢水平，进而有效缓解仔猪的氧化应激反应，降低活性氧分子对仔猪组织器官的损伤[16.34]。另外，利用 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 构建的猪氧化应激模型发现，Glu 和Asp 可减少肠道细胞凋亡，增加仔猪肠道己糖激酶（hexokinase，Hexok）和肉毒碱棕榈酰转移酶-1（carnitine palmitoyl transferase-1，CPT-1）的活性，活化 AMPK-乙酰辅酶A 羧化酶（acetyl-coenzyme Acarboxylase，ACC）信号通路[23]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Glu 和 Asp 的其他生物学功能",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Glu 和 Asp 在食品和临床医学等方面具有重要的生物学功能。在食品工业中，Asp 是生产阿斯巴甜（人造甜味剂）和阿力甜（二肽甜味剂）的主要原料[42-44]。谷氨酸钠盐，俗称味精，作为一种增鲜剂被广泛应用于食品中，是生活常见调味品。这是由于Glu是一种具有鲜味的氨基酸，在体内能够与鲜味受体结合，从而改变摄食行为，也可促进胃酸的分泌和胃肠道运动[45-46]。Asp 和Glu 是中枢神经系统重要的神经递质，主要参与细胞内氧自由基等的解毒反应，可调节机体神经、繁殖、记忆以及运动等方面的功能[42.47-48]。因此，在临床医学上，Asp 和Glu 可治疗和预防肝损伤[12.49]、脂肪肝[50]、心肌梗塞[51-52]、胃肠道疾病[53]等疾病，改善肠道微生物菌群。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Glu 和Asp 是肠道主要的能量来源，可转化为其他物质在机体内发挥重要的生物学功能，尤其是Glu作为功能性氨基酸在断奶仔猪的生长性能、肠道健康、免疫以及氧化应激等方面发挥重要作用，而在正常状态以及低蛋白质情况下Glu 和 Asp 的精确添加剂量及其消化吸收代谢机制，还需进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]WU G Y,WU Z L,DAI Z L,et al.Dietary requirements of \"nutritionally non-essential amino acids\" by animals and humans[J].Amino Acids,2013,44(4):1107-1113. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2]HOU Y Q,YIN Y L,WU G Y.Dietary requirements of \"nutritionally non-essential amino acids\" by animals and humans[J].Experimental Biology and Medicine,2015,240(8):997-1007. [3]WU G Y.Amino acids:metabolism,functions,and nutrition[J].Amino Acids,2009,37(1):1-17. [4] YOUNG V R,AJAMI A M.Glutamate:an amino acid of particular distinction[J].Journal of Nutrition,2000,130(4S):892S-900S. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5]REN W K,DUAN JL,YIN J,et al.Dietary $L$ -glutamine supplementation modulates microbial community and activates innate immunity in the mouse intestine[J].Amino Acids,2014,46(10):2403-2413. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6] WU G Y.Functional amino acids in growth,reproduction,and health[J].Advances in Nutrition,2010,1(1):31-37. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7]WU G Y,BAZER F W,DAVIS T A,et al.Important roles for the arginine family of amino acids in swine nutrition and production[J].Livestock Science,2007,112(1/2):8-22. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8]WINDMUELLER H G,SPAETH A E.Respiratory fuels and nitrogen metabolism in vivo in small intestine of fed rats.Quantitative importance of glutamine,glutamate,and aspartate[J].Jourmal of Biological Chemistry,1980,255(1):107-112. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]WANG G D,WANG X Y,XIA Y,et al.Dietary glutamate:interactions with the enteric nervous system[J].Journal of Neurogastroenterology and Motility,2014,20(1):41-53. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10]CORPELEIJN W E,RIEDIJK M A,ZHOU Y,et al.Almost al enteral aspartate is taken up in first-pass metabolism in enterally fed preterm infants[J].Clinical Nutrition,2010,29(3):341-346. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11]MARQUEZI M L,ROSCHEL H A,DOS SANTA COSTA A,et al.Effect of aspartate and asparagine supplementation on fatigue determinants in intense exercise[J].International Journal of Sport Nutrition and Exercise Metabolism,2003,13(1):65-75. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12]LENG W B,LIU Y L,SHI H F,et al.Aspartate alleviates liver injury and regulates mRNA expressions of TLR4 and NOD signaling-related genes in weaned pigs after lipopolysaccharide challenge[J].The Journal of Nutritional Biochemistry,2014,25(6):592-599. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13] DUAN J L,YIN J,REN W K,et al.Dietary supplementation with $L$ -glutamate and $L$ -aspartatealleviatesoxidativestressin weanedpigletschallengedwith hydrogen peroxide[J].Amino Acids,2016,48(1):53-64. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14]石海峰.天冬氨酸对脂多糖刺激断奶仔猪肠道损伤的调控作用[D].硕士学位论文.武汉:武汉轻工大学,2013.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15]郭长江,顾景范.天门冬氨酸及精氨酸对烫伤小鼠细胞免疫变化的影响[J].军事医学科学院院刊,1989,13(3):189-193.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16]YIN J,LIU M F,REN W K,et al.Effects of dietary supplementation with glutamate and aspartate on diquat-induced oxidative stress in piglets[J].PLoS One,2015,10(4):e0122893. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17]许梓荣,卢建军,肖平.N-甲基-D,L-天冬氨酸(NMA)对育肥猪生长激素基因表达的影响[J].中国兽医学报,2001,21(6):631-633.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]王倩.不同酸性氨基酸水平对断奶仔猪生长性能的影响研究[D].硕士学位论文.长沙:湖南农业大学,2017.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19] LIU T,PENG J,XIONG Y Z,et al.Effects of dietary glutamine and glutamate supplementation on small intestinal structure,active absorption and DNA,RNA concentrations in skeletal muscle tissue of weaned piglets during $\\textrm { d } 2 8$ to 42 of age[J].Asian-Australasian Journal of Animal Sciences,2002,15(2):238-242. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[20]MOLINO JP,DONZELE JL,DE OLIVEIRARF M,et al $\\boldsymbol { \\mathcal { L } }$ -glutamine and $L$ -glutamate in diets with different lactose levels for piglets weaned at 21 days of age[J].Revista Brasileira De Zootecnia,2012,41(1):98-105. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21]吴苗苗,肖昊,印遇龙,等.谷氨酸对脱氧雪腐镰刀菌烯醇刺激下的断奶仔猪生长性能、血常规及血清生化指标变化的干预作用[J].动物营养学报,2013,25(7):1587-1594.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22] CABRERA R A,USRY J L,ARRELLANO C,et al.Effects of creep feeding and supplemental glutamine or glutamine plus glutamate (aminogut) on pre- and post-weaning growth performanceandintestinalhealthofpiglets[J].JournalofAnimalScienceand Biotechnology,2013,4:29. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23]段杰林.酸性氨基酸缓解过氧化氢介导仔猪肠道氧化损伤机制研究[D].硕士学位论文.  \n北京：中国科学院研究生院，2016.[24]余冰,张克英,郑萍,等.猪营养与肠道健康[J].中国畜牧杂志,2010,46(15):73-76.  \n[25]贺丹艳,王新磊,杨琳.动物氨基酸代谢调控研究进展[J].饲料工业,2011,32(18):40-44.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[26]PI D G,LIU Y L,SHI H F,et al.Dietary supplementation of aspartate enhances intestinal integrity and energy status in weanling piglets after lipopolysaccharide challenge[J].The Journal of Nutritional Biochemistry,2014,25(4):456-462. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[27]吴苗苗.谷氨酸缓解呕吐毒素对仔猪毒害作用的研究[D].硕士学位论文.北京:中国科学院大学,2014.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[28]刘志强.α-酮戊二酸对猪肠道谷氨酰胺及谷氨酸代谢的影响及机理研究[D].硕士学位论文.北京：中国科学院研究生院,2012",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29]冷炜博,刘玉兰,李爽,等.天冬氨酸对脂多糖刺激断奶仔猪肠道形态结构和黏膜抗氧化能力的影响[J].中国畜牧杂志,2014,50(11):32-36",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[30]WANG HB,LIU Y L,SHI H F,et al.Aspartate attenuates intestinal injury and inhibits TLR4 and NODs/NF-kB and p38 signaling in weaned pigs after LPS challenge[J].European Journal of Nutrition,2017,56(4):1433-1443.. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[31]王利剑.酸性和碱性氨基酸对断奶仔猪肠道氨基酸吸收及转运的影响研究[D].硕士学位论文.北京：中国科学院大学,2017.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[32]REN W K,LUO W,WU M M,et al.Dietary $L$ -glutamine supplementation improves pregnancy outcome in mice infected with type-2porcine circovirus[J].Amino Acids,2013,45(3):479-488. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[33]熊霞,阳成波,印遇龙.肠道氨基酸及氨基酸转运载体研究进展[J].生理科学进展,2012,43(3):202-206.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[34]刘明锋.谷氨酸对断奶仔猪抗氧化能力的影响研究[D].硕士学位论文.长沙:湖南农业大学,2014.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[35]LIN M,ZHANG BL,YU C N,et al.L-Glutamate supplementation improves small intestinal architecture and enhances the expressions of jejunal mucosa amino acid receptors and transporters in weaning piglets[J].PLoS One,2014,9(11):e111950. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[36] FITZPATRICKSM,COOPERAJ,HERTZ L.Effectsofammoniaand $\\beta$ -methylene- ${ \\mathbf { \\nabla } } \\cdot { D } , { L }$ -aspartate on the oxidation of glucose and pyruvate by neurons and astrocytes in primary culture[J].Journal of Neurochemistry,1988,51(4):1197-1203. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[37]LIU Y L,WANG X Y,LENG W B,et al.Aspartate inhibits LPS-induced MAFbx and MuRF1 expression in skeletal muscle in weaned pigs by regulating Akt,AMPKα and FOXO1[J].Innate Immunity,2017,23(1):34-43. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[38]BURRIN D G,STOLL B.Metabolic fate and function of dietary glutamate in the gut[J].The American Journal of Clinical Nutrition,2009,90(3):850S-856S. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[39]BLACHIER F,BOUTRY C,BOS C,et al.Metabolism and functions of $L$ -glutamate in the epithelial cells of the small and large intestines[J].The American Journal of Clinical Nutrition,2009,90(3):814S-821S. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[40]吴苗苗.谷氨酸缓解呕吐毒素对仔猪毒害作用的研究[D].硕士学位论文.北京:中国科学院大学,2014.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[41]井明艳,刘波静,孙建义,等.氨基酸代谢与免疫反应[J].中国畜牧杂志,2007,47(5):37-39.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[42]PARK C H,CHOI S H,PIAO Y D,et al.Glutamate and aspartate impair memory retention and damage hypothalamic neurons in adult mice[J].Toxicology Letters,200o,115(2):117-125. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[43]KIM C,SHIN C S.Solvent-free enzymatic synthesis of alitame precursor using eutectic substrate mixtures[J].Enzyme and Microbial Technology,2001,28(7/8):611-616. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[44]YAGASAKI M,HASHIMOTO S.Synthesis and application of dipeptides; current status and perspectives[J].Applied Microbiology and Biotechnology,2008,81(1):13-22. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[45] KHROPYCHEVA R,UNEYAMA H,TORII K,et al.Dietary monosodium glutamate enhances gastric secretion[J].Journal of Medical Investigation,2009,56(1S):218-223. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[46]KHROPYCHEVA R,ANDREEVA J,UNEYAMA H,et al.Dietary glutamate signal evokes gastric juice excretion in dogs[J].Digestion,2011,83(1S):7-12. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[47]CANZEK V,WOLFENSBERGER M,AMSLER U,et al.In vivo release of glutamate and aspartate following optic nerve stimulation[J].Nature,1981,293(5833):572-574. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[48] BERRY H K,BUTCHER R E,ELLIOT L A,et al.The effect of monosodium glutamate on theearlybiochemical and behavioraldevelopmentoftherat[J].Developmental Psychobiology,1974,7(2):165-173. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[49] KANG P,LIU Y L,ZHU H L,et al.The effect of aspartate on the energy metabolism in the liverofweanlingpigschallengedwithlipopolysaccharide[J].EuropeanJournalof Nutrition,2015,54(4):581-588. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[50] YANNI A E,AGROGIANNIS G,NOMIKOS T,et al.Oral supplementation with $L$ -aspartate and $L$ -glutamate inhibits atherogenesis and fatty liver disease in cholesterol-fed rabbit[J].Amino Acids,2010,38(5):1323-1331. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[51]SIVAKUMAR R,BABU P V A,SHYAMALADEVI C S.Aspartate and glutamate prevents isoproterenol-induced cardiac toxicity by alleviating oxidative stress in rats[J].Experimental and Toxicologic Pathology,2011,63(1/2):137-142. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[52]SIVAKUMAR R,BABU P V A,SHYAMALADEVI C S.Protective effect of aspartate and glutamate on cardiac mitochondrial function during myocardial infarction in experimental rats[J].Chemico-Biological Interactions,2008,176(2/3):227-233. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[53]UNEYAMA H.Nutritional and physiological significance of luminal glutamate-sensing in the gastrointestinal functions[J]Yakugaku Zasshi,2011,131(12):1699-1709. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Effects of Glutamate and Aspartate on Growth Performance and Intestinal Function of Weaned ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Piglets ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LI Yuying\" 1,2 YIN Jie1,2 WANG Lijian1,2 HE Liuqin1,2 WANG Qian1.3 WU Fei1,2 YAO Jiming FAN Wenjun4LI Tiejun1.4,5\\* ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1. Key Laboratory ofAgro-Ecological Processes in Subtropical Region, Institute of Subtropical   \nAgriculture, Chinese Academy of Science; National Engineering Laboratory for Polution Control   \nand Waste Utilization in Livestock and Poultry Production; Hunan Provincial Engineering   \nResearch Center for Healthy Livestock and Poultry Production; Scientific Observing and   \nExperimental Station of Animal Nutrition and Feed Science in South-Central, Ministry of   \nAgriculture， Changsha 410125, China; 2. University of Chinese Academy of Sciences, Bejing   \n100039, China; 3. College of Animal Science and Technology, Hunan Agriculture University,   \nHunan 410128, China; 4. Guangdong Wangda Group Academician Workstation for Clean Feed ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Technology Research and Development in Swine, Guangzhou 510663, China; 5. Hunan Co-Innovation Center of Animal Production Safety, Changsha 410128, China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Glutamate and aspartate are considered to be the major energy source of intestinal epithelial cells and can be metabolized into other active substrates by decarboxylation or transamination, which may play important functions in maintaining the growth performance and normal intestinal function， signaling pathway， alleviating oxidative stress， gene expression regulation, nerve regulation of pigs. This review mainly summarized the effects of glutamate and aspartate on growth performance and intestinal function of weaned piglets. Key words: glutamate; aspartate; piglets; growth performance; intestinal function ",
+        "page_idx": 11
+    }
+]

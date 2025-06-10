@@ -1,0 +1,509 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201607031369 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林丽群,汪正祥,雷耘,李亭亭,王俊,杨敬元.神农架川金丝猴栖息地优势乔木树种遥感识别及其分布特征.生态学报,2017,37(19):6534-6543. LinLQ,Waedsa roxellana using Remote Sensing imagery in Shennongjia.Acta Ecologica Sinica,2O17,37(19）:6534-6543. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "神农架川金丝猴栖息地优势乔木树种遥感识别及其分布特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林丽群1,²，汪正祥1,2,3，\\*，雷耘4，李亭亭1,³，王俊¹，杨敬元5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1湖北大学资源环境学院，武汉430062  \n2区域开发与环境响应湖北省重点实验室，武汉430062  \n3 湖北省生物资源绿色转化协同创新中心，武汉430062  \n4华中师范大学生命科学院，武汉430079  \n5 神农架国家公园管理局神农架金丝猴保育生物学湖北省重点实验室,神农架442421",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对神农架川金丝猴生境基础研究中乔木树种大范围分布数据难以获取问题,尝试利用多源多时相遥感数据结合专家知识分层次实现树种识别。首先采用冬季Landsat8/OLI数据根据物侯特性分层提取常绿、落叶林的地域范围;进而依据夏季Worldview-2高分遥感影像的实地乔木样本的光谱特征分层次完成常绿树种(巴山冷杉、华山松、青杆、刺叶栎)和落叶树种（红桦、日本落叶松、米心水青冈、漆树、锐齿槲栎、椅杨)的识别;并通过实地植被样方及专家知识通过高程数据完成分类结果的修正;最后结合GIS 对主要优势树种的地形及地域分布特征进行了空间分析。实验精度表明常绿林中巴山冷杉、华山松、刺叶栎、虫害华山松整体精度较高,落叶林中红桦、漆树等识别精度相对较高,部分树种如椅杨、锐齿槲栎识别精度较低;总体上常绿树种的精度要优于落叶树种。从植物地理学、遥感、GIS 三者相结合的角度,将多源、多时相遥感数据与物种物候特性、专家知识进行有效整合,提出了一种乔木树种识别的方法(1)提供了复杂山地环境的主要乔木优势种识别途径,且具有通用性；（2)完成了物种物候特性与遥感数据特性的整合利用,有效降低数据成本费用;(3)配合地面样方及专家知识修正结果,避免了过分依赖光谱特征引起的误判。这将为神农架川金丝猴栖息地保护与恢复提供更精确的数据依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多源多时相遥感;高分影像Worldview-2;树种识别;植被；专家知识 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Determination of dominant tree species and effects of tree distribution on the habitat of Rhinopithecus roxellana using Remote Sensing imagery in Shennongjia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIN Liqun1,2，WANG Zhengxiang1,2.3 \\*，LEI $\\mathrm { Y u n } ^ { 4 }$ ， LI Tingting1,3, WANG jun1,YANG Jingyuan5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Faculty of Resources and Environmental Sciences,Hubei University，Wuhan 43oo62,China   \n2 Hubei KeyLaboratory of Regional DevelopmentandEnvironmental Response( Hubei University），Wuhan 430062，China   \n3 Hubei Collaborative Innovation Center for Green Transformation of Bio-Resources，Wuhan 430062，China   \n4 School of Life Sciences，Central China Normal University，Wuhan 430079，China   \n5HubeiKybtofedeeyseatioeotialrkmstrati，o ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Because of the dificultyinobtaining large-scale distributiondataon tree species in Rhinopithecus roxellna habitat in Shennongjia，weatempted touse multi-sourceand multi-temporal remote sensing datacombined with expert knowledge toidentifyspeciesatdiferentlevels.Firstly，afteranalyzingthediscriminationofsample trees，weusedwinter Landsat8/OLI image data to extract evergrenand deciduous forest，respectively.Secondly，weusedsummer Worldview-2 highresolution imagedatatofortherecognitionof tree species，which includedtheevergreenspecies（Abiesfargesi,Pinus armandii，Picea wilsonii，Quercus spinosa）and deciduous tree species （Betulaalbo-sinensis，Larix kaempferi，Fagus engleriana，Toxicodendronvernicifluum，Quercusaliena，Populusuilsonii），espectively.Thirdly，combining thegetation quadrats and expert knowledgeon elevation，wecorrected the clasification results based onthe second step.Finally, making use of GISspatial analysis，we analyzed the terainandgeographical distributionon thedominantspecies.The experimentrevealedthat accuracywas higher in evergreen forests，such as Abies fargesii，Pinus armandi，Quercus spinosa, and Pinus armandii afected by pests，whereasrelatively higherin deciduous forest，such as Betula albo-sinensis and Toxicodendron verniciflum.Some species，such as Populus wilsoniiand Quercus aliena，showed poor acuracy.In general, evergreen species had higher acuracy than deciduous tres.By combining plant geography，remote sensing，and GIS，we integratedthemulti-soure，multi-temporalremotesensing data，phenologicalcharacteristicsof thetreespecies，and expert knowledge to proposea method foridentifying tree species.This method（1）providesan efective wayto identifydominant tree species incomplex mountainous environments，and ithas the versatilityforavarietyof geographical environments；(2) makes full useof the integrationof speciesphenological featuresand characteristics ofremote sensingdata toreduce data costs；（3）uses ground sampling and expert knowledge，ensuring the clasification resultsare corect，which can avoid excessive relianceonspectral characteristics，andreduce the possbilityofmisclasification.This method willprovidemore accurate data for the protection and restoration of the habitat of Rhinopithecus roxellana in Shennongjia. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:multi-source and multi-temporal Remotesensing data；high resolution image Worldview-2；treespecies identification ； vegetation ；expert knowledge ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "神农架川金丝猴(Rhinopithecus roxellana)是我国特有的珍稀濒危物种,但受历史原因影响,森林砍伐和生境退化使金丝猴赖以生存的栖息生境遭到严重破坏和高度破碎化[1],其生存状态极度濒危。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "川金丝猴生境选择和活动区域是生物因素(如食物、植被、天敌)及非生物因素(如气候)等共同作用的结果。川金丝猴主要是树栖生活,乔木层树冠是其活动和觅食的主要场所,因此研究川金丝猴栖息地的乔木层物种特征,不仅可以了解当地森林群落内的生态功能及保护现状,而且对深刻认识川金丝猴栖息地选择和食性选择机理以及解释栖息地森林优势树种与川金丝猴之间协同进化等方面具有重要意义[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前金丝猴生境基础研究数据大多依据人工野外调查，由于川金丝猴大多在险峻的山岭间游荡,很多地方人迹罕至,调查难度大,尤其是川金丝猴栖息地的乔木层树种数据,难以获取其大范围山系数据。遥感为大范围地面分析、植被制图提供了很好的技术手段[3」，从高分影像上可以看到单棵树的冠层形状,尤其是Worldview-2（WV2)高分影像的8波段光谱特性为树种识别研究提供了条件,对此国外有学者开展了WV2或高分影像的树种识别研究[46],但经验和精度都有待进一步提高,特别是我国亚热带地区地理环境复杂、物种多样性高,利用遥感技术进行乔木树种识别难度更高。本文尝试在神农架川金丝猴主要活动范围内,利用多源多时相遥感数据并结合专家知识分层识别川金丝猴栖息地的乔木树种分布,这对川金丝猴的食源植物分布、栖息地保护与恢复提供更准确的植被数据,在植被生态学的调查研究中能更多借用新技术以节省人力物力并提高精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区和数据集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "神农架川金丝猴分布在高程1800—3100m之间[7],栖息地生境的植被有3种类型,海拔1800—2600 m之间的是温性针叶林与落叶阔叶林,主要树种分别是华山松与锐齿槲栎、米心水青冈、山杨、红桦;2600—3100$\\mathbf { m }$ 主要是寒温性常绿针叶林,巴山冷杉及林下箭竹或常绿杜鹃占优势[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 WV2影像",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验数据包括(1)Landsat8/OLI冬季数据(2013年12月）,多光谱的空间分辨率为 $3 0 \\mathrm { ~ m ~ }$ ,全色 $1 5 \\mathrm { ~ m ~ }$ ,云量为 $0 . 4 4 \\%$ ;（2)WV2夏季数据（2014年7月），总覆盖范围大致为 $4 7 0 ~ \\mathrm { k m } ^ { 2 }$ ,其多光谱分辨率为 $2 \\mathrm { ~ m ~ }$ ，云量 $< 3 \\%$ ,8个多光谱波段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 野外调查 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "野外调查包括乔木树种的定位及植被样方调查，于2013年9月、2014年6月及2015年7月在神农架大龙潭、千家坪、观音洞、桥洞沟等川金丝猴栖息地进行了多次野外调查。植被样方调查采用随机调查方法，并确保样方分布在其生境梯度范围内，共200个样方。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "乔木树种定位采用随机采集方式，通过野外实地对比,在WV2遥感影像上判读，实地在影像上勾绘单个树种的位置信息。根据金丝猴栖息地主要优势种的重要值、野外采集及影像目视判读的难易程度，对乔木树种包括巴山冷杉(Abies fargesii）华山松（Pinus armandii）、青杆（Piceawilsonii）红桦（Betulaalbo-sinesis）、日本落叶松（Larix kaempferi）米心水青冈（Fagus engleriana）、漆树（Toxicodendronvernicifluum）、锐齿槲栎（Quercusaliena）、刺叶栎（Quercusspinosa）、椅杨（Populuswilsoni)，灌木类型及高山草甸包括对杜鹃（Rhododendronsp）箭竹（Fargesia spathacea）进行空间定位及WV2影像勾绘等;其空间位置分布如图1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/81f5f2d6299c335970ea4199045d339e604bb8a2256b24158a7f37ec577d8305.jpg",
+        "img_caption": [
+            "图1研究区样点分布位置图",
+            "Fig.1The location of sample plots in study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1遥感数据预处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)OLI和WV2遥感影像辐射校正;(2)OLI多光谱波段和全色波段融合,得到 $1 5 \\mathrm { ~ m ~ }$ 分辨率的多光谱数据;(3)采用 $5 \\mathrm { ~ m ~ }$ DEM数据完成WV2 影像地形正射RPC矫正。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2多源多时相数据的层次分类",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)利用冬季Landsat8/OLI融合后数据,根据监督分类完成研究区常绿林、落叶林的地域划分,并将其空间范围转换为矢量;（2)以矢量范围分别裁剪夏季WV2数据,获取常绿林和落叶林的WV2 影像范围,作为后续分层次乔木树种识别的基础;(3)结合野外现场勾绘的样本数据,对裁剪后WV2 影像以基于像元的监督分类方式分别完成常绿、落叶乔木树种识别；（4)根据实地野外样方调查数据及有关植物分类文献[8-9],获取专家知识,并依据高程数据修正乔木树种分类结果;(5)结合GIS 对主要优势树种进行空间分析,进一步明确其地形及地域分布特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3实验结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1优势树种遥感识别 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 样本分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用J-MTransformed Divergence 参数来衡量训练样本的可分离性,该参数取值范围是[0,2],0表示两个类别在某一特征上几乎完全混淆,2表示两个类别在某一特征上能够完全分开。实验中首先计算了所有乔木样本 WV2的光谱可分离性，发现除常绿的巴山冷杉外,其它树种间均存在严重混淆。而将这些乔木优势种划分为常绿、落叶,分层计算出的分离性有显著提高(由于表格和数字太多,不在文中列出),如华山松与青杆、青杆与刺叶栎、华山松与虫害华山松等树种。这说明将研究区先划分为常绿林、落叶林,再分层提取树种能减少树种间的混淆。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 分层提取过程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冬季影像上常绿、落叶的解译特征非常明显。利用这一物候特性,从方法上提出通过冬季数据区分常绿林、落叶林,夏季数据分层次提取相应乔木树种,这有效避免树种的混淆程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/293cb1b399f445d7288152d184b359b697600b6374d206a8cc01d15fb0c4fdc0.jpg",
+        "img_caption": [
+            "图2Landsat8/OLI-654波段合成RGB",
+            "Fig.2 Landsat8/OLI-band combination 6-R,5-G,4-B "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冬季Landsat8/OLI数据如图2所示,在 Envi软件中采用 SVM监督分类将影像分为落叶林、常绿林、混交林、阴影4种类型,测试样本数据的分类精度为 $9 3 \\%$ ;分类后处理并结合周围地物判断阴影区属性,修正分类结果,结果如图3所示。考虑华山松和巴山冷杉等乔木是神农架川金丝猴栖息地植被的主要建群种,在后续分析中将混交林合并到常绿林中,以提高主要优势种的精度;将数据分类后处理并转矢量,得到落叶林和常绿林的矢量区间（图3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用上述矢量边界裁剪WV2影像,分别获得常绿、落叶林的WV2多光谱影像范围。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.3树种识别 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过实地调查,确定研究区域常绿林分布的主要优势种有华山松,巴山冷松、青杆、杜鹃、刺叶栎等。下图4 显示了部分特征明显的树种。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合地面样本数据,利用基于像元的监督分类方式采用 BP 算法对 WV2 影像分别提取常绿、落叶乔木树种(图5)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.4 WV2识别精度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据野外实测样布计算了乔木树种的分类精度(表1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "常绿树种巴山冷杉、华山松、刺叶栎整体精度较高,用户精度分别达到 $9 4 . 2 1 \\%$ ， $7 3 . 9 1 \\%$ ， $8 6 . 5 9 \\%$ ,杜鹃的用户精度较高为 $8 2 . 3 6 \\%$ ,但制图精度相对低为 $5 9 . 4 1 \\%$ ;落叶林中红桦、漆树等识别精度相对较高，分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a5aecde8c3fc51f289f58b90f8354b4039eaa019747ced0bcbe17905fc62bd6.jpg",
+        "img_caption": [
+            "Fig.3Result of evergreen forest and deciduous forest "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec2cf9fe69697c5c53df121f1ed15f7189f396b8cc0ed088d58562a0be185832.jpg",
+        "img_caption": [
+            "图3分层结果",
+            "图4树种分布",
+            "Fig.4Distributions of tree species "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$6 6 . 6 7 \\%$ 和 $6 7 . 5 7 \\%$ ;但其它类型精度不高,如椅杨为 $5 1 . 3 7 \\%$ ,而锐齿槲栎仅为 $2 2 . 5 \\%$ ;对分类误差很大的树种，在后续分析中合并到其它常绿/落叶林;受虫害的华山松精度为 $8 2 . 8 8 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.5 专家知识修正",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从遥感影像分析角度,树冠所具有的光谱特征是判定树种类别的主要依据;从地理空间角度来看,树种分布的驱动力是环境特征,且具有一定的规律性。因此实验中结合实验分类结果（图5所示),首先在 Arcgis 软件中分析各乔木树种的高程分布,进一步结合野外调查植被样方、《湖北植物志》提供的专家知识[8-9]统计得到各乔木树种相应的高程分布范围,得到修正后高程范围（图6）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于在分类过程中,树种误分造成了部分树种分布超出了修正高程分布,见图6方框部分,如华山松的实验统计分布范围在1000— $3 1 0 0 \\mathrm { ~ m ~ }$ 区间,但是修正后的专家知识分布在 $1 0 0 0 { - } 2 6 0 0 ~ \\mathrm { m }$ ,将超出修正高程范围内的分类结果进行调整,调整为其它落叶或常绿林。最终分类结果及部分优势种分布如图7和图8所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1分类精度/ $\\%$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f763cedb5ffd4d88ec5b6eaad26056c78eec0f2bef2a7e557c68f6ffc70f7009.jpg",
+        "table_caption": [
+            "Table 1 The classification accuracy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类 Class</td><td>用户精度 User's accuracy</td><td>制图精度 Producer's accuracy</td><td>类 Class</td><td>用户精度 User's accuracy</td><td>制图精度 Producer's accuracy</td></tr><tr><td>巴山冷杉 Abies fargesii</td><td>94.21</td><td>95.61</td><td>漆树Toxicodendron vernicifluum</td><td>67.57</td><td>65.21</td></tr><tr><td>华山松 Pinus armandii</td><td>73.91</td><td>74.55</td><td>米心水青冈Fagus engleriana</td><td>68.71</td><td>45.08</td></tr><tr><td>虫害华山松 Pest of Pinus armandii</td><td>82.88</td><td>76.1</td><td>锐齿槲栎 Quercus aliena</td><td>22.55</td><td>46.4</td></tr><tr><td>青杆 Picea wilsonii</td><td>31.02</td><td>62.27</td><td>椅杨 Populus wilsonii</td><td>51.37</td><td>63.47</td></tr><tr><td>刺叶栎 Quercus spinosa</td><td>86.59</td><td>70.18</td><td>日本落叶松 Larix kaempferi</td><td>58.35</td><td>54.19</td></tr><tr><td>杜鹃 Rhododendron sp</td><td>82.36</td><td>59.41</td><td>其它常绿及混交林 Other evergreen and mixed forests</td><td>93.05</td><td>97.03</td></tr><tr><td>红桦 Betula albo-sinesis</td><td>66.67</td><td>70.5</td><td>其它落叶林 Other deciduous forest</td><td>96.95</td><td>85.51</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c00079d8d23c819e3c2167c90932a562feda4747f025968b8ac1449b7b9f943.jpg",
+        "img_caption": [
+            "图5树种识别初步结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/905e35f75272ab9a83dc6148e47b6c2bd335e42a7e04a257fc02432c3c0c6ab1.jpg",
+        "img_caption": [
+            "Fig.5The preliminary result of trees species Recognition ",
+            "图6高程分布特性",
+            "Fig.6Characteristics of altitude distribution of trees "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 优势种分布特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 地形分布特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对上述实验图7所示的分类结果，结合高程数据在GIS下进行空间分析，统计各乔木树种主要分布的高程、坡度、坡向分布图如图9一图11所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从统计数据可以发现：巴山冷杉的主要分布区间在$2 2 5 0 { - } 3 1 0 0 \\mathrm { ~ m }$ ,其中分布最多的在 $2 6 0 0 \\mathrm { ~ m ~ }$ 的海拔处，坡向在阴坡的分布大于阳坡分布，说明其耐阴性强;华山松的主要分布区间在 $1 8 5 0 { - } 2 8 0 0 \\mathrm { ~ m }$ ,其中分布最多的在 $2 4 5 0 \\mathrm { ~ m ~ }$ ,坡度主要是 $4 0 ^ { \\circ }$ 以下，坡向则在阳坡分布多于阴坡分布，说明其阳性树特性；而对于其它常绿及混交林的分布，坡度在 $6 5 ^ { \\circ }$ 以下较多，这主要是由于神农架的复杂地形，其中图1中观音洞往机场方向的坡度均非常大，分类中这一部分大多数分到了混交林区域，符合实际情况;红桦的主要分布区间在 $2 0 0 0 { - } 2 8 0 0 \\ \\mathrm { m }$ ,其中分布最多的位于 $2 3 0 0 \\mathrm { ~ m ~ }$ ,坡向在阴阳坡分布相对较为均一。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 地域分布特性",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结合乔木树种分布图1、图3、图5、图7及林业调查数据、野外样方调查数据进行分析，可知神农架川金丝猴主要活动地域的垂直植被类型如下： /",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/252a8721ca2abbb9f9292fff0868064b666379085f0d924058b03d0b18628f12.jpg",
+        "img_caption": [
+            "图7分类结果",
+            "Fig.7 Result of the tree species'distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "千家坪垂直植被类型： $1 9 0 0 { - } 2 1 0 0 \\mathrm { ~ m ~ }$ 是落叶阔叶林;2100— $2 4 0 0 \\mathrm { ~ m ~ }$ 海拔的植被属于针阔混交林;2400-$2 6 0 0 \\mathrm { ~ m ~ }$ 是常绿针叶林;主要分布乔木层树种以红桦,华山松,锐齿槲栎,米心水青冈等为主；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "官门山-小神农架-大神农架-金猴岭-大龙潭-鸭子口-机场方向垂直植被类型;1500— $1 9 0 0 \\mathrm { ~ m ~ }$ 落叶阔叶林;$1 9 0 0 { - } 2 3 0 0 \\ \\mathrm { m }$ 主要分布常绿落叶阔叶混交林； $2 3 0 0 { - } 3 1 0 0 \\mathrm { ~ m ~ }$ 主要是常绿针叶林,及高山草甸、箭竹、杜鹃等灌木;主要分布乔木层树种以巴山冷杉,华山松,红桦,杜鹃等为主;红桦、华山松和巴山冷杉等乔木是主要建群种,在海拔 $2 1 0 0 \\mathrm { ~ m ~ }$ 以上分布较广。其中,巴山冷杉分布海拔较高,华山松树及红桦分布较广泛；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "观音洞-大龙潭-罗圈套方向垂直植被类型;局部地形较为特殊,西南面阴坡,且坡度较大,海拔1500—$1 9 0 0 \\mathrm { ~ m ~ }$ 为针阔混交林,且以针叶林为主; $1 9 0 0 \\mathrm { ~ m ~ }$ 以上为常绿针叶林;由于罗圈套地形陡峭,无法实地获取其样方及乔木样本,利用实验分类结果来看,乔木种主要分布有华山松、青杆及其他针叶林乔木种;",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论及结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本实验借助遥感高分WV2 影像获得了神农架川金丝猴栖息地的主要优势乔木种的空间分布,并结合GIS 分析了优势种的地形分布特性;这为川金丝猴栖息地植被种类组成、食源植物分布、冬季食物补给、生境诊断与预测提供了极重要的数据;实验还确定了虫害华山松的空间分布和受灾面积（共 $1 1 \\ \\mathrm { k m } ^ { 2 }$ ),这些数据为川金丝猴食物组成的影响分析、虫害监测和治理都能提供了有效指导数据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从采用的遥感数据来看,本文探索了WV2高分影像对乔木树种识别的有效性。目前国外研究采用WV2影像数据主要针对欧美、非洲热带区域等城市、森林树种开展了识别研究,但这些研究存在的问题是： $\\textcircled{1}$ 研究区的树种分布相对较简单,而复杂山地环境的树种识别尚未开展； $\\textcircled{2}$ 没有利用树种物候特性，单纯依靠某些时相的遥感光谱特征,忽略了自然植被的物候特点。虽然有学者[10]在德国柏林利用多时相卫星数据来反应树种的物候特性,区分了8个常见树属,但目标是针对城市树种;另外植被发育中具有趋同性和趋异性,乔木树种表征的光谱特征具有明显的地域性,尚缺乏一种方法来指导不同地理环境中多时相数据的合理应用； $\\textcircled{3}$ 均依靠光谱或派生特征完成实验。本文相比以往研究，具有以下优势： $\\textcircled{1}$ 完成了复杂山地环境的树种识别;证明了 WV2多光谱特性对山地环境的主要优势种识别具有可行性,且该方法具有通用性,适合多种地理环境; $\\textcircled{2}$ 充分发挥了遥感多源多时相和物种物候特性相结合的优势,并从数据源上降低了数据成本费用； $\\textcircled{3}$ 考虑了高程对树种分布的影响;实验中配合地面样方及专家知识,引入高程专家知识对分类结果进行修正,能在一定程度避免过分依赖光谱特征造成的误分错误。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7ef57643ef4f4c27a0bade634c28843e5ed582bf2c45ed22faedaf8276d35af.jpg",
+        "img_caption": [
+            "图8部分优势种空间分布",
+            "Fig.8Part of Space distribution of the dominant tree species "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究从整体精度看,常绿乔木树种比落叶树种的识别精度高;光谱信息对如华山松、巴山冷杉、红桦、刺叶栎这些乔木树种能有效识别,但对部分树种,如锐齿槲栎,无法单独依靠遥感光谱信息识别出来,这可能是因为采集到的样本数量少导致分类精度低的原因之一。另外一个重要原因是因为乔木的分布与地形[11]、气候、土壤等地理环境因素密切相关,没有考虑这些地学因素,单纯依靠遥感光谱信息处理方法不易取得满意结果。虽然实验中考虑了高程因素,但是未将高程作为先验知识融入智能模型进行分类。因此在后续实验中，将考虑结合地学知识融合遥感数据模型,结合树种间的空间分布关系进行下一步分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb469b55a53e3e80e45f3b51701575f4b49b323eed15195150acedd8c00f8b57.jpg",
+        "img_caption": [
+            "Fig.9Elevation distributions of tree species "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c1ee8863806250e94d973e2c56b455feba65cb50d6b8bbe5af9ab7d07ae3117.jpg",
+        "img_caption": [
+            "图9乔木树种的高程分布图",
+            "图10 乔木树种的坡度分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9158925e7cc289a6f47a2a189668e0c96622016741691e91332d7a6ce84f6014.jpg",
+        "img_caption": [
+            "Fig.10Gradient distributions of tree species ",
+            "图11乔木树种的坡向分布图",
+            "Fig.11 Aspect distributions of tree species "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从识别方法来看,实验中采用了常规基于像元的监督分类方法进行了WV2树种识别有效性的初步探索，证明了其可行性;因此在方法上没有选择更多方法或选用更复杂的面向对象的方式和模型,结合如纹理、空间关系等特征完成分类识别;在下一步即将开展的工作中,将采用面向对象分类方式,利用马尔科夫随机场模型融合空间关系和专家知识完成树种识别。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "致谢：神农架保护区管理局杨敬元、王敏,湖北大学研究生龚苗、李泽、张娥参与了植被调查,特此致谢。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "［1］刘广超.川金丝猴栖息地质量评价和保护对策研究[D].北京：北京林业大学，2007.  \n[2］铁军.神农架川金丝猴（Rhinopithecus roxellna）栖息地植物构成和食源植物评价研究[D].北京：北京林业大学，2009.  \n[3]ScferEeisaJelapSseifoicalaFyUsuisgfAirborne Imaging Spectroscopy Data. Ecological Indicators，2016,64：49-58.  \n[4]ChubeyMS,FranklinSE，WulderMA,MichaelA.Object-basedAnalyssofoos-2IageryforExtractionofForestIventoryaaee.Photogrammetric Engineering & Remote Sensing，2006,72(4）：383-394.  \n[5]ImmitzerMtbergerC,KukalTe SpesClasfatioitandForestUsinVerygatialResouto8-bndWodi-Satelite Data.Remote Sensing，2012,4(9）：2661-2693.  \n[6]PRL,andryS.ACoparativeAalysisofghSpatialResolutionOSdWoVie-2IagrforingUbanTreSeteSensing of Environment，2012，124：516-533.  \n[7] 苏彦捷.金丝猴的社会(第二版).北京：北京大学出版社，2014:4-5  \n[8] 傅书遐.湖北植物志(I—IV)卷.武汉：湖北科学技术出版社，2002.401-411  \n[9] 郑重.湖北植物大全.武汉：武汉大学出版社，1993.25-182.  \n[10] TiggesJ,Lakeseeisofiaelit,2013,136:66-75.  \n[11] OkeOA，ThompsonKA.Distribution ModelsforountainPlantSpcies：TheValueofElevationEcologicalModeling2015,01:2-77.",
+        "page_idx": 9
+    }
+]

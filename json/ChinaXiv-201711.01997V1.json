@@ -1,0 +1,664 @@
+[
+    {
+        "type": "text",
+        "text": "基于专利的技术熵分析法及其在新兴技术监测中的应用研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以碳捕集技术为例",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "侯剑华 郭爽 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(大连大学科学技术与社会研究中心 ：大连116622)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】基于技术系统特性，提出技术熵分析方法。通过专利文献数据，对新兴技术的发展演化进行动态、有效的监测，验证技术熵分析方法的效度。【方法】在基于专利的技术系统中构建多维度技术熵专利模型。以碳捕集技术为例，从宏观和微观两个层面进行技术监测和评价分析。【结果】证实了技术熵分析方法的有效性。我国碳捕集技术经历了技术萌芽、低速发展、高速跃升等阶段，虽尚未成熟，但已经进入至关重要的发展阶段；技术研发以高校为主，研究大多集中于吸收和吸附材料等。【局限】样本数据的选择有待改进，存在干扰数据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【结论】技术熵方法是从技术系统的视角分析技术领域的演化趋势的一种科学有效的分析方法，为技术演化、技术评价、技术预见等问题及相关技术管理问题提供了一种可行的分析工具。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： 技术熵 专利模型技术监测 碳捕集技术分类号：G350",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前，技术监测已经成为跟踪技术发展演化的前沿趋势，获取技术竞争情报的重要手段。一般以科学技术信息、数据分析为基础，以数据挖掘、信息萃取、知识发现、数据可视化等信息科学前沿技术为手段，对科学技术活动进行动态监测、分析及评估[1]。通过技术监测手段对新兴技术进行实时动态跟踪，不仅对企业制定技术发展战略和专利布局具有重要的实践价值，同时对国家、省、市和区域制定科学技术发展规划，提升科技创新能力和核心竞争力具有重要的指导意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前，通过信息可视化和数据挖掘等技术方法对基于专利的技术演化进行分析是技术监测研究与应用的重要手段[2-8]，同时也有通过专利指标和数学模型的方法对新兴技术的演化进行识别与监测[9-14]。已有研究中较少有从技术系统出发，从系统特性的视角对技术的发展进行监测分析。熵作为表征系统无序程度的重要参量，自提出以来，被探索性地应用于各大科学领域，在自然系统和社会系统中出现了统计熵、信息熵[15]、最大信息熵[16]、黑洞熵[17]、管理熵[18]、经济熵[19]等泛化的熵理论。由于技术系统的协同性、自组织性、突变性等特征与熵理论适用的其他系统具有一致性，因此熵理论同样适用于技术系统。本文从技术系统的视角提出技术熵的概念及其相关判据，给出基于专利文献数据的技术熵分析方法，并构建一维和二维专利模型。以碳捕集技术为例，对下载于国家知识产权局的专利文献信息进行分析，对我国碳捕集技术整体的发展进行监测和评价，为技术监测研究提供一种客观有效的技术手段和方法，为全面推进我国碳捕集技术工业化提出发展对策和预测性建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2基于专利的技术熵分析法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "技术系统包含于社会系统之中，既会受系统外部因素的影响，又有系统自身固有的属性。从创生、发展、成熟、衰落再到消亡，技术系统在不同阶段会展现不同状态，这种变化的动因正是系统内部要素有序与无序的统一表现。在热力学熵的定义基础上，根据技术系统的相关属性，提出“技术熵\"的概念，旨在描述、表征特定的技术系统在某一特定时间其内部关系的无序程度。其作用是通过反映技术系统演进的变化趋势或成熟程度，来解决技术演化、技术监测和技术评价等相关问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据热力学熵的公式，本研究定义技术熵的计算式为:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S = { \\frac { d Q } { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $d S$ 定义为技术熵增量, $d Q$ 为技术系统所接收的能量， $T$ 为对该技术的研究热度。当 $d S { < } 0$ 时，即熵增为负时，技术系统趋于有序成长；当 $d S { = } 0$ 时，技术系统达到相对平衡，呈现成熟状态；当 $d S { > } 0$ 时，即熵增为正时，技术系统趋于混乱，开始走向衰亡。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究设定技术熵存在的两个判据，其一是 $d S$ 熵增量本身，它分为两部分：一部分为系统和外界交换能量所产生的熵增量 $d _ { e } S ,$ ，其值可正可负；另一部分是系统内部产生的熵增量即熵产 $d _ { i } S ,$ ，其值为正。综上,技术熵增量 $d S$ 表示如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S = d _ { e } S + d _ { i } S\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在技术成长阶段，由于外界负熵流的输入占据主导地位，系统内部的熵产相对较小，则有：$d _ { e } S < 0 , d _ { i } S > 0$ ，又 $\\mid d _ { e } S \\mid > \\mid d _ { i } S \\mid$ ，所以 $d S { < } 0$ ，即技术系统向有序方向演化。当技术系统演化到一定程度时，系统内部熵产呈上升趋势，负熵流呈下降趋势，最终二者达到平衡状态，此状态所维持的时间段，即为技术系统的成熟阶段，则有 $\\mid d _ { e } S \\mid = \\mid d _ { i } S \\mid$ ，$d S = d _ { e } S + d _ { i } S = 0$ 。在技术衰亡阶段，外界输入的正熵流和内部的熵产促使系统混乱，熵值不断增大。即：$d S = d _ { e } S + d _ { i } S > 0 ( d _ { e } S > 0 , d _ { i } S > 0 ) \\textrm { d }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "技术熵的另一个判据为技术熵计算式$d S = - k \\cdot \\ln h$ 中的技术熵增量趋势值 $h$ 。当处在成长阶段时，技术系统向有序方向演化即 $d S { < } 0$ ，则 $h { > } 1$ ；在成熟阶段，技术系统达到了非稳定的平衡状态， $d S { = } 0$ $h { = } 1$ ；在衰亡阶段，正熵流打破成熟期的平衡，使技术系统愈发无序， $d S { > } 0 , 0 { < } h { < } 1$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "技术熵分析法是以系统的视角根据技术系统内部混乱程度来具体分析技术生命周期演化的方法。其核心思想在于利用技术系统内部熵的规律，来解决技术系统自身的问题，因此，它最大的优势是根据技术系统的具体问题为技术系统\"量身定制\"具体的分析方法。技术熵分析法揭示了技术发展过程中技术系统的发育情况，不仅能从宏观上反映技术的发展现状，还能从微观细节中展现技术发展变化情况，从而客观、有效地体现技术发展状况中的技术短板、技术障碍等问题，为技术预测提供参考意见。因此，采用技术熵分析法，构建多维度技术熵专利模型，可以从宏观到微观层面对技术进行监测和技术评价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3技术熵方法的多维度专利模型构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "专利是技术的有效载体，专利体系的发展演化揭示了其承载的技术系统的演化过程。因此，本研究为验证技术熵方法在技术监测分析中的有效性，可以根据专利的相关参数，构建技术熵分析方法的专利数量模型。根据技术熵的计算公式及其存在判据，可知:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S = d _ { e } S + d _ { i } S\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中, $d S$ 为系统的总熵变; $d _ { e } S$ 为系统与外界作用而引起的熵增量，即熵流，其值可正可负； $d _ { i } S$ 为系统内部不可逆因素产生的熵增量，即熵产，这一项始终为正值。为研究方便，提出以下假设条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）所有外部因素均通过专利作用于技术系统,即存在映射关系，理想状态下使专利成为系统与外界进行技术交换的唯一途径;(2）当且仅当专利失效时，专利将以熵产的形式自动退出技术系统;(3）不同来源、不同类型的专利对技术系统的贡献率不同，且其贡献率可计量;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4）专利申请量可作为研究密集程度的度量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于以上假设，可识别出某一技术系统的序参量为：某一时间范围内第一类专利的申请量 $d N _ { I }$ ，第一类专利的公开量 $d n _ { I }$ ；某一时间范围内第二类专利的申请量 $d N _ { 2 }$ ，第二类专利的公开量 $d n _ { 2 }$ ；…；某一时间范围内第 $i$ 类专利的申请量 $d N _ { i } ,$ 第 $i$ 类专利的公开量 $d n _ { \\mathrm { i } }$ 。可按专利来源或专利类型进行专利分类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究给出基于专利指标的 $d _ { e } S$ 表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { e } S = d _ { e } S _ { A } + d _ { e } S _ { B }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中, $d _ { e } S _ { A }$ 是授权专利引入系统的熵，由于其使系统变得“有序\"并产生积极的影响，因此这一部分熵为负熵，数量上均为负值; $d _ { e } S _ { B }$ 是未公开专利使系统产生的熵变，这部分专利在申请时进人了技术系统，但很快就退出技术系统，综合来看使技术系统的混乱度增加，数量上应为正值。将两者并列可以看出，当授权专利引入的负熵大于未公开专利导致的熵增时，熵流整体表现为熵减，系统趋于有序；当授权专利引入的负熵小于未公开专利导致的熵增时，熵流整体表现为熵增，系统趋于混乱；当授权专利引入的负熵等于未公开专利导致的熵增时，熵流对系统的作用为零。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义单位统计时间内各类专利的申请量和公开量分别为 $d N _ { 1 - 0 } , d N _ { 2 - 0 } , \\ \\cdots , d N _ { i - 0 }$ 和 $d n _ { I - 0 } , d n _ { 2 - 0 } .$ 。…， $d n _ { i - 0 \\circ }$ 令$T _ { 0 }$ 为基准年某一技术来源的研究密集程度，则：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { 0 } = 1 + \\sum _ { k = 1 } ^ { i } x _ { k } d n _ { k - 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中, $x _ { 1 } , x _ { 2 } , \\cdots , x _ { i }$ 为各类专利的密集系数。本文定义 $d n _ { 1 - 0 }$ ， $d n _ { 2 - 0 } ,$ …， $d n _ { \\mathrm { i - 0 } }$ 输入均为0时, $T _ { 0 }$ 值为1,则 $T _ { 0 }$ 始终为不小于1的实数。根据熵的定义式 $d S = { \\frac { d Q } { T } }$ ，有：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { e } S _ { A } = - \\frac { \\displaystyle \\sum _ { k = 1 } ^ { i } \\alpha _ { k } d N _ { k - 0 } } { T _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中, $\\alpha _ { 1 } , \\alpha _ { 2 }$ 。…， $\\alpha _ { i }$ 分别为基准年对应种类专利对技术发展的贡献率，是一种权系数。水平普遍较高的专利类型对技术发展的贡献较大， $\\alpha$ 值就较大；反之则 $\\alpha$ 值较小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同理可计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { e } S _ { B } = - { \\frac { \\displaystyle \\sum _ { k = 1 } ^ { i } ( 1 - \\varepsilon _ { k } ) \\alpha _ { k } d N _ { k - 0 } } { T _ { 0 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\varepsilon _ { 1 } , \\varepsilon _ { 2 } , \\cdots , \\varepsilon _ { i }$ 分别为对应种类专利的平均授权率； $\\tau _ { 1 } , \\tau _ { 2 } , \\cdots , \\tau _ { i }$ 分别为对应种类专利的平均申请周期; $d n _ { 1 - ( 0 - \\tau _ { 1 } ) }$ ， $d n _ { 2 - ( 0 - \\tau _ { 2 } ) } , \\cdots , d n _ { i - ( 0 - \\tau _ { i } ) }$ 分别为对应种类专利在基准年前第 $\\tau _ { 1 } , \\tau _ { 2 } , \\cdots , \\tau _ { i }$ 年的申请量。这是因为专利从申请、受理到授权存在审查周期，专利自受理之日起便可认为进入技术系统，经过审查之后未予授权的将退出技术系统，而基准年中退出的专利应该是平均审查周期前申请的，所以此处使用基准年的申请量进行计量是不合理的。这种处理方法不仅提高了专利计量的准确性，更强化了相邻时间节点间的逻辑联系，从而提升了研究的整体性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了与系统外部存在熵流作用，系统内部也会因其不可逆因素产生熵产。不同条件下熵产的计算方法并不统一，但其基本思路都在于计算系统内部的不可逆损失。具体到以专利为代表的技术系统中，导致熵产的原因可简化为专利的失效。一方面，失效的专利仍然属于原来的技术系统，是在系统的内部产生影响，同时专利\"失效\"的过程具有极强的不可逆性；另一方面，专利失效与专利未授权有本质的区别，前者在其有效期内已经完全成为系统的组分并长期发挥着实质性作用，但后者仅仅以熵流的形式进出系统而没有在系统内部起到实质性作用，所以只有前者是系统生成熵产的驱动势。基于以上分析和本研究假设，基于专利数量指标的技术系统的熵产计算方法如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i } S = - { \\frac { \\displaystyle \\sum _ { k = 1 } ^ { i } \\alpha _ { k } d N _ { k - ( 0 - t _ { k } ) } } { T _ { 0 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中, $t _ { 1 } , t _ { 2 } , \\cdots , t _ { i }$ 为对应种类专利的有效期。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综合公式(1)至公式(5)，可得技术系统总熵变的表达式如下:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { d S = d _ { e } S + d _ { i } S = \\left( - \\frac { \\displaystyle \\sum _ { k = 1 } ^ { i } \\alpha _ { k } d N _ { k - 0 } } { 1 + \\displaystyle \\sum _ { k = 1 } ^ { i } x _ { k } d n _ { k - 0 } } + \\frac { \\displaystyle \\sum _ { k = 1 } ^ { i } ( 1 - \\varepsilon _ { k } ) \\alpha _ { k } d n _ { k - ( 0 - \\tau _ { k } ) } } { 1 + \\displaystyle \\sum _ { k = 1 } ^ { i } x _ { k } d n _ { k - 0 } } \\right) + } \\\\ { \\displaystyle \\frac { \\displaystyle \\sum _ { k = 1 } ^ { i } \\alpha _ { k } d N _ { k - ( 0 - \\tau _ { k } ) } } { 1 + \\displaystyle \\sum _ { k = 1 } ^ { i } x _ { k } d n _ { k - 0 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4碳捕集技术的监测与评价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为进一步验证基于专利数量模型的技术熵分析方法的有效性，本研究以碳捕集与封存(CCS)技术为例。碳捕集与封存技术是指将二氧化碳从相关排放燃烧源捕获、分离，并进行长期封存的技术手段，可以划分为碳捕集、运输和封存三大技术领域。其中，碳捕集能够显著减少二氧化碳的直接排放、减轻其对全球气候的威胁，被认为是温室气体深度减排的重要技术路径之一[20-21]。近年来，美国、澳大利亚、日本等国家及欧盟成员国都已开展了相关的基础研究和可行性技术试验，然而一系列技术瓶颈仍制约着碳捕集技术的发展。我国的二氧化碳减排压力巨大，虽然正积极进行能源结构调整，但普遍认为以煤炭为代表的化石能源在短期内仍将占据能源消费的主导地位。基于此,碳捕集技术或可成为我国减少碳排放的重要途径之_[22]。事实上，早在 2003 年我国便已经开始碳捕集技术的研究，不仅在理论研究上取得了重大进展，还支持建设了若干示范工程，虽仍待完善，却受到社会各界广泛关注。碳捕集技术当前在我国处于快速发展时期，核心技术尚未成熟、各相关技术发展不均衡，是典型的新兴技术。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "依托国家知识产权局国家重点产业专利信息服务平台，以\"二氧化碳 and(吸附 or 吸收 or 捕集)\"为要素在专利摘要中进行检索，共获得数据2861条，如图1所示。对1985年-2013年间申请的2716条专利信息进行技术熵分析，从而对碳捕集技术进行准确客观的监测分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1946edfe55a18f707312a1a94cc4667560cdfacd4962ff811fa063b04703acd.jpg",
+        "img_caption": [
+            "图1历年碳捕集相关专利申请量及公开量"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1碳捕集的一维技术熵分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于技术熵的专利模型具有较强的应用性，为了从宏观上梳理我国碳捕集技术的发展脉络，此处采用该模型的一维形式进行技术熵分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于仅采用一维形式，原模型可简化为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ T _ { 0 } } = 1 + x d { n _ { 1 - 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S = d _ { e } S + d _ { i } S = \\frac { - \\alpha d N + ( 1 - \\varepsilon ) \\alpha d n _ { 1 - ( 0 - \\tau _ { 1 } ) } } { T _ { 0 } } + \\frac { \\alpha d N _ { 1 - ( 0 - \\tau _ { 1 } ) } } { T _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中, $x$ 为专利的密集系数，此处为1； $\\alpha$ 为基准年专利对技术发展的贡献率，由于不存在比较对象,此处也为 1; $\\boldsymbol { \\varepsilon }$ 为专利的平均授权率, $\\tau _ { \\scriptscriptstyle 1 }$ 为专利的平均申请周期，均由国家知识产权局公开的专利申请、受理数据计算得到。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2为1985年-2013年我国碳捕集技术的研究密集程度的分析结果。由此可知，我国碳捕集技术的研究可分为三个阶段：阶段一为1985年-1995年：技术萌芽阶段；阶段二为1996年-2005年：技术起步阶段;阶段三为2006年-2013年：技术高速跃升阶段。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/05ae1b18e9acc0a98fb140e445fc07377dec5ee56b3ca85b1d033a631128fb14.jpg",
+        "img_caption": [
+            "图2研究密集程度 $T _ { 0 }$ （204号"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于 $T _ { 0 }$ 的计算结果，本研究进而针对低速发展阶段和高速跃升阶段进行技术熵分析，如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/07f3cbf266e15ac3add55721e4d48877cc716a5c7a3a122e3b5545e573115194.jpg",
+        "img_caption": [
+            "图3一维碳捕集技术熵走势"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，虽然碳捕集技术经历的低速发展期(1996-2005)整体表现为专利量的明显增加和研究密集程度的近似线性增长，但事实上，该阶段发生了技术系统的内部震荡。1996年，高于往年的专利输入为碳捕集技术系统提供了过量的负熵，引人了促使技术系统有序化的扰动。但由于开始时负熵输人量仍然较小，不足以产生宏观运动，技术系统又固有一定的自组织性，表现为抵消外界影响，因此巨大的熵产在1999年前后开始显现，缓慢增强的负熵流却不足以抵消其影响，导致技术系统趋于稳定平衡，表现为系统的退化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在这种波动发展中，不断输入的负熵流持续作用于整个技术，逐渐使系统处于一种近似临界状态。所以，在经历了2005年的波动后，2006年发生的扰动导致技术系统发生质变，一跃进人高速的跃升发展阶段(2006-2013)。这一时期内，负熵流持续输入，并且在数量上始终大于系统内部的熵产，系统向着技术成熟的不稳定平衡状态发展。但是应该注意到，在2013 年,流入技术系统的负熵减少，而熵产突然增加，将系统重新拉回到相对平衡的临界状态。为了辨识碳捕集技术的未来发展方向，本文开展了进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2二维体系下的碳捕集技术熵",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "考虑到本文模型的一维形式在微观细节波动体现不足，多用于趋势分析，此处引入基于技术熵的专利模型的二维形式，分别以发明专利、实用新型专利为第一类、第二类专利进行分析。那么，原模型为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal T } _ { 0 } = 1 + \\sum _ { i = 1 } ^ { 2 } x _ { i } d n _ { i - 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S = d _ { e } S + d _ { i } S = { \\frac { - \\sum _ { i = 1 } ^ { 2 } \\alpha _ { i } d N _ { i } + \\sum _ { i = 1 } ^ { 2 } ( 1 - \\varepsilon _ { i } ) \\alpha _ { i } d n _ { i ( 0 - \\tau _ { 1 } ) } } { T _ { 0 } } } +\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\sum _ { i = 1 } ^ { 2 } \\alpha _ { i } d N _ { i - ( 0 - t _ { 1 } ) } } { T _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4为二维体系下1985年-2013年我国碳捕集技术的研究密集程度的分析结果。通过对比图2和图4可知，两种形式的模型对研究密集程度的解析结果基本相同，相比之下，二维模型展现的结果在低速发展阶段曲折上升的趋势更加明显，高速跃升阶段也开始展现出不同于一维情况的特征，特别是2013年出现的研究密集程度波动更加值得注意。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c06fbd859d4dd04c8c95deeb389957d4f542303f5a1a9b7f93077d0492c618f5.jpg",
+        "img_caption": [
+            "图4研究密集程度 $T _ { 0 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用二维技术熵模型对低速发展阶段和高速跃升阶段进行技术熵分析，如图5所示，从 $d _ { e } S$ 、 $d _ { i } S$ 和 $d S$ 三个角度解析我国碳捕集技术发展历程。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/50a297677b92dae3a0000b97de71f15f1e4f003a035753ea226a2e2a745e970e.jpg",
+        "img_caption": [
+            "图5二维碳捕集技术熵发展态势"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从 $d _ { e } S$ 来看，自1996年以来，我国新增专利向技术系统引人的熵流基本表现为负熵，其增长量逐年变大。在低速发展阶段，由于研究密集程度还相对较低少量的专利输人就能给系统带来较大的熵变，因此某些年份(如1997年等)负熵流很大；同时，该阶段尚未形成稳定的专利输入，因此某些年份(如1998年)表现出的负熵流很小，甚至为正。这很好地体现了低速发展阶段曲折上升的特点。在高速跃升阶段，每年输入到技术系统的专利量稳定增长，研究密集程度也逐年提高，除个别年份外总体表现为 $d _ { e } S$ 的上升，揭示了该时期内，碳捕集不仅成为新的研究热点，而且我国的相关研究确实取得了一定成果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从 $d _ { i } S$ 来看，不论是在低速发展阶段还是高速跃升阶段，我国碳捕集技术系统都保持着基本稳定的水平，不同年份变化不大，数值上与 $d _ { e } S$ 相当，体现了该技术系统内部的作用还不够强烈，这是未达到成熟期的典型特点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从dS来看，我国碳捕集技术的低速发展阶段和高速跃升阶段界限明显，根据技术熵理论，高速跃升阶段的碳捕集技术经历了完整的发展、成熟阶段，取得重要发展(见图5、图6；然而综合 $d _ { e } S _ { \\nu }$ 特别是 $d _ { i } S ,$ 又得出碳捕集技术尚未成熟的结论",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/24bac73f8f94a78b106d4da9e5d89c632572a04267c8e6d1172bcd817599ab65.jpg",
+        "img_caption": [
+            "图6碳捕集技术的 $h$ 值走势"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上，我国的碳捕集技术尚未成熟，高速跃升阶段取得的重要进展为技术成熟做了必须的基础研究和技术储备；之所以2013年dS趋于0，是因为虽然投入了大量的研究精力却没有收获与之前水平相当的高水平成果产出，这说明我国碳捕集技术的发展已经进入重要阶段，关键技术有待攻关、技术推广有待加强、产业化能力有待提升。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过进一步细化碳捕集技术相关专利可以发现，其技术领域主要涉及分类为B01D、C01B、B01J、C07C、C10L，专利数的总和占专利总数的 $87 \\%$ ，具有代表性。这5个领域分别对应：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）作业；运输-一般的物理或化学-分离;(2）化学；冶金-无机化学-非金属元素；其化合物;(3)作业；运输-一般的物理或化学-化学或物理方法，例如，催化作用、胶体化学；其有关设备;(4）化学；冶金-有机化学-无环或碳环化合物;(5)化学；冶金-石油、煤气及炼焦工业；含一氧化碳的工业气体；燃料；润滑剂；泥煤-不包含在其他类目中的燃料；天然气；不包含在C10G或C10K小类中的方法得到的合成天然气；液化石油气；在燃料或火中使用添加剂；引火物。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经查阅相关文献发现，以上5个领域都直接与碳捕集材料有关，与碳捕集工艺相关、但关联不多。在申请人单位构成方面，浙江大学、中国石油化工股份有限公司、东南大学、株式会社东芝、清华大学、阿尔斯通技术有限公司、华东理工大学和大连理工大学申请的专利量占专利总量的 $86 \\%$ ，国内的研究机构多为高等院校，仅有一家为国内企业。以上两点说明：我国的碳捕集研究大多集中于吸收和吸附材料等初级阶段，研究机构还以高等院校为主，尚不具备大规模产业化的能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3碳捕集技术发展的动态评价",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据技术熵理论，技术的发展受政策、经济、市场等众多因素影响，其真实发展路径几乎无法预测。因此，本文从技术熵出发，依托现有数据，通过单一变量对我国碳捕集技术的发展进行动态评价。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）假设到2020 年，我国碳捕集技术相关专利的申请量、公开量均保持在2011年-2013年的平均水平,其dS发展情况如图7(a)所示。这种情况下，2014年起$d _ { e } S$ 将达到稳定水平，但 $d _ { i } S$ 将迅速增大，dS始终为正值，导致技术系统严重退化，最终衰亡;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)根据技术熵专利模型，解除假设(4)中研究密集程度 $T$ 与专利量之间的数量联系，即对碳捕集保持高关注度而技术成果不完全体现为专利增长。那么，假设2014年-2020年， $T$ 以2009年-2013年 $T$ 的平均增长率增长，其 $d S$ 发展情况如图7(b)所示。这种情况下， $d _ { e } S _ { \\mathrm { } } , d _ { i } S$ 都将逐年减小，但 $d _ { e } S$ 的减小速度大于 $d _ { i } S$ $d S$ 始终为正，系统将迅速走向衰亡;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）假设到2020 年，我国碳捕集技术相关专利的申请量、公开量均以2009年-2013年的平均增长量线性增长，其 $d S$ 发展情况如图7(c)所示。这种情况下,$d _ { e } S$ 、 $d _ { i } S$ 均将加速增长，且 $d _ { e } S$ 与 $d _ { i } S$ 增长速率基本持平， $d S$ 在0附近波动，技术系统重新进人类似1996年-2005年的低速发展阶段，难以取得实质性进展;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4）假设到2020年，我国碳捕集技术相关专利的申请量、公开量均以2009年-2013年的平均增长率指数增长，其 $d S$ 发展情况如图7(d)所示。这种情况下,$d _ { e } S _ { \\setminus } d _ { i } S$ 均将加速增长，但 $d _ { e } S$ 的增长速率明显高于 $d _ { i } S$ dS表现为负值，将有效推动技术走向成熟",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过单一变量分析可知，我国碳捕集技术正处于发展的关键时期，未来几年内的发展情况将直接影响到整个技术系统的发育：由于技术系统本身尚处于发展期，如果负熵输入量低于系统内部熵产，技术系统将迅速退化、直至衰亡，之前十几年积累的技术将离散到不同的技术领域中，而无法形成碳捕集技术系统;如果负熵输入量与系统内部熵产水平相当，系统将维持一种不稳定平衡状态，但无法达到成熟，此时需要输入越来越多的负熵来维持系统自身的耗散，付出的代价也越来越高，一旦负熵流减少，系统还面临着迅速退化的危险，处于一种高投入低收益的境况；如果负熵输入量高于系统内部熵产，系统将进人新的发展过程，这有赖于由核心技术突破带来的一系列技术革新，推动技术向着成熟的方向进化，而其进化程度将直接决定我国碳捕集技术产业化的可能性。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cf587c39ff9e0da52480d0735b5440c7b835745d4ba90ace74a5bc8bb74f626.jpg",
+        "img_caption": [
+            "图7不同动态条件下的dS走势"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于以上分析，本文提出以下建议：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）我国碳捕集技术已经具备必要的科研基础，正处于发展的关键时期，科研管理部门应更加注重汇聚力量主攻亟待解决的关键技术，为技术的全面发展打开局面;(2）当前我国研究重点主要集中在吸收吸附材料等前端，对碳捕集设备、工艺研究尚存不足，科研人员或可尝试开展设备、工艺研究，消除技术短板，为碳捕集的工业实现做好技术准备;(3）当前我国碳捕集相关专利申请单位多为高校,而碳捕集技术最终将应用到工业企业中，因此，企业不仅需要密切关注相关研究动向，还应该适当增加研发投人，开发出与企业需求联系更加紧密的技术，提高专利技术的应用性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "笔者在基于专利的技术系统中引入熵的概念，提出技术熵分析方法。以我国碳捕集新兴技术为例，构建一维和二维专利技术熵模型，对我国碳捕集技术整体的发展进行监测和评价，验证了基于专利的技术熵分析方法在新兴技术监测和评价应用中的有效性。通过对碳捕集技术的分析，主要有以下结论。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)1985年-2013年，我国碳捕集技术的研究经历了技术萌芽阶段、低速发展阶段、高速跃升阶段。虽然在低速发展期(1996年-2005年)整体表现为专利量的明显增加和研究密集程度的近线性增长，但事实上发生了技术系统的内部震荡，是一种曲折上升。2006年前后碳捕集技术在前期的基础上开始快速发展，到2013年已进入发展的关键期。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）从 $d _ { e } S$ 来看，碳捕集技术不仅已经成为新的研究热点，还取得了一定成果；从 $d _ { i } S$ 来看，该技术系统仍表现出未达到成熟期的典型特点。因此，我国的碳捕集技术尚未成熟，高速跃升阶段取得的重要进展为技术成熟做了必须的基础研究和技术储备；但近年投入的大量研究尚未收获与之前水平相当的高水平成果产出，这印证了我国碳捕集技术的发展已经进入重要阶段，关键技术有待攻关、技术推广有待加强、产业化能力有待提升。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）分析发现，我国碳捕集技术相关专利中 $87 \\%$ 主要与碳捕集材料有关， $86 \\%$ 的申请机构中仅有一家为国内企业，说明我国碳捕集研究大多集中于吸收和吸附材料等初级阶段，研究机构还以高等院校为主，国内企业介人不足，尚不具备大规模产业化的能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4）通过单一变量分析可知，未来几年内的发展情况将直接影响到整个碳捕集技术系统的发育，核心技术突破并带来的一系列技术革新能够有力推动技术向着成熟的方向进化，而其进化程度将直接决定我国碳捕集技术产业化的可能性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(5）为全面推动我国碳捕集技术发展，科研管理部门应更加注重汇聚力量主攻亟待解决的关键技术，打开局面；科研人员或可尝试开展设备、工艺研究，消除技术短板，为碳捕集的工业实现做好技术准备；企业不仅需要密切关注相关研究动向，还应该适当增加研发投入，开发出与企业需求联系更加紧密的技术，提高专利技术的应用性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由研究结论来看，基于专利的技术熵分析方法从技术系统的视角出发，通过分析系统各要素的变化，整体上揭示技术领域发展演化的趋势，判断技术发展的生命周期，是对技术系统进行监测的有效的工具。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Porter A L，Jin X Y,Gilmour JE，et al．Technology Opportunities Analysis: Integrating Technology Monitoring, Forecasting and Assessment with Strategic Planning [J]. Society ofResearch Administrators Journal, 1994,26(2): 21-31.   \n[2] Jun S,Park S S,Jang D S.Technology Forecasting Using Matrix Map and Patent Clustering [J].Industrial Management & Data Systems,2012,112(5):786-807.   \n[3] Cho T S,Shih HY.Patent Citation Network Analysis of Core and Emerging Technologies in Taiwan:1997-2008[J]. Scientometrics,2011,89(3):795-811.   \n[4] Erdi P,Makovi K,Somogyvari Z,et al.Prediction of Emerging Technologies Based on Analysis of the US Patent Citation Network [J]. Scientometrics,2013,95(1): 225-242.   \n[5] 赵焕芳，朱东华．信息可视化在技术监测中的应用[J].情 报杂志,2005,24(12): 46-48.(Zhao Huanfang,Zhu Donghua. Application of Information Visualization in Technology Monitoring [J]. Journal of Intelligence,2005,24(12): 46-48.)   \n[6]吕一博，康宇航．基于共现分析的科技监测地图绘制及实 证研究[J].科学学研究,2010,28(10):1459-1466.(Lv Yibo, Kang Yuhang.Mapping and Empirical Study of Science and Technology Monitoring Map Based on Co-occurrence Analysis [J]. Studies in Science of Science,2010,28(10): 1459-1466.)   \n[7]孙涛涛，唐小利．专利文献中的技术热点监测方法及其应 用研究[J]．医学信息学杂志，2011，32(10):40-44.(Sun Taotao,Tang Xiaoli. Research on Method and Application of Technical Fronts Monitoring in Patent Literature [J].Journal of Medical Informatics,2011,32(10): 40-44.)   \n[8]黄鲁成，石媛姬，吴菲菲．基于专利引用的技术轨道动态 分析———以太阳能电池为例[J]．科学学研究，2013,31(3): 358-367.(Huang Lucheng， Shi Yuanyuan， Wu Feifei. DynamicAnalysisof Identification of Technological Trajectory Based on Patent Citation Network:Taking Solar Cell Technology as an Example [J]. Studies in Science of Science,2013,31(3):358-367.)   \n[9]Chang P L, Wu C C,Leu H J. Using Patent Analyses to Monitor the Technological Trends in an Emerging Field of Technology:A Case of Carbon Nanotube Field Emission Display[J]. Scientometrics,2010,82(1): 5-19.   \n[10] Breitzman A,Thomas P. The Emerging Cluster Model: A Tool for Identifying Emerging Technologies Across Multiple Patent Systems [J]. Research Policy,2015,44(1): 195-205.   \n[11]旷景明，胡奕，李蓓，等．基于生成式拓扑映射的专利空 白挖掘技术[J]．情报理论与实践，2015，38(12):133-136, 142.(Kuang Jingming,Hu Yi,Li Bei,et al. Patent Blank Mining Technology Based on Generating Topological Mapping [J]. Information Studies:Theory&Application, 2015,38(12): 133-136,142.)   \n[12] 任智军，乔晓东，徐硕，等．基于数据挖掘的技术机会发现 模型研究[J]．情报杂志，2015，34(6):174-177，190.(Ren Zhijun,Qiao Xiaodong,Xu Shuo,et al.An Approach for Technology Opportunities Discovery Model Based on Data Mining [J].Journal of Intelligence,2015,34(6): 174-177,190.)   \n[13] 翟东升，夏军，张杰，等．基于专利新兴技术弱信号识别 方法研究[J]．情报杂志，2015，34(8):31-36.(Zhai Dongsheng,Xia Jun,Zhang Jie,et al. Research on Weak Signal Identification Method of Emerging Technology Based on Patent [J]. Journal of Intelligence,2015,34(8): 31-36.)   \n[14]朱东华，袁军鹏．技术监测指标研究及其实证分析[J]．科 学学研究，2003，21(4):419-422.(Zhu Donghua，Yuan Junpeng.Research and Empirical Analysis of Technical Monitoring Index [J]. Studies in Science of Science,2003, 21(4): 419-422.)   \n[15] Shannon C E.A Mathematical Theory of Communication [J]. Bell System Technology Journal,1948,27(3): 379-423.   \n[16]Jaynes E T.Information Theory and Statistical Mechanics [J]. Physical Review,1957,106 (4):620-630.   \n[17]Bekenstein JD.Black Holes and Entropy [J].Physical Review D,1973,7(8): 2333-2346.   \n[18]任佩瑜，张莉，宋勇．基于复杂性科学的管理熵、管理耗散 结构理论及其在企业组织与决策中的作用[J].管理世界， 2001(6): 142-147. (Ren Peiyu，Zhang Li,Song Yong. Management Entropy and Management Dissipative Structure Theory Based on Complexity Science and Its Role in the Organization and Decision Making of Enterprises [J]. Management World,2001(6): 142-147.)   \n[19]王恒君．经济能·经济熵·经济危机[J].数量经济技术经济 研究,2002 (2):72-75.(Wang Hengjun.Economic Energy, Economic Entropy，Economic Crisis [J].Quantitative & Technical Economics,2002 (2):72-75.)   \n[20]仲平，彭斯震，贾莉，等．中国碳捕集、利用与封存技术研 发与示范[J]．中国人口·资源与环境，2011，21(12)：41-45. (Zhong Ping，Peng Sizhen,Jia Li,et al.Development of Carbon Capture,Utilization and Storage(CCUS) Technology in China [J]. China Population,Resources and Environment, 2011,21(12): 41-45.)   \n[21]张卫东，张栋，田克忠．碳捕集与封存技术的现状与未来 [J]．中外能源,2009,14(11):7-14.(Zhang Weidong,Zhang Dong，Tian Kezhong.Carbon Capture and Sequestration Technology[J]. Sino-Global Energy,2009,14(11):7-14.)   \n[22]甘志霞，刘学之，尚玥佟．我国发展二氧化碳捕集与封存 技术的挑战及对策建议[J]．中国科技论坛，2012(4): 135-138.(Gan Zhixia,Liu Xuezhi，Shang Yuetong.The Challenge and Suggestion of Developing CCS Technology in China [J].Forum on Science and Technology in China, 2012(4): 135-138.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "侯剑华：提出研究思路，设计研究方案，论文写作和最终版本修订;  \n郭爽：数据检索与处理，案例设计与分析。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:houjianhua@dlu.edu.cn。[1]侯剑华.实验原始数据，来自国家知识产权局国家重点产业专业信息服务平台 http://www.chinaip.com.cn",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2016-05-29   \n收修改稿日期:2016-11-05 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Analyzing Emerging Issues with Technology Entropy Method Based on Patents: Case Study of Carbon Capture ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Hou Jianhua Guo Shuang (Research Center of Science Technology and Society, Dalian University,Dalian 116622, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This paper proposes a patent-based technology entropy analysis method,aiming to effectively monitorthe development of emerging issues from the patent data.[Methods] First,we built a multi-dimensional technology entropy model for the patent-based system.Second,we analyzed the carbon capture technology from the macro and micro perspectives.[Results] We found that the technology of carbon capture in China was at the crucial development stage.Most ofthe studies were conducted by universities,which focused on materials with absorption and adsorption abilities.[Limitations]The datacollection method needed to be modified to remove the irrelevant ones. [Conclusions]Technology entropy method could efectivelyanalyze the evolution trends of technologies.It provides a feasible tool for us to manage and evaluate the evolution and prediction of new technologies. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Technology Entropy Patent-based ModelsTechnology Monitoring Carbon Capture ",
+        "page_idx": 8
+    }
+]

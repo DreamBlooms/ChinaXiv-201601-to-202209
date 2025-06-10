@@ -1,0 +1,152 @@
+# 不同畦长灌溉对冬小麦产量及水分利用特性的影响
+
+董宝娣 刘孟雨 乔匀周 张明明 赵欢杨红郑鑫(中国科学院遗传与发育生物学研究所农业资源研究中心/中国科学院农业水资源重点实验室/河北省节水农业重点实验室石家庄050022)
+
+摘要为探讨畦长对冬小麦耗水及产量和水分利用特性的影响，本试验以冬小麦品种‘科农 2011'为试验材料，在2014—2015年中国科学院栾城农业生态系统试验站小麦生长季，畦宽为 $5 \mathrm { ~ m ~ }$ 条件下，设置 $4 \mathrm { m }$ 、 $5 \mathrm { m }$ 、$1 0 ~ \mathrm { m }$ （农民习惯畦长）、 $5 0 \mathrm { m }$ 、 $1 0 0 \mathrm { m }$ 共5个畦田长度，各处理均在拔节期和灌浆期用塑料软管从机井口引水到畦首灌水，塑料软管出水口安装水表计量灌水量，用秒表计量灌溉用时，研究不同畦长处理对冬小麦耗水特性、灌溉定额及灌溉用时、畦田内不同部位土壤含水量差异、籽粒产量以及产量和灌溉水利用效率的影响。结果表明：随着畦长增加，灌水量和总耗水量逐渐增加，灌水量占总耗水量的比例逐渐增加；籽粒产量虽逐渐增加，但未达到显著水平。土壤储水消耗量、产量水分利用效率和灌溉水利用效率随着畦长增加逐渐降低。与农民习惯的畦长 $1 0 \mathrm { ~ m ~ }$ 相比， $4 \mathrm { m }$ 畦长处理的灌水量减少 $34 . 5 0 \%$ ，多消耗深层土壤贮水 $5 8 . 9 2 ~ \mathrm { m m }$ ，总耗水量降低 $1 . 6 1 \%$ ，产量水分利用效率提高 $1 . 1 5 \%$ ，灌溉水利用效率提高 $5 1 . 9 6 \%$ ，次灌溉用时减少 $4 2 . 7 5 \%$ 。 $1 0 0 \mathrm { m }$ 畦长处理在产量没有显著提高的基础上，总耗水量增加 $9 . 5 8 \%$ ，灌溉水增加 $3 8 . 0 8 \%$ ，产量水分利用效率降低$9 . 8 8 \%$ ，灌溉水利用效率降低 $2 6 . 2 0 \%$ ，次灌溉用时增加 $6 5 . 6 1 \%$ 。综合考虑籽粒产量、灌水量和水分利用效率， $4 \mathrm { m }$ 畦长是本试验条件下兼顾高产与节水的最优畦长处理。
+
+关键词冬小麦　畦长产量灌水量灌水用时水分利用效率中图分类号：S36;S512 文献标识码：A 文章编号:1671-3990(2016)08-1080-08
+
+# Effects of irrigated field border length on grain yield and water use characteristics of winter wheat
+
+DONG Baodi, LIU Mengyu\*\*, QIAO Yunzhou, ZHANG Mingming, ZHAO Huan, YANG Hong, ZHENG Xin (Center for Agricultural Resources Research,Institute ofGeneticsandDevelopmental Biology, Chinese AcademyofSciences/Key Laboratory ofAgricultural Water Resources,Chinese Academy ofSciences /Hebei KeyLaboratoryof Water-saving Agriculture, Shijiazhuang 050022, China)
+
+AbstractWinter wheat is a high water consumption crop.As the main production areaof winter wheat, Hebei Province also is oneof the most serious waterscarcityprovinces in China.With furtherrestrictionof groundwater exploitation,itbecomes moreimportantto explore efficient wateruse technologies in theagricultural production.Surface irigationisanold method which is being widelyadopted in China.In Hebei Plain,most ofthe fields were irrigatedusing the ground furow method. Border length in the furrow irrigation was about $1 0 ~ \mathrm { m }$ while border width was $5 { - } 6 ~ \mathrm { m }$ and there was water furrow about $5 { - } 6 \mathrm { ~ m ~ }$ width. Under this irrigation system, the total area of water channel was $5 \% - 1 0 \%$ of field area. By surface irrigation, there has beena significant difference insoil watercontent indifferentsectionsofaborder.Atthe headwaterofthe border,there were waterandfertilzerleakages,whilat thebordertrail,the waterandfertilizerweredeficiency.Itwas important tostudyproper border length under restricted groundwater exploitation and water-saving agriculture.However,the effectof irigated field borderlengthongrainyieldand waterusecharacteristicsof winter wheat waslessreportedup tonow.Inthisstudy,winter wheat cultivar‘Kenong2O11’was used in five border lengths $[ 4 \mathrm { ~ m ~ } , 5 \mathrm { ~ m ~ } , \mathrm { ~ } 1 0 \mathrm { ~ m ~ }$ (conventional length), $5 0 \mathrm { ~ m ~ }$ and $\boldsymbol { 1 0 0 } \mathrm { ~ m } \mathrm { ] }$ to determine the efectofborderlength on waterusecharacteristics in 2014-2015 growing season inLuancheng Agro-Ecosystem Experimental Station of Chinese Academy of Sciences.All the treatments had the same border width of $5 \mathrm { m }$ and were irrigated at jointing and grain-filing stages.Water was suppliedbyajetpump,directedtoheadwaterof theborderthrough plastic pipes. A water meter was used to measure the amount of water applied and a stopwatch used to measure required irigation time. Waterconsumptionpotential,required iigationtime,iigationrequirement,soilwatercontentsindifferentbordersctions, yieldand water use eficiencyof winter wheat were analyzed under different border lengths conditions.Theresults showed thatthe irrigationamount,waterconsumptio,proportionofirrigationamount tototal waterconsumptionand grainyieldll increased with increasing border length from $4 \mathrm { m }$ to $1 0 0 ~ \mathrm { m }$ . The differences in grain yield among different treatments were not significant.Withincreasing borderlength,soil waterconsumption,wateruseeficiencyat grainyieldlevelandirigation water use efficiency decreased significantly. Compared with farm border length of $1 0 ~ \mathrm { ~ m ~ }$ ，irrigation amount and total water consumption in border length of $4 ~ \mathrm { m }$ reduced by $34 . 5 0 \%$ and $1 . 6 1 \%$ ,respectively. Soil water consumption of border length of 4 m increased $5 8 . 9 2 ~ \mathrm { m m }$ . Water use efficiency at grain yield level and irrigation water use efficiency at border length of $4 \mathrm { ~ m ~ }$ increased by $1 . 1 5 \%$ and $5 1 . 9 6 \%$ ,respectively.Required irrigation time at border length of $4 \mathrm { m }$ decreased by $42 . 7 5 \%$ . On the other hand,between border lengths of $1 0 ~ \mathrm { m }$ and $1 0 0 \mathrm { m }$ there was no significant difference in grain yield.Irrigation amount and total water consumption in border length of $1 0 0 \mathrm { m }$ increased by $3 8 . 0 8 \%$ and $9 . 5 8 \%$ ,respectively,over those of border length of $1 0 \mathrm { ~ m ~ }$ . Water use efficiency at grain yield level and irigation water use eficiency in border length of $1 0 0 \mathrm { ~ m ~ }$ decreased by $9 . 8 8 \%$ and $2 6 . 2 0 \%$ ，respectively,while the required irrigation time increased by $6 5 . 6 1 \%$ . Based on grain yield, irrigation amount, water use eficiency at yield level and irrigation water use efficiency, border length of $4 \mathrm { ~ m ~ }$ was recommended as the best field border length for water-saving and high-yield agriculture in the study.
+
+KeywordsWinter wheat; Border length; Grain yield; Irigation wateruse; Required irigation time; Water useefficiency
+
+地面灌溉技术是世界上最古老又常见的一种灌溉方式，包括美国在内的世界各国仍在使用。目前，地面灌溉技术占我国总灌溉面积的 $9 5 \%$ 以上，而且在相当长时间内地面灌溉仍将占主导地位[1-2]。华北平原大部分地区都采用过去的沟畦地面灌溉。前人对畦灌的研究多侧重在田块几何参数、优化灌溉管理以及对灌溉过程的控制等方面，对于畦田规格对产量和水分利用效率关注较少[3-7]。目前，随着水资源的日益短缺，有部分学者开始关注畦田规格的研究，但大多集中在黄河灌区，畦长平均在几百米不等。马尚宇、崔振岭等[8-10]在山东省惠民县淄角镇闫家河村研究表明， $8 0 \mathrm { ~ m ~ }$ 畦长是合理畦长， $8 0 \mathrm { ~ m ~ }$ 畦长虽然增加了一定的灌溉水量，但小麦生育期总耗水量却显著减少，籽粒产量和水分利用效率均显著提高，这与其畦田内土壤水分分布较均匀有关。但是，在缺水的河北高产区，当前大部分农户的畦田规格为 $5 0 \mathrm { ~ m } ^ { 2 }$ 左右，长度为 $1 0 \mathrm { ~ m ~ }$ 上下，宽度一般在$5 { \sim } 6 ~  { \mathrm { m } _ { \circ } }$ 尽管比黄河灌区面积和畦田长度大幅度减少因为是抽提地下水灌溉，出水量小，时间长，故仍然存在诸多问题：1)灌水量过大，直到整个小畦全部灌饱和才停止。表面是小畦灌溉，实则是“小畦漫灌”,存在水资源的浪费等问题。2)畦面灌溉水均匀度差，畦首漏水漏肥，畦尾水肥亏缺。3)农户田块多年习惯形成了每隔 $5 { \sim } 6 \ \mathrm { ~ m ~ }$ 设置一输水沟的畦田灌溉格局，畦间输水仍然采用小面积沟渠输水，沟渠面积约占$5 \% { \sim } 1 0 \%$ 。栽培田块一般长上百米，为不影响耕作，田间小渠不做防水，因此输水过程中深层渗漏增加，且降低了土地利用率。4)次灌溉量增加，同时也增加了灌溉用时、灌溉费用和劳动成本。
+
+河北平原是我国的粮食主产区，也是我国水资源较短缺地区，随着河北压采政策进一步实施，减少一切奢侈用水，挖掘一切农业高效用水技术为河北平原节水农业的重点[11-13]。因此，地下水压采条件下的新的畦田规格及精确控制水量的相关灌溉装置和灌溉系统的研究对高效用水意义重大。为此，本文以石家庄小麦高产区为试验地点，研究不同畦长规格对小麦耗水特性、灌溉用时、灌溉成本和产量以及不同层次水分利用效率的影响，以期为该区压采条件下小麦节水灌溉提供理论支持和技术指导。
+
+# 1材料与方法
+
+# 1.1 试验地点概况
+
+试验于2014—2015年在中国科学院栾城农业生态系统试验站进行 $( 1 1 4 ^ { \circ } 1 1 ^ { \prime } \mathrm { E } , 3 7 ^ { \circ } 5 3 ^ { \prime } \mathrm { N } ,$ ，海拔 $5 0 . 1 \mathrm { m } )$ 。该站属于半湿润半干旱季风气候。主要栽培作物为一年两熟的冬小麦和夏玉米。农业生产可代表整个山前平原区。该区多年平均降雨量为 $4 5 0 { \sim } 6 0 0 \ \mathrm { m m }$ 降水主要集中于7、8、9月，本研究冬小麦生长期间平均降雨量为 $1 1 5 . 3 ~ \mathrm { m m }$ ；2014—2015年试验点小麦生长季节的降雨量为 $7 7 . 1 \ \mathrm { m m }$ ，属于枯水年。具体分配如下图1。
+
+![](images/f5844e2d9bc5c6fbce222619b085178350b701e623c0b8ea4fbe3f3224ad1a0d.jpg)  
+图12014—2015年试验点小麦生长季降雨分布 Fig.1Distribution of precipitation during winter wheat growing season from 2014 to 2015 in the experiment site
+
+该站地势平坦，土层深厚，土壤类型为褐土类黄土种，质地为壤土，随土壤深度不断变化依次为沙壤、壤土和黏壤，土壤比较肥沃。试验田播种前耕层 $( 0 { \sim } 2 0 ~ \mathrm { c m } )$ 有机质含量 $1 8 . 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，蓄肥保水能力强，土壤肥力条件好，全氮含量 $1 . 8 8 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，碱解氮$7 6 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，速效磷 $2 3 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，速效钾 $1 6 2 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，土壤平均容重 $1 . 5 3 \ \mathrm { \ g } { \cdot } \mathrm { c m } ^ { - 3 }$ ，饱和体积含水量为$4 4 . 1 \%$ ，田间体积持水量为 $3 5 . 4 \%$ ，调萎体积含水量为 $1 3 . 2 \text{‰}$ 试验地畦面坡度小于 $1 \text{‰}$ 。
+
+# 1.2 试验处理
+
+本试验的冬小麦品种为‘科农2011'。试验小区畦宽 $5 \mathrm { ~ m ~ }$ ，畦长分别设为 $4 \ \mathrm { m } ( \mathrm { L } 4 )$ 、 $5 \ \mathrm { m } ( \mathrm { L } 5 )$ 、 $1 0 \mathrm { ~ m ~ }$ (L10)、 $5 0 ~ \mathrm { m } ( \mathrm { L } 5 0 )$ 、 $1 0 0 \ \mathrm { m } ( \mathrm { L } 1 0 0 ) 5$ 个处理,L10 是农民当前习惯畦长。随机区组设计，4次重复。试验小区间设 $1 . 5 \mathrm { ~ m ~ }$ 宽隔离带，防止不同小区间土壤水分渗漏。各处理均有一次冻水灌溉，灌溉量为 $7 5 ~ \mathrm { m m } _ { \circ }$ （204号小麦返青后各处理均在小麦拔节期和灌浆期灌水。灌溉采用塑料软管输送，直接输送到灌溉畦的畦首。每个灌溉畦田均采用水表计量灌水量。改变农民灌溉用水习惯，不是水流前锋到达畦尾后还要灌溉一会，等水面面积基本与垄持平时再改，而是改口成数为 $90 \%$ ，即当水流前锋到达畦长长度的 $90 \%$ 位置时停止灌水，并马上灌溉另一个畦田。播前底施氮肥、磷肥和钾肥。其中，复合肥 $( \mathrm { N } 4 6 \% )$ $1 4 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 磷酸二铵 $( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 }$ （204号 $46 \%$ 、 $\mathrm { ~ N ~ } 1 8 \%$ ） $2 3 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，氯化钾（204号 $( \mathrm { K } _ { 2 } \mathrm { O } 6 0 \%$ ） $2 5 0 ~ \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。2014年10月13日播种，2015年6月15日机械收获。播种量为 $2 0 2 . 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。播种前 $0 { \sim } 1 0 ~ \mathrm { c m }$ 、 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 、 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 、 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ ，$4 0 { \sim } 5 0 ~ \mathrm { c m }$ ！ $5 0 { \sim } 6 0 ~ \mathrm { c m }$ 、 $6 0 { \sim } 7 0 ~ \mathrm { c m }$ ！ $7 0 { \sim } 8 0 \mathrm { c m }$ 、 $8 0 { \sim } 9 0 ~ \mathrm { c m }$ /$9 0 { \sim } 1 0 0 ~ \mathrm { c m }$ 、 $1 0 0 { \sim } 1 1 0 ~ \mathrm { c m }$ 、 $1 1 0 { \sim } 1 2 0 ~ \mathrm { c m }$ 、 $1 2 0 { \sim } 1 3 0 ~ \mathrm { c m }$ /$1 3 0 { \sim } 1 4 0 ~ \mathrm { c m }$ 、 $1 4 0 { \sim } 1 5 0 ~ \mathrm { c m }$ 土层的质量含水量平均分别为 $1 5 . 1 1 \%$ 、 $1 4 . 1 5 \%$ 、 $1 4 . 3 0 \%$ 、 $1 4 . 0 4 \%$ 、 $14 . 5 4 \%$ /$1 5 . 3 0 \%$ / $1 6 . 0 0 \%$ 1 $1 6 . 1 6 \%$ ！ $1 5 . 2 7 \%$ / $1 5 . 1 8 \%$ / $1 5 . 1 5 \%$ /$14 . 5 2 \%$ 、 $1 5 . 1 1 \%$ 、 $1 4 . 4 7 \%$ 和 $1 5 . 3 7 \% _ { \textmd { c } }$ ，其他管理措施同一般高产田。
+
+# 1.3 测定项目与方法
+
+# 1.3.1 灌溉所需时间的测定
+
+灌溉所用时间采用秒表测量。和灌溉水量用水表计量一样，从水流前锋到达畦首并流进畦首时开始到停止灌溉该畦所用时间为灌溉用时。不同处理3次重复，取平均值作为该处理的灌溉用时。
+
+# 1.3.2 土壤含水量的测定
+
+试验采用烘干称重法测定各处理的土壤含水量。在小麦播种前、拔节水、灌浆水后(一般3\~5 d就能进地取土)、成熟后用土钻取土测定土壤含水量。以 $2 0 \ \mathrm { c m }$ 为1层，用土钻取 $0 { \sim } 1 5 0 ~ \mathrm { c m }$ 各土层土样。每个小区以畦首(畦田入水口)、畦中、畦尾3个部分测定不同长度小区不同位置各土层土壤含水量。
+
+# 1.3.3 农田耗水量的计算
+
+采用土壤水量平衡方程法计算农田耗水量。计算公式为：
+
+$$
+\scriptstyle \mathrm { E T } = P + I - R - D - \Delta W
+$$
+
+式中：ET为蒸散量， $P$ 为降雨量(可通过该站气象观测场直接获得）， $I$ 为灌溉量(由水表直接读取), $R$ 为地表径流量， $D$ 为深层渗漏量， $\Delta W$ 为一段时间内土壤蓄存水变化量。由于该试验田块土壤肥沃，蓄水保水力强，且地下水位在 $4 7 \mathrm { ~ m ~ }$ 左右，该地地表径流和深层渗漏很小，因此，在一定时间内，该地的农田耗水量的公式可写为： $\mathrm { E T } = P + I \mathrm { - } \Delta W ^ { [ 1 4 ] } ,$ 。
+
+# 1.3.4产量水分利用效率 $( \mathbf { W U E _ { y } } )$ 和灌溉水利用效率计算
+
+产量水分利用效率(WUEy)计算公式为: $\mathrm { \Delta W U E _ { y } = }$
+
+Y/ET，式中，Y为产量，ET为整个生育期的农田耗水量。灌溉水利用效率计算公式为： $\mathrm { W U E _ { i } } { = } Y / \mathrm { I W U }$ ，式中，Y为产量,IWU为整个生育期的灌水量。
+
+# 1.3.5 考种测产
+
+冬小麦成熟时，各处理在畦首、畦中、畦尾随机取一定面积收获，晾干，脱粒，测产。各处理的小麦产量均以小区不同部位重复产量的平均值代表该处理的实际产量。
+
+# 1.4 数据统计与分析
+
+试验数据均用SPSS13.0 软件以及 MicrosoftExcel进行统计分析。
+
+# 2 结果与分析
+
+# 2.1 畦长对冬小麦畦田不同位置土壤含水量分布的影响
+
+500口畦首Border initial■畦中Middle of the border 1 a雨 b a T aabb 上 L C 工 b 上 HC H H 0 4 5 10 50 100 畦长 Border length (m)
+
+在同一个机井灌溉、水泵出水量相同、畦宽为$5 \mathrm { ~ m ~ }$ 和土壤底水相差较小的情况下，随着灌溉畦长的增加，土壤含水量有较大差异。从图2可以看出，L4处理和L5处理灌溉后畦首、畦中和畦尾 $0 \sim$ $1 5 0 \ \mathrm { c m }$ 土壤含水量在 $2 5 8 . 6 4 { \sim } 2 6 3 . 7 7 \ \mathrm { m m }$ 之间，不同部位土壤含水量之间没有显著差异。随着畦长的增加畦首、畦中和畦尾之间含水量出现了差异。L10处理畦首和畦中土壤含水量也没有显著差异，但是畦尾的土壤含水量显著低于畦首，相差达 $2 5 . 6 4 \ \mathrm { m m } _ { \circ }$ 并且平均土壤含水量也显著大于L4和L5处理。L50 和L100处理，畦首、畦中和畦尾的土壤含水量之间差异都达显著水平。L50处理畦首和畦尾相差达$9 1 . 9 9 \mathrm { \ m m } _ { \circ } \mathrm { L } 1 0 0$ 处理畦首和畦尾相差达 $1 1 1 . 8 4 ~ \mathrm { m m } _ { \circ }$ （204号说明随着畦长增加， $0 { \sim } 1 5 0 ~ \mathrm { c m }$ 土壤含水量增大，且畦田内部不同部位土壤含水量不均一性增大。试验结果表明，畦田不同部位灌水均匀性比较好的为畦长 $4 \mathrm { ~ m ~ }$ 和 $5 \mathrm { m }$ 处理。也就是畦田面积为 $2 0 { \sim } 2 5 ~ \mathrm { m } ^ { 2 }$ 各部位的灌水均匀性最好。
+
+不同小写字母表示同一畦长内不同位置差异达0.05显著水平。Different small letters mean significant difference amongdifferent positions for the same border length at O.O5 level.
+
+# 2.2 畦长对冬小麦总耗水量、水分来源及总耗水量构成的影响
+
+由表1可知，L4、L5和L10处理的总耗水量显著低于L50和L100。灌水量与总耗水量有相似的趋势，但是L10处理灌水量显著大于L4和L5处理，又显著低于L50和L100 处理。土壤储水消耗大小顺序是 $_ { \mathrm { L 4 > L 5 > L 1 0 > L 5 0 > L 1 0 0 _ { \circ } } }$ L50和L100不但没有消耗土壤储水，灌溉水中还有 $1 4 { \sim } 1 7 \ \mathrm { m m }$ 水留存在土壤中，原因可能与5月15日的 $3 9 . 4 ~ \mathrm { m m }$ 降雨有关。综合分析总耗水量、水分来源与占总耗水量比例，可以看出,L4和L5的总耗水量和灌溉水量显著低于其他处理。灌水量及其占总耗水量的比例均为 $\scriptstyle { \mathrm { L } } 4 <$ $_ { \mathrm { L } 5 < \mathrm { L } 1 0 < \mathrm { L } 5 0 < \mathrm { L } 1 0 0 }$ 。灌水量L4和L5比农民习惯畦长L10分别减少 $34 . 5 0 \%$ 和 $2 7 . 8 3 \%$ ，L50和L100处理比L10分别增加 $3 1 . 0 8 \%$ 和 $3 8 . 0 8 \text{‰}$ 土壤储水消耗量占总耗水量的比例为L4与L5最高，L10居中,
+
+表1不同畦长的冬小麦总耗水量及不同耗水来源的数量和比例TablelTotal waterconsumptionand amountsandratiosof diferent waterresourcesof winterwheatunderdiferentorderleltreatments  
+
+<html><body><table><tr><td rowspan="2">畦长 Border length</td><td rowspan="2">总耗水量</td><td colspan="2">灌水 Irrigation</td><td colspan="2">土壤贮水 Soil water</td><td colspan="2">降水 Precipitation</td></tr><tr><td>Amont(mm)</td><td>Rat(%)</td><td>Amount(mm)</td><td>Rat)</td><td>Amout(%)</td><td>Rat)</td></tr><tr><td>4</td><td>281.88±7.88b</td><td>120.57±5.36c</td><td>42.77</td><td>84.21±3.18a</td><td>29.87</td><td>77.10a</td><td>27.35</td></tr><tr><td>5</td><td>279.43±8.80b</td><td>132.86±4.45c</td><td>47.55</td><td>69.46±5.40b</td><td>24.86</td><td>77.10a</td><td>27.59</td></tr><tr><td>10</td><td>286.48±3.86b</td><td>184.09±7.93b</td><td>64.26</td><td>25.29±2.94c</td><td>8.83</td><td>77.10a</td><td>26.91</td></tr><tr><td>50</td><td>304.22±13.92a</td><td>241.32±9.24a</td><td>79.33</td><td>-14.20±5.19d</td><td>-4.67</td><td>77.10a</td><td>25.34</td></tr><tr><td>100</td><td>313.94±10.94a</td><td>254.20±7.17a</td><td>80.97</td><td>-17.36±4.53d</td><td>-5.53</td><td>77.10a</td><td>24.56</td></tr></table></body></html>
+
+同列不同小写字母表示差异达0.05显著水平。Diferent lowercaseleters in the samecolumn mean significant diferenceat0.05level.
+
+L50和L100最低。降水量占总耗水量的比例为L4和L5高于其他处理。雨水利用占总耗水量的比例L4比L100提高 $1 1 . 3 6 \% _ { \textmd { c } }$ ，上述结果表明，不同畦长可影响总耗水量和不同水分来源占总耗水量的比例。畦长为 $4 \mathrm { ~ m ~ }$ 和 $5 \mathrm { ~ m ~ }$ 处理的灌水量最少、总耗水量最低，土壤储水消耗量占总耗水量的比例较高，雨水利用率较高。畦长大于 $5 \mathrm { ~ m ~ }$ 的处理均增加了灌水量和总耗水量。
+
+# 2.3 畦长对冬小麦灌溉用时和灌溉量的影响
+
+图3A是每次灌溉不同畦长麦田所需灌溉水量，即灌水定额，图3B为平均灌溉1次所用时间。从图3A可以看出，不同畦长次灌水量差异显著。随着畦长增加，灌水定额逐渐增加，顺序为 $_ { \mathrm { L 4 < L 5 < L 1 0 < } }$ $_ { \mathrm { L 5 0 < L 1 0 0 } }$ 。L4的灌水定额最小，为 $3 4 1 . 8 ~ \mathrm { \ m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ·L100灌水定额最大，为 $1 \ 3 4 4 . 0 \ \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ，是L4的3.9倍。与农民习惯畦长L10相比，L4和L5灌水定额分别减少 $4 6 . 9 6 \%$ 和 $5 8 . 2 3 \%$ 。L50和L100的灌水定额差异较小，比L10分别增加 $5 2 . 4 6 \%$ 和 $6 4 . 2 7 \%$ 因为灌水定额的差异，次灌溉所用时间也有显著差异。由图3B可以看出，次灌溉所用时间与灌水定额的变化趋势相同，随畦长增加逐渐增加。L4处理灌溉所用时间最少，L100灌溉所用时间最多，其余几个处理居中。L4和L5处理所用时间比L10处理所用时间分别减少 $42 . 7 5 \%$ 和 $2 6 . 5 7 \%$ ，L50和L100处理所用时间比L10分别增加 $58 . 7 3 \%$ 和 $6 5 . 6 1 \%$ 0上述结果表明，不同畦长可影响灌水定额和灌溉用时。畦长为L4和L5处理灌水定额较小，所用时间较短，而L50和L100处理灌水定额较大，所用时间较长。畦长大于 $4 \mathrm { m }$ 显著增加了灌水定额和灌溉用时。
+
+![](images/b89f58b275bf9d45ea4f03f15bdd69862433d8e36c60c0a70eb179d1c5975236.jpg)  
+图3不同畦长处理下冬小麦田的灌水定额(A)及灌溉用时(B) Fig.3Irriationrequirement(A)andrequredtimeforirrigation(B)ofwinterwheatfieldunderdiferentborderlengthtreatments 不同小写字母表示差异达到0.05显著水平，下同。Diffrent smaltters meansignificant difference at 0.05 level.The same below.
+
+# 2.4畦长对冬小麦产量和水分利用效率的影响
+
+由图4A可知，随着畦长增加，冬小麦灌水定额增加，产量呈增加趋势。L4、L5、L10产量略低,L50和L100产量较高，最高为 $8 \ 0 9 4 . 8 9 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，但各畦长间产量差异未达到显著水平。由图4B可知，产量水分利用效率的变化趋势与产量变化趋势不同，随着畦长增加，产量水分利用效率有下降的趋势。产量水分利用效率为 $_ { \mathrm { L 4 > L 5 > L 1 0 > L 5 0 > L 1 0 0 } }$ 。L4和L5产量水分利用效率显著高于L50和L100。L4处理比L100水分利用效率提高 $8 . 7 7 \text{‰}$ ，综合分析产量和产量水分利用效率，可以看出，L4和L5处理的产量没有显著降低，但水分利用效率却显著提高。由图4C可知，随着畦长的增加，灌溉水利用效率大幅度显著下降。灌溉水利用效率排列顺序为 $L 4 > \mathrm { L } 5 >$ $_ { \mathrm { L 1 0 > L 5 0 > L 1 0 0 } }$ ，且每个处理之间都有显著差异。L4处理灌溉水利用效率最高，其次是L5和L10处理，L50和L100处理的灌溉水利用效率最低。L4灌溉水利用效率比L5和L10分别提高 $1 1 . 1 7 \%$ 和 $5 1 . 9 6 \%$ L50和L100处理比L10处理分别降低 $2 2 . 0 7 \%$ 和$2 6 . 2 0 \%$ 。上述结果表明，不同畦长可影响冬小麦产量和水分利用效率。畦长为 $4 \mathrm { ~ m ~ }$ 的产量和产量水平的水分利用效率以及灌溉水利用效率都高于其他处理。 $4 \mathrm { ~ m ~ }$ 畦长是本试验条件下高产高水分利用效率的最优畦长。
+
+# 4讨论与分析
+
+随着冬小麦栽培畦长的增加，灌水量也随之增加，灌水均匀度却逐渐下降。刘洪禄等[15]通过模拟和模型研究发现，对于黏壤土，适宜畦长为 $1 2 0 \sim$ $1 5 0 ~ \mathrm { m }$ ，对于砂壤土畦长为 $6 0 { \sim } 8 0 \mathrm { m }$ 是较适宜的畦田
+
+9000A legeeeeeeeee 30B 80C   
+grpl rh a a a a a 29 a a a rrrrrteereeraeeernei a   
+800 + H 田 28722543 + 杀田理 ( b   
+6000   
+5000 H & e   
+4000 22 30 21   
+3000 20 20   
+4 5 1050100 451050100 4 5 10 50 100 畦长 Border length (m)
+
+长度，灌溉刚好满足作物生长，灌水均匀度较好。考虑到田间灌溉实际情况，适宜畦长还应适当缩短。马尚宇等[8]研究发现，黄淮海麦区田面坡度为$2 . 0 9 \text{‰}$ ，畦宽为 $2 \mathrm { m }$ 时，畦长在 $1 0 { \sim } 1 0 0 ~ \mathrm { m }$ 范围内，在降雨量为 $1 6 3 . 2 { \sim } 1 4 6 . 6 \ \mathrm {  m m }$ 条件下，随着畦长增加,灌水量增大，畦长为 $1 0 { \sim } 8 0 \ \mathrm { ~ m ~ }$ ，灌水量为 $3 7 . 3 4 \sim$ $9 1 . 2 8 \ \mathrm { \ m m }$ ，普遍较低。崔振岭等[10]按农民习惯灌水方式，研究不同畦长(长畦 $1 8 0 \mathrm { m }$ ，短畦 $9 0 ~ \mathrm { m }$ 对灌溉水量和灌溉水均匀度的影响，发现长畦 $( 1 8 0 ~ \mathrm { ~ m } )$ 灌溉水量比短畦增加 $3 0 \ \mathrm { m m } .$ 。灌水均匀度下降，长畦灌溉处理的畦尾土壤水分显著高于畦首和畦中，并且两种灌溉畦长的产量并没有显著差异[4]。本试验研究中，畦宽为 $5 \mathrm { ~ m ~ }$ ，改口成数为 $90 \%$ ，灌水量随着畦长的增加而增大。 $4 \mathrm { ~ m ~ }$ 眭长与 $1 0 0 \mathrm { ~ m ~ }$ 畦长总灌水量相差 $1 3 3 . 6 \ \mathrm { m m } _ { \circ }$ $1 0 0 \mathrm { ~ m ~ }$ 畦长的麦田灌溉需水量约是$4 \mathrm { ~ m ~ }$ 畦长的2倍，短畦可以大幅度节约灌溉水。这与前人的研究结果一致，并且在研究中发现 $4 \mathrm { ~ m ~ }$ 和$5 \mathrm { ~ m ~ }$ 灌水畦首、畦中和畦尾土壤含水量比较均匀。${ > } 5 \mathrm { ~ m ~ }$ 畦长灌水均匀度下降，畦首和畦中畦尾土壤含水量出现显著差异，但畦尾含水量小于畦首。适宜的畦长与前人研究结果存在一定差异。有的研究者认为合理畦长 $3 0 { \sim } 5 0 \mathrm { ~ m ~ }$ ，灌水利用系数较高；而有的研究者认为合理畦长为 $8 0 \mathrm { ~ m ~ }$ ，本研究结果表明最适畦长为 $4 ~ \mathrm { m } _ { \circ }$ 研究结果出现差异的原因，首先可能与研究地点不同密切相关。不同灌区土壤理化性质、地下水位埋深、出水量大小和水流速度等差异造成的合理畦长有差异；另外，输水设备存在差异，比如农民习惯的田间水渠输水，在到达处理畦田时，满渠的水与本研究采用半径为 $6 { \sim } 8 \ \mathrm { c m }$ 的小白龙输水设备存在的差异也可能导致确定的最适畦长不一致。此外，畦宽也是影响合理畦长的一个重要因素。有研究畦宽只有 $2 \mathrm { ~ m ~ }$ ，而本研究畦宽为 $5 \mathrm { ~ m ~ }$ ，畦田宽度对合理畦长也有重要影响[8，水流推进速度随着畦宽的增大而降低，灌溉水量和灌溉用时也有显著变化。河北井灌区，农民习惯畦田宽度为 $5 \mathrm { ~ m ~ }$ 左右，畦田长度为 $1 0 \mathrm { ~ m ~ }$ 左右。畦田面积一般为 $5 0 ~ \mathrm { m } ^ { 2 }$ 。农民的灌溉习惯是灌溉水流到畦尾后再灌一会一直到畦尾的水面基本与畦垄持平才停止灌水或改口，这样畦尾的含水量一般要大于畦首和畦中，灌溉量在$7 5 0 \ m ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ 左右。实际上是造成了小畦漫灌，存在着水分浪费。通过缩小当前畦田面积，缩短畦田长度为 $4 { \sim } 5 \mathrm { ~ m ~ }$ ，并配以软管输水，可比 $1 0 \mathrm { ~ m ~ }$ 畦长分别减少灌溉量 $34 . 5 0 \%$ 和 $2 7 . 8 3 \%$ ，次灌溉量为 $3 4 1 . 8 \sim$ $4 3 4 ~ \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ，次灌溉用时缩短 $4 2 . 7 5 \%$ 和 $2 6 . 5 7 \%$ 0$4 { \sim } 5 \ \mathrm { ~ m ~ }$ 畦田在增加灌溉均匀度的同时，减少灌水量和灌溉所用时间，尤其是 $4 \mathrm { ~ m ~ }$ 畦长更省水、省电、省工。
+
+畦田长度影响产量与土壤储水以及水分利用效率。有研究表明，在特定的发育时期，水分亏缺并非完全是负效应，有补偿机理[16]。一定的水分胁迫或亏缺对冬小麦的产量提高存在一定促进或补偿作用[17-18]。姜东燕等[19]研究表明，在降雨量为 $1 5 0 ~ \mathrm { m m }$ 情况下，在相同灌溉时间内，小麦生育期总灌水量在 $6 0 ~ \mathrm { m m }$ 的处理比总灌水量在 $1 8 0 ~ \mathrm { m m }$ 处理产量提高 $6 . 9 7 \text{‰}$ 裴宏伟等[20]研究表明，适度的干旱胁迫可以在不明显减少作物产量的前提下，减少作物耗水量。本研究表明，随着灌水量的增加，总耗水量也增大。产量也随着灌水量增加，有增大趋势，与前人研究结果一致，但是产量之间没有显著差异，说明适当减少灌水量，并不一定显著降低产量。另外，不同畦长灌溉对总耗水量和土壤贮水消耗量也有一定影响。Huang等[2在对小麦不同灌水对产量影响中发现，小麦生育期灌水 $4 5 ~ \mathrm { m m }$ 比灌水 $1 5 \mathrm { m m }$ 的处理总耗水量增加 $8 . 1 8 \%$ ，土壤储水消耗量少 $1 7 . 4 3 \%$ 。董宝娣[22研究表明，随着灌溉次数和灌水量的增加，不同小麦品种间都显著降低土壤贮水消耗量。本研究表明，随着畦长增加，总耗水量增加，土壤贮水消耗比例减小。在L50和L100处理中，还出现了负消耗的现象。在L4处理中，土壤储水消耗比例显著高于其他处理，且灌溉水利用效率显著高于其他处理。说明合理畦长可充分利用土壤贮水，减少灌溉水量，降低总耗水量，提高水分利用效率。
+
+灌溉水量、灌溉用时与降雨年型、降雨时间以及土壤性质有关。本试验小麦生长季节的降雨量为$7 7 . 1 \ \mathrm { m m }$ ，而石家庄栾城区多年平均降雨量为 $1 1 5 . 3 ~ \mathrm { m m }$ (1990—2015年)，因此属于枯水年[23]。在平水年和湿润年该试验是否具有同样的结果，需要进一步试验。
+
+华北平原水资源日益短缺，河北省采取了各种压采限采措施，在保证粮食安全的基础上，希望达到农业高效用水和节水的目的[24-25]。在不同作物各种节水措施的应用实践中，缩畦减水可以大大减少灌溉水量，提高灌溉水利用效率。冯玉军等[26]在不同畦田规格的节水规律研究中发现，畦田面积由 $0 . 1 7 \mathrm { h m } ^ { 2 }$ 降低为 $0 . 1 0 \mathrm { h m } ^ { 2 }$ 时，玉米灌水定额减小$9 0 ~ \mathrm { \ m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ，减小 $9 . 7 \%$ 。不同作物随着地块面积的减小，产量、水分利用效率、单方水产值呈现增加的趋势。我们在中国科学院南皮生态农业试验站的缩畦减水应用中发现，采用小畦软管输水的精准灌溉，畦田长度为 $4 \mathrm { m }$ ，宽 $5 \mathrm { m }$ ，比常规畦田缩小一半的面积，整个生育期灌水3次，在小麦产量基本持平的情况下，灌溉水减少 $3 5 \%$ ，产量水分利用效率提高 $1 5 . 6 7 \%$ 0
+
+本研究表明，在畦宽 $5 \mathrm { m }$ 条件下，畦长为 $4 \mathrm { m }$ 小区面积为 $2 0 \mathrm { ~ m } ^ { 2 }$ 处理的灌水量较少，总耗水量较低，土壤储水消耗量和降雨量占总耗水量比例高于其他处理，产量没有显著下降，灌溉水利用效率比农民习惯畦长(L10)提高 $5 1 . 9 6 \%$ ，产量水分利用效率也有一定程度的增加。 $4 \mathrm { ~ m ~ }$ 畦长是本试验条件下兼顾的高产和节水的最优畦长处理。
+
+# 参考文献References
+
+[1]金文明，何育惠．小畦灌溉在节水灌溉中的推广应用[J]. 甘肃水利水电技术,1995(3):50-53 Jin W M,He Y H. The extension and application of narrow border irrigation in water saving irrigation[J].Gansu Water Conservancy and Hydropower Technology,1995(3):50-53   
+[2]贾大林．21世纪初期农业节水的目标和任务[J]．节水灌溉, 2000(1):9-10 Jia D L.Target and task of agricultural water saving at beginning of 2lst century[J].Water Saving Irrigation,2o00(1): 9-10 20(4): 10-14   
+[4] 史学斌，马孝义，李恺．畦灌水流运动规律与合理灌水技 术要素组合研究[J]．水利学报,2005(增刊):360-365 Shi X B,Ma X Y,Li K.Water current movement and reasonable technique elemental combination of border irrigation[J]. Journal of Hydraulic Engineering,20o5(Suppl): 360-365   
+[5]聂卫波，费良军，马孝义．沟灌土壤入渗参数和糙率估算 及灌水技术要素组合研究[J]．干旱地区农业研究，2012, 30(1): 48-53 Nie W B,Fei L J,Ma X Y.Estimation of infiltration parameters and manning roughness and research of optimized combination of technical elements for furrow irrigation[J]. Agricultural Research in the Arid Areas,2012,30(1):48-53   
+[6]史学斌，马孝义．关中西部畦灌优化灌水技术要素组合的 初步研究[J]．灌溉排水学报,2005,24(2):39-43 Shi X B,Ma X Y. Study of reasonable technique elemental combination of the border irrigation in the West Guanzhong Plain[J].Journal of Irrigation and Drainage,2005,24(2): 39-43   
+[7] 吴彩丽，许迪，白美健，等．不同灌水技术要素组合下畦灌 灌水深度的控制目标[J]．农业工程学报，2014，30(24): 67-73 Wu C L,Xu D,Bai MJ,et al. Irrigation water depth control targets under different combination of irrigation technique elements for border irrigation[J].Transactions of the CSAE, 2014,30(24): 67-73   
+[8] 马尚宇，于振文，王东，等．不同畦长灌溉对小麦耗水特性 及产量的影响[J]．应用生态学报,2012,23(9):2489-2496 Ma S Y,Yu ZW,Wang D,et al. Effects of field border length for irrigation on the water consumption characteristics and grain yield of wheat[J]. Chinese Journal of Aplied Ecology, 2012,23(9): 2489-2496   
+[9]马尚宇，于振文，张永丽，等．不同畦宽灌溉对小麦耗水特 性和产量及水分利用效率的影响[J]．中国农业科学，2014, 47(8): 1531-1540 Ma S Y,Yu Z W, Zhang YL,et al.Effect of field border width for irrigation on water consumption characteristics,yield and water use efficiency of wheat[J]. Scientia Agricultura Sinica, 2014,47(8): 1531-1540   
+[10] 崔振岭，陈新平，张福锁，等．不同灌溉畦长对麦田灌水均 匀度与土壤硝态氮分布的影响[J]．中国生态农业学报, 2006,14(3): 82-85 Cui ZL,Chen XP, Zhang F S,et al. Effect of different border lengths on the irrigation homogeneity and soil nitrate-N distribution on wheat field[J]. Chinese Journal of EcoAgriculture,2006,14(3): 82-85   
+[11]陈素英，张喜英，邵立威，等．华北平原旱地不同熟制作物 产量、效益和水分利用比较[J]．中国生态农业学报，2015, 23(5): 535-543 Chen S Y, Zhang X Y, Shao L W,et al.A comparative study of yield,cost-benefit and water use efficiency between monoculture of spring maize and double crops of wheat-maize under rain-fed condition in the North China Plain[J]. Chinese Journal of Eco-Agriculture,2015,23(5): 535-543   
+[12]张喜英．提高农田水分利用效率的调控机制[J]．中国生态 农业学报,2013,21(1):80-87 Zhang X Y.Regulating mechanisms for improving farmland water use efficiency[J]. Chinese Journal of Eco-Agriculture, 2013, 21(1): 80-87   
+[13] Dong B D,Shi L, Shi C H,et al. Grain yield and water use efficiency of two types of winter wheat cultivars under different water regimes[J]. Agricultural Water Management, 2011,99(1): 103-110   
+[14]董宝娣，师长海，乔匀周，等．不同灌溉条件下不同类型冬 小麦产量水分利用效率差异原因分析[J]．中国生态农业学 报,2011,19(5):1096-1103 Dong B D,Shi C H,Qiao Y Z,et al.Analysis of water use efficiency of different winter wheat cultivars under different irrigation schemes on the basis of yield[J].Chinese Journal of Eco-Agriculture,2011,19(5): 1096-1103   
+[15]刘洪禄，杨培岭．畦灌田面行水流动的模型与模拟[J]．中 国农业大学学报,1997,2(4): 66-72 Liu HL, Yang P L. Study on model and simulation of border irrigation and its application[J]. Journal of China Agricultural University,1997,2(4): 66-72   
+[16]刘涛，周广胜，谭凯炎，等．华北地区冬小麦灌溉制度 及其环境效应研究进展[J]．生态学报，2016，36(19),doi: 10.5846/stxb201505241039 Liu T,Zhou G S,Tan K Y,et al.Review on research of irrigation regime and its environmental effect in winter wheat field of North China Plain[J].Acta Ecologica Sinica,2016, 36(19),doi: 10.5846/stxb201505241039   
+[17]杨晓亚，于振文，许振柱．灌水量和灌水时期对小麦耗水 特性和氮素积累分配的影响[J].生态学报，2009，29(2): 846-853 Yang X Y, Yu Z W, Xu Z Z. Effects of irrigation regimes on water consumption characteristics and nitrogen accumulation and allocation in wheat[J].Acta Ecologica Sinca,20o9,29(2): 846-853   
+[18]董宝娣，张正斌，刘孟雨，等．水分亏缺下作物的补偿效应 研究进展[J]．西北农业学报,2004,13(3):31-34 Dong B D, Zhang Z B,Liu M Y, et al. Research progress on compensation effect of crops under water deficit[J].Acta Agriculturae Boreali-occidentalis Sinica,2004,13(3): 31-34   
+[19]姜东燕，于振文，许振柱．灌溉量和施氮量对冬小麦产量 和土壤硝态氮含量的影响[J].应用生态学报，2011，22(2): 364-368 Jiang D Y,Yu Z W,Xu Z Z.Effects of irrigation amount and nitrogen fertilization rate on wheat yield and soil nitrate content[J]. Chinese Journal of Applied Ecology,2011,22(2): 364-368   
+[20]裴宏伟，孙宏勇，沈彦俊，等．不同灌溉处理下冬小麦水平 衡与灌溉增产效率研究[J]．中国生态农业学报,2011,19(5): 1054-1059 Pei H W,Sun H Y,Shen Y J,et al.Water balance and yield-increasing efficiency of irrigation of winter wheat under different irrigation schemes[J]. Chinese Journal of EcoAgriculture,2011,19(5):1054-1059   
+[21]HuangYL,ChenLD,Fu BJ,et al. The wheat yields and water-use efficiency in the Loess Plateau: Straw mulch and irrigation effects[J]. Agricultural Water Management,2005, 72(3): 209-222   
+[22]董宝娣．不同类型冬小麦高效用水生理生态特性研究[D]. 石家庄：中国科学院遗传与发育生物学研究所农业资源研 究中心,2008:74-91 Dong B D.Studies on eco-physiological characteristics in efficient water use of different winter wheat types[D]. Shijiazhuang: Center for Agricultural Resources Research, Institute of Genetics and Developmental Biology，Chinese Academy of Sciences,2008:74-91   
+[23]吴庆华，王贵玲，葡文静，等．太行山山前平原地下水补给 规律分析：以河北栾城为例[J]．地质科技情报,2012,31(2): 99-105 Wu Q H, Wang G L,Lin W J,et al. Estimating groundwater recharge of Taihang Mountain piedmont in Luancheng County, Hebei Province, China[J]. Geological Science and Technology Information,2012,31(2): 99-105   
+[24]康绍忠．水安全与粮食安全[J]．中国生态农业学报，2014, 22(8): 880-885 Kang S Z.Towards water and food security in China[J]. Chinese Journal of Eco-Agriculture,2014,22(8): 880-885   
+[25]袁再健，许元则，谢卢乐．河北平原农田耗水与地下水动 态及粮食生产相互关系分析[J]．中国生态农业学报，2014, 22(8): 904-910 Yuan ZJ,Xu Y Z,Xie LL.Correlation among farmland water consumption,grain yield and groundwater dynamics in the Hebei Plain[J]. Chinese Journal of Eco-Agriculture,2014, 22(8): 904-910   
+[26]冯玉军，徐丽萍，张发荣．不同畦田规格的节水规律与经济 效益对比研究[J]．甘肃水利水电技术,2015,51(10):37-39 Feng Y J,Xu L P, Zhang F R.Comparative study of water saving law and the economic benefit of different border specifications[J].Gansu Water Resources and Hydropower Technology,2015,51(10): 37-39

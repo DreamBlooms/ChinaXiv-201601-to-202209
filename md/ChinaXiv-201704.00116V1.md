@@ -1,0 +1,172 @@
+# 钢中第二相粒子形貌预报理论和检测方法
+
+郭靖1,2 郭汉杰1,2方克明」 段生朝1,2， 石骁1.2 杨文晟1.21 北京科技大学冶金与生态工程学院 北京 1000832 北京科技大学高端金属材料特种熔炼与制备北京市重点实验室 北京 100083
+
+摘 要控制钢中第二相粒子(包括非金属夹杂物和碳氮化物)的形貌对降低非金属夹杂物的危害、提高钢材力学性能等具有重要作用。本工作通过引入Jackson $\alpha$ 指数建立了钢中第二相粒子形貌的预测理论模型，该理论指出钢中第二相粒子形貌由其熔化熵、生长方向和温度(过冷度)决定。通过非水溶液电解的方法和RTO技术，结合 SEM分析了4个钢种各类夹杂物三维形貌以及其内部特征，实测的第二相粒子形貌与理论预测一致。理论和实验观察结果均证明，当第二相粒子Jackson $\alpha$ 指数大于3时，其形貌为小面状；Jackson $\alpha$ 指数小于2时，呈非小面状。
+
+关键词 第二相粒子，形貌，Jackson $\alpha$ 指数，熔化熵，非水溶液电解，RTO技术中图分类号 TF769 文章编号 0412-1961(2017)00-0000-00
+
+# Morphology Prediction Theory and Experimental Measurement for the Secondary Phase Particle in Steel
+
+GUO Jing1²2, GUO Hanjie12, FANG Keming1, Duan Shengchao 12, SHI Xiao12,YANG Wensheng1.2
+
+1SchoolofMetallurgicalandEcologicalEngineering,UniversityofScienceandTechnologyBeijing,BeijingOo08China 2Beijing KeyLaboratoryofSpecialMeltingandPreparationofHighend Metal Materials,UniversityofScienceandTechnology Beijing,Beijing l00083,China
+
+Correspondent: GUO Hanjie, Professor, Tel: 13801369943, E-mail: guohanjie $@$ ustb.edu.cn Supported by National Natural Science Foundation of Steel Joint Research Funds of China (No.U156O2O3) and Fundamental Research Fund for the Central Universities (No.FRF-TP-16-079A1) Manuscript received 2016-11-28, in revised form 2017-03-06
+
+ABSTRACTItis significant to reduce the negative effects of non-metallc inclusion on steel and to improve steel mechanical properties through controlling the morphology of the secondary phase particle including non-metallic inclusion, nitride and carbide. Globular second phase particle could reduce the stress concentration during rolling and heat treatment process obviously and lower its harmfulness to steel toughness than that of particles with iregular shape.A theoretical model to predict the morphology of the secondary phase particle in steel was established by introducing a dimensionless Jackson $\alpha$ factor and pointed out that the morphology of the secondary phase particle is determined by its dissolved entropy, growth direction and temperature or undercooling. Non-aqueous solution electrolysis extraction and room temperature organic (RTO) technique were applied to detect the 3D morphology of the secondary phase particle and its inner morphology combining with SEM. The morphologies of particles observed in four different types of steels are in good agreement with the theoretical predictions.Theoretical predictions and experimental observation were both confirmed that the secondary phase particle is faceted in morphology when its Jackson $\alpha$ factor is more than 3 and non-faceted when its Jackson $\alpha$ factor less than 2.
+
+KEY WORDSthe secondary phase particle,morphology, Jackson $\alpha$ factor, dissolved entropy, non-aqueous solution electrolysis, RTO technique
+
+钢中非金属夹杂物和第二相粒子易引起钢基体性能的不连续，同时，由于其在轧制过程变形抗力与钢基体一般差别较大，在轧制过程中夹杂物周围容易产生应力集中，故易成为轧板内微裂纹的起点，微裂纹的扩展可能成为表面宏观裂纹等缺陷，影响钢的表面质量和力学性能。球形第二相粒子在轧制过程中的应力集中相对较轻，多边形，特别是有尖角的第二相粒子应力集中严重，容易成为微裂纹源[1,2]。此外，钢中第二相粒子的形貌对钢的切削性等也有明显的影响[3.4]。Kim 等[5指出控制 Fe-Al金属间化合物粒子(B2)形貌(球形)以及弥散分布，不仅可以降低其对钢材韧性的不利影响，还可以作为有效的二次强化相，获得超高强度低密度Fe-AI-Ni合金。所以，控制钢中第二相粒子的形貌对降低夹杂物危害以及提高钢材的质量均有重要作用。但是，目前对第二相粒子形貌控制的研究还很不深入。对第二相粒子形貌控制的研究存在两个方面的难点：第一，尚未建立起第二相粒子形貌控制的理论，对于夹杂物形貌的影响因素目前还未从理论上阐述清楚；第二，实验上缺乏有效分析手段，目前普遍使用的金相法只能观察第二相粒子一个截面，尚无法观察到非金属夹杂物等第二相粒子整体形貌。
+
+由于控制晶体形貌在材料、地质、珠宝等学科的重要意义，科研工作者对金属熔体[6\~10]、无机非金属熔体[11\~14]以及有机溶体[15.16等晶体形貌控制的理论做了大量研究。液态第二相粒子属于玻璃质，由于表面张力的作用，一般呈球形。固态第二相粒子的形成是氧化物或碳氮化物晶体的析出长大过程，与其它类型晶体形核和长大过程相类似，所以文献中研究晶体形貌的方法和结果可以借鉴用来研究钢中第二相粒子形貌以及其控制因素。对于钢中的第二相粒子形貌，亦有很多研究者[17.18]试图进行研究，但由于理论和实验手段的限制研究还很不充分。本文作者应用JACKSON $\alpha$ 指数建立了多元炉渣中晶体形貌的控制并将其应用于改善高 Al先进高强钢保护渣润滑性能[9]，但该理论在钢中第二相粒子的适用性尚需进一步验证。
+
+针对金相方法的不足，人们开发使用电解或者酸浸的方法进行分析，但是这些方法使用酸液会溶解第二相粒子中的碱性成分，如钙铝酸盐，硫化物，使第二相粒子的形貌失真，仅可用于分析少数与酸液较难反应的第二相粒子，如 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 。方克明[20开发出利用有机溶液进行电解的方法，避免了电解过程中对第二相粒子的损伤，为观察第二相粒子整体形貌提供了有力途径。
+
+本工作通过引入Jackson $a$ 指数，建立起预测钢中第二相粒子形貌的理论，并且应用非水溶解电解技术和 RTO 技术包埋并切片技术，观察钢中第二相粒子三维形貌的特征和第二相粒子内容部形貌特征，并分析钢中第二相粒子形貌的影响因素。
+
+# 1钢中第二相粒子形貌预测理论
+
+Jackson[6.7]最先利用统计热力学原理基于金属熔体中晶体/熔体界面自由能最小时最稳定的原理建立预测合金熔体晶体/熔体界面形貌预测理论，并根据晶体/熔体界面形貌判据晶体的形貌。其理论认为若晶体/熔体界面是粗糙的则对应晶体是非面状的，若晶体/熔体界面是平的则对应晶体是面状的，并提出一个无量纲的参数，Jackson $\alpha$ 指数，作为晶体形貌的判据，其理论已在金属熔体，有机溶液以及部分简单无机氧化物熔体中得到成功应用。钢中固态第二相粒子的形成符合Jackson假设体系的条件，可以应用并扩展该理论预报钢中第二相粒子形貌。Jackson[67推导的固/液界面的相对自由能表达式为：
+
+$$
+{ \frac { \Delta F } { N k T } } = X ( 1 - X ) \alpha + X \ln X + ( 1 - X ) \ln ( 1 - X )
+$$
+
+式中， $\Delta F$ 为结晶过程晶体界面自由能， $N$ 为晶体表面晶格数目, $k$ 为Boltzman 常数， $T$ 为热力学温度。以 $X$ 为晶体/熔体界面晶体原子所占比例， $\alpha$ 即为Jackson $\alpha$ 指数，定义为[]：
+
+$$
+\alpha { = } \xi _ { \mathrm { { ( h k l ) } } } \frac { \Delta H _ { \mathrm { { m } } } } { R T _ { \mathrm { { m } } } } { = } \xi _ { \mathrm { { ( h k l ) } } } \frac { \Delta S _ { \mathrm { { m } } } } { R }
+$$
+
+式中， $\xi _ { ( \mathrm { h k l ) } }$ 表示晶体生长取向指数，为晶体/熔体界面晶胞原子数与配位数比值，由晶体的性质可知其为一值介于 $0 . 5 { \sim } 1 . 0$ 的常数[21]，且在不同的生长方向其值可能并不相同； $\Delta H _ { \mathrm { m } }$ 和 $\Delta S _ { \mathrm { m } }$ 分别表示晶体的熔解焓和熔解熵； $T _ { \mathrm { m } }$ 表示熔点； $R$ 表示气体常数。
+
+图1所示为由式(1)计算得到界面相对自由能与界面晶体原子占比 $X$ 的关系。由图可见，当 $\alpha < 2$ 时，晶体/熔体界面的相对自由能在 $X { = } 0 . 5$ 的时候最小，此时晶体/熔体界面是最为"粗糙"的，根据Jackson 的理论，此时对应的晶体是非面状的；同理，如果 $\alpha > 3$ 时，界面相对自由能在 $\scriptstyle { X = 0 }$ 或 $\scriptstyle \mathbf { X = 1 }$ 时最小，此时界面最为“平坦”，则对应为面状晶体。所以，可以通过晶体的Jackson $\alpha$ 指数的大小对晶体形貌进行判据。
+
+由式(2)可以得出，钢中第二相粒子的形貌由第二相的自身性质(熔化熵)、生长方向和温度(过冷度)所决定。Jackson $\alpha$ 指数与晶体的熔解焓成正比，所以其物理意义即为通过评估晶体与对应熔体之间混乱度(熵)的差别来判断晶体特性强弱： $\alpha$ 越大，表示生成的晶体与熔体的熵值差别越大，生成的晶体越有序，越表现为小面状形貌特征；反之则表现出非面状的晶体形貌特征。由图1可知，面状晶体的临界 $\alpha$ 为3附近，而非面状晶体的临界 $\alpha$ 在2 附近。对大量的金属晶体形貌的观察结果均已证实该判据方法的有效性[7]。
+
+应该指出，式(2)只有在平衡的条件才成立，在非平衡的条件下，如在过冷的熔体中，式(2)中的两个等式并不相等，因为在非平衡的条件下熔解Gibbs 自由能 $\Delta G _ { \mathrm { m } } \neq 0$ 。对于过冷熔体，温度为 $T$ 时晶体的熔解熵 $\Delta \mathsf { S } _ { \mathrm { m } , T }$ 表示为：
+
+$$
+\Delta \mathrm { S } _ { \mathrm { m } , T } { = } \mathrm { S } _ { \mathrm { m } , T _ { \mathrm { m } } } ^ { \mathrm { f } } - \int _ { T } ^ { T m } { \frac { ( C _ { \mathrm { l } } - C _ { s } ) } { T } } \mathrm { d } T
+$$
+
+式中， $C _ { \mathrm { { l } } }$ 和 $C _ { s }$ 分别表示液态和固态化合物的等容比热， ${ \bf S } _ { \mathrm { m } , T _ { \mathrm { m } } } ^ { \mathrm { f } }$ 为晶体熔点时熔化熵。显然，在 $C _ { \mathrm { { l } } }$ 和 $C _ { s }$ 差别不大或者过冷度较小时，温度 $T$ 时熔解熵可以用熔点的熔化熵近似表示。
+
+![](images/06ff2baece6697357fb81f9e3d00bfd2e080ed7f22de67611a997ef409fa005c.jpg)  
+图1不同Jackson $\alpha$ 指数晶体/熔体界面相对自由能与界面晶体原子占比关系
+
+Fig.1 Relations between relative crystal/melt interface relative energyand fraction of crystal latice atom in the case of different Jackson $\alpha$ factor ( $\Delta F$ -crystal/melt interface free energy, $N _ { \mathbf { \ell } }$ -means the number of crystal lattice on the crystal/melt interface, $k$ -Boltzman constant, $T .$ -temperature)
+
+# 2 实验方法
+
+图2为非水溶液电解第二相粒子的装置示意图,以试样作为阳极，不锈钢管作为阴极，一定配比的无水甲醇溶液作为电解液，使用直流电源提供电解电流，阳极发生的电解反应如式(4)所示，阴极发生的反应如式(5)所示。用非水溶液电解时，将试样切成直径 $8 { \sim } 1 2 \ \mathrm { m m }$ ，长 $8 0 ~ \mathrm { m m }$ 左右的圆棒试样，电解温度控制为$0 { \sim } 5 \ \mathrm { ^ \circ C }$ ，电解电流强度为 $3 0 { \sim } 6 0 \mathrm { m A } / \mathrm { c m } ^ { 2 }$ 。电解 $^ { 4 \mathrm { h } }$ 后，停止通电，使用超声波清洗剩余试样，收集电解液，使用真空抽滤器抽滤以得到不同粒径尺寸范围颗粒的溶液，再使用淘洗的方法得到不同尺寸范围的第二相粒子。本工作对4个钢种进行了电解实验，各钢种成分如表1所示，其中包括铝镇静钢(A)、硅镇静钢(B)，低碳钢(C)和高碳钢(D)，钢A和B主要的第二相粒子为非金属夹杂物，钢C和D主要为碳氮化物。所有试样均在浇铸完铸坏中心处取得。为了观察第二相粒子内部的结构及形貌特点，使用室温有机溶液包埋(RTO)技术包覆第二相粒子后"切开"进行观察，其步骤简述如下：将电解后收集的第二相粒子均匀放置在$\mathtt { C u }$ 片上作为阴极，使用纯 $\mathtt { C u }$ 片作为阳极，通过适当电流使阳极电解并让 $\mathrm { C u } ^ { 2 + }$ 在阴极上沉积，阳极和阴极的电化学反应分别如式(6)和(7)所示。在第二相粒子完全被 $\mathtt { C u }$ 包覆后，再使用极细的砂纸将包覆的第二相粒子“切开”，以便后续使用SEM或FSEM进行观测,过程示意图如图3所示。
+
+$$
+\mathrm { F e = F e } ^ { 2 + } { + 2 \mathrm { e } ^ { - } }
+$$
+
+表1实验所用钢种及成分  
+Table1 Tested steel grades and compositions   
+
+<html><body><table><tr><td>Steel grade</td><td>C</td><td>Si</td><td>Mn</td><td>P</td><td>S</td><td>Als</td><td>Ti</td><td>Cr</td><td>Ni</td><td>Mo</td><td>Co</td></tr><tr><td>A</td><td>0.04</td><td>0.02</td><td>0.15</td><td>0.01</td><td>0.005</td><td>0.04</td><td>0.06</td><td>-</td><td></td><td>-</td><td>-</td></tr><tr><td>B</td><td>0.05</td><td>0.5</td><td>1.1</td><td>0.01</td><td>0.008</td><td>-</td><td>1</td><td>18.22</td><td>8.10</td><td></td><td></td></tr><tr><td>C</td><td>0.03</td><td>0.29</td><td>0.13</td><td>0.014</td><td>0.002</td><td>5.20</td><td>0.12</td><td>24.20</td><td>0.12</td><td></td><td></td></tr><tr><td>D</td><td>1.14</td><td>0.50</td><td>0.60</td><td>0.03</td><td>0.007</td><td></td><td>0.0049</td><td>4.70</td><td></td><td>9.30</td><td>8.10</td></tr></table></body></html>
+
+(mass fraction /%)
+
+![](images/5cc924ddc8896f4ec1cdb1adf6b7cd1757b0b7e380308e7636f373d208212d94.jpg)  
+图2非水溶液电解装置示意图.  
+图3RTO技术包埋和“切开"第二相粒子步骤示意图
+
+Fig.2 Schematic of apparatus for non-aqueous solution electrolysis (1-specimen, 2-stainless steel sheet, 3-thermometer, 4-solution, 5-beaker, 6-holder)
+
+1Beforewrapping OOOOOOOOOOOO-Particle Coppersheet   
+2 After wrapping Copper Q.0.0000Q000.oo Particle Coppersheet   
+3After the cut O.OyO.O.OO.y.OO.oO Particle Coppersheet
+
+Fig.3 Schematic of steps wrapping and cutting the extracted secondary phase particle by room temperature organic (RTO) technique
+
+# 3 结果与讨论
+
+3.1常见第二相粒子Jackson $\alpha$ 指数
+
+图4给出了B钢中使用非水溶液电解法收集的第二相粒子和使用RTO技术切开后的第二相粒子形貌，可见B钢中夹杂物粒子大多数为球形，切开后有些粒子内部可见有析出物。
+
+![](images/cf1b47f10e8620dd1cdaf63f175c90a3e47f6cbc759cb8702628c981552cca17.jpg)  
+图4B钢中使用电解法收集的第二相粒子和RTO技术切开后的第二相粒子形貌 Fig.4 Morphologies of the secondary phase particles in steel B after extration by non-aqueous solution electrolysis (a) and after cutting by RTO technique (b)
+
+表2列出了钢中常见第二相粒子的Jackson $\alpha$ 指数，其中热力学参数摘自文献[22,23]。根据各类第二相粒子的 $\alpha$ ，可将其分为3类:第一类: $\alpha$ 小于2，如 $\mathrm { S i O } _ { 2 }$ 、FeO和 $\mathbf { M n S }$ 等，推测这类第二相粒子形貌应该为表面光滑的球形或类球形等非多面体形状；第二类：第二相粒子由于生长方向不同， $\alpha$ 有可能大于2,也有可能小于2，如 $\mathrm { C a F } _ { 2 }$ 、CaO、TiC 和 $\mathrm { C a S i O } _ { 3 }$ 等，这类第二相粒子可能会呈小面状，也有可能呈球非面状；第三类：第二相粒子在各个方向生长其 $\alpha$ 均大于3，如 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 、TiN及各类钙铝酸盐等，这类第二相粒子般呈多面体或不规则形状。
+
+表2 钢中典型第二相粒子的 Jackson α指数[22.23]  
+Table 2 Jackson $\alpha$ factor of some typical secondary phase particles in stel[22.2   
+
+<html><body><table><tr><td>Particle type</td><td>Crystalline structure</td><td></td><td>T/K</td><td>△Hm/ (kJ-mol-1)</td><td>α</td></tr><tr><td>AlO3 (corundum)</td><td>hcp</td><td>0.5-1.0</td><td>2327</td><td>118.41</td><td>3.06-6.12</td></tr><tr><td>AIN (S-G)*</td><td>hcp</td><td>0.5-1.0</td><td>4349</td><td>189.61</td><td>2.62-5.24</td></tr><tr><td>SiO2 (quartz)</td><td>Tetragonal</td><td>0.5-1.0</td><td>1996</td><td>9.58</td><td>0.29-0.58</td></tr><tr><td>CaO (lime)</td><td>fcc</td><td>0.5-1.0</td><td>2845</td><td>28.50</td><td>1.18-3.36</td></tr><tr><td>CaF2</td><td>cubic</td><td>0.5-1.0</td><td>1691</td><td>29.71</td><td>1.06-2.11</td></tr><tr><td>FeO</td><td>fcc</td><td>0.5-1.0</td><td>1650</td><td>24.06</td><td>0.43-0.86</td></tr><tr><td>Mg0</td><td>fcc</td><td>0.5-1.0</td><td>3098</td><td>77.40</td><td>1.51-3.01</td></tr><tr><td>MnO</td><td>fcc</td><td>0.5-1.0</td><td>2058</td><td>54.39</td><td>1.59-3.18</td></tr><tr><td>MnS</td><td>fcc</td><td>0.5-1.0</td><td>1803</td><td>26.11</td><td>0.44-0.87</td></tr><tr><td>NbO</td><td>fcc</td><td>0.5-1.0</td><td>2218</td><td>54.39</td><td>1.48-2.95</td></tr><tr><td>Nb2O3</td><td></td><td>0.5-1.0</td><td>1785</td><td>102.93</td><td>3.47-6.94</td></tr><tr><td>NiO</td><td>fcc</td><td>0.5-1.0</td><td>2230</td><td>50.68</td><td>1.37-2.73</td></tr><tr><td>TiC</td><td>fcc</td><td>0.5-1.0</td><td>3290</td><td>71.13</td><td>1.38-2.76</td></tr><tr><td>TiN</td><td>fcc</td><td>0.5-1.0</td><td>2023</td><td>54.39</td><td>3.15-6.29</td></tr><tr><td>TiO</td><td></td><td>0.5-1.0</td><td>2112</td><td>110.46</td><td>4.06-8.11</td></tr><tr><td>Ti2O3</td><td></td><td>0.5-1.0</td><td>2047</td><td>138.07</td><td>1.88-3.76</td></tr><tr><td>Ti3O5</td><td></td><td>0.5-1.0</td><td>2143</td><td>66.94</td><td>4.17-8.33</td></tr><tr><td>TiO2</td><td></td><td>0.5-1.0</td><td>943</td><td>66.27</td><td>1.78-3.55</td></tr><tr><td>V2O5</td><td></td><td>0.5-1.0</td><td>2950</td><td>87.03</td><td>3.15-6.29</td></tr><tr><td>ZrO2</td><td></td><td>0.5-1.0</td><td>2023</td><td>54.39</td><td>4.06-8.11</td></tr><tr><td>MgAl2O4</td><td>-</td><td>0.5-1.0</td><td>2381</td><td>160.65</td><td>4.06-8.12</td></tr><tr><td>CaSiO3</td><td>-</td><td>0.5-1.0</td><td>1813(1817)</td><td>57.00(56.07)</td><td>1.85-3.70</td></tr><tr><td>CaAl4O7</td><td>-</td><td>0.5-1.0</td><td>2038</td><td>128.4</td><td>3.79-7.57</td></tr><tr><td>CaAl2O4</td><td></td><td>0.5-1.0</td><td>1877</td><td>55.0</td><td>1.76-3.51</td></tr><tr><td>Ca12Al14O33</td><td></td><td>0.5-1.0</td><td>1709</td><td>432.0</td><td>15.19-30.38</td></tr><tr><td>Ca3Al2O6</td><td></td><td>0.5-1.0</td><td>1814</td><td>72.0</td><td>5.59-11.18</td></tr></table></body></html>
+
+Note: (S-G)\*-from solid phase to gaseous phase, $\xi _ { ( h k l ) }$ - a orientation factor, $T _ { \mathrm { m } } .$ melting point, $\Delta H _ { \mathrm { m } }$ -fusion
+
+enthalpyrespectively
+
+3.2典型第二相粒子形貌
+
+![](images/e6b1feba3dcc13f0f68db9c32f2fbca59b35fd8dda1ff66f6641be674bcd2dca.jpg)  
+图5A钢中 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { M g A l } _ { 2 } \mathrm { O } _ { 4 }$ 和 TiN典型形貌
+
+Fig.5 Typical morphologies of $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ with $\scriptstyle { \alpha = 3 . 0 6 \sim 6 . 1 2 }$ (a, b), $\mathrm { M g A l } _ { 2 } \mathrm { O } _ { 4 }$ with $\alpha { = } 4 . 0 6 { \sim } 8 . 1 2$ (c, d) and TiN with $\scriptstyle \alpha = 3 . 1 5 \sim 6 . 2 9$ (e, f) inclusions of steel A (a)polyhedral(b) spheroidal(c) polyhedral(d) spheroidal(e)cubic(f)gear-like.
+
+图5为A钢中 $\mathrm { A l _ { 2 } O _ { 3 } } . \mathrm { M g A l _ { 2 } O _ { 4 } }$ 和 TiN3类典型非金属夹杂物的形貌,图中夹杂物种类均由EDS 确定。由图 5a、c和e可以看出，这3类第二相粒子均为小面状。但由图5b和d可知， $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 与 $\mathrm { M g A l _ { 2 } O _ { 4 } }$ 似乎呈球形或类球形，而图5f所示的TiN粒子呈多角的齿轮状。由表2可知，这3类第二相粒子的 $\alpha$ 均大于3,其形貌应都是呈小面状的，造成这种偏差的原因即金相方法只能观察第二相粒子的一个平面，无法获得第二相粒子整体形貌。
+
+图6a和b所示为A钢中使用非水溶液电解法收集的典型的 $\mathbf { A l } _ { 2 } \mathbf { O } _ { 3 }$ 夹杂物的SEM像，图6c和d是B钢中典型夹杂物的 SEM像。由图6a 和 $\mathbf { b }$ 可见， $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 夹杂物呈小面状或不规则形貌，且夹杂物在不同方向生长，小面状形貌也并不同。由表2可知， $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 夹杂物的 $\alpha$ 随生长方向不同，在 $3 . 0 6 \mathrm { \sim } 6 . 1 2$ 之间，均大于3，可知其形貌为小面状，理论预测与实测观察相符。图6c 所示为球状的 $\mathbf { C a O - S i O _ { 2 } - M n O }$ 系夹杂物，在炼钢温度下其为液态，由于液面张力的作用液态夹杂物为球形。根据Jackson $\alpha$ 指数的定义，其并不能用来预测非晶体的形貌，但是由 $\Delta S _ { \mathrm { { m } } }$ 的物理意义可知，生成液态夹杂物为完全无序结构， $\Delta S _ { \mathrm { { m } } }$ 可认为近似为0，Jackson $\alpha$ 指数最小，亦能解释为何其非晶体特征为最明显的球形形状。由图6d可见这类液态夹杂物表面析出大量的短棒状或颗粒状的白色MnS。
+
+图7给出了用RTO技术包埋并"切开"后第二相粒子的内部形貌。如图7a和 $\mathbf { b }$ 所示， $\mathbf { A l } _ { 2 } \mathbf { O } _ { 3 }$ 夹杂物内部较为致密，没有观察到析出物，这也可以解释其坚硬难以变形的原因。如图 $\mathrm { 7 c }$ 和d所示，切开后球形${ \mathrm { C a O } } { \cdot } { \mathrm { S i O } } _ { 2 }$ -MnO系夹杂物内部析出了近似球形的富二氧化硅相，其成分主要为 $\mathrm { S i O } _ { 2 }$ ，在夹杂物边缘分布着椭球状或棒状的MnS(图7d)。文献[24,25]使用金相方法也得到与图7d相似的 $\mathbf { M n S }$ 粒子形貌，但是对比图6d所示的MnS三维形貌，可知二者相差非常大，仅凭二维形貌有时很难得到真实的形貌。如表2所示，$\mathrm { S i O } _ { 2 }$ 和MnS 的 $\alpha$ 分别在0.29\~0.58和0.44\~0.87，所以由理论预测其形貌应为非小面状的球形或椭球形，实际夹杂物形貌与理论预测结果相吻合。由图5\~7可见，使用金相试样观察钢中第二相粒子形貌貌只能观察其中的一个平面，难以得到第二相粒子整体形貌信息，有时甚至容易产生误判；而应用非水溶液电解法以及RTO 技术，可以清楚观察到夹杂物三维形貌以及内部结构，得到很多金相制样方法难以获得的有效信息。
+
+![](images/a56197df090ce234aae704fc1854dfeb129fa21738588471b989c5f23fb0cdef.jpg)  
+图6使用非水溶液电解后钢中非金属夹杂物的典型形貌
+
+Fig.6 Morphologies of typical inclusion after non-aqueous solution electrolysis (a,b) faceted ${ \bf A l } _ { 2 } { \bf O } _ { 3 }$ from steel A under different magnification (c,d) spherical or spheroidal ${ \mathrm { C a O } } { \cdot } { \mathrm { S i O } } _ { 2 }$ -MnO from steelB under different magnification
+
+![](images/99613007941d121e1de3ca18c2792a593e57f42b66740c15b5523e73c4673bc1.jpg)  
+图7用RTO技术包埋并“切开"后第二相粒子的内部形貌
+
+Fig.7 Inner morphologies of the secondary phase particle after being cut using RTO technique (a, b) polyhedral ${ \bf A l } _ { 2 } { \bf O } _ { 3 }$ from steel A under different magnification, no precipitates (c, d) spherical or spheroidal ${ \mathrm { C a O } } { \cdot } { \mathrm { S i O } } _ { 2 }$ -MnO from steel B under different magnification
+
+![](images/2043f2d5f71d30e93262d31befc8fa1604b426f1ee726b1000c6ab1375022dd6.jpg)  
+图8C钢中的典型氮化物及D钢中典型碳化物的形貌
+
+Fig.8 Morphologies of typical nitrides in steel C $( \mathsf { a } \sim \mathsf { c } )$ and carbides in steel D (d\~f) (a)TiN,cubic(b)AlN,polyhedral(c)AlN,spheroid (d) carbide,faceted(f) carbide,rod-like(f) carbide,needle-like
+
+由 EDS分析C钢中的第二相粒子主要类型为氮化物，其典型形貌由图 $8 \mathrm { a } \mathrm { \sim } \mathrm { c }$ 所示，其中图8a为TiN，图8b和 $\mathrm { ~  ~ c ~ }$ 为 AIN。TiN粒子为类似正六面体形貌， $\alpha$ 为 $3 . 1 5 { \sim } 6 . 2 9$ ，实验结果与理论预测结果吻合；对于AIN的形貌既观察到小面状(图8b)，又观察到表面光滑的椭球状(图8c)。文献中尚鲜有AIN的熔点和潜热等数据，表2中列出了AIN的气化温度、气化焓及由气化焓估算的 $\alpha ( 2 . 6 2 { \sim } 5 . 2 4 )$ ，其晶体结构与 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 相似，但 $\alpha$ 要明显小于 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ ，可以推测AIN的 $\alpha$ 应该也属于前文所述的第二类情况。D钢中第二相粒子以各类碳化物为主，本文课题组[2通过XRD 确定D钢中主要的碳化物种类为MC、 $M _ { 2 } \mathbf { C }$ 、 $M _ { 6 } C$ 和 $M _ { 7 } { \bf C } _ { 3 }$ 等。电解后典型的形貌如图8d\~f所示，可见 $\mathrm { ~ D ~ }$ 钢中碳化物粒子形貌各种各样，既有小面状的(图8d)，也有表面光滑的短棒状(图 8e)和弯曲棒状的(图 8f)。碳化物种类较多，熔点较高，熔化的热力学数据很少能够查到。表2中TiC(MC)的 $\alpha$ 为 $1 . 3 8 { \sim } 2 . 7 6$ ，也属于第二种类型，与观察到的碳化物形貌相符。文献[27]报道了H13 热作模具钢(中碳钢，C 为 $0 . 4 0 \%$ 左右)主要碳化物种类为MC、 $M _ { 8 } { \bf C } _ { 7 }$ 和 $M _ { 2 3 } { \bf C } _ { 6 }$ 等，其形貌有方形(小面状)，也有球形(非小面状)，与本工作的结果是一致的，这也说明本模型具有较广的适用性。
+
+由Jackson $\alpha$ 指数的定义(式(2))可以得出，钢中第二相粒子的形貌由第二相的自身性质(熔化熵)、生长方向和温度(过冷度)所决定，所以可以通过控制钢中第二相粒子的生长方向以及析出温度等对其形貌进行控制。当然，由于某些第二相粒子一般在固-液两相区以及固相线温度以下析出，钢液成分以及动力学条件对其形貌的影响可能也十分重要，对于非平衡态的过冷溶液中的第二相粒子的形貌需要进行更一步的研究。
+
+# 4结论
+
+(1）使用传统金相试样观察钢中第二相粒子形貌貌只能观察其中的一个平面，难以得到第二相粒子整体形貌信息，有时甚至容易产生误判；而应用非水溶液电解法以及RTO 技术，可以清楚观察到夹杂物三维形貌以及内部结构，得到很多金相制样方法难以获得的有效信息。
+
+(2）钢中第二相粒子的形貌由其熔化熵、生长方向、温度(过冷度)决定。使Jackson $\alpha$ 指数可以有效评判钢中第二粒子的形貌特征，若其Jackson $\alpha$ 指数大于3，则一般呈小面状；若Jackson $\alpha$ 指数小于2,则其形貌为非面状的球形或类球形。 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { M g A l } _ { 2 } \mathrm { O } _ { 4 }$ 和 TiN 在不同方向生长形貌有所不同，但均为小面状； $\mathrm { S i O } _ { 2 }$ 和 MnS 形貌为非面状的；而 AIN 和碳化物粒子在不同的生长方向可能为小面状的，也有可能为非小面状的。
+
+# 参考文献
+
+[1] Zahumensky P,Merwin M. Evolution of artificial defects from slab to rolled products Evolution of artificial defects from slab to rolled products [J]. J. mater. processing technol., 20o8,196:266
+
+[2] Yu H,Bi H,Liu X,et al. Behavior of inclusions with weak adhesion to strip matrix during roling using FEM [J]. J. mater. processing technol., 2009, 209: 4274   
+[3] Laizhu J, Kun C,Hänninen H. Efects of the composition,shape factor and area fraction of sulfide inclusions on the machinability of re-sulfurized free-machining steel [J]. J. mater. processing technol.,1996,58:160 [4] Fujiwara J. Cuting Mechanism of Sulfurized Free-Machining Steel [M]. Intech Open Access Publisher, 2012:18   
+[5]Kim S H, Kim H, Kim N J. Brittle intermetallic compound makes ultrastrong low-density steel with large ductility [J]. Nature,2015, 518: 77   
+[6] Jackson K A. Growth and Perfection of Crystals [M]. New York: John Wiley and Sons Inc,1958: 319. [7] Jackson KA. Liquid Metals and Solidification [J]. Am Soc Metal, 1958: 174   
+[8] Li D，Herlach D M.Direct measurements of free crystal growth in deeply undercooled melts of semiconducting materials [J]. Phys. Rev. let., 1996,77: 1801.   
+[9] Lu Y, Yang G,Liu F, et al. The transition of alpha-Ni phase morphology in highly undercooled eutectic $\mathrm { N i } _ { 7 8 }$ $_ { 6 } \mathrm { S i } _ { 2 1 . 4 }$ alloy [J]. Europhys. Lett.,2006, 74: 281.   
+[10]Lipton J, Kurz W,Trivedi R.Rapid dendrite growth in undercooled alloys [J]. Acta Metall,1987,35: 957. [11]Lofgren G. An experimental study of plagioclase crystal morphology: isothermal crystalization [J].Am. J. Sci., 1974, 273:243.   
+[12]Kirkpatrick R J . Crystal-growth from melt-review [J]. Am. Mineral.,1975, 60:798.   
+[13] Heulens J，Blanpain B，Moelans N.Analysis of the isothermal crystallization of $\mathrm { C a S i O } _ { 3 }$ ina Cal $\mathrm { ) - A l _ { 2 } O _ { 3 }  – S i O _ { 2 } }$ melt through in situ observations [J]. J. Eur. Ceram. Soc.,2011,31: 1873.   
+[14] Li J, Shu Q, Chou K. Effect of Agitation on Crystallization Behavior of $\mathrm { C a O - A l _ { 2 } O _ { 3 } \mathrm { - S i O _ { 2 } \mathrm { - N a _ { 2 } O \mathrm { - } C a F _ { 2 } } } }$ Mold Fluxes with Varying Basicity [J]. Metall. Mater. Trans. B,2015,46: 1555   
+[15]Hill A.Entropy production as theselection rule between different growth morphologies [J].Nature, 1990,348:426   
+[16] Berge B,Faucheux L,Schab K,Libchaber A. Faceted crystal growth in two dimensions [J]. Nature,1991, 350: 322   
+[17] Van Ende M A, Guo M, Proost J, et al. Formation and morphology of ${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ inclusions at the onset of liquid Fe deoxidation by Al addition [J]. ISIJ int., 2011, 51: 27 [18] Ye Z C, Wang S Y.Study of Inclusions in IF Steel[J].Acta. Metall. Sin. 1999，35:1051   
+(叶仲超，王石杨.IF 钢中夹杂物，金属学报，1999，35:1051)   
+[19] Guo J, Seo MD,Shi,CB et al. Control of Crystal Morphology for Mold Flux During High-Aluminum AHSS Continuous Casting Process[J]. Metall. Mater. Trans.B, 2016， 47B:2211   
+[20]Fang K M, Wang G C.Study on Non-Metallic Inclusions In Steel from Characterization to Denaturation[J].J Chin. Rare Earth Soc.. 2006,24:439   
+(方克明，王国承．钢中的夹杂物研究从表征到改性.中国稀土学报，2006，24:439)   
+[21] Jackson K A, Uhlmann DR, Hunt JD. On the nature of crystal growth from the melt[J]. J. Cryst. Growth, 1967, 1: 1   
+[22]Barin I, Knacke O.Thermochemical properties of inorganic substances[M].Berlin,Springer-Verlag,1973 [23]Barin I.，O.Knacke.Thermochemical properties of inorganic substances[M]， supplement.Berlin, Springer-Verlag,1977   
+[24] Kim H S,Lee HG, Oh K S.MnS precipitation in association with manganese silicate inclusions in Si/Mn deoxidized steel[J]. Metall. Mater. Trans. A, 2001,32: 1519   
+[25] Wang K, Jiang M, Wang X H,et al.Formation Mechanism of SiO2-Type Inclusions in Si-Mn-Killed Steel Wires Containing Limited Aluminum Content[J]. Metall.Mater. Trans. B, 2O15, 46:2198   
+[26]Luo Y W, Guo HJ, Chen X C.Effect of nitrogen on the microstructure of AISI M42 high-speed steel[A]. AISTech - Iron and Steel Technology Conference Proceedings[C], Pittsburgh,USA, 2016:1123 [27]Ning AG, Guo HJ,Chen X Cet al. Precipitationbehaviors and strengthening of carbides in H13 steel during annealing. Mater. Trans., 2015, 56: 581

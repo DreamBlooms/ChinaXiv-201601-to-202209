@@ -1,0 +1,520 @@
+[
+    {
+        "type": "text",
+        "text": "王贞杰1,² 陈四清2\\*常 青² 刘长琳² 胡建成² 严俊丽1,2 卢 斌1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.上海海洋大学水产与生命学院，上海 201306；2.农业部海洋渔业资源可持续利用重点开放实验室，中国水产科学研究院黄海水产研究所，青岛266071)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本是在通过研究饲料中维生素C含量对圆斑星鲽幼鱼生长及消化、吸收、抗氧化、免疫功能的影响，以期得到圆斑星鲽幼鱼饲料中适宜的维生素C含量。试验在 $( 1 2 . 5 { \\pm } 1 . 5 )$ ）的水温下进行，选择体重为（ $3 8 . 0 { \\pm } 0 . 8 \\ \\$ ） $\\mathrm { \\bf ~ g }$ 的健康圆斑星鲽幼鱼，随机分为7组（每组 3个重复，每个重复30尾），分别投喂维生素C含量为10.2、249.1、402.8、616.2、769.5、909.4和 $\\mathrm { 1 ~ 1 7 7 . 8 ~ m g / k g }$ 的试验饲料。试验期为8周。结果表明： $6 1 6 . 2 ~ \\mathrm { m g / k g }$ 维生素C组的增重率、饲料效率、摄食率均为最高，其增重率显著高于10.2 和 $9 0 9 . 4 ~ \\mathrm { m g / k g }$ 维生素C组（ $P { < } 0 . 0 5$ ），饲料效率显著高于其他各组（ $P { < } 0 . 0 5$ ），摄食率显著高于除 $\\mathrm { 1 ~ 1 7 7 . 8 ~ m g / k g }$ 维生素C组外的其他各组（ $. P { < } 0 . 0 5$ ）。达到组织肝脏和肌肉最大维生素C积累量的饲料维生素C含量为 $7 6 9 . 5 ~ \\mathrm { m g / k g }$ 。616.2和 $7 6 9 . 5 ~ \\mathrm { m g / k g }$ 维生素C组的血清中丙二醛含量显著低于除$4 0 2 . 8 ~ \\mathrm { m g / k g }$ 维生素C组外的其他各组（ $. P { < } 0 . 0 5$ ）； $4 0 2 . 8 ~ \\mathrm { m g / k g }$ 维生素C组的血清中过氧化氢酶和溶菌酶活力最高，显著高于其他各组（ $P { < } 0 . 0 5$ ）；402.8、616.2、769.4 mg/kg维生素C组血清中超氧化物歧化酶活力显著高于其他各组（ $. P { < } 0 . 0 5$ ）。饲料维生素C含量为402.8、616.2或 $7 6 9 . 4 ~ \\mathrm { m g / k g }$ 时，胃和肠道蛋白酶、淀粉酶、脂肪酶均处在较高水平。饲料中维生素C含量在 $2 4 9 . 1 { \\sim } 6 1 6 . 2 ~ \\mathrm { m g / k g }$ 时可提高肠道皱襞高度，增加肠壁厚度，促进肠道黏膜生长。结果显示：饲料中维生素C含量在 $4 0 2 . 8 { \\sim } 6 1 6 . 2 ~ \\mathrm { m g / k g }$ 时能有效满足圆斑星鲽幼鱼的生长需求，并可提高抗氧化能力、非特异性免疫力和消化吸收能力。关键词：圆斑星鲽；维生素C；生长；免疫；抗氧化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S963 文献标识码：A文章编号：  \n维生素C(vitaminC)，又称L-抗坏血酸，是动物机体生长、生产及维持正常生理机能必不可少的一种微量元素，具有调节血脂代谢，维持正常的心脏、中枢神经和造血功能的作用，同时对机体内众多激素的合成起重要作用。维生素C还可以促进鱼类生长，缓解环境等不良应激反应，提高自身免疫力[I]。由于缺乏合成维生素C所必需的L-古洛糖酸内酯氧化酶，多数鱼类不能自身合成维生素C而必须从食物中获取[2I。鱼类缺乏维生素C常出现脊柱和软骨变形、胶原物质损伤、皮肤和内脏出血症状等。  \n近年来关于维生素C对鱼类生理机能影响的报道很多，在饲料中添加高水平的维生素C 可以增强鱼类的免疫力，加快创伤修复等。万金娟等[3研究证明，饲料中添加高水平的维生素C可使团头鲂幼鱼免疫力显著提高。周立斌等[4报道，当维生素C添加量达到 396.4mg/kg 时，花鲈幼鱼的血清总补体含量和溶菌酶活力较高。宋学宏等[1]、Eo等[5]分别报道了维生素C对提高异育银鲫、东方红鳍豚对环境中污染物、刺激物的耐受力及对病菌的抗感染力以及非特异性免疫力有显著作用。近年来，研究人员广泛利用维生素C增强水产动物的抗病力，圆斑星鲽(Verasper variegatus）作为重要的经济养殖鱼类，提高其抗氧化和免疫功能对养殖业有重要意义，但至今有关维生素C对圆斑星鲽幼鱼抗氧化和免疫功能影响的研究还未见报道。本研究通过对圆斑星鲽幼鱼投喂不同维生素C添加量的饲料8周后，通过对检测圆斑星鲽幼鱼的生长性能、消化酶活力、血清生化指标、肠道形态结构以及组织维生素C积累量，以期得到促进生长，增强免疫力和抗氧化能力的圆斑星鲽幼鱼最佳维生素C需要量，为鱼类免疫学及营养需求研究积累资料，并为维生素C在鱼类养殖中的应用提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验饲料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验采用单因素试验设计，以鱼粉和酪蛋白为蛋白质源，鱼油和豆油为脂肪源，配制基础饲料，其组成及营养水平如表1所示。其中，鱼粉、豆粕、小麦粉、啤酒酵母和鱼油购自青岛七好生物科技有限公司，羧甲基纤维素、微晶纤维素购自临夏州华安生物制品有限责任公司，磷脂、预混料、胆碱，磷酸二氢钙购自青岛金海力水产科技有限公司。以维生素C多聚磷酸酯(购自青岛金海力水产科技有限公司，维生素C有效含量为 $3 5 \\%$ 作为维生素C添加源，参照谢全森等的报道，在基础饲料中分别添加0、1500、3000、4 500、6 000、7 500 和 $9 0 0 0 \\mathrm { m g / k g }$ 维生素C多聚磷酸酯，共配制7种试验饲料，试验饲料中维生素C含量实测值分别为10.2、249.1、402.8、616.2、769.5、909.4和 $\\mathrm { 1 ~ 1 7 7 . 8 ~ m g / k g }$ 。将饲料原料粉碎后过60目筛，混匀并制成粒径为 $5 \\mathrm { m m }$ 颗粒饲料，烘干后 ${ \\cdot 2 0 \\ \\mathrm { { ^ { \\circ } C } } }$ 保存备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f60973f13dcfeed5cde993b947dde24abc3963fffcf38dec89f8c142c4c9e44b.jpg",
+        "table_caption": [
+            "表1基础饲料组成及营养水平(风干基础",
+            "Table 1 Composition and nutrient levels of the basal diet（air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>鱼粉Fish meal</td><td>32.00</td></tr><tr><td>豆粕 Soybean meal</td><td>37.00</td></tr><tr><td>小麦粉Wheat meal</td><td>10.60</td></tr><tr><td>磷虾粉 Shrimp meal</td><td>8.00</td></tr><tr><td>啤酒酵母 Beer yeast</td><td>6.00</td></tr><tr><td>鱼油Fish oil</td><td>1.70</td></tr><tr><td>豆油 Soybean oil</td><td>1.70</td></tr><tr><td>磷脂Phospholipid</td><td>1.00</td></tr><tr><td>胆碱Choline</td><td>0.50</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/88560edfdd61646c731d3e5ddc1e7c35ff5b4fd9227de1bdb80b7eb2b031b8b8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>维生素预混料Vitaminpremixl</td><td>0.50</td></tr><tr><td>矿物质预混料Mineral premix2)</td><td>0.50</td></tr><tr><td>磷酸二氢Ca(H2PO4)2</td><td>0.50</td></tr><tr><td>合计Total</td><td>100.00</td></tr><tr><td>营养水平Nutrient levels</td><td></td></tr><tr><td>粗蛋白质CP</td><td>50.2</td></tr><tr><td>粗脂肪Crude lipid</td><td>8.6</td></tr><tr><td>粗灰分Ash</td><td>12.8</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)维生素预混料为每千克饲粮提供 The vitamin premix provided the folowing per $\\mathrm { k g }$ of the diet:维生素A 乙酸酯 VA acetate $9 0 0 0 \\mathrm { I U }$ ， $\\mathrm { V D } _ { 3 } 2 5 0 0 \\mathrm { m g }$ ，VE乙酸酯 VE acetate $1 0 0 ~ \\mathrm { { m g } }$ ， $\\mathrm { V B } _ { 1 } 2 5 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 4 0 ~ \\mathrm { m g }$ ，VB6 20 mg, $\\mathrm { V B } _ { 1 2 } 5 0 . 1 \\ \\mathrm { m g }$ ，VK $1 1 ~ \\mathrm { m g }$ ，生物素 biotin $1 . 2 ~ \\mathrm { m g }$ ，肌醇 inositol $7 0 0 ~ \\mathrm { { m g } }$ ，叶酸 folic acid $2 0 ~ \\mathrm { m g }$ 泛酸钙 calcium pantothenate $5 0 0 \\mathrm { m g }$ ，烟酸 niacin $1 5 0 0 \\mathrm { m g }$ 。2)矿物质预混料为每千克饲粮提供 The mineral premix provided the following per $\\mathrm { k g }$ of the diet:FeSO4·H2O 80 mg，CuSO4:5H2O 50 mg，MnSO4·H2O 45 mg，ZnSO4·HO 50 mg，MgSO4 1 500 mg，KIO30 $1 \\% )$ 80 mg, ${ \\bf N a } _ { 2 } { \\bf S O } _ { 3 }$ 20 mg， $\\mathrm { C O C l _ { 2 } } 5 0 \\ : \\mathrm { m g }$ ，沸石粉 zeolite powder $3 ~ 1 6 5 ~ \\mathrm { m g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2试验动物与饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "圆斑星鲽幼鱼来自烟台天源水产有限公司，选择体重为（ $( 3 8 . 0 { \\pm } 0 . 8 ) \\$ ） $\\mathrm { \\bf ~ g }$ 的同一批次健康幼鱼，随机分为7组，每组3个重复，每个重复30尾，组间初始体重差异不显著（ $P { > } 0 . 0 5$ ）。在（直径为 $5 3 \\mathrm { c m }$ 、高 $6 0 \\mathrm { c m }$ ）的圆柱型水槽内暂养1周，正式试验前停食$2 4 \\mathrm { ~ h ~ }$ 。由于冬季水温低，摄食率也较低，每天饱食投喂试验饲料1次(14:00)并记录摄食量，连续充气增氧，保证充足的氧气，安静环境，光照为自然光源。每天定时（08:00 和 15:00)换水。试验期间水温 $( 1 2 . 5 \\pm 1 . 5 ) \\$ $\\mathrm { { ^ \\circ C } }$ ， $\\mathrm { p H } ~ 7 . 8 { \\pm } 0 . 2 \\$ ，溶解氧含量 $6 . 0 ~ \\mathrm { { m g / L } }$ 以上。试验期8周。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集与指标测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "养殖试验起始和结束时分别对各桶中圆斑星鲽幼鱼进行记数、称重，计算生长指标。每桶随机抽取5尾鱼，从尾部静脉取血 $2 { \\mathrm { m L } }$ 左右，用 $1 \\%$ 的肝素钠抗凝，低温放置4h后$4 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ ，分离的血清于 ${ } _ { - 2 0 \\mathrm { ~ \\textdegree C } }$ 保存，用于测定血清过氧化氢酶（CAT），超氧化物歧化酶（SOD）和溶菌酶活力及丙二醛（MDA）含量；随后进行解剖，分离出胃、肠道用于蛋白酶、淀粉酶、脂肪酶活力测定；最后取肌肉，进行肌肉营养成分分析。其中取1尾鱼的肠道用Bouin 氏液固定，制作常规石蜡切片，切片厚度为 $6 { \\mu \\mathrm { m } }$ ，苏木精-伊红（HE）染色。用目视测微尺测定每段肠样中5个以上完整皱壁高度、黏膜厚度和肠壁厚度，并取平均值，显微观察并拍照 $( 1 0 \\times )$ 。饲料及肌肉样品均在 $1 0 5 \\mathrm { ~ \\textdegree ~ }$ 烘箱中烘至恒重，测得干物质含量；采用失重法在马福炉中（ $5 5 0 \\pm 2 0$ ） $\\mathrm { { } ^ { \\circ } C }$ 灼烧 $5 \\mathrm { h }$ 测定粗灰分含量；采用凯氏定氮法（VELP，UDK142 Autom Atic Distillation Unit，意大利）测定粗蛋白质含量；以石油醚为抽提液，采用索氏抽提法（SOXTEC2050FOSS脂肪测定仪，瑞典）测定粗脂肪含量；各种酶的活力采用南京建成生物工程研究生产的试剂盒进行测定。维生素C含量采用2，4-二硝基苯肼法测定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4 计算公式",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "增重率 $_ { \\mathrm { - } 1 0 0 }$ （试验末平均体重-试验初平均体重）／试验初平均体重;成活率 $_ { \\cdot = 1 0 0 } \\times$ 试验末鱼体尾数／试验初鱼体尾数；饲料效率（FER） $\\scriptstyle = 1 0 0 \\times$ 总增重／投饲总量;特定生长率（SGR） $\\scriptstyle = 1 0 0 \\times$ （ln 试验末平均体重-ln试验初平均体重）／养殖天数;摄食率（FR） $\\scriptstyle = 1 0 0 \\times$ 投饲总量／[试验初鱼体总重十试验末鱼体总重）/ $2 \\times$ 养殖天数]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验结果以平均值±标准差表示，用 SPSS17.0软件的ANOVA过程进行单因素方差分析(one-wayANOVA)，采用Duncan 氏法进行多重比较检验， $P { < } 0 . 0 5$ 为差异显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1饲料中维生素C含量对圆斑星鲽幼鱼生长性能的影响 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲料中维生素C含量对圆斑星鲽幼鱼生长性能的影响见表2。经过56d的养殖试验，圆斑星鲽幼鱼表现出较好的生长趋势，体重由 $3 8 . 8 \\ \\mathrm { g }$ 增长到 $8 4 . 6 \\ \\mathrm { g }$ ，增加了 $1 1 0 \\%$ 。各组间的特定生长率、成活率没有显著差异（ $. P { > } 0 . 0 5$ ）。随着饲料中维生素C含量的增加，圆斑星鲽幼鱼摄食率、增重率、饲料效率先呈升高趋势；当维生素C含量达到或超过616.2mg/kg 时，出现生长平台期或受到抑制呈下降趋势。249.1、402.8、616.2、769.5和1177.8mg/kg 维生素C组的增重率均显著高于10.2 和 $9 0 9 . 4 ~ \\mathrm { m g / k g }$ 维生素C组（ $_ { . } { \\cdot } { \\cdot } { \\cdot } { \\cdot } { \\cdot } ^ { } \\ .$ ），616.2mg/kg 维生素C组的饲料效率显著高于其他各组（ $P { < } 0 . 0 5$ ）， $6 1 6 . 2 \\mathrm { m g / k g }$ 维生素C组的摄食率显著高于除 $\\mathrm { 1 ~ 1 7 7 . 8 ~ m g / k g }$ 维生素C组外的其他各组（ $P { < } 0 . 0 5$ ）。由表2中数据可以得出，圆斑星鲽幼鱼达到最大生长时，饲料中维生素C含量为 $6 0 6 . 2 \\mathrm { m g / k g }$ L",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d46ea84c0b49e6ae7946355f480d293ce4ce18fff7d3dc9baa380dceb4f896e.jpg",
+        "table_caption": [
+            "表2饲料中维生素C含量对圆斑星鲽幼鱼生长性能的影响",
+            "Table 2 Effects of dietary vitamin C content on growth performance of juvenile spotted halibut $\\%$ "
+        ],
+        "table_footnote": [
+            "同列数据肩标不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td>维生素C含量</td><td>增重率</td><td>成活率</td><td>饲料效率</td><td>特定生长率</td><td>摄食率</td></tr><tr><td>Vitamin C</td><td>WGR/%</td><td>SR/%</td><td>FER/%</td><td>SGR/(d/%</td><td>FR/(d/%)</td></tr><tr><td>content/(mg/kg)</td><td></td><td></td><td></td><td>）</td><td></td></tr><tr><td>10.2</td><td>78.25±3.95a</td><td>84.23±4.49</td><td>92.22±6.94b</td><td>1.01±0.04</td><td>1.35±0.06ab</td></tr><tr><td>249.1</td><td>94.21±3.45b</td><td>96.04±3.00</td><td>93.33±6.66c</td><td>1.06±0.14</td><td>1.36±0.16b</td></tr><tr><td>402.8</td><td>105.44±3.81bc</td><td>94.73±1.65</td><td>91.11±1.92a</td><td>1.08±0.13</td><td>1.37±0.03b</td></tr><tr><td>616.2</td><td>114.39±7.97c</td><td>93.10±4.22</td><td>95.56±5.09d</td><td>1.15±0.09</td><td>1.44±0.07c</td></tr><tr><td>769.5</td><td>112.11±2.11c</td><td>94.00±4.54</td><td>91.11±5.09a</td><td>1.10±0.05</td><td>1.34±0.18a</td></tr><tr><td>909.4</td><td>82.10±13.28a</td><td>87.55±6.63</td><td>93.33±6.67c</td><td>1.05±0.13</td><td>1.30±0.08a</td></tr><tr><td>1 177.8</td><td>94.73±6.38b</td><td>90.37±1.63</td><td>93.66±5.77c</td><td>1.04±0.02</td><td>1.39±0.05bc</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Values with different letter superscripts in the same row were significantly different $( P { < } 0 . 0 5 )$ . The same as below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2饲料中维生素C含量对圆斑星鲽幼鱼肌肉营养成分的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲料中维生素C含量对圆斑星鲽幼鱼肌肉营养成分的影响见表3。饲料中维生素C 含量对圆斑星鲽幼鱼肌肉中水分含量的影响没有显著差异（ $P { > } 0 . 0 5 \\$ ）。249.1和 $4 0 2 . 8 ~ \\mathrm { m g / k g }$ 维生素C 组肌肉中粗灰分的含量显著高于除 $9 0 9 . 4 ~ \\mathrm { m g / k g }$ 维生素C 组外的其他各组（ $P { < } 0 . 0 5$ ）。249.1、402.8、616.2、769.5mg/kg 维生素C 组肌肉中粗蛋白质含量差异不显著（ $. P { > } 0 . 0 5$ ），但均显著高于10.2、909.4、1177.8mg/kg 维生素C组（ $P { < } 0 . 0 5$ ）。随着饲料中维生素C含量由 $1 0 . 2 ~ \\mathrm { m g / k g }$ 增加到 $4 0 2 . 8 ~ \\mathrm { m g / k g }$ ，肌肉中粗脂肪含量显著升高（ $. P { < } 0 . 0 5$ ），再继续增加维生素C含量达到 $7 6 9 . 5 ~ \\mathrm { m g / k g }$ 后，肌肉中粗脂肪含量显著降低（ $. P { < } 0 . 0 5 \\$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae63967fdc44bbd512b6e35a38aa6f05908423989171e436a58435c02ad7b83d.jpg",
+        "table_caption": [
+            "表3饲料中维生素C含量对圆斑星鲽幼鱼肌肉营养成分的影响",
+            "Table 3Efects of dietary vitamin Ccontent on nutrient composition of muscle of juvenile spotted halibut "
+        ],
+        "table_footnote": [
+            "2.3饲料中维生素C含量对圆斑星鲽幼鱼组织维生素C积累量的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>维生素C含量</td><td>水分</td><td>粗灰分</td><td>粗蛋白质</td><td>粗脂肪</td></tr><tr><td>Vitamin C</td><td>Moisture</td><td>Ash</td><td>Crude protein</td><td>Crude lipid</td></tr><tr><td>content/(mg/kg) 10.2</td><td>18.02±0.45</td><td>1.74±0.12a</td><td>77.61±2.52a</td><td>2.30±0.52a</td></tr><tr><td>249.1</td><td>17.38±1.04</td><td>1.91±0.02c</td><td>79.08±0.32b</td><td>3.86±0.15b</td></tr><tr><td>402.8</td><td>19.09±1.52</td><td>2.00±0.03c</td><td>78.66±0.64b</td><td>5.26±0.75d</td></tr><tr><td>616.2</td><td>15.10±0.61</td><td>1.77±0.15a</td><td>78.71±0.10b</td><td>4.50±0.26cd</td></tr><tr><td>769.5</td><td>14.98±1.05</td><td>1.87±0.02b</td><td>78.80±0.30b</td><td>4.13±0.25bc</td></tr><tr><td>909.4</td><td>17.16±2.19</td><td>1.89±0.01bc</td><td>77.65±0.35a</td><td>4.33±0.37c</td></tr><tr><td>1 177.8</td><td>16.89±0.45</td><td>1.88±0.03b</td><td>77.45±0.24a</td><td>4.10±0.62bc</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，肝脏、肌肉和血清中维生素C含量均随着饲料中维生素C含量的增加呈先显著上升 $( P { < } 0 . 0 5 )$ 后趋于平稳的趋势。图1-A和图1-B显示当维生素C含量达到769.5$\\mathrm { m g / k g }$ 时，肝脏和肌肉中维生素C的积累达到饱和，维生素C含量在 $\\mathrm { 1 ~ 1 7 7 . 8 ~ m g / k g }$ 时肝脏维生素C含量有所下降但仍显著高于维生素C含量为10.2、249.1、402.8、 $6 1 6 . 2 \\mathrm { m g / k g }$ 时$( P { < } 0 . 0 5 )$ 。血清中维生素C含量在维生素C含量达到 $9 0 9 . 4 ~ \\mathrm { m g / k g }$ 后出现平台期（图1-C）。综合以上结果得出，维生素C在组织中最大积累量出现在饲料维生素C含量为 $7 6 9 . 5 \\mathrm { m g / k g }$ 时。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/84f9b201fdb8fd2f5ecd1a52a579c392778ac5533a079c9a2e4924ac46a5e431.jpg",
+        "img_caption": [
+            "图1-1饲料中维生素C含量/(mg/kg) DietaryvitaminClevels "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0c939c9ecabe3454cd4641e40e0c3475525a6f0accf468716e21547af41db40.jpg",
+        "img_caption": [
+            "图1-2饲料中维生素C含量/mg/kg）Dietaryvitamin Clevels"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "128 ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/81883a992907bd35456298cdee2d522f660780d885d1ba270fe34b91e46a129c.jpg",
+        "img_caption": [
+            "图1-3饲料维生素C含量/ $\\bf ( m g / k g )$ 0 Dietary vitamin Clevels ",
+            "图1饲料中维生素C对圆斑星鲽幼鱼组织维生素C积累量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Effects of dietary vitamin C content on vitamin C accumulation in tissues of juvenile spotted halibut ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4饲料中维生素C含量对圆斑星鲽幼鱼血清抗氧化系统及溶菌酶活力的影响由图 2-A可知，随着饲料中维生素C含量的增加，血清中MDA含量先降低，在饲料中维生素C含量为616.2和 $7 6 9 . 5 \\mathrm { m g / k g }$ 时出现低谷，显著低于除 $4 0 2 . 8 ~ \\mathrm { m g / k g }$ 维生素C组外的其他各组（ $P { < } 0 . 0 5$ ）；当饲料中维生素C含量高于 $7 6 9 . 5 \\mathrm { m g / k g }$ 时，MDA含量又开始升高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图2-B可知，血清中CAT活力在饲料中维生素C含量为 $4 0 2 . 8 ~ \\mathrm { m g / k g }$ 时达到最高（9.05U/mL），显著高于其他各组（ $P { < } 0 . 0 5$ ）；饲料中维生素C含量超过 $4 0 2 . 8 ~ \\mathrm { m g / k g }$ 后，血清中CAT活力受到抑制呈下降趋势，但仍显著高于 $1 0 . 2 \\mathrm { m g / k g }$ 维生素C组（ $P { < } 0 . 0 5$ ）。由图2-C 可知，血清中 SOD活力在饲料中维生素C含量为402.8、616.2、769.4 mg/kg时处在高峰并出现平台期；饲料中维生素C含量高于 $7 6 9 . 4 \\mathrm { m g / k g }$ 后显著下降（ $P { < } 0 . 0 5$ ），但仍显著高于 $1 0 . 2 \\mathrm { m g / k g }$ 维生素C组（ $P { < } 0 . 0 5 )$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由图2-D可知，血清中溶菌酶活力随着饲料中维生素C含量的增加出现先升高后下降的趋势，在饲料中维生素C含量为 $4 0 2 . 8 ~ \\mathrm { m g / k g }$ 时达到最高，显著高于其他各组（ $P { < } 0 . 0 5 { \\mathrm { : } }$ ），饲料中维生素C含量高于 $4 0 2 . 8 \\mathrm { m g / k g }$ 后溶菌酶活力受到抑制呈下降趋势。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/af32c5a3e9a0d89a7882ef5e11f6e8a48ea0a277f82f3e04f49685768009fddd.jpg",
+        "img_caption": [
+            "图2-2饲料中维生素C含量/（mg/kg） Dietary vitaminClevels "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "146 ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/15b344c4416027289980b5442bc135ddd9fd33dd3b712d5a089172a2348a6b43.jpg",
+        "img_caption": [
+            "图2-1饲料中维生素C(含量/mg/kg)DietaryvitaminClevels"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "147   \n148   \n149   \n150   \n151 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（/n） 140 C L  \n120 d d  \n100  \n80 a  \n60  \n40  \n20  \n010.2 249.1402.8616.2769.5 909.41177.8图2-3饲料中维生素C含量/(mg/kg)Dietary vitamin Clevels",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7f37e118ab8006cb7f72b769911fb04012854c59ed925db678669bab1b8d198.jpg",
+        "img_caption": [
+            "图2-4饲料中维生素C含量/(mg/kg) DietaryvitaminClevels ",
+            "图2饲料中维生素C含量对圆斑星鲽幼鱼血清抗氧化系统及溶菌酶活力的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Effects of dietary vitamin Ccontent on serum antioxidant system and lysozyme activityof juvenile spoted ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "halibut ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5饲料中维生素C对圆斑星鲽幼鱼消化酶活力的影响 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "饲料中维生素C对圆斑星鲽幼鱼淀粉酶和蛋白酶活力的影响见表4。胃和肠道蛋白酶活力随着饲料中维生素C含量的增加呈先升高后降低的趋势。胃蛋白酶活力在 $7 6 9 . 5 \\mathrm { m g / k g }$ 维生素C 组最高，显著高于10.2、249.1、 $4 0 2 . 8 \\mathrm { m g / k g }$ 维生素C组（ $P { < } 0 . 0 5$ ）；肠道蛋白酶活力在 $6 1 6 . 2 \\mathrm { m g / k g }$ 维生素C组最高，显著高于除 $7 6 9 . 5 \\mathrm { m g / k g }$ 维生素C组外的其他各组（P<0.05）。胃淀粉酶活力在饲料中维生素C含量为 $4 0 2 . 8 \\mathrm { m g / k g }$ 时达到最高，继续增加维生素C含量后未发生显著变化（ $. P { > } 0 . 0 5$ ），但在维生素C含量达到 $\\mathrm { 1 ~ 1 7 7 . 8 ~ m g / k g }$ 时出现下降，但仍显著高于 $1 0 . 2 \\mathrm { m g / k g }$ 维生素C组（ $. P { < } 0 . 0 5$ ）。肠道淀粉酶活力随着饲料中维生素C 含量的增加而呈先升高后下降趋势，在维生素C含量为 $6 1 6 . 2 \\mathrm { m g / k g }$ 时达到最高。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表4饲料中维生素C含量对圆斑星鲽幼鱼淀粉酶、蛋白酶活力的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a4835d8eae22708b008a1b2c2826dc6666470027e048ccb03e449c064b82c25.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary vitamin Ccontent on amylase and protease activities of juvenile spotted halibut "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>维生素C含量</td><td colspan=\"2\">蛋白酶 Protease/（U/mg prot)</td><td colspan=\"2\">淀粉酶 Amylase/(U/mg prot)</td></tr><tr><td>Vitamin C content/(mg/kg)</td><td>胃 Stomach</td><td>肠道Intestine</td><td>胃 Stomach</td><td>肠道Intestine</td></tr><tr><td>10.2</td><td>7.54±1.18a</td><td>32.11±1.74a</td><td>0.26±0.01a</td><td>0.33±0.01a</td></tr><tr><td>249.1</td><td>17.99±0.82b</td><td>39.99±1.52b</td><td>0.29±0.00b</td><td>0.38±0.00b</td></tr><tr><td>402.8</td><td>19.48±0.88b</td><td>41.96±0.11b</td><td>0.42±0.07d</td><td>0.40±0.00c</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b511b31161bb80569d22624204d2a2c1e6e95f6f92417ecab9eb1d41eaeae32.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>616.2</td><td>22.17±0.93c</td><td>45.26±0.24c</td><td>0.41±0.05d</td><td>0.45±0.01c</td></tr><tr><td>769.5</td><td>27.65±2.07c</td><td>43.33±0.39c</td><td>0.41±0.01d</td><td>0.43±0.00c</td></tr><tr><td>909.4</td><td>25.01±1.15c</td><td>42.26±0.82b</td><td>0.41±0.01d</td><td>0.39±0.01b</td></tr><tr><td>1 177.8</td><td>22.16±0.09c</td><td>40.98±0.12b</td><td>0.38±0.08c</td><td>0.38±0.03b</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "饲料中维生素C对圆斑星鲽幼鱼脂肪酶活力的影响见表5。胃和肠道脂肪酶活力随着饲料中维生素C含量的增加呈先升高后降低的趋势。胃脂肪酶活力在维生素C含量为$6 1 6 . 2 ~ \\mathrm { m g / k g }$ 时最高，与249.1、402.8、769.5mg/kg维生素C组差异不显著（ $P { > } 0 . 0 5 \\$ ）；维生素C含量高于 $7 6 9 . 5 ~ \\mathrm { m g / k g }$ 后胃脂肪酶活力有所下降，与 $1 0 . 2 ~ \\mathrm { m g / k g }$ 维生素C组差异不显著（ $P { > } 0 . 0 5$ ）。肠道脂肪酶活力在 $4 0 2 . 8 ~ \\mathrm { m g / k g }$ 维生素C 组最高，显著高于除 616.2$\\mathrm { m g / k g }$ 维生素C组外的其他各组（ $_ { \\cdot \\cdot P < 0 . 0 5 }$ ）。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/a034b34c5b324a601553b443b25654b84ac6b1b2e24817e7eae917cb39b5f7b2.jpg",
+        "table_caption": [
+            "表5饲料中维生素C含量对圆斑星鲽幼鱼脂肪酶活力的影响",
+            "Table 5 Effects of dietary vitamin C content on lipase activity of juvenile spotted halibut $\\mathrm { \\Delta } \\mathrm { U } / \\mathrm { g }$ prot "
+        ],
+        "table_footnote": [
+            "2.6饲料中维生素C含量对圆斑星鲽幼鱼肠道形态结构的影响 "
+        ],
+        "table_body": "<html><body><table><tr><td>维生素C含量</td><td colspan=\"2\">脂肪酶Lipase</td></tr><tr><td>Vitamin C</td><td>胃 Stomach</td><td>肠道Intestine</td></tr><tr><td>content/(mg/kg)</td><td></td><td>2.73±0.42a</td></tr><tr><td>10.2 249.1</td><td>1.19±0.07a 1.96±0.04b</td><td>5.46±0.42b</td></tr><tr><td>402.8</td><td>2.25±0.08b</td><td>6.94±0.41c</td></tr><tr><td>616.2</td><td>3.67±0.17b</td><td>6.84±0.53c</td></tr><tr><td>769.5</td><td>3.37±0.22b</td><td>5.46±0.85b</td></tr><tr><td>909.4</td><td>3.27±0.25a</td><td>4.74±0.41b</td></tr><tr><td></td><td>2.52±0.32a</td><td></td></tr><tr><td>1 177.8</td><td></td><td>5.21±0.74b</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "饲料中维生素C含量对圆斑星鲽幼鱼肠道显微结构指标的影响见表6。402.8、616.2、$7 6 9 . 5 \\mathrm { m g / k g }$ 维生素C组的皱襞高度与肠壁厚度均显著高于其他组（ $. P { < } 0 . 0 5$ ），909.4、1$1 7 7 . 8 ~ \\mathrm { m g / k g }$ 维生素C组的皱襞高度虽较上述几组显著降低（ $_ { . } P { < } 0 . 0 5$ ），但仍显著高于10.2mg/kg维生素C组（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ），而10.2、249.1、909.4、 $\\mathrm { 1 ~ 1 7 7 . 8 ~ m g / k g }$ 维生素C组的肠壁厚度差异不显著（ $P { > } 0 . 0 5$ ）。随着饲料中维生素C含量的增加，黏膜厚度呈先增加后降低的趋势，616.2、 $7 6 9 . 5 \\mathrm { m g / k g }$ 维生素C组显著高于其他各组（ $_ { \\cdot \\cdot P < 0 . 0 5 }$ ），402.8、909.4、1$1 7 7 . 8 \\mathrm { m g / k g }$ 维生素C组间无显著差异（ $. P { > } 0 . 0 5$ ），但均显著高于 $1 0 . 2 \\mathrm { m g / k g }$ 维生素C组（ $. P { < } 0 . 0 5 )$ ）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ab46df65b87a298fd2b713bc922ef815d4ddad9ba7a8cdbe7d9ac4d9efcd6b1.jpg",
+        "table_caption": [
+            "表6饲料中维生素C含量对圆斑星鲽幼鱼肠道显微结构指标的影响",
+            "Table 6Effects of dietary vitamin Ccontent on intestinal microscopic structure parameters of juvenile spotted "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">halibut μm</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>维生素C含量</td><td>皱襞高度</td><td>肠壁厚度</td><td>黏膜厚度</td></tr><tr><td>Vitamin C</td><td>FH</td><td>IT</td><td>IM</td></tr><tr><td>content/(mg/kg)</td><td></td><td></td><td></td></tr><tr><td>10.2</td><td>323.81±19.05a</td><td>61.90±4.76a</td><td>25.39±2.74a</td></tr><tr><td>249.1</td><td>592.06±27.90c</td><td>53.97±7.27a</td><td>30.15±2.75ab</td></tr><tr><td>402.8</td><td>685.71±19.05d</td><td>73.02±2.75b</td><td>33.33±4.76b</td></tr><tr><td>616.2</td><td>666.66±17.17d</td><td>74.60±2.75b</td><td>52.38±4.56c</td></tr><tr><td>769.5</td><td>690.48±19.05d</td><td>79.36±2.75b</td><td>52.38±4.76c</td></tr><tr><td>909.4</td><td>506.35±21.47b</td><td>57.14±4.76a</td><td>34.92±2.75b</td></tr><tr><td>1 177.8</td><td>507.94±19.83b</td><td>60.31±9.91a</td><td>36.51±2.75b</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "饲料中维生素C对圆斑星鲽肠道形态结构的影响(中肠)见图3。 $1 0 . 2 \\mathrm { m g / k g }$ 维生素C组中肠壁厚度较薄，肠皱襞较粗，排列稀疏，绒毛黏膜厚度较薄（图3-I）；随着维生素C含量的逐渐增加，肠壁厚度开始增加，肠皱襞变得细长，排列紧密整齐，绒毛厚度增厚，上皮细胞保持完整（图3-II、图3-III、图3-IV、图3-V）；维生素C含量超过769.5mg/kg后肠皱襞变得粗短稀疏，肠壁厚度变薄（图3-VI、图3-VII）。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/30dda8aa1e0eec422a36ac8dad144f3f4ba546523a592ce05ba37e36bc0a8cd3.jpg",
+        "img_caption": [
+            "图3饲料中维生素C含量对圆斑星蝶幼鱼肠道形态结构的影响(中肠)"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Effects of dietary vitamin Ccontent on intestinal morphology of juvenile spotted halibut (mid-intestine, $1 0 \\times$ 0IM:肠道黏膜 intestinal mucosa；IT:肠壁厚度 intestinal wall thickness；FH:皱襞高度 fold height。图I、II、II、IV、V、VI、VI分别表示 10.2、249.1、402.8、616.2、769.5、909.4、11778 mg/kg 维生素C组FiguresI，II,II,IV,V,VI and VII represented 10.2,249.1,402.8,616.2,769.5,909.4 and1 177.8 mg/kgvitamin C groups, respectively.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.1饲料中维生素C含量对圆斑星鲽幼鱼生长性能的影响 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "研究报道，在饲料中添加一定水平的维生素C可以有效加快鱼类的生长，但是过高水平的维生素C反而对鱼类的生长起到抑制作用[7]，由于本试验在冬季进行，养殖水温较低，试验结果中最大增重率为 $1 1 0 \\%$ ，整体增重率和成活率相对工厂生产养殖较低，随着饲料中维生素C 含量的增加，圆斑星鲽幼鱼的成活率没有显著影响，这一结果与张道波等[8]报道的饲料中添加维生素C 对牙鲆的成活率影响不显著的研究结果相一致。随着饲料中维生素C 含量的增加，圆斑星鲽幼鱼的特定生长率、增重率和饲料效率先呈升高趋势，当维生素C 含量达到或超过 $6 1 6 . 2 ~ \\mathrm { m g / k g }$ 时，出现生长平台期或受到抑制呈下降趋势，该结果与在花鲈[9]、大口黑鲈[10]等的上的研究结果一致，证明在饲料中添加适量的维生素C 可以提高海水鱼类的生长性能。数据显示圆斑星鲽幼鱼获得最大特定生长率、增重率和饲料效率的饲料维生素C含量为 $6 1 6 . 2 ~ \\mathrm { { m g / k g } }$ ，低于漠斑牙鲆回最适生长所需维生素C（ $0 . 1 \\% \\sim$ （204号 $0 . 2 \\%$ ），但高于鲈[6]、翘嘴红鲍[]等，其维生素C有效需求量分别为 50.1 和 $7 0 . 0 ~ \\mathrm { m g / k g }$ （结果的差异可能是不同鱼类生理代谢维生素C的效率不同所致。  \n3.2饲料中维生素C含量对圆斑星鲽幼鱼肌肉营养成分的影响  \n由本试验结果可知，圆斑星鲽幼鱼肌肉中水分含量不受饲料维生素C含量的显著影响，粗灰分含量在249.1和402.8 mg/kg维生素C组较其他组升高。而肌肉粗蛋白质含量随维生素C含量增加先显著升高，在维生素C含量达到909.4mg/kg后开始下降，这与在罗非鱼[、军曹鱼[12]上得出的肌肉中粗蛋白质、粗灰分含量不受饲料维生素C含量的影响的结果不同。维生素C是肉碱合成的辅助因子[13]，而肉碱又与脂肪代谢有密切联系，缺乏维生素C时，机体还表现出胶原蛋白合成受阻，因此维生素C在某种程度上可以调控鱼体的成分。目前这些研究结果存在差异除了与试验对象和试验条件有关，还可能与维生素C的添加量有关。圆斑星鲽幼鱼肌肉中粗脂肪含量随维生素C含量的增加呈先升高后下降的趋势，这与周歧存等[7]在点带石斑鱼的研究中得出的饲料中缺乏维生素C或添加量过高均可使体脂含量下降的结果相同，其可能原因是维生素C参与体内脂肪的代谢，其作用机理还需进一步研究。3.3饲料中维生素C 含量对圆斑星鲽幼鱼组织维生素C积累量的影响  \n肝脏、血清和肌肉中的维生素C含量通常作为评价鱼类维生素C营养状态的重要指标[9]。Dabrowski等[14]研究认为使组织中维生素C含量达到稳定时的饲料中维生素C含量即为最适需要量。本试验结果显示，随着饲料维生素C含量的增加，组织中维生素C含量先呈上升趋",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "势，当维生素C含量达到769.5mg/kg时肝脏和肌肉中维生素C的积累达到饱和状态。肝脏中维生素C含量明显高于肌肉和血清，说明肝脏是体内维生素C主要的积累和代谢场所。随着饲料维生素C含量的增加血清中维生素C含量持续上升，各组间差异较大，说明鱼体血清中维生素C含量取决于饲料中维生素C的含量，这与文杰[15]的研究报道一致。本试验结果得出圆斑星鲽幼鱼饲料中维生素C含量在769.5mg/kg时组织维生素C积累量最大。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.4饲料中维生素C含量对圆斑星鲽幼鱼血清抗氧化系统及溶菌酶活力的影响",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "动物机体提高抗氧化能力，清除体内过多自由基的防御系统有酶系统和非酶系统。其中酶系统主要包括 SOD 和CAT 等抗氧化酶。SOD 和CAT 可以有效清除体内自由基，从而使自由基处于形成与消除的平衡状态，避免机体产生过氧化损伤。但机体抗氧化酶活力不高时机体抗氧化能力下降，使机体不能及时有效地清除产生的氧自由基。氧自由基加快机体脂质过氧化，从而使脂质过氧化产物 MDA 的含量增加[16]。本试验结果显示，当饲料中维生素C含量达到 $4 0 2 . 8 ~ \\mathrm { m g / k g }$ 时，血清中 SOD和CAT的活力最高，MDA含量最低,此时机体抗氧化能力增强。此结果表明通过外源添加维生素C可以中和或消除一定量的MDA，从而使机体油脂氧化减轻。当饲料中维生素C含量超过 $7 6 9 . 5 ~ \\mathrm { m g / k g }$ 时，血清中SOD 和CAT 活力下降，从而清除体内自由基的能力下降，使机体脂质过氧化产物增加，MDA 含量上升。上述结果说明饲料中维生素C含量过高或过低都不利于圆斑星鲽幼鱼的抗氧化能力的发挥，这与周显青等[17]、明建华等[18]的研究结果一致。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "溶菌酶是鱼类非特异性免疫系统中重要的水解酶。吞噬细胞之所以能吞噬有害物质，是因为溶菌酶水解革兰氏阳性菌细胞壁中黏肽的乙酰氨基多糖并使之裂解释放，消解入侵的有害细菌等，以防御机体受损[19-20]。本试验结果显示，在维生素C含量为402.8 mg/kg时溶菌酶活力达到最高，当维生素C含量超过402.8mg/kg时开始下降，在凡纳滨对虾[21]、花鲈[4]、大菱鲆[22]等上也得到相似的结果。该结果表明圆斑星鲽幼鱼饲料中维生素C含量为402.8 mg/kg时非特异性免疫力最强。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.5饲料维生素C含量对圆斑星鲽幼鱼消化酶活力的影响 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "鱼类要依靠胃肠道消化吸收营养物质，反映胃肠道消化能力的重要指标是其消化酶的活力。当营养条件变化时，鱼类自身会调节酶的合成和分泌，以适应新的代谢。本试验结果显示，随着饲料中维生素C含量的增加，蛋白酶、淀粉酶和脂肪酶的活力呈先升高后降低的趋势，消化酶活力与快速生长增重呈正相关。饲料中添加一定量的维生素C提高了圆斑星鲽的胃肠道消化酶活力，进而促进营养物质的消化吸收，这一结果与叶元土等[23]的研究结果相一致。当饲料中维生素C含量超过 $7 6 9 . 5 \\mathrm { m g / k g }$ 时，胃和肠道蛋白酶和淀粉酶的活力下降，这与生长性能、血清抗氧化酶活力的下降节点一致，说明维生素C添加过量对圆斑星鲽幼鱼各项生理指标起抑制作用。据报道，幼健鲤对于泛酸[24]、烟酸[25]等营养物质的研究也得到这一规律。胃和肠道脂肪酶活力在维生素C含量为 $4 0 2 . 8 ~ \\mathrm { m g / k g }$ 时最高，维生素C含量高于 $4 0 2 . 8 \\mathrm { m g / k g }$ 后脂肪酶活力与维生素C含量呈负相关，该结果与在杂食性的鲤鱼[26]上所得结果相反，可能原因是饲料中蛋白质水平较高，使其有充足的蛋白质用于供能和沉积，使机体对脂肪的需求减少。本试验得出促进圆斑星鲽幼鱼消化吸收的饲料维生素C最低含量为 $6 1 6 . 2 \\mathrm { m g / k g }$ 。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.6饲料维生素C含量对圆斑星鲽幼鱼肠道形态结构的影响 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "动物主要在肠道吸收营养物质，但水生动物的肠道一般没有肠绒毛只有皱璧，具有吸收营养物质功能的肠上皮细胞分布在皱襞上。研究表明，鱼类肠道皱璧高度可以反映肠道对营养物质的吸收能力[27]。皱襞高度越高、数量越多，小肠的吸收面积越大。肠壁厚度影响营养物质的吸收利用率[28]，黏膜厚度反映肠道发育成熟程度[29]。从本试验对圆斑星鲽幼鱼肠道切片组织的观察可知，249.1、402.8 和 $6 1 6 . 2 \\mathrm { m g / k g }$ 维生素C组的皱襞高度、黏膜厚度与肠壁厚度均显著高于其他组，表明饲料中适宜含量的维生素C能有效促进鱼类肠道皱襞高度和黏膜厚度的增加；其他组皱襞高度较短，排列稀疏，黏膜及肠壁较薄，说明饲料中缺乏或过量的维生素C不利于鱼类肠道的生长发育及对营养物质的吸收。本试验中，促进圆斑星鲽幼鱼肠道生长发育，利于营养物质消化吸收的维生素C含量为 $2 4 9 . 1 \\sim 6 1 6 . 2 \\$ mg/kg。目前关于添加维生素C对海水鱼肠道形态结构影响的研究较少，对幼建鲤[30-311的研究较多，其研究结果与本试验结果一致。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 由结果可知，促进圆斑星鲽幼鱼生长的饲料维生素C含量为 $6 1 6 . 2 \\mathrm { m g / k g }$ ，达到组织最大维生素C积累量的饲料维生素C含量为 $7 6 9 . 5 \\mathrm { m g / k g }$ ，使圆斑星鲽幼鱼具有最高抗氧化能力和非特异性免疫力的饲料维生素C含量为 $4 0 2 . 8 ~ \\mathrm { m g / k g }$ ，促进圆斑星鲽幼鱼营养物质",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "消化的饲料维生素C含量为 $6 1 6 . 2 \\mathrm { m g / k g }$ ，促进肠道生长发育、利于营养物质吸收的饲料维  \n生素C含量为 $2 4 9 . 1 { \\sim } 6 1 6 . 2 \\ \\mathrm { m g / k g } \\circ$ $\\textcircled{2}$ 从水产养殖的经济效益和病害方面考虑，建议圆斑星鲽幼鱼饲料中维生素C的实际  \n含量在 $4 0 2 . 8 { \\sim } 6 1 6 . 2 ~ \\mathrm { m g / k g } \\circ$ （20号  \n参考文献:  \n[1] 宋学宏,蔡春芳,潘新法,等.用生长和非特异性免疫力评定异育银鲫维生素C需要量[J].水产学报,2002,26(4):351-356.  \n[2] 沈同,王镜岩.生物化学[M].2版.北京:高等教育出版社,1995:365-367.  \n[3] 万金娟,刘波,戈贤平,等.日粮中不同水平维生素C对团头鲂幼鱼免疫力的影响[J].水生生物学报,2014,38(1):10-18.  \n[4]周立斌,张伟,王安利,等.饲料维生素C对花鲈(Lateolabrax japonicus)幼鱼生长和免疫的影响[J].海洋与湖沼,2008,39(6):671-677.  \n[5]EO J,LEE K J.Effect of dietary ascorbic acid on growth and non-specific immune responsesof tiger puffer,Takifugu rubripes[J].Fish & Shellfish Immunology,2008,25(5):611-616.  \n[6] 谢全森,李俊伟,杨振才.鲆鲽鱼类维生素及微量元素营养需求研究进展[J].现代农业科学,2008,15(12):5-7.  \n[7]周歧存,刘永坚,麦康森,等.维生素C对点带石斑鱼(Epinephelus Coioides)生长及组织中维生素C积累量的影响[J].海洋与湖沼,2005,35(2):152-158.  \n[8]张道波,李爱杰,王如才.牙鲆对维生素C需求量的研究[J].饲料工业,2002,23(5):37-38.  \n[9]AI Q H,MAI K S,ZHANG C X,et al.Effects of dietary vitamin C on growth and immuneresponse of Japanese seabass,Lateolabrax japonicus[J].Aquaculture,2004,242(1/2/3/4):489-500.  \n[10] 谢一荣,吴锐全,谢骏,等.维生素C对大口黑鲈生长与非特异性免疫的影响[J].南方水产,2006,2(3):40-45.  \n[11] 陈建明,叶金云,潘茜,等.饲料中添加维生素C对翘嘴鱼种生长及组织中抗坏血酸含量的影响[J].中国水产科学,2007,14(1):106-112.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "12] AL-AMOUDI M M,EL-NAKKADI A M N,EL-NOUMAN B M.Evaluation of optimum dietary requirement of vitamin C for the growth of Oreochromis spilurus fingerlings in water from the Red Sea[J].Aquaculture,1992,105(2):165-173 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[13] Oguntibeju OO. The biochemical， physiological and therapeutic roles of ascorbic acid [J].Afr J Biotechnol,2008,7(25):4700-4705.  \n[14]DABROWSKI K,EL-FIKY N,KOCK G,et al.Requirement and utilization of ascorbic acidand ascorbic sulfate in juvenile rainbow trout[J].Aquaculture,199o,91(3/4):317-337.  \n[15]文杰.维生素E和维生素C生理功能的相互关系[J].国外畜牧科技,1995,22(1):6-9.  \n[16] 陈昌生,王淑红,纪德华,等.氨氮对九孔鲍过氧化氢酶和超氧化物歧化酶活力的影响[J].上海水产大学学报,2001,10(3):218-222.  \n[17]周显青,李胜利,王晓辉,等.维生素C多聚磷酸酯对小鼠肝脏脂质过氧化物和抗氧化物酶的影响[J].动物学报,2004,50(3):370-374.  \n[18] 明建华,谢骏,徐跑,等.大黄素、维生素C及其配伍对团头鲂生长、生理生化指标、抗病原感染以及两种HSP70smRNA表达的影响[J].水产学报,2010,34(9):1447-1459.  \n[19] 杨先乐.鱼类免疫学研究的进展[J].水产学报,1989,13(3):271-284.  \n[20] 刘树青,江晓路,牟海津,等.免疫多糖对中国对虾血清溶菌酶、磷酸酶和过氧化物酶的作用[J].海洋与湖沼,1999,30(3):278-283.  \n[21] 周歧存,丁熵,郑石轩,等.维生素C对凡纳滨对虾生长及抗病力的影响[J].水生生物学报,2004,28(6):592-598.  \n[22] 常青,梁萌青,王印庚,等.饲料维生素C对大菱鲆非特异性免疫力的影响[J].海洋水产研究,2005,26(5):22-26.  \n[23]叶元土,林仕梅,罗莉,等.黄颡鱼消化能力与营养价值的研究[J].大连水产学院报,1997,12(2):23-30.  \n[24] 文泽平.泛酸对幼建鲤消化吸收功能和免疫功能的影响[D].硕士学位论文.雅安:四川农业大学,2008:1-80.  \n[25]向阳.烟酸对幼建鲤消化能力和免疫功能的影响[D].硕士学位论文.雅安:四川农业大学,2008:1-71.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[26] 周景祥,余涛,黄权,等.鲤鱼、黄颡鱼和大眼鲈消化酶活力的比较研究[J]).吉林农业大学学报,2001,23(1):94-96,120.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[27]FARHANGI M,CARTER C G.Growth,physiological and immunological responses of rainbow trout (Oncorhynchus mykiss) to different dietary inclusion levels of dehulld lupin (Lupinus angustifolius)[J].Aquaculture Research,2001,32(S1):329-340. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[28] 章世元,徐建超,张杰,等.新型发酵豆粕对断奶仔猪生长性能及胃肠道发育的影响[J].畜牧 与兽医,2009,41(7):20-23. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[29] UDA K,TSUJIKAWA T,FUJIYAMA Y,et al.Rapid absorption of luminal polyamines in a rat small intestine ex vivo model[J].Journalof Gastroenterology and Hepatol0gy,2003,18(5):554-559. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[30]申顺立.维生素C缺乏对幼建鲤器官发育和组织结构变化的影响[D].硕士学位论文.雅安:四川农业大学，2003:140.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[31] 池磊.不同来源的维生素C对幼建鲤消化、免疫和抗氧化功能影响的比较研究[D].硕士学位论文.雅安：四川农业大学，2009:33-40.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "A Study on Optimal Dietary Vitamin C Content for Juvenile Spotted Halibut (Verasper variegates) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "WANG Zhenjie1.2 CHEN Siqing2\\* CHANG Qing² LIU Changlin² HU Jiancheng² YAN Junli1,2 LU Bin1,2 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Fishers and Life Sciences, Shanghai Ocean University, Shanghai 201306, China; 2. Key Laboratory for Sustainable Utilization of Marine Fisheries Resource, Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences,Qingdao 266071) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to study the effects of dietary vitamin C content on growth and the functions of digestion, absorption,antioxidant and immune of juvenile spotted halibut (Verasper variegates),in order to get the optimal dietary vitamin C content for juvenile spotted halibut. Water temperature was maintained at ( $( 1 2 . 5 { \\pm } 1 . 5 ) \\$ ） $\\mathrm { { ^ \\circ C } }$ in this experiment. Juvenile spotted halibut with the body weight of( $3 8 . 0 { \\pm } 0 . 8 \\$ ） $\\mathrm { \\bf { g } }$ were randomly assigned into 7 groups with 3replicates per group and 3O fish per replicate, and fed 7 experimental diets with the vitamin C content were 10.2, 249.1, 402.8, 616.2, 769.5, 909.4 and $\\mathrm { 1 ~ 1 7 7 . 8 ~ m g / k g }$ ，respectively. The experiment lasted for 8 weeks. The results showed as follows: the highest weight gain rate, feed efficiency ratio and feeding rate were found in $6 1 6 . 2 \\mathrm { m g / k g }$ vitamin C group. The weight gain rate of $6 1 6 . 2 ~ \\mathrm { m g / k g }$ vitamin C group was significantly higher than that of 10.2 and $9 0 9 . 4 ~ \\mathrm { m g / k g }$ （204号 vitamin C group( $P { < } 0 . 0 5$ ），the feed efficiency ratio of $6 1 6 . 2 ~ \\mathrm { m g / k g }$ vitamin C group was significantly higher than that of other groups（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ），and the feeding rate of $6 1 6 . 2 ~ \\mathrm { m g / k g }$ vitamin C group was significantly higher than that of other groups except $1 ~ 1 7 7 . 8 ~ \\mathrm { m g / k g }$ vitamin C group( $\\scriptstyle P < 0 . 0 5 .$ ）. The fish had the maximal liver and muscle vitamin C accumulation when dietary vitamin C content was $7 6 9 . 5 ~ \\mathrm { m g / k g }$ . Serum malondialdehyde content of 616.2 and 769.5 mg/kg vitamin C groups was significantly lower than that of other groups except $4 0 2 . 8 ~ \\mathrm { m g / k g }$ （20 vitamin C group( $P { < } 0 . 0 5$ ）. The activities of serum catalase and lysozyme in $4 0 2 . 8 ~ \\mathrm { m g / k g }$ vitamin C group had the highest values, which were significantly higher than those of other groups （ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ） . Serum superoxide dismutase activity of 402.8,616.2 and $7 6 9 . 4 ~ \\mathrm { m g / k g }$ vitamin C groups was significantly higher than that of other groups( $P { < } 0 . 0 5$ ）.Protease,amylase and lipase activities in stomach and intestine were at a high level when dietary vitamin C content was 402.8, 616.2 or $7 6 9 . 4 ~ \\mathrm { m g / k g }$ . Dietary vitamin C content within the scope of 249.1 to $6 1 6 . 2 ~ \\mathrm { m g / k g }$ could promote the growth of the intestinal mucosa and increase the fold height and intestinal wall thickness. These results suggest that dietary vitamin C content within the scope of 402.8 to 616.2 mg/kg can effectively meet the need of growth, and improve the antioxidant capacity, non-specific immunity, digestion and absorption ability. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

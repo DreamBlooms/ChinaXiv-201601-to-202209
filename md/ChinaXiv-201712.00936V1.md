@@ -1,0 +1,155 @@
+临床研究
+
+# 局限性非特异性回盲部炎症66例的回顾与随访
+
+张萃,欧阳钦
+
+四川大学华西医院消化内科，四川成都 610040
+
+摘要：目的总结局限性非特异性回盲部炎症(FNICI)的特征与自然病程,探讨早期诊断克罗恩病的可能性。方法 回顾性纳入我院近4年诊断为FNICI病人，分析患者临床、内镜、病理学、影像学、实验室检查的特点，定期随访病情发展，追踪病变最终结局。结果共纳入66例FNICI患者，男女比例为 $1 . 0 6 { : } 1$ ，平均年龄39岁。平均随访10.5月后，8例发展为克罗恩病，其初诊肠镜为累及末段回肠及回盲瓣的纵形、不规则溃疡，活检病理为粘膜局灶性淋巴细胞增生为主的活动性炎症，随访中多次活检病理后可发现典型的克罗恩病病理改变，其初诊时的血沉、C-反应蛋白明显高于最终恢复正常的患者 $( P { = } 0 . 0 1 3 , P { < } 0 . 0 1 )$ 。结论FNICI由多种病因造成,早期内镜、活检组织病理表现不典型,诊治困难,需长期随访。本研究发现 $1 2 . 1 \%$ 的FNICI发展为克罗恩病。对溃疡持续存在、扩大并伴ESR、CRP升高的病例需密切随访，认真识别以早期诊断克罗恩病。
+
+关键词：局限性非特异性回盲部炎症;克罗恩病
+
+# Focal nonspecific ileocecum inflammation: a follow-up study of 66 cases
+
+ZHANGCui,OUYANG Qin DepartmentofGastroenterology,WestChina Hospital ofSichuan University,Chengdu 61Oo40,China
+
+Abstract:Objective To investigate thenatural disease course of nonspecific ileocecum inflammation (FNICI)and the possibility of early diagnosis of Crohn's disease (CD). Methods The patients with an established diagnosisof FNICI atour hospital inthepast4yearswereretrospectivelyanalyzedforclinicalmanifestations，endoscopical，readigraphicand histopathological findings and laboratorydata.The patients were followed upregularlyfor their outcomes.Results Our analysis included 66 patients with FNICI (with a male-to-female ratio of $3 4 : 3 2$ and a mean age of 39 years old). The patients were followed up for 10.5 months on average, and 8 $( 1 2 . 1 \% )$ ）patients developed CD.Among these 8 patients, the initial endoscopic examination uponadmisionrevealedulcers involving the ileocecumvalve,andbiopsyresults showed focalactive chronic mucosal inflammation.Laboratory testsshowed thatthe patients who finalldeveloped CDhad significantly higher erythrocyte sedimentation rate $_ { ( P = 0 . 0 1 3 ) }$ and C reaction protein $_ { ( P < 0 . 0 1 ) }$ than the patients who eventually had full recovery. ConclusionFNICI is a common lesioncaused by multiple factors andhas not specific endoscopic or histopathological features,whichmakesitsdefinitediagnosisdifcult.Thepatients withpersistentulcerandelevatederythrocytesedimentation rate and C reactive protein should be closely followed up for early diagnosis of CD.
+
+Key words: Crohn's disease; focal nonspecific ileocecum inflammation
+
+局限性非特异性回盲部炎症(FocalNonspecificIleocecumInflammation,FNICI)是指回结肠镜发现局限于回盲部的炎症，病理为非特异性病损，综合临床症状、影像学和实验室检查仍不能明确诊断的肠道病变。回顾近14年我国关于回盲部病变的文献发现：联合内镜和活检病理诊断为“慢性非特异性炎症"或“不明原因"的病例占回盲部病变的 $3 0 \% { \sim } 4 0 \% ^ { [ 1 - 6 ] }$ 。有研究认为这种非特异性炎是良性病变[7"],也有研究认为它可能是克罗恩病(Crohn'sDisease,CD)的早期阶段或CD的一种亚型[12-13] 。
+
+本研究旨在追踪FNICI的自然病程，评估临床、病理、影像学、实验室检查是否有助于预测FNICI发展为CD，探讨早期诊断CD的可能性。
+
+# 1资料和方法
+
+1.1一般资料
+
+纳入2011年7月1日\~2015年7月30日四川大学华西医院消化内科，内镜中心检查的患者。纳入标准(符合下列3项)为：(1)初诊肠镜提示局限于回盲部(包括回肠末段 $2 0 \mathrm { c m }$ 以内、盲肠、回盲瓣)的炎性病变，包括糜烂、溃疡、出血、回盲部变形、淋巴增殖等;(2)专科病理活检为慢性炎症,但无明确病理学诊断;(3)病程 $\mathord { > } 1$ 月[13]排除标准：已明确诊断为炎症性肠病、肠结核、淋巴瘤、白塞病等。CD诊断参考2012年《我国炎症性肠病诊断与治疗的共识意见》[14]。白塞氏病诊断参考2014年的白塞病国际诊断标准(ICBD)[15]。
+
+# 1.2研究方法
+
+回顾性收集2011年7月1日\~2015年7月30日的FNICI患者初诊和每次复诊的临床特征、内镜，病理、影像、实验室检查(包括血常规、血沉ESR、C反应蛋白CRP、TORCHIgG/IgA、抗中性粒细胞胞浆抗体ANCA、PPD试验、结核γ干扰素释放试验TB-IGRA等）资料。自2014年9月始，每3个月随访1次，重复前述必要检查，随访至诊断明确。分析、总结以上各项资料。
+
+# 1.3统计学分析
+
+数据采用SPSS17.0统计软件进行分析，计数数据用 $M e a n { \pm } S D$ 表示，参数检验采用单因素方差分析，方差齐性采用Levens's法，两两比较采用LSD法，非参数检验采用卡方检验。 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1一般资料
+
+本研究共纳入66名符合纳入标准的FNICI患者，其中34名男性，32名女性，男女比例 $1 . 0 6 \colon 1$ ,初诊年龄为16\~69岁，平均年龄为39.3岁。初诊时病程为1个月至30年，平均病程为30.9个月。
+
+# 2.2初诊时主要临床表现
+
+66例患者中，32例 $( 4 8 . 5 \%$ )有下腹痛，10例（ $1 5 . 2 \%$ )为腹泻，12例( $1 8 . 2 \%$ )为腹痛伴腹泻，4例$( 6 . 1 \%$ )为腹痛伴便血，2例 $( 3 \% )$ 为便血；4例 $( 6 . 1 \% )$ 为腹胀，2例 $( 3 \% )$ 为肛门坠胀。伴随症状包括口腔溃疡(8例）、生殖器溃疡(4例)皮肤红疹(1例)低热(3例）、消化不良(2例)。4例有近6月内NSAIDs用药史。3例阑尾切除术史。2例既往肠结核病史，1例既往肺结核病史，1例既往结核性胸膜炎病史，抗结核治疗后均已治愈超过1年。
+
+# 2.3初诊时内镜特征
+
+66例FNICI中，仅累及末段回肠有32例 $( 4 8 . 5 \% )$ 一盲肠(包括回盲瓣)有22例 $3 3 . 3 3 \%$ )，末段回肠和盲肠同时受累有12例（ $1 8 . 2 \%$ )。病变类型见表1。32例仅累及末段回肠病变中，22例为单发或多发的溃疡病变，多为浅表小溃疡，2例溃疡最长径 $> 1 \ \mathrm { c m } ; 1 0$ 例为糜烂。22例盲肠病变中，14例为回盲瓣溃疡,6例溃疡最长径 ${ \mathrm { 5 2 ~ c m } } _ { \mathrm { { c } } }$ 66例FNICI中，5例主要表现为纵形溃疡，3例为环形溃疡，9例为不规则溃疡，49例为浅/小溃疡。
+
+# 2.4 初诊时病理学特征
+
+66例患者内镜活检均有粘膜慢性炎，炎症程度轻\~重度，活动 $+ \sim + + +$ 。24例淋巴组织增生。15例局灶性病变。12例淋巴滤泡形成。12例腺体分支扭曲/排列不规则/分泌减少。3例嗜酸性粒细胞浸润。2例隐窝炎。3例神经节炎/神经丛增生。1例末回潘氏细胞化生。23例活检病理抗酸染色，阳性者2例。23例活检病理结核杆菌qPCR，阳性者3例。
+
+表166例FNICI患者内镜表现特征 Tab.1 Endoscopical features of the 66 cases of FNICI   
+
+<html><body><table><tr><td>Abnormalities</td><td>Cases(%)</td></tr><tr><td>Ulceration</td><td>45(68.2%)</td></tr><tr><td>Hyperemia</td><td>45(68.2%)</td></tr><tr><td>Oedema</td><td>41(62.1%)</td></tr><tr><td>Erosion</td><td>28(42.4%)</td></tr><tr><td>Ileocecal valve malformation</td><td>17(25.8%)</td></tr><tr><td>Vulnerable mucosa</td><td>9(13.6%)</td></tr><tr><td>Stenosis</td><td>8(12.1%)</td></tr><tr><td>Polypoid Hyperplasia</td><td>7(10.6%)</td></tr></table></body></html>
+
+# 2.5影像学特征
+
+22例患者进行了影像学检查，FNICI的影像学多为局限于回盲部的改变。3/17例CTE(CTEnterography)提示回肠节段性病变。9/17例CTE仅提示回盲部肠壁肿胀、增厚、强化改变,6/17例提示小肠或回肠病变，1/17例提示右半结肠肠壁增厚；1/17例提示乙状结肠肠壁增厚。2例MRE(MREnterography)仅提示回盲部肠壁肿胀、增厚。1/9例胃肠道彩超发现右半结肠肠壁增厚，8/9例提示末段回肠壁增厚。1例小肠钡餐发现部分小肠聚集。
+
+# 2.6 实验室检查
+
+66例患者中，24/66例ESR升高(正常参考值<$2 1 \ \mathrm { m m / h }$ ),22/66例CRP升高(正常参考值 ${ < } 5 ~ \mathrm { m g / L }$ ,9/66例血红蛋白下降(正常参考值 $1 1 5 { \sim } 1 5 0 ~ \mathrm { g / L }$ ),14/66例白细胞升高(正常参考值 $( 3 . 5 { \sim } 9 . 5 ) { \times } 1 0 ^ { 9 } \mathrm { { / L } } \$ 。 $1 2 / 6 6$ 例患者检查ANCA，仅1/12例 $\mathbf { A N C A \pm }$ ,11/12ANCA阴性。17/66例患者检查TORCH,13/17例CMV-IgG阳性,9/17例风疹病毒IgG阳性，12/17例单纯疱疹病毒IgG阳性，4/17例单纯疱疹病毒IgM阳性。15/66例患者检查抗核抗体和抗可溶性抗原抗体，均为阴性。18/66例检查TB-IGRA,5/18例阳性。18/66例PPD试验中，3/18例 $\cdot \cdot \cdot$ ',3/18例 $$ ',3/18例 $\cdot _ { + + + } ,$ ，
+
+# 2.7随访结果
+
+平均随访10.5个月(3\~46个月)后，66例FNICI患者中8例诊断为CD,6例为白塞病(Behcet's disease,BD),2例为肠结核(IntestinalTuberculosis,ITB),25例肠镜恢复正常,25例仍为FNICI(FNICIpersistent,FNICIp)。
+
+最终诊断为CD的8例患者：3例为术后病理确诊，5例为临床诊断。8例患者从首次肠镜发现FNICI到确诊CD历时平均12月。随访期间症状反复，多次肠镜为FNICI,活检病理为粘膜轻\~重度的慢性活动性炎症，淋巴细胞增生，淋巴滤泡形成，抗酸染色阴性，活检病理TB-qPCR未见TB-DNA片段。最终2例因并发末段回肠穿孔行外科手术，1例因并发回盲部狭窄、肠梗阻行外科手术，此3例术后病理确诊为CD。术后患者A与B还瘘后以硫唑嘌呤(AZA)维持缓解，患者C尚在造瘘中。
+
+临床诊断CD的5例患者，复习多次病理切片发现：患者D抗酸染色阴性，仅TB-qPCR发现少量TB-DNA片段；患者E在外院根据肠镜诊断性抗结核3月无效，后CTE发现末段回肠、右半结肠肠壁增厚；患者F在第1次病理会诊时发现非干酪样肉芽肿、抗酸染色阳性而诊断为肠结核，抗结核治疗3月后，患者症状好转，而肠镜无改变，查CTE发现小肠有节段性炎性改变；患者G在不同次病理活检分别发现抗酸染色阳性和TB-qPCR阳性，应抗酸染色阳性抗结核治疗3月后无好转，复习病理切片发现抗酸染色阳性菌被证实为污染菌。此4例患者最终在排除肠结核的基础上，综合多次肠镜活检组织病理，并临床、影像、病理多学科综合讨论后临床诊断为CD。患者F检查排除肠结核后，综合多次复查肠镜、活检病理结果发现非干酪肉芽肿，裂隙样溃疡、局灶性淋巴滤泡形成，最终临床诊断为CD，以颇得斯安(Pentasa)维持缓解(表2)。
+
+表28例最终诊断为CD患者的病理表现及其它支持CD证据 Tab.2Pathological features and other evidences that support the diagnosis of CD in the8 patients with CD   
+
+<html><body><table><tr><td></td><td>Case A</td><td>Case B</td><td>Case C</td><td>Case D</td><td>Case E</td><td>CaseF</td><td>Case G</td><td>Case H</td></tr><tr><td>Noncaseating granuloma</td><td>P</td><td></td><td></td><td></td><td>P</td><td>P</td><td>P</td><td>P</td></tr><tr><td>Transmural inflammation</td><td>P</td><td>P</td><td>P</td><td></td><td></td><td></td><td>-</td><td></td></tr><tr><td>Fissuring ulcer</td><td></td><td>P</td><td>P</td><td>P</td><td></td><td>-</td><td></td><td>P</td></tr><tr><td>Neural hypertrophy</td><td>P</td><td>P</td><td>P</td><td></td><td></td><td>P</td><td></td><td></td></tr><tr><td>Focal chronic inflammation</td><td></td><td>P</td><td>P</td><td>P</td><td></td><td>P</td><td></td><td>P</td></tr><tr><td>Acid fast stain</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>P</td><td>P</td><td>N</td></tr><tr><td>TB-qPCR</td><td>N</td><td>N</td><td>N</td><td>P</td><td>N</td><td>P</td><td>P</td><td></td></tr><tr><td>Anti-tuberculosis therapy (m)</td><td></td><td></td><td>15</td><td>3</td><td>3</td><td>3</td><td>3</td><td></td></tr><tr><td>Time cost for diagnosis (m)</td><td>12</td><td>30</td><td>18</td><td>6</td><td>8</td><td>8</td><td>12</td><td>3</td></tr><tr><td>Therapy</td><td>AZA</td><td>AZA</td><td>Antibiotc</td><td>AZA</td><td>AZA</td><td>AZA</td><td>Pentasa</td><td>Pentasa</td></tr></table></body></html>
+
+P:Positie,N:Negative.CasesAtoCwerediagnosedpathologicallyftersurgeryilecasesDtoHwereclinicallydiagnosedbasedn mutidiscilinarydisusioDiagnosticiteiareinlinwitCesemanagementonsessoiflammatoryoweldiseasead Chinese histopathology consensus on $\mathrm { I B D } ^ { [ 1 4 , 1 6 }$ 可：
+
+6例发展为白塞氏病的患者从首次发现FNICI到诊断为白塞氏病历时6月 ${ \sim } 3$ 年不等。患者均有反复口腔溃疡病史，其中5例伴有生殖器溃疡，其中1例伴有视力损害，其中2例伴有皮肤损害。白塞氏病患者FNICI病变轻重不等，溃疡可较CD大，呈环形、不规则形，随访过程中多次肠镜表现部分FNICI无变化，部分溃疡减小或仅余糜烂，无瘢痕形成，活检组织病理为淋巴细胞增生的非特异性慢性炎症，无血管炎表现
+
+2例患者确诊为肠结核,PPD均为" $\cdot { + } { + } ^ { , : }$ ,TB-IGRA阳性，随访中复查肠镜活检病理1例发现抗酸及TB-qPCR阳性，未发现肉芽肿、局灶性炎症等，抗结核3月后复查肠镜溃疡无好转，分别继续抗结核3月和15月后复查肠镜正常。
+
+25例患者有8例3月后复查肠镜正常，11例6\~9月后复查肠镜正常，5例12\~15月后复查肠镜正常，1例4年后恢复正常。25例患者随访过程中，肠镜病变变化不大，部位局限，活检病理仅提示慢性活动性炎症、淋巴细胞增生、淋巴滤泡形成、1例提示末回潘氏细胞增生，1例神经节细胞增生，1例腺体扩张，余无特异性病理改变。9例患者肠镜恢复正常后，临床症状仍在。
+
+2.8不同病变结局的FNICI患者临床与辅助检查比较2.8.1比较最终诊断为CD、BD、ITB、FNICIp和恢复正常患者的肠镜累及部位(表3）仅累及末段回肠的FNICI患者大多最终恢复正常，不发展为CD或白塞氏病 $( P { < } 0 . 0 5 )$ CD和白塞氏病两者病变累及部位无差异（ $( P { > } 0 . 0 5 )$ 。随访过程中，部分FNICI初诊时仅盲肠受累，后累及末段回肠。而仅累及末段回肠的FNICI,或恢复正常，或持续仅末段回肠受累。
+
+2.8.2最终诊断为CD、BD和恢复正常的患者3者的基本资料、ESR、CRP、血红蛋白(HBG)、白细胞(WBC)比较（图1）3者初诊时病程无差异 $( P { > } 0 . 0 5$ ,表4)。最终诊断为CD的患者初诊时的ESR、CRP、WBC明显高于恢复正常的患者( $_ { ( P < 0 . 0 5 ) }$ ,HBG明显偏低 $\scriptstyle ( P = 0 . 0 1 4 )$ 。最终诊断为白塞氏病患者的ESR和CRP明显高于恢复正常的患者 $( P { < } 0 . 0 5 )$ ，而HBG和WBC没有差异（ $P >$ 0.05)。而克罗恩病和白塞氏病初诊时的ESR、CRP、HBG、WBC无明显差异 $( P { > } 0 . 0 5 )$ ）
+
+表3不同病变结局的FNICI肠镜发现累及部位比较Tab.3LocationsofdifferentFNICI  
+
+<html><body><table><tr><td>Outcome</td><td>Terminal ileum</td><td>Cecum</td><td>Terminal ileum&cecum</td></tr><tr><td>CD</td><td>0</td><td>7</td><td>1</td></tr><tr><td>BD</td><td>0</td><td>4</td><td>2</td></tr><tr><td>ITB</td><td>0</td><td>1</td><td>1</td></tr><tr><td>FNICIp</td><td>13</td><td>7</td><td>5</td></tr><tr><td>Normal</td><td>19</td><td>3</td><td>3</td></tr></table></body></html>
+
+Cecum includes cecum and ileocecum valve.
+
+表4不同疾病结局的FNICI患者一般资料比较Tab.4BaselinecharacteristicsofFNICI(Mean±SD)  
+
+<html><body><table><tr><td></td><td>CD</td><td>BD</td><td>Nromal</td></tr><tr><td>Male</td><td>7</td><td>5</td><td>11</td></tr><tr><td>Female</td><td>1</td><td>1</td><td>14</td></tr><tr><td>Age (Mean±SD,year)</td><td>34±8</td><td>45±14</td><td>37±13a</td></tr><tr><td>Disease course (Mean±SD,months)</td><td>32±31</td><td>16±21</td><td>24±35</td></tr></table></body></html>
+
+（204号 $^ { \mathrm { a } } P { < } 0 . 0 5$ compared with CD.
+
+# 3讨论
+
+回盲部病变可见于感染性肠炎(如，肠结核）、克罗恩病、淋巴瘤、血管炎(如，白塞氏病）缺血性肠病、NSAIDs药物相关性肠炎、麦克尔憩室病、子宫内膜异位症等[17-18]。有文献认为局限性非特异性回盲部炎症特别是局限性非特异性末段回肠炎可能是CD的早期阶段或CD的一种亚型[12]。Nesl.2006随访28例末段回肠小溃疡患者，平均随访6年，最终8例 $( 2 9 \%$ )患者诊断为$\mathrm { C D } ^ { [ 1 9 ] }$ 。Amber.2008随访46例孤立末段回肠炎患者，平均随访4年,最终25例 $( 5 4 \%$ )诊断为 $\mathrm { C D } ^ { [ 2 0 ] }$ 。 Courville
+
+![](images/35f9e5cd023ea2b150bb5650ebbca179099977466444e950df12b41af83ac3df.jpg)  
+图1不同病变结局的FNICI患者初诊ESR、CRP、HBG、WBC比较 Fig.1 Comparisons of ESR, CRP, HBG,and WBC among patients with different prognosis.
+
+2009回顾性分析29例孤立回肠炎患者，平均随访5\~7年,10例 $( 3 4 . 5 \%$ )最终诊断为 $\mathrm { C D } ^ { [ 1 0 ] }$ 。Chang.2010回顾性分析93例孤立末段回肠溃疡患者，平均随访29.1月，仅1例 $( 1 . 0 7 \%$ )发展为 $\mathrm { C D } ^ { [ 1 1 ] }$ 。Sarah.2013回顾性分析43例孤立活动回肠炎患者，平均随访3.2年，最终6例（ $14 \%$ 诊断为 $\mathrm { C D } ^ { [ 1 3 ] }$ 号
+
+本研究回顾性纳入66例FNICI患者，平均随访1年后,最终8例 $( 1 2 . 1 \%$ )诊断为CD。这一比例高于Chang的研究，而低于Nes1等的研究。一方面，这与本研究纳入的病例包括回盲瓣和盲肠的病变、我院炎症性肠病患者数量多有关；另一方面，本研究随访时间尚短，而FNICI发展为CD还需要更长的随访观察。
+
+内镜特点可发现，CD患者初诊时肠镜为单发或多发溃疡，溃疡大小不等，可呈纵形、不规则形，随访过程中复查肠镜表现变化不大。32例仅为末段回肠炎的患者， $5 7 . 6 \%$ 未经特殊治疗而恢复正常，尚无一例发展为CD等疾病;34例累及盲肠、回盲瓣的患者中， $1 7 . 6 \%$ 恢复正常。这提示仅累及末段回肠的非特异性炎症，多为良性病变，经过抗感染、调节肠道菌群等非特殊治疗后可恢复正常,这与周国华等的研究相似[7,10-1,1-22],但因为随访时间短，不能完全除外FNICI发展为CD的可能。Courville等o认为症状持续的非特异末段回肠炎易发展为CD，而本研究中，多数肠镜最终恢复正常的患者仍有持续的消化不良、腹泻、腹痛等症状，临床症状的变化尚不能为诊断CD提供有效证据。
+
+活检组织病理和影像学可发现，FNICI主要表现为粘膜慢性活动性炎、淋巴组织增生、淋巴滤泡形成，少数有腺体改变、神经节炎等病变，活检病理改变并无特异性。但多次反复活检并综合多次活检病理有助于明确诊断。病理活检抗酸和TB-qPCR阳性并非一定为肠结核。分析实验室检查可发现，ESR和CRP增高特别是持续增高可在一定程度上预测FNICI转归，但缺乏特异性。TORCH抗体的筛查对寻找FNICI病原学证据帮助不大。TB-IGRA阳性且PPD强阳性的患者，肠结核可能大，但并非绝对，CD患者也可出现TB-IGRA和PPD阳性。
+
+CD早期诊断、早期治疗十分重要。 $20 \%$ 的CD病人在诊断或诊断后3月内已伴有狭窄、穿通的并发症[23],这对CD病情控制、病人的生活质量十分不利。早期予以硫唑嘌呤或6-巯嘌呤治疗儿童、青少年CD可有效维持缓解、降低手术风险，早期予以生物制剂治疗可提高粘膜缓解率[24]。5-ASA和抗生素对CD治疗效果有限,早期诊断CD,早期予以免疫抑制剂或生物制剂不仅有利于维持粘膜愈合，且可阻止疾病发展，降低并发症发生率。Biroulet等24提出将早期CD定义为：诊断为CD $_ { < 2 }$ 年,综合内镜、放射学、血清学抗体和基因(不包括组织学)，无狭窄、瘘、脓，无肠切除/瘘/脓肿手术史，无肠腔狭窄/扩张。巴黎专家共识更新早期CD定义为：诊断为CD $< 1 8$ 月，未使用免疫抑制剂或生物制剂[23]
+
+本研究诊断为CD的8例患者中，5例临床诊断的CD患者均为早期CD,其中4例因活检病理非特异且与肠结核鉴别而延长了CD的诊断时间。3例患者在出现并发症前未能早期诊断CD，因此耽误了早期治疗，1例患者因肠结核不能排除且患者拒行小肠检查直至并发肠穿孔、腹腔脓肿，2例因初发时及随访过程中FNICI病变局限、病情轻而耽误了CD的早期诊断。可见基于我国国情，CD发病率不高，临床医生对IBD认识程度差异，肠道感染特别是肠结核与CD的鉴别诊断十分困难，延误了早期诊断、早期治疗CD。早期CD的定义中并未包括组织学改变，可见CD的早期诊断不应过度依赖病理学诊断,而应收集临床、影像学、血清学结果综合诊断。但是，现今无病理学的支持往往又使临床医生难以决定使用免疫抑制剂或生物制剂治疗CD。
+
+Biroulet等[24]也提出了CD临床前期(pre-clinical)的概念，是指在缺乏典型CD临床表现的CD。有文献提出CD的早期诊断不仅包括诊断早期CD，也应包括诊断临床前期 $\mathrm { C D } ^ { [ 2 5 ] }$ 。有病例报道提出及早对无症状、仅有末段回肠炎的CD一即临床前期CD一患者使用免疫抑制剂、生物制剂治疗有利于维持缓解[26]。早期CD的诊断得到了重视，但临床前期CD的相关研究较少，早期诊断、早期治疗CD的时机尚未确定。本研究中$1 2 . 1 \%$ 的FNICI患者最终发展为CD，提示部分FNICI可能为CD的早期病变或疾病前状态，因此随访FNICI,对于有发展成为CD可能的FNICI实行早期干预或有必要。国外对于应用CD血清学谱和基因谱在人群中早期筛查CD的研究如火如荼。虽我国CD发病率并不高，应用血清学、基因谱筛查早期CD可能收效甚微，但对于筛查FNICI中的CD可能有研究价值。
+
+综上，FNICI由多种病因引起。我院FNICI仅累及末段回肠的溃疡多为良性病变，少有伴ESR、CRP增高，治疗以对症治疗为主，对有家族史、临床症状持续或加重的患者应随访，定期复查肠镜，末段回肠溃疡持续存在者，应复习多次活检组织病理、检查影像学。累及盲肠(特别是回盲瓣)的溃疡持续存在并伴有ESR、CRP增高的患者应引起重视，需积极定期复查肠镜、活检病理、ESR、CRP,综合影像学，鉴别克罗恩病、肠结核、白塞氏病、NSAIDs药物相关性肠炎。对于炎症持续活跃且怀疑肠结核而诊断性抗结核3月后无效的患者应完善小肠检查、影像学检查，早期诊断CD。早期诊断CD需结合临床、病理、影像、实验室检查做出综合性诊断。
+
+# 参考文献：
+
+[1］彭文岗,张铭.肠镜检查回盲部病变476例[J].肿瘤研究与临床 2010,22(12):852-3.   
+[2]马耿，申凤俊,梁姣,等.回盲部溃疡228例的回顾性分析[J].国际消 化病杂志,2012,32(2):120-2.   
+[3]秦云才，齐国秀,林 静.回盲部溃疡型病变27例的病因分析[J].前卫 医药杂志,2000(4):241-2.   
+[4」郭俊芝，申凤俊,胡海平.结肠镜及病理学检查对回盲部病变的鉴别 诊断价值[J].国际消化病杂志,2008,28(6):510-2.   
+[5]范亚琴，许翠萍.结肠镜结合病理学检查对回盲部溃疡的鉴别诊断价 值[J].山西医科大学学报,2010,41(10):892-4.   
+[6］李亚利,张锁平,杨亚莉.结肠镜结合病理学检查对回盲部溃疡的鉴 别诊断价值[J].内蒙古中医药,2014,33(2):103.   
+[7]周国华,薛红仙,左大镒,等.慢性末端回肠炎的长期随访研究[J].南 华大学学报:医学版,2002,30(4):350-1.   
+[8]申凤俊,黄会芳,梁 姣.回盲部非特异性溃疡87例回顾性分析[J].国 际消化病杂志,2013,33(1):69-70.   
+[9]刘建湘,王化虹.结肠镜下良性回盲部溃疡的临床特征分析[J].中华 医学杂志,2008,88(12):823-5.   
+[10] Courville E,Siegel C,VT,et al. Isolated asymptomatic ileitis does not progress to overt Crohn disease on long-term follow-up despite features of chronicity in ileal biopsies[J].AmJ SurgPathol,2O09,33 (9): 1341-7.   
+[11] Chang HS,Lee D,Kim JC,et al.Isolated terminal ileal ulcerations in asymptomatic individuals: natural course and clinical significance [J].Gastrointest Endosc,2010, 72(6):1226-32.   
+[12]Greaves ML,Pochapin M. Asymptomatic ileitis: past, present,and future[J]. J Clin Gastroenterol,2006,40(4): 281-5.   
+[13]Donnell S,Crotty P, Sm OM,et al. Isolated active ileitis: is it a mild subtype of crohn's disease[J].Inflamm Bowel Dis,2013,19 (9):1815-22.   
+[14]胡品津,钱家鸣,吴开春，等.我国炎症性肠病诊断与治疗的共识意见 (2012年·广州)[J].内科理论与实践,2013(1):61-75.   
+[15]DavatchiF,Assaad-Khalil S,Calamia KT,et al.The international criteria for behcet's disease (ICBD):a collaborative study of 27 countries on the sensitivity and specificity of the new criteria[J].J Euro Acad DermatolVenereol, 2014,28(3): 338-47.   
+[16]中华医学会病理学分会消化病理学组筹备组.中华医学会消化病学 分会炎症性肠病学组.中国炎症性肠病组织病理诊断共识意见[J].中 华病理学杂志,2014,43(4):268-74.   
+[17]Dilauro S,Crum CN.Ileitis: when it is not crohn's disease[J].Curr Gastroenterol Rep,2010,12(4): 249-58.   
+[18]Bojic D,Markovic S. Terminal ileitis is not always Crohn's disease [J].Ann Gastroenterol, 2011,24(4): 271-5.   
+[19] Goldstein NS.Isolated ileal erosions in patients with mildly altered bowel habits.A follow-up study of 28 patients[J].AmJClin Pathol, 2006,125(6): 838-46.   
+[20] Petrolla AA,Katz JA,Xin W. The clinical significance of focal enhanced gastritis in adults with isolated ileitis of the terminal ileum [J].J Gastroenterol,2008,43(7): 524-30.   
+[21]周国华,张熙纯,薛红仙,等.回肠末端炎的临床、内镜、病理学及病因 学探讨[J].中华消化杂志,1996(5):251-3.   
+[22] Cappell MS.Isolated terminal ileal ulcer in asymptomatic patients: a call for prospective studies with long-term follow-up to determine the need for surveillance colonoscopy [J].Gastrointest Endosc, 2011,73(6): 1331-2.   
+[23]Peyrin-Biroulet L,Billioud V,D'haens G,et al. Development of the Paris definition of early Crohn's disease for disease-modification trials:results of an international expert opinion process [J].Am J Gastroenterol,2012,107(12):1770-6.   
+[24]Peyrin-Biroulet L,Loftus J, Colombel JF,et al. Early crohn disease: a proposed definition for use in disease-modification trials[J].Gut, 2010,59(2): 141-7.   
+[25]李世荣.关注克罗恩病的早期发现和早期诊断[J].胃肠病学,2015 (6): 321-3.   
+[26]Sorrentino D，Avellini C,Geraci M，et al.Pre-clinical Crohn'sdisease:Diagnosis,treatment and six year follow-up[J].J Crohn's Colitis,2014,8(7): 702-7. (编辑：经媛)

@@ -1,0 +1,302 @@
+[
+    {
+        "type": "text",
+        "text": "跨平台3D虚拟施工进度系统的实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "饶平平 邵兆通 赵琳学（上海理工大学环境与建筑学院，上海200093）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】工程施工需要直观、形象的进度管理工具，将BIM技术与虚拟现实技术结合能够开发出富信息化、可视化、多终端的施工进度演示系统。本文通过Revit建立符合标准的建筑施工模型，用3DMAX修改材质贴图后导入Unity3D中，使用Unity3D开发跨平台施工进度系统。Revit模型信息采用IFC格式传递到Unity3D数据中，能够轻松发布到PC端、Web端和手机端，可以为施工管理提供更好的服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM；虚拟现实；跨平台；施工进度",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17；P642 【文献标识码】A 【文章编号】1674-7461（2016）01-0080-03  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2016.01.14",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工期、成本、质量为工程项目管理三大核心，能否在合同总工期内完成工程项目关系到工程款能否顺利支付以及项目的总体利润。工程施工进度往往通过流程图、甘特图或平面示意图进行。这些方式的优点在于简单明了，对于实施短期计划方便快捷；在涉及到整个项目的进度控制时，资料不易保存，施工进度不够准确、形象。李勇详细介绍了基于BIM的工程项目进度研究方法，使用工具为Revit和造价相关客户端软件。赵彬等结合BIM与4D虚拟建造技术介绍其相对于传统建造方式的优越性，但并没有阐述技术实现。纪凡荣3等研究了基于BIM的三维可视化进度管理，但不能跨平台、多终端应用。随着BIM技术在国内建筑工程项目的推广应用，三维施工进度可以通过Navisworks等客户端软件实现，但其表现效果并不理想，而且只能通过文件拷贝的方式实现共享。虽然建筑可视化是当下研究的热点，能实现跨平台、富信息、真实感的3D虚拟施工进度的并不多见。本文借助BIM、虚拟现实等技术开发能支持多终端的3D施工进度平台。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 研究思路",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者在三年前做土建施工管理时了解到，施工管理比较看重构件所含的信息而非效果，更侧重于模型是否可以直接指导施工，而建筑信息模型（BIM)技术的到来恰好填补了这种需求。国内最常用的BIM软件Revit、Microstation、ArchiCAD、Tekla等，所建的模型构件均富含信息，施工过程中可以直接选择构件查询，因此可以借助BIM技术实现施工进度平台的富信息化。不同的专业需要附加不同的构件属性，例如混凝土框架梁，顶标高、底标高和混凝土体积可以通过软件直接提取，生产厂家、施工质量、混凝土强度等级等需要在构件的属性里提取。这些信息对于施工管理是非常有帮助的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM技术强调工程管理便捷，虚拟现实技术侧重于效果表现，虚拟现实技术能够使用户“投入”到通过计算机模拟的环境中，这种环境能够触动用户的真实感官，给用户身临其境的感觉。虚拟现实技术提供了更好的用户交互性[4]。虚拟现实比较常用的软件为Autodesk开发的3DMAX、Maya，其他还有Lumion。通过虚拟现实软件能够真实地表现建筑施工的整个过程，施工进度一目了然。通过结合",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM与虚拟现实技术可将实用性与用户体验带给施工管理者。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3平台选择",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 Revit平台",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Revit是由Autodesk公司开发的一款BIM软件，可以通过创建三维信息模型自动生成平面图纸和节点图纸，构件模型一处更改，各个视图同时更改，极大地降低了修改时间。每一个构件均被赋予真实的物理属性，墙梁柱不再是几何的长方体等图形。能够减少设计时的逻辑错误，提高了工作效率。其建模时赋予构件的数据能够和公司的其他产品如3dsmax、AutoCAD、Navisworks等互通。每一款软件发挥各自的专长，所以国内市场占有率比较大。现如今，很多大型建筑尤其是装配式建筑施工项目部为BIM应用配置了相应的硬件设备，作者咨询了一些位于上海的项目管理人员，他们均使用Revit建了信息模型。Revit不仅在建筑、结构、设备方面具有强大信息建模能力，还被赋予了二次开发功能。通过基于Net平台的C#语言可以扩展Revit功能或加快建模速度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.23DMAX软件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3DMAX使用历史悠久，全球用户最多，在网络游戏、室内设计、影视广告领域表现突出。具有强大的建模能力，支持多边形建模，NUBRS建模、细分曲面技术、基于图像的绘制能够创建逼真的建筑动画，3DMAX支持脚本开发，能够渲染出接近真实的情景画面。由于Revit所建的模型没有方便使用的建筑动画信息，故结合3DMAX创建施工过程动画，以此演示工程进度，同时也可以改善模型的视觉效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3 Unity3D平台",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unity3D是三维视频游戏、建筑可视化、实时三维动画等互动内容的多平台的综合型游戏开发工具，是全面整合的专业游戏引擎，只需要一次投入精力开发目标产品，就可以在IOS、Windows、安卓等平台同一配置，对于不同的信息终端交流提供了极大的便利。Unity3D在游戏领域风靡的同时，建筑可视化方面同样发挥着重要的角色。Unity3D的开发方式视觉化，拥有比较详细的属性编辑器可以方便操作，减少了修复BUG的工作量。Unity3D拥有功能完备的物理引擎，能够模拟各种物理现象。因此它被广泛应用于虚拟世界的创建。在3D虚拟施工进度的实现中，Unity3D主要提供了跨平台和方便编程的特性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 实现方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 开发流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "满庆鹏等5对建筑施工过程信息需求分析，结合IFC标准对建筑信息的定义，建立了与IFC数据实体一致的模型标准，可以按照该标准建立工程施工所需要的工程进度BIM模型。创建梁时可以包含混凝土等级、混凝土体积、计划施工日期、实际施工日期等施工管理所需要的数据，建好模型以后将Revit模型导人IFC中间数据文件，市面上有很多可以读取IFC文件的插件和软件，也可以通过编程开发读取。导出IFC的同时将Revit模型通过FBX中间格式导入到3DMAX软件，在3DMAX软件中设置贴图与构建出现动画，然后通过FBX格式导入Uni-ty3D，通过Unity3D的动画播放控制与IFC信息集成，部署到各平台即可。其开发流程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/30d0acec679483ab7913da9fd326b039f7a23202e53194190f71e9a32f7a3864.jpg",
+        "img_caption": [
+            "图1开发流程示意"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.2Revit导出数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Revit可以将模型导出为IFC作为中间格式或通过二次开发导出到数据库。Revit与其他软件的数据交互主要有两种方式：一种是借助第三方软件如Excel或SQLSERVER承担信息载体，通过C#语言对Revit和Excel二次开发将Revit中的构件信息导出到Excel中，此过程中，可以将ElementID作为唯一标识[6]，在构件信息与Unity3D构件模型匹配时可以用到此唯一标识；第二种方式是采用IFC数据标准格式，Revit程序本身提供了IFC的导出功能，可以导出图元及图元的参数，也可以通过软件开发的方式自定义导出数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.33DMAX动画设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3DMAX虽然建模、动画功能比较强大，但经过测试后发现，Unity3D对修改器动画支持能力不佳，支持整体移动、缩放、旋转动画，同时支持骨骼动画。3DMAX中对模型的处理主要涉及以下两个方面：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)构件贴图的修改 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "构件贴图是建筑构件的主要效果传达方式。经过测试，室内设计常用的UVW贴图修改器经过调整Gizmo导入到Unity3D中会显示不正确，通过使用UVW展开修改器就完全解决了该问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)建筑施工进度演示中建筑构件的出现",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模拟建筑构件的出现最基本的方式就是帧动画，了解如何创建导入到Unity3D的动画将会节约大量时间，少走很多弯路。从Revit导出的FBX模型导入到3DMAX后，只是每个单独构件相互独立的模型。需要根据项目部制定的施工计划或实际施工进度创建每个构件的出现动画，从无到有的过程可以采用缩放动画，将Gizmos中心点移至构件的最底端，在一定的时间间隔内设置两个关键帧，第一个关键帧设置缩放比例为 $0 \\%$ ，第二个关键帧设置缩放比例为 $100 \\%$ ，这样就可以实现构件从无到有的动画，对于整个项目来说比较形象。对于建筑工程项目来说，通过Revit创建的模型导人到3DMAX中，构件模型往往比较多，而且这种操作虽然工作量比较大，但相对简单，所以可以借助3DMAX脚本编程的方式完成。建筑构件在3DMAX中处理的结果是通过点击播放动画命令能够产生和要求施工进度一致的动画效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.4Unity3D平台开发",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过3DMAX的修改，就可以将模型通过FBX格式文件导人到Unity3D中。通过Unity3D的开",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "发，实现拖动滑动条控制FBX模型帧动画的播放来控制施工进度。其窗口面板如图2。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d2db34e6d59b57588155f814a162a211905a63e1fd393c6e32e5c6610cc2547.jpg",
+        "img_caption": [
+            "图2施工进度管理窗口"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5 结论与不足 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文开发了跨平台3D虚拟施工进度系统，实现了以下突破：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)将BIM技术的建筑模型信息集成到管理系统中，能够在施工过程中随时调取，方便施工管理；(2)将虚拟现实技术引入3D施工进度管理系统，视觉效果得到明显提升；(3)通过选用Unity3D作为模型发布平台，可以轻松实现跨平台部署，方便施工管理人员通过多终端查看工程进度情况。该进度管理系统还有以下方面需要改进：(1)由于建筑模型构件比较多，对于大型的建筑施工项目需要较高的硬件平台以支持Revit与3DMAX的运行；(2)可以通过开发以支持多位项目管理人员分片区录入施工计划或施工进度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1］李勇.建筑工程施T进度BIM预测方法研究[D].武汉理工大学，2014.  \n[2］赵彬，王友群，牛博生.基于BIM的4D虚拟建造技术在工程项目进度管理中的应用[J].建筑经济，2011，347(9):93-95.  \n［3］纪凡荣，曲娣，尚方剑.BIM情景下的可视化工程进度管理研究[J].建筑经济，2014，35（10）：40-43.  \n［4］胡西伟.基于三维动画与虚拟现实技术的理论研究[D].武汉大学，2005.  \n[5］满庆鹏，孙成双.基于IFC标准的建筑施工信息模型[J].土木T.程学报，2011，44增：239-243.  \n[6］AutodeskAsiaPteLtd.AUTODESKRevit二次开发基础教程[M].同济大学出版社，2015.CSDN博客，2011.  \n[5］AutodeskAsiaPteLtd.AutodeskRevit二次开发基础教程.同济大学出版社，2015(8）.  \n［6］肖英.基于VB的AutoCAD尺寸标注[J].制造技术与机床，2007(12）.  \n［7］徐剑.Revit系统软件二次开发研究［J].铁路技术创新，2014(5).  \n［8］陈震宇.RevitMEP辅助设计的可行性分析［J].福建建设科技，2012(5).",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Realization of Revit Pipeline Auto-labeling Method ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Li Changhua，Li Tong，Zhou Fangxiao，Cui Huanhuan (Xi'an University of Architecture and Technology，Xi'an 71Oooo,China) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Basedon the actual engineering requirements of Revit pipeline auto-labeling,this paper divides parallel pipeline labels into two categoriesof no-adjustableand adjustable paralel pipeline labelsand describes three situations which willead topipeline diameter changes.In adition，the paper puts forwardamethodof using lead vertical to solve the problem of the changeable diameter paralel pipes labeling.The experimental results show that: thiskindof labelingmethods greatly increase labeling eficiency，andcomparedtotheuseofRevit interactive interface，they simplifies theoperation，improve the labeling efciencyand providesome experiences for secondarydevelopment in the future. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Revit Secondary Development； Building Information Modeling；Pipeline Labeling ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Realization of Cross-platform Virtual 3D Construction Progress System ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rao Pingping，Shao Zhaotong，Zhao Linxue (School of Environment and Architecture，University of Shanghai for Science and Technology, Shanghai 200093，China) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Engineering construction needs visual progress management tools to integrate BIM and VR to develop a visualized and multi-terminal construction progressdemonstration system with rich information.Building the standardconstruction model with Revit,this article modifies thetexture of materials using 3DMAXand then imports themodel to Unity3D so as todevelop a cross-platform construction progresssystem.Model information in Revit is transmitted to Unity3Din IFCformat，which can beeasilyreleased tothePC,Weband mobile terminaland provide better service for construction management. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:BIM;VR;Cross-platform;Construction Progress ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "万方数据",
+        "page_idx": 3
+    }
+]

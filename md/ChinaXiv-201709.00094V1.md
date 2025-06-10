@@ -1,0 +1,19 @@
+# 毕赤酵母GPI型细胞壁蛋白的功能分析
+
+王盼 梁书利 林影
+
+毕赤酵母作为常用的蛋白表达系统，广泛应用于实验室规模的蛋白质制备、表征以及结构解析等方面，已有上千种蛋白在毕赤酵母系统中成功地得到表达。在工业酶制剂领域，也有许多酶制剂包括植酸酶、脂肪酶、甘露聚糖酶、木聚糖酶等利用毕赤酵母实现了产业化规模的生产[1]。
+
+酵母细胞壁在保护细胞完整性方面起到非常重要的作用，能够维持细胞渗透压平衡，在形态发生过程中产生并维持细胞的形态，并且在环境压力中有保护细胞的作用[2]。细胞壁主要由多糖和蛋白组成，其中多糖为 $\beta$ -1,3-葡聚糖， $\beta$ -1,6-葡聚糖和几丁质，蛋白主要由N-和O-修饰的蛋白组成，在电子显微镜下观察发现，酵母的细胞壁厚约 $2 0 0 \mathrm { n m }$ ，分为电子密度不同的两层结构，外层甘露糖蛋白层和内层葡聚糖骨架[3]。GPI修饰的蛋白是一种通过糖脂共价连接在蛋白C端，从而将蛋白定位在细胞表面的一类蛋白。GPI修饰的蛋白在所有的真核细胞中都存在，并且其基本结构在大部分生物中都是保守的。通过对毕赤酵母全基因组中所有编码的蛋白序列进行分析，结合GPI型细胞壁蛋白的结构特征，最终在毕赤酵母GS115 中发现 50个潜在的GPI型细胞壁蛋白[4]，对这些蛋白的生化分析及功能鉴定需要进一步的探索。
+
+通过对毕赤酵母GS115潜在的 50个GPI细胞壁蛋白逐一进行单基因敲除，构建了GPI型细胞壁蛋白缺陷菌株库，研究了各细胞壁缺陷菌株在不同浓度碳源条件下的生长情况及细胞形态变化，以及细胞表面亲疏水变化及对细胞壁干扰剂的耐受性情况。研究发现敲除细胞壁蛋白会引起细胞多方面的变化，如对不同碳源的利用差异，对不同细胞壁干扰剂的耐受差异等。挑取一株甲醇耐受的菌株进行转录组学的分析，发现敲除后细胞代谢路径发生了明显变化，如细胞壁各组分的合成路径，细胞膜甾醇合成路径相关基因明显上调，同时一些胁迫路径也被激活，以抵抗高浓度甲醇对细胞的损害。通过对细胞壁蛋白功能进行深入的研究，将为毕赤酵母作为宿主菌表达外源蛋白提供重要的参考价值。
+
+（王盼，1989.07，博士研究生，华南理工大学，490214492@qq.com)
+
+# 参考文献：
+
+[1]Rabert C，Weinacker D,Pessoa Jr A，Farias JG.Recombinants proteins for industrial uses: utilization of Pichia pastoris expression system. Brazilian Journal of Microbiology 2013; 44:351-6. [2] Klis FM,Mol P,Hellingwerf K,Brul S.Dynamics of cell wall structure in Saccharomyces
+
+cerevisiae.FEMS microbiology reviews 2002; 26:239-56.   
+[3] Kondo A， Ueda M. Yeast cell-surface display—applications of molecular display. Applied microbiology and biotechnology 2004; 64:28-40.   
+[4] Zhang L，Liang S, Zhou X, Jin Z, Jiang F，Han S, Zheng S, Lin Y. Screening for glycosylphosphatidylinositol-modified cell wall proteins in Pichia pastoris and their recombinant expression on the cell surface.Applied and Environmental microbiology 2013; 79:5519-26.

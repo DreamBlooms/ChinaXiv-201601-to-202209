@@ -1,0 +1,221 @@
+# 基于QTT促动器的热误差补偿
+
+李旸1，叶骞¹，金惠良1（1上海交通大学机械与动力工程学院，上海 200240）
+
+摘要：即将用于新疆奇台射电望远镜的促动器需在 $- 4 0 { \sim } 6 0 ^ { \circ } \mathrm { C }$ 温度范围内满足 $\pm 1 5 \mu \mathrm { m }$ 的精度要求。由于在无任何补偿的情况下，热误差可以达到约 $4 0 0 \mu \mathrm { m }$ 。因此需要建立热误差模型，以预测促动器位移随温度的变化规律，并在此基础上进行位移主动控制补偿，从而保证促动器在给定温度下均能满足定位精度要求。首先结合模型基本要求与显著性检验，从促动器上的16个温度测量点中优选出一个最适合模型建立的点；然后采用灰色预测理论建立了促动器的热误差模型；最后根据实际情况对该模型进行修正。研究表明：本文创新的采用了统计学与工程实践相结合的方式选取测温点，建立的热误差模型可以指导促动器的位移主动控制补偿，从而使促动器在要求的 ${ \cdot 4 0 { \sim } 6 0 ^ { \circ } \mathrm { C } }$ 温度范围内达到 $\pm 4 \mu \mathrm { m }$ 的定位精度。
+
+关键词：促动器；显著性检验；灰色预测；热误差；
+
+中图分类号：TH75 文献标志码： 文章编号：
+
+# 1引言
+
+在现实情况下，由于重力、温度、风载等因素的影响，射电望远镜需要通过主动主反射面(简称主动面)调整技术来修正面型误差[l。主动面调整技术是通过对分块拼接而成的主反射面面板进行位置调整来修正表面形状，而高精度位移促动器是实现反射面误差主动修正的关键基础[2]。当前全世界应用主动面技术的全可动射电望远镜主要有美国GBT3]、墨西哥$\mathrm { L M T } ^ { [ 4 ] }$ 、意大利 $\mathrm { S R T } ^ { [ 5 ] }$ 、中国Tian $\mathbf { M } \mathbf { a } ^ { [ 6 ] }$ 等.本文的促动器专门针对于即将建设的新疆奇台110$\mathbf { m }$ 口径全向可动射电望远镜(Qi Tai radio Telescope,QTT)。
+
+不同于其他地方，新疆奇台的气候条件更为恶劣，温度变化范围广，且变化剧烈。对于QTT所采用的促动器来说，需要在 $- 4 0 ^ { \circ } \mathrm { C } - 6 0 ^ { \circ } \mathrm { C }$ 的温度范围内，保持促动器的定位精度在$\pm 1 5 \mu m$ ，从而实现反射面全天候高精度调整要求。由于单靠机械结构与位移传感器无法消除热误差带来的影响，因此需要找到一种方法来修正由于热误差带来的定位精度的影响。
+
+建立热误差补偿的预测模型取决于促动器温度场的分布的准确测量。然而为了准确获得温度场，就必须在促动器上放置大量温度测点。这些温度测量会增加计算和测量的工作量，增加模型建立的复杂度，并影响促动器的正常运行。
+
+灰色预测法是对灰色系统进行预测的一种方法，其通过鉴别影响系统因素之间的发展趋势进行关联分析，来对系统的某一特征量进行预测，构造出预测对象特征的灰色预测模型。根据华中科技大学的邓巨龙教授78建立的灰色系统理论，导致机械加工的热误差受复杂因素影响，其表现出明显的灰色性质。
+
+因此，本文从最可能影响促动器定位精度的多个温度点出发，在多个温度测量点中选择关键温度测点，以便减少测量点的数量，并优化促动器上的热传感器位置。在避免温度变量过多引起的热误差模型中的重复共线性的同时，提高了热误差建模的鲁棒性。运用灰色预测理论进行建模，并依据实际情况调整建模模型，使得在实际 $- 4 0 ^ { \circ } \mathrm { C } - 6 0 ^ { \circ } \mathrm { C }$ 的温度范围运作的情况下，能够达到要求的精度。
+
+# 2温度测量点的选择与筛选
+
+对于一个复杂的机械系统，难以直接采用数学的方式直接分析出最佳的温度测量点。一般来说，会依据工程经验判断出最有可能的影响方式，再结合机械结构本身来进行一系列温度测量点位的分布设计。通过实验的数据与统计相关的分析来减少温度测量点的选择。最终达到简化建模过程，提高模型的准确率与鲁棒性的效果。
+
+# 2.1温度测量点的选择与分布
+
+对于用于新疆奇台射电望远镜的促动器，主要采用步进电机加上蜗轮蜗杆的结构，蜗杆的顶部的位移精度代表着整体促动器的精度。
+
+从工程经验来说，可能影响促动器精度的温度影响有：环境温度,步进电机的温度,蜗轮温度,蜗杆温度,花键套温度。结合实际促动器可以测量到的点位，温度测量点可以分布在促动器的3个面，外加1个环境温度，总共16个点位。促动器面与点的分布如图1所示，其中：
+
+面1：点1-点5综合表征促动器蜗轮温度分布对促动器位移的影响
+
+面2：点1，点2和点5综合表征步进电机温度分布对促动器位移的影响，点3直接测得电机联轴节部分温度，点4直接测得电机外壳温度
+
+面3：点1直接测得蜗杆顶端附近温度，点2-点5综合表征花键套温度分布对促动器的影响
+
+![](images/43178530cda2600338cd26ac9779f2df6fb04643986aff042f83c7d0f816380d.jpg)  
+图1温度测量点点位  
+Fig.1 Temperature measurement points
+
+在实际测试促动器的精度时，促动器需要放在实验台上，在促动器蜗杆前端装上光栅尺测量促动器的位移值。测试环境处于恒温恒湿箱中，并且默认室温 $( 2 0 ^ { \circ } \mathrm { C } )$ 时的位移为0。实验情况与实验结果如图2所示。
+
+![](images/ea299860923d1bc38f141249181035332058ff358c5edb87b7cb4cffd17b31ea.jpg)  
+图2实验情况与实验结果  
+Figure2 Experimental situation and experimental results
+
+# 2.2温度测量点的初步筛选
+
+温度测量点的筛选主要以以下三点为参考标准：
+
+1．温度与位移值之间有高相关性，采用皮尔逊相关系数(Pearson CorrelationCoefficient)， $\rho _ { T , S } = C O V ( S , T ) / ( \sigma _ { S } \cdot \sigma _ { T } )$ ，即温度与位移值之间的协方差和标准差的商来进行计算， $\rho$ 越接近于1，线性关系越密切。各点相关系数如表1所示。  
+2．在测试中当位移值达到 $0 \mu m$ 时，温度测量点的显示温度应在 $2 0 ^ { \circ } \mathrm { C }$ 左右。各点测试所得温度值如表2所示。  
+3．实际工作时方便安装且不会影响促动器正常工作
+
+在暂时不考虑第三点的情况下，针对促动器上的15个温度测试点、环境温度与位移值之间的相关性如表1所示，考虑到实验要求的精度高，需要皮尔逊相关系数 $\boldsymbol { \rho }$ 越接近于1越好。
+
+在考虑相关性时，同时考虑当测试点温度达到室温时的位移值，如表2所示。当在实验中促动器位移值回0的时刻，测试点的温度值并不一定回到了室温，由于无论是实验还是建模均是以室温时位移值为0作为前提进行的，相差过大必然会影响建模。因此综合参考标准和表1表2，最后得到可以使用的5个温度测量点分别为：面1点4，面1点5，面2点2，面2点3，面3点2.
+
+表1温度测量点与位移量的皮尔逊相关系数
+
+Tab.1Pearson Correlation Coefficient of temperature point and displacement   
+
+<html><body><table><tr><td></td><td>Surface1</td><td>Surface2</td><td>Surface3</td></tr><tr><td>Point1</td><td>0.996</td><td>0.984</td><td>0.977</td></tr><tr><td>Point2</td><td>0.996</td><td>0.997</td><td>0.989</td></tr><tr><td>Point3</td><td>0.996</td><td>0.986</td><td>0.972</td></tr><tr><td>Point4</td><td>0.996</td><td>0.978</td><td>0.966</td></tr><tr><td>Point5</td><td>0.993</td><td>0.978</td><td>0.989</td></tr><tr><td colspan="2">Ambient Temperature</td><td></td><td>0.943</td></tr></table></body></html>
+
+表2实验中位移值达到0时各点的温度值（℃）  
+Tab.2 Temperature values (C) at each point when the displacement value reaches O   
+
+<html><body><table><tr><td></td><td>Surface1</td><td>Surface2</td><td>Surface3</td></tr><tr><td>Point1</td><td>23.9</td><td>22.4</td><td>25.6</td></tr><tr><td>Point2</td><td>23.9</td><td>20.6</td><td>20.9</td></tr><tr><td>Point3</td><td>23.6</td><td>21.6</td><td>27.8</td></tr><tr><td>Point4</td><td>20.7</td><td>16.6</td><td>28.5</td></tr><tr><td>Point5</td><td>21.1</td><td>15</td><td>18.7</td></tr></table></body></html>
+
+# 2.3温度测试点的统计筛选
+
+在统计学中，显著性检测常被用来检测样本与总体之间的差异水平。在本次实验中，采用显著性检测来筛选温度点，可以比较各个温度点所测得的温度值与所对应的位移值之间的可信程度，一般来说显著性水平采用 $5 \%$ 与 $1 \%$ ，并采用公式(1)进行计算。显著性水平值越小，则差异越小，可信度越高。
+
+$$
+t = | \rho | \cdot \sqrt { ( n - 2 ) / ( 1 - \rho ^ { 2 } ) } | t | > t _ { \alpha / 2 } ( n - 2 )
+$$
+
+在通过基本要求进行筛选得到的5个点：面1点4，面1点5，面2点2，面2点3，面3点2，重新编号为P1-P5。对P1-P5进行回归分析，并采用显著性检验，分别以0.05与0.01为阈值筛选自变量。最终可以得到两个线性模型。
+
+如表3所示，通过回归分析得到两个模型。其中 $B$ 表示未标准化的回归系数，Beta表示标准化的回归系数，如果显著性以0.01为阈值，则得到只与P3点处温度相关的模型1，如果显著性以0.05为阈值，则得到与P1和P3点处温度相关的模型2。
+
+如表4所示，在回归分析中存在被剔除的变量。其中，偏相关值一般介于-1与1之间，其绝对值越大，则表明该变量对因变量影响越大，而共线性容差则是用来说明自变量之间的共线性关系，一般来说低于0.1，则共线性较强。因此通过显著性，偏相关与共线性等多方面原因来筛选自变量，最终得到可以用于模型的自变量。
+
+模型1表明，促动器的精度可以完全由P3点处的温度值表示，模型2表明，促动器的精度可以完全由P1和P3点处温度值的线性组合来表示。对比模型1与模型2，可以从P1和 P3 的显著性看出，如果只采用P3点进行温度测量，得到的模型会更加精确。
+
+从促动器结构方面来看，P3点距离电机、蜗轮与蜗杆底部均较近，可以综合各个关键部位的温度影响，这也是为什么P3点在表征促动器受温度影响产生的位移变化值上有较好效果的原因之一。另外P3点在实际安装与工作中不会对促动器本身产生影响，也符合了基础要求的第3点。因此在接下来的建模中，将只采用P3点，即促动器的面2点2进行建模。
+
+Tab.3 Models obtained through regression analysis   
+表4在回归分析中被剔除的变量  
+
+<html><body><table><tr><td>Model</td><td>B</td><td>Standard error</td><td>Beta</td><td>t</td><td>Significance</td></tr><tr><td>1 Constant</td><td>-80.259</td><td>0.971</td><td></td><td>-82.667</td><td>0.000</td></tr><tr><td>P3</td><td>3.561</td><td>0.033</td><td>0.995</td><td>108.258</td><td>0.000</td></tr><tr><td>2 Constant</td><td>-80.188</td><td>0.958</td><td></td><td>-83.735</td><td>0.000</td></tr><tr><td>P3</td><td>2.156</td><td>0.685</td><td>0.603</td><td>3.147</td><td>0.002</td></tr><tr><td>P1</td><td>1.410</td><td>0.687</td><td>0.393</td><td>2.052</td><td>0.043</td></tr></table></body></html>
+
+表3通过回归分析得到的模型  
+Tab.4 Variables excluded in regression analysis   
+
+<html><body><table><tr><td>Model</td><td></td><td>Beta</td><td>t</td><td>Significance</td><td>Partial Correlation</td><td>Collinear Tolerance</td></tr><tr><td>1</td><td>P1</td><td>0.393</td><td>2.052</td><td>0.043</td><td>0.193</td><td>0.002</td></tr><tr><td></td><td>P2</td><td>0.278</td><td>0.729</td><td>0.468</td><td>0.070</td><td>0.001</td></tr><tr><td></td><td>P4</td><td>0.061</td><td>1.470</td><td>0.144</td><td>0.139</td><td>0.049</td></tr><tr><td></td><td>P5</td><td>0.302</td><td>1.998</td><td>0.048</td><td>0.188</td><td>0.004</td></tr><tr><td>2</td><td>P2</td><td>0.459</td><td>1.1197</td><td>0.234</td><td>0.114</td><td>0.001</td></tr><tr><td></td><td>P4</td><td>-0.205</td><td>-1.544</td><td>0.125</td><td>-0.147</td><td>0.005</td></tr><tr><td></td><td>P5</td><td>0.070</td><td>0.137</td><td>0.892</td><td>0.013</td><td>0.000</td></tr></table></body></html>
+
+# 3模型建立与运用
+
+灰色系统理论是根据过去及现在已知或不确定的信息建立一个由过去引伸到未来的灰色模型,从而确定系统未来发展变化的趋势。灰色系统理论以微分方程为工具,能够反映事物发展的本质,不需要对预测系统有明确的了解,其研究数据可随机产生,因此相对传统统计研究方法具有能够研究小样本、贫信息、任意分布数据的优点。
+
+# 3.1灰色预测模型的建立
+
+由实验数据所展示的图2可以发现，如果只是采用线性模型进行误差补偿，难以得到好的补偿结果。在实验中，若能利用较少的或不确切的表示灰色系统行为特征的原始数据序列，来描述灰色系统内部事物连续变化过程，则可以采用灰色预测来计算。由于对于热误差的研究所采集的数据符合小样本、贫信息的特点,而且在庞大的机械系统中，也无法直接确定热误差直接相关的因素，所以灰色系统理论更加适用于热误差建模的研究。
+
+在实验过程中，随着温度的变化，促动器的精度每变化5μm采集一次温度的数值。用 S代表促动器的位移值，单位为μm， $\Delta S$ 表示位移值的变化量， $T ^ { ( 0 ) } ( t )$ 表示温度的观测值，单位为 $\mathbf { K }$ 。从 $\Delta S = 0 \mu m$ 开始记为 $t = 0$ ，温度记为 $T ^ { ( 0 ) } ( 0 )$ ， $\Delta S = 5 \mu m$ 时记为 $t = 1$ ，温度记为$T ^ { ( 0 ) } ( 1 )$ ，以此类推。因此有
+
+$$
+S = 5 t - B _ { t }
+$$
+
+其中常数 ${ \bf \nabla } \cdot { \bf B } _ { t }$ 由 $T ^ { ( 0 ) } = 2 9 3 . 1 5 ( \mathrm { K }$ )时的位移值S决定，即保证在室温下促动器的位移值为0。经过试验可以确定 $B _ { t } = 2 1 0 \mu m$ 。
+
+在实验中 $T ^ { ( 0 ) } = \{ T ^ { ( 0 ) } ( 0 )$ ， ${ \cal T } ^ { ( 0 ) } ( 1 ) , { \cal T } ^ { ( 0 ) } ( 2 ) \ldots { \cal T } ^ { ( 0 ) } ( N ) \}$ 为温度的观测值,运用灰色预测时，需要对观测值进行一次累加，得到累加值 $T ^ { ( 1 ) } = \{ T ^ { ( 1 ) } ( 0 )$ ， $T ^ { ( 1 ) } ( 1 ) , T ^ { ( 1 ) } ( 2 ) \dots T ^ { ( 1 ) } ( N ) \}$ ,其中$\begin{array} { r } { T ^ { ( 1 ) } ( n ) = \sum _ { 1 } ^ { n } T ^ { ( 0 ) } ( n ) } \end{array}$ 。根据灰色预测理论，我们可以假设 $T ^ { ( 1 ) }$ 满足一阶常微分方程$d T ^ { ( 1 ) } / \mathrm { d t } + a T ^ { ( 1 ) } = u ,$ 。由于实验中取的是离散的点，且 $t _ { 0 } = 0$ ，因此该微分方程的解为
+
+$$
+T ^ { ( 1 ) } ( k ) = [ T ^ { ( 1 ) } ( 0 ) - u / a ] \cdot e ^ { - a K } + u / a
+$$
+
+其中 $a$ 与 $u$ 采用最小二乘法进行估计求解
+
+$$
+\left[ \begin{array} { l } { \boldsymbol { a } } \\ { \left[ \begin{array} { l } { \boldsymbol { a } } \end{array} \right] = ( B ^ { T } B ) ^ { - 1 } B ^ { T } \cdot \left[ \begin{array} { c } { \boldsymbol { T } ^ { ( 0 ) } ( 1 ) } \\ { \vdots } \\ { \boldsymbol { T } ^ { ( 0 ) } ( N ) } \end{array} \right] } \end{array} \right.
+$$
+
+$$
+B = \left[ \begin{array} { c c c } { { - \frac { 1 } { 2 } \cdot [ T ^ { ( 1 ) } ( 1 ) + T ^ { ( 1 ) } ( 0 ) ] } } & { { 1 } } \\ { { } } & { { \vdots } } & { { \vdots } } \\ { { - \frac { 1 } { 2 } \cdot [ T ^ { ( 1 ) } ( N ) + T ^ { ( 1 ) } ( N - 1 ) ] } } & { { 1 } } \end{array} \right]
+$$
+
+因此通过灰色预测得到的预测值即为
+
+$$
+T ( k ) = T ^ { ( 1 ) } ( k ) - T ^ { ( 1 ) } ( k - 1 ) ; T ( 0 ) = T ^ { ( 1 ) } ( 0 )
+$$
+
+联立公式(1)(3),(5)可解得
+
+$$
+S = - K / a \cdot L n ( T ) + B + K / a \cdot L n [ ( x ^ { ( 1 ) } ( 1 ) - u / a ) \cdot ( e ^ { a } - e ^ { 2 a } ) \cdot e ^ { - a t } ]
+$$
+
+其中， $T$ 为温度，单位为 $\mathrm { ~ \bf ~ K ~ }$ 。为简便可以记
+
+$$
+K _ { y } = - K / a
+$$
+
+$$
+B _ { y } = B + K / a \cdot L n [ ( x ^ { ( 1 ) } ( 1 ) - u / a ) \cdot ( e ^ { a } - e ^ { 2 a } ) \cdot e ^ { - a t } ]
+$$
+
+其中 $K _ { y }$ 与 $B _ { y }$ 的单位均为 $\mu m$ 。将实验数据整体代入进行灰色预测，可以得到
+
+$$
+S = K _ { y } \cdot L n ( T ) + B _ { y } = 1 0 6 3 . 8 2 9 8 \cdot L n ( T ) - 6 0 4 3 . 2 8 1 3 7
+$$
+
+对比灰色预测模型与实验数据如图3，其中红线为灰色预测模型的结果，黑线为实验结果。预测模型在 $0 { \sim } 4 0 ^ { \circ } \mathrm { C }$ 的范围内与实验模型吻合较好，在极端温度下有一定误差。在实际中，模型误差的存在会使得实时控制出现误差，导致误差的不断积累。因此有必要将理论模型带入促动器中进行实时调控，再在实际情况上再进行模型的修改。
+
+![](images/57f77d79f895feb583496c603cfadc6925441dca8fea12e9407865af4a6f9966.jpg)  
+图3灰色预测模型预测结果与实验结果对比 Fig.3 Prediction results and experimental results
+
+# 3.2模型验证与修正
+
+在进行完模型预测后,将模型编入程序中，对原促动器进行实时调节。在第一次实验中，采用公式(10)进行实时误差调节。得到的实验结果如表5的第一次试验与图4的第一次试验结果所示。通过试验可以看出，通过灰色理论直接得到的灰色模型运用到实际时，由于模型无法完全修正误差，导致误差不断累积，使得越偏离室温，位移值误差越大。在进行调整并重新进行试验时，需要对公式进行修改，最直接有效的方法是对公式进行分段处理。
+
+可以看到，在不同的温度段，误差值可以当作线性增减，而且由于 $d S / d T = K _ { y } / T$ ，并且在相同趋势的温度范围内可以进行近似处理，用 $T _ { y }$ 与 $T _ { y + 1 }$ 表示 $\mathbf { y }$ 温度范围内的温度下限与上限， $\Delta S _ { y }$ 表示 $\mathsf { y }$ 温度范围内需要调节的位移量，因此有：
+
+$$
+\begin{array} { r } { \Delta S _ { y } = \int _ { T _ { y } } ^ { T _ { y + 1 } } \Delta K _ { y } / T d T = [ 2 \cdot \Delta K _ { y } / ( T _ { y 1 } + T _ { y 2 } ) + \cdots + 2 \cdot \Delta K _ { y } / ( T _ { y ( n - 1 ) } + T _ { y n } ) ] \cdot ( T _ { y + 1 } - T _ { y } ) } \end{array}
+$$
+
+$$
+T _ { y } ) \approx \Delta K _ { y } \cdot ( T _ { y + 1 } - T _ { y } ) / T _ { y }
+$$
+
+根据式(14)可以来计算修正后的 $\overline { { K _ { y } } }$ 与 $\overline { { B _ { y } } }$ ，有：
+
+$$
+\overline { { K _ { y } } } = K _ { y } - \Delta K _ { y }
+$$
+
+在接下来的数次实验中分别针对不同温度区间进行修正。在第二次试验中将温度区间分为 ${ \cdot } 4 0 { \sim } { - } 2 0 ^ { \circ } \mathrm { C }$ ， ${ \mathrm { - } } 2 0 { \sim } { \mathrm { - } } 0 ^ { \circ } \mathrm { C }$ ， $0 { \sim } 4 0 ^ { \circ } \mathrm { C }$ ， $4 0 { \sim } 6 0 ^ { \circ } \mathrm { C }$ ，得到的实验结果如表5的第二次试验与图4的第二次试验结果所示；在第三次试验中：修正 ${ \cdot 4 0 { \sim } 0 ^ { \circ } C }$ 区间内的模型，得到的实验结果如表5的第三次试验与图4的第三次试验结果所示；在第四次试验中：修正 $0 { \sim } 4 0 ^ { \circ } \mathrm { C }$ 区间内的模型，得到的实验结果如表5的第四次试验与图4的第四次试验结果所示。
+
+表5灰色预测模型各试验情况下温度分段与参数  
+Tab.5 Temp.Range and parameters in each case of the gray prediction mode   
+
+<html><body><table><tr><td colspan="4">Test_1</td></tr><tr><td>Temp. Range (K)</td><td>y</td><td>Ky</td><td>By</td></tr><tr><td>233.15-333.15</td><td>1</td><td>1063.8298</td><td>-6043.28137</td></tr><tr><td colspan="4">Test_2</td></tr><tr><td>Temp. Range (K)</td><td>y</td><td>Ky</td><td>By</td></tr><tr><td>233.15-253.15</td><td>1</td><td>625.0397</td><td>-3604.44906</td></tr><tr><td>253.15-273.15</td><td>2</td><td>924.7471</td><td>-5263.02448</td></tr><tr><td>273.15-313.15</td><td>3</td><td>1063.8298</td><td>-6043.28137</td></tr></table></body></html>
+
+<html><body><table><tr><td>313.15-333.15 4</td></tr><tr><td>1256 -7147.62245 Test_3</td></tr><tr><td>Temp. Range (K) y Ky By</td></tr><tr><td>233.15-273.15 1 825 -4703.44115</td></tr><tr><td>273.15-313.15 2 1063.8298 -6043.28137</td></tr><tr><td>313.15-333.15 3 1256 -7147.62245</td></tr><tr><td>Test_4</td></tr><tr><td></td></tr><tr><td>Temp. Range (K) y Ky By</td></tr><tr><td>233.15-273.15 1 825 -4698.94076</td></tr><tr><td>273.15-285.15 2 836.9 -4765.70002</td></tr><tr><td>285.15-313.15 3 1253.8 -7122.44213</td></tr><tr><td>313.15-333.15 4 1256 -7135.08483</td></tr><tr><td>(a) TheResult of Test1 (b) TheResult ofTest2 50 20</td></tr><tr><td>40</td></tr><tr><td>10</td></tr><tr><td></td></tr><tr><td>10 0</td></tr><tr><td>-10 -10</td></tr><tr><td>-20 -20 240 260 280 300 320 340 240 260 280 300 320 340</td></tr><tr><td>Temperature/K Temperature/K (c) (d)</td></tr><tr><td>TheResultofTest3 TheResult of Test 4 15</td></tr><tr><td>10</td></tr><tr><td>W</td></tr><tr><td>M</td></tr><tr><td>-1</td></tr><tr><td>-2</td></tr><tr><td>-10 -3</td></tr><tr><td></td></tr><tr><td>-15 4</td></tr><tr><td>240 260 280 300 320 340 240 260 280 300 320 340 Temperature/K Temperature/K a. Theoretical model</td></tr></table></body></html>
+
+Fig.4 Results of the gray prediction model in each case
+
+通过多次验证试验，在第四次试验中，将促动器由热误差引起的精度缩小到 $\pm 4 \mu m$ ，满足了新疆奇台射电望远镜对于促动器精度的要求。
+
+# 4结论
+
+本文针对即将用于新疆奇台射电望远镜的促动器进行热误差补偿。奇台射电望远镜要求促动器可以在 ${ \cdot } 4 0 { \sim } 6 0 ^ { \circ } \mathrm { C }$ 的温度范围内保持精度在 $\pm 1 5 \mu m$ 。本文针对促动器由于温度变化带来精度上的变化进行误差补偿，最终将由于温度变化带来精度上的变化量缩小到 $\pm 4 \mu m$ 。促动器结构复杂，热误差影响因素繁多，单单从理论上计算合适的温度测量点或模型不太可能。本文创新地采用了工程实践经验与统计学相结合的方法筛选温度测量点，并且在模型建立后，与试验相结合的方式推导出来了适用于该模型修改的公式，为之后在射电望远镜促动器上的研究提供了一些帮助。
+
+参考文献
+
+[1]李宁，刘志勇，王娜,等．高精度天线指向控制算法的研究[J].天文研究与技术,   
+2017(14):420.   
+[2]张宗猛，王正兰，杨德华,等．基于步进电机的位移促动器设计与实测[J]．天文研究与技术, 2019, 16(3):329-334.   
+[3]Prestage R M,Constantikes K T,Hunter TR,et al. The Green Bank Telescope[J].   
+Proceedings of the IEEE,2009, 97(8):1382-1390.   
+[4] Hughes D H, Juan-Carlos Juregui Correa, Schloerb FP,et al. The Large Millimeter   
+Telescope status[J]. Proceedings of SPIE - The International Society for Optical Engineering, 2010, 35:31.   
+[5] Orfel A, Morsiani M, Zacchiroli G ,et al. An active surface for large reflector antennas[J]. IEEE Antennas & Propagation Magazine, 2004, 46(4):11-19.   
+[6] Chiozzi G,Guzman JC,Dong J,et al. The active surface control system for the Tian Ma Telescope[C]// Society of Photo-optical Instrumentation Engineers. Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series,2016:991306.   
+[7] Deng JL . Introduction to Grey system theory[J]. The Journal of Grey System,1989.   
+[8]邓聚龙．灰理论基础[M]．武汉：华中科技大学出版社,2002:171-201.   
+[9] LUO You xin, GUO Hui xin, ZHANG long ting,等. Grey Reliability Design Model and its Application to Mechanical Engineering[J]. Journal of National University of Defense Technology, 2002,24(1):94-99.
+
+# Thermal error compensation based on QTT actuator Li Yang , Ye Qian , Jin Huiliang (School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai 200240)
+
+Abstract : The actuator to be applied to the Xinjiang Qi Tai Radio Telescope needs to maintain an accuracy of $\pm 1 5 \mu \mathrm { m }$ in a temperature range of ${ \bf - 4 0 { \it \sim } } 6 0 ^ { \circ } { \bf C }$ . The thermal error can reach about $4 0 0 \mu \mathrm { m }$ without any compensation. Therefore, it is necessary to establish a thermal error model to predict the change law of actuator displacement with temperature. And active displacement control compensation is carried out to ensure that the actuator can meet the requirements of positioning accuracy at a given temperature. First of all, from 16 temperature points,combining the basic requirements of the model and the significance test, a series of screenings are performed to select the temperature points suitable for the model. Then use the gray prediction theory to establish the gray prediction model for the actuator. Finally, the prediction model was optimized according to the actual situation.The research shows that: This paper innovatively adopts the method of combining statistics with engineering practice to select the temperature measurement point, and the thermal error model can guide the actuator displacement active control compensation, so that the actuator can achieve the positioning accuracy of $^ { \pm 4 | \mu \mathrm { m } }$ in the required temperature range of ${ \bf - 4 0 { \sim } } 6 0 ^ { \circ } { \bf C }$
+
+Key Words: Actuator; Significance test; Grey prediction； Thermal error;

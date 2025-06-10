@@ -1,0 +1,241 @@
+[
+    {
+        "type": "text",
+        "text": "Does cotton bollworm show cross-resistance to the Bacillus thuringiensis toxins Cry1Ac and Cry2Ab? A mini review ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Jihong1,2.3, TIAN Changyan1\\*, LYU Guanghui³, MAI Wenxuan1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State Key Laboratory of Desert and Oasis Ecology, Xinjiang InstituteofEcology and Geography,Chinese Academy of Sciences, Urumqi 830011, China;   \n2 University of Chinese Academy of Sciences,Beijing 10oo49, China;   \nβ College of Resources and Environment Science, Xinjiang University, Urumqi 830046, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Since 1996，transgenic Bacillus thuringiensis (Bt) cotton has been commercially grown in numerous countries in an efort to stem the losses caused by key lepidopteran pests. However, the development of pest resistance to Bt toxins has jeopardized the continued utilization of Bt cotton. As a strategy designed to circumvent the development of resistance, Bt cotton varieties expressing two or more toxins targeting the same pest have been introduced. Nevertheless, from the perspective of long-term planting of Bt cotton, the potential risk of cross-resistance to these Bt toxins is a threat that cannot be ignored. In this paper, we review current research (including that based on the analysis of protein binding sites and resistance genes) on the resistance of cotton bollworm (Helicoverpa armigera) to the Bt toxins Cry1Ac and Cry2Ab and the interrelationship between these toxins. On the basis of existing evidence, we assume that the actions of Cry1Ac and Cry2Ab against coton bollworm are not completely independent, and then propose the \"resistance-associated gene mutation potential hypothesis\". Although the mechanisms underlying the resistance of pests to Bt toxins are yet to be comprehensively elucidated, this hypothesis could undoubtedly have important implications for adopting \"pyramid\" strategy in the future. Further research is recommended to devise strategies to retard the development of $H .$ armigera resistance to Bt cotton, either using different Bt toxins or their various combinations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:cross-resistance; genetically modified cotton; coton bollworm; Bacills thuringiensis; CryAc; CryAb ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The development of genetically modified cotton was stimulated to a large extent by the burgeoning resistance of lepidopteran pests to conventional chemical pesticides. The long-term extensive use of chemical pesticides to control cotton bollworm (Helicoverpa armigera) provided intense selection pressure that resulted in the rapid evolution of resistance to these pesticides, and as a consequence led to an escalation in pesticide application rates (Luttrel et al., 1994; Wu et al., 2005; Tay et al., 2O15; Fleming et al., 2018). This overuse resulted in higher control costs and severe environmental pollution, whereas resistance to the pesticides posed a considerable threat to cotton production (Wu and Guo, 1997, 2005). In an effort to retard or even prevent the development of cotton bollworm resistance to pesticides, cotton was genetically modified to produce insecticidal proteins that would specifically target lepidopteran pests (Sanahuja et al., 2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacillus thuringiensis (Bt) cotton has to date been commercially cultivated in numerous countries worldwide, including Brazil, Argentina, India, China, Paraguay, Pakistan, South Africa, Australia, Burkina Faso and the United States of America (ISAAA, 2O18). Given its low cost and high yields,the area planted with Bt cotton, like that of other genetically modified crops, has increased rapidly (Shivendra and Deepthi, 2O16),and by 2O17, the transgenic crops were grown commercially on no less than $1 8 . 9 0 \\times 1 0 ^ { 7 } ~ \\mathrm { h m } ^ { 2 }$ in 24 countries, for example, $2 . 4 1 \\times 1 0 ^ { 7 }$ ， $9 . 4 1 \\times 1 0 ^ { 7 }$ . $5 . 9 7 \\times 1 0 ^ { 7 }$ and $1 . 0 2 \\times 1 0 ^ { 7 }$ $\\mathrm { h m } ^ { 2 }$ of genetically modified cotton， soybean， maize and canola, respectively (ISAAA, 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With the rapid and extensive commercialization of Bt cotton over the years, comprehensive resistance management methods and programs, including \"pyramid\" strategy， gene promoter and expression analyses, and field cultivation measures (Wang and Dai, 2Oo9), have atracted the considerable atention of governments and scholars (Qiao et al., 2017; Wilson et al.,2018). In this regard,however, \"pyramid\", one of the most important management strategies (Sushmita et al., 2016),has emerged as a controversial issue with respect to the potential evolution of cross-resistance to different Bt genes by pests (Luo et al., 20O7; Zhao, 2012; Kain et al., 2015; Tay et al., 2015; Wang et al., 2016; Shabbir et al., 2018). The development of resistance by pests can be achieved via a number of different mechanisms, including modification of Cry toxin receptors，the elimination of toxins from the cytosol, and the development of regulatory mechanisms that disrupt the production of toxin receptors (Melo et al., 2O14). Furthermore, due to the complex nature of biological mechanisms and the heterogeneity of field environments, it is exceedingly difficult to completely clarify the mechanisms underlying the cross-resistance of pests to Bt toxins (Liu et al., 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With a view toward gaining a better understanding of the mechanisms of cross-resistance evolved by pests, we herein put forward an explanatory hypothesis based on the research to date, namely, the \"resistance-associated gene mutation potential hypothesis\". It is our hope that this hypothesis and our reasoning could contribute to retarding the development resistance to Bt toxins by pests and promote a more rational and sustainable utilization of genetically modified crops. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Threat posed by pest resistance to the sustainable use of Bt cotton ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The widespread planting of transgenic cotton is mainly driven by higher yields and lower costs, and thus gaining more substantial economic benefits (Pray et al., 2OO1; Qaim, 2OO9; Subramanian and Qaim, 2O1O). However, the value of Bt cotton could be diminished by insect resistance to Bt toxins. Many CrylAc- and Cry2Ab-resistant strains of $H .$ armigera have been detected in different coton planting areas (Akhurst et al., 2003; Liang et al., 2008; Nair et al., 2010; Wei et al.,2015; Cui et al., 2018). For instance, research results showed that cotton bollworm has developed field resistance to CrylAc in Pakistan (Alvi et al., 2O12). Therefore, this transgenic technology is faced with the same problems that have plagued the use of chemical pesticides (Downes et al.,， 2O17). Lack of refuges, the irrational use of unknown varieties and incomplete routine monitoring programs are among the most probable explanations for the evolution of field resistance (Tabashnik et al., 2OO9a) and pose a considerable threat to the sustainable utilization of Bt cotton (Allah et al., 2009). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3Cotton bollworm resistance management strategies ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In an effort to retard the increase in resistance to Bt toxins, a range of integrated resistance management strategies have been initiated (Gould et al., 1997; Gould, 2000; Xu et al., 2006), which can be divided into the following four categories (Wang et al., 2Oo9): (1) gene strategies, the introduction of single gene or multiple genes encoding toxin proteins that bind to different receptors (Niu et al.， 2013; Carriere et al.， 2018; Reisig et al.， 2018); (2) gene promoters, tissue-specific expression of Bt genes under specific environmental conditions to control pests (McGaughey and Whalon,1992; Williams et al., 1992); (3) gene expression, the maintenance of a high expresson level of toxins in crops to kill all pests with hybrid resistance genes (Denholm and Rowland, 1992; Tabashnik, 1994); and (4) field tactics, maintaining a sensitive population of pest through uniform individual genes, multiple genes, gene rotation, proportional cultivation, non-Bt-producing crop refuges or \"natural refuges\" of traditional host plants with small-scale mixed planting patterns (Downes et al., 2007; Wu et al., 2008; Gujar et al., 2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since 20O4, with a view toward to impeding the evolution of resistance, Cry2Ab has been widely utilized for the control of cottn bollworm populations, typically in combination with CrylAc (Li et al., 2O06; Hernadez et al., 2O13). As a necessary proactive resistance management method, CrylAc and Cry2Ab sensitive baselines of field pest populations have been monitored in the main Bt cotton cultivated countries, including China, India, Brazil, Australia and the United States of America (Wu et al., 1999; Sivasupramaniam et al., 20O7; Brvault et al., 2009; Kranthi et al., 2009; Kaur et al., 2011; Albernaz et al., 2013). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4Cross-resistance to Cry1Ac and Cry2Ab ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Some studies have showed that cotton bollworm does not show cross-resistance to CrylAc and Cry2Ab (Luo et al., 2007). Cry2Ab resistance in cotton bollworm could be attributed to three independent resistance-related insertions and deletions in an ATP-binding cassette transporter gene (Tay et al., 2O15). Cadherin proteins may be closely associated with the Cry1Ac resistance of cotton bollworm (Xu, 2005; Yang, 2010). No cross-resistance to CrylAc is observed in isolated Cry2Ab-resistant mutant lines due to differences in the mechanisms of actions of Cry1Ac and Cry2Ab (Tay et al., 2015)， and binding site analyses in two Helicoverpa species have accordingly indicated that colonies resistant to Cry2Ab show no cross-resistance to CrylAc. Furthermore, resistant pests with a significantly decreased binding between Cry2Ab toxin and midgut receptors have been found to show no comparable inhibition for CrylAc binding (Caccia et al.,2O1O). Thus, it is postulated that binding site mutation may be responsible for the occurrence of Cry2 protein resistance in Helicoverpa pest species. Conversely， bioassay and binding analyses in cotton bollworm have indicated that lines resistant to CrylAc are susceptible to Cry2Ab, and that there are differences in the binding sites of Cry1Ac and Cry2Ab (Luo et al., 2007). Consistently, other research results have suggested that Cry1Ac resistance may not induce a high cross-resistance to Cry2Ab (Tabashnik et al., 2OO2),and bioassay，in vitro labeling and surface plasmon resonance analyses have similarly revealed that there is no brush border membrane vesicle (BBMV) combining competition, and that CrylAc-resistant cotton bollworm shows no cross-resistance to Cry2Ab (Luo, 2O07). By using protein analysis technology， Yin (2012) concluded that Cry2Ab and Cry1Ac have different binding sites on the BBMVs of cotton bollworm based on the excluding micro-effect competition. According to binding site analyses in Ostrinia nubilalis and Spodoptera frugiperda， cross-resistance between proteins (Crylab/ac, CrylA.105 and Cry1Fa) and Cry2A proteins is very unlikely (Hernandez-Rodriguez et al., 2013). In contrast to the aforementioned studies, however， other researchers proposed that many lepidopteran pests, including the cotton bollworm, have developed cross-resistance to CrylAc and Cry2Ab (Yu, 2004; Luo, 2007; Wei et al., 2012, 2015). For example, resistance evaluation in Helicoverpa zea, one of the most important target pests of pyramided Bt cotton, has revealed a low cross-resistance between Cry1Ac and Cry2Ab (Welch et al., 2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Laboratory diet experiments using the cotton bollworm have indicated that under the selection of CrylAc, pests exhibit a low cross-resistance to Cry2Ab (Liu et al., 2O18). The findings of previous studies have also showed that dual-toxin Bt cotton expressing CrylAc and Cry2Ab would be more effective in cases that no Bt spray or only CrylAc Bt spray is used, compared with the use of Cry2Ab Bt spray (Wei et al.， 2015). Nevertheless, two cotton bollworm CrylAc-resistant strains collected from fields in northern China were found to have a simultaneous cross-resistance to Cry2Ab (Jin et al., 2013). Other insect pests, including $H .$ zea, have also been found to show a developed cross-resistance to CrylAc and Cry2Ab, thereby markedly reducing the efficacy of the pyramid strategy for pest control (Brevault et al., 2013). For Pectinophora gossypiella, a laboratory Cry2Ab-resistant strain, has been shown to have a high cross-resistance to Cry1Ac; although laboratory CrylAc- and Cry2Ab-resistant strains were found to be able to survive on coton producing CrylAc, they were incapable of surviving on pyramided Bt cotton (Tabashnik et al.， 2009b). Zhao (2012) previously reported that Cry2Ab-resistant cotton bollworm strains had a cross-resistance to CrylAc. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The asymmetrical cros-resistance might help the sustainable use of Bt cotton containing CrylAc and Cry2Ab. And the synergistic actions of Cry1Ac and Cry2Ab against cotton bollworm suggest that the eficacy of pyramided Bt coton against bollworm could be prolonged (Wei et al., 2015). However， these above findings accordingly imply that such cross-resistance might accelerate the development of pest resistance to Bt biological pesticides and pyramided Bt crops (Welch et al.， 2O15). The resistance could conceivably be atributable to the occurrence of resistance to pyramided Bt cotton caused by the screening of one of these toxins that were applied in the field. Given the selective pressures of Bt biocides used in the field, insect populations could evolve resistance to pyramided Bt crops (Kain et al., 2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5The \"resistance-associated gene mutation potential hypothesis\" ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although numerous studies have investigated the mechanisms underlying the resistance of $H .$ armigera to Bt toxins from ecological, physiological and molecular biological perspectives (Wei et al.,2016; Zhao et al., 2016; Liu et al.，2017; Xiao et al.，2017), these mechanisms are presumed to be complex and diverse， and accordingly are yet to be completely clarified (Peterson et al., 2O17). Indeed, there is still a general lack of consensus regarding the occurrence of cross-resistance, particularly in the case of cotton bollworm with respect to the two widely used Bt toxins, i.e., Cry1Ac and Cry2Ab (Luo et al., 2007; Zhao, 2012; Welch et al., 2015). A possible explanation forthe disparity among research findings could bethat resistance-associated genes are not confined to a single specific site or a few sites, but involve a diverse range of sites with different genetic mutation potentials. Given this scenario, we propose a new hypothesis, namely， the \"resistance-associated gene mutation potential hypothesis\". Essentially, this hypothesis states that for a specific pest species, including the coton bollworm, genetic mutation associated with the resistance to an environmental stress might occur at many sites based on the differences in resistance mechanisms and biochemical pathways, and that binding sites involved could conceivably have different mutation potentials. When certain resistance-associated sites do not mutate or when mutations that do occur are ineffective in conferring resistance to stress， other resistance-associated sites could mutate with a higher fitness cost, such as higher mortality and longer evolutionary processes. These processes would continue until the population either develops resistance or dwindles to extinction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6Consistency between hypothesis and current research results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "On the basis of the aforementioned hypothesis, we here attempt to provide a rational explanation for the seemingly contradictory research findings. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6.1Resistance-associated binding sites and mutational diversity ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The activity of Bt toxins is generally mediated via a series of physiological and biochemical reactions, including dissolution in the alkaline conditions within the intestines， protease activation, the binding to receptors and glycosylphosphatidylinositol (GPI) anchor proteins, membrane perforation or signal transduction, and cell apoptosis (Bravo et al., 2OO8). Accordingly, resistance might evolve in response to changes in any one or a combination of these steps or the associated functional biochemical reactions, including toxin dissolution, enzyme activation, receptor binding and signal transmission. Considering thispotential diversityof resistance-evolving pathways, we propose that pests might adapt to a variety of complex environmental stressors, with the lowest ecological cost. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.2Asymmetrical cross-resistance of pests ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Even when using the same experimental materials, test pests and methods, the results of studies might be completely different when the experiment is conducted forwardly and inversely. For example, a CrylAc- and Cry2Ab-resistant strain of Pectinophora gossypiella was found to survive on CrylAc cotton, but not on pyramided Bt cotton (Tabashnik et al.， 2OO9). As a consequence of multi-generation feeding with Cry1Ac, coton bollworm can develop a high resistance to CrylAc but retain a low resistance to Cry2Ab (Wei et al., 2015). However, multi-generation feeding with Cry2Ab resulted in a low resistance to Cry2Ab and a high resistance to CrylAc (Wei et al.， 2015). Furthermore, in heterologous competition assays, CrylAc binding bands were found to be almost unaffected by the addition of 2OO times unlabeled Cry2Ab, whereas all the Cry2Ab bands disappeared in the presence of 2OO times CrylAc competition, thereby indicating significant differences in the binding proteins (Yin, 2012). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.3Genetic instability of cross-resistance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For cotton bollworm, the inheritance of resistance is known to be unstable. The resistance level of pests could decline under certain circumstances, whereas it could remain stable in other pest species.For instance, in the absence of CrylAc selection, the evolved rate of resistance has been observed to decline significantly over five generations (Li， 2O09)，which indicated that pest resistance to Cry1Ac and Cry2Ab can decrease within a non-Bt environment. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.4 Effect ofdifferent bindingcharacteristics ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The binding sites or receptors for Bt toxins are known to have specific binding characteristics. Moreover, even in the case of the same site, different research methods can yield contrasting results. Accordingly， with respect to the cross-resistance of cotton bollworm to CrylAc and Cry2Ab, we could indeed draw seemingly contradictory conclusions, depending on the different research levels or perspectives. However, these conclusions could be more consistent if we take a holistic approach. For instance, certain results indicate that the occurrence of Cry2Ab resistance in cotton bollworm can be attributed to three genetic mutations in an ATP-binding cassete transporter gene, and that there is no cross-resistance to CrylAc in mutant strains as a consequence of differences in the action patterns of CrylAc and Cry2Ab (Tay et al., 2015). However, the results of other studies show that the binding of Cry2Ab to midgut proteins is disrupted in the presence of CrylAc toxin (Yin, 2O12). These apparently contradictory results could be understood from a macro-perspective; specifically, the action of these two toxins is associated with independent resistance-related mutations， whereas they perhaps also have dependent competitive binding sites. In short, the conclusions drawn from these studies may each be valid in their own settings when targeting one or more binding sites or biochemical processes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On the basis of the \"resistance-associated gene mutation potential hypothesis\" presented here, we recommend that pyramided Bt cotton strategies and their long-term efficacy should be reconsidered. Considering the substantial biological control value of these toxins, the primary goal of resistance management lies in the maintenance of their efficacy for as long as possible, considering the fact that the effectiveness of Bt coton depends on the sensitivity of pests to these toxins. Given the various strands of evidence obtained from the research conducted to date, we can conclude that, with respect to cotton bollworm, the mechanisms of pest resistance to CrylAc and Cry2Ab are not completely independent. Accordingly, the potential risk of resistance to pyramided transgenic cotton might be considerably higher than initially anticipated. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "However, although compared with single-toxin transgenic cotton, pyramided transgenic cotton has a superior control eficiency and a more durable \"service\" life, it is important to realize that the full potential of individual toxins should be developed when several toxins are simultaneously used in the field. Therefore, resistance management measures could not be ignored and the greater value of all utilized Bt toxins should be realized. In this regard, the rotation of different single-toxin Bt crops and the rotation of these crops with non-toxin Bt should be considered as strategies to delay the evolution of resistance. Moreover, when introducing further toxins into genetically modified crops, we should pay more atention to integrated control measures for the rational utilization of Bt toxin resources. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Natural Science Foundation of China (U1803233). The authors thank Prof. Kathreen RUCKSTUHL and Dr. WANG Muyang for their helpful suggestions on this manuscript. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AkhurstRJ,James W,BirdLJ,etal.O3.ResistancetotheCryAc-endotoxinofBacillusthuringiensisinteton bollworm,Helicoverpa armigera (Lepidoptera: Noctuidae).Journal of Economic Entomology,96(4): 1290-1299.   \nAlbernazKC,MerlinBLMartiellS,etal.23.BaselinesusceptibilitytoCryAcinsecticidalproteininHeliothisveens (Lepidoptera: Noctuidae) populations in Brazil. Journal of Economic Entomology,106(4): 1819-1824.   \nAllh B,RaoA Q,ShahidAA,etal.2o.Insectresistanceandriskassssment studiesinadvancelinesofBtcottonharboring Cry1Ac and Cry2A genes.American-Eurasian Journal of Agricultural and Environmental Science,6(1): 1-11.   \nAlvi AH,SayedAH,NaeemM,etal.20l2.FieldevolvedresistanceinHelicoverparmigera (Lepidoptera: Noctuidae)to Bacillus thuringiensis toxin Cry1Ac in Pakistan. PloS ONE,7(10): e47309,doi:10.1371/journal.pone.0047309.   \nBravo A,Sober6nM.2008.How tocope with insectresistance toBttoxins?Trends in Biotechnology,26(10):573-579.   \nBrevault T,HeubergerS,Zhang M,etal.2O13.Potential shortfallof pyramided transgeniccoton forinsectresistance management. Proceed of the National Academy of Sciences of the United States of America,110(15): 5806-5811.   \nBrvaultT,PrudentPsare,tal..useptilityofHlcoverpaarmigera (Lepdotera: Noctidae)toad Cry2Ab2 insecticidal proteinsinfourcountriesofthe WestAfricancotonbelt.JournalofEconomic Entomology,102(6): 2301-2309.   \nCacciaS,Hernande-RodriguezCS,MahoRJ,etal..indingsitealterationisesposibleforfeld-isolatedsistance to Bacillus thuringiensis Cry2A insecticidal proteinsin two Helicoverpa species.PloS ONE,5(4):e9975，doi: 10.1371/journal.pone.0o09975.   \nCariere Y,DegainBA,UnnithanGC,etal.2O18Efectsofsasonalchangesincottnplantsontheevolutionofrsistaceto pyramidedcoton producing theBttoxins Cry1Acand Cry1Fin Helicoverpa zea.PestManagement Science,74(3): 627-637.   \nCui L,WangQQ, Qi HL,etal.2O18.Resistance selectionof indoxacarbinHelicoverpaarmigera (Hubner)(Lepidoptra: Noctuidae):Cross-resistance,biochemical mechanismsand associated fitness costs.Pest Management Science,74(11): 2636-2644.   \nDenholmI,Rowland M W.1992.Tactics for managing pesticide resistance in arthropods: Theoryand practice. Annual Review of Entomology, 37(1): 91-112.   \nDownes S J,Mahon R,Olsen K.2Oo7.Monitoring and adaptiveresistance management inAustralia for Bt-cotton:Crrent status and future challenges. Journal of Invertebrate Pathology, 95(3): 208-213.   \nDownes S J,Kriticos DJ,Parry H,etal.2O17.A perspectiveonmanagementof Hlicoverpaarmigera: transgenicBtoton, IPM, and landscapes. Pest Management Science, 73(3): 485-492.   \nFlemingD,MuserF,ReisigD,etal.2O18.Efectsof transnicBacillusturingiensiscottnoninsecticideuse,elioine counts，plant damage， and cottn yield: A meta-analysis，1996-2015. PLoS ONE，13(7): e0200131，doi: 10.1371/journal.pone.0200131.   \nGouldF,AndersonA,JonsA,etal.997.InitialfrequencyofalelsfoesistancetoBacillusturingiensis toxifield populationsofHeliothisvirescens.Proceedingsof theNationalAcademyofSciencesof the United Statesof America,94(8): 3519-3523.   \nGould F. 2000. Testing Bt refuge strategies in the field. Nature Biotechnology,18(3): 266-267.   \nGujar G T,Kalia V,BunkerGK,et al.2O10.Impactofdiferent levelsofnon-Btcotonrefuges onpestpopulations,bollwom damage, and Bt cotton production. Journal of Asia-Pacific Entomology, 13(4): 249-253.   \nHernandez-Rodriguez CS, Hernandez-Martinez P,van RJ,etal.2013.Shared midgut binding sites for Cry1A.105,CrylAa, CrylAb,CrylAcandCrylFaproteins from Bacilusthuringiensisintwo importantcorn pests,Ostrinianubilalisand Spodoptera frugiperda. PloS ONE,8(7): e68164,doi: 10.1371/journal.pone.0068164. biotechnology/genetically modified crops in 2017. China Biotechnology,38(6): 1-8. (in Chinese)   \nJinL,WeiYY,ZhangL,etal.213.DomnantresistancetoBtcotonandmiorcross-resistanetoBttoxinCrybinon bollworm from China. Evolutionary Applications, 6(8): 1222-1235.   \nKain W,Song XZ,Janmaat AF,etal.2015.ResistanceofTrichoplusiani populationsselectedbyBacillusthuringiensis sprays tocotton plants expressing pyramided Bacillus thuringiensis toxins Cry1Ac and Cry2Ab. Applied and Environmental Microbiology, 81(5): 1884-1890.   \nKaurP,Dilawari VK.20l1.Inheritanceof resistance to Bacillus thuringiensis Cry1Ac toxin in Helicoverpa armigera (Hubner) (Lepidoptera: Noctuidae) from India. Pest Management Science, 67(10): 1294-1302.   \nKranthiS,DhawadC S,Naidu S,etal.2O09.Susceptibilityof thecotonbollworm,Helicoverpa armigera (Hubner) (Lepidoptera: Noctuidae)to the Bacillus thuringiensis toxin Cry2Abbeforeand after the introductionof Bolgard-II. Crop Protection, 28(5): 371-375.   \nLi Y M.2009. Studyon molecular genetic mechanism of resistance to Bt toxin Cry1Ac in Helicoberpa armigera (Hubner). PhD Dissertation. Harbin: Northeast Agricultural University, 52-53. (in Chinese)   \nLi Y X, Greenberg SM,Liu T X. 2006.Efects of Btcotton expressing Cry1Ac and Cry2Ab and non-Btcotton on behavior, survival and development of Trichoplusia ni (Lepidoptera: Noctuidae). Crop Protection,25(9): 940-948.   \nLiang GM,WuKM,Yu HK,etal.2O08.Changes of inheritance mode andfitnessin Helicoverpa armigera (Hubner) (Lepidoptera: Noctuidae)along withits resistance evolution to Cry1Ac toxin.Journal of Invertebrate Pathology,97(2):142- 149.   \nLiu C,Zhang DD,WangZY,etal.2018.Resistance,andcros-resistance,of Helicoverp armigera tdiferentBtproteis. Chinese Journal of Applied Entomology,55(1): 55-60. (in Chinese)   \nLiu L P,Gao MJ, Yang S,et al. 2O17.Resistanceto Bacilus thuringiensis toxin Cry2Aband survival on single-toxin and pyramided cotton in cotton bollworm from China. Evolutionary Applications,10(2): 170-179.   \nLuo SD.2007.The investigation of resistance risk on Bt-Cry1Ac-resistant Helicoberpa armigera (Lepidoptrea: Noctuidae)to Cry2Ab.PhD Dissertation. Beijing: Chinese Academy of Agricultural Sciences,71-72. (in Chinese)   \nLutrellR G,Fit GP,RamalhoFS,et al.1994.Coton pest management: Part1.A worldwide perspective.Annual Reviewof Entomology, 39: 517-526.   \nMcgaughey WH, WhalonME.1992. Managing insectresistanceto Bacilus thuringiensis toxins.Science,258(5087):1451- 1455.   \nMelo ALD,Soccol VT,SoccolCR.2014.Bacilus thuringiensis: mechanismof action,resistance,andnewapplicatios: a review. Critical Reviews in Biotechnology,36(2): 317-326.   \nNair R,KaliaV,AggarwalKK,etal.2010.Inheritanceof CryAcresistanceandassociatedbiologicaltraits intheoton bollworm, Helicoverpa armigera (Lepidoptera: Noctuidae). Journal of Invertebrate Pathology,104(1): 31-38.   \nNiu L,Ma Y,Mannakkara A,et al. 2O13.Impactof single and stacked insect-resistant Bt-cottonon the honey bee and silkworm. PLoS ONE, 8(9): e72988, doi: 10.1371/journal.pone.0072988.   \nPeterson B,Bezuidenhout CC,van den Berg J.2O17.Anoverview of mechanisms of cry toxin resistance in lepidopteran insects. Journal of Economic Entomology,110(2): 362-377.   \nPray C,Ma D M,Huang J K, et al. 2001. Impact of Bt coton in China. World Development,29(5): 813-825.   \nQaim M. 2009.The economics of genetically modified crops. Annual Review of Resource Economics,1: 665-693.   \nQiao FB, Huang JK, Wang X B.2O17. Fiften years of Btcotton in China: Results from household surveys.World Development, 98: 351-359.   \nReisig DD, HusethAS,BachelerJS,etal.2018.Long-term empiricalandobservational evidenceof practical Helicoverpa zea resistance to cotton with pyramided Bt toxins. Journal of Economic Entomology,111(4): 1824-1833.   \nSanahujaG,BanakarR,TwyaRM,etal.2O11.Bacilusthuringiensis: acenturyfresearch,developmentandcomrcial applications. Plant Biotechnology Journal, 9(3): 283-300.   \nShabir M Z, Quan YD, Wang Z Y,et al. 2018. Characterizationof the CrylAh resistance in Asiancorn Borer and its cross-resistance to other Bacillus thuringiensis toxins.ScientificReports,8: 234,doi: 10.1038/s41598-017-18586-2.   \nSivasupramaniam S,HeadGP,EnglishL,etal.2O7.Aglobalapproach toresistance monitoring.Journalof Invertebrate Pathology, 95(3): 224-226.   \nShivendra S K,Deepthi K.2016.Agricultural biotechnologyand crop productivity: macro-level evidences oncontributionof Bt cotton in India. Current Science, 110(3): 311-319.   \nSubramanian A,Qaim M.2O10.The impactof Btcoton onpoor households inrural India.Journal of Development Studies, 46(2): 295-311.   \nSushmita K,Ramesh B, Patanayak D,et al. 2016.Gene pyramiding: A strategy for insect resistance management in Bt transgenic crops. Indian Journal of Biotechnology,15: 283-291.   \nTabashnik B E.1994. Evolution of resistance to Bacillus thuringiensis. Annual Review of Entomology,39: 47-79.   \nTabashnik BE,DennehyTJ,Sims MA,etal.202.Controlofresistant pinkbollworm (Pectinophora gossypiella by transgeniccoton that produces Bacilus thivingiensis toxinCry2Ab.Applied &Evironmental Microbiology,68(8):3790 3794.   \nTabashnikBE,vanRensburgJBJ,CariereY.2O09a.Field-evolved insectresistancetoBtcrops:defiition,theoryanddata. Journal of Economic Entomology, 102(6): 2011-2025.   \nTabashnikBE,UnithanGC,MassonL,etal.2b.Asymmetricalcros-resistancebetweenBacillusthuringiensis toxis CrylAc and Cry2Ab in pink bollworm.Proceedingsof the National Academyof Sciencesof the United States of America, 106(29): 11889-11894.   \nTayWT,MahonRJ, Heckel DG,etal.2O15.Insectresistance toBacilusthuringiensis toxin Cry2Ab isconferredby mutations inanABC transportersubfamilyaprotein.PLoS Genetics,(11): e10o5534,doi: 10.1371/journal.pgen.1005534.   \nWang JN,Dai XF.2O09.Resistance for Helicoverpa armigera against the transgenic Btcottonand its management strategy. Molecular Plant Breeding, 7(1): 117-124. (in Chinese)   \nWang YQ, Wang YD, Wang Z Y,et al.2O16. Genetic basis of CrylF-resistancein a laboratory selected Asian corn borer strainand itscross-resistance toother Bacillusthuringiensistoxins.PLoS ONE，11(8): eO161189，doi: 10.1371/journal.pone.0161189.   \nWei JZ,Guo YY,Gao XW,et al.2012.Evaluationof the toxicityofCry1Fa tothe CryAc-resistant coton bollworm, Helicoverpa armigera (Lepidoptera: Noctuidae). Acta Entomologica sinica,55(10): 1154-1160. (in Chinese)   \nWei JZ,GuoYY,LiangGM,et al.2015.Cros-resistanceand interactions between Bt toxins CryAcandCryAbagaist the cotton bollworm. Scientific Reports,5: 7714,doi: 10.1038/srep07714.   \nWeiJZ.2016.The roles of receptors inthe mechanismof cros-resistance between Cry1Ac and Cry2Ab incotton bollworm. PhD Dissertation. Beijing: Chinese Academy of Agricultural Sciences. (in Chinese)   \nWei JZ,Liang GM, Wang BJ, et al.2016.Activation of Bt protoxin Cry1Ac inresistant and susceptiblecoton bollworm. PLoS ONE,11(6): e0156560, doi: 10.1371/journal.pone.0156560.   \nWelch KL, Unithan GC,DegainBA,etal.2015.Cro-resistance totoxins used in pyramided Btcrops andresistance to Bt sprays in Helicoverpa zea. Journal of Invertebrate Pathology,132: 149-156.   \nWilliams S,Friedrich L,Dincher S,et al. 1992. Chemical regulation of Bacillus thuringiensis $\\hat { o }$ endotoxin expression in transgenic plants. Bio/Technology, 10(5): 540-543.   \nWilson LJ, Whitehouse ME A, Herron G A. 2O18. The management of insect pests in Australian Cotton: An evolving story. Annual Review of Entomology,63(1): 215-237.   \nWu K M,Liang GM, Guo YY.1997. Phoxim resistance of Helicoverpa armigera (Lepidoptera: Noctuidae)in China.Journal of Economic Entomology, 90(4): 868-872.   \nWu K M, Guo YY,LvN.1999. Geographic variation insusceptibilityof Helicoverpa armigera (Lepidoptera: Noctuidae)to Bacillus thuringiensis insecticidal protein in China. Journal of Economic Entomology,92(2): 273-278.   \nWu K M,Guo YY.205.Theevolution ofcoton pest management practices in China. Annual Review ofEntomology,50(1): 31-52.   \nXiao YT,Dai Q,HuRQ,et al.2O17.A single point mutationresulting incadherin mislocalization underpins Resistance against Bacillus thuringiensis toxin in cotton bollworm. Journal of Biological Chemistry,292(7): 2933-2943.   \nXu X J.2005.Biochemical and molecular mechanisms of resistance to Cry1Ac-endotoxin of Bacilus thuringensis in Helicoverpa armigera (Hubner). PhD Dissertation. Nanjing: Nanjing Agricultural University,97. (in Chinese)   \nXu YL,WangZY,He KL,etal.26.Themechanismof insectresistance to Bt toxinandtheresistance managementtactics. Acta Phytophylacica Sinica, 33(4): 437-444. (in Chinese)   \nYangYJ.2010.Identification and detectionof mutatedcadherin allelesassociated with Cry1Acresistance in Helicoverpa armigera (Hubner). PhD Dissertation. Nanjing: Nanjing Agricultural University. (in Chinese)   \nYin W.2012.Baseline toxicity of Cry2Aband identification of midgut Cry2Ab-binding proteins and midgut juice proteins of Helicoverpa armigera.MSc Thesis. Nanjing: Nanjing Agricultural University: 36-37. (in Chiese)   \nYu L Y.2004. Inheritance mode and crossresistance pattrn ofa Cry1Ac-resistant strain or Helicoverpa armigera (Hubner). MSc Thesis. Nanjing: Nanjing Agricultural University. (in Chinese)   \nZhao J. 2012. Frequency and inheritane of resistance aleles to Cry1Ac and Cry2Ab in Jiangpu and Anyang populations of Helicoverpa armigera.PhD Dissertation. Nanjing: Nanjing Agricultural University. (in Chinese)   \nZhao ZY,Li YH, XiaoYT,etal.2016. Distributionand metabolismof Bt-Cry1Actoxin in tissuesand organs ofthecoton bollworm, Helicoverpa armigera. Toxins, 8(7): 212, doi: 10.3390/toxins8070212. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "type": "text",
+        "text": "维生素E对鹅反季节繁殖卵泡发育的调节作用及研究现状1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李思明 唐艳强 肖海红　郭小泽　陈彦良　刘文舒 欧阳玲花\\*(江西省农业科学院，南昌 330200)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：鹅的繁殖具有典型的季节特征，最终导致全年不均衡生产，使市场供需不足，价格波动较大。维生素E对家禽保持正常繁殖机能发挥重要作用。但关于维生素E对鹅产蛋基因、卵泡发育调控、生殖器官以及反季节繁殖卵泡发育过程中细胞凋亡基因Dicer和产蛋性能候选基因（CGLP）等表达影响的相关研究鲜见报道。本文就维生素E对调节种鹅反季节繁殖卵泡发育的研究现状及其展望作一综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：种鹅；反季节繁殖；维生素E；营养调控；繁殖基因 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S835",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鹅的繁殖具有典型的季节特征，最终导致全年不均衡生产，使市场供需不足，价格波动较大。反季节繁殖技术是通过人工控制光照、温度等环境因素结合强制换羽及饲料营养调控等综合措施来改变鹅的繁殖活动，使鹅在自然状态下的产蛋季节停产，不产蛋季节产蛋，从而使鹅持续高效地进行生产的一种技术[Il。关于鹅的反季节繁殖技术研究，国外研究多数为雁鹅和雪鹅，在我国对马岗鹅、扬州鹅、兴国灰鹅等品种也有反季节繁殖研究，但仅限于光照、温度等因素对反季节繁殖的研究，并取得了一定的经济效益，而针对有关营养因子对种鹅反季节繁殖调控的研究较少，因此，如何在现有反季节繁殖技术研究基础上有效地实施营养因子对鹅卵泡发育调控的研究，对提高其产蛋量具有重要的实际应用价值。现有研究表明，维生素E对提高家禽产蛋率、受精率、孵化率、生殖激素水平等常规繁殖指标发挥重要作用[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1鹅繁殖性能的调节 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，国内外对于提高种鹅繁殖率研究的资料很少，对于鹅反季节性繁殖的研究更少。国内的研究通常是通过育种手段[3]、营养调控[4]、应用生物技术3方面来提高鹅的繁殖力[5-7],但研究不多。利用品种改良已经使鹅的产蛋性能在一定程度上得到提高，然而，随着鹅产蛋性能的逐步提高，其遗传进展将变得十分缓慢，且不能实现均衡生产。因此，研究工作者目前正在寻求利用反季节繁殖和营养调控手段进一步提高和实现鹅全年均衡生产。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "家禽卵泡发育和等级建立是一个由多因素调控的复杂生物学过程，依赖于下丘脑-垂体-卵巢轴的调节，其分子机制尚不清楚[5-6]。鹅产蛋性能的高低主要取决于卵泡的生长和发育水平。禽类的大量卵泡仅少数能发育成熟，大约仅 $5 \\%$ 能发育到小黄卵泡。卵泡经过发育、选择和闭锁等机制建立起严格的等级体系。被选择进入等级发育的卵泡数目越多，蛋禽的产蛋期越长，其产蛋性能也越高。尽管在等级卵泡的选择机理方面己有大量研究，但由于卵泡发育受到发育因子分泌、基因表达、营养等多种因素的复杂调控，其确切的机制尚有很多不明之处，尤其在鹅上，更未见相关研究资料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "谢金防等[7及其团队[8-9]自20世纪80年代至今，对兴国灰鹅开展了大量的研究工作。针对兴国灰鹅存在明显的季节性繁殖特性，团队成员采用反季节繁殖调控技术，利用短光照控制解决了其在自然条件下 $5 { \\sim } 8$ 月份不产蛋的问题，产蛋数显著提高，但研究仅限于光照对激素、受精率、孵化率和产蛋数的研究[7]，运用营养调控措施从生理生化以及分子水平研究卵泡闭锁及其调控的工作尚未开展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2维生素E对鹅卵泡的发育调节及作用机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以往维生素E 对鹅繁殖机能的研究仅限于常规繁殖指标上，且研究甚少。卵泡颗粒细胞凋亡与否是卵泡发育的一个重要标志。卵泡内起通讯作用的可溶性化学信号分子主要包括细胞凋亡\"开关\"Dicer基因和产蛋性能候选基因(CGLP)等。鹅卵巢上有数以万计的卵泡，但是这些卵泡中只有少数被选择至排卵前阶段并最终排卵，其余的均发生闭锁[0]。如果维生素E能减少卵泡闭锁来促进鹅多排卵，将有望提高鹅的繁殖力。蛋的形成涉及雌激素（ $\\mathbf { \\nabla } \\cdot \\mathbf { E } _ { 2 }$ 在肝脏诱导卵黄前体蛋白的合成和卵黄前体蛋白在卵巢中的吸收[10]。而卵黄前体蛋白源(vg)是由肝脏合成，其释放又需要经过细胞膜，维生素E作为细胞膜的抗氧化剂可保护细胞膜不受破坏，保证其正常的运输功能，使vg能正常地释放出来，以维持较高的产蛋量[11-12]。研究表明，饲粮中添加维生素E可以提高鹅产蛋率、受精率和孵化率，且随维生素E 添加量的增加，鸭输卵管重量、输卵管长度及卵巢的重量有增加的趋势[13]。但是有关维生素 E对鹅反季节繁殖卵泡发育的影响及其调节关系的研究尚未见报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dicer 是卵泡颗粒细胞凋亡的开关。Dicer是合成miRNA和 siRNA必不可少的酶。这些小 RNA 转录后调节 mRNA 的表达，影响细胞活动，包括增殖、分化和闭锁[10]。近年来，已经开始通过基因敲除小鼠模型研究在女性生殖组织中Dicer 酶的作用[]。在颗粒细胞中使Dicer条件性失活会导致原始卵泡的大量募集，促进初级卵泡的补充并产生更多的闭锁卵泡，与卵泡发育相关的基因也发生改变。Dicer 在卵巢颗粒细胞、子宫和输卵管的基质细胞中条件性失活确实可以导致排卵率的下降、闭锁卵泡增加、胚胎完整性下降，延缓早期胚胎发育，造成显著的双侧输卵管囊肿，损害雌性生殖道发育，导致雌性不育[12]。那么维生素E对 Dicer的功能是否具有调节作用仍有待研究证实，若有，维生素E对鹅反季节繁殖卵泡颗粒细胞中Dicer的调节关系如何也有待阐明。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3维生素E对鹅CGLP的调节及作用机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究证实，维生素E 能够促进鸡卵巢体外培养颗粒细胞增殖，降低细胞凋亡率[13]。研究CGLP表达的动态变化规律对于调节鹅卵泡发育和产蛋的分子调控机制具有重要的意义。目前，关于畜禽繁殖性能的候选基因CGLP已经提出了许多个，其中对猪的研究较多，对家禽 CGLP 基因的研究相对较少。研究已经证实，促卵泡素(FSH)、促黄体素(LH)和催乳素（PRL）是鹅卵泡发育的主要调控激素，其他有许多激素是通过对这3种激素分泌的影响而间接发挥调节作用的[14-16]。然而激素作用的发挥是受到激素受体如促卵泡素受体（FSHR）、促黄体素受体（LHR）和催乳素受体（PRLR）的介导[17-18]。有学者首次成功地在梅山 $\\times$ 大白杂交猪中以及欧洲猪种合成群体中证实雌激素受体（ESR)1基因是窝产仔数的候选基因[15]。在 ESR2基因外显子第5位点识别出单核苷酸多态性，其中949位点处出现甲硫氨酸（Met）/氨酸（Val)置换现象[16]。然而在家禽中尚未见通过维生素E 调节CGLP基因FSHR、LHR、PRLR 和ESR对卵泡闭锁的影响研究。因此，很有必要开展维生素E在调节鹅反季节繁殖卵泡中CGLP的表达对卵泡发育和闭锁的影响研究，为今后鹅卵泡闭锁调控的机理研究奠定基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另外，维生素E在母鸡体内具有保护生殖器官、刺激卵巢发育而增加排卵数的功能[13]。卵巢内的CGLP在这些过程中具有重要的调控作用[6,19]。给产蛋期的马岗鹅和朗德鹅免疫重组鸡抑制素（INH）融合蛋白，研究INH 对鹅产蛋性能的影响，结果表明免疫重组鸡 INH融合蛋白的马岗鹅120d内产蛋数提高了 $6 . 4 3 \\%$ ；朗德鹅 $9 0 \\mathrm { ~ d ~ }$ 内产蛋数提高了 $2 3 . 2 9 \\% ^ { [ 2 0 ] }$ 。FSH和LH在禽类卵泡发育过程中发挥着主导性作用，FSH通过卵泡颗粒细胞上的FSHR发挥作用，在幼龄时期家禽的卵巢上所有卵泡几乎不存在FSHR，随着家禽日龄的增加，一部分卵泡上FSHR的含量逐渐增加，而另一部分卵泡上仍然是几乎没有FSHR，这也决定了鸡卵巢上的卵泡依次发育[2I]。LH也可以加快卵巢的血液循环，促进被FSH预处理过的卵泡成熟并诱发排卵。PRL 能够抑制卵泡的发育，当家禽出现就巢时其血液中PRL 的含量升高，而伴随的是卵泡发育的停止和萎缩。研究表明，饲粮中添加维生素E影响鹅血浆中LH、 $\\mathbf { E } _ { 2 }$ 和 FSH 的含量[18]。上述研究表明，CGLP 在鹅卵泡发育过程中发挥重要作用，并可通过外因来调节其水平，但是维生素E 对反季节繁殖卵泡闭锁与CGLP之间的调节关系如何尚未见相关研究报道，需要进一步研究来证实。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4小节和展望 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如上所述，维生素E在家禽繁殖过程发挥重要作用，且禽类卵巢中Dicer、CGLP等基因对卵泡发育过程起到重要的调控作用。然而，目前有关维生素E对家禽卵泡发育过程中上述因子的调节作用报道甚少，且不全面，更未见其在鹅反季节繁殖上的相关研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对以上问题，很有必要开展维生素E对鹅反季节繁殖卵泡发育调节的研究。以减少鹅反季节繁殖卵泡闭锁来提高其繁殖性能为最终目标，以机体整体、分子和细胞的体内外研究为整体思路，通过动物饲养试验和卵泡颗粒细胞培养模型，探讨维生素E对鹅反季节繁殖卵泡发育过程中Dicer和CGLP的影响以及它们之间的相互作用，系统、全面的揭示维生素E对鹅反季节繁殖卵泡发育过程中Dicer和CGLP的调控机制，这一研究结果为探讨反季节繁殖卵泡发育调控机制、降低卵泡闭锁率积累研究基础，对提高种鹅繁殖力和全年均衡生产具有重要的理论和实际意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] 阳希文,孙爱东,陈哲,等.狮头鹅反季节繁殖生产技术[J].中国家禽,2015,37(10):61-62.   \n[2] 赵鑫,邵涛,王亚琴,等.维生素、矿物质与能量蛋白质水平对浙东白鹅母鹅繁殖性能、血 液生殖激素浓度及生殖轴相关基因 mRNA 相对表达量的影响[J].动物营养学 报,2012,24(6):1110-1118.   \n[3] MOHITI-ASLI M,ZAGHARI M.Does dietary vitamin E or C decrease egg yolk cholesterol[J].Biological Trace Element Research,2010,138(1/2/3):60-68.   \n[4] FUKUZAWA K,OUCHI A,SHIBATA A,et al.Kinetic study of aroxyl radical-scavenging action of vitamin E in membranes of egg yolk phosphatidylcholine vesicles[J].Chemistry and Physics of Lipids,2011,164(3):205-210.   \n[5] XU J,LI J,WANG H S,et al.A novel SMAD family protein,SMAD9 is involved in follicular initiation and changes egg yield of geese via synonymous mutations in exonl and intron2[J].Molecular Biology Reports,2015,42(1):289-302.   \n[6] KANG B,JIANG D M,ZHOU R J,et al.Expression of follicle-stimulating hormone receptor (FSHR) mRNA in the ovary of Zi geese during developmental and egg laying stages[J].Folia Biologica-Krakow,2010,58(1/2):61-66.   \n[7] 谢金防,刘林秀,武艳平,等.兴国灰鹅季节性繁殖控制技术研究初报[J].江西农业学 报,2011,23(12):137-139.   \n[8] 谢明贵,刘林秀,谢金防,等.不同营养水平对兴国灰鹅繁殖性能的影响[J].江西农业学 报,2006,18(6):135-136,154.   \n[9] 武艳平,刘林秀,康昭风,等.兴国灰鹅'均衡生产 VIP 基因的表达规律[J].中国农学通 报,2016,32(5):1-4.   \n[10] 李佳,张志仁.Dicer 酶特性及其在免疫细胞分化发育及功能中的作用[J].免疫学杂 志,2013,29(1):67-69.   \n[11] NAGALAKSHMI V K,REN Q,PUGH M M,et al.Dicer regulates the development of ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "nephrogenicanduretericcompartmentsinthemammaliankidney[J].Kidney ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "International,2011,79(3):317-330.   \n[12] ZHANG L,ZHANG B Y,VALDEZ J M,et al.Dicer ablation impairs prostate stem cell activity and causes prostate atrophy[J].Stem Cells,2010,28(7):1260-1269.   \n[13] 郭小虎,张宏馨,陈辉,等.维生素E 对蛋种鸡卵巢等级前颗粒细胞增殖的影响[J].中国家 禽,2013,35(4):10-13.   \n[14] 赵兴涛,杨国锋,孙燕,等.五龙鹅GnRH、PRL 和 FSH $\\beta$ 基因多态性与产蛋性状相关研究 [J].中国家禽,2011,33(16):26-28.   \n[15] CHEN K F,HUANG L S,LI N,et al.The genetic effect of estrogen receptor(ESR) on litter size traits in pig[J].Acta Genetica Sinica,2000,27(1O):853-857.   \n[16] MUNOZ G,OVILO C,AMILLS M,et al.Mapping of the porcine oestrogen receptor 2 gene and associationstudywith litter sizeinIberianpigs[J].Animal Genetics,2004,35(3):242-244.   \n[17] 金萱,刘以训.卵泡生长、分化和闭锁的调控[J].科学通报,2003,48(14):1506-1510.   \n[18] 马兆臣.维生素E 和硒对皖西白鹅繁殖性能和生殖免疫的影响[D].硕士学位论文.合肥: 安徽农业大学,2007.   \n[19] 韩建明,胡深强,牟道临,等.鹅 ApoER2 基因克隆及其在卵泡发育过程中的表达模式研 究[J].中国畜牧杂志,2014,50(21):1-6.   \n[20] HUANG Y M,SHI Z D,LIU Z,etal.Endocrine regulationsof reproductive seasonality,folliculardevelopmentandincubationinMaganggeese[J].Animal Reproduction Science,2008,104(2/3/4):344-358.   \n[21] KANG B,JIANG D M,LIU B,et al.Gene expression profile of estrogen receptor alpha and beta in the ovaries of Zi geese (Anser cygnoides)[J].Folia Biologica,2011,59(3/4):135-140. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Research Progress in Regulation of Vitamin E on Follicular Development of Geese in Counter-Season Production ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LI SimingTANG Yanqiang XIAO Haihong GUO Xiaoze CHEN Yanliang LIU Wenshu OUYANG Linghua\\* ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(Jiangxi Academy ofAgricultural Science,Nanchang 33O2OO,China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Geese are a typical seasonal breeding bird, which leads to the unbalanced production, insufficient supply and demand as well as the large price fluctuations in the whole year. Several studies indicated that vitamin E played an important role in maintaining reproductive health. However,so far, studies on vitamin E regulation function of reproductive gene,follicular development, reproductive organ effects,apoptotic gene Dicer and candidate gene of laying performance $( C G L P )$ ）have scarcely been reported in geese. The paper showed present satiation and prospects of some researches on vitamin E regulation of follicular development in geese. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key words: breeding geese; counter-season production; vitamin E; nutrition regulation; reproductive gene ",
+        "page_idx": 5
+    }
+]

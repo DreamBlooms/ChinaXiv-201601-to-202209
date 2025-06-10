@@ -1,0 +1,458 @@
+[
+    {
+        "type": "text",
+        "text": "蒸散发估算方法及其驱动力研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李晓媛，于德永（北京师范大学地理科学学部地表过程与资源生态国家重点实验室,北京100875)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：蒸散发是水文循环的重要组成部分，也是度量土壤－植被－大气耦合系统中水文与能量传输的关键指标。因此,准确估算蒸散发,充分理解蒸散发的驱动力对干旱半干旱区水资源高效利用具有重要意义。本文对区域蒸散发估算方法进行了总结与归纳，并从气候变化和人类活动两个角度总结了干旱半干旱地区蒸散发变化的驱动力。最后,评论了当前蒸散发估算方法及其驱动力研究存在的问题,提出未来应加强蒸散发估算模型的改进与完善，合理规划土地利用,提高水资源利用效率，从而促进区域的可持续发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蒸散发；气候变化；人类活动；驱动力；干旱半干旱区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒸散发(evapotranspiration，ET)是指植物体内的水分蒸腾以及植被表面、水体、土壤的水分蒸发[1)它是水文循环和能量平衡的核心环节之一，决定了土壤-植被-大气系统中水分与能量的传输过程。大部分的地表降水会以蒸发或蒸腾的形式返回到大气，尤其在干旱半干旱地区，该过程会更加强烈，比例将会达到 $90 \\%$ 以上[2]。蒸散发时空变化对植被恢复、农业生产及水资源利用等方面具有重要影响。因此，准确估算蒸散发并理解蒸散发变化的驱动力可以促进水资源的开发利用、规划管理和优化配置[3-4]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "估算蒸散发的方法有很多。1802 年,Dalton[5]发现水汽压差和蒸发速率关系紧密，从而提出了Dalton蒸发定律，为蒸散发的计算奠定了坚实的理论基础。随着科学技术、实验仪器及观测水平的提高，国内外学者相继提出了一系列蒸散发估算理论与方法。其中，利用仪器测量蒸散发是重要的研究方法，主要包括蒸渗仪、波文比能量平衡、涡度相关法及大孔径闪烁仪等。仪器测定法是基于站点尺度发展起来的蒸散发估测方法，无法充分考虑到复杂地形物理性质及几何结构的时空异质性，因此，推广到区域尺度上具有一定困难。直到20世纪后期，遥感技术的快速发展为区域尺度蒸散发测定开辟了新途径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "气候变化是水文循环过程及水资源可获得性变化的重要驱动力。联合国政府间专门委员会(IPCC)在第五次评估报告中指出，近百年来，全球年平均气温上升了 $0 . 8 5 \\sim 0 . 8 9 \\ ^ { \\circ } \\mathrm { C }$ ,全球变暖已成为不争的事实。平均气温升高将会导致蒸发速率加快，水汽输送量增加，进而引起全球水文循环的快速变化，导致区域水资源的短缺状况及极端气候事件发生的频率增加，造成严重的洪涝灾害，给人类社会和生态系统带来一系列的不利影响[6-7]。研究气候变化对蒸散发的影响，提出适应气候变化的水资源开发策略，对水资源的可持续利用具有重要的现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "除气候变化外，人类活动造成的大规模土地利用变化也会对水文循环过程产生重要影响[8]。不合理的土地利用可能造成流域蒸散发发生变化，从而引起水资源时空格局的改变，给水资源的可持续利用带来新的问题[9-10]。尤其在干旱半干旱地区,降水量少，潜在蒸发量大，生态脆弱，蒸散发对人类活动的响应会更加敏感。故需要理解和量化气候变化和人类活动对蒸散发的影响，以便理解水文循环过程动态，促进生态系统功能和服务的优化管理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1蒸散发估算模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，通过遥感技术和模型算法相结合估算区域蒸散发已成为一种常用的方法。根据不同机理，蒸散发模型主要分为经验统计模型、能量平衡模型、基于彭曼公式的估算模型及互补相关模型。经验统计模型主要是基于蒸散发与遥感参量的相互统计关系提出的模型;能量平衡模型是基于能量平衡原理提出的蒸散发估算模型;互补相关模型是基于实际蒸散发与潜在蒸散发的互补关系提出的；基于彭曼公式的估算模型是在空气动力学原理和湍流扩散理论的基础上提出的，主要通过遥感技术估算出潜热输送的表面阻抗，然后通过彭曼公式计算蒸散发。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 经验统计模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经验统计模型主要是通过水热通量数据与地表参数(如植被覆盖度、地表温度)之间的线性或非线性关系计算蒸散发。该方法最早由Jackson 等[]提出，通过正午瞬时的地表与空气温差来获得潜热通量。由于该方法是基于大量的实地测量研究得出的回归关系,因此,只适用于局地尺度。Seguin 等[12]随后对算法进行改进，利用遥感资料进行尺度拓展，使其能够应用于大范围尺度上。除温度外，气孔阻力、反照率等参数也可以通过相关关系计算蒸散发。例如,Menenti等[13]基于反照率与地表温度的线性关系，得出北非沙漠区地下水的蒸发情况",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在干旱半干旱地区，水分是限制植物生长的重要因子。植物生长、地表温度变化在很大程度上取决于当地的土壤水分状况。因此，越来越多的研究者开始关注不同土壤水分条件下，植被指数与地表温度之间的相关关系，基于二者的统计关系估算地表蒸散发。地表温度和植被指数的关系主要通过设定干边(温度较高、土壤干燥或裸露的下垫面)和湿边(温度较低、土壤水分充足、植被覆盖度较大的下垫面)来确定，通常二者在散点图上会呈现类似三角形和梯形的空间特征，从而产生温度-植被指数三角特征空间法[14 和温度－植被指数梯形特征空间法[15]等估算蒸散发的常用方法。Li等[16]利用温度－植被指数三角特征空间法估算了黑河流域的潜热通量，通过与实测数据对比发现,该方法在干旱半干旱区域适用。Wang 等[17]将温度－植被指数梯形空间法应用到 SEBAL（surface energy balance algo-rithmforland)模型中，可以准确估算出干旱地区的实际蒸散发。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经验统计模型机理简单，所需参数较少，避免了气象数据的不确定性带来的误差，然而，该方法仍有不足。第一，该方法主要依赖地表测量数据来获得回归关系，会受到样本数量及代表性的影响，可移植性较差。第二，研究人员在建立植被指数与地表温度的关系时选取的干湿界限具有主观性，可能会带来一定的误差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2能量平衡模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "能量平衡法是蒸散发估算的理论基础。该方法不考虑由大气平流引起的水平能量传输，以能量平衡为基础，估算地表净辐射 $\\ d ( R _ { \\mathrm { n } } )$ 、土壤热通量 $( G )$ 及显热通量 $( H )$ ，并通过能量平衡方程估算潜热通量$( L E )$ ,具体公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL E = R _ { \\mathrm { n } } - H - G\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = \\rho _ { \\mathrm { a i r } } C _ { \\mathrm { p } } { \\frac { T _ { \\mathrm { a r e o } } - T _ { \\mathrm { a } } } { r _ { \\mathrm { r } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\rho _ { \\mathrm { a i r } }$ 为空气密度； $C _ { \\mathrm { p } }$ 为空气定压比热； $T _ { \\mathrm { a r e o } }$ 为空 气动力学温度; $T _ { \\mathrm { a } }$ 为参考高度处的温度； $r _ { \\mathrm { r } }$ 为阻抗 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在上述方程中，估算潜热通量的核心在于如何确定显热通量。即只要准确计算出地气温差和阻抗这两个参数，即可得到蒸散发。按照阻抗的估算方式，能量平衡模型通常被分为单源模型、双源模型及多源模型。不同能量平衡模型原理如图1所示。1.2.1单源模型单源模型在下垫面均一的地区应用较为广泛，它将植被与土壤看作一个整体，忽略下垫面的具体结构特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单源模型的特点主要集中在三方面： $\\textcircled{1}$ 在该方法中，估算显热通量所需的阻抗 $\\left( r _ { \\mathrm { r } } \\right)$ 相当于空气动力学阻抗( $\\left( \\boldsymbol { r } _ { \\mathrm { a } } \\right)$ ，通常由Monin-Obukhov相似理论计算得出。 $\\textcircled{2}$ 空气动力学温度（ $T _ { \\mathrm { a r e o } }$ )很难由遥感技术直接获取，通常用地表辐射温度 $( T _ { \\mathrm { { s } } } )$ )代替。地表辐射温度主要由土壤温度、温度廓线及植被结构决定，受多种因素影响。因此，空气动力学温度和地表辐射温度存在明显的差异，尤其是在植被稀疏的干旱半干旱地区,差距可以达到 $1 0 \\mathrm { ~ K ~ }$ ,甚至更大[18]。为此，该模型通过引入剩余阻抗或经验公式来调整二者的温差。 $\\textcircled{3}$ 该模型在计算显热通量时，通常会设定干湿限的概念，“干限”是指温度较高，土壤水分很少的情况，此时潜热通量几乎为零，显热通量达到最大值；“湿限”是指温度较低，土壤水分充足的情况，此时潜热通量达到最大值，显热通量为最小值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "蒸散发单源估算模型主要有SEBI（surfaceener-gy balance index)〔13） 、S-SEBI( simplified surface ener-gy balance index）[19）、SEBAL（surface energy balancealgorithm for land）[2o）及 SEBS(surface energy balancesystem）{21]等。SEBI模型是基于作物水分胁迫指数(cropwater stress index，CWSI)提出的模型,主要通过干湿限的假设计算蒸发比，从而得出潜热通量。1993年,Menenti 等[13]基于Landsat MSS 数据,利用该模型对利比亚沙漠地区的潜热通量进行估算。S-SEBI模型的核心是通过经验统计关系，利用反照率求出干湿限情况下的温度，从而计算出蒸发比和潜热通量。Fan等[22]充分利用反照率与温度间的关系，估算出内蒙古地区的潜热通量，并通过站点数据证明了该研究方法的可靠性。SEBAL模型是Bas-tiaanssen于1998年提出的，主要通过经验公式调整温度间的差距( $\\mathrm { { d } } t = a + b T _ { \\mathrm { { s } } }$ )，并利用干湿情况下的地表辐射温度和气象数据迭代计算出拟合系数 $\\mathbf { \\Omega } _ { a }$ ，$b ^ { [ 2 0 ] }$ 。目前,该模型已成功应用于干旱半干旱地区。例如,Teixeira等[23]通过巴西干旱区的地面观测,修正了SEBAL模型的输入参数，并估算了蒸散发和水分生产率。刘志武等[24]使用 SEBAL 模型对新疆南部的蒸散发进行模拟，结果表明该地区荒漠蒸散发几乎为零，而绿洲农田的蒸散发相对较大。郭玉川等[25]研究发现,SEBAL模型能较好地模拟西北干旱区的蒸散发。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，上述模型在选取干湿限时具有一定的局限性。一方面，模型在整个研究区域内只选取一个干限点和湿限点作为标准，易受温度异常点的影响。另一方面，模型的干湿界限需要人为选取，具有一定的主观性。因此，模型在实际应用过程中会出现不可避免的误差。Su等[21提出了 SEBS 模型,假定研究区内的每个像元都有一个干限点和湿限点，使每个像元的显热通量介于二者之间，一定程度上弥补了模型估算过程中所产生的误差。此外，SEBS模型还基于不同下垫面情况,提出相应的 $\\mathbf { K B } ^ { - 1 }$ 计算公式,更加精确地估算出剩余阻抗,减少空气动力学温度和地表辐射温度的温差。目前，SEBS模型已应用到干旱半干旱地区,如Jin 等[26]采用 SEBS 模型估算了2001—2011 年柴达木盆地的蒸散发。Li 等[27]利用SEBS模型对黑河流域的蒸散发进行了模拟，并利用涡度相关数据对其进行评估。张薇等[28]应用SEBS模型模拟河套地区的蒸散发，模拟结果较为理想。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2双源与多源估算模型与单源模型相比，双源模型将土壤和植被对总热通量的贡献分开考虑，可以更加准确地刻画和描述稀疏植被下地表与植被的能量交换及非均匀地表对通量的影响。由于阻抗连接方式不同，且土壤、植被间相互作用机制有所差异，双源模型分为分层模型(layermodel)和分块模型（patchmodel）。分层模型（如Shuttleworth-Wal-lace 模型(29])是将土壤和植被分为两层,其中能量在各组分之间相互作用，总的通量为两层能量的加和。与此相反，分块模型将土壤和植被视为两个无耦合作用的斑块，其中通量不会在斑块之间相互作用，总的能量通量为各斑块面积的权重加和，如Nor-man 模型[30]。分层与分块模型相比,分层模型能更好地模拟出地表与大气之间能量、物质的交换;分块模型精度稍差，介于单源模型和分层模型之间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Guan 和Wilson结合分层和分块模型的特点开发了混合双源模型[31]。多源－分块模型通过将地表划分为多个斑块来考虑每个网格单元内更多的空间异质性，而多源－分层模型更多的考虑垂直方向的异质性。此外,多源－分层模型和多元－分块模型也可以组合形成多层多块的混合模型[32]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看出，能量平衡模型的关键在于地表温差和阻抗的计算，根据阻抗的不同可以分为单源、双源及多源模型。单源模型阻抗计算较为简单，通常适用于下垫面均一、植被覆盖度较高的地区，双源模型阻抗计算更为复杂，避免了空气动力学温度和地表辐射温度的差异，更加适合植被稀疏的干旱半干旱地区。双源模型中涉及的阻抗参数与植被结构、生理特征、土壤水分等因素有关，利用遥感技术难以获取。因此,该模型在区域尺度上应用具有一定的局限性，通常被用来估算田间尺度的蒸散发。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3基于彭曼(Penman)公式的估算模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于湍流扩散理论,Penman[33]在1948 年提出了计算饱和下垫面蒸散发的Penman公式。此后，Monteith(34]在此基础上加入表面阻抗的概念,从而导出P-M（Penman-Monteith）公式，为实际蒸散发估算研究提供了新途径。为了使P-M公式更方便的应用，联合国粮农组织(FAO)提出了参考作物蒸散发的概念(35],即植被在0.23 的反照率、 $. 0 . 1 2 \\ \\mathrm { c m }$ 的高度及 $7 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 的表面阻抗条件下产生的蒸散发，利用参考作物蒸散发和地表作物系数得到地表实际蒸散发。随着遥感技术的发展，众多学者把遥感获取的参数，如净辐射、土壤热通量、叶面积指数等应用到P-M公式中，实现了P-M公式在区域尺度上的应用。Cleugh等[3采用与叶面积指数（LAI)有关的线性关系来描述表面阻抗的倒数，发现P-M计算的蒸散发结果更稳定，但该方法假设冠层阻抗地表温度， $T _ { \\mathrm { a } }$ 表示参考高度温度， $r _ { \\mathrm { s } }$ 表示表面阻抗， $r _ { \\mathrm { a } }$ 表示空气动力学阻抗， $r _ { \\mathrm { s } } ^ { \\mathrm { s } }$ 表示土壤表面阻抗， $r _ { \\mathrm { a } } ^ { \\mathrm { s } }$ 表示土壤空气动力学阻抗，$r _ { \\mathrm { s } } ^ { \\mathrm { c } }$ 表示冠层表面阻抗， $r _ { \\mathrm { a } } ^ { \\mathrm { c } }$ 表示冠层空气动力学阻抗， $r _ { \\mathrm { a } , i }$ 表示第 $i$ 个空气动力学阻力。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9729154bba544ca4fcdaa8237c522685967db339b9be7118ec15dfdeeccde97.jpg",
+        "img_caption": [
+            "图1不同能量平衡模型原理示意图(改自zhang等（2]) Fig.1Schematic diagrams of different energy balance models（modified from Zhang（32）) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "即表面阻抗，忽略了土壤的蒸发，因而在估测过程中存在一定的误差。2011年, $\\mathrm { \\mathbf { M } } \\mathrm { \\mathbf { u } }$ 等[37]对模型进一步完善，得到了全球尺度的蒸散发产品（MOD16），并在南非[38]、中国黑河流域[39]和内蒙古[40]等干旱半干旱地区应用。P-M公式对冠层结构进行了简化，更适合估算干旱区农作物的蒸散发。对于多种植被存在的干旱半干旱地区，该方法具有一定的局限性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1972年，在假设大气无水平平流的基础上，Priestley等[41]通过大范围的饱和陆面观测试验确定了Priestley-Taylor系数，在彭曼公式的基础上提出了P-T(Priestley-Taylor)模型。该模型参数简单，机理明确，通过对彭曼公式的改进可以实现非饱和下垫面蒸散发的估测。Fisher 等[42]基于P-T公式,将地表蒸散发组成进行细化区分，使其更加适用于干旱半干旱地区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 互补相关模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于地表潜在蒸散发与实际蒸散发的关系，Bouchet等[43]于1963 年提出了互补相关理论,并在小尺度的农田中进行验证。随后,Morton(44]通过大量实验对其合理性进行验证，结果表明，二者间的互补关系确实存在，并呈现负指数关系。目前，该模型已结合遥感数据形成CRAE（complementaryrelation-ship area evapotranspiration）模型、AA(advection arid-ity)模型和Granger模型，并在多个干旱半干旱地区进行应用。例如,刘绍民等[45]通过遥感、气象及水文数据的结合，检验了3种互补相关模型在黄河流域的计算精度，结果表明AA模型估算的月蒸散量比较合理。Venturini 等[46将互补相关理论与P-T公式相结合，通过MODIS（moderate-resolution ima-gingspectroradiometer)数据求得美国南部大平原的蒸发比和瞬时蒸散发。Liu等[47]基于反照率和气象数据，利用AA模型估算出内蒙古毛乌素沙地的蒸散发量。互补相关模型简化了蒸散发机理，忽略了区域平流及天气系统的影响，在干旱半干旱地区虽然可以使用，但是存在较大的误差。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/76b0b83c5b660a113ef985d5f79ce1a92417e75d798799503a8311605ed89a88.jpg",
+        "table_caption": [
+            "表1不同蒸散发估算模型的特点",
+            "Tab.1 Characteristics of different evapotranspiration estimation models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型种类</td><td>理论基础</td><td>适用下垫面</td><td>主要优点</td><td>主要缺点</td><td>典型模型</td></tr><tr><td>经验统计模型</td><td>蒸散发与遥感参量 的相关关系</td><td>均匀</td><td>所需参数少，简单易行</td><td>可移植性差，干湿边界的确定较 为困难，仅适用于晴天，需要将 瞬时蒸散发拓展到天尺度</td><td>温度-植被指数梯 形/三角形特征空间 法</td></tr><tr><td>能量平衡模型</td><td>能量平衡原理</td><td>复杂</td><td>过程划分详细</td><td>所需气象数据少，计算所需参数众多，对地表温度异常 敏感，仅适用于晴天，需要将瞬 时蒸散发拓展到天尺度</td><td>SEBS、S-W模型</td></tr><tr><td>的遥感模型</td><td>基于彭曼公式空气动力学原理及 湍流扩散理论</td><td>均匀</td><td>可以模拟连续时间序列 的蒸散发，时间步长灵层阻抗 活，受地表温度影响小</td><td>对气象数据要求高，过于简化冠PM、PT模型</td><td></td></tr><tr><td>互补相关模型</td><td>实际蒸散发与潜在 蒸散发的互补关系</td><td>复杂</td><td>对大气条件要求较低</td><td>对短期内气象要素的变化反应CRAE、AA、Granger 模 不太灵敏</td><td>型</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总之，基于不同机理发展的蒸散发估算模型在干旱半干旱区具有不同的适用性(表1)。经验统计模型利用蒸散发与植被遥感参数的相关关系进行研究，可以清楚地反映干旱半干旱区植被与水分的关系，但对大尺度蒸散发的计算具有局限性。能量平衡模型详细描述了土壤－植被－大气间的阻抗，更加接近干旱半干旱区地表的实际情况，是目前不同时间和空间尺度上应用最广的蒸散发模型，但所需参数众多，尤其是地表温度数据的不确定性限制了该模型的发展。与上述两类模型不同，基于彭曼公式的遥感估算模型受云污染的影响较小，可以模拟连续时间序列的日蒸散发，在干旱半干旱区的农作物估算中应用较广。互补相关模型简化了蒸散发机理，通过常规的气象资料可估算长时间序列的蒸散发，但该模型忽略了区域平流及天气系统的影响，无法精确检测出短时间内气象要素的随机变化，在干旱半干旱地区应用存在较大的误差。因此，仍需加强蒸散发的机理性研究，不断改进蒸散发模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2蒸散发的驱动力",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1气候因子对蒸散发的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1温度对蒸散发的影响温度对蒸散发影响具有多样性。一方面，温度升高可能会导致空气中含有的水汽增多，从而促进蒸发蒸腾，加速地表与大气间的水汽循环[48]。如 Zhang 等[49]研究了内蒙古蒸散发的驱动因子，结果表明温度是影响该地区东部蒸散发变化的主要驱动因子，且相关系数最高可达0.8。Huo 等[50]对中国干旱区的研究表明,蒸散发对温度的敏感程度会随着季节发生变化，其中夏季的敏感系数最大（0.51），秋季（0.39）和春季(0.38)次之，冬季最小(0.34）。另一方面，温度与蒸散发之间也会存在“蒸发悖论”现象，即，随着温度的上升,蒸散发反而呈现下降的趋势[51]。李敏敏等[52]对中国北方农牧交错带的研究表明,1961—2012年，该地的温度以 $0 . 3 3 ^ { \\circ } \\mathrm { C } \\cdot ( 1 0 \\mathrm { a } ) ^ { \\ - 1 }$ 的速率增加，潜在蒸散量以 $3 . 6 2 \\ \\mathrm { m m } \\cdot \\left( 1 0 \\mathrm { a } \\right) ^ { - 1 }$ 的速率减少，说明该地区蒸散发受温度影响以外，还受其他气候因素的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2风速对蒸散发的影响近年来,我国干旱半干旱地区风速呈下降趋势,如西北[53]、内蒙古[49])黄土高原[54]等地区。该趋势的产生由多种原因造成，一方面，随着气候变暖，整个区域的大气环流减弱，风速呈现明显的下降趋势。另一方面，生态工程建设的大面积植被导致地表粗糙度增加，从而加剧了风速的下降。而下降的风速势必会减弱当地空气流动,造成蒸散发的减小。如 Shi 等[54]研究发现,风速是造成黄土高原蒸散发下降的主要原因。李英杰等[55]在对中国北方农牧交错带的研究中表明，风速是影响该区域蒸散发变化的主要因素。王潇潇等[56通过偏相关分析及线性回归等方法,探究了内蒙古地区气象因子对蒸散发的影响，结果表明风速是导致荒漠草原和典型草原地区蒸散发下降的主要原因。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3降水对蒸散发的影响降水也是影响蒸散发变化的原因之一。尤其在受水分限制的干旱半干旱地区,降水可以通过增加土壤含水量(57]、促进植物生长[58]等方式成为影响蒸散发的关键变量。尹云鹤等[59]在对青藏高原1981—2010 年的蒸散发研究中发现，该区域实际蒸散发主要由降水决定，其中$8 6 \\%$ 蒸散发增加的区域降水也增加， $7 3 \\%$ 蒸散发减少的区域降水亦减少。Zhang 等[6]选取锡林郭勒盟不同生长时期的降水和蒸散发进行分析，结果表明降水与蒸散发之间呈现高度正相关关系。Xia 等[61]对东亚草原生态系统的研究表明，降水和蒸散发的相关性很高，尤其是在内蒙古锡林郭勒区域，相关系数大部分在0.6以上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.4相对湿度对蒸散发的影响一些研究发现,相对湿度的变化也会引起蒸散发变化，在干旱半干旱区域，由于水分的限制，相对湿度的影响会更大一些[62]。Zhang 等[63]研究了内蒙古地区蒸散发变化的驱动因素，模拟结果表明，相对湿度是影响中部和西部蒸散发变化的主要因子，相关系数在0.4\\~0.9。李英杰等[55]通过研究发现，在中国北方农牧交错带，蒸散发对相对湿度的变化最为敏感。还有研究发现，蒸散发受相对湿度的影响，在冬季较为敏感[62] 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.5太阳辐射对蒸散发的影响太阳辐射也是蒸散发变化的重要原因。夏季太阳辐射较强，对蒸散发影响最大，冬季太阳辐射弱，对蒸散发的影响变小。如Gao 等[62]研究表明,太阳辐射是影响西辽河蒸散发减少的重要因子,尤其是在夏季。Zhao 等[64]研究了海河流域蒸散发变化的原因，结果表明，蒸散发对太阳辐射越来越敏感，敏感系数由0.21（1990年以前)上升到0.35（1990 年以后）。虽然太阳辐射在一定程度上会改变蒸散发的大小，但是与其他因子相比，太阳辐射对蒸散发的影响主要集中在水分较为充足的地区，在干旱半干旱区影响较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，许多学者还关注了气象因子综合作用对蒸散发的影响，发现在不同地区、不同时间段，影响蒸散发的主要因子不同。Huo 等[50]通过敏感性分析，量化了气象要素对我国西北地区蒸散发的影响，发现风速是影响蒸散发变化最为敏感的气象变量，其次是相对湿度、温度和辐射。Zhao 等[65]通过对我国黑河流域的研究，发现相对湿度是影响蒸散发的主要因子，其次是风速、温度和太阳辐射，而具体到流域的上中下游，各气象因子对蒸散发变化的相对贡献差异显著。Li等[对黄土高原地区参考作物1960一1990年蒸散发的时空变化和影响因子进行了研究，结果表明蒸散发变化主要受风速、太阳辐射和气压影响，空气温度对其影响相对较小，但在",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1990 年以后，空气温度的上升又成为蒸散发变化的主导影响因子。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2人类活动对蒸散发的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除气候变化外，人类活动也会对蒸散发产生重要的影响。在干旱半干旱区，人类活动主要通过生态建设工程、放牧活动及城市化等方式改变土地利用。土地利用变化改变了叶面积指数、反照率及地表粗糙度等生物物理参数，从而可能造成蒸散发的显著变化。Zou 等[6]模拟了人类活动与气候变化对黑河流域蒸散发的影响，结果表明，农地耕作等人类活动对蒸散发的贡献率更大，可达 $6 0 . 9 3 \\%$ 。Li等[68]通过研究发现,森林与湿地转换为其他土地利用类型将会导致蒸散发发生变化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1生态建设工程为治理干旱半干旱地区水资源短缺、土地沙化、草地退化等一系列生态恶化问题，我国自2000年起实施了多项生态工程建设，包括退耕还林还草、“三北”防护林建设、京津风沙源治理等[69]。这些生态恢复工程使当地的植被状况和生态环境质量得到显著改善。在干旱半干旱地区,植被增多可以增加冠层表面传导率（canopy sur-face conductance）,促进蒸散发的变化[70]。另外,当植被增多时,该区域的阴影面积增大[71],径流减少[72],二者通过增加土壤含水量来增加蒸散发。Zhang 等[73]发现,生态工程造成的植被变绿显著促进蒸散发的增长，甚至在一些区域超过了气候变化的影响[58]。过度的植被建设可能导致干旱半干旱地区蒸散发快速增加，从而加速水分流失，起到抽水机的作用。Cao 等[74]研究发现,大规模的退耕还林(草)使黄土高原近地表 $2 \\mathrm { ~ m ~ }$ 湿度减少，可能进一步加剧该地区的水资源短缺状况。因此，干旱半干旱地区的植被恢复建设要尽可能采用当地的乡土物种，同时植被覆盖度要适度，平衡好蒸散发、径流和土壤水分的关系，从而促进干旱半干旱地区水资源的可持续利用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2放牧活动放牧等人类活动会通过多种方式影响蒸散发。第一，放牧活动会改变植被结构组成及土壤性质（土壤比热容、反照率），通过减少可利用能量和土壤含水量使蒸散发降低(2];第二，大量牲畜的踩踏会导致土壤板结，径流增大，水分不易进入土壤内部，从而降低土壤含水量及蒸散发，而未放牧的草地通过减少径流来积累更多有效水分，从而促进蒸散发的产生[7;第三,放牧过程中,牲畜的啃食会破坏陆表植被，从而使地表裸露，蒸发作用变强，土壤水分进一步减少，加剧了当地的干旱状况[75]。此外,放牧还会影响陆表温度等因子,从而造成蒸散发的变化。目前，关于放牧对蒸散发影响的研究主要集中在局地尺度。Li等[比较了放牧、围封及农作物耕作三种土地利用方式下的蒸散发，结果表明农作物耕作和围封比放牧情况下的蒸散发更高。Wang 等[72]分别模拟了不同放牧强度下的蒸散发状况，结果表明放牧强度不仅可以影响蒸散发的大小，还可以决定蒸散发分配到蒸发和蒸腾的比例。2.2.3城市化对蒸散发的影响随着社会经济的发展，我国城市化的速度和规模都是举世罕见的，对水分循环和水分平衡也会产生越来越重要的影响。城市化会导致不透水面增加，造成反照率等地表参数发生变化,从而改变蒸散发。如Hao 等[7评估了城市化对蒸散发的影响，发现反照率造成的净辐射下降是蒸散发下降的主要原因。同时，不透水面的增加也会促进地表径流，减少蒸散发的产生。除此以外,城市化会导致 $\\mathrm { C O } _ { 2 }$ 等温室气体大量排放，这些温室气体会通过改变植被生理结构来间接影响蒸散发。如 Pan 等[77]模拟了植被蒸散发对不同 $\\mathrm { C O } _ { 2 }$ 浓度的响应，结果表明 $\\mathrm { C O } _ { 2 }$ 浓度的增加会导致植被气孔导度降低，从而造成蒸散发的减少。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.4其他人类活动对蒸散发的影响除上述因素外，农业生产活动、矿产资源开发等也会对蒸散发产生影响。例如旱作农田管理在增加蒸散发的同时减少下渗量,从而可能加剧当地干旱状况[70]。同时，作物的收割活动会增加反照率，减少可利用能量,从而减少蒸散发[78]。干旱半干旱区一般矿产资源较多，大规模采矿活动会对蒸散发产生重要的影响。一方面，采矿活动会通过改变土壤性质影响蒸散发，另一方面，也会排放大量气体与污染物，从而间接影响蒸散发。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3目前研究存在的问题与未来展望",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 目前研究存在的问题",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着研究的深人，利用遥感技术进行蒸散发估算的方法越来越完善，蒸散发估算的时空尺度也得到了拓展。基于此，人们对区域蒸散发变化过程及其驱动力的研究也逐步清晰。但仍然存在一些问题亟待解决。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.1蒸散发估算模型存在的问题基于模型估算蒸散发的方法已取得长足进展，但在一些方面仍需进一步的深入探讨。主要体现在： $\\textcircled{1}$ 利用模型估算的蒸散发是瞬时的，而农业、气象与水文需要的是日、月甚至更长时间尺度的蒸散发变化。因此，二者在时间尺度的匹配方面存在问题。 $\\textcircled{2}$ 模型的估算精度通常会受到地表参数（如叶面积指数、地表温度、反照率等)的影响，例如，蒸散发模型中的空气动力学温度很难直接测量，通常会用地表温度来代替，二者在植物生长旺盛的地区相差 $1 \\sim 2 ~ \\mathrm { { ‰} }$ 。在干旱半干旱地区，由于植物生长较为稀疏矮小,二者的差距会增大，由此带来的不确定性会显著影响模拟结果的精度。此外，由于干旱半干旱地区的特殊性，植被参数和反照率都很难测量准确，从而影响蒸散发模型模拟的准确性； $\\textcircled{3}$ 精度验证是模型应用的前提，目前大部分的模型估算结果检验是通过地面站点的测量结果与模型模拟的相应像元值进行对比来实现的，在时间和空间尺度上存在不匹配的问题。在干旱半干旱地区，复杂的下垫面会使蒸散发估算偏差增大。此外，阴天蒸散发的估算，夜间蒸散发的忽略及气象插值带来的不确定性等也是提高蒸散发模型估算精度亟待解决的问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.2蒸散发驱动力研究存在的问题首先,研究者主要是通过各气象因子与蒸散发之间的相关关系来探讨气候变化对蒸散发的影响，忽略了气象因子间的相互作用。有的气象因子间是相互促进的，如风速减小会导致蒸散发降低，同时风速减小也会导致空气中的污染物及气溶胶流动减慢，日照辐射降低，从而进一步减小蒸散发，二者共同作用使蒸散发减少的更快；有的气象因子间是相互抑制的，如降水增多会促进蒸散发，而降水导致的日照时数降低会使蒸散发减小，二者综合作用对蒸散发产生一定的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其次，人类活动对蒸散发的影响是一个复杂的过程。该过程不仅仅体现在景观的组成方面，景观配置也会对蒸散发造成影响。多数研究在探讨人类活动对蒸散发影响的过程中，只关注到土地利用类型或数量变化对蒸散发的影响，对其空间分布及配置考虑的却很少。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最后，先前的研究大多是分开探讨气候变化和人类活动对蒸散发的影响，忽略了二者间的相互作用。人类活动也会通过改变气候因子来间接影响蒸散发。例如，大规模的煤矿开采释放各种物质，使空气中气溶胶增厚，地表接受到的辐射降低，从而减少蒸散发。此外，城市化等人类活动改变了地表反照率，从而导致辐射降低、蒸散发减少。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2未来研究展望",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "笔者认为，未来蒸散发研究将会向基于遥感技术获取生物物理参数，进而更精确揭示蒸散发深层次生物物理过程与机制的研究方向发展。此外，未来蒸散发研究也需要对气候变化和人类活动等因素对蒸散发的综合影响过程与机制有更深刻的理解。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）随着遥感技术的发展，目前蒸散发研究所面临的问题将会逐步得到解决。如陆面过程模型通过同化算法模拟蒸散发，不仅可以减少模型参数不确定性带来的误差，还能模拟不同时间尺度（瞬时、日总量、旬总量及月总量)的蒸散发，很好地解决模型模拟过程中产生的时间尺度不匹配问题。随着一系列新型传感器的开发，尤其是多角度热红外和微波遥感的推广，为蒸散发模型提供了更多的信息源。例如，微波遥感具有全天候运行、穿透力强等特点，能有效避免大气和地表状况的影响，从而获得更为精准的地表参数，弥补蒸散发模型模拟能力的不足。此外,足迹模型及大孔径闪烁仪的发展也将有助于实现区域尺度上蒸散发估算模型的精度验证，促进不同尺度水热通量传输机理的认识，进一步加强干旱半干旱地区水热通量的精确测量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）随着对蒸散发过程认识的深入，人们对其驱动力的影响机制研究也在逐步推进。尤其是在干旱半干旱地区，蒸散发驱动力的研究可以加强人们对当地水文循环过程的理解，气候变化和人类活动是蒸散发动态变化的重要驱动力，未来研究需要从多尺度厘清气候因素和人类活动因素以及二者的相互作用对蒸散发动态变化的影响过程、贡献率以及影响的时空异质性。此外，从景观生态学的角度研究景观组成(景观类型的数目及比例等)和配置（景观要素的空间排列、形状及景观间的连接度等）对蒸散发变化的影响成为合理利用土地资源，提高水资源利用效率的重要依据。基于蒸散发动态变化规律和驱动力影响过程与机制的理解，可以有序调整人类活动，制定适应气候变化的土地利用方案，从而使区域水文循环中的蒸散发、径流及土壤水含量达到优化目标的平衡点，促进干旱半干旱地区的水资源可持续利用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Wang K,Dickinson RE.A review of global terrestrial evapotranspiration:Observation,modeling,climatology,and climatic variability[J].Reviews of Geophysics,2012,50（2）,doi:10.1029/2011 RG000373. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]Bastiaanssen W G M,Allen R G,Droogers P,et al. Twenty-five years modeling irigated and drained soils:State of the art[J]. Agricultural Water Management,2007,92(3）:111-125.   \n[3]Jung M,Reichstein M,Ciais P,etal.Recent decline in the global land evapotranspiration trend due to limited moisture supply[J]. Nature,2010,467(7 318）:951-4,doi:10.1038/nature09396.   \n[4]Tang R,Li Z L,Chen K S.Validating MODIS-derived land surface evapotranspiration with in situ measurements at two AmeriFlux sites in asemiarid region[J]. Journal of Geophysical Research, 2011,116(D4）,doi:10.1029/2010JD014543.   \n[5]Dalton J.Experimental Essys[M].USD;University of Hawaii Press,1 802:392 -395.   \n[6]Bates B,Kundzewicz Z,Wu S. Climate Change and Water[M]. USD:Intergovernmental Panel on Climate Change Secretariat, 2008.   \n[7］夏军,邱冰,潘兴瑶,等.气候变化影响下水资源脆弱性评估方 法及其应用[J].地球科学进展,2012,27（4）：443-451.[Xia Jun,Qiu Bing,Pan Xingyao,et al.Assessment of water resources vulnerability under climate change and human activities[J].Advances in Earth Science,2012,27(4):443-451.]   \n[8］王玉洁,秦大河.气候变化及人类活动对西北干旱区水资源影 响研究综述[J].气候变化研究进展,2017,13（5）：1-10. [Wang Yujie,Qin Dahe.Influence of climate change and human activity on water resources in arid region of Northwest China:An o verview[J]. Climate Change Research,2017,13(5):1-10.]   \n[9]Tebakari T,Yoshitani J,Suvanpimol P. Impact of large-scale reservoir operation on flow regime in the Chao Phraya River basin,Thailand[J]. Hydrological Processes,2012,26(16）:2 411-2 420.   \n[10]Ye X,Zhang Q,Liu J,et al. Distinguishing the relative impactsof climate change and human activities on variation of streamflow in the Poyang Lake catchment,China[J]. Journal of Hydrology,2013 (494) :83 -95.   \n[11]Jackson R D,Reginato R J,Idso S B.Wheat canopy temperature : A practical tool for evaluating water requirements[J].Water Resources Research,1977,13(3) :651-656.   \n[12]Seguin B,Itier B. Using midday surface temperature to estimate daily evaporation from satelite thermal IR data[J].International Journal of Remote Sensing,1983,4(2):371-383.   \n[13]Menenti M,Choudhury B.Parameterization of land surface evapotranspiration using a location dependent potential evapotranspiration and surface temperature range[J]. Exchange processes at the land surface for a range of space and time scales,1993,(212）: 561 -568.   \n[14]Jiang L,Islam S.An intercomparison of regional latent heat flux estimation using remote sensing data[J]. International Journal of Remote Sensing,2003,24(11):2 221-2 236.   \n[15]Moran M,Clarke T,Inoue Y,et al.Estimating crop water deficit using the relation between surface-air temperature and spectral vegetation index[J]. Remote sensing of environment,1994,49(3）:246 -263.   \n[16]Li Z L,Tang R,Wan Z,et al.A review of current methodologies for regional evapotranspiration estimation from remotely sensed data [J].Sensors（Basel）,2009,9（5）:3801 -53,doi:10.3390/ s90503801.   \n[17]Wang X G.Modifying SEBAL model based on the trapezoidal relationshipbetween land surface temperature and vegetation index for actual evapotranspiration estimation[J]. Remote Sensing,2014,6 (7） :5 909-5 937,doi:10.3390/rs6075909.   \n[18]Kalma JD,McVicar TR,McCabe MF.Estimating land surface evaporation:A review of methods using remotely sensed surface temperature data[J]. Surveys in Geophysics,2008,29(4 -5）:421- 469.   \n[19]Roerink G,Su Z,Menenti M.S-SEBI;A simple remote sensing algorithm to estimate the surface energy balance[J].Physicsand Chemistry of the Earth,Part B: Hydrology,Oceansand Atmosphere,2000,25(2):147 -157.   \n[20]Bastiaanssen W.SEBAL-based sensible and latent heat fluxes in the irrigated Gediz Basin,Turkey[J].Journal of hydrology,2000, 229(1) :87 -100.   \n[21]Su Z. The surface energy balance system（SEBS） for estimation of turbulent heat fluxes[J].Hydrology and Earth System Sciences Discussions,2002,6(1) :85 -100.   \n[22]Fan L,Liu S,Bermhofer C,et al.Regional land surface energy fluxes by satellte remote sensing in the Upper Xilin River Watershed (Inner Mongolia,China）[J].Theoretical and Applied Climatology,2006,88(3 -4) :231 - 245.   \n[23]Teixeira A C,Bastiaanssen W G,Ahmad MD,et al. Reviewing SEBAL input parameters for assssing evapotranspiration and water productivity for the low-middle Sao Francisco River basin,Brazil: Part A:Calibration and validation[J].Agricultural and Forest Meteorology,2009,149(3-4） :462-476.   \n[24］刘志武,雷志栋,党安荣,等.遥感技术和 SEBAL 模型在干旱 区腾发量估算中的应用〔J].清华大学学报（自然科学版）， 2004,44(3）:421-424.[Liu Zhiwu,Lei Zhidong,Dang Anrong, et al.Remote sensing and the SEBAL model for estimating evapotranspiration inaridregionsJ].JournalofTsinghuaUniversity （Science and Technology Edition）,2004,44（3）:421-424.]   \n[25］郭玉川,董新光.SEBAL模型在干旱区区域蒸散发估算中的应 用[J].遥感信息,2007（3）：75－78.［Guo Yuchuan,Dong Xinggunag.The sebal model for estimating regional evapor-transpiration in arid regions[J].Remote Sensing Information,2007（3）: 75-78.]   \n[26]Jin X,Guo R,Xia W.Distribution of actual evapotranspiration over Qaidam Basin,an arid area in China[J].Remote Sensing,2013,5 (12) :6 976 -6 996.   \n[27]Li Y,Huang C,Hou J,et al. Mapping daily evapotranspiration based on spatiotemporal fusion of ASTER and MODIS images over irrigated agricultural areas in the HeiheRiver Basin,NorthwestChina[J]. Agricultural and Forest Meteorology,2017(244):82-97.   \n[28］张薇,葡文静,王贵玲.基于遥感反演河套平原区域蒸发蒸腾 量研究[J].遥感信息,2009(6）:28-31.[Zhang Wei,Lin Wenjing,Wang Guilin.Study on the distribution of the real evapotranspiration i hetaoplain based onremote sense[J].Remote Sensing Information,2009（6):28-31.]   \n[29] Shuttleworth WJ,Wallace J. Evaporation from sparse crops: An energy combination theory[J]. Quarterly Journal of the Royal Meteorological Society,1985,111(469）:839 -855.   \n[30]Norman J,Kustas W,Humes K. Source approach for estimating soil and vegetation energy fluxes in observations of directional radiometric surface temperature[J].Agricultural and Forest Meteorology, 1995,77(3-4) :263 -293.   \n[31]Guan H,Wilson JL.A hybrid dual-source model for potential evaporation and transpiration partitioning[J]. Journal of Hydrology, 2009,377(3 -4) :405 -416.   \n[32] Zhang K,Kimball JS,Running S W.A review of remote sensing based actual evapotranspiration estimation[J].Wiley Interdisciplinary Reviews: Water,2016,3(6):834 -853.   \n[33）Penman HL.Natural evaporation fromopen water,baresoil and grass[J].Proceedings of the Royal Society of London. Series A, 1948,193(1 032):120 -145.   \n[34]Monteith JL. Evaporation and Environment[C]// Symposia of the society for experimental biology.Cambridge University Press （CUP）Cambridge,1965（19）:205-234..   \n[35]Allen R G,Pereira L S,Raes D,et al. Crop evapotranspirationGuidelines for computing crop water requirements-FAO Irigation and drainage paper 56[J].FAO,Rome,1998,300(9）:D05109.   \n[36]Cleugh H A,Leuning R,Mu Q,et al. Regional evaporation estimates from flux tower and MODIS satellite data[J]. Remote Sensing of Environment,2007,106(3）:285-304.   \n[37] Mu Q,Zhao M,Running S W.Improvements to a MODIS global terrestrial evapotranspiration algorithm[J]. Remote Sensing of Environment,2011,115(8):1 781-1 800.   \n[38]Ramoelo A,Majozi N,Mathieu R,etal. Validationof global evapotranspiration product（MOD16）using flux tower data in the African savanna,South Africa[J]. Remote Sensing,2014,6(8）:7 406 -7 423.   \n[39]程春晓,徐宗学,张淑荣,等.黑河流域上中游植被蒸散发时空 演变趋势及其影响因子分析[J].北京师范大学学报（自然科 学版）,2014,50(5）:535-542.[Cheng Chunxiao,Xu Zongxue, Zhang Shurong,et al.Temporal-spatial variations in evapotranspiration in the Heihe River basin and their correlation with different meteorological/hydrological factors[J].Journal of Beijing Normal University（Natural Science Edition）,2014,50(5）:535-542.]   \n[40］佟斯琴,张继权,哈斯,等.基于 MOD16 的锡林郭勒草原14 年 蒸散发时空分布特征〔J].中国草地学报,2016,38（4)：83- 91.[Tong Siqin,Zhang Jiquan,Ha Si,et al.14 years spatial-temporal distribution characteristics of evapotranspiration in Xilingol grassand based on MOD16[J]. Chinese Journal of Grassland, 2016,38(4) :83 -91. ]   \n[41]Priestley C,Taylor R.On the assessment of surface heat flux and evaporation using large-scale parameters[J].Monthly Weather Review,1972,100(2):81-92.   \n[42]Fisher JB,Tu KP,Baldocchi D D.Global estimates of the land-atmosphere water flux based on monthly AVHRR and ISLSCP-II data,validated at16 FLUXNET sites[J].Remote Sensing of Environment,2008,112(3):901-919.   \n[43]Bouchet R J.Evapotranspiration réelle et potentielle,signification climatique[J].IAHS Publ,1963,62:134 -142.   \n[44]Morton F I. Operational estimates of areal evapotranspiration and their significance to the science and practice of hydrology〔J] Journal of Hydrology,1983,66(1-4）:1-76.   \n[45］刘绍民,孙睿,孙中平,等.基于互补相关原理的区域蒸散量估 算模型比较[J].地理学报,2004,59(3）:331-340.[Liu Shaoming,Sun Rui,Sun Zhongping,et al. Comparison of diferentcomplementary relationship models for regional evapotranspiration estimation[J].Acta Geographica Sinica,2004,59(3）:331-340.]   \n[46]Venturini,Shafiqul,Rodriguez,etal.Estimationof evaporative frac tion and evapotranspiration from MODIS products using a complementary based model[ J]. Remote Sensing of Environment,2008, 112(1) :132 -141.   \n[47]Liu S,Bai J,Jia Z,etal.Estimation of evapotranspiration in the Mu Us Sandland of China[J]. Hydrology and Earth System Sciences, 2010,14(3) :573 -584.   \n[48]LiY,Fan J,Hu Z,et al.Comparison of evapotranspirationcomponents and water-use efficiency among different land use patterns of temperate steppe in the Northern China pastoral-farming ecotone [J].International Journal of Biometeorology,2016,60(6）:827- 41,doi:10.1007/s00484 -015 -1076 -9.   \n[49]Zhang Z,Kang H,Yao Y,et al. Spatial and decadal variations in satellite-based terrestrial evapotranspiration and drought over Inner Mongolia Autonomous Region of China during 1982- 2009[J]. Journal of Earth System Science,2018,127(1):1,doi:10.1007/ s12040 -017 -08850.   \n[50]Huo Z,Dai X,Feng S,et al.Efect of climate change on reference evapotranspiration and aridity index in arid region of China[J]. Journal of Hydrology,2013（492）:24-34,doi:10.1016/j. jhydrol. 2013.04. 011.   \n[51]Zhu G,He Y,Pu T,et al.Spatial distribution and temporal trends in potential evapotranspiration over Hengduan Mountains region from 1960 to 2009[J]. Journal of Geographical Sciences,2012,22 (1):71 -85,doi:10.1007/s11442-012 -0912 -7.   \n[52]李敏敏,延军平.“蒸发悖论\"在北方农牧交错带的探讨[J].资 源科学,2013,35(11）:2298-2 307.[Li Minmin,Yan Junping. The evaporation paradox in the farming-pastoral ecotone of Northern China[J]. Resources Science,2013,35(11):2 298-2 307.]   \n[53]姚玉璧,肖国举,王润元,等.近50 年来西北半干旱区气候变 化特征[J].干旱区地理,2009,32(2）:159-165.[Yao Yubi, Xiao Guoju,Wang Runyuan,et al. Climatic changes of semi-arid region over the northwest China in recent 5O a[J].Arid Land Geography,2009,32（2）:159-165.]   \n[54]Shi Z,Xu L,Yang X,et al. Trends in reference evapotranspiration and its attribution over the past 5O years in the Loess Plateau,China:Implications for ecological projects and agricultural production [J].Stochastic Environmental Research and Risk Assessment, 2017,31(1) :257-273.   \n[55］李英杰,延军平,王鹏涛.北方农牧交错带参考作物蒸散量时 空变化与成因分析[J].中国农业气象,2016,37（2）：166- 173.[Li Yingjie,Yan Junping,Wang Pengtao.Temporal and spatial change and causes analysis of the reference crop evapotranspiration in farming-pastroral ecotone of Northern China[J]. Chinese Journal of Agrometeorology,2016,37（2）:166 -173.]   \n[56]王潇潇,潘学标,顾生浩,等.内蒙古地区参考作物蒸散变化特 征及其气象影响因子〔J].农业工程学报,2015,31（增刊1)： 142-152.[Wang Xiaoxiao,Pan Xuebiao,Gu Shenghao,et al. Trend in reference crop evapotranspiration and meteorological factors affecting trends in Inner Mongolia[J].Transactions of the Chinese Society of Agricultural Engineering,2015,31(Suppl.1）:142 -152.]   \n[57]Li S,Asanuma J,Kotani A,et al. Evapotranspiration from a Mongolian steppe under grazing and its environmental constraints[J]. Journal of Hydrology,2007,333(1):133-143.   \n[58]Jin Z,Liang W,Yang Y,et al. Separating vegetation greening and climate change controls on evapotranspiration trend over the Loess Plateau[J].Scientific Reports,2017,7（1）:8191,doi: 10.1038/ s41598 -017 -08477 - x.   \n[59］尹云鹤,吴绍洪,赵东升,等.1981—2010 年气候变化对青藏高 原实际蒸散的影响[J].地理学报,2012,67（11)：1 471- 1 481.[Yin Yunhe,Wu Shaohong,Zhao Dongsheng,et al. Impact of climate change on actual evapotranspiration on the Tibetan Plateau during 1981 - 2010[J]. Acta Geographica Sinica,2012,67 (11):1 471 -1 481.]   \n[60] Zhang X,Tang Q,Zheng J,et al. Suppression of spring rain by surface greening over North China Plain[J]. International Journal of Climatology,2015,35(10):2 752-2 758.   \n[61]Xia J,Liang S,Chen J,et al.Satellite-based analysis of evapotranspiration and water balance in the grassland ecosystems of Dryland East Asia[J].PloS one,2014,9(5):97 295,doi:10.1371/journal. pone. 0097295.   \n[62]Gao Z,He J,Dong K,et al. Trends in reference evapotranspiration and their causative factors in the West Liao River basin,China [J].Agricultural and Forest Meteorology,2017,232:106 -117.   \n[63]Shengwei Z,Rui S,Hongbin Z,et al. Correlating between evapotranspirationand precipitation provides insights into Xilingol grassland eco-engineering at larger scale[J]. Ecological Enginering, 2015(84):100 -103.   \n[64]Zhao L,Xia J,Sobkowiak L,et al.Climatic characteristics of reference evaporanspiration in the Hai River Basin and their attribution [J].Water,2014(6):1 482 -1 499.   \n[65]Zhao J,Xu Z X,Zuo DP,et al.Temporal variations of reference evapotranspiration and itssensitivity to meteorological factors in Heihe River Basin,China[J].Water Science and Enginering, 2015,8(1) :1 -8.   \n[66]Li Y,Liang K,BaiP,et al.The spatiotemporal variation of reference evapotranspiration and the contribution of its climatic factors in the LoessPlateau,China[J].Environmental Earth Sciences, 2016,(75):4,doi:10.1007/s12665 -015 -5208 -7.   \n[67]Zou M,Niu J,Kang S,et al.The contribution of human agricultural activities to increasing evapotranspiration is significantly greater than climate change effect over Heihe agricultural region[J]. Scientific Reports,2017,7(1):8 805,doi:10.1038/s41598-017 - 08952 -5.   \n[68]Li G,Zhang F,Jing Y,et al.Response of evapotranspiration to changes in land use and land cover and climate in China during 2001-2013[J].Sci Total Environ,2017,596-597:256-265.   \n[69]Tian H,Cao C,Chen W,et al.Response of vegetation activity dynamic to climatic change and ecological restoration programs in Inner Mongolia from 2000 to 2012[J].Ecological Engineering, 2015,82:276-289.   \n[70]Chen S,Chen J,Lin G,et al.Energy balance and partition in Inner Mongolia steppe ecosystems with different land use types[J].Agricultural and Forest Meteorology,2009,149(11）:1 800 -1 809.   \n[71]Li Y,Fan J,Hu Z,et al.Influence of land use patterns on evapotranspiration and its components in a temperate grassland ecosystem[J].Advances in Meteorology,2015,15:1-12.   \n[72]Wang L,Liu H,Ketzer B,et al.Effect of grazing intensity on evapotranspiration in the semiarid grasslands of Inner Mongolia,China [J].Journal of Arid Environments,2012,83:15-24.   \n[73]Zhang K,Kimball JS,Nemani RR,et al.Vegetation greening and climate change promote multidecadal rises of global land evapotranspiration[J].Sciences Report,2015,5:15 956.   \n[74]Cao $\\mathrm { 2 , W u \\ J , Y u \\ D }$ ,et al.The biophysical effects of the vegetation restoration program on regional climate metrics in the Loess Plateau,China[J].Agricultural and Forest Meteorology,2O19,268： 169-180.   \n[75]Zhang N,Liu C. Simulated water fluxes during the growing season in semiarid grassland ecosystems under severe drought conditions [J].Journal of hydrology,2014,512:69 -86.   \n[76]Hao L,Sun G,Liu Y,et al.Urbanization dramatically altered the water balances of a paddy field dominated basin in Southern China [J].Hydrology and Earth System Sciences,2015,12:1 941 - 1 972.   \n[77]Pan S,Tian H,Dangal S R,et al.Responses of global terrestrial evapotranspiration to climate change and increasing atmospheric $\\mathrm { C O } _ { 2 }$ in the 21st century[J].Earth's Future,2015,3(1):15-35.   \n[78]Li H,Wang A,Yuan F,et al.Evapotranspiration dynamics over a temperate meadow ecosystem in Eastern Inner Mongolia,China[J]. Environmental Earth Sciences,2016,75(11) :978. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Progress on Evapotranspiration Estimation Methods and Driving Forces in Arid and Semiarid Regions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LI Xiao-yuan， YU De-yong (State Key Laboratory of Earth Surface Processs and Resources Ecology,Faculty of Geographical Science, Beijing Normal University,Beijing 10o875,China）) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Evapotranspiration （ET）,a fraction of the hydrological cycle,isa key indicator used to measure the transportof waterandenergyinthesoil-vegetation-atmospherecouplingsystem.Thus,itisimportantfortheefficient utilization of waterresources inarid and semiarid regions to accurately estimate the evapotranspiration and understand itsdriving forces.In this paper,the estimation methods of regional evapotranspiration were summarized,and the driving forces of evapotranspiration change were discussed from the perspectives of climate change and human activities.Finally,the existing issues that shouldbe further studied were discussed.Inthe futureresearch,we should strengthen the improvement of the evapotranspiration estimation model and promote the land system optimization so as to improve the water resources utilization and promote the regional sustainable development. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words:evapotranspiration；climate change； human activity；driving force；arid and semiarid regions ",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,235 @@
+# 哈萨克斯坦农业水土资源承载力评价及其影响因素识别 ①
+
+朱薇1,2.3，周宏飞1,²，李兰海1,4，闫英杰1,2.3（1．中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;  
+2．中国科学院阜康荒漠生态实验站,新疆 阜康831505；3．中国科学院大学,北京100049;  
+4．中国科学院伊犁河流域生态系统研究站，新疆 新源835800)
+
+摘要：水土资源的数量与质量对农业可持续发展具有重要意义。选取22个指标建立了哈萨克斯坦农业水土资源承载力评价体系,将层次分析法、熵权法与模糊综合评价模型相结合，分析了哈萨克斯坦2001—2017年农业水土资源承载力的动态变化及区域差异,用障碍度法定量识别其影响因素。结果表明： $\textcircled{1}$ 2001—2017年，哈萨克斯坦农业水土资源承载力整体呈波动缓慢上升趋势,水土资源子系统和经济子系统的评价指数缓慢上升,生态子系统和社会子系统评价指数明显下降。 $\textcircled{2}$ 农业水土资源承载力在地区间差异显著，高承载力区主要集中在北部、中部和东部地区,低承载力区在南部和西部地区。北哈萨克斯坦州、科斯塔奈州和阿克莫拉州的承载力高，呈逐年增大趋势,阿特劳州和南哈萨克斯坦州的承载力较低，且呈减小趋势。 $\textcircled{3}$ 承载力在2001—2009 年主要受垦殖率、单位耕地面积农业产值及农业灌溉率的影响,在 2010—2017年主要受农业水土资源匹配系数、人口密度及单位土地污水负荷的影响，生态环境因素逐渐成为承载力障碍因子。
+
+关键词：农业；水土资源；承载力；模糊综合评价法；哈萨克斯坦
+
+中亚地区是全球生态环境问题最为突出的地区之一[1-3],随着社会经济的发展和人口数量的增加，中亚地区对粮食的需求日益增长，对水土资源利用的强度也持续增加，使得水资源供需矛盾日益突出[4],严重地制约着该区经济发展和社会的稳定[5]。由于气候变暖以及人类活动的影响[,加剧了中亚地区生态系统的退化。如何实现水土资源开发利用与社会经济、生态系统的协调发展是中亚地区迫切需要解决的问题。哈萨克斯坦是中亚地区水土资源及其潜力最丰富的国家，水资源可利用量和耕地面积均是“中亚之最”，但由于水土资源开发不合理,农田存在水土流失、土壤盐渍化加重等问题[7],严重威胁着哈萨克斯坦农业水土资源利用和社会经济系统的协调发展。
+
+目前，国内外学者对中亚地区国家尺度的水土资源开发利用现状[6、匹配状况[8]等已有一定的研究，但对中亚国家农业水土资源承载力研究还比较缺乏。关于农业水土资源承载力的研究，目前主要集中在粮食和人口承载力上[9-10],且多将水土资源承载力分开来单独进行讨论,如 Harris 等["]分别探讨了农业生产区域水资源的承载力和耕地资源的承载力，并将两者作为区域发展潜力的重要指标，从而对农业产量进行了分析;李鹤等[12]通过建立各指标体系，对东北地区地级行政单元的水资源、耕地资源承载力分别进行了定量评价，并对其空间组合进行了分类。在研究方法上，主要运用主成分分析法[13]、系统动力学法[14]、投影寻踪法[15]和模糊综合评价法[16]等,如任守德等[9]利用投影寻踪主成分分析模型，从宏观和微观两个角度对三江平原农业水土资源承载力进行了评价;陈兴鹏等[14]运用系统动力学法建立了水土资源承载力模型，对甘肃河西地区水土资源承载力做了系统分析并提出了相应的对策。在研究尺度上，则多以年平均或某代表年份为主[17],涉及的时间跨度相对较短。此外,在通过建立指标体系进行承载力评价时，关于各指标对农业水土资源承载力的约束关系进行定量分析的研究
+
+并不多见。
+
+本文以农业水土资源系统协调发展为目的，利用哈萨克斯坦2001—2017年的相关数据，基于层次分析法和熵权法确定综合权重，结合模糊综合评价模型对农业水土资源承载力进行评价，利用障碍度定量分析各指标对农业水土资源承载力的约束关系，通过ArcGIS探究哈萨克斯坦农业水土资源承载力的时空变化和地区差异。以期为中亚地区农业水土资源合理利用、协调水土资源与生态环境可持续发展提供科学依据。
+
+# 1研究区概况与数据来源
+
+# 1.1 研究区概况
+
+哈萨克斯坦位于欧亚大陆中心，国土面积$2 . 7 2 \times 1 0 ^ { 6 } ~ \mathrm { k m } ^ { 2 }$ ,地理位置为 $4 0 ^ { \circ } \sim 5 5 ^ { \circ } \mathrm { N } { , } 4 5 ^ { \circ } \sim 8 5 ^ { \circ } \mathrm { E }$ ，属于温带大陆性气候，冬冷夏热，1月平均气温 $- 1 9 \sim$ ${ - 4 } \ \mathrm { { ^ circ C } } \ , 7 \$ 月平均气温 $1 9 \sim 2 6 ~ \mathrm { { ‰ } }$ ,降水少且季节分配不均[18],北部较湿润,降水 $3 0 0 \sim 5 0 0 ~ \mathrm { m m }$ ,西南部较干旱[19],降水 $1 0 0 ~ \mathrm { { m m } }$ 左右[20]。区内地势东南高、西北低，北部为平原，中部为丘陵，东部多山地，西南多低地[2I]。哈萨克斯坦多年平均水资源总量为$1 \ 1 7 3 . 0 6 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,其中本国水资源量为 $6 5 0 . 6 1 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,来自邻国的水资源量为 $5 2 2 . 5 5 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ，人均水资源量为 $7 \ 3 0 7 \ \mathrm { m } ^ { 3 [ 2 2 ] }$ 。哈萨克斯坦以农业生产为主，农业用水占总用水量较大，谷物产量和出口均位于世界前列。虽然它的实际水资源总量及人均水资源量是中亚地区最多的国家，但境内水资源分布极不均衡，径流补给较少，多来自过境河流，总体利用率低(23]。而土地资源同时面临着盐碱化、水蚀和风蚀侵害等问题，水土资源在空间上存在明显错位[8],农业生产发展受到了一定的限制。
+
+# 1.2 数据来源
+
+本研究利用哈萨克斯坦16个地州(市)农业用水量、耕地面积、人口、GDP、农业产值等与农业水土资源相关的数据作为基础资料，数据主要来源于《哈萨克斯坦地区统计年鉴》、《哈萨克斯坦环境保护与可持续发展统计年鉴》、FAO（联合国粮食及农业组织）、UNDP（联合国开发计划署)等，选取的时间长度为2001—2017年。
+
+# 2 研究方法
+
+# 2.1评价指标体系的构建
+
+2.1.1承载力评价指标体系构建建立一个合理且有效的指标体系，是评价农业水土资源承载力的基础和前提，它将直接影响到评价结果。农业水土资源承载力评价受到水土资源系统、社会系统、经济系统和生态系统中多个因素的影响，各子系统相互联系、相互影响、相互制约[24]。因此,遵循系统性、层次性、综合性、可操作性等原则,在区域农业水土资源利用程度、经济社会发展水平和生态环境状况等综合分析的基础上，选取了22项代表性指标[25],构建哈萨克斯坦农业水土资源承载力评价指标体系（图1）。
+
+哈萨克斯坦农业水土资源承载力评价A□水地资源子系统B 社会子系统B 经济子系统B 生态子系统B农业水土资源匹配系数C 垦殖率c 农业用水定额c 农业灌溉率 高耗水作物种植比例C5 农业水资源利用率C 人均耕地c 城镇化率C 人均商品粮C 人口密度c 人口自然增长率 粮食生产c 经济密度CB 人均地区生产总值c GDP增长率C5 单位耕地面积农业产值 农业总产值占总产值比例 单位面积固体废物c 单位耕地施肥量c 单位土地污水负荷 环境投资率C 森林覆盖率C2CAC.C16 C17 18 C20
+
+注：带 $^ *$ 表示正向指标(指标越大，代表水土资源承载力越大，且承载力状况改善),其他指标为负向指标(指标越大，代表人类活动对农业水土资源系统的压力和影响就越大，且承载力状况恶化）。 $\mathbf { C } _ { 1 } = \mathbf { \Phi }$ 农业水资源量/耕地面积； $\mathbf { C } _ { 2 } = { \boldsymbol { \mathbf { \mathit { \Phi } } } }$ 耕地面积/土地总面积； $\mathrm { C } _ { 3 } = $ 农业用水量/农业总产值； $\mathbf { C } _ { 4 } = \mathbf { \Phi }$ 灌溉面积/耕地面积; ${ \bf C } _ { 5 } = { \bf \Phi }$ 水稻播种面积/总播种面积; ${ \mathrm { C } } _ { 6 } =$ 农业水资源使用量/区域水资源使用总量； ${ \bf C } _ { 7 } = { \bf \Phi }$ 耕地面积/总人口； ${ \mathrm { C } } _ { 8 } =$ （204号城镇人口/总人口； $\mathbf { C } _ { 9 } = \mathbf { \Phi }$ 粮食总产量/人口； $\mathrm { { C _ { 1 0 } } = }$ 总人口/土地总面积； $\mathrm { { C } _ { 1 1 } = }$ 年净增人数/年平均人口数; $\mathrm { C } _ { 1 2 } =$ 粮食生产量/耕地面积； $\mathrm { C } _ { 1 3 } =$ GDP/土地总面积； $\mathrm { C } _ { 1 4 } = \mathrm { G D P } /$ 总人口； $\mathbf { C } _ { 1 5 } = \mathbf { G D P }$ 增长值/上一年GDP; $\mathrm { C } _ { 1 6 } =$ 农业总产值/耕地面积; $\mathbf { C } _ { 1 7 } =$ 农业增加值/GDP; $\mathrm { C } _ { 1 8 } =$ 固体废物总量/耕地面积; $\mathrm { { C _ { 1 9 } = } }$ 施肥量/耕地面积; $\mathrm { C } _ { 2 0 } =$ 污水排放总量/土地总面积; $\mathrm { C } _ { 2 1 } =$ 环境投资值/总投资值； $\mathrm { C } _ { 2 2 } =$ 年末森林面积/土地总面积。
+
+Fig.1Comprehensiveevaluation indexsystemofthecarryingcapacityofagriculturalwaterandlandresourcesin Kazakhstan
+
+2.1.2承载力评价标准的确定本文参考哈萨克斯坦2014年颁布的《哈萨克斯坦共和国2014—2040年国家水资源管理纲要》等，在借鉴国际标准和其他学者相关研究成果(15,24,26]的基础上,确定取值范围及分级标准（表1）。
+
+# 2.2 指标权重的确定
+
+2.2.1层次分析法权重可以反映各项评价指标的相对重要性，确定权重的方法主要有层次分析法[27]、熵值法[28]、主成分分析法[13]等。层次分析法（AHP)是美国运筹学家 Saaty于20世纪70年代中期提出的一种定量与定性相结合的决策分析方法。首先自上而下地将有关因素按不同属性分解为若干层，然后根据1\~9标度的比较准则将全部评价指标的重要性进行两两对比，从而构建判断矩阵;再通过归一化后得到权重，计算判断矩阵的最大特征根及其特征向量;最后进行一致性检验，检验判断矩阵和权向量的合理性，再计算不同层的组合权向量进行组合的一致性检验，合格就可得到最终权重组合。该方法是由专家凭经验去判断指标的权重，简单、易操作且实际意义明显，但过程具有一定的主观性，评价结果有可能存在偏差。
+
+表1哈萨克斯坦农业水土资源承载力评价指标分级标准  
+Tab.1Grading standards of evaluation indexes of thecarrying capacityofagricultural waterand land resources inKazakhstar   
+
+<html><body><table><tr><td>指标</td><td>单位</td><td>V</td><td>V2</td><td>V3</td><td>V4</td><td>V5</td><td>指标</td><td>单位</td><td>V</td><td>V2</td><td>V3</td><td>V4</td><td>V5</td></tr><tr><td></td><td>C104m³·hm-2</td><td>>7</td><td>7~4</td><td>4~2</td><td>2~1</td><td>0~1</td><td>C12</td><td>t·hm-2</td><td>>1</td><td>1~0.5</td><td>0.5~0.3 0.3~0.1</td><td></td><td>0~0.1</td></tr><tr><td>C</td><td>%</td><td>>50</td><td>50~30</td><td>30~20</td><td>20~10</td><td>0~10</td><td></td><td>C13 104$·hm-2</td><td>>5</td><td>5~2</td><td>2~0.5</td><td>0.5~0.1</td><td>0~0.1</td></tr><tr><td>C</td><td></td><td>m²·$-10~0.05</td><td>0.05~0.1</td><td>0.1~1.02</td><td>1.02~2</td><td>>2</td><td></td><td>C14 104$·人-10~0.1</td><td></td><td>0.1~0.3</td><td>0.3~0.60.6~1.1</td><td></td><td>>1.1</td></tr><tr><td>C4</td><td>%</td><td>0~10</td><td>10~20</td><td>20~50</td><td>50~60</td><td>>60</td><td>C15</td><td>%</td><td>0~5</td><td>5~10</td><td>10~15</td><td>15~20</td><td>>20</td></tr><tr><td>C5</td><td>%</td><td>0~5</td><td>5~10</td><td>10~20</td><td>20~40</td><td>>40</td><td></td><td>C16 104$ ·hm-² >10</td><td></td><td>10~5</td><td>5~2</td><td>2~1</td><td>0~1</td></tr><tr><td>C6</td><td>%</td><td>0~10</td><td>10~20</td><td>20~40</td><td>40~60</td><td>>60</td><td>C17</td><td>%</td><td>0~3</td><td>3~12</td><td>12~15</td><td>15~30</td><td>>30</td></tr><tr><td>C7</td><td>hm²·人-1</td><td>>2</td><td>2~1</td><td>1~0.5</td><td>0.5~0.2</td><td>0~0.2</td><td>C18</td><td>t·hm-2</td><td>0~10</td><td>10~30</td><td>30~50</td><td>50~100</td><td>>100</td></tr><tr><td>C8</td><td>%</td><td>0~20</td><td>20~40</td><td>40~60</td><td>60~70</td><td>>70</td><td>C19</td><td>t·hm-2</td><td>0~0.5</td><td>0.5~0.6</td><td>0.6~0.8</td><td>0.8~1</td><td>>1</td></tr><tr><td>C9</td><td>t·人-1</td><td>>1</td><td>1~0.5</td><td>0.5~0.2</td><td>0.2~0.1</td><td>0~0.1</td><td>C20</td><td>m²·hm-2</td><td>0~0.5</td><td>0.5~1</td><td>1~5</td><td>5~10</td><td>>10</td></tr><tr><td>C10</td><td>人·km-²</td><td>0~1</td><td>1~25</td><td>25~50</td><td>50~100</td><td>>100</td><td>C21</td><td>%</td><td>>1</td><td>1~0.5</td><td>0.5~0.30.3~0.1</td><td></td><td>0~0.1</td></tr><tr><td>C11</td><td>%</td><td>0~2</td><td>2~10</td><td>10~15</td><td>15~20</td><td>>20</td><td>C22</td><td>%</td><td>>30</td><td>30~20</td><td>20~10</td><td>10~5</td><td>0~5</td></tr></table></body></html>
+
+注： $\mathbf { C } _ { 1 } \sim \mathbf { C } _ { 2 2 }$ 为各评价指标。 $\mathrm { \Delta V _ { 1 } }$ 表示承载力水平高，农业水土资源利用良好，储备量较丰富，开发潜力较大; $\mathrm { V } _ { 2 }$ 表示农业水土资源利用较合理，有一定的开发潜力； $\mathrm { ~ V ~ } _ { 3 }$ 表示农业水土资源利用达到相对较高规模，开发潜力较小； $\mathrm { \Delta V _ { 4 } }$ 表示农业水土资源承载力接近临界点，农业水资源和可垦荒地资源开发近殆尽； $\mathrm { v } _ { 5 }$ 表示农业水土资源承载力已超出承载力开发极限，农业水土资源的供给不足。
+
+2.2.2熵值法熵权法是根据指标的变异程度来确定权重的方法，较为客观合理，也能较好地避免人为因素的影响。熵权法目前已广泛应用到社会经济、环境科学等领域当中，计算步骤如下所示：
+
+（1）标准化处理：式(1）式(2)分别为正向、负向指标标准化公式。评价体系当中的判断矩阵 $R _ { s } =$ $( X _ { i j } ) _ { m n }$ ,是由 $n$ 个样本, $m$ 个指标做评价组成， $x _ { i j }$ 为某地区第 $\mathbf { \chi } _ { i }$ 年第 $j$ 项指标的实际数据; $\mathrm { M i n } \left( \ v x _ { i j } \right)$ 和$\mathrm { M a x } \big ( { x } _ { i j } \big )$ 依次为该地区第 $i$ 年 $\mathbf { \Phi } _ { i } ^ { \prime } = 1 , 2 , \cdots , n )$ 第 $j$ 项指标 $( j = 1 , 2 , \cdots , m )$ 的最小值和最大值; $Z _ { i j }$ 为标准化后的数值。
+
+$$
+Z _ { i j } = { \frac { x _ { i j } - \mathrm { M i n } ( x _ { i j } ) } { \mathrm { M a x } ( \mathrm { \bf ~ x _ { i j } } ) - \mathrm { M i n } ( x _ { i j } ) } }
+$$
+
+$$
+Z _ { i j } = \frac { \mathrm { M a x } ( x _ { i j } ) - x _ { i j } } { \mathrm { M a x } ( x _ { i j } ) - \mathrm { M i n } ( x _ { i j } ) }
+$$
+
+(2）通过比重法对数据进行无量纲化： $y _ { i j }$ 为该
+
+地区第 $i$ 年第 $j$ 项指标的比重，公式如下：
+
+$$
+y _ { i j } = \frac { Z _ { i j } } { \displaystyle \sum _ { i = 1 } ^ { n } Z _ { i j } }
+$$
+
+（3）计算信息熵： $n$ 为年份； $m$ 为评价体系的指标个数； $E _ { j }$ 为每年某地区第 $j$ 项指标的熵值：
+
+$$
+E _ { j } = - \frac { 1 } { \ln \left( n \right) } { \sum _ { i = 1 } ^ { n } y _ { i j } \ln \left( y _ { i j } \right) }
+$$
+
+（4）权重的计算：利用信息熵 $E _ { j }$ 来计算权重，某项指标权重值 $\boldsymbol { w } _ { j }$ 的计算公式为：
+
+$$
+w _ { j } = \frac { 1 - E _ { j } } { \displaystyle \sum _ { j = 1 } ^ { m } ( 1 - E _ { j } ) }
+$$
+
+通过以上公式，得到各评价指标的权重，如表2所示。
+
+# 2.3模糊综合评价模型的建立
+
+模糊综合评价法是一种将模糊变换分析和评价
+
+# 表2各评价指标权重
+
+Tab.2Weights of the evaluation indexes   
+
+<html><body><table><tr><td>指标</td><td>C</td><td>C</td><td>C</td><td>C4</td><td>C5</td><td>C6</td><td>C7</td><td>C8</td><td>C9</td><td>C10</td><td>C11</td></tr><tr><td>主观权重</td><td>0.053 6</td><td>0.0408</td><td>0.053 6</td><td>0.0434</td><td>0.014 7</td><td>0.044 2</td><td>0.087 1</td><td>0.027 1</td><td>0.0703</td><td>0.0271</td><td>0.038 3</td></tr><tr><td>客观权重</td><td>0.060 7</td><td>0.0331</td><td>0.0241</td><td>0.060 7</td><td>0.035 9</td><td>0.103 3</td><td>0.129 1</td><td>0.000 1</td><td>0.0534</td><td>0.0285</td><td>0.0756</td></tr><tr><td>综合权重</td><td>0.057 2</td><td>0.036 9</td><td>0.038 8</td><td>0.052 0</td><td>0.025 3</td><td>0.073 7</td><td>0.1081</td><td>0.013 6</td><td>0.061 8</td><td>0.027 8</td><td>0.0569</td></tr><tr><td>指标</td><td>C12</td><td>C13</td><td>C14</td><td>C15</td><td>C16</td><td>C17</td><td>C18</td><td>C19</td><td>C20</td><td>C21</td><td>C22</td></tr><tr><td>主观权重</td><td>0.038 4</td><td>0.043 3</td><td>0.043 3</td><td>0.0258</td><td>0.063 4</td><td>0.035 6</td><td>0.053 4</td><td>0.018 6</td><td>0.0414</td><td>0.035 5</td><td>0.1011</td></tr><tr><td>客观权重</td><td>0.048 0</td><td>0.047 4</td><td>0.019 9</td><td>0.007 1</td><td>0.0355</td><td>0.0248</td><td>0.019 6</td><td>0.0090</td><td>0.002 7</td><td>0.0389</td><td>0.142 6</td></tr><tr><td>综合权重</td><td>0.0432</td><td>0.0454</td><td>0.0316</td><td>0.0165</td><td>0.0495</td><td>0.0302</td><td>0.0365</td><td>0.0138</td><td>0.0221</td><td>0.0372</td><td>0.121 9</td></tr></table></body></html>
+
+模糊系统相结合的方法，能多层次、多因素的评价水土资源承载力(29-30,16]：可以对影响承载力的单因素进行评价，再通过综合评判矩阵进行多因素综合评价，从而全面分析水土资源承载力的大小。原理[30]为：设 $U = \{ u _ { 1 } , u _ { 2 } , \cdots , u _ { n } \}$ 和 $V = \{ v _ { 1 } , v _ { 2 } , \cdots , v _ { n } \}$ 为有限域，分别代表评价对象的因素集和评语集。模糊综合评价为 $B = A \cdot R$ ,其中 $A = \{ a _ { 1 } , a _ { 2 } , \cdots , a _ { n } \}$ （ $0 \leqslant$ $a _ { i } \leqslant 1$ ），为 $U$ 的模糊子集; $B = \{ b _ { 1 } , b _ { 2 } , \cdots , b _ { n } \}$ ( $0 \leqslant$ $b _ { j } { \leqslant } 1$ ），为 $V$ 的模糊子集。 $a _ { i }$ 为 $U$ 对 $A$ 的隶属度, $b _ { j }$ 为 $V _ { j }$ 对 $B$ 的隶属度，表示最终综合评价结果。评价矩阵为：
+
+$$
+\begin{array} { c c c c c c } { { } } & { { r _ { 1 1 } } } & { { r _ { 1 2 } } } & { { \cdots } } & { { r _ { 1 n } } } \\ { { } } & { { } } & { { } } & { { } } & { { } } & { { } } \\ { { R = } } & { { r _ { 2 1 } } } & { { r _ { 2 2 } } } & { { \cdots } } & { { r _ { 2 n } } } \\ { { } } & { { } } & { { } } & { { } } & { { } } & { { } } \\ { { } } & { { \cdots } } & { { \cdots } } & { { \cdots } } & { { \cdots } } & { { \cdots } } \\ { { } } & { { } } & { { } } & { { } } & { { } } & { { } } \\ { { } } & { { r _ { m 1 } } } & { { r _ { m 2 } } } & { { \cdots } } & { { r _ { m n } } } \end{array}
+$$
+
+式中： $r _ { i j }$ 代表 $\boldsymbol { u } _ { i }$ 的评价对等级的隶属度,矩阵 $R$ 的第 $i$ 行 $R _ { i } = ( r _ { i 1 } , r _ { i 2 } , \cdots , r _ { i n } )$ 为第 $i$ 个因素 $\boldsymbol { u } _ { i }$ 的单个因素最终评价结果,A满足 $a _ { 1 } + a _ { 2 } + \cdots + a _ { n } = 1$ 。将评语集为等级赋值 $\alpha _ { j } = \left\{ \ : 0 . 9 5 , 0 . 7 5 , 0 . 5 0 , 0 . 2 5 , 0 . \right.$ $0 5 \nmid ( j = 1 , 2 , \cdots , n )$ ,计算各子系统评价指数：
+
+$$
+u ^ { \prime } = \frac { \displaystyle \sum _ { j = 1 } ^ { 5 } b _ { j } \alpha _ { j } } { \displaystyle \sum _ { j = 1 } ^ { 5 } b _ { j } }
+$$
+
+式中： $\alpha _ { j }$ 为各等级的赋值; $b _ { j }$ 为各评价等级； $u ^ { \prime }$ 表示各子系统的评价指数，最后将已算出的各子系统评价指数 $u ^ { \prime }$ 进行综合评价，利用上式进行加权平均，算出承载力综合评价值 $Z$ ,该值是反映农业水土资源承载力的综合性指标，评分值越大则代表农业水土资源承载力的状况就越好。
+
+# 2.4各指标与农业水土资源承载力的关系
+
+农业水土资源承载力体系是一个复杂的系统，它涉及到4个子系统的多个因素。其中，每个因素对一个区域农业水土资源承载力的影响程度，也因区域发展的不同阶段而存在差异。因此，本研究引入障碍度 $( H _ { i j } )$ 的概念，分析研究区各指标与农业水土资源承载力之间的关系，从而得出影响区域农业水土资源承载的主要因素，公式如下：
+
+$$
+\left\{ \begin{array} { l } { { D _ { i j } = \big ( 1 - P _ { i j } \big ) w _ { j } } } \\ { { } } \\ { { H _ { i j } = { D _ { i j } } \Bigg / \sum _ { j = 1 } ^ { n } D _ { i j } } } \end{array} \right.
+$$
+
+式中： $H _ { i j }$ 是障碍度; $P _ { i j }$ 是各指标标准化后的值；（1-$\boldsymbol { P } _ { i j }$ )是指各指标的偏离度； $\boldsymbol { w } _ { j }$ 是各指标的权重,也是因子贡献度; $D _ { i j }$ 是指标 $x _ { i j }$ 与系统发展目标之间的差异。
+
+# 3结果与分析
+
+# 3.1农业水土资源承载力评价结果
+
+根据公式（1）～（7），可得到哈萨克斯坦各州（市)2001—2017年农业水土资源承载力综合评价结果及评分值，2017年的评价结果见表3。阿特劳州、南哈萨克斯坦州、阿斯塔纳市、曼格斯套州和阿拉木图州农业水土资源承载力评价结果 $b _ { j }$ 对 $\mathrm { \Delta V _ { 5 } }$ 的值大于 $\mathrm { \Delta V _ { \mathrm { 1 } } \sim V _ { \mathrm { 4 } } }$ ，综合评分约0.4，排名位于下位圈。其中阿斯塔纳市的评价结果 $b _ { j }$ 对 $\mathrm { \Delta V _ { 5 } }$ 更是高达0.61，综合评分值则为0.36，表明这些区域农业水土资源承载力接近饱和,开发利用潜力小。而阿克莫拉州、北哈萨克斯坦州、科斯塔奈州、阿克托别州的评价结果 $b _ { j }$ 对 $\mathrm { \Delta V } _ { 1 }$ 的隶属度大于 $\mathrm { \Delta V } _ { 2 } \sim \mathrm { V } _ { 5 }$ ,综合评分约0.6，排名位于上位圈。其中北哈萨克斯坦州的评价结果 $b _ { j }$ 对 $\mathrm { \Delta V _ { \mathrm { ~ 1 ~ } } }$ 的隶属度最大,综合评分值最大，即说明该区域农业水土资源承载力高，开发潜力大，情况乐观。此外，卡拉干达州和巴浦洛达尔州的评价结果 $b _ { j }$ 对 $\mathrm { ~ V ~ } _ { 2 }$ 的隶属度最大,表明这些地区农业水土资源开发利用存在一定的潜力，而其余地州的承载力则为中等水平，开发利用潜力有限
+
+表32017年哈萨克斯坦各州(市)农业水土资源承载力综合评价结果  
+Tab.3Comprehensive evaluation results of thecarying capacityof agricultural water and land resources in the states （cities）in Kazakhstan in 2017   
+
+<html><body><table><tr><td>地区</td><td>V</td><td>V</td><td>V3</td><td>V4</td><td>V5</td><td>综合评分</td><td>评分排名</td><td>地区</td><td>V</td><td>V</td><td>V3</td><td>V4</td><td>V5</td><td>综合评分</td><td>评分排名</td></tr><tr><td>X</td><td>0.416</td><td>0.139</td><td>0.186</td><td>0.050</td><td>0.209</td><td>0.615</td><td>2</td><td>X9</td><td>0.086</td><td>0.201</td><td>0.270</td><td>0.202</td><td>0.241</td><td>0.430</td><td>11</td></tr><tr><td>X</td><td>0.293</td><td>0.105</td><td>0.158</td><td>0.185</td><td>0.260</td><td>0.495</td><td>9</td><td>X10</td><td>0.349</td><td>0.069</td><td>0.051</td><td>0.001</td><td>0.531</td><td>0.435</td><td>10</td></tr><tr><td>X</td><td>0.112</td><td>0.230</td><td>0.209</td><td>0.109</td><td>0.341</td><td>0.427</td><td>12</td><td>X1</td><td>0.129</td><td>0.124</td><td>0.206</td><td>0.213</td><td>0.328</td><td>0.388</td><td>13</td></tr><tr><td>X4</td><td>0.253</td><td>0.001</td><td>0.139</td><td>0.096</td><td>0.511</td><td>0.360</td><td>16</td><td>X12</td><td>0.127</td><td>0.358</td><td>0.168</td><td>0.111</td><td>0.235</td><td>0.513</td><td>8</td></tr><tr><td>X5</td><td>0.276</td><td>0.181</td><td>0.265</td><td>0.001</td><td>0.278</td><td>0.544</td><td>4</td><td>X13</td><td>0.489</td><td>0.099</td><td>0.045</td><td>0.202</td><td>0.165</td><td>0.620</td><td>1</td></tr><tr><td>X6</td><td>0.165</td><td>0.194</td><td>0.402</td><td>0.057</td><td>0.182</td><td>0.527</td><td>7</td><td>X14</td><td>0.145</td><td>0.258</td><td>0.285</td><td>0.204</td><td>0.108</td><td>0.530</td><td>6</td></tr><tr><td>X7</td><td>0.204</td><td>0.326</td><td>0.158</td><td>0.032</td><td>0.281</td><td>0.539</td><td>5</td><td>X15</td><td>0.298</td><td>0.001</td><td>0.093</td><td>0.001</td><td>0.609</td><td>0.360</td><td>15</td></tr><tr><td>Xg</td><td>0.379</td><td>0.260</td><td>0.045</td><td>0.037</td><td>0.280</td><td>0.601</td><td>3</td><td>X16</td><td>0.337</td><td>0.001</td><td>0.057</td><td>0.037</td><td>0.570</td><td>0.386</td><td>14</td></tr></table></body></html>
+
+注： $\mathrm { X } _ { 1 } \sim \mathrm { X } _ { 1 6 }$ 分别代表阿克莫拉州、阿克托别州、阿拉木图州、阿特劳州、西哈萨克斯坦州、江布尔州、卡拉干达州、科斯塔奈州、克孜勒奥尔达州、曼格斯套州、南哈萨克斯坦州、巴浦洛达尔州、北哈萨克斯坦州、东哈萨克斯坦州、阿斯塔纳市、阿拉木图市。其中：首都阿斯塔纳市于2019年3月20 日改名为努尔苏丹。
+
+# 3.2农业水土资源承载力的时间演变
+
+2001—2017年，哈萨克斯坦农业水土资源承载力呈缓慢波动的上升趋势（图2）。2001年综合评价指数为0.477，2003年下降至最小值0.469，然后再上升至2006年的最大值0.514，之后降至0.49附近波动。在2010年和2012年，由于严峻的干旱天气影响，农业水土资源承载力有所下降,之后则一直保持着稳定态势。其中，经济子系统贡献最大，均值为0.544，其次是水土资源子系统、社会子系统，生态子系统的贡献最小，均值是0.362。水土资源子系统的评价指数呈平稳缓慢上升态势，从子系统内部来看，农业用水定额显著减少，从2001年的191.8$\mathbf { m } ^ { 3 }$ 降至最低时期为2016年的 $4 5 ~ \mathrm { m } ^ { 3 }$ ,这在一定程度上减少了水土资源的浪费且提高了利用率。经济子系统评价指数呈明显波动上升态势，2010年以来，由于哈萨克斯坦农业经济加速发展,粮食生产达到近 $1 \mathrm { ~ t ~ } { \cdot } \mathrm { h m } ^ { - 2 }$ ,农业产值也不断增大,故对农业水土资源承载力有积极的作用。生态子系统的评价指数呈缓慢下降趋势，从2001年的0.391降至2017年的0.331。由于农业的大力发展,单位耕地施肥量在逐年增加，而环境投资率却在不断减少，故对生态子系统的负面影响逐渐加深。社会子系统评价指数呈波动下降趋势，这与哈萨克斯坦的人口自然增长率不断上升有一定的关系，随着人口数量的增长，对水土资源需求的增多会严重影响社会子系统的发展。
+
+为深入研究哈萨克斯坦农业水土资源承载力各子系统评价指数的变异特征，以5a为一个周期，选取2002年、2007年、2012年和2017年为代表年，得出各子系统评价指数的变异系数（图3）。整体上，生态子系统评价指数的变异系数最小，2017年为0.103，社会子系统评价指数的变异系数最大，2012年为0.516。2002—2017年，水土资源子系统、社会子系统和生态子系统评价指数的变异系数整体上均呈增大趋势，差异性在逐年增加；而经济子系统评价指数的变异系数在不断的下降，表示差异性在减小，即经济子系统增长的速度渐趋于平稳。2001一2006年农业水土资源承载力评价指数呈上升趋势，代表承载力在逐步增强，而在此期间4个子系统评价指数的变异系数也呈增大趋势，故从整体变化上看，农业水土资源承载力与各子系统每年的差异性存在密切的关联性。
+
+# 3.3各州(市)农业水土资源承载力的空间分异
+
+为分析哈萨克斯坦各年份不同州（市）农业水土资源承载力，选取4个代表年份的计算结果，利用ArcGIS 10.2的Jenks最佳自然断裂法[31],将综合评价指数由大到小的顺序分为5个等级：I级（承载力高）、II级（承载力较高）、II级（承载力中等）IV级（承载力较低）、V级（承载力低），从而得到2001—2017年哈萨克斯坦各州（市)农业水土资源承载力的空间演变图（图4）。
+
+整体上，哈萨克斯坦北部的农业水土资源承载力明显大于南部，高承载力区主要集中在北部、中部和东部地区，低承载力区集中在南部和西部地区。北部作为雨养农业区,接受来自海洋的水汽[32]，较为湿润，降水明显大于南部。西部沙漠多、可耕地面积少且自然条件差[33]，主要水资源是乌拉尔河来水。里海水位上升使得周边区域土壤盐渍化，导致生态环境恶化，阿特劳州和曼格斯套州的部分土地已被淹没[34]。南部多属灌溉垦殖农业区,水资源发源于天山的锡尔河等流域，土地垦殖率高、人口多、水资源需求大，农业受水资源的制约十分明显。
+
+![](images/aa34c35cee9d308a69359dc6c0ab06d06e00680bc88c80dc378448a71f7a109f.jpg)  
+图22001—2017年哈萨克斯坦农业水土资源承载力趋势Fig.2The trend of the carrying capacity of agricultural waterand land resources in Kazakhstan from 2OO1 to 2017
+
+![](images/82a569f7c27ea7b3d4e48485cc27fd14a071b0d04b2b998849f91ff10e55b348.jpg)  
+图3代表年份各子系统评价指数时间变异特征 Fig.3Temporal variation of the evaluation indexes of the subsystems in representative years
+
+2001—2017 年,北哈萨克斯坦州、科斯塔奈州和阿克莫拉州农业水土资源承载力水平高（I级），农业土地资源储备量较丰富，开发潜力较大，它们是3大粮食主产区，肥沃的土壤加上夏秋季较好的自然条件，为粮食的高产提供了保障。东哈萨克斯坦州、卡拉干达州和西哈萨克斯坦州的农业水土资源承载力一直处于较高水平（ⅡI级），水土资源利用较为合理，有一定的开发潜力。江布尔州和阿克托别州农业水土资源承载力为中等水平（IⅢI级）,表明农业水土资源承载力一般。克孜勒奥尔达州、曼格斯套州农业水土资源承载力较低（IV级），前者土地垦殖率低，农业用水量大，水资源流失严重，有效利用率低;后者则以工业发展为主,土地垦殖率极低,开发潜力小。南哈萨克斯坦州的承载力水平一直很低（V级），该区以棉花和水稻种植为主，农业水土资源开发利用水平较高，但水资源不足。而阿斯塔纳市和阿拉木图市的农业水土资源承载力水平低（V级），农业水土资源已超出开发限度。阿特劳州农业水土资源承载力水平从较低（IV级）降至低（V级），该区农业用水定额很大，垦殖率较低，开发潜力较小。由于石油开采泄漏严重，其境内估计存在$1 8 . 5 2 \times 1 0 ^ { 4 } ~ \mathrm { m } ^ { 3 }$ 的“石油湖泊”,它们在夏季蒸发，水土资源和空气均受到严重污染。巴浦洛达尔州承载力由II级降至II级，该区附近有900多家从事冶金、化工等的耗水企业，排水量约 $1 2 0 \mathrm { ~ m } ^ { 3 }$ ，占全国排水量的 $60 \%$ 左右，对其境内的额尔齐斯河造成极大的污染。
+
+# 3.4农业水土资源承载力影响因素的识别
+
+利用公式（8），计算表1中哈萨克斯坦地区
+
+![](images/296406c34098b676a6538d691e2a9f21ece6334b0c5904fe53674096e734147a.jpg)  
+图4哈萨克斯坦各州(市)农业水土资源承载力空间演变
+
+Fig.4Spatialevolutionofthecarryingcapacityofagiculturalwaterandlandresourcesinvariousstates（cities）inKazakhstan
+
+2001一2017年各项指标的障碍度。将5个最高障碍度之和作为整个农业水土资源承载力系统的障碍度，以各子系统相关指标的障碍度之和作为该子系统的障碍度。因此，得出了哈萨克斯坦2001一2017年农业水土资源承载力整体系统和各子系统的障碍度趋势图（图5）。
+
+3.4.1整体系统图5显示,哈萨克斯坦农业水土资源承载力系统的障碍度出现两个演变阶段：2001—2009 年急剧下降，2010—2017年以波动的形式上升。2001年农业水土资源承载力系统的障碍度最大，为 $7 3 . 5 4 \%$ ;而2009年农业水土资源承载力系统的障碍度最小，为 $4 4 . 5 8 \%$ ,之后又开始波动增长至2017年的 $6 4 . 4 9 \%$ 。
+
+2001—2009 年，垦殖率( $ { \mathrm { ~  ~ { ~ C ~ } ~ } } _ { 2 }$ )和单位耕地面积农业产值( $\mathrm { ~ C ~ } _ { 1 6 }$ )均在每年最高的5个障碍度中，垦殖率的障碍度由 $1 3 . 1 2 \%$ 降至 $4 . 4 6 \%$ ，单位耕地面积农业产值的障碍度由 $1 0 . 8 5 \%$ 降至 $3 . 4 6 \%$ 。据Pearson相关分析表明，垦殖率、单位耕地面积农业产值分别与农业水土资源承载力系统障碍度的相关系数为-0.805和-0.73。故垦殖率和单位耕地面积农业产值是影响农业水土资源承载力的主要因素。同时，资源子系统相关的农业灌溉率( $\left. \mathbf { C } _ { 4 } \right.$ 和农业水资源利用率( $\left( \mathrm { C } _ { 6 } \right)$ )指标出现了7次，也是重要因素。由于垦殖率、农业灌溉率和农业水资源利用率是与资源子系统相关的指标，单位耕地面积农业产值是与经济子系统相关的指标，表明在2001—2009 年，哈萨克斯坦农业水土资源承载力主要由资源、经济相关因素共同决定的。
+
+![](images/dcbcbd7ffda61620a7959960afc9a69f6ce82e06a1c69a86709157b9c073ffa9.jpg)  
+图5哈萨克斯坦农业水土资源承载力整体系统障碍度变化趋势
+
+2010—2017年，农业水土资源承载力障碍度以波动的方式从 $5 3 . 4 4 \%$ 上升到 $6 4 . 4 9 \%$ 。农业水土资源匹配系数( $\mathbf { C } _ { 1 } \mathbf { \Psi } _ { \mathrm { ~ } }$ )和人口密度( $\mathrm { ~ C ~ } _ { 1 0 }$ )成为影响农业水土资源承载力的主要因素，最大障碍值分别是$1 1 . 7 6 \%$ 和 $1 4 . 1 \%$ 。人口密度障碍度从 $6 . 1 5 \%$ 上升到 $1 4 . 1 \%$ ,表示人口快速增长对水土资源的需求及污染程度的加大。此外，在此期间的单位耕地施肥量（ $\mathrm { { C } } _ { 1 9 }$ )和单位土地污水负荷( $\mathrm { C } _ { 2 0 }$ )也深刻地影响着农业水土资源承载力系统，由于广泛使用化肥和农药造成水资源、土地污染严重，土壤存在营养物质流失严重的现象，农业水土资源承载力障碍度增大。表明在2010—2017年，哈萨克斯坦农业水土资源承载力主要是由资源、社会、生态相关因素共同决定。3.4.2子系统图6显示,2001—2017年,资源子系统的障碍度呈先下降后波动上升的趋势，2001年
+
+![](images/08ddfc05f1d2057bc6d7834c48b908a419b89a7ea2b22f7abd98a9e202e42191.jpg)  
+Fig.5Change trend of overall system obstacle of the carrying capacity of agricultural water and land resources in Kazakhstan   
+图6哈萨克斯坦农业水土资源承载力各子系统障碍度演变
+
+Fig.6Evolution of the subsystems of carrying capacity of agricultural water and land resources in Kazakhst:
+
+为 $6 0 . 5 6 \%$ ,降至2012年最低值 $1 8 . 6 2 \%$ ,之后上升至 $3 4 . 9 1 \%$ ,表明资源子系统对农业承载力的影响在减弱后再次增强。根据Pearson相关分析，资源子系统中的农业水土资源匹配系数 $\left( \mathbf { C } _ { 1 } \right)$ 与其障碍度的相关系数为-0.868，这说明它对资源子系统的障碍程度影响较大。社会子系统的障碍度由$1 7 . 6 5 \%$ 上升至 $5 1 . 7 5 \%$ ,表明障碍度不断加强；经济子系统则由 $4 8 . 1 3 \%$ 降至 $2 1 . 2 9 \%$ ，表示经济子系统对农业水土资源承载力的影响有所减弱。生态子系统的障碍度变化趋势与经济子系统的变化趋势相反的，从2001年的 $6 . 8 2 \%$ （4个子系统最低）上升到2011年的 $5 1 . 5 3 \%$ ,2017年下降到 $1 9 . 7 8 \%$ 。基于以上分析可以看出，2001—2017年哈萨克斯坦资源状况、生态环境成为影响农业水土资源承载力的重要因素。
+
+# 4结论与讨论
+
+（1）哈萨克斯坦农业水土资源承载力自2001年以来整体上呈缓慢波动上升的态势,2001年综合评价指数为0.477，增加至2006年的0.514，之后在0.49左右小幅波动，仍有较大改善需求与空间。2010年和2012年的承载力均在下降，这可能与哈萨克斯坦严峻的干旱气候有关。其中，经济子系统贡献最大，其次是水土资源子系统、社会子系统，生态子系统的贡献最小。哈萨克斯坦自2010年以来，经济不断快速发展，加上一系列政策的出台，在一定程度上促进了农业水土资源承载力的提高，但速度较慢。
+
+（2）哈萨克斯坦农业水土资源承载力存在明显的空间分异。高承载力区主要集中在北部、中部和东部地区，低承载力区集中在南部和西部地区，水资源对承载力的影响很大。北哈萨克斯坦州、科斯塔奈州和阿克莫拉州的农业水土资源承载力高（I级），南哈萨克斯坦州、阿拉木图市和阿斯塔纳市的承载力低（V级），克孜勒奥尔达州和曼格斯套州农业水土资源承载力较低（IV级），其他州承载力存在一定幅度的波动。
+
+（3）水土资源子系统和经济子系统的评价指数呈上升态势，对农业水土资源承载力有积极的作用，这与政府重视农业生产、经济发展有一定的关系；而社会子系统和生态子系统的评价指数呈下降趋势，这与哈萨克斯坦人口自然增长率不断上升、生态环境退化加剧有关，导致水土资源供需矛盾凸显。
+
+（4）2001—2009年哈萨克斯坦农业水土资源承载力障碍度急剧下降，垦殖率、农业灌溉率、农业水资源利用率及单位耕地面积农业产值是其主要影响因素;2010—2017年农业水土资源承载力波动上升，农业水土资源匹配系数、人口密度及单位土地污水负荷是主要影响因素，故表明生态环境相关因素对哈萨克斯坦农业水土资源承载力的影响越加深刻，逐渐成为其主要影响因素。
+
+# 参考文献(References）:
+
+[1]Lebed L.Possible changes in agriculture under the influence of climate change in Kazakhstan[C]//Environmental Problems of Central Asia and Their Economic,Social and Security Impacts.Springer Netherlands,2008:149-162. [2]邓兴耀，姚俊强,刘志辉.基于GIMMS NDVI的中亚干旱区植 被覆盖时空变化[J].干旱区研究,2017,34（1):10-19.[Deng Xingyao,Yao Junqiang,Liu Zhihui. Spatiotemporal dynamic change of vegetation coverage in arid regions in Central Asia based on GIMMS NDVI[J].Arid Zone Research,2017,34(1）:10-19.] [3]胡增运,胡汝骥,周启鸣,等.亚洲中部干旱区干湿时空变化特 征[J].干旱区研究,2018,35（2）:260-268.[Hu Zengyun,Hu Ruji,Zhou Qiming,et al. Spatiotemporal variation of wetting or dying in the arid regions in Central Asia[J].Arid Zone Research,   
+2018,35(2) :260 -268.] [4]Yu Y,Li Y M,Chen X,et al. Climate change,water resources and sustainable development in the arid and semi-arid lands of Central Asia in the past 30 years[J].Journal of Arid Land,2019,11（1)：   
+1-14. [5]Karthe D,Chalov S,Borchardt D.Water resources and their management in central Asia in the early twenty first century: Status challenges and future prospects〔J].Environment Earth Science,   
+2015,73(2) :487 -499. [6]吉力力·阿不都外力,木巴热克·阿尤普,刘东伟,等.中亚五 国水土资源开发及其安全性对比分析[J].冰川冻土,2009,31 (5）:960- 968.[Abuduwaili Jilili,Mubareke Ayoupu,Liu Dongwei,et al. Comparative analysis of the land-water resources exploitation and its safety in the five countries of Central Asia[J]. Journal of Glaciologyand Geocryology,2009,31（5）:960-968.] [7］热依莎·吉力力,Issanova Gulnura,吉力力·阿不都外力.哈萨 克斯坦水环境与水资源现状及问题分析[J].干旱区地理,   
+2018,41（3）:518- 527.[Jilili Reyisha,Issanova Gulnura, Abuduwaili Jilili,et al.Water environment and water resource use issues of Kazakhstan[J].Arid Land Geography,2018,41(3）:518 -527.] [8］姚海娇,周宏飞,苏春风.从水土资源匹配关系看中亚地区水 问题[J].干旱区研究,2013,30（3）:391-395.[Yao Haijiao， Zhou Hongfei,Su Fengchun.Water problems based on spatial matching patterns of water and land resources in Central Asia[J]. Arid Zone Research,2013,30(3）:391-395.] {9）任守德 付强 王当 其干安徽观尺度的三江平原区域农业水
+
+土资源承载力[J].农业工程学报,2011,27(2):8-14.[Ren Shoude,Fu Qiang,Wang Kai.Regional agricultural water and soil resources carrying capacity based on macro-micro scale in Sanjiang Plain[J].Transactions of the Chinese Society of Agricultural Engineering,2011,27(2):8-14.]   
+[10］周宏飞,张捷斌.新疆的水资源可利用量及其承载能力分析 [J].干旱区地理,2005,28（6）：756-763.［ZhouHongfei, Zhang Jiebin.Analysis on the volume of available water resources and its carying capacity in Xinjiang,China[J].Arid Land Geography,2005,28(6) :756-763.]   
+[11]Harrs Jonathan M,Kennedy Scott.Carrying capacity in agriculture:global and regional issues[J].Ecological Economics,1999, 29(3):443 -461.   
+[12］李鹤,张平宇,程叶青,等.东北地区水土资源承载力区域差异 及空间组合[J].农业系统科学与综合研究,2008,24（1)：26- 35.[Li He,Zhang Pingyu,Cheng Yeqing,et al. Regional ifferences and spatial combination of WRCC and LRCC in Northeast China[J].System Sciences and Comprehensive Studies in Agriculture,2008,24(1) :26 -35.]   
+[13］曹丽娟,张小平.基于主成分分析的甘肃省水资源承载力评价 [J].干旱区地理,2017,40（4）:906-912.[Cao Lijuan,Zhang Xiaoping. Assessment of water resources carrying capacity in Gansu province based on principal component analysis[J].Arid Land Geography,2017,40(4）:906-912.]   
+[14］陈兴鹏,戴芹.系统动力学在甘肃省河西地区水土资源承载力 中的应用[J].干旱区地理,2002,25（4）:377－382.[Chen Xingpeng,Dai Qin.A study on water-soil capacity in north west arid area with systemic dynamics:A case of Hexi corridor,Gansu Province[J].Arid Land Geography,2002,25(4）:377 -382.]   
+[15］李慧,周维博,庄妍,等.延安市农业水土资源匹配及承载力 [J].农业工程学报,2016,32（5）：156-162.[Li Hui,Zhou Weibo,Zhuang Yan,et al.Agricultural water and soil resources matching patterns and carrying capacity in Yan'an city[J].Transactions of the Chinese Society of Agricultural Engineering,2016,32 (5):156 -162.]   
+[16］闵庆文,余卫东,张建新.区域水资源承载力的模糊综合评价 分析方法及应用[J].水土保持研究,2004,11（3）:14－16. [Min Qingwen,Yu Weidong,Zhang Jianxin. Fuzzy-based evaluation of water resources carrying capacity and its application[J]. Research of Soil and Water Conservation,2004,11(3）:14 -16.]   
+[17］姜秋香,付强,王子龙.三江平原水资源承载力评价及区域差 异[J].农业工程学报,2011,27(9）:184－190.[Jiang Qiuxiang,Fu Qiang,Wang Zilong. Evaluation and regional differences of water resources carrying capacity in Sanjiang plain[J]. Transactions of the Chinese Society of Agricultural Engineering,2011,27 (9):184 -190.]   
+[18］杨莲梅,关学锋,张迎新.亚洲中部干旱区降水异常的大气环 流特征[J].干旱区研究,2018,35(2）:249-259.[Yang Lianmei,Guan Xuefeng,Zhang Yingxin.Atmospheric circulation characteristics of precipitation anomaly in arid regions in Central Asia [J].Arid Zone Research,2018,35(2）:249-259.]   
+[19］黄秋霞,赵勇,何清.基于CRU 资料的中亚地区气候特征[J]. 干旱区研究,2013,30（3）：396－403.［HuangQiuxia,Zhao Yong,He Qing.Climatic characteristics in Central Asia based on CRU data[J].Arid Zone Research,2013,30(3):396-403.]
+
+[20]梁倩，光莹，刘琼，等.新疆及周边中亚地区大气可降水量分布 的中亚低涡响应[J].干旱区研究，2019,36(5)：1070-1078. [Liang Qian,Guang Ying,Liu Qiong,et al.Distribution of precipitable water vapor of low vortex over Xinjiang and surrounding Central Asia in summer[J].Arid Zone Research,2019,36(5）:1 070 -1 078.]
+
+[21］龚子同,陈鸿昭,杨帆,等.中亚干旱区土壤地球化学和环境 [J].干旱区研究,2017,34(1）:1-9.[Gong Zitong,Chen Hongzhao,Yang Fan,et al.Pedogeochemistry and environment of aridisol regions inCentral Asia[J].Arid Zone Research,2017,34（1):   
+1-9.] [22］涂莹燕,李菲.哈萨克斯坦跨国界河流管理国家战略分析[J]. 环境可持续发展,2014,25（6）:96-98.[Tu Yingyan,LiFei. Policy analysis on Kazakhstan national strategy of trans-boundary rivers[J].Environment and Sustainable Development,2014,25 (6) :96-98.] [23］邓铭江,李湘权,雷雨.哈萨克斯坦水资源及水能资源开发前 景分析[J].水力发电,2014,40（7）:1-4.[Deng Mingjiang,Li Xiangquan,Lei Yu.Analysis on development prospect of water resources and hydro-resources in Kazakhstan[J].Water Power,   
+2014,40(7) :1 -4.] [24］胡吉敏.沿海地区水资源承载力评价研究[D].大连：大连理 工大学,2008:33-66.[Hu Jimin.Study on Evaluation of Water Resources Carrying Capacity in Coastal Regions[D].Dalian: Dalian University of Technology,2008:33-66.] [25］庄妍.延安市水土资源承载力研究[D].西安:长安大学,2015. [Zhuang Yan.Studyon the Water and Land Resources Carrying Capacity in Yan'an[D].Xi'an:Chang'an University,China,   
+2015.] [26］宋松柏.区域水资源可持续利用指标体系及评价方法研究 [D].杨凌:西北农林大学,2003.[Song Songbai.Indicators System for Region Sustainable Water Resources Utilization and Its Assessing Methods[D]. Yangling:Northwest Agriculture and Forestry University,2003.] [27]温亮,游珍,林裕海,等.基于层次分析法的土地资源承载力评 价——以宁国市为例[J].中国农业资源与区划,2017,38（3）：   
+1 -6.[Wen Liang,You Zhen,Lin Yuhai,et al.Evaluation on land carrying capacity:A caseof Ningguo city[J]. Chinese Journal of Ag ricultural Resources and Regional Planning,2017,38(3):1-6.] [28］张欣莹,解建仓,刘建林,等.基于熵权法的节水型社会建设区 域类型分析[J].自然资源学报,2017,32（2）：301－309. [Zhang Xinying,Xie Jiancang,Liu Jianlin,etal.Analysis on the regional type of water-saving society based on entropy weight method[J].Journal of Natural Resources,2017,32(2）:301-309.] [29］徐建华.数学方法在地理学中的应用[M].北京:高等教育出 版社,2002:342-345.[Xu Jianhua.The Application of Mathematical Methodsin Geography[M].Beijing:Higher Education Press,2002:342 -345.] [30]陈守煜.系统模糊决策理论与应用[M].大连：大连理工大学 出版社,1994.[Chen Shouyu.System Fuzzy Decision Theory and Application[M].Dalian:Dalian University of Technology Press,   
+1994.] [31］孙玉,程叶青,张平宇.东北地区乡村性评判及时空分异[J]. 地理研究,2015,34（10）:1 864-1 874.[Sun Yu,Cheng Yeqing,Zhang Pingyu. Spatio-temporal dynamics of rurality in
+
+Northeast China[J].Geographical Research,2015,34(10）:1 864 -1 874.]
+
+[32]胡汝骥，姜逢清，王亚俊,等.中亚(五国)干旱生态地理环境特征[J].干旱区研究,2014,31（1）：1－12.［Hu Ruji,JiangFengqing,WangYajun,etal.Arid ecological and geographical con-ditions in five countries of Central Asia[J].Arid Zone Research,2014,31(1):1-12.]
+
+[33]龙爱华，邓铭江,李湘权，等.哈萨克斯坦水资源及其开发利用 [J].地球科学进展,2010,25（12）：1357-1366.[Long Aihua, DengMingjiang,Li Xiangquan,et al.Analysis of water resources development in Kazakhstan and water problems[J].Advances In Earth Science,2010,25(10):1 357-1 366.]   
+[34]Carol Dahl,Karlygash Kuralbayeva.Energy and the environment in Kazakhstan[J].Energy Policy,2001,29:429-440.
+
+# Evaluation on Carrying Capacity of Agricultural Water and Land Resources and Identification of Affecting Factors in Kazakhstan
+
+ZHU Wei123，ZHOU Hong-fei'²，LILan-hai'4，YANYing-je12,3 (1.State KeyLaboratoryof Desert and Oasis Ecology,Xinjiang Institute of Ecologyand Geography,ChineseAcademyof Sciences, Urumqi 830011,Xinjiang,China; 2. Fukang Station of Desert Ecology,Chinese Academy of Sciences,Fukang 831505,Xinjiang,China; 3. University of Chinese Academy of Sciences,Beijing 10049,China; 4.Ili Station for Watershed Ecosystem Research,ChineseAcademyofSciences,Xinyuan 83580,Xinjiang,China)
+
+Abstract：The quantity and quality of water and land resources are of great significance to the sustainable development of agriculture.The 22 indicators were used to establish the evaluation system of the carrying capacity of agricultural water and land resources in Kazakhstan.The analytic hierarchy process,entropy weight method and fuzzy comprehensive evaluation model were combined to analyze the dynamic change and regional diference of the carrying capacityof agricultural water and land resources in Kazakhstan from 2001 to 2017.The obstacle method was used to quantitatively identify the influencing factors.The results showed that : $\textcircled{1}$ From 2001 to 2017,the overall carrying capacity of agricultural water and land resources in Kazakhstan showed a slow upward trend,and the evaluation indexes of the water and land resources subsystemand the economic subsystem were all increased slowly,but those of the ecology subsystem and social subsystem were significantly decreased; $\textcircled{2}$ The carrying capacity of agricultural water and land resources was significantly different from diferent regions.Theareas with high carrying capacity were mainly distributed in the northemn,central and eastern regions,and those with lowone were in the southernand western regions.The carrying capacity in North Kazakhstan,Costanay and Akmola was increased year by year,but that in Atyrau and Baplodar was low and decreased; $\textcircled{3}$ The carrying capacity was mainly affected by the reclamation rate ( $\left( \mathbf { C } _ { 2 } \right)$ ,agricultural output value per unit area of cultivated land ( $\mathrm { C } _ { 1 6 }$ ）and agricultural irrigation rate $\left( \mathbf { C } _ { 4 } \right)$ during 2OOl-2OO9,but it was mainly affected by the agricultural water and land resources matching coefficient ( $\left. \mathbf { C } _ { 1 } \right.$ ,population density( $\mathrm { ~ ( ~ C ~ } _ { 1 0 }$ ）and land sewage load per unit area（ $\mathrm { ~ C ~ } _ { 2 0 }$ ）during 2010-2017.The factors related to the eco-environment have gradually became as the barriers to the carrying capacity.
+
+Key words:agriculture；water and land resources；carrying capacity； fuzzy comprehensive evaluation model; Kazakhstan

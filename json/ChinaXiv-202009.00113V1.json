@@ -1,0 +1,987 @@
+[
+    {
+        "type": "text",
+        "text": "一种基于切换拓扑和事件触发机制的一致性协议“",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢光强，杜宇凡，陈俊宇，李杨(广东工业大学 计算机学院，广州 510006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究了一种新的基于切换拓扑的事件触发一致性协议，该协议设计了两个事件触发器，包括智能体状态演化引发的收敛事件触发器和拓扑变化引发的拓扑事件触发器，并给出了和事件触发器有关的公共LyapunoV 函数的稳定性分析和理论证明，还设计了一种基于约束集的网络连通算法，用以提高网络的连通性。仿真实验结果表明，新的协议能够使得系统收敛一致，有效降低智能体控制器的更新频率，减少系统能耗，提升网络的连通效果，能为事件触发控制的后续研究提供理论支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多智能体；切换拓扑；事件触发控制；分布式控制；Lyapunov函数 中图分类号：TP301 doi: 10.19734/j.issn.1001-3695.2020.01.0035 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consensus protocol based on switching topology and event triggering mechanism ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xie Guangqiang, Du Yufan, Chen Junyu, Li Yang+ (School of Computers,Guangdong University of Technology,Guangzhou 51oo06,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This paper studied anew event-triggered consensus protocol for MASs based on switching topology.Two events aredesigned inthis protocol, includingconvergence events caused byagentstate evolution and topology events caused by topologychange.Stability analysis of public Lyapunov functionrelated to events and consensus proofof MASsare given.A network connectivityalgorithm based on constraint set is also designed to enhance network connectivity.The simulation results showthatthedesigned event-triggeredconsensusprotocolcanmake thestate evolutionofagents tendtobeconsistent andeffectivelyreduce theupdate frequencyofthecontrollerofagents inthe switching topology network environment,reduce the energyconsumptionofMASs,improve theconnectivityeffectofthenetworkeffectively,and providetheoreticalupport for the subsequent research of event-triggered control. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: multi-agent systems; switching topology; event-triggered control; distributed control; lyapunov function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多智能体系统(MASs)是指由多个具备一定的感知、通信、计算和执行能力的智能体，通过有限局部信息交流和协作来完成一个群体性任务的网络化系统[1]。一致性问题是MASs研究的热点问题[2.3]：系统通过设计好的一致性协议，使得系统所有成员的状态值趋于相同，最终达成一致[4,28]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在连续时间MASs的实际工程应用中，主要采用周期采样方式工作，系统控制器更新过于频繁，会出现系统能耗过高、通信资源需求和计算能力代价过大等问题[5]。为了解决上述问题，文献[6]提出了事件触发控制。在事件触发控制中，系统控制器仅在特殊事件发生时更新，控制器更新次数显著减少，有效降低系统能耗，系统也不需要更高性能的处理器，该方法积极有效，逐渐成为流行的研究主题[7\\~9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Meng等人[8]提出了一种基于固定拓扑的离散时间MASs分布式事件触发一致性协议，仅在每个采样周期上判断智能体的事件触发器是否满足条件，从而大大减少了事件触发器的判断次数和系统控制器的更新次数。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "事件触发控制主要分为三类：传统事件触发控制[10.11]、基于采样周期的事件触发控制[8]、自触发控制[10]。传统事件触发控制适用于连续时间MASs，研究包括如a)一阶积分器系统的事件触发控制[9,10,12]；b)二阶积分器系统的事件触发控制[13,14]；c)线性系统的事件触发控制[15\\~17]；d)非线性系统的事件触发控制[18]；其余两类适用于离散时间MASs，研究包括如：e)基于采样周期的事件触发控制[8,19,20]；f)自触发控制[10,21]；g)考虑时延的MASs 的事件触发控制[15,22]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前事件触发控制的研究重点在于如何设计一致性协议和定义事件触发函数，使得智能体之间避免连续通信，又使得系统达到一致性且保证整个闭环系统不存在Zeno现象[7,10]。然而，现有的事件触发控制通常要求系统拓扑是固定拓扑。研究发现具有切换拓扑结构的网络化系统更符合实际的工程应用[23,24],因此设计符合网络切换变化的MASs更为重要[25]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文从将事件触发控制和切换拓扑相结合的角度出发，研究了事件触发控制下的一阶切换拓扑离散时间MASs的一致性问题，提出了一种基于采样周期的事件触发控制的离散时间MASs一致性协议。事件触发器采用混合式方式来减少系统控制器更新频率，即两种事件触发器并存的形式，在文中分别称为收敛事件触发器和拓扑事件触发器。在每个离散的采样时刻，智能体判断自身是否满足事件触发器的触发条件。当满足这两个事件触发器中的任意一个触发条件时，智能体更新其控制器，否则不予更新；同时考虑到系统网络是切换拓扑，在演化过程中系统网络可能会发生断开无法保持连通，因此本文采用基于约束集的连通方法，来确保系统的实时连通性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 预备知识及问题描述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 图论与矩阵论",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文把一个具有 $n$ 个智能体的MASs描述为一个具有 $n$ 个顶点的无向图 $G = \\{ V , E , A \\}$ 。其中 $\\boldsymbol { V }$ 是图 $G$ 的顶点集，满足$V = \\{ 1 , . . . , n \\}$ ， $\\mid _ { 1 , . . . , n }$ 是顶点的顺序标号。 $E$ 是图 $G$ 的边集，满足$\\scriptstyle { E } = { V } \\times { V }$ 。图 $\\boldsymbol { G }$ 的一条边 $( i , j ) \\in E$ 表示一对顶点 $i$ 和 $j$ 互为邻居，邻居之间可以彼此接收到对方发送出的信息。 $A = ( a _ { i j } ) _ { n \\times n }$ 是图 $\\boldsymbol { G }$ 的非负加权邻接矩阵，其元素与边相关：$a _ { i j } > 0 \\Leftrightarrow ( i , j ) \\in E$ 。顶点 $i$ 和顶点 $j$ 的共同邻居集 $N _ { i j }$ 定义为$N _ { i j } = \\left\\{ k \\in V \\left| ( i , k ) \\in E , ( j , k ) \\in E \\right. \\right\\} = N _ { i } \\cap N _ { j }$ 。图 $\\sigma$ 的度矩阵 $D$ 定义为$D = d i a g \\{ d ( i ) \\}$ ，其中 $d ( i ) = \\sum _ { j \\in N _ { i } } a _ { i j }$ 为顶点 $i$ 的度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2切换拓扑 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑一个具有 $n$ 个智能体的 MASs，智能体的状态值处于一个实数集 $R$ 。用 $G = \\{ V , E , A \\}$ 表示智能体所对应的拓扑结构。若边集 $E ( t )$ 在初始时刻给定，且在系统的状态演化过程中会随时间改变，则称MASs网络为切换拓扑结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3离散时间一致性协议",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Olfati-Saber 等人[26]提出了一种基于切换拓扑的离散时间MASs分布式一致性协议：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle x _ { i } \\left( k + 1 \\right) = x _ { i } \\left( k \\right) + u _ { i } \\left( k \\right) } } \\\\ { { \\displaystyle u _ { i } \\left( k \\right) = \\alpha \\sum _ { j \\in N _ { i } \\left( k \\right) } \\left( x _ { j } \\left( k \\right) - x _ { i } \\left( k \\right) \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "若系统中所有智能体均采用离散时间一致性协议式(1)进行演化，当任意两个智能体的状态值满足式(2)时，那么可认为MASs收敛到一致。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { k \\to \\infty } \\left| x _ { i } ( k ) - x _ { j } ( k ) \\right| = 0 , \\forall i , j \\in A g e n t , j \\neq i , k \\to \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 一种基于切换拓扑和事件触发控制的一致性协议",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的研究出发点是将事件触发控制的方法与切换拓扑下的离散时间MASs相结合，设计两类系统事件触发器进行混合控制，设计了基于切换拓扑的事件触发一致性协议，在此基础上引入约束集方法，确保系统网络连通。文中进一步对设计了公共Lyapunov函数，完成了触发器的稳定性理论分析证明。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用 $G ( t ) = \\{ V ( t ) , E ( t ) , A ( t ) \\}$ 来表示智能体的状态向量  \n$x ( t )$ 所对应的切换拓扑，其中 $V ( t ) = \\{ 1 , . . . , n \\}$ ，  \n$E ( t ) = \\{ ( i , j ) \\| x _ { i } ( t ) - x _ { j } ( t ) \\left| \\leq d , \\forall i , j \\in A g e n t , j \\neq i \\right. \\}$ ， $A ( t ) = \\left( a _ { i j } \\left( t \\right) \\right) _ { n \\times n }$ ，IN()+(,j)∈E()），其中d为通信范围。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1事件触发器的设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1收敛事件触发器的设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智能体 $i$ 的实时状态为 $x _ { i } ( t )$ ，在每个采样周期 $h$ 上的状态为 $x _ { i } ( k h )$ 。 $t _ { 0 } ^ { i } , t _ { 1 } ^ { i } . . . , t _ { k } ^ { i } , t _ { k + 1 } ^ { i } , . . .$ 为智能体的触发时间序列，满足条件$t _ { k + 1 } ^ { i } = \\operatorname* { i n f } ( t : ( t > t _ { k } ^ { i } ) \\land f _ { i } ( t ) \\ge 0 )$ ，其中 $f _ { i } ( t )$ 是事件触发函数，即要设计的事件触发器。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智能体 $i$ 在第 $k$ 次触发时刻 $t _ { k } ^ { i }$ 的状态为 $x _ { i } ( t _ { k } ^ { i } )$ ，在两次触发时刻的间隔 $[ t _ { k } ^ { i } , t _ { k + 1 } ^ { i } )$ 上的状态表示为 $x _ { i } ( t _ { k } ^ { i } + l h )$ ，其中$t _ { k } ^ { i } + l h \\in [ t _ { k } ^ { i } , t _ { k + 1 } ^ { i } ) , l = 1 , 2 , \\dots$ 。由于当前时间 $t _ { k } ^ { i } + l h$ 是采样周期 $h$ 的整数倍，所以智能体 $i$ 的两次触发时刻的间隔 $[ t _ { k } ^ { i } , t _ { k + 1 } ^ { i } )$ 一定不小于$h$ ，因而系统能从原则上避免Zeno现象发生。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $\\hat { x } _ { i } ( t ) \\triangleq x _ { i } ( t _ { k } ^ { i } ) , t _ { k } ^ { i } \\leq t < t _ { k + 1 } ^ { i }$ ，目的是将离散时间信号 $x _ { i } ( t _ { k } ^ { i } )$ 转换成连续时间信号 $\\hat { x } _ { i } ( t )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测量误差定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { i } ( t ) = x _ { i } ( t _ { k } ^ { i } ) - x _ { i } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智能体 $i$ 在上一次触发时刻 $t _ { k } ^ { i }$ 和当前时刻 $t _ { k } ^ { i } + l h$ 的状态之差表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { i } ( t _ { k } ^ { i } + l h ) { = } x _ { i } ( t _ { k } ^ { i } ) { - } x _ { i } ( t _ { k } ^ { i } + l h )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智能体 $i$ 在当前时刻 $t _ { k } ^ { i } + l h$ 的组合状态表示为 $z _ { i } ( t _ { k } ^ { i } + l h )$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { i } \\left( t _ { k } ^ { i } + l h \\right) = \\sum _ { j : | x _ { j } \\left( t _ { k } ^ { i } + l h \\right) - x _ { i } \\left( t _ { k } ^ { i } + l h \\right) | \\leq d } \\frac { x _ { i } \\left( t _ { k } ^ { i } + l h \\right) - x _ { j } \\left( t _ { k } ^ { i } + l h \\right) } { | N _ { i j } | + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智能体 $i$ 的收敛事件触发器定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } ( t ) = \\rvert e _ { i } ( t _ { k } ^ { i } + l h ) \\lvert ^ { 2 } - \\sigma _ { i } \\rvert z _ { i } ( t _ { k } ^ { i } + l h ) \\lvert ^ { 2 } , l = 1 , 2 , . . .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智能体 $i$ 的控制器如下所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i } ( t ) = \\sum _ { j : | x _ { j } ( t ) - x _ { i } ( t ) | \\leq d } \\frac { x _ { j } ( t _ { k } ^ { j } ) - x _ { i } ( t _ { k } ^ { i } ) } { \\mid N _ { i j } \\mid + 1 } , t \\in [ t _ { k } ^ { i } , t _ { k + 1 } ^ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智能体 $i$ 的邻居 $j$ 在 $\\textit { t }$ 之前的最后一次触发时刻表示为$t _ { k } ^ { j }$ 。根据上述表达式，控制器 $u _ { i } ( t )$ 既和智能体 $i$ 的触发时刻 $t _ { k } ^ { i }$ 有关，又和智能体 $j$ 的触发时刻 $t _ { k } ^ { j }$ 有关。所以智能体 $i$ 的控制器需要在自身和邻居的触发时刻都进行更新。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在每个采样周期 $h$ 上，智能体 $i$ 和其邻居进行通信，检查自身状态是否满足收敛事件触发器。若触发器不满足，则智能体 $i$ 不更新控制器；若触发器满足，则智能体 $i$ 更新自身控制器，并通信其邻居更新其控制器。同时，测量误差 $e _ { i } ( t _ { k } ^ { i } + l h )$ 被重置为零，收敛事件触发器不再满足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智能体 $i$ 的收敛事件触发器的触发时间序列$\\{ t _ { 0 } ^ { i } , t _ { 1 } ^ { i } , \\ldots \\} \\subseteq \\{ 0 , h , 2 h , \\ldots \\}$ ，满足以下条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { k + 1 } ^ { i } = t _ { k } ^ { i } + h \\operatorname* { i n f } \\{ l : | e _ { i } ( t _ { k } ^ { i } + l h ) | ^ { 2 } \\geq \\sigma _ { i } \\mid z _ { i } ( t _ { k } ^ { i } + l h ) \\mid ^ { 2 } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2拓扑事件触发器的设计",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在切换拓扑下，智能体 $i$ 的邻居关系随着智能体 $i$ 的状态演化而改变。假设MASs切换拓扑的连通性始终保持，那么最终切换拓扑会成为一个完全图，各智能体状态能达成一致。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智能体 $i$ 的拓扑事件触发器定义如下：当智能体 $i$ 接收到新邻居(之前尚未通信过的智能体)的状态信息时，拓扑事件触发器被触发，智能体 $i$ 更新其控制器。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智能体 $i$ 的拓扑事件触发器的触发时间序列$\\{ p _ { 0 } ^ { i } , p _ { 1 } ^ { i } , \\ldots \\} \\subseteq \\{ 0 , h , 2 h , \\ldots \\}$ ，满足以下条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { k + 1 } ^ { i } = p _ { k } ^ { i } + h \\operatorname* { i n f } \\{ l : \\vert x _ { j } ( p _ { k } ^ { i } + l h - h ) - x _ { i } ( p _ { k } ^ { i } + l h - h ) \\vert > d ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mid x _ { j } ( p _ { k } ^ { i } + l h ) - x _ { i } ( p _ { k } ^ { i } + l h ) \\mid \\leq d \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，智能体 $i$ 的触发时间序列为$T _ { 0 } ^ { i } , T _ { 1 } ^ { i } , \\ldots = \\{ t _ { 0 } ^ { i } , t _ { 1 } ^ { i } , \\ldots \\} \\cup \\{ p _ { 0 } ^ { i } , p _ { 1 } ^ { i } , \\ldots \\}$ ，是两种事件触发器的触发时间序列的并集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2事件触发一致性协议的设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Yang等人[27提出了基于切换拓扑的连续时间MASs分布式一致性协议式(10)：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { x } _ { i } ( t ) = u _ { i } ( t ) = \\sum _ { j : | x _ { j } ( t ) - x _ { i } ( t ) | \\leq d } \\frac { x _ { j } ( t ) - x _ { i } ( t ) } { | N _ { i j } | + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Yang在文中提到，重视共同邻居较少的邻居智能体的信息，有利于系统达成一致性。若MASs切换拓扑在初始时刻是连通图，那么在理想的连续时间下，一致性协议10能保证系统拓扑始终连通，各智能体状态最终能收敛到一个平衡值（204号 $\\alpha$ ，其中 $\\alpha$ 是图 $G ( 0 )$ 的全局几何中心，满足 $\\alpha = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } x _ { i } ( 0 )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在实际工程应用中，由于受到硬件等问题的制约，理想的连续时间一致性协议通常无法实现。故将其将一致性协议10离散化处理后得到了基于切换拓扑的离散时间MASs 分布式一致性协议式(11)，其中 $h$ 为采样周期：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ( t + h ) = x _ { i } ( t ) + u _ { i } ( t ) h\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i } ( t ) = \\sum _ { j : | x _ { j } ( t ) - x _ { i } ( t ) | \\leq d } { \\frac { x _ { j } ( t ) - x _ { i } ( t ) } { | N _ { i j } | + 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了进一步降低基于切换拓扑的离散时间一致性协议式(11)中智能体的控制器的更新频率，将上文设计的两个事件触发器与离散时间一致性协议11相结合，得到了本文设计的基于切换拓扑的离散时间MASs分布式事件触发一致性协议式(12):",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ( t + h ) = x _ { i } ( t ) + u _ { i } ( t ) h\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i } ( t ) = \\sum _ { j : | x _ { j } ( t ) - x _ { i } ( t ) | \\leq d } \\frac { x _ { j } ( T _ { k } ^ { j } ) - x _ { i } ( T _ { k } ^ { i } ) } { \\mid N _ { i j } \\mid + 1 } , t \\in [ T _ { k } ^ { i } , T _ { k + 1 } ^ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在事件触发控制下，智能体 $i$ 的控制器不是在每个采样周期 $\\boldsymbol { h }$ 上都进行更新。在每个采样周期上，智能体i先判断自身是否满足两个事件触发器，若满足其中之一，则更新其控制器；随后一直保持该控制器不变，直至任意一个触发器再次满足条件，才再次更新其控制器。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Lyapunov稳定性理论分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在事件触发控制中，事件触发器的设计和Lyapunov 稳定性理论有着密不可分的关联。在提出了基于切换拓扑的事件触发一致性协议式(12)之后，下文给出了该协议基于公共Lyapunov函数的稳定性分析和MASs一致性证明。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1当切换拓扑未变化时的Lyapunov稳定性理论分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "时变的切换拓扑 $G _ { t }$ 可以表示为离散的固定拓扑集合$\\{ G _ { 1 } , G _ { 2 } , . . . , G _ { m } \\}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合测量误差 $e _ { i } ( T _ { k } ^ { i } + l h )$ 的定义，智能体 $i$ 在它的第 $k$ 次触发时刻后的时间 $[ T _ { k } ^ { i } + l h , T _ { k } ^ { i } + l h + h )$ 上的状态演化为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { x } _ { i } ( t ) = \\sum _ { \\substack { j : | x _ { j } ( t ) - x _ { i } ( t ) | \\leq d } } \\frac { x _ { j } ( T _ { k } ^ { j } ) - x _ { i } ( T _ { k } ^ { i } ) } { | N _ { i j } | + 1 } = \\sum _ { \\substack { j : | x _ { j } ( t ) - x _ { i } ( t ) | \\leq d } } \\frac { x _ { j } ( T _ { k } ^ { i } + l h ) - x _ { i } ( T _ { k } ^ { i } + l h ) } { | N _ { i j } | + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ \\sum _ { j : | x _ { j } ( t ) - x _ { i } ( t ) | \\leq d } { \\frac { e _ { j } ( T _ { k } ^ { i } + l h ) - e _ { i } ( T _ { k } ^ { i } + l h ) } { | N _ { i j } | + 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $T _ { k } ^ { i } = \\operatorname* { m a x } \\{ t \\big | t \\in \\{ T _ { k } ^ { i } , k = 0 , 1 , \\dots \\} , t \\leq T _ { k } ^ { i } + l h \\}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于时间 $t \\in [ k h , ( k + 1 ) h )$ ，将上述等式用向量重写可得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { x } ( t ) = - L ( G _ { t } ) x ( k h ) - L ( G _ { t } ) e ( k h ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\boldsymbol { x } = [ x _ { 1 } , . . . , x _ { n } ] ^ { T }$ ， $\\boldsymbol { e } = [ e _ { 1 } , . . . , e _ { n } ] ^ { T }$ ， $L ( G _ { t } )$ 是切换拓扑 $G _ { \\mathfrak { r } }$ 的时变拉普拉斯矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果用 $\\overline { { x } } ( t ) = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } x _ { i } ( t )$ 表示各智能体的平均值，考虑到$I ^ { \\mathrm { T } } L ( G _ { t } ) = \\pmb { \\theta } ^ { \\mathrm { T } }$ ，那么基于事件触发一致性协议式(12)，有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\dot { \\bar { x } } } ( t ) = { \\frac { 1 } { n } } \\sum _ { i = 1 } ^ { n } { \\dot { x } } _ { i } ( t ) = { \\frac { 1 } { n } } I ^ { \\operatorname { T } } { \\dot { x } } ( t ) = - { \\frac { 1 } { n } } I ^ { \\operatorname { T } } L ( G _ { t } ) x ( t ) \\equiv 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，基于事件触发一致性协议式(12)，在智能体的状态演化过程中，各智能体的状态平均值始终保持不变。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义分歧向量 ${ \\delta ( t ) = x ( t ) - \\overline { { x } } ( t ) I }$ ，反映了系统当前的收敛情况。当系统达到渐近平均一致性时，分歧向量趋于 $\\bullet$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选用 $V ( x ( t ) ) = \\frac { 1 } { 2 } x ^ { T } ( t ) x ( t )$ 作为系统的公共 Lyapunov 函数。该函数满足：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( x ( t ) ) = { \\frac { n } { 2 } } \\sum _ { i = 1 } ^ { n } { \\frac { 1 } { n } } x _ { i } ^ { 2 } \\geq { \\frac { n } { 2 } } ( \\sum _ { i = 1 } ^ { n } { \\frac { 1 } { n } } x _ { i } ) ^ { 2 } = { \\frac { n } { 2 } } { \\overline { { x } } } ^ { 2 } = V ( { \\overline { { x } } } I )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着智能体的状态演化，公共Lyapunov 函数的值会逐渐减小，并最终收敛到最小值，相应地，MASs也达到平均一致性。一个有效的事件触发一致性协议应使Lyapunov函数的值随时间 $\\prime$ 不断减小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$V ( x ( t ) ) = \\frac { 1 } { 2 } x ^ { T } ( t ) x ( t )$ 在采样周期时间间隔 $[ k h , ( k + 1 ) h )$ 上的导数满足：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { V } ( x ( t ) ) = x ^ { T } ( t ) \\dot { x } ( t ) = - x ^ { T } ( t ) L ( G _ { t } ) ( x ( k h ) + e ( k h ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } {  { \\le - ( 1 - h \\lambda _ { n } ( G _ { t } ) ) x ^ { T } ( k h ) L ( G _ { t } ) x ( k h ) \\ + h \\lambda _ { n } ( G _ { t } ) e ^ { T } ( k h ) L ( G _ { t } ) e ( k h ) } \\quad } & { { } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ ( 2 h \\lambda _ { n } ( G _ { t } ) - 1 ) x ^ { T } ( k h ) L ( G _ { t } ) e ( k h )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此处为进一步不等式放缩，令 $2 h \\lambda _ { n } ( G _ { t } ) \\leq 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用基本不等式",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { T } ( k h ) L ( G _ { t } ) e ( k h ) \\leq { \\frac { 1 } { 2 } } x ^ { T } ( k h ) L ( G _ { t } ) x ( k h ) + { \\frac { 1 } { 2 } } e ^ { T } ( k h ) L ( G _ { t } ) e ( k h )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可得 $\\dot { V } ( x ( t ) ) \\leq - \\frac { 1 } { 2 } x ^ { T } ( k h ) L ( G _ { t } ) x ( k h ) + \\frac { 1 } { 2 } e ^ { T } ( k h ) L ( G _ { t } ) e ( k h )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据收敛事件触发器式(6)，可知 $\\vert e ( k h ) \\vert \\leq \\sqrt { \\sigma _ { \\operatorname* { m a x } } } \\vert z ( k h ) \\vert$ 。可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { V } ( x ( t ) ) \\leq - \\frac { 1 } { 2 } ( 1 - { \\lambda _ { n } } ^ { 2 } ( G _ { t } ) \\sigma _ { \\operatorname* { m a x } } ) x ^ { T } ( k h ) L ( G _ { t } ) x ( k h )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\lambda _ { n } ( G _ { t } )$ 是时变拉普拉斯矩阵 $L ( G _ { t } )$ 的最大特征值，$\\sigma _ { \\mathrm { m a x } } = \\operatorname* { m a x } \\{ \\sigma _ { i } , i = 1 , . . . , n \\}$ 。如果参数 $\\sigma _ { \\mathrm { m a x } }$ 满足 $0 < \\sigma _ { \\mathrm { m a x } } < \\frac { 1 } { \\lambda _ { n } { } ^ { 2 } ( G _ { t } ) }$ ，参数 $h$ 满足 $0 < h \\leq \\frac { 1 } { 2 \\lambda _ { n } ( G _ { t } ) }$ ，那么可以保证当切换拓扑未变化时，对于任意的 $k = \\{ 0 , 1 , 2 , \\ldots \\}$ 和 $t \\in [ k h , ( k + 1 ) h )$ ，都有 $\\dot { V } ( x ( t ) ) \\leq 0$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2当切换拓扑变化时的Lyapunov 稳定性理论分析下文讨论时变的切换拓扑 $\\{ G _ { 1 } , . . . , G _ { t } , . . . , G _ { m } \\}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取参数 $\\lambda _ { \\mathrm { m a x } } = \\operatorname* { m a x } \\{ \\lambda _ { n } ( G _ { 1 } ) , . . . , \\lambda _ { n } ( G _ { t } ) , . . . , \\lambda _ { n } ( G _ { m } ) \\}$ 。如果参数 $\\sigma _ { \\mathrm { m a x } }$ 满足 $0 < \\sigma _ { \\mathrm { m a x } } < \\frac { 1 } { \\lambda _ { \\mathrm { \\small ~ m a x } } ^ { 2 } }$ ，参数 $\\boldsymbol { h }$ 满足 $0 < h \\leq \\frac { 1 } { 2 \\lambda _ { \\operatorname* { m a x } } }$ ，那么可以保证当切换 拓扑变化时，对于任意的 $k = \\{ 0 , 1 , 2 , \\ldots \\}$ 和 $t \\in [ k h , ( k + 1 ) h )$ ，都有 $\\dot { V } ( x ( t ) ) \\le 0$ □ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据Gersgorin 定理[29]，时变拉普拉斯矩阵 $L ( G _ { t } )$ 的特征值 $\\{ \\lambda _ { 1 } ( G _ { t } ) , . . . , \\lambda _ { 2 } ( G _ { t } ) , . . . , \\lambda _ { n } ( G _ { t } ) \\}$ 位于以下 $n$ 个圆盘的并集中：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mid \\lambda - l _ { i i } \\mid \\leq \\sum _ { j \\neq i } \\mid l _ { i j } \\mid = l _ { i i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据拉普拉斯矩阵的性质，可知每个圆盘的中心 $l _ { i i } > 0$ ，每个圆盘的半径是从中心到原点的距离。因此，每个圆盘都位于复平面的右半平面上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设 $l _ { \\mathrm { m a x } } = \\operatorname* { m a x } \\{ l _ { 1 1 } ( G _ { t } ) , . . . , l _ { i i } ( G _ { t } ) , l _ { n n } ( G _ { t } ) \\}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据上述公式，可知",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { \\operatorname* { m a x } } \\leq 2 l _ { \\operatorname* { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接着证明 $L ( G _ { t } )$ 主对角线元素的最大值 $l _ { \\mathrm { m a x } }$ 一定不大于 2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以将智能体 $\\textit { \\textbf { i } }$ 的邻域分成两部分：左邻域$X _ { i } ^ { l e f t } ( t ) = \\{ j : 0 < x _ { i } ( t ) - x _ { j } ( t ) \\leq d \\}$ 和右邻域 $X _ { i } ^ { r i g h t } ( t ) = \\{ j : 0 < x _ { j } ( t ) - x _ { i } ( t ) \\leq d \\}$ 。假设左邻域的智能体的数量为 $\\vert X _ { i } ^ { l e f t } ( t ) \\vert = p$ ,右邻域的智能体的数量为$\\vert X _ { i } ^ { r i g h t } ( t ) \\vert = q$ 。易知，两邻域内部的智能体互为邻居。因此，左邻域的智能体的权重 $1 / ( \\mid N _ { i j } \\mid + 1 )$ 一定不大于 $1 / p$ ，右邻域的智能体的权重项一定不大于 $1 / q$ 。如果左邻域和右邻域中有两个智能体是邻居，则这两个智能体的权重也小于 $1 / p$ (或小于1q)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "易知 $l _ { i i } ( G _ { t } )$ 是智能体 $\\textit { i }$ 的各邻居的权重之和。综上所述，可知 $l _ { i i } ( G _ { t } ) \\leq 2$ ， $l _ { \\mathrm { m a x } } \\le 2$ ， $\\lambda _ { \\operatorname* { m a x } } \\le 4$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，如果参数 $\\sigma _ { \\operatorname* { m a x } }$ 满足 $0 < \\sigma _ { \\mathrm { m a x } } < 0 . 0 6 2 5$ ，参数 $h$ 满足$\\mathbf { O } < h \\leq \\mathbf { O } . 1 2 5$ ，那么可以保证在切换拓扑下，对于任意的$k = \\{ 0 , 1 , 2 , \\ldots \\}$ 和 $t \\in [ k h , ( k + 1 ) h )$ ，都有 $\\dot { V } ( \\boldsymbol { x } ( t ) ) \\leq 0$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据Lyapunov 函数 $V ( x ( t ) ) { = } 1 / 2 x ^ { T } ( t ) x ( t )$ 的正定性，只要保证了 $\\dot { V } ( x ( t ) ) \\leq 0$ ， $V ( x ( t ) )$ 将收敛到其最小值 $V ( { \\overline { { x } } } I )$ 。因此，如果切换拓扑始终保持连通性，则各智能体可以在事件触发一致性协议式(12)下达到平均一致性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4基于约束集的网络连通算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在基于切换拓扑的MASs研究中，保持系统连通是系统达到一致的必要条件。而协议12无法保持系统网络的连通性。J.Cortes 等人[30]提出了一种算法来保持切换拓扑网络的连通性。该算法限制智能体的原始控制量，智能体的实际控制量是原始控制量的一定比例。本文参考了这种方法，作为事件触发一致性协议式(12)的补充，以保持系统切换拓扑网络的连通性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "智能体 $\\textit { \\textbf { i } }$ 在本次采样中左右邻域的最远邻居分别记作$x _ { i } ^ { l e f t } ( t ) , x _ { i } ^ { n g h t } ( t )$ ，约束集为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ x _ { i } ^ { l o w } ( t ) , x _ { i } ^ { h i g h } ( t ) ] = [ \\frac { x _ { i } ( t ) + x _ { i } ^ { r i g h t } ( t ) - d } { 2 } , \\frac { x _ { i } ( t ) + x _ { i } ^ { l e f t } ( t ) + d } { 2 } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "智能体采样应获得的目标值记作 $x _ { i } ^ { g o a l }$ ，算法描述如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法 Workflow of constraint set algorithm ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Input: $x _ { i } ( t ) , u _ { i } ( t ) , x _ { i } ^ { l e f t } ( t ) , x _ { i } ^ { r i g h t } ( t )$ Output: （204号 $x _ { i } ( t + h ) \\ , u _ { i } ( t + h )$ Step1: Compute ${ x _ { i } ^ { g o a l } = x _ { i } ( t ) + u _ { i } ( t ) h }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step2: If $x _ { i } ^ { l o w } ( t ) \\leq x _ { i } ^ { g o a l } \\leq x _ { i } ^ { h i g h } ( t )$ ， $x _ { i } ( t + h ) = x _ { i } ^ { g o a l }$ ; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Elseifxo<x(t)，x(t+h)=(t)=x(t)+x(t-d",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Else x>(t），x(t+h=xs()=x()x()+d",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Step3: $u _ { i } ( t + h ) = u _ { i } ( t )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "智能体 $\\mathbf { \\chi } _ { i }$ 下一次的采样状态 $x _ { i } ( t + 1 )$ 被严格地限制在约束集内。如果目标点 $x _ { i } ^ { g o a l }$ 在约束集的范围内，智能体 $\\cdot$ 在下一次采样中实际获得的状态即目标点 $x _ { i } ^ { g o a l }$ ；如果目标点 $x _ { i } ^ { g o a l }$ 在约束集的范围以外，智能体 $\\mathbf { \\chi } _ { i }$ 在下一次采样中实际获得的状态就是约束集的边界值 $x _ { i } ^ { l o w } ( t )$ 或 $x _ { i } ^ { h i g h } ( t )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真与性能分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验 1(基于切换拓扑的离散时间一致性协议和基于切换拓扑的事件触发一致性协议的比较)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实验1中，主要比较了文献[27]中的基于切换拓扑的离散时间一致性协议(简称协议1)和本文基于切换拓扑的事件触发一致性协议(简称协议2)的性能。协议1采用传统的周期控制，协议2采用的是基于采样周期的事件触发控制。两种协议都引入了约束集法。设计了四组不同的数据进行仿真。智能体的通信范围 $d = 1$ ，协议2的事件触发参数 $\\sigma _ { i } = 0 . 0 5$ ，采样周期 $h = 0 . 0 5 s$ ，系统的初始拓扑连通。数据的不同点主要在于初始拓扑的疏密程度及分布情况。其中a，b)，c， $d )$ 为四组对比数据，左图和右图分别对应协议1和协议2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）协议1和2：10个智能体状态值均匀分布在[0,5]区间内。在系统演化过程中系统网络始终保持连通，经过约10s后，两种协议下系统的智能体状态值均达成一致，汇聚点为2.35(图1和2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/95e803f6e5de783fd681e3fe4798c311186377bc8ca8d4f220b3182d97482d62.jpg",
+        "img_caption": [
+            "图1协议1和2下初始拓扑均匀分布在区间[0,5]的智能体状态演化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f67ef96e7277444b6cef67bedbff0afc5307ecbdad203f5ffd39d1c2a04643c.jpg",
+        "img_caption": [
+            "Fig.1The state evolution of agents with initial topology uniformly distributed in interval [0,5] under protocols 1 and 2 ",
+            "图2协议1和2下初始拓扑均匀分布在区间[0,5]的智能体控制输入演化过程",
+            "Fig.2The control input evolution of agents with initial topology uniformly distributed in interval [O,5] under protocols land 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b）协议1和2：10个智能体状态值均匀分布在[0.9]区间内。在系统演化过程中系统网络始终保持连通，经过约15s后，两种协议下系统的智能体状态值均达成一致，汇聚点为4.95(图3和4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c）协议1和2：10个智能体状态值随机分布在[0,5]区间内。在系统演化过程中系统网络始终保持连通，经过约10s后，两种协议下系统的智能体状态值均达成一致，汇聚点为2.23(图5和6)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf68d4fe87a54dcb961f43ff8293e8d854f0fa7f140252d00d0fad59e2f81f4b.jpg",
+        "img_caption": [
+            "图3协议1和2下初始拓扑均匀分布在区间[0,9]的智能体状态演化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d87cf1f446e54122cb8ad1ce3280f168c6e148d074b98ac12c7e572347ed36ed.jpg",
+        "img_caption": [
+            "Fig.3The state evolution of agents with initial topology uniformly distributed in interval [O,9] under protocols land 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a82a4a36aa16b09018325ac209dd1e312d8ed0485ca2ad5092922141b4351a45.jpg",
+        "img_caption": [
+            "Fig.4The control input evolution of agents with initial topology uniformly distributed in interval [O,9] under protocols land 2 ",
+            "图5协议1和2下初始拓扑随机分布在区间[0,5]的智能体状态演化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0029cdc233c67408f9f90051d55a84c73a256bab9ab7ff633784ecc5724bd2cc.jpg",
+        "img_caption": [
+            "图4协议1和2下初始拓扑均匀分布在区间[0,9]的智能体控制输入演化过程",
+            "Fig.5The state evolution of agents with initial topology randomly distributed in interval [O,5] under protocols 1 and 2 ",
+            "图6协议1和2下初始拓扑随机分布在区间[0,5]的智能体控制输入演化过程",
+            "Fig.6The control input evolution of agents with initial topology randomly distributed in interval[O,5] under protocols1 and 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d协议1和2：10个智能体状态值随机分布在[0,7]区间内。在系统演化过程中系统网络始终保持连通，经过约15s后，两种协议下系统的智能体状态值均达成一致，汇聚点为3.31(图7和8)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真结果分析：从图1、3、5、7中可观察到，协议1和2下智能体的状态演化基本相同。从图2、4、6、8中反映的智能体控制输入演化图可知，智能体控制器的更新不再是平滑的曲线，而是分段式的折线，这意味着基于事件触发的控制使得智能体不在每个采样周期上都更新控制器。因此根据实验1可知，若初始拓扑相同，和基于切换拓扑的离散时间一致性协议相比，基于切换拓扑的事件触发一致性协议能够有效减少智能体控制器的更新频率。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ffae2addb3b22219a81c97c176b104efa3c02928c1591e6f3d5288352e393c5.jpg",
+        "img_caption": [
+            "图7协议1和2下初始拓扑随机分布在区间[0,7]的智能体状态演化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e21e2ee347add256bd484b9fb79f51f9c67ec6284909c49add8d64320418837.jpg",
+        "img_caption": [
+            "Fig.7The state evolution of agents with initial topology randomly distributed in interval [0,7] under protocols 1 and 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2实验 2(基于切换拓扑的事件触发一致性协议和基于固定拓扑的事件触发一致性协议的比较)",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在实验2中，主要比较了本文基于切换拓扑的事件触发一致性协议(简称协议2)和文献[8]中的基于固定拓扑的事件触发一致性协议(简称协议3)的性能。协议2和3都采用基于采样周期的事件触发控制。设计了四组不同的数据进行仿真。四组数据中，智能体的通信范围 $\\scriptstyle d = 1$ ，协议2的事件触发参数 $\\sigma _ { i } = 0 . 0 5$ ，协议3的事件触发参数 $\\sigma _ { i } = 0 . 0 3$ ，采样周期$h = 0 . 0 5 s$ ，系统的初始拓扑都是连通的。数据的不同点主要在于初始拓扑的疏密程度及分布情况。其中e， $f )$ ， $\\{ \\}$ ， $h )$ 为四组对比数据，左图和右图分别对应协议2和协议3。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "e）协议2和3：10个智能体的状态值均匀分布在[0,5]区间内。在系统演化过程中系统网络始终保持连通，经过约10s后，两种协议下系统的智能体状态值均达成一致，汇聚点为2.35，左图和右图分别对应协议2和协议3(图9和10)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/448b7f95f4d67dd10fcf4f0dc25f59b7584e7db1613d34726311c647bdc53a8a.jpg",
+        "img_caption": [
+            "Fig.8The control input evolution of agents with initial topology randomly distributed in interval [O,7] under protocolsland 2 ",
+            "图9协议2(左)和3(右)下初始拓扑均匀分布在区间[0,5]的智能体状态演化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb7f46b4d0deeffe372b046484f43529f86057be74e47cad2f607432ba61fa2f.jpg",
+        "img_caption": [
+            "Fig.9The state evolution of agents with initial topology uniformly distributed in interval[O,5] under protocols2 (left) and 3 (right) ",
+            "图10协议2和3下初始拓扑均匀分布在区间[0,5]的智能体控制输入演化过程",
+            "Fig.10The control input evolution of agents with initial topology uniformly distributed in interval [O,5] under protocols 2 and 3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$f$ ）协议2和3：10个智能体的状态值均匀分布在[0.9]区间内。在系统演化过程中系统网络始终保持连通，协议2经过约15s后，协议3经过约40s后，系统的智能体状态值均达成一致，汇聚点为4.95(图11和12)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/06fcd3e45b3f95790821eb87dd776b261bb7d1d598df1a39195d4604d3a8aab0.jpg",
+        "img_caption": [
+            "图11协议2和3下初始拓扑均匀分布在区间[0,9]的智能体状态演化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/84acba109a1e99fba3777d912a3312ab4b2fcc23ddbd8a1ad61e6d3be113ec9e.jpg",
+        "img_caption": [
+            "图8协议1和2下初始拓扑随机分布在区间[0,7]的智能体控制输入演化过程",
+            "图12协议2和3下初始拓扑均匀分布在区间[0,9]的智能体控制输入演化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$g \\harpoonright$ 协议2和3：10个智能体的状态值随机分布在[0,5]区间内。在系统演化过程中系统网络始终保持连通，协议2经过约10s后，协议3经过约40s后，系统的智能体状态值均达成一致，汇聚点为2.23(图13和14)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f152a93d0e75f65cf2c557b3c404760c3af650672cc958767dad4ebb503e5bd.jpg",
+        "img_caption": [
+            "Fig.11The state evolution of agents with initial topology uniformly distributed in interval [0,9] under protocols 2 and 3 ",
+            "图13协议2和3下初始拓扑随机分布在区间[0,5]的智能体状态演化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/43227fbd279cb83211940b700ffe9bba493acea9218acd642f51b2f96a61bd75.jpg",
+        "img_caption": [
+            "Fig.12The control input evolution of agents with initial topology uniformly distributed in interval[0,9] under protocols 2 and 3 ",
+            "Fig.l3The state evolution of agents with initial topology randomly distributed in interval [O,5] under protocols 2 and 3 ",
+            "图14协议2和下初始拓扑随机分布在区间[0,5]的智能体控制输入演化过程",
+            "Fig.14The control input evolution of agents with initial topology randomly distributed in interval[O,5] under protocols 2 and 3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "h)协议2和3：10个智能体的状态值随机分布在[0,7]区间内。在系统演化过程中系统网络始终保持连通，协议2经过约15s后，协议3经过约40s后，系统的智能体状态值均达成一致，汇聚点为3.31(图15和16)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿真结果分析：从图9、11、13、15中可以观察到，协议2和3下智能体的状态收敛到一致的时间不同；从图10、",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12、14、16中可以观察到，协议2和3下智能体的控制输入归零的时间也不同；在系统收敛时间上，协议2明显比协议3 要少。这是因为协议2中的系统拓扑是切换拓扑，随着智能体的状态演化，智能体的邻居数量增多，网络的连通效果逐渐提升，使得智能体的控制输入比固定拓扑下智能体的控制输入要大，系统的收敛速度明显加快。因此根据实验2可知，若初始拓扑相同，和基于固定拓扑的事件触发一致性协议相比，基于切换拓扑的事件触发一致性协议可以有效减少系统的收敛时间，加快系统的收敛速度。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ed51d9b7f19bdaa56d9847f1574d904470e6e07ff81cff2200273bed10c9aec.jpg",
+        "img_caption": [
+            "图15协议2和3下初始拓扑随机分布在区间[0,7]的智能体状态演化过程",
+            "Fig.18The evolution of common Lyapunov function of system with initial topology randomly distributed in interval [O,5](left) and [0,7] (right) under protocol 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9aad0fc71eb19db0bec172efe50cf5fcb600481b2ba29f8c6be7fd01b2faba1d.jpg",
+        "img_caption": [
+            "Fig.l5The state evolution of agents with initial topology randomly distributed in interval [0,7] under protocols 2 and 3 ",
+            "Fig.l6The control input evolution of agents with initial topology randomly distributed in interval [O,7] under protocols 2 and 3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3实验3(基于切换拓扑的事件触发一致性协议下系统的公共Lyapunov 函数的演化)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在实验3中，主要演示了在基于切换拓扑的事件触发一致性协议(简称协议 2)下，系统的公共 Lyapunov函数（20 $V ( x ( t ) ) = \\frac { 1 } { 2 } x ^ { T } ( t ) x ( t )$ 的演化情况。设计了四组不同的数据进行仿真，智能体的通信范围 $d = 1$ ，协议的事件触发参数 $\\sigma _ { i } = 0 . 0 5$ ，采样周期 $h = 0 . 0 5 s$ ，系统初始拓扑连通。数据的主要区别在于初始拓扑的分布情况。其中i)， $j )$ 为两组对比数据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "i）协议2：10个智能体的状态值均匀分布在[0,5]及[0,9]的区间内。系统的公共Lyapunov函数的函数值均呈现单调递减态势，经过一段时间后，到达一稳定值不再变化(图17)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8a35cac7c94f62dc08d6dad86d5bede1013028b0133e2f0fd58f946d81084da.jpg",
+        "img_caption": [
+            "图16协议2和3下初始拓扑随机分布在区间[0,7]的智能体控制输入演化过程",
+            "图17协议2下初始拓扑均匀分布在区间[0.5](左)及[0.9](右)的系统的公共Lyapunov 函数的演化过程",
+            "Fig.17The evolution of common Lyapunov function of system with initial topologyuniformly distributed in interval [O,5] (left) and [0,9] (right) under protocol 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$j )$ 协议2：10 个智能体的状态值随机分布在[0.5]及[0,7]的区间内。系统的公共Lyapunov函数的函数值均呈现单调递减态势，经过一段时间后，到达一稳定值不再变化(图18)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/439894f433c75db5e2970be54dba7d8433a72c40f1e521e438305453c1c60b8b.jpg",
+        "img_caption": [
+            "图18协议2下初始拓扑随机分布在区间[0.5](左)及[0,7](右)的系统的公共Lyapunov 函数的演化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "仿真结果分析：根据实验3可知，在基于切换拓扑的事件触发一致性协议下，系统的公共Lyapunov 函数 $V ( x ( t ) ) = \\frac { 1 } { 2 } x ^ { T } ( t ) x ( t )$ 是随着时间不断减小的。这是因为本文设计的收敛事件触发器是建立在保证Lyapunov函数的时间导数为负定这一基础上的。事件触发参数和采样周期的实验取值也符合在上文Lyapunov稳定性理论分析一节中，最终求得的两个参数条件$0 < \\sigma _ { \\mathrm { m a x } } < 0 . 0 6 2 5$ ， $0 < h \\leq 0 . 1 2 5$ 。因此可以保证在切换拓扑下，对于任意时刻 $\\prime$ ，始终有 $\\dot { V } ( x ( t ) ) \\leq 0$ ，从而 $V ( x ( t ) )$ 能收敛到其最小值 $V ( { \\overline { { x } } } I )$ ，系统能达到渐近稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文针对通信范围有限的多智能体系统，提出了一种切换拓扑下的事件触发一致性协议。该协议采用混合事件触发器机制，设计了两个事件触发器，分别为智能体的状态演化引发的收敛事件触发器，和拓扑变化引发的拓扑事件触发器。本文还引入了约束集法以保持切换拓扑的网络连通性。基于该切换拓扑下的事件触发一致性协议，不但可以使得智能体渐近收敛到它们的初始状态平均值，使得系统达到Lyapunov意义下的稳定，能有效降低基于系统控制器的更新频率，减低系统能耗，节省系统对通信和计算资源的开销，还能增强网络的连通性，进一步加快系统的收敛速度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Zheng Yuanshi,Ma Jingying,Wang Long.Consensus of hybrid multiagent systems [J].IEEE Trans on Neural Networks & Learning Systems, 2018,29 (4):1359-1365.   \n[2]Chen Weisheng,Li Xiaobo,Ren Wei,et al.Adaptive consensus of multiagent systems with unknown identical control directions based on a novel nussbaum-type function[J].IEEE Trans on Automatic Control,2014,59 (7):1887-1892.   \n[3]Wen Guanghui,Duan Zhisheng,Chen Guanrong，et al.Consensus tracking of multi-agent systems with lipschitz-type node dynamics and switching topologies [J].IEEE Trans on Circuits and Systems I: Regular Papers,2014,61(2):499-511.   \n[4]Cheng Meiling,Zhang Hongwei, Jiang Ye.Output bipartite consensus of heterogeneous linear multi-agent systems [C]//Proc of the 35th Chinese Control Conference.New York:IEEE Press,2016:8287-8291.   \n[5]Chen Tongwen,Francis BA.Optimal Sampled-Data Control Systems [M].Springer London,1995.   \n[6]Astrom,KJ.Event based control[J].Analysis & Design of Nonlinear Control Systems,2018:127-147.   \n[7]Ding Lei,et al.An overview of recent advances in event-triggered consensus of multiagent systems [J].IEEE Trans on Cybernetics,2018, 48 (4): 1110-1123.   \n[8]Meng Xiangyu,Chen Tongwen.Event based agreement protocols for multi-agent networks [J].Automatica,2013,49 (7):2125-2132.   \n[9]Fan Yuan,Feng Gang,Wang Yong,et al.Distributed event-triggered control of multi-agent systems with combinational measurements [J]. Automatica,2013,49 (2): 671-675.   \n[10]Dimarogonas DV,Frazzoli E,Johansson KH.Distributed event-triggered control for multi-agent systems [J].IEEE Trans on Automatic Control, 2012,57 (5): 1291-1297.   \n[11] Dimarogonas DV, Johansson KH.Event-triggered cooperative control [C]// Proc of 2009 European Control Conference (ECC).New York: IEEE Press,2009:3015-3020.   \n[12] Seyboth GS,Dimarogonas DV,Johansson KH.Event-based broadcasting for multi-agent average consensus [J].Automatica,2013,49(1): 245- 252.   \n[13] Chen Xia,Hao Fei. Event-triggered consensus of second-order multiagent systems [J].Asian Journal of Control,2015,17 (2):592-603.   \n[14] Yan Huaicheng,Shen Yanchao,Zhang Hao,et al.Decentralized eventtriggered consensus control for second-order multi-agent systems [J]. Neurocomputing,2014,133 (JUN.10): 18-24.   \n[15] Xiao Xiaoqing,Park JH, Zhou Lei,et al. Event-triggered control of discrete-time switched linear systems with network transmission delays [J].Automatica,2020,111: 108585.   \n[16] Zhu Wei, Jiang Zhongping,Feng Gang.Event-based consensus of multiagent systems with general linear models [J].Automatica,2013,50 (2): 552-558.   \n[17] Yang Dapeng,Ren Wei,Liu Xiangdong,et al. Decentralized eventtriggered consensus for linear multi-agent systems under general directed graphs [J].Automatica,2016,69:242-249.   \n[18] Wang Wei,Postoyan R,Nesic D,et al.Periodic event-triggered control for nonlinear networked control systems [J]. IEEE Trans on Automatic Control, 2019: 1-1.   \n[19] Zhu Wei, Tian Zhongyuan.Event-Based consensus of first-order discrete time multi-agent systems [C]// Proc of the l2th World Congress on Intelligent Control and Automation (WCICA) .New York: IEEE Press, 2016:1692-1696.   \n[20] Yang Dapeng,Liu Xiangdong.Event-triggered consensus for discretetime linear multi-agent systems under general directed graphs [C]// Proc of the 1lth World Congress on Intelligent Control and Automation (WCICA).New York:IEEEPress,2014:2693-2698.   \n[21]Hamada K,Hayashi N,Takai S.Event-triggered and self-triggered control for discrete-time average consensus problems [J]. Sice Journal of Control Measurement & System Integration,2014,7(5): 297-303.   \n[22] Zhu Wei, Jiang Zhongping.Event-based leader-following consensus of multi-agent systems with input time delay [J].IEEE Trans on Automatic Control,2015,60 (5): 1362-1367.   \n[23] Ren Wei, Beard RW. Consensus seeking in multiagent systems under dynamically changing interaction topologies [J]. IEEE Transon Automatic Control,2005,50(5): 655-661.   \n[24] Zheng Yuanshi,Wang Long.Consensus of switched multiagent systems [J].IEEE Trans on Circuits and Systems II:Express Briefs,2015,63 (3): 314-318.   \n[25] Kan Zhen,Yucelen T,Doucette E,et al.A finite-time consensus framework over time-varying graph topologies with temporal constraints [J]. Journal of Dynamic Systems Measurement & Control,2017,139 (7): Article ID 071012.   \n[26] Olfati-Saber R,Fax JA,Murray RM.Consensus and cooperation in networked multi-agent systems [J].Proceedings of the IEEE,2007,95 (1):215-233.   \n[27] Yang Yuecheng,Dimarogonas DV, Hu Xiaoming.Opinion consensus of modified Hegselmann-Krause models [J].Automatica,2014,50 (2): 622- 627.   \n[28]谢光强，章云．多智能体系统协调控制一致性问题研究综述[J].计 算机应用研究,2011,28(6):2035-2039.(Xie Guangqiang,Zhang Yun. Survey of consensus problem in cooperative control of multi-agent systems [J].Application Research of Computers,2011,28 (6):2035- 2039.)   \n[29] Horn RA,Johnson CR.Matrix Analysis [M].2nd ed.Cambridge University Press,2012.   \n[30] Cortes J,Martinez S,Bullo F.Robust rendezvous for mobile autonomous agents via proximity graphs in arbitrary dimensions [J].IEEE Trans on Automatic Control,2006,51 (8): 1289-1298. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

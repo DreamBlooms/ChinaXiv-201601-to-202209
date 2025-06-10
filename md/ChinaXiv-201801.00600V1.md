@@ -1,0 +1,137 @@
+# 基础研究
+
+# 推桥弓手法对食蟹猴轻度颈动脉粥样硬化模型血流动力学的影响
+
+张磊1²,祁 冀²,景亚军²,覃 波],李义凯²,刘 刚},郭晓光1,扶世杰1  
+1西南医科大学附属中医医院,四川 泸州 646600；南方医科大学中医药学院,广东 广州 510515
+
+摘要：目的探讨推桥弓手法对食蟹猴轻度颈动脉粥样硬化模型血流动力学的影响。方法 选取9只正常食蟹猴，并随机分为3组(每组3只)：推桥弓组、模型对照组、空白对照组。对推桥弓组和模型对照组食蟹猴建立轻度颈动脉粥样硬化模型,然后，对推桥弓组给予相应手法干预,最后对3组的颈动脉血管情况以及血流动力学进行对比评价。结果(1)在彩超检查中,推桥引组、模型对照组可见斑块形成，同时,在血管横切面面积、斑块横切面面积、斑块狭窄率方面，与空白对照组比较，推桥弓组、模型对照组差异有统计学意义 $( P { < } 0 . 0 5 )$ ，而推桥弓组和模型对照组比较,差异无统计学意义 $( P { > } 0 . 0 5 )$ 。(2)在各项血流动力学指标中，与空白对照组对比，推桥弓组、模型对照组差异有统计学意义 $( P { < } 0 . 0 5 )$ ，而推桥弓组和模型对照组比较，差异无统计学意义( $P >$ 0.05）。结论 粥样硬化斑块对颈动脉的血流动力学会产生影响,但推桥弓手法在短期内不会影响斑块的稳定性,也不会加重血流动力学的影响。
+
+关键词：推桥弓手法；颈动脉粥样硬化；斑块；血流动力学
+
+# Effect of pushing manipulation on Qiaogong acupoint on hemodynamics in cynomolgus monkeys with mild carotid atherosclerotic plaques
+
+ZHANG $L e i ^ { 2  { \tau } _ { - } 2 }$ QI Ji²,JINGYajun²,QINBol,LIYikai²,LIUGangl,GUOXiaoguang,FUShijiel   
+TraditionlCeseedicespitalfedtutticalsityoi;olfdile   
+Medicine,SouthernMedicalUniversity,Guangzhou 51o515,China
+
+Abstract: Objective To explore the hemodynamic changes in cynomolgus monkeys with mild carotid atherosclerotic (CAS) plaques after therapy with pushing manipulation on Qiaogong acupoint (MPQ). Methods Nine cynomolgus monkeys were equally randomized into MPQ group,mild CAS model groupand blank control group.Mild CAS models were established in the monkeys in MPQand model groups,and the monkeys in MPQgroupreceived treatment with MPQinterventionafter the modeling.Theconditions of thecarotidarteryandthehemodynamicchanges in the3groups were evaluatedafter the treatment.Results Formation of CAS plaques was detected in monkeys in both MPQand model groups.The vascular cross-sectionalareaplaquecro-sectionalareaandstenosisateoftheplaquesinthetwogroupsalldiferedsigiicantly from those in the blank control group $( P { < } 0 . 0 5 ) .$ but these parameters were similar between MPQ group and the model group $( P { > } 0 . 0 5 )$ . Compared with those in the blank control group, the hemodynamic parameters showed significant changes in MPQ and the model groups $_ { ( P < 0 . 0 5 ) }$ but remained similar between the latter two groups $( P { > } 0 . 0 5 )$ . Conclusion CAS plaques can cause changesin hemodynamic parameters.Short-term therapy withMPQdoes not afectthe stabilityof the plaques orcause adverse effects on hemodynamics in cynomolgus monkeys with mild CAS plaques.
+
+Keywords: manipulation; Qiaogong acupoint; carotid atherosclerosis; plaques; hemodynamics
+
+高血压病是当今世界最主要的流行病、慢性病之一。动脉粥样硬化(AS)是一种慢性炎症性疾病，也是高血压靶器官损害的重要中间坏节。AS是血管壁对各种损伤的异常反应，往往无特异性症状，多为相关器官受累后出现相应的临床表现，在诸多AS中，颈动脉粥样硬化(CAS)较常见，是心肌梗死、缺血性脑卒中等急性心脑血管疾病的病理基础2-3]。最新数据显示,我国脑卒中亚型中，约 $6 0 \% { \sim } 8 0 \%$ 为缺血性脑卒中[4],其中由CAS导致的缺血性脑卒中约占 $2 0 \% ^ { [ 5 ] }$ 。现代医学对高血压的治疗，主要以药物控制为主，虽然都能有效控制血压，但同时也存在一些副作用[69]。而有CAS的高血压患者更应该慎重选择高血压药物。祖国医学并没有提及CAS的有关概念，不过多数学者认为CAS属于中医"游血”、“痰浊"的范畴。常见的中医药疗法包括重要复方治疗[10-13]、中药提取物[14-15]。然而,CAS高血压的药物治疗几乎伴随患者终身，积极探讨非药物疗法对高血压病的防治具有重要意义。
+
+推拿疗法经诸多临床研究证明是防治高血压的有效方法之—[16-17],其中又以推桥弓手法[18]尤为突出。桥弓穴的相关记载，可以最早追溯到《黄帝内经》时期，但是，其确切方法的提出，则属于现代。桥弓穴是由民间医家经验总结的一个推拿要穴，现代人将其运用到治疗高血压[19]。虽然推桥弓手法治疗高血压疗效显著,但仍可能伴发诸多并发症,如脑血管意外等[20。由于推拿手法使用不当，如操作不规范、用力过大等，可能改变CAS斑块的生物力学性能[21],导致CAS斑块破裂[22-23],进而引发缺血性脑卒中等急性心脑血管疾病。相关研究报道，颈动脉血流动力学变化是CAS斑块破裂的关键因素之一。如局部血流动力学改变可能使血流类型由层流变为湍流，对管壁冲击力增加，产生较大的剪切应力，从而破坏斑块的稳定性,导致斑块脱落或破裂[24]。故检测推桥弓手法对CAS血流动力学的影响对提高推桥弓手法的安全性具有重要意义。
+
+目前，推桥弓手法的临床治疗作用得到一些研究的肯定，但是，在手法操作过程中是否会影响CAS斑块稳定性，及血流动力学变化，甚至加重CAS,引起斑块脱落，危及生命，尚未有明确定论，相关研究也鲜有报道。因此，本研究对推桥弓手法干预CAS模型血流动力学的影响进行深入研究具有一定临床意义。
+
+# 1材料和方法
+
+# 1.1主要试剂、耗材及仪器
+
+Zoletil50麻醉剂购自法国Virbac公司。碘伏、无菌镜器械包、止血带等均购自北京中杉金桥公司。高脂饲料(含 $2 \%$ 胆固醇、 $10 \%$ 猪油和 $88 \%$ 普通颗粒饲料)由云南英茂公司配制提供。彩色多普勒超声诊断系统产自荷兰Philips公司(型号：L15-7io)。
+
+# 1.2实验动物及分组
+
+选取SPF级正常食蟹猴9只，均为雄性，体质量 $6 \sim$ $7 \mathrm { k g }$ ，年龄4\~5岁，动物饲养和动物实验均在云南英茂公司实验中心完成，动物许可证号：SYXK（滇)2009-0003。所有程序通过了该公司的动物实验伦理审查委员会的批准。将9只食蟹猴随机分为3组，每组3只，分别是：推桥弓组、模型对照组、空白对照组。先进行分组，然后再对推桥弓组和模型对照组进行CAS造模，空白组不做特殊干预。
+
+# 1.3模型建立
+
+将推桥弓组和模型对照组食蟹猴进行CAS造模，每只食蟹猴只造一侧颈总动脉。造模方法：给予Zoletil $5 0 ( 5 ~ \mathrm { m g / k g } )$ 麻醉后，常规消毒、铺巾，在胸锁乳突肌和喉结之间的间隙分离出颈总动脉，用注射器针头穿刺入动脉，并在动脉内壁上反复刮檫。拔出针头，用纱布按压进针点，待无明显渗血后，冲洗伤口，逐层缝合，术毕。手术均有同一组操作人员完成。术后注意观察伤口及动物吞咽、进食等情况。术后3d分别给予盐酸左氧氟沙星氯化钠注射液( $\mathrm { \Delta \cdot m g / k g ) }$ 静脉滴注预防感染，同时给予注射用盐酸曲马多 $( 2 \mathrm { m g / k g } )$ 肌注减轻术后疼痛。术后即给予高脂饲料喂养，8周后，在麻醉状态下行颈部彩超检测，可见颈总动脉内壁上有CAS斑块形成(图1))。CAS模型斑块狭窄率在 $( 7 . 2 8 { \pm } 0 . 8 2 ) \%$ ，根据2003年北美放射学会超声会议制定的标准25，属于轻度狭窄。其中，推桥弓组的斑块狭窄率为 $( 7 . 3 5 { \pm } 0 . 9 8 ) \%$ 模型对照组的斑块狭窄率为 $( 7 . 2 2 { \pm } 0 . 8 5 ) \%$ ，两组对比差异无统计学意义（ $_ { ( P > 0 . 0 5 ) }$ ,说明两组具有可比性。
+
+![](images/16ee97a123f6e5d7b1f3714df1fb77b53cc65a134283934b2fc8f83cbfde0516.jpg)  
+图1颈动脉彩超验证CAS斑块情况 Fig.1 CAS plaques (white arrows) observed by color Doppler ultrasound.
+
+# 1.4手法干预
+
+造模成功后，将推桥弓组食蟹猴固定在固定椅上，沿着左右颈动脉各推20次，1次/d,共 $3 0 \mathrm { ~ d } _ { \mathrm { c } }$ 模型对照组、空白组不做特殊干预。所有手法操作均由1名主治医师完成。
+
+# 1.5检查方法
+
+给予Zoletil $5 0 ( 5 ~ \mathrm { m g / k g } )$ 麻醉后，取仰卧位，头微后仰，充分暴露颈部。检查时，彩超探头检查范围距离颈总动脉分叉处 $1 . 3 7 { \pm } 0 . 1 0 \ \mathrm { c m }$ ，主要检测颈总动脉血管和斑块情况，指标包括：血管横切面面积、斑块横切面面积、斑块狭窄率(斑块横切面面积/血管横切面面积 $\times$ $100 \%$ )。同时，检测颈总动脉血流动力学，指标包括：收缩期峰值血流速度(PSV)舒张末期血流速度(EDV)、时间平均血流速度(TAV）、阻力指数(RI)[(PSV-EDV)/PSV]、搏动指数(PI)[(PSV-EDV)/TAV]。
+
+# 1.6统计学方法
+
+使用SPSS20.0软件进行统计分析，计量数据以均数 $\circledast$ 标准差表示，组间比较应用单因素方差分析(LSD- $t$ 检验)进行统计，检验水准 $\scriptstyle \mathtt { q = 0 } . 0 5$ 。当 $P { < } 0 . 0 5$ 认为差异
+
+有统计学意义。
+
+# 2结果
+
+在彩超检查中，推桥弓组、模型对照组可见斑块形成，同时，在血管横切面面积、斑块横切面面积、斑块狭窄率方面，与空白对照组比较,推桥弓组、模型对照组差异均有统计学意义 $( P { < } 0 . 0 5 )$ ,而推桥弓组和模型对照组比较，差异无统计学意义 $( P { > } 0 . 0 5 )$ (图2、3)。在各项血流动力学指标中(PSV、EDV、TAV、RI、PI)，与空白对照组对比，推桥弓组、模型对照组差异均有统计学意义( $P <$ 0.05)，而推桥弓组和模型对照组比较，差异无统计学意义$\scriptstyle \overbrace { P \mathrm { > } 0 . 0 5 }$ ，图4、5）。
+
+![](images/f541c0d4632ba6616b02a9c4b8bd220a497fd1d0cb49717616af46b909ed9b08.jpg)  
+图23组在血管横切面面积、斑块横切面面积的对比情况 Fig.2 Comparison of vascular cross-sectional area and plaque cross-sectional area among the 3 groups. $^ { * } P { < } 0 . 0 5$ Us blank control group.
+
+![](images/5a3b012afc8142e13f6e250d4f9c9e8b6078f484891ae05ed543ffccf60ba472.jpg)  
+图33组在斑块狭窄率方面的对比情况 Fig.3 Comparison of stenosis rate of plaque among the 3groups. $^ { * } P { < } 0 . 0 5$ Us blank control group.
+
+![](images/70d033ae4005368318f67ad0123e41acef35085793e2133e9bb6f1c1effd1d83.jpg)  
+图43组PSV、EDV和TAV的对比情况 Fig.4 Comparison of PSV,EDV,and TAV among the 3 groups. $^ { * } P { < } 0 . 0 5$ Us blank control group.
+
+![](images/88c5df7a3c22794d70504f9a14f7eb8481244e2947b6cba46b24edb08537093e.jpg)  
+图53组RI和PI的对比情况 Fig.5 Comparison of RI and PI among the 3 groups. $^ { * } P { < } 0 . 0 5$ Us blank control group.
+
+# 3讨论
+
+CAS是动脉内膜表面隆起的斑块，动脉内膜增厚是CAS的早期指征，而粥样斑块形成是其最具特征性的病变[26-29],因此，我们通过针刺划痕法联合高脂饲养的CAS造模方法对动物进行造模，在术后8周，通过颈部彩超检测，可见颈总动脉内壁上有CAS斑块形成。CAS模型斑块狭窄率在 $( 7 . 2 8 { \pm } 0 . 8 2 ) \%$ ，属于轻度狭窄。在造模过程中未发生动物死亡的不良事件，这说明我们的造模方法安全有效，可以有效的建立轻度CAS模型，为后续的实验提供了研究基础。
+
+AS破裂是一个复杂的过程，往往是多因素联合作用的结果：(1)血流动力学因素。局部低壁面切应力和高剪切震荡指数是粥样硬化斑块形成、破裂的高危因素[30-33]。(2)斑块易损性。斑块的形态、大小、成分、生物学活性等与斑块稳定性密切相关[3436]。斑块易损性与纤维帽厚度呈负相关，而与炎症细胞数量、脂质核心的大小呈正相关[37-38]。斑块内巨噬细胞的数量是决定斑块稳定性的重要因素，巨噬细胞数量越多,斑块越不稳定[39-40]。同时，血流动力学与斑块易损性相关[41]。(3)机械应力。颈部推拿由于手法操作不规范、过度用力或违背解剖学原则等，可能损伤颈动脉、撕裂神经纤维，AS斑块受到高应力，引起脱落、破裂等，造成缺血性脑卒中等急性脑血管疾病[42-44]
+
+在诸多推拿著作及临床实验中，均指出推桥弓手法能起到很好的即刻降压效应，具有良性、双向调节和无毒副作用等优点。而血流动力学的异常可促进CAS的形成、发展[45-47]。因此,观察推桥弓手法对食蟹猴轻度CAS斑块模型血流动力学的影响具有重要的意义。
+
+在本研究中，在颈总动脉横切面面积、斑块横切面面积、斑块狭窄率方面，与空白对照组比较，推桥弓组、模型对照组差异均有统计学意义( $_ { ( P < 0 . 0 5 ) }$ ,而推桥弓组和模型对照组比较，差异无统计学意义( $_ { ( P > 0 . 0 5 ) }$ ，这说明推桥弓组和模型对照组均有斑块形成，且推桥弓手法在短期内不会影响斑块的稳定性。在各项血流动力学指标中，推桥弓组、模型对照组PSV、EDV、TAV均低于空白对照组，说明斑块的形成会影响颈动脉的血流速度，从而进一步影响血供,同时，RI、PI均高于正常组( $P <$ 0.05)，说明在CAS中，血管壁负荷增大。但推桥弓组和模型对照组比较,PSV、EDV、TAV、RI、PI差异均无统计学意义 $( P { > } 0 . 0 5 )$ ，这说明推桥弓手法在短期内不会加重血流动力学的影响。
+
+本研究在实施过程中，由于客观原因和条件的限制，存在以下不足：(1)本研究只针对轻度CAS,对中、重度CAS有待进一步的研究。(2)出于伦理和安全性的考虑，实验对象选择食蟹猴，而不是直接作用于人体，手法对两者的影响是否有所不同，需待相关研究进一步探讨。
+
+综上所述，AS斑块对颈动脉的血流动力学会产生影响，但推桥弓手法在短期内不会影响斑块的稳定性，也不会加重血流动力学的影响
+
+# 参考文献：
+
+[1]De Gaetano M,Crean D,Barry M,et al. M1- and M2-Type macrophage responses are predictive of adverse outcomes in human atherosclerosis[J].Front Immunol,2016,7: 275.   
+[2]Chen ZL,Wang F,Zheng YS,et al. H-type hypertension is an important risk factor of carotid atherosclerotic plaques[J].Clin Exp Hypertens,2016,38(5): 424-8.   
+[3]Hurtubise J,Mclellan K,Durr K,et al.The different facets of dyslipidemia andhypertension in atherosclerosis ［J].Curr Atheroscler Rep,2016,18(12): 82.   
+[4]李海林,贾晓雁,王晋鹏,等.急诊独立模式溶栓缩短急性缺血性 脑卒中患者入院-溶栓时间探讨[J].中华急诊医学杂志,2016,25 (9): 1180-3.   
+[5]Ammirati E,Moroni F,Norata GD,et al.Markers of inflammation associated with plaque progression and instability in patients with carotid atherosclerosis[J].Mediators Inflamm,2015,2015:718329.   
+[6]Mancia G,De Backer G,Dominiczak A,et al.2007 Guidelines for the management of arterial hypertension: The Task Force for the Management of Arterial Hypertension of the European Society of Hypertension (ESH) and of the European Society of Cardiology (ESC)[J].Eur HeartJ,2007,28(12):1462-536.   
+[7]Bangalore S,Parkar S,Grossman E,et al.A meta-analysis of 94, 492 patients with hypertension treated with beta blockers to determine the risk of new-onset diabetes mellitus[J].Am J Cardiol, 2007,100(8): 1254-62.   
+[8]Matchar DB, Mccrory DC, Orlando LA, et al. Systematic review: comparativeeffectivenessofangiotensin-convertingenzyme inhibitors and angiotensin II receptor blockers for treating essential hypertension[J].Ann Intern Med,2008,148(1): 16-29.   
+[9]Law MR, Moris JK, Wald HJ, et al. Use of blood pressure lowering drugs in the prevention of cardiovascular disease:meta-analysis of 147randomised trials in the context of expectations from prospective epidemiological studies [J].BMJ,2009,338: b1665.   
+[10］王春兰,杨焕斌.冠心Ⅱ号治疗颈动脉粥样硬化斑块的临床研究 [J].光明中医,2008,23(8):1148-50.   
+[11］陈俊发.大黄虫丸治疗颈动脉粥硬化斑块50例[J].山东中医杂 志,2001,16(6): 331-2.   
+[12]余虹,万 青,石欣,等.调脂胶囊治疗颈动脉粥样硬化风块37 例临床观察[J].中医杂志,2003,44(9):664-5.   
+[13]党毓起,吴青霞,刘 军,等.健脾补肾消瘀祛毒法治疗颈动脉粥样 硬化40例临床研究[J].实用中医内科杂志,2006,20(6):654-5.   
+[14]段明福,宋 梅,孙秋红.碟脉灵治疗颈与脑动脉硬化斑块的疗效 观察[J].中华实用中西医杂志,2003,16(5):631.   
+[15］何国厚,艾志兵,刘 勇,等.小檗碱对颈动脉粥样硬化中内膜增 生和巨噬细胞趋化作用的影响[J].中风与神经疾病杂志,2006, 23(1): 94-6 .   
+[16]Field T. Massage therapy research review[J]. Complement Ther Clin Pract, 2014,20(4): 224-9.   
+[17]Nelson NL. Massage therapy: understanding the mechanisms of action on blood pressure. A scoping review[J]. JAm Soc Hypertens, 2015,9(10): 785-93.   
+[18]娄晓峰,廖品东.头面部推拿与推桥弓辅助治疗高血压病临床疗 效比较[J].时珍国医国药,2009,20(10):2623-4.   
+[19]冯跃,杨 洁,杨 馨.桥弓穴源流简考[J].吉林中医药,2010,30 (6): 542-3.   
+[20] Bowler N,Shamley D, Davies R.The effect of a simulated manipulation position on internal carotid and vertebral artery blood flow in healthy individuals[J]. Man Ther,201,16(1):87-93.   
+[21]Thomas LC, Mcleod LR, Osmotherly PG, et al. The effect of endrange cervical rotation on vertebral and internal carotid arterial blood flow and cerebral inflow: A sub analysis of an MRI study[J]. Man Ther,2015,20(3): 475-80.   
+[22]Riou LM,Broisat A,Ghezzi C,et al.Effects of mechanical properties and atherosclerotic artery size on biomechanical plaque disruption - mouse vs. human[J]. JBiomech,2014,47(4): 765-72.   
+[23]Vergallo R,Papafaklis MI, Yonetsu T,et al. Endothelial shear stress andcoronaryplaquecharacteristicsin humans:combined frequency-domainopticalcoherence tomography and computationalfuid dynamics study[J]. Circ Cardiovasc Imaging, 2014, 7(6): 905-11.   
+[24]He F, Hua L,Gao LJ. Computational analysis of blood flow and wall mechanics in a model of early atherosclerotic artery[J].J Mech Sci Tech,2017,31(2):1015-20.   
+[25] Paolo P, Napoli A,Anzidei M,et al. Comparison between dualenergy CT-angiography,MR-angiography and digital substraction angiography for the evaluation of carotid artery stenosis:A prospective study[J].BMC Vet Res,2015,11(1): 1-5.   
+[26] Quillard T, Libby P. Molecular imaging of atherosclerosis for improving diagnostic and therapeutic development[J].Circ Res, ZU1∠,111(∠): ∠51-44.   
+[27]Li J, Ley K. Lymphocyte migration into atherosclerotic plaque[J]. Arterioscler Thromb Vasc Biol,2015,35(1): 40-9.   
+[28]Skagen K, Skjelland M, Zamani M, et al. Unstable carotid artery plaque:new insights and controversies in diagnostics and treatment [J]. Croat Med J,2015,57(4): 311-20.   
+[29]Giannoglou GD,Antoniadis AP,Koskinas KC,et al.Flow and atherosclerosis in coronary bifurcations [J]．EuroIntervention, 2010,6(Suppl J): J16-23.   
+[30]Pedrigi RM,Mehta VV,Bovens SM,etal.Influence of shear stress magnitude and direction on atherosclerotic plaque composition[J]. R Soc Open Sci,2016,3(10): 160588.   
+[31] Chatzizisis YS, Jonas M,Coskun AU,et al. Prediction of the localization of high-risk coronary atherosclerotic plaques on the basis of low endothelial shear stress:an intravascular ultrasound and histopathology natural history study[J].Circulation,2o08,117 (8): 993-1002.   
+[32]Assemat P, Siu KK,Armitage JA, et al. Haemodynamical stress in mouse aortic arch with atherosclerotic plaques:Preliminary study of plaque progression[J]. Comput Struct Biotechnol J,2014,10 (17): 98-106.   
+[33]Kafi O,Khatib NE,Tiago J,et al.Numerical simulations of a 3D fluid-structureinteractionmodelforbloodflowinan atherosclerotic artery[J].Math Biosci Eng,2017,14(1):179-93.   
+[34]Honda S,Miyamoto T,Watanabe T,et al.A novel mouse model of aortic valve stenosis induced by direct wire injury[J].Arterioscler Thromb Vasc Biol,2014,34(2): 270-8.   
+[35]Naghavi M,Libby P, Falk E,et al. From vulnerable plaque to vulnerable patient:a call for new definitions and risk assessment strategies:Part II[J].Circulation,2003,108(15): 1772-8.   
+[36]Mughal MM,Khan MK,Demarco JK,et al. Symptomatic and asymptomatic carotid artery plaque[J].Expert Rev Cardiovasc Ther, 2011,9(10): 1315-30.   
+[37]Galaz R,Pagiatakis C,Gaillard E,et al.A parameterized analysis of the mechanical stress for co-ronary plaque fibrous caps ［J].J Biomed Sci Engin,2013,6(12A): 38-46.   
+[38]Edsfeldt A,Grufman H, Asciutto G,et al. Circulating cytokines reflecttheexpressionofpro-inflammatorycytokines in atherosclerotic plaques[J].Atherosclerosis,2015,241(2): 443-9.   
+[39]Liberale L,Dallegri F, Montecucco F,et al.Pathophysiological relevance of macrophage subsets in atherogenesis［J]．Thromb Haemost,2017,117(1): 7-18.   
+[40]Chineti-Gbaguidi G, Colin S,Staels B. Macrophage subsets in atherosclerosis[J].Nat Rev Cardiol,2015,12(1): 10-7.   
+[41]Sanyal A,Han HC.Artery buckling affects the mechanical stress in atherosclerotic plaques[J].Biomed Eng Online,2015,14(Suppl 1): S4.   
+[42] Cassidy JD,Boyle E,Coté P,et al.Risk of carotid stroke after chiropractic care: a Population-Based Case-Crossover study[J].J Stroke Cerebrovasc Dis,2017,26(4): 842-50.   
+[43]Biler J，Sacco RL,Albuquerque FC,et al. Cervical arterial dissections and association with cervical manipulative therapy:a statement for healthcare professionals from the American heart association/American stroke association[J].Stroke,2014,45(10): 3155-74.   
+[44] Cassdy JD,Bronfort G, Hartvigsen J. Should we abandon cervical spine manipulation for mechanical neck pain? No［J].BMJ,2012, 344: e3680.   
+[45]Drucaroff L,Ramirez A, Sanchez R,et al.Assessment of arterial stiffness by 24-hour ambulatory blood pressure monitoring in nocturnal hypertensive or normotensive subjects [J].Integra Med Int,2015,1(3): 129-34.   
+[46]Magdas A, Szilagyi L,Belenyi B,et al. Ambulatory monitoring derived blood pressure variability and cardiovascular risk factors in elderly hypertensive patients [J].Biomed Mater Eng,2014,24(6): 2563-9.   
+[47]Cuspidi C,Sala C, Tadic M,et al. Untreated masked hypertension and carotid atherosclerosis:a meta-analysis[J].Blood Press,2015, 24(2): 65-71. (编辑：经媛)

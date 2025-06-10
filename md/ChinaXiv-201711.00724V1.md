@@ -1,0 +1,151 @@
+饲粮阴阳离子差水平对小鼠血钙浓度及胃肠道组织钙结合蛋白9kumRNA相对表达水平的影响
+
+吴文旋1,2莘海亮吴佳海4\*杨艺」朱伦琴1（1.贵州大学动物科学学院，贵阳550025；2.贵州大学新农村发展研究院，西部发展能力研究中心，贵阳 550025；3.黔东南民族职业技术学院，凯里556000；4.贵州省草业研究所，
+
+贵阳 550006)
+
+摘要：本试验在前期建立了动物胃肠道钙代谢相关基因表达水平检测体系与表达谱分析的基础上，旨在进一步确定饲粮阴阳离子差（DCAD）水平对动物血钙浓度和胃肠道组织钙结合蛋白9ku（ $C a B P  – D 9 k$ ）mRNA相对表达水平的影响，为揭示低DCAD水平防治动物低血钙症的作用机制提供依据。将120只昆明小鼠随机分为3组，每组40 只，自配种前3d起分别饲喂DCAD 水平为 $+ 3 0 0$ （高DCAD 水平组，HD 组）、 $+ 1 5 0$ （对照组，CON 组）、-50（低DCAD水平组，LD组）的饲粮。检测母鼠产前 20d（-20d）、产前5d（-5d）、产后当天（0d）、产后3d（ $+ 3 \mathrm { d }$ ）血钙浓度和胃肠道组织 $C a B P  – D 9 k$ mRNA 相对表达水平。结果表明，与HD 组相比，LD 组显著提高了围产期内0d、 $+ 3 \mathrm { ~ d ~ }$ 小鼠血钙浓度 $( P { < } 0 . 0 5 )$ ，显著上调了小肠肠段(十二指肠、空肠、回肠)与结肠 $C a B P  – D 9 k$ mRNA相对表达水平( $. P { < } 0 . 0 5 )$ ，这一效应在-5d、0d表现最为显著( $. P { < } 0 . 0 5 ^ { \cdot }$ ），并在 $+ 3 \mathrm { ~ d ~ }$ 提高了小鼠空肠与结肠的 $C a B P  – D 9 k$ mRNA 相对表达水平 $( P { < } 0 . 0 5 )$ 。统计结果显示，十二指肠、空肠与结肠3个位点的 $C a B P  – D 9 k$ mRNA 相对表达水平与DCAD 水平、血钙浓度具有显著的关联性（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { } \ .$ ）。由此可见，降低DCAD水平可上调动物小肠及结肠肠段 $C a B P  – D 9 k$ mRNA相对表达水平，同时伴随更高的血钙浓度。这可能是低 DCAD水平有效维持动物围产期血钙稳恒，降低低血钙发生率的重要途径。
+
+关键词：饲粮阴阳离子差；血钙浓度；钙结合蛋白；胃肠道组织中图分类号：S811.2 文献标识码：A 文章编号:
+
+收稿日期：2015-12-28
+
+产前低饲粮阴阳离子差(dietary cation-anion difference,DCAD)水平可有效维持哺乳动物围产期临产血钙稳恒，加快产后血钙水平的恢复速度，减少其临床性低血钙及后续代谢疾病的发生率，成为防治低血钙症的有效措施。研究认为，低 DCAD 水平可促进骨钙入血[],减少尿钙排泄[]，促进胃肠道钙吸收[3]，继而有效促进机体血钙稳恒[4]，维持正常血钙水平，最终预防低血钙症。但其详细机理目前尚不明确，仍是动物营养学领域的重要研究课题，对提高动物生产性能具有重要的现实意义。在哺乳动物血钙稳恒的三大途径中，肾重吸收对机体钙负平衡响应最快，可在数分钟内调节，但尿液中钙含量少，重吸收能力有限[]，通常认为对机体外周循环钙补充贡献不大；骨溶解响应速度最慢，常需1周以上，且以发生食糜钙吸收不足为前提[7]，不是短期内促进钙稳态的有效因素；与此不同，食糜钙在胃肠道各区段上皮细胞吸收后，经毛细血管入血[7]，对血钙平衡状态的反应在短期内即可观测到[8]，在血钙稳态维持过程中占有重要地位。正常生理状态下，胃肠道吸收途径是短期内补充外周循环钙质，迅速维持血钙稳态最为可能的途径[9]。
+
+作为介导胞内钙转运至基底膜的重要元件，维生素D依赖型的钙结合蛋白9ku(calciumbinding proteins 9ku,CaBP-D9k)隶属于EF臂(EF-hand)钙结合蛋白家族，是调控哺乳动物骨骼、肾脏、胃肠道钙代谢过程中动力学参数的关键生物大分子，具备与钙特异结合的能力。CaBP-D9k主要在胃肠道、肾、骨骼等钙转运相关组织中特异表达[10]。研究表明，肠道不同片段CaBP-D9k 的表达水平与该位点钙摄取能力呈强正相关[11-121；老年人肠钙吸收能力减弱，与 $C a B P  – D 9 k$ 表达水平的减少高度相关[13]；CaBP-D9k 的表达位点及相对表达水平与所在器官/组织的钙吸收能力存在密切正相关[14]。上述研究为阐明低 DCAD 水平有效预防低血钙的作用机理提供了积极的借鉴意义。然而，截至目前鲜见不同DCAD水平与动物胃肠道组织 $C a B P \ – D 9 k$ 表达水平的研究报道，不利于围产期动物血钙水平营养干预及其动力学过程的深层次理解。为此，本文在建立了胃肠道钙代谢相关基因表达水平检测体系与其表达谱的基础上[12.15],以小鼠为模式动物，从组织水平上研究低DCAD水平对其胃肠道组织 $C a B P  – D 9 k$ mRNA相对表达水平的影响，旨在为揭示低DCAD水平防治低血钙的分子机制提供依据。
+
+# 1材料与方法
+
+# 1.1主要试剂
+
+血钙检测试剂盒由南京建成生物工程研究所提供；样本保存液(RNA store)、总RNA 提取试剂盒（RNAsimple）购自北京天根生化科技有限公司；反转录(RT reagent Kit with gDNAeraser)、普通 PCR(TaKaRa PCR amplification Kit)和荧光定量 PCR 试剂盒(SYBR? premix ExTaqTM I)为大连宝生物工程有限公司产品，其余试剂均为国产分析纯。
+
+# 1.2试验动物管理与分组
+
+选择10 周龄清洁级健康雌性昆明小鼠120只（贵阳医学院实验动物中心提供），按随机区组试验设计平均分为3组，每组40只。自配种前3d（预试期）分别饲喂DCAD水平为 $+ 3 0 0$ （基础饲粮 $+ \mathrm { N a H C O } _ { 3 }$ ，高DCAD水平组，HD 组）、 $+ 1 5 0$ （基础饲粮，对照组，CON组）、-50（基础饲粮 $+ \mathrm { N H _ { 4 } C l }$ ，低DCAD水平组，LD 组）的饲粮。小鼠灭菌饲粮由苏州市双狮实验动物饲料科技有限公司提供。依照 $\scriptstyle { \mathrm { D C A D = N a + K - C l - S } }$ 计算DCAD 水平[7]。小鼠笼饲，每笼4只，自由采食及饮水。小鼠基础饲粮由玉米、豆粕、麸皮、多维、微量元素组成，主要营养水平为：粗蛋白质（CP) $2 0 . 5 \%$ 、粗灰分（Ash) $6 . 9 \%$ 、中性洗涤纤维（NDF） $1 3 . 1 \%$ 、酸性洗涤纤维（ADF） $7 . 5 \%$ 、钙 $0 . 5 1 \%$ 、磷 $0 . 4 0 \%$ 。
+
+# 1.3样品采集
+
+分别于小鼠配种次日（-20d）、预产前5d（-5d）、产仔当天（0d）、产后3d（ $\therefore + 3 \mathrm { d } )$ 0每组随机抽取10 只，乙醚麻醉后摘除眼球处死。搜集小鼠眼眶血， $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $2 0 ~ \mathrm { m i n }$ 制备血浆，置于 ${ } _ { - 2 0 } \mathrm { { } ^ { \circ } C }$ 保存；无RNase 环境下迅速采集小鼠胃、十二指肠、空肠、回肠、盲肠、结肠样本，预冷磷酸盐缓冲液（PBS）冲洗后投入预注入RNA Store 的冻存管。所有样本均于 $. 8 0 ^ { \circ } \mathrm { C } .$ 冻存备用。
+
+# 1.4指标测定
+
+按试剂盒说明书测定小鼠血钙浓度。依照本课题组已建立的荧光定量PCR 检测体系[24]测定并计算各组小鼠不同时间点各组织CaBP-D9kmRNA相对表达水平。
+
+# 1.5 数据处理
+
+数据采用平均值 $\pm$ 标准差表示。使用 SAS9.3进行统计。其中，小鼠血钙浓度的平均值调用 Proc GLM模块进行Duncan 氏法检验；mRNA表达水平归一化及相对表达水平计算依照前人报道进行[16]；为考察 DCAD 水平对上述指标的处理效应(treatment effects)、时间效应(time effects)及其交互作用(interaction)，在GLM 程序中加入LSMEANS、TDIFF 及PDIFF选项以比较检测指标的差异。调用 Proc REG及CORR 模块对 DCAD 水平、小鼠孕期血钙浓度及胃肠道不同位点 $C a B P \ – D 9 k$ mRNA的相对表达水平进行Pearson线性相关分析。差异显著水平设为 $P { < } 0 . 0 5$
+
+2结果
+
+# 2.1 血钙浓度
+
+如图1所示，随着分娩的临近，小鼠血钙浓度缓慢增加，在-5d达到峰值，之后逐渐降低。与-5d相比，0d时各组小鼠血钙浓度分别下降了 $1 7 . 6 8 \%$ （HD组）、 $2 5 . 8 3 \%$ （CON组）、
+
+$6 . 5 9 \%$ （LD组）。产仔后（ $+ 3 { \mathrm { ~ d } }$ ），小鼠血钙浓度均呈现恢复的趋势，但LD组显著高于其余2组（ $( P { < } 0 . 0 5 )$ ）。此外，整个试验期间，HD、CON、LD 组小鼠平均血钙浓度分别为1.052、1.209、1.525 mmol/L，以LD 组最高，0 和 $+ 3 \mathrm { d }$ 时显著高于HD、CON 组（ $. P { < } 0 . 0 5 ^ { \cdot }$ ），HD、CON 组之间差异不显著（ $. P { > } 0 . 0 5 .$ ）。小鼠产仔时间效应及其与DCAD水平的互作效应均未对小鼠血钙浓度产生显著影响（ $P { > } 0 . 0 5$ ）。
+
+不同折线数据柱标相同小写字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $P$ $< 0 . 0 5 \rangle$ 。
+
+![](images/a044f876bcbb186ab023d4fe381d2250a1aac195148f0c2d134319675e495ab7.jpg)  
+图1DCAD水平饲粮对围产期小鼠血钙浓度的时间效应
+
+Values in different polyline with the same small letters mean no significant difference ( $\mathrm { \Delta } P { > } 0 . 0 5 \mathrm { \Delta }$ ）， while with different smalletters mean significant difference ( $\scriptstyle \left. { \cal P } < 0 . 0 5 \right)$ ！
+
+Fig.1 Time effects of DCAD level on plasma $\mathrm { C a } ^ { 2 + }$ concentration of mice during the transition period
+
+# 2.2 胃肠道CaBP-D9kmRNA相对表达水平
+
+以试验开始时各组的同一样本为参照，围产期内小鼠胃肠道CaBP-D9k mRNA相对表达水平变化见图2。试验开始后，胃 $C a B P  – D 9 k$ mRNA相对表达水平随产仔期临近而逐渐降低，在产仔0d达最低水平。与此不同，在-5d与产仔 $\mathrm { ~ 0 ~ d ~ }$ ，十二指肠CaBP-D9kmRNA相对表达水平达到最大，显著高于-20d 和 $+ 3$ d( $_ { \cdot \cdot P < 0 . 0 5 }$ ）。空肠、回肠、盲肠及结肠的CaBP-D9kmRNA相对表达水平在-5d时大幅降低，之后逐渐上调至产仔0d水平并升至最高点。产仔$+ 3 \mathrm { ~ d ~ }$ ，小鼠胃肠道组织各位点CaBP-D9kmRNA相对表达水平均逐渐降至-20d水平。
+
+![](images/677df2b66adb343ad2a201646df67b1ed5b5c9e39cec3374c3af54b1ee5b2355.jpg)
+
+数据柱标相同小写字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 1 )$ 。下 图同。 Value columns with the same small letters mean no significant difference $\mathrm { \langle } P { > } 0 . 0 5 \mathrm { \rangle }$ ,while with different small letters mean significant difference ( $\cdot P { < } 0 . 0 5$ ). The same as below.
+
+图2DCAD水平对围产期小鼠胃、十二指肠、空肠、回肠、盲肠、结肠组织 $C a B P  – D 9 k$ mRNA 相对表达水平的影响
+
+Fig.2Effects of DCAD level on $C a B P  – D 9 k$ mRNA relative expression level of stomach, duodenum, jejunum, ileum, cecum and colon of mice during the transition period
+
+2.3DCAD水平与胃肠道CaBP-D9k mRNA相对表达水平的效应分析
+
+由图3可见，DCAD水平对胃肠道 $C a B P  – D 9 k$ mRNA相对表达水平的效应仅在十二指肠、空肠、回肠及结肠4个位点被观测到。试验开始后，与HD 组相比，LD 组诱导了十二指肠、空肠、结肠内的 $C a B P  – D 9 k$ mRNA相对表达水平显著升高（ $_ { . P < 0 . 0 5 } )$ ）；在十二指肠与结肠肠段，该效应一直延续到产仔0d（ $P { < } 0 . 0 5$ ）。产后 $+ 3 \mathrm { ~ d ~ }$ ，与HD 组相比，LD 组显著提高了小鼠十二指肠、空肠与结肠内CaBP-D9kmRNA相对表达水平（ $. P { < } 0 . 0 5$ ）。进一步统计结果显示（表1），十二指肠、空肠与结肠3个组织位点CaBP-D9kmRNA相对表达水平与DCAD水平、血钙浓度具有显著的关联性（ $. P { < } 0 . 0 5 \$ ），即DCAD水平降低/血钙浓度增加，CaBP-D9kmRNA相对表达水平相应增加。
+
+![](images/50046aa1cad84d1f3bf538644ef31c1a5a0106833b6a8eee46fc71c6f00cd35d.jpg)  
+图3DCAD水平对围产期小鼠不同采样时段胃、十二指肠、空肠、回肠、盲肠、结肠 $C a B P  – D 9 k$ mRNA相对表达水平的影响
+
+Fig.3Effects of DCAD level on CaBP-D9k mRNA relative expression level of stomach, duodenum, jejunum, ileum, cecum and colon at different sampling period of transition mice during the transition period
+
+表1围产期鼠胃肠道组织不同位点 $C a B P \mathrm { - } D 9 k \mathsf { m R N A }$ 相对表达水平与DCAD水平、血钙浓度
+
+的关联分析
+
+Table 1Correlation analysis between CaBP-D9k mRNA relative expression level of difference segments in gastrointestinal tract tissues and DCAD and plasma $\mathrm { C a } ^ { 2 + }$ concentration of mice during   
+the transition period   
+
+<html><body><table><tr><td>钙结合蛋白9kumRNA相</td><td colspan="2">P值 P-value</td><td colspan="2">相关系数 R²</td></tr><tr><td>对表达水平</td><td>DCAD 水平</td><td>血钙浓度</td><td>DCAD 水平</td><td>血钙浓度</td></tr><tr><td>CaBP-D9kmRNA relative</td><td>DCAD level</td><td>Plasma Ca</td><td>DCAD level</td><td>Plasma Ca</td></tr><tr><td>expression level</td><td></td><td>concentration</td><td></td><td>concentration</td></tr><tr><td>胃Stomach</td><td>0.621 3</td><td>0.551 7</td><td>0.004 726</td><td>0.006 855</td></tr><tr><td>十二指肠 Duodenum</td><td>0.010 3</td><td>0.017</td><td>0.120 1</td><td>0.104 8</td></tr><tr><td>空肠 Jejunum</td><td>0.000 9</td><td>0.002 9</td><td>0.191 3</td><td>0.158 6</td></tr><tr><td>回肠Ileum</td><td>0.092 7</td><td>0.150 6</td><td>0.053 39</td><td>0.039 33</td></tr><tr><td>盲肠 Cecum</td><td>0.686 3</td><td>0.599 5</td><td>0.003 163</td><td>0.005 339</td></tr><tr><td>结肠 Colon</td><td>0.046 9</td><td>0.032 8</td><td>0.079 77</td><td>0.091 43</td></tr></table></body></html>
+
+# 3讨论
+
+3.1DCAD水平对围产期鼠血钙稳恒的影响
+
+机体血钙稳恒是保障神经传导、肌肉收缩、信号转导等生理机能的前提，也是满足骨骼及动物产品所需钙质的基础。无论是维生素D代谢及激活系统响应能力弱化[17]，还是短期内钙流失过多[18]，均将打破机体血钙稳恒，诱发一系列钙负平衡症状。在外源/自身因素导致血钙平衡发生紊乱时，机体可在组织水平上调控甲状旁腺激素（PTH）、1,25-二羟维生素$\mathrm { D } _ { 3 } [ 1 , 2 5 { \scriptstyle - ( O H ) } _ { 2 } \mathrm { D } _ { 3 } ]$ 分泌[7]，提高肾重吸收、骨动员、胃肠道吸收三大钙吸收途径效率[6.8,19]调控机体可交换钙库（TEP）释放/蓄积过程的动力学参数[5]，最终缓和血钙水平波动幅度。
+
+有学者指出[5]，胃肠道主动钙吸收能力的弱化，可能是钙代谢率旺盛动物围产期内频发低血钙症的分子病理学基础，而低DCAD 水平可通过上调动物胃肠道主动跨膜钙摄取能力补充TEP所需的钙源。这一观点得到了国内外营养学界的广泛关注，但相关作用研究匮乏。为验证该假说，本试验利用围产期小鼠为模式动物，以钙跨膜吸收通路的限速步骤关联大分子CaBP-D9k为研究对象，检测其在胃肠道不同位点的CaBP-D9k mRNA相对表达水平，并观察受试动物血钙浓度的变化，以考察不同DCAD水平对胃肠道组织钙吸收的营养干预作用，发现小鼠血钙浓度随DCAD水平的降低而呈现出剂量-效应关系，且LD 组血钙浓度显著高于其余2组。与此一致，前人研究结果表明，血钙浓度增加是围产期泌乳动物采食低DCAD水平后最为经典的效应[20]。
+
+就围产期时段而言，试验开始初期产生的钙需求对小鼠体内血钙应激不大，低 DCAD水平对血钙浓度变化有限。这可能是该采样时间点3组小鼠血钙差异不显著的原因。随着胎儿发育进程的不断延伸，母体血容量逐步提高[21]；与此同时，钙开始大量进入胎盘。为抑制血钙负平衡，机体PTH及 $1 , 2 5 \mathrm { - } ( \mathrm { O H } ) _ { 2 } \mathrm { D } _ { 3 }$ 分泌增加[7]，促进骨钙动员入血，上调肠道钙摄取能力，减少尿钙排泄，维持动物血钙浓度继续上升[21]。这与本试验中小鼠在-5d时的血钙浓度结果一致。得益于低DCAD水平对胃肠道钙吸收调控作用的激活[5]，LD组小鼠血钙浓度较前一时间段甚至有显著提高。此外，尽管泌乳量较奶牛有限，围产期小鼠仍有部分血钙经乳腺合成初乳而流失，使母体难以迅速补充TEP 维持正常血钙浓度，最终导致3组小鼠在产仔时血钙浓度有较大降幅；但LD 组小鼠产仔0d血钙浓度降幅低于HD、CON 组，提示其外周循环钙容量/转运效率得到提升。这可由该组小鼠在产前-5d 前就呈现的高血钙浓度得到印证。同时，就最经典的指标血钙来看，该试验结果与前人的研究结论一致[22]，即低 DCAD水平有利于减缓围产期动物血钙降低的程度，提高血钙浓度，维持机体血钙稳恒。由此再次说明，低DCAD水平可提高围产期动物血钙浓度，防治低血钙症。
+
+# 3.2DCAD水平对围产期鼠胃肠道组织CaBP-D9kmRNA相对表达水平的影响
+
+酸化机体内环境（pH降低）是低DCAD水平的另一主要特征。经典理论认为，低体液pH 有利于骨钙溶解入血[23]、促进胃肠道钙吸收[24]。据此，我们考察了胃肠道CaBP-D9kmRNA 相对表达水平对不同DCAD水平的响应情况。研究结果表明，胃与盲肠CaBP-D9kmRNA 相对表达水平对DCAD 水平响应幅度未达显著水平。这与胃不是钙吸收的主要器官有关[25]；同时，盲肠解剖学长度短，对钙的主动/被动跨膜吸收贡献有限。总体而言，这提示胃与盲肠对低DCAD水平调控围产期小鼠血钙浓度的营养干预作用有限。
+
+小鼠摄入低DCAD水平后，小肠及结肠肠段CaBP-D9kmRNA相对表达水平在产仔后3d 即迅速上调，其趋势在分娩后仍得以延续。具体而言，进入妊娠期后，低DCAD水平诱导了除胃及盲肠肠段外其他位点更高的CaBP-D9kmRNA相对表达水平，在产仔0d尤为突出，甚至表现出明显的剂量-效应关系。可以推断，在小鼠上述组织内，低DCAD 水平诱导了更多的食糜钙进入上皮细胞，表明这些位点的钙主动跨膜吸收能力得到了增强，有利于维持动物血钙稳恒。这已在LD组小鼠血钙浓度变化中得到了印证，亦与低DCAD水平可在2d 左右激活动物血钙稳恒的表观反应结论相符[5]。同时，进一步统计分析可见，十二指肠、空肠与结肠3个位点的CaBP-D9k mRNA相对表达水平对DCAD水平、血钙浓度存在较强的关联性。日本学者报道，小肠肠段CaBP-D9k mRNA相对表达水平与血钙存在具备统计学意义的线性关系[26]，其关联度（ ${ \cdot } P { = } 0 . 3 2 6$ $R ^ { 2 } { = } 0 . 0 5 3$ ）略高于本研究，这可能与我们采用了不同的回归分析手段（Spearman 秩回归VS.Pearson's分析）有关。
+
+可以看出，各组小鼠试验初期（ $- 2 0 \mathrm { d }$ ）血钙浓度虽无统计学差异，但与高DCAD水平、对照相比，低DCAD水平对十二指肠、空肠与结肠 $C a B P  – D 9 k$ mRNA相对表达水平的上调已达到显著水平，以结肠肠段最为明显。这正好佐证了在血钙稳态三大调节机制中，胃肠道钙吸收响应速度快，可在机体发生钙代谢紊乱前启动调控，满足TEP补充/消耗所需这一理论[5,7]。有趣的是，待产小鼠（-5d）血钙浓度虽较上一时间段增加，但除十二指肠外，其余组织位点CaBP-D9k mRNA相对表达水平并未上调。与之相反，其余肠段 $C a B P  – D 9 k$ mRNA相对表达水平在该时间点明显降低。结合胃肠道不同区段的特异钙摄取模式的报道[27]，可以推测，该时段母体对钙质的需求尚未达到最高点；同时，肠段CaBP-D9kmRNA相对表达水平下调，可能与在这些位点上其余跨膜钙摄取相关基因的代偿性高表达有关[28-29]。据此，有理由认为，在整个胃肠道内，十二指肠、空肠及回肠区段是影响围产期哺乳动物母体血钙稳恒的主要靶位点；今后可继续开展蛋白表达模式、钙净转运率等研究。
+
+综上所述，基于DCAD 水平对体液酸碱平衡、血液矿物元素稳态的研究报道，笔者认为，小鼠胃肠道的4个位点（十二指肠、空肠、回肠、结肠）的CaBP-D9k mRNA相对表达水平的上调与低DCAD水平的生理调控作用紧密相关。这提示低DCAD水平具备上调胃肠道钙主动跨膜吸收途径关键限速大分子的能力；此外，胃肠道主动钙吸收途径相关生物大分子的表达上调，可能是低DCAD水平有效维持正常血钙浓度的重要途径。
+
+# 4结论
+
+本研究表明，低DCAD水平可上调围产期小鼠十二指肠、空肠、回肠、结肠组织CaBP-D9kmRNA相对表达水平，进而提高临近分娩时段血钙浓度。
+
+# 参考文献：
+
+[1] GOFF J P,HORST R L,MUELLER F J,et al.Addition of chloride to a prepartal diet high in cations increases 1,25-dihydroxyvitamin D response to hypocalcemia preventing milk fever[J].Journal of Dairy Science,1991,74(11):3863-3871.   
+[2]曹国凡.甲状旁腺素和钙在促进骨形成中的协同作用及机制研究[D].博士学位论文.南京: 南京医科大学,2008.   
+[3] WU W X,LIU J X,XU G Z,et al.Calcium homeostasis,acid-base balance,and health status in periparturient Holstein cows fed diets with low cation-anion difference[J].Livestock Science,2008,117(1):7-14.   
+[4] APPER-BOSSARD E.FAVERDIN P,Meschy F,et al.Efects of dietary cation-anion difference on ruminal metabolism and blood acid-base regulation in dairy cows receiving 2 contrasting levels of concentrate in diets[J].Journal of Dairy Science,2010,93(9):4196-4210.   
+[5] MARTIN-TERESO J,VERSTEGEN M W A.A novel model to explain dietary factors affecting hypocalcaemia in dairy cattle[J].Nutrition Research Reviews,2011,24(2):28-243.   
+[6] GOFF J P.Macromineral physiology and application to the feeding of the dairy cow for prevention of milk fever and other periparturient mineral disorders[J].Animal Feed Science and Technology,2006,126(3/4):237-257.   
+[7] BERNE R M,LEVY M N,KOEPPEN B M,et al.Berne & levy physiology[M].Philadelphia, PA:Mosby/Elsevier,2008.   
+[8] MARTIN-TERESO LOPEZ J.Rumen-protected rice bran to induce the adaptation of calcium metabolism in dairy cows[D].Ph.D.Thesis.Wageningen:Wageningen University,2010.   
+[9] THILSING-HANSEN T,JORGENSEN R J,OSTERGAARD S.Milk fever control principles:a review[J].Acta Veterinaria Scandinavica,2002,43(1):1-19.   
+[10] GROSS M,KUMAR R.Physiology and biochemistry of vitamin D-dependent calcium binding proteins[J].The American Journal of Physiology,1990,259(2 Pt 2):F195-209.   
+[11] 毛萌,王道聪.VD 及 CaBP-Ds 在肠道和肾脏钙转运中的作用[J].国外医学(儿科学分 册),1996,23(6):289-292.   
+[12] 杨艺,莘海亮,夏先林,等.昆明小鼠胃肠道钙离子跨膜吸收途径相关基因表达模式分析[J]. 动物营养学报,2013,25(2):441-446.   
+[13] 刘和娣.钙结合蛋白研究进展[J].国外医学生理、病理科学与临床分册,1995(4):278-281.   
+[14] REPLOGLE R A,LI Q,WANG L B,et al.Gene-by-diet interactions influence calcium absorptionandbonedensityinmice[J].JournalofBoneandMineral Research,2014,29(3):657-665.   
+[15] 莘海亮,吴文旋,李胜利.动物胃肠道钙吸收关键基因表达实时荧光定量 PCR 检测方法的 建立[J].江苏农业科学,2013,41(4):31-34.   
+[16] WILLEMS E,LEYNS L,VANDESOMPELE J.Standardization of real-time PCR gene expression data from independent biological replicates[J].Analytical Biochemistry,2008,379(1):127-129.   
+[17] BOLT M J G,CAO L P,KONG J,et al.Vitamin D receptor is required for dietary calcium-induced repression of calbindin-D9k expression in mice[J].The Journal of Nutritional Biochemistry,2005,16(5):286-290.   
+[18] MULLEN P A.Clinical and biochemical responses to the treatment of milk fever[J].Veterinary Record,1975,97(5):87-92.   
+[19] HORST R L,GOFF J P,REINHARDT T A.Adapting to the transition between gestation and lactation:differences between rat,human and dairy cow[J].Journal of Mammary Gland Biology and Neoplasia,2005,10(2):141-156.   
+[20] WILKENS M R,OBERHEIDE I,SCHRODER B,et al.Influence of the combination of 25-hydroxyvitamin ${ \bf D } _ { 3 }$ and a diet negative in cation-anion difference on peripartal calcium homeostasis of dairy cows[J].Journal of Dairy Science,2012,95(1):151-164.   
+[21] 董淑筠,伍晓倩,赵俊红.孕期母体血钙变化及 544 例孕妇血钙分析[J].复旦学报:医学 版,2002,29(5):418-419.   
+[22] LEAN I J,DEGARIS P J,Mcneil D M,et al.Hypocalcemia in dairy cows:meta-analysis and dietary cation anion difference theory revisited[J].Journal of Dairy Science,2006,89(2):669-684.   
+[23] LIESEGANG A.Influence of anionic salts on bone metabolism in periparturient dairy goats and sheep[J].Journal of Dairy Science,2008,91(6):2449-2460.   
+[24] HIRATA Y,OKU Y.TRP channels are involved in mediating hypercapnic $\mathrm { C a } ^ { 2 + }$ responses in rat glia-rich medullarycultures independentofextracellularpH[J].Cell Calcium,2010,48(2/3):124-132.   
+[25] PEREZ A V,PICOTTO G,CARPENTIERI A R,et al.Minireview on regulation of intestinal calciumabsorption.Emphasis on molecular mechanisms of transcellular pathway[J].Digestion,2008,77(1):22-34.   
+[26] YAMAGISHI N,MIYAZAKI M,NAITO Y.The expression of genes for transepithelial calcium-transportingproteins in the bovine duodenum[J].The Veterinary Journal,2006,171(2):363-366.   
+[27] SCHRODER B,BREVES G.Mechanisms and regulation of calcium absorption from the gastrointestinal tract in pigs and ruminants:comparative aspects with special emphasis on hypocalcemia in dairy cows[J].Animal Health Research Reviews,20O6,7(1/2):31-41.   
+[28] BRUN L R,BRANCE M L,RIGALLI A.Luminal calcium concentration controls intestinal calcium absorption by modification of intestinal alkaline phosphatase activity[J].British Journal of Nutrition,2012,108(2):229-233.   
+[29] VANOEVELEN J,JANSSENS A,HUITEMA L F A,et al.Trpv5/6 isvital for epithelial calcium uptake and bone formation[J].The FASEB Journal,2011,25(9):3197-3207.
+
+Effects of Dietary Cation-Anion Difference Level on Plasma Calcium Concentration and Gastrointestinal Tract Tissues Calcium Binding Proteins 9ku mRNA Relative Expression Level of Mice during the Transition Period
+
+WU Wenxuan1,2 XIN Hailiang3 WU Jiahai4\* YANG Yil ZHU Lunqin1
+
+(1. College of Animal Science, Guizhou University, Guiyang 55Oo25, China; 2. Institute of New Rural Development, China Center for Western Development Capacity Reasearch, Guizhou   
+University, Guiyang 550025, China; 3. Qiandongnan National Polytechnic, Kaili 556000, China; 4. Guizhou Institute of Prataculture, Guiyang 550o06, China)
+
+Abstract: Based on the calcium related gene expression profile and its analysis, the study was conducted to investigate the effects of dietary cation-anion difference (DCAD) level on plasma calcium concentration and gastrointestinal tract tissues calcium binding proteins 9ku (CaBP-D9k） relative expression level of mice during the transition period,and to clarify the mechanism of low DCAD level prevent hypocalcaemia. One hundred and twenty KM mice were randomly allotted into 3 groups with 4O mice in each group, mice in the 3 groups were fed 3 diets with DCAD level at $+ 3 0 0$ (high DCAD level group, HD group), $+ 1 5 0$ (control group, CON group), and -150 (low DCAD level group, LD group), respectively. Plasma calcium concentration and gastrointestinal tract tissues CaBP-D9k mRNA relative expression level were detected at 4 time points: day of 2O (-2O d) and 5 (-5 d) before kidding, day of kidding (O d),and day of 3 after kidding $( + 3 { \mathrm { ~ d } } )$ . The results showed that compared with the HD group, the plasma calcium concentration of mice at $0 \mathrm { d }$ and $+ 3$ d during the transition period in LD group was significantly increased $( P { < } 0 . 0 5 )$ , and the $C a B P \ – D 9 k$ mRNA relative expression level was significantly up-regulated in duodenum, jejunum, ileum and colon $( P { < } 0 . 0 5 )$ , especially observed on $^ { - 5 \mathrm { d } }$ before parturition and $0 \mathrm { d }$ at parturition ( $\scriptstyle ( P < 0 . 0 5 )$ ). Also, CaBP-D9k mRNA relative expression level was significantly increased in jejunum and colon on the $+ 3$ d after parturition $( P { < } 0 . 0 5 )$ . Moreover, there was a significant correlation between CaBP-D9k mRNA relative expression level in duodenum, jejunum and colon and plasma calcium concentration. In conclusion,low DCAD level is able to up-regulate $C a B P  – D 9 k$ mRNA relative expression level in small intestine and colon, accompany with greater plasma calcium concentration. This is possibly an important way of low DCAD level maintains plasma calcium homeostasis during the transition period, and reduce the occurrence rate of hypocalcemia.
+
+Key words: dietary cation-anion diference； plasma calcium concentration； calcium-bindingprotein; gastrointestinal tract tissues

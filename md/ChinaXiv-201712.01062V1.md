@@ -1,0 +1,128 @@
+# 临床研究
+
+# 急性髓系白血病CDX2和β-catenin基因表达的相关性
+
+王 巍1²,孟 灿1,²,刘 佳1,²,杨志刚1,2  
+广东医学院'血液病研究室，附属医院血液内科，广东 湛江524000
+
+摘要：目的 研究急性髓系白血病(AML)患者CDX2与 $\beta$ -catenin基因表达的相关性。方法实时定量PCR方法检测92例初诊AML、30例非恶性血液病患者(对照)CDX2及 $\beta$ -cateninmRNA表达,Western blot检测其中的26例AML、8例非恶性血液病患者CDX2 $. { \beta }$ -catenin蛋白表达。结果AML组CDX2mRNA和蛋白表达阳性率分别为 $8 4 . 7 8 \%$ 和 $7 6 . 9 2 \%$ ,对照组未检测到表达$( P { < } 0 . 0 1 )$ $\beta$ -cateninmRNA和蛋白在两组均表达,但AML组显著高于对照组( $( P { < } 0 . 0 1 )$ 。CDX2 $. { \beta }$ -cateninmRNA表达均与初诊时白细胞数、LDH水平呈正相关 $( P { < } 0 . 0 1 \$ )。AML患者获得完全缓解时，CDX2mRNA转阴 $. { \mathsf { \beta } }$ -cateninmRNA表达显著下降，复发时两者均增高。AML患者CDX2与 $\beta$ -catenin无论在mRNA和蛋白水平表达均呈显著正相关 $( P { < } 0 . 0 1 )$ 。结论 AML患者存在CDX2基因过表达及 $\mathrm { { W n t / \beta } }$ -catenin信号通路激活，且CDX2与β-catenin表达呈显著正相关。
+
+关键词：急性髓系白血病;CDX2； $\beta$ -catenin;基因表达
+
+# Expressions of CDX2 and $\beta$ -catenin and their correlation in acute myeloid leukemia
+
+WANG Weil2,MENG $C a n ^ { 1 , 2 }$ LIU $J i a ^ { 1 , 2 } ,$ YANG Zhigang1,2 Laboratoryoftolopmettfltedaldoicalitg
+
+Abstract: Objective To investigate the expressions of CDX2 and $\beta$ -catenin and their correlation in acute myeloid leukemia (AML). Methods Real-time PCR was used to examine the expressions of CDX2 and $\beta$ -catenin mRNA in 92 de novo AML and 30 non-malignant patients (control),and Western blot was employed to detect CDX2 and $\beta$ -catenin protein expressions in 26 de novo AML and 8 non-malignant patients. Results The positivity rates of CDX2 mRNA and protein expressions in AML group were $8 4 . 7 8 \%$ and $7 6 . 9 2 \%$ , respectively, but no CDX2 mRNA or protein expression were detected in control group ( $P <$ 0.01). The expressions of $\beta$ catenin mRNA and protein were detected in al the patients in both groups but its expressions in AML group were significantly higher $( P { < } 0 . 0 1 )$ . The expressions of CDX2 and $\beta$ catenin mRNA were significantly correlated with WBC counts and LDH levels $( P { < } 0 . 0 1 )$ . The expression of CDX2 mRNA was not detected and the expression of $\beta$ -catenin mRNA was decreased to normal level inAML patients with complete remission, while the expressions of CDX2 and $\beta$ catenin mRNA were increased again in those with disease relapse.There were significantly positivecorrelations between CDX2 and $\beta$ -catenin expressions at both mRNA and protein levels $( P { < } 0 . 0 1 )$ . Conclusion Up-regulation of $\mathrm { C D } \mathrm { \times } 2$ gene and activation of $W \mathrm { n t } / \beta$ -catenin pathway co-exist in AML patients and the expressions of CDX2 and $\beta$ catenin are positively correlated. Key words: acute myeloid leukemia; CDX2; $\beta$ catenin; gene expression
+
+CDX2基因(cadual type homeobox gene-2,尾型同源盒-2)属于同源盒基因(HOX)家族中的一员，是发育相关基因，其表达失调与结直肠癌、急性白血病发病关系密切[-4],在急性白血病中CDX2的主要作用是促进细胞增殖、增强克隆形成能力[4-5]。 $\mathrm { { W n t / \beta } } .$ -catenin信号通路是一条在进化中较为保守的通路,参与胚胎发育调节，其异常激活与多种肿瘤发病相关，如结直肠癌、白血病等[67],该信号通路在急性白血病中也具有促进细胞增殖的作用[8-9]。CDX2基因和 $\mathrm { { W n t / \beta } }$ -catenin信号通路在急性白血病中的功能有相似之处，两者是否有协同作用？ $\beta$ -catenin是 $\mathrm { { W n t / \beta } }$ -catenin信号通路的关键分子，其表达增高可反映该通路的激活，为研究急性髓系白血病(AML)CDX2表达上调与 $\mathrm { { W n t / \beta } }$ -catenin信号通路激活的相关性，本文对CDX2和 $\beta$ -catenin基因从表达水平、临床意义、与疗效关系及不同病程表达变化几个方面进行了分析。
+
+# 1材料与方法
+
+# 1.1 病例资料
+
+收集我科2011年12月\~2013年12月期间诊治的初发AML患者骨髓标本92例，诊断符合张之南主编的《血液病诊断及疗效标准》。其中男性54例、女性38例，中位年龄48岁(9\~87岁）。按照FAB分型：M1型1例、
+
+M2型20例、M3型9例、M4型25例、M5型22例、M6型3例、AML未定型12例。诱导治疗非M3患者采用标准剂量DA(柔红霉素 $^ +$ 阿糖胞苷）DAE(柔红霉素 $+$ 阿糖胞苷 $\mathrm { \dot { \bar { + } } }$ 依托泊苷）CAG(吡柔比星 $^ +$ 阿糖胞苷）IA(去甲氧柔红霉素 $^ { \circ } +$ 阿糖胞苷)方案;M3患者予以全反式维甲酸联合DA方案化疗。对照组30例为同期诊治的非恶性血液病患者(增生性贫血21例，特发性血小板减少性紫癫9例)，其中男性16例、女性14例，中位年龄42岁(15\~82岁）。
+
+# 1.2主要试剂和仪器
+
+TRIzol、逆转录试剂盒、SYBRPremixEx TaqTMII试剂盒均购自TaKaRa公司，兔抗人CDX2抗体购自美国Abcam公司(ab76541）、兔抗人β-catenin抗体购自美国Proteintech公司(#51067-2-AP)、兔抗人GAPDH抗体购自Proteintech公司(#10494-1-AP),BCA蛋白定量及ECL发光试剂盒购自碧云天公司，化学发光成像系统为美国Proteinsimple公司。
+
+# 1.3方法
+
+1.3.1骨髓单个核细胞分离取抗凝骨髓液 $2 { \sim } 5 ~ \mathrm { m l }$ ，淋巴细胞分离液分离单个核细胞，加TRIzol或蛋白裂解液提取RNA或蛋白。
+
+1.3.2实时定量PCR $1 \times 1 0 ^ { 7 }$ 细胞加 $1 ~ \mathrm { m l }$ TRIzol吹打混匀提取总RNA，紫外分光光度计检测RNA质量和浓度，按照逆转录酶试剂盒说明书中的步骤逆转录cDNA。PCR引物设计好后由广州Invitrogen公司合成，CDX2上游:5'-TTCACTACAGTCGCTACATCACC-3',下游： $5 ^ { \prime }$ -GCTGCAACTTCTTCTTGTTGATT-3',扩增片段 $1 4 1 ~ \mathrm { b p } ; \beta$ -catenin上游： $5 ^ { \prime }$ -TGCAGTTCGCCTTCACTATG-3',下游:5'-ACAGTCGTGGAATGGCACC-3',扩增片段 $1 6 2 ~ \mathrm { b p }$ ;内参基因GAPDH上游：5'-GTCAGTGGTGGACCTGACCT-3'，下游：5'-TGAGCTTGACAAAGTGGTCG-3',扩增片段212bp;。按SYBR?PremixExTaqTMII试剂盒说明书进行PCR反应,总体系 $1 0 ~ \mu \mathrm { l }$ ,其中SYBRPremix Ex Taq $\mathrm { I I } ( 2 \times ) 5 ~ \mu \mathrm { l }$ 上下游引物( $1 0 \mathrm { \ : \mu m o l / L } \rangle$ 各 $0 . 4 \mu \mathrm { l } , \mathrm { c D N A } 1 \mu \mathrm { l }$ ，灭菌蒸馏水 $3 . 2 ~ \mu \mathrm { l _ { \mathrm { o } } }$ PCR扩增条件： $9 5 ~ \mathrm { { ^ { \circ } C } }$ 预变性 $3 0 ~ \mathrm { s } , 9 5 ~ \mathrm { \textdegree } \mathrm { ~ S ~ s ~ }$ ，$6 0 \mathrm { ~ \textdegree C ~ } 3 0 \mathrm { ~ s ~ }$ ，共45个循环。计算 $2 ^ { - \Delta \mathrm { C T } }$ 值作为各标本mRNA相对表达量， $- \Delta C T =$ （目的基因CT值-内参基因CT值)。
+
+1.3.3Western blot取 $1 \times 1 0 ^ { 7 }$ 细胞，PBS洗涤后悬浮于RIPA裂解液冰上裂解 $3 0 \mathrm { m i n } , 1 0 0 0 \mathrm { r } / \mathrm { m i n }$ 离心 $1 0 \mathrm { m i n }$ 后取上清，BCA法测定蛋白浓度。取 $5 0 { \sim } 7 0 ~ \mu \mathrm { g }$ 总蛋白进行聚丙烯酰胺凝胶电泳，电转至PVDF膜。 $5 \%$ 脱脂奶封闭 $9 0 \mathrm { m i n }$ ，加入抗CDX2( $1 : 5 0 0$ 稀释） $\beta$ -catenin(1:1000稀释）GAPDH(1:1000稀释)一抗 $4 ^ { \circ } \mathrm { C }$ 孵育过夜，TBST洗涤后室温孵育二抗 $^ { 2 \mathrm { ~ h ~ } }$ ,TBST再次洗涤后
+
+ECL法显色。蛋白相对表达量 $\varXi$ 灰度值(母的蛋白)/灰度值(内参蛋白)。
+
+# 1.4 统计学处理
+
+采用SPSS17.0软件进行统计学分析。样本不符合正态分布，组间比较用Mann-WhitneyU检验,AML各亚型整体比较用Kruskal-WallisH检验，相关性分析用Spearman相关，高表达与低表达组间完全缓解率比较用x检验，初诊与治疗后的比较用配对的非参数分析。$P { < } 0 . 0 5$ 认为有统计学差异。
+
+# 2结果
+
+# 2.1RNA质量及方法可靠性分析
+
+所提RNA经分光光度计检测， $\mathrm { A _ { 2 6 0 n m } / A _ { 2 8 0 n m } }$ 值均在1.8\~2.0之间，纯度好，可用于定量PCR检测。熔解曲线分析显示，各基因PCR扩增产物熔解温度均一，熔解峰为锐利的单一峰，说明扩增产物均一，无非特异扩增及引物二聚体。
+
+# 2.2 CDX2、 $\beta$ -catenin基因在AML中的表达
+
+定量PCR法检测92例初发AML和30例非恶性血液病患者(对照)CDX2和β-catenin表达，CDX2mRNA在AML组的阳性率为 $8 4 . 7 8 \%$ ,对照组无1例者表达（2 $\scriptstyle ( Z = - 7 . 1 2 5 , P = 0 . 0 0 0 )$ 。 $\beta$ -cateninmRNA在两组均有表达，但AML组显著高于对照组 $\scriptstyle ( Z = - 6 . 2 2 2 , P = 0 . 0 0 1 )$ 。CDX2和 $\beta$ -cateninmRNA表达水平在AML各亚型间(除外M1)均无统计学差异( $\scriptstyle \phantom { + } ( P < 0 . 0 5$ ，表1)。
+
+收集到初发AML患者蛋白标本26例，非恶性血液病患者8例。Westernblot检测显示，AML组有20例标本可检测到CDX2蛋白表达，阳性率为 $7 6 . 9 2 \%$ ,对照组未检测到CDX2蛋白表达（ $\scriptstyle { Z = - 4 . 1 0 3 }$ ， ${ \cal P } \mathrm { = } 0 . 0 0 1$ ）。$\beta \mathrm { . }$ -catenin蛋白在两组均有表达，AML组显著于对照组（2号 $\scriptstyle ( Z = - 3 . 6 6 2 , P = 0 . 0 0 1$ ,表2、图1)。 $\beta$ -catenin、CDX2在蛋白水平的表达趋势基本与mRNA水平一致。
+
+$2 . 3 \ \mathrm { C D X 2 } . \beta$ -cateninmRNA表达与AML患者临床特征的关系
+
+CDX2mRNA表达与AML临床特征的关系基本与 $\beta$ -catenin一致,两者均与AML患者性别、年龄、骨髓幼稚细胞比例无显著性相关，与初诊时白细胞数、LDH水平呈显著正相关(表3)。这说明CDX2、 $\beta$ -cateninmRNA表达水平能反映白血病肿瘤负荷情况，肿瘤负荷越高， $\mathrm { C D X } 2 . \beta$ -cateninmRNA表达水平越高。
+
+# 2.4CDX2和 $\beta$ -cateninmRNA表达与AML患者疗效的关系及病程中动态观察
+
+可评估疗效的AML患者54例,CDX2mRNA表达阳性45例，阴性9例。45例阳性表达患者中首疗程完全缓解(completeremission,CR)31例,CR率为 $6 8 . 8 9 \%$ ；9例阴性表达患者首疗程CR7例，CR率为 $7 7 . 7 8 \%$ ,两组比较差异无统计学意义 $( \chi ^ { 2 } { = } 0 . 2 8 4 , P { = } 0 . 5 9 4 )$ 。
+
+表1CDX2和β-cateninmRNA在AML组和对照组中的表达Tab.1 Expressions of CDX2 and $\beta$ catenin mRNA in AML and control groups  
+
+<html><body><table><tr><td rowspan="2">Group</td><td rowspan="2">n</td><td colspan="2">Median (range)</td></tr><tr><td>CDX2 (x10-)</td><td>β-catenin (×10-4)</td></tr><tr><td>Control</td><td>30</td><td>0</td><td>84.92(23.39-238.48)</td></tr><tr><td>AML</td><td>92</td><td>50.34 (0-2475.49)*</td><td>248.63(64.34-2348.80)*</td></tr><tr><td>M1</td><td>1</td><td>256.62</td><td>987.55</td></tr><tr><td>M2</td><td>20</td><td>44.49(0-601.95)</td><td>191.79(91.63-980.73)</td></tr><tr><td>M3</td><td>9</td><td>93.93(0-237.78)</td><td>147.82(98.89-529.22)</td></tr><tr><td>M4</td><td>25</td><td>59.86(0-1138.97)</td><td>389.29(79.22-1538.93)</td></tr><tr><td>M5</td><td>22</td><td>60.03(0-2475.49)</td><td>249.65(66.16-2348.81)</td></tr><tr><td>M6</td><td>3</td><td>4.67(0-18.05)</td><td>115.18(94.20-156.25)</td></tr><tr><td>No-known type</td><td>12</td><td>21.57(0-601.95)</td><td>207.93(64.34-1582.20)</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 1$ us control group.
+
+表2CDX2和β-catenin蛋白在AML组和对照组中的表达Tab.2 Expressions of CDX2 and $\beta$ -catenin protein in AML andcontrol groups  
+
+<html><body><table><tr><td rowspan="2">Group</td><td rowspan="2">n</td><td colspan="2">Median (range)</td></tr><tr><td>CDX2</td><td>β-catenin</td></tr><tr><td>AML</td><td>26</td><td>0.37(0-0.67)*</td><td>0.74(0.31~1.18)*</td></tr><tr><td>Control</td><td>8</td><td>0</td><td>0.31(0.19-0.37)</td></tr></table></body></html>
+
+（204号 $^ { * } P { < } 0 . 0 1$ vs control group.
+
+![](images/e7ae20d27ff4d8a51271b6e0004241d7c54b410e429a229c72dabe54de22691a.jpg)  
+图1Western blotting检测AML组与对照组CDX2、 $\beta$ -catenin蛋白表达 Fig.1 Expressions of $\mathrm { C D } \mathrm { X } 2$ and $\beta$ -catenin protein in AML (P) and control (C) groups detected by Western blotting.
+
+配对分析同一AML患者初诊时和首疗程治疗后CDX2和 $\beta$ -cateninmRNA表达变化，共收集到符合标准的AML患者39例，首疗程达CR23例，未达CR16例(PR7例、NR9例)。患者获CR时CDX2mRNA下降至检测不到， $\beta \mathrm { . }$ -cateninmRNA表达下降至与对照组水平无显著差异（ $\scriptstyle { \cal Z = - 1 . 8 2 8 }$ $\scriptstyle P = 0 . 0 6 8 .$ ），而未获CR患者CDX2和 $\beta$ -cateninmRNA表达水平介于初诊和CR时之间(表4)。
+
+跟踪5例首疗程未达CR患者(初诊时CDX2均阳性），第二疗程均达CR，此时CDX2mRNA表达转阴，$\beta$ -cateninmRNA表达下降至与对照组水平接近。收集到复发标本2例，这2例患者初诊时CDX2均阳性，CR时CDX2mRNA表达转阴， $\beta$ -cateninmRNA表达显著下降，分别于诊断7、10个月后复发，复发时CDX2mRNA由阴转阳， $\beta \cdot$ -cateninmRNA表达显著升高。
+
+# 2.5AML中CDX2与 $\beta$ -catenin表达的相关性分析
+
+Spearman相关分析显示，无论在mRNA水平还是 蛋白水平，CDX2与 $\beta$ -catenin表达均呈显著正相关( $\stackrel { \cdot } { r } = \stackrel { \cdot } { \theta }$ $0 . 7 9 3 , P { = } 0 . 0 0 1 ; r { = } 0 . 8 0 4 , P { = } 0 . 0 0 1 )$ O
+
+# 3讨论
+
+CDX2基因属于尾型同源框基因家族中的一员，是一种转录因子，参与胚胎发育、造血调控等。CDX2最初在胚胎的3个胚层均广泛表达，以后逐渐集中在内胚层表达，从新生儿早期开始至整个成年期基本只表达于小肠和结肠,调控肠道组织发育[10]。CDX2基因表达下调与肠道肿瘤密切相关[2],被认为是肠道肿瘤的抑癌基因[11]。近年来的研究发现,急性白血病患者可检测到CDX2的异常表达，CDX2具有促进细胞增殖和克隆形成的作用,并可直接诱发小鼠AML[4-5]。由此可见，CDX2基因在不同细胞背景下功能不同[12-13],其在肠道肿瘤发病中起的是抑癌基因作用，而在AML发病中起的是原癌基因作用。 $\mathrm { { W n t / \beta } }$ -catenin通路是体内重要的信号转导通路，其异常激活与白血病发病相关。
+
+为研究CDX2表达上调与 $\mathrm { { W n t / \beta } }$ -catenin信号通路异常激活的相关性，本文分析了AML患者CDX2和$\beta$ -catenin基因的表达、临床意义、与疗效的关系，并观察了两基因在AML不同病程的表达变化。结果显示，$8 4 . 7 8 \%$ 的AML患者表达CDX2mRNA，而非恶性血液病对照无1例表达，与黎国伟等4报道的基本一致；同时
+
+表3 $\mathrm { C D X } 2 . \beta$ -cateninmRNA表达与AML临床特征的关系 Tab.3 Correlations of CDX2 and $\beta$ -catenin mRNAexpressions with clinical characteristics inAML patients   
+
+<html><body><table><tr><td rowspan="2">Clinical parameter</td><td rowspan="2">Median(range)</td><td colspan="2">CDX2</td><td colspan="2">β-catenin</td></tr><tr><td>r</td><td>P</td><td>1</td><td>P</td></tr><tr><td>Age</td><td>48 (9-87)</td><td>0.090</td><td>0.392</td><td>-0.079</td><td>0.471</td></tr><tr><td>WBC count (x10/L)</td><td>36 (1.3-401)</td><td>0.641</td><td>0.001</td><td>0.576</td><td>0.001</td></tr><tr><td>Platelet (×10'²/L)</td><td>38 (7-228)</td><td>0.118</td><td>0.514</td><td>-0.159</td><td>0.378</td></tr><tr><td>Hemoglobin (g/L)</td><td>67 (26-145)</td><td>0.225</td><td>0.152</td><td>0.338</td><td>0.055</td></tr><tr><td>LDH (U/L)</td><td>443.7 (117-3137.9)</td><td>0.563</td><td>0.001</td><td>0.367</td><td>0.001</td></tr><tr><td>Blasts in BM (%)</td><td>63.25 (20-96.5)</td><td>0.185</td><td>0.077</td><td>0.171</td><td>0.102</td></tr></table></body></html>
+
+表4初诊、首疗程治疗后及对照组 $\mathrm { C D X } 2 . \beta$ -cateninmRNA表达水平比较 Tab.4 Comparison of CDX2 and $\beta$ catenin mRNA expressions among new diagnosis,after first chemotherapy and control groups   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">Group</td><td rowspan="2"></td><td colspan="2">Median (range)</td></tr><tr><td>CDX2 (x10)</td><td>β-catenin (x104)</td></tr><tr><td>CR</td><td>New diagnosis</td><td>23</td><td>16.72 (0.00-2475.49)</td><td>128.69 (79.26-2348.81)</td></tr><tr><td rowspan="3">No CR</td><td>After first chemotherapy</td><td>23</td><td>0*</td><td>87.89 (16.09-193.70) *#</td></tr><tr><td>New diagnosis</td><td>16</td><td>53.87 (0.00-1138.97)</td><td>330.55 (91.63-1538.93)</td></tr><tr><td>After first chemotherapy</td><td>16</td><td>25.98 (0.00-141.39)</td><td>187.76 (71.89-551.69)</td></tr><tr><td>Control</td><td></td><td>30</td><td>0</td><td>84.92 (23.39-238.48)</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 1$ vs new diagnosis at the same group; $^ { \# } P > 0 . 0 5$ vs control group.
+
+AML患者有 $\beta$ -catenin的过度表达，且CDX2与$\beta \mathrm { . }$ -catenin无论在mRNA还是蛋白表达水平均呈显著正相关。在临床意义方面，CDX2与 $\beta \mathrm { . }$ -catenin基本相同，两者均与反映肿瘤负荷的指标如初诊时白细胞数、LDH水平呈正相关，而与性别、年龄、骨髓幼稚细胞比例无显著性相关。在基因表达与AML疗效方面，CDX2基因表达阳性与否对首疗程CR率无显著影响。CDX2与$\beta \mathrm { . }$ -catenin表达的动态变化均可反映疾病进程，当患者获得CR时，CDX2表达转阴、 $\beta$ -catenin下降至正常水平，复发时CDX2、 $\beta$ -catenin表达再次增高。CDX2与$\beta \mathrm { . }$ -catenin基因在AML中的临床意义、不同病程表达变化基本一致，这也从另一个方面反映了CDX2与$\beta \mathrm { . }$ -catenin之间存在相关性。两者之间究竟是怎样一种联系呢？查阅文献发现，在爪蟾胚胎和结肠腺癌细胞，$\mathrm { { W n t / \beta } }$ -catenin信号通路调控CDX2表达[15-16],AML细胞中CDX2基因表达上调是否是由 $\mathrm { { W n t / \beta } }$ -catenin异常激活引起的是我们下一步要研究的重点。
+
+另外，绝大部分AML患者表达CDX2基因，且CDX2表达在各亚型间无显著差异，提示CDX2基因有可能成为广谱的白血病标志物。正常人和非恶性血液病患者不表达CDX2基因，CDX2基因仅在白血病细胞表达，且其表达水平与肿瘤负荷密切相关，并随疾病病程呈动态变化，提示CDX2基因有可能成为监测白血病微小残留的指标之一，但尚需扩大标本量、定期检测CDX2表达(如每隔3个月）延长跟踪时间进一步观察。
+
+# 参考文献：
+
+[1]Werling RW,YazijiH,Bacchi CE,etal. CDX2,a highly sensitive and specific marker of adenocarcinomas of intestinal origin:an immunohistochemical survey of 476primary and metastatic carcinomas[J].Am J Surg Pathol,2003,27(3): 303-10.   
+[2]Hinoi T,Tani M,Lucas PC,et al.Loss of CDX2 expression and microsatellite instability are prominent features of large cell minimally differentiated carcinomas of the colon[J].Am JPathol, 2001,159(6):2239-48.   
+[3]Thoene S,Rawat VP,HeilmeierB,etal. The homeobox gene CDX2 isaberrantly expressed and associated with an inferior prognosis in patients with acute lymphoblastic leukemia[J].Leukemia,2O09,23 (4): 649-55.   
+[4]Scholl C,Bansal D,Dohner K,etal. The homeobox gene CDX2 is aberrantly expressed in most cases of acute myeloid leukemia and promotes leukemogenesis[J].J Clin Invest,2007,117(4):1037-48.   
+[5]Rawat VP, Thoene S,Naidu VM,et al. Overexpression of CDX2 perturbs HOX gene expression in murine progenitors depending on its N-terminal domain and is closely correlated with deregulated HOX gene expression in human acute myeloid leukemia[J]. Blood, 2008,111(1): 309-19.   
+[6]Smith K,Bui TD,Poulsom R,et al.Up-regulation of macrophage wnt gene expression in adenoma-carcinoma progression of human colorectal cancer[J].BrJCancer,1999,81(3): 496-502.   
+[7]Simon M,Grandage VL,Linch DC,et al.Constitutive activation of the Wnt/beta-catenin signalling pathway in acute myeloid leukaemia [J]. Oncogene,2005,24(14): 2410-20.   
+[8] Chung EJ,Hwang SG,Nguyen P, et al.Regulation of leukemic cell adhesion,proliferation,and survival by beta-catenin[J].Blood, 2002,100(3):982-90.   
+[9]Ysebaert L,Chicanne G,Demur C,et al. Expression of beta-catenin by acute myeloid leukemia cells predicts enhanced clonogenic capacities and poor prognosis[J].Leukemia,2006,20(7):1211-6.   
+[10]James R,Erler T, Kazenwadel J. Structure of the murine homeobox gene cdx-2.Expression in embryonic and adult intestinal epithelium [J].JBiol Chem,1994,269(21): 15229-37.   
+[11]Bonhomme C,Duluc I,Martin E,et al. The Cdx2 homeobox gene has a tumour suppressor function in the distal colon in addition to a homeotic role during gut development [J].Gut,2Oo3,52(10): 1465-71.   
+[12]Renouf B,Soret C,Saandi T,et al.Cdx2 homeoprotein inhibits non-homologous end joining in colon cancer but not in leukemia cells[J].Nucleic Acids Res,2012,40(8): 3456-69.   
+[13]Faber K,Bullinger L,Ragu C,et al. CDX2-driven leukemogenesis involves KLF4 repression and deregulated PPARγ signaling[J].J ClinInvest,2013,123(1):299-314.   
+[14]黎国伟,王东宁,叶玉蝶,等.急性髓细胞白血病CDX2基因表达及临 床意义的探讨[J].中华肿瘤防治杂志,2009,16(16):1253-5.   
+[15]Keenan ID, Sharrard RM,Isaacs HV.FGF signal transduction and the regulation of Cdx gene expression[J].Dev Biol, 20o6,299(2): 478-88.   
+[16]Blache P, Van De Wetering M,Duluc I,et al. SOX9 is an intestine crypt transcription factor,is regulated by the Wnt pathway,and represses the CDX2 and MUC2 genes[J].J Cell Biol, 2004,166(1): 37-47.
+
+（编辑：黄开颜）

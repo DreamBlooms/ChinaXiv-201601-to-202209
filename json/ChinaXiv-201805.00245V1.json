@@ -1,0 +1,716 @@
+[
+    {
+        "type": "text",
+        "text": "集群协同制造服务匹配策略的计算实验比较研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王纪才，薛霄",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(河南理工大学 计算机科学与技术学院，河南 焦作 454000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对如何准确评估各种服务匹配策略、选择出最优的服务策略，以实现集群协同制造过程中的动态环境下的服务供需匹配这一问题，提出了一种集群协同制造服务匹配策略计算实验方法。该方法从三个方面对集群协同制造服务匹配策略进行了深入研究，包括服务匹配策略的设计（只考虑服务资源QoS（qualityof service）属性变化的服务匹配策略、只考虑客户需求变化的服务匹配策略、综合考虑服务资源QoS属性变化及客户需求变化的服务匹配策略)、集群协同制造实验系统模型的构建、服务匹配策略的分析评估。实验结果表明，在供需稳定及供需波动的市场环境下，综合考虑服务资源QoS属性变化及客户需求变化的服务匹配策略表现最优，能够很好地实现动态环境下制造服务的供需匹配。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：集群式供应链；协同制造；服务匹配策略；客户需求；QoS属性；计算实验 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.08.0901 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Comparative research on computational experiment of service matching strategy in cluster collaborative manufacturing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Jicai, Xue Xiao (College ofComputer Science& Technology Henan Polytechnic University,Jiaozuo Henan 454oo0,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To evaluate various service matching strategiesaccuratelyforselectingthebestappropriate service strategy,and to achievete best service matching ofsupply anddemand in the dynamic process of cluster colaborative manufacturing,this paper proposed acomputational experiment method forthe service matchingstrategyof cluster collaborative manufacturing.it researched the service matching strategyofcluster collaborative manufacturing from thre aspects,which included the design ofservice matching strategy(service matching strategyonlyconsideringthechangeofQoS atribute ofserviceresource,service matching strategy onlyconsidering thechange ofcustomer demand,srvice matching strategyconsidering change ofustomer demand and QoS atribute ofservice resource）,theconstructionof experiment systemof clustercollaborative manufacturing, andtheexperimental evaluation analysis of service matching strategy.The experimentalresults show that service matching strategy considering change ofcustomer demand and QoS atribute of service resource is the best strategy which canachieve the service matching of supply and demand in the dynamic market environment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: cluster supply chain；collaborative manufacturing;service matching strategy;customer demand; QoS atribute computational experiment ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "配最优的服务。而服务匹配策略又在服务系统中处于核心地位，直接决定着系统运行的效果，因此，本文应当为服务系统选择合适的服务匹配策略。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“集群式供应链\"是产业集群和供应链的耦合[1],其服务系统是“一种实现企业目标的方法，通过信息技术来支持集群式供应链的运行，促成供应链内部或供应链之间的企业协同，以及实现协同的各种业务支撑\"2]。因此，作为集群式供应链管理的核心平台一服务系统，其核心功能在于：基于客户的需求来匹",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在现实环境中，集群协同制造模式下的服务供需匹配具有内在的复杂性：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a)候选服务的变化。系统中的候选服务是由集群内部或者外部的企业所提供，由于企业自身的成长性和自治性，其资源服务的QoS信息会不断地扩充和变化，例如业务种类的增加或者减少、业务能力的增强或者削弱等；由于集群式供应链的开放性，企业可以方便地加入或退出，这样会导致企业服务的数量也处于一个不断动态变化的过程中。另外，候选服务的某些QoS属性会随着当前运行状态的变化而变化，例如候选服务的“响应时间”会根据目前承担的任务而发生变化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)客户需求的变化。实际上，由于客户样本选择的局限性及客户需求的模糊性，想要给出符合客户实际需求的属性权重非常困难。现有的研究多是根据专家经验或者客户反馈给出各属性的权重值，并且假定这些值是固定不变的。但是，在集群式供应链中，不同客户的需求偏好差异很大，有的特别关注某些指标的实现，如价格、质量、成本等；有的则希望综合指标能够比较均衡；而且对于不同QoS属性的关注权重还会随着时间变化而不同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在实际应用中，上述这些变化因素会直接影响后续的服务匹配效果。因此，为了保证客户的满意度，服务系统需要不断地具有自我调整、自主进化的能力，能够实现对服务匹配方案的随需动态构建、调整和优化，从而更为有效地支撑集群制造企业间的协作。由于服务匹配策略在服务系统中处于核心地位，直接决定着系统运行的效果。因此，对服务匹配策略进行全面的测试评估，从而找到一种最优的服务匹配策略来实现动态环境下制造服务的供需匹配，以尽可能取得较高的客户满意度及服务资源的利用率，成为有必要的选择。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，集群协同制造的研究多是从业务运营（经济学[3]、管理学[4]和社会学[5]等）与服务支撑（服务封装[6]、组合[7]、系统[8]等）两个角度分别进行，而关于服务匹配策略整体性评估相关的研究较少，并且都集中在对特定环境下服务匹配策略实施结果进行评估总结[9-10]，评估指标依据一定时间周期内的用户满意度[11]和服务商满意度[12]等相关性能指标进行制定。由此可知，现有的方法是从客户或者服务提供者的角度出发，依据相关历史数据对服务匹配策略在特定场景下的服务性能进行评判。但是，集群协同制造服务系统是一个典型的复杂动态系统，其演化条件以及演化结果都存在大量的不确定性，并且各种突发状况难以进行预测，在实际环境中对服务策略进行全面的测试评估将很难实现。现有的方法大都是基于历史数据进行分析，无法对服务匹配策略进行全面评估，更不能对未发生的状况进行预测。因此，如何对集群协同制造服务匹配策略的效果进行全面评估就成为该领域亟待解决的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着复杂系统研究的不断发展，一种新兴的计算方法一计算实验应运而生。计算实验具有精确可控、易操作、以及可设计和可重复等特点，尤其适用于风险较大、成本较高或者现实中无法进行直接实验的一些系统的研究，包括交通系统、社会经济系统、供应链管理系统等[13]。因此，可结合集群协同制造的目标特征，运用计算实验的方法，设计出各种各样的实验方案，模拟多个实体博弈的复杂场景，在不同场景下对不同策略进行大量重复的实验，从而为服务匹配策略的评估提供决策依",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此，本文利用计算实验的思想，提出了一种集群协同制造服务匹配策略计算实验方法，该方法主要包括三个部分：a)服务匹配策略的设计。基于供需匹配的动态演化行为进行服务匹配策略设计；b)实验系统的构建。利用计算实验的方法来构建实验系统，从而来模拟不同的市场供需环境；c)服务匹配策略评估。利用计算实验的方法在不同环境中对于策略性能进行有效分析评估，最终找到表现最优的服务匹配策略,从而更好地实现动态环境下的制造服务供需匹配。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 集群协同制造服务匹配策略计算实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出的集群协同制造服务匹配策略计算实验方法如图1所示，下面将对该方法进行详细的介绍。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4f08c2ba6c1e18c4c26cbfb5840303bbada915cec29e7f8a2d61c4c7038fd88.jpg",
+        "img_caption": [
+            "图1集群协同制造服务匹配策略计算实验方法"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1服务匹配策略设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，针对制造服务供需匹配的需求和特点，学术界对制造服务供需匹配的求解方法开展了大量研究，主要分为以下几类：基于模板／本体和关键字的方法[14,15]；基于流程驱动的方法[16,17]；基于人工智能和规划的方法[18,19]；基于服务组合的方法[20,21]等。上述研究大部分都主要针对某个时刻的供需匹配问题进行研究并给出求解方案，其假定客户的需求及候选服务资源是固定不变的。但是，在集群协同制造中，企业服务的提供来源具备社会性，而这种社会性加剧了服务供应的多样性、不确定性和动态性。此外，在企业协同的过程中，企业服务动态加入和退出，服务状态、服务质量、服务资源自身的QoS属性、服务间的关联关系也在随机地动态变化；同样，需求的提交与撤销、功能需求、流程需求、复杂需求所对应的子任务间的关系等也在随机地动态变化。因此，解决复杂动态环境下企业服务的实时匹配问题，将是集群协同制造服务系统成功运行的关键。为了达到所预期的协作目标，就需要针对上述问题设计出合适的服务匹配策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此，本文对集群协同制造服务匹配策略进行了三种设计：a)只考虑服务资源QoS属性变化的服务匹配策略：将QoS属性的更新机制作为服务系统的一部分，从而确保服务方案中候选服务的QoS属性的有效性；b)只考虑客户需求变化的服务匹配策略：在服务系统匹配与客户相应的对服务的评价之间建立一个反馈循环，采用机器学习中的各种进化算法(本文采用的是BP神经网络算法)来学习训练客户的反馈评价数据，从而调整系统的客户QoS需求模型参数，消除系统“假定QoS需求模型”与“客户实际需求”之间的偏差，进而匹配的方案能够持续符合客户的预期目标；c)综合考虑服务资源QoS属性的变化及客户需求变化的服务匹配策略。三种服务匹配策略的具体内容将在第2节中详细给出。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2实验系统构建",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "集群协同制造是具有自组织和协同演化特征的复杂网络，某个节点出现无序或延迟对接，可能会引起整个生态系统的变化，从而使既定的系统运营策略发生失效。由于集群协同制造生态系统演化的初始条件、外部环境和内部要素都存在大量的不确定性，并且各种极端和突发情况难以复制，所以很难在现实环境中对其服务匹配策略进行研究。为了对集群协同制造的服务匹配策略进行定量化分析，需要提出新的实验验证方法，能够模拟生态系统在不同场景和不同策略下的演化过程，对匹配策略实现全面准确的定量分析，从而为集群协同制造的可控演化研究提供技术手段。因此，本文提出采用计算实验的方法来构建实验系统。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文计算实验模型的构建，采用Multi-Agent建模方法，从服务供应方和服务需求方两个方面进行建模。Multi-Agent建模是一种基于Agent的建模方式，“自上而下”地对现实系统进行抽象建模，将其看做是由多种主体Agent构成的系统，其中每一个主体都是一个独立的 Agent，能够进行自主决策、与其他Agent交互，从而构建出由多种Agent有机组成的复杂系统。在现实系统中，客户根据自己的需求偏好来选择相应的服务，因此，在理论模型中，本文将系统中直接参与交易活动的主体抽象出来构成两类主体 Agent，包括服务提供商 Agent 和客户Agent，即分别对应现实系统中的服务供应方和服务需求方。具体的建模将在第3节中给出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3服务匹配策略评估",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文利用计算实验的方法对所设计的服务匹配策略进行全面评估，最终找到表现最优的服务匹配策略。而为了利用计算实验提供的数据来评估各种服务匹配策略的性能，本文需要以定量的方式进行评估。一般地，通常将客户满意度、所有服务商的平均资本作为性能评价指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = { \\frac { A } { B } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "客户的满意度 $s$ 用来评估服务系统所匹配的服务方案是否能够正确地为服务对象提供服务。其中， $A$ 代表所有客户中对系统匹配的服务评价为满意的数量； $B$ 代表客户的总数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA \\nu e r a g e C a p i t a l = \\frac { K } { M }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所有服务商的平均资本AverageCapital可用来反映系统服务匹配策略对服务资源利用率的影响。好的服务匹配策略，所有的服务商都有被选中的概率，服务资源的利用率更高；不好的服务匹配策略，会导致其他服务质量较优的企业被忽视，造成资源闲置浪费且企业资本得不到更新。其中， $K$ 代表所有服务商的资本值之和； $M$ 代表服务商的个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 服务匹配策略的设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1只考虑服务资源QoS属性变化的服务匹配策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "只考虑服务资源QoS属性变化的服务匹配策略（本文简称",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Supply-SM)的思想是：服务系统在根据客户的需求匹配服务之前，需要对内部企业服务的QoS属性信息进行更新，从而保证所匹配的服务方案及时有效。依据企业服务资源QoS属性的特点可将其分为状态属性和特征属性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)状态属性。这类QoS属性与企业服务当前运行状态直接相关，会直接影响后续的服务匹配，主要包括服务价格、企业资本值、企业最大产能等。因此，服务系统要随时检测企业服务的这些属性是否发生变化，若变化，则可通过其相应服务组件的触发机制通知服务系统进行更新，从而为后续的服务匹配做好准备。本文的服务状态更新规则如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae7145613fc32b061bec8cec483a8554e95bdd09652822a4dac89da58de6716b.jpg",
+        "table_caption": [
+            "表1服务属性更新"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>决策</td><td colspan=\"3\">解释</td></tr><tr><td rowspan=\"2\">服务价格 Price (t)</td><td colspan=\"3\">根据自己的利润收入状况，每隔一定周期调整一次自 身价格：</td></tr><tr><td>调整价格的基准值，其大小通常设定为平均价格的</td><td>[Price(t) + Ris * Benchp；sales volume ≥ average Sale Price(t +1)={Price(t)-Risk * Benchp；sales volume ≤average Sale [Price(t); 其中，Risk 为服务提供商的风险偏好系数，Benchp 为</td><td>&itemprofit ≤average Profit & item profit ≥ average Profit other cases</td></tr><tr><td>资本值 Capital (t）</td><td>资本值：</td><td>根据自己的利润情况，每隔一定周期调整一次自身的 Capital(t) + 1；item profit>average Profit Capital(t +1) =Capital(t)-1；item profit <average Profit</td><td>利润；averageprofit为该类服务商的平均利润。</td></tr><tr><td>产能 Capacity(t)</td><td>(Capital(t): 的资本值。 表示初始时刻的服务商资本值；服务商的最大产能与</td><td>其中，item profit为该服务商的利润；average profit为 该类服务商的平均利润。Capital(t)表示服务商t时刻 每隔一定周期，调整一次产能，调整规则如下： Capacity(t)=Capacity(O)* Capital(t)/ Capital (0) 其 中，Capacity(t)表示服务商在t时刻的最大生产能力， Capacity(O)表示初始时刻的服务提供商最大生产能 力,Capital(t)表示t时刻的服务商的资本值，Capital(0)</td><td>other cases</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)特征属性。这类QoS属性与服务当前运行状态无直接关联，其变化主要受企业自身变化的影响，发生的频率相对较低。主要包括产品质量、性价比、企业信誉等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了更加具体地阐述客户的需求及供应侧的企业服务，本文用如下形式对它们进行描述：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）客户需求 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "客户需求可以形式化描述为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$U s e r \\_ R e q \\ = < C a t e g o r y , P r o f i l e . I n p u t s O u t p u t s Q o S \\ >$ 其中，Category表示服务所属的服务类别；Profile表示服务概貌信息,包括服务名称Name和服务描述信息Description;Inputs为客户需求的输入变量集合；Outputs表示客户需求的输出变量集合；QoS即客户对所需服务的服务质量要求。客户对服务的需求,也就是客户如何对服务进行QoS评价的问题，如式（3)所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { Q o S ( U s e r ) = \\left[ s q 1 , s q 2 , s q 3 . . . . . . . s q n \\right] } } \\\\ { { f _ { { \\scriptscriptstyle { u s e r } } } ( Q o S ) = w { _ { 1 } } ^ { * } s q 1 + w { _ { 2 } } ^ { * } s q 2 + w { _ { 3 } } ^ { * } s q 3 + . . . . . . . w { _ m } ^ { * } s q _ { m } } } \\\\ { { C o n s t r a i n s : w { _ 1 } + w { _ 2 } + w { _ 3 } + . . . w { _ m } = 1 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\left[ s q 1 , s q 2 , s q 3 . . . . . . s q _ { m } \\right]$ 表示客户对于服务所要求的服务质量属性， $[ w _ { 1 } \\mathbf { . } w _ { 2 } \\mathbf { . } . . . . . w _ { m } ]$ 表示客户对每一个服务质量属性的偏好权重， $f _ { u s e r } ( Q o S )$ 表示客户对于服务的QoS评价公式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）企业服务",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "企业服务可以形式化描述为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE S = < C a t e g o r y , P r o f i l e { \\mathrm { J } } O Q o S >\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\phantom { } _ { E S }$ （Enterprise Service）表示候选的企业服务，Category表示候选服务的所属服务类别，Profile表示候选服务的概貌信息， $I O$ 表示候选服务的输入输出接口，QoS表示候选服务的服务质量指标。服务系统的功能就是从这些候选的企业服务中，根据所假定的客户需求模型 $f _ { s y s t e m } ( Q o S )$ ，找出QoS评价值最高的服务路径。式(4)给出了系统假定的客户需求模型 $f _ { s y s t e m } ( Q o S )$ 其中 $s q _ { i }$ 表示服务方案的第 $i$ 个服务质量属性， $s _ { i }$ 表示系统假定用户对第 $i$ 个服务质量属性的偏好权重。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { s y s t e m } ( Q o S ) = s \\mathbb { 1 } ^ { * } s q \\mathbb { 1 } + s \\mathbb { 2 } ^ { * } s q \\mathbb { 2 } + s \\mathbb { 3 } ^ { * } s q \\mathbb { 3 } + . . . . . . + s m ^ { * } s q m\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Supply-SM策略的实现过程主要如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：需求队列 $N$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输出：每个需求所对应的服务匹配方案",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1根据计算实验初始参数，分析当前需求，构建客户的QoS 需求模型2功能性的匹配  \n服务系统接到每一个服务需求时，首先进行功能性的匹配，即服务类别、服务名称、服务描述，及输入输出的匹配。  \n3 候选服务的状态属性更新  \n每隔一定的周期，更新一次候选服务的QoS状态属性。  \n4按客户的QoS需求模型匹配服务  \n按客户QoS需求模型进行候选服务路径寻优，将QoS值最大的前 $N$ 个服务方案作为匹配列表。  \n5 循环执行，处理下一个需求  \n继续下一个服务需求，循环执行1\\~4。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2考虑客户需求变化的服务匹配策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在现实的市场环境中，对于客户来说，其对于QoS属性（如企业产品的质量、价格等）的偏好会随着时间而发生改变，这在现实中是很常见的情况。为了确保服务匹配的有效性，服务系统需要把依据客户的偏好而构建的QoS需求模型进行不断调整，这样才能得到较好的客户反馈。因此，本节的策略是考虑客户需求变化的服务匹配策略，该策略在调整客户需求模型时的主要思想是：在服务系统匹配与客户评价之间建立了一个反馈循环，将客户对服务的评价作为服务系统反馈学习的训练数据，采用BP神经网络技术来消除系统中“假定需求模型”$f _ { s y s t e m } ( Q o S )$ 与“客户实际需求” $f _ { u s e r } ( Q o S )$ 之间的偏差，从而使服务系统能够根据客户的反馈信息实时调整需求模型，进而所匹配的方案能够持续符合客户的预期目标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步细分“考虑客户需求变化的服务匹配策略”，又将其分为两种策略：a)只考虑客户需求变化的服务匹配策略（本文简称Dem-SM);b)在a)的基础上进一步考虑服务资源QoS属性的变化(本文简称 SuppDem-SM)。Dem-SM 策略和 SuppDem-SM策略的实现过程如图2中所示的步骤。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c87f912a370441f707d8fb226f2a3f115f7de581689ab03d2739990b1d0981b8.jpg",
+        "img_caption": [
+            "图2Dem-SM策略和 SuppDem-SM策略的实现过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2中的具体的步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：需求队列 $N$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输出：每个需求所对应的服务匹配方案",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1根据计算实验初始参数，分析当前需求，构建客户的QoS需求模型2功能性的匹配",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "服务系统接到每一个服务需求时，首先进行功能性的匹配，即服务类别、服务名称、服务描述，及输入输出的匹配。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3候选服务的状态属性更新",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每隔一定的周期，更新一次候选服务的QoS状态属性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4按客户的QoS需求模型匹配服务 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按客户QoS 需求模型进行候选服务路径寻优，将QoS 值最大的前 $N$ 个服务方案作为匹配列表。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5客户选择评价服务",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "客户对系统匹配的服务进行评价，若在固定的一段周期内（本文为12个周期）客户的满意度小于系统预设的满意度阈值(本文为0.9)，则转到Step6；否则转到7。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6机器学习 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将匹配列表中的服务与客户相应的反馈评分作为新的历史记录，转换为新的样本集合,采用一维向量[qi、q、、qm:E]来表示，qi、q2、$\\pmb q _ { m }$ 为服务的QoS 属性值， $\\pmb { \\cal E }$ 为客户的相应评价。利用BP 神经网络算法来训练学习这个新的样本集合，即将服务的QoS属性值作为输入，其相应的客户评价作为输出。通过训练后，更新系统设定的QoS需求模型参数。系统按照新的QoS需求模型进行服务匹配。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7循环执行，处理下一个需求",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "继续下一个服务需求，循环执行1-6。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验系统构建",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1搭建平台模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验在RePastSimphony仿真平台上进行了模型的构建，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RePast是在Java环境下建立基于Agent模型的计算机仿真的平台，由著名的芝加哥大学社会科学计算实验室开发的复杂系统建模软件[22]。本文计算实验系统运行的过程如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0889bb6174eb29f18e25fa694a770a3baa8ca038e1a39676b926346bf71f2623.jpg",
+        "img_caption": [
+            "图3计算实验系统运行过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文假定客户的需求需三个环节的服务提供商提供服务才能完成，如图3中的绿色地图上的环节1、环节2、环节3所示，其中蓝色方块表示客户Agent，三种不同的红色形状代表三种提供不同类型服务的服务提供商Agent，每个服务商都拥有自己的生产能力与相应的状态属性。客户Agent与三个环节的服务提供商Agent的具体的交互过程为：首先，客户Agent根据自身的需求寻找环节1中的服务提供商Agent并移动到该位置。其次，当环节1中的服务提供完成后，环节1提供服务的服务提供商Agent产生二级订单即客户Agent开始寻找下一类型的服务并移动到相应的位置，本文是环节2。再次，当环节2中的服务提供完毕后，环节2提供服务的服务提供商Agent产生二级级订单，开始寻找环节3中的服务。最后，当环节3中的服务提供完成后，本轮的客户Agent消亡，然后系统从新产生下一轮的客户Agent 即重新产生新的客户需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2服务提供商Agent模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "服务提供商Agent采用式（5）所示的结构，其由一组与时间 $\\mathbf { \\chi } _ { t }$ 相关的属性来描述，包括特征属性 $F$ 、状态属性 $S _ { t }$ 、感知事件 $E _ { t }$ 、行为集合 $V _ { t }$ 、决策机制 $Y _ { t \\circ }$ 具体的每个部分的细节如下所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA g e n t = < F , S _ { t } , E _ { t } , V _ { t } , Y _ { t } >\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "服务提供商的特征属性 $F$ ：其与服务当前的运行状态无直接关联，其变化主要是受企业自身变化的影响，其发生的频率相对较低，服务提供商Agent的主要特征属性如表2所。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab8a93539b7bb6bf6141af29f0615da29d585244609654639bde8f980fc35922.jpg",
+        "table_caption": [
+            "表2服务提供商Agent的特征属性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">特征属性 解释</td></tr><tr><td></td><td>Risk 的取值范围为[0,1],会影响服务提供商Agent</td></tr><tr><td>风险偏好系</td><td>对服务价格的调整范围，Risk大，服务提供商对</td></tr><tr><td>数Risk</td><td>于服务价格的调整幅度较大；Risk小，服务提供</td></tr><tr><td></td><td>商对于服务价格的调整幅度较小。</td></tr><tr><td>运营成本 costR</td><td>costr表示企业自身经营过程中所需要的成本。</td></tr><tr><td>企业信誉度</td><td>reputation=<rp,rP2..rpn>代表服务商的企业</td></tr><tr><td>reputation</td><td>信誉度。</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "服务提供商的状态属性 $S _ { t } \\mathrm { ; }$ 其在运行过程中不断发生变化，主要反映当前Agent的状态，其主要状态属性如表3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5eebdddb1053725777f840121fd0740a237ac8176c0a4bfd54b7aa798c782803.jpg",
+        "table_caption": [
+            "表3服务提供商Agent 的状态属性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>状态属性</td><td>解释</td></tr><tr><td></td><td>代表某个服务商在运行周期内被客户选择的总次</td></tr><tr><td>企业销售量</td><td>数，部分客户将企业销售量作为是否选择某个服务</td></tr><tr><td>Salecount (t)</td><td>商的一个因素。企业销售量根据客户选择次数不断</td></tr><tr><td></td><td>累加。</td></tr><tr><td>服务价格</td><td>代表服务商会根据自身的利润状况而适当的改变服</td></tr><tr><td>Price (t)</td><td>务价格。</td></tr><tr><td>企业资本值</td><td>Capital（t）会随着服务商自身利润的变化而适当的 调整。并且，大型企业的资本值>中型企业的资本值></td></tr><tr><td>Capital (t)</td><td>小型企业的资本值。</td></tr><tr><td>最大产能</td><td>Capacity(t)表示服务商单位时间内的最大生产能力，</td></tr><tr><td>capacity</td><td>决定了完成订单所需要的时间，一般来说，大型企</td></tr><tr><td>(t）</td><td>业的产能>中型企业的产能>小型企业的产能。</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "感知事件 $E _ { t }$ ：Agent感知到的、对其状态及行为会产生刺激作用的外在事件集合。服务提供商Agent的感知事件如表4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/baee74a9b7e7361c11c1e248ad2239016228f3e368fb54a2eb15335f14f4ea37.jpg",
+        "table_caption": [
+            "表4服务提供商Agent 的感知事件"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>感知事件</td><td>解释</td></tr><tr><td>对客户需</td><td>在服务商不变的情况下，这里设置需求场景有两种</td></tr><tr><td>求的感知</td><td>情况：需求稳定和需求波动的情况，由正太分布函</td></tr><tr><td>Order (t)</td><td>数Y~N(μo2)确定，这样更有利于对不同的服务运</td></tr><tr><td></td><td>行策略进行全面的分析评估。</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "行为集合 $V _ { t }$ ：服务提供商Agent根据其属性、可获取的资源和局部环境，自发采取的、以及受外在事件刺激采取的所有行为集合。服务提供商Agent的主要行为集合如表5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/149b9802d07b3cdd33b35ff8ea336d3afe6a295993259bff0b3fdf011e265580.jpg",
+        "table_caption": [
+            "表5服务提供商Agent的行为集合"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">行为</td></tr><tr><td>产生二</td><td>解释 TwOrder代表当客户的订单需要不同类型的服务商提供 服务才能完成时，那么完成其中一个类型服务的服务商 其会产生相应的二级订单来寻找下一类型的服务，以此 类推，直至客户的订单协同完成结束。二级订单TwOrder 的订单量与客户初始的订单量相同，且寻找服务时的规</td></tr><tr><td>级订单 TwOrder</td><td>则与客户初始寻找服务的规则相同： (fTwOrder(Qos)= fsystem(QoS); TwOrder=Order;</td></tr><tr><td>利润 分配</td><td>其中，Order代表客户初始订单量，fsystem（QoS）代表客 户初始的寻找服务的规则即系统的QoS需求模型。 frwOrder（QoS）代表二级订单的寻找服务时的规则。 为了便于研究，本文客户的需求即为客户一个订单的总 利润。由于服务类型的不同，每种类型的服务从客户订 单中所获得的利润也不同，一般主导企业获得的利润较 高。可用下式来表示利润分配规则： Overall Pr ofit = l1* Overall Profit + 2*Overall Profit +.,+nOverall Pr ofit OverallProfit代表总的利润。λm(l≤m≤n)代表第m个 企业的利润分配比例。</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "决策机制 $Y _ { t }$ ：表示服务提供商Agent在运行过程中，会根据外界环境及自身条件的变化调整自身决策，指导下一步的行动。服务提供商Agent的决策机制如表6所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b8672cc1fcd37feb2e7e0207eb3b9906fb0a96bd7db9d5e6c1a6e2b87cd9814.jpg",
+        "table_caption": [
+            "表6服务提供商Agent的决策机制"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">决策</td></tr><tr><td>价格调整 行调整。</td><td>解释 根据自身利润状况或客户需求，每32个周期调整 一次价格。调整规则按表1中的价格调整公式进</td></tr><tr><td>资本值</td><td>每32个周期调整一次服务商的资本值。调整规则</td></tr><tr><td>调整</td><td>按表1中的资本值调整公式进行调整。</td></tr><tr><td rowspan=\"5\">生命值 调整</td><td>每32个周期，服务商调整一次生命值，调整规则</td></tr><tr><td>如下： Life(t)=Life(O)*Capital(t)/Capital(O)</td></tr><tr><td>其中Life(t)表示该服务商t时刻的生命值；Life(0)</td></tr><tr><td>表示该服务商生命值的初始值，Capital(t)表示t时 刻的服务商的资本值，Capital(O)表示该服务商资</td></tr><tr><td>本值的初始值。</td></tr><tr><td>产能调整</td><td>每32个周期，服务商调整一次产能，调整规则按 表1中的产能调整公式进行调整。</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3客户Agent模型",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作为市场中的主体，客户是服务的受益者，且其在服务选择中起着决定性的作用，客户Agent的模型组成部分根据其自身特点也采用式（5）所示的结构中的一部分进行描述。影响客户选择服务的自身特征属性 $F$ 有：经济实力、行业等。客户Agent的状态属性 $S _ { t }$ 有个人偏好、订单量等。客户Agent 根据感知到的信息，即根据自身的信息、服务属性及属性变化和外部环境的影响，作出决策：根据自己偏好选择服务并作出评价。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "行为集合 $V _ { t }$ ：客户Agent根据其属性、可获取的资源和局部环境，自发采取的以及受外在事件刺激采取的所有行为集合。客户agent的主要行为集合如表7所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b218ab42d71215c135c12029b5214c66728dabb65b5bd3f215e784ebeaf8949.jpg",
+        "table_caption": [
+            "表7客户agent行为集合"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>行为 解释</td><td></td></tr><tr><td>选择</td><td>客户Agent在系统环境中根据自身的需求来选择相应的</td></tr><tr><td>服务</td><td>服务。</td></tr><tr><td rowspan=\"2\">移动</td><td>在系统环境中，客户Agent选择服务，同时会移动到该</td></tr><tr><td>服务相应的位置，以表示订单的流动。</td></tr><tr><td rowspan=\"4\">评价 服务</td><td>客户对已选择的服务作出评价。评价公式为：</td></tr><tr><td>fuser(SCRi)=w1*sq1+w2*sq2+..+Wm*sqm wi表示系统假定的客户对第i个属性的偏好权重。sqi表</td></tr><tr><td>示某个服务的属性值。本文假定客户只对企业信誉度和</td></tr><tr><td>服务价格这两个QoS属性感兴趣，在评价公式的基础 上，分别对应着不同的评价规则。具体的评价规则将在</td></tr><tr><td rowspan=\"4\"></td><td></td></tr><tr><td>第4节中的实验参数设置中给出。</td></tr><tr><td>当客户的需求完成后，其会在系统环境中消失。然后系</td></tr><tr><td>统重新产生新的客户Agent</td></tr><tr><td>消亡</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 服务匹配策略的计算实验评估",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验主要是：需求稳定及需求波动两种情景下综合评估上",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "文所提到的三种服务匹配策略Supply-SM、Dem-SM、SuppDemSM在处理客户需求序列时的性能差异，确定最优匹配策略。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1计算实验环境及模型参数设置",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了使实验结果更具有参考价值，本文实验参数设置以我国 2016 年国家工业生产者中制造业出厂价格指数、购进价格指数与商品零售价格指数[23]为基础，构建了一个与真实情况相似的集群协同制造生产环境，具体的参数设置如表8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffe675d4d742949517046d03d7388f6004a2ac80394fbb2ad462d03c6d21e3cb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">表8实验参数设置</td></tr><tr><td>系统变量</td><td>实验设置</td></tr><tr><td>实验环境大小</td><td>260*120</td></tr><tr><td>协同制造环节</td><td>3</td></tr><tr><td>客户数量</td><td>每个需求序列内的客户数量都为20</td></tr><tr><td>服务商数量</td><td>每个环节提供服务的商家都设置为 30</td></tr><tr><td>企业运营成本</td><td>固定值6</td></tr><tr><td>服务价格</td><td>初始时随机分配（10-11)，然后根据服务商的 利润收益进行更新</td></tr><tr><td>服务商信誉度</td><td>随机分配（1-4)；其中 Reputation={1(差),2(一 般),3(高),4(非常高)}</td></tr><tr><td>服务商资本值</td><td>大规模服务商资本值（8-9)，中等规模服务商 资本值(5-7)，小规模服务商资本值（3-4) 大规模企业生命值为(8-9)，中等规模企业生</td></tr><tr><td>服务商生命值</td><td>命值为（5-7)，小规模企业生命值为（3-4）初 始值都是中等规模7.当企业的生命值为0时则 倒闭</td></tr><tr><td>服务商最大产能</td><td>随机分配，小型企业[6,20]、中型企业[20,40]、 大型企业[40,60]</td></tr><tr><td>每个需求序列内</td><td>这里设置需求场景有两种情况：需求稳定和需 求波动，由正太分布函数Y~N(μ,σ2)确定。</td></tr><tr><td>的每个客户的需</td><td>这里将需求基准值设定为50，波动程度由σ</td></tr><tr><td>求数量</td><td>来确定。其中，需求稳定情景下的波动方差σ =5，需求波动情景下的g²=15</td></tr><tr><td></td><td>初始为0，运行过程中对系统匹配的服务进行 评价。本实验的客户评价公式为</td></tr><tr><td></td><td>Rating = w1 * price + w2* reputation 其中，price代表服务价格，reputation代表企</td></tr><tr><td></td><td>业信誉度，wi代表属性权重且wi+w2=1。由于</td></tr><tr><td></td><td>本文假定客户只对服务提供商的服务价格和企</td></tr><tr><td></td><td>业信誉度这两个属性感兴趣，则本文规定如</td></tr><tr><td></td><td>下：Wi的取值为0.3或者0.7，初始时随机而</td></tr><tr><td></td><td>定，每32个周期改变一次Wi的值。并且当</td></tr><tr><td></td><td></td></tr><tr><td></td><td>Wi=0.3，则客户偏好企业信誉度；Wi=0.7时，</td></tr><tr><td></td><td>则客户偏好服务价格。当客户进行评价时，首</td></tr><tr><td>服务评价</td><td>先会根据w的值来选择相应的评价规则。具体</td></tr><tr><td></td><td>的评价规则为：</td></tr><tr><td></td><td>①对于偏好服务价格的客户评价如下：</td></tr><tr><td></td><td>[1；Rating=[7.6,8.9]&10 ≤price ≤11</td></tr><tr><td>Rating =</td><td>0.8；Rating=[8.3,9.6]&11<price ≤12</td></tr><tr><td></td><td>2</td></tr><tr><td></td><td>0.5；Rating=[9,10.3]&12<price ≤13</td></tr><tr><td></td><td>[0.3; othercase</td></tr><tr><td></td><td>对于偏好企业信誉度的客户评价如下：</td></tr><tr><td>Rating=</td><td>1；Rating=[5.8,7.3] & reputation = 4</td></tr><tr><td></td><td>0.8；Rating=[5.1,6.6]& reputation = 3 0.5；Rating=[4.4,5.9]& reputation = 2</td></tr><tr><td></td><td>[0.3; othercase</td></tr><tr><td></td><td>输入层节点数：3（输入企业服务的3个QoS</td></tr><tr><td></td><td></td></tr><tr><td>BP神经</td><td>指标：服务价格、企业信誉度、服务商最大产</td></tr><tr><td></td><td></td></tr><tr><td>目标次数：7000.</td><td></td></tr><tr><td>网络参数 值)；隐含层节点数：10；学习率：0.25；训练</td><td>能)；输出层节点数：1（输出客户服务评价</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2实验结果对比分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "规定客户需求偏好每32个周期发生一次改变。为了便于研究，在前32个周期时，使服务系统在三种服务匹配策略下为客户匹配的方案都能令其完全满意，实验系统运行周期设定为128。图4和5分别反映了在市场需求稳定及市场需求波动两种情景下系统运行结束后三种策略的总体演化情况，本文以图中客户需求区形状颜色的变化（由蓝色变为绿色）来反映客户需求偏好的变化，以地图上三个环节中的形状的变化来反映服务提供商资本值的变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/93ec59eee9c2a666ccdbd252d6d4b222b139ef13d7f719cd2df0dba6d271e577.jpg",
+        "img_caption": [
+            "图4市场需求稳定场景下三种匹配策略的演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e21b75e8be1a92b05385e6710ccb4128a16453fc740c77b790c7d3c598528bda.jpg",
+        "img_caption": [
+            "图5市场需求波动场景下三种匹配策略的演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图4和5中可以直观地看到，在需求稳定和需求波动这两种场景中，随着实验周期的增加，客户的需求偏好发生变化，两种场景中的三种服务匹配策略下的服务商的资本值也逐渐发生变化，但是，从整体的服务商的平均资本值来看，两种实验场景中，SuppDem-SM策略下的服务商的平均资本值要明显优于Dem-SM和Supply-SM这两种策略下的平均资本值。而DemSM和Supply-SM这两种策略下的服务商的平均资本值相差不大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "两种市场需求场景下的实验结果如图6所示。左列表示市场需求稳定情景下的三种策略的实验结果对比，右列表示市场需求波动情景下的三种策略的实验结果对比。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/98aa538d3d4345c19836105047391349eeca9f7eafea6fbd9fe0aac538ada8d8.jpg",
+        "img_caption": [
+            "图6两种场景下的三种匹配策略的演化实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图6中可得出如下结论：a)两种需求场景下的三种策略的服务商的平均资本值方面如图6a-2和图6b-2所示。从整体来看，随着处理的客户的需求的增多，无论在哪种需求场景下，SuppDem-SM策略的服务商的平均资本明显优于Dem-SM策略与 Supply-SM策略的服务商的平均资本。这说明SuppDem-SM策略的资源利用率要比其他两种策略的高，更适合企业规模的发展;b)两种需求场景下的三种策略的客户满意度方面如图6a-3和图6b-3所示。随着客户的需求偏好和服务商属性的同时变化，两种场景下的三种服务匹配策略下的客户满意度比例开始出现一定的波动性变化，但是，从整体的客户满意度比例来看，SuppDem-SM策略的客户满意度比例要略优于Dem-SM策略及Supply-SM策略;c)总的来说，在服务匹配方面，SuppDem-SM策略的效果要优于其他两种策略。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了更好地实现动态环境下制造服务的供需匹配，本文提出了一种集群协同制造服务匹配策略的计算实验方法，该方法主要包括三个部分：a)服务匹配策略的设计。本文构建了三种服务匹配策略：只考虑服务资源QoS属性变化的服务匹配策略、只考虑客户需求变化的服务匹配策略、综合考虑服务资源QoS属性的变化及客户需求变化的服务匹配策略；b)实验系统的构建。利用计算实验的方法来构建集群协同制造实验系统，从而来模拟不同的市场供需环境；c服务匹配策略评估。根据构建出的集群协同制造实验环境，分别在供需平衡及供需波动两种市场环境下，对三种服务匹配策略进行有效分析评估，从而为策略选择提供决策支持。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明，在供需稳定及供需波动的市场环境下，综合考虑服务资源QoS属性变化及客户需求变化的服务匹配策略表现最优，能够很好地实现动态环境下的制造服务的供需匹配。与传统的评估方法相比，本文所提出的计算实验方法更能对服务匹配策略进行全面的评估，从而更好的为服务提供方及服务需求方带来方便和利益。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "集群协同制造服务匹配策略的研究非常复杂，当前的对比研究还有很多不足之处。因此，下一步研究的重点将放在企业间的协作模式对服务匹配策略的影响。针对客户的需求，通过调整协同模式找到最优服务匹配策略，从而使集群制造处于良性发展状态。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]薛霄，朱鹏，黄必清.面向 agent 的集群式供应链服务系统设计方法研究[J].小型微型计算机系统,2012,32(9):1770-1777.  \n[2]黎继子，刘春玲，常亚平，等.集群式供应链组织续衍与物流园区发展的耦合分析—以苏州 IT 产业集群为例[J].中国软科学,2006 (01):108-116.  \n[3]黎继子，刘春玲.集群式供应链的功能效应分析[J].商业经济与管理,2006,181(11):37-42.  \n[4]左志平，刘春玲．集群供应链绿色合作行为演化博弈分析[J].科技管理研究,2015,35(334):220-223.  \n[5]严北战.集群式产业链、技术轨道与自主创新能力提升研究[J].科技进步与对策,2014(1):65-70.  \n[6]黎继子．集群式供应链[M].北京：科学出版社,2015.  \n[7]薛霄，刘志中，黄必清．面向集群式供应链的企业服务组合方法[J].计算机集成制造系统,2014,20(10):2599-2608.  \n[8]薛霄，魏哲，曾志峰．基于集群式供应链的企业协作联盟及其服务支持系统[J].小型微型计算机系统,2013,34(1):107-114.  \n[9]安吉宇，杨姗姗，陈泓予．基于次优服务选择策略的集群服务运营研究[J].计算机工程与应用,2016,52(11):1-6.  \n[10]孙道银，纪雪洪．竞争优先权与供应链战略匹配关系研究[J].管理学报,2012,9(4): 587.  \n[11]汪卫星．云制造资源语义描述和服务匹配策略[J].重庆大学学报，2017, 40 (5): 1-6.  \n[12]张保军．制造企业组织结构与服务化策略匹配研究[D].武汉：华中科技大学,2013.  \n[13]崔凯楠，郑晓龙，文丁，等．计算实验研究方法及应用[J]．自动化学报,2013,39(8):1157-1169.  \n[14] Sheng BY, Zhang CL,Lu QB,et al. Research and implementation of cloudmanufacturing service platform's inteligent matching for supply anddemand [J]. Computer Integrated Manufacturing Systems,2015,21 (3):822-830.  \n[15] Xue Xiao,Han Hongfang,Wang Shufang,et al. Computational experiment-based evaluation on context-aware O2O service recommendation [J]. IEEETranss on Services Computing,DOI=10.1109//TSC.2016.2638083,2016.  \n[16] Keating J.Matching supply of and demand for skills: internationalperspectives [J].Australian Bulletin of Labour,20o9,35 (3): 528-560.  \n[17] Morariu C,Morariu O,Borangiu T.Customer order management in serviceoriented holonic manufacturing [J]. Computers in Industry,2013,64(8):1061-1072.  \n[18] Taghipour A,Frayret J.Dynamic mutual adjustment search for supply chainoperations planning coordination [J]. International Journal of ProductionResearch,2013,51(9):2715-2739.  \n[19] Zhang G, Shang J,Li W. Collaborative production planning of supply chainunder price and demand uncertainty [J]. European Journal of OperationalResearch,2011,215 (3): 590-603.  \n[20] Xue X,Wang SF,Lu B Y.Manufacturing Service Composition MethodBased on Networked Collaboration Mode [J]. Journal of Network andComputer Applications,2016,59 (1): 28-38.  \n[21]赵雷．关联关系感知的制造云服务匹配与组合方法研究[D]．北京：北京理工大学,2016.  \n[22]盛昭翰，李静，陈国华，等．社会科学计算实验基本教程[M].上海：上海三联书店,2010:62-65.  \n[23]国家统计局.2016年月度工业生产者出厂价格分类指数[EB/OL].http://data. stats. gov.cn/easyquery. htm?cn=A01.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "type": "text",
+        "text": "MICAP (MICROWAVE IMAGER COMBINED ACTIVE AND PASSIVE): A NEW INSTRUMENTFOR CHINESE OCEANSALINITYSATELLITE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hao LIU,Di ZHU, Lijie NIU,Lin WU, Caiyun WANG, Xue CHEN, Xin ZHAO, Cheng ZHANG, Xiangkun ZHANG, Xiaobin YIN, Ji WU ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sea surface salinity (SSS) plays an important role in global water cycle. In recent years, satellite based remote sensing has proven to be a promising approach for global SSS observation. A new payload concept, named MICAP (microwave imager combined active and passive), has been introduced in this paper.MICAP is a suit of active/passive instrument package， which includes L/C/K band onedimensional MR (microwave interferometric radiometer) and L-band DBF (digital beamforming) scatterometer, sharing a parabolic cylinder reflector.MICAP has been selected to be a candidate payload for future Chinese ocean salinity mission.In this paper, the MICAP instrument concept, specification and preliminary system design will be introduced. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms- synthetic aperture radiometer,microwave interferometric radiometer,MICAP,Ocean salinity,L-band ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "afi monitoring the globe climate change.Passive microwave remote sensing at L-band has been identified as a most effective tool to measure SSS from space. Two missions, ESA's SMOS and NASA's Aquarius,launched in 2009 and 2011 respectively, have already been successfully implemented[1][2]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, to realize an L-band radiometer in space and then get a successful SSS measurement is still challenging, either in technology or in science.With the experiences achieved by current two missions (SMOS and Aquarius) [3][4][5],several factors,such as the on-orbit accuracy & stability of the instrument, the availability of the axillary data,and the correctness of the model used for retrieving, etc.,have been identified having significant influences on the realization of scientific goals. Extensive studies have been paid on the processing and retrieving techniques of the scientific data achieved by these missions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With all these experiences and lessens,a new instrument concept,named MICAP (Microwave Imager Combined ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Active and Passive)，has been proposed by NSSC as a candidate payload for future Chinese ocean salinity satellite. In this paper, the instrument concept and system design of MICAP will be introduced. The initial results of a groundbased demonstrator [6][7]，which include the L-band radiometer and scatterometer,will also be introduced. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.INSTRUMENTCONCEPTANDSYSTEMDESIGN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MICAP is package of active and passive microwave instruments including L/C/K band radiometers and L-band scatterometer. The $\\mathrm { L } / \\mathrm { C } / \\mathrm { K }$ band radiometers are 1-D MIRs (Microwave Interferometric Radiometer),while the L-band scatterometerisaDBF(DigitalBeam-Forming) scatterometer.The radiometers and scatterometer share a large parabolic cylinder reflector antenna with linear array feeds.The solid reflector made by carbon fiber is deployable. the size of which is approximately 5.5 meters in cross-track and 3 meters in along-track.Fig.1 illustrates artistic view of the satellite with MICAP's reflector stowed and deployed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/24b5c60c32376d4482a28ef330efe596208783c392bb6004119172403173d221.jpg",
+        "img_caption": [
+            "Fig.1MICAP artistic view "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The motivations of this design are: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1) Comparing with 2-D system,1-D MIR is much less complex, then it could be very carefully temperature controlled and calibrated, ensuring good stability and accuracy(O.1K level) atL-band; Comparing with realaperture system,1-D MIR has much better spatial resolution performance;   \n2) By using DBF, the swath ofL-band the scatterometer can be very well fitted with the FOV of radiometer;   \n3) With the cylinderparabolic reflector, the DBF scatterometer and multi-frequency radiometer can be ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "easily implemented together with theL-band radiometer with additional feeds. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 illustrates MICAP's multi-frequency active and passive feed array arrangement. The basic frequency configuration for radiometer is $1 . 4 / 6 . 9 / 1 8 . 7 \\mathrm { G H z }$ ，while the frequency of scatterometer is 1.26GHz.1.4GHz radiometer is for salinity measurement, 1.26GHz scatterometer is for ocean surfaceroughnesscorrection， and $6 . 9 / 1 8 . 7 \\mathrm { G H z }$ radiometer is designed to acquire the SST information.An additionalradiometerat23.8GHzisnowunder consideration for atmospheric correction. Each frequency includes ten-element feeds. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/17b992f4e2ec59b1547a27f6379661ed720b3310d64f41322d026a5302205518.jpg",
+        "img_caption": [
+            "Fig.2 Multi-frequency active and passive feed array arrangement: L-band radiometer (blue); L-band scatterometer (red); C-band radiometer (purple); 18.7GHz radiometer (yellow); 23.8GHz radiometer (cyan) "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With the combined active and multi-frequency passive instrument configuration,MICAP is foreseen to be capable of acquiring SSS,wind field and SST simultaneously. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tab.1 illustrates the system performance specifications of the MICAP instruments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e42b35d48c011dfdb7580901af1de32e36b226210cfa9fc737aaa83d4ea9d5c.jpg",
+        "table_caption": [
+            "Tab.1 MICAP System Specifications "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Specification</td><td>Value</td></tr><tr><td>System</td><td>L/C/K band 1-D MIRs + L-band DBF SCAT(sharingcylinderparabolic reflector)</td></tr><tr><td>Frequency</td><td>Radiometer: 1.4GHz, 6.9GHz, 18.7GHz. (23.8GHz is a candidate) Scatterometer: 1.26GHz</td></tr><tr><td>Sensitivity</td><td>L-band: 0.1K; C/K band: 0.5K</td></tr><tr><td>Polarization</td><td>H, V, T3</td></tr><tr><td>Antenna size</td><td>Reflector:3.0m×5.5m (after deployment) Feed array: 3.5mx0.5m</td></tr><tr><td>SSS accuracy</td><td><0.1psu， 200km, monthly</td></tr><tr><td>FOV</td><td>>1000km</td></tr><tr><td>Incident angle</td><td>30~55°</td></tr><tr><td>Spatial resolution</td><td>Cross-track: 50~100km Along-track: L/C/K-band: 65/15/5 km</td></tr><tr><td>Revisit</td><td> 3 days</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f670430081586202a12c60ae242c0447a7227be1b186adc67d2522df8d1c885.jpg",
+        "img_caption": [
+            "Fig. 3 illustratesthe system diagram of MICAP instrument.MICAP consists of sixrelative independent subsystems,including the antenna,L-band radiometer,C-band radiometer,18.7GHz radiometer, $2 3 . 8 \\mathrm { G H z }$ radiometer and L-band scatterometer. ",
+            "Fig.3MICAP block diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the antenna subsystem, the critical part is the design of the multi-frequency feeds. Taken in to account the tradeoff between the performance and the volume, the $\\mathrm { L } / \\mathrm { C }$ band array will be implemented with patch feeds,while the K band will be implemented with horns.Fig.4 illustrates the preliminary simulated vertical polarization antenna patterns of C-band. The 3dB beam-width at real aperture direction is about 1 degree,while the beam-width at synthetic aperture direction is about 76 degrees. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/31c09513f9ab5bfe3cf449041bad0d7f5c3d2130994e513b43fb6a6ba5e4d5a1.jpg",
+        "img_caption": [
+            "Fig.4 Simulated C-band antenna patterns at vertical polarization "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The design of radiometer receivers is based on noise injection architecture.For the L-band radiometer,an internal noise source and a match load are used in each receiver for two-point periodical total power calibration,and a common noise source is used for inter-channel phase calibration [8]; For C/K band, the internal noise sources will be replaced by cold sky horns,which can provide more reliable reference brightness temperature with acceptable mass and volume budget. The $\\mathrm { L } / \\mathrm { C }$ band radiometer front-ends and L-band scatterometer front-ends will be integrated together with the feeds,which will be carefully thermal controlled to achieve the high system stability. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thedigitalcorrelatorwill beimplementedwith customized 10-channel 3-level digitizer SIGe HBT ASICs, whose sampling rate can be up to $1 \\mathrm { G S / s }$ and input analogue bandwidth can be up to 1GHz as well. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.GROUNDDEMONSTRATORAND TESTRESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A ground demonstrator [6][7], consisted with a 8-lement L-band MIR and 7-element DBF scatterometer,has been developed since 2011. Fig. 5 illustrates the MICAP demonstrator and the integrated feed array assembly. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d39a460330e7e493eac7294d08dc3647ab69eb34195ab31ec6880f2c3fe170f.jpg",
+        "img_caption": [
+            "(b) the MICAP L-band active & passive feed array ",
+            "Fig.5MICAP demonstrator "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The aperture size of the demonstrator is $3 \\mathrm { m } ^ { * } 4 . 5 \\mathrm { m }$ .It's not easy to measure the antenna pattern with the large reflector. The pattern of each patch feed has been measured in the array environment with spherical near field system.Then these feed patterns have been put into FEKO software to calculate the final element antenna pattern. Fig. 6 illustrates the final antenna patterns of two radiometer element antennasatverticalpolarization,whicharelocatedat theleft and right ends of the array respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/64185d114986e387e3b21147c28c1d2f29722d044f2f9d2d1c0c84aacb70c9b6.jpg",
+        "img_caption": [
+            "Fig.6 Measured element antenna patterns ofL-band MIR "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It can be seen from Fig.6 that there are some ripples appeared in a single side of the broad beam pattern,which is due to the limited reflector size at cylinder aperture direction ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The MICAP L-band demonstrator is now under system testing.Functional tests have been done using solar transit. Extensive endeavors are now being made on the system calibration before a quantitative image can be presented. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A new instrument concept，name MICAP,has been introduced in this paper.MICAP is a combined active and multi-frequency passive sensor,which has been selected by Chinese ocean salinity mission. Recent progress on the development of the L-band MICAP demonstrator has also been reported. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]CORBELLA I,TORRES F，DUFFO N，et al.MIRAS Calibration and Performance:Results From the SMOS In-Orbit Commissioning Phase [J].Geoscience and Remote Sensing,IEEE Transactions on,2011,PP(99):1-9.   \n[2]LE VINED M,LAGERLOEF GSE,COLOMBFR,et al. Aquarius:An Instrument to Monitor Sea Surface Salinity From Space [J]. Geoscience and Remote Sensing, IEEE Transactions on, 2007,45(7): 2040-50   \n[3]ENTEKHABID,NJOKUEG,O'NEILLPE,etal.The Soil Moisture Active Passive(SMAP) Mission [J].Proceedings of the IEEE,2010,98(5):704-16.   \n[4] Wu Lin, Francese Torres,Ignasi Corbella,etc,Performance of a Spatial Error Correction Technique in SMOS Brightness Temperature Images,proceedings ofMICRORAD 2012   \n[5]Emmanuel P.Dinnat,David M.Le Vine,Saji Abraham, Comparison of Aquarius Measurements and Radiative Transfer Models atL-band, proceedingsofMICRORAD 2012   \n[6] Hao LIU,Xiangkun ZHANG,Lijie NIU,etc,A combined Lband synthetic aperture radiometer and fan-beam scatterometer for soil moisture and ocean salinity measurement,Proceedings of IGARSS 2012   \n[7]Hao LIU,Lijie NIU,Cheng ZHANG,etc,System Study and Development of an L-band 1-D Synthetic Aperture Radiometer for Ocean Salinity Measurement,Proceedings ofIGARSS 2013   \n[8] Lijie NIU,Hao LIU,Ji WU,“Analysis and Experimental Study ofHigh Stability Microwave Radiometer\"，Proceedingsof IGARSS 2014 ",
+        "page_idx": 3
+    }
+]

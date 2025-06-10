@@ -1,0 +1,168 @@
+硒对母猪繁殖性能的影响及其作用机制吴小玲 石建凯 张 攀 吴 德 徐盛玉\*（四川农业大学动物营养研究所，成都611130）
+
+摘要：硒是动物机体所必需的微量元素之一，母猪饲粮中补充硒可有效提高其繁殖性能。
+
+研究表明，硒通过硒蛋白、与维生素E协同提高母猪的抗氧化能力，通过脱碘酶、胰腺消化酶的代谢调节进而调控母猪的繁殖性能。本文就硒对母猪繁殖性能的影响及其可能作用机制作一综述，旨在为相关深入研究以及硒在母猪上的合理应用提供参考。
+
+关键词：硒；母猪；繁殖性能；影响；作用机制
+
+中图分类号：S816.7
+
+从1957年起，硒就被确定为动物所必需的微量元素之一，随后人们对硒的研究和认识逐渐深入。研究表明，硒对动物有促进生长、抵御氧化应激、提高免疫功能和繁殖性能、抗衰老、抗肿瘤、缓减金属毒性等重要作用。母猪的繁殖性能对于母猪生产至关重要，氧化应激易对现代高产母猪的繁殖性能和福利产生不利影响，引起排卵质量差等现象。母猪饲粮中补充硒等抗氧化剂，可有效提高其繁殖性能，进而提高养殖场的直接经济效益。因此，本文就硒对母猪繁殖性能的影响及其可能作用机制作一综述，旨在为相关深入研究以及硒在母猪上的合理应用提供参考。
+
+1硒的分布和利用形式
+
+硒作为矿物元素在土壤中的含量和分布因不同国家和地区而异[1。土壤中硒含量多为$0 . 1 { \sim } 2 . 0 \ \mathrm { m g / k g }$ ，包括单质硒、无机和有机硒化物[2]。美国中西部地区[3-4]、我国湖北恩施和陕西紫阳被报道为典型的高硒地区；北美五大湖区、美国东北部和西海岸部分地区为低硒地区，我国缺硒地区呈东北到西南走向，如黑龙江、四川、重庆等部分地区[4-5]。
+
+实际生产中，添加到畜禽饲粮中的无机硒多为亚硒酸钠（ ${ \tt N a } _ { 2 } { \tt S e O } _ { 3 }$ ），有机硒多为酵母
+
+收稿日期：2017-07-17  
+基金项目：四川农业大学"双支计划"项目，主要畜禽标准化养殖技术研究与示范  
+（2016NYZ0052）  
+作者简介：吴小玲（1993—），女，重庆万州人，硕士研究生，从事动物营养与饲料科学研  
+究。E-mail: 15215201329m@sina.cn  
+\*通信作者：徐盛玉，副研究员，硕士生导师，E-mail: shengyuxu@sicau.edu.cn
+
+硒[6]。亚硒酸钠以化合物计含量为 $9 8 . 0 \%$ ，硒含量为 $4 4 . 7 \%$ ；酵母硒来源于发酵生产中，酵母在发酵过程中将无机硒转化为多种有机硒，有机硒主要为硒代蛋氨酸，占总硒含量的$6 0 \% { \sim } 7 0 \% ^ { [ 6 - 8 ] } .$ 9
+
+# 2硒的吸收与代谢
+
+硒的吸收部位主要在小肠，大多数硒都能被有效吸收，但随后的代谢根据硒的来源和形式的不同而有所差异[9-1]。亚硒酸盐通过简单扩散在肠壁被动吸收，硒酸盐与硫酸盐均通过与钠离子协同转运而被吸收[9-10]；硒代蛋氨酸和硒代半胱氨酸通过活性氨基酸转运机制主动吸收[4,12]。Groce 等[13]研究得出，猪对亚硒酸钠和玉米中有机硒的表观消化率分别为 $7 1 . 8 \%$ 和 $6 4 . 2 \%$ 。Mahan 等[14]通过平衡试验表明，生长猪对亚硒酸钠的表观消化率为 $7 3 . 9 \% { \sim } 8 0 . 5 \%$ ，对富硒酵母的表观消化率为 $7 0 . 8 \% { \sim } 7 5 . 2 \%$ 。
+
+哺乳动物细胞不能区分蛋氨酸和硒代蛋氨酸，硒代蛋氨酸可进入蛋氨酸池代替蛋氨酸直接（非特异性）与体蛋白质结合或者解离[9,11]。机体摄取的外源硒在细胞遗传控制下的代谢机制为：1）硒代蛋氨酸依次转换为硒代半胱氨酸、硒化氢；2）硒酸盐依次被还原为亚硒酸盐、氧化型谷胱甘肽、硒代过硫化物、硒化氢；3）硒化氢可依次代谢为甲硒醇、二甲基硒、三甲基硒阳离子，或硒化氢转化为硒磷酸进而合成硒蛋白[15-17]。合成的硒蛋白广泛分布于动物机体中，在各组织器官中发挥相应的生物学作用。
+
+# 3硒对母猪繁殖性能的影响
+
+缺硒对动物的生长、繁殖、抗氧化应激等方面均产生不利影响，而过量则会产生毒害作用[1-3,7,18]。NRC（2012）[19]建议猪饲粮中硒需要量为 $0 . 1 5 { \sim } 0 . 3 0 \ \mathrm { m g / k g }$ ，妊娠和泌乳母猪为$0 . 1 5 \mathrm { m g / k g }$ 。我国《猪饲养标准》（NY/T65—2004）推荐瘦肉型妊娠和泌乳母猪饲粮中硒需要量分别为0.14 和 $0 . 1 5 \mathrm { m g / k g }$ ，肉脂型妊娠和泌乳母猪均为 $0 . 1 5 \mathrm { m g / k g }$ 。《饲料添加剂安全使用规范》（农业部公告第1224号）规定亚硒酸钠或酵母硒在配合饲料或全混合饲料中的最高限量(以元素计)为 $0 . 5 0 \mathrm { m g / k g }$ ，且使用时应先配制成预混料。
+
+# 3.1硒对后备母猪繁殖性能的影响
+
+Dalto 等[20]研究认为，饲粮中硒含量为 $0 . 3 ~ \mathrm { m g / k g }$ 有助于提高母猪的基础排卵率，这是由于硒不仅参与小卵泡的细胞增殖，同时还响应促性腺激素的刺激作用。从第1次发情开始，在硒含量为 $0 . 2 \mathrm { m g / k g }$ 的饲粮中添加 $0 . 3 ~ \mathrm { m g / k g }$ 有机硒或无机硒对母猪的受胎率无显著影响;
+
+但与添加无机硒相比，添加有机硒使胚胎的平均长度、重量和蛋白质、DNA含量分别提高了 $5 . 5 \%$ 、 $1 1 . 5 \%$ 、 $1 1 . 6 \%$ 、 $9 . 0 \%$ ，原因可能是有机硒增强了胚胎细胞的增殖[21]。
+
+母猪体重为 $2 5 \mathrm { k g }$ 时开始在饲粮中添加0.3、3.0、7.0、 $1 0 . 0 \mathrm { m g / k g }$ 无机硒或有机硒，随硒添加量的增加，母猪的产活仔数、断奶仔猪数、仔猪窝增重下降；与添加无机硒相比，添加有机硒使母猪的产活仔数、断奶仔猪数、仔猪窝增重更低；添加7和 $1 0 \mathrm { m g / k g }$ 有机硒时，仔猪初生窝重和个体初生均重分别为11.39、 $1 0 . 3 8 \mathrm { k g }$ 和1.32、 $1 . 2 5 \mathrm { k g }$ ，断奶仔猪数分别为7.00 和6.67头[22]。母猪配种前 $6 0 \mathrm { d }$ 开始，分别饲喂含 $0 . 3 ~ \mathrm { m g / k g }$ 有机硒和无机硒的饲粮对窝产仔猪数无显著影响[23]。生长育肥猪上的研究表明，猪饲粮中硒含量大于 $5 \mathrm { m g / k g }$ 达到中毒剂量[24]。
+
+以上研究表明,适宜剂量的硒有利于提高后备母猪的繁殖性能,而过量硒（大于 $5 \mathrm { m g / k g } )$ 则引起母猪中毒进而降低其繁殖性能；且由于有机硒的利用效率高于无机硒，同等高剂量的有机硒导致的危害更大。
+
+# 3.2硒对妊娠和泌乳母猪繁殖性能的影响
+
+研究表明，与亚硒酸钠相比，妊娠和泌乳母猪摄入 $0 . 3 ~ \mathrm { m g / k g }$ 硒代蛋氨酸显著提高了仔猪从出生到断奶的平均日增重，增长幅度为 $1 2 . 2 0 \% ^ { [ 8 ] }$ 。 $\mathrm { H u }$ 等[25]在妊娠和泌乳期母猪饲粮中添加 $0 . 3 ~ \mathrm { m g / k g }$ 无机硒或有机硒，结果表明，与添加无机硒相比，添加有机硒显著提高了仔猪的平均日增重、28日龄体重和28日龄窝重。也有报道表明，妊娠母猪饲粮中硒含量为 $0 . 0 8 5 \mathrm { m g / k g }$ 时，添加 $0 . 3 ~ \mathrm { m g / k g }$ 有机硒或无机硒对母猪的总产仔数、产活仔数、死胎数和仔猪初生重均无显著影响；泌乳母猪饲粮中硒含量为 $0 . 0 5 7 \mathrm { m g / k g }$ 时，添加 $0 . 3 8 \mathrm { m g / k g }$ 有机硒或无机硒对仔猪14 日龄体重无显著影响[26]。妊娠母猪饲粮中添加 $0 . 3 ~ \mathrm { m g / k g }$ 有机硒或无机硒对窝产仔数、仔猪窝重和仔猪21日龄生长性能（体重、平均日增重、肝脏重）均无显著影响[27]。以上研究表明，妊娠或泌乳母猪饲粮中添加硒有利于提高其繁殖性能，而报道结果不一致的原因可能与硒的添加量、添加形式，母猪的品种、胎次和饲养管理等因素有关。综上所述，推荐母猪饲粮中硒含量不超过 $0 . 5 \mathrm { m g / k g }$ 。4硒对母猪繁殖性能影响的可能机制
+
+# 4.1 抗氧化作用
+
+# 4.1.1 氧化应激的危害
+
+活性氧（ROS）在雌性动物生殖道中发挥生理性和病理性作用，存在于生殖道的卵巢、输卵管和胚胎中。活性氧参与调节多个生理过程，从卵母细胞成熟、受精到妊娠、胚胎发育[28-29]。在健康动物机体中，活性氧和抗氧化物质的含量保持平衡。当过多活性氧破坏平衡，即体内自由基的产生和机体清除自由基的能力不平衡时，产生氧化应激[29]。
+
+氧化应激易引起卵母细胞和胚胎质量下降，卵泡液活性氧增加或抗氧化能力降低，导致受精率降低[30]。过多自由基的产生可能会引起脂质和蛋白质氧化，损害内皮细胞的正常功能，还可能会影响胎儿的骨骼形成。氧化应激或抗氧化系统中断将引起各种妊娠并发症，如胎儿生长受限、子痫前期、流产或早产等[31]。
+
+母猪发情前期，卵巢代谢增强产生过量活性氧，可能会导致排卵机能障碍[20]。母猪妊娠期，能量和氧气需要量增加，自身代谢、胎盘均产生过多超氧化物和过氧化氢，导致氧化应激。母猪妊娠后期和泌乳期，母猪代谢负担增加，而体内抗氧化物质的可利用率降低，导致氧化应激增加[32]。内源自由基，特别是线粒体呼吸链释放的超氧游离基会引起DNA损伤。Berchierironchi 等[32]对高产母猪妊娠和泌乳期氧化应激状态的研究表明，母猪妊娠早期淋巴细胞DNA氧化损伤较低，为 $2 1 . 3 \%$ ；妊娠中后期DNA氧化损伤显著增加，为 $3 8 \% { \sim } 4 7 \%$ 随后高水平DNA损伤一直持续到断奶。
+
+以上研究表明，活性氧过多引起的氧化应激将严重危害母猪的繁殖生理，进而引起母猪繁殖性能下降。
+
+# 4.1.2 抗氧化的硒蛋白
+
+硒通过参与硒蛋白的合成调控机体的抗氧化作用。已知硒是25种硒蛋白的主要成分，其中至少有16 种硒蛋白具有抗氧化作用[28]，详见表1[7,1.33-34]。
+
+# 表1抗氧化的硒蛋白
+
+Table 1Selenoprotein of antioxidant   
+
+<html><body><table><tr><td>抗氧化的硒蛋白 Selenoprotein of antioxidant</td><td>主要存在部位 Main present site</td><td>功能 Function</td><td>参考 Reference</td></tr><tr><td>谷胱甘肽过氧化物酶GPXs</td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽过氧化物酶1GPX1</td><td>细胞质</td><td>抗氧化；硒储存</td><td>Mistry 等[33],2015</td></tr><tr><td>谷胱甘肽过氧化物酶2GPX2</td><td>胃肠道</td><td>抗氧化</td><td>Mistry 等[33],15</td></tr><tr><td>谷胱甘肽过氧化物酶3GPX3</td><td>细胞外、血浆</td><td>抗氧化</td><td>Mistry 等[33],2015</td></tr><tr><td>谷胱甘肽过氧化物酶4GPX4</td><td>细胞膜</td><td>抗氧化；精子结构蛋白</td><td>Mistry等[33],215</td></tr></table></body></html>
+
+<html><body><table><tr><td>谷胱甘肽过氧化物酶5GPX5</td><td></td><td></td><td>Mistry 等[33],2015</td></tr><tr><td>谷胱甘肽过氧化物酶6GPX6</td><td></td><td>GPX1同源物</td><td>Mistry 等[33],215</td></tr><tr><td>硫氧还蛋白还原酶 TRs</td><td></td><td></td><td></td></tr><tr><td>硫氧还蛋白还原酶1TR1</td><td>细胞浆</td><td>抗氧化，还原硫氧还蛋白</td><td>Fairweather-tait等[11],2010</td></tr><tr><td>硫氧还蛋白还原酶2TR2</td><td>睾丸</td><td>促生长发育</td><td>Fairweather-tait 等[11],2010</td></tr><tr><td>硫氧还蛋白还原酶3TR3</td><td>线粒体</td><td>抗氧化，调节胞内氧化还原</td><td>Fairweather-tait等[1],2010</td></tr><tr><td>硒蛋白H</td><td>细胞核</td><td>抗氧化；转录因子</td><td>Mangiapane 等[34],2014</td></tr><tr><td>硒蛋白K</td><td>内质网</td><td>膜蛋白；抗氧化</td><td>Kieliszek 等[7],2013</td></tr><tr><td>硒蛋白M</td><td>内质网</td><td>氧化还原酶</td><td>Mangiapane 等[34],2014</td></tr><tr><td>硒蛋白0</td><td>内质网</td><td>可能参与氧化还原反应</td><td>Mangiapane 等[34],2014</td></tr><tr><td>硒蛋白P</td><td>肝脏、血浆</td><td>硒转运蛋白；内皮细胞抗氧化</td><td>Mistry等[33],2015</td></tr><tr><td>硒蛋白R</td><td>细胞浆</td><td>抗氧化</td><td>Kieliszek 等[7],2013</td></tr><tr><td>硒蛋白W</td><td>心脏、骨骼肌</td><td>抗氧化</td><td>Mistry 等[33],15</td></tr></table></body></html>
+
+参与细胞内氧化还原反应调节的硒蛋白主要为谷胱甘肽过氧化物酶家族(GPXs)，包括GPX1、GPX2、GPX3、GPX4、GPX5 和GPX6，均以硒代半胱氨酸为活性位点[6.3.35]。GPXs是体内最强的抗氧化酶，可将过氧化氢和脂质过氧化物（丙二醛等)还原成无害的水和醇类，抑制活性氧的产生[17]，从而维持细胞膜的完整性，保护脂质、脂蛋白和DNA 免受氧化损伤[36]。排卵前卵泡具有较强的抗氧化防御，是由于GPXs可以维持卵泡内较低水平的过氧化氢，从而有利于受精和配子形成[29]。
+
+Fortier 等[21]研究饲粮中添加有机硒和无机硒对母猪抗氧化能力和繁殖性能的影响，结果表明，从第1次发情到妊娠第30天，对照组母猪血液GPXs 活性下降 $3 . 2 \%$ ，而无机硒和有机硒组血液GPXs 活性分别上升 $1 9 . 6 \%$ 和 $1 3 . 7 \%$ 。Zhan 等[8研究报道，饲粮中添加等量无机硒或有机硒，与无机硒相比，有机硒组母猪血清、初乳和常乳中硒含量显著增加；血清总抗氧化能力显著增强，丙二醛含量极显著降低；后代仔猪内脏、肌肉和血清的总抗氧化能力显著增强，内脏中丙二醛含量显著降低。
+
+以上研究表明，母猪饲粮中补充硒，可提高自身以及后代仔猪的抗氧化能力，进而抵御母体自身和子代仔猪遭受氧化应激。
+
+# 4.1.3 硒与维生素E
+
+硒与维生素E具有抗氧化协同作用，但维生素E不能完全代替硒。从妊娠第30天到产后第 28天断奶，母猪饲粮中补充 $3 0 \mathrm { m g / k g }$ 维生素 E，且在妊娠第 30、60 和90天注射 $3 0 ~ \mathrm { m g }$ 亚硒酸钠，与对照、单独补充 $3 0 \mathrm { m g / k g }$ 维生素E或单独注射 $3 0 ~ \mathrm { m g }$ 亚硒酸钠相比，复合组母猪的窝产仔数和断奶仔猪数增加，仔猪初生重和断奶重更高[37]。Chen 等[38]研究母猪妊娠和泌乳期饲粮中同时添加硒（ $0 . 3 ~ \mathrm { m g / k g }$ 有机硒或无机硒）和维生素E（30、90IU/kg）对后代仔猪的影响，结果表明，同时添加 $0 . 3 ~ \mathrm { m g / k g }$ 有机硒和 $9 0 \mathrm { I U / k g }$ 维生素E可提高保育仔猪血清谷胱甘肽含量，并且有提高新生仔猪肝脏谷胱甘肽含量和总抗氧化能力的趋势。研究表明，母猪饲粮中缺硒将耗竭体组织硒和维生素E储备，导致胚胎萎缩和死亡增加，窝产仔数降低[39]，因此母猪饲粮中同时补充适量硒和维生素E，有助于维持甚至提高其繁殖性能。
+
+# 4.2通过母体沉积、传递调节子代代谢
+
+研究表明，母猪妊娠早期，更高代谢需要量的硒不仅用于胎盘形成时期活跃的氧化还原反应代谢，还用于胚胎的硒沉积[20.40]。在硒含量为 $0 . 3 ~ \mathrm { m g / k g }$ 的母猪饲粮中补充 $0 . 3 ~ \mathrm { m g / k g }$ 有机硒，从母体转移到胚胎的平均硒含量增加[20]。在硒含量为 $0 . 2 \mathrm { m g / k g }$ 的母猪饲粮中添加$0 . 3 ~ \mathrm { m g / k g }$ 有机硒或无机硒，有机硒组较无机硒组的胚胎平均硒含量和窝产仔猪总硒含量分别提高 $52 \%$ 和 $6 3 \% ^ { [ 2 1 ] }$ 。
+
+配种前 $6 0 \mathrm { d }$ 开始在头胎母猪饲粮中添加0.1、 $0 . 3 ~ \mathrm { m g / k g }$ 无机硒和有机硒， $0 . 3 ~ \mathrm { m g / k g }$ 硒添加组和有机硒组新生仔猪和断奶仔猪肝脏硒含量更高；而 $0 . 3 ~ \mathrm { m g / k g }$ 有机硒组断奶仔猪肝脏硒含量更高[41]。Mahan[42]考察母猪饲粮中硒源和硒含量的作用时发现，与无机硒组相比，有机硒组新生仔猪体组织硒含量增加；与 $0 . 1 5 \mathrm { m g / k g }$ 硒相比， $0 . 3 ~ \mathrm { m g / k g }$ 硒使新生仔猪体组织硒含量增加。Zhan 等[8]研究报道，无机硒和有机硒添加量均为 $0 . 3 ~ \mathrm { m g / k g }$ 时，与无机硒相比，母体摄入有机硒使血清、初乳和常乳中硒含量显著增加，后代仔猪血清、肝脏、肾脏、胰腺、肌肉、胸腺和甲状腺中硒含量显著增加。
+
+母猪饲粮补充 $0 . 3 ~ \mathrm { m g / k g }$ 硒，可提高胚胎、后代仔猪组织器官中硒含量，与无机硒相比，补充有机硒的效果更好。沉积到胚胎、组织器官中的硒可通过影响后代仔猪的代谢来调节其生长发育。
+
+# 4.2.1 硒与甲状腺、肝脏
+
+硒是脱碘酶(DIOs)活性中心的重要组成部分，脱碘酶包括DIO1、DIO2 和DIO3，分布于甲状腺、肝脏等重要器官[43-44]。DIO1和 DIO2 可将甲状腺素（T4）转化为三碘甲腺原氨酸（T）以及将逆-三碘甲腺原氨酸（ $ { \mathrm { : r T } } _ { 3 }$ ）转化为二碘甲腺原氨酸（T2)，DIO1和DIO3具有将T4转化为 $\mathbf { r T } _ { 3 }$ 以及将 ${ { \mathrm { T } } _ { 3 } }$ 转化为 $\mathrm { T } _ { 2 }$ 的作用[15,44]，因此硒通过脱碘酶参与甲状腺激素的代谢调节过程。研究表明，DIO1基因敲除小鼠甲状腺激素含量异常；小鼠DIO2基因缺陷影响听觉、体温维持和大脑发育；DIO3 基因敲除小鼠发育受损、生长迟缓和繁殖障碍，T3向$\mathrm { T } _ { 4 }$ 转化减少[45]。
+
+与无机硒相比，母猪摄入有机硒显著增加了28日龄仔猪的血清 ${ { \mathrm { T } } _ { 3 } }$ 含量，降低了T4含量以及 $\mathrm { T } _ { 4 } / \mathrm { T } _ { 3 } [ 8 ]$ 。Jianhua等[46]研究表明，饲粮中缺硒导致肉鸡的生长速度降低，其机制在于缺硒抑制了肝脏脱碘酶的活性，引起血浆T3含量显著降低，T4含量升高。
+
+# 4.2.2 硒与胰腺
+
+Campbell等[47]在体外培养小鼠胰岛β细胞Min6发现，硒可上调胰岛素启动因子1（Ipfl)的mRNA表达，增加胰岛素的mRNA表达，进而增加胰岛素的分泌和含量，表明硒可增强胰岛细胞功能，因此可能增强机体代谢。
+
+Zhan 等[8研究表明，母体摄入有机硒可显著增加28日龄仔猪的胰腺消化酶活性，胰淀粉酶、胰蛋白酶和胰脂肪酶活性分别提高 $50 . 8 1 \%$ 、 $1 7 . 6 1 \%$ 和 $1 4 . 8 7 \%$ 。因此硒可能通过影响胰腺消化酶活性来调节消化、代谢以及生长。
+
+以上研究表明，硒可通过母体摄入影响子代器官中硒的沉积量，沉积到子代仔猪组织器官中的硒通过脱碘酶、胰腺消化酶活性来调节消化、代谢以及生长，从而反映了硒对母猪繁殖性能的影响。
+
+4.3其他
+
+公猪低硒饲粮可降低精子的代谢活动，精子活力降低，异常精子数增加，精液品质下降，从而降低受精率。公猪饲粮中添加 $0 . 5 \mathrm { m g / k g }$ 亚硒酸钠，与对照组相比，精液量增加 $5 4 ~ \mathrm { m L }$ ，精子活力、正常精子比例和受精率分别提高 $28 \%$ 、 $3 8 \%$ 和 $2 5 \% ^ { [ 4 8 ] }$ 。因此，硒可通过影响公猪精子质量间接影响母猪的繁殖性能。
+
+# 5小结
+
+综上所述，母猪饲粮补中充硒可提高母猪的繁殖性能，但猪对硒的耐受量低，建议母猪饲粮中硒含量不超过 $0 . 5 \mathrm { m g / k g }$ 。过去在养猪生产中通常使用亚硒酸钠，但由于其毒性较强、安全范围窄，目前有机硒（酵母硒）已逐渐代替亚硒酸钠作为猪饲粮的硒源，且大量研究也证明有机硒在养猪生产中的应用效果优于无机硒。
+
+硒通过GPXs 等硒蛋白、与维生素E协同发挥抗氧化作用；通过母体传递、沉积到子代甲状腺等器官中的硒可影响代谢进而调节子代的生长发育，从而影响母猪的繁殖性能；此外，缺硒影响公猪的精液品质导致受精率降低，间接影响母猪的繁殖性能。然而，硒参与小卵泡以及胚胎细胞的增殖、参与雌性动物促性腺激素的调控机制还不明确，硒是否影响雌性动物卵泡发育整个过程的研究十分缺乏，硒提高母猪基础排卵率的具体机制也有待进一步研究。
+
+参考文献：   
+[1]DUMONT E,VANHAECKE F,CORNELIS R.Selenium speciation from food source to metabolites:a critical review[J].Analytical and Bioanalytical Chemistry,2006,385(7):1304-1323. [2] LYONS M P,PAPAZYAN T T,SURAI P F.Selenium in food chain and animal nutrition:lessons from nature[J].Asian-Australasian Journal of Animal Sciences,2007,20(7):1135-1155.   
+[3] B'HYMER C,CARUSO J A.Selenium speciation analysis using inductively coupled plasma-mass spectrometry[J].Journal of Chromatography A,2006,1114(1):1-20.   
+[4] NRC(NationalResearchCouncil).Mineraltoleranceofanimals[M].2nd ed.Washington,D.C.:The National Academies Press,2005:321-347.   
+[5]TAN J A,ZHU W Y,WANG W Y,et al.Selenium in soil and endemic diseases in China[J].Science of the Total Environment,2002,284(1/2/3):227-235.   
+[6] SURAI P F,FISININ V I.Selenium in sow nutrition[J].Animal Feed Science and Technology,2016,211(1):18-30.   
+[7] KIELISZEKM,BLAZEJAKS.Selenium:significance,and outlook for supplementation[J].Nutrition,2013,29(5):713-718.   
+[8]ZHAN X A,QIE Y Z,WANG M,et al.Selenomethionine:an efective selenium source for sow to improveSedistribution,antioxidantstatus,andgrowthperformanceofpig offspring[J].Biological Trace Element Research,2011,142(3):481-491.   
+[9]SHINI S,SULTAN A,BRYDEN W.Selenium biochemistry and bioavailability:implications for animal agriculture[J].Agriculture,2015,5(4):1277-1288.   
+[10] DANIELS L A.Selenium metabolism and bioavailability[J].Biological Trace Element Research,1996,54(3):185-199. [11] FAIRWEATHER-TAIT S J,COLLINGS R,HURST R.Selenium bioavailability:current knowledgeandfutureresearchrequirements[J].AmericanJournalof Clinical Nutrition,2010,91(5):1484S-1492S.   
+[12]VENDELAND S C,DEAGEN J T,BUTLER J A,et al.Uptake of selenite,selenomethionine and selenatebybrushbordermembranevesiclesisolatedfromratsmall intestine[J].Biometals,1994,7(4):305-312.   
+[13]GROCE A W,MILLER E R,HITCHCOCK J P,et al.Selenium balance in the pig as affected by selenium source and vitamin E[J].Journal of Animal Science,1973,37(4):942-947.   
+[14]MAHAN D C,PARRETT N A.Evaluating the efficacy of selenium-enriched yeast and sodium selenite on tissue selenium retention and serum glutathione peroxidase activity in grower and finisher swine[J].Journal of Animal Science,1996,74(12):2967-2974.   
+[15] KOHRLE J,GARTNER R.Selenium and thyroid[J].Best Practice & Research Clinical Endocrinology & Metabolism,2009,23(6):815-827.   
+[16] GAMMELGAARD B,GABEL-JENSEN C,STURUP S,et al.Complementary use of molecular and element-specific mass spectrometry for identification of selenium compounds related to human selenium metabolism[J].Analytical and Bioanalytical Chemistry,2008,390(7):1691-1706.   
+[17] MISTRY H D,BROUGHTON P F,REDMAN C W,et al.Selenium in reproductive health[J].American Journal of Obstetrics and Gynecology,2012,206(1):21-30.   
+[18] REASBECK P G,BARBEZAT G O,WEBER W F,Jr.,et al.Selenium absorption by canine jejunum[J].Digestive Diseases and Sciences,1985,30(5):489-494.   
+[19] NRC(National Research Council).Nutrientrequirementsofswine[M].11th ed.Washington,D.C.:The National Academies Press,2012:86-87.   
+[20]DALTO D B,AUDET I,LAPOINTE J,et al.The importance of pyridoxine for the impact of the dietary selenium sources on redox balance,embryo development,and reproductive performance in gilts[J].Journal of Trace Elements in Medicine & Biology,2016,34(3):79-89.   
+[21]FORTIER M E,AUDET I,GIGUERE A,et al.Effect of dietary organic and inorganic seleniumonantioxidantstatus,embryodevelopment,and reproductiveperformancein hyperovulatory first-parity gilts[J].Journal of Animal Science,2012,90(1):231-240.   
+[22]KIM Y Y,MAHAN D C.Prolonged feding of high dietary levels of organic and inorganic selenium to gilts from 25 kg body weight through one parity[J].Journal of Animal Science,2001,79(4):956-966.   
+[23] GELDERMAN A,CLAPPER J.Effctsof inorganic or organic seleniumon immunoglobulins in swine[J].Journal of Animal Science and Biotechnology,2014,4:47.   
+[24]KIM Y Y,MAHAN D C.Comparative effects of high dietary levels of organic and inorganic seleniumonseleniumtoxicityofgrowing-finishingpigs[J].JournalofAnimal Science,2001,79(4):942-948.   
+[25]HU H J,WANG M,ZHAN X A,et al.Effect of different selenium sources on productive performance,serum and milk Se concentrations,and antioxidant status of sows[J].Biological Trace Element Research,2011,142(3):471-480.   
+[26]SVOBODA M,FICEK R,DRABEK J.Efficacy of organic selenium from Se-enriched yeast on selenium transfer from sows to piglets[J].Acta Veterinaria Brno,2008,77(4):515-521.   
+[27]MA Y L,LINDEMANN M D,PIERCE J L,et al.Effect of inorganic or organic selenium supplementation on reproductive performance and tissue trace mineral concentrations in gravid first-parity gilts,fetuses,and nursing piglets[J].Journal of Animal Science,2014,92(12):5540-5550. [28]CHEN J,HAN J H,GUAN W T,et al.Selenium and vitamin E in sow diets:I.Effect on antioxidant status and reproductive performance in multiparous sows[J].Animal Feed Science and Technology,2016,221:111-123.   
+[29] AGARWAL A,GUPTA S,SHARMA R K.Role of oxidative stress in female reproduction[J].Reproductive Biology & Endocrinology,2005,3:28.   
+[30]JANA S K,NARENDRA B K,CHATTOPADHYAY R,et al.Upper control limit of reactive oxygen speciesin follicularfluid beyond which viable embryo formation isnot favorable[J].Reproductive Toxicology,2010,29(4):447-451.   
+[31] BURTON G J,JAUNIAUX E.Oxidative stress[J].Best Practice & Research Clinical
+
+Obstetrics & Gynaecology,2011,25(3):287-299.
+
+[32] BERCHIERI-RONCHI C B,KIM S W,ZHAO Y,et al.Oxidative stress status of highly prolific sows during gestation and lactation[J].Animal An International Journal of Animal Bioscience,2011,5(11):1774-1779.   
+[33] MISTRY H D,KURLAK L O.Selenium in fertility and reproduction[M]//Ronald R W.Handbook of fertility:nutrition,diet,lifestyleand reproductive health.Amsterdam:Elsevier Academic Press,2015:261-272.   
+[34]MANGIAPANE E,PESSIONE A,PESSIONE E.Selenium and selenoproteins:an overview on different biological systems[J].Current Protein & Peptide Science,2014,15(6):598-608. [35] FLOHEL,BRIGELIUS-FLOHE R.Selenoproteins ofthe glutathione system[M]//HATFIELDDL,BERRYMJ,GLADYSHEV V N.Selenium.Boston, MA:Springer,2001:161-172.   
+[36]BRIGELIUS-FLOHE R,BANNING A,SCHNURR K.Selenium-dependent enzymes in endothelial cel function[J].Antioxidants & Redox Signaling,20o3,5(2):205-215.   
+[37]MAVROMATIS J,KOPTOPOULOS G,KYRIAKIS S C,et al.Effects of alpha-tocopherol and selenium on pregnant sows and their piglets' immunity and performance[J].Zentralblatt Für Veterinärmedizin Reihe A,1999,46(9):545-553.   
+[38]CHEN J,HAN J H,GUAN W T,et al.Selenium and vitamin E in sow diets: II .Efect on selenium statusand antioxidant statusof the progeny[J].Animal Feed Science& Technology,2016,221:101-110.   
+[39]MAHAN D,LYONS T P,JACQUES K A.The role of selenium and Sel-Plex in sow reproduction.[C]//LYONS T P,JACQUES K A.Nutritional biotechnology in the feed and food industries.Nottingham,UK:Nottingham University Press,2004:131-139.   
+[40]HOSTETLER C E,MICHAL J,ROBISON M,et al.Effect of selenium intake and fetal age on mRNA levels of two selenoproteins in porcine fetal and maternal liver[J].Journal of Animal Science,2006,84(9):2382-2390.   
+[41]MAHAN D C,KIM Y Y.Effect of inorganic or organic selenium at two dietary levels on reproductive performance and tissue selenium concentrations in first-parity gilts and their progeny[J].Journal of Animal Science,1996,74(11):2711-2718.   
+[42]MAHAN D C,PETERS J C.Long-term effects of dietary organic and inorganic selenium Sourcesand levelson reproducingsowsandtheirprogeny[J].Journal of Animal Science,2004,82(5):1343-1358.   
+[43] MEINHOLD H,CAMPOS-BARROS A,WALZOG B,et al.Effects of selenium and iodine deficiency on type I ,type II and type II iodothyronine deiodinases and circulating thyroid hormones in the rat[J].Experimental & Clinical Endocrinology,1993,101(2):87-93.   
+[44]KOHRLE J,JAKOB F,CONTEMPRE B,et al.Selenium,the thyroid,and the endocrine system[J].Endocrine Reviews,2005,26(7):944-984.   
+[45] NEGROR.Seleniumandthyroidautoimmunity[J].Biologics:Targets and Therapy,2008,2(2):265-273.   
+[46]JIANHUA H,OHTSUKA A,HAYASHI K.Selenium influences growth via thyroid hormone status in broiler chickens[J].British Journal of Nutrition,2000,84(5):727-732.   
+[47]CAMPBELL S C,ALDIBBIAT A,MARRIOTT C E,et al.Selenium stimulates pancreatic beta-cell gene expression and enhances islet function[J].FEBS Lettrs,2008,582(15):2333-2337. [48]CLOSE W H,SURAI P F,TAYLORPICKARD J A,et al.Selenium in pig nutrition[J].Current Advances in Selenium Research & Applications,2008,1(1):263-313.   
+Effects of Selenium on Reproductive Performance of Sows and Its Mechanism WU XiaolingSHI JiankaiZHANG PanWU De XU Shengyu\*   
+(Institute of Animal Nutrition, Sichuan Agricultural University, Chengdu 611130, China) Abstract: Selenium is one of the essential trace elements for animals，dietary selenium can effectively improve reproductive performance of sows. Studies have shown that selenium improve antioxidant capacity of sow through selenoprotein and synergy with vitamin E, and regulate reproductive performance of sow through metabolic regulation of deiodinase and pancreatic
+
+digestive enzymes. In this paper, the effects of selenium on the reproductive performance of sows and its possible mechanism were reviewed, and aimed at providing reference for related research and reasonable application of selenium in sows. Key words: selenium; sows; reproductive performance; effects; mechanism

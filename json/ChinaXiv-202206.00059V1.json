@@ -1,0 +1,455 @@
+[
+    {
+        "type": "text",
+        "text": "基于二进制序列的属性访问控制策略检索方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄恒杰‘，潘瑞杰²，王高才²，秦利忠1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．玉林师范学院 教育技术中心，广西 玉林 537000;2．广西大学 计算机与电子信息学院，南宁 530004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在基于属性访问控制中策略中，如何快速响应检索的访问控制请求至关重要，而通过遍历策略集合每条规则中的所有的属性值去匹配相应规则的检索方法是低效的。因此，论文提出一种基于二进制序列的属性访问控制策略检索方法。采用二进制标识和二进制编码表示基于属性的访问控制策略和访问控制请求。通过对二进制标识的逻辑运算选择合适的分组，在组内，通过访问控制请求的二进制编码和所有规则的二进制编码的匹配来查找合适的规则，减少策略集合内规则的属性与访问控制请求属性匹配的过程，从而提高策略检索效率。论文在实验中从策略预处理、策略评估时间和策略检索总时间三个方面类比相似检索方法的效率，实验结果表明，论文提出的策略检索方法具有更高的检索效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：云计算；属性访问控制策略；检索效率；匹配；二进制序列 中图分类号：TP393.08 doi:10.19734/j.issn.1001-3695.2022.03.0126 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Retrieval method of attribute access control policy based on binary sequence ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huang Hengjie1, Pan Ruijie²,Wang Gaocai²†, Qin Lizhongl (1.EducationalTechnologyCenter,YulinNormal University,Yulin5370oo,China;2.SchoolofComputer&Electronic Information,Guangxi University,Nanning 53ooo4,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: InAtribute-Based Access Control(ABAC),howtorespond quickly to the retrieved accesscontrol request is very important,anditisundoubtedlytime-consuming totraverseallatributevalues ineachruleofthepolicysetuntilfinding the appropriate rule. Therefore,the paper proposes an ABAC retrieval method based on binary sequence,and uses binary identificationand binary codingtorepresent atribute based accesscontrolpolicies and accesscontrolrequests.Through the logical operationofbinary identification,selectthe appropriate group.Inthe group,findtheappropriate rules by matching the binary code of accesscontrolrequest with the binary codeof allrules,reduce the process of matching the attributes of rules in the policy set withthe atributes of access control request,and improve the effciencyof policy retrieval.In he experiment,thispapercompares theefciencyofsimilarretrevalmethods fromthreeaspects:strategypreprocessng,strategy evaluation timeandtotalstrategyretrieval time.Theresults showthatthestrategyretrieval method proposedinthis paperhas higher retrieval efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: cloud computing; attribute accesscontrol policy; retrieval efficiency; matching; binary sequence ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "云计算技术的兴起和发展为现代社会提供了便捷的数据共享和融合计算等服务，也使计算和存储资源得到充分利用。其资源中包含了大量的用户隐私数据，然而相关机构对这些数据的保护却并不令人满意。隐私数据一旦泄露，可能给个人和机构带来不可估量的损失[1。例如，西太平洋银行(Westpac)的近10万客户的私人信息遭到泄露和Instagram用户的4900万数据遭到曝光，都是源于非法用户的访问和合法用户对资源的越权访问。因此，访问控制技术作为保护资源的有效手段备受国内外研究者们的关注。在访问控制中，通过验证访问者的身份信息和制定合适策略来规范和限制访问请求者的权限，从而保护客体资源。这些策略确保合法用户在复杂的网络环境中访问和使用资源服务，同时阻止非法用户窃取资源和合法用户的非法访问行为等。其中，基于属性的访问控制(attribute-based access control,ABAC)因具有细粒度和灵活性，并能解决大规模的用户激增问题而在云计算场景得到广泛应用。虽然，现有的ABAC模型[2]在安全策略的表达和制定上具有较大优势，但如应用到大规模访问策略的云计算环境下还是会存在检索效率低下的问题。根据ABAC 和 XACML(extensible access control markup language)的相关理论[3]，当用户发起访问客体资源的请求时，策略决策点会调用相关属性进行解析并匹配到所有的策略，这意味着基于XACML的访问控制策略的评估需要遍历所有的策略进行判断，其中属性匹配需要对访问控制请求的所有属性信息和策略集合中的规则的属性信息进行比较。其中，信息匹配包括字符串匹配和数值比较，且只有该策略全部的属性信息都和属性访问请求(attribute access request,AAR)匹配才会授予主体访问客体的权限。此外，在对策略集合中的规则逐个匹配的过程中，若每次都是最后一个属性被匹配时，才发现它与AAR不一致，如果此类规则太多就会增加策略检索的时间。本文针对上述问题提出一种基于二进制序列的属性访问控制策略检索方法，以提高策略检索效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文其余部分的组织如下：第1节相关理论及研究工作介绍，第2节对基于二进制序列的属性访问控制策略检索方法进行描述，第3节是实验结果与分析，第4节是结束语。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 相关理论及研究工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的访问控制由于其本身的一些局限已经不再适合云计算多域的特点。ABAC根据用户的主体属性、客体属性、环境属性等信息来授予主体访问权限，因其具有动态性、细粒度和灵活性而备受关注。ABAC可用四元组(S,O,E,P)来表示，其中，S为主体(subject)、O 为客体(object)、E 为环境(environment)、P为权限(privilege)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "访问控制策略由主体、客体、环境和权限组成，可形式化定义为：(permit,deny) $$ (Attr(S),Attr(O),Attr(E),Attr(P))，分别表示相应的属性取值范围。一条访问控制策略通常是由一个或多个访问控制规则组成，表示主体S在环境条件E下是否被允许对客体O进行P权限的操作，其具体形式如下所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rule:access(S,C $) , \\mathrm { E } , \\mathrm { P } ) \\gets f ( \\mathrm { S A } , \\mathrm { O A } , \\mathrm { E A } , \\mathrm { P A } )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这里， $f$ 是一个布尔函数，其作用是根据访问控制规则对具体的主体、客体、环境和权限的属性作出判断。若返回结果为真，则允许访问；否则，拒绝访问。在ABAC的授权步骤中，策略判定点(policy decision point,PDP)、策略执行点(policyenforcement point，PEP)、策 略 管 理点（policyadministrate point,PAP)和策略信息点(policy information pointPIP)是其最为重要的支撑，整个过程分为两个阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)准备阶段：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 首先，PIP对所有的主体、客体、权限和环境的属性信息进行搜集和管理，并把属性、权限关系进行关联。$\\textcircled{2}$ 然后，PAP从PIP获得构建ABAC策略所需的属性信息和属性-权限关系构建ABAC策略。(2)执行阶段$\\textcircled{1}$ 当PEP接收到主体发送的原始访问请求(NaturalAccessRequest,NAR)时，PEP向PIP请求获取构建AAR所需的主体属性、客体属性、环境属性和权限属性来构建基于属性的访问控制请求。$\\textcircled{2}$ PDP根据PIP提供的主体属性、客体属性、环境属性信息和权限属性等属性信息对主体的身份信息进行验证。$\\textcircled{3}$ 根据PAP提供的策略查询结果对PEP转发来的AAR进行判定，决定是否对AAR进行授权。$\\textcircled{4}$ PAP将判定结果传递给PAP，PEP执行决策结果。ABAC的成功部署需要两个关键部分：一是定义良好的策略描述语言；二是为ABAC制定一种有效的策略检索方法。其中，前者有利于防止云平台资源数据泄露和非法授权访问，而后者能确保访问控制请求到来时得到及时响应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一方面，在如何定义良好的访问控制的授权策略描述语言方面，学者们对不同的访问控制模型和应用场景进行研究，提出了XACML、应用于Web服务的基于图的策略可视化描述语言[4],适用于RESTful接口的策略描述语言RestPL[5]等。其中，较为常用且适用于ABAC模型的是XACML。但在实际的云部署中，各个企业更倾向于自己的策略描述语言。另一方面，对于一些大型的组织，随着ABAC的规模越来越大，其用户在同一时刻发出访问请求的数量会也越来越多。因此，有效的检索ABAC策略对实时响应用户的AAR是至关重要的，也直接影响着用户的体验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在如何有效地检索ABAC策略方面，目前研究人员已经取得了一些成果。这些研究工作大致分为两类：一类是对策略访问控制语言为XACML标准的策略检索方法的改进，另一类是根据下一代访问控制NGAC[6,7]标准进行策略检索方法的改进。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于如何提高策略的检索效率，缩短策略检索时间，这方面的研究较少。在传统的策略检索方法的检索过程中，当有访问控制请求时，需要对所有的策略进行遍历，若出现策略冗余和冲突，XACML需支持四种组合算法：(1)优先适用，(2)只适用一项，(3)允许-覆盖，(4)拒绝-覆盖[8]。为了提高策略的检索效率，文献[9]提出了一种基于图的XACML策略评估方法，该方法对匹配树和合并树两个策略评估策略数据结构进行优化，并且针对策略匹配树提出一种二进制查找算法，该方法不支持多值属性。文献[10]提出了一种新的基于统计学分析的策略评估引擎HPEnigne 来提高分布式环境下XACML策略评估引擎的效率，该引擎将策略由文本形式转换成数值形式，缩减了策略规模，同时，采用多缓存机制来提高策略的查找速度。文献[11提出一种基于前缀的标记运算的策略检索方法，该方法根据策略属性的取值添加二进制前缀，从而缩小策略检索的范围。这种检索方法确实提高了检索效率，但是，在访问控制策略与访问请求属性名匹配的情况下，其前缀计算反而造成时间上的浪费。针对该问题，文献[12]在基于属性访问控制策略添加二进制标识之后，然后在属性值级别引入策略决策树来提高检索效率，并且该方法具有良好的可扩展性，但是该方法在访问控制策略属性比较多的情况存在一定的局限性。文献[13]在[11]的基础上进行研究，提出了一种基于属性分组的访问控制策略检索方法，通过对策略集进行基于属性的分组而缩减策略检索的范围，从而减少不必要的计算以及比较过程，由此实现对访问控制策略的高效率检索。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在下一代访问控制标准中，策略决策点负责在访问控制策略中检索符合访问控制请求的规则[14]。在进行策略检索时，需要把AAR的属性和访问控制策略中的每一条规则的属性信息进行比较，直到找到符合的规则，这无疑是费时的。为此，文献[15]提出了一种名为PolTree 的数据结构，它通过两个变体PolTree和N-PolTree来存储ABAC策略，并减少策略检索时的属性-值对的比较次数，从而提高策略的检索效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总的来说，各种ABAC检索方法都有优势和缺点，其检索效率与传统的策略检索方法相比，其效率也有所提高，但仍然存在一定的局限性。基于路由中二叉线索树能快速在转发表中找到匹配的叶节点，从而提高查找效率的思想，本文提出一种基于二进制序列的属性访问控制策略检索方法，该方法通过对策略进行二进制标识，根据二进制标识对其进行分组形成若干策略集合组，对组内的策略进行二进制编码。当进行访问时，先对访问控制请求进行二进制标识与编码，然后通过访问控制请求与策略的逻辑运算从而选择合适的组，过滤掉大量无关策略。最后，访问控制请求的二进制编码的值与组内策略的值进行逻辑运算而避免对策略中属性信息的单个匹配，从而提高检索效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于二进制序列的属性访问控制策略检索方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1构建基于二进制标识的策略和 AAR",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了对ABAC策略和AAR进行二进制标识，本文需要统计出现在访问控制策略集合中所有属性，并对该属性按照主体、客体、环境和权限的特定顺序排列。并且，主体、客体、环境和权限属性的内部属性也要按一定的顺序进行排列，以此来保证二进制标识的有效性。通常，属性分为目录属性和非目录属性，目录属性指的是一些决策信息属性值，包括{allow,denny}，每条规则有且仅有一个决策属性。非目录属性指的是作出决策需要衡量的属性信息包括主体属性、客体属性、环境属性和操作属性。对规则的编码只是针对非目录属性，分别用二进制数字0和1来表示该属性在访问控制请求和策略集合中是否出现，0表示未出现，1表示出现，从而形成ABAC策略和AAR的二进制标识。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在云计算环境中，用户通过各自的终端设备请求服务，如果本文构建如表1所示的属性信息，再利用这些属性信息去构建如表2所示的ABAC策略。二进制标识只是针对非目录属性，其维度就是非目录属性的个数，即统计访问控制规则中所有属性个数，其属性的总数就是二进制标识的位数。例如，表2中单个规则中拥有的最多的非目录属性个数是6，所以二进制标识位的长度为6。规则中存在该条属性，就把对应的值置为1，否则为0。也就是说，每一个二进制位表示该条规则中是否存在该属性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a046783bcc0ed0bd58f6852f541f6684d63342992fa5bb5dbdfbe306bab7c6f6.jpg",
+        "table_caption": [
+            "Tab.1Attribute combination "
+        ],
+        "table_footnote": [
+            "表2访问控制策略集合"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">主体属性</td><td colspan=\"2\">客体属性</td><td>环境属性</td><td>权限属性</td></tr><tr><td></td><td></td><td></td><td></td><td>SA_Role SA_trust OA_type OA_trust EA_Network</td><td>PA_permission</td></tr><tr><td>student</td><td>low</td><td>personal</td><td>low</td><td>home</td><td>delete</td></tr><tr><td>teacher</td><td>middle</td><td>common</td><td>middle</td><td>work</td><td>read</td></tr><tr><td>admin</td><td>high</td><td></td><td>high</td><td>public</td><td>write</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5aeb5a6f139bce9256e6faf5d9a4f6d9aa28ffa92991241efec2e9fc641c806e.jpg",
+        "table_caption": [
+            "表1属性组合"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>规则</td><td>attr(SA)</td><td>Attr(OA)</td><td colspan=\"4\">Attr(EA)Attr(PA)Decide 二进制标识</td></tr><tr><td>R1</td><td></td><td>student Vlow personal Vlowhome</td><td></td><td></td><td>deletepermit</td><td>111111</td></tr><tr><td>R2</td><td>low</td><td>personal Vlow public</td><td></td><td>delete</td><td>deny</td><td>011111</td></tr><tr><td>R</td><td>Student</td><td>low</td><td>work</td><td>delete</td><td>deny</td><td>100111</td></tr><tr><td>R4</td><td>Student</td><td>low</td><td>home</td><td>delete</td><td>permit</td><td>100111</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如前所述，ABAC的访问控制分为准备阶段和执行阶段。在准备阶段，PAP需要对策略集合中的每条规则进行二进制标识。在策略执行阶段，只需要对AAR进行二进制标识，然后与策略的二进制标识进行逻辑与运算，当运算结果与访问控制规则的二进制标识一致时，则对该规则的其他属性进行检测，即判断AAR的属性是否符合规则的属性信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为进一步减少策略检索时间，根据ABAC策略的二进制标识进行分组，构建类似路由中二叉线索树。在该树中，除了第一层根节点外的每个节点都表示一个分组，二进制标识相同的规则在同一组，二进制标识不同的在不同的组。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "访问控制规则的属性代表的是对AAR的要求，即要跟该条访问控制规则匹配成功，AAR需要拥有规则所要求的属性和属性值。这就意味着AAR和规则的匹配并不非毫无差别的匹配。实际上，在策略检索的时候，只检测AAR的属性是否符合访问控制规则的属性信息，对于AAR中多出的属性，并不做额外的匹配要求，即AAR中的额外属性并不影响其匹配的成功与否。例如，某 AAR 为(SA_Role $\\mathrel { \\mathop : } =$ 'student\",SA_trust=\"low\",OA_type=\"personal\",OA_trust=\"low”,EA_Network $\\ c =$ \"public\",PA_permisssion $\\ c =$ \"Denny\")，其二进制标识为111111,但是,对其二进制标识位011111,101111,,111110的分组也有可能存在符合该AAR的规则。若在表2的访问控制策略集合中查找合适的规则，其中，二进制标识为011111的分组中的 ${ \\bf R } _ { 2 }$ 规则也符合该AAR。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2属性信息的二进制编码",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实际上，如果对ABAC策略进行二进制标识并进行分组在进行策略检索时，就能有效的缩短策略检索的范围，使得策略的范围局限到符合二进制标识的几个组内，过滤掉大量无关的规则，从而缩短策略检索的时间。但是，当在本组检索的时候，需要对每条规则的每个属性的取值与AAR的对应取值进行匹配，检验AAR是否满足该条规则，最坏情况就是每次检测到规则的最后一个属性时，才发现该规则不符，这样将会造成时间上的浪费。如果存在这样的规则过多，将会造成策略检索时间过长。为此，本文提出对每个组的访问控制策略进行二进制编码。这样只需要对AAR的二进制编码与ABAC 策略的二进制编码进行逻辑运算而作出授权决策，而不需要对策略集合的每条访问控制策略的每个属性值进行判断，从而节省策略检索的时间，提高策略检索效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ABAC的属性值由两种类型组成：离散属性值和连续属性值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)离散属性编码",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "例如，上文中出现的主体属性的SARole的属性值的取值范围为{student，teacher，admin}是离散属性值。如果主体si的属性sai是离散属性，说明sai的取值是相互独立的，其取值范围可以通过枚举的方式表示。本文对其采用哑变量编码方式进行编码。其中，1表示该属性值存在，0表示该属性值不存在。对于该属性位都不存在的情况，则把所有位置全置为0。假设 sai的取值范围为{saivo,saivi,saiv2},一共有3个值可取,则采用三个二进制位进行编码。若sai的取值范围为 $\\mathrm { a t t r } ( \\mathbf { s } \\mathbf { a } _ { 1 } ) { \\neq } \\{ \\mathbf { s } \\mathbf { a } _ { 1 } \\mathbf { v } _ { 1 } \\}$ ,对其编码时除了第二位其余位全置为0,即编码为101。若为 $\\mathrm { a t t r } ( \\mathrm { s a } _ { 1 } ) { = } \\{ \\mathrm { s a } _ { 1 } \\mathrm { v } _ { 1 } , \\ \\mathrm { s a } _ { 1 } \\mathrm { v } $ 2},则把二进制序列的第二位和第三位置为1,其余位置全置为0，即110。主体 si的属性sa2的取值范围为 $\\{ \\mathbf { s a } _ { 2 } \\mathbf { v } _ { 0 } , \\mathbf { s a } _ { 2 } \\mathbf { v } _ { 1 } \\}$ ,一共有2个值可取。因此，采用5个二进制位对主体si属性进行编码，如表3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/259b4a2b1c4292e78db6bfcd8ad86700a24325c4bc3dcd3c6dda9181fbac6975.jpg",
+        "table_caption": [
+            "Tab.2 Access control policy set ",
+            "表3属性的二进制编码",
+            "Tab.3Binary encoding of attributes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主体属性取值范围</td><td>二进制编码</td></tr><tr><td>attr(sa1)={sa=saiV1}Vattr(sa2)={sa2=sa2Vo}</td><td>01010</td></tr><tr><td>attr(sai)={sa1≠saiV1}Vatr(sa2)={sa2=sa2Vo}</td><td>01101</td></tr><tr><td>attr(sai)={sai={saiV1,saiV2 }Vattr(sa2)={sa=sa2Vo}</td><td>01110</td></tr><tr><td>attr(sai)={sa=saiV1}</td><td>00010</td></tr><tr><td>attr(sa2)={sa2=sa2Vo}</td><td>01000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)连续属性编码",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在特定访问控制环境中会指定在某个时间段内允许访问资源或者需要设置主体属性的信任等级处于每个信任值之间，这就需要设置连续属性。对连续的无法枚举的属性值，需要将其离散化。在访问控制系统中比较常用的连续属性是信任连续属性和时间连续属性。以信任连续属性为例对连续属性如何离散进行说明，时间连续属性和信任连续属性的编码和离散化过程类似。如前述主体的SA_trust 属性和客体的OA_trust属性表示的都是主体所具备的信任值和访问客体的主体需要满足的信任值，主体所具备的信任值是采用一定的计算方法计算出来的值如文献[16]所提出的计算方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3基于二进制序列的策略检索方法分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "访问控制策略中每个属性的取值范围代表的是对访问控制请求的属性组合的要求，即想要获得访问客体的特定权限需要满足的属性和属性值，这意味着策略和访问控制请求的匹配并非是完全一致无差别的匹配。实际上，策略的匹配都是字符串的匹配，访问控制策略只检测访问控制请求是否拥有相关属性信息，访问控制请求有额外的属性信息并不影响其匹配的成功与否。例如，存在这样的一条策略，主体可以在工作时间访问客体资源，如果主体在工作时间发出访问客体资源的请求，在该请求中包含了该主体的角色信息，那么该主体的访问仍然是被允许的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以表2中的策略集合为例,选取表1中的属性值构建基于属性的访问控制请求{SA_role $\\ L =$ student,SA _trust=low,OA_trust=low,EA_Network $\\vDash$ work，PA_permission $\\circleddash$ delete},首先，根据本文提到的基于二进制序列属性访问控制策略检索方法,对表2中的规则进行编码的结果依次为：(Ri,10010010100100100），(R2，00010010100001100），(R3,10000000100010100)，(R4,10000000100100100).然后对AAR进行二进制标识,除了OA_type未设置属性值外，每个属性都有属性值，所以AAR的二进制标识为110111。按照前述提到的编码方法对AAR进行编码为(AAR,10010000100010100)。访问控制请求的二进制标识和策略的二进制标识做逻辑与运算110111&111111 $\\ c =$ 110111111111,说明 ${ \\bf R } _ { 1 }$ 规则所在的组不符合访问控制请求的属性要求，跳过Ri所在的组，对第二个组的规则进行查询110111&$0 1 1 1 1 1 { = } 0 1 0 1 1 1 { \\neq } 0 1 1 1 1 1$ ，所以R2所在的第二组也不符合属性要求，过滤掉该组。对第三个组进二进制标识为100111的规则组进行查询，110111& $1 0 0 1 1 1 { = } 1 0 0 1 1 1$ ，说明在R3规则所在的组是需要进一步查找的组，R规则的二进制编码10000000100010100与访问控制请求的二进制编码10010000100010100 进行逻辑与运算的结果为10000000100010100策略的二进制编码相等，即10000000100010100& $1 0 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 = 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 ,$ （204号则该条规则就是要找的规则，因为其决策属性为Denny，所以PDP的决策结果将是拒绝本次访问，本次策略检索结束。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在以上的策略检索过程中，如果采用传统的策略检索方法，则需要对策略集合中的每条规则的每个属性进行匹配，直到找到所需要的规则为止，因此需要执行的匹配次数为18次，如果采用根据二进制标识分组的方法则需要AAR的二进制标识和访问控制策略的二进制标识做逻辑与运算，并判断是否与策略的二进制标识一致，减少了不合适规则属性的匹配次数，因此进行匹配的次数为10次。采用基于二进制序列的属性访问控制策略检索方法只需要进行二进制标识匹配和二进制编码匹配，因此只执行的匹配次数为4次，其具体的策略检索过程如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/63bd0f0c77aca6180104511d61ab4a38d4e67b3a8cb93b8e4fb8c294b5a8011a.jpg",
+        "img_caption": [
+            "图1基于二进制序列的策略检索机制流程",
+            "Fig.1Process of policy retrieval mechanism based on binary sequence "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于二进制序列的属性访问控制策略检索方法的核心算法如下算法1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法1基于二进制标识的策略检索算法",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Input:policy_set，AAR /\\*策略集合，要进行判别的访问控 制请求\\*/   \nOutput:Decision /\\*决策结果\\*/   \n1.Begin   \n2.Step 1:Identify and encode attribute-based access control requests.   \n3．Init(AAR.policy_groupbinary);   \n4．Init(AAR.policy_code); /\\*对访问控制请求二进制标识和 策略编码位进行初始化\\*/   \n5.for(i=0;i< AAR.size(); $^ { i + + }$ ）do   \n6．if（AAR[i]）exist then   \n7.AAR.policy_groupbinary.setposition $( p ) { = } 1$ /\\*对访问控制 请求进行二进制标识\\*/   \n8.end if   \n9．end for   \n10.for( $\\therefore j = 0 ; j < A A R$ .policy_code.size(); $j { + } { + }$ ）do /\\*对访 问控制请求进行二进制编码\\*/   \n11．if（AAR[j].attrvale）exit then   \n12.a=getposition(AAR[j].attrvale);   \n13．AAR.policycode.setposition(a) $_ { \\cdot = 1 }$ ·   \n14.end if   \n15．end for   \n16.Step 2：Retrieve policy table. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17.for( $\\displaystyle i = 0$ ;i<Group.size; $i + +$ ）do /\\*进行策略检索\\*/   \n18. if (Group.[i].groupbinary&AAR.groupbinary) $\\scriptstyle = =$   \nGroup[i].groupbinary）then   \n19.for( $g { = } \\theta$ ;g<Group[i].size; $g { + } { + }$ ）do   \n20.if(Group[i].ruleset[g].policycode&AAR.policy_code   \n$\\scriptstyle = =$ （Group[i].ruleset[g].policycode)   \n21．then   \n22.decide(); /\\*作出决策\\*/   \n23.end if   \n24.end if   \n25.end for ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据前述的对AAR进行二进制标识和编码的算法来看：本文对AAR处理的最多的次数是ARR的数量，所以其时间复杂度位 ${ \\mathrm { O } } ( n )$ 。当进行策略检索时，要对每个分组的每条规则进行判断，所以其时间复杂度位 $O ( n ^ { 2 } )$ ，通常， $n$ 取值不大，如后面实验中，本文取 $n { = } 6$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为评估基于二进制序列策略检索方法的效率，本文在Win10平台上利用 $\\scriptstyle { \\mathrm { C } } + +$ 语言在QtCreator中编写测试代码，并用Matlab作为数据分析工具。通常，评估检索方法需要大量的ABAC策略和AAR，不幸的是，由于访问控制策略属于机密性内容，无法获得真实的行业数据。通常，路由器上的访问控制策略条数是300-500条。如文献[13]选取策略总数量为105、210、315、433、525的五种情况进行实验。本文中，为了说明算法的高效性以及出现大规模的访问控制策略问题，选取更多的访问控制策略条数，如：2000、2500和3000。因此，参考了上述提到的属性信息，实现一个简单的策略和访问控制请求生成器，产生了4000条ABAC策略和2000条AAR，其中每条策略包含一个访问控制规则。为了保证二进制标识的有效性，参考了文献[17]的数据分类方法进行标准化。本文的实验以这些数据为基础从策略预处理、策略评估时间、策略检索总时间三个方面测试本文提出的检索方法的效率。同时，为保证测试结果的一般性，以下实验得到的数据都是进行10次实验并对其求平均值的结果。实验环境为：CPU:11th Gen Intel(R)Core(TM)i5-1135G7@2.40GHZ2.42GHz,RAM:16.00GB;Qt Creator3.3.0(opencesource) Basedon Qt 5.4.0(MSVC 2010,32 bit)，Matlab 版本:8.6.0.267246(R2015b)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在下列实验中，考虑到本文提出的二进制标识和编码方法与文献[11]和[13]方法都属于分组型和前缀型查找方法，本文用SG-PRM表示文献[11]提出的基于前缀的策略检索方法，AG-PRM表示文献[13]提出的基于属性分组的访问控制策略检索方法，而B-S-PRM指本文提出的策略检索方法。实验对比都是基于相同的访问控制策略和访问控制请求。策略复杂度指的是策略中每条规则中所包含的属性键值对的个数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1策略预处理时间",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "策略预处理是在访问控制的准备阶段完成的，主要对策略属性进行部署。本文提出的策略检索方法的策略预处理时间指的是PAP对策略集合中的每一条规则添加二进制标识、分组、编码的时间。SG-PRM在策略预处理阶段对策略进行二进制标识。AG-PRM在策略预处理阶段对策略进行二进制标识，分组。由图2可知，当把策略数目设置为500，1000，1500，2000，2500时，B-S-PRM,SG-PRM和AG-PRM策略检索时间都随着策略数目的增多检索时间也逐渐增长，且呈线性增长趋势。其中，AG-PRM和SG-PRM这两种策略检索方法的策略预处理时间比较接近，且低于B-S-PRM策略检索方法的策略预处理时间，这是因为本文提出的策略检索方法在前两种策略检索方法的基础上增加了二进制编码的过程。基于二进制序列的策略检索方法(B-S-PRM)对策略的分析相比其他两种策略检索方法确实更费时间。但是，对基于属性访问控制策略的预处理发生在访问控制系统的准备阶段，并不会对策略检索时间造成任何影响。因此，本文的策略检索方法并不影响用户的实时体验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2策略评估时间",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "策略评估是指PDP在执行阶段完成的。主要指PDP检索符合访问控制请求的规则并作出决策的过程。图3(a)(b)和(c)显示了不同策略规则数目条件下，增加访问控制请求数量，观察策略评估时间的变化。当策略数目分别设置位为2000，2500，3000，这三种策略检索方法的检索时间都随着访问控制请求的增多而加长。其中，SG-PRM在策略检索阶段访问控制请求的前缀和策略的前缀做逻辑或运算，运算结果与策略的前缀一致再匹配属性信息是否相符。AG-PRM对策略集进行基于属性的分组而缩减策略检索的范围。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d9142a6e364387b4b76d28638f68d324f2c670de7f923565f7ef3e67ec55e1e.jpg",
+        "img_caption": [
+            "图2策略预处理"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9206482b9a6b83bc1ee39afe30aac1e435fc5d8aed43e69b04e6ff2f4b7379cf.jpg",
+        "img_caption": [
+            "Fig.3The policy evaluation time under different policy rules "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过图3(a)(b)(c)可以看出，在不同的访问控制策略条件下，随着访问控制请求数量的增加，这三种策略检索方法的策略评估时间都逐渐加长。其中，本文提出的策略检索方法(B-S-PRM)的策略评估时间随着策略数量的增多呈下降趋势。当策略数量为3000时，B-S-PRM的策略的评估时间约为策略数量为2000时的一半，其策略评估时间的波动范围也逐渐缩小,而其他两种策略检索方法的策略评估时间却没发生明显变化。SG-PRM的策略评估时间在 $4 { - } 3 2 \\mathrm { m s }$ 之间波动，AG-PRM的策略评估时间在 $4 { - } 2 7 \\mathrm { m s }$ 之间波动，B-S-PRM在1-11之间波动，由此可以看出本文提出的策略检索方法的检索时间更加稳定，B-S-PRM的策略检索效率约是SG-PRM和AG-PRM的3倍。这说明本文提出的策略检索方法能够应用于高策略的环境下。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3策略检索总时间",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于属性访问控制策略的检索总时间包括PEP对AAR处理的时间，以及PDP对策略进行评估的时间。如图4所示，策略总数为3000，随着访问控制请求数量的增加，三种策略检索方法对访问控制请求的处理时间都逐渐增长，且接近于线性增长。其中，SG-PRM和AG-PRM对访问控制请求的处理时间比较接近，本文提出的策略检索方法对访问控制请求的处理时间约是SG-PRM和AG-PRM的两倍。这是因为在对访问控制的处理过程中，本文提出的策略检索方法更为复杂，SG-PRM对访问控制请求添加前缀，B-S-PRM需要对策略进行二进制编码和标识，AG-PRM只需要到对访问控制请求添加分组标识和前缀标识。但是，通过图5可以看出其本文提出的策略检索方法虽然在PEP对AAR的处理花费了较长的时间，但其总的检索时间反而有大幅度下降。其中，B-S-PRM的检索效率约比SG-PRM提高了4倍，比AG-PRM提高了3.5倍以上。随着访问控制请求数量增加，本文提出的策略检索方法更具有优势，策略检索时间更加稳定。因为，当策略增多时，不同于另外两种策略检索方法，本文提出的策略检索方法没有对规则内的属性值对进行遍历，而是选择合适的分组对本组内的规则遍历，从而减少了策略检索的范围。因此，检索效率得到极大的提高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9feb81b0d264cd39e64faa9b58ed825f889a4baa0c9c504d8c4428d81c8cdd39.jpg",
+        "img_caption": [
+            "Fig.2Policy preprocessing ",
+            "图4访问控制请求的处理时间"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad7a246d4390a5e1d5aa669f1a2e535ae72adf8c134fafa546f2a67193cf3524.jpg",
+        "img_caption": [
+            "图3不同策略规则数下策略评估时间",
+            "Fig.4The processing time of access control request ",
+            "图5总的策略检索时间Fig.5The total policy retrieval time"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文提出的策略检索方法虽然在策略的预处理时间比其他两种策略检索方法时间更长，但是其策略的检索时间却显著的缩短了，检索效率优势明显。随着策略规模的增大，本文提出的策略检索方法的检索时间并未发生显著变化。应用到云计算、的基于属性访问控制的部署中，当用户的访问控制请求到来时，该方法能够缩短用户的等待时间，实时响应用户的访问控制请求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着云计算、物联网技术的兴起，当今的网络环境越来越趋于海量性和动态性，用户和资源规模巨大，主客体的访问环境也实时动态变化。基于属性访问控制作为一种保护客体资源的有效技术而被广泛应用。用户希望在较短的时间内得到访问客体资源的权限，从而缩短策略检索时间，减少对访问控制请求的响应时间。然而，现有的基于属性访问控制策略的检索方法应用于大规模访问的情况下存在着一定的不足。针对该问题，本文提出一种基于二进制序列的属性访问控制策略检索方法。该方法对基于属性访问控制请求和基于属性访问控制进行二进制标识和编码，并且根据二进制标识对策略进行分组。在进行检索时，首先，访问控制请求的二进制标识和组二进制标识进行逻辑与运算来选择符合要求的分组，过滤掉大量无关的策略。然后，访问控制请求的二进制编码与组内规则的二进制编码做逻辑运算来选择合适规则减少了策略集合内规则的属性与访问控制请求属性匹配的过程。实验结果验证了本文提出的策略检索方法具有更低的策略检索时间，更高的检索效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在保证策略检索效率的情况下，考虑将本文的策略检索方法和属性加密相结合来进一步提高属性的安全性是未来的研究方向。另外，本文的提出策略检索方法只在理论层面，如把该策略与实际情况相结合进行优化，以适应于未来实际的应用也是将来的研究方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]PanJun Sun. Security and privacy protection in Cloud Computing: discussions and challenges [J].Journal of Network and Computer Applications.2020,160 (102642): 1-22   \n[2]Servos D,Osborn S L.Current research and open problems in attributebased access control[J].ACM Computing Surveys,2017,49 (4):1-45.   \n[3]OASIS XACML.eXtensible access control Markup language XACML version 3.0 [S].OASIS Standard,Munich,2011.   \n[4]D.Nabil,H. Slimani and H.Nacer, et al.ABAC conceptual graph model forcomposite Web services [C]// The 5th IEEE International Congress on Information Science and Technology,Marrakech,Morocco,IEEE 2018:36-41   \n[5]罗杨，沈晴霓，吴中海．一种新的访问控制策略描述语言及其权限 划分方法[J]．计算机学报，2018,41(6):969-986(Luo Yang,Shen Qingni,Wu Zhonghai.A novel access control policy specification language and its permisson classitication method [J. Chinese Journal ot Computer,2018,41 (6): 969-986)   \n[6]Jun Ho Huh,Rakesh B.Bobba,Tom Markham,et.al.Next-Generation access control for distributed control systems.IEEE Internet computing, 2016,20 (5): 28-37   \n[7]Working DRAFT Information technology-Next Generation Access Control -Generic Operations and Data Structures (NGAC-GOADS）, INCITS499-2013,American National Standard for Information Technology,American National Standards Institute,2014.   \n[8]Mohamed Mejri, Hamdi Yahyaoui, Azzam Mouradc,et al.A rewriting system for the assessment of XACML policies relationship [J]. Computers & Security,97 (2020),2020,1-12.   \n[9]Santiago Pina Ros,Mario Lischka,Félix Gómez Marmol.Graph-based XACML evaluation [C]// In Proceedings of 17th ACM symposium on Access Control Models and Technologies (SACMT),New York, NY, 2012, 83-92.   \n[10] D.H.Niu,J.F. Ma,Z. Ma,C.N. Li,L.Wang. HPEngine: High performance XACML policy evaluation engine based on statistical analysis [J]. Journal of Communication.2014,35 (8): 206-215.   \n[11]邹佳顺，张永胜.ABAC 中基于前缀标记运算的策略检索方法 [J]. 计算机工程与设计,2015,36(11):2943-2947.(Zou Jiashun,Zhang Yongsheng. Policy retrieval method based on prefix sign operation in ABAC model [J]. Computer Engineering and Design,2015,36(11): 2943-2947)   \n[12] Liu MP,Cheng Y,Hao Li,et al.An efficient attribute-based access control (ABAC) policy retrieval method based on atribute and value levels in multimedia networks [J],Sensors,2020,20 (6),1-15.   \n[13]黄美蓉，欧博．基于属性分组的访问控制策略检索方法[J].计算机 应用研究,2020,37 (10): $3 0 9 6 { - } 3 1 0 0 { + } 3 1 0 6$ .(Huang Meirong, Ou Bo. Attribute and RBAC based hybrid access control model[J]. Application Research of Computers,2020,37 (10): 3096-3100+3106)   \n[14] Vincent Hu,David F.Ferraiolo,D.Richard Kuhn,et al. Implementing and managing policy rules in attribute based access control [C]// 2015 IEEE 16th International Conference on Information Reuse and Integration, San Francisco,California,IEEE Press,2015,518-525   \n[15] Ronit Nath,Saptarshi Das,Shamik Sural. PolTree:A data structure for making efficient access decisions in ABAC [C]// In The 24th ACM Symposium on Access Control Models and Technologies (SACMAT'19), Toronto,ON,ACMPress,2019,25-35   \n[16] Zhao Z.Y.,Sun L.Atribute-based access control with dynamic trust in a hybrid cloud computing environment [C]// Proceedings of the 2017 International Conference on Cryptography, Security and Privacy. New York,ACM Press,2017: 112-118   \n[17] Shaikh R A,Adi K,Logrippo L.A data classification method for inconsistency and incompleteness detection in access control policy sets [J]. International Journal of Information Security,2017,16 (1): 91-113 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

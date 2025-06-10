@@ -1,0 +1,318 @@
+[
+    {
+        "type": "text",
+        "text": "罕见病药物市场与管理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李敏1\\*吴日伟²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1武汉临空港经济技术开发区食品医药产业建设管理办公室武汉430043)(2南昌高新技术产业开发区管理委员会南昌330096)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要罕见病,又称“孤儿病”,是指发病率极低的疾病,绝大部分属于先天性疾病、慢性病,且常常危及生命。近年来,随着公众认知度的提高、国家政策的支持、诊断及治疗技术的进步,罕见病药物市场逐渐发展起来,销售额逐年增加,出现多个“重磅炸弹”级药物。国际大型药企开始抢占罕见病药物市场并且加紧药物研发，目前正在研发的罕见病药物有 500 多个,主要针对罕见癌症、遗传性疾病、神经类疾病、传染性疾病和自身免疫性疾病等。发达国家和地区在罕见病管理及市场发展方面都已经比较完善,而中国在这方面还比较落后。对中国罕见病药物市场的发展困境进行了分析并提出了几点建议,希望能够促进国内罕见病药物市场的快速发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词罕见病药物国外罕见病药物市场罕见病药物管理国内罕见病药物市场困境",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号 Q819",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "世界卫生组织(WHO)定义，患病人数/总人口为$0 . 6 5 \\% o \\sim 1 \\% o$ 的疾病称为罕见病。然而事实上罕见病并不罕见，在欧美等发达国家每10人中就有近1人患有罕见病,全球罕见病患者更是高达3.5亿[1]， $8 0 \\%$ 都是因为基因遗传[2]。全球罕见病多达8000 余种,如半乳糖血症成骨不全症、线粒体病、血友病、地中海贫血、苯丙酮尿症、瓷娃娃症、肢端肥大症等。相关数据显示全球罕见病药物销售额一直保持增长，目前三分之一左右的罕见病药物年销售额都超过了10亿美元，预计2020年全球罕见病药物市场会达到1780亿美元[3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1国外罕见病药物市场",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1药物获批情况 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "美国食品药品监督管理局(FDA)认可的罕见病约有6000 种[4]，自从美国罕见病药物法案实施以来FDA已经批准近500个罕见病药物，但目前仍有4000$\\sim 5 ~ 0 0 0$ 种罕见病还没有治疗药物[5]。 $2 0 1 1 \\sim 2 0 1 3$ 年FDA批准的罕见病药物都在10种以上，2014年达到",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "23 种，占比超过 $5 0 \\%$ （图1）。2015年,FDA批准21种罕见病药物[6-7]（表1），占比达到 $4 7 \\%$ ,其中首次独占性的罕见病新药有8种，儿童罕见病新药有5种、抗肿瘤新药11种，适应证包括高风险分化型甲状腺癌、多发性骨髓癌、儿童神经母细胞瘤、囊性纤维化、磷酸酯酶缺乏等。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb7cb559e7e3096037a07fb29e4ae18cb4e7391701a8f49dad78e14d90434aa7.jpg",
+        "img_caption": [
+            "图1 ${ \\bf 2 0 1 1 } \\sim { \\bf 2 0 1 5 }$ 年FDA批准的罕见病药物数量 Fig.1The approved amount of orphan drugs approvedbyFDAbetween 2011 and 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Data sources:Official website of FDA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2药物销售情况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来罕见病药物销售情况良好，已成为医药行业盈利最大的板块之一。2015年年销售额在40亿美元以上的罕见病药物有4个，其中罗氏的利妥昔单抗注射液销售额最高，达到75.47亿美元。销售额在10亿～40亿美元的罕见病药物有19个，销售额在5亿\\~10 亿美元的罕见病药物有2个（表2），罗氏、新基、诺华、辉瑞等制药大公司是罕见病药物市场的领头羊[8]，年销售额都超过了50亿美元。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/83cb15009f45f63c76cd8609609e816cf6109f50ac8a3a145392a1b3848ccecd.jpg",
+        "table_caption": [
+            "表12015年FDA批准的21种罕见病药物",
+            "Table1The 21 kinds of orphan drugs approved by FDA in 2015 "
+        ],
+        "table_footnote": [
+            "Note:Thelistisedbppoal，Oarediseasugs，Breakouhrugs，prioipoal,Aceleratedroaln ; - standard procedures ",
+            "Data sources:Official website of FDA "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>药品名称</td><td>生产企业</td><td>作用机制</td><td>批准日期</td><td>适应证</td><td>评审类型</td></tr><tr><td>排名 1</td><td>Natpara(甲状旁腺素)</td><td>NPS</td><td>注射激素</td><td>2015.1.23</td><td>甲状旁腺素功能退化的低钙</td><td>0,s</td></tr><tr><td>2</td><td>Lenvima/lenvatinib(乐伐替尼)</td><td>卫材</td><td>VEGFR抑制剂</td><td>2015.2.13</td><td>血症 高风险分化型甲状腺癌</td><td>0,P</td></tr><tr><td>3</td><td>Farydak/panobinostat(柏比司他)</td><td>诺华</td><td>组蛋白脱乙酰酶抑 制剂</td><td>2015.2.23</td><td>多发性骨髓癌</td><td>O,P,A</td></tr><tr><td></td><td>(艾莎康唑)</td><td>Astellas</td><td>唑类抗真菌</td><td>2015.3.6</td><td>曲霉菌病、毛霉菌病等罕见感 染</td><td>0,P</td></tr><tr><td></td><td>Unituxin(dinutuximab)</td><td>United</td><td>GD2单抗</td><td>2015.3.10</td><td>儿童神经母细胞瘤</td><td>0,P</td></tr><tr><td></td><td>Cholbam/cholic acid(胆酸)</td><td>Therapeutics Retrophin</td><td>原发性胆酸</td><td>2015.3.17</td><td>胆汁酸合成障碍/过氧化物酶病</td><td>0,P</td></tr><tr><td></td><td>Orkambi/lumacaftor/ivacaftor（复</td><td>Vertex</td><td>CFTR 调节剂</td><td>2015.7.2</td><td>囊性纤维化</td><td>O,B,P</td></tr><tr><td></td><td>方鲁玛卡托) Evolocumab/repatha</td><td>安进</td><td>PCSK9 抑制剂</td><td>2015.7.21</td><td>降低低密度脂蛋白</td><td></td></tr><tr><td></td><td></td><td>Wellstat</td><td></td><td></td><td></td><td>0,s</td></tr><tr><td></td><td>Xuriden/uridine triacetate</td><td>Therapeutics</td><td>嘧啶类似物</td><td>2015.9.4</td><td>遗传性乳清酸尿症</td><td>0,P</td></tr><tr><td></td><td></td><td></td><td>达比加群结合单抗</td><td>2015.10.16</td><td>转达比的作用</td><td>0..</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Trabectedin</td><td>强生</td><td>烷化剂</td><td>2015.10.23</td><td>脂肪肉瘤和子宫肌瘤</td><td>0,P</td></tr><tr><td></td><td>Cotellic(cobimetinib)</td><td>罗氏</td><td>MEK 抑制剂</td><td>2015.11.10</td><td>晚期黑色素癌</td><td>0,P</td></tr><tr><td></td><td>Tagrisso(osimertinib)</td><td>阿斯利康</td><td>EGFR 拮抗剂</td><td>2012.11.13</td><td>EGFRT790M突变NSCLC</td><td>O,B,P，A</td></tr><tr><td></td><td>Darzalex(daratumumab)</td><td>强生</td><td>CDC38单抗</td><td>2015.11.16</td><td>四线治疗多发性骨髓癌</td><td>O,B,P，A</td></tr><tr><td>16</td><td>Ninlaro(ixazomib)</td><td>Takeda</td><td>口服蛋白酶抑制剂</td><td>2015.11.20</td><td>二线治疗多发性骨髓癌</td><td>0,P</td></tr><tr><td>17</td><td>Portrazza(mecitumumab)</td><td>礼来</td><td>EGFR 拮抗剂</td><td>2015.11.24</td><td>一线治疗晚期鳞状 NSCLC</td><td>0,s</td></tr><tr><td>18</td><td>Empliciti(elotuzumab)</td><td>Abbvie/BMS</td><td>SLAMF7单抗</td><td>2015.11.30</td><td>二线治疗多发性骨髓癌</td><td>O,B,P</td></tr><tr><td>19</td><td>Kanuma(sebelipase alfa)</td><td>Alexion</td><td>酶替代疗法</td><td>2015.12.8</td><td>溶酶体性脂肪酶缺乏</td><td>O,B,P</td></tr><tr><td>20</td><td>Alecensa(alectinib)</td><td>罗氏</td><td>ALK 抑制剂 前列环素受体激动剂</td><td>2015.12.11</td><td>二线治疗ALK+ NSCLC 肺动脉高压</td><td>O,B,P，A 0,s</td></tr><tr><td>21</td><td>Uptravi(selexipag)</td><td>Alexion</td><td></td><td>2015.12.22</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 企业并购情况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着罕见病药物市场的快速发展，各大药企都在加紧布局，全球罕见病药物市场并购交易频繁。2015年1月，英国制药商Shire以52亿美元的价格收购美国罕见病药物商NPS制药，未来公司将把重点转向罕见病药物领域。2015年3月，地平线制药（HorizonPharma）以11亿美元收购HyperionTherapeutics,揽获两项治疗遗传紊乱的药物专利。2015年4月，出于对罕见病领域的看好，以色列Teva斥资32亿美元收购Auspex。2015年4月，罗氏制药以4.7亿欧元收购法国Trophos，罗氏表示将会进一步展开对罕见病药物脊髓性肌萎缩症Olesoxime的研发工作。2015年4月，新基（Celgence）以7.1亿美元收购爱尔兰制药公司Norgra的GED-0301，该药用于治疗中度至重度克罗恩病。2015年5月，Shire斥资2.6亿美元收购美国Lumena 制药，由此Shire 获得了2种罕见病药物，丰富了Shire公司的罕见病产品种类。2015年7月，美国Baxter公司收购罕见病药物企业AesRxLLC，得到镰刀型细胞贫血症（SCD)新药Aes-103的所有权。2015年8月，罗氏制药以83亿美元收购了美国生物科技公司InterMune，获得其治疗特发性肺纤维化的新药吡非尼酮（pirfenidone）。2015年11月，Shire公司以59亿美元的价格收购罕见病药物研发者Dyax公司，Shire 获得了Dyax公司治疗罕见病遗传性血管性水肿（HAE）的药物资产。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/79d427428ec2bacced41210851ef96ec6a456b335bf82c68425c04d871bf6c82.jpg",
+        "table_caption": [
+            "表22015年罕见病药物全球销售额前25位",
+            "Table 2Top25 of global orphan drugs sales in 2015 "
+        ],
+        "table_footnote": [
+            "Data sources：EvaluatePharma "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">排名</td><td rowspan=\"2\">药品名称</td><td rowspan=\"2\">生产企业</td><td colspan=\"2\">销售额(亿美元)</td></tr><tr><td>2014年</td><td>2015年</td></tr><tr><td>1</td><td>Rituxan(利妥昔单抗注射液）</td><td>罗氏</td><td>73.21</td><td>75.47</td></tr><tr><td>2</td><td>Revlimid（来那度胺胶囊)</td><td>新基</td><td>58.01</td><td>49.80</td></tr><tr><td>3</td><td>Gleevec(甲硫酸伊马替尼片)</td><td>诺华</td><td>46.58</td><td>47.46</td></tr><tr><td>4</td><td>Copaxone(醋酸格拉替雷注射液)</td><td>梯瓦</td><td>38.89</td><td>42.37</td></tr><tr><td>5</td><td>Avonex(干扰素 β-la 注射液)</td><td>百健</td><td>26.30</td><td>30.13</td></tr><tr><td>6</td><td>Alimta(注射用培美曲塞二钠)</td><td>礼来</td><td>24.93</td><td>27.92</td></tr><tr><td>7</td><td>Rebif(重组人干扰素 β-la注射液)</td><td>默沙东</td><td>20.00</td><td>24.44</td></tr><tr><td>8</td><td>Advate(注射用重组人凝血因子VIII)</td><td>Baxalta</td><td>21.07</td><td>23.48</td></tr><tr><td>9</td><td>Soliris(依库珠单抗静脉注射液)</td><td>亚力兄</td><td>26.17</td><td>22.34</td></tr><tr><td></td><td>Sandostatin(注射用醋酸奥曲肽)</td><td>诺华</td><td>16.30</td><td>16.50</td></tr><tr><td></td><td>NovoSeven/NovoSeven RT(注射用重组人凝血因子 VIIa)</td><td>诺和诺德</td><td>14.97</td><td>16.29</td></tr><tr><td></td><td>Velcade(注射用硼替佐米）</td><td>强生</td><td>13.33</td><td>16.18</td></tr><tr><td></td><td>Afinitor(依维莫司片）</td><td>诺华</td><td>16.07</td><td>15.75</td></tr><tr><td></td><td>Tracleer(波生坦片)</td><td>Actelion</td><td>12.46</td><td>15.51</td></tr><tr><td></td><td>Tasigna(尼洛替尼胶囊）</td><td>诺华</td><td>16.32</td><td>15.29</td></tr><tr><td></td><td>Kogenate(注射用重组人凝血因子VIII)</td><td>拜耳</td><td>12.93</td><td>14.73</td></tr><tr><td></td><td>Sprysel(达沙替尼片)</td><td>百时美施贵宝</td><td>16.20</td><td>14.39</td></tr><tr><td></td><td>Velcade(注射用硼替佐米)</td><td>武田</td><td>11.73</td><td>13.96</td></tr><tr><td></td><td>Yervoy(伊匹木单抗注射液)</td><td>百时美施贵宝</td><td>11.26</td><td>13.08</td></tr><tr><td></td><td>Sutent(苹果酸舒尼替尼胶囊)</td><td>辉瑞</td><td>11.20</td><td>11.74</td></tr><tr><td></td><td>Norditropin Simplex(重组人生长激素注射液)</td><td>诺和诺德</td><td>11. 63</td><td>11.59</td></tr><tr><td></td><td>Sensipa(西那卡塞片）</td><td>安进</td><td>14.15</td><td>11.58</td></tr><tr><td></td><td>Nexavar(甲苯硫磺索拉菲尼片)</td><td>拜耳</td><td>9.72</td><td>10.27</td></tr><tr><td></td><td>Xyrem(羟基丁酸钠)</td><td>Jazz 制药</td><td>9.73</td><td>7.79</td></tr><tr><td>25</td><td>Pomalyst(泊马度胺胶囊)</td><td>新基药业</td><td>9.83</td><td>6.08</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 药物研发情况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于罕见病药物能够带来巨大的市场收益，近年来许多制药公司新药开发的关注点逐渐从常见药物转移到罕见疾病药物。目前全球处于研发阶段的罕见病药物有566 种，其中包括罕见癌症药物151个、罕见血液瘤药物82个、基因遗传性疾病药物148个、神经紊乱药物38个，一大批罕见病药物已经进入II期临床阶段（表3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表32016年部分处于II期临床的罕见病药物",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f7ce88e52ea03ab3fffdea5bf5d0e661eeabe18a35e9a9c1c0806f6921462a0.jpg",
+        "table_caption": [
+            "Table 3Part of the phase I orphan drugs in 2016 "
+        ],
+        "table_footnote": [
+            "Data sources：Pharmacodia "
+        ],
+        "table_body": "<html><body><table><tr><td>药物名称</td><td></td><td>公司</td><td>FDA适应证</td><td></td><td>药物名称</td><td>公司</td><td>FDA适应证</td></tr><tr><td>1</td><td>Actemra tocilizumab</td><td>Genentech</td><td>系统硬化症</td><td>32</td><td>Ixmyelocel-T</td><td>Vericel</td><td>扩张型心肌病</td></tr><tr><td>2</td><td>Translarna ataluren</td><td>PTC Therapeutics</td><td>囊性纤维化</td><td>33</td><td>Alicaforsen</td><td>Atlantic Healthcare</td><td>结肠袋炎</td></tr><tr><td>3</td><td>BYM3389 (bimagrumab)</td><td>Novartis</td><td>包涵体肌炎</td><td>34</td><td>Fostamatinib disodium</td><td>Rigel</td><td>免疫性血小板减少性紫癫</td></tr><tr><td>4</td><td>地夫可特</td><td>Marathon</td><td>幼年特发性关节炎</td><td>35</td><td>Olaratumab</td><td>Eli Lilly </td><td>软组织肉瘤</td></tr><tr><td>5</td><td>Momelotinib</td><td>Gilead</td><td>骨髓纤维化</td><td>36</td><td>Humira</td><td>AbbVie</td><td>儿童溃疡性结肠炎</td></tr><tr><td>6</td><td>芬戈莫德</td><td>Novartis</td><td>慢性炎性脱髓鞘多神经病 37</td><td></td><td>QPI-1007</td><td>Quark</td><td>缺血性视神经病变</td></tr><tr><td>7</td><td>Hyqvia</td><td>Baxter</td><td>慢性炎性脱髓鞘多神经病 38</td><td></td><td>阿普特斯</td><td>Celgene</td><td>白塞病</td></tr><tr><td>8</td><td>Mepolizumab</td><td>Glaxo SmithKline</td><td>变应性肉芽肿性血管炎</td><td>39</td><td>Acamprosate</td><td>Confluence</td><td>X 染色体易损综合征</td></tr><tr><td>5</td><td>Thymosin beta 4</td><td>ReGenTree</td><td>神经营养性角膜病变</td><td>40</td><td>大麻二酚</td><td>GW Pharma</td><td>婴儿严重肌陈挛性癫痫</td></tr><tr><td>9080</td><td>Rituximab</td><td>Genentech</td><td>寻常性天胞疮</td><td></td><td>41 JZP-110 苯丙氨酸衍生物</td><td>Jazz</td><td>发作性嗜睡病</td></tr><tr><td></td><td>SA237</td><td>Chugai</td><td>视神经脊髓炎</td><td>42</td><td>Luspatercept</td><td>Acceleron</td><td>B 型地中海贫血</td></tr><tr><td>00</td><td>Eculizumab</td><td>Alexion</td><td>重症肌无力</td><td>43</td><td>Pegvaliase</td><td>BioMarin</td><td>高苯丙氨酸血症</td></tr><tr><td>13</td><td>ALX-0081</td><td>Ablynx</td><td>血栓性血小板减少性紫 44</td><td></td><td>VX-661</td><td>Vertex</td><td>囊性纤维化</td></tr><tr><td>G</td><td>E5501</td><td>Eisai</td><td>特发性血小板减少性紫 45</td><td></td><td>TV-1106</td><td>Teva</td><td>生长激素缺乏症</td></tr><tr><td>15</td><td>Ruxolitinib</td><td>Incyte</td><td>血小板增多</td><td>46</td><td>AB103</td><td>Atox Bio</td><td>坏死软组织感染</td></tr><tr><td></td><td>Aldoxorubicin</td><td>CytRx</td><td>软组织肉瘤/胰腺癌</td><td>47</td><td>Delamanid</td><td>Otsuka</td><td>肺结核</td></tr><tr><td></td><td>NGF-hTNF</td><td>MolMed</td><td>恶性胸膜间皮癌</td><td>48</td><td>Binimetinib</td><td>Array</td><td>IIB-IV 期黑色素瘤</td></tr><tr><td></td><td>Tafenoquine</td><td>Glaxo</td><td>疟疾</td><td>49</td><td>Tirasemtiv</td><td>Cytokinetic</td><td>肌萎缩性脊髓侧索硬化症</td></tr><tr><td>Xei</td><td>Ramucirumab</td><td>Smitli</td><td>肝细胞瘤</td><td>50</td><td>ARD-3150</td><td>Aradigm</td><td>支气管扩张</td></tr><tr><td></td><td>Farletuzumab</td><td>Eisai</td><td>卵巢癌</td><td>51</td><td>COR-003</td><td>Stonebridge</td><td>内源性库兴氏症</td></tr><tr><td></td><td>Glufosfomide</td><td>Eleison</td><td>胰腺癌</td><td>52</td><td>LCI699</td><td>Novartis</td><td>Cushing 病</td></tr><tr><td>2</td><td>GS-5745</td><td>Gilead</td><td>胃癌</td><td>53</td><td>Revusiran</td><td>Alnylam</td><td>淀粉样病变</td></tr><tr><td>23</td><td>ICT-107</td><td>Celbdar</td><td>胶质瘤或脑胶质瘤</td><td>54</td><td>ELAD</td><td>Vital Therapies</td><td>肝衰竭</td></tr><tr><td>24</td><td>Keytruda</td><td>Merck</td><td>胃癌,包括胃食管连接</td><td>55</td><td>BMN701</td><td>BioMarin</td><td>庞贝氏症</td></tr><tr><td>25</td><td>乐伐替尼</td><td>Eisai</td><td>肝细胞瘤</td><td>56</td><td>Deflazacort</td><td>Marathon</td><td>杜氏肌营养不良</td></tr><tr><td>26</td><td>Multikine</td><td>CEL-SCI</td><td>鳞状头颈细胞癌</td><td>57</td><td>Reparixin</td><td>Dompe</td><td>移植术后胰岛细胞缺乏</td></tr><tr><td>27</td><td>Niraparib</td><td>TESARO</td><td>卵巢癌</td><td>58</td><td>RG6013</td><td>Chugai</td><td>A型血友病</td></tr><tr><td>28</td><td>Esuberaprost</td><td>Lung Biotechnology</td><td>肺动脉高压</td><td>59</td><td>MST188</td><td>Mast Therapeutics</td><td>镰刀型红细胞疾病</td></tr><tr><td>29</td><td>AG-221</td><td>Agios</td><td>急性骨髓性白血病</td><td>60</td><td>ZX-008</td><td>Zogenix</td><td>Dravet 综合征</td></tr><tr><td>30</td><td>Epratuzumab</td><td>Immunomedics</td><td>急性淋巴性白血病</td><td>61</td><td>Debio8206</td><td>Debiopharm</td><td>中枢性性早熟</td></tr><tr><td>31</td><td>Keytruda</td><td>Merck</td><td>多发性骨髓癌</td><td>62</td><td>Nifurtimox</td><td>Bayer</td><td>查加斯病</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了制药公司关注罕见病药物研发外，美国政府也在罕见病药物开发上给予了大量的资金支持，2016年FDA拨款2300万美元，赞助21种罕见病治疗方法",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "的研究（表4），支持科研界和企业界的罕见病新药开发。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a82f454c64abba0f19d2747aa5d163c2debbcce97108c6a3be7e59a750ec41c.jpg",
+        "table_caption": [
+            "Table 4Orphan drugs list and project fund sponsored by FDA "
+        ],
+        "table_footnote": [
+            ")ata sources:Official website of FDA "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">疾病</td><td>费用/美元</td><td></td><td>疾病</td><td>费用/美元</td></tr><tr><td>1</td><td>肌萎缩性侧索硬化(ALS)</td><td>1年/24.3万</td><td>12</td><td>丙酮酸脱氢酶复合物缺乏症</td><td>4年/200万</td></tr><tr><td>2</td><td>抗中性粒细胞胞质抗体相关性小血管炎</td><td>1年/50万</td><td>13</td><td>预防绝经后妇女骨质疏松症骨流失</td><td>4年/约160万</td></tr><tr><td>3</td><td>胶质母细胞瘤</td><td>4年/200万</td><td>14</td><td>儿童脑瘤</td><td>3年/75万</td></tr><tr><td>4</td><td>真菌病瘙痒症</td><td>4年/约200万</td><td>15</td><td>肝细胞癌</td><td>3年/75万</td></tr><tr><td>5</td><td>囊性纤维化</td><td>3年/75万</td><td>16</td><td>多耐药HIV 感染</td><td>1年/50万</td></tr><tr><td>6</td><td>多发性骨髓瘤</td><td>4年/约170万</td><td>17</td><td>急性塑性支气管炎</td><td>4年/200万</td></tr><tr><td>1795800</td><td>肺鸟结核分枝杆菌病</td><td>4年/约180万</td><td>18</td><td>早产儿肺支气管发育不良</td><td>4年/约140万</td></tr><tr><td></td><td>先天性肌营养不良</td><td>1年/24.6万</td><td>19</td><td>多系统萎缩</td><td>4年/160万</td></tr><tr><td></td><td>大疱性表皮松解</td><td>1年/50万</td><td>20</td><td>腺病毒疾病</td><td>3年/75万</td></tr><tr><td></td><td>预防移植物抗宿主病</td><td>1年/9.9万</td><td>21</td><td>颈椎脊髓损伤(医疗器械类)</td><td>4年/约200万</td></tr><tr><td>Ni</td><td>神经母细胞瘤</td><td>3年/75万</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 管理情况",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "截至目前，全球有30多个国家在政策制度方面对罕见病治疗和药物研发予以保障和支持，美国最先关注罕见病治疗的制度建设。1983年美国建立了国家罕见病组织（NORD），国会批准通过了《罕见病用药法》,规定罕见病药物可快速审批,享有7年市场独占期，此外还有税金减免、专项补助及研究基金等方面的支持(表5），此法案的通过对于全球罕见病的管理具有重大意义。欧盟、日本、澳大利亚、韩国等也有针对罕见病药物管理的政策，基本上都是以美国孤儿药法案为蓝本而建立的，通过加快药物审批、保障药品市场独占期、税金减免等支持罕见病药物的研发[0]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8e92c9dcaf4e2a7e898f9fd5cceeb16dee170f04bd9037be9272af5f26fcc51.jpg",
+        "table_caption": [
+            "表42016FDA赞助的罕见病名录及项目费",
+            "表5各国对罕见病及药物研发的扶持政策",
+            "Table 5Support policies for the development of orphan drugs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>美国</td><td>欧盟</td><td>日本</td><td>澳大利亚</td><td>韩国</td><td>中国</td></tr><tr><td>专项法律</td><td>(1983)</td><td>则(2000)</td><td>制度》(1993)</td><td>针》(1998)</td><td>《罕见病用药法》ENC 141/2000 规《罕见病用药管理《罕见病用药方《罕见病用药指 导》（2003)</td><td>无</td></tr><tr><td>药品市场独 占期(年)</td><td>7</td><td>10</td><td>10</td><td>5</td><td>6</td><td>无</td></tr><tr><td>税金减免</td><td>用的50%）</td><td>有（占临床研究费鼓励各国成员给 予税收优惠</td><td>有(药物开发总费 用的6%+不超过无 公司税的10%）</td><td></td><td>无</td><td>无</td></tr><tr><td>医疗保障制度</td><td>划、商业保险</td><td>政府医疗保健计27个成员国政策 不一</td><td>国家健康保险 （NHI）药物价格 优惠10%</td><td>救生药品基金计 划(LSDP)</td><td>医保报销2/3</td><td>被纳入医保范围 的比例及报销额</td></tr><tr><td>药物审批</td><td>纳入优先审批</td><td>批</td><td>集中审批,优先审10个月内快速审 批</td><td></td><td>6~9个月快速审 提出优先评审,但 批</td><td>度有限 无明确制度</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2国内罕见病药物市场发展困境及建议",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1困境 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与国外罕见病药物市场快速发展相比，国内市场发展缓慢，多重原因严重制约了市场发展。首先，国内缺乏罕见病药物相关的法律制度。与发达国家具有完善的罕见病管理制度相比，我国在罕见病的政策、法律、制度方面是一片空白（表5），仅在1999年的《药品注册管理办法》中提及了罕见病的概念，2009年发布的《关于印发新药注册特殊审批管理规定的通知》中提出了罕见病药物可实行特殊审批，但没涉及具体措施。与美国、欧盟、日本的立法和监管环境相比，我国在罕见病药品监管及研发方面的政策处于严重滞后状态。其次，无罕见病相应管理组织,社会关注力度不够9与美国建立国家罕见病组织（NORD）及欧盟建立欧洲罕见病药物产品委员会(COMP)不同,我国并无针对罕见病的专门管理机构。且由于罕见病发病率低，通常伴有不常见症状,公众对罕见病缺乏了解[12]。再次，国内无自主研发罕见病药物，且缺乏相应医疗保障。我国市场上销售的153种治疗罕见病的药物均来自进口[13]。国内鲜有药企涉及罕见病药物研发,罕见病患者只能选择昂贵的进口药或者干脆无药可用[14]同时国内仅有57种罕见病药物被纳入医保范围，可全额报销的只有10种，罕见病缺乏相应医疗保障，患者经济负担巨大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$2 . 2$ 建议",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对国内罕见病药物市场发展存在的困难，必须采取有效的解决措施。第一，完善罕见病立法等相应管理制度，形成完备的罕见病药物市场准入激励机制及医疗保障体制，为罕见病药物市场管理、药物研发等提供法律保障。第二，成立专门的罕见病管理组织，开展罕见病病谱调查。由专门管理组织促进罕见病药物立法和管理,对罕见病患者进行病谱调查[15],建立罕见病患者数据库，为特殊医疗保障制度的设立奠定基础。第三，加强罕见病新药研发。加大罕见病药物研发投入，成立罕见病专门的医学科研基金，实施罕见病药物特殊审批渠道，给予药物一定的市场独占期及税务优惠，促进罕见病新药的研发。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着研究的深人，我国对罕见病的重视程度也在逐渐提高，罕见病患者的生存现状已开始引起我国社会各界的关注[16]。2016年1月,国家卫计委办公厅决定组建“罕见病诊疗与保障专家委员会”，促进罕见病规范化诊疗，保障罕见病用药基本需求；2016 年2月，中国食品药品监督管理总局发布《关于解决药品注册申请积压实行优先审评审批的意见》，将罕见病列入优先审批行列；2016年3月，国务院办公厅出台《关于促进医药产业健康发展的指导意见》，指出在罕见病领域重点仿制市场潜力大、临床急需的国外专利到期药品。2016年9月，我国罕见病发展中心（CORD)在第五届中国罕见病高峰论坛上发布《中国罕见病参考名录》，一共147种疾病被列入其中，为罕见病药物的研发指明了方向。希望在多方努力下国内罕见病药物市场能够快速发展起来，为广大罕见病患者带来福音。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "［1］田圆圆，张象麟，董江萍.欧美孤儿药的研究与开发现状．中国新药杂志，2012，21(8）：844-850.Tian Y Y, Zhang X L, Dong JP. Current situation of orphan drugresearch and development in the Europe and America.ChineseJournal of New Drugs，2012,21(8）:844-850.  \n[2］Food and Drug A dministration（FDA）．Rare Diseases TakeSpotlight in Annual Event.[2014-04-09]. http://www.fda. gov/ForConsumers/ ConsumerUpdates/ucm244408.htm.  \n[3］EvaluatePharma.2015 年孤儿药研发分析报告(I)．药学进展,2016，40(1) :62-68.EvaluatePharma.Orphan Drug Report 2O15（I)．Progress inPharmaceutical Science,2016,40(1）:62-68.  \n[4]Brewer G J,Mich A.Drug development for orphan diseases in thecontext of personalized medicine．Trans Res，2009，154（6）：314-322.  \n[5]Sharma A，Jacob A，Tandon M，et al．Orphan drug:development trends and strategies.Pharm Bioallied Sci,2010，2(4):290-299.  \n［6］汤立达．2015年FDA 批准的新药．现代药物与临床，2016,31(2) : 265-268.Tang L D. New drugs approved by FDA in 2015.Drugs&Clinic，2016，31(2):265-268.  \n［7］陈玲，刘艳红，邹栩，等．2015 年全球重要治疗领域新药研究的最新进展．中国新药杂志，2016，25(6)：601-638.Chen L,Liu YH,Zhou X,et al. Overview of the latest progressof global new drug research in 2015.Chinese Journal of NewDrugs，2016,25(6):601-638.  \n[8］EvaluatePharma.2015 年孤儿药研发分析报告(II)．药学进展，2016，40(2):145-155.EvaluatePharma.Orphan Drug Report 2O15（II）．Progress in",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Pharmaceutical Science，∠Uio，4U（∠）:145-15>.  \n［9］孙赛男，董江萍．国外孤儿药现状分析及对我国的启示．中国医药工业杂志，2015，46(10)：1146-1150.Sun SN，Dong JP.The orphan drug status analysis of overseasand its inspirations to China.Chinese Journal of Pharmaceuticals,2015，46(10):1146-1150.  \n［10］谷景亮，鲁艳芹，钟彩霞，等．国外罕见病药物政策发展现状对比分析．卫生软科学，2013，27(7)：393-396.GuJL，Lu YQ,ZhongCX,et al.Comparative analysis to raredisease pharmaceutical policy development status in foreigncountries.Soft Science of Health，2013，27(7)：393-396.  \n[11］赵赢，刘艾林，杜冠华．中国与美国罕见病药物政策对比分析．中国新药杂志，2016，25(1)：31-49.Zhao Y,Liu‘ai L,DuGH.Comparative analysis of rare diseasepharmaceutical policies of China and America.Chinese Journal of彪巍，肖永康，陈任，等.我国罕见病患者社会支持研究．医学与社会，2012，25(10)：53-55.Biao W,Xiao Y K,Chen R，et al．Study on social support ofrare disease sufferers in China．Medicine and Society，2O12，25  \n[13］吴方，周迎波，崔茉莉．国际环境下的我国孤儿药产业发展策略研究．中国医药工业杂志，2015，46(4)：428-434.Wu F,Zhou Y B,Cui ML.Research of orphan drugs industrydevelopmentstrategyofChinaunderTheInternationalEnvironment.Chinese Journal of Pharmaceuticals,2O15,46（4）：428-434.  \n[14］陈淼，冯文化．国内外孤儿药研发现状．中国新药杂志，2014,23(7):764-768.Chen M，Feng W H.Current situation of international andnational research of orphan drug.Chinese Journal of New Drugs2014，23(7)：764-768.  \n[15］韩金祥，崔亚洲，周小艳.罕见疾病研究现状及展望.罕少疾病杂志，2011，18(1)：1-6.Han JX,Cui Y Z,Zhou X Y.Current status and prospect of theresearch on rare diseases.Journal of Rare and UncommonDiseases,2011，18(1)：1-6.  \n[16］田苗，田红，解学星，等．罕见病用药现状分析．现代药物与临床，2014，29(7)：701-707.Tian M,Tian H,Jie X X，etal．The development of orphandrugs.Drugs&Clinic，2014，29（7）：701-707.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Orphan Drugs Market and Management ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LI Min' WU Ri-wei² ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1 Food and Pharmaceutical Industry Construction Management Ofice，Wuhan Airport Economic and Technological Development Zone ,Wuhan430o43,China) (2 Nanchang National High-Tech Industrial Development，Nanchang33OO96,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AbstractRare diseases，also known as“orphan diseases”，refer to the diseases which have a very low morbidity.Most of orphan diseases are congenital disease or chronic disease，and they are often dangerous.With the improvement of public awareness，support of national policy and development of diagnosis and treatment technology，orphan drugs market has gradually developed. Sales of the orphan drugs increased year by year and several “heavy bombs” have arisen.The international pharmaceutical companies began to seize the orphan drugs marketand intensified drug development.The number of orphan drugs under research and development is more than 500，which are mainly for rare cancer，hereditary diseases，neurological diseases，infectious diseases and autoimmune diseases.Developed countries and regions have mature management system and market of orphan drugs，but China is stillrelatively backward in thisregard.The dilemmas of domesticorphandrugsmarket is analyzed and some suggestions for these dilemmas are puted for ward，hoping to promote the development of the domestic orphan drugs market. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key WordsOrphan drug Orphan drugs market in abroadManagement of orphan drugsThe dilemma of domestic orphan drugs market ",
+        "page_idx": 6
+    }
+]

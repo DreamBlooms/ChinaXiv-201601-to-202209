@@ -1,0 +1,260 @@
+# 基于邻域粗糙集下知识划分的信息表降维\*
+
+彭潇然a，刘遵仁ʰ，纪俊b
+
+(青岛大学 a.数据科学与软件工程学院;b.计算机科学技术学院，山东 青岛 266071)
+
+摘要：Pawlak 粗糙集的知识约简包括对决策表的知识约简和对信息表的知识约简。作为Pawlak 粗糙集的扩展，邻域粗糙集在针对决策表的属性约简方面应用广泛，而针对信息表的属性约简方面应用鲜少。为了设计一种适用于信息表的属性约简算法，根据Pawlak粗糙集的信息表知识约简标准，首先提出一种邻域粗糙集的信息表知识约简标准，然后根据这种标准，结合贪心思想，进一步提出了一种适用于聚类任务的信息表属性约简算法。与主成分分析(principalcomponent analysis，PCA)算法相比，实验结果表明用该算法对数据集降维后，得到的属性约简集合的属性个数较多，K-means 算法根据属性集合进行聚类的精度较高。实验结果证明该算法能有效地应用于信息表的属性约简方面。
+
+关键词：降维；聚类；信息表；邻域粗糙集；属性约简 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2017.06.0650
+
+# Dimension reduction for information tables based on knowledge partition of neighborhood rough set
+
+Peng Xiaorana,Liu Zunrenb, Ji Junb (a.Collge of Data Science & Software Engineering,b.Collegeof Computer Science & Technology,Qingdao University Qingdao Shandong 266071, China)
+
+Abstract: KnowledgereductionofPawlak rough setincludes two parts: knowledgereduction fordecisiontablesandknowledge reduction for information tables.Asan extensionofPawlak rough set,neighborhoodroughsetis widelyapplied toattribute reductionfordecision tables,butrarelyapplied toatributereduction for information tables.Inordertodesignanattribute reductionalgorithmsuitable for informationtables,this paper first proposes aknowledge reductioncriterionofneighborhood rough setforinformationtablesbasedontheknowledgereductioncriterionofPawlakroughset.Then,accordingto thiscriterion, anewatributereductionalgorithmfor informationtables,applicabletoclustering,isproposedwith GreedyStrategyCompared with Principal Component Analysis(PCA)algorithm,the experimental results show that byusing this proposed algorithm to reduce dimensionsofdatasets,thenumberofatributesinthereductionsets is more,andtheaccuracyofK-meansalgorithmis higheraccordingtothereductionsets,whichproves this proposedalgorithmcanbeeffectivelyapliedtoatributereduction for information tables.
+
+Key Words: dimension-reduction; clustering; information table; neighborhood rough set; atribute reduction
+
+# 0 引言
+
+将性质、特征相似的样本归属到同一类别的过程被称为聚类。随着信息时代的高速发展，聚类所面临的难题不仅是“数据爆炸”问题，还有更重要的因高维数据产生的“维度灾难”现象[1]。因此，在尽可能保持知识表达能力不变的前提下，删除数据集中的冗余知识，在一定程度上消除噪声数据的干扰，对提高聚类算法的效率是十分有意义的。
+
+粗糙集理论在海量高维复杂数据的预处理方面有着广泛的应用。经典的Pawlak粗糙集[2通过等价划分对数据进行处理，但是这种等价划分只适用于离散型的数据，而在现实应用中，需要处理的数据往往是数值型的，这种局限滞缓了粗糙集理论的应用。为此，Zadeh[3提出了信息粒化和粒度计算的概念。Lin[4]在信息粒化、粒度的基础上提出了邻域模型的概念。Hu等人[5]基于邻域粒化和粗糙逼近的概念，进一步提出的邻域粗糙模型[6.7]可以处理数值型的数据，进一步拓展了粗糙集理论的应用范围。
+
+知识约简是粗糙集理论的一个重要研究领域。Pawlak粗糙集的知识约简包括对决策表和信息表的知识约简，决策表和信息表最大的区别在于决策属性的有无。作为Pawlak粗糙集的扩展，邻域粗糙集在针对决策表的属性约简方面应用广泛[5.8-12]。例如， $\mathrm { H u } ^ { \left[ 5 \right] }$ 提出了基于前向贪心的决策表属性约简算法；刘[8]结合粒子群算法提出了高维数据集快速约简算法；Liu9根据映射划分提出了快速决策表属性约简算法等等。这类算法依赖于邻域粗糙集的正域计算，而正域计算依据决策属性，即样本类别是已知的情况下，所以针对决策表的属性约简算法并不适用于信息表。
+
+目前，邻域粗糙集针对信息表的属性约简方面应用鲜少。为了扩展邻域粗糙集对信息表的应用，基于邻域粗糙集下的知识划分，设计一种针对信息表，适用于聚类任务的属性约简算法，本文根据Pawlak粗糙集对信息表进行知识约简的标准，首先提出了一种适用于数值型信息表的知识约简标准，然后在此标准的基础上，结合贪心思想，进一步提出了一种基于前向贪心的信息表属性约简算法(fast attribute reduction algorithm forinformationtable,FARAIT)，最后通过与为无监督性学习的主成分分析(PCA)算法相比，实验验证了本文算法的有效性。
+
+# 1 相关概念
+
+# 1.1Pawlak粗糙集下的知识划分[2]
+
+经典的Pawlak粗糙集认为知识是有粒度的，它是一种对论域中样本进行分类的能力。
+
+定义1信息粒。设 $U = \{ x _ { 1 } , x _ { 2 } , . . . , x _ { n } \}$ 为样本的非空有限集合，称为论域。论域 $U$ 的任何一个子集 $X \subseteq U$ ，称为 $U$ 的一个概念或范畴，且每一个概念表示 $U$ 的一个信息粒。
+
+定义2不可分辨关系。给定一个论域 $U$ 和 $U$ 上的一簇等价关系 $s$ ，若 $P \subseteq S$ ，且 $P \neq \emptyset$ ，则I $P \left( P \right)$ 中的所有等价关系的交集)仍然是论域 $U$ 上的一个等价关系，且称为 $P$ 上的不可分辨关系，记为 $\mathrm { I N D } ( P )$ ，且 $\forall x \in U$ ， $\left[ \boldsymbol { x } \right] _ { I N D ( P ) } = \left[ \boldsymbol { x } \right] _ { p } = \underset { \forall R \in P } { \mathbf { I } } \left[ \boldsymbol { x } \right] _ { R }$ 。
+
+根据以上定义，对于知识库 $K = ( U , B )$ ， $B$ 是 $U$ 上的一簇等价关系，若 $E \subseteq B$ ，且 $E \neq \emptyset$ ， $U / \operatorname { I N D } ( E ) = \{ [ x ] _ { \operatorname { I N D } ( E ) } | \forall x \in U \}$ 表示与等价关系 $\mathrm { I N D } ( E )$ 相关的知识，即论域 $U$ 根据等价关系 $E$ 被划分成了若干个等价类（信息粒)。例如， $U _ { 1 } = \left\{ x _ { 1 } , x _ { 2 } , x _ { 3 } , x _ { 4 } , x _ { 5 } \right\}$ 根据关系 $E _ { \mathrm { { l } } }$ 被划分为 $\{ \{ x _ { 1 } , x _ { 2 } \} , \{ x _ { 3 } \} , \{ x _ { 4 } , x _ { 5 } \} \}$ 。
+
+# 1.2邻域粗糙集下的知识划分[5]
+
+Pawlak粗糙集通过等价关系保证了粒度计算的进行，这种等价关系在离散型的数据集中可以直接构造，在数值型的数据集中却不能。作为Pawlak粗糙集的扩展，邻域粗糙集在处理数值型数据集时得到了很好的应用。
+
+定义3度量计算。给定 $n$ 维实数空间 $R ^ { n }$ ，对于空间中的任意两个点 $x _ { i } = ( x _ { i 1 } , x _ { i 2 } , \mathrm { L } ~ , x _ { i n } )$ 和 $x _ { j } = ( x _ { j 1 } , x _ { j 2 } , \mathrm { L } ~ , x _ { j n } )$ ，定义$d ( x _ { i } , x _ { j } )$ 是 $R ^ { n }$ 上的一个度量计算，满足：
+
+$$
+d ( x _ { i } , x _ { j } ) = \left( \sum _ { p = 1 } ^ { n } \Bigl | x _ { i p } - x _ { j p } \Bigr | ^ { 2 } \right) ^ { \frac { 1 } { 2 } }
+$$
+
+定义4邻域粒化。在实数空间上，定义样本的非空有限集合 $U = \left\{ x _ { 1 } , x _ { 2 } \mathbf { K _ { \alpha } } , x _ { n } \right\}$ ，且称 $U$ 为论域。定义 $U$ 上的样本 $x _ { i }$ 的$\delta$ -邻域为 $\delta ( x _ { i } ) = \{ x _ { j } \mid x _ { j } \in U , d ( x _ { i } , x _ { j } ) \leq \delta \}$ ，其中 $\delta \geq 0$ 。 $\delta ( x _ { i } )$ 称作由 $x _ { i }$ 生成的 $\delta$ -邻域信息粒子，简称为 $x _ { i }$ 的邻域粒子。
+
+根据以上定义，对于知识库 $K = ( U , B )$ ，若 $E \subseteq B$ ，且 $E \neq \emptyset$ ，则论域 $U$ 根据关系 $E$ 被划分成了若干个邻域信息粒子。例如，$U _ { _ 2 } = \left\{ x _ { _ 1 } , x _ { _ 2 } , x _ { 3 } , x _ { 4 } , x _ { 5 } \right\}$ 根据关系 $E _ { 2 }$ 被划分为$\{ \{ x _ { 1 } , x _ { 2 } \} , \{ x _ { 2 } , x _ { 1 } , x _ { 3 } \} , \{ x _ { 3 } , x _ { 2 } \} , \{ x _ { 4 } , x _ { 5 } \} , \{ x _ { 5 } , x _ { 4 } \} \}$ 。
+
+# 1.3粗糙集的知识表达系统[2]
+
+定义5知识表达系统。称四元组 $\mathrm { K R S } = ( U , A , V , f )$ 是一个知识表达系统。其中 $U = \{ x _ { 1 } , x _ { 2 } , . . . , x _ { n } \}$ 为样本的非空有限集合，称为论域； $A = \{ a | a \in A \}$ 为属性的非空有限集合; $V = \operatorname { U } _ { a \in A } V _ { a }$ 表示全体属性的值域， $V _ { a }$ 为属性 $a \in A$ 的值域； $f$ 表示 $U \times A \to V$ 的一个映射，称为信息函数。
+
+在知识表达系统KRS中，令 $A = C \cup D ( C \mathrm { { I } } ~ D \neq \emptyset )$ ，其中$c$ 称为条件属性， $D$ 称为决策属性。若 $D \neq \emptyset$ ，则知识表达系统称为决策表(decision table,DT)，否则称为信息表(informationtable,IT)。一般来说，决策表用于分类任务，信息表用于聚类任务。
+
+# 2 本文提出的信息表知识约简标准
+
+在保持知识表达系统的知识表达能力不变的前提下，删除知识系统中的冗余知识，称为知识约简。对于一个信息表而言，不同的知识就是条件属性的不同集合，冗余知识就是可删除的属性。
+
+定义 ${ \bf 6 } ^ { [ 2 ] }$ Pawlak粗糙集的信息表知识约简标准。给定一个信息表 $\mathbf { I S } = ( U , C , V , f )$ ， $\forall B \subseteq C$ ， $\forall a \in B$ ，若论域 $U$ 根据属性集合 $\boldsymbol { B } - \{ \boldsymbol { a } \}$ 的划分和根据属性集合 $B$ 的划分不一致，则称属性$a$ 是属性集合 $B$ 中不可删除的属性，反之则称属性 $a$ 是属性集合 $B$ 中可删除的属性。
+
+根据定义2和4可知，邻域粗糙集下的知识划分和Pawlak粗糙集下的知识划分不同，相较Pawlak粗糙集，邻域粗糙集下的知识划分将论域上的等价关系变成了覆盖关系。如果对于邻域粗糙集下的知识划分直接引用定义6，由于论域中的每个样本都形成了一个邻域信息粒子，且每个邻域信息粒子中样本不一，则在判断定义6中两种划分是否一致时，比较过程不便且计算量较大。针对这个问题，考虑到邻域粗糙集下知识划分的特性，本文将知识划分的变化做一个等价转换，提出定理1。
+
+定理1对于一个信息表而言，对于某个 $\delta$ 取值，在邻域粗糙集知识约简的过程中，判断论域的知识划分是否一致可以转换为判断互为邻域样本的对数是否一致。
+
+证明对于一个如表1所示的数值化信息表，根据全属性集合 $c$ ，可以将论域 $U = \left\{ x _ { 1 } , x _ { 2 } , . . . , x _ { n } \right\}$ 映射成实数空间上的 $n$ 个 $m$ 维向量的集合，即 $\boldsymbol { x } _ { n } = ( \mathrm { v a l u e } _ { n 1 } , \mathrm { v a l u e } _ { n 2 } , . . . , \mathrm { v a l u e } _ { n m } )$ 。同理，根据部分属性集合 $B$ $( \forall B \subseteq C )$ ，亦可以将其映射成 $n$ 个 $t ( 1 \leq t \leq m )$ 维向量的集合。
+
+表1一个数值化信息表  
+
+<html><body><table><tr><td>样本</td><td>属性1</td><td>属性2</td><td>.</td><td>属性m</td></tr><tr><td>X</td><td>value11</td><td>value12</td><td></td><td>value1m</td></tr><tr><td>x</td><td>value21</td><td>value22</td><td>·</td><td>value2m</td></tr><tr><td>：</td><td>·</td><td>…</td><td></td><td></td></tr><tr><td>Xn</td><td>valuenl</td><td>valuen2</td><td>…</td><td>valuenm</td></tr></table></body></html>
+
+对于根据属性集合 $B$ 得到的 $n$ 个向量集合，在实数空间上根据邻域粒化的概念，论域 $U$ 能得到一个对应的知识划分，即一个个邻域信息粒子，根据属性集合 $B - \left\{ \boldsymbol { a } \right\} ( \forall \boldsymbol { a } \in B )$ (各向量同时减少 $a$ 对应的维度)同样可以得到一个新的知识划分，判断属性 $a$ 是否可删除的关键在于判断两种知识划分是否一致。可知，知识约简在实数空间上是一个降维的过程。
+
+为了方便说明，用5个向量代表 $n$ 个t维向量，即$U = \left\{ x _ { 1 } , x _ { 2 } , x _ { 3 } , x _ { 4 } , x _ { 5 } \right\}$ ，用二维空间代表 $t$ 维的高维空间，用一维空间代表降维后的t-1维的低维空间，以此对约简时知识划分的变化过程进行分析。其中，减少的维数对应待判断是否可删除的属性。
+
+![](images/5756db8851f6d51a5680dc6fef7c5fb4c7f08fdd411507f51ade213c0a6ce57f.jpg)  
+图1 $U$ 在降维时的知识划分过程
+
+如图1所示，虚线圆圈代表邻域，(a)、(b)表示高维空间，(c)表示低维空间。在如(a)所示的高维空间中， $U$ 被划分为$\{ \{ x _ { 1 } , x _ { 2 } \} , \{ x _ { 2 } , x _ { 1 } , x _ { 3 } \} , \{ x _ { 3 } , x _ { 2 } \} , \{ x _ { 4 } , x _ { 5 } \} , \{ x _ { 5 } , x _ { 4 } \} \}$ ，互为邻域样本的对数为3，分别是 $\{ ( x _ { 1 } , x _ { 2 } ) , ( x _ { 2 } , x _ { 3 } ) , ( x _ { 4 } , x _ { 5 } ) \}$ 。然后，不考虑待判断是否可删除属性对应的维数，得到如(c)所示的低维空间和相应的 $U$ 的划分，比较(a)、(c)，发现前后划分是一致的，互为邻域样本的对数是相同的，这说明该属性是可删除的；若高维空间是如(b)所示的高维空间， $U$ 被划分为 $\{ \{ x _ { 1 } , x _ { 2 } \} , \{ x _ { 2 } , x _ { 1 } \} , \{ x _ { 3 } \} , \{ x _ { 4 } , x _ { 5 } \} , \{ x _ { 5 } , x _ { 4 } \} \}$ ，互为邻域样本的对数为2，分别是 $\{ ( x _ { 1 } , x _ { 2 } ) , ( x _ { 4 } , x _ { 5 } ) \}$ 。此时比较(b)、(c),发现前后划分是不一致的，相比前者，互为邻域样本的对数增加了，与前者不相同，这说明该属性是不可删除的。
+
+以样本 $x _ { 2 }$ 为代表分析降维过程：在降维过程中，原本在高维空间中属于 $x _ { 2 }$ 的圆圈(邻域)内的样本点，因为减少了一维，其与 $x _ { 2 }$ 的欧式距离进一步减少，所以在降维后的低维空间中肯定仍在圆圈中；原本不在圆圈内的样本点，因为其与 $x _ { 2 }$ 的欧式距离的减少，在降维后会出现仍不在圆圈内和在圆圈内这两种情况。即对于互为邻域样本的对数而言，只有保持不变和增加这两种情况这两种情况，且分别对应属性可删除和不可删除这两种结果。这说明，对于某个 $\delta$ 取值，在邻域粗糙集知识约简的过程中，判断论域的知识划分是否一致可以转换为判断互为
+
+邻域样本的对数是否一致。
+
+相对而言，计算互为邻域样本的对数是较容易的，利用上三角矩阵或下三角矩阵就能完成该计算。根据定理1，本文能得到一种较直观且方便的判断知识划分是否变化的依据，据此提出一种邻域粗糙集的信息表知识约简标准。
+
+标准1邻域粗糙集的信息表约简标准。给定信息表$\mathbf { I S } = ( U , C , V , f )$ ， $\forall B \subseteq C$ ， $\forall a \in B$ ，基于邻域粗糙集，设在论域$U$ 根据属性集合 $B$ 划分的邻域信息粒子中，互为邻域样本的对数为 $N _ { b e f }$ ，在论域 $U$ 根据属性集合 $\boldsymbol { B } - \{ \boldsymbol { a } \}$ 划分的邻域信息粒子中，互为邻域样本的对数为 $N _ { a f t }$ 。若 $N _ { _ { a f t } } = = N _ { b e f }$ ，即前后划分一致，则可判定属性 $a$ 是属性集合 $c$ 中可删除的属性。若 $N _ { { a f t } } > N _ { { b e f } }$ ：即前后划分不一致，则可判定属性 $a$ 是属性集合 $c$ 中不可删除的属性。
+
+# 3 基于前向贪心的信息表属性约简算法
+
+定义 $7 ^ { [ 1 ] }$ 属性约简。给定信息表 $\mathbf { I S } = ( U , C , V , f )$ ， $B \subseteq C$ ，若论域 $U$ 根据属性集合 $B$ 的划分和根据属性集合 $c$ 的划分一致，且属性集合 $B$ 中任意属性 $a$ 均是不可删除属性，则称属性集合$B$ 是 $c$ 的一个属性约简。
+
+根据定义7可知，针对信息表的属性约简算法的目的是找到一个部分属性集，论域根据其形成的知识划分与根据原属性集形成的知识划分相同。
+
+根据定义7和标准1，“盲删法”是一种较易想到的算法。其思想是：对于一个数据集的原属性集，挑选其中一个属性作是否可删除判断，若可以，则从属性集中删除属性，对并新属性集重复挑选且判断的动作；若不可以，则对属性集中剩下的属性作判断。终止的条件是属性集中所有元素均是不可删除属性。
+
+分析上述“盲删法”的时间复杂度。设在该算法下，假设某一数据集有U个样本， $\mathrm { ~ m ~ }$ 个属性，依次对各属性进行判断，约简结果中包含 $\mathbf { k }$ 个属性。则算法最好的情况是前 $\mathrm { m } \mathbf { - } \mathbf { k }$ 个属性为可删除属性，最坏的情况是后 $\mathrm { m } \mathbf { - } \mathbf { k }$ 个属性为可删除属性，两种时间复杂度的式子可简要表示为：
+
+最好情况下：
+
+$$
+1 \cdot ( m - 1 ) { \big | } U { \big | } + 1 \cdot ( m - 2 ) { \big | } U { \big | } + \ldots + k \cdot ( k - 1 ) { \big | } U { \big | }
+$$
+
+最坏情况下：
+
+$$
+m \cdot ( m - 1 ) \big | U \big | + ( m - 1 ) \cdot ( m - 2 ) \big | U \big | . . . + k \cdot ( k - 1 ) \big | U \big |
+$$
+
+即对含有 $\mathfrak { n }$ 个属性的属性集而言，对其中的某个属性进行可否删除判断时，需要在 $\mathrm { \ n - 1 }$ 维的实数空间上对U个样本进行知识划分的计算。其中，最好情况是每次删除时只需一次判断，最坏情况是每次删除时需要 $\mathfrak { n }$ 次判断。
+
+“盲删法”是一个降维的过程，即实数空间上从 $\mathbf { m }$ 维至 $\mathbf { k }$ 维的过程，由于初始维数很高，且对一个数据集而言，k相较m 而言通常是一个很小的值，当m较大且k较小时，整个过程的计算量是很大的。如果将降维过程改进为升维过程，即实数空间上从0维至k维的过程，则计算量会缩减很多。
+
+根据以上思路，借鉴文献[5]中一种前向贪心的算法思想，根据第2节中的标准1，提出一种前向贪心的信息表属性约简算 法(Fast attribute reduction algorithm for information table,FARAIT），用于对信息表求得一个最优或次优的属性约简。FARAIT算法提出一种属性重要度概念，对于一个信息表$\mathbf { I S } = ( U , C , V , f )$ 而言，初始化约简集合为空集，每次贪心选取重要度最大的待选属性加入约简集合中。
+
+定义8属性重要度。给定信息表 $\mathbf { I S } = ( U , C , V , f )$ ， $B \subseteq C$ ，且 $B \neq \emptyset$ ， $\forall a \in C - B$ ，定义 $a$ 相对于 $B$ 的重要度为：
+
+$$
+S I G { \big ( } a , B { \big ) } = { \big [ } C a r d ( B ) - C a r d ( B \operatorname { U } a ) { \big ] } / C a r d ( B )
+$$
+
+其中， $C a r d ( B )$ 表示根据属性集 $B$ 形成的邻域信息粒子中互为邻域样本的对数。
+
+在约简集合中加入属性时，实数空间上的升维过程会让各样本间的距离变大，使互为邻域样本的对数变少，用减少量衡量各属性的重要度。属性重要度可以理解为通过该属性区分样本的能力。例如，一个信息表按照原属性集能聚类成“男生”和“女生”两个类别，在贪心选择时，“身高”和“脸型”这两个属性的重要度不同。在实数空间上“脸型”数值的分布较均匀，“身高”数值的分布呈两边逐步向中间聚集。相比之下，在约简集合中加入“身高”属性能使互为邻域样本的对数减少得更多，本文认为其区分能力更强，属性重要度更高。
+
+相比“盲删法”，前向搜索算法能够确保重要的属性首先被加入到约简中，从而不损失重要的属性，而“盲删法”却难以保证这个结果。因为对于有大量冗余属性的信息表而言，即使那些重要的属性被删除也不一定会降低整个系统的区分能力，因此，系统最终可能保留了大量区分能力很弱、但作为一个整体依然能够保持原始数据的分辨能力的属性，而不是少量区分能力很强的属性。
+
+FARAIT算法的具体策略如下：初始化属性约简集合为空集，每次对不属于属性约简集合中的属性进行重要度计算，选取重要度值最大的属性加入约简集合中，直到所有剩余属性的重要度为0，此时，根据约简集合形成的邻域信息粒子中互为邻域样本的对数不再变化，本文认为对应的知识划分与在原属性集下形成的知识约简一致或相似，任意剩余属性在标准1下均是可删除属性。如算法1所示。
+
+算法1
+
+Input:IS=(U,C,V,f)·  
+Output：属性约简 red·  
+1：初始化red=  
+2:if $C a r d ( r e d ) = 0$ //此处定义 $\mathrm { C a r d } \left( \mathcal { O } \right) { = } \left| U \right| ^ { 2 } / 2$ go to 6;  
+end
+
+3：对任意 $a _ { i } \in C - r e d$ ，计算：$S I G { \big ( } a _ { i } , r e d { \big ) } = { \big [ } C a r d ( r e d ) - C a r d ( r e d \operatorname { U } a _ { i } ) { \big ] } / C a r d ( r e d ) ~ ;$
+
+4：选择 $a _ { k }$ ，其满足：$S I G ( a _ { k } , r e d ) { = } \operatorname* { m a x } _ { i } { \big ( } S I G { ( a _ { i } , r e d ) } { \big ) } ~ ;$
+
+5:if $S I G { \left( { { a } _ { k } } , r e d \right) } > 0$ $r e d \gets r e d \mathrm { U } a _ { \boldsymbol { k } } \mathrm { ~ ; ~ }$ （204号   
+go to Step 2;   
+else   
+go to Step 6;   
+end   
+6:return red ;
+
+设在该算法下，假设某一数据集有U个样本， $\mathrm { ~ m ~ }$ 个属性，依次对各属性进行判断，约简结果中包含 $\mathrm { ~ k ~ }$ 个属性。则FARAIT算法时间复杂度的式子可简要表示为
+
+$$
+m \cdot 1 \cdot { \big | } U { \big | } + ( m - 1 ) \cdot 2 \cdot { \big | } U { \big | } + \ldots + ( m - k ) ( k + 1 ) { \big | } U { \big | }
+$$
+
+可见，因为引用了贪心思想，FARAIT算法能用较短的时间得到一个最优或次优的属性约简。
+
+# 4 实验分析
+
+作为一种有效的无监督性降维算法，PCA 算法在人工智能、模式识别、图像处理等方面得到了广泛的应用[13-15]。实验首先讨论 $\delta$ 的取值对FARAIT算法的的影响，确定较为合适的$\delta$ 的取值；然后，在此 $\delta$ 的取值下，用FARAIT算法和PCA算法分别对数据集进行降维处理，用K-means算法对降维后的数据集进行聚类；最后，实验将比较得到的属性约简个数和 K-means 算法的聚类精度。其中，K-means 算法用于检验两种算法的降维效果，且K-means算法的初始聚类中心个数设置为数据集提供的类别数。
+
+# 4.1实验环境
+
+UCI(University of California Irvine)(http://archive.ics.uci.edu/ml/)提供了一系列用于测试的标准数据集。本文从UCI数据集中挑选了7个数值型数据集，其中，每个数据集提供了条件属性和决策属性。
+
+表2数据集描述  
+
+<html><body><table><tr><td>数据集</td><td>样本数</td><td>属性数</td><td>类别数</td></tr><tr><td>wine</td><td>178</td><td>13</td><td>3</td></tr><tr><td>WDBC</td><td>569</td><td>30</td><td>2</td></tr><tr><td>sonar</td><td>208</td><td>60</td><td>2</td></tr><tr><td>ionosphere</td><td>351</td><td>33</td><td>2</td></tr><tr><td>credit approval</td><td>690</td><td>13</td><td>2</td></tr><tr><td>german credit</td><td>1000</td><td>24</td><td>2</td></tr><tr><td>WPBC</td><td>198</td><td>33</td><td>2</td></tr></table></body></html>
+
+本次实验在一台Intel(R)Core(TM)i5CPU 和4GB 内存的PC机上，采用Windows7环境下的MATLABR2016b进行算法仿真。
+
+# 4.2 FARAIT算法的实验分析
+
+本部分将对FARAIT算法进行具体分析。在不考虑数据集中决策属性的前提下，首先在不同的 $\delta$ 取值下用FARAIT算法对数据集wine、WDBC、sonar进行降维，然后用K-means 算法对降维后的数据集和原数据集分别进行聚类。记录属性约简的个数，且将得到的两种聚类结果和数据集中提供的决策属性进行对比，统计各自正确聚类的样本个数并计算正确率(精度)，从而确定较为合适的 $\delta$ 的取值。
+
+# 4.2.1 $\delta$ 的取值和属性约简个数
+
+根据定义4可知， $\delta$ 的取值直接影响着属性约简的结果。在不同的 $\delta$ 取值下，算法得到的属性约简不同，这会造成根据属性约简进行聚类后，所得的聚类精度不同。本文在区间[0,1]上，按0.02增进，共取得51个 $\delta$ 取值，记录在不同的 $\delta$ 取值下对应的属性约简个数和聚类精度，其中K-means算法执行20次，聚类精度的最后结果取均值。
+
+$\delta$ 的取值与属性约简个数的关系如图2所示。
+
+![](images/6500f2438d9faba1d679b78fa2c0b5b654f166a21deabd52f43794d8d1838985.jpg)  
+图2 $\delta$ 的取值与属性约简个数的关系
+
+如图2所示，对同一数据集， $\delta$ 的取值不同时，所得的属性约简个数也不同。从0开始，随着 $\delta$ 取值的增大，所得属性约简的个数增大，直到增大到和原属性集长度一致时稳定，称此时的 $\delta$ 取值为饱和点。
+
+# 4.2.2 $\boldsymbol { \mathscr { s } }$ 的取值和K-means 算法的聚类精度
+
+$\delta$ 的取值与聚类精度的关系如图3中(a)、(b)(c)所示。
+
+分析图3中(a)\~(c)，横线代表原属性集的聚类精度，折现代表不同 $\delta$ 取值下对应属性约简的聚类精度，虚线代表饱和点。
+
+以饱和点为基准，将图3中(a)\~(c)分为前后两部分，对同一数据集的原属性集而言，前半部分对应着在不同 $\delta$ 取值下的属性约简，后半部分对应着原属性集。
+
+分析后半部分：在各图中，折线均在横线附近波动，这说明初选点的选择影响K-means算法聚类效果的稳定性。可以用折线相对于横线的波动程度表示K-means算法针对各数据集的聚类效果的稳定性。在(a)中，折线相对横线略有波动，这说明K-means算法对数据集wine 的聚类效果较稳定；在(b)中，折线与横线完全契合，这说明K-means 算法对数据集WDBC的聚类效果极稳定；在(c)中，折线相对横线波动较大，这是因为在本次实验的 $\delta$ 取值下，对数据集sonar得到的属性约简长度仍未趋于稳定。
+
+分析前半部分：首先，随着 $\delta$ 取值的增大，各图中的折线均存在高出横线后又低于横线的情况，这说明各数据集中均存在可以删除的冗余属性，且这些冗余属性会降低聚类精度。在(a)中，折线起点处于横线下方且随着 $\delta$ 的增大呈现递增状态，这说明在数据集wine中不存在仅靠个别属性就能将各样本进行正确聚类的情况，且冗余属性很少；在(b)中，在 $\delta$ 很小时，对应的折线部分远高于横线，然后迅速下降，这说明在数据集WDBC 中存在仅靠个别属性就能将各样本进行正确归类的情况，冗余属性很多且严重影响聚类精度；在(c中，折线大致处于横线上方且呈现明显的递减状态，这说明在数据集 sonar 中存在仅靠个别属性就能将各样本进行正确归类的情况，冗余属性很多且影响聚类精度。
+
+![](images/5890d56f3078602b52849a323196d3cbbd314d1749cca612da45ed9157b7b69b.jpg)  
+图3的取值与K-means聚类精度的关系
+
+# 4.2.3FARAIT算法的实验结论
+
+根据以上分析可知：在 $\delta$ 的取值合理的情况下，基于前向贪心的信息表属性约简算法能有效删除数据集中的冗余属性，在一定程度上消除冗余属性对聚类精度的干扰，优化聚类算法的性能。
+
+考虑K-Means 算法的不稳定性，相对来说，对于K-means算法而言， $\delta$ 在区间[0.14,0.18]上取值时，K-means 算法的聚类效果较为理想。在对应的 $\delta$ 取值下，得到的属性约简个数小于原数据集且聚类精度高于原数据集。
+
+# 4.3FARAIT算法与 PCA算法的对比
+
+根据4.2中的实验结论，对FARAIT算法设置 $\delta = 0 . 1 6$ ，对PCA算法设置阈值为0.85，首先分别用这两种降维算法对数据集进行降维处理，最后用K-means算法对降维后的数据集进行聚类，统计各自对应的属性约简个数和聚类精度。其中，K-means算法执行20次，聚类精度的最后结果取均值。实验结果如表3所示。
+
+表3FARAIT算法和PCA算法的实验结果对比  
+
+<html><body><table><tr><td colspan="2">数据集</td><td colspan="2">FARAIT算法</td><td colspan="2">PCA算法</td></tr><tr><td>名称</td><td>属性数</td><td>属性约简</td><td>聚类</td><td>属性约简</td><td>聚类</td></tr><tr><td></td><td></td><td>个数</td><td>精度</td><td>个数</td><td>精度</td></tr><tr><td>wine</td><td>13</td><td>9</td><td>0.9602</td><td>6</td><td>0.9302</td></tr><tr><td>WDBC</td><td>30</td><td>23</td><td>0.9283</td><td>10</td><td>0.9279</td></tr><tr><td>sonar</td><td>60</td><td>11</td><td>0.5962</td><td>15</td><td>0.5430</td></tr><tr><td>ionosphere</td><td>34</td><td>23</td><td>0.7123</td><td>15</td><td>0.7043</td></tr><tr><td>credit approval</td><td>14</td><td>14</td><td>0.7610</td><td>5</td><td>0.7142</td></tr><tr><td>german credit</td><td>24</td><td>16</td><td>0.5524</td><td>13</td><td>0.5552</td></tr><tr><td>WPBC</td><td>22</td><td>9</td><td>0.5758</td><td>7</td><td>0.5827</td></tr><tr><td>平均值</td><td>28.14</td><td>15</td><td>0.7266</td><td>10.14</td><td>0.7082</td></tr></table></body></html>
+
+根据表3作出在两种降维算法下得到的属性约简个数和K-means算法的聚类精度的折线图，如图4、5所示。
+
+![](images/3600f95837e5124463558827b908688556e329f0c516f44003a88d82827a6de7.jpg)  
+图4FARAIT和PCA在属性约简个数上的对比
+
+在图4中，相对而言，代表原始属性集的折线处于最上方，代表FARAIT算法的折线处于中间，代表PCA算法的折线处于最下方。这说明FARAIT算法和PCA算法都能有效地减少数据集的属性数，达到降维的目的。其次，相较PCA算法，FARAIT算法得到的属性约简个数较多。
+
+在图5中，相对而言，代表FARAIT算法的折线处于PCA算法的上方。这说明相较PCA算法，采用FARAIT算法降维后，K-means算法的聚类精度较高。
+
+综上可知：相较PCA算法，采用FARAIT算法降维后得到的属性约简个数较多，K-means算法的聚类精度较高。
+
+# 5 结束语
+
+为了扩展邻域粗糙集对信息表的应用，设计了一种适用于聚类的无监督性信息表降维算法。在处理数值型信息表时，可采用该算法对数据进行预处理，用以删除信息表中的冗余信息，保持甚至提高聚类精度，优化聚类算法的性能。在本文的实验分析部分，可以看出 $\delta$ 的取值直接影响着FARAIT算法的效果，合适的 $\delta$ 的取值能让FARAIT算法的效果达到最好，不合适的$\delta$ 的取值则会使FARAIT算法的效果一般，甚至很差。对于不同特性的聚类算法， $\delta$ 的取值为多少时FARAIT算法效果最好，从而让聚类效果较优，这个问题将在未来的工作中进行研究。
+
+![](images/20f73931376ad9f76411b534a23e7bac9d0bf006b2ce959b06c98dc5214e86f7.jpg)  
+图5FARAIT和PCA在K-means聚类精度上的对比
+
+# 参考文献：
+
+[1]贺玲，蔡益朝，杨征．高维数据聚类方法综述[J].计算机应用研究, 2010,27(1):23-26.   
+[2]Pawlak Z,So-Winski R.Rough set approach to multi-atribute decision analysis [J].European Journal of Operational Research,1994,72 (3): 443- 459.   
+[3]Zadeh LA.Towards a theory of fuzzy information granulation and its centrality in human reasoning and fuzzy logic [J].Fuzzy Sets & Systems, 1997, 90 (90): 111-127.   
+[4]Lin TY. Granular Computing on binary relations I: Data mining and neighborhood systems [J].Rough Sets in Knowledge Discovery,1998 (2): 165-166.   
+[5]Hu Q,Yu D,Liu J,Wu C.Neighborhood rough set based heterogeneous feature subset selection [J]. Information Sciences,20o8,178 (18): 3577- 3594.   
+[6] 王国胤.Rough 集理论与知识获取[M].西安：西安交通大学出版社， 2001:147-156.   
+[7]胡清华，于达人．应用粗糙计算[M]．北京：科学出版社,2012.   
+[8] 刘遵仁，吴耿锋．基于邻域粗糙模型的高维数据集快速约简算法[J]. 计算机科学,2012,39(10):268-271.   
+[9]Liu Y,Huang W, Jiang Y, Zeng Z. Quick attribute reduct algorithm for neighborhood rough set model[J]. Information Sciences,2014,271(7): 65- 81.   
+[10] Chen H,Li T, Cai Y, et al.Parallel Attribute Reduction in Dominance-based Neighborhood Rough Set [J]. Information Sciences,2016,373:351-368.
+
+[11] Wang C, Shao M,He Q,et al. Feature subset selection based on fuzzy neighborhood rough sets [J].Knowledge-Based Systems,2016,111:173- 179.
+
+[12] Chen Y, Zhang Z,Zheng J,et al.Gene selection for tumor classification using neighborhood rough sets and entropy measures.[J].Journal of Biomedical Informatics,2017,67: 59-68.
+
+[13]王健，冯健，韩志艳．基于流形学习的局部保持PCA算法在故障检测
+
+中的应用[J].控制与决策,2013(5):683-687.  
+[14]刘丽敏，樊晓平，廖志芳，等．一种基于L2,1范数的PCA维数约简算法[J]．计算机应用研究,2013,30(1):39-41.  
+[15] Hosoya H,Hyvarinen A.Learning Visual Spatial Pooling by Strong PCADimension Reduction [J]. Neural Computation,2016,28 (2): 1-16.

@@ -1,0 +1,493 @@
+[
+    {
+        "type": "text",
+        "text": "京藏高速柴达木腹地路面温度变化特征及与气温要素影响分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "保广裕，杨春华，周丹，马守存，刘玮，燕振宁（青海省气象服务中心·青海 西宁 810001）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用2018年3月1日—2020年2月29日京藏高速柴达木腹地路段新建的伊克高里、宗加镇和大格勒3个交通自动观测站逐日气象资料，分析了四季路面温度和气温逐小时变化特征，统计了路面最高、最低温度和最高、最低气温之间的相尖尖系，建立了3站四季路面最高温度和最低温度分别与最高气温和最低气温相尖性方程，旨在为路面温度精细化预报",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "务提供参考·结果表明：京藏高速柴达木腹地路段伊克高里、宗加镇和大格勒3站路面温度和气温",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "同季节具有明显的日变化特征，路面温度和气温达到最低值和最高值的时间并是完全相同·3站路面温度09:00后上升速度均比气温上升速度快，路面温度升温位相较气温均超前·10:00—18:00期间各站路面温度与 气温差别均较大·伊克高里站平均路面温度始终低于宗加镇和大格勒站路面平均温度·3站平均气温变化趋势比较一致，冬季和秋季平均气温昼夜差异明显·应用统计学方法建立的伊克高里、宗加镇和大格勒最高和最低路面温度与最高和最低气温相关性方程具有很好的实际应用价值，可在实际业务工作中推广应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴键词：京藏高速；柴达木腹地；路面温度；相吴性方程文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "公路交通运输作为国民经济和社会发展的重要基础，在",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实保障人民基本生产生活、有力支撑社会经济发展等方面意义重大「1」。随着运输量的增加和极端天气事件的频繁出现，公路运输的安全运营风险日益严重[2」，公路运行安全和高效管理需求对气象条件的敏感性和依赖性日趋增大[3-7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，国内许多学者利用公路交通沿线出现的交通事故资料和气象资料，采用各类科学方法建立了公路交通气象预警",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "务模型，对灾害性天气对公路交通的影响等方面做了大量的科学研究[&-14]。例如 Shao 等[15]应用能量守恒方法研究了实时路面温度和路面状况预报模型·吴晟等[利用京珠高速公路自动气象站逐分钟路面温度、气温等气象资料，分析了南岭山地高速公路路面温度特征及其与天气状况和风速等气象条件的关系，总结了地形对",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "南岭山地高速公路路面温度的影响·京藏高速",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "青海段是丝绸之路经济带的必经之路，青海境内主要途径享堂大桥省界一民和一乐都—平安—西宁—湟源—共和—黄河村 — 大 水 桥—茶卡—都兰—香日德—诺木洪—格尔木市一格尔木南出口收费站—管养分界[7]。京藏高速青海段沿线地形杂多样，自然条件较差，气象灾害较多，夏季路面高温诱发的爆胎交通事故，冬季低温雨雪诱发的道路结冰，气象灾害及次生灾害导致的交通事故损失巨大「8201。京藏高速柴达木腹地重要路段气象灾害及次生灾害导致的交通事故频发，但该路段却属于观测空白区，针对交通路段的气象监测站点明显",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "足，气象",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "务保障能力严重滞后，缺乏对京藏高速公路沿线路面温度和气温等气象资料预报模型进行研究·本文利用2018年3月1日—2020",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "年2月29日京藏高速柴达木腹地路段新建的伊克高里、宗加镇、大格勒交通自动监测站逐日资料，分",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "析了伊克高里、宗加镇和大格勒路面温度和气温的日变化特征以及路面温度与气温之间的关系，建立了逐季节路面最高温度和路面最低温度与气温要素的影响关系，旨在为路面温度精细化预报",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "务提供参考，为交通运输安全和畅通提供保障。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "京藏高速柴达木腹地公路沿线的伊克高里、宗加镇和大格勒交通自动气象观测站在2017年12月建设完成·各交通自动气象观测站探测环境均为无主要障碍物，周围较开阔，无大型建筑物和大型水体，场地四周为戈壁沙漠，符合探测环境要求·其中，宗加镇和大格勒站站址地势均高于路面，观测数据质量较好，而伊克高里站站址地势显著低于路面 $0 . 3 ~ \\mathsf { m }$ 左右，观测数据",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "受地温和日照影响·3个气象观测站点详细信息如表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选取2018年3月1日—2020年2月29日3个交通自动气象观测站气象资料，包括逐小时气温、逐白最高气温、逐白最低气温，均为距地面 $1 . 5 ~ \\mathsf { m }$ 处的观测气温，逐小时路面温度、逐日路面最高温度、逐日路面最低温度，均为红外线测温仪监测的路面 $0 \\mathsf { c m }$ 温度·季节划分为3—5月为春季，6—8",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2298c58f02f4d76887b84cc663475e04e71cf4c5c14e370739c3e351f4d351e.jpg",
+        "table_caption": [
+            "表1交通气象站基本信息",
+            "Tab.1 Basic information of traffic meteorological stations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>站点</td><td>经纬度</td><td>站址</td><td>海拔高度/m</td></tr><tr><td rowspan=\"2\">伊克高里</td><td>36°03'06\"N`</td><td>京藏高速</td><td>2952</td></tr><tr><td>97°31'41\"E</td><td>K2330+0 m</td><td>2832</td></tr><tr><td rowspan=\"2\">宗加镇</td><td>36°18'02\"N`</td><td>京藏高速</td><td></td></tr><tr><td>96°45'26\"E</td><td>K2405+400 m</td><td>2870</td></tr><tr><td rowspan=\"2\">大格勒</td><td>36°19'41\"N</td><td>京藏高速</td><td></td></tr><tr><td>95°20'35\"E</td><td>K2535+486 m</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "月为夏季，9—11月为秋季，12月—次年2月为冬季·各季节的日资料为3个月逐日资料的平均值·文章分析研究了柴达木腹地戈壁路段气温和路面温度变化特征，并用统计学线性趋势相关方法，分析了路面最高温度、路面最低温度与最高气温、最低气温的相关矢系，分别建立了3站路面最高温度、路面最低温度与最高气温、最低气温之间的一元线性回归模型「21-",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "23]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 路面温度与气温的变化特征分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同季节路面温度与气温日变化特征由伊克高里、宗加镇和大格勒3站春、夏、秋、冬四季逐小时气温和路面温度日变化曲线（图1\\~3）可见，春、夏季伊克高里气温达到最低值的时间是07:00，路面温度达到最低值的时间分别是07:00和06:00，气温最",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Daily change curvs of hourlyair temperaturs and road surface temperaturs in diferent seasons at Ekgol ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Dailychangecurves ofhourlyair temperaturesandroad surface temperatures in different seasons at Zongjia Town ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Daily change curves of hourly air temperatures and road surface temperaturs in different seasons at Big Gle低值比路面温度最低值高 $2 . 4 { \\sim } 3 . 8 ^ { \\circ } \\mathsf C$ ；白天路面温度的变化曲线高于气温的变化曲线，夜间路面温度的变化曲线比气温的变化曲线低，气温最高值出现在17:00，路面温度最高值出现在14:00—15:00，路面温度最高值比气温最高值高达$2 6 . 0 { \\sim } 3 2 . 5 \\ \\mathsf { ^ C }$ （图 $1 a - b$ ）·春、夏季宗加镇和大格勒的气温与路面温度最低值均出现在07:00，宗加镇和大格勒气温最低",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "值比路面温度最低值分别低 $3 . 0 { \\sim } 3 . 5 ^ { \\circ } \\mathsf { C }$ 和-1.6\\~2.5℃；宗加镇和大格勒气温最高值均出现在17:00—  \n18:00，宗加镇和大格勒路面温度最高值出现在  \n15:00—16:00，宗加镇和大格勒路面温度最高值比气温最高值分别高 $1 7 . 6 { \\sim } 1 9 . 5 ^ { \\circ } \\mathsf { C }$ 和 $1 9 . 1 { \\sim } 1 6 . 7 ~ \\mathrm { ^ circ C }$ （图$2 a - b$ 、图3a\\~b）·春、夏季伊克高里、宗加镇和大格勒路面温度分别在 $1 . 2 { \\sim } 5 5 . 2 ^ { \\circ } ( \\cdot 7 . 0 { \\sim } 4 4 . 4 ^ { \\circ } ($ 和5.7\\~",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "40.8℃之间，气温分别在5.0\\~22.7°℃、4.0\\~24.9°℃和$4 . 1 { \\sim } 2 4 . 1 ~ ^ { \\circ } \\mathsf C$ 之间。",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "秋季3站最低气温均出现在08:00·伊克高里路面温度最低值出现在07:00，宗加镇和大格勒路面温度最低值出现在08:00（图1c、图2c丶图3c）·伊克高里、宗加镇和大格勒路面温度最低值与气温最低值相差分别为 $4 . 0 ~ ^ { \\circ } \\mathsf { C } \\cdot 3 . 8 ~ ^ { \\circ } \\mathsf { C }$ 和 $2 . 8 ^ { \\circ } \\mathsf { C }$ 。伊克高里白天路面温度变化曲线比气温变化曲线高，晚上路面温度变化曲线低于气温变化曲线，16:00气温达到最高值，14:00路面温度达到最高值，气温最高值比路面温度最高值低 $2 8 . 8 ^ { \\circ } \\mathsf { C }$ 。宗加镇和大格勒气温最高值分别出现在16:00和17:00，路面温度出现在15:00，气温最高值比路面温度最高值低 $1 7 . 4 ^ { \\circ } C$ 和 $1 4 . 7 ~ ^ { \\circ } \\mathrm { C }$ 。秋季伊克高里路面温度 ${ \\geq } 0 . 0$ ℃的出现时间在 $0 9 { : } 0 0 \\ \\cdot \\ \\leq 0 . 0$ ℃的出现时间在23:00，路面温度$\\ge 0 . 0 \\ ^ { \\circ } \\mathsf { C }$ 的维持时间为 $1 5 \\mathrm { ~ h ~ }$ ，气温在 $0 . 0 { \\sim } 1 0 . 3$ $\\mathsf { \\bar { C } }$ 之间；宗加镇路面温度在 $3 . 5 { \\sim } 2 9 . 0 ~ ^ { \\circ } \\mathrm { C }$ 之间变化，气温09:00为 $. 0 . 3 \\mathrm { ~ } ^ { \\circ } \\mathsf { C }$ ，其余时间在 $0 . 4 { \\sim } 1 1 . 6 ^ { \\circ } \\mathsf C$ 之间；大格勒路面温度在 $1 . 2 { \\sim } 2 5 . 4 ^ { \\circ } C$ 之间，气温$\\mathtt { s 0 . 0 ~ \\mathtt { ^ { d } C } }$ 出现的时间在 $0 5 { : } 0 0 \\ \\cdot \\ \\geq 0 . 0 \\ ^ { \\circ }$ 出现在09:00，气温 $\\mathtt { s 0 . 0 ~ \\mathtt { c } }$ 的维持时间为 $4 h$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "伊克高里、宗加镇和大格勒冬季气温均在09:00达到最低，伊克高里路面温度在08:00达到最低，宗加镇和大格勒路面温度在09:00最低（图1d、图2d、图3d）·伊克高里、宗加镇和大格勒的路面温度最低值比气温最低值分别高 $6 . 2 ^ { \\circ } \\mathsf { C } \\cdot 2 . 8 ^ { \\circ } \\mathsf { C }$ 和$1 . 7 \\ : \\mathrm { ^ { \\circ } C } \\circ 3$ 站气温在17:00均达到最高值，而伊克高里路面温度在14:00出现最高值，宗加镇和大格勒路面温度在15:00出现最高值·伊克高里、宗加镇和大格勒冬季气温最高值比路面温度最高值分别低 $5 . 0 C \\cdot 1 0 . 5 ^ { \\circ } C \\cdot 9 . 1 ^ { \\circ } C$ 。冬季伊克高里路面温度14:00为$1 . 2 \\textsf { C }$ ，其它时间路面温度在-3.3\\~20.1℃之间，气温在- $1 3 . 9 \\mathrm { \\sim } 3 . 8$ ℃之间；大格勒和宗加镇站路面温度$\\ge 0 . 0 \\ ^ { \\circ } \\mathsf { C }$ 出现在12:00和13:00， $\\leq 0 . 0 \\ ^ { \\circ } \\mathsf { C }$ 出现在18:00和 $1 9 { : } 0 0 \\ \\cdot \\ 2$ 站路面温度 ${ \\geq } 0 . 0 \\ { ^ { \\circ } } \\mathbb { G } \\mathbb { \\ } ]$ 维持时间为 $6 \\mathfrak { h }$ ，气温的变化范围分别在 $1 4 . 9 \\sim - 3 . 1 ~ ^ { \\circ } C F \\bot$ $1 3 . 8 \\mathrm { \\sim } 2 . 7 ~ ^ { \\circ } C$ 之间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总之，伊克高里全年夜间路面温度均低于气温，冬季仅12:00—14:00 路面温度高于气温，其余季节09:00—18:00路面温度均高于气温，这可能与站点所在的地理环境有关，还可能与红外地表温度的架设高度和角度有矣；春、夏、秋、冬四季，宗加镇和",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "大格勒站的路面温度均比气温高，各站09:00后路面温度升温均较快，路面温度升温的变化趋势超前于气温的变化趋势，这是因为气温的热源主要来源地球下垫面的长波辐射，而地温的热源主要来源是太阳的短波辐射，因此，路面温度的升高比气温的升高更加优先·17:00后路面温度的下降速度比气温的下降快，这是因为在夜间路面温度的长波辐射降温起主要的作用，受长波辐射降温的影响下，气温下降比路面温度下降缓慢。同时在10:00一18:00路面温度与气温间的差异也较大，伊克高里冬季11:00—17:00相差值为$1 . 3 { \\sim } 6 . 3 ^ { \\circ } \\mathsf C$ 、春季 $1 6 . 0 { \\sim } 2 6 . 0 ^ { \\circ } C$ 、夏季 $2 2 . 0 { \\sim } 3 4 . 0 ~ ^ { \\circ } C$ 、秋季 $1 2 . 0 { \\sim } 3 0 . 0 ^ { \\circ } C$ ;宗加镇冬季相差值为$4 . 3 { \\sim } 1 1 . 3 ^ { \\circ } \\mathsf C$ 、春季 $1 1 . 0 { \\sim } 1 8 . 0 ^ { \\circ } C$ 、夏季 $9 . 2 { \\sim } 2 1 . 0$ ℃、秋季 $9 . 5 { \\sim } 1 8 . 0 ~ ^ { \\circ } C$ ；大格勒冬季相差值为$4 . 9 { \\sim } 1 0 . 5 ~ \\mathrm { ^ circ C }$ 、春季 $9 . 2 { \\sim } 1 9 . 0 ~ \\mathrm { ~ \\textdegree ~ }$ 、夏季 $1 0 . 0 { \\sim } 1 7 . 0 \\$ ℃、秋季 $9 . 5 { \\sim } 1 6 . 0 ~ ^ { \\circ } C$ 。而09:00前和20:00后路面温度与气温相差明显较小，相差值约 $1 . 0 { \\sim } 4 . 0 ~ ^ { \\circ } \\mathsf C$ 左右·秦健等[24]研究沥青路面温度场的分布规律时发现，造成公路沥青路面温度变化的主要原因是气温和太阳辐射强度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同站点各季节路面温度特征 由伊克高里、宗加镇和大格勒3站",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同季节平均路面温度日变化曲线（图4）可见，3站中平均路面温度均有较大差异，宗加镇和大格勒的平均路面温度变化趋势基 本一致，伊克高里平均路面温度起伏波动较大·冬季伊克高里平均路面温度低于宗加镇和大格勒·其余季节09:00后伊克高里路面温度上升较宗加镇和大格勒快，路面温度达到最高后下降幅度也较宗加 镇和大格勒快，18:00后宗加镇和大格勒路面温度高于伊克高里·春季10:00—16:00伊克高里路面温度 高于宗加镇，宗加镇路面温度高于大格勒，春、秋、冬季伊克高里14:00路面温度达到最高，宗加镇和大格勒15:00—16:00路面温度达到最高·夏季伊克高里15:00路面温度达到最高，宗加镇和大格勒16:00路面温度达到最高·春、夏、秋、冬四季，夜间宗加镇路面温度高于大格勒，大格勒路面温度高于伊克高里·宗加镇和大格勒两站路面温度在09:00后的 $4 \\sim 5 \\mathsf { h }$ 内最为接近·冬季宗加镇路面最高温度 高于大格勒 $1 . 8 ^ { \\circ } \\mathsf { C }$ ，大格勒高于伊克高里4.8$\\mathcal { C }$ ；春季伊克高里比宗加镇高5.6 $\\mathsf { \\bar { C } }$ ，宗加镇比大格勒低 $0 . 3 \\mathrm { ~ } ^ { \\circ } \\mathsf { C }$ ；夏季伊克高里高于宗加镇 $1 0 . 8 ^ { \\circ } \\mathsf { C }$ ，宗加镇高于大格勒 $3 . 6 ~ ^ { \\circ } \\mathsf { C }$ ；秋季伊克高里高于宗加镇$1 0 . 1 ^ { \\circ } C$ ，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "宗加镇高于大格勒 $3 . 6 ^ { \\circ } \\mathsf { C }$ 。伊克高里、宗加镇和大格勒3站路面温度变化差异，可能是交通自动监测站点的海拔高度、气象条件、地形和周边环境共同作用的结果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同站点各季节气温特征分析由伊克高里、宗加镇和大格勒3站  \n同季节平均气温日变化曲线（图5）可见，冬季和秋季平均气温昼夜差异较大（图5）·春季11:00—次日03:00左右宗加镇气温波动高于大格勒，大格勒气温波动高于伊克高里，05:00—07:00伊克高里气温波动高于大格勒，大格勒气温波动高于宗加镇，08:00—10:003站平均气温变化趋势基本一致（图5a）·夏季伊克高里、宗加镇和大格勒平均气温相差  \n大，12:00—23:00宗加镇平均气温略高于大格勒，大格勒略高于伊克高里，03:00—12:003站平均气温非常接近（图5b）·秋季  \n12:00一23:00宗加镇平均气温略高于大格勒和伊克",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Diurnal change curves of average air temperatures in different seasons 高里·00:00—07:00宗加镇平均气温高于伊克高 里， ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "伊克高里高于大格勒，08:00—12:00伊克高里平均气温略高于宗加镇和大格勒（图5c）·冬季14:00—23:00宗加镇平均气温高于大格勒，大格勒高于伊克高里，00:00—07:00宗加镇平均气温高于伊克高里，伊克高里高于大格勒·08:00—14:00各站平均气温 相差很小（图5d）。总之，伊克高里、宗加镇和大格 勒 3站各季节平均气温变化趋势比较一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2 路面温度与气温相尖性分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.1路面最低温度与最低气温相关关系利用2018年3月1日—2020年2月29日3站逐日最低气 温和路面最低温度资料，研究了3站春、夏、秋、冬四",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "季路面最低温度与最低气温的相关笑系·图6是伊",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "克高里站路面最低温度与最低气温相关钅系图，图中关系式中 $y$ 表示路面最低温度， $x$ 表示观测点最低气温·从图中可以看出伊克高里站路面最低温度与最低气温有着较好线性相癸矣系，伊克高里四季相关系数分别为 $0 . 9 6 \\cdot 0 . 8 8 \\cdot 0 . 9 1 \\cdot 0 . 9 5$ ，四季路面最低温度与气温的相关性方程如表2所示·同理建立了宗加镇和大格勒站各季节路面最低温度与最低气温相关关系（图略），宗加镇四季相关系数分别为 $0 . 9 6 \\cdot 0 . 9 4 \\cdot 0 . 9 8 \\cdot 0 . 9 7$ ，大格勒四季相系数分别为",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$0 . 9 5 \\cdot 0 . 9 5 \\cdot 0 . 9 8 \\cdot 0 . 9 8$ ·各方程均通过0.01的显 著性检验· ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表2路面最低温度与最低气温相关性方程",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae759339fd6dd303e0a51e089bd4f54766e2319b83c6d6e47d96eb8087c33816.jpg",
+        "table_caption": [
+            "Tab.2 Correlation equations between the minimum road surfacetemperaturs and theminimumairtemperaturs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>季节</td><td>伊克高里</td><td>宗加镇</td><td>大格勒</td></tr><tr><td></td><td>春季y=1.0501x-3.5554</td><td>y=0.9326x+3.8377 y=0.9101x+2.5646</td><td></td></tr><tr><td></td><td></td><td>y=0.9791x+3.9964 y=0.9430x+3.1820</td><td></td></tr><tr><td></td><td>夏季 y=0.9952x-2.3341</td><td>y=0.9636x+3.8121 y=0.3270x+2.5142</td><td></td></tr><tr><td></td><td>秋季y=1.0821x-3.7275</td><td></td><td></td></tr><tr><td></td><td></td><td>冬季y=1.1815x-2.5804y=0.7433x+0.1189y=0.7158x-1.6000</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "冬季低温雨雪诱发的道路结冰极易引发交通事故的发生，柴达木腹地更是如此，因此应更加注重冬季路面低温预报的改进·通过相关性统计分析发现·伊克高里、宗加镇和大格勒3站路面最低温",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "度与最低气温间的相矣性均十分显著，冬季平均相关性系数在 $0 . 9 5 { \\sim } 0 . 9 8$ 之间，远高于夏季的 $0 . 8 8 \\sim 0 . 9 5$ ，因此均具有较好的推广性和实用性，均可进行业务化使用（表2）。  \n2.2.2路面最高温度与最高气温相关关系利用2018年3月1日—2020年2月29日3站逐日最高气温和路面最高温度资料，统计春、夏、秋、冬四季路  \n面最高温度与最高气温的相尖系·图7是大格勒站路面最高温度与最高气温相关矢系图，图中关系式中y表示路面最高温度， $x$ 表示观测点最高气温·从图中可以看出伊克高里站绝大多数散点都均匀且集中地分布在趋势线附近·同理可以建立宗加",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Correlations between the maximum road surface temperatures and the maximum air temperatures in different seasons at Big Gle ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "镇和伊克高里站春、夏、秋、冬四季路面最高温度与最高气温的相关关系（图略），经计算，伊克高里四季路面最高温度与最高气温的相关系数分别为 $0 . 7 0 \\cdot 0 . 7 0 \\cdot 0 . 8 2 \\cdot 0 . 6 3$ ，宗加镇分别为$0 . 7 3 \\cdot 0 . 9 2 \\cdot 0 . 9 0$ /",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "0.81，大格勒分别为 $0 . 7 0 \\cdot 0 . 7 8 \\cdot 0 . 9 1 \\cdot 0 . 7 6$ ，各站路面最高温度与最高气温相关系数均较高·因此，采用最高气温建立路面最高温度一元线性回归方程（表3）·各方程均通过了0.01的显著性检验。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "夏季高温天气所造成的路面高温会诱发爆胎交通事故，柴达木腹地处于沙漠戈壁地区，因此应更加注重夏季路面高温预报的改进·通过相关性统计分析发现，宗加镇夏季路面最高温度和最高气温的相关性系数达到0.92，相余性十分显著·而伊克高里和大格勒的相关性系数仅为0.70和0.78，相吴性较差·因此可选择宗加镇夏季路面最高温度相关性方程进行推广使用（表3）。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/14f1789f559e47a67d4d0e2824537bd3f5fabca7e5b821487e8a15fb7cbb653d.jpg",
+        "table_caption": [
+            "表3路面最高温度与最高气温相关性方程",
+            "Tab.3 Correlation equations between the maximum road surface temperatures and the maximum air "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">temperatures</td></tr><tr><td>季节</td><td>伊克高里</td><td>宗加 大格 镇 勒</td></tr><tr><td></td><td></td><td>春季y=1.8680x+25.8450 y=1.4873x+14.3300 y=1.7173x+11.7070</td></tr><tr><td></td><td></td><td>夏季y=3.4290x-15.3530 y=2.0079x-6.7131 y=1.8499x-3.0091</td></tr><tr><td></td><td></td><td>秋季y=2.1448x+14.8540 y=1.3389x+11.4530 y=1.3948x+9.5998</td></tr><tr><td></td><td></td><td>冬季y=2.0065x+14.3400y=1.1980x+11.0000y=1.0894x+9.6260</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文通过分析京藏高速柴达木腹地路段伊克高里、宗加镇和大格勒3个交通自动观测站",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "同季节路面温度变化及气温变化特征的基础上，利用统计方法建立了路面最低温度和路面最高温度相关性方程，得到以下结论：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）路面温度和气温在",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "同的季节均具有明显日变化特征，路面温度和气温达到最低值和最高值时间并非完全相同·伊克高里冬季12:00—14:00路面温度变化比气温变化高，其余时间路面温度变化比气温变化低。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）春、夏、秋、冬四季，宗加镇和大格勒站的路面温度变化均比气温变化高，各站的路面温度09:00后上升速度均比气温上升速度快，路面温度升温位相较气温均超前·17:00后路面温度下降比气温快·整个冬季伊克高里平均路面温度始终比宗加镇和大格勒站的路面平均路面温度低。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）伊克高里、宗加镇和大格勒3站平均气温",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "变化趋势较一致，但冬季和秋季平均气温昼夜差异非常明显·采用统计方法建立的3站各季节路面最低温度与最低气温和路面最高温度和最高气温相关性方程具有较好的使用价值，均通过了0.01的显著性检验，可在实际业务工作中推广应用·京藏",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "高速柴达木腹地自然环境条件较差，气温变化剧烈，风沙天气多，年降水量足 $5 0 . 0 \\ \\mathrm { m m }$ ，是全国气候和生态环境脆弱区之一。该地区气象站点布设和维护成本较高，导致公路沿线气象站点布设密度相对较小，能较好地反应整个线路的具体情况，未来应着力提高气象站点布设密度，完善模型研究结论·站点观测内容也相对有限，如果可以实现对路面能量平衡进行观测，使用陆面过程进行模拟研究效果将更好，研究成果推广使用前景将更加广泛。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]裴少阳，周丹，保广裕，等.青海省公路沿线能见度时空变化特 征及其影响因素[J].干旱气象，2017,35(6):1004-1010. [Pei Shaoyang，Zhou Dan,Bao Guangyu,et al.Spatial and temporalvariationcharacteristicsofhighwayvisibilityin Qinghai Province and its influencing factors[J]. Journal of Arid Meteorol0gy,2017,35(6):1004-1010.]   \n[2]康延臻，王式功，杨旭，等．高速公路交通气象监测预报   \n务研究 进展[J].干旱气象，2016，34(4):591-603.[Kang Yanzhen, Wang Shigong，Yang Xu,et al.Progress of trafic meteorological researches about monitoringand forecasting services on express highways[J]. Journal of Arid Meteorology,2016,34(4): 591-603.]   \n[3] 刘聪，卞光辉，黎键，等．交通气象灾害[M]．北京：气象出版社， 2009.[Liu Cong,Bian Guanghui,Li Jian,et al.Transportation meteorological disasters[M].Beijing:China Meteorological Press, 2009.]   \n[4]刘东，马社强，牛学军.我国高速公路交通事故特点分析[J].中国人民 公安大学学报(自然科学版)，2008，14(4):65-68.[Liu Dong,Ma Sheqiang,Niu Xuejun.Analysis on the characteristics of highway traffic accidents in China[J].Journal of Chinese Peo-ple's Public Security University (Science and Technology), 20o8,14(4): 65-68.]   \n[5]高玉祥，董晓峰,梁颖.基于GIS 的宁夏路网空间特征研究[J].干旱区 地理，2021,44(1): 268-276.[Gao Yuxiang,Dong Xiaofeng, Liang Ying. Study on fractal properties ofhighway transportation networks in Qinghai Province based on GlS[J].Arid Land Geography,2021,44(1): 268-276.]   \n[6]罗慧，李良序，胡胜，等.公路交通事故与气象条件尖系及其气象 预警模型[J].应用气象学报,2007,15(3):350-357.[Luo Hui,Li Liangxu,Hu Sheng,etal.The relationship between road traffic crashesand meteorological conditionwith constructionof its roadweatherwarningmodel[J]．JournalofApplied Meteorological Sci- ence,2007,15(3): 350-357.]   \n1广虫唐彩营防辉等我国 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "利天气条件下交通事故特征分析[J].干旱气象，2016,34(5): 753- 762.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[Ning Guicai,Kang Caiyan, Chen Donghui, et al. Analysis of characteristics of traffic accidents under adverse weather condition in China during 2005—2014[J]. Journal of Arid Meteorology，2016, 34(5): 753-762.] [8]王喆.高速公路灾害性天气研究[J].交通 准化,2007(1):105- 108.[Wang_ Zhe.Research on hazardousweather of highway[J]. Communications Standardization，2007(1):105-108.] [9] 潘娅英，陈武．引发公路交通事故的气象条件分析[J].气象科 技,2006,34(6): 778-782.[Fan Yaying,Chen Wu. Analysis of meteorological conditions for trafc accidents[J].Meteorology Science and Technology, 2006,34(6):778-782.] [10]马筛艳，马金仁，孙卫武，等.银川市路面温度预报与爆胎 数预报方法研究[J].干旱气象,2013,31(4):825-830.[Ma Shaiyan,Ma Jinren,Sun Weiwu,et al. Study of forecasting method for urbanroad temperature and the index of car tire'sexplosion[J]. Jour- nal of Arid Meteorology，2013,31(4):825-830.] [11] 贺芳芳，房国良，吴建平．上海地区不良天气条件与交通事故之关系 研究[J].应用气象学报,2004，15(1):126-129.[He Fang- fang， Fang Guoliang,Wu Jianping.Studyon therelationship be-tween adverse weather conditions and traffic accidents in Shanghai [J]. Journal of Applied Meteorological Science,2004,15(1):126- 129.] [12] 陈晓光，李俊超，李长林，等．风吹雪对公路交通的危害及其对 策研 讨[J]．公路,2001,46(6):113-118.[Chen Xiaoguang,Li Junchao,Li Changlin,etal.Studyon the hazardsofwind-blownsnow to highway traffic and its countermeasures[J].Hignway，2001，46(6):113- 118.] [13]杨晓敏，李玲琴，付建新，等.30a青海省公路可达性及县域经 济联系格局演化[J].干旱区地理，2018,41(6):1376- 1387.[Yang Xiaomin，Li Lingqin,Fu Jianxin，et al.Pattern variationof accessibilityandeconomic linkageatcounty scale in Qinghai Province from 1986 to 2016[J].Arid Land Geography,2018,41 (6): 1376-1387.] [14]田华，吴昊，赵琳娜，等．沪宁高速公路路面温度变化特征及统计模 型[J].应用气象学报，2009，20(6):737-744.[Tian_Hua,Wu Hao, Zhao Linna. Characteristics and statistical model of road sur- face temperature on Huning Expressway[J].Journal of Applied Meteorological Science,2009,20(6):737-744.] [15] Shao J, Lister ${ \\textsf { P J } }$ An automated nowcastingmodel of road surface tempature and state for winter road maintenance[J]. Journal of Applied Meteorology，1996，135:1352-1361. [16]吴晟,吴兑，邓雪 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "，等．南岭山地高速公路路面温度变化特征分析[J].气象科技，2006, 34(6):783-787．[Wu Cheng，Wu Dui，Deng Xuejiao，et al. Characteristics of road surface temperature on freewayover Nanlinghilly region[J].Meteorology Science and Technology, 2006,34(6): 783-787.]   \n[17]周存秀．京藏高速公路诺木洪至格尔木段路域生态环境现状研究 [J]．青海环境，2011,21(2):86-90.[Zhou Cunxiu.Study on the status quo of ecological environment in the section from Nomhon to Golmud of Beijing-Tibet Expressway[J]. Journal of Qinghai En",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "vironment, 2011, 21(2): 86-90.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[18]马磊，刘健，胡智轩，等．公路风吹雪防治工程设计量级计算初探 [J].干旱区地理，2019,42(5):998-1002.[Ma Lei,Liu Jian，Hu Zhixuan,et al.Calculation of magnitude of snowdrift on highway initsprevention engineering design[J].Arid Land Geography, 2019,42(5): 998-1002.]   \n[19]葛根巴图，魏巍，张晓，等.柴达木盆地极端气候时空趋势及周 期特 征[J].干旱区研究,2020,37(2):304-313.[Gegen Batu，Wei Wei, Zhang Xiao,et al.Spatiotemporal trends and periodic fea- tures of climate extremes over the Qaidam Basin，China,during1960 —2014[J]. Arid Zone Research,2020,37(2): 304-313.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[20]陈永顺，姚家骏，陈玉华．柴达木盆地气象和地",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "灾害分析[J].高原地   \n，2014，26(2):43- 48.[Chen Yongshun，Yao Jiajun,Chen Yuhua. Analysis on meteorolical and earthquake disasters in the Chai Damu Basin[J].Plateau Earthquake Research,2014,26 (2):43- 48.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[21]曲晓黎，武辉芹，张彦恒，等.京石高速路面温度特征及预报模型[J].干旱气象，2010，28(3):352-357.[QuXiaoli，WuHuiqin,",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Zhang Yanheng，et al.Characteristics of road suface temperature on Jingshi Freeway and the establishment of its forecast model[J]. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Journal of Arid Meteorology,2010,28(3):352-357.]   \n[22]闫昕旸，王小勇，达选芳，等.甘肃高速公路山区段路面温度特 征及 其预报模型[J].干旱气象，2018，36(5):864-872.[Yan Xin-yang, Wang Xiaoyong,Da Xuanfang,et al.Variation characteris- tics of expressway pavement temperature and forecast modelin mountainousarea of Gansu[J].Journal of Arid Meteorology,2018, 36(5): 864-872.]   \n[23]张曦，浩宇，梁佳，等.陕西省高速公路路面温度特征及预报模 型型[J].干旱气象,2019,37(6):1028-1034.[Zhang Xi,Hao Yu, Liang Jia,et al.Characteristics of road surface temperature of Shaanxi expressway and its prediction model[J].Journal of Arid Meteorology,2019,37(6):1028-1034.]   \n[24]秦健，孙立军．沥青路面温度场的分布规律[J]．公路交通科技， 2006,23(8):18-21. [Qin Jian, Sun Lijun. Distribution law of temperature field of asphalt pavement[J].Journal of Highway and Transportation Research and Development, 2006,23(8):18-21.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Variation characteristics of road surface temperature and its influence on air temperature factors of Beijing-Tibet Expressway in the Qaidam Hinterland ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BAO Guangyu， YANG Chunhua，ZHOU Dan，MA Shoucun，LIU Wei， YAN Zhenning(The Meteorological Service Center of Qinghai, Xining 810o01, Qinghai, China)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Daily meteorological data froman automated traffc observatory on the Qaidam Hinterland section (built between March 1,2018,and February29,2020)of the Beijing-Tibet Expressway was used to analyze the characteristics of road surface temperatures and hourly air temperature variations in the four seasons.Next, the correlation between the maximum and minimum road surface temperatures and the maximum and minimum air temperatures was calculated.Finally,we established correlation equations between the maximum and minimum road surface temperatures and the maximum and minimum air temperatures to provide a reference for detailed road surface temperature forecasting services.The results show that the road surface temperatures and air temperatures ofthe three stations inthe Qaidam Hinterland section of the Beijing-Tibet Expressway have distinct seasonal daytime variation characteristics.Furthermore,road and air temperatures do not reach their minimum and maximum values simultaneously.The road surface temperatures at the three stations rose faster than the air temperatures after O9:0o.The road surface temperature rise level reached before the air temperature rise level. During 10:0o—18:O0, there was a big diference between the road surface temperature and air temperature at all stations.The average road surface temperature at Ekgoli station was constantly lower than that at Zongjia Town and Big Gle station.The average air surface temperature variations at the three stations were consistent,and the daily difference in average air temperature between winter and autumn was noticeable. The correlation equations between the maximum and minimum road surface temperatures and the maximum and minimum air temperatures at Ekgoli, Zongjia, and Big Gle are realistic and can be put into practical use. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: Beijing-Tibet Expressway; Qaidam Hinterland; road surface temperature; correlation equation ",
+        "page_idx": 10
+    }
+]

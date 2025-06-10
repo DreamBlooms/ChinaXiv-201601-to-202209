@@ -1,0 +1,314 @@
+[
+    {
+        "type": "text",
+        "text": "A systematic method for technology assessment: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Illustrated for ‘Big Data' ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jianhua Liu', Ying Guo², Alan Porter',Ying Huang² National Science Library， Chinese Academy of Science，Beijing,1Oo19o, China School of Management and Economics,Beijing Institute of Technology,Beijing,1Ooo81,China, School of Public Policy, Georgia Institute of Technology, Atlanta (USA),and Search Technology, Inc., Norcross,Atlanta,GA 30092, USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Technology assessment is a systematic examination of the effects on or of new developments such as technologies, processes，policies,organizations,and so on.In this paper, we present a systematic method for technology assessment, as a part of the suite of tools for Forecasting Innovation Pathways (FIP). We explore means to combine tech mining tools with human inteligence in several idea exchange rounds to uncover potential secondary efects,and array them in terms of likelihood and magnitude.Big Data is studied as the case study.This is on-going research.We are currently on the $2 ^ { \\mathsf { n d } }$ round of stage 2. Technology assessment is a necessary component of FlP. It identifies areas in which significant impacts may occur, their likelihood,and their significance.The forecaster must evaluate these impacts，consider measures to enhance or inhibit them,and factor them into the planning process for developing the technology. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years,we have developed a suite of tools for Forecasting Innovation Pathways (FIP). FIP builds on“tech mining\"[1,2],especially of global database search results on the technology under study.Robinson et al.[3] laid out four stages and ten steps.The third stage of the FIP approach includes “Technology Assessment.\" ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Technology Assessment (TA) has dual meanings.For one,it concerns the evaluation of alternative technologies,i.e.，comparing current or evolving technologies in terms of specific objectives. But,TA also refers to a second, distinct set of activities - namely,“impact assessment\"-i.e., studying the future broad,societal effects of the development and application of emerging technologies [4].A classic definition directs attention to the “unintended， indirect，and delayed\" efects of such development [5]. That is the focus of this paper. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In FIP development to date,our TA efrts have received lessattention; in this paper we address impact identification and assessment.We develop and apply essential impact assessment aids to identify high likelihood and/or high magnitude effects associated with developmental choices.The paper aims for a systematic process for TA that identifies potential slow emerging impacts, quickly and efficiently: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1) Address the full framework, including foundations, uses (applications),as well as the potential impacts (both positive and negative)   \n2) Experiment with tech mining tools to elicit indications of potential secondary effects by developing impact taxonomies   \n3）Perform basic analyses of the potential effects identified to array them in terms oflikelihood and magnitude --then focus attention on impacts that appear either high likelihood and/or high magnitude   \n4） Present those results for review and for exploration of candidate mitigation measures to treat undesirable impacts- both via traditional workshops and via internet-enabled modes; compare those. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\"Big Data\" is the focus for this empirical case analysis. Big Data portends momentous implications for multiple sectors,offering a timely and rich topic for exploration of potential impacts.In this paper, Section 2 explains the contextual framework & research approach. Big Data is illustrated as a case in Section 3. Section 4 discusses implications. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. Contextual Framework & Research Approach ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Technology assessment is a meta-level method used to analyze potential development pathways of a technology and the social and economic implications of this development[6,7]. Included in technology assessment are methods to perform empirical analysis of the emerging technology; methods to engage stakeholders, experts,and publics,and methods to assess future pathways [8]. Technology assessment does not presume to provide accurate predictions of the future. Rather it seeks to reduce the uncertainties that restrict investment in the technology through revealing and, presumably， encouraging attention to negative societal impacts [9,10]. Technology assessment has traditionally been a central government function [the US Congress as of 1995 no longer has an Office of Technology Assessment to study the likely impacts of new technologies,but other US organizations are involved in technology assessment (or quasi-technology assessment)] including the National Academies and the General Accountability Office (GAO). However, decentralized methods have arisen to obtain more diverse inputs as the technologies are emerging[11,12]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Beginning Spring,2O15, with U.S.National Science Foundation (NSF) support, we have been working on \"Forecasting Innovation Pathways of Big Data & Analytics\". Our research has two main elements: 1) 'tech mining' (empirical analyses of research funding,literature,and patents to discern R&D trends andactive players)，and 2) engagement of stakeholders and experts to help understand developmental prospects and likely outcomes.The paper aims toward a systematic process for impact identification,analysis,and evaluation.We seek first to identify potential impacts,quickly and efficiently: (The process is not linear;\"effcts of effects\"could be important; enhanced exploration of innovation pathways should uncover additional effects.) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows our Contextual Framework for Technology Assessment ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0da096af9a19c39c03d072f4a5e5ef7d835746d1bf447610581c80031ed5752.jpg",
+        "img_caption": [
+            "Figure1. Contextual Framework for Technology Assessment "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stage 1: Identifying impacts，we aim to address the full developmental pathways - i.e.， consider implications of the processes,as well as the resulting applications.We do so under scrutiny by: 1) bibliometric methods.Search strategies are needed here.The database could be Web of Science,etc. Here，we choose ProQuest Business database，which may reflect consideration of impacts in conjunction with developing applications.2) Literature review is also important here.As for some emerging technologies，impact discussion can be very informative in reviews，foresight studies, consulting reports,etc.3) Use of a web crawler might also help,but we have not utilized that in this study. After scanning to identify the impacts, we separate the candidate impacts using select criteria - i.e.,by positive vs. negative； affecting organizations/individuals/society; by particular application arenas，data driven vs.problem driven,etc. Also，we sort the potential effects identified to array them for consideration of their likelihood and magnitude. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stage 2: We strive to present those results in concise, easily digested format for review by persons whom we have identified through our“tech mining\" of databases and review of key papers and for whom we have obtained e-mail addresses. We ask them to improve our set of potential impacts of interest. Then, we digest what we hear to summarize Big Data“impact identification.”Moreover, we seek open internet inputs to enrich that characterization，clarify preferences of various stakeholders,and posit policy actions warranting attention. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stage 3: We pursue research to explore the impacts,seeking data to support estimations of likelihood and magnitude，identify contingencies and dependencies，identify stakeholder perspectives，etc. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Policy suggestions should be the final outcomes for this Stage. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. Illustrative case: Big Data & Analytics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although the legacy of information technology development is long,the term “Big Data\" has a more recent history.Some trace the notion of Big Data to a special issue of Nature published in September, 2008，on the topic,while others allude to earlier or later references. Indeed the term itself has become a “meme\" for developments in the $2 1 ^ { \\mathfrak { s t } }$ century that facilitate the procurement, storage, processing,and analysis of large-scale information compilations.Boyd and Crawford [13] callout the \"mythology\" of the term,associating it with an overly optimistic and opportunistic rhetoric.The White House[14] has drawn on the Gartner, Inc. definition of Big Data in terms of the three $^ { \\prime \\prime } \\mathsf { V } \\mathsf { S } ^ { \\prime \\prime }$ (although more V's have been added in other definitions):(1) volume of data collected and processed at a decreasing cost; (2) variety of data,including digital data and data originating in analog forms that can be digitized (see President's Council of Advisors on Science and Technology, 2014); and (3) velocity of data that can be obtained nearly in real-time.The ability to process more information, more quickly,and with greater ease of analysis opens up opportunities in medical, business,scientific research,environmental,defense,and climate change applications,among others [15]. Concerned by the great potential, but also imposing impacts, GAO has initiated a “21st Century Data\" TA in 2015. This is being undertaken on behalf of the Comptroler General (i.e. at GAO initiative).This presents an intriguing opportunity for our Georgia Tech based team to address this，not uncommon，gap between historical and future-oriented analyses.We propose to experiment with our Forecast Innovation Pathways methodology on this “big data & analytics\" Assessment.In doing so,we wil be in position to present how FIP empirical methodology can provide useful insights into innovation prospects and implications of Big Data,the “internet of things,\"quality and privacy issues,and such. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A.Understand the technology & Scan the potential impacts ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Basically, we do tech mining of R&D on“Big Data & Analytics\"(BDA) drawn from multiple databases: Web of Science (WoS), INSPEC, ABI Inform, NSF and NSFC (National Natural Science Foundation of China)awards,and Derwent Innovation Index patents. The analyses show amazing growth in R&D and attention to BDA building hyper-exponentially from 2008,but showing indications of saturating as of 2015. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A map of the publications indexed by WoS shows incredibly broad interest 一 extending way beyond computer & data science 一in using BDA to advance research in diverse fields. Our analyses find the U.S.and China leading the global BDA effort. Here we are emphasizing search results on Big Data from the ProQuest Business_ database for 2010-2014.We use the terms -- Problem/ risk/ challenge/impact/ effect/burden/benefit --to reduce the 9696 Big Data records to 620 that appear to consider impacts.We review topical term lists and read selected abstracts to bolster our candidate Big Data impacts set.Besides，we read more than 6O selected articles to widen and deepen our understanding of potential impacts of the development,application,and uses of Big Data. We have identified some 20 major application areas, pursuing in-depth analyses of select ones (e.g., Electronic Health Records -- EHR).Here we aspire to address impacts arising from any of the applications to help inform policy considerations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We model Big Data applications using a simple 3-level framework (Fig. 2): ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1) Information Technology (IT) Foundations- Communications, Storage,and Computing that enable Big Data functionality [Note: this level is NOT our focus here.]   \n2) Analytics- Building on the Big Data foundations-enhanced and new functionality is coming into use. We perceive four major functional elements: monitoring; modeling & prediction; auditing & evaluation; and process optimization.   \n3) Uses，especially oriented to decision support - including four prominent forms:service improvement; management & organization; process improvement; and R&D. And then, we separate the candidate impacts on select criteria - i.e.， positive vs. negative; affecting organizations/individuals/society; by particular application arenas,data driven vs. problem driven, etc. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our focus is on the U.S. with an eye toward potential Federal policy actions to promote beneficial development while reducing potential risks and costs.Figure 2and Table 1 explain the details.Table 1 tracks how functions (Column 1) could be operationalized (Column 2), leading to Uses (Column 3). Column 4 adds example impacts. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fosteraccountability; Changeorganizational   \nEnable expanded network InitiatenewR&D structures; Increaseordecrease   \ncooperation; opportunities; Alterhumanresource economicequality(\"Data   \nGaininanalytics due to Save energy allocation; Divide\")?   \ncombinations of diverse data; Faciltateautomation(e.g., Increaseaccountability; Biases and assumptions inbuilt Favored few gain(e.g.   \nOpen novel industrial self-driving cars); Providericher inputand (consciously or not) into certainmultinationalslike   \norganizationopportunities; Change the nature of gaming, output intelligence; decision-making algorithms; GEtargetingthe Intermet   \nSmartershopping for goods, sports,design; Automatevariousfunctions Enhancemanagerial of:Things):   \ncolleges,healthcare,etc.; Reducehumanmanagerial (e.g.，taxing); effectiveness; Generate possible political   \nHeightenspyingconcerns; needsthroughsemi- ...·····. Reduce cost and time; backlash,leading to   \nChallenge privacy norms automated decision support; Enhance service effectiveness; unrest&extremism; ........... .... Positive/Negative Effects of Big Data Uses/Applications Cloud Manufacturing Retail Applications Education Media&entertainment Banking Telecommunications SmartcityLife science Automotive Energy&utilities Government Healthcare Agriculture Financialmarkets ......···. Big Data Uses, especially oriented to decision-support service improvement management&organization processimprovement R&D Monitoring Modeling&Prediction Auditing&Evaluation Process Optimization Cumulative Semi-automated decisionmaking; 1 Datatransparency; Cross-dataintegration; Advanced analytics; Dynamicplanmanagement; Economic gainsor Remote&real-timemonitoring; Predictive modeling; Auditcapabilities Personalizing servicesmodel; costs Monitoringpublicactivities Virtual Reality; Enablingreal-world,real-time experimentation BigDataAnalytics&Services Information Technology (IT) Foundations : Hardware & Software data collection、integration、computing、cleaning、storage、management、Inetwork... ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As mentioned,we undertake analyses at two levels for Big Data.At a general level we seek to identify notable systemic characteristics and effects of Big Data for many applications.The target is to identify potential impacts not limited to a particular application domain. Second，for specific applications - focus on one application domain and perform a similar TA process (The EHR impact table is not shown here.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.Exchange ideas& renew the impacts ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1st round ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We found about 50 persons whom we have identified through tech mining of databases and review of key papers,and for whom we have obtained e-mail addresses.In the emails we sent to them, we laid out what we are pursuing for this research and pointed them to read the project webpage (http://bigdatagt.org). We sent them Figure 2 and Table 1 to ilustrate how we understand Big Data, and welcome their refinements to any of that content, but expressly seek the suggestions regarding potential indirect,delayed,or unintended effects (Column 4 of the Table 1).The grey blank cels in Table1invite any additional points they might offer.We also welcomed ideas on possible policy and mitigation options to deter undesirable effects.We sent a reminder 10 days after the $1 ^ { \\mathfrak { s t } }$ round emails.We digested what we hear back to update the Table 1 to summarize our initial “impact identification.\" ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Unfortunately,response rate has been low $( \\sim 1 2 \\% )$ . This is consistent with other email surveying that our Center has done recently.We willinvite the 50 researchers to consider our budding website that we are developing to share early findings:The weak response prods us to pursue alternative, internet-based methods to engage various parties at interest.We are pursuing a blog model, providing easy means to stay in touch with interested parties and atract their feedback. [We wil update results at PICMET.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2nd round ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As noted, we are making a blog to seek open internet inputs to enrich our characterization of Big Data implications, clarify preferences of various stakeholders，and posit policy actions warranting attention. We'd like to get 2 types of responses - invited (by us) and open (anyone). We invite the 50 reviewers of the 1st round to engage the website. We share detailed project descriptions and the bibliometric analysis results there,as wellas the revised impact table (Table 1 in this paper) according to reviewers' comments.The website is also open to public.Our plan is to track inputs from various invitees vs.those from open comment to check for discrepant estimates and valuations. More importantly，we aim to understand the likelihood and magnitude of each impact. We have drawn sets of major impacts (Table 2) from Table 1,and defined each impact briefly.We'd like to have 3 responses for each impact: 1) $\\%$ (likelihood)；2) Importance (magnitude)；3) Policy action suggestions.We ask a likelihood of occurrence in the Year 2026 (10 years from now on). As a contingent question, we also ask if that impact does occur, how large an effect willit exert on the US. For example: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q1: One possible outcome of widespread BDA application could be displacement of \"analysts” in many sectors.How likely do you think that BDA will significantly displace American analysts by the Year 2026?[0-10]   \nQ2: If, indeed,such displacement occurs,out of some X million analysts working today,what would be the net reduction due to BDA as of 2026? [in millions; give the option of an increase instead of a decrease too] [0-10]   \nQ3: Any policy action suggestions under such situation? ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We put up a model $2 \\times 2$ matrix - BDA Impact Estimation- to show the likelihood & magnitude survey result about potential BDA Effects. This axis shows O-10 Scaling on Likelihood (vertical axis)， and O-10 on Magnitude (horizontal axis) of each effects. Grid origin of the axis is (5, 5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Drawing on literature，discussion，and knowledgeable feedback，we have identified 20 candidate impacts (i.e.， outcomes or effects)of widening uses of Big Data Analytics over the coming 10 years. We want to locate these on a 4-quadrant chart to help see the most important effects that warrant possble policy actions to encourage or reduce.Fig 3 illustrates several effects in this chart to stimulate the likelihood and magnitude. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a271e6f9e144c417ed280c3e36e3645602c50093aadc00cd0c5b9a52070e6cb7.jpg",
+        "img_caption": [
+            "Figure3 BDA Impact Estimation Ilustration "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ad45cc71e3e582bb6846c4d9c65dea8e2b4db47b1eb9f47398d7c5efa13e7e3.jpg",
+        "table_caption": [
+            "Table1.‘Big Data Analytics’Effectsat Different Levels "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Analytics- based Functionality Monitoring</td><td>Operational Level</td><td>Explanations & Example Uses</td><td colspan=\"2\">Example “Effects of effects” [potential “indirect, delayed, or unintended” impacts of Big Data Analytics & Uses, both good & bad]</td></tr><tr><td rowspan=\"2\"></td><td>Data transparency</td><td>Sharing data among different sectors, organizations and even countries -- enabling organizations & individuals to affirm accuracy & completeness; Open government Data (OGD) Combining multiple sources to</td><td>Foster accountability; Pose privacy & security threats Enable earlier detection of events ? Pave the way for further correlation</td><td>Enable expanded network cooperation;</td></tr><tr><td>Cross-data integration</td><td>enable new forms of inquiry, new analytics (e.g., in agriculture - soil, weather, chemical monitoring to boost agricultural yields); requiring organizational coordination</td><td>> > Require data reformatting ></td><td>Gain in analytics due to combinations of diverse data; Pose extreme privacy & security threats (even when no single source of data reveals identity, correlation across multiple sources can) Reduce world hunger (via increased agricultural productivity) In general, solve major world problems Induce jurisdictional fights (\"power” in data control) able to connect a patient's complete medical history with prescription drug and</td></tr><tr><td rowspan=\"8\">Remote& real-time</td><td rowspan=\"8\">monitoring Health sensors</td><td>Collecting information on individual behaviors</td><td>></td><td>treatment options; Lead to potential mis-understandings if semantics are not identical or understood</td></tr><tr><td> country, organization and</td><td>></td><td>Open novel industrial organization opportunities; Heighten spying concerns;</td></tr><tr><td>◇Tracking individual</td><td></td><td>Enable behavior modification, for better or worse, e.g., for better health</td></tr><tr><td>behaviors for personalized</td><td>></td><td>Provide data that can lead to new solutions to major challenges Chalenge privacy norms (but must distinguish between consensual and</td></tr><tr><td>services.</td><td></td><td>non-consensual monitoring - e.g., auto insurance plug-ins)</td></tr><tr><td>Geo-tracking to expedite</td><td></td><td> Secondary use of collected data (who pays, who benefits? Who controls?)</td></tr><tr><td>services; Supply chain management</td><td>□</td><td>Politicize; volatile stakeholder attitudes, subject to media manipulation</td></tr><tr><td>dynamically adjust) > Environmental sensors</td><td>(aided by comprehensive, real-time analytics to ></td><td>changes in behavior)</td><td>Smarter shopping for goods, colleges, health care, etc. Potential to reduce moral hazard (real time monitoring may create positive More accurate risk pricing as can be based on actual behavior rather than</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ae3b73a54b0cbc135efb806f3202d9e15980f2e8f947dda07c7c46f95ce23b7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td></td><td></td><td></td><td>signal of lower risk type. give education officials the tools they need to continuously improve the educational experience of their students</td></tr><tr><td>Monitoring public activities</td><td>Collecting online social media and physical public spaces surveillance -- enabling network</td><td></td><td>Raise‘Big Brother’concerns Increase sense of security Reduce terrorism and crime in general</td></tr><tr><td></td><td>analyses, enhanced security, crime control, etc.</td><td></td><td>Negative impacts of surveillance-driven behavioral changes?</td></tr><tr><td rowspan=\"3\">Modeling & Prediction</td><td>Advanced analytics</td><td>Using statistical tools and Artificial Intelligence to generate evidence-based interpretations</td><td>□</td><td>Initiate new R&D opportunities; Save energy Better diagnostics -for health, for industrial systems, etc. Protect individuals and businesses by, e.g., predicting extreme weather events, crime, Economic benefits from increased efficiency due to analysis</td></tr><tr><td>modeling</td><td>Opportunities to model for different purposes, such as global warming or epidemiological prediction (Google Flu Trends); natural disaster prediction, market demand prediction, etc. Opportunities for predictions</td><td>></td><td>manage the most efficient transportation patterns Reduce human managerial needs through semi-automated decision support; Facilitate automation (e.g., self-driving cars) Enable“expert” help in regions or situations where there is no expertise- e.g., AIDS treatment in poorer regions with the quality of experts, etc. More granular and accurate predictions can lead to more efficient pricing and matching → promote separation over pooling equilibria, which increase welfare</td></tr><tr><td></td><td>around credit, insurance, and labor markets</td><td></td><td>by making the market larger. Have to be careful to distinguish privacy demands that stem from strategic rationales vs. intrinsic demands for privacy. Privacy concerns stemming from one's true type being revealed (e.g., high risk driver or unproductive worker) are strategic. Privacy concerns stemming from analytics predicting something sensitive, and potentially embarrassing (e.g., sexual preference ) are intrinsic. Some privacy demands are mixed (e.g., sensitive health conditions). There are strategic reasons for wanting, e.g., drug addiction or depression, concealed, but revelation also violates intrinsic privacy demands.</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "production. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/502b41e0ba55d2cce83c7e9fb417bf2bda2f9374fee4e19896d2c80a3da8d058.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"7\">Auditing & Evaluation Process Optimization</td><td></td><td></td><td>☆</td><td>E.g., Using big data to predict a counter party's willingness to pay merely to get a larger share of surplus is dissipative if the transaction would have taken place regardless; expending resources to effect a transfer is wasteful. But, using analytics to predict willingness to pay so that offers can be extended to those who otherwise would be left out of the market is efficient, as it increases surplus. track anonymous cell phone user data to quickly identify accidents and other traffic challenges</td></tr><tr><td>Virtual Reality</td><td>Processing vast data resources with real-time speed</td><td>> ></td><td>apply weather models to residential population databases to quickly alert affected people Change the nature of gaming, sports, design Increase the number of couch potatoes Enable better medicine</td></tr><tr><td>Reporting tools</td><td>Allow the linkage of multiple data sets as if you were reporting from one data source.</td><td></td><td> Increase isolation of individuals by reducing face to face human interaction</td></tr><tr><td>Audit capabilities; Regulatory &</td><td>Detection of misuse of funds, fraud, and abuses of power;</td><td>> ></td><td>Increase accountability; Provide richer input and output intelligence; Automate various functions (e.g., taxing)</td></tr><tr><td>Compliance such Semi-autom</td><td>Improved customer experiences through loyalty programs and</td><td></td><td>Reduce human oversight and understanding</td></tr><tr><td>ated decision making</td><td>Faster emergency response; Improving workflow re-design (enhance organization effectiveness)</td><td>> ></td><td>Change organizational structures Alter human resource allocation (may lead to new departments and new jobs, but loss of others); Biases and assumptions inbuilt (consciously or not) into decision-making algorithms Possible errors/oversights from imperfect learning/rules</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/c753d2534805c05e83512cf34ca30b56c9625db8df53d28fa5c36a7cb1a09a56.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Personalizin model Enabling real-world, real-time g services</td><td>multi-organizational production systems; logistics Promoting personalized services such as personalized medicine; Customer 360 understanding of needs & tailoring of services Targeted advertising Analyzing “natural experiments\" (comparative data), such as probing comprehensive patient > and outcome data to compare the > effectiveness of various</td><td>?</td><td>Enhance service effectiveness; Improve health (and other sector functions) Increased consumption provide more personalized or individualized care for a patient's specific case Lead to accelerating science, technology & innovation</td></tr><tr><td>Cumulative</td><td>Economic gains or costs Internet of Things (IoT)</td><td>Power shifts; who owns what data? Ubiquitousness of data collection; Automated analyses of Big Data combinations</td><td>> ></td><td>Improve social & welfare services Improve national security & public safety Save a significant number of lives Increase or decrease economic equality (\"Data Divide\")? Favored few gain (e.g., GE targeting the Internet of Things) Generate possible political backlash, leading to unrest & extremism Reasons to belief that poor may gain from big data: Rich already have access to credit.But, in many cases little information on poor, so they are pooled with others in similar circumstances despite true ability to pay back. Big data using alternative scoring factors can detect most creditworthy within a pool of high-risk borrowers. Empirical evidence of credit scoring supports the notion that poor will gain the most as they have been excluded from markets.</td></tr><tr><td></td><td></td><td></td><td></td><td>primarily by returns to education). Strengthen collaboration among countries Extending new market development from enhancing customer experience Foreign policy hazards (e.g., Snowdon release of intelligence data) Extensive displacement of human white collar workers</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/1baf4acc700f817f9c38dd407629a1aedced2563c8945d528988d03ea1417351.jpg",
+        "table_caption": [
+            "Table2.MajorPotential ImpactsofBigData Analytics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">lable M: tso11 DataAnalytics</td></tr><tr><td colspan=\"2\">Potential Negative Impacts of Big Data Analytics</td></tr><tr><td>1</td><td>Abuse of privacy</td></tr><tr><td>2 3</td><td>Security threats, especially to organizations Misinterpretations [due to unintended (secondary) use of data compiled for other purposes]</td></tr><tr><td>4</td><td>False confidence in predictive power based on historical data [presuming trend stability;</td></tr><tr><td>5</td><td>lacking consideration of events and other forces apt to alter developmental trajectories]</td></tr><tr><td>6</td><td>Unquestioning acceptance of conclusions by algorithms or artificial intelligence (Al)- failure to examine “black box\"assumptions and possible biases or flawed rules Political backlash against empirical “power usurpation\"- leading to ideological anti-data</td></tr><tr><td>7</td><td>unrest and extremism Human isolation - as individual roles in decision processes reduce, face-to-face interaction</td></tr><tr><td>8</td><td>will possibly diminish. Jurisdictional fights among organizations [reflecting the increasing “power” resident in</td></tr><tr><td>9</td><td>control of the data]</td></tr><tr><td colspan=\"2\">?? [we welcome your additions] Potential Positive Impacts of Big Data Analytics (BDA)</td></tr><tr><td></td><td></td></tr><tr><td>10 11</td><td>Data sharing across boundaries (national,organizational) expands networking (cooperation) Effective monitoring- earlier detection of threats to protect organizations and individuals</td></tr><tr><td>12</td><td>(e.g., terrorism, environmental hazards) Better predictions [drawing on enhanced data together with increasingly powerful</td></tr><tr><td>13</td><td>computing and effective algorithms](e.g., weather, crime) Improved understanding of major challenges, leading to better solutions (e.g., global climate</td></tr><tr><td>14</td><td>change) Better decisions by individuals and organizations,informed by richer data (e.g.， smarter</td></tr><tr><td>15</td><td>shopping,health care,and education choices) Cumulative benefits of BDA to lower crime and terrorism widely</td></tr><tr><td>16</td><td>Economic gain (more granular and accurate modeling and prediction to tune pricing and</td></tr><tr><td>17</td><td>needs-matching) Enlarged markets - better informed consumers extend their options via more data and</td></tr><tr><td>18</td><td>better analyses New sectors; new jobs (enhanced resource utilization could enable vast new opportunities)</td></tr><tr><td>19</td><td>?? [we welcome your additions]</td></tr><tr><td colspan=\"2\">Possibly Positive and/or Negative Impacts of Big Data Analytics</td></tr><tr><td>20</td><td>Reduced analyst and manager needs due to semi-automated decision making (reduced cost; faster; increased output, but job displacement too)</td></tr><tr><td>21</td><td>Economic (in)equality- likely redistribution of wealth [\"data divide\" could skew toward the already advantaged; conversely，more reliance on common assets (especially shared data and algorithms) could enable greater equality]</td></tr><tr><td>22</td><td>Behavior modification (e.g.,better informed lifestyle choices resulting in better health; but, potential dumbing down of human roles, leading to passivity or such</td></tr><tr><td>23</td><td> ?? [we welcome your additions]</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "IV. Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Technology assessment is a systematic examination of the effects on or of new developments such as technologies,processes，policies，organizations,and so on.Impact assessments are classified as policy studies,since they can affect the policies of the organizations that conduct them,as well as those of other stakeholders.In most cases,impact assessments should result in actions. Assessments may be freestanding or part of another study such as a technology forecast. We are working to develop a systematic system to help do technology assessment, in which the $3 ^ { \\mathsf { r d } }$ stage (to finish pre-PICMET)targets policy action analysis.Combining the empirically-based work,which we are good at, we emphasize interactions with experts and publics via internet modes in this study. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we focus on our early attempts to build a systematic system for technology assessment. Our goal is to identify and assess the unintended,indirect,and delayed impacts through this system. This approach combines quantitative and qualitative analyses.This BDA analysis was a smal-scale experiment.By inviting people to join the impact analysis discussion,such work could bolster development of technology itself.This type of information interchange could actively contribute to that development by helping to coalesce visions of innovation targets,to identify obstacles to be overcome and assets upon which to draw,and to perform impact assessment to identify potential beneficial and harmful effects. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment: ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We acknowledge support from the US National Science Foundation (Award #1527370-\"Forecasting Innovation Pathways of Big Data & Analytics\").The findings and observations contained in this project are those of the authors and do not necessarily reflect the views of the National Science Foundation. Thanks for review and suggestions: Sanjay Arora (Georgia Tech); Laura Haas (IBM); James Cooper (George Mason University School of Law); Muhammad Anshari(University Brunei Darussalam, Continuing Education Centre & e-Government Innovation Centre); Michael Rappa (North Carolina State University); Dan Suciu (University of Washington) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References: ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] Porter AL, Cunningham SW (2005) Tech mining: exploiting new technologies for competitive advantage. Wiley, New York   \n[2]Porter, A.L.,and Newman, N.C.2011. Mining External R&D,Technovation,31, 171-176.   \n[3] Robinson,D.K., Huang,L., Guo,Y.,&Porter,A.L. (2O13).Forecasting Innovation Pathways (FIP)for new and emerging science and technologies.Technological Forecasting and Social Change,80(2),267-285. [4]   \n[5] Coates,J.F.(1976), Technology Assessment- A Tool Kit, Chemtech (June),372-383.   \n[6] Porter，A.L.，Rossini，F.A.， Carpenter，S.R.and Roper，A.T.(198O)．A Guidebook for Technology Assessment and Impact Analysis. New York:North Holland.   \n[7] Rip,A.and TeKulve, H. (2O08).Constructive Technology Assessment and Socio-Technical Scenarios.The Yearbook of Nanotechnology in Society， Volume 1: Presenting Futures.E.Fisher， C. Selin and J.M. Wetmore, Springer: 49-70.   \n[8] Porter,A.L.，Ashton,B.， Clar,G.,Coates,J., Cuhls，K.，Cunningham,et al. (2004).Technology futures analysis:Toward integration of the field and new methods. Technological Forecasting & Social Change,71(3), 287-303.   \n[9] Hoppe，H.C.(2O02).The Timing of New Technology Adoption: Theoretical Models and Empirical Evidence.The Manchester School,70: 56-76.   \n[10] Robinson, D. K.R.,Le Masson, P., Weil, B.(2O12). Waiting games: innovation impasses in situations of high uncertainty. Technology Analysis & Strategic Management, 24(6), 543-547.   \n[11] Guston,D. H. Sarewitz,D. (2002). Real-time technology assessment.Technology in society,24(1), 93-109. [12] Kuhlmann,S. (2O01). Future governance of innovation policy in Europe一three scenarios. Research Policy, 30(6), 953-976.   \n[13]Boyd,D.,Crawford,K. (2O12).Critical questions for bigdata: Provocations fora cultural,technological, and scholarly phenomenon.Information, communication& society,15(5),662-679.   \n[14]Bryant，R.， Katz，R. H.，Lazowska，E.D. (2008). Big-data computing: creating revolutionary breakthroughs in commerce,science and society. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Rousseau,R. (2O12).A view on\"big data\"and its relation to Informetrics.Chinese Journal of Library and Information Science,5(3),12-26. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Rotolo，D.，Hicks，D.，Martin，B. (2015).What is an emerging technology? Research Policy 44(10), 1827-1843.   \nWhite House (2014). Big Data: Seizing Opportunities, Preserving Values. ",
+        "page_idx": 14
+    }
+]

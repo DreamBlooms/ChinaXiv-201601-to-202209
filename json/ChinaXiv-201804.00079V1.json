@@ -1,0 +1,378 @@
+[
+    {
+        "type": "text",
+        "text": "虹吸输铁对黄化苹果叶片光合参数及细胞器结构的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高一宁」，时晓芳²，侯延杰1，薛进军3\\*（1广西农业科学院园艺所，南宁530007；广西农业科学院葡萄与葡萄酒所，南宁 530007;3广西大学农学院，南宁530005)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：该文通过虹吸输入铁肥的方式研究黄化苹果叶片叶绿素含量、光合参数及细胞器结构的变化，来进一步探索矫正苹果缺铁黄化病的方法。以红富士苹果品种为试材，设置输铁液（600倍 $\\mathrm { F e S } 0 _ { 4 } { \\cdot } 7 \\mathrm { H } _ { 2 } 0 \\$ ）处理并以输离子水和不输液为对照，观察了处理后苹果树的复绿情况，测定了叶绿素含量、光合参数、进行了叶绿体、线粒体超微结构的电镜扫描。输铁后10天，树体复绿情况明显，复绿等级由2.01变为0.53，复绿的叶片叶绿素含量有显著增加，增幅达到 $200 \\%$ 。同时，净光合速率提高了 $68 \\%$ 、蒸腾速率提高了 $21 \\%$ 、气孔导度提高了 $49 \\%$ ，胞间 $\\mathrm { C O } _ { 2 }$ 浓度降低了 $100 \\%$ 。输铁处理后的单个细胞叶绿体个数比对照有显著增加，且个体更饱满，淀粉粒和嗜俄颗粒有明显减少；基粒片层结构规律整齐，基质清晰，被膜结构完整，线粒体内嵴清晰度高，数量增多。在输铁处理后，苹果树体复绿明显，叶绿素合成能力恢复，叶绿体、线粒体被膜结构均得到修复，表明用虹吸的方法将铁肥输入树体对苹果缺铁黄化病有很好的疗效。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：铁肥；虹吸输液；黄化；苹果；光合；细胞器结构 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of Fe fertilizer siphon transfusion on photosynthetic parameters and organelle structure of iron chlorosis in ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Apple trees ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GAO Yi-Ning1 SHI Xiao-Fang² HOUYan-Jie1 XUE Jin-Jun3\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "('Horticultural Research Institute， Guangxi Academy of Agriculture Science， Nanning 530o07，China; ²Viticulture and Wine Research Institute， Guangxi Academy ofAgriculture Science， Nanning 530oo7，China；3 College ofAgriculture，Guangxi University，Nanning 53oo03，China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The paper is aimed to explore a method to correct chlorosis due to Fe deficiency, by studying the effects of Fefertilizer into apple through siphon on the chlorophyll content, photosynthetic parameters and the change of organelle structure.Taking Fuji Apple （Malus Pumila Mill）as the testing variety,three treatments were set, including: $\\textcircled{1}$ infusion of Fe fertilizer（600times $\\mathrm { F e S } 0 _ { 4 } { \\cdot } 7 \\mathrm { H } _ { 2 } 0$ ）into apple tree through siphon, $\\textcircled{2}$ infusion of deionized water and $\\textcircled { 3 } \\mathrm { C K }$ (no treatment).Retrieved green leaves was observed and chlorophyll content and photosynthetic parameters were measured.Ultra microstructure of chloroplast and mitochondria were observed byl electron microscopic scanning.In theFe fertilizer treatment,greening level were changed from 2.01 to 0.53 and the chlorophyll content were increased even by $200 \\%$ .Meanwhile,net photosynthesis rate,transpiration rate and stomatal conductance were increased significantly,while the intercellular $\\mathrm { C O } _ { 2 }$ concentration wasdecreased. Compared to infusion of deionized water treatment and $\\mathrm { C K , i n }$ the the Fe fertilizer treatment, the chloroplastnumber were increased with larger size:and the number of starch granules and osmiophilic granules were decreased;Grana lamellae structure were more clear,as well as the mitochondrial crista with more quantity. After Fe fertilizer applied,the yelow leaves Retrieve green again obviously.And the synthesize ofchlorophyll was improved,andthe membrane structureof chloroplastandmitochondrionwas recovered.Inconclusion,Fe fertilizer infused into Fuji apple through siphon can correct chlorosis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words:Fe fertilizer,siphon transfusion,apple,photosynthetic parameters,organelle structure ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "铁是植物生理活动中所必需的营养微量元素，在植物体的光合作用、固氮作用、呼吸作用等生理代谢过程的电子传递或酶促反应中发挥着重要的作用。植物缺铁黄化病是果树因缺铁影响叶绿素正常合成的生理型病害（苏律，2016），在世界范围都广泛存在，一直作为国际植物营养学界有待攻克的难题。我国的苹果产量居世界首位（常源升，2014），是黄化病的高发树种。苹果缺铁的主要表现为新抽嫩叶的脉间黄化，叶片顶端枯萎。长期缺铁会导致的树体发育不良，树势弱小，严重时甚至导致树体死亡。其中，在石灰性土壤、盐碱性土壤上表现的尤为突出。国内外研究者尝试了各种补充铁营养的措施，包括叶面喷施、断根土施、根系输液、树体注射等（Shena etal，2015），由于铁在自然界中易氧化和难移动，有的复绿效果不持久，有的操作复杂，费时费工，成本较大。因此，我们通过虹吸输液法（薛进军，2009），使铁肥在蒸腾拉力作用下直接进入树体，达到省时、省工，同时又能有效矫正果树缺铁。本文通过研究铁肥直接输入树体对缺铁黄化叶片光合参数和细胞器结构的影响，为解决果树黄化病提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2016年在河北曲周县槐桥乡田间进行，试验时间为七月份（黄化病高发期），试材为2004年定植的红富士苹果品种（Malus Pumila Mil1），土质属于石灰性土壤。各处理叶片的叶绿素含量测定和细胞器超微结构观察在中国农业大学进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1试验设计 选田间生长一致的缺铁失绿苹果树，采用随机区组试验，单株小区，设置在树干上输入 $5 0 0 \\mathrm { m l }$ 浓度为600倍的亚铁 $\\mathrm { ( F e S 0 _ { 4 } \\bullet 7 H _ { 2 } 0 ) } ,$ 溶液为处理一，输入 $5 0 0 \\mathrm { m l }$ 去离子水为处理二，不输液为对照，每处理5株树。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2观测内容田间处理的前后10天，用周厚基（1988）的方法分别将试材苹果树的黄化程度进行分级。处理10天后，取三种处理的新梢上部叶片测定叶绿素含量，同时进行细胞器结构的电镜观察。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3虹吸输液方法 输液主要设备是电钻（钻头约 $0 . 5 \\mathrm { c m }$ ）、橡皮管（外径略大于$0 . 5 \\mathrm { c m }$ ）、洗耳球和 $6 0 0 \\mathrm { m l }$ 空塑料瓶。操作方法：先在树干基部打孔，孔深约5cm，直径约$0 . 5 \\mathrm { c m }$ 。输液时，将装满铁肥溶液的塑料瓶挂在高于打孔处约1.5m的树枝上，橡皮管的一端插入装满溶液的瓶底，橡皮管另一端移至基部打孔处，用吸耳球从管另一端吸取溶液，待形成虹吸效应时，迅速插入树干基部的孔中（不漏即可），即开始向树体输入亚铁溶液。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 测定方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4.1叶绿素的测定取三种处理新梢中部叶片测定叶绿素含量：将叶样用 $80 \\%$ 丙酮浸提，至叶片全部褪绿后用 $9 5 \\%$ 乙醇定容，再用紫外分光光度计测叶绿素含量（李志丹等，2011）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4.2 光合参数的测定 处理前后第10 天后，使用CIRAS-2便携式光合系统于上午9：00 到11:00间测定各处理新梢上部叶片的 $\\operatorname* { P n }$ （净光合速率）、 $\\operatorname { T r }$ （蒸腾速率）、Gs（气孔导度）、Ci（细胞间隙 $\\mathrm { C 0 _ { 2 } }$ 浓度）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4.3 叶绿体超微结构的观察 材料处理和电镜观察均在中国农业大学电镜平台完成。具体试验步骤参考Lianopoulou等（2014）的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用SPSS分析软件进行统计分析，结果用Duncan’s法进行多重比较。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.结果与分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1处理后复绿情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输铁处理10天后，由处理前的黄化等级2.01级恢复到0.53级，而输水处理和对照树没有复绿，黄化程度前后几乎无差异（表1）。由此可见黄化已基本被矫正。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1不同处理的复绿等级",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0042a13f422fd04adc3c04446b2e7eaab54ab414f6dae4b1fe8f8d95a97729ca.jpg",
+        "table_caption": [
+            "Table 1 Regreen scale by different treatments "
+        ],
+        "table_footnote": [
+            "注：数字后的英文字母不同者表示在0.05水平上达到显著差异。"
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>处理前 Before treatment</td><td>处理后 Aftertreatment</td></tr><tr><td>输液 transfusion</td><td>2.01a</td><td>0.53b</td></tr><tr><td>输水water</td><td>1.94a</td><td>1.96a</td></tr><tr><td>对照CK</td><td>1.98a</td><td>2.03a</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note: The different small letters followed the data in each column represent statistical significance at 0.O5 level.(the same as below) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2输铁对叶绿素含量的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2可见，输铁后，叶绿素a、叶和绿素b含量分别较对照叶片增加 $0 . 7 1 \\mathrm { m g } \\cdot \\mathrm { g } ^ { - 1 } \\mathrm { F W }$ 和$0 . 3 7 \\mathrm { m g } \\cdot \\mathrm { g } ^ { \\cdot } \\mathrm { F W }$ ，增幅分别达到 $182 \\%$ 和 $24 \\%$ 。叶绿素总量增加 $1 . 0 8 \\mathrm { m g \\cdot g ^ { - 1 } F W }$ ，增幅达到$200 \\%$ ，输铁处理中叶绿素a、b含量相比对照均达到显著差异。而输水与对照的差异微小。可见，输铁处理的叶片中叶绿素含量有显著增加。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9cbcd1544de2c58bff2c3840f83b6d00987edf6dfb7ba9676183391316ef2624.jpg",
+        "table_caption": [
+            "Table 2 Chlorophyll content in leaves by different treatments "
+        ],
+        "table_footnote": [
+            "注：数字后的英文字母不同者表示在0.05水平上达到显著差异。"
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>叶绿素a含量 Content of Chl a</td><td>叶绿素b含量 Content of Chl b</td><td>叶绿素总含量 Total content</td></tr><tr><td>输铁 transfusion</td><td>1.10a</td><td>0.52a</td><td>1.62a</td></tr><tr><td>输水water</td><td>0.41b</td><td>0.18b</td><td>0.59b</td></tr><tr><td>对照 CK</td><td>0.39b</td><td>0.15b</td><td>0.54b</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note:The different small letters followed the data in each column represent statistical significance at O.05 level.(the same as below) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3输铁对光合参数的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，输铁处理前后的 $\\mathrm { { P n } }$ （净光合速率）增加了 $68 \\%$ ，Tr（蒸腾速率）增加了 $21 \\%$ ，Gs（气孔导度）增加了 $49 \\%$ ， $\\mathrm { C i }$ (胞间 $\\mathrm { C O } _ { 2 }$ 浓度)减少了 $100 \\%$ 。输水处理的光合参数也略有增加，但增幅与输铁处理相比可以忽略。对照没有明显的增加。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结果分析表明，叶片的光合参数的提高与叶绿素的增加呈正比。试验结果显示虹吸输铁能显著增加缺铁黄化叶片中的叶绿素含量，从而对叶片的光合基本参数产生正面影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/990b4295473d7bb389327a3c590d7780e8eee5e3e45b413a6436b5390a4a1ba3.jpg",
+        "table_caption": [
+            "表2各处理的叶绿素含量 $( \\boldsymbol { \\mathfrak { m } } \\cdot \\boldsymbol { \\mathfrak { g } } ^ { - 1 } \\mathsf { F W } )$ ",
+            "表3输液对光合参数的影响",
+            "Table 3 Effects of the transfusion on the phtotsynthetic parameters of apple leaves "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td colspan=\"2\">净光合速率Pn [μmol/(m²·s)]</td><td colspan=\"2\">蒸腾速率Tr [mmol/(m²·s)]</td><td colspan=\"2\">气孔导度Gs [mmol/(m²·s)]</td><td colspan=\"2\">胞间CO²浓度Ci (μL/L)</td></tr><tr><td>试验前 BT</td><td>试验后 AT</td><td>试验前 BT</td><td>试验后 AT</td><td>试验前 BT</td><td>试验后 AT</td><td>试验前 BT</td><td>试验后 AT</td></tr><tr><td>输铁 transfusion</td><td>7.58a</td><td>12.70a</td><td>1.89a</td><td>2.28a</td><td>167a</td><td>248a</td><td>242a</td><td>176a</td></tr><tr><td>输水water</td><td>7.62a</td><td>9.87b</td><td>1.84a</td><td>2.01b</td><td>168a</td><td>181b</td><td>242a</td><td>238b</td></tr><tr><td>对照ck</td><td>7.93a</td><td>8.79b</td><td>1.82a</td><td>1.77c</td><td>169a</td><td>173b</td><td>244a</td><td>243b</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：数字后的英文字母不同者表示在0.05水平上达到显著差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note：The different small letters followed the data in each column represent statistical significance at O.O5 level.(the same as below) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4虹吸输铁对细胞器结构影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出，输铁处理的单个细胞叶绿体个数比输水处理多 $83 \\%$ ，比对照多$92 \\%$ ；输铁处理的叶绿体长径平均比输水处理多 $1 6 \\%$ ，比对照多 $22 \\%$ ；而输铁处理的单个细胞淀粉粒个数平均比输水处理少 $50 \\%$ ，比对照少 $43 \\%$ ；输铁处理的单个细胞嗜钳颗粒个数平均比输水处理少 $41 \\%$ ，比对照少 $39 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "电镜观察显示，输铁后复绿苹果叶片中的叶绿体轮廓清晰 (如图1示)，内部基粒片层数量多，排列规律整齐，片层结构清晰，有少量的噬俄颗粒。输水处理和对照的叶绿体形状呈不规则，边缘形状模糊，基质浑浊，片层结构已经瓦解，嗜俄颗粒、淀粉粒数均增多。对照与输水处理的叶绿体结构相似。受到缺铁胁迫的叶肉细胞中叶绿体出现萎缩（如图2示），颜色变深变浑浊，线粒体出现破裂分解，而输铁复绿的叶肉细胞中的叶绿体以单层排列在细胞膜的内侧，叶绿体、线粒体均形态饱满，且轮廓清晰，结构完整。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图3所示，观察到线粒体为椭圆形。输铁处理的线粒体轮廓清晰，嵴清晰度高，数量较多，被膜结构完整。输水处理和对照的线粒体膜结构已出现分解，外膜已浑浊不清。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d9427bf08af03decd8f297a30b4ce6c5ab4b64527b559b5eadbcb8dc48b7f03.jpg",
+        "table_caption": [
+            "表4输液后叶绿体超微结构",
+            "Table 4 Ultrastructure of chloroplast after transfusion "
+        ],
+        "table_footnote": [
+            "注：数字后的英文字母不同者表示在0.05水平上达到显著差异。"
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>叶绿体数（个/单叶绿体长径 个细胞) chloroplast</td><td>(μm) Major diameter</td><td>淀粉粒（个/单 个细胞) Amyloplast</td><td>嗜颗粒 （个/单个细 胞） osmiophilic</td></tr><tr><td>输铁</td><td>7.5a</td><td>5.0a</td><td>0.8a</td><td>globule 5.4a</td></tr><tr><td>transfusion 输水water</td><td>4.1b</td><td>4.3b</td><td>1.6b</td><td>9.2b</td></tr><tr><td>对照ck</td><td>3.9b</td><td>4.1b</td><td>1.4b</td><td>8.8b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note: The different small letters followed the data in each column represent statistical significance at O.O5 level.(the same as below) ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7021c6268cb40db295321df417cdb46877c583459cccd8442a39b677d23c943.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：A-输铁后叶片叶绿体（80k倍）；B-输水后叶片叶绿体（80K倍）；C-对照的叶片叶绿体（80k倍）； $\\mathbf { G }$ -基粒；P-嗜俄颗粒；S-淀粉粒  \nNote:A-Fe fetilizer ( $\\times 8 0 0 0 0$ ）；B-water（ $\\times 8 0 0 0 0 \\mathrm { \\cdot }$ ）；C-Control（ $\\times 8 0 0 0 0$ ）；G-Grana；P--Lipid ball； S-Starch grain",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8656e9a89f464bb7e2074ac44c074bba748bc8fe357830bd91e27c54829f2be1.jpg",
+        "img_caption": [
+            "图1叶绿体超微结构比较Fig.1Ultrastructure of chloroplast",
+            "图2细胞中叶绿体分布Fig.2 Chloropast distribution"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：A-输铁后叶肉细胞（12K倍）；B-黄化叶肉细胞（8K倍）；M—线粒体；Ch—叶绿体； P—嗜钱颗粒；S-淀粉粒 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note：A-Fe fertilizer siphon transfusion ( $( \\times 1 2 0 0 0 )$ ；B- Yellow leaf cell ( $\\times 6 0 0 0$ ）；M-Mitochondrion； Ch-Chloroplast； P-Lipid ball； S-Starch grain",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d8702a3051d540281990799158b2a968ee7365cd11555087df7a140a65a12c6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：A-输铁后叶片线粒体（60K倍）；B-输水后叶片线粒体（60k倍）；C-对照的叶片线粒体（60k倍）；M—线粒体；Ch—叶绿体Note：A-Fe fetilizer（ $\\times 6 0 0 0 0 ^ { \\cdot }$ ）；B-water（ $\\times 6 0 0 0 0 ^ { \\cdot }$ ）；C-Control（ $\\times 6 0 0 0 0$ ）；M-Mitochondrion； Ch-Chloroplast",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图3线粒体比较 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Ultranstructure of mitochondria ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.结论与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "叶绿素含量是影响植物光合能力的重要因素（刘泽军，2014），叶绿素含量减少直接导致光合能力的下降（陆志峰，2016），而铁与叶绿素之间存在着密切关系，叶绿素合成必须要铁的参与，其表现为铁的含量直接影响合成叶绿素前体—一亚铁原卟啉所需酶的活性，缺铁则限制了叶绿素的合成（吴平等，2001）。叶绿素的降低也进一步表示了光合系统被破坏，通过所测光合参数指标的降低来体现。本研究发现，经过虹吸输铁后，黄化苹果叶片中叶绿素a、b含量均有显著增加，由此可知输铁肥可以补充亚铁原卟啉的合成所需的铁，从而促进叶绿体的合成。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "叶绿体和线粒体是为植物的生长发育提供能量的重要细胞器（吴妤，2013）。叶绿体被膜含有ATP酶、腺苷酸激酶，为光合作用提供条件；类囊体膜亦称光合膜，是光能向化学能转化的场所。线粒体是合成ATP并将能量供给细胞的工厂。有人在水稻（LiY，2012）和拟南芥（WeiseSE，2015）研究中发现，叶绿体畸形或数目减少会抑制光合速率。而在缺铁条件下，肖家欣等（2010）研究发现，积壳砧木叶片细胞叶绿体及线粒体均出现明显的解体，类囊体片层模糊。刘磊超等（2015）发现在缺硼胁迫下，植物细胞会发生解构，胞内细胞器萎缩消失。本研究发现，在缺铁胁迫下，有细胞发生形变和细胞器分解；叶绿体、线粒体的膜结构被破坏，轮廓模糊；基粒片层结构解体，基质混浊，这些现象与刘超磊、肖家欣的发现一致。淀粉粒是叶绿体为生理活动贮藏的能量，嗜俄颗粒是类囊体降解产物脂质聚集的结果，它们的堆集说明了叶绿体的代谢收到抑制（姚宇洁，2017）。本研究发现，缺铁时，叶绿体内嗜俄颗粒及淀粉粒增多，这与姚宇洁（2017）和邱强等（2017）在缺铁柑橘、大豆上观察到的现象相同。虹吸输铁使叶肉细胞内叶绿体恢复饱满，同时修复了叶绿体、线粒体的被膜结构，提高了光反应以及光合产物的运输效率，使代谢循环正常，从而淀粉粒和嗜俄颗粒数量显著减少，由此反应了植物对光能吸收、转化能力的恢复。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明，在虹吸输铁后，苹果树体复绿明显，叶绿素合成能力恢复，叶绿体、线粒体被膜结构均得到修复，说明采用虹吸的方法将铁肥直接输入树体是矫正苹果缺铁黄化病有效途径。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CHANG Y S, 2014.Genetic analysis and QTL mapping of apple fruit shape traits [D]. Beijing: China Agricultural University:5一19．［常源升．2014．苹果果型性状遗传分析与QTL定位 [D]．北京:中国农业大学:5－19．］   \nLIANOPOULOU V, Bosabalidis A M, Patakas A，et al. 2014.Effects of chilingstress on leaf morphology, anatomy, ultrastructure,gas exchange,andessential oils inthe seasonally dimorphic plant Teucrium polium(Lamiaceae)[J]. Acta Physiol Plant, 36(8): 2271-2281.   \nLI Y, REN B, YANG X,et al. 2012. Chloroplast downsizing under nitratenutrition restrained mesophyl conductance and photosynthesis in rice( Oryza sativa L.) under drought conditions[J] .Plant and CellPhysiol, 53(5): 892-900.   \nLIU L C, JIANG C C, DONG X C, et al. Efects of boron deficiency oncellular structures of maturation zone from root tips and functionallaves from middle and upper plant in trifoliate orange rootstock[J]. Scientia Agricultura Sinica,2015,48(24):4957-4964.[刘磊超，姜存仓，董肖昌，等．硼胁迫对枳橙砧木细根根尖成熟区和幼 嫩叶片细胞结构的影响[J]．中国农业科学，2015，48(24):4957-4964．]   \nLIU Z J, WU Y X, XIANG Y S et al. 2014. Effects of Physiological Iron Deficiency on Leaf Anatomical Structure of Kuerle Fragrant Pear[J] Journal of Xinjiang Agricultural University,37(3);203-208.[刘泽军，吴玉霞，向 永枢，等．2014．生理性缺铁对库尔勒香梨叶片解剖结构的影响[J]．新疆农业大学学报，37(3);203-   \n208.]   \nLI Z D,HAN R H,LIAO G L. 2011. A comparative study on the different extraction techniques about the chlorophyllconcentration of plant leaf [J].Guangdong Univ. Educ,31(3) : 80一83.[李志 丹，韩瑞红，廖桂兰．2011．植物叶片中叶绿素提取方法的比较研究［J］．广东第二师 范学院学报，31(3):80－83．]   \nLU ZF,REN T,LU JW,et al. Main factors and mechanism leading tothe decrease of photosynthetic effciencyof oilseed rape exposure topotassum deficiency[J]. Journal of Plant Nutrition and Fertilizer,2016,22(1) :12-131. [陆志峰，任涛，鲁剑巍，等．缺钾油菜叶片光合速率下降的主导因子及其机理[J]．植物营养与肥料学 报，2016，22(1): 122-131．]   \nQIU Q,RAO D M, ZHAO J, et al. 2O17. Comparative study of leaf and root ultrastructure of different iron effciency soybean varieties [J].Soybean Science,36(6): 927-931.[邱强，饶德 民，赵婧，等．2017．不同铁效率大豆品种叶片和根系超微结构的比较研究[J]．大豆科 学，36(06):927-931．]   \nSHENA C，YUEB R，SUNA T，et al. 2015.OsARF16，a transcription factor regulating auxin redistribution is required for iron deficiency response in rice [J] .Plant Sci, 231:148一158.   \nSUL,SONG JX,HUTL,et al.2016.The correction effect of different application methods of iron fertilizeron iron deficiency chlorosis of apple [J]. Jiangsu Agric Sci, $4 4 ( \\ 1 ) ! 1 8 8 - 1 8 9$ ．［苏律，宋俊霞，胡同乐等， 2016．铁肥不同施用方式对苹果缺铁黄化病的矫正效果[J]．江苏农业科学，44(1):188－189．]   \nWU P, YIN L P, ZHANG L P,et al. 2OO1. Molecular physiology of plant nutrition [M]. Beijing: Science Press:73-74.[吴平，印莉萍，张立平，等．2001．植物营养分子生理学［M］．北 京：科学出版社:73-74.]   \nWEISE S E, CARR DJ, BOURKE A M,et al.2O15.The arc, mutants of Arabidopsis, with fewer large chloroplasts have a lower mesophyllconductance[J]. Photosynth Res,124(1): 117-126.   \nWUY,YU WY,LIYS.20l3.Effects of ion deficiencystress on photosynthetic characteristicsandorganele iron content of strawberry seedlings [J].Journal of Plant Nutrition and Fertilizer,19(4): 918-925.[吴好 禹文雅，李奕松．2013．缺铁胁迫对草莓幼苗光合特性及细胞器铁含量的影响[J]．植物营养与肥料 学报，19(4):918-925．]   \nXIAO JX， Ql X X, ZHANG S L. 2010. Effects of zinc and iron deficiency onphysiological indices, mineral contents and leaf ultrastructure ofponcirus trifoliate[J]. Chinese Journal of Applied Ecology,21(8):1974-1980.[肖家欣，齐笑笑，张绍铃．2010．锌和铁缺乏对枳生理指标、矿 物质含量及叶片超微结构的影响[J]．应用生态学报，21(8):1974-1980．]   \nXUE JJ, LU M Q.Infusion sets with fruit trees and forest trees siphon. Utility model patents [P]. Chinese Patent:200920140525.X,2009－12－09.[薛进军，吕鸣群．果树和林木虹吸输液套 具．实用新型专利［P]．中国专利:200920140525．X，2009－12－09．]   \nYAO YJ, JIANG C C.2017.Photosynthetic characteristics and chloroplast ultrastructure of citrus rootstocksunder iron deficiency stress[J]. Journal of Plant Nutrition and Fertilizer, 23(5):1345- 1351.[姚宇洁，姜存仓．2017．缺铁胁迫柑橘砧木幼苗的光合特性和叶绿体超微结构[J]. 植物营养与肥料学报，23(5):1345-1351．]   \nZHOU H J, TONG YA.1988. Research advances of iron-deficiency chlorosis of applel. Effects on morphological and physiological and biochemical in iron stress [J] .Sci. Agric. Sin, $2 1 ( 4 ) : 4 6 -$ 49.[周厚基，仝月澳．1988．苹果树缺铁失绿研究进展ⅡI．铁逆境对树形态及生理生化的 影响[J]．中国农业科学，21(4):46－49．] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

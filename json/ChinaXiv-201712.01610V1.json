@@ -1,0 +1,587 @@
+[
+    {
+        "type": "text",
+        "text": "新媒体环境下社会公益网络舆情传播研究以新浪微博“画出生命线\"话题为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王晰巍」²　张　柳」李师萌」王楠阿雪11(吉林大学管理学院长春 130022)2(吉林大学大数据管理研究中心长春 130022)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】对新媒体环境下社会公益舆情网络结构特征和信息传播展开研究，对相关部门加强社会公益网络舆情监管，为充分利用新媒体平台开展社会公益服务提供帮助。【方法】基于社会网络分析法，以新浪微博\"画出生命线\"话题数据为样本，从中心性、聚类和K-核三个社会网络指标出发，对新媒体环境下社会公益舆情网络结构特征和信息传播展开研究。【结果】实证研究结果表明，新媒体环境下的社会公益舆情网络为无标度网络，各子社区具有相似的网络结构，核心网络虽相对紧密但分布广泛，社会公益网络舆情已经进入移动时代。【局限】数据来源不够广泛、未剔除沉睡用户数据可能导致的研究偏差。【结论】在理论层面为社会公益网络舆情提供新的研究视角，在实践层面对相关部门加强舆情监控具有指导作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：新媒体 社会公益网络舆情 信息传播社会网络分类号：G350",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着移动互联网技术的深入应用和新媒体的快速发展，以微博、微信、APP为代表的新媒体平台成为网络舆情传播的主阵地。网民纷纷通过新媒体平台参与公益活动、表达对社会公益的态度和看法，网民对社会公益的关注度、参与度进一步提升，但同时也带来一系列新的问题，伪慈善、骗捐等舆情事件屡屡曝光。网民开始关注处于灰色和监管真空地带的网络互助背后的潜在风险，舆情监管部门和社会公益组织也愈发重视新媒体环境下社会公益网络舆情的管控。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近几年，国内外学者展开了新媒体环境下网络舆情的相关研究。Rosenkrantz等通过Twitter的民意调查探讨公众舆论对国家专业学会年会内容的影响，发现公众舆论可以丰富和促进讨论的关键会议内容[1];Ortigosa 等采用情绪分析文本方法对信息用户在",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Facebook的信息传播进行研究[2]；Gonzalezbailon 等运用自动化内容分析工具，正确识别不同词汇的情感基调，评估在不同的社交媒体环境中公众舆论的作用和影响[3]。杜阿宁从网络舆情信息挖掘技术层面进行研究，着重探讨网络舆情信息挖掘的技术体系结构和方法[4]；魏超研究发现网络舆情传播模式随着新媒体技术的发展产生了深刻变革，个体成为网络舆情形成和扩散中心[5]；廖海涵等结合 5W 传播模式和议程设置理论对信息传播因素提出假设，研究发现微博发布者属性与传播效果存在正相关关系[；陈璟浩等以突发社会安全事件为例，对各类社会安全事件网络舆情的生命周期展开研究[7；何跃等以新浪微博为数据源,综合运用标签传播算法、随机扩散模型、内容分析法等理论，提出突发事件舆情网络社群发现和舆情传播特征分析的研究思路[8]。然而，基于社会网络分析法,对新媒体环境下社会公益网络舆情展开研究的成果相",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对较少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对新媒体环境下的舆情传播特点，并结合国内外学者研究成果，本文聚焦于以下三个研究问题：新媒体环境下社会公益舆情网络结构是怎样的？新媒体环境下社会公益舆情网络社群的聚类特征是什么？新媒体环境下社会公益网络的凝聚子群和核心用户的舆情传播呈现什么规律？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2相关理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1新媒体环境下的网络舆情",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "舆情是公众对社会生活中方方面面的问题所持有的立场以及所反应出的情绪的总和，它是社会脉动与公众情绪的自然而然的体现和流露[9]。网络舆情则是以网络为载体，以事件为核心，是广大网民情感、态度、意见、观点的表达，传播与互动以及后续影响力的集合[1]。相较报纸、杂志、广播、电视、电影等传统大众媒体舆情，网络舆情带有广大网民的主观性,未经媒体验证和包装，直接通过多种形式发布于互联网上，其诱发舆情的能力明显不同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与传统媒体相比，新媒体具有网络化、传播属性多元化、公众参与途径多元化等特点，其“聚焦效益”在第一时间迅速集结产生[]。Gonzalez 指出新媒体,特别是社交媒体，已经显著改变了传统的舆情传播过程，成为舆情导向的\"晴雨表”[12]。新媒体环境下，网络舆情的传播范围更广，特点也更为鲜明，呈现出形式多样、受众关注周期缩短等特点[13]。可见，新媒体的出现对传统媒体的线性传播模式产生了颠覆性挑战，新媒体依托其所具备的信息扩散优势、传播速度优势、即时互动优势，已成为当前舆情传播的主流媒介。新媒体环境下，网络舆情传播媒介以论坛、博客、微博和微信为主，采用节点式和去中心化的传播方式，打通了传播双方的界限，使传播与反馈置于同一时空。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 社会网络分析法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "社会网络分析法，是针对社会网络成员间的关系进行的量化研究，也是社会网络理论的工具之一[14]该方法能有效刻画社会网络结构并进而揭示网络属性特征，常用的社会网络指标有点度中心性、中间中心性、接近中心性、聚类系数和K-核等[15]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "点度中心性是判定网络中节点重要性的指标，是节点重要性的量化[16，一个节点的节点度越大，表示节点的点度中心性越高，该节点在网络中越重要[17]。中间中心性是一个节点处于许多其他节点对的捷径(最短的途径)上[18]。接近中心性是反映在网络中某一节点与其他节点之间的接近程度[19]，接近中心性越小,则该点处于网络核心地位的特性就越明显，该节点不受其他节点控制的能力也越强。聚类是将数据对象分组成多个类或簇，使得同一类中的对象间具有较高的相似度，而不同类中的对象差别较大[20]。针对不同簇内核心元素的分析，可挖掘出簇内元素的某些共性。网络的K-核是指网络中节点度值大于或等于 $K$ 的节点所组成的网络，K-核分解是指把网络中节点度值小于 $K$ 的节点去除[21]。若某子群中的所有节点至少与该子群的 $K$ 个其他节点连接，这样的子群即称为K-核心网络。 $K$ 取值越小，该子群越松散; $K$ 取值越大，该子群越紧密。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3新媒体环境下社会公益网络舆情信息传播问题的提出",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新媒体环境下的社会公益舆情信息传播，作为草根发起、新媒体平台组织，线上线下互动的新型公益形式，在新媒体所搭建的公益平台上发起的各类慈善活动具有多主体互动、新旧媒体互动、内部多层次互动的显著特点[22]。同时，新媒体所搭建的舆情传播平台，充分利用新媒体的传播特点实现自上而下的大众性、草根性、即时性、互动性和迅速传播性[23]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新媒体平台上的社会公益事件，依赖的是分散网民，汇聚的是草根的\"微力量”。在感动于这些社会公益活动的同时，很多企业和公司也纷纷利用新媒体进行公益舆情传播，一方面为公民参与公益活动提供新媒体渠道，另一方面通过新媒体所产生的舆论导向和网民网络凝聚力，将公益事业推进到新的传播阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，了解和掌握新媒体环境下社会公益网络舆情的信息传播特征和规律，对相关部门加强社会公益网络舆情监管，充分利用新媒体平台开展社会公益服务具有重要意义。而采用社会网络分析法，从点度中心性、中间中心性、接近中心性指标出发，可直观刻画新媒体环境下的社会公益舆情网络结构；应用聚类分析法将研究对象划分为多个类或簇，可展开新媒体环境下社会公益舆情网络社群发现研究，也可进一步挖掘出不同社群内用户的特征；网络K-核分析则抽取出舆情网络中的核心节点，针对凝聚子群展开进一步分析，可探求核心节点间的相互作用。因此，本文采用社会网络分析法，针对拟研究的问题展开研究具有一定的理论价值和实践意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3分析过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 数据源选择",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "微博是专供人们创作并传播内容的新媒体平台，集灵活性、开放性、自由性、互动性于一身，成为社会公益活动中重要网络与舆情传播平台[。因此本文以新浪微博作为数据源进行样本数据的采集。同时，选择时下公众关注的新浪微博热点板块“微博公益\"中的\"画出生命线\"热点话题作为信息源。“画出生命线”是由“苏芒\"联合直播平台发起的公益活动。明星用绘画方式画出救护车，借助网络媒介向网友展示并募集善款。本文以“画出生命线\"为检索词，在微指数平台进行检索，结果表明新浪微博\"画出生命线\"话题数据量较大，总计317550条微博信息。发起人“苏芒\"的微博\"发起公益直播#画出生命线#\"转发数近10000次，说明此话题在新媒体环境下的社会公益话题中具有极强的代表性。因此，本文选择“苏芒\"的\"发出公益直播#画出生命线#\"微博作为原始信息源采集全部数据，并进一步抽取移动端数据进行新媒体环境下社会公益话题的网络舆情信息传播研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 数据采集及处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新媒体环境下新浪微博\"画出生命线\"话题全网(含移动端和非移动端)数据采集过程分三个步骤。(1）查询\"画出生命线\"微博，遍历所有评论及转发信息，识别相应微博用户ID;(2）若某条微博的评论或转发数大于0，则该条微博链路等级增加1，信息源节点\"fromUid\"字段设置为该微博的\"Uid\";(3）对每条转发、评论微博重复步骤(1)、(2)，如果转发或评论数为0则停止本次递归遍历，该节点成为下一个链路的“子节点”，递归完成后获取所有转发评论的地址，最后获取有关字段信息内容并保存到MySQL数据库。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自2016年10月18日9:00至2016年10月27日16:24，总共获得9778条全网的转发和评论信息,信息字段包括所有转发及评论者的用户名(nick)、用户",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ID(uid)、转发及关注时间、转发及评论内容、工具端等基本信息属性。在数据处理和分析阶段，使用MySQL、Excel软件进行数据预处理，例如将转发及关注时间字段规范为形如\"2016-10-18\"的日期格式、基于工具端字段将包含\"来自苹果手机、来自iphone\"等内容的数据标记为移动端(其他则为非移动端)、去除重复数据及null数据等。最后基于最终数据样本使用Gephi软件绘制舆情传播云图，配合数理统计分析工具计算相应指标，进行社会网络分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 数据结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文以\"#画出生命线#\"为信息源，以评论、转发关系为边，以参与舆情传播的用户为节点，用Gephi绘制新媒体环境下“画出生命线\"的新浪微博的舆情传播云图，如图1和图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/08ddd6df54d6f4258481e6783e00f2eab04635e057bb7fc69ff7e42ee69a3eb6.jpg",
+        "img_caption": [
+            "图1移动端舆情传播云图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3333704b7e58a2606965d38c26062c0cc57c82bc41c9eba986080658af4ec1f9.jpg",
+        "img_caption": [
+            "图2非移动端舆情传播云图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "移动端微博用户数量最多，分布广，用户之间联系较紧密，其中以博主“苏芒\"的转发量最多，传播半径最大，覆盖面最广，与其直接相连的用户最多，影响力最大。除此之外，还有多个节点连接了一定数目的子节点，具备一定影响力。同时还发现，在网络舆情传播过程中，移动端与非移动端的微博用户间呈现出了频繁的交互态势，促进了舆情信息的传播，在网络中形成了场力，产生了不同的效用。本文同时对舆情网络整体属性进行测算，数据结果显示，移动端网络直径为7，平均路径长度为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.516；非移动端网络直径为4，平均路径长度为1.112。这一结果表明，移动端与非移动端相比，移动环境下的社会公益网络舆情传播更为便利、速度更快、效率更高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4讨论分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 网络结构分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）点度中心性",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“画出生命线\"舆情网络节点点度中心度数据如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/96cc290d87898f7ca41211d3ff06eb863ba38eef81ccfc800fac017fa032c821.jpg",
+        "table_caption": [
+            "表1“画出生命线\"舆情网络节点点度中心度TOP10"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td colspan=\"4\">移动端</td><td colspan=\"4\">非移动端</td></tr><tr><td>ID</td><td>出度</td><td>人度</td><td>度</td><td>ID</td><td>出度</td><td>人度</td><td>度</td></tr><tr><td>1</td><td>苏芒</td><td>708</td><td>0</td><td>708</td><td>苏芒</td><td>101</td><td>0</td><td>101</td></tr><tr><td>2</td><td>污里抖正经人</td><td>302</td><td>1</td><td>303</td><td>Johnny 黄景瑜</td><td>47</td><td>0</td><td>47</td></tr><tr><td>3</td><td>流泪咬番茄</td><td>263</td><td>0</td><td>263</td><td>冯建宇DTX</td><td>23</td><td>0</td><td>23</td></tr><tr><td>4</td><td>冯建宇DTX</td><td>208</td><td>0</td><td>208</td><td>流泪咬番茄</td><td>22</td><td>0</td><td>22</td></tr><tr><td>5</td><td>Johnny 黄景瑜</td><td>207</td><td>0</td><td>207</td><td>污里抖正经人</td><td>20</td><td>0</td><td>20</td></tr><tr><td>6</td><td>黄子韬吧 PreciousZTaoBar</td><td>140</td><td>0</td><td>140</td><td>景瑜全球最帅网投站助理</td><td>16</td><td>0</td><td>16</td></tr><tr><td>7</td><td>景瑜全球最帅网投站助理</td><td>108</td><td>1</td><td>109</td><td>黄景瑜全国粉丝后援会官博</td><td>9</td><td>0</td><td>9</td></tr><tr><td>8</td><td>刘亦菲吧官方</td><td>61</td><td>0</td><td>61</td><td>SASAHJY</td><td>6</td><td>3</td><td>9</td></tr><tr><td>9</td><td>cj的长玉木</td><td>50</td><td>1</td><td>51</td><td>瑜若有洲_金碧辉煌</td><td>8</td><td>0</td><td>8</td></tr><tr><td>10</td><td>唐嫣粉丝团地盘</td><td>50</td><td>0</td><td>50</td><td>黄子韬吧 PreciousZTaoBar</td><td>6</td><td>0</td><td>6</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于“苏芒\"是此项公益的发起者，同转发其微博的用户存在直接关系，是舆情传播的主要信息生产者，在该网络中拥有主导权。此外，移动端中的\"污里抖正经人\"与非移动端中的\"Johnny黄景瑜\"为中心度数值的较大者，度分别为303和47，点度中心度计算分别为 $3 2 . 8 7 \\%$ 与 $2 6 . 7 2 \\%$ 。数据结果表明，“画出生命线\"社会公益网络舆情具有向移动端集中的趋势，移动端在社会公益网络舆情信息传播过程中发挥的作用更大。并且，大多用户的移动端节点点度中心度数值高于非移动端，排序前十的博主主要为娱乐导向的\"意见领袖”，说明移动端的意见领袖在网络中处于比较重要的地位，舆情监管者在信息监管中应对其进行重点关注。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）中间中心性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“画出生命线\"舆情网络节点中间中心度数据如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e50e3102430d6ee601ca55ca14b3aa1153a6de15dab4c1483ea745b64eae026.jpg",
+        "table_caption": [
+            "表2“画出生命线\"舆情网络节点中间中心度TOP10"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td colspan=\"2\">移动端</td><td colspan=\"2\">非移动端</td></tr><tr><td>ID</td><td>中间 中心度</td><td>Id</td><td>中间 中心度</td></tr><tr><td>1</td><td>潘多拉Q3Q</td><td>258</td><td>苏芒</td><td>17</td></tr><tr><td>2</td><td>污里抖正经人</td><td>256</td><td>Johnny 黄景瑜</td><td>9</td></tr><tr><td>3</td><td>我试图逆转时间</td><td>224</td><td>冯建宇DTX</td><td>8</td></tr><tr><td>4</td><td>景瑜全球最帅网投 站助理</td><td>126</td><td>流泪咬番茄</td><td>4</td></tr><tr><td>5</td><td>希望能陪青宇很久</td><td>125</td><td>污里抖正经人</td><td>3</td></tr><tr><td>6</td><td>狼君DD</td><td>106</td><td>景瑜全球最帅 网投站助理</td><td>2</td></tr><tr><td>7</td><td>黄景瑜全国粉丝后 援会官博</td><td>97</td><td>黄景瑜全国粉 丝后援会官博</td><td>2</td></tr><tr><td>8</td><td>随遇而安_ABan</td><td>82</td><td>SASAHJY</td><td>1</td></tr><tr><td>9</td><td>学好解剖的 SK</td><td>73</td><td>瑜若有洲_金碧 辉煌</td><td>1</td></tr><tr><td>10</td><td>黄子韬全球后援会</td><td>72</td><td>不止十年--YQ</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从移动端数据来看，节点\"潘多拉Q3Q\"的中间中心性最高，为258；非移动端\"Johnny黄景瑜\"中间中心性仅次于“苏芒”。这一结果表明，网络中很多节点都通过移动端的“意见领袖\"直接或间接地传播舆情信息，是社会公益舆情在新媒体环境下进行信息交互的重要节点，网络舆论导向受意见领袖左右，意见领袖对公益活动参与热度和态度倾向直接影响着公益网络舆情传播态势。同时，在新媒体环境下的社会公益网络舆情传播过程中，大量明星参与其中，明星的粉丝群也扮演着重要的信息消费者角色，粉丝用户频繁针对明星博主原创微博做出评论和转发行为，甚至从线上转移到线下切身投人公益活动，吸引了更多的线下用户参与线上舆情互动。因此，舆情监管者应积极引导，利用明星效应开展新媒体环境下的社会公益网络舆情管理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）接近中心性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“画出生命线\"舆情网络节点接近中心度数据如表3所示。可以看出，移动端接近中心度最小的是“青宇把妖精放了”，接近中心度为4.4(值越大，接近中心度越小)；非移动端的接近中心度最小的是\"光年是距离单位”，接近中心度为2.5，说明其同核心节点差异较大。分析中还发现，点度中心度较小的节点接近中心度较大，其与核心节点的差异也相对较大。这一结果表明，社会公益网络舆情的传播存在马太效应(两级分化现象)，普通的草根博主相较于意见领袖而言，所受的关注度差距悬殊，其作为节点的作用也不尽相同。由于微博用户间关系的特殊性，微博用户之间既存在着关注与被关注的单向关系，也存在着互相关注的双向关系。而单双向关系也可互相转化，这将有助于社会公益舆论的持续发酵与传播。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a207dada1faabf557ce82a251efbb2bd4f550065349ec001c5d02a525dc60595.jpg",
+        "table_caption": [
+            "表3“画出生命线\"舆情网络节点接近中心度TOP10"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td colspan=\"2\">移动端</td><td colspan=\"2\">非移动端</td></tr><tr><td>ID</td><td>接近 中心度</td><td>ID</td><td>接近 中心度</td></tr><tr><td>1</td><td>青宇把妖精放了</td><td>4.4</td><td>光年是距离单位</td><td>2.5</td></tr><tr><td>2</td><td>SwaggyTER</td><td>3.8</td><td>北堂中TWO</td><td>2.0</td></tr><tr><td>3</td><td>青宇--十年</td><td>3.8</td><td>筱晨晨Honey</td><td>2.0</td></tr><tr><td>4</td><td>宇宇宇宇宇青青</td><td>3.8</td><td>沁沁 sod 蜜_送你 们三千五百多玫瑰</td><td>2.0</td></tr><tr><td>5</td><td>璃璃梨梨</td><td>3.7</td><td>鲸鱼黄鲸鱼</td><td>1.8</td></tr><tr><td>6</td><td>姗姗的宇宇呢 DTX</td><td>3.6</td><td>Karlin_11198</td><td>1.8</td></tr><tr><td>7</td><td>萌小孩聪酱</td><td>3.1</td><td>冬冬love 鲸鱼</td><td>1.8</td></tr><tr><td>8</td><td>云翼无风</td><td>3.1</td><td>十年爱漫漫</td><td>1.8</td></tr><tr><td>9</td><td>不止十年--YQ</td><td>3.0</td><td>放逐遗失</td><td>1.8</td></tr><tr><td>10</td><td>李木木子夕LmX</td><td>2.9</td><td>青宇家的 megane</td><td>1.7</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 网络社群的聚类特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "聚类可以应用于新媒体环境下社会公益舆情网络社区发现，从而能够在各子社区网络结构分析的基础上，展开社区用户的舆情传播特征分析。因此，本文使用Gephi中的MCL聚类算法对移动端数据进行聚类，得到每个簇的节点数量和边连接数量，再针对每个簇计算其网络直径、图密度、平均聚类系数以及平均路径长度，最后对每个子社区用户的度分布进行拟合，以剖析网络结构并总结用户舆情传播特征，聚类结果如表4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b1f4067b0cbe2d30873443c7b91ab885bff49768c4f9a917af20ecdc72845008.jpg",
+        "table_caption": [
+            "表4“画出生命线\"移动端舆情传播聚类分析基本参数对照表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>聚类</td><td>节点</td><td>边</td><td>网络直径</td><td>图密度</td><td>平均聚类系数</td><td>平均路径长度</td><td>度分布</td></tr><tr><td>Cluster #1</td><td>398</td><td>437</td><td>3</td><td>0.003</td><td>0.012</td><td>1.096</td><td>y=0.077x-1.00 R² = 0.624</td></tr><tr><td>Cluster #2</td><td>1 165</td><td>530</td><td>6</td><td>0.002</td><td>0.005</td><td>1.795</td><td>y= 0.175x-1.85 R²= 0.841</td></tr><tr><td>Cluster #3</td><td>230</td><td>27</td><td>2</td><td>0.001</td><td>0.001</td><td>1.037</td><td>y = x−-2.49 R² = 1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据结果表明，移动端社会公益舆情子社区网络用户度的分布均符合幂律分布，结合聚类系数和平均路径长度数据，本文认为，移动端社会公益舆情子社区均为无标度网络，下面基于聚类数据进一步展开分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)聚类1社区聚类1社区舆情网络如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "聚类1共包含398个节点、437条边，网络直径为3，平均路径长度为1.096，图密度为0.003，平均聚类系数为0.012。相较于聚类2，聚类1节点数量居中，其社区网络较为紧密。而此社区平均路径长度较短，说明舆情传播速度较快；网络直径较长，说明舆情传播范围相对较广。经拟合后的节点度分布曲线为 $y =$ $0 . 0 7 7 x ^ { - 1 . 0 0 } ( R ^ { 2 } = 0 . 6 2 4 )$ ，度分布符合幂律曲线，聚类1",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "社区网络为无标度网络。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d08df838a1f4c1d0947cc080450bc714dec29592d0d34faa8116340a6b687f81.jpg",
+        "img_caption": [
+            "图3聚类1社区舆情网络云图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中心性指标如表5所示，节点\"苏芒”、“冯建宇DTX”、“Johnny黄景瑜\"等具有较高的度，说明其在聚类1社区舆情传播过程中，具有更多的信息生产者属性特征。同时，聚类1社区的平均出度为1.098，说明在社区1用户舆情信息生产行为相对频繁，社区中节点之间联系紧密，舆情传播速度较快。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c983016fb0bcfa1cfb1051afbf5a5e5014ff4699ba1f70d1f6719182f2485e0.jpg",
+        "table_caption": [
+            "表5聚类1社区节点度数值对照表(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>节点</td><td>入度</td><td>出度</td><td>度</td></tr><tr><td>苏芒</td><td>0</td><td>210</td><td>210</td></tr><tr><td>冯建宇DTX</td><td>0</td><td>61</td><td>61</td></tr><tr><td>Johnny 黄景瑜</td><td>0</td><td>27</td><td>27</td></tr><tr><td>流泪咬番茄</td><td>0</td><td>24</td><td>24</td></tr><tr><td>黄景瑜工作室</td><td>0</td><td>21</td><td>21</td></tr><tr><td>黄子韬吧 PreciousZTaoBar</td><td>0</td><td>14</td><td>14</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)聚类2社区聚类2社区舆情网络如图4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f8df4c33354ae00e6c39d4fe33e8700d3cc7e290b378fb36a80e7747b4188aa.jpg",
+        "img_caption": [
+            "图4聚类2社区舆情网络云图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "聚类2共包含1165个节点、530条边，网络直径为6，平均路径长度为1.795，图密度为0.002，平均聚类系数为0.005。可见，聚类2中节点规模较大，但这些节点所构成的网络却略为稀疏。节点度分布拟合曲线为 $y = 0 . 1 7 5 x ^ { - 1 . 8 5 } ( R ^ { 2 } = 0 . 8 4 1 )$ ，聚类2社区也是无标度网络，相应节点度值如表6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/dbf66207ea2eeb416d0d6cad5c10c7aca1f2c73af4b776bd0481795a321af876.jpg",
+        "table_caption": [
+            "表6聚类2社区节点度数值对照表(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>节点</td><td>人度</td><td>出度</td><td>度</td></tr><tr><td>刘亦菲吧官方</td><td>1</td><td>36</td><td>37</td></tr><tr><td>黄子韬全球后援会</td><td>2</td><td>16</td><td>18</td></tr><tr><td>学好解剖的SK</td><td>2</td><td>14</td><td>14</td></tr><tr><td>鲸鸿_黄景瑜粉丝后援团</td><td>2</td><td>13</td><td>15</td></tr><tr><td>潘多拉Q3Q</td><td>2</td><td>8</td><td>10</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中，“刘亦菲吧官方”、“黄子韬全球后援会”“学号解剖的 SK\"等节点度值较高，同聚类1社区节点类似，这些节点也具有更多的信息生产者属性。从节点入度来看，这些节点的入度虽然较低，但相较聚类1社区节点交互频繁，说明聚类2社区用户也具有信息消费者属性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）聚类3社区聚类3社区舆情网络如图5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/eea338a6653896d51f04ece39426e546767b402d229a64d641a81d763629db45.jpg",
+        "img_caption": [
+            "图5聚类3社区舆情网络云图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "聚类3共包含230个节点、27条边，网络直径为2，平均路径长度为1.037，图密度为0.001，平均聚类系数为0.001。聚类3节点数目和边连接最少，图密度也最低，说明聚类3社区网络极为稀疏。虽然网络平均路径长度较短，舆情传播速度较快，但网络直径较短，舆情传播范围有限。将节点度分部数据绘制散点图并进行趋势线拟合，求解出拟合公式 $y = x ^ { - 2 . 4 9 } ( R ^ { 2 } = 1 )$ ，说明聚类3社区也是无标度网络。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "聚类3社区部分代表性节点度值如表7所示，该社区没有明显的核心节点，节点的度都在0-2之间。经查看此社区用户属性资料，发现这些节点大多为微博普通用户，这些用户极少做出舆情信息生产或消费行为。再结合用户创建时间、舆情传播阶段来看，这些节点大多在舆情衰退期参与舆情传播。虽然这部分用户在舆情传播过程中的作用有限，但也是社会公益舆情传播的潜在力量。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc1de8be58be18a46f8399863acec742f8b75778a6990242e5f5dde11f5cd84e.jpg",
+        "table_caption": [
+            "表7聚类3社区节点度数值对照表(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>节点</td><td>人度</td><td>出度</td><td>度</td></tr><tr><td>黄子韬C-POP-特能苏</td><td>2</td><td>0</td><td>2</td></tr><tr><td>青宇正教是王道AQY</td><td>1</td><td>0</td><td>1</td></tr><tr><td>青宇家茉茉MoMo_闭关考研</td><td>1</td><td>1</td><td>2</td></tr><tr><td>三年3班3号C-POP</td><td>1</td><td>0</td><td>1</td></tr><tr><td>思念青宇</td><td>0</td><td>2</td><td>2</td></tr><tr><td>慕爷</td><td>2</td><td>0</td><td>2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3 凝聚子群分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为进一步在整体网络结构和子社区网络结构分析基础上，发现新媒体环境下社会公益舆情的凝聚子群和核心用户，本文使用Gephi 滤波工具中的\"拓扑K-核算法\"进行进一步的数据处理和可视化，数据结果如表8所示。K3-核、K4-核网络见图6和图7。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/abd1f728a304d23314be90cc43d87079a3253cc039a1519ddf1bcd547f989d0c.jpg",
+        "table_caption": [
+            "表8“画出生命线\"微博话题移动端K-核基本参数对照表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>K</td><td>节点数</td><td>边数</td><td>平均度</td><td>图密度</td><td>连通块数</td></tr><tr><td>3</td><td>203</td><td>612</td><td>3.015</td><td>0.015</td><td>3</td></tr><tr><td>4</td><td>67</td><td>231</td><td>3.448</td><td>0.052</td><td>1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/32b18f7fb17f5d948ddb3d0de6da0ff80849313f988d8260dc9054fbcdc6938c.jpg",
+        "img_caption": [
+            "图6 K3-核网络图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/961f8eb9b9eb47db718a7d639158f88df7ff87aaa9ab4817b26cd77e34a36261.jpg",
+        "img_caption": [
+            "图7 K4-核网络图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "数据表明，随着 $K$ 值的增大，节点数和边数递减，舆情网络规模越来越小。最大凝聚子群图密度值为0.052，说明即便是凝聚子群，其依旧是稀疏网络。通过Gephi求得K-核的最大值为4。从K3-核、K4-核网络可以看出，“苏芒”“污里抖正经人”、“流泪咬番茄”“冯建宇DTX\"等用户是凝聚子群核心节点，对照前文的分析，这些节点是新媒体环境下社会公益网络舆情的意见领袖，他们在网络中较为活跃、处于重要位置，对舆情的传播起到了重要的作用。同时，本文发现K-核网络的核心节点人度均较低，这类核心节点同其他用户的舆情交互较少，说明意见领袖更多的是信息生产者，他们主要针对社会公益事件发布原创微博表达态度、观点和看法。从舆情管理的角度，此类用户是监控和引导的重点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文基于网络舆情信息传播理论，运用社会网络分析方法，从网络结构、聚类和K-核多个指标入手展开分析，从而为新媒体环境下公益舆情的信息传播提供新的研究视角和理论支持。以新浪微博“画出生命线\"话题为例，采用网络爬虫技术获取样本，得出新媒体环境下公益舆情网络为无标度网络、社会公益舆情用户扮演着信息生产者和信息消费者多重角色，并运用聚类分析法发现各公益网络舆情的子社区网络结构较为相似，同一子社区用户属性接近。基于K-核算法发现K-核子网虽然相对紧密但仍是稀疏网络，凝聚子群的核心用户是整个舆情网络的意见领袖。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文的研究可为新媒体环境下舆情管控主体针对社会公益舆情网络结构、子社区特征、核心用户舆情传播规律，采取有效措施开展舆情管理工作，最终提升对社会公益舆情的监管及公益舆论导向的正确引导。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究中也存在一定的局限性，主要表现在数据来源不够广泛、未剔除不活跃用户数据可能导致的研究偏差。在后续研究中，将选取持续时间更长的话题及更多的数据源，对新媒体下社会公益网络舆情信息传播展开更为深人的研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Rosenkrantz A B,Hawkins C M.Use of Twitter Polls to Determine Public Opinion Regarding Content Presented at a Major National Specialty Society Meeting[J]. Journal of the American College of Radiology,2016,14(2): 177-182.   \n[2]Ortigosa A,Martin JM,Carro R M. Sentiment Analysis in Facebook and Its Application to E-learning[J].Computers in Human Behavior,2014,31(1): 527-541.   \n[3]Gonzalezbailon S,Paltoglou G. Signals of Public Opinion in Online Communication: A Comparison of Methods and Data Sources[J]. The Annals of the American Academy of Political and Social Science,2015,659(1): 95-107.   \n[4]杜阿宁．互联网舆情信息挖掘方法研究[D]．哈尔滨：哈尔 滨工业大学,2007.(Du A'ning.Public Opinion Mining on the Internet[D].Harbin: Harbin Institute of Technology,2007.)   \n[5]魏超．新媒体技术发展对网络舆情信息工作的影响研究 [J]．图书情报工作,2014,58(1):30-34.(Wei Chao.Study on the Impact of New Media Technology Development on Internet Public Opinion Information Work[J].Library and Information Service,2014,58(1): 30-34.)   \n[6]廖海涵，王曰芬．社交媒体舆情信息传播效果影响因素研 究——以新浪微博\"8.12 天津爆炸\"事件为例[J]．现代图书 情报技术，2016(12):85-93.(Liao Haihan，Wang Yuefen. Public Opinion Dissenmination over Social Media: Case Study of Sina Weibo and $^ { 6  } 8 . 1 2$ Tianjin Explosion\"[J].New Technology of Library and Information Service,2016(12): 85-93.)   \n[7]陈璟浩，李纲．突发社会安全事件网络舆情演化的生存分 析——基于 70 起重大社会安全事件的分析[J].情报杂志, 2016,35(4):70-74.(Chen Jinghao,Li Gang.A Survival Analysis of Network Public Opinion Evolution in Social Security Emergency—Based on 70 Major Social Security Emergencies Analysis[J]. Journal of Inteligence,2016, 35(4): 70-74.)   \n[8]何跃，邓姝颖，马玉凤，等.突发事件中微博用户社群舆情 传播特征研究[J].情报科学,2016,34(6):14-18.(He Yue, Deng Shuying,Ma Yufeng,et al. Analysis on Microblog Users’Community Discovery and Communication Features in Public Emergency[J]. Information Science,2016,34(6): 14-18.)   \n[9]曾润喜．网络舆情信息资源共享研究[J]．情报杂志，2009, 28(8):187-191.(Zeng Runxi.Research on Information Resource Sharing of Network Opinion[J]. Journal of Intelligence,2009,28(8): 187-191.)   \n[10]李兰．新形势下公共危机事件网络舆情应对分析[D]．武 汉：华中科技大学,2015.(Li Lan.The Analysis of Public Opinion Management on Public Crisis Events of New Condition[D]. Wuhan: Huazhong University of Science & Technology, 2015.)   \n[11]李培铭．传统媒体与新媒体有效融合的途径分析[J]．新媒 体研究，2016，2(10):62-63.(Li Peiming.The Effective Ensemble Method of the Traditional Media and the New Media[J]. New Media Research,2016,2(10): 62-63.)   \n[12]Gonzalez M A.Opinion Publica Y Web 2.0.Las Redes Digitalizan El Barómetro Politico En Espana[J]. Revista Mexicana De Opini6n Publica,2016,21: 95-113.   \n[13]Heinrich T,Kobayashi Y,Bryant K A.Public Opinion and Foreign Aid Cuts in Economic Crises[J].World Development, 2016, 77: 66-79.   \n[14]裴雷，马费成．社会网络分析在情报学中的应用和发展[J]. 图书馆论坛,2006,26(6):40-45.(Pei Lei,Ma Feicheng.The ApplicationofSocialNetworkAnalysis(SNA） in Information Science[J].Library Tribune,2006,26(6): 40-45.)   \n[15]Molano S,Polo A.Social Network Analysis in a Learning Community[J].Procedia-Social and Behavioral Sciences, 2015,185: 339-345.   \n[16] Senghore F,Campos-Nanez E,Fomin P,et al.Using Social Network Analysis to Investigate the Potential of Innovation Networks: Lessons Learned from NASA's International Space Apps Challenge[J]. Procedia Computer Science, 2014, 28:380-388.   \n[17] 雷辉，聂珊珊，黄小宝，等．基于社会网络分析的网络传 播主体行为特征研究[J]．情报杂志，2015，34(1):161-168. (Lei Hui, Nie Shanshan,Huang Xiaobao,et al. The Behavior Characteristics of Network Disseminators: An Empirical Study Based on Social Network Anaysis[J].Journal of Intelligence,2015,34(1): 161-168.)   \n[18]王国华，魏程瑞，钟声扬，等．微博意见领袖的网络媒介 权力之量化解读及特征研究——基于社会网络分析的视角 [J].情报杂志，2015，34(7):117-124.(Wang Guohua，Wei Chengrui, Zhong Shengyang， etal.A Quantitative Interpretation and CharacteristicsStudy of Microblog Opinion Leader's Network Media Power—A Perspective of Social Network Analysis[J].Journal of Intelligence,2015, 34(7): 117-124.)   \n[19]滕广青，贺德方，彭洁，等．基于网络中心性的领域知识 动态演化研究[J].图书情报工作，2016，60(14)：128-134. (Teng Guangqing,He Defang,Peng Jie,et al. Research on the Dynamic Evolution of Domain Knowledge Based on the Network Centrality[J]．Library and Information Service, 2016,60(14):128-134.)   \n[20]张顺龙，库涛，周浩．针对多聚类中心大数据集的加速 K-means 聚类算法[J]．计算机应用研究，2016，33(2): 413-416.(Zhang Shunlong,Ku Tao,Zhou Hao．Accelerate K-means for Multi-center Clustering of Big Datasets[J]. Application Research of Computers,2016,33(2):413-416.)   \n[21]白林根，谌志群，王荣波，等．微博关注关系网络 K-核结 构实证分析[J].现代图书情报技术，2013(11)：68-74.(Bai Lin'gen，Chen Zhiqun，Wang Rongbo，et al．Empirical Analysis on K-core of Microblog Following Relationship Network[J].New Technology of Library and Information Service,2013(11):68-74.)   \n[22]王海迪．新媒体时代微博公益传播认同塑造的机制研究 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[J].西部学刊,2016(16):58-61.(Wang Haidi.A Survey on the Mechanism of Modeling Identification through the Weibo ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Public Welfare's Propogation in New Media Epoch[J].Journal of Western,2016(16): 58-61.)[23]陈萌．对我国微博公益平台的思考[J]．新闻世界，2012(2):52-53.(Chen Meng.The Consideration Towards WeiboPublic Platform in China[J].News World,2012(2):52-53.)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "王晰巍：提出研究命题，设计研究思路，论文撰写及最终版本修订;  \n张柳：撰写、修改论文，采集、处理数据;  \n李师萌：收集文献，校对论文;  \n王楠阿雪：数据处理，摘要翻译。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:598837913@qq.com。  \n[1]张柳.mobile_terminal.xls.移动端 gephi导入数据.  \n[2]张柳.PC_terminal.xls.非移动端gephi导入数据.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2017-04-11   \n收修改稿日期:2017-05-21 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Dissemination of Online Public Opinion on Social Welfare Issues via New Media: Case Study of \"Draw up the Lifeline” in Sina Weibo ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Wang Xiwei1.²Zhang Liu'Li Shimeng1Wang Nan'axuel 1(School of Management, Jilin University, Changchun 130022, China) 2(Research Center for Big Data Management, Jilin University, Changchun 130022, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] The paper aims to help the government administrate online public opinion and social media profiles more effctively.[Methods]First, we retrieved data on the topic of“Draw up the Lifeline”from Sina Weibo. Then,we usedcentrality,cluster and K-core indicators to analyze the network structure and dissemination patterns of public opinion with new media.[Results] We found that online public opinion is disseminated through a scale-free network,and allcommunities had similar structures.The core network was relativelyclose but widely distributed,and the mobile technology played some major roles.[Limitations] The colected data was not comprehensive and the inactive users were not removed, which might generate some biased results.[Conclusions] This paper provides some new perspectives to research on social welfare movements.It also lists some practical guides to regulate online public opinion. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: New Media Social Public WelfareNetwork Public Opinion Information Dissemination Social Network Analysis ",
+        "page_idx": 8
+    }
+]

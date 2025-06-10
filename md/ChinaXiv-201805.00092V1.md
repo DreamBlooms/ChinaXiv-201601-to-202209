@@ -1,0 +1,197 @@
+# DOI:10.5846/stxb201704130656
+
+牛钰杰,杨思维,王贵珍,刘丽,杜国祯,花立民.放牧干扰下高寒草甸物种和生活型丰富度与地上及地下生物量的关系.生态学报,2018,38（8)：2791-2801.NiuYJ,YanganGZLuDuGZHaLdelatiospseatsess，lfossbelowground biomass under grazing disturbance in analpine meadow.Acta Ecologica Sinica,2018,38(8）:2791-2801.
+
+# 放牧干扰下高寒草甸物种和生活型丰富度与地上及地下生物量的关系 C
+
+牛钰杰¹，杨思维1,²,王贵珍¹，刘 丽¹，杜国祯³，花立民1，\*
+
+1甘肃农业大学草业学院/草业生态系统教育部重点实验室/中-美草地畜牧业可持续发展研究中心，兰州730070  
+2毕节市畜牧兽医科学研究所，毕节551700  
+3兰州大学生命科学学院，兰州730030
+
+摘要;明晰放牧干扰下高寒草甸植物丰富度与生物量的相关关系,为草地植物不同生长时期生物量的预测提供依据。设置6个放牧强度样地,连续3a放牧,2014年进行3个季节(6月、8月、10月)的植物丰富度和地上、地下生物量调查,对比分析放牧干扰下物种和生活型丰富度(生活型的种类)分别与地上、地下生物量的相关关系。结果表明：(1)物种和生活型丰富度与地上生物量均受放牧强度的显著影响,物种丰富度仅在8月与放牧强度显著负相关,生活型丰富度在10月随放牧强度单峰变化,地上生物量在不同季节均与放牧强度显著负相关,而地下生物量与放牧强度无关。（2)物种丰富度与地上和地下生物量均受季节的显著影响,物种丰富度和地上生物量仅在低强度放牧区随季节呈单峰变化,地下生物量在中等强度放 牧区随季节呈单峰变化;生活型丰富度与季节无关。（3)放牧干扰前物种和生活型丰富度与地上和地下生物量均显著正相关。3a放牧后仅在8月，物种丰富度只与地上生物量显著正相关,生活型丰富度与地上和地下生物量均显著正相关。（4)对于不同放牧强度,物种丰富度仅在低强度放牧区与地上生物量显著正相关,而生活型丰富度在所有放牧强度区均与地上生物量显著正相关。综上所述，放牧干扰扰乱了高寒草甸丰富度与生物量之间的关系,尤其影响了物种丰富度与地下生物量之间的相关关系。生活型丰富度与地上生物量之间的显著关系不受放牧强度干扰，使生活型丰富度在预测生物量方面表现出优势。
+
+关键词：高寒草甸;放牧干扰;物种丰富度;生活型丰富度;生物量
+
+# Study on the relationships between plant species richness， lifeform richness， and above- and belowground biomass under grazing disturbance in an alpine meadow
+
+{IU Yujie1，YANG Siwei1,²，WANG Guizhen1，LIU li1，DU Guozhen³，HUA Limin1,\*   
+1ColegeofscalUsibsdosftucef Grazing Land Ecosystem Sustainability,Lanzhou 73oo7O,China   
+2Institute of Animal and Veterinary Science，Bijie55170o,China   
+3 School of Life Sciences，Lanzhou University，Lanzhou 73o030,China
+
+Abstract：Understanding the interrelationships between plant richness and biomass under grazing disturbance isof importancefor predicting biomassduring diferent plant growth periods.Inthisstudy，we conducted a controlled grazing trail with six grazing intensities inanalpine meadow in theeastern Qilian Mountainfrom2O12 to 2O14.We investigated speciesrichness，lifeform richness，and aboveground and belowground biomassin three grazing seasons（June，August, and October)．Weanalyzed therelationshipsbetween plant species richness，lifeform richness，andaboveground and belowground biomass under diffrent grazing intensities.Thefolowing resultswereobtained：（1）Species richnessand lifeformrichness aswellasaboveground biomass were significantlyaffectedbygrazing intensity.Speciesrichness wasonly negativelycorrelatedwith grazing intensityinAugust，whereas lifeforrichnessshowedasingle-peak trendin Octoberwith grazing intensity.Theabovegroundbiomasswassignificantly negativelycorrelated withgrazing intensityindiferentseasons; however,the belowgroundbiomass was not related to grazing intensity.（2）The species richnessand abovegroundand belowground biomass were significantlyafectedbythediferentseasons.Thespeciesrichnessandaboveground biomass showedonly asingle peak change in the low grazing intensity plot with seasonal changes，and thebelowground biomass showed a single peak change in the medium grazing plot with seasonal changes.There was no relationship between lifeform richness and grazing season.（3）There was a significant positive correlation between speciesand lifeform richness and abovegroundandbelowground biomassbefore grazing disturbance.After 3years of grazing，species ichnesswas positively correlatedonlywithaboveground biomassinAugust，andlifeform richness waspositivelycorrelatedwithabovegroundand belowground biomassin August.（4）Among the diferent grazing intensity plots，the speciesrichnesswassignificantly positivelycorelatedwithaboveground biomassonlyin thelow grazing intensityplot，whereas lifeform richnesswas positivelycorelated withabovegroundbiomassinallgrazing intensityplots.Inconclusion，grazingdisturbedtherelationsip between plant richnessand biomass in alpine meadows，particularly between species richnessand belowground biomassThe significantrelationshipbetween lifeformrichnessandabovegroundbiomasswasnotafectedbygrazing intensity. Consequently，lifeform richness showed superiority in determining the biomass in an alpine meadow.
+
+Key Words: alpine meadow ； grazing disturbance； species richness ; lifeform richness； biomass
+
+生物多样性与生态系统功能关系是当今生态学研究的热点问题[1-2]。生物量作为反映草地生态系统生产功能的直接指标[3」,是研究生物多样性与生态系统功能关系的有效途径[4]。物种多样性是生物多样性在物种水平上的表现,其对生态系统生产功能有决定性作用[5」。因而在生物多样性与生产力(生物量)关系的研究中,物种多样性被广泛应用。而植物功能类群是具有确定的植物功能性状的一系列植物组合,是生态学家为研究植被对环境变化和干扰响应而引人的生态学概念[6]。功能群多样性作为物种组合类群的多少,简化了群落物种研究的复杂性[1],被研究者所使用[-8]。但对草地生态系统而言,物种多样性与功能群多样性哪一个对生产力有较显著影响仍然争议不断[7]。一是高寒草甸物种以根茎或丛生的禾本科和莎草科植物为主,物种识别的专业化要求较高5;二是功能群研究中最核心的问题仍决定于功能群划分的植物特征选择，植物功能特征不是绝对单一的,进而导致功能群划分不一致[9-10]。三是因为草地植物地下生物量的测定工作量巨大,以往许多研究大都只利用地上生物量作为生产力的代表[11],然而草原群落地下生物量往往是地上生物量的5—10倍甚至更多[11],忽略植物群落地下生物量将对多样性和生产力关系造成极大的影响。而植物生活型作为功能群划分的最原始依据[10],，是从外部形态入手反映功能变化的指标,划分直观准确且外部形态识别简单,并对放牧干扰的响应敏感迅速[12]。选取生活型作为功能群划分的依据,可以解决物种专业化识别和功能群纯粹功能性状人为划分不一致的难题。因此,比较生活型多样性和物种多样性与草地生物量关系，对明晰多样性与生态系统生产力之间关系具有重要意义。
+
+Y 高寒草甸作为青藏高原最主要草地资源载体[13],对区域乃至全球的生态安全和畜牧生产有不可替代的作用[14]。放牧强度特征和季节动态作为高寒草甸植被一个生长周期内最主要且不可避免的放牧干扰方式[1,5]。丰富度作为真正客观反映多样性变化的指标被广泛用于植物群落组成变化的研究[8.11,16]。因此在放牧强度和季节两个因素作用下,探讨基于物种丰富度和生活型丰富度在决定高寒草甸生物量方面的作用大小就有重要的模式效应。故本研究选择典型高寒草甸,对不同季节植物丰富度和生物量变化进行动态检测，以期明晰放牧干扰下丰富度与生物量之间的理论关系并确定生活型丰富度对群落生产力的贡献能力。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于青藏高原东北缘,行政上隶属甘肃省天祝县抓喜秀龙乡，地理坐标 $3 7 ^ { \circ } 1 1 ^ { \prime } - 3 7 ^ { \circ } 1 4 ^ { \prime } \mathrm { N } , 1 0 2 ^ { \circ }$ $4 0 ^ { \prime } \mathrm { - } 1 0 2 ^ { \circ } 4 7 ^ { \prime } \mathrm { E }$ ,海拔 $2 9 5 8 \mathrm { ~ m ~ }$ 。年均气温 $- 0 . 1 \mathrm { { ^ { \circ } C } }$ ， ${ \mathrm { > } } 0 \mathrm { \% }$ 的年积温为 $1 3 8 0 ^ { \circ } \mathrm { C }$ 。研究地雨热同期,年均降水量416$\mathbf { m } \mathbf { m }$ ,主要集中在7一9月，占全年降雨量的 $7 6 \%$ ,且8月降雨和气温都达到最高。无绝对无霜期，植物生长期$1 2 0 { - } 1 4 0 \mathrm { ~ d ~ }$ 。土壤类型为高山草甸土,土层厚度 $4 0 { - } 8 0 ~ \mathrm { c m }$ 。优势物种为垂穗披碱草（Elymusnutans）冷地早熟禾（Poacrymophila）、紫花针茅（Stipapurpurea）、矮生嵩草（Kobresia humilis）和阴山扁蓿豆（Melisitusruthenica）等。
+
+# 1.2样地选择与试验设计
+
+在系统考察研究区域植被情况与调查当地实际载畜量的基础上,计算当地全年放牧情况下中等程度载畜量为每公顷4.5—5.0羊单位。在地势平坦、环境一致、优势种均为垂穗披碱草(Elymus nutans)和紫花针茅（Stipapurpurea）的总面积 $1 0 \ \mathrm { h m } ^ { 2 }$ 草地,选择体重相近的甘肃高山细毛羊为试验羊,设置6个不同的放牧强度区。试验前样地进行群落清查,具体包括物种盖度、生物量、丰富度等信息。于2012—2014 进行全年连续放牧,每天放牧时间8:00—18:00。开始放牧时,放牧样地具体信息见表1。连续3a放牧后,研究地资源供应情况发生显著变化,随放牧强度增加,水分降低和容重增加(图1)。这为短期放牧干扰下多样性(以丰富度表示)与生物量的关系在不同资源供给的空间尺度和3a放牧前后的时间尺度上的对比研究提供了理想样地。
+
+表1研究样地详细信息(平均值±标准差)  
+Table 1The detailed information of studying plots in the beginning of controlled grazing（mean±SD)   
+
+<html><body><table><tr><td>样地 Plots</td><td>面积/hm² Areas</td><td>盖度/% Cover</td><td>物种丰富度 Species richness</td><td>生活型丰富度 Life form richness</td><td>地上生物量 Aboveground biomass/ （g/m²）</td><td>地下生物量 Belowground biomass/</td><td>家畜头数/只 Livestock number</td><td>放牧强度/ 羊单位 Grazing</td></tr><tr><td>1</td><td>2.18</td><td>88.50±3.42a</td><td>8.00±1.63b</td><td>3.75±0.96a</td><td>310.40±76.97a</td><td>（g/m²） 3366.18±560.16a</td><td>6</td><td>intensity 2.75</td></tr><tr><td>2</td><td>1.10</td><td>91.00±6.22a</td><td>8.25±2.22b</td><td>3.75±0.96a</td><td>321.00±17.40a</td><td>3215.25±394.85a</td><td>4</td><td>3.63</td></tr><tr><td>3</td><td>1.61</td><td>89.20±6.30a</td><td>13.40±2.07a</td><td>4.80±0.45a</td><td>293.60±31.70a</td><td>3351.51±286.22a</td><td>7</td><td>4.36</td></tr><tr><td>4</td><td>1.26</td><td>89.20±4.44a</td><td>10.00±2.23b</td><td>4.80±0.84a</td><td>260.00±44.18a</td><td>3924.76±510.64a</td><td>6</td><td>4.78</td></tr><tr><td>5</td><td>2.50</td><td>91.20±1.48a</td><td>10.40±1.67b</td><td>4.60±0.55a</td><td>310.40±76.97a</td><td>3117.13±551.45a</td><td>13</td><td>5.19</td></tr><tr><td>6</td><td>1.11</td><td>90.57±3.67a11.00±1.00b</td><td></td><td>4.33±0.58a</td><td>298.50±55.71a</td><td>3399.11±981.67a</td><td>8</td><td>7.20</td></tr></table></body></html>
+
+不同小写字母表示不同放牧强度样地各项指标差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { ) } }$
+
+# 1.3植物群落调查
+
+在2014年6月、8月、10月，即草地返青期、旺盛生长期、枯黄期,进行植物群落调查。用系统随机取样的方法，将每个样地规则地分为9个小区。避开样地群落边缘,在每个小区随机地设置一个样方，即每个样地重复取样9次。每次开展植物群落调查。用 $5 0 \ \mathrm { c m } \times 5 0$ cm 样方调查物种丰富度及地上生物量，记录样方内出现的植物种，并用物种数表示该样方物种丰富度。以Whittaker植物生活型分类方法[17]及高贤明和陈灵芝对植物生活型分类系统的修订[18]为参考，将物种划分为6个生活型(丛生型、根茎型、莲座型、匍匐型、一年生、直立型），以样方内生活型的数目表示生活型丰富度。分物种将植株地上部分齐地面剪取，带回实验室后置于
+
+0.95 0.35 容重水分 （t/g)/sp g 008 aT a aT a aT a 31 %eeetegeee 0.80 b 0.27 b b b 0.25 0.75 T b b > 0.23 0.70 中 0.21 分 一 0.19水 0.65 0.17 0.60 0.15 1 2 3 4 5 6 样地Plots
+
+$7 0 \%$ 烘箱内烘干至恒重,获得干重,以表示地上生物量。测定地下生物量时,在每个样方旁用直径 $1 0 \ \mathrm { c m }$ 的根钻，按照 $0 { - } 1 0 \ldots 1 0 { - } 2 0 \ldots 2 0 { - } 3 0 \ \mathrm { c m }$ 的深度钻取土柱,每个样方重复取三钻,用0一 $3 0 \ \mathrm { c m }$ 的根量表示该样方的地下生物量。将土柱放在 $0 . 5 ~ \mathrm { m m }$ 网眼的纱网袋里，用水冲洗，将采集到的根系置于 $7 0 \%$ 的烘箱中烘干称重，计算地下生物量。研究中总计调查样方162个。
+
+# 1.4 数据处理
+
+# 1.4.1 多重比较
+
+对物种丰富度、生活型丰富度、地上和地下生物量做不同放牧强度和季节间的多重比较( $\alpha = 0 . 0 5$ ），用双因素方差分析方法分析放牧强度与季节对其影响的显著性。
+
+# 1.4.2 群落生活型组成比例
+
+统计样方内每种生活型的物种种数,除以样方总的物种数,表示该生活型的组成比例。建立样方生活型组成的植物矩阵,与放牧强度和季节的环境因子矩阵（放牧季节的量化[11],以植物开始返青的5月为基点,将6月、8月、10月分别赋值30、90、150)。进行放牧强度与季节对生活型组成的方差分解,通过蒙特卡罗置换检验其显著性。
+
+# 1.4.3 线性回归
+
+采用线性回归方法拟合地上和地下生物量与物种和生活型丰富度的回归关系。依据 $R ^ { 2 }$ 值的大小,确定物种丰富度及功能群丰富度对生产力的解释能力。 ）
+
+# 1.4.4 分析软件
+
+数据初步处理在 Microsoft Excel2013上完成,以 SPSS 19.0软件进行多重比较、双因素方差分析、线性回归，以CONOCO5.0forWindows软件完成方差分解分析。
+
+# 2结果与分析
+
+2.1放牧干扰下物种丰富度和生活型丰富度变化
+
+本研究共调查17科、40属、52种植物。对物种丰富度分析可知(表2）,在不同季节,低放牧强度区（Plotl和Plot2)物种丰富度随季节出现显著性变化,且8月最高。高强度放牧区(Plot3、Plot4、Plot5 和 Plot6)随季节无显著性变化。在不同放牧强度区,6月和10月物种丰富度随放牧强度的增加无显著差异,而8月随放牧强度增加而显著降低。方差分析表明，放牧强度( $F { = } 5 . 4 4 6 ~ P { = } 0 . 0 0 0 \rangle$ 和季节( $F = 5 . 5 6 1 ~ P = 0 . 0 0 5 ;$ )均对物种丰富度造成显著影响。对生活型丰富度分析可知（表2),其随放牧强度和季节未表现出规律性的变化。但放牧强度( $F { = } 2 . 5 6 8 ~ P { = } 0 . 0 3 0 )$ 对生活型丰富度造成显著影响。
+
+表2植物丰富度随不同放牧强度与季节的变化  
+Table 2The variation of species and life form richness under the impact of season and intensity of grazing   
+
+<html><body><table><tr><td></td><td>物种丰富度 Species richness</td><td></td><td colspan="3">生活型丰富度 Life form richness</td></tr><tr><td>6月June</td><td>8月August</td><td>10月October</td><td>6月June</td><td>8月August</td><td>10月October</td></tr><tr><td>11.33±2.92a(b)</td><td>15.33±4.33a( a)</td><td>10.67±1.45a(b)</td><td>4.67±0.87a(ab)</td><td>5.22±0.97a(a)</td><td>4.22±0.44b(b)</td></tr><tr><td>11.89±1.83a(b)</td><td>15.11±2.20a(a)</td><td>11.11±2.70a(b)</td><td>4.78±0.97a(a)</td><td>4.89±0.60a(a)</td><td>4.33±0.50b(a)</td></tr><tr><td>11.56±2.13a( a)</td><td>12.89±2.31ab(a)</td><td>12.89±2.35a( a)</td><td>5.00±0.50a(a)</td><td>5.22±0.67a( a)</td><td>5.56±0.53a( a)</td></tr><tr><td>8.86±1.21a(a)</td><td>10.29±2.65b(a)</td><td>10.60±2.70a(a)</td><td>4.43±0.98a(b)</td><td>5.00±0.58a(a)</td><td>4.80±0.84a(a)</td></tr><tr><td>11.33±2.06a(a)</td><td>11.00±2.78b(a)</td><td>10.56±1.54a(a)</td><td>4.78±0.67a(a)</td><td>4.89±0.93a( a)</td><td>4.67±0.71a(a)</td></tr><tr><td>9.33±1.15a(a)</td><td>10.00±1.00b(a)</td><td>10.00±2.65a(a)</td><td>4.67±0.58a(a)</td><td>4.67±0.58a(a)</td><td>4.33±1.15b(a)</td></tr></table></body></html>
+
+括号内为横向比较，括号外为纵向比较；显著水平： $\scriptstyle P < 0 . 0 5$
+
+由图2可知,植物群落在不同的放牧强度和季节下的物种组成发生差异。随放牧强度增加,每个季节直立型物种的比例均显著减少,莲座型物种的比例显著增加。随季节发展,在盛草期的8月,丛生型物种的比例显著低于6月和10月。方差分解表明（表3），放牧强度对生活型组成比例的贡献为 $6 . 2 0 \%$ ,且达到极显著水平。
+
+![](images/b7b60ea4805cb8bb267ba91506e02d27e4cc597e3147cd05a8a57ed5d24d099a.jpg)  
+图2放牧干扰下群落生活型组成比例  
+Fig.2Life form composition ratio under grazing disturbance
+
+表3放牧强度和季节对生活型组成的方差分解  
+Table 3Variance decomposition of grazing season and grazing intensity   
+
+<html><body><table><tr><td>成分 Fraction</td><td>方差 Variation( adj)</td><td>自由度 df</td><td>均方 Mean Square</td><td>%of Explained</td><td>% of All</td><td>F</td><td>P</td></tr><tr><td>季节 Season</td><td>0.00</td><td>1</td><td>0.01</td><td>1.70</td><td>0.10</td><td>1.20</td><td>0.31</td></tr><tr><td>强度 Intensity</td><td>0.06</td><td>1</td><td>0.07</td><td>98.50</td><td>6.20</td><td>9.90</td><td>0.00</td></tr><tr><td>季节×强度 Season× Intensity</td><td>0.00</td><td></td><td></td><td>-0.20</td><td>0.00</td><td></td><td></td></tr><tr><td>总解释量 Total Explained</td><td>0.06</td><td>2</td><td>0.04</td><td>100</td><td>6.30</td><td></td><td></td></tr><tr><td>总变异All Variation</td><td>1 C</td><td>135</td><td>一</td><td></td><td>100</td><td></td><td></td></tr></table></body></html>
+
+表中“—”表示未进行统计分析
+
+2.2地上和地下生物量随放牧干扰的变化
+
+分析地上生物量可知(表4),在3个季节,地上生物量均随放牧强度的增加而显著降低。在不同放牧强度下,地上生物量随季节仅在低强度放牧区（Plot1和 Plot2)表现显著性变化,且8月最高。高强度放牧区(Plot3、Plot4、Plot5 和Plot6)均未表现出显著性变化。双因素方差分析的结果进一步表明,放牧强度( $F =$ 72.838 $\scriptstyle P < 0 . 0 1 { \mathrm { ~ } }$ )和季节( $F { = } 3 0 . 4 6 1 ~ P { < } 0 . 0 1 ,$ )均极显著影响地上生物量。
+
+分析地下生物量可知(表4),在3个季节,地下生物量随放牧强度的增加均未表现出显著变化。在不同放牧强度下,地下生物量随季节仅在最低放牧强度的 Plot1和最高放牧强度 Plot6内无显著变化,其余放牧强度区表现显著性变化,且8月最大。双因素方差分析的结果进一步表明,放牧季节( $F = 1 6 . 0 0 1 \ P { < } 0 . 0 1 \$ 极显著影响地下生物量,而放牧强度( $F = 0 . 3 4 6 ~ P = 0 . 8 8 4 \rangle$ 对地下生物量无显著影响。
+
+# 2.3放牧干扰前植物丰富度和生物量的关系
+
+由图3可知,试验前,物种丰富度和生活型丰富度均与地上和地下生物量之间显著正相关,根据 $R ^ { 2 }$ 值大小可知,地上生物量比地下生物量受丰富度变化的影响更大。
+
+http://www.ecologica.cn
+
+表4生物量随不同放牧强度与季节的变化  
+Table 4The variation of productivity under the impact of season and intensity of grazing   
+
+<html><body><table><tr><td rowspan="2">样地 Plots</td><td colspan="3">地上生物量 Above-ground biomass/（g/m²）</td><td colspan="3">地下生物量 Below-ground biomass/（g/m²)</td></tr><tr><td>6月June</td><td>8月August</td><td>10月October</td><td>6月June</td><td>8月August</td><td>10月October</td></tr><tr><td>1</td><td>178.16±22.57a(b)</td><td>290.58±65.85a(a)</td><td>184.41±44.07a(b)</td><td>3036.57±904.23a(a)</td><td>3182.56±1138.91a(a)</td><td>2333.16±519.66a(a)</td></tr><tr><td>2</td><td>160.49±66.60a(b)</td><td>321.20±80.36a(a)</td><td>179.04±49.16a(b)</td><td>2500.82±448.04a(b)</td><td>3628.45±1031.31a(a)</td><td>2532.58±798.12a(b)</td></tr><tr><td>3</td><td>102.29±25.47b(a)</td><td>126.80±29.84b(a)</td><td>100.88±31.88b(a)</td><td>3130.42±732.33a(ab)</td><td>3423.18±803.76a(a)</td><td>2702.00±264.03a(b)</td></tr><tr><td>4</td><td>90.33±15.55b(a)</td><td>111.87±25.22bc(a)</td><td>95.55±22.62bc( a)</td><td>2420.22±899.91a(b)</td><td>3965.65±519.14a( a)</td><td>2654.71±770.54a(b)</td></tr><tr><td>5</td><td>71.77±12.28bc(a)</td><td>101.60±26.58bcd(a)</td><td>87.14±17.47bc(a)</td><td>2530.07±787.25a(b)</td><td>3553.13±988.23a(a)</td><td>2565.47±510.02a(b）</td></tr><tr><td>6</td><td>35.21±13.80c(a)</td><td>53.60±19.65d(a)</td><td>48.36±21.26c(a)</td><td>2810.60±357.33a(a)</td><td>3461.94±1287.73a(a)</td><td>2771.424±31.51a(a)</td></tr></table></body></html>
+
+括号内为横向比较，括号外为纵向比较;显著水平： $\scriptstyle P < 0 . 0 5$
+
+地上生物量 $R ^ { 2 } = 0 . 3 7 1$ （204号 $P = 0$ o地上生物量 R²=0.430 P=0地下生物量 $R ^ { 2 } = 0 . 2 4 4$ $P = 0 . 0 0 1$ 地下生物量 R²=0.214 P=0.003400 6000 400 6000A 。 0 5000 ar)/oigipnnmag B 80 5000 ar)/eiipanmag300 ▲ △ ▲ 300? ○善王 250 8 300 250 9▲ △ Q200 + MPOO 200 + 3000150 £ T ▲ 0 CaD 、。 0 2000 江册 150 8 000@ 2000100 。 0 自 0 100 。 自。 。 8 1000 0 100050 o 。 50 800 0 0 06 8 10 12 14 16 18 2 3 4 5 6 7丰富度Richness
+
+A 物种丰富度（Species richness）;B生活型丰富度(Life form richness)
+
+2.4不同季节影响下物种和生活型丰富度与生物量关系
+
+由图4可知,对物种丰富度与生物量关系进行分析,地上生物量在8月随物种丰富度增加而显著增加,在6月与10月关系不显著。而地下生物量与物种丰富度在每个月份均未表现出显著关系。对生活型丰富度与生物量关系分析可知,8月地上和地下生物量均随生活型丰富度增加而显著增加;而其余月份间无显著相关关系。在6月与10月,物种和生活型丰富度均与生物量关系不显著;但在8月,生活型丰富度与地下生物量显著正相关，而物种丰富度与地下生物量无关。
+
+2.5放牧强度影响下物种和生活型丰富度与生物量关系
+
+由图5可知,对物种丰富度与生物量关系进行分析,在低强度放牧区（Plot1、Plot2和Plot3）,地上和地下生物量均随物种丰富度的增加而显著增加,高强度放牧区地上和地下生物量均与物种丰富度无关。对生活型丰富度与生物量关系进行分析,在不同放牧强度区地上生物量均随生活型丰富度增加而显著增加,地下生物量仅在低强度放牧区(Plot1、Plot2)随生活型丰富度增加而显著增加。低强度放牧区,物种和生活型丰富度与地上和地下生物量均显著正相关;而在高强度放牧区,只有生活型丰富度与地上生物量显著正相关。
+
+# 3讨论与结论
+
+3.1放牧干扰对物种和生活型丰富度与地上和地下生物量的影响
+
+高寒草甸作为青藏高原最主要的生态系统类型,其生物多样性和草地生产力都极大地受到放牧干扰的影响[12,19]。而植物有不同的物候期,在不同季节表现不同的生长趋势,因此,植物丰富度和生物量对放牧强度的响应也存在季节性差异[1,4,20]。本研究发现,在8月,物种丰富度随放牧强度的增加而显著降低,其余月份
+
+物种丰富度 生活型丰富度。地上生物量 $R ^ { 2 } = 0 . 0 2 2$ （ P= 0.327 。地上生物量 $R ^ { 2 } = 0 . 0 0 4$ （204号 $\boldsymbol { P } = 0 . 6 8 3$ （204号300地下生物量 $R ^ { 2 } = 0 . 0 0 7$ （204号 P= 0.5731 5000 300 地下生物量 $R ^ { 2 } = 0 . 0 0 8$ （20 $\textstyle P = 0 . 5 5 6$ （204号 5000A A250 ▲ 4000 250 △ 4000△ ○ O △ 0 0 £ A200 £ △ ▲ ▲oo £ £0 0 3000 200 8 △O O 3000+150 T D ▲ 1 + 7 150 T1050 →★ △4○ ○0○ 60 。 2000 1050 ▲o -- 0888 N000000 -- △0O 3000 00 0 0 上 上 05 79 11 13 15 17 2 3 4 5 6 7  
+（)/ p o地上生物量 （20 $R ^ { 2 } = 0$ （20 $P = 0 . 9 7 5$ （204号 （a/es ps /)/ p o地上生物量 $R ^ { 2 } = 0 . 0 9 5$ P= 0.042 m500 地下生物量 $R ^ { 2 } = 0 . 3 3 4 P { = } 0$ 6000 500 地下生物量 $R ^ { 2 } = 0 . 1 1 2$ （204号 P = 0.025B △ △ B ↑ ▲400 △ △ 0 5000 400 £ 0 5000▲ △△ + △ A ? ★8 4000 4000300 ↑ 1 8 △ 。 300 3 £3010 o ←△ 2010 0 00 00 180B 善  
+地 °57,11 \ 。 。° 13 15 17 19 21 23° 程 地 02 3 O 4 5 6 10 地o地上生物量 $R ^ { 2 } = 0 . 0 4 0$ $P = 0 . 1 9 5$ （20 o地上生物量 （204 $R ^ { 2 } = 0 . 0 3 9$ （204号 （204号 $P = 0 . 2 0 1$ （204号350 地下生物量 $R ^ { 2 } = 0 . 0 5 3$ $P = 0 . 1 3 4$ 4000 350 地下生物量 $R ^ { 2 } = 0 . 0 6 4$ P=0.096 40003002030 C△↑ ▲ △ ← ↑△QO ←△△ ←←← \~ ← 3000 302020 C △▲△△△00 △ΛAA △△△△ 303030▲50100 ↓。 o\~oo 0140 80 3010 50100 - E080000 20030050 。 0 O 50 5000 J 00 0 0 ⊥ 1 06 8 10 12 14 16 2 3 4 5 6 7丰富度 Richness
+
+Fig.4Relationships between species richness and biomass under different season A6月（June）;B8月（August）;C10月（October)
+
+无显著性变化。而低放牧强度区物种丰富度随季节出现显著性变化,高强度放牧区物种丰富度较低,且随季节无显著性变化。其原因可能是重度放牧干扰下,植物短时间内受到的放牧胁迫极为严重,以致物种快速丧失[21],限制了植物多样性的发挥。在8月和低放牧强度区环境资源的有效性较高,“投机主义"的一年生杂类草快速生长[11],因而物种丰富度较高。进一步分析发现(图2),生活型丰富度不受季节影响,只在10 月与放牧强度呈单峰变化趋势。返青期所有生活型物种均快速萌发,而在8月丛生型物种的比例显著下降,一年生和直立型植物的比例增加,到10月一年生植物在较高和较低强度放牧区的竞争优势均明显下降,表明各生活型植物是通过比例的调整来适应季节的变化。对放牧干扰下生物量分析可知,在3个季节,地上生物量均随放牧强度的增加显著降低,因为地上生物量受放牧干扰的作用较为直接[18.22]。不同放牧强度区,地上生物量随季节仅在低强度放牧区变化显著,表明低强度放牧有利于激发地上生物量的生长。而地下生物量随放牧强度的增加未表现显著变化。王长庭等[19]也认为高寒嵩草草甸植物地下根系极度发育,不易受放牧干扰的影响。布仁巴音也发现[23],不论冬季或夏季放牧对地下生物量的影响均不显著。进一步证明,地下生物量对短期放牧干扰的响应较为迟钝。
+
+# 3.2植物生长盛期和低强度放牧区丰富度与生物量呈正线性关系
+
+植物丰富度与生态系统生产力的关系在不同研究区表现出较大差异[24],主要原因是不同研究对象影响丰富度和生产力的因素存在差异,如放牧导致的环境差异或群落物种组合差异都可能导致不同的多样性-生产力格局[1,4]。在放牧干扰的不同强度特征和季节下,植物丰富度与生物量的关系不尽相同。本研究发现，在盛草期的8月和低强度放牧区物种和生活型丰富度均与地上生物量呈正线性关系。8月作为青藏高原一年中水热资源最好的季节，低强度放牧区也是可利用资源最好的区域。良好的资源供给增强了物种和生活型丰富度与生物量之间的线性关系[8]。资源供给(如土壤因子)作为植物可利用性限制条件,资源供应充足时可以使得不同物种和生活型植物对资源的利用差异表现出来,从而使得各植物积极生长,最终生物量与丰富
+
+。地上生物量 $R ^ { 2 } = 0 . 4 4 2$ （204号 $P = 0$ （204 。地上生物量R²=0.369 P=0.001·地下生物量 $R ^ { 2 } = 0 . 3 4 5$ （20 （204号 $\mathrm { P } = 0 . 0 0 2$ （20 地下生物量R²=0.154 P=0.043350 5000 350 5000Plot 1 。 Plot 1 0300 。 4000 300 。 8 4000Q 8 1 G 0 8250 . 3000 250 1 3000。 中200 1 8 △ 2000 2050 ， 180 。 2000。。 6 。 0 。 000150 。 0 1000100 。 0 100 0 05 7911131517 19 2123 2 3 4 5 6 7。地上生物量 $R ^ { 2 } = 0 . 2 9 8$ （20 P= 0.020 。地上生物量 $R ^ { 2 } = 0 . 2 2 6$ $P = 0 . 0 1 2$ （20·地下生物量 $R ^ { 2 } = 0 . 3 5 5$ P=0.001 ▲ 地下生物量 $R ^ { 2 } = 0 . 1 7 7$ $P = 0 . 0 2 9$ （20500 6000 500 6000Plot 2 6 Plot 2 。 ▲400 5000 400 5000  
+(r)/sp) 。 (zu/ (zu/ o。 /)/g pip300 0 。 . 8 4000 包 lip 300 L 8 4000200 0 。 8 A 3000 /eiiss 20100 1 C009NΛ 30001100 L 20001 + ▲ 9 Pprnrrggg0 1000 0 10008 1012 14 16 18 20 2 3456 7。地上生物量R²=0.387P=0.001 。地上生物量 $R ^ { 2 } = 0 . 4 0 2$ $P = 0 . 0 1 9$ （20地下生物量R²=0.319 P=0.003 ·地下生物量 $R ^ { 2 } = 0 . 0 4 5$ （20 $P = 0 . 2 8 6$ （204号  
+量 手工 150 170 Plot 3 。 15000 喜 170 Plot3 0 5000 喜130 ▲ A 4000 130 4 △ 4000110 T 喜 O 地 地 10 8 1 地。 ↑ ▲ 8 ▲ ▲ % 。 3000 070 A 8 300007050 100100 自 0 2000 50 8 -- △ ▲830 1000 30 10005 7 9 11 13 15 17 3 4 5 6 7。地上生物量 $R ^ { 2 } = 0 . 0 0 1$ （204号 $P = 0 . 9 0 7$ （204号 。地上生物量 $R ^ { 2 } = 0 . 3 8 6$ $P = 0 . 0 0 8$ （2·地下生物量 $R ^ { 2 } = 0 . 0 3 9$ （2 $P = 0 . 3 2 6$ （20 地下生物量 $R ^ { 2 } = 0 . 0 2 1$ $P = 0 . 5 7 7$ （204号200 6000 200 6000301040 Plot4 △ 8 0 ○ 5000 301040 Po ▲ △ 。 5000120 100 860 T 1。 T oo 中 80 @ 3000 120 860 .-8 0 @ 。。 0 √0£0 30001000 1000040 0 40 107 9 11 13 15 17 2 3 4 5 6 7。地上生物量 $R ^ { 2 } = 0 . 0 1 0$ $P = 0 . 6 5 0$ 。地上生物量 $R ^ { 2 } = 0 . 1 4 2$ （204号 $P = 0 . 0 3 6$ 地下生物量 $R ^ { 2 } = 0 . 0 2 6$ P=0.430 ·地下生物量 $R ^ { 2 } = 0 . 0 2 2$ （204号 $P = 0 . 4 5 9$ （204号130 5000 130 5000120 Plot5o △ ▲ 120 Plot 5 。 △ △  
+/s p 101000 △ 。←\~ A 。 8 0↑8 1。 0300 /)/is pnpg) (/g)/sig pnnss 01090 & 。↑ 3003030 r/eig pniag80 0 0 0 O△ 80 007060 。。 。。 0 1000 7060 00 。@ 1000。 ：5 7 9 11 13 15 17 2 34 5 6 7。地上生物量 $R ^ { 2 } = 0 . 0 5 5$ （204号 $P = 0 . 2 4 0$ （204号 。地上生物量 $R ^ { 2 } = 0 . 2 3 0$ （20 $P = 0 . 0 4 4$ （20地下生物量 $R ^ { 2 } = 0 . 0 0 3$ （2 $ { P = 0 . 7 9 7 }$ 地下生物量 $R ^ { 2 } = 0 . 0 2 1$ （20 $P = 0 . 5 6 5$   
+善 8070 Plot 6 o 300300 善 喜 8070 Plot 6 0。 +60 。 △ 。 3500 地 地 60 + 地50 A + 3000 50 。 8 3000T 6A4030 o。 8 ?。 0 A 。 302030 4030 @。 。 200020 ⊥ 。 1000 20 6 10005 7 9 11 13 2 3 4 号 5 6物种丰富度 生活型丰富度Species richness Life form richne
+
+度正线性相关[25]。在6月、10月和高强度放牧样地地下生物量与物种和生活型丰富度均无关。进一步表明，环境资源供应不足时,使得物种间对资源利用的差异不能充分表现出来,即多样性的作用缺乏表现条件[8]，尤其影响了地下生物量与物种丰富度间相关关系的表达。当环境资源利用的限制增加时,群落组成物种的性状将被限制在一定范围内[26],且植物地下性状的变化较地上部分滞后,适应胁迫环境的优势物种的生存潜力被激发,但物种丰富度的增加可能并不会引起不同植物根系生物量整体的增大,因此地下生物量不会随着物种丰富度而规律性变化。
+
+3.3放牧干扰下生活型丰富度与生物量之间的关系强于物种丰富度
+
+放牧干扰显著影响了资源的可利用性和植物对资源的利用能力[27],不同群落生活型产生差异化的响应策略[28],导致植物首先通过外形特征进行组合,以适应环境变异的影响,进而促进生态系统生产力的发挥。本研究表明,在放牧试验前(2012年),物种和生活型丰富度均与地上和地下生物量显著正相关。而连续 3a放牧后,地上生物量只在低放牧强度区与物种丰富度呈正线性关系。而地上生物量在不同的放牧强度区均与生活型丰富度正线性相关。不同物种对环境资源利用方式不同,丰富度的增加有利于各物种在不同时间、空间上,以各自不同的方式对有限的资源进行利用,使资源的利用效率最大化,从而提高生态系统生产力,这也支持了多样性-生产力假说[25]。地下生物量与物种丰富度和生活型丰富度只在低放牧强度样地表现显著相关关系,地下生物量对干扰的响应较为迟钝。多样性对生态系统生产功能的影响随着物种的多样性和生活型差异的增加而增大。生活型丰富度较物种丰富度更敏感地反映群落生物量的大小,在不同放牧强度样地均对地上生物量的发挥产生正向积极作用。这一现象可以用生态冗余或生态保险来解释[29],某一生活型中如果去除一个或多个种,留下的种可以补偿它们的作用,被去除的种作为冗余种对生态系统生产功能的贡献相对较小。但如果某一生活型被去除,群落的生态保险作用被消减,进而因为某一类型物种的丧失而造成生产功能丧失。
+
+3.4生活型丰富度应在群落短期干扰下多样性与生产力关系研究中被重视生活型作为植物适应生态环境而具有的一定形态外貌、结构和习性[16]。在放牧干扰下,植物群落的生活型调整决定群落能否适应放牧生境而维持生存[30]。由于植物生活型对放牧具有不同的响应策略,导致了植物群落的物种组成和替代变化,从而构成了不同放牧强度下群落结构变化的基础[31]。本研究发现,不同放牧强度区,生活型丰富度均对地上生物量均表现出积极的正作用,更敏感的反映了生物量的变化。而以往多样性与生产力(生物量)研究中,一是从物种水平上研究多样性与生产力的关系,但因为高寒草甸以丛生或根茎的莎草科和禾本科植物分布为主,植物在物种水平上的区分难度极大,因而实际的可操作性差。二是使用物种组合类型的功能群多样性来简化群落物种研究的复杂性[8.18],但因为功能群是基于生理、形态、生活史或其它与某一生态过程相关以及与物种行为相联系的一些生物学特性来划分的,其生物学特性的选择基于野外实际调查[5.9],且干扰下群落的纯生理性功能分化需在较长时期才能实现[5.32]。而群落生活型即植物的外部形态可以在较短时间内对干扰做出响应[1-1],进而影响群落结构。本研究也进一步表明,群落生活型多样性可以决定生态系统的生产功能,且比物种多样性有更大的优势。生活型丰富度的增加可以使得不同形态的物种对空间资源的利用差异表现出来,从而使得不同植物都能积极生长,最终对生产力产生显著正面影响。因此，生活型丰富度在短期干扰下有极大的应用前景，一方面,植物型态的划分更直接准确、也可以简化群落以物种为研究单元的复杂性,另一方面,因其与生物量的密切关系,提供了从增加生活型丰富度进而提高群落生产力的理论思路,也因其显著正相关关系,可以对群落初级生产力在生活型丰富度的水平上进行准确快速的预测。
+
+# 参考文献（References）:
+
+[1]BaiYF,WuJG,PanQM,HuangJH,WangQB,LiFS,BuyantuyevA,HanXG.Posivelinearrelatonshipbetween productivityanddiversity:evidence from the Eurasian Steppe.Journal of Applied Ecology，2007,44(5）：1023-1034.  
+[2]Naeem S.Ecosystem consequences ofbiodiversityloss:the evolutionof aparadigm.Ecology，202,83（6):1537-1552.  
+[3]ScurlockJOJoonK，lsonRJEstiatingetpriaryproductivitrograssandioassdamicsesurentslobalangeBiology，2002，8（8）：736-753.  
+[4]CardinaleBJ，WightJ,CdotteWarollI,Hector，rvastavDS,LoreauM，WeisJJImpactsofplantdiversityoaproducioncreasethoughtiebcauseofspeciescoplementarityProceingsofthNatioalAademofSiencesofteUnitedSatesofAmerica，2007，104(46）：18123-18128.  
+[5］董世魁，汤琳，张相锋，刘世梁，刘全儒，苏旭坤，张勇，武晓宇，赵珍珍,李钰，沙威.高寒草地植物物种多样性与功能多样性的关系.生态学报，2017，37(5)：1472-1483.  
+［6］胡文祥.基于植物性状的青藏高原高寒草甸常见物种对施肥的响应[D].兰州：兰州大学，2011.  
+[7]YanRR,XinXP,YanYC,WngX,ZangBH,YngGX,LiuS,DengY,LiLH.Ipactsdiering grigratesoncarctureand species composition in hulunber meadow steppe.Rangeland Ecology& Management，2015,68(1）：54-64.  
+[8］马文静，张庆，牛建明，康萨如拉，刘朋涛，何欣，杨艳，张艳楠，邬建国.物种多样性和功能群多样性与生态系统生产力的关系——以内蒙古短花针茅草原为例.植物生态学报，2013，37(7)：620-630.  
+[9］胡楠，范玉龙，丁圣彦，廖秉华.陆地生态系统植物功能群研究进展.生态学报，2008，28（7）：3302-3311.  
+[10] BroenimanO,TuilerW，HughesG,MidgleyGF,AlkemadeJMR,GuisanA.Dogeographicdistribution，nichepropertyandlifeforexplain plants‘vulnerability to global change?Global Change Biology，2006，12(6）：1079-1093.  
+[11] 王国杰，汪诗平，郝彦宾，蔡学彩.水分梯度上放牧对内蒙古主要草原群落功能群多样性与生产力关系的影响.生态学报,2005,25（7)：1649- 1656.  
+12 韩大勇，杨永兴，杨杨，李珂.放牧干扰下若尔盖高原沼泽湿地植被种类组成及演替模式.生态学报，2011，31（20)：5946-955.  
+[13] WuGL,DuGZiuZH,godSftoffecingdgraingoaKob-datedmeadointeQigabetaPlateaatdSoil,2009,319(1/2):115-126.  
+14] 杜国祯,覃光莲,李自珍，刘正恒，董高生.高寒草甸植物群落中物种丰富度与生产力的关系研究.植物生态学报，2003，27（1)：125- 132.  
+[15] 袁建立，江小蕾，黄文冰，王刚.放牧季节及放牧强度对高寒草地植物多样性的影响.草业学报，2004，13（3）：16-21.  
+16]Gtellelsl，2001，4(4):379-391.  
+[17]Whitaker RH.Communities and Ecosystems.New York：Macmillan Company，1970.  
+[18] 高贤明，陈灵芝.植物生活型分类系统的修订及中国暖温带森林植物生活型谱分析.植物学报，1998，40(6)：553-559.  
+[19］王长庭，龙瑞军，王启兰，曹广民，施建军，杜岩功.放牧扰动下高寒草甸植物多样性、生产力对土壤养分条件变化的响应.生态学报，2008，28(9)：4144-4152.  
+[20]AltesorsteeldeE,aFdrgeCfofgangouitructuredpuctifUgaldPlant Ecology，2005，179(1）：83-91.  
+[21]KleiarteJZXExptalagusegeadidsesspdyiuatedaingaaeEcology Letters，2004，7(12）：1170-1179.  
+[22］王常顺，孟凡栋，李新娥,姜丽丽，汪诗平.草地植物生产力主要影响因素研究综述.生态学报，2014,34（15)：4125-4132.  
+[23] 布仁巴音.不同季节放牧对高寒草甸植物群落多样性和生产力的影响[D].北京：中国科学院研究生院，2012.  
+[24] 袁自强，魏盼盼，高本强，张荣.取样尺度对亚高寒草甸物种多样性与生产力关系的影响.植物生态学报，2012，36(12）：1248-1255.  
+[25] NaemS,ThosoLJawlrSawtonJHWodfiligiodiesityaethpefoanceofosystesu994368(6473): 734-737.  
+[26］吕亭亭，王平，燕红，张稳，廖桂项,姜海波，邹畅林，盛连喜.草甸和沼泽植物群落功能多样性与生产力的关系.植物生态学报，2014,38(5) : 405-416.  
+[27］毛志宏，朱教君.干扰对植物群落物种组成及多样性的影响.生态学报，2006，26(8)：2695-2701.  
+[28]Damhoureyeh SA，HartnettDC. Variation in grazing tolerance among three tallrass prairie plant species. American Journal of Botany，2002，89(10)：1634-1643.  
+[29] Loreau M.Biodiversity and ecosystem functioning:recent theoretical advances. Oikos，2Ooo,91(1）: 3-17.  
+[30］段敏杰，高清竹，万运帆，李玉娥,郭亚奇，旦久罗布，洛桑加措.放牧对藏北紫花针茅高寒草原植物群落特征的影响.生态学报，2010,30(14):3892-3900.  
+[31］刘志民，赵晓英，刘新民.干扰与植被的关系.草业学报，2002，11(4)：1-9.  
+[32] 鲍雅静,李政海.基于能量属性的植物功能群划分方法探索——以内蒙古锡林河流域草原植物群落为例.生态学报，2008，28（9)：4540-4546.

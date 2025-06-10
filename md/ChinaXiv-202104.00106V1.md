@@ -1,0 +1,169 @@
+# 1957—2018年和田河源流径流演变特征
+
+余其鹰¹，张江辉²，白云岗²，王硕³，江柱¹，曹彪²，卢震林²(1.新疆农业大学水利与土木工程学院,新疆 乌鲁木齐830052；2.新疆水利水电科学研究院，新疆 乌鲁木齐830049；3.塔里木大学水利与建筑工程学院,新疆 阿拉尔843300)
+
+摘要：河川径流演变特征对流域水资源管理及开发利用具有重要的意义。基于和田河源流乌鲁瓦提站和同古孜洛克站1957—2018年62a长时间径流实测数据，采用线性趋势、Mann-Kendall趋势检验和重标极差分析法,从年代际、年际、季节及月份4个时间尺度分析了和田河源流区径流演变特征。结果表明：乌鲁瓦提站和同古孜洛克站的径流年代际变化特征一致,均经历了“平水年-偏丰水年";乌鲁瓦提站和同古孜洛克站年径流量均呈现不显著增加趋势,径流序列的突变点均为2009年,年径流均在一定时间内持续增加;乌鲁瓦提站夏秋季径流量变化对年径流量影响最大,同古孜洛克站夏季径流量对年径流影响最大;径流量年内分配不均匀，主要集中在5—9月,占比在$8 6 . 1 1 \% \sim 9 0 . 8 6 \%$ ，呈"冬枯夏洪”。
+
+关键词：和田河；线性趋势；径流变化；M-K检验；重标极差分析
+
+气候变化和人类活动对水资源的影响，是目前全球范围内关注的重要科学问题1，尤其我国干旱内陆区。地表径流是水资源转化和消耗重要组成部分，也是地下水的重要补给来源，是人类和动植物生存发展不可缺少的自然资源[2],研究河川径流演化变迁特征，对流域水资源合理配置及利用开发具有重要的指导意义[3]
+
+和田河流域水资源的合理开发是促进“和田绿洲"社会经济和生态环境实现可持续发展的重要保障[4],也是塔里木河流域生态恢复治理的重要措施[5。许多学者从不同方面对和田河径流开展了相关研究。如史文娟等研究发现受气温、暖干化和蒸发共同作用，和田河径流呈现减少趋势；张晓伟等运用小波分析等方法，发现和田地区水土资源开发进程的加快是径流减少的主要原因，且具有一定的持续性；罗敏等8利用具有物理意义的分布式水文模型(MIKE-SHE)模拟了和田河流域的水文过程。王杰等[9]、沈冰等[10]、吴益等[1]、秦胜英等[¹2]通过多尺度对和田河流域水资源的沿程损耗，气候变化对径流的影响等方面做了广泛研究。但是，以上学者对和田河流域径流研究大多采用2010年以前的数据，且对研究区四季径流量变化、研究时段内年径流丰枯变化及原因尚无定论。部分研究径流特征采用水库调节后的径流数据，近10a和田河流域径流特征是否有新的变化，年代际间、年际、从春季到冬季及年内分配变化有何异同是本研究拟解决的关键问题。
+
+选取和田河源流同古孜洛克站和还原后的乌鲁瓦提站天然径流数据，采用M-K趋势及突变检验、线性趋势、重标极差分析等方法对径流量变化进行系统分析。为流域水资源开发及生态治理，完成和田河下泄塔里木河目标水量，确保和田河“绿色走廊"和塔里木河干流生态用水安全，满足上游“和田绿洲"生产建设用水、下游干流“绿色走廊”修复治理提供参考。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+和田河流域位于我国新疆南端，昆仑山北麓，塔里木盆地南部边缘，全流域集水面积 $2 . 6 { \times } 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ (图1)。和田河由东西两大支流组成，即西支喀拉喀什河和东支玉龙喀什河，是昆仑山北坡的第二大河流，由南向北流入塔里木盆地,穿越塔克拉玛干沙漠,最终汇入塔里木河。其中玉龙喀什河全长$5 0 4 ~ \mathrm { k m }$ ，在出山口处设有同古孜洛克水文站（以下称同古孜洛克站);喀拉喀什河全长 $8 0 8 ~ \mathrm { k m }$ ,在出山口处设有乌鲁瓦提水文站（以下称乌鲁瓦提站）。两支流在阔什拉什汇合至肖夹克段称为干流，全长$3 1 9 { \mathrm { k m } }$ ，属于季节性河流。和田河主要补给源为冰川、积雪融水及夏季少量降水，两支流多年平均径流量总计约 $4 3 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ，平原区地下水资源 $4 . 2 9 \times 1 0 ^ { 8 }$ $\mathbf { m } ^ { 3 }$ ,6—9月径流补给量占总径流量 $8 0 \%$ 以上，年内水资源分配差异较大。该流域气候干燥，降水稀少，多年平均潜在蒸发量为 $2 6 4 8 . 7 ~ \mathrm { m m } ( 2 0 ~ \mathrm { c m }$ 口径蒸发皿),多年平均降水仅为 $3 9 . 6 \mathrm { m m }$ ○
+
+![](images/25e15cc9a2bf98be2bfd0a5e4495b56209b3ea7d0e2bc7aebef5cb62a327c9ab.jpg)  
+图1和田河流域示意图  
+Fig.1 Schematic diagram ofHotan River Basin
+
+# 1.2数据来源与方法
+
+选取乌鲁瓦提站和同古孜洛克站作为分析计算的代表站，采用1957—2018年逐月径流数据进行分析处理。其中同古孜洛克站为多年实测资料，由于2004年修建乌鲁瓦提水利枢纽(不完全年调节）改变了乌鲁瓦提站天然径流特征，通过分项调查法逐月径流量进行还原。乌鲁瓦提站位于出山口，基本无工农生活、生产用水，只需对水库蒸发、渗流等水量损失进行还原，通过查阅2004—2018年新疆水文年鉴、参考相邻水文站点插值对两个水文站的部分缺测径流量数据还原。根据研究需要将年径流距平值 $K i$ 分成5个等级， $K i { > } 2 0 \%$ 为丰水年； $1 0 \% <$ $K i { \leqslant } 2 0 \%$ 为偏丰水年； $- 1 0 \% \leqslant K i \leqslant 1 0 \%$ 为平水年；$K i { < } { - } 2 0 \%$ 为枯水年； $- 2 0 \% { \leqslant } K i < - 1 0 \%$ 为偏枯水年。
+
+1.2.1Mann-Kendall趋势检验和突变检验 Mann-Kendall检验法是世界气象组织推荐并广泛用于研究水文和气候长时间序列的非参数检验方法，具有结果受少数异常值干扰小，能显示数据显著突出和突变的优点,因此在水文上得到了广泛的应用[13-14]。本文利用Mann-Kendall统计值 $Z$ 进行地表径流显著性检验，检验时先假设该序列无趋势，在给定显著水平下，若通过双尾检验，在正态分布表中查临界值 $\smash { Z _ { 1 - \alpha / 2 } }$ ,若 $\vert Z \vert < Z _ { 1 - \alpha / 2 }$ 时，接受原假设，即趋势不显著；若 $\vert Z \vert > Z _ { 1 - \alpha / 2 }$ ,拒绝原假设,即变化趋势显著。 $Z >$ 0表示地表径流呈增加趋势， $Z { < } 0$ 表示地表径流呈减少趋势， $Z$ 的绝对值越大，说明地表径流变化趋势越显著。
+
+通过分析统计序列 $U F _ { k }$ 和 $U B _ { k }$ ,揭示时间序列 $x$ 的趋势变化和突变特征，若 $U F _ { k }$ 值大于0并超过临界线时,则表明径流量呈显著增加趋势,反之呈减少趋势；若在临界线之间 $U F _ { k }$ 和 $U B _ { k }$ 出现交点，则认为序列发生突变,交点就是突变的开始[15]1.2.2重标极差分析法(R/S）Hurst指数是描述时间序列依赖性的有效方法，常用来判断未来趋势相对过去趋势的变异程度。本文选取重标极差法(R/S)分析来获取Hurst指数，该方法原理是将时间序列分为若干区间,然后对区间内数据进行标准化[16-17]。假设区间时间长度为 $N$ ，将 $N$ 作为解释变量， $\mathrm { l n } \mathrm { [ R / S ] }$ 为被解释变量进行线性回归，得到的斜率即为Hurst指数 $H _ { \circ }$ 当 $H { = } 0 . 5$ 时，说明时间序列变化是随机的；当 $0 . 5 < H < 1$ 时，意味着未来一段时间与原时间序列存在相同趋势；当 $0 < H < 0 . 5$ 时，说明未来一段时间与原时间序列存在相反趋势[18]
+
+通过统计量 $V$ 判断是否有周期循环，若 $V { \mathrm { - l n } } N$ 曲线由上升突然转变为平缓或下降趋势，则认定该点过去趋势对未来趋势影响消失，统计量 $V$ 的计算公式为：
+
+$$
+V ( n ) = \left( \mathrm { R } / \mathrm { S } \right) n \big / \sqrt { n }
+$$
+
+式中： $n$ 为可变子区间； $N$ 为区间长度;R/S为极差和标准差的比值。
+
+# 2结果与分析
+
+# 2.1年径流年代际变化特征
+
+将1957—2018年乌鲁瓦提站和同古孜洛克站的年径流数据分为7个时段(表1,表2)乌鲁瓦提站20世纪50年代、60年代、80年代和90年代的径流均值均低于多年平均值，其中1990年代最低;其余时段的径流均值高于多年平均值，1957—2010年6个时间段内均为平水年。2010s为偏丰水年，高出多年平均值 $2 . 9 8 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ (表1)。同古孜洛克站在20世纪60年代、70年代、80年代和90年代的径流均值均低于多年平均值；2010年代开始进入丰水期，高于多年平均值 $4 . 4 4 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ （表2）。
+
+总体上看，乌鲁瓦提站和同古孜洛克站年径流代际间的变化趋势基本一致,50年代一90年代低于多年平均值，00年代一10年代高于多年平均值，经历了“平水年-偏丰水年”，并有明显分界点，这与王玉洁等"发现新疆西部径流增加且呈"V"型变化的结果一致。
+
+# 2.2年径流演变特征
+
+对1957—2018年和田河上游两个水文站的年径流量变化特征进行分析。乌鲁瓦提站和同古孜洛克站年径流量分别以 $0 . 4 6 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \cdot 0 . 5 2 \times$ $1 0 ^ { 8 } \mathrm { m } ^ { 3 } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的速率增加(图2)。两站M-K趋势检验值 $Z$ 分别为1.58、1.41，说明乌鲁瓦提站和同古孜洛克站年径流的增加趋势不显著。乌鲁瓦提站年最大、最小径流量分别为 $3 1 . 8 5 \times 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } \left( 1 9 6 1 \right)$ /$1 2 . 2 8 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } ( 1 9 6 5 )$ ,极值比为 $2 . 5 9$ 。同古孜洛克站年最大和最小径流量分别为 $3 7 . 1 2 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } \mathrm { ( 1 9 6 1 ) }$ 、$1 2 . 2 5 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } \left( 1 9 6 5 \right)$ ，极值比为3.03，变差系数为0.22。从两个水文站年径流量的5a滑动平均趋势线可以看出，乌鲁瓦提站径流呈现出缓慢的波动变化，表现为“丰-枯-丰”的变化过程;同古孜洛克站波动幅度较大，变化过程剧烈，呈“锯齿形”，但总体表现为持续性丰水年。
+
+M-K突变检验结果中 $U F _ { k }$ 和 $U B _ { k }$ 在2009年出现交集，且交点在 $\pm 1 . 9 6$ 临界线之间，说明该点可能为突变点，突变后表现为持续丰水年(图3a)。同古孜洛克站年径流量的 $U F _ { k }$ 和 $U B _ { k }$ 曲线也在临界线之间且交于2009年，表明同古孜洛克年径流量的可能突变点亦为2009年(图3b)。为进一步检验两站年径流量的突变时间，采用累积距平对年径流量变化趋势进行分析，结果如图4所示，两站年径流经过短暂的丰枯交替后呈现剧烈下降趋势，进入枯水年，受气候变化的影响经历了长达30a的枯水期(1980—2010年），2009年突变后进入丰水期，突变前后丰枯差异明显，验证了M-K突变检验的正确性。
+
+Tab.1 Change characteristics of inter-annual runoff in Wuluwati station   
+表2同古孜洛克站年际径流变化特征  
+
+<html><body><table><tr><td>时段</td><td>年份</td><td>最大值/10m</td><td>年份</td><td>最小值/10m</td><td>均值/10m</td><td>极值比</td><td>变化率/%</td><td>年景</td></tr><tr><td>1957—2018</td><td>1961</td><td>31.80</td><td>1965</td><td>12.27</td><td>22.27</td><td>2.59</td><td>1</td><td>1</td></tr><tr><td>1957—1960</td><td>1959</td><td>24.05</td><td>1958</td><td>20.19</td><td>21.77</td><td>1.19</td><td>-2%</td><td>平水年</td></tr><tr><td>1961—1970</td><td>1961</td><td>31.80</td><td>1962</td><td>16.42</td><td>21.50</td><td>1.93</td><td>-3%</td><td>平水年</td></tr><tr><td>1971—1980</td><td>1978</td><td>31.26</td><td>1972</td><td>17.09</td><td>22.35</td><td>1.82</td><td>0%</td><td>平水年</td></tr><tr><td>1981—1990</td><td>1983</td><td>25.59</td><td>1989</td><td>17.25</td><td>22.08</td><td>1.48</td><td>0%</td><td>平水年</td></tr><tr><td>1991—2000</td><td>1994</td><td>28.64</td><td>1993</td><td>14.96</td><td>20.36</td><td>1.91</td><td>-8%</td><td>平水年</td></tr><tr><td>2001—2010</td><td>2010</td><td>30.25</td><td>2004</td><td>17.06</td><td>22.95</td><td>1.77</td><td>3%</td><td>平水年</td></tr><tr><td>2011—2018</td><td>2015</td><td>28.19</td><td>2014</td><td>19.44</td><td>25.25</td><td>1.45</td><td>13%</td><td>偏丰水年</td></tr></table></body></html>
+
+表1乌鲁瓦提站年际径流变化特征  
+Tab.2 Change characteristics of inter-annual runoff in Tongguziluoke station   
+
+<html><body><table><tr><td>时段</td><td>年份</td><td>最大值/10m</td><td>年份</td><td>最小值/10m</td><td>均值/10m</td><td>极值比</td><td>变化率/%</td><td>年景</td></tr><tr><td>1957—2018</td><td>1961</td><td>37.12</td><td>1965</td><td>12.24</td><td>23.18</td><td>3.03</td><td>1</td><td>1</td></tr><tr><td>1957—1960</td><td>1959</td><td>27.00</td><td>1957</td><td>22.02</td><td>24.22</td><td>1.23</td><td>4%</td><td>平水年</td></tr><tr><td>1961—1970</td><td>1961</td><td>37.12</td><td>1962</td><td>20.46</td><td>22.65</td><td>1.81</td><td>-2%</td><td>平水年</td></tr><tr><td>1971—1980</td><td>1978</td><td>31.20</td><td>1975</td><td>17.26</td><td>22.57</td><td>1.81</td><td>-2%</td><td>平水年</td></tr><tr><td>1981—1990</td><td>1990</td><td>23.99</td><td>1989</td><td>14.74</td><td>21.21</td><td>1.63</td><td>-9%</td><td>平水年</td></tr><tr><td>1991—2000</td><td>1994</td><td>31.71</td><td>1993</td><td>13.59</td><td>21.12</td><td>2.33</td><td>-9%</td><td>平水年</td></tr><tr><td>2001—2010</td><td>2006</td><td>30.69</td><td>2009</td><td>16.57</td><td>24.37</td><td>1.85</td><td>5%</td><td>平水年</td></tr><tr><td>2011—2018</td><td>2016</td><td>32.24</td><td>2014</td><td>21.77</td><td>27.62</td><td>1.48</td><td>19%</td><td>偏丰水年</td></tr></table></body></html>
+
+![](images/275d68cd301696a4180e5a92041888b57901f114231f313a9118e1e8be16db67.jpg)  
+Fig.2Change trends of annual runoff in Wuluwati and Tongguziluoke station
+
+![](images/4c27d2595e20667ad9fcb6940be293af9994082cd8f3a243698a32185b1ab6e2.jpg)  
+图2乌鲁瓦提站和同古孜洛克站年径流量变化趋势  
+图3M-K突变检验  
+Fig.3M-K mutation test diagram
+
+R/S分析法可对未来一段时间内时间序列变化趋势及持续时间进行预判，采用该方法对未来年径流量进行预判。从图5的Hurst指数分析结果可知，乌鲁瓦提站的Hurst值为0.54,呈正弱持续性变化,即在未来一段时间内年径流依然会持续增加；从 $V$ 统计量可以看出第一拐点发生在 $\ln N { = } 1 . 9 4$ 处，即未来8a径流量会持续增加。同古孜洛克站的Hurst指数为0.61，且第一拐点发生在 $\ln { N } { = } 2 . 1 9$ 处，表明在未来9a内同古孜洛克站年径流会持续增加。两站在未来一段时间内年径流量会呈增加趋势。
+
+# 2.3径流季节变化特征
+
+径流的年内季节变化对水资源配置和利用具有重要意义。通过分析乌站、同站不同季节径流变化趋势及不同季节变化下的年际变化特征(图6,表3)，乌鲁瓦提站四季径流均表现为不同程度的增加趋势，增加速率分别为 $0 . 1 3 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 } \mathrm { \Omega } { \cdot } 0 . 0 8 { \times } 1 0 ^ { 8 }$ $\mathrm  m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \cdot 0 . 1 6 \times 1 0 ^ { 8 } \mathrm  m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \cdot 0 . 0 8 \times 1 0 ^ { 8 } \mathrm  m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm  m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm  m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm  m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm  m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm  m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm  m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) ^ { - 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) } \mathrm { m ^ { 3 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) } \mathrm { m ^ { 1 } \mathrm { m ^ { 3 } \cdot ( 1 0 a ) } \mathrm { m ^ { 1 } \mathrm { m } } } } } } } } } } } } } } } } } } } } } } } }$ 1957—2018年春夏秋冬四季径流量分别增加了（204号 $0 . 8 1 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } \setminus 0 . 5 0 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } \setminus 0 . 9 9 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } \setminus 0 . 5 0 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ，秋季增幅最大，夏季、冬季增幅最小，说明秋季径流量对该站年径流量影响最大。乌鲁瓦提站年际径流距平百分率变化中，春季在1957—1960年最低，低于均值 $2 7 \%$ ,2011—2018年最高，高于均值 $2 3 \%$ ；夏季在1991—2000年最低，低于均值 $10 \%$ ,2011—2018年最高，高于均值 $1 6 \%$ ；秋季在1971—1980年最低，低于均值 $1 8 \%$ ,2011—2018年最高，高于均值$2 7 \%$ ;冬季在1961—1970年最低，低于均值 $2 6 \%$ ，2001—2010年最高，高于均值 $2 5 \%$ ○
+
+同古孜洛克站四季径流亦呈现出增加趋势，增加趋势差异较大，其中夏季增幅最大，增幅为 $0 . 2 0 \times$ $1 0 ^ { 8 } \mathrm { m } ^ { 3 } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 、春季、秋季次之，增幅均为 $0 . 1 6 \times 1 0 ^ { 8 }$ $\mathrm { m } ^ { 3 } { \cdot } \left( 1 0 \mathrm { a } \right) ^ { - 1 }$ 、冬季增幅为 $0 . 0 8 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 1957—2018年春夏秋冬四季径流分别增加 $0 . 9 9 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 、
+
+![](images/9b1ffbcc1d92ef2c67c2a5797ee5a923344735ba09ce8c98c8fa5cc6349f5db2.jpg)  
+Fig.4 Anomaly chart of annual runoff cumulative
+
+![](images/908f2f5a2530452352e4605881a2a1061f7332214a3757d8c029eb603f139337.jpg)  
+图4年径流累积距平  
+图5R/S分析结果Fig.5R/Sanalysis result
+
+$1 . 2 4 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } , 0 . 9 9 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 } , 0 . 5 0 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ，说明夏季对年径流影响最大。同古孜洛克站年际径流距平百分率变化中，春季在1957一1960年最低，低于均值$2 7 \%$ ,2011—2018年最高，高于均值 $2 6 \%$ ；夏季在
+
+![](images/0304df0b5b656cfc6d42bdb13ec8e54e0c2b35ff88c2bb7ad1e5643b48419234.jpg)  
+图6乌鲁瓦提站和同古孜洛克站径流量季节变化  
+Fig.6Seasonal changes of runoff in Wuluwati and Tongguziluoke station
+
+表3径流季节年际距平百分率  
+Tab.3 Percentage of seasonal inter-annual runoff anomalies   
+
+<html><body><table><tr><td rowspan="2">时段</td><td colspan="2">春季</td><td colspan="2">夏季</td><td colspan="2">秋季</td><td colspan="2">冬季</td></tr><tr><td>乌站</td><td>同站</td><td>乌站</td><td>同站</td><td>乌站</td><td>同站</td><td>乌站</td><td>同站</td></tr><tr><td>1957—1960</td><td>-27%</td><td>-27%</td><td>-1%</td><td>9%</td><td>4%</td><td>2%</td><td>-12%</td><td>-28%</td></tr><tr><td>1961—1970</td><td>-10%</td><td>-6%</td><td>-1%</td><td>-1%</td><td>-5%</td><td>-3%</td><td>-26%</td><td>-18%</td></tr><tr><td>1971—1980</td><td>2%</td><td>-4%</td><td>-5%</td><td>0%</td><td>-18%</td><td>-16%</td><td>-4%</td><td>-17%</td></tr><tr><td>1981—1990</td><td>-7%</td><td>-3%</td><td>1%</td><td>-8%</td><td>-9%</td><td>-16%</td><td>-7%</td><td>-11%</td></tr><tr><td>1991—2000</td><td>-7%</td><td>-7%</td><td>-10%</td><td>-10%</td><td>-4%</td><td>-6%</td><td>-6%</td><td>-3%</td></tr><tr><td>2001—2010</td><td>11%</td><td>11%</td><td>-1%</td><td>3%</td><td>12%</td><td>32%</td><td>25%</td><td>25%</td></tr><tr><td>2011—2018</td><td>23%</td><td>26%</td><td>16%</td><td>16%</td><td>27%</td><td>35%</td><td>20%</td><td>32%</td></tr></table></body></html>
+
+1991—2000年最低，低于均值 $10 \%$ ,2011—2018年最高，高于均值 $1 6 \%$ ;秋季在1971—1980年、1981—1990年最低，低于均值 $1 6 \%$ ,2011—2018年最高，高于均值 $3 5 \%$ ;冬季在1957—1960最低，低于均值$2 8 \%$ ,2011—2018年最高，高于均值 $3 2 \%$ ○
+
+从季节变化而言，两站季节均呈现出不同程度的增加趋势,其中春季和秋季增幅最大，Li等[20]的研究指出，近50a西北干旱区暖湿化趋势比较明显，春季和秋季对年降水量变化的贡献率分别为$2 1 . 6 \% . 1 8 . 4 \%$ ，揭示了春季、秋季年径流增幅最大的原因。
+
+从年际距平百分率而言，不同季节不同年代际变化不尽相同，夏秋两季变化幅度较大；春冬两季表现出明显的“枯-丰"阶段性变化，与年径流变化趋势一致，任国玉等研究指出西北干旱地区春季和冬季有明显的增温现象，冬季和春季升温加速冰川(积雪)冻土融化是地表径流增加的原因之一。
+
+# 2.4月径流演变特征
+
+乌鲁瓦提站和同古孜洛克站多年平均月径流如图7所示，乌鲁瓦提站和同古孜洛克站月径流呈“单峰型”,年内分配极不均匀，月径流量主要集中在5一9月，乌鲁瓦提站7月径流量最大，同古孜洛克站8月径流量最大，分别占全年比例的 $3 3 . 3 7 \%$ 、$2 8 . 1 8 \%$ ,5—9月径流量分别占全年径流总量的$8 6 . 2 5 \% . 9 0 . 8 6 \%$ 。乌鲁瓦提站、同古孜洛克站在汛期与枯季的径流量存在小幅度差异，如乌鲁瓦提站在汛期低于同古孜洛克站 $9 . 3 7 \%$ ，而枯季高于同古孜洛克站 $3 1 . 4 6 \%$ ，所以玉龙喀什河沿岸更容易发生旱涝交替出现的自然灾害。
+
+![](images/32b98c9b612ca2309a14a83d6c11116b5ea33820700092a0ed13f69162897e64.jpg)  
+图7乌鲁瓦提站和同古孜洛克站多年月平均径流量 Fig.7Multi-year average monthly runoff in Wuluwati and Tongguziluoke station
+
+从乌鲁瓦提站和同古孜洛克站逐月径流M-K趋势检验可以看出(图8)，在全球气候变化环境下，两水文站呈现出“枯增丰减”的变化特征。两站的M-K检验值在1—5月、9—12月达到了 $5 \%$ 的显著水平，6一8月增加趋势小于其他月份，乌鲁瓦提站8月更是出现减少趋势;同古孜洛克站虽然呈增长趋势，但汛期月径流增加趋势明显小于枯季,两站枯季极显著增加趋势是导致乌鲁瓦提站、同古孜洛克站年平均径流呈现增加趋势的主要因素之一。
+
+# 3讨论
+
+对和田河源流区乌鲁瓦提站和同古孜洛克站径流年代际变化、年内变化、季节变化等方面进行了系统分析，与以往研究相比，研究序列较长，且采用还原后的径流数据。黄领梅等22利用1957—2008年径流数据、董弟文等[23]利用1957—2014年径流数据研究得出和田河源流年径流存在不显著减小趋势，因选取不同时间序列，所以在年尺度上变化趋势、突变时间与前人存在部分差异，但验证了董弟文指出未来一段时间和田河源流径流增加趋势的结论。
+
+乌鲁瓦提站和同古孜洛克站位于出山口，气候是径流变化的主要影响因子，气温和降水变化共同决定了地表年径流量大小。已有研究指出气候因子中气温是影响和田河径流量的"晴雨表”[23],和田河源流分布着大量的现代冰川，而冰川可以起到调节径流的作用24，所以低变差系数 $( 0 . 1 8 \sim 0 . 2 2 )$ 表明两河补给主要是冰川积雪融水。年际径流变化中，径流出现了明显的由枯到丰的变化特征，陈亚宁等[25指出1987年西北干旱区气温出现了“突变型"升高，而图4中1980—2005年累积距平曲线出现下降趋势，进入枯水期，大多数学者普遍认为是1980—2010年和田河山区夏季 $0 \%$ 层高度的冰川消融以 $1 . 7 \ \mathrm { m } \cdot \mathrm { a } ^ { - 1 }$ 的速率下降[26]， $0 \mathrm { { ^ { \circ } C } }$ 层高度下降抑制了山区冰雪融化，加之降水稀少，共同导致源流区径流量减小即表现为枯水期。2009年后气温升高加速冰川融化和暖湿化作用，山区降水、大暴雨天气增加,揭示了径流在2009年突变后由枯至丰的演变过程。和田河源流径流补给由冰川融水（204号 $( 5 9 . 5 0 \% )$ ）、降水 $( 1 9 . 5 5 \%$ 和地下水 $( 2 0 . 9 5 \% )$ 组成[27]，源流区下垫面和气候变化因素大致相同，但分配到乌鲁瓦提站和同古孜洛克站具有一定差异，如乌鲁瓦提站年径流量增幅为 $\left[ 0 . 4 6 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 } { \cdot } \left( 1 0 \mathrm { a } \right) ^ { - 1 } \right] .$ 小于同古孜洛克站 $\left[ 0 . 5 2 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 } { \cdot } \left( 1 0 \mathrm { a } \right) ^ { - 1 } \right]$ ,这主要与喀拉喀什河和玉龙喀什河冰川积雪融水和地下水补给的比重不同有关，在年际变化中，喀拉喀什河稳定性优于玉龙喀什河。
+
+![](images/f1d0f4d7bb62eb755b4d2e71a39b3d730b7b87d8e359b0e3dbe704c4cd524eeb.jpg)  
+图8乌鲁瓦提站和同古孜洛克站多年月平均径流量M-K趋势检验结果  
+Fig.8M-K trend test of average monthly runoff in Wuluwati and Tongguziluoke station for many year
+
+重标极差分析表明未来一段时间年径流将持续表现为丰水期，但在年内变化中有很大的不确定性。由于和田河流域特殊的地理环境和复杂的气候变化，气候变化引起的水资源变幅无论在量还是在时空分布上都会使得水资源开发管理与生态环境可持续发展的矛盾更加突出。因此，后续研究应充分考虑气候和人类活动影响下，科学、合理、定量分配水资源，积极应对和适应气候变化带来的可能性影响，以确保“和田绿洲"生态安全和经济的可持续发展。
+
+# 4结论
+
+利用和田河源流乌鲁瓦提、同古孜洛克水文站天然径流资料，从年际趋势性和突变性再到年内、四季的径流演变特征，具体分析了和田河上游1957—2018年的径流演变过程，
+
+（1）乌鲁瓦提站和同古孜洛克站在20世纪50年代至90年代径流量均值低于多年平均值，为平水年；2000年代至2010年代为偏丰水年，径流量均值高于多年平均值；年代际间呈现“平水年-偏丰水年"演变过程，年代际变化率经历了由“小一大"变化过程。
+
+(2）乌鲁瓦提站和同古孜洛克站均在2009年发生突变，突变前后表现为“枯水期-丰水期"的演变过程，未来一段时间内将持续为丰水期。
+
+(3）在季节演变中，乌鲁瓦提站和同古孜洛克站四季径流量均有所增加，其中乌鲁瓦提站秋季径流量增加对年径流量贡献率最大，同古孜洛克站夏季径流增加对年径流量贡献率最大，春季和秋季径流量变化除受温度影响外还与相应季节降水因素有关。
+
+（4）和田河源流区年内径流分配极不均匀，径流主要集中在汛期(5—9月），占年径流的 $8 6 \%$ 以上，年内呈现出“冬枯夏洪"的特征，极易发生洪旱灾害，增加水利投资，建设调蓄工程对于流域水资源高效利用意义重大。
+
+# 参考文献(References):
+
+[1]Zhang Qiang,Liu Chunling,Xu Chongyu. Observed trends of annual maximum water level and streamflow during past 13O years in the Yangtze River basin, China[J].Journal of Hydrology,2O05,324 (1): 255-265. [2]李晓娟,张军龙,宋进喜,等.渭河陕西段径流量对经济用水的 响应[J].干旱区地理,2016,39(2):265-274.[Li Xiaojuan,Zhang Junlong,Song Jinxi,et al.Response of runoff to economic water consumptions of the Weihe River in Shaanxi Province[J].Arid Land Geography,2016,39(2): 265-274.] [3]何兵,高凡,闫正龙,等.叶尔羌河径流演变规律与变异特征[J]. 水资源与水工程学报,2018,29(1):38-43,49.[He Bing,Gao Fan,Yan Zhenglong,et al.Evolution and variation of runoff in Yarkant River[J].Journal of Water Resources and Water Engineering,2018,29(1): 38-43,49.] [4]杨琳琳,李波,付奇.基于BP神经网络模型的新疆水资源承载 力情景分析[J].北京师范大学学报(自然科学版),2016,52(2):   
+216-222.[Yang Linlin,Li Bo,Fu Qi. Scenario analysis of water resources carrying capacity in Xinjiang based on BP neural network model[J].Journal of Beijing Normal University(Natural Science),   
+2016,52(2): 216-222.] [5]傅丽昕.近50年塔里木河源流区气候变化及其对径流量的影 响[D].乌鲁木齐:新疆农业大学,2008.[Fu Lixin.Climate Change and its Influence on Runoff of Tarim River in Recent 50 years[D]. Urumqi: Xinjiang Agricultural University,2008.] [6]史文娟,王娟.和田河上游径流变化特征及影响因子分析[J].干 旱区资源与环境,2010,24(11):83-87.[Shi Wenjuan,Wang Juan.Runoff variation characteristics and influencing factors in the upper reaches of Hotan River[J]. Journal of Arid Land Resources and Environment, 2010,24(11): 83-87.]   
+[7]张晓伟,沈冰,黄领梅.和田河年径流变化规律研究[J].自然资 源学报,2007,22(6):974-979.[Zhang Xiaowei,Shen Bing, Huang Lingmei. Study on the variation law of the annual runoff in Hotan River[J]. Journal of Natural Resources,2007,22(6): 974-979.]   
+[8]罗敏,刘铁,黄粤,等.未来气候情景下和田河流域日径流过程 模拟[J].水资源与水工程学报,2016,27(2):11-17.[Luo Min, Liu Tie,Huang Yue,et al. Simulation of daily runoff process in Hotan River basin under scenario of future climate[J]. Journal of Water Resources and Water Engineering,2016,27(2): 11-17.]   
+[9]王杰,王俊,孙鑫.和田河流域水量沿程变化分析研究[J].水资 源与水工程学报,2013,24(3):142-148.[Wang Jie,Wang Jun, Sun Xin.Analysis of water change along Hotan River basin[J]. Journal of Water Resources and Water Engineering,2O13,24(3): 142-148.]   
+[10] 沈冰,黄领梅,阮本清,等.和田绿洲水循环要素变化特征[J].水 利学报,2003,12(5):78-83.[Shen Bing,Huang Lingmei,Ruan Benqing,et al. Study on the water cycling characteristics of Hotan oasis during thesecond halfof lastcentury[J].Journalof Hydraulic Engineering, 2003,12(5): 78-83.]   
+[11] 吴益,程维明,任立良,等.新疆和田河流域河川径流时序特征 分析[J].自然资源学报,2006,21(3): 375-381.[Wu Yi,Cheng Weiming,Ren Liliang,et al.Analysis on the characteristics of annual runoff in Hotan catchment[J]. Journal of Natural Resources, 2006,21(3): 375-381.]   
+[12] 秦胜英,黄领梅,沈冰,等.新疆和田河径流损失辨析[J].水资源 与水工程学报,2015,26(4): 85-8[Qin Shengying,Huang Lingmei, Shen Bing,et al.Discussion on the runoff loss from the Hotan River in Xinjiang[J]. Journal of Water Resources and Water Engineering,2015,26(4): 85-88.]   
+[13] 鲁凤,钱鹏,胡秀芳,等.基于小波分析与Mann-Kendall法的上 海市近12年空气质量变化[J].长江流域资源与环境,2013,22 (12):1614-l620.[Lu Feng,Qian Peng,Hu Xiufang,et al.Air quality changes of Shanghai recent 12 years based on wavelet analysis and Mann-Kendal method[J]. Resources and Environment in theYangtze Basin,2013,2 (12): 1614-1620.]   
+[14]孙栋元,齐广平,鄢继选,等.疏勒河干流降水变化特征[J].干旱 区研究,2020,37(2):291-303.[Sun Dongyuan,Qi Guangping, Yan Jixuan,et al. Research on variation characteristics of precipitation in the mainstream of Shule River[J].Arid Zone Research, 2020,37(2): 291-303.]   
+[15] 春兰,秦福莹,宝鲁,等.近55 a内蒙古极端降水指数时空变化 特征[J].干旱区研究,2019,36(4): 963-972.[Chun Lan, Qin Fuying,Bao Lu,et al. Spatiotemporal variation of extreme precipitation indices in Inner Mongolia in recent55 years[J].Arid Zone Research,2019,36(4): 963-972.]   
+[16] 牟乐,芦奕晓,杨惠敏,等.1981—2015年中国西北牧区植被覆 盖的时空变化[J].干旱区研究,2018,35(3):615-623.[Mou Le, Lu Yixiao,Yang Huimin,et al.Spatiotemporal variation of vegetation cover in the pastoral area in northwestern China during the period of 1981-2015[J]. Arid Zone Research,2018,35(3):615-   
+623.] [17] 张蓓蓓,王朋,张辉,等.近63a安康地区降水与太阳黑子活动 的相关性分析[J].干旱区研究,2018,35(6):1336-1343.[Zhang Beibei, Wang Peng, Zhang Hui,et al. Correlation between sunspot activity and precipitation in the Ankang region in recent 63 years [J]. Arid Zone Research,2008,35(6): 1336-1343.] [18] 李琬欣,熊东红,张素,等.四川凉山州孙水河流域近60年来径 流趋势特征分析[J].水土保持学报,2020,34(2):130-137.[Li Wanxin, Xiong Donghong, Zhang Su, et al.Trends analysis of Sunshuihe River Basin for the last six decades in Liangshan Prefecture,Sichuan Province[J]. Journal of Soil and Water Conservation,   
+2020,34(2): 130-137.] [19]王玉洁,秦大河.气候变化及人类活动对西北干旱区水资源影 响研究综述[J].气候变化研究进展,2017,13(5):483-493. [Wang Yujie,Qin Dahe. Influence of climate change and human activity water resources in arid region of Northwest China: An overview[J]. Climate Change Research,2017,13(5): 483-493.] [20]Li Baofu, ChenYaning,Chen Zhongsheng,etal.Whydoesrecipitation in Northwest China show a significant increasing trend from   
+1960 to 2010?[J].Atmospheric Research,2016,167: 275-284. [21] 任国玉,初子莹,周雅清,等.中国气温变化研究最新进展[J].气 候与环境研究,2005,10(4):701-716.[Ren Guoyu,Chu Ziying, Zhou Yaqing, et al. Recent progresses in studies of regional temperature changes in China[J]. Climatic and Environmental Research,2005,10(4): 701-716.] [22] 黄领梅,沈冰.和田河汇入塔里木河径流演变及成因分析[J].水 资源与水工程学报,2012,23(2):26-28,32.[Huang Lingmei, Shen Bing.Analysis on runoff evolution and cause of Hotan River flowing into the Tarim River[J]. Journal of Water Resources and Water Engineering,2012,23(2): 26-28,32.] [23] 董弟文,阿布都热合曼·哈力克,王大伟,等.近 60年和田河源 流区径流特征及对气候变化的响应[J].中国水利水电科学研 究院学报,2018,16(6): 536- 543.[Dong Diwen,Abdirahman Halik,Wang Dawei,et al. Characteristics of runoff and response to climate change in the Hotan river source area in recent six decades[J]. Journal of China Institute of Water Resources and Hydropower Research,2018,16(6): 536-543.] [24]刘时银.冰川观测与研究方法[M].北京:科学出版社,2012. [Liu Shiyin. Glacier Observation and Research Methods[M]. Beijing: Science Press, 2012.] [25] 陈亚宁,李稚,范煜婷,等.西北干旱区气候变化对水文水资源 影响研究进展[J].地理学报,2014,69(9):1295-1304.[Chen Yaning,Li Zhi,Fan Yuting, etal. Research progress on the impact of climate change on water resources in the arid region of Northwest China[J]. Acta Geographica Sinica,2014,69(9): 1295-1304.] [26] 杨鹏,陈亚宁,李卫红,等.2003—2012年新疆塔里木河径流量 变化与断流分析[J].资源科学,2015,37(3):485-493.[Yang
+
+Peng,Chen Yaning,Li Weihong,et al.Analysis of changes in runoff and drying in the Tarim River from 2003 to 2O12[J].Resources Science,2015,37(3): 485-493.]
+
+[27]陈忠升.中国西北干旱区河川径流变化及归因定量辨识[D].上 海：华东师范大学,2016.[Chen Zhongsheng.Quantitative Identification of River Runoff Change and its Attribution in the Arid Region of Northwest China[D]. Shanghai: East China Normal University, 2016.]
+
+# Evolution characteristics of the headstream of the Hotan River headstream from 1957 to 2018
+
+YU Qiying'， ZHANG Jianghui， BAI Yungang²， WANG Shuo³, JIANG Zhu'， CAO Biao²， LU Zhenlin²   
+(1.Schoolof Water Conservancyand Civil Engineering,Xinjiang Agricultural University,Urumqi 830o52,Xinjiang, China;2.Xinjiang Institute of Water Resourcesand Hydropower Research, Urumqi 83O049,Xinjiang, China;   
+3.College of Water Conservancyand Architectural Engineering,Tarim University,Alar 843ooo,Xinjiang, China)
+
+Abstract: The evolution characteristics of river runoff are of great importance to the management and efficient use of water resources in a river basin. Based on 62 years (1957-2O18) of runof measurement data from Wuluwati station and Tongguziluoke station in the headstream area of the Hotan River, the evolution characteristics of its runoff were assessed using linear trend tests,Mann-Kendal trend tests,and rescaled range analysis.These evolution characteristics were analyzed on four time scales including seasons and months.Results showed that the interdecadal variation characteristics of runoff at Wuluwati station and Tongguziluoke station were the same: Both had experienced a“normal water year-preferential wet year”and the annual runoffs at both stations were equal (they showed a nonsignificant increasing trend).The mutation points of the runof sequence wereallin 2Oo9 and the future annual runoffis predicted to continue to increase for acertain period.The summer and autumn runoff changes at Wuluwati station had the greatest impact on annual runoff, whereas the summer runoff at Tongguziluoke station had the greatest impact onannual runof.Finally, the distribution ofrunoff during the year was uneven; it was mainly concentrated in May- September, which accounted for $8 6 . 1 1 \% - 9 0 . 8 6 \%$ of runoff, indicating a trend for“dry winters and flooding in summer".
+
+Keywords: Hotan River; linear trend; runoff change; Mann-Kendall test; rescaled range analysis

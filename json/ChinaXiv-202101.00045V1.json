@@ -1,0 +1,409 @@
+[
+    {
+        "type": "text",
+        "text": "Spectral parameter-based models for leaf potassium concentration estimation in Ping'ou hybrid hazelnut ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAOShanchao,PANCunde ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "College of Forestry and Horticulture,Xinjiang Agricultural University,Urumqi 83oo52,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Ping'ou hybrid hazelnut is produced by cross cultivation and is widely cultivated in northern China with good development prospects. Based on a field experiment of fertilizer eficiency, the leaf spectral reflectance and leaf potassium $( \\mathrm { K } )$ concentration were measured with different quantities of K fertilizer applied at four fruit growth stages (fruit setting stage,fruit rapid growth stage,fruit fat-change stage,and fruit near-maturity stage) of Ping'ou hybrid hazelnut in 2O19. Spectral parameters that were significantly correlated with leaf $\\mathrm { \\ K }$ concentration were selected using Pearson correlation analysis,and spectral parameter estimation models of leaf K concentration were established by employing six different modellng methods (exponential function, power function,logarithmic function,linear function,quadratic function,and cubic function).The results indicated that at the fruit seting period,leaf K concentration was significantly correlated with $D _ { y }$ (spectra slope of yellow edge), $R _ { g }$ (reflectance of the green peak position), $\\lambda _ { o }$ (red valley position), $S D _ { b }$ (blue edge area), $S D _ { r } / S D _ { b }$ (where $S D _ { r }$ represents red edge area), and $( S D _ { r } { - } S D _ { b } ) / ( S D _ { r } { + } S D _ { b } )$ $( P { < } 0 . 0 1 )$ . There were significant correlations of leaf $\\mathrm { K }$ concentration with $D _ { y } , R _ { g } ,$ $S D _ { b } ,$ （204 $R _ { g } / R _ { o }$ (where $\\textstyle \\mathrm { \\mathrm { ~ R ~ } } _ { o }$ is the reflectance of the red valley position),and $( \\boldsymbol { { \\mathrm { R } } } _ { \\mathcal { G } } - \\boldsymbol { { \\mathrm { R } } } _ { o } ) / ( \\boldsymbol { { \\mathrm { R } } } _ { g } + \\boldsymbol { { \\mathrm { R } } } _ { o } )$ at the fruit rapid growth stage $( P { < } 0 . 0 1 )$ . Further, significant correlations of leaf K concentration with $R _ { g } ,$ （204号 $R _ { o } ,$ RNIR/Green, and RNIR/Blue were obtained at the fruit fat-change period $( P { < } 0 . 0 1 )$ . Finally， leaf $\\mathrm { \\Delta K }$ concentration showed significant correlations with $D _ { r } , \\mathrm { R } _ { g } , \\mathrm { R } _ { o } , S D _ { y }$ (yellow edge area),and $S D _ { r }$ at the fruit near-maturity stage $( P { < } 0 . 0 1 )$ . Through a cubic function analysis,regression estimation model of leaf $\\mathrm { K }$ concentration with highest fitting degree $( R ^ { 2 } )$ values at the four fruit growth stages was established. The findings in this study demonstrated that it is feasible to estimate leaf $\\mathrm { K }$ concentration of Ping'ou hybrid hazelnut at the various phenological stages of fruit development by establishing regresson models between leaf K concentration and spectral parameters. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: leaf $\\mathrm { K }$ concentration; spectrum; cubic function; regression models; fruit growth stages; Ping'ou hybrid lazelnut ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ping'ou hybrid hazelnut is a hybrid of Corylus that has strong adaptability and has been widely planted in China.It is mainly produced by crossbreeding between the native Corylus heterophylla from China and the exotic Corylus avellana from Europe.This hybrid hazelnut has the characteristics of cold resistance,drought resistance,and strong adaptability from C. heterophylla, alongside the characteristics of a large，thin shell and high yield from C.avellana. These characteristics give it broad prospects for production, development, and utilization (Wang et al., 2020).Potassium (K) is one of the essential mineral elements in plants (Allen and David, 2007; Izhar and Frans,2014; Nieves-Cordones et al.,2014; Lu et al.,202O); it plays an important role in the synthesis of many enzymes,proteins, starches,and cellulose. Although K does not participate in the organic composition of plants (Maathuis et al.,1999), it is an indispensable nutrient element for plant growth and development (Koch and Mengel,1974). K exists in an ionic form in plants; it has strong mobility and plays an important role in plant metabolic processes and the structure of cells and tissues (Alex,2Oo6). It has many physiological functions in the growth and development of fruit trees,flowering,and fruiting (Zhao et al.,2O14).K management is an important basis for increasing fruit yield and improving fruit quality (Wang et al., 2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In actual production practices,as a hazelnut variety widely planted in Xinjiang Uygur Autonomous Region of China, field cultivation and management technology of this crop are relatively underdeveloped and lack professonal scientific and technical support (Shan et al.,2015). This directly affects the growth and fruiting of Ping'ou hybrid hazelnut,resulting in low yields and uneven quality (Hu et al., 2O19). Therefore,understanding how to accurately and quickly diagnose K deficiency in hazelnut as well as the change in K concentration in real-time,to supply K elements and recognize K demand in the external soil,and to achieve on-demand and precise fertilization is of great significance for the fertilization of Ping'ou hybrid hazelnut. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For this reason，an active spectrometer (UniSpec-SC） was used to directly determine the spectral reflectance of tree leaves and to screen the spectral parameters that are significantly related to the leaf K concentration during four growth periods of Ping'ou hybrid hazelnut. With the leaf K concentration as the dependent variable and the spectral parameters as the independent variables,a spectral estimation model was established,and independent testing of the model was carried out.It is our hope that the result of this study could provide a technical reference for rapid monitoring of leaf K concentration and for scientific guidance of field fertilization for Ping'ou hybrid hazelnut. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Study area and experimental designing ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted in the Hybrid Hazelnut High-yield Cultivation Demonstration Garden of the Comprehensive Test Fields of Xinjiang Academy of Agricultural Sciences $( 4 3 ^ { \\circ } 4 5 ^ { \\prime } 3 2 ^ { \\prime \\prime } -$ $4 4 ^ { \\circ } 0 8 ^ { \\prime } 0 0 ^ { \\prime } \\mathrm { N }$ ， $8 6 ^ { \\circ } 3 7 ^ { \\prime } 3 3 ^ { \\prime \\prime } – 8 8 ^ { \\circ } 5 8 ^ { \\prime } 2 4 ^ { \\prime \\prime } \\mathrm { E } )$ in Urumqi City of Xinjiang Uygur Autonomous Region, China. The orchard in which the test plots were located is approximately $2 \\ \\mathrm { h m } ^ { 2 }$ . The altitude is $9 3 5 . 3 \\mathrm { ~ m ~ }$ ，the annual average temperature is $6 . 9 ^ { \\circ } \\mathrm { C }$ ，the average annual precipitation is $2 0 8 . 3 \\ \\mathrm { m m }$ the evaporation is $2 6 1 6 . 9 \\ \\mathrm { m m }$ ，the frost-free period is 1O5-168 d,and the sunlight duration is $2 8 1 3 . 5 \\mathrm { h }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, \"Xinzhen 1\" hybrid hazelnuts were used as the test material, and \"Xinzhen $2 \"$ hybrid hazelnuts were selected as the pollination cultivar. The spacing between the plot rows was $1 . 5 ~ \\mathrm { m } { \\times } 4 . 0 ~ \\mathrm { m }$ ，and the tree age was 8-year-old. The trees were planted in a north-south direction. The plant form and crown width of the selected tree species were the same.The soil in the test garden was sandy soil with a deep soil depth containing $0 . 9 1 4 \\%$ organic matter, $3 8 . 2 0 ~ \\mathrm { m g / k g }$ available nitrogen (N), $7 . 9 7 \\mathrm { m g / k g }$ available phosphorous (P),and $1 1 4 . 6 7 ~ \\mathrm { m g / k g }$ available K. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A field trial examining the effects of \"3414\"(Zhang et al., 2O11） fertilizer was conducted for artificial quantitative control over fertilization in hybrid hazelnut samples, which was carried out in the form of circular furrow application before the trees germinated in early April 2O17. Three fertilizerfactors,i.e.,N,P,and K, were set in the experiment.There were 14 fertilizer treatments in total at four levels,including no fertilization,O.5 times the conventional fertilization quantity,the conventional fertilization quantity，and 1.5 times the conventional fertilization quantity. Each treatment was allocated among 3 replicated plots,resulting in a total of 42 test plots with 1O trees in each test plot. The conventional fertilization quantities (scalar) of N,P,and K for each plant were 0.7, 0.3, and $0 . 2 \\mathrm { k g }$ ,respectively. The N fertilizer was urea containing $4 6 \\%$ $\\mathrm { C O } ( \\mathrm { N H } _ { 2 } ) _ { 2 }$ produced by CNPC Xinjiang Tarim Oilfield Company, China; the $\\mathrm { \\bf P }$ fertilizer was coarse whiting containing $4 6 \\%$ （20 $\\mathrm { [ C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } ] P _ { 2 } O _ { 5 } }$ produced by Yunnan Yuntianhua International Chemical Co., Ltd., China; and the K fertilizer was potassium sulfate-containing $51 \\%$ $( \\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 } ) \\mathrm { K } _ { 2 } \\mathrm { O }$ produced by SDIC Xinjiang LuobupoHoevellite Co.Ltd., China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Spectral data collection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Instrument ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The UniSpec-SC (single channel) portable spectrum analyser (PP Systems Inc., USA) was used in this study. This type of spectrum analyser has a light source and can perform continuous measurements,with a measurement range of $3 1 0 { \\mathrm { - } } 1 1 3 0 ~ \\mathrm { n m }$ .The spectral resolution was lower than $1 0 \\ \\mathrm { n m }$ ，and the number of output bands was 821 (data were resampled at a resolution of $1 \\ \\mathrm { n m }$ by the spectrometer). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Sampling time ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data were collected on clear and windy days during 12:00-15:0O (LST) at four fruit growth stages of Ping'ou hybrid hazelnut in 2019,including the fruit seting stage (25 May 2019), fruit rapid growth stage (25 June 2019),fruit fat-change stage (25 July 2O19),and fruit near-maturity stage (30 August 2019). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Leaf collection and determination of leaf K concentration ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After the standard calibration of the spectral analyser,1O healthy leaves were collected from the current year's fresh branches of Ping'ou hybrid hazelnut in the middle and upper periphery of the canopy in the east,south, west,and north of all the sample plants in each test plot; the collection was repeated 6 times. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To ensure one-to-one correspondence between measured leaf K concentration and measured spectral parameters，we collected the leaves when the spectral parameter data values were measured at each fruit growth stage.The leaf samples collected in the same test plot were mixed into one sample,fora total of168 samples (42 test plots $\\times 4$ stages).After collection, the leaves were cleaned with absorbent cotton, dehydrated at $1 0 5 ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { m i n }$ , dried at constant weight at $8 0 ^ { \\circ } \\mathrm { C }$ crushed,and passed through a 6O-mesh nylon sieve. Leaf K concentration was determined qualitatively and quantitatively by identifying characteristic spectral lines by the flame photometry method (Payal and Bably, 2020). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Data analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows the 25 spectral parameters that can predict the leaf $\\mathsf { K }$ concentration in this experiment. Pearson correlation analysis was used to screen out the spectral parameters that were significantly correlated with leaf K concentration at different fruit growth stages,and a two-sided test was also performed.The leaf K concentration of Ping'ou hybrid hazelnut was considered as the dependent variable $( y )$ ,and the spectral parameters that were significantly correlated with leaf K concentration at fruit different growth stages were considered as the independent variables $( x )$ . Six different modelling methods，namely，exponential function $\\scriptstyle ( y = \\mathrm { a e } ^ { \\mathrm { b } x } )$ ，power function $( y { = } \\mathrm { a } x ^ { \\mathrm { b } } )$ ， logarithmic function $\\scriptstyle ( y = \\mathrm { a l n } x + b )$ ，linear function $( y = \\mathbf { a } x + \\mathbf { b } )$ ，quadratic function $( y = \\operatorname { a x } ^ { 2 } - \\operatorname { b } x + \\operatorname { c } )$ ，and cubic function $( y { = } \\mathrm { a } x ^ { 3 } { + } \\mathrm { b } x ^ { 2 } { + } \\mathrm { c } x { + } \\mathrm { d } )$ ,were used to build the regression models. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We determined the optimal model based on fitting degree $( R ^ { 2 } )$ ,and calculated the residuals of the regression model with the largest $R ^ { 2 }$ at different fruit growth stages tested by normal, independent, and equal variance tests to judge the validity and reliability of the regresson relationship.The normal distribution of the regression model residuals was tested by normal distribution chi-square test of the residuals,the independence was tested by Durbin-Watson (DW） method,and the homogeneity of variance was determined by Levene's test (W). Using independent samples,the model's accuracy was estimated using the root mean square error (RMSE) and relative error (RE). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data calculations were conducted using Microsoft Excel 2OO7 software,and statistical analyses were performed using SPSS 21.O software. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7bd28378a89e26c9147811cc7faf41ae02c1865c8379830b731af29505d77017.jpg",
+        "table_caption": [
+            "Table 1 Types of spectral parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Parameter based on spectral index</td><td>Parameter based on spectral position</td><td>Parameter based on spectral area</td></tr><tr><td>RNIR/Green</td><td>Db (spectra slope of blue edge)</td><td>SDb (blue edge area)</td></tr><tr><td>RNIR/Red</td><td>b (blue edge position)</td><td>SDy (yellow edge area)</td></tr><tr><td>RNIR/Blue</td><td>D, (spectra slope of red edge)</td><td>SD, (red edge area)</td></tr><tr><td>SD,/SDb</td><td>𝜆, (red edge position)</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/af9acd3e1b153b495854de36b867a34d91e0e2143e0a03de072a193dc462d377.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SD,ISDy</td><td>Dy (spectra slope of yellow edge)</td></tr><tr><td>Rg/Ro</td><td>y (yellow edge position)</td></tr><tr><td>(NIR-Green)/(NIR+Green)</td><td>Rg (reflectance of the green peak position)</td></tr><tr><td>(NIR-Red)/(NIR+Red)</td><td>λg (green peak position)</td></tr><tr><td>(NIR-Blue)/(NIR+Blue)</td><td>R(reflectance of the red valley position)</td></tr><tr><td>(SD,-SDb)/(SD,+SDb)</td><td> (red valley position)</td></tr><tr><td>(Rg-Ro)/(Rg+R)</td><td></td></tr><tr><td>(SD,-SDy)/(SD,+SDy)</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note: $D _ { b }$ ,the maximum first-order differential at $4 9 0 { - } 5 3 0 \\ \\mathrm { n m }$ $\\lambda _ { b }$ ,the wavelength position for $D _ { b }$ $S D _ { b }$ ,the sum of the first-order differential values at $4 9 0 - 5 3 0 ~ \\mathrm { n m }$ 5 $D _ { y }$ ,the maximum first-order differential at $5 5 0 { - } 5 8 0 ~ \\mathrm { n m }$ $\\lambda _ { y }$ ,the wavelength position for $D _ { y }$ $S D _ { y }$ ，the sum of the first-order differential values at $5 5 0 { - } 5 8 0 \\ \\mathrm { n m }$ $D _ { r }$ ，the maximum first-order differential at $6 8 0 { - } 7 5 0 \\ \\mathrm { n m }$ 5 $\\lambda _ { r } ,$ the wavelength position for $D _ { r }$ $S D _ { r }$ ,the sum of the first-order differential values at $6 8 0 { - } 7 5 0 \\ \\mathrm { n m }$ $R _ { g }$ ,the maximum wavelength reflectivity at $5 1 0 { - } 5 6 0 ~ \\mathrm { n m }$ $\\lambda _ { g }$ ，the wavelength position for $R _ { g }$ 5 $R _ { o }$ ,the maximum wavelength reflectivity at $6 4 0 { - } 6 8 0 \\ \\mathrm { n m }$ $\\lambda _ { o }$ ,the wavelength position for $R _ { o }$ ；NIR, wavelength range at $7 6 0 - 8 5 0 ~ \\mathrm { n m }$ ；Green,wavelength range at $5 1 0 { - } 5 6 0 \\ \\mathrm { n m }$ ；Red,wavelength range at $6 5 0 { - } 6 7 0 ~ \\mathrm { n m }$ ；Blue,wavelength range at $3 5 0 { \\mathrm { - } } 4 0 0 \\ \\mathrm { n m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Correlation between leaf $\\mathbf { K }$ concentration and spectral parameters at different fruit growth stages ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Fruit setting stage ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 2, leaf K concentration showed significant positive correlations with $D _ { b }$ (spectra slope of blue edge), $\\lambda _ { g }$ (green peak position)，and $R _ { o }$ (reflectance of the red valley position) $( P { < } 0 . 0 5 )$ ，and highly significant positive correlations with $D _ { y }$ (spectra slope of yellow edge), $R _ { g }$ （204号 (reflectance of the green peak position), $\\lambda _ { o }$ (red valley position), and $S D _ { b }$ (blue edge area) $( P { < } 0 . 0 1 )$ （20 at the fruit seting stage. There were highly significant and negative correlations of leaf $\\mathrm { \\bf K }$ （204号 concentration with $S D _ { \\boldsymbol { r } } / S D _ { \\boldsymbol { b } }$ (where $S D _ { r }$ represents red edge area） and $( S D _ { r } – S D _ { b } ) / ( S D _ { r } + S D _ { b } )$ （20 $( P { < } 0 . 0 1 )$ at the fruit setting stage. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/955725c42612f7ef0b575115e03f1e41f838022fa9e39e0c94ef7d1cd1d15199.jpg",
+        "table_caption": [
+            "Table 2Pearson correlation coefficients between leaf K concentration and spectral parameters of Ping'ou hybrid hazelnut at the fruit setting stage "
+        ],
+        "table_footnote": [
+            "Note: $r$ ,Pearson correlation coefficient.\\*\\* means that correlation is highly significant at $P { < } 0 . 0 1$ level;\"means that correlation is significant at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Spectral parameter</td><td>r</td><td>Spectral parameter</td><td>r</td></tr><tr><td>Db</td><td>0.6941*</td><td>RNIR/Green</td><td>-0.3152</td></tr><tr><td>hb</td><td>-0.3491</td><td>RNIR/Red</td><td>-0.2781</td></tr><tr><td>D</td><td>0.5121</td><td>NIR/Blue</td><td>0.4457</td></tr><tr><td></td><td>-0.4801</td><td>SDJSDb</td><td>-0.6628**</td></tr><tr><td>Dy</td><td>0.9422**</td><td>SD,/SDy</td><td>-0.0497</td></tr><tr><td>ly</td><td>-0.0041</td><td>Rg/Ro</td><td>0.1331</td></tr><tr><td>Rg</td><td>0.7891**</td><td>(NIR-Green)/(NIR+Green)</td><td>-0.3015</td></tr><tr><td></td><td>0.6501*</td><td>(NIR-Red)/(NIR+Red)</td><td>-0.2914</td></tr><tr><td>R</td><td>0.6561*</td><td>(NIR-Blue)/(NIR+Blue)</td><td>0.4291</td></tr><tr><td></td><td>0.6752**</td><td>(SD,-SDb)/(SD,+SDb)</td><td>-0.6948**</td></tr><tr><td>SDb</td><td>0.7471**</td><td>(SD,-SDy)/(SD,+SDy)</td><td>-0.5062</td></tr><tr><td>SDy</td><td>0.0901</td><td>(Rg-Ro)/(Rg+R)</td><td>0.1231</td></tr><tr><td>SDr</td><td>0.4292</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 Fruit rapid growth stage ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From Table 3 it can be seen that there were significant positive correlations of leaf K concentration with $D _ { b }$ and $S D _ { r }$ 0 $_ { ( P < 0 . 0 5 ) }$ and highly significant positive correlations of leaf K concentration with $D _ { y }$ $R _ { g } , \\lambda _ { o } , S D _ { b } , R _ { g } / R _ { o }$ ,and $( R _ { g } – R _ { o } ) / ( R _ { g } + R _ { o } )$ （20 $( P { < } 0 . 0 1 )$ at the fruit rapid growth stage.However, there was a highly significant negative correlation between leaf K concentration and $S D _ { b }$ $( P { < } 0 . 0 1 )$ at this stage. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d0d54801f6811922910bfc8202609e6b630e40171a0850f47412d82edef847c.jpg",
+        "table_caption": [
+            "Table 3Pearson correlation coeficients between leaf K concentration and spectral parameters of Ping'ou hybrid hazelnut at the fruit rapid growth stage "
+        ],
+        "table_footnote": [
+            "Note: $r$ ，Pearson correlation coefficient.\\*\\* means that correlation is highly significant at $P { < } 0 . 0 1$ level;\\*means that correlation is significant at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Spectral parameter</td><td>r</td><td>Spectral parameter</td><td>r</td></tr><tr><td>Db</td><td>0.6581*</td><td>RNIR/Green</td><td>-0.0291</td></tr><tr><td>2b</td><td>-0.0211</td><td>RNIR/Red</td><td>0.3091</td></tr><tr><td>Dr</td><td>0.4782</td><td>NIR/Blue</td><td>0.4352</td></tr><tr><td></td><td>0.1152</td><td>SD,/SDb</td><td>-0.4373</td></tr><tr><td>Dy</td><td>0.9461**</td><td>SD/SDy</td><td>0.1973</td></tr><tr><td>ay</td><td>-0.1451</td><td>Rg/Ro</td><td>0.6831**</td></tr><tr><td>Rg</td><td>0.7652**</td><td>(NIR-Green)/(NIR+Green)</td><td>-0.0161</td></tr><tr><td>g</td><td>0.3031</td><td>(NIR-Red)/(NIR+Red)</td><td>0.3211</td></tr><tr><td>R0</td><td>0.0672</td><td>(NIR-Blue)/(NIR+Blue)</td><td>0.4272</td></tr><tr><td></td><td>0.5222</td><td>(SD,-SDb)/(SD,+SDb)</td><td>-0.4942</td></tr><tr><td>SDb</td><td>0.7281**</td><td>(SD,-SDy)/(SD,+SDy)</td><td>0.1532</td></tr><tr><td>SDy</td><td>-0.5441*</td><td>(Rg-Ro)/(Rg+Ro)</td><td>0.6821**</td></tr><tr><td>SD,</td><td>0.5811*</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 Fruit fat-change stage ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 4, there was a significant positive correlation between leaf K concentration and (NIR-Blue)/ $\\mathbf { \\Gamma } ( \\mathbf { N I R + B l u e } )$ $( P { < } 0 . 0 5 )$ ； and there were highly significant positive correlations of leaf K concentration with $R _ { g } , R _ { o }$ ，and NIR/Blue $( P { < } 0 . 0 1 )$ at the fruit fat-change stage.However, leaf K concentration showed significant negative correlations with RNIR/Red and (NIR-Red)/(NIR+Red) （204号 $( P { < } 0 . 0 5 )$ ，and highlysignificant negative correlationswith RNIR/Green and (NIRGreen)/(NIR+Green) $( P { < } 0 . 0 1 )$ at this stage. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa9528f87bfc3cd9cb7d0c3e5dd6f7670f015b05533aba31b942d8731084b8fa.jpg",
+        "table_caption": [
+            "Table 4Pearson correlation coefficients between leaf K concentration and spectral parameters of Ping'ou hybrid hazelnut at the fruit fat-change stage "
+        ],
+        "table_footnote": [
+            "Note: $r$ ，Pearson correlation coefficient.\\*\\* means that correlation is highly significant at $P { < } 0 . 0 1$ level;\\*means that correlation is significant at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Spectral parameter</td><td>r</td><td>Spectral parameter</td><td>r</td></tr><tr><td>Db</td><td>0.3831</td><td>RNIR/Green</td><td>-0.7312**</td></tr><tr><td>2b</td><td>-0.0762</td><td>RNIR/Red</td><td>-0.5532*</td></tr><tr><td>D</td><td>0.4623</td><td>NIR/Blue</td><td>0.6662**</td></tr><tr><td>2r</td><td>0.4601</td><td>SD/SDb</td><td>-0.2692</td></tr><tr><td>Dy</td><td>0.3781</td><td>SD,/SDy</td><td>0.2122</td></tr><tr><td>ay</td><td>-0.2322</td><td>Rg/Ro</td><td>0.3461</td></tr><tr><td>Rg</td><td>0.8262**</td><td>(NIR-Green)/(NIR+Green)</td><td>-0.7341**</td></tr><tr><td>g</td><td>-0.2171</td><td>(NIR-Red)/(NIR+Red)</td><td>-0.5581*</td></tr><tr><td>R0</td><td>0.8591**</td><td>(NIR-Blue)/(NIR+Blue)</td><td>0.6641*</td></tr><tr><td></td><td>0.3101</td><td>(SD,-SDb)/(SD,+SDb)</td><td>0.2321</td></tr><tr><td>SDb</td><td>0.3772</td><td>(SD,-SDy)/(SD,+SDy)</td><td>0.3165</td></tr><tr><td>SDy</td><td>0.3712</td><td>(R-R)/(Rg+R)</td><td>0.3341</td></tr><tr><td>SD,</td><td>0.3912</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.4 Fruit near-maturity stage ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As Table 5 depicted,leaf K concentration exhibited significant positive correlations with $D _ { y }$ and $S D _ { b }$ $( P { < } 0 . 0 5 )$ ,and highly significant positive correlations with $D _ { r } , R _ { g } , R _ { o } , S D _ { y }$ (yellow edge area), $S D _ { r } ,$ and NIR/Blue $( P { < } 0 . 0 1 )$ at the fruit near-maturity stage. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 5Pearson correlation coefficients between leaf Kconcentration and spectral parameters of Ping'ou hybrid hazelnut at the fruit near-maturity stage ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca54f68e3865bec32720b4978cd04b1ae6fe300db5f0c4deb96af665cb0956a3.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Note: $r$ ，Pearson correlation coefficient.\\*\\* means that correlation is highly significant at $P { < } 0 . 0 1$ level;\"means that correlation is significant at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Spectral parameter</td><td>、</td><td>Spectral parameter</td><td>r</td></tr><tr><td>Db</td><td>0.4951</td><td>RNIR/Green</td><td>0.0042</td></tr><tr><td></td><td>0.3011</td><td>RNIR/Red</td><td>0.0641</td></tr><tr><td>Dr</td><td>0.7982**</td><td>NIR/Blue</td><td>0.4553</td></tr><tr><td></td><td>-0.4791</td><td>SD,/SDb</td><td>-0.2691</td></tr><tr><td>Dy</td><td>0.6011*</td><td>SD/SDy</td><td>0.5212</td></tr><tr><td>ly</td><td>-0.4225</td><td>Rg/Ro</td><td>0.4761</td></tr><tr><td>Rg</td><td>0.9201**</td><td>(NIR-Green)/(NIR+Green)</td><td>0.0209</td></tr><tr><td>2g</td><td>0.0011</td><td>(NIR-Red)/(NIR+Red)</td><td>0.0712</td></tr><tr><td>R</td><td>0.9101**</td><td>(NIR-Blue)/(NIR+Blue)</td><td>0.4481</td></tr><tr><td></td><td>0.0012</td><td>(SD,-SDb)/(SD,+SDb)</td><td>-0.2461</td></tr><tr><td>SDb</td><td>0.6681*</td><td>(SD,-SDy)/(SD,+SDy)</td><td>0.4392</td></tr><tr><td>SDy</td><td>0.6871**</td><td>(Rg-R)/(Rg+R)</td><td>0.4701</td></tr><tr><td>SDr</td><td>0.7912**</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Comparison of fitting degree among diffrent models of leaf K concentration and spectral parameters at different fruit growth stages ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study,the leaf K concentration of Ping'ou hybrid hazelnut was considered as the dependent variable $( y )$ ,and the spectral parameters that had significant correlations with leaf $\\mathrm { \\bf K }$ concentration were selected as the independent variables $( x )$ . The regression models were established using six different modeling equations: power function, exponential function,logarithmic function, linear function, quadratic function,and cubic function.As shown in Table 6,all four fruit growth stages showed the highest fitting degree $( R ^ { 2 } )$ values for the regression model established by the cubic function. The best estimators were as follows: $D _ { y }$ for the fruit setting stage; $D _ { y }$ for the fruit rapid growth stage; $R _ { o }$ for the fruit fat-change stage; and $R _ { g }$ for the fruit near-maturity stage. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Validation for the optimal estimation model of leaf K concentration ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Residuals of the estimation model of leaf K concentration established by the cubic regression equation with the highest fitting degree $( R ^ { 2 } )$ values were tested.As can be seen from Table 7, the residuals of the model all followed a normal distribution; the residuals were independent of each other, there was no first-order autocorrelation,and the variance difference was not significant. The results showed that the regression model between leaf K concentration and spectral parameters established by the cubic regression equation is valid. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Samples were randomly and independently selected to test the spectral characteristic estimation model for leaf K concentration at the selected four fruit growth stages (Fig.1).The RMSE values of the spectral characteristic estimation model were 0.2236, 0.4311, 0.1151,and $0 . 0 1 7 5 ~ \\mathrm { g / k g }$ ,at the fruit setting stage, fruit rapid growth stage, fruit fat-change stage,and fruit near-maturity stage, respectively; the RE values of the spectral characteristic estimation model were $4 . 1 9 4 1 \\%$ ， $7 . 0 6 0 8 \\%$ ， $0 . 2 4 0 6 \\%$ ，and $0 . 7 0 4 4 \\%$ for the four growth stages,respectively. The data showed that the model has a relatively high estimation accuracy. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results showed that there was a strong correlation between leaf K concentration and $D _ { y }$ at the fruit setting stage and fruit rapid growth stage. This is largely because the main factors afecting the spectral reflectivity in the visible light band are lutein,lycopene,anthocyanins,and other pigments. Lutein and lycopene have absorption bands at approximately $4 5 0 \\ \\mathrm { n m }$ ; the main absorption band of chlorophyll is also at $4 5 0 ~ \\mathrm { n m }$ ，which leads to the absorption of light by lutein,and the masking of lycopene by chlorophyll. Therefore,in the visible range,chlorophyll becomes the decisive factor affecting the reflectivity of green plants. However,at the fruit seting stage and fruit rapid growth stage of Ping'ou hybrid hazelnut, the leaves were just beginning to grow and were mostly young leaves with low chlorophyll concentration and yellow color. Moreover, the water content in the ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/368af934f6daa22ab843bb5b299c070ba1562177257491066083d9a6d61b1fe9.jpg",
+        "table_caption": [
+            "Table 6Fitings of regression models using spectral parameters associated with leaf K concentration of Ping'ou hybrid hazelnut at different fruit growth stages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Growth stage</td><td rowspan=\"2\"> pspaentral </td><td colspan=\"6\">Fitting degree R²</td></tr><tr><td>Power function</td><td>Exponential function</td><td>Logarithmic function</td><td>Linear function</td><td>Quadratic function</td><td>Cubic function</td></tr><tr><td>Fruit setting</td><td></td><td>0.4523</td><td>0.4525</td><td>0.4551</td><td>0.4551</td><td>0.4558</td><td>0.4571</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f54672c6676611e963d3980d1d3f227d684533552e05f6c048c0b972788b5293.jpg",
+        "table_caption": [
+            "ZHAO Shanchao et al.: Spectral parameter-based models for foliar potassium concentration.. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\"></td></tr><tr><td>stage</td><td>Rg</td><td>0.5869</td><td>0.5891</td><td>0.6167</td><td>0.6225</td><td>0.6235</td><td>0.6247</td></tr><tr><td></td><td>Dy</td><td>0.9201</td><td>0.8643</td><td>0.9253</td><td>0.8881</td><td>0.9091</td><td>0.9436</td></tr><tr><td></td><td>SDb</td><td>0.4923</td><td>0.5245</td><td>0.5221</td><td>0.5571</td><td>0.5678</td><td>0.5691</td></tr><tr><td></td><td>SD,ISDb</td><td>0.4489</td><td>0.4151</td><td>0.4737</td><td>0.4385</td><td>0.4935</td><td>0.4977</td></tr><tr><td></td><td>SD)(SD,+SD)</td><td>0.4541</td><td>0.4563</td><td>0.4793</td><td>0.4821</td><td>0.4821</td><td>0.5166</td></tr><tr><td rowspan=\"5\">Fruit rapid growth stage</td><td>Dy</td><td>0.9291</td><td>0.8845</td><td>0.9341</td><td>0.8941</td><td>0.9498</td><td>0.9511</td></tr><tr><td>Rg</td><td>0.5659</td><td>0.5691</td><td>0.5817</td><td>0.5855</td><td>0.5865</td><td>0.6037</td></tr><tr><td>SDb</td><td>0.4781</td><td>0.5163</td><td>0.4893</td><td>0.5301</td><td>0.5391</td><td>0.5596</td></tr><tr><td>Rg/Ro</td><td>0.4605</td><td>0.4608</td><td>0.4653</td><td>0.4661</td><td>0.4662</td><td>0.5217</td></tr><tr><td>(Rg-R)/(Rg+R)</td><td>0.4561</td><td>0.4609</td><td>0.4581</td><td>0.4641</td><td>0.4651</td><td>0.5091</td></tr><tr><td rowspan=\"4\">Fruit fat-change stage</td><td>Rg</td><td>0.7091</td><td>0.6818</td><td>0.7031</td><td>0.6817</td><td>0.7021</td><td>0.7098</td></tr><tr><td>R</td><td>0.7512</td><td>0.7411</td><td>0.7421</td><td>0.7371</td><td>0.7491</td><td>0.8028</td></tr><tr><td>RNIR/Green</td><td>0.5591</td><td>0.5541</td><td>0.5397</td><td>0.5335</td><td>0.5415</td><td>0.5637</td></tr><tr><td>RNIR/Blue</td><td>0.4341</td><td>0.4333</td><td>0.4413</td><td>0.4431</td><td>0.4432</td><td>0.4641</td></tr><tr><td rowspan=\"5\">Fruit near-maturity stage</td><td>Dr</td><td>0.6332</td><td>0.6151</td><td>0.6521</td><td>0.6361</td><td>0.6541</td><td>0.7028</td></tr><tr><td>Rg</td><td>0.8501</td><td>0.8311</td><td>0.8647</td><td>0.8465</td><td>0.8865</td><td>0.9247</td></tr><tr><td>R</td><td>0.8191</td><td>0.8203</td><td>0.8253</td><td>0.8271</td><td>0.8282</td><td>0.8401</td></tr><tr><td>SD,</td><td>0.4908</td><td>0.4801</td><td>0.4822</td><td>0.4719</td><td>0.5094</td><td>0.7791</td></tr><tr><td>SDy</td><td>0.6201</td><td>0.6059</td><td>0.6396</td><td>0.6257</td><td>0.6398</td><td>0.6821</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/33aaca7c59588044c085d15cc8f9a1a73ca03c12b1af1d2ca112a9f4e9378c72.jpg",
+        "table_caption": [
+            "Table7Residual inspection of the regression relationship between leaf Kconcentration and the most effective spectral parameters established by the cubic regression equation at different fruit growth stages "
+        ],
+        "table_footnote": [
+            "Note: $\\chi ^ { 2 }$ ,normaldistributionchi-square testofresiduals.DW(Durbin-Watson)wasused totesthe independence;W(Levene's test）was used to test the homogeneity of variance. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Fruit setting period</td><td>Fruit rapid growth period</td><td>Fruit fat-change period</td><td>Fruit near-maturity period</td></tr><tr><td>R²</td><td>0.9436</td><td>0.9511</td><td>0.8028</td><td>0.9247</td></tr><tr><td>n</td><td>42</td><td>42</td><td>42</td><td>42</td></tr><tr><td>P value</td><td>0.0001</td><td>0.0001</td><td>0.00075</td><td>0.0001</td></tr><tr><td>8 Normal</td><td>0.1149²</td><td>0.1124²</td><td>0.4046²</td><td>0.1149²</td></tr><tr><td>distribution chi-square test of residuals</td><td>x²=1.2049<x20.(6)=10.64 e~N(0,0.6852²)</td><td>x²=0.7365<x0.1(6)=10.64 e~N(0, 0.3415²)</td><td>x²=1.7299<x20.1(6)=10.64 e~N(0,0.4206²)</td><td>x²=1.2049<x201(6)=10.64 e~N(O, 0.5217²)</td></tr><tr><td>First-order autocorrelation test of</td><td>DW=2.003 ∈[1.468,2.532] α=0.01</td><td>DW=1.4904 ∈[1.468,2.532] α=0.01</td><td>DW=1.6603 ∈[1.468,2.532] α=0.01</td><td>DW=2.0124 ∈[1.468,2.532] α=0.01</td></tr><tr><td>residuals Test for homogeneity</td><td>W=0.3573<F0.05(13,</td><td>W=0.4229<F0.05(13,</td><td>W=0.0582<F0.05(13,</td><td>W=0.3573<F0.05(13,</td></tr><tr><td>of variance</td><td>28)=2.09</td><td>28)=2.09</td><td>28)=2.09</td><td>28)=2.09</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "rr eeeeeeeergeerpeees 11.5 (a) Fruit setting stage 11.0] (b)Fruit rapid growth stage   \n11.0 10.5   \n10.5 10.0   \n10.0 9.5   \n9.5 9.0   \n9.0 8.5-   \n8.5 y=0.796x+2.352,R²=0.845 8.0 y=0.964x+0.853, $R ^ { 2 } { = } 0 . 8 3 2$ RMSE=0.2236 g/kg RMSE=0.4311 g/kg   \n8.0 7.5 RE=4.1941% RE=7.0608%   \n7.5 7.0   \n7.5 8.0 8.5 9.0 9.5 10.0 10.5 11.0 11.5 7.0 7.5 8.0 8.5 9.09.510.0 10.5 11.0   \nreeeeeeeees 8.0 (c) Fruit fat-change stage 9.0- (d) Fruit near-maturity stage   \n7.5 8.5   \n7.01   \n6.5 8.0-   \n6.0- y=0.982x+0.122,R²=0.844 y=0.984x+0.052, $R ^ { 2 } { = } 0 . 8 8 3$ 7.5   \n5.5 RMSE=0.1151 g/kg RMSE=0.0175 g/kg RE=0.2406% RE=0.7044%   \n5.0 . 7.0   \n5.0 5.5 6.0 6.5 7.0 7.5 8.0 7.0 7.5 8.0 8.5 8.0   \nEstimated leaf K concentration (g/kg) Estimated leafK concentration (g/kg) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "leaves was high, the structure was relatively unstable,and the leaves were relatively thin,leading to a strong correlation between leaf K concentration and $D _ { y }$ at the fruit setting stage and fruit rapid growth stage. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The spectral parameters that were significantly correlated with leaf K concentration were $D _ { y } , R _ { g }$ $S D _ { b }$ $R _ { g } / R _ { o }$ $( R _ { g } – R _ { o } ) / ( R _ { g } + R _ { o } )$ ,and RNIR/Green at the fruit rapid growth stage, RNIR/Blue at the fruit fat-change stage,and $D _ { r } , \\ R _ { g } , \\ R _ { o } , \\ S D _ { y }$ ，and $S D _ { r }$ at the fruit near-maturity stage. The spectral characteristics of plant leaves were mainly influenced by their physiological and biochemical properties,such as the absorption, reflection,and conduction of light waves by chloroplast pigments and water,proteins, nucleic acids,sugars,and other substances in the leaves (Thomas and Oerther, 1972; Jiao et al., 2Oo6). K element has a great influence on the above factors because of their participation in physiological and biochemical reactions and material transport in plants. The accumulated leaf K concentration in plant cell fluid is as high as $6 0 { - } 1 5 0 \\mathrm { m m o l / L }$ ,which can promote the formation of chlorophytes (Walker,1996).If the leaf K concentration is low,the epidermal cells will change,the leaf surface thickness willincrease,and the cells of palisade and sponge tissue wil shrink and rupture locally. K in plants usually exists in the form of cations (Marschner,2O11) with strong fluidity,flowing from mature tissues to young tissues for their growth and development (Mengel and Kirkby,1987) and providing an electron balance during the flow without promoting solute accumulation (Stiles and Van, 2O04). In addition, K is the basic motive force promoting the increase in plant cell volume,the fluctuation of its ions,and the change in water flux which could lead to the expansion and rapid increase of plant cell volume.Therefore,leaves of Ping'ou hybrid hazelnut increase rapidly at the fruit growth periods,and the cellstructure in the leaves also changes rapidly. Moreover, K ions are not only an important factor in the regulation of plant cell expansion by Osmotic pressure (the interaction between cell expansion and the surrounding cell wall can maintain tissue hardness） but also the main factor in maintaining the balance of cell permeability.K is involved in an important regulatory mechanism of plant $\\mathrm { C O } _ { 2 }$ and water wherein stomatal movement occurs through the plasma membrane (Fisher,1968; Tallman,1972). It is also an important driving force that maintains enzyme,protein,and nucleic acid activity,and is an important element in controlling the water balance of plants (Davies and Zhang,1991).The morphology of leaf cels also has a significant influence on spectral reflectance.At different fruit growth stages,the leaf cells of Ping'ou hybrid hazelnut showed diverse shapes, sizes,and arrangements. As a result, the spectral characteristics of fruits at each fruit growth stage were different,and the parameters that were significantly correlated with leaf K concentration were different at each growth stage. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our results revealed that the mathematical relationship between leaf K concentration and the most effective spectral characteristic parameters established by the cubic function was of the highest precision. The most effective spectral characteristic parameters of leaf K concentration were $D _ { y } , D _ { y }$ $R _ { o }$ and $R _ { g }$ at the fruit setting stage, fruit rapid growth stage,fruit fat-change stage,and fruit near-maturity stage.Results from the RMSE and RE showed that the regression estimation model of leaf K concentration established by the cubic function had a relatively high estimation accuracy and can be used to predict leaf K concentration properly.In this study，we only established the measurement error model of spectral inversion based on the statistical relation, without considering the theoretical model, which should be further studied in the future. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This study was supported bythe National Natural Science Foundationof China (31960324).We would like to thank Ms.ZHANG Ming and Ms.LUO Wei for their help in field experiments and laboratory chemical analysis.Our special thanks are given to the anonymous reviewers and editors for their helpful comments and suggestions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Alex C W.2Oo6.Plant Nutrition.New York: InfoBase Publishing,14-17.   \nAllen VB,David JP.2O07.Handbook of Plant Nutrition.Florida: Chemical Rubber Company Pres,21-50.   \nDavies W,ZhangJ.1991.Rootsignalsand theregulationofgrowthandthedevelopmentofplantsindyingsoil.AnnualReviewof PlantPhysiology and PlantMolecularBiology,42:55-76.   \nFisher R A.1968.Stomatal opening: role of potassium uptake by guard cells. Science,160(3829): 784-785.   \nHuZZ,PanCD,ZhaoSC.2O19.Spectral inversionof the watercontentof Hazelutleaves atvarious phenolobicaleriodsof fruit development.Northern Horticulture,2019(O9):20-26.(in Chinese)   \nIzharA,FransJMM.2O14.Cellarand tisse distributionofpotasium:Physiologicalrelevance,mechanismsandregulation. Journal of Plant Physiology,171(9):708-714.   \nJiao WJ,MinQW,LinK,etal.2O6.Progressandperspectiveonutritiondiagnosisofplantnitrogen.ChineseAgricultural Science Bulletin,22(12):351-355.(in Chinese)   \nLuJS,LiWY,YuML,etal.22.Estimationofriceplantpotassiumaccmulationbasedonnon-negative matrixfactorzation using hyperspectral reflectance.Precision Agriculture,5:1-24.   \nKochK,MengelK.1974.Theinfluenceof thelevelofKsupplytoyoung tobaccoplantsonshort-teruptakeandutilizationof nitrate.Journal of the Science of Food and Agriculture,25: 465-471.   \nMaathuisFJM,OosteruisD,BerkowitzG.199.FrontiersiPotassumNutrition:NewPerspectivesontheEffectsofPotassum on Physiology of Plants.Georgia: Potash and Phosphate Institute,58-95.   \nMarschnerH.2O11.Mineral NutritionofHigher Plants.( $3 ^ { \\mathrm { r d } }$ ed.). San Diego:Academic Press,35-49.   \nMengelK,KirkbyEA.1987.Principles of Plant Nutrition.Bern: International Potash Institute,481-511.   \nNieves-Cordones M,Alemän F,Martinez V,et al. 2014. $\\mathrm { K ^ { + } }$ uptake in plant roots.The systems involved, their regulation and parallels in other organisms.Journal of Plant Physiology,171(9):14-22.   \nPayal B,BablyP.2O20.Determinationofconcentrationof totalsodiumand potassiuminsurfaceandground waterusingaflame photometer.Applied Water Science,1O(1):16-21.   \nShan XC,SongFH,ShiYJ,etal.2O15.Effectsofsprayingplantgrowthegulatorsonphotosytheticcharacteristicsraitsd fructify growth of the major Hybrid Hazel. Xinjiang Agricultural Sciences,52(6): 1063-1070.(in Chinese)   \nStiles KA,Van VE.2004.Role of $\\mathrm { K ^ { + } }$ in leaf growth: $\\mathrm { K } ^ { + }$ uptake is required for light-stimulated $\\mathrm { H ^ { + } }$ efflux but not solute accumulation.Plant Cell and Environment,27:315-325.   \nTallman G.1992.The chemiosmotic model of stomatal opening revisited.CriticalReviews inPlant Sciences,11(1):35-57.   \nThomasJR,OertherGF.1972.Estimating nitrogenconcentrationof swetpepperleavesbyreflectance measurements.Agronomy Journal,64(1): 11-13.   \nWalkerDJ,LeighA,MillrAJ99.Potassimhomeostasisiacuoate plantcell.ProceedingsoftheNtionalacademyof Sciences of the United States of America,93:10510-10514.   \nWangLZ,SongFH,ShiYJ,etal.22.EffectsofdierentNPKfertilizerapplicatioratesonphotosyntheticcharacteistics, yieldandqualityofCorylusheterophylla $\\times C$ avellana.Forest Research,33(1):55-61.(in Chinese)   \nWang Z,ZhouLD,LiH.2Ol1.Predictingnitrogenconcentrations in fresh peachleaffromhyperspectralremotesensing.Chnese Agricultural Science Bulletin,27(4):85-90.(in Chinese)   \nZhang SF,JiangRF,ChenXP,etal.2Ol1.SoilTestingandFertilization.Beijing:China AgriculturalUniversityPres,8.(in Chinese)   \nZhao HB,WangJ,Dong CX,etal.2O14.Fastdeterminatioofpotassumcontentinfresh pearleavesusingvisibleeaifrared spectroscopy technique.Soil,46(2): 256-261.(in Chinese) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

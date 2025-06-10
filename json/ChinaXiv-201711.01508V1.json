@@ -1,0 +1,200 @@
+[
+    {
+        "type": "text",
+        "text": "高温环境对家禽营养物质消化的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刁华杰1,2 冯京海1\\* 刁新平2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国农业科学院北京畜牧兽医研究所，北京100193；2.东北农业大学动物科技学院，哈尔滨 150030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：高温环境是影响家禽生产的一个重要因素，高温环境下家禽采食量降低，肉鸡生长速度减慢，蛋鸡产蛋率、蛋重及体重卜降。高温坏境影响家禽生产性能并非全部由于采食量下降引起的，即使在相同采食量的条件下，高温环境仍显著降低家禽的生产性能。本文针对高温环境对家禽营养物质消化代谢以及消化酶活性、肠道结构、饲粮排空速度等方面的影响进行归纳总结，为进一步了解高温环境对家禽消化吸收功能的影响及其营养调控提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高温环境；家禽；消化率；代谢能中图分类号：S83 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高温环境是影响家禽生产性能的一个重要因素。大量研究表明，高温环境降低家禽采食量，进而导致肉鸡长速度下降[1-6]以及蛋鸡产蛋量、蛋重降低[7-20]。高温环境影响家禽的生产性能并非全部由于采食量下降造成的，在相同采食量的条件下，高温环境仍然显著降低家禽的生产性能[1,5,21-23]。Dale 等[1]推测高温环境降低肉鸡的增重，其中 $6 3 \\%$ 可能是由于采食量下降引起的，另外 $3 7 \\%$ 可能是高温环境的直接影响。高温环境的直接影响可能与降低畜禽营养物质的消化代谢有关。研究发现，高温环境影响家禽的饲料转化效率[3-5,21,24]，也表明高温环境直接影响饲料营养物质的消化、吸收和代谢。本文针对高温环境影响家禽生产性能及消化代谢的研究进行总结归纳，并从小肠消化酶活性、饲粮排空速度、胃肠结构等方面探讨高温环境影响家禽消化的机制，以期引起生产以及研究人员对于夏季高温的重视。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1高温环境对家禽营养物质消化代谢的影响 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1高温环境对家禽营养物质消化率的影响 高温环境对家禽营养物质表观消化率影响较小。Wallis等[25]发现，持续 $3 1 ^ { \\circ } \\mathrm { C }$ 高温显著降低了肉鸡回肠末端苏氨酸、丙氨酸、蛋氨酸、异亮氨酸和亮氨酸的表观消化率 $1 . 0 \\% { \\sim } 4 . 8 \\%$ ，对其他氨基酸的表观消化率影响不显著。Balnave 等[26]同样发现， $3 0 ^ { \\circ } \\mathrm { C }$ 持续高温对大部分氨基酸的表观消化率影响不显著，仅显著降低了缬氨酸、异亮氨酸和精氨酸的表观消化率 $0 . 5 \\% { \\sim } 1 . 9 \\%$ 。高温环境对家禽营养物质真消化率影响较大。Zuprizal 等[27]测定了 $3 2 ~ ^ { \\circ } \\mathrm { C }$ 持续高温对肉鸡2种饲料原料真消化率的影响，发现菜籽粕和豆粕蛋白质真消化率和氨基酸真消化率显著降低了 $12 \\%$ 和 $5 \\%$ 。杨琳等[28]研究发现，随着环境温度的升高， $3 0 { \\sim } 3 5 ~ ^ { \\circ } \\mathrm { C }$ 与 $5 { \\sim } 1 5 ~ ^ { \\circ } \\mathrm { C }$ 相比，干物质的真代谢率显著降低显著下降了 $1 1 . 5 \\%$ 。这说明，高温环境不仅影响营养物质的消化和吸收，还影响内源营养物质的利用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高温环境对家禽饲料消化率的影响可能与采食量有关。Bonnet 等[21l发现，在自由采食条件下， $3 2 ^ { \\circ } \\mathrm { C }$ 持续高温显著降低了肉鸡饲粮干物质和蛋白质的表观消化率 $1 . 1 \\%$ 和 $2 . 5 \\%$ ，对脂质和淀粉的表观消化率无显著影响；而与采食配对组相比，在相同采食量下，持续高温导致肉鸡干物质、蛋白质、脂质和淀粉消化率显著降低了 $4 . 0 \\% \\sim 5 . 2 \\%$ 。高温环境降低家禽采食量，当采食量降低时，家禽营养物质消化率显著提高[21l。这可能是高温环境对家禽营养物质表观消化率影响较小的原因之一。高温环境对家禽饲料消化率的影响还与饲料类型有关。Bonnet 等[21研究发现，持续高温显著降低了肉鸡夏季专用饲粮（含有小麦、菜籽粕、蚕豆粉及脂肪）中干物质、蛋白质、脂肪和淀粉的消化率，但对玉米-豆粕型饲粮脂肪和淀粉消化率的影响不显著，仅有干物质和蛋白质的消化率显著降低。Zuprizal等[27]的研究结果表明，持续高温导致菜籽粕蛋白质真消化率降低了 $12 \\%$ ，而豆粕蛋白质真消化率仅降低了 $5 \\%$ 。这表明高温环境对消化率较高的优质原料的影响较小，而对品质较差的原料影响较大。因此Bonnet 等[21建议夏季高温季节应该饲喂高品质饲粮。另外，高温环境对家禽饲料消化率的影响还可能与性别有关。Wallis 等[25]、Balnave 等[26]和 Zuprizal等[27]均发现持续高温环境显著降低了母鸡氨基酸的消化率，而对公鸡的影响不大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述研究均以持续高温为热应激模型，有关循环高温的影响报道极少。Lagana 等[29]比较了循环高温 $( 2 5 { \\sim } 3 2 ~ ^ { \\circ } \\mathrm { C } )$ 和适温 $( 2 1 { \\sim } 2 5 ^ { \\circ } \\mathrm { C } )$ 之间的差异，发现循环高温组的肉鸡干物质的消化率显著降低，而粗蛋白质消化率无显著变化。而Koelkebeck 等[24]的研究结果显示，组氨酸和赖氨酸的消化率反而显著提高，这可能由于其日变高温(35、 $2 9 ^ { \\circ } \\mathrm { C }$ 各 ${ 1 2 } \\mathrm { h } \\dot { }$ 是温度骤变的方式，与实际生产温度逐渐变化不符，因此循环变化的高温对家禽消化率的影响有待进一步研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2高温环境对家禽饲粮代谢能值的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高温环境对家禽饲粮代谢能值的影响结果不一[30]。大部分文献报道高温环境对家禽饲粮表观代谢能（AME）值无影响，但显著降低家禽饲粮的真代谢能（TME）值或氮校正表观代谢能(AMEn)值。Husseiny 等[31研究发现，持续32℃高温对肉鸡饲粮 AME 值无显著影响，Wallis 等[25]同样报道，持续31℃高温对肉鸡饲粮AME 值无显著影响，Lei等[32]、Olson等[33]的研究结果与之类似。Yamazaki等[34]研究发现，循环高温（25\\~35℃）不影响蛋鸡饲粮的 AME 值。然而杨琳等[28]研究发现，随着环境温度的升高，饲粮AME 值有升高的趋势，但TME 值显著降低。Zuprizal等[27]也发现，持续32℃高温环境对肉鸡饲粮 AME 值无显著影响，但显著降低肉鸡饲粮AMEn值，Bonnet 等[21]也有类似的发现。导致这一现象的原因可能是高温环境下生长率下降并且能量的维持需要量降低，进而引起氮平衡的变化，影响了饲粮 AMEn 值。但是还有部分文献报道高温环境提高肉鸡的代谢能值，Swain 等[35]研究发现，随着环境温度增加 $( 5 { \\sim } 3 4 \\ \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C } )$ 肉鸡饲粮AME 和AMEn值均显著提高。Geraert等[36]研究发现，32℃持续高温提高肉鸡饲粮AME、TME 以及AMEn 值，并且对于瘦肉型品系影响更为显著。导致这一现象的原因可能是由于高温环境下内源能量的损失减少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高温环境对家禽饲粮代谢能值的影响可能与采食量有关，有报道采食量影响代谢能值，并且总结得出随着采食量的降低，饲粮AME值有轻微升高的趋势[30]。Bonnet等[211报道在相同采食量条件下，32℃持续高温显著降低了肉鸡玉米-豆粕型饲粮的AME值，而在自由采食条件下，高温对肉鸡玉米-豆粕型饲粮AME值无显著影响，表明高温环境降低家禽采食量，缓解了对家禽饲粮代谢能值的影响，这可能是高温环境对饲粮AME值影响不显著的原因之一。高温环境对家禽饲粮代谢能值的影响还可能饲粮类型有关。Bonnet等[21]报道，持续32°℃高温环境对肉鸡玉米-豆粕型饲粮AME及AMEn值无显著影响，但显著降低小麦-菜籽粕型饲粮的AME及AMEn值；Zuprizal等[27]发现32℃持续高温显著降低菜籽粕的AMEn值，而对豆粕的AMEn值无显著影响。这表明高温环境下，饲喂高品质易消化的饲粮能缓解高温对代谢能值的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2高温环境对家禽消化吸收功能的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高温环境可能通过影响家禽肠道消化酶活性、肠道结构以及饲粮在肠道内的停留时间，影响家禽的消化吸收功能，导致营养物质消化率、代谢能值发生变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1高温环境对家禽肠道消化酶活性的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高温环境影响家禽肠道消化酶的活性。林海等[37]研究发现， $3 2 ^ { \\circ } \\mathrm { C }$ 高温处理5d，肉鸡小肠液中胰蛋白酶、胰糜蛋白酶和淀粉酶的活性分别显著降低了 $3 7 . 3 \\%$ 、 $3 7 . 9 \\%$ 和 $2 4 . 0 \\%$ 。阮晖等[38]报道， $3 4 . 7 ^ { \\circ } \\mathrm { C }$ 持续高温4周，21日龄肉仔鸡小肠内容物总蛋白水解酶、脂肪酶和淀粉酶活性分别显著降低了 $2 7 . 5 0 \\%$ 、 $3 2 . 8 9 \\%$ 和 $2 9 . 3 2 \\%$ 。Osman 等[39]研究了高温环境下胰腺和小肠淀粉酶活性的变化，发现蛋鸡在高温应激第1天，十二指肠和空肠淀粉酶活性升高，回肠淀粉酶活性下降，同时胰腺淀粉酶活性降低，推测高温能够促进胰腺合成的淀粉酶进入消化道，进而引起消化道前段淀粉酶活性升高；而在高温应激第3天，小肠淀粉酶活性降低，同时胰腺淀粉酶活性增加，推测小肠前段消化酶活性降低，负反馈促进胰腺淀粉酶的分泌;而到试验期第15天，小肠和胰腺中淀粉酶活性恢复到正常水平，这表明蛋鸡对高温慢慢产生了适应性。马爱平[40]研究了28日龄肉鸡在 $2 7 { \\sim } 3 3 ~ ^ { \\circ } \\mathrm { C }$ 持续日变高温环境下胰腺和小肠消化酶活性的变化，发现十二指肠、空肠、回肠中淀粉酶和胰蛋白酶的活性显著降低，而胰腺中淀粉酶和胰蛋白酶活性显著升高，这与上述Osman 等[39]的研究结论一致。另外 Routman 等[41]研究也发现，肉鸡 $3 5 ^ { \\circ } \\mathrm { C }$ 高温急性应激 $\\boldsymbol { 4 } \\mathrm { h }$ ，胰腺淀粉酶活性显著升高，而胰腺脂肪酶和蛋白酶的活性没有变化。以上研究表明，持续高温或急性高温应激降低家禽小肠消化酶活性，但随着应激时间的延长，家禽可能通过提高胰腺消化酶的合成，逐渐提高消化道的酶活性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2高温环境对家禽饲粮排空速度的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高温环境延长食糜通过消化道的时间。Wilson 等[42]研究发现，持续高温（ $2 9 . 4 \\ ^ { \\circ } \\mathrm { C } \\cdot$ ）延缓北京鸭消化道食糜的排空速度。Hai等[43]同样发现，持续高温（ $3 2 . 8 ^ { \\circ } \\mathrm { C }$ ）延缓肉鸡消化道食糜的排空速度。Savory[44]在褐壳蛋鸡饲粮中添加二氧化钛（ $\\mathrm { T i O } _ { 2 }$ ），记录半数 $\\mathrm { T i O } _ { 2 }$ 排出的时间，发现持续高温 $3 2 ^ { \\circ } \\mathrm { C }$ 下饲粮的排空时间增加了 $10 \\%$ 。Gordon等[45]研究发现，持续高温（ $3 2 . 8 ^ { \\circ } \\mathrm { C }$ ）环境下蛋鸡饲粮的排空时间延长了将近 $1 6 . 6 \\%$ （ $3 9 \\mathrm { m i n }$ ）。Hillerman 等[46]研究也表明温度是影响饲粮排空速度的一个因素。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高温环境下家禽食糜的排空时间延长可能与肠道蠕动减慢有关。Tur 等[47]研究发现，$4 0 ~ ^ { \\circ } \\mathrm { C }$ 高温应激抑制肉仔鸡消化道的蠕动。Wilson 等[42]也提出高温环境下胃肠蠕动减慢是导致食糜通过消化道的时间延长的一个原因。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3高温环境对家禽肠道结构的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高温环境可能直接影响消化道黏膜结构，影响家禽的消化吸收功能。代雪立等[48]报道，高温环境下家禽消化道黏液分泌减少，上皮细胞更新减慢。宁章勇等[49]发现，持续 $3 4 . 5 ~ ^ { \\circ } \\mathrm { C }$ 高温导致肉鸡肠绒毛断裂，胃肠黏膜上皮细胞脱落，腺胃、十二指肠、空肠和回肠黏膜的完整性损伤。Uni等[50]报道 $3 6 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 持续高温抑制雏鸡肠上皮细胞的增殖。Mitchell等[51]发现 $3 5 ^ { \\circ } \\mathrm { C }$ 持续2周导致小肠绒毛高度降低 $1 8 . 8 \\%$ ，这表明高温环境直接影响消化道黏膜的结构。另外，高温环境下家禽为提高可感散热，外周血流量显著增加，导致消化系统的血流量减少[48]。Wolfenson 等[52-54]研究直接证明高温环境下家禽消化系统毛细血管血流量减少。高温环境影响家禽消化道的结构，改变消化道的血流量，进而影响家禽对营养物质的消化和吸收。研究表明， $3 5 ^ { \\circ } \\mathrm { C }$ 高温环境下，脂肪酸、钙和氮吸收变化不大，但钾、磷的吸收显著降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3小结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，高温环境对家禽营养物质的表观消化率影响不大，但显著降低营养物质的真消化率；大部分文献报道，高温环境对家禽饲粮 AME 值影响不大，但显著降低了TME 或AMEn值，但有研究发现，高温环境显著升高了家禽饲粮的AME 值。高温环境降低了家禽采食量，有助于高温环境对营养物质消化率以及代谢能值的影响，另外高温环境对优质饲粮的消化率、代谢能值的影响较小。高温环境降低家禽食糜在消化道中的排空速度，有助于提高营养物质的消化吸收，但高温影响消化道酶的活性，影响消化道黏膜结构和血流量，可能又降低了营养物质的消化吸收。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]DALE N M,FULLER H L.Effect of diet composition on feed intake and growth of chicks under heat stress.II.Constant vs. Cycling temperatures[J].Poultry Science,1980,59(7):1434-1441. [2] 高增兵,傅伟龙,蒋宗勇,等.高温环境对肉鸡生产性能和血浆甲状腺激素、胰岛素水平的 影响[J].华南农业大学学报,1999,20(1):26-31.   \n[3]SINURAT A P,BALNAVE D,MCDOWELL G H.Growth performance and concentrations of thyroid hormones and growth hormone in plasma of broilers at high temperatures[J].Australian Journal of Biological Sciences,1987,40(4):443-450.   \n[4]KUTLU HR,FORBES JM.Changes in growth and blood parameters in heat-stressed broiler chicks in response to dietary ascorbic acid[J].Livestock Production Science,1993,36(4):335-350. [5]GERAERT P A,PADILHA J C F,GUILLAUMIN S.Metabolic and endocrine changes induced by chronic heat exposure in broiler chickens:biological and endocrinological variables[J].British Journal of Nutrition,1996,75(2):205-216.   \n[6]MAY J D,LOTT B D,SIMMONS J D.The effect of environmental temperature and body weight on growth rate and feed:gain of male broilers[J].Poultry Science,1998,77(4):499-501. [7] PEGURI A,COONC.Effect oftemperatureanddietaryenergyonlayer performance[J].Poultry Science,1991,70(1):126-138.   \n[8]DE ANDRADE A N,ROGLER J C,FEATHERSTON W R,et al.Interrelationships between diet and elevated temperatures (cyclic and constant) on egg production and shell quality[J].Poultry Science,1977,56(4):1178-1188.   \n[9]DENG W,DONG X F,TONG JM,et al.The probiotic Bacillus licheniformis ameliorates heat stress-induced impairment of egg production,gut morphology,and intestinal mucosal immunity in laying hens[J].Poultry Science,2012,91(3):575-582.   \n[10]MASHALY M M,HENDRICKS II G L,KALAMA M A,et al.Effect of heat stress on productionparametersandimmuneresponsesofcommercial layinghens[J].Poultry Science,2004,83(6):889-894.   \n[11]MILLER PC,SUNDE M L.The effects of precise constant and cyclic environments on shell qualityandotherlayperformancefactorswithLeghornpullets[J].Poultry Science,1975,54(1):36-46.   \n[12]MUIRURI H K,HARRISON P C.Effect of roost temperature on performance of chickens in hot ambient environments[J].Poultry Science,1991,70(11):2253-2258.   \n[13]顾宪红,王新谋,李芸,等.高温对蛋鸡产蛋性能、耗料及体重的影响[J].北京农业大学学 报,1993,19(4):72-77.   \n[14]朱庆,陈永华.环境高温对蛋鸡生产性能的影响机理[J].中国家禽,1997(6):29-30. [15]ROZENBOIM I,TAKO E,GAL-GARBER O,et al.The effect of heat stress on ovarian function of laying hens[J].Poultry Science,20O7,86(8):1760-1765.   \n[16]FRANCO-JIMENEZ D J,SCHEIDELER S E,KITTOK R J,et al.Differential effects of heat stress inthreestrainsoflayinghens[J].TheJournalofApplied Poultry Research,2007,16(4):628-634.   \n[17]YOSHIDA N,FUJITA M,NAKAHARA M,et al.Eect of high environmental temperature on egg production,serum lipoproteins and folicle steroid hormones in laying hens[J].The Journal of Poultry Science,2011,48(3):207-211.   \n[18]UGURLU N,ACAR B,TOPAK R.Production performance of caged layers under different environmental temperatures[J].Archiv Fur Geflugelkunde,2002,66(1):43-46.   \n[19]DE ANDRADE A N,ROGLER JC,FEATHERSTON W R.Influence of constant elevated temperature and diet on egg production and shel quality[J].Poultry Science,1976,55(2):685-693. [20]YAHAV S,SHINDER D,RAZPAKOVSKI V,et al.Lack of response of laying hens to relative humidity at high ambient temperature[J].British Poultry Science,20o0,41(5):660-663. [21]BONNET S,GERAERT P A,LESSIRE M,et al.Effect of high ambient temperature on feed digestibility in broilers[J].Poultry Science,1997,76(6):857-863.   \n[22]ABU-DIEYEH Z H M.Effect of high temperature per se on growth performance of broilers[J].International Journal of Poultry Science,2O06,5(1):19-21.   \n[23]EMERY D A,VOHRA P,ERNST R A,et al.The effect of cyclic and constant ambient temperatureson feed consumption,eggproduction,eggweight,and shell thicknessof hens[J].Poultry Science,1984,63(10):2027-2035.   \n[24]KOELKEBECK K W,PARSONS C M,WANG X.Effect of acute heat stress on amino acid digestibility in laying hens[J].Poultry Science,1998,77(9):1393-1396.   \n[25]WALLIS I R,BALNAVE D.The influence of environmental temperature,age and sex on the digestibilityofaminoacidsingrowingbroilerchickens[J].BritishPoultry Science,1984,25(3):401-407.   \n[26]BALNAVE D,OLIVA A G.The influence of sodium bicarbonate and sulfur amino acids on the performance of broilers at moderate and high temperaures[J].Australian Journal of Agricultural Research,1991,42(8):1385-1397.   \n[27]ZUPRIZAL,LARBIER M,CHAGNEAU A M,et al.Influence of ambient temperature on true digestibility of protein and amino acids of rapeseed and soybean meals in broilers[J].Poultry Science,1993,72(2):289-295.   \n[28]杨琳,杜荣,张子仪.环境温度对鸡饲粮代谢能测值及血浆中甲状腺激素浓度的影响[J]. 畜牧兽医学报,1993,24(6):494-499.   \n[29]LAGANA C,RIBEIRO A M L,KESSLER A M,et al.Efects of the reduction of dietary heat increment on the performance,carcass yield,and diet digestibility of broilers submitted to heat stress[J].Revista Brasileira de Ciencia Avicola,20O7,9(1):45-51.   \n[30]SIBBALD I R.Measurement of bioavailable energy in poultry feedingstuffs:a review[J].Canadian Journal of Animal Science,1982,62(4):983-1048.   \n[31] HUSSEINY O E L,CREGER C R.The effect of ambient temperature on carcass energy gain in chickens[J].Poultry Science,1980,59(10):2307-2311.   \n[32]LEI K Y,SLINGER S J.Energy utilization in the chick in relation to certain environmental stresses[J].Canadian Journal of Animal Science,1970,50(2):285-292.   \n[33]OLSON D W,SUNDE M L,BIRD H R.The effct of temperature on metabolizable energy determination and utilization by the growing chick[J].Poultry Science,1972,51(6):1915-1922. [34] YAMAZAKI M,ZHANG Z Y.A note on the effect of temperature on true and apparent metabolisable energy values of a layer diet[J].British Poultry Science,1982,23(5):447-450. [35]SWAIN S,FARRELL D J.Effects of different temperature regimens on body composition andcarry-overeffectsonenergymetabolismofgrowingchickens[J].Poultry Science,1975,54(2):513-520.   \n[36]GERAERT P A,GUILLAUMIN S,ZUPRIZAL.Research note:effect of high ambient temperature on dietary metabolizable energy values in genetically lean and fat chickens[J].Poultry Science,1992,71(12):2113-2116.   \n[37]林海,杜荣.环境温度对肉鸡消化道内食糜排空和消化酶活性的影响[J].动物营养学 报,2001,13(1):49-53.   \n[38]阮晖,牛冬.热应激降低肉鸡小肠消化酶活性的研究[J].中国畜牧杂志,2001,37(3):16-17. [39]OSMAN A M,TANIOS N I.The effect of heat on the intestinal and pancreatic levels of amylase and maltase of laying hens and broilers[J].Comparative Biochemistry and Physiology Part A:Physiology,1983,75(4):563-567.   \n[40]马爱平.持续日变高温对肉仔鸡消化酶活性、骨骼肌氮沉积及HSP70 mRNA 转录水平 的影响[D].硕士学位论文.北京:中国农业科学院,2004.   \n[41]ROUTMAN K S,YOSHIDA L,FRIZZAS DE LIMA A C,et al.Intestinal and pancreas enzyme activity of broilers exposed to thermal stress[J].Revista Brasileira de Ciencia Avicola,2003,5(1):23-27.   \n[42]WILSON E K,PIERSON F W,HESTER P Y,et al.The effects of high environmental temperature on feed passage time and performance traits of white Pekin ducks[J].Poultry Science,1980,59(10):2322-2330.   \n[43]HAI L,RONG D,ZHANG Z Y.The effect of thermal environment on the digestion of broilers[J].Journal of Animal Physiology and Animal Nutrition,20oo,83(2):57-64.   \n[44]SAVORY C J.Influence of ambient temperature on feeding activity parameters and digestive function in domestic fowls[J].Physiology & Behavior,1986,38(3):353-357.   \n[45]GORDON R W,ROLAND SR D A.The influence of environmental temperature on in vivo limestone solubilization,feed passage rate,and gastrointestinal pH in laying hens[J].Poultry Science,1997,76(5):683-688.   \n[46]HILLERMAN J P,KRATZER F H,WILSON W O.Food passage through chickens and turkeys and some regulating factors[J].Poultry Science,1953,32(2):332-335.   \n[47]TUR J A,RIAL R V.The effect of temperature and relative humidity on the gastrointestinal motilityofyoungbroile[J].Comparative BiochemistryandPhysiology Part A:Physiol0gy,1985,80(4):481-486.   \n[48]代雪立,肖敏华,宋晓琳,等.热应激对家禽肠道结构与功能影响的研究进展[J].中国家 禽,2010,32(11):41-43.   \n[49]宁章勇,刘思当,赵德明,等.热应激对肉仔鸡呼吸、消化和内分泌器官的形态和超微结构 的影响[J].畜牧兽医学报,2003,34(6):558-561.   \n[50]UNI Z,GAL-GARBER O,GEYRA A,et al.Changes in growth and function of chick small intestine epithelium due to early thermal conditioning[J].Poultry Science,2O01,80(4):438-445. [51] MITCHELL M A,CARLISLE A J.The effects of chronic exposure to elevated environmental temperature on intestinal morphology and nutrient absorption in the domestic fowl (Gallus domesticus)[J].Comparative Biochemistry and Physiology Part A:Physiology,1992,101(1):137-142.   \n[52]WOLFENSON D,FREI Y F,SNAPIR N,et al.Heat stress effects on capillary blood flow and its redistribution in the laying hen[J].Pflugers Archiv,1981,390(1):86-93.   \n[53]WOLFENSON D.The effect of acclimatization on blood flow and its distribution in normothermic and hyperthermic domestic fowl[J].Comparative Biochemistry and Physiology Part A:Physiology,1986,85(4):739-742.   \n[54] WOLFENSON D,SKLAN D,GRABER Y,et al.Absorption of protein,fatty acids and minerals in young turkeys under heatandcoldstress[J].BritishPoultry Science,1987,28(4):739-742. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Effects of High Ambient Temperature on Nutrition Digestibility in Poultry ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DIAO Huajiel,2FENG Jinghai1\\* DIAO xinping² (1. Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing 100193, China; 2. College of Animal Science and Technology, Northeast Agricultural University,Harbin 150030, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: High ambient temperature is an important factor that affects poultry production, which decreases the feed intake of poultry,induces the deleterious effect on growth rate of broilers and egg production, egg weight and body weight in laying hens. However, this negative effect of heat stress on growth rate and production is not al due to reduced feed intake, production performance still significantly reduces under the high environment temperature even in the same condition of feed intake. This paper mainly reviewed the effect of high temperature on nutrition digestibility, metabolic energy values of diet, digestive enzyme activity,feed passage rate and gut structure in poultry to provide scientific basis for understanding the effects of high temperature on digestion and absorption Function of poultry and its nutritional regulation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: high temperature; poultry; digestibility; metabolic energy ",
+        "page_idx": 7
+    }
+]

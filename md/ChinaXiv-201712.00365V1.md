@@ -1,0 +1,263 @@
+# 玉米花药发育的细胞生物学与分子遗传学的研究方法\*
+
+田有辉1,2 万向元 $^ { 1 , 2 * * }$
+
+(1 北京科技大学 生物前沿技术与应用研究中心、化学与生物工程学院、平谷生物农业研究院，北京 100024;2北京首佳利华科技有限公司主要作物生物育种北京市工程实验室、生物育种北京市国际科技合作基地，北京100192)
+
+摘要雄性不育技术在玉米杂种优势利用和杂交种生产中发挥着重要作用，玉米花药发育和雄性不育的细胞生物学与分子遗传学研究是雄性不育技术利用的前提和基础。玉米花药发育是一个复杂的生物学过程，需要孢子体基因与配子体基因的协同表达调控。本文从玉米花药的形态结构、花药发育时期的划分、花药败育类型、花药发育的细胞学研究方法、花药发育的组学研究方法、花药发育分子遗传学研究方法等方面进行综述，以期为玉米核不育机理研究与雄性不育技术产业化应用提供方法学指导。
+
+关键词玉米、花药、雄性不育、杂种优势利用
+
+中图分类号Q785
+
+# 引言
+
+生殖系统的发育对生物的世代交替以及遗传重组具有重要的意义，植物与动物之间的一个较大的差异便是生殖器官起始发育的时间不同[]。多细胞动物的原始生殖细胞形成于胚胎发育时期，而高等植物的早期发育过程中仅形成根、茎、叶等营养器官，随后在由营养生长到生殖生长的转化过程中，由亚表皮层细胞逐渐分化形成花原基等生殖器官[2-4]。生殖器官中大部分细胞为体细胞，仅有少部分细胞分化形成生殖细胞[5]，花药原基中的生殖细胞再经过复杂的分化过程形成孢子母细胞，随后孢子母细胞经过一次减数分裂和两次有丝分裂形成小孢子，完成由多倍体世代到单倍体世代的转化。这个复杂的生物学过程需要孢子体基因与配子体基因的协同调控[6-8]，参与此过程的任何基因突变都有可能对植物的育性产生影响，导致雄性不育现象的发生。
+
+植物雄性不育是指在高等植物中，雄性生殖器官不能产生有功能的雄配子，而雌性营养器官及雌性生殖器官发育正常，可受精结实并将不育性遗传给后代的现象[9]。雄性不育现象于十九世纪被发现，并且在高等植物中普遍存在。早在1921年，Eyster就在玉米中发现了雄性不育突变体，随后大量的玉米雄性不育材料被发现或创制，目前MaizeGDB 种质资源库中已收集近百份玉米雄性不育材料（htp://www.maizegdb.org/data_center/phenotype?id=24992）。作为常异花授粉植物，玉米是三大粮食作物中利用杂种优势起始最早且最为彻底的植物；雄性不育材料可以免除人工去雄和机械去雄对植株的损伤，提高杂交制种的纯度和产量，具有重大商业价值；因此玉米雄性不育的研究在基础理论与应用实践中均具有重要意义。
+
+花药是植物花器官的重要组成部分，与其它花器官相比，被子植物的花药在个体发生、细胞类型、花药形态等方面更为保守[10]。近几年，拟南芥、水稻、玉米中大量花药发育相关基因被报道，但在解析花药的发育调控机理方面还有很多复杂问题有待解决，且不同物种间花药发育基因功能保守性与特异性还需进一步探索。而在解决这些科学问题的过程中，花药发育的研究方法手段和技术策略显得特别重要，下面分别从玉米花药的形态结构、花药发育时期、花药败育类型、花药发育的细胞学研究方法、组学研究方法、分子遗传学研究方法等方面进行详细阐述。
+
+# 1玉米花药的形态结构
+
+玉米是典型的雌雄同株异花植物，如图1所示，最上面的部位称为雄穗（Tassel；图1b)，有数百个成对分布的小穗（Spikelet；图1c）组成，每个小穗中包含两个小花（Floret），根据发育时期分别被称为上位花和下位花，每个小花由三个花药（Anther；图 2a）组成。一般来说，相邻小穗中的花药发育时期高度同步，下位花发育比上位花发育晚约一天[1,12]。玉米花药由辐射状对称排列的孢子体和配子体两部分组成（图 2b)，孢子体部分包括连接四个花药小室的连接组织、维管束以及花药壁，花药壁由四层体细胞（图2c）组成，由外向内依次是表皮层（Epidermis,E）、内皮层（Endothecium,En）、中间层（Middle layer,ML）和绒毡层（Tapetum,T)。将花药剥开（图 2d)，内部含有大量的花粉粒（图 2e)。目前，关于绒毡层的相关研究报道较多，受研究材料和技术方法的限制，人们对其他三层细胞的精确功能还缺乏了解，但不可否认，每一层壁细胞的发育均对花药的育性有重要影响。
+
+![](images/fc06bb4f2d2bbbbb468ca6b34f5d3f11980429dd06db71a603da1c91349e8e65.jpg)  
+图1玉米雄穗和小花形态
+
+# Fig.1 Morphology of maize tassel and spikelet.
+
+(a) Maize plant at anthesis.(b) Tassel of maize.(c) Spikelet of maize (a)Maize anther. (b) Transverse section of maize anther. (c) Anther locule. (d) Stripped anther. (e) Maize polen granule.(f) The outer surface of maize anther. (g)The inner surface of maize anther.E,epidermis; En,endothecium; ML, middle layer; MMC, microspore mother cell; T, tapetum. Bars $\mathsf { \Omega } _ { \mathsf { s } } = 1 \mathrm { \Omega m m }$ in (a), $3 0 ~ \mu \mathrm { m }$ in (b & c), $5 0 0 ~ { \mu \mathrm { m } }$ in (d), $2 0 \mu \mathrm { m }$ (e) and $1 0 \mu \mathrm { m }$ in (f & g).
+
+![](images/6b98f16de9f4a733d4ddf13a1a8321b771a80cc2e0cba8c0f0484a147a1ceb7c.jpg)  
+图2玉米花药的形态  
+Fig.2Morphology of maize anther.
+
+# 1.1表皮层
+
+表皮层由花药L1层表皮细胞直接分化而来（图3a)，发育过程中进行垂周分裂以适应内部花粉囊的发育，随后细胞变为扁平状。表皮层细胞外侧被致密的角质层包裹，扫描电镜下观察呈现出立体网格状结构（图 2f)。角质层由蜡质和角质两类物质构成，普遍存在与植物外表面，具有连续性、通透性以及疏水性等特征；传统观点认为角质层仅具有一般物理性保护功能，然而现在的研究表明角质单体的完整性还可以作为植物防御系统的开关发挥重要作用[13,14]。
+
+# 1.2内皮层
+
+内皮层由花药原生壁细胞发育而来（图3a)，在随后的花药发育过程中发生明显的径向延伸，是开花期仅存的两层壁细胞之一。内皮层内部含有大量的淀粉粒，为开花期花药外挂以及开裂提供能量[15]。Kelliher 等[5]猜测，该层细胞在玉米花药发育早期的快速延伸过程中也发挥重要功能。
+
+# 1.3中间层
+
+中间层由次生壁细胞分化而来，内部含有淀粉粒。中间层一旦产生，便在随后的发育过程中不断变薄，并在减数分裂前启动退化，被挤压成条带状，随后中间层物质被降解吸收。有观点认为中间层是非开花植物向开花植物进化过程中的残留遗迹；也有观点将中间层细胞与共同分化来源的绒毡层细胞看作一个共同的单元，并且与小孢子一一对应，共同维持小孢子的正常发育[5]；无论在玉米还是在拟南芥中，中间层发育异常的突变体中绒毡层的发育也会受到影响[16-18]。
+
+# 1.4绒毡层
+
+绒毡层位于花药壁最内侧，由次生壁细胞内层发育而来，是四层壁细胞中代谢最为活跃的一层。花药发育过程中，绒毡层细胞质浓缩，呈现出腺细胞的特征，内部代谢旺盛，常见细胞中含有双核。减数分裂后可见绒毡层靠近小孢子一侧外面排布有大量的乌氏小体（图 $2 \mathrm { g }$ 。绒毡层发育缺陷型雄性不育是已报到的植物雄性不育中最多的一类[19]。孢子母细胞的减数分裂过程离不开绒毡层细胞的支持，绒毡层分泌的β-葡聚糖可以降解胼骶质，使小孢子得以释放[20]。减数分裂后绒毡层内进行脂类及其衍生物代谢，产生的物质可作为孢子花粉素合成、加工、组装的原材料，最后通过乌氏小体等运输方式在小孢子外侧积累，形成化学性质极为稳定的花粉粒外壁（图 2e）。
+
+# 1.5孢原细胞
+
+孢原细胞（Archesporialcell,Ar）位于花药小室中央，起始于L2 层细胞的非对称分裂。玉米中起始孢原细胞数量并不确定，经数轮有丝分裂形成小孢子母细胞（Microspore mother cells,MMC）后可进入减数分裂[5]。通过 EdU（5-乙炔基-2'脱氧尿嘧啶核苷）染色发现，同一花药小室内孢原细胞分裂的节奏并不一致，有些孢原细胞成熟分化为孢子母细胞，而有些孢原细胞会继续分裂；这说明孢原细胞分裂具有随机性，并未受专一调控。随后，进入减数分裂后，同一花药中孢子母细胞染色体行为保持高度一致。
+
+![](images/bde799a38aa2c819afa7a1674a38f86fbd562dd2b4645888c1647c67708435f9.jpg)  
+图3花药发育早期世系假说模式图  
+Fig.3Diagram of cell lineages during early anther development
+
+ACD: asymmetriccelldivision; Ar: archesporial cell; C:connective tissue; E: epidermis; En: endothecium; L2-d: L2-derived cell;ML: middle layer; PC: primary parietal cell;SCD: symmetric cell division; Sp: sporogenous cell; SPC: secondary parietal cel; T: tapetum.
+
+# 2玉米花药发育时期的划分
+
+玉米花药的发育起始于雄蕊原基形成，至最后形成成熟的花粉粒，该过程持续约30天，需要孢子体与配子体的协同配合，完成复杂的世代交替过程。根据细胞学形态观察的结果，Warmke 等[211将玉米花药发育过程划分为9个时期，分别为前朕抵质期、中饼抵质期、减数分裂期、四分体期、幼龄小孢子期、单核小孢子期、单核小孢子晚期、幼龄花粉粒期和近成熟花粉粒期，并对各时期的细胞学特征进行描述。Kelliher等[5]则对减数分裂前玉米花药各层细胞的分化及分裂过程进行详尽观察，并将其划分为8个时期。Zhang 等[2,23]结合拟南芥花药发育时期的划分，将禾本科植物水稻花药发育过程细分为14个时期。我们通过半薄切片技术对玉米花药的发育过程进行观察，并与水稻的发育过程进行比对，发现玉米花药横切面的变化与水稻高度一致，因此也将玉米花药发育过程划分为14个时期（图3、4)，各时期细胞学形态特征如下：
+
+（1）时期1（Stage1)：雄蕊原基的起始；花分生组织分化出圆形的雄蕊原基，包含L1、L2、L3 三层细胞。
+
+（2）时期2（Stage2）：花药原基分化；雄蕊原基分化形成近长方形的花药原基，此时，L2层细胞在每个角的中心形成孢原细胞。
+
+（3）时期3（Stage 3）：孢原细胞经过平周分裂形成原生壁细胞（Primary parietalcells,PPL）。  
+（4）时期4（Stage 4)：原生壁细胞再经过一次平周分裂形成两层次生壁细胞（Secondary parietal  
+cells,SPL)，外层为内皮层；孢原细胞分裂形成造孢细胞（Sporogenous cells,Sp）。（5）时期5（Stage5)：内层次生壁细胞经过平周分裂形成中间层和绒毡层。  
+（6）时期6（Stage6)：造孢细胞分化形成小孢子母细胞，周围被四层花药壁细胞包裹。  
+（7）时期7（Stage7)：小孢子母细胞与绒毡层接触，减数分裂起始；中间层变成带状结构，  
+并逐渐消失。（8）时期8a（Stage 8a)：减数第一次分裂结束，形成二分体；此时，绒毡层细胞质浓缩，着  
+色加深。（9）时期8b（Stage 8b)：减数第二次分裂结束，形成四分体，小孢子细胞外表面形成初级花  
+粉外壁结构，且被胼抵质紧紧包裹；绒毡层近一步浓缩，且液泡化。（10）时期9（Stage9)：胼抵质降解，圆形单倍体小孢子被释放，且外表面形成较薄的花粉  
+外壁结构；绒毡层浓缩后在靠近小孢子的内侧表面形成可见的乌氏小体（Ubisch bodies,Ub)。（11）时期10（Stage10)：绒毡层进一步降解，产生大量高电子密度的乌氏小体；小孢子中  
+央形成大液泡。  
+（12）时期11（Stage11)：小孢子经历第一次有丝分裂，产生一个生殖核、一个营养核；绒  
+毡层几乎消失，花药壁内侧可见残存的绒毡层碎片以及乌氏小体。（13）时期12（Stage12)：生殖核经历第二次有丝分裂，形成成熟的三核花粉粒；绒毡层彻  
+底消失。（14）时期13（Stage13)：植株表现为开花，花粉囊相连，花药开裂。（15）时期14（Stage14)：花药散出花粉粒。
+
+Chen 与 Somaratne 等[24,25]在研究玉米花粉壁发育突变体过程中，对玉米减数分裂后发育过程的观察也显示该过程与同期水稻花药发育过程无差异。表1对玉米不同发育时期花药的形态特征、花药长度以及同时期表达基因进行总结；由于遗传背景的差异，同时期不同自交系玉米花药长度会有一定量变化。
+
+![](images/15f427959d307b1c6339d34f803673f31d3af90638916f39f34e0b3b31e3189d.jpg)  
+图4玉米花药发育14个时期的细胞学观察
+
+# Fig. 4 Cytological observation maize anther development at 14 stages
+
+L1,L2,and L3,thethrecellayers in stamen primordia; Ar,archesporial cell BP,bicellularpoen; Dy,dyadcell; E,epidermis; En,endothecium; MC, meiotic cell;ML,middle layer; MMC,microspore mother cell MP, mature pollen; Msp,microspore parietal cel; V,vascular bundle; PPL,primary parietal layer; SPL,secondary parietal cel layer; Sp, sporogenous cell; T, tapetum; Tds, tetrads; bars $= 5 0 \mu \mathrm { m }$
+
+# 表1玉米花药发育的细胞学变化过程[10]
+
+Table1 Major cytological events of maize anther development   
+
+<html><body><table><tr><td>时期</td><td>形态特征</td><td>花药长度 （μm）</td><td>表达基因</td></tr><tr><td>1</td><td>花药原基起始，由L1、L2、L3三层细胞构成。</td><td>30-120</td><td></td></tr><tr><td>2</td><td>L2层细胞分化形成AR细胞。</td><td>120-180</td><td>MSCA1[26]</td></tr><tr><td>3</td><td>AR细胞分裂形成PPL。</td><td>180-280</td><td></td></tr><tr><td>4</td><td>细胞分裂继续进行，形成EN和SPC，垂周分裂使花药小 室增大。</td><td>280-500</td><td>MAC1[4]</td></tr><tr><td>5</td><td>SPL分裂，形成ML和T。</td><td>500-700</td><td></td></tr><tr><td>6</td><td>花药小室增大，AR发育成熟形成MMC。</td><td>1000-1200</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>7</td><td>MC 与绒毡层接触，周围朕抵质降解ML变薄。</td><td>1200-1500</td><td></td></tr><tr><td>8a</td><td>减数第一次分裂完成，形成二分体；绒毡层染色质浓缩。</td><td>1500-2000</td><td>MS9[27]、MS23[28]、 MS32[29]</td></tr><tr><td>8b</td><td>减数第二次分裂结束，形成由朕抵质包裹的四分体。</td><td>2000-2500</td><td>MS26[31]、MS45[32]、 MS8[30]</td></tr><tr><td>9</td><td>胼骶质降解，小孢子释放。</td><td>2500-3000</td><td>APV1[25]、IPE1[24]</td></tr><tr><td>10</td><td>小孢子内部形成中央大液泡，与绒毡层接触，绒毡层进一 步降解。</td><td>3000-3500</td><td></td></tr><tr><td>11</td><td>小孢子内液泡收缩，细胞核经过一次有丝分裂形成营养核 和生殖核。</td><td>3500-5000</td><td></td></tr><tr><td>12</td><td>生殖核在经过一次有丝分裂，形成三核花粉粒；绒毡层彻 底降解。</td><td>5000-5500</td><td></td></tr><tr><td>13</td><td>花粉粒继续进行淀粉积累，呈圆球状。</td><td>5500-6000</td><td></td></tr><tr><td>14</td><td>花药开裂，散粉。</td><td>5500-6000</td><td></td></tr></table></body></html>
+
+$M S C A I = .$ Male sterile converted antherl, $M A C I = I$ Multiple archesporial cell1, $A P V I =$ Abnormal pollen vacuolation1, $I P E I =$ Irregular pollen exine1.
+
+# 3玉米花药发育的世系假说（Linagehypothesis）
+
+花药由四层壁细胞以及中央生殖细胞组成（图2c)，各层细胞规则排列且发育受到严格调控，是研究细胞分化的理想模型[3；但被子植物花药发育相关研究多集中于四层壁细胞形态建成之后，关于壁细胞分化过程的报道较少，目前最广为接受的便是世系假说（图3)。该假说强调细胞的世系，认为受到严格调控的平周分裂是花药不同层细胞形态建成的决定因素[35],L2 层细胞经过三次平周分裂形成内皮层、中间层、绒毡层以及中央孢原细胞。首先，位于表皮层下的L2层细胞经过第一次平周分裂，形成中央孢原细胞和原生壁细胞。原生壁细胞紧邻表皮层，孢原细胞位于内侧；前者经过短暂的分裂，形成完整包裹孢原细胞的细胞层。该层细胞再经过一次平周分裂，形成内皮层和次生壁细胞；后者经过第三次平周分裂，形成中间层和绒毡层。目前，细胞学观察结果仅能证实世系假说第三次平周分裂，更早期花药发育细胞分化的方向及顺序并未得到证实[36]；此外，Kelliher 等通过激光共聚焦显微镜对玉米早期花药发育进行观察，发现孢原细胞并非单一起源，L2 层细胞可能会分裂同时产生多个孢原细胞[5]。
+
+# 4玉米花药败育类型
+
+玉米花药发育起始于花原基形成，结束于散粉完成，此过程持续约30天[5]，需要大量孢子体与配子体基因协同表达调控。不同时期表达基因的突变可能会导致不同的雄性不育表型。Timofejeva等[37]对44个不同来源的玉米雄性不育突变体进行详细的细胞学观察，将它们分为减数分裂前突变体、减数分裂中突变体、减数分裂后突变体三个种类型，并对减数分裂前突变体的各类表型进行详细的描述。
+
+此外，已报道的雄性不育可分为三种类型：花药形成受阻（无花药型）、花药结构异常（无花粉型）、花粉粒发育异常（花粉粒败育型)。（1）无花药型突变体：主要表现为花药缺失，雌穗花丝增多，玉米SILKYI和STERILETASSELEAR1分别是拟南芥中AP3 和 $P I$ 的同源基因，属于ABC模型中的B家族成员，该类基因突变后会导致雄蕊原基发育受阻，转化为雌蕊原基[38.39]。（2）无花粉型突变体：表现为花药数目减少，且每个花药中花药小室数目减少；未能形成辐射状对称的四层壁细胞，或花药细胞层提前降解；MSCA1 基因编码一个谷氧还蛋白，其突变后花药中未能形成孢原细胞，而是分化形成薄壁细胞[26]；MAC1基因编码一个小的分泌蛋白，其突变后玉米花药小且孢原细胞数目增多，而体细胞数量减少[4]；MS23 和 MS32基因均编码具有螺旋-环-螺旋结构（basic helix-loop-helix,bHLH）的转录因子，参与调控花药壁分化过程，它们的突变会导致绒毡层细胞发育异常[28,29,40]；MS8 基因编码一个β-1,3-半乳糖基转移酶，在减数分裂时期的花药中大量表达，ms8突变体表现为花药伸长受阻，绒毡层细胞数目减少，体积增大，朕抵质增多，孢子细胞完成减数第一次分裂后降解 [20.30]；此类突变体败育时期较早，孢子母细胞未能进入减数分裂或者未能完成减数分裂过程。（3）花粉粒发育异常型雄性不育突变体：也称为功能缺失型雄性不育突变体。该类突变体组织发生正常，可形成辐射状对称的四层壁细胞和中央的孢子母细胞，且孢子母细胞能顺利完成减数分裂，但随后小孢子发育出现异常。小孢子外壁由孢子花粉素堆积形成，其主要成分为脂类及其衍生物，在绒毡层合成，然后运输至小孢子外侧。IPE1[24]、APVI[25]、MS26[31]、MS45[32]等基因编码脂肪酸及其衍生物代谢相关的氧化还原酶，参与花粉外壁主要成分孢子花粉素的合成，该类基因突变会导致小孢子外壁发育受阻。此外,ipel、apv1和ms26突变体还表现为花药外壁光滑，角质层消失[24-25];说明花药角质层与孢子花粉素共用绒毡层中的脂类代谢途径。
+
+# 5玉米花药发育的细胞学研究方法
+
+对表型的精细观察是花药发育研究的前提，此部分对组织、细胞、亚细胞等不同层面的细胞学研究方法进行了总结。同时，随着科技的进步，利用多种组学手段和高通量测序技术对玉
+
+米不育材料进行深入研究，为人们解析复杂的雄性不育调控机理提供了便利条件，本文同样也对转录组、蛋白质组、代谢组技术在花药发育研究中的应用进行了总结。
+
+# 5.1 扫描电镜（Scanningelectron microscope,SEM）观察
+
+SEM可用于观察花药及花粉粒表面形态，主要是用于判断花药表面角质层、花药内壁乌氏小体、花粉粒及其外壁的发育。具体操作过程可分为材料固定、梯度脱水、干燥、镀金和观察分析五个步骤。取野生型和突变体不同发育时期花药，浸于FAA（Formalin-Aceto-Alcohol)固定液中，固定液的体积不少于所取研究材料体积的20倍；对于已变黄的花药，可用解剖针在花药壁穿孔以提高固定液的渗透效果，或者反复抽真空至花药沉入固定液底部；室温固定2小时后，将材料置于 $4 ^ { \circ } \mathrm { C }$ 保存，或依次置于 $50 \%$ 、 $60 \%$ 、 $70 \%$ 、 $80 \%$ 、 $90 \%$ 、 $100 \%$ 的乙醇中进行脱水，每个梯度保持15分钟；材料可置于 $70 \%$ 的乙醇中过夜或保存。脱水后的样品进行二氧化碳临界点干燥，然后镀金即可进行观察。
+
+# 5.2树脂半薄切片观察
+
+树脂切片技术在花药发育相关研究中具有重要用途，可判断花药发育时期，突变体组织层面表型异常，其观察分析结果可有效地指导后续实验材料的选取。用于树脂切片的花药固定过程与SEM材料固定一致，随后利用梯度乙醇（ $50 \%$ 、 $70 \%$ 、 $90 \%$ 、 $100 \%$ ）进行脱水，每步15-30分钟。脱水过程中花药可置于 $70 \%$ 乙醇中长期保存；为便于后期包埋，可在 $90 \%$ 乙醇中加入$0 . 1 \%$ 的伊红对材料进行染色；为保证脱水彻底，材料须在无水乙醇中脱水2-3次。随后进行树脂替换，将花药依次置于乙醇与 Spur 树脂体积比为3:1、1:1、1:3 液体中 2-4小时，最后置于纯树脂中过夜。树脂置换完成后，将花药置于模具中，加入 $2 0 0 ~ \mu \mathrm { L }$ Spurr 树脂，置于烘箱中，$7 0 ^ { \circ } \mathrm { C }$ 聚合过夜。随后进行修块，然后可利用德国莱卡切片机进行切片，切片厚度为 $2 ~ { \mu \mathrm { m } }$ ；用镊子夹取切好的片子，置于载玻片中央的无菌水中， $4 2 ^ { \circ } \mathrm { C }$ 条件下展片过夜。将固定有样品的载玻片浸入 $0 . 1 \%$ 的甲苯胺蓝染液中，染色1分钟，然后用去离子水冲洗，再置于展片台上，烘干后即可用于显微观察；也可以封片后长期保存。
+
+# 5.3透射电镜（Transmission electronmicroscope,TEM）观察
+
+为观察花药亚细胞层面的结构或突变体更为精细的结构变异，需根据半薄切片的结果，选择合适时期的花药进行 TEM 观察。具体操作过程如下：将玉米花药浸入预冷的戊二醛固定液中，反复抽真空，至样品完全浸入固定液， $4 ^ { \circ } \mathrm { C }$ 条件下固定两小时，更换固定液，置于室温中过夜，利用 $0 . 1 \mathrm { { M } }$ 的PBS 漂洗4次，每次30分钟；去除PBS后，加入 $2 \%$ 的钳酸固定液，通风厨中室温固定四个小时；去除俄酸固定液后，0.1MPBS漂洗4次，每次20分钟；后续乙醇梯度脱水、树脂置换、包埋的过程同半薄树脂切片制作过程一致；修块后，利用超薄切片机进行切片，片子厚度为 $7 0 \mathrm { n m }$ ，切片所用玻璃刀或钻石刀需安装水槽，进行展片，随后使用睫毛笔将片子转移至镀有聚醋酸甲基乙烯脂膜的铜网上，并将铜网置于干燥环境中保存；将铜网粘有片子的一面浸入 $2 \%$ 醋酸双氧铀染液中，染色15分钟，随后使用双蒸水漂洗3次，每次1分钟；再将铜网置于柠檬酸铅染液中，染色15分钟，随后再使用双蒸水漂洗3次，每次1分钟，使用吸水纸吸去多余的水分，干燥环境中保存或干燥后利用透射电子显微镜进行观察分析。
+
+# 5.4孢子细胞染色体DAPI（4',6-diamidino-2-phenylindole）染色
+
+孢子母细胞经过一次减数分裂形成小孢子，随后小孢子经过两次有丝分裂形成包含一个营养核、两个生殖核的成熟花粉粒。直接参与减数分裂或有丝分裂的基因发生突变都可能会导致雄性不育之外的其它表型，本文不做讨论。花药发育过程中小孢子与绒毡层具有紧密联系，某些基因虽不直接参与减数分裂或有丝分裂，但基因突变后也会影响减数分裂的进程，在对该类突变体进行细胞学研究时，需对其染色体行为进行DAPI染色观察。具体操作过程为：将减数分裂时期的花药浸没于新配制的卡诺固定液（无水乙醇：冰醋酸 $\scriptstyle : = 3$ ：1）中， $- 2 0 ^ { \circ } \mathrm { C }$ 条件下固定24 小时；将花药置于载玻片上，加 $1 0 ~ \mu \mathrm { L }$ 醋酸洋红染液，破碎并夹出花药壁，盖上盖玻片后置于光学显微镜下观察；选择处于减数分裂时期的样品，做好标记，置于液氮中速冻，去除盖玻片， $- 2 0 ^ { \circ } \mathrm { C }$ 保存或加 ${ 5 \mu \mathrm { L } }$ DAPI染液，染色10分钟后置于荧光显微镜下观察。若要对减数分裂后小孢子内细胞核数量进行检测，则需取不同时期的花药浸没于FAA固定液中，室温固定12 小时；首先根据花药长度初步判断花药发育时期，然后选择合适的花药置于载玻片上，滴加 ${ 5 \mu \mathrm { L } }$ DAPI染液，用镊子轻轻挤出小孢子后染色10分钟，利用荧光显微镜进行观察分析。
+
+# 6玉米花药发育的组学研究方法
+
+# 6.1玉米花药脂类代谢产物含量测定分析
+
+角质层包含角质层蜡和角质两部分。角质层蜡是由长链脂肪族化合物组成的混合物；角质则主要由脂肪酸衍生物多聚体构成，且被角质层蜡包裹[41,42]。花粉外壁包裹在花粉粒最外层，是植物中最为复杂的细胞壁结构，由理化性质极为稳定的孢子花粉素构成，由于其超稳定的理化性质，孢子花粉素的精确组成成分还未知；近几年，随着新的物理、化学技术的出现，如核磁共振、硫代氨基甲酸酯处理，人们对孢子花粉素的组成有了进一步了解。越来越多的证据表明，孢子花粉素是由多种脂肪族单体物质构成，包括长链脂肪酸及其多羟基化衍生物、酚醛树脂类复合物等。这也就意味着脂肪酸代谢在角质层和花粉外壁的合成过程中发挥重要作用[43],因此对花药中蜡质、角质及游离脂肪酸的含量测定有助于解析参与该过程相关基因的功能。
+
+在脂类物质含量测定之前，首先建立花药鲜重与表面积之间的线性关系[44]，将花药看作圆柱体，称取不同质量的花药，进行扫描，然后统计各个花药的长与宽，分别作为圆柱体的高与底面直径，最后计算不同质量花药对应总表面积，进行线性化作图。脂类物质含量测定的具体过程如下[45]：（1)分别称取野生型和突变体各 $2 0 0 ~ \mathrm { { m g } }$ 鲜重花药置于玻璃瓶中，加入 $3 \mathrm { m L }$ 氯仿浸提1分钟，抽提液中加入 $1 0 ~ \mu \ g$ 十七烷酸和 $3 0 ~ { \mu \mathrm { g } }$ 正二十二烷醇作为内标物，转移至新的玻璃瓶中，氮气吹干后，加入 $1 0 0 ~ \mu \mathrm { L }$ MSTFA （N-Methyl-N-trimethylsilyl-trifluoroacetamide）,$5 0 ^ { \circ } \mathrm { C }$ 条件下衍生60分钟，使提取物中的自由羟基和羧基转化为相应的三甲基硅醚/酯，离心后取上清，进行GC-MS分析。（2）将上述花药重新浸入 $3 \mathrm { m L }$ 氯仿-甲醇溶液（1:1,v:v）中， $5 0 ^ { \circ } \mathrm { C }$ 条件下孵育30分钟，然后室温摇晃72小时，提取液于氮气中吹干待用；将脱脂后的花药冷冻干燥，用以分析角质单体。（3）脂肪酸提取物和脱脂花药中同时加入 $\boldsymbol { 1 } \mathrm { m L } \boldsymbol { 1 }$ 个当量的盐酸甲醇溶液，并加入 $1 0 ~ \mu \ g$ 十七烷酸作为内标， $8 0 ^ { \circ } \mathrm { C }$ 条件下孵育两个小时，再加入 $2 \mathrm { m L }$ 饱和氯化钠，混匀后加入 $1 \mathrm { m L }$ 正丁烷进行抽提，重复三次；合并抽提液，氮气吹干后，真空干燥4个小时，残渣中加入 $1 0 0 \mu \mathrm { L }$ MSTFA， $5 0 ^ { \circ } \mathrm { C }$ 条件下衍生60分钟，离心后取上清，进行GC-MS分析。
+
+# 6.2玉米花药转录组和蛋白质组样品选取与组学分析
+
+随着测序技术的发展以及成本的降低，转录组和蛋白组分析成为较普遍的信息挖掘方式；样品的选取对于后续信息分析具有重大影响。虽现已证明花药长度与发育时期具有较强的线性关系[5]，但为提高生物重复之间的一致性，建议基于树脂半薄切片分析结果选取适当时期的样品，以准确判断两个待比较样品的发育时期。
+
+目前，已有多篇文章对玉米花药不同发育时期的转录组及蛋白组变化进行报道，且主要集中在减数分裂前及减数分裂等花药发育前期[46-48]。Ma 等[49]对花药起始后小穗、有丝分裂增殖期花药、减数分裂前花药以及减数第一次分裂前期花药进行转录本芯片分析，发现减数分裂前期花药转录本复杂性最高，MADS 转录因子及富含亮氨酸的受体激酶在花药发育过程中可能发挥重要功能。对上述时期及单核期、双核期、成熟花粉粒转录本分析表明，成熟期花粉粒中转录本最少，减数分裂期转录本复杂性最低；参与花药发育的基因种类繁多，部分基因的表达具有时期特异性，部分基因在花药发育大多数时期均有表达[3]。Zhang 等[50]将减数分裂前花药进一步划分为5个时期，并结合纤维切割技术对花药不同层壁细胞转录本进行检测；同时利用质谱技术检测相同发育时期蛋白组，结果显示花药发育早期蛋白组与减数分裂期蛋白组之间存在较大差异，且同时期转录组与蛋白组一致性较差。利用转录组及蛋白组学手段研究玉米花药不同发育时期及雄性不育突变体与野生型之间表达基因的差异将为解析玉米花药发育的调控机理提供便利途径。
+
+# 6.3玉米花药代谢组学分析
+
+作为继基因组学与蛋白组学后新进发展起来的一门学科，代谢组学是系统生物学的重要组成部分。代谢组是指某一时刻细胞内所有参与生物体新陈代谢、维持生物体正常生长发育的所有低分子量代谢产物；代谢组学则是对某一生物或细胞在某一特定条件或生理时期所有低分子量代谢产物进行定性和定量分析的学科[51]。相较于动物以及微生物，植物中代谢物极为丰富，植物界总代谢物种类超过 20万种，单一物种中的代谢物达到几千种[52]。这些代谢物在维持植物正常生长发育、抵抗外界生物及非生物胁迫过程中发挥重要作用[53]。
+
+多种初级及次级代谢产物参与玉米花药发育过程。如角质层蜡由碳链长度从22到48的长链脂肪族化合物组成。这些化合物的合成依赖于内质网中的延伸复合体[54]。该复合体产生的长链酯酰辅酶A可以经过醇类产生途径，被加工成奇数碳的初级醇和烷脂；或者经过烷烃合成途径，被加工成醛、偶数链烷烃、次级醇和酮类等物质。角质多聚体则主要由内部酯化的羟基脂肪酸构成[55]，也包含一些丙三醇、二羧酸和酚醛树脂化合物等物质。孢子花粉素是花粉外壁的主要组成成分，由多种脂肪族单体物质构成，包括长链脂肪酸及其多羟基化衍生物、酚醛树脂类复合物等[56]。虽至今尚无关于玉米花药发育的代谢组报道，但直接测量突变体代谢组或者特定代谢组份的变化以解析相关功能基因已在拟南芥中得到应用。拟南芥中苯丙氨酸代谢途径中的苯丙氨酸脱氨酶（Phenylalanine ammonia-lyase,PAL）由4个基因编码，代谢组分析发现pallpal2 双突变体中缺乏3种黄酮醇苷类物质，而苯丙氨酸过量积累，同时其它非芳香族类氨基酸代谢均受到影响，且木质素含量降低[57]。对花药壁及花粉壁异常突变体代谢组的研究将为解析目的基因的功能提供新的视角。
+
+# 6.4玉米花药发育的多组学联合分析
+
+随着技术的发展，基于多组学的全转录组测序分析已成为研究趋势。除mRNA外，全转录组分析还包括对miRNA（小RNA）、LncRNA（长非编码RNA）、circRNA（环状RNA）的测序分析。PhasiRNA（phased small-interfering RNAs）是小RNA 的一种，有 2lnt 和 24nt 两类，现有研究表明 2lnt phasiRNA在亚表皮层富集，24nt phasiRNA 在绒毡层及孢子细胞中富集;且phasiRNA 在不同的花药壁发育异常突变体中发生不同的变化，该研究表明 phasiRNA 在玉米花药早期发育过程中发挥重要功能[58]。水稻农垦 58S 为光温敏不育突变体，不育特性由 pmsl和 pms3两个位点控制；近期研究表明PMS1为不完全显性基因，编码一个LncRNA，PMS1能够被 micro RNA2118 识别并介导剪切,形成一串 2lnt的小RNA。农垦 58S与可育品种在 pmsl区间存在一个突变的碱基，位于剪切位点下游的 $2 4 ~ \mathrm { b p }$ ，这一突变导致了农垦58S在长日照下能产生更多的phasiRNA，从而造成雄性不育[59]。由于miRNA及LncRNA主要通过介导目的基因转录本沉默来发挥作用，因此对miRNA、LncRNA靶基因及mRNA差异基因进行联合分析，更有利于解析花药发育的调控网络。CircRNA是最近才被发现的一类RNA，该类RNA5'端和3’端共价结合形成闭合环状结构，不易被降解，可在细胞内长期行驶转录调控功能；虽然该类RNA在玉米花药发育过程中的功能未见诸报道，但其普遍参与动植物生长发育及对环境胁迫的响应；对该类RNA的研究必将丰富对玉米花药发育调控的认知。
+
+此外，随着分析方法的进步，利用转录组、蛋白组以及代谢组进行联合分析，构建基因、蛋白与代谢物的互作网络，发掘核心代谢通路，将为解析玉米花药发育调控网络提供更为宏观的视野。
+
+# 7玉米花药发育遗传学与分子生物学研究方法
+
+# 7.1玉米核不育基因的遗传学分析与图位克隆
+
+玉米雄性不育是田间常见的突变类型。对此类材料进行遗传学分析，需首先利用其它自交系给不育材料授粉，若 $\mathrm { F } _ { 1 }$ 全部可育，则为隐性突变；若F1出现可育、不育分离，该突变可能为显性突变；上述两种突变均属于孢子体类型。若Fi植株产生的花粉粒均为一半可育一半不育，则为配子体突变。目前，较为常见的突变类型为孢子体隐性核不育，对于该类型突变体，可利用 $\mathrm { F } _ { 1 }$ 自交构建 $\mathrm { F } _ { 2 }$ 群体，或者给突变体授粉构建BCiFi群体，并对群体植株的育性分离比进行统计。若 $\mathrm { F } _ { 2 }$ 群体中可育单株与不育单株的分离比符合3:1，或者 $\mathbf { B C } _ { 1 } \mathbf { F } _ { 1 }$ 群体中可育单株与不育单株分离比符合1:1，则为隐性单基因突变体。
+
+遗传学分析完成后，可利用构建的分离群体对单基因突变体进行图位克隆，或利用混合组分分析（Bulk segregation analysis，BSA）结合全基因组重测序的方法，筛选目的基因[60]。精细定位完成后可得到候选基因，随后通过转基因或者基因敲除的方式对候选基因进行功能验证。
+
+# 7.2基因表达分析
+
+玉米花药发育是一个复杂的生物学过程，至少 $7 5 \%$ 的玉米基因组已注释的基因在玉米花药发育过程中表达[50]。但同时各个基因的表达受到严格调控，因此对于已知基因的时空特异性表达分析有助于解析基因的表达部位与潜在的功能。qRT-PCR 可以检测基因特异表达的器官，结合半薄切片分析结果，则可以对基因表达所处花药发育时期进行精确判断。此外，基因表达在组织层面也具有特异性，可利用原位杂交实验检测基因表达的组织特异性，同时与qRT-PCR结果相互验证。
+
+在亚细胞层面，蛋白质需进入不同的细胞器发挥功能；因此对已知蛋白质的亚细胞定位分析，有助于解析其发挥作用的方式。目前，常用的亚细胞定位方式是将目的蛋白与荧光蛋白融合转化原生质体、洋葱表皮细胞或者烟草叶片进行瞬时表达，通过检测目的蛋白荧光信号与特定细胞器染料荧光信号的共定位情况，判断该蛋白的亚细胞定位。随着超薄切片技术的进步，将TEM与蛋白免疫印痕相结合的免疫胶体金技术（Immune collidal gold technique）提供更为直观的检测蛋白定位的方法。
+
+# 7.3基因调控代谢网络分析
+
+不同基因以调控网络的形式参与花药的发育过程，因此解析不同基因间相互关系可以帮助我们更宏观地了解玉米发育的调控过程。不同的蛋白通常以复合体的形式发挥作用，酵母双杂技术（Yeast two hybridization）可筛选与目的蛋白相互作用的蛋白，用以解析蛋白发挥作用的具体方式。基因的时空特异性表达受上游转录因子的调控，酵母单杂交技术则可以筛选调控基因表达的反式作用因子。染色体免疫沉淀技术（Chromosome immunoprecipitation）与二代测序（Next generation sequencing）技术相结合的ChIP-seq 技术则可以筛选已知转录因子潜在的调控基因。上述研究方法与各种组学研究方法以及基因编辑技术相结合，可有效解析基因调控代谢网络。
+
+# 8讨论
+
+玉米花药发育的研究在基础理论和应用实践中均具有重要的作用。随着技术的进步，在模式植物拟南芥和水稻中，大量参与花药发育的基因被克隆报道，其调控网络正在初步建立[61-64]。被子植物花药形态的保守性预示着不同物种间花药发育调控的保守性，CRISPR/Cas9 基因组编辑技术的成熟以及在玉米中的成功运用[65],为我们研究同源基因在玉米花药发育过程中的功能提供便捷途径。此外，随着本实验室玉米多控不育（Mutli-Control Sterility,MCS）技术和美国先锋公司 SPT（Seed production technology）技术的报道，玉米隐性核不育突变体重新得到人们的重视，IPE1[24]、APV1[25]、MS2[6]、MS7[67]等基因最近相继被报道；这有助于人们更好地理解玉米花药发育的调控机制并指导其在生产中的应用。
+
+# 参考文献
+
+[1] BhattAM, Canales C,Dickinson HG.Plant meiosis: the means to 1N.Trends in Plant Science,20o1,6: 114-121.   
+[2] Ma,H.Molecular genetic analyses of microsporogenesis and microgametogenesis in flowering plants. Annual Review of Plant Biology,2005, 56: 393-434.   
+[3] Ma J,David S S, John F,et al. Male reproductive development: gene expression profiling of maize anther and pollen ontogeny. Genome Biology,2008, 9: R181.   
+[4] Wang C J,Nan GL, Kelliher,T. et al. Maize multiple archesporial cells 1 (macl),an ortholog of rice TDL1A, modulates cellproliferation and identity in early anther development. Development, 2012,139: 2594-2603.   
+[5] Kellier T，Walbot V. Emergence and pattrning of the five cell types of the Zea mays anther locule. Developmental Biology, 2011, 350: 32-49.   
+[6] Goldberg R B,Beals TP,Sanders P M. Anther development: basic principles and practical applications.Plant Cell, 1993,5: 1217-1229.   
+[7] McCormick S. Male gametophyte development. Plant Cell, 1993, 5: 1265-1275.   
+[8] Scott R J, Spielman M, Dickinson H G. Stamen structure and function. Plant Cell, 2004,16: S46-60.   
+[9] 吴锁伟，方才臣，邓联武，等．玉米隐性核雄性不育基因研究进展及其育种应用途径分析．分子植物育种， 2012,10: 1001-1011. Wu S W,Fang C C, Deng L W,et al. Research progress on maize recessive genic male sterility gene and its utilization strategies in maize breeding program. Molecular Plant Breeding,2012,10: 1001-1011.   
+[10] Kelier T,Egger RL, Zhang H,et al. Unresolved issues in pre-meiotic anther development.Frontiers in Plant Science, 2014, 5:347.   
+[11] Irish VF.Petal and stamen development. Current Topics in Developmental Biology,1999,41: 133-161.   
+[12] Cacharrn J, Saedler HF,Theissen G.Expression of MADS box genes ZMM8 and ZMM14 during inflorescence development of Zea mays discriminates between the upper and the lower floret of each spikelet. Development Genes and Evolution,1999,209:411-420.   
+[13] Patrick S,Georg F,Antony B,etal. Perception of free cutin monomers by plant cells. Plant Journal,1996,10: 331-341.   
+[14] Fauth M, Schweizer P, Buchala A,et al. Cutin monomers and surface wax constituents elicit $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ in conditioned cucumber hypocotyl segments and enhance the activity of other $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ elicitors.Plant Physiology, 1998,117: 1373-1380.   
+[15] Zhu Q H,Ramm K, Shivakkumar R, et al. The ANTHER INDEHISCENCE1 gene encoding a single MYB domain protein is involved in anther development in rice.Plant Physiology,2004,135:1514-1525.   
+[16] Sheridan WF,Golubeva E A,Abrhamova $\mathrm { ~ L ~ I ~ }$ ，et al.The macl mutation alters the developmental fate of the hypodermal cells and their cellular progeny in the maize anther. Genetics,1999,153: 933-941.   
+[17] Yang SL, Jiang L,Puah C S,et al. Overexpression of TAPETUM DETERMINANTl alters the cellfates in the Arabidopsis carpel and tapetum via genetic interaction with excess microsporocytes1/extra sporogenous cels. Plant Physiology,2005,139: 186-191.   
+[18] Mizuno S,Osakabe Y, Maruyama K,et al. Receptor-like protein kinase 2 (RPK 2) is a novel factor controlling anther development in Arabidopsis thaliana. Plant Journal, 2007, 50: 751-766.   
+[19]Skibbe D S,Wang X J, Borsuk LA,et al. Floret-specific diffrences in gene expresionand support for the hypothesis that tapetal degeneration of Zea mays L. ocurs via programmed celldeath. Journal of Genetics and Genomics, 2008,35: 603-616.   
+[20] Wang D,Oses-Prieto JA,LiKH,et al. The male sterile 8 mutation of maize disrupts the temporal progression of the transcriptome and results in the mis-regulation of metabolic functions.Plant Journal,2010,63: 939-951.   
+[21] Warmke H E,Lee S J. Mitochondrial degeneration in Texas cytoplasmic male-sterile corn anthers. Journal of Heredity,1977, 68: 213-222.   
+[22] Zhang D, Wilson Z A. Stamen specification and anther development in rice. Chinese Science Buletin,2009,54: 2342-2353.   
+[23] Zhang D,Luo X, Zhu L. Cytological analysis and genetic control of rice anther development.Journal of Genetics and Genomics,2011,38: 379-390.   
+[24] Chen X Y, Zhang H, Sun H Y,et al. IRREGULAR POLLEN EXINE1 is a novel factor in anther cuticle and pollen exine formation. Plant Physiology, 2016,173: 307-325.   
+[25] Somaratne Y, Tian Y, Zhang H, et al. ABNORMAL POLLEN VACUOLATION1 (APV1) is required for male fertility by contributing to anther cuticle and pollen exine formation in maize. Plant Journal,2017,90: 96-110.   
+[26]Chaubal R,Anderson JR,TrimnellMR,et al.The transformationof anthers in the mscalmutant of maize.Planta, 2003,216: 778-788.   
+[27] Albertsen, M.,et al., Cloning and use of the ms9 gene from maize. US patent US20160024520A1 2016.   
+[28] Nan G L, Zhai J,Arikit S,et al. MS23,a master basic helix-loop-helix factor,regulates the specification and development of the tapetum in maize. Development, 2017,144: 163-172.   
+[29] Moon J,Skibbe D,Timofejeva L,et al.Regulation ofcelldivisions and differentiation by MALE STERILITY32 is required for anther development in maize.Plant Journal, 2013,76, 592-602.   
+[30] Wang D, Skibbe D S,Walbot V. Maize Male sterile 8 (Ms8),a putative-1,3-galactosyltransferase, modulates celldivision, expansion,and diferentiation during early maize antherdevelopment. Plant Reproduction,2013,26: 329-338.   
+[31]Albertsen M C,Fox T, Huffman G,et al. Nucleotide sequences mediated male fertity and method of using same. United States Patent Application Publication US2012/0005792 A1 (2012).   
+[32] Albertsen M C,Beach L R, Howard J,et al. Nucleotide sequences mediated male fertility and method of using same. United States Patent Application Publication,1995, US005478369A.   
+[33] Bedinger PA, Fowler JE. The maize male gametophyte. Handbook of maize: Its biology. 2009.   
+[34] Zhang D B, Yang L. Specification of tapetum and microsporocyte cels within the anther. Current Opinion in Plant Biology,2014,17, 49-55.   
+[35] Kiesselbach TA. The structure and reproduction of corn. Cold Spring Harbor Laboratory Press.1949.   
+[36] Sheridan W F,Golubeva E A,Abrhamova L I,et al. The macl mutation alters the developmental fate of the hypodermal cels and their celllar progeny in the maize anther. Genetics,1999,153,933-941.   
+[37] Timofejeva L,Skibbe D S,Lee S,etal. Cytological characterization and alelism testing of anther developmental mutants identified in a screen of maize male sterile lines. G3,2013,3:231-249.   
+[38]Barbara AA,David RL,Pietro C,etal. Molecular and genetic analyses of the Silkyl Gene reveal conservation in floral organ specification between eudicots and monocots. Molecular Cell, 20o0, 5: 569-579.   
+[39] Bartlett ME,Williams S K,TaylorZ et al.The maize PI/GLOortholog Zmml6/sterile tassel silky earl interacts with the zygomorphy and sex determination pathways in flower development. Plant Cell,2015,27: 3081-3098.   
+[40] Raj C, Carla Z, Mary R T, et al. Two male-sterile mutants of zea mays with an extra cell division in anther wall. American Journal of Botany,2000, 87: 1193-1201.   
+[41] Kunst L,Samuels AL. Biosynthesis and secretion of plant cuticular wax. Progress in Lipid Research,2003,42: 51-80.   
+[42] Yeats TH,Rose JK. The formation and function of plant cuticles. Plant Physiology,2013,163: 5-20.   
+[43] Kim S S,Douglas CJ. Sporopollenin monomer biosynthesis in arabidopsis. Journal of Plant Biology,2013,56: 1-6.   
+[44] Li H,Pinot F, Sauveplane V, et al. Cytochrome P450 family member CYP704B2 catalyzes the $\boldsymbol { \omega }$ -hydroxylation of fatty acids and is required for anther cutin biosynthesis and polen exine formation in rice.Plant Cell,2010,22: 173-190.   
+[45] Shi J,Tan H, Yu X H,et al. Defective pollen wallis required foranther and microspore development in rice and encodes a fatty acyl carrier protein reductase. Plant Cell,2011, 23: 2225-2246.   
+[46] Ma J,Morrow D J,Fernandes J,et al. Comparative profiling of the sense and antisense transcriptome of maize lines. Genome Biology,2006,7: R22-R22.   
+[47] Wijeratne A J. Differential gene expression in Arabidopsis wild-type and mutant anthers: insights into anther cell differentiation and regulatory networks. Plant Journal,2007, 52: 14-29.   
+[48] Skibbe D S,Fernandes JF,Medzihradszky KF,etal. Mutator transposon activity reprograms the transcriptomes and proteomes of developing maize anthers. Plant Journal, 2009, 59: 622-633.   
+[49] Ma J,Duncan D,Morrow DJ,et al. Transcriptome profiling of maize anthers using genetic ablation to analyze pre-meiotic and tapetal cell types. Plant Journal, 2007, 50: 637-648.   
+[50] Zhang H, Egger R L, Kelliher T, et al. Transcriptomes and proteomes define gene expression progression in pre-meiotic maize anthers. G3, 2014,4: 993-1010.   
+[51] Goodacre R .Metabolic profiling: pathways in discovery. Drug Discovery Today, 2004, 9: 260-261.   
+[52] D'Auria J C, Gershenzon J. The secondary metabolism of Arabidopsis thaliana: growing like a weed. Current Opinion in Plant Biology,2005,8:308-316.   
+[53] Pichersky E, Gang D R. Genetics and biochemistry of secondary metabolites: an evolutionary perspective. Trends in Plant Science, 2000, 5: 439-445.   
+[54] Bernard A,Joubes J.Arabidopsis cuticular waxes: advances insynthesis,export and regulation. Progress inLipid Research,2013, 52: 110-129.   
+[55] HerediaA. Biophysical and biochemical characteristics of cutin,a plant barrier biopolymer. Biochim Biophys Acta, 2003,1620: 1-7.   
+[56] Kim S S,Douglas CJ. Sporopollenin monomer biosynthesis in arabidopsis.Journal of Plant Biology,2013,56: 1-6.   
+[57] Rohde,A. Molecular phenotyping of the pall and pal2 mutants of Arabidopsis thaliana reveals far-reaching consequences on phenylpropanoid,amino acid,and carbohydrate metabolism. Plant Cel, 2004,16: 2749-2771.   
+[58] Zhai J， Zhang H, Arikit S,et al. Spatiotemporally dynamic，cell-type-dependent premeiotic and meiotic phasiRNAs in maize anthers. Proceedings of the National Academy of Sciences of the USA, 2105,112: 3146-3151.   
+[59] Fan Y,Yang JY，Mathioni S M,et al. PMS1T,producing phased small-interfering RNAs,regulates photoperiod-sensitive male sterility in rice. Proceedings of the National Academy of Sciences of the USA,2016, 113: 15144-15149.   
+[60] Cuperus JT,Montgomery TA,Fahlgren N,et al. Identification of MIR39Oa precursor processing-defective mutants in Arabidopsis by directgenome sequencing. Proceedings of the National Academy of Sciences of the USA,2014,107: 466-471.   
+[61] Ariizumi T,Toriyama K. Genetic regulation of sporopollenin synthesis and pollen exine development. Annual Review of Plant Biology. 2011, 62: 437-460.   
+[62] Quilichini TD,Grienenberger E,Douglas CJ.The biosynthesis,composition and assemblyof the outer pollen wall: A tough case to crack. Phytochemistry, 2015,113: 170-182.   
+[63] Shi J,Cui M, Yang L,et al. Genetic and biochemical mechanisms of pollen wall development. Trends in Plant Science,2015,20: 741-753.   
+[64] 王多祥，祝万万，袁政，等．水稻雄性发育功能基因的发掘及应用．生命科学，2016，28:1180-1188. Wang D X, Zhu WW,Yuan Z,et al. Functional research ofrice male reproduction and its utilization in breeding. Chinese Bulletin of Life Sciences, 2016,28: 1180-1188.   
+[65] Liang Z, Zhang K, Chen K, et al. Targeted mutagenesis in Zea mays using TALENs and the CRISPR/Cas system. Journal of Genetics and Genomics,2014,41: 63-68.   
+[66]Kang D,Wang C, Xu Q,et al. Characterization of maize male sterile 2 mutant by phenotypic and RNA sequencing analyses.Plant Breeding,2017,136, 319-330.   
+[67] Zhang DF,Wu S W,An X L,etal. Construction of a multi-control sterility system for a maize male-sterile line and hybrid seed production based on the ZmMs7 gene encoding a PHD-finger transcription factor. Plant BiotechnologyJournal, 2017, doi:10.1111/pbi.12786.
+
+Cytobiology and molecular genetics research methods on maize anther development
+
+TIAN You-hui1,2, WAN Xiang-yuan1,2
+
+(1 Advanced Biotechnology and Application Research Center, Institute of Biology and Agriculture,School of   
+Chemistry and Biological Enginering,University of Science and Technology Beijing,Beijing,10oo24,China.)   
+(2 Beijing Engineering Laboratory of Main Crop Bio-Tech Breeding,Beijing International Science and Technology Cooperation Base of Bio-Tech Breeding, Beijing SolidwillSci-Tech Co.Ltd.,Beijing,100192, China)
+
+AbstractMale sterile materials play important roles both in maize heterosis utilization and hybrids production, which are based on cytobiology and molecular genetics research on maize anther development. Anther development of maize is sophisticated, which need cooperative regulation of sporophyte and gametophyte. Here, we summarized the research progresses in maize anther morphology,maize anther development division, male sterility classfication，cytobiology research methods，various omics research methodsand molecular genetics methods on anther development， which will provide methodological clues for understanding the mechanism underlying maize anther development and industrialized utilization of male sterile materials.
+
+Key wordsMaize,Anther,Male sterility,Heterosis utilization

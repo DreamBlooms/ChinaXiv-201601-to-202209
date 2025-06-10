@@ -1,0 +1,208 @@
+# DOI: 10.5846/stxb201701170140
+
+陈瑞东,温永福,高鹏,穆兴民,赵广举,孙文义.极端降水条件下延河水沙特征对比分析及其影响因素.生态学报,2018,38(6):1920-1929. ChenRD,WenYGo,uXZaoGJnWoparativeaalysisofowdedientcharacteristsofteeRiverde rainfall conditions and research on influence factors.Acta Ecologica Sinica,2O18,38(6):1920-1929.
+
+# 极端降水条件下延河水沙特征对比分析及其影响因素
+
+陈瑞东1,²，温永福1,²，高鹏2,3，\*，穆兴民2,³，赵广举2,，孙文义²,3
+
+1西北农林科技大学水利与建筑工程学院，杨凌712100  
+2 西北农林科技大学土壤侵蚀与旱地农业国家重点实验室,杨凌712100  
+3中国科学院水利部水土保持研究所土壤侵蚀与旱地农业国家重点实验室,杨凌712100
+
+摘要：为探究延河流域在开展水土保持工程前后极端降水条件下水沙特征变化情况,采用统计学方法对比分析了延河流域1977年和2013年7月两次极端降水条件下的水沙特征变化情况。结果表明：1977年7月极端暴雨具有降雨强度大和降雨量峰值大、降雨强度空间分布极不均匀的特征;2013年7月极端暴雨具有降雨总量和时段降雨量大、暴雨频率高、降雨强度空间分布较均匀的特征。2013年7月洪水洪峰流量、洪水总径流量、洪峰含沙量等特征值较1977年7月显著减小,输沙量随径流量的减小而显著减小。1977年7月洪水表现为陡涨陡落,洪水历时较短;2013年7月洪水表现为缓涨缓落,洪水历时明显延长。与 1977 年相比,2013年泥沙颗粒明显细化。该研究表明 1990 年代以来水土保持高水平的规模化治理改变了流域产、汇流的下垫面条件,是导致1977年和2013年7月极端降水条件下的水沙特征表现迥异的主要原因。该研究为应对极端降水引发的洪灾和防治水土流失提供可靠的科学理论依据。
+
+关键词：极端降水；水沙特征；水土保持;延河流域
+
+# Comparative analysis of flow and sediment characteristics of the Yanhe River under extreme rainfall conditions and research on influence factors
+
+CHEN Ruidong1,2，WEN Yongfu1.2,GAO Peng2,3\*， MU Xingmin23， ZHAO Guangju 2.3， SUN Wenyi $^ { 2 , 3 }$ （204 1Collge ofWaterResoucesandArchitecturalEngineering，NorthuestAgicultureandForestryUnieity，Yanglinghina 2StateKyLboflsidrdgssertcuedresrUitg 3InstituteofSoiland WaterConservation，ChineseAcademyofScienceand MinistryofWaterResources，Yangling710China
+
+Abstract:Toexploreflowand sedimentcharacteristicsunder extremerainfallconditions before andafter erosion and torent control works in theYanhe River basin，weused statistical methods toanalyze flowand sediment characteristicsunder extremerainfallconditions inJuly1977and2O13,includingdailyrainfalland precipitationatdiferent timesat3O weather stations，flowand sediment dischargeattwohydrologicstations，and grain compositionatthe Ganguyi station.Theresults showedthat extremerainfallin July1977had thecharacteristicsofhighaveragerainfallintensityand peak rainfall，and unevenspatialdistributionofrainfallintensity.ExtremerainfallinJuly2O13hadthecharacteristicsofhigh total precipitationandhourlyrainfallintensity，highrainstormfrequencyandrelativelyuniformspatialdistributionofrainfall intensity.Precipitation inJuly2O13 wasapproximatelytwiceashighasprecipitationinJuly1977；however，floodpeak flow，totalrunoffandsedimentconcentrationinJuly2O13 weresignificantlydecreasedcomparedwithJuly197,andthere wasasignificant decrease insediment dischargecorresponding tothedecrease inrunof.Flooding in July1977 was characterized byasteepriseandfallof waterandashort flood duration；incontrast，flooding inJuly2013was characterizedbyaslowriseandfallof waterandasignificantlylongerflood duration.Compared with1977,there wasa decreaseinthetotalfloodrunoffinJuly2Ol3，andtheproportionsofrunoff beforeandafterthepeak decreasedand increased，respectively.Comparedwith 1977，sand grain size was clearly smaler in 2O13；Furthermore，theweightof sediment withsmallr sizehad increased，whereas the weightof sediment with larger size haddecreased.Thisstudyreveals thataseries of high-level erosion and torrent control works，such asretuming farmland toforest（grass）engineering，has changed theunderlying surfaceconditions in theYanhe River basinsincethe 199Os，which contributed to changes in rainfallandsediment characteristicsunder extremerainfallconditions between July1977and 2013.The findingsof this study provideareliable theoreticalbasis for measures to controlfloding caused byextremerainstorms andfor preventionof water loss and soil erosion.
+
+Key Words:extreme rainfall；flow and sediment characteristics；soil and water conservation；Yanhe River basin
+
+降水是影响河流水沙量变化的主要因素之一，黄土高原河流的径流和泥沙主要来源于几次大的暴雨过程[1-2]。当前,黄土高原水土保持工程对流域水沙特征影响的研究往往聚焦于长年系列的降水量与水沙关系的变化趋势。穆兴民等人[3]通过对黄河河口至龙门区间1952—2000 年降水、径流和泥沙量的分析表明水土保持措施起到了很好的减水减沙作用。杨丽红等[4]分析了延河流域1956—2010年水沙特征变化情况,指出近50年来降水量、径流量和输沙量都呈现逐渐减小的正相关关系，说明水土保持措施是延河流域水沙特征变化的主要原因。韩鹏等[5]分析了黄河流域河口至龙门区间近30 年实测泥沙资料,指出河流泥沙有明显细化趋势,说明这一改变与大规模的水土保持措施有关。而针对极端降水条件下水沙特征变化情况的研究相对缺乏。因此,开展相关的研究十分必要。延河流域在1977年7月和 2013年7月发生了两次极端降水事件,而洪水过程及水沙特征表现差异甚大[6]。本文通过比较分析延河流域两次极端降水条件下的水沙特征,讨论不同时期洪水水沙特征对暴雨的响应特征,为黄土高原地区应对极端降水引发的洪灾和防治水土流失提供可靠的科学理论依据。
+
+# 1研究流域概况
+
+延河发源于靖边县天赐湾高峁山,流经安塞县、宝塔区,于延长凉水岸注入黄河,全长 $2 8 7 \mathrm { k m }$ ,境内流域面积 $7 3 2 1 \mathrm { k m } ^ { 2 }$ ,占全市总面积的 $2 0 \%$ ,多年平均径流总量2.93亿 $\mathbf { m } ^ { 3 }$ ,平均比降 $3 . 2 6 \%$ ,总落差 $8 6 0 \mathrm { m }$ 。安塞站以上上游多年平均径流深大于 $4 5 \mathrm { m m }$ ,中游地区介于30— $4 5 \mathrm { m m }$ 之间,甘谷驿站以下下游低于 $3 0 \mathrm { m m }$ ,径流主要来源于上游。延河水系结构呈树枝状,主要有坪桥、杏子河、西川河、南川河、蟠龙川等支流。流域地貌为黄土丘陵沟壑,地势从西北到东南逐渐降低(图1)。流域内植被覆盖度低,农业耕作活动频繁,加之不合理的土地利用,导致流域水土流失严重,多年平均输沙量达3124万t。从1990年代开始,随着大规模高水平的水土保持以及退耕还林草工程的开展,显著改变了流域土地利用方式,对延河流域水沙情势产生了重要的影响。
+
+# 2数据和方法
+
+# 2.1数据
+
+降雨量数据选用延河流域30个气象站1977年和 2013年7月份逐日降雨量、时段最大降雨量实测值。径流、输沙量数据选用延河流域延安、甘谷驿2个水文站 1977年和2013年7月份的水文要素实测值。泥沙资料选用延河流域1977年和2013年甘谷驿站颗粒级配实测年值。以上资料均来源于水利部黄河水利委员会《黄河流域水文资料年鉴》。
+
+# 2.2方法
+
+本研究采用统计学方法对延河流域1977年和2013年7月降水、径流和输沙资料以及1977年和2013 年泥沙颗粒级配资料进行统计并对特征值作简单比较。采用 Kring空间要素插值法绘制等值线图,对比1977年和2013年7月日降雨量和日平均降雨强度的大小和空间分布特征[7-8]。根据中国气象局标准将 $5 0 , 1 0 0 \mathrm { m m }$ 作为暴雨和大暴雨的阈值，比较1977年和2013年7月暴雨和大暴雨发生的频率特征[9-10]和时段最大降雨量特征。根据径流泥沙资料分别绘制1977年和2013年7月的洪水过程线和洪水输沙过程线，计算洪水过程中径流量、洪水历时等特征值,并对比分析其变化情况[1]根据1977年和2013年泥沙颗粒级配实测年值，绘制泥沙粒径累计频率曲线进行对比分析。
+
+N 图例 A 大路沟 镰刀湾 ；气象站 化子坪 河流 谭家营 寺沟 DEM/m 杏河！ 安塞 蟠龙 吊沟 1800 招安 青化砭 400 康岔 沿河湾 砖窑湾 周家湾甘谷驿 金盆湾 枣园 张川河 延安庙岸 白家川 烧房砭洛平川 大村 3030 龙寺三十里铺 斗咀村 0 20 40km 10900' 109°30' 11000'E
+
+# 3结果与分析
+
+# 3.1降水特征分析
+
+# 3.1.1 累计降雨量和降雨强度的大小和空间分布特征
+
+对比分析
+
+延河流域在1977年和2013年7月份发生了罕见的极端降雨事件。1977年7月份强降雨主要集中在延河流域中上游的康岔、招安一带,日平均降雨强度的空间分布与累计降水量具有一致性,该地区7月累计降雨量在 $2 9 0 \mathrm { m m }$ 以上,降雨强度在 $3 5 \mathrm { m m / d }$ 以上，累计降雨量和降雨强度的值沿康岔、招安一带向西北和东南都呈阶梯式逐渐减小的趋势。2013年7月份强降雨主要集中在延河流域下游龙寺、三十里铺一带,日平均降雨强度的空间分布与累计降水量的空间分布大致相同,降雨强度维持在 $3 0 \mathrm { m m / d }$ 左右,整个流域各站点7月份累计降雨量值异常偏大,维持在510— $6 6 0 \mathrm { m m }$ 之间，普遍高于1977年同期的降雨量，是历年同期的3.8—5.5倍,累计降雨量大值分布在下游甘谷驿、三十里铺、张川河一带,维持在 $6 0 0 \mathrm { m m }$ 以上,累计降雨量的值从西北到东南呈逐渐增大的趋势[12-13]。
+
+延河流域1977年7月份降水空间分布极不均匀,降雨强度的值从上游的大路沟、五里湾、张渠一线到暴雨中心的招安、康岔一线由10—42mm/d陡增,从暴雨中心的招安、康岔一线到下游的张川河、大村、斗咀村一线由 $4 2 { \mathrm { - } } 1 0 { \mathrm { m m / d } }$ 陡降，枣园一带降雨强度仅 $6 \mathrm { { m m } / d }$ 。2013年7月份降水空间分布相对均匀，累计降雨量的值从中上游的杏河、康岔、招安一线到下游白家川、大村、斗咀村一线都维持在500— $6 0 0 \mathrm { m m }$ 之间,流域各站点降水强度的值大致维持在20— $3 0 \mathrm { m m / d }$ （图2）。
+
+# 3.1.2极端降水频次特征对比分析
+
+1977年7月份延河流域30个站点中有五里湾、洛平川、龙寺、三十里铺、张川河、大村、斗咀村7个站点无暴雨日，仅招安站有2个暴雨日，占月降雨量的比例为 $7 6 . 5 \%$ ,其余各站点仅有一个暴雨日，均占月降雨量的比例为 $5 0 \% - 6 0 \%$ 。2013年7月份延河流域30个站点均有暴雨日,暴雨发生的频率远高于1977年7月份，其中仅大路沟、五里湾、镰刀湾3个站点有一个暴雨日，均占月降雨量 $20 \%$ 左右,杏河、谭家营、金盆湾、安塞、寺沟、洛平川、蟠龙、周家湾8个站点有两个暴雨日，占月降雨量的比例为 $3 0 \% - 4 0 \%$ ,其余19 个站点均有3—6个暴雨日，占月降雨量的比例为 $5 0 \%$ 一 $7 0 \%$ 。1977年7月份大暴雨发生频率、大暴雨雨量峰值和大暴雨雨量平均值均显著高于2013年7月份,1977年7月份延河流域的化子坪、招安、康岔、金盆湾、砖窑湾、安塞和寺沟7个站点都发生1日的大暴雨,占月降雨量的比例约为 $5 5 \%$ ,雨量峰值和平均值分别为168.1和136.7;2013 年7月份仅杏河、三十里铺和庙岸3个站点发生1日的大暴雨,占月降雨量的比例约为 $2 0 \%$ ,雨量峰值和平均值分别为109.7和106（表1）。
+
+# 3.1.3时段最大降雨量特征对比分析
+
+2013年7月份延河流域各时段最大降水强度平均值显著高于1977年7月份,是1977年7月份的2.7—  
+3.2倍。其中延安站 2013年7月份各时段最大降水强度略高于1977年7月份,仅为1977年7月份的1.2—
+
+1.7倍。甘谷驿站 2013年7月份各时段最大降水强度则远高于1977年7月份,是1977年7月3倍左右(表2）。
+
+![](images/fa3ad682421eb83b5b2f77e4ac1c87f57a118082055e7a5769c6a92f7c9316be.jpg)  
+图2延河流域1977年和2013年7月份累计降水量、日平均降水强度空间分布  
+Fig.2The distribution of accumulative precipitation and daily rainfallintensity on July1977 and 2013
+
+表1暴雨频次特征  
+Table1 Frequency characteristic of the rainstorm   
+
+<html><body><table><tr><td rowspan="2">时间Time 发生日数</td><td colspan="2">暴雨Rainstorm(≥50mm/d)</td><td colspan="5">暴雨 Downpour(≥100mm/d)</td></tr><tr><td>站点个数 days/d of sites</td><td>precipitation/ Month total</td><td>发生日数 Days/d</td><td>站点个数 of sites</td><td>大万 precipitation/ Month total</td><td>雨峰值 peak/mm</td><td>雨量平均值 precipitaton/ mm</td></tr><tr><td>1977年7月</td><td>0</td><td>precipitation/%</td><td></td><td></td><td>precipitation/%</td><td></td><td></td></tr><tr><td>July,1977</td><td>7</td><td>50-60</td><td></td><td>0 1</td><td>23 7</td><td>168.1</td><td>136.7</td></tr><tr><td>1</td><td>22</td><td>76.5</td><td></td><td>2</td><td>0</td><td>55</td><td></td></tr><tr><td>2 ≥3</td><td>1 0</td><td></td><td></td><td>3</td><td>0</td><td></td><td></td></tr><tr><td>2013年7月 0</td><td>0</td><td></td><td>0</td><td>27</td><td></td><td>109.7</td><td>106</td></tr><tr><td>July,1977 1</td><td>3</td><td>20</td><td></td><td>1</td><td>3</td><td>20</td><td></td></tr><tr><td>2</td><td>8</td><td>30-40</td><td></td><td>2</td><td></td><td></td><td></td></tr><tr><td>≥3(3-6) 19</td><td>50-70</td><td></td><td>3</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2013年7月份延河流域各时段最大降水强度平均值同样高于1977年7月份,是1977年7月份的1.2—1.4倍。1977年7月份除降水集中区的化子坪、安塞、大路沟、张渠、康岔、招安、金盆湾、周家湾和砖窑湾9个站点的时段最大降水强度高于2013年7月份外,其余各站点时段最大降水强度普遍低于2013年7月份,其中谭家营、杏河、三十里铺、五里湾、甘谷驿、吊沟、张川河、大村、白家川、斗咀村10 个站点的时段最大降水强
+
+度不足2013年7月份的 $5 0 \%$ (表3)。
+
+Table 2 Precipitation in different time intervals on July in Yanhe River basin   
+
+<html><body><table><tr><td colspan="7"></td></tr><tr><td>时间 Time</td><td>站点 Site</td><td>最大0.5h 降水 Maximum 30-minute rainfall depth/mm</td><td>最大1h 降水 Maximum 1-hour rainfall depth/mm</td><td>最大1.5h 降水 Maximum 1.5-hour rainfall depth/mm</td><td>最大2h 降水 Maximum 2-hour rainfall depth/mm</td><td>最大3h 降水 Maximum 3-hour rainfall depth/mm</td><td>最大4h 降水 Maximum 4-hour rainfall depth/mm</td></tr><tr><td>1977年7月</td><td>延安</td><td>10.7</td><td>15.8</td><td>20.8</td><td>23.2</td><td>27</td><td>29.1</td></tr><tr><td>July,1977</td><td>枣园</td><td>9.3</td><td>13.2</td><td>16.6</td><td>21.1</td><td>26.2</td><td>28.4</td></tr><tr><td></td><td>甘谷驿</td><td>17.5</td><td>21.7</td><td>30.5</td><td>35.5</td><td>37</td><td>37.9</td></tr><tr><td>2013年7月</td><td>平均</td><td>12.5</td><td>16.9</td><td>22.6</td><td>26.6</td><td>30.1</td><td>31.8 47.4</td></tr><tr><td></td><td>延安</td><td>13.6 58.2</td><td>23 71</td><td>31.4 73.6</td><td>39.6 77.6</td><td>43.8 82.6</td><td>83.4</td></tr><tr><td>July,2013</td><td>甘谷驿</td><td></td><td></td><td>65.2</td><td>74.5</td><td>82.2</td><td>86</td></tr><tr><td></td><td>平均/mm</td><td>40.6</td><td>53.9</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表2延河流域7月份各站点不同时段降水量  
+表3延河流域7月份各站点不同时段降水量  
+Table 3 Precipitation in different time intervals on July in Yanhe Riverbasin   
+
+<html><body><table><tr><td rowspan="2">站点 Sites</td><td colspan="3">1977年7月July，1977</td><td colspan="3">2013年7月July,1977</td></tr><tr><td>最大6h 降雨量 Maximum 6-hour rainfall depth/mm</td><td>最大12h 降雨量 Maximum 12-hour rainfall depth/mm</td><td>最大24h 降雨量 Maximum 24-hour rainfall depth/mm</td><td>最大6h 降雨量 Maximum 6-hour rainfall depth/mm</td><td>最大12h降雨量 Maximum 12-hour rainfall depth/mm</td><td>最大24h 降雨量 Maximum 24-hour rainfall depth/mm</td></tr><tr><td>镰刀湾</td><td>64</td><td>72.5</td><td>88.4</td><td>76.4</td><td>79.8</td><td>81.4</td></tr><tr><td>化子坪</td><td>80.5</td><td>94.5</td><td>115.9</td><td>68.8</td><td>71.6</td><td>71.6</td></tr><tr><td>谭家营</td><td>36.5</td><td>83.9</td><td>83.9</td><td>86</td><td>94.6</td><td>94.6</td></tr><tr><td>安塞</td><td>78.4</td><td>107.1</td><td>144</td><td>75</td><td>78.6</td><td>87</td></tr><tr><td>大路沟</td><td>84.3</td><td>90</td><td>102.5</td><td>37.2</td><td>53.6</td><td>64.2</td></tr><tr><td>张渠</td><td>68</td><td>74.9</td><td>103.3</td><td>37.5</td><td>51.7</td><td>59.4</td></tr><tr><td>杏河</td><td>49.9</td><td>59.6</td><td>80.7</td><td>103.6</td><td>109.7</td><td>109.7</td></tr><tr><td>康岔</td><td>79.4</td><td>125.7</td><td>168.1</td><td>62.2</td><td>85.2</td><td>110.8</td></tr><tr><td>招安</td><td>65.8</td><td>125.5</td><td>165.9</td><td>65.3</td><td>68.2</td><td>70.5</td></tr><tr><td>沿河湾</td><td>37</td><td>51.3</td><td>84.1</td><td>67.2</td><td>87.6</td><td>105.8</td></tr><tr><td>金盆湾</td><td>64.2</td><td>105.9</td><td>131.9</td><td>57.4</td><td>70.8</td><td>102</td></tr><tr><td>砖窑湾</td><td>95.8</td><td>119.4</td><td>149.1</td><td>61</td><td>84</td><td>96.5</td></tr><tr><td>烧房砭</td><td>53</td><td>53</td><td>53</td><td>59.6</td><td>71.4</td><td>71.4</td></tr><tr><td>洛平川</td><td>29.1</td><td>34.1</td><td>50</td><td>42.3</td><td>53.3</td><td>75.8</td></tr><tr><td>三十里铺</td><td>14.6</td><td>35</td><td>47.7</td><td>95.2</td><td>95.5</td><td>109.5</td></tr><tr><td>龙寺</td><td>36</td><td>46.2</td><td>49.4</td><td>68.8</td><td>90.6</td><td>94.4</td></tr><tr><td>五里湾</td><td>29.9</td><td>47.5</td><td>48.3</td><td>60.4</td><td>62.9</td><td>70.1</td></tr><tr><td>庙岸</td><td>47.5</td><td>47.5</td><td>52.3</td><td>91.8</td><td>129</td><td>129.2</td></tr><tr><td>周家湾</td><td>59.4</td><td>59.4</td><td>71.1</td><td>42.1</td><td>56.8</td><td>88.3</td></tr><tr><td>蟠龙</td><td>37.5</td><td>62.5</td><td>71</td><td>38</td><td>58</td><td>86</td></tr><tr><td>寺沟</td><td>45.2</td><td>88</td><td>111.1</td><td>88.4</td><td>92.2</td><td>93</td></tr><tr><td>青化砭</td><td>34</td><td>35</td><td>62.4</td><td>66.2</td><td>88.8</td><td>106.4</td></tr><tr><td>延安</td><td>31.2</td><td>33.7</td><td>63</td><td>53.4</td><td>73.8</td><td>92</td></tr><tr><td>枣园</td><td>32.2</td><td>35.9</td><td>63.2</td><td>55.2</td><td>67.6</td><td>95.6</td></tr><tr><td>甘谷驿</td><td>38.7</td><td>41.4</td><td>55.4</td><td>85.4</td><td>94</td><td>142.4</td></tr><tr><td>吊沟</td><td>37.2</td><td>43.4</td><td>76.2</td><td>75</td><td>95.6</td><td>108.4</td></tr><tr><td>张川河</td><td>34.1</td><td>44.5</td><td>44.8</td><td>85.6</td><td>110.0</td><td>110.4</td></tr><tr><td>大村</td><td>31.6</td><td>38.9</td><td>42.9</td><td>87.6</td><td>126.4</td><td>129.6</td></tr><tr><td>白家川</td><td>34.4</td><td>58.5</td><td>58.5</td><td>92.2</td><td>139.2</td><td>139.6</td></tr><tr><td>斗咀村</td><td>35</td><td>67.8</td><td>72.1</td><td>108.2</td><td>115.6</td><td>121.8</td></tr><tr><td>平均 Average/mm</td><td>48.8</td><td>66.1</td><td>83.7</td><td>69.8</td><td>85.2</td><td>97.2</td></tr></table></body></html>
+
+# 3.2 洪水特征对比分析
+
+# 3.2.1 洪峰流量对比分析
+
+根据甘谷驿站1955—1980年最大流量资料及1917、1933年洪水流量调查资料，进行最大流量频率计算得知：洪水流量均值为 $1 2 5 0 \mathrm { m } ^ { 3 } / \mathrm { s }$ ,200 年一遇的最大流量为 $9 2 0 0 \mathrm { m } ^ { 3 } / \mathrm { s }$ ,1977年7月6日甘谷驿站实测最大洪峰流量为 $9 0 5 0 \mathrm { m } ^ { 3 } / \mathrm { s }$ ,远远超过了1917年和1933年8月7日历史大洪水的洪峰流量 $6 3 0 0 \mathrm { m } ^ { 3 } / \mathrm { s }$ ,故1977年延河大洪水为 200年一遇[10]。1977年7月5日至6日的洪水大致表现为两个大洪峰,其中7月5日安塞、杏河两站均无大洪峰出现,甘谷驿、延安两站出现了较大洪峰,略高于 $1 0 0 0 \mathrm { m } ^ { 3 } / \mathrm { s }$ ,枣园洪峰流量偏小,仅 $3 2 0 ~ \mathrm { { \ m } ^ { 3 } / \mathrm { { s } } }$ 。7月6日各站点均出现了大洪峰,甘谷驿、延安两站出现了特大洪峰,洪峰流量分别高达 $9 0 5 0 \mathrm { m } ^ { 3 } / \mathrm { s }$ 和 $7 2 0 0 \mathrm { m } ^ { 3 } / \mathrm { s }$ 杏河、安塞、枣园的洪峰流量也都接近或超过了该站点的历史大洪水的洪峰流量。2013年7月12日至13日的洪水表现为无峰或小峰,仅甘谷驿、延安两站12日出现了较大的洪峰,分别为 $6 0 4 \mathrm m ^ { 3 }$ /s和516m³/s,远低于各站点历史大洪水的洪峰流量,其余各站点均未出现较大洪峰(表4）。 C>5
+
+表41977年和2013年7月洪水洪峰流量与历史大洪水比较  
+e4 Flood peak flow of July 1977 and 2o13 compared with historical flood   
+
+<html><body><table><tr><td rowspan="3">站点 Sites</td><td colspan="2">1977 年洪峰流量 Flood peak of July,1977/(m³/s)</td><td colspan="3">2013 年洪峰流量 Flood peak of July,2013/(m/s)</td></tr><tr><td>7月5日</td><td>7月6日</td><td>7月12日</td><td>Peak flow of historical records /(m³/s) 洪峰流量</td><td>时间</td></tr><tr><td>甘谷驿</td><td>July 5 1060(14:18)</td><td>July 6 9050(8:18)</td><td>July 12 604(15:00)</td><td>Peak flow(m³/s) 6300</td><td>Time 1917</td></tr><tr><td></td><td></td><td></td><td></td><td>6300</td><td>1933.8.7</td></tr><tr><td>杏河</td><td></td><td>3060(3:30)</td><td></td><td>3100 2050</td><td>1862 1940</td></tr><tr><td>安塞</td><td></td><td>2710(调查)</td><td></td><td>2190</td><td>1908</td></tr><tr><td>枣园</td><td>320(18:00)</td><td>1510(4:30)</td><td></td><td>2330</td><td>1933.8.7</td></tr><tr><td>延安</td><td>1340(11:09)</td><td>7200(5:24)</td><td>516( 10:54)</td><td></td><td></td></tr></table></body></html>
+
+其中历史大洪水洪峰资料来源于文献10
+
+# 3.2.2 洪水水沙特征对比分析
+
+在2013年7月降水量远大于1977年7月的条件下,2013年7月各站点的洪峰流量、洪峰含沙量等特征值比1977年7月显著减小,各站点洪峰流量约减小 $6 6 \% - 9 0 \%$ ,洪峰含沙量仅枣园增加了 $0 . 7 \%$ ,延安、甘谷驿减小了 $5 5 \%$ 1 $8 0 \%$ 。最大3h洪量相比1977年7月减小了 $5 5 \% - 9 6 \%$ ,主峰3h输沙量减小至不足1977 年7月的 $1 0 \%$ 。可见相比2013年7月,1977年7月洪水水文特征值大大减小,较小洪水的削减程度远大于较大洪水,随着洪水洪峰流量值增大,洪峰流量、洪峰含沙量、3h 洪量和主峰 $3 \mathrm { h }$ 输沙量的削弱程度逐渐减小（表5）。
+
+# 3.2.3洪水过程线对比分析
+
+1977年7月各站点洪水具有陡涨陡落、洪水历时短的特点,2013年7月各站点洪水表现为缓涨缓落以及洪水历时变长的特点。与1977年7月相比,2013年7月各站点洪水总历时和洪水总径流量发生了显著地变化。洪水总历时平均延长了 $2 6 8 3 \mathrm { m i n }$ ,洪水总径流量平均减少了3388万 $\mathbf { m } ^ { 3 }$ ,可知 2013年7月洪水的集流时间长而水量少。与1977年7月相比,2013年7月洪水涨洪历时和退洪历时占洪水总历时的比例、峰前径流量和峰后径流量占洪水总径流量的比例发生了显著地变化。涨洪历时占洪水总历时的比例平均缩短了 $5 . 4 \%$ ，退洪历时占洪水总历时的比例延长了 $5 . 4 \%$ 。峰前径流量占洪水总径流量的比例减小了 $1 . 1 \%$ ,峰后径流量占洪水总径流量的比例相应增加了 $1 . 1 \%$ 。洪水输沙量与洪水径流量大致呈正相关关系，随着洪水总径流量的减小,2013年7月洪水输沙量显著减小（图3一图6,表6）。
+
+表51977年和2013年7月洪水水沙特征值统计表  
+Table 5Flow and sediment characteristics of July 1977 and 2013   
+
+<html><body><table><tr><td>站点</td><td>n时ale</td><td>Preeiptinm/m</td><td>峰流量 (m³/s)</td><td>of flood peak / （kg/m³）</td><td>104m³</td><td>大 108t 2</td></tr><tr><td rowspan="3">延安</td><td>1977/7/4—1977/7/5</td><td>68.2</td><td>7200</td><td>662</td><td>5256</td><td>0.37</td></tr><tr><td>2013/7/11—2013/7/12</td><td>126.6</td><td>516</td><td>128</td><td>482</td><td>0.006</td></tr><tr><td>变化</td><td>+85.6</td><td>-92.8</td><td>-81</td><td>-90.8</td><td>-98.4</td></tr><tr><td rowspan="3">甘谷驿</td><td>1977/7/4—1977/7/5</td><td>57.7</td><td>9050</td><td>752</td><td>7344</td><td>0.56</td></tr><tr><td>2013/7/11—2013/7/12</td><td>155.8</td><td>926</td><td>334</td><td>3290</td><td>0.03</td></tr><tr><td>变化</td><td>+170</td><td>-90</td><td>-55.6</td><td>-55.2</td><td>-94.6</td></tr><tr><td rowspan="3">枣园</td><td>1977/7/4—1977/7/5</td><td>69.8</td><td>1510 513</td><td>560 564</td><td>864 32.4</td><td>0.49 0.019</td></tr><tr><td>2013/7/11—2013/7/12</td><td>131.4</td><td></td><td>+0.7</td><td>-96</td><td>-96</td></tr><tr><td>变化</td><td>+88</td><td>-66</td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/2effc359e939255cf463b1b5156f30823af119220b7237ae980e991c04bac426.jpg)
+
+![](images/54d8c0cca39d7d6bf624bbe4ccf87b0d37e44fadb25e880042cf3fd20ad036e2.jpg)  
+Fig.3Flood process happened on July in 1977 and 2o13 of Yan'an station   
+图4甘谷驿站1977年和2013年7月份洪水过程线
+
+![](images/a184839d9289d1eb18278ac2f1be07174b09ebcb2b4f6b5b4b2d89022f6d6ea4.jpg)  
+图3延安站1977年和2013年7月份洪水过程线  
+Fig.4Flood process happened on July in 1977 and 2013 of Ganguyi station   
+图5延安站1977年和2013年7月份洪水输沙过程线  
+Fig.5Flood sediment process happened on July in 1977 and 2013 of Yan'an station
+
+![](images/4d7efacf02ad8313b7450edb8b7f8efbeb000eac7f33b5492ee53d70e2f05b72.jpg)  
+Fig.6Flood sediment process happened on July in 1977 and 2013 of Ganguyi station
+
+表6延河流域1977年与2013年次洪水过程变化分析表  
+Table6Flood process changes on July in 1977 and 2013 of Yanhe River basin   
+
+<html><body><table><tr><td>时间Time</td><td>站点 Sites</td><td>T/min</td><td>t/T/%</td><td>t2/T/%</td><td>Q/(104m³) q1/Q/%</td><td>q2/Q/%</td></tr><tr><td>1977年7月</td><td>延安</td><td>998</td><td>12.2</td><td>87.8</td><td>7272 29.7</td><td>70.3</td></tr><tr><td>July,1977</td><td>甘谷驿</td><td>942</td><td>25.5</td><td>74.5</td><td>11880 32.7</td><td>67.3</td></tr><tr><td></td><td>枣园</td><td>540</td><td>27.8</td><td>72.2</td><td>1123 C 29.7</td><td>70.3</td></tr><tr><td></td><td>平均 Average</td><td>827</td><td>21.8</td><td>78.2</td><td>30.7 6758</td><td>69.3</td></tr><tr><td>2013年7月</td><td>延安</td><td>2670</td><td>17.1</td><td>82.9</td><td>2297 29.2</td><td>70.8</td></tr><tr><td rowspan="3">July,2013</td><td>甘谷驿</td><td>3960</td><td>17</td><td>80.3</td><td>3290 28.8</td><td>81.2</td></tr><tr><td>枣园</td><td>3900</td><td>S 12.3</td><td>87.7</td><td>4522 30.8</td><td>69.2</td></tr><tr><td>平均 Average</td><td>3510</td><td>16.4 一</td><td>83.6</td><td>3370 29.6</td><td>73.4</td></tr></table></body></html>
+
+T：洪水总历时 The flood total duration/ $\mathrm { { \dot { \ m i n } } , t _ { l } }$ ：涨洪历时Flood rising duration/min, $\mathbf { t } _ { 2 }$ ：退洪历时Flood falling duration/ $\mathrm { { \dot { m i n } } }$ ;Q：洪水总径流量 The total runoff/ $1 0 ^ { 4 } \mathrm { m } ^ { 3 }$ $\mathbf { q } _ { 1 }$ :峰前径流量 Runoff before the peak/ $1 0 ^ { 4 } \mathrm { m } ^ { 3 }$ $\mathbf { q } _ { 2 }$ :峰后径流量 Runoff after the peak/ $\mathrm { ^ { 1 0 ^ { 4 } m ^ { 3 } } }$ （204
+
+# 3.4泥沙特性对比分析
+
+2013 年延河流域泥沙较1977年有明显变细的趋势,1977 年粒径小于 $0 . 0 1 \mathrm { m m }$ 的泥沙重量仅占总重量的$1 5 \%$ ,而 2013 年粒径小于 $0 . 0 1 \mathrm { m m }$ 的泥沙重量占总重量的比例接近 $4 0 \%$ 。1977 年粒径大于 $0 . 1 \mathrm { m m }$ 的泥沙重量占总重量的 $14 \%$ ,而 2013 年粒径大于 $0 . 1 \mathrm { m m }$ 的泥沙重量占总重量的比例不足 $1 0 \%$ [14-15]（图7）。
+
+# 4讨论
+
+延河流域2013年7月降水总量、时段降雨量、暴雨频率远超1977年7月，日降雨强度也与1977年7月相当，但2013年 $7$ 月却未发生较大规模的洪水，且径流量、输沙量等特征值也远小于1977年7月，这种差异的出现应归因于1990年代以来大规模水土保持活动改变了延河流域的土地利用方式、植被覆盖度等下垫面要素[16-17]。
+
+![](images/e69dbfbba7a0e7a609ff8f42ac57fedce7a2ec3a4d52217eab971667ece3e30f.jpg)  
+图6甘谷驿站1977年和2013年7月份洪水输沙过程线  
+图7延河流域1977年和2013年颗粒级配累计频率曲线Fig. 7 Sediment grading curve in 1977 and 2013 of YanheRiver basin
+
+# 4.1水土保持工程措施对延河流域径流量的影响
+
+大规模水土保持活动实施的第一阶段（1972—1996)流域内主要以修建梯田、淤地坝等水土保持工程
+
+为主,梯田和淤地坝治理面积在1996 年分别达到 $2 7 5 . 6 0 \mathrm { k m } ^ { 2 }$ 和 $4 1 . 6 7 \mathrm { k m } ^ { 2 }$ （表7）。根据相关研究表明：大量增加的梯田工程对减少降雨径流量、增强降雨入渗及拦蓄降雨、径流起到了很大的作用。从2006 年到2011年，延安站、甘谷驿站以上流域6—9月地表径流减少量分别达427.5、657万 $\mathbf { m } ^ { 3 }$ ,而壤中流和基流总增加量达77.
+
+5、118.6万 $\mathbf { m } ^ { 3 }$ 。流域梯田措施在汛期6—9月减少河道径流的主要原因在于梯田拦蓄了地表径流[20]；大量修筑的淤地坝起到了显著的拦沙效果,是导致 2013年7月极端降水条件下洪水输沙量减小的主要原因之—[21-22] 。
+
+表7延河流域水土保持措施累计治理面积[18-19]  
+Table 7Cumulative area and ratios of soil and water conservation in Yanhe River basin measures   
+
+<html><body><table><tr><td rowspan="3">年份</td><td colspan="2">梯田</td><td colspan="2">淤地坝</td><td colspan="2">林地</td><td colspan="2">草地</td><td rowspan="3">总面积</td></tr><tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr><tr><td></td><td>%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1959</td><td>4.13</td><td>8</td><td>4.62</td><td>9</td><td>41.33</td><td>82</td><td>0.33</td><td>1</td><td></td></tr><tr><td>1969</td><td>47.20</td><td>21</td><td>15.83</td><td>7</td><td>161.27</td><td>71</td><td>3.73</td><td>2</td><td>50.41</td></tr><tr><td>1979</td><td>97.53</td><td>23</td><td>28.73</td><td>7</td><td>286.93</td><td>67</td><td>17.47</td><td>4</td><td>228.03</td></tr><tr><td>1989</td><td>174.33</td><td>15</td><td>37.80</td><td>3</td><td>840.73</td><td>70</td><td>145.20</td><td>12</td><td>430.66 J</td></tr><tr><td>1996</td><td>275.60</td><td>16</td><td>41.67</td><td>2</td><td>1100.20</td><td>66</td><td>259.87</td><td>15</td><td>1198.06 20.3 1677.34</td></tr><tr><td>2000</td><td>219.60</td><td>14</td><td>38.10</td><td>3</td><td>1637.50</td><td>67</td><td>180.40</td><td>16</td><td>28.5 2577.40</td></tr><tr><td>2005</td><td>285.50</td><td>9</td><td>49.50</td><td>5</td><td>2128.80</td><td>68</td><td>234.50 D</td><td>18 3350.60</td><td>35.3 45.8</td></tr></table></body></html>
+
+比例;各时期流域治理措施面积与同期总治理面积的比；总比例;流域治理措施总面积与流域水文站以上控制面积的比；\*：占同期；\*\*：占整个控制流域面积 XV
+
+# 4.1植被恢复工程对延河流域水沙特征的影响
+
+大规模水土保持活动实施的第二阶段(1997—2010)流域内主要以退耕还林(草)等植被恢复工程为主，林地、草地的面积迅速增加,在2005年分别达到 $2 1 2 8 . 8 0 \mathrm { k m } ^ { 2 }$ 和 $2 3 4 . 5 0 \mathrm { k m } ^ { 2 }$ (表7)。延河流域植被覆盖度变化对 2013年7月极端降水条件下流域产水产沙量产生了巨大的影响[23]。2000 年以前流域植被覆盖度呈波动性变化,无明显的增加趋势,产水量表现为大致不变,产沙量表现为先增后减再增。2000 年以后植被覆盖度与径流深和输沙模数之间存在一定的线性负相关关系,这也是导致 2013年7月洪水径流量、输沙量大大减小的主要原因之一（图8）。
+
+![](images/cbe917b3a3ec1e96acd9300ed51655445fcef8b11145ac17199759d4401728bc.jpg)  
+图8植被覆盖度与径流深及输沙模数的变化趋势  
+Fig.8The trends between runoff,sediment and vegetation coverage
+
+http://www.ecologica.cn
+
+# 5结论
+
+1)延河流域30个气象站的资料统计结果显示,2013年7月份降雨量显著高于历史同期降雨量,降雨集中区降雨强度与1977年7月同期相当,暴雨频率、时段降雨量等特征值显著大于1977年7月。
+
+2)延河流域3个水文站洪水资料统计结果显示,1977年7月洪水洪峰流量等特征值都达到了有记载历史的最大值,为200年一遇,洪水过程线表现为陡涨陡落。2013年7月洪水洪峰流量、洪水总径流量、洪峰含沙量等特征值较1977年7月显著减小,洪水输沙量随径流量的减小而减小,而洪水总历时较1977年7月延长,退洪历时占洪水总历时比例增加,洪水过程线表现为缓涨缓落。 ）
+
+3)延河流域1977年和2013年甘谷驿站泥沙颗粒级配资料统计结果显示,2013年小粒径泥沙重量占总重量的比例增加,泥沙颗粒明显细化。 2
+
+4)研究表明1990 年代以来水土保持工程措施和退耕还林草植被恢复工程是导致1977年和2013年7月极端降水条件下的水沙特征表现迥异的主要原因。 QUp
+
+致谢：感谢穆兴民、赵广举和孙文义老师的帮助。
+
+# 参考文献（References）：
+
+［1］任宗萍，张光辉，杨勤科.近50年延河流域水沙变化特征及其原因分析.水文，2012，（5）：81-86.  
+［2］蒋观滔，高鹏，穆兴民，柴雪柯.退耕还林(草)对北洛河上游水沙变化的影响.水土保持研究，2015，22（6)：1-6.  
+［3］穆兴民，巴桑赤烈,Zhang Lu，高鹏,王飞，张晓萍.黄河河口镇至龙门区间来水来沙变化及其对水利水保措施的响应.泥沙研究，20(2):36-41.  
+［4］杨丽红.近50年延河水沙特征对流域降水—植被动态响应研究.陕西师范大学，2014.  
+［5］韩鹏，倪晋仁.水土保持对黄河中游泥沙粒径影响的统计分析.水利学报，2001，（8）：69-74.  
+［6］何娟娟，欧岗，张文倬.水土保持对延河洪水的影响.云南水力发电，2007，23(6)：8-12.  
+［7］杨金虎，王鹏祥.中国年极端降水事件的时空分布特征.气候与环境研究，2008，13(1)：76-83.  
+［8］王兴梅，张勃.甘肃省黄土高原区夏季极端降水的时空特征.中国沙漠，2011，31（1)：224-229.  
+［9］马中华，张勃.近50a甘肃省夏季日极端降水频数与强度变化特征.干旱区研究，2012，29(2)：297-302.  
+［10］王志福，钱永甫.中国极端降水事件的频数和强度特征.水科学进展，2009，20(1）：1-9.  
+[11］范荣生，阎逢春.延河"77·7"特大暴雨洪水.水文，1989，（1)：52-57.  
+[12］李吉顺，陈家田，王秀英.1998与1954年长江流域降雨量对比分析和洪水原因探讨.中国减灾，1998,8（4)：32-35.  
+[13］邹红梅，陈新国.2010年与1998 年长江流域洪水对比分析.水利水电快报，2011，32（5）： $1 5 - 1 7 + 2 7$ ［14］范荣生，李占斌，惠养瑜.窟野河暴雨洪水泥沙特性分析.泥沙研究，1994，（3）：72-81.  
+[15］倪晋仁，韩鹏，张仁．黄河中游水保措施对入黄干支流泥沙特性的影响：I．泥沙粒径变化.自然资源学报，1997,12（1)：2-10.  
+［16］魏兆珍.海河流域下垫面要素变化及其对洪水的影响研究.天津大学，2013.  
+[17] 方怒放.小流域降雨—径流—产沙关系及水土保持措施响应.华中农业大学，2012.  
+[18］李传哲，王浩，于福亮，杨爱民，严登华.延河流域水土保持对径流泥沙的影响.中国水土保持科学，2011,9（1)：1-8.  
+[19] 徐学选，高朝侠，赵娇娜.1956-2009 年延河水沙变化特征及其驱动力研究.泥沙研究，2012，（2)：12-18.  
+[20］张元星.流域水沙变化对水土保持梯田措施的响应研究.西北农林科技大学，2014.  
+[21]焦菊英，王万忠，李靖，郑宝明.黄土高原丘陵沟壑区淤地坝的减水减沙效益分析.干旱区资源与环境，2001,15（1)：78-83.  
+[22] 刘卉芳，曹文洪，秦伟，张晓明.淤地坝在流域水土保持措施中的贡献研究.中国农村水利水电，2011，（1)： $5 5 - 5 8 + 6 4$ ［23］赵跃中.延河流域径流泥沙变化及其驱动因素研究.西北农林科技大学，2015.

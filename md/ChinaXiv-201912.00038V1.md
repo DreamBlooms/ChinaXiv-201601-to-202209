@@ -1,0 +1,462 @@
+# 中国人心理健康素养干预效果的元分析
+
+任志洪 赵春晓 田凡 闫玉朋 李丹阳 赵子仪 谭梦鸽 江光荣(青少年网络心理与行为教育部重点实验室，华中师范大学心理学院，湖北省人的发展与心理健康重点实验室，武汉 430079)
+
+摘要本研究遵循 PRISMA-Protocol，运用元分析的技术，以心理健康素养的知识、污名态度和求助为结果变量，考察干预效果及影响因素，以期为更高效地提升心理健康素养提供参考。元分析共纳入38项研究。结果发现：干预对知识、污名态度和求助的即时效果量达到显著的中到大的效果（知识： $g = 0 . 7 0$ ，污名态度： $g = - 0 . 5 2$ ，求助： $g = 1 . 1 8 \dot { }$ ）。亚组分析结果表明：心理健康素养的干预效果受地域、被干预者类型、干预中的互动与接触以及试验类型等多个变量的影响。后续研究应进一步探索心理健康素养的调节变量，并结合中国文化，制定针对不同干预对象的个性化干预方案，以提升干预效益。
+
+关键词 心理健康素养；干预效果；互动；接触
+
+# 1引言
+
+目前中国公众的心理健康水平呈现患病率高，就诊率低的现象(Y.Huang et al.,2019; Phillipset al.,2009)。在过去的30年，各类心理障碍愈加普遍，数据显示各类心理障碍（排除痴呆）的加权终身患病率高达 $1 6 . 6 \%$ (Y.Huang et al.,2019)。但是，仅有 $8 \%$ 的精神障碍患者寻求过专业的心理卫生治疗(Phillips etal.,2009)。造成以上现象的重要原因之一是国民较低的心理健康素养（mental health literacy，MHL）。具体表现为，公众对心理疾病的识别能力不足(Huang,Yang,&Pescosolido,2019)，有严重的污名态度(Wong,Lau,Kwok,Wong,& Tori,2017)，以及不愿寻求帮助(Yu et al., 2015)。
+
+提升国民心理健康素养已成为我国国家发展的重要战略之一。2016 年10月，中共中央、国务院发布的《“健康中国 $2 0 3 0 ^ { \prime \prime }$ 规划纲要》'提出，“加大全民心理健康科普宣传力度，提升心理健康素养到2030年，常见精神障碍防治和心理行为问题识别干预水平显著提高。”随即，《国务院关于实施健康中国行动的意见》2提出，“到2022年和 2030年，居民心理健康素养水平提升到 $20 \%$ 和 $30 \%$ ”。
+
+尽管目前国外有许多心理健康素养的干预研究，但其干预效果存在较大变异性(Maunder &White,2019)，且因文化差异，很难确定这些干预措施在中国人中的干预效果。因而，为高效地提升国民心理健康素养，本元分析在系统梳理国内外心理健康素养干预方法与效果的基础上，厘析其影响因素，考察心理健康素养结果变量之间的关系，重点探索中国文化背景下心理健康素养的干预，以期为提升心理健康素养提供借鉴。
+
+# 1.1心理健康素养的概念变迁
+
+最初，Jorm 及其同事(1997)提出了心理健康素养的概念，指的是关于精神障碍的知识和信念。这些知识和信念有助于人们识别、处理或预防心理疾病，包括预防心理疾病的知识，辨识心理疾病的能力，心理求助的相关知识，对轻度心理问题自助方法的了解，以及对发生心理疾病者提供支持的技能。此后该概念不断演变。最近，Kutcher,Wei和Coniglio(2016)做了极大的扩展，指出心理健康素养应该包括获得和保持积极的心理健康状态、理解心理疾病和治疗、减少心理疾病相关污名以及增强心理求助效能等方面。国内学者也有类似的观点，认为心理健康素养不仅包括知识，也包括信念/态度、行为/技能(明志君，陈祉妍,2020；陈祉妍，王雅芯，郭菲，章婕，江兰,2019；江光荣 等，印刷中)。而且，江光荣等(印刷中)指出，应将心理健康相关的内容纳入进来，并加入“自我—他人"这一维度，即心理健康素养指个体在促进自身及他人心理健康，应对自身及他人心理疾病方面所养成的知识、态度和行为习惯。
+
+虽然概念不断扩展，但心理健康素养干预的大部分研究还是只关注心理健康素养的某一方面，其中知识(Morgan,Ross,& Reavley,2018b)、污名态度(Maunder & White,2019)和求助(Xu etal.,2018)得到了较多的关注。具体来说，知识指基本的心理学常识，对常见心理疾病的表现、病因与治疗方法、专业求助渠道、维护心理健康的常用方法的了解和掌握（江光荣 等，印刷中）;污名态度是对心理疾病及心理疾病患者的负面或消极的看法(Corrigan,Larson,& Ruesch,2009;Corrigan&Watson,2002)；求助是指个体做出的任何以积极的方式满足自己需要的行动或活动，这些行动或活动可以使个人心理上、情感上获得社会支持、关怀或服务(Barker,2007)。
+
+# 1.2心理健康素养的干预
+
+目前，最常用于干预心理健康素养的方式为教育和接触(Arboleda-Florez& Sartorius,2008)。教育旨在通过提供与心理问题相关信息的方式，破除与心理疾病相关的迷思，一般以主题讲座、课程、发放阅读材料、团体辅导、会谈等形式进行。接触指将个体暴露在心理疾病患者面前，听心理疾病患者分享自己的故事，通过减少焦虑和增加共情等，降低个体对心理疾病患者的污名态度(Corrigan,Michaels,& Morris,2015)。
+
+在干预公众的心理健康相关知识方面，当前研究者往往聚焦于提升心理疾病症状的相关知识，以促进对心理疾病的识别。主要采用教育的干预方式。已有的干预知识的系统综述和元分析报告的即时干预效果量 $d$ 从 0.22到 2.3 不等(Hadlaczky,Hokby,Mkrtchian, Carli,& Wasserman,2014;Morgan et al.,2018b; Yamaguchi et al.,2019)。其中，Yamaguchi 等(2019)的系统综述纳入16 项研究，考察的是教育对教师心理健康素养的干预效果；其余两项(Hadlaczky et al.,2014;
+
+Morgan et al.,2018b)元分析，考察的是国外成熟的干预项目—一心理健康急救(mental health firstaid,MHFA)训练的干预效果。MHFA于2000 年起源于澳大利亚，以课程的形式开展，面向社区成员，主要内容包括如何识别不同精神障碍的症状、心理健康危机；如何提供初步的帮助，以及如何引导一个人获得适当的治疗和其他支持性帮助(Kitchener&Jorm,2002)。Morgan 等(2018b)的元分析纳入了18项研究，5936 名参与者。结果表明干预对心理健康知识有中到大的显著的提升，即时效果量（ $\overset { \cdot } { d } = 0 . 7 2$ ），6个月后的追踪效果量（ $d = 0 . 5 4 )$ ，12个月的追踪效果量（d$\mathbf { \Psi } = 0 . 3 1 \dot { \mathbf { \Psi } }$ ）。但以上元分析未对影响干预效果的因素进行充分探讨，因而难以推测效果量变异的原因。
+
+污名态度干预效果的研究较多，且相对知识和求助更深入。多数元分析表明，教育和接触能有效干预污名态度(Corrigan,Morris,Michaels,Rafacz,& Rusch,2012; Griffiths, Carron-Arthur,Parsons,& Reid,2014; Maunder & White,2019; Mehta et al., 2015; Morgan, Reavley,Ross, Too,&Jorm,2018a)，其效果量 $d$ 范围从0.10到0.84，变异较大。以往的元分析在探讨效果量变异上，多专注于教育与接触干预效果的对比，以及不同接触类型效果量的对比(Corrigan et al.2012;Mehta et al.,2015;Morgan et al.,2018a)，却忽略了其他的潜在调节变量。Maunder 和 White (2019)的研究是第一项同时考察接触类型、参与者特征以及被接触者特征等潜在调节变量的元分析，其结果表明接触的干预效果显著，在即时、3个月及12个月三个时间点的干预效果均为小到中的效果量 $( d = - 0 . 3 8 4 , ~ - 0 . 3 3 4$ 和-0.526)。有或没有教育成分的接触、不同的接触介质、接触的患者的精神疾病类型之间的干预效果没有显著差异。遗憾的是该元分析没有包括中文文献。
+
+尽管西方国家针对精神疾病患者污名的干预效果已在最近的系统综述中得到确认，中国的情况如何尚不清楚。因此有元分析探讨了中国人心理疾病污名的干预效果(Xu,Huang,Kosters,&Rusch,2017a; Xu,Rusch,Huang,& Koesters,2017b)，这两项元分析评估了内地、香港、台湾及澳门地区精神疾病患者污名干预的效果。一项针对的是心理疾病患者自身的污名的干预效果(Xu etal.,2017a)，纳入了17项研究，其结果表明心理教育是最常用的干预污名的手段，对心理疾病患者污名的干预效果显著 $( S M D = 0 . 8 4 )$ 。另一项针对公众的污名效果的干预研究的元分析则表明污名的干预效果较小 $\left( S M D = 0 . 3 3 \right)$ 0 $\mathrm { \Delta X u }$ et al.,2017b)。但这两项元分析，未能深入考察影响效果量的因素，且缺少对追踪效果的考察。
+
+求助的干预效果的研究相对较少。有系统综述(Gulliver,Griffiths,Christensen,&Brewer,2012)纳入了6项随机对照实验(randomized controlled trial,RCT)，包括8种干预方式，结果表明干预对提升求助态度有小到中的效果量 $( d = 0 . 1 2 \sim 0 . 5 3 )$ ，但对求助行为无显著提升效果 $( d = -$ $0 . 0 1 { \sim } 0 . 0 2 )$ 。但有纳入98项研究的元分析( $\mathrm { \Delta X u }$ et al.,2018)，考察干预对心理健康问题求助的效果，其结果表明干预能显著提升寻求专业帮助的行为( $O R = 1 . 6 7 , 9 5 \%$ CI:1.30,2.16)，且效果能持续6个月以上( $O R = 1 . 4 8$ ， $9 5 \%$ CI:1.24,1.77)。但此元分析并没有细致地区分干预措施，且所纳入的大部分研究源自西方发达国家。
+
+综上，教育和接触作为心理健康素养的主要干预方式，其效果已受到国内外多个元分析的证实，但以上元分析并没有深入考察影响心理健康素养干预效果的调节因素，特别是在像中国这样的发展中国家的适用性。
+
+# 1.3 本元分析的目的
+
+# 1.3.1 探索中国文化背景下的心理健康素养的干预效果
+
+文化显著影响心理健康素养的各个方面(Chen& Mak,2008;Giandinoto,Stephenson,&Edward,2018)。中国传统文化对心理疾病的成因有独特的认识。一方面，心理困扰往往被认为是装病或者由于个人软弱、缺乏意志力造成的(Ng,1997)；另一方面，心理疾病是恶魔附体、对祖先罪孽的惩罚或是对家人不端行为报应的观念在一些经济欠发达地区依然存在(Wong et al,2017)。在对心理疾病的态度上，中国文化中的污名更严重(Fung,Tsang,Corrigan,Lam,&Cheng,2007; Phillips,Li,Stroup,& Xin,2000)。中国人通常认为，严重的精神疾病有两种不同的状态：癫和狂(Liu,1981)。这两种精神状态代表着不可预测性、危险性以及无法治愈性，因此精神疾病带有大量的个人和社会污名(Fung etal.,2007)。而由于中国的集体主义文化的影响，精神疾病的污名并不局限于患有精神疾病的个人，而是影响到整个家庭(Yang etal.,2014)。因此，为了避免“家丑”外扬，一些家庭甚至把患有精神疾病的家人隔离起来(Lametal.,2010)。而同样是受到污名的影响，更多的人选择自助或求助于亲戚，而不是寻求专业帮助(Kung&Lu,2008;Thikeo,Florin, & $\mathrm { N g } , 2 0 1 5 )$ 。阻碍求助的因素还包括当事人有关心理问题的自我效能感。心理疾病患者对于自己能否做一个“好"当事人的自我效能感会影响当事人寻求专业帮助(江光荣，夏勉,2006)。考虑到文化对心理健康素养的影响，国内越来越多的研究者在借鉴国外心理健康素养的干预方案时，也进行了相应的文化调整(Xuetal.,2017a)，例如改编教育或接触的材料，使之更容易被国人接受，但其效果如何还有待检验。
+
+# 1.3.2 探讨影响心理健康素养干预效果的调节变量以指导干预
+
+知识、污名态度和求助的干预效果受诸多调节因素影响。现有的国外的心理健康素养的元分析对影响心理健康素养干预效果的调节变量探讨不足。首先，未有同时探讨知识、污名态度和求助的元分析。已有的元分析中，只有2篇元分析涉及知识(Hadlaczky et al.,2014; Morgan etal.,2018b)，1篇涉及求助(Xu etal.,2018)，其余均是探讨污名的干预效果及影响因素(Corrigan etal., 2012; Griffiths etal.,2014; Hadlaczky et al.,2014; Maunder & White,2019; Morgan et al.,2018a;Morganet al.,2018b;Xu etal.,2017b)。其次，对调节变量的分析并不全面。已有研究表明，互动(Brijnath et al.,2016)、接触(Maunder& White,2019)、地域(Wong& Xuesong,2011)、干预人员类型(Reavley,Mackinnon,Morgan,&Jorm,2014)以及试验类型均可能影响心理健康素养的干预效果，但并未有全面探索上述变量的元分析。
+
+# 1.3.3 厘清心理健康素养的结果变量间的关系以提高干预效益
+
+尽管心理健康素养作为一个整体概念(Kutcher etal.,2016)被提出，但较少有研究同时探索知识、污名态度和求助的干预效果，更遑论厘清三者的关系。事实上，知识、污名态度和求助的关系，一直存在争议(Jennings et al.,2015; Kitchener&Jorm,2006)。为了高效地提升心理健康素养，我们有必要思考“知识的提升能否降低污名态度和提升求助？”以及“降低污名能否提升知识和求助？”等问题。为此，本元分析将尝试探索知识、污名态度和求助三者在干预中的关系。
+
+综上，本研究的目的在于探索中国文化背景下心理健康素养的干预效果，分析影响干预效果的调节变量，尝试考察心理健康素养的结果变量之间的关系，以期为高效地提升心理健康素养提供借鉴。
+
+# 2 方法
+
+本研究根据 PRISMA 声明的标准(Liberati et al.,2009)及 PROSPERO 注册的研究方案（CRD42019126819）进行。
+
+# 2.1 纳入与排除标准
+
+文献纳入与排除标准为，纳入：（1）中国样本，指生活在内地、香港、台湾和澳门的中国人；（2）对照实验，包括随机对照实验和非随机对照实验，检验心理干预前后被干预人群心理健康素养的变化；（3）结果变量，心理健康素养的结果指标，至少包括知识、污名态度和求助其中之一；（4）干预措施，为提升心理健康素养而进行的教育和接触的干预；（5）纳入的研究为经过同行审议的期刊论文及硕士、博士学位论文。排除：（1）干预对象为心理疾病患者的研究，因心理疾病患者的干预情况更为复杂，需单独研究(Xu etal.,2017a)；（2）非中英文的文献。文献检索和筛选流程图见图1。
+
+![](images/5834234d80a8e2807996bc9cf6c7f1a578071d06690eb298ba6d5834ac81767f.jpg)  
+图1文献检索与筛选流程图
+
+# 2.2 文献检索
+
+在PubMed、PsycARTICLES、PsycINFO、Elsevier、Web of Science 和 Cochrane ControlledTrials Register六个外文数据库以及知网、万方、维普三个中文数据库检索相关文献。检索关键词为心理疾病（mental illness）、心理健康（mental health）、心理障碍（mental disorder）等主题词；态度（atitude）、知识（knowledge）、求助（help-seeking、help seek、seek help、seek care）等结果指标词；健康教育或卫生教育（health education）、健康促进（health promotion）、课程（curriculum、course）等干预措施词；中国（China）、内地（mainland）、香港（Hongkong）、台湾（Taiwan）、澳门（Macao、Macau）等地域词进行的配对组合（具体请见附录1）。首次文献检索时间为2018年7月，2018年12月二次更新。文献由第一作者筛选，第二作者核对，有异议文献与通讯作者协商一致解决。
+
+# 2.3 元分析过程
+
+采用 Comprehensive Meta-Analysis Version 3.3(CMA 3.3)(Borenstein, Hedges,Higgins,&Rothstein,2005)进行元分析。
+
+# 2.3.1 数据提取和质量评估
+
+提取并编码每篇文献的特征和纳入分析的结果数据。提取数据的过程采用两位作者独立提取编码(Borenstein,Hedges,Higgins,&Rothstein,2011)，有异议者与通讯作者协商后确定最终编码。文献特征编码包括：作者(年份)、地区、研究类型、样本量、测量时间点、被试类型、年龄(岁)、干预方式、结果变量、测量工具、测量工具评估结果、研究质量评估结果等。具体编码见表1。
+
+根据江光荣 等(印刷中)对心理健康素养提出的新概念框架，将提取三类知识的数据：（1)心理疾病的知识；（2）常见心理问题的识别；（3）心理问题应对方面的知识。数据提取的规则如下：（1）同一个研究中测量一种以上疾病的结果变量，提取流行率高的疾病(Y.Huang et al.,2019)的结果变量；（2)量表中同时包含总分和分量表分数，优先提取总分，只有分量表分数的，提取与结果变量显著相关的分量表的分数(Livingston&Boyd,2010)；（3）测量污名的回避维度和社会距离量表合并；（4）同一个研究中，同时出现态度和污名的测量，同时提取。
+
+考虑到一项研究设置多种条件或多项试验时，得到多个效果量会占据较大的权重，而导致结果产生偏差(Borenstein etal.,2011)，因而对设置两种及以上的对照组、采用不同的结果测量量表的研究，先分析文献所报告的不同条件是否为本研究所关注的，如果符合本研究的要求，则按照这些条件分解为多项独立研究，分别计算效果量。
+
+分别对测量工具和研究进行质量评估。采用Clement 等人(2013)制定的三个风险等级：低风险（low risk）、高风险（high risk）以及风险不明（unclearrisk）来评估测量工具的质量。低风险：（1）由中国研究者开发且Cronbach $\alpha$ 系数 $\geq 0 . 7$ ；（2）引用的是在中国人样本中具有信效度的量表。高风险：（1）量表由中国研究者开发但是没有报告测量学特征；（2）Cronbachα系数 $< 0 . 7$ ；（3）无引用的测量。风险不明：引用了未说明是否适用于中国样本的量表。采用Jadad 量表(Brouwers et al.,2005;Jadad et al.,1996)评估研究质量。评估项目包括：（1）随机分组序列的产生方法；（2）双盲法的实施；（3）退出与失访。每项得分相加即为总分（ $( 0 \sim 5 )$ ：测量工具评估和研究质量的评估方法是，两位作者独立评估，然后求评分者一致性信度，最后与通讯作者协商一致后确定最终结果。使用Kappa系数测量评分者一致性信度，测量工具评估的Kappa系数为0.85，研究质量评估的Kappa系数为0.89，根据0.75及以上为一致性非常好的评判标准(Orwin,1994)，说明本研究的测量工具评估和研究质量评估有较高的一致性。
+
+# 2.3.2 效果量的计算
+
+使用标准化均数差 Hedge'sg，即 Cohen'sd 的修正量(Vollestad,Nielsen,&Nielsen.,2012),作为心理干预的效果量。Hedge'sg通过输入干预组与对照组的样本量、后测（或追踪测量）的均值和标准差，由CMA3.3 直接计算获得；若缺少均值或标准差，则选用 $\chi ^ { 2 } , \ t , \ F$ 等计算。
+
+效果量的评价标准为：0.2 为小效果量，0.5 为中等效果量，0.8 为大效果量(Kallapiran,Ko0,Kirubakaran & Hancock, 2015)。
+
+效果量计算使用随机效应模型，调节变量分析使用混合模型。使用随机效应模型的主要理论依据有以下三点：（1）随机效应模型假定每个独立效果量均基于多个真实效果量的汇聚，因此独立效果量之间存在一定程度的差异，而结果数据因来自于多个独立研究而有差异；（2）本研究结果在一定程度上可推广到其他情境(Carrero,Vila,&Redondo,2019)；（3）根据随机效应模型分析，能使结果获得更宽的置信区间，降低犯第一类错误的风险，且能赋予小样本研究更大的权重(Berkeljon& Baldwin,2009)。同时在数据分析上，采用 $\varrho$ 和 $I ^ { 2 }$ 进行异质性评价， $I ^ { 2 }$ 指各项研究之间方差在总体方差中所占比例 $( I ^ { 2 } = 2 5 \%$ ， $50 \%$ ， $7 5 \%$ ：异质性低、中、高)；当 $\varrho$ 显著且 $1 ^ { 2 } \geq 7 5 \%$ 时，显示研究间存在不可忽视的异质性，表明选择随机效应模型合理(Huedo-Medina, Sanchez-Meca,Marin-Martinez,& Botella,2006)。
+
+# 2.3.3 发表偏倚评估
+
+采用漏斗图与失安全系数(fail-safe Number, $N _ { \mathrm { f s } } \mathrm { \dot { } }$ 初步评估发表偏倚风险(Khoury etal.,2013),结合 Egger 线性回归法进一步检验。漏斗图是发表偏倚的主观评价，一般数据分布左右对称，集中在中部及以上，则发表偏倚的可能性较低。但采用漏斗图评估发表偏倚，一般要求纳入的研究数量≥10(Morgan etal.,2018a)；Egger 线性回归得到的截距接近0且不显著，则发表偏倚的可能性较低(Egger,Smith,Schneider,& Minder,1997)； $N _ { \mathrm { f s } }$ 指让现有结论"不显著"的研究个数的最小值，Nfs越大，偏倚的可能性越小；当 $N _ { \mathrm { f s } } < 5 k { + } 1 0$ 0 $\mathit { \Delta } ^ { ' } k$ 为原始研究的数目)时，发表偏倚应引起警惕(Rothstein, Sutton,& Borenstein,2005)。
+
+# 2.3.4 敏感性分析
+
+通过进行敏感性分析以检验结果的稳健性。文献纳入标准的选择、数据提取方法及缺失值处理方式都会影响元分析的结果，因此有必要进行敏感性分析(Borenstein etal.,2011)。在本研究中，将移除异常值的研究再进行一次效果量计算。异常值指 $9 5 \%$ 的置信区间没有与合并效果量的 $9 5 \%$ 的置信区间重叠的研究，即置信区间包括0，被定义为无效的研究(Morgan etal.,2018b)。
+
+# 2.3.5 调节因素分析
+
+为了探究异质性的可能来源，进行亚组分析和元回归分析。首先本研究对每一个分组变量进行亚组分析，以探究不同分组变量对干预效果的影响。亚组分析忽略了变量之间可能的相关和交互作用(Carrero etal.,2019)，因此本研究继而用元回归分析探索影响干预效果的因素。根据Fu 等(2011)建议，亚组分析的每个组不得少于4个研究，回归分析不得少于6个研究。
+
+基于循证医学(evidence-based medicine)的理念，本研究从被试(Population)、干预(Intervention)、对照组(Comparison)、结果(Outcome)，即 PICO 四个方面(Akobeng,2005)，并综合已有研究，提出影响心理健康素养干预效果的可能因素：（1）被试特征，包括地域、年龄、
+
+被试类型3个方面；（2)干预特征，包括干预周期、干预时间、干预形式、干预方式4个方面；  
+（3）研究特征，即试验类型；（4）结果变量，包括知识、污名态度和求助3个方面。
+
+# 3 结果
+
+# 3.1 文献纳入与编码
+
+文献筛选过程见图1，共纳入符合标准的文献34篇，英文和中文文献各17篇，共38项研究，总样本量为12963。内地的研究为22项，样本量为8204；港澳台的研究为16项，样本量为4759；有追踪的研究为11项，其中追踪6个月以内的为7项，6个月以上的为5项(1项研究(Lietal.,2015)既有6个月内的追踪，也有6个月以上的追踪)；被试呈现多样性，包括患者家属（11项）、普通公众（6项）、青少年（6项）、普通大学生（6项）、医学生（7项）、专业人员（2项）；测量工具评估结果中，低风险34项、高风险15项、风险不明8项；质量评估，0分的有27项，1分的为8项，2的为2项，3分为1项。具体编码情况见附录2
+
+# 3.2心理健康素养的干预效果
+
+干预效果分为即时干预效果与追踪干预效果，通过干预组与对照组的比较所得.追踪干预以6个月为界限，分为6个月内的追踪和6个月后的追踪。干预效果量如表2所示。
+
+表2心理健康素养的干预：效果量及异质性检验和发表偏倚检验  
+
+<html><body><table><tr><td rowspan="3">结果变量</td><td rowspan="3"></td><td rowspan="3">N</td><td rowspan="3">g (95%CI)</td><td>敏感性检验</td><td colspan="4">异质性检验</td><td colspan="4">发表偏倚检验</td></tr><tr><td>g(95%CI)</td><td>Qw</td><td>df</td><td>P</td><td>Nfs</td><td>Egger's intercept</td><td>SE</td><td>95%CI</td><td>P</td></tr><tr><td>知识</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>后测</td><td>22</td><td>9159</td><td>0.70***(0.51,0.90)</td><td>0.74*** (0.54,0.95)</td><td>337.26***</td><td>21</td><td>93.78</td><td>3416</td><td>0.67</td><td>1.53</td><td>[-2.52,3.86]</td><td>0.67</td></tr><tr><td>6个月内</td><td>7</td><td>3222</td><td>0.67***(0.61,0.74)</td><td>无异常值</td><td>1.71</td><td>6</td><td>0</td><td>531</td><td>0.21</td><td>0.41</td><td>[-0.84,1.26]</td><td>0.62</td></tr><tr><td>6个月后</td><td>4</td><td>209</td><td>0.74**(0.06,1.41)</td><td>1.001***(0.35,1.66)</td><td>22.91***</td><td>3</td><td>86.90</td><td>29</td><td>23.96</td><td>7.02</td><td>[-6.23,54.15]</td><td>0.08</td></tr><tr><td>污名态度</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1后测</td><td>26</td><td>8435</td><td>-0.52**(-0.90,-0.16)</td><td>-0.64***(-1.09,-0.19)</td><td>1429.56***</td><td>25</td><td>98.25</td><td>1803</td><td>-4.71</td><td>3.23</td><td>[-11.36,1.95]</td><td>0.16</td></tr><tr><td>8月</td><td>7</td><td>4331</td><td>-0.17(-0.45,0.12)</td><td>-0.121(-0.59,0.25)</td><td>84.26***</td><td>6</td><td>92.88</td><td>0</td><td>-6.12</td><td>1.20</td><td>[-9.20,-3.04]</td><td>0.004</td></tr><tr><td>个月后</td><td>2</td><td>246</td><td>-0.34**(-0.59,-0.09)</td><td>-0.32**(-0.62,-0.02)</td><td>0.07</td><td>1</td><td>0</td><td>/</td><td>/</td><td></td><td></td><td>/</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0后测</td><td>9</td><td>2087</td><td>1.18***(0.55,1.80)</td><td>3.65(-0.52,7.82)</td><td>493.41***</td><td>8</td><td>98.38</td><td>162</td><td>6.08</td><td>3.62</td><td>[-2.49,14.64]</td><td>0.14</td></tr><tr><td>2月内</td><td>2</td><td>2304</td><td>-0.04(-0.11,0.04)</td><td>／</td><td>0.87</td><td>1</td><td>0</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>16个月后</td><td>0</td><td></td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr></table></body></html>
+
+注： $k$ 代表独立效果量的个数， $N$ 为样本量， $9 5 \% C \mathrm { I }$ 为结果变量所对应的效果量 $g$ 的 $9 5 \%$ 的置信区间； $^ { * } p < 0 . 0 5$ 1异质性检验： $Q _ { W }$ 代表组内异质性检验统计量，双尾检验;发表偏倚： $9 5 \% C \mathrm { I }$ 为Egger's intercept 所对应的效果量 $g$ 的 $9 5 \%$ 的置信区间，单尾检验。
+
+由表2可见，就即时干预效果而言，知识、污名态度和求助的干预为中到大的效果量（知识： $g = 0 . 7 0$ ，污名态度： $g = - 0 . 5 2$ ，求助： $g { = } 1 . 1 8$ ）。在6个月内的追踪效果上，仅知识的干预效果显著（ $g = 0 . 6 7 \$ ）；在6个月后的干预效果中，知识的干预效果依然显著（ $\scriptstyle { \cdot g = }$ 0.74），且比即时效果量更大，污名态度的干预效果显著（ $g = - 0 . 3 4 )$ 。
+
+敏感性分析结果。知识的即时效果的22个研究，移除2个异常值(Chan,2004a; Fung etal.,2016)，其效果量为0.74(CI:0.54,0.95);6个月内的追踪无异常值；6个月后的干预效果，移除1个异常值(Chan,Yip,Tso,Cheng,& Tam,2009)后， $g = 1 . 0 0 ( \mathrm { C I } ; 0 . 3 4 6 , 1 . 6 5 6 )$ ，因此知识的干预效果稳健。污名态度的即时效果纳入26 项研究，移除 7个异常值(Chan,Mak,&Law,2009; Chung,2005; Han & Chen,2014; Li et al.,2015；王枫,2018；王剑英 等,2017)，其效果量为-0.64(CI: -1.09,-0.19)；6个月内的追踪移除3个异常值(J.Chan et al.,2009；王枫,2018),效果量为-0.12(CI:-0.59,0.25);6个月后的追踪效果量,移除1个异常值(Lietal.,2015)，其效果量为-0.32(CI:-0.62,-0.02)，污名态度的干预效果稳健。求助的即时效果，移除5个异常值后(Han,Chen,Hwang,& Wei,2006;Lai et al.,2016ab; Wong,et al.,2017)，干预效果量为3.65(CI:-0.52,7.82)，但不显著；6个月内的追踪纳入2项研究，均为异常值；未纳入6个月外的研究，求助的干预效果稳健性不足。
+
+因研究数量限制，只分析知识、污名态度的即时干预效果的漏斗图（见附录3）。由漏斗图可以看出知识、污名态度的即时干预效果不存在偏倚风险。知识6个月后追踪效果量的Egger 线性回归的截距较大，但不显著， $N _ { \mathrm { f s } }$ 为 $2 9 < 3 0$ ，提示有发表偏倚风险；污名态度的6个月内追踪效果的Egger线性回归截距显著，提示有发表偏倚风险。
+
+# 3.3心理健康素养干预的亚组分析
+
+由于纳入的研究数量有限，只对知识、污名态度和求助的即时干预效果进行亚组分析。结合影响心理健康素养的调节变量的论述及纳入研究的特征，提出以下亚组：（1）地域：内地vs.港澳台；（2）被干预者类型：专业人员vs.非专业人员；（3）干预者与被干预者之间的互动形式：高互动vs.低互动；（4）被干预者间有无互动：有vs.无；（5）干预过程中，被干预者是否与患者接触：是vs.否；（6）日常生活中，被干预者是否与患者接触：是vs.否；（7）试验类型：随机对照试验（RCT）vs.非随机对照试验（非RCT）。
+
+# 3.3.1 知识的亚组分析
+
+知识的亚组分析结果显示，6个调节变量均显著影响知识的即时效果量（因被干预者类型的研究数量不足4个，未纳入分析）。具体为：港澳台公众的干预效果显著优于对内地公众的干预效果 $( g : 0 . 8 6 > 0 . 4 6$ ， $p < 0 . 0 0 1$ ）；干预者与被干预者之间高互动的效果显著优于低互动的效果 $( g : 0 . 8 5 > 0 . 4 6$ ， $p < 0 . 0 0 1$ ）；被干预者之间有互动的效果显著优于没有互动的效果 $\stackrel { \prime } { g } : 0 . 8 8 > 0 . 4 1$ ， $p < 0 . 0 0 1$ ）；干预中没有接触患者的效果显著优于接触患者的效果（2 $( g : 0 . 6 6 > 0 . 3 7$ ， $p { < } 0 . 0 0 1$ ）；日常生活中，被干预者接触患者的效果显著优于未接触的（ $\cdot g$ ：$0 . 7 8 > 0 . 6 2$ ， $p = 0 . 0 4 8 \dot { , }$ ）；非 RCT研究的干预效果显著优于RCT研究‘ $\stackrel { \prime } { g } : 0 . 8 8 > 0 . 4 6$ ， $p <$ 0.001）（具体见附录4）。
+
+# 3.3.2 污名态度的亚组分析
+
+污名态度的亚组分析结果显示，亚组的7个调节变量均显著影响污名态度的即时效果量。具体为：对内地公众的干预效果显著优于对港澳台公众的干预效果‘ $\stackrel { \prime } { g } : 0 . 8 7 > 0 . 0 5$ ， $p$ （204号$< 0 . 0 0 1$ ）；对专业人员的干预效果显著优于非专业人员‘ $\scriptstyle \cdot g : 0 . 9 > 0 . 1 1$ ， $p { < } 0 . 0 0 1$ ）；干预者与被干预者之间低互动的效果显著优于高互动的效果‘ $g : 0 . 8 8 > 0 . 0 4$ ， $p < 0 . 0 0 1$ ）；被干预者之间没有互动的效果显著优于有互动的效果（ $\langle g : 0 . 8 9 > 0 . 0 2$ ， $p < 0 . 0 0 1$ ）；干预中没有接触患者的效果显著优于接触患者的效果‘ $\langle g : 0 . 8 9 > 0 . 0 2$ ， $p < 0 . 0 0 1$ ）；日常生活中，被干预者接触患者的效果显著优于未接触的（ $g : 0 . 7 6 > 0 . 2 5$ ， $p < 0 . 0 0 1$ ）；RCT研究的干预效果显著优于非RCT研究 $( g : 0 . 3 8 > 0 . 2 7$ ， $p < 0 . 0 0 1$ ）（具体见附录4）。
+
+# 3.3.3 求助的亚组分析
+
+求助的亚组分析中，只有地域和试验类型的研究数量符合亚组分析的要求。地域显著影响求助的即时效果量，对内地公众的干预效果显著优于对港澳台公众的干预效果（ $g : 2 . 1$ $> - 0 . 0 5$ ， $p < 0 . 0 0 1$ ）。试验类型对求助的即时效果的影响不显著( $p = 0 . 1 6 )$ （具体见附录4）。
+
+# 3.4 元回归分析
+
+$\varrho$ 显著以及 $1 ^ { 2 } > 7 5 \%$ 的数据结果显示，存在未被解释的效果量变异(Higgins,Thompson,Deeks,& Altman,2003)。因此我们进行元回归分析以探讨各个调节变量对效果量的解释率。模型1纳入被试特征，即年龄、被干预者类型、地域；模型2纳入干预特征，即干预时间、周期、接触及互动；模型3纳入试验类型，据此分别对知识、污名态度和求助进行元回归分析。求助的元回归分析因研究数量不足而无法进行。
+
+# 3.4.1 知识的即时干预效果的元回归分析
+
+9个调节变量（因被干预者类型的研究数量不符合6个，未纳入分析）进入知识的干预效果的回归分析。模型1包括年龄、地域，对总效果量的解释率为0.01；模型2加入6个干预特征变量（干预周期、干预时间、日常是否接触患者、干预中是否接触患者、干预者与被干预者间的互动、被干预者之间互动)后， $R ^ { 2 }$ 为0.74；模型3纳入了试验类型后， $R ^ { 2 }$ 为0.70。模型1与模型2的 $\varDelta R ^ { 2 }$ 为0.73，模型2纳入的干预特征的变量解释了 $73 \%$ 的效果量变异。在综合了其他所有调节变量的影响后，地域和干预者与被干预者间的互动的影响显著。具体结果见表3。
+
+表3调节变量对知识的干预效果的元回归分析  
+
+<html><body><table><tr><td>调节变量</td><td colspan="2">模型1</td><td colspan="2">模型2</td><td colspan="2">模型3</td></tr><tr><td></td><td>b (95%CI)</td><td>SE</td><td>b (95%CI)</td><td>SE</td><td>b (95%CI)</td><td>SE</td></tr><tr><td>年龄</td><td>-0.004(-0.03,0.02)</td><td>0.012</td><td>0.001(-0.02,0.02)</td><td>0.01</td><td>0.002(-0.03,0.02)</td><td>0.01</td></tr><tr><td>地域</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>内地</td><td>0.18(-0.27,0.71)</td><td>0.275</td><td>0.57** (0.16,0.98)</td><td>0.21</td><td>0.47(-0.04,0.98)</td><td>0.26</td></tr><tr><td>港澳台[参照变量]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干预周期</td><td></td><td></td><td>-0.04(-0.10,0.02)</td><td>0.03</td><td>-0.03(-0.10,0.05)</td><td>0.04</td></tr><tr><td>干预时间</td><td></td><td></td><td>0.02(-0.01,0.04)</td><td>0.02</td><td>0.01(-0.02,0.04)</td><td>0.01</td></tr><tr><td>日常是否接触患者</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>是</td><td></td><td></td><td>-0.21(-0.76,0.34)</td><td>0.28</td><td>-0.33(-0.96,0.31)</td><td>0.33</td></tr><tr><td>否[参照变量]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干预中是否接触患者</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>是</td><td></td><td></td><td>-0.86(-1.88,0.15)</td><td>0.52</td><td>0.66(-1.86,0.53)</td><td>0.61</td></tr><tr><td>否[参照变量]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干预者与被干预者互动</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高互动</td><td></td><td></td><td>1.23*(0.27,2.18)</td><td>0.49</td><td>1.03(-0.11,2.17)</td><td></td></tr><tr><td>低互动[参照变量]</td><td></td><td></td><td></td><td></td><td></td><td>0.58</td></tr><tr><td>被干预者间互动</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>有</td><td></td><td></td><td>-0.47(-1.44,0.49)</td><td>0.49</td><td>-0.11(-1.48,1.27)</td><td></td></tr><tr><td>无[参照变量]</td><td></td><td></td><td></td><td></td><td></td><td>-0.11</td></tr><tr><td>试验类型</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RCT</td><td></td><td></td><td></td><td></td><td>0.31(-0.44,1.06)</td><td>0.38</td></tr><tr><td>非RCT(参照变量)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R²</td><td>0.01</td><td></td><td>0.74</td><td></td><td>0.70</td><td></td></tr><tr><td>Q(df)</td><td>0.55(2)</td><td></td><td>16.35* (8)</td><td></td><td>15.81*(9)</td><td></td></tr></table></body></html>
+
+注： $9 5 \% C I$ 为结果变量所对应的效果量 $g$ 的 $9 5 \%$ 的置信区间； $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ 0
+
+# 3.4.2污名态度的即时干预效果的回归分析
+
+9个调节变量（因日常是否接触患者的研究数量不符合6个，未纳入分析）进入污名态度的干预效果的回归分析。模型1包括年龄、被干预者类型与地域，对总效果量的解释率为0.23；模型2加入5个干预特征变量（干预周期、干预时间、干预中是否接触患者、干预者与被试互动、被干预者之间互动）后，模型的解释率为0.30；模型3加入试验类型，模型的解释率为0.45。在综合了其他所有的调节变量的影响后，只有试验类型的影响显著。具体见表4。
+
+表4调节变量对污名态度的干预效果的元回归分析  
+
+<html><body><table><tr><td>调节变量</td><td colspan="2">模型1</td><td colspan="2">模型2</td><td colspan="2">模型3</td></tr><tr><td></td><td>b (95%CI)</td><td>SE</td><td>b (95%CI)</td><td>SE</td><td>b(95%CI)</td><td>SE</td></tr><tr><td>年龄</td><td>-0.03(-0.07,0.01)</td><td>0.023</td><td>-0.04(-0.10,0.01)</td><td>0.03</td><td>-0.81(-0.14,-0.02)</td><td>0.03</td></tr><tr><td>被干预者类型</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>专业人员</td><td>-0.88(-2.26,0.50)</td><td>0.702</td><td>-1.69(-3.39,0.55)</td><td>1.14</td><td>0.12(-2.55,2.79)</td><td>1.36</td></tr><tr><td>非专业人员[参照变量]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>地域</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>内地</td><td>-0.28(-1.51,0.95)</td><td>0.626</td><td>-0.64(-2.22,0.94)</td><td>0.82</td><td>-1.25(-2.79,0.28)</td><td>0.78</td></tr><tr><td>港澳台[参照变量]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干预周期</td><td></td><td></td><td>0.04(-0.21,0.28)</td><td>1.23</td><td>0.21(-0.07,0.49)</td><td>0.14</td></tr><tr><td>干预时间</td><td></td><td></td><td>0.23(-0.03,0.07)</td><td>0.03</td><td>0.01(-0.04,0.05)</td><td>0.02</td></tr><tr><td>干预中是否接触患者</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>是</td><td></td><td></td><td>-0.16(-1.81,1.49)</td><td>0.84</td><td>-0.74(-2.31,0.84)</td><td>0.80</td></tr><tr><td>否[参照变量]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干预者与被干预者互动</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高互动</td><td></td><td></td><td>-059(-2.73,1.55)</td><td>-0.59</td><td>-0.48(-2.39,1.43)</td><td>0.97</td></tr><tr><td>低互动[参照变量]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>被干预者间的互动</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>有</td><td></td><td></td><td>0.04(-1.95,2.04)</td><td>1.02</td><td>0.63(-1.23,2.49)</td><td>0.95</td></tr><tr><td>无[参照变量]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>试验类型</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RCT</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>2.33* (0.03,4.65)</td><td>1.18</td></tr><tr><td>非RCT(参照变量)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R²</td><td>0.23</td><td></td><td>0.30</td><td></td><td>0.45</td><td></td></tr><tr><td>Q(df)</td><td>4.20(3)</td><td></td><td>6.14(8)</td><td></td><td>11.71(9)</td><td></td></tr></table></body></html>
+
+注： $9 5 \% C \mathrm { I }$ 为结果变量所对应的效果量 $g$ 的 $9 5 \%$ 的置信区间; $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ 。
+
+# 3.5知识、污名态度和求助在干预中的关系
+
+为探索知识、污名态度和求助在干预中的关系，选择同时测量两个或两个以上的结果变量的研究，进行分析。共纳入12项研究，排除置信区间跨0的无效研究(Fung et al.,2016ab; Han &Chen,2014;Lai et al.,2016ab; Li et al.,2015)，还有6项符合要求的研究。
+
+这6项研究中，有4项研究同时干预了知识和污名态度(J.Chan et al.,2009;Rong et al.,2011;Wong etal.,2017；张晓,2013)，合并相关系数为-0.12（CI:-0.52,0.33; $\scriptstyle p = 0 . 6 2$ ）。另外2项研究，1项同时干预了污名和求助(包炤华 等,2014)，其污名和求助的相关系数为0.36（CI:0.29,0.44;$ { p } < 0 . 0 0 1$ ）；另有1项研究同时干预了知识和求助(郝志红，梁宝勇,2011)，知识和求助的相关系数为0.78（CI: -0.41,0.99; $p = 0 . 1 7$ ）。
+
+# 3.6研究质量评价结果
+
+本研究纳入研究使用的测量工具，低风险34项、高风险15项、风险不明8项。高风险的15 项测量工具中，知识的有13项、求助的有2项；风险不明的8项，包括知识的1项、态度的7项。
+
+研究质量评估结果显示，纳入的研究总体质量较低，0分的有27项，1分的为8项，2分的为2项，3分的有1项。在研究质量评分大于1的3项研究中，黄敏，施永斌，何琼娜，张展星和朱振芳(2009)对知识的即时干预效果量 $\mathrm { g } = 0 . 4 3$ （CI:0.24,0.62），小于总的知识的即时干预效果量 $( g = 0 . 7 0$ ,CI: 0.51,0.90)；屠一敏等(2018)对知识的即时干预效果为 $g = 0 . 7 4$ (CI:0.17,1.30)；王剑英等(2017)对污名态度的干预效果为 $g = - 0 . 0 8 ( \mathrm { C I } : - 0 . 0 9 , 0 . 2 2 )$ ，小于总的污名态度的即时干预效果量 $( g = - 0 . 5 2$ ,CI: -0.9, -0.16)。
+
+# 4讨论
+
+本项元分析基于对照试验，探索了中国文化背景下的心理健康素养的干预效果，并得到一些能够指导提升心理健康素养的研究结论。
+
+# 4.1心理健康素养干预的即时效果及长期效果均显著
+
+知识的即时效果量及长期效果量均为显著的中到大的效果量。干预效果在6个月及更长的时间内并没有随时间而减退，这与国外元分析的结果相似(Morgan et al.,2018b)。不同的是，干预效果量没有随时间减小，而是在追踪期内一直保持在中到大的效果量。污名态度的即时效果量和6个月以上的长期效果量均为显著的中到大的效果量，其效果量大于以往元分析的小到中的效果量(Maunder & White,2019; Morgan et al.,2018a; Xu et al.,2018; Xu et al.,2017b)。除了效果量的大小不同，污名态度的干预效果呈现了与国外不同的变化趋势：即时效果量为显著的中到大的效果量,6个月内的干预效果不显著，6个月后的干预效果又显著;而国外的元分析(Maunder&White,2019)表明，其一年内的追踪效果量均为小到中的效果量。通过分析纳入考察6个月内干预效果的7个效果量(J.Chan et al.,2009;Lai et al.,2016ab; Liet al.,2015；王枫,2018;Wong etal.,2017)发现，有3个效果量(J.Chan et al.,2009；王枫,2018)的污名干预效果不显著。这可能导致了6个月内追踪效果不显著。求助的即时干预效果为显著的大效果量，与国外小到中的效果量(Gulliver etal.,2012)的结论不同。由于纳入求助的有追踪的研究数量限制(6个月内的追踪为2，6个月以上的追踪为0)，不能有效推断求助的长期干预效果。
+
+由此可见，中国文化背景下的心理健康素养的干预效果优于国外的干预效果。除了文化因素外，可能的原因是，目前国人的心理健康素养低于西方国家(Furmham&Hamid,2014; Lui,Wong,&Furmham,2016;Wong etal.,2017)，因而具有较高的可变性和较大的提升空间。
+
+# 4.2干预效果的影响因素
+
+本研究进一步通过亚组分析和元回归分析，考察被试特征(年龄、被干预者类型、地域)干预特征（时间、周期、接触及互动）以及试验类型对知识、污名态度和求助的影响。
+
+# 4.2.1专业人员和非专业人员污名态度的改变效果不同
+
+在污名态度的干预中，专业人员的干预效果优于非专业人员。有研究发现，专业人员更倾向于患病的生物学模型(Giandinoto et al.,2018)，而持患病的生物学模型者有更严重的心理疾病污名(Rusch,Todd,Bodenhausen,& Corrigan,2010)。因而，干预所提供的信息没有过度强调医学模型(Li et al.,2019; Li et al.,2015;Rong et al.,2011; Sun,Long,Huang,& Chiang2011)，可能影响了专业人员的固化思维，从而降低了污名态度，这也支持了干预污名态度的措施不应侧重于生物医学信息，而应强调生物心理社会模型(Mak et al.,2014)。从另一个角度，说明有丰富的心理健康知识，并不意味着对心理疾病有较少的污名。
+
+# 4.2.2互动对知识和污名态度干预的不同效应
+
+互动对知识的干预效果十分显著。干预者与被干预者之间的高互动的干预效果优于低互动，被干预者之间有互动的效果优于没有互动的。回归分析的结果表明，模型2纳入的干预特征变量解释了 $73 \%$ 的效果量变异。可能的原因在于，互动有利于知识的学习、建构和传播(Philip,2010)，是知识干预的一个活性成分。但互动对污名态度的干预没有作用。因未有研究检验互动作为干预污名态度的活性成分，因此我们只能尝试假设，态度的改变应是体验性质和自愿的改变，相比于记忆和应用型的知识，其改变更难，因而互动不容易对污名态度的干预起效。
+
+# 4.2.3 两种接触方式在知识和污名态度干预中的作用不一致
+
+相比于互动，两种接触方式（干预中的接触和日常接触）在知识和污名态度的干预中起到的作用不同。在知识和污名态度的干预中，干预中没有接触患者的效果显著优于接触患者的效果；日常生活中接触患者的效果显著优于没有接触患者的效果。对于知识的干预，这个结果有些令人疑惑，可能的原因是干预中，是否接触患者并不影响对知识的获得，而日常接触的干预对象，因为工作和日常照顾需要，会学习更多的知识(Shi etal.,2019)。在污名的干预中，接触的效果还受到接触的相关因素的影响，例如受干预人群的特征、接触传递的信息类型以及被干预者与心理疾病患者的接触经验等(Corrigan etal.,2012)。低质量的接触会反向作用于污名的干预效果(Haraguchi,Maeda,Mei,&Uchimura.,2009)。因此，未来的研究应该探索最佳的要素组合，比如呈现的类型、持续时间、呈现的内容、接触的方式以及接触满意度的不同组合。
+
+# 4.2.4知识、污名态度和求助的关系
+
+本研究的结果表明，知识和污名态度的干预效果之间并无显著相关。以往的研究认为，知识和污名态度之间的关系多有争议，并没有一致的相关关系(Shietal.,2019)，也有研究认为对心理疾病的准确识别，会增加标签化作用，从而加重污名(Angermeyer&Matschinger,2004;Hengartneret al.,2013)。本研究中，专业人员和非专业人员污名态度干预上的不同效果提示，可能有丰富的心理健康知识，并不意味着有较少的污名态度。污名态度和求助的干预效果之间的相关显著。减少污名能够促进求助，这与已有的研究结论一致(Clement et al.,2015;Xu et al.,2018)。另外，知识和求助之间的关系并不显著，与已有的研究结果不符。现存的关于中国人的心理健康素养的研究(Gong &Furmham,2014;Wu etal.,2017)表明，能够较好地识别心理障碍能够促进寻求专业帮助的行为。可能的原因是，纳入分析的研究使用的知识测量指标并不全是对心理障碍的识别(J.Chanet al.,2009;Rong,etal.,2011)。当然，也有可能是知识和求助之间的相关受到其他变量的影响。
+
+# 4.2.5 影响心理健康素养的文化差异
+
+中国人心理健康素养的知识、污名态度和求助干预的即时效果为显著的大效果量，这与西方的研究有所不同。受文化的影响，中国人对精神疾病的负面偏见，可能导致他们不愿将症状与精神疾病联系起来，也不愿将患者贴上精神障碍的标签(Yang& Singla,2011)，更倾向于将精神疾病症状贴上在社会或文化上适当的标签(例如，工作问题或压力)(Liu et al,2011;Wong,Lam,Poon,&Chow,2012)，因而干预有助于国人正确认识心理疾病。
+
+本研究的结果发现，对于污名态度的干预，日常接触患者的效果优于不接触患者的效果。亚洲文化更倾向于认为心理疾病是因为软弱的性格特征和迷信的因素(Abdullah& Brown,2011)，因而有更多的污名。但是日常接触患者的大多为患者家属，更能理解患者，从而降低污名，这比较符合接触能够通过增加共情起作用的机制(Corrigan et al.,2015)。另一方面，当患者家属有机会获得专业人员的指导，可能更能从接触干预中获益(Rao,Feinglass,&Corrigan, 2007)。
+
+在知识的干预效果上，港澳台地区优于内地地区，在污名态度和求助的干预上，港澳台地区的效果量均小于内地地区的。由于地域的差异，在不同的社会、经济和政策背景下，不同地域的中国人也许有不同水平的心理障碍知识水平，对心理疾病也有不同的看法(Wong etal.,2017)。由于缺乏心理健康和心理疾病的公共教育，内地看待心理疾病可能比中国香港和澳大利亚的华人更传统，更有偏见(Wong＆ Xuesong,2011)，所以内地的污名态度和求助的可改变区间更大，干预后效果量也大于港澳台地区。
+
+# 5研究局限性及启示
+
+本研究还存在以下局限：（1）本研究同时考察了3个结果变量，7个亚组变量，因而有的亚组的研究数量不足，未能进行更详尽的分析，这一局限性同样也体现在对知识、污名态度和求助三个结果变量关系的探索上；（2）纳入研究的质量不高。结合研究质量评估、量表质量评分以及敏感性分析结果评估本研究纳入研究的质量。Jadad量表评分不为0的研究为11项，主要失分点为纳入的随机对照试验并未具体说明随机分组的方法，这给结论的可靠性带来了一定的风险。敏感性分析结果表示，求助的干预效果稳健性不足。在发表偏倚中，知识6个月后的追踪效果量以及污名态度6个月内的追踪效果，提示有发表偏倚风险。综合以上因素考虑，本研究的结论较为可靠，但此结果仍提示本研究领域还需更多高质量研究证据的支持(Guyatt etal.,2011)；（3）结果变量分类没有精细化。知识、污名态度和求助，为考察的3个结果变量，这三个结果变量都有不同的种类和维度。由测量知识的量表的形式和内容可以看出，知识又可分为理论上的知识和实践中心理问题的识别(Wei,McGrath,Hayden,&Kutcher,2016)；污名有自我污名和公众污名之分(Corrigan&Watson,2002)；求助可划分为正式求助、非正式求助和自助(Rickwood& Thomas,2012)。
+
+未来研究仍待解决的问题：（1）完善心理健康素养概念框架。概念应有助于发展和评估该领域的干预(Jorm,2015)。比如心理健康素养的概念应纳入“自我—他人"维度(江光荣 等，印刷中)，以强调提升心理健康素养不仅指提升自身的心理健康的能力，也应包括促进他人的心理健康的能力。但现有的实践研究中，帮助他人的信心(Wong et al.,2017)及行为(Gratwick-Sarll& Bentley,2014)等结果变量并没有体现在现有的心理健康素养的概念框架中。（2）进一步探索心理健康素养的调节变量，制定个性化干预方案。其中包括不同的群体特征。例如，精神疾病患者家属(Amaresha etal.,2018; Shi et al.,2019)和一般健康专业人员对心理疾病的污名(Giandinoto et al.,2018)比普通公众更严重，需要给予更多的支持和帮助；另外，要考虑到不同心理疾病的污名程度。例如，公众对抑郁症患者的污名要显著低于对精神病患者的污名(Rosseto,Jorm,&Reavley,2016)。（3）在制定干预方案时，要考虑到文化因素。中国传统价值观强调家庭和社会和谐的自我修养(Lamet al.,2010)。与精神疾病相关的危险和不可预测直接挑战了这些文化规范，从而加重污名(Yang etal.,2007)。因此，关于减少中国公众污名的干预应该避免单方面强调疾病的生物医学信息，而是强调生物心理社会模型以及心理疾病文化相关的风险(Mak etal.,2014)。（4)探索提升心理健康素养的新方式。例如，采用教学与自主学习小组（the didactic teaching and self-directed learning group）的方式干预心理健康素养(Rong et al.,2011)，让被干预者担当心理健康素养的促进者角色(Fung et al,2016)等。
+
+参考文献   
+Abdulah,T.,oL.()ntasidouraisu:taivecl PsychologicalReview,31,934-948.   
+Akobeng,A.K.(2oo5).Principlesofevidencebased medicine.ArchivesofDiseasein Childhood,90(8),837-840   
+Amaresha,A.lmdy.osephaal.asay.Ckasubmaanbbksa (2018).Shortterefectsofbriefneedbasedpsychoeducationonknowledge,self-stigmaandburdenamongsiblingsofpersons with schizophrenia:Aprospectivecontrolled trial.Asian Journal ofPsychiatry,32,59-66.   
+Angermeyer,M.C.,&Matschinger,H. (o4).Thestereotypeofschzophreniaanditsimpactondiscriminationagainstpeoplewith schizophrenia: Results fromarepresentative survey in Germany.Schizophrenia Buletin,30(4),049-1061.   
+Arboleda-Frs)Udtafl:tet.: Wiley.   
+Bao,S.H.,Yuan,G.ZZhao,X.F.,Wu,Y.,Zou,D.X,&Zhou,X.(4).Ifuencefindividualfamilyducationtoitealzd stigmainfamilymembersof thepatientswith schizophreniaengagingincommunityrehabilitation.China Journalof Health Psychology.22(6),834-836   
+[包炤华，袁国桢，赵幸福，吴越，周德祥，周晓琴.(2014).个体化家属教育对社区康复精神分裂症家属病耻感的影响．中国健康 心理学杂志,22(6),834-836.]   
+Barker,G.().dolesntsocialrtadel-ingvior:Anaalliatueviedprogameoulaio with recommendations for action. World Health Organization.   
+Berkeljon,A.,&aldwin,.A.(o9).Anitroductiontmeta-analysisforpsyhotherapyutcomeresearch.PsychotherapyReach 19(4-5), 511-518.   
+Borenstein,dgs,.ggis,J.othstei,H..).omeesiemetaasis (esi3.).gd: Biostat.   
+Borenstein,dgs,VgiJ,ote,H().colis.te Wiley & Sons.   
+Brijnath,B.,otro,,K.,toads,6).bsedtalalcyteisprtal health literacyofadult consumers?Results fromasystematicreview.JournalofMedical Internet Research,18(6),e165.   
+Brouwers,M.C.Johsto,.E,Carete,.L,aa,S.E.Jadd,A.R,&romanG.P.(o).Evaluatingtheoleofality assessmentofprimarystudiesinsystematicreviewsofcancerpractice guidelines.BMCMedicalResearchMethodology,5(1),8.   
+Carero,1,Vila,&Redondo,R.(19).Whataksimplementatiointentioninterentiosefectieforpromotinghalthyating behaviours?A meta-regression.Appetite,14(2019),239-247.   
+Chan,W.C.A.S.(o4).OneyearfolloupofmuliplefailyroupinterventionforChesefamilisofpatients withshzopnia Psychiatric Services,55(11),1276-1284.   
+Chan,J.,MakWw.a).bguctiodiseoctuegmatali:t the Same"anti-stigma program forsecondary schools inHong Kong.Social Scienceand Medicine,68(8),1521-1526.   
+Chan,S.W.C,ip,B,so,.,n,B.S.,am,W.(b).Evaationfpychoeducationprogaforestsih schizophreniaand their family caregivers.Patient Education and Counseling,75(1),67-76.   
+Chen,S.X,&ak,W.W.).eingofessalel:Eoeliefsboutmetalilsossures.Joualofoelin Psychology，55(4),442-450.   
+Chen,Z.Y.,Wang,Y.X,GuoF.,Zhang,J,&Jiang,L.(2o9).SurveyonmentalealthiteracyinChina.InX.L.Fei&K.Zhang(Eds.), Reporton nationalmental healthdevelopmentinChina (2017-2018)(pp.220-263).Beijing:SocialSciences Academic Press.   
+[陈祉妍，王雅芯，郭菲，章婕，江兰.(2019).国民心理健康素养调查．见傅小兰，张侃（编）．心理健康蓝皮书：中国国民心理健 康发展报告(2017\~2018)(pp.220-263).北京：社会科学文献出版社.]   
+Chung,K.F.(o).ChangingtheatitudesofHngKongmedicalstudentstowardpeoplewithentalilles.TeJouralofervous and Mental Disease,193(11),766-768.   
+Clement,S.soch..of).s for reducing mental health-related stigma. Cochrane Database of Systematic Reviews,(7).   
+Clement,.,nm,iaack,ebodoof,).atsc mental health-related stigma onhelp-seeking?Asystematicreviewof quantitativeandqualitative studies.Psychological Medicine, 45(1), 11-27.   
+Corrigan,P.Wso,J.E.sch,.o).eltgdt"yreect:actofegalsdvidecbasdact World Psychiatry,8(2),1   
+Corrigan,P.,aes,,&os.5).octsfirgaspersistoriifoais Psychiatric Services,66(5),543-546.   
+Coigan,P.Ws,cels.aczJh).ubctal analysis of outcome studies.Psychiatry. Service. 63, 963-973.   
+Coigan,P.W,tso,.C().Udersadgthctoftigoolehetalils.Wrldsyatr(), 20.   
+Egger,M.,Sith,G.D,heider,,&der,C.(99).sietaaalyisetectedbypleaicatest.ishdcal Journal,315(7109),629-634.   
+Fu,R.,Gartant,ndra,itagda).ucaitaiei whencomparingmedicalinterventions:AHRQandtheEfectiveHealthCareProgram.JournalofClinicalEpidemiology64(11) 1187-1197.   
+Fung,E.,Lo,T.L,ChanR.W.Woo,F.C.,a,C.W.,&Mak,B.S.206).Outcomeofaknowledgecontact-basedasa programme in adolescents and adults in the Chinese population.East Asian Arch Psychiatry,26(4),129.   
+Fung,K.M.T.ang,H.W.H,igan,.W.,C.S.&g,W..().easingaoftalsina and its implications forrecovery.International Journal ofSocial Psychiatry,53,408-418.   
+Furham,.,&mid,A(4).entalalthliteacyion-westecoutries:vieofentitaureMentalHlheview Journal,19(2),84-98.   
+Gratwick-SarllK.,entleyC.(4).mprovigeatigdsodersmetalalthliteracy:Apreliaryvauationofth“Soulday Something?”workshop.Eating Disorders,22(5),405-419.   
+Griffiths,K.Caro-rtr,os,.eid,.(4).eciesfpgsforucingthgocedih mental disorders.A meta-analysis ofrandomized controlled trials. World Psychiatry,13(2),161-175.   
+Guliver,A.,K.stenH,.).iclgteesfo anxiety and general psychological distress.BMCPsychiatry,12(1),81.   
+Guat,G,OxmanA.l..un,RVistoze,J,Jescke.().gdelis:trutio evidence profilesand summary of findings tables.Journal ofClinical Epidemiology,64(4),383-394.   
+Han,D.Y.，&Chen,S.H. (2014).Reducingthestigmaof depressionthroughneurobiology-based psychoeducation:Arandomized controlled trial.Psychiatry Clinical Neurosciences,68(9),666-673.   
+Han,D.Y.,CnS.HHagK.K,&We,H.L.().fectsofocatioforepriooelpeig: Biological atribution versus destigmatization.Psychiatry and Clinical Neurosciences,60(6),662-668.   
+Hadlaczky,G.byS.Mrtchan,A,CarliV.&Waseman,D.(4).entalHealthrstidisectivepublicalth interventioforprovngode,tdendviur:etaalis.terntioalevieofsyhtry6(4)464   
+Hao,Z.H.,&Liang,B.Y.(21).Efectof groupguidanceonitentionofseeking profesioalpsychologicalhelamonguiversity students.ChineseJournalofClinical Psychology,19(05),699-702.   
+[郝志红，梁宝勇.(2011).团体辅导对大学生寻求专业性心理帮助意向影响的研究.中国临床心理学杂志,19(05),699-702].   
+HaraguchiKdaeira,N).toatedioealsoistae in Japan and China.Psychiatry and Clinical Neurosciences,63(2),153-160.   
+Hengartner,hoFaoF.Wg.ssWa.F.).ubicitzati mental disorders: A comprehensive atitude survey. Epidemiology and Psychiatric Sciences,22,269-274.   
+Huang,M.,Si,Y.B.,e,Q.N,ZngZ.X,Zu,ZF.(9).sudyonknoedgeatefmentaealthofdolescentipreder intervention.MedicalJournalofChinesePeople'sHealth,21(23),3055-3056.   
+[黄敏，施永斌，何琼娜，张展星，朱振芳.(2009).干预前后青少年心理健康知晓率调查研究．中国民康医学,21(23),3055-3056].   
+Huang,Y,Wang,Y.Wng,H,LiuZu,Yan,J..ang,Z(9).evalencementasordesiina:cal epidemiological study.TheLancetPsychiatry,6(3),211-224.   
+Huang,D.,Yang,L.H,&Pescosolido,B.A.(O9).Understandingtepublic'sprofileofmentalhalthliteracyinhina:Atioide study.BMCPsychiatry,19(1),20.   
+Huedo-Media,TcJrr,oteJ)itegieals:c P index?.PsychologicalMethods,11(2),19.   
+Higgins,J.P.o,eksJ.n.G.().sucsisteyaisdloa 327(7414), 557–560.   
+Jadad,A.,els of reports ofrandomized clinical trials: is blinding necessary?.Controlled Clinical Trials,17(1),1-12.   
+Jenings,K..gJ..eK.s.ey.,ee.C).red self-stigma,dellceatedtatmtsingtathdel.shatricbiiaiJal,2).   
+Jiang,G.R.,&ia,.(o).yhologicalel-seking:entesearchndhesesdecisio-maingmodel,Adacein Psychological Science,14(6),888-894.   
+[江光荣，夏勉.(2006).心理求助行为：研究现状及阶段-决策模型．心理科学进展,14(6),888-894.]   
+Jiang,G.R.,ZoC,,L.X,i..,i,..&enZ.H.(iprsstaleaiteracy:Cootaieastd new framework. Psychological Science.   
+[江光荣，赵春晓，韦辉，于丽霞，李丹阳，林秀彬，任志洪.(印刷中).心理健康素养：内涵、测量与新概念框架．心理科学.]   
+Jorm,A.F.(2015).Why We Need the Conceptof "Mental Health Literacy".Health Communication,30(12),1166-1168.   
+Jorm,A.F.,.bssit).“tac: public'sbilitytoecogisementaldisordersandtheibeliefsabouteefectivenessoftreatment.TheMedicalJounalofAstralia 166(4), 182-186.   
+Kallapiran,K.o,baaran,aok,.)evitiensnulnsinroingall symptoms ofchildren and adolescents: A meta-analysis.Child and Adolescent Mental Health,20(4),182-194.   
+Khoury,B.,oeGeenP.ocrdV..o,..).dulbed comprehensive meta-analysis. Clinical Psychology Review,33(6),763-771.   
+Kitchener,B.A,,A.F.o).Mentalaldrngfrteublic:Evaationoectsowledgeidd helping behavior.BMCPsychiatry,2(1),10.   
+Kitchener,B.A.,&Jo,A.F.().entalealthfidtrag:RevieoevaluatostudsAustraliandNeZeladJoul of Psychiatry, 40, 6-8.   
+Kung,W.W.,&Lu,P.C.(o8).HowsymptommanifestationsafecthelpseeingformentalhealthproblmsamongChineseAmercans. The Journal of Nervousand Mental Disease,196(1),46-154.   
+Lai,E.,KoCgK.p.)da programmeforpreventingdepresioninChneseadolescents:Aflow-upstudyusingquasi-experimetaldsign.PlosOe,(2) e0149854.   
+Lam,C.S.,geoJ.E. stigma: Implications for research and practices.Journal of Rehabilitation,76(1),35-40.   
+Li,JFan,.c. onimprovingatitudesanddecreasingdiscriminationtowardspeoplewith mentaldisordersamongcareasistant workersin Guangzhou,China.International JournalofMental Health Systems,1(13),1-10.   
+Li,J.,Li,J.,ooft,ag,He,W,ang,Y.(5)aingouiealalaangoa Evaluationof theeffctofanew training model.BMCPsychiatry,15(1),263.   
+Liberati,A,anDGtla,,lroCceP.Cdis,...or)eator reportingsystematicreviews andmeta-analysesofstudies that evaluate halthcare interventions:Explanationand elaboration.Plos Medicine, 6(7),e1000100.   
+Liu,X.(1981).Psychiatry in traditional Chinese medicine.TheBritish Journal ofPsychiatry,138(5),429-433.   
+Liu,J.,Ma,H.,He,Y.,ie,B.,u,Y..ag,H...N,C..().ntalealthsyteinha:Hstoryretice reformand future challenges.World Psychiatry,10(3),210-216.   
+Livingston,J.&od,J.E.).elatedsesoteadifplelgita: systematic review and meta-analysis.Social Science and Medicine,71(12),2150-2161.   
+Lui,C.,WongC,ua,A.(6)ntalealthliteracyongongteatialJualofialatr(6) 511   
+Mak,W.W.,Cong,E.S.&Wong,C.C.(14).Beyndaribtios:Understandgpblicigmafentalilswitheo sensemodel.AmericaJournalofOrthopsyciatry4(2),73-181Maunder,R.D.,&White,F.A.(219).Intergroupcotact mental health stigma: A comparative effectiveness meta-analysis. Clinical Psychology Review,72,101749.   
+MehtaN.eet.,sEoa.bodLck.oo).deei interventions toreducementalhealthrelatedstigmaanddiscriminationinthemediumandlongterm:Systematicreview.British Journal ofPsychiatry,20(5),7784.   
+Ming,Z.J.&hen,Z.Y.().entalathiteracyoept,easurement,nterentioadfactos.dvancesinloical Science. 28 (1), 1-12.   
+[明志君，陈祉妍.(2020).心理健康素养：概念、评估、干预与作用．心理科学进展.28(1),1-12.]   
+Morgan,A.Jealey.Jo,.ooL,o,A.F.(8a).teretiostduceigmtoardspopei mental illness: Systematic review and meta-analysis.Journal ofPsychiatric Research,103,20-133.   
+Morgan,A.J,o,,&eavley,NJ.(b)ystematiceviewandmeta-analysisfmentalalthstaidtrainig:Efects knowledge,stigma,and helping behaviour.Plos One,13(5),e0197102.   
+Ng,C.H.(1997).igmafmetalilsinsicuuresAustralanndNewZealndJoulofcatry3)90   
+Orwin,R.G.(1994).valuatingcodingdecisions.InH.Cooper&L.V. (Eds).Theandbookofresearchsythesis (pp3962).New York,NY: Russel Sage Foundation.   
+Rao,D.Feing,o)lcslalofotl Disease,195(12),1020-1023.   
+Reavley,N.J,ckio,Jrgan,A.J.&o,A.F.().igmatisigatidstowadspopeietalso:A comparisonofAustralianhealthprofesionals withthe general community.Australianand New ZealandJouralofPsychiatry48, 433-441.   
+Philip,D.(2010).Scialnetworkanalysistoexamineinteractiopatesinknowledgebuildingcommunities.CanadianJoualof LearningandTechnology,36(1),1-20   
+Philips,M.Rirup.,in,L).Cusofoeepodytintsybsiniih Journal ofPsychiatry,77(1),.   
+Pilips,M.ag,J.Co.ngg,...ag,.)evaectreaetd disabilityofmentaldisorders infourprovincesinChinaduringol05:Anepidemiologicalsurvey.Theancet,373(968)2041 2053.   
+Rickwood,D.&ThomasK.(20l2)Conceptualmeasurementframeworkforhelp-seeking formentalhalth problems.Psychology Research and Behavior Management,5,173-183.   
+Rong,Y.,Glozier,N,Luscombe,G.,Davenport,T.A,ang,Y.Q.&ickie,I.B.(2ll).mprovingknowledgeadids towards depression: A controlled trial among Chinese medical students.BMC Psychiatry,11(1),36.   
+Rosseto,A.,,A.F,&eaey.J16).edictosfdltingitetiodhioustowardspersonihtal illness: Asix-month follow-up study.Psychiatry Research,240,170-176.   
+Rothstein,H.ut.,rstei,.()btioilisetstt Hoboken,NJ: John Wiley& Sons.   
+Risch,N.,od,A.dsn,G,oan.().ecodelstloitgiltal illnesstigma.Psychiatry Research,179(3),32-32.   
+Shi,Y.,haoY.ig,nJ,.,J.).eaesotele withmentalil:Astematicevieandmeta-analysis.JournalofsychatricandMentalHalthNursing,26(-),4961   
+Sun,F.K,ogA,ang,XY&ang,C.().asiexpemetaliigatioteacycedcai programme for second-year student nurses in Taiwan. Journal of Clinical Nursing, 20(5-6),837-846.   
+Thikeo,M.,Forin,P.,&Ng,C.(015).HelpsekingatitudesamongCambodanandLaotianrefuges:Implicationsforpublicetal health approaches.Journal ofImmigrantnd Minority Health,17(6),1679-1686.   
+Tu,Y.M.i,u.L..).oooutauci of schizophrenics on patient medication compliance.Shanghai Nursing,18(04),19-23.   
+[屠一敏，李霞，曹新妹，朱晓洁，徐文静，张丽,.倪琳.(2018).家属同步教育对精神分裂症患者治疗依从性的影响．上海护理， 18(04), 19–23.]   
+Vollestad,J.,,).deabtd review and meta-analysis.British Journal ofClinical Psychology,51(3),239-260.   
+Wang,F.,(2o18).Theducationinterventionstigmaofdepresson:Basedonthecoredimensionof mentalillnessvie(Master's dissertation). Central China Normal University,Wuhan.   
+[王枫.(2018)．教育对抑郁症污名的干预：基于心理疾病观核心维度(硕士学位论文).华中师范大学，武汉.]   
+Wang,J.Y.,Li,S.,u,Y.X,,ag,D.H,GuD..().eeectaiveugeagobf mental illness in nursing undergraduates.Journal Clinical Psychosom Disease,23(3),146-148.   
+[王剑英,李拴荣，孙玉玺，李颖，张冬红，郭冬梅.(2017).叙事护理教学对护理本科生精神病公众污名影响的研究．临床心身疾 病杂志,23(3),146-148.]   
+Wei,Y.,McGrath,P.J,ayden,J.,&Kutcher,S. (O6).Measurementpropertiesoftoolseasuringmentalealthoedge:A systematic review.BMCPsychiatry,16(1),297.   
+Wong,D.F.K.,am,A.Y.KoonA,&ow,.Y..(2).GedediencsmentalhalthliteracyamongCesaing Australians inMelboume,Australia.International JounalofSocial Psychiatry58(2),178-185.   
+Wong,D.F.Ku,Y.Kk.ogP,&oriC().titheiesetaaltidg people in Hong Kong.Research on Social Work Practice,27(1),59-67.   
+Wong,D.F.K.,&Xuesong,H(0l1).SchzophrenialiteracyamongCineseinSanghaiCina:AcomparisonwithCnesespeaking Australians in MelboureandChinese in Hong Kong.Australian and New Zealand JournalofPsychiatry,45(7),524-531.   
+Wu,Q.Luo,Xn,.QiCg,Jo,.u().entaeallieracyuro-etalaro in six general hospitals in Hunan Province of China.Plos One,12(7),eO180327.   
+Xu,Z,HuangFKsters,M.,ush,N.7a).engngmentalealthelatedsigaiin:Stematiceedta analysis.II.Interventions among people with mental illness.Psychiatry Research,255,457-464.   
+Xu,Z.as,rf,,h).es seeking for mental health problems: Systematic review and meta-analysis.Psychological Medicine,48(16),2658-2667.   
+Xu,Z.,Rusch,NHuangF,&Kesters,.(b).hallngigmentalaelatedigina:sematiceviedta analysis.I. Interventions among the general public.Psychiatry Research,255,449-456.   
+Yamaguchi,S.FooJCshda,Ogaa,S.,ogoF&saki.(9).entalealtliteracprogramsfrholac: systematic review and narrative synthesis.Early Intervention in Psychiatry.1-12.   
+Yang,L.H.,&Singla,D.R.(11).Usefindigenouscturalidiomsbyhieseimmigrantrelativsforpschosis:Impactsoigma and psychoeducational approaches.The Journal of Nervous and Mental Disease,199(11),872-878.   
+Yu,Y.Liu,,u,ugJouLi.)aalelitesderel Chinese adults.Plos One,10(11),el41889.   
+Zhang,X.(2O13).Aaseinesueynditsubeqentinteventiosdy:hecidenceofepresiondtelevelofdepresoetal literacy among medical students (Master's dissertation). Guangxi Medical University,Nanning.   
+[张晓.(2013).医学生抑郁状态、抑郁障碍心理健康素养现状及其心理健康教育干预效果初探(硕士学位论文).广西医科大学， 南宁.]
+
+# Meta-analysis of the effect of mental health literacy intervention in
+
+# Chinese people
+
+REN Zhihong; ZHAO Chunxiao; TIAN Fan; YAN Yupeng; LI Danyang; ZHAO Ziyi; TAN Mengling; JIANG Guangrong (KeyLaboratoryofAdolescentCyberpsychologndBhavior(CCU),instryofEducation;hoolofsychologyCentalin Normal University;KeyLaboratoryofHumanevelopmentandMental HealthofHubeiProvince,Wuhan43oo79,China)
+
+# Abstract
+
+Following the PRISMA-Protocol and using meta-analytic techniques, this study examines the effects of interventions for mental health literacy among Chinese people, with knowledge of mental health stigma and help-seeking as outcome variables.The study also explores the influences of five moderator variables (types of intervention, types of contact, types of intervention staff, types of region,and types of experiment) on the intervention effects in order to identify the active ingredients of the intervention. Another purpose of this study is to clarify the relationships among knowledge, stigma,and help-seeking in intervention, in order to provide some theoretical references for more effective improvement of mental health literacy.
+
+Studies were identified by searching six foreign databases (PubMed， PsycARTICLES, PsycINFO, Elsevier Web of Science and Cochrane Controlled Trials Register) and three Chinese databases (CNKI, Wanfang, VIP). The search terms consisted of subject headings such as mental illness, mental health, mental disorder; outcome measures such as attude,knowledge, help-seeking; intervention methods such as health education, health promotion, curriculum; regions such as Mainland China, Hongkong, Taiwan, Macao; and these groups of search terms were paired and combined. Selection criteria included: (1) Participants: Chinese people living in Mainland China, Hongkong, Taiwan and Macao; (2) Study design: the study provided a control group, including randomized and non-randomized trials, examining the mental health literacy at pre and post intervention; (3) Outcome measure: using knowledge, stigma, or help-seeking to measure mental health literacy; (4) Intervention: education and contact to improve mental health literacy; (5) The included studies are peer-reviewed papers and include masters and doctoral thesis. Excluding criteria were(1） participants with psychological disorders; (2） non-Chinese and non-English literature.
+
+A total of 38 studies were included in the meta-analysis. Results: (1) the immediate effect of the intervention on knowledge, stigma and help-seeking was significant and medium-to-large (knowledge: $g = 0 . 7 0$ , stigma: $g = - 0 . 5 2$ , help-seeking: $g = 1 . 1 8 \check { }$ ). At a 6-month follow-up,only the effect of intervention on knowledge was significant $\scriptstyle ( g = 0 . 6 7$ ); at longer follow-ups ${ > } 6$ month), the effect of intervention on knowledge was still significant $( g = 0 . 7 4 )$ , and the effect of intervention on stigma was significant $( g = - 0 . 3 4 )$ . (2) Results of the subgroup analysis: in terms of knowledge, the subgroup analysis indicated the types of region, the types of participants, the types of interaction and contact in intervention,and the types of experiment were significant. With respect to the helpseeking,only the types of region and the types of interaction and contact in intervention were significant. (3） Results of regression analysis: in terms of knowledge, the moderating effect of regions was significant after controlling other variables. In terms of stigma, the moderating effect of the types of experiment was not significant. Studies have shown that mental health literacy interventions have obvious cultural differences.Intervention efects on knowledge are stable in time, while the intervention effects on stigma are unstable.The intervention of interaction on knowledge is effective,but not conducive to stigma. The role of contact in intervention on knowledge and stigma is unclear.
+
+Implications for future studies: (1) Improve the conceptual framework ofmental health literacy. (2) Further explore the moderating variables of mental health literacy and develop individualized intervention programs. (3) Cultural factors should be considered when developing an intervention plan. (4) Explore new methods to improve mental health literacy. Keywords:mental health literacy; intervention; effect; interaction; contact.
+
+# 附录1具体检索词
+
+检索关键词分为：
+
+精神症状、精神紊乱、精神错乱、精神病性障碍（neurotic disorder）、心理健康（mental health）、心理障碍（mentaldisorder）、心理疾病、精神疾病（mentalilness、mental disease）、精神障碍（psychoticdisorder、psycho disorder）、神经病、精神病（psychosis）、精神病人（mentallillperson）、精神分裂症（schizo）、抑郁症（depress）、躯体障碍（somatoform dissociaton）、自伤行为（selfinjuriousbehavior）、焦虑（anxiety）、妄想（paranoid）、双相障碍（bipolardisorder）、心境障碍（mood disorder）、强迫症（obsesivecompulsive disorder）、人格障碍（personality disorder）、进食障碍（eating disorder）、神经性厌食症（anorexia）、贪食症、暴食症（bulimia）、妄想性障碍（delusional disorder）等主题词；
+
+态度（atitude）、知识（knowledge）、歧视（discrimination）、污名（stigma、socialstigma）、偏见（prejudice）、社会距离（socialdistance）、原型或刻板印象（stereotype）、公众意见（public opinion）、识别（recognition）、求助（help-seeking、help seek、seekhelp、seek care）、寻求服务（service seeking）、寻求治疗（treatment seking）、服务使用（serviceuse、serviceutilization）、卫生服务利用或健康服务利用（health careutilization）、求助行为（help seeking behavior）、意识（awareness）、信念或观念（belief）、能力（ability）、心理健康素养或心理卫生素养或心理健康知晓率、心理健康学识（mentalhealthliteracy）、识别（identify）、羞耻感、病耻感、羞耻、耻感（shame）、素养（literacy）等结果指标词；
+
+健康教育或卫生教育（health education）、健康促进（health promotion）、课程（currculum、course）、教育（educate、education）、心理教育（psychoeducation）、干预（intervention）、项目（program）、训练或培训（train、training）、接触（contact）运动（campaign）、管理（management）等干预措施词；
+
+中国（China）、中国人（Chinese）、内地（mainland）、香港（Hongkong）、台湾（Taiwan）、澳门（Macao、Macau）等地域词进行配对组合检索。
+
+检索策略，以Pubmed的检索为例
+
+(((("entalalth"Titlebtract]）O"mtaldsoder"Titebtract]）O"mntalilss"[Titlebtract） "mental disease"[Title/Abstract]) OR "psychoticdisorder"[Title/Abstract]) OR "psychodisorders"[Title/Abstract])OR "psyciatr"Titl/AbstractO"pyosis"[Tilebsract)O"psyatry"[TlebractO"mentallillpso"[Title/Atact "schzo"Titl/ractO"p"iact)OstofotiiacO"oiods"Act OR "selfinjurious behavior"[Title/Abstract]) OR"anxiety"[Title/Abstract]）OR "paranoid"[Title/Abstract])OR"bipolar disorder"[Title/AbstractOR"mooddisoder"[TitleAbstract）OR"bsessvecompulsivedisorder"Title/Abstract]OR"pesoality disorder"[Title/AbstractO"atingisorder"[Title/Abstract])O"aorexia"[Title/Abstract)OR"bimia"[Title/Abstract])O"elusioal disorder"[Title/Abstract)）AND(((("halthducation"[Title/Abstract])OR"ealthpromotion"[Title/Abstract])） "curriculum"[TitleAbstract）OR"educate"[TleAbstract）OR"intervetio"[Tilebstract）OR"proa"[TitleAbstrac "train"[Title/Abstract]）OR "campaign"[Title/Abstract]) OR"management"[Title/Abstract]）OR "course"[Title/Abstract]）OR "psycoeduca"[Titleba)Oducati"Tile/AtractO"trig))A(ate"[Tileac)O "knowledge[TilebrctO"discrinatioTiteAtractO"stiga[itbtractO"prejuice"[Titebtract)l distance"[Title/AbstractOR"soialstigma"[Tit/Abstract]）O"stereotye"[Title/Abstract）OR"publicopiion"[Tile/Abstract "recognition"[Titlbsrac)O"elpigskng"[Tilebract)O"elpek"[Tilebract)O"seekelp"[ilebracts care"[TiteAbstract)OR"servceseking"[Title/Abstract])OR"treatmentseking"[Ttle/bstractOR"serviceuse"[Title/Astract "serviceutilization"[Title/Abstract）OR"ealthcareutilization"[Title/Abstract）OR"helpseekingbehavior"[Title/AbstractO "awarenes"[TitAbtract）O"belief[TitleAbstract）OR"abilt"[Title/AbstractO"mentalhealthliteracy"[Title/Abstract "identify"[Title/Abstract])OR"shame"[Title/Abstract]) OR"literacy"[Title/Abstract])）AND((("china"[Title/Abstract]) OR "chinese"[Title/Abstract]) "mainland"[Title/Abstract]) OR "hongkong"[Title/Abstract]) OR "macao"[Title/Abstract]) OR "taiwan"[Title/Abstract])
+
+附录2  
+表1．中国人心理健康素养干预效果的元分析纳入研究的特征  
+
+<html><body><table><tr><td>序号</td><td>作者(年份)</td><td>地区</td><td>研究类</td><td>样本量</td><td>测量时间点</td><td>被试类型</td><td>年龄</td><td>干预方式</td><td>结果变量</td><td>测量工具</td><td></td><td></td></tr><tr><td>1</td><td>Chan (2004) a</td><td>香港</td><td>RCT</td><td>63(32,31)</td><td>龍，不月以</td><td>患者家属</td><td>42.64</td><td>教育会谈</td><td>知识</td><td>the Specific Level of Functioning Scale (SLOF)</td><td>低风险</td><td>1</td></tr><tr><td>2</td><td>Chan (2004) b</td><td>香港</td><td>RCT</td><td>64(33,31)</td><td>前测，后测， 追踪6个月以</td><td>患者家属</td><td>41.86</td><td>教育谈</td><td>知识</td><td>the Specific Level of Functioning Scale (SLOF)</td><td>低风险</td><td>1</td></tr><tr><td>3</td><td>Chan, Yip, Tso, Cheng,&Tam (2009)</td><td>香港</td><td>RCT</td><td>73(36,37)</td><td>前测，后测， 追踪，追踪6 个月以上</td><td>患者家属</td><td>35.3</td><td>教育-讲座</td><td>知识</td><td>the General Perceived Self-fficacy Scale (GPSE)</td><td>低风险</td><td>1</td></tr><tr><td>4</td><td>Chan,Mak &</td><td>香港</td><td>RCT</td><td>182 (88,94)</td><td>前，后</td><td>青少年</td><td>14.6</td><td>教育-讲座 有数</td><td>污名</td><td>the Public Stigma Scale (PSS);</td><td>低风险 低风险</td><td>0</td></tr><tr><td>5</td><td>Cheng, et al.</td><td></td><td>RCT</td><td>(163.167)</td><td>后测</td><td>普通公众</td><td>56.13</td><td>教育-信息</td><td>知识 污名</td><td>痴呆污名测量问卷</td><td>低风险</td><td></td></tr><tr><td>6</td><td>Chung (2005)</td><td></td><td>RCT</td><td>166 (81,85)</td><td>后测</td><td>医学生</td><td>22.8</td><td></td><td>态度</td><td>the Attitudes Towards Psychiatry scale</td><td>风险不</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>接触-直接 教育-讲座</td><td>知识</td><td>心理健康知识测量</td><td>高风险</td><td></td></tr><tr><td>7</td><td>woo., .</td><td>香港</td><td>非RCT</td><td>(149,166)</td><td>后测</td><td>一般大学生</td><td>21</td><td>接直 教育他人</td><td>态度</td><td>theCouitytisadsthell</td><td>低风险</td><td>0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>教育-讲座</td><td>污名 知识</td><td>Social Distance Scale (SDS) 心理健康知识测量</td><td>低风险 高风险</td><td></td></tr><tr><td>8</td><td></td><td>香港</td><td>非RCT</td><td>(92111)</td><td>后测</td><td>普通公众</td><td>18~50</td><td>接直接</td><td>态度</td><td>theCounitytestwards ttal</td><td>低风险</td><td>0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>教育他人</td><td>污名</td><td>Social Distance Scale (SDS)</td><td>低风险</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>知识</td><td>the Biological Attribution Scale (BAS)</td><td>低风险</td><td></td></tr><tr><td>9</td><td>Han & Chen</td><td>内地</td><td>RCT</td><td>132 (66,66)</td><td>前测，后测</td><td>一般大学生</td><td>19.6</td><td>教育-讲座</td><td>态度</td><td>Psychological Blame Scale</td><td>低风险</td><td>0</td></tr><tr><td></td><td>(2014)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Desired Social Distance (DSD)</td><td>低风险</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>污名</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td>台湾</td><td>RCT</td><td>126(64,62)</td><td>后测</td><td>一般大学生</td><td>20.3</td><td>教育纸质</td><td>求助意愿</td><td>the Help-Seeking Willingness Scale (HSWS)</td><td>低风险</td><td>0</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20.3</td><td>的 教育-纸质 去材料的</td><td>求助意愿</td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td>台湾</td><td>RCT</td><td>118 (56,62)</td><td>后测</td><td>一般大学生</td><td></td><td>干预</td><td>知识</td><td>A six-item knowledge checklist</td><td></td><td>高风险</td><td></td></tr><tr><td rowspan="2">12</td><td rowspan="2">Lo (2016)a</td><td rowspan="2">香港</td><td rowspan="2">非RCT</td><td rowspan="2">(943.48)</td><td rowspan="2">前6</td><td rowspan="2">青少年</td><td rowspan="2">14~16</td><td rowspan="2">教育讲座</td><td></td><td></td><td>Attitudes towards people with mental illness:</td><td></td><td>0</td></tr><tr><td>求助意愿</td><td></td><td>高风险</td><td>风险不</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">1361(663,</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td><td></td><td>A six-item knowledge checklist</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td rowspan="2"></td><td rowspan="2">Li, Fan, Zhong,</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>心理健康</td><td></td><td>Mental illness: Clinicians'Attitudes (MICA)</td><td>低风险</td><td>0</td></tr><tr><td rowspan="2"></td><td rowspan="2">(2019)</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>32.32 按</td><td></td><td></td><td>高风险</td><td>0</td></tr><tr><td rowspan="2"></td><td rowspan="2">Ng &Chan (2002)</td><td rowspan="2">香港</td><td rowspan="2">非RCT</td><td rowspan="2">169（79,90)</td><td rowspan="2">前，以</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>教 接触-直接</td><td>污名</td><td>OPpinin aboutMmtlIls iiese</td><td>低风险</td><td>1</td></tr><tr><td rowspan="2">17</td><td rowspan="2">Ran, Xiang,</td><td rowspan="2">内地</td><td rowspan="2">RCT</td><td rowspan="2">168 (93,75)</td><td rowspan="2">后测</td><td rowspan="2"></td><td rowspan="2">患者家属</td><td rowspan="2">46.21</td><td rowspan="2">教育讲</td><td>态度</td><td>the Relatives’Beliefs Scale</td><td>风不</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">18</td><td rowspan="2"></td><td rowspan="2">内地</td><td rowspan="2">非RCT</td><td rowspan="2">(102,103)</td><td rowspan="2">前测，后测</td><td rowspan="2"></td><td rowspan="2">医学生</td><td rowspan="2">20.18</td><td>教有我</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>低风险</td><td>1</td></tr><tr><td>19</td><td></td><td>台湾</td><td>非RCT</td><td>174 (95,79)</td><td>前测，后测</td><td>医学生</td><td>26.8</td><td>教育讲</td><td>态度</td><td></td><td>Suicide Opinion Questionnaire</td><td>低风险</td><td>0</td></tr></table></body></html>
+
+<html><body><table><tr><td>20</td><td></td><td>香港</td><td>非RCT</td><td>（(160,120)</td><td>前测，后测</td><td>青少年</td><td>14~16</td><td>教育-业</td><td>求助态度</td><td></td><td>风险不</td><td>1</td></tr><tr><td rowspan="2">21</td><td></td><td rowspan="2">香港</td><td rowspan="2">非RCT</td><td rowspan="2">（1327739)</td><td rowspan="2">前6月</td><td rowspan="2">普通公众</td><td rowspan="2">18~65</td><td rowspan="2">教育-讲座</td><td></td><td></td><td>风险不</td><td rowspan="2">0</td></tr><tr><td></td><td></td><td></td><td>低风险</td></tr><tr><td rowspan="2">22</td><td>包炤华，袁国桢,</td><td rowspan="2">内地</td><td rowspan="2">非RCT</td><td rowspan="2">（100.100</td><td rowspan="2">后测</td><td rowspan="2">患者家属</td><td rowspan="2">53.49</td><td rowspan="2">个定制</td><td>污名</td><td rowspan="2">病耻感感受问卷</td><td>风险不 低风险</td><td rowspan="2">0</td></tr><tr><td></td><td></td><td></td></tr><tr><td>23</td><td>成爱萍，牛俊变， 王学雷，李文红</td><td>内地</td><td></td><td>174 （87,87)</td><td>后测</td><td>患者家属</td><td>30.4</td><td>教育-讲 座、宣传 材料、个</td><td>知识</td><td>精神疾病知识掌握情况调查问卷</td><td>高风险</td><td>0</td></tr><tr><td>24</td><td>(2005) 崔格，郑刷，龚</td><td>内地</td><td></td><td></td><td>前测，后测</td><td>患者家属</td><td>41</td><td>别指导、 电话咨询 教育讲流</td><td>知识</td><td>精神分裂症知识自评表</td><td>高风险</td><td>0</td></tr><tr><td>25</td><td></td><td>内地</td><td>非RCT</td><td>(314.724)</td><td>前测</td><td>医学生</td><td>21.45</td><td>教育接</td><td>污名</td><td>歧视精神疾病患者评估量表</td><td>低风险</td><td>0</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td><td>应对效能量表</td><td></td><td rowspan="2"></td></tr><tr><td>教育-讲座</td><td></td><td>低风险 低风险</td></tr><tr><td rowspan="2">26</td><td rowspan="2">郝志红，梁宝勇</td><td rowspan="2">内地</td><td rowspan="2">RCT</td><td rowspan="2">64（34,30)</td><td rowspan="2">前测，后测</td><td rowspan="2">一般大学生</td><td rowspan="2">21.00</td><td></td><td>求助</td><td>寻求专业性心理帮助的污度量表</td><td></td><td rowspan="2">0</td></tr><tr><td>教育-体验</td><td>求助意愿</td><td>寻求心理咨询帮助的行为意向量表</td><td>低风险</td></tr><tr><td>27</td><td></td><td>内地</td><td>RCT</td><td>(33637</td><td>前测，后测</td><td>青少年</td><td>15.58</td><td>教</td><td>知识</td><td>青少年心理健康知晓率调查问卷</td><td>高风险</td><td>2</td></tr><tr><td>28</td><td>李刚,张君,王 海铃 (2005)</td><td>内地</td><td>RCT</td><td>(71576)</td><td>后测</td><td>一般公众</td><td>40</td><td>教育-讲座</td><td>知识</td><td>心理卫生保健知识问卷</td><td>高风险</td><td>0</td></tr><tr><td>29</td><td>张， 全映波(2008)</td><td>内地</td><td>RCT</td><td>（84.100)</td><td>前测，后测</td><td>患者家属</td><td>53.12</td><td>家庭理 团体辅导</td><td>知识</td><td>家属认知状况调查表</td><td>高风险</td><td>1</td></tr><tr><td>30</td><td></td><td>内地</td><td>RCT</td><td>（(156.163)</td><td>前测，追踪1</td><td>普通公众</td><td>none</td><td>教育讲座</td><td>知识</td><td>心理健康知识问卷</td><td>高风险</td><td>0</td></tr><tr><td>31</td><td>涂惠娟，李从红</td><td>内地</td><td>非RCT</td><td>(213157)</td><td>后测</td><td>医学生</td><td>21.7</td><td>教育座</td><td>污名</td><td>歧视精神疾病患者评估量表</td><td>低风险</td><td>0</td></tr><tr><td>32</td><td>，洁</td><td>内地</td><td>RCT</td><td>136 (68,68)</td><td>前测，后测</td><td>患者家属</td><td>18~60</td><td>教育</td><td>知识</td><td>精神疾病知识调查问卷</td><td>高风险</td><td>3</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>徐文静，张丽, 倪琳(2018)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>材料、座 谈会个别 指导</td><td></td><td></td><td></td><td></td></tr><tr><td>33</td><td>汪云芳，傅丽， 奔华军</td><td>内地</td><td>RCT</td><td>100 （50,50）</td><td>后测</td><td>患者家属</td><td>38.17</td><td>教育-讲座 集体庭 教育访谈</td><td>污名</td><td>贬低-歧视量表</td><td>风险不</td><td>0</td></tr><tr><td>34</td><td>峰(2017) 王枫(2018)</td><td>内地</td><td>RCT</td><td>95 （47,48)</td><td>前测，后，</td><td>一般大学生</td><td>21</td><td></td><td>污名</td><td>Social Distance Scale (SDS)</td><td>低风险</td><td>0</td></tr><tr><td>35</td><td>王剑英,李拴荣，</td><td>内地</td><td>RCT</td><td>160 （80,80)</td><td>前测，后测</td><td>医学生</td><td>22</td><td>教育-讲故 事的方</td><td>污名</td><td>精神病公众污名量表</td><td>低风险</td><td>2</td></tr><tr><td>36</td><td></td><td>内地</td><td>RCT</td><td>1935</td><td>前测，后测</td><td>普通公众</td><td>42</td><td>教有</td><td>知识</td><td>精神卫生与心理保健知识问卷</td><td>低风险</td><td>0</td></tr><tr><td>37</td><td>张晓(2013)</td><td>内地</td><td>RCT</td><td>（138.150）</td><td>前测，后测</td><td>医学生</td><td>22</td><td></td><td>铭</td><td>拥拓码心理健康素养同卷</td><td>低骏</td><td>0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>频 教育-讲座</td><td></td><td></td><td></td><td></td></tr><tr><td>38</td><td>庄妙红(2017)</td><td>内地</td><td>RCT</td><td>90 （45,45)</td><td>后测</td><td>患者家属</td><td>38.67</td><td>团体辅导 个别指导</td><td>知识</td><td>知识调查问卷</td><td>高风险</td><td>0</td></tr></table></body></html>
+
+![](images/ec8ac88a3db9388f5544329a4bcba76d8c4e0f9ddf6c8b6f8253ee024c7b5a90.jpg)  
+附录3漏斗图
+
+![](images/da5a8f31f6efe4d9be4c45c4018181eed7435aa3b9c4ac0f065be3328508891c.jpg)  
+干预知识的即时效果发表偏倚漏斗图  
+干预污名态度的即时效果发表偏倚漏斗图
+
+附录4亚组分析的结果  
+
+<html><body><table><tr><td>亚组</td><td>k</td><td>g (95%CI)</td><td>Z</td><td>Q</td><td>1(%)</td><td>p</td></tr><tr><td>地域</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>内地</td><td>13</td><td>0.46(0.40,0.52)</td><td>15.35***</td><td>201.26***</td><td>94.04</td><td>p<0.001</td></tr><tr><td>港澳台</td><td>9</td><td>0.86(0.79,0.92)</td><td>27.72***</td><td>55.58***</td><td>85.61</td><td></td></tr><tr><td>被干预者类型</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>专业人员</td><td>3</td><td>0.44(0.26,0.62)</td><td>4.81***</td><td>2.04</td><td>2.16</td><td>0.024**</td></tr><tr><td>非专业人员</td><td>19</td><td>0.65 (0.60,0.69)</td><td>28.25***</td><td>330.51***</td><td>94.55</td><td></td></tr><tr><td>干预者与被干预者互动</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高互动</td><td>14</td><td>0.85 (0.58,1.13)</td><td>6.12***</td><td>187.37***</td><td>93.06</td><td></td></tr><tr><td>低互动</td><td>8</td><td>0.46(0.29.0.63)</td><td>5.37***</td><td>35.23***</td><td>80.17</td><td>p<0.001</td></tr><tr><td>被干预者间的互动</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>有</td><td>14</td><td>0.88(0.82,0.94)</td><td>27.28***</td><td>184.76***</td><td>92.96</td><td></td></tr><tr><td>无</td><td>8</td><td>0.41 (0.35,0.47)</td><td>13.52***</td><td>42***</td><td>83.33</td><td>p <0.001</td></tr><tr><td>干预中是否接触患者</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>是</td><td>6</td><td>0.37 (0.23,0.51)</td><td>5.21**</td><td>39.80***</td><td>87.44</td><td></td></tr><tr><td>香</td><td>16</td><td>0.66(0.62,0.71)</td><td>282.02***</td><td>283.95***</td><td>94.68</td><td>p <0.001</td></tr><tr><td>日常是否接触患者</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>是否</td><td>9B</td><td>0.78 (0.830.63)</td><td>10.14**</td><td>95.34***</td><td>91.61</td><td>0.048*</td></tr><tr><td></td><td></td><td></td><td></td><td>238.00***</td><td></td><td></td></tr><tr><td>试验类型</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RCT</td><td>16</td><td>0.46(0.41,0.52)</td><td>15.98***</td><td>204.07***</td><td>92.65</td><td></td></tr><tr><td>非RCT</td><td>6</td><td>0.88(0.81,0.94)</td><td>25.41***</td><td>48.66***</td><td>89.73</td><td>p<0.001</td></tr></table></body></html>
+
+注： $9 5 \% C \mathrm { I }$ 为结果变量所对应的效果量 $g$ 的 $9 5 \%$ 的置信区间; $^ { * } p < 0 . 0 5$ ，\* $^ { * } p < 0 . 0 1$ ，\*\*\*p<0.001。
+
+知识的亚组分析结果  
+污名态度的亚组分析结果  
+
+<html><body><table><tr><td>亚组</td><td>k</td><td>g(95%CI)</td><td>Z</td><td>Q</td><td>1(%)</td><td>p</td></tr><tr><td>地域</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>内地</td><td>13</td><td>-0.87(-0.95,-0.79)</td><td>-19.99***</td><td>613.95***</td><td>98.21</td><td></td></tr><tr><td>港澳台</td><td>13</td><td>-0.05(-0.11,0.003)</td><td>-1.85</td><td>547.96***</td><td>97.81</td><td>p<0.001</td></tr><tr><td>被干预者类型</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>专业人员</td><td>9</td><td>-0.90(-0.98,-0.78)</td><td>-17.86***</td><td>629.08***</td><td>98.89</td><td></td></tr><tr><td>非专业人员</td><td>17</td><td>-0.11(-0.16,-0.06)</td><td>-4.06***</td><td>600.51***</td><td>97.33</td><td>p<0.001</td></tr><tr><td>干预者与被干预者互动</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高互动</td><td>14</td><td>-0.04(-0.1,0.01)</td><td>-1.55</td><td>291.02***</td><td>95.53</td><td></td></tr><tr><td>低互动</td><td>12</td><td>-0.88(-0.96,-0.80)</td><td>-21.11***</td><td>858.67***</td><td>98.72</td><td>p<0.001</td></tr><tr><td>被干预者间的互动</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>有</td><td>14</td><td>-0.02(-0.07,0.04)</td><td>-0.63</td><td>536.20***</td><td>97.58</td><td></td></tr><tr><td>无</td><td>12</td><td>-0.89(-0.97,-0.81)</td><td>-20.93***</td><td>590.20***</td><td>98.30</td><td>p<0.001</td></tr><tr><td>日常是否接触患者</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>是</td><td>5</td><td>-0.76(-0.92,-0.62)</td><td>-9.94***</td><td>16.53***</td><td>75.80</td><td></td></tr><tr><td>香</td><td>21</td><td>-0.25(-0.30,0.21)</td><td>-10.46***</td><td>1372.97***</td><td>98.54</td><td>p<0.001</td></tr><tr><td>干预中是否接触患者</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>是</td><td>15</td><td>-0.05(-0.11,0.001)</td><td>-1.91</td><td>565.77***</td><td>97.53</td><td></td></tr><tr><td>香</td><td>11</td><td>-0.89(-0.97,-0.81)</td><td>-20.93***</td><td>590.20***</td><td>98.31</td><td>p<0.001</td></tr><tr><td>试验类型</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RCT</td><td>13</td><td>-0.38(-0.47,-0.30)</td><td>-8.62***</td><td>313.31***</td><td>96.17</td><td></td></tr><tr><td>非RCT</td><td>13</td><td>-0.27(-0.32,-0.22)</td><td>-9.94***</td><td>1111.32***</td><td>98.92</td><td>p<0.001</td></tr></table></body></html>
+
+注： $9 5 \% C \mathrm { I }$ 为结果变量所对应的效果量 $g$ 的 $9 5 \%$ 的置信区间; $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ “， $^ { * * * } p < 0 . 0 0 1$ 。
+
+求助的亚组分析结果  
+
+<html><body><table><tr><td>亚组</td><td>k</td><td>g (95%CI)</td><td>Z</td><td>Q</td><td>1(%)</td><td>P</td></tr><tr><td colspan="7">地域</td></tr><tr><td>内地</td><td>4</td><td>2.10(1.78,2.42)</td><td>12.82***</td><td>324.21***</td><td>99.08</td><td></td></tr><tr><td>港澳台</td><td>5</td><td>-0.05(-0.12,0.01)</td><td>-1.60</td><td>3.38</td><td>0</td><td>p<0.001</td></tr><tr><td colspan="7">干预者与被干预者互动</td></tr><tr><td>低互动</td><td>2</td><td>0.11(-0.14,0.36)</td><td>0.84</td><td>0.24</td><td>0</td><td></td></tr><tr><td>高互动</td><td>7</td><td>0.03(-0.04,0.10)</td><td>0.83</td><td>492.83***</td><td>98.78</td><td>0.55</td></tr><tr><td colspan="7">被干预者间的互动</td></tr><tr><td>有</td><td>7</td><td>-0.06(-0.13,0.01)</td><td>-1.63</td><td>294.14***</td><td>98.30</td><td></td></tr><tr><td>无</td><td>2</td><td>0.89(0.68,1.10)</td><td>8.31***</td><td>294.14***</td><td>98.45</td><td>p<0.001</td></tr><tr><td colspan="7">日常是否接触患者</td></tr><tr><td>是</td><td>1</td><td>2.77(2.39,3.16)</td><td>14.02***</td><td>0</td><td>0</td><td>pP<0.001</td></tr><tr><td>香</td><td>8</td><td>-0.05(-0.11,0.02)</td><td>-1.35</td><td>295.91***</td><td>97.63</td><td></td></tr><tr><td colspan="7">试验类型</td></tr><tr><td>RCT</td><td>5</td><td>0.19(-0.04,0.42)</td><td>1.63</td><td>290.05***</td><td>98.62</td><td>0.16</td></tr><tr><td>非RCT</td><td>4</td><td>0.02(-0.05,0.09)</td><td>0.58</td><td>201.41***</td><td>98.51</td><td></td></tr></table></body></html>
+
+注： $9 5 \% C \mathrm { I }$ 为结果变量所对应的效果量 $g$ 的 $9 5 \%$ 的置信区间; $^ { * } p < 0 . 0 5$ ，\*\* $p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ 。
+
+# 附录5：元分析纳入文献
+
+infamilymembersofthepatientswithschizophreniaengagingincommunityrehabiliation.ChinaJournalofHalthPsychology2(6), 834-836   
+[包炤华，袁国桢，赵幸福，吴越，周德祥,.周晓琴.(2014).个体化家属教育对社区康复精神分裂症家属病耻感的影响．中国健康心 理学杂志,22(6),834-836.]   
+Chan,W.C.A..).Oearfolowuofultiplefmilouintervetionforsefilesofatientsithha. Psychiatric Services,55(11),1276-1284.   
+Chan,J.MakawL).bgeucatiodsedtacttodceigatalls:t Same"anti-stigma program for secondaryschools in Hong Kong.Social Science and Medicine,68(8),1521-1526.   
+Chan,S.Wpsg,)aiouaforesi and their family caregivers.Patient Education and Counseling,75(1),67-76.   
+Cheng,S.T.,L.L.C.Cga.C.a..).eoeoreo dementiaontigaandatidestowarddmetiaareinsecomityIternatioalPogeriatrics923),41441.   
+Cheng,A.P.uJ,e Journal ofNursing Science.22(6),834-836   
+[成爱萍，牛俊变，王学雷,李文红.(2005).对住院精神分裂症患者家属进行健康教育效果观察．护理学杂志,20(4),53-54.]   
+Chung,K.F.(o).ChangingteatitudesofngKngmedicalstudentstowardpeopleihentalilsseJoualofevoud Mental Disease,193(11),766-768.   
+Cui,R.,ZenG,&,)mpaatiedytalaltcatifeatiofoatitdlul ofChinesePeople's Health,18(17),783-784.   
+[崔榕，郑刚，龚传鹏.(2006).对精神分裂症患者家属进行精神卫生知识教育的对照研究．中国民康医学,18(17),783-784.]   
+Fung,E.L..oa.,..)ueoegeacbdg in adolescents and adults in the Chinese population.East Asian Arch Psychiatry,26(4),129.   
+Gu,L.B.ed ofnursingudegaaesttsithatricsders.usinJoualfieele'sertioA4   
+[谷利斌，徐德国，邢浪萍，焦文娟.(2016).学习《精神科护理学》对改善护理专业学生精神疾病患者歧视态度和服务意愿的影响．解 放军护理杂志,33(4),11-14.]   
+Han,D.Y.,&Cen,.H.(14).educingtgofpresiotouhurobgbsdshoducatio:Adoedl trial.Psychiatry and Clinical Neurosciences,68(9),666-673.   
+HanD.. attribution versus destigmatization.Psychiatry and Clinical Neurosciences,60(6),662-668.   
+Hao,Z.H.,&iag).tefofalcallit Chinese Journal ofClinical Psychology,19(05),699-702   
+[郝志红,梁宝勇.(2011).团体辅导对大学生寻求专业性心理帮助意向影响的研究．中国临床心理学杂志,19(05),699-702]   
+Huang,M.,S,Y..,He,.NangZX,&Zu,ZF.9).Asudyoknowledgeratefmentalhealthofadolescentipreder intervention.Medical JournalofChinesePeople'sHealth,21(23),3055-3056.   
+[黄敏，施永斌，何琼娜，张展星，朱振芳.(2009).干预前后青少年心理健康知晓率调查研究．中国民康医学,21(23),305-3056.]   
+LaiE.KoCu.)bli programme forpreventingdepressioninChineseadolescents:Afoow-upstudyusingquasi-experimentaldesign.PlosOne,(2), e0149854.   
+Li,JFn, improvingatituesadecresingdsinatiotowardspeoplewithetalisordersamogcaresantwkesiuanguCina. International Journal of Mental Health Systems,l(13),1-10   
+Li,JLiJ.,ooft,GngHnWang.G.)goitetaaltainagoa: Evaluation of the effect of a new training model.BMC Psychiatry,15(1),263.   
+Li,G.,Zhang,Jg.un.,n)dttta and education in thecommunity.Xinjiang Medical Journal,35(1),Foo3-F004.   
+[李刚，张君，王海云，孙玉霞，范庆儒.,.恒铃.(205).社区开展精神卫生宣教效果调查评价．新疆医学,35(1),F003-F004.]   
+Mao,C.Y.,Zag,X.He,HZao.,uan,Y.).dyetalsigtetioiepr Journal of Clinical Psychosomatic Diseases.14(5),426-428   
+[冒才英，张旭兰，合浩，赵淑媛，全映波.(2008).抑郁症患者及家属的家庭心理干预效果评价．临床心身疾病杂志,14(5),426-428.]   
+Ng,P.,&se AdolescMedHealth,3(14),215-224.   
+Ran,..) ruralCinesegodrodaciatdel.   
+RongY.erte)og Depression: a controlled trial among Chinese medical students. BMC Psychiatry,I1(1),36.   
+Sun,F.K.,LngA,Huag,X.ngC..).siexpitaistgatiointeecacyocidecatio programme for second-year student nurses in Taiwan.Journal of Clinical Nursing,20(5-6),837-846.   
+Tu,H.J,&LC.6)psofsigdets’atioadsppleitalsoredt nursingpractice.ChineseJournalofMedical Education.36(2),271-275.   
+[涂惠娟，李从红.(2016).护理学专业学生精神科实习前后对精神疾病患者歧视态度的变化．中华医学教育杂志,36(2),271-275.]   
+Tu,Y.M.ug)oal schizophrenics on patient medication compliance.Shanghai Nursing,l8(o4),19-23.   
+[屠一敏，李霞，曹新妹，朱晓洁，徐文静，张丽,倪琳.(2018).家属同步教育对精神分裂症患者治疗依从性的影响.上海护理,18(04), 19-23.]   
+Tang,L.H.ingg).staalee incommunityfemalecadres inaurbandistrictofShanghai.HealthEducationand HealthPromotion,3(O3),0-222.   
+[唐立华，林益强，王援越，王蓓，陶怡.(2018).上海某城区社区女性干部心理健康知识现状与干预近期效果．健康教育与健康促进， 13(03),220-222.]   
+Wang,F.()ceefrflsi Central China Normal University,Wuhan.   
+[王枫.(2018).教育对抑郁症污名的干预：基于心理疾病观核心维度(硕士学位论文).华中师范大学，武汉.]   
+Wang,Y.F.,Fu,iF.Zeng.,Zong,YH&ao..().fetofhlogicalbeviorinteretiooig schizophrenia patients and their families.Journal of Qilu Nursing,23(7),49-51.   
+[汪云芳，傅丽，李峰，曾爱华，钟远惠，郝军峰.(2017).心理行为干预对精神分裂症患者及家属病耻感的影响．齐鲁护理杂志,23(7), 49-51.]   
+Wang,J.Y.,..g,o)iescbl illness in nursing undergraduates.Journal Clinical Psychosom Disease,23(3),146-148.   
+[王剑英,李拴荣，孙玉玺，李颖，张冬红，郭冬梅.(2017).叙事护理教学对护理本科生精神病公众污名影响的研究．临床心身疾病杂 志,23(3),146-148.]   
+Wong,P.,Fu.aip)ivsebs preventingdepresinedolesets:uasexpementalpilotsudyJoualoffectivedsoders42-)4.   
+Wong,DLuK.og,i)Eaicialadrore in Hong Kong.Research on Social Work Practice,27(1SI),59-67.   
+Zhang,X.()seeteeddeepdeelepc among medical students (Master's dissertation).Guangxi Medical University,Nanning.   
+[张晓.(2013).医学生抑郁状态、抑郁障碍心理健康素养现状及其心理健康教育干预效果初探(硕士学位论文).广西医科大学，南宁.]   
+Zhang,M.H.,iKZang.Zu.uJ.Yag,.(5).fueneofpshlogicaealdcationaal awareness in community residents.China Journal of Health Psychology,23(11),1613-1616.   
+[张曼华，石扩，张婉奇，朱梅芳，朱洁，..杨凤池.(2015).心理健康宣教对社区居民精神卫生知晓率的影响，中国健康心理学杂志， 23(11),1613-1616.]   
+Zhuang,M.H)ecteticalhcatiosodetitsdilybs. 37(01),25-27.   
+[庄妙红.(2017).首发精神分裂症患者及家属系统健康教育的应用效果．健康研究,37(1),25-27.]

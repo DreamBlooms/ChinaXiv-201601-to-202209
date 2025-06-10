@@ -1,0 +1,200 @@
+# 热电制冷器热模型建立与修正方法研究
+
+施道云 杨 光　张卫国侯军占　高瑜　迟圣威(西安应用光学研究所，西安710065)
+
+摘要影响热电制冷器仿真温度的输入参数较多且不易准确测得导致建立高精度仿真模型较为困难。为此，提出了一种热电制冷器热模型建立与修正方法。首先建立热电制冷器温度场仿真模型，并基于 Spearman相关级数对影响仿真温度的参数进行灵敏度辨识，确定强相关参数和弱相关参数；然后以热电制冷器的实测温度值为目标，采用多岛群遗传算法对强相关参数进行修正；在此基础上，再对弱相关参数进行修正；最后运用霍克基维斯直接搜索算法对修正后的参数进行更为精确的修正，得出了电流为 3.6A时模型输入参数的修正值。采用相同方法获得了电流在 $0 { \sim } 3 . 9$ A 范围内输入参数的修正值。据此建立的热模型，仿真值与实测值最大误差小于 $4 . 9 \ ^ { \circ } \mathrm { C }$ 0 $\mathrm { \hbar - 5 \sim 1 0 0 . 5 ^ { \circ } C }$ 范围内)，表明该热模型的建立与修正方法合理有效。
+
+关键词热电制冷器；热模型；灵敏度分析；模型修正中图分类号：TB663,TP391.9 文献标识码：A 文章编号:0253-231X(2017)04-0847-08
+
+# The Method of Modeling and Correcting for Thermoelectric Cooler Thermal Model
+
+SHI Dao-Yun YANG Guang ZHANG Wei-Guo HOU Jun-Zhan GAO Yu CHI-Sheng-Wei (Xi'an Institute of Applied Optics， Xi'an 710065, China)
+
+Abstract As the input parameters Me and not easy to measure accurately, it is diffcult to get the high-precision simulation modof thermoelectric cooler. A method of model establishment and modification was proposed.Atfirst，the thermal model of thermoelectric cooler was established. Then, the sensitivity of thermal model parameters is analyzed by the Spearman rank correlation. It is aimed to determine the strong correlation parameters and weak correlation parameters that affect the simulation accuracy. Taking the measured temperatures as the targets,the multi-island genetic algorithm was used to correct the strong correlation parametersfirstly. Then the weak correlation parameters are corrected. Based on above results,the Hooke-Jeeves Direct Search Method was used to modify the parameters for obtaining the accurate valles when the current is 3.6 A. Similarly, the corrected values are obtained when the current is varyed from O A to 3.9 A. The accurate thermal model of thermoelectric cooler can be establishedVat diferent current.The results show that the maximum error between simulation value and experiment value is less than 4.9 C ( $- 5 ^ { \circ }$ C to 100.5 $^ \circ \mathrm { C }$ ） when the current is changed from O Ato 3.9 A. In conclusion, the modified method of thermal model is reasonable and accurate.
+
+Key wordsthermal simulation; thermal model; sensitivity analysis; model modifying
+
+# 0引言
+
+热电制冷器(TEC)是一种利用半导体材料热电效应实现加热、降温、控温等目的的器件，其广泛应用于差热发电、半导体激光器制冷、空调制冷等领域。目前对于热电制冷器的研究主要集中在如何有效提高热电制冷器的优质系数[1,2]及电热转换效率[3-6]。在热机设计过程中，建立准确的可预测温度场分布的有限元模型(以下简称“热模型”）是实现热电制冷器高效应用及优化设计的基础。热电制冷器温度场的仿真本质是热场与电场的藕合分析，具有高度非线性的特点，获得精确解较为困难。文献[7]根据热电制冷器的工作原理结合实际工作情况，推导出了半导体制冷器在任意时刻表面温度的计算公式，热端实测值与计算值最大误差为 $1 2 ~ ^ { \circ } \mathrm { C }$ 。文献[8]在考虑各种影响因素所造成的附加热阻和接触热阻的基础上，建立了热电制冷器数学模型，获得了等效电路模型，并对其特性进行了理论分析。文献[9]建立了不同散热方式下热电制冷器散热模型，并进行了实验验证，最大误差达到 $1 4 ~ ^ { \circ } \mathrm { C }$ 。文献[10],[11]通过实验，研究了输入参数对热电制冷器工作性能的影响，为后续建立热电制冷器精确模型提供了思路。现有研究工作已为热电制冷器的高效应用及优化设计做出卓有成效的贡献，但模型的精度仍需进一步提高。文献[12]运用混合算法对卫星的热模型进行了修正，修正后的模型精度有所提高，但是并未将该方法应用于热电制冷器热模型修正中。文献[13]建立了半导体制冷系统中电偶极在电场与温度场的耦合作用下非稳态传热微分方程，通过实验验证，误差到达 $1 0 \ { } ^ { \circ } \mathrm { C } .$ 。文献[14]通过联合仿真的方法修正了发热电阻散热模块，修正之后最大误差为 $5 . 4 \%$ 。鉴于此，本文开展了热电制冷器热模型的建立与修正技术的研究工作。
+
+本文以 $9 5 0 1 / 0 7 1 / 0 4 0$ 型热电制冷器为研究对象，提出了一种有效提高热温度场仿真精度的模型建立与修正方法。由于影响热仿真精度的输入参数较多，对所有参数进行修正效率较低，在对所有可能影响热模型仿真精度的参数进行灵敏度辨识的基础上；按照灵敏度的高低，将灵敏度较高的部分参数作为决定模型仿真精度的输入运用全局优化算法（Multi-Island Genetic Algorithm）和直接寻优算法(Hooke-JeevesDirect Search Method)，并结合实验数据对修正参数进行修正。通过多次修正，得到简化后仿真模型的输入参数关于电流的变化曲线，最终根据该曲线建立了准确的热模型。
+
+![](images/02c664cfe01f5134ad98427056513bd04695d24afbaab8e08b6cacb23535362b.jpg)  
+图1热模型建立与修正方法示意图Fig.1 Schematic diagram of thermal modeling andmodification
+
+# 1 热电制冷器热仿真模型建立与修正技术
+
+热模型建立与修正技术是将热温度场仿真和测试同时进行，基于修正算法，使仿真温度与实测温度趋于一致，最终建立可以精确预测不同工况下温度场的热模型。其原理如图1所示。
+
+# 1.1热电制冷器误差来源分析
+
+热电制冷器是将不同热电材料首尾串联，利用热电效应实现热量转移的控温器件。如图2所示为热电制冷器的结构。
+
+![](images/924f789acacc5203d7aaca78d7f73f59bc3a575684290b266fd6d90064996011.jpg)  
+图2热电制冷器结构示意图  
+Fig.2 Schematic diagram of thermoelectric cooler
+
+半导体材料的热电效应包含赛贝克效应、帕尔贴效应、汤姆逊效应、焦耳效应、傅里叶效应等，表达式如（1）示。
+
+$$
+\left\{ \begin{array} { l l } { E = \alpha \cdot \Delta T } \\ { Q _ { 1 } = \pi \cdot I } \\ { Q _ { 2 } = \tau \cdot I \cdot \Delta T } \\ { Q _ { 3 } = I ^ { 2 } \cdot R } \\ { Q _ { 4 } = K \cdot \Delta T } \end{array} \right.
+$$
+
+其中： $E$ 为赛贝克电动势； $\alpha$ 为赛贝克系数中； $Q _ { 1 }$ 为帕尔贴热； $I$ 为电流值； $\pi$ 为帕尔贴系数; $Q _ { 2 }$ 为汤姆逊热； $\tau$ 为汤姆逊系数； $Q _ { 3 }$ 为焦耳热； $Q _ { 4 }$ 为傅里叶热。
+
+赛贝克电动势 $E$ 与赛贝克系数 $\alpha$ 成正比，帕尔贴热 $Q _ { 1 }$ 取决于电流值 $I$ 与帕尔贴系数 $\pi$ ，汤姆逊热 $Q _ { 2 }$ 与结点温差、电流值 $I$ 及汤姆逊系数 $\tau$ 有关,这三者代表了在热电制冷器内部电、热的转换关系。焦耳热 $Q _ { 3 }$ 可使热电制冷器的冷热端产生升温。傅里叶热 $Q _ { 4 }$ 决定了热电制冷器冷热端的热量交换程度。此外，热电制冷器与环境的热对流以及热辐射也对其温度场分布产生影响，以上环节共同决定了热电
+
+制冷器温度分布。
+
+由此可知，热电制冷器温度场仿真计算的精度取决于上述环节中输入的参数是否准确。半导体材料物性参数随生产批次、工艺不同、工作温度变化而不同；仿真模型的边界条件、初始条件、热载荷等输入参数较其真值有所差异；模型存在简化误差；以上这些因素综合导致仿真结果与实测结果误差较大。热模型建立与修正的原理就是通过优化算法对热仿真结果影响较大的输入参数 (不同模型待修正输入参数不同)进行修正，最终建立一个能准确预测仿真温度场的有限元模型。
+
+# 1.2热模型参数灵敏度辨识
+
+由上可知影响热仿真精度的参数较多，且影响程度不同。因此需要在修正之前进行参数灵敏度分析，确定主要待修正参数。在对比不同灵敏度分析方法的修正基础上，本文采用了基于拉丁超利群抽样的 Spearman相关性灵敏度分析法。Spearman 相关级数可用来考察不同输入参数 $( x _ { 1 } x _ { 2 } x _ { 3 } x _ { 4 } x _ { 5 } \dots )$ 与响应量 (温度值)之间的线性关系，相关系数的定如式(2）所示。 学报
+
+$$
+r _ { s } = 1 - { \frac { 6 \sum _ { 1 } ^ { n } { ( R _ { I } - Q _ { I } ) ^ { 2 } } { \approx } { \frac { \Re \Re } { \Im } } ^ { \Re } } { n ^ { 3 } - { \frac { \Re \Im } { \Im } } ^ { \Im } } }
+$$
+
+式中： $\boldsymbol { n }$ 代表抽样次数, $R _ { i } , \Cup Q _ { i }$ 分别代表参数在 $n$ 次抽样中，第 $i$ 次样本点的输入排序号、响应排序号。当 $| r _ { s } | \geqslant 0 . 8$ 时，称为高度相关；当 $0 . 8 > | r _ { s } | \geqslant 0 . 3$ 称为强相关；当 $\left. r _ { s } \right. < 0 . 3$ 称为弱相关。
+
+# 1.3热仿真模型修正算法
+
+热电制冷器的热仿真具有多峰值，高度非线性的特点。目前常用的热模型修正算法有全局优化法、梯度优化算法和直接搜索法等。其中，全局优化算法(如多岛群遗传算法）修正效率较低，在迭代次数较低时修正精度较差，且提高有限。梯度优化算法修正效果较差、易出错，且容易陷入局部收敛，导致精度不高。直接搜索算法易陷入局部收敛，精度很大程度上取决于初始值。为提高模型修正的精度以及收敛特性，本文采用了多岛群遗传算法进行全局寻优,在得到全局最优解的基础上，以全局最优解为初始值，利用Hooke-Jeeves直接搜索算法进行二次修正，既克服了全局优化算法效率低的问题，又提高了修正热模型的精度。
+
+# 2热模型修正及验证
+
+# 2.1研究对象建模
+
+热电制冷器选用 Ferrotec 9501/071/040 型，最大许用电压 $9 . 8 ~ \mathrm { V }$ ，由于热电制冷器在热端散热较差时，易造成温度过高烧坏器件。为此在热面安装铝制散热器与轴流式风扇，冷面加装小型散热器，强化对流换热，避免器件烧坏。实验对象的几何模型如图3(a)所示。
+
+![](images/299d142f84167dddc96d0c9b0f68852bc1937e4a5b79a5c0c26e4dba9aea27b8.jpg)  
+图3热电制冷器散热结构模型  
+Fig.3 Thermoelectric cooler heat dissipation structure model
+
+cn
+
+用ANSYS建立有限元模型，半导体 $\mathrm { B i _ { 2 } T e _ { 3 } }$ 采用 ThermalElectric226单元，铜导体、陶瓷片、导热硅胶片、铝制散热器均采用热单元solid90。由于模型工作温度较低（小于 $1 0 0 ~ ^ { \circ } \mathrm { C } )$ ，热辐射量较对流换热量小，故将其忽略。采用导热硅胶片连接各接触面强化热传导，忽略其接触热阻等。有限元仿真结果如图3(b)所示。取热端散热器中间肋片上点 $\boldsymbol { a }$ 、热端与导热硅胶片共面点 $b$ 、冷端与导热硅胶片共面点 $\scriptstyle { c }$ 、冷端散热器中间肋片上一点 $d$ 作为测温点，如图4所示。
+
+# 2.2试验建立及测试
+
+根据散热结构模型设计试验对象，搭建试验环境。温度采集及测量系统如图4所示。
+
+温度采集及测量系统包括高性能计算机、 $_ \mathrm { M + P }$ 可开发动态信号识别分析系统(温度采集模块)、T型热电偶。
+
+$_ \mathrm { M + P }$ 温度采集模块可以同时测量48个点的温度，采样精度达到 $0 . 0 1 ^ { \circ } \mathrm { C }$ ，温度采集范围为 $- 1 0 0 \sim$ $+ 1 4 0 0 ^ { \circ } \mathrm { C }$ ，采样频率 $1 0 0 0 ~ \mathrm { H z }$ 。T型温度传感器为未经封装的进口感温线，测温精度 $0 . 1 ~ ^ { \circ } \mathrm { C }$ ，测温范围为 $- 5 0 \sim + 2 0 0 ^ { \circ } \mathrm { C } .$ 。通过对比常见的 $2 \mathrm { m m } \mathrm { K }$ 型热电偶发现，直径 $0 . 0 8 ~ \mathrm { m m }$ 的 $\mathrm { ~ T ~ }$ 型热电偶裸线用于测温可大大降低其测温误差。放置于热电制冷器结构中可最大程度减小对热量传递的影响，确保温度采集迅速、精确。通过导热硅胶片固定热电偶，既实现传感器与被测表面直接接触，也降低了采用粘结剂等带来的测温误差。
+
+![](images/53c4688c20beb48acd9a433bd2ed5d2c19a6b75a21d0987003605a1181bfe7ac.jpg)  
+图4测温点的布置以及测温过程示意图Fig.4 Experimental installation
+
+将测试对象放置于泡沫绝热箱内，箱体四周及底部全部密封，顶部以薄板覆盖，降低外界紊流气流对实验对象的影响；热电制冷器模块下部由纸质变架支撑以降低热传导；热电制冷器通直流电流；轴流式风扇加载 $9 . 8 ~ \mathrm { V }$ 额定电压；在与仿真模型相对应的4个点处布置热电偶，同时在测试对象附近悬空布置热电偶，测量环境温度。测温过程中，若 $\mathrm { 5 ~ m i n }$ 之内温度值变化小于 $0 . 5 ^ { \circ } C _ { k } ^ { \dagger }$ 即可视为达到稳态，以此时温度值为实验温度值。利用实验测得的温度值对仿真模型进行修正及验证。
+
+# 2.3参数灵敏度分析
+
+影响热仿真精度的输入参数较多，需要对其进行灵敏度辨识，运用修正算法对灵敏度较大的输入参数进行修正。灵敏度分析是在输入参数的合理取值区间内寻找最优值，需事先给定所有输入参数常见的取值范围。根据已有研究结果[15-17]，模型中各参数的取值范围如表1所示。
+
+对流换热是被动散热的主要散热方式，对于温度场的分布影响很大。设热端散热器、冷端散热器的对流换热系数为 $G _ { 1 }$ 、 $G _ { 2 }$ ，根据一个大气压下、温度为 $1 7 \ { } ^ { \circ } \mathrm { C }$ 时的空气特性参数，经计算可知热端换热器的对流换热系数为 $3 1 . 4 ~ \mathrm { W } / ( \mathrm { m ^ { 2 } \cdot ^ { \circ } C ) }$ ，于是可将其取值范围设置为 $2 5 { \sim } 6 0 \ \mathrm { W / ( m ^ { 2 } \cdot ^ { \circ } C ) }$ .同理,冷端对流换热系数的取值范围设置为 $5 { \sim } 1 0 \ \mathrm { W } / ( \mathrm { m } ^ { 2 } \cdot { } ^ { \circ } \mathrm { C } ) ^ { [ 1 7 ] }$ 。
+
+Table 1 Uncertain parameters of material   
+
+<html><body><table><tr><td>电阻率1/ 材料 10-6Ω·m</td><td>导热系数2/ W·m-1.K-1</td><td>赛贝克系数3/ (10-4V/K)</td></tr><tr><td>N型半导体A (A1):2~6</td><td>(A2):0.1~1.5</td><td>(A3):-4~-1.2</td></tr><tr><td>P型半导体B (B1):2~6</td><td>(B2):0.1~2</td><td>(B3):0.7~3</td></tr><tr><td>(C1):1~2 H响导体C</td><td>(C2):350~400</td><td></td></tr><tr><td>陶瓷D</td><td>(D):15~30</td><td></td></tr><tr><td>导热硅胶片E</td><td>(E):1~3</td><td></td></tr><tr><td>铝材F</td><td>(F):150~240</td><td></td></tr></table></body></html>
+
+灵敏度分析的第一步是产生样本点，样本点取值范围如表1所示。采用拉丁超利群法生成样本点，共生成样本点300 组。将样本点矩阵加载到模型中进行计算，得到仿真结果。假定4个测温点的温度值为 $X _ { a }$ 、 $X _ { b }$ 、 $\boldsymbol { X } _ { \mathfrak { E } } \mathbb { \widehat { N } } _ { d }$ ，与仿真模型相同位置处实验对象4个测点的实验值为 $x _ { a }$ 、 $x _ { b }$ 、 $x _ { c }$ 、 $x _ { d }$ 。修正目标函数为实验值与仿真值的最大差值，如式(3)所示。
+
+$$
+{ \mathrm { O b j e c t = m a x ~ a b s } } \left( X _ { i } - x _ { i } \right)
+$$
+
+其中， $\mathbf { \chi } _ { i }$ 为 $a , b , c , d _ { \circ }$ 编制Matlab灵敏度算法，得到目标函数与所有输入参数之间的灵敏度值。根据1.2节分析结果将灵敏度进行排序，如表2所示。
+
+表2中，每一项元素与表1中的参数一一对应，如： $A _ { 2 }$ 表示N型半导体导热系数。从表2可以看出，相关性较大的参数为N型半导体赛贝克系数、导热硅胶片导热系数、P型半导体赛贝克系数，P型半导体导热系数、热端对流换热系数、N 型半导体导热系数和冷端对流换热系数次之，其余参数相关性较低。
+
+表1输入参数取值范围  
+表2参数灵敏度结果  
+Table 2 Parameter sensitivity analysis result   
+
+<html><body><table><tr><td colspan="10">所有参数按灵敏度从大到小排序</td><td colspan="3"></td><td></td></tr><tr><td>A3</td><td>E</td><td>B3</td><td>B2</td><td>G1</td><td>A2</td><td>G2</td><td>B1</td><td>D</td><td>F</td><td>C1</td><td>A1</td><td>C2</td></tr><tr><td>-0.48</td><td>-0.34</td><td>0.33</td><td>-0.25</td><td>-0.25</td><td>-0.13</td><td>0.12</td><td>-0.12</td><td>-0.09</td><td>0.07</td><td>-0.06</td><td>-0.05</td><td>-0.02</td></tr></table></body></html>
+
+因此，可设置 $A _ { 3 }$ 、 $E$ 、 $B _ { 3 }$ 为强相关参数，$B _ { 2 }$ 、 $G _ { 1 }$ 、 $A _ { 2 }$ 、 $G _ { 2 }$ 为弱关参数，其他参数不作为修正参数。
+
+# 2.4模型修正及实验结果分析
+
+设置热模型的仿真条件与实验条件一致，计算工作电流为3.6A时，修正前热电制冷器4个测点温度值，并与实验值进行对比，如表3所示。
+
+表33.6A时测点温度仿真值与实验值的对比 Table 3 Simulation value and experimental value comparison   
+
+<html><body><table><tr><td>测点</td><td>a/C</td><td>b/C</td><td>c/C</td><td>d/C</td></tr><tr><td>仿真值</td><td>28.69</td><td>69.13</td><td>23.92</td><td>25.0</td></tr><tr><td>实验值</td><td>36.5</td><td>84.6</td><td>3.8</td><td>5.5</td></tr><tr><td>误差</td><td>-7.81</td><td>15.47</td><td>20.12</td><td>19.5</td></tr></table></body></html>
+
+从表3可以看出，修正前仿真值与实验值的最大误差为 $2 0 . 1 2 \ ^ { \circ } \mathrm { C }$ ，修正目标函数如式（3）所示。修正过程如下，首先，以 $A _ { 3 } , E , B _ { 3 }$ 为修正参数，采用多岛群遗传算法进行修正，修正前误差为 $2 0 . 1 2 \ ^ { \circ } \mathrm { C }$ 修正后误差为 $9 . 1 3 \ ^ { \circ } \mathrm { C } ,$ 。其次，将第一步得到的参数作为初始值，同时以 $B _ { 2 }$ 、 $G _ { 1 }$ 、 $A _ { 2 }$ 、 $G _ { 2 }$ 为修正参数，采用多岛群遗传算法进行修正，误差由修正前9.13$^ { \circ } \mathrm { C }$ 降低到了修正后 $6 . 6 7 \ ^ { \circ } \mathrm { C }$ 。最后以前两步修正得到的参数作为初始值，采用Hook-Jeeves直接搜索算法对前两步所得到的7个参数进行修正，修正后误差由 $6 . 6 7 \ ^ { \circ } \mathrm { C }$ 降低到了 $1 . 1 4 \ ^ { \circ } \mathrm { C } ,$ 。各参数修正前与修正后的结果如表4所示。
+
+表4是对工作在3.6A电流时的热模型进行的修正，采用同样的修正方法，分别修正工作电流为0.6A、1.2A、1.8A、2.4A、3.0A时的热模型。得到修正后的输入参数-电流的变化曲线，如图5所示。
+
+图5(a）中， $\mathrm { ~ N ~ }$ 性材料的导热系数的取值范围由原来的 $0 . 1 { \sim } 1 . 5 ~ \mathrm { W } / ( \mathrm { m } { \cdot } ^ { \circ } \mathrm { C } )$ 变为 $0 . 9 5 { \sim } 1 . 4 5$ $\mathrm { W / ( m \cdot ^ { \circ } C ) }$ 。赛贝克系数取值范围由原来的 $- 4 \times$ $1 0 ^ { - 4 } \mathrm { ~ \sim ~ } - 1 . 2 \mathrm { ~ \times ~ } 1 0 ^ { - 4 } \mathrm { ~ V / ^ { \circ } C }$ 变为 $- 2 . 0 7 \times 1 0 ^ { - 4 } \sim$ $- 1 . 7 5 \times 1 0 ^ { - 4 } \mathrm { ~ V } / { } ^ { \circ } \mathrm { C } .$ ： $\mathrm { ~ P ~ } { }$ 型材料的导热系数与 N 型相同，赛贝克系数随电流增大而减小，修正后变化范围为 $0 . 8 { \times } 1 0 ^ { - 4 } \sim 1 . 2 5 \times 1 0 ^ { - 4 } ~ \mathrm { V / ^ { \circ } C } .$ 导热硅胶片导热系数取值范围从修正之前的 $1 { \sim } 3 ~ \mathrm { W / m { \cdot } ^ { \circ } C }$ 变为修正后的 $1 . 6 5 { \sim } 2 . 8 5 ~ \mathrm { W / ( m { \cdot } ^ { \circ } C ) }$ 。修正后的热端对流换热系数取值随着电流增大而减小，取值范围为$2 5 { \sim } 5 4 \mathrm { W } / ( \mathrm { m } ^ { 2 . \circ } \mathrm { C } )$ 。冷端对流换热系数随着电流增大而减小，由修正前的 $5 { \sim } 1 0 \ \mathrm { W / ( m ^ { 2 } { \cdot } ^ { \circ } C ) }$ 变为修正后的 $8 . 5 { \sim } 9 . 8 \ \mathrm { W / ( m ^ { 2 . \circ } C ) }$ 。参数取值修正前后发生了明显的变化。
+
+表4参数修正结果  
+Table 4 Parameter correction result   
+
+<html><body><table><tr><td>参数</td><td>修正前</td><td>第一步</td><td>第二步</td><td>第三步</td></tr><tr><td>A2/(W/(m·C))</td><td>1.45</td><td>1.45</td><td>1.47</td><td>1.05</td></tr><tr><td>A3/(V/°C)</td><td>-1.38 ×10-4</td><td>-2.32 × 10-4 e</td><td>-2.32 × 10-4</td><td>-1.98 × 10-4</td></tr><tr><td>B2/(W/(m.C))</td><td>0.6754</td><td>0.6754</td><td>1.3</td><td>1.22</td></tr><tr><td>B3/(V/°C)</td><td>0.72×10-4</td><td>0.79×10-* stp.</td><td>0.79×10-4</td><td>0.79×10-4</td></tr><tr><td>E/(W/(m·C))</td><td>1.56</td><td>1e</td><td>1.38</td><td>1.7</td></tr><tr><td>G1/(W/(m² .C))</td><td>53.2</td><td>153.2</td><td>38.4</td><td>25.2</td></tr><tr><td>G2/(W/(m² .C))</td><td>5</td><td>5 p:</td><td>5.36</td><td>8.75</td></tr><tr><td>Object/°C</td><td>21</td><td>9.13</td><td>6.67</td><td>1.14</td></tr></table></body></html>
+
+![](images/1d60ccf3a0b0e3d39327cdd33b1b80215f458d778c352b8c1991693879ac93e5.jpg)  
+(a)N导热系数随电流的变化曲线
+
+![](images/b578602a66db14c49671e4cdacb413967a362e7b305a5a25b9c0e37699845a0f.jpg)  
+(b)N赛贝克系数随电流的变化曲线
+
+![](images/1a9eeaecacba5c5ab274022321d403272d76890d539517a13d3ab3575d0d2730.jpg)  
+图5 $0 . 6 { \sim } 3 . 6 \mathrm { ~ A ~ }$ 电流下各参数随电流变化曲线 Fig.5 Temperature contrast of each point from $0 . 6 { \sim } 3 . 6$ A
+
+由于将所有影响模型仿真精度的因素简化在以上7个参数中，且这7个参数并不独立，相互影响。使得修正后得到的参数曲线不再具有单一的热物性参数，所以得到的参数修正曲线变化具有明显的非线性特征。修正得到的参数曲线仅作为当前仿真模型的准确输入，据此建立热电制冷器的仿真模型并验证其模型准确性。取电流值分别为 $0 . 9 \mathrm { { A } }$ 、1.5A、2.1A、2.7A、3.3A时，各输入参数在修正后对应的数值，结果如表5所示。
+
+将参数带入有限元模型中，计算出 $\mathbf { \Omega } _ { a }$ 点、b点、 $\boldsymbol { c }$ 点、 $d$ 点的温度，并进行实验验证。实验与仿真结果对比如图6所示。
+
+# 表5修正后参数的取值
+
+Table 5 The revised parameter values   
+
+<html><body><table><tr><td>电流/A</td><td>0.9</td><td>1.5</td><td>2.1</td><td>2.7</td><td>3.3</td></tr><tr><td>A2/(W/(m.C))</td><td>1.3</td><td>1.0</td><td>1.15</td><td>1.45</td><td>1.25</td></tr><tr><td>A3/(V/°C)</td><td>-1.75E-4</td><td>-1.7E-4</td><td>-1.85E-4</td><td>-1.8E-4</td><td>-1.8E-4</td></tr><tr><td>B2/(W/(m:C))</td><td>1.32</td><td>1.4</td><td>1.29</td><td>0.9</td><td>1.0</td></tr><tr><td>B3/(V/°C)</td><td>1.2E-4</td><td>1.2E-4</td><td>1.0E-4</td><td>9E-5</td><td>9.1E-5</td></tr><tr><td>E/(W/(m·C))</td><td>2.48</td><td>2.25</td><td>2.55</td><td>2.2</td><td>1.8</td></tr><tr><td>G1/(W/(m².C))</td><td>49</td><td>41.5</td><td>33</td><td>27</td><td>26.5</td></tr><tr><td>G2/(W/(m2.C))</td><td>9.4</td><td>9.05</td><td>9.4</td><td>9.0</td><td>8.5</td></tr></table></body></html>
+
+从图6(a）可以看出，测点 $\mathbf { \Omega } _ { a }$ 的实验值随着工作电流的增大而增大，仿真值随着电流的增大而增加，且趋势基本一致。修正前仿真值整体小于实验值，电流为0.5A时，误差最小，随着电流增大而增大，电(b)c点修正前、修正后仿真计算温度值与实测温度值对比流为3.9A时，误差最大值为 $9 . 9 ~ ^ { \circ } \mathrm { C }$ 。修正后仿真值与实验值的误差整体减小，在 $3 . 9 \mathrm { ~ A ~ }$ 处最大值为4.9$^ { \circ } \mathrm { C }$ 。从图6(b）可以看出，测点 $\textit { b }$ 温度随着工作电流的增大而增大，仿真值随着电流的增大而增大，趋势一致。电流小于2.5A时，修正前的仿真值与实验值误差较小，大于2.5A时，误差较大，且随着电流增大而增大，电流为3.9A时误差达到 $1 3 ~ ^ { \circ } \mathrm { C }$ 。修正之后，电流小于3.5A时，仿真值与实验值误差小于1$^ { \circ } \mathrm { C }$ ，3.9A时，误差为 $2 . 5 ~ ^ { \circ } \mathrm { C }$ 。从图6(c)发现，电流从0A到4A变化时，测点 $\mid c \mid$ 的实验值与仿真值出现先减小后增大的情况。修正前仿真值与实验值的误差整体较大，电流从0.6A变化到3.9A时，误差从 $4 . 6 ~ ^ { \circ } \mathrm { C }$ 增大至 $2 0 . 9 ^ { \circ } \mathrm { C }$ 。修正后仿真值与实验值的误差虽现出中间大两边小的趋势，但最大误差仅为$2 . 2 \ ^ { \circ } \mathrm { C } .$ 从图6(d）可知，测点 $d$ 的实验值和仿真值变化趋势与测点C一致。修正之前误差随着电流增大而增大，在3.9A时最大误差为 $2 0 . 6 ~ ^ { \circ } \mathrm { C }$ ，修正后变为 $3 . 2 ~ ^ { \circ } \mathrm { C }$ 。
+
+![](images/72834faf000a788708c8a67773fb3eefe2fb2f888fe4e3a083f91f2cb49a42a4.jpg)  
+(a)a点修正前、修正后仿真计算温度值与实测温度值对比
+
+![](images/2ed89948fb8cf55247c8096ecd6d02b3908a814292e1656d0f1d7fb1dcf899aa.jpg)  
+(b)b点修正前、修正后仿真计算温度值与实测温度值对比
+
+![](images/947b5d49096ae9d9eafd39f09f06ed972509ddab54297a468f8b5133d62849e3.jpg)  
+电流/A
+
+![](images/5b420cd0f1a1db4ab26694152a0b1ee6364544e578c7f5d7ce9eed3915e004f3.jpg)  
+图6仿真值与实验值的对比 Fig.6 Comparison of measuring value and experimental value
+
+通过对比4个测点的仿真值与实验值误差，发现最大误差不超过 $4 . 9 ^ { \circ } \mathrm { C }$ 。在工作电流为 $0 { \sim } 4 \mathrm { ~ A ~ }$ 时，有限元模型仿真值与实验值的误差波动小，稳定性好。说明修正后的输入参数准确度较高，进而有效的证明了热电制冷器建模精度较高。
+
+# 3结论
+
+针对热电制冷器热仿真模型精度低的问题，本文开展了模型建立与修正技术的研究工作，结果显示：
+
+1）在运用Spearman相关级数对参数进行灵敏度辨识的基础上，分析得出N型材料和P型材料赛贝克系数、导热硅胶片导热系数为模型的强相关参数，而对流换热系数、N型材料和P型材料导热系数为模型的弱相关参数。其他参数相关度较低，可不作为修正参数。
+
+2）采用全局优化算法和直接搜索优化算法，并结合试验数据修正热模型，能够有效提高模型的仿真精度。
+
+3)基于修正后的热模型，对比分析了热电制冷器在工作电流为 $0 . 3 { \sim } 3 . 9$ A 范围内，模型的仿真值与实验值之间的误差。发现所有测点的最大误差不超过 $4 . 9 \ ^ { \circ } \mathrm { C }$ ，较修正前的 $2 0 . 9 ^ { \circ } \mathrm { C }$ 有明显降低，表明该热模型建立与修正方法具有较高的准确性。
+
+# 参考文献
+
+[1]Wang X D,Wang Q H,Xu JL.Performance Analysis of Two-stage TECs (Thermoelectric Coolers)UgaThredimensional Heat-electricity CoupledyModel [J].Energy, 2014,65:419-429 程热   
+[2] 朱冬生,雷俊禧，王长宏,等.电子元器件热电冷却技术研究 进展[J].微电子学，2009,391):94-99 ZHU D S,LEI JX,WANG $\widehat { \mathrm { C T } }$ ,et al.Research Progress in Electronic Component Heat Dissipation Using Thermoelectric Cooling Technology [J]．Microelectronics. 2009, 39(1): 94-99   
+[3]H.J.Goldsmid.Possibilities for Improvement in Thermoelectric Modules(TEMs)[J].IEEE Transactions on Components and Packaging Teachnologies,20o5,28(2): 218-229   
+[4] Robert A，Taylor，Gary L Solbrekken.Optimization of Thermoelectric Cooling for Microelectronics [Sl/The Tenth Intersociety Conference on Thermal and Thermomechanical Qrenon-mena in Electronics Systems,2006: 483-490   
+[5]赵付舟,王俊席,崔教林,等.汽车尾气废热回收的热电模块 布置特性研究[J].兵工学报,2013,34(5)：634-638 ZHAO F Z,WANG J X,CUI JL,et al. Study of Module Configuration Characteristics About Exhaust gas Thermoelectric Recycling in Vehicle [J].ACTA ARMAMENTRII,2013,34(5):634-638   
+[6]李运泽，魏传峰，袁领双，等.应用热电制冷器的微型航天 器主动温度控制及仿真[J].机械工程学报，2005，41(10): 149-151 LI Y Z,WEI C F YUAN L S,et al. Simulation of Micro Spacecraft Active Temperature Control System Using Thermoelectric Cooler [J]. Chinese Journal of Mechanical Engineering, 2005,41(10):149-151 [7]吕相银,杨莉,凌永顺.半导体制冷表面温度的动态特性[J]. 低温工程,2006,154(6):45-47 LV X Y,YANG L,LING Y S. Dynamic Characteristic of Thermoelectric Cooler Surface Temperature [J]. CRYOGENICS,2006,154(6): 45-47   
+[8] 杨明伟，徐文梅，唐文彦．热电制冷器的等效电路模拟与分 析[J].红外与激光工程,2007,36(2)：281-285 YANGMW,XUWM,TANGWY.Modelingand Analysis of Thermoelectric Cooler by Equivalent Circuit Method [J]. Infrared and Laser Enigineering,2007,36(2)； 281-285 [9] 吴立涛，赵巍,李晓明．热电制冷的有限元模拟[J].辽宁科 技大学学报,2012,35(5):491-494 WU L T, ZHAO W,LI X M. Finite Element Simulation of Thermoelectric Refrigeration [J]. Journal of University of Science and Technology Liaoning,2012,35(5):491-494   
+[10]唐红民，廖胜,沈忙作,等.CCD 芯片热电制冷的非稳态传 热研究[J].制冷学报,2009,30(6)：52-56 TANG H M, LIAO S, SHEN M Z, et al. Experiment ontheKUnsteady Heat Transfer Process of ThermoelectrieQooling on CCD Sensor[J]. Journal of Refrigeration, 2009,30(6): 52-56 Wang P,A Bar-Cohen, Yang B. Analytical Modeling of On-Chip Hotspot Cooling Using Silicon Thermoelectric Micro-coolers [C]//ASME International Mechanical Engineering Congress &Expositiopn, 2006:189-199   
+[12]程文龙,刘娜,李志,等.卫星热模型蒙特卡罗混合算法的修 正方法应用研究[J].科学通报,2010,55(20)：2056-2061 CHENG W L, LIU N, LI Z,et al. Application Study of a Correction Method For a Spacecraft Thermal Model with a Monte-Carlo Hybrid Algorithm [J].Chinese SciBull. 2010,55(20): 2056-2061   
+[13]殷亮,李茂德，何文莉．半导体制冷系统费稳态温度工况的 模型及实验分析[J].能源技术,2004,25(1)：5-9 YIN L, LI M D, HE W L. A Model for the Non-steadystate Temperature Behavior of Semiconductor Cooling SyStem and its Experimental Analysis [J]. ENErgy techology, 2004, 25(1): 5-9   
+[14] 施道云,杨光,张卫国,等.基于Isight/Fluent 联合仿真的热 模型修正方法研究[J].科学技术与工程,2016,16(4)：205- 209 SHI D Y, YANG G, ZHANG W G,et al. Thermal Model Modifying Based on the Combination of Isight and Fluent [J]. Science Technology and Engineering, 2016,16(14): 205-209   
+[15] A Fardi llkhchy,M. Jabbari, P.Davami.Effect of Pressure on Heat Transfer Coefficient at the Metal/mold Interface of A356 Aluminum alloy [J]. International Communications in Heat and Mass Transfer, 2012,39(5): 705-712   
+[16]范平,郑壮豪,梁广兴,等.离子束溅射制备 Bi2Te3 热电薄 膜[J].深圳大学学报理工版,2011,28(1)：84-87 Preparation of Bi2Te3 Thermoelectric thin Films by ion Beam Sputtering [J]. Journal of Shenzhen University of Science and Engineering, 2011, 28(1):84-87   
+[17]杨世铭，陶文钰.传热学[M].北京：高等教育出版社,2006 YANG S M, TAO W Q. Heat Transfer [M]. Beijing: Higher Education Press, 2006

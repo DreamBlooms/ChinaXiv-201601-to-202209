@@ -1,0 +1,496 @@
+[
+    {
+        "type": "text",
+        "text": "Monitoring the impact of climate change and human activities on grassland vegetation dynamics in the northeastern Qinghai-Tibet Plateau of China during 2000-2015 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XIONG Qinli', XIAO Yang2\\*，Marwa Waseem A HALMY, Mohammed A DAKHIL1,4.5, LIANG Pinghan6，LIU Chenggang7, ZHANG Lin1， Bikram PANDEY1,4，PAN Kaiwen1, SamehBELKAFRAWAY,CHENJun4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 CAS KeyLaboratoryofMountain Ecological Restorationand Bioresource Utilization &Ecological Restoration Biodiversity Conservation Key Laboratoryof Sichuan Province,Chengdu Instituteof Biology,Chinese Academyof Sciences,Chengdu 610041, China;   \n² College of Biologyand Environmental Sciences,Jishou University, Jishou 4160o, China;   \n3 Department ofEnvironmentalScience,FacultyofScience,Alexandria University,Alexandria 2151,Egypt;   \n4 University of Chinese Academy of Sciences,Beijing 100039, China;   \n5 Botany and Microbiology Department, Faculty of Science,Helwan University, Cairo 11790,Egypt;   \n6 Schoolof Government, SunYat-sen University, Guangzhou 510275,China;   \n7CASKeyLaboratoryof Tropical Plant Resources and Sustainable Use,Xishuangbanna Tropical Botanical Garden,Chinese Academy of Sciences,Menglun 666303,China;   \n8 National Authority for Remote Sensing and Space Sciences, Cairo 11790,Egypt ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Climate change and human activities can influence vegetation net primary productivity (NPP), a key component of natural ecosystems. The Qinghai-Tibet Plateau of China,in spite of its significant natural and cultural values,is one of the most susceptible regions to climate change and human disturbances in the world.To assess the impact of climate change and human activities on vegetation dynamics in the grassland ecosystems of the northeastern Qinghai-Tibet Plateau, we applied a time-series trend analysis to normalized difference vegetation index (NDVI) datasets from 200O to 2015 and compared these spatiotemporal variations with trends in climatic variables over the same time period. The constrained ordination approach (redundancy analysis)was used to determine which climatic variables or human-related factors mostly influenced the variation of NDVI. Furthermore,in order to determine whether current conservation measures and programs are effective in ecological protection and reconstruction，we divided the northeastern Qinghai-Tibet Plateau into two parts: the Three-River Headwater conservation area (TRH zone) in the south and the non-conservation area (NTRH zone) in the north.The results indicated an overall $( 7 3 . 3 2 \\% )$ increasing trend of vegetation NPP in grasslands throughout the study area. During the period 200O-2015, NDVI in the TRH and NTRH zones increased at the rates of $0 . 0 0 1 5 / \\mathrm { a }$ and $0 . 0 0 2 0 / \\mathrm { a }$ ,respectively. Specifically, precipitation accounted for $9 . 2 \\%$ of the total variation in NDVI, while temperature accounted for $1 3 . 4 \\%$ . In addition, variation in vegetation NPP of grasslands responded not only to long- and short-term changes in climate,as conceptualized in non-equilibrium theory, but also to the impact of human activities and their associated perturbations. The redundancy analysis successfully separated the relative contributions of climate change and human activities,of which villge population and agricultural gross domestic product were the two most important contributors to the NDVI changes, explaining $1 7 . 8 \\%$ and $1 7 . 1 \\%$ of the total variation of NDVI (with the total contribution $> 3 0 . 0 \\%$ ),respectively. The total contribution percentages of climate change and human activities to the NDVI variation were $2 7 . 5 \\%$ and $34 . 9 \\%$ ，respectively, in the northeastern Qinghai-Tibet Plateau. Finally, our study shows that the grassland restoration in the study area was enhanced by protection measures and programs in the TRH zone,which explained $7 . 6 \\%$ of the total variation in NDVI. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: climate change; human activities; NDVI variation; Qinghai-Tibet Plateau; redundancy analysis; vegetation net primary productivity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Citation: XIONGQinli, XIAO Yang,Marwa Waseem A HALMY,Mohammed A DAKHIL,LIANG Pinghan,LIUChengang, ZHANGLin,Bikram PANDEY,PAN Kaiwen,Sameh BEL KAFRAWAY,CHENJun.2019.Monitoring the impactof climate change and human activities on grassland vegetation dynamics inthenortheastern Qinghai-Tibet Plateauof China during $2 0 0 0 -$ 2015.Journal of Arid Land,11(5): 637-651.https://doi.org/10.1007/s40333-019-0061-2 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Studies have demonstrated that climate change and human activities can afect vegetation characteristics substantially (Parmesan 2006; Krishnaswamy et al., 2014). Assessments at global and regional scales have shown that the range, biomass, phenology and productivity of vegetation have allsignificantly changed (Nemani et al.,2003; Piao et al., 2005; Cleland et al., 2007). The Qinghai-Tibet Plateau in China, often referred to as the world's \"Third Pole\",extends for over $2 . 5 { \\times } 1 0 ^ { 6 } \\ \\mathrm { k m } ^ { 2 }$ and provides a unique environment for a wide variety of alpine vegetation types (Cai et al.,2015; Dakhil et al., 2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Grasslands are a common type of vegetation worldwide. They totally cover $45 . 3 \\%$ of the Qinghai-Tibet Plateau (Ni, 2Oo2).Together with shrublands, they store more than one-third of the total carbon reserves of the globe (Del Grosso et al.，2018).However, grasslands are fragile ecosystems and are very sensitive to environmental perturbations and changes, presumably because of their simple community structure conferring them a low resistance to disturbances (Piao et al., 2011a; Shen et al.,2011). More than $50 \\%$ of the grasslands in the northeastern Qinghai-Tibet Plateau sufer from environmental degradation to some extent (Nan， 2Oo5)，driven by socio-economic developments, human population growth (Kang et al.， 2Oo07), and changes in climate and land use (Zhou et al.,2O15). Grassand degradation has not only reduced the amount of local carbon sequestration, but also led to serious environmental problems,such as decreased vegetation productivity and soil quality， desertification and dust storms. In the Qinghai-Tibet Plateau, most people rely directly on livestock grazing, so the maintenance of a good quality status of grasslands is an urgent concern for developing the local economy (Zhou et al., 2Oo5; Harris, 2010).Thus,monitoring changes in the extent and condition of grassland ecosystems and understanding their causes and sensitivity to climate change are of paramount importance (Ciais et al., 2013; Gao et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Vegetation productivity provides a quantitative indicator of carbon sequestration efficiency and underpins the food chains of many living organisms (O'Mara, 2012; Xiong et al.，2016). Net primary productivity (NPP), containing aboveground net primary productivity and belowground net primary productivity, is considered a vital component of the global carbon reserve and is a reliable proxy for analyzing the changes in the functioning of natural ecosystems (Del Grosso et al., 2018). However, the patterns of changes in the grassland NPP among ecosystems at the global scale and the drivers of these variations are unclear and still debated (Millennium Ecosystem Assessment, 2005;Bai et al., 2008; Xiong et al.,2016). For example, grassland NPP is positively associated with warming in cold areas yet negatively correlated with warming in hot areas (Ciais et al., 2013; Fu et al.,2015). Generally speaking, NPP of grasslands is very sensitive to changes in the climatic variables, particularly temperature and precipitation,and to other non-climatic factors, such as fires, grazing, rising $\\mathrm { C O } _ { 2 }$ levels and nitrogen deposition (Ciais et al., 2013; Zelikova et al., 2014; Xiong et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Various approaches have been used to investigate the influences of climate change and human activities on vegetation growth. These approaches include the analyses of vegetation index data derived from remote sensing (Myneni et al.,1997; Paudel and Andersen,2010; Bégué et al.,2011; Piao et al.,2011b; Xiao et al.,2019), vegetation productivity models derived from remote sensing data (Field et al.,1995; Nemani et al.,2003; Piao et al.,2005),and so on (Zhong et al.,2010; Cong et al.,2013; Che et al., 2014). Several studies have suggested that NPP can be used effectively to evaluate the dynamics of grassland ecosystems (Melillo et al.,1993; Defries et al.,1999). However, the existed estimation models, such as the Carnegie-Ames-Stanford Approach (CASA) (Potter et al., 1993; Xiong et al., 2017),are complexity and require many parameters that are sometimes either unavailable or hard to obtain for certain research areas.Therefore, the widespread application of these models is severely limited. The normalized diference vegetation index (NDVI) is by far the most often used spectral index from remotely-sensed data for the description of vegetation biomass (Tucker et al., 2001,2005). The NDVI is strongly correlated with key vegetation parameters that include leaf area and green leaf biomass (Justice et al.,1985), since it has been used successfully for monitoring vegetation biomass in various ecological regions (Prince and Tucker, 1986; Evans and Geerken, 2O04). In sum, NDVI has repeatedly been used as a proxy for NPP because of the strong correlation between them (Paruelo et al.,1997; Jobbagy et al.,2002; Piao et al.,2011b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Researchers have suggested several methods for determining the underlying drivers (including climate, human and natural disturbances) of temporal variations in grassland vegetation dynamics based on NDVI or NPP (Evans and Geerken, 2004; Geerken and Ilaiwi, 2004; Paudel and Andersen, 2010).One approach uses the time series of residuals between the observed and predicted (precipitation-predicted) NDVI as an indicator of the non-precipitation-caused temporal variations in vegetation NPP of grassands (Geerken and Iaiwi, 2O04). The reduction in NPP due to human activities,equivalent to the difference between the potential NPP simulated by the Thornthwaite model and the actual NPP, reflects the impact of human activities on vegetation NPP (Wessels et al., 2007; Zhou et al., 2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Redundancy analysis (RDA) generally performs slightly better $( 3 4 . 7 \\%$ explained variance) than canonical correspondence analysis (CCA) $( 2 8 . 3 \\% )$ in assessing the key factors affecting vegetation dynamics (Wildi, 2017). In this study, we used NDVI as an indicator of vegetation NPP, in combination with climatic and socioeconomic parameters,to investigate the relationships among the vegetation dynamics and various controlling factors in the grasslands of northeastern Qinghai-Tibet Plateau. The main objective of our study was to assess the relative contributions of climate change and human activities on vegetation changes. We addressed the folowing three questions: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1） Does climate change have a greater influence on vegetation NPP of grasslands than human activities in the sparsely populated study area? (2) Does grazing level have a major influence on grassland vegetation dynamics? (3) Have current ecological restoration measures and programs in this region had any impacts on variations in vegetation NPP? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study area is located in the northeastern Qinghai-Tibet Plateau $( 3 1 ^ { \\circ } - 3 9 ^ { \\circ } \\mathrm { N }$ $8 9 ^ { \\circ } - 1 0 2 ^ { \\circ } \\mathrm { E }$ , China. Due to its high elevation, this region has quite cold winters,mild summers and large diurnal temperature variations. Its annual average air temperature is approximately between $- 5 ^ { \\circ } \\mathrm { C }$ and $8 ^ { \\circ } \\mathrm { C }$ Generally, the minimum and maximum temperatures occur in January (ranging from $- 1 8 ^ { \\circ } \\mathrm { C }$ to$7 ^ { \\circ } \\mathrm { C }$ ）and July (ranging from $1 5 ^ { \\circ } \\mathrm { C }$ to $2 1 ^ { \\circ } \\mathrm { C }$ ), respectively. Precipitation over the region is highly variable in space and time. It tends to decline from southeast to northwest, with a considerable proportion of the annual precipitation occurring in summer. Spring and winter are the driest seasons at the annual scale. There is a single growing season for vegetation that lasts from April to October, with peak growth occurring in July and August. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In recent years, to remediate grassland degradation in the northeastern Qinghai-Tibet Plateau, the ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chinese government has implemented several ecological protection measures and reconstruction programs, which may have greatly affected the ecological structure and functioning of grassland ecosystems in this area. Such measures and programs include the restoration of degraded grassland project, the returning grazing land to grassland project, the ecological immigration project, the natural recovery of black soil type degraded grassland in the Three River Source Region and the construction of a rodent control and protection area, amounting to an investment of about $7 . 5 { \\times } 1 0 ^ { 9 }$ CNY.To determine whether these conservation measures and programs are effective on ecological protection and reconstruction, we divided the northeastern Qinghai-Tibet Plateau into two parts: (1) the Three-River Headwater conservation area (TRH zone) in the south (Jiang and Zhang, 2016), which refers to the source regions of the Yellow River,Lancang River and Yangtze River; and (2) the non-conservation area (NTRH zone) in the north (Fig. 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6586f48cc842b7b7680b9a0925efa8fcf26b75c8977186c18b47a2fc7800d4d.jpg",
+        "img_caption": [
+            "Fig.1Zone distribution and land use/land cover map in the northeastern Qinghai-Tibet Plateau.TRH zone, Three-River Headwater conservation area; NTRH zone,non-conservation area.The black line represents the dividing line between TRH zone and NTRH zone.It should be noted that only two important mountains are marked in the figure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data collection and pre-processing ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Spectral data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A time-series NDVI dataset for the period 200O-2015 (pixel size of $2 5 0 ~ \\mathrm { m } { \\times } 2 5 0 ~ \\mathrm { m }$ ）was obtained from the Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences. We calculated NDVI values using NDVI reconstruction method based on Savitzky-Golay filtering (Petorelli et al.,2Oo5).The NDVI is a normalized ratio of red and near infrared reflectance and has been used as a proxy for terrestrial vegetation growth condition. This index is correlated to chlorophyll content, sensitive to structural variations in the plant canopy (Myneni et al.,1995; Myneni et al.，1997; Gao et al.， 2000),and closely associated with the fraction of potential photosynthesis (Nemani et al., 2Oo3) and the physiological condition of vegetation (Kaufmann et al., 2004). In this study,NDVI layers were multiplied by 0.000l (a scale factor) so that the pixel values would range from $^ { - 1 }$ to 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Climatic variables ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Monthly precipitation and temperature data of 79 weather stations in the study area for the period 2000-2015 were obtained from the Chinese National Metrological Information Center/China ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Meteorological Administration (htp://data.cma.cn). Foreach weatherstation， monthly meteorological data were interpolated to a spatial resolution of $1 \\mathrm { k m } { \\times } 1 \\ \\mathrm { k m }$ for the whole study area, by using the Kriging interpolation method which was widely used for regionalizing various variables at different scales (Piao etal.,2OO1; Zhu etal.,2006). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 Environmental variables ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the 196Os， China has experienced rapid social development and economic growth, accompanied by a growing population. For example, the population of Qinghai Province has increased threefold since the 195Os (Zhang and Cheng, 2009), thus altering many parts of this region.Because the Qinghai-Tibet Plateau contains an extensive area of grasslands that covers almost $60 \\%$ of its total area, livestock husbandry is an important industry here.From the 1978, the livestock abundance in this region has almost tripled (Du et al.，2004). Meanwhile，the simultaneous increase in population has accompanied by considerable environmental problems, such as grassland degradation (Lu et al.，2009; Niu et al., 2O09). These problems have further magnified the impact of human activities on the plateau's environment. Human-related socioeconomic data,， including village population， cattle density, sheep density， gross domestic product (GDP)，agricultural GDP, industrial GDP, service industry GDP and the extent of the conservation area, were from the statistical yearbooks and government sources (Table 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Grassland distribution in the northeastern Qinghai-Tibet Plateau was obtained from the land cover map of China (available at http://www.resdc.cn/)， which was generated and interpreted by the Chinese Academy of Sciences.The precise diachronic clasifications of grassland areas, which have been already used before as a reference for object-oriented classifications,were compared with ground-based data in this study. The result indicated that the land cover map we used had an $89 \\%$ overall accuracy. The topographic data and elevation data of the study area were extracted from the Shutle Radar Topography Mission (SRTM) digital elevation model. Table 1 lists the other sources of environmental and cartographic data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ac9ab93dd20a35391c3bd5aa8edeeaeb44f1548c626e066572d16c27160df5b.jpg",
+        "table_caption": [
+            "Table 1Sources of data used in this study "
+        ],
+        "table_footnote": [
+            "Note:NDVIaldreegetaiodex;,uttldroayisso,ataeeoldfroe Qinghai Statistical Yearbook(Qinghai Statistical Yearbook Editorial Committee,2Oo1-2016). "
+        ],
+        "table_body": "<html><body><table><tr><td>Data name</td><td>Data resolution</td><td>Data source</td></tr><tr><td>NDVI</td><td>250 m</td><td>Tthe Instute f Remote Sensigäad DigitlEat, Chinese A cademy</td></tr><tr><td>SRTM digital elevation model</td><td>90m</td><td>International Scientific Data Service Platform</td></tr><tr><td>Precipitation</td><td>79 weather stations</td><td>Chinese National Metrological Information Center/China Meteorological Administration (NMIC/CMA)</td></tr><tr><td>Land cover map</td><td>90m</td><td>Data Center for Resources and Environmental Scences, Chinese</td></tr><tr><td>Village populationa</td><td>County</td><td>Qinghai Statistical Yearbook</td></tr><tr><td>Cattle densitya</td><td>County</td><td>Qinghai Statistical Yearbook</td></tr><tr><td>Sheep densitya</td><td>County</td><td>Qinghai Statistical Yearbook</td></tr><tr><td>Socioeconomic dataa</td><td>County</td><td>Qinghai Statistical Yearbook</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data analyses ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Trend analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We used the least-squares linear regression model to detect temporal variations in NDVI, an indicator of grassand vegetation NPP, during the study period (i.e., 2000-2015). This method is commonly used to analyze the trends in similar types of data (Eklundh and Olsson,20o3; Stockli and Vidale, 2004; Gonzalez and Menenti, 2008; Beck et al., 2011). The per pixel-change trend was obtained by linearly fitting the variables of interest (NDVI or climatic variables) as a function of a time (in years): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\mathbf { a } + \\mathbf { b } \\times t + \\varepsilon ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $y$ represents either the NDVI or climatic variables; a is the intercept; b is the slope (as a proxy of the trend); $t$ is the time (years); and $\\varepsilon$ is the unexplained residual error. It is considered that grassland restoration is occurring if $ { \\mathbf { b } } { > } 0$ ，whereas grassland degradation is occurring if $\\scriptstyle \\log ( 0$ The significant difference of the slope values was tested using the $t \\cdot$ -test,with significance threshold set at $P { < } 0 . 0 5$ . Interactive Data Language (IDL) 4.8 (Harris Corporation, Melbourne,FL, USA) was used to calculate the slope and $P$ values (Xiao and Ouyang, 2019). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Correlation analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We used Pearson's correlation coefficient $( r )$ to examine the relationship between NDVI and climatic variables over time,which is expressed as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = { \\frac { \\mathrm { c o v } ( x , y ) } { { \\sqrt { \\mathrm { c o v } ( x , x ) \\mathrm { c o v } ( y , y ) } } } } = { \\frac { n { \\displaystyle \\sum _ { \\Biggl \\lambda \\geq \\lambda \\geq \\lambda \\geq \\lambda } } x { \\displaystyle \\sum _ { \\Biggl ( } } x { \\displaystyle \\sum _ { \\Biggl . } } y } { \\sqrt { ( n { \\displaystyle \\sum _ { \\lambda \\geq \\lambda \\geq \\lambda \\geq \\lambda } } x ) ^ { 2 } ) ( n { \\displaystyle \\sum _ { \\lambda \\geq \\lambda \\geq ^ { 2 } - ( } \\sum _ { \\Biggr . } } y ) ^ { 2 } ) } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "vhere $r$ is the linear correlation coefficient; cov is the covariance; $x$ is the NDVI value; $y$ is the )recipitation (mm) or temperature $( ^ { \\circ } \\mathrm { C } )$ ；and $n$ is the sample size. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Identification of the precipitation signal ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Previous studies suggest that annual maximum NDVI is strongly correlated with climatic variables (Evans and Geerken, 2004). Hence, for a proper assessment of temporal trends in vegetation NPP, we analyzed the monthly variation in grassland NDVI in addition to field observations. Annual maximum NDVI from January to December is simply considered as the highest NDVI value obtained in the grid. Usually, the vegetation NPP peaks between July and August in the study area (Hua et al., 2015). Since annual maximum NDVI is the main factor representing the growth of grasses (Ding et al., 2Oo7), it can be used to gauge grassland vegetation growth in the northeastern Qinghai-Tibet Plateau and by extension, to represent the grassland production capacity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As described by Liu et al. (2O13), we determined the correlation between precipitation amounts over different time scales and annual maximum NDVI. As the precipitation period was most strongly correlated with plant growth, we calculated the precipitation accumulation periods and lag periods until the occurrence of the absolute NDVI value from September to August of the next year (Fig. 2). For example, precipitation accumulated over a 1-month period was correlated with the July or August NDVI for that given year. All possible correlation combinations were tested, from which the strongest correlation was detected. Data processing was carried out in the IDL v4.8 interactive framework, which is a programming language used for data analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d2603ad5ab86ba48ac982ab000d6f5cf1cf5b95485cf050d4cd79e2539ffc52.jpg",
+        "img_caption": [
+            "Fig.2Pearson's correlation coefcients of July(or August)NDVI(normalized diference vegetation index) with precipitation accumulation periods and different lag periods until the occurrence of the absolute NDVI value.The $x$ -axis (lag period) shows the time periods (l-month intervals)before the NDVI peaked during the precipitation accumulation time,and the $y$ -axis (accumulation period) gives the total time period over which precipitation had accumulated. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on the results，we selected the precipitation accumulated from 1 September of the previous year to 1 August of the current year as annual precipitation and used the annual average temperature (because of the recurring pattern of low inter-annual variability) to relate climatic variables to plant growth. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.4 Statistical and multivariate analyses ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A constrained ordination approach, i.e., RDA, was applied to interpret the impact of climate change and human activities on the NDVI trend. This approach also revealed the relative contributions of different variables by assessing how each variable may have influenced the spatial patterns of NDVI.RDA, introduced by van den Wollenberg (1977), is a constrained ordination technique similar to principal component analysis (PCA). It uses sampling site scores that are constrained by linear combinations of the environmental variables used in the analysis,and is recognized as a constrained counterpart of PCA (Ter Braak and Smilauer, 2015). According to Wildi (2017), RDA performs slightly better $( 3 4 . 7 \\%$ explained variance） than CCA( $2 8 . 3 \\%$ explained variance） for assessing the key factors affecting vegetation dynamics. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, RDA was carried out in CANOCO $\\mathrm { v } 4 . 5$ (TerBraak and Smilauer, 2OO2;Leps and Smilauer， 2Oo3） on the aforementioned environmental variables as predictors (independent variables). We ranked the environmental variables according to their quantitative importance by forward selection. In the RDA calculation, the mean for the NDVI trend was considered as the dependent (response） variable while the environmental variables were regarded as independent variables. Bivariate plots graphically presented the RDA outcomes. One-way analysis of variance (ANOVA) was applied to test the significant differences of NDVI, temperature and precipitation across years,using SPSS v17.0 (SPSS Inc., 2008). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 General trends in climate and grassland vegetation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The paterns of annual variation in NDVI and climatic variables during 2Ooo-2O15 in the northeastern Qinghai-Tibet Plateau, TRH zone and NTRH zone (Figs. 3-5） revealed that at the temporal scale, the maximum NDVI occurred in 20l2. As the same pattrn was observed for precipitation in the northeastern Qinghai-Tibet Plateau, TRH zone and NTRH zone,we found a correlation between NDVI and precipitation trends over the whole study area. The highest mean correlation coefficient was obtained for the entire grassland from 1 September to 1 August of the next year. The results showed similar trends of annual NDVI, temperature and precipitation in the TRH zone and NRTH zone.Evidently, over the entire study period, the NDVI in the northeastern Qinghai-Tibet Plateau increased,and similar trends were also detected in the TRH and NTRH zones. Specifically, the NDVI increased at the rates of $0 . 0 0 1 5 / \\mathrm { a }$ and $0 . 0 0 2 0 / \\mathrm { a }$ from 2000 to 2015 in the TRH and NTRH zones, respectively (Fig. 6). Generally, the overal trends of precipitation and temperature displayed a slight increase over the 16-year study period. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Spatial patterns of NDVI variation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 7a, during the study period 2000-2015,NDVI indicated an overallincreasing trend in the grasslands of the northeastern Qinghai-Tibet Plateau, which occurred in the $7 3 . 3 2 \\%$ of the total grassland area. Grassands with the increase of NDVI was continuously distributed, mainly in the central and eastern plains of the study area. In contrast, grasslands in the northeastern and southeastern parts of the study area, which had dense human populations, showed a minor positive trend of long-term vegetation NPP. Figure 7b depicts the significance of changes in the NDVI trend over the whole study area. The areas with slight increase in NDVI generally showed insignificant change trends. Approximately $2 3 . 1 4 \\%$ of the total grassland area in the northeastern Qinghai-Tibet Plateau showed a decline in vegetation NPP. Grassands with the decrease of NDVI was patchily distributed, mainly in the eastern and southern pastures of the study area. In contrast, the high-altitude grasslands in the western part, which benefit from the efects of mist, exhibited positive or stable trends in their long-term vegetation NPP. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7414868544635775d75de04d456b27304e252ef4c289c6db2caa53e8d1e43efe.jpg",
+        "img_caption": [
+            "Fig.3 Annual variations of NDVI from 20O to 2015 in the TRH zone (a),NTRH zone (b)and northeastern Qinghai-Tibet Plateau (the whole study area; c).The dottd lines indicate regressions fited for the period $2 0 0 0 -$ 2015. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/13110de4de5ebf939c8947ea339673e5eff612c3800296796265343f95dc31e2.jpg",
+        "img_caption": [
+            "Fig.4Annual variations of air temperature from 200O to 2015 in the TRH zone (a),NTRH zone (b）and northeastern Qinghai-Tibet Plateau (the whole study area;c).The dotted lines indicate regressions fittd for the period 2000-2015. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f746d9e7894267026cc7eb7725af20a10a72a26f38f11405957eea5d59e2ecea.jpg",
+        "img_caption": [
+            "Fig.5Annual variations of precipitation from 200O to 2015 in the TRH zone (a),NTRH zone (b）and northeastern Qinghai-Tibet Plateau (the whole study area;c).Thedotted lines indicate regressions fitted for the period 2000-2015. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5113429842989812d20a7d54055c0fa98747342c166e65878243733b97362664.jpg",
+        "img_caption": [
+            "Fig.6Overal trends of NDVI(a), temperature (b)and precipitation(c)during the period 2000-2015 in the QH zone (northeastern Qinghai-Tibet Plateau),TRH zone and NTRH zone.An $F .$ -value corresponds to the $F$ -ratio from a one-way ANOVA comparing the variables among different zones.\\*\\*,significance at $P { < } 0 . 0 1$ level； \\*\\* significance at $P { < } 0 . 0 0 1$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/89e1d704dfc802f441db359e1d69cf0d4272470419f1ec6af5aa64cc73a52c85.jpg",
+        "img_caption": [
+            "Fig.7Overalltrends in increasing vegetation (net primary productivity) NPPof grasslands in the northeastern Qinghai-Tibet Plateau during the period 200-2015 as depicted by the rate of changes in NDVI (a)and the per pixel significance of changes in the NDVI trend (b) for the study period.Trends are deemed insignificant if the $P$ （20 value is higher than 0.05. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Increased grassland functioning was found in both TRH and NTRH zones,however, the former's improvement exceeded the latter's (Table 2), suggesting that the TRH zone, with lower levels of human disturbances, experienced superior vegetation recovery. In addition to the precipitation and temperature, other factors including the level of human disturbances, plant species composition and differences in plant functional types, may have also contributed to this pattern of change. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/60a1ef864e746044cd32265c87eaab08e00cc41fa4339c356dfcae8a3eae0cc9.jpg",
+        "table_caption": [
+            "Table 2 Increasing and decreasing trends in grasslands in the northeastern Qinghai-Tibet Plateau "
+        ],
+        "table_footnote": [
+            "Note:TRH zone,Three-River Headwater conservation area; NTRH zone, non-conservation area. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Trend</td><td colspan=\"2\">Northeastern Qinghai-Tibet Plateau</td><td colspan=\"2\">TRH zone</td><td colspan=\"2\">NTRH zone</td></tr><tr><td>Area (km²)</td><td>Percentage (%)</td><td>Area (km²)</td><td>Percentage (%)</td><td>Area (km²)</td><td>Percentage (%)</td></tr><tr><td>Increasing</td><td>287,610</td><td>73.32</td><td>179,225</td><td>45.69</td><td>108,385</td><td>27.63</td></tr><tr><td>Significant increasing</td><td>75,936</td><td>19.36</td><td>37,804</td><td>9.64</td><td>38,132</td><td>9.72</td></tr><tr><td>Decreasing</td><td>90,767</td><td>23.14</td><td>69,410</td><td>17.69</td><td>21,357</td><td>5.44</td></tr><tr><td> Significant decreasing</td><td>7533</td><td>1.92</td><td>4838</td><td>1.23</td><td>2695</td><td>0.69</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3 Factors contributing to the NDVI variation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the RDA, a number of factors, including conservation area, village population, cattle density, sheep density， GDP, agricultural GDP, industrial GDP, service industry GDP, precipitation and temperature, were investigated to determine their influences on the changes of NDVI trend in the northeastern Qinghai-Tibet Plateau. The results derived from the RDA suggested that precipitation accounted for $9 . 2 \\%$ of the total variation in NDVI, while temperature accounted for $1 3 . 4 \\%$ (Fig. 8a). Meanwhile, village population, agricultural GDP and conservation area accounted for $1 7 . 8 \\%$ $1 7 . 1 \\%$ and $7 . 6 \\%$ of the total variation in NDVI, respectively (Fig. 8a). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Additionally， we applied variance partitioning to reveal the contribution percentages of the variables (climatic variables,human-related factors and their shared proportion,and the residual variance） to the NDVI variation. The total contribution percentage of climatic variables to the NDVI variation was just $2 7 . 5 \\%$ (Fig.8b). The other variables representing the human-related factors in the RDA model, including GDP, villge population, cattle density, sheep density and conservation area, together explained $34 . 9 \\%$ of the total variation in NDVI. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Since its original formulation by Rouse et al. (1973), the NDVI has been used in many studies of vegetation dynamics and their responses to climate change, especially with respect to temperature and precipitation in global change studies (Potter et al.,2O08; Piao et al.,2O1la; Bao et al., 2015). Our study demonstrated a significant increase in vegetation NPP of grasslands in the northeastern Qinghai-Tibet Plateau over the 16-year study period (from 2000 to 2015). Variation in precipitation likely played a primary role in determining the trend of vegetation productivity. These findings agree with other studies (e.g.，Zemmrich et al.,2O1O). Moreover, variation in vegetation NPP is not only a response to long- and short-term precipitation changes (non-equilibrium theory),but also a response to the effects of human activities (Xiong et al., 2017). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8742904b953fe9cb4dcd12323410a301099f5712cdb22c462636b84bf9ed0f81.jpg",
+        "img_caption": [
+            "Fig.8Ordinate plot from the redundancy analysis (RDA)of vegetation change trends and their relationships with climatic variables and human-related factors (a) and variance partitioning revealed the contribution percentages of the variables(climatic variables,human-related factors and their shared proportion,and the residual variance) to the NDVI variation (b).The first and second axes explained $3 1 . 8 \\%$ and $1 8 . 3 \\%$ of the total variation in NDVI, respectively. GDP, gross domestic product. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The overall increase in annual NDVI in the NTRH zone $( 0 . 0 0 2 0 / \\mathrm { a } )$ was greater than that in the TRH zone $( 0 . 0 0 1 5 / \\mathrm { a } )$ . The correlation between NDVI and precipitation trends was found over the whole study area. However, the increase in precipitation in the TRH zone $( 4 . 6 6 ~ \\mathrm { m m / a } )$ was slightly higher than that in the NTRH zone ( $4 . 2 2 \\mathrm { m m / a }$ ； Fig. 6). This may be a consequence of the low initial value of NDVI (Fig. 3) and the rapid increase of grasslands during the period $2 0 0 0 -$ 2002 due to the implementation of the Grain for Green Project in the NTRH zone (Xiao et al., 2019). About $45 . 6 9 \\%$ of the total grassland area in the TRH zone displayed an increasing trend (with significant positive change in the $9 . 6 4 \\%$ of the total grassland area in this zone),while only about $2 7 . 6 3 \\%$ of the total grassland area in the NTRH zone showed the similar trend (with significant positive change in the $9 . 7 2 \\%$ of the total grassland area in this zone). This can be attributed to the fact that the TRH zone contains more initial grasslands than the NTRH zone. Furthermore,compared with the NTRH zone, the TRH zone also receives more administrative protection， which minimizes human disturbances and could have accelerated the vegetation recovery. Nevertheless, we still observed that in the TRH zone,grasslands with a total area of $4 8 3 8 \\mathrm { k m } ^ { 2 }$ (percentage of $1 . 2 3 \\%$ ) experienced a significant degradation (Table 2),which are likely caused by human activities. These findings are consistent with the results reported in previous studies (e.g., Cai et al., 2015; Gao et al., 2016). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Climate change is considered one of the major drivers influencing vegetation productivity (Angert et al., 2005), especially in alpine ecosystems (Xiong et al., 2016;Dakhil et al.,2019) which are known for their high sensitivity to fluctuations in climatic conditions,particularly temperature and precipitation (Zhou et al.， 2001；Qin et al.， 2014). Increasing vegetation productivity of grasslands in response to weter and warmer conditions results from the fact that wetter environment increases the water availability in soil for vegetation uptake and growth (Xiong et al., 2016). Additionally, rising temperature increases the length of growing season, promoting soil water availability by melting snow and ice and finally providing more available water for plant growth in a relative long time. This interpretation was partly confirmed by the close linear relationship found between NDVI and precipitation or temperature.However, it should be noted that the link between temperature and NDVI of grasslands is more complex than it has been suggested, so thorough investigations are still needed (Shen et al., 2O16). Our RDA results agree with recent studies which revealed that climate change, particularly the increase in temperature， has negatively afected plant growth， especially in alpine meadows in the Qinghai-Tibet Plateau (Xiong et al., 2016). The higher temperatures have enhanced permafrost thawing,which in turn inhibited the growth of plants with shallow root systems,causing the degradation of alpine meadows (Xue et al., 2009; Song et al., 2O18). Throughout the entire study area (i.e.， the northeastern Qinghai-Tibet Plateau)，the NDVI was positively correlated with precipitation while negatively correlated with temperature (Fig. 8a). The result partly agrees with the finding of Bao et al. (2O15),who conducted a study of vegetation in Mongolia and found that the positive correlation between NDVI and precipitation clearly increased from the meadow steppe type to the desert steppe type, implying that precipitation is a key factor regulating vegetation in grasslands (Piao et al.,2O06; Bao et al.,2O15). These results,at least in part, suggest that at the continental scale, the current increase in vegetation NPP observed across the study area is probably due to recent climate change. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The RDA results indicated that most of the grassland improvement was driven by precipitation and human-related factors, revealing the importance of human activities in vegetation dynamics across the study area. In the northeastern Qinghai-Tibet Plateau, human activities, including agricultural planting， intensive grazing and human-induced land cover changes from the excavation of alluvial gold, collction of medicinal herbs (e.g.， Cordyceps sinensis), fuel wood collection and uncontrolled cross-country driving,are likely to have significant impacts on vegetation NPP of alpine meadow (Harrs,2O1O; Chen et al.,2O13). These activities are closely related to the location of people and agricultural GDP. Consequently, with increases in livestock and human populations, grazing pressure intensifies,leading to a loss in sequestered carbon and an increase in ruminant methane emission from the plateau (Chen et al.,2Ol3). Continuous heavy grazing may result in severe degradation of grassland or even desertification in the northeastern Qinghai-Tibet Plateau (Wang et al., 2012; Chen et al.，2O13). The RDA results revealed that village population was the most important influencing factor on the changes in vegetation dynamics across the entire study area, followed by agricultural GDP (explaining $1 7 . 8 \\%$ and $1 7 . 1 \\%$ of the total variation in NDVI, respectively). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A national policy of ecological protection and ecological compensation has been implemented throughout the TRH zone since 2O03,with the aim of protecting degraded grasslands and maintaining the stocking rate of livestock at acceptable levels. This study revealed that the enforcement of this policy in the TRH zone could have played a positive role in grassland restoration, as it explained $7 . 6 \\%$ of the total variation in NDVI. Similar positive effects of such grassland protection policies were also reported for other similar grassland ecosystems in Inner Mongolia and Loess Plateau of China (Feng et al.,2O13; Mu et al., 2013). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The results suggested that although temperature driver exerted negative impacts, the changes in precipitation regime increased vegetation NPP of grasslands in the northeastern Qinghai-Tibet Plateau. Meanwhile,human-related factors such as village population and agricultural GDP had positive effects on changes in the vegetation NPP. Moreover, the implementation of protection measures and programs in the TRH zone may have played a positive role in grassland restoration. An NDVI-based analysis of changes in vegetation NPP is important for facilitating comparisons with the results of earlier and future studies,and could also improve similar analyses in a number of ways. The RDA performed successfully in separating the relative contributions of human activities and climate change to the NDVI variation, showing the former to be the major factor influencing the grassland vegetation dynamics in the northeastern Qinghai-Tibet Plateau. The study thus revealed the merit of using the RDA as a constrained ordination approach to assess the contribution of climate change versus that of other human-related factors on the vegetation dynamics in diferent ecosystems. However， using more sophisticated analytical modeling approaches could improve our understanding of the respective influence of driving factors on vegetation dynamics. In this respect, additional studies using process-based simulation models that explicitly take into account other human-related factors (e.g., tourism and land cover/use changes) alongside climate change would be very useful. This could improve future assessments, management planning and policy-making relevant to grassland ecosystems in China and to other similar ecosystems of arid and semi-arid lands in the world. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This research was funded by the National Key Research and Development Program of China (2O16YFC0502101), the National Natural Science Foundation of China (3170o544) and the Chinese Academy of Sciences (CAS) \"Light of West China\" Program (2016XBZG-XBQNXZ-B005). The authors thank Mr. XIONG Kaiming for his help during the preparation of the manuscript.We also appreciate the helpful comments from the anonymous reviewers and editors on this article. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Angert A,Biraud S,Bonfils C,et al. 2O05.Drier summers cancel out the $\\mathrm { C O } _ { 2 }$ uptake enhancement induced by warmer springs. PNAS,102(31): 10823-10827.   \nBai ZG,DentOssnLetaloroylobalssssmtofladdegdaoSoilUseadanagemnt,4(3):4.   \nBao G,BaoY,anjaA,etal.2l5.NDV-indicatedlong-tevegetationdyamicsinongoliaandteirsponsetolimate change at biome scale.International Journal of Climatology,35(14): 4293-4306.   \nBeck HE,McvicarTR,vanDijk AIJM,etal.2011.Global evaluationoffour AVHRR-NDVIdata sets: Intercomparisonand assessment against Landsat imagery.Remote Sensing of Environment,115(1O): 2547-2563.   \nBégueA,VintrouE,RuellndD,etal.Ol.Cana25-yartrendinSudano-Saeliavegetationdyamicsbeinterpretedtes of land use change? A remote sensing approach. Global Environmental Change,21(2): 413-420.   \nCaiH,YangX,Xu X.20l5.Human-inducedgraslanddegradation/restoration inthecentral TibetanPlateau:Theefectsof ecological protection and restoration projects. Ecological Engineering,83:112-119.   \nChe ML,ChenBZ,InnesJL,etal.2O14.Spatialand temporalvariations intheenddateof thevegetationgrowingeason throughoutthe Qinghai-Tibetan Plateau from1982 to 2011.AgriculturalandForest Meteorology,189-190(189):81-90.   \nChen H,Zhu Q,PengCH,etal.2O13.The impactsof climatechangeand humanactivitiesonbiogeochemicalcyclesonthe Qinghai-Tibetan Plateau. Global Change Biology,19(10): 294O-2955.   \nCiais P,SabieC,BalaG,tall.Crbonadotherbiogeochemicalcycles.I:tockerFQinD,PlatterGK,etal.Clmate Change 2O13:The Physical Science Basis.Contributionof Working Group Itothe Fifth Assessment Report of the Intergovernmental Panel on Climate Change.Cambridge: Cambridge University Press,465-570.   \nClelandEE,ChuineIMenzelA,etal.2Oo7.Shiftingplantphenologyinresponsetoglobalchange.TrendsinEcology&Evolution, 22(7): 357-365.   \nCongN,WangT,NanHJ,etal.2Ol3.Changesinsatelite-derivedspringvegetationgreen-updatenditslinkagetoliatein China from 1982 to 2010:a multimethod analysis. Global Change Biology,19(3): 881-891.   \nDakhilMA,XiongQL,FarahatcEA,etal.2Ol9.Pastand futureclimatic indicators fordistributionpaternsandconseration planningof temperate coniferousforestsinsouthwestern China.Ecological Indicators，107:10559，doi: 10.1016/j.ecolind.2019.105559.   \nDefriesR,FieldCB,FungI,etal.1999.Combiningsatelitedataandbiogeochemicalmodelstoestimateglobal efectsof human-induced land cover change oncarbon emissions and primary productivity. Global Biogeochemical Cycles,3(3):803- 815.   \nDel Grosso SJ,Parton WJ,DermerJD,et al.2018.Simple models topredict grassand ecosystem Cexchangeandactual evapotranspiration using NDVIand environmental variables.Agricultural and Forest Meteorology,249:1-10.   \nDingMJ,ZhangYL,LiuLS,etal.2Oo7.TherelationshipbetweenNDVIandprecipitationontheTibetanPlateau.Jouralof Geographical Sciences,17(3): 259-268.   \nDuMY,KawashimaS,YonemuraS,etal.24.MutualinfluencebetweehumanactivitiesandclimatechangeintheTibetan Plateau during recent years.Global and Planetary Change,41(3-4): 241-249.   \nEklundhL,OlssonL.2003.Vegetation indextrendsfortheAfrican Sahel9821999.GeophysicalResearchLeters,30(8):122 137.   \nEvans J,GerkenK.zu4.Discrminauonerweencmate and numan-inaucedaryandegraauonJournaioIAridEnviroments, 57(4): 535-554.   \nFeng XM,FuBJ,LuN,etal.2Ol3.Howecologicalrestorationalters cosytemservices:annalsisofarbonsequestrationin China's Loess Plateau. Scientific Reports,3: 2846,doi: 10.1038/srep02846.   \nField CB,Randerson JT,MalmstromCM.1995.Global netprimary production:combining ecologyandremote sensing.Remote Sensing of Environment,51(1): 74-88.   \nFu G,Shen ZX,SunW,etal.2015.Ameta-analysisoftheeffectsofexperimental warmingonplantphysiologyand growthonthe Tibetan Plateau. Journal of Plant Growth Regulation,34(1): 57-65.   \nGao QZ,Zhu WQ,SchwartzMW,etal.2016.Climaticchangecontrolsproductivityvariation inglobal graslands.Scientific Reports,6(1): 26958,doi: 10.1038/srep26958.   \nGao X,HueteAR,NiWG,etal.2O.Optical-biophysicalelatioshisofvegetationspectrawitoutbackgroundcontaatio. Remote Sensing of Environment,74(3): 609-620.   \nGerkenR,IlaiwiM.2O04.Assessmentofrangelanddegradationanddevelopmentofastrategyforrehabilitation.Remote Sensing of Environment, 90(4): 490-504.   \nGonzalezLoyarte M,Menenti M.2O08.Impactof rainfallanomaliesonFourierparametersofNDVItime series ofnorthwesterm Argentina. International Journal of Remote Sensing,29(4): 1125-1152.   \nHarris RB.2010.Rangeland degradationonthe Qinghai-Tibetan Plateau: areviewofthe evidenceof its magnitude and causes. Journal of Arid Environments,74(1):1-12.   \nHuaT,WangXM,CiZ,etal.20l5.Responsesofvegetationactivitytoclimate variationonthe Qinghai-TibetanPlateau(China) from 1982 to 2011.Climate Research,66(1): 65-73.   \nJiang C,Zhang L B.2016.Ecosystem change assessment inthe Thre-river headwater region, China: paterns,causes，and implications.Ecological Engineering, 93(8): 24-36.   \nJobbagyEG,SalaOE,ParueloJM.2Oo2.Patersandcontrolsofprimary production in theatagonianSteppe: aremotesensing approach. Ecology,83(2): 307-319.   \nJusticeCO,TownshendJRG,HolbenBN,etal.1985.Analysisofthephenologyof globalvegetationusing meteorological satellite data. International Journal of Remote Sensing, 6(8): 1271-1318.   \nKangL,HanXG,ZhangZB,etal.O07.Grasslandecosystems inChina: reviewofcurrentknowledgeandresearchadvancement Philosophical Transactions of the Royal Society ofLondon B: Biological Sciences,362(1482): 997-1008.   \nKaufmann RD,D'ArrigoRD,Laskowski C,etal.204.The effect of growing season and summer greennesson northern forests. Geophysical Research Letters,31(9):111-142.   \nKrishnaswamyJ,JohnR,JosephS.2O14.Consistentresponseofvegetationdyamicstocentlimatechange intropicalmoutain regions. Global Change Biology,20(1): 203-215.   \nLepSJ,SmilauerP.2oo3.Multivariate AnalysisofEcologicalData Using CANOCO.Cambridge: Cambridge UniversityPress,- 269.   \nLiuSH,YanDH,ShiXL,etall3.GrassadNrespose toatefactorsindirenvegetatioegioalatiosCina In:BianF,XieY,Cui X,etal.Geo-Informatics inResource Managementand SustainableEcosystem.Communications in Computer and Information Science.Berlin: Spinger Press,399: 370-380.   \nLu HY,ZhangJP,LiuKB,etal.O9.Earliestdomesticationofcommonmilet (anicummilice)inEastAsiextededto 10,000 yearsago.Proceedings ofthe National Academyof Sciencesofthe United Statesof America,06(18):7367-7372.   \nMelill JM,McGuireAD,KicklighterDW,etal.1993.Globalclmatechangeand terestrialnetprimaryproduction.Nature, 363(6426): 234-240.   \nMilennium Ecosystem Assessment.2Oo5.Ecosystems and Human Well-Being: Wetlands and Water Synthesis. Washington DC: World Resources Institute Press,5.   \nMuSJ,ZhouSXChenYZ,etal.2l3.Assessngtheimpactofrestoratio-ducedlandconversioadmaagementaletives on net primary productivity in Inner Mongolian grassland, China. Global and Planetary Change,108: 29-41.   \nMyneniRB,MaggionS,aquintaJ，eal.995.Opticalremotesensingofvegetation: modeling,caveats,andalgorithm.Remote Sensing of Environment,51(1): 169-188.   \nMyneniRB,KeelingCD,TuckerCJ,etal.1997.Increasedplantgrowthinthe northernhighlatitudesfrom1981to991.Nature, 386(6626): 698-702.   \nNan ZB.2Oo5.The graslandfarming systemand sustainable agricultural developmentinChina.Grassland Sience,51(1):15-19.   \nNemaniRR,KeelingCD,HasiotoH,etal.O.Climate-drivenicreases inglobalterestrialetprimaryproductionfrom1982 to 1999. Science,300(5625): 1560-1563.   \nNi J. 2002. Carbon storage in grasslands of China. Journal of Arid Environments,50(2): 205-218.   \nNiuK C,CholerP,aoBB,etal.y.elometryofreproductive bmass spose toanduseinbetanalpegads. Functional Ecology,23(2): 274-283.   \nO'Mara FP.2012.The role of grasslands in food security and climate change.Annals of Botany,110(6):1263-1270.   \nParmesan C.2Oo6.Ecologicaland evolutionaryresponses torecent climatechange.Annual ReviewofEcology,Evolution,and Systematics,37: 637-669.   \nParuelo JM,EpsteinHE,Lauenroth WK,etal.1997.ANPPestimatesfromNDVIforthecentral graslandregionoftheUnited States.Ecology,78(3): 953-958.   \nPaudel K P, Andersen P.2O10. Assessingrangeland degradationusingmultitemporalsatelite imagesandgrazingpressure surface model in Upper Mustang,Trans Himalaya, Nepal.Remote Sensing of Environment,114(8): 1845-1855.   \nPetorelli N,VikJO,MysterudA,etal.Usingthesatelite-drivedNVItosssseologicalspnses tovrotal change. Trends in Ecology & Evolution,20(9):503-510.   \nPiao SL,FangJY,GuoQH.2Ool.AplicationofCASAmodeltotheestimationofChineseterrestrialnetprimary productivity. Acta Phytoecologica Sinica,25(5): 603-608.(in Chinese)   \nPiaoSL,FangJY,ZhouLM,etal.20o5.Changes invegetation net primaryproductivityfrom1982to1999 inChina.Global Biogeochemical Cycle,19(2),doi: 10.1029/2004GB002274.   \nPiao SL,Mohammat A,Fang JY.O6.NDV-based increasein growthof temperate graslandsand itsresponses toclimate changes in China. Global Environmental Change,16(4): 340-348.   \nPiao SL,CuiMD,ChenAP,etal.2Olla.Altitudeandtemperature dependenceofchangein thespringvegetationgree-update from 1982 to 2006 in the Qinghai-Xizang Plateau.Agricultural and Forest Meteorology,151(12):1599-1608.   \nPiaoSL,WangXH,CiaisPetallb.ChngesinsatelitederivedvegetationgrowthtrndintmperateandbrealEurasiafro 1982 to 2006.Global Change Biology,17(10): 3228-3239.   \nPoter CS,RandersonJT,FieldCB,etal.993.Terestrialecosystemproductionaprocess modelbasedonglobalsatelite and surface data. Global Biogeochemical Cycles,7(4): 811-841.   \nPoter CS,Boriah S,Steinbach M,etal.20o8.Terestrial vegetation dynamicsand globalclimatecontrols.Climate Dyamics, 31(1): 67-78.   \nPrince SD,Tucker CJ.1986.Satelite remote sensing ofrangelands in Botswana II NOAAAVHRRand herbaceous vegetation. International Journal of Remote Sensing,7(11): 1555-1570.   \nQinY,YiS,RenS,etal.O14.Responsesoftyicalgrassands inasemi-aridbasinontheQinghai-betanPlateautoclimate change and disturbances.Environmental Earth Sciences,71(3): 1421-1431.   \nRouse JWJ,HasR H,SchellJA,etal.1973.Monitoringvegetation systems in the GreatPlains with ERTS.In:Third ERTS Symposium. Washington DC:NASA Special Publication Press,351: 309-317.   \nShen M G,Tang YH,Chen J,et al.2011.Influences of temperatureand precipitation before the growing seasonon spring phenology inraslandsofthecentralandeaste Qinghai-TbetanPateau.AgriculturalandForestMeteorology,151(1):171- 1722.   \nShen XJ,LiuBH,ZhouDW.2016. Using GIMMS NDVItime seriestoestimate the impacts of grassand vegetation coveron surface air temperatures in the temperate grassland region of China.Remote Sensing Letter,7(3): 229-238.   \nSongY,JinL,WangHB.2O18.VegetationchangesalongtheQinghai-TbetPlateauengineringcoidorsince2Ooiducedby climate change and human activities.Remote Sensing,10(1): 95,doi:10.3390/rs10010095.   \nSPSS Inc.2008.SPSS Statistics for Windows, Version 17.0. Chicago: SPSS Inc.   \nStockliR,VidalePL.2O04.Europeanplantphenologyandclimate asseen ina2O-year AVHRRland-surface parameterdataset. International Journal of Remote Sensing,25(17): 3303-3330.   \nTer Braak CJF,Smilauer P.2002.CANOCO reference manual and CanoDraw for Windows user's guide: software forcanonical community ordination (version 4.5).Ithaca NY: Mathematical and Statistical Methods - Biometris PRI Biometris.   \nTer Braak CJF,SmlauerP.2015.Topics in constrained andunconstrained ordination.PlantEcology,216(5): 683-696.   \nTucker CJ,Slayback DA,Pinzon JE,etal.20o1.Highernorthern latitudenormalized diference vegetationidex andgrowing season trends from 1982 to 1999.International Journal of Biometeorology,45(4):184-190.   \nTucker CJ,Pinzon JE,Brown ME,etal.O05.An extended AVHRR8-km NDVIdatasetcompatible withand SPOTvegetation NDVI data.International Journal of Remote Sensing,26(20): 4485-4498.   \nvandenWollenbergAL.1977.Redundancyanalysisanalternativeforcanoicalcorelationanalysis.Psychometrika4(2):20- 219.   \nWang SP,DuanJC,Xu GB,etal.2O12.Efectsof warming and grazing onsoilNavailability,speciescomposition,andAPPin an alpine meadow. Ecology,93(11): 2365-2376.   \nWesselsKJ,PrinceSD,MalerbeJ,etal.Oo7.Canuman-inducedlanddegradationbedistingushedfromtheeffectsofal variability?A case study in South Africa.Journal of Arid Environments,68(2): 271-297.   \nWildi O.2O17.Data Analysis in Vegetation Ecology. Oxford: Wiley-Blackwell Press,1-211.   \nXiao Y,Ouyang ZY2019.Spatial-temporalpatersanddrivingforcesofwaterretentionserviceinChina.Chinese Geographical Science,29(1):100-111.   \nXiao Y,XiongQL,PanKW,20l9.Whatisleftforour nextgeneration?Integrating ecosystemservicesintoregional policy planning in the Three Gorges Reservoir Area of China.Sustainability,11(1):3,doi:10.3390/sul1010003.   \nXiong QL,Pan KW,ZhangL,et al.2O16.Warming andnitrogen depositionare interactive inshaping surface soil microbial communities nearthe alpinetimberline zoneon theeastem Qinghai-Tibet Plateau,southwestern China.Applied Soil Ecology, 101: 72-83.   \nXiong QL,XiaoY,OuyangZY,etal.20l7.Brightside?TheimpactsofTree GorgesReservironlocalecologicalseiceofsoil conservation in southwestern China.Environmental Earth Sciences,76:323,doi:10.10O7/s12665-017-6588-7.   \nXueX,GuoJ,HanBS,etal.O9.TheeectofclimatewarmingandpermafrostthawondesertificationintheQinghi-ibetan Plateau. Geomorphology,108(3-4):182-190.   \nZelikova TJ,Blumenthal D M,Williams DG,et al.2014.Long-term exposure to elevated $\\mathrm { C O } _ { 2 }$ enhances plant community stability bysuppressingdominant plant species inamixed-grass prairie.Proceedingsofthe National AcademyofSciencesof the United States of America,111(43): 15456-15461.   \nZemmrich A,MantheyM,ZerbeS,etal.2ol0.Driving environmentalfactorsandtheroleof grazing ingraslandcommuities:a comparative study along an altitudinal gradientin Western Mongolia.Journal of Arid Environments,74(1O):1271-1280.   \nZhang XP,Cheng XM.20o9.Energyconsumption,carbonemisions,andeconomic growthin China.Ecological Economics, 68(10): 2706-2712.   \nZhongL,MaYM,SalamaMS,etalol.Asessmentofvegetationdamicsandtheiresponse tovarationsiprecipiationnd temperature in the Tibetan Plateau. Climatic Change,103(3-4):519-535.   \nZhouHK,ZhaoXQ,TangYH,etal.2Oo5.AlpiegrassanddegradationanditsontrolinthesouceregiooftheYangtzend Yellow Rivers,China. Grassland Science,51(3):191-203.   \nZhouL,TuckerC,KaufmanRK,etalo1.Variatios innrthvgetationactivityiferedfromsatellteataofeation index during 1981 to 1999.Journal of Geophysical Research: Atmospheres,106(D17): 20069-20083.   \nZhou S,HuangYF,YuBF,etal.2Ol5.Efectsofhumanactivitiesontheeco-environmentinthemiddleHeiheRiverBasinbased on an extended environmental Kuznets curve model. Ecological Engineering,76:14-26.   \nZhu W Q,PanYZ,He H,etal.2Oo6.Simulationof maximumlightuseeficiencyforsome typical vegetationtypes inChina. Chinese Science Bulletin,51(4): 457-463. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

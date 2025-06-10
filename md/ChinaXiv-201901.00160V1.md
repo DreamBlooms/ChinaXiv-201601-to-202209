@@ -1,0 +1,290 @@
+# 基于粒子群算法的WSN覆盖优化
+
+郭超，杨宇轩，胡荣磊，肖超恩，王建新，徐凤麟(北京电子科技学院 电子与通信工程系，北京 100070)
+
+摘要：粒子群网络覆盖算法因参数少、计算速度快、算法较容易等优势被广泛应用，却仍存在着收敛速度慢、容易陷入局部最优值导致“早熟”等缺陷。为了提高无线传感器网络性能，针对节点的分布与覆盖方案进行了研究，将拟物力算法中的拟万有引力和拟库仑力与粒子群算法相结合，提出了一种基于惯性权重的拟物粒子群算法。增强了算法全局搜索能力，更快的收敛至全局最优解，减少算法时耗和重复覆盖。仿真结果证明新的算法比基本粒子群和基于惯性权重的标准粒子群算法的全局收敛速度更快，覆盖率更高，重复覆盖的比率更低。
+
+关键词：无线传感器网络；粒子群算法；拟物算法；节点覆盖 中图分类号：TN915.06 doi: 10.19734/j.issn.1001-3695.2018.10.0767
+
+WSN coverage optimization based on particle swarm optimization
+
+Guo Chao, Yang Yuxuan, Hu Ronglei, Xiao Chaoen, Wang Jianxin, Xu Fenglin (Dept.ofElectronics&CommunicationEngineering,BeijingElectronic Science&Technology Institute,Beijing10000, China)
+
+Abstract: Atpresent,particleswarm optimizationcoverage algorithmhasbeen widelyapplieddue to itsadvantages such as fewer parameters;fastercomputation speed and easier algorithm.However,there are stillsome defects,for example the slow convergence speedand faling into the local optimal value easily,causes "premature".Inorder to improve the performance of wireless sensor network,the distribution of nodes and coverage scheme was studied.A Quasi-physical particleswarm optimization algorithm based on inertiaweight was proposed.The quasi-gravitational forceand quasi-coulomb force inthe Quasi-physical force algorithm were combined with the particle swarm optimization algorithm. It enhances theglobal search ability,converges totheglobaloptimal solution faster,andreduces theconsumptionand repeated covering.The simulationresults prove thatthe faster global convergences,highercoverage,lower rateof repeat coverage are achieved than the basic particle swarm optimization and standard particle swarm optimization particle swarm optimization hm based on inertia weight.
+
+Key words: WSN; particle swarm optimization; pseudo-object algorithm; node coverage
+
+# 0 引言
+
+无线传感器网络是一种由分布式传感器组成，面向多节点，多任务的无线自组织网络[1]。无线传感器网络优化覆盖的目标是实现指定区域内的无间隙完全覆盖[2]。在多数情况下，待测区域的物理环境相对较差，难以通过手动方式实施确定性部署。因此，只有动态节点才能满足测试区域的复杂环境要求。然而动态节点部署方式的随机性较大，无法保证目标区域全覆盖，难以达到预期的覆盖质量。利用粒子群算法可以提高动态网络的覆盖率[3]。但其仍存在容易早熟或出现重复覆盖陷入局部最优等问题[4]。本文在基于粒子群算法的网络覆盖模型中，引入拟物算法，提出基于拟物优化的粒子群覆盖算法。
+
+# 1基本粒子群算法和惯性粒子群算法
+
+# 1.1基本粒子群算法
+
+粒子群 算法[5](particle swarm optimization，PSO)由
+
+Kennedy和Eberhart提出，与计算方法中的遗传算法[6]（geneticalgorithm，GA）类似，不同之处在于粒子群算法不使用遗传计算中如杂交和变异等因子，而是模拟牛群、鸟群、鱼群或其他生物群体行为进行搜索[7]。粒子群算法具有概念简单，控制参数少，实现简单，并行性好等优点[8]。
+
+粒子群算法和其他进化算法类似，也采用“群体”和“进化”的概念，通过个体间的协作与竞争，实现复杂空间中最优解的搜索[9]。粒子群算法先生成初始种群，即在可行解空间中随机初始化一群粒子，每个粒子都为优化问题的一个可行解，并由目标函数为之确定一个适应值。粒子群区别于其他进化算法，不对个体使用进化算子，而是将每个个体看做是 $n$ 维搜索空间中的一个没有体积和重量的粒子，每个粒子将在解空间中运动，并由一个速度决定其方向和距离。粒子追随当前的最优粒子而运动，并经逐代搜索最后得到最优解。在每一代中，粒子将跟踪两个极值，一为粒子本身迄今找到的最优解 $p _ { b e s t }$ ，另一为全种群迄今找到的最优解 $g _ { b e s t }$ 。由于认识到粒子群算法在函数优化等领域所蕴涵的广阔的应用前景
+
+收稿日期：2018-10-25；修回日期:2018-12-19 基金项目：国家重点研发计划资助项目(2018YFB1004101);国家自然科学基金资助项目 (61701008)中央高校基本科研业务费资助项目(328201801)
+
+作者简介：郭超（1987-)，女（通信作者），江西九江人，讲师，博士，主要研究方向为空间信息网络（guo9chao@163.com)；杨宇轩（1996-），男，北京人，本科生，主要研究方向为网络覆盖；胡荣磊（197-），河北景县人，副研究员，博士，主要研究方向为无线网络安全；肖超恩（1982-），男，湖南常德人，讲师，博士，主要研究方向为嵌入式系统；王建新（1977-），男，河北唐山人，副教授，博士，主要研究方向为信息安全；徐凤麟（1977-)，男，山东高密人，工程师，主要研究方向为网络安全.
+
+在Kenned和Eberhart之后很多学者都进行了这方面的研究。目前已提出了多种粒子群改进算法，并广泛应用到许多领域[10]。
+
+粒子群算法用以下公式对粒子进行速度和位置的迭代：
+
+$$
+\nu _ { i j } \left( n + 1 \right) = \nu _ { i j } \left( n \right) + c _ { 1 } r _ { 1 } \left( P _ { i j } - x _ { i j } \right) + c _ { 2 } r _ { 2 } \left( P _ { g j } - x _ { i j } \right)
+$$
+
+$$
+x _ { i j } \left( n + 1 \right) = x _ { i j } \left( n \right) + \nu _ { i j } \left( n + 1 \right)
+$$
+
+其中： $\nu _ { i j } \left( n \right)$ 为粒子先前的速度，它具有发展自身的趋势，能够扩大搜索空间，并探索新的搜索领域。这为算法提供了全局优化能力，但它会影响算法迭代后期的局部精细搜索；$c _ { 1 } r _ { 1 } \big ( P _ { i j } - x _ { i j } \big )$ 为粒子的认知部分，表示每一次迭代之后对自身的认知，即向自身的学习能力； $c _ { 2 } r _ { 2 } \left( P _ { g j } - x _ { i j } \right)$ 表示粒子的社会部分，表现了粒子之间的信息共享，即向整个种群学习的能力。这三部分共同决定了可行空间中粒子的搜索能力。他们的具体功能如下：第一部分用于平衡全局和局部搜索能力；第二部分使粒子具有较强的局部搜索能力；第三部分代表粒子间的信息交互。公式(1)中粒子通过第 $\mathbf { k }$ 次的速度和认知对自身的速度进行更新迭代，并通过公式(2)控制粒子到达新的位置
+
+粒子群算法流程步骤如下：
+
+a)初始化算法中的参数，在范围内随机产生各个粒子的  
+位置 $x _ { i d }$ ，并随机生成粒子的初始速度 $\nu _ { i d }$ 。b）计算迭代后各个粒子的适应度值 $F _ { n }$ 。c）对区域中的粒子，将适应度值 $F _ { n }$ 和个体最佳位置 $p _ { i d }$   
+进行比较，若 $F _ { n } > p _ { i d }$ ，则将 $F _ { n }$ 赋给 $p _ { i d }$ 。d）对区域中的种群，将适应度值 $F _ { n }$ 和全局最佳位置 $p _ { g d }$   
+进行比较，若 $F _ { n } > p _ { g d }$ ，则将 $F _ { n }$ 赋给 $p _ { g d }$ 。e）根据公式更新粒子的速度和位置。f）满足终止条件即输出结果，否则重复第 $\mathbf { b } ) { \sim } \mathbf { e } )$ 步。
+
+# 1.2惯性粒子群算法
+
+粒子群算法经常使用的两个概念：第一个是探索，探索意味着粒子在一定程度上离开原始搜索轨迹，寻找一个新的方向，这反映了发展到未知区域的能力，类似于全局搜索；第二个是开发，开发是指粒子继续在一定程度上对原始搜索轨迹进行更详细的搜索，主要是指进一步搜索勘探过程中搜索的区域，类似于局部搜索。
+
+种群在探索和开发中寻找最佳解决方案。如何控制这两个搜索过程将直接影响粒子群算法的效率。为了更好地控制这两种搜索，Shi 等人[1]引入基于原始粒子群算法的惯性权重，提出了惯性权重的粒子群算法。其速度更新公式如下：
+
+$$
+\nu _ { i j } \left( n + 1 \right) = w \nu _ { i j } \left( n \right) + c _ { 1 } r _ { 1 } \left( P _ { i j } - x _ { i j } \right) + c _ { 2 } r _ { 2 } \left( P _ { g j } - x _ { i j } \right)
+$$
+
+从上式可以看出，惯性权重描述了粒子惯性对速度的影响，可以根据粒子群优化算法的全局搜索能力和局部搜索能力进行调整。惯性权重 $w$ 值越大，全局搜索能力越强，局部搜索能力越弱。相反 $w$ 值变小时，本地搜索能力得到增强。惯性权重值是一个常数值，当 $w \in \left[ 0 . 9 , 1 . 2 \right]$ 时，该算法具有更好的搜索性能。此外，惯性权重可以在搜索过程中动态调整：在算法开始时，惯性权重可以给出更大的正值，随着搜索的进行，惯性权重可以逐渐线性减小。这确保算法开始阶段，每个粒子可以更快的在全局范围内检测到更好的区域；在搜索的后期阶段，较小的权重值可确保粒子可以在极端点周围进行精细搜索，从而使算法对全局最优解位置有更大的收敛概率。目前更多使用的是动态线性权重值，表达式如下：
+
+$$
+\mathrm { w } = w _ { m a x } - \frac { \left( w _ { m a x } - w _ { m i n } \right) \times t } { T _ { m a x } }
+$$
+
+其中: $T _ { m a x }$ 表示最大迭代次数， $w _ { m a x }$ 表示最大惯性权重， $w _ { m i n }$ 表示最小权重， $t$ 表示当前迭代次数，在大部分情况下取
+
+$w _ { m a x } = 0 . 9 , \quad w _ { m i n } = 0 . 4$ 。
+
+若 $w { = } 0$ 时，粒子的速度将取决于 $p _ { b e s t }$ 和 $g _ { b e s t }$ ，在迭代时，已经处于全局最优位置的粒子就将保持静止，其他的粒子将向 $p _ { b e s t }$ 和 $g _ { b e s t }$ 的加权方向飞行。在这种情况下，一旦种群收敛到 $g _ { b e s t }$ 的位置时，算法将处于局部收敛的状态。
+
+若 $w { \neq } 0$ 时，当前粒子移动的方向和速度受上一状态的方向和速度的影响，具有了扩大搜索空间和探索新区域的能力，通过对 $w$ 的调整，即可实现制衡全局与局部搜索的能力。
+
+# 2 基于拟物优化的粒子群算法
+
+# 2.1拟物算法概述
+
+拟物算法最早由黄文奇[12]提出，并用以高效解决某些多项式复杂程度非确定性问题，是一种从大自然中得以启发的优化算法。本章主要结合拟物算法，提出了基于拟物算法的粒子群优化算法，通过拟物力改进粒子的速度更新过程，使得粒子改变方向，加快收敛，并合理的调节粒子间的距离，从而减少覆盖。与基本粒子群算法相比，基于拟物力导向的粒子群算法全局搜索能力更强，可以更快的收敛到全局最优状态，降低算法耗时和重复覆盖。
+
+# 1）拟万有引力模型[13]
+
+假设一个平面处于水平位置并且绝对平滑，将有限数量的点想象成单位质量固定在该平面中的质量粒子。将每个圆盘视为绝对平滑，单位质量并且围绕圆周均匀分布在圆周上。
+
+如果这些圆盘随机放置在这个光滑的平面上，由于质点和圆盘之间的万有引力，每个质点吸引圆盘覆盖自身，从而解决覆盖问题。
+
+但是，为了解决圆盘有限情况下的覆盖问题，本文应该节约圆盘的使用数量。策略是通过通知每个质点，如果它已经被覆盖即已经满足了覆盖要求，就不再吸引任何圆盘来掩盖自己，以便为其他质点提供机会和资源。这种策略的精神与现代数学逻辑递归理论中有限损害优先方法一致。同时也具有一定的物理背景，也就是屏蔽现象。
+
+根据万有引力定理，在忽略了一些纯粹力学的细节并将其整合后，可以得到由质点和圆盘组成的简单系统的引力势函数为
+
+$$
+{ \mathbf u } = \left\{ \begin{array} { l l } { \displaystyle \frac { 1 } { R } - \frac { 1 } { r } , } & { r \geq R ; } \\ { \quad \quad \ 0 , } & { r < R . } \end{array} \right.
+$$
+
+其中： $R$ 是圆盘半径， $\boldsymbol { r }$ 是质点到圆盘中心的距离。
+
+现在考虑一个由 $M$ 粒子和 $m$ 个圆盘组成的系统，势能函数的表达式为
+
+$$
+\mathbf { U } = \sum _ { i } \sum _ { j = 1 } ^ { m } u _ { i j }
+$$
+
+其中： $u _ { i j }$ 表示第 $i$ 个质点与第 $j$ 个圆盘构成的整体的势能，同时该式表示对质点的求和只计入未被覆盖的质点，不再计算已经被覆盖的质点。
+
+由上式可知，势能U无论在任何情况之下都是非负数，并且在U>0时，表示各个圆盘的位置不满足覆盖各个质点的条件；在 $\scriptstyle { \mathrm { U = 0 } }$ 时，表示圆盘的位置已经满足覆盖各个质点的要求。在这种情况下，符合U=0的状态即为状态空间中的可行点。
+
+定义U为状态空间的导向函数，并在算法计算后对其加以修正，即可得到在状态空间中的可行点，这个可行点所包含的数组即为圆盘的放置位置。
+
+但在实际应用中，会出现经过长时间计算仍算不出可行点的情况，这表示这个问题可能本身是无解的，亦或是由于以下问题共同存在导致该算法失灵：a)圆盘的个数不充足，因总体面积不足导致无法进行覆盖所有质点；b)质点过多且分布的过于广泛，使有限的圆盘无法有效覆盖；c点的分布呈线性绵延不断，导致每个圆盘仅能覆盖很少的质点，造成浪费。
+
+这其中存在着两个主要矛盾，影响着拟物算法在覆盖问题中的使用：第一个是为什么圆盘之间不会存在万有引力；第二个是同一平面空间中各个圆盘为什么可以相互交叠嵌入而没有任何的阻力与妨碍，这本身与实体物体的不可入性相违背。这也给覆盖问题的拟物算法增添了很多的困难。
+
+实际上，自然界中存在着很多的示例，物质自身与同类之间的作用力非常小，但与其他物质可产生较大的作用力，例如铁和磁铁的相互作用就是如此，那本文也就可以假定质点和圆盘分别是使用这两种物质组成，解决了第一个矛盾。
+
+关于第二个矛盾，可以用一个看似牵强的想法予以解释，即将最初的平面进行拉伸，拓展为无数个间隔非常小的平行平面，所有的质点都镶嵌在其中一个平面上，其他的圆盘分别分布在不同的平面中，在这样的假设下，圆盘的运动就不会产生任何相互影响，而人们所看到的也正是所有平面投影在同一平面所产生的影响，这也正是圆盘可以在质点的影响下相互交叠嵌入进行运动所产生的画面。
+
+解决了以上问题，可以确定拟物算法可以在覆盖问题中得以正常的使用。根据以上思路，本文将探索区域无限均匀细分成为 $\mathbf { m } * \mathbf { n }$ 个像素点，并将每个像素点看做一个质点，这样可以认为这个区域有 $\mathrm { m } * \mathrm { n }$ 个质点构成。将每一个传感器节点看做为一个规则的半径为 $r$ 的圆盘。假设每一个未被覆盖到的质点对一定范围内的圆盘产生万有引力，已经被覆盖的质点则不产生任何的引力。故可得到“拟万有引力”表达式如下：
+
+$$
+f _ { j k } = \left\{ \begin{array} { c } { { r _ { j } ^ { 2 } } } \\ { { d _ { j k } ^ { 2 } } } \\ { { 0 , e l s e } } \end{array} \right. 
+$$
+
+其中： $\boldsymbol { d } _ { j k }$ 表示圆盘及质点之间的距离， $r _ { j } ^ { 2 }$ 代表了圆盘的质量，$R _ { i } > d _ { j k } > r _ { i }$ 限制了只有未被覆盖且相距较近的圆盘和质点才能够产生引力。
+
+# 2）拟库仑力模型[14]
+
+同理，假设一个平面处于水平位置并且绝对平滑，将有限数量的点想象成单位质量固定在该平面中的质量粒子，有限个绝对平滑的圆盘均匀的散落在整个平面上。
+
+如果这些圆盘随机放置在这个光滑的平面上，由于圆盘与圆盘之间的库仑斥力，每个圆盘排斥距离自身过近的其他圆盘，从而解决重复覆盖问题。
+
+假设所有的质点均已被圆盘覆盖，需要控制圆盘的交叠覆盖情况，尽量降低重复覆盖率。策略是通过通知每个圆盘，如果当平面的所有粒子都被覆盖后，就开始排斥距离自己过近的其他圆盘，以便减少交叠部分。
+
+根据库仑力定理，在忽略了一些纯粹力学的细节并将其整合后，可以得到由圆盘间的简单系统的斥力势函数为
+
+$$
+u = \left\{ { \begin{array} { l l } { \displaystyle { \frac { 1 } { r } } - { \frac { 1 } { R } } } & { R \geq r } \\ { \quad 0 } & { R < r } \end{array} } \right.
+$$
+
+其中： $R$ 是圆盘半径， $\boldsymbol { r }$ 是两个圆盘圆心之间的距离。
+
+考虑一个已经满足覆盖的多圆盘系统，势能函数的表达式为
+
+$$
+\mathbf { U } = \sum _ { i } \sum _ { i = 1 } ^ { m } u
+$$
+
+其中：“表示圆盘与圆盘构成的整体的势能，同时该式表示只在满足覆盖条件下生效，在未完全覆盖时无效。
+
+由上式可知，势能U无论在任何情况之下都是非负数，并且在U>0时，表示各个圆盘的相对距离存在过近的情况，但在原则上U越小重复覆盖情况越少；在U=0时，表示各个圆盘之间已经没有重复覆盖的情况，但一般在实际情况中不会出现 $\scriptstyle { \mathrm { U = 0 } }$ 的情况。因此，只需让U尽可能趋近于0即可。
+
+根据以上思路，拟定拟库仑力是一种斥力，优先级远远低于拟万有引力，只有在所有质点均被覆盖，即不存在拟万有引力时生效，此时拟库仑力将成为控制圆盘移动的主导力量。拟库仑力通过排斥相距过于接近的两个圆盘从而达到使圆盘覆盖更加均匀，减少不必要的重复覆盖的效果。故“拟库仑力”表达式如下：
+
+$$
+f _ { i j } = \left\{ \frac { 0 , e l s e } { d _ { i j } ^ { 2 } } , d _ { i j } < R \right.
+$$
+
+其中： $r _ { i } ^ { 2 }$ 和 $r _ { j } ^ { 2 }$ 分别表示两个圆盘的质量， $d _ { i j } ^ { 2 }$ 表示两个圆盘圆心的距离， $d _ { i j } < R$ 限制了拟库仑力的控制范围。
+
+在传感器网络中对节点覆盖问题引用拟物力的理论，利用万有引力和库仑力实现节点的靠近和远离，可以在基本粒子群算法的框架下，优化种群中节点的位置分布，从而使传感器节点能够更加有效的实现对目标区域的高效覆盖。无线传感器网络中节点间需要进行数据的接收、存储和转发，孤立的节点没有意义，而密集节点又会造成网络资源的浪费，因此利用拟物力理论可以比较契合的优化节点的距离。
+
+# 2.2拟物优化粒子群算法的覆盖优化方案设计
+
+本文结合拟物力算法和粒子群算法，提出基于拟物力导向的粒子群算法。在粒子群算法中，粒子的收敛速度在一定程度上收到初始化的位置及速度的影响，尤其是在粒子数相对较少的时候更为明显。为了加快粒子群的收敛速度，指导粒子快速收敛，基于拟物力导向策略在粒子速度的迭代中加入拟物力的影响，其速度表达式更新如下：
+
+$$
+\nu _ { i j } \left( n + 1 \right) = \nu _ { i j } \left( n \right) + c _ { 1 } r _ { 1 } \left( P _ { i j } - x _ { i j } \right) + c _ { 2 } r _ { 2 } \left( P _ { g j } - x _ { i j } \right)
+$$
+
+$$
++ c _ { 3 } r _ { 3 } g 1 _ { i j } \left( n \right) + c _ { 4 } r _ { 4 } g 2 _ { i j } \left( n \right)
+$$
+
+其中： $w$ ， $c _ { 1 }$ ， $\boldsymbol { c } _ { 2 }$ ， $r _ { 1 }$ ， $r _ { 2 }$ ，均与式（3）相同； $\boldsymbol { c } _ { 3 }$ 为拟万有引力加速系数， $c _ { 4 }$ 为拟库仑力加速系数， $r _ { 3 }$ ， $r _ { 4 }$ 均为0-1间的随机数。
+
+$g 1 _ { i j } \left( n \right)$ 代表拟万有引力的合力，先计算每个传感器对某一质点的万有引力函数值，后将各个质点的万有引力函数值做和，如下所示：
+
+$$
+g 1 _ { i j } ( { \boldsymbol { \mathbf { n } } } ) { = } \sum _ { k } { \frac { r _ { j } ^ { 2 } } { d _ { j k } ^ { 2 } } }
+$$
+
+$g 2 _ { i j } \left( \mathfrak { n } \right)$ 表示拟库仑力的合力，先计算各个节点对其余个传感器节点的库仑力函数值，后计算该节点与其他节点的库仑力函数值总和。其优先级低于拟万有引力，如下所示：
+
+$$
+g 2 _ { i j } ( \mathrm { n } ) { = } \sum _ { j } { \frac { r _ { i } ^ { 2 } r _ { j } ^ { 2 } } { d _ { i j } ^ { 2 } } }
+$$
+
+在基本粒子群算法中引入了拟万有引力和拟库仑力，可以减少重复覆盖，加快收敛速度，基本流程如图1所示。
+
+算法及步骤如下：
+
+a）初始化算法中的参数，在范围内随机产生各个粒子的位置 $x _ { i d }$ ，并随机生成粒子的初始速度 $\nu _ { i d }$ ，并计算原覆盖率。b)按基本粒子群算法的步骤更新粒子的速度与位置，并再次计算覆盖率。c）若更新后的粒子位置覆盖率由于历史个体最优位置，则将历史个体最优位置设置为当前的覆盖率。
+
+d）根据各个粒子的个体最优位置找到全局最优位置。
+
+e）判断是否完全覆盖区域，若已覆盖则拟一次库仑力，若未完全覆盖则拟一次万有引力。
+
+f）满足终止条件即输出结果，否则重复步骤 b)\~e)。
+
+![](images/b8dd9fb1d2662e81aaef2b1cf482f5245b6edee959767709fd7ff565958f984a.jpg)  
+图1基于拟物粒子群算法流程图
+
+# 2.3基于惯性权重的拟物粒子群算法设计
+
+根据基本粒子群算法的发展，在基于拟物算法的粒子群算法的基础上，使之与惯性权重相结合，进一步完善速度更新公式如下：
+
+$$
+\begin{array} { c } { { \nu _ { i j } \left( { \bf n + 1 } \right) = { \bf w } \nu _ { i j } \left( n \right) + c _ { 1 } r _ { 1 } \left( P _ { i j } - x _ { i j } \right) + c _ { 2 } r _ { 2 } \left( P _ { g j } - x _ { i j } \right) } } \\ { { + c _ { 3 } r _ { 3 } g { \bf l } _ { i j } \left( { \bf n } \right) + c _ { 4 } r _ { 4 } g 2 _ { i j } \left( { \bf n } \right) } } \end{array}
+$$
+
+通过上式，将惯性权重引入到带有拟物算法的粒子群算法中，附加粒子惯性对速度的影响，可以在原有的加速寻优和减少覆盖的同时及时调整粒子的全局搜索能力和局部搜索能力。根据后文仿真结果所示， $w$ 值较大，全局寻优能力强，局部寻优能力弱，反之，则局部寻优能力增强。惯性权重值是一个常数值。此外，惯性权重可以在搜索过程中动态调整：在算法开始时，惯性权重可以给出更大的正值，随着搜索的进行，惯性权重可以逐渐线性减小。这确保算法开始阶段，每个粒子可以更快的在全局范围内检测到更好的区域；在搜索的后期阶段，较小的权重值可确保粒子可以在极端点周围进行精细搜索，从而使算法对全局最优解位置有更大的收敛概率。表达式如下：
+
+$$
+\mathbf { W } = w _ { m a x } - \frac { \left( w _ { m a x } - w _ { m i n } \right) \times t } { T _ { m a x } }
+$$
+
+其中: $T _ { m a x }$ 表示最大迭代次数， $w _ { m a x }$ 表示最大惯性权重， $w _ { m i n }$ 表示最小权重， $t$ 表示当前迭代次数，因为在拟物力的辅助作用下收敛速度会有所加快，为了减小惯性权重对收敛产生干扰，要对数据进行压缩，在大部分情况下取 $w _ { m a x } = 0 . 7$ ， $w _ { m i n } = 0 . 3$
+
+# 3 仿真结果验证
+
+# 3.1仿真环境设置
+
+本文采用MATLAB作为仿真工具对改进算法进行了仿真，对其性能进行了测试，并与基本粒子群算法进行了比较。为了准确测试和改进混合算法的性能，并确保比较算法的条件的公平性，在模拟各种算法时设置一致的参数。在算法覆盖范围的仿真和比较中，每个算法运行10次以获得平均值以反映其覆盖性能。其仿真参数如表1所示。
+
+表1仿真参数  
+Table1Simulation parameters   
+
+<html><body><table><tr><td>参数</td><td>取值</td></tr><tr><td>种群数量（pop）</td><td>30（个）</td></tr><tr><td>迭代次数（maxgen）</td><td>1000（次）</td></tr><tr><td>个体学习因子(ci)</td><td>2.0</td></tr><tr><td>社会学习因子（c）</td><td>2.0</td></tr><tr><td>区域面积</td><td>100*100（平方米）</td></tr><tr><td>传感器节点的感知半径（r）</td><td>12 (米)</td></tr><tr><td>粒子迭代最大速度（Vmax）</td><td>20(米/秒)</td></tr></table></body></html>
+
+# 3.2仿真结果及分析
+
+# 1）网络覆盖率
+
+为了验证改进算法的覆盖效果，本文假设在一个同构网络中的无线传感器网络节点半径为 $1 2 \mathrm { m }$ 。
+
+仿真结果如下图所示，图2为传感器节点的初始覆盖图，图3为基本粒子群算法仿真覆盖图，图4为基于惯性权重的标准粒子群算法仿真覆盖图，图5为基于惯性权重的拟物粒子群算法仿真覆盖图。图中用矩形表示无线传感器网络所要检测的区域，用“+”号表示单个传感器节点所在位置，用圆来表示单个传感器节点在监测区域内能够覆盖的范围。
+
+![](images/56ea05d53348ada37ea4358fb83902dce6e770f78974ef5be3ff9a63f4b141f1.jpg)  
+Fig.1Flow chart of Quasi-physical particle swarm optimization algorithm   
+图2传感器节点初始覆盖图
+
+![](images/d61d64821605b02d3b69c48b12a87a5f86d2e8845a524183200763903c8968ed.jpg)  
+Fig.2Initial coverage diagram of sensor nodes   
+图3基本粒子群算法的节点覆盖  
+Fig.3Node coverage of the basic particle swarm optimization algorithm
+
+![](images/7ed4244aa74e8462b7379ba3bcde977f4d4ccec413e554dbb7f0a6a3ef575d55.jpg)  
+图4基于惯性权重的标准粒子群算法的节点覆盖
+
+![](images/102cde9c20488935158f79d57a11c6d041628c8f6f4b72dc9aa76a185f9c3ed7.jpg)  
+Fig.4Node coverage of standard particle swarm optimizatior   
+图5基于惯性权重的拟物粒子群算法的节点覆盖 Fig.5Node coverage ofQuasi-physical particle swarm optimization algorithmbased on inertial weight
+
+如图2\~5所示，首先在监测区域内随机布设无线传感器网络节点，分别用基本粒子群算法和基于惯性权重的标准粒子群算法优化后，传感器节点的分布情况和整个无线传感器网络的监测覆盖范围。通过对三张节点覆盖图的对比及分析，经过基本粒子群算法和基于惯性权重的标准粒子群算法后，相比初始条件下，粒子在监测区域覆盖的范围得到一定的改善，但仍存在因粒子分布不均匀导致监测区域中出现重叠覆盖区域和大量的覆盖盲区，而通过基于惯性权重的拟物粒子群算法优化后，节点的分布会更加均匀，重复覆盖区域和覆盖盲区都大大减少，从图中可以看出，改进后算法的区域覆盖效果相比基本算法有着明显的改善。
+
+# 2）收敛速度
+
+前一节中展示了三中覆盖算法在1000次迭代次数下的覆盖仿真图，其覆盖率变化曲线如图所示。图6为基本粒子群算法、基于惯性权重的标准粒子群算法以及基于惯性权重的拟物粒子群算法覆盖率变化曲线。
+
+仿真结果表明，基本粒子群算法在经历了102次迭代后趋于收敛，覆盖率为 $7 6 . 8 \%$ ，无效覆盖率为 $4 3 . 4 \%$ ；基于惯性权重的标准粒子群中，因其动态惯性系数的作用，使之在后期的迭代过程中，较小的权重值可确保粒子可以在极端点周围进行精细搜索，在仿真中表现为在48次迭代达到 $7 6 . 8 \%$ 覆盖率后，继续进行进一步的精细搜索，最终在265次迭代处达到了 $84 . 4 \%$ 的覆盖峰值，其无效覆盖率为 $3 7 . 5 \%$ ；而在基于惯性权重的拟物粒子群算法中，由于“拟万有引力”的拉动和“拟库仑力”的排斥，使粒子群更快的达到了收敛位置，并大大减少了重复覆盖的情况，仅在30次迭代中就突破了 $9 5 \%$ 的覆盖率，并在469次迭代的精细搜索后达到了 $9 6 . 6 \%$ 的覆盖程度，其无效覆盖率为 $2 8 . 8 \%$ 。仿真数据表明，在粒子数量相同及迭代次数一致的条件卜，基于惯性权重的拟物粒子群算法相比基本粒子群算法和基于惯性权重的标准粒子群，具有对区域覆盖面积更大，覆盖效果更佳的优势。
+
+![](images/2afb34c831309a8e085db04a74bb2b1bfe79374d91a88babab1dfa67e34b1f00.jpg)  
+图6三种粒子群算法覆盖率变化曲线 Fig.6Coverage variation curves of the three particle swarm optimization algorithms
+
+# 4 结束语
+
+为了增强无线传感器网络部署的有效性，扩大无线传感器网络在同等节点下的可覆盖区域，提高无线传感器网络的覆盖率，显著提升覆盖效果，本文经研究分析，将惯性权重与拟物算法融合于粒子群算法中，提出了一种基于惯性权重的拟物粒子群算法，在该算法中吸取了惯性权重带来的后期精细探索能力和拟物算法带来的快速收敛和减少无效覆盖的能力，使其同时具备两个单一算法的优越性，并在一定程度上达到了一加一大于二的效果。
+
+同时为了检验基于惯性权重的拟物粒子群算法的有效性，从覆盖性能、收敛速度以及无效覆盖率三个方面进行仿真分析，并将仿真后获得的结果与基本粒子群算法和基于惯性权重的标准粒子群算法进行分析比较。仿真结果充分说明基于惯性权重的拟物粒子群算法相比两种既有算法，全局收敛速度更快，覆盖率更高，重复覆盖的比率更低，在一定程度上避免了在迭代过程中因算法“早熟”而导致陷入局部最优的问题，大大增强了无线传感器网络部署的有效性。
+
+# 参考文献：
+
+[1]Mostafaei H,Montieri A,Persico V,et al.A sleep scheduling approach based on learning automata for WSN partial coverage [J]. Journal of Network & Computer Applications,2017,80(C):67-78.   
+[2]Qiu Chenxi,Shen Haiying，Chen Kang.An energy-efficient and distributed cooperation mechanism for k-coverage hole detection and healing in WSNs [J].IEEE Trans on Mobile Computing,2018,17(6): 1247-1259.   
+[3]宋明智，杨乐．改进VFPSO算法于WSN节点随机部署中的应用[J]. 计算机工程与应用,2016,52(2):141-145.(Song Mingzhi,Yang Le. Application of improved VFPSO algorithm in WSN node random deployment [J]. Computer Engineering and Application,2016,52 (2): 141-145. )   
+[4]Rauf A,Aleisa E A.PSO based automated test coverage analysis of event driven systems [J].Intelligent Automation & Soft Computing, 2015,21(4):491-502.   
+[5]Kennedy J,Eberhart R.Particle swarm optimization [C]// Proc of International Conference on Neural Networks.Piscataway,NJ:IEEE Press,2002:1942-1948.   
+[6]Srinivas M,Patnaik L M.Genetic algorithms: a survey [J]. Computer, 2002,27 (6):17-26.   
+[7]Khatami A,Mirghasemi S,Khosravi A,et al.A new PSO-based approach to fire flame detection using K-Medoids clustering [J].Expert Systems with Applications,2017,68 (C): 69-80.   
+[8]Mistry K,Zhang L,Neoh S C,et al.A micro-GA embedded PSO feature selection approach to intelligent facial emotion recognition [J]. IEEE Trans on Cybernetics,2017,47 (6):1496-1509.   
+[9]Kumar S U,Inbarani H H.PSO-based feature selection and neighborhood rough set-based classification for BCI multiclass motor imagery task [J].Neural Computing & Applications,2017,28 (11): 3239-3258.   
+[10] Garg H.A hybrid PSO-GA algorithm for constrained optimization problems [J].Applied Mathematics & Computation,2016,274(11): 292-305.   
+[11] Shi,Y,Eberhart R C.Empirical study of particle swarm optimization [C]//Proc of Congress on Evolutionary Computation.1999:1945-1950.   
+[12]黄文奇，赵孝武．求解正交数组问题的拟物拟人算法[J].计算机研 究与发展，2002，39(2):205-212.(Huang Wenqi，Zhao Xiaowu. Simulation algorithm for orthogonal array problem [J].Computer Research and Development,2002,39 (2):205-212.)   
+[13]程爱华，葛宝忠，季中恒．无线传感器网络区域覆盖的拟物拟人优 化方法 [J].传感技术学报,2007,20(12):2668-2673.(Cheng Aihua, GeBaozhong， JiZhongheng.Simulationandhumanization optimization of wireless sensor network area coverage [J].Journal of Sensor Technology,2007,20 (12): 2668-2673.)   
+[14] Tao Xiaoshou,Li Xunbo.Improved round routing algorithm based on area covering of wireless sensor network [C]/Proc of International Conference on Electrical and Control Engineering.Piscataway,NJ: IEEE Press,,2010: 5274-5277.

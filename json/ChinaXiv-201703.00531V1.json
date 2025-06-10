@@ -1,0 +1,450 @@
+[
+    {
+        "type": "text",
+        "text": "金属/合金材料吸附气体的热脱附研究进展\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱 特1²，曹兴忠²，吴建平¹，靳硕学²，卢二阳²，龚毅豪²，赖 信²，张鹏²，王宝义²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1（成都理工大学核技术与自动化工程学院，四川成都610059）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2（中国科学院高能物理研究所核辐射与核能技术重点实验室，北京100049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：研究金属/合金材料中气体原子的迁移、聚集和成泡机制，通常以研究微观缺陷捕获气体原子的微观机制为出发点，分析气体原子与缺陷的相互作用，已成为研究材料中气体原子热动力学机制的一个主要课题。热脱附谱仪（ThermalDesorption Spectroscopy，TDS)采用原子质谱分析技术测量材料表面吸附气体的热脱附量随温度变化，获取气体元素原子与空位、位错等微观缺陷的结合能，以及气体原子/气泡的迁移能、热脱附能等热力学参数，从而研究材料中不同微观缺陷捕获气体原子以及气泡形成的微观机理。本文充分调研了国内外应用TDS 技术研究金属/合金材料中气体元素与微观缺陷相互作用机理的最新进展，特别是应用TDS 技术研究反应堆结构材料中辐照嬉变气体产物氢/氨的与辐照缺陷的相互作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： 金属/合金；热脱附；缺陷；微观机制中图分类号：TB31；TB771文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "材料的气体吸附现象普遍存在于固体的表面与界面，研究固-气界面的吸附现象及其基本规律对了解固体材料表面结构、性能具有普遍意义。近代高真空技术的飞速发展，为材料表面气体吸附的研究提供了条件，多孔材料、催化剂、活性炭、金属等材料中气体吸附现象的研究越来越活跃[1-5]。气体吸附对材料的影响具有两面性，例如，在多相催化反应中，只有反应物分子吸附于催化剂表面才能使固体表面发生催化反应，可见吸附是表面催化反应发生的前提[2。再如，储氢材料也是利用了气体吸附来存储氢气的，这些都是利用气体吸附有利的方面[3]。同时，气体吸附对材料也有不利的方面，例如，核反应产生的大量氮气在材料中会与微观缺陷结合最终形成氮泡，导致材料内部结构肿胀[5]。因此，研究材料中气体原子热力学行为、气体元素与缺陷相互作用机理，对材料表面气体吸附现象的针对性应用非常重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文选择常用的金属/合金材料为论述载体，综合论述金属材料中气体元素的迁移、聚集和气泡化过程，气泡的热力学行为等微观机理的研究进展，以及针对微观结构在高温、高压和强辐照等环境下的演变规律及其对材料动力学性能的影响机制的分析方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于金属/合金材料的微观结构体系复杂，材料制备工艺难于精确控制，造成材料粒子所处的环境多变，微观结构演变过程十分繁杂，使得研究的问题变得复杂而困难。近年来，在材料中气体元素热力学行为等相关研究中，针对不同研究对象或环境发展了多种不同的实验方法。如M.Hernández-Mayoral、G.R.Odette 等利用透射电镜（TEM）观察了辐照引入材料中的微观缺陷或氮泡[4,5。向鑫等用X射线衍射（XRD）研究了氨离子注入的铝金属表面[6]。C.Vorpahl、P.Jung等在对EUROFER97钢的研究中利用扫描电镜（SEM）分别观察了断裂面的韧窝结构和注氮注氘样品表面[78]。V Krsjak 等通过正电子湮没寿命谱(PALS)研究 $\\mathrm { F e - C r }$ 合金中Cr 含量对氮离子引入的辐照损伤抵抗作用的影响[，X.ZCao、ZHu 等也采用 PALS 或多普勒展宽谱（DBS)对注氮材料进行了研究[10,11]。这些研究方法中，常规电镜可以直接观察材料中气体与微观缺陷结合形成的团簇或气泡，正电子湮没谱学技术对气体在晶体材料中的主要捕获位置—一空位、空位团、微空洞等空位型缺陷特别敏感。它们从不同的方面给出了许多有价值的信息，但是这些方法难于直接给出气体原子与材料中微观结构的结合能、吸附能等热力学方面的信息。在材料中微观缺陷捕获氢同位素和氨行为机制的研究中，发展新的实验方法有利于深入研究材料的不同缺陷捕获氢同位素和氨行为的微观机理，更精确系统地把握氨和氢与不同缺陷的作用方式并计算出吸附能、结合能等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "热脱附质谱分析是研究材料表面气体吸附和热脱附现象非常有效的特色实验手段。通常结合低能电子衍射（LEED）和俄歇电子能谱（AES）等技术，可广泛地用于研究金属微观结构、氧化物膜[12]、催化剂[2]、粉末样品[13]和多孔材料[40]的表面性质和脱附动力学。不同类型缺陷对气体原子的吸附能决定了气体原子的热脱附温度，可通过测量气体原子的热脱附温度来获取吸附气体与缺陷的热力学参数进而研究其作用过程。如不同缺陷处气体原子复合体结构的热脱附温度，对应于热脱附谱中不同脱附过程形成的脱附峰，通过对热脱附谱的分析可以获得脱附气体在不同类型缺陷处的脱附激活能、气体的居留量、材料中缺陷的浓度及脱附级数和脱附速率常数等关键信息。这些信息定性地或半定量地反映了吸附过程的实质，对了解材料中微观结构的演变过程是非常重要的。本文将针对应用 TDS技术研究金属/合金材料表面吸附气体（氢同位素、氨）与微观缺陷相互作用机理的最新研究进展进行论述，特别是针对应用TDS 技术研究反应堆结构材料中氢/氨的辐照损伤效应及肿胀机制进行深入探讨和论述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2材料表面热脱附原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1材料表面的气体吸附/脱附",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气体吸附是固体表面的特征之一，是发生在材料表面的重要现象，对表面电子的状态、表面能等有重要的影响。表面吸附是指由于被吸附物质（吸附质）与吸附剂表面之间的相互作用(包括氢键和静电作用等)而引起的分子在表面的滞留。在固体内部，形成点阵的每个粒子受到周围粒子的作用力合力为零，但位于固体表面的粒子，仅受到固体内部粒子的吸引作用，固体外部又几乎没有粒子，因而表面的粒子所受合力不为零，合力的方向垂直于固体表面指向固体内部，于是表面气体或液体分子向固体内部扩散，这种现象就称为固体表面吸附。在吸附过程中，一些能量较高的吸附分子，可能克服吸附势的束缚而向固体表面扩散最终脱离表面，这种现象称为“脱附”或“解吸”。吸附和脱附原理示意如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照吸附分子与固体表面作用力的强弱，又可把吸附分为物理吸附和化学吸附。物理吸附，其吸附力主要是由固体和气体分子之间的范德瓦尔斯力产生的，一般较弱。在化学吸附中，吸附质分子与吸附剂分子之间形成表面化学键，使被吸附的气体分子内部结构发生变化，在有的化学吸附中常伴随有吸附质分子中价电子的重新分配，因此，化学吸附相对稳定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "材料表面的气体脱附过程没有明确的分类，主要包括材料表面气体分子的自发逃逸过程和受热后气体分子的热脱附。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/37638a7988b68e60fe26c408c7f8a3a531c5bc6cccd420339e07f9a9a24d9e66.jpg",
+        "img_caption": [
+            "图1吸附和脱附原理示意图",
+            "Fig.1 Schematic diagram of adsorption and desorption "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2材料表面气体吸附/脱附机制的理论基础",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1表述吸附/脱附的物理量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表述气体吸/脱附行为的物理量包括表面覆盖度（0）、吸附能（ $( \\operatorname { E } _ { \\mathrm { a d } s } )$ 、脱附激活能！ $( \\mathrm { E } _ { \\mathrm { d e s } } )$ 、吸附热（q）和吸附激活能（ $\\mathrm { : E _ { a } }$ ）等。吸附热、吸附激活能对吸附覆盖层的覆盖度产生直接影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）覆盖度",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当吸附原子在衬底表面达到一定数量时，即可形成覆盖层，对于单原子覆盖层，引入单原子吸附的覆盖度。覆盖度是研究化学吸附的一个重要参数，主要是指在吸附剂表面被吸附质分子或原子所覆盖的分数，是用来描述化学吸附程度的物理量，通常用0表示，定义为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Theta = \\frac { \\mathtt { n } } { \\mathtt { N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中N表示吸附原子紧密排列于衬底表面时应有的原子总数，n表示吸附在衬底表面实际的原子数。显然， $\\theta = 0$ 是清洁表面的情况，而 $\\theta = 1$ 是饱和吸附的情况，表示在衬底表面已形成一个紧密排列结构的单原子覆盖层，在一般情况下$0 < \\theta < 1$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）吸附激活能",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从热力学角度来看，吸附将使系统能量下降，但从动力学的角度来看，吸附过程需一定的能量将原有气体分子键合进行改组，才能实现吸附过程，即需要一定的吸附激活能（ $\\mathrm { E _ { a } }$ )，吸附激活能控制着物理吸附转化为化学吸附的速率，而",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "且决定着化学吸附的吸附量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）吸附能",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "吸附能是针对吸附现象而言的一种能量指标，用来衡量吸附难易的程度，通过吸附能的大小，我们可以直观的看出吸附质和吸附剂表面之间作用力的强弱，吸附能越大，则说明吸附作用越强，反之则较弱。吸附能可分为积分吸附能和微分吸附能两种，我们最常用的就是积分吸附能，它是一种平均吸附能，反应了在较长时间内吸附过程中能量变化的平均结果，定义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\Delta E _ { a d s } = - \\frac { 1 } { N } \\hbar ( \\mathrm { E _ { s y s } - E _ { s u b } - N E _ { g a s } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中的N表示被吸附的粒子数， $\\mathrm { E } _ { \\mathrm { s y s } }$ 表示吸附这N个粒子之后体系的总能量，$\\mathrm { E } _ { \\mathrm { { s u b } } }$ 表示吸附前体系的能量， $\\mathrm { E _ { g a s } }$ 表示吸附前粒子的总能量，负号表示该吸附反应是放热反应，且 $\\operatorname { E } _ { \\mathrm { a d s } }$ 值越大就表示吸附质与吸附剂表面之间的作用力就越强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4）脱附激活能",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "脱附是吸热过程，从吸附位能曲线可知（如图2)，脱附能的大小至少要达到克服吸附热q和吸附活化能 $\\mathrm { E _ { a } }$ 两者所形成的总势垒的能量。这个能量称为脱附激活能，用 $\\mathrm { E } _ { \\mathrm { d e s } }$ 表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8c1a8e21a67113d50723e5abe3ee4ed5b0b2ca541ecf1329762221499e5a548.jpg",
+        "img_caption": [
+            "图2吸附位能曲线",
+            "Fig.2 Adsorption potential energy curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2脱附动力学理论公式",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "气体在固体中的脱附激活能通常是在多个温度下测得的脱附速率求得的。在热脱附过程中，温度是连续改变的，脱附速度同时受时间和温度两个因素的影响。为了处理方便，通常把温度设定为随时间呈线性改变：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T } = \\mathrm { T } _ { 0 } + \\beta \\mathrm { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\mathrm { d T / d t }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "T是时刻t时的温度， $\\mathrm { ~ T _ { 0 } ~ }$ 为初始温度，β为升温速率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当脱附物与固体的动力学相关联时，TDS 可以提供很多定量的信息。借助于一定的模型，分子脱附和反应的动力学相关参数可以通过分析TDS谱图得到。脱附动力学常常可以用普适速率方程的近似形式来描述，该方程就是著名的Polanyi-Wigner方程：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { r _ { d e s } = - \\frac { d \\theta } { \\Delta t } = \\vartheta _ { d e s } \\theta ^ { n } e x p ( - E _ { d e s } / R T ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathrm { r } _ { \\mathrm { d e s } }$ 是脱附速率， $\\mathrm { E _ { d e s } }$ 是脱附激活能，0是表面覆盖度， ${ \\vartheta _ { \\mathrm { d e s } } }$ 是指前因子，n是反应级数，R是气体常数，T是温度。TDS的数据分析实际上就是解开上面的方程，绝大多数情况下是只能得到近似解的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3热脱附质谱分析仪",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "热脱附谱仪（Thermal Desorption Spectroscopy，TDS）采用原子质谱分析技术，通过测量材料表面吸附气体的热脱附速率，获取气体元素与空位、位错等微观缺陷的结合能，以及气泡的迁移能、热脱附能等热力学参数，从实验分析的角度深入研究材料中不同微观缺陷捕获气体元素的微观机理。调研结果表明，国内外通用的先进热脱附装置选择相应的设计准则，以实现可靠的热脱附谱的科学实验测量：1）真空系统维持高抽气速率，以保证真空室中某一气体成分的分压正比于脱附速率，且实现优于 $1 \\times 1 0 ^ { - 5 } - 1 \\times 1 0 ^ { - 7 } \\mathrm { { P a } }$ 的真空范围，避免残余气体很快吸附在样品表面。2）检测装置的灵敏度必须满足探测微量脱附物的分压强。一般采用四极质谱仪（QMS）来检测。3）要有良好的温度线性变化装置，可以调整样品的升温速率β，且具有准确的测温装置。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LK TECHNOLOGIESTDS系统是实验室选用的热脱附实验测量的仪器之一，如图3所示。系统主要由四极质谱（QMS）系统、真空控制系统、进样系统、温度控制系统、LEED/AES 系统等组成。此外，日本电子科学株式会社的EMD-WA1000S/WTDS 系统、国内改进的CIAE-TMT-TDS-01系统，这些装置的主要子系统的组成结构，工作原理大致相同，主要区别在于加热方式，LKTECHNOLOGIESTDS系统和CIAE-TMT-TDS-01系统是采用电阻丝加热，EMD-WA1000S/WTDS系统采用红外线加热，它们的进样系统也有差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0f84efb7fa4a079e63b99e5de57b2278754880e2cd2cde27cc021dc810e32fe.jpg",
+        "img_caption": [
+            "图3LKTECHNOLOGIES TDS系统示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Flow diagram of LK TECHNOLOGlES TDS system ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3材料表面气体热脱附现象的主要研究进展",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文调研了部分金属/合金材料表面气体分子热脱附现象的主要研究进展。特别是针对服役于高剂量中子辐照环境的金属结构材料，应用TDS 技术研究气体元素与微观缺陷相互作用机理，及反应堆结构材料中氢/氨的辐照损伤效应及肿胀机制的研究进展。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "核反应中高通量的中子通常会与材料发生嬉变核反应产生大量氮（He、He)和氢同位素（H、D、T)。氨在反应堆材料中溶解度较低并不容易扩散，可能会与离位损伤产生的微观缺陷相互作用，并形成气泡，从而引起材料表面起泡或结构材料内部的肿胀现象。在高温条件下，尽管产生的氢同位素可以从材料中扩散出去，但容易引发氢脆并且氢在材料的扩散过程中会加剧材料中元素的偏析和析出相变。因此利用TDS 结合其他方法对材料中氢同位素和氨的扩散、运输、居留，对不同类型的微观缺陷捕获氢同位素和氨行为展开深入的实验研究很有必要且非常有意义。同时，也有不少研究者对氢的吸附储存材料、面向等离子体材料等开展了大量表面吸/脱附的研究。下面针对结构材料中氨和氢的热脱附研究进展分别进行了综述。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1结构材料表面氨的热脱附研究进展",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于惰性气体氦不溶于金属，氮在基体金属中通常以间隙原子的形式存在，容易被各种晶体缺陷捕获，成为氨泡形核的基点，如空位、位错、沉淀相和晶界等[14,15]，因此在受控热核反应装置和聚变堆结构材料的研究中常用\"He\"注入金属模拟氙衰变产物He+在金属中的行为特性[16.17]。还有气体方面的关联，比如 ITER中等离子体腔表面的氮沉积和扩散、（n，α）反应产生的氨原子的扩散、引起的肿胀及材料的脆化等等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "氨脱附现象的研究主要包括了对氨-单空位（HeV)、氨-空位团 $( \\mathrm { H e _ { n } V _ { n } } )$ 、氮间隙原子、氮泡等的热稳定性研究，氮与各种微观缺陷的结合能计算，微观结构对氮在材料中脱附的影响等。近年来，从实验的角度对材料中不同微观缺陷捕获气体元素的微观机理展开了深入研究。例如，在氨与微观结构的热稳定性方面，I Carvalho等将氮（2MeV， $1 0 ^ { 1 6 } \\mathrm { H e / c m ^ { 2 } }$ ）注入Eurofer97钢中，得到了氮在单空位、空位团等缺陷中的脱附温度以及复杂团簇的分离温度、氮泡扩散温度[18]。K.Morishita 等研究了 $\\mathrm { H e } _ { \\mathrm { n } } \\mathrm { V } _ { \\mathrm { m } }$ 在Fe 中的热稳定性[20]。氮在材料中的脱附激活能或结合能的计算方面,X.Z.Cao 等用TDS 技术判断了氨在镍中辐照产生的缺陷类型，并根据经验公式计算了空位、空位团、间隙型位错环等微观缺陷中氮的脱附活化能[。K.Morishita 等计算了间隙氨原子、单空位、间隙铁原子与氨-空位团的结合能，并讨论了氨-空位团中氮原子与空位比例对空位与氨-空位团的结合能的影响[20]。在微观结构对氨热脱附影响方面，H.Lefaix-Jeuland 等和R.Sugano等分别研究了晶界和位错对纯铁或铁素体钢中氮热脱附的影响[223]。此外，也有学者的研究对TDS 技术本身的发展具有一定的促进作用，例如，Donghua Xu 等在不同注量的氨离子分别注入铁中进行TDS 测试的研究中，讨论了热脱附谱中存在假峰的现象。并且用Johnson-Mehl-Avrami（JMA)相变动力学模型和常规反应模型结合拟合出来与实验得到的脱附曲线基本吻合的公式，还进一步研究了假峰产生的原因[24]。X.Z.Cao 等在研究氮在纯镍样品中的脱附时，为了获得更多的脱附信息，通过延长加热时间巧妙的分离了重叠峰[2。ICarvalho 等在研究氦在Eurofer97钢中的热脱附时发现Eurofer97钢的相变温度点附近出现了一个明显的峰，Donghua Xu 等也观察到了多晶铁和单晶铁样品氨热脱附谱中 BCC-FCC相变点处的脱附峰（如图4)，这表明 TDS 在研究相变方面也有一定优势[18,19]。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9a1efd30353b2429127bc5f3083c2901c46d7d075ae8046c7d8e5d65ca661b3.jpg",
+        "img_caption": [
+            "图4 BCC-FCC 相变点处观察到的尖峰[19]"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 A sharp desorption peak for the BCC-FCC phase transformation is observed ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2结构材料表面气的热脱附研究进展",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "氢的同位素既是核聚变的反应物又是核裂变的生成物，它在材料中的扩散、居留等特性是影响核能材料的关键问题。热脱附谱是研究氢同位素在材料中的扩散、渗透、溶解与释放等特性的一种有效手段，国际上有很多研究者做了氢在材料中的居留量，各种缺陷处的脱附温度等方面的TDS 研究。例如，HideoWatanabe等在重离子 $( 2 . 4 \\mathrm { { M e V } \\ C u ^ { 2 + } ) }$ 辐照后的纯钨样品中注入氘 $( \\mathrm { 2 k e V \\ : D _ { 2 } }$ ， $1 \\times 1 0 ^ { 2 1 } \\mathrm { D ^ { + } / m ^ { 2 } } .$ )，用 TDS 方法判断了辐照引入的微观缺陷类型并得到了氘在单空位、位错环、精细空位团和纳米空隙等微观缺陷中的脱附温度[25]。0.V.Ogorodnikova 等用 TDS 研究了氘在自离子辐照后的钨中的居留量。他们先用 $2 0 \\mathrm { { M e V } }$ 的 $\\nbig \\nbig \\nW ^ { 6 + }$ 辐照块状钨样品模拟反应堆中子对钨的辐照损伤[26]，产生不同损伤水平的样品，然后在300K到800K 温度范围内注入氘后进行 TDS 测试[27]，研究气（HD， $\\mathrm { D } _ { 2 }$ ，HDO， $\\mathtt { D } _ { 2 } 0$ ）在不同损伤水平下的居留情况。他们的实验数据表明：辐照缺陷导致氢同位素的居留显著增加，随着辐照损伤的增大氘居留量逐渐增多，损伤剂量在 $0 . 5 \\mathrm { - 1 \\mathrm { d p a } }$ 时几乎达到饱和，当损伤剂量达到较高水平（6dpa）时氘的居留量又有缓慢增长。Y.Hatano 等也用TDS 方法研究了低剂量中子辐照后的钨中不同注入温度对氘居留量的影响[28.29]。V．S．Efimov 等用 $1 0 \\mathrm { k e V }$ 的 $\\mathrm { \\Delta D _ { 3 } ^ { + } }$ 注入钨中，研究离子注入过程中钨对氘捕获的特性，并用特殊的加热程序使精细结构在热脱附谱中最大限度的表现出来[30]。K．Ono 等采用 TDS 与 TEM 相结合的方法有效地判断了脱附峰处的缺陷类型并观察到氘泡的形成及消失的过程，如图5所示，这种结合方式在最近材料内部气体肿胀研究中用的比较多，并且非常有效[31]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c2a5828bd2d1097e945dd341fd11c98d6a4bab99f9a1a45a720ca262c45c3e2.jpg",
+        "img_caption": [
+            "图5 TDS与TEM的结合运用[31] ",
+            "Fig.5 Combined with the use of TDS and TEM methods "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "氢是所有化学燃料中单位质量热值最高的元素，且因其可再生和燃烧产物对环境无污染而倍受青睐[32]。氢的吸附储存材料研究是一个重大课题[33]，许多学者对氢在储存材料中的渗透、滞留等方面进行了大量研究。例如，程等研究了贮存氙靶约4年和20年的两个316L不锈钢真空贮存容器及其垫片材料对氘的吸附行为，得到了氘的脱附温度，并对氙在贮存容器材料中的渗透速率进行了测量和分析[34]。Kirk L．Shanahan 等对多个不同老化程度的氙化钛样品、 $\\mathrm { P d _ { 0 . 9 4 } R h _ { 0 . 0 5 } C o _ { 0 . 0 1 } }$ 薄片样品中氘、氙、氮的脱附做了一系列的研究[35-39]。G.M．Wright 在研究面向等离子体材料时，用 TDS 探测了氘在不同表面的居留情况[3]。这些都能表明 TDS在储氙材料及面向等离子体材料研发上具有一定的优势。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "TDS 技术在研究金属/合金材料中不同缺陷捕获氢的同位素和氮行为机制上具有明显的优势，在氘增殖材料、等离子体第一壁材料及其内部构件、阻氘渗透涂层、储氙材料等的研发上也是不可或缺的。与其他的实验方法相结合能有效完善材料中气体原子热动力学机制的分析方法，从实验分析的角度深入研究材料中不同微观缺陷捕获气体元素及气体原子引起的肿胀效应的微观机理。其面临的问题难点在于装置的研制和根据热脱附谱信息计算脱附动力学或热力学参数，而且脱附谱的分析方法对理论模型及复杂的灵敏度系数标定有很大的依赖。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] Souvik Pal， et al. Thermal energy storage in porous materials with adsorption and desorption of moisture[J]. International Journal of Heat and Mass Transfer， 2014，69: 285-292.   \n[2] Yong Men et al. Characterization of $\\mathsf { C u } / \\mathsf { C e O } _ { 2 } / \\mathsf { y } / \\mathsf { - A l } _ { 2 } \\mathsf { O } _ { 3 }$ thin film catalysts by thermal desorption spectroscopy[J]. Catalysis Leters Vol. 105， Nos.1-2，2005.   \n[3] G．M.Wright， et al. Materials research under ITER-like divertor conditions at FOM Rijnhuizen[J].J.Nucl.Mater，2011，417:457-462.   \n[4] M．Hernandez-Mayoral，D．Gómez-Briceno，et al．Transmission electron microscoscopy study on neutron irradiated pure iron and RPV model alloys[J]. J. Nucl. Marer, 2010，399:146-153.   \n[5] G．R. Odette et al. Helium transport， fate and management in nanostructure ferritic alloys: In situ helium implanter studies[J]． J. Nucl． Mater， 2011，417: 1001-1004. [6] Xiang xin et al． Effect of Fe and C Doping on the Lattice Distortion of He lon Implanted Al Surface by XRD[J]． RARE METAL MAT ENG，2011，09，40.   \n[7] C.Vorpahl， et al. Creep-fatigue interaction and related structure property correlations of EUROFER97 steel at $5 5 0 ^ { \\circ } \\mathrm { C }$ by decoupling creep and fatigue load[J]. J. Nucl． Mater, 2011，417:16-19.   \n[8] P．Jung， H． Klein，et al． Effect of implanted deuterium on tensile properties of helium-doped RAFM EUROFER97[J]． J． Nucl． Mater，2011，417:1013-1017. [9] V KrSjak，et al. Ion implantation induced defects in Fe-Cr aloys studied by conventional positron annihilation lifetime spectroscopy[J]． J. Phys． : Conf. Ser.，2011, 265:012014.   \n[10] X. Z. Cao et al. Efect of dislocations on thermal helium desorption from nickel and iron[J].J．Nucl．Mater，2011，417:1034-1037.   \n[11] Z Hu et al． Positron and thermal desorption studies on He ion implanted nuclear graphite[J]．J． Phys．:Conf．Ser.，2014，505:012014.   \n[12] Jack W.London and Alexis T． Bell. Infrared spectra of carbon monoxide，carbon dioxide，nitric oxide， nitrogen dioxide， nitrous oxide，and nitrogen adsorbed on copper oxide[J]. J. Catal． Volume 3， Issue 1，October 1973，Pages 32-40. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[13] S.Matsumoto and N. setaka. Thermal desorption spectra of hydrogenated and water treated diamond powders[J]. Carbon，Volume 17， Issue 6，1979，485-489. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[14] Zheng Gao，Yuzun Gao， Yonghong Li，et al． Effects of helium ion implanttation on the structure of nanophase and coarse-grain titanium films[J]. NanoStructred Materials, 1999，11，7: 867-872.   \n[15] H.Trinkaus,B. N. Singh． Helium accumulation in metals during irradiation-- where do we stand?[J]. J. Nucl． Mater， 2003，323:229-242.   \n[16] Evans J，Van-Veen A． Gas release processes for high concentration of helium bubbles in metals[J]． J． Nucl．Mater，1996，233-237:1179-1183.   \n[17] Zheng sixiao， Luo shunzhong et al． Production of $\\mathsf { C a } \\star$ and $\\mathsf { H e } +$ ions under the auxiliary of inert gas and microstructure analysis of the implanted Ti and Ti nano-film[J] . Nuclear Techniques，2003，26 (5) : 341-345.   \n[18] I Carvalho，H Schut，A Fedorov，et al. Helium implanted RAFM steels studied by positron beam Doppler Broadening and Thermal Desorption Spectroscopy[J]. J. Phys. : Conf.Ser.，2013，443:012034.   \n[19] Donghua Xu， Brian D.Wirth． Post-implantation thermal desorption of helium from poly- and single-crytalline iron[J]． J. Nucl． Mater， 2009，386-388:395-399.   \n[20] K. Morishita，R. Sugano，et al． Thermal stability of helium-vacancy clusters in iron[J]．NIM B，2003，202：76-81.   \n[21] X. Z. Cao，Q. Xu，K. Sato，T. Yoshiie.Thermal desorption of helium from defects in nickel[J]．J．Nucl．Mater，2011，412:165-169.   \n[22] H.Lefaix-Jeuland, S.Moll,T. Jourdan，F. Legendre.Effect of grain microstructure on thermal helium desorption from pure iron[J]. J. Nucl． Mater， 2013， 434:152-157. [23] R． Sugano，K. Morishita，et al. Effects of dislocation on thermal helium desorption from iron and ferritic steel[J]． J. Nucl．Mater，2002，307-311: 941-945.   \n[24] Donghua Xu，Tjacka Bus，Stephen C．Glade，Brian D.Wirth．Thermal helium desorption spectrometry of helium-implanted iron[J]. J. Nucl．Mater， 2007，367-370: 483-488.   \n[25] Hideo Watanabe，Naoki Futagami， et al. Microstructure and thermal desorption of deuterium in heavy-ion-iradiated pure tungsten[J]. J. Nucl. Mater， 2014，455: 51-55. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[26] O.V. Ogorodnikova，K. Sugiyama. Effect of radiation induced damage on deuterium retention in tungsten, tungsten coatings and Eurofer[J].J.Nucl. Mater,2013,442: 518. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[27] S．Markelj，O.V Ogorodnikova，P.Pelicon，et al． Study of thermal hydrogen atom interaction with undamaged and self-damaged tungsten[J]. J. Nucl. Mater， 2013， 438: S1027-S1031.   \n[28] Y. Hatano，M. Shimada，et al. Trapping of Hydrogen lsotopes in Radiation Defects Formed in Tungsten by Neutron and lon Irradiations[J]. J. Nucl. Mater，2013，Vol. 438: 114-119.   \n[29]Y. Hatano，M. Shimada，et al. Deuterium trapping at defects created with neutron and ion irradiations in tungsten[J]． Nucl． Fusion，2013，53:O73006.   \n[30] V.S.Efimov，Yu.M. Gasparyan，A.A.Pisarev. Investigation of a Fine Structure of Deuterium Thermal Desorption Spectra from Tungsten[J]. JSURF. INVE-ST- IG-X-RA 2013，Vol.7，No.3:472-478.   \n[31] K. Ono，et al. Release of deuterium from irradiation damage in Fe-9Cr-2W ferritic alloy irradiated with deuterium ion[J]. J. Nucl． Mater， 2014， 452: 46-50.   \n[32] Cited in: Rigden， J.S.Hydrogen: The Essential Element; Harvard University Press: Cambridge，MA，2003：1.   \n[33] Andreas Zuttel． Hydrogen storage methods[J]. Naturwissenschaften， 2004，91: 157-172.   \n[34] Cheng Jungui， Peng Shuming et al. Adsorption and Permeation Behavior of Tritium in Vacuum Storage Vessel Materials[J]. Journal of Isotopes， 2010，23(3) : 129-133. [35] Kirk L. Shanahan and Jeffrey S. Holder. Deuterium， tritium，and helium desorption from aged titanium tritides[J]. J. Alloys Compd.，2007，446-447 : 670-675.   \n[36] K．L. Shanahan，J.S．Holder，D.R． Bell，J.R.Wermer Tritium aging effects in LaNi4.25Alo.75[J]，J. Alloys Compd.，2003，356-357 ：382.   \n[37] K.L. Shanahan， J. S. Holder. Tritium aging effects in a Pdo.94Rho.05Coo.01 foil[J]. J. Alloys Compd.，2003，348:72-75.   \n[38] K.L. Shanahan，J. S.Holder，J.R.Wermer. Tritium aging effects in palladium on kieselguhr[J]． J． Alloys Compd.，1999，293-295:62-66.   \n[39] K．L. Shanahan， J．S． Holder.Helium Release Behavior of Aged Titanium Tritides[J]. J. Alloys Compd.，2005，404-406:365.   \n[40] Yang Ying， Sun Yanli et al. Synthesis of porous oblate-like $a - F e _ { 2 } O _ { 3 }$ hierarchy structure and ${ \\mathsf { N O } } _ { \\mathsf { x } }$ adsorption property[J]. Journal of functional materials，2012，19(43) : 2698-2701. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Research progress of gas atoms thermal desorption from metal/alloys ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ZHU Te1.2, CAO Xing-zhong², WU Jian-ping1, JIN Shuo-xue², LU Er-yang², GONG ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Yi-hao²,LAI Xin², ZHANG Peng², WANG Bao-yi2 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1 (College of Nuclear Technology and Automation Engineering, Chengdu University of Technology, Chengdu 610059, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2 (Key Laboratory of Nuclear Radiation and Nuclear Energy Technology, Institute of High Energy Physics, CAS,Beijing 100049, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: During study the gas atoms'behavior in metal and alloys, such as migration, diffusion，clustering and formed to bubbles. It is necessary to investigate the capture mechanism of gas atoms with different defects，especially need to analyze the thermodynamic process of atom-defects complexes.Recently， effective experimental method for charactering gas atom's behavior in materials is interested by researchers. One optional experimental technique is the thermal desorption spectroscopy,which can be used to obtain the binding energy of gas atoms with different defects such as vacancy, dislocation and vacancy cluster,and desorption energy of gas atoms with thermodynamic process. Because of desorption temperature can be marked using atomic mass spectrometry，which can detect the desorbed gas atoms.In this paper， the research progress of gas atoms'behavior on metal/allys using thermal desorption spectrometer is described,especially related to the behavior of hydrogen/helium atoms in the structural materials of nuclear reactor. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: metal/alloy; thermal desorption; defects; microscopic mechanism ",
+        "text_level": 1,
+        "page_idx": 13
+    }
+]

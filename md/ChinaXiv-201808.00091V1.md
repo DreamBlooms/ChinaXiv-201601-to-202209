@@ -1,0 +1,231 @@
+# Spark框架结合分布式KNN分类器的网络大数据分类处理方法
+
+曹瑜'，王 楠2,3，徐志超²
+
+(1.哈尔滨金融学院 计算机系，哈尔滨 150030;2.吉林财经大学 管信学院，长春 130117;3吉林大学 计算机学院,长春 130012)
+
+摘要：针对现有大数据分类方法难以满足大数据应用中时间和储存空间的限制，提出了一种基于Apache Spark框架的大数据并行多标签K最近邻分类器设计方法。为了通过使用其他内存操作来减轻现有MapReduce方案的成本消耗，首先，结合Apache Spark框架的并行机制将训练集划分成若干分区；然后在 Map 阶段找到待预测样本每个分区的 K近邻，进一步在 reduce 阶段根据 map 阶段的结果确定最终的K近邻；最后并行地对近邻的标签集合进行聚合，通过最大化后验概率输出待预测样本的目标标签集合。在PokerHand 等四个大数据分类数据集上进行实验，提出方法取得了较低的汉明损失，证明了其有效性。
+
+关键词：分类处理；Apache Spark；并行机制；数据挖掘；汉明损失；K最近邻 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2018.05.0296
+
+# Network big data classification processing method based on Spark and distributed KNN classifier
+
+Cao $\mathrm { Y u ^ { 1 } }$ , Wang Nan2,3, Xu Zhichao² (1.Dept.of Computer,HarbinFinanceUniversity，Harbin150030,China;2.Instituteof Management&Credit Jilin UniversityofFnance&Economics,Changchun13017,China;3.SchoolofComputingJilinUniversityChangchun130012, China)
+
+Abstract: Aiming at thelimitationthat the existingbigdata clasification methodscannot meethe timeand storage space in big data applications,a design method of big data parallel multi-label $\mathbf { k }$ -nearest neighbor classifier based on Apache Spark framework is proposed.Inorder to reduce thecostofthe existing MapReduceschemebyusing other memoryoperations,first, thetraining set is divided into several partitions inconjunction with the paralel mechanismof the Apache Spark framework. Then inthe Map stage,the K nearest neighborsofeach partionofthesample tobe predicted are found,and intheReduce phase,the final Knearest neighbors aredetermined acording totheresultsof the Mapphase.Finall,theneighboring tagsets are aggregatedinparalel,andthetargettagsetoftesample tobe predicted isoutputbymaximizingtheposteriorprobability. Experiments were conductedon PokerHandet al.'s four big data clasification datasets.The proposed method achieved a lower Hamming loss and proved its effectiveness.
+
+Key Words: clasification processing; Apache Spark; parallelism; data mining; hamming loss; K-nearest neighbor
+
+# 0 引言
+
+在过去几年中，大数据已成为一个焦点词汇，大规模的信息处理已成为一项必要且关键的任务[1-3]。技术的不断革新以及消费方式的改变，带来了商业的信息化发展。而商业的信息化发展导致了可用数据量的严重增加。另一方面，社交媒体，生物医学和娱乐活动每天同样产生大量数据，如果没有适当的知识提取过程，这些数据是无用的。因此迫切需要一种便捷的工具能够利用这些数据。K 近邻算法(K-nearest neighboralgorithm，kNN)[4]是一种直观且有效的非参数模型，常用于分类和回归。
+
+一些研究在MapReduce 过程中引入了kNN分类器，但他们的目的不是要执行精确的KNN分类，而是使用部分KNN(KNN应用于训练数据的子集)对大数据集进行聚类。文献[5]提出了一种新颖的方法，将KNN和主成分分析相结合来对大数据集进行聚类。文献[6]提出一种方法，该方法有两个不同的阶段，在第一阶段使用K-means来分隔整个数据集的不同部分，第二阶段计算每个分组中的KNN来提供近似的结果。还有一些研究没有针对分类或回归任务，而是提出在MapReduce 中执行 KNN进行查询的分布式计算。例如，文献[7]提出在两阶段MapReduce 过程中应用KNN-join（精确或近似）查询;文献[8]针对基于KNN 的图像分类提出了迭代Hadoop MapReduce 过程。然而，这种方法为每个单独的测试实例迭代执行MapReduce，造成了较大的时间消耗。文献[9]提出了一种HadoopMapReduce过程，可以将大量测试样本进行分类，降低了Hadoop的启动成本。然而该方法的分类准确性较低，还有待进一步完善。
+
+在本文中，提出了一种基于Apache Spark 框架的大数据并行多标签K-最近邻分类器设计方法。在本文的实现中，目标是利用Spark提供的灵活性，通过使用其他内存操作来减轻现有MapReduce方案的成本消耗。为了管理巨大的测试集，根据内存限制，将可能的测试示例的最大数量用于最小化迭代次数。在每次迭代中，将应用KNNMapReduce 进程，在map 阶段找到待预测样本每个分区的K近邻，并在reduce阶段确定最终的K 近邻。最后并行地对近邻的标签集合进行聚合。
+
+# 1海量数据集的分布式处理
+
+# 1.1 MapReduce 框架
+
+MapReduce(MR)框架是为数据的并行计算提供高度可扩展和灵活的框架，主要是是为了应对日益增多的数字数据[10\~12]。在过去的几年里，数据的生成和存储能力已经增长到PB级，这是硬件和新型处理技术更成熟的结果。MR的主要潜力是它提出的计算抽象，其中整个处理被划分成更小的任务类型Map 和Reduce，沿着集群均匀分布和处理。从业者只需负责提供这两个功能，避免将处理适配到群集的底层架构或数据的性质。该框架为并行数据处理提供了一个高度可扩展的容错环境。
+
+在MR工作流程中管理的数据由(key,value)形式的键-值对表示。每个映射任务的初始输入通常作为原始数据的输入分区，与任意键相关联。每个Map任务通过对其应用一个定义的函数来处理其大块数据，这产生了许多新的中间key-value 输出对。系统通过相应的键收集、组合和排序这些中间输出对，并发送与输入数据共享相同键的匹配对。该输入由一个由公用key和包含关联值的列表组成。然后，执行Reduce步骤；结果会产生最终输出，通常由新格式化的键、值对组成。图1显示了MR程序的详细流程。
+
+![](images/6e89ecc3d648a1843c8150ada9234dcf244f1c7b25576e3fbb492eab96e91301.jpg)  
+图1MR流的图形表示
+
+这个框架的普及是由ApacheHadoop 的实现引起的；开放软件社区与许多私营公司共同努力为大数据预处理提供广泛可用的软件堆栈。Hadoop生态系统非常广泛，但主要是两个主要组件：通用MapReduce 和Hadoop 分布式文件系统(HDFS)。它们允许部署廉价的大型计算机集群作为强大的执行引擎以及可靠和容错的分布式数据存储。
+
+# 1.2 Spark 框架
+
+Spark框架可以被看做是下一代分布式计算框架，并且是MapReduce 的扩展[13]。它们之间的关键区别在于Spark为正在处理的数据定义了一个新的抽象，称为弹性分布式数据集(RDD)；这使得从业者可以定义额外的数据操作，而不必严格遵守Map 和Reduce 功能。但是，MapReduce 范例仍然是 Spark平台的核心，因为大部分计算都遵循相同的模式，即将几个函数单独应用于每个数据单元，然后通过网络混合进行组合。
+
+Spark成为分布式数据处理实际标准的主要动机依赖于体系结构的差异：虽然Hadoop MR依靠硬盘驱动器来获取每个操作之间的中间数据，但 Spark 专注于更快的主内存来维护其数据结构。这允许定义更复杂的执行路径以及增加对迭代过程的支持。图2展示了Spark算子和数据空间。
+
+![](images/d2c961dc9a07eefeca5e9ea81ea9ec23d44fa6f3cdda3652406e6969a99a2828.jpg)  
+图2Spark 算子和数据空间
+
+最近基于云计算的技术为人们提供了处理此问题的理想环境。MapReduce 框架及其在Hadoop中的开源实现是基于数据局部性原理处理数据密集型应用的工具，并且已在数据挖掘中广泛传播。但是，研究人员发现HadoopMapreduce 在设计可伸缩机器学习工具方面存在一些限制。对于跨多个步骤共享数据的应用程序（包括迭代算法或交互式查询），MapReduce 效率不高。最近出现了多个用于大规模数据处理的平台来克服Hadoop MapReduce 的问题。其中Spark已成为大数据中执行更快分布式计算的最灵活和最强大的引擎之一。该平台允许用户程序将数据加载到内存中并反复查询，使其更适合在线，迭代或数据流算法。
+
+# 2 KNN分类器
+
+kNN 算法是一种非参数方法，可用于分类和回归任务[15]。kNN算法的表示如下：
+
+设 $D s$ 为训练数据集， $T s$ 为测试集，它们分别由数量为 $n$ 和t的样本组成。每个样本x,都是一个多元组(Xxpl,Xp2,..XpD,@),其中， $\boldsymbol { \chi } _ { _ { p f } }$ 表示第 $p$ 个样本的第 $f$ 个特征的值。样本属于类别$\omega$ ，是由 $\boldsymbol { X } _ { p } ^ { \omega }$ 和一个 $D$ 维空间确定。对于 $D s$ 集合，类别 $\omega$ 是已知的，而这一点对于 $T s$ 集合是未知的。
+
+对于包含在 $T s$ 集合中的每个样本 $X _ { t e s t }$ 测试，kNN 算法搜索$D s$ 集合中 $\mathbf { k }$ 个最接近的样本。因此，KNN 计算 $D s$ 中所有样本$\boldsymbol { X } _ { t e s t }$ 之间的距离。欧几里得距离是用于此目的最广泛使用的度量。根据计算出的距离，训练样本按升序排列，取 $k$ 个最近样本 $( n e i g h _ { 1 } , n e i g h _ { 2 } , . . . , n e i g h _ { k } )$ 然后，它们被用来计算最主要的类别标签。 $k$ 的选择值可能会影响该技术的性能和噪声容限。尽管KNN在各种各样的问题中表现出色，但缺乏管理大型TR数据集的可扩展性。处理大规模数据的主要问题是：
+
+a)运行时间。查找单个测试实例的最近邻居训练样本的复杂度为 $O ( ( n \cdot D ) )$ ，其中 $n$ 是训练实例的数量， $D$ 是特征的数量。由于它需要对计算距离进行排序，所以在找到 $k$ 个邻居时，这在计算上更复杂，因此需要额外的复杂度 $O ( n ! l o g ( n ) )$ 。最后，这个过程需要重复每个测试例子。
+
+b)内存消耗。为了快速计算距离，KNN模型要求将训练数据存储在内存中。当 $D s$ 和 $T s$ 集太大时，它们可能很容易超过可用的RAM存储器。
+
+这些缺点促使将KNN 的处理分布在节点集群上。在文献中，可以找到一系列在MapReduce上执行KNN的方法。虽然KNN分类器旨在提供预测的类，但KNN连接本身会输出邻居进行单个测试。因此，这些方法不能用于分类。图3展示了分布式KNN的流程。
+
+![](images/f2754d77eeb6a386401b3b5d77d99164fe1e9be487f2e19dfb38f4e1ce598e46.jpg)  
+图3分布式KNN流程图
+
+对于分类任务（也适用于回归），现有的方法比KNN 连接方法更简单，因为它们不需要自己提供邻居，而只需要它们的类。到目前为止，已经提出了两种主要方法，他们都侧重于使用Map阶段将训练数据拆分为 $m$ 个不相交的部分。例如，文献[14]提出了对每个单独的测试示例迭代重复MapReduce 过程（没有明确定义的reduce 函数），然而这在Hadoop 和 Spark中都非常耗时。文献[15]提出了一种称为MR-KNN的分类器，将其中一个MapReduce 过程用来管理测试集分类。Hadoop用于在映射阶段逐行读取测试数据。因此，这种模式具有可扩展性，但其性能可以通过内存中的解决方案进一步提高。
+
+# 3提出的方法
+
+本文使用 Spark 给出一种用于大数据分类的替代分布式KNN 模型，并将这种方法表示为基于Spark 框架的大数据并行多标签K最近邻分类器设计。当训练集和测试集都是大数据集时，本文将重点放在减少KNN 分类器的运行时间上。在并行框架内计算KNN时，许多其他因素可能会影响执行时间，例如MapReduce作业的数量 $j$ 或需要的Map 和Reduce 的任务( $\mathbf { \nabla } _ { m }$ 和 $\boldsymbol { r }$ )数量。因此，在Spark中编写高效精确的KNN具有挑战性，并且必须考虑多个关键点才能获得高效且可扩展的模型。
+
+本节介绍了MapReduce 过程，该过程将管理适合内存的测试数据子集的分类。因此，这个MapReduce过程基于MR-KNN，区别在于它允许多个Reducer，检查运行所需的迭代以避免内存交换，并且在 Spark下实现。作为MapReduce 模型，这将计算划分为两个主要阶段：Map 和Reduce。Map 阶段分割训练数据并针对每个块计算每个测试样本的 $k$ 个最近邻居的距离和相应类别。Reduce 阶段将每个映射中 $k$ 个最近邻居的距离聚合在一起，并给出 $k$ 个最近邻居的确定列表。最终，执行kNN 算法中的多数表决程序来预测结果类别。
+
+# 3.1 Map 阶段
+
+首先假设训练集 $D s$ 和相应的测试样本子集 $T s$ 先前已经从HDFS 中作为RDD 对象读取。因此，当训练数据集 $D s$ 被读取时，已经被分割成用户定义的 $\mathbf { \Sigma } _ { m }$ 个不相交的子集。每个 map任务 $( M a p _ { 1 } , M a p _ { 2 } , . . . , M a p _ { m } )$ 利用训练集划分的每个块的样本来处理子集 $D s _ { i }$ ，其中 $1 \leq i \leq m$ 。因此，每个映射近似处理相似数量的训练实例。
+
+为了获得KNN 的精确实施，输入测试集 $T S _ { i }$ 不与训练集一起分割，这意味着 $D s _ { i }$ 和 $T S _ { i }$ 都应该完全适合内存。在本文所述的Spark 实现中，在每个分区用MapParttion 初始化一个KNN搜索器。与此同时，每个分区将获取整个测试集样本的局部K近邻。
+
+每个映射都会发送多个输出，并允许使用多个reducer。每个分区的结果数据以键值对（key,value）形式存在。key表示每个测样本的编号，而value 表示以键值对（id,distance）为元素的近邻数组。当使用的训练和测试数据集非常大时，使用更多Reducer可能会很有用。算法1描述了Map 阶段的主要过程。其中 $f i l e _ { \mathrm { D s } }$ 表示训练集文件， $\begin{array} { r l } { f i l e _ { \mathrm { T s } } } \end{array}$ 表示测试集文件，$R D D [ i d , L i s t [ ( i d , d i s t a n c e ) ] ]$ 表示样本近邻集合。
+
+算法1分布式KNNMap 阶段过程
+
+输入： $f i l e _ { \mathrm { D s } }$ ， $\mathit { f i l e } _ { \mathrm { T s } }$   
+输出： $R D D [ i d , L i s t [ ( i d , d i s t a n c e ) ] ]$ （204号   
+$D s \gets t e x t F i l e ( f i l e _ { D s } , \# m a p ) . m a p ( n o r m a l i z e ) .$ map(LinearNNSearch).cache;   
+Ts←textFile(fileTs).map(normalize). map(key,value).collect;   
+arr ← sc.broadcast(Ts);   
+ans ←computeKNN(arr.Ds);
+
+# 3.2 Reduce 阶段
+
+Reduce 阶段包括从 map 阶段提供的 $T S _ { i }$ 中的 $k$ 个最近邻居。在map 阶段结束后，对于测试样本 $\mathbf { \Phi } _ { t }$ 有 $\# m a p ^ { * } K$ 个近邻，且所有具有相同键的元素都被分组。这个函数会一个接一个地处理这个列表中的每个元素，并用 $k$ 个邻居更新结果列表resultS reducer °
+
+由于来自map 的矢量根据距离排序，所以更新过程变得更快。这包括合并两个排序列表以获得 $k$ 的值，因此，最坏情况下的复杂度为 $O ( k )$ 。该函数逐一比较每个邻居的每个距离值，从最近的邻居开始。如果距离小于当前值，则使用相应的值更新该位置的类别和距离，否则继续执行下面的值。算法2提供了Reduce 操作的细节。
+
+输入： $a n s 1 [ ( i d , d i s t a n c e ) ] , a n s 2 [ ( i d , d i s t a n c e ) ] ;$ （204号   
+输出： $R D D _ { r e s } [ ( i d , A r r a r y [ i d ] ) ] \circ$ （204   
+$r e s = n e w A r r a y [ t y p e ( i d ) ] [ k + 1 ] ;$   
+$i 1 \gets 0 ; i 2 \gets 0 ;$ （20   
+for $j \in \{ 0 , 1 , 2 , . . . , k \}$ （2号 ${ \mathrm { i f } } ( a n s 1 ( i 1 ) , d i s t a n c e \leq a n s 2 ( i 2 ) . d i s t a n c e )$ $\left\{ r e s ( j ) = a n s 1 ( i 1 ) . i d ; i 1 + = 1 ; \right\}$ else $\left\{ r e s ( j ) = a n s 2 ( i 2 ) . i d ; i 2 + = 1 ; \right\}$
+
+总之，对于测试集中的每个实例，Reduce 函数都会根据之前描述的函数来聚合这些值。为了简化这个过程，我们使用Spark的ReduceByKey（func）转换。
+
+# 4实验
+
+# 4.1实验配置
+
+在这个实验研究中，我们将使用四个大数据分类数据集，PokerHand[16]、NUS-WIDE-bow[17]、Susy[18]和Higgs[19]。因此,我们随机抽样所述数据集以获得各类别样本的平衡。这些数据集除了包含大量实例之外，它具有相对较多的特征，因此可以看到这个事实如何影响所提出的模型。
+
+表1总结了这些数据集的属性，如样本数量、特征数量和标签数量信息。
+
+表1数据集描述  
+
+<html><body><table><tr><td>数据集</td><td>样本数量</td><td>特征数量</td><td>标签数量</td></tr><tr><td>Susy</td><td>5,000,000</td><td>18</td><td>32</td></tr><tr><td>Higgs</td><td>11,000,000</td><td>28</td><td>42</td></tr><tr><td>PokerHand</td><td>1,025,010</td><td>10</td><td>60</td></tr><tr><td>NUS-WIDE-bow</td><td>269,648</td><td>500</td><td>81</td></tr></table></body></html>
+
+对于实验研究，所有数据集均使用5折交叉验证（5-fcv)方案进行分区。这意味着数据集被分成5个子集，每子集中 $80 \%$ 的作为训练样本，其余的为测试实例。对于每个子集，kNN算法计算 $T s$ 的最近邻居。在呈现的MapReduce方案中，数据集的实例数量和使用的Map。数量有直接关系，因此Map数量越多，其中的实例数量越少。
+
+测试实验都在由16个节点组成的集群上执行：主节点和16个计算节点。计算节点采用 $2 \mathrm { x }$ IntelXeon CPUE5-2620处理器，所使用的软件及其配置的具体细节如下：
+
+a) MapReduce implementations:Hadoop 2.6.0-cdh5.4.2 and
+
+# Spark 1.5.1
+
+b) Maximum number of map tasks: 256 c) Maximum number of reduce tasks: 128 d) Maximum memory per task: 2GB. e) Operating System: Cent OS 6.5
+
+请注意，可用内核的总数是192，通过使用超线程技术将变为384。因此，当算法探索大于384的映射时，不能期望线性加速，因为会有排队的任务。对于这些情况，本文将重点分析Map 和Reduce。
+
+# 4.2性能度量
+
+本文用以下三种性能指标评估提出方法性能和可扩展性：
+
+a)汉明损失。用以表示误分标签平均个数。算法性能越好，其汉明损失就越小。
+
+$$
+h l o s s ( h ) = \frac { 1 } { p } { \sum _ { i = 1 } ^ { p } } \frac { \left| h ( x _ { i } ) , \Delta Y _ { i } \right| } { q }
+$$
+
+其中： $\Delta$ 是两个集合之间的对称差分， $q$ 是标签向量的长度， $h$ 表示多标签分类器。
+
+b）运行时间。根据训练数据集对给定的测试集进行分类，并记录KNN分类器花费的总时间。并行方法的总运行时间包括读取和分配所有数据，以及计算个最近邻居和多数投票。
+
+c)加速比。为了证明并行算法与算法的顺序执行版本的效率，测量了顺序版本和并行版本的运行时间。根据Amdahl定律[20]，在完全平行的环境中，理论加速的最大值与使用的核心数量相同。
+
+$$
+S p e e d u p = \frac { b a s e \_ l i n e } { p a r a l l e l \_ t i m e }
+$$
+
+其中：base_line 是顺序版本所花费的总运行时间，而parallel_time 是使用并行版本后所花费的总运行时间。
+
+$F _ { m i c r o } ^ { \beta }$ (基于标签的微观 $F$ 值)表示基于标签的精确度。
+
+$$
+F _ { m i c r o } ^ { \beta } = F ^ { \beta } \left( \sum _ { j = 1 } ^ { q } T P _ { j } , \sum _ { j = 1 } ^ { q } F P _ { j } , \sum _ { j = 1 } ^ { q } T N _ { j } , \sum _ { j = 1 } ^ { q } F N _ { j } \right)
+$$
+
+其中： $T P \setminus F P \setminus T N \setminus F N$ 是混淆矩阵中真实的正例、误判的正例、真实的反例，误判的反例。
+
+# 4.3与顺序版本KNN方法的比较
+
+本节将本文方法与顺序版本 KNN 方法进行比较，其是基于HadoopMapReduce 框架。为此，本文使用NUS-WIDE-bow和Higgs 数据集。NUS-WIDE-bow 和Higgs数据集是计算机视觉领域常用的数据集。在这些数据集中，本文方法只需要进行一次迭代，因为测试数据集适合每个映射的内存，并且reducer的数量也被固定为1。
+
+首先，本文在这些数据集上运行 kNN 的顺序版本作为基准。这个顺序版本逐行读取测试集，作为避免存储器问题的直接解决方案。表2显示了由标准顺序KNN算法随着邻居数量的不同所获得的运行时间（以秒为单位)和平均精度的结果（其中 Map数量设置为32）。
+
+表2顺序kNN 的性能表现  
+
+<html><body><table><tr><td>数据集</td><td>邻居数量</td><td>运行时间</td><td>平均精度</td></tr><tr><td rowspan="5">NUS-WIDE-bow</td><td>1</td><td>7989.34</td><td>0.67</td></tr><tr><td>3</td><td>7972.93</td><td>0.62</td></tr><tr><td>5</td><td>8076.26</td><td>0.64</td></tr><tr><td>7</td><td>8023.27</td><td>0.76</td></tr><tr><td>1</td><td>82627.36</td><td>0.73</td></tr><tr><td rowspan="3">Higgs</td><td>3</td><td>89023.34</td><td>0.74</td></tr><tr><td>5</td><td>82334.92</td><td>0.71</td></tr><tr><td>7</td><td>83261.35</td><td>0.72</td></tr></table></body></html>
+
+表3总结了 $k = 1$ 时的两种方法获得的结果（其中邻居数量设置为1）。它显示了不同Map 数量的平均总时间和相对于顺序版本实现的加速。如前所述，这两种方法都对应于KNN的精确实现。
+
+表3顺序KNN和本文方法所得到的结果  
+
+<html><body><table><tr><td>数据集</td><td>Map 数量</td><td>顺序KNN 平均运行时间（s)</td><td>本文方法 平均运行时间（s)</td><td>节省提升（s）</td></tr><tr><td rowspan="3">NUS-WIDE-bow</td><td>128</td><td>1978.26</td><td>311.24</td><td>1667.02</td></tr><tr><td>64</td><td>3998.23</td><td>467.35</td><td>3530.88</td></tr><tr><td>32</td><td>7989.34</td><td>992.42</td><td>6996.92</td></tr><tr><td rowspan="3">Higgs</td><td>256</td><td>11365.96</td><td>1509.43</td><td>9856.53</td></tr><tr><td>128</td><td>22434.52</td><td>3163.92</td><td>19270.60</td></tr><tr><td>64</td><td>43434.44</td><td>6132.61</td><td>37301.83</td></tr></table></body></html>
+
+根据实验结果，做出以下分析：
+
+正如在表2中可以看到的那样，在这两个数据集中，顺序版本的KNN方法所需的运行时间相当高。然而，表3显示了随着Map数量的增加，这两种方法的运行时间减少。与顺序版本KNN相比，本文方法的并行KNN的线速度提升速度更快。这是因为使用了内存中的数据结构，这使得我们可以避免从HDFS逐行读取测试数据。
+
+比较顺序版本KNN 和本文并行KNN，结果显示本文基于
+
+Spark 的并行KNN 比基于Hadoop 框架的顺序版本KNN运行时间减少了6-8倍。
+
+# 4.4与其他方法的性能比较
+
+在基于MapReduce 的现有分布式kNN模型中，将本文方法与MR-KNN方法进行比较，其是基于Hadoop MapReduce 框架。MR-KNN方法最初是为其他目的而设计的，而不是分类。他们还需要增加数据大小，甚至需要平方数量的Map任务。因此，该方案理论复杂度远高于所提出的技术。
+
+表4给出了本文方法性能评估结果，表5给出了MR-KNN方法性能评估结果，其中Map与邻居数量分别设置为128和1。从中可以看出，本文方法取得了较低的汉明损失，较少的运行时间，而且在加速比和 $F _ { m i c r o } ^ { \beta }$ 两个指标数据也同样优于对比方法。证明了本文方法的有效性。
+
+表4本文方法性能评估结果  
+
+<html><body><table><tr><td>数据集</td><td>汉明损失</td><td>运行时间/s</td><td>加速比</td><td>Fro</td></tr><tr><td>Susy</td><td>0.025</td><td>4163.52</td><td>0.28</td><td>0.434</td></tr><tr><td>Higgs</td><td>0.022</td><td>3163.92</td><td>0.34</td><td>0.583</td></tr><tr><td>PokerHand</td><td>0.018</td><td>1134.23</td><td>0.31</td><td>0.463</td></tr><tr><td>NUS-WIDE-bow</td><td>0.021</td><td>311.24</td><td>0.26</td><td>0.341</td></tr><tr><td>表5</td><td></td><td>MR-KNN方法性能评估结果</td><td></td><td></td></tr><tr><td>数据集</td><td>汉明损失</td><td>运行时间/s</td><td>加速比</td><td>Fmro</td></tr><tr><td>Susy</td><td>0.034</td><td>6652.13</td><td>0.25</td><td>0.367</td></tr><tr><td>Higgs</td><td>0.032</td><td>5298.26</td><td>0.32</td><td>0.522</td></tr><tr><td>PokerHand</td><td>0.019</td><td>2214.22</td><td>0.30</td><td>0.387</td></tr><tr><td>NUS-WIDE-bow</td><td>0.024</td><td>638.23</td><td>0.24</td><td>0.323</td></tr></table></body></html>
+
+# 5 结束语
+
+K最近邻分类器是数据挖掘中一种简单而有效的著名方法。由于时间和内存的限制，此模型在大数据领域的实际应用并不可行。在这项工作中，本文提供了基于Apache Spark 框架的大数据并行多标签K最近邻分类器设计方法。映射阶段计算不同训练数据分割中的 $k$ 个最近邻居，进一步在reduce 阶段根据map阶段的结果确定最终的K近邻。最后并行地对近邻的标签集合进行聚合，通过最大化后验概率输出待预测样本的目标标签集合。在四个大数据分类数据集的测试结果也验证了提出方法的有效性。
+
+# 参考文献：
+
+[1]董洋溢，李伟华，于会．基于混合余弦相似度的中文文本层次关系挖掘 [J].计算机应用研究,2017,34(5):1406-1409.(Dong Yangyi,LiWeihua, Yu Hui.Hierarchical relation mining of Chinese text based on mixed cosine similarity [J].Application Research of Computers,2017,34(5): 1406-1409.)
+
+[2]党红恩，赵尔平，刘炜，等．利用数据变换与并行运算的闭频繁项集挖掘方法[J].湘潭大学自然科学学报，2018,40(1):119\~122.(DangHongen,Zhao Erping,Liu Wei,et al.Closed frequent itemset mining
+
+method using data transformation and parallel operations [J].Natural Science Journalof Xiangtan University,2018,40(1):19\~22.)   
+[3]Seydell-Greenwald A,Raven EP,Leaver AM,et al. Diffusion imaging of auditory and auditory-limbic connectivity in tinnitus:preliminary evidence andmethodological challenges [J].Neural Plasticity，2014,2014(2): 145943.   
+[4]原继东，王志海，孙艳歌，等．面向复杂时间序列的k 近邻分类器[J]. 软件学报，2017,28(11):3002-3017.(Yuan Jidong，Wang Zhihai，Sun Yangei,et al. K-Nearest Neighbor Classifier for Complex Time Series [J] Journal of Software,2017,28 (11): 3002-3017.)   
+[5]Feng Huan,EyersD,Mills S,etal.PCAF:scalable,high precision KNN search using principal component analysis based filtering[C// Proc of International Conference on Parallel Processing. 2016: 638-647.   
+[6]Manjusha M,Harikumar R.Performance analysis of KNN classifier and K-means clustering for robust classification of epilepsy from EEG signals [C]// Proc of International Conference on Wireless Communications, Signal Processing and Networking. 2016: 2412-2416.   
+[7]Tiwari S, Kaushik S.Boundary points detection using adjacent grid block selection (AGBS) KNN-join method [Cl/ Proc of International Conference on Machine Learning and Data Mining. 2012.   
+[8]DemottPJ,Prenni AJ,Mcmeeking GR,et al.Integrating laboratory and field data to quantify the immersion freezing ice nucleation activity of mineral dust particles [J].Atmospheric Chemistry&Physics,2015,14 (1): 393-409.   
+[9]Kumar A，Kiran M,PrathapB R.Verification andvalidation of MapReduce program model for parallel $\mathrm { \Delta K }$ meansalgorithm on Hadoop cluster[C]/ Proc of the 4th International Conference on Computing, Communications and Networking Technologies. IEEE,2014: 1-8.   
+[10]王淑艳，杨鑫，李克秋．MapReduce 框架下基于超平面投影划分的 Skyline 计算[J].计算机研究与发展，2014,51(12):2702-2710.（Wang Shuyan, Yang Xin,Li Keqiu. Skyline Computing on MapReduce with Hyperplane-Projections-Based Partition [J]. Journal of Computer Research and Development,2014,51(12): 2702-2710.)   
+[11]陈珍，夏靖波，杨娟，等．基于MapReduce 的支持向量机态势评估算法 [J].计算机应用,2016,36（1):133-137.(Chen Zhen,Xia Jingbo,Yang Juan,et al. MapReduce-based Situation Assessment Algorithm for Support Vector Machines[J].Journalof Computer Aplications，2016,36(1): 133-137. )   
+[12] Backman N,Pattabiraman K,Fonseca R,et al.C-MR:continuously executing MapReduce workflows on multi-core processors [C]// Proc of International Workshop on Mapreduce and Its Applications. 2012:1-8.   
+[13] Zaharia M, Xin R S, Wendel P,et al. Apache Spark: a unified engine for big data processing [J]. Communications of the ACM,2016,59 (11): 56-65.   
+[14] Rogala M,Hidders J， Sroka J. DatalogRA:datalog with recursive aggregation in the spark RDD model[C]/ Proc of International Workshop
+
+on Graph Data Management Experiences and Systems.New York:ACM Press,2016: 3.
+
+[15]卢选民，院文乐，邱杨，等．一种改进的基于KNN的动态预测指纹定 位算法[J].计算机应用研究，2017，34（7):2016-2018.(Lu Xuanmin, Yuan Wenle,Qiu Yang,et al.An Improved dynamic prediction fingerprint location algorithm based on KNN[J].Application Research of Computers, 2017,34(7):2016-2018.)
+
+[16]Jabin S.Poker hand classification [C]//Proc of International Conference on Computing, Communication and Automation.2017: 269-273.
+
+[17] Gu Yun,Xue Haoyang，Yang Jie,et al.Automatic Image Annotation Exploiting Textual and Visual Saliency [C]// Proc of International Conference on Neural Information Processing. Springer International
+
+Publishing,2014: 95-102.
+
+[18]Polpaya I C,Rao CL,Varughese S.Electromechanical behavior and microstructure of highly sensitive polyaniline//ethylene vinyl acetate composite Piezo-Resistive materials [C]// Proc of Conference on Smart Materials,Adaptive Structures and Intelligent Systems.2016.   
+[19]Aad G,Al E,Bentvelsen S,et al.Observation of a new particle in the search for the standard model Higgs boson with the ATLAS detector at the LHC[J]. Physics LettersB,2012,716 (1):1-29.   
+[20] Das AK, Jaeki H, Goswami S,et al.Augmenting Amdahl's Second Law: A Theoretical Model to Build Cost-Effective Balanced HPC Infrastructure for Data-Driven Science [C]//Proc of IEEE International Conference on Cloud Computing.2017: 147-154.

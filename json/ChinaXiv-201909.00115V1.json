@@ -1,0 +1,516 @@
+[
+    {
+        "type": "text",
+        "text": "WRF模式在天山地区模拟能力的敏感性评估",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈淑莹}²，胡琪³，张弛，陈曦，邱源²， 杜皓阳1,²，魏彩霞1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．中国科学院新疆生态与地理研究所荒漠与绿洲国家重点实验室,新疆乌鲁木齐830011;2．中国科学院大学,北京100049；3．内布拉斯加大学林肯分校自然资源学院和地球与大气科学系,美国林肯州68583）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探寻天山地区气候模拟WRF(weather research and forecasting)模式中最优参数化方案组合,针对云微物理方案（MIC）、积云对流方案(CS）、行星边界层/近地面层方案（PBL/SLS）、陆面过程方案(LSM)以及长短波辐射方案(LSW)设计了6组季节尺度物理参数化方案敏感性试验，模拟时间设为 $2 0 1 4 - 1 1 - 2 8 - 2 0 1 5 - 1 2 - 0 1$ 。利用地面气象站观测数据和GPM（global precipitation measurement)卫星降水数据( $R \\geqslant 0 . 6$ ）,对模式模拟的日最高、最低气温及降水进行验证。结果表明：WRF模式对气温的模拟效果较好,且对日最高气温( $0 . 8 < R < 0 . 9 5$ )的模拟优于日最低气温（ $\\left( 0 . 6 2 < R < 0 . 8 8 \\right)$ )，日最低气温对陆面过程方案和云微物理方案敏感。模式对降水( $R \\approx 0 . 6$ )的模拟效果一般,各方案间表现差异大。云微物理方案WSM6-class计算量较小且能较好地模拟降水,积云对流方案 Kain-Fristch 无法准确处理天山地区强对流与复杂地形,夏季模拟出现日最低气温极大偏差和负值降水。得出的最优组合为：WSM6-class（MIC）、Bets-Miller-Janjic scheme（CS）、Mellor-Yamada-Janjicscheme/Monin-Obukhov（JanjicEta），scheme(PBL/SLS）、NOAH(LSM）、Community Atmosphere Model(LSW）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：WRF模式；气候模拟；物理参数化方案；敏感性评估；天山地区；中亚",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WRF模式（weather research and forecasting mod-el)\"是为大气研究和业务预报应用而设计的新一代中尺度数值天气预报系统，完全可压的非静力模式，被广泛应用于几米到几百公里尺度的各类气象气候研究中。WRF模式提供了多套物理参数化方案，不同尺度、地理位置以及应用目标的研究，所需的物理参数化方案组合各不相同。因此，在开展区域气候模拟之前，需要根据特定的研究区域和研究目标优选模式物理参数化方案组合。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在过去的33a(1979—2011年），中亚地区的气温以每 $1 0 \\mathrm { ~ a ~ } 0 . 3 6 \\sim 0 . 4 2 \\mathrm { ~ \\textdegree C }$ 的速率在上升[2],天山是中亚地区的\"水塔”[3）,气温上升加剧了天山雪冰的消融[4-5],尽管早期会带来充沛的雪冰融水,但在其他来源不变的情况下，冰川体积减小最终会导致其补给径流总量的减少，从而影响绿洲区人民的生产生活。中亚是“丝绸之路经济带”的核心区，在天山开展气候、生态、水文等研究能为“丝绸之路经济带”的建设提供科学支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "数据是科学研究的灵魂。现存的气候数据，无论是全球气候模式（generalcirculationmodel,简称GCM)数据或是各类再分析数据，水平分辨率都在百公里尺度，无法满足高精度研究需求。虽有少量高分辨率气候数据集，如水平分辨率在 $1 ~ \\mathrm { k m } ^ { 2 }$ 左右的WorldClim 数据（http://www.worldclim.org/）,但其缺少垂直高度场数据、时间分辨率低（月尺度）、提供变量较少〔最高(低)气温、平均气温、降水、太阳辐射、风速、水汽压]等因素，仍无法满足高时间分辨率、多维数据的需求。利用区域气候模式（re-gionalclimatemodel,简称RCM)对现存的粗分辨率气候数据，即GCM数据或再分析数据进行动力降尺度，得到较高分辨率的气候数据集是常用的获取高分辨率、多维气候数据集的方法[。RCM通过内部物理过程作用，不仅可以保留驱动数据的大尺度特征，还能模拟出更多区域尺度的气候特征，即“增值”7]。WRF模式作为新一代区域气候模式,正被越来越多的研究人员用于动力降尺度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WRF模式物理参数化方案敏感性研究在多地开展,Argueso 等[8探究了不同WRF参数化方案对南西班牙10a区域气候模拟的敏感性发现，日最低气温对不同的行星边界层方案敏感,积云对流方案和行星边界层方案对降水有重要影响，而更复杂的云微物理方案则没有显著影响。1990—1995 年Mooney等9开展了欧洲区域气候WRF参数化方案的敏感性评估，测试了2组长波辐射方案、2组陆面过程方案、2组云微物理方案以及2组行星边界层方案，发现 $2 \\mathrm { ~ m ~ }$ 气温对陆面过程方案最敏感、云微物理和行星边界层方案次之，并且，WRF不能很好地模拟当地降水，模式结果与观测相关性很差，相关系数仅为 $0 . 1 \\sim 0 . 3$ 。Crétat等[10 就WRF物理参数方案敏感性对南非区域气候模拟的不确定性进行了研究,模拟时间设为 $1 9 9 3 - 1 2 - 1 9 9 4 - 0 2$ 南非雨季,设计了由3个积云对流方案、行星边界层方案以及云微物理方案组成的27组试验，WRF准确刻画了季节性大尺度降雨格局、降雨梯度以及气温和湿度的垂直廓线，所有参数方案对降雨量最敏感，积云对流方案对降雨的地理位置、强度和季节指标最敏感，行星边界层方案和云微物理方案次之。Flaounas等[]探究了WRF模式的积云对流方案和行星边界层方案敏感性对人们理解西非季风机制的影响，发现行星边界层方案对温度、湿度的垂直分布和降雨量有较大影响，而积云对流方案对一些动态以及与降雨相关的变量影响更大。Evans 等[12]在澳洲东海岸针对一系列降雨事件进行的36组多物理参数化方案敏感性试验显示，没有一组组合方案能对所有事件、变量和评价指标表现最佳,表明不同的气候因子对不同的物理参数方案敏感，MYJ行星边界层方案和BMJ积云对流方案表现稳定，不建议组合使用YSU行星边界层方案、KF积云对流方案和RRTMG长短波辐射方案，同时指出，降雨强度增加时物理参数化方案的选择变得尤为重要。Kala等[13]评估了西澳洲西南部季节尺度WRF对驱动数据和物理方案的敏感性得出，辐射方案的选择对气温和降水都有较大影响，日最低气温对行星边界层方案十分敏感，积云对流方案或更复杂的云微物理方案对降水模拟并没有显著效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以天山地区为例，对WRF模式物理参数化方案在该地区模拟能力敏感性进行了评估，力图找出一套适合该地的WRF模式物理参数化方案最优组合，为该地区气候模拟研究提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "天山是亚洲中部最大的山系，西起乌兹别克斯坦的克孜尔库姆沙漠以东，经塔吉克斯坦、哈萨克斯坦和吉尔吉斯斯坦进入我国新疆境内，渐失于哈密市以东的戈壁中(图1)。山区地形复杂，平均海拔$4 ~ 0 0 0 ~ \\mathrm { { m } }$ 左右,最高的托木尔峰达 $7 ~ 4 3 5 . 3 ~ \\mathrm { m }$ 。东西横向长度超过 $2 ~ 5 0 0 ~ \\mathrm { k m }$ ,南北宽度一般为 $2 5 0 \\sim 3 5 0$ $\\mathrm { k m }$ ,帕米尔以北的天山山体最宽，可达 $8 0 0 ~ \\mathrm { k m }$ 以上[14]。由于巨大的高度和有利的地理位置以及独特的山地走势，天山截留了大量西风环流所携带的大西洋水汽和冬季西北风所携带的北冰洋水汽，夏季南亚高压系统发达，天山北部纬向环流强大，形成天山夏季的雨区。故山区积聚了丰富的降水、积雪、",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f588221bb8754aaf4af0d4b8feaf5d46352ff55667e68076a71ba873c16efcd7.jpg",
+        "img_caption": [
+            "图1天山地区地形及气象观测站点分布示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Topographical situation in the Tianshan Mountains and spatial distribution of themeteorological stations冰川等形式的水资源，中亚地区众多河流、湖泊均发源于此，哺育了我国最长的内陆河一一塔里木河和水量最大的内陆河一伊犁河，是西北干旱区的“湿岛”,更是中亚地区的“水塔”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 试验设计与评估",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 模式配置",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选用WRF模式的欧洲中期天气预报中心（Eu-ropean Centre for Medium-Range Weather Forecasts)所提供的再分析数据 ERA-Interim[15]动力降尺度。WRF模式为大气物理过程提供了多种参数化方案，主要包括云微物理方案（cloud-microphysics，简称MIC）、积云对流方案(cumulus/convective scheme,简称CS）、行星边界层方案（planetaryboundary layer,简称PBL)/近地面层方案（surface layer scheme，简称 SLS）、陆面过程方案（landsurfacemodel,简称LSM)以及长短波辐射方案（longwaveandshortwaveradiation,简称 LW and SW）[16]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选用WRFV3.9.1，模拟区域（图2)采用双层单向嵌套（one-waynesting），粗细网格水平方向格距分别为 $4 0 ~ \\mathrm { k m }$ 和 $8 ~ \\mathrm { k m }$ ,格点数 $1 0 0 \\times 5 0 \\_ 3 4 1 \\times 1 3 6$ ，网格中心点 $8 0 ^ { \\circ } \\mathrm { E } , 4 2 ^ { \\circ } \\mathrm { N }$ 。模式在垂直方向上设有32层，最高层固定在 $5 0 \\ \\mathrm { { h P a } }$ 。以ERA-Interim 数据集（水平分辨率 $0 . 7 5 ^ { \\circ } \\times 0 . 7 5 ^ { \\circ } ,$ )作为模式运转的初始场和边界场,边界条件每 $6 \\mathrm { ~ h ~ }$ 更新1次。外层开启网格松弛（gridnudging）[17],系数设为 $2 \\times 1 0 ^ { - 4 }$ ，用于松弛模式的风、气温和水汽，使其忠实于驱动条件，从而避免在长时间模拟中发生模式漂移（modeldrift）。内层关闭网格松弛,体现WRF模式动力降尺度的“增值\"效果。模拟区内，各向边界上设置5个格点的边界场缓冲区（relaxationarea），使缓冲区内模式模拟值接近大尺度强迫因子，同时与模式运行得出的中尺度数值有效混合。开启海洋和湖泊，如巴尔喀什湖（Balkhashlake），伊塞克湖（IssykKul)等,表面温度（sea surface temperature）实时更新。采用WRF模式提供的 USGS（United States geo-logical survey）地形资料、MODIS（moderate resolutionimagingspectroradiometer）土地利用资料、AVHRR(advanced very high resolution radiometer）植被覆盖度资料以及FAO（food and agriculture organization ofthe United Nations）土壤类型资料。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "敏感性试验模拟时间段为2014-11-28—",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bd517399d898b724292b9ac1f6ec7a04da6151574be8d9ba8b3cda74cd1dffe.jpg",
+        "img_caption": [
+            "图2 WRF模拟区域Fig.2 WRF domains"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015-12-01,模拟时间前3d将作为模式模拟的预热期（spin-up），不计入后期处理范围。去除边界场缓冲区的模拟区域，将被用于模式结果验证。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用Qiu等[18]中亚地区动力降尺度研究所选用的物理参数化方案作为参考组（REFerence），即：云微物理方案 Thompson[19]、积云对流方案 Betts-Miller-Janjic scheme[20）（BMJ）、陆面过程方案 No-ah[21）、行星边界层方案Mellor-Yamada-Janjicscheme[22]（MYJ）和近地面层方案 Monin-Obukhov（JanjicEta）scheme（MO）、长短波辐射方案Commu-nityAtmosphereModel[23]（CAM）。修改各个物理参数化方案进行敏感性试验，试验设计详见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数值模式中将湿物理过程分为显式云方案（云微物理方案)和积云对流方案。WRF中云微物理方案主要处理网格尺度的降水，试验WSM6所采用的WSM6-class 云微物理方案与REF所使用的Thompson方案都能在WRF模拟中表达出水的6种形态，即云水和冰、雨、雪、水汽和霰(cloudwaterandice，rain，snow，vapourand graupel）,这是模拟天山山区强烈对流及复杂降水形式所必不可少的。WRF中其他的3-class、5-class云微物理方案都无法准确表达。WSM6-class方案是单分量方案，事先定义好水成物函数供模式计算使用,而 Thomp-son方案是双分量方案，预报变量包含以上6种水成物的比水含量和冰晶数浓度，更接近真实情况，也更复杂[24]。高分辨率天气过程的模拟往往需要较复杂的云微物理方案,区域气候模拟则可放宽[13]。因此，有必要测试对比复杂与略不复杂但计算量小的方案模拟结果，在模式计算量与模式表现间寻求平衡。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/db9220bfd252041c2ad6a97df80a568331f5abed91b9610c8c6600d6e63f7fa1.jpg",
+        "table_caption": [
+            "表1敏感性试验方案",
+            "Tab.1Programs of the sensitivity experiments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验</td><td>陆面过 长波辐 短波辐 积云对 程方案 射方案</td><td></td><td>射方案 流方案</td><td>行星边界层 方案/近地 面层方案</td><td>云微物理 方案</td></tr><tr><td>REF</td><td>NOAH</td><td>CAM</td><td>CAM BMJ</td><td>MYJ/MO</td><td>Thompson</td></tr><tr><td>KF</td><td>NOAH</td><td>CAM</td><td>CAM KF</td><td>MYJ/MO</td><td>Thompson</td></tr><tr><td>RTG</td><td>NOAH</td><td>RRTMG RRTMG</td><td>BMJ</td><td>MYJ/MO</td><td>Thompson</td></tr><tr><td>RUC</td><td>RUC</td><td>CAM</td><td>CAM BMJ</td><td>MYJ/MO</td><td>Thompson</td></tr><tr><td>WSM6 NOAH</td><td></td><td>CAM</td><td>CAM BMJ</td><td>MYJ/MO</td><td>WSM 6- class</td></tr><tr><td>YSU</td><td>NOAH</td><td>CAM</td><td>CAM BMJ</td><td>YSU/MM5MO</td><td>Thompson</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "KF与REF试验相同，除了将REF中的积云对流方案BMJ改为Kain-Fristch[25]（KF）。WRF中积云对流方案用于处理次网格尺度深对流和浅对流积云产生的大尺度效应，并描述网格无法分辨的云内上升气流、下降气流以及云外补偿气流，只有在单个积云中被触发时才起作用，即调整垂直加热和湿度廓线并产生对流降水。BMJ方案由Betts-Miller方案改进获得，使深对流特征廓线及松弛时间可随积云效率发生变化，浅对流水汽特征廓线中熵的变化较小且为非负值。KF方案利用一个简单的云模式表达气流抬升、下沉和卷入、卷出，是WRF-ARM(advancedresearchWRF)推荐使用的气候模拟积云对流参数化方案[1)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "行星边界层方案YonseiUniversity（YSU）schem[26被应用在试验 YSU中替代 REF 中的 MYJ方案，由于WRF中行星边界层方案与近地面层方案一一对应，故近地面层方案也由MO改为MM5Monin-Obukhovscheme（MM5MO）。大气边界层中的湍流会对大气热量、水汽及动量进行垂直输送、混合，故行星边界层能确定混合层和稳定层内的通量廓线，提供整个空气柱内的大气温度、水汽及动量通量倾向。MYJ方案由2阶湍流闭合方案简化而来，采用TKE（turbulent kinetic energy）闭合技术,在边界层内部预报湍流动能，对所有的湍流阶量进行诊断,最终闭合边界层内动量方程[27]。YSU 方案由MRF(MediumRangeForecast）行星边界层方案改进而来，采用K闭合技术，增加了对边界层顶卷层的显式处理，解决了原MRF方案中过度混合的缺点，也是WRF-ARM推荐使用的气候模拟方案[1]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RUC试验主要用于测试陆面过程方案对模式模拟结果的敏感性，陆面过程方案能显著影响陆一气间动量、热量和水汽交换。REF试验所采用的Noah方案是WRF区域气候研究中最常用的陆面过程方案，有4个土壤层： $0 \\sim 1 0 \\ \\mathrm { c m } \\setminus 1 0 \\sim 4 0 \\ \\mathrm { c m } \\setminus 4 0 \\sim$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 0 0 ~ \\mathrm { c m } \\ 、 1 0 0 \\sim 2 0 0 ~ \\mathrm { c m }$ ,本次试验中的RUC 方案[28]与Noah同等复杂，设置6个土壤层： $0 ~ \\mathrm { c m } \\ 、 5 ~ \\mathrm { c m } \\ 、 2 0$ $\\mathrm { c m } { } _ { \\sqrt { 4 0 } } \\ \\mathrm { c m } { } _ { \\sqrt { 6 0 } } \\ \\mathrm { c m } { } _ { \\sqrt { 3 0 0 } \\ \\mathrm { c m } }$ ,但尚未被充分评估使用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验RTG与REF的不同之处是采用了RRT-$\\mathrm { M G } ^ { [ 2 9 ] }$ 作为长短波辐射方案,RRTMG是短波辐射方案RRTM(rapidradiativetransfermodel)应用在GCM模拟时的修正版。长短波辐射的精确刻画对低层气温模拟十分关键，CAM与RRTMG长短波辐射方案相比，WRF模拟中常见的RRTM/Dudhia长短波辐射方案组合更为复杂，CAM与RRTMG都考虑到了云层重叠的情形，以判断网格云量，而后者只是以二进制的方式简单测算是否有云。CAM与RRTMG还把痕量气体、气溶胶、臭氧和二氧化碳效应，甚至反射的短波辐射通量都考虑在模式计算中，但CAM使用Delta-Eddington估算短波辐射的吸收与散射[23]，RRTMG 则是用Correlated-k 辐射传输算法[29],试验 RTG 欲测试RRTMG 长短波辐射方案能否提高模式在天山模拟的精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 验证数据",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用地面气象观测站的观测资料，对模式模拟的日最高、最低气温及降水进行验证。笔者所使用的地面气象资料来源于中国气象数据网（http：//da-ta.cma.cn/）以及GHCN（global historical climatologynetwork）daily observation data map（https://gis.nc-dc.noaa.gov/maps/ncei/cdo/daily）〔30]所提供的逐日最高气温、最低气温数据和 $2 4 \\mathrm { ~ h ~ }$ 降水量。研究中对所有站点进行质量控制，对缺测数据大于 $20 \\%$ 的站点直接剔除不予考虑，最终在研究区范围内选出131个气温观测站、53个降水观测站（图1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GPM（global precipitation measurement）核心卫星于2014年2月27日发射，是新一代降水观测卫星，分辨率达 $0 . 1 ^ { \\circ }$ ，首次采用双频雷达观测系统(DPR)，结合主动雷达，从不同角度提供云层降水粒子的物理信息，如雨滴的形状、强度以及对流过程，提高了对轻量级降水的捕捉能力，能更精准地刻画降水的时空分布[31]。金晓龙等[32]在天山地区对比GPM卫星和另外两套应用较为广泛的卫星降水产品—TRMM与CMORPH发现,GPM卫星对天山山区降水捕捉表现最佳( $R \\geqslant 0 . 6$ ）。本研究利用GPM卫星降水数据，对内层模拟的降水结果进行验证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 评估方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究中对各个试验在冬（December-January-Feb-ruary,DJF）春（March-April-May,MAM）夏（June-Ju-ly-August，JJA）、秋（September-October-November,SON)4个季节的表现进行评估，评估要素有季节平均日最高气温、日最低气温以及月累积降水。首先，将日值气象站点数据转换到季节尺度。研究选用最近邻法获得气象站点的模拟值，从而减少其他插值方法本身可能带来的误差[33-34]。利用双线性插值算法，对天山地区 $0 . 1 ^ { \\circ }$ 分辨率月值GPM卫星降水数据重采样至 $8 ~ \\mathrm { k m }$ 水平分辨率，同时也转换到季节尺度。根据实际地形资料对模拟得到的气温数据进行地形效应校正[35],由于使用模式自身的递减率与标准递减率校正时影响不大[36，故研究中取标准大气温度直减率系数 $0 . 6 5 \\mathrm { ~ \\% ~ } \\cdot \\mathrm { ~ ( ~ 1 0 0 m ) ~ } ^ { - 1 }$ 作为地形校正系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Taylor图是从两个场的空间相关系数 $\\textbf { ( } R \\textbf { ) }$ 、中心化均方根误差 $( E ^ { \\prime } )$ 、模拟场的标准差 $\\left( \\sigma _ { \\mathrm { m } } \\right)$ )和观测场的标准差 $\\big ( \\sigma _ { \\mathrm { o } } \\big )$ )这4个统计量来比较模式模拟结果与观测场的吻合程度[37]。横纵坐标代表模拟场与观测场的标准差之比，连接横纵坐标尾端的圆弧代表模拟场与观测场的空间相关系数，横轴上以REF点为圆心的半圆弧是中心化均方根误差。简言之，Taylor图结果越靠近标准差之比为1的圆弧线（模拟场和观测场的标准差越相近，即空间变率越接近）、越接近横轴(中心化均方根误差越小、模拟场和观测场的空间相关系数越大），模拟效果越好。Taylor图已用于气候模式的性能评估[9,12-13,35,38],本次研究利用 Taylor 图对模式模拟的多组试验结果进行评价。但Taylor图评估的是模式对距平场的模拟能力，不能很好地将模式与观测的平均值差异反映出来。因此，本研究还将利用偏差，包括绝对偏差(absolutebias，简称AB)和百分比偏差（percentagebias，简称PB）来对模式结果进行评估[39）。评估指标的计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } (  M _ { i } - \\overline { { M } } ) ( O _ { i } - \\overline { { O } } ) / \\sigma _ { \\mathrm { m } } \\sigma _ { \\mathrm { o } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ^ { \\prime } = \\sqrt { \\frac { 1 } { N } { \\sum _ { i = 1 } ^ { N } } [ \\left( M _ { i } - \\overline { { M } } \\right) ( O _ { i } - \\overline { { O } } ) ] ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\mathrm { m } } = \\sqrt { \\frac { 1 } { N } { \\sum _ { i = 1 } ^ { N } ( M _ { i } - \\overline { { M } } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\circ } = \\sqrt { \\frac { 1 } { N } { \\sum _ { i = 1 } ^ { N } ( \\ O _ { i } - \\overline { { O } } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A B } = { \\frac { 1 } { N } } { \\sum _ { i = 1 } ^ { N } { \\left( { M _ { i } - O _ { i } } \\right) } } = { \\overline { { M } } } - { \\overline { { O } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P B } = { \\frac { \\sum _ { i = 1 } ^ { N } \\left( M _ { i } - O _ { i } \\right) } { \\sum _ { i = 1 } ^ { N } O _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：假定待评估要素有 $N$ 个模拟值 $( M _ { i } )$ 和观测值$\\left( { { O } _ { i } } \\right) , \\overline { { M } } = \\frac { 1 } { N } { \\sum _ { i = 1 } ^ { N } { { M } _ { i } } } , \\overline { { O } } = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } { { { O } _ { i } } } \\circ$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1气温 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3和图4分别是日最高气温和日最低气温Taylor图，所有试验空间相关系数都通过了 $9 9 . 9 \\%$ 的置信检验，偏差结果见表2和表3。各个试验模拟的日最高气温空间相关系数在 $0 . 8 \\sim 0 . 9 5$ ，除夏季RTG、RUC外，中心化均方根误差均控制在第三级（即图中以REF点为圆心向外的第3个半圆弧)以内，标准差比率仅有秋季YSU、RTG及夏季位于$1 \\pm 0 . 2 5$ 以外。相对而言，模式对日最低气温的模拟效果不如日最高气温。日最低气温Taylor图显示，各个试验标准差比率接近 $1 \\left( \\begin{array} { l l } { \\pm 0 . 2 5 } \\end{array} \\right.$ 左右)，唯有试验YSU、RTG夏季模拟除外，空间相关系数在$0 . 6 2 \\sim 0 . 8 8$ ，中心化均方根误差相比日最高气温模拟普遍偏大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从Taylor图上看，REF试验对日最高气温的模拟全年表现较好、较稳定，秋季最佳，系统性低估观测场均值，最大低估出现在冬季和春季，偏差达$- 3 . 0 6 \\mathrm { ~ \\textdegree C }$ 和 $- 3 . 3 3 ~ \\mathrm { { \\mathcal { C } } } ~ ( ~ - 3 6 . 2 6 \\%$ 和 $- 1 2 . 2 7 \\%$ ）。REF试验对日最低气温的模拟全年也较稳定，但除夏季外都高估了观测场均值，最大绝对偏差出现在冬季,高估 $1 . 7 5 ~ \\mathrm { ^ { \\circ } C } \\left( \\mathbf { \\Sigma } - 1 0 . 3 \\% \\right)$ ,最大百分比偏差在秋季,达 $- 5 0 . 2 \\%$ (1.3 ℃）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "日最高气温模拟上，Taylor图中各个试验的模拟结果均较好且相似，唯夏季RTG、RUC，冬季YSU、RTG表现相对较差。偏差评估中，试验YSU在春、夏季绝对偏差较大，为 $- 5 . 8 9 \\mathrm { ~ } \\mathrm { ^ { \\circ } C }$ 和 $- 8 . 7 8 \\mathrm { ~ \\textdegree C }$ ，试验KF、REF在冬季百分比偏差较大，为 $- 3 7 . 1 6 \\%$ 和$- 3 6 . 2 6 \\%$ 。但在日最低气温模拟上,Taylor图中唯有冬季各个试验的表现较接近，其余3个季节里，REF、WSM6、RUC效果较好，剩余试验表现较差。值得一提的是，试验RUC仅在夏季略逊于试验REF,其余季节均表现最佳。偏差评估中，试验KF（夏： $- 8 9 0 \\%$ ）、RTG（春： $- 1 0 4 . 6 6 \\%$ ）、RUC（秋：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/27dc175938d350c685e1b57386a3778ed2952d0c9fd2366803f132f9a47089c8.jpg",
+        "img_caption": [
+            "图3季节日最高气温泰勒图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a52e0f90b527524ecbd805dcf4ab30facdd89488d4c1a84c06599cb3675a261f.jpg",
+        "img_caption": [
+            "Fig.3Taylor diagrams of daily maximum temperature ",
+            "图4季节日最低气温泰勒图",
+            "Fig.4Taylor diagrams of daily minimum temperature "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2日最高气温季节绝对偏差和百分比偏差",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/00fee470c16383968342025866fa735f4716910c3b44a1afd68600fcc1995763.jpg",
+        "table_caption": [
+            "Tab.2Seasonal absolute and percentage biases of daily maximum temperature "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验</td><td>REF</td><td>KF</td><td>RTG</td><td>RUC</td><td>WSM6</td><td>YSU</td></tr><tr><td>DJF</td><td>-3.06</td><td>-3.14</td><td>0.82</td><td>-1.38</td><td>-1.94</td><td>-0.87</td></tr><tr><td></td><td>-36.26% -37.16%</td><td></td><td>9.68%</td><td></td><td>-16.39% -22.97% -10.32%</td><td></td></tr><tr><td rowspan=\"2\">MAM</td><td>-3.33</td><td>-2.55</td><td>-2.07</td><td>-1.17</td><td>-3.09</td><td>-5.89</td></tr><tr><td>-12.27%</td><td>-9.39%</td><td>-7.65%</td><td>-4.30%</td><td>-11.41% -21.70%</td><td></td></tr><tr><td rowspan=\"2\">JJA</td><td>-0.69</td><td>-2.75</td><td>-4.46</td><td>2.29</td><td>-1.99</td><td>-8.78</td></tr><tr><td>-1.90%</td><td>-7.56%</td><td>-12.25%</td><td>6.29%</td><td>-5.46%</td><td>-24.12%</td></tr><tr><td rowspan=\"2\">SON</td><td>-1.64</td><td>-2.52</td><td>-1.67</td><td>1.36</td><td>-1.42</td><td>-4.15</td></tr><tr><td>-6.83%</td><td>-10.47%</td><td>-6.93%</td><td>5.65%</td><td>-5.91%</td><td>-17.25%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3日最低气温季节绝对偏差和百分比偏差",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f190c37649a5c321d1d383be06c2a59cd1d046eea9e00429d9da8094e9241d1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验</td><td>REF</td><td>KF</td><td>RTG</td><td>RUC</td><td>WSM6</td><td>YSU</td></tr><tr><td>DJF</td><td>1.75</td><td>3.43</td><td>6.62</td><td>3.39</td><td>3.66</td><td>4.38</td></tr><tr><td></td><td>-10.30%</td><td>-20.14%</td><td>-38.86%</td><td>-19.90%-21.52%</td><td></td><td>-25.70%</td></tr><tr><td rowspan=\"2\">MAM</td><td>-0.79</td><td>-0.28</td><td>2.62</td><td>1.69</td><td>-0.56</td><td>0.65</td></tr><tr><td>31.36%</td><td>11.15%</td><td>-104.66%-67.59%</td><td></td><td>22.52%</td><td>- 26.00%</td></tr><tr><td rowspan=\"2\">JA</td><td>0.84</td><td>-92.82</td><td>-0.65</td><td>3.14</td><td>0.64</td><td>-3.76</td></tr><tr><td>8.04%</td><td>-890.68%-6.28%</td><td></td><td>30.12%</td><td>6.09%</td><td>-36.13%</td></tr><tr><td>SON</td><td>1.3</td><td>0.46</td><td>2.06</td><td>2.75</td><td>0.67</td><td>-0.57</td></tr><tr><td></td><td></td><td></td><td>-50.20% -17.62% -79.84% -106.35%-26.01%</td><td></td><td></td><td>22. 15%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$- 1 0 6 . 3 5 \\%$ )都出现了超 $100 \\%$ 的负偏差，尤其KF试验在模拟过程中极有可能存在积分溢出的情况，试验WSM6 除冬季偏差较大 $3 . 6 6 \\big ( \\mathrm { ~ - ~ } 2 1 . 5 2 \\% \\big )$ ，其余季节均优于REF。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2降水",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图5是月累积降水气象站点和GPM卫星验证Taylor图，偏差评估见表4\\~5。除试验YSU（春、夏、秋）、KF（夏，负相关）RTG（夏)外，大部分试验都通过了 $9 9 . 9 \\%$ 空间相关系数置信检验。模式模拟的降水空间相关系数除冬季站点验证（KF、YSU较差，REF接近O.9，WSM6、RTG、RUC都超过了0.9）外都普遍偏低,为0.6左右或更差,但与 Mooney等[9]在欧洲模拟的降水效果 $( 0 . 1 < R < 0 . 3 ) \\$ 相比较好。标准差比率大部分试验都在 $1 \\pm 0 . 2 5$ 外，试验间差异大（秋季差异最大）。中心化均方根误差除冬季表现较好的试验（RUC、RTG、WSM6、REF)基本都在第四级或第四级以外。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "试验REF对降水的模拟冬季较好，秋季最差，对观测场空间变率刻画是所有试验中最好的。系统性低估降水均值。站点验证冬季偏差最小，为$- 0 . 2 2 \\big ( \\mathbf { \\nabla } - 3 . 8 8 \\% \\big )$ ；最大偏差出现在夏季，为$- 1 0 . 6 3 \\big ( \\mathbf { \\varepsilon } - 3 6 . 2 1 \\% \\big )$ ，卫星验证4个季节偏差都在$2 8 \\%$ 左右。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "站点验证中，冬季,试验WSM6、RTG、RUC与REF的表现接近或稍好。春季，RUC与WSM6标准差比率劣于REF，但中心均方根误差与空间相关系数均优于REF。夏季REF与WSM6的表现相当，RUC略差。秋季各个试验间差异大，REF标准差比率接近于1，但中心均方根误差过大(第五级）、空间相关系数较小（0.3左右），而WSM6以接近0.85的空间相关系数以及相对较小的中心均方根误差（第三级），虽然标准差比率较差，但仍可判断为秋季模拟效果最好的试验，在其他试验普遍出现失误时，WSM6表现较为稳定。KF试验模拟的夏季降水出现负值，与观测场存在不显著负相关（-0.067），这与气温(日最低气温，夏)模拟时判断该试验可能出现积分溢出互为印证，其他季节的模拟效果也较差。试验YSU在多个季节出现不显著相关，模拟效果较差。试验RTG在冬季表现较好，其余季节表现欠注：YSU-S代表站点验证，YSU-G代表卫星验证，其余类推。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/93092733fe5c5f39736faa8069e95489a5a423caf2474bc95871543ed9b56e15.jpg",
+        "table_caption": [
+            "Tab.3Seasonal absolute and percentage biases of daily minimum temperature ",
+            "表5卫星验证的月累积降水季节绝对偏差和百分比偏差"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验</td><td>REF</td><td>KF</td><td>RTG</td><td>RUC</td><td>WSM6</td><td>YSU</td></tr><tr><td>DJF</td><td>-0.22</td><td>-4.43</td><td>-2.29</td><td>-0.3</td><td>-1.39</td><td>-4.24</td></tr><tr><td></td><td>-3.88%</td><td></td><td></td><td></td><td>-77.35% -39.91% -5.15% -24.20% -74.03%</td><td></td></tr><tr><td>MAM</td><td>-3.86</td><td>-13.51</td><td>-14.94</td><td>-6.21</td><td>-9.44</td><td>-16.69</td></tr><tr><td>JJA</td><td></td><td></td><td></td><td></td><td>-22.76% -79.55% -87.97% -36.56% -55.57% -98.26%</td><td></td></tr><tr><td></td><td>-10.63</td><td>-27.69</td><td>-26.67</td><td>-11.06</td><td>-8.27</td><td>-28.50</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>-36.21% -94.29% -90.82% -37.65% -28.16% -97.06%</td><td></td></tr><tr><td>SON</td><td>-3.31</td><td>-13.3</td><td>-0.18</td><td>3.52</td><td>-7.49</td><td>- 11.33</td></tr><tr><td></td><td></td><td>-20.84%-83.86%-1.15%</td><td></td><td>22.20%</td><td>-47.25%-71.42%</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/15b76e396378101ed7f1e56a9e49905518b7c1be25c1ea18c1c7d6e175cdfa06.jpg",
+        "table_caption": [
+            "表4站点验证的月累积降水季节绝对偏差和百分比偏差 Tab.4Seasonal absolute and percentage biases of monthly accumulated precipitation validated at different stations ",
+            "Tab.5Seasonal absolute and percentage biases of monthly accumulated precipitation validated by GPM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验</td><td>REF</td><td>KF</td><td>RTG</td><td>RUC</td><td>WSM6</td><td>YSU</td></tr><tr><td rowspan=\"2\">DJF</td><td>-6.09</td><td>-16.25</td><td>-2.71</td><td>0.06</td><td>-2.03</td><td>-13.59</td></tr><tr><td></td><td>-31.37% -83.77% -13.99%</td><td></td><td>0.32%</td><td>-10.45% -70.06%</td><td></td></tr><tr><td rowspan=\"2\">MAM</td><td>-8.46</td><td>-21.36</td><td>-17.16</td><td>-7.69</td><td>-12.34</td><td>-26.41</td></tr><tr><td></td><td>-30.33% -76.57% -61.52% -27.58% -44.24% -94.65%</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">JJA</td><td>-5.40</td><td>-26.21</td><td>-13.14</td><td>-2.75</td><td>-3.83</td><td>-17.23</td></tr><tr><td></td><td>-25.27%-122.60%-61.45%</td><td></td><td></td><td>-12.85% -17.92% -80.57%</td><td></td></tr><tr><td rowspan=\"2\">SON</td><td>-8.03</td><td>-17.18</td><td>1.73</td><td>4.78</td><td>-10.31</td><td>-11.31</td></tr><tr><td>-32.20%-68.91%</td><td></td><td>6.93%</td><td>19.16%</td><td>-41.36% -45.38%</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a86a4b6e8b437fc4d12371fc4435490503aad79792e2bc19f6934fb659d93468.jpg",
+        "img_caption": [
+            "图5站点和卫星验证季节月累积降水泰勒图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Taylor diagrams of monthly accumulated precipitation validated at different stations and by GPM 佳。偏差评估中，所有试验都低估了研究区观测场 的平均降水,4个季节里REF、WSM6在所有试验中 表现较好且较稳定，REF对观测场均值的刻画仅在 夏季稍逊于WSM6、秋季差于RTG。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GPM卫星验证与站点验证结果分布较相似，试验空间相关系数在0.6左右，标准差比率和中心化均方根误差相比,站点验证结果稍差且试验间差异大。冬季REF试验表现优于其他试验，春季试验WSM6及RTG的效果较好，夏季仍然是REF试验表现较好;KF试验与站点验证类似，也出现了负相关，秋季试验WSM6表现最好；RTG试验的中心化均方根误差特别大，甚至在图幅外。偏差评估中，与站点验证普遍低估观测场均值不同，有试验在秋冬季高估降水，这与卫星对秋冬季轻量级降水监测困难相关[32]。试验REF、WSM6、RUC 的效果较好,且试验REF在4个季节表现平稳，WSM6在冬夏季优于REF,而在春秋季差于REF,RUC在冬季表现最佳，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其余季节一般。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文在中亚动力降尺度研究基础上，设计了6组参数化方案敏感性试验，以探寻天山地区气候模拟WRF模式中最优参数化方案组合，同时为天山地区气候模拟研究提供参考。利用气象站点观测数据、GPM卫星降水数据，对模式模拟的日最高、最低气温及降水进行验证，主要结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）模式对气温的模拟效果较好，且对发生于白天的日最高气温刻画优于晚上的日最低气温。日最高气温模拟的各试验（实际是各物理方案间）未见明显差异，日最低气温对陆面过程方案及云微物理方案敏感。积云对流参数化方案KF对日最高气温的模拟较好，但在日最低气温模拟（夏季）中出现极大负偏差，存在积分溢出异常。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）模式对降水的模拟效果一般，大部分试验都低估了天山地区的平均降水量。与气温模拟不同，降水模拟结果间差异较大，但没有表现特别好的试验。参考参数化方案组合(REF)对降水的模拟尚可，云微物理方案WSM6-class与观测场均值的模拟相比，REF稍差，但总体表现最佳。KF试验在模拟夏季降水时出现负值，且与观测场有一个不显著的负相关，表明积云对流方案KF在模拟天山地区时不稳定，出现异常。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）没有试验在各项评估指标中均表现最优，这与Evans 等[12]的研究结果一致,但所有试验中WSM6综合表现较好。同时，单分量云微物理方案WSM6-class比双分量Thompson方案在计算量上有所减小，这能为高计算量区域气候模拟减负，可选取试验WSM6所代表的参数化方案组合，即WSM6-class（MIC）、BMJ（CS）、MYJ/MO（PBL/SLS）、NOAH(LSM）CAM(LSW)进行天山地区气候模拟研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究主要是为了寻求区域气候模拟最优参数化方案组合，对格点代表性误差[8简单处理,后期气候模拟研究中需考虑如何将格点代表性误差最小化。降水观测站点主要集中在中国新疆境内的东天山，西天山分布较稀疏，故研究中引入GPM卫星降水数据验证，卫星验证结果与站点验证差异不大。积云对流方案KF被广泛应用在WRF气候模拟中[40-42],但在本次研究中发生积分溢出异常,即夏季模拟出现日最低气温极大偏差和负值降水，该方案可能难以处理天山地区强对流与复杂地形，尤其在环境温度较高、对流强烈的夏季，天山地区区域气候模拟不宜选用该方案，考虑调整该方案内部的垂直温湿廓线，如设置极值，以防出现积分溢出、无法收敛的情况。同时也表明，进行WRF区域气候模拟研究时，首先进行物理参数化方案敏感性评估是非常必要的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Skamarock WC,KlempJB,Dudhia J,et al.A description of the advanced research WRF version 3[R].NCAR Technical Note, NCAR/TN-475 $^ +$ STR,2008:113.   \n[2] Hu Z,Zhang C,Hu Q,et al. Temperature changes in Central Asia from 1979 to 2O11 based on multiple datasets[J]. Journal of Climate,2014,27(3):1143-1 167.   \n[3] Chen Y,Li W,Deng H,et al.Changes in Central Asia's water tower:Past,present and future[J].Scientific Reports,2016,6:35 458 - 35 464.   \n[4] Bolch T,Marchenko S.Significance of glaciers,rockglaciers and ice-rich permafrost in the Northern Tianshan as water towers under climate change conditions[J]. Snow Glacier Water Resources Asia,2009,8:132 -144.   \n[5]Narama C,Kaab A,Duishonakunov M,et al.Spatial variability of recent glacier area changes in the Tien Shan Mountains,Central Asia,using Corona（\\~1970）,Landsat（\\~2000）,and ALOS（\\~ 2007）satellite data[J]. Global and Planetary Change,2010,71(1 -2) :42 -54.   \n[6]Hong SY,Kanamitsu M.Dynamical downscaling:Fundamental issues from an NWP point of view and recommendations[J].AsiaPacific Journal of Atmospheric Sciences,2014,50(1）:83-104.   \n[7］胡海洋,胡轶佳,钟中,等.WRF 模式对中国夏季降水的动力降 尺度模拟研究[J].气象科学,2015,35（4）：413－421.[Hu Haiyang,Hu Yijia,Zhong Zhong,et al. Double nested dynamical downscaling research on summer precipitation over China with WRF model[J]. Journal of the Meteorological Sciences,2015,35 (4) :413 -421.]   \n[8]Argieso D,Hidalgo-Munioz JM,Gámiz-Fortis SR,et al.Evaluation of WRF parameterizations for climate studies over Southern Spain using a multistep regionalization[J]. Journal of Climate,2011,24 (21)：5 633-5 651.   \n[9]MooneyPA,Mullgan FJ,Fealy R.Evaluation of the sensitivityof the weather research and forecasting model to parameterization schemes for regional climates of europe over the period 1990 - 1995[J]. Jourmal of Climate,2013,26(3）:1002-1 017.   \n[10]Cretat J,Pohl B,Richard Y,et al. Uncertainties in simulating regional climate of Southern Africa:Sensitivity to physical parameterizations using WRF[J]. Climate Dynamics,2012,38(3-4）:613 -634.   \n[11]Flaounas E,Bastin S,Janicot S.Regional climate modelling of the 2006 West African monsoon:Sensitivity toconvection and planetary boundary layer parameterisation using WRF[J]. Climate Dynamics,2011,36(5 -6):1 083-1105.   \n[12]Evans JP,Ekstrom M,JiF.Evaluating the performance of a WRF physics ensemble over South-East Australia[J]. Climate Dynamics,2012,39(6) :1 241 -1 258.   \n[13]Kala J,AndrysJ,Lyons TJ,et al.Sensitivityof WRF to driving data and physics options on a seasonal time-scale for the southwest of Western Australia[J]. Climate Dynamics,2014,44(3-4）:633- 659.   \n[14]胡汝骥.中国天山自然地理[M].北京:中国环境科学出版社, 2004.[Hu Ruji.Physical Geography of the Tianshan Mountains in China[M].Beijing:China Environmental Science Press,2004.]   \n[15]Dee D P,Uppala S,Simmons A,et al. The ERA-Interim reanalysis:Configuration and performance of the data assimilation system [J].Quarterly Journal of the Royal Meteorological Society,2011, 137(656) :553 - 597.   \n[16]WangW,BarkerD,BrayJ,etal.User's guide for advanced research WRF（ARW）modeling system version 3[R]. Mesoscale and Microscale Meteorology Division-National Center for Atmospheric Research（MMM-NCAR）,2007.   \n[17]Stauffer DR,Seaman NL.Use of four-dimensional data assimilation in a limited-area mesoscale model.Part I: Experiments with synoptic-scale data[J]. Monthly Weather Review,1990,118（6）: 1 250 -1 277.   \n[18]Qiu Y,Hu Q,Zhang C.WRF simulation and downscaling of local climate in CentralAsia[J]. International Journal of Climatology, 2017,37(10) :513 -528.   \n[19]Thompson G,Field PR,Rasmussen R M,et al. Explicit forecasts of winter precipitation using an improved bulk microphysics scheme. Part II: Implementation of a new snow parameterization[J].Monthly Weather Review,2008,136(12）:5 095-5115.   \n[20]Janjic Z I. The step-mountain eta coordinate model:Further developments of the convection,viscous sublayer,and turbulence closure schemes[J].Monthly Weather Review,1994,122(5）:927-945.   \n[21]Chen F,Dudhia J. Couplinganadvanced land surface-hydrology model with the Penn State-NCAR MM5 modeling system PartI: Model implementation and sensitivity[J].Monthly Weather Review,2001,129(4) :569-585.   \n[22]Janic ZI.Nonsingular Implementation of the Mellr-Yamada Level 2.5Scheme in the NCEP Meso Model[M].US Department of Commerce,National Oceanic and Atmospheric Administration,National Weather Service,National Centers for Environmental Prediction,2001.   \n[23]Collins W D,Rasch PJ,Boville B A,et al.Description of the NCAR community atmosphere model（CAM 3.O）[R]. NCAR Tech Note,NCAR/TN-464 $^ +$ STR,2004:226   \n[24]Lim K-S S,Hong S-Y.Development of an efective double-moment cloud microphysics scheme with prognostic cloud condensation nuclei（CCN）for weather and climate models[J].Monthly Weather Review,2010,138(5):1 587 -1 612.   \n[25]Kain JS.The Kain-Fritsch convective parameterization:An update [J].Journal of Applied Meteorology,2004,43（1）:170 -181.   \n[26]Hong S-Y,Noh Y,Dudhia J.A new vertical diffusion package with an explicit treatment of entrainment processes[J]. Monthly Weather Review,2006,134(9):2 318-2 341.   \n[27］刘洋,李诚志,刘志辉,等.基于 WRF 模式的新疆巴音布鲁克盆 地强降雨天气数值模拟效果分析[J].干旱区研究,2016,33 (1）:28-37.[Liu Yang,Li Chengzhi,Liu Zhihui,et al.Analysis on the numerical simulation of heavy rainfall based on WRF model in Bayanbuluk Basin[J].Arid Zone Research,2016,33(1):28 -37.]   \n[28]Smirnova TG,Brown JM,Benjamin SG,etal.Parameterization of cold-season processes in the maps land-surface scheme[J]. Journal of Geophysical Research:Atmospheres,2000,105（D3）:4 077- 4086.   \n[29]Iacono M J,Delamere JS,Mlawer E J,et al. Radiative forcing by long-lived greenhouse gases: Calculations with the AER radiative transfer models[J]. Journal of Geophysical Research：Atmospheres,2008,113:D13103.   \n[30]Menne MJ,Durre I,Vose R S,et al.An overview of the global historical climatology network-daily database[J].Journal of Atmospheric and Oceanic Technology,2012,29(7）:897 -910.   \n[31]Huffman G J,Bolvin D T,Nelkin E J. Integrated multi-satelite ERetrievals for GPM（IMERG）technical documentation〔J]. NASA/GSFC Code,2015,612:47.   \n[32]金晓龙,邵华,张弛,等.GPM卫星降水数据在天山山区的适用 性分析[J].自然资源学报,2016,31（12）:2074－2085.［Jin Xiaolong,Shao Hua,Zhang Chi,et al.The applicability evaluation of three satelite products in Tianshan Mountains[J].Journal of Natural Resources,2016,31(12）:2 074 -2 085.]   \n[33]Hu Z,Hu Q,Zhang C,et al.Evaluation of reanalysis,spatially interpolated and satelite remotely sensed precipitation data sets in central Asia[J]. Journal of Geophysical Research: Atmospheres, 2016,121(10) :5 648 -5 663.   \n[34]Tan ML,Ibrahim AL,Duan Z,et al.Evaluation of six high-resolution satellite and ground-based precipitation products over Malaysia [J].Remote Sensing,2015,7(2）:1 504 -1 528.   \n[35］胡芩,姜大膀,范广洲.CMIP5 全球气候模式对青藏高原地区 气候模拟能力评估[J].大气科学,2014,38（5）：924－938. [Hu Qin,Jiang Dabang,Fan Guangzhou.Evaluation of CMIP5 models over the Qinghai-Tibetan Plateau[J].Chinese Journal of Atmospheric Sciences,2014,38(5） :924-938.]   \n[36]Zhang Y,Duliere V,Mote PW,et al.Evaluation of WRF and HadRM mesoscale climate simulations over the U.S.Pacific Northwest[J].Journal of Climate,2009,22(20）:5 511-5 526.   \n[37]Taylor K E.Summarizing multiple aspects of model performance in a single diagram[J]. Journal of Geophysical Research:Atmospheres,2001,106(D7）:7183-7 192.   \n[38]Jiang DP,Tian ZP,Lang X M.Reliability of climate models for China through the IPCC third to fifth assessment reports[J]. International Journal of Climatology,2016,36:1114-1 133.   \n[39]Yu S,Eder B,Dennis R,et al.New unbiased symmetric metrics for evaluation of air quality models[J].Atmospheric Science Letters, 2006,7(1) :26 -34.   \n[40]Andrys J,Lyons T J,Kala J. Multidecadal evaluation of WRF downscaling capabilities over Western Australia in simulating rainfall and temperature extremes[J].Journal of Applied Meteorology and Climatology,2015,54(2）:370 -394.   \n[41]Heikkila U,Sandvik A,Sorteberg A.Dynamical downscaling of ERA-4O in complex terrain using the WRF regional climate model[J].Climate Dynamics,2010,37(7 -8):1 551-1 564.   \n[42]Zhang M,Luo G,Hamdi R,et al.Numerical simulations of the impacts of mountain on oasis effcts inarid Central Asia[J].Atmosphere,2017,8(11) :212. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Evaluation on the Sensitivity of WRF Model in the Tianshan Mountains ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CHEN Shu-ying $^ { 1 , 2 }$ ，HU Qi³，ZHANG Chi¹，CHEN Xi’，QIU Yuan1,², DU Hao-yang1,²， WEI Cai-xia1,2 (1.State KeyLaboratoryof DesertandOasis Ecology,Xinjiang Instituteof Ecologyand Geography,ChineseAcademy ofSciences,Urumqi 830o11,Xinjiang,China;   \n2. University of Chinese Academy of Sciences,Beijing 100049,China;   \n3.School of Natural Resources and Department of Earth and Atmospheric Sciences,Universityof Nebraska-Lincoln, Lincoln 68583,USA) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Inthis study,a sensitivity analysis of the weather researchand forecasting model（WRF）todiferent physical options in the Tianshan Mountains was caried outto seek the best performance combination.Yearly simulations atseasonal scalefrom28th November,2014 to1st December,2015 were cariedout.Thestationobservations and GPM（Global Precipitation Measurement） satelite precipitation data ( $R { \\geqslant } 0 . 6$ ）were used to validate the simulated daily extreme temperatures and precipitation.This work showed that temperature was modeled by WRF well, the simulated results of daily maximum temperature ( $\\mathrm { T } 2 \\mathrm { m a x } , 0 . 8 < R < 0 . 9 5 ,$ ）were better than that of daily minimum temperature ( $\\mathrm { T } 2 \\mathrm { m i n } , 0 . 6 2 < R < 0 . 8 8 \\$ ）,and $ { \\mathrm { T } } 2  { \\mathrm { m i n } }$ was sensitive to land surface model and cloud-microphysical model.The simulatedresultsof precipitation by WRF werenot so ideal with low correlation coefficientsabout 0.6 ( $R { \\approx } 0 . 6$ ）,and they were diffrent from different schemes.The cloud-microphysical scheme WSM6 -class could be used to simulate precipitation well.Kain-Fristch cumulus/convective scheme could notbe used to describe the strong convection and complex terrin in the Tianshan Mountains as we got the very large T2min biases and negative values of precipitation in summer.The best performance combination was WSM6-class （Cloud-microphysics）,Bets-Miler-Janjic（Cumulus/Convective scheme）,Mellr-Yamada-Janjic scheme/Monin-Obukhov（Janjic Eta）scheme（Planetary boundary layer/Surface layer scheme）,NOAH（Land surface model）,and Community Atmosphere Model （Longwave and shortwave radiation）. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words：WRF；climate simulation；physical parameterisation；sensitive evaluation；Tianshan Mountains; Central Asia ",
+        "page_idx": 10
+    }
+]

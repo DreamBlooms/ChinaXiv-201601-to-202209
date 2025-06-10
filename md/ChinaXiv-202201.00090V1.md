@@ -1,0 +1,169 @@
+# 情感代理能否提高多媒体学习的效果？
+
+王燕青 龚少英 姜甜甜 吴亚男（青少年网络心理与行为教育部重点实验室,华中师范大学心理学院,武汉430079）
+
+摘要 近年来，情感代理如何影响学习受到了研究者们的高度重视。情感代理是一种能够通过言语、面部表情和肢体动作等多种方式激发学习者情感体验的教学代理。已有大多数研究发现情感代理能够有效地唤起学习者的积极情绪 $( d _ { \tt \# A \tt B ^ { \prime } \sharp \sharp } = 0 . 4 5 )$ ，提高内部动机 $( d \mathbin { \lrcorner } \mathbin { \lrcorner } \mathbin { \lrcorner } \mathbin { \wedge } ) \mathbin { \wedge } 1 = 0 . 5 2 )$ ，但对学习效果的促进作用较为微弱 $( d \mathbf { \Gamma } _ { \mathcal { R } \mathcal { H } \mathcal { F } } = 0 . 1 8$ ， $d _ { \tt \tt \equiv } { \tt \tt \tt _ { \tt / \# / \# \# } } = 0 . 3 2$ ， $d _ { \it \ddot { \textregistered } \dot { \textmu } } = 0 . 1 4$ ， $d _ { \mathcal { R } _ { E } ^ { \ast } } \simeq 0 . 3 2 )$ 。研究者们从情绪感染理论、情绪反应理论、多媒体学习认知情感理论、认知负荷理论以及干扰理论等不同的角度对情感代理的效果进行了解释。未来研究仍需要从实验操纵、边界条件、内部机制等方面进一步考察情感代理的作用。
+
+关键词情感代理，情绪，内部动机，学习结果，多媒体学习
+
+# 1引言
+
+教学视频的流行引发了教育工作者们关于"如何设计视频以优化学习"的思考(Beege et al.,2017;de Koning et al.,2018;Merkt et al.,2020)。以往的研究往往聚焦于视频设计背后的认知加工过程(如：选择、组织和整合加工)。近年来，情感加工过程(如：情绪和动机)在学习中的作用也逐渐引起了研究者的关注(龚少英等,2017; Endres et al.,2020;Lawson et al.,2021; Oker et al.,2020; Park et al.,2015; Plass et al.,2014; Uzun & Yildirim,2018,Um et al.,2012, Shangguan et al.,2020)。那么如何通过教学设计以促进情感加工过程呢？其中一种方法即在视频学习界面加入一个情感教学代理(Affective Pedagogical Agent,APA)。作为对网络学习环境中交互特征进行情绪设计的一部分，情感代理即将某些情绪设计的元素(如：快乐的面部表情)应用到教学代理身上，旨在唤起学习者的积极情绪，增加学习动机进而提高学习效果(Guo&Goh,2015)。已有大量的实证研究在科学知识学习(Horovitz & Mayer,2021; Schneider et al.,2022)、信息素养游戏(Guo et al.,2015)、网络软件使用(Baylor& Kim,2009)等不同的学习领域考察了情感代理的效果。本文基于多媒体学习中情感代理的最新研究进展，详细阐述了情感代理的概念及其实验操纵，探讨了情感代理对学习过程和学习结果影响的理论基础，并全面整理了情感代理促进或是阻碍学习的实证研究，以期为情感代理的教
+
+学价值研究提供一定的借鉴。
+
+# 2情感代理的概念及其操纵
+
+情感代理即通过面部表情、声音、肢体动作和言语信息等影响学习者情感体验的教学代理(Guo &Goh,2015)。综述以往研究，目前情感代理的类型主要分为两类：表达型情感代理和移情型情感代理。表达型情感代理是仅通过自身的情绪表达(如：使用微笑的面部表情和热情的声音)以影响学习者情绪体验的代理(Beege et al.,2020;Lawson et al.,2021; Liew et al.,2017)。移情型情感代理则是能根据学习者的学习表现或情绪状态给予情感反馈(如；点头、鼓励和共情)的代理，其目的是为了调节学习者的情绪、激励其继续努力(Ba et al.,2021,Guo et al.,2014,2015)。虽然不同的研究者对情感代理的具体操作有所不同，但无论哪种类型的情感代理都存在两个重要的共同特点：(1)情感代理是计算机屏幕上呈现的具有情绪表达能力的代理；(2)加入情感代理的目的是增加学习者的积极情绪，提高内部动机，最终促进学习。
+
+在实证研究中，研究者对表达型情感代理和移情型情感代理的设计方式有所不同。关于表达型情感代理的设计，研究者主要是对代理的面部表情、声音和姿态(手势)等特征进行操纵，使其展现出微笑的面部表情、热情的声音和高水平的身体动作等。例如，Liew 等(2017)的研究中积极代理组的大学生在一名带有微笑面部表情和热情声音代理的引导下进行学习，而中性代理组则由一名具有中性面部表情和声音的代理进行讲授。Horovitz 和 Mayer(2021)的研究中积极代理被赋予快乐的面部表情、声音、手势和身体站姿。而无聊代理组则使用无聊的面部表情、声音、手势和身体站姿等。
+
+关于移情型情感代理的操纵，研究者们主要通过平行移情或是反应移情的方式对其进行设计。平行移情即代理模仿学习者的情绪。例如，当代理觉察到学习者愉快的情绪时，也会展现出愉快的面部表情(Arroyo et al.,2009)。反应移情即代理通过言语和非言语线索(如言语鼓励、鼓掌、点头或是拍手)对学习者的情绪或行为进行反馈。例如，Terzis 等(2012)通过 Facereader 和人工检测的方法实时检测学习者在学习过程中的情绪状态，情感代理则会根据学习者的情绪展现出相同的情绪并提供具体的反馈。例如，当检测到学习者的表情为开心时，情感代理也会表现出开心的表情，并同时呈现“这个测验让你很开心，继续加油哦"这一类文本信息给予情绪支持。Guo 和 Goh(2016)让学习者学习一款信息素养的游戏，积极代理组在学习者答错时，会展现一个鼓励性的微笑，并鼓励他们"不要气馁，仔细阅读一遍问题”。而在中性代理的条件下，代理在整个游戏过程中仅保持中性的面部表情以及不包含情感鼓励的反馈(如：“是的，这是正确的")。
+
+综上，目前关于情感代理的操纵主要是通过对嵌入视频材料中的教学代理进行情绪设计得以实现。尽管相对全面地考虑了情感代理的设计方式，但目前的操纵仍存在一些值得思考的问题。首先，大量研究在进行情感代理设计时忽略了代理类型的影响。例如，Horovitz和 Mayer (2021)的研究中使用了真人代理和虚拟代理，而Guo 和Goh(2016)使用了幽灵形状的代理。Lawson 等(2021)在探究学习者能否识别情感代理表达的情绪时发现，在某些高唤醒的情绪上(快乐和沮丧)，真人教师展示的情绪相较于虚拟代理更加形象生动且更容易被学习者识别。因此，代理类型的不同可能会影响情感代理的操纵效果乃至最终的研究结果。其次，研究者们对情感代理的设计水平并没有进行严格的控制。部分研究使用单一的情绪线索(如：微笑)(Liew etal.,2016)，而另一些研究则使用多种情绪线索(如，微笑、声音和手势等)(Baet al.,2021)，具体哪种水平的情绪线索最为有效，目前的研究并未给出答案。
+
+# 3情感代理能否唤起学习者的积极情绪？
+
+在探究情感代理对学习者情绪的影响之前，一个值得关注的问题是学习者能否识别出代理所表达的情绪？从理论视角来看，多媒体学习认知情感理论(Cognitive-Affective Theory of Learmingwith Media,CATLM; Moreno& Mayer,2007)认为当教学视频中呈现一个情感代理时，学习过程中的首要关键步骤即学习者需要识别出代理所展示的情绪状态(积极、中性或消极)。对教学代理情绪的识别不仅是情感代理操纵成功与否的重要检验，更是研究者们考察情感代理作用的重要切入点。
+
+Lawson 等(2021)考察了大学生在观看一个教师讲授二项概率分布的数学课程时，能否识别代理所表现出的快乐、满足、沮丧或无聊的情绪。结果发现，当学习者观看快乐代理的视频时，在快乐情绪上的评分要显著高于沮丧和无聊，但是在与满意情绪的区分上效果并不理想。而当观看满意、沮丧或无聊代理的视频时，学习者可以较好地区分代理所表达的不同情绪。Chen等(2012)发现在计算机辅助学习环境下学习者能较好地识别代理所表达的愤怒、悲伤、惊讶、快乐和中性的情绪，但是对害怕、担忧和厌恶情绪的识别并不准确。由此可见，学习者并非均能成功地识别出代理所表达的情绪，因此在正式实验前对代理情绪识别的检验十分必要。
+
+学习者对代理情绪的识别仅是检验情感代理效果的第一步，而加入情感代理最重要的目的之一是考察这一教学设计是否会影响学习者的情绪。根据情绪感染理论(Emotional Contagion Theory),一个人的情绪状态容易受到另一个人情绪表达的影响(Hatfield et al.,1994)。在社会交往中，人们会不自觉地通过面部表情、肢体动作和姿势等非言语信息来表达自己的情绪，并感知他人所传达的这些信号。研究表明情绪感染也有可能发生在人机交互的过程中(Tsai et al.,2012)，具体而言，界面代理的情绪会直接影响学习者的情绪(封晓伟,2020; Kramer et al.,2013; Ku et al.,2005;Liew et al,2016)。另外，情绪反应理论(Emotional Response Theory)认为教师热情的言语和非言语线索与学习者的情感反应之间存在着密切的关系(Horan etal.,2012)。根据情绪反应理论，教学代理积极的言语和非言语线索能诱发学习者积极的情绪体验。相似地，CATLM指出当学习者识别出教学代理的积极情绪后，也会表现出与代理相同的情绪(例如，看到快乐的代理，学生也会变得快乐)。
+
+为了更清晰地展示情感代理的效果，本文计算了相关实证研究的效应量Cohen's $d$ (详见表1),并借鉴Fiorella 和 Mayer (2015)计算效应量中值(median effect size)的方法对情感代理的效果进行量化呈现，以期在一定程度上克服单纯的综述难以评价效应大小的缺陷。文献汇总的标准如下：（1)研究需为实证；（2）研究主要对比情感代理与非情感代理(中性)和无情感代理的差异，但有1项研究对比的是积极情感代理和无聊情感代理的差异(Horovitz＆ Mayer,2021)。（3）研究中报告了详细的因变量指标(情绪、动机、认知负荷和学习结果)。从表1汇总的结果发现，明确报告了学习者情绪状态的16项研究中，10项研究发现教学代理的情绪同步唤起了学习者的积极情绪。例如，Liew等(2017)发现相比于中性代理组，热情代理组的学习者报告了更多的积极情绪。Wang 等(2019)同样发现具有丰富面部表情的代理唤起了学习者更高水平的情绪。另外，5项研究没有发现情感代理对学习者情绪的影响(van der Meij,2013;Beege et al.,2020)，1项研究发现情感代理降低了学习者的积极情绪(Liew et al., 2016)。
+
+综上，大部分研究支持了情感代理对学习者积极情绪的作用，通过计算情感代理在学习者积极情绪上的效应量，发现产生的效应量中值为 $d _ { \mathcal { \bar { H } } \mathcal { \bar { H } } \mathcal { \bar { H } } \mathcal { H } \mathcal { L } \mathcal { H } } = 0 . 4 5$ 。值得注意的是，以往部分研究忽视了学习者对代理情绪识别的检验，因此那些未发现情感代理对情绪存在积极影响的研究，到底是由于情感代理操纵不成功，还是情感代理本身无效？还需要未来的研究继续探讨。
+
+# 4情感代理对学习者的主观感受是否有影响？
+
+如果情感代理能唤起学习者的积极情绪，那这些积极情绪会对学习过程中的学习动机和认知负荷等主观感受产生怎样的影响？学习者对自己学习过程中动机水平和认知负荷程度等主观体验的感知往往与后期学习效果密切相关，因此对学习者主观体验的考察通常也是检验情感代理是否有效的重要方面。
+
+根据情绪反应理论，教师的言语和非言语线索所诱发的积极情绪，能增加学习者的学习动机，进而使他们产生趋近学习的行为。CATLM(Moreno& Mayer,2007)认为当情绪代理唤起了学习者的积极情绪后，学习者情绪的变化会提高动机水平。通过表1的整理可以发现，17项报告了学习动机的研究中，16项发现情感代理提高了学习者的动机水平(Baylor＆Ryu,2003; Saerbeck etal.,2010;Horovitz& Mayer,2021;van der Meij,2013)。例如，van der Meij(2013)在考察移情型代理对软件教程学习的影响时，发现情感代理组的学习者在训练过程中更容易获得心流体验，并报告了更高的动机水平。Horovitz 和 Mayer(2021)发现无论是快乐的真人代理还是虚拟代理均提高了学习者的内部动机。1项研究发现当学习者与面带微笑的代理进行学习时，学习动机反而存在降低的趋势(Liew et al.,2016)。原因可能是学习者认为代理的微笑是虚假的(fake smiles)而不是真诚的(genuinesmiles)，因此影响了他们对代理的信任程度，进而降低了动机水平。从总体上看，尽管不同的研究中情感代理的设计方式略有不同，但绝大多数研究都证明了情感代理在增加学习者动机方面的相对优势，效应量中值为 $d _ { \mathbf { \Phi } \wedge \mathbf { \Phi } _ { \# / \sharp \sharp \sharp \sharp / \sharp } } = 0 . 5 2$ 。
+
+认知负荷理论(cognitive load theory,CLT)提出了三种类型的认知负荷(Sweller,2005)：内部认知负荷(intrinsic cognitive load,ICL)、外部认知负荷(external cognitive load,ECL)和相关认知负荷(germane cognitive load,GCL)。ICL通常与学习材料本身的复杂程度相关，而 ECL主要由非优化的教学设计引起。在学习过程中这两种认知负荷水平较高，学习效果可能较差。GCL 是指学习者在理解学习内容时用于图式建构和生成性加工的认知负荷，较高的GCL 有利于学习。为了避免认知负荷超载，教学设计者要尽力降低 ECL，增加GCL，合理利用有限的认知资源，帮助学习者达到最好的学习效果。根据认知负荷理论，将教学代理纳入多媒体学习环境可能会增加外部认知负荷，因为学习者需要处理额外的(与学习无关的)信息。在探究情感代理和认知负荷之间关系的实证研究中，8项测量了内部认知负荷的研究均未发现情感代理对学习者内部认知负荷的影响，效应量中值为d内部认知负荷 $= - 0 . 0 1$ 。内部认知负荷是由学习材料本身的复杂程度和学习者自身的知识经验决定，较难通过教学设计进行改善，因此不难理解情感代理在内部认知负荷上出现的"零"结果。在8项报告了外部认知负荷的研究中，7项研究发现情感代理并不会带来额外的认知负荷。仅1项研究发现当学习者处于高心理负荷条件下，情感代理才会增加外部认知负荷(Beege et al.,2020,Exp,la)，对效应量中值的计算得出 $d _ { \mathstrut } _ { \mathcal { H } / \mathcal { P } ; \mathcal { V } ; \mathcal { V } } \chi _ { \mathcal { H } \mathcal { H } } \nearrow = 0 . 0 9$ 。在7项报告了相关认知负荷的研究中，3项研究显示情感代理提高了学习者的相关认知负荷(封晓伟,2020,Exp.2;谢科,2020,Exp.1; Bege et al.,2020)，引导学习者投入较多的心理资源到理解学习材料中；3项没有发现情感代理和中性代理在相关认知负荷上的差异。但有1项研究在以非母语大学生为研究对象探究代理热情声音的作用时，发现代理若赋有韵律较强的热情声音时反而降低了学习者的相关认知负荷(Liew et al.,2020)，这说明非母语的学习者可能在韵律较为平缓的声音条件下更能投入到学习中(Davis et al.,2019)，计算发现情感代理在相关认知负荷上产生的效应量中值为 $d _ { \mathbf { \Phi } \mathbf { \# } \mathbf { \Xi } \mathbf { \# } \mathbf { \Xi } \mathbf { \# } \mathbf { \Xi } \mathbf { \# } \mathbf { \Xi } } = 0 . 0 8$ 。从目前的研究现状来看，情感代理在降低外部认知负荷和增加相关认知负荷上的作用不太明显，但这一结果也从侧面表明在视频学习中加入情感代理可能并不会增加学习者的外部认知负荷。
+
+尽管研究者们对情感代理对学习者主观感受的影响进行了探究，然而目前在情感代理研究背景下对学习者主观感受的考察仍然十分有限，主要集中在学习动机和认知负荷两个方面，未来从更广泛的角度对情感代理带来的主观感受进行测量（例如，学习满意度、学习兴趣、成就感等）并探究其与学习效果之间的因果关系，或许可以更加全面地了解情感代理起作用的内部原因。
+
+# 5情感代理能促进学习效果吗？
+
+尽管在视频学习中加入情感代理可能唤起了学习者的积极情绪，对学习动机等主观感受有一定的积极作用，但是考虑到实际的教学实践，研究者们更加关注情感代理在学习效果上的作用。根据情绪反应理论和CATLM理论，情感代理能通过影响学习者的趋近学习行为或动机水平进而促进学习结果。但是基于干扰理论(interference theory,Moreno et al.,2001)，情感代理是与学习内容无关的材料，在信息加工过程中，情感代理的面部表情、手势等信息会吸引学习者的注意，从而减少学习者对学习内容的注意和加工，最终干扰学习结果。综合以往的文献发现，研究者们主要通过四个指标来衡量情感代理对学习效果的影响，分别是：保持测验、理解测验、迁移测验和联合测验。保持测验主要考察学习者对学习材料的回忆或识记效果，测验答案往往在学习材料中可以直接找到(Mayer,2009)。理解测验通常用于检验学习者对学习材料中重要信息的理解效果(Um et al.,2012)。迁移测验则主要考察学习者利用所学知识解决新问题的能力(Mayer,2009)。联合测验用来测量学习者总体的学习效果(如：保持测验、理解测验和迁移测验之和)
+
+从表1汇总的32项报告了学习结果的实证研究来看，14项研究发现在视频学习中加入情感代理，能够促进学习。例如，Liew 等(2017)设计了两个 3D 的教学代理讲授编程相关的知识，其中一个代理传达热情的言语和非言语行为，另一个则展现出中性的行为。结果发现大学生在热情代理条件下的学习成绩更好。Bringula 等(2018)同样发现通过面部表情对学习者行为进行反馈的代理显著提高了7年级学生的数学成绩。van der Meij(2013)的研究让小学生分别在有或无情感代理条件下学习计算机相关的知识，结果发现情感代理组的学习者在学习后测上表现更好。然而也有17项研究表明情感代理组和对照组在学习效果上不存在显著的差异。例如，Horovitz 和 Mayer(2021)的研究发现观看快乐代理的大学生在“二项概率"知识的学习中并没有比无聊代理组的学习者表现更好。Guo 等人也没有发现情感代理在学习效果上的积极作用(Guo et al.,2015;Guo&Goh,2016)。甚至有1 项研究表明在视频学习中加入一个具有面部表情的代理反而阻碍了学习者对知识的理解(Frechette& Moreno,2010)。通过计算情感代理在学习效果上的效应量中值得出， $d _ { \mathit { \# } \mathit { \# } } = 0 . 1 8$ ， $d _ { \it \equiv }$ ，d$\mathit { i f f s } = 0 . 1 4 , d \mathit { z f } = 0 . 3 2 \circ$ （204号
+
+从以上的文献整理，结合表1的汇总结果不难看出，情感代理在学习效果上的作用并不稳健。出现不稳定结果的原因可能是情感代理的作用受到某些调节变量的影响。首先，学习者的个体特征与情感代理的效果有密切联系。例如，(1)学习者的工作记忆容量。人们在工作记忆中可同时处理信息的数量是有限的，当接收信息的数量超过一定的限度可能会干扰学习效果(Mayer,2014,2020)。例如，Beege 等(2020)发现，当学习者工作记忆容量较小时，情感代理会增加学习者的额外认知负荷从而干扰他们对关键信息的加工，进而阻碍学习。而当学习者工作记忆容量较大时，情感代理则会促进学习。(2)学习者的年级水平。Hemandez 等(2009)通过四个系列的实验检验智能导学环境中情感代理的作用，结果发现情感代理对低年级学习者更加有效，而对高年级学习者的理解成绩没有促进作用。其次，情感代理的类型也是导致以往研究结果不一致的原因。例如，Liew等(2016)研究发现具有微笑表情的表达型情感代理对学习者的情绪、动机和学习结果均没有促进作用；但Liew 等(2017)对代理进行改进，使用一个具有微笑表情、头部动作和热情评论的移情型情感代理，结果发现了情感代理的积极作用。此外，任务类型也可能对情感代理的效果起调节作用。有研究发现在线性代数等学习任务中，情感代理提高了学习成绩(Bringula et al.,2018)；而在信息素养教育游戏等非典型学习任务中，情感代理在学习效果上的积极作用却消失了(Guo&Goh,2016)。最后，有研究认为测验的时间也可能会影响情感代理的效果，情感代理的有效性更有可能在延迟测验上展现出来(Horovitz& Mayer,2021)。未来对这些潜在调节变量的考察或许是继续挖掘情感代理效果的重要突破口。
+
+表1情感代理对学习者情绪、主观感受和学习结果的影响  
+
+<html><body><table><tr><td>研究</td><td>n</td><td>被试群体</td><td>情感代理的操纵</td><td>学习主题</td><td>积极情绪</td><td>主观感受</td><td>学习结果</td></tr><tr><td>Ba et al.,2021</td><td>40</td><td>大学生</td><td>情绪表达/情绪反馈(面部表情、声音和言语反馈)</td><td>问题解决模型</td><td>E*(0.75)</td><td>1</td><td>T* (0.77)</td></tr><tr><td>Baylor & Ryu,2003</td><td>67</td><td>大学生</td><td>情绪反馈(提供激励信息和情感支持)</td><td>数学应用题</td><td>1</td><td>M (0.82)</td><td></td></tr><tr><td>Baylor & Kim,2009</td><td>236</td><td>大学生</td><td>情绪表达(丰富的面部表情)</td><td>软件程序设计</td><td>/</td><td>1</td><td>T* (0.12)</td></tr><tr><td>Beege et al.,2020; Exp.1a</td><td>58</td><td>中学生</td><td>情绪表达(热情的声音)</td><td>太阳系中的行星</td><td>E(0.28)</td><td>ICL(0.40),ECL*(-0.62) GCL*(0.86)</td><td>R(0.46)T*(</td></tr><tr><td>Beege et al., 2020; Exp. 1b</td><td>60</td><td>中学生</td><td>情绪表达(热情的声音)</td><td>太阳系中的行星</td><td>E(0.17)</td><td>ICL(-0.11),ECL*(0.59) GCL (-0.12)</td><td>R (-0.36) T (0</td></tr><tr><td>Bringula et al., 2018</td><td>62</td><td>中学生</td><td>情绪表达/情绪反馈(提供文本和表情反馈)</td><td>求解单变量线性代数方程</td><td>1</td><td>/</td><td>C* (4.5)</td></tr><tr><td>Chen et al., 2012; Exp. 2</td><td>30</td><td>大学生</td><td>情绪反馈(通过面部表情、手势、声音等对学习者的情 绪给以反馈)</td><td>计算机相关知识</td><td>/</td><td>M (0.47)</td><td>U*(0.24)</td></tr><tr><td>Frechette & Moreno,2010</td><td>86</td><td>大学生</td><td>情绪表达(微笑)</td><td>天文学知识</td><td>/</td><td>M*(0.53)</td><td>R(-0.16) C* T (-0.41)</td></tr><tr><td>Guo & Goh,2016</td><td>159</td><td>大学生</td><td>情绪表达/情绪反馈（，性微笑和言语，点头，鼓</td><td>信息素养教育</td><td>E*(0.44)</td><td>M (0.56)</td><td>U(0.27)</td></tr><tr><td>Guo et al., 2014</td><td>121</td><td>大学生</td><td>情绪表达/情绪反馈(愉快的面部表情，恰当的手势，鼓</td><td>同上</td><td>E*(0.50)</td><td>M (0.51)</td><td>R(0.27)</td></tr><tr><td>Guo et al., 2015</td><td>285</td><td>大学生</td><td>情绪表达/情绪反馈(愉快的面部表情，恰当的手势，鼓</td><td>同上</td><td>E*(0.46)</td><td>M (0.52)</td><td>R(0.19)</td></tr><tr><td>Hernandez et al., 2009</td><td>17</td><td>六年级</td><td>情绪反馈(言语或是行为鼓励)</td><td>教育游戏</td><td>/</td><td>/</td><td>U*(1.62)</td></tr><tr><td>Hernandez et al., 2009</td><td>20</td><td>初中一年级</td><td>同上</td><td>同上</td><td>/</td><td>/</td><td>U(0.40)</td></tr><tr><td>Hernandez et al.,2009</td><td>11</td><td>初中二年级</td><td>同上</td><td>同上</td><td>1</td><td>/</td><td>U(-0.49)</td></tr><tr><td>Hernandez et al., 2009</td><td>14</td><td>初中三年级</td><td>同上</td><td>同上</td><td>/</td><td>/</td><td>U(0.24)</td></tr><tr><td>Horovitz& Mayer,2021</td><td>112</td><td>大学生</td><td>情绪表达(快乐的面部表情，身体姿态，声音)</td><td>二项式概率</td><td>E* (1.82)</td><td>M* (1.84)</td><td>U(0.37)</td></tr><tr><td>Jaques, 2009</td><td>39</td><td>大学生</td><td>情绪反馈(情绪活跃的态度和鼓励性信息)</td><td>世界时钟</td><td>/</td><td>/</td><td>U(0.48)</td></tr><tr><td>Kim et al., 2007; Exp. 1</td><td>142</td><td>大学生</td><td>情绪表达(通过面部表情，言语和头动表达情绪)</td><td>教学设计和基本概念和程序</td><td></td><td>/</td><td>R(0.07)</td></tr><tr><td>Kim et al., 2007; Exp. 2</td><td>56</td><td>大学生</td><td>同上</td><td>同上</td><td>/</td><td>M (0.09)</td><td>/</td></tr><tr><td>Liew et al.,2016; Exp.1</td><td>107</td><td>大学生</td><td>情绪表达(微笑的面部表情)</td><td>C语言编程</td><td>E(-0.35)</td><td>M* (-0.31)</td><td>C (0.19)</td></tr><tr><td>Liew et al., 2017</td><td>72</td><td>大学生</td><td>情绪表达/情绪反馈(微笑，热情的声音/点头和评论)</td><td>同上</td><td>E (0.58)</td><td>M* (0.67),ECL(-0.12)</td><td>C (0.62)</td></tr></table></body></html>
+
+<html><body><table><tr><td>Liew et al., 2020; Exp.1</td><td>76</td><td>大学生</td><td>情绪表达(热情的声音)</td><td>编程算法</td><td></td><td>GCL(0.15)</td><td>T (0.55)</td></tr><tr><td>Liew et al., 2020; Exp.1</td><td>52</td><td>大学生</td><td>同上</td><td>同上</td><td>1</td><td>ICL(-0.45), ECL</td><td>T (0.53)</td></tr><tr><td>Roselyn Lee et al.,2007</td><td>76</td><td>大学生</td><td>情绪反馈(表达共情情绪，给与口头的支持和反馈)</td><td>习语学习</td><td>/</td><td>(-0.08), GCL*(-0.57) /</td><td>R* (1.02)</td></tr><tr><td>Saerbeck et al., 2010</td><td>16</td><td>小学生</td><td>情绪表达/情绪反馈（答对时开心，答错时伤心)</td><td>语言学习</td><td>/</td><td>M* (1.26)</td><td>R* (1.82)</td></tr><tr><td>van der Meij, 2013</td><td>50</td><td>小学生</td><td>情绪表达/情绪反馈(微笑和手势动作和言语反馈)</td><td>计算机能力</td><td>E(0.31)</td><td>M* (0.43)</td><td>R (0.68)</td></tr><tr><td>van der Meij et al., 2015</td><td>61</td><td>中学生</td><td>情绪反馈(面部表情，头动，言语反馈)</td><td>物理动力学知识</td><td>/</td><td>/</td><td>R(0.17)</td></tr><tr><td>Veletsianos, 2009</td><td>59</td><td>大学生</td><td>情绪表达(逼真的面部表情)</td><td>技术使用问题</td><td>/</td><td>/</td><td>U*(0.71)</td></tr><tr><td>Wang et al., 2019</td><td>69</td><td>大学生</td><td>情绪表达(丰富的面部表情)</td><td>微课设计</td><td>E(1.77)</td><td>/</td><td>R* (0.09)</td></tr><tr><td rowspan="2">封晓伟,2020; Exp.1</td><td rowspan="2">66</td><td rowspan="2">大学生</td><td rowspan="2">情绪表达(微笑的面部表情和热情的声音)</td><td rowspan="2">化学突触传递过程</td><td rowspan="2">E*(0.33)</td><td>M(0.76),ICL(0.20)</td><td rowspan="2">R(-0.12) T(-0.1)</td></tr><tr><td></td></tr><tr><td rowspan="3">封晓伟,2020; Exp.2</td><td rowspan="3">95</td><td rowspan="3">大学生</td><td rowspan="3">同上</td><td rowspan="3">同上</td><td rowspan="3">E*(0.68)</td><td>ECL(0.35), GCL(-0.01)</td><td rowspan="3">R(-0.16) T(-0.28</td></tr><tr><td>M(0.63),ICL(-0.07) ECL(0.11), GCL*(0.43)</td></tr><tr><td>M (0.46), ICL(-0.34)</td></tr><tr><td rowspan="2">封晓伟,2020; Exp.3</td><td rowspan="2">111 </td><td rowspan="2">大学生</td><td rowspan="2">同上</td><td rowspan="2">同上</td><td rowspan="2">E*(0.47)</td><td></td><td rowspan="2">R(0.26) T(0.16)</td></tr><tr><td>ECL(0.09),GCL (0.08)</td></tr><tr><td>谢科,2020; Exp.1</td><td>64</td><td>大学生</td><td>情绪反馈(通过面部表情和言语对学习者情绪进行反馈)</td><td>心理统计学</td><td>E(0.07)</td><td>M(-0.04), ICL(0.31)</td><td>T (0.21)</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td>ECL(0.29), GCL (0.41)</td><td rowspan="2"></td></tr><tr><td>M*(0.35), ICL(0.06) ECL(0.09), GCL (-0.12)</td></tr><tr><td>谢科,2020;Exp.2</td><td>117</td><td>大学生</td><td>同上</td><td>同上</td><td>E(0.19)</td><td></td><td>T (0.11)</td></tr></table></body></html>
+
+注：R指保持成绩；C指理解成绩；T指迁移成绩;U指联合测验成绩(不区分具体测验）；E指积极情绪;M指动机;ICL指内部认知负荷;ECL指外部认知负荷；GCL指相关认知负荷；指情感代理和对照组之间的差异显著;/指研究中未报告具体的值;括号中的值表示相应研究中情感代理和非情感代理相比效应量 $d$ 值。
+
+# 6总结与展望
+
+通过以上论述，结合表1中相关的结果，可知，以往大部分研究者发现在视频学习中加入一个情感教学代理能够唤起学习者的积极情绪 $( d \therefore \tt { f } ) \tt { \Psi } ( \tt { a } . 4 5 ) \tt { \Psi } ( \tt { a } . 4 5 ) ,$ ，提高其动机水平 $( d \digamma )$ 。但情感代理在认知负荷 $( d _ { \parallel \min } ) \ O _ { \downarrow \downarrow \parallel \ddag \uparrow } \chi _ { \parallel \cdot \uparrow \uparrow } = - 0 . 0 1$ ； $d$ 外部认知负荷 $= 0 . 0 9$ ； $d$ 相关认知负荷 $= 0 . 0 8 \dot { }$ )上的作用十分微弱，在学习结果 $\stackrel { \prime } { Q } _ { \stackrel {  } { \scriptscriptstyle 1 } \stackrel {  } { \scriptscriptstyle 1 } } = 0 . 1 8$ ； $d _ { \tt \equiv \# \# } = 0 . 3 2$ ； $d _ { \mathrm { \scriptsize ~ i f } \hbar \gg } = 0 . 1 4$ ； $d _ { \mathbb { H } _ { \Xi } } \triangle _ { \mathbf { \ell } } = 0 . 3 2 \rangle$ 上的效果则较为微弱。关于情感代理的潜在作用，研究者们从情绪感染理论，情绪反应理论，多媒体学习认知情感理论等不同的角度对其进行解释，即情感代理可能通过影响学习者的情绪和动机(或趋近行为)，进而提高学习效果(见图 1)。少数发现情感代理阻碍学习的研究为干扰理论提供了支持，即教学代理丰富的面部表情和手势动作可能会吸引学习者的注意力，减少对关键信息的注意，因此干扰学习效果。不过，仍有较多的研究没有发现情感代理和非情感代理在学习效果上的差异，这也启示我们，情感代理在学习结果上的稳健性仍需要继续检验。总之，在上述不同理论的指导下，研究者们对能否将情感代理应用于教学实践进行了尝试，尽管研究结果存在不一致，但整体而言，在积极情感代理条件下，学习者更加快乐，更有动力。因此，在教育实践中，教学设计者可以考虑为学习者呈现一个积极的教学代理以帮助他们更加快乐地学习。
+
+![](images/4ae385eb405855892d731ae00d8fbcde46fd45e27b44234c0a3ff0a0cbcf63bc.jpg)  
+情绪感染理论
+
+图1基于情绪感染理论、情绪反应理论和CATLM视角下情感代理促进学习的加工过程（注：箭头表示可能的因果关系方向）
+
+注：参考Hatfieldetal.,1994; Horan etal.,2012;Horovitz&Mayer,2O21;Lawson etal.,021;Moreno&Mayer,2007未来研究可以从以下不同的方面对情感代理的作用及其机制开展更加系统的探究：
+
+第一，关注情感代理的操纵和评定方法。为了检验情感代理的有效性，早期的研究比较了使用不同设计元素(面部表情、声音、言语反馈和身体动作等)的情感代理和中性代理在学习效果上的差异。但具体哪一种或者哪几种元素相结合的效果最好？是不是情绪设计的元素越多越有效？未来的研究可以对此进行更加详细地探究。另外，目前关于情感代理的评定方法仍存在局限。部分研究者采用主观报告的方法对情感代理的设计效果进行了评估，但是这种主观报告法的有效性仍值得商榷。甚至有部分研究并未检验学习者能否成功识别代理的情绪(Baylor＆ Kim,2009;Guo etal.,2015;Liew et al.,2017)。未来需要加强对情感代理设计效果的评估，比如在学习结束后加入一些问题：“你认为情感代理的积极面部表情是否明显且可识别？”（1-十分不明显，5-十分明显）、“你认为情感代理的声音是否热情”（1-很不热情，5-很热情）等。并采用多种评定方法(主观报告 $^ +$ 客观测量)检验情感代理设计的有效性。
+
+第二，考察影响情感代理效果的边界条件。综述以往研究发现情感代理的有效性可能受到潜在调节变量的影响，如情感代理类型(Liew et al.,2016; 2017)，学习者工作记忆的容量(Beege et al,2020)，学习者年级水平(Hermandez et al.，2009)等。除了以上提到的变量外，其他诸如学习者的先前知识经验和情绪状态、学习材料难度、学习时长等因素的作用还尚未被探讨。值得一提的是，学习者在学习过程中经历各种各样的情绪状态，不仅包括积极情绪，也可能体验到消极情绪，而具有高情绪调节能力的学习者能够有效地调节学习过程中消极的情绪体验，保持最佳的学习状态;低情绪调节能力者则在情绪调节方面存在困难，在学习中更容易体验到负面的情绪(Graziano et al,2007)。从这一角度出发，加入一个积极的情感代理可能更有利于低情绪调节能力者。因此，未来对学习者情绪调节能力这一重要调节变量的考察也是一个不容忽视的方面。
+
+第三，探究情感代理背后的影响机制。随着教育神经科学的兴起，越来越多的研究者使用眼动、功能性近红外光谱脑成像(functional near-infrared spectroscopy,fNIRS)等技术揭示学习现象背后的认知机制。有研究发现眼动测量中的瞳孔扩张可能是反映学习过程中认知负荷高低的指标(Lee etal.,2020)。未来的研究者可以借鉴此方法考察情感代理所引发的额外认知负荷是否能引起瞳孔的变化，而瞳孔变化又与学习效果之间存在怎样的联系？另外，以往的研究基于现有理论推测情感代理可能作为与学习内容无关的装饰性材料干扰学习者对关键信息的注意，未来的研究可以采用直接的眼动测量指标(如：对兴趣区的注视点，注视时间和注视次数等)检验情感代理到底是作为引导注意的指导者，还是分散注意的干扰物，进而深入了解学习者在学习过程中对情感代理的注意模式。除此之外，未来的研究也可以采用 fNIRS 或脑电等技术探讨不同类型的教学代理(如：积极情感代理，中性代理）对学习者大脑活动的影响，考察哪些脑区的激活与情感代理促进或是阻碍学习效果有关？从而帮助揭示情感代理效果背后的神经机制。例如，最近的一项研究表明在视频学习中学习者对学习材料的积极加工可能与额叶(frontal cortex)和中央皮层(central cortex)更高的0 波震荡有关(Piet al.,2021)，那么情感代理是否能够引起额叶与中央皮层的0波震荡呢？未来可以借助脑电扫描技术(EEG)深入探讨。
+
+第四，关注理论本身的完善。尽管情感代理的促进理论和阻碍理论均得到了不同程度的支持，然而需要注意的是，对于情感代理既没有促进学习也未阻碍学习的现象，两种假设均不能给出合理的解释。通过汇总以往研究发现，部分研究并没有发现情感代理组和控制组(中性代理或无聊代理)在学习效果上的差异(Guo et al.,2015;Kim et al.,2007)，以往研究将“零"结果归因于潜在的边界条件，未来如何将这些调节变量考虑到理论框架内以提高情感代理相关理论的解释力度也是研究者们需要考虑的问题。另外，目前关于情感代理对学习效果影响的内部机制，研究者们均是基于理论推测，缺乏对情绪、动机等内部主观变量和学习效果之间关系的考察，特别是部分研究发现情感代理唤起了学习者的情绪和动机，但是并没有提高学习效果(Horovitz& Mayer,2021)。未来研究可以通过建构中介效应模型来揭示情感代理如何通过过程变量(情绪、动机、情境兴趣等)影响学习结果来验证以往的理论假设以及寻求新的理论证据。
+
+第五，从不同的方面挖掘情感代理的效果。以往关于情绪代理的研究主要关注情感代理对学习者积极的情感状态、动机和学习效果的直接影响(Beege et al.,2020; Liew et al.,207)，在一定程度上忽略了情感代理其他方面的效果，例如情感代理能否帮助学习者免受负面影响。在学习过程中学习者需要对自己的内在加工过程进行调节，成功的自我调节可以帮助他们适应环境的挑战，然而失败的调节可能导致自我损耗(ego depletion)，进而干扰学习效果(Baumeister,2014)。那么加入情感代理能否减弱自我损耗对学习成绩的损害呢？另外，在真实的学习环境中，学习者不仅能体验到积极的情绪，也可能存在消极的情绪。在视频学习中加入一个积极的情感代理能否降低学习者的消极情绪？未来研究可以对此进行更加全面地探究。
+
+第六，同时考虑情感加工过程和认知加工过程。情绪和认知在学习过程中同等重要，因此在教学实践中，教师应该考虑如何同时唤起学习者的情绪状态，并且引导学习者进行积极的认知加工。Fiorella 和 Mayer(2015)年整理了8种学习过程中常用的生成性加工策略(如：自我生成绘图、自我生成解释)，并呼呼将有效的教学设计和恰当的生成性学习策略相结合以实现最优的教学效果(Fiorella et al.,2020)。基于此，研究者们可以尝试探究将情感代理和学习者生成性加工策略相结合是否能更好地促进学习？此外，教学代理不仅可以提供情绪反馈，还可以给予认知支持，但目前仅谢科(2020)将情绪反馈和认知反馈相结合探究情感代理的效果，未来研究可以借鉴此思路，采用Facereader 面部表情识别技术结合出声思维的方式深入探查学习过程中情绪和认知之间的动态关系，从而促进学习者更愉快、更高效地学习。
+
+第七，考察情感代理的生态效应，将情感代理推广到现实的教学环境中。目前关于情感代理的研究大都以方便取样的原则选取大学生作为被试，使用短时长的学习材料(小于 $1 0 ~ \mathrm { m i n } \dot { }$ ，且在控制严格的实验室环境下进行。未来研究可以在更加真实的教学情境中以小学生或中学生为被试，使用更长时长的学习材料（如： $3 0 \mathrm { { m i n } }$ ）检验情感代理的效果，从而推进实验研究向现实教学的有效过渡。
+
+# 参考文献
+
+封晓伟.(2020).情感代理对多媒体学习的影响:学习者个体特征的调节作用.(硕士论文).华中师范大学,武汉.   
+谢科.(2020).代理的情绪反馈和认知反馈对形成性评估的影响.(硕士论文).华中师范大学,武汉   
+龚少英,上官晨雨,翟奎虎,郭雅薇.(2017).情绪设计对多媒体学习的影响.心理学报,49(6),771-782.   
+Arroyo,1.,Woolf,B.P.,Royer,J.M.,&Tai,M.Afective gendered learning companions.InProc.20o9 Conference on Artificial Intelligence inEducation: Building LearningSystems that Care:From Knowledge Representationto Affective Modelling (eds Dimitrova,V. etal.) 41-48 (IOS Press,2009).   
+Ba,S.,Stein,D.,Liu,Q.,Long,T.,Xie,K.,&Wu,L.(2021).Examining theeffectsofapedagogicaagent withdualchanel emotional cueson learner emotions，cognitive load，and knowledge transfer performance.Journal of Educational Computing Research. 0735633121992421. htps://doi.0rg/10.1177/0735633121992421   
+Baylor,A.L.,& Kim,S.(2o09). Designing nonverbal communication forpedagogicalagents:When lessis more.Computers in Human Behavior,25(2), 450-457.   
+Baylor,A.L.,&Ryu,J. (2oo3).The effctsof imageand animation in enhancing pedagogical agent persona.Journalof Educational Computing Research, 28(4),373-394.   
+Baumeister, R. F. (2014). Self-regulation,ego depletion,and inhibition. Neuropsychologia, 65,313-319.   
+Beege,M.,Schneider,S.,Nebel,S.,&Rey,G.D. (202O).Does theeffectofenthusiasminapedagogical agent'soice depend on mental load in the learner's working memory?. Computers in Human Behavior， ll2,106483. https://doi.0rg/10.1016/j.chb.2020.106483   
+Beege,M.,Schneider,S.,Nebel,S.,& Rey,G.D.(2O17).Look intomy eyes! Exploring theeffct of addressing in educational videos. Learning and Instruction, 49, 113-120.   
+Bringula,R.P.,FosgateJr,I C.O.,Garcia,N.P.R.,&Yrobe,J.L.M. (218).Eectsofpedagogicalagentsonstudents mathematics performance: A comparison between two versions.Journal of Educational Computing Research,56(5), 701-722.   
+Chen, G.D.,Lee,J.H., Wang,C.Y.,Chao,P.Y.,Li,L.Y.,&Lee,T.Y. (2O12).An empathicavatarinacomputer-aided learning programto encourage and persuade learners.Journal of Educational Technology & Society,15(2),62-72.   
+Davis，R.O.，Vincent,J.，& Park，T.(2019). Reconsidering the voice principle with non-native language speakers. Computers & Education,140,103605. htps://doi.org/10.1016/j.compedu.2019.103605   
+de Koning,B.,Hoogerheide,V.,&Boucheix,J.M.(2O18).Developmentsand trends in learning with instructional video. Computers in Human Behavior,89,395-398.   
+Endres,T.,Weyreter,S.,Renkl,A.,&Eitel,A.(O2O).Whenand whydoes emotionaldesign fosterlearning?Evidencefor
+
+situational interest as amediatorof increased persistence.Journalof ComputerAssistedLearning,36(4),514-525.
+
+Fiorella,L.,& Mayer,R.E.(2O15).Learning as a generativeactivity: Eight learning strategiesthat promoteunderstanding New York, NY: Cambridge University Press.
+
+Fiorella,L.,Stul,A.T.,Kuhlman,S.,& Mayer,R.E. (22).Fosteringgenerativelearing fromvideolessons:Benefitsof instructor-generated drawingsand learner-generatedexplanations.JournalofEducational Psychology,12(5),895-906.   
+Frechete,C.,& Moreno,R. (20l0).The rolesof animated pedagogical agents'presenceand nonverbal communication in multimedia learning environments. Journal of Media Psychology, 22(2), 61-72.   
+Graziano,P.A.,Reavis,R.D.,Keane,S.P.,&Calkins,S.D.(2Oo7).Theroleof emotionregulationandchildren'searly academic success. Journal of school psychology, 45(1),3-19.   
+Guo,Y.R.,&Goh,D.H.L. (2O15).Afect inembodied pedagogical agents: Meta-analyticreview.Journal ofEducational Computing Research,53(1),124-149.   
+Guo,Y R.,&Goh,D.H.L. (2016).Evaluationof affective embodiedagents inaninformation literacy game. Computers & Education,103,59-75.   
+Guo,Y.R.,Goh,D.H.-L,&Luyt,B.(2O14). Usingafectiveembodied agentsin information literacyeducation.Paper presented at the Digital Libraries, London.   
+Guo,Y.R.,Goh,D.H.L.,Luyt,B.,Sin,S.C.J.,&Ang,R.P.(2015).The efectivenesand acceptance of an affective information literacy tutorial. Computers & Education,87,368-384.   
+Hatfield,E.,Cacioppo,J.T.,&Rapson,R.L.(1994).Emotionalcontagion.Cambridge,UK: Cambridge UniversityPress.   
+Hernandez,Y.,Sucar,L.E.,&Conati,C.(o9).Icorporatinganaffctivebehaviormodelintaneducational game.Paper presented at the FLAIRS Conference, Sanibel Island, Florida.   
+Horan,S.M.,Martin,M.M.,& Weber,K.(2O12). Understanding emotionalresponse theory:Theroleof instructorpower and justice messages. Communication Quarterly, 60(2),210-233.   
+Horovitz,T.,& Mayer,R.E.(2O21).Learning with humanand virtual instructors who display happyorbored emotions in video lectures. Computers in Human Behavior,119,106724. htps:/doi.org/10.1016/j.chb.2021.106724   
+Jaques,P.A.,Lehmann,M.,&PestyS.(2O09).Evaluating theafective tacticsofanemotionalpedagogicalagent.In Proceedings of the2009 ACM symposiumon Applied Computing,Honolulu,Hawai,9-12 March 2009 (pp.104-109) New York: ACM Press.   
+Kim,Y.,Baylor,A.L.,& Shen,E. (20o7).Pedagogicalagents as learning companions: The impact ofagentemotion and gender. Journal of Computer Assisted Learning,23(3), 220-234.   
+Kramer,N.,Kopp,S.,Becker-Asano,C.,& Sommer,N.(20l3).Smileandthe world willsmile with you—Theeffectsofa
+
+virtualagent'ssmileonusers'evaluationandbehavior.InternationalJouralofHuman-ComputerStudies,71(3),3-
+
+349.   
+Ku,J.,Jang,H.J.,KiK.U,Kim,J.H,PrkS.H,e,J.,&im,S..).Exprimentaesulsfive valence and arousal to avatar's facial expressions. Cyber Psychology & Behavior, 8(5), 493-503.   
+Lawson,A.P.,Mayer,R.E,Adamo-Villani,N.,Benes,B.,Lei,X,&Cheng,J.(2021).Recognizing theemotionaltateof human and virtual instructors.Computers in Human Behavior,14,106554. htps:/doi.org/10.1016/j.chb.2020.106554   
+Lee,J.Y.,Donkers,J.，Jarodzka,H.，Sellenrad,G.，&van Merrienboer,J.J. (2020).Diferent effectsofpausingon cognitive load in a medical simulation game. Computers in Human Behavior,l1o,106385.   
+Liew,T.W.,Tan,S.M.,Tan,T.M.,&Kew,S.N. (2O2).Doesspeaker's voice enthusiasmaffectsocialcue,cognitiveload and transfer in multimedia learning?. Information and Learning Sciences,121(3),117-135.   
+Liew,T.W.,Zin,N.A.M.,& Sahari,N. (2O17).Exploring theaffective,motivationalandcognitiveeffectsof pedagogical agent enthusiasm in a multimedia learning environment. Human-centric Computing and Information Sciences,7(l),1- 21.   
+Liew,T.W.,Zin,N.A.M.,Sahari,N.,&Tan,S.M.(o16).Theeects ofapedagogicalagent'ssmiling expressiononthe learner's emotions and motivation in a virtual learning environment.The International Review of Research in Open and Distributed Learning,17(5),249-266.   
+Mayer,R. E. (2oo9). Multimedia learning (2nd ed). New York: Cambridge University Press.   
+Mayer,R. E. (Ed.)，(2O14). The Cambridge handbook of multimedia learning (2nded.). New York, NY:Cambridge University Press.   
+Mayer,R.E.(202O).Cognitive theory of multimedia learning.InR.E.Mayer&L.Fiorela (Eds.).The Cambridge handbook of multimedia learning (3rd ed.). New York,NY: Cambridge University Press.   
+Merkt,M.,Lux,S., Hoogerheide,V.,van Gog,T.，& Schwan,S. (2020). A change of scenery: Does the setting of an instructional video affect learning?. Journal of Educationa Psychology,ll2(6),1273-1283.   
+Moreno,R.,& Mayer,R.E.(20o7).Interactive multimodal learningenvironments.Educational Psychology Review,19, 309-326.   
+Moreno,R., Mayer,R.E.,Spires,H.A.,&Lester,J. C. (2Oo1).Thecase for social agency incomputer-based teaching: Do students learn more deeply when they interact with animated pedagogical agents? Cognition and Instruction,19,177- 213.   
+Oker,A.,Pecune,F.,&Declercq, C. (2O2O). Virtual tutorand pupil interaction: Astudyof empathic fedback as extrinsic motivation for learning. Education and Information Technologies, 25,3643-3658.
+
+Park,B.,Knrzr,la,J.L,&rnken,.().Emoioaldigadposiiemoonsiultimedialag:A eyetracking study on the use of anthropomorphisms. Computers & Education,86,30-42.
+
+Pi, Z., Zhang,Y., Zhou, W., Xu,K., Chen,Y., Yang,J.,& Zhao,Q. (2O21). Learning by explaining to oneself and a peer enhances learners' theta and alpha oscilations while watching video lectures. British Journal of Educational Technology, 52(2), 659-679.   
+Plass,J.L.,Heidig,S.,Hayward,E.O.Homer,B.D,&Um,E. (14).Emotionaldesiginmultimedialearing:ctsof shape and color on affect and learning. Learning and Instruction,29,128-140.   
+RoselynLee,J.E.,NassC.,Brave,S.B.,Morishima,Y.,Nakajima,H.,&Yamada,R. (2Oo).Thecaseforcaringcolearers: The effects of a computer-mediated colearner agent on trust and learning. Journal of Communication,57(2),183-204.   
+Saerbeck,M.,Schut,T.,Bartneck,C.,&Janse,M.D. (2010,April).Expressiverobots ineducation: varying thedegreeof social supportive behavior ofa robotic tutor. In Proceedings of the SIGCHI conference on human factors incomputing systems (CHI) (pp. 1613-1622). Atlanta, GA.   
+Schneider, S.， Krieglstein,F., Beege,M.，& Rey, G. D. (2022). The impact of video lecturers’ nonverbal communication on learning-An experiment on gestures and facial expressions of pedagogical agents. Computers & Education,176, 104350. https://doi.org/10.1016/j.compedu.2021.104350   
+Shangguan,C.,Gong,S.,Guo,Y.,Wang,X.,&Lu,J. (2020).The effectsof emotional design onmiddleschool students’ multimedia learning: The role of learners'prior knowledge. Educational Psychology, 40(9),1076-1093.   
+Sweler,J. (2Oo5). Implicationsof cognitive load theory for multimedia learning. InR.E. Mayer (Ed.)，The Cambridge handbook of multimedia learning (pp. 19-30). New York: Cambridge University Press.   
+Terzis,V.,Moridis,C.N.，& Economides,A.A. (2Ol2).The effect of emotional feedback on behavioral intention touse computer-based assessment. Computers & Education,59(2),710-721.   
+Tsai,J.,Bowring,E.,Marsela,S.,Wood,W.,&Tambe,M. (2Ol2).Astudyofemotionalcontagion withvirtualcharacters. In Y.Nakano,M. Neff,A.Paiva,&M. Walker (Eds.), Intelligent Virtual Agents (pp.81-88).BerlinHeidelberg:Springer.   
+Um,E.R.,Plas,J.L.,Hayward,E.O.,& Homer,B.D.(2012).Emotional design in multimedia learning.Journalof Educational Psychology, 104(2), 485-498.   
+Uzun,A.M.,& Yldrim,Z. (2018).Exploring the effect ofusing different levels ofemotional design features inmultimedia science learning. Computers & Education,119,112-128.   
+van der Meij, H. (2O13).Motivating agents in software tutorials. Computers in human behavior,29(3),845-857.   
+van der Meij,H.，vander Meij,J.,& Harmsen,R.(2O15).Animated pedagogicalagents effectsonenhancing student motivation and learning in a science inquiry learning environment.Educational technology research and development,
+
+63(3),381-403.
+
+Veletsianos，G.(2O09).The impact and implicationsof virtual character expresiveness on learningand agent-learner interactions. Journal of Computer Assisted Learning, 25(4),345-357.   
+Wang,Y.,Liu,Q.,Chen,W.,Wang,Q.,&Stein,D.(2019).Effectsof instructor'sfacialexpressionsonstudents'leaing with video lectures.British Journal of Educational Technology,50(3),1381-1395.
+
+# Can affective pedagogical agent facilitate multimedia learning?
+
+WANG Yanqing, GONG Shaoying, JIANG Tiantian,Wu Yanan (Key Laboratory ofAdolescent Cyberpsychology and Behavior, Ministry of Education, and School of Psychology, Central China Normal University, Wuhan 430079, China)
+
+Abstract: Recently,educational psychologists have paid much atention to whether adding an affective pedagogical agent to the computer screen can induce learners’positive emotions,increase intrinsic motivation and facilitate cognitive processes and learning. Affective pedagogical agents are lifelike characters designed to elicit certain affective experiences in learners through multiple modalities such as facial expressions,voices,and body movements. Previous research has examined the role of afective pedagogical agents in multimedia learning. Most empirical studies found that affective pedagogical agents positively affect the learner's emotional ( $\mathit { \Pi } _ { \mathcal { A } }$ posive emotions $= 0 . 4 5$ ）and motivational state ( $d$ intrinsic motivation $\ c =$ （204号 0.52). Nevertheless, affective pedagogical agents have weak effects on learning performance $\textit { \textbf { ( d ) } } _ { r e t e n t i o n } =$ 0.18, $d$ comprehension $= 0 . 3 2$ ， $d  { t r a n s f e r } = 0 . 1 4$ ， $d \ u n i t e = 0 . 3 2$ ). Five theories were used to explain the effects of affective pedagogical agents: Emotional contagion theory,emotional response theory,cognitive-affective theory of learning with media,cognitive load theory,and interference theory.Further research should focus on the manipulation,boundary conditions,and underlying mechanisms, etc.
+
+Key words: affective pedagogical agent, positive emotions, motivation,learning performance, multimedia learning

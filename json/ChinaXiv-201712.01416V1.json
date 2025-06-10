@@ -1,0 +1,462 @@
+[
+    {
+        "type": "text",
+        "text": "建筑信息模型的Web端重建与三维交互方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李昌华 张晗玥 周方晓（西安建筑科技大学信息与控制工程学院，西安710055）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】在BIM技术的背景下,针对现有的BIM服务器多为C/S架构,对电脑软硬件有较高要求、无法跨平台等问题,实现 BIM模型在Web端的重建,并实现了对模型的拾取,获取其属性。其方法主要分为两部分,第一部分实现 BIM模型从Revit软件中的导出,第二部实现对其导出的模型信息在Web端的三维交互,具有良好的用户体验。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词】建筑信息模型；WebGL；三维交互",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)02-0047-05   \n【DOI]10.16670/j.cnki.cn11 -5823/tu.2017.02.08 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "建筑信息模型（Building Information Modeling）是近年来兴起的新概念，在建筑的设计、施工、运维的全生命周期中应用价值极高，已成为建筑业的新趋势[1]。目前主流的BIM服务器多为C/S 架构,而C/S架构的桌面应用程序对电脑软硬件和软件使用者都有一定的要求[2]。随着互联网的发展和移动终端的普及，在Web端展示BIM模型已成为BIM从业人员的潜在需求,具有极高应用价值。因此,对于建筑信息模型在Web端重建与三维交互的研究是十分必要的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文基于在Revit平台下建立好的模型，使用C#语言，通过对Revit进行二次开发，提取出建筑模型几何数据及属性信息。利用WebGL技术构建三维交互平台并加载三维模型，利用计算机图形学技术实现鼠标和网页三维场景中的模型进行互动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Revit中的BIM数据导出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RevitArchitecture软件是Autodesk公司专门对建筑行业开发的BIM工具，在建筑领域应用非常广泛[3]。Revit平台是开放的,它具有强大的二次开发端口，提取模型信息可以在Revit平台下通过RevitAPI相关属性来实现。对Revit模型信息的提取，其中包括模型几何数据，材质、纹理等属性数据。由于本技术应用前提是在三维视图中，因此程序开始时要判断doc.ActiveView是否为View3D对象，当不在三维视图下弹出警告框。RevitAPI提供了专门的导出类CustomExporter，通过自定义一个导出类CMyExporter,继承IExportContext类，实现接口里面所有的方法，IExportContext导出类中的Onmaterial（)方法，可以获取到材质相关信息，插件还调用了OnPolymesh,OnElementBegin、OnElementEnd 等函数接口，用于获取Revit模型的节点属性，例如坐标点、材质信息、贴图数据等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "该数据导出插件开发步骤如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "依据上述步骤，可以在Revit软件上开发自动提取建筑信息模型数据的功能插件。应用具体操作如下：在VisualStudio 2013平台上，引用Revit接口定义文件Revit-API.dll和RevitAPIUI.dll以及部分的 Revit API提供的命名空间,使用C#语言按以上流程完成插件的开发。然后再Revit平台下选取附加模块调用该插件即可。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7a453fb5d1ca1135794437df17acb4fa4bec30664a7ee57e4914aca9bef747f.jpg",
+        "img_caption": [
+            "图1数据导出插件开发步骤"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在数据导出插件的开发过程中，需要解决以下关键问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)获取几何数据",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "n 例如墙的几何数据主要是一个由面和边组成的几何实体，由以下步骤可获取：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1)通过墙类型的几何属性Geometry获取GeometryElement的实例。这个实例里面存储了所有相关的几何对象，如实体、线等;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2)遍历GeometryElement实例来得到一个几何实体 solid,这个几何实体 solid的Faces 和Edges 属性里面包含了所有的几何面和边；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3)遍历Faces属性得到所有几何面;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4)遍历Edges属性得到所有的几何边。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)获取材质信息",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "获取模型材质信息，主要使用Revit中所提供的API,IExportContex导出类中的OnMaterial（）方法，Material对象中包含材质名，颜色，填充图形等信息。核心代码如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "//利用Material 的AppearanceAssetId 属性得",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "到AppearanceAssetId ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ElementId appearanceId $\\mathbf { \\tau } = \\mathbf { \\tau }$ material. AppearanceAssetId; ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "//通过上面取得的 AppearanceAssetId 取得AppearanceAssetElement",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AppearanceAssetElement appearanceElem $\\mathbf { \\tau } = \\mathbf { \\tau }$ document.GetElement（appearanceId）asAppearanceAssetElement; ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "//获得Asset ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Asset theAsset $\\mathbf { \\tau } = \\mathbf { \\tau }$ appearanceElem.GetRender-ingAsset(） ;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2BIM模型的Web端重建及交互 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过以上插件，已将Revit中构建的模型转换成JOSN格式文件，JSON是可被WebGL解析的通用数据格式。本文借助WebGL的第三方引擎Three.js来实现其功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 模型载入",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Three.js需要依托网页才能发挥作用，系统需要建立在HTML 结构之上，获取最新Three.js包之后,在HTML 的 head 里面的 $\\angle$ script $>$ 标签里面嵌入Three.js库文件，首先初始化一个渲染器对象render,然后创建一个场景，在Three.js中场景，场景用于容纳所有的其他对象,再往场景中添加一个相机，相机定义了我们从哪里观察场景，WebGL中的相机有两种：正投影相机和透视相机，透视相机类似于真实世界中的相机，近处物体比例大，远处物体比例小,本文使用透视相机,最后再调用渲染器的render（）方法，来处理场景和相机。Three.js的基本渲染结构如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2c70e7ccc1eaccbf35c9567c47e33205f7610c8f7a208b3be2ade099c325db2.jpg",
+        "img_caption": [
+            "图2Three.js基本渲染结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Three.js的编程原理较为简单，一般流程为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)对渲染器、场景三维对象、相机进行初始化设置；2)将三维对象添加到场景中;3)将场景和相机添加到渲染器中;4)用渲染器将其在屏幕上渲染出来。在Three.js中，把模型加载到浏览器的过程如图3所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "服务器上的模型 浏览器下载模 JavaScript解析  \n文件，以文本方 模型文件，并生→ 显示在场景中式存储 型文件 成Mesh模型",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 服务器上的模型文件是以文本方式存储，存储了模型的顶点、材质等信息,第二步是浏览器下载文本文件,使用 javascript的异步请求来实现,然后JavaScript解析文本文件，生成一个geometry再生成Mesh 模型,最后将其加入到场景中。在Three.js 中THREE.Mesh用来表示网格模型，它的构造函数是THREE. Mesh $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ function（geometry,material）,其中第义了顶点和顶点之间的连接关系,第二个参数定义了模型材质属性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "? 导出后的JSON文件在前文中有详细的分析，Three.js框架中内置了THREE.JSONLoader（）类,该类可以对JSON格式的模型进行解析，并载入到浏览器中，将前文所导出的JSON格式Revit模型通过该类可载入到浏览器,载入时需要获取Revit 模型的几何信息，包括顶点数据，面数据，及材质信息，包括所导出的模型材质、属性。载入的模型放入Three.js的场景中，GPU会读取顶点信息，并通过顶点着色器中来处理每个顶点，完成模型绘制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 模型拾取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在前文已获取模型JSON文件的基础上，为实现用户与建筑信息模型在Web端的三维交互，就要使用WebGL技术，然而WebGL只是三维图形库，其中并没有内置任何点击检测的方法，这需要经过一系列的数学变化来自己构建。其中最为重要的三维交互之一就是处理并找出鼠标指针位于哪一页面元素之上，这种交互式的可视化程序可以大大增强用户体验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先要实现鼠标的点击检测，第一步要获得射线的矢量。鼠标点击屏幕上p'点时，对应于投影空间中的点为p，在视图空间中p的对应点是v，在视图空间中的原点和v两点相连形成一条射线。最后还需要将射线的坐标转换为世界坐标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4685a6d3b4690b95708e387f0a872bbe89e7961170038e7e5047d760e46db769.jpg",
+        "img_caption": [
+            "图3模型加载过程",
+            "图4模型拾取射线相交法例图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)将鼠标点击屏幕的点坐标变换为投影空间中近裁剪面 $( \\mathrm {  ~ A ~ } ^ { \\prime } , \\mathrm {  ~ B ~ } ^ { \\prime } , \\mathrm {  ~ C ~ } ^ { \\prime } , \\mathrm {  ~ D ~ } ^ { \\prime } )$ 中的坐标,定Z轴深度为0.5。使用数学的解析几何运算，得到以下变换公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\mathrm { p _ { x } } = \\mathrm { ( ~ x - s c r e e n W i d t h / 2 ) / s c r e e n W i d t h } * 2 } \\\\ { \\mathrm { p _ { y } } = - \\mathrm { ( ~ y - s c r e e n H e i g t h / 2 ) s c r e e n H e i g h t } * 2 } \\\\ { \\mathrm { p _ { z } } = 0 . 5 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)为得到在视图空间中的坐标,对上一步中得到的投影空间中的点坐标进行矩阵变换，将投影空间中原点设为近剪裁面 $( \\mathrm {  ~ A ~ } ^ { \\prime } , \\mathrm {  ~ B ~ } ^ { \\prime } , \\mathrm {  ~ C ~ } ^ { \\prime } , \\mathrm {  ~ D ~ } ^ { \\prime } )$ 的中心。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\ p M a t r i x \\ } = \\left[ \\begin{array} { c c c c } { { w } } & { { 0 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { \\mathrm { h } } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { \\mathrm { Q } } } & { { 1 } } \\\\ { { 0 } } & { { 0 } } & { { - \\mathrm { Q Z n } } } & { { 0 } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\Sigma } = \\left[ \\begin{array} { c c c c } { \\mathrm { m 1 1 } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { \\mathrm { m 2 2 } } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\mathrm { m 3 3 } } & { 1 } \\\\ { 0 } & { 0 } & { \\mathrm { m 4 3 } } & { 0 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { { \\mathrm { w } = c o t { \\mathrm { ( } \\mathrm { a n g } { \\mathrm { 1 / 2 } } \\mathrm { ) } } * \\mathrm { ( } \\mathrm { 1 / a s p e c t ) } } } \\\\ { { \\mathrm { h } = c o t { \\mathrm { ( } \\mathrm { a n g } { \\mathrm { 1 / 2 } } \\mathrm { ) } } } } \\\\ { { \\mathrm { a s p e c t } = \\mathrm { s c r e e n W i d t h / s c r e e n H e i g t h } } } \\\\ { { \\mathrm { Q } = \\mathrm { Z f / { \\mathrm { ( } Z f - Z n \\mathrm { ) } } } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(2)是投影变换矩阵，从原点0到近剪裁面A'B'C'D'的最短距离用 $Z _ { \\mathrm { { n } } }$ 表示，从原点0到远剪裁面ABCD 的最短距离用Zf表示,ang1表示原点到 $\\mathrm { ~ A ~ } ^ { \\prime } \\mathrm { ~ B ~ } ^ { \\prime }$ 中点的夹角值，screenWidth代表屏幕的宽度，screenHeight代表屏幕的高度。在经过投影空间变换和视图空间变换后,推导出投影空间中的点 $\\mathrm { ~ \\bf ~ p ~ }$ 和视图空间中的点 $\\mathbf { v }$ 的关系如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathrm { p _ { x } * Z n , p _ { y } * Z n , Z n } ) = ( \\mathrm { v _ { x } * p \\_ M a t r i x . \\ m l { 1 , v _ { y } } }$ $\\mathrm { ^ * p M a t r i x . \\ m 2 2 , v _ { z } * Q - Q Z n , v _ { z } ) }$ (4) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathrm { P _ { x } , P _ { y } , P _ { z } }$ 分别表示 $\\mathrm { ~ \\bf ~ p ~ }$ 点的 $\\mathbf { x } , \\mathbf { y } , \\mathbf { z }$ 轴坐标点，而 $\\mathrm { \\Delta V _ { x } , V _ { y } , V _ { z } }$ 分别表示 $\\mathrm { \\Delta V }$ 的 $\\mathbf { x } , \\mathbf { y } , \\mathbf { z }$ 轴坐标点。由式(5)可得下式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathbf { \\Theta } _ { \\mathbf { p } } ^ { \\mathsf { p } _ { \\mathrm { ~ x ~ } } * \\mathrm { Z n } = \\mathbf { v } _ { \\mathrm { x } } * \\mathrm { p M a t r i x . } \\mathrm { m } 1 1 } } \\\\ & { \\mathbf { \\Theta } _ { \\mathbf { p } } ^ { \\mathsf { p } } * \\mathrm { Z n } = \\mathbf { v } _ { \\mathrm { y } } * \\mathrm { p M a t r i x . } \\mathrm { m } 2 2 } \\\\ & { \\mathbf { \\Theta } _ { \\mathbf { p } _ { \\mathrm { z } } * \\mathrm { Z n } = \\mathbf { v } _ { \\mathrm { z } } * \\mathrm { Q } - \\mathbf { Q } \\mathrm { Z n } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4因为 $\\mathrm { ~ \\bf ~ P ~ }$ 点的 $\\textbf { z }$ 值为0,所以 $\\mathrm { \\Delta V }$ 点的各坐标可用式 $\\textcircled{6}$ 计算得出：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathbb { I } \\left[ \\begin{array} { l } { \\mathrm { v _ { x } = p _ { x } * Z n / p M a t r i x . ~ m 1 } 1 } \\\\ { \\mathrm { v _ { y } = p _ { y } * Z n / p M a t r i x . ~ m 2 } 2 } \\\\ { \\mathrm { v _ { z } = Z n } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)通过计算得出射线的方向矢量由式(6)得到射线方向矢量的各分量计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\boldsymbol { v } _ { \\mathrm { - } } \\mathrm { d i r } _ { \\mathrm { - } } \\mathrm { x } = ( \\mathrm { v } _ { \\mathrm { x } } - 0 ) / \\mathrm { Z n } } \\\\ { \\nu _ { \\mathrm { - } } \\mathrm { d i r } _ { \\mathrm { - } } \\mathrm { y } = ( \\mathrm { v } _ { \\mathrm { y } } - 0 ) / \\mathrm { Z n } } \\\\ { \\nu _ { \\mathrm { - } } \\mathrm { d i r } _ { \\mathrm { - } } \\mathrm { z } = ( \\mathrm { v } _ { \\mathrm { z } } - 0 ) / \\mathrm { Z n } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一(4)最后计算世界坐标下的射线向量，使用矩阵变换,Vworldspace 为待求的世界向量，Vviewspace为视图空间下的向量，Mview-1代表视图空间转换到世界空间的矩阵。根据矩阵转换公式就可以得到在世界空间下射线的向量[4]",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { w o r l d s p a c e } ~ = ~ M _ { v i e w } ^ { - 1 } * V ^ { v i e w s p a c e }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在Three.js框架内实现鼠标点击监测的过程如图5所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实现了鼠标的点击检测，匹配到被点击的图元对象，获得该图元的ID标识，通过遍历每个图元所特有的ID标识可获取该图元属性信息，利用HT-ML5技术将其打印到屏幕上，实现图元属性查询。实验结果如图6所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 三维交互 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用Three.js中的createCameraControls方法创建一个新的THREE.TrackballControls 实例,传入了",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "获取鼠标坐标并转换为客户端坐   \n标THREE.Vector2(x,y)   \n客户端坐标转换为视口坐标   \nTHREE.Vector3(x,y,z)   \n创建一条射线Ray并获取相交物   \n体THREE.Ray()   \n通过距离排序选取最近相交物体   \nintersectObject(object,recursive) ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/55c4a33f7c262ec505c3a3b087008cc284ffd959da70f84ad02a91a7d4486c49.jpg",
+        "img_caption": [
+            "图5Three.js点击检测过程",
+            "图6三维模型可视化单击显示属性信息"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一个相机对象和渲染器的DOM元素。通过对相机控制的属性设置来控制平移、缩放、旋转等行为。TrackballControls控制方式如表1所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/92267872c28393097919daed773c6d5f3b557604fc79973f6a54a00448b0c49b.jpg",
+        "table_caption": [
+            "表1TrackballControls 控制方式"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>鼠标操作</td><td>动作</td></tr><tr><td>按住左键、拖动</td><td>在场景中转动相机</td></tr><tr><td>转动滚轮</td><td>放大缩小</td></tr><tr><td>按住中键、拖动</td><td>放大缩小</td></tr><tr><td>按住右键、拖动</td><td>在场景中平移</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过轨迹球来实现对相机的操控，同时还需要添加Web端对鼠标的监听事件来对鼠标发出的点击、滚轮事件来实现与三维模型的实时交互。根据左右键按下的不同，鼠标事件会用不同的方式来移动相机。通过鼠标操作“放大”“缩小”“平移”“视角调整”就可快捷查看任意关键部位，不会出现卡机不流畅等现象。图7分别是对模型旋转、缩放变化图组。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/166c2ab8fe60ee24305d012e28584ce07fb7bf74daf03824413b05336cb6623b.jpg",
+        "img_caption": [
+            "图7三维模型缩放旋转效果展示"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "32结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文介绍了Revit模型数据导出插件的开发过程，在VisualStudio2013平台下通过对RevitAPI的调用,实现Revit 模型的几何数据,属性信息导出为JSON格式文件。在此基础上开发了建筑信息模型Web 端的可视化平台，使用Three.js框架完成模型的导入,实现模型属性查询功能,完成模型在Web端的三维交互。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1］何清华，杨德磊，郑弦.国外建筑信息模型应用理论与实践现状分析综述[J].科技管理研究，2015(3）.  \n[2］陈宜.浅谈BIM(Revit)的软硬件配置[J].建筑创作，2011(12):146-151.  \n[3」纪博雅，戚振强.国内BIM技术研究现状[J」.科技管理研究，2015(6)：184-190.  \n［4］高辰飞，徐建良.基于WebGL的海洋样品三维可视化研究[J].中国科技博览，2014（3）：428-429.  \n[5]Autodesk,Inc.Revit2O12APIDeveloper's Guide，2011.  \n［6］郑华，宿景芳.面向Web的三维模型生成与处理技术[J].现代电子技术，2015（12）.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Building Information Model of Web Side Reconstruction and 3D Interaction Method Research ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Li Changhua，Zhang Hanyue，Zhou Fangxiao (Xi'an University of Architecture and Technology，Xi'an 71OO55，China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Under the present BIM technology background,in view that most existing BIM servers are under C/S frameworks,issues appears in higher request on thecomputer software and hardware,failure incros-platformoperation,etc.This reportsour work on implementing reconstruction of BIM modelon web,and realizing collecting the building model and acquiringits properties.The method is mainlydivided into two parts.Firstly,the BIM model is derived from Revit,andsecondly,the model information exported can achieve 3D interaction on Web,which possesses good user experience. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:Building Information Model；WebGL；3D Interaction ",
+        "page_idx": 4
+    }
+]

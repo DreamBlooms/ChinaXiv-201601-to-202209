@@ -1,0 +1,187 @@
+# 影响砂姜黑土麦田土壤氮素转化的生物学因素及其对供氮量的响应
+
+熊淑萍」　丁世杰」　王小纯1,²　马新明1\*\*　吴懿鑫」　杜　盼」　于旭昊1(1．河南农业大学农学院/河南粮食作物协同创新中心/小麦玉米作物学国家重点实验室郑州450002;
+
+# 2．河南农业大学生命科学学院郑州450002)
+
+摘要砂姜黑土是我国典型的中低产田土壤类型，研究其在土壤微生物驱动下的氮素转化过程及其机制，可为定向调控土壤氮素转化过程，提高氮素利用效率并减少其负面效应提供科学依据。试验设置 $0 \mathrm { \ k g ^ { . } h m } ^ { - 2 }$ 、$1 2 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $2 2 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $3 3 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } 4$ 个供氮量，分别于冬小麦越冬期、拔节期、抽穗期、开花期、灌桨期和成熟期测定小麦根际土壤氮转化相关微生物作用(氨化作用、硝化作用和反硝化作用)强度和土壤氮素转化相关酶(脲酶、蛋白酶)活性，土壤净氮素矿化速率、土壤硝态氮和铵态氮含量的变化，研究影响砂姜黑土麦田土壤氮素转化的生物学因素及其对不同供氮量的响应。结果表明，土壤氮素转化微生物及酶活跃时期为拔节到灌浆期，灌浆期之后土壤氨化作用强度、硝化作用强度、脲酶及蛋白酶活性降低；土壤净氮素矿化速率与土壤氮素转化微生物作用强度及酶活性的活跃期较为一致，在开花前后达到最高。除脲酶活性随供氮量增加持续上升外，土壤氮素转化微生物作用强度及蛋白酶活性均随供氮量的增加，在 $2 2 5 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 处理下达到最高，进一步增加供氮量至 $3 3 0 ~ \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，微生物作用强度及酶活性均表现出不同程度的下降。可见，砂姜黑土土壤氮素转化的活跃期与小麦需氮高峰期基本一致，有利于冬小麦的生长。但由于砂姜黑土中土壤硝化作用强度较低，土壤硝化能力有限，从而降低了氮素可利用性，且增加了土壤氨挥发损失的潜在风险。在一定范围内增加供氮量，有利于土壤氮素的转化，但供氮过多 $( 3 3 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } )$ 则不利于砂姜黑土供氮能力的提高。
+
+关键词　砂姜黑土小麦　氮素转化　微生物酶　氮素矿化速率中图分类号：S154.3 文献标识码：A 文章编号:1671-3990(2016)05-0563-09
+
+# Biological factors influencing nitrogen transformation in wheat fields of lime concreted black soils and their response to different nitrogen supplications
+
+XIONG Shuping1, DING Shijie', WANG Xiaochun1,2, MA Xinming1\*\*,WU Yixin1, DU Pan1, YU Xuhao1 (1.College ofAgronomy,HenanAgricultural University/Collaborative Innovation CenterofHenan Grain Crops／National Key Laboratoryof Wheat and Maize Crop Science,Zhengzhou 45o02,China; 2.Colege ofLife Sciences,Henan Agricultural University, Zhengzhou 450002,China)
+
+AbstractLime concretion black soil isa typical low-yield fieldsoilin China.Ithas heavyclaystructureand poor permeability,which cause imbalances in effective nutrient supply,lowcapacitysoil nutrient suplyand poor production performance.Inordertoimprovecrop yields,chemicalfertilizer(especiallynitrogen fertilizer)has been excessvelyapplied during production seasons.This has led to wastage of agriculturalresources and environmental pollution.Soil microbes have always playedapredominantrole inthe processesof soilnitrogen transformation.To provide scientific basis fordirectional adjustmentstocontroltheprocessesofsoil nitrogentransformation,improvenitrogenuseeficiencyandreducerelated negative efects,theprocesses and mechanismsofnitrogen transformation drivenbysoil microrganisms werestudied.Afiled experiment wascarredout from 2O12to 2015 in Xiangcheng, Henan Province,China.The experimental setup was a single factorial design with four nitrogen rates $( 0 \mathrm { \ k g } \cdot \mathrm { h m } ^ { - 2 }$ ， $1 2 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ， $2 2 5 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ and $3 3 0 \mathrm { \ k g { \cdot h m } ^ { - 2 } } .$ ).The biochemical action intensityof soil nitrogen transformation microorganisms (ammonification,nitrificationanddenitrification),ureaseactivity, protease activity,net nitrogen mineralizationrate,andcontent of nitrateandammonium nitrogen of rhizosphere soil were determined atdiferent wheat growth stages toexplore the biological factors influencing nitrogen transformation and their response todiferent nitrogen application in wheat fieldsof limeconcretion black soils.Theresults showed thatthe active period of soil nitrogen transformation microorganismsand enzymes was from jointing stage to grain-filing stage.Afterthat, theammonification intensity,nitrification intensity,ureaseactivityandproteaseactivitydecreased.Similarly,thesoilnet nitrogen mineralizationratereached the highest level atflowering stage.Except forureaseactivitywhich increased with increasing nitrogenapplication,the intensityof soil nitrogen transformation microorganismsandthe enzymesactivities reached the highest point under the $2 2 5 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ nitrogen treatment, and then, decreased with further increasing nitrogen application $( 3 3 0 \mathrm { ~ k g } \cdot \mathrm { h m } ^ { - 2 } )$ . Consistent with dynamic changes in soil nitrogen transformation microbes and enzymes activities, thecontents ofsoil ammoniumand nitratereachedthe highestpoint atheading stageandflowering stage,respectively. Under moderatenitrogen aplicationconditions，soil ammonium content hadan increasing trend.But underexcess nitrogen application,there was no significantenhancement insoil nitratecontent.Itwas clearthattheactive periodof soil nitrogen transformation wasconsistent withthecriticalperiodof nitrogen demandforwheat,which was beneficial for winter wheat growth.However,due tolow nitrifying bacteriaactivity,nitrificationcapacity was limited.This,inturn,reducednitrogen availabilityandincreased potentialriskofammoniavolatlization fromsoil.Increased nitrogenapplicationwas beneficialfor soil nitrogen transformation, but only within a certain range. Excess nitrogen application $( 3 3 0 \mathrm { ~ k g } { \cdot } \mathrm { h m } ^ { - 2 } )$ ）was not conducive in terms of improving the capacity of supply or release soil nitrogen in lime concretion black soil.
+
+KeywordsLime concretion black soil; Wheat; Nitrogen transformation; Microorganism;Enzyme; Nitrogen mineralizatiol rate
+
+砂姜黑土是我国黄淮平原的主要耕作土壤，因其质地黏重，结构不良，通透性差，导致其有效养分供应失调，土壤供肥能力与生产性能低下，是我国典型的中低产田土壤类型[1-2]。土壤氮素是土壤肥力中最活跃的因素，其转化过程与氮素可利用性密切相关[3]。土壤氮素转化微生物(包括土壤氨化细菌、硝化细菌、亚硝化细菌及反硝化细菌等)和酶(脲酶、蛋白酶等)在土壤氮素转化过程中起主导作用，参与土壤氮素转化和循环的各个环节，既是土壤有机质分解和矿质元素转化的参与者，也是土壤有效养分的活性库[4。因此，研究土壤微生物驱动的氮素转化过程及其机制，可为定向调控土壤氮素转化过程，提高氮素利用效率和减少其负面效应提供科学依据[5]。
+
+前人研究表明，施肥能不同程度增加土壤微生物生物量和土壤养分含量[6，提高土壤微生物群落的丰富度和功能多样性[7]。改进施肥方法如增施有机肥[8]、有机无机肥料配施[9-10]和施用包膜控释尿素[1等，可以调节土壤C/N，提供更适宜微生物生活的环境[7]，从而提高土壤微生物数量或酶活性。不同施氮模式对砂姜黑土微生物群落丰度和土壤酶活性影响显著，陈欢等[12]和朱敏等[13研究认为化肥与有机肥配施有利于保持土壤微生物丰度和提高土壤酶活性，改善土壤生物化学环境，进而提高土壤可持续生产力；王晓波等[14认为秸秆还田可有效提高砂姜黑土脲酶活性，增加土壤微生物量碳、氮含量和全氮含量。
+
+可见，关于砂姜黑土土壤氮素的研究多集中于不同氮肥调控措施对土壤供氮能力、土壤微生物数量及土壤酶活性的影响方面，而对砂姜黑土氮素的转化过程、参与氮素转化微生物的活性，特别是氮素转化相关微生物生化作用强度未给予关注，尚不能很好地反映砂姜黑土氮素转化过程及其机制。因此，本文在前期不同耕作方式试验[15]的基础上，深入研究了深松条件下砂姜黑土麦田土壤氮素矿化过程、土壤供氮能力、参与氮素转化的微生物作用强度和酶活性动态变化特征及其对不同供氮量的响应探讨砂姜黑土麦田土壤氮素转化的规律，旨在为砂姜黑土麦田氮肥的合理施用，提高氮肥利用效率提供理论依据与技术参考。
+
+# 1材料与方法
+
+# 1.1 试验材料与设计
+
+该试验于 2012—2015 年冬小麦生长季在河南省项城市林陵镇 $( 1 1 4 . 2 5 ^ { \circ } \mathrm { E } , 3 3 . 1 3 ^ { \circ } \mathrm { N } )$ 进行。试验区位于黄淮冲积平原的过渡带，属亚热带向暖温带过渡区。土壤类型为砂姜黑土，土壤耕层养分含量为有机质 $1 3 . 1 \ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ 、全氮 $0 . 8 5 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、铵态氮 $4 . 8 3 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 硝态氮 $4 . 2 6 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、速效磷 $2 1 . 5 2 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、速效钾$8 6 . 7 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、 $\mathfrak { p H }$ 为7.26，冬小麦生长季主要生育时期气温与土壤温度见图1。
+
+![](images/eb3d33a67fa3a368db853af27f5c2b7f89adcfef67d2fba9f96cff68445d0314.jpg)  
+图1研究区冬小麦生育期气温与土壤温度变化动态 Fig.1Dynamic changes of air temperature and soil temperature during wheat growth period at the study area 每个数据点为当日观测的平均值。Each value is the daily iverage of the measurement day.
+
+试验设N0、N120、N225和N330共4个供氮水平，分别施纯氮 $0 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $1 2 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 人 $2 2 5 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ （20和 $3 3 0 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。采用随机区组设计，小区面积 $2 2 5 \ \mathrm { m } ^ { 2 }$ ，设3次重复。冬小麦播种前结合秸秆还田用深松旋耕一体机进行整地，耕深 $3 5 ~ \mathrm { c m } _ { \circ }$ 播量为 $1 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，行距 $2 0 ~ \mathrm { c m } _ { \circ }$ 试验所用氮肥为尿素(N含量 $46 \%$ ), $50 \%$ 播种时随整地作基肥施入， $50 \%$ 作为追肥于返青期(播种后143d)结合浇水施入。磷肥施用过磷酸钙$( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 }$ 含量 $1 4 \% ) 8 5 7 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ；钾肥施用氯化钾 $\mathrm { ~ K } _ { 2 } \mathbf { O }$ 含量 $6 0 \% ) 2 0 0 \ \mathrm { k g ^ { . } h m ^ { - 2 } }$ ，全部基施。其他栽培措施按当地高产田管理方式统一进行。
+
+# 1.2 测定项目和方法
+
+# 1.2.1 土样的采集与处理
+
+分别于越冬期(OWS，播种后 $6 9 { \mathrm { ~ d } }$ 、拔节期(JS播种后156d)、抽穗期(HS，187d)、开花期(FS，播种后199 d)、灌浆期(GFS，播种后 214 d)和成熟期(MS，播种后229d)，每个小区采用五点取样法，将$0 { \sim } 2 0 ~ \mathrm { c m }$ 根系带土样挖出，除去表层 $5 \ \mathrm { c m }$ 浮土，用根际土壤采集方法取土[16]，将5个点采集的土样混匀后组成一个混合样品，装入无菌纸袋，放入保鲜盒，带回实验室。将新鲜土样过 $1 \mathrm { m m }$ 筛，一部分测定土壤微生物作用强度，铵态氮、硝态氮含量和土壤含水量；另一部分自然风干后测定土壤酶活性。
+
+# 1.2.2 根际土壤氮素转化微生物作用强度测定
+
+土壤氨化作用强度采用土壤培养法[17]。 $2 8 \mathrm { ~ \textdegree ~ }$ 温度下培养10d，奈氏试剂法测定 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 含量，以$\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 的增加量表示土壤氨化作用强度。
+
+土壤硝化作用强度采用培养基接种土壤悬液法[17]。$2 8 \mathrm { ~ \textdegree C }$ 培养15d，采用格利斯试剂比色法测定 $\mathrm { N O } _ { 2 } ^ { - }$ -N含量，以土壤悬浮液加入灭菌后的培养基中亚硝态氮的减少量表示硝化作用强度。
+
+土壤反硝化作用强度采用酚二磺比色法[17测定。在真空干燥器中抽真空， $2 8 \mathrm { ~ \textdegree ~ }$ 培养 $2 \textup { d }$ ，用酚二黄比色法测定 ${ \tt N O } _ { 3 } ^ { - } { \tt - N }$ 含量，用 ${ \tt N O } _ { 3 } ^ { - } { \tt - N }$ 减少量表示反硝化作用强度。
+
+# 1.2.3 根际土壤脲酶及蛋白酶活性测定
+
+脲酶活性用苯酚钠比色法[17测定。蛋白酶活性用芘三酮比色法测定[17]。
+
+# 1.2.4土壤净氮素矿化测定
+
+土壤净氮素矿化采用土壤原位培养法[18]。在小区内同时插入两个直径 $4 \ \mathrm { c m }$ 、长 $1 5 \ \mathrm { c m }$ 的PVC管,插入土壤 $1 0 ~ \mathrm { c m }$ ，将其中一根PVC带回实验室进行室内土壤分析；另一根PVC管留在小区内进行原位培养，留在小区内培养的PVC管底部与顶部各放置一袋阴离子交换树脂。将培养初期和原位培养后的PVC管中的新鲜土样全部过 $1 ~ \mathrm { m m }$ 筛后，取 $\mathrm { ~ 1 0 ~ g ~ }$ 土壤用 $1 0 0 \ \mathrm { m L } \ 0 . 0 1 \ \mathrm { m o l { \cdot } L ^ { - 1 } C a C l _ { 2 } }$ 提取后用全自动连续流动分析仪测定土壤铵态氮和硝态氮含量。阴离子交换树脂袋用 $5 0 ~ \mathrm { m L } ~ 0 . 0 1 ~ \mathrm { m o l { \cdot } L ^ { - 1 } C a C l _ { 2 } }$ 溶液浸提后用全自动连续流动分析仪测定其铵态氮和硝态氮含量。每个小区内随机设置3次重复，于小麦播种日开始培养，每两周取样1次(其中在越冬期即播种后的第 $1 0 0 { \sim } 1 3 8 \mathrm { d }$ 取样1次，返青期一拔节期加强取样1次)，取样后开始下一周期的培养。
+
+# 1.2.5 根际土壤铵态氮、硝态氮含量测定
+
+过筛的新鲜土样用 $0 . 0 1 \ \mathrm { \ m o l { \cdot } L ^ { - 1 } \ C a C l _ { 2 } }$ 提取，采用全自动连续流动分析仪(AA3，SEAL Analytical,Germany)测定土壤铵态氮和硝态氮含量。
+
+# 1.2.6 数据处理
+
+净氮素矿化速率为培养前后无机氮之差。净氮素矿化速率 $[ R , \mathbf { g } ( \mathbf { N } ) { \cdot } \mathbf { g } ^ { - 1 } { \cdot } \mathbf { d } ^ { - 1 } ]$ 的计算公式为：
+
+$$
+R { = } ( P _ { \mathrm { m l } } { + } B _ { \mathrm { m } } { - } P _ { \mathrm { m 0 } } ) / T
+$$
+
+式中： $P _ { \mathrm { m 1 } }$ 表示原位培养后的土壤无机氮 $\mathrm { ( N H _ { 4 } ^ { + }  – N + }$ ${ \mathsf { N O } } _ { 3 } ^ { - } { \mathsf { - N } } _ { , } ^ { \cdot }$ 含量， $P _ { \mathrm { m 0 } }$ 表示原位培养初期的土壤无机氮$( \mathrm { N H _ { 4 } ^ { + } { - } N + \mathrm { N O _ { 3 } ^ { - } { - } N } } )$ 含量， $B _ { \mathrm { m } }$ 表示阴离子交换树脂袋内的无机氮 $( \mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N } + \mathrm { N O } _ { 3 } ^ { - } { - } \mathrm { N } )$ 含量， $T$ 代表培养时间。
+
+数据处理与作图用MicrosoftOffice2010进行，统计分析用SPSS20.0进行。
+
+# 2 结果与分析
+
+# 2.1砂姜黑土区小麦根际土壤氮素转化微生物作用强度变化及其对供氮量的响应
+
+从图2A可以看出，小麦根际氨化作用强度随着生育期的推进呈“倒V"型变化，峰值出现在开花期。不同供氮量间比较，除越冬期(OWS)和抽穗期(HS)外，各时期小麦根际氨化作用强度均表现为$\mathrm { N } 2 2 5 { \mathrm { > N } } 3 3 0 { \mathrm { > N } } 1 2 0 { \mathrm { > N } } 0$ ，在开花期(FS)之前 N225与
+
+![](images/a253668c0ee471728eec917074c057aa34185e74a27cdaf888aa7cb04e289560.jpg)  
+图2不同施氮量下砂姜黑土小麦根际土壤氨化作用强 度(A)、硝化作用强度(B)和反硝化作用强度(C)的变化 Fig.2Changes of ammonification intensity(A),nitrification intensity(B) and denitrification intensity(C) in rhizosphere soil ofwinterwheat planted in lime concretion black soil under differentN application rates
+
+OWS:越冬期;JS:拔节期;HS:抽穗期;FS:开花期;GFS: 灌浆期；MS:成熟期。NO:不施氮；N120:施氮 $1 2 0 ~ \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ · N225:施氮 $2 2 5 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ;N330:施氮 $3 3 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。下同。OWS: over wintering stage;JS: jointing stage;HS:heading stage;FS: flowering stage;GFS:gain filling stage;MS:mature stage.NO:no N application; N120: $1 2 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } \ \mathrm { N }$ application; N225: $2 2 5 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ N application; N $3 3 0 \colon 3 3 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } \mathrm { N }$ application.The same below.
+
+N330差异不显著，之后均表现为N225处理下氨化作用强度显著 $( P { < } 0 . 0 5 )$ 高于其他供氮量。
+
+由图2B可知，土壤硝化作用强度变化动态与氨化作用强度较为一致，从越冬期到成熟期，呈先升后降的变化特征，亦在开花期作用强度最高，且在开花期之前呈指数型 $\mathrm { ( \gamma = 5 2 . 1 1 5 e ^ { 0 . 2 9 9 6 x } }$ ， $R ^ { 2 } { = } 0 . 9 6 2 ~ 5$ ：，其中 $x$ 表示小麦生育时期， $y$ 表示硝化作用强度)增长趋势。
+
+不同供氮量处理间比较，表现为随供氮量从NO增加至N225，各生育时期小麦根际土壤硝化作用强度增强显著 $( P { < } 0 . 0 5 )$ 。特别是在拔节期、抽穗期和灌浆期3个时期,N225、N120和N03处理间差异极显著 $( P { < } 0 . 0 1 )$ 。而N330和N225两者之间差异多不显著(越冬期N330显著高于N225，抽穗期N225显著高于 N330 除外)。
+
+从图2C可以看出，砂姜黑土上小麦根际土壤反硝化作用强度较低，其作用强度维持在 $5 4 . 9 \sim$ $7 4 . 2 ~ \mu \mathbf { g } \cdot \mathbf { g } ^ { - 1 } \cdot \mathbf { d } ^ { - 1 }$ ，在小麦整个生育时期内分别在拔节期和成熟期出现两次活跃高峰，并以拔节期作用强度最高。
+
+不同供氮量处理对各生育时期反硝化作用强度影响显著 $( P { < } 0 . 0 5 )$ ，表现为 $_ { \mathrm { N } 2 2 5 > \mathrm { N } 3 3 0 > \mathrm { N } 1 2 0 > \mathrm { N } 0 _ { \mathrm { c } } }$ 同硝化作用强度一样，在 $_ { \mathrm { N 0 \sim N } 2 2 5 }$ 之间，随着供氮量的提高，反硝化作用强度显著增强，而供氮量从N225提高至N330，其作用强度反而降低。
+
+# 2.2砂姜黑土小麦根际土壤酶活性变化动态及其 对供氮量的响应
+
+从图3A可以看出，砂姜黑土小麦根际土壤脲酶活性随生育时期变化剧烈，以越冬期最低，至拔节期迅速提高达整个生育期最高峰，之后随生育期的推进，呈逐渐下降趋势。
+
+不同供氮量处理对脲酶活性的影响在拔节期至灌浆期较为显著，除抽穗期N225略高于N330 外，均表现为 $\mathrm { N } 3 3 0 { > } \mathrm { N } 2 2 5 { > } \mathrm { N } 1 2 0 { > } \mathrm { N } 0$ ，且各供氮量处理间差异显著 $( P { < } 0 . 0 5 )$ 。而在成熟期，除NO外，其他3供氮量处理间脲酶活性差异多不显著。
+
+由图3B可知，随着生育期的推进，砂姜黑土小麦根际土壤蛋白酶活性为 $1 7 8 . 7 { \sim } 3 2 0 . 9 \mu \mathrm { g } { \cdot } \mathbf { g } ^ { - 1 } { \cdot } \mathbf { d } ^ { - 1 }$ ，其活跃高峰期在拔节期至开花期，开花期之后迅速降低，并在成熟期活性达到最低。
+
+不同供氮量间比较，除越冬期外，各供氮量处理对砂姜黑土小麦根际土壤蛋白酶活性影响显著，表现为 $_ { \mathrm { N 0 < N } 1 2 0 < \mathrm { N } 2 2 5 }$ 。且不同处理间差异显著（204号 $( P { < } 0 . 0 5 )$ ，但供氮量从N225再增加至N330，各生育时期土壤蛋白酶活性反而显著降低。
+
+1100 350 A □NOaN120 QN225 □N330 330 B a b aab   
+900 C F 6 290   
+800 王 出 C 270 & 1   
+700 a bb 250 a   
+500 出 230 aaaa   
+400 cbaba babaa 190 王 3 3 3 3 3 N 3 4 2 T   
+200 150 OWS JS HS FS GFS MS OWS JS HS FS GFS MS 生育期 Growth stage
+
+# 2.3 砂姜黑土麦田根际土壤氮转化微生物及酶活性比较
+
+据表1可知，在一定程度内(N0\~N225)增加供氮量，对氮转化微生物作用强度及酶活性有显著的促进作用。增加供氮量至N330时，脲酶活性继续升高，硝化作用强度基本上保持在N225处理水平，而氨化作用强度、反硝化作用强度和蛋白酶活性受到了抑制。
+
+表1施氮量对砂姜黑土冬小麦生育期根际土壤氮素转化微生物生化作用强度及酶活性的影响 Tablfstealcsesrooooa in rhizosphere soil of winter wheat in lime concretion black soil (average of wheat six growth stages showed in the figure 3) $\mathsf { \Pi } \mathsf { \Pi } \mathsf { \mu } \mathsf { g } ^ { \cdot } \mathsf { g } ^ { - 1 } { \cdot } \mathsf { d } ^ { - 1 }$ （20   
+
+<html><body><table><tr><td>施氮量 N application rate</td><td>氨化作用强度 Ammonification intensity</td><td>脲酶活性 Urease activity</td><td>蛋白酶活性 Protease activity</td><td>硝化作用强度 Nitrification intensity</td><td>反硝化作用强度 Denitrification intensity</td></tr><tr><td>N0</td><td>142.5±0.90d</td><td>585.8±4.90d</td><td>230.2±0.85d</td><td>108.5±2.40c</td><td>61.5±0.40c</td></tr><tr><td>N120</td><td>159.4±1.65c</td><td>630.3±1.31c</td><td>243.4±0.75c</td><td>120.8±0.60b</td><td>64.2±0.55b</td></tr><tr><td>N225</td><td>172.2±2.00a</td><td>660.7±4.90b</td><td>257.7±1.85a</td><td>133.3±1.05a</td><td>66.6±0.55a</td></tr><tr><td>N330</td><td>166.8±0.95b</td><td>686.8±4.25a</td><td>247.4±2.05b</td><td>133.0±2.25a</td><td>64.9±0.57b</td></tr></table></body></html>
+
+同列不同小写字母表示4个施氮量间差异显著 $_ { ( P < 0 . 0 5 ) }$ 。Different lettrs in the same column indicate significant differences ( $\ : T < 0 . 0 5 \ :$ among the four N application rates.
+
+# 2.4砂姜黑土麦田土壤净氮素矿化速率变化动态及其对供氮量的响应
+
+在整个小麦生长季，砂姜黑土麦田土壤净氮素矿化速率变化显著，并随生育期的推进，出现两次高峰，一次低谷。其中，第1次小高峰期在11月中旬(播后28 d)，土壤净氮素矿化速率达 $0 . 8 6 { \sim } 1 . 0 5 \ \mu \mathrm { g } { \cdot } \mathrm { g } ^ { - 1 } { \cdot } \mathrm { d } ^ { - 1 }$ 之后逐渐下降，在越冬期(播后 70d)降到最低并停滞至返青期前(播后138d)，之后逐渐升高，在抽穗至开花期(182\~199d)升至最高峰，达冬前高峰期土壤净氮素矿化速率的1.7倍(图4)。
+
+不同供氮量间比较，在 $N 0 { \sim } \mathrm { N } 2 2 5$ ，增加供氮量对土壤净氮素矿化速率多有显著促进作用，但再增加供氮量至N330后，土壤净氮素矿化速率在多数取样时期不再增加，且其活性表现为不同程度的降低。
+
+# 2.5砂姜黑土土壤铵态氮、硝态氮含量变化及其对供氮量的响应
+
+由表2可以看出，随小麦生育时期的推进，土壤 $\mathrm { N H } _ { 4 } ^ { + }$ -N、 ${ \tt N O } _ { 3 } ^ { - } { \tt - N }$ 和无机氮 $( \mathrm { N H _ { 4 } ^ { + } { - } N { + } N O _ { 3 } ^ { - } { - } N } )$ 含量均呈现先升高后降低，但最高值出现时期不同。其中，$\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 含量在开花期最高， ${ \mathsf { N O } } _ { 3 } ^ { - } { \mathsf { - N } }$ 含量在抽穗期最高，而无机氮含量则在抽穗期和开花期维持在较高水平。
+
+随供氮量的增加，在各生育时期，土壤中 $\mathrm { N H } _ { 4 } ^ { + }$ -N含量大多呈显著性增加， $N O _ { 3 } ^ { - } { - } N$ 含量对供氮量的响应与 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 基本一致，但其在N225和N330处理间多无显著性差异。无机氮 $( \mathrm { N H } _ { 4 } ^ { + } { \bf - N } + \mathrm { N O } _ { 3 } ^ { - } { \bf - N } )$ 含量在越冬期、拔节期和灌浆期N225与N330处理间无差异，其他时期各处理间差异均显著。
+
+# 3结论与讨论
+
+# 3.1 砂姜黑土麦田氮转化微生物及酶作用强度和氮转化特征
+
+土壤中 $90 \%$ 以上的氮是以有机形态存在，而有机氮必须通过矿化作用转化为无机氮才能被植物吸收利用[19-20]。土壤氮素矿化是微生物驱动的生物化学过程，土壤氮素转化微生物及酶在土壤氮素矿化过程中发挥着重要作用，其中，脲酶、蛋白酶、氨化作用将有机氮转化为 $\mathrm { N H } _ { 4 } ^ { + }$ ，硝化作用将土壤中的氨(或铵)转化为硝酸盐，反硝化作用将硝酸盐等复杂的含氮化合物转化为 $\mathbf { N } _ { 2 }$ 、NO和 $\mathbf { N } _ { 2 } \mathbf { O } ^ { [ 5 , 2 1 ] }$ 。本试验结果表明，砂姜黑土麦田土壤氨化作用强度、硝化作用强度及脲酶、蛋白酶活性在整个小麦生长期均呈现先升后降的趋势，其活跃高峰期多在拔节期至灌浆期。土壤中 $\mathrm { N H } _ { 4 } ^ { + }$ -N、 ${ \mathsf { N O } } _ { 3 } ^ { - } { \mathsf { - N } }$ 也呈先升高后降低的趋势。追肥后土壤氮素转化微生物及酶的作用底物浓度增大，且土壤温度的升高，对氨化作用强度、脲酶和蛋白酶活性起到了促进作用，加快了土壤中有机氮向 $\mathrm { N H } _ { 4 } ^ { + }$ -N 的转化，增加了土壤中 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 含量。而 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 是硝化作用所需的氧化基质[5]，因而氨化作用强度、脲酶和蛋白酶活性的增加对硝化作用强度具有促进作用。从拔节期到开花期，在土壤氮素转化微生物及相关酶的作用下，土壤 $\mathrm { N H _ { 4 } ^ { + } { - } N , N O _ { 3 } ^ { - } { - } N }$ L含量也逐渐增加。但随着小麦对氮素的吸收及土壤氨化作用强度、硝化作用强度、脲酶和蛋白酶活性的降低和反硝化作用强度的增大，在小麦生长后期，土壤 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N } .$ ， ${ \mathsf { N O } } _ { 3 } ^ { - } { \mathsf { - N } }$ 含量出现下降。这与王小纯等[22]在黄潮土上的研究结果较为一致。但在本试验结果中，脲酶活性下降缓慢，且在冬小麦成熟期其活性无反弹现象，这可能与砂姜黑土土壤水、气、热等物理性状的变化相关。由于砂姜黑土质地黏重，结构不良，通透性差，导致后期通过小麦根系分泌物和根系凋落物等向根际输入的可被土壤微生物利用的碳和能量[23]周转缓慢，同时土壤氮的有效性降低，抑制了土壤微生物及酶的活性。与王小纯等[22]在潮土上的研究结果相比，小麦进入拔节期之后，砂姜黑土小麦根际土壤的氨化作用强度大于潮土，但其硝化作用强度、反硝化作用强度、脲酶和蛋白酶活性明显低于潮土。这与王朝辉等[24]的研究结果较为一致。而具体氨挥发及反硝化作用所造成氮素损失的量还有待于通过相应气体的收集与测定进一步确定。
+
+![](images/685d2fcf3c9951e22c89ee78c5174c6663b026a162f09f5f1bd73261d5c1756f.jpg)  
+图4不同施氮量下砂姜黑土小麦根际土壤净氮素矿化速率变化 Fig.4Changes ofnetNmineralizationrate inrhizosphere soilof winter wheat inlimeconcretion black soil underdiferent N application rates
+
+表2不同施氮量下砂姜黑土土壤铵态氮、硝态氮含量变化 Table 2Changes of contents of $\mathrm { N H } _ { 4 } ^ { + }$ -N and ${ \bf N O } _ { 3 } ^ { - }$ -N in rhizosphere soil of winter wheat in lime concretion black soil under different N application rates mg:kg-1   
+
+<html><body><table><tr><td rowspan="2">氮形态 N form</td><td rowspan="2">施氮量 N application rate</td><td colspan="6">生育时期 Growth stage</td></tr><tr><td>Ows</td><td>JS</td><td>HS</td><td>FS</td><td>GFS</td><td>MS</td></tr><tr><td>铵态氮</td><td>N0</td><td>4.75±0.28c</td><td>4.29±0.26c</td><td>5.32±0.34d</td><td>5.96±0.20d</td><td>5.24±0.35c</td><td>4.87±0.26c</td></tr><tr><td>NH4-N</td><td>N120</td><td>5.45±0.21b</td><td>5.07±0.20b</td><td>6.85±0.25c</td><td>7.28±0.25c</td><td>6.65±0.24b</td><td>5.69±0.20b</td></tr><tr><td></td><td>N225</td><td>5.97±0.17a</td><td>5.60±0.30a</td><td>7.31±0.11b</td><td>8.16±0.30b</td><td>6.86±0.09b</td><td>5.84±0.10b</td></tr><tr><td></td><td>N330</td><td>5.89±0.18a</td><td>5.77±0.35a</td><td>7.74±0.08a</td><td>8.57±0.07a</td><td>7.31±0.16a</td><td>6.20±0.13a</td></tr><tr><td>硝态氮</td><td>N0</td><td>5.43±0.18c</td><td>6.47±0.28d</td><td>6.82±0.27c</td><td>6.49±0.21c</td><td>5.50±0.24c</td><td>5.33±0.24d</td></tr><tr><td>NO3-N</td><td>N120</td><td>6.97±0.19b</td><td>8.15±0.17c</td><td>9.56±0.23b</td><td>9.76±0.15ab</td><td>7.53±0.26b</td><td>7.10±0.20c</td></tr><tr><td>铵态氮+硝态氮</td><td>N225</td><td>7.87±0.17a</td><td>8.91±0.16a</td><td>10.31±0.14a</td><td>9.52±0.07b</td><td>8.32±0.13a</td><td>7.59±0.10b</td></tr><tr><td rowspan="5">NH4-N+NO3-N</td><td>N330</td><td>8.19±0.31a</td><td>8.53±0.19ab</td><td>10.39±0.19a</td><td>9.84±0.14a</td><td>8.43±0.20a</td><td>7.98±0.14a</td></tr><tr><td>N0</td><td>10.18±0.45c</td><td>10.77±0.54c</td><td>12.14±0.07d</td><td>12.46±0.02d</td><td>10.74±0.11c</td><td>10.21±0.03d</td></tr><tr><td>N120</td><td>12.42±0.39b</td><td>13.23±0.03b</td><td>16.41±0.47c</td><td>17.04±0.10c</td><td>14.18±0.50b</td><td>12.79±0.39c</td></tr><tr><td>N225</td><td>13.84±0.35a</td><td>14.50±0.15a</td><td>17.61±0.25b</td><td>17.67±0.23b</td><td>15.18±0.05a</td><td>13.43±0.19b</td></tr><tr><td>N330</td><td>14.08±0.13a</td><td>14.30±0.54a</td><td>18.13±0.11a</td><td>18.41±0.21a</td><td>15.74±0.35a</td><td>14.18±0.01a</td></tr></table></body></html>
+
+同列同一氮形态不同小写字母表示4个施氮量间差异显著 $_ { ( P < 0 . 0 5 ) }$ 。Different letters in the same column for the same N form indicati significant difference $( P < 0 . 0 5 )$ among fourN application rates.
+
+矿化过程是土壤氮素转化的重要环节，本试验结果表明，砂姜黑土麦田土壤净氮素矿化速率呈现规律性的波动，在小麦冬前期和抽穗一开花期两次出现矿化高峰，在越冬期(播后 $7 0 { \sim } 1 3 8 \ \mathrm { d } ) 2$ 个月的时间内几乎无矿化作用发生。其原因可能在于：1)土壤温度的影响[25-26]。土壤净氮素矿化速率的波动与冬小麦生育期土壤温度变化一致，冬小麦生育期温度为冬前期和抽穗-开花期较高，越冬期最低。2)微生物及酶活性的影响。在本试验中，氨化细菌、硝化细菌及脲酶、蛋白酶等的活跃期正是土壤净氮素矿化速率的最高峰。
+
+# 3.2 砂姜黑土小麦根际氮素转化动态对不同供氮量的响应
+
+Sarathchandra等[27]认为施肥可提高土壤微生物数量和多样性。也有研究指出较高的氮的有效性会降低根际微生物数量和活性[28]。土壤微生物既参与土壤中的物质转化，影响土壤的肥力状况，同时土壤微生物活性又受土壤养分和土壤质地等因素的影响[29]。本试验结果表明，与不施氮相比，施用氮肥明显增加了土壤中铵态氮、硝态氮含量。随着施氮量的增加，土壤铵态氮含量逐渐升高，这种趋势从抽穗到成熟期表现得尤为明显。而硝态氮含量表现为在供氮量 $0 { \sim } 2 2 5 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 范围内，随施氮量的增加而升高，但当施氮量增至 $3 3 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 时，对土壤硝态氮含量的提高效果不再明显。这与土壤氮素转化相关微生物及酶的作用密切相关。在本试验中，尿素供应量的增加直接为脲酶提供了作用底物，从而激发了脲酶的活性，脲酶活性表现出了随供氮量的增加显著增强。氨化作用强度、硝化作用强度、反硝化作用强度、蛋白酶活性，在供氮量 $0 { \sim } 2 2 5 \mathrm { ~ } \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 范围内，与供氮量为正相关关系。但当供氮量再增加至 $3 3 0 \mathrm { \ k g { \cdot h m } } ^ { - 2 }$ 时，均出现了不同程度的下降。这与前人的研究结果较为一致[27,30]。这主要是由于在较高的氮有效性条件下，根际微生物不需要通过分解难以利用的土壤有机质获取氮，减少了用于分解有机质的胞外酶分泌。同时，较高的氮有效性还会减少植物向地下的碳分配，减小根际微生物数量和活性。根际微生物量的降低、胞外酶分泌的减少，以及微生物对根系分泌物的偏好利用均抑制了土壤的矿化[31]。
+
+综上所述，砂姜黑土麦田氮素转化是土壤氮素转化微生物参与的生物化学过程，与土壤供氮能力密切相关。砂姜黑土氮素转化微生物及酶活跃高峰期、麦田土壤净氮素矿化速率与冬小麦需氮高峰期较为一致，多发生在小麦拔节一灌浆期，这对小麦的生长有利。但在砂姜黑土中，由于土壤硝化作用强度较低，从而不利于砂姜黑土中氮素的进一步转化，降低了其可利用性，同时，增加了土壤氨挥发损失的潜在风险。在 $0 { \sim } 2 2 5 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 施氮范围内，增加供氮量，提高了砂姜黑土土壤氮素转化微生物作用强度及相关酶活性，促进土壤氮素矿化，提高了土壤供氮能力。但当施氮量达到 $3 3 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 时，土壤氮素转化微生物及相关酶活性多受到抑制，土壤净氮素矿化速率也出现了一定程度的降低，而且增加了土壤中氮素损失的风险，不利于氮肥的高效利用。
+
+# 参考文献References
+
+[1]高尔明，赵全志，刘华山，等．砂姜黑土小麦分蘗成穗及其 调控研究[J].土壤通报,2001,32(3):140-142 GaoEM,ZhaoQZ,LiuHS,etal.Regulationof tilleringof wheat grown in Shajiang black soil[J].Chinese Journal of Soil Science,2001,32(3):140-142 [2]李德成，张甘霖，龚子同．我国砂姜黑土土种的系统分类 归属研究[J]．±壤,2011,43(4):623-629 Li D C,Zhang G L,Gong Z T. On taxonomy of Shajiang black soils in China[J]. Soils,2011,43(4):623-629 [3]叶优良，张福锁，李生秀．土壤供氮能力指标研究[J]．土 壤通报,2001,32(6):273-277 Ye YL, Zhang F S,Li S X. Study on soil nitrogen supplying indexes[J].Chinese Journal of Soil Science，20o1，32(6):   
+273-277 [4]蒋婧，宋明华．植物与土壤微生物在调控生态系统养分循 环中的作用[J].植物生态学报,2010,34(8):979-988 Jiang J,Song M H.Review of the roles of plants and soil microorganisms in regulating ecosystem nutrient cycling[J]. Chinese Journal ofPlant Ecology,2010,34(8): 979-988 [5]贺纪正，张丽梅．土壤氮素转化的关键微生物过程及机制[J]. 微生物学通报,2013,40(1):98-108 HeJZ,ZhangL MKey processes and microbial mechanisms of soil nitrogen transformation[J].Microbiology China,2013,   
+40(1): 98-108 propertiesaffected by diferent long-term fertilization regimes[J]. Chinese Journal of Plant Ecology，2008,32(4): 891-899   
+[7] 夏雪，谷洁，车升国，等．施氮水平对塿土微生物群落和酶 活性的影响[J].中国农业科学,2011,44(8):1618-1627 Xia X,Gu J, Che S G, et al. Effects of nitrogen application rates on microbial community and enzyme activities in Lou soil[J]. Scientia Agricultura Sinica,2011, 44(8): 1618-1627   
+[8] Acosta-Martinez V, Harmel R D. Soil microbial communities and enzyme activities under various poultry liter application rates[J].Journal of Environmental Quality，2006,35(4): 1309-1318   
+[9] Hoflich G,Tauschke M,Kihn G,et al. Influence of agricultural crops and fertilization on microbial activity and microorganisms in the rhizosphere[J].Journal of Agronomy and Crop Science,2000,184(1): 49-54   
+[10] 冯伟，管涛，王晓宇，等．沼液与化肥配施对冬小麦根际土 壤微生物数量和酶活性的影响[J]．应用生态学报，2011, 22(4): 1007-1012 Feng W,Guan T,Wang X Y,et al.Effects of combined application of biogas slurry and chemical fertilizer on winter wheatrhizospheresoilmicroorganismsandenzyme activities[J]. ChineseJournal of Applied Ecology,2011,22(4): 1007-1012   
+[11]王鑫，徐秋明，曹兵，等．包膜控释尿素对保护地菜地土壤 肥力及酶活性的影响[J]．水土保持学报,2006,19(5):77-80 Wang X,XuQM,Cao B,etal.Effects of controlled release coated urea on soil fertility and enzyme activities of protected vegetable field[J].Journal of Soil and Water Conservation, 2006,19(5): 77-80   
+[12] 陈欢，李玮，张存岭，等．淮北砂姜黑土酶活性对长期不同 施肥模式的响应[J]．中国农业科学,2014,47(3):495-502 Chen H,Li W, Zhang C L,et al. A research on response of enzyme activities to long-term fertilization in lime concretion black soil[J]. Scientia Agricultura Sinica,2014，47(3): 495-502   
+[13]朱敏，郭志彬，曹承富，等．不同施肥模式对砂姜黑土微生 物群落丰度和土壤酶活性的影响[J]．核农学报,2014,28(9): 1693-1700 Zhu M,Guo Z B,Cao C F,et al. Impact of model of fertilization on microbial abundance and enzyme activity in lime concretion black soil[J]. Journal of Nuclear Agricultural Sciences,2014,28(9): 1693-1700   
+[14]王晓波，车威，纪荣婷，等．秸秆还田和保护性耕作对砂姜 黑土有机质和氮素养分的影响[J]．土壤，2015，47(3): 483-489 Wang XB,Che W,JiR T, et al. Effects of straw returning and conservation tillage patterns on the contents of organic matter and nitrogen nutrient in the lime concretion black soil[J]. Soils,2015,47(3): 483-489   
+[15] 熊淑萍，王静，王小纯，等．耕作方式及施氮量对砂姜黑土 区小麦氮代谢及籽粒产量和蛋白质含量的影响[J]．植物生 region[J]. Chinese Journal of Plant Ecology，2014,38(7): 767-775   
+[16] 熊淑萍，王严峰，王小纯，等．不同冬小麦品种根际土壤氮 素转化微生物及酶活性分析[J]．麦类作物学报,2014,34(6): 782-786 Xiong SP,Wang YF,Wang XC,et al.Analysis on activity of nitrogen transformation microorganism and enzymein rhizosphere soil among winter wheat varieties[J]. Journal of Triticeae Crops,2014,34(6): 782-786   
+[17]姚占芳，吴云汉．微生物学实验技术[M]．北京：气象出版 社,1998:122-131 Yao ZF,Wu Y H. Experimental Techniques of Microbiology[M]. Beijing: China Meteorological Press,1998:122-131   
+[18] Raison R J,Connell M J,Khanna P K.Methodology for studying fluxes of soil mineral-N in situ[J]. Soil Biology and Biochemistry,1987,19(5): 521-530   
+[19]余泺，高明，慈恩，等．不同耕作方式下土壤氮素矿化和硝 化特征研究[J]．生态环境学报,2010,19(3):733-738 Yu L,Gao M,Ci E,et al. Study on the characteristics of mineralization and nitrification in different cultivation modes[J].Ecology and Environmental Sciences,201o,19(3): 733-738   
+[20]马丽娜，王喜明，代万安，等．西藏高原日光温室菜地土壤 碳、氮矿化特征研究[J]．中国生态农业学报，2013,21(11): 1340-1349 Ma L N, Wang X M, Dai W A, et al. Comparative analysis of carbon and nitrogen mineralization in soils under alpine meadow，farmland and greenhouse conditions in Tibet[J]. Chinese Journal of Eco-Agriculture,2013,21(11):1340-1349   
+[21] 张晶，林先贵，尹睿．参与土壤氮素循环的微生物功能基 因多样性研究进展[J]．中国生态农业学报，2009,17(5): 1029-1034 Zhang J,Lin X G, Yin R.Advances in functional gene diversity of microorganism in relation to soil nitrogen cycling[J]. Chinese Journal of Eco-Agriculture,2009,17(5): 1029-1034   
+[22] 王小纯，李高飞，安帅，等．氮素形态对中后期小麦根际土 壤氮转化微生物及酶活性的影响[J]．水土保持学报，2010, 24(6): 204-207 Wang X C,Li G F,An S,et al.Effects of nitrogen forms on rhizosphere microorganisms and soil enzyme activity for nitrogen transform of wheat cultivar during elongation and grain filling stage[J]. Journal of Soil and Water Conservation, 2010,24(6): 204-207   
+[23]Dijkstra F A,Cheng W X. Interactions between soil and tree roots accelerate long-term soil carbon decomposition[J]. Ecology Letters,2007,10(11): 1046-1053   
+[24]王朝辉，刘学军，巨晓棠，等．北方冬小麦/夏玉米轮作体 系土壤氨挥发的原位测定[J].生态学报，2002，22(3): 359-365 Wang Z H,Liu XJ,Ju X T,et al.In situ determination of ammonia volatilization from wheat-maize rotation system field in North China[J].Acta Ecologica Sinica,2002,22(3): 359-365   
+[25]ZoggGP,ZakDR,RingelbergDB,et al.Compositional and functional shifts in microbial communities due to soil warming[J]. Soil Science Society of America Journal, 1997, 61(2): 475-481   
+[26]赵长盛，胡承孝，孙学成，等．温度和水分对华中地区菜地 土壤氮素矿化的影响[J]．中国生态农业学报，2012，20(7): 861-866 Zhao C S,Hu C X,Sun XC,et al. Influence of temperature and moisture on nitrogen mineralization in vegetable fields of central China[J].Chinese Journal of Eco-Agriculture,2012, 20(7): 861-866   
+[27]Sarathchandra S U,Ghani A,Yeates G W,et al.Effect of nitrogen and phosphate fertilisers on microbial and nematode diversity in pasture soils[J]. Soil Biology and Biochemistry, 2001,33(7/8):953-964   
+[28]Phillips R P,Finzi A C,Bernhardt E S.Enhanced root exudation induces microbial feedbacks to N cycling in a pine forest under long-term $\mathrm { C O } _ { 2 }$ fumigation[J].Ecology Letters, 2011,14(2): 187-194   
+[29]郭天财，宋晓，马冬云，等．施氮量对冬小麦根际土壤酶活 性的影响[J]．应用生态学报,2008,19(1):110-114 Guo T C，Song X,Ma D Y,et al.Effects of nitrogen applicationrateonsoil enzymeactivitiesinwheat rhizosphere[J].Chinese Journal of Applied Ecology,2008, 19(1): 110-114   
+[30]郭天财，宋晓，马冬云，等．氮素营养水平对小麦根际微生 物及土壤酶活性的影响[J]．水土保持学报，2006，20(3): 129-131 Guo T C,SongX,MaDY,etal.Effect of nitrogen fertilizer on soil enzymatic activity and rhizosphere microorganisms of wheat[J]. Journal of Soil and Water Conservation,2oo6,20(3): 129-131   
+[31]孙悦，徐兴良,KuzyakovY.根际激发效应的发生机制及其 生态重要性[J].植物生态学报,2014,38(1):62-75 Sun Y,Xu X L,Kuzyakov Y.Mechanisms of rhizosphere priming effects and their ecological significance[J].Chinese Journal of Plant Ecology,2014,38(1): 62-75

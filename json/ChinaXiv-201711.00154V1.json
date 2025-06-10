@@ -1,0 +1,308 @@
+[
+    {
+        "type": "text",
+        "text": "Synthesis, Structure, Photoluminescence and Thermal Expansion of a Rare Earth Formate Oxalate Framework ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hadi Abdul Nada(1,2);LI Wei(1) (李伟);FENG Guo-Qiang(3)(冯国强);LU Pei-Xiang(l)(陆培 祥) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1) (School of Physics, Huazhong University of Science and Technology, Wuhan 430074, China)(2) (Department of Physics, College of Education, University ofAl-Qadisiya, Iraq)(3) (Department of Physics and Mechanical & Electrical Engineering, Hubei University of Education, Wuhan 430205, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTA new lanthanide formate oxalate framework $\\mathrm { \\small { [ E u ( C _ { 2 } O _ { 4 } ) ( H C O O ) ] _ { n } } }$ (1）has been synthesized via hydrothermal method and characterized by single-crystal $\\mathrm { \\Delta } X$ -ray diffraction (SC-XRD). The framework crystallizes in the orthorhombic Pnma space group, with $a = 7 . 0 9 8 4 ( 4 )$ ， $b = 6 . 6 4 4 2 ( 3 )$ ,C $= 1 0 . 6 7 9 3$ (6) A, $V = 5 0 3 . 6 8 ( 4 ) \\mathrm { ~ \\AA ~ }$ $\\mathring { \\mathbf { A } } ^ { 3 }$ $Z = 3$ ， $\\mathrm { C _ { 3 } H O _ { 6 } E u }$ ， $M _ { r } = 2 8 5 . 0 0 ~ \\mathrm { g / m o l }$ ， $D _ { c } = 3 . 7 5 8 1 ~ \\mathrm { g / c m ^ { 3 } }$ $F ( 0 0 0 ) =$ 520.3796, $\\mu = 1 2 . 4 1 3 ~ \\mathrm { { m m ^ { - 1 } } }$ ，the final $R = 0 . 0 2 6 4$ and $w R = 0 . 0 6 2 8$ for 797 observed reflections with $I >$ $2 \\sigma ( I )$ .The photoluminescence (PL) measurements reveal the significant red emisson of the framework is dominated by the ( $\\mathrm { } ^ { 5 } \\mathrm { D } _ { 0 } \\to { } ^ { 7 } \\mathrm { F } _ { 2 } \\quad$ ）electronic transition at $6 1 4 \\mathrm { n m }$ . Further variable-temperature powder $\\mathrm { \\Delta X }$ -ray diffraction (VT-PXRD) indicates that framework 1 shows slight negative thermal expansion (NTE) along the $a$ -axis,and positive thermal expansion (PTE) along the $b$ and $c$ axes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: formate oxalate framework;hydrothermal method; photoluminescence;thermal expansion; DOI: 10.14102/j.cnki.0254-5861.2011-1683 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lanthanide-organic frameworks are emerging types of materials which have potential applications in the fields of optoelectronics like optical display panels and light-emitting diodes (LEDs)due to their outstanding optical properties[1l.These hybrid frameworks are composed by organic ligands and metal ions within a homogeneous structure establishing an extensive range of emissive phenomena,for instance linker-based luminescencel2], metal-based emisson[3]or antenna effects[4]. Both inorganic and organic moieties can provide the platforms to produce luminescence,typically the origin of luminescence emission widely observed in lanthanide MOFs via the so-called (antenna effect）which is often referred to asthe ligand-to-metal charge-transfer (LMCT),since the strongly absorbing ligand acts as a receiving antenna for the bond metal ion. In addition,cooperative functionalities of permanent porosity and luminescence property qualified luminescent MOFs as a very atractive new class of sensing materials[5, 6. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "N.A．Hadi et al: Synthesis, Structure,Photoluminescence and Thermal Expansionof aRare EarthFormate Oxalate Framework ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Trivalent lanthanide Ln(II) ions produce atractive optical properties. Recently, the luminance studies of rare earths metals that are synthesized with various organic ligands have been conducted.Ln(II) chelates provide narrow band emissions and very pure luminescence using UV-VIS excitation[7]. This sensitized luminescence of the lanthanide compounds is commonly used for optical materials,biological applications, electroluminescent devices， opticalamplifier or laser and sensors[8, 91. Luminescence of europium $( \\mathrm { E u } ^ { 3 + } )$ and terbium $( \\mathrm { T b } ^ { 3 + } )$ compounds takes the trending due to the narrow f-f transitions，especially the compounds of ${ \\mathrm { E u } } ^ { 3 + }$ have attracted a lot of attention because of their good sensitization luminescence that can be carried out through the antenna effect as well as the line of emission spectra look mostly sharp as it depends on the crystal field around the metal ions.Furthermore a great attention has been paid to the luminescence of $\\mathrm { E u } ^ { 3 + }$ ions owing to the ability of acting as phosphors and progress of materialsl1ol. It is well-known that rare earth organic frameworks have atracted comprehensive interest over the past few years because not only their interesting applications but also their luminescence which originated from intra 4f or 4f-5d transitions[11l.This specific luminescence is characterized by high luminescence quantum yield,narrow bandwidth,long life time,large Stokes shifts，and ligand dependent luminescence sensitization[12,13]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Herein we show crystalline framework materials incorporated both inorganic and organic moieties are attracting candidates because of their wide chemical and structural varieties that propose opportunities for making many technologically relevant properties[14]. Notably，the dense hybrid systems incorporated with infinite inorganic connectivity，like metal-oxygen-metal (M-O-M） arrays，can present the topological characteristics desired for certain types of physical properties[15]. In the present work, a new lanthanide-organic framework $\\mathrm { \\small { [ E u ( C _ { 2 } O _ { 4 } ) ( H C O O ) ] _ { n } } }$ (1),constituted by three basic building blocks with inorganic M-O-M chains and two organic bridging ligands of oxalate $( \\mathrm { C } _ { 2 } \\mathrm { O } _ { 4 } ) ^ { 2 - }$ and formate (HCOO-）ions,has been successfully prepared by hydrothermal method,and the crystal structure has been described in details. The PL experiment shows that framework 1 exhibits strong red emission spectrum from the characteristic luminescence of ${ \\mathrm { E u } } ^ { 3 + }$ . In addition, VT-PXRD experiment reveals that compound 1 displays NTE along the $a$ axis,whereas $b$ and c axes display PTE, which can be ascribed to the aforementioned structure arrangement. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Synthesis of $\\mathbf { [ E u ( C _ { 2 } O _ { 4 } ) ( H C O O ) ] _ { n } }$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All chemicals and solvents were of regent grade and used as received without further purification.We prepared the title compound in a Pyrex-lined steel bomb (autogenous pressure) at temperature around $2 0 0 ^ { \\circ } \\mathrm { C }$ over a week[16]. Crystals were obtained by heating an aqueous suspension of Eu oxalate hydrate $\\mathrm { E u } _ { 2 } ( \\mathrm { C } _ { 2 } \\mathrm { O } _ { 4 } ) _ { 3 } { \\cdot } 1 0 \\mathrm { H } _ { 2 } \\mathrm { O }$ with $1 5 \\ \\mathrm { m m o l }$ of acid oxalic dihydrate in $1 0 ~ \\mathrm { m L }$ of water for a week.By varying the heating time less or more than 7 days, it has been observed that no single crystals were developed.The final product was harvested by filtration,washed with water and ethanol,and then dried in air and the production rate was $5 3 \\%$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Structure determination ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PXRD patterns for framework 1 were collected on a (Empyrean，PANalytical, $4 0  { \\mathrm { ~ \\textrm ~ { ~ ~ } ~ } }  { \\mathrm { k V } } ,$ 40 mA) diffractometer by using CuKα (1.540598 A) radiation. Single-crystal $\\mathrm { \\Delta } \\mathrm { X }$ -ray data of 1 were collected at room temperature using OXFORD Difraction Rigaku. XtalABminTM Difractometer. The elemental analysis (EA) was performed on an Elementar Vario Micro Cube ELIII elemental analyzer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Single-crystal X-ray diffraction data were collected on an Oxford CCD diffractometer with graphite-monochromated MoKα radiation $( \\lambda = 0 . 7 1 0 7 3 \\mathrm { ~ \\AA ~ }$ ). The structure was solved by direct methods and successive Fourier difference syntheses,and refined by full-matrix least-squares procedure on $F ^ { 2 }$ with anisotropic thermal parameters for all non-hydrogen atoms using programs SHELXS-97 and SHELXL-97, respectivelyl17]. Hydrogen atoms were located by geometric calculations and refined using a riding mode. X-Seed was used as an interface for the SHELX programs[18]. Data reduction and absorption corrections were applied and determined using the CrysAlisPro program[19]. A total of 3707 reflections ( $3 . 6 1 \\leqslant \\theta \\leqslant 3 2 . 9 3 ^ { \\circ } ,$ were collected with 893 unique ones,of which 797 observed reflections with $I > 2 \\sigma ( I )$ were observed and used for structural illustration. At convergence, the final $R = 0 . 0 2 6 4$ and $R = 0 . 0 6 2 8 \\ ( w = 1 / [ \\sigma ^ { 2 } ( { F _ { o } } ^ { 2 } ) + ( 0 . 0 5 0 6 P ) ^ { 2 } +$ （20 $0 . 9 3 2 6 P ]$ ，where $P = ( F _ { o } ^ { 2 } + 2 F _ { c } ^ { 2 } ) / 3 )$ ， goodness-of-fit $= 1 . 0 3 4 9$ ， $( \\Delta \\rho ) _ { \\mathrm { m a x } } = 3 . 6 7 7 4$ and $( \\Delta \\rho ) _ { \\mathrm { m i n } } = - 1 . 6 5 2 3 ~ \\mathrm { e } / \\mathring { \\mathrm { A } } ^ { 3 }$ The selected bond lengths and bond angles are listed in Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Variable temperature powder X-ray diffraction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "VT-PXRD experiments were performed on a Bruker a D8-discover $\\mathrm { \\Delta X }$ -ray diffractometer,where CuKa radiation ( $K a _ { 1 } = 1 . 5 4 0 6$ and $K a _ { 2 } = 1 . 5 4 4 3 \\mathrm { ~ \\AA }$ at $4 0 \\mathrm { k V } ,$ $3 0 ~ \\mathrm { m A }$ ， $2 ~ \\mathrm { m m }$ divergence slit; $0 . 6 \\mathrm { m m }$ anti-scatter slit; $0 . 2 \\mathrm { m m }$ receiving slit; monochromatic; $0 . 1 ~ \\mathrm { m m }$ detector slit. The temperature was adjusted by a cryostat with temperature-adjusting error less than $1 \\ \\mathrm { K } .$ . The angular scanning range was $1 0 { \\sim } 5 0 ^ { \\circ }$ with the step of $0 . 0 1 ^ { \\circ }$ and scanning rate of 1s/step.The cell parameters of variable temperatures were refined by Rietveld method using GSAS software. The in-situ VT-PXRD patterns were collected over the range of $1 8 0 { \\sim } 2 8 0 \\ \\mathrm { K }$ ，with a $2 0 ~ \\mathrm { K }$ （204号 interval. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "N.A.Hadi et al: Synthesis, Structure,Photoluminescence and Thermal Expansion of a Rare Earth Formate Oxalate Framework ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Structure description ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The single-crystal $\\mathrm { \\Delta } \\mathrm { X }$ -ray diffraction study revealed that the framework of 1 has asymmetric units,as illstrated in Fig.1. The structure of compound 1 is a 3-D hybrid framework in orthorhombic Pnma space group.The dimensionalities of its inorganic and organic connectivity are 1-Dand 2-D,respectively. The 1-D inorganic chains contain 9-coordinated europium polyhedra $\\mathrm { ( E u O _ { 9 } ) }$ ） and their faces participate in forming infinite zigzag chains along the[1O0] direction.To form the 2-D organic connectivity,europium chains are bridged by formate ligands along the [O10] direction to generate infinite 2-D layers,and the layers nearby are subsequently bridged by the oxalate ligands along the [OO1] direction to make a 3-D framework structure. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Finally,the structure for1 is built up from Eu atoms sharing all their oxygen atoms with oxalate and formate ligands, thus giving rise to a 3D framework structure (Fig. 1). The bond distances of $\\operatorname { E u } ( 1 ) { \\ - } 0 ( 4 )$ and O(1)-C(2) are 2.472(5) and 1.274(6) $\\mathring \\mathbf { A }$ ,respectively, and the bond angles are as follows: ${ \\mathrm { O } } ( 4 ) ^ { # 5 } { \\mathrm { - } } { \\mathrm { C } } ( 3 ) { \\mathrm { - } } { \\mathrm { O } } ( 3 )$ （20 125.5(6) and $\\mathrm { O ( 1 ) - C ( 2 ) - O ( 2 ) ^ { \\# 6 } ~ } 1 2 6 . 1 ( 8 ) ^ { \\circ }$ .For comparison, in the isostructural compound $\\mathrm { C e } ( \\mathrm { C } _ { 2 } \\mathrm { O } _ { 4 } ) ( \\mathrm { H C O O } )$ （204号 previously reported[16], $\\mathrm { C e - O } ( 4 ) \\ = \\ 2 . 5 0 3 ( 3 )$ ， $\\mathrm { O ( 1 ) - C ( 1 ) } ~ = ~ 1 . 2 3 7 ( 8 ) ~ .$ $\\mathring \\mathrm { A }$ and ${ \\mathrm O } ( 1 ) – { \\mathrm C } ( 1 ) – { \\mathrm O } ( 2 ) = 1 2 7 . 3 ( 6 ) .$ $\\mathrm { O } ( 4 ) { - } \\mathrm { C } ( 2 ) { - } \\mathrm { O } ( 3 ) = 1 2 5 . 7 ( 4 ) ^ { \\circ } .$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Photoluminescent property ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The PXRD paterns shown in Fig.2 confirm the purity of the as-synthesized compound 1. Then PL measurements were performed using pulsed laser He-Cd ( $3 2 5 ~ \\mathrm { n m }$ ）(horiba Jobin Yvon) on the pure sample at room temperature.Fig.3 shows the normalized PL measurement spectra of 1 with an excitation wavelength of the pulsed ultraviolet He-Cd laser $3 2 5 ~ \\mathrm { { n m } }$ at room temperature. Notably,1 shows emission region $3 0 0 { \\sim } 8 0 0$ nm and the characteristic peak of ${ \\mathrm { E u } } ^ { 3 + }$ transition is observed. The resonance energy levels of europium ions along with various luminescence transitions are presented in Table $2 ^ { [ 2 0 , 2 1 ] }$ . The PL emission of the ${ \\mathrm { E u } } ^ { 3 + }$ ions indicates emission lines in the visible region with a comparatively simple energy level structure. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Herein, the luminescence for ${ \\mathrm { E u } } ^ { 3 + }$ ions may rise from the ${ } ^ { 5 } \\mathrm { D } _ { 0 }  { } ^ { 7 } \\mathrm { F } _ { \\mathrm { J } }$ transition, where (J = 0, 1, 2,3,4) levels are dependent on the triplet state energy of the donor, thus the energy is fundamentally transferred to ${ } ^ { 5 } \\mathrm { D } _ { 0 }$ corresponding to $1 7 2 6 0 \\ \\mathrm { c m ^ { - 1 [ 7 , 2 0 ] } }$ . As shown in Fig.3,1 exhibits four sets of characteristic emission bands from ${ \\mathrm { E u } } ^ { 3 + }$ ions in the visible spectral region with different intensities. The emission peak is centered at $5 9 0 \\mathrm { n m }$ originating from the ${ } ^ { 5 } \\mathrm { D } _ { 0 }  { } ^ { 7 } \\mathrm { F } _ { 1 }$ transition. The most prominent emission is located at $6 1 4 ~ \\mathrm { { n m } }$ and is dominated by electric dipole transition of $\\mathrm { E u } ^ { 3 + }$ , which corresponds to the strong red luminescence emission output. In fact, the $\\mathrm { { } ^ { 5 } D _ { 0 }  { } ^ { 7 } F _ { 2 } }$ transition of ${ \\mathrm { E u } } ^ { 3 + }$ ion originates from electric dipole (ED) and is sensitive to the coordination environment around the $\\mathrm { E u } ^ { 3 + }$ ion, it denotes that the ${ \\mathrm { E u } } ^ { 3 + }$ ion possesses non-centrosymmetric environment that agrees with the resulting single crystal diffraction pattern. The PL peaks at 651 and $6 9 6 \\mathrm { n m }$ can be assigned to $^ 5 { \\bf D } _ { 0 }  { } ^ { 7 } { \\bf F } _ { 3 }$ ，and $^ 5 \\mathrm { D } _ { 0 }  \\ ^ { 7 } \\mathrm { F } _ { 4 }$ ，respectively. In contrast, the emission intensity from $^ 5 \\mathrm { D } _ { 0 }  ^ { 7 } \\mathrm { F } _ { 1 }$ transition depends on the crystal field dominated by magnetic dipole (MD), which is insensitive to the site symmetry,as shown in the emisson spectrum in Fig.3.And the intensity of the $^ 5 \\mathrm { D } _ { 0 }  ^ { 7 } \\mathrm { F } _ { 2 }$ transition is about 3 times stronger than that of the $^ 5 { \\mathrm { D } } _ { 0 }  \\ ^ { 7 } { \\mathrm { F } } _ { 1 }$ transition,which indicates that there is no inversion center at the ${ \\mathrm { E u } } ^ { 3 + }$ sites. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Thermal expansion study ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thermal expansion behaviour of framework 1 was studied via variable-temperature $\\mathrm { \\Delta } \\mathrm { X }$ -ray diffraction (VT-XRD） experiments.Fig. 4(a） shows the measured temperature-dependent variations in the lattice parameters between 180 and $2 8 0 ~ \\mathrm { K }$ with a $2 0 ~ \\mathrm { K }$ interval. It's obvious that axes $b$ and $c$ show positive thermal expansion (PTE) about $+ 0 . 0 7 \\%$ and $+ 0 . 0 9 \\%$ , respectively,whereas $a$ axis exhibits negative thermal expansion (NTE) about $- 0 . 0 3 \\%$ . The obtained average coefficients of thermal expansion along three orthogonal axes and the volumetric thermal expansion coefficients are $a _ { a } = - 2 . 0 ( 5 )$ ， $a _ { b } = 8 . 2 ( 1 4 )$ ， $a _ { c } = 7 . 6 ( 1 1 )$ and $a _ { V } = 1 6 . 7$ (25) $\\mathbf { M } \\mathbf { K } ^ { - 1 }$ ，respectively,via linear fits using the PASCal softwarel22.Furthermoer, Fig.4(b） presents different direction thermal expansions of 1 based on the PASCal program calculation. Notably,the NTE magnitude of 1 is slightly smaller than the dense rare earth formate framework $\\mathrm { \\small { [ N H _ { 2 } C H N H _ { 2 } ] [ E r ( H C O O ) 4 ] } }$ 0 $\\mathrm { \\langle \\alpha \\mathrm { _ b } = - 7 . 1 }$ (3) $\\mathbf { M K } ^ { - 1 } .$ )[23l, the most well-known NTE material cubic zirconium tungstate, $\\mathrm { Z r W _ { 2 } O _ { 8 } }$ （204 $\\begin{array} { r } { ( \\alpha = - 9 \\mathrm { M K ^ { - 1 } } ) ^ { [ } } \\end{array}$ 24] and rigid MOF-5 $( \\alpha = - 9 ~ \\mathrm { M K ^ { - 1 } } )$ [25], but significantly lower than other protypical NTE MOFs,such as flexible silver(I) 2-methylimidazolate $\\begin{array} { r l r } { ( \\alpha _ { c } } & { { } = } & { - 2 4 . 5 \\mathrm { M K ^ { - 1 } } ) ^ { [ 2 6 ] } } \\end{array}$ ，[Zn2(fu-L)2dabco][27]and ${ \\mathrm { I n D } } ( { \\mathrm { B D C } } ) _ { 2 }$ (BDC $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 1,4-benzenedicarboxylate, $\\alpha _ { c } { = } - 3 . 5 \\mathbf { M K } ^ { - 1 } ) ^ { [ 2 \\delta }$ 3 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Overall， the NTE along $a$ axis could be explained by the following reasons.First of all，with the temperatue increase,the bond lengths of formate and oxalate ligands expand along the [O1O] and [001] directions,respectively (see Fig. 4(b)). Such variations are more likely to induce the flexing of $\\mathrm { E u O _ { 9 } }$ polyhedra. However,as stated previously,these EuO9 polyhedras share their faces to construct 1-D infinite zigzag chains along the [1OO] direction (see Fig. 4(a), (b).The flexing and the stronger interaction of the polyhedral chains maybe restrict the expanding along [1OO], thus giving rise to NTE along the [1O0] direction. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this work,a 3-D hybrid framework 1 was successfully prepared through hydrothermal method and characterized by SC-PXRD.The photoluminescence experiment shows that 1 gave a high luminescence at 614 nm,which originated from the $^ 5 \\mathrm { D } _ { 0 }  ^ { 7 } \\mathrm { F } _ { 2 }$ transition of ${ \\mathrm { E u } } ^ { 3 + }$ ion,implying red emission output of 1. Furthermore, VT-PXRD study revealed that 1 shows a slight NTE along the $a$ -axis and PTE along the $b$ -and $c$ 1 axes,which indicates this material's anisotropic nature in response to the temperature variation.To conclude,1 could have potential applications in solid state lighting and field emission displays. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）(a)Zhang,H.J;WagXZ;ZDgY;u,Y;uH;hXGoan,.XNoveDlaaideanicfreoksi ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "N．A．Hadi et al: Synthesis, Structure,Photoluminescence and Thermal Expansion ofaRare EarthFormate Oxalate Framework ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "an unusual infinite nanosized ribbon $\\mathrm { [ L n _ { 3 } ( } \\mu _ { 3 } – \\mathrm { O H ) _ { 2 } ( - C O _ { 2 } ) _ { 6 } ] _ { \\mathrm { ~ n ~ } } ^ { + } }$ (Ln /4 Eu, Gd,Dy): syntheses,structures,luminescence,and magnetic properties.Cryst Eng.Comm.(gX;uaaoJ.agG;aG polersicootieoicdlicbateddrtutdeicopt 2010,39,9.(ciuF;efeokiteceebseda involvedinsitugeneratedformat.Cryst.GrowthDes.2010，10，1474-147.(d）ZhuW.H.；Wang，Z.M.；GaoS.Two3Dporous lanthanide-fumaratealatefmeoksfrmeorkdaicdletcagoesibladdratioo 46,1337-1342. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）(a)D,;X;laoddaroialceta assemblydesi98;(;nLLe luminescent inorganic-organic hybrid with infinite $\\mathrm { [ C d _ { 3 } ( 1 3 \\mathrm { - O H ) _ { 2 } ( 1 2 \\mathrm { - } C l ) _ { 2 } ] } }$ connectivity.Inorg. Chem. Commun.2007,10,993-996; (c) Wang,X.L.;Bi, Y. F;LinH.Y;LuGeoveldetaancfreoosrucedfroixeddipdd:2fid benzene-dicarboxylate:froma1-dribbon,2-dlayerednetwork,to3-Dartichitecture.Cryst.GrowthDes.27,7,086-1091.   \n(3）(a)oekJk,tdooatoo structure by high-throught methods, $\\mathrm { L n } ( \\mathrm { O } _ { 3 } \\mathrm { P } { \\cdot } \\mathrm { C } _ { 2 } \\mathrm { H } _ { 4 } { \\cdot } \\mathrm { S O } _ { 3 } ) ( \\mathrm { H } _ { 2 } \\mathrm { O } )$ C $\\mathtt { L n } =$ La-Dy).Inorg. Chem.2007,46,9968-9974;(b) Gandara,F.; Garcia-Cortes,A.; Cascales,C.;iebaEs;.joaeeteacr approach toward polyhedral diversity and variety of functional compound. Inorg. Chem. 2oo7,46,3475-3484.   \n(4）（a)dei guest-sensitideefdoatekdbditeok,; (b)MMaus;oee polymers of $Z \\mathrm { n } ^ { 2 }$ and4,4-bipyridinecontainnginteractedpyreneandenclathratedaromaticsoventguests.J.Am.Chem.Soc.20,129,9o94910;(c) Chen,B.L;gataF;QGYagJ.;bosE.dnfraredeb tetrafluoroterephthalate framework.Inorg.Chem.2006,45,8882-8886.   \n(5）Hataakao intensities from Tb(II) and Eu(II) in a chameleon polymer.Chem. Sci. 2017,8,423-429.   \n(6）Rossin，AbtG；i；teatedlicdate:iaractetio applications in luminescence and magnetism. Inorg. Chem. 201,51,6962-6968.   \n(7）Latva,aCesee of the ligand and lanthanide(II) luminescence quantum yield.J. Lumin.1997,75,149-169.   \n(8）Bunzil,J.C.G.; Piguet, C.Taking advantage of luminescent lanthanideions.Chem.Soc.Rev.20o5,34,1048-107.   \n(9）Cui,Y.GeQdearoftiisd Rev. 2014,273,76-86.   \n(10）VicentiGued 353-382.   \n(11）(a)Robin,YA.F,.K.CodatioretwoksithOadNoos:atredoereade.CodCh. Rev206,5;db.HK.ooeaeosepr luminescence building blocks.J.Am. Chem. Soc.2006,128,10403-10412.   \n(12）Shang,M.; Geng,D.; Kang,X; Yang,D.; Zhang,Y.; Lin,J. Hydrothermal derived LaOF:Ln3+( $\\mathrm { L n } = \\mathrm { E u }$ ,Tb,Sm,Dy,Tm,and/or Ho) nanocrystals with multicolor-tunable emission properties.Inorg. Chem. 2012,51,11106-11116.   \n(13）Sun,X;ZY;uL.eateese andoxyfluoridenanocstalswithdiverseshapesthoughcotrolldfuorinationinslutionphase.Chem.EurJ.o,3.   \n(14）（a)Caiddid Commun.06,7845.(aoC.N;m,.K;ugn,.ybdganicateras:filid mattersiao.. (15）Rao,C.;tarajanSVatan,.alboatescitecuge.ItEd,4646. (16）Roroeeldaboe and structure of $\\mathrm { [ C e ( H _ { 2 } O ) ] _ { 2 } ( C _ { 2 } O _ { 4 } ) _ { 2 } ( C O _ { 3 } ) }$ $\\mathbf { \\partial } \\cdot 2 . 5 \\operatorname { H } _ { 2 } \\mathbf { O }$ and $\\mathrm { C e } ( \\mathrm { C } _ { 2 } \\mathrm { O } _ { 4 } ) ( \\mathrm { H C O } _ { 2 } )$ .J. Solid State Chem.1996,127,256-266.   \n(17）Sheldrick,G.M.A short history of SHLX.Acta Crystallogr: Sect.A 2008,64,112-122.   \n(18）Barbour,L.J.X-seed-asoftware toolforsupermolecular crystallography.J.Supramol.Chem.2001,1,189-191.   \n(19）CrysAlisPro, Oxford Difraction Ltd., Version 1.171.34.34.   \n(20）Freeman,J;osb.ectradcasofeesedfroheatedert.em6. (21）Georgetaodelsesetsatioei europium chelates. Spectroscopic.Acta part A1993,49,397-404.   \n(22）Clife,sl 45,1321-1329.   \n(23）Zhang,ZaX;egG;inZHu.Lichalproperidgailfeareeartoatefreor Journal of Slid State Chemistry 2016,233,289-293.   \n(24）Mary,A.; Evans,J.S.O.; Vogt,T.; Sleight,A.W.Negative thermal expansion from O.3to 1050 kelvin in $\\mathrm { Z r w } _ { 2 } \\mathrm { O } _ { 5 }$ .Science 1996,272,90-92. (25）Lockud expansion in MOF-5.J. Phys. Chem. C2010,114,16181-16186.   \n(26）Ogbo;ch 2012,3,3011-3017.   \n(27）HenScl modulated by linker functionalization.Adv.Funt. Mter.2013,23,5990-59996.   \n(28）Coling,Ec;iniiial organic frameworks.CrystEngComm.2014,16,3498-3506. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b5a5db8c2f2a4784d95c938c53e732ca66df317543f8548f003a76681cc89dc.jpg",
+        "table_caption": [
+            "Table 1． Selected Bond Lengths $( \\mathring \\mathbf { A } )$ and Bond Angles (°) "
+        ],
+        "table_footnote": [
+            "Symmetry codes:#1: $0 . 5 \\substack { + x }$ ,0.5-y,0.5-z;#2: x,y,0.5-z; #3:0.5+x,0.5-y,z "
+        ],
+        "table_body": "<html><body><table><tr><td>Bond</td><td>Dist.</td><td>Bond</td><td>Dist.</td><td>Bond</td><td>Dist.</td></tr><tr><td>2 Eu(1)-0(1)</td><td>2.464(4)</td><td>Eu(1)-O(1)#3</td><td>2.490(3)</td><td>Eu(1)-0(3)</td><td>2.492(4)</td></tr><tr><td>Eu(1)-0(1)#1</td><td>2.490(3)</td><td>Eu(1)-O(2)</td><td>2.436(3)</td><td>Eu(1)-O(3)#1</td><td>2.442(4)</td></tr><tr><td>Eu(1)-0(1)#2</td><td>2.464(4)</td><td>Eu(1)-0(2)#2</td><td>2.436(3)</td><td>Eu(1)-0(4)</td><td>2.472(5)</td></tr><tr><td>a Angle</td><td>（）</td><td>Angle</td><td>（）</td><td>Angle</td><td></td></tr><tr><td>()-Eu(1)-01)*1</td><td>140.8(1)</td><td>0(1)*2Eu(1)-0(2)#2</td><td>126.1(1)</td><td>0(2)-Eu(1)-0(4)</td><td>70.4(9)</td></tr><tr><td>(1)-Eu(1)-0(1)#2</td><td>66.5(1)</td><td>0(1)#2-Eu(1)-0(3)</td><td>64.4(7)</td><td>0(2)#2-Eu(1)-0(3)</td><td>114.3(9)</td></tr><tr><td>0(1)-Eu(1)-0(1)#3</td><td>100.3(1)</td><td>0(1) #2-Eu(1)-0(4)</td><td>70.7(6)</td><td>0(2)#2-Eu(1)-0(4)</td><td>70.4(9)</td></tr><tr><td>0(1)-Eu(1)-0(2)</td><td>126.1(1)</td><td>0(1)#3Eu(1)-0(2)</td><td>132.8(1)</td><td>0(3)#1-Eu(1)-0(1)#1</td><td>64.7(8)</td></tr><tr><td>0(1)-Eu(1)-0(2) #2</td><td>66.3(1)</td><td>0(1)#3-Eu(1)-0(2)#2</td><td>72.4(1)</td><td>0(3)#1-Eu(1)-0(2)#2</td><td>78.5(8)</td></tr><tr><td>0(1)-Eu(1)-0(3)</td><td>64.4(6)</td><td>0(1)*3-Eu(1)-0(3)</td><td>76.5(6)</td><td>0(3)-Eu(1)-0(4)</td><td>125.6(1)</td></tr><tr><td>0(1)-Eu(1)-0(4)</td><td>70.7(6)</td><td>0(1)*3-Eu(1)-0(4)</td><td>142.2(7)</td><td>0(4)-Eu(1)-0(2)#2</td><td>70.4(9)</td></tr><tr><td>0(1)#2-Eu(1)-0(1)#2</td><td>140.8(1)</td><td>0(2)-Eu(1)-0(2)#2</td><td>129.3(1)</td><td></td><td></td></tr><tr><td>0(1)#2-Eu(1)-0(2)</td><td>66.3(1)</td><td>0(2)-Eu(1)-0(3)</td><td>114.3(1)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/547a02740713fcb43563f45f6530e87d6bcbd5d9b53d09ba9e249dc86d0922ea.jpg",
+        "table_caption": [
+            "Table 2.EnergyLevels and Luminescent Transition for Europium "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Upper energy levels (energy cm-1)</td><td>Lower levels</td><td> (nm)</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7f418688d79aba430b08733dda34c376e0fe2544635f04421602fb40eb0eb57.jpg",
+        "table_caption": [
+            "N.A.Hadi et al: Synthesis, Structure,Photoluminescence and Thermal Expansion of aRare EarthFormate Oxalate Framework "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Eu+35D3(24500)</td><td></td><td></td></tr><tr><td>5D2(21500)</td><td></td><td></td></tr><tr><td>5D(19020)</td><td>7F1,7F2,7F3,7F5,7F6</td><td>538,554,583,655,701</td></tr><tr><td>5Do(17260)</td><td>7F0,7F1,7F2,7F3,7F4</td><td>580,596,614,651,694</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e93bc8d1fac985a905af68b3b303a6fdbcb75b787f9eff38261fe2b18a80de57.jpg",
+        "img_caption": [
+            "Fig.1.Ilustrationof1with asymmetric unit (a);Framework structureof1normal to the(b){100},(c){010)and (d) {001} planes,respectively; Color scheme:Eu,green;O,red; C,blue; hydrogenatoms havebeen deleted for clarity in $( \\mathbf { b } \\sim$ d).Symmetry codes: #4: -x,-y,-z, #5: x,1+y,z,#6: -x,-y, $- 0 . 5 + z$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7994b67e7146516bac7ee1f80a47c44bd8b01dd97acb1565d185439cd930c670.jpg",
+        "img_caption": [
+            "Fig.2.PXRD pattern of the as-synthesized $\\mathbf { [ E u ( C _ { 2 } O _ { 4 } ) ( H C O O ) ] _ { n } }$ . The black line is the experimental pattern and the blue vertical markers indicate the allowed Bragg reflection "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b62cd9c85f1b06690c2ff5f04d288c7724c5d3d8488aca6155c4e4d791d8e252.jpg",
+        "img_caption": [
+            "Fig.3.PL spectrum from1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/33d2f61dbfb22439a486340aea19386d4cf952d7c4f09c22adf53244dfd85bfa.jpg",
+        "img_caption": [
+            "Fig.4.(a) Evolution of lattice parameters ${ \\mathbf { } } a , b$ and $\\scriptstyle { \\pmb { c } }$ of1 dependent on temperature (the solid lines there are to guide theeye);(b)Diffrent direction thermal expansions of1based on the PASCal program calculation.Note:the positive and negative thermal expansions are illustrated in red and blue grids, respectively "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Synthesis, Structure, Photoluminescence and Thermal Expansion of a Rare Earth Formate Oxalate Framework ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HadiAbdulNada LI Wei(李伟) FENG Guo-Qiang(冯国强) LUPei-Xiang(陆培祥) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "N．A．Hadi et al: Synthesis, Structure,Photoluminescence and Thermal Expansion ofaRare EarthFormate Oxalate Framework ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d5dd6e6c6f08258e87fbc5843a10e956143b9514d38ab557af5d7c3bc1c3951.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { E u } ( \\mathrm { C } _ { 2 } \\mathrm { O } _ { 4 } ) ( \\mathrm { H C O O } )$ is a 3-D hybrid framework which is built up from Eu metals,oxalate and formate ligands. The 1-D inorganic chains contain 9-coordinated europium polyhedra $\\mathrm { ( E u O _ { 9 } ) }$ that share their faces to form infinite zigzag chains along the [10o] direction. The photoluminescent measurements reveal the strong red emission of the framework is dominated by the ( $\\mathrm { } ^ { 5 } \\mathrm { D } _ { 0 }  \\mathrm { } ^ { 7 } \\mathrm { F } _ { 2 }$ ）electronic transition at $6 1 4 \\mathrm { n m }$ ",
+        "page_idx": 9
+    }
+]

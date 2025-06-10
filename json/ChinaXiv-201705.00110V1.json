@@ -1,0 +1,260 @@
+[
+    {
+        "type": "text",
+        "text": "$M o S _ { 2 }$ nanoflowers consisting of nanosheets with a controllable interlayer distance as highperformance lithium ion battery anodes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yutao Lu,ab Xiayin Yao,\\*a Jingyun Yin,a Gang Peng,a Ping Cuia and Xiaoxiong $\\mathsf { X } \\mathsf { u } ^ { \\star \\mathsf { a } }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$M \\circ \\mathsf { S } _ { 2 }$ nanoflowers consisting of nanosheets are synthesized by a one-step hydrothermal method.The interlayer distances of the $M \\circ \\mathsf { S } _ { 2 }$ nanosheets,accompanied with the changes of crystallinity,defects, specific surface areas as well as the thickness of the $M O S _ { 2 }$ nanosheets,can be well controlled via simply altering hydrothermal reaction temperatures.The efect of interlayer distances on the lithium storage capability for lithium ion batteries is investigated.The results show that $M \\circ \\mathsf { S } _ { 2 }$ synthesized under $2 0 0 ^ { \\circ } \\mathsf C$ with an interlayer distance of $0 . 6 5 \\ \\mathsf { n m }$ exhibit the highest lithium storage capacity and the best rate capability,showing a high discharge capacity of $8 1 4 . 2 \\ m A \\ h \\ { \\ g } ^ { - 1 }$ at $1 0 0 \\mathrm { \\ m A \\ 9 ^ { - 1 } }$ after 50 cycles and as high as $6 5 2 . 2 \\ m { \\tt A } \\ h \\ g ^ { - 1 }$ and $5 4 7 . 3  { \\mathrm { \\ m A } }  { \\mathrm { \\ n \\ g } } ^ { - 1 }$ at current densities of $1 \\mathsf { A } \\mathsf { \\mathfrak { g } } ^ { - 1 }$ and $2 \\textsf { A } \\mathfrak { g } ^ { - 1 }$ at $2 5 ^ { \\circ } C ,$ respectively.The excellent lithium storage properties of the resultant $M \\circ \\mathsf { S } _ { 2 }$ nanoflowers are attributed to its controllable optimized interplanar distance with good crystallinity，appropriate surface area and defects as well as thickness of the nanosheets. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lithium ion batteries are the main power sources for portable electronic devices and are considered to be one of the leading candidates for powering hybrid electric vehicles and electric vehicles.1,² Graphite,a commonly used anode material in commercial lithium ion batteries,cannot meet the requirement of future energy storage systems due to its limited theoretical capacity $\\left( 3 7 2 \\mathrm { \\ m A } \\mathrm { h } \\mathrm { g } ^ { - 1 } \\right) $ .² To address this problem,great efforts have been conducted to develop new electrode materials.3-8 Recently,metal sulfides,such as $\\mathrm { s n } \\mathrm { S } _ { 2 }$ ， $\\mathrm { W S } _ { 2 }$ ， $\\mathbf { C o S } _ { 2 }$ ， $\\mathrm { F e S } _ { 2 }$ ，CuS, $\\mathrm { N i S } _ { 2 }$ and $\\mathbf { M o S } _ { 2 }$ ，have been extensively investigated as anode materials.9-16 Among them, $\\mathbf { M o S } _ { 2 }$ has received particular attention in the merit of its high lithium ion capacity and structure stability.It can react with four lithium ions per formula unit by conversion mechanism,forming Mo nano particles and insoluble $\\mathrm { L i } _ { 2 } \\mathrm { S }$ matrix and giving a $6 7 0 ~ \\mathrm { { m A } }$ h ${ \\mathrm { g } } ^ { - 1 }$ lithium storage capacity,one and half time higher than current graphite anode.17 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, $\\mathbf { M o S } _ { 2 }$ generally suffers from fast capacity fading, poor rate capability due to volume changes during repeat cycles and formation of a thick gel-like polymeric layer inhibiting successive lithiation-delithiation reactions.18 These problem can be partly solved through preparing $\\mathbf { M o S } _ { 2 }$ -based nanocompositeswithcarbonaceous materials18-21 orusing nanostructured $\\mathbf { M o S } _ { 2 }$ electrode with enlarged interlayer distances to facilitate lithium ion intercalation.19,2-25 As reported that when a lithium ion intercalates into layered $\\mathbf { M o S } _ { 2 }$ ,it enters the S layer and forms Li-S bonds,resulting in volume changes.2² Increasing the interlayer distance of $\\mathbf { M o S } _ { 2 }$ can provide larger space for lithium ion to intercalate,which also reduces the barriers to lithium ion mobility,thereby facilitating lithium ion diffusion.Du et al.prepared restacked $\\mathbf { M o S } _ { 2 }$ with enlarged $c$ lattice parameter and surface area by exfoliation and restacking process and found that the obtained $\\mathbf { M o S } _ { 2 }$ exhibits high reversible lithium storage capacity and superior rate capability as anode material for lithium ion batteries.22 However,up to now,the effect of different interlayer distances onthe electrochemical performancesisstill not well understood. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Herein,a simple hydrothermal method was used to prepare a series of $\\mathbf { M o S } _ { 2 }$ flowers with different interlayer spacing ranged from $0 . 6 3 \\ \\mathrm { n m }$ to $0 . 7 0 \\ \\mathrm { n m }$ . The resultant $\\mathbf { M o S } _ { 2 }$ flowers were employed as anode materials for lithium ion batteries and the effect of interlayer spacing on electrochemical properties was systematically investigated.The results show that the $\\mathbf { M o S } _ { 2 }$ flowers consisting of nanosheets with optimized interlayer distance of $0 . 6 5 ~ \\mathrm { { n m } }$ and good crystallinity,appropriate surface areaand defects as well as thickness of nanosheets exhibit the highest lithium storage capacity and the best rate capability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All the chemicals were analytical grade and used without further purification. $\\mathbf { M o S } _ { 2 }$ nanoflowers were prepared by a facile hydrothermal process.In detail, $\\mathbf { 1 . 0 7 \\ g }$ ammonium molybdate $( \\mathrm { ( N H _ { 4 } ) _ { 6 } M o _ { 7 } O _ { 2 4 } 4 H _ { 2 } O } )$ and $\\boldsymbol { 0 . 9 3 \\mathrm { ~ g } }$ thiourea $\\left( \\mathbf { C S } ( \\mathbf { N H } _ { 2 } ) _ { 2 } \\right)$ were dis solved in $7 0 ~ \\mathrm { m L }$ de-ionized water under vigorous stirring.After stirring for $^ { 1 \\mathrm { ~ h ~ } }$ ,the transparent solution was transferred into a $1 0 0 ~ \\mathrm { { m L } }$ Teflon-lined stainless steel autoclave.Then the autoclave was sealed and heated to $1 6 0 { - } 2 2 0 \\ ^ { \\circ } \\mathbf { C }$ for $2 4 \\mathrm { ~ h ~ }$ .After that, the autoclave was cooled to room temperature.The black products deposited at the bottom were filtrated,washed with de-ionized water for three times and dried in vacuum oven at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 1 2 \\mathrm { ~ h ~ } }$ .The sample synthesized at 160,180,200 and $2 2 0 ~ ^ { \\circ } \\mathbf { C }$ were labeled as $\\mathbf { M o S } _ { 2 } – 1 6 0$ ， $\\mathbf { M o S } _ { 2 } – 1 8 0$ ， $\\mathbf { M o S } _ { 2 } – 2 0 0$ $\\mathbf { M o S } _ { 2 } – 2 2 0$ ,respectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The structure of as-prepared samples was characterized by Xray powder diffraction (XRD) (German Bruker D8) with $\\mathrm { C u - K } \\alpha$ radiation at a voltage of $4 0 \\ \\mathrm { k V }$ and a current of $4 0 \\ \\mathrm { \\ m A }$ .The morphology and particle size were observed by field emission scanning electron microscope (FESEM,S-48oo,Hitachi) and high-resolution transmission electron microscopy (HRTEM) (Tecnai F2o,FEI).Different metal-sulfur vibration modes were obtained using a Raman spectrometer (Renishaw,invia-reflex). The surface areas were tested by nitrogen adsorption-desorp tion analysis (Micromeritics ASAP 2020M). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical properties of the $\\mathbf { M o S } _ { 2 }$ electrodes were measured with CR2o32 coin cells.The electrode was prepared by spreading a mixture of active material $( 8 0 ~ \\mathrm { w t \\% } )$ ，acetylene black $( 1 0 ~ \\mathrm { w t \\% } )$ and carboxyl methyl cellulose binder $( 1 0 ~ \\mathrm { w t \\% } )$ dissolved in de-ionized water onto an copper foil current collector and then dried in vacuum.The electrode was separated from lithium foil by a Celgard 25o2 separator.The electrolyte (Guangzhou Tianci Materials Technology Co,Ltd.) was 1 $\\mathbf { M } \\mathbf { \\Lambda } _ { \\mathrm { L i P F } _ { 6 } }$ dissolved into a mixture of EC/DMC/DEC( $\\operatorname { \\dot { \\boldsymbol { 1 } } } : 1 : 1$ v/v/ v).The galvanostatic charge and discharge tests were carried out onaLAND-CT2o01A battery tester (Jinnuo Wuhan Co.Ltd P.R. China) between $_ { 0 . 0 1 \\mathrm { ~ V ~ } }$ and $3 . 0 \\mathrm { V }$ .Cyclic voltammetry and electrochemical impedance spectroscopy were tested on Solartron 1470E multi-channel potentiostats.Cyclic voltammetry curves wereobtainedbetween $_ { 0 . 0 1 \\mathrm { ~ V ~ } }$ and $3 . 0 \\mathrm { V }$ with a scan rate of 0.2 $\\mathrm { m } \\mathrm { v } \\ s ^ { - 1 }$ ．Electrochemical impedance spectroscopy (EIs) was carried out on the cycled batteries charged to $3 . 0 \\mathrm { ~ V ~ }$ with the frequency range of 1MHz to $0 . 1 \\mathrm { H z }$ and RMS potential of $1 0 \\mathrm { m V } .$ All the electrochemical measurements were tested at a constant temperatureof $2 5 ~ ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows the XRD patterns of the as-synthesized $\\mathbf { M o S } _ { 2 }$ samples.The main diffraction peaks ofall samples are at $2 \\theta =$ $1 4 . 2 ^ { \\circ }$ ， $3 3 . 6 ^ { \\circ }$ ， $3 9 . 8 ^ { \\circ }$ and $5 9 . 3 ^ { \\circ }$ ,which are corresponding to (002), (100),(103) and (110) planes of $\\mathbf { M o S } _ { 2 }$ and can be indexed to orthorhombic phase of $\\mathbf { M o S } _ { 2 }$ (JCPDS no.37-1492).No diffraction peaks from residues or impurities have been detected, indicating the high purity of the products.With the increasing hydrothermal temperatures,the intensity of diffraction peaks becomes sharper and stronger,indicating the increasement of the crystal sizes and improvement of crystallinity.Meanwhile, the location of (oo2) peak shift to high angle,which means the decrease of (oo2) interplanar spacing,26 leading to a smaller space forLi ions intercalation.Raman analysis shown in Fig.2 further confirms the formation of $\\mathbf { M o S } _ { 2 }$ .The appearances of two peaks at $3 7 8 ~ \\mathrm { c m } ^ { - 1 } \\left( \\mathrm { E } _ { 2 \\mathrm { g } } \\right)$ and $4 0 4 \\ \\mathrm { c m } ^ { - 1 } \\left( \\mathrm { A } _ { 1 \\mathrm { g } } \\right)$ are due to the firstorder Raman vibration modes within the S-Mo-S layer.17,27 It hasbeen reported that the relativelybroaderaswell asweaker intensity of $\\mathbf { E } _ { 2 \\mathbf { g } }$ peak suggest that the crystal structure of $\\mathbf { M o S } _ { 2 }$ may contain substantial defect sites.28,29 With the hydrothermal temperature increases， the peaks of $\\mathbf { E } _ { 2 \\mathbf { g } }$ and $\\mathbf { A _ { 1 g } }$ become stronger and sharper,indicating a reduction of defects and better crystallinity,29 which is agreed with the XRD results. Besides,the layernumberof $\\mathbf { M o S } _ { 2 }$ decreases as well because the frequency of the $\\mathbf { A _ { 1 g } }$ mode decreases monotonously with increasing hydrothermal temperatures.30,31 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/be4016de2cfd53ee6aed607bf1d85a9c0165e57f7de6a1001081aba904f2d097.jpg",
+        "img_caption": [
+            "Fig.1 (a) XRD patterns of four $M \\circ \\mathsf { S } _ { 2 }$ samples.(b) Magnified XRDpatterns of ${ M O S } _ { 2 }$ samples in $2 \\theta$ range of $1 3 . 0 \\substack { - 1 6 . 0 ^ { \\circ } }$ ："
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The morphologies of the $\\mathbf { M o S } _ { 2 }$ samples were observed using SEM and the results are shown in Fig. 3a-d.All samples obtained show a flower-like morphology with diameters of $4 0 0 -$ $9 0 0 ~ \\mathrm { { \\ n m } }$ and composed of sheet-like subunits in random orientation.The nanosheets,having the thickness of $6 { - } 2 5 ~ \\mathrm { { n m } }$ aggregate to form the loose flower-like architecture,which are similar to other reported 3D $\\mathbf { M o S } _ { 2 }$ microstructure.17,32,33 As the hydrothermal temperature increases,the nanoflowers become fluffy and the nanosheets turn thinner，which is in good agreement with the Raman analysis.The fluffy structure could provide more void space，which could buffer the volume changes during intercalation-deintercalation process.² The reduction of the thickness of nanosheet could provide short pathways and high kinetics for lithium ion insertion-extraction.33,34 Furthermore,the surface area of $\\mathbf { M o S } _ { 2 }$ samples also increases with the reaction temperatures.As determined by Brunauer-Emmett-Tellermethod, the surface areaare found to be 9.68,15.19,16.46, $2 6 . 2 5 ~ \\mathrm { m } ^ { 2 } ~ \\mathrm { g } ^ { - 1 }$ for the samples synthesized under160,180,200 and $2 2 0 ^ { \\circ } \\mathrm { C }$ ,respectively.Inorderto further investigate the structural information of $\\mathbf { M o S } _ { 2 }$ ，HRTEMwere carried,as presented in Fig.4a-d.It can be obviously seen that the samples consist of few-layered $\\mathbf { M o S } _ { 2 }$ nanosheets.The interlayer distance of (oo2） plane measured from HRTEM images are 0.70，0.68，0.65， $0 . 6 3 ~ \\mathrm { { \\ n m } }$ with the increasing hydrothermal temperatures,respectively,which coincide with the results of XRD.It can be clearly seen that $\\mathbf { M o S } _ { 2 }$ nanosheets with various interlayer distance is also accompanied with the changes of their crystallinity，defects，thickness as well as specific surfaces area.The enlarged interlayer distances could facilitate lithium ion intercalation,resulting higher specific capacity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/be439cb66611b39c26949951627b2c27fd757aaea9bab087c342beaff7c5e19b.jpg",
+        "img_caption": [
+            "Fig.2Raman spectra of the ${ M O S } _ { 2 }$ samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3a83b165f1a55b06f1ecbea3a66eefbf662fd6f1c6c04e42e17698db4c62d51.jpg",
+        "img_caption": [
+            "Fig.3SEM images of (a) $M \\circ \\mathsf { S } _ { 2 }$ -160, (b) $M \\circ \\mathsf { S } _ { 2 }$ -180, (c) $M \\circ \\mathsf { S } _ { 2 }  – 2 0 0$ (d) $M \\circ \\mathsf { S } _ { 2 }  – 2 2 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f86000801b66bf409dbb437020ce8492c33d3d45977a397954d50cc474652128.jpg",
+        "img_caption": [
+            "Fig.4HRTEM images of (a) $M \\circ \\mathsf { S } _ { 2 }$ -160, (b) $M \\circ \\mathsf { S } _ { 2 }$ -180, (c) $M \\circ \\mathsf { S } _ { 2 }$ -200, (d) $M \\circ \\mathsf { S } _ { 2 }  – 2 2 0$ ",
+            "Fig.5 Cyclic voltammograms of ${ M O S } _ { 2 }$ samples at a scan rate of 0.2 $\\mathsf { m } \\mathsf { V } \\mathsf { s } ^ { - 1 }$ in potential range of 3.0 to 0.01 V vs. ${ \\mathsf { L i } } / { \\mathsf { L i } } ^ { + }$ (a) $M \\circ \\mathsf { S } _ { 2 }$ -160, (b) ${ M O S } _ { 2 }$ -180,(c) $M \\circ \\mathsf { S } _ { 2 }  – 2 0 0$ (d) $M \\circ \\mathsf { S } _ { 2 }  – 2 2 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cyclic voltammogram (CV) tests for coin cells were recorded at ambient temperature in the voltage range of $0 . 0 1 { - } 3 . 0 \\mathrm { ~ V ~ }$ ata scan rate of $0 . 2 \\ \\mathrm { m V } \\ \\mathrm { s } ^ { - 1 }$ for the initial five cycles,as shown in Fig.5.Here,take $\\mathbf { M o S } _ { 2 } – 2 0 0$ as an example to elucidate the electrochemical process of the $\\mathbf { M o S } _ { 2 }$ flowers (Fig.5c). During the first discharge process,two prominent peaks at O.9 and $0 . 3 \\mathrm { V }$ were observed.The peak at $0 . 9 \\mathrm { V }$ is due to the intercalation of Li-ions in the interlayer spacing of $\\mathbf { M o S } _ { 2 }$ (formation of $\\mathrm { L i } _ { x } \\mathrm { M o S } _ { 2 } )$ ,17,35 changing the $\\mathbf { M o S } _ { 2 }$ structure from 2H (trigonal prismatic) to 1T (octahedral).22,36,37 This peak disappears in the samples $\\mathbf { M o S } _ { 2 } – 1 6 0$ and $\\mathbf { M o S } _ { 2 } – 1 8 0$ because of their low crystallinity，which are nearly amorphous.3² The peak at $_ { 0 . 3 \\mathrm { ~ V ~ } }$ is corresponds to the decomposition of $\\mathrm { L i } _ { x } \\mathrm { M o S } _ { 2 }$ to Mo particles embedded in a $\\operatorname { L i } _ { 2 } S$ matrix.15,7,225 In the andic swep, two peaks at $1 . 7 \\mathrm { ~ V ~ }$ and $2 . 3 { \\mathrm { ~ V ~ } }$ were observed,which could be associated with delithiation of Mo and oxidation of $\\mathrm { L i } _ { 2 } \\mathrm { S }$ into sulfur, respectively.38 Therefore,after completion of first cycle,the electrode comprises unreacted $\\mathbf { M o S } _ { 2 }$ ，Mo,Li,and S.17 In the following discharge curves,the peak at $0 . 9 \\mathrm { V }$ disappears and the other two peaks at1.8 and $1 . 0 \\mathrm { V }$ canbe observed. The redox of Mo nanoparticles and revisable formation of $\\mathrm { L i } _ { 2 } \\mathrm { S }$ should be the reason for these two peaks.39,4o For the other samples，the variation of peaks is attributed to the different electronic environment and different sites or quantity of defects in $\\mathbf { M o S } _ { 2 }$ crystal structure.17,40,41 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine the lithium storage properties of $\\mathbf { M o S } _ { 2 }$ ，the galvanostatic charge-discharge tests were carried out under a constant current density between $_ { 0 . 0 1 \\mathrm { ~ V ~ } }$ and $3 . 0 \\mathrm { ~ V ~ }$ at $2 5 \\ ^ { \\circ } \\mathrm { C } .$ Fig. 6 depicts the first, second,fiftieth discharge-charge profiles of the four samples at a current density of $1 0 0 \\mathrm { \\ m A \\ g ^ { - 1 } }$ . The voltage plateaus of lithiation-delithiation curves are agree with the CV results.The initial discharge-charge capacities for $\\mathbf { M o S } _ { 2 } .$ 1 160, $\\mathbf { M o S } _ { 2 } – 1 8 0$ ， $\\mathbf { M o S } _ { 2 } – 2 0 0$ ， $\\mathbf { M o S } _ { 2 } – 2 2 0$ are $1 1 5 9 . 7 / 9 6 2 . 8 \\$ ，1112.5/ 939,925.9/791.8 and $8 7 2 . 2 / 7 2 5 . 5 \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ ，respectively. The ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.0 (a) 1. 2.3 2.0 (b) 1.72.3   \n(tu) zeenn 1.0 10 01020 1.4 2d 1.4 5h 0.3 -3.0 0.3 -3.0 0 0.51.0 1.5 2.0 2.53.0 0 0.51.01.52.02.53.0 Voltage (V/vs Li/Li+) Voltage (V/vs Li/Li+) 2.0 (c） 2.3 2.0 (d) 2.3   \n(W) 1.0 1.7 (A4) 1.0 1.7 0.9 1.8 1d 0.9 1.8 205 0.3 0.3 -3.0 0 0.51.0 1.52.02.53.0 -3.0 0 0.51.01.52.02.53.0 Voltage(V/vs Li/Li+) Voltage (V/vs Li/Li+)   \n(a) 302505 (b) 1st 1st 2nd 2nd 50th 50th   \n0 0 200400 600800 10001200 0 0 200400 600800 1000 1200 Specific capacity (mAh g1) Specific capacity (mAh g1)   \n3.0 (c) 3.0 (d)   \n5 2.0 2sd 1.5 2sd 50th 1.0 50th 0.5 0   \n0 200 400 600 8001000 0 200 400 600 8001000 Specific capacity (mAh g-1) Specific capacity (mAh g1) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "irreversible capacity loss for all the samples in the first cycle may be due to the formation of solid-electrolyte interface (SEI) layer,decomposition of electrolyte,and the trapping of some ireversible lithium inside lattice.21,36,39 The difference of their first discharge capacities could be ascribed to their various layer spacing and the quantity of defects.The sample synthesized at lowerhydrothermal temperature has larger interlayer spacing and more defects，resulting in enhanced electrochemical performance in terms of the initial lithiation kinetics and the charge storage capacity.19,22,42 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.7a gives more information about the cycling performance of $\\mathbf { M o S } _ { 2 }$ samples at a constant current density of 100 mA $\\mathrm { g } ^ { - 1 }$ .The results are listed in Table1. Clearly, $\\mathbf { M o S } _ { 2 } – 1 6 0$ and $\\mathbf { M o S } _ { 2 } – 1 8 0$ suffer a rather rapid capacity fading after 5O cycles.By contrast, the other two samples,i.e. $\\mathbf { M o S } _ { 2 } – 2 0 0$ and $\\mathbf { M o S } _ { 2 } – 2 2 0$ show significantly improved cycling stability.After 50 cycles,the reversible capacities are $8 1 4 . 2 \\mathrm { m A }$ h ${ \\mathrm { g } } ^ { - 1 }$ and $7 3 6 . 5 ~ \\mathrm { { m A } }$ h $\\mathrm { g } ^ { - 1 }$ for $\\mathbf { M o S } _ { 2 } – 2 0 0$ and $\\mathbf { M o S } _ { 2 } – 2 2 0$ ，respectively.The high reversible capacity and cycling durability of sample $\\mathbf { M o S } _ { 2 } – 2 0 0$ is comparative to those of other reported nanostructured $\\mathbf { M o S } _ { 2 }$ tested under similar conditions.17,20 It is generally accepted that $\\mathbf { M o S } _ { 2 }$ with enlarged c lattice parameter will exhibit better electrochemical performances as lithium ion battery anodes when the interlayer distance is taken into account alone.In this case,the $\\mathbf { M o S } _ { 2 }$ with interlayer distances of $0 . 6 8 \\ \\mathrm { n m }$ or $0 . 7 0 \\ \\mathrm { n m }$ should exhibit higher reversible lithium storage capacity than that with interlayer distances of $0 . 6 5 \\ \\mathrm { n m }$ .However,the electrochemical performances of $\\mathbf { M o S } _ { 2 }$ not only depend on the interlayer distance but also its crystallinity,defects,thickness as well as specific surface area.The better cyclic performances of sample $\\mathbf { M o S } _ { 2 } – 2 0 0$ and $\\mathbf { M o S } _ { 2 } – 2 2 0$ may be attributed to the high crystallinity,which may benefit for their structure stability.Besides, the presence of more void space provide effective buffering for the mechanical stress and volume variation during Li-ions insertion-extraction.32,41 Moreover,the flexible nature of the ultrathin $\\mathbf { M o S } _ { 2 }$ nanosheets enhances the robustness of the electrode structure.² Compared with $\\mathbf { M o S } _ { 2 } – 2 2 0$ ,although $\\mathbf { M o S } _ { 2 } .$ 200 shows lower crystallinity,more defects,smaller specific surface area and thicker nanosheets,it shows enlarged interlayer distance,which could provide larger space for lithium ion to intercalate,resulting inbetter electrochemical performances. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The rate performance of $\\mathbf { M o S } _ { 2 }$ samples was also investigated under different current densities ranged from 0.1 to $2 \\mathrm { ~ A ~ g ~ } ^ { - 1 }$ ，as show in Fig.7b.The discharge capacity values at the fifth cycle were selected for each current densitiesand the resultsare also listed in Table1.The reversible discharge capacities for the $\\mathbf { M o S } _ { 2 } .$ 1 200 and $\\mathbf { M o S } _ { 2 } – 2 2 0$ at 0.5, 1.0 and $2 . 0 \\mathrm { A g } ^ { - 1 }$ are 723,652,547 and 593,537, $4 7 3 \\mathrm { \\ m A } \\mathrm { h } \\mathrm { \\ g } ^ { - 1 }$ ,respectively.Remarkably，stable reversible discharge capacities of 771 and $7 0 9 ~ \\mathrm { { m A } }$ h $\\mathrm { g } ^ { - 1 }$ can be recovered when the current density returns to the 0.1 A $\\mathrm { g } ^ { - 1 }$ By comparison， thecapacitiesof $\\mathbf { M o S } _ { 2 } – 1 6 0$ and $\\mathbf { M o S } _ { 2 } – 1 8 0$ decays rapidly with increasing current density and the capacity values at 0.5,1.0 and $2 . 0 \\mathrm { A g } ^ { - 1 }$ are only 599,188,18 and 660,328, $8 7 ~ \\mathrm { { m A } }$ h $\\mathrm { g } ^ { - 1 }$ ,respectively. When the current density returns to the 0.1 A $\\mathrm { g } ^ { - 1 }$ ，reversible discharge capacities of 290.4 and $4 6 3 . 9 \\mathrm { \\ m A h { g } ^ { - 1 } }$ are obtained,which are much lower than those of $\\mathbf { M o S } _ { 2 } – 2 0 0$ and $\\mathbf { M o S } _ { 2 } – 2 2 0$ ，Obviously, $\\mathbf { M o S } _ { 2 }$ synthesized under high temperatures with smaller interlayer distances show much better electrochemical performances.This could be attributed to theirlarger surface area and extremely thin nanosheets,which endow thematerialwithdramatic incrementof reactive sitesand electrode-electrolyte interface,as well as much shorter diffusion pathway,thus enabling efficient $\\mathrm { L i } ^ { + } .$ /electron fast transport. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8 ：(a) 0.01-3.0V,25℃ AWMAAA MoS-200 WMoS-220 MoS,-180 MoS-160   \n0 10 20 30 40 50 60 Cycle number   \nr trleeearead 1200 （b）   \n.1A/g0.2A/g:0.5A/g1A/g2A/g0.1A/g   \n1000   \n800 MoS,-200   \n3   \n600 MoS,-220   \n400 □ MoS-180   \n200 1   \n0 = = 江 O MoS-160   \n0 10 20 30 40 50 60 70 Cyclenumber ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to gain insight into the differences in electrochemical performances of the resultant $\\mathbf { M o S } _ { 2 }$ ，EIS measurements were carried outafterthe first cycle and fiftieth cycle Fig.8 shows the Nyquist impedance plots of the $\\mathbf { M o S } _ { 2 } – 1 6 0$ and $\\mathbf { M o S } _ { 2 } – 2 0 0$ electrodes and the inset in Fig.8a is the equivalent circuit model3o,39 used for fitting the experimental EIS data. $R _ { \\mathrm { e } }$ is the internal resistance; the high frequency semicircle corresponds to resistance $R _ { \\mathrm { f } }$ and the constant phase capacitance $\\left( \\mathbf { C P E _ { 1 } } \\right)$ of SEI film; the medium frequency semicircle is related with the charge-transfer resistance $\\left( R _ { \\mathrm { c t } } \\right)$ and $\\mathrm { C P E } _ { 2 }$ of electrodeelectrolyte interface; The straight line in low frequency representing the Warburg resistance (W) is assigned to the Li-ions diffusion in electrode.It can be clearly seen that in the high to-low frequenciesrange, $\\mathbf { M o S } _ { 2 } – 2 0 0$ has lower $R _ { \\mathrm { f } }$ and $R _ { \\mathrm { c t } }$ values than those of $\\mathbf { M o S } _ { 2 } .$ -160 after the first and fiftieth cycle; in addition，the charge transfer resistance of $\\mathbf { M o S } _ { 2 } – 1 6 0$ was significantly increased from $3 8 . 3 ~ \\Omega$ to $1 8 4 . 4 \\Omega$ while $\\mathbf { M o S } _ { 2 } – 2 0 0$ only slightly changed from $1 5 . 3 \\ \\Omega$ to $2 0 . 7 ~ \\Omega$ ，This observation confirms that both SEI film resistance and charge-transfer resistance of $\\mathbf { M o S } _ { 2 } – 2 0 0$ are much smaller than those of $\\mathbf { M o S } _ { 2 }$ 1 160,which gives the evidences for the improvement of rate capability and cycling stability for the $\\mathbf { M o S } _ { 2 }$ samples synthesized under higher hydrothermal temperatures. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c3559e1cc79706fb3a5de4ac19f2f9a08b0ecf7cbf98a2341ce55ec67d8f3877.jpg",
+        "table_caption": [
+            "Table1 Electrochemical performances of $M \\circ \\mathsf { S } _ { 2 }$ samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">Cycle performances (mA h g-1 @100 mA g-1)</td><td colspan=\"5\">Rate performances (mA h g-1)</td></tr><tr><td>Samples</td><td>1st</td><td>50th</td><td>Retention</td><td>0.1Ag-1</td><td>0.2 Ag-1</td><td>0.5 A g-1</td><td>1Ag-1</td><td>2 Ag-1</td></tr><tr><td>MoSz-160</td><td>1159.7</td><td>55.7</td><td>4.8%</td><td>1008.2</td><td>965.4</td><td>599.0</td><td>187.6</td><td>17.8</td></tr><tr><td>MoS2-180</td><td>1112.5</td><td>438.7</td><td>39.4%</td><td>923.7</td><td>918.6</td><td>659.5</td><td>328.1</td><td>87.2</td></tr><tr><td>MoS2-200</td><td>925.9</td><td>814.2</td><td>87.9%</td><td>797.4</td><td>773.3</td><td>723.1</td><td>652.2</td><td>547.3</td></tr><tr><td>MoS2-220</td><td>872.2</td><td>736.5</td><td>84.4%</td><td>740.9</td><td>668.7</td><td>593.0</td><td>536.7</td><td>472.8</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1de491d158cf9f849a5debb55687bd282c0098f1d02fe5dbbf26c277e8d8c5b0.jpg",
+        "img_caption": [
+            "Fig.8(a) Nyquist plots of $M O S _ { 2 } – 1 6 0$ and $M \\circ \\mathsf { S } _ { 2 }  – 2 0 0$ with frequency range from ${ 1 0 ^ { 6 } }$ to ${ 0 . 1 } { \\mathsf { H z } }$ at the 1st and 50th cycle in the potential window of3.0 to $0 . 0 1 \\mathsf { V }$ ：the inset in (a) is the equivalent circuitused for fitting the EIS data. (b) Magnification of red square in (a). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { M o S } _ { 2 }$ nanoflowers consisting of nanosheetshavebeen successfully synthesized bya facile hydrothermal method.The hydrothermal temperature played an important role in determining the interlayer-spacing of $\\mathbf { M o S } _ { 2 }$ nanosheets.Samples synthesized under lower hydrothermal temperature show enlarged interlayer distance accompany with lower crystallinity, more defects,smaller specific surface area and thicker nanosheets.When employed as anodes for lithium ion batteries, $\\mathbf { M o S } _ { 2 }$ synthesized under $2 0 0 ~ ^ { \\circ } \\mathbf { C }$ with an appropriate interlayer distance of $0 . 6 5 \\mathrm { n m }$ exhibit the highest lithium storage capacity and the best rate capability,showinga high discharge capacity of $8 1 4 . 2 ~ \\mathrm { m A }$ h ${ \\mathrm { g } } ^ { - 1 }$ at $1 0 0 \\mathrm { \\ m A \\ g ^ { - 1 } }$ after 50 cycles and as high as $6 5 2 . 2 \\ \\mathrm { m A }$ h $\\mathrm { g } ^ { - 1 }$ and $5 4 7 . 3 \\ \\mathrm { m A }$ h $\\mathrm { g } ^ { - 1 }$ at current densities of 1A ${ \\mathrm { g } } ^ { - 1 }$ and $2 \\mathrm { ~ A ~ g ~ } ^ { - 1 }$ at $2 5 ~ ^ { \\circ } \\mathbf { C }$ respectively. Clearly, the electrochemical performances of $\\mathbf { M o S } _ { 2 }$ not only depend on the interlayerdistance butalso its crystallinity,defects,thickness as well as specific surface area.The excellent lithium storage properties are attributed to its controllable optimized interplanar distance with good crystallinity,appropriate surface area and defects as well as thickness of nanosheets，which could benefit for lithium-ion to intercalate and accommodate volume changes while keeping its structure stability，providing more reaction sitesand offering short pathways and high kinetics for lithium ion insertion-extraction. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful for financial support from the National Key Basic Research Program of China (973 Program,Grant no. 2012CB7227oo)，the National Natural Science Foundation of China (Grant no.51172250,51202265)，the Strategic Priority Research Program of the Chinese Academy of Sciences,(Grant no．XDA09010201） and the Key Research Program of the Chinese Academy of Sciences,(Grant no.KGZD-EW-202). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1P.G.Bruce,B.ScrosatiandJ.M.Tarascon,Angew. Chem., Int. Ed.,2008,47,2930-2946.   \n2 L.Ji,Z.Lin,M.Alcoutlabi and X. Zhang,Energy Environ. Sci., 2011,4,2682.   \n3 C. Yuan,H.B.Wu, Y. Xie and X.W. Lou,Angew. Chem., Int. Ed.,2014,53,1488-1504.   \n4M.V.Reddy,G.V.Subba Rao and B.V.R.Chowdari, Chem. Rev.,2013,113,5364-5457.   \n5D.Ma,Z. Cao and A.Hu,Nano-Micro Lett.,2014,6,347-358.   \n6 Q. Gao,L. Yang, X. Lu,J. Mao, Y. Zhang, Y. Wu and Y. Tang,J. Mater. Chem.,2010,20,2807.   \n7 L. Yang,L. Liu, Y. Zhu, X. Wang and Y. Wu,J. Mater. Chem.,   \n2012,22,13148.   \n8 L. C. Yang, Q. S. Gao, Y. Tang, Y.P. Wu and R. Holze,J. Power Sources,2008,179,357-360.   \n9 B.Luo,Y.Fang,B. Wang,J. Zhou,H. Song and L. Zhi, Energy Environ. Sci.,2012,5,5226.   \n10 C.Feng,L. Huang,Z. Guo and H.Liu, Electrochem. Commun.,   \n2007,9,119-122.   \n11 Q. Wang, L. Jiao, Y. Han, H. Du, W. Peng, Q. Huan, D. Song, Y. Si, Y. Wang and H. Yuan, J. Phys. Chem. C,2011,115,   \n8300-8304.   \n12 D. Zhang, J. P. Tu, J. Y. Xiang,Y. Q. Qiao,X. H. Xia, X.L.Wang and C.D.Gu,Electrochim.Acta,2011,56,9980-   \n9985.   \n13 Y.Han, Y.Wang,W. Gao, Y.Wang, L. Jiao,H. Yuan and S.Liu,Powder Technol.,2011,212,64-68.   \n14 W. Ni, B. Wang, J. Cheng, X. Li, Q. Guan, G. Gu and L. Huang,Nanoscale, 2014,6,2618.   \n15M. Wang, G.Li,H. Xu, Y. Qian and J. Yang,ACS Appl. Mater. Interfaces,2013,5,1003-1008.   \n16 X.Huang, Z. Zeng and H. Zhang, Chem. Soc. Rev.,2013,42,   \n1934.   \n17 U. K. Sen and S. Mitra,ACS Appl. Mater. Interfaces, 2013,5,   \n1240-1247.   \n18S.K.Das,R. Mallavajula,N. Jayaprakash and L.A.Archer,J. Mater.Chem.,2012,22,12988.   \n19 X. Zhou, L. J.Wan and Y.G.Guo, Nanoscale,2012,4, 5868-   \n5871.   \n20 C. Zhang,H.B.Wu, Z. Guo and X. W.Lou, Electrochem. Commun.,2012,20,7-10.   \n21 C. Zhu, X. Mu, P.A. van Aken, Y. Yu and J. Maier,Angew. Chem.,Int.Ed.,2014,53,2152-2156.   \n22 G. Du, Z. Guo, S.Wang,R. Zeng, Z. Chen and H. Liu, Chem. Commun.,2010,46,1106-1108.   \n23 H. Liu, D. Su, R. Zhou, B. Sun,G. Wang and S. Z. Qiao, Adv. Energy Mater.,2012,2,970-975.   \n24J.Xiao，D.Choi，L.Cosimbescu，P.Koech，J.Liu and J.P.Lemmon,Chem.Mater.,2010,22,4522-4524.   \n25 H. Hwang,H. Kim and J. Cho,Nano Lett,2011,11, 4826- 4830.   \n26 N.Li, Y. Chai, Y. Li, Z. Tang, B. Dong, Y. Liu and C. Liu, Mater.Lett.,2012,66,236-238.   \n27 B. C. Windom, W. G. Sawyer and D.W. Hahn, Tribol. Lett., 2011,42,301-310.   \n28 K. K. Liu, W. Zhang, Y. H. Lee, Y. C. Lin,M. T. Chang, C. Y. Su, C. S. Chang, H. Li, Y. Shi, H. Zhang, C. S. Lai and L. J.Li,Nano Lett.,2012,12,1538-1544.   \n29 D. Wang, Z. Pan, Z. Wu, Z. Wang and Z. Liu,J. Power Sources, 2014,264,229-234.   \n30 Z. Wang, T. Chen, W. Chen, K. Chang, L. Ma, G. Huang, D. Chen and J. Y. Lee,J. Mater. Chem. A, 2013,1, 2202.   \n31 H. Li,Q. Zhang, C.C.R.Yap,B.K. Tay,T.H. T. Edwin, A. Olivier and D. Baillargeat,Adv. Funct. Mater.,2012,22, 1385-1390.   \n32 S.Ding,D. Zhang,J. S. Chen and X.W.Lou, Nanoscale,2012, 4, 95-98.   \n33 S. Liang,J. Zhou,J. Liu,A. Pan, Y. Tang,T. Chen and G.Fang, CrystEngComm,2013,15,4998.   \n34 D.Rangappa, K. D. Murukanahally, T. Tomai, A. Unemoto and I.Honma,Nano Let,2012,12,1146-1151.   \n35 S.Hu,W. Chen, J. Zhou,F. Yin,E. Uchaker,Q. Zhang and G. Cao,J. Mater. Chem. A, 2014,2,7862.   \n36 Y. Liu, L. Ren, X. Qi, L. Yang, J. Li, Y. Wang and J. Zhong, J. Energy Chem.,2014,23,207-212.   \n37 H. Li, W. Li, L. Ma,W. Chen and J. Wang,J. Alloys Compd., 2009,471, 442-447.   \n38 C. Zhao, J. Kong, X. Yao, X. Tang, Y. Dong, S. L. Phua and X.Lu,ACS Appl.Mater. Interfaces,2014,6,6392-6398.   \n39 X. Wang, Z. Zhang, Y. Chen, Y. Qu, Y. Lai and J. Li,J. Alloys Compd.,2014, 600,84-90.   \n40 K.Chang and W. Chen，Chem. Commun.,2011,47,4252- 4254.   \n41L.Zhangand X.W.Lou, Chem.-Eur.J.,2014,20,5219-5223.   \n42 C.Feng, J. Ma,H. Li, R. Zeng, Z. Guo and H. Liu, Mater. Res. Bull.,2009,44,1811-1815. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

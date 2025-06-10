@@ -1,0 +1,342 @@
+[
+    {
+        "type": "text",
+        "text": "耀斑爆发期间电流的突然增加",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王楠1²，梁红飞1²,杨丽平1,²，孙霞²，李子涵1,2(1.云南师范大学 物理与电子信息学院，云南 昆明 650500；2.云南省高校高能天体物理重点实验室 云南 昆明 650500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文利用SDO(Solar Dynamic Observatory)/HMl(Helioseismic and MagneticImager)观测到的矢量磁图，运用Ampere定律的积分形式计算出了2014年11月7日活动区AR12205上发生X1.6级耀斑期间的垂直电流密度，通过分析光球层上垂直电流密度的时间演化，发现它会在耀斑爆发期间表现出突然的增加，增加的区域对应于耀斑双带的辐射增强位置，然后将强电流密度轮廓叠加在SD0/AIA1600A波段的观测图像上，发现电流密度的形态与分布和耀斑带有强相互关系。这些观测结果与三维标准耀斑模型的理论预测一致，我们的研究为三维磁准分界面（Quasi-SeparatrixLayer，QSL）重联模型提供了有力的观测证据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：活动区；耀斑；矢量磁场；电流密度中图分类号：P182文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "太阳耀斑是太阳上最剧烈的活动现象之一，耀斑的爆发常常伴随着CME 和大量高能粒子的辐射，对地球上的卫星，无线电通信，甚至气象、天文以及植物生长等方面会产生不同程度的影响，因此研究耀斑显得至关重要。目前耀斑分类方式很多，按照它的形态和物理机制可将其分为致密耀斑和双带耀斑[1]。双带耀斑一般为爆发型耀斑（伴随着 CME）[2]，在爆发型耀斑爆发过程中有几个观测特征，如：耀斑环，色球层观测到的J形耀斑双带以及扭曲的通量绳[3]。双带耀斑模型[4][5]（CSHKP 模型/标准耀斑模型）以及进一步的完善[6][7]，在二维空间解释了一些爆发耀斑的观测特征（暗条上升导致的耀斑环顶的形成、耀斑带)，该理论模型表明在爆发耀斑过程中，由于磁结构的改变导致暗条上升，使其上覆的磁拱拉伸，在低层日冕中形成X型磁结构（中性电流片)，磁能在此耗散，产生了跨越磁中性线的一系列耀斑环，其足点在色球层形成耀斑双带[1]。但是标准耀斑模型因为局限于二维空间，对于许多三维观测特征，如耀斑环由强到弱的剪切，耀斑带和通量绳的演化，以及光球电流的发展未作出解释，所以相应的三维模型应运而生。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "早期人们提出了一些三维的卡通模型[8-9]，成功解释了日冕 S 形和通量绳的爆发等三维观测特征，随后G．Aulanier[10]对标准耀斑模型进行了三维扩展，研究了耀斑环的剪切变换，模拟了磁重联发生位置电流片的演化，发现电流片会在CME后呈倒Y形，与耀斑环有相同的结构，因此电流片从日冕延伸到光球层的足点应与耀斑带有很好的对应关系。之后对三维标准耀斑模型的进一步扩展，表明在磁力线联系具有很陡梯度的准分界层[1]（Quasi-SeparatrixLayer,QSL）处发生了磁重联，该处的垂直横截面表现出的X形与双曲通量管[12]在日冕处的形状对应，所以 QSL 周围存在强电流密度区域[3-15]，QSL 和电流密度的时间演化和形状与耀斑带类似[16]。Savcheva等人[17-18],此后研究了不同的通量绳区域，作者发现，从",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通讯简介：梁红飞，男，教授.研究方向：太阳物理.Email：lhf@ynao.ac.cn数据约束NLFFF模型中获得的QSL的色球足迹与数值模拟和观测中发现的耀斑带和电流带相似。Janvier等人通过对 2011年2月15日的X2.2级耀斑的研究，首次量化了耀斑爆发期间电流的变化，他们发现，在耀斑脉冲期间，J形电流带的电流密度不管在直线部分还是弯曲部分都表现出突然的增加，通过模拟证实了这是由日冕电流层的突然坍塌导致的，对比垂直电流密度与AIA335A 滤波器上观测到的耀斑带和模拟的电流带的时间演化图，发现有很好的对应关系，这在观测上证实了具有QSL结构的三维标准耀斑模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于QSL 结构的三维标准耀斑模型的观测支持需要分析更多活动区的耀斑带和电流带的相似性，以及在爆发耀斑处电流的演化。在这篇论文中，我们将针对活动区12205 的电流进行研究，分析其在耀斑前后的变化，并将其形态与观测到的耀斑带进行比较，为QSL 三维标准耀斑模型提供观测支持。本文中电流的计算是通过对太阳动力学观测台（SDO）上的日震磁像仪(HMI)获得的磁场数据进行处理，利用 Ampere 定律积分形式计算电流密度。我们使用积分形式的优势是可以减少噪声的影响。我们还将使用 SDO 上的太阳大气成像仪（AIA）观测耀斑的形态及其演化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1SD0的观测和电流密度的计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 SDO 观测仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "太阳动力学观测站[19]（Solar Dynamics Observatory，SDO）是美国宇航局（NASA）“与恒星一起生存”(Living Witha Star Program)计划中发射的第一颗人造观测卫星。SDO 总共搭载了三个科学实验仪器：日球层磁场观测仪[20]（Helioseismic and Magnetic Imager，HMI）、太阳大气成像仪[21]（Atmospheric Imaging Assembly，AIA）和极紫外成像仪（EUVVariability Experiment，EVE)。其中HMI可以通过Fe $\\mathrm { ~ I ~ } 6 1 7 . 3 ~ \\mathrm { n m }$ 吸收线获得全日面4096$\\times 4 0 9 6$ 像素的连续强度图像、视向磁图和矢量磁场信息。视向磁图的空间分辨率为1角秒，时间分辨率为45s。矢量磁场22是通过反演6个波长处采集的斯托克斯矢量平均后得到的，因此应用矢量磁场快速反演技术 VFISV(Very Fast Inversion of the Stokes Vector)获得的矢量磁图的时间分辨率降到12min，空间分辨率为0.5角秒。应用VFISV技术的缺陷是计算出的矢量磁场的方位角具有 $1 8 0 ^ { \\circ }$ 不确定性，SDO团队在HMI仪器中应用该技术的同时利用了能量最小法[23弥补了这一缺陷，使得 HMI测量到的矢量磁图可以被直接使用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SDO/AIA 仪器[21]上装载着四个望远镜,1号望远镜主要观测 131A和 $3 3 5 \\mathring { \\mathrm { A } }$ 波段，2号望远镜观测193A和211A波段，3号望远镜观测UV波段（1600A、1700A)，可见光（4500A）波段和171A波段，4号望远镜观测94A和304A波段，这些波段的观测区域对应光球层到日冕层之间的全部太阳大气区。望远镜具有 $1 2 \\mathrm { s } / 2 4 \\mathrm { s }$ 的时间分辨率和 $0 . 6 / 1 . 2$ 角秒的空间分辨率。本文主要利用了AIA上的171A、304A和 $1 6 0 0 \\mathring { \\mathbf { A } }$ 波段的数据对所研究活动区的耀斑形态及其演化进行分析，其中171A波段观测区域为宁静日冕，对应等离子体特征辐射温度大约为0.7MK,304A观测区域为色球层和过渡区，对应等离子体特征辐射温度大约为 $0 . 0 5 \\mathrm { M K }$ 1600A观测的区域为光球上层和过渡区，对应等离子体特征辐射温度为0.1MK[24]。选择这三个波段的观测数据目的是为了能从各个太阳大气层中展现太阳耀斑爆发期间耀斑的演化和精细结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2电流密度的计算方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们一般选择发生在日面中心附近的事件进行观测，这样可以有效避免投影效应对观测结果的影响。2014年11月7日发生在AR12205 的X1.6级耀斑事件就是一次很好的观测事件，因为它的强度和它靠近日面中心的位置（N15E33)。同时因为AR12205是一个复杂的磁场区域（具有 $\\mathrm { ~ \\textit ~ { ~  ~ } ~ } \\gamma \\mathrm { ~ \\textit ~ { ~  ~ } ~ }$ 型黑子群)，7日这一天在该活动区爆发了3个M级耀斑、5个C级耀斑和1个X级耀斑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1a 显示的是SDO/HMI观测到的AR12205在11月7日17:22：12UT时刻的纵向磁图，其中白色代表正极磁场，黑色代表负极磁场，红色箭头指向极性反转线（Polarity inversionline，简称PIL，图1中a、b、c三幅图中的黄色虚线所示)。该活动区存在两个δ黑子（一个位于[-580”， $2 4 5 ^ { \\ ' } ]$ ，另一个位于[-530”、200\"][25]），本文分别用蓝色方框和红色方框表示。图1b 为该活动区在与图1a同一时刻 SDO/HMI观测到的矢量磁图，其中背景灰度图为图1a中的纵向磁图，上覆的箭头表示横向磁场，箭头长度表示横向磁场的大小，箭头方向表示横向磁场方向，蓝色和红色则是为了区分正极和负极纵向磁场。从表示横向磁场的箭头中，我们发现PIL 附近的箭头与PIL不完全垂直，有的甚至平行于PIL，表明磁场存在明显的剪切，这在 Francesca Zuccarello 等人[25]（2020年，图3）利用地面快速振荡太阳大气成像系统（ROSA；安装在新墨西哥州美国国家太阳天文台 Dunn 太阳望远镜上[26]）观测到的图片中可以更直观明显地看出。存在剪切就代表存在电流[1]。光球内电流密度的垂直分量 $j _ { z }$ 可以通过JSCO数据库中 HMI观测到的矢量磁场数据来进行计算。通常人们利用 Ampere定律的微分形式计算得出：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf j } _ { z } = \\frac { 1 } { \\mu _ { 0 } } ( \\nabla \\times \\vec { B } ) _ { z }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\mu _ { 0 }$ 为真空磁导率。但是随着空间观测仪器分辨率的提高，微分形式计算出的电流密度会受到随机误差的影响，而使真实数据被误差值淹没。该算法的弊端在梁 2006 年发表的论文中有详细描述，该篇论文提出采用安培定律积分算法计算光球电流密度的垂直分量要优于微分算法。所以本文中我们也采用安培定律的积分形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nj _ { z } = \\frac { 1 } { \\mu _ { 0 } } \\frac { ⨏ _ { l } ( \\vec { B } _ { x , m } + \\vec { B } _ { y , m } ) \\cdot \\vec { d { l } } } { \\Delta s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算电流密度的垂直分量 $j _ { z }$ 。式中l为所选积分路径， $\\varDelta s$ 为积分路径i所包围的面积。为了计算的方便，积分路径l一般选择边长为 $n \\varDelta x$ 的正方形（n为空间隔点数， $\\varDelta x$ 为空间隔点宽度即分辨率)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "n 的选取要适当，经过梁红飞[27]和杨丽平[28]的详细计算，他们分别利用不同的磁场背景条件得出了 $\\mathrm { \\ n { = } } 4$ 时积分路径是最优的。当 $\\mathrm { \\ n { = } } 4$ 时，所选积分路径如图2中黑色粗线方框所示，其中0点为环路积分中心点，围绕0点以正方形（ $\\varDelta x = \\varDelta y$ ）的黑色粗线积分路径对横向磁场 $( B _ { x } , B _ { y } )$ 积分便可得到该区域中的电流密度平均值。由公式（2）可得该积分环路中电流密度的计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle { \\left( j _ { z } \\right) _ { i , j } = \\frac { 1 } { \\mu _ { 0 } } \\frac { \\oint _ { i } ^ { * } ( \\vec { B } _ { x , m } + \\vec { B } _ { y , m } ) \\cdot d \\vec { l } } { \\Delta s } } } \\\\ & { \\displaystyle { = \\frac { 1 } { 1 6 \\mu _ { 0 } \\Delta x \\Delta y } \\Biggl ( \\sum _ { i = 1 } ^ { i + 2 } \\frac { \\left( B _ { x } \\right) _ { i - 2 , j - 2 } + \\left( B _ { x } \\right) _ { i - 1 , j - 2 } } { 2 } \\Delta x + \\sum _ { j = 1 } ^ { j + 2 } \\frac { \\left( B _ { y } \\right) _ { i + 2 , j - 2 } + \\left( B _ { y } \\right) _ { i + 2 , j - 1 } } { 2 } \\Delta y \\Biggr ) } } \\\\ & { \\displaystyle { - \\frac { 1 } { 1 6 \\mu _ { 0 } \\Delta x \\Delta y } \\Biggl ( \\sum _ { i = 1 } ^ { i - 2 } \\frac { \\left( B _ { x } \\right) _ { i - 2 , j + 2 } + \\left( B _ { x } \\right) _ { i - 1 , j + 2 } } { 2 } \\Delta x + \\sum _ { j = 1 } ^ { j + 2 } \\frac { \\left( B _ { y } \\right) _ { i - 2 , j - 2 } + \\left( B _ { y } \\right) _ { i - 2 , j - 1 } } { 2 } \\Delta y \\Biggr ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\varDelta s = 4 \\varDelta x \\times 4 \\varDelta y \\mathrm { ~ , ~ }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1c 显示的就是利用该公式在AR1220517：22：12UT计算得出的光球层垂直电流密度$j _ { z }$ ，从图中可以看出电流密度的分布与磁场分布相同，集中分布在两个δ黑子区域，橙黄色（蓝色）代表的正（负）电流密度大多出现在正（负）极性上。沿着PIL（图中黄色虚线所示)，正负电流密度分布在其两侧，表示相反的电流带，呈现出双J形结构。第三节我们将主要研究两个方框内的电流密度的时间演化。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/78194542f7ea7bdd452e8dc641fdad91f039c1ae518e2d0c92e190e2440b6b99.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1图a为2014年11月07日17：22：12UTAR12205的纵向磁图，白色为正极（黑色为负极），左侧颜色棒代表磁场大小；图b底板为纵向磁图，其上叠加了同时间的矢量磁图，红色箭头区域代表负极纵向磁场，蓝色箭头代表正极纵向磁场区域，箭头长度表示横向磁场的大小，箭头方向表示横向磁场方向；图c为该活动区17：22：12UT的电流密度分布图，左侧颜色棒代表电流密度大小。三幅图中的黄色点线代表极性反转线。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Figureashows the longitudinal magneticdiagramof AR12205at17:22:12 UTon November7,2014.White is the positivepole(black is the negative pole)，and thecolorbaron the left represents the sizeof the magnetic field; Figure b the bottom plate is a longitudinal magnetic map,on which the vector magnetic map at the same time is superimposed.Theredarrowrepresents the negative magneticfieldandthe blue arow represents thepositive;Figure c shows thecurrent densitydistributionof 17:22:12UT in the activearea,and thecolor baron the left represents the current density.The yellow dotted lines in the three figures represent polarity reversal lines. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8836c142af80f51c0e07584a4dabffcc18f6bac1697332db927922cfa68eb52.jpg",
+        "img_caption": [
+            "图2安培定律积分算法的积分路径，黑色粗线方框为 $\\mathrm { n } { = } 4$ 时的积分路径。"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Theintegrationpathof Ampere'slawintegrationalgorithm,andtheblackthick line boxistheintegration path when $\\mathrm { ~ n ~ } = \\mathrm { ~ 4 ~ }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2电流密度在耀斑爆发期间的演化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了研究AR12205上的电流密度在 X1.6级耀斑爆发期间（X1.6 级耀斑在16：53UT开始爆发，17：26到达峰值）的变化，我们通过 SDO/HMI观测到的矢量磁场数据，利用安培环路积分法从耀斑爆发前（16:46UT）开始，每隔12min计算一次活动区12205的电流密度的垂直分量,截止到耀斑主相(17:46UT)，一共6幅图,如图3所示。其中橙黄色斑块表示>0.1$A / m ^ { 2 }$ 的正电流密度，蓝紫色斑块表示 $\\scriptstyle \\left. - 0 . \\textnormal { l } A / m ^ { 2 } \\right.$ 负电流密度，蓝色方框和红色方框所围区域分别为两个δ黑子区域。从图中观察发现在蓝色方框区域的电流密度变化最明显。耀斑爆发前此处正负电流密度分别分布在PIL两侧（图3a)，随着重联发生，负电流密度带面积变大，并向右侧移动，到17：22UT时刻发现PIL右侧出现了少量负电流密度，如图d所示，负电流密度的轮廓也由初始耀斑爆发时刻显示的椭圆形（图b）变成了圆形（图e)；同时正电流密度也增加了，在16：46UT蓝色方框区域的正电流密度是连续的，17：10UT正电流密度带向下拉伸延长，但随着负电流密度的向右移动，正电流密度在17：22UT之后被撕裂成了两部分（图d)。红色方框内的垂直电流密度从间隔 12min 的演化图中并不能很明显看到它的变化，所以为了更直观看到电流密度在耀斑爆发前后形态上的变化，我们作了光球电流密度垂直分量的差异分布图，如图4所示，图a为17：22：12UT与16：46：12UT的垂直电流密度差异图，图b为17：34：12UT与16：58：12UT的垂直电流密度差异图。图4表明在耀斑开始前后蓝色方框所选区域的垂直电流密度差异变化最大，而红色方框内的电流密度在耀斑达到峰值后才出现了显著的增加。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f26654df6b16739aad658e650c37ef2ed5b16fb33247d31b9c1f3bdd7ae7cc36.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3 活动区AR12205在2014年11月7日耀斑发生前，期间，后的垂直电流密度时间演化图。黄绿红色代表正电流密度，蓝紫色代表负电流密度，图a左上角颜色棒代表电流密度大小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Time evolution diagramof vertical current densityinactivearea arl2205before,duringand after the flare onNovember7,2014.Yellowred represents thepositivecurrent density，blue purplerepresents thenegativecurrent density，and the color bar in the upper left corner of figure a represents the current density. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了量化耀斑爆发前后电流的变化，我们通过对图3中蓝色方框和红色方框所选区域的电流密度分别进行积分，得到了这两处电流强度随时间变化的轮廓图，即图5和图6。图5和图6中的实线和虚线轮廓分别表示正电流和负电流，垂直虚线分别表示电流突然开始增加的时间和达到顶点的时间。在图5中可以很直观地看出在耀斑开始前5分钟16：48UT，电流表现出一个突然的增加，正电流从大约 $1 . 9 { \\times } 1 0 ^ { 1 2 } A$ 增加到 $2 . 4 7 \\times 1 0 ^ { 1 2 } A$ ，增加了1.3倍，负电流从大约 $1 . 7 5 \\times 1 0 ^ { 1 2 } A$ 增加到 $2 . 3 8 \\times 1 0 ^ { 1 2 } A$ ，增加了1.36倍。在耀斑缓变相时，该处电流回落，但回落的幅度不是很大，且比较缓慢。图6中的正负电流强度轮廓也表现出突然的增加，但是它们增加的过程时间将近1个小时，正电流在大概17：00UT开始增加，从大约$1 . 9 2 \\times 1 0 ^ { 1 2 } A$ 增加到 $2 . 3 0 { \\times } 1 0 ^ { 1 2 } A$ ，增加了1.19倍，负电流在16：48开始增加，从大约1.93$\\times { 1 0 } ^ { 1 2 } { A }$ 增加到 $2 . 2 8 \\times 1 0 ^ { 1 2 } A$ ，增加了1.18倍。17：50UT后，红色方框区域内的电流有所回落，但是我们发现在18：30之后不管是正电流还是负电流它们又呈现一种增长趋势，不过较缓，不是一种突然的增加，这一现象在图5中也可以发现，Yurchyshyn 等人证明在耀斑爆发后存在第二个全局性爆发后拱廊系统[29]，所以在 X1.6级耀斑结束后不管是在蓝色方框区域还是红色方框区域内的电流都有一个缓慢的增加。总结我们所发现的特征：磁场发生明显剪切的区域电流密度表现出增加，以及电流随时间的演化轮廓图中（图5)，在耀斑脉冲阶段电流突然增加后缓慢演变，这些现象都表明依赖偏振光信号得到的电流密度并没有受到耀斑爆发的影响而失真。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a69eec51a63198752a8a752f664ec44bcf543129b2ad21472b2bf892c4d46b8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图4图a为17:22:12UT-16:46:12UT两个时刻的电流密度差分图，图b为17:34:12UT-16:58:12UT的垂直电流密度差异图。其中蓝色方框为电流密度变化最大的区域，红色方框是另一个δ黑子所在区域，电流密度变化相对较大，橙黄色斑块表示 $\\textstyle > 0 . 0 5 A / m ^ { 2 }$ 的正电流密度，蓝紫色斑块表示 $\\langle - 0 . 0 5 A / m ^ { 2 }$ 负电流密度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4a:thecurrnt density difference diagramof 17:22:2UT-16:46:12UT,b:thevertical current densitydifference diagramof 17:34:12UT-16:58:12UT.The blue boxis thearea where thecurrentdensitychanges the most，thered box is thearea whereanotherδsunspotislocated,andthecurrent densitychanges relativelygreatly.Theorange yelow patch represents the positive current density of $> 0 . 0 5 \\ A / m ^ { 2 }$ ，and the blue purple patch represents the negative current density of $\\mathrm { ~ < ~ } - 0 . 0 5 \\ A / m ^ { 2 }$ = ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b97849242ebc49306d3ba0350b5aa5057ee42d59283ff57779557d986e3ea003.jpg",
+        "img_caption": [
+            "图5 图3中蓝色方框所指区域的积分电流强度变化图。横坐标表示时间，从12UT-23UT，纵坐标表示电流强度值。虚曲线表示负电流强度，实曲线表示正电流。垂直虚线分别表示电流突然开始增加的时间和耀斑峰值时间。"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5TheintegralcurrentintensitychangediagramoftheareaindicatedbytheblueboxinFig.3.The abscissa represents the time，froml2UTto 23UT,and the ordinaterepresents thecurrent intensityvalue.The imaginary curve represents the negativecurrent intensity and the real curve represents thepositivecurrent.The vertical dotted line indicates the time when the current suddenly begins to increaseand the peak timeof the flare，respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/65cbf4597205df8c3784e25aab6dcf77689317868c51327462e40e99a0fc21cf.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图6 图3中红色方框所指区域的积分电流强度变化图。横坐标表示时间，从12UT-23UT，纵坐标表示电流强度值。虚曲线表示 负电流强度，实曲线表示正电流。垂直虚线分别表示电流突然开始增加的时间、耀斑峰值时间和电流值达到顶峰的时间。 Fig.6 Theintegralcurrent intensitychangediagramof thearea indicated bytheredboxinFig.3.The abscissa represents the time，froml2UTto 23UT,and the ordinate represents thecurrent intensityvalue.The imaginary curve represents the negative current intensity and the real curve represents the positive current.The vertical dotted lineindicates the time when thecurrent suddenlybegins toincrease,the peak timeof theflare and the time when the current reaches the peak,respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "电流密度在耀斑爆发前的突然增加与耀斑的爆发有何联系？下面我们将利用AIA 仪器观测X1.6级耀斑的演化，分析耀斑的演化与电流突然增加的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2014年11月7日在AR12205爆发的X1.6级耀斑，是由耀斑开始时的通量绳喷发，引发了一系列事件爆发，12205活动区稳定性变弱，之前磁场存储的剪切被释放导致的耀斑爆发[7]。X1.6级耀斑的形态是一个典型的双带结构。从图7中，我们可以看到在 SD0/AIA上3个波段的耀斑双带的时间演化图，3个波段分别为171A、304A和 $1 6 0 0 \\mathring { \\mathbf A }$ ，对应图中第一列、第二列和三列，每一行的3幅图时间几乎相同。首先在第一行（耀斑的初始爆发时刻左右)的a1和b1图中我们发现有一个明显的增亮，从光球层上可以看到同一位置的增亮在2分钟后演化为了磁环（图7c1所示)，之后该磁环断裂成两部分，两条色带在 $1 6 0 0 \\mathring { \\mathbf { A } }$ 波段中逐渐清晰。171A和304A图中可以看到磁环分裂成的分支的解扭过程，图a2和b2中磁环分支明显存在扭曲，大概十分钟后（a3、b3图）扭曲的分支解扭被抛射，171A波段（图7a3）中耀斑环逐渐形成，色球层（304A，图6b3）中正J形结构耀斑双带被同时观测到。这一系列的观测现象都表明该处是耀斑爆发的初始位置，发生了磁重联，这一位置正是图3中蓝色方框所指区域，电流密度变化最大的区域。在图7的最底行图中，耀斑峰值时刻的171A、304A、 $1 6 0 0 \\mathring { \\mathrm { A } }$ 波段中耀斑双带的弯曲部分都发生了明显的增亮，该处正是红色方框区域内电流密度增加的位置，Yurchyshyn 等人[29]利用 RHESSI数据[30]分析了与离子加速相关的硬 X射线源，表明该处存在 $_ { \\mathrm { E = 1 2 - 2 5 \\mathrm { k e V } } }$ 的硬X射线辐射，耀斑峰辐射与耀斑爆发初始位置不同，说明红色方框区域也发生了磁重联。不光电流带上的电流密度增加的位置与耀斑带辐射增亮位置相同，同时它们的形态也有相似性，我们将17：22：16 时计算的电流轮廓图叠加在了17：22：18时的 $\\mathrm { A I A 1 6 0 0 \\mathring { A } }$ 图像上（如图8所示)，红色电流密度轮廓为 $0 . 0 2 A / m ^ { 2 }$ ，蓝色为等值的负电流密度轮廓，可以发现，电流和耀斑有很好的对应关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/23013d09df96aed2be83c010bc87f1d1d835c35ebb83b979bf45e54ae3e8299e.jpg",
+        "img_caption": [
+            "图7 2014年11月7日在活动区12205利用 SD0/AIA观测到的3个波段的耀斑演化图。左列a1-a4为在171A波段的耀斑开始、"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "期间、峰值的观测图，第二列b1-b4 和第三列c1-c4 依次分别为 $3 0 4 \\mathring { \\mathrm { A } }$ 、1600A波段观测图，它们的观测时间以最左列每幅图时间为准，每一行的时间点大概相近。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Flareevolution mapof three bandsobserved bySDO/AIAinactive area l2205onNovember7，2014.Theleft column al-a4 is the observation map of the flare start，period and peak at $1 7 1 \\mathrm { ~ \\AA ~ }$ band.The second column b1-b4 and the third column cl-c4 are $3 0 4 \\mathrm { ~ \\AA ~ }$ and $1 6 0 0 \\mathrm { ~ \\AA ~ }$ band observation maps respectively. Their observation time is subject to the time of each map in the leftmost column,and the time points of each row are about the same. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fce7af2eeb3beb9a0b5a21b8d791838b2e40083691ea29f8a9aa4ea0b5c2ab6.jpg",
+        "img_caption": [
+            "图8 17：22：16 时的电流轮廓图叠加17：22：18 时的AIA1600A 图像，红色轮廓为大小等于 $0 . 0 2 A / m ^ { 2 }$ 的电流密度，蓝色为等值的负电流密度轮廓。"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.8 The current profile at 17:22:16 superimposes the AIA1600 $\\mathring \\mathrm { A }$ image at 17:22:18. The red profile is the current density equal to $0 . 0 2 A / m ^ { 2 }$ ，and the blue is the equivalent negative current density profile. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文的主要目的是验证QSLs 标准耀斑模型。在该模型中由于磁场非势性的积累，通量绳下的QSL中心处的电流层变薄，重联发生，形成耀斑环和耀斑带，通量绳进一步构建，在环面不稳定性的驱动下，电流层继续变薄甚至坍塌，磁能沿电流层被释放，导致其在光球层的足迹—一垂直电流密度增强3，日冕电流层的足迹与沿PIL方向彼此远离的J形耀斑带对应[1]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们通过研究2014年11月7日AR12205上发生的X1.6级耀斑爆发期间的电流演化，发现光球电流与耀斑的演化及形态非常相似，电流密度在耀斑带辐射增强的位置呈现一种突然增加的现象。X1.6 级耀斑是一个多次爆发并且持续时间较长的爆发事件，该耀斑爆发期间发生了多次重联。所以我们重点研究了发生在耀斑爆发初始位置和耀斑爆发辐射峰值处重联前后的光球电流的变化，得出了如下结论：在耀斑爆发初始位置的电流在耀斑爆发前 5分钟陡然增加，正负电流都增加了大约1.3倍左右；在耀斑爆发辐射峰值位置电流增加了大约1.19倍。同时沿着PIL两侧的黑子分布的电流带与耀斑带有很好的对应关系，且都呈双J形结构。我们的观测与三维QSL标准耀斑模型的一些理论预测一致，表明该模型对X级大耀斑的一些观测解释是正确的，如耀斑带和电流带演化的相似性，电流在耀斑期间的增加，我们的研究也为该模型提供了另一观测证据。未来我的工作将会对近十年内伴随CME 的 X级耀斑进行统计研究，以检验QSLs标准耀斑模型的普适性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "考文献：   \n[1]方成，丁明德，陈鹏飞．太阳活动区物理[M].南京大学出版社,2008. Fang Cheng,Ding Mingde,Chen Pengfei.Physics of solar active regions[M]. Nanjing University Press, 2008.   \n[2] WangY,ZhangJ.AComparative StudyBetweenEruptive X-classFlares Associated with CoronalMassEjectionsandConfined X-class Flares[J].Astrophysical Journal,008,665(2):1428-143.   \n[3]JanvierM,erGomerVetal.Etricrrtsinfarebos:Oeatisddsaltadadel]. Astrophysical Journal,2014,788(1):60.   \n[4] Carmichael H. NASSP,1964,50: 451.   \n[5] Sturrock P A. Nature,1966,211: 695.   \n[6] Hitayama T. SoPh,1974,34: 323.   \n[7] Kopp R A,Pneuman G W. SoPh,1976,50: 85.   \n[8]MooreRL,SterlingAC,HudsonHS,etal.Onsetofthe MagneticExplosioninSolarFlaresandCoronal Mas Ejections[J]. Astrophysical Journal,2000,552(2):833-848.   \n[9]E.R,Priestt. G,Forbes.The magnetic nature of solar flares[J]. Astronomy & Astrophysics Review,2002.   \n[10]AulanierG,JanvierM,SchmiederB.Thestandardflaremodelinthreedimensions.I.Strong-to-weakshear transitionin post-flare loops[J]. Astronomy& Astrophysics,2012,543:110.   \n[1]PDemoulin,PriestER,LonieDP.ree-dimesionalmagneticreconectionitoutnullpoits2.Aplcationttistedflu tubes[J].Journal of Geophysical Research Space Physics,1996,101(A4):7631-7646.   \n[12]TitovVS，HornigG,PDaMoulin.Theoryof magneticconnectivityinthesolarcorona[J].JournalofGeophysicalResearch: Space Physics,2002,107(A8).   \n[13]AulanierG,PariatE,DemouinP.Currentsheetformationinquasi-separarixlayersandhyperbolicfluxtbes.A&A44,961- 976,2005.   \n[14]MassonS,KleinKL,RBtikofer,tal.AcceleratioofelativisticProtosdurigtheOJuaryOo5FlareandCE[J].Solar Physics,2009,257(2):305-322.   \n[15]Wilmot-mithAL,HorigGPontinD.agneticBraidingandQuasi-SeparatrixLayers[J].AstrophysicalJoual,09, 704(2).   \n[16]JanvierMGaatEetalTetadadfareodelinedimeiosIugrecotiooies[J]. Astronomy & Astrophysics,2013,543(917):782-797.   \n[17] Savcheva A, van Balegooijen AA, et al.FIELD TOPOLOGY ANALYSIS OF A LONG-LASTING CORONAL SIGMOID[J]. Astrophysical Journal,2012,744(1):78.   \n[18] Savcheva A,Pariat E, McKilop S,et al.THE RELATION BETWEEN SOLAR ERUPTION TOPOLOGIES AND OBSERVED FLAREFEATURES.I.FLARERIBBONS[J].AstrophysicalJoumal,2015,810(2):96.[9]TorokT,KliemB.The evolution of twisting coronal magnetic flux tubes [J].Astron Astrophys,2003,406,1043.   \n[19]PesnellWD,ThompsonBJ,ChamberlinPC.TheSolarDynamics Observatory[J].SolarPhysics,2012,275(-2):3-15.   \n[20]SchouJ,ScherrrPH,AkinDJ,etal.DesignandGroundCalibratiooftheHeliosesmicandMagneticImager(HI) Instrumenton the Solar Dynamics Observatory (SDO)[J].Solar Physics,2012,275(1-2):229-259.   \n[21]JamesR.Lemen,Alan M.Title,David J.Akin,et al.The Atmospheric Imaging Assembly(AIA)on the SolarDynamics Observatory (SDO)[J].Solar Physics,2012.   \n[22] Couvidat S,Schou J,ShineRA,etal. SoPh,2012,275: 285.   \n[23]MetcalfTR. Resolvingthe180-degreeambiguityinvectormagnetic field measurements:The'minimum'energysolution[J]. 1994, 155(2):235-242.   \n[24]LemenJR,TitleAM,AkinDJ,et al. SoPh,2012,275: 17   \n[25]ZuccarelloFGuglielminoSL,CapparelliV,etal.ContiuumEnhancements,LineProfiles,andagneticFieldEvoltion during Consecutive Flares[J].The Astrophysical Journal,202o,889(1):65-   \n[26] JessDB,MathioudakisM,ChristianDJ,etal.ROSA:ahighcadence,synchronizedmulti-camerasolarimagingstem[J]. Solar Physics,2009,261(2).   \n[27]梁红飞．太阳黑子矢量磁场的测量及视向电流密度的计算[D].中国科学院研究生院（云南天文台）,2006. Liang Hongfei.Measurementof vectormagnetic fieldandcalculationofelectric currnt densityofthe sunspot [D]. Graduate School of Chinese Academy of Sciences (Yunnan Observatory),2006.   \n[28] 杨丽平，梁红飞，刘继宏,等.与活动区AR11158中的一个X2.2级耀斑相关的视向电流密度的计算[J].天文研究与技术， 18(3):11. YangLiping,Liang Hongfei,LiuJihong,etal.TheCalculationofVerticalElectricCurrentDensityAssociated withAnX2.2 Flare in Active Region AR11158[J].ASTRONOMICAL RESEARCH& TECHNOLOGY,18(3):11.   \n[29] Yurchyshyn,Kumar,K.-S,等.MULTIWAVELENGTHOBSERVATIONSOFA SLOW-RISE,MULTISTEPX1.6 FLARE ANDTHE ASSOCIATED ERUPTION.   \n[30]Lin RP,Dennis BR,HurfordGJ,etal.TheReuvenRamaty High-EnergySolar Spectroscopic Imager (RHESSD[J].olar Physics,2002. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A Sudden lncrease in Current During a Flare ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Wang Nan1’²，Liang Hongfei1²， Yang Liping1²,Sun Xia12，Li Zihan12 (1.Schoolofpysicsandelectroniciformation,YunanoalUnversityKunming5oYunnan;KeyLaboratorofigh Energy Astrophysics of University of Yunnan Province,Kunming 65o5o,Yunnan ) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Using the vector magnetic map observed by SDO (Solar Dynamic Observatory) /HMI (Helioseismic and Magnetic Imager) and the integral form of Ampere's law, this paper calculates the vertical current density during the X1.6 flare in the active area AR12205 on November 7,2014. By analyzing the time evolution of the vertical current density on the photosphere, it is found that it will show a sudden increase during the flare outbreak period,and the increased area corresponds to the radiation enhancement position of the flare double band. Then the strong current density profile is superimposed on the observation image of SDO / AIA16Oo A band, it is found that the shape and distribution of current density are strongly related to the flare.These observations are consistent with the theoretical prediction of the standard three-dimensional flare model. Our research provides strong observational evidence for the three-dimensional Quasi-Separatrix Layer (QSL) magnetic reconnection model. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: active region; flare; vector magnetic field; electric current density ",
+        "page_idx": 10
+    }
+]

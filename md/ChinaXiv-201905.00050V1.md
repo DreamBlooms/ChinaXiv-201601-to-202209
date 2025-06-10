@@ -1,0 +1,289 @@
+# 基于单极感应问题的多极感应实验
+
+张学亮\*
+
+（芜湖职业技术学院电气工程学院安徽芜湖241006)联系人E-mail:zhangxueliang@whit.edu.cn
+
+摘要：针对单极感应之谜，本文注意到磁力线是闭合线，利用洛伦茨力概念首先证明N与M两种对立观点都能够合理解释自法拉第时期以来典型的、有较大影响的单极感应实验。并采用等效电路和比较简明的方法推演出单极感应实验测量回路中感应电动势的一般表达式，说明单极感应问题至今未果的原因是实验采用的轴对称磁体外围磁场特殊的对称性分布结构，且分布结构不随磁体旋转而改变造成的。也说明单极感应实验本身无法解决单极感应问题。介绍了一种多极感应实验方案与实验结果，结合实验磁体外围磁场分布状况，同样用N与M两种观点对照分析了实验结果，得出了法拉第与韦伯当年的单极感应实验测量回路中的感应电动势是由磁体外相对于实验室参照系静止的线段产生的结论，该结论与M观点的结论一致。
+
+关键字：电磁场；单极感应；多极感应；实验。中图分类号：0441
+
+# 1引言
+
+自从法拉第与韦伯的单极感应问题[1-3]出现后人们进行了不断的探究，发表了许多文献[4-7]，但问题至今未果。单极感应问题属于基础电磁学问题，关系到人们对自然能否更为客观的认识，无论是从微观还是宏观层面来说都意义重大，值得人们继续花费精力进行不懈的探究。显然不能因为答案难觅就回避它，甚至否认它的重要性。本文是笔者多年来对单极感应问题研究的思想与体会。为便于问题简明形象地阐述，文中在对磁场描述时沿用了法拉第的磁力线概念。
+
+# 2产生两种对立观点原因分析
+
+经典的单极感应实验原理如图1所示。图中M是轴对称圆柱形导电磁体，半径为R；Z为对称转轴，为简化分析假定Z是直径足够细的良导体，对磁体的磁场分
+
+布影响可忽略不计； $\boldsymbol { a }$ 与 $b$ 是滑动触点;  
+G是电流计；虚线为磁体赤道中线。
+
+![](images/4cba46d6d2beb6c816e7b8e6e6b06786978b35079f60fe2a54c0297f58df486c.jpg)  
+图1经典的单极感应实验原理图 Fig.1The schematic diagram of the classical unipolar induction experiment
+
+当图1中磁体M以恒定角速度 $\boldsymbol { \omega }$ 绕自身转轴Z旋转时，只要滑动触点 $\boldsymbol { a }$ 和 $b$ 不在同一纬线（圆柱形磁体表面与赤道线平行的圆周线）上或分别位于赤道线（圆柱形磁体N和S极的分界线。）两侧但与赤道线距离不相等，则测量回路aMbGa中就会有稳定的直流电流产生。针对导致直流电流的感应电动势是由测量回路中哪段导线产生的，出现了两种完全对立的观点，一种观点认为磁力线（磁场）是静止的，不随磁体运动（简称 $N$ 观点），是旋转的磁导体切割静止的磁力线感应了电动势，所以感应电动势是 $a \mathbf { M } b$ 段导体产生的。另一种观点认为磁力线跟随磁体运动（简称$M$ 观点），测量回路中感应电动势是由相对于实验室参照系静止的aGb线段切割旋转的磁力线产生的。两种观点似乎都有充足的理由，无法说服对方，这就是单极感应实验问题。为了得到答案人们已设计实施了无数次的实验验证。1975年物理学家J.Duric利用他自己构建的单极机数学模型推演、分析[8-9]，得出了他之前人们所做的单极感应实验均无法对两种观点对错进行判别的结论。也许推演过于抽象复杂，而且没有指明造成两种对立观点的根本原因，他的观点并没有被普遍接受[10]。之后类似的实验仍在前赴后继的进行着。下面先根据实验磁体磁力线分布特点和洛伦茨力，对法拉第时期至今典型的、有影响的单极感应实验分别用两种观点进行解释分析，以便找出单极感应问题至今无果的原因所在。
+
+# 2.1闭路实验
+
+单极感应闭路实验可分为两类：一类是测量回路与磁体一体的实验；另一类是测量回路与磁体分开的实验。
+
+# （1）经典的单极感应实验
+
+图1实验采用的轴对称圆柱形磁体M可以看成是由许许多多直径相同、极薄的单元导电磁片叠合而成，圆柱磁体内、外分布的磁力线数量（磁通量）是由全体单元导体磁片共同贡献的。这里把穿过磁体赤道平面的磁力线也就是圆柱磁体外围由N极到S极的磁力线称为主磁力线（下文中将这种闭合平面与转轴位于一个平面的磁力线称为二类磁力线）。图2是圆柱磁体M延轴剖面的部分主磁力线分布示意图。该图忽略了部分主磁力线以及单元磁片的边缘漏磁（类似于电磁铁的单匝线圈漏磁）。穿过每个单元磁片的主磁力线数量是不同的，主磁力线全部穿过位于赤道面的单元磁片，所以赤道面的磁力线密度最大，磁感应强度最强。离赤道平面距离越远的单元磁片（下面把单元磁片所在平面又称为纬度平面）穿过的主磁力线相对来说就越少，因此位于圆柱磁体两个端面的单元磁片磁力线密度相对来说是最低的，减少的磁力线是通过圆柱磁体的侧面闭合的。
+
+![](images/32ac5d2abf32816ac6b4d8d7ac4ba38a29b9aaed271feb2695940dc74f0b4184.jpg)  
+图2圆柱磁体沿轴剖面主磁力线分布示意图 Fig.2The section view of the distribution of the magnetic linesof force generatedbya cylindrical magnet
+
+注意到磁力线是闭合的以及图2所示特殊的对称分布结构，当图1中圆柱磁体以恒定转速旋转时，磁体表面 $a$ 、 $b$ 两触点间感应电动势 $\mathrm { E } _ { a b }$ 的求取可有多种方法，结果相同。如先分别求出 $a$ 、 $b$ 两点相对于转轴的电动势 $\mathrm { E } _ { a l }$ 、 $\mathrm { E } _ { b l }$ ，则 $\mathrm { E } _ { a b } { = } \mathrm { E } _ { a l } { - } \mathrm { E } _ { b 1 }$ 。但下面的推导方法相对来说更为简捷。
+
+假定用一段导线ab连接 $a$ 、 $b$ 两点，当这段导线环绕圆柱磁体旋转轴一周，由于磁力线是闭合线且是图2特殊的对称分布结构，只要环绕过程中这段导线的两个端点 $\boldsymbol { a }$ 与 $b$ 之间、两端点与转轴以及赤道线之间的相对位置保持不变，这段导线不论是长还是短、不论是位于磁体上还是磁体外，它们切割的磁力线一定是相同的。因此被切割的磁感应通量，或者说这段导线掠过面积上的磁通量是相同的。设连接a、 $b$ 两点最短直线长度为 $L$ 的线段环绕磁体转轴一周掠过的面积为 $s$ ，则连接 $a , \ b$ 两点任意导线环绕圆柱磁体转轴一周被切割的磁感应通量 $\phi$ 可由下式确定：
+
+$$
+\begin{array} { c } { { \phi = S B = \frac { B L } { 2 } ( 2 \pi R _ { a } + 2 \pi R _ { b } ) } } \\ { { { } } } \\ { { { } = \pi B L ( R _ { a } + R _ { b } ) } } \end{array}
+$$
+
+式中 $R _ { a } , \ R _ { b }$ 分别是 $a , \ b$ 两点到转轴的距离； $B$ 是线段 $L$ 掠过面积 $s$ 上磁感应强度法线分量的平均值。同理当连接 $a , \ b$ 两触点的任意导线段ab以恒定角速度 $\boldsymbol { \omega }$ 绕圆柱磁体转轴旋转时，它们单位时间内切割的磁力线数量、或者说单位时间内切割的磁感应通量相同，因此感应的电动势数值相同，可由下式确定：
+
+$$
+E _ { a b } = \left| - \frac { d \phi } { d t } \right| = \phi \frac { \omega } { 2 \pi } = \pi L B ( R _ { a } + R _ { b } ) \frac { \omega } { 2 \pi }
+$$
+
+$$
+\begin{array} { r } { { \bf \Omega } = \frac { \omega L B } { 2 } \left( R _ { a } + R _ { b } \right) } \end{array}
+$$
+
+当 $a$ 点位于转轴上（ $\scriptstyle R _ { a } = 0 .$ ）， $b$ 点位于赤道线上时 $\scriptstyle L = R _ { b } = R$ ，对应的 $B { = } B _ { m }$ 为赤道面磁单元薄片的最大平均磁感应强度，这时可得最大感应电动势：
+
+$$
+\begin{array} { r } { E _ { a b } = E _ { a b m } = \frac { \omega B _ { m } R ^ { 2 } } { 2 } } \end{array}
+$$
+
+当圆柱磁体 $\mathbf { M }$ 以角速度 $\omega$ 绕自身转轴旋转时， $N$ 观点是磁体上 $a \mathbf { M } b$ 段导体环绕转轴切割磁力线感应了电动势， $M$ 观点是线段 $a \mathbf G b$ 切割磁力线（相对运动）感应了电动势。两种观点感应电动势数值均可由式（2）或（3）来确定。两种观点确定的电动势极性在测量回路aMbGa中是同向的，就是说两种观点确定的感应电动势在测量回路中产生电流的效果完全相同，因此无法判断两种观点谁对谁错。
+
+# （2）法拉第转盘实验
+
+转盘实验是法拉第较早做的单极感应实验，实验原理示意见图3。与图1不同图3的测量回路与磁体是分开的。图3中P是半径与圆柱磁体同为 $R$ 的铜质薄圆盘，圆盘与圆柱磁体同轴并尽可能靠近磁体安放。电流计G通过滑动触点 $a$ 和 $b$ 与圆盘构成测量回路。实验步骤与观察结果如下：
+
+$\textcircled{1}$ 磁体M与线段 $a \mathrm { G } b$ 静止，圆盘P转动，测量回路中有直流电流;$\textcircled{2}$ 磁体M静止，线段aGb与圆盘P同步旋转，测量回路中没有电流;$\textcircled{3}$ 磁体M与圆盘P同步转动，线段$a \mathrm { G } b$ 静止，测量回路中有直流电流;$\textcircled{4}$ 磁体M转动，圆盘P与线段 $a \mathrm { G } b$ 静正，测量回路中无电流。
+
+![](images/1d7cd8bc861b4003940e6ee8d7b7937e36e4c6e78fa7620ba03a7431b5e3312e.jpg)  
+图3法拉第转盘实验原理图  
+Fig.3The schematic diagram ofFaraday'sunipolar induction experiment with a disc electric generator
+
+对于步骤 $\textcircled{1}$ 与 $\textcircled{2}$ 的实验结果 $N$ 与 $M$ 观点没有异议。
+
+步骤 $\textcircled{1}$ 是旋转的转盘切割静止的磁力线感应电动势。设转盘旋转角速度为 $\omega$ ，把${ \cal L } { = } R _ { b } - R _ { a }$ 及 $B { = } B _ { p }$ 代入式（2）可得转盘上$a { \mathsf { P } } b$ 段导体即测量回路aPbGa中感应电动势：
+
+$$
+\begin{array} { r } { E _ { a P b } = \frac { \omega B _ { P } } { 2 } ( { R _ { b } } ^ { 2 } - { R _ { a } } ^ { 2 } ) } \end{array}
+$$
+
+式中 $B _ { p }$ 为转盘上的平均磁感应强度;${ \cal R } _ { a }$ 与 $R _ { b }$ 分别为 $a , \ b$ 两点到转轴的距离。当触点 $\boldsymbol { a }$ 位于转轴上！ $( R _ { a } = 0 )$ ），触点 $b$ 位于圆盘边缘（ $\cdot R _ { b } \ = R$ ）时可得最大感应电动势：
+
+$$
+\begin{array} { r } { E _ { a P b } = E _ { a P b m } = \frac { \omega B _ { P } R ^ { 2 } } { 2 } } \end{array}
+$$
+
+步骤 $\textcircled{2}$ 导体 $a { \mathsf { P } } b$ 与 $a \mathbf G b$ 都切割磁力线，并且单位时间内它们切割的净磁力线相同，在测量回路 $a { \mathsf { P } } b { \mathsf { G } } a$ 中两部分电动势方向相反完全抵消，故没有感应电流产生。
+
+步骤 $\textcircled{3}$ 实验结果 $N$ 观点解释与步骤 $\textcircled{1}$ 相同：是旋转的转盘切割静止的磁力线感应了电动势； $M$ 观点解释：是静止线段aGb 切割旋转的磁力线感应了电动势。与图1实验相似测量回路中感应电动势两种观点都可由（4）式来求取，两种观点解释都是合理的。
+
+步骤 $\textcircled{4}$ 实验结果 $N$ 与 $M$ 观点有两种合理的解释。其一， $N$ 观点解释：测量回路线段与磁力线之间没有相对运动，所以没有电动势产生。 $M$ 观点解释：由于磁力线是闭合的，被测量回路 $a { \mathsf { P } } b { \mathsf { G } } a$ 中某段导体切割的磁力线一定会再次被回路中另一段导体切割，这两段导体切割磁力线感应的电动势极性在测量回路中方向相反，另外圆柱磁体外围磁场特殊的轴对称性分布以及旋转角速度恒定，这两段导体单位时间内切割的磁力线数量一定是相同的，因此它们感应的直流电动势数值相等、方向相反，在测量回路中完全抵消，所以没有直流电流产生。其二，两种观点都有理由认为以恒定转速旋转的轴对称磁体外围空间存在一稳定的电场，该电场类似于静电场不随时间变化。不同的是 $M$ 观点认为电场是由旋转的磁力线产生。 $N$ 观点则认为以恒定转速旋转的导电磁体本身就是一个直流电势源，磁体表面不同位置聚集着不同的电荷，因此磁体外围空间电场是由磁体上感应电动势产生的，类似于电池外部由于分部电容其正负极空间存在着电场一样。因此两种观点都可以解释：位于该电场中静止的闭合回路中不会产生稳定的直流电流。
+
+# 2.2开路实验
+
+所谓开路实验是希望通过观察与轴对称磁体同轴安放的圆筒形电容器能否充电来验证单极感应问题的实验。历史上Barnett、Kennard及Pegram 等人的实验[11-15]影响较大，甚至产生的争论至今尚未停止。图4是开路实验的原理示意图。图中M为圆柱形磁体；1、2为圆筒形电容极板；W是电容充电连接线，充电后断开。实验大致步骤如下:
+
+![](images/87c79295d4050f24eb1bd70d13f93515a7ae8dfea4b172fa9b715834e90f8bf2.jpg)  
+图4开路实验原理示意图 Fig.4The schematic diagram of a typical opencircuit experiment
+
+（1）磁体静止，充电导线W连接旋转的内、外圆筒1与2；
+
+（2）磁体旋转，充电导线W连接静止的内、外圆筒；
+
+（3）磁体与两圆筒同步旋转，充电导线W连接旋转的内、外圆筒；（4）磁体与内、外圆筒及充电导线W均同步旋转。
+
+步骤（1）、（2）、（3）对应着Barnett与Kennard 的实验。Kennard的实验是将Barnett实验中充电导线W连接两圆筒的位置由中部移至上端或下端边缘处，并在充电线段W中串进了一个静电计而已。步骤（4）对应着Pegram的实验。Pegram的实验装置虽然比较复杂，但从充电实验的角度来看与Barnett、Kennard 的实验实质是相同的。假设实验能够在理想的无干扰环境下实施，则两种观点对各步骤的实验结果分析如下：
+
+步骤（1）的实验结果 $N$ 与 $M$ 观点相同都认为电容可以被充电。虽然内、外圆筒均切割磁力线，但被内筒1切割的磁力线未必会全被筒2切割，有一部分可能会从电容的间隙掠过（这里姑且把这类磁力线称为漏磁。），所以单位时间内两圆筒切割的磁力线数量不同，感应电动势数值也就不同。设内、外筒感应的电动势分别为 $E _ { 1 }$ 和 $| E _ { 2 } ^ { \phantom { + } }$ ，则充电回路中感应电动势或稳态时圆筒电容器上被充电压值为 $E _ { c } = E _ { 1 } -$ $E _ { 2 }$ 。对照图2可知，当内外圆筒与磁体的相对位置及旋转角速度确定之后，导线W连接内外筒的位置不同， $E _ { 1 }$ 和 $E _ { 2 }$ 也可能不同，因此也会影响 $E _ { c }$ 值。
+
+步骤（2）的实验结果两种观点认为电容可以被充电。由转盘实验步骤（4）结果分析已知恒速旋转的轴对称磁体外围存在稳定电场，该电场虽不能使位于其中的导体内产生稳定的电流，但会使导体内电荷产生迁移，重新分布以抵消外电场。所以只要构成电容的两极板间存在电势差，圆筒上的电荷就会通过充电导线W实现转移重新分布，因此电容可以被充电。 $M$ 观点还可以解释是因为电容极板间隙存在漏磁，电容充电回路中的电动势没有完全抵消，故电容可以被充电。
+
+步骤（3） $N$ 观点与步骤（1）解释相同：内、外圆筒切割静止的磁力线感应电动势，电容上充电电压为 $\begin{array} { r } { { | E _ { c } = E _ { 1 } - E _ { 2 } } } \end{array}$ 。 $M$ 观点是虽然 ${ \bf \partial } \cdot { \cal E } _ { 1 } { = } E _ { 2 } { = } 0$ ，但充电导线W在切割磁力线，设W上感应的电动势为 $\phantom { } ^ { \phantom { } } \lvert E _ { w }$ ，则稳态时电容上充电电压是 $E _ { c } { = } E _ { w }$ 。
+
+步骤（4) $N$ 观点：如果电容极板间隙存在漏磁，电容就可以被充电，稳态时电容上的充电电压为 $\vert E _ { c } = E _ { 1 } - E _ { 2 } - E _ { w }$ 。M观点则：由于构成电容充电回路导体线段与磁力线之间没有相对运动， $E _ { 1 } = E _ { 2 } =$ $E _ { w } = 0$ ，所以电容不能被充电。
+
+开路实验的电容由于单位体积内能做的有效电容容量有限，实验时能够充得的电荷量非常少、能充上的电压值非常小,所以实验中几种干扰决不能忽视。如磁体因结构缺陷其外围磁场并不是理想均匀的对称分布、转动不平稳导致的震动、充电导线W与电容极板的接触与断开、空气中的游离电荷等。这些干扰导致的电容极板间电荷的转移量可能远大于有用的被检测量。即使在当今，要构建一个干扰小到能够区分出有用信号、能够重复再现实验数据、理想的开路实验环境也是十分困难的。所以说前辈们公布的开路实验结果未必是可靠的。
+
+还有人提出了在旋转的轴对称磁体磁场中放置电荷，通过观察电荷是否受力产生位移来解决问题的方案[16]。实际上该方案可以归类到开路实验中，因此实验的实施同样非常困难。
+
+# 2.3对立观点产生原因分析
+
+对于闭路单极感应实验，如经典的单极感应实验或法拉第转盘实验，其测量回路均可用一位于轴对称磁体(如圆柱、圆球、圆盘形等磁体)磁场中的简单电路来等效（参见图5）。等效电路由两个可相对运动（这里指环绕磁体对称转轴的运动）的支路 $a Z _ { 1 } b$ 和 $a Z _ { 2 } b$ 通过滑动接触点 $a$ 与 $b$ 连接构成。图中 $Z _ { 1 }$ 、 $Z _ { 2 }$ 代表构成支路材料的阻抗； $\phi$ 代表相应的支路环绕对称轴一周所切割的磁力线数量或掠过面积上的磁感应通量。设轴对称磁体以角速度 $\omega$ 绕自身对称轴旋转，支路 $a Z _ { 1 } b$ 、 $a Z _ { 2 } b$ 分别以角速度$\omega _ { 1 }$ 和 $\omega _ { 2 }$ 绕对称轴旋转；并设 $a$ 、 $b$ 两点的距离为 $L$ ，参照式（2）的推导过程，支路$a Z _ { 1 } b$ 或连接 $a$ 、 $b$ 两点，长度为 $L$ 的线段环绕转轴一周切割的磁感应通量或掠过面积 $s$ 的磁感应通量为：
+
+$$
+\begin{array} { r } { \phi = B S = \frac { B L } { 2 } ( 2 \pi R _ { a } + 2 \pi R _ { b } ) } \end{array}
+$$
+
+$$
+= \pi B L ( R _ { a } + R _ { b } )
+$$
+
+![](images/450d960fbb3ed57884e7edcb3f030767e068b9dfc1262b79e777f15f6bcfaa8b.jpg)  
+图5单极感应实验等效电路 Fig.5The equivalent circuit of the unipolar induction experiment
+
+式中 $B$ 是掠过面积 $s$ 上磁感应强度垂直分量的平均值； ${ \cal R } _ { a }$ 与 $R _ { b }$ 分别是 $a$ ， $b$ 两点到转轴的距离。则支路 $a Z _ { 1 } b$ 上感应电动
+
+势：
+
+$$
+\begin{array} { r } { E _ { a Z _ { 1 } b } = \phi \frac { ( \omega _ { 1 } - \omega ) } { 2 \pi } \qquad } \\ { = \frac { L B } { 2 } ( R _ { a } + R _ { b } ) ( \omega _ { 1 } - \omega ) \qquad } \end{array}
+$$
+
+同理可得支路 $a Z _ { 2 } b$ 上感应电动势：
+
+$$
+\begin{array} { r } { E _ { a Z _ { 2 } b } = \frac { L B } { 2 } ( R _ { a } + R _ { b } ) ( \omega _ { 2 } - \omega ) } \end{array}
+$$
+
+所以测量回路中电动势为：
+
+$$
+\begin{array} { c } { E _ { c l } = E _ { a Z _ { 1 } b } - E _ { a Z _ { 2 } b } } \\ { \displaystyle } \\ { = \frac { L B } { 2 } ( R _ { a } + R _ { b } ) ( \omega _ { 1 } - \omega _ { 2 } ) } \\ { = k \Delta \omega } \end{array}
+$$
+
+式中： $\begin{array} { r } { k = \frac { L B } { 2 } ( R _ { a } - R _ { b } ) } \end{array}$ 为已知常数；$\Delta \omega = ( \omega _ { 1 } - \omega _ { 2 } )$ 为转差角速度或称为转差。
+
+式(8)中并不包含磁体旋转角速度 $\omega$ ，由式(8)可知闭路单极感应实验测量回路中感应电动势的有无只取决于构成测量回路中不同路段间是否存在转差(相对运动)，而与磁体（磁力线)是否运动无关，所以单极感应闭路实验试图通过观察测量回路中是否产生感应电动势或感应电流来判断磁力线是否随磁体旋转是注定没有结果的。式(8)也说明了法拉第与韦伯当年的单极感应问题并不是什么神秘问题，只是由于实验所采用的轴对称磁体其外围磁场特殊的对称分布结构，并且这种分布结构在磁体旋转时也保持不变，才导致两种对立的观点对法拉第的单极感应实验结果都能作出合乎逻辑的解释。
+
+Bartlett等人用螺线管（电磁铁）替代圆柱磁体，并在线圈中通入交流电，试图通过检验磁体外围空间电荷是否产生相应运动来验证磁力线是否随磁体旋转[17]。由于轴对称旋转的螺线管外围磁场仍是特殊的轴对称分布，因此该方案实验也不可能得到有用的结果。
+
+对于开路实验，如果电容极板间存在漏磁，则电容上的稳态电压显然不能由式（8）确定。参照式（8）的推导过程， $E _ { c }$ 的算式不难推出，不过充电导线W的连接位置不同， $E _ { c }$ 表达式也会有所改变。但是只要电容极板间有漏磁， $E _ { c }$ 表达式中就会含有磁体旋转的角速度 $\omega$ 项（ $\omega$ 项不能被抵消）。所以理论上开路实验是可以给出单极感应问题答案的，但是前面已经交代由于被检测信号十分微弱、相对而言干扰信号过多、过强，如果不能建立一个理想的实验环境，开路实验就很难给出令人信服的结果。
+
+力线是离开磁体磁极表面后经转子上、下两端的磁轭回到原磁体的另一极形成闭合，这类磁力线主要集中在转子磁体的上、下两端，磁力线平面与转子转轴基本在同一平面上，下文中把这类磁力线称为二类磁力线。图7（b）是单独画出的转子磁体延轴剖面二类磁力线分布示意图。一、二类磁力线密度（磁感应强度）延弧形磁极表面均按正态分布。
+
+另外式（8）虽然与Djuric推演过程不同，但得到的数学模型结果含义是相同的。可见当年DjuriC用他推演的结果对前辈的开路实验进行分析与判别是不合适的。
+
+因此解决单极感应问题需要构思设计新的实验方案。
+
+# 3多极感应实验与结果分析
+
+![](images/716d399425cdb17edc8c64709f6ad0d72b226f9176527b4c01747882a8ea4894.jpg)  
+图6四极永磁无刷电动机转子外形结构示意图 Fig.6The structure diagram of the rotor ina fourpolar brushless permanent-magnet motor
+
+多极感应实验磁体M直接采用了四极永磁无刷电动机转子，外形结构示意见图6。图中 $\mathbf { m }$ 为磁轭。多极转子磁体空间分布的磁力线可分为两类：一类是磁力线离开磁体磁极表面后进入两边相邻的异性磁极、磁体，再通过磁轭回到原磁体的另一极形成闭合，这类磁力线主要集中在四极转子磁体的中部，磁力线闭合平面基本与转轴垂直，下文中把这类磁力线称为一类磁力线。图7(a)是单独画出的转子磁体横向剖面一类磁力线分布示意图。另一类磁
+
+![](images/a80bc6a763e2fd4ed8c092517ebf2cc957fab91aefb2b3aae3e11402ae71bd12.jpg)  
+图7四极永磁转子外围两类磁力线分布示意图a□转子中线（赤道线）剖面一类磁力线分布示意图；b□沿转子轴线剖面二类磁力线分布示意图。
+
+Fig.7The distribution of the magnetic field lines outside the four-polar permanent-magnet rotor: a $\bigtriangledown$ the section view of the distribution of the type I magnetic field lines along the midline of the motor; b $\bigtriangledown$ the section view of the distribution of the type II magnetic field linesalong the axis of the cylindrical motor
+
+# 3.1实验相关说明
+
+多极感应实验原理图见图8。图中T是与转子磁体M同轴安放的铜质薄转筒，内径稍大于转子磁体外径，忽略其壁厚，半径为 $R$ ；长度设为 $H$ ，比转子磁体长度稍短。连接示波器O的测量导线通过a、 $b$ 两滑动触点与转筒T接触构成测量回路。实验过程中 $a$ ， $b$ 两点分别位于转子磁体赤道线上下对称位置；测量线段h1、h2及L采用硬质导线，其他部分采用软导线；h1与h2 保持平行，h1与h2的距离分别对应着 $h _ { 1 }$ 和 $h _ { 2 }$ ，且 $h _ { 1 } \ = h _ { 2 } \ = h$ ；线段L与转轴及转筒侧壁保持平行，长度对应着 $a$ 、 $b$ 两点间距离 $L$ ，并与线段h1、h2保持垂直。
+
+![](images/f3eac9711cd3b54f5935e317d816eede3f2777d498cefa7bc9367057fb1996ff.jpg)  
+图8多极感应实验原理图 Fig.8The schematic diagram of the multipolar experiment
+
+# 3.2实验步骤与观察结果
+
+（1）转子磁体M静止，转筒T以恒定角速度 $\omega$ 绕转轴Z旋转，测量回路中有直流电动势产生。随着a、 $b$ 两触点位置的不同，可测得正、负以及数值连续变化的直流电动势。当保持a、 $b$ 两触点之间距离以及两触点相对于赤道中线的距离不变，环绕磁体一周对旋转的转筒进行测量，测得转筒上直流电动势延四极转子圆周的分布如图9所示。虽然转筒在旋转，但分布在转筒上的直流电动势位置相对于实验室参照系是静止的。
+
+$\textcircled{1}$ 直流电动势数值大小延圆周的分布与转子磁极表面磁感应强度分布相对应也是正态分布；直流电动势的正、负极性取决于转筒面对的磁极极性以及转筒的旋转方向。正、负电动势最大值对应在N或 S极场强最强的中线处，零电势对应在两异性磁极交界处。
+
+![](images/c871ed66f90bb03b7f7ea7681c25e76f2b62849f10425a23bb852cdb3dd2bcc6.jpg)  
+图9旋转的转筒上沿圆周分布、相对于实验室参 照系静止的直流电动势展开图 Fig.9The distribution of DC emf generated,as we fix point aand b horizontally (i.e.,fix the height) and change their position along the circumferential direction.
+
+$\textcircled{2}$ 若只改变a、b两点间距离 $L$ 进行测量，则除了对应的N与S磁极交界位置测得电动势为零外，其他位置测量回路中直流电动势数值绝对值大小与a、 $b$ 两触点的距离即 $L$ 长度成正比，与线段L与转筒T之间的距离h无关。
+
+$\textcircled{3}$ 实验数分后钟转筒T温升明显。
+
+（2）转筒T静止，转子磁体M以恒定角速度 $\omega$ 绕转轴Z旋转，测量回路中有交流正弦波电动势产生。
+
+$\textcircled{1}$ 当导线L与转筒T之间的距离 $h$ 保持不变，只改变 $\mathbf { \Omega } _ { a }$ 、 $b$ 两触点之间的距离 $L$ 时，测量回路中正弦波电动势幅值与距离$L$ 成正比。当a、 $b$ 两触点分别位于转筒T上、下边缘时电动势幅值达最大值。
+
+$\textcircled{2}$ 保持a、 $b$ 两触点之间的距离不变，只改变导线L与转筒T的之间的距离 $h$ 则 $h$ 增大正弦波电动势幅值也跟随增大，反之幅值减小。当 $h$ 增大到一定值后再继续增大时，电动势幅值就不再继续增大而是趋于某一定值。
+
+$\textcircled{3}$ 实验数分钟后转筒T温升明显。
+
+（3）转子磁体M与转筒T以恒定角速度 $\omega$ 绕转轴Z同步旋转，测量回路中有交流正弦波电动势产生。
+
+$\textcircled{1}$ 导线L与转筒T之间的距离 $h$ 保持不变，只改变两滑动触点a、 $b$ 之间的距离$\textcircled { 2 } L$ 时，测量回路中正弦波感应电动势幅值与距离 $L$ 成正比。当a、 $b$ 两触点分别位于转筒T的上下边缘时幅值达到最大值。
+
+$\textcircled{2}$ 保持 $a$ ， $b$ 两触点之间的距离 $L$ 不变，只改变线段L与转筒T之间的距离 $h$ 时，测量回路中正弦波感应电动势幅值随 $h$ 减小而增大， $h$ 增大而减小，当 $h$ 增大到一定值后，电动势幅值不再跟随减小，而是趋于某一定值。
+
+$\textcircled{3}$ 实验持续足够长时间转筒T没有明显温升现象。
+
+# 3.3实验结果分析
+
+对于三组步骤实验测量回路中感应电动势幅值均正比于 $\mathbf { \Omega } _ { a }$ ， $b$ 两触点上、下距离$L$ 的观察结果解释两种观点没有冲突，故不再讨论。
+
+第（1）组实验与法拉第转盘实验步骤$\textcircled{1}$ 相对应。对于该组步骤实验结果的解释两种观点也没有什么异议。电动势是由导体转筒T切割磁力线产生，在其他条件不变的情况下，感应的直流电动势数值正比于切割位置的磁感应强度，电动势的正、负极性则取决于转筒T与磁力线相对运动的方向。因磁体磁极表面磁感应强度是正态分布的，故旋转的转筒上对应位置的感应电动势数值大小也按正态分布；转筒上面对N极与面对S极位置的导体切割的磁力线方向相反，感应的电动势极性也相反。转筒上不同位置的正、反向电动势形成涡流，由于电流热效应，实验经历一段时间后转筒本体温度上升。
+
+第（2）组实验与法拉第转盘实验步骤$\textcircled{4}$ 相对应。对于第（2）组实验结果 $M$ 观点认为是静止的转筒T切割旋转的正态分布的磁力线，转筒上如图9所示延圆周正态分布的直流电动势跟随磁力线同步旋转，在静止的测量回路中观察就是交流正弦波，该电动势在转筒上产生涡流，导致转筒温升。由于磁力线是闭合的，由图6、7可知转子磁体的二类磁力线与单极感应实验采用的轴对称磁体的磁力线类似，在测量回路中被转筒 $a \mathrm { T } b$ 段导体切割的二类磁力线也必然会被 $ { \mathtt { h } } _ { 1 }  { \mathrm { L h } } _ { 2 }$ 段导体切割，切割二类磁力线感应的电动势会被完全抵消，所以测量回路中被观察到的电动势是切割一类磁力线产生的。由于一类磁力线主要集中在转子磁体中段且磁力线构成的平面与转轴基本是垂直的，测量回路中的感应电动势主要是由 $a \mathrm { T } b$ 段导体和L线段切割一类磁力线产生的。设 $a \mathrm { T } b$ 段导体感应的电动势为 $\cdot e _ { a T b }$ ，线段 $\mathrm { ~ L ~ }$ 上感应的电动势为 $\vert e _ { l }$ ，两电动势在测量回路中相位相反，所以测量回路中感应电动势可由下式确定：
+
+$$
+\begin{array} { c } { e _ { w } = e _ { a T b } - e _ { l } = E _ { a T b } S i n 2 \omega t - E _ { l } S i n 2 \omega t } \\ { = ( E _ { a T b } - E _ { l } ) S i n 2 \omega t \qquad ( \mathcal { G } } \end{array}
+$$
+
+式中 $E _ { a T b }$ 与 $E _ { l }$ 分别是 $e _ { a T b }$ 和 $e _ { l }$ 的幅值，可由下两式确定：
+
+$$
+\begin{array} { r } { E _ { a T b } = \int _ { 0 } ^ { l } V _ { T } \times B _ { T m } \cdot d l } \end{array}
+$$
+
+$$
+E _ { l } = \int _ { 0 } ^ { l } V _ { l } \times B _ { l m } \cdot d l
+$$
+
+$\begin{array} { r l } { \mathrm { ~ } } & { { } = \int _ { 0 } ^ { l } ( R _ { l } \times \boldsymbol { \omega } ) \times B _ { l m } \cdot d l \propto \frac { \boldsymbol { \omega } B _ { m } } { R _ { l } } } \end{array}$ (9-2式中 $V _ { T }$ 与 $V _ { l }$ 分别是转筒 $\mathrm { \Delta T }$ 和线段 $\mathrm { ~ L ~ }$ 相对于磁力线的线速度； $B _ { T m }$ 与 $B _ { l m }$ 分别为一类磁力线在 $a \mathrm { T } b$ 与L位置的最大磁感应强度;$R _ { l }$ 为转轴到线段L的距离； $B _ { m }$ 为磁体磁极表面中部位置的最大磁感应强度。由于转筒位置固定， $E _ { a T b }$ 为定值，由（9-2）式可知 $h$ 增大（ $R _ { l }$ 增大）时 $E _ { l }$ 减小，所以 $\scriptstyle . e _ { w }$ 的幅值增大，反之亦然。当 $h$ 增大至一定值时 $E _ { l }$ 趋于0，则 $e _ { w } = e _ { a T b } S i n 2 \omega t$ ，幅值不再随 $h$ 的增大而改变。
+
+$N$ 观点解释（ $M$ 观点也可这样解释）：是由于闭合导体中的磁通变化导致转筒上和测量回路中感生了电动势。当 $h$ 增大（ $R _ { l }$ 增大）时测量回路面积增大，磁通变化率增大，所以感应电动势 $e _ { w }$ 的幅值增大。转筒上交流电动势产生涡流导致温升。
+
+第（3）组实验与经典的单极感应实验以及法拉第转盘实验步骤 $\textcircled{3}$ 相对应。对于第（3）组实验结果 $M$ 观点：转筒与磁力线同步旋转无相对运动，所以不能感应电动势，是测量回路中相对实验室参照系静止的线段h1、L、h2切割磁力线感应了电动势。设线段L切割一类磁力线感应电动势为 $\cdot _ { e _ { w 1 } }$ ，线段h1、L、h2 切割二类磁力线感应电动势为 $| e _ { w 2 }$ 。因一、二类磁力线延转子磁极表面均按正态分布，所以 $e _ { w 1 }$ 与 $e _ { w 2 }$ 都是正弦波，且在测量回路中相位相同，所以测量回路中的电动势 $e _ { w }$ 为：$e _ { w } = e _ { w 1 } + e _ { w 2 } = ( E _ { w 1 } + E _ { w 2 } ) S i n 2 \omega t$ (10)式中 $E _ { w 1 }$ 与 $E _ { w 2 }$ 分别为 $e _ { w 1 }$ 和 $e _ { w 2 }$ 的幅值。ew1=e、Ew1=E；Ew2可由下式确定：
+
+$$
+\begin{array} { r } { E _ { w 2 } = \int _ { h _ { 1 } L h _ { 2 } } V _ { 2 } \times B _ { 2 m } \cdot d l } \end{array}
+$$
+
+式中 $V _ { 2 }$ 为线段h1、L、h2上线元 $d l$ 相对于二类磁力线的线速度； $B _ { 2 m }$ 为 $\mathbf { h } \mathbf { l }$ 、L、h2上最大磁感应强度平均值。 $e _ { w 2 }$ 是切割二类磁力线产生的，因此与式（8）相对应其幅值 ${ \cal E } _ { w 2 }$ 只与 $\mathbf { \Omega } _ { a }$ 、 $b$ 两触点在转筒上的上下位置有关，而与 $h$ 长短无关，当 $a$ 、 $b$ 两点间距离 $L$ 确定后幅值 $E _ { w 2 }$ 也就确定了。但是 $h$ 改变会影响线段L切割一类磁力线的数量，由式（9-2）可知当 $h$ 减小（线段L靠近磁体 ${ \bf \nabla } \cdot { \cal R } _ { l }$ 减小）时，被切割的一类磁力线增多， $E _ { w 1 }$ 增大所以 $e _ { w }$ 幅值增大，反之线段L远离磁体 $h$ 增大时 $E _ { w I }$ 减小，因此 $e _ { w }$ 的幅值减小。当 $h$ 增大到一定值后 $E _ { w 1 }$ 趋于0，则 $e _ { w } = e _ { w 2 } = E _ { w 2 } S i n 2 \omega t$ ， $e _ { w }$ 的幅值不再随 $h$ 增大而改变，即趋于某一定值。
+
+如果站在 $N$ 观点则无论是用洛伦茨电子学还是用法拉第电磁感应定律都无法对第（3）组步骤实验结果给出圆满解释。如果说转筒切割磁力线感应的电动势与闭合回路中磁通变化感生电动势相互抵消了，所以转筒没有温升，那么又无法解释测量回路中感生电动势会随 $h$ 减小（测量回路面积减小）反而增大的观察结果。
+
+# 4结论
+
+多极感应实验第（3）组步骤与图1经典的单极感应实验及法拉第转盘实验步骤$\textcircled{3}$ 相同点是实验磁体都以轴对称旋转，且测量回路中有部分线段与磁体同步旋转。不同的是多极感应实验磁体外围分布有一类磁力线，因此与式（8）比较式（10）中含有切割一类磁力线的感应电动势 $\scriptstyle { \mathcal { e } } _ { w 1 }$ 项，$e _ { w 1 }$ 的幅值 $E _ { w 1 }$ 由(9-2)式确定， $E _ { w 1 }$ 不仅与测量回路中感应电动势的线段相对于磁体旋转的角速度 $\omega$ 有关，而且与该线段相对于磁体的距离 $R _ { l }$ 有关，加上被测信号相对较
+
+强，抗干扰能力强，所以多极感应实验才能够区别出测量回路中感应电动势产生的具体线段位置。
+
+量回路中感应电动势是由哪段导体产生的争论韦伯观点是正确的，或者说多极感应实验结果是支持M观点的。
+
+鉴于 $N$ 观点无法对多极感应实验第（3）组实验结果给出自然、合理的解释，笔者只能断言：当年关于单极感应实验测
+
+单极感应问题是历史遗留问题，笔者虽慎之又慎，但认知有限，难免出错，恳望相关学者、同行批评验证，不胜感激。
+
+# 参考文献：
+
+[1］张元仲．狭义相对论实验基础[M]．科学出版社，1979，99-101  
+[2][2]祝瑞琪．人们对单极感应的认识[J]．大学物理，1987，6：1-5  
+[3]郭奕玲，沈慧君．单极感应之谜[J]．大自然探索，1988，1：175-180  
+[4]FARADAY M. Faraday's diary[M]．London:Bell and Sons，1932，Vol．1:402  
+[5] FARADAY M.Experimental researches in electricity[J]．London:Taylor and Francis，1839,Vol．1:64-65  
+[6]FARADAY M.Phil．Trans[J]．1852：30  
+[7]WEBERWE.Ann．Phys［J]．1841，52：353  
+[8]DJURI J. Spinning magnetic fields ［J]．J. Appl．Phys，1975，46:679-688  
+[9]祝瑞琪．广义单极机的数学模型［J]．大学物理，1987,2：5-9  
+[10] DJURI J. Reply to [Comment on [Spinning magnetic fields[J]．J. Appl.Phys.,1979,50:537-537  
+[11] BARNETT S J. On electromagnetic induction and Relative Motion[J]．Phys.Rev，1912,35:323-336  
+[12]BARNETT S J.On electromagnetic induction ［J]．Phys.Rev，1913，2：323-326  
+[13］KENNARD E H.Unipolar induction[J]．Philos.Mag，1912，23：937-941  
+[14] KENNARD E H. On unipolar induction:another experiment and its significance as evidencefor the existence of the aether ［J].Philos.Mag，1917，33：179-190  
+[15] PEGRAMG B. Unipolar induction and electron theory[J]．Phys.Rev，1917，10:591-600[16］范淑华，何 艳，刘琳霞．论单极感应现象［J]．大学物理，2007，7：15-17  
+[17] Barlett D F， Monroy J,Reeves J.Spinning magnets and Jehle's model of the electeon [J].Phys Rev D，1977,16:3459-3463
+
+# Demystifying Unipolar Induction via A Multipolar Induction Experiment
+
+ZHANG Xueliang
+
+(School of Electric Engineering，Wuhu Institute of Technology，Wuhu 241006) Abstract: Based on the fact that the magnetic lines of force can only form continuous closed loops，it is first proved, via the calculation of Lorentz force, that both the N and $\mathtt { M }$ hypotheses can successfully explain most representative and impactful unipolar induction experiments dating back to the time of Faraday. Moreover，a simple yet efficient method is outlined， based on the equivalent circuit representation， to derive a generalized formulation of the induced emf in the unipolar induction experiment. The formulation indicates that the crux of the paradox lies in the axial symmetric distribution of the magnetic field generated by the unipolar structure， which is time invariant as the magnet rotates arounDemystifying Unipolar Induction via An Experimental Studyon Multipolar Inductiond with a constant angular velocity. Such observation further infers that unipolar induction experiments along cannot effectively address the unipolar induction problem. Accordingly， a multipolar induction experiment is proposed, together with detailed description of the experiment results and comprehensive analysis based on both the N and M hypotheses respectively. The analysis indicates that the induced emf is generated by the static part of the circuit outside the magnet,which is in line with the $\mathtt { M }$ hypothesis. Key words:Electromagnetic theory； Unipolar induction; Multipolar induction, Electromagnetic experiments;

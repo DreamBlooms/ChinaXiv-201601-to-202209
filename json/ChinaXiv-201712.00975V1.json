@@ -1,0 +1,371 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nanog通过升高PKCε的表达促进乳腺癌细胞的侵袭 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邵文凤',李福喜'，唐 芮'，于晓然',温桥生'，余焱林²,熊静波'  \n1南方医科大学基础医学院细胞生物学教研室,广东广州 510515;2国立癌症研究所肿瘤生物与遗传实验室.国立卫生研究院,马里兰州贝塞斯达市 美国",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的研究Nanog促进乳腺癌细胞侵袭与ezrinT567磷酸化的关系及Nanog调节ezrinT5磷酸化的可能机制。方法转染靶向Nanog的siRNA敲低乳腺癌细胞Nanog;用transwell法检测乳腺癌细胞侵袭;用免疫印迹检测乳腺癌细胞Nanog、PKCε表达水平和ezrinT57磷酸化水平;用免疫共沉淀和免疫印迹检测PKCε和ezrin蛋白的相互作用。结果敲低乳腺癌细胞的Nanog,PKCe蛋白表达下降、ezrinT磷酸化水平下降、乳腺癌细胞的侵袭能力下降；敲低PKCε降低ezrinT5磷酸化水平；PKCe与ezrin可免疫共沉淀。结论 Nanog可上调PKCe的表达,后者可使ezrin磷酸化，这可能是Nanog 促进肿瘤转移的一个新机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Nanog;埃兹蛋白；蛋白激酶C；乳腺癌；侵袭",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nanog promotes the invasion of breast cancer cells by increasing PKCε expression ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHAOWenfeng,LIFuxi',TANGRui,YUXiaoran',WENQiaosheng,YUYanlin,XIONGJingbo DepartmentofellologyolofsicedicaliencesuthnedicalUnieityangzouO55，in;btof CancerBiologyndGenetics,NationalCancerInstitute,NationalInstitutesofHalth,ethesda,aryland,A ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Objective To study therelationship between Nanog-promoted metastasis of breastcancerand ezrint567 phosphorylation,and explore the posible mechanism by which Nanog regulates ezrin157 phosphorylation. Methods AsiRNA constructtargetingNanog wastransfected inbreastcancercels toknock down Nanog expresson,and thechangesihecel invasion was detected using Transwellassay.The expresson levels of Nanogand PKCand the phosphorylation levelof ezrin567 were detected using Western bloting and immunofluorescent staining; the protein interaction between PKCεand ezrin was assayed byco-immunoprecipitationand Western bloting.ResultsNanog knockdown significantlydecreased the expresionofPKCεprotein,phosphorylationlevelof ezrinandtheinvasionabilityofbreastcancercels.PKCε knockdown obviouslydecreased thephosphorylationlevelof ezrin5inthecelsandPKCεandezrin wereco-immunoprecipitated. Concludions Nanogcan can upregulate the expresionof PKCε to promote the phosphorylation of ezrin5,，whichcan be a new mechanism by which Nanog promotes tumor metastasis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Nanog; ezrin; protein kinase $C ;$ breast cancer; invasion ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nanog是含同源结构域的转录因子，在胚胎干细胞干性维持和自我更新中起作用，在干细胞中表达，而在分化成熟细胞中表达缺失[1;近年的研究发现,Nanog可促进肿瘤的转移。一方面，肝癌[2],结直肠癌[3]、乳腺癌[45]等癌组织Nanog的表达升高并与死亡率正相关；另一方面,过表达Nanog的结直肠癌细胞,迁移和侵袭能力增强[3]。有关Nanog促进肿瘤转移的机制,已有一些研究，如：Nanog可降低卵巢癌细胞中E-cadherin 和FoxJ1的表达，促进卵巢癌转移[;Nanog可促进转化生长因子家族蛋白NODAL的表达，激活上皮间质转化，从而促进肝癌细胞转移；Nanog促进乳腺癌转移的机制与其促进PDGFRa的表达有关[8]；但Nanog促进癌细胞转移的机制目前还无定论，因此，深入研究Nanog促进癌细胞转移的机制仍很有必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nanog作为转录因子，有多个靶基因。Nanog靶基因包括细胞周期蛋白D1(cyclinD1)[4,9、生长分化因子3(GDF3)[10]、粘着斑激酶[11]和胎肝激酶- $\\cdot 1 ^ { [ 1 2 ] }$ 等激酶。激酶的活性异常与肿瘤转移的关系非常密切，如蛋白激酶C(PKC)[13-14]等,但Nanog促进乳腺癌转移是否与其对激酶的调节有关，并无相关研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ezrin由Vil2基因编码,是ERM(Ezrin-Radixin-Moesin)家族的成员，其表达升高和第567位苏氨酸$\\mathrm { ( e z r i n ^ { \\mathrm { T 5 6 7 } } }$ )等位点氨基酸的磷酸化与乳腺癌转移有关[15-16]Bruce等[17报道,ezrin表达升高与乳腺癌的不良预后有关，敲低乳腺癌细胞ezrin可抑制乳腺癌细胞的侵袭能力[18]。雌激素通过使ezrinT57磷酸化活化ezrin,促进乳腺癌细胞的迁移[19]。已经发现有几种激酶能磷酸化ezrin T567,包括蛋白激酶A[20]Rho[21] $\\mathrm { A k t } 2 ^ { [ 2 2 ] }$ 、PKC[23-24]包括PKC亚型PKC0[25]、PKCα和PKCt26],它们在不同的情形下使ezrinT的磷酸化。在乳腺癌中,PKCε的表达水平可作为乳腺癌患者不良预后的指标[27],但PKCε是否可使ezrinT57的磷酸化没有相关报道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们研究了Nanog对PKCε表达的影响及PKCε对ezrinT5磷酸化的影响。我们的研究结果提示,Nanog可上调PKCε的表达，后者可使ezrinT5磷酸化，这可能是Nanog促进肿瘤转移的一个新机制。这一研究结果加深了对Nanog促进乳腺癌转移机制的了解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 细胞株与细胞培养 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人乳腺癌细胞系MDA-MB-231、MCF-7和人胚肾上皮细胞293T购自中科院上海细胞库。MCF-7和293T细胞用DMEM(Gibco,美国)培养,MDA-MB-231细胞用L-15培养基(Hyclon,美国)培养，所有基础培养基均添加 $10 \\%$ 胎牛血清(Gibco，美国）， $1 0 0 ~ \\mu \\mathrm { g / m L }$ 青霉素和$1 0 0 ~ \\mu \\mathrm { g / m L }$ 链霉素，细胞培养于 $5 \\%$ $\\mathrm { C O } _ { 2 }$ 的 $3 7 ^ { \\circ } \\mathrm { C }$ 培养箱。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2主要试剂/试剂盒",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "L15、DMEM细胞培养液及胰酶购自美国Hyclone公司；胎牛血清购自美国Gibco公司；Transwell小室、Matrigel基质胶、PVDF膜购自美国BD公司；兔抗人Nanog单克隆抗体、兔抗人pEzrinT57单克隆抗体均购自美国Cell Signaling Technology公司;鼠抗人ezrin单克隆抗体购自美国Sigma公司；鼠抗人 $\\beta$ -actin、山羊抗兔IgG、山羊抗鼠IgG购自武汉博士德生物工程有限公司;LipofectamineTM30o0转染试剂购自美国Invitrogen公司；ProteinA/G琼脂糖树脂购自美国Life公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3免疫印迹实验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "免疫印迹实验用于检测蛋白表达。将细胞消化后接种到12孔板， $1 \\times 1 0 ^ { 4 }$ 个细胞每孔。用预冷的PBS洗涤细胞2次，吸净液体。将细胞放置在冰上，加入 $1 ~ \\mathrm { m L }$ 预冷的PBS,细胞刮刀刮下细胞，离心收集。向每管细胞中加入 $1 0 0 ~ \\mu \\mathrm { L }$ RIPA裂解液,冰上裂解 $3 0 \\mathrm { m i n } , 1 2 0 0 0 \\mathrm { g }$ $4 ^ { \\circ } \\mathrm { C }$ 离心 $1 0 \\mathrm { m i n }$ ，取上清，BCA法测定总蛋白浓度。蛋白样品上样前加入上样缓冲液, $1 0 0 \\mathrm { { ^ { \\circ } C } }$ 金属浴加热 $5 \\mathrm { m i n }$ $1 2 \\ 0 0 0 \\ g$ 离心 $3 ~ \\mathrm { m i n }$ ，直接用于蛋白免疫印迹。SDS-PAGE分离蛋白，转膜至PVDF膜， $5 \\%$ 脱脂牛奶摇床上室温封闭 $^ { \\textrm { 1 h } }$ ,加入相关蛋白的一抗(Nanog抗体,1:500;ezrin抗体,1:400O;pEzrinT5抗体, $1 : 1 0 0 0 ; \\beta$ -actin抗体，1:3000), $4 \\mathrm { { ^ \\circ C } }$ 孵育过夜;二抗羊抗兔/鼠(1:3000)室温孵育1h,ECL显影。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 siRNA转染 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MCF-7细胞和MDA-MB-231细胞按 $1 . 2 \\times 1 0 ^ { 5 } / \\mathrm { m L }$ 密度接种于6孔板中，过夜后分别用Lip3000将siRNA转染入MCF-7和MDA-MB-231细胞， $3 7 ~ \\mathrm { { ^ { \\circ } C } }$ 孵箱中培养$6 0 \\mathrm { ~ h ~ }$ ,收集细胞裂解液,进行Westernblotting。转染过程按Lipofectamine3ooo说明书进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小分子干扰RNAsi-Nanog、si-Ezrin 和 si-PKCε由上海吉玛公司合成,其序列分别是:siRNA-Nanog,Negative control: 5'-UUCUCCGAACGUGUCACGUTT-3'，si-Nanog1: 5'-CCAGACCUGGAACAAUUCATT-3'，si-Nanog2: 5'-CCAUGGAUUUAUUCCUAAATT-3'，si-Nanog3: $5 ^ { \\prime }$ -GGGUUAAGCUGUAACAUACTT-3'。 si-PKCε negative control: 5'-UUCUCCGAACGUGUCACGUTT-3',si-PKCε:5'-UCAAUGACAAGGCCUUCCgg-3'。具体转染方法按Lipofectamine3000的说明书进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 Transwell实验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transwell实验用于检测细胞的迁移和侵袭能力。取 ${ 5 \\mu \\mathrm { L } }$ Matrigel基质胶溶于 $9 5 ~ \\mu \\mathrm { L }$ DMEM基础培养基,加入到Transwell小室中,在 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵箱静置 $^ { \\textrm { 1 h } }$ 小心吸除小室中未凝液体(迁移实验不需要经过此步），24孔板内加入 $7 5 0 \\mu \\mathrm { L }$ 基培孔，将小室放在孔内(确保无气泡)，向小室内加入 ${ 5 0 0 \\mu \\mathrm { L } }$ 基培，放入 $3 7 \\ \\mathrm { { ^ circ C } }$ 孵箱 $3 0 ~ \\mathrm { m i n }$ ;用于Transwell实验的癌细胞为对数生长期细胞，消化离心，用无血清培养基稀释细胞至 $3 \\times$ $1 0 ^ { 5 } / \\mathrm { m L }$ ,每个小室中加入 ${ 5 0 0 \\mu \\mathrm { L } }$ 细胞悬液，下室每孔加入含 $10 \\%$ 胎牛血清的培养基 $7 5 0 ~ \\mu \\mathrm { L }$ ，MDA-MB-231培养 $1 2 \\mathrm { h } , \\mathrm { M C F } { - 7 }$ 细胞培养 $4 8 \\mathrm { { h } }$ ,用棉签擦去小室上层未侵袭的细胞， $4 \\%$ 多聚甲醛固定 $1 5 ~ \\mathrm { m i n }$ $0 . 1 \\%$ 结晶紫染色 $3 0 ~ \\mathrm { m i n }$ 。显微镜下拍摄，在 $4 0 0 \\times$ 视野下取上、下、左、右、中5个固定的视野拍照，计算这5个视野内的细胞总数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6免疫荧光染色",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "制备细胞爬片，将传代消化下来的细胞计数，稀释成密度为 $1 \\times 1 0 ^ { 4 }$ 个细胞 $\\mathrm { \\Delta } ^ { \\prime } \\mathrm { m L }$ 的细胞悬液,混匀后取 $4 0 0 ~ \\mu \\mathrm { L } I$ 孔细胞悬液于8孔载玻片中，放入 $3 7 \\%$ 孵箱中培养； $2 4 \\mathrm { h }$ 待细胞长开后，用 $1 \\times \\mathrm { P B S }$ 洗细胞3次，加入 $4 \\%$ 多聚甲醛，室温固定 $3 0 \\mathrm { m i n }$ ;去除多聚甲醛并用30mmoL甘氨酸终止固定；用 $0 . 5 \\%$ 的Triton-X透化细胞 $5 \\mathrm { m i n }$ ；用 $1 \\times$ PBS洗2次，每次 $5 ~ \\mathrm { m i n }$ ；用 $5 \\%$ 牛奶和 $2 \\% \\mathrm { B S A }$ （用PBS稀释)室温封闭1h;加一抗(用封闭液稀释一抗),按照相应比例加入Nanog抗体(1:100),Ezrin抗体(1:200)，pEzrin T567抗体 $( 1 \\colon 1 0 0 )$ ， $4 \\mathrm { { ~ } ^ { \\circ } C }$ 过夜；洗脱一抗（用$0 . 0 5 \\%$ Triton-X在摇床上洗3次，每次 $5 \\mathrm { m i n } )$ ；加二抗(将二抗羊抗兔/鼠， $1 : 1 0 0$ ，用封闭液稀释),常温孵育 $\\boldsymbol { 1 } \\mathbf { h } _ { \\mathrm { o } }$ 洗脱二抗(用 $0 . 0 5 \\%$ Triton-X在摇床上洗3次，每次 $5 \\mathrm { m i n } .$ ；用DAPI染核 $5 ~ \\mathrm { m i n }$ ；用 $1 \\times \\mathrm { P B S }$ 洗掉多余的DAPI;滴加抗免疫荧光衰减剂，盖盖玻片，用透明无色指甲油封片；激光共聚焦显微镜下观察拍照。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7免疫共沉淀 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将细胞接种到 $1 0 \\mathrm { c m }$ 培养皿中,待细胞长满后弃培养基，用预冷的 $1 { \\times } \\mathrm { P B } \\mathrm { S }$ 洗3次，用预冷的PBS洗涤细胞2次，吸净液体。将细胞放置在冰上，加入 $6 0 0 ~ \\mathrm { m L }$ 预冷的RIPA裂解液，细胞刮刀刮下细胞，收集到 $1 . 5 ~ \\mathrm { m L }$ 离心管中,冰上裂解 $3 0 \\operatorname* { m i n } , 1 2 0 0 0 g 4 \\mathrm { \\% }$ 离心 $1 0 \\mathrm { m i n }$ ,取上清,BCA法测定总蛋白浓度，蛋白量约 $4 0 0 ~ { \\mu \\mathrm { g } }$ 。取 $10 \\%$ 上清作为Input,将剩下的蛋白裂解液分成两部分，一部分加入 ${ 5 \\mu \\mathrm { L } }$ 兔IgG抗体，另一部分加入 ${ 5 \\mu \\mathrm { L } }$ PKCε抗体,$4 \\mathrm { { ^ { \\circ } C } }$ 旋转过夜。次日，取 $6 0 ~ \\mu \\mathrm { L }$ ProteinA/G琼脂糖树脂，用 $\\mathrm { \\ d d H _ { 2 } O }$ 洗3次，将树脂均分成两管，分别将孵育了兔IgG抗体和PKCε抗体的蛋白裂解液加入含树脂的管内， $4 \\mathrm { { ^ { \\circ } C } }$ 旋转 $2 \\mathrm { h }$ ，离心，弃上清，用裂解液清洗沉淀3次，离心弃上清，将上清吸净，加入 $2 \\times$ Loading buffer,$1 0 0 \\mathrm { { ^ { \\circ } C } }$ 金属浴加热 $5 \\operatorname* { m i n } , 1 2 0 0 0 g 4 \\mathrm { ^ { \\circ } C }$ 离心 $3 \\mathrm { m i n }$ ，进行",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Western blotting。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.8 统计学分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同实验组的数据以均数 $\\stackrel { \\cdot } { \\pm }$ 标准差表示，统计分析和柱状图制作均用Gaphpad prism5.0,不同组之间分析用非配对t检验， $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1敲低Nanog降低乳腺癌细胞迁移与侵袭能力",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们先用免疫印迹检测了3条Nanog特异的siRNA敲低乳腺癌细胞系MCF-7Nanog表达的效果，发现第3条 si-Nanog3的敲除效果最明显。我们选取NanogsiRNA3用于后续实验。用NanogsiRNA3敲低乳腺癌细胞系MDA-MB-231和MCF-7中的Nanog,癌细胞的迁移与侵袭能力减弱(图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/462cb7ddbf588cda4ddc3493496110bbe1e50df623e77a491d441cb01f316321.jpg",
+        "img_caption": [
+            "图1敲低Nanog降低MDA-MB-231和MCF-7细胞的迁移和侵袭",
+            "Fig.1 Nanog knockdown decreased the migration and invasion of MDA-MB-231 and MCF-7 cels.A: Nanog protein expression in MCF-7 transfected with each of the 3 diferent siRNAsequences targeting Nanog;B: Nanog knockdown decreased the migration and invasion ability of MDA-MB-231 and MCF-7 cels (Original magnification: $\\times 4 0 0 ^ { \\cdot }$ ） $* * * P { < } 0 . 0 5$ （204 MDA-MB-231 us control group; $^ { * * } P { < } 0 . 0 5$ MCF-7 us control group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2敲低Nanog降低乳腺癌细胞PKCε蛋白表达",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于PKCε的表达水平可作为乳腺癌患者不良预后的指标[27],且又有研究报道[12Nanog可促进多个激酶的表达促进肿瘤转移，因此我们观察了敲低Nanog对PKCε的表达的影响。结果表明,用NanogsiRNA3敲低乳腺癌细胞系MCF-7中的Nanog,PKCε的蛋白表达量也相应下降(图2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Control si-Nanog 3 PKCε ? Nanog 二 β-actin ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3敲低乳腺癌细胞中Nanog降低ezrinT567磷酸化水平 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于PKCε是否是ezrinT5磷酸化的上游激酶并无相关研究，我们研究了PKCε是否是使ezrinT5磷酸化的另一个PKC亚型。研究结果显示,用Nanog siRNA3敲低乳腺癌细胞系MCF-7中的Nanog，免疫印迹实验结果表明，ezrinT5磷酸化水平相应降低(图3A)。敲低MCF-7和MDA-MB231细胞Nanog,免疫荧光染色实验检测发现，ezrinT5磷酸化水平相应降低(图3B)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4敲低乳腺癌细胞中PKCε降低ezrinT567磷酸化水平",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为进一步研究PKCε是否可磷酸化ezrinT567,用PKCε特异的siRNA敲低乳腺癌细胞系MDA-MB-231中的PKCε,然后免疫印迹检测ezrinT5酸化水平,结果表明，敲低PKCε，MDA-MB-231细胞中ezrinT5的磷酸化水平也同时下降(图4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5PKCε蛋白与ezrin蛋白直接相互作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为研究PKCε使ezrinT5磷酸化是否需要PKCε和ezrin的相互作用，我们用MCF-7和MDA-MB-231细胞的细胞裂解液和抗PKCε抗体作免疫共沉淀实验，抗PKCε抗体的免疫沉淀复合物中，可检出ezrin(图5)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我们的研究发现，敲低Nanog,在乳腺癌细胞的侵袭能力下降的同时，PKCε蛋白表达和ezrinT5磷酸化水平相应下降,敲低PKCε降低ezrinT5磷酸化水平，PKCε与ezrin可免疫共沉淀。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我们用siRNA敲低乳腺癌细胞系MCF-7和",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DA-MB-231中的Nanog，发现乳腺癌细胞的迁移和侵袭能力减弱，我们的研究结果和Lu等[8报告的结果一致，Lu等在MCF-7细胞过表达Nanog，可以促进乳腺癌细胞的侵袭和迁移;这一研究结果也与Nanog促进其它癌细胞迁移的研究结果一致，如肝癌，卵巢癌等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "促进肿瘤转移的因素如雌激素[19]和内皮细胞生长因子[28等促进癌细胞的侵袭与ezrinT567磷酸化水平升高有关,因此，我们假设Nanog促进乳腺癌转移的机制与Nanog调节ezrinT5磷酸化水平有关。为验证这一假设，我们用siRNA敲低乳腺癌细胞中Nanog后，检测了ezrinT57的磷酸化水平,结果发现Nanog降低后,ezrinT567的磷酸化水平确实相应的降低了(图3)。这一结果验证了我们的假设。除了ezrinT5磷酸化与癌细胞转移有关外，第477位酪氨酸( $\\mathrm { e z r i n } ^ { \\mathrm { Y 4 7 7 } }$ )磷酸化[29]也与肿瘤转移有关。本研究没有检测ezrinY477磷酸化水平变化的情况，今后可进一步研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可使ezrinT5的磷酸化的激酶有多种,包括蛋白激酶 $\\mathbf { A } ^ { [ 2 1 ] }$ 、Rho[21]、 $\\mathbf { A k } \\mathbf { t } 2 ^ { [ 2 2 ] }$ 、PKC[23-24]包括PKC亚型 $\\mathrm { P K C } { \\Theta } ^ { [ 2 5 ] }$ PKCα和PKCt[26],它们在不同的情形下使ezrinT5的磷酸化。这自然使我们推测Nanog调节ezrinT5的磷酸化是由于Nanog调节这些激酶表达所致，而且，以前的研究也表明，Nanog的确可调节一些激酶的表达,如粘着斑激酶[1和胎肝激酶-1[2]等。我们注意到，在乳腺癌中，PKCε的表达水平可作为乳腺癌患者不良预后的指标[27],因此我们选PKCε作为观察对象，看Nanog是否可调节PKCε的表达。我们发现,用siRNA敲低MCF-7细胞中的Nanog，细胞中的PKCε蛋白表达量也降低，这是一个新的发现,提示Nanog可调节PKCε表达。我们的研究没有观察敲低Nanog对其它激酶，尤其PKC家族的其它相关亚型表达的影响，因此不能排除Nanog也可能通过影响其它激酶的表达，影响ezrinT5磷酸化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于PKCε是否可以使ezrinT磷酸化，以前并无研究。我们的研究表明，敲低Nanog，可降低MCF-7和MDA-MB-231细胞ezrinT567磷酸化，提示ezrinT567是PKCε的底物；用siRNA敲低乳腺癌细胞系MDA-MB-231中的PKCε,ezrinT的磷酸化水平下降,这些结果进一步证明，PKCε可使ezrinT5磷酸化;我们用免疫共沉淀实验检测到PKCε能与ezrin直接相互作用，这可能是PKCε使ezrinT5的磷酸化的分子基础",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我们的这一研究还存在一些不足，如我们没有通过过表达Nanog观察Nanog对PKCε表达的影响;由于敲除Nanog后PKCε蛋白的表达水平降低，我们只能推测Nanog是通过影响PKCε的转录所致，这一推测主要是基于Nanog是转录因子。但这一推测还需更多实验证明，因为也不能排除Nanog通过影响PKCε蛋白的稳定性调节PKCε的表达水平。此外,敲低Nanog降低ezrinT5的磷酸化也可能还存在其他机制，还有待进一步研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbda7c01a9d1c314b268689ac0f0b16d81b49126e3904c3d60bbae9c07af3646.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/54c016d5ab8892c334fe28e679ef622a408d5c301a85781c384d3c5cdbe3cb39.jpg",
+        "img_caption": [
+            "图3敲低乳腺癌细胞中的Nanog降低ezrinT57磷酸化水平"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a266183344c97d77e0f67b84a5a3193b5e19259590163acdfc1c9d629646e66.jpg",
+        "img_caption": [
+            "Fig.3Nanogknockdown inbreastcancercelsdecreased thephosphorylation level of ezrin57.A:Western blottng for detecting thephosphorylation level of ezrinT567 in MCF-7cellswith Nanog knockdown; B: Immunofluorescent images showing decreasedphosphorylationlevelof ezrin6inMDA-MB-231andMCF-7cellswithNanog knockdown(Original magnification: $\\times 2 0 0$ ） ",
+            "图4敲低PKCε降低MDA-MB-231细胞中的ezrinT567的磷酸化水平Fig.4 PKCε knockdown decreased the phosphorylationlevel of ezrinT567 in MDA-MB-231 cells."
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，我们的研究发现，敲低Nanog,乳腺癌细胞的侵袭能力下降的同时，PKCε蛋白表达和ezrinT567磷酸化水平相应降低，提示Nanog通过促进PKCε表达使ezrinT5磷酸化，后者促进乳腺癌细胞的侵袭能力。Nanog-PKCε-ezrinT57轴可能是Nanog促进乳腺癌转移的一个新途径。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Chambers I,Colby D,Robertson M,et al.Functional expressior ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/45f16e36cdfef30dc8cf280f4a3a68f39f69258a250fd4ce56f09c34f9ac1f43.jpg",
+        "img_caption": [
+            "图5ezrin与PKCε免疫共沉淀 Fig.5 Co-immunocipitation of ezrin and PKCε "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with anti-PKCε. cloning of Nanog,a pluripotency sustaining factor in embryonic stem cells[J].Cell,2003,113(5): 643-55.   \n[2]Shan J, Shen J,Liu L,et al. Nanog regulates self-renewal of cancer stem cells through the insulin-like growth factor pathway in human hepatocellular carcinoma[J].Hepatology,2012,56(3):1004-14.   \n[3] Meng HM, Zheng P, Wang XY, et al. Over-expression of Nanog predicts tumor progression and poor prognosis in colorectal cancer [J].Cancer Biol Ther,2010,9(4): 295-302.   \n[4]Nagata T, Shimada Y, Sekine S,et al. Prognostic significance of NANOG and KLF4 for breast cancer[J].Breast Cancer,2014,21 (1): 96-101.   \n[5]Wang D,Lu P, Zhang H,et al. Oct-4 and Nanog promote the epithelial-mesenchymal transition of breast cancer stem cells and are associated with poor prognosis in breast cancer patients [J]. Oncotarget,2014,5(21): 10803-15.   \n[6]Siu MK,Wong ES,Kong DS,et al. Stem cell transcription factor NANOG controls cell migration and invasion via dysregulation of E-cadherin and FoxJ1 and contributes to adverse clinical outcome in ovarian cancers[J]. Oncogene,2013,32(30):3500-9.   \n[7]Sun C, Sun L,Jiang K,et al.NANOG promotes liver cancer cell invasion by inducing epithelial-mesenchymal transition through NODAL/SMAD3 signaling pathway[J].Int J Biochem Cell Biol, 2013,45(6): 1099-108.   \n[8]Lu X,Mazur SJ,Lin T,et al. The pluripotency factor nanog promotes breast cancer tumorigenesis and metastasis[J]. Oncogene, 2014,33(20): 2655-64.   \n[9]Han J, Zhang F,Yu M,et al. RNA interference-mediated silencing of NANOG reduces cell proliferation and induces Go/Gcell cycle arrest in breast cancer cells[J]. Cancer Lett,2012,321(1): 80-8.   \n[10]Park SW, Lim HY, Do HJ,et al. Regulation of human growth and differentiation factor 3 gene expression by NANOG in human embryonic carcinoma NCCIT cells[J].FEBS Lett,2012, 586(19): 3529-35.   \n[11] Ho B, Olson G, Figel S,Gelman I, Cance WG, Golubovskaya VM: Nanog increases focal adhesion kinase (FAK) promoter activity and expression and directly binds to FAK protein to be phosphorylated [J].JBiol Chem,2012,287(22): 18656-73.   \n[12]Kohler EE, Cowan CE,Chaterjee I,et al. NANOG induction of fetal liver kinase-1(FLK1） transcription regulates endothelial cell proliferation and angiogenesis[J].Blood,2011,117(5): 1761-9.   \n[13]Fujii T, Yokoyama G,Takahashi H,et al. Preclinical and clinical studies of novel breast cancer drugs targeting molecules involved in protein kinase C signaling,the putative metastasis-suppressor gene Cap43 and the Y-box binding protein-1[J].Curr Med Chem,2008, 15(6): 528-37.   \n[14] Sledge GW,JR,Gokmen-Polar Y: Protein kinase C-beta as a therapeutic target in breast cancer[J]. Semin Oncol, 2O06,33(3 Suppl 9): S15-8.   \n[15]Ren L，Hong SH,Chen QR，et al.Dysregulation of ezrin phosphorylation prevents metastasis and alters cellular metabolism in osteosarcoma[J]. Cancer Res,2012,72(4): 1001-12.   \n[16] Chen Y,Wang D,Guo Z,et al．Rho kinase phosphorylation promotes ezrin-mediated metastasis in hepatocelllar carcinoma[J]. Cancer Res,2011,71(5): 1721-9.   \n[17]Bruce B,Khanna G,Ren L,et al. Expression of the cytoskeleton linker protein ezrin in human cancers[J]. Clin Exp Metastasis, 2007,24(2): 69-78.   \n[18] Li Q,Wu M,Wang H,et al. Ezrin silencing by small hairpin RNA reverses metastatic behaviors of human breast cancer cels [J]. Cancer Lett,2008,261(1): 55-63.   \n[19]Zheng S,Huang J, Zhou K,et al. 17beta-Estradiol enhances breast cancercell motility and invasion via extra-nuclear activation of actin-binding protein ezrin[J].PLoS One,2011,6(7): e22439.   \n[20]Sun F,Hug MJ,Bradbury NA,et al. Protein kinase A associates with cystic fibrosis transmembrane conductance regulator via an interaction with ezrin[J].JBiol Chem,2000,275(19):14360-6.   \n[21]Matsui T,Maeda M,Doi Y,et al．Rho-kinase phosphorylates COOH-terminal threonines of ezrin/radixin/moesin (ERM）proteins and regulates their head-to-tail association[J].JCell Biol,1998,140 (3): 647-57.   \n[22]Shiue H,Musch MW,Wang Y, et al.Akt2 phosphorylates ezrin to trigger NHE3 translocation and activation[J].J Biol Chem,2005, 280(2): 1688-95.   \n[23] Ren L, Hong SH, Cassavaugh J,et al. The actin-cytoskeleton linker protein ezrin is regulated during osteosarcoma metastasis by PKC [J].Oncogene,2009,28(6): 792-802.   \n[24]Ng T,Parsons M,Hughes WE,et al.Ezrin is a downstream effector of trafficking PKC-integrin complexes involved in the control of cell motility[J].EMBO J,2001,20(11): 2723-41.   \n[25] Simons PC,Pietromonaco SF,Reczek D,et al. C-terminal threonine phosphorylation activates ERM proteins to link the cell's cortical lipidbilayer tothe cytoskeleton[J].Biochem BiophysRes Commun,1998,253(3): 561-5.   \n[26] Wald FA, Oriolo AS,Mashukova A,et al. Atypical protein kinase C (iota）activates ezrin in the apical domain of intestinal epithelial cells[J]. JCel Sci,2008,121(Pt 5): 644-54.   \n[27]Pan Q,Bao LW,Kleer CG,et al. Protein kinase C epsilon is a predictive biomarker of aggressive breast cancer and a validated target for RNA interference anticancer therapy [J]. Cancer Res, 2005,65(18): 8366-71.   \n[28]Adada MM,Canals D, Jeong N,et al. Intracellular sphingosine kinase 2-derived sphingosine-1-phosphate mediates epidermal growth factor-induced ezrin-radixin-moesin phosphorylation and cancer cellinvasion[J]. FASEB J,2015,29(11): 4654-69.   \n[29]Mak H, Naba A, Varma S,et al. Ezrin phosphorylation on tyrosine 477 regulates invasion and metastasis of breast cancer cells [J]. BMC Cancer,2012,12: 82. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(编辑：经媛)",
+        "page_idx": 5
+    }
+]

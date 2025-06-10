@@ -1,0 +1,197 @@
+# 罗汉果多糖对环磷酰胺所致的免疫抑制小鼠免疫功能的影响
+
+张海全，黄勤英，郑广进，曾振芳，许丹妮，农克良\*（广西民族师范学院广西高校桂西南特色植物资源化学重点实验室培育基地，广西 崇左532200)摘 要：为研究罗汉果多糖对免疫抑制小鼠免疫功能的影响，实验小鼠随机分成正常组，模型组，罗汉果多糖低、中、高剂量组（ $2 5 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ 、 $5 0 \mathrm { m g } \bullet \mathrm { k g } ^ { - 1 }$ 、 $1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ）和左旋咪唑组，采用腹腔注射环磷酰胺（ $2 0 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ ）建立免疫抑制小鼠模型，连续灌胃给药14d后，测定各组小鼠的免疫器官指数，廓清指数（K)，吞噬指数 $( \alpha )$ ，T、B淋巴细胞增殖水平，耳肿胀度，半数溶血值（ $\mathrm { H C } _ { 5 0 }$ ）以及免疫球蛋白G（IgG）、免疫球蛋白M（IgM）、IL-2、IL-4、IL-6、TNF $\mathbf { \nabla } \cdot \mathbf { a }$ （20的含量，并观察脾组织病理形态变化，考察罗汉果多糖对免疫抑制小鼠免疫功能的影响。实验结果表明罗汉果多糖各剂量组（ $2 5 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ 、 $5 0 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ 、 $1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ）均能显著提高免疫抑制小鼠的免疫器官指数，半数溶血值（ $\mathrm { H C } _ { 5 0 }$ ，B淋巴细胞增殖能力；明显降低耳肿胀度；显著增加IgG、IgM、IL-2、IL-4、IL-6、TNF- $\mathbf { a }$ 的含量。罗汉果多糖剂量组（50$\mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ 、 $1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ）能显著增强T淋巴细胞增殖能力，明显增加廓清指数（K）、吞噬指数 $( { \mathfrak { a } } )$ 。脾组织病理学观察结果表明，罗汉果多糖可以减轻免疫抑制小鼠脾脏的病理损伤。由此可知，罗汉果多糖能明显增强环磷酰胺所致免疫抑制小鼠的免疫功能。
+
+关键词：罗汉果，免疫抑制，小鼠，环磷酰胺，多糖 中图分类号：R932 文献标志码：A DOI:10.11931/guihaia.gxzw201808009
+
+# Effects of Siraitia grosvenorii polysaccharides on the immune function in immunosuppressed mice induced by cyclophosphamide
+
+ZHANG Haiquan，HUANG Qinying， ZHENG Guangjin， ZENG Zhenfang，XU Danni，Nong Keliang\* (Guangxi Colleges and Universities Key Laboratory Breeding BaseofChemistryof Guangxi SouthwestPlantResources, Guangxi Normal University for Nationalities, Chongzuo 5322oo,Guangxi, China)
+
+Abstract:Inorder tostudytheactivityofSiraitiagrosvenori polysacharides(SGP),speciallitsimmunoregulatoryactivity. Kun-ming mice were randomized into six groups, including normal group, model group, SGP groups( $2 5 ~ \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ ， $5 0 ~ \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ 100mg\*kg-1)and levamisolegroup.Mice were injected with cyclophosphamide (20mg·kg-1)toestablish the immunosuppresive model,thenall groups ofmice were treated forsequential14 daysby giving diferent doseof SGP.Inthis research,efects of SGPon immune function of immunocompromised mice was studied bydetecting many indices,such as thymus and spleen indices,carbon clearance index,phagocytic index.some indices likedear edema,theconcentrationcausing $50 \%$ hemolysis $\mathrm { ( H C _ { 5 0 } ) }$ ,the proliferation ability of Tcells and Bcells,the contents of IgG,IgM,IL-2,IL-4,IL-6,TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ were also bevery impotant parameters to measure immune function.Histopathological examinationof spleen tisse also been observing. Experiments found that SGP groups $2 5 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ $5 0 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ ， $1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ )was significantly in improving the thymus and spleen indices. The concentration causing $50 \%$ hemolysis $\mathrm { ( H C _ { 5 0 } ) }$ was increased effectively. The level activity of serum hemolysin was rising compared to model group.Datas also showed that SGP groups( $2 5 \mathrm { \ m g ^ { \bullet } k g ^ { - 1 } }$ ， $5 0 ~ \mathrm { \ m g ^ { \bullet } k g ^ { - 1 } }$ ，100 mgkg)could significantlyreduce ear edema.Experiments showedthat theproliferationabilityofBcels,thecontents of IgG, IgM, IL-2,IL-4, IL-6,TNF- $\mathfrak { a }$ were improving. SGP groups also（ $5 0 ~ \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ ， $1 0 0 \ \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ）could significantly increase the carbon clearance index and phagocytic index,enhance the proliferation ability of $\mathrm { ~ T ~ }$ cells.Spleen tissue damage induced by cyclophosphamide wasamelioratedaccording tothehistopathological examination.Thisresearch comed totheconclusions that SGP could significantly improve immune function of immunocompromised mice.
+
+Key words: Siraitia grosvenori, immunodepression, mice,cyclophosphamide, polysaccharides
+
+罗汉果是广西特色植物，其味甘性凉，为药食两用的中药材，被人们誉为“神仙果”。罗汉果富含多糖、黄酮、维生素、蛋白质及多种微量元素等成分（LIetal，2014)，研究表明，其具有抑菌（梁硕等，2016）、降血糖（郑楚等，2011）、抗肿瘤（符毓夏等，2016）等功效。李俊等（2008）研究发现罗汉果多糖（SGPS1）对正常小鼠具有一定免疫增强作用。王勤等（2001）探讨了罗汉果甜甙对小鼠细胞免疫功能的调节作用，结果表明罗汉果甜甙对环磷酰胺免疫抑制小鼠的细胞免疫功能具有一定的正调节作用。前人的研究表明罗汉果对正常小鼠具有免疫增强作用，但对免疫低下的小鼠是否具有免疫增强作用尚不明确。建立免疫抑制动物模型研究药物对免疫功能的影响更能说明情况，为更深入研究罗汉果多糖的免疫效果，在前人研究的基础上，试验采用腹腔注射环磷酰胺建立免疫抑制小鼠模型，研究罗汉果多糖对免疫抑制小鼠免疫功能的影响，为开发罗汉果多糖提供重要理论依据，使中药罗汉果的价值得到充分利用。
+
+# 1材料与方法
+
+# 1.1实验动物与材料
+
+昆明小鼠，SPF级，雌雄各半，体重 $1 8 - 2 2 \mathrm { g }$ ，购于广西医科大学实验动物中心，许可证号：SCXK（桂）2014-0001，在恒温（ $2 1 { \sim } 2 5 ^ { \circ } \mathrm { C } \ .$ 、恒湿( $4 0 \% \sim 6 5 \%$ )下饲养，自由进食和饮水。
+
+罗汉果购于湘君大药房，经农克良教授鉴定为葫芦科植物罗汉果 Siraitia grosvenori（Swingle）C.Jeffrey 的成熟果实，加工方式为新鲜果实采收后晾数天，低温干燥，阴凉处存放，质量要求符合 2015版《中国药典》的要求；环磷酰胺（萨恩化学技术（上海）有限公司，批号13061215)；盐酸左旋咪唑（山东仁和堂药业有限公司，批号150702)；2,4-二硝基氟苯（DNFB）（国药集团化学试剂有限公司）；IgG、IgM、IL-2、IL-4、TNF- $\mathbf { \alpha } _ { \cdot } \mathbf { \{ \alpha \} } _ { }$ 、IL-6Elisa 试剂盒（南京建成生物工程研究所)；刀豆蛋白A（ConA）、脂多糖、四甲基偶氮唑盐（MTT）（上海康朗生物科技有限公司）。
+
+# 1.2 实验仪器
+
+UV-6100S紫外可见分光光度计（上海元析仪器有限公司)；分析天平（华志科学仪器有限公司）；GL-21M高速离心机（长沙湘仪离心机有限公司)；培养箱（型号 Sanyo MCO-15AC，上海复昌科技有限公司)；AMR-100 全自动酶标分析仪（杭州奥盛仪器有限公司)；waters1525 高效液相色谱；Spectrum65 型傅里叶红外光谱仪（美国 Perkin Elmer 公司）。
+
+# 1.3 方法
+
+1.3.1罗汉果多糖的制备、红外光谱分析、单糖组分分析及含量测定
+
+罗汉果多糖制备工艺为：罗汉果 $$ 粉碎过40目筛 $$ 沸水提取 $$ 减压浓缩 $$ 醇沉 $$ Sevage法除蛋白质 ${  } \mathrm { A B } { - } 8$ 树脂和SephadexG-100 葡聚糖凝胶柱分离纯化 $$ 冷冻干燥 $$ 精制罗汉果多糖。罗汉果多糖经KBr压片后进行红外光谱扫描，扫描范围 $4 0 0 { \sim } 4 0 0 0 \ \mathrm { c m ^ { - 1 } }$ 。采用文献报道（王海英等，2015）的色谱条件，运用 PMP 柱前衍生高效液相色谱法测定罗汉果多糖的单糖组成。采用苯酚—硫酸法测定罗汉果多糖含量，具体操作参考文献报道（韦晓洁等，2018)。
+
+# 1.3.2造模与给药
+
+实验小鼠随机分成正常组、模型组，左旋咪唑组及罗汉果多糖低、中、高剂量组，除正常组外，其他组小鼠连续5d腹腔注射新鲜配置的环磷酰胺溶液( $2 0 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ ),建立免疫抑制小鼠模型(Manepalliet al，2013)。造模成功后左旋咪唑组小鼠灌胃给药左旋咪唑，剂量为 $2 0 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ ；罗汉果多糖低、中、高剂量组分别以 $2 5 \mathrm { \ m g ^ { \bullet } k g ^ { - 1 } }$ 、 $5 0 \mathrm { m g } \bullet \mathrm { k g } ^ { - 1 }$ 、 $1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ 灌胃给药；模型组和正常组小鼠给予等体积蒸馏水。各组小鼠给药1次/d，连续给药 $1 4 { \mathrm { ~ d ~ } }$ 9
+
+# 1.3.3小鼠免疫器官指数的测定
+
+各实验组随机取10只小鼠，末次给药 $2 4 \mathrm { h }$ 后，脱颈椎处死小鼠，称量体重，无菌条件下迅速取出脾脏和胸腺器官清洗干净并称重，计算脾指数和胸腺指数，脾指数 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 脾重量/小鼠体重；胸腺指数 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 胸腺重量/小鼠体重。
+
+# 1.3.4小鼠T、B淋巴细胞增殖能力的测定
+
+将1.3.3实验中称重后的无菌脾脏研磨，过200目筛，无菌条件下制备脾细胞悬液，调整细胞浓度到 $2 \times 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ 。在96孔细胞培养板上加入 $1 0 0 ~ \mu \mathrm { L } /$ 孔的脾脏淋巴细胞悬液，实验孔和对照孔设3个重复，实验孔加入ConA（质量浓度为 ${ 5 \mathrm { { m g } { \bullet } \mathrm { { L } ^ { - 1 } } } }$ ） $5 0 ~ \mu \mathrm { L } /$ 孔，对照孔加入 $5 0 ~ \mu \mathrm { L } /$ 孔RPMI-1640培养液，置于 $3 7 \mathrm { ~ \textdegree C }$ 、$5 \% \mathrm { C O } _ { 2 }$ 培养箱培养 $4 4 \mathrm { h }$ 后，加入MTT溶液 $2 0 ~ \mu \mathrm { L } /$ 孔，继续培养 $4 \mathrm { h }$ 后终止反应，以酶标仪测各孔 $\mathrm { O D } _ { 5 7 0 }$ 值。测定B淋巴细胞增殖能力，则将ConA换成脂多糖溶液（浓度为 $1 0 \mathrm { m g ^ { \bullet } L ^ { - 1 } }$ ），按上述操作进行测定。计算T、B淋巴细胞刺激值（StimulationIndex，SI）， $\mathrm { S I } =$ 实验孔OD值/对照孔OD值。
+
+# 1.3.5小鼠碳廓清指数和吞噬指数的测定
+
+各实验组随机取10只小鼠，末次给药 $2 4 \mathrm { h }$ 后，每只小鼠的尾部静脉按 $0 . 1 \mathrm { m L } / 1 0 \mathrm { g }$ 的量注入 $10 \%$ 墨汁，在不同的时间里两次眼眶取血 $2 0 ~ \mu \mathrm { L }$ ，各加入 $2 \mathrm { m L } 0 . 1 \% \mathrm { N a C O } _ { 3 }$ 溶液中，摇匀，于 $6 8 0 \mathrm { n m }$ 测定吸光度A。将小鼠脱颈椎处死，取免疫器官称重，计算碳廓清指数（K）和吞噬指数 $( { \mathfrak { a } } )$ 。
+
+$$
+\mathrm { K } = \frac { ( \mathrm { l g } A _ { 1 } - \mathrm { l g } A _ { 2 } ) } { t _ { 2 } - t _ { 1 } } , ~ \mathrm { G } = \frac { \sqrt [ 3 ] { \mathrm { K } } \times \langle \mathrm { l } \mathrm { F } \overline { { \mathbb { E } } } } { \mathrm { B f } \overline { { \mathbb { E } } } + \mathrm { B i } \overline { { \mathbb { E } } } }
+$$
+
+其中，t、t2为前后两次注射墨汁的时间。
+
+1.3.6小鼠皮肤迟发型超敏反应的指标测定
+
+各实验组随机取10只小鼠，末次给药 $2 4 \mathrm { h }$ 后，腹壁按 $3 \mathrm { c m } \times 3 \mathrm { c m }$ 进行脱毛，次日用 $50 \mu \mathrm { L } 1 \%$ 的2,4-二硝基氟苯在脱毛处涂抹，过5d后用移液枪取 $1 0 \mu \mathrm { L }$ 的2,4-二硝基氟苯匀抹右耳。涂抹 $2 4 \mathrm { h }$ 后，颈椎脱臼处死小鼠，用 $6 \mathrm { m m }$ 的打孔器取左右两片耳，比较重量差异。
+
+1.3.7小鼠血清溶血素水平及血清中IgG、IgM的测定
+
+各实验组随机取10只小鼠，末次给药 $2 4 \mathrm { h }$ 后，取 $0 . 2 \mathrm { m L } 5 \%$ 鸡血红细胞混悬液注入小鼠腹腔。免疫7d后，取小鼠血清，用生理盐水稀释100倍，取 $1 \mathrm { m L }$ ，加入 $0 . 5 \mathrm { m L } 5 \%$ 鸡红细胞悬液、 $0 . 5 ~ \mathrm { m L }$ 补体，在体外 $3 7 ^ { \circ } \mathrm { C }$ 下反应 $3 0 \mathrm { m i n }$ 后冰水浴终止反应，离心取上清液，于 $5 4 0 \mathrm { n m }$ 处测定OD值。另取 $5 \%$ 生理盐水鸡红细胞混悬液 $0 . 2 0 \mathrm { m L }$ ，用生理盐水稀释至 $2 { \mathrm { m L } }$ ，作为半数溶血管随试验管共同温育，同法测光密度OD值，计算半数溶血值（ $\mathrm { H C } _ { 5 0 }$ ）（宫强等，2016)、(李厚兵等，2012)。血清中其他指标检测：IgG， $\mathrm { I g M }$ （参照1.3.8实验操作，其他操作严格按照 $\mathrm { I g G }$ ，IgMElisa 试剂盒说明书进行）。
+
+1.3.8小鼠血清中IL-2，IL-4，IL-6，TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 的含量测定
+
+各实验组随机取10只小鼠，末次给药 $2 4 \mathrm { h }$ 后，眼眶取血，离心取血清，采用ELISA法测定IL-2，IL-4，IL-6，TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 的含量。将酶标包被板分为空白孔、标准孔和待测血清样品孔，空白孔加标准品稀释液 ${ 5 0 \mu \mathrm { L } }$ ，标准孔依次加不同稀释浓度的标准品溶液 ${ 5 0 \mu \mathrm { L } }$ ，样品孔加样品稀释液 $4 0 ~ \mu \mathrm { L }$ ，再加各实验组待测血清 $1 0 ~ \mu \mathrm { L }$ ，避光 $3 7 ^ { \circ } \mathrm { C }$ 温育 $3 0 \mathrm { m i n }$ ，用浓缩洗涤液洗板，重复5次，拍干。除空白孔外每孔加入酶标试剂 ${ 5 0 \mu \mathrm { L } }$ ，避光 $3 7 \mathrm { ~ \textdegree ~ }$ 温育 $3 0 \mathrm { m i n }$ ，洗板5次后拍干，每孔先后各加入 ${ 5 0 \mu \mathrm { L } }$ 的显色剂A和显色剂B，轻震混匀， $3 7 \mathrm { ~ \textdegree C }$ 避光显色 $3 0 \mathrm { m i n }$ 后加终止反应。以空白孔调零，于 $4 5 0 \mathrm { n m }$ 波长处测吸光度，绘制标准曲线，计算IL-2，IL-4，IL-6，TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 的含量。
+
+# 1.3.9小鼠脾组织切片观察
+
+小鼠取脾脏， $10 \%$ 甲醛溶液固定，石蜡包埋，切片，HE 染色后，观察脾组织的病理变化。
+
+1.3.10统计学处理
+
+实验数据采用SPSS17.0软件进行处理，以平均值 $\pm$ 标准差（ ${ \overline { { x } } } \pm s$ ）表示数值，采用 $\mathbf { \chi } _ { t }$ 检验分析处理， $P < 0 . 0 5$ 表明差异具有统计学意义。
+
+# 2结果与分析
+
+2.1罗汉果多糖的红外光谱分析、单糖组分分析及含量测定结果
+
+2.1.1罗汉果多糖的红外光谱分析结果
+
+图1分析表明：SGP具有多糖典型的吸收峰， $3 4 4 0 \mathrm { c m } ^ { - 1 }$ 为糖的O-H伸缩振动， $2 9 4 0 \mathrm { c m } ^ { - 1 }$ 为C-H伸缩振动， $1 6 0 0 \mathrm { c m } ^ { - 1 }$ 为糖醛酸的 $\mathrm { C O O ^ { - } }$ 非对称伸缩振动， $1 4 1 5 ~ \mathrm { c m ^ { - 1 } }$ 的吸收峰归属于 $\mathbf { C } = \mathbf { O }$ 的非对称伸缩振动峰， $1 3 0 0 { \sim } 1 0 0 0 \ \mathrm { c m ^ { - 1 } }$ 处出现吸收峰是吡喃环的伸缩振动， $7 6 5 \mathrm { c m ^ { - 1 } }$ 的存在表明有D-木糖。
+
+![](images/4f6e0ffdb586159c5f9119b49e8c69333a7beac24635cb3bbc0bbb4cbf2b8da5.jpg)  
+图1罗汉果多糖的红外光谱图Fig.1FT-IR spectrums of SGP
+
+2.1.2罗汉果多糖的单糖组分分析及含量测定结果
+
+采用苯酚一硫酸法测定罗汉果多糖含量为 $9 8 . 2 \%$ 。由图2可知，罗汉果多糖样品中峰1、峰3、峰4、峰5分离程度较好，且与标准单糖中对应单糖的保留时间相同，提示罗汉果多糖中含有甘露糖、葡萄糖、阿拉伯糖和木糖，其中葡萄糖的含量较高。此结果与文献报道（王海英等，2015）有一定差异。
+
+Note：1.Mannose；2.Rhamnose；3.Glucose；4.Arabinose；5.Xylose.
+
+图2罗汉果多糖的单糖组成HPLC分析图  
+Fig.2HPLC analysis on SGP monosaccharide composition   
+![](images/cf2c2b37e6d8dd68fe99d0f7bf11dee155f8bdb2ace962656032a936037c60ea.jpg)  
+注：1.甘露糖；2.鼠李糖；3.葡萄糖；4.阿拉伯糖；5.木糖。
+
+2.2罗汉果多糖对免疫抑制小鼠免疫器官指数的影响
+
+胸腺和脾脏是非常重要的免疫器官，对机体的免疫功能至关重要；吞噬细胞在免疫应答中主要依靠吞噬功能发挥作用，机体可通过吞噬细胞吞噬外来细菌或病毒起到防御作用（Bing etal，2013）。免疫器官指数客观反映免疫抑制小鼠免疫器官功能的强弱。由表1可知，罗汉果多糖各剂量组和左旋咪唑组小鼠的脾指数、胸腺指数与模型组比较明显提高且差异显著（ $P < 0 . 0 5$ 或 $P < 0 . 0 1 )$ ，罗汉果多糖高剂量组（ $\mathrm { { . 1 0 0 \ m g ^ { \bullet } k g ^ { - 1 } } }$ ）和左旋咪唑组差异极显著（ $\because \mathopen { } \mathclose \bgroup \left( P < 0 . 0 1 \aftergroup \egroup \right)$ ；罗汉果多糖中、高剂量组（ $5 0 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ 、$1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ）和左旋咪唑组与正常组比较差异显著（ $\cdot P < 0 . 0 5 ,$ 。结果显示罗汉果多糖能提高免疫抑制小鼠脾脏、胸腺指数，其作用机制可能是罗汉果多糖可以修复免疫抑制小鼠脾脏、胸腺中被破坏的细胞，刺激和促进受损细胞的再生和发育。
+
+表1罗汉果多糖对免疫抑制小鼠免疫器官指数的影响（ ${ \overline { { x } } } \pm s$ ， $\scriptstyle n = 1 0 .$ ）  
+Table 1Effects of SGP on immune organ index in immunodepressed mice（ $\stackrel { - } { x } \pm s$ ， $\scriptstyle n = 1 0 .$ ）  
+
+<html><body><table><tr><td>组别 Group</td><td>剂量(mg.kg-1) Dose( mg·kg-1)</td><td>脾指数(mg.g-1) Spleen indices (mg•g-1)</td><td>胸腺指数(mg.g-1) Thymus indices (mg•g-1)</td></tr><tr><td>正常组 Normal group</td><td></td><td>6.4 ± 1.4</td><td>1.8 ± 1.5</td></tr><tr><td>模型组Model group</td><td></td><td>4.5 ± 1.1△</td><td>0.8 ±0.4△</td></tr><tr><td>低剂量组Low-dose group</td><td>: 25</td><td>5.0 ± 1.1*</td><td>1.0 ± 0.6*</td></tr><tr><td>中剂量组 Middle -dose group</td><td>50</td><td>5.4 ± 2.1*△</td><td>1.1 ± 0.6*△</td></tr><tr><td>高剂量组 High-dose group</td><td>100</td><td>5.6 ± 1.2**△</td><td>1.3 ± 0.7**△</td></tr><tr><td>左旋咪唑组Levamisole group</td><td>20</td><td>6.0 ± 2.5**△</td><td>1.6 ± 0.8**△</td></tr></table></body></html>
+
+注：\*与模型组比较， $^ { * } P < 0 . 0 5$ ，差异显著， $^ { * * } P < 0 . 0 1$ ，差异极显著； $\bigtriangleup$ 与正常组比较， $\triangle P < 0 . 0 5$ ，差异显著， $\triangle \triangle P <$ 0.01，差异极显著；下同。
+
+Note: \* Indicated significant difference compare to model groupe $\left( P < 0 . 0 5 \right)$ ， $^ { * * }$ Indicated very significant difference compare to model group $\Gamma < 0 . 0 1 \dot { }$ )； $\bigtriangleup$ Indicated significant difference compare to normal group $\left( P < 0 . 0 5 \right)$ ； $\triangle \triangle$ Indicated very significant difference compare to normal group $( P < 0 . 0 1 \$ )；The same as below.
+
+2.3罗汉果多糖对免疫抑制小鼠T、B淋巴细胞增殖能力的影响
+
+由表2可知，与模型组相比较，罗汉果多糖中、高剂量组（ $5 0 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ 、 $1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ）和左旋咪唑组差异显著（ $P < 0 . 0 5$ 或 $P < 0 . 0 1 \$ )，表明一定剂量的罗汉果多糖能增强免疫抑制小鼠T淋巴细胞增殖能力。表2结果显示，与模型组相比较，罗汉果多糖各剂量组和左旋咪唑组差异显著（ $P < 0 . 0 5$ 或 $P <$ 0.01)，说明罗汉果多糖对免疫抑制小鼠B淋巴细胞增殖能力具有促进作用。
+
+'able 2Effects of SGP on proliferation of T cells and B cells in immunodepressed mice（ $\stackrel { - } { x } \pm s$ ， $\scriptstyle n = 1 0 .$   
+
+<html><body><table><tr><td>组别 Group</td><td>剂量(mg·kg-1) Dose(mg·kg-1)</td><td>T淋巴细胞 SI值 SI ofT cells</td><td>B 淋巴细胞SI值 SI of B cells</td></tr><tr><td>正常组 Normal group</td><td></td><td>2.75 ± 0.64</td><td>2.81 ± 0.95</td></tr><tr><td>模型组Model group</td><td></td><td>1.54 ± 0.15△</td><td>1.37 ± 0.84△</td></tr><tr><td>低剂量组Low-dose group</td><td>25</td><td>1.62 ± 0.10△</td><td>1.67 ± 0.76△</td></tr><tr><td>中剂量组 Middle -dose group</td><td>50</td><td>2.13 ±0.38*</td><td>2.20 ±0.96*</td></tr><tr><td>高剂量组 High-dose group</td><td>100</td><td>2.36±0.72**</td><td>2.42 ±0.97**</td></tr><tr><td>左旋咪唑组Levamisole group</td><td>20</td><td>2.63 ± 0.85**</td><td>2.71 ± 0.88**</td></tr></table></body></html>
+
+2.4罗汉果多糖对免疫抑制小鼠碳廓清指数和吞噬指数的影响
+
+廓清指数（K）和吞噬指数（α）可反映吞噬细胞的吞噬能力。由表3可知，罗汉果多糖各剂量组和左旋咪唑组小鼠的碳廓清指数和吞噬指数与模型组有所提高。罗汉果多糖中剂量组差异显著（ $P <$ 0.05),高剂量组和左旋咪唑组差异极显著( $\cdot P < 0 . 0 1 )$ ;罗汉果多糖中、高剂量组 $( 5 0 \mathrm { \ m g ^ { \bullet } k g ^ { - 1 } } \cdot 1 0 0 \mathrm { \ m g ^ { \bullet } k g ^ { - 1 } } )$ （204号和左旋咪唑组与正常组比较差异显著 （ $\cdot P < 0 . 0 5 )$ 。结果显示罗汉果多糖能显著提高廓清指数（K）和吞噬指数 $( { \mathfrak { a } } )$ ，增加免疫抑制小鼠吞噬细胞数量，提高吞噬细胞的活力，增强吞噬功能，对免疫抑制小鼠固有免疫有一定促进作用。
+
+表2罗汉果多糖对免疫抑制小鼠T、B淋巴细胞增殖能力的影响（ ${ \overline { { x } } } \pm s$ ， $\scriptstyle n = 1 0 .$ ）  
+表3罗汉果多糖对免疫抑制小鼠碳廓清指数和吞噬指数的影响（ $\stackrel { - } { x } \pm s$ ， $\scriptstyle n = 1 0 .$ ）  
+əle 3Effects of SGP on clearance index and phagocytic index in immunodepressed mice（ ${ \overline { { x } } } \pm s$ ， $\scriptstyle 1 = 1 0$   
+
+<html><body><table><tr><td>组别 Group</td><td>剂量(mg·kg-1) Dose(mg·kg-1)</td><td>K</td><td>α</td></tr><tr><td>正常组 Normal group</td><td></td><td>0.175 ± 0.045</td><td>4.6 ± 0.9</td></tr><tr><td>模型组Model group</td><td>-</td><td>0.075 ±0.015△</td><td>1.7 ± 0.8△</td></tr><tr><td>低剂量组Low-dose group</td><td>25</td><td>0.095± 0.016</td><td>2.4 ± 1.5</td></tr><tr><td>中剂量组 Middle -dose group</td><td>50</td><td>0.097 ± 0.082*△</td><td>3.2 ±0.9*△</td></tr><tr><td>高剂量组 High-dose group</td><td>100</td><td>0.125 ±</td><td>3.6±</td></tr><tr><td></td><td></td><td>0.094**△ 0.155 ±</td><td>0.6**△ 3.7±</td></tr><tr><td>左旋咪唑组 Levamisole group</td><td>20</td><td>0.080**△</td><td>0.9**△</td></tr></table></body></html>
+
+2.5罗汉果多糖对免疫抑制小鼠皮肤迟发型超敏反应水平的影响
+
+迟发型超敏反应中，T淋巴细胞介导的细胞免疫起着重要作用（Venarske et al，2003）、（Dale et al,2003)。选用2,4-二硝基氟苯诱发迟发型过敏反应，通过测定耳部肿胀度，可以反映小鼠细胞免疫能力的强弱。如表4所示，与模型组相比，罗汉果多糖各剂量组和左旋咪唑组小鼠的耳肿胀度差异显著（ $P$ $< 0 . 0 5$ 或 $P < 0 . 0 1 \$ ，罗汉果多糖高剂量组（ $1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ）和左旋咪唑组差异极显著（ $\because . P < 0 . 0 1 \AA .$ ；罗汉果多糖高剂量组（ $1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ）和左旋咪唑组与正常组比较差异显著（ $\left( P < 0 . 0 5 \right)$ 。结果说明罗汉果多糖能明显降低其耳肿胀度，使之恢复或接近正常水平。
+
+表4 罗汉果多糖对免疫抑制小鼠皮肤迟发型过敏水平的影响（ ${ \overline { { x } } } \pm s$ ， $\scriptstyle n = 1 0$ ）） Table 4 Effects of SGP on delayed type hypersensitivity experiment in immunodepressed mice( x± s,n=10)   
+
+<html><body><table><tr><td>组别 Group</td><td>剂量(mg*kg-1) Dose(mg·kg-1)</td><td>耳肿胀度(mg) Ear edema(mg)</td></tr><tr><td>正常组 Normal group</td><td>-</td><td>0.6 ± 0.3</td></tr><tr><td>模型组Model group</td><td></td><td>1.0±0.3△</td></tr><tr><td>低剂量组Low-dose group</td><td>25</td><td>1.0 ± 0.5*</td></tr><tr><td>中剂量组Middle-dose group</td><td>50</td><td>0.9 ±0.2*</td></tr><tr><td>高剂量组High-dose group</td><td>100</td><td>0.8±0.6**△</td></tr><tr><td>左旋咪唑组Levamisole group</td><td>20</td><td>0.6 ± 0.3**△</td></tr></table></body></html>
+
+2.6罗汉果多糖对免疫抑制小鼠血清溶血素水平及血清中IgG，IgM的影响
+
+机体受到抗原刺激后，可产生大量的免疫球蛋白（Ig），与抗原发生特异性结合，增强机体免疫功能。测定血清上清液的吸光度值、 $\mathrm { H C } _ { 5 0 }$ 以及抗体IgG、IgM含量，衡量机体的体液免疫强度。由表5可知，与模型组比较，罗汉果多糖各剂量组和左旋咪唑组小鼠的溶血素OD 值、 $\mathrm { H C } _ { 5 0 }$ 以及 $\mathrm { I g G }$ 、IgM含量有所提高。其中罗汉果多糖高、中剂量组溶血素OD值、 $\mathrm { H C } _ { 5 0 }$ 值与模型组比较差异显著 $( P < 0 . 0 5 )$ 罗汉果多糖低剂量组（ $2 5 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ ）小鼠的IgG、IgM含量与模型组比较差异显著（ $\cdot P < 0 . 0 5 )$ ；罗汉果多糖中、高剂量组（ $5 0 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ 、 $1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ）的 $\mathrm { I g G }$ 、IgM含量与模型组和正常组比较差异显著（ $\cdot P <$ 0.05或 $P < 0 . 0 1 \$ )。表明罗汉果多糖可以提高免疫抑制小鼠血清中抗体水平，增强机体免疫功能。
+
+表5罗汉果多糖对免疫抑制小鼠血清溶血素水平及IgG， $\mathrm { I g M }$ 的影响（ $\stackrel { - } { x } \pm s$ ， $\scriptstyle n = 1 0$ ））  
+Table 5Effects of SGP on serum hemolysin,IgG， IgM in immunodepressed mice ( $\stackrel { - } { x } \pm s , n \mathrm { = } 1 0 )$   
+
+<html><body><table><tr><td>组别 Group</td><td>剂量(mg.kg-1) Dose(mg·kg-1)</td><td>溶血素OD 值 OD of hemolysis</td><td>HC50</td><td>IgG (ng·L-1)</td><td>IgM (ng· L-1)</td></tr><tr><td>正常组 Normal group</td><td></td><td>0.297 ± 0.134</td><td>45.3 ± 4.2</td><td>58.8 ±8.2</td><td>19.5 ± 5.2</td></tr><tr><td>模型组Model group</td><td></td><td>0.058 ±0.022△</td><td>21.2 ± 6.1△</td><td>25.6± 9.3△</td><td>7.5 ± 1.8△</td></tr><tr><td>低剂量组 Low-dose group</td><td>25</td><td>0.052 ± 0.011</td><td>24.5 ± 5.5*</td><td>29.6±6.4*</td><td>8.9 ± 0.9*</td></tr><tr><td>中剂量组 Middle -dose group</td><td>50</td><td>0.119 ± 0.023*△</td><td>28.5±3.3*△</td><td>31.3 ± 10.2*△</td><td>10.1 ± 1.2*△</td></tr><tr><td>高剂量组 High-dose group</td><td>100</td><td>0.176 ± 0.077*△</td><td>30.3 ± 4.4*△</td><td>44.2 ±10.5*△</td><td>15.9 ± 2.1*△</td></tr><tr><td>左旋咪唑组 Levamisole group</td><td>20</td><td>0.231 ± 0.098*△</td><td>40.2 ± 11.3*△</td><td>50.2± 11.7**△</td><td>32.3 ± 12.8**△</td></tr></table></body></html>
+
+2.7罗汉果多糖对免疫抑制小鼠血清中IL-2、IL-4、IL-6，TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 含量的影响
+
+IL-2、IL-4、IL-6是细胞免疫分泌的细胞因子，可促进免疫细胞的增殖与分化，增强免疫细胞的免疫能力。TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 具有广泛生物学作用，是机体免疫防护的重要介质，可促进细胞增殖分化，增强T细胞及其他杀伤细胞的杀伤能力。由表6可知，与模型组相比，罗汉果多糖各剂量组和左旋咪唑组小鼠血清中的IL-2、IL-4、IL-6、TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 含量均提高。罗汉果多糖各剂量组和左旋咪唑组IL-2、IL-4、IL-6、TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 的含量与模型组比较差异显著（ $\cdot P < 0 . 0 5$ 或 $P < 0 . 0 1$ )，罗汉果多糖中、高剂量组（ $5 0 \mathrm { m g } { \bullet } \mathrm { k g } ^ { - 1 }$ 、$1 0 0 \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ）和左旋咪唑组与正常组比较差异显著（ $\cdot P < 0 . 0 5 .$ )。实验结果表明罗汉果多糖能促进细胞因子分泌水平。
+
+表6 罗汉果多糖对免疫抑制小鼠血清中IL-2，IL-4，IL-6，TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 的影响（ $\stackrel { - } { x } \pm s$ ， $n { = } 1 0$ ）Table 6 Effects of SGP on IL-2,IL-4,IL-6 and TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ in immunodepressed mice（ ${ \overline { { x } } } \pm s$ ， $\scriptstyle n = 1 0$ ）
+
+<html><body><table><tr><td>组别 Group</td><td>剂量(mg·kg-1) Dose(mg·kg-1)</td><td>IL-2 (ng·L-1)</td><td>IL-4 (ng·L-1)</td><td>IL-6 (ng·L-1)</td><td>TNF-α(ng·L-1)</td></tr><tr><td>正常组 Normal group</td><td></td><td>5.5 ± 0.3</td><td>3.9 ± 0.1</td><td>4.0 ± 0.8</td><td>4.9 ± 0.5</td></tr><tr><td>模型组Model group</td><td></td><td>2.7 ± 0.4△</td><td>1.8 ± 0.2△</td><td>1.6 ± 0.2△</td><td>1.56 ± 0.5△</td></tr><tr><td>低剂量组Low-dose group</td><td>25</td><td>2.8±0.3*</td><td>1.9 ± 0.9*</td><td>2.0± 0.6*</td><td>1.7 ± 0.7*</td></tr><tr><td>中剂量组 Middle -dose group</td><td>50</td><td>3.1 ±0.1*△</td><td>2.1 ±0.2*△</td><td>2.1 ± 0.3*△</td><td>2.6 ± 0.2*△</td></tr><tr><td>高剂量组 High-dose group</td><td>100</td><td>4.2 ± 0.2*△</td><td>2.8 ±0.5*△</td><td>2.6± 0.5*△</td><td>3.4 ± 0.6*△</td></tr><tr><td></td><td></td><td>4.9±</td><td>3.2 ± 0.8**△</td><td>3.4±</td><td>3.9 ± 0.5**△</td></tr><tr><td>左旋咪唑组 Levamisole group</td><td>20</td><td>0.7**△</td><td></td><td>0.3**△</td><td></td></tr></table></body></html>
+
+2.8罗汉果多糖对免疫抑制小鼠脾组织形态的影响
+
+从图3可以看出，正常组小鼠脾组织细胞排列整齐，结构完整，无炎症细胞浸润。模型组小鼠脾细胞排列紊乱，结构破损，伴有炎症细胞浸润，可见坏死斑点。左旋咪唑组小鼠脾细胞排列较整齐，细胞大小较一致，结构较完整，部分细胞肿胀并有少许胞浆疏松和炎症细胞浸润，说明左旋咪唑对免疫抑制小鼠脾细胞具有较好的治疗作用。罗汉果多糖各剂量组小鼠脾细胞排列有些紊乱，细胞肿胀、炎症细胞浸润及坏死情况均有不同程度的减轻。病理学观察表明罗汉果多糖能够有效恢复免疫抑制小鼠受损的脾细胞。
+
+![](images/6783b9d9e4a339b4e04860b8661eae76dd650f11a57b1b2fbd6d1e15d2647ba7.jpg)
+
+注：A.正常组；B.模型组；C.联苯双酯组；D.低剂量组；E.中剂量组；F.高剂量组。
+
+Vote:A.Normal group;B.Model group; C.Levamisole group； D.Low-dose group; E.Midle -dose group;F.High-dose group图3罗汉果多糖对免疫抑制小鼠脾组织形态的影响（HE， $\times 1 0 0$ ）Fig.3Effects of SGP on spleen pathology in immunodepressed mice （HE， $\times 1 0 0$ ）
+
+# 3讨论与结论
+
+近年来，中药多糖成分调节免疫功能方面的研究取得了较大进展（Sun etal，2015）、（Gong et al,2015)，中医药治疗疾病侧重在于发挥与调动机体的抗病能力，调整机体的免疫功能状态。研究发现
+
+（尚庆辉等，2015)，中药多糖可通过修复免疫器官受损的免疫细胞；促进淋巴细胞分泌细胞因子并提高细胞因子的活性；增强巨噬细胞吞噬活性；提升自然杀伤细胞的杀伤水平；加快免疫细胞增殖分化水平等，使得机体的免疫功能增强。
+
+胸腺和脾脏是动物机体重要的免疫器官，T、B淋巴细胞在此增殖分化，故胸腺和脾脏是机体免疫功能调节的重要场所。病理学观察表明罗汉果多糖能够有效恢复免疫抑制小鼠受损的脾细胞。试验结果表明，罗汉果多糖能够显著提高免疫抑制小鼠的免疫器官指数，其作用机制可能是罗汉果多糖可以修复免疫抑制小鼠免疫器官中被破坏的细胞，刺激和促进萎缩的脾脏和胸腺的再生和发育。同时罗汉果多糖能够增强免疫抑制小鼠T、B淋巴细胞的增殖转化能力，提高细胞免疫功能。
+
+碳廓清实验结果显示，中、高剂量的罗汉果多糖能显著提高廓清指数（K）和吞噬指数（α)，提高免疫抑制小鼠固有免疫水平，作用机制可能是增加机体吞噬细胞数量，提高吞噬细胞的活力，增强吞噬功能，有效吞噬外来抗原，并提高NK细胞杀伤力，起到增强固有免疫功能的作用。
+
+IgG、IgM及细胞因子含量的检测有助于从分子水平阐明体液免疫调节作用。结果表明，罗汉果多糖能提高血清溶血素水平，显著增加IgG、IgM含量，有利于机体清除有害抗原，抑制炎症反应，并激活补体系统；此外罗汉果多糖能促进免疫抑制小鼠淋巴细胞分泌IL-2、IL-4、IL-6、TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 等细胞因子，提高细胞因子的活性，可促进免疫细胞的增殖和分化，还能增强免疫细胞及其他杀伤细胞的杀伤能力，故能增强免疫抑制小鼠体液免疫功能。
+
+研究表明，罗汉果多糖能拮抗环磷酰胺所致的免疫抑制作用，对免疫抑制小鼠的固有免疫、细胞免疫、体液免疫能力具有较好的促进作用，恢复机体的抗病能力，显著增强免疫抑制小鼠的免疫功能，为罗汉果多糖作为免疫增强剂的开发应用提供了一定的理论依据。
+
+参考文献
+
+BING Z,DUXG,XIANYZ,2013.Immunomodulatory functionsandrelevant therapeutic potentialsof astragalus extract[J].Chin JAntibiot, 38(9): 652-655.  
+DALE TU,OMIDA,ROSEMARIE HD,WILLIAMTS,et al,2003.RegulatoryTcelscontrol thedevelopmentofaaergicdisease and asthma[J]. JAllergy Clin Immunol, 113(3): 480-487.  
+FULX,WANGL,LIDP,2016.Activityand mechanismofanticancerproperties ofmogrol[J]. Guihaia,36(11):369-375.[符毓夏，王磊，李典鹏，2016.罗汉果醇抗肿瘤活性及其作用机制研究[J].广西植物，36(11):1369-1375.]  
+GONG Y，WU J，LI ST,2015.Immuno-enhancement efects of Lycium ruthenicum Murr polysaccharides oncyclophosphamide-induced immunosuppression in mice[J]. Int JClin Exp Med,8(11):20631-20637.  
+GONG Q,RUANMD,MALP,etal,2016.EectofInulinonmodulating immune functioninmice[J].FoodSci,37(07):204-207.[宫强，阮梦蝶，马丽苹，等，2016．菊粉对小鼠的免疫调节作用[J]．食品科学，37(07):204-207.]  
+LI C,LINLM,SUIF,etal2014.ChemistryandpharmacologyofSiraitia grosvenori[J].ChinJNatMed,12(2):89-102.  
+LIANGS,YANGZP,EIZH,etal216.hestudyonantimicrobial propertiesofSiraiti grosvenri[J].FoodIdu,37(7):207-209.[梁硕，杨志萍，费振鸿，等，2016．罗汉果抑菌性能的研究[J]．食品工业，37(7):207-209.]  
+LI J,HUANGY,IAORQ,etal8.EffectofiraitiaGrosvenoriiplysaccarideonimmunityofice[J].ChiaracolBull,24(09):1237-1240.[李俊，黄艳，廖日权，等，2008．罗汉果多糖对小鼠免疫功能的影响[J].中国药理学通报，24(09): 1237-1240.]  
+LI HB,RENGAN,PENGYR,etal,2012.RegulatoryEffectofChrysanthemum indicumpolysaccharideonimmunefuctionin mice with hypoimmunity[J].Chin JExp Tradit MedForm,18(13):223-225.[李厚兵，任爱农，彭蕴茹，等，2012.野菊花多糖对小鼠免疫功能低下的保护作用[J]．中国实验方剂学杂志，18(13):223-225.]  
+MANEPALLIS,GANDHI JA,EKHAR VV,et al,2013.Characterizationofa cyclophosphamide-induced murine modelofimmunosuppression to study acinetobacter baumanniipathogenesis[J]. JMed Microbiol, 62 (11): 1747-1754.  
+SUN WJ，MENG K，QICH,etal，2015.Immune-enhancingactivityof polysaccharides isolated fromAtractylodismacrocephalaeKoidz[J].CarbohydPolym,126(01):91-96.  
+SHANGQH,XIEYH,ZHANGGG,etal,2015.Immuneregulationrolesof phytogenicpolysaccharidesand its mechanisms[J].Chin JAnim Nutr,27(1):49-58.[尚庆辉，解玉怀，张桂国，等，2015．植物多糖的免疫调节作用及其机制研究进展[J].动物营养学报，27(1):49-58.]  
+VENARSKE D,DESSHAZORD,2003.Molecular mechanisms ofallergic disease[J].south Med J,96(11):1049-1054.  
+WANG Q,WANGK,DAISM,etal,201.RegulationontheImmunolgicalEfectofMogrosides intheMice[J].JCinMedMater,24(11):811-812.[王勤，王坤，戴盛明，等，2001．罗汉果甜甙对小鼠细胞免疫功能的调节作用[J]．中药材，24(11): 811-812.]  
+WANG HY,MAXJ,OC,etal,215eterinationofsugarcomponentsandotents infruitfleshofraitigroor[J]. Guihaia, $3 5 ( 6 ) : 7 7 5 \ – 7 8 1$ .[王海英，马小军，莫长明，等，2015.罗汉果果肉中糖类物质组成与含量分析[J]．广西植物，35(6):775-781.]  
+WEI XJ, YIN HH, MENG F,et al, 2018. Supercritical $\mathrm { C O } _ { 2 }$ fluid extraction process optimization for polysaccharides from Iexkudingcha[J].Guihaia,38(5):590一595.[韦晓洁，银慧慧，孟菲，等，2018．超临界 $\mathrm { C O } _ { 2 }$ 流体萃取苦丁茶多糖的工艺优化[J].广西植物，38(5):590－595.]  
+ZHENGC,TANGJL,YANGDY,etal,211EectsoftotalfavonoidsinomodicagrosvenrionerglyceiaatringStreptozotocin diabetes[J].Chin JExp Tradit MedForm,17(22):194-197.[郑楚，唐金良，杨冬业，等，2011.罗汉果总黄酮对实验性糖尿病大鼠的治疗作用[J]．中国实验方剂学杂志，17(22):194-197.]

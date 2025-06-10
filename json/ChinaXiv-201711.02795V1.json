@@ -1,0 +1,214 @@
+[
+    {
+        "type": "text",
+        "text": "Electron Paramagnetic Resonance Study of the Pyrochlore Iridate Gd2Ir2O7 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hui Han, $^ { 1 , 2 }$ Lei Zhang,1,\\* Hui Liu,1 Langsheng Ling,1 Wei Tong, $^ 1$ Youming   \nZou, $^ 1$ Min Ge, $^ 3$ Jiyu Fan, $^ 4$ Changjin Zhang,1 Li Pi, $^ { 1 , 3 }$ and Yuheng Zhang $^ { 1 , 3 }$ （204号   \n（20 $^ { 1 }$ High Magnetic Field Laboratory， Chinese Academy of Sciences, Hefei 230031， China   \n（204号 $\\mathcal { Z }$ School of Physics and Material Science,   \nAnhui University， Hefei 230601， China   \n（204 $\\mathscr { S }$ Hefei National Laboratory for Physical Sciences at the Microscale,   \nUniversity of Science and Technology of China， Hefei 230026, China   \n4Department of Applied Physics， Nanjing University of   \nAeronautics and Astronautics, Nanjing 210016, China   \n(Dated: April 8, 2015) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The pyrochlore iridate Gd2Ir $_ 2$ O $7$ has been investigated by means of the electron paramagnetic resonance (EPR） spectroscopy. A magnetic transition at $T ^ { * } \\sim 2 0 \\mathrm { ~ K ~ }$ is found in addition to the transition at $T _ { C } \\sim 1 3 0 ~ \\mathrm { K }$ ， which has not been reported previously. The phase transition at $T _ { C }$ ， which corresponds to a resistivity transition, is resulted from the long-range spin ordering of $\\mathrm { I r ^ { 4 + } }$ （204 ions in all-in/all out state. However, the magnetic transition at $T ^ { * }$ , which is regardless of resistivity transition, is not caused by $\\mathrm { I r ^ { 4 + } }$ but $\\mathrm { G d ^ { 3 + } }$ ions. Both of the magnetic transitions are irrelevant to the lattice distortion. We suggest that the competition between the enhanced paramagnetism of （204号 $\\mathrm { G d ^ { 3 + } }$ ions and the $f - d$ interaction should be responsible for the magnetic transition at $T ^ { * }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 75.10.-b,71.70.Ej, 76.30.-v ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: pyrochlore iridate Gd2Ir2O $^ { 7 }$ ; electron paramagnetic resonance (EPR); $f - d$ interaction ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The iridium-based compounds with $5 d$ outer-shell electrons provide a prototype to investigate the interplay between the spin-orbit coupling,electronic correlations,and band topology due to the comparability of spin-orbit coupling energy ( $U _ { s o } \\sim 0 . 3 \\mathrm { - 1 ~ e V }$ )，electronic correlation energy ( $U _ { e e } \\sim 0 . 4 \\mathrm { ~ - ~ } 2 \\mathrm { ~ e V }$ )，and crystal field splitting energy ( $U _ { C F } \\sim$ （204号 $1 - 5$ eV)[1, 2, 3,4, 5]. The competition and collaboration between these energies result in multiple ground states， such as quantum criticality state, charge-orbital density wave, orbitally-driven Peierls phase,and superconductivity [6,7, 8, 9,10]. Recently, the iridate pyrochlore oxides A2Ir $_ 2$ O $7$ (A = lanthanides or Y, Yb and Bi etc) are paid great attention due to the theoretical predictions of exotic phases including axion insulator, strong topological insulator, and Weyl semimetal [11, 12, 13,14, 15,16, 17]. Pyrochlore A $_ 2$ h $^ 2$ O $7$ is composed of a network of corner-shared tetrahedra， whose vertices are occupied by spins [18,19]. The spins on vertices of the tetrahedron form geometrical frustration， which enhance the spin fluctuation. Consequently, the degeneracy of ground states is further increased. The A2Ir2O $^ 7$ , except Pr $^ 2$ h $_ 2$ O $7$ [20],commonly exhibits a second-order insulating phase transition with a magnetic transition into a long-range all-in/all-out antiferromagnetic state formed by spins of $\\mathrm { I r ^ { 4 + } }$ ions,as shown in the inset of Fig. 1 [21, 22, 23, 24]. Some of the rare-earth ions on A-sites form spin ordering at low temperatures, such as NdIr $_ 2$ O $7$ and EuzIr $_ 2$ O $7$ （20 [25, 26, 27]. When A $^ { 3 + }$ ions are magnetic, the magnetic moments from A-sites would modulate the magnetic ordering on B-sites. Moreover, the possible $f - d$ exchange interaction between the $\\mathrm { I r ^ { 4 + } }$ and $\\mathrm { A ^ { 3 + } }$ leads to even more complex magnetic structures [28]. Therefore, the investigation of AzIr $_ 2$ O $^ 7$ with magnetic ions on A-sites is important to clarify the fundamental magnetic properties of this system. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As we know, the magnetic moments of $\\mathrm { G d ^ { 3 + } }$ ions are strong in the compounds, where the （20 $\\mathrm { G d ^ { 3 + } }$ ions on A-sites would introduce strong modulation on the magnetic ordering on B-sites in A $^ { 2 }$ h $^ 2$ O $7$ system. In this work, the magnetic behavior of Gd2Ir $^ 2$ O $7$ has been investigated by the electron paramagnetic resonance (EPR) spectroscopy. A magnetic transition at $T ^ { * } \\sim$ 20 K is found in addition to the magnetic transition at $T _ { C } \\sim 1 3 0 ~ \\mathrm { K }$ ，which has not been reported previously. We suggest that the competition between the $\\mathrm { G d ^ { 3 + } }$ ions and the $f - d$ （20 interaction should be responsible for the magnetic transition at $T ^ { * }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. EXPERIMENT ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A polycrystalline sample of Gd2Ir $_ 2$ O $^ 7$ was synthesized by the solid-state reaction method. The starting materials, powders of Gd $^ 2$ O $^ 3$ (purity 99.9%） and IrO $2$ （99.99%） were mixed thoroughly according to the stoichiometric ratio of $1 : 2 . 1$ . The mixed powder was sintered at 1373 K for 4 days with several intermediate grindings. After adding 1O % IrO $_ 2$ ，the powder sample was pressed into pellet. Then, the sample was sintered at 1423 K for another 4 days. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The structure and phase purity were checked by the Rigaku-TTR3 X-ray diffractometer with high-intensity graphite monochromatized Cu Kα radiation. The resistivity measurement was carried out by conventional four-probe method using a Physical Property Measurement System (Quantum Design PPMS). The Raman scattering measurements were performed using a Horiba Jobin Yvon T6400o Micro-Raman instrument with a Kr $^ +$ -Ar $^ +$ （204 mixed gas laser ( $\\lambda = 5 1 4 . 5$ nm） as an excitation source in a backscattering geometry. The EPR measurement was carried out at selected temperatures using a Bruker EMX-plus model spectrometer operating at X-band frequency ( $\\nu \\approx 9 . 4$ GHz). The magnetization was measured by a Magnetic Property Measurement System (Quantum Design MPMS 7T-XL) with a superconductive quantum interference device (SQUID). The isothermal magnetization （204号 $[ M ( H ) ]$ curves were measured after the sample heated well above $T _ { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the powder X-ray diffraction (XRD) pattern for Gd2Ir $_ 2$ O $7$ at 300 K,which is refined by the Rietveld method. The refined XRD result indicates that the sample is single phase with cubic cell belonging to space group $F d \\bar { 3 } m$ , in agreement with the previous report [22]. Figure 2 (a) gives the temperature dependence of resistivity $[ \\rho ( T ) ]$ for Gd2Ir $_ 2$ O $7$ ，where the inset depicts that on the $\\mathrm { l g - } \\mathrm { l g }$ scale. An upturn is found from the inset of Fig. 2(a) at （204号 $T _ { C } \\sim 1 2 4 ~ \\mathrm { K }$ , in agreement with the previous report [29]. As suggested by J. J. Ishikawa, et （204号 $a l$ ，the $\\lg \\rho$ vS $T ^ { - \\alpha }$ exhibits a linear relation with $\\alpha = 1 / 4$ at low temperature in EuzIr $_ 2$ O $7$ （204号 [30]. Figure 2（b） gives the $\\lg \\rho$ vs $T ^ { - 1 / 4 }$ for Gd2Ir2O $^ 7$ ，which exhibits a linear relation at low temperature. However, J. J. Ishikawa, et al., suggest that these systems are not typical Mott insulators for the reason that the charge gap is much larger than the transition temperature. The inset of Fig. 2 (b) depicts the derivative $\\lg \\rho ( T )$ vs $T ^ { - 1 / 4 }$ , which clearly demonstrates the different conductive mechanisms below and above $\\mathit { \\Delta } ^ { \\prime } \\mathit { I } _ { C } ^ { \\prime }$ .It is noticed that $\\rho ( T )$ of Y $_ 2$ h $_ 2$ ○ $^ 7$ also obeys the $T ^ { - 1 / 4 }$ law below $T _ { C }$ [31],which indicates that the conductive mechanism of the AzIr $^ 2$ ○ $7$ system is determined by the $\\mathrm { I r ^ { 4 + } }$ ions on the B-sites rather than the ions on A-sites. Figure 2 (c) gives the Raman spectra at selected temperatures from 200 to $8 0 0 ~ \\mathrm { c m ^ { - 1 } }$ ， which are sensitive to detect the phonon coupling. Six peaks are found, which are corresponding to the active Raman modes: $T _ { 2 g } ^ { 1 }$ ， $P _ { 1 }$ ， $P _ { 2 }$ ， $A _ { 1 g }$ ， $T _ { 2 g } ^ { 2 }$ ,and $P _ { 3 }$ [32]. With temperature decreasing, no changes happen to these active Raman modes, indicating no change of phonon coupling. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The EPR spectroscopy， which is an effective means to detect the micro-magnetism， is performed to clarify the magnetic transitions in Gd $^ 2$ h $_ 2$ O $^ 7$ . Figure 3 (a) shows derivative EPR spectra $( d P / d H )$ ( $P$ is the integral EPR intensity） for Gd2Ir $_ 2$ O $^ 7$ at selected temperatures. With the decrease of temperature, changes occur to the EPR spectra gradually. It is noticed that there exist two kinds of paramagnetic ions in Gd2Ir O (Gd $^ { 3 + }$ ions on the A-sites and $_ 2$ $^ 7$ $\\mathrm { I r ^ { 4 + } }$ on the B-sites), both of which can produce EPR signals. Therefore, the most important problem is to determine which paramagnetic ions produce the EPR signals. Figure 3 (b) gives the EPR spectra for YzIr $^ 2$ O $7$ and GdzIr $_ 2$ O $7$ at $2 \\textrm { K }$ for comparison. Because the $\\mathrm { Y ^ { 3 + } }$ ions on A-sites are non-magnetic in the iso-structural YIr $_ 2$ ○ $7$ , the EPR signals only originate from $\\mathrm { I r ^ { 4 + } }$ ions [31, 33]. The EPR spectrum of Y h ○ is very weak compared with $_ 2$ $_ 2$ $7$ that of Gd2Ir2O $^ 7$ , as seen in Fig. 3 (b). Therefore, it can be concluded that the strong EPR signals in Gd2Ir $^ 2$ O $7$ are not from $\\mathrm { I r ^ { 4 + } }$ but from $\\mathrm { G d ^ { 3 + } }$ ions. In fact, the outer-shell electronic configuration of a $\\mathrm { G d ^ { 3 + } }$ ion is $4 f ^ { 7 }$ providing an effective moment of 7.94 $\\mu _ { B }$ [34]，which is much stronger than 1.73 $\\mu _ { B }$ ofa $\\mathrm { I r ^ { 4 + } }$ ion. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 (a)，(b)，and (c) show the temperature dependence of EPR parameters for Gd2Ir2O $7$ ， including the resonance field $H _ { r }$ and corresponding $g$ -factor， the height of the absorption peak, and the peak-to-peak linewidth $\\Delta H _ { p p }$ . As shown in Fig. 4 (a), $H _ { r }$ (defined as the $H$ at $d P / d H = 0$ ） exhibits a dramatic increase below $T _ { C } \\sim 1 3 0$ K to the maximum value at $T ^ { * } \\sim 2 0$ K. Then $H _ { r }$ decreases with temperature cooling below 20 K. The corresponding $g$ -factor is calculated as $g = h \\nu / \\mu _ { B } H _ { r }$ (where $h$ is the Planck constant, $\\nu \\approx 9 . 4$ （20 GHz is the frequency of the used microwave, and $\\mu _ { B }$ is the Bohr magneton). It can be seen that $g$ -factor approaches 2 above 130 K. As we know， the $g$ -factor of a free paramagnetic spin is 2.003 [35]. Therefore,the $g$ -factor above 130 K indicates a good paramagnetic behavior, which is in good agreement with the reported linear $M ^ { - 1 } ( T )$ curve [23]. However, （204号 $g$ -factor decreases below 130 K reaching the minimum value at 20 K. The decrease of the （20 $g$ -factor usually indicates spin coupling with the surrounding environment. With further decrease of temperature, $g$ -factor increases to about 2 below 20 K. Correspondingly， the height of the EPR spectra exhibit a peak at 130 K,and rise below 20 K, as shown in Fig. 4 (b). As we know, the $\\Delta H _ { p p }$ ， defined by the peak-to-peak linewidth,can directly reflect the coupling effect. It can be seen from Fig. 4(c) that $\\Delta H _ { p p }$ increases with the decrease of temperature below 130 K and reaches the maximum at 20 K. The increase of $\\Delta H _ { p p }$ is usually caused by the broadening of linewidth of the EPR spectrum. The coupling of the paramagnetic ions with the surrounding would increases the relaxation time, which in turn increases the linewidth $\\Delta H _ { p p }$ . Therefore, the increase of $\\Delta H _ { p p }$ suggests the enhancement of coupling between the paramagnetic $\\mathrm { G d ^ { 3 + } }$ ions with surroundings. However, it is noticed that $\\Delta H _ { p p }$ decreases with the decrease of temperature below 2O K, which indicates the coupling is drastically weakened. All the EPR parameters approach paramagnetic characteristic at low temperature, indicating the enhancement of paramagnetism below $T ^ { * }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The isothermal magnetization $[ M ( H ) ]$ at selected temperatures are shown in Fig. 5. All the $M ( H )$ curves exhibit paramagnetic behaviors, confirming the paramagnetic behavior indicated by the EPR spectra. The inset of Fig. 5 plots the magnified $M ( H )$ at 2Kin lower field region，where no ferromagnetic hint is observed. The $M ( H )$ curves indicate that the ferromagnetic ordering should be excluded in GdzIrzO $^ 7$ ，which is different from that in Y2Ir2O $^ 7$ [33]. The effective moment $\\mu _ { e f f } = 1 1 . 8 \\mu _ { B } / ( f . u . )$ is obtained by the Curie paramagnetic law ( $C = N \\mu _ { e f f } ^ { 2 } / 3 k _ { B }$ ，where $N$ and $k _ { B }$ are the Avogadro and Boltzmann constants, $\\mu { _ { e f f } }$ is the effective moment). It should be mentioned that the effective moment of $\\mathrm { I r ^ { 4 + } }$ is1 $. . 7 3 \\mu _ { B } / ( \\mathrm { I r } )$ . Therefore, the main magnetic behavior is determined by $\\mathrm { G d ^ { 3 + } }$ ions, confirming the conclusion of the EPR results. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 (a) shows the double integrated intensity $I _ { E P R }$ for GdzIr $_ 2$ O $7$ ，which exhibits two peaks located at $\\sim 1 3 0$ K and $\\sim 2 0$ K, respectively. The reciprocal of $I _ { E P R }$ as a function of $T$ （204 is depicted in Fig. 6 (b),which shows that the $I _ { E P R } ^ { - 1 } ( T )$ above $\\mathit { \\Delta } ^ { T } \\mathit { C }$ is linearly dependent on the temperature consistent with the $M ^ { - 1 } ( T )$ curve [23]. The temperature dependence of specific heat $[ C / T ]$ under $H = 5 0$ Oe is also shown in the inset of Fig. 6 (a),which exhibits an upturn below 20 K. The $C / T ( T )$ curve for Gd2Ir $^ 2$ O $7$ is similar to those of SmzIr $_ 2$ O $^ 7$ and Nd2Ir2O $7$ [22,23]. The anomaly in Sm $^ { 2 }$ h $^ 2$ O $7$ and Nd $^ 2$ h $^ 2$ O $^ 7$ is attributed to the tail of a Schottky anomaly due to the crystaline electric field ground state doublet [23]. However, there is no upturn in the $C / T$ for EuzIr2O $^ 7$ at low temperatures because $\\mathrm { E u ^ { 3 + } }$ has the ground state multiplet of $J = 0$ [23].Therefore,the $C / T$ curve of Gd2Ir $_ 2$ O $^ 7$ confirms that the anomaly below 20 K is attributed to $\\mathrm { G d ^ { 3 + } }$ ions. Apparently, there are two magnetic transitions for Gd2Ir2O $7$ with the decrease of temperature. The transition at $T _ { C } \\sim 1 3 0$ K corresponds to the resistivity transition, while that at $T ^ { * } \\sim 2 0 \\mathrm { ~ K ~ }$ is only a magnetic transition. The transition at $\\mathit { \\Delta } ^ { \\prime } \\mathit { I } _ { C } ^ { \\prime }$ is caused by $\\mathrm { I r ^ { 4 + } }$ ions on the B-sites, which occurs commonly in the A2Ir2O $7$ （20 systems. As we know, the spins of $\\mathrm { I r ^ { 4 + } }$ ions undergo an all-in/all-out transition,which is corresponding to the transport transition. The transition at $T ^ { * }$ is caused by the $\\mathrm { G d ^ { 3 + } }$ ions on the A-sites, which is just a magnetic transition. Generally, the decrease of $\\scriptstyle I _ { E P R }$ indicates the reduction of the number of paramagnetic ions. The first decrease of $I _ { E P R }$ just below $T _ { C }$ （20 is caused by the formation of the spin ordering of $\\mathrm { I r ^ { 4 + } }$ ions. The second decrease of $I _ { E P R }$ （20 below $T ^ { * }$ should be attributed to the reduced number of paramagnetic $\\mathrm { G d ^ { 3 + } }$ ions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As indicated by the above experiment results, the spin ordering of $\\mathrm { G d ^ { 3 + } }$ ions should be excluded. Meanwhile, the $f { - } d$ interaction should be considered in the Gd2Ir $^ 2$ O $7$ , which plays an import role in the magnetic behavior [23, 28, 29, 36]. The $f - d$ coupling is not established above $\\mathit { \\Delta } ^ { T } \\mathit { C }$ due to the strong thermal fluctuation. When the all-in/all-out transition occurs to $\\mathrm { I r ^ { 4 + } }$ ions at $T _ { C }$ ，the $f - d$ interaction is established between the $f$ -electrons of $\\mathrm { G d ^ { 3 + } }$ （20 and the $d$ -electrons of $\\mathrm { I r ^ { 4 + } }$ ions.Below $T _ { C }$ ， with the decrease of temperature, the $f - d$ （20 interaction become more and more stronger, which is supported by the EPR results in Fig. 4(a)and Fig. 4 (c). As shown by the EPR spectra, the $f - d$ interaction is enhanced gradually with the decrease of temperature below $\\mathit { \\Delta } ^ { T } \\mathit { C }$ ，which indicating that fluctuation exist for the ordered $\\mathrm { I r ^ { 4 + } }$ ions. On the other hand, the paramagnetism of $\\mathrm { G d ^ { 3 + } }$ is also enhanced with the decrease of temperature according to the Curie law ( $\\chi = C / T$ )，which is confirmed by the EPR results in the Fig. 4(a) and Fig. 4 (c). This enhancement of paramagnetism as $1 / T$ is called Curie tail effect [37]. Thus, competition should exist between the enhanced paramagnetism and the $f - d$ interaction for the $f$ -electrons.With the decrease of temperature, the enhanced paramagnetism conquers the $f - d$ interaction, which results in the transition at $T ^ { * }$ . Therefore, the EPR parameters exhibit a paramagnetic characteristic below $T ^ { * }$ , including $g \\approx 2$ and the decrease of $H _ { p p }$ . However, due to the $f - d$ （20 interaction, a part of the spins of $\\mathrm { G d ^ { 3 + } }$ lost their paramagnetic characteristic, which results the decrease of $I _ { E P R }$ below $T ^ { * }$ ， as shown in Fig. 6 (a). In another word, although the paramagnetism is enhanced, the number of paramagnetic ions is reduced. Moreover,because the $f - d$ interaction is established based on the formation of long-range all-in/all-out of $\\mathrm { I r ^ { 4 + } }$ ， the suppression of the transition at $T _ { C }$ causes the consequent disappearance of the transition at $T ^ { * }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, the pyrochlore Gd2Ir2O $^ 7$ is investigated by means of EPR spectroscopy. A magnetic transition at $T ^ { * } \\sim 2 0 ~ \\mathrm { K }$ is found in addition to the transition at $T _ { C } \\sim 1 3 0 ~ \\mathrm { K }$ . The phase transition at $T _ { C }$ ，which corresponds to a resistivity transition， is attributed to the long-range ordering of $\\mathrm { I r ^ { 4 + } }$ in all-in/all out state. However, the magnetic transition at $T ^ { * }$ （204号 is regardless of resistivity transition. Both of the magnetic transitions are irrelevant to the lattice distortion. We suggest that the competition between the enhanced paramagnetism of $\\mathrm { G d ^ { 3 + } }$ ions and the $f - d$ interaction should be responsible for the magnetic transition at $T ^ { * }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "V.ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the State Key Project of Fundamental Research of China through Grant Nos. 2010CB923403 and 2011CBA00111, the National Natural Science Foundation of China (Grant Nos. U1332140, U1232142,11004196,11174262 and 11204288). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]J. Chaloupka,G. Jackeli, G. Khaliullin, Phys. Rev. Lett.105, 027204 (2010).   \n[2] J. P. Clancy, N. Chen, C.Y. Kim, W. F. Chen, K.W. Plumb,B. C. Jeon, T. W. Noh, Y. J. Kim, Phys. Rev. B 86, 195131 (2012).   \n[3] G. Cao, T. F. Qi, L. Li, J. Terzic, V. S. Cao, S. J. Yuan, M. Tovar, G. Murthy, R. K. Kaul, Phys. Rev. B 88, 220414(R) (2013).   \n[4] G. Cao, T. F. Qi,L. Li, J. Terzic, S. J. Yuan, L. E. DeLong, G. Murthy, R. K. Kaul, Phys. Rev. Lett.112, 056402 (2014).   \n[5] L. Li, P. P. Kong, T. F. Qi, C.Q. Jin, S. J. Yuan,L. E. DeLong, P. Schlottmann, G. Cao, Phys. Rev. B 87, 235127 (2013).   \n[6] C.H. Kim, H. S. Kim, H. Jeong, H. Jin, J. Yu, Phys. Rev. Lett. I08, IU64Ul (2U12).   \n[7] Y. Tokiwa, J. J. Ishikawa, S. Nakatsuji, P. Gegenwart, Nat.Mater. 13,356 (2014).   \n[8] J. J. Yang, Y. J. Choi, Y. S.Oh,A. Hogan, Y. Horibe,K. Kim, B. I. Min, S. W. Cheong, Phys. Rev. Lett.108,116402 (2012).   \n[9] L. Zhang, X. D. Zhu,L. S. Ling, C. J. Zhang, L. Pi, Y. H. Zhang, Philos. Mag. 94, 439 (2014).   \n[10] P.G. Radaelli, Y. Horibe,M. J. Gutmann,H. Ishibashi, C. H. Chen,R. M. Ibberson，Y. Koyama, Y. S. Hor, V. Kiryukhin, S. W. Cheong, Nature (Lond.) 416,155 (2002).   \n[11] J. S. Gardner, M. J. P. Gingras, J. E. Greedan, Rev. Mod. Phys. 82,53 (2010).   \n[12] D. Pesin and L. Balents, Nat. Phys. 6,376 (2010).   \n[13] Y. Yamaji and M. Imada, Phys. Rev. X 4, 021035 (2014).   \n[14] X. G. Wan, A. M.Turner,A. Vishwanath, S. Y. Savrasov, Phys. Rev. B 83, 205101 (2011).   \n[15] B. J. Yang and Y. B. Kim, Phys. Rev. B 82, 085111 (2010).   \n[16] W. W. Krempa and Y. B. Kim, Phys. Rev. B 85, 045124 (2012).   \n[17] L. Hozoi, H. Gretarsson, J. P. Clancy, B.G. Jeon, B. Lee,K. H. Kim,V. Yushankhai, P. Fulde,D. Casa, T. Gog, J. Kim,A. H. Said, M. H. Upton, Y. J Kim, J. Brink, Phys. Rev. B 89,115111 (2014).   \n[18] M. A. Subramanian, G. Aravamudan, G. V. S. Rao, Prog. Solid State Chem. 15, 55 (1983).   \n[19] M. C. Shapiro, Scott C. Riggs, M. B. Stone, C.R. de la Cruz, S. Chi, A.A. Podlesnyak, I. R. Fisher, Phys. Rev. B 85, 214434 (2012).   \n[20] Y. Machida, S. Nakatsuji, S. Onoda, T. Tayama, T. Sakakibara, Nature (London) 463, 210 (2010).   \n[21] N. Taira, M. Wakeshima, Y. Hinatsu, J. Phys.: Condens. Matter 13,5527 (2001).   \n[22] K.Matsuhira, M. Wakeshima, R.Nakanishi, T. Yamada, A. Nakamura, W. Kawano, S. Takagi, Y.Hinatsu, J. Phys. Soc. Jpn. 76, 043706 (2007).   \n[23] K. Matsuhira, M. Wakeshima, Y. Hinatsu, S. Takagi, J. Phys. Soc. Jpn. 80, 094701 (2011).   \n[24] H. Sagayama, D. Uematsu, T. Arima, K. Sugimoto, J. J. Ishikawa, E. O.Farrell S. Nakatsuji, Phys. Rev. B 87, 100403(R) (2013).   \n[25] S. M. Disseler, C. Dhital, T. C. Hogan, A. Amato, S.R. Giblin, C. Cruz, A. Daoud-Aladine, S. Wilson, M. J. Graf, Phys. Rev. B 85, 174441 (2012).   \n[26] H. J. Guo, K. Matsuhira, I. Kawasaki, M. Wakeshima, Y. Hinatsu, I. Watanabe, Z. A. Xu, Phys. Rev. B 88, 060411(R) (2013).   \n[27] S. R. Zhao, J. M. Mackie, D. E. MacLaughlin, O.O. Bernal, J. J. Ishikawa, Y. Ohta, S. Nakatsuji, Phys.Rev. B 83,180402(R) (2011).   \n[28] G. Chen and M. Hermele, Phys. Rev. B 86, 235129 (2012).   \n[29] K. Matsuhira, M. Tokunaga, M. Wakeshima, Y. Hinatsu, S. Takagi, J. Phys. Soc. Jpn 82, 023706 (2013).   \n[30] J. J. Ishikawa, E. C. T. OFarrell, S. Nakatsuji, Phys. Rev. B 85,245109 (2012).   \n[31] H. Liu, W. Tong, L. S. Ling, S. L. Zhang, R. R. Zhang,L. Zhang, L. Pi, C. J. Zhang, Y. H. Zhang,Solid State Commun.179,1 (2014).   \n[32] T. Hasegawa, N. Ogita, K. Matsuhira, S. Takagi, M. Wakeshima, Y. Hinatsu, M. Udagawa, J. Phys.: Conf. Ser. 200,012054 (2010).   \n[33] W. K. Zhu, M. Wang, Seradjeh, Fengyuan Yang, S. X. Zhang,Phys. Rev. B 90, 054419 (2014).   \n[34] P.Bonville,J.A. Hodges,M. Ocio, J.P. Sanchez, P. Vulliet, S. Sosin, D. Braithwaite: J. Phys.: Condens. Matter 15, 7777 (2003).   \n[35] L. Zhang, W. Tong, J. Y. Fan, C. J. Zhang, L. Pi, S. Tan, Y. H. Zhang, Physica B 411,136 (2013).   \n[36] S. M. Disseler, S.R. Giblin, C. Dhital, K. C.Lukas, S. D. Wilson, M. J. Graf, Phys. Rev. B 87, 060403(R) (2013).   \n[37] L. Zhang, H. C. Lei, X. D. Zhu, W. Tong, C. J. Zhang, Y. H. Zhang, C. Petrovic, Philos. Mag. 93,1132 (2013). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "十 (222) Gd2Ir207 [111] ('n 'r) faitrstu) + Obs cubic Fd-3m alNin Cal a=10.290(3) Diff R=10.347 all-out p ( (220) (11) (00) 0 (2) 20 40 60 80 100 20 (deg.) ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf8767c6f19664687c13985c8336bf204a86e76e49a387c0f3c1b36610fd513e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIG.2:(Color online) (a） The temperature dependence of resistivity $\\left[ \\rho ( T ) \\right]$ for GdzIr $^ 2$ O $7$ (the inset plots on the $\\mathrm { l g - } \\mathrm { l g }$ scale)； (b) the $\\rho ( T )$ curve fitted according to $T ^ { - 1 / 4 }$ law (the inset shows the derivative $\\lg \\rho ( T )$ vs $T ^ { - 1 / 4 }$ ); (c) the Raman spectra at selected temperatures from 200 to 800 cm-1 ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4498940b787e25210fdd83e7dd28023d1e6720d398f7c161f86f1273c319a2d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FIG.3:(Color online）(a） The derivative EPR spectra（ $d P / d H )$ （ $P$ is the integral EPR inten-sity） for Gd2Ir $^ 2$ O $^ 7$ at selected temperatures; (b） the comparison of EPR spectra for Y $^ 2$ Ir2O $7$ andGd2Ir2O $^ 7$ at $T ' = 2$ K.",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/30d608ed1eb2498b723231906a1860b934bfbad702dc22c9d5369bb9c112fc2f.jpg",
+        "img_caption": [
+            "FIG.4: (Color online) The temperature dependence of EPR parameters: (a) $H _ { r }$ and $g$ -factor; (b) EPR height; and (c) △Hpp: "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b079543b50c09d761b374a537a30e55654df17f24e848cb12b85b359c819767.jpg",
+        "img_caption": [
+            "FIG. 5: The isothermal magnetization $M ( H )$ at selected temperatures (the inset shows the magnification in the low field region at 2 K). "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/0962c9bee5e8108aadb495f02b1c331895c4850945ab41e21c2dfe54817db918.jpg",
+        "img_caption": [
+            "FIG.6: (Color online) (a) The temperature dependence of $I _ { E S R }$ (the inset shows the specific heat （204号 $[ C / T ]$ vS $T$ under $H = 5 0$ Oe); (b) $I _ { E S R } ^ { - 1 } ( T )$ as a function of $T$ (the line is guided on eye). "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    }
+]

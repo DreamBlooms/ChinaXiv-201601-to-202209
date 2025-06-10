@@ -1,0 +1,365 @@
+[
+    {
+        "type": "text",
+        "text": "基于FPGA的软X射线CCD驱动电路设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝玉婷1,2，韦飞1，冷 双1，李咪咪1,2(1.中国科学院空间科学与应用研究中心北京100190；2.中国科学院大学 北京 100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：CCD是实现空间软X射线探测任务的核心部件,E2V公司的科学级CCD42-10BIAIMO对空间软X射线探测具有较高的灵敏度、低噪声水平和高读出速度，本文针对该款CCD提出了一种基于FPGA的驱动电路设计方案。选用Xilinx公司的XC3S500E作为驱动电路的核心器件,通过VHDL语言对驱动时序进行了硬件描述，采用EL7202作为CCD驱动芯片。仿真与实验测试结果表明，该设计可以满足科学级CCD42-10 BIAIMO的驱动电路要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：软X射线；CCD；驱动电路；FPGA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TN386.5 文献标识码：A 文章编号:1674-6236(2016)03-0094-04",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design of driving circuit of soft X-ray CCD based on FPGA ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAO Yu-ting1²，WEIFei1,LENG Shuang1,LI Mi-mi1,2 (1.National Space Science Center，Chinese Academy of Science,Beijing 1Oo190,China; 2.UniverSity ofChineseAcademyofScience，Beijing1Oo19O,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:CCD is thecore component forrealizing space soft X-ray exploring mision.According to therequirements for space soft X-ray exploring,thescientific CCD42-10BIAIMO producedbyE2V Companyhashigh sensitivity,low noiseand high readout speed,andadriving circuitbasedonFPGA is designed.This design isdevelopedonthe XC3S50OE hardware platform,using VHDLlanguage todescribethe driving iming.The CCD is driven byEL7202chips.The simulation and testing results indicate thatthe CCD performed stably,and the design matchesthedriving requirements of CCD42-10 BI AIMO. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:soft X-ray;CCD;driving circuit;FPGA DOI:10.14022/j.cnki.dzsjgc.2016.03.028 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "空间软X射线观测是获得高温等离子体温度、密度、运动速度等重要参数的有效途径，对研究太阳耀斑爆发及演化过程的加热机制及其动力学行为具有极其重要的研究价值[1]。科学级CCD由于其体积小、重量轻、噪声低、分辨率高等优点，近年来在越来越多的空间又射线观测任务中得到应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "科学级CCD对驱动电路有着严格的要求，它的性能是影响CCD的转换效率、信噪比特性和系统时间分辨率水平的重要因素。因此，驱动电路的设计是科学级CCD在空间X射线观测应用中的关键问题之一。传统的CCD驱动时序设计方法主要有单片机驱动法、EPROM驱动法和DSP驱动法等，这些设计方法缺乏灵活性、可移植性差。FPGA逻辑控制电路具有硬件可编程、处理速度快、可靠性高等特点，非常适于CCD驱动时序的设计。文中首先简单介绍了科学级探测器CCD42-10BIAIMO的性能和结构，然后在分析了其工作驱动时序的基础上，提出了一种基于FPGA的科学级全帧CCD驱动电路的设计方案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 CCD42-10BIAIMO芯片 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CCD42-10BIAIMO是英国E2V公司生产的全帧面阵",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CCD。此款CCD采用背照式结构，适用于空间X射线观测，显著提高了其量子效率[2。高级反转模式(AIMO)能够极大",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地减少暗电流的产生率，从来源上减小暗电流噪声，使对CCD的制冷要求降低到一定水平，用半导体制冷的方法就能够达到制冷要求[3]。其主要的性能参数如表1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/841878f63c5377dfc40175cc3894dd4fcf09123703b03f72dce235ef61df3389.jpg",
+        "table_caption": [
+            "表1CCD42-10BIAIMO性能参数值Tab.1 Performance parameter of CCD42-10 BI AIMO"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>性能参数</td><td>数值</td></tr><tr><td>灵敏度</td><td>4.5μV/e</td></tr><tr><td>最大读出频率</td><td>3 MHz</td></tr><tr><td>动态范围</td><td>33333/l</td></tr><tr><td>读出噪声(20 kHz)</td><td>3erms</td></tr><tr><td>暗电流(253K)</td><td>l e-/pixel/s</td></tr></table></body></html>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CCD42-10BIAIMO由感光区、水平寄存器和片上输出放大器组成，其结构如图1所示。感光区有效像元数为 $2 0 4 8 ^ { * } 5 1 5$ 由行转移时钟 ${ \\mathrm { I } \\Phi 1 \\ 、 \\mathrm { I } \\Phi 2 \\ 、 \\mathrm { I } \\Phi 3 }$ 驱动控制。水平移位寄存器被金属铝遮蔽不会曝光，由像素读出时钟 $\\mathrm { R } \\Phi 1 \\ 、 \\mathrm { R } \\Phi 2 、 \\mathrm { R } \\Phi 3$ 驱动，与感光区对应两边分别多出50个空像元，用作暗电平参考，以减小暗电流噪声[4。片上放大器上需施加复位时钟 $\\Phi \\mathrm { R }$ ,实",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e61535f220c64cc9c44f66c76393963e968016a93e40d8d27bfa8e3a8bb3855.jpg",
+        "img_caption": [
+            "图1CCD42-10 BIAIMO 结构图Fig.1Structure diagram of CCD42-10 BI AIMO"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 驱动时序分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2为CCD42-10BIAIMO的工作时序图，从图中可以明显看出，CCD42-10BIAIMO的一个工作周期分两个阶段：光积分阶段、电荷转移阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "光积分阶段，感光区的光敏阵列接受外界光源照射产生光电荷。因CCD42-10BIAIMO采用先进的高级反转模式技术，在光积分期间，时钟脉冲 ${ \\mathrm { I } } \\Phi 1 \\ldots { \\mathrm { I } } \\Phi 2$ 和I3保持低电平即可控制感光区收集电荷。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "光积分结束后进入电荷转移阶段，行转移和像素读出交替进行，直至感光区的像素电荷被完全读出。行转移是在行转移时钟 $\\mathrm { I \\Phi 1 \\_ I \\Phi 2 \\cdot I \\Phi 3 }$ 的驱动下，将感光区中的感光电荷整行向下转移一行，位于感光区的最下面一行像素电荷则转移到水平寄存器中。垂直行转移过程共需要515个行转移周期(TI)。在进行行转移时，像素读出时钟RΦ1、RΦ2保持固定的高电平，以形成势阱收集感光区转移来的像素电荷； $\\operatorname { R } \\Phi 3$ 则保持固定的低电平，起到像素隔离的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e5a3a599f57541d05ec95a48a10465d2a65d06c0c38c7135f00c471168668aa.jpg",
+        "img_caption": [
+            "图2CCD42-10BIAIMO 驱动时序图 Fig.2Driving timing diagram of CCD42-10 BI AIMO "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每进行完一次行转移，则进入像素读出阶段。在像素读出时钟 $\\mathrm { R } \\Phi 1 \\ 、 \\mathrm { R } \\Phi 2 、 \\mathrm { R } \\Phi 3$ 的控制下，将水平移位寄存器中的像素电荷依次转移，然后在复位时钟脉冲R的控制下，对每个像素进行参考电平复位，最后通过片上输出放大器输出。每一行像素的读出共需要2148个像素读出周期(TR)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 CCD42-10BIAIMO驱动电路设计 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据前面对驱动时序的分析，如图3所示，将CCD42-10BIAIMO的驱动电路分为3个单元进行设计5：时序产生单元（FPGA）时序驱动单元（EL7202）CCD供电单元。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "时序产生单元(FPGA)产生CCD工作所需的驱动时序，然后由驱动芯片EL7202驱动到CCD工作所需的电平值，此电压由CCD供电单元提供。供电单元还产生CCD传感器工作必需的偏置电压。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 时序产生单元",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用Xilinx公司生产的Spartan3E系列的XC3S50OE型号FPGA，该器件具有丰富的资源，208个接口， $5 0 0 \\mathrm { ~ k ~ }$ 系统门，同时还有 $7 3 \\ \\mathrm { k b i t }$ 的DistributedRAM和 $3 6 0 ~ \\mathrm { k b i t }$ 的BlockRAM,足以满足此次设计的需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d76060c0f2b7b2be143c8e83d99f9748e45d906de332c9240e7bde0b607ab132.jpg",
+        "img_caption": [
+            "图3驱动电路结构框图Fig.3Driving circuit diagram"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在使用VHDL语言编写程序时，采用自上而下、模块化的设计方法。选取行转移频率为 $3 3 ~ \\mathrm { k H z }$ ，像元读出频率为$2 0 0 ~ \\mathrm { k H z }$ ，行转移时序和像素读出时序占空比均选为 $5 0 \\%$ ，复位时序的占空比选为 $10 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "把驱动时序划分为3个模块：行转移模块、像素读出模块和帧控制模块。行转移模块用于产生CCD进行垂直行转移所需的驱动时序，包括 $[ \\Phi 1 _ { \\cdot } \\mathrm { I } \\Phi 2$ 和 $\\mathbf { \\Delta } _ { \\mathrm { I } \\Phi 3 }$ 。像素读出模块用于产生与水平像素读出相关的驱动时序，包括 $\\mathrm { R } \\Phi 1 \\ 、 \\mathrm { R } \\Phi 2$ RΦ3和 $\\Phi \\mathrm { R }$ 。帧控制模块用于控制CCD的整个工作过程，包括控制光积分时间、行转移开始和结束时和像素转移时序的时间间隔，行转移次数和像素转移次数等。每个模块分别使用有限状态机实现，然后在顶层文件里使用元件例化的方法调用元件实现驱动时序设计。下面详细介绍像素读出模块的设计，其他两个模块不再赘述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据驱动时序图，对像素读出时序RΦ1、RΦ2、R3和$\\Phi \\mathrm { R }$ 进行划分，分为S0-S7共8个状态，如图4(a)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用一个有限状态机来描述像素读出模块，如图4(b)",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bbcfbf70e0b74bb2b31ade6eca326d442cc5f7187420ea6e6faa1ca94696978.jpg",
+        "img_caption": [
+            "图4像素读出时序划分及状态机描述",
+            "Fig.4Segments and state machine description of pixel readout timing "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所示。当CCD进行行转移时，输出SO状态的信号；当进行像素读出时，则连续依次输出S1-S7状态的信号，完成一个像素的读出。各状态的跳转由信号Rdriver_start和Idriver_start来控制：当Idriver_start为1时，表明CCD处于行转移阶段，进入S0状态，输出行转移所需要的驱动时序；当Rdriver_start为1时，表明CCD开始准备像素读出，依次进入S1-S7状态，不断循环直至把转移到水平移位寄存器中的像素完全读出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "完成对驱动时序的VHDL语言描述后，在ISE14.2可编程逻辑集成开发环境下，对驱动时序进行仿真，仿真波形如图5所示，各个驱动时序的相位关系、频率、占空比等完全符合设计要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3327ce285d979f5d085a136b78628c1f464c5daacafa260e7d1ea9c8515025b3.jpg",
+        "img_caption": [
+            "图5时序仿真图",
+            "Fig.5Timing simulation diagram ",
+            "图6驱动器EL7202电路图 Fig.6EL7202 driving circuit "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 时序驱动单元",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CCD属于容性负载，对驱动时序信号有着一定的功率要求。CCD42-10BIAIMO正常工作所需的驱动时序电压取典型值12V，而FPGA输出的时序电平只有 $3 . 3 \\mathrm { ~ V ~ }$ ，所以需要驱动芯片将驱动时序信号进行电平转换。CCD正常驱动时所需的功率，可由下面公式进行计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP { = } C { \\times } F { \\times } V ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $P$ 为功率大小， $C$ 为电极等效电容， $F$ 为工作频率，$V$ 为驱动时序电压。CCD42-10BIAIMO工作时像素读出所需功率最大，像素读出引脚等效电容 $8 0 ~ \\mathrm { p F }$ ，驱动时序电压12V,取最大工作频率 $3 \\ \\mathrm { M H z ^ { [ 4 ] } }$ 。通过计算，每一相像素转移驱动脉冲需要的功率为 $3 4 . 5 6 ~ \\mathrm { m W }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据此计算结果，选用公司的驱动芯片EL7202，它可提供峰值电流 $2 \\mathrm { ~ A ~ }$ ，对满足CCD42-10BIAIMO功率要求有足够的裕度。与其他驱动芯片DS0026、ICL7667等相比，EL7202在驱动能力、反应时间、抑制噪声等各方面表现更为优秀，其上升沿和下降沿变化得更快，更能满足应用要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EL7202芯片单电源工作，双通道输入输出。其电路原理图如图6所示： $\\mathrm { V } +$ 和 $\\mathrm { V } -$ 为供电电压输入引脚，分别为 $1 2 { \\mathrm { ~ V ~ } }$ 和 $0 \\mathrm { ~ V ~ }$ 。供电电压 $1 2 { \\mathrm { ~ V ~ } }$ 经过 $2 0 \\ \\Omega$ 的电阻连接到驱动芯片，可防止过冲现象。使用容值为 $0 . 1 ~ \\mu \\mathrm { F }$ 的小电容并联 $4 . 7 ~ \\mu \\mathrm { F }$ 的钮电容，减小电源纹波。每个驱动信号经过EL7202驱动后都接有 $1 0 0 \\Omega$ 电阻，用来调节驱动脉冲的上升沿和下降沿时间，从而满足CCD驱动信号的要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "U1 X 1 NC NC 8 X R1 12 11 4 2 3 INA OUTA INB OUB 7 6 5 100Ω R3 CCDI1 0o00 R2+12VD E7202 100Ω ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 CCD供电单元",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CCD供电单元提供给驱动芯片EL7202驱动电平以及",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CCD42-10BIAIMO工作所需的各种偏置电压。CCD42-10BIAIMO的偏置电压包括衬底电压 $( + 9 \\mathrm { ~ V ~ } )$ 、倾倒漏极 $( + 2 4 { \\mathrm { ~ V ~ } } )$ 、放大器漏极( $+ 2 8 { \\mathrm { ~ V ~ } }$ ）、输出门极电压 $( + 4 \\mathrm { ~ V ~ } _ { \\cdot } + 3 \\mathrm { ~ V ~ } )$ ）和复位管的复位电压（ $+ 1 7 { \\mathrm { ~ V ~ } }$ )。这些电压的好坏将直接影响到CCD的电荷转移效率和输出信号的信噪比。如果电压中引入噪声过大，严重的有可能在输出图像上产生条纹，所以有必要对这些电压进行滤波处理，将电压噪声降到最低[8。CCD的偏置电压所需的电流较小，可以通过调节电阻分压的方法使用LM117芯片实现，因其电路已经很成熟，在此不再赘述。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "检测CCD的各种偏置电源正常后，接上CCD42-10BIAIMO，用示波器对驱动脉冲和CCD的输出信号进行观察。图7中(a)和(b)分别为行转移脉冲和像素转移脉冲波形图。图8为CCD输出信号波形。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b491a7999795391934e16a2d5ff9f6abe48509ee6f8bbbf63ef15d5d18c966f2.jpg",
+        "img_caption": [
+            "图7行转移脉冲和像素读出脉冲 Fig.7line transfer pulse and pixel readout pulse "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c9fe6c57e32017dc04415645d6171aaa539cb8cf7c85a1186cd3896742fa30b.jpg",
+        "img_caption": [
+            "图8CCD输出信号Fig.8CCD output waveform"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图7中可以看出，行转移脉冲的频率为 $3 3 ~ \\mathrm { k H z }$ ，像素转移脉冲的频率为 $2 0 0 ~ \\mathrm { k H z }$ ，占空比均为 $5 0 \\%$ ，高低电平分别为12V和0V，以上驱动脉冲的电平值、频率、占空比等完全符合设计要求。图8的CCD输出波形表明设计的驱动电路可以驱动CCD42-10 BI AIMO 正常工作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用Xilinx公司Spartan3E系列的XC3S50OE型号FPGA芯片，在ISE开发环境下采用硬件描述语言VHDL语言设计出科学级CCD42-10BIAIMO工作所需的驱动时序信号，并选用高性能的驱动芯片EL7202保证提供给CCD高质量的驱动脉冲信号。仿真与实验结果表明，此驱动电路设计能够满足实际应用要求，可以用来驱动CCD42-10BIAIMO。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Takako Kato,et al. X-Ray spectral analysis of Yohkoh bragg crystal spectrometer data on a 1992 September 6 Flare: The Blueshift Component and Ion Abundances[J]ApJ,1998,492 (2):822-832.   \n[2]Janesick J R. Scientific charge -coupled devices [M]. Bellingham:SPIE press,2001.   \n[3] Janesick J. Muti -pinned-phase charge -coupled device[J]. NASATechBriefs,1990,14(8):22.   \n[4]E2V Products.CCD42-10 Back Illuminated High Performance AIMO CCD Sensor Datasheet [EB/OL].[2015-01-09].http:// www.e2v.com/resources/account/download-datasheet/1178.pdf.   \n[5]常磊，李国宁，金龙旭.基于FPGA的全帧型面阵CCD驱动 时序设计[J].光学技术，2006(32):313-316.   \n[6]Xilinx Products.Spartan3E FPGA Family Datasheet[EB/OL]. [2013-O7-19].http://www.xilinx.com/support/documentation/ data_sheets/ds312.pdf.   \n[7]蒋小燕.EDA技术及VHDL[M].南京：东南大学出版社,2008.   \n[8]许秀贞,李自田，薛利军.CCD 噪声分析及处理技术[J].红 外与激光工程,2004,33(4):343-346. ",
+        "page_idx": 3
+    }
+]

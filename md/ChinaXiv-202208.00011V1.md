@@ -1,0 +1,260 @@
+# 腹内侧前额叶在内隐认知重评中的因果作用1
+
+# 高可翔1² 张岳瑶²李思瑾²袁加锦」李红’张丹丹1,2.3
+
+（1四川师范大学，脑与心理科学研究院，成都610066;2 深圳大学，心理学院/磁共振成像中心，深圳5180603 深港脑科学创新研究院，深圳518055)
+
+摘要情绪调节对维持个体心理健康、适应社会生活十分重要，然而以往研究主要关注外显情绪调节，目前我们对内隐情绪调节的认知神经机制的了解还非常有限。为揭示内隐情绪调节的核心脑区，本研究使用句子整理任务启动内隐认知重评，并采用经颅直流电刺激（transcranial direct current stimulation，tDCS）激活内侧前额叶特别是腹内侧前额叶（ventromedial prefrontal cortex，vmPFC），考察该脑区在内隐情绪调节中的因果作用。结果表明，vmPFC被激活的被试组（实验组， $n = 4 0$ ）在内隐认知重评启动条件下比tDCS伪刺激组（对照组， $n = 4 0$ ），在观看负性图片时报告了更少的负性情绪，同时负性图片诱发的晚正成分（late positive potential,LPP）波幅更低（LPP 是情绪体验强度的客观指标）。同时，实验组比对照组在观看负性图片时表现出更低的枕区P1波幅（P1为早期视觉注意程度的客观指标）。以上结果说明，激活以vmPFC为代表的内侧前额叶不但能增强内隐情绪调节的效果，还能减少被试对负性刺激的早期注意分配。本研究是采用tDCS技术考察启动引起的内隐情绪调节的首次尝试，研究结果不但表明了以vmPFC为代表的内侧前额叶在内隐认知重评中的关键作用，还为临床应用研究指出了增强内隐情绪调节能力的神经调控潜在靶点。
+
+关键词腹内侧前额叶，内隐情绪调节，经颅直流电刺激，启动，认知重评
+
+分类号 B845；R395
+
+# 1引言
+
+情绪调节对个体维持心理健康、适应社会生活十分重要(Gross&John,2003)。广义的情绪调节是指在情绪发生过程中通过改变认知、行为和环境等来影响情绪的产生、体验和表达(Gross,1998)。情绪调节可通过不同的方式、使用各种策略达成(Braunstein et al.,2017)。以往研究主要关注外显（有意识的、主动的）情绪调节，而近来一些研究发现，情绪调节过程也可以是内隐（无意识）的，且极少或不需要消耗以外侧前额叶（lateralprefrontal cortex）为代表的认知控制资源(Gyurak et al.,2011; Koole et al.,2015;Koole &Rothermund,2011)。内隐情绪调节能有效降低负性情绪体验及相关生理反应(李红，袁加锦，2018; Mauss et al., 2007; Wang & Li,2017; Williams et al.,2009; Yang et al., 2015; Yuan et al.,2015a,2019;Zhang etal.,2020)。然而与外显情绪调节不同，目前我们对内隐情绪调节的认知及脑机制的了解还非常有限。
+
+情绪加工神经模型(Etkin et al.,2015;Phillips et al.,2008;Rive et al.,2013)指出，外显情绪调节需要调用负责认知控制的外侧前额叶皮层，包括背外侧前额叶（dorsolateralprefrontal cortex）和腹外侧前额叶（ventrolateral prefrontal cortex）。而内隐情绪调节则节省认知控制资源，它主要依赖内侧前额叶（medial prefrontal cortex）和前扣带回皮层（anterior cingulate cortex，ACC）工作。不少研究者认为，腹内侧前额叶（ventromedialprefrontal cortex，vmPFC）可能是内隐情绪调节的关键脑区。vmPFC 在情绪加工和调节过程中不仅通过与杏仁核、颞叶、腹侧纹状体的功能连接，提取情绪相关的先验信息，对情绪内容进行评估并更新刺激的情感价值，同时还负责整合腹侧系统和背侧系统的信息，调控杏仁核的活动从而改变情绪刺激诱发的神经和行为反应(Delgado et al.,2016;Diekhof etal.,2011; Hiser& Koenigs,2018;Motzkin et al.,2015; Roy et al.,2012）。目前共有两项脑调控-脑观测的证据支持vmPFC在内隐情绪调节过程中的关键作用。这两项研究同时采用了功能核磁共振成像（functional magnetic resonance imaging，fMRI）和经颅直流电刺激（transcranial direct current stimulation，tDCS）技术。其中一项研究发现，采用 tDCS 激活内侧前额叶（包括vmPFC 和亚属前扣带皮层）之后，实验组被试在观看负性视频片段时报告的负性情绪强度显著低于 tDCS 伪刺激组报告的评分(Abend etal.,2019)。另一项发现，采用 tDCS 激活vmPFC 条件相比于伪刺激条件，被试在最后通煤游戏中被诱发愤怒情绪时，vmPFC 激活增加，而愤怒情绪体验脑区ACC和前脑岛的激活减弱，且被试对不公平提议的接受率增加，自我报告的愤怒程度降低，随后的攻击行为降低，此结果提示vmPFC 在减少愤怒体验和愤怒表达方面具有重要作用(Gilam etal.,2018)。需要注意的是，这两项研究仅考察了激活vmPFC所带来的情绪改善，没有对情绪调节进行实验性操纵，因此难以保证被试情绪的改善是由内隐情绪调节带来的。针对此问题，本研究将内隐情绪调节作为核心自变量进行操纵，建立内隐情绪调节和情绪改善间的因果关系，并通过tDCS 激活vmPFC，观察被试内隐情绪调节效果的改变，为揭示内隐情绪调节的核心脑区提供因果性证据。
+
+最常用的内隐情绪调节诱发方式是通过启动（priming）建立情绪调节目标，使个体对该情绪调节目标进行自动化追求（automatic goal pursuit）（Custers& Aarts,2010）。例如，Yang等人（2015）使用含有情绪调节语义的目标词来启动“调节情绪反应”这一目标，被试每次从两个备选词中选择一个与目标词的语义相匹配的选项，从而通过语义加工过程为被试“植入”情绪调节目标。该内隐情绪调节的启动方式称为“词语匹配任务”。又如，
+
+Yuan 等人（2019）要求被试从打乱顺序的五个词中挑选四个词组成一个语法通顺的句子，而句子中每次都含有一个情绪调节策略的相关词（例如“接受”、“顺其自然”），这样被试也可以通过语义加工被植入某种具体的情绪调节策略（例如“接受策略”，acceptance）。该内隐情绪调节的启动方式称为“句子整理任务”。已有研究发现，以启动方式诱发的内隐情绪调节，不但能有效降低负性情绪体验，且对外侧前额叶的认知资源消耗较少（Mauss et al.,2007; Williams et al.,2009; Wyczesany et al.,2021）。例如， Zhang 等人（2020）发现，内隐情绪调节可降低杏仁核和脑岛等情绪体验脑区的激活，同时不会引起额顶控制脑网络的明显激活。事件相关电位（event-related potential，ERP）证据也显示，使用内隐情绪调节下调负性情绪时，反映负性情绪强度的顶区LPP波幅减小，且不会诱发额区P3波幅的明显增强，后者被认为是认知控制卷入的指标(Yuan etal.,2015b;2019)。
+
+与外显情绪调节相比，内隐情绪调节在某些情境下或在某些人群中具有较明显的优势。例如Williams 等人（2009）发现，在高压力损害认知资源的情境下，极少消耗认知资源的内隐认知重评（cognitive reappraisal）是比外显认知重评更适合的调节方式。更重要的是，对认知控制资源严重受损的抑郁症等精神疾病患者而言，虽然他们外显情绪调节策略（例如认知重评）的使用效率和使用频率均低于健康个体(Campbell-Sills et al.,2006; Garmefskiet al.,2007;Gamefski& Kraaij,2006;Gross & John,2003），但患者的内隐情绪调节功能没有明显受损。例如，研究者发现抑郁被试在内隐启动的分心（distraction）策略下能有效降低在挫折任务中的消极情绪，但让被试执行外显分心策略时却不能达到此情绪调节效果(李红，袁加锦，2018)。由于内隐情绪调节具有上述优点，阐明内隐情绪调节的认知神经机制具有重要的理论价值和临床指导意义。
+
+本研究针对内隐情绪调节的潜在核心脑区vmPFC，将tDCS组别作为被试间变量，比较 tDCS 激活组和伪刺激组之间内隐情绪调节效果的差异。情绪调节可以通过多种策略实现，其中认知重评策略最具环境适应性，该策略强调认知的改变，即通过重新解释情绪刺激的内容（例如，从更加积极的角度看待问题）从而调节情绪反应(Gross＆ John,2003;Ochsner etal.,2012; Suri etal.,2015)。本研究使用含有认知重评相关词的句子整理任务，启动认知重评目标，诱发被试对负性情绪认知重评的自动化追求(Williams et al.,2009; Yuan etal.,2015a)。实验中，采用图片浏览任务诱发被试的负性情绪，并记录脑电数据。行为层面，我们采集被试观看每张图片后的情绪自我报告评分以及任务结束半小时后的图片效价评分用以考察内隐情绪调节及阳极激活vmPFC 的即时效果和短时间内的持续效应(Mauss &Robinson,2009）。电生理层面，本研究采用ERP的顶区晚正成分（latepositivepotential，LPP）作为情绪反应的客观指标。LPP 通常在情绪刺激呈现 $5 0 0 \mathrm { m s }$ 后出现，在顶区达到最大值(Foti& Hajcak,2008;Hajcak&Nieuwenhuis,2006)。该成分反映了刺激的情绪强度(Hajcak etal.,2010;Liu et al.,2012)，在情绪调节相关研究中被用于反映情绪调节的效果(Schonfelder etal.,2013）。例如，以往研究表明，下调负性情绪伴随着LPP 波幅的降低(He et al.,2020; Yuan et al.,2015b)，且LPP波幅和主观负性情绪评分之间存在显著相关(Li et al., 2022; Zhao et al., 2021） 。
+
+基于已有发现，本研究假设：vmPFC是内隐情绪调节的核心脑区，内隐认知重评可有效下调负性情绪体验。在观测指标上，被试在内隐认知重评启动条件比基线条件的情绪评分更加正性、顶区LPP 波幅明显下降；相比于伪刺激组，采用 tDCS 激活vmPFC 可提高内隐认知重评的调节效果。本研究不但能深化我们对内隐情绪调节脑机制的理解，还可为采用tDCS 提高内隐情绪调节能力、改善抑郁症等人群的情绪调节障碍提供临床指导。
+
+# 2方法
+
+# 2.1被试
+
+本研究招募在校本科生和研究生共80
+
+。所有被试均为右利手，无神经系统疾病及脑损伤史，参与实验时身体健康，视力或矫正视力正常。实验前签署了知情同意书，实验后获取报酬100元。本研究方案得到了深圳大学伦理委员会的批准。根据相关研究(Abend et al.,2019;Gilam et al.,2018)报告的效应量大小（平均 $= 0 . 2 4$ ），使用G\*Power3.1.7对样本量进行估计（ $\dot { \mathbf { \zeta } } \mathbf { a } = 0 . 0 5 , \beta = 0 . 9 5 ,$ ，方差分析：重复测量，被试内-被试间交互作用），两组被试各含7名即可达到 $80 \%$ 的统计检验力（power）。因此本研究的样本量满足要求。
+
+实验当天被试填写以下量表：贝克抑郁量表第二版（Beck Depression Inventory SecondEdition,BDI-II; Beck et al.,1996）、斯皮尔伯格特质焦虑量表（Trait form of Spielberger'sState-Trait Anxiety Inventory,STAI-T; Spielberger,et al 1983）、情绪调节问卷的认知重评子量表（Emotion Regulation Questionnaire,ERQ-R; Gross & John,2003）。随后将被试随机分配到阳极刺激组和伪刺激组。经检验，两组在年龄、性别、抑郁水平（BDI-II）、特质焦虑水平（STAI-T）、认知重评策略的使用倾向（ERQ-R）上均无显著差异，如表1所示。
+
+表1本研究两组被试的人口学特征  
+
+<html><body><table><tr><td>变量</td><td>伪刺激组 (n=40)</td><td>阳极刺激组 (n=40)</td><td>统计结果</td></tr><tr><td>年龄</td><td>20.15 ± 0.29</td><td>19.52 ± 0.30</td><td>t = 1.49,p = 0.139</td></tr><tr><td>性别(女/男)</td><td>20/20</td><td>20/20</td><td>x² = 0.00,p = 1.000</td></tr><tr><td>抑郁 (BDI-II)</td><td>5.58 ± 0.95</td><td>5.05 ± 0.85</td><td>t = 0.41,p = 0.681</td></tr><tr><td>特质焦虑（STAI-T)</td><td>40.25 ± 1.50</td><td>38.18 ± 1.35</td><td>t = 1.03,p = 0.306</td></tr><tr><td>认知重评使用频率(ERQ-R)</td><td>30.38 ± 0.65</td><td>30.65 ± 0.77</td><td>t = -0.27,p= .786</td></tr></table></body></html>
+
+独立样本t检验（双尾）。表中的描述统计量表示为 $M \pm S E$
+
+# 2.2实验过程
+
+本研究为2（启动类型：认知重评/基线） $\times 2$ （tDCS组别：阳极刺激/伪刺激）的混合实验设计。其中启动类型为被试内变量，tDCS组别为被试间变量。
+
+主实验由两个block 组成，分别对应“基线”和“认知重评”两种启动条件（见图1A）。两个block的先后顺序在被试间平衡，block间被试进行 $6 0 ~ \mathrm { { m i n } }$ 的无关任务。每个block包含句子整理（60个试次）和图片浏览（30个试次）两种任务。每个block开始前，被试接受电流强度为 $1 . 5 \mathrm { m A }$ 的tDCS（阳极刺激组的电流持续 $1 0 \mathrm { m i n }$ ，伪刺激组只在开始时给予 $1 \mathrm { m i n }$ 的电流）。tDCS 结束后立刻开始实验。被试首先进行10试次的句子整理任务，紧接着进行5试次的图片浏览任务，反复6轮。认知重评启动紧跟简短的图片浏览任务，这样可以保证较强的启动效应。
+
+句子整理任务用于启动内隐情绪调节。在句子整理任务中（图1B）被试需在30s内从5个打乱顺序的词语中挑选4个词，组成一个语法正确的句子(Mauss etal.,2007)。被试需使用电脑小键盘将4个词的序号依次输入屏幕中的灰框内。认知重评block中，每个整理好的句子均包含一个与认知重评策略相关的词或短语，基线 block中则不包含任何与情绪调节相关的词或短语。研究表明，整理包含认知重评词义的句子，可启动对情绪情境进行认知重评的自动化目标追求，从而达到内隐情绪调节的效果(Williams et al.,2009; Yuan et al,2015a) 。
+
+图片浏览任务用于诱发被试的负性情绪。在图片浏览任务中（图1C），每张负性图片呈现5s，在此期间被试需要仔细观察图片并体验情绪，图片消失后，在0\~1连续标尺中报告自己当前的情绪效价。情绪评定通过鼠标单击表情轴完成，越靠近表情轴左端（0分）代表情绪越负，越靠近轴的右端（1分）代表情绪越正，鼠标点击后屏幕上会出现红色竖条（提示点击位置），被试需在5s内完成情绪评定。试次间的空屏间隔为1s。
+
+主实验结束半个小时后，被试需要对图片浏览中的60张图片进行9点效价评分（ $1 =$ 非常消极; $9 =$ 非常积极），以考察内隐情绪调节及tDCS的持续效应。
+
+为了确保内隐情绪调节操纵的有效性，实验结束后对每名被试进行了问卷调查，考察他们是否猜到了实验目的，以及在实验中是否主动进行了情绪调节。
+
+![](images/9849301e20757cfc9d97d23342e65f6d16b65fb38669ec2260f812986473e71b.jpg)  
+图1实验过程。A，任务流程图。B，句子整理任务的材料示例。C，图片浏览任务的单试次流程。
+
+# 2.3实验材料
+
+从国际情感图片系统（International Affective Picture System,IAPS; Lang et al.,1997）和中国情绪图片系统（Chinese Affective Picture System,CAPS；白露等，2005)共挑选负性图片60张。额外招募20
+
+同质被试对这60张图片的效价和唤醒度进行评定。随后这些图片被平均分配到两个block中。独立样本 $t$ 检验表明，图片的效价和唤醒度在两个block间均无显著差异，图片的效价为（ $_ t ( 5 8 ) = 0 . 1 3$ ， $p = 0 . 8 9 3$ ， $2 . 5 4 \pm 0 . 1 1$ VS. $2 . 5 2 \pm 0 . 1 4 ,$ ，唤醒度为（ $\dot { \mathbf { \zeta } } _ { t } ( 5 8 ) = - 0 . 5 0 , p =$ 0.622; $6 . 3 1 \pm 0 . 1 6$ VS. $6 . 4 4 \pm 0 . 1 9$ ）（1\~9点评分）。实验过程中，所有图像以相同的亮度和对比度显示在LCD屏幕的中央，视角为 $3 . 0 { \times } 3 . 5 ^ { \circ }$ 。
+
+实验共使用10个认知重评相关语句和10个情绪调节无关语句。认知重评相关句中含有一个与认知重评策略相关的启动词。例如，“旅行可以改变心情”中的“改变”。情绪调节无关句中
+
+含有任何与情绪调节策略相关的词汇。例如，“树木可以制造氧气”（图1B）。额外招募20名同质被试对这20个句子的效价和熟悉度进行评定。独立样本 $t$ 检验表明，认知重评相关句和情绪调节无关句在效价和熟悉度上均无显著差异，句子的效价为（ $t ( 1 8 ) = 0 . 2 6$ $p = 0 . 7 9 4$ ： $6 . 1 8 \pm 0 . 1 0$ Vs. $6 . 1 3 \pm 0 . 1 7$ ），熟悉度为（ $t ( 1 8 ) = 0 . 9 6$ 0 $p = 0 . 3 4 2$ ：， $5 . 9 9 \pm 0 . 1 2$ vs.$5 . 8 3 \pm 0 . 1 1$ ）（1\~9点评分）。这20个句子在实验中重复使用6次，每次使用时随机设置新的词序并加入不同的填充词（或称为干扰词），因此被试在不同的试次中对相同的句子也需要重新进行语义加工和句子整理。
+
+# 2.4tDCS参数设置
+
+本研究采用离线 tDCS刺激方案，主要原因有二：在线的 tDCS会在脑电数据中造成电流伪迹；电流刺激过程可能引起电极周围皮肤的不适感，影响被试执行实验任务。
+
+采用无线tDCS系统（NeuStim，博睿康科技股份有限公司，中国常州）。靶点脑区为vmPFC。参照同样选择vmPFC为靶点脑区的tDCS研究，本研究将阳极电极置于国际脑电10/20系统中的 $\mathrm { F } z$ 点和Fpz点之间的位置，阴极电极置于下巴中央，同时电流强度设置为$1 . 5 ~ \mathrm { m A }$ (Bulteau et al., 2022; Junghofer et al., 2017; Winker et al., 2018,2019,2020; Yin et al.,2021）。根据Junghofer等人所进行的基于有限元的tDCS 电流正向建模表明，这种电极位置和电流参数设置可使电流有效到达vmPFC，并最大限度地减少对其他脑区的影响（见Junghofer等人2017研究的图1）。
+
+通过一对用盐水浸泡过的 $3 \times 3 ~ \mathrm { c m }$ 大小的海绵电极施加 $1 . 5 \mathrm { m A }$ 的恒定电流。为减少电刺激引起的不适，在刺激的开始和结束阶段分别设置了30s的电流逐渐增强（fade in）和逐渐减弱（fadeout）的过程。阳极刺激组的被试接受 $1 . 5 \mathrm { m A }$ 电流 $1 0 ~ \mathrm { m i n }$ 。伪刺激组被试只在这 $1 0 \mathrm { m i n }$ 中的最初 $1 \mathrm { m i n }$ 接受逐渐增强又逐渐减弱的电流。已有研究表明， $1 \mathrm { m i n }$ 的电流刺激会让被试体验到与真刺激组相似的头皮感觉，但不会显著影响后续实验任务中大脑的神经活动(Mungee et al.,2014; Riva et al.,2015）。
+
+被试在实验结束后报告自己在接受tDCS电刺激过程中的负性体验，包括电刺激引起的生理难受程度和负性情绪程度等。1\~9点评分，分值越高表示负性体验越强烈。
+
+# 2.5脑电信号采集与分析
+
+脑电信号采集使用32通道无线放大器（NeuSen.W32，博睿康科技股份有限公司，中国常州）。采样率 $2 5 0 \mathrm { H z }$ ，电极阻抗低于 $1 0 \mathrm { k } \Omega$ 。在线记录时以左侧乳突作为参考电极，离线分析时以“全脑平均电位值”进行重参考。
+
+使用Matlab（ $\mathrm { \Delta \ v { 2 0 2 0 a } }$ ）软件对脑电数据进行预处理。以图片开始出现作为零时刻，依次进行以下处理：重参考、滤波（ $0 . 0 1 { \sim } 3 0 ~ \mathrm { H z }$ ）、分段（ $- 2 0 0 { \sim } 5 0 0 0 ~ \mathrm { m s }$ ）、基线矫正（-$2 0 0 { \sim } 0 ~ \mathrm { m s }$ ）、剔除波幅超过 $\pm 1 5 0 \mu \mathrm { V }$ 的试次。顶区LPP成分的波形使用 $\mathbf { P } z$ 及其周围电极（P3、P4、 $\mathbf { P } \mathbf { z }$ 、CP1和CP2）的平均波幅计算，时间窗根据课题组已有文献选取(Li et al.,2022;Zha0 etal.,2021)：以经典的P3成分结束为起点，内隐情绪调节结束为终点，即图片呈现后的1\~5s作为LPP时间窗。除了事前关注的顶区LPP，我们在脑电数据中还发现枕区的P1成分受实验变量的显著影响。对于枕区P1成分（事后分析），采用O1、O2、P7、P8的平均波幅来衡量，时间窗根据已有文献选取为 $1 0 0 { \sim } 1 5 0 ~ \mathrm { m s }$ (Clark&Hillyard,1996; Gu et al.,2020; Zhang et al.,2022; Zochowska et al.,2022）。本研究关注启动类型和 tDCS 组别对P1波幅的影响，不考察P1波幅的左右半球差异。
+
+# 2.6统计方法
+
+统计分析采用 SPSSStatistics 20.0（IBM，Somers，USA）。描述性统计量表示为“均值 $\pm$ 标准误”。显著性水平设定为0.05。采用作为方差分析的效应值。对自我情绪评分、图片效价评分、顶区LPP波幅、枕区P1波幅分别进行两因素重复测量方差分析，被试内因素为“启动类型”，被试间因素为“tDCS组别”。采用双尾皮尔逊相关对因变量进行探索性相关分析。
+
+# 3结果
+
+# 3.1行为结果
+
+80 名被试中，仅5名被试事后报告说他们察觉到了实验目的或在实验中主动进行了情绪调节（阳极刺激组3名，伪刺激组2名）。这说明大部分被试（ $94 \%$ ）在实验中处于内隐情绪调节状态。有否剔除此5名被试并不对统计结果产生明显影响。考虑到本研究主要关注tDCS效应（即组间差异），本部分报告了所有80名被试的实验结果。
+
+两组被试对tDCS电流刺激的负性体验均较弱，且不存在组间差异（表2）。
+
+自我情绪评分的结果表明，启动的主效应显著， $F ( 1 , 7 8 ) = 3 4 . 4 , p < 0 . 0 0 1 , - 0 . 3 0 6$ ：认知重评启动条件下的情绪评分（ $0 . 3 0 \pm 0 . 0 1$ ）比基线条件更加正性（ $0 . 2 6 \pm 0 . 0 1$ ），该结果说明了内隐情绪调节启动的有效性。tDCS 组别的主效应不显著， $F ( 1 , 7 8 ) = 1 . 6 , p = 0 . 2 1 1 , =$ 0.020：阳极刺激组的情绪评分（ $0 . 2 9 \pm 0 . 0 1$ ）比伪刺激组稍偏正性（ $\left( 0 . 2 7 \pm 0 . 0 1 \right.$ ）。最主要的发现是，启动类型和 tDCS 组别的交互作用显著： $F ( 1 , 7 8 ) = 5 . 7 , p = 0 . 0 1 9 , \ i = 0 . 0 6 8$ （图2A）。简单效应分析表明，认知重评启动条件下 $F ( 1 , 7 8 ) = 4 . 2 , p = 0 . 0 4 3 , = 0 . 0 5 1$ ，阳极刺激组的情绪评分（ $0 . 3 2 \pm 0 . 0 1$ ）比伪刺激组更偏正性（ $0 . 2 8 \pm 0 . 0 1$ ），但此组间差异在基线启动条件下不显著， $F ( 1 , 7 8 ) = 0 . 2 , p = 0 . 6 7 0 , = 0 . 0 0 2$ （阳极刺激组： $0 . 2 7 \pm 0 . 0 2$ ，伪刺激组：$0 . 2 6 \pm 0 . 0 2$ ）。探索性分析发现，情绪评分结果与被试的特质焦虑和抑郁水平成反比（表3，图2C）。
+
+主任务结束半个小时后的图片效价评分结果表明，启动类型的主效应边缘显著 $F ( 1 , 7 8 )$ $= 3 . 8 , p = 0 . 0 5 5 , = 0 . 0 4 6$ ：认知重评启动条件下的效价评分（ $2 . 9 6 \pm 0 . 1 0$ ）比中性启动条件（2号 $( 2 . 9 0 \pm 0 . 9 4$ ）更偏正性。tDCS 组别的主效应显著 $F ( 1 , 7 8 ) = 9 . 2 , p = 0 . 0 0 3 , = 0 . 1 0 6$ ：阳极刺激组的效价评分 $( 3 . 3 8 \pm 0 . 1 4$ ）比伪刺激组 $( 2 . 7 5 \pm 0 . 1 4$ ）更加正性（图2B）。
+
+A 0.5 \* B 5 \*\* \*\* tDCS组别443 CD@COEOOOOOO0O C0OOOOO0O。 @ 尔业圈 43 OO 。 D 伪刺激0.2 DOO。 O0OD 2 （）0.1。0.0 1基线 重评启动 基线 重评启动  
+C r= -0.380\*\* r= -0.266\*0.5 0.5△ △△ △ 8 △ △△ △0.4 g A。 。。 。0.3 0.3A △ 。 。 △ D 。0.2 。 O △ 0.2 A △。 。 品 。 。 。0.1 0.1。 。0 上 上 上 0 1 上20 30 40 50 60 70 0 10 20 30特质焦虑得分 抑郁得分
+
+表2两组被试对电流刺激的负性体验  
+
+<html><body><table><tr><td>变量</td><td>伪刺激组（n=40)</td><td>阳极刺激组(n=40)</td><td>统计结果</td></tr><tr><td>负性情绪程度（总体）</td><td>2.15 ± 0.22</td><td>2.62 ± 0.28</td><td>t = -1.32,p= 0.189</td></tr><tr><td>烦躁感</td><td>1.54 ± 0.16</td><td>1.79 ± 0.18</td><td>t =-1.03,p=0.304</td></tr><tr><td>生理难受程度（总体）</td><td>2.10 ± 0.16</td><td>2.29 ± 0.26</td><td>t = -0.61,p = 0.545</td></tr><tr><td>灼烧感</td><td>2.02 ± 0.20</td><td>2.22 ± 0.26</td><td>t = -0.60,p = 0.550</td></tr><tr><td>眩晕恶心感</td><td>1.40 ± 0.15</td><td>1.56 ± 0.20</td><td>t = -0.65,p = 0.516</td></tr></table></body></html>
+
+<html><body><table><tr><td>刺痛感</td><td>1.95 ± 0.21</td><td>2.61 ± 0.27</td><td>t= -1.84,p= 0.070</td></tr><tr><td>瘙痒感</td><td>2.18 ± 0.21</td><td>2.22 ± 0.19</td><td>t = -0.17,p = 0.862</td></tr><tr><td>舌部异味感</td><td>1.38 ± 0.18</td><td>1.75 ± 0.23</td><td>t = -1.26,p= 0.213</td></tr><tr><td>眼部闪烁感</td><td>1.52 ± 0.22</td><td>1.91 ± 0.22</td><td>t = -1.25,p = .214</td></tr></table></body></html>
+
+所有的评分均为1\~9点，1代表没有负性体验，9代表极端负性。独立样本t检验（双尾）。表中的描述统计量表示为 $M \pm S E$
+
+# 3.2 脑电结果
+
+LPP 波幅结果表明，启动的主效应显著， $F ( 1 , 7 8 ) = 7 0 . 3 , p < 0 . 0 0 1 , = 0 . 4 7 4$ ：认知重评启动条件下的LPP波幅（ $1 . 3 9 \pm 0 . 1 8$ ）显著低于基线条件（ $( 2 . 5 0 \pm 0 . 1 6 ) \$ ）。tDCS 组别的主效应显著， $F ( 1 , 7 8 ) = 7 . 9 , p = 0 . 0 0 6 , = 0 . 0 9 2$ ：阳极刺激组的LPP波幅（ $1 . 5 1 \pm 0 . 2 2 \mu \mathrm { V }$ ）低于伪刺激组 ( $2 . 3 9 \pm 0 . 2 2 ~ \mu \mathrm { V }$ ）。最主要的发现是，启动类型和tDCS组别的交互作用显著：$F ( 1 , 7 8 ) = 5 . 7$ $p = 0 . 0 1 9 , = 0 . 0 6 8$ （图3AC）。简单效应分析表明，认知重评启动条件下$F ( 1 , 7 8 ) = 1 1 . 0 , p = 0 . 0 0 1 , = 0 . 1 2 4$ ，阳极刺激组的LPP波幅（ $0 . 8 0 \pm 0 . 2 6 ~ \mu \mathrm { V }$ ）显著低于伪刺激组( $1 . 9 9 \pm 0 . 2 6 \mu \mathrm { V } .$ ），但此组间差异在基线启动条件下不显著， $F ( 1 , 7 8 ) = 3 . 1 , p = 0 . 0 8 0 { \mathrm { : } }$ $= 0 . 0 3 9$ （阳极刺激组： $2 . 2 2 \pm 0 . 2 2 \mu \mathrm { V }$ ，伪刺激组： $2 . 7 8 \pm 0 . 2 2 \mu \mathrm { V }$ ）。探索性分析发现，自我情绪评分结果与LPP波幅成反比（表3，图3B）。
+
+除了在假设阶段关注的LPP波幅，我们还意外发现双侧枕区的P1成分也显著受到实验变量的影响（图4）：tDCS 组别的主效应显著， $F ( 1 , 7 8 ) = 6 . 1 \$ $p = 0 . 0 1 6 , = 0 . 0 7 2$ ：阳极刺激组的P1波幅（ $4 . 7 1 \pm 0 . 4 0 ~ \mu \mathrm { V }$ ）低于伪刺激组（ $6 . 1 2 \pm 0 . 4 0 ~ \mu \mathrm { V }$ ）。启动的主效应不显著，两个自变量的交互作用不显著。
+
+![](images/cb36037c0682adfef649b164c3c7ce04d16187ecb5c59439a3900360b78f5795.jpg)  
+图3顶区晚正成分（LPP）。A，LPP平均波幅。图中的误差条（error bar）代表标准误。小圆圈表示单个被试的数据。B，自我情绪评分与LPP平均波幅的相关。为节省空间，图中仅画出总体样本（ $n = 8 0$ ）在重评启动条件下的相关。完整的相关结果见表3。小圆圈和小三角分别表示伪刺激组和阳极刺激组单个被试的数据。 $^ { * * * } p < 0 . 0 0 1$ ， $^ { * * } p < 0 . 0 1$ 。C，LPP波形图和地形图。波形为 $\mathrm { P z }$ 、P3、P4、CP1和CP2的平均波幅。地形图为时间窗 $1 { \sim } 5 \mathrm { ~ s ~ }$ 的平均值。
+
+![](images/24763af947dc78cbfd3d26244ed4d01325f86952471208ea3ac6234f71cdca7f.jpg)  
+图4枕区P1成分。A，P1平均波幅。图中的误差条（error bar）代表标准误。小圆圈表示单个被试的数据。1 $^ { \ast } p < 0 . 0 5$ 。B，P1波形图和地形图。该波形为O1、O2、P7和P8的平均波幅。地形图为时间窗 100\~150ms 的平均值。地形图中，由于未发现启动的主效应，合并“启动类型”的两个水平。
+
+表3自我情绪评分与被试特质及LPP波幅的相关  
+
+<html><body><table><tr><td rowspan="2">考察变量</td><td colspan="2">伪刺激组（n=40)</td></tr><tr><td>基线</td><td>重评启动</td></tr><tr><td>抑郁</td><td>r= -0.290</td><td>r= -.276</td></tr><tr><td>BDI-II</td><td>p=0.070</td><td>p= .085</td></tr><tr><td>特质焦虑</td><td>r = -0.347</td><td>r = -.379</td></tr><tr><td>STAI-T</td><td>p = 0.028</td><td>p = .016</td></tr><tr><td>认知重评频率 ERQ-R</td><td>r=0.058</td><td>r=.093</td></tr><tr><td>晚正成分波幅</td><td>p = 0.724</td><td>p = .570</td></tr><tr><td>LPP</td><td>r = -0.334 p = 0.035</td><td>r = -.431 p = .005</td></tr></table></body></html>
+
+自我情绪评分与“考察变量”之间的皮尔逊相关分析结果（双尾）。探索性分析， $p$ 值未进行多重比较矫正。
+
+<html><body><table><tr><td colspan="2">阳极刺激组(n=40)</td></tr><tr><td>基线</td><td>重评启动</td></tr><tr><td>r= -0.127 p = 0.434</td><td>r= -0.156 p = 0.337</td></tr><tr><td>r= -0.331 p = 0.037</td><td>r = -0.349 p = 0.027</td></tr><tr><td>r=-0.029 p=0.858</td><td>r=0.145 p= 0.372</td></tr><tr><td>r = -0.462</td><td>r = -0.396</td></tr><tr><td>p = 0.003</td><td>p = 0.011</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">总样本（n=80）</td></tr><tr><td>基线</td><td>重评启动</td></tr><tr><td>r=-0.211 p= 0.061</td><td>r = -0.226 p = 0.044</td></tr><tr><td>r = -0.341 p = 0.002</td><td>r = -0.380 p = 0.001</td></tr><tr><td>r=0.010 p = 0.927</td><td>r=0.123 p=0.278</td></tr><tr><td>r = -0.406</td><td>r = -0.427</td></tr><tr><td>p = 0.000</td><td>p = 0.000</td></tr></table></body></html>
+
+# 4讨论
+
+# 4.1腹内侧前额叶激活的即时效应
+
+本研究使用tDCS以考察vmPFC 在内隐情绪调节中的因果作用。与预期一致，我们发现阳极激活以vmPFC为代表的内侧前额叶导致了内隐情绪调节效果的显著增强。具体来说，我们发现内隐认知重评能同时下调负性情绪和脑电LPP波幅，并且这种下调作用在激活vmPFC的被试组中更显著。
+
+本研究主要的贡献在于：我们通过操纵vmPFC 的激活程度以考察该脑区在内隐情绪调节中的因果作用。启动类型和tDCS组别的交互作用表明，vmPFC在由启动诱发的内隐情绪调节中发挥了因果作用，激活vmPFC可明显增强内隐认知重评对负性情绪的下调效果。虽然以往研究已提示 vmPFC 是内隐情绪调节的重要脑区(Braunstein et al.,2017;Etkin et al,2015;Phillips et al.,2008;Rive et al.,2013），然而采用神经调控技术激活vmPFC，并对比考察启动和非启动的内隐情绪调节过程（对内隐情绪调节进行直接操纵），本研究尚属首次值得注意的是，我们发现的情绪调节效应的组间差异仅在认知重评启动条件下出现，在基线条件下没有组间差异。与我们的发现不同，Abend等人（2019）在没有启动内隐情绪调节的情况下（类似于我们的基线即中性启动条件），使用 tDCS 激活vmPFC并观察到了被试负性情绪的降低。我们认为这种不一致的结果可能与tDCS 电极位置的摆放不同有关。本研究中tDCS的电极放置于前额顶部（Fz点和Fpz点之间）和下巴，由电场模拟图可以看出(Junghofer et al.,2017)，如此设置电极位置可以使电流调控的脑区主要集中在VmPFC，同时可以减弱流经vmPFC邻近脑区（例如背内侧前额叶和眶额叶）的电流强度。而 Abend等人（2019）的研究将两个电极分别放置于前额（鼻根上方）和后脑（枕骨隆突下方），这就使整个大脑的矢向轴（包括：vmPFC、ACC、后扣带回、内侧枕区等）都接受到了电流刺激，因此Abend等人观测到的类似于情绪调节的效应很可能不是直接由VmPFC受到调控引起的。
+
+除了证明vmPFC是内隐情绪调节的关键脑区，我们还意外发现，激活vmPFC能在情绪刺激加工的早期阶段影响对刺激的注意。具体来说，我们发现在负性图片呈现后$1 0 0 { \sim } 1 5 0 ~ \mathrm { m s }$ 的早期注意阶段，vmPFC被激活的实验组比伪刺激组的P1波幅更小。P1成分反映了大脑对视觉刺激的早期注意，P1波幅越大代表被试对刺激投入的注意越多(Clark&Hillyard,1996)。例如，由于人们对负性情绪信息存在注意偏向，不少研究发现负性图片比正性和中性图片诱发更大的 P1 波幅(Carretié et al.,2004; Delplanque et al.,2004; Smith et al.,2003)。因此，本研究发现激活vmPFC引起P1波幅减小，表明 tDCS 阳极组被试对负性情绪刺激的早期视觉注意加工减弱。该结果提示，vmPFC除了参与较晚期的情绪调节过程，还会在情绪信息的早期视觉加工阶段减少对负性刺激的注意。与我们的发现一致，Junghofer等人（2017）结合脑磁图和tDCS技术发现，激活vmPFC导致早期（约 $1 0 0 ~ \mathrm { { m s } }$ ）视觉注意相关的枕叶和颞枕皮层对负性刺激的响应减弱。
+
+# 4.2腹内侧前额叶激活的持续效应
+
+最后本研究还发现，半小时后再次观看图片时，内隐情绪调节和阳极激活vmPFC 会持续影响被试对图片的再体验。具体来说，启动类型的主效应边缘显著，认知重评启动条件下的图片效价评分比基线条件更偏正性；tDCS 组别的主效应显著，vmPFC被激活的实验组比伪刺激组的效价评分更正性。以往研究发现，外显情绪调节会影响情绪刺激的再次体验(Erk et al.,2010; Hermann et al.,2017,2021）。例如，MacNamar等人(2011)发现，对负性图片进行认知重评， $3 0 \mathrm { m i n }$ 后情绪调节效果依然存在，体现为与对照条件相比，认知重评条件的图片效价评分更正、LPP波幅更小。同时，Walter等人(2009)发现，间隔 $1 0 \mathrm { m i n }$ 再次观看之前经过情绪调节的负性图片时，杏仁核的激活减少。因此，本研究结果表明，内隐情绪调节同样具有持续的改善情绪的潜力。但是也需要注意，本研究中我们发现的内隐情绪调节的持续效应较弱：启动类型对图片效价评分的主效应仅为边缘显著。这可能是因为短时的启动效应持续效果有限，后续研究应考虑使用多次训练的方式（例如连续训练一周，每天训练半小时）替代“启动”，从而提高内隐情绪调节的持续效果(Hopp et al,2011)。此外，我们还发现tDCS组别对图片效价评分有显著的主效应。先前有研究发现，激活vmPFC能影响被试再次面对负性刺激时的情绪反应，这可能与负性刺激的恐惧消退过程有关(Ditert et al.,2018;Guhn et al.,2014)。因此我们的发现可能表明，vmPFC 的激活促进了对负性图片的恐惧消退过程。
+
+# 4.3腹内侧前额叶在内隐情绪调节中的作用
+
+综合已有研究和本文的结果我们认为，vmPFC在调节负性情绪时可能具有至少三个方面的作用。首先，vmPFC 在视觉加工的早期阶段通过影响对负性刺激的注意(Wolf et al,2014)来调控自下而上的信息输入。接着，vmPFC作为信息整合和价值编码的核心脑区对信息进行整合，并计算刺激的情感价值(Roy et al.,2012;Winecoff et al.,2013）。具体来说，vmPFC通过与杏仁核、颞叶、腹侧纹状体的功能连接，提取相关的先验信息对刺激的情感价值进行评估(D'Argembeau et al.,2008; Sharot et al.,2007; Torrisi et al.,2018），并在情绪性信息加工的中晚期更新刺激的情感价值(Quirk et al.,2006; Roy et al.,2012;Winecoff et al,2013)。最后在情绪反应阶段，vmPFC作为抑制负性情绪反应的脑区，通过与杏仁核间的负向功能连接，自上而下地调节杏仁核的反应从而影响情绪表达(Diekhof et al.,2011;Johnstone et al.,2007; Motzkin et al.,2015;Urry et al.,2006）。例如，在恐惧消退过程中，vmPFC 负责消除编码在杏仁核中的条件性恐惧信号(Gottfried&Dolan,2004; Sotres-Bayon& Quirk,2010)，并通过影响情绪信息的记忆促进再次暴露的恐惧消退(Maren&Quirk,2004;Raij et al.,2018)。值得注意的是，vmPFC 的上述功能在外显情绪调节过程中需要外侧前额叶的调制和监管(He et al.,2020; Li et al.,2022; Ochsner et al.,2002; Ochsner & Gross,2005; Smith&Lane,2015; Zhao etal.,2021)，而在内隐情绪调节过程中vmPFC 可以相对独立的工作(Mauss et al.,2007; Zhang et al.,2020)，几乎不会消耗外侧前额叶的认知资源(Yang et al., 2015; Yuan et al., 2019） 。
+
+# 4.4主客观情绪测量指标的相关性
+
+本研究的另一个贡献在于，我们明确了自我情绪评分在测量内隐情绪调节效果中的有效性。自我情绪评分是情绪体验的直接测量，常用于检验外显情绪调节的效果(Mauss &Robinson,2009)，但其在内隐情绪调节研究中的应用存在争议。一些研究者提出，单侧的情绪评分（如只评负性或正性）可能会引起被试对实验目的的猜测，从而降低评分结果的可靠性(Haeffel& Howard,2010;Polivy&Doyle,1980)。因此一些内隐情绪调节研究并没有使用自我情绪评分作为调节效果的指标(Mocaiber et al.,2010; Payer et al.,2012;Williams etal.,2009)。本研究中，我们采用双侧评分方式（评分范围从负性到正性）来避免评分任务可能会引起的被试对实验目的的猜测。我们的结果表明，内隐认知重评启动可以有效降低自我情绪评分，并且自我情绪评分与客观指标——顶叶LPP波幅呈显著的负相关关系，这表明自我情绪评分在测量内隐情绪调节效果中具有较高的准确性(He et al.,2020;Li et al,2022; Schupp et al., 2000; Shafir et al., 2015,2016; Zhao et al., 2021）。
+
+# 4.5研究展望
+
+下一步研究可以从以下四个方面展开。第一，本研究验证了vmPFC在内隐情绪调节过程中的因果作用，但测量的指标仅限于自我情绪评分和脑电信号。先前研究表明情绪调节也会引起皮肤电导反应(Raio etal.,2013)、心率变异性(Williams etal.,2009)以及瞳孔直径(Robinson etal.,2021)等外周生理指标的变化。未来研究可以考虑通过多种测量手段验证内隐情绪调节的效果。第二，本研究招募的被试均为健康大学生，激活vmPFC 促进内隐情绪调节的潜在临床应用价值还需要来自抑郁症等临床样本的实验支持。第三，本研究主要关注单次tDCS干预和句子整理任务启动后的短暂的内隐情绪调节效应，未来研究可以考察多次tDCS 治疗并结合反复的启动训练对内隐情绪调节能力的长期提高效果。第四，本研究虽然采用tDCS瞄准了vmPFC，但无法避免电流同时流经vmPFC 的周边脑区（例如背内侧前额叶、眶额叶等），这影响了本研究结论的准确性。我们期盼有更多的方法学研究，致力于探讨如何更精确的采用tDCS瞄准vmPFC等较深层的脑区。已有研究提示，采用多电极模式可以较好地将电流集中到目标靶区，同时减少非目标脑区的电流密度(Martinez-Pérez etal.,2020;Sergiou etal.,2022)。后续研究可采用此方法进行尝试。
+
+# 5结论
+
+为揭示vmPFC在内隐情绪调节中的因果作用，本研究采用 tDCS 阳极激活以vmPFC为代表的内侧前额叶，并使用句子整理任务启动内隐认知重评。研究结果表明，激活vmPFC能显著促进内隐情绪调节，在内隐认知重评启动条件下，vmPFC激活导致观看负性情绪图片的被试报告的负性情绪更弱、被负性情绪图片诱发的顶区LPP波幅更小。同时我们发现，激活vmPFC能减弱被试对负性刺激的早期注意分配。本研究表明，以vmPFC为代表的内侧前额叶是内隐情绪调节的关键脑区，临床可以通过激活vmPFC并配合内隐情绪调节认知训练，提高情绪障碍等精神病患者对负性情绪的调节能力。
+
+Abend,R.,ar-El,R.,Gonen,T.,Jalon,1., Vaisvaser,S.,Bar-Haim,Y.,&Hendler,T. (219).Modulatig emotional experience using electrical stimulation of the medial-prefrontal cortex: a preliminary tDCS-fMRI study. Neuromodulation: Technology at the Neural Interface, 22(8), 884-893. https://doi.org/10.111/ner.12787   
+Bai, L.,Ma,H., Huang,Y. X.,& Luo,Y.J.(20o5).The development of native Chinese affective picture system—A pretest in 46 colege students. Chinese Mental Health Journal,19,719-722. https://doi.0rg10.3321/j.issn:1000-6729.2005.11.001   
+[白露,马慧,黄宇霞,罗跃嘉.(2005).中国情绪图片系统的编制——在46名中国大学生中的试用.中国心理 卫生杂志,19(11),4.]   
+Beck,A.T., Steer, R.A.,& Brown, G.K.(1996).Beck depression inventory (2nd ed.). San Antonio,TX: The Psychological Corporation.   
+Braunstein,L.M., Gros,J. J.,& Ochsner, K. N. (2o17). Explicit and implicit emotion regulation: A multi-level framework. Social Cognitive and Affective Neuroscience,12(10),1545-1557. https://doi.org/10.1093/scan/nsx096   
+Bulteau,S.,Laurin,A.,Bach-ngohou,K.,Peré,M.,Vibet,M.A.,Hardouin,J.B.Sebille,V.,Lagalice,LFurepaul,E.,Acier,D.,Rabeyron,T.,Riche,V.P.,Sauvaget,A.,Melki,F, Vigier,T.,DaSilva,M.P.,Charlet, O.,& Prié,Y.(2O22). Feasibility of combining transcranial direct current stimulation and active fully embodied virtual reality for visual height intolerance: Adouble-blind randomized controled study. Journal of Clinical Medicine,11(2). https://doi.org/10.3390/jcm11020345   
+Campbell-Sills,L.,Barlow,D.H.,Brown,T.A.,& Hofmann,S.G. (2006). Efects ofsuppresion and acceptance on emotional responses of individuals with anxiety and mood disorders. Behaviour Research and Therapy, 44(9),1251-1263.htps://doi.0rg/10.1016/j.brat.2005.10.001   
+Carretie,L.,Hinojosa, J.A., Martin-Loeches,M., Mercado,F.,& Tapia, M. (2004). Automatic atention to emotional stimuli: Neural correlates. Human Brain Mapping,22(4),290-299. https://doi.0rg/10.1002/hbm.20037   
+Clark,V.P.,& Hillyard, S.A. (1996). Spatial selective atention affects early extrastriate but not striate components of the visual evoked potential. Journal of Cognitive Neuroscience, 8(5),387-402. https://doi.org/10.1162/jocn.1996.8.5.387   
+Custers,R.,& Aarts,H. (2010).The unconscious wil: How the pursuit of goals operates outside of conscious awareness. Science,329(5987),47-50.https://doi.org/10.1126/science.1188595   
+D'Argembeau,A., Xue, G.,Lu, Z.L., Van der Linden,M., & Bechara,A. (20o8). Neural correlates of envisioning emotional events in the near and far future. NeuroImage,40(1),398-407. https://doi.org/10.1016/j.neuroimage.2007.11.025   
+Delgado,M.R., Beer,J. S.,Fellows,L. K.,Huettel, S.A.,PlattM.L., Quirk, G.J.,& Schiller,D. (2016). Viewpoints: Dialogues on the functional role of the ventromedial prefrontal cortex. Nature Neuroscience, 19(12),1545-1552. https://doi.org/10.1038/nn.4438   
+Delplanque,S.,Lavoie,M.E., Hot,P., Silvert,L.,& Sequeira,H. (204). Modulation ofcognitive processing by emotional valence studied through event-related potentials in humans.Neuroscience Letters,356(1),1-4. https://doi.org/10.1016/j.neulet.2003.10.014   
+Diekhof,E.K., Geier,K.,Falkai,P.,& Gruber,O. (2011).Fear is onlyas deepas the mind allows.Acoordinate based meta-analysis of neuroimaging studies on the regulation of negative affect. NeuroImage,58(1), 275- 285. https://oi.org/10.1016/j.neuroimage.2011.05.073   
+Dittert,N., Hutner,S.,Polak,T.,& Herrmann,M.J. (2018). Augmentationoffear extinction bytranscranial direct current stimulation (tDCS). Frontiers in Behavioral Neuroscience,12,76. https://doi.org/10.3389/fnbeh.2018.00076   
+Erk,S.,Mikschl,A., Stier,S., Ciaramidaro,A., Gapp, V., Weber,B.,& Walter,H. (201).Acuteand sustained effects of cognitive emotion regulation in major depression. Journal of Neuroscience,30(47),15726-15734. https://doi.0rg/10.1523/JNEUROSCI.1856-10.2010   
+Etkin,A.,Büchel, C.,& Gross, J. J. (2o15). The neural bases of emotion regulation. Nature Reviews. Neuroscience,16(11), 693-700. https:/oi.org/10.1038/nrm4044   
+Foti, D., & Hajcak, G. (20o8). Deconstructing reappraisal: Descriptions preceding arousing pictures modulate the subsequent neural response. Journal of Cognitive Neuroscience, 20(6), 977-988. https://doi.0rg/10.1162/jocn.2008.20066   
+Garmefski, N.,& Kraaij, V. (2oo6). Relationships between cognitive emotion regulation strategies and depressive symptoms: Acomparative study of five specific samples. Personality and Individual Differences, 40(8), 1659-1669. https:/oi.org/10.1016/j.paid.2005.1.009   
+Garnefski,N., Rieffe,C., Jellesma,F., Terwogt,M.M.,&Kraaij, V. (2007). Cognitive emotion regulation strategies and emotional problems in 9-11-year-old children: The development of an instrument. European Child and Adolescent Psychiatry,16(1),1-9. htps://doi.org/10.1007/s00787-006-056-3   
+Gilam, G.,Abend,R., Gurevitch, G.,Erdman,A.,Baker,H.,Ben-Zion,Z.,& Hendler,T.(2018). Atenuating anger and aggresson with neuromodulation of the vmPFC: A simultaneous tDCS-fMRI study. Cortex,109,156- 170. https://doi.0rg/10.1016/j.cortex.2018.09.010   
+Gottfried, J.A.,& Dolan,R.J.(Oo4). Human orbitofrontal cortex mediates extinction learning while acssing conditioned representations of value. Nature Neuroscience,7(10),1144-1152. https://doi.org/10.1038/nn1314   
+Gross, J. J. (1998). Antecedent- and response-focused emotion regulation: divergent consequences for experience, expression, and physiology. Journal of Personality and Social Psychology,74(1),224-237. https://doi.0rg/10.1037//0022-3514.74.1.224   
+Gross, J. J.,& John,O.P. (2oo3). Individual diferences in two emotion regulation processes: Implications for affect, relationships,and well-being. Journal of Personality and Social Psychology,85(2),348-362. https://doi.0rg/10.1037/0022-3514.85.2.348   
+Gu, R.,Ao, X., Mo,L.,& Zhang,D. (2020). Neural correlates of negative expectancy and impaired social feedback processing in social anxiety. Social Cognitive and Affctive Neuroscience,15(3),285-291. https://doi.org/10.1093/scan/nsaa038   
+Guhn,A., Dresler,T.,Andreata,M.,Muller,L.D.,Hahn,T.,Tupak,S.V.,Polak,T.,Deckert,J.,&Herrmann,. J. (2014). Medial prefrontal cortex stimulation modulates the processng of conditioned fear. Frontiers in Behavioral Neuroscience,8,44. https://doi.org/10.3389/fnbeh.2014.00044   
+Gyurak,A.,Gross,J.J.,& Etkin,A. (2011). Explicit and implicit emotion regulation: A dual-processframework. Cognition and Emotion,25(3),400-412. htps://oi.org/10.1080/0269931.2010.544160   
+Haeffel, G.J.,& Howard, G.S. (2010). Self-report: Psychology's four-letter word. The American Journalof Psychology,123(2),181-188. https://doi.org/10.5406/amerjpsyc.123.2.0181   
+Hajcak, G., Macnamara,A.,& Olvet,D.M. (2010).Event-related potentials,emotion,and emotion regulation: An integrative review. Developmental Neuropsychology,35(2),129-155. https://doi.0rg/10.1080/87565640903526504   
+Hajcak, G.,& Nieuwenhuis, S. (2006). Reappraisal modulates the electrocortical response to unpleasant pictures. Cognitive,Affective & Behavioral Neuroscience,6(4),291-297. https://doi.org/10.3758/cabn.6.4.291   
+He,Z.,Zhao,J.,Shen,J.,Muhlert,N.,Elliot,R.,& Zhang,D. (202O).The right VLPFCand downregulationof social pain: A TMS study. Human Brain Mapping,41(5),1362-1371. htps://doi.org/10.1002/hbm.24881   
+Hermann, A., Kres,L., & Stark,R. (2017). Neural correlates of immediate and prolonged efects ofcognitive reappraisal and distraction on emotional experience. Brain Imaging and Behavior, 11(5),1227-1237.
+
+https://doi.0rg/10.1007/s11682-016-9603-9 Hermann,A.,Neudert,M.K.,Schafer,A.,Zehtner,R.I.,Fricke,S.,Seinsche,R.J.,& Stark,R.(2021).Lasting effects of cognitive emotion regulation: neural correlates of reinterpretation and distancing. Social Cognitive and Afective Neuroscience,16(3),268-279. https:/doi.org/10.1093/scan/nsaa159 Hermann,A.,Schafer,A., Walter,B., Stark,R., Vaitl,D.,& Schienle,A. (2o09). Emotion regulation in spider phobia: role of the medial prefrontal cortex. Social Cognitive and Affective Neuroscience, 4(3),257-267. https://doi.org/10.1093/scan/nsp013 Hiser, J.,& Koenigs,M. (2018). Review the multifaceted role ofthe ventromedial prefrontal cortex in emotion, decision making, social cognition,and psychopathology. Biological Psychiatry, 83(8), 638-647. https://doi.org/10.1016/j.biopsych.2017.10.030 Hoid,D.,Pan,D.ni, Wang,Y.,&Li,X. (2020). Implicit emotion regulationdeficits in individuals withhigh schizotypal traits: AnERP study. Scientific Reports,10(1),1-12. https:/doi.org/10.1038/s41598-020-60787- Hopp,H.,Troy,A. S.,& Mauss,I.B. (2ol1). The unconscious pursuit of emotion regulation: Implications for psychological health. Cognition and Emotion,25(3),532-545. https://doi.0rg/10.1080/02699931.2010.532606 Johnstone,T., Van Reekum, C.M., Urry,H.L.,Kalin,N.H.,& Davidson,R.J. (20o7).Failure to regulate: Counterproductive recruitment of top-down prefrontal-subcortical circuitry in major depression. Journal of Neuroscience,27(33), 8877-8884. https://doi.0rg/10.1523/JNEUROSCL.2063-07.2007 Junghofer, M., Winker, C.,Rehbein,M.A.,& Sabatinelli,D. (2017). Noninvasive stimulationof the ventromedial prefrontal cortex enhances pleasant scene processing. Cerebral Cortex, 27(6),3449-3456. https://doi.org/10.1093/cercor/bhx073 Koole, S.L.,& Rothermund, K. (2011). “I felbetter but Idon't know why": The psychology of implicit emotion regulation. Cognition and Emotion,25(3),389-399. https://doi.org/10.1080/02699931.2010.550505 Koole,S.L., Webb,T.L., & Sheeran, P.L. (2015). Implicit emotion regulation: feling better without knowing why. Current Opinion in Psychology,3,6-10. https://doi.org/10.1016/j.copsyc.2014.12.027 Lang,P.J.,Bradley,M.M.,& Cuthbert,B.N. (1997).International affective picture system (IAPS): Technical manual and affective ratings.NIMH Center for the Study of Emotion and Atention,1(39-58),3. Li,H.,& Yuan,J. (2018).The emotion regulation effect of unconscious distraction on the subclinical depression. Chinese Science Bulletin,63(20),2057-2070.https://doi.org/10.1360/N972017-01253 [李红,& 袁加锦.(2018).无意识注意分散对抑郁人群的情绪调节效应.科学通报,63(20),14.] Li, S.,Xie,H., Zheng,Z., Chen,W.,Xu,F.,Hu,X.,& Zhang,D. (2022). The causalrole of the bilateral ventrolateral prefrontal cortices on emotion regulation of social feedback. HumanBbrain Mapping, 43(9), 2898-2910.htps://doi.org/10.1002/hbm.25824 Liu,B.,Wang,Y.,&Li,X. (2018). Implicit emotion regulation deficits intrait anxiety: An ERP study. Frontiers in Human Neuroscience,12,382. htps://doi.org/10.3389/fnhum.2018.00382 Liu, Y.,Huang, H.,McGinnis-Deweese, M., Keil,A.,& Ding, M. (2012). Neural substrate of the late positive potential in emotional processing. Journal of Neuroscience, 32(42),14563-14572. https://doi.0rg/10.1523/JNEUROSCI.3109-12.2012 MacNamara,A., Ochsner, K. N.,& Hajcak, G. (2011). Previously reappraised: The lasting effect of description type on picture-elicited electrocortical activity. Social Cognitive and Afective Neuroscience, 6(3),348-358. https://doi.org/10.1093/scan/nsq053 Maren, S., & Quirk, G. J.(20o4). Neuronal signalling of fear memory. Nature Reviews. Neuroscience,5(11), 844 852. https://doi.org/10.1038/nrn1535 Martinez-Pérez, V., Campoy, G., Palmero,L.B.,& Fuentes,L. J. (202o). Examining the dorsolateral and
+
+ventromedial prefrontal cortex involvement in the self-attention network: A randomized, sham-controlled, parallel group, double-blind,and multichannel HD-tDCS Study. Frontiers in Neuroscience,14, 683. https://doi.org/10.3389/fnins.2020.00683 Mauss,I. B., Cook, C.L.,& Gross,J.J. (2o07). Automatic emotion regulation during anger provocation. Journal of Experimental Social Psychology, 43(5), 698-711. https://doi.org/10.1016/j.jesp.2006.07.003 Mauss,I. B.,&Robinson,M.D.(20o9).Measures of emotion: Areview. Cognition and Emotion,23(2),209-237. https://doi.0rg/10.1080/02699930802204677 Mocaiber,1.,Pereira,M.G.,Erthal,F.S.,Machado-Pinheiro, W.,David,1.A,Cagy,., Volchan,E,&de Oliveira,L. (2010).Fact or fiction?An event-related potential study ofimplicit emotion regulation. Neuroscience Leters, 476(2), 84-88. https://doi.org/10.1016/j.neulet.2010.04.008 Motzkin,J.C.,Philippi,C.L., Wolf,R.C., Baskaya,M. K.,& Koenigs,M. (2015). Ventromedial prefrontalcortex is critical for the regulation of amygdala activity in humans. Biological Psychiatry,77(3),276-284. https://doi.0rg/10.1016/j.biopsych.2014.02.014 Mungee,A.,Kazzer,P.,Feeser,M.,Nitsche,M.A.,Schiller,D.,&Bajbouj,M. (2o14).Transcranial directcurret stimulation of the prefrontal cortex. NeuroReport, 25(7),480-484. https://doi.0rg/10.1097/WNR.0000000000000119 Ochsner, K.N., Bunge,S.A., Gross, J.J.,& Gabrieli,J.D.(2002).Rethinking felings: An fMRI studyofthe cognitive regulation of emotion. Journal of Cognitive Neuroscience,14(8),1215-1229. https://doi.0rg/10.1162/089892902760807212 Ochsner, K.N.,& Gross,J.J. (2oo5). Thecognitive control of emotion.Trends inCognitive Sciences,9(5),242 249. https://doi.0rg/10.1016/j.tics.2005.03.010 Ochsner, K.N.,Silvers,J.A.,&Buhle,J.T. (2ol2).Functional imaging studies ofemotionregulation:Asynthetic review and evolving model of the cognitive control of emotion. Annals of the New York Academy of Sciences,1251,E1-E24. https:doi.0rg/10.1111/j.1749-6632.2012.06751.x Payer, D.E., Baicy, K.,Lieberman, M.D.,&London,E.D. (2012). Overlapping neural substrates between intentional and incidental down-regulation of negative emotions. Emotion,12(2),229-235. https://doi.org/10.1037/a0027421 Pfabigan, D.M., Alexopoulos, J., Bauer,H.,& Sailer, U. (2011). Manipulation of feedback expectancyand valence induces negative and positive reward prediction error signals manifest in event-related brain potentials. Psychophysiology, 48(5), 656-664. htps://doi.org/10.111/j.1469-8986.2010.01136.x Philips,M.L., Ladouceur, C.D., & Drevets, W.C.(20o8). A neural model of voluntaryand automatic emotion regulation: implications for understanding the pathophysiology and neurodevelopment of bipolar disorder. Molecular Psychiatry,13(9),829-857. https://doi.org/10.1038/mp.2008.65 Polivy, J.,& Doyle,C.(1980).Laboratory induction of mood states through the reading of self-referent mood statements: Affective changes or demand characteristics? Journal of Abnormal Psychology, 89(2),286-290. https://doi.0rg/10.1037//0021-843x.89.2.286 Quirk,G.J., Garcia,R.,& Gonzalez-Lima,F. (2oo6).Prefrontal mechanisms in extinctionofconditioned fear Biological Psychiatry,60(4),337-343.htps://oi.org/10.1016/j.biopsych.2006.03.010 Raij,T.,Nummenmaa,A., Marin,M.F.,Porter,D.,Furtak, S.,Setsompop,K.,& Milad,M.R. (2018).Prefrontal cortex stimulation enhances fear extinction memory in humans. Biological Psychiatry,84(2),129-137. https://doi.org/10.1016/j.biopsych.2017.10.022 Raio, C.M., Orederu,T.A.,Palazzolo,L., Shurick,A.A.,& Phelps,E.A. (2013).Cognitive emotion regulation fails the stress test. Proceedings of the National Academy of Sciences of the United States of America, 110(37),15139-15144. https://doi.0rg/10.1073/pnas.1305706110 Riva,P.,Lauro,L.J.R.,Nathan DeWal, C., Chester,D.S.,& Bushman,B.J.(2015). Reducing aggresive
+
+responses to social exclusion using transcranial directcurrent stimulation.Social Cognitive and Affective Neuroscience,10(3),352-356.https://doi.org/10.1093/scan/nsu053
+
+Rive,M.M., van Rooijen, G., Veltman,D.J.,Phillips,M.L., Schene,A.H.,& Ruhé,H. G. (2013).Neural correlates of dysfunctional emotion regulation in major depressive disorder. A systematic review of neuroimaging studies. Neuroscience and Biobehavioral Reviews,37(10 Pt 2),2529-2553. https://doi.org/10.1016/j.neubiorev.2013.07.018
+
+Robinson,H.,Sheen,E.,Siwinski,R.,Mu,J.,&Compton,R.J.(2O21).Findthesilverlining orignorethecloud? Cognitive reappraisal versus visual attention training. Emotion,21(6),1204-1212. https://doi.0rg/10.1037/emo0000983   
+Roy,M., Shohamy, D.,& Wager,T.D. (2012). Ventromedial prefrontal-subcortical systemsand the generation of affective meaning. Trends in Cognitive Sciences,16(3),147-156. https:/doi.org/10.1016/j.tics.2012.01.005   
+Schonfelder, S., Kanske,P.,Heissler,J.,& Wess, M. (20l3).Time course of emotion-related respondingduring distraction and reappraisal. Social Cognitive and Affective Neuroscience, 9(9),1310-1319. https://doi.org/10.1093/scan/nst116   
+Schupp,H.T., Cuthbert,B.N., Bradley,M.M.,Cacioppo,J.T.,Tany,I.,&Lang,P.J. (2oo). Affective picture processing: The late positive potential is modulated by motivational relevance.Psychophysiology, 37(2), 257-261. https://doi.0rg/10.1017/S0048577200001530   
+Sergiou,C.S.antarnecchi,E.,Romanela,S..,Wieser,M.J.,Franken,I,Rassin,E.,&vanDongen,J.(22). Transcranial direct current stimulation targeting the ventromedial prefrontal cortex reduces reactive aggression and modulates electrophysiological responses in a forensic population. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging,7(1),95-107. htps://doi.org/10.1016/j.bpsc.2021.05.007   
+Shafir,R.,Schwartz,N.,Blechert,J.,& Sheppes,G.(20l5).Emotional intensity influences pre-implementation and implementation of distraction and reappraisal. Social Cognitive and Affective Neuroscience,10(10), 1329-1337. htps://doi.org/10.1093/scan/nsv022   
+Shafir,R., Thiruchselvam,R.,Suri, G., Gross,J.J.,& Sheppes, G. (2016). Neural processing of emotionalintensity predicts emotion regulation choice. Social Cognitive and Affective Neuroscience,11(12),1863- 1871. https://doi.org/10.1093/scan/nsw114   
+Sharot, T., Riccardi, A. M., Raio, C.M.,& Phelps, E.A. (2oo7). Neural mechanisms mediating optimismbias. Nature,450(7166),102-105.https://doi.org/10.1038/nature06280   
+Smith,N. K., Cacioppo,J.T.,Larsen, J.T.,& Chartrand,T.L. (2oo3). May Ihave your attention, please: Electrocortical responses to positive and negative stimuli. Neuropsychologia, 41(2),171-183. https://doi.0rg/10.1016/S0028-3932(02)00147-1   
+Smith,R.,& Lane,R.D.(2ol5).The neural basis of one's own conscious and unconscious emotional states. Neuroscience and Biobehavioral Reviews,57,1-29. https://doi.org/10.1016/j.neubiorev.2015.08.003   
+Sotres-Bayon,F.,& Quirk,G.J. (20l0).Prefrontal control offear: More than just extinction. Curent Opinion in Neurobiology,20(2),231-235. https://doi.0rg/10.1016/j.conb.2010.02.005   
+Spielberger,C.D.,Gorsuch,R.L.,Lushene,R.E.,Vagg,P.R.,&Jacobs,G.A.(1983).Manual for the state-trait anxiety inventory (form Y1-Y2). Palo Alto, CA: Consulting Psychologist Press.   
+Suri, G., Whittaker, K.,& Gross, J. J. (2o15). Launching reappraisal: It's less common than you might think. Emotion,15(1),73-77. https://doi.org/10.1037/emo0000011   
+Torrisi,S., Gorka,A. X., Gonzalez-Castillo,J.,O'Connell,K.,Balderston,N.,Grilln,C.,&Ernst,M.(2018). Extended amygdala connectivity changes during sustained shock anticipation. Translational Psychiatry, 8(1). https://doi.0rg/10.1038/s41398-017-0074-6   
+Urry, H.L., Van Reekum, C.M.,Johnstone,T.,Kalin,N.H.,Thurow,M.E.,Schaefer,H.S.,Jackson,C.A.,Frye, C. J., Greischar,L.L., Alexander,A.L.,& Davidson,R.J. (2oo6).Amygdala and ventromedial prefrontal cortex are inversely coupled during regulation of negative afect and predict the diurnal pattern of cortisol secretion among older adults. Journal of Neuroscience,26(16),4415-4425. https://doi.0rg/10.1523/JNEUROSCI.3215-05.2006   
+Wang,Y.,& Li,X. (2017). Temporal course of implicit emotion regulation during a Priming-Identify task: an ERP study. Scientific Reports,7, 41941. htps://doi.org/10.1038/srep41941   
+Walter,H.,von Kalckreuth,A.,Schardt,D.,Stephan,A., Goschke,T.,&Erk,S.(20o9).The temporal dynamicsof voluntary emotion regulation. PloS One, 4(8),e6726. https://doi.org/10.1371/journal.pone.0006726   
+Williams,L.E.,Bargh,J.A., Nocera, C.C.,& Gray, J.R. (2009). The unconscious regulation of emotion: nonconscious reappraisal goals modulate emotional reactivity. Emotion, 9(6), 847-854. https://doi.0rg/10.1037/a0017745   
+Winecoff,A.,ClitheroJ.A., Carter,R. M.K.,Bergman, S.R., Wang,L.,&Huetel,S.A. (213). Ventromedial prefrontal cortex encodes emotional value. Journal of Neuroscience,33(27),11032-11039. https://doi.0rg/10.1523/JNEUROSCI.4317-12.2013   
+Winker, C.,Rehbein,M.A.,Sabatineli,D.,Dohn,M.,Maitzen,J.,Roesmann,K., Wolters, C.H.,Arolt,V.,& Junghoefer, M. (2019). Noninvasive stimulation of the ventromedial prefrontal cortex indicates valence ambiguity in sad compared to happy and fearful face processing. Frontiers in Behavioral Neuroscience,13, 83.https://doi.org/10.3389/fnbeh.2019.00083   
+Winker, C.,Rehbein,M.A.,Sabatineli,D.,Dohn,M.,Maitzen,J.,Wolters,C.H.,Arolt, V.,&Junghofer,M. (2018).Noninvasive stimulation of the ventromedial prefrontal cortex modulates emotional face processing. NeuroImage,175,388-401. htps://doi.0rg/10.1016/j.neuroimage.2018.03.067   
+Winker, C., Rehbein, M.A., Sabatineli, D.,& Junghofer, M. (2020). Repeated noninvasive stimulation of the ventromedial prefrontal cortex reveals cumulative amplification of pleasant compared to unpleasant scene processing: A single subject pilot study. PloS One,15(1), e0222057. https://doi.org/10.1371/journal.pone.0222057   
+Wolf,R.C.,Philippi, C.L.,otzkin,J.C.,Baskaya,M.K.,& Koenigs,M.(2014).Ventromedial prefrontalcortex mediates visual attention during facial emotion recognition. Brain,137(6),1772-1780. https://doi.org/10.1093/brain/awu063   
+Wyczesany, M.,Adamczyk,A.K.,Ligeza,T.S.,Beres,A., & Marchewka,A. (2021). Implicit induction of emotional control-A comparative fMRI investigation of self-control and reappraisal goal pursuit. Emotion, 21(7),1379-1391. https://doi.org/10.1037/emo0000852   
+Xie,Y.,Hu, Z.,Ma, W.,Sang,B.,& Wang,M. (2019). Different neural correlates of automatic emotion regulation at implicit and explicit pereptual level: A functional magnetic resonance imaging study. I-Perception, 10(1). https://doi.0rg/10.1177/2041669519831028   
+Yang, Q.,Tang,P., Gu,R.,Luo, W.,& Luo, Y. (2015). Implicit emotion regulation affects outcome evaluation. Social Cognitive and Affective Neuroscience,10(6),824-831. https://doi.org/10.1093/scan/nsu124   
+Yin,S.,Bi,T., Chen,A.,&Egner,T. (2O21).Ventromedial prefrontal cortex drives the prioritizationof selfassociated stimuli in working memory. Journal of Neuroscience,41(9),2012-2023. https://doi.0rg/10.1523/JNEUROSCI.1783-20.2020   
+Yuan, Jiajin,Ding,N.,Liu,Y.,& Yang,J.(2O15a). Unconscious emotionregulation: Nonconscious reappraisal decreases emotion-related physiological reactivity during frustration. Cognition and Emotion, 29(6),1042- 1053. https://doi.0rg/10.1080/02699931.2014.965663   
+Yuan, JiaJin,Long, Q.,Ding,N.,Lou,Y.,Liu,Y.,&Yang,J. (2015b).Suppression dampens unpleasant emotion faster than reappraisal: Neural dynamics in a Chinese sample. Science China Life Sciences,58(5), 480-491. https://doi.0rg/10.1007/s11427-014-4739-6   
+Yuan,J.,Long, Q.,Li,X.,Deng,.,Ma,B., Chen,S.,& Yang,J. (2o19).Regulatoryeffect ofimplicitacceptance during outcome evaluation: The temporal dynamics in an event-related potential study. International Journal of Psychophysiology,141,37-44.htps://doi.org/10.1016/j.ijpsycho.2019.05.003   
+Zhang,D.,Ao,X., Zheng,Z.,Shen,J.,Zhang,Y.,& Gu,R. (2022). Modulating social feedback processing by deep TMS targeting the medial prefrontal cortex: Behavioral and electrophysiological manifestations. NeuroImage,250,118967.https://doi.org/10.1016/j.neuroimage.2022.118967   
+Zhang,Y., Chen,S.,Deng,Z., Yang,J.,& Yuan,J.(202O).Benefits of implicit regulation of instructed fear: evidence from neuroimaging and functional connectivity. Frontiers in Neuroscience,14,201. https://doi.org/10.3389/fnins.2020.00201   
+Zhao,J.,Mo,L.,Bi,R.,He,Z.,Chen,Y.,Xu,F.,Xie,H.,& Zhang,D.(2021).The VLPFC versus the DLPFC in downregulating social pain using reappraisal and distraction strategies. Journal of Neuroscience,41(6), 1331-1339.https://doi.org/10.1523/JNEUROSCI.1906-20.2020   
+Zhu, C.,Li,P.,Li,Y.,Jiang, Y.,Liu,D.,& Luo, W. (2022). Implicit emotion regulation improves arithmetic performance: An ERP study. Cognitive,Affective and Behavioral Neuroscience,22(3),574-585. https://doi.0rg/10.3758/s13415-021-00979-6   
+Zochowska,A., Jakuszyk,P.,Nowicka, M. M.,& Nowicka,A. (2022).Are covered faces eye-catching for us? The impact of masks on atentional processing of self and other faces during the COVID-19 pandemic. Cortex, 149,173-187.https://doi.org/10.1016/j.cortex.2022.01.015
+
+# Ventromedial prefrontal cortex plays a critical role on implicit emotion regulation: A tDCS study
+
+GAO Kexiang1,²; ZHANG Yueyao²; LI Sijin²; YUAN Jiajin1; LI Hongl; ZHANG Dandan1,2,3
+
+( Institute of Brain and Psychological Sciences,Sichuan Normal University,Chengdu 61oo66,China.) ( School ofPsychology/MRI Center,Shenzhen University, Shenzhen 518060,China) ( Shenzhen-Hong Kong Institute of Brain Science, Shenzhen 518055,China)
+
+# Abstract
+
+Emotion regulation is crucial to mental health and social life. Traditional view conceived emotion regulation as a deliberative process. However, there is growing evidence that emotion regulation can implement at an implicit level without or with limited involvement of the lateral prefrontal cortex (LPFC） that is responsible for cognitive control.Unlike explicit emotion regulation， we have few knowledge on the neural mechanisms underlying implicit emotion regulation. Here,we investigated the effect of excitatory the ventromedial prefrontal cortex (vmPFC) using transcranial direct current stimulation (tDCS) to provide causal evidence for the key role of the vmPFC in implicit emotion regulation.
+
+This study had a mixed design, with group (anodal vs. sham) as the between-subject factor and priming type (reappraisal vs. baseline) as the within-subject factor. A total of 80 participants were recruited and randomly assigned to the anodal group and the sham tDCS group. The task was divided into two blocks,i.e., the implicit reappraisal block and the baseline block. The order of the two blocks was counterbalanced within the participants in each group. At the beginning of each block, participants were required to complete a tDCS session ( $\mathrm { 1 . 5 \ : m A }$ ; 10 min for the active group and 1 min for the sham group). The anodal electrode was placed in the middle of $\mathrm { F } z$ and Fpz and the ground electrode was placed under the chin). Then, participants completed six sessons of sentence unscramble task (10 trials per session) to prime the emotion regulation goal. Each session of the sentence unscramble task was followed by a picture viewing task (5 trials） to evoke negative emotions. The self-reported emotion rating and EEG signals were recorded during the picture viewing task. Half an hour after the end of the picture viewing task, participants were asked to rate the valence（ $1 =$ very unpleasant; $9 =$ very pleasant) of all viewed images in the picture viewing task.
+
+The results showed that the experimental group ‘ ${ ( n = 4 0 ) }$ ）reported lower negative emotional experience and showed lower LPP amplitudes (measured as the average amplitude of $\mathrm { P z }$ P3, P4, CP1,CP2） when the vmPFC was activated in the cognitive reappraisal block compared to the control group ${ ( n = 4 0 ) }$ ), indicating that excitatory vmPFC could effectively facilitate the ability of implicit emotion regulation. Furthermore, we also found that excitatory vmPFC can reduce the P1 amplitude (measured as the average amplitude of O1, O2) under both baseline and reappraisal conditions.
+
+The above results indicated that activating the vmPFC could not only facilitate implicit emotion regulation but also reduce early attention distribution to negative stimuli.This study is the first attempt to use the tDCS technique to investigate priming-induced implicit emotion regulation. The results directly reveal the causal relationship between the vmPFC and implicit cognitive reappraisal, suggesting this brain region as a potential target of neural modulation to enhance the ability of implicit emotion regulation in clinical populations.
+
+Key words: ventromedial prefrontal cortex, implicit emotion regulation, transcranial direct current stimulation, priming, cognitive reappraisal

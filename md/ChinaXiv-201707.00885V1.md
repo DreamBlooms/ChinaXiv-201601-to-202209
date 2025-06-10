@@ -1,0 +1,193 @@
+# DOI: 10.5846/stxb201604220761
+
+张艳敏,王江涛,谭丽菊.海水中藻菌共培养体系对碳氮磷的吸收转化.生态学报,2017,37(14）;4843-4851.   
+ZhangYM，WngaUtakedasfoatobordosposfdcteite ActaEcologica Sinica,2017,37(14） :4843-4851.
+
+# 海水中藻菌共培养体系对碳氮磷的吸收转化
+
+张艳敏，王江涛，谭丽菊中国海洋大学化学化工学院，青岛266100
+
+摘要：海洋环境中,细菌和微藻之间的物质交换是生源要素在自然界中迁移转化的重要方式。为进一步了解生源要素的生物地球化学循环,在实验室模拟条件下,研究了共培养体系中营养盐和有机物在细菌和微藻之间的转换。通过纯培养中肋骨条藻（Skeletonema costatum）、东海原甲藻（Prorocentrum donghaiense）、天然海水中的细菌以及藻菌混合培养,分析了营养盐和有机物随藻菌生物量的变化情况,并计算了溶解有机碳(DOC)和溶解有机氮(DON)的浓度比值[ $( \mathrm { D O C } / \mathrm { D 0 N } ) _ { \textrm { a } } ]$ 。结果发现,在共培养体系中,细菌对中肋骨条藻的生长有抑制作用，对东海原甲藻影响不明显;中肋骨条藻有利于细菌生长，东海原甲藻抑制细菌生长,这种不同可能与微藻的粒径有关。海洋细菌在2种藻的指数生长均期均会促进微藻吸收氨氮( $\mathrm { N H } _ { 4 } { \cdot } \mathrm { N } \dot { \cdot }$ ),但在生长末期$\mathrm { N H } _ { 4 }$ -N以释放为主。硝氮( $\mathsf { N O } _ { 3 } – \mathsf { N }$ )的浓度与藻的生长呈负相关，但在衰亡期 $\mathrm { N O } _ { 3 }$ -N 略有增加,表明 $\mathrm { N O } _ { 3 }$ -N 再生所需时间较长。细菌对硝氮的吸收量较少,但对其再生有贡献。细菌和中肋骨条藻对磷酸盐( $\mathrm { P O } _ { 4 } { \cdot } \mathrm { P }$ )的吸收存在竞争，但与东海原甲藻的竞争关系不明显。不同培养体系中DOC 浓度变化不同,在藻菌共培养体系中增加较快,纯藻培养体系中增加缓慢,在纯菌培养体系中缓慢减少。通过对DOC 与DON 浓度比值的分析,发现用判断颗粒有机碳(POC)来源的方法可以分析DOC 的来源。
+
+关键词：细菌；共培养体系；生源要素；溶解有机碳
+
+# Uptake and transformation of carbon， nitrogen and phosphorus in the co-culture system of algae and bacteria in seawater
+
+ZHANG Yanmin，WANG Jiangtao，TAN Liju
+
+Collge of Chemistryand Chemical Engineering，Ocean Universityof China，Qingdao 2661Oo,China
+
+Abstract:In the marine environment,the exchangeof the substance betweenbacteriaand algaeis an important wayof the migrationandtransformationof biogenicelements inthenatural world.Inordertoobtainafurtherunderstandingof the biogeochemical cyclesofbiogenic elements，the transformationof nutrients（nitrogenand phosphorus）andorganic mater between marine bacteria and two types of algae（Skeletonema costatum and Prorocentrum donghaiense）were studied ina coculture or single-culture systemof algaeandbacteria basedonalaboratory-simulated experiment.The changesof nutrient and organiccarbon were trackedandthe biomass of bacteriaandthe two algae werecalculated.Inadition，the concentrationratio[（DOC/DON）]of dissolved organiccarbon（DOC）to disslved organic nitrogen（DON）in different culture systems wasanalyzed todetermine the sources oforganic mater.Theresults indicated that bacteria may inhibit the growth of S. costatum，but have little effects on growth of $P$ . donghaiense in the co-culture system. On the contratry， $S$ ： costatum accelerated the growth of bacteria，whereas $P$ . donghaiense suppressed the growth of bacteria，which is probably related tothe different sizes ofthetwoalgae.During the exponential growth phaseof thetwoalgae，bacteria promotedthe uptake of ammonia（ $\mathrm { N H } _ { 4 } { \cdot } \mathrm { N }$ ）bythe algae，however $\mathrm { N H } _ { 4 }$ -N was mainly released at the end stage of algae growth. The
+
+concentrations of nitrate（ $\mathrm { N O } _ { 3 }$ -N）and the biomass of algae showed a nearly negative correlation，but $\mathrm { N O } _ { 3 }$ -N increased slightly during the decline phase of algae，indicating that the regeneration of NO $^ 3$ -N took a longer time.Bacteria uptook little $\mathrm { N O } _ { 3 }$ -N,but contributed to the regeneration of NO -N. Bacteria and $S$ ，costatum competed for phosphate ( $\mathrm { P 0 } _ { 4 }$ -P）and $^ 3$   
+bacteria affected the uptake of $\mathrm { P O } _ { 4 }$ -P by S.costatum.There were not obvious different between concentrations of $\mathrm { P O } _ { 4 }$ -Pin co-culture of $P$ . donghaiense and bacteria from that in single culture of $P$ . donghaiense，which was in contrast to the results of the culture with $S$ .costatum.In the course of the culture，the concentration of DOC varied in different cultural systems. DOC increased rapidly in theco-culture systems ofbacteria and algae，whereas theconcentration of DOC increased slowly in thepurealgal systems，anddecreased slowlyinthesingle-culturebacterialsystem.Theanalysisoftheconcentrationratioof DOC and DON showed that the method of tracing the sourceof particulate organic carbon（POC）can also be used to trace the source of DOC.
+
+Key Words:bacteria；co-culture system；biogenic elements ；dissolved organic carbon
+
+细菌和微藻在自然界水体中广泛存在,它们对促进水环境中的物质循环、维持水生环境的生态平衡有非常重要的作用[1]。细菌和微藻有着独特的生态关系,藻、菌之间的相互作用对物质在微食物网中的生物化学循环起着关键作用[2-3]。藻类的水华是以消耗水体中的营养盐为代价的[4],藻类将海水中的营养元素转化为自身生长所需物质,通过细胞分泌、尸体自溶和细胞吞噬等方式向环境释放有机物,同时,溶解有机物又可以为浮游细菌提供食物来源[5-6],细菌吸收分解有机物后以无机或其他形式释放回海水中,为藻类提供生长所必须的营养物质[7],完成生源要素的微循环。作为主要的分解者,细菌对藻类的作用主要集中在营养改善（生源要素的提供、生长因子的转化）、信息素调节和协同保护[8-9]。藻类的生长、增殖和死亡,除了与环境中的温度、光照、盐度、营养物质等理化因子有密不可分的关系外,还与海洋细菌有密切的关系[10]。
+
+微生物驱动的碳、氮循环过程是全球生物地球化学循环的重要组成部分。海洋浮游生物对全球碳循环有深远的影响,光合微生物是形成海洋食物链的基础,但单细胞真核生物与有机体的相互作用对碳循环的影响远超出光合微生物的影响[11]。有研究发现,营养盐对异养细菌分解溶解有机碳的影响不大[12],细菌滤液对藻细胞增殖的影响与细菌浓度、细菌的种属特性以及藻细胞自身的生长阶段有关,细菌浓度较高对藻细胞生物量具有明显的抑制作用,而浓度较低则显示了一定程度的促进作用[13]。细菌对含有不同生源要素有机物的分解利用存在差异,具有相同结构但不同生源要素有机物的矿化速率不同[14]。氮是细胞生物量中第4个最丰富的元素,生物固氮对海洋氮循环具有重要作用,生物固氮效率的高低不仅会造成生态系统从氮限制向磷限制转变,还会对寡营养海域的新生产力和磷循环产生重要的影响[15-16]。磷是浮游植物和细菌生长的必需元素,磷的重新分布可以造成微生物群落重塑[17-18]。由此可见,海洋浮游细菌的存在及生命活动决定着水域食物链基本环节的发展[1-20]。近几年来,关于自然环境中碳氮磷循环的研究、微生物对有机物的矿化作用研究以及藻类对营养盐的吸收利用研究越来越多[21-22],但关于营养盐和有机物在藻菌之间转换关系的研究较少。本文通过室内模拟实验,在共培养条件下对营养盐和有机物在藻菌之间的转化关系进行探讨,以期了解海洋微生物在生源要素转换过程中的作用,进一步探索生源要素的生物地球化学循环规律。
+
+# 1材料和方法
+
+# 1.1水样采集和处理
+
+水样于2015年7月采集于青岛近海，采集深度 $5 \mathrm { m }$ 。水样采集后，先用孔径为 $0 . 4 5 \mu \mathrm { m }$ 的聚碳酸酯滤膜过滤，除去浮游藻类，滤液即为实验所用海水。
+
+# 1.2藻种及培养条件
+
+实验选取中国东海最常见藻种—中肋骨条藻（Skeletonemacostatum）和东海原甲藻（Prorocentrumdonghaiense)进行培养,均来自中国海洋大学海洋污染生态化学实验室藻种库,用f/2培养液培养到指数生长期时开始接种。细菌来自天然海水中的混合菌种,主要包括：变形杆菌门（Proteobacteria）、蓝细菌门（Cyanobacteria）、拟杆菌门（Bacteroidetes）和浮霉菌门（Planctomycetes）4个门类,其中 $\alpha$ -Proteobacteria为优势菌,其次为蓝细菌门和拟杆菌门[23]。培养体系的细菌初始密度约为 $3 . 1 \times 1 0 ^ { 4 }$ 细胞/ $\mathrm { ^ { \prime } m L }$ 。
+
+设置6组培养体系。分别为菌纯培养(BPC);中肋骨条藻纯培养(APC-S);东海原甲藻纯培养（APC-P);中肋骨条藻-细菌混合培养(MC-S);东海原甲藻-细菌混合培养(MC-P)和空白对照组。其中,对照组为高温灭菌海水,其他实验组添加微生物情况见表1。所有实验组均在聚四氟乙烯桶中,置于光照培养箱中培养,温度为 $2 0 \%$ ,光照周期为12(L):12(D）,光照度 $4 0 0 0 \mathrm { { l x } }$ ,光强 $7 0 \mu \mathrm { m o l }$ 光子 $ { \mathbf { m } } ^ { - 2 }  { \mathbf { s } } ^ { - 1 }$ 。中肋骨条藻的初始藻密度约为 $3 { \times } 1 0 ^ { 4 }$ 细胞 $\mathrm { ^ { \prime } m L }$ ;东海原甲藻的初始藻密度约为 $1 . 3 \times 1 0 ^ { 3 }$ 细胞 $\mathrm { ' m L }$ 。
+
+表1培养体系  
+Table1 Incubation series   
+
+<html><body><table><tr><td>培养体系 Incubation Series</td><td>/mL V灭菌海水</td><td>/mL /mL V菌液 Vs.costaum</td><td>/mL VP.donghiense</td></tr><tr><td>菌纯培养 Bacteria Pure Culture</td><td>800</td><td>0</td><td>0</td></tr><tr><td>中肋骨条藻纯培养S.coastatum AlgaePure Culture</td><td>800</td><td>200</td><td>0</td></tr><tr><td>东海原甲藻纯培养P.donghaiense Algae Pure Culture</td><td>800</td><td>0 0</td><td>200</td></tr><tr><td>中肋骨条藻-细菌混合培养 MC-SMixed Culture of S.coastatum and Bacteria</td><td>600</td><td>200</td><td>0</td></tr><tr><td>东海原甲藻-细菌混合培养</td><td>600</td><td>0</td><td>200</td></tr><tr><td>MC-PMixed Culture of P.donghaiense and Bacteria 空白对照组Control</td><td>1000</td><td>0</td><td>0</td></tr></table></body></html>
+
+$V _ { \mathcal { K \vec { \mathbb { E } } \vec { \mathbb { E } } \vec { \mathbb { E } } \vec { \mathbb { E } } \vec { \mathbb { E } } } }$ :灭菌海水的体积the volume of sterilized sea water; $V _ { ☉ \mathparagraph }$ :含细菌的溶液体积 the volume of solution containing bacteria $V _ { S . c o s t a t u m }$ ：中肋骨 条藻藻液 the volume of S.costatum $V _ { P . d o n g h a i e n s e }$ :东海原甲藻藻液 the volume of P.donghaiense
+
+# 1.3 生物量计数
+
+细菌计数采用DAPI( $4 ^ { \prime } 6 .$ 二胱基-2-苯基吲哚)染色,荧光显微镜(LeicaDM4000,德国莱卡公司)计数的方法[14]。细菌丰度的表达式为：
+
+$$
+B B ( \uparrow \vdash / \mathrm { m L } ) = A \times S _ { 1 } / ( S _ { 2 } \times V )
+$$
+
+式中，BB为细菌丰度；A为10个视野的平均细菌数; $S _ { 1 }$ 为滤膜的有效过滤面积; $S _ { 2 }$ 为视野面积; $V$ 为过滤水样体积。微藻生物量在加入鲁格试剂后,用电子显微镜直接计数[14]。
+
+# 1.4营养盐添加和测定
+
+向培养体系中加入修改后的f/2营养配方（添加后 $\mathrm { N O } _ { 3 } – \mathrm { N }$ 浓度为 $1 8 \mu \mathrm { m o l / L } , \mathrm { P O _ { 4 } \mathrm { - P } }$ 的浓度为 $1 . 5 \mu \mathrm { m o l / L }$ ，氨氮及其他元素浓度不变),测试不同营养条件菌藻混合培养对生源要素转移的影响。采用Technicon AA-Ⅲ型营养盐自动分析仪测定滤液中营养盐浓度[24]。
+
+# 1.5 DOC、TN 的测定
+
+培养液中的溶解有机碳（DOC）、总氮（TN)采用高温燃烧法,用有机碳自动分析仪（Shimadzu TOC- $\cdot \mathrm { \Delta V _ { c P H } }$ ）测定[25]。为避免可能存在的污染,样品从培养桶中直接取样到测样瓶中[14]（含藻的实验组需经 $0 . 4 5 \mu \mathrm { m }$ 滤膜过滤）。DOC 含量包括浮游细菌的碳含量。DOC 的分析精度 $\pm 1 \mu \mathrm { m o l / L }$ ,变异系数CV为 $1 \%$ 一 $2 \%$ 。空白对照,精度为 $\pm 0 . 3 \mu \mathrm { m o l / L } , \mathrm { C V } < 1 \%$ 。TN的分析精度 $\pm 1 \mu \mathrm { m o l / L }$ ,变异系数 $C V < 2 \%$ 。
+
+# 2结果和讨论
+
+# 2.1微藻和细菌生物量的变化
+
+# 2.1.1 微藻生物量的变化
+
+不同体系中肋骨条藻和东海原甲藻生物量的变化曲线如图1所示。在其他条件一致的情况下，中肋骨条藻的生物量在细菌是否存在条件下的生长趋势比较类似,即：在培养初期藻细胞密度指数增长,达到最大值后,趋于稳定然后下降。但在MC-S体系中,最大藻密度低于APC-S 体系,说明混合培养过程中,藻的生长受到了细菌的抑制作用。由于细菌的比表面积较大，使其对营养盐有更强的亲和力，导致细菌吸收了相对较多的营养盐,造成微藻可利用的营养盐减少,从而抑制了微藻的生长[26]。对于东海原甲藻,细菌对其没有明显影响。已有研究发现，在低磷酸盐浓度的培养液中，细菌存在时，外源碳的加入会刺激细菌对磷酸盐的吸收，对东海原甲藻细胞吸收磷产生竞争,从而限制藻的生长;无外源碳加入时,细菌的存在对东海原甲藻的生长影响不明显[27],本实验培养体系中无外源碳加入,从而细菌对东海原甲藻的生长没有明显影响。 1
+
+关于中肋骨条藻和东海原甲藻对营养盐的竞争过程及结果的研究发现,由于中肋骨条藻对营养盐的利用方式及较高的生长率[28],中肋骨条藻是完全的优势藻,且两种藻的竞争结果并不依赖于初始接种密度比例[29]。而在营养盐相对匮乏条件下,东海原甲藻会在中肋骨条藻的竞争中取得优势[30]。说明,实验条件以及微藻自身利用营养盐的方式及效率等因素影响藻的生长,这也是相同密度的细菌对中肋骨条藻和东海原甲藻生长影响不同的原因。
+
+![](images/2e2361f9154d4236a8b09e3279f7127a7e528b5f66d824daee30154f5f771c48.jpg)  
+图1不同培养体系中藻的生物量变化曲线Fig.1Biomass of algae in different cultivating systems
+
+APC-S:中肋骨条藻纯培养S.coastatum AlgaePureCulture;MC-S:中肋骨条藻-细菌混合培养Mixed Cultureof S.coastatumand Bacteria;APC P;东海原甲藻纯培养 $P$ 、donghaiense Algae Pure Culture;MC-P:东海原甲藻-细菌混合培养 Mixed Culture of $P$ .donghaiense and Bacteria
+
+# 2.1.2 细菌生物量的变化
+
+不同体系中细菌生物量的变化曲线如图2所示。在培养的前3d，细菌都处于指数生长期，在短暂的稳定期后，进入缓慢的衰亡期。MC-S 体系的细菌密度最大，BPC体系的细菌生物量居中，MC-P体系的细菌密度相对略小，说明藻的存在影响细菌的生长状况，中肋骨条藻的存在可以促进菌的生长，但东海原甲藻对细菌的生长略有抑制作用。营养盐限制条件下，细菌的生长主要受可利用的氮、磷营养盐的限制[31]。东海原甲藻与细菌混合培养体系中不添加外源碳，细菌只能依赖微藻光合作用产生的有机碳，对磷酸盐的竞争力减弱，从而其生长受到了抑制[22]
+
+从生理学角度看，小细胞的比表面积较大，有利于低分子量代谢物通过细胞膜扩散，因此粒径较小的浮游植物对 DOC 的释放速率较高[32-33],DON 的释放可能是通过膜被动运输的,较小微藻的 DON 释放效率更高[34]。因此,较小的中肋骨条藻（粒径 $< 2 0 \mu \mathrm { m }$ )[35]对DOC和DON 的释放速率比东海原甲藻( $2 2 \mu \mathrm { m }$ <粒径 $< 7 0 \mu \mathrm { m }$ )的释放速率高,这可能是中肋骨条藻促进细菌生长而东海原甲藻抑制细菌生长的原因。
+
+![](images/a5d6fcd27bb019b99a64178b64bef42240f98552c478873856261884ddd0be50.jpg)  
+图2不同培养体系中细菌生物量变化曲线 Fig.2Biomass of bacteria in different cultivating systems BPC 为菌纯培养 Bacteria Pure Culture
+
+# 2.2营养盐的浓度变化
+
+# 2.2.1 氨氮
+
+氨氮在培养体系中的浓度变化如图3所示。不同培养体系中的 $\mathrm { N H } _ { 4 }$ -N 浓度均是先升高,后降低。其中，细菌单独培养体系 $\mathrm { N H } _ { 4 }$ -N 变化幅度最小,藻纯培养体系 $\mathrm { N H } _ { 4 } – \mathrm { N }$ 变化幅度最大,混合培养体系处于中间水平，但混合培养体系的末期 $\mathrm { N H } _ { 4 }$ -N 浓度有小幅的升高。氨氮是有机氮矿化的第一个无机产物[36,浮游植物吸收硝酸盐同化成氨或 $\mathrm { D O N } ^ { [ 3 7 ] }$ ,因此,氨氮通常与细菌分解有关。已有研究表明,虽然中肋骨条藻对氨氮更具亲和力,但由于中肋骨条藻对磷酸盐的需求很高,在磷酸盐很低的情况下,藻的生长受到限制,也影响了它对氨氮的吸收[38]。已有类似研究发现,小球藻在氨氮较高时,对 $\mathrm { N H } _ { 4 }$ -N 具有较好的去除能力[39],但细菌的存在[30]和营养结构的改变会使小球藻去除氮、磷能力存在较大差异[40]。
+
+本论文的结果表明,细菌的存在对中肋骨条藻吸收氨氮的能力有促进作用,在生长周期结束时,氨氮以释放为主。对于东海原甲藻,由于生长周期较长,在指数生长期时对氨氮的去除能力有促进,但指数生长末期，氨氮以增加为主，反映了此时细菌已经开始转化有机物为氨氮。有研究表明， $2 2 \%$ 温度时,浮游生物将 $5 0 \%$ 的有机氮分解为 $\mathrm { N H } _ { 4 }$ -N 时,需3—7d;将 $9 0 \%$ 的有机氮分解为 $\mathrm { N H } _ { 4 }$ -N时,需9- $2 3 \mathrm { d } ^ { [ 3 6 ] }$ ,可见,此时的氨氮来源于细菌的分解。
+
+![](images/97d3118127b073b58224562361c812f9aa1a0d78ebe46d199ce86cc1719087e0.jpg)  
+图3培养体系中 $\mathbf { N H } _ { 4 }$ -N的浓度变化  
+Fig.3The concentration variation of $\mathbf { N H } _ { 4 }$ -N
+
+# 2.2.2硝氮
+
+在培养过程中, $\mathrm { \Delta N O } _ { 3 } – \mathrm { N }$ 的浓度变化如图4所示。细菌纯培养时 $\mathsf { N O } _ { 3 } – \mathsf { N }$ 浓度变化很小,表明细菌在生长过程中对 $\overline { { \mathrm { N O } _ { 3 } } }$ -N 的需求量非常少。有研究发现,胶州湾海域异养浮游细菌对硝酸盐的吸收作用要小于其释放作用[41],异养浮游细菌在生长过程中优先利用有机氮(氨基酸)和铵盐作为其氮源[41-42]。藻菌混合培养和微藻单独培养时， $\mathrm { N O } _ { 3 } – \mathrm { N }$ 的浓度均大幅降低，由于中肋骨条藻进入指数生长期较早,所以 $\mathrm { N O } _ { 3 } – \mathrm { N }$ 消耗的更快。另外，从3种形态无机氮( $\mathrm { N H } _ { 4 }$ -N， $\mathrm { N O } _ { 3 }$ -N， $\mathrm { N O } _ { 2 }$ -N)的含量变化来看,只有 $\mathrm { N O } _ { 3 }$ -N 浓度同藻密度存在一定程度的负相关,因此微藻的生长主要消耗 $\mathrm { N O } _ { 3 } – \mathrm { N }$ ,与文献研究结果一致[43」。 $\mathrm { N O } _ { 3 }$ -N 可能还与异养细菌分解有机质再生营养盐有关[19],研究发现胶州湾中肋骨条藻赤潮过后无机氮恢复较快[43],说明异养浮游细菌对 $\mathsf { N O } _ { 3 } – \mathsf { N }$ 的再生有贡献。
+
+![](images/fc985860d54ea01c4fb36d99b88bd912a67eb3d8f234d344088a0c207b0d9e80.jpg)  
+图4培养体系中 $\mathbf { N O } _ { 3 }$ -N的浓度变化 Fig.4The variation of concentration of $\mathbf { N O } _ { 3 }$ -N
+
+# 2.2.3 磷酸盐
+
+培养过程中,无机 $\mathrm { P O } _ { 4 }$ -P 浓度变化如图5。空白对照组中 $\mathrm { P O } _ { 4 }$ -P 浓度变化不大。细菌纯培养的培养液中$\mathrm { P O } _ { 4 } { \mathrm { - P } }$ 消耗量较多，大约占 $\mathrm { P O } _ { 4 } { \cdot } \mathrm { P }$ 初始量的 $5 0 \%$ 。中肋骨条藻实验组中,相同时间内,混合培养体系消耗的$\mathrm { P O } _ { 4 } { \cdot } \mathrm { P }$ 浓度少于或等于藻类单独培养体系。说明在低 $\mathrm { P O } _ { 4 } { \bf - P }$ 浓度下，细菌与藻存在 $\mathrm { P O } _ { 4 } { \cdot } \mathrm { P }$ 竞争,细菌的存在影响了藻类消耗 $\mathrm { P O } _ { 4 } { \cdot } \mathrm { P }$ 的速率。实验末期， $\mathrm { P O } _ { 4 }$ -P 浓度都低于检测限。混合培养体系中,中肋骨条藻的生长低于纯培养体系中藻的生长,也说明细菌的存在,影响了藻类吸收 $\mathrm { P O } _ { 4 } { \cdot } \mathrm { P }$ ,与文献结果一致[37,44]。东海原甲藻实验组中,相同时间内,混合培养体系消耗的 $\mathrm { P O } _ { 4 } { \bf - P }$ 浓度与藻类单独培养体系没有明显差异,且混合培养体系中,东海原甲藻的生长与纯培养体系中藻的生长也没有明显差异。
+
+![](images/d4a12cdcd1cbc86e230894b658b63e59d1edcf2037f53827e0f87e6f18314226.jpg)  
+图5培养体系中磷酸盐的浓度变化 Fig.5The concentration variation of $\mathbf { P O _ { 4 } }$ -P
+
+# 2.3培养过程中 DOC 的浓度变化
+
+不同培养体系中 DOC 的浓度变化如图6所示。由图可见,在APC-S 和APC-P 体系,即微藻单独培养时,DOC 浓度与藻密度有一定的正相关性。在藻菌混合体系,即MC-S 和MC-P,在培养初始的2—6d内,体系中DOC 浓度的增加速率大于 APC-S/P体系。分析原因为：在细菌存在时,细菌对藻的抑制作用包括溶藻酶类的产生[7.45],分解死亡藻细胞从而释放更多的有机物。藻细胞释放和分泌的易降解有机物占总的溶解有机物的一小部分[26],细菌分解易降解的有机物,大部分不易降解的有机物得到累积使有机物的浓度增加。另有研究发现,细菌的生物量变化滞后于有机物浓度变化 $1 0 { - } 2 0 \mathrm { h } ^ { [ 1 2 ] }$ ,DOC 在细菌单独存在时,前3天浓度降低明显,之后缓慢降低,结合图2,表明细菌在指数生长期分解 DOC 较快,之后分解速率没有明显变化。
+
+http://www.ecologica.cn
+
+![](images/78829f4a4051014fdc21051711a693b7fa22206209b3c664d5d7eacce5bfb396.jpg)  
+Fig.6The concentration variation of DOC during the culture process
+
+# 2.4培养过程中DOC/DON的浓度变化
+
+海洋是全球最大的有机碳储蓄库之一，有机碳主要以 DOC 和 POC 的形式存在[45-46]。POC 在水体中的含量变化与微藻的初级生产力有关，是评价海区初级生产力水平的一个重要参数[33]。海洋微藻通过光合作用合成有机碳是 DOC 的重要来源之一[20,25]。水体中 DON是微生物的重要氮源,主要由微藻释放[20.25]。根据POC与PON的摩尔比（（POC/PON）），可以判断海区的POC 来源[47],对研究藻类与异养细菌之间的相互作用以及生物汇集碳的速率和机制提供理论。Cifuentes等人认为，（POC/PON）在2.6—4.3之间POC 来源为细菌；7.7—10.1之间为浮游植物; $\geqslant 5 0$ 为高等植物,即为陆源[48]。本文根据相同的原理,研究了DOC/DON的摩尔比（（DOC/DON））用于判断DOC来源的可能性。培养过程中（DOC/DON）的变化情况如图7所示。
+
+![](images/d04637f3fe8a5c29617d11216f74e81d4c882059afba0826bd2da747f08262a3.jpg)  
+图6培养过程中DOC的浓度变化  
+图7培养体系中(DOC/DON)a  
+Fig.7 The Ratio of(DOC/DON) $\mathbf { a }$ in ambient solution
+
+由图7可见,培养过程中,空白对照组的（DOC/DON）始终低于3,变化不明显。对于其他培养体系,在初期(0—5d),各体系(DOC/DON)的波动变化,整体呈上升趋势,比值介于2—5,说明实验初期,细菌矿化作用较明显,DOC 主要来源于细菌。培养中后期(6—14d),除第8天,含藻培养体系中C/N比值高于5,甚至超过7,说明此过程中细菌和藻相互作用,而藻的作用要显著于细菌的矿化作用,DOC 既来源于细菌也来源于微藻。培养末期(第15天),藻衰亡,所以C/N 比值有所下降,细菌分解藻释放 DOC,来源于微藻的DOC 较少。培养过程中,含藻体系的C/N 比值高于含细菌体系的C/N 比值,与理论C/N 比值相符。而且APC-S 的C/N比值最大,其次是 MC-S、APC-P、MC-P,最后是 BPC。以上分析表明,可以根据判断 POC 来源的方法判断DOC 的来源,与实际情况相符。
+
+通过以上结果可知,细菌的存在可以影响中肋骨条藻的生长、对营养盐的吸收以及对 DOC 的释放[26]。细菌的存在对东海原甲藻的生长和营养盐的吸收没有明显的影响，与文献[27研究结果有差异，可能是细菌的生物量、藻细胞密度、藻粒径大小以及营养盐浓度不同导致的。Carlson 通过对比添加 $\mathrm { N H _ { 4 } { - } N , P O _ { 4 } { - } P }$ 前后，细菌生物量和细菌生长效率等的变化发现, $\mathrm { N H } _ { 4 }$ -N和 $\mathrm { P O } _ { 4 } { \cdot } \mathrm { P }$ 不是影响细菌生长的主要因素,影响细菌生物量的主要因素是可利用有机物的量[12]。有机物矿化作用受很多因素的影响,比如异养细菌的生物量,微生物群落结构,海水温度,有机物的组成等。自养生物分泌的有机物影响细菌对有机物的利用性,影响海洋生态系统中的营养动力学和生物地球化学循环[25]。研究发现,生物群落的组成及其对 $\mathrm { N O } _ { 3 } – \mathrm { N }$ 的利用程度影响微生物吸收利用有机碳[47]。
+
+# 3结论
+
+本文通过实验室混合培养海洋微藻和细菌,发现细菌和微藻共存时,细菌通过对营养盐的竞争限制某些微藻的生长,微藻通过对有机物的释放或对营养盐的竞争促进或抑制细菌的生长。培养液中DOC的浓度变化与藻密度密切相关,并提出可以用（DOC/DON）来判断DOC 的来源。
+
+# 参考文献（References）：
+
+[1］王少沛，曹煜成，李卓佳，杨莺莺，陈素文.水生环境中细菌与微藻的相互关系及其实际应用.南方水产，2008,4（1)：76-80.  
+[2］王新，周立红，郑天凌，宁修仁.塔玛亚历山大藻藻际细菌溶藻过程.生态学报，2007,27（7)：2864-2871.  
+[3]Azam F.Microbialcontrol of oceanic carbon flux：the plot thickens.Science,，1998,280(5364）：694-696.  
+［4］刘浩，潘伟然.营养盐负荷对浮游植物水华影响的模型研究.水科学进展，2007，19(3）：345-351.  
+[5］曲长凤，宋金明，李宁，李学刚，袁华茂，段丽琴.海水中沙海蜇消亡对水体碳、氮、磷的释放与补充.应用生态学报，2016，27（1)：299-306.  
+[6]CondonRH,SteibergDK,delGoroPA,ouvierTC,roDA,GramW,DucklowHW.fisloresultijorobalrespiratorysinkofcaboninmarisstes.ProceingofteNatioalAcadeyofiencesoftheUitedStateofAmerica，8（）：10225- 10230.  
+[7]WearEK,CarsoCA，ndeerLA,renskiM.Rlesdatutrientstresdesntinetegsaloterm bioavailabilityof diatom exudates to bacterioplankton.Marine Chemistry，2015，177:335-348.  
+［8］周进，陈国福，朱小山，陈璐，蔡中华.赤潮过程中“藻-菌"关系研究进展.生态学报，2014，34（2)：269-281.  
+[9]EganS，ader,keCeberg,KelgSaterstadngdeteacMicrobiology Reviews，2013，37(3）：462-476.  
+[10]郑天凌，田蕴，苏建强，王艳丽，连玉武，洪华生.海洋赤潮生物与厦门海域几种细菌的生态关系研究.生态学报，202，22（12)：2063-2070.  
+[11]WordenAZ,FolowsMJ,GovanoniSJ，WikenSZimmeranAE,KelingPJ.Rethnkingthemarinecarboncycefactongthemultifarious lifestyles of microbes.Science,2015,347(6223）：1257594.  
+[12]CarlsonCA,DucklowHWGowthofbacteroplanktoandosumptionofdisoledganiccarboninteSargSeaAquaticcobialEcology，1996，10(1）:69-85．  
+[13］苏建强，郑天凌，俞志明，宋秀贤.海洋细菌对赤潮藻生长及其产毒量的影响.海洋与湖沼，2003，34(1)：44-49.  
+[14] 谭丽菊，肖慧，CarlsonCA，王江涛.海水中天然细菌对不同生源要素有机物的矿化作用.生态学报，2016,36(1)：77-85.  
+[15]Stein L Y,Klotz M G. The nitrogen cycle. Current Biology,2016,26(3）:R94-R98.  
+[16] 王艳君，董园，陈寅超，周卫文，李芊.固氮作用对黑潮上游区域生态系统影响的模拟研究.热带海洋学报，2016,35（1)：102-111.  
+[17］郭建国，赵龙浩，徐丹，孙野青.洪水对大凌河河流浮游细菌群落的影响.生态学报，2015,35(14)：477-4783.  
+[18] ZhouQX，GibsonCE，ZhuYM.EvaluationofphosphorusbioavailabilityinsedimentsofthreecontrstinglakesinChinaandtheUK.Chemosphere，2001,42（2): 221-225.  
+[19] 白洁，张昊飞，李岿然，张经，刘东艳，高冬梅，易齐涛.胶州湾冬季异养细菌与营养盐分布特征及关系研究.海洋科学,2004,28（12)：31-34.  
+[20] CaronDA,LimEL，SndersRW,DennettMR，BeringerUG.Responsesofbacterioplanktonandphytoplanktontoorganiccarbonandinorganic nutrient additions incontrasting oceanic ecosystems.Aquatic Microbial Ecology，2Oo0,22(2）：175-184.  
+[21」鲍林林，陈永娟，王晓燕.河流沉积物氮循环主要微生物的生态特征.微生物学通报，2015，42(6)：1141-1150.  
+[22］黄振华，柯爱英，刘俊峰，叶深，薛峰，周朝生，陈星星.浙江乐清湾海域冬季颗粒有机碳的分布特征及影响因素.福建水产，2015，37(3): 220-226.  
+［23］张艳.山东近岸海域水体细菌多样性研究[D].青岛：中国海洋大学，2010.  
+[24］潘建明，周怀阳，扈传昱，刘小涯，董礼先，张美.夏季珠江口沉积物中营养盐剖面分布和界面交换通量.海洋学报，2002，24（3)：52-59.  
+[25]HalewodERCAesieedDoaJAalecaeartogslaltctacross the Santa Barbara Channel continental shelf.Aquatic Microbial Ecology,2O12,67(3）：189-209.  
+[26]连子如，王江涛.不同浓度碳源下中肋骨条藻和海洋异养细菌对磷酸盐的竞争吸收研究.中国海洋大学学报，209,39（S1)：237-241.  
+[27］连子如，王江涛.东海原甲藻和海洋异养细菌对磷酸盐的竞争吸收.水生生物学报，2010,34（3）：663-668.  
+[28] 吕颂辉，李英.我国东海4种赤潮藻的细胞氮磷营养储存能力对比.过程工程学报，2006,6(3)：439-444。  
+[29] 孙科，丘仲锋，何宜军，尹宝树.东海原甲藻与中肋骨条藻的种间竞争数值模拟.生态学报，2014，34（23）：6898-6909.  
+[30] ZhuMY,XuZJ,LiRX，WangZL,ShiInterspeciesopetionforutrientsetwnProrocentrumdogeseLudSeletoecostatum（Grev.）Cleve in mesocosm experiments.Acta Oceanologica Sinica,2009,28(1）：72-82.  
+1]Rodrigileccseand oxygen fluxes.Limnology and Oceanography，2001，46(7）：1675-1683.  
+[32]刘诚刚，宁修仁，郝锵，乐凤凤.海洋浮游植物溶解有机碳释放研究进展.地球科学进展，2010,25（2）：123-132.  
+[33] BjrrisenPK.ypktoeutiofganater：oayelldoioOeana988,)：14.  
+[34] 高亚辉，荆红梅，黄德强，杨心宁.海洋微藻胞外产物研究进展.海洋科学，2002，26(3)：35-38.  
+[35] 孙军，刘东艳，钟华，张利永.浮游植物粒级研究方法的比较.青岛海洋大学学报，2003，33(6)：917-924.  
+[36] 水化学研究组.胶州湾海水中氮的地球化学(续).海洋湖沼通报，1982，（4)：37-46.  
+[37] 洪义国.硝酸盐氮氧稳定同位素分馏过程记录的海洋氮循环研究进展.地球科学进展，2013，28（7)：751-764.  
+[38] 丁光茂.中国近海三种典型赤潮生物氮营养生理研究[D].厦门：厦门大学，2009.  
+[39] 白洁，易齐涛，李佳霖.海洋异养细菌对小球藻生长和无机营养盐吸收的影响研究.海洋科学，2009,33（11)：6-10.  
+[40] WatanabeK,inaoyagiHaadS，WtabeYOhraii,TakaHSybotoatoorelluluMicrobiology Ecology，2005,51(2）：187-196.  
+41]NagaKaKuctaisicteloitydoetalctoatbgataasJouol1999,60(2):177-184.  
+[42]idegeueeJrgtakebeterooccterdplakoateaaoloProgress Series，2000，203：13-21.  
+[43] 霍文毅，俞志明，邹景忠，宋秀贤，郝建华.胶州湾中肋骨条藻赤潮与环境因子的关系.海洋与湖沼，2001,32（3)：311-318.  
+[44]BaiJ,LiK,gJ,iZYHgHtassfhteroccteplaothSealof Oceanology and Limnology，2005，23（4）：427-432.  
+4SeAustralian estuary. Marine Ecology Progress Series，2002,244：1-15.  
+[46］谭丽菊，张哲，梁成菊，王江涛.青岛邻近海域海水中有机碳的分布特征.地球科学进展，2011,26(4)：426-432.  
+[47]CifuentsLAoffRloLrdesWspowilRsotopcdeearatosfarbodrmangrove estuary. Estuarine，Coastal and Shelf Science，1996,43(6）：781-800.  
+[48]LetscherRTKnaAJasAKCarlsonCA，toE，asellobalcouityopositiodntrogliinfluence DOC remineralization in the South Pacific Gyre.Marine Chemistry，2O15,177：325-334.

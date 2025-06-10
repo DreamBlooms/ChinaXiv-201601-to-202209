@@ -1,0 +1,373 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCH ARTICLE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mitochondrial calcium uniporter protein MCU is involved in oxidative stress-induced cell death ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yajin Liao1.2, Yumin Hao1, Hong Chen1, Qing He1.2, Zengqiang Yuan1, Jinbo Cheng1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State Key Laboratory of Brain and Cognitive Sciences,Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101,China   \n2 College of Life Sciences,University of Chinese Academy of Sciences,Beijing 10o49, China   \n区 Correspondence: zqyuan@ibp.ac.cn (Z.Yuan),cheng_jinbo $@$ 126.com (J.Cheng)   \nReceived December30,2014Accepted February 3,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mitochondrial calcium uniporter (MCU) is a conserved $\\mathsf { C a } ^ { 2 + }$ transporter at mitochondrial in eukaryotic cells. However, the role ofMCU protein in oxidative stressinduced cell death remains unclear. Here,we showed that ectopically expressed MCU is mitochondrial localized in both HeLa and primary cerebellar granule neurons(CGNs). Knockdown ofendogenousMCU decreases mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake following histamine stimulation and attenuates cell death induced by oxidative stress in both HeLa cells and CGNs.We also found MCU interacts with VDAC1 and mediates VDAC1 overexpression-induced cell death in CGNs.This finding demonstrates that McU-VDAC1 complex regulates mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake and oxidative stress-induced apoptosis,which might represent therapeutic targets for oxidative stress related diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS MCU，VDAC1,oxidative stress,calcium uptake,cell death ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As the major source of ATP，mitochondrion plays an essential role in cellular physiology and metabolism in eukaryotic cells.On the one hand, low mitochondrial $\\mathsf { C a } ^ { 2 + }$ concentration fails to effectively activate pyruvate dehydrogenase as to produce enough ATP (Robb-Gaspers et al., 1998)；on the other hand，overloaded mitochondrial $\\mathsf { C a } ^ { 2 + }$ reduces mitochondrial membrane potential $( \\Delta \\Psi )$ and triggers cell death．Therefore，mitochondrial ${ \\mathsf { C a } } ^ { 2 + }$ homeostasis is essential for physiological function and survival of the cells. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Some proteins involved in mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake have been discovered in recent years.VDAC (voltage-dependent anion channel) is the first identified ${ \\mathsf { C a } } ^ { 2 + }$ transport channel,which locates in the outer membrane of mitochondria (OMM) and highly permeable to ${ \\mathsf { C a } } ^ { 2 + }$ 0 $\\mathtt { X u }$ et al., 1999). VDAC1 will lose its ${ \\mathsf { C a } } ^ { 2 + }$ transport capacity when the ${ \\mathsf { C a } } ^ { 2 + }$ binding sites are blocked by Ruthenium Red (RuR) (Gincel et al., 2001). MCU is another identified ${ \\mathsf { C a } } ^ { 2 + }$ uniporter protein,which is localized in the inner membrane of mitochondrion (IMM) (Baughman et al., 2011). Numbers of proteins have been shown to regulate the activity of MCU,such as essential mitochondrial calcium uptake1/2 (MiCU1/2)，MCU regulator (EMRE)，MCUb and MCU regulator 1 (MCUR1) (Ahuja and Muallem,2014;Alam etal., 2012;Mallilankaramanetal.,2012a;Mallilankaraman et al.，2012b;Raffaello et al.,2013; Sancak et al., 2013).When cells undergo severedamage，mitochondrial permeability transitionpore (PTP) will open and release pro-apoptotic factors,especially cytochrome c, from mitochondria to the cytoplasm (Kinnally et al.,2011).Overexpression of VDAC1 renders cells sensitive to oxidative stress inducers,such as thapsigargin (TG) and arsenic trioxide (As2O3) (Ben-Hail and Shoshan-Barmatz，2012；Shoshan-Barmatz et al.， 2010;Shoshan-Barmatz et al., 2009). Ectopically expressed VDAC1 increases the concentration of ${ \\mathsf { C a } } ^ { 2 + }$ in the inner-membrane space of mitochondrion, leading to mitochondrial ${ \\mathsf { C a } } ^ { 2 + }$ overload and cytochrome c release (Brustovetsky et al.，2002；Madesh and Hajnoczky, $2 0 0 1$ ； Naranmandura et al.，2012；Rapizzi et al.,2002). Cytochrome c interacts with Apaf1 and initiates activation of caspase-3 (Chu et al., 20o1).As a subunit of the PTP，VDAC1 is involved in cytochrome c release and apoptosis (Zheng et al.，2004)．Whether MCU，the inner membrane ${ \\mathsf { C a } } ^ { 2 + }$ uniporter， has the similar function as ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "VDAC1 protein in neurons is poorly studied.In our study, we found that MCU plays an important role in oxidative stressinduced apoptosis.In addition,we showed that MCU interacts with VDAC1and is involved in the VDAC1-mediated cell death in CGNs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MCU regulates the mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake in primary CGNs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First,we found that overexpressed MCU was mainly localized in the mitochondria in HeLa cells and CGNs (Fig.1A and 1B). To identify whether MCU functions as mitochondrial ${ \\mathsf { C a } } ^ { 2 + }$ uniporter in HeLa cells,two shRNAs against MCU were designed.As shown in Fig.2A,shRNA#1 had a better knockdown efficiency compared with shRNA#2.In order to monitor mitochondrial ${ \\mathsf { C a } } ^ { 2 + }$ levels,we transfected cells with a mitochondrial targeted ${ \\mathsf { C a } } ^ { 2 + }$ indicator, Mito-GCaMP3.Knockdown ofMCU dramatically decreased histamine-induced mitochondrial ${ \\mathsf { C a } } ^ { 2 + }$ level,which includes both the peak $\\mathsf { C a } ^ { 2 + }$ level and the recovery time to baseline (Fig.2B-D).Furthermore, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 2. MCU is required for mitochondrial calcium uniporter in HeLa cells and CGNs.(A)Two shRNA against MCU were designed to knockdown MCU in HeLa cellsand the knockdown efficiency of each was detected by Western blot.(B）Knocking down MCU decreased mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake by assaying Mito-GCaMP3. Control or MCU knockdown HeLa cells were transfected with Mito-GCaMP3.GCaMP3 fluorescence was measured before and during exposure to histamine stimulation （ $( 1 0 0 ~ \\mu \\mathrm { m o l / L } )$ .(C）Representative traces $\\mathsf { C a } ^ { 2 + }$ response to histamine stimulation in control or MCU knockdown HeLa cells.(D) Graph shows quantification of peak $\\mathsf { C a } ^ { 2 + }$ intensities.(E）Representative traces of $\\mathsf { C a } ^ { 2 + }$ uptake in digitonin-permeabilized HeLa cells.The level of ${ \\mathsf { C a } } ^ { 2 + }$ was indicated by the calcium Green-5N.(F） Graph shows relative ${ \\mathsf { C a } } ^ { 2 + }$ uptake.(G) CGNs were transfected with shMCU or shvector togetherwith Mito-GCaMP3.GCaMP3 fluorescence was measured before and after exposure to histamine( $( 1 0 0 ~ \\mu \\mathrm { m o l / L } )$ . (H) Representative traces showing $\\mathsf { C a } ^ { 2 + }$ response after histamine stimulation over time in MCU wild type or knockdown cells were.(l) Graph shows quantification of peak $\\mathsf { C a } ^ { 2 + }$ intensities. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/255895f893cede8bbdb88eaabdd0b962634cea010eeaacb3c12349d89c96d757.jpg",
+        "img_caption": [
+            "Figure 1.The sublocation of MCUin HeLacells and CGN. (A)GFP-MCU (green)was tranfected into HeLacels.Twenty-four hoursposttransfection,celswerefixedandstainedwithTom20(Red).(B)GFP-MCU(green)andmito-Red(red)werec-tranfected into CGNs.Twenty-four hours postransfection,cells were fixed and imaged by laser confocal microscope using a $4 0 \\times$ objective lens. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7453cf8fc20bc3706becc22c2a150bceb4e933834a31ed81e8d6af8c80701c01.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "the effect of MCU knockdown on mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake wasexamined in digitonin-permeabilized cells. In normal condition,mitochondriacould rapidlyclearmost of externally added $5 0 ~ \\mu \\mathrm { m o l / L } ~ \\mathsf { C a } ^ { 2 + }$ . However, MCU knockdown remarkably inhibited external ${ \\mathsf { C a } } ^ { 2 + }$ clearance,similar to $\\mathtt { R u 3 6 0 }$ ，a specific MCU blocker (Fig.2E and 2F).Consistently, in CGN cells transfected with Mito-GCaMP3，MCU knockdown dramatically blocked mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake (Fig. 2G-I). Together， these findings implicate MCU functions asa mitochondrial $\\mathsf { C a } ^ { 2 + }$ uniporter in both HeLa cells and CGNs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MCUis involved inoxidative stress-induced cell death ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next,we studied the role of MCUin oxidative induced-cell death.As shown in Fig.3A and 3B，MCU knockdown decreasedhydrogenperoxide $( \\mathsf { H } _ { 2 } \\mathsf { O } _ { 2 } )$ -inducedapoptosis. Caspase-3 activation was also reduced in MCU knockdown cells(Fig.3C and 3D).Accordingly， MCU overexpression significantly increased apoptosis in HeLa cells treated with ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ (Fig.3E).We also found that MCU knockdown decreased the ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ -induced cell death in CGNs as shown in Fig.3F and 3G.Taken together, these results suggested that MCU is involved in oxidative stress-induced cell death. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MCU $\\mathsf { C a } ^ { 2 + }$ uptake activity is required for oxidative stress-induced cell death ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It hasbeen reportedthatD260andE263ofMCUare critical for the regulation of ${ \\mathsf { C a } } ^ { 2 + }$ uptake (Fig.4A) and the mutations of MCUD260A and MCUE263A lose the $\\mathsf { C a } ^ { 2 + }$ uptake activity (Baughman et al.,2011).To further confirm whether the function of $\\mathsf { C a } ^ { 2 + }$ uptake activity of MCU was required for oxidative stress-induced cell death,we constructed the MCU mutantsand transfected into cells.We observed that overexpression of wild type MCU significantly increased cell death induced by ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ .However, expression of MCUD260A mutant or MCUE263A mutant failed to exaggerate oxidative stress-induced apoptosis (Fig.4B). Inaddition,we found that overexpression of wild type MCU,not the mutants,increased caspase-3 cleavage (Fig. 4C and 4D).Consistently,we also found that MCU overexpression increased cell death induced by ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ in primary cultured CGNs,and the mutants of MCUD260A and MCUE263A had no effect on the apoptosis (Fig.4E).Thus,these observations indicated that the $\\mathsf { C a } ^ { 2 + }$ uptake activity of MCUis required for oxidative stress-induced cell death. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MCU interacts with VDAC1 and functions asadownstream of VDAC1 during oxidative stressinduced cell death ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It has been shown that VDAC1 overexpression made cells sensitive to oxidative stress (Rapizzi et al., 20o2). Since both VDAC1 and MCU are involved in mitochondrial calcium uptake,we then ask whether there is functional interaction between two proteins.We firstlyobserved there isaphysical interaction of MCU and VDAC1 (Fig. 5A). Next,we investigated the biological function of MCU-VDAC1 interaction in cells.We found that overexpression of VDAC1 increased the apoptosis induced by ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ in HeLa cells and MCU knockdown significantly inhibited VDAC1 overexpression-induced cell death，which suggests MCU functions as the downstream of VDAC1 during oxidative stress-induced apoptosis (Fig.5B and 5C).VDAC1 has also been shown to be involved inneuronal cell death (Fernandez-Echevarria etal., 2014).Here，we found that overexpression of VDAC1 increased oxidative stress-induced apoptosis in CGNs and knockdown of MCU significantly mitigated VDAC1 overexpression-induced cell death (Fig.5D).Taken together, these results suggested MCU functions as the downstream of VDAC1 during oxidative stress-induced cell death. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study,we demonstrate the role of MCU in oxidative stress-induced cell death by loss- and gain-of-function experiments.We found MCU interacts with VDAC1 and functionsas the downstream in the process of oxidative stressinduced cell death. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Oxidative stress is contributed to the pathogenesis of neurological diseases，such as stroke and degenerative diseases.Mitochondrial calcium overload plays an important role in the oxidative stress-induced neuronal death.In our study，we found MCU is localized at mitochondria and functioned as a crucially $\\mathsf { C a } ^ { 2 + }$ channel in both HeLa and primary CGNs.MCU knockdown significantly blocked the mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake activity.Moreover, our functional studies indicate MCU is involved in oxidative stress-induced cell death. Recently， Pan et al. generated ${ \\mathsf { M C U } } ^ { - I - }$ mice and found that ${ \\mathsf { M C U } } ^ { - I - }$ mice are grossly normal (Pan et al., 2013), buta significant reduction of mitochondrial matrix calcium.In this study,we found that MCU knockdown did not affect the cell growth in both HeLa and primary CGNs,but rendered the cells resistant to oxidative stress.Mitochondrial ${ \\mathsf { C a } } ^ { 2 + }$ overload is usually observed during ischemia/reperfusion (I/R),and it is considered to aggravate I/R injury.As MCU is amitochondrial $\\mathsf { C a } ^ { 2 + }$ uniporter，inhibition of MCU activity might be a therapy strategy for oxidative stress-induced diseases.For example,inhibition of MCU activity has been demonstrated to attenuate I/R injury in multiple organs including brain，heart and liver (Dong et al.，2014; Schwartz et al.,2013; Zhao et al.,2013).Inhibition of MCU activity also protects brain and heart from iron overload-induced dysfunction (Kumfu et al., 2012; Sripetchwandee et al., 2013a; Sripetchwandee et al., 2014; Sripetchwandee et al., 2013b). Accordingly，enhancement of MCU activity increases ${ \\mathsf { C a } } ^ { 2 + }$ level in mitochondria and promotes oxidative stress-induced apoptosis (De Stefani et al.，2011). Interestingly，recent studies showed that the role of MCU in apoptosis is dependent on cell type.Knockdown of MCU protect HeLa cells, not in MEF cells,against oxidative stress induced apoptosis (De Stefani etal., 2011; Hall et al., 2014; Pan et al.,2013). In this study,we found that MCU knockdown attenuates oxidative stress-induced apoptosis in both HeLa and primary CGNs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbefbb993fc28a8aa08ffd2a41286d393660dfdf280ab2389d41317d238c616f.jpg",
+        "img_caption": [
+            "Figure3.MCUis involvedinoxidativestress-iducedcelldeath.(AandB)MCUsilencedHeLacelsorcontrolcellswere reated with ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ for $2 4 \\mathsf { h }$ ,then,cells werecollectedand stained with FITC labeled annexin-Vandfinallyanalysis by flowcytometer. (C)MCU silenced HeLa cells or control cells were treated with ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ for $2 4 ~ \\mathsf { h }$ ，and cells were collected and the cleaved caspase-3 was detected.(D)Graphshows normalized levelofcleavedcaspase-3.(E)HeLacelstranfectedwithFlag-vectororFlag-MCUwere exposed to ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ for $2 4 \\mathsf { h }$ and apoptosis was analyzed by FACS.(F and $\\textsf { G }$ )CGNs transfected with GFP vector togetherwith shMCU or shvector were treated with $7 0 \\mu \\mathrm { m o l } / \\ L \\hat { \\mathsf { H } } _ { 2 } \\mathsf { O } _ { 2 }$ for $2 4 \\ h$ .Green arrowhead stands for the healthy cells and red arrowhead indicates apoptotic cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PTP is regarded as the gatekeeper of apoptosis,and its opening is regulated by several proteins,such as VDAC1, adenosine nucleotide translocase (ANT) and cyclophilin D (Halestrap et al., 1997; Pestana et al., 2010). Overexpression of these proteins makes cells sensitive to apoptoticinducing stimulus.Overexpressed VDAC1 in HeLa cells enhances cell death upon treatment with ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ ，staurosporine (STS), TG or ${ \\sf A s } _ { 2 } { \\sf O } _ { 3 }$ (Keinan et al., 2013). In this study，we found MCU knockdown remarkably inhibited VDAC1 overexpression induced-cell death,suggesting MCU functions as a downstream of VDAC1 during oxidative stress-induced cell death. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary,we showed that VDAC1 (outer member) and MCU (inner member) form complex and mediate mitochondrial calciumuptakeand stress-induced cell death.Further more，we showed that MCU is involved in oxidative stressinduced apoptosis as a downstream regulator of VDAC1. Therefore,the inhibition of the activity of MCU or disruption of VDAC1-MCU interaction might be a strategy to stroke and degenerative diseases. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ ，anti-Flag M2 mAb and Anti-MCU pAb were purchased from Sigma-Aldrich.Anti-active caspase-3 pAb was purchased from Millipore.Anti-GFP pAb,anti-GAPDH mAb,anti $\\cdot \\beta$ -tubulin mAb were ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9f3e36d63ae35a5691df57594418bfd7ca9e2471957eedb6e3835034bb73567.jpg",
+        "img_caption": [
+            "Figure4.ThecalciumuptakeactivityofMCUisrequredforoxidativestress-inducedcelldeath.(A)Thecricalsiteforcalcium uptake activity of MCU. (B) HeLa cels were overexpressed with wild type MCU, MCUD260A 0r $M C U _ { \\mathsf { E } 2 6 3 \\mathsf { A } }$ ,and then cells were treated with ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ for $2 4 \\mathrm { ~ h ~ }$ The apoptosis was finally analyzed by FACS.(C) HeLa cels transfected with wild type MCU,MCUD260A or MCUE263A as indicated were treated with $2 0 0 \\mu \\mathrm { m o l / L } \\mathsf { H } _ { 2 } \\mathsf { O } _ { 2 }$ for $2 4 \\mathsf { h }$ .Cleaved caspase-3 were analyzed (\"\\*\" means non-specific band). (D)Graph shows normalized level of cleaved caspase-3.(E)CGNs transfected with GFPvector plus wild type MCU,MCUD260A mutant, $M C U _ { E 2 6 3 A }$ mutant or empty vector were treated with $7 0 ~ \\mu \\mathrm { m o l / L }$ （20 ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ for $2 4 \\mathsf { h }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "purchased from CWbiotech.Primers for shRNA were synthesized by Invitrogen and cloned into pLKO.1 vector. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cell culture and transfection ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HeLa cells were maintained in DMEM supplied with $10 \\%$ fetal bovine serum at $3 7 ^ { \\circ } \\mathsf { C }$ in a humidified atmosphere with $5 \\%$ （204 ${ \\mathsf { C O } } _ { 2 }$ Mouse primary cerebellar granule neurons (CGNs)were isolated from 10 days old mouse as previously described (Xie etal.,2012). Isolated CGNs were cultured in BME supplemented with $1 0 ~ \\lvert \\lvert \\boldsymbol { \\mathrm { m o l / L } }$ cytosine arabinoside (AraC) and 25 mmol/L glucose.Lipofectamine 2000 reagentwasapplied for transfection in HeLacellsaccording to the manufacturer's instructions.For transfection of CGNs,the classical calcium phosphate coprecipitation technique was used. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Imaging of mitochondrial calcium ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake in intact cells was detected as previously described (Qiu etal.,2013).Briefly,cells plated on 35-mm glassbottom dishes were transfected with Mito-GCaMP3 to monitor the concentration of $\\mathsf { C a } ^ { 2 + }$ in mitochondrial. $2 4 \\ h$ post transfection, timelapse confocal microscopy was started at 1-sec intervals usinga ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaf654eddb5544cfe073d6f4030dc611245f1455d86c459cef49d28e8941b73f.jpg",
+        "img_caption": [
+            "Figure 5.MCU interacts with VDAC1and functionsasadownstream of VDAC1. (A)Flag-MCU was transfected intocels togetherwithGFP-VDAC1oremptyvectorTwenty-fourhours lter,celswerecollectedandimmunopreipitatedusinganti-FagM beads.(B)NormalorMCU knockdown HeLacellswere transfectedwith Flag-VDAC1oremptyvector.Twenty-fourhourslate,cells were treated with $2 0 0 ~ { \\mu \\mathrm { m o l / L } } ~ \\mathsf { H } _ { 2 } \\mathsf { O } _ { 2 }$ for another $2 4 \\ h$ and cleaved caspase-3 was analyzed.(C) Graph shows normalized level of cleavedcaspase-3.(D)CGNs transfected withshMCUorshvector,Flag-VDAC1oremptyvectorasindicated were treatedwith 70 umol/L ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ for $2 4 \\mathsf { h }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$4 0 \\times$ objective lens.Images were obtained using laser scanning confocal microscope.GCaMP3 was excited using the $4 8 8 \\mathsf { n m }$ line of an argon laser and detected at $5 3 0 { - } 5 5 0 \\ \\mathrm { n m }$ .Ten to fifteen cells were randomly selected in each scan by drawing regions around individual cells,and the green fluorescence intensitywas monitored sequentially.Theresultsare representativeof at least three independent experiments,and we have confirmed the reproducibility of these findings. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Calcium uptake in permeabilized HeLa cells ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake in permeabilized cels was tested as previously described (Sancak etal.,2013). Briefly, HeLa cells grown in $1 0 \\ c m$ tissue culture plates were trypsinized and resuspended in $1 0 ~ \\mathsf { m L }$ of DMEM.One million of each cell lines were transferred to microcentrifuge tubes,followed by spining down for 3 min at $8 0 0 \\times g$ at room temperature.Then cells were washed with PBS once and resuspended in KCl buffer (125 mmol/L KCl,2 mmol/L ${ \\sf K } _ { 2 } { \\sf H P O } _ { 4 }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 mmol/L $\\mathsf { M g C l } _ { 2 }$ ，20mmol/L HEPES, ${ \\mathsf { p H } } 7 . 2 ^ { \\prime }$ ，supplemented with 5 mmol/L glutamate and malate, $0 . 0 1 \\%$ digitonin and $0 . 8 \\ \\mu \\mathrm { m o l / L }$ Green-5N.Fluorescence was monitored every 0.2s before and after addition of $5 0 ~ { \\mu \\mathrm { m o l / L } }$ final concentration of $\\mathsf { C a } ^ { 2 + }$ at $2 7 ^ { \\circ } \\mathsf { C }$ using a Thermo Scientific Varioskan Flash,filter sets $( \\mathsf { E } \\mathsf { x } 5 0 6 / \\mathsf { E } \\mathsf { m } 5 3 2 \\$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Immunoblot analysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cells were lysed in RIPA buffer (strong)(biyuntian，China).The concentrationof total proteinswasdetermined usingBCA protein concentration detection kit (biyuntian,China).The same amount of proteins were loaded on SDS-PAGE and resolved by electrophoresis,followed by transferring onto NC membrane.Then,the membranes were blocked with blocking buffer $( 5 \\%$ fat-free dry milk in TBST buffer) and incubated with primary antibodies and HRP labeled secondaryantibodies，respectively.Lastly，specific proteins were visualized with enhanced ECL plus Western bloting substrate according the manufacturer's instructions (Thermo). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Apoptosis analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For HeLa cells,apoptotic cells were quantified by flow cytometry using an Annexin-V-FITC apoptosis detection kit (biyuntian) following the manufacturer's instructions.For CGNs,apoptotic cells were detected by nuclei stainingusing Hoechest 33342.Primary CGNs were isolatedand seeded on glass piece.Seven days later,cells were transfected with plasmid or shRNA.Forty-eight hours later, cells were treated with $7 0 \\mu \\mathrm { m o l } / \\ L \\hat { \\mathsf { H } } _ { 2 } \\mathsf { O } _ { 2 }$ for $2 4 \\mathsf { h }$ ,and then cells were fixed and stained with Hoechest 33342.Neuronal apoptosis assay was performed as described (Konishi and Bonni,2oo3) byusing the Zeiss imager D1 microscope. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis of data ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Statistical data are presented as mean $\\pm \\mathsf { S } . \\mathsf { D }$ Significance was calculated by Student's t-test (\\*means $P < 0 . 0 5$ ，\\*\\*means $P < 0 . 0 1$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by a grant from Beijing Nature Science Foundation (Grant No．7132147).We sincerely thank Professor Guangju Ji for kindly providing plasmid Mito-GCaMP3 for us. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ABBREVIATIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MCU，mitochondrial calcium uniporter；CGN，cerebellar granule neurons;VDAC,voltage-dependent anion-selective channel protein. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "COMPLIANCEWITHETHICSGUIDELINES",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Yajin Liao,Yumin Hao,Hong Chen,Qing He,Zengqiang Yuan and Jinbo Cheng declare that they have no conflict of interest.All institutional and national guidelines for the care and use of laboratoryanimals were followed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "OPENACCESS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Thisarticle is distributed under the terms of the Creative Commons Atribution License which permitsany use， distribution，and reproduction in any medium，provided the original author(s)and the source are credited. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ahuja M，Muallem S (2014)The gatekeepers of mitochondrial calcium influx:MICU1 and MICU2.EMBO Rep 15:205-206   \nAlamMR,GroschnerLN,Parichatikanond W,Kuo L,Bondarenko Al, Rost R，Waldeck-Weiermair M，Malli R，Graier WF (2012) Mitochondrial $\\mathsf { C a } ^ { 2 + }$ uptake 1 (MiCU1) and mitochondrial $\\mathsf { C a } ^ { 2 + }$ uniporter (MCU) contribute to metabolism-secretion coupling in clonal pancreatic beta-cells.J Biol Chem 287:34445-34454   \nBaughman JM,Perocchi F,Girgis HS,Plovanich M, Belcher-Timme CA，Sancak Y,Bao XR,Strittmatter L,Goldberger O,Bogorad RL，Koteliansky V，Mootha VK (2011） Integrative genomics identifies MCU as an essential component of the mitochondrial calcium uniporter.Nature 476:341-345   \nBen-Hail D，Shoshan-Barmatz V (2012) Anion-transport blockers inhibit VDAC1 channel conductance,oligomerization and apoptosis.Febs J279:429-429 Brustovetsky N, Brustovetsky T, Jemmerson R,Dubinsky JM (2002) Calcium-induced cytochrome c release from CNS mitochondria is associated with the permeability transition and rupture of the outer membrane.J Neurochem 80:207-218 Chu ZL,Pio F, Xie Z,Welsh K, Krajewska M, Krajewski S,Godzik A, Reed JC (2001）A novel enhancer of the Apaf1 apoptosome involved in cytochrome c-dependent caspase activation and apoptosis.J Biol Chem 276:9239-9245 De Stefani D,Raffaello A,Teardo E, Szabo I, Rizzuto R (2011)A forty-kilodalton protein of the inner membrane is the mitochondrial calcium uniporter. Nature 476:336-340 Dong HL,Wang SL,Zhang ZW,Yu AL,Liu Z (2014) The effect of mitochondrial calcium uniporter opener spermine on diazoxide against focal cerebralischemia-reperfusion injury inrats. J Stroke Cerebrovasc 23:303-309 Fernandez-Echevarria C,DiazM,Ferrerl,Canerina-AmaroA,Marin R (2014) Abeta promotes VDAC1 channel dephosphorylation in neuronal lipid rafts.Relevance to the mechanisms of neurotoxicity in Alzheimer's disease.Neuroscience 278:354-366 Gincel D, Zaid H, Shoshan-Barmatz V (2001) Calcium binding and translocation by the voltage-dependent anion channel: a possible regulatory mechanism in mitochondrial function.Biochem J   \n358:147-155 Halestrap AP,Connern CP, Griffths EJ, Kerr PM(1997) Cyclosporin A binding to mitochondrial cyclophilin inhibits the permeability transition pore and protects hearts from ischaemia/reperfusion injury. Mol Cell Biochem 174:167-172 Hall DD，Wu YJ，Domann FE，Spitz DR，Anderson ME (2014) Mitochondrial calcium uniporter activity is dispensable for MDAMB-231 breast carcinoma cell survival. PLoS ONE 9:e96866 Keinan N, Pahima H, Ben-Hail D, Shoshan-Barmatz V (2013) The role of calcium in VDAC1 oligomerization and mitochondriamediated apoptosis. Bba-Mol Cell Res 1833:1745-1754 Kinnally KW, Peixoto PM, Ryu SY, Dejean LM (2011) Is mPTP the gatekeeper for necrosis，apoptosis，or both? Biochimica et biophysica acta 1813:616-622 Konishi Y，Bonni A (2003） The E2F-Cdc2 cell-cycle pathway specifically mediates activity deprivation-induced apoptosis of postmitotic neurons. J Neurosci 23:1649-1658 Kumfu S，Chattipakorn S，Fucharoen S,Chattipakorn N (2012) Mitochondrial calcium uniporter blocker prevents cardiac mitochondrial dysfunction induced by iron overload in thalassemic mice.Biometals 25:1167-1175 Madesh M, Hajnoczky G (2001) VDAC-dependent permeabilization of the outer mitochondrial membrane by superoxide induces rapid and massive cytochrome c release.J Cell Biol 155:1003-   \n1015 Mallilankaraman K, Cardenas C, Doonan PJ, Chandramoorthy HC, IrrinkiKM,GolenarT,Csordas G,MadireddiP,YangJ,Muller M, Miller R,Kolesar JE,Molgo J, Kaufman B,Hajnoczky G,Foskett JK，Madesh M (2012a) MCUR1 is an essential component of mitochondrial ${ \\mathsf { C a } } ^ { 2 + }$ uptake that regulates cellular metabolism. Nature Cell Biol 14:1336-1343 Mallilankaraman K, Doonan P, Cardenas C, Chandramoorthy HC, Muller M，Miller R，Hoffman NE，Gandhirajan RK，Molgo J, Birnbaum MJ，Rothberg BS，Mak DO，Foskett JK，Madesh M (2012b）MICU1 is an essential gatekeeper for MCU-mediated mitochondrial ${ \\mathsf { C a } } ( 2 + )$ uptake that regulates cell survival.Cell   \n151:630-644 Naranmandura H, Chen X,Tanaka M,Wang WW,Rehman K,Xu S, Chen Z，Chen SQ，Suzuki N (2012) Release of apoptotic cytochrome C from mitochondria by dimethylarsinous acid occurs through interaction with voltage-dependent anion channel in vitro. Toxicol Sci 128:137-146 Pan X, Liu J,Nguyen T, Liu CY, Sun JH,Teng YJ,Fergusson MM, Rovira Il, Allen M, Springer DA,Aponte AM,Gucek M,Balaban RS，Murphy E，Finkel T (2013）The physiological role of mitochondrial calcium revealed bymice lacking the mitochondrial calcium uniporter.Nature Cell Biol 15:1464-1472 Pestana CR,Silva CH,Uyemura SA,Santos AC,Curti C (2010) Impact of adenosine nucleotide translocase (ANT） proline isomerization on ${ \\mathsf { C a } } ^ { 2 + }$ -induced cysteine relative mobility/mitochondrial permeability transition pore.J Bioenerg Biomembr   \n42:329-335 Qiu J,Tan YW,Hagenston AM,Martel MA,Kneisel N,Skehel PA, WyllieDJ，Bading H，Hardingham GE (2013)Mitochondrial calcium uniporter MCU controls excitotoxicity and is transcriptionally repressed by neuroprotective nuclear calcium signals. Nat Commun 4:2034 Raffaello A,De Stefani D, Sabbadin D,Teardo E,Merli G,Picard A, Checchetto V, Moro S,Szabo I, Rizzuto R (2013) The mitochondrial calcium uniporter is a multimer that can include a dominantnegative pore-forming subunit. EMBO J32:2362-2376 Rapizzi E,PintonP,Szabadkai G,Wieckowski MR,Vandecasteele G,Baird G,Tuft RA,Fogarty KE,Rizzuto R (2002) Recombinant expression of the voltage-dependent anion channel enhances the transfer of ${ \\mathsf { C a 2 + } }$ microdomains to mitochondria.J Cell Biol   \n159:613-624 Robb-Gaspers LD，Burnett P,Rutter GA,Denton RM,Rizzuto R, Thomas AP(1998) Integrating cytosolic calcium signals into mitochondrial metabolic responses.Embo J17:4987-5000 Sancak Y,Markhard AL，Kitami T,Kovacs-Bogdan E，Kamer KJ, Udeshi ND,Carr SA,Chaudhuri D,Clapham DE,Li AA,Calvo SE，Goldberger O，Mootha VK (2013）EMRE is an essential component of the mitochondrial calcium uniporter complex. Science 342:1379-1382 Schwartz J,Holmuhamedov E,Zhang X,Lovelace GL,Smith CD, Lemasters JJ (2013) Minocycline and doxycycline,but not other tetracycline-derived compounds,protect liver cells from chemical hypoxia and ischemia/reperfusion injuryby inhibition of the mitochondrialcalciumuniporter.ToxicolApplPharmacol 273:172-179   \nShoshan-Barmatz V,ZakarM,Rosenthal K,Abu-Hamad S (2009) Keyregions of VDAC1 functioning in apoptosis induction and regulation by hexokinase. Biochimica et biophysica acta 1787:421-430   \nShoshan-Barmatz V, Keinan N,Abu-Hamad S,Tyomkin D,Aram L (2010)Apoptosis is regulated by the VDAC1 N-terminal region and by VDAC oligomerization: release of cytochrome c,AlF and Smac/Diablo. Bba-Bioenergetics 1797:1281-1291   \nSripetchwandee J，Kenknight S,Sanit J,Chattipakorn S,Chattipakorn N (2013a） Blocking mitochondrial calcium uniporter completely prevents cardiac mitochondrial dysfunction caused by iron overload.JAm Coll Cardiol 61:E705-E705   \nSripetchwandee J，Sanit J，Chattipakorn N，Chattipakorn SC (2013b）Mitochondrial calcium uniporter blocker efectively prevents brain mitochondrial dysfunction caused by iron overload. Life Sci 92:298-304   \nSripetchwandee J,KenKnight SB,Sanit J,Chattipakorn S,Chattipakorn N (2014） Blockade of mitochondrial calcium uniporter prevents cardiac mitochondrial dysfunction caused by iron overload.Acta Physiol 210:330-341   \nXie Q,Hao Y,Tao L,Peng S,Rao C,Chen H,You H, Dong MQ, Yuan Z (2012) Lysine methylation of FOXO3 regulates oxidative stress-induced neuronal cell death.EMBO reports 13:371-377   \nXu X,Decker W,Sampson MJ,Craigen WJ,Colombini M (1999) Mouse VDAC isoforms expressed in yeast: channel properties and their roles in mitochondrial outer membrane permeability. JMembr Biol 170:89-102   \nZhao Q,Wang SL, LiY,Wang P, Li SH,Guo YL,Yao RY (2013) The role of the mitochondrial calcium uniporter in cerebral ischemia/ reperfusion injury inrats involves regulation of mitochondrial energy metabolism.Mol Med Rep 7:1073-1080   \nZheng Y, Shi Y,Tian C,Jiang C,Jin H,Chen J,Almasan A,Tang H, Chen Q (2oo4） Essential role of the voltage-dependent anion channel (VDAC） in mitochondrial permeability transition pore opening and cytochrome C release induced by arsenic trioxide. Oncogene 23:1239-1247 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

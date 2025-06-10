@@ -1,0 +1,150 @@
+# 基础研究
+
+# GSK-3β对小鼠骨髓树突状细胞成熟和功能的调控作用
+
+褚 帅',李海侠',李 欣'，康 霞'，黄清水}²,王红霞'，裘宇容1  
+'南方医科大学南方医院检验医学科,广东广州 510515;南昌大学第一附属医院检验科,江西 南昌 330006
+
+摘要：目的 探讨GSK-3β对小鼠骨髓树突状细胞(BMDC)成熟和功能的调控作用。方法 脂多糖催熟 BMDC,Westembloting检测刺激前后糖原合成酶激酶-3β(GSK-3β)的磷酸化水平的改变;利用GSK-3β的选择性抑制剂SB216763处理BMDC,检测表型、细胞因子表达和混合淋巴反应(MLR)的变化情况;构建过表达小鼠GSK-3β的慢病毒载体并转染 DC2.4细胞，Westermbloting检测过表达GSK-3β对调控树突状细胞(DC)成熟的关键调控因子鸟的网状内皮组织增生病毒癌基因相关B(RelB)蛋白水平的影响。结果经脂多糖处理后,GSK-3βY216磷酸化水平下调,Ser9磷酸化水平显著上调，表明GSK-3β的活性显著下降。抑制GSK-3β的活性能上调DC表面共刺激分子CD40和CD86的表达，削弱脂多糖诱导的促炎细胞因子IL-6和IL-12表达上调,而对抗炎细胞因子IL-10的表达有促进作用，同时降低脂多糖诱导成熟的DC刺激同种异基因T细胞增殖的能力。在未成熟的DC2.4细胞中，过表达GSK-3β能够下调ReIB的水平。结论GSK-3β参与调控DC的成熟和功能，高活性的GSK-3β抑制未成熟树突状细胞(iDC)的自发性成熟,GSK-3β失活后促进DC表型的成熟，而在脂多糖诱导DC分化的过程中GSK-3β发挥促炎作用。GSK-3β能够下调RelB的蛋白水平,有望成为构建新型耐受性DC的新靶点。
+
+关键词：糖原合成酶激酶-3β;树突状细胞;成熟和功能；鸟的网状内皮组织增生病毒癌基因相关B
+
+# Role of glycogen synthase kinase $3 \beta$ in maturation and function of murine myeloid dendritic cells in vitro
+
+CHUShuai’,LIHaixia’,LIXint,KANGXia’,HUANGQingshui2,WANGHongxia',QIurog   
+LaboratorydicineCntefangspitaloutendicalesityangzou5，a;Cicalboatort   
+AffiliatedHospital ofNanchangUniversity,Nanchang 33ooo6,China
+
+Abstract: Objective To investigate the role of glycogen synthase kinase $3 \beta$ (GSK-3β) in the maturation and function of murine bone marrow-derived dendritic cels (BMDCs). Methods Mature DCs (mDCs) induced by LPS were examined for GSK- $3 \beta$ phosphorylation level with Western blotting before and after LPS exposure. To explore the role of GSK- $3 \beta$ in maturation and function of DCs,we added SB216763,a selective inhibitor of GSK- ${ \bf \nabla } \cdot 3 \beta ,$ in the cell culture of immature DCs (iDCs), and examined CD40 andCD86 expreions ithecelsbyflowcytometryand the expressonof IL-6,IL-12and IL-10 mRNAbyreal-time PCR;the changes of the immunogenicity of the cels was evaluated by mixed lymphocyte reaction. The expresion of GSK- $3 \beta$ and RelB was examined by Western blotting in DC2.4 cels transfected with a lentiviral vector over-expressing murine $_ \mathrm { G S K - 3 \beta }$ gene. Results LPS exposure significantly lowered GSK- $3 \beta$ activity in iDCs as demonstrated by increased Ser9 phosphorylation and reduced Tyr216 phosphorylation. GSK- $3 \beta$ inhibition induced DC maturation by increasing the expression of surface costimulatorymoleculesCD40andCD86,loweredtheexpressnsof IL-6andIL-12whileenhancedtheexpresionofI-10in iDCs,and impaired mixed lymphocyte reaction of thecels. InDC2.4cels,lentivirus-mediated over-expressionof GSK- $3 \beta$ obviously down-regulated the expression of RelB. Conclusion GSK- $3 \beta$ is a crucial enzyme involved in the differentiation and maintenance of an immature phenotype of DCs. GSK- $3 \beta$ is constitutively active in iDCs to inhibit their spontaneous maturation. DCs become phenotypically mature after inhibition of GSK- $3 \beta ,$ ，which also executes a proinflammatory task in DC activation. The reduction of RelB protein levels as a result of GSK- $\cdot 3 \boldsymbol { \beta }$ overexpression supports GSK- $3 \beta$ as a new target for inducing tolerogenic DCs.
+
+Key words: GSK- ${ \bf \nabla } \cdot 3 \beta _ { { \bf \nabla } }$ ; dendritic cells; maturation and function; RelB
+
+树突状细胞(DC)的功能关键取决于其所处的发育阶段。成熟的树突状细胞 $\mathrm { \Omega _ { m D C } ) }$ 可激活免疫应答，未成熟树突状细胞(iDC)则诱导免疫耐受。自身免疫性疾病患者体内DC易于成熟，大部分处于成熟状态，其过度提呈自身抗原导致自身耐受丧失和免疫调节功能紊乱[。因此,研究DC成熟的分子机制、探索维持DC未成熟状态的新途径，通过诱导产生耐受型DC对机体进行免疫重建和恢复免疫平衡，成为自身免疫性疾病治疗的研究热点[2]。
+
+GSK-3β是一种广泛存在于真核细胞的多功能丝/苏氨酸蛋白激酶，在多种细胞功能活动的调节中扮演着重要的角色，与代谢、信号转导、细胞周期、基因表达、生长发育、肿瘤发生以及神经保护均密切相关3]。近年来，GSK-3β在免疫学领域的研究得到发展，其在固有免疫、获得性免疫应答中发挥着重要作用，因此成为受免疫学家瞩目的焦点蛋白[4]。目前，GSK-3β对DC成熟和功能的影响并不明确。
+
+本研究比较了iDC和mDC中GSK-3β的活性变化，初步证实GSK-3β是否参与DC成熟和功能的调控;利用小分子抑制剂抑制GSK-3β的活性,观察GSK- $\cdot 3 \beta$ 对DC成熟和功能的影响；进一步探究了GSK-3β对调控DC成熟的关键转录因子ReIB表达的影响，为GSK-3β作为新靶点应用于耐受性DC的构建提供依据。
+
+# 1材料与方法
+
+# 1.1实验动物
+
+6\~8周龄SPF级纯系雄性C57BL/6和BALB/c小鼠，由南方医科大学实验动物研究所提供。
+
+# 1.2主要试剂
+
+澳洲胎牛血清、RPMI1640培养基和PBS(Gibco);rhGM-CSF和 rhIL-4(Peprotech);脂多糖和SB216763（Sigma）；CD11cMicroBeads（Miltenyibiotec）；尼龙毛(Polysciences);红细胞裂解液(北京碧云天);封闭抗体CD16/32，大鼠 抗小鼠FITC-CD11c、APC-CD40、PerCP-eFluor710-MHC-II流式抗体及相应同型抗体(eBioscience)；大鼠抗小鼠PE-CD86流式抗体及其同型抗体(BD);CCK-8细胞增殖-毒性检测试剂盒（日本同仁化学研究所);丝裂霉素C(Roche)；TriZol试剂、逆转录试剂盒和荧光定量PCR检测试剂盒(TaKaRa)；兔抗鼠 $\beta$ -actin、GSK-3β及其Ser9和Y216磷酸化抗体(CST);兔抗鼠RelB抗体(SantaCruz);HRP-羊抗兔IgG二抗(北京博奥森)
+
+# 1.3小鼠BMDC的分离和培养
+
+小鼠BMDC的分离和培养的方法参考本实验室发表的文章[5。无菌取C57BL/6小鼠股骨和胫骨骨髓细胞，裂解红细胞后，调整细胞浓度为 $1 { \times } 1 0 ^ { 6 } / \mathrm { m L }$ ，以每孔 $4 ~ \mathrm { m L }$ 接种于6孔板，并加入终浓度为 $2 0 ~ \mathrm { n g / m L }$ 的rmGM-CSF和 $1 0 ~ \mathrm { n g / m L }$ 的 $\mathrm { r m I L } { - } 4 , 3 7 \ \mathrm { \% } \ . 5 \% \ \mathrm { C O } _ { 2 }$ 条件下培养。培养的第2天，经手法筛选弃去悬浮细胞，补充含相同浓度细胞因子的培养基;第4天半量换液，补足细胞因子；培养至第6天，收集半贴壁和悬浮的细胞，即为未成熟DC。台盼蓝染色鉴定活力，取活力较好的细胞经CD11c免疫磁珠纯化，用于后续实验，
+
+# 1.4DC2.4细胞的培养
+
+树突状细胞系DC2.4购自于上海蕾蒂生物科技发展公司。使用含 $10 \%$ FBS的RPMI1640培养基于$3 7 \%$ $\mathrm { C O } _ { 2 }$ 条件下培养。
+
+# 1.5SB216763处理未成熟DC和分组
+
+收集纯化后的未成熟DC，铺于12孔板，每孔 $2 { \times } 1 0 ^ { 6 }$ 个细胞,培养体系为 $2 \mathrm { m L }$ 。加入 $1 0 ~ \mathrm { \textmu m o l / L }$ SB216763,或 $1 ~ \mu \mathrm { g / m L }$ 脂多糖,或加人 $1 0 \mathrm { \ : \mu m o l / L }$ SB216763 20 min后加入 $1 ~ \mu \mathrm { g / m L }$ 脂多糖，或加等量DMSO作为阴性对照。继续培养 $2 4 \mathrm { h }$ ，进行表型、细胞因子和MLR检测。
+
+# 1.6流式细胞术检测DC表型
+
+收集DC,用含 $2 \%$ FBS的PBS洗涤后调整浓度为$5 { \times } 1 0 ^ { 6 } / \mathrm { m L }$ ，取 $1 0 0 ~ \mu \mathrm { L }$ 加入 $1 \ \mu \mathrm { L } \ C \mathrm { D } 1 6 / 3 2$ 抗体封闭，冰上放置 $1 0 \mathrm { m i n }$ 。按说明书加入适量的流式抗体或相应同型抗体， $4 ^ { \circ } \mathrm { C }$ 避光孵育 $2 0 ~ \mathrm { m i n }$ 。离心洗去抗体，加入$5 0 0 ~  { \mu \mathrm { L } }$ 的PBS上流式细胞仪(FACSCalibur流式细胞仪，BD公司)进行检测。
+
+# 1.7qRT-PCR检测细胞因子的表达
+
+收集各组DC,采用Trizol试剂盒提取总RNA,Takara逆转录试剂盒合成cDNA,然后进行qRT-PCR反应。反应条件：预变性 $9 5 \ \mathrm { ^ circ C \ 1 5 \ \mathrm { s } }$ ，之后每一步预变性$9 5 ^ { \circ } \mathrm { C } 5 \mathrm { ~ s ~ }$ ，退火延伸 $6 0 \ \mathrm { ^ { \circ } C } \ 3 0 \ \mathrm { s }$ ，共40个循环。PCR引物自行设计并交由上海生工生物工程有限公司合成，引物序列见表1。 $\beta$ -actin作为内参，结果以Folds $\scriptstyle : = 2 ^ { - \Delta \Delta \mathrm { C t } }$ 表示实验组与对照组目的基因表达的倍比关系，公式如下$\Delta \Delta \mathrm { C t } =$ 1 $\mathrm { C t }$ (target gene)-Ct( $| \beta \cdot$ -actin)）实验组-(Ct(targetgene)- $. \mathbf { C t } ( \beta \cdot$ -actin))对照组。
+
+表1待测基因引物序列 Tab.1 Primer sequences in qPCR   
+
+<html><body><table><tr><td>Primer</td><td>Sequences</td></tr><tr><td>β-actin</td><td>F:5'-GTGGGCCGCTCTAGGCACCAA-3 R:5'-CTCTTTGATGTCACGCACGATTTC-3'</td></tr><tr><td>IL-6</td><td>F:5'-CCGGAGAGGAGACTTCACAG-3' R:5'-GGAAATTGGGGTAGGAAGGA-3'</td></tr><tr><td>IL-12</td><td>F:5'-CTCACCTGTGACACGCCTGA-3' R:5'-CAGGACACTGAATACTTCTC-3'</td></tr><tr><td>IL-10</td><td>F:5'-CAGGACACTGAATACTTCTC-3' R:5'-CCAAGCCTTATCGGAAATGA-3'</td></tr></table></body></html>
+
+# 1.8单向混合淋巴细胞反应(MLR)
+
+无菌取BALB/c小鼠脾脏，制备单个悬浮细胞，裂解红细胞后，经尼龙毛柱提纯得到T细胞。调整细胞浓度至 $2 { \times } 1 0 ^ { 6 } / \mathrm { m L }$ ,将细胞悬液按每孔 $1 0 0 ~ \mu \mathrm { L }$ 铺于96孔培养板中作为反应T细胞。收集各DC作为刺激细胞，加人丝裂霉素C( $2 5 ~ \mu \mathrm { g / m L } ,$ 置 $3 7 ~ \mathrm { ^ { \circ } C }$ 水浴 $3 0 \mathrm { m i n }$ ,调整细胞浓度为 $2 { \times } 1 0 ^ { 5 } / \mathrm { m L }$ 。每组按反应细胞与刺激细胞的比例为 $1 { : } 1 0$ 接种于96孔板中共培养，每组设3个复孔。同时设单纯T细胞为阴性对照。 $3 7 \ \%$ （204号 $\mathrm { C O } _ { 2 }$ 环境中培养 $7 2 \mathrm { { h } }$ ，培养结束前 $^ { 4 \mathrm { h } }$ 于每孔加入 $2 0 { \mu \mathrm { L } }$ CCK-8试剂，培养结束后以 $4 5 0 \mathrm { n m }$ 波长测定吸光度(A)值。结果以刺激指数(stimulationindex,SI)表示,即(各实验组A值-对照组A值)/对照组A值。
+
+# 1.9Westernblotting检测蛋白和磷酸化水平
+
+利用 $1 \mu \mathrm { g / m L }$ 的脂多糖处理经免疫磁珠纯化后的未成熟DC,分别在处理 $0 . 3 0 \mathrm { m i n }$ 和 $6 0 \mathrm { m i n }$ 时收集细胞进行蛋白检测。提取各组细胞总蛋白，经 $12 \%$ 的SDS-PAGE胶电泳分离，转至PVDF膜。 $5 \%$ 脱脂牛奶室温封闭 $3 \ : \mathrm { h } , 4 \ : \mathrm { ‰ }$ 过夜孵育一抗，洗膜后再与二抗杂交$^ { \textrm { 1 h } }$ 。再次洗膜后以增强型化学发光(ECL)试剂盒显影检测蛋白的表达。
+
+# 1.10慢病毒载体的构建和转染
+
+在GeneBank中查询GSK-3β(NM_019827)基因序列，交由广州莱德尔公司进行过表达质粒构建和鉴定，慢病毒包装和生物学滴度测定。实验前1天，以 $2 \times$ $1 0 ^ { 5 } / \mathrm { m L }$ 的DC2.4细胞接种6孔板，培养体系为 $2 { \mathrm { ~ m L ~ } }$ □转染时，按照MOI值 $\scriptstyle \sum 0$ 配制病毒转染溶液，加入终浓度为 $8 ~ \mu \mathrm { g / m L }$ 的polybrene,充分混匀后替换原培养基进行转染。继续培养 $2 4 \mathrm { h }$ 观察细胞状态，并更换新鲜培养基。扩增细胞后,利用Westernblotting检测转染效果以及RelB的表达情况。转染细胞分为3组:LV-GSK- $\cdot 3 \beta$ 转染组、空载转染组和空白对照组。
+
+# 1.11 统计学分析
+
+采用SPSS13.0软件进行统计分析，所有数据采用均数 $\stackrel { \cdot } { \pm }$ 标准差表示，两组间比较采用t检验，多组间比较采用单因素方差分析(Oneway-ANOVA),方差齐时采用LNK或Bonferroni's法，方差不齐时采用Dunnett's法， $P { < } 0 . 0 5$ 认为差异具有统计学意义。
+
+# 2结果
+
+2.1DC成熟过程中GSK-3β的活性降低
+
+GSK-3β的活性主要受2个磷酸化位点的调节，Tyr216的磷酸化促进GSK-3β的活性，而 $\operatorname { S e r 9 }$ 的磷酸化抑制其活性[。iDC是处于静止状态下的DC细胞,其胞内GSK- $3 \beta$ Tyr216的磷酸化水平较高，而Ser9磷酸化水平较低,说明iDC中大部分GSK-3β处于活化状态。脂多糖是革兰阴性细菌胞壁组分，可通过TLR途径强有力地促进DC完全成熟。经 $1 ~ \mu \mathrm { g / m L }$ 脂多糖分别刺激$3 0 \mathrm { m i n }$ 和 $6 0 \mathrm { m i n }$ 后， $\mathrm { T y r } 2 1 6$ 的磷酸化水平降低，而Ser9的磷酸化水平显著升高，说明经脂多糖刺激成熟的过程中,iDC的GSK-3β活性降低(图1)。这提示GSK-3β可能参与DC的成熟和功能的调控机制。
+
+![](images/378817e3f128ea7d1afb3039a301cbe1428393f71dfb4b657abc3a7efe390051.jpg)  
+图1脂多糖诱导DC成熟过程中GSK-3β的活性降低 Fig.1 GSK- $3 \beta$ activity in DCs was reduced after LPS exposure.A: Phosphorylation levels detected by Western bloting; B:Quantitative analysis of phosphorylation of GSK- $3 \beta$ in DCs. $^ { * } P { < } 0 . 0 5 ,$ $* * * P { \ < } 0 . 0 0 1$ vs control.
+
+# 2.2抑制GSK-3β的活性促进DC的表型成熟
+
+SB216763是GSK-3β的选择性抑制剂，经典浓度$1 \ \mu \mathrm { m o l / L }$ 的SB216763能显著抑制GSK-3β的活性。利用 $1 \ \mu \mathrm { m o l / L }$ 的 SB216763处理iDC $2 4 \mathrm { h }$ ,流式细胞术检测DC表面共刺激分子CD40和CD86的表达。结果显示，SB216763处理组CD40和CD86的百分比显著高于对照组iDC(图 $^ { 2 , P }$ 均 $< 0 . 0 1$ )。因此，抑制GSK-3β的活性能够促进DC表型的成熟。
+
+2.3GSK-3β在脂多糖诱导DC成熟的过程发挥促炎作用如图3所示，经SB216763处理后，DCs中促炎细胞因子IL-6mRNA水平显著下降，而IL-10的水平则显著上调。抑制GSK-3β的活性能削弱脂多糖诱导DCs中IL-6和IL-12的表达上调,而促进IL-10的表达。这说明GSK-3β在脂多糖刺激DC活化成熟的过程中获得了一种新的功能，即发挥促炎的作用。
+
+# 2.4抑制GSK-3β降低DC刺激同种异基因T细胞增殖的能力
+
+SB216763处理组的BMDC刺激T细胞增殖的能力与空白对照组相比差异无统计学意义(图4 $\cdot , P { > } 0 . 0 5 )$ 且远远低于脂多糖处理组。这提示SB216763处理的DC不具有激活同种异基因T细胞的能力，SB216763处理的DC并未达到功能上的完全成熟。另外，共处理组的T细胞增殖的能力较单独脂多糖处理组有所降低(图$4 , P { < } 0 . 0 5 \$ )，表明抑制GSK-3β的活性能削弱经脂多糖催熟的DC的刺激同种异基因T细胞增殖的能力。
+
+![](images/c80065cc0df45bbbac4ab7e462f07cdcf83499d5c72bc68715e591d9044f3162.jpg)  
+图2抑制GSK-3β的活性促进DC表型的成熟 Fig.2 GSK- $3 \beta$ inhibition induced a maturation phenotype of the DCs.A: Expresion of surface CD40 and CD86 detected by flow cytometry; $B ,$ C: Percentages of surface CD40 and CD86 in DCs,respectively. DMSO: DMSO treatment; SB: $1 \ \mathrm { \mu m o l / L }$ SB216763 treatment. $^ { * * } P { < } 0 . 0 1$ vs control group.
+
+![](images/9a751d9a883f9de6bc9569411c5321b132879a4779d3bc11e2f9c900ed42a508.jpg)  
+图3抑制GSK-3β的活性对DC细胞因子表达的影响 Fig.3Effect of $\mathrm { G S K } { - } 3 \beta$ inhibition on expression of cytokines in DCs.DMSO:DMSO treatment; SB:1 $\mu \mathrm { m o l / L }$ SB216763 treatment; LPS: $1 \ \mu \mathrm { g / m L }$ LPS treatment; ${ \mathrm { S B } } + { \mathrm { L P S } }$ ： $1 ~ \mu \mathrm { g / m L }$ LPS treatment after 1 $\mu \mathrm { m o l / L }$ SB216763 pretreatment for $2 0 \ \mathrm { m i n }$ ： $^ { * } P { < } 0 . 0 5 .$ $^ { * * } P { < } 0 . 0 1$ us control group.
+
+![](images/ae34476333314256670836f8d36d5ed92e025e365daf027986fc23ba90eede97.jpg)  
+图4抑制GSK-3β降低DC刺激同种异基因T细胞增 殖的能力 Fig.4Mixed lymphocyte reaction of LPS-induced DCs was impaired by inhibition of $_ { G S K - 3 \beta }$ activity. DMSO:DMSO treatment; SB: $1 \ \mathrm { \ \mu m o l / L }$ SB216763 treatment; LPS: $1 ~ \mu \mathrm { g / m L }$ LPS treatment; $S \mathrm { B } + \mathrm { L P S }$ ：1 $\mu \mathrm { g / m L }$ LPS treatment after $1 \ \mathrm { \ \ u m o l / L }$ SB216763 pretreatment for $2 0 \mathrm { m i n }$ $^ { * } P { < } 0 . 0 5$ vs control.
+
+2.5过表达GSK $3 \beta$ 下调DC成熟关键转录因子ReIB的表达
+
+携带GSK-3β基因的慢病毒载体转染DC2.4细胞后，利用Westernblotting检测GSK-3β和RelB的表达情况。结果显示,LV-GSK-3β组GSK-3β的表达比未转染组和空载转染组显著升高，说明携带GSK-3β基因的慢病毒成功转染了DC2.4细胞，并在细胞内正确表达(图5)。LV-GSK-3β组ReIB水平则较其它2组的显著下调，说明过表达GSK-3β能够下调RelB的表达。
+
+# 4讨论
+
+利用iDC诱导免疫耐受并应用于自身免疫性疾病的研究已经成为人们关注的热点。最近的研究显示，体内输入iDC诱导免疫耐受能显著缓解系统性红斑狼疮小鼠的症状。然而,输入体内的iDC在机体复杂的炎症环境的刺激下快速成熟,其治疗效果受到严重影响[8]。因此深入研究调控DC成熟的信号通路和分子机制并加以干预，以维持DC的未成熟状态，是iDC诱导免疫耐受用于自身免疫性疾病治疗的关键[9]。
+
+GSK-3β是一种多功能的丝氨酸/苏氨酸蛋白激酶，能平衡促炎/抑炎细胞因子的表达，影响免疫细胞的分化、成熟和功能，在固有免疫和获得性免疫中发挥重要作用[4]。本研究结果显示，GSK-3β参与小鼠BMDC成熟和功能的调控。我们发现iDC中GSK-3β处于高度活化的状态，经脂多糖处理后，GSK-3β的活性显著降低，提示了GSK-3β的活性变化与DC的成熟度有关联。进一步抑制GSK-3β的活性后，DC表面分子CD40和CD86的表达显著上调，表明抑制GSK-3β的活性可以促进DC表型的成熟，iDC中高度活化的GSK-3β抑制DC的自发性成熟。这一结果与Alessandrini[的研究一致。但是经 $1 0 ~ \mathrm { \textmu m o l / L }$ SB216763处理的DC促炎细胞因子IL-6的表达下调，而抑炎细胞因子IL-10的表达显著上调，其刺激同种异基因T细胞增殖的能力没有提高，说明通过抑制GSK-3β活性而活化的DC并没有实现功能上的完全成熟，其促进免疫应答的能力相当有限,仍然属于一种耐受型的 $\mathrm { D C } ^ { [ 1 1 - 1 2 ] }$ 。Jiang[13的研究表明，激活 $\beta$ -catenin信号通路上调小鼠DC细胞表面分子CD86的表达，但对炎症细胞因子的表达没有显著影响，此时的DC仍然具有诱导调节性T细胞和免疫耐受的功能。 $\beta$ -catenin是GSK-3β的下游蛋白，抑制GSK-3β的活性能提高 $\beta$ -catenin的稳定性[14]。因此GSK-3β可能通过β-catenin途径影响DC的表型。
+
+![](images/6b010179c35677f1ccb96f65b6331c95c87f8358b0884a78b9024adc0662b646.jpg)  
+图5在DC2.4细胞中过表达GSK-3β能够下调RelB的蛋白水平 Fig.5 Over-expression of GSK-3β down-regulated the level of RelB in DC2.4 cells.A: Expression of GSK- $3 \beta$ and RelB detected by Western blotting; B: Quantitative analysis of expression of GSK- $3 \beta$ and RelB.Mock: Untreated group; LV-NC: Cells transduced with negative vectors; LV-GSK-3β: Cells transduced with lentiviral vectors harboring GSK- $3 \beta$ gene. $* * P <$ （204号 0.01.
+
+DC处于未成熟状态时，GSK-3β高度活化，起到抑制DC自发性成熟的作用，但在脂多糖诱导DC成熟过程中，GSK-3β获得了一种新的功能，即发挥促炎的作用。抑制GSK-3β削弱脂多糖诱导的促炎细胞因子IL-6和IL-12的表达，促进抑炎细胞因子IL-10的表达，这与Martin[5的研究成果完全吻合。此外，抑炎因子IL-10表达增高，而促炎细胞因子IL-6和IL-12的表达减少，可能是抑制GSK-3β后脂多糖诱导DC激活T细胞的能力降低的重要原因。
+
+DC的成熟和功能与NF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 途径的活化密切相关。在NF- $\kappa \mathbf { B }$ 的5个成员中，ReIB基因的活化对DC发育成熟的作用最为关键。ReIB敲除的小鼠出现DC成熟障碍[16,静默ReIB的DC长期处于未成熟状态,并具有诱导免疫耐受的功能[17-18]。动物研究表明,体内输注ReIB沉默的DC能有效地抑制移植排斥反应和缓解自身免疫性疾病2的症状。因此，通过沉默ReIB使iDC丧失成熟的能力被认为是诱导机体免疫耐受的最佳选择。DC2.4是由GM-CSF、v-myc和v-raf基因转染的C57BL/6小鼠骨髓细胞建立的未成熟永生化细胞系，它与小鼠骨髓来源的DC形态和功能相近[21]。本实验构建了过表达GSK-3β的慢病毒载体并成功转染DC2.4细胞，结果显示过表达GSK-3β可以降低ReIB蛋白的水平，这与Neumann[22在人类T细胞中的研究一致。Neumann[22发现GSK-3β通过诱导RelB磷酸化，促进RelB泛素化进而被蛋白酶体降解。在iDC中,GSK-3β保持着较高的活性，可能是诱导ReIB降解的关键蛋白，其通过诱导ReIB的降解使得ReIB保持较低的水平。这进一步提示了我们可以在iDC中过表达持续活性的GSK-3β,使ReIB长期保持在低表达水平，从而阻断DC的活化成熟，用于自身免疫性疾病的治疗。
+
+总之，我们的结果显示GSK-3β在DC成熟的过程中发挥重要作用。一方面,在iDC中,高活性的GSK-3β能维持DC的未成熟状态，GSK-3β失活促进DC表型的成熟;另一方面，在DC成熟的过程中，GSK-3β获得一种新的功能，即发挥促炎作用。此外，我们首次发现在iDC中过表达GSK-3β可以下调ReIB蛋白的水平，这提示在DC的发育早期，我们可以采取一些手段提高GSK-3β的活性，如构建Ser9突变的持续活化型GSK-3β,以此限制ReIB的表达，使得DC长期处于未成熟的状态。GSK-3β将可能成为构建新型耐受型DC以及诱导免疫耐受治疗自身免疫性疾病的新靶点。
+
+# 参考文献：
+
+[1]Mackern-Oberti JP,Llanos C,Vega F,et al. Role of dendritic cells
+
+in the initiation,progress and modulation of systemic autoimmune diseases[J].Autoimmun Rev,2015,14(2): 127-39.   
+[2]Mok MY. Tolerogenic dendritic cells:role and therapeutic implications in systemic lupus erythematosus[J].Int JRheum Dis, 2015,18(2): 250-9.   
+[3]Takahashi-Yanaga F.Activator or inhibitor? GSK-3 as a new drug target[J].Biochem Pharmacol,2013,86(2):191-9.   
+[4]Wang H,Brown J,Martin M. Glycogen synthase kinase 3: a point of convergence for the host inflammatory response[J].Cytokine, 2011,53(2): 130-40.   
+[5]顾春瑜,王 前,郑 磊,等.小鼠骨髓耐受性树突状细胞的体外培养与 鉴定[J].第一军医大学学报,2005,,25(8):959-62.   
+[6]Gao S, Brown J, Wang H,et al. The role of glycogen synthase kinase 3-beta in immunityand cell cycle: implicationsin esophageal cancer[J].Arch Immunol Ther Exp (Warsz),2014,62 (2): 131-44.   
+[7]Xie J,Lin YK,Wang K,et al.Induced immune tolerance of autoantigen loaded immature dendritic cells in homogenic lupus mice[J].Genet Mol Res,2014,13(1):1251-62.   
+[8]Van Brussel I,Lee WP,Rombouts M,et al. Tolerogenic dendritic cell vaccines to treat autoimmune diseases:can the unattainable dream turn into reality[J]?Autoimmun Rev, 2014,13(2): 138-50.   
+[9]Llanos C,Mackern-Oberti JP,Vega F,et al.Tolerogenic dendritic cells as a therapy for treating lupus[J]. Clin Immunol, 2013,148(2): 237-45.   
+[10]Alessandrini A,De Haseth S,Fray M,et al. Dendritic cell maturation occurs through the inhibition of GSK-3beta [J]. Cell Immunol,2011,270(2): 114-25.   
+[11]Jin YY,Wang X,Du J,et al. Epstein-Barr virus induces the differentiation of semi-mature dendritic cells from cord blood monocytes[J].Hum Immunol,2014,75(4): 306-16.   
+[12]Rulle S,Ah KM, Asensio C,et al.Adrenomedullin,a neuropeptide with immunoregulatory properties induces semi-mature tolerogenic dendritic cells[J].Immunology,2012,136(2): 252-64.   
+[13]Jiang A,Bloom O, Ono S,et al.Disruption of E-cadherin-mediated adhesion induces a functionally distinct pathway of dendritic cell maturation[J].Immunity,2007,27(4): 610-24.   
+[14] Ji XK,Xie YK,Zhong JQ,et al. GSK-3beta suppresses the proliferation of rat hepatic oval cells through modulating Wnt/ beta-catenin signaling pathway[J].Acta Pharmacol Sin,2015,36 (3): 334-42.   
+[15]Martin M,Rehani K,Jope RS,et al. Tol-like receptor-mediated cytokine production is differentially regulated by glycogen synthase kinase 3[J]. Nat Immunol,2005,6(8): 777-84.   
+[16]Burkly L,Hession C, Ogata L,et al. Expression of relB is required for the development of thymic medulla and dendritic cells [J]. Nature,1995,373(6514): 531-6.   
+[17]包杰,王前,郑 磊,等.抑制小鼠骨髓树突状细胞ReIB基因诱导免 疫耐受的体外研究[J].现代免疫学,2010,(6):488-92.   
+[18] Luo L, Sun Z,Fang Q,et al. Effects of tolerogenic dendritic cells generated by siRNA-mediated RelB silencing on immune defense and surveillance functions of T cells[J].Cell Immunol,2O13,282 (1): 28-37.   
+[19]Xie J,Wang Y,Bao J,et al.Immune tolerance induced by RelB short-hairpinRNAinterferencedendriticcellsinliver transplantation[J].J Surg Res,2013,180(1): 169-75.   
+[20]Zhang Y, Yang H, Xiao B,et al. Dendritic cells transduced with lentiviral-mediated RelB-specific ShRNAs inhibit the development of experimental autoimmune myasthenia gravis[J].Mol Immunol, 2009,46(4): 657-67.   
+[21]包 杰,郑 磊,曾方银,等.DC2.4表面分子与RelB基因表达的关系 [J].南方医科大学学报,2007,27(1):56-8.   
+[22] Neumann M, Klar S,Wilisch-Neumann A,et al. Glycogen synthase kinase-3beta isa crucial mediator of signal-induced RelB degradation[J]. Oncogene,2011,30(21): 2485-92. (编辑：经媛)

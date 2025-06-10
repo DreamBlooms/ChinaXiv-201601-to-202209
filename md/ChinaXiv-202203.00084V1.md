@@ -1,0 +1,226 @@
+# 基于长尾效应的儿童创伤后应激障碍转归机制及干预策略
+
+郭静」 刘笑晗 黄宁
+
+北京大学公共卫生学院卫生政策与管理系
+
+摘要儿童PTSD具有“长尾效应”，疾病负担重、发展结局存在较大异质性，但是少有研究对我国儿童PTSD 的转归进行系统性研究，其转归类型、路径尚不明晰，更缺少促进儿童PTSD 复原的干预研究。因此，本研究拟对儿童及青少年进行追踪调查和准实验研究，探讨儿童PTSD的发展轨迹及转归类型和机制，验证基于学校的综合干预服务对促进儿童PTSD恢复的效果，为儿童PTSD干预及个性化诊疗提供证据。
+
+关键词创伤后应激障碍，长尾效应，转归机制，干预策略
+
+# 1．问题提出
+
+儿童创伤后应激障碍（PTSD）的预防和干预是健康中国战略的重要议题。PTSD 是个体在直接或间接地暴露于那些威胁生命、造成严重伤害的事件之后，持续出现（至少一个月以上）的麻木、回避、负向情绪、高度警觉的临床综合症（Weathers et al.,2013）。全国妇联和联合国儿童基金会在我国的调查发现， $74 . 1 \%$ 的儿童在成长过程中受到不同程度的虐待和伤害（崔岳崇 等,2016)。世界卫生组织预测全球的儿童伤害负担将持续上升，特别是中低收入国家形势严峻（Wang et al.,2008)。据估计， $10 \sim 2 0 \%$ 的儿童在经历创伤性事件后，会出现警醒、回避、负向情绪等创伤后应激障碍症状（Alisic et al.,2014)。
+
+儿童PTSD具有“长尾效应”，疾病长期负担重、发展结局存在很大的异质性。“长尾效应"在 2004年提出，是指在正态曲线分布中，个性化、零散化的"尾部需求"由于数量巨大进而形成比头部"主流需求"更大的效应（Anderson,2012)。“长尾效应"最初应用于经济学研究，后被多学科借鉴以形容发展结局的巨大异质性，而这一效应同样可以解释PTSD的发展轨迹。一项对汶川震后青少年群体的追踪研究发现， $20 \%$ 的PTSD 患者能够逐渐恢复， $4 . 2 \%$ 的患者属于后发型PTSD， $3 . 3 \%$ 的患者出现PTSD症状恶化，有将近 $4 \%$ 的患者可能发展为慢性PTSD（Fan etal.,2015)。此外，儿童创伤后应激障碍与问题行为、抑郁、物质滥用、犯罪、自杀等高度相关（Ammerman et al.,2019; Morina& Ster,2019)，其负面影响可以持续到成年期，甚至具有代际传递效应（Yehuda et al.,2001)。当前关于儿童 PTSD转归研究，大多关注儿童 PTSD 症状水平是升高、降低还是持续存在（Fan et al.,2015)，少有研究对PTSD 的转归结局（转化为身心健康、行为健康等问题）进行系统探究。减少儿童PTSD发生发展方面，聚焦创伤的认知行为干预可以有效降低儿童PTSD 的水平（姜帆 等，2014)，目前缺少来自大样本、长时间的基于学校场域的随机对照研究证据，更缺少对于PTSD 发展不同阶段的针对性干预方案。因此，理清儿童PTSD 发生发展的转归路径，探究基于学校场域的联合干预方案，减少其向其他身心疾病的转换风险，对促进儿童PTSD 恢复具有很强的学术价值和现实意义。
+
+# 2.国内外研究现状述评
+
+儿童PTSD 的研究最早可以追溯到19 世纪末安娜·弗洛伊德的童年创伤理论，但是该领域的研究在20世纪末才受到心理学和公共卫生研究者的重视（La Greca,2007）。美国预防医学专家 Felliti 博士于 $1 9 9 5 { \sim } 1 9 9 7$ 年，在加州圣地亚哥开展了一项回顾性研究（AdverseChildhood Experiences Study,ACE Study)，发现有童年创伤经历的儿童，成年后在身体健康、精神健康、行为健康、死亡等多方面均具有高风险，为后续儿童PTSD研究提供了理论基础(Feliti etal.,1998；马双双 等.,2016)。2008年5月汶川大地震造成了重大伤亡，针对儿童群体的相关研究报告了 $2 . 5 { \sim } 6 0 \%$ （样本特征、发生时点等不同会造成这一比例的差异）的PTSD 发生率（Tang etal.,2017)，凸显了PTSD 这一精神卫生问题的重要性。因此，对我国儿童PTSD及其转归机制进行充分研究，形成具有中国特色的早期卫生服务干预策略具有重大意义。
+
+# 关于儿童PTSD及其转归机制的相关研究，呈现以下特点：
+
+（1）儿童PTSD 可以受单一创伤性事件的影响，也可以受多元创伤事件影响，根据创伤来源不同可以分为"创伤后应激障碍（PTSD）"和"复杂型创伤后应激障碍（CPTSD）”,后者属于前者的特例。目前国内外学者对诱发儿童PTSD的创伤性事件的分类存在不同。国外学者采用网状分析的方法，根据DSM-5中有关创伤性事件的界定，将创伤性事件划分为3类：意外事故伤害、受欺凌经历、死亡威胁（Contractor et al.,2020）。国内学者采用潜在类别分析，对15,890 名流动儿童进行调查，将创伤性事件分为三类：意外和伤害、人际暴力及与社交网络相关的创伤（梁一鸣 等.，2019)。根据DSM-5的分类，本研究中创伤性事件是能够带来死亡或死亡威胁、严重伤害、性暴力的相关事件，儿童可以是直接暴露在事件中、目击相关事件、或者是暴露在父母朋友遭遇创伤性事件的环境中（Weathers etal.,2013)。
+
+儿童PTSD的测量将采用DSM-5的事件评估量表及PCL-5（PTSDChecklistforDSM-5）进行筛查，既包括单一事件引起的PTSD，也包括复杂创伤后的CPTSD。
+
+（2）儿童PTSD的转归具有“长尾效应”，表现为仅有一部分儿童可以随着时间的推移恢复，其长期疾病负担重。创伤性事件发生后，PTSD 症状会经历一个从急性增加到慢性恢复的过程（郭静 等.,2017)。短时间内创伤经历者会受到大量社会关注，相关的心理救助资源也会涌入，汶川地震后一度出现"防火、防盗、防心理医生"的现象，但是随着时间的推移，儿童PTSD的长期影响却少有关注。国外学者有使用潜类别分析的方法将PTSD 的发展轨迹归为五类， $4 \%$ 处于慢性状态， $6 \%$ 的患者逐渐恢复， $8 \%$ 的患者先恶化后又恢复， $10 \%$ 的逐渐恶化，而有 $73 \%$ 的患者都形成心理抗逆力（Bryant etal.,2015）。也有学者将PTSD的发展过程，归纳为了四种类型：抗逆力型、后发型、恢复型、慢性（Bonanno,2004)。国内学者采用潜变量增长曲线模型预测儿童PTSD发展的四种结局， $5 3 . 8 \%$ 的儿童形成心理抗逆力， $32 . 6 \%$ 将处于低症状， $7 \%$ 的患者逐渐恢复， $6 . 6 \%$ 的儿童发展为长期 PTSD（Cheng et al.,2019）。刘正奎课题组以经历汶川地震的197名儿童为研究对象，在灾后4、29、40和52个月对其PTSD症状进行了历时4年的追踪测量，发现PTSD的不同症状随着时间变化也呈现异质性，如侵入症状随时间推移出现上升趋势，而负向情绪则出现下降趋势（梁一鸣 等.，2020)。因此，PTSD 及其症状随着时间的推移，其发展结局存在较大异质性，但现有研究大多基于单一创伤性事件之后儿童PTSD的发展轨迹研究，儿童PTSD的转归类型、机制还有待进一步探究。
+
+儿童PTSD 的"长尾效应”,还表现在儿童PTSD 在生命周期中对身体健康、精神健康、行为健康的劣势累积。身体健康方面，以往研究发现儿童PTSD与疼痛、肥胖、慢性病等相关（Dye,2018;McFarlane,2010;Yin et al.,2018)，并且会增加慢性阻塞性肺疾病、哮喘、肺癌、肝脏疾病、缺血性心脏病等的发病风险（El-Gabalawy et al.,2018;Lopez-Martinez et al.,2018)。心理健康方面，大量研究发现PTSD与抑郁存在共病，儿童 PTSD 增加了焦虑、躯体化症状、自杀风险（Bryan et al.,2018;Kolaitis,2017)。行为健康方面，儿童PTSD与物质滥用、攻击性行为、犯罪等相关（Hebert et al.,2018; Kolaitis,2017; Papalia et al.,2018）。此外，儿童 PTSD 还可能导致社交退缩、家庭关系等问题（Sulivan et al.,2016)。因此，亟需在我国儿童群体中，采用前瞻性的追踪研究设计，探究儿童PTSD的转归类型和特征，为个性化诊疗提供临床依据。
+
+（3）儿童PTSD的转归机制可以用“压力累积模型"和"抗逆力模型"来解释。根据第一种解释：儿童PTSD可以在生命历程中形成压力传导，产生累积效应。儿童创伤种类、数量与疾病之间存在明显的剂量-反应关系。当创伤种类增加时，缺血性心脏病的患病风险显著增加（Jakubowski etal.,2018)；PTSD 对抑郁等精神障碍的影响也随创伤类型增多而提高（Guo et al.,2020）。PTSD对于健康的累积效应还体现在重复单一创伤经历对于健康的影响。研究表明重复性的创伤暴露会损害个体的躯体健康，增加慢性后遗症的风险（Pat-Horenczyk& Schiff,2019)。儿童期反复的创伤经历增加了创伤后应激障碍等精神障碍的发展，重复性的暴力创伤还会增加个体药物滥用的风险（Pat-Horenczyk& Schiff,2019)。另一方面，儿童期创伤经历所带来的"创伤后成长"可能会刺激社会关系的良性化发展（Walshetal.,2018)，而社会功能状态是评估个体健康的重要维度，但是这种积极关联却被很多研究质疑不够稳健（Tomich&Helgeson,2012)。此外，儿童PTSD与健康的关系还受到诸多因素的调节作用，如社会支持、未来期望等（Sierau et al.,2019)。综上，儿童PTSD与其他健康问题之间的路径关系有待厘清，这将为提出有针对性的干预和预防策略提供依据。
+
+（4）儿童PTSD的预防和干预，主要以儿童为主体的心理干预为主，缺乏对其支持系统或压力环境的干预，更较少考虑儿童PTSD不同发展阶段的转归特点。研究者发现，通过积极的自我对话、游戏治疗、放松训练、体育运动等方法，可以有效减轻儿童创伤后应激障碍相关症状（马向真,2017)。而越来越多的研究发现，儿童PTSD的发生发展不仅受到儿童自身因素的影响，还受到家长、教师及同伴的影响（Guo et al.,2020;Kashyap et al.,2020）。诸多研究推荐，聚焦创伤的认知行为干预，对于儿童 PTSD具有较好的干预效果（Marquez etal.,2020；姜帆 等.,2014)。国外研究表明，在快速恢复、缓慢恢复、无恢复三种PTSD 症状轨迹类型中，认知行为疗法可显著加快缓慢类型的恢复速度（Galatzer-Levy etal.,2013）。也有学者发现，认知行为疗法不仅可以针对儿童和青少年单独进行，还可以组织家长进行辅导（Giannopoulou et al.,2006)，并且可以利用学校环境在学生的正常学习中开展（Goenjian etal.，2005）。尤其针对儿童青少年的以学校为基础的干预方式，具有较好的现实可能性（Roussos etal.,2005)。但是针对中国儿童人群 PTSD的干预研究还较缺乏，特别是少有基于学校的干预研究。世界卫生组织推荐，在卫生人力资源紧张的情况下，通过培训非专业人士提供精神卫生干预，仍然可以取得较好的效果（WHO,2008)。因此，基于学校作为干预场域的认知行为疗法，通过培训学校社工和班主任老师，对儿童、教师、家长进行综合干预，有望预防儿童PTSD发生，降低儿童PTSD发展水平，且具有较高的公共卫生预防和干预价值。
+
+全球在减少儿童伤害、预防儿童PTSD发生发展的卫生政策方面有诸多实践。2016年，世界卫生组织发布全球性行动计划，加强卫生体系以减少对妇女、儿童的人际暴力（WHO,2016)。2010年，美国国家疾控中心将儿童创伤调查纳入健康危险行为监测系统中，对26,229名成年人在儿童期创伤情况进行分析，为儿童创伤相关的健康干预提供了科学依据（Centersfor Disease Control and Prevention（CDC）,2010)。瑞典儿童的伤害死亡率在 20 世纪 50 年代一度超过美国，但其通过教育、立法、工程三大干预措施使其在80 年代之后成为儿童伤害死亡率最低的国家（Sminkey,2008)。我国自1990 年签署了《儿童权利公约》之后，儿童保护制度进入了萌芽阶段，经过30多年的发展，我国儿童保护制度开始进入专业化发展阶段（杜雅琼，杜宝贵，2019)。然而，除了从“源头"减少儿童伤害以降低儿童 PTSD发生外，就目前为止，有关儿童PTSD的治疗以及相关健康结果的干预等问题，国内仍缺少系统的公共卫生预防策略。未来，如何基于学校场域，对儿童PTSD 转归路径进行干预，促进儿童PTSD的恢复，是一个待解决的公共卫生政策问题。
+
+# 3.简要述评
+
+基于现有文献目前该领域的研究存在以下局限性：
+
+（1）大多关注单一创伤对儿童PTSD的影响，但对复杂创伤所导致的PTSD及其转归问题缺乏系统性评估。本研究将根据DSM-5对创伤性事件的分类,在生命历程理论指导下，检验儿童PTSD 对健康结局造成的"长尾效应”，即儿童PTSD与时间的交互，如何通过影响生命中的压力传导，导致健康的劣势累积。
+
+（2）儿童PTSD转归的路径关系有待厘清。为什么有的儿童即使出现了PTSD症状也可以恢复，而有的PTSD 患儿则出现了行为问题、学业困难、抑郁、自杀及其他慢性疾病?本研究将采用结构方程模型，建立促进儿童PTSD复原的干预模型，检验儿童个体、家长、学校环境中的压力因素和支持性因素在儿童PTSD转归中的影响机制。
+
+(3)研究方法多采用单个时点的横截面研究，或回顾性研究设计，缺少长期追踪研究。本研究将采用聚合交叉的研究设计，一方面结合多种调查工具回顾儿童早期的创伤经历及健康史，另一方面追踪调查时点之后的创伤事件、PTSD及健康状况。此外，还将采用多中心调查、多来源数据，提高研究的可靠性。
+
+（4）儿童PTSD的预防和干预方面缺乏实证依据和配套政策。如何基于学校场域对儿童 PTSD 转归过程进行干预，并提供有针对性、有效性的公共卫生服务是一个待解决的政策问题。本研究将结合干预研究的发现以及全球儿童PTSD干预的实践经验，提出适应我国儿童群体的早期卫生服务方案。
+
+基于此，本研究将检验儿童PTSD 转归的长尾效应，探究儿童PTSD 的转归机制，在聚焦创伤的认知行为理论指导下，开发促进儿童PTSD恢复的早期干预方案，以期为儿童 PTSD的个性化诊疗提供理论指导和实证依据。研究拟回答以下问题：（1）儿童PTSD 发展趋势、转归类型及特征如何？（2）儿童PTSD的转归机制是什么？（3）基于学校的干预服务是否有利于促进儿童PTSD恢复，降低其向其他身心疾病转化的风险？（4）基于儿童PTSD 的转归特征及基于学校的干预探索，如何制定聚焦降低儿童伤害、促进儿童PTSD 恢复的早期卫生服务计划?
+
+# 4.研究构想
+
+本研究将通过研究儿童PTSD的转归特征、转归机制、干预效果、公共卫生服务策略四个层面的内容，探究儿童PTSD 的转归类型，明确儿童PTSD发展趋势及转归特征，构建儿童 PTSD 风险转归预警模型（研究框架如图1)。明晰儿童PTSD 转归的影响机制，揭示创伤与儿童PTSD 转归结局的关系黑箱，为创伤的风险干预提供依据。探究儿童PTSD转归的干预效果和公共卫生预防策略，为创伤的风险管理提供依据。
+
+![](images/c901d53f78d608bc969c95357182aec580a4f436c774b3f6f2dc5f0caf38035a.jpg)  
+图1研究框架
+
+# 4.1研究内容1：儿童PTSD转归特征研究
+
+本研究将分析：（1）儿童PTSD的发生率及随着时间的变化趋势，及在不同年龄段、不同社会特征、不同创伤类型中的差异。通过"增长曲线模型”（Growth Curve Model）估计随着时间推移PTSD 的发展轨迹，检验长尾效应。（2）儿童PTSD向其他行为健康、心理健康、身体健康的发展结局，运用潜变量类别分析、网状分析方法，对儿童PTSD 转归类型进行创新性研究（以往儿童PTSD转归大多仅考虑PTSD自身随时间的变化趋势，没有考虑PTSD所导致的其他健康结局)。行为健康采用问题行为量表测量，心理健康采用抑郁、焦虑量表，身体健康采用两周患病、慢性病、一年住院次数、一年内意外伤害次数等指标。为了估计儿童 PTSD 的疾病负担，本研究还将纳入 SF-12 生命质量量表。根据 PTSD 症状得分、身体、心理、行为健康的多个指标，构建潜在剖面分析模型（Latent Profile Analysis,LPA）和多元回归模型，检验不同个体、家庭、学校特征的儿童的转归差异。
+
+# 4.2研究内容2：儿童PTSD发生发展的转归机制研究
+
+本研究计划通过构建压力模型、抗逆力模型、心理环境交互模型、结构方程模型等多
+
+个条件过程模型，检验儿童PTSD与健康发展结局之间的路径关系，揭示创伤与转归结局之间关系的黑箱。PTSD 的转归类型作为因变量，创伤相关变量、个体社会人口学特征、家庭社会经济状况、学校特征等是自变量（如图2）。
+
+![](images/5494acd2ed651457301adebca52932c2b7d9a67793492cddddee3cd6d1cdd9f6.jpg)  
+图2儿童PTSD的转归机制
+
+# 4.3研究内容3：基于阶段任务模型，聚焦创伤的认知行为干预：一项随机对照试验
+
+通过基于学校场域的干预试验，对学校社工、教师班主任进行培训，对学生家长及学生进行聚焦创伤的认知行为干预，检验基于学校的干预试验是否有利于改善儿童PTSD 的发展结局。随机选择基本情况相似的两个地区的学校，将其中一个地区的学校确定为干预组，实施干预服务，另外一个地区的学校在干预组完成服务一年后再开展同样的服务。
+
+干预方案包括儿童、家庭和学校环境三个层面。儿童干预内容包括了解和认识PTSD 发展及转归相关知识，积极情绪培养及不良情绪管理，应对方式练习，同伴关系培养等。家庭干预是通过组织家长学习儿童PTSD 相关知识、儿童不良情绪特征等内容，提高父母对儿童PTSD 的认知，改善亲子关系，形成良好的家庭环境。学校干预是由专业人员、精神科医生组成的团队对学校管理人员、教师班主任开展培训，使其掌握帮助学生进行心理复原的能力，营造安全的校园环境。具体的干预模块如下表1:
+
+表1干预模块设计  
+
+<html><body><table><tr><td>目标</td><td>内容</td><td>对象</td><td>时长</td><td>阶段</td></tr><tr><td>聚焦创伤的认知</td><td>提供支持性的学校环境，帮学校心理咨询师、学2周</td><td></td><td></td><td>学期开始</td></tr><tr><td>行为干预单元：</td><td>助识别和应对儿童PTSD</td><td>校社工</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>基于阶段任务模 型</td><td></td><td>班主任、教师 行政人员 1天</td><td>2周</td><td>学期开始 学期开始</td></tr><tr><td>认识 PTSD 及转</td><td>帮助认识PTSD 及发展趋</td><td>学生、家长</td><td>2 单元，45分钟/</td><td>学期开始</td></tr><tr><td>归类别 危机过程管理</td><td>势、帮助家长识别儿童情绪 帮助学生及家长认识创伤不学生、家长</td><td></td><td>单元 2 单元，45分钟／开学1月</td><td></td></tr><tr><td>情绪管理</td><td>同阶段的心理特点 减压技巧、情绪表达、抗逆</td><td>学生、家长分开</td><td>单元 3单元；45分钟／</td><td>开学2月</td></tr><tr><td></td><td>力提升、个体增能、同伴支 持</td><td>进行</td><td>单元</td><td></td></tr><tr><td>暴露与脱敏</td><td>创伤性事件表露与正确认知</td><td>学生、家长</td><td>2单元；45分钟／开学3月 单元</td><td></td></tr><tr><td>应对与沟通</td><td>创伤事件中亲子有效沟通与 应对、同伴沟通</td><td>学生、家长</td><td>2单元；45分钟／ 单元</td><td>开学4月</td></tr><tr><td>项目评估</td><td>满意度调查</td><td>学生、家长</td><td>1单元；30分钟</td><td>学期末</td></tr></table></body></html>
+
+# 4.4研究内容4：促进儿童PTSD恢复的早期卫生服务策略研究
+
+在前述三个研究的基础上，结合全球在创伤与健康领域的学校干预实践，召开跨学科研讨会，并通过专家座谈等方式，综合儿童PTSD的转归特点和基于学校的随机对照干预效果，提出针对儿童PTSD干预的早期卫生服务策略。
+
+第一步，识别儿童PTSD 转归风险，建立定期筛查制度，把对儿童PTSD及身心健康、行为健康的筛查纳入学校常规体检内容。第二步，设计服务计划。一个好的计划，需要建立在对创伤相关的风险因素、保护因素的充分认识上。此外，还需要选择有针对性、有效性的干预策略，最后构建一个能够连接问题—因素—干预—结果的逻辑模型。第三步，实施服务方案。为了有效的实施服务，学校社工、心理咨询师、教师及行政人员需要制定一个明确的行动方案。第四步，评估服务方案。评估不仅仅是收集与结果相关的数据指标，还需要通过评估来提高服务方案的效果。最后，针对儿童PTSD 转归的公共卫生服务策略框架还有两个核心要素：持续性与阶段任务性。项目制的不足在于随着项目的结束，服务可能面临中止，所以公共卫生服务策略应该是持续性的服务计划。此外，儿童PTSD的发生发展随时间变化呈现异质性，针对不同儿童所处的创伤周期特点，应该提供一些个性化服务。
+
+通过此研究，我们拟提出基于“学校场域”、“聚焦创伤”、“认知行为改变”、“阶段任务为策略"的公共卫生预防方案，为减少儿童伤害，促进PTSD恢复提供参考。
+
+# 5.理论构建与创新
+
+儿童正处于身心成长的关键时期，创伤后应激障碍（PTSD）对儿童的影响可能更严重更持久，然而，以往研究大多关注的是特定危机事件对某一群体造成的短时影响。相较之下，复杂创伤导致的儿童PTSD长期影响研究较为匮乏，难以揭示真实世界中儿童PTSD 的转归问题。因此，本研究将基于"长尾效应"理论探究儿童PTSD 发展趋势及转归特征，以构建儿童PTSD风险转归预警模型;结合压力模型与抗逆力模型，明晰儿童PTSD 转归的影响机制，揭示创伤与儿童PTSD 转归结局的关系黑箱，为创伤的风险干预提供依据；最后基于长尾效应、心理环境交互机制以及阶段任务模型，探究儿童PTSD 转归的干预效果和公共卫生预防策略，为创伤的风险管理提供依据。
+
+# （1）儿童PTSD转归特征：“长尾效应”
+
+儿童发生PTSD后，可能发展成以下类型：慢性、后发型、恢复型、抗逆力型。慢性PTSD，即在调查窗口期间，一直符合PTSD 诊断标准；后发型 PTSD，即在创伤性事件发生6个月之后，才满足PTSD 诊断标准；恢复型 PTSD，即在创伤性事件发生时满足PTSD诊断标准，但是随着时间推移，症状消失；抗逆力型PTSD，即使经历了创伤性事件，但是均不符合PTSD 诊断标准。转归机制是复杂的，会受到心理与环境作用的调节和中介。具体来讲，儿童个体的心理抗逆力、来自于周围重要他人的压力源等均会在其中发挥作用。仅有一部分儿童可以随着时间的推移恢复（图3)。
+
+从国际PTSD领域的研究来看，大多研究关注的是特定危机事件对某一群体造成的短时影响，从DSM-5 提出CPTSD 以来，该研究领域理论和实证的探索都处于起步阶段。在我国，还缺乏具有代表性的基于普通儿童的创伤调查，儿童PTSD 的转归特征有待报告，儿童PTSD 的转归机制有待检验。本研究聚焦于儿童PTSD的发生发展及转归机制，一方面将健康的缘起，沿时间轴追溯到生命历程的“上游”，另一方面尝试刻画儿童PTSD在生命历程中的发展轨迹及转归类型，将有助于构建面向社会全体成员的安全网络。拓展了儿童PTSD研究的时间和空间维度。
+
+![](images/874567d3e7b6c9382208c45e74b9fc0603101e126c89fca3468db5ed60c7b278.jpg)  
+图3PTSD的长尾效应
+
+# （2）儿童PTSD的转归机制：压力模型与抗逆力模型双作用
+
+儿童 PTSD 转归机制是复杂的，会受到内部心理与外部环境作用的调节和中介。首先，基于压力模型，可能存在诸多来自于周围重要他人的压力源（包括亲子关系、同伴关系、师生关系)，当这些压力源造成创伤种类、数量增加时（Jakubowski et al.,2018）（Guo et al,2020)，或是其引起单一创伤重复体验时（Pat-Horenczyk& Schiff,2019)，都可能增加（患有 PTSD）儿童的身体疾病风险以及其他精神障碍风险。换而言之，儿童PTSD的转归结局可能受到创伤暴露情况的调节。另外，儿童PTSD在生命历程中可能会造成压力累积，因此，压力源或是创伤事件也可能中介儿童PTSD及其转归结局的关联。其次，基于抗逆力模型，儿童个体内部的心理抗逆力是儿童经历PTSD 的保护因素，促进"创伤后成长”（Walsh et al,2018)。“创伤后成长"可能会刺激社会关系的良性化发展，进而改善社会维度的个体健康。另外，相较于无PTSD 经历的儿童，经历过PTSD 更可能获得"创伤后成长”，有更高的抗逆力，从而改善其健康状况（Mesidor& Sly,2019）（Vloet etal.,2017）。因此，儿童PTSD与个体健康的关联可能由儿童心理抗逆力调节或中介。
+
+本研究从外部环境和内部抗逆力双重视角阐释儿童PTSD的转归机制，系统构建了儿童心理环境交互的转归机制。这一理论构建跳出儿童单一主体，将学校因素、家庭因素纳入对儿童PTSD 的分析中，挖掘在创伤性事件发生后，危机如何通过家庭成员的互动、师生之间的互动，进而加剧儿童创伤后应激障碍的发生。在注重外部环境带来的负面影响的同时，还关注儿童内部心理抗逆力在儿童PTSD转归过程中的积极影响。这为降低创伤的长期影响，促进创伤后复原提供了重要理论依据。
+
+# （3）儿童PTSD的干预策略：基于过程的综合干预
+
+本研究结合PTSD的转归长尾效应、心理环境交互机制以及前期灾后研究经验（阶段任务模型)，借鉴全球早期卫生服务实践，以构建基于过程的综合干预策略。依据PTSD 的转归长尾效应可知，儿童PTSD及其症状随着时间的推移，其发展轨迹存在较大异质性。另外，儿童 PTSD 在生命周期中对身体健康、精神健康、行为健康存在劣势累积。因此，须针对PTSD不同发展过程及其中可能衍生的其他健康风险进行干预。结合阶段任务模型，应兼顾时间轴上PTSD 发展趋势以及任务轴上的PTSD干预内容（包括PTSD 的衍生健康风险、PTSD 的影响因素以及转归机制)。因此，进一步，根据儿童 PTSD 的转归机制可知儿童心理抗逆力与外部环境压力源都可能调节或中介PTSD 的转归结局，是儿童PTSD 的重要干预内容。另外，压力模型提示学校场域涉及儿童本身、同伴、家长、老师等多个压力源可以作为儿童PTSD干预的重要场所。总而言之，基于过程的综合干预是以学校为干预场所，以儿童 PTSD 发展过程为干预时点，以儿童PTSD转归特点与机制为干预内容的综合干预策略。
+
+目前儿童PTSD的干预策略集中于心理层面，忽略了儿童PTSD不同发展阶段的转归特点，缺乏了对儿童支持系统与压力环境的干预。而本研究所构建的基于过程的综合干预不仅延展时间轴上儿童PTSD发展变化，还拓展了任务轴上儿童PTSD的干预内容，以学校场域为干预场所，针对PTSD不同发展阶段的转归特点及其转归机制设计干预策略，具有较强的理论价值。近年来，针对儿童的伤害事件时有发生，但是国内还缺乏相应的公共卫生服务和政策。因此，基于过程的综合干预也具有较强的应用价值与政策意义，能为"健康儿童行动计划”、儿童 PTSD 早期卫生服务政策提供依据。
+
+# 参考文献：
+
+姜帆，安媛媛，伍新春.(2014).面向儿童青少年的创伤聚焦的认知行为治疗:干预模型与实践启示．中国临床心理学杂志,4,756-760.  
+崔岳崇，代倩倩，王瑞凤等.(2016).儿童虐待的流行状况及其对心理健康影响的研究进展．伤害医学,5(2),37-41.  
+杜雅琼，杜宝贵.(2019).中国儿童保护制度的历史演进．当代青年研究,360(3),115-121.  
+梁一鸣，周月月，刘正奎.(2019).中国流动儿童创伤经历的潜在类别分析．第二十二届全国心理学学术会
+
+议摘要集.浙江杭州.
+
+梁一鸣，郑昊，刘正奎.(2020).震后儿童创伤后应激障碍的症状网络演化．心理学报,11(52),1301-1315.  
+郭静，周倩云，张振涛.(2017).地震对灾民创伤后应激障碍的长期影响．心理科学进展,24(10),1534-1543.  
+马双双，万宇辉，郝加虎.(2016).童年期不良经历与终身健康．卫生研究,45(5),857-864.  
+马向真.(2017).眼动脱敏与再加工疗法对未成年人创伤后应激障碍干预效果的元分析．东南大学.
+
+Alisic,E.,Zalta,A.K.,Van Wesel,F.,Larsen,S.E.,Hafstad,G.S.,Hassnpour,K.,Smid,G.E.(2o14).Ratesof post-traumatic stress disorder in trauma-exposed children and adolescents: Meta-analysis. British Journal of Psychiatry 204(5):335-340. https://doi.org/10.1192/bjp.bp.113.131227
+
+Ammerman,R.T.,Scheiber,F.A.,Peugh,J.L.,Messer,E.P.,Van Ginkel,J.B.,Putnam,F.W.(2019). Interpersonal trauma and suicide attempts in low-income depressed mothers in home visiting. Child Abuse and Neglect, 97,104126. https://doi.org/10.1016/j.chiabu.2019.104126
+
+Anderson,C.(2o06).The long tail: How Endless Choice is Creating Unlimited Demand.Random House Business London.
+
+Bonanno, G.A.(2Oo4).Loss, trauma,and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? American Psychologist, 59(1),20-28. https://doi.0rg/10.1037/0003-066X.59.1.20
+
+Bryan,C.J.,Bryan,A.B.O.,Roberge,E.,Leifker,F.R.,Rozek,D.C.(2018).Moral injury,postraumatic stress disorder,and suicidal behavior among national guard personnel.Psychological Trauma: Theory,Research, Practice,and Policy,10(1),36-45.https://doi.org/10.1037/tra0000290
+
+Bryant,R. A.,Nickerson,A., Creamer,M.,O'Donnel,M.,Forbes,D., Galatzer-Levy,I.,McFarlane,A.C.,Silove, D.(2015). Trajectory of post-traumatic stress following traumatic injury: 6-year folow-up.British Journal of Psychiatry,206(5),417-423.https://doi.org/10.1192/bjp.bp.114.145516
+
+Centers for Disease Control and Prevention(CDC).(2010).Adverse childhood experiences reported by adults - five states,2009.MMWR.Morbidity and Mortality Weekly Report,59(49),1609-1613. http://www.ncbi.nlm.nih.gov/pubmed/21160456
+
+Cheng, J.,Liang, Y.M., Zhou,Y.Y.,Eli,B.,Liu,Z.K.(2019). Trajectories of PTSD symptoms among children who survived the Lushan earthquake: A four-year longitudinal study.Journal of Afective Disorders,252(1), 421-427.https://doi.org/10.1016/j.jad.2019.04.047
+
+Contractor,A.A., Weiss,N.H.,Natesan Batley,P.,Elhai,J.D. (202). Clusters oftrauma types as measured by thelife events checklist for DSM-5.International Journal of Stress Management.27(4),380-393. https://doi.0rg/10.1037/str0000179
+
+Dye,H.(2018).The impact and long-term efects ofchildhood trauma.Journal of Human Behavior in the Social Environment,28(3),381-392.https://doi.0rg/10.1080/10911359.2018.1435328
+
+El-Gabalawy,R.,Blaney,C.,Tsai,J.,umner,J.A.,ietrzak,R.H. (2o18).Physicalhealth conditionsassociated with full and subthreshold PTSD in U.S.military veterans: Results from the National Health and Resilience in Veterans Study. Journal of Affective Disorders,227,849-853. https://doi.org/10.1016/j.jad.2017.11.058
+
+Fan,F.,Long,K.,Zhou,Y.,Zheng,Y.,Liu,X.(2O15).Longitudinal trajectories of post-traumatic stress disorder symptoms among adolescents after the Wenchuan earthquake in China. Psychological Medicine, 45(13), 2885-2896.https://doi.org/10.1017/S0033291715000884
+
+Feliti,V.J.,Anda,R.F.,Nordenberg,D.,Willamson,D.F.,Spitz,A.M.,Edwards,V.,Koss,M.P.,Marks,J.S. (1998).Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The adverse childhood experiences (ACE)study.American Journal of Preventive Medicine,14(4), 245-258.https://doi.0rg/10.1016/S0749-3797(98)00017-8
+
+Galatzer-Levy,I.R.,Ankri,Y.,Freedman,S.,Israeli-Shalev,Y.,Roitman,P.,Gilad,M.,Shalev,A.Y.(2013). Early PTSD symptom trajectories: Persistence, recovery,and response to treatment: Results from the jerusalem trauma outreach and prevention study (J-TOPS).PLoS ONE.8(8):e70084. https://doi.org/10.1371/journal.pone.0070084
+
+Giannopoulou,I.,Dikaiakou, A., Yule,W.(20o6). Cognitive-behavioural group intervention for PTSD symptoms in children folowing the Athens l999 earthquake: A pilot study. Clinical Child Psychology and Psychiatry. 11(4):543-553. https://doi.0rg/10.1177/1359104506067876
+
+Goenjian,A.K.,Waling,D.,Steinberg,A.M.,Karayan,I.,Najarian,L.M.,Pynoos,R. (2oo5).Aprospective study of postraumatic stress and depressive reactions among treated and untreated adolescents 5 years after a catastrophic disaster.American Journal of Psychiatry.162(12):2302-2308.
+
+https://doi.org/10.1176/appi.ajp.162.12.2302
+
+Guo,J.,Fu,M.,Liu,D.,Zhang,B., Wang,X.,van IJzendoorm,M.H. (2020). Is the psychological impactof exposure to COVID-19 stronger in adolescents with pre-pandemic maltreatment experiences? A survey of rural Chinese adolescents. Child Abuse and Neglect, 110(2):104667. https://doi.org/10.1016/j.chiabu.2020.104667
+
+Hebert,M.,Langevin,R.,Oussid,E.(O18).Cumulativechildhood trauma, emotionregulation,dissociation,and behavior problems in school-aged sexual abuse victims.Journal of Affective Disorders,225,306-312. https://doi.org/10.1016/j.jad.2017.08.044
+
+Jakubowski,K.P., Cundif,J.M.,Matthews,K.A. (2018). Cumulative childhood adversity and adult cardiometabolic disease: A meta-analysis.Health Psychology,37(8),701-715. https://doi.org/10.1037/hea0000637
+
+Kashyap,S., Keegan,D.,Liddell, B.J., Thomson, T.,Nickerson,A. (2020). An interaction model of environmental and psychological factors influencing refugee mental health.Journal of Traumatic Stress, 34(1):257-266.https://doi.org/10.1002/jts.22636
+
+Kolaitis, G.(2017).Trauma and post-traumatic stress disorder in children and adolescents.European Journal of Psychotraumatology,8(4),1351198. https://doi.org/10.1080/20008198.2017.1351198
+
+La Greca,A.M.(20o7).Posttraumatic stress disorder in children. Encyclopedia of Stress,49(3),145-149. https://doi.0rg/10.1016/B978-012373947-6.00300-7
+
+Lopez-Martinez,A.E.,Serrano-banez,E.R.,Ruiz-Parraga,G.T.,Gomez-Pérez,L,Ramirez-Maestre,C.,Esteve, R. (2018). Physical health consequences of interpersonal trauma: A systematic review of the role of psychological variables. Trauma, Violence, and Abuse.19(3).305-322. https://doi.0rg/10.1177/1524838016659488
+
+Marquez, Y.I.,Deblinger,E.,Dovi, A.T.(202o). The value of trauma-focused cognitive behavioral therapy (tf-cbt) in addressing the therapeutic needs of trafficked youth: A case study. Cognitive and Behavioral Practice,27(3),253-269.https://doi.org/10.1016/j.cbpra.2019.10.001
+
+McFarlane,A. C.(2O10). The long-term costs of traumatic stress: Intertwined physical and psychological consequences.World Psychiatry,9(1),3-10. https://doi.org/10.1002/j.2051-5545.2010.tb00254.x
+
+Mesidor,J. K.,Sly,K.F.(2Ol9). Religious coping, general coping strategies, perceived social support,PTSD symptoms,resilience,and postraumatic growth among survivors of the 2O10 earthquake in Haiti. Mental Health,Religion & Culture,22(2),130-143.https://doi.org/10.1080/13674676.2019.1580254
+
+Morina,N.,Sterr,T.N. (2O19).Lack of evidence for the effcacy of psychotherapies for PTSDand depression in child and adolescent refugees.World Psychiatry,18(1),107-108.https://doi.org/10.1002/wps.20596
+
+Papalia,N.,Luebbers,S., Oglof,J.R.P. (2o18). Child sexual abuseand the propensity to engage in criminal behaviour: A critical review and examination of moderating factors. In Aggression and Violent Behavior 43, 71-89.https://doi.org/10.1016/j.avb.2018.10.007
+
+Pat-Horenczyk,R.,Schiff,M. (2o19). Continuous traumatic stressand the life cycle: Exposure to repeated political violence in israel. Current Psychiatry Reports,21(8),71-80.https:/oi.org/10.1007/s11920-019-1060-x
+
+Roussos,A., Goenjian,A.K., Steinberg,A. M., Sotiropoulou, C.,Kakaki, M., Kabakos, C.,Karagianni,S., Manouras, V. (2oo5). Postraumatic stress and depressive reactions among children and adolescents after the 1999 earthquake in Ano Liosia, Greece.American Journal of Psychiatry.162(3):530-537 https://doi.org/10.1176/appi.ajp.162.3.530
+
+Wang SY,Li YH, Chi GB, Xiao SY,Ozanne-Smith J,StevensonM.,Phillips MR. (2008). Injury-related fatalities in China: an under-recognised public-health problem.The Lancet,372(9651),1765-1773.https://doi: 10.1016/S0140-6736(08)61367-7.
+
+Sierau, S.,Schneider,E.,Nesterko,Y., Glaesmer,H. (20l9).Alone,but protected?Effects of social supporton mental health of unaccompanied refugee minors.European Child and Adolescent Psychiatry,28(6),769- 780.https://doi.0rg/10.1007/s00787-018-1246-5
+
+Sminkey,L. (2Oo8). World report on child injury prevention. Injury Prevention,14(1),69. https://doi.0rg/10.1136/ip.2007.018143
+
+Sullivan, K.,Barr,N., Kintzle, S., Gilreath,T., Castro,C.A. (2016). PTSD and physical health symptomsamong Veterans: Association with child and relationship functioning. Marriage and Family Review,52(7), 689- 705.https://doi.org/10.1080/01494929.2016.1157122
+
+Tang,B.,Deng,Q.,Glik,D.,Dong,J.,Zhang,L. (20l7).A meta-analysis ofrisk factors for post-traumatic stress disorder (PTSD) in adults and children after earthquakes. International Journal of Environmental Research and Public Health,14(12)1537.https://doi.org/10.3390/ijerph14121537
+
+Tomich,P.L.,Helgeson, V.S. (20l2).Posttraumatic growth following cancer: Links to qualityof life.Journal of Traumatic Stress,25(5),567-573. htps://doi.org/10.1002/jts.21738
+
+Vloet,T.,Vloet,A.,Burger,A.,Romanos,M.(2Ol7).Post-Traumatic growth inchildrenandadolescents.Journal of Traumatic Stress Disorders & Treatment, 6(4),1-7.https://doi.org/10.4172/2324-8947.1000178
+
+Walsh,D.M.J.,Morrison,T.G.,Conway,R.J.,Rogers,E.,Suivan,F.J.,Groarke,A.M. (2o18).Amodelto predict psychological-and health-related adjustment in men with prostate cancer: The role of post traumatic growth, physical post traumatic growth,resilience and mindfulness.Frontiers in Psychology,9,136. https://doi.0rg/10.3389/fpsyg.2018.00136
+
+Weathers,F.W.,Litz,B.T.,Keane,T.M.,Palmieri,P.A.,Marx,B.P.,Schnurr,P.P.(2Ol3).ThePTSDchecklist for DSM-5 (PCL-5).National Center for PTSD,5(August),2002.Scale available from the National Center for PTSD at www.ptsd.va.gov.htps://doi.org/10.1037/t02622-000
+
+WHO. (2oo8). Task shifting. Global Recomendations and Guidelines. World Health Organization https://doi.0rg/10.1080/17441692.2011.552067
+
+WHO. (2016). INSPIRE seven strategies for ending violence against children. World Health Organization. https://apps.who.int/iris/.
+
+Yehuda,R.,Halligan, S.L., Grossman,R.(20o1). Childhood trauma and risk for PTSD: Relationship to intergenerational effects of trauma, parental PTSD,and cortisol excretion. Development and Psychopathology,13(3),733-753.https://doi.org/10.1017/S0954579401003170
+
+Yin, Q.,Shang,Z., Zhou,N.,Wu,L.,Liu,G.,Yu,X.,Zhang,H., Xue,H.,Liu,W. (2o18). An investigationof physical and mental health consequences among Chinese parents who lost their only child. BMC Psychiatry, 18(1)45.https://doi.org/10.1186/s12888-018-1621-2
+
+# Mechanism of prognosis and intervention strategy for child posttraumatic stress disorder: Based on the long tail effect theory
+
+JingGUO， XiaohanLIU，NingHUANG
+
+Department of Health Policy and Management, School of Public Health, Peking University
+
+Abstract: Child PTSD was indicated to have a long tail effect, as great heterogeneity exists among children with PTSD regarding their following health outcomes.Though heavy burden from Child PTSD was found on individuals,families,and society,a few studies have systematically examined the types and mechanisms of prognosis of Child PTSD in a Chinese context, let alone specific intervention strategies. This study aims to conduct a longitudinal survey and quasi-experimental intervention among students,and tries to identify the long-term trajectory types and mechanisms of Child PTSD prognosis in China.Moreover, based on a school-based teacher-children-parents cooperation framework, we would provide targeted intervention services to reduce the risk of Child PTSD, further shed light on individual-centered care in clinical practice.
+
+Keywords: Postraumatic Stress Disorder，Long Tail Effect，Mechanism of Prognosis, Intervention Strategy

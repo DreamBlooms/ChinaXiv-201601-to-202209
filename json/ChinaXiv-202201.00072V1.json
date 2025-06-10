@@ -1,0 +1,464 @@
+[
+    {
+        "type": "text",
+        "text": "基于MF-DFA的西安昼夜复合高温事件变化特征及影响因素",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李双双²，王婷1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.陕西师范大学,陕西 西安710119；2.陕西师范大学地理国家级实验教学示范中心,陕西 西安710119)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用随机重排去趋势波动分析(MF-DFA)和极点对称模态分解法(ESMD)，对1955—2019年西安市昼夜复合高温事件变化特征进行分析。结果表明：(1)气象站点迁移，造成对西安市极端高温变化趋势低估。其中，最高温原始数据与订正序列阈值相同;订正后，最低温阈值相对偏低$0 . 2 { \\sim } 0 . 5 ~ \\mathrm { \\textdegree C }$ （2）MF-DFA、 $9 0 . 0 \\%$ 和 $9 5 . 0 \\%$ 阈值方案识别高温事件年代变化具有相似性，而 $9 9 . 0 \\%$ 國值和相对阈值方案是结论不确定性的主要来源。(3)在变化特征上，西安市昼夜复合高温事件兼顾3.3\\~3.8a年际波动和趋势变化，20世纪80年代中期，昼夜复合高温天数呈现显著增多。（4）赤道西太平洋海温异常，可作为西安市昼夜复合高温预警的关键海区。即赤道西太平洋海温异常偏高时，往往对应西安市昼夜复合高温多发期，并指出南亚高压偏北、西太平洋副热带高压西伸，是影响西安市持续昼夜复合高温的环流机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：气候变化；昼夜复合高温事件；厄尔尼诺；西安市文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全球变暖背景下，极端天气事件频发，且具有突发性、难预测、难预警等特征[1-3]。统计学经典的“辛普森悖论\"揭示：“在特定条件下分组讨论满足的结论，一旦合并就出现相反的结论”[4]。因此,气候变化研究中，许多学者尝试将极端气候事件细分，分析区域变暖与极端天气事件的响应关系。如依据极端降水发生过程，将极端降水分为偏前型、偏后型、均衡型和单日型[5-7]；依据极端高温昼夜异常特征，将高温热浪天气分为昼高夜低、昼低夜高和昼夜复合型等[8]。可见,精细化极端天气过程,对全球变暖与区域适应研究方法完善和研究思路设计具有启示意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前，极端事件确定主要有3种方法：绝对阈值、相对阈值和标准差法[9-12]。其中,相对阈值应用最为广泛，以 $9 0 . 0 \\% . 9 5 . 0 \\%$ 和 $9 9 . 0 \\%$ 为百分位，确定极端天气事件，可避免绝对阈值的缺陷[13]。但是，阈值方法也存在不同的理解。是所有时段气象要素的阈值，还是对应逐日阈值(如1月1日所有年份气温序列 $9 5 . 0 \\%$ )作为极端气温的判断标准，两种方案将导致不同的结果[14]。为了增加阈值判断的客观性，综合气候系统的长程相关性，随机事件去趋势波动分析法（Multifractal detrended fluctuationanalysis,MF-DFA)被提出，现已被应用于极端气温、极端降水事件分析中，为识别极端天气事件提供了新的视角[15-17]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西安市位于关中平原，属于暖温带半湿润大陆季风气候，渭河谷地的地形条件耦合城市化人为热释放，使得极端高温强度远高于周边。定量中国典型大城市人为热排放，西安市属于强热岛贡献区，仅次于深圳和武汉[18]。全球变暖背景下，耦合城市热岛，西安城市昼夜复合高温事件变化趋势如何，需要进一步分析。基于此,本文选取西安市作为研究对象，对1955—2019年西安市昼夜复合高温事件变化特征进行分析，并探讨了持续5d以上昼夜复合高温事件环流特征，以期为城市科学评价极端天气变化提供理论基础和方法参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西安市位于关中平原中部，是关中城市群的核心，对区域经济发展具有重要的作用。2019年，常住人口有 $1 0 2 0 . 4 \\times 1 0 ^ { 4 }$ 人，国内生产总值为 $9 3 2 1 . 2 { \\times } 1 0 ^ { 9 }$ 元。受到城市扩张等因素影响，建国后西安气象观测站点前后经历了5次迁移（图1)。具体而言，1931年初，西安气象站位于西安市革命公园内；1950年3月迁至西安西关正街，12月迁至西关机场；1954年11月迁至自强路东口六合窑村；1955年12月迁至太华北路;1959年1月迁至北门外肖家村，直至2013年停止观测[19]。可以看出：快速城市化背景下，西安气象站主要迁移有1次，即2013年停止观测，与泾河数据衔接，导致气温数据非均一性。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b04363fae01f81119f663d73c6c933799ee5feb13b9b0663ba99f477d2e5bc1.jpg",
+        "img_caption": [
+            "图11950—2019年西安市气象站点迁移轨迹 Fig.1 Locus of meteorological station relocations in Xi'an City during1950—2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ，数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1955—2019年，西安市及其周边22个气象站点逐日气温数据，来源于中国国家级地面气象站基本气象要素日值数据集。月平均海温资料来源于哈德莱中心海表温度资料集，空间分辨率为 $1 . 0 ^ { \\circ } \\times$ $1 . 0 ^ { \\circ }$ ,逐日风场、气压场等再分析数据来源于美国环境预报中心和国家大气研究中心（NCEP/NCAR），空间分辨率为 $2 . 5 ^ { \\circ } \\times 2 . 5 ^ { \\circ }$ 。西安市土地利用数据来源于西安城市边缘区土地利用数据集[20]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1气候序列均一化方法当前，气候序列均一化参考序列构建有两种思路：单序列和区域平均[21]。其中，区域平均构建参考序列分为两种情况：算数平均和加权平均。加权平均在一定程度上，消除单站序列受局地气候异常的影响，是当前普遍接受的方案。在本研究中，选取加权平均构建参考序列，计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal T } _ { \\mathrm { r e f } } = \\sum _ { i = 1 } ^ { n } \\bigl ( k _ { i } \\times T _ { i } \\bigr ) / \\sum _ { i = 1 } ^ { n } k _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $T _ { \\mathrm { r e f } }$ 为参考序列气温数据 $( \\mathcal { C } ) { : } i$ 为站点序号; $k _ { i }$ 为年尺度上候选 $i$ 站点与西安气温数据的相关系数； $T _ { i }$ 为站点 $i$ 逐年气温数据 $( \\mathrm { { } ^ { \\circ } C ) }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参考站点选择方面，选取西安气象站(57036)周边空间距离 ${ < } 1 0 0 \\ \\mathrm { k m }$ ，海拔高差 ${ < } 2 0 0 \\mathrm { ~ m ~ }$ ,与年均温、最高温和最低温相关性高于0.90，观测时长大于$4 0 \\mathrm { ~ a ~ }$ ，且迁站次数少于2.0次，迁站距离 $< 2 0 . 0 \\ \\mathrm { k m }$ ，新旧站高差 $< 2 0 . 0 \\mathrm { ~ m ~ }$ 作为参考站点。最终，利用蒲城、渭南、永寿、蓝田、秦都构建参考序列；利用RHtestV4软件，对月和年尺度气温序列进行突变点分析，反复验证后删除不显著的突变点。最后，对原始序列进行均一化订正。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2昼夜复合极端高温事件确定参考已有研究8，采用最高温和最低温异常作为标准，判断昼夜复合极端高温事件，将夏季极端高温天气事件分为3种类型，昼高夜低、昼低夜高、昼夜复合高温，其他为正常天气。具体识别步骤为：（1）选取5种方法，对西安市昼夜高温的阈值进行识别；(2）统计昼夜复合高温事件逐年发生天数；(3）关注高温事件的持续性，统计持续5d以上的昼夜复合高温事件，为分析持续性极端高温事件的环流机制提供数据基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在阀值判别方法上，以MF-DFA为主导，综合$9 0 . 0 \\%$ ） $9 5 . 0 \\%$ 和 $9 9 . 0 \\%$ 相对阈值法以及白天 $3 5 . 0 \\mathrm { { ^ { \\circ } C } }$ 、夜晚 $2 5 . 0 ~ \\mathrm { \\textdegree C }$ 的绝对阈值法，构建不同阈值分析体系。为避免文章冗余，MF-DFA具体计算方法可参考文献[15」。本研究设置参数如下：局部趋势函数$y _ { v } ( i )$ 采用二阶多项式， $s$ 取值范围为 $2 5 0 { \\leqslant } s { \\leqslant } n / 1 5$ ,其中 $n$ 为1955—2019年的时间长度；区间间隔取值为0.1，计算每个序列长程相关系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.3趋势统计诊断方法为了更好分析西安市昼夜复合高温变化特征，利用极端对称模态分解方法(ESMD），对西安夏季昼夜复合高温事件趋势变化进行信息分解22；进而用谐波分析方法，分析本征模态函数(Intrinsicmodefunction,IMF)周期特征，为探讨西安市昼夜复合高温事件影响因素识别提供理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1西安市夏季昼夜复合高温天气的不同阈值方案",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2为西安市最高温和最低温MF-DFA计算结果。利用包为民等23提出的滑动平均差检测法（Movmean），对MF-DFA值突变点进行检测。该方法相对于滑动 $\\mathbf { \\Phi } _ { t }$ 检验、Cramer法、Yamamot法、Mann-Kendall等突变检测方法，结构相对简单，物理意义明确，可更加准确的检测突变点位置(图2)。结果显示，对于订正序列而言，1955—2019年，西安市白天最高温阈值为 $3 5 . 9 \\mathrm { { ^ \\circ C } }$ ,最低温阈值为 $2 3 . 1 \\mathrm { { ^ \\circ C } }$ O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从表1可以看出，MF-DFA方法计算西安市昼夜高温天气阀值 $( 3 5 . 9 ^ { \\circ } \\mathrm { C } )$ ，与 $9 5 . 0 \\%$ 的阈值 $3 5 . 2 \\mathrm { { ^ { \\circ } C } }$ 和绝对阈值 $( 3 5 . 0 ~ \\mathrm { ^ { q } C }$ )相当，但是低于 $9 9 . 0 \\%$ 的阈值$( 3 7 . 8 ~ \\mathrm { ^ { \\circ } C } )$ 。从迁站对气候数据的影响看，原始数据最高温与订正序列阈值相同，主要差别为最低温订正后，最低温阈值相对偏低 $0 . 2 { \\sim } 0 . 5 ^ { \\circ } \\mathrm { C }$ 售",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2不同阈值方案对西安市夏季昼夜复合高温天气的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MF-DFA、 $9 0 . 0 \\%$ 和 $9 5 . 0 \\%$ 阈值方案识别西安市昼夜复合高温事件结果具有相似性。 $9 9 . 0 \\%$ 阈值和其他阈值方案具有明显差异，后者是结论不确定性的主要来源。对比 $9 0 . 0 \\% . 9 5 . 0 \\%$ 和 $9 9 . 0 \\%$ 阈值方案发现，随着极端高温阈值条件减弱，昼夜复合高温天数明显增加。共同识别出：1955—2019年西安市夏季极端高温天气呈现极端化，以20世纪80年代为转折，前期波动下降，后期呈现上升趋势(图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "值得一提的是，本文MF-DFA方法确定阈值与$9 5 . 0 \\%$ 阈值方案接近，但不意味其他区域昼夜高温",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "订正序列 -原始序列  \n0.65 (a)最高温 0.60变点：36原 0.018Movmean-原始0.012 变点：36.0值白天高温 测 突变点：35.9C  \n0.45 2.0-41 0.52 M点： 检 0.006  \n0.35 0.48 0.000J1520253035 4045 32343638404244 32343638404244最高温/℃ 最高温/℃ 最高温/℃  \n0.65 (b)最低温 0.62 0.018 Movmean-原始Movmean-原始 突变点:23.6℃AIA 0.60 突变点：23.6℃夜晚高温 值 0.012 Movmean-订正阈值区间 0.58 到 突变点:23.1℃  \n0.45 21.0\\~30.9℃ 0.56 0.006Movmean-订正  \n0.35 0.54 N 突变点:23.1℃C 0.00048121620242832 222426283032 22 24 26283032最低温/℃ 最低温/℃ 最低温/℃",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/159e9a16e5b94988ac53de306bb21dda923265f7653cc97f06280f963096735c.jpg",
+        "table_caption": [
+            "表11955—2019年西安昼夜复合高温天气阈值判断",
+            "Tab.1 Threshold of summertime compound hot extremes in Xi' an City during 1955—2019 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>指标</td><td>原始最高温/C</td><td>校正最高温/C</td><td>原始最低温/℃</td><td>校正最低温/C</td></tr><tr><td>1</td><td>MF-DFA方法</td><td>36.1</td><td>35.9</td><td>23.6</td><td>23.1</td></tr><tr><td>2</td><td>99.0%阈值</td><td>38.0</td><td>37.8</td><td>26.1</td><td>25.9</td></tr><tr><td>3</td><td>95.0%阈值</td><td>35.5</td><td>35.2</td><td>23.7</td><td>23.3</td></tr><tr><td>4</td><td>90.0%阈值</td><td>33.5</td><td>33.3</td><td>22.0</td><td>21.5</td></tr><tr><td>5</td><td>绝对阈值</td><td>35.0</td><td>35.0</td><td>25.0</td><td>25.0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/15bdac25cc6e1bd8e6dadc605e9d605acf1def1982911b1d810c463b847cbc4d.jpg",
+        "img_caption": [
+            "图3不同阈值方案下西安市昼夜复合高温事件变化特征"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3VariationsofcompoundhotextremesatdaytimeandnightimeinXi'anCitybasedonthediferentthresholdconditions阈值也具有相似的规律，可选择 $9 5 . 0 \\%$ 阈值与MF-DFA阈值对接。以杜海波等研究吉林丹东极端高温阈值为例[1],MF-DFA极端高温阈值为 $3 2 . 8 ~ \\mathrm { ^ { q } C }$ ，而$9 7 . 5 \\%$ 阈值仅为 $2 9 . 9 ~ \\mathrm { { ^ { \\circ } C } }$ ，前者判断阈值并不对应$9 5 . 0 \\%$ 阈值。因此，不应将MF-DFA阈值方法与相对阈值相对应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3MF-DFA方案下西安市夏季昼夜复合高温天 气变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用ESMD方法对西安市夏季昼夜复合高温事件时间序列进行分解，得到4个IMF模态和1个R趋势项(表2)。从方差贡献率分析，西安市昼夜复合高温事件 $3 . 3 { \\sim } 3 . 8$ a周期贡献率最高 $( 3 5 . 3 \\%$ )；趋势变化以1983年为转折，后期昼夜复合高温天数以$2 . 7 \\ : \\mathrm { d } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 变化速率呈现显著增加趋势(图4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2基于谐波分析的西安市昼夜复合高温事件变化主周期",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd6fbab6f2e097e1dd90a89538da0556ddd0a69ebeee0c469f84798897ae5cfa.jpg",
+        "table_caption": [
+            "Tab.2 Period of IMFs for the compound hot extremes at daytime and nighttime in Xi' an City based on harmonic analysis "
+        ],
+        "table_footnote": [
+            "注：IMF1、IMF2、IMF3、IMF4分别为ESMD方法对昼夜复合高温事件分解4个本征模态序列。"
+        ],
+        "table_body": "<html><body><table><tr><td>本征模态</td><td>主周期/a</td><td>方差</td><td>F值</td></tr><tr><td>IMF1</td><td>3.8</td><td>2.76</td><td>6.51</td></tr><tr><td rowspan=\"3\">IMF2</td><td>3.3</td><td>2.44</td><td>5.62</td></tr><tr><td>9.3</td><td>0.63</td><td>6.63</td></tr><tr><td>7.2</td><td>0.77</td><td>8.50</td></tr><tr><td rowspan=\"3\">IMF3</td><td>21.7</td><td>1.82</td><td>16.68</td></tr><tr><td>16.3</td><td>1.17</td><td>9.03</td></tr><tr><td>10.8</td><td>0.90</td><td>6.49</td></tr><tr><td>IMF4</td><td>21.7</td><td>0.23</td><td>45.83</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在年代变化上，20世纪90年代前，西安市昼夜复合高温事件以IMF4的21.7a周期为主导，形成1958—1966年、1978—1990年2个谷值期，以及1967—1977年1个峰值期;20世纪90年代后，昼夜复合高温IMF4贡献逐渐减弱，而 $1 6 . 3 \\mathrm { ~ a ~ . ~ } 1 0 . 8$ a的IMF3分量周期增强，且在1986—2001年快速增加。全球变暖停滞期(1998—2012年），西安市昼夜复合高温事件增速有所减缓，主要受IMF3年代波动影响[24]。2013年后，叠加年代周期波动正相位，西安市昼夜复合高温再次呈现显著增加趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4MF-DFA方案下西安市夏季不同类型高温天气变化特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "单独分析昼夜复合高温天气变化，无法系统认知西安市夏季极端高温天气的变化规律。在此，补充分析正常日数、昼高夜低和昼低夜高等3种天气事件趋势变化，说明西安市昼夜复合高温事件趋势的特殊性(图5)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结果表明：(1）正常日数，表征夏季昼夜温度均未突破阈值的天数(图5a)。以20世纪80年代中期为界，西安市夏季正常天数先增后降。近年来，西安市非极端高温天气在减少，夏季极端高温天气逐渐增多。（2）昼高夜低事件，表征白天高温，夜晚降温较快的高温天气过程。从图5b可以看出，西安市昼高夜低天数变化过程以波动下降趋势为主。1980年前为正距平，高温天数持续下降，后期则呈现出“W\"型平稳波动。（3）昼低夜高事件，表征白天高温未突破 $3 5 . 9 ~ \\mathrm { ^ { \\circ } C }$ ,夜晚降温较慢，导致昼夜温差较小(图5c)。以1984年为界，前期西安市高温天数",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb3c165e13ad774f8b4cd201fff708f32e49fc59398ace6a71fb958fc721198f.jpg",
+        "img_caption": [
+            "图4基于ESMD的西安市昼夜复合高温事件周期和趋势信息分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Periodic and trend informationof hecompound hotextremesatdaytimeand nightime in Xi'an City basedon ESME波动下降，后期快速上升，且2000年后年际波动幅度明显增强，说明昼低夜高事件年际差异较大。(4)昼夜复合高温事件，表征昼夜极端高温复合的天气过程。相当于昼低夜高型，白天高温更加极端且昼夜温差更小。在年代变化上，昼夜复合高温与正常日数变化趋势相反，20世纪80年代中期之前呈波动下降，后期呈现上升趋势(图5d)。综上所述，1955—2019年西安市夏季极端高温天气呈现极端化，以20世纪80年代为转折，以正常日数和昼高夜低为主要减少态势，以昼低夜高和昼夜双高为增加态势。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/68d594f2d2ece83eb1969ba05835d74ae43377f5690701820c8fe092922f36e7.jpg",
+        "img_caption": [
+            "图51955—2019年西安市夏季高温事件和正常日数变化特征",
+            "Fig.5Variations of compound hot extremes and normal days in Xi'an City during 1955—201 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于气候系统具有非线性、非平稳的特征，线性相关分析会低估或错误判断海气异常对西安昼夜复合型高温天气的影响。加之，极端高温天气预警信号亟需提前，能否挖掘超前海温信息，对西安昼夜复合高温综合风险防范具有重要的现实意义。以持续5d以上为判断标准，筛选1955—2019年西安市昼夜复合高温天气事件，识别前冬关键海区与昼夜复合高温天气的关系(表3)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结果表明：（1）1955—2019年，西安市昼夜复合持续5d以上的高温事件共18次，主要分布在20世纪60—80年代初和2000年之后，20世纪80—90年代为相对平静期。值得关注的是，2000—2019年西安市昼夜复合高温事件共12次，占所有事件的$6 6 . 7 \\%$ ，说明近年来西安市极端高温的频发特征；(2）合成分析18次昼夜复合高温事件，赤道太平洋前冬12月一当年2月海温异常呈现一致的“西高东低\"空间格局，表明菲律宾以东海域海温异常偏高，往往对应西安市昼夜复合高温多发期(图6)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文选取3次超强厄尔尼诺事件，即1982—",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1983年海温异常（SSTA)峰值月为1982年12月；1997—1998年SSTA峰值月为1997年11月；2015—2016年SSTA峰值月为2015年11月。对应西安市昼夜复合高温事件发现，3次超级厄尔尼诺当年（1983、1998年和2016年）夏季均无持续5d以上的复合高温事件，并且前冬赤道太平洋地区海温持续呈现明显的\"东高西低\"冷舌形态。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "值得一提的是，由于厄尔尼诺事件发生具有多样性，从“前冬一春季一夏季\"可分为3种类型：厄尔尼诺持续型、厄尔尼诺衰退型和厄尔尼诺转拉尼娜型。本文对3次超强厄尔尼诺进行初步统计分析，未来需要结合不同厄尔尼诺/南方涛动(ElNinoSouthernOscillation，ENSO)类型，探讨西安市昼夜复合高温的海气遥相关机制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对18次持续5d以上昼夜复合高温事件环流场进行分析，结果表明：(1）西安市昼夜复合高温事件往往对应南亚高压异常偏北，形成中国北方高压异常，不利于水汽集聚；(2) $5 0 0 \\mathrm { { h P a } }$ 异常环流形势反映出，西安市持续性昼夜复合高温时，西太平洋副热带高压异常西伸，且位置偏北，中国北方被异常高压控制。同时，中国南方为东风异常，不利于西南季风的向北输送水汽，导致西安市降雨较少，加剧了炎热天气的持续性；(3）结合 $3 2 ^ { \\circ } { \\sim } 3 5 ^ { \\circ } \\mathrm { N }$ 垂直速度场，可以看出西安市及其东部地区盛行下沉气流（图7）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e5c1049416daedf2ad5e7a895c9e12e46f06f33049b08a0aa084505895b2d1c2.jpg",
+        "table_caption": [
+            "表3西安市持续5d以上的昼夜复合高温事件",
+            "Tab.3 Compound hot extremes at daytime and nighttime for five successive days in Xi' an City "
+        ],
+        "table_footnote": [
+            "注：白天和夜晚均温为持续5d以上昼夜复合高温事件最高温和最低温均值。"
+        ],
+        "table_body": "<html><body><table><tr><td>序号</td><td>开始(年-月-日)</td><td>结束(年-月-日)</td><td>持续时间/d</td><td>白天均温/℃</td><td>夜晚均温/C</td></tr><tr><td>1</td><td>1955-08-05</td><td>1955-08-11</td><td>7</td><td>37.5</td><td>25.1</td></tr><tr><td>2</td><td>1959-07-26</td><td>1959-07-31</td><td>6</td><td>39.4</td><td>25.4</td></tr><tr><td>3</td><td>1968-07-23</td><td>1968-07-28</td><td>6</td><td>37.9</td><td>24.5</td></tr><tr><td>4</td><td>1971-07-19</td><td>1971-07-25</td><td>7</td><td>37.4</td><td>24.3</td></tr><tr><td>5</td><td>1979-08-07</td><td>1979-08-12</td><td>6</td><td>37.4</td><td>25.2</td></tr><tr><td>6</td><td>1981-07-31</td><td>1981-08-04</td><td>5</td><td>36.2</td><td>25.4</td></tr><tr><td>7</td><td>2001-07-05</td><td>2001-07-09</td><td>5</td><td>37.7</td><td>25.6</td></tr><tr><td>8</td><td>2002-07-10</td><td>2002-07-14</td><td>5</td><td>38.2</td><td>26.4</td></tr><tr><td>9</td><td>2002-07-31</td><td>2002-08-05</td><td>6</td><td>37.1</td><td>25.7</td></tr><tr><td>10</td><td>2004-06-23</td><td>2004-06-29</td><td>7</td><td>37.8</td><td>25.8</td></tr><tr><td>11</td><td>2005-06-18</td><td>2005-06-22</td><td>5</td><td>39.9</td><td>24.5</td></tr><tr><td>12</td><td>2012-07-26</td><td>2012-07-30</td><td>5</td><td>38.2</td><td>26.8</td></tr><tr><td>13</td><td>2014-07-16</td><td>2014-07-22</td><td>7</td><td>37.8</td><td>26.2</td></tr><tr><td>14</td><td>2015-07-26</td><td>2015-08-02</td><td>8</td><td>37.8</td><td>26.2</td></tr><tr><td>15</td><td>2017-07-09</td><td>2017-07-14</td><td>6</td><td>39.8</td><td>25.6</td></tr><tr><td>16</td><td>2017-07-18</td><td>2017-07-27</td><td>10</td><td>40.1</td><td>28.5</td></tr><tr><td>17</td><td>2018-07-18</td><td>2018-07-26</td><td>9</td><td>37.8</td><td>27.2</td></tr><tr><td>18</td><td>2018-08-06</td><td>2018-08-12</td><td>7</td><td>37.2</td><td>26.5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5ba69e42daa1bc7416c2ede5e1d39c540c6da65629193e5523f70025b947e88.jpg",
+        "img_caption": [
+            "图6 西安市5d以上昼夜复合高温事件、超强厄尔尼诺年前冬(12月—次年2月)海温异常分布 Fig.6SSTA inDecember,JanuaryandFebruaryduring thecompound hot extremes atdaytimeand nighttime with five successive days in Xi'an City and the three super El Nino events "
+        ],
+        "img_footnote": [
+            "注：图中海温距平时段为1961—1990年。"
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，西安市持续型昼夜复合高温事件发生时，南亚高压异常偏北东伸，西北太平洋副热带高压西伸，低层风场在中国南北过渡带辐散，加之强烈的东风异常，阻止西南水汽北上，加剧持续性昼夜高温天气的形成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于西安市及其周边22个气象站点逐日气温数据，对1955—2019年西安市昼夜复合高温事件变化特征进行分析，探讨了不同阈值方案对于极端高温变化结果的影响，分析了海气异常与昼夜复合高温天气的响应关系，得到主要结论如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）与均一化序列相比，最高温原始序列与订正序列阈值相同，两者主要差别在于最低温。订正后，最低温阈值相对偏低 $0 . 2 { \\sim } 0 . 5 ^ { \\circ } \\mathrm { \\Phi }$ ,导致非均一化序列对西安市昼夜极端天气事件变化趋势存在低估。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）MF-DFA阀值可有效识别西安市昼夜复合高温天气， $9 9 . 0 \\%$ 阈值和相对阈值方案是结论不确定性的主要来源。人为定义的绝对阈值，以及苛刻条件下的相对阈值，对昼夜复合极端高温事件的结论影响较大，不利于中国北方其他区域，尤其是西安市以北偏冷地区气候极端化的认知。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）在变化特征上，1955—2019年西安市昼夜复合高温事件兼顾 $3 . 3 { \\sim } 3 . 8 \\mathrm { ~ a ~ }$ 年际波动和趋势变化。以1984年为界，西安市昼夜复合高温事件前期小幅波动下降，后期持续增加，说明近年来西安市夏季昼夜复合高温呈现极端化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/03662f0ba6597c04b1f215f820a83b42b9e9ea25112ab770b2016f8dba67ed35.jpg",
+        "img_caption": [
+            "注：图7a紫色线为 $1 2 5 2 0 \\mathrm { g p m }$ 等压线；图7b紫色线为 $5 8 6 0 \\ \\mathrm { g p m }$ 和 $5 8 8 0 \\ \\mathrm { g p m }$ 等压线，指示副热带高压位置，箭头为风场;图7c紫色线为 $1 4 8 0 \\mathrm { g p m }$ 等压线，箭头为风场;图7d箭头为垂直流场线，黑色为地形。",
+            "图7西安市5d以上昼夜复合高温事件环流异常分析",
+            "7Geopotential height and anomalous wind ofthe compound hot extremes with five successve days in Xi'ar "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4）赤道西太平洋海温异常可作为西安市昼夜复合高温预警的关键海区。当菲律宾以东海域海温偏高时，西安市昼夜复合高温天气偏多；反之，菲律宾以东海域海温偏低时，特别是超强厄尔尼诺爆发，西安市昼夜复合高温天气往往偏低。同时，西安市持续5d以上昼夜复合高温事件发生时，南亚高压异常偏北东伸，西北太平洋副热带高压西伸，低层风场在中国南北过渡带辐散，加之强烈的东风异常，阻止西南水汽北上，加剧西安市持续性昼夜复合高温天气的形成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢尚激博士对昼夜复合高温环流特征分析提供的宝贵建议。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ence of global warming on unprecedented extreme climate events [J].Proceedings of the National Academy of Sciences,2O17,114 (19): 4881-4886.   \n[2] Power S B,Delage FPD.Setting and smashing extreme temperature records over the coming century[J]. Nature Climate Change, 2019,9(7): 529-534.   \n[3] Wehrli K,Guillod BP,Hauser M,etal.Identifying key driving processes of major recent heat waves[J]. Journal of Geophysical Research: Atmospheres,2019,124(22): 11746-11765.   \n[4] ChuangJS,Rivoire O,Leibler S.Simpson's paradox ina synthetic microbial system[J]. Science,2009,323(5911):272-275.   \n[5] Wu X S,Guo SL,Yin JB,et al. On the event-based extreme precipitation across China: Time distribution patterns,trends,and return levels[J].Journal of Hydrology,2018,562: 305-317.   \n[6] Shang W,Li S S,Ren X M,et al.Event-based extreme precipitation in central-eastern China:Large-scale anomalies and teleconnections[J]. Climate Dynamics,2020, 54(3-4): 2347-2360.   \n[7] 李双双,汪成博,延军平,等.面向事件过程的秦岭南北极端降 水时空变化特征[J].地理学报,2020,75(5):989-1007.[Li Shuangshuang,Wang Chengbo,Yan Junping,et al.Variability of the event-based extreme precipitation in the south and north Qinling Mountains[J].Acta Geographica Sinica,2020,75(5): 989-1007.] [8]Chen Y, Zhai P.Revisiting summertime hot extremes in China during 1961—2015: Overlooked compound extremes and significant changes[J]. Geophysical Research Leters,2017,44(10): 5096-   \n5103. [9]杨维涛,孙建国,康永泰,等.黄土高原地区极端气候指数时空 变化[J].干旱区地理,2020,43(6):1456-1466.[Yang Weitao, Sun Jianguo,Kang Yongtai, et al. Temporal and spatial changes of extreme weather indices in the Loess Plateau[J]. Arid Land Geography,2020,43(6): 1456-1466.] [10] 焦文慧,张勃,马彬,等.近58a中国北方地区极端气温时空变 化及影响因素分析[J].干旱区地理,2020,43(5):1220-1230.[Jiao Wenhui, Zhang Bo,Ma Bin,et al. Temporal and spatial changes of extreme temperature and its influencing factors in northern China in recent 58 years[J].Arid Land Geography,2020,43(5):   \n1220-1230.] [11] 杜海波,吴正方,张娜,等.近60a丹东极端温度和降水事件变 化特征[J].地理科学,2013,33(4):473-480.[Du Haibo,Wu Zhengfang, Zhang Na, et al. Characteristics of extreme temperature and precipitation events over Dandong during the last six decades[J]. Scientia Geographica Sinica,2013,33(4): 473-480.] [12] Zhu B, Sun B, Wang H. Dominant modes of interannual variability of extreme high-temperature events in eastern China during summer and associated mechanisms[J]. International Journal of Climatology,2020,40(2): 841-857. [13]Yin H, Sun Y.Detection of anthropogenic influence on fixed threshold indices of extreme temperature[J].Journal of Climate,   \n2018,31(16): 6341-6352. [14]Wang J, Chen Y,Tett S,et al. Anthropogenically-driven increases in the risks of summertime compound hot extremes[J].Nature Communications,2020,11(1): 528-538. [15] 杨萍,侯威,封国林.基于去趋势波动分析方法确定极端事件阈 值[J].物理学报,2008,57(8):5333-5342.[Yang Ping,Hou Wei, Feng Guolin.Determining the threshold of extreme events with detrended fluctuation analysis[J]. Acta Physical Sinica,2Oo8,57(8):   \n5333-5342.]   \n[16]侯威,章大全,钱忠华,等.基于随机重排去趋势波动分析的极 端高温事件研究及其综合指标的建立[J].高原气象,2012,31 (2): 329-341.[Hou Wei, Zhang Daquan, Qian Zhonghua, et al. Research about the extreme high temperature events and its composite index based on stochastic re-sort detrended fluctuation analysis [J].Plateau Meteorology,2012,31(2): 329-341.]   \n[17] 侯威,章大全,杨萍,等.去趋势波动分析方法中不重叠等长度 子区间长度的确定[J].物理学报,2010,59(12):8986-8993. [Hou Wei, Zhang Daquan, Yang Ping,et al.A valid method to compute the segment size in detrended fluctuation analysis[J].Acta Physical Sinica,2010,59(12): 8986-8993.]   \n[18]Wang S S,Hu D Y, Chen S S,et al.A partition modeling for anthropogenic heat flux mapping in China[J]. Remote Sensing, 2019, 11(9): 1132-1151.   \n[19] 陕西省气象局.陕西省基层气象台站简史[M].北京:气象出版 社,2012.[Shaanxi Meteorological Administration.History of meteorological stations in Shaanxi Province[M]. Beijing: China Meteorological Press,2012.]   \n[20]王博,黄晓军,王晨,等.西安城市边缘区土地利用数据集 (2015)[J].全球变化数据学报,2019,3(4):382-386.[Wang Bo, Huang Xiaojun,Wang Chen,et al.Land use dataset of the sub-urban area in Xi'an (2O15)[J]. Journal of Global Change Data & Discovery,2019,3(4): 382-386.]   \n[21]Wang XL,Chen H,Wu Y,et al. New techniques for the detection and adjustment of shifts in daily precipitation data series[J]. Journal of Applied Meteorology and Climatology,2010,49(12): 2416-2436.   \n[22] 王金良,李宗军.极点对称模态分解方法:数据分析与科学探索 的新途径[M].北京:高等教育出版社,2015.[WangJinliang,Li Zongjun. Extreme-point symmetric mode decomposition: The new way of data analysis and scientific exploration[M]. Beijing: Higher Education Press,2015.]   \n[23] 包为民,沈丹丹,倪鹏,等.滑动平均差检测法的提出及验证[J]. 地理学报,2018,73(11):2075-2085.[Bao Weimin,Shen Dandan,Ni Peng,et al.Proposition and certification of moving mean difference method for detecting abrupt change points[J]. Acta Geographica Sinica,2018,73(11): 2075-2085.]   \n[24]Du Q Q, Zhang M J, Wang S J, et al. Changes in air temperature over China in response to the recent global warming hiatus[J]. Journal of Geographical Sciences,2019,29(4): 496-516. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Variation characteristics and its influencing factors of the compound hot extremes at daytime and nighttime in Xi' an City based on MF-DFA ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LI Shuangshuang¹²， WANG Ting1² (1.SchoolofGeogaphyandTourism,ShaaniNormalUniversity,Xi'nOl19,hnxi,China;2.NationalDemotation Center for Experimental Geography Education,Shaanxi Normal University,Xi'an 71Ol19,Shaanxi,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Improving research methods and regional adaptation measures depend on the refining of extreme weather processes.However, it is still a great challenge to refine the types of historical warming to more sophisticated extreme events.We identified three summertime hot extremes based on daily temperature ( $T _ { \\mathrm { m a x } }$ and $T _ { \\mathrm { m i n } _ { \\ell } } \\}$ ）data obtained from 2 meteorological stations in Xi'an City,Shaanxi Province, China and the surrounding areas: independent hotdays,independent hot nights,and compound hot extremes.The stochastic resortdetrended fluctuation analysis (MF-DFA)and extreme-point symmetric mode decomposition (ESMD) were used to determine the variation of the compound hot extremes during the dayand night in Xi'an City from 1955 to 2019. Meanwhile,the influencing factors of the annual fluctuation of the compound hot extremes during the day and night were analyzed.The results show that: (1)the highest temperature and threshold of the original data are the same as the homogenized data in $\\mathrm { X i } ^ { \\prime }$ an City.The threshold of the lowest temperature is relatively lower by $0 . 2 \\AA ^ { - }$ $0 . 5 ~ ^ { \\circ } \\mathrm { C }$ after homogenization.As a result, the ${ \\mathrm { X i } ^ { \\prime } }$ an station was relocated between urban areas and suburbs between 1959 and 2005,which resulted in an underestimation of the extreme temperature trend.(2） While the MF-DFA, $9 0 . 0 \\%$ ，and $9 5 . 0 \\%$ threshold schemes perform similarly well in identifying high temperature events, the $9 9 . 0 \\%$ threshold and relative threshold schemes are the primary sources of uncertainty. (3) The interannual fluctuation and trend changes from 3.3-3.8 a were the compound hot extremes from 1955 to 2019.The number of compound hot extremes increased significantly in the mid-1980s,while the normal number of days and independent hot days decreased,and the number of independent hot nights and compound hot extremes increased.(4) The sea surface temperature (SST)anomaly in the equatorial western Pacific Ocean can be used as a key sea area for early warning of Xi'an City's day and night combined high temperatures.The circulation analysis of the day-night composite high temperature events lasting more than five days verified the reliability of the abnormal warming of SST in the equatorial western Pacific as early warning information. In addition, we found that the South Asian high is moving northward and the western Pacific subtropical high is extending westward, which is the specific circulation mechanism of the regional day-night composite high temperature.It is important tounderstand thatthe variation in characteristics ofthe compound hot extremes atdayand night in Xi'an City from 1955—2019 and the circulation characteristics of hot extremes lasting more than five days.One could argue that this study establishes both a theoretical and methodological basis for urban climate adaptation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: climate change； the compound hot extremes at daytime and nightime;El Nino; Xi'an City ",
+        "page_idx": 9
+    }
+]

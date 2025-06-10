@@ -1,0 +1,438 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of land use and cover change on surface wind speed in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Yupeng1,², CHEN Yaning1\\*, LI Zhi1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State Key Laboratoryof Desert andOasis Ecology,Xinjiang Instituteof Ecology and Geography,Chinese Academyof Sciences,Urumqi 830011,China;   \n2 University of Chinese Academy of Sciences,Beijing 100049,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The surface wind speed (SWS) is affected by both large-scale circulation and land use and cover change (LUCC).In China,most studies have considered the effect of large-scale circulation rather than LUCC on SWS.In this study, we evaluated the effects of LUCC on the SWS decrease during 1979-2015 Over China using the observation minus reanalysis (OMR) method. There were two key findings: (1) Observed wind speed declined significantly at a rate of $0 . 0 1 1 2 ~ \\mathrm { m } / ( \\mathrm { s } { \\cdot } \\mathrm { a } )$ ,whereas ERA-Interim,which can only capture the inter-annual variation of observed data, indicated a gentle downward trend. The effects of LUCC on SWS were distinct and caused a decrease of $0 . 0 1 2 4 ~ \\mathrm { { m } / ( \\mathrm { { s } } { \\cdot } \\mathrm { { a } } ) }$ in SWS; (2) Due to variations in the characteristics of land use types across different regions,the influence of LUCC on SWS also varied. The observed wind speed showed a rapid decline over cultivated land in Northwest China, as well as a decrease in China's northeastern and eastern plain regions due to the urbanization. However, in the Tibetan Plateau, the impact of LUCC on wind speed was only slight and can thus be ignored. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: surface wind speed (SWS); land use and cover change (LUCC); observation minus reanalysis (OMR); normalized difference vegetation index (NDVI); China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: LIYupeng,CHENYaning,LIZhi.2O19.Effects ofland useand coverchange on surface wind speed in China Journal of AridLand,11(3):345-356.https://doi.org/10.1007/s40333-019-0095-5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Surface wind speed (SWS） partially governs the transfer of water, energy and momentum between the land surface and the lower atmosphere (Azorin-Molina et al.,2O14). Understanding the evolution of long-term SWS is of great significance for evaluating coastal erosion, surface energy balance,hydrological cycle, pollutant dispersion and wind energy potential (Viles and Goudie,2003; Pryor et al.,2006; Roderick et al.,2007; Pineda-Martinez et al.,2011). Recently, to explain the observed decrease in pan-evaporation in Australia, Roderick et al. (2OO7) proposed the concept of \"wind stiling\".A meta-analysis of 148 regions was conducted by McVicar et al. (2012),which indicated that \"wind stilling\" widespread in the tropics and mid-latitudes of both hemispheres. Specifically, in mid-latitudes,the SWS has declined by between O.0O4 and 0.017 $\\mathrm { { m } / ( \\mathrm { { s } } { \\cdot } \\mathrm { { a } } ) }$ over the past 3O-5O a (Roderick et al.,2Oo7). A large number of regional studies have also found that the prevalence of wind decline,such as the contiguous United States (1973-2000) (Pryor et al.,2009),the Czech Republic (1961-2005) (Brazdil et al.,2009), Switzerland (1981- 1998)(Weber and Furger, 2001), Portugal and Spain (1961-2011) (Azorin-Molina et al., 2014), Germany (2007-2010) (Kaiser-Weiss et al., 2015)，Australia （1975-2006；1975-2004；1975- ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2006) (McVicar et al.，2008；Roderick et al.，2007； Troccoli et al.，2012)，the west coast ofCanada (begin in the late 194Os or the 195Os and run through to the early to mid-199Os)(Tuller,2004)，South Korea (mid-1950s-2003） (Kim and Paik，2015)，and Turkey (1975-2006)(Dadaser-Celik and Cengiz,2014).",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In China, changes in SWS have also attracted attention in recent decades ( $\\mathrm { \\Delta X u }$ et al. 2006; Jiang et al.,2009; Fu et al.,2010; Guo et al.,2011; Yang et al.,2012; Lin et al.,2013; You et al.,2014; Wu et al., 2016; Zha et al., 2016a; Zha et al., 2016b; Wu et al., 2017). For example, Xu et al. (2006) reported that the annual mean wind speed over China decreased steadily by $28 \\%$ and the prevalence of windy days (daily mean wind speed ${ > } 5 ~ \\mathrm { m / s }$ ）decreasedby $58 \\%$ between 1969 and 2000. Jiang et al. (2Oo9） indicated that the regions with declining trends match those with relatively strong observed winds,while the regions without significant declining trends match those with light observed winds.Lin et al. (2O13) further proposed that SWS at high altitudes is more sensitive to climate change. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The reason for the decrease in SWS is unclear, mainly because the changes are induced by a combination of anthropogenic activities and climate shifts. Anthropogenic activities primarily lead to land use and cover change (LUCC),while changes in the natural climate are associated with alterations in large-scale circulation. Thus,studies of the long-term changes and causes of SWS need to take into account the efects of large-scale circulations and LUCC activities as well. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Some studies indicate that recent declines in SWS are due to changes in large-scale circulation patterns and that shifts in atmospheric circulation can explain $10 \\% { - } 5 0 \\%$ of the decline in wind speeds (Vautard et al.,2O1O).For example, Yu et al. (2O15) discovered that changes in SWS in the United States are closely related to the North Atlantic Oscillation in summer and the El Nino/Southern Oscillation. Dadaser-Celik and Cengiz (2O14） suggested that large-scale circulation and temperature fluctuations are the main causes of wind speed changes in Turkey. Across China, the decline in SWS has been attributed to a north-south warming gradient in winter,and to sunlight dimming caused by air pollution lingering over central areas in summer (Xu et al.,2OO6; Guo et al., 2O11). The Intergovernmental Panel on Climate Change has reported that the poleward movement of cyclone activity is the main reason for the decline in mid-latitude wind speed as well as the rise in high-latitude wind speed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "At the same time,a significant decline in SWS has been reported in the tropics and mid-latitudes of both hemispheres, whereas several coastal studies have reported an increasing SWS (McVicar et al.,2012). These reports are in agreement with observed increases in oceanic SWS measured by both remote sensing and in situ systems (McVicar et al. 2012; Ma et al., 2016). Therefore, some investigators suggested that the SWS slowdown could be caused by increased land surface roughness induced by LUCC (Wu et al.，2016,2017; Zha et al.，2016a,b; Li et al.， 2017). Mesoscale model simulations do indicate that an increase in surface roughness could explain $2 5 \\% -$ $60 \\%$ of the observed wind stiling (Vautard et al.,2O1O).LUCC, including urbanization, forestation and decreases in pasture land area,are probable causes of the increase in surface roughness (Wever, 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In China, under the influence of LUCC, the mean wind energy has weakened by $3 . 8 4 ~ \\mathrm { W / m }$ per decade during 196O-1999 (Li et al.,2008)and the SWS has decreased by $0 . 1 2 ~ \\mathrm { m / s }$ per decade during 1980-201 (Zha et al.,2016b). Furthermore, Zha et al. (2016b) suggested that a decrease of $0 . 1 \\mathrm { \\ m / s }$ in SWS could be induced by a $10 \\%$ rise in the urbanization rate.By applying the frictional wind model, which can be used to estimate the relative efects of the pressure-gradient force and drag on SWS changes,Wu et al. (2O16) also arrived at the same conclusion. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LUCC is the most important and direct factor affecting SWS (Wu et al., 2O16; Zha et al., 2016a).LUCC occurs due to human impacts such as urbanization,farmland reclamation and vegetation destruction under the background of global climate change. When dealing with the impact of LUCC on SWS,much of the previous research has focused on urban land, while other land use types have received considerably less attention. This is unfortunate, because factors such as afforestation，grassland degradation， land degradation and irrigation can also change the surface heat flux,and thus indirectly impact on atmospheric circulation (Wever, 2Ol2). Although the effects of other land use types are difficult to separate from the increased levels of greenhouse gases,ignoring their presence will not further our understanding of how LUCC impacts on SWS. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The two most important anthropogenic activities that impact on SWS changes are the increase in greenhouse gases and changes in land use (e.g., urbanization and agriculture), although the impacts of these activities are difficult to separate.In previous studies,the influence of LUCC on SWS has mainly been focused on urbanization,with comparisons made with rural stations.\"Urban\" and \"rural\" areas are generally defined according to population density (Xu et al., 2Oo6) or light data (Li et al.,2O17). However, this approach has a number of problems: (1) Most stations are located near cities, whereas only a few stations are located in mountain regions; (2) The division according to population has a certain degree of subjectivity and does not take into account the level of economic development in different regions；and (3） Although there is some objectivity in the relationship of lighting data with population data, the two methods are static and do not enable a dynamic analysis. With the development of economy,some rural stations will also be afected by urbanization. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Kalnay and Cai (2OO3） showed that only relying on the data comparisons between the urban and rural stations will underestimate the role of LUCC. In response to this dilemma, they proposed a way to estimate the influence of land use changes over climate variables by comparing observational and reanalysis data using the observation minus reanalysis (OMR） method.The theoretical basis of the method is that the reanalysis dataset contains elements pertaining to the influence of large-scale climate changes caused by greenhouse gases,and while the reanalysis dataset is less sensitive to regional surface processes associated with different land use types, the surface observation data does contain all of the radiative forcing. Therefore，the difference between surface observations and reanalysis data can be partly attributed to surface factors such as urbanization and agriculture.In addition,the OMR method allows for SWS trend induced by natural climate variability to be cancelled (i.e.,temporary changes in circulation) because they are present in both the reanalysis dataset and observations.The OMR approach is a useful technique for studying the impact of anthropogenic LUCC on climate and has been used in numerous applications (Wu et al., 2016, 2017; Zha et al., 2016a, b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In China, previous studies of the impact of land use on wind speed have mainly dealt with the densely populated eastern region. It is unclear whether SWS changes in more sparsely populated regions are also heavily influenced by urbanization.The objective of this study is to assess the sensitivity of surface wind speed to the influence of LUCC in China using the difference between the observation and reanalysis data. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Dataset and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Chinese mainland was selected as the study area ( $( 1 8 ^ { \\circ } - 5 3 ^ { \\circ } \\mathbf { N }$ $7 3 ^ { \\circ } - 1 3 5 ^ { \\circ } \\mathrm { E }$ ).The landscapes of the area vary significantly across its vast width. In the east, along the shores of the Yellow Sea and the East China Sea, there are extensive and densely populated alluvial plains,while on the edges of the Inner Mongolian Plateau in the north, broad grassands predominate. Southern China is dominated by hils and low mountain ranges, while the central-eastern region hosts the deltas of China's two major rivers,the Yellow River and the Yangtze River. China is the world leader in wind power generation，with the largest installed capacity of any nation and continued rapid growth in new wind facilities. With a large land mass and long coastline, China has relatively abundant wind resources. According to estimates made by the China Meteorological Administration,based on the observations with the relatively low height at $1 0 \\mathrm { ~ m ~ }$ above ground, the theoretically exploitable wind resource represents a potential power generation capacity of $4 3 5 0 \\mathrm { G W }$ and a technically exploitable wind resource of 297 GW (Xia and Song,2009). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Dataset ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Reanalysis data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Daily wind data at $1 0 \\mathrm { ~ m ~ }$ above ground was obtained from the latest European Centre for Medium-Range Weather Forecasts interim reanalysis (ERA-Interim) dataset, covering the period 1979-2015.This dataset(Dee et al.，2O11） has a resolution of $0 . 1 2 5 ^ { \\circ } \\times 0 . 1 2 5 ^ { \\circ }$ and is used to represent the long-term effects of climate change on SWS. The data assimilation system used to produce ERA-Interim,which is superior in quality to ERA-40,is based on the 2OO6 release of the integrated forecast system, IFS-Cy31r2 (Berrisford et al., 2O11). The land surface observations assimilated in ERA-Interim do not include surface wind observations over land (Dee et al.,2011). Therefore,while ERA-Interim reanalysis dataset do include large-scale natural climate change signals, they do not indicate the impact of local LUCC on SWS. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The supplementary reanalysis data used in this research were daily mean $1 0 \\mathrm { - m }$ wind speed derived from the NCEP (the United States National Centers for Environmental Prediction)/NCAR (the National Center for Atmospheric Research) Reanalysis dataset (NNR), which we obtained from htps://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis.derived.surface.html. The NNR dataset were derived using a gaussian grid at $2 . 5 ^ { \\circ }$ resolution and had the same temporal coverage as the observations for the period 1979-2015. Furthermore，the NNR does not assimilate surface observations directly， but instead estimates SWS from rawinsonde- and satellite-derived data. This means that the NNR estimates are also insensitive to local LUCC. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Ground observation data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The daily wind speed data from 1979 to 2O15 for 602 observation stations were obtained from the China Meteorological Administration and compared with SWS from the ERA-Interim dataset. The stations used in this research were selected according to the following criteria: (1） the data must cover the period from 1979 to 2015;(2) any missing data must not exceed $1 \\%$ of the entire study period; and (3） the correlation coefficient for the relationship between station data and ERA-Interim dataset SWS must pass a significance test and have a confidence level of 0.01. The linear interpolation is used to remove the stations with missng values.We applied a linear interpolation for stations with missing values. According to these criteria,526 of the 6O2 stations were selected,the distribution of which is shown in Figure 1.As can be seen,the stations were mainly located in the eastern flat areas of China, with correlation coefficients for the relationship between station and ERA-interim dataset higher than O.6.The number of stations in the complex terrain of western China was significantly less and the correlation coefficient was lower, especially in the Qaidam and Junggar basins.For all selected stations,the average value of the correlation coeficient was O.44,but the correlation was lower in western China, mainly due to the low data density and proximity of mountains. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f14d4bd5cb50e1765b603c0e8024f2292a96ace5b9386fd019810101cb68a76.jpg",
+        "img_caption": [
+            "Fig.1Correlation of surface wind speed (SWS) between ERA-Interim dataset and surface observations.Data were not available for the Taiwan region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3Normalized difference vegetation index (NDVI) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The NDVI can be used as a proxy for LUCC and can also quantitatively establish the relationship with wind speed. The latest version of the NDVI3g.vl product (Tucker et al.,2O05),covering July 1981 to December 2O15，was derived from data gathered by the national oceanic and atmospheric administration advanced very high resolution radiometer (NOAA AVHRR). NDVI monthly data at $8 \\mathrm { - k m }$ spatial resolution were generated from already processed 15-day NDVI values.The processed data were corrected for calibration, view geometry, volcanic aerosols and other effects not related to vegetation change,using the maximum value composites method. A calibration was also applied to the original data to minimize the effects of sensor degradation based on invariant desert targets (Tucker et al.,2Oo5). This dataset is considered to be the most accurate long-term AVHRR data record, which makes it appropriate for long-term studies of land surface trends in vegetation and seasonality,and for coupling climate variability and vegetation. The available NDVI data were averaged over nine cells surrounding each station to calculate the linear trends from the annually averaged NDVI. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 Land use data ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The land use dataset, on a scale of 1:100,000 and covering the period from the late 198Os to 2015, was downloaded from the Resource and Environment Data Cloud Platform (China).It was generated using the human-computer interactive interpretation method, which uses information regarding remotely sensed land-use changes to interpret Landsat Thematic Mapper (TM) digital images. In addition,the dataset was also confirmed by field investigation records and photographs (Liu et al., 2003, 2014),which contained six classes and 25 sub-classes of land use, including cultivated land,woodland, grassland,and urban land.The accuracy of the six classes of land use and the overall accuracy of the 25 sub-classes was above $9 4 . 3 \\%$ and $9 1 . 2 \\%$ ,respectively (Liu et al., 2003, 2014). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methodology ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The ERA-Interim dataset were interpolated to the 526 selected meteorological stations using the bilinear interpolation method,which is suitable for converting one grid forecast field to another or to a discrete observation field.A non-parametric Mann-Kendall test was also used to calculate trends in NDVI, ERA-Interim and observation wind speeds.A trend was considered significant when a confidence level of $9 5 \\%$ was achieved. At the same time,daily data was integrated into seasonal and annual data and the season was divided as: spring,March to May; summer, June to August; autumn, September to November; and winter, December to February of the next year. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To test the influence of different land types on SWS,we first calculated the area of different land-use types in the two periods (198Os and 201Os) within a $1 0 \\mathrm { k m }$ range of the station,and then calculated the rate of change of the land-use type. Then, we compared the mean value of the SWS trend between areas that experienced increases and stations that experienced decreases for given land-use types,using a paired-samples $t$ -test.Due to the small overall proportion of water area and unused land,and given that the stations were rarely located on these two land-use types, we mainly considered the influence of changes on near-SWS in cultivated land,grassland,water bodies and urban land. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A land-use dataset during 198Os-2O15 was used to calculate the change in the area of different land-use types and the relative changes in the range of $- 1 0 \\% - 1 0 \\%$ around a set value of O. As can be seen from Figure 2, the amount of cultivated land in northern China increased,especially in the northern slopes of the Tianshan Mountains and the Northeast Plain，while the amount of cultivated land in southern China decreased (Fig.2a). The amount of forest area was reduced in the key forested areas, such as northeastern China, because of logging and the expansion of farming areas.In the Loess Plateau and hilly areas in the south,forest land increased due to the implementation of Grain for Green Project in 2OOO to encourage the return of farmland to forests (Fig.2b). Throughout the entire country, there was a general reduction in grasslands,especially at the edge of the Tarim Basin,in the Northeast Plain,and on the southeast coast (Fig. 2c). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In recent decades,the speed of urbanization accelerated and the urban land area also increased, especially in the heavily economically developed Beijing-Tianjin, Yangtze River Delta,and Pearl River Delta regions (Fig.2d). In the northwest region, there was a decrease in grassland and an increase in cultivated land, whereas in the northeast, the trend was toward increased urbanization of land and a reduction in forestland and grassand areas.In the eastern plains, there was a rapid expansion in urban land,but there was little change in land-use in the Tibet Plateau. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the above characteristics,we divided the research region into four sub-regions (Northwest China (I)，,Northeast China (II)， Tibetan Plateau (III) and Eastern Plain (IV)） and investigated the influence of different land-use types on the changes in SWS in the different regions. We compared the mean trend of SWS in areas with increases and decreases in the same land-use type.This standard did not apply to the urban land in China because the urban land area has increased across most of the country. Previous studies have classified cities as either \"large\" or \"small\" according to population size.However, classification according to population has a certain subjectivity and does not take into account the level of economic development in different regions.Moreover, this approach is static and does not enable a dynamic analysis.In the present study,we only considered changes in the surrounding environment of each chosen station. We compared the different rates of urbanization only if the stations displayed a significant difference in SWS over time. This enabled a comparison of the trend in mean SWS between urban land areas that had expanded by greater than $10 \\%$ and urban land areas that had expanded by less than $10 \\%$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5664c35de236cfdbe21e57b5f4fabca1e4d63a2b0cce40510bf5aff4a76fb5b.jpg",
+        "img_caption": [
+            "",
+            "Fig.2Distribution of national land-use changes fromthe late 198Os to 2015 in the four geographical units.I, Northwest; II,Northeast; II,Tibetan Plateau; IV,EasternPlain. Data were not available for the Taiwanregion. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Spatial-temporal variations of SWS in the observation and ERA-Interim dataset ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 compares $1 0 \\mathrm { - m }$ monthly SWS changes from observations and ERA-Interim dataset.The ERA-Interim dataset very well captured the seasonal and inter-annual fluctuations of SWS. The correlation coeficient for the relationship of the ERA-Interim dataset with observations was 0.64, giving a significant at the O.99 level. The rate of decrease in SWS at the stations reached 0.0112 $\\mathrm { { m } ( \\mathrm { { s } \\cdot \\mathrm { { a } ) } } }$ between 1979 and 2O15. The wind speed across all seasons was significantly decreased, especially in spring,when the decrease in SWS was $0 . 0 1 4 7 ~ \\mathrm { { m } / ( \\mathrm { { s } } { \\cdot } \\mathrm { { a } } ) }$ (Table1).However, the $1 0 \\mathrm { - m }$ SWS of ERA-Interim dataset showed only a slight decrease of $0 . 0 0 0 4 ~ \\mathrm { { m } / ( \\mathrm { { s } } { \\cdot } \\mathrm { { a } } ) }$ (NNR: $- 0 . 0 0 6 9$ $\\mathrm { { m } } / ( \\mathrm { { s } } { \\cdot } \\mathrm { { a } } ) )$ ,which was non-significant at the O.O1 level. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We also compared the mean SWS for different periods.We found that the difference between the ground observation data and ERA-Interim dataset increased from $0 . 5 0 ~ \\mathrm { m / s }$ in the 1980s to $0 . 7 9 \\ \\mathrm { m / s }$ in the 2O1Os.This difference could be attributed to urbanization and other surface changes，because ERA-Interim dataset only reflects the influence of large-scale circulation patterns induced by greenhouse gases on SWS,and is insensitive to the local and regional surface processes associated with different land-use types.This change corresponded to China's reform and opening-up period, when economic development and urbanization accelerated and the human impact on the land surface grew rapidly. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/67114a995da973824f2f0dc17181739f62fead1094d1c263088cc2f6a68adf57.jpg",
+        "img_caption": [
+            "Fig.3Temporal changes of surface wind speed (SWS) over China "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/17ca6ecd86be9d80d87dd7f5c849959a928f3fdaad6f73a762db2b567d4f15de.jpg",
+        "table_caption": [
+            "[able1Linear trend of surface wind speed (SWS) in China during 1979-2015 "
+        ],
+        "table_footnote": [
+            "Note:\\*,O.o5 level of significance;\\*\\*,O.O1 level of significance. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">SWS</td><td colspan=\"5\">Linear trend of SWS (m/(s·a))</td></tr><tr><td>Annual</td><td>Spring</td><td>Summer</td><td>Autumn</td><td>Winter</td></tr><tr><td>Observation</td><td>-0.0112**</td><td>-0.0147**</td><td>-0.0096**</td><td>-0.0095**</td><td>-0.0096**</td></tr><tr><td>ERA-Interim</td><td>-0.0004</td><td>0.0200</td><td>-0.0038**</td><td>-0.0013</td><td>0.0025*</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the spatial distribution of SWS values and linear trends from the observations and ERA-Interim dataset. Several conclusions could be drawn from the station observation data. Higher SWS values occurred in the north of the Yellow River, where the SWS was higher than 2.5 $\\mathrm { m / s }$ ，while the SWS was generally lower than $2 . 5 ~ \\mathrm { m / s }$ in the south of the Yellow River, especially in the Sichuan Basin (Fig.4a). This finding was also reported by Jiang et al. (2OO9) and Zha et al. (2016b). The coastal SWS was greater than the inland SWS,which may be atributed to stations near the coast having less resistance and the general increase in wind speeds over the sea in recent years (McVicar et al.,2O12). Due to the surface resistance being relatively insignificant, the SWS at high-altitude stations was larger than at low-altitude stations.Although the distribution of the ERA-Interim dataset wind speeds were similar to the observed maximum and minimum regions (Fig. 4b),the ERA-Interim dataset wind speeds were distinctly higher than the observations for almost all of China.In addition,the observed SWS showed a noticeable decline in most parts of the country. The rate of decrease in SWS reached $0 . 0 1 2 7 ~ \\mathrm { { m } / ( \\mathrm { { s } } { \\cdot } \\mathrm { { a } } ) }$ in 402 of the 526 stations that showed a wind speed decline (Fig. 4c). Moreover, there were significant decreases at $7 5 \\%$ of the stations,and the regions with declining trends matched the areas with relatively strong observed winds. However, the $1 0 \\mathrm { - m }$ wind speed of ERA-Interim dataset decreased by only $0 . 0 0 0 3 ~ \\mathrm { { m } / ( \\mathrm { { s } } { \\cdot } \\mathrm { { a } } ) }$ with the wind speed at 262 stations showing a rising trend (Fig. 4d). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From the above analysis,it was apparent that large-scale circulation could influence the near-SWS but was not the main reason for the decreases in SWS because ERA-Interim dataset can only capture the seasonal and inter-annual fluctuations of observations and showed indistinct decreases. Given that SWS is affected by large-scale circulation and LUCC，we further investigated the influence of land cover change on SWS. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9e477250305377ac35ff102a99799b7ce5e3cf9222ac93eb8618b1c11e55579.jpg",
+        "img_caption": [
+            "Fig.4Spatial distribution of SWS according to observations (a)and ERA-Interim dataset averaged from 1979 to 2015 (b),and their linear trends (c,d).Data were not available for the Taiwan region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 Influence ofLUCC on SWS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The OMR method can effectively separate the impact of LUCC on SWS from other influencing factors.As shown in Figure 5a, the majority of stations displayed a downward trend,especially in the Northeast Plain and coastal regions. This result was also confirmed by the NNR dataset. Strangely, the declining trend reversed to an increasing trend after the start of the $2 1 ^ { \\mathrm { s t } }$ century (Fig. 5b). This phenomenon was also reported by Xu et al. (2O06) and Zha et al. (2016b).Because changes in SWS are related to LUCC, we also calculated the NDVI value for the area surrounding the stations.The results showed that vegetation status had significantly improved in recent decades,with $8 5 \\%$ of stations showing a rising trend in NDVI values that was closely linked to SWS (Fig. 6a). The relationship had a correlation coefficient of $- 0 . 7 4 3$ ,with a significant at 0.99 level (Fig. 6b). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The results,as shown in Table 2, indicated significant differences in the mean SWS trend across all land use types except for urban land in the northwest region. The SWS declined much more significantly in areas where the area of cultivated land increased,largely due to the decrease in woodland and grassland $\\left( 0 . \\ 0 1 1 3 \\ \\mathrm { m } / ( \\mathrm { s } { \\cdot } \\mathrm { a } ) \\right)$ ,rather than in locations where the area of cultivated land decreased $( 0 . 0 0 7 1 ~ \\mathrm { m } / ( \\mathrm { s } { \\cdot } \\mathrm { a } ) )$ .We therefore inferred that the increase in the area of cultivated land is an important reason for the decrease in SWS in Northwest China. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There was a significant difference in the mean SWS trend over urban land in the northeast and eastern plain regions,where the urban land area increased by $23 \\%$ and $51 \\%$ ，respectively. The SWS decline in the northeast region was greater than that in the eastern plain region, which was consistent with the spatial distribution of SWS changes.However,this might also be related to the scope of the eastern plain region selected for the study, with many upward wind speed stations located in the Sichuan Basin. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the Tibetan Plateau, there was almost no change in the areas of cultivated land, woodland, and grassand and there was also no significant difference in the mean SWS trend across these land use types. Although there was a slight increase in the urban land area,it had no real influence on SWS.Therefore,the effects of LUCC on SWS can be ignored in the Tibetan Plateau. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/727e7874789f8c8b943a845015023b2808efc3c6c763698e21fb8137aacc3490.jpg",
+        "img_caption": [
+            "Fig.5Spatial distribution of the linear trend in SWSD(diffrence of SWS between the ERA-Interim dataset and observations (a))and temporal variability of SWSD (b).Data were not available for the Taiwan region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b0e68b1d70257c5ee20ff8e59064138d4dec96d19ec2979d9c22c5fcdc47f9b.jpg",
+        "img_caption": [
+            "Fig.6Annual trends (per decade) of average NDVI values over a $2 4 \\mathrm { k m } { \\times } 2 4 \\mathrm { k m }$ area surrounding the stations as obtained from the GIMMS AVHRR product (a) and temporal dynamics of annual average SWS and NDVI (b). Data were not available for the Taiwan region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e818deddb450110d95e5b0b5d8ef0e14f83dae37a45888dcd16597feef9e007.jpg",
+        "table_caption": [
+            "Table 2Linear trends and areal changes for different land use types for the period 1979-2015 "
+        ],
+        "table_footnote": [
+            "Note: $\\mathrm { ~ - ~ }$ ，stations with the average areal decreases; $^ +$ ,stations with the average areal increases;\\*,O.O5 level of significance;NA,not available. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Region</td><td rowspan=\"2\">Land type</td><td>Linear trend (-)</td><td>Linear trend (+)</td><td>1980s</td><td>2015</td><td rowspan=\"2\">Variation (%)</td></tr><tr><td colspan=\"2\">(m/(s.a))</td><td colspan=\"2\">(x104km²)</td></tr><tr><td rowspan=\"4\">Northwest China</td><td>Cultivated land</td><td>-0.0071*</td><td>-0.0113*</td><td>6.90</td><td>9.19</td><td>33.20</td></tr><tr><td>Woodland</td><td>-0.0065*</td><td>-0.0150*</td><td>4.13</td><td>4.08</td><td>-1.17</td></tr><tr><td>Grassland</td><td>-0.0125*</td><td>-0.0002*</td><td>44.62</td><td>42.58</td><td>-4.57</td></tr><tr><td>Urban land</td><td>-0.0101</td><td>-0.0080</td><td>0.44</td><td>0.83</td><td>89.98</td></tr><tr><td rowspan=\"4\">Northeast China</td><td>Cultivated land</td><td>-0.0218</td><td>-0.0213</td><td>36.59</td><td>40.34</td><td>10.24</td></tr><tr><td>Woodland</td><td>-0.0222</td><td>-0.0196</td><td>52.90</td><td>51.08</td><td>-3.44</td></tr><tr><td>Grassland</td><td>-0.0219</td><td>-0.0203</td><td>57.26</td><td>54.58</td><td>-4.68</td></tr><tr><td>Urban</td><td>-0.0196*</td><td>-0.0249*</td><td>3.21</td><td>3.96</td><td>23.41</td></tr><tr><td rowspan=\"4\">Eastern Plain</td><td>Cultivated land</td><td>-0.0087</td><td>-0.0047</td><td>128.76</td><td>124.05</td><td>-3.66</td></tr><tr><td>Woodland</td><td>-0.0086</td><td>-0.0076</td><td>139.00</td><td>140.27</td><td>0.19</td></tr><tr><td>Grassland</td><td>-0.0078</td><td>-0.0102</td><td>51.58</td><td>50.47</td><td>-2.15</td></tr><tr><td>Urban</td><td>-0.0064*</td><td>-0.0112*</td><td>10.63</td><td>16.04</td><td>50.83</td></tr><tr><td rowspan=\"4\">Tibetan Plateau</td><td>Cultivated land</td><td>-0.0161</td><td>-0.0104</td><td>1.84</td><td>1.86</td><td>1.24</td></tr><tr><td>Woodland</td><td>-0.0143</td><td>-0.0238</td><td>27.42</td><td>27.36</td><td>-0.23</td></tr><tr><td>Grassland</td><td>-0.0153</td><td>-0.0144</td><td>150.72</td><td>150.81</td><td>0.06</td></tr><tr><td>Urban</td><td>-0.0151</td><td>NA</td><td>0.11</td><td>0.23</td><td>105.08</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Urbanization,as the most typical human reconstruction of the land surface,has received much attention in relation to its influence on SWS change. However, ignoring other land use types will underestimate the effects of LUCC on SWS.Based on the characteristics of LUCC in China, we divided the country into four sub-regions and considered each in relation to the impact of LUCC on SWS. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The increase in cultivated land was the main cause of the decrease in SWS in Northwest China. During 1979-2O15, the area of cultivated land in the region increased by $2 . 2 9 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ (Liu et al., 2014).Liu et al.(2Ol4)reported the characteristics of cultivated land in China as \"the total basic balance,with southern areas decreasing and northern areas increasing,and the gravity of new arable land gradually moving from northeast to northwest\". Han et al. (2Ol6) investigated the relationship between the change in SWS and area of cultivated land within a $4 \\mathrm { - k m }$ radius of 135 meteorological stations. In Northwest China, agricultural development could explain $3 7 . 8 \\% -$ $5 4 . 2 \\%$ of the observed wind stilling in the growing season, and $4 2 . 4 \\% - 4 9 . 0 \\%$ in the non-growing season. Han et al. (2Ol6) summarized how agricultural development can affect SWS. They reported that enhanced irrigation and fertilization are conducive to the growth of vegetation, thus, increasing the local roughness length. With an increase in crop cultivation, the area of shelterbelt was also increased to improve the farmland microclimate and ensure a high and stable crop yield. For example, in Xinjiang, the proportional area of farmland shelterbelts increased from $2 . 2 \\%$ in 1977 to $5 . 0 \\%$ in 1989 and then to $9 . 5 \\%$ in 2008 (Zheng et al., 2O13). The development of irrigated areas in large oasis regions may be associated with local circulations that lead to an \"oasis effect\", especially in the growing season, which can reduce the near-SWS (Ozdogan et al., 2004). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Urbanization,which can explain the decline in SWS in northeastern and eastern China, has attracted much atention in relation to the influence of wind speed.For example,the SWS at urban stations has been shown to be lower than that at suburban stations in Beijing (Zhen et al., 2011).Using the weather research and forecasting (WRF) model, Zhang et al. (2O1O) simulated how urbanization can induce SWS decreases of up to $50 \\%$ in the Yangtze River Delta. Similarly, Zha et al. (2O16b) showed that China's urbanization rate,which is increasing by $9 . 3 6 \\%$ every 10 years,can lead to reductions in wind speed of $0 . 1 1 ~ \\mathrm { m / s }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Urbanization has many influences on SWS. Urbanization forms an urban canopy structure, which changes the local land cover and underlying surface radiation,thermal and dynamic characteristics,thus,making urban land cover very different from the surrounding areas. This difference affects the characteristics of the various boundary layers as well as the energy exchange between the land surface and the atmosphere (Zhang et al., 2O1O). Urbanization also increases the roughness of the ground, which reduces the wind speed to a greater extent than the surrounding suburbs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Over the period 1979-2015,LUCC can essentially be ignored in the Tibetan Plateau region, but the wind speed still showed a downward trend，which may be related to large-scale atmospheric changes. You et al. (2Ol4) found that SWS in the Tibetan Plateau decreased at a rate of $0 . 0 2 4 ~ \\mathrm { m / ( s { \\cdot } a ) }$ from 198O to 2Oo5,with the pressure gradient between high- and low- latitude bands changing the regional atmospheric circulation and then influencing the variations in wind speed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additionally， reductions in snow cover and afforestation also exert an influence on the near-SWS,because reduced snow cover increases the surface roughness.Yet another factor contributing to the decrease in wind speed is the post-2OoO implementation of Grain for Green project that encouraged the return of farmland to forest, which has resulted in an increase in the forest area of $2 . 3 7 { \\times } \\mathrm { i } 0 ^ { 5 } \\mathrm { h m } ^ { 2 }$ (Liu et al., 2003). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study, the influence of LUCC on SWS in China was analyzed using the OMR method for the period of 1979-2O15. Observed SWS decreased significantly, with the largest downward trend （2 $( 0 . 0 1 4 7 ~ \\mathrm { m / ( s { \\cdot } a ) } )$ occurring in spring.However, the changes in wind speed in ERA-Interim dataset showed a relatively gentle and insignificant decline of only $0 . 0 0 0 4 ~ \\mathrm { { m } / ( \\mathrm { { s } } { \\cdot } \\mathrm { { a } } ) }$ . The ERA-Interim dataset captured the seasonal and inter-annual fluctuations of the observed time series,but not the main reason for the decline in SWS.LUCC caused near-SWS decreases at a rate of 0.0124 $\\mathrm { { m / ( s { \\cdot } a ) } }$ . The correlation coeficient for the relationship between NDVI and near-SWS was -0.733, i.e.,a significant negative correlation, which further proved that LUCC is the main reason for the SWS decline in China. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In relation to the characteristics of LUCC in China,we considered the effects of LUCC on SWS in different sub-regions.The main reason for the decline in SWS in the northwest was the expansion of cultivated land, while SWS decreases in Northeast China and Eastern Plain were the result of urbanization. In the Tibetan Plateau, the effects of LUCC on near-SWS were so minor that they could be neglected. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The research was supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (XDA19030204) and the CAS \"Light of West China\" Program (2015-XBQNB-17). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Azorin-Molina C,Vicente-SeranoSM,McVicarTR,etal.2O14.Homogenizationandassessmentofobserved near-surface wind speed trends over Spain and Portugal,1961-2011.Journal of Climate,27(10): 3692-3712.   \nBerisfordP,KlbergP,KobaashiS,tal.2O11.AtmosphericonservationpropertiesinERA-Interim.QuarterlyJoualof the Royal Meteorological Society,137(659): 1381-1399.   \nBrazdilR,Chroma K,DobrovolnyP,etal.2O09.Climate fluctuations inthe Czech Republicduring theperiod1961-2005. International Journal of Climatology,29(2): 223-242.   \nDadaser-CelikF,Cengiz E.2014.Wind speed trendsover Turkeyfrom1975 to 2006.International Journalof Climatology, 34(6): 1913-1927.   \nDee DP,Uppala SM,Simmons AJ,et al.2Ol1.TheERA-Interimreanalysis:configuration and performanceof thedata assimilation system. Quarterly Journal of the Royal Meteorological Society,137(656): 553-597.   \nFuG,Yu J,ZhangY,etal.2010.Temporalvariationof wind speed in China for1961-2007.TheoreticalandApplied Climatology,104 (3-4): 313-324.   \nGuo H,Xu M,Hu Q.2011.Changes in near-surface wind speed in China:1969-2005.International Journal of Climatology, 31(3): 349-358.   \nHan SJ,TangQH,Zhang XZ,etal.2O16.Surface windobservationsaffcted byagricultural developmentover Northwest China.Environmental Research Letters,11(5): 054014.   \nJiangY,LuoY,ZhaoZC,etal.2O09.Changes inwindspeedoverChinaduring1956-2004.TheoreticalandApplied Climatology, 99(3-4): 421-430.   \nKaiser-WeissAK,KasparF,Heene V,etal.2Ol5.Comparisoofregioaladglobalreanalysis near-surfacewindswithtation observations over Germany.Advances in Science and Research,12(1):187-198.   \nKalnay E,Cai M.2Oo3.Impact of urbanization and land-use change on climate.Nature,423(6939): 528-531.   \nKimJ,Paik K.20l5.Recentrecoveryofsurface wind speedafterdecadal decrease:afocus on South Korea.Climate Dynamics, 45(5-6): 1699-1712.   \nLiY,Wang Y,Chu HY,etal.2Oo8.The climate influenceof anthropogenic land-usechangesonnear-surface windnergy potential in China. Chinese Science Bulletin,53(18):2859-2866.   \nLi Z,Yan ZW,Tu K,etal.2O11.Changes in wind sped and extremesin Beijing during 1960-20o8 basedon homogenized observations.Advances in Atmospheric Sciences,28(2): 408-420.   \nLi Z,SongL,Ma H,etal.2Ol7.Observed surfacewind speed declining inducedbyurbanization inEast China.Climate Dynamics,50(3-4): 735-749.   \nLin C G,Yang K,Qin J,etal.2O13.Observed coherent trendsof surface and upper-air wind speedover Chinasince 1960. Journalof Climate,26(9):2891-2903.   \nLiuJ,Zhang Z X, Zhuang DF,etal.2Oo3.Astudyonthespatial-temporal dynamicchangesof land-useand driving forces analyses of China in the 199Os.Geographical Research,22(1):1-12.(in Chinese)   \nLiuJ,Kuang WH,Zhang ZX,etal.2O14.Spatiotemporalcharacteristics,paterns,andcausesof land-usechanges n China since the late 1980s.Acta Geographica Sinica, 69(1): 3-14.(in Chinese)   \nMa J,FoltzGR,SodenBJ,etal.2O16.Willsurface winds weakeniresponsetoglobal warming?EnvironmentalResearch Letters,11(12): 124012.   \nMcVicar TR,VanNielTG,LiLT,et al.2O08.Wind speed climatologyandtrends for Australia,1975-2006: Capturing the stillng phenomenon andcomparison with near-surface reanalysisoutput. Geophysical ResearchLetters,35(O):L20403.   \nMcVicarTR,Roderick ML,DonohueRJ,etal.2O12.Globalreview and synthesisof trends inobservedterestrial near-surface wind speeds: Implications for evaporation. Journal of Hydrology,416-417: 182-205.   \nOzdoga M,Salvucci GD,AndersonBT,etal.2O04.Examinationofthe Bouchet-Mortoncomplementaryrelationshipusinga Mesoscaleclimate modelandobservations underaprogressiveirrigationscenario.JournalofHydrometeorology,7(2):235.   \nPineda-MartinezLF,CarbajalN,Campos-Ramos AA,etal.2011.Numericalresearchof extreme wind-induceddusttrasport in a semi-arid human-impacted region of Mexico.Atmospheric Environment,45(27): 4652-4660.   \nRoderick ML,RotstaynLD,Farquhar GD,et al.2Oo7.Onthe atributionof changing pan evaporation.Geophysical Research Letters,34(17): L17403.   \nPryor SC,SchoofJT,BarthelmieRJ,etal.2O06.Winds ofchange?: Projections ofnear-surface winds under climate change scenarios.Geophysical Research Letters,33(11): L11702.   \nPryor SC,BarthelmieRJ，Young DT,etal.2009.Wind sped trendsover thecontiguous United States.Journalof Geophysical Research Atmospheres,114(D14): D14105.   \nTroccoli A,MullerK,CoppinP,etal.2O12.Long-term windspeedtrendsoverAustralia.JournalofClimate,25(1):170-183.   \nTucker CJ,Pinzon JE,Brown ME,et al.2O05.An extended AVHRR 8-km NDVIdataset compatible with MODIS and SPOT vegetation NDVI data. International Journal of Remote Sensing,26(2O): 4485-5598.   \nTuller SE.2004.Measured wind speed trendsonthe westcoast of Canada. IntermationalJournalofClimatology,24():1359- 1374.   \nVautard R,CattiauxJ,YouP,etal.210.Northern Hemisphereatmosphericstilling partlyatributed tonincreaseinurface roughness. Nature Geoscience,3(11): 756-761.   \nVilesHA，Goudie A S.20o3.Interannual，decadaland multidecadal scale climaticvariabilityandgeomorphology. Earth-Science Reviews,61(1-2): 105-131.   \nWeber R O,Furger M.2Oo1. Climatologyofnear-surface wind paterns over Switzerland. International Journal of Climatology, 21(7): 809-827.   \nWever N.2012. Quantifying trends in surface roughnessand the efect on surface wind speed observations.Journal of Geophysical Research Atmospheres,117(D11): 11104.   \nWu J,ZhaJL,ZhaoDM.2O16.Estimatingtheimpactof thechanges inlanduseandcoveronthe surface wind speedoverthe East China Plain during the period 1980-2011.Climate Dynamics,46(3-4): 847-863.   \nWu J,ZhaJL,ZhaoDM.2O17.Evaluating the efectsoflanduse andcoverchangeonthe decreaseofsurface wind speedover China in recent 30 years using a statistical downscaling method.Climate Dynamics,48(1-2):131-149.   \nXia CL,Song ZF.2Oo9.Wind energy in China: Currnt scenario andfuture perspectives.Renewable and Sustainable Energy Reviews,13(8): 1966-1974.   \nXu M,Chang CP,Fu CB,et al.2006.Steady declineof east Asian monsoon winds,1969-2000: Evidence from direct ground measurements of wind speed. Journal of Geophysical Research Atmospheres,111(D24): D24111.   \nYang XM,LiZX,FengQ,etal.2012.The decreasing windspeed in southwestern China during 1969-209,andposible causes. Quaternary International, 263:71-84.   \nYou QL,Fraedrich K,MinJZ,etal.2O14.Observed surface wind speed in the Tibetan Plateausince 198Oand its physical causes. International Journal of Climatology, 34(6): 1873-1882.   \nYuLJ,Zhong SY,Bian XD.2l5.Temporalandspatialvariabilityof windresourcesintheUnitedStatesas derivedfromthe climate forecast system reanalysis. Journal of Climate,28(3): 1166-1183.   \nZhaJL,WuJ,ZhaoDM.2O16a.Efectsoflanduseandcoverchange on thenear-surface windspeedover China in thelast30 years.Progress in Physical Geography,41(1): 46-67.   \nZha JL,WuJ,ZhaoDM.2O16b.Changesofprobabilities indiferent wind grades induced bylanduseandcoverchange in Eastern China Plain during 1980-2011.Atmospheric Science Letters,17(4): 264-269.   \nZhang N,Gao ZQ,Wang XM,etal.2Olo.Modeling the impact of urbanizationonthe localandregional climatein Yangtze River Delta,China. Theoretical and applied climatology,102(3-4): 331-342.   \nZheng X,ZhuJJ,Yan Y.2O13.Estimationoffarmland shelterbelt areain the Three-North Shelter/ProtectiveForest Program regions of China based on multi-scale remote sensing data. Chinese Journal of Ecology,32(5):1355-1363. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

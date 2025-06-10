@@ -1,0 +1,391 @@
+[
+    {
+        "type": "text",
+        "text": "Syntheses, Crystal Structures, and Fluorescence Properties of Three Coordination Polymers Constructed Based on Benzoic Acid and Its Derivatives① ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Guang-Zeng(刘光增);CHEN Hong-Tai(陈洪太);ZHANG Xiu-Tang(张修堂) (Advanced Material Institute of Research, College of Chemistry and Chemical Engineering, Qilu Normal University, Jinan 250013, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTThree new different dimensional coordination polymers,namely, $\\mathrm { [ Z n ( B A ^ { - } ) _ { 2 } ( 4 , 4 ^ { \\prime } { - } b i b ) _ { 1 . 5 } ] _ { n } }$ (1), $\\mathrm { \\small { [ Z n ( 4 - B r B A ^ { - } ) _ { 2 } ( 1 , 4 - b m b ) ] _ { n } } }$ (2) and $[ \\mathrm { M n } ( \\mathrm { 4 - B r B A ^ { - } } ) _ { 2 } ( \\mathrm { 4 } , \\mathrm { 4 ^ { ' } - b i b } ) ] _ { \\mathrm { n } }$ (3) have been assembled through the mixed-ligand synthetic strategy （ $\\mathrm { \\Delta ( 4 { - } H B r B A = \\mathrm { ~ 4 ~ } }$ -bromobenzoic acid, $\\mathbf { H B A } =$ benzoic acid, $1 { , } 4 { \\mathrm { - b m b ~ } } =$ 1,4-bis(1H-imidazol-4-yl)benzene, $4 { , } 4 ^ { \\prime } { \\cdot } \\mathbf { b i b } = 4 { , } 4 ^ { \\prime }$ -bis(imidazolyl)biphenyl). Their structures have been determined by single-crystal $\\mathrm { \\Delta } X$ -ray diffraction analyses and further characterized by elemental analyses (EA)， powder X-ray diffraction (PXRD)，and thermogravimetric (TG） analyses. Single-crystal $\\mathrm { \\Delta } X$ -ray diffraction analysis reveals that the crystals of complexes $\\mathbf { 1 } { \\sim } 3$ are all in triclinic systems, space group $P \\bar { 1 }$ Complexes 1 and 2 are OD binuclear structures，and 3 is a 1D chain. Moreover,the solid state fluorescence properties of1 and 2 have been investigated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: 4-bromobenzoic acid;benzoic   \nacid;1,4-bis[(1H-imidazol-1-yl)methyl]benzene;4,4'-bis(imidazolyl)biphenyl   \nDOI: 10.14102/j.cnki.0254-5861.2011-1626 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Over the past few decades, extensive experimental and theoretical efforts of coordination polymers (CPs) have atracted a great deal of interest for their regulated and interesting structural topologies as wellas their potential applications in the fields of luminescence，magnetism,catalysis，gas storage,conductivity，ion exchange, nonlinear optics,and spin-transition behavior[1,2l. Such materials are constructed from metal ions as connected centers and multifunctional organic ligands as linkers usually. In principle,the targeting assemblies with desired structural features and physicochemical properties greatly depend on the nature of organic ligands and metal ions,among which the appropriate choice of well-designed organic building blocks is one of the most effective ways[3, 4]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Among numerous organic ligands,the carboxylic acid ligands and N-donor linkers are favored for their strong coordinating ability, which could stabilize the packing architecture.Benzoic acid and its derivatives in the structure have certain rigidity and stability. The introduction of diferent substituents on the aromatic ring can make the crystal structures of the complexes varied.For example,bipyridine linker as a N-donor ligand is beneficial to the syntheses of extended CPs and can generate high-dimensional structures owing to its simple bridging mode and strong coordination ability[5-7]. And the cis-or trans-configurations of bis(imidazole) linkers often cause structural diversity when they coordinate to metal centers[8-11]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thus,these considerations inspired us to explore new coordination networks with benzoic acid and its derivativesand transition metal salts under solvothermal conditions under solvothermal conditions in the presence of bis(imidazole)linkers,respectively. Here we report the syntheses and characterizations of three CPs and a systematic comparison is made. Besides,fluorescence properties of 1 and 2 have also been investigated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 1 Generals ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All chemical reagents were purchased from Jinan Henghua Sci.& Tec.Co.Ltd. without further purification. Elemental analyses were carried out on a CE instruments EA 11O elemental analyzer. TGA was measured from 0 to $8 0 0 ^ { \\mathrm { { o } C } }$ on a SDT Q6OO instrument at a heating rate of $1 0 \\mathrm { ^ o C / m i n }$ under ${ \\bf N } _ { 2 }$ atmosphere ( $\\mathrm { 1 0 0 ~ m L / m i n } \\mathrm { , }$ ！ X-ray powder diffractions were measured on a Panalytical X-Pert pro diffractometer with $\\operatorname { C u } K \\alpha$ radiation. Fluorescence spectra were performed on a Hitachi F-450o fluorescence spectrophotometer at room temperature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Syntheses ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Synthesis of $\\mathbf { [ Z n ( B A ^ { - } ) _ { 2 } ( 4 , 4 ^ { \\prime } - b i b ) _ { 1 . 5 } ] _ { n } } \\ ( 1$ ）",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The mixture of HBA (0.20 mmol, $\\boldsymbol { 0 . 0 2 4 } \\ \\mathrm { g }$ )， $^ { 4 , 4 ^ { \\prime } }$ -bib (0.30 mmol, 0.085 g), $Z \\mathrm { n } ( \\mathrm { O A C } ) _ { 2 }$ (0.30 mmol, 0.066 g), $1 2 \\mathrm { m L H } _ { 2 } \\mathrm { O }$ ,and NaOH(O.40 mm, 0.016g) was sealed in a $2 5 ~ \\mathrm { m L }$ Teflon-lined stainless-steel vessel and heated to $1 7 0 ^ { \\circ } \\mathrm { C }$ for 3 days,and followed by slow cooling to room temperature at a descent rate of $1 0 ~ \\mathrm { { ^ o C / h } }$ . Yield of $47 \\%$ (based on HBA). Anal. Calcd. $( \\% )$ for $\\mathrm { C _ { 8 2 } H _ { 6 2 } N _ { 1 2 } O _ { 8 } Z n _ { 2 } }$ : C, 66.81; H, 4.21; N, 11.40. Found $( \\% )$ : C, 65.62; H, 4.72; N, 11.30. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Synthesis of $\\mathrm { [ } \\mathbf { Z } \\mathbf { n } ( 4 \\mathbf { - B r B A } ^ { \\mathbf { - } } ) _ { 2 } ( \\mathbf { 1 } , 4 \\mathbf { - b m b } ) \\mathrm { ] } _ { \\mathbf { n } } \\left( 2 \\right)$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The mixture of 4-HBrBA (0.20 mm, 0.040 g), 1,4-bmb (0.20 mm, 0.047 g), $\\mathrm { Z n S O _ { 4 } ( 0 . 4 0 \\ m m , 0 . 1 1 5 \\ g ) }$ ，12 mL $_ \\mathrm { H _ { 2 } O }$ and NaOH(0.30 mm, O.012 g) was sealed in a $2 5 ~ \\mathrm { m L }$ Teflon-lined stainless-steel vessel and heated to $1 7 0 ~ ^ { \\circ } \\mathrm { C }$ for 3 days,and followed by slow cooling to room temperature at a rate of $1 0 ~ \\mathrm { { ^ o C / h } }$ . Coreless block crystals of 2 were obtained. Yield of $3 9 \\%$ (based on HBrBA). Anal. Calcd. $( \\% )$ for $\\mathrm { C _ { 5 6 } H _ { 4 4 } B r _ { 4 } N _ { 8 } O _ { 8 } Z n _ { 2 } }$ : C, 47.79; H, 3.12; N, 8.67. Found $( \\% )$ : C, 48.23; H, 3.54; N, 8.92. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 2.3 Synthesis of $\\overline { { [ \\mathbf { M } \\mathbf { n } ( \\mathbf { 4 } \\mathbf { - B r B A } ^ { \\cdot } ) _ { 2 } ( \\mathbf { 4 } , \\mathbf { 4 } ^ { \\prime } \\mathbf { - b i b } ) ] _ { \\mathbf { n } } ( \\mathbf { 3 } ) } }$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The synthetic method is similar to that of complex 2 except that 1,4-bmb and $\\mathrm { Z n S O _ { 4 } }$ were replaced by $^ { 4 , 4 ^ { \\prime } }$ -bib and $\\bf { M n S O _ { 4 } }$ .Colorless block crystals of 3 were obtainedin $3 3 \\%$ yield (based on HBrBA). Anal. Calcd. $( \\% )$ for $\\mathrm { C _ { 3 4 } H _ { 2 2 } B r _ { 2 } M n N _ { 2 } O _ { 4 } }$ :C, 55.34; H, 2.98; N,3.80. Found $( \\% )$ ): C, 54.28; H, 3.09; N, 3.96. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Structure determination ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Structural integrity single crystals of $_ { 1 \\sim 3 }$ were carefully selected under an optical microscope and fixed to thin glass fibers.After that, single-crystal X-ray difraction analyses were performed on a Siemens SMART diffractometer using Mo $. K a$ radiation $( \\lambda = 0 . 7 1 0 7 3 \\mathring \\mathrm { A } ) .$ ） at 296(2） K. The absorption correction was based on multiple and symmetry-equivalent reflections in the data set using the SADABS program based on the method of Blessing.The structure was solved by direct methods and refined by full-matrix least-squares techniques using the SHELXS-97 package, and further refined by SHELXL-97 procedure. Allnon-hydrogen atoms were refined anisotropically[12l. All the hydrogen atoms except those for water molecules were generated geometrically with fixed isotropic thermal parameters,and included in the structure factor calculations.The hydrogen atoms attached to oxygen were refined with $\\mathrm { O - H } \\ = \\ 0 . 8 5 \\ \\mathring \\mathrm { ~ A }$ and $U _ { i s o } ( \\mathrm { H } ) \\ = \\ 1 . 2 U _ { e q } ( \\mathrm { O } )$ The crystallographic data and details for complexes $_ { 1 \\sim 3 }$ are listed in Table 1.,and their elected bond lengths and bond angles are shown in Table 2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1Structure description of $[ \\bf Z n ( B A ^ { - } ) _ { 2 } ( 4 , 4 ^ { \\prime } { \\cdot } b i b ) _ { 1 . 5 } ] _ { n }$ (1) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "X-ray crystallography reveals that 1 is a zero-dimensional structure and crystalizes in the triclinic system, space group $P \\bar { 1 }$ . As shown in Fig.1, the asymmetric unit consists of one $Z \\mathrm { n } ^ { \\mathrm { I I } }$ ion, two completely deprotonated BA ligands, and one and a half $^ { 4 , 4 ^ { \\prime } }$ -bib ligands. $Z \\mathrm { n } ^ { \\mathrm { I I } }$ is located in a distorted $\\{ \\mathrm { Z n N } _ { 2 } \\mathrm { O } _ { 3 } \\}$ hexahedral geometry, completed by two carboxyl groups from two distinct BA- ligands and two $\\mathbf { N }$ atoms from two $^ { 4 , 4 ^ { \\prime } }$ -bib ligands, with $\\tau _ { 5 } = 0 . 4 4 1$ $( \\tau _ { 5 } = \\lVert \\beta - a \\rVert / 6 0 ^ { \\circ }$ ,in which $ { \\boldsymbol { a } }$ and $\\beta$ are the two largest bond angles in the five-coordinate complex: $\\alpha = \\angle \\mathrm { N } ( 5 ) \\mathrm { Z n } ( 1 ) \\mathrm { O } ( 2 ) = 1 1 8 . 8 7 ^ { \\circ }$ $\\beta = \\angle \\mathrm { O ( 1 ) Z n ( 1 ) O ( 3 ) } = 1 4 5 . 3 4 ^ { \\circ } ) ^ { [ 1 3 ] }$ 1. The $Z \\mathrm { n - O }$ bond lengths fall in the normal range of $1 . 9 3 1 0 ( 1 9 ) { \\sim } 2 . 8 1 2 8 ( 2 6 ) \\mathring \\mathrm { A }$ , and the $Z \\mathrm { n - N }$ bond lengths are 2.0003(26) and 2.0167(28) A, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/df3b515995e527802954931bfdc969722eca89577f4aaa1f9fa15e0afba23d70.jpg",
+        "img_caption": [
+            "Fig.1.Coordination environment of $\\mathbf { Z } \\mathbf { n } ^ { \\mathbf { I I } }$ ion in complex 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two $Z \\mathrm { n } ^ { \\mathrm { I I } }$ ions are linked by one $^ { 4 , 4 ^ { \\prime } }$ -bib to form a OD binuclear structure.Each $Z \\mathrm { n } ^ { \\mathrm { I I } }$ ion coordinates with two BA- ligands which adopted $\\mu ^ { l }  – \\eta ^ { l }$ and $\\mu ^ { l } \\ – \\eta ^ { 2 }$ coordination modes respectively, and two single-connected $^ { 4 , 4 ^ { \\prime } }$ -bib ligands. Structure of the complex exhibits a centrosymmetric character. $\\mathbf { Z } \\mathbf { n } ^ { \\ldots } \\mathbf { Z } \\mathbf { n }$ distances are 17.9276(10) A,as shown in Fig. 2a. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Adjacent molecules are linked through $\\mathrm { C - H \\cdots O }$ and $\\mathrm { C - H \\cdots N }$ hydrogen bonding interactions ( $\\mathrm { H } { \\cdots } \\mathrm { A }$ are between 2.35 and $2 . 5 7 \\textup { \\AA }$ ）to form a 3D supramolecular structure (Fig. 2b). The hydrogen bonding data for complex1 are summarized in Table 3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/24e2dcbb543c6e01cd9c8bf496514e1a2c4763fdd168897571cb639dda640406.jpg",
+        "img_caption": [
+            "Fig.2.(a) Binuclear structure of1 viewed along the $\\scriptstyle { \\pmb { c } }$ axis.(b) 3D supramolecular structure of complex1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Structure description of $\\mathrm { [ Z n ( 4 \\mathbf { - B r B A } ^ { \\circ } ) _ { 2 } ( 1 , 4 \\mathbf { - b m b } ) ] _ { n } ( 2 ) }$ 2 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "X-ray crystallography reveals that 2 is a zero-dimensional structure and crystallzes in triclinic system,space group $P \\bar { 1 }$ . As shown in Fig. 4, the asymmetric unit consists of one $Z \\mathrm { n } ^ { \\mathrm { I I } }$ ion, two 4-BrBA ligands,and one 1,4-bmb ligand (Fig.3).The $Z \\mathrm { n } ^ { \\mathrm { I I } }$ ion is located in a slightly distorted $\\{ \\mathrm { Z n N } _ { 2 } \\mathrm { O } _ { 3 } \\}$ hexahedral coordination environment, completed by two carboxyl groups from two distinct 4-BrBA\" ligands,and two N atoms from two 1,4-bmb ligands,with $\\tau _ { 5 } = 0 . 8 5 6$ $( \\tau _ { 5 } = \\lVert \\beta - a \\rVert / 6 0 ^ { \\circ }$ ,in which $ { \\boldsymbol { a } }$ and $\\beta$ are the two largest bond angles in the five-coordinate complex: $\\alpha = \\angle \\mathrm { O ( 1 ) Z n ( 1 ) O ( 3 ) } = 1 6 5 . 8 8 ^ { \\circ } .$ $\\beta = \\angle \\mathrm { N } ( 1 ) \\mathrm { Z n } ( 1 ) \\mathrm { N } ( 3 ) = 1 1 4 . 5 4 ^ { \\circ } )$ . The $Z \\mathrm { n - O }$ bond lengths vary from 1.9352(37) to 2.7170(33) $\\mathring \\mathbf { A }$ ，and the $Z \\mathrm { n - N }$ bond distances are in the normal range of $1 . 9 9 9 4 ( 3 5 ) { \\sim } 2 . 0 2 2 0 ( 4 8 ) \\mathring \\mathrm { A }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fff6b41512b593c8c9fab07f468b47d304a72653f8cf3f3da1a10bc89b3925c5.jpg",
+        "img_caption": [
+            "Fig.3. Asymmetric unit of complex 2 (Symmetry code:A:2-x,2-y,1-z) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HBrBA is completely deprotonated and exhibits $\\mu ^ { l }  – \\eta ^ { l }$ and $\\mu ^ { 2 }  – \\eta ^ { I } . \\eta ^ { I }$ coordination modes, respectively. Two $Z \\mathrm { n } ^ { \\mathrm { I I } }$ ions are linked by two flexible 1,4-bmb ligands to form a binuclear structure,with the dihedral angles between the central phenyl ring and two imidazole rings to be 88.O2 and $7 5 . 5 4 ^ { \\circ }$ ,respectively. Structure of the complex exhibits a centrosymmetric character, with the $\\mathbf { Z } \\mathbf { n } ^ { \\ldots } \\mathbf { Z } \\mathbf { n }$ distance being $1 0 . 7 9 ( 7 ) \\mathring { \\mathrm { A } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Adjacent molecules are further joined by hydrogen bonds to form 3D supramolecular structures (Fig. 4a), and the lengths of hydrogen bonds $( \\mathrm { H } { \\cdots } \\mathrm { A } )$ are between 2.43 and 2.61 A. Complexes 1 and 2 have similar hydrogen bonding connections.The hydrogen bonding data for 2 are summarized in Table 3.We plotted the partial $\\pi ^ { \\cdot \\cdot \\cdot \\pi }$ packing interaction. The center distance of two parallel imidazole ring planes is $3 . 9 7 9 \\mathring { \\mathrm { A } }$ ,and the lateral displacement distance between the two centers is 1.938 A (Fig. 4b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab3ad6488ffb51ef5ba91b06822aa0f6e6f4ad78450401ea92cb1031512b12dc.jpg",
+        "img_caption": [
+            "Fig.4.(a) 3D supramolecular structure of complex 2. (b) $\\pmb { \\pi } \\mathbf { - } \\pmb { \\pi }$ stacking interaction in complex 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Structure description of $[ \\mathbf { M n } ( \\mathbf { 4 . B r B A \\bar { \\cdot } } ) _ { 2 } ( \\mathbf { 4 } , \\mathbf { 4 ^ { \\prime } - b i b } ) ] _ { \\mathbf { n } } ( \\mathbf { 3 } )$ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "X-ray crystallography reveals that 3 is a one-dimensional structure and crystalize in the triclinic system, space group $P \\bar { 1 }$ . As shown in Fig.7, the asymmetric unit consists of one $\\mathbf { M } \\mathbf { n } ^ { \\mathrm { { I I } } }$ ion, two 4-BrBA ligands,and one $^ { 4 , 4 ^ { \\prime } }$ -bib ligand (Fig. 5). The $\\mathbf { M } \\mathbf { n } ^ { \\mathrm { { I I } } }$ ion is located in a distorted $\\{ \\mathrm { M n N } _ { 2 } \\mathrm { O } _ { 4 } \\}$ octahedral coordination environment completed by three carboxyl groups from three 4-BrBA- ligands which adopted $\\mu ^ { l } \\ – \\eta ^ { 2 }$ and $\\mu ^ { 2 }  – \\eta ^ { I } { : } \\eta ^ { I }$ coordination modes respectively, and two $\\mathbf { N }$ atoms from two different $^ { 4 , 4 ^ { \\prime } }$ -bib ligands. The $\\mathbf { M } \\mathbf { n } { \\mathrm { - O / N } }$ bond lengths fall in the normal $2 . 1 0 9 1 ( 2 2 ) { \\sim } 2 . 2 5 3 3 ( 3 5 ) \\mathring { \\mathrm { A } } \\mathrm { r e g i o }$ n. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2f9273441a38c24e9d860f7fb4ad0a08bded6d38570afeb696d56eec36d02d2.jpg",
+        "img_caption": [
+            "Fig.5. Asymmetric unit of 3 (Symmetry codes: A: $1 + x , y , 1 + z ; \\mathrm { { B } } \\colon 1 - x , 2 - y , 1 - z )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Each $^ { 4 , 4 ^ { \\prime } }$ -bib ligand connects with two $\\mathbf { M } \\mathbf { n } ^ { \\mathrm { { I I } } }$ ions and further extends into two abreast chains,with the dihedral angles between two phenyl rings being $0 ^ { \\circ }$ or $7 . 3 5 ^ { \\circ }$ ,and $0 ^ { \\circ }$ or $5 . 1 4 ^ { \\circ }$ for two terminal imidazole rings. The 4-BrBA- ligand $( \\mu ^ { 2 } – \\eta ^ { I } ; \\eta ^ { I } )$ bridged two adjacent $\\mathbf { M } \\mathbf { n } ^ { \\mathrm { { I I } } }$ ions to make the two abreast chains form a binuclear chain, with the distance between two adjacent $\\mathbf { M } \\mathbf { n } ^ { \\mathrm { { I I } } }$ ions to be $4 . 0 9 9 \\mathrm { ~ \\AA ~ }$ (Fig. 6a). Owing to the presence of $\\mathbf { C } { \\mathrm { - } } \\mathbf { H } \\mathbf { \\cdots } \\mathbf { B } \\mathbf { r }$ and $\\mathrm { C - H ^ { \\mathrm { . . . } } O }$ hydrogen bonds,complex 3 links from 1D binuclear chain into a 3D supramolecular structure (Fig. 6b). The hydrogen bonding data for complex 3 are illustrated in Table 3. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c772f8679ce3a56761410ff07c328554c40a516fff4ad89d3ed630e644b020a.jpg",
+        "img_caption": [
+            "Fig.6. (a) Chain of $\\{ { \\bf M n } ( { \\bf \\mu } ^ { 2 } { \\bf - } 4 , 4 ^ { \\prime } { \\bf - b i b } ) \\} _ { \\bf n }$ in complex 3. (b) 3D supramolecular structure of complex 3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Three diffrent dimensions CPs have been constructed from the mixed ligand of benzoic acid and its derivatives and two bis(imidazole) linkers ( $^ { 2 , 4 ^ { \\prime } }$ -bib,1,4-bmb).The sundry coordination modes of the carboxyl groups and the deformation ability diference of the ancilary ligands lead to the formation of complexes with different structures in different dimensions.The three structures reveal that benzoic acid and its derivatives are effective ligands with rich coordination modes,which is useful to better understand the synthon selectivity in multifunctional crystal structures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4Powder X-ray diffraction ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to check the phase purity of these complexes,the PXRD paterns of the title complexes were checked at room temperature.As shown inFig.7,the peak positions of the simulated and experimental PXRD patterns are in agreement with each other，demonstrating good phase purity of the complexes. The dissimilarities in intensity may be due to the preferred orientation of the crystalline powder samples. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/03e3890a71167872825a84883bf40db18e988b20469a635517b32b33d56a6337.jpg",
+        "img_caption": [
+            "Fig.7.PXRD patterns of complexes $\\mathbf { 1 } { \\sim } 3 .$ Black:calculated from the X-ray single-crystal data; "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Red:observed fortheas-synthesized solids ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5Thermogravimetric analysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To study the stability of these polymers, thermogravimetric analyses (TGA） of complexes $\\mathbf { 1 } { \\sim } 3$ were performed (Fig. 8). The TGA curve of these complexes indicates that the framework of complex 1 begins to collapse from $2 8 5 ~ ^ { \\circ } \\mathrm { C }$ ，while complexes 2 and 3 are more stable up to $3 3 0 ^ { \\circ } \\mathrm { C }$ ，where the decomposition of the framework starts. The resulting residue of compounds 1 and 2 remains as $Z _ { \\mathrm { { n O } } }$ (calcd.: $9 . 1 \\%$ , found: $1 1 . 8 \\%$ for 1; calcd.: $1 1 . 3 \\%$ ,found: $1 3 . 6 \\%$ for 2) after the complete decomposition of organic ligands. In compound 3,at about $7 1 0 ^ { \\circ } \\mathrm { C }$ ，it decomposes completely and the remaining residue is presumed to be $\\bf { M n } _ { 2 } \\bf { O } _ { 3 }$ (calcd.: $1 1 . 1 \\%$ ， found: $1 3 . 3 \\%$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfed5b88da90b7891bfba216beada437a42c97959f0cd62f2d363f6e4780cd17.jpg",
+        "img_caption": [
+            "Fig.8.TGA curves for complexes $\\mathbf { 1 } { \\sim } 3$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.6 Photoluminescent investigation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The emission spectra of complexes 1 and 2 and free ligands in their solid states are investigated at room temperature under the same conditions.As depicted in Fig. 9,the emission spectra of $^ { 4 , 4 ^ { \\prime } }$ -bib and complex 1 show the main peaks at $3 5 9 \\ \\mathrm { n m }$ 0 $( \\lambda _ { \\mathrm { e x } } = 3 0 7 ~ \\mathrm { n m } )$ and $3 7 3 \\ \\mathrm { n m }$ $( \\lambda _ { \\mathrm { e x } } = 3 3 2 \\ \\mathrm { n m } )$ ，respectively. Moreover， the 1,4-bmb and complex 2 show the main peaks at $5 2 4 ~ \\mathrm { n m }$ $( \\lambda _ { \\mathrm { e x } } = 4 8 9 \\ \\mathrm { n m } )$ and $5 0 9 \\ \\mathrm { n m }$ $( \\lambda _ { \\mathrm { e x } } = 4 9 6 \\ \\mathrm { n m } )$ ， respectively. By comparing the two groups,both ligands and complexes have similar emisson peaks. The difference between them is reflected in the variation of relative intensity of the two emission peaks,which can be assigned to the intraligand ( $\\langle \\pi ^ { * } { \\to } \\mathrm { n }$ or $\\pi ^ { * } {  } \\pi$ ） emission because these emissions are neither metal-to-ligand charge transfer (MLCT） nor ligand-to-metal transfer(LMCT） in nature since the $Z \\mathrm { n } ^ { \\mathrm { I I } }$ ions are difficult to oxidize or reduce due to its $d ^ { 1 0 }$ configuration [14]. The difference of the emission behaviors for complexes 1 and 2 probably derives from the diferent conformations of organic ligands as wellas the diferences in the rigidity of solid state crystal packing structures. Because of the good photoluminescence properties,complexes 1 and 2 can be used as potential photosensitive materials. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/eec620c757249fb6172c7b8220b70fa4a8b149cfe3047efbe76ea99f05459dc5.jpg",
+        "img_caption": [
+            "Fig.9.Emisson spectra offree ligands and complexes 1and 2 in the solid state at room temperature "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）(a)Bld;yE.Etid onelectro-phosprescece.Aledis.Leers9,7546.(b)ZaoE.X.;iFF；Zao.ydrothealstta structuresandcharacteristicsoftwonewisostructuralNi(I)oordinationpolymers.Chin.J.truct.Chem.16,35,7641769.   \n(2）(a)ZoWZ;ig;ugL;.isctedactiogf novelpyrazole-4-carboxamidederivatives.Chin.J.Struct.Chem.2017,36,423-428.(b）Chen,S.S.Therolesofimidazoleligandsin coordination supramolecular systems. CrystEngComm.2016,18,6543-6565.   \n(3）(a) Hao,X.N.; Zheng,B.H.; Hu,T.P. Syntheses and characterizations of Cd(II) and $\\mathrm { P r } ( \\mathrm { I I I } )$ complexes based on 5-(tetrazol-5-yl) isophthalic acid. Chin.J.Struct194.on.Eucdalstabsitedot ligandsand fragments from in situ hydrolysisof 4-pyridylisonicotinamide.J.Mol. Struct.2015,1083,212-220.   \n(4）(a)Fa,LM;ZagX.T;LD.C;unDZagW;ou,J.upaoleculasomericatadeybetosdie agenteffectoeandlagesCrEnom5.(b)aX.T;an,L;uZZgW;Fn.L; Zhao,X.Syntheses,structures,andluminescenceoffourlanthanidemetalorganicframeworksbasedonlanthanide-oxidechainswith $C 2$ or C3-symmetric trigonal-planar polycarboxylate ligands. CrystEngComm.2013,15,4910-4916.   \n(5）（a)Gao,Fo;saudosee cobalt coordination polymer,{[Co(HBTB)(4,4'-btb)] $\\mathrm { \\cdot H _ { 2 } O } \\mathrm  \\} _ { \\mathrm { n } }$ .Chin.J. Struct.Chem.2014,33,1333-1338.(b) Zhang,X.T.;Fan,L.M.; Zhang,W.; Ding,Y.S.; Zhao,X.One highly photocatalytic polyoxomolybdate compound constructed from novel-type triple helix $\\{ { \\bf M o } _ { 4 } { \\bf O } _ { 1 2 } \\} _ { \\mathrm { n } }$ chains and copper(I)-organic nets.Dalton Trans.2013,DOI: 10.1039/c3dt52001c.   \n(6）Han,L;QiLXuLJLuLHZuXoeaeaafri [24-MC-6] metallacrown cluster. Cryst. Growth Des.2013,13,1807-1811.   \n(7）Gong,Y.;gtsistacuedopioffteera)led 4-(2-methyl-1H-imidazol-1-yl)benzoic acid. Chin.J. Struct. Chem.2016,35,1600-1605.   \n(8）Cen,PK;.diibeb responsive properties.J.Am. Chem. Soc.2015,137,11590-11593.   \n(9）Liu，Q.X.；Yao，Z.Q.；Zhao，X.J.；Zhao，Z.X.；Wang，X.GNHC metal(silver,mercury，andnickel）complexesbasedon quinoxaline-dibenzimidazolium salts: synthesis,structural studies and fluorescent chemosensors for ${ \\mathrm { C u } } ^ { 2 + }$ by charge transfer. Organometallics 2013, 32,3493-350.(bang,;ZaoQ;eng,W.;Liecemodosieteforbaging.CmRev.   \n(0）()alldo dinitrobenzatesngetaltngstalastiofoericticpefoer.st 79-93.(b)eu;Cetslb with 4,4'-bipyridine through intermolecular hydrogen bonds.Chin.J. Struct. Chem.2016,35,1031-1037.   \n(1）Zhang,XFZ;Zg;;oJscud metal-organiclssed'ipetracarboylcciddolld.ystGowh.   \n(12） (a)The network topology was evaluated by the program“TOPOS-4.0\",see: http://www.topos.ssu.samara.ru. (b)Sheldrick,G.Version5.1rogmfoutiondRefinementofstalStuctureUniversityofting,a997.   \n(13）(a)YangLowelousebalt)daifrokitualoletokol structuresadatalyticpropertisltonas596.(kasha;Kawagoe,R;amachi;OjdaDeveotf logic-gate-teforescentprobeforatiometricimagingofutolysosomeincelltopagy.Chem.Eur.J.l,18044.   \n(14）(a)Kong,.G;ug,;utCdodalsedda carboxylateaddoorelatgandCinJtrute6,996.(）GuoF.drotealssstalucured luminescentpropeofouc(odtiolsdooaldlect4 J.Y.; Niu,Y.L.; Wang,Z.T.; Li,X.M.Synthesis,crystal structure and fluorescent propertyofa 2D network $Z \\mathrm { n } ( \\mathrm { I I } )$ coordination polymer based on oxalic acid and bis(imidazol) ligand. Chin.J. Inorg. Chem.2013,29,424-428. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/da7de4a821d4ae8d545c9e741a52e3ce8ba6a0e26f8220346ac75cb891e61cf0.jpg",
+        "table_caption": [
+            "XXX ",
+            "Table 1.Crystallographic Data and Details of Diffraction Experiments for Complexes 1,2 and 3 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Complex</td><td>1</td><td>2</td><td>3</td></tr><tr><td>Empirical formula</td><td>C82H62N12O8Zn2</td><td>C56H44Br4NgO8Zn2</td><td>C34H22Br2MnN2O4</td></tr><tr><td>Formula weight</td><td>1474.18</td><td>1407.37</td><td>737.30</td></tr><tr><td>Crystal system</td><td>Triclinic</td><td>Triclinic</td><td>Triclinic</td></tr><tr><td>Space group</td><td>Pi</td><td>Pi</td><td>Pi</td></tr><tr><td>a (A)</td><td>10.1088</td><td>10.064</td><td>10.300</td></tr><tr><td>b(A)</td><td>10.4322</td><td>12.754</td><td>11.250</td></tr><tr><td>c (A)</td><td>17.4398</td><td>13.162</td><td>13.963</td></tr><tr><td>a(）</td><td>98.9240</td><td>63.84</td><td>85.09</td></tr><tr><td>β(</td><td>96.3030</td><td>80.86</td><td>86.01</td></tr><tr><td>y(</td><td>105.7140</td><td>68.59</td><td>70.34</td></tr><tr><td>V(A3)</td><td>1726.55</td><td>1411.7</td><td>1516.6</td></tr><tr><td>Z</td><td>1</td><td>1</td><td>2</td></tr><tr><td>Dc (g:cm-³)</td><td>1.418</td><td>1.655</td><td>1.615</td></tr><tr><td>F(000)</td><td>762</td><td>700</td><td>734</td></tr><tr><td>μ(MoKa)/mm-1</td><td>0.764</td><td>3.741</td><td>3.111</td></tr><tr><td>Reflections collected</td><td>9021</td><td>7385</td><td>7912</td></tr><tr><td>θ range for data collection ()</td><td>1.20～25.00</td><td>1.72~25.00</td><td>1.93~25.00</td></tr><tr><td colspan=\"2\">Refinement method</td><td colspan=\"2\">Full-matrix least-squares on F2</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/3334fa8610dbb3d88bed689f7c599681149e11354d887bf42b85fab7d477dbd0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Data/restraints/parameters</td><td>6060/0/469</td><td>4955/0/352</td><td>5315/0/388</td></tr><tr><td>Goodness-of-fit on F²</td><td>1.003</td><td>1.000</td><td>1.004</td></tr><tr><td>R,wR(I > 2σ())</td><td>0.0411,0.0943</td><td>0.0573,0.1533</td><td>0.0608,0.1803</td></tr><tr><td>R,wR (all data)</td><td>0.0607,0.1079</td><td>0.0951,0.1720</td><td>0.0846,0.1966</td></tr><tr><td>Largest diff. peak and hole (e·A-)</td><td>0.330 and-0.285</td><td>1.261 and -1.478</td><td>1.546 and -1.439</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/6db0c34ab63a9dc15584096f03af361ff781da0fe2bc52510bf3b9ace3688c6d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Table 2. Selected Bond Lengths (A) and Bond Angles (°) for 1～3</td></tr><tr><td colspan=\"4\">Complex 1</td></tr><tr><td>N(1)-Zn(1)</td><td>2.001(2)</td><td>N(5)-Zn(1)</td><td>2.017(2)</td></tr><tr><td>0(2)-Zn(1)</td><td>1.934(2)</td><td>0(3)-Zn(1)</td><td>1.931(2)</td></tr><tr><td>C(1)-N(1)-Zn(1)</td><td>124.4(2)</td><td>C(2)-N(1)-Zn(1)</td><td>129.2(2)</td></tr><tr><td>C(33)-N(5)-Zn(1)</td><td>131.3(2)</td><td>C(34)-N(5)-Zn(1)</td><td>122.9(2)</td></tr><tr><td>C(26)-0(2)-Zn(1)</td><td>112.9(2)</td><td>C(19)-0(3)-Zn(1)</td><td>127.34(19)</td></tr><tr><td>0(3)-Zn(1)-N(1)</td><td>118.04(10)</td><td>0(2)-Zn(1)-N(1)</td><td>109.41(10)</td></tr><tr><td>0(3)-Zn(1)-N(5)</td><td>95.59(9)</td><td>0(2)-Zn(1)-N(5)</td><td>118.88(10)</td></tr><tr><td>N(1)-Zn(1)-N(5)</td><td>110.32(10)</td><td colspan=\"2\"></td></tr><tr><td colspan=\"4\">Symmetry transformations used to generate the equivalent atoms: #1: -x+3,-y+1,-z+1</td></tr><tr><td colspan=\"4\">Complex 2</td></tr><tr><td>Zn(1)-0(2)</td><td>1.943(3)</td><td>Zn(1)-0(3)</td><td>1.973(3)</td></tr><tr><td>Zn(1)-N(3)</td><td>2.002(3)</td><td>Zn(1)-N(1)</td><td>2.017(4)</td></tr><tr><td>0(2)-Zn(1)-0(3)</td><td>112.44(14)</td><td>0(2)-Zn(1)-N(3)</td><td>97.18(13)</td></tr><tr><td>0(3)-Zn(1)-N(3)</td><td>110.32(13)</td><td>0(2)-Zn(1)-N(1)</td><td>106.51(14)</td></tr><tr><td>0(3)-Zn(1)-N(1)</td><td>114.49(13)</td><td>N(3)-Zn(1)-N(1)</td><td>114.57(15)</td></tr><tr><td>C(10)-N(3)-Zn(1)</td><td>130.3(3)</td><td>C(21)-N(1)-Zn(1)</td><td>129.3(3)</td></tr><tr><td>C(19)-N(1)-Zn(1)</td><td>125.4(3)</td><td></td><td></td></tr><tr><td colspan=\"4\">Symmetry transformations used to generate equivalent atoms: #1: -x+2,-y+2,-z+1</td></tr><tr><td colspan=\"4\">Complex 3</td></tr><tr><td>Mn(1)-0(8)</td><td>2.108(3)</td><td>Mn(1)-0(1)</td><td>2.157(3)</td></tr><tr><td>Mn(1)-0(9)</td><td>2.227(3)</td><td>Mn(1)-N(6)</td><td>2.248(3)</td></tr><tr><td>Mn(1)-N(8)</td><td>2.251(3)</td><td>Mn(1)-O(2)</td><td>2.394(3)</td></tr><tr><td>C(16)#2-0(8)-Mn(1)</td><td>149.1(3)</td><td>C(16)-0(1)-Mn(1)</td><td>118.3(2)</td></tr><tr><td>0(8)-Mn(1)-0(1)</td><td>117.85(11)</td><td>0(8)-Mn(1)-0(9)</td><td>147.32(11)</td></tr><tr><td>0(1)-Mn(1)-0(9)</td><td>94.38(11)</td><td>0(8)-Mn(1)-N(6)</td><td>86.60(12)</td></tr><tr><td>0(1)-Mn(1)-N(6)</td><td>84.86(11)</td><td>0(9)-Mn(1)-N(6)</td><td>91.33(12)</td></tr><tr><td>0(8)-Mn(1)-N(8)</td><td>90.01(12)</td><td>O(1)-Mn(1)-N(8)</td><td>96.52(11)</td></tr><tr><td>0(9)-Mn(1)-N(8)</td><td>91.67(12)</td><td>N(6)-Mn(1)-N(8)</td><td>176.60(12)</td></tr><tr><td>0(8)-Mn(1)-0(2)</td><td>90.91(11)</td><td>0(1)-Mn(1)-0(2)</td><td>150.77(11)</td></tr><tr><td>0(9)-Mn(1)-0(2)</td><td>56.55(10)</td><td>N(6)-Mn(1)-0(2)</td><td>92.22(11)</td></tr><tr><td>N(8)-Mn(1)-0(2)</td><td>88.08(11)</td><td>C(19)-0(9)-Mn(1)</td><td>94.1(2)</td></tr><tr><td>C(19)-O(2)-Mn(1)</td><td>86.7(2)</td><td></td><td></td></tr><tr><td></td><td></td><td>C(5)-N(6)-Mn(1)</td><td>129.4(2)</td></tr><tr><td>C(10)-N(6)-Mn(1)</td><td>124.5(3)</td><td>C(21)-N(8)-Mn(1)</td><td>126.9(3)</td></tr><tr><td>C(22)-N(8)-Mn(1)</td><td>128.3(3)</td><td colspan=\"2\"></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Symmetry transformations used to generate equivalent atoms: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "#1: $x { + } 1$ ， $y$ $z { + } 1$ ; #2:- $\\mathbf { \\partial } _ { - x + 1 }$ ， $- y + 2$ ,-z+1; #3: x-1,y, z-1 ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/31fc6a44da484da7c97be818598371c331319750d2912d17595cd6e81ebdab25.jpg",
+        "table_caption": [
+            "Table 3. Hydrogen Bonds for Complexes 1～3 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>D-HA</td><td>ARU</td><td>d(HA) (A)</td><td>d(D  A) (A)</td><td>∠(D-H·A) (°)</td></tr><tr><td>Complex 1</td><td></td><td></td><td></td><td></td></tr><tr><td>C(2)-H(2)··0(4)</td><td></td><td>2.57</td><td>3.270</td><td>133</td></tr><tr><td>C(16)-H(16)···O(4)</td><td>2-x,2-y,-z</td><td>2.52</td><td>3.295</td><td>141</td></tr><tr><td>C(3)-H(3)··0(4)</td><td>1-x,1-y,-z</td><td>2.35</td><td>3.191</td><td>149</td></tr><tr><td>C(37)-H(37)···N(4)</td><td>3-x,2-y，-z</td><td>2.53</td><td>3.456</td><td>175</td></tr><tr><td>Complex 2</td><td></td><td></td><td></td><td></td></tr><tr><td>C(7)-H(7)··0(2)</td><td></td><td>2.43</td><td>2.751</td><td>100</td></tr><tr><td>C(16)-H(16)···N(2)</td><td></td><td>2.61</td><td>2.921</td><td>100</td></tr><tr><td>C(8)-H(8)··0(3)</td><td>2-x,1-y, 1-z</td><td>2.53</td><td>3.322</td><td>141</td></tr><tr><td>C(9)-H(9)··0(4)</td><td>3-x, 1-y,1-z</td><td>2.45</td><td>3.362</td><td>165</td></tr><tr><td>C(21)-H(21)··O(4)</td><td></td><td>2.54</td><td>3.123</td><td>121</td></tr><tr><td>Complex 3</td><td></td><td></td><td></td><td></td></tr><tr><td>C(24)-H(24) ··Br(1)</td><td>-x, 3-y,1-z</td><td>2.70</td><td>3.511</td><td>146</td></tr><tr><td>C(21)-H(21)··O(1)</td><td>-x,2-y,1-z</td><td>2.42</td><td>3.243</td><td>147</td></tr><tr><td>C(17)-H(17)··0(4)</td><td></td><td>2.46</td><td>2.994</td><td>117</td></tr><tr><td>C(10)-H(10)··O(2)</td><td>1-x, 2-y, 1-z</td><td>2.56</td><td>3.351</td><td>143</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Syntheses, Crystal Structures, and Fluorescence Properties of Three Coordination Polymers Constructed Based on Benzoic Acid and Its Derivatives ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LIU Guang-Zeng(刘光增） CHENHong-Tai(陈洪太) ZHANG Xiu-Tang(张修堂)",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Three different dimensions CPs have been constructed from the mixed ligands of benzoic acid and its derivatives and two bis(imidazole) linkers ( $^ { 4 , 4 ^ { \\prime } }$ -bib,1,4-bmb).The three structures reveal that benzoic acid and its derivatives are effective ligands with rich coordination modes,which is useful to beter understand the synthon selectivity in multifunctional crystal structures. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/c682ae69dba3a7ac2e6b8ff29a4eb1dbbf5161cefd51023122314addd68d44c8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    }
+]

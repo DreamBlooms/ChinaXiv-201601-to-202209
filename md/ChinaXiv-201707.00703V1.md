@@ -1,0 +1,163 @@
+# miRNA调控成肌分化的研究进展
+
+汤志雄 苟德明l
+
+(深圳大学生命与海洋科学学院深圳518060)
+
+摘要成肌分化过程包括成肌细胞的增殖，然后分化为肌细胞，最后融合形成肌管；microRNA（miRNA）是一类在转录后水平调控基因表达的微小非编码RNA，它通过靶向靶基因mRNA的3’UTR，抑制其翻译或诱导其降解。已有研究表明，miRNA在成肌分化中起重要调控作用。根据表达方式的不同，分为肌肉特异表达的 miRNA，有miR-1，miR-133，miR-206，miR-208，miR-499 和miR-486；和非肌肉特异表达的miRNA，其中miR-27，miR-29，miR-128,miR-199a和miR-431在成肌分化过程中具有重要的调控功能。另外，论文阐述了几个与miRNA相互作用从而调控成肌分化的lncRNA的功能。总之，通过介绍两类miRNA的靶基因及调控机制，阐述最新的研究进展。关键词 成肌分化miRNA 成肌细胞增殖
+
+# 中图分类号Q522
+
+miRNA是一类长度约为20-24个核苷酸的内源性微小RNA，主要通过结合靶基因mRNA的3'UTR，降解靶mRNA或阻止蛋白翻译，在转录后水平负调控基因的表达[1]。也有少量报道表明miRNA可结合到5'UTR或编码区[2-4]。miRNA在成肌分化中有极其重要的作用，引起研究者的密切关注。通过Dicer敲除小鼠的研究发现，这些小鼠的骨骼肌发育不良，表现在骨骼肌数量显著降低，肌纤维数量减少，形态异常，肌源性细胞凋亡增加和成肌细胞死亡严重[5]，充分证明miRNA对肌肉发育的重要性。因此，本文将通过介绍肌肉特异表达的 miRNA（myo-miR）和几个在肌肉发育中发挥重要作用的非myo-miR的功能，阐述miRNA参与成肌分化调控的最新研究进展。
+
+# 1骨骼肌的发育和成肌分化
+
+骨骼肌约占体重的 $40 \%$ ，是人体的重要组成部分。如果骨骼肌发育出现异常将导致肌肉发生病变，如肌肉萎缩，肥大等疾病。因而，骨骼肌的发育问题被广泛而深入地研究。肌肉发育较为复杂，人类胚胎时期的骨骼肌生成主要包括以下几个步骤：(1)体节分化后形成含有肌源性前体细胞的生皮肌节；(2)前体细胞增殖和分化形成成肌细胞；(3)成肌细胞进一步增殖，随后分化和融合形成肌管；(4)最后，肌管成熟形成肌纤维[6]。
+
+为保证正常的肌肉生长，形态和收缩性，多种与细胞增殖、分化、连接和凋亡相关的基因参与其中，同时生肌调节因子MyoD1，Myf5，MyoG，Myf6,Mrf4 和其它的转录因子如Pax3，Pax7和 Mef2家族参与肌肉发育调控[7]。其中，MyoD1和Myf5通过促进肌源性前体细胞的增殖和分化调控骨骼肌的早期发育；MyoG在成肌细胞分化形成肌管时起重要作用；Myf6参与分化和细胞命运的决定[8]；Mrf4在胚胎后期肌肉发育时和体外成肌细胞分化，融合形成多核肌管时迅速上调[；骨骼肌祖细胞的特征之一是表达Pax3和Pax7，这些高表达Pax3 和Pax7的肌原性祖细胞构成自我更新的细胞群体，对后续骨骼肌生长和卫星细胞形成极其重要，而卫星细胞是成体骨骼肌再生所必需的；开始肌细胞生成时，表达Pax3的细胞迁移到体节，将形成骨骼肌，随后Pax7将上调表达，它能在分化前下调 Pax基因[10]。Mef2即肌细胞增强因子2，在骨骼肌、平滑肌以及心肌中高度表达，其主要作用是在肌肉发育过程中调控肌细胞的分化，影响分化过程中基因的转录[]。由此可见，增殖和分化是研究成肌分化的重要生物学过程。
+
+体外研究成肌分化常用的模型是C2C12小鼠成肌细胞，1977年由Yaffe 和Saxel等建立；而体外研究成肌分化常用的是小鼠肌肉注射Cardiotoxin，心脏毒素(CTX)诱导的肌肉损伤和再生模型，可以用于研究体内的成肌分化[12]。
+
+# 2调控成肌分化的myo-miR
+
+越来越多的miRNA被证明对肌肉发育有重要影响。这些miRNA中仅有几个是在肌肉中特异表达的，大部分是在组织内广泛表达。目前，myo-miR主要有 miR-1，miR-133 和 miR-206。miR-1和miR-133 在心肌和骨骼肌中都表达，而 miR-206仅在骨骼肌中表达[13-14]。这些miRNA在肌肉发育中的调控作用被广泛而深入地研究，miR-1和miR-206的主要功能是抑制成肌细胞增殖，并促进其分化；miR-133 主要功能是促进成肌细胞增殖和抑制分化[15]。miR-208，miR-499 和miR-486也被归为肌肉特异表达的miRNA。
+
+# 2.1miR-1，miR-206与成肌分化
+
+2.1.1通过调控miR-1，miR-206 本身的表达，影响肌肉发育Igfl-Akt-Fox03-miR-1通路可影响 miR-1的表达，且直接通过Foxo3 调控miR-1的启动子活性影响其表达[16-17]。Hmox1 特异下调 Lin28 和 Dgcr8，从而直接影响 miR-1 和miR-206 的合成和加工[18]。Bmp2 是TGF- $\cdot \beta$ 家族中的一员，通过抑制pri-miR-206 的加工成熟负调控miR-206 的表达[19]。Tardbp 可与 miR-1和 miR-206 结合从而影响它们与RISC的结合[20]。除了以上蛋白或因子的影响，miRNA自身的靶基因也调控其表达，从而形成调控环路。例如：(1)YY1抑制 miR-1和 miR-206 的转录，而研究证明 miR-1和 miR-206 均靶向 YY1[21-22]；(2)Mef2 能促进miR-1和 miR-206 的表达，Hdac4Hdac4 和 Notch3是Mef2的抑制因子，而 miR-1 和 miR-206均直接靶向Hdac4Hdac4 和Notch3，从而形成正向的反馈调控通路[23-24]；(3)与之相似，miR-1和 miR-206均靶向 Pax7，使其下调，随后Id2 下调，使Myod1的表达上调，从而促进miR-1和miR-206 表达，形成另一条正向的反馈调控通路[25-26]。
+
+2.1.2 miR-1，miR-206 靶向在肌肉发育中与增殖相关的基因 miR-1和 miR-206的靶基因中，许多都与增殖相关。例如Pax3和Pax7，在卫星细胞中，过表达miR-1和miR-206，细胞的增殖潜能受到抑制，而分化能力得到促进；相反，抑制 miR-1和miR-206表达时，Pax3 和Pax7蛋白水平上调，同时，卫星细胞的增殖能力得到促进而分化受到抑制[25,27]。Pola1，负责细胞内DNA合成，是DNA 聚合酶α中最大的亚基；miR-1，miR-206均靶向Pola1，导致DNA合成抑制，最终，细胞周期受到抑制[28]。miR-1，miR-206 还能靶向抑制Ccnd1 和Ccnd2，从而调控细胞周期，揭示miRNA在促进分化的细胞退出细胞周期的重要作用[29-31]。miR-1，miR-206 靶向 IGF信号通路中的几个重要蛋白，如 miR-1靶向Igf1，Igfr，Hspa（HSP70）[17,32]；同时，miR-206 也靶向 Igf1，特别地,Igfbp5 是miR-206 的靶基因，一个依赖于IGF 调控的抑制骨骼肌分化的分泌蛋白[33-35]。综上所述，miR-1和miR-206 通过调控许多与增殖密切相关的基因，影响肌肉发育。
+
+2.1.3 miR-1，miR-206靶向在肌肉发育中与细胞融合相关的基因成肌分化过程中，肌细胞发生融合。Fst是促进细胞融合的因子，且是成肌分化抑制因子Mstn 的拮抗剂，miR-1靶向Fst[36]。另外，miR-1，miR-206 均靶向的Gja1 和$\mathrm { C x } 4 3$ ，它们是胞间隙连接通道，在成肌细胞生长和融合之前和整个过程中高表达，在胚胎发育后期下调[28,37-38]。二者还靶向Utrn，它是另一个在骨骼肌终末端分化时被抑制的基因[39]。
+
+2.1.4 miR-1和 miR-206 调控肌肉再生肌肉受到损伤时，原本处于静息状态的卫星细胞活跃起来，重新进入细胞周期[40]。miR-1和miR-206在肌肉损伤时先显著下调，随后逐渐上调，与其在成肌细胞分化过程中的表达一致[25,34,41]。且敲除 miR-206时，肌肉再生延缓并加剧了mdx 小鼠的营养不良表型[34]。由于肌肉再生过程与骨骼肌发育大致相似，因此，许多之前被证明参与成肌分化调控的 miRNA也调控肌肉再生。miR-1和miR-206在横纹肌肉瘤中低表达，重新表达 miR-206促进了成肌分化，肿瘤生长受到抑制[42]。
+
+# 2.2miR-133与成肌分化
+
+与 miR-1，miR-206相似，miR-133的表达也受Hmox1，YY1和Mtor的调控[18,21,36]。在C2C12 细胞中过表达miR-133a能显著增强肌管的形成[43]。而敲除 miR-133a的小鼠，表现出中央核肌病，线粒体功能障碍，肌纤维形态受损[44]。同时，Liu 等[44] 发现 Dnm2，Pfn2 和Calml都是 miR-133a 的靶基因，充分表明 miR-133a 对正常肌肉发育的重要性。miR-133 还靶向Ucp2，它的新功能是作为肌肉发育的阻碍者，Myod 通过上调miR-133 也参与对Ucp2的调控[45]。
+
+miR-133还与细胞命运决定以及肌肉再生相关。Runx2，Trps1，Prdm16分别负责成骨细胞，软骨细胞，脂肪细胞的发育，miR-133同时靶向这些基因[46-47]。因而，miR-133可抑制细胞向其他方向分化，从而有利于向骨骼肌的发育。另一方面，miR-133a 和 miR-1分别靶向 Sp1，Ccnd1，这对细胞周期抑制和合适的肌肉分化是必须的[48]。在肌肉损伤前注射 miR-1、miR-206 和 miR-133，可以增强成肌分化标志蛋白Myog、Myod1和Pax7的表达，促进肌肉再生[49]。
+
+# 2.3miR-208,miR-499与成肌分化
+
+miR-208a，miR-208b 和 miR-499 是分别在 Myh6，Myh7和Myh7b三个肌球蛋白基因内含子表达的 miRNA[13,50]。miR-208a 调控两个慢肌球蛋白和它们基因内表达的miRNA，通过结合到Myh7的抑制蛋白，促进Myh7和miR-208b的表达；而且，miR-208a也能调控Myh7b 和miR-499 的表达；与miR-208a 相似，miR-208b 抑制 Myh7b 的抑制蛋白，从而上调它和miR-499 的表达[50]。miR-208b 和miR-499 的成熟序列相似，被报道的靶基因有重叠，功能有互补[50]。他们靶向 Sox6，Purb，Sp3，Med13，Cbx1等基因，从而激活慢肌肉发育相关基因的程序，在肌纤维转化成I型肌纤维时起关键作用[50-51]。这些基因的下调进一步刺激 miR-208b 和miR-499 的表达。Mapk6 和 Mstn 是肌肉生长的负调控因子，也被证明是miR-499 的靶基因[52-53]。
+
+# 2.4miR-486与成肌分化
+
+miR-486是最新的归为肌肉特异表达的miRNA家族成员，它不具有肌肉特异表达特征，但是在肌肉发育过程中起重要作用。例如，它靶向Pax7，在肌肉分化时明显上调，促进成肌分化[26]。由于它的表达受Myod1、Srf、Mkl1和Sgpl1 的调控，它对 Pax7的抑制主要是Myod1的上调导致的[26,54-55]。另外，miR-486直接抑制Pten 和Foxol，还有Pdgfrb，Srsfl，Srsf3，正调控Pik3ca/Akt通路[54,56]。成肌细胞中抑制miR-486 的表达，导致细胞不能迁移，融合受阻，相反，过表达miR-486，导致肌肉再生缺陷[57]。
+
+# 3调控成肌分化的非myo-miR
+
+除了myo-miR，还有一些在组织内广泛表达的miRNA在肌肉发育中发挥重要功能，例如，miR-27，miR-29，miR-128，miR-199a和miR-431等。
+
+# 3.1miR-27与成肌分化
+
+miR-27 靶向 Mstn 和 Pax3，在肌肉发育中有重要调控作用[58-59]。CraigMcFarlane 的研究更加深入，证明miR-27通过负调控Mstn，在激活卫星细胞，成肌细胞增殖和阻止肌肉萎缩起重要作用；该研究还阐明Mstn通过Smad3通路调控miR-27的表达，形成环路，进一步抑制其自身的表达[59]。Pax3表达量的调控极其重要，体内转基因表达miR-27a和肌肉再生的研究以及在卫星细胞中抑制miR-27表达等均表明miR-27调控Pax3，这种下调保证细胞快速健康地进入成肌分化程序[60]。
+
+# 3.2miR-29与成肌分化
+
+miR-29在出生后的小鼠骨骼肌和成肌分化时表达均上调，是一个促进成肌分化的重要miRNA[61]。miR-29与其靶基因之间形成了重要的调控环路。首先，Nfkb 和YY1负调控 $\operatorname* { m i R } \phantom { - } 2 9 \mathsf { b } / \epsilon$ 的表达，而miR-29靶向YY1，从而形成负反馈通路，使miR-29 表达上调从而促进成肌分化；在横纹肌肉瘤中，Nfkb-YY1-29 的环路被发现异常调控；因此，miR-29行使着抑癌因子的功能，为肌肉瘤治疗提供思路[62]。在慢性肾病伴随肌肉萎缩的小鼠中，同样发现miR-29靶向YY1并异常表达[63]。另一个调控环路是，TGF- $\cdot \beta$ 抑制 miR-29 的表达，使其靶基因Hdac4上调；而miR-29 可以通过靶向 Smad3，削弱 TGF对它的抑制，从而下调Hdac4，利于成肌分化[64]。YY1/Rybp/Ezh2复合体调控miR-29表达从而影响成肌细胞分化的机制也已阐明，TGF- $\cdot \beta$ -Smad3通路激活时，Myod被降解，miR-29 仍然受到抑制，Collagen 和Lims1等上调表达，成肌细胞向成纤维细胞分化[65-66]。miR-29还可靶向Akt3，一个负责生长因子信号通路应答的丝氨酸苏氨酸蛋白激酶家族，调控骨骼肌生长并促进其分化[61]。
+
+# 3.3miR-128与成肌分化
+
+miR-128在脑和骨骼肌中以及成肌分化时高表达，靶向调控胰岛素信号通路中的基因：Insr、Irs1和Pik3r1。TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 负调控miR-128，从而正调控胰岛素通路，体内和体外实验表明，抑制miR-128，诱导肌管成熟和肌管肥大[67]。miR-128还可靶向Mstn 和 Sp1进而抑制成肌细胞增殖，促进分化[68-69]。
+
+# 3.4miR-199a与成肌分化
+
+miR-199a在肌肉营养不良蛋白缺陷的斑马鱼，mdx小鼠，人肌肉疾病活检中均表达异常，miR-199a的表达受 Srf和心肌蛋白相关转录因子调控，它靶向Wnt通路中的Fzd4，Jag1，Wnt2；在斑马鱼中转基因表达miR-199a，导致多种异常现象[70]。miR-199a 还可靶向TGF-1/AKT/mTOR 通路中的Igf-1，mTOR,Rps6ka6；miR-199 的表达在发育，生长，再生以及不同肌肉疾病和肿瘤中等几个关键的时间点都受到调控，过表达miR-199时阻碍成肌分化，抑制时促进分化，肌管肥大[71]。
+
+# 3.5miR-431与成肌分化
+
+研究发现，miR-431是一个主要在骨骼肌中表达的miRNA，通过靶向Pax7，促进肌肉再生和改善肌肉萎缩症；在mdx小鼠中，miR-431削弱肌肉营养不良的表型，可能是肌肉疾病中潜在的治疗靶点；该研究构建的miR-431转基因小鼠，是一个研究低表达Pax7的卫星细胞生物学功能的基因模型[72]。miR-431还与衰老密切相关，它在衰老的成肌细胞中显著下调，其靶基因Smad4 表达上调；在肌肉损伤的小鼠中注射miR-431，Smad4的水平下调并显著提高再生能力；因而，miR-431在维持随着年龄增长的骨骼肌的成肌分化能力起重要作用[73]。
+
+# 4IncRNA与miRNA相互作用，调控成肌分化
+
+最近几年，lncRNA引起了研究者的密切关注。目前，在肌肉发育过程中，有四个 lncRNA的功能研究较多。他们分别是linc-MD1，Yam-1，sirtl ASlncRNA和H19，这些 lncRNA都与一个或几个miRNA相互作用，影响成肌分化[74-77]。linc-MD1是一个肌肉特异的 lncRNA，在小鼠和人的成肌细胞中作为竞争性RNA，是miR-133 和 miR-135 的海绵体，可通过二者调控Maml1 和Mef2c 的表达；下调或过表达linc-MD1分别抑制和促进肌肉分化进程，且在人杜氏肌营养不良的肌肉细胞中，linc-MD1表达显著下调[77]。另外，linc-MD1的表达受到HuR蛋白的正向调控，HuR还可协助linc-MD1招募miR-133，而miR-133 靶向HuR，因此，三者之间相互作用在早期的成肌分化和进入分化后的调控极其重要[78]。通过Chip 实验发现YY1正向调控一个肌肉相关的lncRNA———Yam-1，它是成肌分化的抑制因子，沉默Yam-1可促进损伤诱导的肌肉再生；而Yam-1顺式调节miR-715，它靶向Wnt通路中的Wnt7b；至此，形成YY1-Yam-1-miR-715-Wnt7b 之间的调控通路[74]。sirtl AS lncRNA 是一个在脾脏中表达高，肌肉中表达较少的lncRNA，由 Sirt1的反义链编码，且可激活 Sirt1的表达；C2C12 细胞中，上调表达的miR-34a 靶向 Sirt1，sirtlASlncRNA通过与miR-34a竞争结合到 sirtlmRNA3'UTR形成RNA复合物促进其翻译，从而抑制肌肉发育[76,79]。H19 这一长链非编码 RNA在胚胎组织中大量表达，出生后被抑制，仅在骨骼肌中持续表达；H19的一号外显子编码 miR-675，它是在成肌分化中诱导表达的miRNA；miR-675直接靶向Smad1，Smad5和 Cdc6；抑制H19的表达，细胞分化受到抑制，在H19缺陷的小鼠中，通过重新表达miR-675，骨骼肌再生能力得到恢复；因此，H19 通过基因内miRNA的表达，在肌肉分化和再生时有重要的反式调控功能[75]。
+
+# 5结语
+
+综上所述，对肌肉特异表达的miRNA在成肌分化过程中的功能研究非常多且机制已经比较透彻，而近年来更多的非肌肉特异表达的miRNA的功能被阐明，充分证明，miRNA对成肌分化调控的重要性。本实验室以C2C12细胞为材料，对小鼠720个miRNAs进行高通量筛选，鉴定了39个新的与成肌分化相关的miRNA，且对miR-17-92家族，miR-195/497，miR-34b以及miR-132的功能进行了研究[80-81]。成肌分化过程中有重要调控作用的miRNA，在各种肌肉疾病中通常有异常表达，因而，对这些miRNA调控机制的研究，最终为肌肉相关疾病的治疗提供思路。
+
+# 参考文献
+
+[1] Bartel D P.MicroRNAs: genomics, biogenesis, mechanism, and function. Cell, 2004, 116: 281-297.   
+[2] Orom U A, Nielsen F C, Lund a H. MicroRNA-10a binds the 5 ‘UTR of ribosomal protein mRNAs and enhances their translation. Mol Cell, 2008, 30: 460-471.   
+[3] Jopling C L, Yi M, Lancaster a M, et al. Modulation of hepatitis C virus RNA abundance by a liver-specific MicroRNA. Science, 2005, 309: 1577-1581.   
+[4] Forman JJ, Legesse-Miller A, Coller H A. A search for conserved sequences in coding regions reveals that the let-7 microRNA targets Dicer within its coding sequence. Proceedings of the National Academy of Sciences of the United States of America, 2008,105: 14879- 14884.   
+[5] O'rourke JR, Georges S A, Seay HR, et al. Essential role for Dicer during skeletal muscle development. Developmental biology, 2007, 311: 359-368.   
+[6] Endo T. Molecular mechanisms of skeletal muscle development， regeneration， and osteogenic conversion. Bone, 2015, 80: 2-13.   
+[7] Brand-Saberi B. Genetic and epigenetic control of skeletal muscle development. Annals of anatomy $\mathbf { \Sigma } =$ Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft, 2005, 187: 199-207.   
+[8] Ito Y, Kayama T,Asahara H. A systems approach and skeletal myogenesis. Comparative and functional genomics,2012, 2012: 7594-7507.   
+[9] Hinterberger T J, Sassoon D A, Rhodes S J, et al. Expression of the muscle regulatory factor MRF4 during somite and skeletal myofiber development. Developmental biology,1991, 147: 144-156.   
+[10] Buckingham M,Relaix F. The role of Pax genes in the development of tissues and organs: Pax3 and Pax7 regulate muscle progenitor cell functions. Annual review of cell and developmental biology, 2007, 23: 645-673.   
+[11] Edmondson D G, Cheng T C, Cserjesi P, et al. Analysis of the myogenin promoter reveals an indirect pathway for positive autoregulation mediated by the muscle-specific enhancer factor MEF-2.Molecular and cellular biology, 1992,12: 3665-3677.   
+[12] Vignaud A, Hourde C, Butler-Browne G, et al. Differential recovery of neuromuscular function after nerve/muscle injury induced by crude venom from Notechis scutatus, cardiotoxin from Naja atra and bupivacaine treatments in mice. Neuroscience research, 2007, 58: 317-323.   
+[13] Van Rooij E, Sutherland L B, Qi X, et al. Control of stress-dependent cardiac growth and gene expression by a microRNA. Science, 2007, 316: 575-579.   
+[14] Sempere L F, Freemantle S, Pitha-Rowe I, et al. Expression profiling of mammalian microRNAs uncovers a subset of brain-expressed microRNAs with possible roles in murine and human neuronal differentiation. Genome biology, 2Oo4, 5: R13.   
+[15] Wang X H. MicroRNA in myogenesis and muscle atrophy. Current opinion in clinical nutrition and metabolic care, 2013, 16: 258-266.   
+[16] Duan C,Ren H, Gao S. Insulin-like growth factors (IGFs), IGF receptors,and IGFbinding proteins: roles in skeletal muscle growth and diferentiation. General and comparative endocrinol0gy,2010,167: 344-351. [17] Elia L, Contu R, Quintavalle M, et al. Reciprocal regulation of microRNA-1 and insulinlike growth factor-1 signal transduction cascade in cardiac and skeletal muscle in physiological and pathological conditions. Circulation, 2009,120: 2377-2385.   
+[18] Kozakowska M, Ciesla M, Stefanska A, et al. Heme oxygenase-1 inhibits myoblast differentiation by targeting myomirs. Antioxidants & redox signaling,2012,16: 113-127. [19] Sato M M, Nashimoto M, Katagiri T,et al. Bone morphogenetic protein-2 downregulates miR-206 expression by blocking itsmaturation process. Biochemical and biophysical research communications,2009, 383: 125-129.   
+[20] King I N, Yartseva V, Salas D,et al. The RNA-binding protein TDP-43 selectively disrupts microRNA-1/206 incorporation into the RNA-induced silencing complex. The Journal of biological chemistry, 2014,289: 14263-14271.   
+[21] Lu L, Zhou L, Chen E Z, et al. A Novel YY1-miR-1 regulatory circuit in skeletal myogenesis revealed by genome-wide prediction of YY1-miRNA network. PloS one, 2012, 7: e27596.   
+[22] Chen JF, Mandel E M, Thomson J M, et al. The role of microRNA-1 and microRNA133 in skeletal muscle proliferation and differentiation. Nature genetics, 20o6,38: 228-233. [23] Wilson-Rawls J,Molkentin J D, Black B L,et al. Activated notch inhibits myogenic activity of the MADS-Box transcription factor myocyte enhancer factor 2C.Molecular and cellular biology,1999,19: 2853-2862.   
+[24] Gagan J, Dey B K, Layer R, et al. Notch3 and Mef2c proteins are mutually antagonistic via Mkpl protein and miR-1/206 microRNAs in differentiating myoblasts. The Journal of biological chemistry, 2012,287: 40360-40370.   
+[25] Chen JF, Tao Y,Li J, et al. microRNA-1 and microRNA-206 regulate skeletal muscle satelite cellproliferation and differentiation by repressing Pax7. The Journal ofcell biology, 2010,190: 867-879.   
+[26] Dey B K, Gagan J, Dutta A. miR-206 and -486 induce myoblast differentiation by downregulating Pax7. Molecular and cellular biology,2011, 31: 203-214.   
+[27] Goljanek-Whysall K, Sweetman D, Abu-Elmagd M, et al. MicroRNA regulation of the paired-box transcription factor Pax3 confers robustness to developmental timing of myogenesis. Proceedings of the National Academy of Sciences of the United States of America,2011,108:11936-11941.   
+[28] Kim H K, Lee Y S, Sivaprasad U, et al. Muscle-specific microRNA miR-206 promotes muscle differentiation. The Journal of cell biology, 2006,174: 677-687.   
+[29] Alteri A, De Vito F, Messina G, et al. Cyclin D1 is a major target of miR-206 in cell differentiation and transformation. Cell cycle,2013,12: 3781-3790.   
+[30] LiL, Sarver ，Alamgir S, et al. Downregulation of microRNAs miR-1, -206 and -29 Xpression in rhabdomyosarcoma. Laboratory investigation； a journal of technical methods and pathology,2012, 92: 571-583.   
+[31]JashS,DharG,Ghosh et al. Role of the mTORC1 complex in satellite cell activation by RNA-induced mitochondrial restoration: dual control of cyclin D1 through microRNAs. Molecular and cellular biology, 2014, 34: 3594-3606.   
+[32] Kukreti H, Amuthavali K, Harikumar A, et al. Muscle-specific microRNA1 (miR1) targets heat shock protein 70 (HSP70) during dexamethasone-mediated atrophy. The Journal of biological chemistry, 2013, 288: 6663-6678.   
+[33] James P L， Stewart C E,Rotwein P. Insulin-like growth factor binding protein-5 modulates muscle differentiation through an insulin-like growth factor-dependent mechanism. The Journal of cell biology,1996,133: 683-693.   
+[34] Liu N, Williams a H, Maxeiner JM, et al. microRNA-206 promotes skeletal muscle regeneration and delays progression of Duchenne muscular dystrophy in mice. The Journal of clinical investigation,2012, 122: 2054-2065.   
+[35] Yan B, Zhu C D, Guo JT, et al. miR-2O6 regulates the growth of the teleost tilapia (Oreochromis niloticus） through the modulation of IGF-1 gene expression. The Journal of experimental biology,2013,216: 1265-1269.   
+[36] Sun Y, Ge Y, Drnevich J, et al. Mammalian target of rapamycin regulates miRNA-1 and follistatin in skeletal myogenesis. The Journal of cell biology,20i0,189: 1157-1169. [37] Kalderon N, Epstein M L, Gilula N B. Cell-to-cell communication and myogenesis. The Journal of cell biology,1977, 75: 788-806.   
+[38] Anderson C, Catoe H, Werner R. MIR-206 regulates connexin43 expression during skeletal muscle development.Nucleic acids research, 2006, 34: 5863-5871.   
+[39] Rosenberg M I, Georges S A, Asawachaicharn A, et al. MyoD inhibits Fstl1 and Utrn expression by inducing transcription of miR-206. The Journal of cellbiology, 2006,175: 77- 85.   
+[40] Sharma M, Juvvuna P K, Kukreti H, et al. Mega roles of microRNAs in regulation of skeletal muscle health and disease. Frontiers in physiology, 2014, 5: 239.   
+[41] Jeng S F, Rau C S, Liliang P C, et al. Profiling muscle-specific microRNA expression after peripheral denervation and reinnervation in a rat model. Journal of neurotrauma, 2009, 26: 2345-2353.   
+[42] Taulli R, Bersani F, Foglizzo V, et al. The muscle-specific microRNA miR-206 blocks human rhabdomyosarcoma growth in xenotransplanted mice by promoting myogenic differentiation. The Journal of clinical investigation, 2009,119: 2366-2378.   
+[43] Luo Y Q, Wu X X, Ling Z X, et al. microRNA133a Targets Foxl2 and Promotes Differentiation of C2C12 into Myogenic Progenitor Cells. DNA and cell biology, 2015, 34: 29-36.   
+[44] Liu N, Bezprozvannaya S, Shelton J M, et al. Mice lacking microRNA 133a develop dynamin 2-dependent centronuclear myopathy. The Journal of clinical investigation, 2011, 121: 3258-3268.   
+[45] Chen X, Wang K H, Chen J N, et al. In Vitro Evidence Suggests That miR-133amediated Regulation of Uncoupling Protein 2 (UCP2) Is an Indispensable Step in Myogenic Differentiation. Journal Of Biological Chemistry,2009,284: 5362-5369.   
+[46] Zhang Y, Xie R L, Gordon J, et al. Control of mesenchymal lineage progression by microRNAs targeting skeletal gene regulators Trpsl and Runx2. The Journal of biological chemistry,2012,287: 21926-21935.   
+[47] Yin H, Pasut A， Soleimani V D,et al. MicroRNA-133 controls brown adipose determination in skeletal muscle satellite cells by targeting Prdml6. Cell metabolism, 2013, 17: 210-224.   
+[48] Zhang D,Li X, Chen C,et al. Attenuation of p38-mediated miR-1/133 expression facilitates myoblast proliferation during the early stage of muscle regeneration. PloS one, 2012, 7: e41478.   
+[49] Nakasa T, Ishikawa M, Shi M, et al. Acceleration of muscle regeneration by local injection of muscle-specific microRNAs in rat skeletal muscle injury model. Journal of cellular and molecular medicine, 2010, 14: 2495-2505.   
+[50] Van Rooij E, Quiat D, Johnson B A, et al. A family of microRNAs encoded by myosin genes governs myosin expression and muscle performance. Developmental cell, 2009, 17: 662-673.   
+[51] Van Rooij E,Liu N, Olson E N. MicroRNAs flex their muscles. Trends Genet, 2008, 24: 159-166.   
+[52] Calis T E, Pandya K, Seok H Y, et al. MicroRNA-208a is a regulator of cardiac hypertrophy and conduction in mice. Journal Of Clinical Investigation,2009,119: 2772-2786. [53] Bell M L，Buvoli M，Leinwand L A. Uncoupling of Expression of an Intronic MicroRNA and Its Myosin Host Gene by Exon Skipping. Molecular and celllar biology, 2010, 30: 1937-1945.   
+[54] Small E M, O'rourke JR, Moresi V, et al. Regulation of PI3-kinase/Akt signaling by muscle-enriched microRNA-486. Proceedings of the National Academy of Sciences of the United States of America, 2010, 107: 4218-4223.   
+[55] De La Garza-Rodea a S, Baldwin D M, Oskouian B, et al. Sphingosine phosphate lyase regulates myogenic differentiation via S1P receptor-mediated effects on myogenic microRNA expression. FASEB journal : official publication of the Federation of American Societies for Experimental Biology, 2014, 28: 506-519.   
+[56] Alexander M S, Casar J C, Motohashi N, et al. Regulation of DMD pathology by an ankyrin-encoded miRNA. Skeletal muscle, 2011, 1: 27. [57] Alexander M S, Casar JC, Motohashi N, et al. MicroRNA-486-dependent modulation of DOCK3/PTEN/AKT signaling pathways improves muscular dystrophy-associated symptoms. The Journal of clinical investigation,2014,124: 2651-2667.   
+[58] Huang Z, Chen X, Yu B, et al. MicroRNA-27a promotes myoblast proliferation by targeting myostatin. Biochemical and biophysical research communications, 20l2, 423: 265- 269.   
+[59] Mcfarlane C， Vajjala A， Arigela H, et al. Negative auto-regulation of myostatin expression is mediated by Smad3 and microRNA-27. PloS one, 2014, 9: e87687.   
+[60] Crist C G, Montarras D,Pallafacchina G, et al. Muscle stem cell behavior is modified by microRNA-27 regulation of Pax3 expression. Proceedings of the National Academy of Sciences of the United States of America, 2009,106: 13383-13387.   
+[61] Wei W, He H B, Zhang W Y, et al. miR-29 targets Akt3 to reduce proliferation and facilitate differentiation of myoblasts in skeletal muscle development. Cell death & disease, 2013,4: e668.   
+[62] Wang H, Garzon R, Sun H, et al. NF-kappaB-YY1-miR-29 regulatory circuitry in skeletal myogenesis and rhabdomyosarcoma. Cancer cell, 2008,14: 369-381.   
+[63] Wang X H, Hu Z, Klein J D, et al. Decreased miR-29 suppresses myogenesis in CKD. Journal of the American Society of Nephrology $\because$ JASN, 2011,22: 2068-2076.   
+[64] Winbanks C E,Wang B, Beyer C, et al. TGF-beta regulates miR-206 and miR-29 to control myogenic differentiation through regulation of HDAC4. The Journal of biological chemistry,2011, 286: 13805-13814.   
+[65] Zhou_ L, Wang L,Lu L,et al. Inhibition of miR-29 by TGF-beta-Smad3 signaling through dual mechanismspromotestransdifferentiation ofmouse myoblastsinto myofibroblasts. PloS one,2012, 7: e33766.   
+[66] Zhou L, Wang L, Lu L, et al. A novel target of microRNA-29, Ringl and YY1-binding protein (Rybp), negatively regulates skeletal myogenesis. The Journal of biological chemistry, 2012, 287: 25255-25265.   
+[67] Motohashi N, Alexander M S, Shimizu-Motohashi Y, et al. Regulation of IRS1/Akt insulin signaling by microRNA-128a during myogenesis. Journal of cell science, 2013,126: 2678-2691.   
+[68] Dai Y, Zhang W R, Wang Y M, et al. MicroRNA-128 regulates the proliferation and differentiation of bovine skeletal muscle satellte cels by repressing Sp1. Molecular and cellular biochemistry, 2016, 414: 37-46.   
+[69] Shi L, Zhou B,Li P, et al. MicroRNA-128 targets myostatin at coding domain sequence to regulate myoblasts in skeletal muscle development. Cellular signalling, 2015, 27: 1895- 1904.   
+[70] Alexander M S,Kawahara G, Motohashi N, et al. MicroRNA-199a is induced in dystrophic muscle and affects WNT signaling, cel proliferation, and myogenic differentiation. Cell death and differentiation, 2013,20: 1194-1208.   
+[71] Jia L, Li Y F, Wu G F, et al. MiRNA-199a-3p regulates C2C12 myoblast differentiation through IGF-1/AKT/mTOR signal pathway. International journal of molecular sciences, 2013, 15: 296-308.   
+[72] Wu R, Li H, Zhai L，et al. MicroRNA-431 accelerates muscle regeneration and ameliorates muscular dystrophy by targeting Pax7 in mice. Nature communications, 2015, 6: 7713.   
+[73] Lee K P, Shin Y J, Panda a C, et al. miR-431 promotes differentiation and regeneration of old skeletal muscle by targeting Smad4. Genes & development, 2015,29: 1605-1617. [74] Lu L, Sun K, Chen X, et al. Genome-wide survey by ChIP-seq reveals YY1 regulation of lincRNAs in skeletal myogenesis. Embo J,2013, 32: 2575-2588.   
+[75] Dey B K, Pfeifer K, Dutt A. The H19 long noncoding RNA gives rise to microRNAs miR-675-3p and miR-675-5p to promote skeletal muscle differentiation and regeneration. Genes & development, 2014, 28: 491-501.   
+[76] Wang Y, Pang W J,Wei N,et al. Identification, stability and expression of Sirt1 antisense long non-coding RNA. Gene, 2014, 539: 117-124. [77] Cesana M, Cacchiarelli D, Legnini I, et al. A long noncoding RNA controls muscle differentiation by functioning as a competing endogenous RNA. Cell, 2011,147: 358-369. [78] Legnini I, Morlando M, Mangiavacchi A, et al. A feedforward regulatory loop between HuR and the long noncoding RNA linc-MD1 controls early phases of myogenesis. Mol Cell, 2014, 53: 506-514.   
+[79] Wang G Q, Wang Y, Xiong Y, et al. Sirt1 AS lncRNA interacts with its mRNA to inhibit muscle formation by attenuating function of miR-34a. Scientific reports, 2016, 6: 218-265. [80] Qiu H, Liu N, Luo L, et al. MicroRNA-17-92 regulates myoblast proliferation and differentiation by targeting the ENH1/Id1 signaling axis. Cell death and differentiation, 2016, 23: 1658-1669.   
+[81] Qiu H, Zhong J, Luo L,et al. Regulatory Axis of miR-195/497 and HMGA1-Id3 Governs Muscle Cell Proliferation and Differentiation. International journal of biological sciences, 2017,13: 157-166.
+
+# Research progress on miRNA regulation of myogenesis
+
+TANG Zhi-xiong GOU De-ming
+
+(College ofLife Sciences, Shenzhen University, Shenzhen, Guangdong, 518060, China)
+
+Abstract Myogenesisinvolves myoblast proliferation and differentiation to myocytes, later,these myocytes fuse to form multinucleated myotubes. MicroRNAs (miRNAs) are small non-coding RNAs,which post-transcriptionally regulate gene expression by binding to the 3'UTR of target mRNA. miRNAs play important role in the regulation of myogenesis. In this review, the function of muscle-specific expression of miRNAs(myomiRs), such as miR-1, miR-133, miR-206, miR-208, miR -499 and miR-486, as well as several non-myomiRs, including miR-27, miR-29, miR128,miR-199a and miR-431 were introduced. In addition, several lncRNAs those interact with miRNAs to regulate muscle differentiation have been summarized. To sum up, the regulatory mechanism of miRNAs on myogenesis were elucidated and the latest research progress were reviewed.
+
+Keywords Myogenesis miRNAs Myoblast proliferation

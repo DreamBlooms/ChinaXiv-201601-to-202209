@@ -1,0 +1,658 @@
+[
+    {
+        "type": "text",
+        "text": "Ecosystem model parameterization and adaptation for sustainable cellulosic biofuel landscape design ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JOHN L. FIELD1'²,ERNIE MARX1,MARK EASTER1,PAUL R． ADLER and KEITH PAUSTIAN1,4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Natural ResourceEcologyLaboratoryColoradoState Unioersity,499Campus eliery，FortColins,CO05A, 2Departmentof Mechanical Engineering,Colordo StateUniersity,374Campus Delivery，FortCollns,CO805,A, 3Pasture Systems and Watershed Management Research Unit,United States Department of Agriculture-Agricultural Research Service,University Park,PA 1680,USA $^ 4$ Departmentof Soiland Crop Science,Colorado StateUniversity,17OCampus Delivery，Fort Collins,CO 80523,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Renewable fuel standards in the US and elsewhere mandate the production of large quantities of cellulosic biofuels with low greenhouse gas (GHG) footprints，a requirement which willikely entail extensive cultivationof dedicated bioenergy feedstock crops on marginal agricultural lands.Performance data for such systems is sparse,and non-linear interactions between the feedstock species，agronomic management intensity，and underlying soil and land characteristics complicate the development of sustainable landscape design strategies forlow-impact commercial-scale feedstock production.Proces-based ecosystem models are valuable for extrapolating field trial results and making predictions of productivity and associated environmental impacts that integrate the efects of spatially variable environmental factors across diverse production landscapes. However,there are few examples of ecosystem model parameterization against field trials on both prime and marginal lands or of conducting landscape-scale analyses at suficient resolution to capture interactions between soil type,land use,and management intensity.In this work we used a data-diverse,multi-criteria approach to parameterize and validate the DayCent biogeochemistry model for upland and lowland switchgrass using data on yields,soil carbon changes,and soil nitrous oxide emissions from US field trials spanning a range of climates,soil types,and management conditions.We then conducted a high-resolution case study analysis of areal-worldcellulosic biofuel landscape in Kansas inorder to estimate feedstock production potential and associated direct biogenic GHG emissions footprint. Our results suggest that switchgrass yields and emissions balance can vary greatly across a landscape large enough to supply a biorefinery in response to variations in soil type and land-use history,butthat within a given land base both of these performance factors can be widely modulated by changing management intensity.This in turn implies a large sustainable cellulosic biofuel landscape design space within which a system can be optimized to meet economic or environmental objectives. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:biogeohemistryarbonuestation,elllosiciofuel,osstemodelparameterationossteeling feedstock, greenhouse gas emissions, landscape design, marginal land, nitrous oxide ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received3 September2015;accepted7 October 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Energy Independence and Security Act of 2007 expanded the US renewable fuel standard to require the use of large quantities of'advanced'and'cellulosic'biofuels with lifecycle greenhouse gas (GHG) emissions reductions of $5 0 \\%$ and $6 0 \\%$ ，respectively，relative to a conventional gasoline baseline (11Oth Congress of the United States,2007).This mandate is predicated on the wide availability of biomass feedstocks with low direct environmental impacts and causing minimal disruption to agricultural commodity markets,which could lead to indirect leakage effects (Searchinger et al.,20o8).Avariety of low-impact feedstock provisioning strategies have been envisioned including the collection of agricultural residues,forestry residues，and municipal wastes，as well as the cultivation of dedicated woody and herbaceous crops on marginal or non-agricultural lands (Campbell et al.，2008;Robertson et al.，2008；Tilman et al.，2Oo9)．In particular，perennial grasses such as switchgrass，Miscanthus，bioenergy-optimized sugarcane,and mixed prairie species have been identified as promising cellulosic feedstock crops due to their high yield potential,relativelylow input requirements,high nitrogen use efficiency,and ability to sequester carbon through soil organic matter formation (Vogel et al., 2002；Tilman et al.，2006;Heaton et al.，2008;Walter et al.，2014).A comprehensive review of US feedstock availability by the Department of Energy suggests that widespreadcultivationofhigh-yielding dedicated perennial grasses will be necessary to achieve the target of displacing $3 0 \\%$ of U.S.petroleum consumption with biofuels(U.S.Department of Energy,2011),and it has been estimated that biofuel supply chains based on such feedstocks will have highly favorable lifecycle GHG impacts as compared to first-generation biofuel technologies (Schmer et al.，2008;Davis et al.，2012;Wang et al.,2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite their promise，agronomic experience with perennial grass feedstock crops is still relatively limited, and questions around the best management practices to balance the often-competing goals of maintaining high yields while minimizing environmental impacts have not yet been resolved.The debate between the relative merits of low-intensity cultivation over large areas (often referred to as 'land-sharing'）vs.more intensive production on a more limited land base('land-sparing') is still being waged (Anderson-Teixeira et al.,2012).Process-based ecosystem modeling can play an important role in extrapolating limited existing perennial grass field trial results to make more general estimates of productivity,environmental impacts,and optimal management and landscape design strategies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Modelingcellulosic feedstock yields $\\mathcal { E }$ environmental impacts ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The use of crop models for assessing managementenvironment interactions and predicting bioenergy feedstock crop productivity was thoroughly reviewed by Nair et al. (2012). Crop models such as APSIM,BioCro, and ALMANAC have been applied at regional or national scales to assess the productivity of first- and second-generation feedstock cropsasaffected by broadscaleclimate-soil associations (Bryan et al.,201o;Miguez et al.，2012; Behrman et al.，2014). Bioenergy system design is not just a question of yield,however，and understanding the biogeochemical cycling of carbon, nitrogen,and water through these systems is essential for quantitatively evaluating their sustainability (Robertson et al.，2011).Perennial grass feedstock crops are often associated with a high potential for soil carbon sequestration.One recent meta-analysis suggests that switchgrass increases soil organic carbon (SOC)levels at a median rate of ca. $0 . 7 \\mathrm { ~ t ~ C ~ } \\bar { \\mathrm { h a } } ^ { - 1 } \\mathrm { ~ y r } ^ { - 1 }$ when cultivated on carbon-depleted agricultural soils，though performance is more neutral on pastureland or areas that were not previously cropped (Qin et al.,2015a). Application of nitrogen fertilizers is typically required to replace losses during harvest and maintain yield levels, but emissions of nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } ,$ a byproduct of soil microbial activity and a potent GHG) increase non-linearlywithincreasingNrate(Hoben etal.,2O11;Shcherbak et al.，2014) and can threaten the overall lifecycle GHG footprint of any bioenergy system based on feedstocks with inefficient nitrogen cycling (Crutzen et al., 2008).The biogeochemical cycling of $\\mathrm { ~ C , ~ N , ~ }$ and $\\mathrm { H } _ { 2 } \\mathrm { O }$ and associated fluxes of biogenic GHGs are tightly linked in all agroecosystems by fundamental mechanisms including plant tissue stoichiometry，photosyntheticpathway $( \\mathsf { C } _ { 3 }$ vS. $C _ { 4 }$ vs.CAM)， stomatal conductance,and microbial mineralization/immobilization，and are sensitive to local climate,soil type,and land-use history. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Detailed reviews of process-based biogeochemical model use to capture these interactions in the context of bioenergy system sustainability assessment are provided by Thomas et al. (2013) and Robertson et al. (2015).The CENTURY model was among the first to be applied to bioenergy sustainability assessment,and it and its derivative DayCent model have been widely used to evaluate corn grain production,corn stover removal,and the dedicated cultivation of switchgrass and Miscanthus from the level of individual sites to national scales (Sheehan etal.,20o3;Kim & Dale,2005; Chamberlain et al.，2011；Davis et al.，2012;Lee et al., 2012;Duval et al.,2013).The Environmental Policy Integrated Climate model has also been applied extensively to bioenergy feedstocks in the context of economic analyses (Jain et al.,201o; Egbendewe-Mondzozo et al.,2011) and environmental sustainability assessments (Gelfand et al.,2013) at scales from regional (Zhang et al.,2010) to global (Kang et al.,2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experience with using models to assess the productivityand biogeochemical implications of fine-scale variations in environmental factors such as soil type or topography across landscapes or individual farms is more limited.Studies of switchgrass cultivation in the southeastern US using crop production models have come to different conclusions as to whether yield is sensitive (Woli,2012) or insensitive (Persson et al.,2011) to underlying soil type.At the finest spatial scale，a group at Idaho National Laboratory has used corn yield data from a precision agriculture system in Iowa to drive DayCent and models of soil erosion and identify areas of low nitrogen use efficiency to target for conversion to switchgrass (Abodeely et al.,2013).Many studies conduct large numbers of fine-scale simulations to make regional-scale estimates of feedstock productivity and environmental performance，though they typically do not report on soil-climate-management interactions explicitly but rather emphasize more aggregate descrip tions of landscape performance (e.g.Davis et al.,2012; Gelfand et al.,2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Challenges in bioenergy ecosystem modeling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The use of ecosystem models to assess different bioenergy landscape design strategies is complicated by challenges around the representation of marginal lands,adequate bioenergy crop parameterization, and selection of the most appropriate spatial resolution and agronomic management practices for simulation. While biogeochemical process models are increasingly used to simulate conversion of marginal agricultural lands to bioenergy feedstock cultivation (Bandaru et al.，2013; Qin et al.，2015b),these scenarios are particularly challenging from a modeling perspective. The definition of ‘marginal’ land itself is not straightforward or consistent across studies，and the term is applied to both land with low productivity potential and to land with ample productivity but vulnerable to long-term degradation (erosion,loss of soil organic matter，etc.） under conventional cropping systems. In many bioenergy assessment studies the marginal designation has been based on unfavorable biophysical properties as judged using land suitability ratings (Gelfand et al.,2013) or remote sensing techniques (Cai et al.,2011).Another more direct basis for the designation considers past transitions in an out of agricultural production as inferred from land-use datasets (Campbell et al.，2008)，remote sensing(Wright & Wimberly, 2013)，or sector-level economic modeling (Swinton et al.，2011).When considering lands designated as marginal based on their low productivity potential, bioenergy feedstock crops are often not immune to the factors that make such lands challenging for conventional crops. Recent perennial grass field trials purposely conducted on marginal sites indicate reduced productivity relative to performance on the prime lands typically encountered at many agricultural field stations (Mooney et al.，2009; Shield et al.，2012;Boyer et al.,2013). From an ecosystem modeling perspective, accurate assessment is only possible to the extent that underlying biophysical limitations on productivity (e.g. unfavorable climates，soil texture extremes，shallow soils，low soil organic matter levels，site drainage problems，slope,vulnerability to erosion，etc.） are represented directly or indirectly in model data inputs and the processes simulated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It iswell understood that process-based ecosystem models require proper parameterization specific to the agroecosystems being simulated in order to achieve good performance,and that such models have limited predictive power when extrapolated far beyond their parameterization scope (Thomas et al.,2013).However, many bioenergy assessment studies are based on models parameterized under prime conditions and then extrapolated to highly marginal sites,or lacking an explicit independent validation of performance (e.g. Gelfand et al.,2013;Kang et al.,2014). In the case of the DayCent model，parameterization typically involves adjusting study site and crop parameters by hand in order to match observed real-world performance for a small numberof field trial cases for which extensive data are available (Del Grosso et al.,2011).While this approach can often yield a high degree of fidelity across a range of performance criteria for the sites in question (Hudiburg et al.,2015),the very large number of empirically-determined crop and site parameters in the model makes the process vulnerable to over-parameterization. In such cases,model fit to the training dataset is improved via mechanisms that lack broader underlying ecological significance，reducing the generality of the resulting model for other geographic areas，environmental conditions,or management regimes (Necpalova et al.,2015).It is also possible to introduce bias with the selection of the parameterization cases themselves，if the researcher gravitates to focus on studies that confirm a priori assumptions of how a system ‘should' perform. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There are additional challenges around the spatial resolution of landscape modeling and assumptions about crop agronomic management. Management factors including tillage intensity (Adler et al.， 2007), fertilizer application rate (Davis et al.,2013),and rotation length (Pyorala et al., 2014) can potentially change the lifecycle GHG performance of a bioenergy system from positive to negative,an effect termed the ‘management swing potential' (Davis et al., 2013). Management recommendations for bioenergy crops are not always well defined.For example，nitrogen fertilizer recommendations for Miscanthus have been widely debated (Arundale et al.,2014a),with important implications for the overall GHG footprint of production (Roth et al.,2015).To the extent that there are interactions between best management practices and sitelevel ecosystem properties (soil texture, land-use history， etc.)， assumptionsaboutmanagementused within an assessment study should ideally be implemented at the level of management decision-making, that is,the field-scale. Some landscape modeling studies have started to endogenize management intensity questions by simulating productivity and environmental impacts at different rates of $\\mathrm { \\Delta N }$ application (Gelfand et al.，2013) or different levels of tillage (Zhang et al., 2010) for a given simulation run, for example,accounting for realistic variations in best management practices across the study landscape. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Study goals ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our study used the DayCent biogeochemical process model to assess perennial grass productivity and associated biogenic GHG emissions as a function of land qualityandmanagementintensity.Implicationsfor bioenergy landscape design were explored through a case study of switchgrass production around a newly constructed commercial-scale cellulosic biorefinery in an area with substantial heterogeneity in soils and land use. This investigation expands on previous work in two mainways: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. We conducted an extensive model parameterization and validation effort based on a data-diverse,multicriteria approach，using a large parameterization dataset collected from the literature spanning wide gradients of climate,soil texture,and management intensity.   \n2.We evaluated the impacts of management intensification at the full spatial resolution of the assessment, estimating optimal levels of nitrogen fertilizer application for each point on the landscape in order to either maximize yield or minimize biogenic GHG emissions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our objective was to develop a rigorous，well-validated spatially explicit biogeochemical modeling capability that can serve as the basis for future integrated assessment and landscape optimization efforts. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Case study introduction ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We performed a landscape assessment case study simulating the cultivation of switchgrass (Panicum virgatum) to supply biomass to the Abengoa cellulosic biorefinery located outside the town of Hugoton in southwestern Kansas (Peplow，2014), which began operations in fall 2014.While the plant will initially produce 25 million gallons of ethanol per year using corn stoveras the primarylignocellulosic feedstock,switchgrass has beenmentioned as anadvanced cellulosic feedstock of interest andBiomass Crop Assistance ProgramProject Area 7is sponsored by the company and targets the establishment of $2 0 ~ 0 0 0$ acres of switchgrass production in the area (U.S.Department of Agriculture FSA,2011).The case study region has long been at the center of agricultural sustainability and energy issues,having been deeplyaffectedby the Dust Bowlin the 1930s (Kansas Historical Society，2014）and being the site of the earliest hydraulic fracturing trials in the U.S. (Borowski, 2012). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Today, the surrounding Stevens County is a highly diverse and productive agricultural area.In 2012, $2 1 . 4 \\%$ of the county was dedicated to highly-productive irrigated corn cultivation (averageyieldof $1 2 . 1 ~ \\mathrm { M g ~ h a } ^ { - 1 } .$ ,or192bushels acre-)and $1 1 \\%$ to dryland wheat $( 1 . 1 ~ \\mathrm { M g ~ h a } ^ { - 1 } , \\$ ，or18buacre $\\cdot ^ { - 1 }$ )，with smaller fractions devoted to other crops and pasture/rangeland, supporting an inventory of 45 50o head of cattle including calves (U.S.Department of Agriculture NASS,2014).In this study we investigated the biogeochemical implications of converting non-irrigated cropland and rangeland in Stevens County and its six neighboring counties in southwestern Kansas and the Oklahoma panhandle to switchgrass cultivation (see Fig.1)，examining tradeoffs between productivity and associated biogenic GHG emissions as a function of underlying soil type and management intensity,specifically nitrogen fertilizer application rate.Issues of land ownership,conservation easement status，and other land-use policy limitations are excluded here,but explored in a subsequent publication dedicated to bioenergy landscape optimization. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The DayCent model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Productivity and net fluxes of biogenic $\\mathrm { C O } _ { 2 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ from soils under switchgrass cultivation weremodeled with the DayCent biogeochemistry model (Parton et al.，1998;Del Grosso et al., 2011).DayCent is a semi-empirical process-based model that simulates cycling of C,N,and water innatural and agroecosystems based on site-specific biophysical factors,land-use history，and management practices (e.g. tillage,fertilizerapplication,irrigation, etc.).The spatial and temporal scope of the model lies in between that of dedicated crop growth models (Miguez et al.,2012) and generalized earth climate system models (Anderson et al., 2013; Hallgren et al.,2013).DayCent has been used extensively to predict yields and environmental impacts of switchgrass cultivation (Adler et al.,2007;Chamberlain et al.,2011; Davis et al.,2012; Lee et al.,2012) and is also used to predict agricultural soil GHG emissions for the annual Inventory of U.S.Greenhouse Gas Emissions and Sinks (U.S. Environmental Protection Agency,2014a). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DayCent computes soil temperature and moisture for differentlayers of the soil profile (resolved separately based on soil texture,bulk density,and $\\mathrm { \\Delta p H }$ ）using daily climate data inputs. Crop growth (net primary productivity,or NPP) is simulated using species-specific parameters describing photosynthetic efficiency, tissue $\\mathrm { { C / N } }$ ratio limits,above- and below-ground C partitioning,and phenology,many of which are determined empirically using model parameterization datasets as described previously. Daily biomass growth potential $( \\mathrm { N P P } _ { \\mathrm { P o t } } )$ isderived from top-of-atmosphere radiation (srad),corrected for atmospheric transmission losses and multiplied by a series of 0-1 factors that represent deviations from ideal temperature $( f _ { \\mathrm { t e m p } } )$ or soil moisture $( f _ { \\mathrm { H _ { 2 } O } } )$ or limitations due to canopy immaturity or self-shading $( f _ { \\mathrm { c a n o p y } } )$ . This potential growth is then adjusted down if the available soil mineral nitrogen supply is limiting, as determined based on a maximum incremental biomass $\\boldsymbol { \\mathrm { { C } } } : \\mathrm { { N } }$ ratio at the given level of plant maturity: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N P P } = \\mathrm { m a x } ( \\mathrm { N P P } _ { \\mathrm { p o t } } , \\mathrm { N P P } _ { \\mathrm { N l i m } } ) \\ \\mathrm { w h e r e }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N P P } _ { \\mathrm { p o t } } = \\mathrm { s r a d } \\cdot \\mathrm { t r a n s m i s s i o n } \\cdot f _ { \\mathrm { t e m p } } \\cdot f _ { \\mathrm { H _ { 2 } O } } \\cdot f _ { \\mathrm { c a n o p y } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N P P _ { N l i m } } = \\mathrm { N _ { a v a i l } } \\cdot ( C / N ) _ { \\mathrm { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/843f9575d550e0c8b1516919fa1e8b7296e8af7deecdf39371e6186d15c5d624.jpg",
+        "img_caption": [
+            "Fig.1Mapofallswitchgrassfieldtrialsitesincudedinthefullodelparameterzationandvalidationdatasepriortoeotye/lati tudefilteringRingsizeindicatesthenumberofexperimentaltreatments (e.g.diferentecotypesoritrogenferilizerapplication rates)conductedatthatsite,andcolorrepresentsthetypesofdataavailable.The7countycasestudyareaishighlightedinpik,with a stardesignating the biorefinery location. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition to plant productivity DayCent also estimates soil carbon and nitrogen cycling including net changes in SOC levelsand $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions, the major constituents of the agricultural soil GHG balance.Carbon dynamics are simulated for soil surface pools and the top soil layer（ $\\mathrm { 0 - 2 0 ~ c m }$ by default),with organic matter represented by two litter pools (metabolic and structural) and three SOC pools- an ‘active'pool representing microbial biomass and associated microbial products with a rapid turnover rates,and two others representing chemically/ physically stabilized carbon with decadal- ('slow' pool) and century-scale ('passive' pool) turnover times.Nitrogen mineralization and immobilization rates for each pool are controlled by the maximum and minimum permissible $\\boldsymbol { \\mathrm { C } } : \\mathrm {  { N } }$ ratios for each pool,soil temperature,soil moisture,and microbial efficiency asa function of soil texture (Parton et al.,1987).The soil nitrogen balance considers synthetic N fertilizer addition,manure and other organic N amendments,atmospheric deposition, volatilization,leaching,plantuptake,andN mineralization and immobilization associated with soil organic matter transformations.The model simulates nitrification of ammonium $\\mathrm { ( N H _ { 4 } ^ { + } ) }$ to nitrate $( \\mathrm { N O } _ { 3 } ^ { - } )$ including $\\mathsf { N O } _ { \\mathsf { X } }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ by-products,as well as denitrification of nitrate to gaseous products $( \\mathrm { N } _ { 2 } \\mathrm { O } ,$ （ $\\mathrm { N O } _ { \\mathrm { X } } ,$ $\\Nu _ { 2 } )$ .Nitrification is simulated by multiplying available soil ammonium by a maximum potential nitrification rate adjusted based on soil temperature,water-filled pore space (WFPS),and $\\mathrm { \\Delta p H }$ limitations (Del Grosso et al.,200o;Parton et al.,2001). The overall rate of denitrification and the $\\Nu _ { 2 } \\mathrm { O } / \\Nu _ { 2 }$ ratio of its products are modeled based on the availability of nitrate and organic matter substrates (as inferred fromheterotrophic respiration rate)，and local soil micropore redox state and gas diffusion rates as inferred from WFPS and heterotrophic respirationrate. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ecosystem model parameterization $\\mathcal { E }$ validation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We undertook an extensive parameterization and validation of the DayCent switchgrass growth model to improve overall simulation accuracy and verify the model response across gradients of land qualityand management intensity.Alarge dataset of switchgrass field trials for the continental United States was assembled from the peer-reviewed literature.Studies were included in the dataset provided they (a) specified the underlying soil in suficient detail that a corresponding Natural Resource Conservation Service Soil Survey Geographic database(SSURGO;Ernstrom & Lytle,1993）map unit could be identified using the Web Soil Survey (U.S.Department of Agriculture NRCS)； (b） specified key management variables (switchgrass ecotype planted,N fertilizer application rate,harvest date) in sufficient detail to define key DayCent simulation parameters;and (c) reported disaggregated annual yield and GHG results (studies reporting results averaged across multiple sites or $\\Nu$ treatments were excluded).All modeled-vs.- measured performance comparisons were made on the basis of time-averaged results across the duration of the field trial, so studies that report either annual yield data or treatmentaveraged data were included.If multiple cultivars of the same ecotype were included in a study,results were averaged across cultivars into a single representative value for the ecotype for simplicity.Additional details on the parameterization and validationdataset are provided in theAppendix S1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A total of 24 appropriate studies were identified, covering 573 annual biomass yield points across 147 unique combinations of site (soil, climate) and management treatments (N rate, harvest date,etc.).Initial exploratory analysis confirmed the need to exclude the first two seasons of yield data before switchgrass yields stabilize (Lesur et al.,2013;Arundale et al., $2 0 1 4 \\mathrm { b } )$ ,and to filter out treatments for ecotypes grown outside their typical latitude range (up to $5 4 ^ { \\circ } \\mathrm { N }$ for lowland varieties and down to $3 4 ^ { \\circ } \\mathrm { N }$ forupland,as per Casler,2012).The remaining dataset was then randomly split at the level of individual studies $7 0 : 3 0$ into a parameterization dataset and an independent validation dataset (Table1).Several of these field trials included more detailed information on biomass partitioning or nitrogen content (Frank et al.，20o4;Dohleman et al.，2012; Anderson-Teixeira et al.，2013),long-term changes in SOC based on either repeat measurements orpaired sites (Ma et al., 2001;Liebig et al.,2008;Follett etal.，2012;Anderson-Teixeira et al.，2013;Bonin & Lal,2014)，and/or time-resolved $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions (Nikiema et al.,2011; Hong et al.,2012; Schmer et al., 2012;Smithetal.,2O13).Therewasinsufficientdataavailable to perform an independent validation of these model performance criteria,so all of these studies were included in the parameterization dataset. While the raw SOC dataset was very noisy, eliminating individual data points that were not reported as statistically significant yieldeda final reduced modeling dataset that behaved more predictably and was consistent with recent switchgrass SOC meta-analysis results (i.e.Qin et al.,2015a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The combined parameterization and validation dataset covers a wide range of latitudes and longitudes (Fig.1）and temperature/precipitation regimes (Fig. S1),as well as a wide range of soil textures and Natural Resource Conservation Service land capability class (LCC) ratings (Helms,1992; Fig. S2). Note that LCC ratings are reflective of a variety of land-use limitations,some of which are explicitly simulated in the DayCent model (e.g. dry climates,extreme textures,shallow soils) and some of which are not (e.g. erosion susceptibility,drainage class).The switchgrass crop parameterization was further informed with data from greenhouse or growth chamber experiments looking at productivity response across gradients of temperature (Balasko & Smith,1971;Hsu et al.,1985;Reddy et al.,2008;Kandel et al.,2013;Wagle&Kakani,2014) ormoisture (Xu et al.,2006). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The parameterization process started with a default switchgrass cropparameter set based on previouswork (Adler et al., 2007；Davis et al.，2012) and focused on refining parameters relating to productivity，temperature and moisture stress response,nitrogen management, shoot vs.root partitioning,and tissue death and turnover rates,with separate parameterizations for both upland and lowland ecotypes as appropriate. Initial exploratory analysis suggested that capturing differences in phenology between upland and lowland ecotypes was essential foraccurate yield simulation,consistent with the current understanding of maturation based on photoperiod being a strong determinant of yield differences between different cultivars grown at a given latitude (Casler et al., 20o4).We set green-up dates uniformly for both ecotypes as function of latitude based onavariety of literature sources (Sanderson,1992;Sanderson et al.,1997;Wang etal.,2013)asillustrated inFig. S5.Peakbiomass dates were predicted as a function of both latitude and ecotype as inferred from a variety of sources (Sanderson,1992; Hopkins et al.,1995;Sanderson etal.,1997;Vogel etal.,2002; Frank et al.,2004;Berdahl etal.,2005;Casleretal.,2007;Anderson-Teixeira et al.,2013; see Figs S6 and S7) and used to trigger plant senescence events within DayCent. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ecdc261cc312199737816cae52e05d852e0e6d7fe4c766bb5d5c114458ff67e3.jpg",
+        "table_caption": [
+            "Table 1 DayCent switchgrass crop parameterization and validation and data sources "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Parameter types</td><td>Data sources</td><td># treatments</td></tr><tr><td>Parameterization</td><td></td><td></td></tr><tr><td>Aboveground biomass yield</td><td>Maet al.(2001),Fuentes& Taliaferro (2002), Vogel et al.(2002),Frank et al.(2004),Pearson (2004), Mulkey et al. (2006),Schmer et al. (2008,2012), Nikiema et al. (2011),Dohleman et al.(2012),</td><td>98 (67 after filtering)</td></tr><tr><td></td><td>Follett et al. (2012),Hong et al. (2012), Kering et al.(2012),Anderson-Teixeira et al. (2013), Boyer et al.(2013),Bonin & Lal (2014) and Pedroso et al. (2014)</td><td></td></tr><tr><td>Soil organic carbon (SOC) changes</td><td>Ma et al.(2001),Liebig et al.(2008),Follett et al.(2012),Anderson-Teixeira et al.(2013)</td><td>18 (8 after filtering)</td></tr><tr><td>Soil nitrous oxide (NO) emissions</td><td>and Bonin & Lal (2014) Nikiema et al. (2011),Hong et al. (2012), Schmer et al.(2012) and Smith et al.(2013)</td><td>11</td></tr><tr><td>Seasonal aboveground and belowground biomass</td><td>Frank et al.(2004),Dohleman et al. (2012) and Anderson-Teixeira et al. (2013)</td><td>3</td></tr><tr><td>accumulation,and/or C/N ratio Phenology</td><td>Sanderson (1992),Hopkins et al.(1995),</td><td>NA</td></tr><tr><td></td><td>Sanderson et al.(1997),Berdahl et al.(2005), Casler et al.(2007) and Wang et al. (2013)</td><td></td></tr><tr><td>Productivity response to temperature</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td>NA</td></tr><tr><td></td><td>Balasko & Smith (1971),Hsu et al.(1985),</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>Reddy et al. (2008),Kandel et al. (2013)</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>and Wagle & Kakani (2014)</td><td></td></tr><tr><td>Productivity response to soil moisture</td><td>Xu et al. (2006)</td><td>NA</td></tr><tr><td>Independent validation</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>Yield</td><td>Staley et al.(1991),Muir et al. (2001),</td><td>49 (44 after filtering)</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>Cassida et al.(2005),Adler et al. (2006),</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>Fike et al.(2006),Arundale et al. (2014b)</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>and Wilson et al. (2014)</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "After crop phenology was set other parameter adjustments were implemented manually,using the model automation routine described in the next section to rapidly evaluate parameter changes against the 67-point parameterization dataset. The parameterization process focused on maximizing modeled-vs.- measured fidelity (based on visual inspection of the plotted data and calculation of modeled-vs-measured regression parameters,Pearson correlation coefficient,and root mean squared error;e.g. Smith et al.,1996) for upland and lowland ecotype yields,changes in SOC,and growing season $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions,but also took into account time-resolved shoot $:$ root and $\\boldsymbol { \\mathrm { C } } : \\mathrm {  { N } }$ ratio data where available foramulti-criteria evaluation of parameter set performance (e.g. Fig. S13). Once the parameterization process was complete，independent validation of upland and lowland yield performance was conducted based on the data held in reserve (i.e.using the holdout validation method). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Spatialdatainputs,modelinitialization $\\mathcal { E }$ automation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A variety of spatially explicit data inputs are necessary to initialize and run the DayCent model fora large-scale parameterization or landscape analysis,including data on climate,soil type,and land-use history.Data sources used in this analysis are summarized in Table 2. Soil texture,rock fraction,and $\\mathrm { \\Delta p H }$ for different soil profile layers of the dominant soil component for each map unit were taken directly from the SSURGO database (Ernstrom&Lytle,1993),and bulk density,field capacity, wilting point, and saturated hydraulic conductivity were computed using the Saxton equations (Saxton et al.,1986).Climate data on a $3 2 ~ \\mathrm { k m }$ grid was derived from the North American Regional Reanalysis database (NARR;Mesinger et al., 2006). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Land-use history and current land management practices were compiled froma variety of sources.Current land use was determined from the National Land Cover Database 2006 (NLCD;Wickham et al.，2013)，re-sampled from the native $3 0 ~ \\mathrm { m }$ resolution to $2 4 0 \\mathrm { ~ m ~ }$ forease of use,and re-classified into the simplified categories of annual agricultural lands ('cultivated crops','pasture/hay'),rangeland ('dwarf shrub','shrub/ scrub'，‘grassland/herbaceous'，‘sedge/herbaceous')，and excluded (all other categories including forested and developed lands).Irrigated areas were identified using the MIrAD-US database (Pervez & Brown,201O),and federally-owned lands were identified using the USGS Federal Lands of the United States data layer (U.S.Geological Survey,2015) and excluded from further analysis $3 . 4 \\%$ of the landscape,most part of Cimarron National Grassland).These five GIS layers were then intersected and small slivers were eliminated by merging all polygons smaller than 1 ha into the neighbor with which they shared the longest border. This yielded 39 320 polygons of a variety of sizes across the seven-county Hugoton case study area (Fig. S16)，representing 3779 unique combinations of model inputs requiring individual simulation,which we refer to asDayCent modeling'strata'. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For each strata,the DayCent model was pre-initialized using the same pre-settlement and historical land use assumptions as used in the EPA Inventory ofU.S.Greenhouse Gas Emissions and Sinks (U.S.Environmental Protection Agency,2014a) and described in detail by Ogle et al.(201o).Model initialization included an equilibration run of several thousand years duration reflecting the natural state of the land prior to conversion to agriculture in order for all soil C and N pools to achieve steady-state values.Historical management between initial plow-out and the modern period was simulated with crop rotations and management practices compiled at regional scale from a variety of historical and modern sources (Ogle et al., ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/77773434726fa3006d0f75f96ad5f2cc8db545636cd9b8724a0b9fa2efc98e7f.jpg",
+        "table_caption": [
+            "Table 2 Summary of spatial data inputs "
+        ],
+        "table_footnote": [
+            "MIrAD-US,DgatedgricureasetfortUitedates;,rthmicanegioaleanalyis;Dial Land Cover Database; SSURGO, Soil Survey Geographic database. "
+        ],
+        "table_body": "<html><body><table><tr><td>Spatial database</td><td>Data type</td><td>Year</td><td>Native resolution</td><td>URL</td></tr><tr><td>SSURGO</td><td>Soils</td><td>2012</td><td>1:12 000-1:63 360</td><td>http://www.nrcs.usda.gov/wps/portal/nrcs/detail/</td></tr><tr><td>NARR</td><td>Daily</td><td>1979-2010</td><td>32 km</td><td>soils/survey/geo/?cid=nrcs142p2_053627 http://www.emc.ncep.noaa.gov/mmb/rreanl</td></tr><tr><td>NLCD</td><td>weather Land use</td><td>2006</td><td>30 m</td><td>http://www.mrlc.gov/nlcd2006.php</td></tr><tr><td>MIrAD-US</td><td>Irrigation extent</td><td>2007</td><td>250m</td><td>http://earlywarning.usgs.gov/USirrigation/</td></tr><tr><td>Federal Lands of the</td><td>Federal land ownership</td><td>2005</td><td></td><td>640 acres/1 mi²/1 : 2 00o 00ohttp://nationalmap.gov/small_scale/mld/fedlanp.html</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2010).The future switchgrass simulations were then executed across part of a 29-node,288-processor cluster computing sys tem at the Colorado State University Natural Resource Ecology Laboratory.Parallel execution was implemented in Python (http://www.python.org/） using forking operations to take advantage of multiple cores within a given node. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Landscape design analysis scenarios,results processing $\\mathcal { E }$ sensitivity analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For the landscape analysis case study we simulated conversion of all non-irrigated,non-federally owned polygons within the seven-county case study area to rain-fed lowland switchgrass cultivation.We conducted 30-year forward simulations to assess long-term productivity and trends in soil C and N cycling,recycling the full range of the NARR historic weather record to represent future weather conditions.In order to assess the response of crop productivity and GHG performance to management intensity,seven different rates of nitrogen fertilizerapplicationweresimulated foreach strata（ $\\left( 0 - \\right.$ $1 5 0 \\mathrm { ~ k g N } \\mathrm { \\ h a } ^ { - 1 }$ in $2 5 ~ \\mathrm { { k g N } \\ h a ^ { - 1 } }$ increments).We assumed that switchgrass would be replanted every 1O years after field preparation consisting of chisel plow and field cultivator operations,and that the crop would be neither fertilized nor harvested the year of establishment in order to limit competition from weeds and ensure robust crop establishment,as per local extension recommendations. These assumptions are highly conservative as switchgrass is often established in this region without tillage，the need for periodic replanting is widely debated，and first-year harvest can be possible if the crop achieves suficient first-year productivity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Switchgrass harvest yields，changes in SOC levels，and annual $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions were thenaveraged over the 30-year simulation period for each strata.Average annual $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission values were converted into $\\mathrm { C O } _ { 2 }$ equivalents using a 1oo-year global warming potential $( \\mathrm { G W P _ { 1 0 0 } } )$ value of 298 (Forster et al., 2007) then added to the $\\mathrm { C O } _ { 2 }$ flux values associated with average annual net SOC changes for an estimate of total direct biogenic emissions.To determine the biogenic GHG intensity of production $\\mathrm { ( M g ~ C O _ { 2 } e q ~ M g ^ { - 1 } }$ biomass harvested) total emissions per hectare were divided by the associated simulated switchgrass yield. Continuous functions of biomass yield and biogenic GHG intensityvs.nitrogen fertilizerapplicationrateweredeveloped for each strata by applying a cubic regression to the 30-year averaged simulation results for the differentN rate simulations, and the yield-maximizing and GHG balance-minimizing N rateswere then interpolated.The simulated yield and GHG intensity associated with these optimized N rates was then reassociated with the appropriate landscape polygons,and aggre gated across the full landscape in order to develop curves illustrating total potential landscape productivity and biogenic GHG emissions balance when strata are managed for these different objectives. The sensitivity of these landscape results to key crop parameters,landscape characterization,and switchgrass cultivation scenario assumptions was assessed as detailed in Table 4 in order to determine the overall robustness of our conclusions. All results analysis routines were automated in Python through a combination of SQLite database operations (http://sqlite.org/ ） via the sqlite3 module (http://docs.python.org/2/library/sqli$_ { \\mathrm { t e 3 . h t m l } } ,$ ,data manipulation in the native Python list data type, and figure generation using the matplotlib.pyplot module (http://matplotlib.org/api/pyplot_api.html). ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8bb3f7b277e1483671b4d80abe7b79884ba7debb4d166f6cfd9feccc2ae7246.jpg",
+        "table_caption": [
+            "Table 3 DayCent switchgrass crop parameter changes "
+        ],
+        "table_footnote": [
+            "\\*Chang inthePRDX(1)valuesalsoreflectsarecentchangeintheDayCentmodel tosimulateatmospheric transmisionlosseso photosynthetically active radiation "
+        ],
+        "table_body": "<html><body><table><tr><td>Type of parameter change</td><td>Parameter name</td><td>Original value</td><td>Lowland value</td><td>Upland value</td></tr><tr><td>Productivity potential and temperature response:</td><td>PRDX(1)</td><td>2.75</td><td>4</td><td>3.5*</td></tr><tr><td>Increase in productivity to reflect updated solar</td><td>PPDF(1)</td><td>30</td><td>30</td><td>30</td></tr><tr><td>radiationmodel and compensate for increased</td><td>PPDF(2)</td><td>45</td><td>44</td><td>44</td></tr><tr><td>belowground partitioning; differentiation in</td><td>PPDF(3)</td><td>1</td><td>0.75</td><td>0.75</td></tr><tr><td>productivity and temperature response between upland and lowland ecotypes</td><td>PPDF(4)</td><td>2.5</td><td>2</td><td>2</td></tr><tr><td>Growth response to moisture stress: Reduced</td><td>CWSCOEFF(1,1)</td><td>0.38</td><td>0.35</td><td>0.35</td></tr><tr><td>sensitivity to soil moisture stress</td><td>CWSCOEFF(1,2)</td><td>9</td><td>14</td><td>14</td></tr><tr><td>Belowground partitioning:Reduction in baseline</td><td>CFRTCN(1)</td><td>0.5</td><td>0.7</td><td>0.7</td></tr><tr><td>BG partitioning rate. BG partitioning in response</td><td>CFRTCN(2)</td><td>0.3</td><td>0.25</td><td>0.25</td></tr><tr><td>to moisture stress reduced, but response to</td><td>CFRTCW(1)</td><td>0.6</td><td>0.4</td><td>0.4</td></tr><tr><td>nutrient stress increased</td><td>CFRTCW(2)</td><td>0.3</td><td>0.25</td><td>0.25</td></tr><tr><td>Tissue N and lignin content: Root maximum</td><td>PRBMX(1,1)</td><td>55</td><td>50</td><td>50</td></tr><tr><td>allowable C :N ratio lowered slightly. Root lignin</td><td>FLIGNI(1,2)</td><td>0.26</td><td>0.06</td><td>0.06</td></tr><tr><td>content reduced. Small amount of N fixation</td><td>FLIGNI(1,3)</td><td>0.26</td><td>0.13</td><td>0.13</td></tr><tr><td>added to make growth under no-fertilizer conditions more realistic</td><td>SNFXMX(1)</td><td>0</td><td>0.005</td><td>0.005</td></tr><tr><td>Tissue death rates:Death rate and fall rate for</td><td>FSDETH(3)</td><td>0.05</td><td>0.075</td><td>0.075</td></tr><tr><td>shoots increased.Root maturation rate increased,</td><td>FALLRT</td><td>0.01</td><td>0.1</td><td>0.1</td></tr><tr><td>and turnover rate of both juvenile and mature</td><td>CMXTURN</td><td>0.12</td><td>0.3</td><td>0.3</td></tr><tr><td>roots increased</td><td>RDRJ</td><td>0.4</td><td>0.72</td><td>0.72</td></tr><tr><td></td><td>RDRM</td><td>0.2</td><td>0.54</td><td>0.54</td></tr><tr><td>N conservation: Increased translocation of nitrogen from shoots to roots during senescence</td><td>CRPRTF(1)</td><td>0.15</td><td>0.43</td><td>0.43</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ecosystemmodel parameterization $\\mathcal { E }$ validation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A total of 79 different switchgrass parameter set iterationswere ultimately developed and tested.Final upland and lowland ecotype parameter values that differ from the default DayCent switchgrass crop parameterization are detailed in Table 3. The most significant changes were: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "·Increased plant potential NPP rate -The most recent version of DayCent explicitly models solar radiation atmospheric transmission losses，and the revised potential NPP parameter PRDX(1) must be adjusted higher relative to previously-published versions to reflect the new growth calculation on a canopy photosynthetically active radiation (PAR)basis rather than a top-of-atmosphere PAR basis.Further fine adjustments were made to PRDX(1) to optimize the observed yield difference between the different ecotypes and to offset slightly increased belowground C partitioning. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "·Adjusted temperature and moisture stress response curves - Crop temperature (Fig.S8） and moisture stress (Fig.S9) response curves were set based on the greenhouse and growth chamber studies listed in Table 1. In the case of temperature response, fine adjustments to the edges of the curve where direct empirical data were lacking were implemented to improve overall modeled-vs.-measured yield performance across the full parameterization dataset. Thesame temperature and moisture response curveswereused for both ecotypes. Comparison ofmeasuredandmodeledyield ranges binned by site average growing degree day accumulation (Fig. S1O) or annual precipitation (Fig. S11） verifies that the model accurately captures increasing switchgrass productivity at warmer,wetter sites. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "·Increased belowground partitioning and root turnover - The default parameterization slightly under estimatedbelowgroundbiomass，significantly underestimated observed SOC increases,and overpredicted $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions. A small increasein belowground partitioning coupled with a large increase in root turnover rates resulted in more carbon being cycled into the soil and more mineral N being taken up by the plant, improving model performance on all three criteria. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Model parameterization and validation results for yields and soil GHG fluxes are shown in Fig.2. Suffi cient data was available to perform holdout method independent validation of yield predictions for both the upland and lowland ecotypes (Fig. 2a). The out-of-sample validation root mean square errors (RMSE) are 3.7 and $4 . 1 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ for the upland and lowland ecotypes, respectively，with minimal bias (mean difference of $- 0 . 2$ and $+ 2 . 3 ~ \\mathrm { M g ~ h a } ^ { - 1 } ,$ respectively).When these data are binned by nitrogen fertilizer application rate (Fig.2c) we see that the model is able to capture the general trend toward increased switchgrass productivity with increasing management intensity. In contrast, yield response to land quality was more ambiguous. Neither measured normodeled yields exhibitedaclear relationship with soil texture across the full parameterization and validation dataset (Fig.2d),and the weak trend towardslower yieldsat siteswith higherLCCrating (more marginal) was not replicated in our model (Fig. S12). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Field trial data on soil GHG balance were sparser, and the results presented in Fig. 2b reflect within-sample model performance against the parameterization datasetratherthananindependentvalidation. Observed annual changes in SOC under switchgrass were much larger than measured growing season $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions when compared in $\\mathrm { C O } _ { 2 }$ -equivalent terms.The within-sample RMSE value for the combined SOC and $\\mathrm { N } _ { 2 } \\mathrm { O }$ dataset is $0 . 6 9 \\mathrm { \\ M g C O } _ { 2 }$ eq $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ across the wide range of sites,climates,and nitrogen application rates represented in the underlying studies $( n = 1 9 ,$ Fig.1).Bias calculations show that the model tends to err in the direction of overestimating $\\mathrm { N } _ { 2 } \\mathrm { O }$ and underestimating SOC accumulation, so the resulting predictions of switchgrass GHG balance are somewhat conservative.Additional detail on SOC and $\\mathrm { N } _ { 2 } \\mathrm { O }$ performance is available in Figs S14 and S15. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Landscape designcase study ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Simulated lowland switchgrass yields as a function of nitrogen fertilizer application rate across the 3779 unique DayCent strata in the Hugoton case study area are shown in Fig.3 for both crop land and rangeland conversion,color-coded to the underlying soil texture of each strata.The maximum attainable yield under arbitrarily well-fertilized conditions shows significant variation with soil texture，ranging from more than $1 0 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ in certain clay and sandy soils down to about $6 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 }$ in the more moderate-textured silty soils. In this semi-arid climate of intermittent precipita tion events soil moisture levels are often near wilting point,and simulated average yields reflect a tension between the greater total water holding capacity of finer-textured soils (an advantage during relatively wet years） vs.more effective infiltration and less surface soil evaporation in coarser soils (the so-called 'inverse texture effect'，beneficial during dry years; ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/698c356518bfbdce7cf001436a4bdba5099a2dcf87f93c1e8d456c49c8ebc8b5.jpg",
+        "img_caption": [
+            "Fig.2Parameterizationand validationresults: (a)modeledvs.measured switchgrassbiomassyieldfitsforlowlandecotype within sample ('Low-param', $r = 0 . 1 0 ,$ root mean square error $( \\mathrm { R M S E } ) = 6 . 2 ~ \\mathrm { M g ~ h a ^ { - 1 } } ,$ ，mean difference $( \\mathrm { M D } ) = - 2 . 1 ~ \\mathrm { M g ~ h a } ^ { - 1 } ,$ and out-ofsample ['Low-valid', $r = 0 . 6 6 ,$ $\\mathrm { R M S E } = 4 . 1 \\$ $\\mathrm { M D } = + 2 . 3 ]$ field trial results and upland ecotype within-sample (Up-param', $r = 0 . 3 8 ,$ （20 $\\mathrm { R M S E } = 4 . 0 ,$ （ $\\mathrm { M D } = + 2 . 1$ ）andout-of-sample(Up-valid', $r = 0 . 2 6$ $\\mathrm { R M S E } = 3 . 7 , \\mathrm { M D } = - 0 . 2 )$ results; (b) modeled vs.measured annualized changes in soil organic carbon $( r = 0 . 0 8 \\$ ， $\\mathrm { { R M S E } = 1 . 0 5 ~ M g C O 2 e q ~ h a ^ { - 1 } ~ y r ^ { - 1 } } .$ $\\mathrm { \\bf M D } = + 0 . 4 2 ~ \\mathrm { M g C O 2 e q ~ h a ^ { - 1 } ~ y r ^ { - 1 } } )$ and growing season $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions $( r = 0 . 5 4 , \\mathrm { R M S E } = 0 . 2 2 , \\mathrm { M D } = + 0 . 1 0 )$ ona $\\mathrm { C O } _ { 2 }$ -equivalent basis (combined $r = 0 . 7 9$ RMSE=0.69, $\\mathrm { M D } = + 0 . 2 4 )$ ; (c) measuredandmodeledswichgrassyieldrangesfordiferentlevelsofnitrogenapplicationacrossallparameterizationandvalidation data points;and(d)measuredandmodeledswitchgrassyieldrangesfordiferentsoilsurface textureclassesacrossallparameterization and validation data points. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Noy-Meir，1973;Epstein et al.,1997;Lane etal.，1998). Switchgrass yields on converted rangeland are generally less sensitive to fertilizer application rates than those on converted cropland，in some cases showing no response to increasing N rate. This is due to higher background mineral nitrogen levels from transient soil organic matter turnover following conversion in these areas.However，for most strata,full switchgrass yield potentialisrealizedatNratesfrom60to $1 0 0 \\mathrm { \\ k g N \\ h a } ^ { - 1 } .$ ，as indicated with circular markers in the upper panels of Fig. 3. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e9583abe0d9bf9cb027158c825be6937093b1b01dcbca8521e89f7ec317dd72.jpg",
+        "img_caption": [
+            "Fig.3Simulated yieldandGHGintensityresponse toincreasing nitrogen fertilizerrateforswitchgrass productionoforrcrop landandformerrangelandacrossthe3779distinctDayCentstratainthecasestudylandscape.Interpolatedyieldmaximaand GHG intensityminimaare marked withsolid markersforcroplandconversionandopen markersforrangelandconversion.Thecolorof the lines and markers indicates the soil surface texture of the strata, with yellow $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ sand, red $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ clay, green $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ silt, and brown $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ loam. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "When examining landscape assessment results under different levels of management intensity it is important to note a discrepancy between the metrics of total area GHG emissions or mitigation $\\mathrm { ( M g C O _ { 2 } e q }$ per hectare per year) and the GHG intensity of biomass production $\\mathrm { ( M g C O _ { 2 } e q }$ per $\\mathbf { M g }$ biomass grown).Biomass production GHG intensity results are shown as a function of nitrogen application rate across all simulation strata in the lower panels of Fig.3.For most strata at most nitrogen fertilizer rates,3O year-average soil carbon sequestration outweighs nitrous oxide emissions ona $\\mathrm { C O } _ { 2 }$ equivalent basis. Biomass has the lowest (most negative） direct biogenic GHG footprint when cultivated with no nitrogen fertilizer on previously cropped fine-textured soils due to their high potential for SOC accumulation.This sequestration value is increasingly offset at higher N rates due to marginal soil $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions outpacing corresponding yield and SOC gains. In contrast，rangeland has higher initial SOC levels and thus less capacity for carbon sequestration after conversion to bioenergy feedstock crop ping,which results in an overall net GHG intensity much closer to zero. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Total area biogenic GHG emissions are explored in relation to productivity in Fig.4. Since switchgrass can be managed either to maximize yields or to optimize soil GHG balance (i.e. to maximize soil carbon sequestration while minimizing $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions)，we selected a random $10 \\%$ of the landscape polygons,determined the nitrogen application rate that maximizes yield and the rate that maximizes GHG mitigation for each poly ${ \\mathrm { g o n } } ,$ and aggregated the results for these different management strategies across our landscape sub-sample.The difference between the two curves is representative of the degree to which system productivity and GHG performance can be modulated by adjusting management on the same limited land base.Converting $10 \\%$ of the landscape to switchgrass managed under either strategy results in ${ > } 0 . 7 5$ Mt biomass feedstock production annually,enough material to supply approximately two facilities the size of the Abengoa biorefinery，with the associated net GHG impact of sequestering ${ > } 0 . 0 6$ Mt (60 000 metric tons） of $\\mathrm { C O } _ { 2 }$ .Figure 5 illustrates that the optimal switchgrass management intensity for maximum GHG mitigationis related to the distribution of soil types and current land use across the case study area,factors that are also correlated with one another as conventional crop ping tends to be concentrated on the moderate textured soils of this landscape. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Sensitivity analysis ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our modeled landscape productivity and GHG balance are highly sensitive to certain key crop model parameters,particularly optimal growth temperature,potential NPP,and response to moisture stress (Table 4),highlighting the importance of careful parameterization and validation.While the first two parameters were reasonably well constrained as a result of the switchgrass parameterization process,empirical data on switchgrass moisture stress in the literature is rare,and uncertainty around those parameters in the model should be considered large. Interestingly，the aggregate landscape simulation results show little sensitivity to the length of the switchgrass growing season in early spring and late fall,even though accurate characterization of the phenology proved essential for determining crop parameter sets with adequate out-of-sample validation perfor mance.Accurate characterization of the landscape in terms of climate and land-use history is important to the integrity of simulation results as well,with GHG mitigation particularly sensitive to past land-use history.Landscape results were generally less sensitive to crop management scenario assumptions around tillage intensity and fertilizer timing. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Challenges of model development and data-diverse parameterization ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was grounded in an extensive model parameterization and validation effort using a data-diverse multi-criteria approach enabled by automation of all simulation runs and results analyses.The diversity of studies included in our switchgrass field trial dataset was intended to provide a highly general test of model performance independent of a single study，environment,or management practice,and the simultaneous consideration of different types of data(Table 1）was designed to ensure that accuracy of one model performance criteria was never improved at the expense of others.This approach proved useful for sorting out interrelated model responses, for example, the strong effects of belowground partitioning and root turnover rate parameters on harvested biomass yield，SOC changes,and $\\mathrm { N } _ { 2 } \\mathrm { O }$ rates that must be balanced in a systematic manner during model parameterization. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/11906a4c64c65e956ec228bf3904ba36c22b9253c1e6f2803ee537f8a9bed18d.jpg",
+        "img_caption": [
+            "Fig.4 Cumulative total soil GHG mitigation vs. cumulative switchgrass biomass production for a random $10 \\%$ of the case study landscape under different management goals: managing each land parcel to maximize switchgrass yields (dashed line, highest-productivity sites aggregated first),or managing each land parcel to maximize ecosystem GHG mitigation (solid line, strongest mitigation sites aggregated first). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our resulting model explains approximately half of the observed variability in yield and GHG observations in our dataset,and realistically captures climate effects and responses to management intensity.While soil type has been observed to have an effect on bioenergy grass productivity in semi-arid climates outside the U.S. (Di Virgilio et al.,2007;o Di Nasso et al.,2015;Roncucci et al.,2015),we did not observe a strong texture signal in our domestic switchgrass productivity dataset, consistent with a similar previous large-scale model parameterization effort (Wullschlegeret al.，201O).Future modeling work on soil-climate interactions in the U.S. would greatly benefit from additional field trails like Wilson et al. (2014) that include paired trails across multiple soil types on a landscape,in order to tease apart soil-precipitation interactions without the other larger sources of variabilitypresent in composite datasets. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "While we believe the approach presented here represents an improvement over more limited model parameterizationefforts，itisstillpossibletooverparameterize to a dataset of this size and achieve good fits via unrealistic mechanisms that do not translate well out-of-sample.In our experience,reliable yield performance was only achieved once crop phenology was adequately captured. This parameterization dependency is somewhat challenging,as there are a limited number of studies in the literature reporting detailed phenology in the form required for this type of generalized modeling effort (i.e. dates for green-up and peak biomass or senescence as a function of crop cultivar and site latitude).Additionally, since maturation dates can vary sig nificantly even for cultivars within a single ecotype (Frank et al., 2004), focusing on only two ecotype groupings introduces additional errors.Accurate representation of phenology can be superseded to a certain extent bynarrowing crop temperature response curves to truncate early and late-season productivity,but our initial parameterization efforts in this direction performed verypoorlyonvalidation. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "After several dozen parameter set iterations we were approaching the limit of what could be accomplished with setting parameter values manually，as model responses became more subtle and antagonistic across the different performance criteria. This,coupled with the relatively large number of crop parameters in the DayCent model, suggests that future efforts could benefit greatly from systematic parameter optimization techniques such as inverse modeling and/or $\\kappa$ -fold cross validation. Such techniques provide a more systematic and transparent approach, facilitate maximum extraction of information from a field trial dataset,and help to identify and avoid over-parameterization issues.While inverse modeling techniques have been demonstrated to improve model performance against small datasets (Necpalova et al.,2015),they are not commonly applied to crop growth and biogeochemistry models used in bioenergy sustainability analysis at the scale of a full parameterization and validation effort such as the one presented in this study. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/457239d2ef02823f12a475bbfd5b6174d238fcbb3eb3b1ed656a182e0d03dcee.jpg",
+        "img_caption": [
+            "Fig.5Mapilustrating(a)soiltexuredistribuion,(b)currentlanduse,and(c)theswchgassnrogenfertilizeraplationates asociatedwithmaximumareaGHGtigation(sopposedtoiomasGGintensityexploredinFig3),forallon-fderao gatedcroplandandrangelandacrosstheHugotoncasestudyarea.Aerialimageryisincludedasabackgroundlayerforscaleand the boundaryof the7-countycase study area is shown in white with the biorefinery location marked with a yellow star. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "More broadly，model performance is dependent on underlying model structure in addition to parameterization，and DayCent model development effortsto improve its performance in perennial grass systems are ongoing.For example,accurate yield estimates depend on capturing crop phenology and canopy dynamics, and efforts are underway to represent early-season leaf canopy closure and late-season senescence dynamics more realistically. Similarly,while past model development efforts have largely focused on the upper $0 { - } 2 0 ~ \\mathrm { c m }$ soil layer most relevant for annual crops, representation of soil carbon changes under perennial grasses may be improved through more explicit simulation of deep rooting,dissolved organic carbon movement,and other aspects of soil organic matter dynamics deeper in the soil profile (Campbell, 2015). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Landscape design case study interpretation and climate accounting issues ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Hugoton case study site was selected because it featured the most heterogeneity in soils and current land use among the first three commercial-scale cellulosic biorefinery sites in the U.S.(the other two being located in the Iowa corn belt; Peplow,2014).However, the dry climate at this site proved challenging from a modeling perspective,with landscape simulation results showing high sensitivity to interactions between crop moisture stress parameterization and soil texture,and with $\\mathrm { N } _ { 2 } \\mathrm { O }$ response to increasing N rate lower than what might be expected in a wetter climate.Overall，our landscape simulation results are similar to others in the literature that find the GHG balance of perennial grasses dominated by soil carbon sequestration immediately postestablishment，with only modest $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions (e.g. Gelfand et al.,2013).In field trialswhere baseline $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission rates are reported and an Intergovernmental Panel on Climate Change (IPCC) Tier1 estimate can be made，observed switchgrass $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions rates are often near or below the lower bound of the IPCC $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions factor range $( 0 . 3 - 3 \\%$ fertilizer $\\mathrm { \\Delta N }$ emitted as $N _ { 2 } O - N$ ；Fig. S15). This suggests that switchgrass is an efficient nitrogen cycler,and that the critique of biofuel ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6e71b0ec3273df72346cceca2f08571adfe2f69c373711834fffb6623cb3e1a.jpg",
+        "table_caption": [
+            "Table 4 Sensitivity analysis "
+        ],
+        "table_footnote": [
+            "GHG,greenhouse gas; NARR,North American Regional Reanalysis. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameter orassumption</td><td>Change</td><td>Change in total landscape productivity</td><td>Change in total landscape GHG mitigation</td></tr><tr><td colspan=\"4\">Baseline average landscape performance</td></tr><tr><td colspan=\"4\">Yield = 7.24 Mg ha-1 yr</td></tr><tr><td colspan=\"4\">GHG mitigation = 0.76 Mg COzeq ha-1 yr-1</td></tr><tr><td>DayCent crop parameterization</td><td></td><td></td><td></td></tr><tr><td>Optimal temperature</td><td>IncreasePPDF(1) by3degrees</td><td>-21%</td><td>-42%</td></tr><tr><td>Productivity potential Moisture sensitivity</td><td>Decrease PRDX(1) value by 10% Switch to the default</td><td>-9.4% -1.1%</td><td>-18% +8.6%</td></tr><tr><td></td><td>curve associated with annual crops</td><td></td><td></td></tr><tr><td>Root death rates</td><td>Decrease RDRJ and RDRM by 10%</td><td>+0.11%</td><td>+0.60%</td></tr><tr><td>Phenology</td><td>Decrease growing season length by 15 days</td><td>+0.49%</td><td>-0.41%</td></tr><tr><td colspan=\"4\">Site characterization</td></tr><tr><td>Land-use history</td><td>Assume a uniform cropped history rather than a mix of cropped and grazed</td><td>+5.0%</td><td>+29%</td></tr><tr><td>Climate</td><td>Assume the NARR weather for Hugoton for the entire 7-county study area</td><td>-4.2</td><td>-9.6%</td></tr><tr><td colspan=\"4\">Agronomic management Fertilizer date</td></tr><tr><td></td><td>Assume fertilizer application 1 month earlier</td><td>+0.11%</td><td>+1.5%</td></tr><tr><td>Tillage intensity</td><td>Switch to no-till crop establishment</td><td>+0.13%</td><td>+0.97%</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "GHG mitigation benefits being outweighed by direct and indirect $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions (Crutzen et al.，2008）is likely overstated for second-generation perennial grass feedstocks.Our predicted SOC sequestration rates after cropland conversion are very similar to median metaanalysis results in Qin et al.(2015a),while the finding of a small net positive sequestration with the conversion of grassland is consistent with,but on the optimistic edge of, their observed range. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Full quantification of the confidence interval around these landscape assessment results is highly challenging due to multiple levels of uncertainty in problem specification，landscape input data，model structure，and model parameterization (Walker et al., 2003).While previous work has shown that uncertainty in DayCent-estimatedchanges in SOC is dominated by model structural uncertainty (Ogle et al.,201O),repeating this empirical uncertainty assessment approach here is impractical as only one of the 145 treatments in our parameterization and validation dataset includes data forall three of the factors that determine biomass GHG intensity (yield, SOC change,and $N _ { 2 } O ;$ Fig. 1). Here we rely on sensitivity analysis to identify priorities for future model improvement efforts. When discussing model sensitivity and uncertainty issues itis also impor tant to be cognizant of issues in the underlying field trial datasets.Field measurements of $\\mathrm { N } _ { 2 } \\mathrm { O }$ are very challenging due to emissions variability on extremely fine spatial (Li et al.，2013) and temporal (Jorgensen et al., 2012;van der Weerden et al.,2013) scales,and studies based on samplingat weekly or every-other-week frequency (as was the case for all $\\mathrm { N } _ { 2 } \\mathrm { O }$ studies in our dataset）are vulnerable to systematic biases of up to $2 0 \\%$ and $6 0 \\%$ ,respectively (Parkin,2008; Smemo et al.,2011). Additionally,small-scale field trials do not necessarily reflect imperfections in agronomic management (e.g uneven fertilizer application） and real-world harvest losses，possibly introducing a systematic over-estimation of switchgrass productivity (Searle & Malins, 2014). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Finally, there are several issues around climate impact accounting relevant to this landscape study.While soil carbon sequestration will eventually attenuate even though $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions will persist for as long as N fertilizer is being applied (Sheehan et al.,20o3;Adler et al., 2007),our assessment for this semi-arid system suggests it will take 6O-8O years for annual sequestration and $\\mathrm { N } _ { 2 } \\mathrm { O }$ rates to reach parity (Fig. S17).A more dynamic climate impact accounting approach that takes transient forcing benefits into account (e.g. Holtsmark，2015) would tend to further weight near-term SOC benefits against future $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions,though no standardized accounting approach is yet widely accepted (U.S. Environmental Protection Agency,2014b). The current study is also somewhat limited in focusing on the climate impacts of biomass feedstock production froma purely biogeochemical perspective,ignoring potential biophysical impacts such as changes in surface albedo or evapo transpiration and water dynamics that are significant in some bioenergy production scenarios (Munoz et al., 2010；Georgescu et al.，2011； Cherubini et al.，2012; Caiazzo et al.,2014),and ignoring any potential broader impacts on other ecosystem services (Chamberlain & Miller，2012).Additionally，future changes to atmospheric $\\mathrm { C O } _ { 2 }$ concentrations and climate are not considered here,though they may have large repercussions forlandscape design (Bryan et al.,201O).The ability of current ecosystem models to accurately extrapolate to such future conditions is an active area of investigation (De Kauwe et al.，2013).Additional sensitivity analysis on these points would improve our understanding of bioenergy landscape performance potential,and highlight priorities for futureresearch efforts. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by a USDA/NIFA project Decision support tool for integrated biofuel greenhouse gas emission footprints' (grant # 2011-67009-30083),an NSF IGERT fellowship through the Multidisciplinary Approaches to Sustainable Bioenergy program at Colorado State University,and an NSF REU fellowship and graduate Chevron fellowship through the Colorado Center for Biorefiningand Biofuels (C2B2).We would like to thank Jacqueline Marquez for her assistance in identifyingand coding switchgrass field trial papers,Matthew Stermer for helping quality-controlling this dataset,Kendrick Killian and Ty Boyak for their advice on developing model automation and analysis code,Jill Schuler for her GIS contribution,Jeff Kent for help with DayCent growth submodel performance visualization,and Yao Zhang for his insights on crop model performanceindryclimates. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "110th Congress of the United States (2O07) Energy Independence and Security Act of 2007.   \nAbodeely JM,Muth DJ,Koch JB,BrydenKM(2013)A model integration framework for assessing integrated landscape management strategies. In: Environmental Software Systems.FosteringInformationSharing,Vol413(edsHrebicekJ,SchimakG,Kubasek M,Rizzoli AE),pp.121-128.Springer Berlin Heidelberg,Berlin,Heidelberg.   \nAdler PR, Sanderson MA, Boateng AA,Weimer PJ, Jung H-JG (2006) Biomass yield and biofuel quality of switchgrass harvested in fall or spring.Agronomy Journal, 98, 1518-1525.   \nAdler PR, Del Grosso SJ,Parton WJ (2007) Life-cycle assessment of net greenhousegas flux for bioenergy cropping systems. Ecological Applications,17, 675-691.   \nAnderson CJ,Anex RP,Arritt RW,Gelder BK,Khanal S,Herzmann DE,Gassman PW(2013) Regional climate impacts of a biofuels policy projection.Geophysical Research Letters, 40, 1217-1222.   \nAnderson-Teixeira KJ,Duval BD, Long SP,DeLucia EH (2012) Biofuels on the landscape:is\"land sharing\"preferable to \"land sparing\"? Ecological Applications,22, 2035-2048.   \nAnderson-Teixeira KJ,Masters MD, Black CK,Zeri M,Hussain MZ, Bernacchi CJ, DeLucia EH (2013) Altered belowground carbon cycling following land-use change to perennial bioenergy crops.Ecosystems,16,508-520.   \nArundale RA,Dohleman FG,Voigt TB,Long SP(2014a) Nitrogen fertilization does significantly increase yields of stands of Miscanthus $\\times$ giganteusand Panicum virgatuminmultiyear trialsin Illinois.BioEnergy Research,7,408-416.   \nArundale RA,Dohleman FG,Heaton EA,Mcgrath JM,Voigt TB,Long SP (2014b) Yields of Miscanthus $\\times$ giganteus and Panicum virgatum decline with standage in the Midwestern USA.GCB Bioenergy,6,1-13.   \nBalasko JA,Smith D (1971) Influence of temperature and nitrogen fertilization on the growth and composition of switchgrass (Panicum virgatum L.） and timothy (Phleum pratense L.) at anthesis.Agronomy Journal, 63,853-857.   \nBandaru V,IzaurraldeRC,Manowitz D,Link R, Zhang X,Post WM(2013) Soil carbon change and net energy associated with biofuel production on marginal lands: aregional modeling perspective. Journal of Environmental Quality,42,1802-1814.   \nBehrmanKD,KeittTH,KiniryJR (2014) Modelingdiferentialgrowth inwitchgrass cultivars across the Central and Southern Great Plains. BioEnergy Research,7, 1165-1173.   \nBerdahl JD,Frank AB, Krupinsky JM, CarrPM,Hanson JD,Johnson HA(2005) iomass yield, phenology,and survival of diverse switchgrass cultivars and experimental strainsinwesternNorthDakota.AgronomyJournal,97,5495.   \nBonin CL,Lal R (2014) Aboveground productivity and soil carbon storage of biofuel crops in Ohio. GCB Bioenergy,6,67-75.   \nBorowski S(2012) Idea for “fracking\"came from Civil War battlefield.AAAS MemberCentral.Availableat:http://membercentral.aaas.org/blogs/scientia/ideafracking-came-civil-war-batlefield (accessed 17November 2015).   \nBoyer CN,RobertsRK,English BC,Tyler DD,Larson JA,Mooney DF (2013) Effects of soil type and landscape on yield and profit maximizing nitrogen rates for switchgrass production. BiomssandBioenergy,48,33-42.   \nBryan BA,King D,Wang E (201o) Biofuels agriculture: landscape-scale trade-offs between fuel,economics,carbon,energy,food,and fier.GCB Bioenergy,2,345.   \nCai $\\scriptstyle \\mathbf { X } ,$ Zhang $x ,$ Wang D (2011) Land availability for biofuel production. Environmental Science $\\mathcal { E }$ Technology,45,334-339.   \nCaiazzo F,MalinaR,Staples MD,Wolfe PJ, Yim SHL,Barret SRH(2014) Quantifying the climate impacts of albedo changes due to biofuel production: a comparison with biogeochemical effects.Environmental Research Letrs,9,024015.   \nCampbell EE (2015) Modeling soil organic matter: theory,development, and applications in bioenergy cropping systems.PhD Dissertation. Colorado State University, Fort Collins, CO, USA.   \nCampbellJE,Lobell DB,Genova RC,Field CB (2008) The global potential of bioenergy on abandoned agriculture lands.Environmental Science& Technology,42, 5791-5794.   \nCasler MD (2012) Switchgrass breeding,genetics,and genomics.In: Green Energy and Technology (ed Monti A),pp.29-53.Springer London,Lodon.   \nCasler MD,Vogel KP,Taliaferro CM,Wynia RL (2004) Latitudinal adaptation of switchgrass populations.Crop Science,44,293-303.   \nCaslerMD,VogelKP,TaliferroCetal.(o)Latitudinalandongitudialdap tation of switchgrass populations.Crop Science,47,2249-2260.   \nCassida KA, Muir JP,Hussey MA,Read JC,Venuto BC,Ocumpaugh WR (2005) Bimass yield and stand characteristics of switchgrass in South Central U.S.Environments. Crop Science,45,673-681.   \nChamberlain JF,Miller SA (2012)Policy incentives for switchgrassproduction using valuation of non-market ecosystem services.Energy Policy,48,526-536.   \nChamberlain JF,Miller SA,Frederick JR (2011) Using DAYCENT to quantify on-farm GHG emissions and N dynamics of land use conversion to N-managed switchgrass in theSouthern U.S.Agriculture,Ecosystems $\\mathcal { E }$ Environment,141,2.   \nCherubini F, Bright RM, Stromman AH (2012) Site-specific global warming potentials of biogenic CO2 for bioenergy: contributions from carbon fluxes and albedo dynamics.Enoironmental ReseachLetters,7,045902.   \nCrutzen PJ,Mosier AR,Smith KA,Winiwarter W (2008) NO release from agro-biofuel production negates global warming reduction by replacing fossil fuels. Atmo spheric ChemistryandPhysics,8,389-395.   \nDavis SC,Parton WJ, Del Grosso SJ, Keough C,Marx E,Adler PR, DeLucia EH (2012) Impact of second-generation biofuel agriculture on greenhouse-gas emissions inthecorn-growingregionsof theUS.Frontiers in Ecologyandthe Environment,10, 69-74.   \nDavis SC,Boddey RM,Alves BJRet al.(2013)Management swing potential for bioenergy crops. GCB Bioenergy,5,623-638.   \nDe Kauwe MG, Medlyn BE, Zaehle Set al. (2013)Forest water use and water use efficiency at elevated CO2: amodel-data intercomparisonat two contrasting temperate forestFACE sites.Global Change Biology,19,1759-1779.   \nDel Grosso SJ,Parton WJ, Mosier AR,Ojima DS,Kulmala AE,Phongpan S (2000) General model for $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\Nu _ { 2 }$ gas emissions from soils due to dentrification. Glnhal Rinopnrhpmical Curles 14 1045-1060 features of the DayCent modeling package and additional procedures for parameterization, calibration,validation,and applications.In:Aduances in Agricultural Systems Modeling (eds Ahuja LR,Ma L),pp.155-176.American Societyof Agronomy,Crop Science Society of America, Soil Science Society of America,Madison, WI.   \no Di Nasso NN,Lasorella MV,Roncucci N,Bonari E(2015)Soil textureand crop management afect switchgrass (Panicum virgatum L.) productivity inthe Mediterranean.IndustrialCropsandProducts,6,-6.   \nDi Virgilio N,Monti A, Venturi G (2007) Spatial variability of switchgrass (Panicum virgatumL.）yield as related tosoil parameters inasmall field.Field Crops Research,101,232-239.   \nDohleman FG,Heaton EA,Arundale RA,Long SP (2012) Seasonal dynamics of above-and below-ground biomass and nitrogen partitioning in Miscanthus $\\times$ （204 giganteus and Panicum virgatum across three growing seasons. GCB Bioenergy,4, 534–544.   \nDuval BD,Anderson-Teixeira KJ, Davis SC,Keogh C, Long SP,Parton WJ,DeLucia EH (2013) Predicting greenhouse gas emissions and soil carbon from changing pasture to an energy crop.PLoS ONE,8,e72019.   \nEgbendewe-Mondzozo A,Swinton SM, Izaurralde CR,Manowitz DH, Zhang X(2011) Biomass supply from alternative cellulosic crops and crop residues: a spatially explicit bioeconomic modeling approach. Biomass and Bioenergy,35,4636-4647.   \nEpstein HE, Lauenroth WK, Burke IC (1997) Effects of temperature and soil texture on ANPP inthe U.S.GreatPlains.Ecology,78,2628-2631.   \nErnstrom DJ,Lytle D (1993)Enhanced soils information systems from advances in computer technology. Geoderma,60,327-341.   \nFike JH,Parrish DJ,Wolf DD,Balasko JA,Green JT Jr,Rasnake M,Reynolds JH (2006) Switchgrass production for the upper southeastern USA: influence of cultivarand cutting frequency on biomassyields.Biomassand ioenergy,30,207-213.   \nFollett RF,VogelKP,Varvel GE,MitchellRB,KimbleJ(2012)Soil carbonsequestration by switchgrass and no-till maize grown for bioenergy. BioEnergy Research,5, 866-875.   \nForster P,Ramaswamy V,ArtaxoPet al. (2oo7)Changes inatmospheric constituents andin radiative forcing.In: Climate Change 2Oo7:The Physical Science Basis.Contributionof Working GroupIto theFourth Assessment Reportof the Intergovernmental Panel on Climate Change (eds Solomon S,Qin D,Manning M et al.).Cambridge University Press,Cambridge,United Kingdom and New York,NY, USA.   \nFrank AB,Berdahl JD,Hanson JD,Liebig MA,Johnson HA (2004) Biomass andcarbon partitioning in switchgrass.Crop Science,44,1391-1396.   \nFuentes RG, Taliaferro CM (2002) Biomass yield stability of switchgrass cultivars. In: Trends in New Crop and New Uses (eds Janick J, Whipkey A),pp.276-282.ASHS Press,Alexandria, Virginia.   \nGelfand I SajpalR,Zng X,uradeRCGross KL,RobertsonGP)us tainable bioenergy production from marginal lands in the US Midwest.Nature, 493, 514–517.   \nGeorgescu M, LobellDB,Field CB (2011)Direct climate efectsof perennial bioenergycrops in the United States.Proceedings of theNational Academy of Sciences,108, 4307-4312.   \nHallgren W,SchlosserCA,MonierE,KicklighterD,SokolovA,MelilloJ(3)Climate impacts of a large-scale biofuels expansion. Geophysical Research Letters, 40, 1624-1630.   \nHeaton EA, Dohleman FG, Long SP (2008) Meeting US biofuel goals with less land: the potential of Miscanthus.GlobalChange Biology,14,002014.   \nHelms D (1992) Readings in the History of the Soil Conseruation Service.Soil Conservation Service,Washington,DC,pp.60-73.   \nHoben JP,Gehl RJ,Millar N,Grace PR,Robertson GP (2011) Nonlinear nitrous oxide （204号 $\\left( \\mathrm { N } _ { 2 } \\mathrm { O } \\right)$ response to nitrogen fertilizer in on-farm corn crops of the US Midwest. Global ChangeBology,7,   \nHoltsmark B(2015)Quantifying the global warming potential of $\\mathrm { C O } _ { 2 }$ emissions from wood fuels.GCB Bioenergy,7,195-206.   \nHong CO, Owens VN, Schumacher T, Clay D,Osborne S,Lehman M, Schumacher J (2012)Nitrogen losses from switchgrass as affected by nitrogen fertilizer rate. In: ProceedingsfromSun GrantNational Conference:Science for BiomassFeedstock Productionand Utilization,pp.183-190.New Orleans,LA.Available at: http://sungrant.tennessee.edu/NatConference/ConferenceProceedings/ (accessed 17 November 2015).   \nHopkins AA,VogelKP,Moore KJ,Johnson KD,Carlson IT(1995)Genotypic variabilityand genotype $\\times$ environment Interactions among switchgrass accessions from the midwestern USA. Crop Science,35,565-571.   \nHsu FH,Nelson CJ,Matches AG (1985) Temperature effects on seedling developmentof perennial warm-season forage grasses.Crop Science,25,249-255.   \nHudiburg TW,Davis SC,Parton W,Delucia EH (2015) Bioenergy crop greenhouse gas mitigation potential under a range of management practices.GCB Bioenergy, 7, 366–374.   \nJain AK, Khanna M, Erickson M, Huang H (2010)An integrated biogeochemical and economic analysis of bioenergy crops in the Midwestern United States.GCB Bioenergy,2,217-234.   \nJorgensen CJ, Struwe S, Elberling B (2012) Temporal trends in $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux dynamics in a Danish wetland-efects of plant-mediated gas transport of $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { O } _ { 2 }$ following changes in water level and soil mineral-Navailability.Global Change Biology, 18, 210-222.   \nKandel TP,Wu Y,Kakani VG (2013) Growth and yield responses of switchgrass eco types to temperature.American Journal of Plant Sciences,4,1173-1180.   \nKang S,NairSS,Kline KL etal. (2014) Global simulationof bioenergy crop productivity:analytical frameworkand casestudy for switchgrass.GCB Bioenergy,6,4-25.   \nKansas Historical Society (2014) Dust clouds rolling over the prairies,Hugoton, Kansas. Kansas Memory.   \nKering MK, Butler TJ, Biermacher JT,Guretzky JA (2012) Biomass yield and nutrient removal rates of perennial grasses under nitrogen fertilization.BioEnergy Research, 5, 61-70.   \nKim S, Dale BE (2oo5) Environmental aspects of ethanol derived from no-tilled corn grain: nonrenewable energy consumption and greenhouse gas emissons. Biomass and Bioenergy,28,475489.   \nLane DR,Coffin DP,Lauenroth WK (1998)Effects of soil texture and precipitation on above-ground net primary productivity and vegetation structure across the Central Grassland region of the United States.Journal of Vegetation Science,9,239- 250.   \nLee JPedroso G, Linquist BA,Putnam D,van Kessel C, Six J(2012) Simulating switchgrass biomass production across ecoregions using the DAYCENT model. GCB Bioenergy,4,521-533.   \nLesurC,Jeuffroy M-H,Makowski Det al. (2013) Modeling long-term yield trends of Miscanthus $\\times$ giganteus using experimental data from across Europe.Field Crops Research,149,252-260.   \nLiY,Fu X,Liu X et al. (2013) Spatial variability and distribution of $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions from a tea field during the dry season in subtropical central China.Geoderma, 193–194, 1–12.   \nLiebig MA,SchmerMR,VgelKP,MitchellRB(2008)Soilcarbonstoragebyswitch grass grown for bioenergy. BioEnergy Research,1,215-222.   \nMa Z,Wood C, Bransby D (20o1) Impact of row spacing, nitrogen rate,and time on carbon partitioning of switchgrass.Biomassand Bioenergy,20,413-419.   \nMesinger F,DiMego G,Kalnay Eet al.(2006)North American regional reanalysis. Bulletin of theAmericanMeteorological Society,87,34-60.   \nMiguezFE,Maughan M, Bollero GA,Long SP (2012) Modeling spatial and dynamic variation in growth,yield,and yield stability of the bioenergy crops Miscanthus $\\times$ giganteus and Panicum virgatum across the conterminous United States. GCB Bioenergy,4,509-520.   \nMooney DF,Roberts RK,English BC,Tyler DD,Larson JA (2009) Yield and breakeven price of \"Alamo\" switchgrass for biofuels in Tennessee.Agronomy Journal, 101, 1234–1242.   \nMuir JP,Sanderson MA,Ocumpaugh WR,Jones RM, Reed RL (2001) Biomass production of “Alamo\" switchgrass in response to nitrogen,phosphorus,and row spacing. Agronomy Journal, 93,896-901.   \nMulkey VR,Owens VN,Lee DK (2006) Management of switchgrass-dominated Conservation Reserve Program lands for biomass production in South Dakota. Crop Science,46,712-720.   \nMunoz I, Campra P,Fernandez-Alba AR (2010) Including CO2-emission equivalence of changes in land surface albedo in life cycle assessment.Methodology and case study on greenhouseagriculture.The International Journal of LifeCycle Assssment, 15, 672-681.   \nNair SS,Kang S,Zhang $x$ et al. (2012) Bioenergy crop models: descriptions,data requirements,and future challenges. GCB Bioenergy,4,620-633.   \nNecpälova M,Anex RP,Fienen MN et al. (2015) Understanding the DayCent model: calibration,sensitivity,and identifiabilitythrough inverse modeling.EnuironmentalModelling $\\boldsymbol { \\mathscr { E } }$ Software,66,110–130.   \nNikiema P,Rothstein DE,Min D-H,Kapp CJ (2011) Nitrogen fertilizationof switchgrass increases biomass yield and improves net greenhouse gas balance in northern Michigan, U.S.A.Biomassand Bioenergy,35,4356-4367.   \nNoy-Meir I (1973) Desert ecosystems: environment and producers. Annual Review of Ecology and Systematics,4,25-51.   \nOgle SM, Breidt FJ, Easter M, Williams S,Killian K,Paustian K (2010) Scale and uncertainty in modeled soil organic carbon stock changes for US croplands using a nrocess-hased model. Glohal Chanoe Binloou.16.810-822. oxide emissons.Journal of Enironmental Quality,37,390-1395.   \nParton WJ,Schimel DS,ColeCV,OjimaDS (1987)Analysis of factors controling soil organic matter levels in Great Plains grasslands.Soil Science Society of America Journal,51,1173-1179.   \nParton WJ,Hartman M,Ojima D,Schimel D(1998) DAYCENTand its land surface submodel: description and testing. Global and Planetary Change,19,35-48.   \nParton WJ,Holland EA,Grosso SJD et al. (2001) Generalized model for NOx and NO emissions from soils. Journal of Geophysical Research,106,17403-17419.   \nPearsonCH(2004)Pasture grasspecies evaluationatfruita1995-2001.In:Colorado ForageResearch 2oo3:Alfalfa,IrrigatedPastures,andMountainMeadows (edsBrummer JE,Pearson CH),pp.65-70.Agricultural Experiment Station and Cooperative Extension Technical Bulletin TB04-01,Colorado State University,Fort Collins, CO.   \nPedroso GM,van Kessel C,Six J,Putnam DH, Linquist BA (2014) Productivity,15N dynamics and water use eficiency in low- and high-input switchgrass systems. GCB Bioenergy,6,704-716.   \nPeplow M(2014) Cellulosic ethanol fights for life.Nature, 507,152-153.   \nPersson T,Ortiz BV,Bransby DI, Wu W,Hoogenboom G (2011) Determining the impact of climate and soil variability on switchgrass (Panicum virgatum L.) production in the south-eastern USA;a simulation study.Biofuels,Bioproducts and Biorefining,5,505–518.   \nPervezMS,rowJF2010)Mappingrgatedlandsat50-msalebyrging MODIS dataand nationalagricultural statistics.Remote Sensing,2,2388-2412.   \nPyorala P,Peltola H, Strandman H,Antti K,Antti A, Jylhä K,Kellomaki S (2014) Effects of management on economic profitability of forest biomass production and carbon neutrality of bioenergy use in Norway spruce stands under the changing climate.BioEnergy Research,7,279-294.   \nQin Z,Dunn JB,Kwon H,Mueler S,Wander MM(2015a)Soil carbon sequestration and land use change associated with biofuel production: empirical evidence. GCB Bioenergy,doi:10.111/gcbb.12237.   \nQin Z, Zhuang $\\scriptstyle \\mathrm { Q } ,$ CaiX(2015b) Bioenergy crop productivity and potential climate change mitigation from marginal lands in the United States:an ecosystem modeling perspective. GCB Bioenergy,7,1211-1221.   \nReddy KR,Matcha SK, Singh SK,Brand D, Seepaul R (2oo8) Quantifying the effects of temperature and nitrogen on switchgrass growth and development. In: Presentationtothe38th Biological Systems Simulation Modeling Meeting Conference,Temple TX，USA.Available at http://www.spar.msstate.edu/Files/BSSG_2008_Reddy_KR.pdf (accessed 17 November 2015).   \nRobertson GP,Dale VH,Doering OC et al. (20o8) Sustainable biofuelsredux.Science, 322, 49–50.   \nRobertson GP,Hamilton SK,Del Grosso SJ,Parton WJ(2011) The biogeochemistry of bioenergy landscapes:carbon,nitrogen,and water considerations.Ecological Applications,21,1055167.   \nRobertson AD,DaviesCA,Smith P,Dondini M, McNamara NP (2015) Modelling thecarbon cycle of Miscanthus plantations: existing models and the potential for their improvement. GCB Bioenergy,7,405-421.   \nRoncucci N,o Di Nasso NN,Bonari E,Ragaglini G (2015) Influence of soil texture and crop management on the productivity of miscanthus (Miscanthus $\\times$ giganteus GreefetDeu)ineeianGoeney9.   \nRoth B,Finnan JM,JonesMB,BurkeJI, WillamsML(2015)Are the benefits of yield responses to nitrogen fertilizer application in the bioenergy crop Miscanthus $\\times$ giganteus ofset by increased soil emissions of nitrous oxide? GCB Bioenergy,7,145–152.   \nSanderson MA (1992) Morphological development of switchgrass and kleingrass. Agronomy Journal,84,415-419.   \nSanderson MA,WestCP,Moore KJ,StroupJ Moravec J(1997) Comparisonof morphological development indexes for switchgrass and bermudagrass. Crop Science, 37, 871-878.   \nSaxton KE,RawlsWJ,Romberger JS,Papendick RI (1986) Estimating generalized soil-water characteristics from texture.Soil Science Society of America Journal,50, 1031-1036.   \nSchmer MR,Vogel KP,MitchellRB,Perrin RK(2008)Net energyofcellulosic ethanol fromswitchgrass.Proceedings of theNational Academy of Sciences,1o5,464-469.   \nSchmer MR,Liebig MA,Hendrickson JR,Tanaka DL,Philips RL (2012)Growing season greenhouse gas flux from switchgrass in the northern great plains. Biomass and Bioenergy,45,315-19.   \nSearchingerT,Heimlich R,HoughtonRAet al.(2008) Use of US croplands for biofuels increases greenhouse gases through emissions from land-use change. Science, 319, 1238-1240.   \nSearle SY,Malins CJ (2014)Willenergy crop yields meet expectations? Biomass and Bioenergy, 65,3–12. response of soil nitrous oxide $\\left( \\mathrm { N } _ { 2 } \\mathrm { O } \\right)$ emissions to fertilizer nitrogen.Proceedings of the National Academy of Sciences,111,9199-9204.   \nSheehan J,Aden A,Paustian K,Killian K, Brenner JWalsh M,NelsonR (2003) Energyand environmental aspects of using corn stover for fuel ethanol. Journal of Industrial Ecology,7,117-146.   \nShield IF,Barraclough TJP,Riche AB,Yates NE (2012) The yield response of the energy crops switchgrass and reed canary grass to fertiliser applications when grown ona low productivity sandy soil. Biomassand Bioenergy,42,86-96.   \nSmemo KA, Ostrom NE,Opdyke MR, Ostrom PH, Bohm S,Robertson GP (2011) Improving process-based estimates of $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions from soil using temporally extensive chamber techniques and stable isotopes.Nutrient Cycling in Agroecosystems, 91, 145–154.   \nSmith J,Smith P,Addiscot T(1996)Quantitative methods to evaluate andcompare Soil Organic Mater (SOM) models.In: Eualuationof Soil Organic Matter Models (eds Powlson DS,Smith P,Smith JU),pp.181-199.Springer Berlin Heidelberg, Berlin, Heidelberg.   \nSmith CM,David MB,Mitchell CA,Masters MD,Anderson-Teixeira KJ, Bernacchi CJ, DeLucia EH (20l3) Reduced nitrogen losses after conversion of row crop agriculture to perennialbiofuel crops.Journalof Enuironmental Quality,42,219-228.   \nStaley TE, Stout WL, Jung GA (1991) Nitrogen use by tallfescue and switchgrass on acidic soils of varying water holding capacity. Agronomy Journal,83,732-738.   \nSwintonSM,BabcockBA,James LK,Bandaru V(2011)HgherUSroppricestrgger litle area expansion so marginal land for biofuel crops is limited.Energy Policy, 39,5254–5258.   \nThomas ARC,Bond AJ,Hiscock KM (2013)Amulti-criteria based review of models that predict environmental impacts of land use-change for perennial energy crops on water,carbonand nitrogen cycling.GCB Bioenergy,5,227-242.   \nTilman D,HillJ, Lehman C (2006) Carbon-negative biofuels from low-input highdiversity grassand biomass.Science,314,1598-1600.   \nTilanDloleyetal.lseo environmenttrilemma.Science,325,270-271.   \nU.S.Department of Agriculture FSA (2011) Program Fact Sheets.Available at: http:// www.fsa.usda.gov/FSA/newsReleases?area=newsroom&subject=landing&topic= pfs&newstype=prfactsheet&type=detail&item=pf_20110727_energ_en_bcap7.html (accessed 17 November 2015).   \nU.S. Department of Agriculture NASS (2014) Quick Stats Ad-hoc Query Tool. Available at: http://quickstats.nass.usda.gov/(accessed 17 November 2015).   \nU.S.Department of Agriculture NRCS.Web Soil Survey.Available at: http://websoilsurvey.sc.egov.usda.gov/App/HomePage.htm (accessed 17 November 2015).   \nU.S.Department of Energy (2011) U.S.Billion-Ton Update: Biomass Supply for a BioenergyandBioproductsIndustry(LeadsPerlackRD，StokesB，2p. ORNL/TM-2011/224. Oak Ridge National Laboratory,Oak Ridge, TN.   \nU.S.Environmental Protection Agency (2014a) DRAFT Inoentory of U.S.Greenhouse Gas Emissions and Sinks:1990-2012.US Environmental Protection Agency,Washington, DC.   \nU.S.Environmental Protection Agency (2014b) Framework for Assessing Biogenic CO2 EmisionsfromStationarySources.Availableat:htp://www.epa.gov/ climatechange/ghgemissions/biogenic-emissions.html (accessed 17 November 2015).   \nU.S.Geological Survey (2015)Federal Lands of the United States.Available at: http://nationalmap.gov/small_scale/mld/fedlanp.html (accessed 17 November 2015).   \nVogel KP, Brejda JJ,Walters DT, Buxton DR (2002) Switchgrass biomass production in the Midwest USA.Agronomy Journal,94,413-420.   \nWagle P,Kakani VG (2014) Environmental control of daytime net ecosystem exchange of carbon dioxide in switchgrass.Agriculture,Ecosystems $\\mathcal { E }$ Environment, 186, 170–177.   \nWalker WE,Harremoes P,Rotmans Jvan der Sluijs JP,van Asselt MBA,JassenP, Krayer von Krauss MP (2oo3) Defining uncertainty:a conceptual basis for uncertainty management in model-based decision support. Integrated Assssment,4,5- 17.   \nWalterA,Galdos MV, Scarpare FV et al. (2014) Brazilian sugarcane ethanol: developments so far and challenges for the future.Wiley Interdisciplinary Reviews: Energy and Enoironment,,7092.   \nWang M,Han J,Dunn JB,Cai H, Elgowainy A (2012) Well-to-wheels energy use and greenhouse gas emissions of ethanol from corn,sugarcane and cellulosic biomass for US use.Environmental Research Letters,7,045905.   \nWang C,Hunt ER Jr, Zhang L,Guo H (2013) Phenology-asssted classification of C3 and C4 grasses in the U.S.Great Plains and their climate dependency with MODIS time series.Remote Sensing of Environment,138,90-101.   \nvan der Weerden T, Clough T, Styles T (2013) Using near-continuous measurements of $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission from urine-affected soil to guide manual gas sampling regimes. NewZealand Journal ofAgricultural Research,56,60-76.   \nWickham JD,Stehman SV,Gass L,Dewitz J,Fry JA,Wade TG (2013) Accuracy assessment of NLCD 2006 land cover and impervious surface. Remote Sensing of Environment,130,294-304.   \nWilson DM, Heaton EA, Schulte LA et al. (2014) Establishment and short-term productivity of annual and perennial bioenergy crops across a landscape gradient. BioEnergy Research,7,885-898.   \nWoli P (2012) Soil and variety effects on the energy and carbon balances ofswitchgrass-derived ethanol. Journal of Sustainable Bioenergy Systems,02,65- 74.   \nWright CK,Wimberly MC (2013) Recent land use change in the Western Corn Belt threatens grasslands and wetlands.Proceedings of the National Academy of Sciences, 110, 4134-4139.   \nWullchleger SD,Davis EB,Borsuk ME,Gunderson CA,Lynd LR (2010) Biomass production in switchgrass across the United States: database description and determinants of yield. Agronomy Journal,102, 1158-1168.   \nXu B,LiF, Shan L,Ma Y,Ichizen N,Huang J (2Oo6) Gas exchange,biomass partition,and water relationships of three grass seedlings under water stress.Weed Biology andManagement,6,79-88.   \nZhang X,Izaurralde RC,Manowitz D et al. (201o)An integrative modeling framework to evaluate the productivity and sustainability of biofuel crop production systems. GCB Bioenergy,2,258-277. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article: ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Appendix S1. Switchgrass parameterization and validation dataset development.   \nAppendix S2.Parameterization and validation detail.   \nAppendix S3.Landscape analysis detail.   \nAppendix S4. Dynamics of SOC changes and $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions.   \nFigure S1. Climate range covered in the full switchgrass calibration $\\&$ validation dataset as per the NARR database.   \nFigure S2.ClasificationofcalibrationandvalidationdatasetfieldtrialsitesbysoilsurfacetextureandNRCSlandcapabilityclas (LCC) rating.   \nFigure S3.Scater matrix of site location and climate parameters in the switchgrass parameterization & validation dataset. Figure S4. Scatter matrix of soil parameters in the switchgrass parameterization $\\&$ validation dataset.   \nFigure S5.Switchgrass green-up as a function of latitude only.   \nFigure S6.Heading dates estimated as a function of ecotype and site latitude.   \nFigure S7.Peak biomassas estimated to occur three weeks after heading，ascompared to empirical observations for upland switchgrass at multiple sites.   \nFigure S8.Temperature stress response curve based on experimental data from a variety of sources.   \nFigure S9.Moisturestressresponsecurvecompared tonormalized experimentaldata from Xuetal. (2O06)and modeldefaults. Figure S10.Modeled and measured yield ranges binned by site average annual growing degreedayaccumulation (calculated for the range $1 2 { - } 3 0 ~ ^ { \\circ } \\mathrm { C } )$ ：   \nFigure S11. Modeled and measured yield ranges binned by site average annual precipitation.   \nFigure S12.Modeled and measured yield ranges binned by site NLCD land capability classification.   \nFigure S3.Exampleofanobserved-modeledcomparisonforastudy(Anderson-Tixeiraetal.,2013)wheretime-resolveddatais available for more detailed comparison,in this case for total aboveground carbon andbelowground livecarbon.   \nFigure S14.Modeledvs.measuredchanges insoilorganiccarbon bystudyforallstudiesin theparameterization&validation dataset that include usable SOC measurements.   \nFigure S15.Modeledvs.measuredcumulativeannual emissonsof nitrousoxidebystudyforallstudiesintheparameterization & validation dataset that include usable $\\mathrm { N } _ { 2 } \\mathrm { O }$ measurements.   \nFigure S16. Histogram showing the area distribution of the polygons generated during the GIS intersect operation.   \nFigure S17.Annualfuxes,asuming moderate tilingduringfield preparationforinitialswitchgrasscropestablishmentandevery 8 years when the crop is replanted. ",
+        "page_idx": 17
+    }
+]

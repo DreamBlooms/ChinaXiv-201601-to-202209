@@ -1,0 +1,202 @@
+# 基于尺度不变Harris特征的准稠密匹配算法
+
+孙会超1,2,3,4，惠斌1,3,4，常铮1,3,4
+
+(1．中国科学院沈阳自动化研究所，沈阳110016;2.中国科学院大学，北京 100049;3．中国科学院光电信息处理重点实验室，沈阳 110016;4．辽宁省图像理解与视觉计算重点实验室，沈阳 110016)
+
+摘要：准稠密匹配是多视图三维重建的重要技术，其性能对重建结果至关重要。针对常用的 Sift算法提取的种子点进行准稠密匹配正确率较低、重建效果不佳的问题，提出了一种基于尺度不变 Harris 角点特征的准稠密匹配算法。该算法首先在图像多尺度空间构造尺度不变Harrs特征，并采用余弦距离测度对不同视图进行双向匹配；然后根据稀疏匹配获取种子点，采用最优最先匹配扩散策略进行准稠密扩散；最后采用局部非极大值抑制策略对匹配结果进行重采样。实验表明，本文算法提取的种子点既能够体现场景结构信息，又具有尺度不变特性，用于准稠密匹配能够提高匹配的效果和精度，是一种有效的用于三维重建的准稠密匹配算法。
+
+关键词：尺度不变Harris特征；准稠密匹配；局部非极大值抑制；三维重建中图分类号：TP391.41 doi: 10.3969/j.issn.1001-3695.2017.11.0773
+
+# Quasi-dense matching based on scale invariant Harris feature
+
+Sun Huichao1,2,3,4, Hui Bin1,3,4, Chang Zheng 1,3,4 (1.Shenyang InstituteofAutomation,ChinneseAcademyofSciences，Shenyangl1oo16,China;2.UniversityofChinese Academyofiences,Bejingo49,China;3.KeyLboratoryfOptolectroncIformationProceing,CineeAdemy ofSciences,Shenyang10016,China;4.KeyLabofImage Understanding&ComputerVision,Shenyang110016,China)
+
+Abstract: Quasi-densematching is widelyused inmulti-view3Dreconstruction,anditis importantforreconstructionresults. Aimingatthequasi-dense matches difusedbytheseed points extracted fromSiftalgorithmarelessaccurate,this paperproposed aquasi-dense matcingalgorithbasedoncaleinvariantHarriscorers.Firstly,itstructuredthescaleinvariantHaisfeatures in multi-scalespace,andthefeaturesetsbetweendiferentviewsarebidirectionalmatchdbycosinedistancesimilaritymeasure; Thenthe seedsselectedfromtheinitial matches areapplied in quasi-dense matching algorithmsbybestand first propagation strategy;Finally,alocal non-maximumsuppresson strategy isapplied torsampling thequasi-dense matches.Experiments showthat theseeds extractedbythisalgorithmcan notonlyreflect hescene structureinformation,butalsohavescalenvariant characteristics.Andforquasi-dense difusion,thematchingeffectandaccuracycanbeimproved,and itisanefectivequasidense matching algorithm for 3D reconstruction.
+
+KeyWords:scale-invariant Harris feature; quasi-dense matching; local non-maximal suppresion;3Dreconstruction.
+
+# 0 引言
+
+随着计算机技术的飞速发展，三维重建技术被广泛的应用到影视游戏、数字城市、虚拟现实、机器人导航等领域。基于多视图的三维重建因其重建方法便捷及适用性强，成为三维重建领域的研究重点。多视图三维重建是一种利用同一场景的多张不同视角图片恢复三维模型的方法，其中，立体匹配是多视图三维重建的关键技术。多视图立体匹配主要分为稀疏匹配、稠密匹配和准稠密匹配[1]，由于准稠密匹配计算效率高而且能较准确的描述三维场景，近年来一直是研究的热点。
+
+准稠密匹配算法最早是Lhuiller等人[2]提出，它以两幅图像的立体稀疏匹配作为准稠密生长的种子点，在稀疏匹配的种子点周围进行匹配扩散，得到稠密匹配。因此稀疏种子点获取对准稠密匹配和重建效果至关重要。近年来，最常用的稀疏匹配方法是Lowe 等人[3]总结的 SIFT(Scale-invariant featuretransform)算法，由于SIFT算法具有尺度、旋转和光照不变性，因此在初始特征提取和匹配中得到广泛应用。比如，张霓等人[1]利用压缩感知理论提出了一种基于压缩感知的 Sift 准稠密匹配算法。王伟等人[4提出了一种基于稀疏特征点的匹配扩散方法用来估计深度。赵璐璐等人[5通过引入彩色信息，提出了一种基于彩色 Sift 的准稠密匹配和三维重建方法。李晓明等人[6]根据结构化场景特点，提出一种基于平面单应约束的Sift特征准稠密匹配方法。Guo等人[7通过改进匹配代价函数，提出了一种基于Sift的准稠密匹配方法用于植物的三维点云获取。然而，Sift 算法提取的特征点并不是视觉上的角点，特征点在图像上并没有实际的物理特征[8]，并且耗时较长，会影响稀疏匹配的效果。Harris算法9提取的角点具有较好的信息量，能够很好的反映物体的结构和轮廓特征[8]，用于立体匹配会获得更好的效果。此外，对于多视图图像间存在的尺度问题，Milolajczy等人[10基于尺度自动选择理论，提出了Harris尺度不变性检测子。程邦胜等人[1得到了Harris尺度不变性检测子有效工作的参数空间。许佳佳等人[2]提出了一种结合Harris和Sift算子的图像配准算法，提高了图像配准精度和配准效率。
+
+为了提高准稠密匹配和三维重建的效果，本文基于尺度空间Harris角点检测和Sift特征描述方法，提出了一种适用于多视图三维重建的准稠密匹配算法，并就本文算法和最具代表性的Sift算法进行准稠密匹配对比。同时提出非极大值抑制重采样策略对准稠密匹配结果进行优化，以去除冗余。本文整体算法框架如图1所示。
+
+SIHF特征提取与稀疏匹配 准稠密匹配输入像 点 欢配 RANAC 种子点 准建
+
+# 1 SIHF特征检测与匹配
+
+Harris算法是一种经典的角点检测算法，在没有尺度变化的情况下，Harris算法对图像的旋转变化、视角变化、图像噪声具有很好的适应性[12]。为克服Harris角点的尺度敏感问题，本节引入尺度空间思想[3]检测Harris 角点，并采用Sift特征描述方法，构造出尺度不变Harris 特征(Scale-InvariantHarrisFeature，SIHF)，并将SIHF特征用于稀疏匹配。本节具体过程如下。
+
+# 1.1尺度不变性Harris角点检测
+
+首先建立图像的高斯尺度空间。将原始图像进行下采样，建立一个图像金字塔，对图像金字塔的每一层通过高斯滤波建立一个线性尺度子空间。每次降采样得到的图像为一组，每组分为s层尺度子空间。本文将图像金字塔分成 $\mathfrak { n }$ 组，每组3层。对于一张分辨率为 $\mathbf { M } { \times } \mathbf { N }$ 的图像， $\mathfrak { n }$ 由式(1)确定。
+
+$$
+\mathrm { n } = \mathrm { l o g } _ { 2 } \{ \mathrm { m i n } ( \mathbf { M } \times \mathbf { N } ) \} - 2
+$$
+
+对尺度子空间中的每一幅图像，使用不同参数的高斯核进行模糊。每个尺度子空间包含 $\scriptstyle \mathbf { s } = 3$ 层图像，尺度抽样频率为 ${ \bf k } _ { \mathrm { s } } =$ $\sqrt [ 3 ] { 2 }$ ，初始高斯模糊因子为 $\sigma { = } 1 . 6$ 。原图像为高斯金字塔的第一组，第一组图像的高斯核函数为 $\sigma ( 1 , \mathrm { s } ) { = } _ { \sigma \mathrm { { 0 } } } \mathrm { { k _ { s } } } ^ { \mathrm { { s - 1 } } }$ ，高斯金字塔的下一组第一层高斯核函数与上一组的中间层相同，尺度不变性Harris 检测子的微分尺度为 ${ \boldsymbol \varpi } ^ { = } { \boldsymbol \sigma } ^ { ( \mathrm { n } , \mathrm { s } ) }$ 。
+
+然后在尺度空间中检测Harris角点。尺度空间中的二阶矩阵[10]定义如式(2)所示。
+
+$$
+\begin{array} { r l } { M ( x , y , \sigma _ { \mathrm { I } } , \sigma _ { \mathrm { D } } ) { = } { \sigma } _ { D } ^ { 2 } g ( \sigma _ { I } ) \Biggl [ \begin{array} { l l } { I _ { x } ^ { 2 } ( x , y , \sigma _ { \mathrm { D } } ) } & { I _ { x } I _ { y } ( x , y , \sigma _ { \mathrm { D } } ) \Biggr ] } \\ { I _ { x } I _ { y } ( x , y , \sigma _ { \mathrm { D } } ) } & { I _ { y } ^ { 2 } ( x , y , \sigma _ { \mathrm { D } } ) } \end{array} \Biggr ] } \end{array}
+$$
+
+其中： $\boldsymbol { \sigma }$ 是积分尺度， $ { \sigma } _ { \mathrm { { D } } }$ 是微分尺度， $\scriptstyle { \boldsymbol { \sigma } } = s _ { O D }$ ，这里 $s$ 控制 $\sigma$ 和 $\boldsymbol { \sigma }$ 的比值，在这里取 $_ { S = 0 . 8 }$ 。 $I _ { x }$ 和 $I _ { y }$ 分别为图像点 $( \mathrm { x } , \mathrm { y } )$ 在 $\mathbf { x }$ 方向和y方向的方向导数，计算方向导数的局部邻域是原图像与高斯核函数 $\boldsymbol { \sigma }$ 卷积得到，得到方向导数后用 $\boldsymbol { \sigma }$ 的高斯核函数进行平滑。计算Harris角点响应值，本文采用角点响应函数[12]如式(3)所示。
+
+$$
+\mathrm { C R F } = \frac { \operatorname * { d e t } ( M ( x , y , \sigma _ { I } , \sigma _ { D } ) ) } { \operatorname { t r a c e } ( M ( x , y , \sigma _ { I } , \sigma _ { D } ) ) + \mathrm { e p s } }
+$$
+
+其中：eps 是一个极小量(可取 $\mathrm { \ e p s { = } l 0 ^ { - 6 } }$ )，防止分母为零。对尺度子空间的每一幅图像根据式(2)和(3)计算每一点的 Harris 角点响应值，得到Harris角点响应金字塔，如图2所示。
+
+..... .....第二组第一组 生E高斯金字塔 Harris角点响应金字塔
+
+最后选取尺度不变兴趣点。首先选取满足阈值条件的候选角点，当Harris角点响应阈值设置为最大响应值Rmax 的$0 . 0 0 5 { \sim } 0 . 0 1 5$ 倍，角点检测效果最好[13]，本文角点响应阈值设置为 $0 . 0 1 \mathrm { R } _ { \operatorname* { m a x } }$ 。然后，本文提出尺度空间相邻层圆形窗非极大值抑制策略提取尺度不变兴趣点。如图3所示，在尺度空间中，在候选角点周围选取12邻域的圆形窗，如果该点位于第一层和最后一层，则在相邻层25邻域进行非极大值抑制，如果该点位于的中间层，则在相邻层38邻域进行非极大值抑制，当满足上述条件时，便得到尺度不变兴趣点。
+
+![](images/b1b76a450956a855bd4825be1c8822ba734d94e4109d362a7e92eb54acf66716.jpg)  
+图1本文算法框架  
+图2Harris 角点响应金字塔  
+图3圆形窗非极大值抑制策略
+
+# 1.2SIHF特征描述和双向匹配
+
+得到兴趣点后，对兴趣点进行特征描述，采用文献[3]的方法。首先在特征点周围选取 $1 6 \times 1 6$ 的邻域，计算出邻域内像素点的梯度幅值和梯度方向，并统计出梯度直方图，取直方图峰值方向为主方向，大于峰值 $80 \%$ 的为辅方向，梯度幅值和梯度方向的定义如式(4)所示：
+
+$$
+\left\{ \begin{array} { c } { { m ( x , y ) = \sqrt { \displaystyle \left( L ( x + 1 , y ) - L ( x - 1 , \ y ) \right) ^ { 2 } + \displaystyle \left( L ( x , y + 1 ) - L ( x , y - 1 ) \right) ^ { 2 } } } } \\ { { \theta ( x , y ) = \tan ^ { - 1 } \displaystyle \frac { L ( x , y + 1 ) - L ( x , y - 1 ) } { L ( x + 1 , y ) - L ( x - 1 , y ) } } } \end{array} \right.
+$$
+
+其中： $m ( x , y )$ 和 $\theta ( x , y )$ 分别表示梯度幅值和梯度方向。然后，将特征邻域划分成 $4 { \times } 4$ 的小栅格，计算每个小栅格的8方向梯度幅值和梯度方向，这样就构成了128维的特征描述子。最后，为了去除光照变化对特征点的影响，对特征向量进行归一化处理以满足光照不变性。
+
+特征匹配常用的方法是欧氏距离近邻之比的方法。由于特征向量进行了归一化，本文采用工程上常用的余弦距离[14]相似性测度进行匹配，余弦距离相似性测度计算公式如下：
+
+$$
+\left\{ { \begin{array} { l } { d _ { i , j } = \cos ( x _ { i } , x _ { j } ) = { \frac { { x _ { i } } ^ { \mathrm { T } } x _ { j } } { \parallel x _ { i } \parallel \cdot \parallel x _ { j } \parallel } } } \\ { { \mathrm { D } } _ { i , j } = \operatorname { a r c c o s } ( d _ { i , j } ) } \end{array} } \right.
+$$
+
+其中： $x _ { i } , \ x _ { j }$ 分别为两幅图像中128维的特征点集， $d _ { i , j }$ 为两个特征向量的余弦角， $\mathrm { D } _ { i , j }$ 为两个特征向量的余弦距离。如果第一个特征集中的特征向量与第二个特征集中的特征向量最近邻$\mathbf { D } _ { n e a r e s t }$ 与次近邻 $\mathrm { D } _ { 2 n d - n e a r e s t }$ 的比值ratio 小于某个阈值，则认为对应点为正确匹配。为得到更高的匹配正确率，采用双向匹配[15]策略，本文的双向匹配策略如下：首先，对图像A中的每个特征向量采用穷尽搜索找到图像B中满足最近邻与次近邻之比的特征向量，匹配得到第一个匹配点集；然后反过来由图像B到图像A匹配得到第二个点集；最后，求出两个匹配点集的交集即为最终匹配结果。
+
+# 2 基于SIHF的准稠密扩散
+
+准稠密匹配使用稀疏匹配作为种子点，再在种子点周围扩散出新的匹配，得到稠密匹配。本文采用最优最先扩散策略[2]进行匹配扩散，即每次选取一个最优的种子点，在其周围进行匹配扩散。然后根据本文提出的基于局部非极大值抑制策略对准稠密匹配进行重采样，以去除余点对。具体过程如下。
+
+# 2.1准稠密扩散
+
+得到稀疏匹配后，首先使用RANSAC算法[5获取候选种子点。RANSAC算法通过重复从特征点数据集中获得基本子集，利用基本子集估计基本矩阵，得到满足最大匹配点集的基本矩阵，剔除外点得到候选种子点，RANSAC算法具体过程参考文献[5]。然后以 ZNCC(zero-mean normalized cross correlation)得分选取种子点，采用最优最先的扩散策略，即每次只选取一个得分最高的种子点进行扩散。假设 $( x _ { i } , x _ { i } ^ { \prime } )$ 是两视图图像中的对应点，将匹配按ZNCC分数从高到低排列，称为种子队列，建立两个与图像大小相同的标志矩阵表示对应像素是否找到匹配(标志为1表示已经匹配，0表示未被匹配)，准稠密扩散具体过程如下：
+
+a)计算种子点对的ZNCC得分，将得分从高到低排列成为种子队列，并去除不满足阈值条件的种子点；
+
+b)从种子队列取出得分最高的种子点，在其邻域搜索满足视差梯度限制的候选匹配，并计算这些候选匹配的ZNCC；
+
+c)判断这些候选匹配的ZNCC分数和置信度是否满足阈值条件，如果这些候选匹配没有被匹配过(标志位为0)，则将其判为正确匹配保存下来(标志位置1)，并放入种子队列；
+
+d)重复以上三个步骤，直至种子队列为空。
+
+在第 b)步中，种子点 $x _ { i }$ 、 $x _ { i }$ 的 $( 2 \mathrm { N } { + } 1 ) { \times } ( 2 \mathrm { N } { + } 2 )$ 邻域定义如式(6)所示。
+
+$$
+\begin{array} { l } { { N ( x ) = \{ u , u - x \in [ - \mathrm { N } , \mathrm { N } ] ^ { 2 } \} } } \\ { { N ( x ^ { * } ) = \{ u ^ { * } , u ^ { * } - x ^ { * } \in [ - \mathrm { N } , \mathrm { N } ] ^ { 2 } \} } } \end{array}
+$$
+
+视差梯度限制由式(7)给出。
+
+$$
+N ( x , x ^ { \prime } ) = \{ ( u , u ^ { \prime } ) , u \in N ( x ) , u ^ { \prime } \in N ( x ^ { \prime } ) , \| ( u ^ { \prime } - u ) - ( x ^ { \prime } - x ) \| _ { \infty } \leq \varepsilon \}
+$$
+
+其中： $\varepsilon$ 是视差梯度限制阈值， $( u _ { i } , u _ { i } ^ { \prime } )$ 是扩散得到的候选匹配，视差梯度限制保证种子点对到候选匹配的扩散沿同一方向，选取参数 $\scriptstyle { \varepsilon = 1 }$ ，邻域半径 $\scriptstyle \mathrm { N = } 2$ 。
+
+在第c)步中，对于候选匹配 $( u , u ^ { \prime } )$ 采用置信度限制，置信度定义如式(8)所示。
+
+$$
+s ( u ) = \operatorname* { m a x } \left\{ \lvert I ( x + \Delta ) - I ( x ) \rvert , \Delta \in \{ ( \pm 1 , 0 ) , ( 0 , \pm 1 ) \} \right\}
+$$
+
+$s ^ { \prime } ( u ^ { \prime } )$ 的计算同上式，置信度限制就表示为 $s ( u ) < \mathfrak { t }$ 或者 $s ^ { \prime } ( u ^ { \prime } )$ $< \mathfrak { t }$ ，其中t为置信度阈值，防止匹配扩散到灰度值单一，纹理较少的区域，一般取 $\scriptstyle 1 = 0 . 0 1$ 。
+
+# 2.2局部非极大值抑制
+
+对准稠密匹配进一步优化不仅能减少冗余点集数量，优化匹配结果，而且能去除误一些匹配，提高点集集质量。本文提出了基于ZNCC得分的局部非极大值抑制重采样方法。步骤如下：
+
+a)建立与原图像大小相同的准稠密匹配标志矩阵，用来存储匹配点集的ZNCC互相关分数，没有匹配的标志位置0；
+
+b)选取 $3 { \times } 3$ 的平滑窗口，判断每一个扩散得到的匹配点是否是窗口邻域内最大互相关点，若是，则保留下来，否则剔除；
+
+c)重复以上过程，得到重采样后的匹配点集。通过对准稠密匹配点集重采样，大大降低了点集的数量，去除了大部分对重建无关紧要的冗余点，在不影响重建结果的情况下提高了重建效率和质量。
+
+# 3 实验结果与分析
+
+本文实验环境为Windows64位系统，运行配置为IntelCorei5，2.5GHzCPU，内存为4GB，算法采用MATLABR2017a实现。实验包括两个部分，分别为SIHF特征稀疏匹配和基于SIHF特征的准稠密匹配。
+
+# 3.1 SIHF 特征稀疏匹配
+
+为验证本文尺度不变Harris特征在稀疏匹配中的有效性，本实验选取了三组图像[16进行稀疏匹配，并与Sift算法进行比较，图像之间变换关系已知，可以客观的对算法精度进行评估。图4为三组原始图像，分别为尺度变换、模糊变换和亮度变换的场景。首先对图像分别提取Sift特征和SIHF特征，然后进行特征匹配，特征向量的匹配阈值设置为ratic $_ { \ } = 0 . 8$ 。图5为Sift算法的匹配结果，从左到右依次为尺度变换、模糊变换和亮度变换的场景。图6为本文SIHF算法的匹配结果，从左到右依次为尺度变换、模糊变换和亮度变换的场景。两种方法匹配结果均为原始匹配，没有去除外点。两种方法的比较数据如表1所示。
+
+![](images/a5484a0a8934fb54444902149a5a7081332556b20ffbb03209744f24bd8a2724.jpg)  
+图4原始图像
+
+![](images/352f0abd57ccf6ff85b42a97243d8b890cb62f3c9007fd72bcda41efe393112b.jpg)  
+图5Sift算法稀疏匹配
+
+![](images/9d6e916f7ff0b04f8bbe4dcb8ecda056c7464e6e0057cc46e5dd30fc60f04067.jpg)  
+图6SIHF 算法稀疏匹配
+
+表1特征提取与匹配结果  
+
+<html><body><table><tr><td>图像</td><td colspan="2">(a)</td><td colspan="2">(b)</td><td colspan="2">(c)</td></tr><tr><td>方法</td><td>Sift算法</td><td>SIHF算法</td><td>Sift算法</td><td>SIHF 算法</td><td>Sift算法</td><td>SIHF 算法</td></tr><tr><td>总匹配对数</td><td>2367</td><td>289</td><td>686</td><td>987</td><td>673</td><td>981</td></tr><tr><td>正确匹配对</td><td>1608</td><td>253</td><td>277</td><td>926</td><td>434</td><td>924</td></tr><tr><td>匹配正确率</td><td>67.93%</td><td>87.54%</td><td>40.38%</td><td>93.82%</td><td>64.48%</td><td>94.19%</td></tr><tr><td>匹配时间/s</td><td>359.56</td><td>112.62</td><td>334.09</td><td>130.17</td><td>157.78</td><td>60.09</td></tr></table></body></html>
+
+表1对比可以看出，对于一般场景的图像匹配，本文算法与Sift算法同样具有很好的尺度适应性，而且计算效率也得到提高；本文算法与Sift算法相比，对不同模糊和复杂光照条件的彩色图像能够提取出更多稳定的角点特征；在特征匹配上，本文采用的余弦距离度量的双向匹配策略，进一步剔除大部分的误匹配点和重复匹配点对，能够得到更高的匹配准确率。
+
+# 3.2 SIHF特征准稠密扩散
+
+为验证本文准稠密匹配算法的有效性，实验采用普通相机拍摄的一组Box场景，图7(a)为 $6 0 0 \times 8 0 0$ 的原始图像。实验首先对图像进行稀疏匹配，然后进行准稠密扩散，稀疏匹配中特征向量的匹配阈值设置为ratic $_ { \ \cdot = 0 . 8 }$ 。图7(b)为Sift 算法稀疏匹配结果，得到265对点；图7(c)为本文SIHF特征稀疏匹配结果，得到295对点。图8为准稠密扩散结果，其中图8(a)为Sift种子点准稠密扩散，得到87886对点；图8(b)和图8(c)为本文算法准稠密扩散，图8(b)为原始匹配，得到 89489 对点，图8(c)对匹配结果进行了非极大值抑制重采样(以下简称重采样)，得到17208 对点。
+
+为了更直观地体现本文准稠密匹配算法的优越性，并从客观上评价算法性能，将准稠密匹配进行两视图三维重建，采用重建后的三维点云在图像上的重投影误差做度量准则。如果重投影误差满足阈值条件，判断匹配是正确的，重投影误差定义如下：
+
+$$
+d _ { \mathrm { r e p E r r o r } } { = } \sqrt { \left( \hat { u } _ { 1 } - u _ { 1 } \right) ^ { 2 } + \left( \hat { u } _ { 2 } - u _ { 2 } \right) ^ { 2 } }
+$$
+
+式(9)中， $\hat { u } _ { 1 }$ 和 $\hat { u } _ { 2 }$ 分别为重建后的三维点根据投影关系映射回图像平面的坐标， $u _ { 1 }$ 和 $u _ { 2 }$ 为匹配点实际的图像坐标， $d _ { \mathrm { r e p E r r o r } }$ 表
+
+示重投影误差。
+
+准稠密重建采用经典的SFM算法[I7]，准稠密重建的结果如图(8)所示。图9(a)是常用的基于Sift特征的准稠密重建结果，得到三维点云个数为2993；图9(b)是本文算法准稠密重建结果，得到三维点云个数为13695，可以看出本文算法的有效重建点数量大大提高。其中图9(c)的准稠密重建结果经过了局部非极大值抑制重采样，得到点云个数为2886，可以看出经过重采样的点云保留了模型关键位置的点，去除了大部分对建模无关紧要的点。两种方法的具体比较数据如表2所示。
+
+![](images/ff2e87f93c151ffe84aa4b59e46edea79397e79144e8f1e4bae5f5d9f57c63bd.jpg)  
+图9准稠密三维重建
+
+表2算法性能比较   
+
+<html><body><table><tr><td rowspan="2">方法</td><td rowspan="2">稀疏 匹配对</td><td rowspan="2">准稠密</td><td rowspan="2">重建</td><td rowspan="2">正确率</td></tr><tr><td>点对</td></tr><tr><td>Sift</td><td>265</td><td>匹配对 87886</td><td>2993</td><td>3.41%</td></tr><tr><td>SIHF</td><td>295</td><td>89489</td><td>13695</td><td>15.30%</td></tr><tr><td>SIHF+重采样</td><td>295</td><td>17208</td><td>2886</td><td>16.77%</td></tr></table></body></html>
+
+从表2可以看出，基于SIFT特征和基于SIHF特征的准稠密扩散都能扩散到全局有纹理的区域，但是重建结果经过重投影去除误差较大的匹配点后，本文算法得到的匹配正确率更高，三维重建的点云质量更好。从图9Box场景的三维点云可以看出，图9(a)基于SIFT检测的角点扩散出来的准稠密匹配存在大量的误匹配，两视图重建的效果较差；图9(b)本文准稠密匹配算法大大增加了有效匹配的数量，提高了匹配正确率，基于本文准稠密匹配方法重建的三维点云能够更好的反映物体的结构和轮廓特征；图9(c)为准稠密匹配经过重采样的准稠密重建效果，验证了经过重采样的匹配进一步提高了匹配正确率。以上实验结果证明了准稠密匹配种子点选取对重建效果的重要性，验证了本文算法的有效性。
+
+# 4 结束语
+
+本文研究了种子点选取对准稠密匹配和多视图三维重建的影响，提出了一种基于尺度不变Harris特征的准稠密匹配算法。在稀疏匹配过程中，本文基于Harris尺度不变性角点检测算法，构造出鲁棒的特征描述子用于稀疏匹配，实验表明本文的稀疏匹配算法具有较好的效果。在准稠密匹配过程中，提出了基于SIHF特征的准稠密扩散方法，同时提出局部非极大值抑制重采样策略优化匹配结果。实验表明，本文的准稠密匹配算法能够大幅提高准稠密匹配正确率，用于三维重建能够获得较为满意的结果。本文算法在准稠密扩散过程中对于复杂纹理区域能够得到较好的准稠密匹配，下一步将重点研究如何提高简单纹理区域的匹配精度和匹配数量。
+
+# 参考文献：
+
+[1] 张霓，章承成，何熊熊．基于压缩感知的快速 SIFT准稠密匹配算法[J]. 浙江工业大学学报,2017,45(03):310-314.   
+[2]Lhuillier,M,Long Quan.Match propagation for image-based modeling and rendering [J].IEEE Trans on Pattern Analysis and Machine Intelligence, 2002,24(8):1140-1146.   
+[3]Lowe D G,Lowe D G.Distinctive image features from scale-invariant keypoints [J]. International Journal of Computer Vision,20o4,60 (2): 91- 110.   
+[4]王伟，余淼，胡占义．基于匹配扩散的多视稠密深度图估计[J]．自动 化学报,2014,40(12):2782-2796.   
+[5]赵璐璐，耿国华，周明全，等．一种用于三维重建的彩色 Sift 准稠密匹 配算法[J].计算机应用研究,2012,29(9):3543-3546.   
+[6]李晓明，秦茜茜．基于准稠密匹配的结构化场景三维重建[J].计算机 辅助设计与图形学学报，2011,23(05):849-854.   
+[7]Guo J, Xu L.Automatic segmentation for plant leaves via multiview stereo reconstruction[J].Mathematical Problems in Engineering,2017,(2017-02- 20),2017,2017(4): 1-11.   
+[8]刘雨婷，王晓东，吴建德，等．改进Harris-SIFT算法在双目立体视觉中 的应用[J].传感器与微系统,2014,33(6):151-153.   
+[9]Harris C.A combined corner and edge detector [C]//Proc of Alvey Vision Conf. 1988: 147-151.   
+[10] Mikolajczyk K, Schmid C.Scale & affine invariant interest point detectors [J].International Journal of Computer Vision,20o4,60(1): 63-86.   
+[11]程邦胜，唐孝威.Harris尺度不变性关键点检测子的研究[J].浙江大学 学报：工学版,2009,43(5):855-859.   
+[12]许佳佳．结合Harris与SIFT算子的图像快速配准算法[J]．中国光学, 2015 (4): 574-581.   
+[13]沈士喆，张小龙，衡伟．一种自适应阈值的预筛选Harris角点检测方法 [J].数据采集与处理,2011,26(2):207-213.   
+[14] Sidorov G,Gelbukh A,Gomezadorno H,etal. Soft similarity and soft cosine measure: similarity of features in vector space model[J]. Computacion Y Sistemas,2014,18(3): 491-504.   
+[15]安婷，贺一民，张志毅．改进的双向 SIFT特征匹配算法[J].计算机工 程与科学,2016,38(1):138-143.   
+[16] Mikolajczyk K, Schmid C.Aperformance evaluation oflocal descriptors [J]. IEEE Trans on Pattern Anal Mach Intell,2005,27(10):1615-1630.   
+[17] Hartley R, Zisserman A. Multiple view geometry in computer vision [M]. Cambridge:Cambridge University Press,200o:1865-1872.

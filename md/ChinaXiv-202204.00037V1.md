@@ -1,0 +1,401 @@
+# 基于多维泰勒网的多入多出非线性时滞系统辨识
+
+李晨龙1,2,3,4，严洪森1,2+
+
+(1．东南大学自动化学院，南京 210096;2.复杂工程系统测量与控制教育部重点实验室，南京 210096;3．北京航空航天大学杭州创新研究院，杭州 310051;4．北京航空航天大学，北京 100191)
+
+摘要：针对多入多出（Multiple Input Multiple Output，MIMO）非线性时滞系统辨识的准确性与实时性问题，提出基于多维泰勒网（Multi-dimensional Taylor Network，MTN）的辨识方案。MTN 作为辨识模型，综合利用权剪枝(Weight-Elimination，WE）算法和共轭梯度算法（Conjugate Gradient，CG)，即WE-CG 算法作为 MTN辨识模型的学习算法；WE算法可以有效精简MTN辨识模型结构，从而降低计算复杂度，提高模型实时性能。最后，引入一个数值仿真例子和一个工程实例来验证所提辨识方案的有效性，同时与传统的 MTN 辨识方案作对比，给出了二者的准确性与复杂度分析，突出所提辨识方案的准确性与实时性。实验结果表明，所提方案够准确地对MIMO非线性时滞系统进行辨识。同时，相比传统的MTN辨识方案，所提辨识方案结构更精简，具有更低的算法复杂度。
+
+关键词：多维泰勒网；辨识模型；多入多出系统；非线性时滞系统；剪枝算法 中图分类号：TP271 doi:10.19734/j.issn.1001-3695.2022.01.0031
+
+Identification of MIMO nonlinear time-delay system using multi-dimensional Taylor network
+
+Li Chenlong1,2,3,4, Yan Hongsen1,2† (1.School ofAutomation,Southeast University,Nanjing 210096,China;2.KeyLaboratoryof Measurement &Controlof Complex Systemsof Engineering，MinistryofEducation，Southeast University，Nanjing210096,China；3.Hangzhou Innovation Institute,Beihang UniversityHangzhou310051,China; 4.Beihang University,Beijing l00191,China)
+
+Abstract:Forthe accuracyandreal-time performanceofmultiple input multipleoutput (MIMO)nonlineartime-delaysystem, this paper propose the identificationscheme based on multi-dimensional Taylor Network (MTN).It use MTN as an identification model.MTN identification model's learningalgorithmadopts the WE-CG algorithm,whichcombines the weight-elimination (WE)algorithm with theconjugate gradient (CG)algorithm.WE algorithmcansimplifythe structureof MTN model soas to reduce computational complexityand improve thereal-time performance.Finally,there are two experimental examples containing a numerical exampleand aproject one to verify the efectivenessof the proposed identificationscheme.Anduse the traditional MTN identificationscheme to compare.Both the accuracyand the computational complexityanalysisillustrate the accuracyandthereal-time performance ofthe proposed scheme.Results fromthe experiments and comparison show thatthe proposed scheme can identifythe MIMO nonlinear time-delay system accurately,andthe proposed identification scheme has a simpler structure and lower computational complexity than the traditional MTN identification scheme.
+
+Key words: multi-dimensional Taylor network;identificationmodel; MIMO system; nonlineartime-delaysystem; weightelimination algorithm
+
+# 0 引言
+
+工业系统中大都具有非线性、时滞等特性，给建模和控制带来挑战[1,2]。以往在线性系统中，因为可以得到其精确的数学模型，所以利用传统的辨识方法可以满足其要求，比如最小二乘法、阶跃响应法等[3.4]。而对于非线性时滞系统辨识问题，由于很难获得系统精确的数学模型，因此，以往针对线性系统的辨识方法很难达到理想的效果，从而给辨识带来困难[5]。随着神经网络的出现，由于其强大的非线性逼近能力，给非线性辨识提供了一种有效的解决途径[6\~10]。比如,文献[6]针对非线性系统，提出基于人工神经网络与切比雪夫函数的时滞自适应辨识方案；文献[7]基于时滞神经网络与核函数的内部关系，提出针对工程领域的非线性系统辨识方案；文献[8]针对带有未知时滞的非线性连续系统，提出基于时滞神经网络的辨识方案；文献[9]针对非线性系统辨识，提出了一种新型神经网络方案；文献[10]针对非线性动态系统，提出了一种基于数据知识的模糊神经网络辨识方案。然而，神经网络由于在训练过程中花费时间长，易陷入极小值点，且算法复杂度较高，从而不能满足实时构建预测模型的要求[1]。此外，相比于单入单出(SingleInput SingleOutput，SISO)系统，多入多出(MultipleInputMultipleOutput，MIMO）系统由于输入和输出变量之间的关系更加复杂而更加难以建模[12\~14]。
+
+针对以上问题，严洪森教授于2010 年10月提出多维泰勒网的建模思想[15,16]，之后被应用在非线性时间序列建模与故障监测上[17\~21]。之后在 2010 年12月严洪森教授提出多维泰勒网优化控制的思想[15,16]，应用于非线性系统控制领域[22\~24]，先后对非线性时变系统[22]、非线性时滞系统[23]与非线性随机系统[24]的控制问题进行了广泛研究。多维泰勒网与多维泰勒网优化控制器具有以下特点[15\~24]：a)MTN 具有可以任意逼近非线性函数的能力；b)MTN模型与控制器，其结构简单，只包含加法和乘法，不含有超越函数和无理函数，参数调整方便，便于工程实现，无须复杂的数学计算，便于实现实时建模与控制；c)MTN控制器本身具有“学习”能力，使它在控制过程中不断地完善自己，使控制效果越来越好，提高控制器的鲁棒性能；d)MTN控制器具有良好的可扩展性，能够融合其他控制方法或者控制思想，具有一定的容错性和进化能力。
+
+在基于此，本文针对MIMO非线性时滞系统，提出基于MTN的辨识方案。首先，MTN作为辨识模型；然后，综合利用权剪枝(Weight-Elimination，WE)算法和共轭梯度算法(ConjugateGradient,CG)，即WE-CG算法作为MTN辨识模型的学习算法；WE 算法对MTN 辨识模型结构进行精简从而降低计算复杂度以满足实时性要求；最后，引入一个数值仿真例子和一个工程实例-连续搅拌反映器(continuous stirredtankreactor,CSTR)来验证本文所提方案的有效性，同时引入传统的MTN辨识方案[17作对比，给出了二者的准确性与复杂度分析。
+
+本文的主要贡献如下：
+
+a）针对MIMO非线性时滞系统，借助MTN的强大逼近性能，提出基于MTN的辨识方案，所提方案易于实施；
+
+b)WE-CG算法作为MTN辨识模型的学习算法，WE 算法可以有效精简MTN辨识模型结构，从而降低算法复杂度，提高模型实时性能;
+
+c）所提方案具有较低的计算复杂度，即实时性能较好；  
+d）所提辨识方案的具有一般性和实际应用价值。
+
+# 1 系统描述与多维泰勒网
+
+# 1.1系统描述
+
+MIMO离散非线性时滞系统由如下表示：
+
+$$
+\begin{array} { r } { { \boldsymbol y } ( k ) = { \pmb g } [ { \boldsymbol y } ( k - 1 ) , { \boldsymbol y } ( k - 2 ) , \cdots , { \boldsymbol y } ( k - n _ { y } ) , } \end{array}
+$$
+
+$$
+\pmb { u } ( k - d ) , \cdots , \pmb { u } ( k - n _ { u } - d ) ]
+$$
+
+其中， $\pmb { g } ( \cdot ) = [ g _ { 1 } ( \cdot ) , \cdots , g _ { q } ( \cdot ) ] ^ { \mathrm { T } } \in R ^ { q }$ 为未知的非线性向量函数；（204号 $\begin{array} { r } { \pmb { y } ( \mathbf { k } ) = [ \mathbf { y } _ { 1 } ( \mathbf { k } ) , . . . , \mathbf { y } _ { q } ( \mathbf { k } ) ] ^ { \mathrm { T } } \in \mathbf { R } ^ { \mathfrak { q } } } \end{array}$ ： $\pmb { u } ( \mathbf { k } ) = [ \mathbf { u } _ { 1 } ( \mathbf { k } ) , . . . , \mathbf { u } _ { \mathrm { p } } ( \mathbf { k } ) ] ^ { \mathrm { T } } \in \mathbf { R } ^ { \mathrm { p } }$ 分别为系统(1)的q维输出和P维输入； ${ \mathfrak { n } } _ { \mathrm { y } _ { \mathrm { j } } }$ （ ${ \bf j } = 1 , 2 , . . . , { \bf q }$ ， $\mathfrak { n } _ { \mathfrak { u } _ { \mathrm { i } } }$ （ $\mathbf { i } = 1 , 2 , . . . , \mathbf { p _ { \alpha } } )$ 分别为第j个输出分量和第 $\mathrm { ~ i ~ }$ 个输出分量的阶次，且$\boldsymbol { \mathrm { n } } _ { \mathrm { y } } = \{ \boldsymbol { \mathrm { n } } _ { \mathrm { y } _ { 1 } } , \boldsymbol { \mathrm { n } } _ { \mathrm { y } _ { 2 } } , . . . , \boldsymbol { \mathrm { n } } _ { \mathrm { y } _ { 4 } } \}$ ， $\boldsymbol { \mathrm { n } } _ { \mathrm { u } } = \{ \boldsymbol { \mathrm { n } } _ { \mathrm { u } _ { 1 } } , \boldsymbol { \mathrm { n } } _ { \mathrm { u } _ { 2 } } , . . . , \boldsymbol { \mathrm { n } } _ { \mathrm { u } _ { p } } \}$ ； $^ d$ 为系统的时滞。
+
+则，在 $k$ 时刻，系统(1)的第j个输出分量可以表示为
+
+$$
+\begin{array} { c } { { y _ { j } ( k ) = g _ { j } ( y _ { 1 } ( k - 1 ) , \cdots , y _ { 1 } ( k - n _ { y _ { 1 } } ) , \cdots , } } \\ { { y _ { q } ( k - 1 ) , \cdots , y _ { q } ( k - n _ { y _ { q } } ) , } } \\ { { u _ { 1 } ( k - d ) , u _ { 1 } ( k - d - 1 ) , \cdots , } } \\ { { u _ { 1 } ( k - d - n _ { u _ { 1 } } ) , \cdots , u _ { p } ( k - d ) , } } \\ { { u _ { p } ( k - d - 1 ) , \cdots , u _ { p } ( k - d - n _ { u _ { p } } ) ) } } \end{array}
+$$
+
+# 1.2多维泰勒网
+
+1.2.1MIMO多维泰勒网
+
+针对于MIMO非线性系统，基于多维泰勒网，第 $j$ 个输 出分量 $\hat { y } _ { j } ( k + 1 )$ 可写成如下形式[15]
+
+$$
+\hat { y } _ { j } ( k + 1 ) = \sum _ { \hat { r } = 1 } ^ { \hat { N } ( \hat { t } , \hat { m } ) } \hat { w } _ { j , \hat { r } } ( k ) \prod _ { \hat { s } = 1 } ^ { \hat { t } } \hat { z } _ { g } ^ { \hat { \lambda } ( \hat { r } , \hat { s } ) } ( k )
+$$
+
+其中， $\hat { N } ( \hat { t } , \hat { m } )$ 表示 $\hat { t }$ 元函数 $\hat { f } _ { j } ( \cdot )$ 展开成 $\hat { m }$ 次逼近多项式乘积项的总项数，权重向量为 $\hat { \pmb { w } } _ { j } ( k ) = [ \hat { w } _ { j , 1 } ( k ) , \cdots , \hat { w } _ { j , \hat { N } ( \hat { t } , \hat { m } ) } ( k ) ] ^ { \mathrm { T } }$ ， $\hat { w } _ { j , \hat { r } } ( k )$ 表示式(3)中第 $\hat { r }$ 个乘积项的权重系数， $\hat { \lambda } ( \hat { r } , \hat { s } )$ 表示第 $\hat { r }$ 个乘积项中变量 $\hat { z } _ { \hat { s } } ( { \boldsymbol k } )$ 的次数，且 $\sum _ { i = 1 } ^ { i } \hat { \lambda } ( \hat { r } , \hat { s } ) \leq \hat { m }$ 。
+
+MIMO非线性系统的MTN结构图如图1所示。
+
+# 1.2.2多维泰勒网逼近性能
+
+引理 $1 ^ { [ 2 5 ] }$ 任何定义于一个闭区间的连续函数可以用多项式
+
+函数任意准确地逼近。
+
+引理 $2 ^ { [ 1 8 ] }$ 对于定义于一个闭区间的连续函数 $f ( x _ { 1 } , x _ { 2 } , . . . , x _ { n } )$ ，可以用 $\sum _ { t = 1 } ^ { N ( n , m ) } w _ { t } \prod _ { i = 1 } ^ { n } x _ { i } ^ { \lambda _ { i } , i }$ 逼近。其中 ${ \cal N } ( t , m )$ 为逼近展开式中乘积项的总项数， $w _ { t }$ 为逼近展开式中第 $t$ 个乘积项之前的权值， $\lambda _ { t , i }$ 为展开式中第 $t$ 个乘积项中变量 $x _ { i }$ 的幂次。
+
+正如图1所示，MTN采用前向单中间层结构，包括输入层、中间层和输出层。同时基于引理1和引理2说明，只要$N ( t , m )$ 足够大，它就能够以足够的精度逼近任意模型[18,25]。
+
+![](images/a70f96e681cbe6fc00036fa30e09656330d42867a7964b652e2dae1516a12e09.jpg)  
+图1MIMO的MTN结构图Fig.1 MIMO MTN structure
+
+# 1.2.3多维泰勒网复杂度分析
+
+由于使用相同的计算机，相同的时间来做实时性的分析是不可能的，因此本文引用浮点数来估计方案的计算量，即实时性[26.27]。一个加号和一个乘号都叫做一个浮点，加号和乘号的总数作为总的浮点数，即浮点数的总和代表着计算复杂度。当展开次幂为2次，表1为MTN在一次迭代中的计算复杂度[17]，突出MTN因其结构简单而带来出色的实时性能。
+
+表1MTN 的计算复杂度  
+Tab.1Computation complexity of MTN model   
+
+<html><body><table><tr><td>操作项</td><td>MTN</td></tr><tr><td>中间节点数</td><td>no(no -1)/2+2n0 +1</td></tr><tr><td>权值</td><td>n (no(n-1)/2+2n +1)</td></tr><tr><td>加法</td><td>n(n(no-1)/2+2n0)</td></tr><tr><td>乘法</td><td>n (n(n0-1)/2+2n0 +1)</td></tr><tr><td>f()</td><td>n</td></tr></table></body></html>
+
+表中 $n _ { 0 }$ 和 $n _ { \mathrm { { l } } }$ 分别表示MTN 输入和输出层的节点数。MTN只包括加法与乘法，其计算复杂度仅相当于神经网络中单个神经元的泰勒展开。
+
+# 2 MIMO非线性时滞系统多维泰勒网辨识方案
+
+本文采用MTN作为辨识模型，WE-CG 算法作为学习算法，WE 算法可以有效精简MTN网络结构。
+
+# 2.1MTN 辨识模型
+
+对于系统(1)，g[]可以由MTN以任意精度逼近，其映射关系记为g]，则MTN辨识模型可以写成如下形式：
+
+$$
+\begin{array} { r } { \hat { y } ( k ) = \hat { g } _ { \mathrm { I } } [ y ( k - 1 ) , y ( k - 2 ) , \cdots , y ( k - n _ { \mathrm { y } } ) , } \end{array}
+$$
+
+$$
+\pmb { u } ( k - d ) , \cdots , \pmb { u } ( k - n _ { u } - d ) , \hat { w } _ { \mathrm { I } } ( k ) ]
+$$
+
+其中， ${ \hat { \mathbf { y } } } ( k )$ 为MTN辨识模型输出，且 $\hat { \mathbf { y } } ( k ) = [ \hat { y } _ { 1 } ( k ) , \cdots , \hat { y } _ { q } ( k ) ] ^ { \mathrm { T } } \in R ^ { q }$ ：
+
+${ \hat { w } } _ { \mathrm { I } } ( k )$ 为 MTN权系数向量； $\hat { \pmb { g } } _ { 1 } ( \cdot ) = [ \hat { g } _ { 1 } ( \cdot ) , \cdots , \hat { g } _ { q } ( \cdot ) ] ^ { \mathrm { T } } \in R ^ { q }$ ; ${ \pmb u } ( k )$ ， $\mathbf { \Delta } _ { \mathbf { { y } } ( k ) }$ ，$n _ { y }$ ， $n _ { u }$ 和 $\textit { d }$ 与式(1)有相同的含义。
+
+然后，系统(4)在第 $k$ 时刻的第 $j$ 次输出分量为
+
+$$
+\begin{array} { r } { \hat { y } _ { j } ( k ) = \hat { g } _ { j } [ y _ { 1 } ( k - 1 ) , \cdots , y _ { 1 } ( k - n _ { y _ { 1 } } ) , \cdots , y _ { q } ( k - 1 ) , \cdots , } \\ { y _ { q } ( k - n _ { y _ { q } } ) , u _ { 1 } ( k - d ) , u _ { 1 } ( k - d - 1 ) , \cdots , \ ~ } \\ { u _ { 1 } ( k - d - n _ { u _ { 1 } } ) , \cdots , u _ { p } ( k - d ) , u _ { p } ( k - d - 1 ) , \cdots , \ ~ } \\ { u _ { p } ( k - d - n _ { u _ { p } } ) , w _ { j } ] \quad \quad \quad } \end{array}
+$$
+
+为了方便而不失一般性，记
+
+$$
+\hat { \mathbf { t } } _ { \mathrm { u } } = \sum _ { \mathrm { i } = 1 } ^ { \mathrm { p } } ( \mathbf { n } _ { \mathrm { u } _ { \mathrm { i } } } + 1 )
+$$
+
+$$
+\hat { \mathbf { t } } _ { \mathrm { y } } = \sum _ { \mathrm { j } = 1 } ^ { \mathrm { q } } ( \mathbf { n } _ { \mathrm { y } _ { \mathrm { j } } } + 1 )
+$$
+
+$$
+\hat { \mathbf { t } } = \hat { \mathbf { t } } _ { \mathrm { u } } + \hat { \mathbf { t } } _ { \mathrm { y } }
+$$
+
+$$
+\begin{array} { r l } & { \hat { z } ( k ) = [ \hat { z } _ { 1 } ( k ) , \cdots \hat { z } _ { \hat { t } _ { y } } ( k ) , \hat { z } _ { \hat { t } _ { y } + 1 } ( k ) , \cdots , \hat { z } _ { \hat { t } } ( k ) ] ^ { \mathrm { T } } = } \\ & { \quad \quad \quad [ y _ { 1 } ( k - 1 ) , \cdots , y _ { q } ( k - n _ { y _ { q } } ) , u _ { 1 } ( k - \mathrm { d } ) , \cdots , u _ { p } ( k - n _ { u _ { p } } - d ) ] ^ { \mathrm { T } } } \end{array}
+$$
+
+MTN 的第j次输出分量 ${ \hat { y } } _ { j } ( k )$ 的权值向量为
+
+$$
+\hat { \pmb { w } } _ { \mathrm { j } } ( \mathbf { k } ) = [ \hat { \bf w } _ { \mathrm { j , l } } ( \mathbf { k } ) , . . . , \hat { \bf w } _ { \mathrm { j , \hat { N } ( \hat { t } , \hat { m } ) } } ( \mathbf { k } ) ] ^ { \mathrm { T } }
+$$
+
+则，相应的MTN模型(5)可以改写成如下形式[17]
+
+$$
+\hat { y } _ { j } ( k ) = \sum _ { \hat { r } = 1 } ^ { \hat { N } ( \hat { t } , \hat { m } ) } \hat { w } _ { j , \hat { r } } ( k ) \prod _ { \hat { s } = 1 } ^ { \hat { t } } \hat { z } _ { \hat { s } } ^ { \hat { \lambda } ( \hat { r } , \hat { s } ) } ( k )
+$$
+
+其中， $\hat { N } ( \hat { t } , \hat { m } )$ 表示 $\hat { t }$ 元函数 $\hat { g } _ { j } ( \cdot )$ 展开成 $\hat { m }$ 次逼近多项式乘积项的总项数， $\hat { w } _ { j , \hat { r } } ( k )$ 表示式(6)中第 $\hat { r }$ 个乘积项的权重系数，(,s)表示第 $\hat { r }$ 个乘积项中变量 $\hat { z } _ { \hat { s } } ( k )$ 的次数，且.≤。
+
+# 2.2模型学习算法
+
+# 2.2.1共轭梯度法
+
+MTN参数可以通过采样学习与适当的学习算法来获得。
+
+设采样集 $T = \{ ( \boldsymbol { \mathbf { u } } ( k ) , \boldsymbol { \mathbf { y } } ( k + 1 ) ) \} _ { k = 0 } ^ { _ { N - 1 } }$ ， $\pmb { u } ( k ) \in R ^ { \prime }$ 为系统输入，$\mathbf { y } ( k + 1 ) \in R ^ { _ { q } }$ 为系统输出。误差变化方程如下：
+
+$$
+\begin{array} { l } { { \hat { E } = \displaystyle \frac { 1 } { N } \sum _ { k = 0 } ^ { s - 1 } ( y ( k + 1 ) - \hat { y } ( k + 1 ) ) ^ { * } } } \\ { { \displaystyle ~ - \frac { 1 } { N } \sum _ { k = 1 } ^ { s - 1 } ( y _ { i } ( k + 1 ) - \sum _ { k = 1 } ^ { \hat { x } ( \hat { \iota } , \hat { \iota } ) } \hat { \iota } _ { j , \hat { \iota } } ( k ) \prod _ { \hat { \varepsilon } = 1 } ^ { \hat { \iota } } \hat { z } _ { \hat { \iota } } ^ { \hat { \iota } ( \hat { \iota } , \hat { s } ) } ( k ) ) ^ { * } } } \end{array}
+$$
+
+$$
+\hat { \pmb { c } } ( { \bf k } ) = \left( \prod _ { i = 1 } ^ { \hat { t } } \hat { z } _ { \hat { s } } ^ { \hat { \lambda } ( 1 , \hat { s } ) } ( k ) , \prod _ { \hat { s } = 1 } ^ { \hat { t } } \hat { z } _ { \hat { s } } ^ { \hat { \lambda } ( 2 , \hat { s } ) } ( k ) , . . . , \prod _ { \hat { s } = 1 } ^ { \hat { t } } \hat { z } _ { \hat { s } } ^ { \hat { \lambda } ( \hat { \bf N } ( \hat { \bf u } , \hat { \bf u } ) , \hat { s } ) } ( k ) \right) ^ { \top }
+$$
+
+$$
+\hat { \pmb { A } } = ( \hat { \mathbf { c } } ( 0 ) , \hat { \mathbf { c } } ( 1 ) , . . . , \hat { \mathbf { c } } ( \mathbf { N } - 1 ) )
+$$
+
+$$
+\hat { \pmb { w } } _ { j } ( k ) = \left( \hat { w } _ { j , 1 } ( k ) , \hat { w } _ { j , 2 } ( k ) , \cdots , \hat { w } _ { j , \hat { N } ( \hat { t } , \hat { m } ) } ( k ) \right) ^ { \top } , j = 1 , 2 , . . . , q
+$$
+
+$$
+\hat { \pmb { w } } _ { \mathrm { r } } = ( \hat { w } _ { \mathrm { i } } ( k ) , \hat { w } _ { \mathrm { 2 } } ( k ) , . . . , \hat { w } _ { \hat { N } ( \hat { t } , \hat { m } ) } ( k ) ) ^ { \mathrm { r } }
+$$
+
+则，式(7)可以写成如下形式：
+
+$$
+\begin{array} { l } { \displaystyle \hat { E } = \frac { 1 } { \mathrm { N } } \tilde { \sum } _ { \mathrm { i } \cdot \mathrm { o } } ^ { \cdot } ( \hat { w } _ { \uparrow } \hat { c } ( k ) - { \mathbf { y } } ( k + 1 ) ) ^ { 2 } = } \\ { \displaystyle \quad \frac { 1 } { \mathrm { N } } \hat { w } _ { \uparrow } ^ { \mathrm { ~ s ~ } } \tilde { \sum } _ { \mathrm { i } \cdot \mathrm { o } } ^ { \cdot } ( \hat { c } ( k ) \hat { c } ^ { \prime } ( k ) ) \hat { w } _ { \downarrow } - } \\ { \displaystyle \quad \frac { 2 } { \mathrm { N } } \Big ( { \frac { \tilde { \sum } _ { \mathrm { i } \cdot \mathrm { o } } ^ { \cdot } { \mathbf { y } } ( k + 1 ) \hat { c } ^ { \prime } ( k ) } { \mathrm { ~ s ~ } ^ { \prime } } } \Big ) \hat { w } _ { \uparrow } + \frac { 1 } { \mathrm { ~ N ~ } _ { \downarrow \cdot \mathrm { o } } ^ { \cdot - 1 } } { \mathbf { y } } ^ { \ast } ( k + 1 ) } \end{array}
+$$
+
+计算 $\hat { E }$ 关于 $\hat { \pmb { w } } _ { \mathrm { I } }$ 的偏导数，得
+
+$$
+\frac { \partial \hat { E } } { \partial \hat { w } _ { \mathrm { I } } } = \frac { 2 } { \mathrm { N } } \sum _ { k = 0 } ^ { \mathrm { N } - 1 } \bigl ( \hat { c } ( k ) \hat { c } ^ { \mathrm { T } } ( k ) \bigr ) \hat { w } _ { \mathrm { I } } - \frac { 2 } { \mathrm { N } } \sum _ { k = 0 } ^ { \mathrm { N } - 1 } y ( k + 1 ) \hat { c } ( k )
+$$
+
+$$
+\hat { \pmb { g } } = \frac { \hat { c } \hat { E } } { \hat { \sigma } \hat { w } _ { \mathrm { t } } } , \quad \hat { \pmb { Q } } = \frac { 2 } { \mathrm { N } } \sum _ { k = 0 } ^ { \mathrm { N } - 1 } \bigl ( \hat { c } ( k ) \hat { c } ^ { \intercal } ( k ) \bigr ) \ , \quad \hat { l } = - \frac { 2 } { \mathrm { N } } \sum _ { k = 0 } ^ { \mathrm { N } - 1 } \mathbf { y } ( k + 1 ) \hat { c } ( k )
+$$
+
+则，可以得到
+
+$$
+\hat { \pmb g } = \hat { Q } \hat { w } _ { \mathrm { 1 } } + \hat { l }
+$$
+
+设 $\pmb { y } = \left( \mathbf { y } ( 1 ) , \mathbf { y } ( 2 ) , \cdots , \mathbf { y } ( \mathbf { N } ) \right) ^ { \mathrm { T } }$ ， $\boldsymbol { \hat { \varrho } } \mathrm { ~ , ~ } \boldsymbol { \hat { \imath } }$ 和 $\hat { \pmb g }$ 可以重新写成如下形式：
+
+$$
+\hat { Q } = \frac { 2 } { \bf N } \hat { A } \hat { A } ^ { \mathrm { r } } , \hat { l } = - \frac { 2 } { \bf N } \hat { A } y , \hat { g } = \frac { 2 } { \bf N } \hat { A } ( \hat { A } ^ { \mathrm { r } } \hat { w } _ { \mathrm { I } } - y ) \mathrm { ~ } _ { \circ }
+$$
+
+为了获得一个精确的模型，权重系数向量 $\hat { \pmb { w } } _ { \mathrm { I } }$ 的值应该通过数据 $\{ { \pmb u } ( k ) , { \pmb y } ( k + 1 ) \}$ 来更新。梯度法是一种常用的优化方法，其可以对参数进行调整，即， $\hat { \pmb { w } } _ { \mathrm { I } }$ 可以根据每次离线MTN的负梯度方向来更新一次。设 $\hat { \pmb { w } } _ { \tau }$ 为 $\hat { \pmb { w } } _ { \mathrm { I } }$ 经过 $\tau$ 步训练后的值，则$\hat { \pmb w } _ { \tau + 1 } = \hat { \pmb w } _ { \tau } - \hat { \pmb \mu } _ { \tau } \hat { \pmb g } _ { \tau }$ ，其中 。然而，梯度法采用锯齿形的方式到达最小值点，所以其搜索方向会一直保持垂直。幸运的是，采用共轭梯度法可以有效地解决这一问题，其权重可以更新如下：
+
+$$
+\hat { \pmb { w } } _ { \tau + 1 } = \hat { \pmb { w } } _ { \tau } + { \pmb { \mu } } _ { \tau } \hat { \pmb { p } } _ { \tau }
+$$
+
+其中， $\hat { \pmb { p } } _ { \tau } = - \hat { \pmb { g } } _ { \tau } + \hat { \pmb { s } } _ { \tau - 1 } \hat { \pmb { p } } _ { \tau - 1 }$ ， $\pmb { \mu } _ { \tau } = \frac { \hat { \pmb { g } } _ { \tau } ^ { \mathrm { T } } \hat { \pmb { g } } _ { \tau } } { \hat { \pmb { g } } _ { \tau } ^ { \mathrm { T } } \hat { \pmb { Q } } \hat { \pmb { g } } _ { \tau } }$ ， $\hat { s } _ { \tau \cdot l } = \frac { \hat { g } _ { \tau } ^ { \scriptscriptstyle \mathrm { \scriptscriptstyle T } } \hat { Q } \hat { p } _ { \tau - 1 } } { \hat { p } _ { \tau - 1 } ^ { \scriptscriptstyle \mathrm { \scriptscriptstyle T } } \hat { Q } \hat { p } _ { \tau - 1 } }$ ，初始值$\hat { { \pmb p } } _ { 1 } = - \hat { { \pmb g } } _ { 1 }$ 。
+
+2.2.2WE-CG算法
+
+随着MTN的输入节点增加，会导致“维数爆炸”，因此有必要精简网络结构。权剪枝算法可用于精简MTN的中间节点，以此来减小网络的复杂度。本节通过结合CG法与WE法，即WE-CG法作为MTN辨识模型的学习算法。
+
+引理 $3 ^ { [ 2 8 ] }$ 假设目标函数 $h ( x )$ 可由最小结构网络 $N e t _ { ( h - 1 ) }$ 实现，网络 $N e t _ { ( h ) }$ 比 $N e t _ { ( h - 1 ) }$ 多一个中间节点。如果 $N e t _ { ( h ) }$ 能实现$h ( x )$ ，则 $N e t _ { ( h ) }$ 或者有 $_ { h - 1 }$ 个中间节点与中间节点 $N e t _ { ( h - 1 ) }$ 完全重合，而余下的那个独立中间节点输出权值为零；或者$N e t _ { ( h ) }$ 中有h-2个中间节点与 $N e t _ { ( h - 1 ) }$ 中的中间节点完全重合：而余下的两个重合的中间节点叠加后与 $N e t _ { ( h - 1 ) }$ 中最后一个中间节点相等。
+
+根据引理3，当训练样本充分多时，中间节点的衰减和重合是必然的。因此，有必要使用剪枝算法来精简网络，在去掉冗余节点后的网络仍然可以表示一个目标函数。本文通过正则化实现对MTN冗余节点删除来精简MTN网络结构。
+
+由于该正则化项具有剪枝特性[29.30]，因此一些冗余的输出权值将逐步衰减到零，从而可以删除与之相连的中间节点，基于此，本节在CG算法的基础上引入带有高斯正则化项的权剪枝算法作为MTN辨识模型的学习算法。
+
+本文采取如下目标函数：
+
+$$
+J ( w _ { \mathrm { I } } ) { = } \hat { E } ( w _ { \mathrm { I } } ) { + } \gamma C ( w _ { \mathrm { I } } )
+$$
+
+其中， $\hat { E } ( w _ { \mathrm { l } } )$ 通常为网络误差平方和；等式右边第二项为正则化项；γ为正则化系数，且 $\gamma \geq 0$ ； $C = - \frac { 2 w _ { i } ^ { 2 } / w _ { 0 } ^ { 2 } } { ( 1 + w _ { i } ^ { 2 } / w _ { 0 } ^ { 2 } ) ^ { 2 } }$ ，且 $w _ { 0 }$ 为基准权值。当某些中间节点的输出权值满足式(13)时，去掉中间节点。
+
+$$
+\left| \boldsymbol { w } _ { i } \right| < \boldsymbol { w } _ { \mathrm { m i n } }
+$$
+
+其中， $w _ { \mathrm { { m i n } } }$ 为临界权值。由于正则化系数 $\gamma$ 的取值对学习结果有很大影响，因此提出一种在学习过程中动态改变／的方案，即在每次数据中心修正后，动态修改 $\gamma$ 。MTN辨识模型 ${ \pmb w } _ { \mathrm { I } }$ 的调整方法采用如下等式[29,30]。
+
+$$
+\begin{array} { r } { \pmb { w } _ { \mathrm { I } } ( k { + } 1 ) { = } \pmb { w } _ { \mathrm { I } } ( k ) { + } \hat { \mu } _ { \bar { r } } \hat { \pmb p } _ { \bar { r } } { + } \gamma C ( \pmb { w } ) } \end{array}
+$$
+
+其中， $\hat { \mu } _ { \bar { \tau } }$ ， $\hat { p } _ { \bar { \tau } }$ 与式(11)中的含义相同； $\gamma$ ， $C ( w )$ 与式(12)中的含义相同。
+
+本节参照Weigend等人 $[ 2 9 , 3 0 ]$ 给出的正则化参数调整方法，在学习过程中随时检测以下误差量之间的关系：
+
+$E ( k )$ ：当前时刻权值调节时的误差;
+
+$E ( k - 1 )$ ：前一时刻权值调节时的误差;
+
+$A ( k )$ ：当前时刻的加权平均误差，定义为 $A ( k ) = \kappa A ( k - 1 ) + ( 1 - \kappa ) E ( k )$ ，其中 $\kappa$ 为接近于1的系数；
+
+$D$ ：期望误差值，如果没有先验知识，可设定 $D = 0$ ，但此时计算时间可能较长。
+
+对 $\gamma$ 进行动态调节，具体规则如下：
+
+如果 $E ( k ) < E ( k - 1 )$ ，或 $E ( k ) < D$ ，则 $\gamma ( k ) = \gamma ( k - 1 ) + \Delta \gamma$ ：
+
+如果 $E ( k ) \geq E ( k - 1 )$ ，或 $E ( k ) < A ( k )$ ，且 $E ( k ) \geq D$ ，则$\gamma ( k ) = \gamma ( k - 1 ) - \Delta \gamma$ ;
+
+如果 $E ( k ) \geq E ( k - 1 )$ ，或 $E ( k ) \geq A ( k )$ ，且 $E ( k ) \geq D$ ，则$\gamma ( k ) = \sigma \gamma ( k - 1 )$ ，其中 $\sigma$ 为接近1的系数。
+
+# 2.3MTN辨识方案
+
+本文针对MIMO非线性时滞系统，提出基于MTN的辨识方案。首先，MTN作为辨识模型；其次，WE-CG算法作为MTN辨识模型的学习算法；WE算法对MTN辨识模型结构进行精简从而降低计算复杂度以满足实时性要求。具体过程如算法1所示。
+
+算法1基于MTN的 MIMO非线性时滞系统辨识步骤1:确定MTN辨识模型结构与初始权值；
+
+步骤2:按照误差标准函数(7)，MTN辨识模型由WE-CG 算法进行训练;
+
+步骤3:由式(14)更新；
+
+步骤4：重复步骤2-4，直到误差满足给定精度停止训练。
+
+# 3 实验结果及分析
+
+本文通过一个数值仿真例子和一个实例-连续搅拌反映器系统(continuous stirred tank reactor,CSTR)过程，来验证所提方案的准确性与实时性。
+
+# 3.1算例
+
+考虑如下的MIMO非线性时滞系统：
+
+$$
+\begin{array} { c } { { y _ { 1 } ( k ) = \displaystyle { \frac { 2 y _ { 1 } ( k - 1 ) u _ { 1 } ^ { 2 } ( k - 1 ) } { 1 + y _ { 1 } ^ { 2 } ( k - 1 ) } } + 0 . 3 u _ { 1 } ( k - 1 - d ) + 0 . 7 u _ { 1 } ( k - 2 ) + } } \\ { { 0 . 2 u _ { 2 } ( k - d ) + \sin ( 0 . 5 u _ { 2 } ( k - d ) ) } } \\ { { y _ { 2 } ( k ) = \displaystyle { \frac { 1 . 7 y _ { 2 } ( k - 1 ) u _ { 2 } ^ { 2 } ( k - 1 ) } { 1 + y _ { 2 } ^ { 2 } ( k - 1 ) } } + 0 . 5 u _ { 2 } ( k - 1 - d ) + 0 . 5 u _ { 2 } ( k - 2 ) + } } \\ { { 0 . 2 u _ { 1 } ( k - d ) + \sin ( 0 . 5 u _ { 2 } ( k - d - 2 ) ) } } \end{array}
+$$
+
+其中， $d = 6$ 。
+
+输入为单位阶跃信号，MTN辨识模型采用6-28-2的结构，即6个输入节点，展开到2次，WE-CG算法作为其学习算法。CG学习算法设定如下：迭代次数为200。WE算法设定如下：参考权值为0.1，正则化系数初值为0，滤波系数为 $\scriptstyle \kappa = 0 . 0 9 2$ ， $\scriptstyle \gamma = 0 . 9 9 5$ ，正则化系数的增量为$0 . 5 { \times } 1 0 ^ { - 4 }$ ，消除冗余权重的阈值为0.05。其中用200个采样时刻进行训练，100个采样时刻用于测试。
+
+在图2、3中，y1和y2为系统输出，WE-CG-MTN为所提辨识方案，CG-MTN为对比方案。
+
+![](images/873179b8e270b5b9db984fd113151593e770eaaa67d7f90431f51b39c0bebd53.jpg)  
+图2子系统1辨识  
+Fig.2Identification of sub-system 1
+
+![](images/6783357a0c5d238cf379251c6b199c4fb85a86bede9c9e37300b6619c840915d.jpg)  
+图3子系统2辨识  
+Fig.3Identification of sub-system 2
+
+图2与3为辨识过程，其中，图2(a)和图3(a)为辨识结果，图2(b)和图3(b)为学习误差曲线，图2(c)和图3(c)为正则化系数的学习变化曲线，图2(d)和图3(d)为网络剪枝过程。尽管正则化系数的变化并不是平滑的学习过程，但WE算法的平滑的学习曲线表明MTN权重变化过程不会导致严重波动的训练误差，并对最后的剪枝的结果影响较小。
+
+从仿真结果中本文可以看到，针对第一个子系统，WE-CG-MTN方案和CG-MTN方案训练的均方误差分别为0.0318和0.0285，测试的均方误差分别为0.0365和0.0364；对于第二个子系统，WE-CG-MTN方案和CG-MTN方案训练的均方误差分别为0.0172和0.0172，测试的均方误差分别为0.0521和0.0520。可以看出，WE算法的引入虽然对学习误差有少许影响，但是对于两个子系统，去除冗余中间节点后，其节点分别只有11个和19个，这大大减少了计算量，增加了实时性能。WE-CG-MTN与CG-MTN辨识方案的复杂度分析如表2所示。
+
+表2复杂度分析  
+Tab.2 Computation complexity analysis   
+
+<html><body><table><tr><td>预测模型构建方案</td><td>结构</td><td>加法</td><td>乘法</td><td>浮点数总和</td></tr><tr><td>WE-CG-MTN</td><td>6-11-2</td><td>20</td><td>22</td><td>42</td></tr><tr><td>CG-MTN</td><td>6-28-2</td><td>54</td><td>56</td><td>110</td></tr></table></body></html>
+
+从表2看到经过精简后的MTN辨识模型的浮点数远远小于经典的MTN辨识方案，也就是说本文的计算量远远小于经典的MTN辨识方案，即所提方案具有很好的实时性能。
+
+需要指出的是，MTN相当于神经网络的一个神经元，其计算量远远小于神经网络，相关文献已经对传统MTN辨识模型和BP神经网络辨识模型的准确性与实时性进行了对比分析，表明传统MTN辨识模型优于BP神经网络辨识模型[19]。这里，本文对比了所提方案与传统 MTN 辨识方案的准确性与实时性分析，通过图2、3与表2看出，从准确性分析角度，无论是训练的均方误差，还是测试的均方误差，本文所提辨识方案与传统MTN辨识方案几乎属于同一数量级，而从计算复杂度角度，本文所提辨识方案的计算量少于传统的MTN辨识方案，即实时性更优。
+
+# 3.2 实例-CSTR过程
+
+CSTR为厌氧处理过程，其为一个由原油与微生物完全混合的状态[31\~34]，如图4所示。CSTR 生成装置是带有搅拌装置的密闭水箱，其是一个具有时滞的典型非线性化工过程。
+
+CSTR模型采用如下模型[35]:
+
+$$
+\begin{array} { c } { { \displaystyle \frac { d x _ { 1 } ( t ) } { d t } = - x _ { 1 } ( t ) + { \cal D } _ { a } [ 1 - x _ { 1 } ( t ) ] \exp ( \displaystyle \frac { x _ { 2 } ( t ) } { 1 + x _ { 2 } ( t ) / \varphi } ) + } } \\ { { { \cal C } [ u _ { 1 } ( t - \tau ) - x _ { 1 } ( t ) ] } } \\ { { { } } } \\ { { \displaystyle \frac { d x _ { 2 } ( t ) } { d t } = - x _ { 2 } ( t ) + { \cal B } { \cal D } _ { a } [ 1 - x _ { 1 } ( t ) ] \exp ( \displaystyle \frac { x _ { 2 } ( t ) } { 1 + x _ { 2 } ( t ) / \varphi } ) + } } \\ { { { \cal C } [ u _ { 2 } ( t - \tau ) - x _ { 2 } ( t ) ] } } \end{array}
+$$
+
+离散化，得
+
+$$
+\begin{array} { r l } & { x _ { 1 } ( k ) = x _ { 1 } ( k - 1 ) - x _ { 1 } ( k - 1 ) \Delta T + D _ { a } [ 1 - x _ { 1 } ( k - 1 ) ] } \\ & { \qquad \mathrm { e x p } ( \frac { x _ { 2 } ( k - 1 ) } { 1 + x _ { 2 } ( k - 1 ) / \varphi } ) \Delta T + C [ u _ { 1 } ( k - d ) - x _ { 1 } ( k ) ] \Delta T } \\ & { x _ { 2 } ( k ) = x _ { 2 } ( k - 1 ) - x _ { 2 } ( k - 1 ) \Delta T + B D _ { a } [ 1 - x _ { 1 } ( k - 1 ) ] } \\ & { \qquad \mathrm { e x p } ( \frac { x _ { 2 } ( k - 1 ) } { 1 + x _ { 2 } ( k - 1 ) / \varphi } ) \Delta T + C [ u _ { 2 } ( k - d ) - x _ { 2 } ( k ) ] \Delta T } \end{array}
+$$
+
+其中， $D _ { a } = 0 . 0 0 8$ ， $\scriptstyle \varphi = 1 0$ ， $B { = } 6$ ， $C = 0 . 5$ ， $d = 6$ ，采样时间 $\Delta T$ 为 $0 . 1 \mathrm { s }$ 。
+
+$$
+y _ { 1 } ( k ) = x _ { 1 } ( k ) \ ; \quad y _ { 2 } ( k ) = x _ { 2 } ( k )
+$$
+
+![](images/7b4fa24c2047a5db96bcd7d6b2a4d14799687725a0b081e0f72b97a274c00da5.jpg)  
+图4CSTR过程 Fig.4 CSTR process
+
+输入采用单位阶跃信号，MTN辨识模型采用6-28-2的结构，即6个输入节点，展开到2次，WE-CG算法作为其学习算法。CG学习算法设定如下：迭代次数为1000。WE算法设定如下：参考权值为0.1，正则化系数初值为0，滤波系数为 $\scriptstyle \kappa = 0 . 0 9 2$ ， $\scriptstyle \gamma = 0 . 9 9 5$ ，正则化系数的增量为 $0 . 5 { \times } 1 0 ^ { - 4 }$ ，消除冗余权重的阈值为0.05。其中用1000个采样时刻进行训练，200个采样时刻用于测试。
+
+图5与图6为辨识过程，其中，图5(a)和图6(a)为辨识结果，图5(b)和图6(b)为学习误差曲线，图5(c)和图6(c)为正则化系数的学习变化曲线，图5(d)和图6(d)为网络剪枝过程。尽管正则化系数的变化并不是平滑的学习过程，但WE算法的平滑的学习曲线表明MTN 权重变化过程不会导致严重波动的训练误差，并对最后的剪枝的结果影响较小。
+
+从仿真结果中本文可以看到，针对第一个子系统，WE-CG-MTN方案训练的均方误差为0.0024，测试的均方误差为0.0052；对于第二个子系统，WE-CG-MTN方案训练的均方误差为0.0065，测试的均方误差分别为0.0108。可以看出，WE 算法的引入虽然对学习误差有少许影响，但是对于两个子系统，去除冗余中间节点后，其节点分别只有2个和7个，这大大减少了计算量，增加了实时性能。
+
+需要说明的是MTN辨识模型结构的选择，本文采用6-28-2的结构，即6个输入节点，展开到2次，由图1可知中间层节点数为28个。当输入节点数不变，随着展开次数的增加，中间节点数会随之增加，造成节点冗余的发生。对于WE参数的选取，其决定了剪枝的效果，通常通过多次实验来确定参数的选择。本文看到在引入WE算法后，去除了中间冗余节点，减少了计算量。但是由于使用相同的计算机，相同的时间来做实时性分析是不可能的，因此本文利用浮点数来估计方案的计算复杂度，一个加号和一个乘号都叫作一个浮点，加号和乘号的总数作为总的浮点数，即浮点数的总和代表着计算复杂度。本文对MTN模型(CG-MTN)和精简MTN模型(WE-CG-MTN)的浮点数进行了对比，说明精简MTN模型浮点数远远小于MTN模型。同时在以往研究中分析了MTN模型浮点数远远小于神经网络模型。这些说明本文所提方案有较低的计算复杂度，拥有较好的实时性能。
+
+![](images/02e929f36a8b75df7d3791ce99a5f6565e44571b6bf432861a71f4bb61c4ffcb.jpg)  
+图5子系统1辨识
+
+![](images/88232468920faa98959e82519049a3664e0872dca218fa43bd36dfac4984b87c.jpg)  
+Fig.5Identification of sub-system 1   
+图6子系统2辨识  
+Fig.6Identification of sub-system 2
+
+# 4 结束语
+
+针对MIMO非线性时滞系统提出了基于MTN的辨识方案。a）利用MTN的强大逼近性，MTN作为辨识模型。b)WE-CG算法作为MTN辨识模型的学习算法；WE算法可以有效精简MTN辨识模型结构，从而降低算法复杂度，提高模型实时性能。
+
+实验结果表明，本文所提辨识方案够准确地对MIMO非线性时滞系统进行辨识。同时，相比传统的MTN辨识方案，所提辨识方案结构更精简，具有更低的算法复杂度，实时性更好，为工程实践和硬件实施提供方便。
+
+虽然所提辨识方法展现出良好的性能，但仍需进一步的研究，比如：a)研究其他的精简辨识方案；b)研究多入多出非线性时滞系统控制问题；c)研究该方案应用到其他工程领域问题。
+
+# 参考文献：
+
+[1]Liu X, Yang XQ,Zhu PB,et al.Robust identification of nonlinear timedelay system in state-space form [J].Journal of the Franklin Institute, 2019,356 (16): 9953-9971.   
+[2] 侯明冬，王印松．一类非线性大滞后系统自适应积分滑模控制[J]. 控制理论与应用，2019,36（7):1182-1188.(Hou Mingdong,Wang Yinsong.An adaptive integral sliding mode control for a class of nonlinear large-lag systems [J]. Control Theory& Applications,2019,36 (7): 1182-1188.)   
+[3] Zhu Kun，Yu Chengpu，Wan Yiming．Recursive least squares identification with variable-direction forgetting via oblique projection decomposition [J].IEEE/CAA Journal of Automatica Sinica,2022,9 (3): 547-555.   
+[4]Ahmed S.Step response-based identification of fractional order time delay models [J].Circuits Syst Signal Process,2020,39: 3858-3874.   
+[5]陈茹雯，湛时时．基于非线性自回归时序模型的振动系统辨识[J]. 计算机应用研究,2016,33(10):3021-3025.(Chen Ruwen,Zhan Shishi. Identification based on GNAR model for vibration system [J]. Application Research of Computers,2016,33 (10):3021-3025.)   
+[6]Lu Lu,Yu Yi,Yang Xiaomin,et al. Time delay Chebyshev functional link artificial neural network[J]. Neurocomputing,2019,329:153-164.   
+[7]de Paula N C G,Marques F D.Multi-variable Volterra kernels identification using time-delay neural networks: application to unsteady aerodynamic loading [J].Nonlinear Dynamics,2019,97: 767-780.   
+[8]Ren Xuemei, Rad AB.Identification of nonlinear systems with unknown time delay based on time-delay neural networks [J].IEEE Transactions on Neural Networks,2007,18 (5):1536-1541.   
+[9]XuJun,Tao Qinghua,Li Zhen,etal.Eficient hinging hyperplanes neural network and itsapplication in nonlinear system identification [J]. Automatica,2020,116:108906.   
+[10] Wu Xiaolong,Han Honggui,Liu Zheng,et al.Data-knowledge-based fuzzy neural network for nonlinear system identification [J]. IEEE Transactions on Fuzzy Systems,2020,28 (9): 2209-2221.   
+[11] Rummelhart D E,Hinton G E,Williams R.J.Learning representations by back propagating errors [J]. Nature,1986,323: 533-536.   
+[12] Batselier K, Chen Zhongming, Wong N.A Tensor Network Kalman filter with an application in recursive MIMO Volterra system identification [J]. Automatica,2017,84:17-25.   
+[13] Chee E,Wang Xiaonan. Generalized system identification for nonlinear MPC of highly nonlinear MIMO systems [J]. IFAC-PapersOnLine, 2021, 54 (3): 366-371.   
+[14] Gray W S,Venkatesh G S,Espinosa L A D.Nonlinear system identification for multivariable control via discrete-time Chen-Fliess series [J].Automatica,2020,119:109085.   
+[15]严洪森．多维泰勒网优化控制[EB/OL].htps://automation.seu.edu. cn/yhs/list. htm,2021-07-06.(Yan Hongsen.MTN (multi-dimensional Taylor network) optimal control [EB/OL]. https://automation.seu.edu.   
+[17]周博，严洪森．基于小波和多维泰勒网动力学模型的金融时间序列 预测[J]．系统工程理论与实践,2013,33(10),2654-2662.(Zhou Bo, Yan Hongsen.Financial time series forecasting based on wavelet and multi-dimensional Taylor network dynamics model [J].Systems Engineering-Theory & Practice,2013,33(10): 2654-2662.)   
+[18]林屹，严洪森，周博．基于多维泰勒网的非线性时间序列预测方法 及其应用[J].控制与决策，2014,29(5):795-801.(Lin Yi,Yan Hongsen, Zhou Bo.Nonlinear time series prediction method based on multi-dimensional Taylor network and its applications [J]. Control and Decision,2014,29 (5): 795-801.)   
+[19] Li Chenlong,Yan Hongsen. Identification of nonlinear time-delay system using multi-dimensional Taylor network model [A]. In: The 8th International ConferenceonManipulation, Manufacturingand Measurement on the Nanoscale (IEEE 3M-NANO 2018)[C].Hangzhou, China,2018: 87-90.   
+[20]李晨龙，严洪森．基于多维泰勒网的超前d步预测模型[J].控制与 决策,2021,36 (2): 345-354.(Li Chenlong, Yan Hongsen.d-step-ahead predictive model based on multi-dimensional Taylor network [J]. Control and Decision,2021,36 (2): 345-354.)   
+[21] Li Chenlong,Yan Hongsen, Zhang Jiaojun. Multi-dimensional Taylor network adaptive predictive control for SISO nonlinear systems with input time-delay [J]. Transactions of the Institute of Measurement and Control,2021,DOI:10.1177/01423312211040294.   
+[22] Zhang Jiaojun, Yan Hongsen. MTNoptimal control of MIMO non-affine nonlinear time-varying discrete systems for tracking only by output feedback[J].Journal ofthe Franklin Institute,2019,356(8): 4304-4334.   
+[23] Li Chenlong, Yuan Changshun,Ma Xiaoshaung,et al. Integrated fault detection for nonlinear process monitoring based on Multi-dimensional Taylor Network [J].Assembly Automation,2022,htps://oi.org/10. 1108/AA-06-2021-0076.   
+[24] Han Yuqun, Yan Hongsen. Adaptive multi-dimensional Taylor network tracking control for SISO uncertain stochastic nonlinear systems [J].IET Control Theory and Applications,2018,12 (8): 1107-1115.   
+[25] Klambauer G. Mathematical analysis [M].New York:Marcel Dekker INC, 1975: 236-237.   
+[26]丁锋．系统辨识算法的复杂性、收敛性及计算效率研究[J].控制与 决策,2016,31 (10): 1729-1741. (Ding Feng.Complexity,convergence and computational efficiency for system identification algorithms [J]. Control and Decision,2016,31 (10): 1729-1741.)   
+[27] Golub G H, Van Loan C F.Matrix computations (Vol.3) [M].Baltimore: JHU Press,2012.   
+[28]魏海坤.神经网络结构设计的理论与方法[M].北京：国防工业出 版社,2005. (Wei Haikun.Theory and method of neural network structure design [M].National Defence Industry Press.Beijing, China, 2005.)   
+[29]魏海坤，丁维明，宋文忠，等.RBF网的动态设计方法[J].控制理论 与应用，2002,19(5): 673-680.(Wei Haikun,Ding Weiming,Song Wenzhong,et al. Dynamic method for designing RBF neural networks [J]. Control Theory and Applications,2002,19 (5): 673-680.)   
+[30] Weigend A S,Rumelhart D E, Huberman BA. Generalization by weightelimination with application to forcasting.In: Advances in Neural Information Processing Systems [C]. San Mateo,1991,3: 857-882.   
+[31] Zerari N,Chemachema,M.Robust adaptive neural network prescribed performance control for uncertain CSTR system with input nonlinearities and external disturbance [J].Neural Computing Applications.2O20,32: 10541-10554.   
+[32] Wu Qun,Du Wenli,Nagy Z. Steady-state target calculation integrating economic optimization for constrained model predictive control [J]. Computers& Chemical Engineering,2021,145:107145.   
+[33] Yang Xiong，Wei Qinglai.Adaptive critic designs for optimal eventdriven control of a CSTR system [J].IEEE Transactions on Industrial Informatics,2021,17(1): 484-493.   
+[34]Du Jing Jing,Johansen TA.A gap metric based weighting method for multimodel predictive control of MIMO nonlinear systems [J]. Journal of Process Control,2014,24: 1346-1357.   
+[35] Tan Yonghong,Cauwenberghe A V.Neural-network-based d-step-ahead predictors for nonlinear systems with time delay [J].Engineering Applications of Artificial Intelligence,1999,12:21-35.

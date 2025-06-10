@@ -1,0 +1,202 @@
+赵明明」马　涛」 赵江波」邓凯东²　肖　怡」马俊南」毛建红」贾　鹏」刁其玉1\*（1.中国农业科学院饲料研究所，农业部饲料生物技术重点实验室，北京100081；2.金陵科
+
+技学院动物科学与技术学院，南京210038)
+
+5摘要：本试验旨在用套算法和插值法测定与估测肉用绵羊花生秧有效能值，确定替代法中饲粮中适宜花生秧替代比例，为单一秸秆饲料有效能值的测定与估测提供方法学上的参考。选用体重为（ $4 5 . 0 0 { \scriptstyle \pm 1 . 9 6 }$ ） $\mathbf { k g }$ 的体况良好的杜泊 $\times$ 小尾寒羊F1肉用成年羯羊54只，采用随机区组设计，分为9组，饲粮分别为基础饲粮、全花生秧饲粮和分别以 $10 \%$ 、 $20 \%$ 、 $30 \%$ 、$40 \%$ 、 $50 \%$ 、 $60 \%$ 、 $70 \%$ 花生秧替代基础饲粮的试验饲粮，每组6个重复，每个重复1只羊。预试期 $1 0 \mathrm { d }$ ；正试期9d，其中气体代谢试验 $3 \mathrm { d }$ ，消化代谢试验6d。结果表明：1）全花生秧饲粮组花生秧干物质（DM）表观消化率与 $20 \%$ 、 $30 \%$ 、 $40 \%$ 组间差异不显著（ $P { > } 0 . 0 5 )$ ，显著高于其他各组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )。全花生秧饲粮组花生秧有机物（OM）表观消化率与 $20 \%$ 组差异不显著 $( P { > } 0 . 0 5 )$ ，但显著高于其他各组（ $( P { < } 0 . 0 5 )$ )。全花生秧饲粮组花生秧总能（GE）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）、粗脂肪（EE）表观消化率显著高于 $10 \%$ 组（ $P { < } 0 . 0 5 )$ ，粗蛋白质（CP）表观消化率显著低于 $10 \%$ 组（ $P { < } 0 . 0 5 )$ ，与其他各组间差异不显著（ $\scriptstyle P > 0 . 0 5 .$ )。2）花生秧消化能（DE）、代谢能（ME）均具有相同的规律，即全花生秧饲粮组 DE、ME（8.57、6.69 MJ/kg DM）与 $20 \%$ （8.22、6.58 MJ/kg DM)、 $30 \%$ (8.02、6.50MJ/kg DM)、 $40 \%$ 组 $( 8 . 1 0 , 6 . 5 2 \mathrm { M J / k g  D M } )$ 差异不显著( $( P { > } 0 . 0 5 )$ ，但显著高于其他组( $. P { < } 0 . 0 5 )$ 。  
+3）插值法求得花生秧 ME"真值"为 $6 . 6 2 \mathrm { M J / k g  D M }$ ，接近于套算法得到的花生秧ME。综合得出，套算法可以用于肉用绵羊估测花生秧（单一粗饲料）的DE 和 ME；用套算法测定花  
+21 生秧秸秆类粗饲料有效能值，其在饲粮中的适宜替代比例为 $20 \% { \sim } 4 0 \%$ 。  
+22 关键词：肉羊；能量估测；代谢能；套算法；花生秧；有效能值
+
+中图分类号：S826
+
+我国养羊业历史悠久，是世界上羊存栏量、出栏量、羊肉产量最多的国家。2003-2014年国内羊存栏量基本稳定在 $2 . 8 \sim 3 . 0$ 亿只，随着羊存栏量增长及羊肉产业规模的扩大，养殖模式也由散户转变为集约规范化养殖。而完善的营养需要体系、精准的饲料营养参数数据库、适宜的饲养标准是肉羊养殖业科学、高效发展的奠基石。在实际生产中为了合理供给反刍动物饲粮、满足反刍动物营养需求，优化饲粮配方、提高养殖业综合效益，与饲养标准匹配的饲料的营养参数亟待确定，如代谢能（ME）、可代谢蛋白质等参数。美国的 NRC、英国的AFRC 等国际标准多采用ME 体系，我国肉羊的标准也采用ME。然而如何更加准确地获得饲料中的ME 是一个很大的困扰，目前现有的、能参考的能值多是采用体外法，或根据一些数学公式进行估测[1-3]。对于单胃动物单一饲料能值测定及预测模型的报道里，广泛应用了套算法并取得了满意的结果[4-8]。用体内法估测肉羊饲料能值困难较多，刘洁等[9]建立了配合饲粮的有效能值估测方程式，在单一粗饲料有效能值评定中鲜见报道，赵明明等[10]发现适宜的替代比例下套算法亦能准确测定出粗饲料羊草的ME。ME 是饲粮配方制定不可缺少的营养参数，但目前数据库中缺乏理想准确的粗饲料原料ME，因此亟待探索一种能够准确测定的方法。秸秆是被广泛应用的粗饲料资源，其中花生秧营养丰富，适口性好，是典型的秸秆型粗饲料。本文选用花生秧作为试验对象，探究套算法在肉用绵羊单一粗饲料能值评定中的应用方法以及花生秧的适宜替代比例，为花生秧等秸秆类原料ME 的准确测定提供方法学上的依据和相关参数。
+
+# 1材料与方法
+
+# 1.1 试验动物及试验设计
+
+选用体重为（ $4 5 . 0 0 { \scriptstyle \pm 1 . 9 6 }$ ）kg的体况良好的杜泊 $\times$ 小尾寒羊F1羯羊54只，分为9组，每组6个重复，每个重复1只羊，单独圈养于不锈钢羊栏 $( 3 . 2 \ \mathrm { m } \times 0 . 8 \ \mathrm { m } )$ 中。消化代谢和气体代谢试验于中国农业科学院中试基地进行，样品分析在中国农业科学院饲料研究所进行。
+
+# 1.2 试验原料、饲粮及配制
+
+# 1.2.1 花生秧原料
+
+花生秧品种为豫花9326号，试验样品于2014年10月在山东省济宁嘉祥县采集，刈割时留茬高度为 $3 \mathrm { c m }$ 左右。
+
+# 1.2.2 试验饲粮及配制
+
+试验所使用的饲粮，参照 NRC（2007） $[ 1 1 ] _ { 4 0 \sim 5 0 \mathrm { k g } }$ 成年肉用公羊1.3倍维持需要配制
+
+试验饲粮,包括基础饲粮、全花生秧饲粮和7组试验饲粮，试验饲粮采用花生秧分别以 $10 \%$ ，$20 \%$ 、 $30 \%$ 、 $40 \%$ 、 $50 \%$ 、 $60 \%$ 、 $70 \%$ 的比例替代基础饲粮。试验所用饲粮制成颗粒状饲料（直径 $4 . 5 \ \mathrm { m m }$ ，长 $1 0 \mathrm { m m } \cdot$ )。试验饲粮组成及营养水平见表1。
+
+表1试验饲粮组成及营养水平(干物质基础)  
+Table 1Composition and nutrient levels of experimental diets（DM basis ）   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2"></td><td colspan="7">替代比例 Substitution proportion/%</td><td rowspan="2">全花生秧饲 粮Full Peanut vine</td></tr><tr><td>基础饲粮 Basal 10</td><td>20</td><td>30</td><td>40</td><td>50</td><td>60</td><td>70</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>diet</td></tr><tr><td>花生秧 Peanut vine</td><td></td><td>9.76</td><td>19.51</td><td>29.27</td><td>39.02</td><td>48.78</td><td>58.54</td><td>68.29</td><td>97.81</td></tr><tr><td>玉米 Corn</td><td>23.80</td><td>21.42</td><td>19.04</td><td>16.66</td><td>14.28</td><td>11.90</td><td>9.52</td><td>7.14</td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>15.22</td><td>13.70</td><td>12.18</td><td>10.65</td><td>9.13</td><td>7.61</td><td>6.08</td><td>4.57</td><td></td></tr><tr><td>羊草Leymus chinensis</td><td>58.54</td><td>52.68</td><td>46.83</td><td>40.98</td><td>35.13</td><td>29.27</td><td>23.42</td><td>17.56</td><td></td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.15</td><td>1.15</td><td>1.15</td><td>1.15</td><td>1.15</td><td>1.15</td><td>1.15</td><td>1.15</td><td>1.45</td></tr><tr><td>石粉CaCO3</td><td>0.55</td><td>0.55</td><td>0.55</td><td>0.55</td><td>0.55</td><td>0.55</td><td>0.55</td><td>0.55</td><td></td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>预混料 Premix1)</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总能GE/(MJ/kg)</td><td>18.13</td><td>18.01</td><td>18.05</td><td>17.87</td><td>17.55</td><td>17.44</td><td>17.22</td><td>16.83</td><td>16.41</td></tr><tr><td>干物质 DM</td><td>92.66</td><td>92.73</td><td>92.52</td><td>92.89</td><td>92.53</td><td>92.59</td><td>92.96</td><td>92.14</td><td>92.37</td></tr><tr><td>有机物OM</td><td>91.98</td><td>92.86</td><td>92.10</td><td>91.89</td><td>91.16</td><td>90.75</td><td>90.02</td><td>88.38</td><td>89.19</td></tr><tr><td>粗蛋白质CP</td><td>12.83</td><td>12.50</td><td>12.60</td><td>12.43</td><td>12.26</td><td>11.50</td><td>11.70</td><td>10.60</td><td>8.53</td></tr><tr><td>中性洗涤纤维 NDF</td><td>42.84</td><td>45.18</td><td>47.41</td><td>50.30</td><td>50.58</td><td>52.20</td><td>52.89</td><td>53.07</td><td>55.78</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>24.60</td><td>25.84</td><td>25.84</td><td>27.77</td><td>29.18</td><td>31.63</td><td>32.59</td><td>34.14</td><td>38.25</td></tr><tr><td>粗脂肪 EE</td><td>2.91</td><td>2.90</td><td>2.53</td><td>2.70</td><td>2.45</td><td>2.53</td><td>2.63</td><td>2.60</td><td>2.30</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per kg of diets： $\mathrm { C u } 1 6 . 0 \mathrm { m g }$ ，Fe $6 0 . 0 \mathrm { m g }$ Mn 40.0 mg, $Z { \textrm { n } } 7 0 . 0 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 8 0 \mathrm { m g }$ ，Se $0 . 3 0 \mathrm { m g }$ ， $\mathrm { C o } 0 . 3 0 \mathrm { m g }$ ，VA 12 000 IU，VD5 000 IU，VE $5 0 . 0 \mathrm { m g }$ 。 2）实测值 Measured values。
+
+# 1.3 试验方法及操作
+
+试验期19d，分为预试期 $1 0 \mathrm { d }$ ，正试期9d，其中气体代谢（呼吸测热）试验3d，消化代谢试验6d。在试验结束时，将收集的每只羊粪混合后置于 $6 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘箱中 $^ { 4 8 \mathrm { ~ h ~ } }$ ，回潮 $^ { 4 8 \mathrm { ~ h ~ } }$ 后称重，用于计算初水分含量，在将粪样粉碎过40目网筛制成分析样品，以备分析检测。
+
+# 1.3.1 消化代谢试验
+
+在试验前通过饲喂基础饲粮确定日增重为 $0 ~ \mathrm { g / d }$ 的维持需要采食量，正试期对试验羊进行限饲（饲喂量 $\mathrm { 1 ~ 2 0 0 ~ g / d }$ ，08：00、18:00各喂 $6 0 0 \ \mathrm { g } \cdot$ ，全天自由饮水。消化代谢试验采用全收粪尿法，使用中国农业科学院饲料研究所设计的专用代谢笼，含有能将粪便与尿液自动分离的装置，收集粪、尿，每天称取并记录每只羊排粪量，按 $10 \%$ 取样，将每只羊6d的粪样混合冷冻保存，用盛有 $1 0 0 ~ \mathrm { m L } ~ 1 0 \% ~ \mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ 的塑料桶收集尿液，稀释至 $5 \mathrm { ~ L ~ }$ （防止贮存中有尿酸沉淀)，对稀释尿液充分混合，用纱布过滤后取每天的尿样 $2 0 ~ \mathrm { m L }$ ，将每只羊6d的尿样混合后于-20℃冰箱保存。
+
+# 1.3.2气体代谢（呼吸测热）试验
+
+气体代谢采用密闭呼吸箱式循环气体代谢系统(Sable),LGR气体分析仪测定甲烷产量、二氧化碳产量、氧气消耗量。此系统连接6个密闭呼吸箱，可以同时对6只动物的呼吸状态连续不间断地进行测定和记录。试验期间将试验羊分9批次移入密闭呼吸箱，每批次测定同一组的6只试验羊，进入此密闭呼吸箱后适应 $2 4 \mathrm { h }$ ，测定随后 $4 8 \mathrm { ~ h ~ }$ 的甲烷产量(包括呼吸道和消化道排出的甲烷)，用于计算饲粮ME。
+
+# 1.3.3 插值法测定ME
+
+插值法多用于估测饲料样品的 $\mathrm { M E } ^ { [ 1 2 ] }$ ，将待测定的饲料原料与基础饲粮按不同比例组成不同梯度的混合饲粮，采用消化代谢试验测定不同的混合饲粮的ME。以待测原料在饲粮中所占比例（%）为自变量 $( \boldsymbol { X } )$ ,以不同比例组成的混合饲粮的ME 实测值为因变量（Y)，建立回归方程式，设 $X { = } 1 0 0$ 带入式中求出被测原料的外插值ME"真值”。
+
+1.4 测定指标和方法
+
+# 1.4.1 营养物质测定方法
+
+饲粮、原料和粪样中的干物质（DM）、粗蛋白质（CP）、粗脂肪（EE）、中性洗涤纤维（NDF）、酸性洗涤纤维(ADF)、粗灰分（Ash）含量和总能（GE)，以及原料中钙（Ca）和磷（P）含量测定依据《饲料分析及饲料质量检测技术》[13]。
+
+# 1.4.2 ME
+
+尿能（UE）测定：取3块定量滤纸称重记为 ${ \bf m } _ { 1 }$ 、用Parr6400氧弹式量热仪测定能值，做3个重复，计算出滤纸GE。另取3张滤纸称重记为 $\mathbf { m } _ { 2 }$ ，后将 $1 0 ~ \mathrm { m L }$ 尿液分多次滴在这3张滤纸上，65℃烘干冷却后再次称重记为 $\mathbf { m } _ { 3 }$ ，于Parr6 400 氧弹式量热仪中测定滤纸和尿液GE。
+
+$\mathrm { U E = }$ （滤纸和尿液GE） $\times { m _ { 3 } }$ 滤纸 $\mathrm { G E } \times m _ { 2 }$ ：$\mathrm { M E = G E } .$ 粪能（FE）-UE-甲烷能；甲烷能（kJ） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 甲烷产量（L） $\times 3 9 . 5 4$ （kJ/L）[14]
+
+1.5 计算公式
+
+饲粮及原料营养物质表观消化率计算方法参照Adeola等[15]的方法，公式如下：
+
+饲粮营养物质表观消化率 $( \% ) =$ （食入的营养物质含量-粪中该营养物质含量）/食入的营养 物质含量;
+
+原料营养物质表观消化率 $( \% ) = [$ 饲粮营养物质表观消化率-（ $1 0 0 { - } X )$ $\times$ 基础饲粮中该营养物质表观消化率]/X。
+
+式中： $X$ 为待测原料替代基础饲粮比例 $( \% )$ 。
+
+套算法测定原料能值的计算参照刘德稳[7]、陶春卫[6的公式：
+
+能值 $\scriptstyle . = [$ 试验饲粮能值-（ $_ { 1 0 0 - X ) }$ $\times$ 基础词粮能值]/X。
+
+式中： $X$ 为待测原料替代基础饲比例 $( \% )$ 。能值包括：消化能（DE）、ME，单位为MJ/kg 。
+
+1.6 数据统计分析
+
+试验数据采用SAS9.2统计软件中的ANOVA过程进行单因素方差分析，并对组间进行Duncan氏法多重比较检验， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果
+
+2.1花生秧营养成分表2所示为花生秧营养水平实测值。
+
+表2花生秧营养水平 (干物质基础)  
+Table 2Nutrient levels of peanut vine (DM basis)   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>总能 GE/(MJ/kg DM) 16.22</td></tr><tr><td>干物质 DM 90.79</td></tr><tr><td>有机物OM 86.21</td></tr><tr><td>粗蛋白质CP 8.23</td></tr><tr><td>粗脂肪 EE 2.17</td></tr><tr><td>中性洗涤纤维NDF 59.20</td></tr><tr><td>酸性洗涤纤维ADF 43.67</td></tr><tr><td>磷P 0.31</td></tr></table></body></html>
+
+2.2不同花生秧替代比例对饲粮营养物质表观消化率影响
+
+表3所示为不同花生秧替代比例对饲粮营养物质表观消化率影响。可以看出，花生秧替代比例对饲粮各营养物质表观消化率影响显著（ $( P { < } 0 . 0 5 )$ )。随着花生秧替代比例的增加，饲粮DM、OM、CP、GE 和EE 表观消化率下降；饲粮 NDF 和 ADF 表观消化率在一定的范围内波动。
+
+表3不同花生秧替代比例对饲粮营养物质表观消化率影响  
+Table 3Effects of diferent peanut vine substitution proportions on nutrient apparent digestibility of diets （204号 $\%$ （204号   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">基础饲粮 Basal diet</td><td colspan="7">替代比例 Substitution proportion/%</td><td rowspan="2">全花生秧饲 粮Full</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>10</td><td>20</td><td>30</td><td>40</td><td>50</td><td>60</td><td>70 peanut vine</td></tr><tr><td>干物质 DM</td><td>63.10a</td><td>57.04bc</td><td>60.72ab</td><td>58.01bc</td><td>54.48bed</td><td>51.01d</td><td>52.11d</td><td>50.35d</td><td>diet 50.04d</td><td>0.67</td><td><0.000 1</td></tr><tr><td>有机物OM</td><td>65.13a</td><td>59.66bc</td><td>63.07ab</td><td>61.90b</td><td>59.09bc</td><td>55.17cd</td><td>52.84de</td><td>52.68de</td><td>54.22d</td><td>0.69</td><td><0.000 1</td></tr><tr><td>能GE</td><td>62.60a</td><td>57.13b</td><td>58.48b</td><td>55.82bc</td><td>53.55℃</td><td>52.45cd</td><td>50.74d</td><td>47.45e</td><td>48.63e</td><td>0.67</td><td><0.000 1</td></tr><tr><td>粗蛋白质CP</td><td>66.21a</td><td>64.62a</td><td>65.52a</td><td>63.03ab</td><td>63.69a</td><td>59.48bc</td><td>59.40bc</td><td>55.98cd</td><td>56.50cd</td><td>0.70</td><td><0.000 1</td></tr><tr><td>粗脂肪EE</td><td>71.35a</td><td>68.05b</td><td>67.60b</td><td>62.66</td><td>61.71°</td><td>56.25d</td><td>56.07d</td><td>55.07d</td><td>51.06ed</td><td>0.98</td><td><0.000 1</td></tr><tr><td>中性洗涤纤维 NDF</td><td>42.52cd</td><td>40.76d</td><td>44.46bc</td><td>44.22bc</td><td>46.53ab</td><td>43.82bc</td><td>45.76ab</td><td>44.54bc</td><td>47.21a</td><td>0.37</td><td><0.000 1</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>41.99cd</td><td>40.58d</td><td>43.63bc</td><td>44.90ab</td><td>41.93cd</td><td>44.58ab</td><td>42.52</td><td>43.84bc</td><td>46.20a</td><td>0.30</td><td><0.000 1</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $_ { . P < 0 . 0 5 } )$ ，无字母或字母相同表示差异不显著（ $_ { . P > 0 . 0 5 } )$ 。下表同。
+
+Values in the same row with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference( $P { > } 0 . 0 5$ ）.The same as below.
+
+# 2.3不同花生秧替代比例对饲粮能值的影响
+
+表4所示为不同花生秧替代比例下饲粮的实测能值。花生秧替代比例对饲粮FE、甲烷能、DE、ME影响显著( $( P { < } 0 . 0 5 )$ ，对饲粮UE、代谢能与消化能比(ME/DE)无显著影响( $P { > } 0 . 0 5 )$ 。随着花生秧替代比例的增加，各饲粮FE 增加， $50 \%$ 、 $60 \%$ 、 $70 \%$ 组及全花生秧饲粮组饲粮FE 显著高于其他各组（ $_ { . P < 0 . 0 5 ) }$ 。饲粮甲烷能随着花生秧替代比例的增加呈上升趋势，其中全花生秧饲粮组显著高于基础饲粮组及 $10 \%$ 、 $20 \%$ 、 $30 \%$ 、 $40 \%$ 组（ $. P { < } 0 . 0 5 )$ 。饲粮DE、ME均随花生秧替代比例的增加而减小，基础饲粮组饲粮DE 显著高于 $50 \%$ 、 $60 \%$ 、 $70 \%$ 组及全花生秧饲粮组（ $P { < } 0 . 0 5 )$ ，饲粮ME 显著高于 $40 \%$ 、 $50 \%$ 、 $60 \%$ 、 $70 \%$ 组及全花生秧饲粮组0 $( P { < } 0 . 0 5 )$ 。
+
+# 表4不同花生秧替代比例对饲粮能值的影响
+
+135 Table 4Effects of different peanut vine substitution proportions on energy values of diets   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">基础饲粮 Basal diet</td><td colspan="7">替代比例 Substitution proportion/%</td><td rowspan="2">全花生秧饲粮 Full peanut</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>10</td><td>20</td><td>30</td><td>40</td><td>50</td><td>60</td><td>70 vine diet</td></tr><tr><td>粪能FE</td><td>6.73d</td><td>7.55b</td><td>7.19℃</td><td>7.51b</td><td>7.49b</td><td>7.82a</td><td>7.94a</td><td>7.88a</td><td>8.03a</td><td>0.04</td><td><0.000 1</td></tr><tr><td>尿能UE</td><td>0.72</td><td>0.70</td><td>0.62</td><td>0.63</td><td>0.61</td><td>0.60</td><td>0.63</td><td>0.51</td><td>0.60</td><td>0.02</td><td>0.548 2</td></tr><tr><td>甲烷能CH4-E</td><td>1.09d</td><td>1.16bed</td><td>1.14bed</td><td>1.09d</td><td>1.12cd</td><td>1.17abed</td><td>1.19abc</td><td>1.21ab</td><td>1.24a</td><td>0.01</td><td>0.001 2</td></tr><tr><td>消化能 DE</td><td>11.35a</td><td>10.54ab</td><td>10.73ab</td><td>10.33abc</td><td>10.06abecd</td><td>9.63bcde</td><td>9.22cde</td><td>8.92ed</td><td>8.38e</td><td>0.18</td><td>0.000 2</td></tr><tr><td>代谢能 ME</td><td>9.53a</td><td>8.71ab</td><td>8.95ab</td><td>8.60ab</td><td>8.33bc</td><td>7.86bcd</td><td>7.59eed</td><td>7.19ed</td><td>6.54e</td><td>0.16</td><td><0.000 1</td></tr><tr><td>代谢能与消化 能比 ME/DE/%</td><td>83.99</td><td>82.61</td><td>83.39</td><td>83.32</td><td>82.81</td><td>81.68</td><td>80.55</td><td>80.55</td><td>78.04</td><td>0.74</td><td>0.5102</td></tr></table></body></html>
+
+2.4饲粮花生秧替代比例对花生秧营养物质表观消化率的影响
+
+套算法计算的花生秧营养物质表观消化率见表5。可以看出，饲粮花生秧替代比例对花生秧DM、OM、CP、GE、NDF、ADF、EE 的表观消化率存在显著影响（ $\cdot P { < } 0 . 0 5 \$ )。全花生秧饲粮组花生秧DM表观消化率与 $20 \%$ 、 $30 \%$ 、 $40 \%$ 组间差异不显著（ $_ { . P > 0 . 0 5 ) }$ ，显著高于其他各组( $( P { < } 0 . 0 5 )$ )。全花生秧饲粮组花生秧OM表观消化率与 $20 \%$ 组差异不显著( $( P { > } 0 . 0 5 )$ ，但显著高于其他各组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )。全花生秧饲粮组花生秧GE、NDF、ADF、EE 表观消化率显著高于 $10 \%$ 组，与其他各组间差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { : } }$ )。全花生秧饲粮组花生秧CP表观消化率显著低于 $10 \%$ 组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，与其他各组间差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+表5饲粮花生秧替代比例对花生秧营养物质表观消化率的影响  
+Table 5Effects of dietary peanut vine substitution proportion on nutrient apparent digestibility of peanut   
+
+<html><body><table><tr><td>146</td><td colspan="7">vine %</td><td colspan="4"></td></tr><tr><td rowspan="2">项目Items</td><td colspan="7">替代比例 Substitution proportion/%</td><td colspan="3">全花生秧饲粮</td><td rowspan="2">P值 P-value</td></tr><tr><td>10</td><td>20</td><td></td><td>30</td><td>40</td><td>50</td><td>60</td><td>70</td><td>Full peanut vine diet</td><td>SEM</td></tr><tr><td>干物质 DM</td><td>19.59€</td><td>54.81a</td><td>54.36a</td><td>50.02ab</td><td>45.21b</td><td>44.88b</td><td>46.08b</td><td></td><td>55.44a</td><td>1.54</td><td><0.000 1</td></tr><tr><td>有机物OM</td><td>18.55e</td><td>48.90ab</td><td>41.75cd</td><td>41.55cd</td><td>38.91d</td><td>44.77bc</td><td></td><td>44.89bc</td><td>51.16a</td><td>1.35</td><td><0.000 1</td></tr><tr><td>总能GE</td><td>15.46b</td><td>46.49a</td><td>40.29a</td><td>41.66a</td><td>43.33a</td><td></td><td>43.59a</td><td>41.44a</td><td>49.72a</td><td>1.73</td><td><0.000 1</td></tr><tr><td>粗蛋白质CP</td><td>79.04a</td><td>62.76b</td><td>55.59bc</td><td>59.90bc</td><td>52.75bc</td><td>54.86bc</td><td></td><td>51.60℃</td><td>57.76bc</td><td>1.51</td><td><0.000 1</td></tr><tr><td>粗脂肪 EE</td><td>38.23℃</td><td>52.59a</td><td>43.46abc</td><td>47.475ab</td><td>44.31abc</td><td></td><td>45.99abc</td><td>48.17ab</td><td>52.21a</td><td>1.22</td><td>0.019 5</td></tr><tr><td>中性洗涤纤维 NDF</td><td>32.61°</td><td>61.63a</td><td>53.96ab</td><td>55.18ab</td><td>48.55ab</td><td></td><td>47.43b</td><td>46.10b</td><td>48.27ab</td><td>1.84</td><td>0.003 6</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>33.60b</td><td>52.73a</td><td>53.18a</td><td>42.78ab</td><td>47.79a</td><td></td><td>43.30ab</td><td>44.91ab</td><td>47.23a</td><td>1.51</td><td>0.0228</td></tr></table></body></html>
+
+147 2.5 饲粮花生秧替代比例对花生秧能值的影响
+
+套算法计算的花生秧DE 和ME 见表6。可以看出，饲粮花生秧替代比例对花生秧 DE、ME 有显著影响（ $\cdot P { < } 0 . 0 5 )$ )。花生秧DE、ME 均具有相同的规律：全花生秧饲粮组与 $20 \%$ ，$30 \%$ 、 $40 \%$ 组差异不显著（ $P { > } 0 . 0 5 )$ ，但显著高于 $10 \%$ 、 $50 \%$ 、 $60 \%$ 、 $70 \%$ 组（ $P { < } 0 . 0 5 \rangle$ ）°
+
+表6饲粮花生秧替代比例对花生秧能值的影响  
+Table 6Effects of dietary peanut vine substitution proportion on energy values of peanut vine MJ/kg DM   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="7">替代比例 Substitution proportion/%</td><td rowspan="2">全花生秧饲粮 Full peanut vine</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>10</td><td>20</td><td>30</td><td>40</td><td>50</td><td>60</td><td>70</td></tr><tr><td>消化能 DE</td><td>4.82℃</td><td>8.22ab</td><td>8.02ab</td><td>8.10ab</td><td>7.90b</td><td>7.67b</td><td>7.86b</td><td>diet 8.57a</td><td>0.19</td><td><0.000 1</td></tr><tr><td>代谢能 ME</td><td>3.19℃</td><td>6.58a</td><td>6.50a</td><td>6.52a</td><td>6.19b</td><td>6.17b</td><td>6.14b</td><td>6.69a</td><td>0.18</td><td><0.000 1</td></tr></table></body></html>
+
+153 2.6插值法计算花生秧ME的"真值"
+
+各试验饲粮中花生秧的比例不同，用花生秧在试验饲粮中所占比例 $( \% )$ 为自变量 $( \boldsymbol { X } )$ 以不同组饲粮的ME 实测值为因变量（Y）建立回归方程式，得到方程式如下：$Y \mathrm { ~ ( M J / k g ~ D M ) ~ } = - 0 . 0 2 7 \ 0 X + 9 . 3 2 1 \ 4 ( R ^ { 2 } { = } 0 . 9 1 2 \ 1 , \ n { = } 4 2 , \ P { < } 0 . 0 0 0 \ 1 ) , \$ 当 $X { = } 1 0 0$ 时，花生秧的ME，即 $Y { = } 6 . 6 2 ~ \mathrm { M J / k g ~ D M }$ ，与花生秧 $\mathrm { M E 6 . 6 9 \ M J / k g { \ D M } }$ 相比较，相差 $0 . 0 7 \mathrm { M J / k g }$ DM，相对偏差为- $. 1 . 0 6 \%$ 。
+
+3讨论
+
+3.1不同替代比例花生秧对饲粮营养物质表观消化率及能值的影响
+
+反刍动物饲粮主要由粗饲料和精饲料组成，粗饲料是重要的组成部分，含有可被反刍动物瘤胃微生物消化的细胞壁成分和结构性碳水化合物，其中 $5 5 \% \sim 9 5 \%$ 的结构性碳水化合物在瘤胃内发酵产生挥发性脂肪酸（VFA）、二氧化碳和甲烷等，其中VFA 能够提供给反刍动物 $70 \% \sim 8 0 \%$ 的能量；粗饲料中纤维素能够促进胃肠蠕动、调节微生物活动，有利于胃肠道的消化吸收，确保瘤胃正常运转。饲料营养物质在被动物采食、消化、吸收、代谢过程中会损失一部分能量，主要有FE、UE、甲烷能、体增热等，饲料种类不同其有效能值就不同。本试验中，不同替代比例花生秧对饲粮GE、DM、OM、CP、NDF、ADF、EE 表观消化率有显著影响，在采食量相等的条件下，随着花生秧替代比例的增加，饲粮 DM、OM、CP、GE、EE 表观消化率呈下降趋势，饲料原料组成是影响饲料能值的主要因素，高消化率成分（如蛋白质）和低消化率成分（如 NDF）都产生影响作用[15]。本试验中随着花生秧替代基础饲粮比例的增加，CP含量从 $12 . 8 3 \%$ 下降至 $8 . 5 3 \%$ ，其表观消化率也逐渐减小；与之相对应 NDF 和 ADF 含量增加，其表观消化率随着增加，这个规律与刘哲等[17的研究结果相一致。反刍动物排放的甲烷是通过甲烷短杆菌以二氧化碳和氢气为底物经还原反应产生的[18],影响甲烷排放的因素主要是饲粮营养水平和其他诸多化学成分，如脂肪、脂肪酸、天然植物及植物提取物、化学制剂、微生物及其代谢物等。本试验饲粮营养水平是影响甲烷产量的主要因素，在DM采食量相近的情况下，不同替代比例花生秧改变了饲粮精饲料比例，精饲料比例降低，提高了甲烷排放量和甲烷能与食入GE比，当饲粮中精饲料比例从 $40 \%$ 降低到0时，甲烷产量从 $3 0 . 8 5 ~ \mathrm { L / d }$ 上升到 $3 4 . 6 5 ~ \mathrm { L / d }$ ，甲烷能与食入GE 比从 $6 . 0 5 \%$ 上升到 $7 . 5 3 \%$ 甲烷能与DE 比从9.67上升到14.74，这与赵一广[19]试验所得结论变化趋势基本一致。本试验中，花生秧替代比例对饲粮 DE、ME 存在显著影响。有研究表明，饲料中纤维含量制约OM 的消化率，与 ME 呈极显著的负相关关系[20]。因此随着花生秧替代比例的增加，饲粮DE、ME减小。
+
+# 3.2花生秧作为单一粗饲料测定ME的适宜替代比例
+
+营养物质表观消化率是反映肉羊对营养物质利用及机体生理状态的重要指标。目前应用套算法在测定仔鸡、成年鸡、产蛋鸡、生长猪饲料原料有效能值和营养物质消化率方面都有相关报道[6-,21]。消化率的测定应基于动物试验，对于肉羊有些粗饲料因营养物质含量和适口性等原因，不能进行单一的饲料消化代谢试验[22]，如低质粗饲料小麦秸秆、玉米秸秆等，很难开展动物试验。有些粗饲料能够单独饲喂，可以直接得出食入营养物质含量和消化代谢损失的差值，本试验选用的花生秧，其营养水平中等[GE 16.22 MJ/kg DM；DM $9 0 . 7 9 \%$ ; OM$8 8 . 4 8 \%$ ；CP $8 . 2 3 \%$ ；EE $2 . 1 7 \%$ ；NDF $5 9 . 2 0 \%$ ；ADF $4 3 . 6 7 \%$ ； $\mathrm { ~ P ~ } 0 . 3 1 \%$ ； Ca $0 . 9 6 \% ]$ ，且适口性好。将花生秧和精饲料制成颗粒饲粮，提高了饲粮适口性，减小羊只应激，可以保证饲喂量准确一致。根据文献可知，套算法可以得出被测原料的消化率以及能值，但原料的替代比例对测定结果往往有较大的影响[23]。赵明明等[10]采用套算法测定了羊草营养物质表观消化率，发现替代比例对羊草的营养物质表观消化率有显著的影响，因此本试验将花生秧替代比例设置为 $1 0 \% \sim 7 0 \%$ ，用7个梯度进一步探究替代比例对花生秧营养物质表观消化率的影响。分析试验结果可知，花生秧以 $2 0 \% { \sim } 4 0 \%$ 替代基础饲粮时，其 DM、GE、CP、NDF、ADF、EE 的表观消化率均与全花生秧饲粮无显著性差异；花生秧替代比例为 $10 \%$ 及大于 $50 \%$ 时，部分营养物质的表观消化率显著降低，表明在替代比例 $20 \% { \sim } 4 0 \%$ 区间之外的饲粮营养物质的消化受到了显著的影响，不能代表其正常的表观消化率，测定出的能值与实测值相关性差。用套算法测定单一待测原料ME时必须有一个适宜替代比例，本试验结果提示，在测定花生秧ME时，替代比例选择 $2 0 \% \sim 4 0 \%$ 为宜。
+
+# 9.阿帐化」快目い例对化」快能咀的彩啊
+
+采用套算法测定单一饲料ME，应激小、采食量一致且稳定，接近试验动物的正常生理消化代谢状态。本试验结果表明，用套算法测定花生秧DE 时，花生秧的替代比例对其能值有显著影响， $10 \%$ 的替代比例显著低于其他替代比例；花生秧 ME 随饲粮花生秧替代比例的变化也有显著性变化，全花生秧饲粮组（ $\mathbf { \dot { \delta } } 6 . 6 9 \mathbf { M J } / \mathbf { k g } \mathbf { D M } )$ 组与 $20 \%$ （6.58 MJ/ kg DM）、 $30 \%$ (6.50 MJ/ kg DM）、 $40 \%$ 组 $\left( 6 . 5 2 \mathrm { M J / k g } \mathrm { D M } \right.$ ）无显著性差异。套算法的宗旨就是要先配制一个满足动物营养需求的基础饲粮，在此基础饲粮上进行不同比例的替代，获得一个适宜的替代比例或范围。用套算法测定单一原料ME 时多凭经验确定替代比例，教科书中给出了一个大致范围（如能量饲料 $20 \% \sim 3 0 \%$ )。关于待测饲料替代基础饲粮的具体比例没有确定的固定值，本文旨在确定花生秧的最佳替代比例，试验得出全花生秧饲粮组ME 与 $20 \% . 3 0 \%$ 、40%组所得数值无显著性差异，但与 $50 \%$ 、 $60 \%$ 、 $70 \%$ 组差异显著，后3组ME有所降低，表明替代比例过高对ME 造成了影响,ME下降可能是由于蛋白质和纤维比例的变化造成的。“插值法"可以将饲养试验中干扰ME 测定的营养物质含量、采食量等若干因素归纳于试验设计条件中[24]；该法也可以避开了套算法中基础饲粮能值的变化向被测原料转移，避开了套算法选用替代比例少而出现偏差较大的弊端[25]，从而有可能使饲料 ME 测定结果更具代表性和稳定性。本试验设7组不同替代比例，每组6个重复，共计测定了42 组饲粮 ME，建立了回归方程式： $Y \ ( \mathrm { M J / k g \ D M } ) \ { = } { - } 0 . 0 2 7 \ 0 X { + } 9 . 3 2 1 \ 4$ 。全花生秧饲粮时，即 $X { = } 1 0 0$ ，花生秧的 $\mathrm { M E { = } 6 . 6 2 \ M J / k g \ D M }$ ，即花生秧 ME"真值"为 $6 . 6 2 ~ \mathrm { M J / \ k g \ D M }$ ，全花生秧饲粮组测得的花生秧 ME为 6.69MJ/kg DM，二者相对偏差为 $1 . 0 6 \%$ ，进一步验证全花生秧饲粮组所得 ME值是在试验动物正常的消化代谢情况下实测所得。用插值法得出的ME 更加接近花生秧替代比例 $20 \%$ 、 $30 \%$ 、 $40 \%$ 的3组饲粮。综上所述，在采用套算法测定单一花生秧ME时，替代比例选择 $20 \%$ 为宜。
+
+反刍动物的DE 和 ME 的转换率通常在0.82左右，本试验中替代比例在 $2 0 \% { \sim } 4 0 \%$ 时，ME/DE恰在此区间，表明试验所得符合动物本身生理代谢的基本规律。
+
+4绍比
+
+$\textcircled{1}$ 在肉用绵羊饲粮中，花生秧替代不同比例基础饲粮，显著影响饲粮和花生秧营养物质的 表观消化率。   
+$\textcircled{2}$ 套算法可以用于肉用绵羊估测花生秧（单一粗饲料）的DE和ME。   
+$\textcircled{3}$ 用套算法估测花生秧有效能值，其在饲粮中的适宜替代比例为 $20 \% { \sim } 4 0 \%$ 为宜。   
+参考文献：   
+[1]张瑛,周建伟,刘浩,等.藏羊瘤胃发酵参数对燕麦干草为饲粮限饲的响应及其氮维持需要 量估测[J].动物营养学报,2014,26(2):371-379.   
+[2]张吉鹃,卢德勋,胡明,等.几种绵羊常用粗饲料 GI 的测定及其代谢能模型化研究[J].现代 畜牧兽医,2005(7):5-7.   
+[3]郝建祥.体外发酵法评定反刍动物饲料营养价值的研究[D].硕士学位论文.南京:南京农 业大学,2011.   
+[4]HUANG Q,SHI C X,Su Y B,et al.Prediction of the digestible and metabolizable energy content of wheat milling by-products for growing pigs from chemical composition[J].Animal Feed Science and Technology,2014,196:107-116.   
+[5]SIBBALD I R.A bioassay for true metabolizable energy in feedingstus[J].Poultry Science,1976,55(1):303-308.   
+[6]常娟,尹清强,姜义宝,等.生物秸秆对肉鸡表观代谢能的影响及替代玉米适宜比例的研究 [J].动物营养学报,2012,24(8):1557-1563.   
+[7] 刘德稳.生长猪常用七种饲料原料净能预测方程[D].博士学位论文.北京:中国农业大 学,2014.   
+[8]BOLARINWA O A,ADEOLA O.Energy value of wheat,barley,and wheat dried distillers grains with solubles for broiler chickens determined using the regression method[J].Poultry Science,2012,91(8):1928-1935.   
+[9] 刘洁,刁其玉,赵一广,等.肉用绵羊饲料养分消化率和有效能预测模型的研究[J].畜牧兽医 学报,2012,43(8):1230-1238.   
+[10]赵明明,杨开伦,邓凯东,等.直接法与替代法测定羊草对肉用绵羊代谢能值的比较研究[J] 动物营养学报,2016,28(2):436-443.   
+[11]NRC.Nutrient requirements of small ruminants:sheep,goats,cervids and new world camelids[S].Washington,D.C.:National Academy Press,2007.   
+[12]聂大娃,赵养涛,武书庚,等.套算法测定玉米代谢能适宜的玉米替代比例研究[J].动物营 养学报,2008,20(5):606-610.   
+[13]张丽英.饲料分析及质量检测技术[M].2版.北京:中国农业大学出版社,2003.   
+[14]杨嘉实,冯仰廉.畜禽能量代谢[M].北京:中国农业出版社,2004.   
+[15] ADEOLA O,ADEOLA O,ADEOLA H.Digestion and balance techniques in pigs[M]/LEWIS A J,SOUTHERN L L,et al.Swine nutrition.2nd ed.Washington,D.C.:CRC Press2001:903-916. [16]陶春卫.反刍动物常用粗饲料营养价值评定及其有效能值预测模型的建立[D].硕士学 位论文.大庆:黑龙江八一农垦大学,2009.   
+[17]刘哲,张昌吉,郝正里,等.饲喂含不同秸秆的全日粮颗粒料对绵羊瘤胃及血液代谢参数 的影响[J].中国饲料,2005(11):12-14.   
+[18]周怪,刁其玉.反刍动物瘤胃甲烷气体生成的调控[J].草食家畜,2008(4):21-24.   
+[19]赵一广.肉用绵羊甲烷排放的测定与估测模型的建立[D].硕士学位论文.北京:中国农业 科学院,2012.   
+[20]LOSADA B,GARCIA-REBOLLAR P,ALVAREZ C,et al.The prediction of apparent metabolisable energy content of oil seeds and oil seed by-products for poultry from its chemical components,in vitro analysis or near-infrared reflectance spectroscopylJ].Animal Feed Science and Technology,2010,160(1/2):62-72.   
+[21]FARRELL D J.Rapid determination of metabolisable energy of foodsusing cockerels[J].British Poultry Science,1978,19(3):303-308.   
+[22]HILL F W,ANDENRSON D L.Comparison of metabolizable energy and productive energy determinations with growing chicks[J].The Journal of Nutrition,1958,64(4):587-603.   
+[23]VILLAMIDE M J.Methods of energy evaluation of feed ingredients for rabbits and their accuracy[J].Animal Feed Science and Technology,1996,57(3):211-223.   
+[24]张子仪,吴克谦,吴同礼,等.应用回归分析评定鸡饲料表观代谢能值的研究[J].畜牧兽医
+
+学报,1981,12(4):223-230.
+
+[25]王凤红.肉仔鸡饲用油脂营养价值的评定[D].硕士学位论文.北京:中国农业科学院,2009.
+
+Determination and Estimation of Available Energy Value of Peanut Vine as Single Straw Feed for
+
+# Mutton Sheep
+
+ZHAO Mingming MA Tao' ZHAO Jiangbo1 DENG Kaidong² XIAO Yil MA Junnan MAO Jianhong1 JIA Peng1 DIAO Qiyu1\*
+
+(1.Feed Research Institute, Chinese Academy of Agricultural Sciences, Key Laboratory of Feed Biotechnology of the Ministry of Agriculture, Beijing 100081, China; 2. College of Animal Science, Jinling Institute of Technology, Nanjing 210038, China)
+
+Abstract: This study aimed to determine and estimate available energy value of peanut vine for mutton sheep using substitution and extrapolation methods,and find a proper substitution proportion of peanut vine in diet in substitution method, for the purpose of providing a reference for determination and estimation of available energy value of single straw feed. Fifty four healthy adult crossbreed wethers (Dorper×small-tailed Han F1) with body weight of( $4 5 . 0 0 { \pm } 1 . 9 6 ^ { \circ }$ ）kg were used in a randomized block design. The wethers were divided into nine groups with six replicates per group and 1 sheep per replicate. Sheep in different groups were fed basal diet, full peanut vine diet and experimental diets using different proportions ( $10 \%$ ， $20 \%$ ， $30 \%$ ， $40 \%$ ， $50 \%$ $60 \%$ ，and $70 \%$ respectively) of peanut vine to substitute basal diet. The adaptation period lasted for $1 0 \mathrm { ~ d ~ }$ ； the experimental period lasted for $9 \textup { d }$ ，including $3 \mathrm { ~ d ~ }$ of gas metabolism test and $6 \textup { d }$ of digestion and metabolism test. The results showed as follows: 1） no significant difference was found in dry matter (DM) apparent digestibility among $20 \%$ ， $30 \%$ ， $40 \%$ groups and full peanut vine diet group $( P { > } 0 . 0 5 )$ ，while these groups were significantly higher than the other groups $( P { < } 0 . 0 5 )$ . Apparent digestibility of organic matter (OM) of full peanut vine diet group had no significant difference with that of $20 \%$ group $( P { > } 0 . 0 5 )$ ，and was significantly higher than other groups $( P { < } 0 . 0 5 )$ . Apparent digestibility of gross energy (GE), neutral detergent fiber (NDF), acid
+
+detergent fiber (ADF) and ether extract (EE) of full peanut vine diet group were significant higher than those of $10 \%$ group $( P { < } 0 . 0 5 )$ ，while apparent digestibility of crude protein (CP） was significantly lower than that of $10 \%$ group $( P { < } 0 . 0 5 )$ ,and all of them had no significant differences with the other groups $( P { > } 0 . 0 5 )$ .2）Digestive energy (DE） and metabolizable energy (ME） of peanut vine showed a similar trend, which was full peanut vine diet group (8.57 and $6 . 6 9 ~ \mathrm { M J / k g }$ DM) had no significant difference with $20 \%$ (8.22 and $6 . 5 8 ~ \mathrm { M J / k g }$ DM), $30 \%$ (8.02 and 6.50 MJ/kg DM), and $40 \%$ groups (8.10 and $6 . 5 2 ~ \mathrm { M J / k g }$ DM),but these groups were significantly higher than the other groups. 3) The ‘true’ ME of peanut vine calculated by extrapolation method was 6.62 MJ/kg DM,which was close to ME form substitution method. It is concluded that the substitution method can be used for the calculation of DE and ME of peanut vine as a single forage for mutton sheep； the appropriate substitution proportion of peanut vine （straw feed） in diet is $20 \%$ to $40 \%$ for determination of available energy value.   
+Key words: mutton sheep； energy determination; metabolizable energy； substitution method; peanut vine;available energy value

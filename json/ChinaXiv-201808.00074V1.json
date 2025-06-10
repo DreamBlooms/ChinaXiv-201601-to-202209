@@ -1,0 +1,599 @@
+[
+    {
+        "type": "text",
+        "text": "一种基于元信息的Android 恶意软件检测方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李江华，邱晨",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(江西理工大学 信息工程学院，江西 赣州 341000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：Android应用普遍具有比所属类型更多的功能，需要获取更多的权限，过多的权限可能带来一定的安全隐患。针对这类问题，提出一种基于元信息的Android恶意软件检测方法。首先，通过对Android应用程序描述进行LDA主题提取，实现数据降维，使用K-means聚类算法按照功能类型对应用程序分组；然后，对属于同一功能类型的所有应用程序，提取其权限信息，以权限特征为研究对象，使用kNN算法进行 Android 恶意软件的分类检测。实验结果获得$9 4 . 8 1 \\%$ 的平均准确率，证明方法的有效性和高准确率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Android恶意软件检测；元信息；应用程序描述；权限特征中图分类号：TP311 doi: 10.3969/j.issn.1001-3695.2018.04.0312",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Android malware detection method based on meta-information ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Jianghua†, Qiu Chen (School of Information Enginering Jiangxi UniversityofScience & Technology,Ganzhou Jiangxi 341o,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Many aplications have more functions than their types,and theyneed to acquire more permisions.Excessive permissions may bring some securityrisks.To addressthese issues,this paper proposes an Android malware detection method basedon metainformation.First,through thedescriptionofAndroidapplicationofLDAtheme extraction,the implementation of datadimensionalityreduction，using the k-means clustering algorithm in accordancewith the functional typeof the application group;Then,forallapplications belonging tothesame functionaltype,extracttheir permissioninformation,and take the permision features as theresearch object,using KNNalgorithmto clasifyand detectthe malicious softwareof Android. The experimental results obtained the average accuracy of $9 4 . 8 1 \\%$ and proved the validity and high accuracy of the method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Android malware detection; meta information; application description; permission features ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Android应用程序元信息，是指用户在下载和安装应用程序之前看到的信息[1]，如应用程序描述、评分等。Android应用程序元信息包含的信息种类非常多；同时，由于各大应用市场的管理方式、经营方式和设计方式的不同，用户看到的信息也有所区别。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Android应用程序描述的作用是对应用程序进行介绍，说明其功能。需要注意的是，很多应用程序提供了比所属类型更多的功能，这在应用程序描述中才能够看到。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应用程序要执行其功能，需要相应的权限支持，很多应用具有比所属类型更多的功能，需要获取更多的权限，过多的权限可能带来一定的安全隐患。要确定这样的应用是否为恶意应用，需要进一步的分析检测。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 相关研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前，在进行Android恶意软件检测方法的研究时，多数研究聚焦于应用程序的权限[2.3]、Java 代码[4-6]等静态特征和系统调用[7]、网络流量[8.9]等动态特征上，针对动态特征进行研究或者使用动态特征和静态特征相结合的方式[10]赢得了更多科研人员的青睐。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周裕娟等人[1提出了一种使用权限信息和权限提升威胁信息作为特征进行Android 恶意软件检测的方法。Enck等人[12]提出了一种Kirin安全规则进行Android恶意软件检测。Felt等人[13]认为应用程序的任何行为都是与API的调用有关的，而API调用又可以映射到权限，他们在研究中使用了一种可以自动化检测AndroidAPI调用的工具，以便构建检测超额权限所必需的权限映射，用实验证明有三分之一的应用程序存在过度申请权限的情况。杨欢等人[14]利用关联规则挖掘的方式试图找到权限的组合关系与恶意应用程序相关的规则，基于这个规则进行恶意软件检测，最后获得了 $87 \\%$ 的准确率。文伟平等人[10]在其研究中也给出了一套危险权限组合规则，如权限组合RECEIVE_BOOT_COMPLETED $^ +$ INTERNET $^ +$ ACCESS_COARSE_LOCATION，会泄露用户的位置，但是某名为\"Puppet Football Fighters-Steampunk Soccer\"体育游戏类应用，其权限列表（图1）就包含这种组合，使用权威检测网站VirusTotal对其进行检测，检测结果为良性软件。这说明危险组合权限规则并不具有普遍适用性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "权限   \nandroid.permission.ACCESS_COARSE_LOCATION   \nandroid.permission.ACCESS_NETWORK_STATE   \nandroid.permission.ACCESS_WIFI_STATE   \nandroid.permission.INTERNET   \nandroid.permission.RECEIVE_BOOT_COMPLETED   \nandroid.permission.VIBRATE   \nandroid.permission.WAKE_LOCK   \nandroid.permission.WRITE_EXTERNAL_STORAGE   \ncom.android.vending.BILLING   \ncom.google.android.c2dm.permission.RECEIVE   \ncom.noxplay.PuppetFootballFighters.permission.C2D_MESSAGE ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "受限于硬件和软件技术，一些方法即使取得了较好的效果，也不便于推广和应用。因此，基于Android应用程序元信息的恶意软件检测受到了一部分研究者的关注，开展了一定的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Teufl 等人[15]使用复杂的知识发现过程和精益统计的方法来分析从Google官方应用市场GooglePlay收集的元信息，并使用机器学习算法进行分类。Martin等人[在其研究中探索了一种名为ADROIT的方法，使用了多种元信息作为实验数据，声称最终获得了 $9 3 . 6 7 \\%$ 的精度。这类研究中采用的元信息种类众多，处理难度较高。基于此，Gorla等人[17提出了一种采用元信息种类较少的方法，通过应用程序描述确定应用程序的主题，主题词由研究者自行决定，通过对应用程序的主题进行聚类,然后确定与主题相关的API调用异常，他们在MalGenome[18的数据样本上正确识别了 $56 \\%$ 的恶意应用程序。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在使用较少元信息种类的前提下，为了提高检测率，也为确定具有更多功能的应用是否为恶意应用，本文提出一种新的基于元信息的Android恶意软件检测方法，以Android应用程序元信息为研究对象，进行Android恶意软件检测方法的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 本文方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文方法选择的研究对象是Android应用程序描述和权限，它们都属于Android应用程序元信息。方法有两个主要步骤：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）根据Android应用程序描述确定应用程序的功能类型，按照功能对应用程序分组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Android应用程序描述用于介绍应用程序的功能，从中提取出描述功能的关键词，然后使用聚类算法进行聚类，可确定应用程序的功能类型，进而达到按照功能对应用程序分组的目的。举例说明，设有A、B、C、D四个应用程序，它们的功能如表1所示，经过聚类处理后将A、B、C、D四个应用程序按照功能进行分组，结果如表2所示，其中每个组的名称用功能表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/407e5f457fc4ad4e2ff5fceadadced3e87d73a92c5505ae3c0e1d8dd6b24d219.jpg",
+        "table_caption": [
+            "表1功能列表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">应用程序</td><td colspan=\"2\">功能</td></tr><tr><td>A</td><td>功能1</td><td>功能2</td><td>功能3 功能4</td></tr><tr><td>B</td><td>功能1</td><td>功能5</td><td>功能6</td></tr><tr><td>C</td><td>功能2</td><td>功能6</td><td>1</td></tr><tr><td>D</td><td>功能4</td><td>功能6</td><td>功能7 一</td></tr><tr><td colspan=\"4\">表2 聚类后分组结果</td></tr><tr><td>功能</td><td>应用程序</td><td>功能</td><td>应用程序</td></tr><tr><td>功能1</td><td>A，B</td><td>功能5</td><td>B</td></tr><tr><td>功能2</td><td>A，C</td><td>功能6</td><td>B,C，D</td></tr><tr><td>功能3</td><td>A</td><td>功能7</td><td>D</td></tr><tr><td>功能4</td><td>A，D</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）对于同一功能类型的所有应用程序，提取其权限信息，以权限特征为研究对象，进行Android恶意软件的分类检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "权限是应用程序获得某种功能的能力的标志，因此，相同功能类型的应用程序应当具有相同或相似的权限列表，若某个应用程序具有多余的权限，那么该应用程序就有可能是恶意性的，通过对权限进行分析，以确定其是否为恶意应用。分析过程如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)针对同一功能类型的所有应用程序，统计出其权限列表中不同权限的名称 $\\left( p _ { 1 } , p _ { 2 } , \\cdots , p _ { m } \\right)$ 以及个数 $m$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)给权限的名称随机确定一个排列顺序或者按照既定的顺序（如字典顺序）排序。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)对于某个应用程序，将其权限列表与排好序的权限列表依次进行对照，匹配到则记\"1\"，其余记\" $\\cdot 0 ^ { \\dag }$ “1\"和\"0\"的数目之和等于之前统计到的不同权限的个数 $\\mathbf { \\lambda } _ { m }$ ，由此得到了该应用程序关于权限信息的 $m$ 维向量。重复此步骤，即可获得所有应用程序的权限特征向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)同组的所有应用程序构成样本集，对应用程序样本集进行划分，得到训练样本集和测试样本集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e)将权限信息向量化后，计算训练样本集中的权限向量与测试样本集中某待测样本权限向量之间的相似度。若训练样本集中某样本权限向量与待测样本权限向量的相似度达到某个预设的度量标准，则认为待测样本与该样本的性质相同。若该样本是恶意应用，则待测样本是恶意应用；若该样本是良性应用，则待测样本是良性应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "举例说明，如表2所示，功能6代表的组别中有B、C、D三个应用程序，要对功能6这一组的应用程序进行分析，那么这三个应用程序就构成了应用程序样本集，将这个应用程序样本集划分成训练样本集和测试样本集，应用程序B、C构成训练样本集，应用程序D构成测试样本集。假设B为恶意应用，C 为良性应用。对权限信息向量化后，若B的权限向量是$\\left( x _ { 1 1 } , x _ { 1 2 } , \\cdots , x _ { 1 n } \\right)$ ，C 的权限向量是 $\\left( { { x } _ { 2 1 } } , { { x } _ { 2 2 } } , \\cdots , { { x } _ { 2 n } } \\right)$ ，D的权限向量是 $( x _ { 3 1 } , x _ { 3 2 } , \\cdot \\cdot \\cdot , x _ { 3 n } )$ 。针对待测样本D，计算其与训练样本集中每个样本即B、C的相似度 $S _ { B D }$ 、 $S _ { C D }$ 。若 $S _ { B D }$ 达到预设度量标准 $\\eta$ ，则 $\\mathrm { ~ D ~ }$ 的性质与B相同，D为恶意应用；若 $S _ { C D }$ 达到预设度量标准 $\\eta$ ，则D的性质与C相同，D为良性应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1实验方案",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对上述方法进行实验验证。本文实验的运行环境如下：a)硬件环境。COREi3处理器、Windows764位操作系统、内存为4GB的笔记本电脑。b）软件环境。编程环境为PyCharm5.0.3，编程语言为Python，编译器为Python3.5。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "获取到实验数据后，经过数据预处理，将分组实验使用的Android应用程序描述进行文本清洗，处理过后即可得到关于Android应用程序描述的语料库，使用LDA主题模型进行主题抽取，然后将主题词向量化。将应用程序描述转换为K-means算法能够处理的数据后，使用K-means 算法进行聚类处理，得到具有相似性质的 $k$ 个簇群，通过LDA主题模型处理的结果可得到这些簇群中的主题词及其所对应的应用程序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照功能类型分组应用程序后，采用权限特征，进行分类检测实验。所有实验数据样本都先通过权威网站VirusTotal确定应用程序样本的性质（良性或恶意)，然后提取应用程序样本的权限信息，以权限特征为研究对象，使用kNN算法进行分类检测，将检测结果与由VirusTotal得到的结果作对比，以验证分类算法的检测效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2实验数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所有数据均来自于Aptoide应用市场，通过网络爬虫获得，Aptoide应用市场提供的Android应用程序元信息条目比较全。所获得的信息包括应用程序描述、评分、兼容性（Android版本）、权限、应用程序名称、大小、应用程序版本号、发布时间、适用最小屏幕、支持的处理器型号、程序包ID、MD5 值、签名SHA1、开发人员代号、组织、地点、国家、省市等信息，随机爬取了共计17812条app 元信息记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Aptoide应用市场是开放性市场，它面向全世界开放，所有人都可以在其中发布自己开发的应用程序，因此，这个应用市场包含世界各国的开发人员的作品，应用程序描述也是由各种语言表述。同时，很多应用程序缺少部分信息，由于不清楚这种情况对实验结果是否有影响，所以有必要对这种情况进行处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为避免由于信息的缺失对实验结果产生不可预知的影响，删除了部分信息缺失的记录；同时删除了没有应用程序描述或应用程序描述用非中文和英文表达的记录，仅保留了由中文或英文表达Android应用程序描述的记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过上述处理过后，原本的17812条记录剩余5000多条记录，其中包含应用程序描述、权限和应用程序名称，去除权限列表中只包含Normal类权限的应用程序，因为它们都是良性应用。这就是本文实验最终使用的样本数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应用程序描述是文本数据，需要经过处理才能被计算机识别。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过清洗过程后，得到关于应用程序描述的语料库，然后针对语料库使用LDA主题模型进行主题抽取。经过LDA主题模型处理后能够得到文档与主题词的关系（亲和度)，这种关系用概率（百分比）表示，如表3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/12fec9d74005d401ec8951fa061e1242e6cbdbfc210de121931071459330de00.jpg",
+        "table_caption": [
+            "表3文档、主题词关系"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>主题词1</td><td>主题词2</td><td>主题词3</td><td>主题词4</td></tr><tr><td>文档1</td><td>0.6</td><td>0.3</td><td>0.1</td><td>0</td></tr><tr><td>文档2</td><td>0</td><td>0.5</td><td>0.3</td><td>0.2</td></tr><tr><td>文档3</td><td>0.2</td><td>0</td><td>0</td><td>0.8</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过LDA主题模型不仅获得了文档与主题词的关系，同时也对数据进行了降维处理。到这一步，依然没有将样本处理成为K-means算法能够处理的数据，接下来对主题词进行向量化，将主题词转换为特征向量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "举例说明，现在有三个句子，要将其向量化：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）Apple is delicious.   \nb）I love apple.   \nc）Apple is delicious andIlove apple. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过删除特殊字符，去除停用词等清洗过程后，这三句话就转换为如表4所示的表格。第一句话向量化表示为[1,0.1,0]，第二句表示为[1,1,0,1]，第三句表示为[1,1,1,1]，至此，三个句子向量化完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1439412e9a7a66e782d4107db80ae10e6e55ce5e53ea807b38a5593b9e5d025.jpg",
+        "table_caption": [
+            "表4主题词向量化"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>apple</td><td>I</td><td>delicious</td><td>love</td></tr><tr><td>句1</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>句2</td><td>1</td><td>1</td><td>0</td><td>1</td></tr><tr><td>句3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "事实上，针对清洗过后得到的语料库直接进行向量化也可以达到目的。但是本文并没有这样做，而是选择先进行LDA主题抽取，然后再向量化主题词。原因在于聚类算法在涉及少量特征时效果更好。因此，将描述转换为主题对于获得更好的聚类结果至关重要。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过LDA主题模型进行主题提取后可以确定文档和主题关系、主题与词关系，同时可以输出提取到的主题词。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4聚类分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通常一个应用程序最多具有5种不同类型的功能，故设定每篇文档最多与5个主题有关，但不排除这5个主题词为同一个的可能性，这说明该应用程序没有多余的功能。经过LDA主题模型处理后，可得到应用程序描述文档与主题之间的亲和度关系向量，这个向量作为K-means聚类算法的输入。实验中设置聚类质心数k，取值范围为2\\~30。结果表明，当值为14 时得到较好的聚类结果。根据聚类结果将应用程序分组，结",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "果如表5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/407a52469fc0dc189a8ae1cc729816fa3522e384ea7cbbe91fdc0cd9b21f4e0d.jpg",
+        "table_caption": [
+            "表5应用程序分组结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>数量</td><td>类型</td><td>数量</td></tr><tr><td>connection</td><td>739</td><td>account and payment</td><td>192</td></tr><tr><td>social</td><td>574</td><td>browser</td><td>156</td></tr><tr><td>language</td><td>230</td><td>news and sharing</td><td>961</td></tr><tr><td>manager</td><td>1269</td><td>player</td><td>753</td></tr><tr><td>wallpaper</td><td>351</td><td>navigation</td><td>198</td></tr><tr><td>game</td><td>2836</td><td>theme and wallpaper</td><td>142</td></tr><tr><td>shopping</td><td>183</td><td>advertisement</td><td>398</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“game”类应用其实包含“challengegame\"sportgame\"\"battlegame\"\"cargame\"等多种，这些不同的\"game\"类应用只有玩法或操作上的区别，经过聚类算法后，它们被划分为同一个类型。表5中，“theme and wallpaper\"没有被划分到“wallpaper\"类中。与\"game\"类应用不同，当改变手机的壁纸时，只会让手机屏幕桌面的背景发生改变，但是改变主题时，会引起手机里的图标、桌面背景、整体颜色发生改变，这是具有很大区别的两种应用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分析这些应用，在国内，“connection\"类最常用的应该是“wifi万能钥匙”，“social\"类如\"微信\"\"QQ\"等，“shopping\"类如“淘宝\"京东\"等，它们都是与日常生活紧密相关的应用类型，这些应用拥有庞大的用户群体，因而更容易成为恶意应用开发者的目标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5判别检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行判别检测实验前首先通过VirusTotal网站确定了应用程序的性质：恶意性或良性，5000多个应用程序中有624个恶意应用，其在各个类别中的分布如表6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/25562d047d03ff70f3e6f128962f5a314e70e1e663d0c3d0d283f513f7ee9699.jpg",
+        "table_caption": [
+            "表6各类型恶意应用分布"
+        ],
+        "table_footnote": [
+            "由表6可知，恶意软件主要分布在\"manager\"\"player\"\"newsand sharing\"\"advertisement\"类中，其余类型中虽然也有恶意软"
+        ],
+        "table_body": "<html><body><table><tr><td>功能类型</td><td>数量</td><td>恶意应用数量</td></tr><tr><td>connection</td><td>739</td><td>18</td></tr><tr><td>social</td><td>574</td><td>73</td></tr><tr><td>language</td><td>230</td><td>0</td></tr><tr><td>manager</td><td>1269</td><td>352</td></tr><tr><td>wallpaper</td><td>351</td><td>0</td></tr><tr><td>game</td><td>2836</td><td>23</td></tr><tr><td>shopping</td><td>183</td><td>17</td></tr><tr><td>account and payment</td><td>192</td><td>36</td></tr><tr><td>browser</td><td>156</td><td>1</td></tr><tr><td>news and sharing</td><td>961</td><td>135</td></tr><tr><td>player</td><td>753</td><td>264</td></tr><tr><td>navigation</td><td>198</td><td>61</td></tr><tr><td>theme and wallpaper</td><td>142</td><td>13</td></tr><tr><td>advertisement</td><td>398</td><td>109</td></tr><tr><td>总和</td><td>8982</td><td>1102</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "件，但是数量较少，不足以作为机器学习算法的训练样本。表6 中第二、三列数据的总和均大于实际样本数量和实际恶意软件数量，导致这种结果的原因是部分应用程序不只有一个功能，被划分到多个类型中；同时如果应用程序为恶意应用，由于类型的多样性，可能会被重复计算多次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5.1样本不均衡问题处理方案",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果样本数量不均衡，对结果的影响巨大。比如训练样本集中包含两类数据样本，但是其中一类样本的数量比另一类样本数量多，按照kNN算法的多数投票原则，因为 $k$ 个邻近点中正确类标签的数量比错误类标签的数量少而可能导致分类错误",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对因为样本数量不均衡导致的误分类的问题，使用对训练样本数据进行处理的方式，比较常用的方法是欠抽样方法和过抽样方法。欠抽样方法就是为了让样本数据多的一方参照数据少的一方，舍弃部分样本数据；而过抽样方法则是对数据样本采用重复抽样的方式，以达到让样本数据少的一方向数据多的一方并齐的目的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在集成方法中有一种bootstrap 抽样方法，如果原始数据集中有100个数据，现在要创建用于训练的新数据集，这个新数据集是通过在原始数据集中有放回的随机抽样100次得到的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将欠抽样方式、过抽样方式与bootstrap抽样方式相结合，随机从样本数据多的一方选取数据样本组成新的训练样本数据新的训练样本数据集中样本的数量接近或等于样本数据少的一方的样本数量，从而使样本数据数量均衡，进而避免因为样本数量不均衡导致的误分类问题。其次，欠抽样方式可能导致某些具有较大价值的样本未被选入到新数据样本里面，为了避免这个问题的发生，可以采取多次抽样进行实验的方式达到目的。设样本数据多的一方数据集为 $A$ ，样本数据少的一方数据集为 $B$ ，若 $A$ 中样本数量是 $B$ 中样本数量的 $\\textit { t }$ 倍，抽样方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）若 $\\mathbf { \\Psi } _ { t } \\mathbf { \\Psi } _ { t }$ 为正整数，则可以采用在 $A$ 中随机不放回抽样的方式，将 $A$ 拆分成 $\\textit { t }$ 个新数据集，每个新数据集分别与 $B$ 组合得到用于kNN算法的 $t$ 个训练数据集，这意味着选定 $k$ 值后， $\\mathbf { k } \\mathbf { N } \\mathbf { N }$ 算法需要运行 $t$ 次，得到同一个数据的 $\\textit { t }$ 个测试结果，对这 $\\textit { t }$ 个结果采用多数投票的方式决定最后分类结果；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b）若 $t$ 不是正整数，则可以将 $A$ 拆分成 $\\lceil t \\rceil$ 个新数据集，前 $\\left\\lceil t \\right\\rceil - 1$ 个数据集的生成方式与a）中相同，第 $\\textstyle { \\left\\lceil t \\right\\rceil }$ 个数据集中不够的数据样本可以在原始数据集中随机不放回地选取补充。每个新数据集分别与 $B$ 组合得到用于kNN算法的 $\\lceil t \\rceil$ 个训练数据集，这意味着选定 $k$ 值后，kNN 算法需要运行 $\\lceil t \\rceil$ 次，得到同一个数据的 $\\left\\lceil t \\right\\rceil$ 个测试结果，对这 $\\left\\lceil t \\right\\rceil$ 个结果采用多数投票的方式决定最后分类结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5.2结果评估及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对\"manager\"player\"newsand sharing\"\"advertisement\"4类应用程序样本，都采用相同的样本处理方式，将良性应用样本和恶意应用样本都以2:1的比例划分成训练数据样本和测试数据样本，则上述4类应用程序的划分结果如表7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a56e2c2076cd71729d79dd32f9dc0b559b00b902c72afac0169575725955996.jpg",
+        "table_caption": [
+            "表7各类样本划分结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">类型</td><td colspan=\"2\">良性应用</td><td colspan=\"2\">恶意应用</td></tr><tr><td>训练样本数</td><td>测试样本数</td><td>训练样本数</td><td>测试样本数</td></tr><tr><td>manager</td><td>846</td><td>423</td><td>235</td><td>117</td></tr><tr><td>player</td><td>641</td><td>320</td><td>90</td><td>45</td></tr><tr><td>news and sharing</td><td>502</td><td>251</td><td>176</td><td>88</td></tr><tr><td>advertisement</td><td>265</td><td>133</td><td>73</td><td>36</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分析表7中的数据，发现良性应用样本数量比恶意应用样本数量多，“manager\"类中良性应用样本数量是恶意应用样本数量的3.6倍，“player\"类中良性应用样本数量是恶意应用样本数量的7.12倍，“news and sharing\"类中良性应用样本数量是恶意应用样本数量的2.85倍，“advertisement\"类中良性应用样本数量是恶意应用样本数量的3.6倍，样本数量极为不均衡。为了避免因为样本数量差距太大造成分类结果错误率提升的问题，可以采用3.5.1节所述方案重新创建多个训练样本数据集。则\"manager\"\"player\"\"newsand sharing\"和\"advertisement\"类的训练样本集数量分别为4、8、3、4个，测试样本保持不变。重新划分训练集的结果如表8\\~11所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/20521d742850db5759560c3dc33317047e26f04012d66e04148a959cfb17a532.jpg",
+        "table_caption": [
+            "表8manager类样本划分结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">应用程序性质</td><td colspan=\"3\">良性应用</td><td colspan=\"2\">恶意应用</td></tr><tr><td>训练样本集1</td><td>训练样本集2</td><td>测试样本集</td><td>训练样本集</td><td>测试样本集</td></tr><tr><td>样本集 数量</td><td>235</td><td>235</td><td>423</td><td>235</td><td>117</td></tr><tr><td>样本集</td><td>训练样本集3</td><td>训练样本集4</td><td>测试样本集</td><td>训练样本集</td><td>测试样本集</td></tr><tr><td>数量</td><td>235</td><td>235</td><td>423</td><td>235</td><td>117</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a29fabf7efea81f9c66b22992cea3c1a1500052fcaa5baeef487c2b191be0ff.jpg",
+        "table_caption": [
+            "表9player类样本划分结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">应用程序性质</td><td colspan=\"2\">良性应用</td><td colspan=\"2\">恶意应用</td></tr><tr><td>样本集</td><td>训练样本集1</td><td>训练样本集2</td><td>测试样本集</td><td>训练样本集</td><td>测试样本集</td></tr><tr><td>数量</td><td>90</td><td>90</td><td>320</td><td>90</td><td>45</td></tr><tr><td>样本集</td><td>训练样本集3</td><td>训练样本集4</td><td>测试样本集</td><td>训练样本集</td><td>测试样本集</td></tr><tr><td>数量</td><td>90</td><td>90</td><td>320</td><td>90</td><td>45</td></tr><tr><td>样本集</td><td>训练样本集5</td><td>训练样本集6</td><td>测试样本集</td><td>训练样本集</td><td>测试样本集</td></tr><tr><td>数量</td><td>90</td><td>90</td><td>320</td><td>90</td><td>45</td></tr><tr><td>样本集</td><td>训练样本集7</td><td>训练样本集8</td><td>测试样本集</td><td>训练样本集</td><td>测试样本集</td></tr><tr><td>数量</td><td>90</td><td>90</td><td>320</td><td>90</td><td>45</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/31f5825c7000e28cf861d77a47c4f43a2c6452bdd53bddda7770fbd74f088086.jpg",
+        "table_caption": [
+            "表10news and sharing 类样本划分结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>应用程序性质</td><td colspan=\"4\">良性应用</td><td colspan=\"2\">恶意应用</td></tr><tr><td rowspan=\"2\">样本集</td><td>训练</td><td>训练</td><td>训练</td><td>测试样本集</td><td>训练样本集</td><td>测试样本集</td></tr><tr><td>样本集1 176</td><td>样本集2 176</td><td>样本集3 176</td><td>251</td><td>176</td><td>88</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2e10ea7dd969fb07bbb768d0e58c11de04169524f9a2fd48336c849bab37d2d.jpg",
+        "table_caption": [
+            "表11advertisement 类样本划分结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">应用程序性质</td><td colspan=\"2\">恶意应用</td></tr><tr><td>样本集</td><td>训练样本集1</td><td>训练样本集2</td><td>测试样本集</td><td>训练样本集</td><td>测试样本集</td></tr><tr><td>数量</td><td>73</td><td>73</td><td>133</td><td>73</td><td>36</td></tr><tr><td>样本集</td><td>训练样本集3</td><td>训练样本集4</td><td>测试样本集</td><td>训练样本集</td><td>测试样本集</td></tr><tr><td>数量</td><td>73</td><td>73</td><td>133</td><td>73</td><td>36</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将每个类型的多个训练样本的权限特征向量化后输入到kNN算法，再使用测试集进行分类测试。实验过程中，为避免出现归属为两个类别的邻近点数量相等的情况， $k$ 值均在奇数中选取，对四种类型的应用程序进行分类时 $k$ 的取值范围统一为 $\\{ 1 , 3 , 5 \\}$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为评估分类结果，假设TP代表正确分类良性应用的数目，FP 代表恶意应用被错误分类为良性应用的数目，TN代表正确分类恶意应用的数目，FN代表良性应用被错误分类为恶意应用的数目，则按照分类实验评估方法，kNN算法对每个功能类型的分类结果如表12和13所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9dff98d602aad143ee3fed9b2e9eaee729d17fefee6d2ce3338c2ee0fb7206a0.jpg",
+        "table_caption": [
+            "表12manager类和player类分类结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">k值</td><td colspan=\"6\">manager类</td><td colspan=\"4\">player类</td></tr><tr><td>TP</td><td>FP</td><td>TN</td><td>FN</td><td>准确率ACC</td><td>TP</td><td>FP</td><td>TN</td><td>FN</td><td>准确率ACC</td></tr><tr><td>1</td><td>403</td><td>13</td><td>104</td><td>20</td><td>0.9388</td><td>310</td><td>7</td><td>38</td><td>10</td><td>0.9534</td></tr><tr><td>3</td><td>408</td><td>8</td><td>109</td><td>15</td><td>0.9574</td><td>307</td><td>10</td><td>35</td><td>13</td><td>0.9370</td></tr><tr><td>5</td><td>405</td><td>10</td><td>107</td><td>18</td><td>0.9481</td><td>303</td><td>11</td><td>34</td><td>17</td><td>0.9233</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/55f2979507bc06a7ed20aef2a8e050ae97bd8ff45f67b00daf32839b068589c5.jpg",
+        "table_caption": [
+            "表13news and sharing 类和advertisement类分类结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">k值</td><td colspan=\"5\">news and sharing类</td><td colspan=\"5\">advertisement类</td></tr><tr><td>TP</td><td>FP</td><td>TN</td><td>FN</td><td>准确率ACC</td><td>TP</td><td>FP</td><td>TN</td><td>FN</td><td>准确率 ACC</td></tr><tr><td>1</td><td>240</td><td>10</td><td>78</td><td>11</td><td>0.9381</td><td>125</td><td>8</td><td>28</td><td>8</td><td>0.9053</td></tr><tr><td>3</td><td>242</td><td>8</td><td>80</td><td>9</td><td>0.9499</td><td>128</td><td>6</td><td>30</td><td>5</td><td>0.9349</td></tr><tr><td>5</td><td>243</td><td>8</td><td>80</td><td>8</td><td>0.9528</td><td>126</td><td>9</td><td>27</td><td>7</td><td>0.9053</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对上述实验结果进行分析可知，四类应用最高准确率对应的 $k$ 值并不相同，“manager\"类在 $k$ 值为3时准确率最高，为$9 5 . 7 4 \\%$ ；\"player\"类获得最高检测率为 $9 5 . 3 4 \\%$ ，此时 $k$ 值为1;\"newsand sharing”类获得最高准确率为 $9 5 . 2 8 \\%$ ，此时 $k$ 值为5；“advertisement”类获得最高准确率为 $9 3 . 4 9 \\%$ ，此时 $k$ 值为3。四类应用的平均准确率分别为 $9 4 . 8 1 \\% . 9 3 . 7 9 \\% . 9 4 . 6 9 \\% . 9 1 . 5 1 \\%$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3eb32eab23e18a0905c588206d3d44cd6df7a5c5d39f26020deb07a3265b91e.jpg",
+        "table_caption": [
+            "表14相关方法对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>检测方法</td><td>检测率</td></tr><tr><td>文献[11]方法</td><td>92.86%</td></tr><tr><td>文献[14]方法</td><td>87%</td></tr><tr><td>文献[16]方法</td><td>93.67%</td></tr><tr><td>文献[17]方法</td><td>81.18%</td></tr><tr><td>本文方法</td><td>94.81%</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表14展示了本文方法与近几年相关工作的对比情况。文献[11,14]的方法都使用权限特征，不同的是文献[11]使用权限信息和权限提升威胁信息作为研究对象，文献[14]试图挖掘权限组合关系与恶意应用相关的规则。这两种方法均具有一定的检测效果，缺点是必须先反编译应用程序，然后才能提取到所需的权限信息。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "文献[16,17]的方法均涉及元信息的使用，元信息可以直接从应用市场提取，不需要经过如反编译等过程，更加方便。文献[17]的方法中，检测模型的建立是基于大量良性应用的，缺少恶意应用样本，导致检测结果存在较多的误判。与同样使用元信息进行恶意应用检测，且数据来源也是Aptoide应用市场的文献[16]的ADROIT[16]方法相比，本文检测率比较接近，且有所提高，同时比单独采用权限信息作为研究对象的方法，检测准确率明显提高。证明提出的方法是有效的，并且获得了较高的准确率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Android恶意软件的检测是一个重要的研究方向，当前的研究主要集中在基于静态特征和动态特征的方法研究上。本文从应用程序描述元信息的角度，提出了一种Android恶意软件检测方法。经过实验验证，本文提出的方法是有效的。本文提出的检测方法使用了经典的聚类和分类算法，算法检测的准确性，一定程度上依赖于聚类和分类的效果；算法检测的准确性，仍有一定的改进空间，这将是本文下一步的工作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Feizollah A,Anuar NB,Salleh R,et al.A review on feature selection in mobile malware detection [J].Digital Investigation the International Journal of Digital Forensics & Incident Response,2015,13 (C): 22-37.   \n[2]Sarma B P,Li N,Gates C,et al.Android permissions:a perspective combining risks and benefits [Cl// Proc of ACM Symposium on Access Control Models and Technologies.New York: ACMPress,2012:13-22.   \n[3]杨宏宇，徐晋．Android 恶意软件静态检测模型[J]．吉林大学学报：工 学版,2018,48 (2): 564-570.(Yang Hongyu,Xu Jin.An Android malware static detection model [J].Journal of Jilin University:Engineering and Technology Edition,2018,48(2): 564-570.)   \n[4]Chen Jian, Alalfi MH, Dean TR,et al. Detecting Android malware using clone detection[J]．计算机科学技术学报：英文版，2015，30(5): 942-956.   \n[5]李根.Android 系统恶意代码检测技术研究[D].哈尔滨：哈尔滨工业 大学，2014.(Li Gen.Research on malware detection technology for Android [D].Harbin: Harbin Institute of Technology,2014.)   \n[6] 韩金，单征，赵炳麟，等．基于软件基因的 Android 恶意软件检测与分 类[J/OL].计算机应用研究,2019,36(6):1-9 [2018-03-16].http://www. arocmag.com/article/02-2019-06-039.html.(Han Jing,Shan Zheng,Zhao Binglin,et al.Detection and classification of Android malware based on malware gene [J]. Application Research of Computers, 2019,36 (6): 1-9 [2018-03-16]. http://www.arocmag.com/article/02-2019-06-039.html.)   \n[7]蔡志标，彭新光．基于系统调用的 Android 恶意软件检测[J].计算机 工程与设计，2013，34(11):3757-3761.(Cai Zhibiao,Peng Xinguang. Detection of Android malware based on system calls [J].Computer Engineering and Design,2013,34(11): 3757-3761.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[8]Malik J,Kaushal R.CREDROID:Android malware detection by network traffic analysis[C]//Proc ofACM Workshop on Privacy-Aware Mobile Computing.New York:ACMPress,2016:28-36. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]吴非，裴源，吴向前．一种改进贝叶斯模型的 Android 恶意软件流量特 征分析技术[J].小型微型计算机系统,2018,39(2):230-234.(Wu Fei, Pei Yuan,Wu Xiangqian.Android malware traffic feature analysis technique based on improved Bayesian model [J].Journal of Chinese Computer Systems,2018,39 (2): 230-234.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10]文伟平，梅瑞，宁戈，等．Android 恶意软件检测技术分析和应用研究 [J].通信学报,2014,35 (8):78-85,94.(Wen Weiping,MeiRui,Ning Ge, et al.Malware detection technology analysis and applied research of android platform [J].Journal on Communications,2014,35(8): 78-85, 94.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11]周裕娟，张红梅，张向利，等．基于Android 权限信息的恶意软件检测[J]．计算机应用研究，2015,32（10):3036-3040.(Zhou Yujuan，ZhangHongmei,Zhang Xianli,et al.Malware detection based on Androidpermission information [J].Application Research of Computers,2015,32(10):3036-3040.)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12]Enck W,Ongtang M,McDanielP,et al.On lightweight mobile phone application certification [C]// Proc of the 16th ACM Conference on Computer and Communications Security. New York:ACM Press,2009: 235-245. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13]Felt AP,Chin E,Hanna S,et al.Android permissions demystified [C]/ Proc of ACM Conference on Computer and Communications Security. New York:ACMPress,2011: 627-638.   \n[14]杨欢，张玉清，胡予濮，等．基于权限频繁模式挖掘算法的 Android 恶 意应用检测方法 [J].通信学报，2013,34(S1):106-115.(Yang Huan, Zhang Yuqing,Hu Yupu,et al.Android malware detection method based on permission sequential pattern mining algorithm [J].Journal on Communications,2013,34(S1): 106-115.)   \n[15] Teufl P,Ferk M,Fitzek A,et al. Malware detection by applying knowledge discovery processes to application metadata on the Android market (Google play) [J].Security & Communication Networks,2016,9(5): 389-419.   \n[16] Martin A,Calleja A,Menéndez HD,et al.ADROIT:Android malware detection using meta-information [C]//Proc of IEEE Symposium Series on Computational Intelligence.Piscataway,NJ: IEEE Press,2O17:1-8.   \n[17] Gorla A,Tavecchia I, Gross F,et al. Checking App behavior against App descriptions[C]//Procof International ConferenceonSoftware Engineering.New York:ACMPress,2014:1025-1035.   \n[18] Jiang X,Zhou Y. Dissecting Android malware: characterization and evolution [C]// Proc of IEEE Symposium on Security and Privacy. Washington DC:IEEE Press,2012:95-109. ",
+        "page_idx": 6
+    }
+]

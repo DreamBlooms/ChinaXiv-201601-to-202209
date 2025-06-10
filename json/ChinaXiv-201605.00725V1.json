@@ -1,0 +1,496 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of formaldehyde exposure on anxiety-like and depression-like behavior, cognition, central levels of glucocorticoid receptor and tyrosine hydroxylase in mice ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yani Liab, Zhuoyi Songa, Yujuan Dinga, Ye Xina, Tong Wua, Tao Suc, Rongqiao HeC, Fadao Tai a\\*， Zhenmin Lian a.\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Instituteofrainndehavioralciences,CollgeofLifeiencesaanxiNormalUiversityXi'n,haaniCin Collge ofEnergy and Environmental Engineering,Yan'an University,Yan'an,Shaanxi 716ooo,China StateKeyLaboratoryofrainandCognitiveScience,InstituteofBiophysics,ChineseAcademyofSciences,Beijing0oChin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HIGHLIGHTS",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "·Inhalation of 2 ppm formaldehyde reduced the body weight.   \n· This treatment increased levels of depression-like behavior.   \n· This treatment impaired novel object recognition.   \n· This treatment lowered the levels of glucocorticoid receptors in the hippocampus.   \n· This treatment reduced levels of brain tyrosine hydroxylase. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "J:11111:157311:5:15111 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 20 March 2015   \nReceived in revised form 21 October 2015   \nAccepted 25 October 2015   \nAvailable online 11 November 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Handling editor:Andreas Gies ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Formaldehyde Anxiety Depression Cognition GR-IR neurons TH-IR neurons ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Formaldehyde exposure is toxic to the brains of mammals,but the mechanism remains unclear.We investigated the effects of inhaled formaldehyde onanxiety,depression,cognitive capacityand central levels of glucocorticoid receptor and tyrosine hydroxylase in mice.After exposure to O,1or 2 ppm gaseous formaldehyde for one week,we measured anxiety-like behavior using open field and elevated plus-maze tests,depression-like behavior using a forced swimming test,learning and memory using novel object recognition tests,levels of glucocorticoid receptors in the hippocampus and tyrosine hydroxylase in the Arc,MPOA,ZI and VTA using immuhistochemistry.We found that inhalation of 1 ppm formaldehyde reduced levels of anxiety-like behavior.Inhalation of2 ppm formaldehyde reduced body weight,but increased levels of depression-like behavior,impaired novel object recognition,and lowered the numbers of glucocorticoid receptor immonureactive neurons in the hippocampus and tyrosine hydroxylase immonureactive neurons in the ventral tegmental areaand the zona incerta,medial preopticarea.Diferent concentrations of gaseous formaldehyde result in different effects onanxietydepression-like behavior and cognition ability which may be associated with alterations in hippocampal glucocorticoid receptors and brain tyrosine hydroxylase levels. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ 2015 Elsevier Ltd.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Formaldehyde(FA）is a cheap,volatile organic compound with active chemical properties wildly used in construction materials (Harrison,2oo2） such as man-made plate and paint.FA is a common indoor air pollutant and can attain relatively high concentrations in homes and buildings.This compound easily passes through the blood-brain barrier, eventually accumulates in the human body (Nazaroff and Singer, 2oo4),and has the potential to affect neuroglial and nerve cells in the brain (Malek et al.,2Oo3a）and alter emotional or cognitional behaviors;however,potential mechanisms for these effects are poorly understood. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inhalative formaldehyde exposure orinjection of formaldehyde at pathological levels（ $\\mathrm { : } 0 . 5 \\ \\mathrm { m M } )$ directly into the hippocampus of rodents induces a deficit in spatial learning and memory in a Morriswater maze test (Pitten et al., 2000;Malek et al.,2002,2003b; Lu et al.,2008;Tong et al., 2015). However, unlike the Morris water maze test which is often used to investigate spatial learning and memory (Malek et al.,2003b；Pitten et al.,200O), the novel object recognition (NOR）task for rodents is a non-spatial,nonaversive memory test(Reynolds and Wright,1979）used to test the formation of memories regarding the location and identity of objects (Lynch et al.,2O11).Unlike the Morris water maze which tests the efficiency to find a hidden platform and indicates cognitive efficiency, the novel object recognition test measures cognitive capability (Lynch et al.,2O11).As a result,same drug treatments often induce different effect in Morris water maze and novel object recognition tests (Milic etal.,2013).Although the effects of FA on spatial learning and memory have been profoundly investigated usingMorris water mazes,whether formaldehyde exposure affects novel object recognition and neural mechanism for this remains unclear. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f1517a89ffaecb8717b8b152cc2691d07a3cf9cffee47b7194c8bab11e62c6f3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Abbreviations</td></tr><tr><td>Arc</td><td>arcuate nucleus</td></tr><tr><td>DA</td><td>dopamine</td></tr><tr><td>DI</td><td>discrimination index</td></tr><tr><td>EPM</td><td>elevated plus-maze test</td></tr><tr><td>FA</td><td>formaldehyde</td></tr><tr><td>FST</td><td>forced swimming test</td></tr><tr><td>GR</td><td>glucocorticoid receptor</td></tr><tr><td>GR-IRs</td><td>GR immunoreactive neurons</td></tr><tr><td>HPA</td><td>hypothalamo-pituitary-adrenal axis</td></tr><tr><td>MPOA</td><td>medial preoptic area</td></tr><tr><td>NOR</td><td>novel object recognition</td></tr><tr><td>OFT</td><td>open-field test</td></tr><tr><td>ppm</td><td>parts per million</td></tr><tr><td>TH</td><td>Tyrosine hydroxylase</td></tr><tr><td>TH-IRs</td><td>TH immunoreactive neurons</td></tr><tr><td>VTA</td><td>ventral tegmental area</td></tr><tr><td>ZI</td><td>zona incerta</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The hippocampus is a limbic area of the central nervous system involved in emotion,memory and learning.It is known to possess the greatest levels of adrenocorticosteroid receptor binding and mRNA expression (Reul and deKloet,1985;Aronsson et al., 1988; Reul et al.,1989）which more likely underlie the deleterious effects of glucocorticoids on learning and memory and long-term potentiation (Diamond and Rose，1994;Bodnoff et al.,1995). Chemical exposure such as FA exposure can activate the hypothalamopituitary-adrenal gland (HPA) axis and subsequently increase levels of glucocorticoids (Dallman et al., 2003；Makino et al., 2002； Sorg etal.,2oO1a) that regulate the HPA response via negative feedback of GRs binding in the hippocampus (Raone et al., 2OO7). Repeated stress exposure and long-term glucocorticoid treatment downregulate levels of GRs in different brain areas,particularly the hippocampus (Huot et al.,2004;Kitraki et al., 2004). Here,we predict that repeated FA exposure possibly reduces levels of GRs in the hippocampus.Low levels of GRs in the hippocampus induce less negative feedback to regulate levels of CORT (Kitraki et al.,2004), subsequently increase levels of CORT and lead to higher levels of anxiety and depression. In order to test this hypothesis we used open-field tests(OFT),elevated plus-maze tests (EPM)and forced swimming tests(FST） to assess levels of anxiety-and depressionlike behaviors following repeated FA exposure. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DAlevels because DA plays a role in the control motor activity and emotional behavior(Gainetdinov et al., 1999；Rodgers et al.,1994; Zhuang et al.， 1999; Zhou and Palmiter,1995). Tyrosine hydroxylase(TH),a rate limiting enzyme for DA synthesis,as an indicator of DA production,is found in many areas of the rat brain.Here,we investigated whether gaseous FA exposure could alter TH expressionasa way of exploring the mechanistic and underlying effects of FA exposure on emotional and cognitive behaviors. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Taken together,our aims are to investigate the effects of FA eXposure on levels of anxiety,depression-like behavior and novel object recognition and to determine whether any effect on behaviors is associated with levels of hippocampal GR and TH expression in the brain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Animals and treatment procedure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Male Kunming mice (an outbred stock of Swiss albino mouse commonly used in toxicological and pharmaceutical research) $\\mathrm { ~ \\cdot ~ n ~ } = ~ 4 5$ ；7 weeks old） were obtained from Xi'an Jiao tong University Laboratory Animal Center (Shaanxi,China).All animals were housed five per cage in standard transparent Makrolon cages $( 4 2 \\ \\mathrm { c m } \\ \\times \\ 2 6 \\ \\mathrm { c m } \\ \\times \\ 2 0 \\ \\mathrm { c m } )$ and acclimated housing conditions for two weeks prior to experiments. Food and water were given ad libitum and the animals were kept at a constant temperature $( 2 1 \\pm 2 ^ { \\circ } \\mathsf C )$ and humidity $( 4 0 \\pm 5 \\% )$ undera reversed light:dark 12:12 cycle(lights on at $2 2 0 0 { \\mathrm { ~ h } } { \\cdot }$ ).Themaintenanceand treatment ofanimals were in accordance with the Guidelines for the Care and Use of Laboratory Animals and our protocols were approved by the Animal Care and Use Committee of Shaanxi Normal University. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Gaseous formaldehyde exposure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The animals,weighing between $3 4 \\mathrm { ~ g ~ }$ and $3 7 \\mathrm { ~ g ~ }$ (9 weeks old) were randomly divided into three groups:O,1 and 2 ppm FA inhaled groups. Different concentrations of gaseous FA were generated by evaporation of formalin solution( $3 7 \\%$ ，Xi'an Chemical Works,Xi'an,China）in static wood toxification chambers $( 5 4 ~ \\mathrm { c m } \\ \\times \\ 5 4 ~ \\mathrm { c m } \\ \\times \\ 5 4 ~ \\mathrm { c m } )$ with three cages inside；each cage contained five mice during each inhalative FA treatment.The concentration of evaporated FA was monitored by a FA digital electrochemical analyzer $( \\mathrm { D M } 1 0 0 { \\mathrm { - } } \\mathrm { C H } _ { 2 } 0$ ，Nanjing Diandian Electronics Technology,Nanjing,China） to be around $1 ~ \\pm ~ 0 . 0 4$ ppm and $2 \\pm 0 . 1 2$ during the procedure. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Acute FA exposure at 5 ppm results in decreases motor activity and increased levels of dopamine(DA) together with its enzymatic metabolites in the hypothalamus of rats (Boja et al.,1985).Furthermore,two weeks of inhalative FA treatment ( $1 3 . 5 \\pm 1 . 5 \\mathrm { { \\ p p m } } _ { . }$ enhances aggressive behavior and increases DA in the frontal cortex synaptosome (Liu et al.,2Oo9).Thus,changes in behavior induced by FA exposure may also be associated with alteration in ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When animals were exposed to gaseous FA they were affected as gas dissolved into their body fluids; this mode is similar to that in humans.The inhaled groups were exposed to different concentrations of gaseous FA from 1000 to $1 2 0 0 \\ \\mathrm { h } , \\ 2 \\ \\mathrm { h }$ per day for $^ \\textrm { \\scriptsize 7 d }$ 、During exposure,animals were not allowed to drink or eat.Gaseous FA concentrations generated from chamber emissions were measured three times per day for ${ } ^ { 7 \\ \\mathrm { d } . }$ 、The experimental results ( $0 , 1 \\pm 0 . 0 4$ and $2 \\pm 0 . 1 2 \\mathrm { \\ p p m } \\mathrm { . }$ ）were veryclose to designed concentrations (O,1 and 2 ppm).Gaseous FA levels from the chamberwere steady and reliable. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Behavioral tests ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After exposure to FA on the seventh day,subjects were returned to their original room and left without further disturbance.Two hours later animals were used for behavior tests (open-field test, elevated plus-maze test,forced swimming test and novel object recognition test).All behavioral tests were performed daily between 1400 and $1 8 0 0 \\mathrm { ~ h ~ }$ and the test of least stress was first.The intervalwas $2 4 \\mathrm { ~ h ~ }$ between tests in order to avoid the effect of the forced swimming test;the interval between novel object recognition test and forced swimming test was $^ \\textrm { \\scriptsize 2 d }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1.Open field test ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Spontaneous motor activity and anxiety-like behavior were assessed in an open-field chamber consisting of a square arena $( 5 0 ~ \\mathrm { c m } \\times 5 0 ~ \\mathrm { c m } \\times 5 0 ~ \\mathrm { c m } )$ ）made of grayglacial polyvinyl chloride, brightly and evenly illuminated by six 6O W lamps mounted $2 \\mathrm { ~ m ~ }$ above the arena.The area was divided into 16 quadrants (four centraland 12 peripheral).Mice were individually placed into the center of the open-field and allowed to explore for $5 ~ \\mathrm { m i n }$ .Time spent in the central and peripheral zones,total distance traveled during the experiment and the number of crossings between quadrants wererecorded usinga digital video camera and scored by Videomot2(TSE Systems,Bad Homburg,Germany).The apparatus was cleaned using $70 \\%$ ethanol after each animal. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2.Elevated plus-maze test ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The EPM apparatus was constructed from gray glacial polyvinyl chloride and consisted of four arms $3 0 \\ \\mathrm { c m } \\times 7 \\ \\mathrm { c m } ,$ ）connected to a central area $( 7 \\ \\mathrm { c m } \\ \\times \\ 7 \\ \\mathrm { c m } )$ elevated $1 \\mathrm { ~ m ~ }$ above the floor. Two arms were open and two were closed with $2 0 ~ \\mathrm { c m }$ high walls.Mice were placed individually in the central area facing an open arm and were observed for $5 \\ \\mathrm { m i n }$ 、Total distance traveled during the experiment, number of crossings between closed and opened arms, aswell as time spent in the open and closed arms were detected using the same equipment as in the open-field test above.The apparatus was cleaned using $70 \\%$ ethanol after each animal. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.3.Forced swimming test ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The forced swimming test employed was essentially similar to that described elsewhere (Petit-Demouliere et al.，2Oo5). Briefly, mice were dropped individually into glass cylinders (height: $2 5 \\ \\mathrm { c m }$ ；diameter: $1 5 ~ \\mathrm { c m } ^ { \\cdot }$ )，containing $1 5 \\ \\mathrm { c m }$ water,maintained at $2 3 - 2 5 ~ ^ { \\circ } C .$ and remained there for $6 ~ \\mathrm { m i n }$ .The cylinder was rinsed thoroughly and filled with clean water prior to testing each animal. Once the test began,the duration of immobility (the mouse floated in an upright position and made only small movements to keep its head above water）was recorded during the last $5 \\ \\mathrm { m i n }$ of the 6- min testing period. Each animal was returned to the home cage immediately following the swim period,and was placed under a warming lamp for a total of $1 5 \\ \\mathrm { m i n }$ 、Behaviors were recorded by a digital video camera and scored later by an experimentally blind observer using Observer 5.O (Noldus,the Netherlands). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.4.Novel object recognition test ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The novel object recognition test was performed following standard procedures as described and used in Mamiya et al. (2008). The test procedure consisted of three sessions:habituation,training and retention.Each mouse was individually habituated to the box $( 3 0 ~ \\mathrm { c m } \\times 2 0 ~ \\mathrm { c m } \\times 1 3 ~ \\mathrm { c m } )$ ，with $1 0 \\ \\mathrm { m i n }$ of exploration in the absence of objects for $^ \\textrm { \\scriptsize 2 d }$ (habituation session).During the training session two identical objects were placed in the back corner of the box. The experimental mouse was then placed midway at the front of the box and the total time spent exploring the two objects was recorded for $5 ~ \\mathrm { { m i n } }$ 、During the retention session,animals were placed back into the same box $2 4 \\mathrm { ~ h ~ }$ after the training session,in which one of the familiar objects used during training was replaced with a novel object.The animals were then allowed to explore freely for $5 ~ \\mathrm { m i n }$ and the time spent exploring each object was recorded.Throughout the experiments the objects were used in a counterbalanced manner in terms of their physical com plexity and emotional neutrality. Discrimination between two objects was calculated using a discrimination index (DI), $[ \\mathsf { D I } =$ (novel object exploration time/total exploration time）-(familial object exploration time/total exploration time) $\\times ~ 1 0 0 \\mathrm { i }$ ，which takesinto account individual differences in total exploration time (Dix and Aggleton, 1999;Ennaceur and Delacour, 1988). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.Immunohistochemistry ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After the seventh day of FA inhalation,subjects were returned to their own cages and left without further disturbance.Twentyfour hours after behavioral tests,animals( $\\mathbf { \\dot { n } } = 2 1 \\mathbf { \\dot { \\theta } } .$ ）werethen deeply anaesthetized and perfused with $0 . 1 \\mathrm { ~ M ~ }$ phosphate buffer solution (PBS,pH 7.4)and $4 \\%$ paraformaldehyde in O.1MPBS.The brain was removed and placed in $4 \\%$ paraformaldehyde overnight. Prior to dissection brains were immersed in $3 0 \\%$ sucrose until saturated.Coronal sections $( 4 0 ~ { \\mu \\mathrm { m } } )$ were cut on a cryostat and consecutive sections collected in two vials containing $0 . 0 1 \\mathrm { ~ M ~ }$ PBS to enable two different immunohistochemical stainings.GR（sc1004;Santa Cruz,California,USA) and TH(ab112,Abcam lid,Hong Kong,China）antibodies were rabbit polyclonal types.Floating sections were processed using the primary antibody and Streptavidin/Peroxidase methods (Bioss Company,Beijing,China).We incubated each vial per brain for $1 0 \\ \\mathrm { m i n }$ with $3 \\% \\mathrm { H } _ { 2 } 0 _ { 2 }$ ，and then washed for $2 \\times 1 0$ min with distilled water.We shrunk tissue in 0.01PBS.Sections were preincubated for $6 0 ~ \\mathrm { { m i n } }$ with normal goat serum (SP-Oo23)and incubated at $4 ~ ^ { \\circ } C$ overnight in primary antibody solution(GR antibody,1:10o;TH antibody 1:150) diluted usingantibody diluent(O.O1 M PBS containing $2 0 \\%$ bovine serum albumin and $1 . 7 \\%$ Trition-X-1oo).The next day sections were washed $4 \\times 5$ min with $0 . 0 1 \\mathrm { ~ M ~ }$ PBS and incubated for $9 0 ~ \\mathrm { m i n }$ ina $3 7 \\ ^ { \\circ } \\mathsf { C }$ water bath with biotinylated goat anti-rabbit antibody (SP-0023), followed by another round of $4 \\times 5 \\ : \\mathrm { m i n } \\ : 0 . 0 1$ M PBS.After $1 5 0 ~ \\mathrm { { m i n } }$ of incubation with SABC and $4 \\times 1 0$ min washing with O.01 M PBS, sections were stained with $_ { 3 , 3 ^ { \\prime } }$ -diaminobenzidine tetrahydrochloride（DAB) for visualization of immunoreactivity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.Measurement of immunoreactive neurons ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An Olympus microscope was used to count stained nuclei. Slides were randomized and coded for microscopic analysis so that counters were blind to experimental treatment. The numbers of immunoreactive neurons were quantified by eye with the aid of a reticle placed in one ocular lens.For each brain nucleus, three representative sections from anterior to posterior anatomically matched between subjects were chosen and counted to minimize variability. Individual means were obtained by counting positive neurons bilaterally in three sections from each nucleus.Counts were performed separately for each hemisphere and results were averaged between hemispheres.Sections were chosenby correspondence to the reference atlas plate and not by the level or intensity of GR-IR and TH-IR labeling.GR-IR were quantified in CA1 (Interaural $= 1 . 5 0 \\ \\mathrm { m m }$ ；Bregma $= 2 . 3 0 \\ \\mathrm { m m }$ )，TH-IR were quantified in Arc (Interaural $= 2 . 3 4 ~ \\mathrm { m m }$ ,Bregma $= 1 . 4 6 ~ \\mathrm { m m }$ ） MPOA (Interaural $= 3 . 3 4 ~ \\mathrm { { \\ m m } }$ ，Bregma $\\mathit { \\Theta } = \\ 0 . 4 6 \\ \\mathrm { \\ m m }$ )，ZI (Interaural $= 2 . 8 6 ~ \\mathrm { \\ m m }$ ；Bregma $\\mathbf { \\Omega } = \\mathbf { \\Omega } 0 . 9 4 \\ \\mathrm { \\ m m } ^ { \\cdot }$ ）andVTA(Interau$\\mathrm { \\Delta r a l } = 0 . 7 2 ~ \\mathrm { m m }$ ，Bregma $= 3 . 0 8 ~ \\mathrm { m m }$ ),Around these positions,these regions are also counted.GR immunostaining was detected in the CA1 area of the hippocampus which is known as a crucial region in both the manifestation of depression-related behavior and integration of the stress response (McLaughlin et al.,2oo7).TH immunostaining was detected in the arcuate nucleus (Arc),ventral tegmental area (VTA）and the zona incerta (ZI),in which dopaminergic neurons are located in high densities (Baskerville and Douglas, 2010).Chosen sections were photographed with a Nikon (Tokyo, Japan) camera attached to an Olympus microscope. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/68fc1e6a6c84412447420c38511f4b64f0e153dccc77985ad1661d002029bfb4.jpg",
+        "table_caption": [
+            "Table 1 Effect of formaldehyde exposure on body weight. "
+        ],
+        "table_footnote": [
+            "Values are mean $\\pm$ SEM.\\*Significant difference between groups $( \\mathtt { p } < 0 . 0 5 ) \\$ 一 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">Control males</td><td colspan=\"2\">1 ppm group</td><td colspan=\"2\">2 ppm group</td></tr><tr><td colspan=\"2\">Body weight(g)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Initial</td><td></td><td>35.7533 ± 0.5576</td><td></td><td>35.5733 ± 0.8074</td><td>35.7357 ± 0.4674</td><td></td></tr><tr><td>Final</td><td></td><td>37.5667 ± 0.5247</td><td></td><td>34.1000 ± 0.8439</td><td>32.0214 ± 0.4699*</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fad441973d9732b169c5c4b2117b5a9736ee68819264ac393c8592328e11a338.jpg",
+        "img_caption": [
+            "Figota openasE)ndeagfiestisFinevatedsaesoustsngetsreitf "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6. Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All data were found to be normally distributed using a onesample Kolmogorov-Smirnov test.Data from the open field test, elevated plus-maze test, forced swimming test, novel object recognition test,adult body weight,and numbers of GR-IR and THIR neurons were analyzed using one-way ANOvA with treatment as the factor. Post hoc tests were conducted using Fisher's leastsignificant difference (LSD).Correlations between the open field test,elevated plus-maze test,forced swimming test,and data from novel object recognition and GR-IR and TH-IR were analyzed using Pearson correlations.All data are presented as mean $\\pm$ standard error(SE)in figuresand significance was set at $\\mathrm { ~ P ~ } < 0 . 0 5$ .All statistical analyses were conducted using SPSS 10.O (SPSS Inc., Chicago, USA). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/808593a9a26fdf6459dddac2dbbfb9e4f07a09f8dbc752ab1bda8c4c78deda82.jpg",
+        "img_caption": [
+            "Fig.2.Total immobility time in forced swimming test.Groups not sharing same letters are significantly different. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.Result ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1. Changes in body weight ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Body weight was measured before and after formaldehyde inhalation for 7d.Formaldehyde inhalation of 2 ppm reduced body weight ( $\\textsf { F } _ { ( 2 , 4 2 ) } = 1 2 . 0 9$ $p = 0 . 0 0 0 \\mathrm { , }$ ;however body weight was not affected at 1 ppm FA inhalation (Table1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.Behavioral change after inhalation formaldehyde ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the OFT,the three groups differed in the total distance traveled in the open field ( $\\mathrm { ~ \\cal ~ { ~ F ~ } ~ } _ { ( 2 , 4 2 ) } = 3 . 2 5$ $p = 0 . 0 5 0$ ; Fig._1A), total transitions between quadrants $( \\mathrm { ~ F ~ } _ { ( 2 , 4 2 ) } = 3 . 3 1$ $p = 0 . 0 5$ ; Fig. 1B) and the time spent in the center of the open field (l $\\mathsf { F } _ { ( 2 , 4 2 ) } = 4 . 7 8$ $p = 0 . 0 1 4$ ；Fig.1C).Subjects exposed to 2 ppm FA also moved a shorter distance than the 1 ppm group ( $\\begin{array} { r } { p = 0 . 0 4 5 , } \\end{array}$ ）and controls （204号 $( p \\ : = \\ : 0 . 0 2 5 )$ ).Individuals exposed to 2 ppm FA crossed less frequently compared to the 1 ppm group（ $\\ \\cdot { p } = 0 . 0 4 4 \\rangle$ and controls （204号 $( p = 0 . 0 2 4 )$ .Animals exposed to 1 ppm FA spent more time in the center of the open field than 2 ppm animals( $\\dot { \\boldsymbol { p } } = 0 . 0 0 6 \\dot { \\boldsymbol { \\mathrm { \\Omega } } }$ and controls $\\dot { p } = 0 . 0 3 0 \\dot { }$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the EPM,one way ANOVA showed that the percentage of time spent in the open arms was affected by FA exposure(F (2,42)= 3.18,p = 0.049). Post hoc tests demonstrated that animals exposed to 1 ppm FA spent more time in the open arms than the 2 ppm group $\\begin{array} { r } { { \\bf \\nabla } p = 0 . 0 4 3 ; } \\end{array}$ and control mice ${ \\bf \\zeta } ^ { p } = 0 . 0 2 6 )$ (Fig. 1D-F). Inthe FST,immobility time was affected by FA exposure $( \\mathrm { F } _ { ( 2 , 4 2 ) } = 5 . 1 5 \\$ ， $p = 0 . 0 1 1 \\cdot$ .Mice in the 2 ppm group spent more time immobile than controls $\\begin{array} { r } { { \\bf \\Pi } ^ { \\prime } p = 0 . 0 0 3 ; } \\end{array}$ ；there was no difference between 1 ppm animals and controls (Fig.2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the NOR,males from the three groups spent equal amounts of time exploring either of the two objects in the training session (Fig.3A),thus there was no biased exploratory preference among treatments.During the retention performance test,object exploration time for the novel object was higher in mice exposed to 1 ppm FA or controls( $\\cdot \\boldsymbol { p } < 0 . 0 5$ ,Fig.3B).We found that the DI in the 1 ppm group did not change compared with controls,but the DI in the 2 ppm exposed groups was reduced compared to control and1 ppmanimals ( $\\mathbf { \\dot { p } } < 0 . 0 5$ ，Fig.3C).This indicates that mice exposed to 2 ppm FA could not discriminate a novel object from a familiar object. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1636d56292c5ddc4aeada9a99ecc9b6e6a8b8eda5ac611615e723956847010a3.jpg",
+        "img_caption": [
+            "Fig.3.Exploration $\\mathrm { t i m e } ( s )$ of identical objects in training session (A),exploring time of the novel object in retention session (B）and discrimination index(C). Groups not sharing same letters are significantly different. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbebd8d122e31c5df1fa76ba3bd8b561dc3efc4ffb4fa51fd0c5b73b583336ee.jpg",
+        "img_caption": [
+            "Fig. 4.Mean $\\pm$ SEM number of GR-ir neurons in the hippocampus of mice across the three experimental groups (A).Mean $\\pm$ SEM number of TH-ir neurons in the brain of mice across the three experimental groups (B). Groups not sharing same letters are significantly different. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.GR-ir neurons in the hippocampus ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "One way ANOVA demonstrated that FA exposure affected the number of GR-IR neurons in the hippocampus $( \\mathrm { F } _ { ( 2 , 5 7 ) } = 1 8 . 0 5$ $p = 0 . 0 0 0 \\mathrm { \\Omega } .$ ).Post hoc tests found that 2 ppm FA groups had fewer GR-IR neurons compared with the 1 ppm group $\\stackrel { \\prime } { p } < 0 . 0 0 1$ and controls ( $p < 0 . 0 0 1 ,$ ).Exposure at1 ppm FA had no effect(Fig.4A and 5).Using Pearson correlation analysis we found a negative correlation between GR-IR and forced swimming test ( $\\mathrm { \\ddot { \\ r } } = - 0 . 3 4 7 ,$ （204号 $p = 0 . 0 3 5 ^ { \\cdot }$ ),and a positive correlation between GR-IR and novel object recognition（ $\\mathrm { ~ T ~ } = 0 . 6 0 5$ 5 $p = 0 . 0 0 1$ ) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.TH-ir neurons ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "One way ANOVA revealed that the number of TH-IR neurons varied with FA exposure (Arcuate nucleus: F $_ { ( 2 , 5 2 ) } \\ : = \\ : 9 . 1 9$ $p ~ = ~ 0 . 0 0 0$ ；Medial preopticarea: $\\vec { \\cdot } \\ ( 2 , 4 8 ) \\ = \\ 1 7 . 4 2$ ， $p ~ = ~ 0 . 0 0 0$ ：， Zona incerta: F $( 2 , 4 5 ) = 6 . 2 1$ $p = 0 . 0 \\dot { 0 } 4$ ; Ventral tegmental area: $\\textsf { F } _ { ( 2 , 4 5 ) } = 3 . 2 4$ $p = 0 . 0 4 6 ^ { \\cdot }$ .Animals in the2 ppm group had fewer TH-IR neurons in the MPOA $( p < 0 . 0 0 1$ ，ZI $\\mathbf { \\dot { \\rho } } _ { p } = 0 . 0 0 1$ ）andVTA $\\cdot p = 0 . 0 3 1$ )than controls,and fewer TH-IR neurons than the 1 ppm group in the Arc $( p = 0 . 0 0 1 ^ { \\prime }$ ）andVTA( $\\dot { p } = 0 . 0 3 0 \\dot { , }$ .The1 ppm group possessed more TH-IR than controls in the Arc $( p < 0 . 0 0 1 { \\cdot }$ and fewer TH-IR in the MPOA $( p < 0 . 0 0 1 ^ { \\cdot }$ ）(Figs. 4B and 5).We found a negative correlation between TH-IR neurons in the VTA and forced swimming test ( $\\mathbf { \\tilde { r } _ { \\lambda } } = \\mathbf { \\tilde { \\rho } } - 0 . 9 3 9$ ， $p = 0 . 0 0 0 \\mathrm { \\cdot }$ ，anda positive correlation between TH-IRneurons in the VTA and novel object recognition ( $\\mathrm { \\ddot { r } } = 0 . 8 4 0$ $p = 0 . 0 0 0 \\mathrm { \\Omega }$ ) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Exposure to different concentrations of FA in Kunming mice affects body mass,locomotor activity,depression- and anxiety-like behavior,and cognition in a similar way to other chemical stressors (Batis et al.,2010;Dallman et al., 2003；Makino et al., 2002; Seasholtz, 2000). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FA inhalation at 2 ppm markedly reduced body weight and this is consistent with previous work that found a reversible decrease in food and water consumption,body weight and body weight gain in rats at FA concentrations of 6.1 and $1 2 . 2 ~ \\mathrm { m g ~ m } ^ { 3 }$ -1,12.2and $2 4 . 4 ~ \\mathrm { m g } ~ \\mathrm { m } ^ { 3 }$ -1,6 and 12 ppm,respectively(Ozen et al.,2002,2003; Songur et al.,2O03; Zararsiz et al., 2006). These toxic effects may occurby central inhibition or inhibition of nucleic acid and protein synthesis(Ozenetal.,20o3).However,bodyweight did not change following 1 ppm exposure in the current study and this is consistent with a previous study where FA exposure at $0 . 7 \\ \\mathrm { p p m }$ for 1 week did not affect body weight (Sorg et al., 20o1b).We conclude that FA exposure at1and 2 ppm affects body weight differently. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Mice exposed to 2 ppm FA showed less spontaneous locomotor activity(fewer total transitions and less distance) in the OFT which is consistent with a report that 2 ppm FA exposure for one week significantly reduced the spontaneous locomotor activity (SMLA) (Usanmaz et al.,2oo2),and increased time spent immobile during the FST,indicative of depression-like behavior.Previous studies have indeed observed chemical stressor-induced anxiety-and depression-like behavior in rodents (Batis et al.,2O1O),a typical subtype of depression is associated with a hyperactive HPA axis (Angst et al., 2002;Antonijevic, 20o6),and these patterns are consistent with our results.However,mice exposed to 1 ppm FA did not show altered spontaneous motor activity which is consistent with one previous study (Sorg et al., 2Oo1b). In addition,our data indicates that 1 ppm animals spent more time in the center of the OFT and more time in the open arms in the EPM than 2 ppm FA and control animals,displaying reduced levels of anxious behavior. Determining the in depth mechanisms underlying these alterations requires further investigation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Mice in the 2 ppm groups displayed cognitive impairment during the NOR test,which was consistent with a study whereby inhalation toluene exposure impaired learning and memory in rats in anovel object test (Alejandra et al.,2O12).Several studies showed that FA exposure can induce a deficit in spatial learningand memory(Malek et al., 2003b,2002；Pitten et al., 2000; Lu et al., 2008), but the novel object recognition test measures cognitive capability(Lynch et al.,2011),and the symptoms of cognitive dysfunction are often accompanied by anxiety and depressive disorders(Fan et al.,2010;Engin and Treit, 2007). Mice in the 2 ppm FA group displayed increased depression-like behavior and was possibly accompanied with cognitive deficits. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Consistent with altered behavior in the 2 ppm animals,2 ppm FA exposure reduced GR-IR neurons in the hippocampus in these animals since hippocampal GRs are important sites for negative feedback in the HPA axis.Thus,lower levels of hippocampal GRs reduced the sensitivity of feedback action of the HPA axis,and subsequently induced depression (Sapolsky et al.，1986；Webster et al.,2Oo2).The involvement of GR downregulation in the pathophysiology of depression has been documented in clinical and preclinical studies (reviewed by Holsboer,2ooO）and many studiessuggest that external glucocorticoids exacerbate depressionand anxiety-like behaviors (Gonzalez-Perez et al., 2OO1;Hill et al., 2003；Kajiyama et al.，2O1O)，and downregulate GR expression (Chao et al.，1998). Therefore,exposure to 2 ppm FA may be a chemical stress which leads to elevated cortisol (Sorg et al., 2001a), hippocampal neuronal loss and therefore GR loss (Sapolsky et al., 1986).This effect of chemical stress is supported by another study whereby chronic exposure to low levels of FA in rats caused an increase in the number of CRH-IR neurons in the hypothalamus (PVN)and ACTH-IR cells in the pituitary gland,with an increase in ACTH-mRNA expression in a dose-dependent manner (Sari et al., 2004).ACTH release can result in the release of corticosteroids fromadrenal glands,subsequently,through mineralocorticoid and glucocorticoid receptors,exerting negative feedback on the hippocampus,pituitary and hypothalamus (Swaab et al., 2Oo5). In addition,impaired glucocorticoid receptor function compromises cognitive and spatial capacity deficits (De Kloet et al.,1999).Mice in the 2 ppm FA group displayed increased depression-like behavior and fewer hippocampal GR-IR neurons and both factors contribute to cognitive deficits.However,1 ppm had no effect on numbers of GR neurons in the hippocampus and did not increase depression, consistent with a previous study whereby FA exposure of O.7 ppm for1 week had no effect on basal HPA activity (Sorg et al.,2001a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7596121c8ef6ce9ccafceb629aa26d62145b1a01155b0487d7cafdc5e7238739.jpg",
+        "img_caption": [
+            "Fig5R-o and I),ZI (J, K and L)and VTA (M,N and O) in control group;1 ppm group and 2 ppm group. Ba ${ \\mathrm { r } } = 1 0 0 ~ { \\mu \\mathrm { m } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The further experiment in current study showed that inhalation FA exposure at 2 ppm significantly elevated the FA levels in brains.This result indicated that FA can easily passes through the blood-brain barrier,and eventually accumulate in human body (Nazaroff and Singer,2Oo4). Previous studies have found that injection of formaldehyde at pathological levels( $( 0 . 5 ~ \\mathrm { m M } )$ directly into the hippocampus of rodents induces a deficit in spatial learning and memory in a Morris water maze test (Pitten et al.,2000; Malek et al.，2002，2003b；Lu et al.，2008；Tong et al.，2015). Furthermore,growing evidence indicates that formaldehyde could play an important role in the induction of Alzheimer's disease (Tong et al.，2013，2015；Qiang et al.，2014)， because excess endogenous formaldehyde could induce memory loss in age-related memory-deteriorating diseases(Tong et al.，2O11).Thus,here we suggested that FA in brains following inhalation FA exposure may affect novel object recognition in a more direct pathway in addition to chemical stress in the present study.However,whether FA in the hippocampus impairs novel object recognition via reduction of GR in the hippocampus remains unclear. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dopamine is an immensely important central neurotransmitter and has a key role in a range of neurochemical and neurohormonal functions including cognition,sexual behavior,motor activityand emotional behavior (Gainetdinov et al., 1999;Rodgers et al.. 1994; Zhuang et al.， 1999； Zhou and Palmiter, 1995). Dopaminergic neuronal cell bodies originating in the substantia nigra (SN), hypothalamus,VTA,Arc and ZI project to various brain structures (Baskerville and Douglas,2O1O). TH,as a rate limiting enzyme for DA synthesis,is an indicator of DA production.FA exposure at a concentration of 2 ppm reduced the level of TH-IR neurons in the MPOA,ZI and VTA,indicating that DA synthesis was reduced in the brain. Several studies have demonstrated that DA neurons in the VTA project to limbic regions including the nucleus accumbens,amygdala,hippocampus,and frontal cortex,which are closely associated with emotion and cognition (Herman et al., 1982;Thierry et al.,1976;Tidey and Miczek,1996). Recent discoveries suggest that there may be distinct populations of VTA neurons that are preferentiallyactivated by rewards or stress (Krishnan and Nestler, 2010;Veenema et al., 2007). Many studies have found that extracellular DA levels are negatively associated with levels of depression-like behavior (Tan et al.,2O15).More lines of evidence also support that deficit of dopamineergic function in the limbic circuitry and striatum may possibly contribute to induction of depression (Tye et al., 2013;Park et al., 2005). In addition, DA can improve novel object recognition memory(Pezze et al., 2015；Rossato et al.,2O13) and depletion of DA can possibly affects spatial learning and memory (Braun et al., 2O15).We found a negative correlation between TH-IR neurons in the VTA and forced swimming test and a positive correlation between TH-IR neurons in the VTA and novel object recognition,consistent with these previous reports. Although the mechanism responsible for changes in behavior following FA exposure are not completely understood,alteration in the activity of TH may bea likely factor (Zigmond et al.,1989). Although we do not know the correlation between increased TH-IR neurons in the Arc and reduced anxiety in the 1 ppm FA group, weat least have evidence of increased DA synthesis in this brain region. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study we show that repeated exposure to FA at 2 ppm can affect locomotor activity,depression-like behavior and novel object recognition.These alterations in behavior may be associated with hippocampus GR and central nervous system TH.However, this study provides very limited evidence for the effect of inhaled FA on reduced anxiety levels and nervous toxicology in 1 ppm mice.Further,evidence is lacking for a relationship between reduced anxiety and dopaminergic activity in the 1 ppm animals. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank Zhuoyi Song，Yujuan Ding，Ye Xin and Tong Wu for assistance with experiments.This research was supported by the National Natural Science Foundation of China (31372213 and ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "31170377） and Fundamental Research Funds for Central University (GK2013050o9).The experiments reported here were conducted in accordance with the Guide for the Care and Use of Laboratory Animals of China and approved by the Institutional Animal Care and Use Committee at Shaanxi Normal University. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Alejandra,H.R.， Carolina，LR.， Sinthiamm，LS.S.， Marianam， V.T.， Mónica，L, Silvia,L.C., 2012. Toluene impairs learning and memory, has antinociceptive effects,and modifies histone acetylation in the dentate gyrus of adolescent and adult rats. Pharmacol. Biochem. Behav. 102, 48-57.   \nAngst, J., Gamma, A., Sellaro,R., Zhang, H., Merikangas, K., 2002. Toward validation of atypical depression in the community: results of the Zurich cohort study. J. Affect. Disord. 72,125-138.   \nAntonijevic, I.A.,20o6. Depressive disorders - is it time to endorse different pathophysiologies? Psychoneuroendocrinol 31, 1-15.   \nAronsson, M., Fuxe, K., Dong, Y., Agnati, LF, Okret, S., 1988. Localization of glacocorticoid receptor mRNA in the male rat brain by in situ hybridization. Proc. Natl. Acad. Sci. U. S. A. 85, 9331-9335.   \nBaskervile, TA.,Douglas, A.J., 2010. Dopamine and oxytocin interactionsunderlying behaviors:potential contributions to behavioral disorders. CNS Neurosci. Ther 16, 92-123.   \nBatis, J.C.，Hannigan, J.H.， Bowen, S.E., 2010. Differential effects of inhaled toluene on locomotor activity in adolescent and adult rats. Pharmacol. Biochem. Behav. 96, 438-448.   \nBodnoff, S.R.，Humphreys， A.G.，_Lehman， J.C.， Diamond，D.M.， Rose，G.M., Meaney, M.J., 1995. Enduring effects of chronic corticosterone treatment on spatial learning,synaptic plasticity,and hippocampal neuropathology inyoung and mid-aged rats. J. Neurosci. 15, 61-69.   \nBoja, J.W.,Nielsen, J.A.,Foldvary,E., Truit Jr.,E.B.,1985. Acute low-level formaldehyde behavioral and neurochemical toxicity in the rat. Prog. Neuro Psychopharmacol. Biol. Psychiat. 9, 671-674.   \nBraun， A.A., Amos-Kroohs， R.M., Gutierrez, A., Lundgren， K.H.， Seroogy， K.B., Skelton,M.R., Vorhees, C.V., Williams, M.T.,2015. Dopamine depletion in either the dorsomedial or dorsolateral striatum impairs egocentric Cincinnati water maze_performance while_sparing allocentric Morris water maze learning. Neurobiol. Learn. Mem. 118, 55-63.   \nChao,H.M., Ma, L.Y., McEwen, B.S., Sakai, R.R., 1998. Regulation of glucocorticoid receptor and mineralocorticoid receptor messenger ribonucleic acids by selective agonists in the rat hippocampus. Endocrinol 139,1810-1814.   \nDallman, M.F,， Akana,S.F., Laugero，K.D.， Gomez, Manalo, Bell， M.E., Bhatnagar, S.A, 2O03.Spoonful of sugar: feedback signials of energy stores and corticosterone regulate responses to chronic stress. Physiol. Behav. 79,3-12.   \nDe Kloet, E.R.， Oitzl, M.S., Joels,M.,1999. Stress and cognition: are corticosteroids good or bad guys? Trends Neurosci. 22, 422-426   \nDiamond, D.M.， Rose, G.M.， 1994._ Stress impairs LTP and hippocampal-dependent memory. Ann. N. Y. Acad. Sci. 746, 411-414.   \nDix,S.L, Aggleton,JP.1999.Extending thespontaneouspreference testof recog nition: evidence of object-location and object-context recognition. Behav. Brain. Res. 99, 191-200.   \nEnnaceur, A., Delacour, J.,1988. A new one-trial test for neurobiological studies of memory in rats.1: behavioral data. Behav. Brain. Res. 31, 47-59.   \nEngin, E., Treit, D., 2oo7. The role of hippocampus in anxiety: intracerebral infusion studies. Behav. Pharmacol. 18, 365-374.   \nFan,X.， Xu,H.,Warner, M., Gustafsson, J.A.，2010. ER beta in CNS:new roles in development and function. Prog. Brain. Res. 181, 233-250.   \nGainetdinov, R.R.,Wetsel, W.C., Jones,S.R., Levin, E.D., Jaber, M., Caron, M.G.,1999. Role of serotonin in the paradoxical calming effect of psychostimulants on hyperactivity. Science 283, 397-401.   \nGonzalez, P.O., Ramos-Remus, C.， Garcia-Estrada, J., Luquin, S., 20o1. Prednisone induces anxiety and glial cerebral changes in rats. J. Rheumatol. 28, 2529-2534.   \nHarrison, P.T.C., 20o2. Indoor air quality guidelines. Occup. Environ. Med. 59, 73-74.   \nHerman, J.P.， Guillonneau,D.,Dantzer, R.， Scatton，B.， Semerdjian-Rouquier, L.，Le Moal,M.,1982. Differential effects of inescapable footshocks and of stimuli previously paired with inescapable footshocks on dopamine turnover in cortical and limbic areas of the rat.Life Sci. 30 (25), 2207-2214.   \nHill, M.N., Brotto, L.A., Lee, T.T.Y., Gorzalka, B.B., 2Oo3. Corticosterone attenuates the anti-depressant -like effects elicited by melatonin in the forced swim test in both male and female rats. Prog. Neuropsychopharmacol. Biol. Psychiatry 27, 905-911.   \nHolsboer，F.，2Ooo. The corticosteroidreceptorhypothesisofdepression. Neuropsychop- harmacol 23,477-501.   \nHuot,R.L., Gonzalez, M.E.,Ladd, C.O., Thrivikraman,K.V., Plotsky, P.M., 2Oo4. Foster litters prevent hypothalamic-pituitary-adrenal axis sensitization mediated by neonatal maternal separation. Psychoneuroendocrinol 29, 279-289.   \nKajiyama, Y.,Iijima,Y., Chiba,S.， Furuta,M.,Ninomiya,M., Izumi, A.,et al.,2010. Prednisolone causes anxiety- and depression-like behaviors and altered expression of apoptotic_ genes in mice hippocampus. Prog. Neuropsychopharmacol. Biol. Psychiatry 34,159-165.   \nKitraki, E., Kremmyda, O., Youlatos,D., Alexis, M.N., Kittas, C., 20o4. Gender- dependent alterations in corticosteroid receptor status and spatial performance following 21 days of restraint stress. Neuroscience 125, 47-55.   \nKrishnan,V., Nestler,E.J. 2010. Linking molecules to mood: new insight into the biology of depresson. Am.J. Psychiat. 167 (11), 1305-1320.   \nLiu,Y.,Ye,Z.l.，Luo，H.Z.， Sun，M.，Li，M.，Fan,D.S.,Chui,D.H.，2OO9. Inhalative formaldehyde exposure enhances aggressive behavior and disturbs monoamines infrontal cortex synaptosome of male rats.Neurosci. Lett. 464,113-116.   \nLu,Z.,Li, C.M., Qiao,Y., Yan,Y., Yang, X.,2Oo8.Effect of inhaled formaldehyde on learning and memory of mice. Indoor Air 18, 77-83.   \nLynch,G.， Palmer,L.C., Gall, C.M.，2011. The likelihood of cognitive enhancement. Pharmacol. Biochem. Behav. 99, 116-129.   \nMakino, S., Hashimoto,K., Gold, P.W.,20o2. Multiple feedback mechanisms activating corticotropin -releasing hormone system in the brain during stress. Phamacol. Biochem. Behav. 73,147-158.   \nMalek, F.A., Mortiz, K.U., Fanghanel, J., 2Oo3a. A study on specific behavioral effects of formaldehyde in the rat. J. Exp. Anim. Sci. 43, 160-170.   \nMalek,FA.,，Moritz,K.U.，Paul, I., Fanghänel, J.，2oo2.Effects of formaldehyde on the neuromuscular coordination of AB-mice in the chimney test. Ann. Anat. 184 (Suppl. I), 244-245.   \nMalek,FA., Moritz, K.U., Fanghänel, J.,20o3b. A study_on the effect of inhalative formaldehyde exposure on water labyrinth test performance in rats. Ann. Anat. 185, 277-285.   \nMamiya, T., Kise,M., Morikawa, K., 2O08.Ferulic acid attenuated cognitive deficits and increase in carbonyl proteins induced by buthionine-sulfoximine in mice. Neurosci. Lett. 430, 115-118.   \nMcLaughlin,K.J., Gomez, J.L., Baran, S.E., Conrad, C.D., 20O7. The effects of chronic stress on hippocampal morphology and function: an evaluation of chronic restraint paradigms. Brain Res. 1161, 56-64.   \nMilic,M.，Timic，T.， Joksimovic，S.，Biawat，P.，Rallapali， S.，Divljakovic，J, Radulovic,T., Cook, J.M., Savic,M.M.,2013.PWZ-029,an inverse agonist selective for $\\alpha _ { 5 }$ （20 $G A B A _ { \\mathrm { A } }$ receptors,improves object recognition, but not water-maze memory in normal and scopolamine-treated rats. Behav. Brain Res. 241, 206- 213.   \nNazaroff, W.W., Singer, B.C., 2oo4. Inhalation of haeardous air pollutants from enviromental tobacco smoke in US residences. J. Expo. Anal. Environ. Epidemiol. 14, 71-77.   \nOzen, O.A., Yaman, M., Sarsilmaz,M., Songur, A., Kus, I., 2oo2. Testicular.zinc, copper and iron concentrations in male rats exposed to subacute and subchronic formaldehyde gas inhalation. J. Trace Elem. Med. Biol. 16,119-122.   \nOzen, O.A., Songur, A., Sarsilmaz, M., Yaman, M., Kus, I., 20o3. Zinc,copper and iron concentrations in cerebral cortex of male rats exposed to formaldehyde inhalation. J. Trace Elem. Med. Biol. 17, 207-209.   \nPark,S.K,Nguyen,MD.,Fischer,A.,Luke,M.P,Affarel,B.,Dieffenbach,PB.etal., 2005. Par-4links dopamine signaling and depression. Cell 122, 275-287.   \nPetit,D.B., Chenu, F.，Bourin,M.,2005.Forced swimming test in mice:a review of antidepressant activity. Psychopharmacol. Berl. 177, 245-255.   \nPezze,M.A.,Marshall, H.J., Fone, K.C.F., Cassaday, H.J., 2015. Dopamine D1 receptor stimulation modulates the formation and retrieval of novel object recognition memory: role of the prelimbic cortex. Eur. Neuropsychopharm. 7, 18.   \nPitten, FA., Kramer, A., Herrmann, K., Bremer, J., Koch, S., 2ooo. Formaldehyde neurotoxicity in animal experiments. Pathol. Res. Pract.106,193-198.   \nQiang, M., Xiao,R., Su, T., Wu, B.B., Tong, Z.Q., Liu, Y., He, R.Q., 2014. A novel mechanism for endogenous formaldehyde elevation in SAMP8 mouse. J. Alzheimers Dis. 40, 1039-1053.   \nRaone,A., Cassanelli, A., Scheggi, S., Rauggi, R., Danieli, B., De Montis,M.G., 2007. Hypothalamus-pituitary-adrenal modifications consequent to chronic stress exposure in an experimental model of depression in rats. Neurosci. 146,1734- 1742.   \nReul, JM.,De Kloet, E.R.,1985. Two receptor systems for corticosterone rat brain: microdistribution and differential occupation. Endocrinol 27, 727-733.   \nReul, J., Pearce,P.T.,Funder, J.W., Krozowski, Z.S.,1989. Type I and type II corticosteroid receptor gene expression in the rat: effect of adrenalectomy and dexamethasone administration. Mol. Endocrinol. 3,1674-1680.   \nReynolds,T.J.,Wright, J.W.,1979. Early postnatal physical and behavioural developpment of degus (Octodon degus). Lab. Anim. 13, 93-99.   \nRodgers, R.J., Nikulina, E.M., Cole, J.C., 1994. Dopamine D1 and_D2 receptor ligands modulate the behaviour of mice in the elevated plus maze. Pharmacol. Biochem. Behav. 49,985-995.   \nRossato，J.I.，Radiske，A.，Kohler, C.A.，Gonzalez，C.，Bevilaqua,L.R.，Medina, J.H. 2013. Cammarota M consolidation of object recognition memory requires simultaneous activation of dopamine $\\mathsf { D } _ { 1 } / \\mathsf { D } _ { 5 }$ receptors in the amygdala and medial prefrontal cortex but not in the hippocampus. Neurobiol. Learn. Mem. 106, 66-70.   \nSapolsky， R.M.， Krey，L.C.，McEwen，B.S.，1986. The neuroendocrinologyof stress and aging: the glucocorticoid cascade hypothesis. Endocr. Rev. 7, 284-301.   \nSari，_D.K.，Kuwahara,S._Tsukamoto,Y.， Hori,H.，Kunugita,N.，Arashidani，K., Fujimaki, H., Sasaki,F.，2004. Effect of prolonged exposure to low concentrations of formaldehyde on the corticotrophin releasing hormone neurons in the hypothalamus and adrenocorticotropic hormone cells in the pituitary gland in female mice. Brain Res. 1013,107-116.   \nSeasholtz, A. 20o0. Regulation of adrenocorticotropic hormone secretion: lessons from mice deficient in corticotropin-releasing hormone. J. Clin. Invest. 205, 1269-1277.   \nSongur, A., Akpolat, N., Kus,I., Ozen, O.A., Zararsiz, I., Sarsilmaz,M., 2003. The effects of the inhaled formaldehyde during the early postnatal period in the hippocampus of rats: a morphological and immunohistochemical study. Neurosci. Res. Commun. 33, 168-178.   \nSorg, B.A., Bailie, T.M., Tschirgi, M.L.,Li, N.,Wu, W.R., 2O01a. Exposure to repeated low-level formaldehyde in rats increased basal corticosterone levels and enhances the corticosterone response to subsequent formaldehyde. Brain Res. 898, 314-320.   \nSorg,B.A.， Matthewl，T.， Samantha， S.， Chen，L.C.， Fang， J.D.， 2001b. Repeated formaldehyde effects in an animal model for multiple chemical sensitivity. Ann. N.Y. Acad. Sci. 933, 57-67.   \nSwaab, D.F., Bao, A.M., Lucassen,P.J., 20o5. The stress system in the human brain in depression and neurodegeneration. Ageing Res. Rev. 4, 141-194.   \nTan,L., Ge,H., Tang, J., Fu, C., Duan,M.W., Chen, Y., Hu,R., Sui, J., Liu, X., Feng,H, 2015.Amantadine preserves dopmine levelsand attenuates depression-like behavior induced by traumatic brain injury in rats.Behav. Brain. Res.27, 274-282.   \nThierry, A.M., Tassin, J.P.， Blanc, G., Glowinski, J.，1976. Selective activation of the mesocortical DA system by stress. Nature 263,242-244.   \nTidey, J.W.,Miczek,K.A.,1996. Social defeat stress selectively alters mesocorticolimbic dopamine release: an in vivo microdialysis study. Brain Res. 721(1),140- 149.   \nTong, Z.Q., Zhang, J.L., Luo,W.H.,Wang, W.S., Li, FX., Li, H.,Luo, H.J., Lu,J., Zhou, J.N. Wan,Y.，He,R.Q.，2O11. Urine formaldehyde level is inversely correlated to mini mental state examination scores in senile dementia. Neurobiol. Aging 32, 31-41.   \nTong,Z.Q., Han, C.S., Luo, W.H.,Wang, X.H.,_Li, H., Luo,H.J., Zhou, J.N., Qi, J.S. He, R.Q., 2013. Accumulated hippocampal formaldehyde induces age-dependent memory decline. Age 35,583-596.   \nTong，Z.Q，Han, C.S.， Qiang, M.，Wang,W.S.，Lv, J.H., Zhang,S.Z.，Luo, W.H., Li,H.,2015. Age-related formaldehyde interferes with DNA methyltransferase function, causing memory loss in Alzheimer's disease. Neurobiol. Aging 36, 100-110.   \nTye,K.M.,Mirzabekov, JJ.，Warden， M.R., Ferenczi,E.A.， Tsai,H.C.,Finkelstein,J., et al.,2O13. Dopamine neurons modulate neural encoding and expression of depression-related behaviour. Nature 493, 537-541.   \nUsanmaz, S.E., Eyuip, S.A., Nevin, V., 2oo2. Neurotoxic effects of acute and subacute formaldehyde exposures in mice. Environ. Toxicol. Pharmacol. 11, 93-100.   \nVeenema,A.H.，Bredewold，R.,Neumann, I.D.，20o7. Opposite effects of maternal separation on intermale and maternal aggression in C57BL/6 mice:link to hypothalamic vasopressin and oxytocin immunoreactivity. Psychoneuroendocrinol 32 (5), 437-450.   \nWebster, M.J.,Knable,M.B., O'Grady, J., Orthmann, J., Weickert, C.S.,2002.Regional specificity of brain glucocorticoid receptor mRNA alterations in subjects with schizophrenia and mood disorders. Mol. Psychiatry 7, 985-994.   \nZararsiz, I., Kus,I.,Akpolat,N., Songur, A., Ogeturk,M., Sarsilmaz,M., 2006. Protective effects of omega-3 essential fatty acids against formaldehyde-induced neuronal damage in prefrontal cortex of rats. Cell biochem. Funct. 24, 237-244.   \nZhou, Q.Y., Palmiter, R.D., 1995. Dopamine-deficient mice are severely hypoactive, adiposic,and aphagic. Cell 83,1197-1209.   \nZhuang, X., Gross, C., Santarelli, L., Compan, V., Trillat, A.C., Hen,R.，1999. Altered emotional states in knockout mice lacking 5-HT1A or 5-HT1B receptors. Neuropsychopharmacol 60 (Suppl. 2), 52.   \nZigmond,R.E., Schwarzschild, M.A., Rittenhouse, A.R.,1989. Acute regulationof tyrosine hydroxylase by nerve activity and by neurotransmitters via phosphorylation. Annu. Rev. Neurosci. 12,415-461. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

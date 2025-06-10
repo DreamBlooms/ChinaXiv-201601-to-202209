@@ -1,0 +1,420 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.11931/guihaia.gxzw201812057 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "罗汉果内生真菌多样性研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐祥林1,2，骆海玉1，颜小婕²，卢凤来²，李典鹏2\\*（1．广西师范大学生命科学学院，广西桂林 541006；2.广西植物功能物质研究与利用重点实验室，广西壮族自治区中国科学院广西植物研究所，广西桂林541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 植物内生真菌与宿主植物互惠共生，可提高宿主植物的营养吸收、抗逆境能力以及刺激宿主植物活性物质的产生，是植物病害生物防治领域的重要研究内容之一。植物内生真菌种类繁多，通过ITS基因序列扩增和测序分析，结合传统的形态学鉴定方法，可快速、有效鉴定内生真菌。本文采用传统形态学方法结合rDNA-ITS序列分析，对我国重要药用植物罗汉果中的内生真菌进行鉴定，并研究其多样性，以期为后期探究内生真菌与罗汉果互作关系奠定基础。采用组织培养法分离内生真菌，从罗汉果健康植株中共分离得到150株内生真菌，包括罗汉果雌株中的内生真菌96株和罗汉果雄株中的内生真菌54株。其中，122株内生真菌经形态学结合rDNA-ITS序列分析鉴定为9个属，均归属为子囊菌门，包含座囊菌纲（Dothideomycetes）和子囊菌纲（Sordariomycetes）。其中座囊菌纲（Dothideomycetes）真菌包含3科、3属；子囊菌纲（Sordariomycetes）真菌包含6科、6属。优势属为刺盘孢属（Colletotrichum）和镰刀菌属（Fusarium）。罗汉果雌、雄植株不同组织中内生真菌的定殖率及分离率的变化规律均不相同，雌株中以根中内生真菌的定殖率和分离率最高，叶片中的最低；而在雄株中以叶片中的定殖率和分离率最高，根中的最低。另外，不同菌株在雌、雄两种植株的不同组织中的分布均不同，结合内生真菌群落组成的相似性比较结果，表明部分内生真菌对罗汉果雌株和雄株，以及同一植株中的不同组织均具有偏好性。不同组织中内生真菌的多样性指数在0.11-0.69的范围，其中雌株根部的内生真菌多样性指数最高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词内生真菌，定殖率，分离率，相对频率，多样性指数，相似性中图分类号：Q939.99",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diversity of endophytic fungi isolated from Siraitia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "grosvenorii ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XU Xianglin1， LUO Haiyu², YAN Xiaojiel,LU Fenglai1,LI Dianpeng1,2\\*   \n(1. College of Life Science, Guangxi Normal University, Guilin 541004, Guangxi, China; 2.   \nGuangxi Key Laboratory of Functional Phytochemicals Research and Utilization, Guangxi   \nZhuang Autonomous Region and Chinese Academy of Sciences, Guangxi Institute of Botany, Guilin 541006, Guangxi, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abtract Involved in the biological co-existence，endophytic fungi can confer adaptative advantages to the plant host, such as enhance growth, competitiveness,and induce stress tolerance and the producing of bioactive metabolites of the host plant, displaying an important role in biocontrol of plant diseases. There are many species of endophytic fungi in plants. The identification based on amplification and sequencing analysis of ITS gene，combined with traditional morphological identification methods, could fast, efectively identify endophytic fungi. In this study, the identification as well as the diversity of endophytic fungi isolated from S. grosvenorii were studied to provide an experiment basis for the future researches of the interaction between endophytic fungi and their hosts.A total of 15O endophytic fungi were obtained by a tissue culture method, including 96 and 54 fungal isolates respectively isolated from pistillate plant and staminiferous plant of $S .$ grosvenorii. Among them, 122 isolates were classified into 9 genera based on the morphology identification and sequencing analysis of ITS gene, which belong to phylum Ascomycota， including Dothideomycetes and Sordariomycetes. Dothideomycetes contains 3 families and 3 genera,and Sordariomycetes contains 6 families and 6 genera.The most frequent genera were Colletotrichum and Fusarium. There were diferent colonization rate and isolation rate between pistillate plant and staminiferous plant of S. grosvenori,i.e., in the pistillate plant, the root possessed the highest colonization rate and isolation rate，while the leaves possessed the lowest. The opposite happens in staminiferous plant.Additionally, the distribution of endophytic fungi was different in different tissues of both pistillate plant and staminiferous plant of S. grosvenori. Combined with the similarity indices of community composition of endophytic fungi in different tissues,the result indicated that endophytic fungi have the hosts and tissues preferences.The diversity indices of endophytic fungi in different tissues ranged from O.11 to 0.69, among which the root of pistillate plant had the highest diversity indices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words endophytic fungi, colonization rate, isolation rate, relative frequency, Shannon-Weiner $( H ^ { \\prime } )$ , similarity indices ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物内生真菌是指那些在其生活史中的某一阶段或全部阶段生活在健康植物组织内，对宿主植物组织并不引起明显病害症状的真菌，在植物中普遍存在，与宿主植物协同进化，互惠共生（Fe Andres et al.,2017； Sudha et al.,2016；Nisa et al.,2014； Zhang et al.,2012；Aly etal.,2010)。一方面内生真菌从宿主中吸取营养供自己生长所需，另一方面其产生的次生代谢产物可促进宿主植物营养吸收、提高植物抗生物逆境和非生物逆境的能力、刺激植物产生活性物质等（Zhao et al.,2011)，是植物病虫害生物防治领域的重要研究内容之一（姜道宏，2015)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物内生真菌种类繁多，目前对其鉴定主要采用形态学结合分子生物学的方法，克服了传统的仅依赖形态、生化等表型特征来进行鉴定而存在的诸如人为因素影响大、耗时长等的局限（燕勇等，2008；任燕，2018)。在分子生物学鉴定方法中，真菌核糖体中的DNA内转录间隔区（internal transcribed spacer，ITS）已广泛用于真菌属种间的系统学研究。真核生物基因组中编码rRNA的基因称为rRNA基因或rDNA。rDNA一般由转录区和非转录区组成。转录区包括5SrDNA、18SrDNA、5.8S rDNA和28S rDNA，它们在染色体上头尾相连、串联排列，相互之间由间隔区分隔。其中18S、5.8S 和28SrDNA基因组成一个转录单元，三者高度保守，可在属、科、目水平上用于不同生物种的比较，其间的间隔区为内转录间隔区包括ITS1及ITS2两部分，进化相对迅速而具多态性，可用于属内或种内的系统学研究。rDNA的ITS序列进化速度较快又具有一定的保守性，因此，rDNA序列分析已成为内生真菌鉴定的常用方法（燕勇等，2008；刘春来等，2007）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "罗汉果（Siraitia grosvenorii）为葫芦科（Cucurbitaceae）罗汉果属（Siraitia）多年生攀援藤本植物，主要分布在广西、广东、湖南、江西、贵州等省（区）的部分地区，其中以广西桂林的临桂、永福、兴安、资源、龙胜、灵川栽培面积最大，也是我国最大的罗汉果生产基地（闫海锋等，2011)。罗汉果具有清热润肺、保肝护肝、利咽开音、提高机体免疫功能、减低血糖、抗肿瘤、抗氧化等多种功效，国家卫生部、中医药管理局将其列入第一批“既是食品又是药品的品种”名单，目前已广泛用于医药、保健品、食品和饮料等领域（张维等，2014；李典鹏和张厚瑞，2000）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据共生理论，罗汉果内生真菌可具有多种生物活性功能，目前对罗汉果内生真菌的研究仅有少量报道（付东兴，2013；张昌志，2018；范彩琴等，2017；蒋智，2015；陈海燕等，2010，2012)。罗汉果为雌雄异株植物，其对内生真菌组成的影响可能不同。本文首次对罗汉果雌、雄株各组织中的内生真菌多样性进行研究，对不同组织中的内生真菌进行分离鉴定，对内生真菌的组成进行分析比较，以期为研究内生真菌与罗汉果互作关系，以及其在罗汉果病害生物防治领域的应用奠定基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 培养基",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "马铃薯葡萄糖琼脂培养基（PDA）：马铃薯去皮 $2 0 0 ~ \\mathrm { g }$ ，葡萄糖 $2 0 \\mathrm { g }$ ，琼脂 $2 0 \\mathrm { g }$ ，蒸馏水$1 0 0 0 \\mathrm { m L }$ ， $\\mathrm { p H } 7 . 0$ ， $1 2 1 ^ { \\circ } \\mathrm { C }$ 高温高压灭菌 $2 0 \\mathrm { m i n }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米粉琼脂培养基（CMA）：玉米粉 $4 0 \\mathrm { g }$ 、琼脂 $1 5 \\mathrm { g }$ 、蒸馏水 $1 0 0 0 \\mathrm { m L }$ ， $\\mathrm { p H } 7 . 0$ ， $1 2 1 ^ { \\circ } \\mathrm { C }$ 高温高压灭菌 $2 0 \\mathrm { m i n }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NGA 培养基：葡萄糖 $2 . 5 \\mathrm { g }$ ，牛肉浸膏 $3 . 0 \\mathrm { g }$ ，蛋白脉 $5 . 0 \\mathrm { g }$ ，琼脂 $1 6 . 0 \\mathrm { g }$ ， $1 2 1 ^ { \\circ } \\mathrm { C }$ 高温高压灭菌。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2罗汉果及内生真菌的分离",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "罗汉果健康植株采自中国科学院广西植物研究所（2017年11月），雌雄植株各一株，采集完整植株，雌株包括根、茎、叶片和果实，雄株包括根、茎和叶片。块根 $1 3 . 1 5 ~ \\mathrm { c m }$ ，藤茎长 $2 { - } 3 \\mathrm { ~ m ~ }$ ，带深绿色叶片，果实大小约 $5 \\ \\times \\ 6 \\ \\mathrm { c m }$ 。材料带回实验室后立即进行内生真菌的分离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "内生真菌的分离参照Lou等（2013）、王利娟和贺新生（2006）的方法，并进行一定改良。具体操作如下：在水龙头下以流动水将罗汉果各组织冲洗干净，去掉表面的泥土和灰尘。然后用吸水纸将多余水分吸干，并以 $7 5 \\%$ 酒精擦拭材料表面。将材料转至超净工作台中，以无菌剪刀结合解剖刀，将材料切割成大小约为 $0 . 5 \\ : \\mathrm { c m } \\times 0 . 5 \\ : \\mathrm { c m }$ 的组织块，总共切取210个组织块。每一个组织块均分别依次以 $7 5 \\%$ 酒精消毒 $2 ~ \\mathrm { m i n }$ ， $2 \\%$ 次氯酸钠溶液消毒 $2 ~ \\mathrm { m i n }$ $0 . 2 \\%$ 升汞溶液消毒 $5 \\mathrm { m i n }$ ，每换一种消毒剂时均先以无菌水清洗组织块3次，并以无菌滤纸吸干多余水分。以升汞溶液消毒完成后，再次以无菌水清洗组织块4次。为确定消毒是否彻底，分别设置了两组对照，其一，吸取 $1 0 0 ~ \\mu \\mathrm { L }$ 最后一次清洗组织块的无菌水至新鲜无菌PDA平板上，并以无菌涂布器涂布均匀；其二，采用按压法，将消毒的组织块放至新鲜无菌PDA平板上，稍加按压，放置 $2 0 \\mathrm { m i n }$ 后移去组织块，每组处理设置三个平行。将以上两种不同方法处理的对照放至培养箱中， $2 6 \\pm 1 ^ { \\circ } \\mathrm { C }$ 进行培养，观察有无菌落长出，以明确组织块消毒是否彻底。将所有消毒的组织块置于含有硫酸链霉素（ $5 0 0 ~ \\mu \\mathrm { g / m L }$ ，以抑制细菌的生长）的PDA平板上，每血放一个组织块，然后放至 $2 6 \\pm 1 ^ { \\circ } \\mathrm { C }$ 条件下培养，每天观察有无菌落长出，待有新菌落长出时，将其转接至新的PDA培养基，反复转接以对其进行纯化，直至长出的菌落形态完全一致。将纯化后的菌株接种至PDA斜面，放至 $4 ^ { \\circ } \\mathrm { C }$ 冰箱进行保存。以上操作均在无菌条件下进行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3内生真菌的鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主要采用形态学结合分子生物学的方法对其进行鉴定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "形态学鉴定：采用不同的培养基（PDA、CMA、NGA）对内生真菌进行培养，参考《真菌鉴定手册》（魏景超，1979）、相关文献以及广西师范大学珍稀濒危动植物生态与环境保护省部共建教育部重点实验室化学生态实验室已鉴定至属种的多种内生真菌菌株等。鉴定特征包括菌落大小，菌落及培养基基质颜色，菌落形态，菌落边缘特征，菌落生长速率，以及菌落在显微镜下的特征（如菌丝有无分隔、分支，分生孢子形态、大小，产孢结构特征等)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分子生物学鉴定：利用真核生物在rDNA的ITS区段的特性，即具保守性序列和特异性序列的特性，通过内生真菌的rDNA-ITS序列对其进行鉴定。采用十六烷基三甲基溴化铵法（CTAB）提取内生真菌的总DNA，以真菌通用引物ITS1（ $5 ^ { \\circ }$ -TCCGTAGGTGAACCTGCGG-3'）和ITS4（ $5 ^ { \\circ }$ -TCCTCCGCTTATTGATATGC-3'）扩增菌株ITS碱基序列，委托北京六合华大基因科技有限公司武汉分公司进行检测纯化及测序。将测序得到的结果进行校对拼接后，登录GenBank 进行序列比对，找出相似性高的真菌序列作为参考，采用MEGAX以邻接法（Neighbor-Joining，NJ）对供试菌株进行ITS碱基序列系统发育分析。Bootstrap 进行自展次数为1000 的置信度检测，根据系统发育树中的组群关系对菌株进行分类。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4内生真菌的多样性指数统计分析方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定殖率（colonization rate，CR)：生长内生真菌的组织块数量与全部样本组织块数量百分比。即CR $( \\% ) =$ （生长内生真菌的组织块数/分离的组织块总数） $\\times 1 0 0$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分离率（isolation rate，IR)：从样本组织块中得到的菌株数量与全部样本组织块数量的比值。即 $\\mathrm { I R } =$ 分离得到的内生真菌菌株数量/分离的组织块总数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相对频率（relative frequency，RF)：分离到某种属内生真菌的菌株数量占分离到的所有总菌株数量的百分数。即RF $( \\% ) =$ （某种属内生真菌菌株数量/分离到的所有内生真菌总菌株数） $\\times 1 0 0$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "-£PixlnPi多样性指数 $( H ^ { \\prime } )$ ：根据 Shannon-Weiner 指数公式计算，即 $H ^ { \\prime } =$ ·其中 $k$ 指某种植物或组织中内生真菌种类的总数。 $P i$ 某种属内生真菌的菌株数量占分离到的所有总菌株数量的百分数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相似性系数（CS）是根据Sorenson系数公式计算，即 $\\mathrm { C S } { = } 2 \\mathrm { j } /$ ? $( a + b )$ ，其中j是两种组织中具有的相同内生真菌种类数，a是一种组织中内生真菌的种类数， $\\boldsymbol { \\mathbf { b } }$ 是另一组织中内生真菌的种类数。相似性系数可以比较两种组织之间内生真菌种类组成的相似程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1内生真菌定殖率和分离率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从罗汉果的210个组织块中共分离得到150 株内生真菌（如表1所示)。其中罗汉果雌株分离得到内生真菌96株，包括根43株、茎27株、叶片9株、果实17株，四种不同组织中的内生真菌总定殖率为根（ $100 \\%$ ） $>$ 茎（ $57 \\%$ ） $>$ 果实（ $30 \\%$ ） $>$ 叶片（ $13 \\% )$ ，分离率的变化规律为根（1.43） $>$ 茎（0.9） $>$ 果实（0.57) $>$ 叶片（0.3)。而罗汉果雄株分离得到内生真菌54株，包括根9株、茎20株、叶片25株，三种不同组织的内生真菌总定殖率为叶片（ $40 \\%$ ） $>$ 茎（ $30 \\%$ ） $>$ 根（ $10 \\%$ )，分离率的变化规律为叶（0.83） $>$ 茎（0.67） $>$ 根（0.3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "罗汉果雌雄两种植株中不同组织内生真菌的定殖率及分离率的变化规律均有很大差异。雌株中以根中内生真菌的定殖率和分离率最高，叶片中的最低；而在雄株中，则以叶片中的定殖率和分离率最高，根中的最低。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f1ec0fd0acd90c373218faf1752bcfd720269be6950c8b3d3e81d23269540f1.jpg",
+        "table_caption": [
+            "表1罗汉果各组织中内生真菌的定殖率和分离率",
+            "Table l Colonization rate and isolation rate of the endophytic fungi isolated from different tissues ofSiraitia grosvenorii "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"4\">雌株 Pistillate plant</td><td colspan=\"5\">雄株 Staminiferous plant</td><td rowspan=\"2\">总计 Total</td></tr><tr><td>根 Root</td><td>茎 Stem</td><td>叶 Leaf</td><td>果实 Fruit</td><td>小计 Subtotal</td><td>根</td><td>茎</td><td>叶</td><td>小计 Subtotal</td></tr><tr><td>分离的组织块总数</td><td>30</td><td>30</td><td>30</td><td>30</td><td>120</td><td>Root 30</td><td>Stem 30</td><td>Leaf 30</td><td>90</td><td>210</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d833de318c9cd18a027921445c2241aec92f92aac606154a58f0629f741037bd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">Number of examined</td></tr><tr><td>segments (piece) 生长内生真菌的组织块数 Number of segments colonized by fungi (piece)</td><td>30</td><td>17</td><td>4</td><td>9</td><td>60</td><td>3</td><td>9</td><td>12</td><td>24</td><td>84</td></tr><tr><td>分离的内生真菌菌株数量 Total isolates</td><td>43</td><td>27</td><td>9</td><td>17</td><td>96</td><td>9</td><td>20</td><td>25</td><td>54</td><td>150</td></tr><tr><td>定殖率（CR）% Colonization rate (CR) (%)</td><td>100</td><td>57</td><td>13</td><td>30</td><td>50</td><td>10</td><td>30</td><td>40</td><td>27</td><td>40</td></tr><tr><td>分离率（IR） Isolation rate (IR)</td><td>1.43</td><td>0.90</td><td>0.30</td><td>0.57</td><td>0.80</td><td>0.30</td><td>0.67</td><td>0.83</td><td>0.60</td><td>0.71</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2内生真菌的组成",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用不同培养基（PDA、CMA、NGA）培养内生真菌，通过形态学鉴定，利用五界分类系统，根据《真菌词典》第10版分类系统，将122株菌株鉴定为9个属，均归属于子囊菌门（Ascomycota）（如表2所示），包含座囊菌纲（Dothideomycetes）和子囊菌纲（Sordariomycetes）。其中座囊菌纲真菌包含3科、3属；子囊菌纲真菌包含6科、6属。从150株菌株中挑选23株代表性菌株进行分子鉴定，将测序成功的16株菌株的ITS序列在GenBank数据库中进行BLAST比对，相关结果及16株菌株的GenBank序列号见表3。在GenBank数据库中选取相似性较高且已知种属名的序列，采用MEGAX以NJ法构建系统进化树（如图1）分析其同源性。基于ITS序列的BLAST比对结果和系统进化聚类分析，并结合形态学特征，将 16 株菌株 CJ-3-2-2、CJ-10-2-2、CG-6、CG-6-1-2-2、CG-10-1-2-4、CG-12-1-1、CG-14-2-1、CF-1、CF-1-1-2、CF-2-1、CF-6、CF-7-1、XJ-1、XJ-1-3、XJ-1-4和 XY-11-3-1 分别鉴定为 Colletotrichum gloeosporioides、Acrocalymma vagum、Diaporthe sp.Colletotrichum truncatum、Diaporthe phaseolorum、Fusarium equiseti、 Colletotrichum fructicolaSarocladium terricola、 Colletotrichum truncatum、 Cladosporium cladosporioides、 Xylariaceaesp.、 Fusarium proliferatum、 Phoma sp.、 Colletotrichum fructicola 和 Nigrospora sp.。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分子鉴定结果与形态学鉴定结果一致。例如，刺盘孢属（Colletotrichum）真菌的特征为：在PDA培养基上，菌落主要呈棉絮状，表面为墨绿色，背面为褐色；气生菌丝为白色，常带有黑色的分生孢子器和棕色的孢子液；菌落生长十分迅速， $2 5 ^ { \\circ } \\mathrm { C }$ 恒温培养7d时，菌落直径可达 $9 \\mathrm { c m }$ ；分生孢子器的数量多，球形，带有刚毛；分生孢子为单孢，呈梭形，同时还伴随有棍棒状的褐色附着孢子（高剑，2013)。镰刀菌属（Fusarium）真菌的特征为：在PDA 培养基上，菌落表面为灰白色至亮色（黄色、粉色或紫色等)，背面为灰白色至浅褐色等，边缘规则、平滑，多具有丰富的其实菌丝，呈棉絮状；菌落生长迅速， $2 5 ^ { \\circ } \\mathrm { C }$ 恒温培养7d时，菌落直径可达 $9 \\mathrm { c m }$ ；该属真菌采用瓶梗式产孢，瓶梗无色、修长，表面光滑无疣状突起；分生孢子为全壁芽生，通常有两种形态，即大孢子和小孢子；大孢子无色透明，呈纺锤形或镰刀形，带2个或2个以上的隔膜，顶细胞多半修长，基部细胞呈梗状；小孢子通常为单胞或双胞，无色，直立或弯曲，梨形或卵圆形，比大孢子小；有时会产生厚垣孢子（高剑，2013)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在分离得到的内生真菌中，优势属为刺盘孢属（Colletotrichum）（ $40 \\%$ ）和镰刀菌属（Fusarium） $20 \\%$ )。Colletotrichum在罗汉果雌株和雄株的各组织中均有分布，表明该菌为罗汉果中稳定存在的内生真菌；并且主要分布于雌株和雄株的茎中，相对频率（RF）分别为 $12 \\%$ 和 $8 \\%$ 。其在雌株和雄株的各组织中的分布变化规律有所不同，在雌株中的分布规律为：茎（ $12 \\%$ ） $>$ 根（ $6 . 6 7 \\%$ ） $>$ 果实（ $4 \\%$ ） $>$ 叶片（ $3 . 3 3 \\%$ )；而在雄株中的分布规律为：茎（ $8 \\%$ ） $>$ 叶片（ $4 . 6 7 \\%$ ； $>$ 根（ $1 . 3 3 \\%$ )。以上结果表明Colletotrichum在雄根中的分布最少。Fusarium主要分布于雌株的根（ $7 . 3 3 \\%$ ）中，而在雄株的根中分布为0；其在雌株和雄株中的分布变化规律也有所不同。在雌株中，其RF变化规律为：根（ $7 . 3 3 \\%$ ） $>$ 茎（ $4 \\%$ ） $>$ 果实（ $5. 3 3 \\%$ ） $>$ 叶片（ $0 . 6 7 \\%$ ；而在雄株中则为：叶片！ $( 2 \\% ) >$ 茎（ $0 . 6 7 \\%$ ） $>$ 根（0)。综上，优势属刺盘孢属（Colletotrichum）和镰刀菌属（Fusarium）在雄根中的出现频率均最低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另外，茎点霉属（Phoma）（ $6 . 6 7 \\%$ ）和间座壳属（Diaporthe）（ $6 . 6 7 \\%$ ）在罗汉果植株中出现频率也较高，Phoma 仅分布于雌株和雄株的茎中；而 Diaporthe仅分布于雌株的根和茎中。其他属如枝孢属（Cladosporium）、Xylariaceae 和 Sarocladium 仅分布在雌株的果中,Acrocalymma仅分布在雌株的根中，而黑孢属（Nigrospora）仅分布于雄株的叶中。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2罗汉果各组织中内生真菌的相对频率",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa59447c8a074e24ce7a756111fb0aab3710d8f32cde5e0d2e074e10747ca100.jpg",
+        "table_caption": [
+            "Table 2 Relative frequency of the endophytic fungi isolated from Siraitia grosvenori "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Phylum</td><td rowspan=\"2\">纲 Class</td><td rowspan=\"2\">科 Family</td><td rowspan=\"2\">属 Genus</td><td colspan=\"8\">内生真菌数量/分离频率(%) Number of the isolates /Relative frequency</td></tr><tr><td></td><td colspan=\"3\">雌株 Pistillate plant</td><td colspan=\"3\">雄株 Staminiferous plant</td><td>总计 Total</td></tr><tr><td rowspan=\"7\"></td><td rowspan=\"5\">座囊菌纲 （Dothideomycetes</td><td>枝孢霉科</td><td>枝孢属</td><td>根 Root</td><td>茎 Stem</td><td>叶 Leaf</td><td>果实 Fruit 1/0.6</td><td>根 Root 0/0</td><td>茎 Stem 0/0</td><td>叶 Leaf</td><td>1/0.67</td></tr><tr><td>Cladosporiaceae</td><td>Cladosporiu m</td><td>0/0</td><td>0/0</td><td>0/0</td><td>7</td><td></td><td></td><td>0/0</td><td></td></tr><tr><td>D亚dymel科 畸腔菌科</td><td>萃点霉属 Acrocalymm</td><td>0/0</td><td>7/4.6</td><td>0/0</td><td>0/0</td><td>0/0</td><td>3/2 0/0</td><td>0/0</td><td>10/6.6</td></tr><tr><td>Morosphaeriacea e 间座壳科</td><td>a</td><td>1/0.67</td><td>0/0</td><td>0/0</td><td>0/0</td><td>0/0</td><td></td><td>0/0</td><td>1/0.67</td></tr><tr><td>Diaporthaceae 小丛壳科</td><td>间座壳属 Diaporthe 刺盘孢属</td><td>9/6 10/6.6</td><td>1/0.6 7 18/1</td><td>0/0 5/3.3</td><td>0/0 6/4</td><td>0/0 2/1.3</td><td>0/0 12/8</td><td>0/0 7/4.6</td><td>10/6.6 7</td></tr><tr><td>Glomerellaceae 丛赤壳科 Nectriaceae</td><td>Colletotrichu m 镰刀菌属</td><td>7 11/7.3</td><td>2 6/4</td><td>3 1/0.6</td><td>8/5.3</td><td>3 0/0</td><td>1/0.6</td><td>7 3/2</td><td>60/40 30/20</td></tr><tr><td>Ascomyco ta 子囊菌纲</td><td>假毛壳球科</td><td>Fusarium 黑孢属</td><td>3</td><td></td><td>7</td><td>3</td><td></td><td>7</td><td></td><td></td></tr><tr><td>（Sordariomycetes ）</td><td>Trichosphaeriace ae 炭角菌科</td><td>Nigrospora Xylariaceae</td><td>0/0 0/0</td><td>0/0 0/0</td><td>0/0</td><td>0/0</td><td>0/0</td><td>0/0</td><td>3/2</td><td>3/2</td></tr><tr><td></td><td>Xylariaceae</td><td></td><td></td><td></td><td>0/0</td><td>6/4</td><td>0/0</td><td>0/0</td><td>0/0</td><td>6/4</td></tr><tr><td></td><td>未定地位</td><td>Sarocladium</td><td>0/0</td><td>0/0</td><td>0/0</td><td>1/0.6 7</td><td>0/0</td><td>0/0</td><td>0/0</td><td>1/0.67</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c236deaf940a056fb9f7498318a38a3312258acbc568275e676a06eec2a5a7f.jpg",
+        "table_caption": [
+            "表316 株代表菌株的ITS 序列BLAST 比对结果",
+            "Table 3 Molecular identification of 16 representative endophytic fungi associated with Sirai "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">grosvenorii</td></tr><tr><td>内生真菌</td><td>相似性最高菌株</td><td>覆盖率</td><td></td><td>建议属种</td></tr><tr><td rowspan=\"2\">Fungal isolate</td><td>Top BLAST</td><td rowspan=\"2\">Query coverage (%)</td><td rowspan=\"2\">相似性 Identity (%)</td><td>（GenBank 序列号） Proposed species</td></tr><tr><td>search results</td><td></td></tr><tr><td>CJ-3-2-2</td><td>(GenBank acc.No.) Colletotrichum fructicola</td><td>97</td><td>100</td><td>(GenBank acc.No.) Colletotrichum fructicola</td></tr><tr><td></td><td>(MG657347)</td><td></td><td></td><td>(MK611666) Colletotrichum</td></tr><tr><td rowspan=\"2\">CJ-10-2-2</td><td>Colletotrichum</td><td>99</td><td>99.11</td><td>gloeosporioides</td></tr><tr><td>gloeosporioides (KU356915)</td><td></td><td></td><td>(MK611667)</td></tr><tr><td>CG-6</td><td>Acrocalymma vagum (KT951295)</td><td>99</td><td>100</td><td>Acrocalymma vagum (MK611668)</td></tr><tr><td>CG-6-1-2-2</td><td>Diaporthe sp. (KU375691)</td><td>99</td><td>97.66</td><td>Diaporthe sp. (MK611669)</td></tr><tr><td>CG-10-1-2-</td><td>Colletotrichum truncatum</td><td>100</td><td>99.65</td><td>Colletotrichum</td></tr><tr><td>4</td><td>(KX648374)</td><td></td><td></td><td>truncatum (MK611670)</td></tr><tr><td>CG-12-1-1</td><td>Diaporthe phaseolorum</td><td>99</td><td>100</td><td>Diaporthe phaseolorum</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a54622badadf6da5fb08e8cbd440985ded78d9f99861beebb7d9c5d75149005.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">(KX880938)</td><td colspan=\"2\">(MK611671)</td></tr><tr><td>CG-14-2-1</td><td>Fusarium equiseti</td><td>97</td><td>99.62</td><td>Fusarium equiseti</td></tr><tr><td rowspan=\"2\">CF-1</td><td>(KU041633) Colletotrichum fructicola</td><td></td><td></td><td>(MK611672) Colletotrichum fructicola</td></tr><tr><td>(KR445676)</td><td>99</td><td>100</td><td>(MK611673)</td></tr><tr><td>CF-1-1-2</td><td>Sarocladium terricola</td><td>99</td><td>99.82</td><td>Sarocladium terricola</td></tr><tr><td>CF-2-1</td><td>(LC387806) Colletotrichum truncatum</td><td>100</td><td>99.64</td><td>(MK611674) Colletotrichum</td></tr><tr><td></td><td>(KX648379)</td><td></td><td></td><td>truncatum (MK611675) Cladosporium</td></tr><tr><td rowspan=\"2\">CF-6</td><td>Cladosporium cladosporioides</td><td>99</td><td>99.81</td><td>cladosporioides</td></tr><tr><td>(KC172067)</td><td></td><td></td><td>(MK611676)</td></tr><tr><td>CF-7-1</td><td>Xylariaceae sp. (KM513576)</td><td>99</td><td>99.18</td><td>Xylariaceae sp.</td></tr><tr><td rowspan=\"3\">XJ-1</td><td></td><td></td><td></td><td>(MK611677)</td></tr><tr><td>Fusariumproliferatum</td><td></td><td></td><td>Fusarium proliferatum</td></tr><tr><td>(LC406457)</td><td>99</td><td>99.81</td><td>(MK611678)</td></tr><tr><td>XJ-1-3</td><td></td><td>96</td><td></td><td></td></tr><tr><td></td><td>Phoma sp. (MF326604) Colletotrichum fructicola</td><td></td><td>98.45</td><td>Phoma sp. (MK611679)</td></tr><tr><td rowspan=\"2\">XJ-1-4</td><td></td><td>99</td><td>99.14</td><td>Colletotrichum fructicola</td></tr><tr><td>(MK383329)</td><td></td><td></td><td>(MK611680)</td></tr><tr><td>XY-11-3-1</td><td>Nigrospora sp. (KY889145)</td><td>100</td><td>100</td><td>Nigrospora sp. (MK611681)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbd5fa511c89e8d47f05b08c657571da0a12237effd2c5a1e712176093880f34.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注:Bootstrap $\\scriptstyle 1 = 1 0 0 0$ ，节间数字代表 Bootstrap 支持值;bar 代表遗传距离；CJ-3-2-2、CJ-10-2-2、  \nCG-6、CG-6-1-2-2、CG-10-1-2-4、CG-12-1-1、CG-14-2-1、CF-1、CF-1-1-2、CF-2-1、CF-6、CF-7-1、XJ-1、XJ-1-3、XJ-1-4 和 XY-11-3-1为本实验所分离的菌株，其余的序列均来自于GenBank 数据库。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note: The numbers at the branches indicate the percentages of trees from 10o0 bootstrap replication in which the branch occurs.Phylogeny test was computed by MEGA X .The rooted tree was generated using Neighbor-Joining method. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图1基于内生真菌ITSrDNA序列所得的系统进化树",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Phylogenetic relationship analysis of the 16 fungal isolates from Siraitia grosvenorii to other fungi from GenBank, deduced from the ITS rDNA sequences ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3各组织中内生真菌的多样性与相似性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在雌株中，各组织中多样性指数大小分别为：根（0.69） $>$ 茎（0.61） $>$ 果实！ $\\ : ( 0 . 4 1 ) > \\ :$ 叶片（0.15）（见表4)。而在雄株中，叶片（0.35）与茎（0.35）具有相同的多样性指数，根（0.11）中的多样性指数相对较小。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从罗汉果雌雄株各组织中分离的内生真菌的相似性指数在0.4-0.8的范围（见表5），其中雌株茎中的内生真菌与雄株茎中的相似性最高，其次为雌株的叶与雄株的茎和叶，而雄株的根与雌株的根、茎、果中的内生真菌的相似性最低。结果表明雄株根中的内生真菌与雌株大部分组织中的内生真菌的差异较大。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/504625dff93d0393105ca68e7cc638abaa2fac94124685d570f98ff8db3806b4.jpg",
+        "table_caption": [
+            "Table 4 Diversity indices of endophytic fungi isolated from the different tissues of Siraitia ",
+            "表5罗汉果各组织中内生真菌的相似性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">grosvenorii</td></tr><tr><td rowspan=\"5\"></td><td colspan=\"4\">雌株</td><td colspan=\"3\">雄株</td></tr><tr><td colspan=\"4\">Pistillate plant</td><td colspan=\"3\">Staminiferous plant</td></tr><tr><td>根</td><td>茎</td><td>叶</td><td>果实</td><td>根</td><td>茎</td><td>叶</td></tr><tr><td>Root</td><td>Stem</td><td>Leaf</td><td>Fruit</td><td>Root</td><td>Stem</td><td>Leaf</td></tr><tr><td>香农-威纳指数 Shannon-Wein 0.69 er(H')</td><td>0.61</td><td>0.15</td><td>0.41</td><td>0.11</td><td>0.35</td><td>0.35</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6aae9e8a2b8f8e04263469dcb43e25a80e894716d168d3683e6caab15537493.jpg",
+        "table_caption": [
+            "表4罗汉果各组织中内生真菌的多样性指数",
+            "Table 5 Similarity indices (CS) of endophytic fungi isolated from the different tissues of Siraitia grosvenorii "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"2\">srosvenort 雌株 Pistillate plant</td><td colspan=\"4\">雄株 Staminiferous plant</td></tr><tr><td></td><td></td><td>茎 Stem</td><td>叶Leaf</td><td>果Fruit</td><td>根Root</td><td>茎 Stem</td><td>叶Leaf</td></tr><tr><td rowspan=\"2\">雌株</td><td>根Root</td><td></td><td>0.75</td><td>0.67</td><td>0.5</td><td>0.4 0.57</td><td>0.57</td></tr><tr><td>茎 Stem</td><td></td><td>0.67</td><td>0.5</td><td>0.4</td><td>0.86</td><td>0.57</td></tr><tr><td>Pistillate plant</td><td>叶Leaf</td><td></td><td></td><td>0.67</td><td>0.67</td><td>0.8</td><td>0.8</td></tr><tr><td></td><td>果Fruit</td><td></td><td></td><td></td><td>0.4</td><td>0.57</td><td>0.57</td></tr><tr><td>雄株</td><td>根 Root</td><td></td><td></td><td></td><td></td><td>0.5</td><td>0.5</td></tr><tr><td>Staminifer ous plant</td><td>茎 Stem</td><td></td><td></td><td></td><td></td><td></td><td>0.67</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对于内生真菌的鉴定及分类，基于rDNA-ITS序列分析的兴起和广泛应用对其具有很大的推进作用，但这种技术仍然不能取代传统的形态学方法，且必须以形态学为基础。其主要原因包括：（1）进行序列比对的数据库需不断完善，据估计GenBank中约有 $1 0 \\% \\sim 2 0 \\%$ 的真菌序列存在错误鉴定；并且，每年不断有新的序列提交至数据库，而过多的相似序列也会给鉴定工作带来困难；（2）核酸的完整性和纯度都会影响测序结果，当核糖体DNA重复序列之间的纯合度很高时，直接测序可以真实反映ITS区域的序列；反之，各个重复序列之间的差异较大时，采用PCR产物直接测定序列，可能会由于测序仪读出多峰而导致无法得到正确的单一序列；（3）对于某些物种，其ITS区序列可变的程度相对不高，不足以用来分析其属种或组群间的差异。因此，需要将ITS序列分析结果与真菌形态学特征相结合，才能更好地正确鉴定丝状真菌（李营等，2015；郑冰等，2011；燕勇等，2008）。本文从罗汉果雌、雄株的不同组织中分离得到150株内生真菌，通过形态学鉴定与ITS序列分析结合，利用五界分类系统，根据《真菌词典》第10版分类系统，将122株菌株鉴定为9个属，均归属于子囊菌门（Ascomycota）（如表2所示），包含座囊菌纲（Dothideomycetes）和子囊菌纲（Sordariomycetes）。其中座囊菌纲真菌包含3科、3属；子囊菌纲真菌包含6科、6属。另外，优势属为刺盘孢属（Colletotrichum）和镰刀菌属（Fusarium）。已大量研究表明刺盘孢属和镰刀菌属是普遍在存在于植物中的内生真菌，并且刺盘孢属和镰刀菌在许多植物中也均为优势属（Araujo et al.,2001; Duran et al.,2005;Lou et al.,2013；齐静等,2014）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "雌株中的内生真菌为96株，雄株中的内生真菌为54株，其内生真菌的总定殖率和分离率均高于雄株。目前对于雌雄异株植物内生真菌的分离及组成分析的报道极少，贾敏等（2014）对浙江天目山地区雌雄株银杏内生真菌的多样性进行研究，发现雌雄株在菌种种类和数量上存在差异，雄株银杏内生真菌在菌种数量上具有一定的优势。雌、雄株内生真菌数量的差异可能与宿主植物生理功能有关，后续还需加大样本量的采集并进行更深入的研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从组织水平来看，各组织中内生真菌的数量及种属具有较大差异。在雌株中，内生真菌在不同组织中的定殖率和分离率大小顺序均为：根 $\\mathrm { > }$ 茎 $\\ >$ 果实 $\\mathrm { > }$ 叶片，即在雌株中，以根中内生真菌的定殖率和分离率最高，叶片中的最低。相似的，张昌志（2018）从罗汉果的根、茎、果实中分离得到的内生真菌的菌株数量同样为根 $>$ 茎 $: >$ 果实。但蒋智（2015）从罗汉果根、茎、叶、果实中分离的内生真菌的数量大小顺序为果实、茎和叶、根。另外，在本文研究中，罗汉果雄株的内生真菌在不同组织的内生真菌总定殖率和分离率也出现不同情况，其大小顺序均为：叶片 $>$ 茎 $\\ >$ 根，即在雄株中以叶片中的定殖率和分离率最高，根中的最低。以上不同的研究结果表明，内生真菌群落结构受宿主植物影响，即不同年份、不同季节、不同地点，采集的不同的罗汉果植株，其内生真菌的分布情况均有可能不同（罗永兰等，2005)。另外，本文中雌株各组织内生真菌数量变化符合“环境影响和组织传播”论点（贺超，2016；高剑，2013)，即由于土壤真菌在种群丰度和外界环境上都比叶生真菌有优势，相对于叶片，在一定程度上增大了内生真菌侵染率，而茎中的内生真菌主要来自于根部，同时因为茎生长周期比叶片长，这些共同因素导致了内生真菌在茎中的定殖率高于叶片中的定殖率。罗汉果雄株各组织中内生真菌的分布与此不同，可能罗汉果雄株中内生真菌具有不同传播机制，其内生真菌的分布和传播机制有待进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "不同内生真菌在各组织中的分布均不相同。如优势属Colletotrichum在罗汉果雌株和雄株的各组织中均有分布，并且主要分布于雌株和雄株的茎中，在雄根中的分布最少。Fusarium主要分布于雌株的根（ $7 . 3 3 \\%$ ）中，而在雄株的根中分布为0。该结果进一步表明罗汉果雄株中内生真菌在各组织中可能具有不同的传播机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "有些属表现出明显的宿主植物及组织的专一性，如Diaporthe仅分布于雌株的根和茎中;枝孢属（Cladosporium）、Xylariaceae 和 Sarocladium 仅分布在雌株的果中；Acrocalymma 仅分布在雌株的根中；而黑孢属（Nigrospora）仅分布于雄株的叶中。结合内生真菌群落组成的相似性比较结果，表明部分内生真菌对罗汉果雌株和雄株，以及同一植株中的不同组织均具有偏好性。罗汉果内生真菌对宿主及组织的偏好性，在一定程度上造就了罗汉果内生真菌群落的多样性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文的研究可为罗汉果内生真菌与宿主植物互作及宿主植物病害的生物防治研究奠定基础。后期还需对更多样本进行研究，并对内生真菌进行进一步鉴定，以及进行内生真菌与宿主互作等方面的研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ALY AH, DEBBAB A, KJER J, et al., 2010. Fungal endophytes from higher plants: a prolific source of phytochemicals and other bioactive natural products[J]. Fungal Divers, 41(1): 1-16. ARAUJO WL，MACCHERONI W,AGUILAR-VILDOSO CI，et al.， 2001. Variability and interactions between endophytic bacteria and fungi isolated from leaf tissues of citrus rootstocks[J]. Can J Microbiol, 47(3): 229-236. CHEN HY,FU DX,LIN CW, et al., 2012. Study on the secondary metabolites of the endophytic fungus SG- 69 from the Siraitia grosvenori[J]. Appl Chem Ind, 41(8): 1318-1320.[陈海燕，付 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "东兴，林翠梧，等,2012.罗汉果内生真菌 SG-69 次级代谢产物的研究[J]．应用化工,41(8): 1318-1320.]   \nCHEN HY,LI YY，WANG ZB,et al.，2010. Optimization of the culture medium for a fluorescent-producing endophytic fungus SG-59, isolated from the Siraitia grosvenorii by response surface methodology[J]. JGuangxi Univ,2010,35(2): 241-244.[陈海燕，李艳艳，王 志滨，等,2010．响应面法优化罗汉果内生真菌 SG-59 产荧光物质的培养基[J]．广西大学 学报(自然科学版),35(2): 241-244.]   \nDURAN EL,PLOPER LD,RAMALLO JC, et al., 2005.The foliar fungal endophytes of Citrus limon in Argentina[J]. Can J Bot, 83(4): 350-355.   \nFANG CQ, ZHANG CZ, LONG CM, et al., 2017. Separation of endophytic fungi of Siraitia grosvenorii and antioxidant activity of fermentation products[J]. Chin Brew, 2017, 36(12): 46-50.[范彩琴，张昌志，龙楚媚，等,2017．罗汉果内生真菌的分离及其发酵产物的抗氧 化活性研究[J]．中国酿造,36(12):46-50.]   \nFE ANDRES M, ELISA DIAZ C, GIMENEZ C, et al., 2017. Endophytic fungi as novel sources of biopesticides: the Macaronesian Laurel forest, a case study[J]. Phytochemistry Rev,16: 1009-1022.   \nFU DX,2013. The study on the secondary metabolites of the Siraitia grosvenori root endophytic fungi[D].Nan Ning:Guangxi University.[付东兴,2013．罗汉果块根内生真菌及其次级代谢 产物的研究[D]．南宁：广西大学.]   \nGAO J，2013.Diversity and ecological distribution of endophytic fungi associated with mangroves[D].Zhan Jiang: Guangdong Ocean University.[高剑,2013．内生真菌多样性及其 生态分布[D]．湛江：广东海洋大学.]   \nHE C,2016. Species diversity of endophytic fungi associated with mangroves[D]. Bao Ding: Hebei University.[贺超,2016.红树林内生真菌物种多样性研究[D]．保定：河北大学.]   \nJIA M, JIANG YP, ZHANG W, et al., 2014. Comparison on diversity of endophytic fungi from Ginkgo biloba in Tianmu Mountain and Jiande area[J]. Drugs Clin,29(3): 262-268.[贾敏，蒋 益萍，张伟，等,2014．浙江天目山和建德地区产银杏中内生真菌多样性的比较研究[J]. 现代药物与临床,29(3):262-268.]   \nJIANG DH, 2015. Endophytic fungi and their prospects[J]. Chin JBiol Control, 31(5): 742-749. [姜道宏,2015．植物内生真菌及其展望[J]．中国生物防治学报,31(5):742-749.]   \nJIANG Z, 2015. Studies on moroside V producing endophytic fungus from Siraitia grosvenorii[D]. Gui Lin: Guangxi Normal University.[蒋智,2015．产甜甙V 罗汉果内生真菌的研究[D]．桂 林：广西师范大学.]   \nLI DP & ZHANG HR,20oo. Studies and uses of Chinese medicine Luohanguo-- a special local product of Guangxi[J].Guihaia,20(3):269-275.[李典鹏和张厚瑞,2000．广西特产植物罗汉 果的研究与应用[J]．广西植物,20(3):270-276.]   \nLI Y,QU PH, CHEN DK, et al., 2015.Application and evaluation for sequencing analysis based on internal transcribed spacer gene for identification of 89 strains of pathogenic fungi[J]. Chin J Clin Lab Sci,33(11):860-863.[李营，屈平华，陈东科，等,2015.ITS 基因测序分析对 89 株 病原真菌鉴定的应用评价[J]．临床检验杂志,33(11):860-863.]   \nLIU CL，WEN JZ, YANG MX, et al.， 2007. Application of rDNA-ITS in molecular test of phytopathogenic fungi[J]. JNortheast Agric Univ,38(1):101-106.[刘春来，文景芝，杨明秀, 等,2007.rDNA-ITS 在植物病原真菌分子检测中的应用[J]．东北农业大学学报,38(1): 101-106.]   \nLOU,JF，FU，LY，LUO，RY.et al.， 2013. Endophytic fungi from medicinal herb Salvia miltiorrhiza Bunge and their antimicrobial activity[J]. Afr JMicrobiol Res, 7(47): 5343-5349.   \nLUO YL, ZHANG ZY, RAN GH, 2005. Research on ecology of endophytic fungi in Citrus[J]. J Hunan Agric Univ,(5):81-84.[罗永兰，张志元，冉国华,2005．柑橘内生真菌的生态研究 [J]．湖南农业大学学报(自然科学版),(5):81-84.]   \nNISA H, KAMILI AN, NAWCHOO, IA, et al., 2015. Fungal endophytes as prolific source of phytochemicals and other bioactive natural products: A review[J]. Microb Pathog, 82: 50-59.   \nQI J,JIANG CJ，WU YC，et al.，2014.Diversity of endophytic fungi from Cephalotaxus hainanensis Li[J].Guangdong Agr Sci, 41(13): 147-151.[齐静，蒋春洁，吴延春，等,2014. 海南粗榧内生真菌多样性分析[J].广东农业科学,41(13):147-151.]   \nREN Y,2018. Morphological and molecular biology identification of endogenous fungi in Pice Mongolica[D]. Inner Mongolia Autonomous Region: Inner Mongolia Agriculture University. [任燕,2018．沙地云杉内生真菌形态学与分子学分类鉴定[D]．内蒙古自治区：内蒙古农业 大学.]   \nSUDHA V, GOVINDARAJ R, BASKAR K, et al.， 2016. Biological properties of endophytic fungi[J]. Braz Arch Biol and Technol, 59: 1-6.   \nWANG LJ，HE XS,2006.Research methods of the isolation and sublimation of plant endophytical fungi[J].JMicrobiol,26(4): 55-60.[王利娟,2006．植物内生真菌分离培养的研 究方法[J]．微生物学杂志,26(4):55-60.]   \nWEI JC, 1979. Fungal identification manual[M]. Shang Hai: Shanghai Science and Technology Press.[魏景超,1979．真菌鉴定手册[M]．上海：上海科学技术出版社.]   \nYAN HF,LI LX, QIN JP, et al., 2011. Research advances on Siraitia grosvenori[J]. J S Agr, 42(11):1387-1391.[闫海锋，李林轩，覃金萍，等,2011．罗汉果研究综述[J]．南方农业学 报,42(11): 1387-1391.]   \nYAN Y,LI WP, GAO WJ, et al., 2008. Application of rDNA ITS sequence analysis in fungus identification[J].Chi JHealth Lab Technol,18(10):1958-1961.[燕勇，李卫平，高雯洁，等, 2008.rDNA-ITS 序列分析在真菌鉴定中的应用[J].中国卫生检验杂志,18(10):1958-1961.]   \nZHANG CZ， 2018. Screening of cyclodextrin glucosyltransferase producing strains from endophytes of Siraitia grosvenori and study on enzymatic modification of Siraitia grosvenorii bitter glycoside [D].Gui Lin: Guangxi Normal University.[张昌志,2018．罗汉果内生菌中产 环糊精葡萄糖基转移酶菌株的筛选及酶法改性罗汉果苦味苷的研究[D]．桂林：广西师范 大学.]   \nZHANG W, WANG B, ZHOU L, et al., 2014. Research progress in chemical composition and pharmacology of Siraitia grosvenorii swingle[J]. Sci Technol Food Ind,35(12): 393-397.[张维, 王斌，周丽，等,2014.罗汉果成分及药理研究进展[J]．食品工业科技,35(12):393-397.]   \nZHANG YY,HAN T，MING QL，et al.， 2012. Alkaloids produced by endophytic fungi: a review[J]. Nat Prod Commun, 7: 963-968.   \nZHAO JL， SHAN TJ, MOU Y, et al.， 2011. Plant-derived bioactive compounds produced by endophytic fungi[J]. Mini-Rev in Med Chem, 11(2): 159-168.   \nZHEN B,YING CM,WANG YP, et al., 2011. Evaluation on rDNA-internal transcribed spacer regions as targets for molecular identification of clinical uncommon filamentous fungi[J]. Lab Med,26(10):648-652.[郑冰，应春妹，汪雅萍，等,2011.rDNA-ITS序列分析对临床少见丝 状真菌鉴定作用的评估[J]．检验医学,26(10):648-652.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,276 @@
+# 礼之用，和为贵？和谐管理理论视角下团队亲社会违规氛围对团队绩效的影响
+
+蔡亚华程佳琳李劲松(上海财经大学 商学院，上海，200433)
+
+摘要 当前关于亲社会违规行为的研究主要集中于个体层面，但实践和理论都表明我们有探究团队亲社会违规氛围的必要性。为此，本研究聚焦于团队亲社会违规氛围这一概念，以和谐管理理论为基础，分别引入团队和谐作为中介变量和团队互依性作为调节变量，探讨团队亲社会违规氛围对团队绩效的影响机制和作用边界。本文以74个团队和 334名团队成员为研究对象，通过对三阶段所获取的数据进行分析，结果显示：(1）团队互依性对团队亲社会违规氛围与团队和谐的关系具有调节作用：当团队互依性高时，团队亲社会违规氛围对团队和谐的负向影响更强；(2)团队和谐对团队绩效具有显著的正向影响；(3）团队互依性调节了团队亲社会违规氛围通过团队和谐对团队绩效的间接效应：当团队互依性水平较高时，团队亲社会违规氛围通过团队和谐对团队绩效的负向效应会被增强。本研究证实了团队亲社会违规氛围对团队绩效的作用机制与边界条件，拓宽了亲社会违规行为和团队和谐的相关研究。
+
+关键词团队亲社会违规氛围，团队和谐，团队互依性，团队绩效
+
+# 1前言
+
+规则常见于每个组织中，难以依据具体情境的要求而变动。但随着工作环境逐渐动态化，员工时常需要应对任务、同事和顾客超越规则之外的不同要求。由此，在工作中，员工常陷入遵守规则与发挥主观能动性的两难困境中。如果员工发挥主观能动性以满足任务、同事和顾客的要求而偏离规则，我们则将该种行为称之为亲社会违规行为，即员工为促进组织或利益相关者的福利而违反组织规章与制度的行为（Morrison,2006,p.6）。Morrison (2006)将员工亲社会违规行为划分为三个维度，即员工为提升他们工作的效率、为帮助同事、为提供更优质的顾客服务而违背规则。目前，管理学者对员工亲社会违规行为投入了越来越多的关注，大多数研究聚焦于从个体特征（如“员工同情心”“积极人格”“冒险特质”“自尊”“控制点"等）（Dahling et al.,2012; Morrison,2006; Vardamanet al.,2014）、领导风格（如“变革型领导”、“道德领导”、“差序式领导”）（Huang,etal.,2014；徐世勇,朱金强，2017；燕诗舟等，2018；Zhu,etal.,2018）以及工作特征与行为（如“工作意义”、“工作自主性”“管理开放性”“反生产工作行为")（李锐等,2015;Morrison,2006；朱金强，徐世勇,2015）三方面探究员工亲社会违规行为的前因。在这些研究中，个体和工作特征影响员工亲社会违规行为的机制作用探讨较少，学者主要考察心理安全感、工作自主性、心理所有权等（徐世勇，朱金强，2017；燕诗舟等，2018）在领导风格和员工亲社会违规行为的中介作用，如徐世勇和朱金强（2017)发现心理安全感和工作自主性中介了道德领导和亲社会违规行为的正向关系。关于员工亲社会违规行为后果的研究，目前仅有Dahling 等（2012）验证了员工亲社会违规行为会对领导评价的员工绩效产生负面影响。近期，也有一些学者从员工亲社会违规行为研究转向管理者亲社会违规行为，并主要考察管理者亲社会违规行为对员工心理（如员工感知到的“领导信任”、“制度信任"）和行为（如员工的“组织公民行为”、“职场偏差行为”、“亲社会违规行为”）的影响（刘效广，王志浩，2018；Chen etal.,2019)。整体而言，当前关于亲社会违规行为的研究主要停留在个体层面，但无论基于实践还是理论都表明我们有探究团队层面亲社会违规氛围的必要性。
+
+首先，随着环境逐渐动态和复杂化，越来越多的企业采用团队的形式开展工作（King etal.,2016;Kozlowski&Bell,2003)。考虑到当今团队工作形式的盛行以及团队成员的工作相互影响并围绕共同的目标而开展，如果我们研究团队层面亲社会违规行为，将使学者和实践管理者从了解团队亲社会违规氛围与团队绩效之间的关系中受益。因为团队成员出于亲社会的动机违背组织规则，不仅会对自身的工作产生影响，而且也会影响到其他团队成员的工作以及整个团队的工作运转。由此，从实践的角度考虑，我们应开展团队层面亲社会违规行为的研究。其次，基于社会信息加工理论（SocialInformation Processing Theory)，团队成员对具有模糊性的工作事件，通常会相互交流与沟通，形成对该事件的共享感知（Salancik&Pfeffer,1978;Weick,1979)。亲社会违规行为包含双重属性，一方面具有亲社会的动机，另一方面又破坏组织规则，团队成员较有可能将其看成一种模糊性的行为（Dahling et al.,2012;Morrison,2006)。由此，团队成员会对该行为进行交流与沟通，产生对该行为的共享感知，从而促进团队亲社会违规氛围的形成。在此基础上，我们将团队亲社会违规氛围定义为，“团队成员对团队内部亲社会违规行为水平的共享感知”。由于团队亲社会违规氛围的存在，如果在理论研究上只考虑个体层面的亲社会违规行为，将不利于全面且深入地理解亲社会违规行为及其构念的法理网络。
+
+鉴于此，本研究旨在探究团队亲社会违规氛围影响团队绩效的中介和边界机制，以推进团队层面亲社会违规行为研究的发展。本文基于和谐管理理论提出团队和谐在团队亲社会违规氛围和团队绩效中的中介作用，以及团队互依性在其中的调节作用。具体地，团队亲社会违规氛围越强，意味着团队成员感知到整个团队越多地违背组织规则，在预先设定的工作上发挥主观能动性的氛围。即使是出于亲社会的动机，该氛围感知也很可能会损害团队和谐，从而负向影响团队绩效。并且团队亲社会违规氛围对团队和谐的负向影响程度还会受到团队互依性的调节。高团队互依性的团队要求成员依据团队规则密切配合与协调，并且每个成员的工作更有可能会影响到其他同事的工作和整个团队的运转(Griffin et al.,2007; Van der Vegt&Janssen,2003)。因此在高团队互依性的团队中，团队成员出于亲社会的动机违背优化设计的规则，对团队和谐的消极影响将被进一步放大。
+
+本研究理论贡献主要有以下四个方面。第一，本文将亲社会违规行为的研究从个体层面拓展到团队层面，定义了团队亲社会违规氛围的概念及其可能对团队绩效产生的影响，将促进团队层面亲社会违规行为研究的发展。第二，本研究深入考察团队亲社会违规氛围对团队绩效的影响，丰富和拓展了亲社会违规行为结果变量的研究。第三，本研究打开了团队亲社会违规氛围影响团队绩效的“黑箱”，考察了团队和谐的中介作用。并且通过考虑团队互依性的调节作用，进一步明确了团队亲社会违规氛围通过团队和谐进而影响团队绩效的边界条件。第四，本研究基于和谐管理理论，剖析中国情境下团队亲社会违规氛围通过团队和谐影响团队绩效的过程，推进和谐管理理论在人力资源领域和团队研究中的运用。
+
+![](images/c26141dcfaef344d5002ccebc74782ef2a6db945d52d123aee7d005307f2adb9.jpg)  
+图1理论模型
+
+# 1.1理论基础：和谐管理理论
+
+和谐管理理论以“和谐主题”作为管理问题的基本出发点，以“谐则”和“和则”的耦合互动来应对管理问题（席酉民等，2009)。“和谐主题”是指组织在特定的情境下，需要实现的关键任务（席酉民等，2009)。“和则”表示组织可以采用“能动致变”的方法来解决不确定的管理实践问题，其关键是发挥员工的“主观能动性”。“谐则”代表组织可以通过制度、流程、规则使员工行为遵照组织的既定路线,其核心是“优化设计”（席酉民等，2020）。
+
+和谐管理理论认为过度的发挥主观能动作用容易产生混乱、无序的状态，优化设计可以使组织运作有序，但是过度依赖优化设计会导致僵化和刚性（席酉民等，2005）。由此，和谐管理理论提出“和则”与“谐则”的有效运用应与具体的系统环境相结合，以充分发挥两者的价值（席酉民等，2020）。席酉民等（2013）提出可以利用和谐管理理论解释复杂的微观人力资源管理现象。许多管理学者已将该理论的内涵和框架运用到了人力资源管理领域中（席酉民等，2020）。如罗兴鹏和张向前（2012）基于和谐管理理论对民营企业职业经理人的薪酬管理进行了研究，其提出应首先分析民营企业的战略意图，在该意图下确定人力资源战略，最后确定职业经理人薪酬管理的和谐主题（薪酬管理所要实现的目标），并运用“谐则”与“和则”互动耦合的方法实现薪酬管理的和谐主题；李鹏飞等（2014）提出领导研究是未来和谐管理理论下研究的核心突破点。其认为未来领导的关键任务是辨析和谐主题（当前的核心工作任务），并在“谐则”与“和则”双规则下创建“建构+演化”的发展机制，即要优化设计组织的规则，也要强调不确定环境下员工的自主演化。许成磊等（2014）运用和谐管理理论对创新团队的和谐主题辨析进行了讨论，强调可以通过分析情景特征，优化认知策略，构建优化模型等过程来创建创新团队和谐管理机制，以实现和谐主题。由此，本研究也试图基于和谐管理理论解释团队中的人力资源管理问题。
+
+# 1.2团队互依性在团队亲社会违规氛围和团队和谐之间的调节作用
+
+建立和维持团队和谐对中国企业来说至关重要(Leung et al.,2002)，但现存的西方管理研究仅仅关注团队关系和任务冲突(Leung etal.,2011)。团队和谐与关系、任务冲突存在本质的区别，关系冲突强调的是人际关系的敌对和紧张，任务冲突强调的是任务上的不一致(Maltarich et al.，2018;Simons＆Peterson,2000)。依据和谐管理理论，和谐包含两层含义，“和”表示“和睦、融洽、同心共济”，“谐”表示“均匀配合、各部分之间的协调”（席酉民等，2005）。Lun(2012)也详细论述了中国背景下和谐的含义，其认为和谐并不仅仅指个体在情感与心理上对关系的满意程度，还涉及到个体间人际互动的好坏。基于此，本研究将团队和谐定义为团队成员关系的和睦、融洽，以及成员之间协调有序。
+
+和谐管理理论提出为实现和谐主题，团队成员应遵循“谐则”与“和则”的互动耦合双机制，即团队成员在工作中一方面应遵守优化设计后的规则，另一方面面对没有预先设定的工作应发挥主观能动性（梁朝高等，2020；席酉民等，2009；王琦等，2003)。团队成员若在组织已明确设定的工作上发挥主观能动性可能会导致团队运作的混乱与无序，从而破坏团队和谐状态（Lun,2012;Lun&Bond,2006；席酉民等，2005）。亲社会违规行为与“谐则”与“和则”的互动耦合双规则具有内在对应性，即违规行为意指团队成员没有遵循“谐则”的要求，违背了优化设计的规则；亲社会行为虽然体现了团队成员运用“和则”发挥了主观能动性，但却是在已经明确设定的工作上发挥主观能动作用，不符合“和则”的要求。高水平的团队亲社会违规氛围表明团队成员感知到团队内部有较多的亲社会违规行为，即团队成员在很大程度上会打破团队规则以更有效率的完成工作或帮助同事（Morrison,2006;Vardaman et al.,2014，徐世勇,朱金强,2017)。这体现团队成员违背了互动耦合双规则的运用要求，即没有遵守团队预先设定的规则，是在预先设定的工作上发挥主观能动性，从而很有可能会破坏团队的协调与运作，不利于团队和谐。因此，基于和谐管理理论，我们认为团队亲社会违反氛围对团队和谐具有负向影响。
+
+此外，席酉民等（2005）提出和谐管理理论适用于由人及各要素组成的复杂系统，和谐主题的实现离不开对该系统中各要素的交互方式及程度进行实时分析，“和则”与“谐则”的有效运用也无法脱离对该系统中各要素作用过程的清晰认识（席酉民等，2020）。在本研究中，团队作为一个复杂的系统，团队成员则是该系统中最重要的要素（Solow et al.,2002)。我们若要探究违背“和则”与“谐则”互动耦合双规则的团队亲社会违规行为对团队和谐的负向影响程度，则需要进一步考虑团队系统中成员间的互动方式及作用水平。团队互依性是指团队成员在多大程度上需要相互依赖和协作才能完成团队目标，较为全面的刻画了成员间的互动方式及相互影响程度（Courtright et al.,2015)。高团队互依性的团队要求成员之间进行高水平的交互，即需要团队成员紧密配合与协调才能完成团队工作（van derVegt et al.,2000)。研究表明，高团队互依性的团队要求团队成员进行更多的合作、沟通与信息分享来完成工作任务（Bachrach et al.,2006; Crawford & Haaland,1972)。高团队互依性的团队与低团队互依性的团队相比，更加需要团队成员遵守指导工作流程与成员之间资源分配的一系列规则（Courtright et al.,2015;Wageman,1999），因为只有在规则的指导下，团队成员才能更好地配合与协调（王琦等，2003）。
+
+由此，本文基于和谐管理理论，在考虑团队成员间的交互方式及互相影响程度的基础上，提出团队互依性在团队亲社会违规氛围和团队和谐的关系中可能具有调节作用。具体地，高团队互依性表明团队成员需要依据团队规则密切配合与协作，并且更有可能受到他人的行为和工作方式的影响(Fragale,2006; Liden et al.,2006;Van der Vegt& Janssen,2003)。由此，在高团队互依性的团队中，如果团队成员为提高工作效率或者帮助同事而违背组织规则(Dahling et al.,2012)，即在互动耦合双规则的运用中，偏向“和则”而违背了“谐则”的要求，将更不利于团队成员之间的协调和配合，从而负面影响团队和谐。因为和谐管理理论提出，团队和谐的实现不仅需要团队成员关系和睦并发挥主观能动作用，还需要他们按照既定的行为路线有序协调与配合（Lun,2012；席酉民等，2005）。相反，低团队互依性表明团队成员独立工作，较少受到同事行为的影响(Hu&Liden,2015; Saavedra etal.,1993)。在团队互依性低的团队中，团队成员违反规则的利他行为，将较少可能影响团队的整体运作。由此，团队亲社会违规氛围对团队和谐的影响也较少。综上所述，我们提出如下假设：
+
+假设1：团队互依性调节团队亲社会违规氛围和团队和谐的关系，即团队互依性越高，团队亲社会违规氛围与团队和谐之间的负向关系越强。
+
+# 1.3团队和谐的中介作用
+
+本文认为，团队和谐能够通过促进团队成员的信息分享与良好协作，进而有利于团队绩效的实现。首先，团队和谐表明团队成员彼此之间的关系是融洽的，当团队成员提出不同看法时，也会被认为是具有建设性(Chen etal.,2016)。这种和睦的人际关系将促进团队成员在决策中表达自己的想法，并积极分享信息和知识，这有助于提高团队绩效(Unal,etal.,2017)。
+
+其次，团队绩效在很大程度上依赖于团队成员的共同努力和协作(Denison et al.,1996; Lovelaceet al.,2001)。团队成员不是独自完成工作，而是需要整合各种知识和信息来完成共同的任务(Denisonet al.,1996;Lovelace et al.,2001)。当团队和谐程度较高时，成员之间能够有效地协作，工作流程中的各种摩擦也较少，从而有助于团队绩效的实现(Kozlowski& Ilgen,2006)。当团队不和谐时，成员间难以有效整合各自的努力，为团队目标做出贡献(Chua,2013)。因此，团队不和谐将会负面影响团队绩效。最后，先前的研究也证实了团队和谐会对团队绩效产生积极影响(Chen etal.,2016;Lun &Bond,2006;Unal,etal.,2017）。由此，我们提出如下假设：
+
+假设2：团队和谐正向影响团队绩效。
+
+综合假设1和假设2，本研究构建了一个被调节的中介作用模型，用来描绘团队亲社会违规氛围影响团队绩效的过程。具体来说，在团队互依性高的团队中，团队成员需依赖规则相互配合与协作完成团队任务（Courtright et al.,2015;Wageman,1999;王琦等，2003)。若团队成员出于亲社会的动机违背规则将不利于团队和谐，进而阻碍团队绩效的实现。相反，在团队互依性低的团队中，团队成员完成工作的方式较为独立，依赖团队规则进行协调的程度也较低(Hu&Liden,2015;Saavedra etal.,1993)。团队成员违背规则的亲社会行为，对团队和谐的破坏作用较少，从而对团队绩效的负向影响也较少。由此，我们提出如下假设：
+
+假设3：团队和谐在团队亲社会违规氛围与团队绩效之间的中介作用会被团队互依性所调节，即当团队互依性较高时，团队亲社会违规氛围通过团队和谐对团队绩效的负向效应会增强。
+
+# 2研究设计
+
+# 2.1研究样本
+
+本研究在山东、上海、深圳的三家制造业企业进行。在取得三家企业的CEO 的同意后，我们与人力资源部讨论了参与调研的对象。最后，参与调研的样本是知识型员工组成的工作团队，比如人力资源管理、财务、研发、产品设计、质量保障等。人力资源部向我们提供参与调研的员工名单，在实际调研时我们提前准备好纸质问卷。每份问卷有一个识别码，用以进行配对。所有参与调研的员工被集中在公司的会议室分批填写问卷。研究者首先向参与者说明本次调研的目的以及向参与者保证完全的匿名性，然后员工分别派发问卷，并且派发小礼品，研究者在现场等候，回答员工填写问卷中遇到的问题，并且现场回收填写好的问卷，对于出差的员工，我们要求员工出差返回后填写好直接快递给研究者。
+
+本研究主要分成3个不同的时间点开展问卷调查。在T1时间点收集团队成员的人口统计特征和团队成员对团队亲社会违规氛围的评价数据，共回收374份员工问卷。同时，收集了团队领导对团队互依性的评价数据，共收集到79份团队领导问卷。在T2时间点（T1时间点两个月后)，收集团队成员对团队和谐的评价数据，共回收358份员工问卷。在T3时间点（T2时间点两个月后)，收集团队成员对团队绩效的评价数据，共回收345份员工问卷。经过三轮数据的配对处理，本样本共包括有效问卷334份，74个有效团队。
+
+团队成员人口统计学特征如下：男性占 $58 \%$ ；女性占 $42 \%$ ；年龄主要在 $2 4 { \sim } 5 8$ 罗之间，其中$2 4 { \sim } 3 0$ 岁占 $1 1 . 5 \%$ $3 1 { \sim } 4 0$ 岁占 $40 . 8 \%$ ： $4 1 { \sim } 5 0$ 岁占 $3 7 . 8 \%$ ; ${ 5 1 } { \sim } 5 8 $ 岁32占 $9 . 9 \%$ ；受教育程度，初中或以下占 $1 . 2 \%$ ，中专占 $8 . 9 \%$ ，高中占 $5 . 8 \%$ ，大专占 $34 . 6 \%$ ，大学本科占 $4 6 . 1 \%$ ，硕士研究生及以上占 $3 . 4 \%$ 。团队规模5人及以下占 $7 5 . 7 \%$ ， $6 \sim 1 0$ 人占 $2 1 . 6 \%$ ，10人以上占 $2 . 7 \%$ 。
+
+领导人口统计学特征如下：男性占 $6 4 . 8 \%$ ；女性占 $3 5 . 2 \%$ ；年龄主要在 $3 1 { \sim } 5 9$ 岁之间，其中$3 1 { \sim } 4 0$ 岁占 $2 7 . 8 \%$ ; $4 1 { \sim } 5 0$ 岁占 $5 5 . 5 \%$ ; $5 1 { \sim } 5 9$ 岁占 $1 6 . 7 \%$ ；受教育程度，初中或以下占 $1 . 4 \%$ 中专或高中占 $6 . 8 \%$ ；大专占 $26 \%$ ，大学本科占 $6 1 . 7 \%$ ；研究生及以上占 $4 . 1 \%$ 。
+
+# 2.2测量工具
+
+本研究采用成熟的量表，经过“英文一中文”的双向翻译。变量中各题项均采用李克特7点量表测量，“1”表示完全不同意，“7”表示完全同意。
+
+团队亲社会违规氛围。采用Dahling 等(2012)开发的量表，该量表已被运用到中国情境中测量亲社会违规行为（徐世勇，朱金强，2017)。团队亲社会违规氛围要求将对亲社会违规行为的共享感知聚合到集体层面，在本研究中，我们提出的团队亲社会违规氛围反映的是Chan 在1998 年提出的参照转移一致性模型，将条目中的“我”改成“我们”，以评价感知到的整个团队实施亲社会违规行为的情况(Chan,1998)。量表共有13个题项，例如“为了更有效率的完成工作，我们违反组织规则”、“为了帮助公司节省时间和节约金钱，我们违反组织规则”等。该量表由每个团队成员填写，内部一致性系数 $\mathfrak { a }$ 为0.94。
+
+团队互依性。采用 Dean 和 Snell(1991)开发的量表，量表共有5个题项，例如“团队的员工在多大程度上需要和他人协作以完成工作”，“在本团队，员工依赖其他团队成员完成工作的情况有多少”等。该量表由团队领导填写，内部一致性系数 $\mathfrak { a }$ 为0.83。
+
+团队和谐。采用Chen等(2016)开发的量表，该量表共包含三个维度，分别为和谐的情感、群体与个体间的和谐平衡以及协作的和谐归因。我们选取其中与我们定义相符的维度进行测量，即协作的和谐归因，该维度体现关系和睦与良好协调的统一，共包括4个题项，例如“当团队成员表达不同意见时，大家会认为是正常的、是对团队有建设性的”，“当团队成员提出不同看法时，大家会认为这是为提高团队绩效做贡献”。该量表由每个团队成员填写，内部一致性系数 $\mathrm { ~ \bf ~ a ~ }$ 为0.91。
+
+团队绩效。采用 Kirkman 和Rosen(1999)开发的量表，量表共有6个题项，例如“我们团队能够实现甚至超额完成目标”，“我们团队能按时完成任务”等。该量表由每个团队成员填写，内部一致性系数 $\mathfrak { a }$ 为 $0 . 9 6$ 0
+
+控制变量。之前的研究发现性别、年龄、学历等人口统计学特征会影响员工亲社会违规行为(Dahling et al.,2012; Morrison,2006)。如Morrison (2006)的研究表明与女性相比，男性更具有冒险性，故更容易实施亲社会违规行为。此外，Chen 等(2016)的研究发现团队规模和成员年龄会影响到团队和谐。因此，本研究将团队规模、团队成员的性别、年龄、学历作为控制变量。
+
+# 3数据分析
+
+# 3.1验证性因子分析
+
+为确认各个变量的区分效度(Discriminant Validity)，本研究对团队亲社会违规氛围、团队互依性、团队和谐、团队绩效4个变量的数据进行CFA 检验。由于将数据上升到团队层面计算CFA，数据样本较少（仅包含74个团队)，故对变量进行打包处理。将亲社会违规行为、团队互依性和团队绩效分别打包为三个条目。如表1 所示，四因子模型与另外的三个模型相比，对实际数据最为拟合（ $\chi 2 \mathrm { = } 5 8 . 7 9$ ， $d f = 3 8$ ， $\mathrm { C F I = } 0 . 9 4$ ， $\mathrm { T L I } { = } 0 . 9 1$ ， $\operatorname { S R M R } { = } 0 . 0 9$ )，说明四因子模型更能代表测量的因子结构，由此团队亲社会违规氛围、团队互依性、团队和谐、团队绩效的区分效度得到验证。
+
+表1测量模型比较  
+
+<html><body><table><tr><td>模型</td><td>x2</td><td>df</td><td>CFI</td><td>TLI</td><td>SRMR</td><td>RMSEA</td></tr><tr><td>四因子模型</td><td>58.79</td><td>38</td><td>0.94</td><td>0.91</td><td>0.09</td><td>0.09</td></tr><tr><td>三因子模型</td><td>162.15</td><td>41</td><td>0.67</td><td>0.55</td><td>0.16</td><td>0.21</td></tr><tr><td>双因子模型</td><td>202.37</td><td>43</td><td>0.56</td><td>0.44</td><td>0.18</td><td>0.24</td></tr><tr><td>单因子模型</td><td>294.62</td><td>64</td><td>0.31</td><td>0.14</td><td>0.23</td><td>0.29</td></tr></table></body></html>
+
+注： $N { = } 7 4$ 。三因子模型：在基准模型的基础上，将团队亲社会违规氛围和团队互依性合并为1个因子；双因子模型：在基准模型的基础上，将团队亲社会违规氛围和团队互依性合并为1个因子，以及将团队和谐与团队绩效合并为1个因子；单因子模型：将团队亲社会违规氛围、团队互依性、团队和谐、团队绩效合并为1个因子。
+
+# 3.2数据汇聚性检验
+
+由于个体的数据是嵌套在团队中的，因此，本文检验各个变量的ICC(1)和ICC(2)以检验组内成员评分的一致性。由于团队互依性由每个团队的领导进行打分，因此本文只检验团队亲社会违规氛围、团队和谐、团队绩效的ICC(1)和 ICC(2)。经计算得到这些变量的组间方差均显著，且团队亲社会违规氛围的 $\mathrm { I C C } ( 1 ) { = } 0 . 1 9$ ， $\mathrm { I C C } ( 2 ) { = } 0 . 5 2$ ；团队和谐的 $\mathrm { I C C } ( 1 ) = \ 0 . 1 6$ ， $\mathrm { I C C } ( 2 ) = \ 0 . 4 6$ ；团队绩效的$\mathrm { I C C } ( 1 ) { = } 0 . 1 6$ ， $\mathrm { I C C } ( 2 ) { = } 0 . 4 6$ 。这些数据显示团队亲社会违规氛围、团队和谐、团队绩效的ICC(1)和ICC(2)均达到聚合标准（Bliese,1998），此外，为近一步衡量团队成员对团队的团队亲社会违规氛围、团队和谐、团队绩效评价的一致性，本文计算了团队亲社会违规氛围、团队和谐、团队绩效的Rwg，其中团队亲社会违规氛围的 ${ \sf R } _ { \mathrm { w g } }$ 中位数为0.95，团队和谐的 ${ \sf R } _ { \mathrm { w g } }$ 中位数为0.94，团队绩效的${ \sf R } _ { \mathrm { w g } }$ 中位数为0.97，这说明团队亲社会违规氛围、团队和谐、团队绩效具有较高的组内一致性（Jameset al.,1984)。
+
+# 3.3描述性统计与相关性分析
+
+各变量的均值、标准差和相关系数如表2所示。团队和谐与团队绩效显著正相关 $( r = 0 . 4 3 , p { < } . 0 1 )$ 。数据结果符合理论预期。
+
+表2变量的均值、标准差和相关系数  
+
+<html><body><table><tr><td>变量</td><td>M</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1.团队规模</td><td>4.51</td><td>2.43</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.性别</td><td>1.58</td><td>0.34</td><td>0.05</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.年龄</td><td>40.24</td><td>5.88</td><td>-0.05</td><td>0.10</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.学历</td><td>4.27</td><td>0.76</td><td>-0.03</td><td>-0.05</td><td>0.13</td><td></td><td></td><td></td><td></td></tr><tr><td>5.团队亲社会违规氛围</td><td>2.44</td><td>0.80</td><td>0.09</td><td>0.13</td><td>-0.13</td><td>-0.10</td><td></td><td></td><td></td></tr><tr><td>6.团队互依性</td><td>4.81</td><td>1.11</td><td>0.13</td><td>-0.14</td><td>0.10</td><td>0.15</td><td>-0.11</td><td></td><td></td></tr><tr><td>7.团队和谐</td><td>5.85</td><td>0.68</td><td>-0.17</td><td>-0.04</td><td>0.16</td><td>-0.06</td><td>-0.13</td><td>0.20</td><td></td></tr><tr><td>8．团队绩效</td><td>6.03</td><td>0.60</td><td>-0.14</td><td>0.04</td><td>0.02</td><td>0.12</td><td>-0.01</td><td>-0.04</td><td>0.43**</td></tr></table></body></html>
+
+注： $^ { * * } p { < } 0 . 0 1$ $^ { * } p { < } 0 . 0 5$ ; N=74
+
+# 3.4假设检验
+
+由于本研究中的74个团队嵌套在3个公司当中，在进行整体模型估计时，团队层面观察值之间可能缺乏独立性。因此我们借鉴夹心方差估计法(sandwich estimator)来解决由于组织层次的整群抽样而引起的团队层次观察值的不独立性，为本研究模型提供标准误差的稳健估计（Muthen&Muthen,2007）。我们在Mplus8.3中采用 TYPE $\scriptstyle \cdot =$ COMPLEXITY这一命令来实现夹心方差估计。并且在分析被调节的中介效应时，本文采用 Edwards 和Lambert(2007)的路径分析方法。最后，本文采用 MonteCarlo 方法来推导被调节的中介效应的置信区间(Selig&Preacher, 2008)。
+
+假设1预测，团队互依性调节团队亲社会违规氛围和团队和谐的关系。从表3可以看出，在控制团队规模，团队领导和成员的性别、年龄和学历，以及团队亲社会违规氛围和团队互依性之后，团队亲社会违规氛围和团队互依性的交互项对团队和谐具有显著的负向影响（ $b { = } { - } 0 . 2 2$ ， $\scriptstyle t = - 2 . 9 6$ $p { < } 0 . 0 1 \dot { . }$ )。简单斜率分析发现，当团队互依性较高时，团队亲社会违规氛围对团队和谐具有显著负向影响 $( b { = } { - } 0 . 3 6 , t { = } { - } 3 . 4 1 , p { < } 0 . 0$ )，而当团队互依性较低时，团队亲社会违规氛围对团队和谐影响不显著（ $b { = } 0 . 1 6 , t { = } 2 . 0 6 , n . s . )$ ，二者的差异显著 $( b \mathrm { = - } 0 . 5 2 , t \mathrm { = - } 2 . 8 8 , p \mathrm { < } 0 . 0 1 )$ )。因此，假设1得到支持。为更加直观的表示团队互依性的调节作用，本研究参考 Aiken 和 West(1991)的做法，以团队互依性的均值加减1个标准差作为分组标准，分别对团队互依性高和低情况下，团队亲社会违规氛围和团队和谐的关系进行了描绘，具体如图2所示。从表3可以看出，在控制团队规模，团队领导和成员的性别、年龄和学历，以及团队亲社会违规氛围、团队互依性和交互项之后，团队和谐对团队绩效( $\scriptstyle \cdot - b = 0 . 4 7$ t=5.57, $p { < } 0 . 0 0 1$ ）具有显著的正向影响，假设2得到支持。
+
+假设3预测，团队互依性正向调节团队亲社会违规氛围通过团队和谐负向影响团队绩效的间接效应。我们采用 MonteCarlo 方法（Selig&Preacher,2008）来检验被调节的中介效应，即检验在高水平（均值加上1个标准差）和低水平（均值减去1个标准差）的团队互依性下，团队和谐在团队亲社会违规氛围和团队绩效之间的中介效应是否在 $9 5 \%$ 的置信区间上显著。结果发现，团队亲社会违规氛围—团队和谐—团队绩效的间接效应在高水平的团队互依性下显著，间接效应为-0.11（ $9 5 \%$ 的置信区间为[-0.32，-0.02])，然而在低水平的团队互依性下不显著，间接效应为0.07（ $9 5 \%$ 的置信区间为[-0.05,0.19])。二者差异是显著的，间接效应为-0.08 （ $9 5 \%$ 的置信区间为[-0.42,-0.05])。因此，假设3得到支持。
+
+![](images/6331a020de6ac488455039d52b482e2a6655ad239e123c7dd1d79dd68e4c7f97.jpg)  
+图2团队亲社会违规氛围与团队互依性对团队和谐的交互作用
+
+表3路径分析结果  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="3">团队和谐T2</td><td colspan="3">团队绩效T3</td></tr><tr><td>b</td><td>SE</td><td>t</td><td>b</td><td>SE</td><td>t</td></tr><tr><td>截距项</td><td>5.78</td><td>1.04</td><td>5.55***</td><td>2.82</td><td>1.96</td><td>1.43</td></tr><tr><td>团队规模(T1)</td><td>-0.05</td><td>0.02</td><td>-2.80**</td><td>-0.01</td><td>0.02</td><td>-0.37</td></tr><tr><td>领导性别(T1)</td><td>-0.11</td><td>0.17</td><td>-0.64</td><td>-0.01</td><td>0.19</td><td>-0.30</td></tr><tr><td>领导年龄(T1)</td><td>-0.01</td><td>0.02</td><td>-0.63</td><td>0.02</td><td>0.01</td><td>1.38</td></tr><tr><td>领导学历(T1)</td><td>-0.18</td><td>0.16</td><td>-1.15</td><td>0.15</td><td>0.10</td><td>1.44</td></tr><tr><td>团队成员性别(T1)</td><td>0.21</td><td>0.29</td><td>0.72</td><td>0.15</td><td>0.20</td><td>0.75</td></tr><tr><td>团队成员年龄(T1)</td><td>0.02</td><td>0.01</td><td>2.14*</td><td>-0.02</td><td>0.01</td><td>-2.40*</td></tr><tr><td>团队成员学历(T1)</td><td>0.02</td><td>0.13</td><td>0.14</td><td>0.03</td><td>0.03</td><td>1.10</td></tr><tr><td>团队亲社会违规氛围(T1)</td><td>-0.09</td><td>0.06</td><td>-1.57</td><td>0.05</td><td>0.05</td><td>0.87</td></tr><tr><td>团队互依(T1)</td><td>0.13</td><td>0.06</td><td>2.23*</td><td>-0.09</td><td>0.09</td><td>-1.02</td></tr><tr><td>团队亲社会违规氛围(T1)× 团队互依(T1)</td><td>-0.22</td><td>0.08</td><td>-2.96**</td><td>0.12</td><td>0.06</td><td>1.83</td></tr><tr><td>团队和谐(T2)</td><td></td><td></td><td></td><td>0.47</td><td>0.09</td><td>5.57***</td></tr><tr><td>残差方差</td><td>0.36</td><td>0.11</td><td>3.33**</td><td>0.27</td><td>0.05</td><td>5.48***</td></tr></table></body></html>
+
+注： $N { = } 7 4$ $\scriptstyle { \bar { p } } < 0 . 0 5$ $\stackrel { * * } { p } { < } 0 . 0 1$ $^ { * * * } p { < } 0 . 0 0 1$ ;T1表示第一轮问卷收集，T2表示第二轮问卷收集，T3表示第三轮问卷收集。
+
+# 4研究结果及讨论
+
+# 4.1研究发现
+
+本研究以和谐管理理论为基础，探讨了团队亲社会违规氛围对团队绩效的影响机制（以团队和谐为中介变量）和作用边界（以团队互依性作为调节变量)。通过一项多时点的纵向研究设计，本研究获取了74个团队和334名团队成员的有效数据，研究结果显示：(1）团队互依性调节了团队亲社会违规氛围与团队和谐的关系：在高团队互依性下，团队亲社会违规氛围与团队和谐显著负相关，而在低团队互依性下，这种关系较不显著；(2）团队和谐对团队绩效具有显著的正向影响；(3）团队互依性调节了团队亲社会违规氛围通过团队和谐对团队绩效的间接效应：当团队互依性水平较高时，团队亲社会违规氛围通过团队和谐对团队绩效的负向效应会被增强。
+
+# 4.2理论贡献
+
+第一，本文将亲社会违规行为的研究从个体层面拓展到团队层面，将推进亲社会违规行为的研究。如前所述，当前有关亲社会违规行为的研究都集中于从个体特征、领导风格、工作特性三方面探讨影响该行为的因素(李锐等，2015；Vardaman et al.,2014；徐世勇，朱金强，2017)，并有少数研究考察了员工亲社会违规行为对自身绩效的影响（Dahling etal.,2012）。虽然亲社会违背行为的研究已取得了一定进展，但这些研究都停留在个体层面，忽视了工作场景中存在的团队亲社会违规氛围，特别是已有文献尚未关注到团队亲社会违规氛围对团队结果可能产生的影响。由于团队已是当前组织普遍采用的一种工作形式，在团队中亲社会违规行为不仅仅会对实施者和接收者产生影响！很可能会影响到团队中的其他成员，甚而影响到整个团队的工作运转。并且团队成员会通过对亲社会违规行为的分享与交流，形成对该行为的共享感知，即团队亲社会违规氛围。基于此，我们有必要跳出个体层面的亲社会违规行为研究，探究团队亲社会违规氛围的存在及其可能对团队结果产生的影响。本研究通过提出并验证团队亲社会违反氛围的存在，将推进团队层面亲社会违规行为研究的开展。
+
+第二，本研究基于和谐管理理论，深入考察团队亲社会违规氛围对团队绩效的影响，丰富和拓展了亲社会违规行为结果变量的文献。Bryant 等（2010）从理论上提出了员工亲社会违规行为即使是出于亲社会的动机，但也很有可能会为组织带来预期之外的负面影响。因为工作环境是非常复杂的，而人又是有限理性，无法预知自身行为所产生的所有结果，因此亲社会违反行为对组织的负面影响始终存在。但是至今只有Dahling（2012）实证考察了员工亲社会违规行为对领导评价的员工绩效的负面影响。亲社会违规行为影响结果的研究仍处于缓慢发展的阶段，该行为目前仍在理论上被视为具有争议的工作场所行为，学者对该行为的评价也褒贬不一（孙建群等，2016；徐世勇，朱金强，2017)。本研究基于和谐管理理论，证实团队亲社会违规氛围会对团队绩效产生负面影响，与之前学者在理论上提出员工亲社会违规行为可能会为组织带来预期之外的负面影响的观点相一致(Bryant etal.,2010)，并且是从和谐管理的视角诠释了团队成员的有限理性，即团队成员无法从整体的角度考虑到亲社会违规行为可能对团队和谐产生负面影响。本研究将促进未来学者基于不同理论和视角继续考察团队亲社会违规氛围对不同的团队结果产生的影响。
+
+第三，本研究基于和谐管理理论，探讨团队和谐在团队亲社会违规氛围与团队绩效之间的中介作用，有利于促进团队和谐研究的发展。Lun 和 Bond(2006)与Lun (2012)都认为在团队层面研究和谐的影响因素与结果将会是一个非常有趣的研究，并且他们提出如果团队成员按照既定的规则和角色要求进行互动与协调以降低团队中的不确定性，将有助于实现团队和谐。由此，我们对之前学者提出的未来研究应关注团队和谐做出了回应（Lun＆ Bond,2006;Lun,2012)，尤其是之前研究强调了遵从规则与角色要求有助于实现团队和谐，而本研究的结果则在一定程度上佐证了这一观点。
+
+第四，本研究打开了团队亲社会违规氛围影响团队绩效的“黑箱”，还进一步明确了团队亲社会违规氛围通过团队和谐进而影响团队绩效的边界条件。当前学界对于团队亲社会违规氛围对团队绩效产生影响的作用机制及边界条件还了解甚少。本研究引入和谐管理理论（席酉民等，2005)，探讨团队亲社会违规氛围影响团队绩效的作用机制及边界条件，证实团队和谐在两者关系中的中介效应及团队互依性的调节效应，为理解团队亲社会违规氛围对团队绩效产生影响的作用过程提供了有益参考。
+
+# 4.3实践启示
+
+本研究表明团队亲社会违规氛围会负面影响团队和谐，由此在团队工作中，应不倡导和鼓励团队成员的亲社会违规行为。因为组织设立正式的规则与制度，目的就在于规范成员的行为，以使成员能够更有效率的合作与协调（March et al.,2000)。众多的实践与研究也表明，规则对组织的正常运转和公平氛围的形成具有非常重要的作用（Martin et al.,2013)。在现实工作中，由于团队成员是有限理性的，即使他们是出于亲社会的动机违背规则，仍有可能带来许多意想不到的负面影响。例如，团队成员通过违背规则提高自己承担工作的效率以节省团队工作时间，但却没有考虑到该行为可能会破坏团队的整体运作；或者团队成员出于同情或共情的原因违背规则帮助同事，但却无法预知可能会对团队公平氛围产生负面影响。由此，遵守组织优化设计后的规则，可以避免团队成员有限理性的消极影响。
+
+但在现实工作中，还存在这样一种情况，即组织的规则是陈旧与不合时宜的，团队成员违背规则是为了很好的合作与协调。本研究认为任何一个持续发展的组织都不会任由其规则效率低下与不合时宜，因此建议组织管理者应适时通过理性设计与优化来提升组织规则与工作要求的适配性，同时鼓励团队成员在规则设定之外的工作中发挥主观能动作用。此外，本研究希望未来学者可以进一步将团队规则合理性作为调节变量，探讨在规则不合理的情况下，团队成员通过亲社会违规行为警示管理者，并通过团队反思进而做出完善的过程。
+
+其次，本研究表明与低任务互依的团队相比，高任务互依的团队亲社会违规氛围更不利于团队绩效的实现。由此，在高任务互依的团队中，管理实践者应积极采取相应措施，减少亲社会违规行为的产生。例如，应对员工进行团队规则培训，并加强违规行为的惩罚。最后，团队和谐有助于团队绩效的实现。管理实践者应注重形成和维护团队的和谐，促进团队内部的各成员间融洽和睦以及配合有序。例如，应制定清晰公平的团队规则，形成分配、程序和互动公平氛围（Unal etal.,2017)。
+
+# 4.4研究局限及未来研究方向
+
+首先，从研究方法来说，研究设计上存在不足。本研究采用三个不同的时间点收集团队亲社会违规氛围、团队和谐以及团队绩效的数据，来减少共同方法偏差的影响（郭功星，程豹，2021;Podsakoff etal.,2012)。但是团队亲社会违规氛围、团队和谐以及团队绩效都由每个团队成员进行评价，并通过取均值上升到团队层面，这可能也会产生一些同源方差的问题。未来研究应该尝试多时点、多来源的纵向追踪调查（如团队绩效应由领导评价或者选取客观数据）来进一步验证变量之间的因果关系和作用机制。
+
+其次，对团队亲社会违规氛围影响的考虑还不够细化与深入。Morrison (2006)将亲社会违规行为分为三个不同的维度，即为了提高工作效率违背规则，为了帮助同事违背规则，为了给顾客提供更好的服务违背规则。员工出于不同的亲社会动机而做出违规行为可能会对员工自身绩效或者团队绩效产生不一样的结果（Mayer,2007)。如Mayer (2007）更加细化的研究了以顾客为导向的员工亲社会违规行为。本研究没有分别探讨不同类型的团队亲社会违规氛围对团队绩效的影响。后续研究可以分别考察不同维度的团队亲社会违规氛围对结果变量的影响机制。
+
+第三，研究视角方面存在不足。本研究虽然基于和谐管理理论提出，团队和谐在团队亲社会违规氛围和团队绩效间的中介作用，但是其他潜在的中介机制并没有涉及。当前学者认为员工的亲社会违规行为是一把双刃剑，可能同时存在积极或消极的双重影响（Bryant etal.,2010；刘效广，王志浩，2018)。本研究仅从和谐管理理论的视角论述和证实了团队亲社会违规氛围通过团队和谐对团队绩效产生负面影响。但团队亲社会违规氛围也可能通过其他的中介机制对团队结果产生积极的影响。我们希望未来的研究可以从不同的视角出发，关注其他的中介机制来探讨团队亲社会违规氛围与团队结果之间的关系。
+
+最后，数据回归结果方面存在不足。本研究的结果显示团队亲社会违规氛围与团队和谐的相关与回归结果均不显著，虽然研究并未对这一关系进行假设，但这两者间的关系仍值得我们深思。本研究基于和谐管理理论，提出团队亲社会违规氛围会负面影响团队和谐。从数据结果来看，虽然团队亲社会违规氛围与团队和谐的相关与回归系数均不显著，但其效应值均为负值，这也初步说明了团队亲社会违规氛围对团队和谐的影响是负向的。而这种负向影响何时会变强，则可以依据和谐管理理论提出相应的情境变量进行解释。由于和谐管理理论适用于由人及各要素组成的复杂系统，该理论提出“和则”与“谐则”的有效运用也无法脱离对该系统中各要素作用过程的深入分析（席酉民等，2005，2020)。在本研究中，团队作为一个复杂的系统，团队成员则是该系统中最重要的要素（Solow et al.,2002)。由此，在探究团队亲社会违规氛围与团队和谐关系时，我们需要考虑团队系统中成员间的互动方式及作用水平，即团队互依性在其中起到的边界作用。本研究仅检验了团队互依性在团队亲社会违规氛围和团队绩效之间的调节作用。尽管团队互依性的高低，可以帮助我们理解何时团队亲社会违规氛围对团队绩效的负面影响会被增强或减弱，也为团队亲社会违规氛围研究的边界条件的探索提供了一个初始的方向。然而，其他的一些团队特征也有可能对团队亲社会违规氛围的作用产生影响。例如，团队谦逊水平可能会影响到团队亲社会违规氛围与团队结果的关系，因为谦逊水平高的团队更愿意对亲社会违规行为进行反思（Owens et al.,2013)，进而可能会对团队结果产生一些有利的影响。由此，我们希望后续研究可以基于其他理论进一步考察其他变量在团队亲社会违规氛围与团队结果中的调节作用。
+
+参考文献   
+Aiken,L.,& West,S.(Eds)(1991).Multipleregresson: testing and interpreting interactions.ThousandOaks,CA:Sage.   
+Bachrach,D.G.Powell,B.C.,Collns,B.J.,Richey,R.J.(2O06).Efectsof task interdependenceontherelationship between helping behavior and group performance. Journal of Applied Psychology, 91(6),1396-1405.   
+Bliese,P.D.(998). Groupsize,ICCvaues,and group-levelcorelations: asmulation.Organzational researchmethods, 1(4), 355-373.   
+Bryant,P.,Davis,C.,Hancock,J.,&Vardaman,J.M.(2Ol0).Whenrule makers become rule breakers: employe-level outcomes of managerial pro-socialrule breaking.EmployeeResponsibilitiesand Rights Journal,22(2),101-12.   
+Chan,D. (1998).Functional relations among constructs in thesame content domain atdiferent levels of analysis: a typology of composition models. Journal of Applied Psychology， 83(2),234-246.   
+Chen,C.C.,Unal,A.F.,Leung,L.K.,&Xin,K.R.(2016).Goupharmonyinthe workplace:conception,measurement, and validation,Asia Pacific journal of management, 33(4), 903-934.   
+Chen,Y.S.,Wang,.,Liu,X.,Chen,H.,Hu,Y.Y.,&Yang,H.L.(2o19).The trickle-downefectof leaders’pro-social rule breaking: Joint moderating role of empowering leadership and courage.Frontiers in Psychology,9,2647-2656.   
+Chua,R.Y.(2Ol3).Thecosts of ambientcultural disharmony:indirect intercultural conflicts insocial environment undermine creativity. Academy of Management Journal, 56(6),1545-1577.   
+Courtright,S.H.，Thurgood,G.R.，& Stewart,G.L.,Pieroti,A.J.(2O15).Structural interdependence inteams:an integrative framework and meta-Analysis.Journal of Applied Psychology,100(6),1825-1846.   
+Crawford,J.L.，& Haland,G.A.(1972).Predecisional informationseekingand subsequentconformity inthesocial influence process. Journal of Personality and Social Psychology,23(1),112-119.   
+Dahling,J.J.,Chau,S.L.,&Mayer,D.M.(20l2).Breakingrules fortherightreasons?aninvestigationofpro-socialrule breaking. Journal of Organizational Behavior; 33(1),21-42.   
+Dean Jr.,J.W,&Snell,S.A. (1991).Itegatedmanufacuringandjobesign:moderatingefctsoforganzationalirtial. Academy of Management Journal, 34(4),776-804   
+Denison,D.R.,Hart,S.L.,& Kahn,J.A. (1996).Fromchimneys tocros-functional teams:developingandvalidating a diagnostic model. Academy of Management Journal, 39(4),1005-1023.   
+Edwards,J.R.,&Lambert,L.S. (2Oo).Methds forintegrating moderationand mediation: ageneralanalytical framework using moderated path analysis.Psychological Methods,12(1),1-22.   
+Fragale,A.R.(2O06).The power of powerless speech:the effcts of speech style and task interdependence on status conferral. Organizational Behavior and Human Decision Processes,101(2),243-261.   
+Guo,G.X,& Cheng,B.(2O21). Effects of customer empowering behaviors on employees’career growth: perspective of self-determination theory, Acta Psychologica Sinica,53(2),215-228.   
+[郭功星，程豹.(2021).顾客授权行为对员工职业成长的影响：自我决定理论视角.心理学报,53(2),215-228.]   
+Grifin,M.A.,Neal,A.,&arker,S.K. (2Oo7). Anew modelofworkrole performance: positive behavior inuncertaiand interdependent contexts. Academy of Management Journal, 50(2),327-347.   
+Hu J.,Liden,R.C. (2015). Making adiference intheteamwork: linking team prosocial motivation to team proceses and effectiveness,Academy of Management Journal, 58(4),1102-1127.   
+Huang,Y.L.,Lu, X.X.,& Wang, X.(2014).The effectsoftransformational leadershipon employee'spro-social rule breaking. Canadian Social Science,10(1),128-134.   
+James,L.R.,DemareeR.G.,& Wolf,G.(1984).Estimating within-groupinterraterreliability with and withoutresponse bias. Journal ofApplied of Psychology, 69(1),85-98.   
+King,D.D.,Newman,A.，& Luthans,F.(2016).Not if,but when we need resilience in the workplace.Journalof Organizational Behavior, 37(5),782-786.   
+Kirkman,B.L.，& Rosen,B.(1999). Beyond self-management: antecedents and consequences of team empowerment. Academy of Management Journal, 42(1),58-74   
+Kozlowski,S.W.J.,&Bell,B.S. (203). Work groups and teams inorganizations.In I. B.Weiner,N.W.Schmitt,&S. Highhouse (Eds.), Handbook of psychology，Vol.12: Industrial and organizational psychology (pp.33-375). New York: Wiley.   
+Kozlowski,S.W.J.,&Ilgen,D.R. (2006).Enhancing the effectivenessof work groupsand teams.Psychological Science in the Public Interest,7(3),77-124.   
+Leung,K.,Brew,F.P.,Zhang,Z. X.,& Zhang,Y.(2O).Harmony andconflict:across-cultural investigationin China and Australia. Journal of Cross-Cultural Psychology, 42(5),795-816.   
+Leung,K.,Koch,P.T.,&Lu,L. (2Oo2).Adualisticmodelofharmonynd its implications forconflictmanagementinAsia. Asia Pacific Journal of Management, 19(2-3),201-220.   
+Li,P.F.,Ge,J.,& Xi, Y.M. (20l4).Leadership studies in hexie management theory: A review and research agenda. Chinese Journal of Management, 11(11),159-1600.   
+[李鹏飞,葛京,席酉民.(2014).和谐管理视角下的领导研究发展初探.管理学报,11(11),1591-1600.]   
+Li,R.,Tian, X.M.,& Ling, W.Q. (2015). Mechanisms of how managerial openness and supervisor-subordinate guanxi impact on employee pro-social rule breaking.Systems Engineering-Theory & Practice,35(2),342-357.   
+[李锐,田晓明,凌文轻.(2015).管理开放性和上下属关系对员工亲社会性规则违背的影响机制.系统工程理论与实 践,35(2),342-357.]   
+Liang,C.G.，Han,W.,Liu,P.， Zhang,J.B.，& Xu,S.Q.(2020).Dual coupling theory of constraints-agencyand certainy-uncertinty. Chinese Journal of Management, 17(1), 40-49.   
+[梁朝高,韩巍，刘鹏,张敬博,胥思齐.(2020).规定性与能动性、确定性与不确定性的双重耦合理论研究．管理学 报,17(1),40-49.]   
+Liden,R.C.,Erdogan,B.，Wayne,S.J.，& Sparowe,R.T.(2o06).Leader-member exchange,diferentiation,andtask interdependence: implications for individual and group performance. Journal of Organizational Behavior; 27(6),723- 746.   
+Liu,X. G.,& Wang, Z.H. (2018). Influence mechanismof managerial pro-socialrule breaking on employeebehavior from the perspective of opposition between favor and reason: a cros-evelsand longitudinal study.Advances in Psychological Science,26(2),191-203.   
+[刘效广,王志浩.(2018).情与理对立视角下管理者亲社会违规对员工行为的影响机理:一项跨层次追踪研究.心理科 学进展,26(2),191-203.]   
+Lovelace,K.,Shapiro,D.L,&Weingart,L.R.(2Ool).Maximizingcross-functionalnew productteams'inovativensand constraint adherence: aconflict communications perspective. Academy of Management Journal, 44(4),779-793.   
+Lun,V.M.C. (2O12). Harmonizing conflicting views about harmony in Chinese culture.In X. Huang,&M.H.Bond (Eds). Handbook of Chinese organizational behavior: integrating theory,research and practice (pp.467-480). USA: Edward Elgar Publishing Limited.   
+Lun,V.M.C.,& Bond,M.H. (2Oo6). Achieving relationship harmony ingroups and itsconsequence for group performance, Asian Journal of Social Psychology, 9(3),195-202.   
+Luo,X.P.,& Zhang,X.Q.(20l2).Studyon professional executive compensation management in private enterprises based on Hexie management theory, Soft Science,26(5), 94-99.   
+[罗兴鹏，张向前.(2012).基于和谐管理理论的民营企业职业经理人薪酬管理研究.软科学,26(5),94-99.]   
+Maltarich,M.A.,Kukenberger,M.,Rily,G.,athie,J. (l8).Conflictintams: modelingearlyandlateconflictates and the interactive effects of conflict processes. Group & Organization Management, 43(1), 6-37.   
+March,J.G.,Schulz,M.,& Zhou,X.(Ooo).Thedynamicsofrules:change in writen organizationalcodes.Stanford,CA: Stanford University Press.   
+Martin,A.W.Lopez,S.H.,Roscigno,V.J.,& Hodson,R. (2013). Against the rules: synthesizing types and processsof bureaucratic rule-breaking. Academy of Management Review, 38(4), 550-574.   
+Mayer,D. M.,CaldwellJ.,Ford,R.C., Uhl-Bien, M.，& Gresock,A.R. (2007). ShouldI serve mycustomeror my supervisor? a relational perspective on pro-social rule breaking.Paper presented at the 67th Annual Meeting of the Academy of Management,Philadelphia, PA.   
+Morison,E.W. (2Oo6).Doingthejobwel: an investigation ofpro-socialrule breaking.JournalofManagement,32(1),5- 28.   
+Muthén,L. K.,& Muthén,B.O. (2007). Mplus user's guide ( $5 ^ { \mathrm { t h } }$ ed.). Los Angeles: Author.   
+Owens,B.P.,Jhson,M.J.,&Mitchel,T.R.(13).Expressedhumilityinorganizations: implicationsforperfoance, teams,and leadership. Organization Science,24(5),1517-1538.   
+Podsakoff,P.M.,Mackenzie,S.B.,&Podsakoff,N.P.(2012).Sources of method bias in socialscience researchand recommendations on how to control it. Annual Review of Psychology, 63(1),539-569.   
+Saavedra,R.，Earley,P.C.，& Van Dyne,L.(1993). Complex interdependence in task-performing groups.Journalof Applied Psychology,78(1), 61-89.   
+Salancik,G.R.，& Pfeffer,J.(1978).A social information processing approach to job atitudesand task design. Administrative Science Quarterly,23(2), 224-253.   
+Selig,J.P.,&Preacher,K.J.(oo8).MonteCarlomethodforassessingmediation:aninteractivetoolforcreatingconfidence intervals for indirect effects.Retrieved November 20,2020,from http://quantpsy.org/.   
+Simons,T.L.&Peterson,R.S.(2Oo).Task conflictandrelationshipconflictintop management teams:the pivotalroleof intragroup trust. Journal of Applied Psychology,85(1),102-111.   
+Solow,D.,Vairaktarakis,G.,Piderit,S.K.,&Tsai,M.C. (2O2).Managerial insights intotheeffectsofinteractionson replacing members of a team. Management Science, 48(8),1060-1073.   
+Sun,J. Q.,Tian,X.M.,& Liu, Y. (2016).Employes’pro-social rulebreaking inorganizations.Journalof Soochow UniversityPhilosophy&Social ScienceEdition,6,1l4-121.   
+[孙建群,田晓明,刘燕.(2016).企业组织中的员工亲社会性规则违背.苏州大学学报:哲学社会科学版,6,114-121.]   
+Unal,A.F., Chen,C.C,& Xin,K.R.(20l7).Justice climates and management teamefectivenes: thecentralroleofgroup harmony, Management and Organization Review, 13(4),821-849.   
+Van der Vegt,G.,Emans,B.,&vandeVliert,E. (20oo).Team members’afective responses to patermsof intragroup interdependence and job complexity. Journal of Management, 26(4), 633-655.   
+Van der Vegt,G.S.,& Janssen,O. (2003). Joint impact of interdependence and group diversityon innovation. Journal of Management, 29(5),729-751   
+Vardaman,J.M.,Gondo,M. B.,& Allen,D.G.(2O14).Ethical climate and pro-social rule breaking in the workplace. Human Resource Management Review, 24(1),108-118.   
+Wageman,R. (199).The meaning of interdependence.In M.Turner (Eds). Groups at work: advances in theoryand research (pp.197-218). Hillsdale, NJ: Erlbaum.   
+Wang,Q.,Xi,Y.M.,Shang,Y.F.(2Oo3).Thecore ofthetheoryof“hexie”management: theinterpretationofthethemeof “hexie". Management Review,15(9),24-30.   
+[王琦,席酉民,尚玉钒.(2003).和谐管理理论核心:和谐主题的诠释.管理评论,15(9),24-30.]   
+Weick, K.E. (1979). The social psychology of organization. Reading, MA: Addison-Wesley.   
+Xi,Y.M.,Xiao,H. W.,& Wang,H.T.(2oo5). HeXie management theoryand its new developmentinthe principles.Chinese Journal of Management, 2(1),23-32.   
+[席酉民,肖宏文,王洪涛.(2005).和谐管理理论的提出及其原理的新发展.管理学报，2(1),23-32.]   
+Xi,Y.M.,Shang,Y.S.,Jin,H.,& Han,W.(2O09).Reflectionon hexie management theoryand itsappication.Chinese Journal of Management, 6(1),12-18.   
+[席酉民,尚玉钒,井辉,韩巍.(2009).和谐管理理论及其应用思考.管理学报,6(1),12-18.]   
+Xi,Y.M.,Liu,P.,Kong,F.,&Ge,J. (20l3).HeXie managementtheory:origins,implicationsand prospects.Journalof Industrial Engineering,27(2),1-8.   
+[席酉民,刘鹏,孔芳,葛京.(2013).和谐管理理论:起源、启示与前景.管理工程学报,27(2),1-8.]   
+Xi,Y.M., Xiong,C.,&Liu P. (2O20).Reviewand discusiononthe application of hexie management theory.Journal of Management World,2,195-212.   
+[席酉民,熊畅,刘鹏.(2020).和谐管理理论及其应用述评.管理世界,2,195-212.]   
+Xu, C.L.,Duan,W.C.,Sun,Y.H.,& Du,Y.W.(2014).Theme discrimination and optimization of hexie management mechanism for innovation team. Chinese Journal of Management,11(3),390-395.   
+[许成磊,段万春,孙永河,杜元伟.(2014).创新团队和谐管理机制的主题辨析优化.管理学报,11(3),390-395.]   
+Xu, C.L.,& Duan,W.C. (20l5).Integration and optimization of team's social capital basedon harmonic theme drifting. Science Research Management,36(10),153-160.   
+[许成磊,段万春.(2015).基于和谐主题漂移的团队社会资本整合优化.科研管理,36(10),153-160.]   
+Xu,S.Y.,&Zhu,J. Q. (2017).Ethical leadershipand pro-social rule breaking: a dual processmodel. Acta Psychologica Sinica,49(1),106-115.   
+[徐世勇,朱金强.(2017).道德领导与亲社会违规行为:双中介模型.心理学报,49(1),106-115.]   
+Yan,S.Z.,Xu,H.H,&Zhang,P.(2O18).Researchofinfluenceonemployee pro-social violationsofdiferentialleaders. Business Management Journal, 44(8),35-39.   
+[燕诗舟,许红华,张萍.(2018).煤炭企业差序式领导对员工亲社会违规行为的影响研究.经济管理,44(8),35-39.]   
+Zhu,J.Q.& Xu,S.Y.(2015).Counter-productive work behavior and pro-social rule breaking behavior:basedon compensatoty ethics view. Economic Management, 37(10),75-85.   
+[朱金强，徐世勇.(2015).反生产力工作行为与亲社会违规行为——基于道德补偿理论的视角.经济管理,37(10),75- 85.]   
+Zhu,J.Q.,Xu,S.Y.,Yang,O.K.,Herst,D.,&Fardale,E. (O18).Ethical leadershipandemployeepro-socialrule-breaking behavior in China.Asian Business & Management,17(1),59-81.
+
+# Rules can Maintain Harmony? The Influence of Team Pro-social Rule Breaking Climate on Team Performance from the Perspective of Harmony Management
+
+CAI Yahua; CHENG Jialin; LI Jinsong
+
+(College of Business, Shanghai University of Finance and Economics, Shanghai, 200433)
+
+# Abstract
+
+In Chinese organizations, it is not uncommon that employees deviate from established rules in order to help others or to enhance work effciency.Accordingly，such pro-social rule breaking(PSRB） has attracted strong and increasing research attntion. However, while scholars have studied the antecedents and outcomes of PSRB at the individual level, no relevant research has explored the notion of team PSRB climate and its effects on team outcomes.By building on harmony management theory,our study proposes and tests a mediated moderation model that explored when and why team PSRB climate influences team performance.
+
+To test our hypotheses，we conducted a three-wave field study from three major construction companies in China. Al te data were collected on-site through paper and pencil surveys. At each time point,three researchers visited the companies and distributed the questionnaires to the team leaders and their subordinates.The participants completed the surveys and placed them in sealed envelopes，which were then collected by the research team. Al participants received a small gift in exchange for their participation. We received complete responses from 74 team leaders and their 334 subordinates.
+
+The results provided support for our theoretical model and showed that (1） the interaction between team PSRB climate and task interdependence significantly predicted team harmony,such that the negative relationship between team PSRB climate and team harmony was stronger when task interdependence was high rather than low; (2) team harmony was significantly positively related to team performance; (3) team harmony mediated the interactive effect of team PSRB climate and task interdependence on team performance, such that the indirect effect was negative when task interdependence was high.
+
+In summary，our study makes three key contributions. First， we extend the literature by conceptualizing PSRB at the team level and by describing the theoretical foundations for the emergence of team PSRB climate. Specifically, we argue that a team's PSRB climate develops through processes of social interaction as team members observe, communicate,and share their PSRB experiences. Second, we provide novel insights into the mechanisms through which team PSRB climate influences team performance. Our results suggest that team harmony plays an important role for the effects of team PSRB climate.Third,we identify an important boundary condition for the effects of team PSRB climate. Specificaly,our results indicate that it is crucial to consider the moderating efect of task interdependence to yield a more complete and accurate understanding of whether and when teams wil experience more or less disharmony as a result of their PSRB climate.
+
+Keywordsteam PSRB climate, team harmony, task interdependence, team performance
+
+附录：量表团队亲社会违规氛围
+
+<html><body><table><tr><td>我感觉我们团队...</td><td>完全 不同意不同意</td><td>基本</td><td>有点 不同意</td><td>不确定</td><td>有点 同意</td><td>基本 同意</td><td>完全 同意</td></tr><tr><td>1.为了更有效率的完成工作，我们违反组织规则。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>2.为了帮助公司节省时间和节约金钱，我们违反组织规</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6號</td><td>7</td></tr><tr><td>则。 3.为了更有效率，我们忽视组织规则来简化工作环节。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>4.当组织规则干扰到我们工作职责时，我们会违反这些 规则。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>5.我们违反低效率的组织规则。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>6.如果同事在一些事务上需要帮助，我们会打破组织常</td><td>√</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>规。 7.当同事工作上需要帮助时，我们会违反组织规则提供 帮助。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>8.我们打破组织规则来帮助同事完成工作。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>9.即使会违反组织规则，我们也会帮助其他同事。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>10.我们会违反那些阻碍提供良好顾客服务的组织规 则。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>11.为提供更好服务，我们忽视那些阻碍服务的组织规 则。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>12.我们违反组织规则是为了更好的提供顾客服务。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>13.我们违反组织规则，这样就可以给顾客提供最好的 服务。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr></table></body></html>
+
+# 团队互依性
+
+团队和谐   
+
+<html><body><table><tr><td>贵团队的工作特征：</td><td>非常 少</td><td>较 少</td><td>有点 少</td><td>不确 定</td><td>有点 多</td><td>较 多</td><td>非常 多</td></tr><tr><td>1.团队的员工在多大程度上需要和他人协作以完成工作？</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>2.在本团队，要与其他人共同处理的工作部分占多大程度？</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>3.在本团队，依赖于员工之间的合作才能成功的情况有多1 少？</td><td></td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>4.在本团队，员工依赖其他团队成员完成工作的情况有多1 少？</td><td></td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>5.团队的员工经常需要在他人所完成的工作基础上开展工1 作的程度？</td><td></td><td>2</td><td></td><td>345</td><td></td><td>6</td><td>7</td></tr></table></body></html>
+
+<html><body><table><tr><td>总体而言，本团队…</td><td>完全 不同意</td><td>基本 不同意</td><td>有点 不同意</td><td>不 确定</td><td>有点 同意</td><td>基本</td><td>完全</td></tr><tr><td>1.团队成员表达不同意见，大家会认为是正常的、是对</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>同意 6</td><td>同意 7</td></tr><tr><td>团队有建设性的。 2.团队成员提出不同看法，大家会认为这是为提高团队</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr></table></body></html>
+
+绩效做贡献。
+
+<html><body><table><tr><td>3.团队成员为自己的观点据理力争，其他成员会认为这1 是出于团队利益而非个人利益。</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td></td><td>7</td></tr><tr><td>4.团队成员坦诚直率地表达自己的观点，其他成员认为1 他们是出于真诚的关心。</td><td></td><td>2</td><td>34</td><td></td><td>5 6</td><td></td><td>7</td></tr></table></body></html>
+
+# 团队绩效
+
+<html><body><table><tr><td>总体而言，本团队…</td><td>完全 不同意</td><td>基本 不同意</td><td>有点 不同意</td><td>不 确定</td><td>有点 同意</td><td>基本 同意</td><td>完全 同意</td></tr><tr><td>1.我们团队能够实现甚至超额完成目标。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>2.我们团队能按时完成任务。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>3.我们团队会确保其产品和服务都能达到或者超 过质量标准。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>4.当出现问题时，我们团队能够迅速做出反应。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>5.我们团队是高产的团队。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>6.我们团队能成功解决影响进度的问题。</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr></table></body></html>

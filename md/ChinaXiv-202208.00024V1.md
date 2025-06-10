@@ -1,0 +1,127 @@
+# 伴周期性肢体运动脑卒中患者的睡眠结构分析
+
+胡娅娅，朱宁\*，薛孟周
+
+10.12114/j.issn.1007-9572.2022.0468基金项目：国家自然科学基金面上项目（82071331）450000，河南省郑州市，郑州大学第二附属医院神经康复科\*通信作者：朱宁，副主任医师；E-mail:zhuning96@163.com;
+
+【摘要】背景卒中后患者可伴有不同类型的睡眠障碍，临床多见却易忽视周期性肢体运动(PLMS)对睡眠的影响，国内外报道PLMS 对卒中患者的影响较少，需进一步研究。目的 探讨周期性肢体运动对脑卒中患者的睡眠影响。方法 选取2020年12月-2022年2月于我院就诊，伴有睡眠障碍且行多导睡眠监测脑卒中患者81例。根据睡眠周期性肢体运动指数（PLMI）15次/h为界分为：PLMS $+$ 组 $( \mathrm { P L M I } \ge 1 5 ) ,$ ）、PLMS-组(PLMI<15)。比较并分析两组之间的睡眠结构。结果两组比较，PLMS $\cdot +$ 患者睡眠效率降低、觉醒指数增高，二期睡眠比例增加、三期睡眠比例减少、清醒时肢体运动指数增加，差异具有统计学意义（ $_ { \mathrm { ( P < 0 . 0 5 ) } }$ ）；余睡眠分期及睡眠呼吸暂停低通气指数（AHI）差异无统计学意义（ $\mathrm { \ P } { > } 0 . 0 5$ ）。结论研究表明伴有觉醒的周期性肢体运动的脑卒中患者，客观存在睡眠紊乱，为心脑血管疾病中的重要危险因素。
+
+【关键词】周期性肢体运动；肢体运动；脑卒中；睡眠；睡眠结构
+
+# Effect of Periodic Leg Movements in Sleep on sleep structure in stroke patients
+
+HU Yaya， ZHU Ning， XUE Mengzhou
+
+DepartmentofNeurological Rehabilitation，the Second Afiliated Hospital of Zhengzhou University， Zhengzhou 450014, China \*Corresponding author: ZHU Ning， Associate chief physician; E-mail: zhuning96@163.com
+
+【Abstract】BackgroundPost-stroke patients may have diffrent types ofsleep disorders,but the effect of periodic limb movement (PLMS)on sleep is often overlooked inclinical practice.Thereare fewreports about it, which needs further study. Background As a common complication of stroke patients,sleep disorders are clinically common but easy to gnore the impactof PLMSonsleep.There are fewreportsabout itathomeand abroad, which need further discusion.Objective The current study was designed to investigate the effct ofsleep periodic imb movement(PLMS)on sleep of stroke patients. Methods From December 2020 to February 2022,81 stroke patients with sleep disorders and polysomnography were selected from Departmentof Neurological Rehabilitation,the Second Afiliated Hospital of Zhengzhou University. Accordingto to the periodic limb movement index(PLMI),those patientswere divided into PLMSgroup (PLMI>15times/hour,PLMS $+$ )and non-PLMS group $( { \mathrm { P L M I } } { < } 1 5$ times/hour,PLMS-). Sleep parameters were recorded and compared between both groups.Results The slep efciency and the proportions of I stageofnon-rapid eye movement sleep(NREM-I)of PLMS group were lower than non-PLMS group.The arousal index,the proportions of II stageof non-rapid eye movement sleep(NREM-I)Conscious limb movements of PLMS group were higher than non-PLMS group. They were significant as being compared between the two groups(Pvalue $< 0 . 0 5$ ). Other sleep stages and sleep apnea hypopnea index(AHI) were not significantly different (Pvalue ${ > } 0 . 0 5$ ). Conclusion The study shows that stroke patients with arousal periodic limb movement have sleep disorders，is one of most important risk factors for cardiovascular and cerebrovascular diseases.
+
+【Key words】 Periodic Leg Movements in Sleep; Limbs movement; Stroke; sleep; Sleep structure
+
+周期性肢体运动(periodiclimb movements disorder,PLMS)是指重复性肢体运动，主要发生于非快速动眼时期。其特点为睡眠期间短暂、刻板、重复性的嗨趾伸直、足踝部背屈，有时累及膝部、髋部及上肢。整晚每小时周期性肢体运动指数(Periodic Limb Movement of Sleep Index,PLMI)大于5 则有临床意义，大于15 且排除其他疾病引起的睡眠症状则为周期性肢体运动障碍(Periodic Limb Movements Disorder,PLMD)[]。成人患病率估计为 $4 \% \sim 1 1 \%$ ，且随着年龄增加发病率也会增加[23]。有研究表明，PLMS 可能是卒中的危险因素，并且对 BMI和NIHSS 的卒中结果具有负面影响[4。Lin等[4的研究支持并验证了这一点。但尽管PLMS 与卒中严重程度和复发率显著相关，目前横断面研究仍无法回答时间顺序和因果关系[5。因调查PLMS 对脑卒中患者睡眠影响的相关资料较少，本研究拟通过多导睡眠监测（Polysomnography，PSG），观察其睡眠结构，并对伴 PLMS 的脑卒中患者进行睡眠结构分析。
+
+# 1资料和方法
+
+# 1.1 研究对象
+
+选取 2020年12月-2022年2月于我院就诊，伴有睡眠障碍且行多导睡眠监测脑卒中患者81例。脑卒中临床诊断参考 2018年《中国急性缺血性脑卒中诊治指南》中卒中诊断标准[]。肢体运动功能障碍（PLMS）诊断参考《国际睡眠疾病分类第三版》中睡眠相关运动障碍判读规则：反复出现的肢体肌肉收缩运动（持续约 $0 . 5 \mathrm { s } { \sim } 5 \mathrm { s } )$ ），一般间隔 $2 0 \mathrm { s } { \sim } 4 0 \mathrm { s }$ ;可完全清醒或脑电醒觉反应；无其他疾病（包括精神疾病）可以解释异常症状8。排除不宁腿综合征、快速动眼期睡眠行为障碍(rapid eye movement sleep behavior disorder,RBD)、发作性睡病、充血性心力衰竭、原发性高血压、终末期肾病、脊髓损伤、脊髓空洞症、酒精依赖性、帕金森病和 Tourette 综合征。
+
+# 1.2 方法
+
+1.2.1资料采集本研究已获得郑州大学第二附属医院医学伦理委员会批准，患者本人或其法律代表人签署知情同意书。由从事睡眠医学的医师收集患者基本信息（年龄、性别、身高、体重、BMI）及PSG 监测数据，信息采集过程中严格保守患者隐私。并根据 PLMI水平，将 100 例脑卒中患者分无PLMS 组（PLMS-,PLMI $_ { < 1 5 }$ 次/h）和PLMS组（PLMS $^ +$ PLMI>15/h）。
+
+1.2.2 多导睡眠监测方法行 PSG 监测前，告知患者监测当日禁服调节睡眠药物，及饮酒，咖啡、可乐、茶等兴奋性饮料；白天少睡，避免情绪波动等，保证夜间睡眠质量。在符合以上条件下，于19：00前进入睡眠监测室，待患者适应环境后进行PSG监测直至次日7：00离开，记录时间 $\geqslant 7$ 小时。睡眠检测分析系统自动记录并分析脑电图、眼电图、下肢肌电图和口鼻气流等指标，再经PSG技术培训的医师根据美国睡眠医学会睡眠及其相关事件判读手册2.3版进行修正。
+
+1.3 统计学分析本试验为横断面研究调查，应用 SPSS 26.0统计学软件进行数据分析。计量资料以均数土标准差0 ${ \overline { { x } } } \pm s$ )表示，符合正态分布及方差齐性，则组间比较采用 $t$ 检验分析，否则采用非参数检验；计数资料以率 $( \% )$ 表示，采用 $\chi ^ { 2 }$ 检验。以 $\mathrm { P } { < } 0 . 0 5$ 为差异有统计学意义。同时，采用Pearson 相关分析，探讨影响周期性肢体运动的因素。
+
+# 2结果
+
+# 2.1一般临床资料
+
+试验组（39例）及对照组（42例）在性别、年龄等基本信息及卒中类型比较（ $\mathrm { \cdot } \mathrm { P } { > } 0 . 0 5$ ），差异无统计学意义，具有可比性。 (见表1)：
+
+表1一般临床资料( $\stackrel { - } { x } \pm s$ ）  
+Table 1 General Clinical Information   
+
+<html><body><table><tr><td>组别</td><td>年龄 (岁)</td><td>性别 (男/女)</td><td>BMI</td><td>出血性卒中/缺血性卒中</td></tr><tr><td>PLMS+（n=39)</td><td>55.28±10.78</td><td>28/11</td><td>26.19±6.38</td><td>2/37</td></tr><tr><td>PLMS- (n=42)</td><td>50.79±11.07</td><td>24/18</td><td>25.33±4.11</td><td>3/39</td></tr><tr><td>P“</td><td>0.068</td><td>0.169b</td><td>0.467</td><td>0.707b</td></tr></table></body></html>
+
+注：a：独立样本t检验；b：Fisher 的精确检验
+
+# 2.2睡眠结构
+
+两组相比， $\mathrm { P L M S ^ { + } }$ 患者睡眠效率降低、觉醒指数增高，N2期睡眠比例增加、N3 期睡眠比减少，清醒时肢体运动指数增加，差异有统计学意义（ $\mathrm { \cdot } \mathrm { P } { < } 0 . 0 5$ ）；其余睡眠分期及余睡眠分期及睡眠呼吸暂停低通气指数（AHI）差异无统计学意义（ $. \mathrm { P } { > } 0 . 0 5$ ）。(表2,图1)
+
+相关性分析显示，睡眠周期性肢体运动与 PLMI 相关的觉醒有较强的的相关性（ $\scriptstyle \cdot = 0 . 6 8 4$ ， $\mathsf { p } { < } 0 . 0 5$ ）；与清醒时的PLMI（ $\scriptstyle \cdot = 0 . 4 9 6$ ， $\mathsf { p } { < } 0 . 0 5$ ）、觉醒指数（ $\scriptstyle \cdot = 0 . 4 4 6$ ， $\mathsf { p } { < } 0 . 0 5$ ）可能相关。（表3、图2）
+
+<html><body><table><tr><td>组别</td><td>睡眠期 PLMI（次/小时）</td><td colspan="2">清醒期PLMI（次/小时）</td><td colspan="2">睡眠潜伏期（分）</td><td>睡眠效率(%)</td><td>AHI （次/小时）</td></tr><tr><td>PLMS+（n=39)</td><td>39.738±17.73</td><td colspan="2">75.97±43.17</td><td colspan="2">22.69±21.19</td><td>64.46±+14.13</td><td>21.41±22.44</td></tr><tr><td>PLMS- (n=42)</td><td>4.88±4.39</td><td colspan="2">32.00±32.08</td><td colspan="2">21.75±28.94</td><td>73.21±17.08</td><td>15.22±17.22</td></tr><tr><td>t值</td><td></td><td colspan="2">5.227</td><td colspan="2">0.166</td><td>-2.500</td><td>1.400</td></tr><tr><td>pa</td><td><0.001</td><td colspan="2"><0.001*</td><td colspan="2">0.868</td><td>0.014*</td><td>0.165</td></tr><tr><td>组别</td><td>N1期睡眠（%)</td><td>N2 期睡眠(%)</td><td>N3 期睡眠(%)</td><td>REM期睡眠（%)</td><td>觉醒指数（次/小时)</td><td></td><td>PLMI 相关觉醒</td></tr><tr><td>PLMS+ （n=39)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>（次/小时）</td></tr><tr><td>PLMS-(n=42)</td><td>16.24±23.31</td><td>57.51±12.32</td><td>14.42±10.66</td><td></td><td>16.53±6.69</td><td>28.38±18.59</td><td>3.67±4.97</td></tr><tr><td></td><td>9.04±8.54</td><td>51.32±11.07</td><td>20.58±11.58 -2.486</td><td></td><td>18.59±7.68</td><td>18.84±12.99</td><td>0.34±0.51</td></tr><tr><td>t值</td><td>1.870</td><td>2.379</td><td></td><td></td><td>-1.283</td><td>2.693</td><td>4.264</td></tr><tr><td>Pa</td><td>0.065</td><td>0.020*</td><td>0.015*</td><td></td><td>0.203</td><td>0.009*</td><td><0.001*</td></tr></table></body></html>
+
+注：a：独立样本t检验；\*： $\mathrm { \Delta } p { < } 0 . \mathrm { \ } O 5$ ，差异有统计学意义
+
+![](images/dd8f1d3eee12ba33f61ff195b2ced112b13dc8d54a22fd3c155c247c6d94be3d.jpg)  
+Figure 1Histogram of sleep structure in ${ \mathrm { P L M S } } +$ group and PLMS- group
+
+表3睡眠期PLMI 相关性分析  
+Table 3Correlation analysis of PLMI during sleep   
+
+<html><body><table><tr><td>项目</td><td>清醒期PLMI</td><td>睡眠潜 伏期</td><td>睡眠效率</td><td>N1期睡 眠</td><td>N2期睡眠</td><td>N3期睡眠</td><td>REM睡眠 比例</td><td>觉醒指数</td><td>PLMI相关觉 醒</td><td>AHI</td></tr><tr><td>相关</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性</td><td>0.496**</td><td>-0.02</td><td>-2.40*</td><td>0.172</td><td>0.258*</td><td>-0.214</td><td>-0.194</td><td>0.446**</td><td>0.684**</td><td>0.217</td></tr></table></body></html>
+
+注： $^ { * * }$ ：在0.01级别，相关性显著；\*:在0.05级别，相关性显著
+
+![](images/82bf543cc837cce1336ad702f6c8f1e65a9ae5994ee36bd05fae2ddfd6934fff.jpg)  
+图1PLMS $^ +$ 组与PLMS-组睡眠结构结构柱状图
+
+![](images/4b81bb809a44d0acd21d6959904c690c41122c628051c53209e4261664740000.jpg)
+
+![](images/120894b88625c7b3ee5a8b0e248622eac41ad5acd919b894b99879e3254739b1.jpg)  
+图2睡眠期PLMI相关性分析散点图  
+Figure 2Scatter plot of correlation analysis about PLMI during sleep
+
+# 3讨论
+
+现已证实，脑的器质性病变会导致PLMS 的发展，与作用于脑干的皮质或皮质下功能的丧失相关。BENBIR 等[4]调查评估了年龄在50\~80岁之间幕上缺血性卒中患者，发现 $5 4 . 3 \%$ 的患者在睡眠中会出现周期性的腿部运动，平均PLMI较高。证实脑破坏性损伤会导致运动通路受损，造成大脑皮质下去抑制，引起A11多巴胺能在间脑脊髓通路中功能减退，促进PLMS 进展[9。这些通路还支配节前交感神经元，其功能减退可导致交感神经兴奋，造成心脏病和卒中的风险增加[10]。在最新的一项前瞻性研究中，通过分析 PLMS 与脑小血管病变的影像学关系，发现 PLMS指数升高与脑小血管疾病相关[1]。再次证实，睡眠期间肢体运动是心脑血管疾病的一项重要危险因素。
+
+PLMS 脑神经功能方面,Kim等错误!未找到引用源·通过分析脑电图源定位的增量波段，根据delta 带的脑电图地形数据，显示在PLMS 发作之前，中央周围区域首先发生变化，然后是额叶和顶叶区域。且一项正电子发射断层扫描研究表明，双侧中央周围和右后扣带回区域对应运动相关运动想象激活部[12]。越来越多神经影像学和神经解剖学研究证据支持 PLMS 启动之前与中央周围、前额叶背外侧和扣带回区域相联系[13]错误!未找到引用源。。其中，背外侧前额叶皮层负责运动控制。后扣带皮层作为中心节点，在与额顶控制网络相关的执行运动控制中发挥作用。监测睡眠时，我们也观察到PLMS 在发生前，脑电图上显示相应波幅变化。支持睡眠期间周期性肢体运动与皮层额叶、扣带回的相关性。
+
+在睡眠结构方面，普遍认为PLMS 是一种唤醒反应，是造成睡眠碎片化的原因[15]错误!未找到引用源。。然而，PLMS 睡眠结构紊乱的影响程度是有争议的[18]。PLMS 大致可分为两类，一类仅为多导睡眠图观察的结果，与觉醒无关，无实际意义；一类与觉醒相关错误!未找到引用源。。其中，伴有脑电图唤醒的PLMS 已被证明与交感神经介导的脉搏率和血压增加有关，影响缺血性卒中患者的预后[4],[0],[18]。观察本组研究资料，可以看出 PLMS 与周期性肢体运动引起的觉醒部分相关，与整体的觉醒呈弱相关。表明卒中患者既有引起觉醒 PLMS,又有无临床意义的PLMS。虽未统计预后相关资料，但在睡眠报告中，可以看出PLMS $^ +$ 较PLMS-患者睡眠结构更加紊乱，与黄[2等人研究结果一致。因此，我们认为，PLMS 会导致卒中患者睡眠结构紊乱程度加重，可能是卒中预后不良的标志。
+
+然而，PLMS 与脑卒中的因果关系未明。在一项关键药理学研究中[20]，普拉克索明显降低 PLMS 而不影响觉醒频率，而氯硝西泮减少睡眠觉醒但对 PLMS 没有影响。这一证据表明，选择性药理学方法可以将 PLMS 与唤醒事件分离。越来越多的研究[2[23]提示PLMS 与觉醒可能没有直接因果关系，它们之间不是通过简单的相互关系联系起来，可能受到更复杂的调节机制，包括可能存在的其他睡眠阶段事件，是各种影响因素的综合表现。分析本次实验结果，发现患者睡眠结构紊乱，可能是由OSA、伴有觉醒的 PLMS、脑卒中及潜在的危险因素等综合原因引起的，通过PLMI来表现。而 $\mathrm { P L M I } \geqslant 1 5 / \mathrm { h }$ 又是卒中复发的强预测因子，并且对 BMI和NIHSS 的卒中结果具有负面影响[22]。清醒次数增多，睡眠效率降低，二者叠加，可进一步加重临床症状。在选择治疗方案时，建议考虑以上综合因素，积极治疗。
+
+睡眠报告示，PLMS+患者较 PLMS-患者N2 期睡眠比例增多、N3 期睡眠比例减少，但未显示出与PLMS 有显著相关性。排除肢体运动引起的睡眠障碍，可能是卒中后患者脑血流减少和重新分布、中枢神经递质失调和细胞因子失衡、神经功能缺损等因素，引起睡眠结构的紊乱错误!未找到引用源。错误!未找到引用源。。同时，也发现清醒时 PLMI增多与睡眠时 PLMI存在相关性，不排除病理性改变引起相应的肢体运动，但由于清醒时肢体运动受各种因素影响，未降低日常生活能力，因而受到临床的忽视，临床资料较少，要进一步完善相关临床资料的收集。需指出的是，本研究由于资料为刻板的监测数据，不能动态观察PLMS 与清醒之间因果关系。同时，参加该研究的患者仅来自一个睡眠障碍中心，这可能导致潜在的样本偏倚和抽样偏差。在今后的研究中，需要更大规模、多中心的研究来探讨 PLMS 对脑卒中患者的作用，为更好地识别、干预和治疗PLMS 提供新的理论支持。
+
+综上所述，PLMS 的发病机制尚未明确，PLMS 与各种条件的关联很难用单一的机制解释。但对于卒中患者来说，伴有觉醒的PLMS 会增加卒中患者睡眠的紊乱。因此，在治疗原发病的同时，应结合患者出现的睡眠障碍的类型进行针对性治疗，以改善睡眠状况，降低卒中复发及加重的风险。
+
+创新性说明：卒中后患者通常出现各种类型的睡眠障碍，影响患者的康复。其中，不宁腿综合征患者临床上多见，国内外相关报道较多，但通常忽视周期性肢体运动（PLMS）对患者的睡眠影响。二者虽有相似之处但并非完全一致，对患者的睡眠及日常生活能力影响亦是不同。本试验排除不宁腿综合征等睡眠障碍，观察PLMS 对患者睡眠的影响，探讨其发生机制并分析睡眠结构，为临床治疗提供理论支持。结合患者临床资料，为患者提供最佳的诊疗方案。
+
+作者贡献：胡娅娅负责研究方案的构思与设计、研究的实施与可行性分析、数据收集、整理、统计、结果分析与解释、论文撰写等工作;朱宁负责睡眠报告的解读、论文修订工作，负责文章的质量控制及审校，对文章整体负责并进行监督管理；薛孟周对研究的实施与可行性进行分析，并对论文进行审校。
+
+本文无利益冲突。
+
+# 参考文献
+
+[1]Sateia MJInternational classificationof sleepdisorders-3rded:highlightsand modifications[J].Chest,2014,14 6(5):1387-1394.DOI: 10.1378/chest.14-0970   
+[2]Hornyak M,Trenkwalder C.Restlesslegs syndrome and periodic limb movement disorder in the elderly[J].J Psychos0m Res, 2004,56(5):543-548.DOI: 10.1016/S0022-3999(04)00020-0   
+[3] Wang Q,Li Y,Li J,et al. Low Arousal Threshold: A Potential Bridge Between OSA and Periodic Limb Movements of Sleep[J]. Nat Sci Sleep，2021，13:229-238.DOI: 10.2147/NSS.S292617   
+[4] Gulcin Benbir,Derya Karadeniz.Influence of periodic leg movements in sleep on stroke outcome[J].Sleep and Biological Rhythms,2013,11(3):194-9.DOI: https://doi.org/10.1111/sbr.12021   
+[5] Lin Jenny,Morrone Kerry,Manwani Depa,et al.Assciation Between Periodic Limb Movements in Sleepand Cerebrovascular Changes in Children With Sickle Cell Disease[J].Journal of clinical sleep medicine : JCSM: official publication of the American Academy of Sleep Medicine,2019,15(7):1011-1019.DOI: 10.5664/jcsm.7 884   
+[6] Srikant Nannapaneni,Kannan Ramar.Periodic limb movements during sleep and their efect on the cardiovasc ular system: is there a final answer?[J].Sleep Medicine,2014,15(4):379-84.DOI: 10.1016/j.sleep.2013.12.014   
+[7]彭斌,吴波.中国急性缺血性脑卒中诊治指南2018[J].中华神经杂志，2018,51(09):666-682.DOI:10.3760/cma.j.is sn.1006-7876.2018.09.004.   
+[8]Ito E,Inoue Y.The International Clasification of Sleep Disorders，third edition.American Academy of Sleep Medicine.Includes bibliographies and index[J].Nihon Rinsho, 2015,73(6):916-923.   
+[9]Drakatos Panagis,Olaithe Michele,Verma Dhun,et al.Periodic limb movements during sleep: a narrative revie w[JJ.Journal of thoracic disease,2021,13(11):6476-6494.DOI: 10.21037/jtd-21-1353   
+[10]Chen-YuLin,Shih-Jen Tsai,Chung-KangPeng,et al.Sleep state instabilities in patientswith periodic limb mov ements in sleep -Detection and quantification with heart rate variability[J].Psychiatry Research,2020,293:113 454.DOI: 10.1016/j.psychres.2020.113454   
+[11]Ouyang F,Wang M,Liao M,et al.Association between periodic limb movements during sleep and neuroimagin g features of cerebral small vessel disease: A preliminary cross-sectional study[J]. Sleep Res,2022:e13573.D OI: 10.1111/jsr.13573   
+[12]Kim Tae-Joon,Cha Kwang Su,Lee Sanghun,et al.Brain regions associated with periodic leg movements durin g sleep in restless legs syndrome[J].Scientific reports,2020,10(1):1615.DOI:10.1038/s41598-020-58365-0   
+[13] Yu H,Ba S,Guo Y,et al.Effects of Motor Imagery Tasks on Brain Functional Networks Based on EEG Mu/B eta Rhythm.[J].Brain Sci,2022,12(2):194.DOI: 10.3390/brainsci12020194   
+[14]Mogavero MP,Mezzapesa DM,Savarese M,etal.Morphological analysisof thebrain subcortical gray structure s in restless legs syndrome[J].Sleep Med,2021,88:74-80.DOI: 10.1016/j.sleep.2021.10.025   
+[15]SiR,Rowe JB,Zhang J.etal.Functional localization andcategorizationof intentional decisions in humans:A meta-analysis of brain imaging studies [J].Neuroimage,2021,242:118468.DOI: 10.1016/j.neuroimage.   
+[16] Kim H,Yang KI,Sunwoo JS,et al.Association between Self-Perceived Periodic Limb Movement during Sleep and Excesive Daytime Sleepiness Depend on Restless Leg Symptoms in Korean Adolescents[J].Int JEnviro n Res Public Health,2022,19(8):4751.DOI: 10.3390/ijerph19084751   
+[17] Zhou Xiaobo,Zhou Bo,Li Zhe,et al.Periodic limb movements in patients with obstructivesleepapnea syndro me[J].Scientific rep0rts,2021,11(1):15341.DOI: 10.1038/s41598-021-95018-2   
+[18] Kim Hyo Jae,Lee Sang-Ahm.Periodic limb movements during sleep may reduce excesive daytime sleepines in men with obstructive sleep apnea[J].Sleep & breathing $\mathbf { \Sigma } = \mathbf { \Sigma }$ Schlaf & Atmung,2020,24(4):1523-1529.DOI: 1 0.1007/s11325-020-02024-1   
+[19] Walters A S.Pro: assssment of periodic leg movements is an essential component of an ovemight sleep stu dy[J].American journal of respiratoryand critical care medicine,2001,164(8 Pt1).DOI:10.1164/ajrccm.164.8.2 107127a   
+[20]Wipper Benjamin,Winkelman John W.The Long-Term Psychiatric and Cardiovascular Morbidityand Mortality of Restless Legs Syndrome and Periodic Limb Movements of Sleep[J].Sleep Medicine Clinics,2021,16(2):27 9-288.DOI: 10.1016/j.jsmc.2021.02.005   
+[21]黄隽英,沈赞,韩菲,等.伴周期性肢体运动急性脑梗死患者的临床特征初步分析[J]．中国脑血管病杂志,2020, 17(5):231-236.DO1:10.3969/j.issn.1672-5921.2020.05.002.   
+[22]Manconi Mauro,Ferri Raffele,Zucconi Marcoet alDissociationof periodic leg movements from arousals inr estless legs syndrome[J].Annals of neurology,2012,71(6):834-44.DOI: 10.1002/ana.23565   
+[23]Spektor Ekaterina,Fietze Ingo,Poluektov Mikhail GPeriodic Limb Movements Syndrome in Patients With Cer ebral Small VesselDisease:Protocol fora Prospective Observational Study[J].Frontiers inNeurology,2021,12: 700151.DOI: 10.3389/fneur.2021.700151   
+[24]Fulda Stephany.PeriodicLeg Movements During Sleep[J].Slep MedicineClinics,2021,16(2):289-303.DOI:10. 1016/j.jsmc.2021.02.004   
+[25]Ha SH,Park KY,Kim JM,et al.Restlesslegssyndromeisassociated with arterial stifessand clinical outc ome in stroke patients[J].Sleep Med,2019,60:219-223.DO1: 10.1016/j.sleep.2019.03.027   
+[26]李巍峰,张晓钰.脑干卒中后低氧血症患者单胺类神经递质的变化因素与卒中后睡眠障碍的关系分析[J].中国 现代医生,2021,59(36):45-48.   
+[27]原向军.脑卒中后睡眠障碍对预后影响相关研究[J].中国药物与临床，2021,21（22）：3747-3749.DOI:10.116 55/zgywylc2021.22.039.

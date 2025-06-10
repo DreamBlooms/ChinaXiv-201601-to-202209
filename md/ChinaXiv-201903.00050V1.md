@@ -1,0 +1,127 @@
+# 基于有限元仿真的沿面介质阻挡放电装置静电场影响因素研究
+
+梁利娟1,2 刘辉1,2许通1,2 张琦1,2（1.许继集团有限公司 许昌 4610002.许昌许继德理施尔电气有限公司许昌461000）
+
+![](images/0c01419f084d55bf3341d0ac5747f7575c0ea91e28614707b4b27f0fa9890fdd.jpg)
+
+梁利娟女 1988年生，硕士，主要研究方向为高电压绝缘及计算机仿真技术。
+
+摘要：为了提高沿面型介质阻挡放电装置的放电特性，优化其结构设计，以螺环型沿面放电作为研究对象，利用有限元仿真软件对沿面介质阻挡放电装置进行静电场的仿真分析，研究高压电极线径、高压电极间距（螺距）等对沿面介质阻挡放电装置静电场的影响。仿真结果表明：在气隙的同一位置，场强随线径的减小而非线性减小。选取电极线径较小、介质厚度薄、较大相对介电常数的介质，均可以降低放电起始电压，为结构优化设计提供参考依据。
+
+关键词：沿面介质阻挡放电 放电特性 电场分析结构优化中图分类号：TM854
+
+# Research on Electrostatic Field Influencing Factors in Surface Dielectric Barrier Discharge Based on Finite Element Simulation
+
+![](images/747c6ae46d0b615376db795047c8c9f91306ae16d3993b14ab828686aa8dc3a8.jpg)
+
+LiangLijuan1,2 Wu Xiaozhao1,2Xu Tong1,2 (1.Xuji Group Corporation Xuchang 4610o0 China 2.XJ-driescher Wegberg Electric Co.,LtdXuchang461000 China ）
+
+刘辉男1987年生，硕士，主要研究方向为高电压绝缘及计算机仿真技术。
+
+Abstract: Surface dielectric barrier discharge (SDBD) can produce low temperature plasma at atmospheric pressure,which is in large area and has high energy density. In order to improve discharge characteristics of SDBD,optimize the structure design, taking a cylinder surface discharge reactor as the object, this paper simulate and analysis the surface dielectric barrier discharge device by using finite element analyzing soft.Research the influence of excitation voltage,high voltage electrode wire diameter, dielectric thickness and relative permittivity on SDBD device.
+
+Keywords: Surface dielectric barrier discharge,discharge characteristics,electric field analysis,structural optimization
+
+# 1 引言
+
+沿面型介质阻挡放电是将线状或者梳状电极分布在介质板的两侧，使放电在电极附近紧贴介质板表面的空间进行。沿面放电在沿介质表面的放电空间所受限制较少，相较于体放电可以在介质表面产生更大面积、更为均匀的等离子层，且具有较高的功率密度，可以将电能有效转化为空气动能，在空气气流控制[1]、飞机起降[2]和风力发电等空气动力学领域具有广泛的应用前景。其放电通道有利于臭氧的形成及扩散，产生臭氧的效率高，因此近年来在臭氧合成领域也颇受关注[3]。
+
+沿面型介质阻挡放电作为一种新型的介质阻挡放电形式，对其物理过程、作用机理进行研究具有重要的理论意义与工业价值。在沿面型介质阻挡放电中，介质板和气体交界面对放电的发展有至关重要的影响。H.J.M.Blennow 等人依据Paschen 定律和空气中均匀电场的击穿场强建立了一个简单的模型，计算了介质阻挡放电中气隙中的空间电荷分布；Braun等人通过1.5维的数值方法解释了单介质阻挡的放电特性；国内李应红等采用PSpice 中的数学宏模型来建立等离子体放电的模型并对用于流动控制的对称布局等离子体激励器进行了仿真；这些研究都取得了一定的进展并成为等离子应用的技术基础，但对于沿面介质阻挡放电的放电理论等还需进一步的研究[4-9]，因此，对于沿面放电相关特性和影响因素进行研究具有重要理论意义和应用价值。
+
+本文主要是以螺环型沿面放电作为研究对象，利用有限元仿真分析软件对沿面介质阻挡放电装置进行静电场的仿真，对影响沿面放电特性的因素进行分析研究，为沿面放电理论研究提供参考，并为结构优化提供依据。
+
+# 2 电场分析方法及仿真模型的建立
+
+# 2.1电场分析方法
+
+由静电场的基本方程可得出各向同性、线性、均压介质中电位 $\varphi$ 满足泊松方程，即 $\Delta ^ { 2 } \varphi = - \rho / \varepsilon$ ，当场域中无空间电荷时满足拉普拉斯方程即 $\Delta ^ { 2 } \varphi = 0$ ，其中， $\Delta$ 是拉普拉斯算子； $\rho$ 为自由电荷密度； $\mathbf { \sigma } _ { \varepsilon }$ 为介电常数。
+
+在不同介质分界线面上，场量满足边界条件：$\left\{ \begin{array} { l } { \displaystyle \varepsilon _ { 1 } \frac { \partial _ { \varphi _ { 1 } } } { \partial n } = \varepsilon _ { 1 } \frac { \partial _ { \varphi _ { 2 } } } { \partial n } } \\ { \displaystyle \varphi _ { 1 } = \varphi _ { 2 } } \end{array} \right. .$
+
+边界条件包括：第一类边界条件是给定边界上的值 $f _ { 1 } ( \boldsymbol { p } )$ ， $f _ { 1 } ( \boldsymbol { p } )$ 是边界点 $p$ 的函数或常数；第二类边界条件是给定边界上法向导数的值 $f _ { 2 } ( \boldsymbol { p } ) = { \hat { \sigma } } \varphi / { \hat { \sigma } } _ { n }$ 。
+
+同时考虑在工频电压下，电位分布满足拉普拉斯方程，于是静电场的边值问题对应的变分问题就是求泛函数的极小值[10]
+
+$$
+\begin{array} { c } { F ( \varphi ) = \displaystyle \frac { 1 } { 2 } \int _ { \varOmega } \Bigl ( \varepsilon \bigl | \nabla \varphi \bigr | ^ { 2 } - 2 \rho \varphi \Bigr ) \mathrm { d } \varOmega + } \\ { \displaystyle \frac { 1 } { 2 } \oint _ { { \cal T } } \varepsilon f _ { 1 } ( p ) \varphi ^ { 2 } \mathrm { d } { \cal T } + \frac { 1 } { 2 } \oint _ { { \cal T } } \varepsilon f _ { 2 } ( p ) \varphi \mathrm { d } { \cal T } } \end{array}
+$$
+
+式中， $\varOmega$ 为 $\varphi$ 的定义域； $\boldsymbol { { \cal T } }$ 为定义域的闭合边界。则整个计算场域内变分问题方程即可表示为[11]
+
+$$
+\begin{array} { l } { { \displaystyle F ( \varphi ) = \sum \Biggl [ \frac { 1 } { 2 } \int _ { \mathcal { Q } } \Bigl ( \varepsilon \bigl | \nabla \varphi \bigr | ^ { 2 } - 2 \rho \varphi \Bigr ) \mathrm { d } \mathcal { Q } + } } \\ { { \displaystyle \qquad \frac { 1 } { 2 } \oint _ { { \cal T } } \varepsilon f _ { 1 } ( p ) \varphi ^ { 2 } \mathrm { d } { \cal T } + \frac { 1 } { 2 } \oint _ { { \cal T } } \varepsilon f _ { 2 } ( p ) \varphi \mathrm { d } { \cal T } \Biggr ] } } \end{array}
+$$
+
+令 $F ( \varphi )$ 对 $\varphi$ 的导数等于零就可以得到线性方程组
+
+$$
+K \varphi = 0
+$$
+
+式（3）中，系数矩阵 $\pmb { K }$ 又称为刚度矩阵，再利用边界条件，就可以求出每个节点的电位[12]。然后由电位求电场强度、电荷密度及电流密度等其他物理量。通过建立二维或三维电场计算模型，由有限元计算软件可方便地实现上述计算过程，得出需要的计算结果。
+
+# 2.2仿真模型的建立
+
+本文所研究的沿面介质阻挡放电装置三维结构如图1所示，高压电极为紧贴于绝缘介质管内壁的弹簧状不锈钢丝，低压电极（接地电极）为紧贴于介质管外壁的铝箔纸，为了提高计算速度，做出沿面介质阻挡放电装置的纵剖面图。得到等效的简化二维模型，如图2所示。
+
+![](images/ef3db92763356f2576da5db1419d84464e88f8839db364c1b0c68f0c0e40c2ca.jpg)  
+图1沿面介质阻挡放电装置的三维结构模型 Fig.1Three-dimensional structure of surface dielectric barrier discharge device
+
+![](images/5542ea09f2e6d231230e291239c82a9e07e5b0b124c3129887b5f01a5119a434.jpg)  
+图2沿面介质阻挡放电装置的二维简化模型Fig.2Two-dimensional simplified model of surfacedielectric barrier discharge device
+
+# 3 高压电极直径（线径）对静电场的影响
+
+高压电极线径选取 $0 . 5 \mathrm { m m }$ ， $1 . 0 \mathrm { m m }$ ， $1 . 5 \mathrm { m m }$ 、$2 . 0 \mathrm { m m }$ 、 $2 . 5 \mathrm { m m }$ 。激励电压设定为 $1 5 \mathrm { k V }$ 。以高压电极与介质的切点为坐标原点 (0，0)，建立坐标系，选取与上文同样的路径，考察5种线径下该路径上的电场强度。在该路径上，仿真得到5种线径下电场强度如图3所示，横坐标为距离坐标原点的距离d，纵坐标为电场强度。
+
+![](images/9b590e26997d32aea85628ed50b521b5b6d629c21789262b18850240f2aec9ea.jpg)  
+图3线径对电场强度的影响
+
+从图3可以看出，在研究的范围内，高压电极和介质管之间间隙是气体固体复合绝缘，介质管的介电常数是气体的5.5倍，因而该区域介电常数小的气体电场强度严重畸变，线径的增加意味着高压电极和介质管之间的气体间隙减小，放电间隙的减小，必然使得电场变大，放电起始电压减小，但是电极和介质管切点附近 $0 . 1 \mathrm { m m }$ 范围很小距离内，随着电极增大，间隙几乎不变，对该区域影响更大的是高压电极的曲率半径，因而随着电极线径增大，电场反而变小；在 $d > 0 . 1 \mathrm { m m }$ 之后，随着线径的增大，场强增大。
+
+整个放电装置中最大电场强度随线径的变化如图4所示。
+
+从图4可以看出，沿面介质阻挡放电装置最大电场强度随着线径的增大非线性减少，变化趋势是随着线径的增大，装置最大电场强度的衰减逐渐变
+
+![](images/9fde19394ce993f127889824f1599215180185f8fcb98a5df2d2d07dd8cbd26e.jpg)  
+图4线径对装置最大电场强度的影响
+
+缓。因此，在考察的范围内，线径的减少，使得沿面介质阻挡放电装置的放电起始电压降低。
+
+# 4 螺距对静电场的影响
+
+考察相邻两个高压电极环之间的电场，可以简化为相邻两个不锈钢棒之间的电场。相邻不锈钢棒的电势与电场云图分别如图5和图6所示。图6中，以左侧钢棒与介质切点为原点，考察路径为线段AB，其中A点坐标（0.01，0.0001)，B点坐标(4.99，0.0001)。单位均为 $\mathrm { m m }$ ，设定水平到A点的距离为 $d$ ，路径上的场强随 $d$ 的变化如图7所示。
+
+![](images/f69d8a4e63af85945c0bb917fa508b922829bee7768b773a4c7ebb0d4a82bc47.jpg)  
+Fig.3Effect of wire diameter on theelectric field intensity   
+图5相邻电极间的电势云图
+
+![](images/78369ed218892aa41cb7f8b5cda885adbd368dd5044de72f83a9fec392db36a8.jpg)  
+Fig.4Effect ofwire diameter on the maximum electric field intensity   
+Fig.5Electric potential cloud plot between electrodes   
+图6相邻电极间电场云图  
+Fig.6Electric field cloud plot between electrodes
+
+![](images/79aabcf6f9f5a5ea9887e1d86bf3844d078446521fc45bd01522ba9f67e27419.jpg)  
+图7路径上的电场强度  
+Fig.7Electric field strengh along the trace
+
+从图6可以看出，外加激励电压以后，在介质表面的相邻电极的中间位置，电位最低为0。从图7可以看出，在整个考察的路径上，其电场强度均大于空气的临界击穿场强 $3 \times 1 0 ^ { 6 } \mathrm { V / m }$ 。但是这并不意味着减小螺距有利于沿面介质阻挡放电的发生。这是因为在静电场的仿真中没有考虑空间电荷及介质表面积累电荷（壁电荷）的影响，从放电的动态过程考虑，放电发生时，相邻电极沿着介质表面同时发展流光，产生流注通道的头部在相邻电极的中间位置由于具有同种极性而相互排斥，形成了所谓的自约束放电（self-restricted discharge）[13]。
+
+# 5 结论
+
+（1）随着线径的减少，沿面介质阻挡放电装置的起始放电电压降低。在考察的路径上，在$d < 0 . 1 \mathrm { { m m } }$ 时，随着线径的减少，电场强度增大。$d > 0 . 1 \mathrm { m m }$ 时，随着线径的减少，电场强度降低。(2）螺距较小时，螺距间的电场均可以达到空气的击穿场强，但是从放电的动态角度看，电极间的放电可能会受到抑制，形成自约束放电。
+
+# 参考文献
+
+[1] 袁大陆．全国电力系统高压开关设备10年运行状况述评[J]．电力设备，2000，1(1)：29-34.Yuan Dalu.The commentary on the state of HVswitchgear in the national electricity system forten years[J]. Electrical Equipment, 20oo,1(1):29-34.
+
+[2] Shao T, Yan P, Long K,et al. Dielectric-barrier discharge excitated by repetitive nanosecond pulses in air at atmospheric pressure[J]. IEEE Transactions on Plasmaence,2008, 36(4): 1358-1359.   
+[3] 李雪辰，赵欢欢，贾鹏英，等．常压空气中大 间隙介质阻挡放电特性[J]．高电压技术，2013, 39(4): 876-883. Li Xuechen, Zhao Huanhuan, Jia Pengying, et al, Large-gap dielectric barrier discharge characteristics at pressure air[J]. High Volage Engineering, 2013, 39(4): 876-883.   
+[4] Voeten S J, Beckers F, van Heesch E, et al. Optical characterization of surface dielectric barrier discharge[J]. IEEE Transactions on Plasmaence, 2011, 39(11): 2142-2143.   
+[5] 李清泉，许光可，房新振，等．沿面型介质阻 挡放电的数值仿真计算[J]．高电压技术，2012, 38(7): 1548-1555. Li Qingquan, Xu Guangke, Fang Xinzhen, et al. Numerical simulation of surface dielectric barrier discharge[J]. High Voltage Engineering, 2012, 38(7): 1548-1555.   
+[6] 周泽存，沈其工，方瑜，等．高电压技术[M]．北 京：中国电力出版社，2007：62-92.   
+[7] 潘俊，方志．多脉冲均匀介质阻挡放电特性的仿真 及实验研究[J]．高电压技术，2012，38(5)：1132- 1140. Pan Jun, Fang zhi. Simulationg and experimental research on characteristics of multi-pulse uniform dielectric barrier discharge[J]. High Voltage Engineering,2012,38(5): 1132-1140.   
+[8] 鲁大勇，李鹏飞，荐波涛．绝缘局部放电特征量提 取与模式识别研究[J]．电气应用，2016，35(8)： 74-79.   
+[9] Jiutao An, Kefeng Shang,Na Lu, et al. Oxidation of mercury by active species generated from a surface dielectric discharge plasma reactor[J]. Plasma Chemistry and Plasma Processing, 2014,34(1): 217- 228.   
+[10]Jiang Nan,Lu Na, Shang Kefeng, et al. Innovative approach for benzene degradation using hybrid/ packed-bed discharge plasma[J]. Environmental Sciences & Technology,2013,47(17): 9898-9903.

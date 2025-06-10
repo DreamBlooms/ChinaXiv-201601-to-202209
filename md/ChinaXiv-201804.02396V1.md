@@ -1,0 +1,286 @@
+# 公交网络路径规划问题中的一种高效索引方法
+
+马慧，汤庸²，梁瑞仕1
+
+(1．电子科技大学中山学院 计算机学院，广东 中山 528400;2.华南师范大学 计算机学院，广州 510631)
+
+摘要：TTL 是在公交网络中求解最早到达路径、最晚出发路径和最短耗时路径的一种高效索引。TTL采用 Time-dependent Dijkstra为核心算法构建索引，存在两个不足：大量的昂贵的出堆操作拖慢了建立索引的效率以及所求得的路径具有较多的换乘次数。针对这两个不足，提出了一种基于旅程的索引TAIL。TAIL预先生成部分路径，在查询阶段通过匹配部分路径得到最优解，避免在原图上做查询，提高效率。TAIL并不是基于图结构，而是以旅程为单位存储公交数据。在生成路径时，首先扫描路过起点的旅程，找到从起点直达的站点；然后扫描从直达站点出发的旅程，找到一次换乘可达的站点；如是这般，从可达站点出发扫描旅程，发现更多的可达站点。为了在早期找到最早到达路径，从而减少旅程的扫描量，TAIL并没有严格按照换乘次数的顺序扩展站点。这种方法避免了昂贵的堆操作，也保留了旅程的完整性。在真实数据集上测试表明，与TTL 相比，TAIL有较短的建立索引的时间，生成的路径的换乘次数也较少。
+
+关键词：最短路径；公交网络；路径规划；索引；时间表；换乘次数 中图分类号：TPT311.13 doi: 10.3969/j.issn.1001-3695.2018.02.0088
+
+# Efficient index for route planning in public transportation networks
+
+Ma Hui', Tang Yong2†, Liang Ruishi1 (1.Computer School,Zhongshan Collgeof UniversityofElectronic Science&TechnologyofChina,ZhongshanGuangdong 528400,China; 2. Computer School, South Normal University, Guangzhou 510631, China)
+
+Abstract:TTLisaighlyeficientindexingstructureforfindinganearliestarrivalpath,oralatestdeparturepath,oraortest durationpath inpublictransportationnetworks.TTLuses Time-dependentDijkstra'salgorithmasitscorealgorithmtobuild index,andisterefore,esultsintwodeiciencies.irstlyitedselativelyxpensivepriorityueeoperatios.ecodlyit would generate paths with more ransfers.This paper proposes anew indexing structure,TAIL,whichusesatripbased method to buildindex.TTLpre-computes somecanonical paths.Aquerycouldbe answeredby matching up thecanonicalpaths,which avoids traversingtheentirenetwork.Insteadofthegraph structure,TAILuses triparryas itsinput,and generatespaths by scaning trips.Initially,TAILscans tripsstartingfromthesourcestop,from whichTAILobtains directreachable stops.After that,TAIL scans trips starting fromthe direct reachable stops,fromwhich TAILobtains reachable stops withinone transfer. Generally,TAILdiscovers newreachable stops from scanning the trips starting atthealreadydiscovered reachable stops. In ordertoobtain theearliestarivalpaths intheearlystage,soas toreducethenumberoftripscanning,TAILdoes notscanthe stops strictlyin increasingorderoftheir transfer times.Inthis wayTAILavoidsvaluable priorityqueueoperations,while preserves theentityofatrip.Experimentsonrealdatasets shows that,compared to TTL,TAILhaslower indexconstruction time and its generated path has fewer transfer times.
+
+Key words: shortest path; public transportation network; route planning; index; time table; transfer times
+
+# 0 引言
+
+出发，最早到达 $d$ 的路径是哪条？b）最晚出发路径(latestdeparture path，LDP),要求在 $\pi$ 时刻或之前到达 $d$ ，最晚离开 $s$ 的路径是哪条？c）最短耗时路径(shortest duration path，SDP),期望在 $\pi$ 时刻或之后离开 $s$ ，在 $\pi$ '时刻或之前到达d，耗时最短的路径是哪条？
+
+公交网络中的路径规划问题是近期研究的一个热点。给定起始站点 $s$ 和目标站点 $d$ ，路径规划问题求解以下三种路径：a)最早到达路径(earliest arrival path，EAP),在 $\pi$ 时刻或之后从 $s$
+
+目前，关于公交网络中的路径规划问题已经有了很多的研究工作。早期的算法都是直接在图上做查询的，随着图的规模增大，查询效率不如人意。因此，学者们预先对图做预处理，通过计算部分路径信息生成索引，然后在索引上做查询，通过索引中的路径信息得到查询结果，避免在原图上做盲目搜索。在众多索引算法中，TTL[1是近期提出的一种最新的索引。实验表明，在拥有大约五万个顶点、四百万条边的图上，TTL的平均查询时间在 $3 0 \mu s$ 以内，比已有的索引算法更高效。TTL采用图结构表示公交数据，用公交站点作为图的顶点，如果在时刻 $\pi d e p t$ 有一趟交通工具从站点 $u$ 出发，在 $\pi _ { a r r }$ 时刻到达 $\nu$ ，中途不停靠，则在图中添加一条从 $u$ 到 $\nu$ 的边，在边上标记时刻（204号 $\langle \ \pi _ { d e p t } , \ \pi _ { a r r } \rangle$ 。TTL引入路网下最短路径的高效索引2-Hub-Labelling[2]的思想对图建立索引，索引构建基于图的求解最短路径的经典算法—Time-dependentDijkstra 算法[3]查找路径。但是，Time-dependentDijkstra 算法有两个不足，导致TLL索引也存在这两个不足：
+
+a)与传统的Dijkstra 算法一样，Time-dependent Dijkstra 算法需要维护一个最小堆，堆中的元素表示当前已找到的到达顶点的最早时刻，Time-dependentDijkstra 算法反复从最小堆中取出到达时刻最早的顶点出来扩展路径。如果最小堆用二项堆实现的话，每次从堆中取最小元、调整堆的耗费是 $\operatorname { O } ( \log n )$ ， $n$ 表示堆的大小。因为Time-dependentDijkstra 需要多次调用堆操作，所以会产生较大的耗费。
+
+b)Time-dependentDijkstra算法总是取到达时刻最早的顶点出来扩展路径，没有考虑旅程的完整性，查询所求得的路径有较多的换乘次数。如图1所示。假设从站点 $A$ 到 $C$ 有两条路径，线形区分不同的线路：路径 $P _ { 1 }$ 在时刻5从 $A$ 出发，乘坐实线表示的线路直达 $C$ ，到达 $C$ 的时刻是30，途中在时刻20的时候路过站点 $B$ 。路径 $P _ { 2 }$ 在时刻1从 $A$ 乘坐虚线表示的线路出发，经过若干次换乘后，在时刻18到达 $B$ ，然后再转乘实线表示的线路，到达 $C$ 的时刻跟 ${ \bf P } _ { 1 }$ 一样，也是30。如果要查询在0时刻或之后从 $A$ 到 $C$ 的EAP,Time-dependent Dijkstra 算法会返回 $P _ { 2 }$ ，这是因为，Time-dependentDijkstra 算法会选取最早到达 $B$ 的路径，即 $P _ { 2 }$ 从 $A$ 到 $B$ 的那一截路扩展出到达 $C$ 的路径$P _ { 2 }$ ，而不会选取 $P _ { 1 }$ 中从A到B的那一截路扩展生成 $P _ { 1 }$ 。尽管$P _ { 2 }$ 和 $P _ { 1 }$ 的到达时刻一样，但用户会更倾向于选择 $P _ { 1 }$ ，因为 $P _ { 1 }$ 不需要换乘。如果乘客携带行李，换乘会引起不便，而且会增加延误的风险。
+
+![](images/465ec722c6ed8fef71943c1a77e040e120525f5f42df0ab625c0d317916aa586.jpg)  
+图1从A到C的两条路径
+
+另一方面，在路径规划中，换乘次数是个需要考虑的问题。有部分学者着重研究查找换乘次数少的路径，详见第6节的讨论。其中，Delling 等人提出的RAPTOR[4]是一种快速的查找受换乘次数限制的EAP的方法。RAPTOR并不采用图结构表示交通数据，而是用一个数组记录旅程数据，查询时直接通过扫描数组求得EAP。一条旅程记录了一趟交通工具按预定线路行驶，路过每个站点的到达时刻和离开时刻。RAPTOR从起始站点 $s$ 开始，扫描路过 $s$ 的旅程，找到从 $s$ 可达的站点，再从 $s$ 可达的站点 $u$ 出发，扫描路过 $u$ 的旅程，发现更多可达的站点，如是重复直到从 $s$ 到网络中其他的可达站点的EAP都求出来为止。RAPTOR的不足之处在于：a)RAPTOR要求得从 $s$ 到 $d$ 的EAP 的话，必须先求出从 $s$ 到其余所有可达站点的EAP，显然当中存在不必要的计算;b)RAPTOR 并没有对公交数据做预处理建立索引，所以查询速度远比不上TTL。但是，由于RAPTOR是通过扫描旅程求EAP的，保留了旅程的完整性，跟Time-dependentDijkstra相比，能在一定程度上倾向于找到换乘次数较少的路径，这一点将在第4.2节详细说明。
+
+本文结合 TTL 和 RAPTOR 的优点提出了一种 TAIL(tripbased timelabelling）索引求解EAP、LDP和SDP。与TTL相比，TAIL并不是在图结构上建立索引，而是在表示旅程数据的数组上建立索引，其核心算法采用了基于旅程扫描的算法，弥补了“大量堆操作"与"生成的路径有较多的换乘次数"的两个不足；与RAPTOR相比，TAIL利用索引做查询，比从零信息量上做查询快。本文提出一种基于旅程的查询方法，该方法对RAPTOR加以修改，并提出求LDP的方法，使之能适用于TAIL索引的构建中。实验表明，TAIL与TTL有相仿的索引大小及查询时间，建立索引时间较短，且生成的路径有较少的换乘次数。
+
+# 1 问题定义
+
+设 $s$ 表示站点(stop)的集合。站点指乘客登上或离开交通工具的地方，例如公共巴士站、地铁站等等。设 $R$ 表示线路(Route)的集合。线路表示一辆交通工具预定的行驶站点的序列，例如公交车线路、地铁线路等等。设 $r \in R$ ， $\boldsymbol { r } = \langle s _ { 1 } , s _ { 2 } , s _ { 3 } , \cdots s _ { k } \rangle$ ，其中 $s _ { 1 } , s _ { 2 } \cdots , s _ { k } \in S$ ，表示线路 $\boldsymbol { r }$ 从站点 $s _ { 1 }$ 出发，依次途径 $s _ { 2 } , s _ { 3 } , \cdots$ 直到终点 $s _ { k }$ 。在现实生活中，一条线路一般分两个行驶方向，例如深圳地铁1号线分成从机场东往罗湖方向和从罗湖往机场东方向。在本文中，不失一般性，把一条线路的两个行驶方向当作两条线路处理，因为它们途径的站点序列不一样。另一方面，在现实生活中，线路上的站点允许重复出现。在本文中，为了表述清晰，如果线路上出现重复的站点，则按重复站点的出现位置将线路分成多截，当作多条线路处，于是保证了线路上的站点各不相同。
+
+旅程对应一条线路的一次具体行驶，包含每个站点的到达时刻和出发时刻。一趟旅程对应一条线路，一条线路包含多趟旅程。用符号 $\Gamma ( \boldsymbol { r } ) = \{ t _ { 1 } , t _ { 2 } , \cdots , t _ { k } \}$ 表示线路 $\boldsymbol { r }$ 包含了旅程$t _ { 1 } , t _ { 2 } , \cdots , t _ { k }$ 。分别用符号 $\pi _ { a r r } ( t , s )$ 和 $\pi _ { d e p t } ( t , s )$ 表示旅程 $\mathbf { \chi } _ { t }$ 上在站点 $s$ 的到达时刻和出发时刻。不失一般性，本文采用正整数表示时刻。 $\pi _ { a r r } ( t , s )$ 和 $\pi _ { d e p t } ( t , s )$ 满足条件 $\pi _ { a r r } ( t , s ) \leq \pi _ { d e p t } ( t , s )$ 。 $\mathbf { \Psi } _ { t }$ 上的第一个站点的到达时刻和最后一个站点的出发时刻无定义。
+
+图2是一个公交网络的例子，用不同的线形来区分线路。表1显示了图2对应的各条线路的时间表，表中列出了每个站点的(到达时刻，出发时刻)。
+
+![](images/81bfe16edd5c0ef0f748bff7d9ad295a0354a481e32e4977514c437c115304c9.jpg)  
+图2一个公交网络
+
+定义1旅程的 $\prec$ 关系。设 $\boldsymbol { r }$ 是一条线路， $t _ { 1 } , t _ { 2 } \in \Gamma ( r )$ 是行驶线路 $\boldsymbol { r }$ 的两条不同的旅程。定义 $t _ { 1 } \prec t _ { 2 }$ ，如果满足以下两个条件：a)对于 $\boldsymbol { r }$ 上的除了第一个站点以外的所有站点 $s$ ，有$\pi _ { a r r } ( t _ { 1 } , s ) \leq \pi _ { a r r } ( t _ { 2 } , s )$ ，且b)对于 $\boldsymbol { r }$ 上的除了最后一个站点以外的所有站点 $s$ ，有 $\pi _ { d e p t } ( t _ { 1 } , s ) \leq \pi _ { d e p t } ( t _ { 2 } , s )$ 。
+
+$t _ { 1 } \prec t _ { 2 }$ 的意思即是说，若在前一个站点 $t _ { \mathrm { l } }$ 比 $t _ { 2 }$ 先到达(或离开)，在下一个站点也必定有 $t _ { \mathrm { l } }$ 比 $t _ { 2 }$ 先到达(或离开)。 $\prec$ 关系也称为不超越关系(no over-taking)。在现实的公交网络中，一般情况下同一条线路下的旅程之间满足 $\prec$ 关系。但是，堵车等因素会破坏 $\prec$ 关系，即在前一个站晚到达（或出发）的旅程在后续的站点中会早到达(或出发)。在本文中，若在同一条线路下存在旅程 $t _ { 1 }$ 、 $t _ { 2 }$ ，不满足 $\prec$ 关系，则将 $t _ { 1 }$ 和 $t _ { 2 }$ 当作是属于两条不同的线路处理。于是 $\prec$ 关系是 $\Gamma ( r )$ 上的一个全序。
+
+表1图2中公交网络时间表  
+
+<html><body><table><tr><td colspan="2">旅 线路 程</td><td colspan="6">途径站点与各站点的(到达，出发)时刻</td></tr><tr><td rowspan="5"></td><td></td><td>S</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>t</td><td>(#,1)</td><td>(4,4)</td><td>(8,9)</td><td>(12,12)</td><td>(15,15)</td><td>(19,#)</td></tr><tr><td>t</td><td>(#,4)</td><td>(7,8)</td><td>(14,15)</td><td>(20,20)</td><td>(23,23)</td><td>(27,#)</td></tr><tr><td>t</td><td>(8,8)</td><td>(11,11)</td><td>(16,17)</td><td>(21,21)</td><td>(24,24)</td><td>(28,#)</td></tr><tr><td></td><td>J</td><td></td><td>F</td><td>D</td><td></td><td>G</td></tr><tr><td rowspan="2">1</td><td>4</td><td>(#,8)</td><td></td><td>(11,11)</td><td>(14,15)</td><td></td><td>(17,#)</td></tr><tr><td></td><td>H</td><td></td><td>A</td><td>F</td><td></td><td>I</td></tr><tr><td></td><td>t</td><td>(#,4)</td><td></td><td>(7,8)</td><td>(10,10)</td><td></td><td>(12,#)</td></tr></table></body></html>
+
+定义2时间表。 $\mathcal { T } = ( S , R , T )$ 是一个时间表，其中 $s$ 是站点的集合， $R = \{ r _ { 1 } , r _ { 2 } , \cdots , r _ { m } \}$ 是线路的集合，$T = \{ \{ t _ { 1 1 } , t _ { 1 2 } , \cdots \} , \{ t _ { 2 1 } , t _ { 2 2 } , \cdots \} , \cdots , \{ t _ { m 1 } , t _ { m 2 } , \cdots \} \}$ 是旅程的划分。 $T$ 下的每个子集与 $R$ 中的元素一一对应，即 $\forall r \in R$ ， $\Gamma ( r ) \in T$ 。不失一般性设 $T$ 下的每个子集内的旅程已按 $\prec$ 关系排序，即对于$1 \leq i \leq m , t _ { i 1 } < t _ { i 2 } < \cdots _ { \circ }$ （204号
+
+定义3路径。设 $s$ 是起始站点， $d$ 是目标站点。从 $s$ 到 $d$ 的路径定义为 $P = s _ { 1 } @ t _ { 1 } , s _ { 2 } @ t _ { 2 } , \cdots , s _ { k } @ t _ { k } , s _ { k + 1 }$ ，其中 $s _ { 1 } = s$ ，$s _ { k + 1 } = d$ ，对于 $2 \leq i \leq k$ ， $s _ { i }$ 是旅程 $t _ { i - 1 }$ 和 $t _ { i }$ 上的站点。 $P$ 表示在站点 $s _ { 1 }$ 上车乘坐旅程 $t _ { 1 }$ ，到站点 $s _ { 2 }$ 转乘旅程 $t _ { 2 }$ ，.....到站点 $s _ { k }$ （204号转乘旅程 $t _ { k }$ ，到达站点 $s _ { k + 1 }$ 。在换乘站点上满足时间约束$\pi _ { a r r } ( t _ { i - 1 } , s _ { i } ) \leq \pi _ { d e p t } ( t _ { i } , s _ { i } )$ ，即换乘时前一趟旅程的到达站点的时刻不能晚于后一趟旅程的出发时刻。称 $P$ 是长度为 $k$ 趟旅程的路径。 $P$ 的出发时刻记为 $\pi _ { \mathit { d e p t } } ( P )$ ，取值 $\pi _ { d e p t } ( t _ { 1 } , s _ { 1 } )$ 0 $P$ 的到达时刻记为 $\pi _ { a r r } ( P )$ ，取值 $\pi _ { a r r } ( t _ { k } , s _ { k + 1 } )$ 。 $P$ 的耗时记为取值$\pi _ { a r r } ( P ) - \pi _ { d e p t } ( P )$ 。本文研究的最早到达路径、最晚到达路径和最短耗时路径定义如下。
+
+定义4最早到达路径(EAP)。给定时间表 $\tau$ 、起始站点 $s$ ，目标站点 $d$ 、时刻 $\pi$ ，EAP指在所有从 $s$ 到 $d$ 的、出发时刻不早于 $\pi$ 的路径中，具有最早到达时刻的那条路径。
+
+定义5最晚出发路径(LDP)。给定时间表 $\tau$ 、起始站点 $s$ ，目标站点 $d$ 、时刻 $\pi ^ { \prime }$ ，LDP指在所有从 $s$ 到 $d$ 的、到达时刻不晚于 $\pi$ 的路径中，具有最晚出发时刻的那条路径。
+
+定义6 最短耗时路径(SDP)。给定时间表 $\tau$ 、起始站点 $s$ ，目标站点 $d$ 、时刻 $\pi$ 和 $\pi ^ { \prime }$ ，SDP指在所有从 $s$ 到 $d$ 的、出发时刻不早于 $\pi$ 、到达时刻不晚于 $\pi$ 的路径中，具有最短耗时的那条路径。
+
+表2给出本文中常用的符号及解释。
+
+表2文中常用的符号和解释。  
+
+<html><body><table><tr><td>符号</td><td>含义</td></tr><tr><td>T(r)={t,t2,.,tk]</td><td>行驶线路r的旅程的集合</td></tr><tr><td rowspan="3">πarr(t,s)、πdept(t,s)</td><td>旅程t上在站点S的到达时刻</td></tr><tr><td>和出发时刻。</td></tr><tr><td>t不超越t，见定义1。</td></tr><tr><td>t<t T =(S,R,T)</td><td></td></tr><tr><td></td><td>时间表，见定义2。</td></tr><tr><td>P=s@t,s@t,.,s@t,S+1 Tdept(P)、πarr(P)</td><td>路径P，见定义3。</td></tr><tr><td></td><td>P的出发时刻、到达时刻</td></tr><tr><td>L(u)和L(u)</td><td>TAIL 索引中的站点u的标签集 合，见定义9。</td></tr></table></body></html>
+
+# 2 TAIL索引
+
+2-hub-labeling是路网（图）上求解最短路径的一种高效索引，TTL引入2-Hub-Labeling的思想，对含有时间信息的图建立索引。TAIL 也引入2-Hub-Labeling 的思想，但并不是对图建立索引，而是对时间表 $\mathcal { T } = ( S , R , T )$ 建立索引。与 TTL 相似，TAIL对每个站点 $u$ 计算两个标签集合： $L _ { \ast } ( u )$ 和 $L _ { - } ( u )$ 。 $L _ { \mathrm { * } } ( u )$ 中的每个标签对应一条从 $\boldsymbol { u }$ 出发到达某个站点的路径；对称地,$L _ { _ - } ( u )$ 中的每个标签对应一条从某个站点出发到达 $\boldsymbol { u }$ 的路径。对于任意的从起点 $s$ 到目标 $d$ 的EAP、LDP 和 SDP 查询，TAIL可以从 $L _ { \ast } ( s )$ 和 $L _ { - } ( d )$ 中找到标签拼接成一条路径得到相应的解。这种方法利用预先计算好的路径信息查找路径，避免在原数据集上从零信息开始搜索，大大提高了查询的效率。
+
+TAIL的构建基于一个站点的全序关系，全序关系用来衡量站点在公交网络中的重要程度。在公共交通网络中，交通枢纽很重要，因为相距较远的两个地方通常在交通枢纽换乘。本文用 $o ( u )$ 表示将站点按重要程度从高到低排序后， $\boldsymbol { u }$ 在序列中的位置。若 $o ( u ) < o ( \nu )$ ，表明站点 $\mathbf { \Omega } _ { u }$ 的重要程度排在站点 $\mathbf { \sigma } _ { \nu }$ 的前面，即 $u$ 的等级比 $\nu$ 高。 $\mathbf { \xi } _ { o }$ 的选取并不影响查询结果的正确性，但会影响索引的大小，进而影响查询效率。下文将在第 4.4 节中讨论o的计算。
+
+TAIL的索引并没有保存所有从 $u$ 出发和到达 $u$ 的路径，只保留部分基本路径。
+
+定义7路径支配。设 $P _ { 1 }$ 和 $P _ { 2 }$ 分别是两条从站点 $u$ 到站点$d$ 的路径。称 $P _ { 1 }$ 支配 $P _ { 2 }$ ，如果 $\pi _ { d e p t } ( P _ { 1 } ) \ge \pi _ { d e p t } ( P _ { 2 } )$ ，且$\pi _ { a r r } ( P _ { 1 } ) \leq \pi _ { a r r } ( P _ { 2 } )$ 。
+
+定义7的意思是：如果 $P _ { 1 }$ 的出发时刻不早于 $P _ { 2 }$ 的，且到达时刻不晚于 $P _ { 2 }$ 的，则 $P _ { 1 }$ 比 $P _ { 2 }$ 更优。若 $P _ { 2 }$ 在一条EAP/LDP/SDP上，则用 $P _ { 1 }$ 代替 $P _ { 2 }$ 那截子路，也能得到EAP/LDP/SDP。所以索引只需考虑不被支配的路径即可。
+
+定义8基本路径。 $P = s _ { 1 } @ t _ { 1 } , s _ { 2 } @ t _ { 2 } , \cdots , s _ { k } @ t _ { k } , s _ { k + 1 }$ 是一条基本路径，如果满足以下两个条件：a)站点等级约束 $\mathcal { S }$ 途径的站点中， $s _ { \mathrm { l } }$ 或 $s _ { k + 1 }$ 的等级最高；b)支配约束,不存在另一条从 $s _ { 1 }$ 到 $s _ { k + 1 }$ 的路径 $P ^ { \prime }$ ， $P$ 支配 $P$ 。
+
+假设图2中的站点的重要程度依次为：DAFSBCEJGHI。$B @ t _ { 1 } , D$ 是一条基本路径； $A @ t _ { 2 } , D$ 不是基本路径，因为存在路径 $A @ t _ { 5 } , F @ t _ { 4 } , D$ 支配 $A @ t _ { 2 } , D$ 。
+
+定义9TAIL索引。给定时间表 $\mathcal { T } = ( S , R , T )$ ，TAIL 索引预先对每个站点 $u \in S$ 计算两个标签集合 $L _ { \mathrm { * } } ( u )$ 和 ${ \cal L } _ { - } ( u )$ ，满足以下四个条件：
+
+a) $L _ { \ast } ( u )$ 中的每个标签 $\langle \nu , \pi _ { \mathit { d e p t } } , \pi _ { \mathit { a r r } } , s _ { \mathit { n e i } } \rangle$ 对应一条从 $u$ 到 $\nu$ 的基本路径 $P$ ，且有 $o ( \nu ) < o ( u )$ 。其中 $P$ 在时刻 $\pi _ { d e p t }$ 出发，在时刻 $\pi _ { a r r }$ 到达。 $s _ { n e i }$ 是 $P$ 上继 $u$ 之后的第一个换乘站点。
+
+b) $L _ { _ - } ( u )$ 中的每个标签 $\langle \nu , \pi _ { \mathit { d e p t } } , \pi _ { \mathit { a r r } } , s _ { \mathit { n e i } } \rangle$ 对应一条从 $\nu$ 到 $u$ 的基本路径 $P$ ，且有 $o ( \nu ) < o ( u )$ 。其中 $P$ 在时刻 $\pi _ { d e p t }$ 出发，在时刻 $\pi _ { a r r }$ 到达。 $s _ { n e i }$ 是 $P$ 上到达 $\boldsymbol { u }$ 的前一个换乘站点。
+
+c)对于任意的从站点 $s$ 到站点 $d$ 的 EAP、LDP 或 SDP查询q，如果存在解的话，以下三种情况之一必成立：(a)在 $L _ { + } ( s )$ 中存在标签 $\langle d , \pi _ { d e p t } , \pi _ { a r r } , \cdot \rangle$ 1对应 $q$ 的解；(b)在 $L _ { - } ( d )$ 中存在标签$\langle s , \pi _ { d e p t } , \pi _ { a r r } , \cdot \rangle$ 对应 $q$ 的解；或(c)在 $L _ { + } ( s )$ 中存在标签$\langle w , \pi _ { d e p t } , \pi _ { a r r } , \cdot \rangle$ 对应路径 $P _ { + }$ ，在 $L _ { - } ( d )$ 中存在标签 $\langle w , \pi _ { d e p t } ^ { \prime } , \pi _ { a r r } ^ { \prime } , \cdot \rangle$ （20对应路径 $P _ { - }$ ，满足 $\pi _ { a r r } \leq \pi _ { d e p t } ^ { \prime }$ ，使得 $P _ { + }$ 和 $P _ { - }$ 拼接成的路径构成
+
+$q$ 的解。
+
+d) $L _ { \ast } ( u )$ 中的标签按目标顶点的等级序 $\mathbf { \sigma } _ { o }$ 为第一关键字、出发时刻为第二关键字升序排序。即是说，设 $l = \langle \nu , \pi _ { d e p t } , \pi _ { a r r } , \cdot \rangle$ 和（204号 $l ^ { \prime } = \langle \nu ^ { \prime } , \pi ^ { \prime } { } _ { d e p t } , \pi ^ { \prime } { } _ { a r r } , \cdot \rangle$ 都是 $L _ { \ast } ( u )$ 中的标签， $l$ 排在 $l ^ { \prime }$ 之前，如果$o ( \nu ) < o ( \nu ^ { \prime } )$ ，或 $o ( \nu ) = o ( \nu ^ { \prime } )$ 且 $\pi _ { d e p t } < \pi _ { d e p t } ^ { \prime }$ 。对 ${ \cal L } _ { - } ( u )$ 中的规则标签也按同样的规则排序。
+
+对于定义9 的第d)点，在 $L _ { \ast } ( u )$ 中的标签 $l$ 和 $l ^ { \prime }$ ，若$o ( \nu ) = o ( \nu ^ { \prime } )$ 且 $\pi _ { d e p t } < \pi _ { d e p t } ^ { \prime }$ ，由基本路径的支配性可得，必有$\pi _ { a r r } < \pi _ { a r r } ^ { \prime }$ 。即是说， $L _ { \mathrm { * } } ( u )$ 中具有相同目标点的标签，按出发时刻和到达时刻的升序排列。对 $L _ { - } ( u )$ 同理。
+
+表3列出了对应表1的例子中的标签集合 $L _ { + } ( S )$ 和 $L _ { - } ( E )$ 的内容。
+
+表3标签集 $L _ { * } ( S )$ 和 $L _ { - } ( E )$   
+
+<html><body><table><tr><td>集合</td><td>标签</td></tr><tr><td>L+(S)</td><td>l(D,4,14,A) l(D,8,24,A) l(A,1,4,S) l4(A,4,7,S> l5(A,8,11,S></td></tr><tr><td>L(E)</td><td>l6(D,15,19,E>L<D,23,27,E) Ig(D,24,28,E></td></tr></table></body></html>
+
+# 3 查询算法
+
+定义9的第c点给出了查询的思路。对于从站点 $s$ 到站点$d$ 的、出发时刻不早于 $\pi$ 、到达时刻不晚于 $\pi ^ { \prime }$ 的 SDP 查询 $q$ 算法在 TAIL 索引的 $L _ { + } ( s )$ 中找到出发时刻 $\geq \pi$ 的标签$l _ { + } = \langle u , \pi _ { \mathit { d e p t } } , \pi _ { \mathit { a r r } } , \cdot \rangle$ ，和在 $L _ { - } ( d )$ 中找到到达时刻 $\leq \pi ^ { \prime }$ 的标签$l _ { _ - } = \langle u ^ { \prime } , \pi ^ { \prime } { } _ { d e p t } , \pi ^ { \prime } { } _ { a r r } , \cdot \rangle$ ，如果 $u = u ^ { \prime }$ 且 $\pi _ { a r r } \leq \pi _ { d e p t } ^ { \prime }$ ，则 $l _ { + }$ 和 $l _ { - }$ 拼接的路径是 $q$ 的候选解。算法找出所有候选解，再从中选出符合查询 $q$ 的解。这个求解过程类似数据库的连接操作。对于EAP查询，取 $\pi ^ { \prime } = \infty$ ；对于LDP 查询，取 $\scriptstyle \pi = 0$ 。由于标签集合内的标签已排好序，所以可以通过线性扫描 $L _ { + } ( s )$ 和 $L _ { - } ( d )$ 的集合找出所有候选解。例如查询从 $s$ 到 $E$ 的、出发时刻不早于3、到达时刻不晚于30的SDP，对应表3，首先在 $L _ { \ast } ( S )$ 扫描第一个标签 $l _ { 1 }$ ，在 $L _ { - } ( E )$ 中扫描第一个标签 $l _ { 6 }$ ， $l _ { 1 }$ 和 $l _ { 6 }$ 能构成路径，得到候选解，用 $l _ { 1 } + l _ { 6 }$ 表示。由于 $L _ { - } ( E )$ 中起点为 D 的标签${ ( l _ { 6 } , l _ { 7 } , l _ { 8 } ) }$ 是按到达时刻升序排列的，因此没必要再配对 $l _ { 1 }$ 和 $l _ { 7 } , l _ { 8 }$ 因为它们不可能生成更优的解。接下来，扫描 $L _ { \ast } ( S )$ 中的下一个标签 $l _ { 2 }$ ，同时也扫描 $L _ { - } ( E )$ 中的下一个标签 $l _ { 7 }$ 。因为 $l _ { 2 }$ 和 $l _ { 7 }$ 不能构成路径，所以只能再扫描 $L _ { - } ( E )$ 中的下一个标签 $l _ { 8 }$ ，得到又一条候选路径，用 $l _ { 2 } + l _ { 8 }$ 表示。至此 $L _ { - } ( E )$ 的标签扫描完毕，查询结束。在 $l _ { \mathrm { { l } } } + l _ { \mathrm { { 6 } } }$ 和 $l _ { 2 } + l _ { 8 }$ 两者中， $l _ { 1 } + l _ { 6 }$ 的耗时最短，为查询 $q$ 的解。算法详情请参考文[1]。
+
+上述算法只能得到解的标签，设来自 $L _ { + } ( s )$ 的标签记为 $l _ { + } ^ { o p t }$ ，来自 $L _ { - } ( d )$ 的标签记为 $l _ { - } ^ { o p t }$ ，需要用标签重构回包含换乘详细信息的完整路径。因为TAIL与TTL生成基本路径的方法不同，所以对路径标记的方法也不同。设 $l _ { + } ^ { o p t }$ 表示的路径的目标点(即$l _ { - } ^ { o p t }$ 表示的路径的起始点)是 $\nu$ ，则查询 $q$ 生成的路径路过的等级最高的站点是 $\mathbf { \Phi } _ { \nu }$ 。以 $l _ { + } ^ { o p t }$ 为例解释重构路径的过程。假设 $l _ { + } ^ { o p t }$ 对应路径 $P = s \circledast t _ { 1 } , w \circledast t _ { 2 } , \cdot \cdot \cdot , \nu$ ， $l _ { + } ^ { o p t }$ 记录下站点第一个换乘 $w$ 。例如表3中的标签 $l _ { 1 } \langle 4 , 1 4 , A \rangle$ 表示的路径是$S @ t _ { 2 } , A @ t _ { 5 } , F @ t _ { 4 } , D$ ，所以 $l _ { 1 }$ 记录下站点 $A$ 。可证明 $L _ { \ast } ( w )$ 包含一条标签 $l _ { s u b }$ ， $l _ { s u b }$ 对应一条从 $w$ 到 $\nu$ 的、出发时刻不早于$\pi _ { a r r } ( t _ { 1 } , w )$ 、到达时刻不晚于 $\pi _ { a r r } ( P )$ 的基本路径。这是因为：
+
+a) $P$ 是 $L _ { + } ( s )$ 中的标签对应的基本路径，所以 $P$ 路过的站点中， $\nu$ 的等级最高，路径 $P$ 的后缀 $P _ { s u b } = w @ t _ { 2 } , \cdots , \nu$ 满足站点的等级约束。
+
+b） $P _ { s u b }$ 是一条出发时刻不早于 $\pi _ { a r r } ( t _ { 1 } , w )$ 、到达时刻等于$\pi _ { a r r } ( P )$ 的路径。若不存在路径 $P$ 支配 $P _ { s u b }$ ，结合(1)，则 $P _ { s u b }$ 在$L _ { _ { + } } ( w )$ 内。否则，设存在路径 $P$ 支配 $P _ { s u b }$ ，证明 $l _ { s u b }$ 对应 $P ^ { \prime }$ 。分两种情况讨论：(a)如果 $P$ 的站点满足等级约束，则 $P$ 是基本路径，所以 $l _ { s u b }$ 对应 $P ^ { \prime } ; ( \boldsymbol { \mathsf { b } } )$ 如果 $P$ 的站点不满足等级约束，即 $P ^ { \prime }$ 上路过某个站点的等级比 $\nu$ 高；另一方面，在 $P$ 中用 $P$ 代替$P _ { s u b }$ ，与 $l _ { - } ^ { o p t }$ 能拼接上路径，构成的路径也是查询 $q$ 的解，这与“查询 $q$ 生成的路径路过的等级最高的站点是 $\nu ^ { * }$ 矛盾。
+
+因此，已知 $l _ { + } ^ { o p t }$ 的第一个换乘点是 $w$ ，必定能在 $L _ { \mathrm { * } } ( w )$ 下找到标签重构 $w @ t _ { 2 } , \cdots , \nu$ 这段子路，这只需要在 $L _ { \ast } ( w )$ 下调用一次二分查找即可。对 $l _ { - } ^ { o p t }$ 的重构同理。假设查询结果是长度为 $k$ 趟旅程的路径，则 $l _ { + } ^ { o p t }$ 和 $l _ { - } ^ { o p t }$ 最多需要 $k$ 次二分查找即可重构完整路径。
+
+# 4 构建索引
+
+# 4.1基于旅程扫描的查询算法
+
+RAPTOR[4]的全称是Round-bAsed Public Transit OptimizedRouter，顾名思义，算法的思想是“一轮接一轮"地查找最早到达路径，所谓"轮"指一次从上车到下车的乘坐过程。第一轮，算法扫描途径起始站点的每一条线路，发现从起始站点直达的站点，更新它们的最早到达时刻，把它们的集合记为 $Q _ { 1 }$ 。换句话说，当前找到的到达 $Q _ { 1 }$ 中的站点的路径，都是长度为1趟旅程的路径。接下来，RAPTOR如是重复以下步骤：令 $Q _ { k }$ 表示经过$k$ 轮乘坐后到达的、且到达时刻比经过 $i ( i < k )$ 轮乘坐的更早的站点的集合，即到达 $Q _ { k }$ 中的站点 $u$ 的路径，是长度为 $k$ 趟旅程的路径，而且比长度为 $i ( i < k )$ 趟旅程的路径都早到达。扫描途径 $u$ 中的站点的线路，有可能发现 $k + 1$ 轮到达的、到达时刻更早的站点，生成集合 $\boldsymbol { Q } _ { k + 1 }$ 。换句话说，RAPTOR从 $k = 1$ 开始，先求出长度为 $k$ 趟旅程的最早到达路径，再求出长度为 $k + 1$ 趟旅程的最早到达路径。这个过程有点类似图的广度优先遍历。
+
+假设到达站点 $\nu$ 的最早到达路径需要经过站点 $\boldsymbol { u }$ ，那么，在 $u$ 的EAP计算出来之前，用站点 $\boldsymbol { u }$ 去扩展路径的工作是徒劳的。譬如在图2中，从站点 $s$ 到达 $E$ 的出发时刻不早于3的路径有 $S @ t _ { 2 } , A @ t _ { 5 } , F @ t _ { 4 } , D @ t _ { 1 } , E$ 和 $S \ @ t _ { 2 } , E$ ,其中前者是EAP。到达 $E$ 的路径需要途径 $D$ ，而 $D$ 的最早到达时刻会影响 $E$ 的最早到达时刻，进而会影响从 $E$ 出发的路径（如果公交网络中还有从 $E$ 出发的路径的话)。RAPTOR 需要等到第3轮才能找到到达 $D$ 的EAP $S \circledast t _ { 2 } , A \circledast t _ { 5 } , F \circledast t _ { 4 } , D$ ，即是说，在第2、3轮扩展站点 $D$ 及 $D$ 出发的路径都是徒劳。因此，本文的算法去掉扩展路径时的轮数限制，仅用集合 $\boldsymbol { \mathcal { Q } }$ 记录到达时刻得到更新的站点的集合，初始时 $\boldsymbol { \mathcal { Q } }$ 仅包含起始站点。取 $\boldsymbol { \mathcal { Q } }$ 中的站点 $u$ 出来扩展路径，若发现新扩展的路径能更早地到达站点 $\nu$ ，则将 $\nu$ 加进 $\boldsymbol { \mathcal { Q } }$ ，如此重复直到 $\boldsymbol { \mathcal { Q } }$ 为空。这样能部分减少无谓的路径扩展。
+
+算法1描述了查找从 $s$ 到 $d$ 的、出发时刻不早于 $\pi$ 的EAP的过程。算法用 $\tau ( u )$ 记录当前找到的到达站点 $\boldsymbol { u }$ 的最早时刻。初始时， $s$ 的最早到达时刻设为 $\pi$ ，其它站点的最早到达时刻设为 $\infty$ (第1行)。算法用符号 $\lambda _ { r , u }$ 记录线路 $\boldsymbol { r }$ 上的站点 $\boldsymbol { u }$ 被扫描过的最早的旅程是哪一条。在后续计算过程中，当扫描 $\boldsymbol { r }$ 上从 $\boldsymbol { u }$ 出发的旅程时，只需要扫描 $\prec \lambda _ { r , u }$ 的旅程即可：因为 $\lambda _ { r , u }$ 的取值意味着算法已经用旅程 $\lambda _ { r , u }$ 检查 $\boldsymbol { r }$ 上在 $u$ 之后的站点 $\nu$ ，使得的 $\nu$ 最早到达时刻不会晚于 $\pi _ { a r r } ( \lambda _ { r , u } , \nu )$ 。因此，当再次从 $\boldsymbol { r }$ 上的站点 $u$ 开始扫描旅程时，只有的 $\prec \lambda _ { r , u }$ 旅程才有可能使得 $\tau ( \nu )$ （204号变小。算法通过记录 $\lambda _ { r , u }$ 限制旅程被重复扫描。初始时 $\lambda _ { r , u }$ 设为 $t _ { \top }$ ，它表示旅程的最大元，即对所有旅程 $t$ ，均有 $t \prec { t _ { \intercal } }$ (第2行)。
+
+算法1． $F i n d E A P ( \mathcal { T } , s , \pi )$
+
+输入：起始站点 $s$ ，时刻 $\pi$ □
+
+输出：在不早于 $\pi$ 时刻从 $s$ 出发到达其余站点的EAP的到达时  
+刻。  
+1. 令 $\tau ( s ) = \pi$ ,对于 $s ^ { \prime } \in S - \{ s \}$ ，令 $\tau ( s ^ { \prime } ) = \infty$ 。  
+2. 对于所有的 $\boldsymbol { r }$ ，设 $\boldsymbol { u }$ 是 $\boldsymbol { r }$ 上的站点。令 $\lambda _ { r , u } = t _ { \top }$ 。  
+3. 令 $\sigma ( s ) = n i l$ 。  
+4. 令集合 $Q = \{ s \}$ 。  
+5. while $\boldsymbol { \mathcal { Q } }$ 非空  
+6. 从 $\boldsymbol { Q }$ 取出一个站点 $\smash { u _ { \circ } }$   
+7. foreach 途径 $\boldsymbol { u }$ 的线路 $\boldsymbol { r }$   
+8. 设 $p$ 是满足 $p \prec \lambda _ { r , u }$ 且 $\pi _ { d e p t } ( p , u ) \geq \tau ( u )$ 的最早的旅程。  
+如果 $p$ 不存在，转 $7 。$ （204号  
+9. 扫描 $p$ ，从 $\boldsymbol { u }$ 点开始依次访问后继站点 $\nu$   
+10. if $\lambda _ { r , \nu }$ 等于 $p$ ，停止扫描 $p$ ，转7。  
+11. if $\pi _ { a r r } ( p , \nu ) < \tau ( \nu )$   
+12. 令 $\tau ( \nu ) = \pi _ { a r r } ( p , \nu )$ ， $\sigma ( \nu ) = u$   
+13. 令 $\lambda _ { r , \nu } = p$ 。  
+14. 将 $\nu$ 加进 $\boldsymbol { \mathcal { Q } }$ 。
+
+15．返回所有站点的最早到达时刻 $\tau ( \cdot )$ 。
+
+算法用 $\sigma ( u )$ 记录在到达 $\boldsymbol { u }$ 之前的换乘站点，初始时 $\sigma ( s )$ 设为空(第3行)。接下来，算法反复从集合 $\boldsymbol { \mathcal { Q } }$ 取出站点扩展路径。在扩展站点转乘的路径时，对于每一条路过 $u$ 的线路 $\boldsymbol { r }$ （第7 行)，如果存在比之前扫描过的更早的旅程 $p$ ，满足 $p$ 上 $\boldsymbol { u }$ 的出发时刻不早于 $\boldsymbol { u }$ 的到达时刻(第8行)，则沿线更新 $u$ 之后的站点 $\nu$ 的到达时刻(第9\~14行)。如果发现乘坐旅程 $p$ 到达 $\nu$ 的时刻比之前找到的更优(第11 行)，则更新 $\tau ( \nu ) = \pi _ { a r r } ( p , \nu )$ ，并记录 $\nu$ 是通过在 $\boldsymbol { u }$ 点换乘到达的(第12行)，记录下线路 $\boldsymbol { r }$ 上站点 $\nu$ 扫描过的最早旅程是 $p$ (第13行)，将 $\nu$ 加进 $\boldsymbol { \mathcal { Q } }$ (第14行)。当再没有站点的最早到达时刻有更新时，算法结束，返回站点的最早到达时刻 $\tau ( \cdot )$ (第15行)。
+
+假设在图2的例子中，查找从站点 $s$ 到站点 $E$ 的、出发时刻不早于3的EAP，表4列出了求解过程。第一列 $u @ t$ 表示扫描旅程 $t$ ，从站点 $\boldsymbol { u }$ 开始沿线更新 $\boldsymbol { u }$ 之后的站点的最早到达时刻。第二列表示扫描 $t$ 后生成的集合 $\boldsymbol { Q }$ ，第三列列出扫描 $t$ 后更新了的站点的最早到达时刻。表4仅列出算法扫描过的的旅程。例如在第2行处理完 $A$ 站点之后，该从 $\boldsymbol { \mathcal { Q } }$ 取出 $B$ 。因为路过 $B$ 的线路 $r _ { 1 }$ ，满足出发时刻 $\geq 1 4 ( B$ 的到达时刻)的旅程还是$t _ { 2 }$ ，而之前在扫描 $S \ @ t _ { 2 }$ 的时候已经记录下 $\lambda _ { r _ { 1 } , B } = t _ { 2 }$ ，所以 $t _ { 2 }$ 不会重复被扫描。
+
+表4在图2中查找从 $s$ 到 $E$ 、出发时刻不早于3的EAP的过程  
+
+<html><body><table><tr><td>u@t</td><td>q</td><td>更新的各站点的最早到达时刻</td></tr><tr><td>s@t2</td><td>{A,B,C,D,E}</td><td>A:7,B:14,C:20,D:23,E:27</td></tr><tr><td>A@ts</td><td>{B,C,D,E,F,I}</td><td>F:10,1:12</td></tr><tr><td>F@t4</td><td>{I,D,G}</td><td>D:14, G:17</td></tr><tr><td>D@t</td><td>{G,E}</td><td>E:19</td></tr></table></body></html>
+
+对称地，可得到算法 $F i n d L D P ( \mathcal { T } , d , \pi )$ 查询从其余站点出发、在 $\pi$ 时刻到达站点 $d$ 的最晚出发路径。FindLDP从目标站点 $d$ 开始反向扩展路径，求得每个站点 $u$ 要在 $\pi$ 时刻到达 $d$ 的话，最晚出发时刻 $\tau ( u )$ 。具体地，初始时集合 $Q = \{ d \}$ ，每次从$\boldsymbol { Q }$ 取出一个站点 $u$ ，扩展每条途径 $\boldsymbol { u }$ 的线路 $\boldsymbol { r }$ ；找到 $\boldsymbol { r }$ 下的满足$\pi _ { a r r } ( p , u ) \leq \tau ( u )$ 最晚的旅程 $p$ ，从 $u$ 开始，沿着 $p$ 反向扫描 $u$ 的前驱站点 $\nu$ ，更新 $\tau ( \nu )$ 。
+
+# 4.2换乘次数
+
+由于算法1通过扫描旅程的方式生成路径，所以在一定程度上保持了旅程的完整性。在算法1中，换乘次数少的路径先被发现，换乘次数多的路径后被发现，如果换乘次数多的路径不能改进目标点的最早到达时刻，则仍保留换乘次数少的路径，进而减少了路径的换乘次数。以图2和表1的公交网络为例解释，假设 $t _ { 4 }$ 到达和离开 $D$ 的时刻改成16和16，求解在8时刻或之后从 $A$ 出发的EAP。TTL找到的路径是$A @ t _ { 5 } , F @ t _ { 4 } , D @ t _ { 2 } , E$ ，到达时刻是27。TAIL第一步扫描路过$A$ 的旅程有 $t _ { 2 }$ 和 $t _ { 5 }$ ，在扫描 $t _ { 5 }$ 时已经得到路径 $A @ t _ { 5 } , E$ (换乘次数少的路径)，以及 $\tau ( E ) = 2 7$ 。在随后的扫描，得到路径$A @ t _ { 5 } , F @ t _ { 4 } , D _ { \mathbf { \Omega } , \tau ( D ) = 1 6 }$ 。再次扫描路过 $D$ 的旅程时， $t _ { 2 }$ 已在$D$ 点被扫描过；另一方面，通过更多次换乘、到达时刻也比$\pi _ { \boldsymbol { a r r } } ( t _ { 2 } , D )$ 早的路径 $A @ t _ { 5 } , F @ t _ { 4 } , D$ 沿 $r _ { \mathrm { { l } } }$ 线能走的最早的旅程仍然是 $t _ { 2 }$ ，即不能改进 $E$ 的到达时刻，所以到达 $E$ 的路径$A @ t _ { 5 } , E$ 仍然保留，不会被替换。
+
+# 4.3生成标签集合
+
+TAIL索引需要计算时间表 $\tau$ 中的所有基本路径，本节讨论如何不遗漏地、高效地找出所有基本路径。设 $s$ 中站点的等级从高到低排序依次为 $s _ { 1 } , s _ { 2 } , \cdots , s _ { n }$ ，即对于站点 $s _ { i }$ ， $s _ { 1 } , \cdots , s _ { i - 1 }$ 的等级比 $s _ { i }$ 的高， $s _ { i + 1 } , \cdots , s _ { n }$ 的等级比 $s _ { i }$ 的低。设Ⅱ表示时间表 $\tau$ （204号中 $s _ { i }$ 的出发时刻的集合。对于所有的 $\pi \in \Pi$ ，在 $\pi$ 时刻从 $s _ { i }$ 出发的EAP可分成两类：第一类路径不途径集合 $\{ s _ { 1 } , \cdots , s _ { i - 1 } \}$ 中的站点，它们可能是基本路径；第二类路径途径 $\{ s _ { 1 } , \cdots , s _ { i - 1 } \}$ 中的站点，它们违反了站点的等级约束，不是基本路径。对于第二类路径 $P$ ，设 $P _ { p r e }$ 是 $P$ 上从起点 $s _ { i }$ 到 $s ( s \in \{ s _ { 1 } , \cdots , s _ { i - 1 } \}$ )的前一个站点的那截路，则 $P _ { p r e }$ 可能是基本路径。换句话说，在调用$F i n d E A P ( \mathcal T , s i , \pi )$ 求从 $s _ { i }$ 出发的 EAP 的时候，如果在扫描旅程时（FindEAP的第9行)遇到 $s \in \{ s _ { 1 } , \cdots , s _ { i - 1 } \}$ 的站点 $s$ ，则不需要再扫描 $s$ 之后的站点 $\nu$ ，因为到达 $\nu$ 的路径需要路过 $s$ ，它不可能是基本路径。算法2描述了建立索引的过程，第4\~11行描述了求从 $s _ { i }$ 出发的基本路径的具体过程。
+
+算法2. BuildIndex $( \mathcal { T } , o )$
+
+输入：时间表 ${ \mathcal { T } } \mathrm { = } ( S , R , T )$ 和站点序 $\mathbf { \sigma } _ { o }$
+
+输出：TAIL索引。
+
+1. 对于所有站点 $u , L _ { + } ( u )$ 和 $L _ { ☉ } ( u )$ 都初始化为 $\varnothing$ 。
+
+2. for $i = 1 , 2 , \cdots , n$
+
+3. 设 $s _ { i }$ 是序为 $i$ 的站点，即 $o ( s _ { i } ) = i$ 。
+
+4. 设Ⅱ表示所有从 $s _ { i }$ 出发的时刻的集合，即 $\Pi = \{ \pi _ { d e p t } ( t , s _ { i } ) \vert s _ { i }$ 是旅程 $t$ 途径的站点}。
+
+5. 令 $\tau ( s _ { i } ) = \pi$ ,对于 $s ^ { \prime } \in S - \{ s _ { i } \}$ ，令 $\tau ( s ^ { \prime } ) = \infty$
+
+6. 对于所有的 $\boldsymbol { r }$ ，设 $\boldsymbol { u }$ 是 $\boldsymbol { r }$ 上的站点。令 $\lambda _ { r , u } = t _ { \top }$ 0  
+7. 按时刻从晚到早的顺序访问每个 $\pi \in \Pi$
+
+8. 调用 $F i n d E A P ( \mathcal { T } , s _ { i } , \pi )$ ，作以下两个改动：(1）从第3行开始调用；(2）第10行增加停止条件：如果 $\lambda _ { r , \nu }$ 等于 $p$ ，或 $o ( \nu ) < o ( s _ { i } )$ ，停止扫描 $p$
+
+9. foreach 站点 $s$ ： $o ( s ) > o ( s _ { i } )$
+
+10.
+
+$$
+l = \langle s , \pi , \tau ( s ) , \sigma ( s ) \rangle
+$$
+
+11. ifl均满足以下两个条件：(1）在 $L _ { _ - } ( s )$ 中不存在标签（204号 $l ^ { \prime } = \langle s , \cdot , \pi _ { a r r } , \cdot \rangle$ ，使得 $\pi _ { a r r } \leq \tau ( s )$ ；(2)不存在$l _ { + } = \langle \nu , \pi _ { d e p t } ^ { + } , \pi _ { a r r } ^ { + } , \cdot \rangle \in L _ { + } ( s _ { i } )$ ，， $l _ { - } = \langle \nu , \pi _ { d e p t } ^ { - } , \pi _ { a r r } ^ { - } , \cdot \rangle \in L _ { - } ( s )$ ，（204号 $\pi _ { a r r } ^ { + } \leq \pi _ { d e p t } ^ { - }$ ，且 $[ \pi _ { d e p t } ^ { + } , \pi _ { a r r } ^ { - } ] \subset [ \pi , \tau ( s ) ]$ 在，则将 $\mathbf { \xi } _ { l }$ 添加进 $L _ { - } ( s )$ 中。12. 重复第4\~11行，设 $\Pi$ 是所有到达 $s _ { i }$ 的时刻的集合，即$\Pi = \{ \pi _ { a r r } ( t , s _ { i } ) \vert s _ { i }$ 是旅程 $t$ 途径的站点}。对 $\Pi$ 中的所有时刻 $\pi$ ，按从晚到早的顺序调用 $F i n d L D P ( \mathcal { T } , s _ { i } , \pi )$ ，与第8行做类似的改动，生成标签集合。
+
+13. 返回所有站点的标检集合。
+
+在求从 $s _ { i }$ 出发的基本路径的时候，一种直观的做法是求出在IⅡI中任意时刻 $\pi$ 从 $s _ { i }$ 出发的EAP，再把被支配的EAP去掉，但这样作会产生很大的计算量。留意到在 $\pi$ 时刻出发的路径仅可能被 $\pi ^ { \prime } ( \pi ^ { \prime } \geq \pi ) $ 时刻出发的路径支配，因此，可以按照Ⅱ中的时刻从晚到早的顺序生成EAP，新生成的EAP仅可能被已生成的EAP支配，于是通过检查已生成的EAP判断新生成的EAP是否是基本路径，决定是否将它加进标签集合。
+
+设 $\pi _ { m a x }$ 是Ⅱ中的最大元。在调用完 $F i n d E A P ( T , s _ { i } , \pi _ { m a x } )$ 之后， $\tau ( s )$ 即为在 $\pi _ { m a x }$ 时刻从 $s _ { i }$ 到 $s$ 的最早到达时刻， $\lambda _ { r , u }$ 表示途径线路 $\boldsymbol { r }$ 上的站点 $u$ 的最早的旅程是哪条。在下一趟求在 $\pi ^ { \prime }$ （ $\pi ^ { \prime } < \pi _ { m a x }$ )时刻出发的EAP的时候，可以延用 $\tau ( s )$ 和 $\lambda _ { r , u }$ 的值。
+
+这是因为：已找到路径 $P$ 在 $\pi _ { m a x }$ 时刻从 $s _ { i }$ 出发、在 $\tau ( s )$ 时刻到达 $s$ ，那么，若在 $\pi ^ { \prime }$ 时刻从 $s _ { i }$ 出发、到达 $s$ 的路径 $P$ 的到达时刻 $\geq \tau ( s )$ ，则 ${ \bf \nabla } \mathrm { P ^ { \prime } }$ 被P支配，于是没必要再扩展 ${ \bf \nabla } \mathrm { \bf P ^ { \prime } }$ ，因为扩展 ${ \bf \nabla } \mathrm { \bf P ^ { \prime } }$ 不会得到比扩展 $\mathrm { ~ \bf ~ P ~ }$ 更优的路径。对 $\lambda _ { r , u }$ 的初始化同理。因此，算法2仅在第5、6行对 $\tau ( s )$ 和 $\lambda _ { r , u }$ 做初始化，随后，按照时刻从晚到早的顺序调用 $F i n d E A P ( \mathcal { T } , s _ { i } , \pi )$ (第7、8行)。调用完$F i n d E A P ( \boldsymbol { T } , s _ { i } , \pi )$ 后，检查每个等级比 $s _ { i }$ 低的站点 $s ($ 第9行)，生成在 $\pi$ 时刻从 $s _ { i }$ 出发、在 $\tau ( s )$ 时刻到达 $s$ 的标签(第10行)。如果 $l$ 不被 $L _ { - } ( s )$ 中的标签对应的路径支配(第11行的条件1),也不被从 $s _ { i }$ 到 $s$ 路过更高等级的点的路径支配(第11行的条件2)，则将 $l$ 加进 $L _ { - } ( s )$ 中。
+
+算法第12行采用与第4\~11行逆向的方式，调用FindLDP，找出到达 $s _ { i }$ 的LDP，从中求出基本路径，由于篇幅关系不再赘述。
+
+# 4.4站点等级序o的计算
+
+尽管站点的等级序 $\mathbf { \sigma } _ { o }$ 的选取不影响查询结果的正确性，但会影响索引所包含的标签数目，进而影响查询效率。要精确计算出 $\mathbf { \sigma } _ { o }$ ，使得索引所包含的的标签数最少是一个NP-难的问题。本文沿用文[1]的方法，对 $\mathbf { \sigma } _ { o }$ 进行启发式计算。如果一个站点 $u$ 在一条EAP $P$ 上,称 $u$ 覆盖 $P$ 。从 $\boldsymbol { u }$ 出发的标签和到达 $u$ 的标签可以生成部分路过点 $u$ 的EAP。所以，直观地， $u$ 覆盖的EAP越多， $\boldsymbol { u }$ 的等级就应该越高，这样 $\boldsymbol { u }$ 出发的和到达 $\boldsymbol { u }$ 的标签就可以生成越多的EAP。由于EAP太多逐一枚举耗费太大，所以采用这样的方法计算站点等级序 $\mathbf { \sigma } _ { o }$ 随机生成一个站点集合$S _ { s u b } \subset S$ ，对 $S _ { s u b }$ 中的每个站点 $u$ ，随机生成一个时刻 $\pi$ ,调用$F i n d E A P ( \mathcal T , u , \pi )$ 求出 $u$ 到其余站点的 EAP，这些EAP 构成一棵以 $\mathbf { \Omega } _ { u }$ 为根的树，这样一共有 $| S _ { s u b }$ |棵树。对于每棵树，留意到树上的顶点 $\nu$ 到 $\nu$ 的子孙的路径也是EAP，因此 $\nu$ 覆盖的EAP数目等于以 $\nu$ 为根的子树所包含的顶点数，包括 $\nu$ 自身。如是统计各个站点 $u$ 在 $| S _ { s u b }$ I棵树覆盖的EAP总数。算法首先选出覆盖EAP数最多的点 $s _ { 1 }$ 作为等级最高的站点；然后在每棵树中删除以 $s _ { \mathrm { l } }$ 为根的子树，再更新各个站点覆盖的EAP数，选择剩下的子树中覆盖EAP数目最大的站点 $s _ { 2 }$ 作为等级次高的站点，依次类推。若 $| S _ { s u b }$ 「棵树被删除完后，仍有站点的等级未定，站点所在的旅程总数多的等级排在前列。
+
+# 5 实验
+
+实验采用 $\scriptstyle { \mathrm { C } } + +$ 语言编写测试代码，测试平台是Centos7.0，机器配置CPUIntel(R)Xeon(R CPUE5-2640 v4，内存 $6 4 \mathrm { G B }$ 。实验数据来自GTFS[5]。GTFS提供了某些地区的真实的公交数据，数据格式与本文讨论的时间表 $\tau$ 的格式一致。GTFS中对时间采用"时：分：秒"的格式表示，在实验中转换成以秒为单位的整数表示，例如:"9:10:06"用整数33006表示。因为部分GTFS数据中，同一条线路下的旅程不满足 $\prec$ 关系，所以把这些旅程拆分成不同线路处理。TTL算法基于图结构，用GTFS数据生成图。
+
+数据集的大小如表5所示，对于每个数据集，TAIL的站点数等于 TTL 的顶点数。
+
+表5数据集大小  
+
+<html><body><table><tr><td rowspan="2">数据集</td><td colspan="2">TAIL</td><td colspan="2">TTL</td></tr><tr><td>线路数</td><td>旅程数</td><td>顶点数</td><td>边数</td></tr><tr><td>Austin</td><td>0.36K</td><td>11.7 K</td><td>2.6K</td><td>363K</td></tr><tr><td>Budapest</td><td>1.8K</td><td>114.7K</td><td>7.2K</td><td>1971 K</td></tr><tr><td>Houston</td><td>0.5K</td><td>17.4 K</td><td>8.9K</td><td>1077K</td></tr><tr><td>Denver</td><td>1.3K</td><td>30.7K</td><td>9.3K</td><td>1160 K</td></tr><tr><td>Saint</td><td>2.2 K</td><td>261.6K</td><td>7.3K</td><td>2863K</td></tr><tr><td>Petersburg Rome</td><td>1.5K</td><td>100.8 K</td><td>9.1K</td><td>3004K</td></tr><tr><td>Toronto</td><td>1.7K</td><td>91.3K</td><td>10.3K</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>3755K</td></tr><tr><td>Berlin</td><td>15.7K</td><td>169.3K</td><td>39.9K</td><td>3377K</td></tr></table></body></html>
+
+实验从建立索引的时间、生成索引的大小、查询时间和生成路径的换乘次数比较TAIL和TTL索引。因为TAIL和TTL索引的思想相似，区别在于生成索引的算法不一样，所以TAIL和TTL索引大小、查询时间相仿，由于篇幅关系本文不再罗列索引大小和查询时间的数据。下面从建立索引的时间和生成路径的长度对比TAIL和TTL。
+
+# 5.1建立索引的时间
+
+TAIL和TTL索引的建立都需要基于顶点/站点的等级序$\mathbf { \sigma } _ { o }$ 。实验首先对每个数据集生成等级序 $\mathbf { \sigma } _ { o }$ ，然后对TAIL和TTL生成索引。索引生成两遍，时间取两次实验的平均值。TAIL 和TTL生成索引的时间如图3所示，纵轴显示以s为单位。
+
+![](images/b527915ed27563f3e064540cb9b812252f9e71c9e70f41302e353c883546babf.jpg)  
+(a) 前四组数据
+
+![](images/7d5ad4cbd2bf793c96fa3a949fc442ac88a71758166b3ccb5c45319ed05a8524.jpg)  
+图3建立索引的时间
+
+从图3可得，TAIL建立索引的时间总体比TTL的小，原因在于两点：a)TAIL反复用O(1)的时间从集合取一个站点出来扩展路径，而TTL需要反复从最小堆用 $\operatorname { O } ( \log n )$ 的时间取一个站点；b)在按出发时刻从最晚到最早的顺序求从站点 $s _ { i }$ 出发的基本路径的时候，TAIL 利用了在 $\pi$ 时刻计算的 $\lambda _ { r , s }$ 的值避免重新搜索旅程。
+
+此外，TAIL建立索引所花的时间与平均一条线路包含旅程数和平均一条线路上的站点数(即站点数/线路数)相关。以求从 $s _ { i }$ 出发的 EAP 为例解释其原因。首先， $F i n d E A P ( \mathcal T , s , \pi )$ 第8行在同一条线路下查找满足时间约束的最早的旅程来更新站点的最早到达时刻。如果一条线路包含的旅程数越多，此步骤所排除的旅程数(排除那些不能生成EAP的旅程)也越多，因此建立索引的时间越短，例如数据集Budapest和Rome。其次，平均一条线路的站点数越多，TAIL和TTL建立索引的时间差就越明显；而平均一条线路上的站点数越少，TAIL和TTL建立索引的时间差别越少，甚至TAIL花的时间略超过TTL的。像Berlin这组数据的线路数很多(线路数多是因为同一线路下存在多条旅程不满足<关系，被拆分成多条线路处理)，平均扫描一次旅程所更新的站点数也不足3个(39.9K/15.7K）；同时TAIL需要扫描路过各站点的各条线路，Berlin的站点数和线路数都很大，所以计算量较大。相比之下，TTL 虽然用O(log n)的复杂度取站点出来扩展，但能保证取出来的站点的最早到达时刻是正确的，省去了反复扫描线路的计算。
+
+# 5.2换乘次数
+
+对每组数据，实验随机生成100,000个查询。每个查询包含起始站点、目标站点和出发时刻。实验分别对TAIL和TTL执行这100,000个查询求EAP，然后重构每条路径，得到路径的换乘次数。部分查询返回无解，仅统计有解的路径的平均换乘次数，如表6所示。TAIL索引生成的路径的平均换乘次数都比TTL的少，其中Denver和Berlin两组数据的对比尤为明显。原因如第4.2节中所分析，TAIL在生成索引的时候按旅程扫描路径，保持了旅程的完整性。而TTL索引基于图结构，图结构并没能有效地表达出旅程完整性，因此TTL生成的路径换乘次数偏多。
+
+表6各数据集的路径平均换乘次数  
+
+<html><body><table><tr><td>数据集</td><td>TAIL</td><td>TTL</td></tr><tr><td>Austin</td><td>5.37</td><td>8.27</td></tr><tr><td>Budapest</td><td>9.52</td><td>20.94</td></tr><tr><td>Houston</td><td>5.09</td><td>7.4</td></tr><tr><td>Denver</td><td>6.86</td><td>27.57</td></tr><tr><td>Saint Petersburg</td><td>8.56</td><td>13.93</td></tr><tr><td>Rome</td><td>7.68</td><td>10.47</td></tr><tr><td>Toronto</td><td>6.26</td><td>10.19</td></tr><tr><td>Berlin</td><td>7.04</td><td>26.83</td></tr></table></body></html>
+
+# 6 相关工作
+
+近年关于公交网络下的路径规划问题有大量的研究工作，这些工作大多数用图结构表示公交网络。Pyrga 等人提出了两种图模型：时间扩展模型和时间依赖模型[7]。时间扩展模型用一个顶点表示"到达(或离开)站点"事件，而时间依赖模型用一个顶点表示一个站点。实验验证，这两种模型中，时间依赖模型生成的图的规模较小，而且用Time-dependentDijkstra 算法求解更高效。Daniel等人提出了一种共享优先队列的方法[8],用多线程并行计算的方式求解给定出发时间范围的EAP。Julian等人提出的CSA算法并不采用Dijkstra 算法。CSA利用了表示公交网络的图是有向无环图的特性，将(离开站点A，到达站点B)的事件按时间排序得到一个事件数组，通过一次扫描事件数组求得EAP，避免了Dijkstra 算法的昂贵的堆操作。Wu等人提出了类似CSA 的方法[10]，并提出了一种用多线程并行计算求解的方法。上述的方法都是没有建立索引的方法，在较大规模的公交网络图中查询速度较慢。
+
+另一类算法是预先对图做预处理，计算部分路径信息生成索引，然后在索引上做查询。学者们将路网中的求解最短路径的索引思想引入公交网络中，例如有ALT[II]、SHARC[12]、CHT[13]、Public TransitLabelling[14]等等。但实验表明，这些方法虽然在路网上有效，在公交网络中的加速效果却比不上在路网下的。此外，学者还提出了结合了CSA9思想的ACSA算法[15]。Bast 等人提出一种 T.Patterms 方法，该方法预先计算出路径的换乘模式(Transferpattern)[l6]，然后根据换乘模式查找EAP但T.Patterns并不能保证精确解。TTL[1]是近期提出的一种索引，文[1]中的实验表明TTL比CHT、CSA等方法更有效。
+
+上述的方法没有考虑到路径的换乘次数，但是在路径规划中，换乘次数是个重要的问题。符等人提出了一种基于节点可达度的方法，能得到最小换乘的多条有效路径[17]。闫等人考虑换乘因素和步行因素的影响，在Dijkstra 算法的基础上引入迭代惩罚函数搜索路径[18]。Gerth 等人提出了一种多层Dijkstra 算法，能求出换乘次数为 $n$ 的最早到达路径[19]。Geroge 等人提出了一种求解换乘次数限制的近似算法[20]。Delling 等人提出的RAPTOR[4]可以在用多线程并行计算，能快速地找到换乘次数为 $n$ 的最早到达路径。但这些算法是在原图上做查询的，速度远比不上带索引的算法。关于公交网络中路径规划问题更详细的讨论可参考Bast等人写的综述文章[21]。
+
+# 7 结束语
+
+本文提出了一种基于旅程扫描和 2-Hub-Labelling 思想的TAIL索引。TAIL与TTL索引有相似的结构，因此具有相仿的索引大小与查询时间。与TTL相比，TAIL能有效地减少生成路径的换乘次数。现实公交网络中一般线路数是有限的，当线路下包含的满足<关系的旅程数越多时，TAIL建立索引的时间比TTL的越快。尽管TAIL索引能减少生成路径的换乘次数，但不能保证所得路径必定是换乘次数最少的。下一步工作将研究受换乘次数限制的最快路径的高效索引。
+
+# 参考文献：
+
+[1]Wand S,Lin Wenqing,Yang Yi,et al.Eficient route planning on public transportation networks: a labeling approach [C]//Proc of ACM SIGMOD International Conference on Management of Data.2015:967-982.   
+[2]Abraham I,Delling D,Goldberg A V,et al.Hierarchical hub labelings for shortest paths [C]//Proc of European Symposium on Algorithms.Berlin: Springer,2012: 24-35.   
+[3]Cooke K L,Halsey E.The shortest route through a network with timedependent intermodal transit times [J].Journal of Mathematical Analysis and Applications,1966,14 (3): 493-498.   
+[4]Delling D,Pajor T, Werneck R.F.Round-based public transit routing [C]/ Proc of the 14th Meeting on Algorithm Engineering and Experiments Society for Industrial and Applied Mathematics.2012:130-140.   
+[5]Google.GTFS feeds [EB/OL].http:/transitfeeds.com.   
+[6] Wang Sibo,Lin Wenqing,Yang Yi,et al. TTL source code [EB/OL]. https://sites. google. com/site/timelabelling/.   
+[7]Pyrga E,Schulz F,Wagner D,et al.Efficient models for timetable information in public transportation systems [J].Journal of Experimental Algorithmics,2008,12 (1): 2-4.   
+[8]Delling D,Katz B,Pajor T.Parallel computation of best connections in public transportation networks [J].ACM Journal of Experimental Algorithmics,2012,17(4):1-26.   
+[9]Dibbelt J,Pajor T,Strasser B,et al.Intriguingly simple and fast transit routing [C]// Proc of the 12th International Symposium on Experimental Algorithms. Berlin: Springer, 2013: 43-54.   
+[10] Wu Huanhuan,Cheng J,Huang Silu,et al.Path problems in temporal graphs [J]. Proceedings of the VLDB Endowment,2014,7(9): 721-732.   
+[11] Nannicini G,Delling D,Liberti L,et al. Bidirectional $\mathbf { A } ^ { * }$ search on timedependent road networks [J].Networks,2012,59 (2): 240-251.   
+[12] Delling D. Time-dependent SHARC-routing [J].Algorithmica, 2011,60 (1): 60-94.   
+[13] Geisberger R,Sanders P,Schultes D,et al. Exact routing in large road networks using contraction hierarchies [J].Transportation Science,2012,46 (3): 388-404.   
+[14] Deling D,Dibbelt J，Pajor T,et al.Public transit labeling [M]/ Experimental Algorithms.[S.1.] $:$ Springer International Publishing, 2015: 273-285.   
+[15] Strasser B,Wagner D.Connection scan accelerated [C]// Proc of the 16th Meeting on Algorithm Engineering and Experiments.2014: 125-137.   
+[16] Bast H,Carlsson E,Eigenwilling A,et al. Fast routing in very large public transportation networks using transfer patterns [C]// Proc of European Symposium on Algorithms.2010: 290-301,.   
+[17]符光梅，王红．基于节点可达度的公交多路径搜索算法[J].计算机应 用研究,2012,29 (12): 4492-4494.(Fu Guangmei,Wang Hong.Multi-path search algorithm in public transportation based on node accessibility [J]. Application Research of Computers,2012,29 (12): 4492-4494.)   
+[18]闫小勇，尚艳亮．基于二部图模型的公交网络路径搜索算法[J].计算 机工程与应用,2010,46(5):246-248.(Yan Xiaoyong,Shang Yanliang. Path-finding algorithm of public transport networks based on biparticle graphy model [J]. Computer Engineering and Applications,2010,46 (5): 246-248)   
+[19] Brodal G.and Jacob R.Time-dependent networks as models to achieve fast exact time-table queries [C]// Proc of the 3rd Workshop on Algorithmic Methods and Models for Optimization of Railways.2004: 3-15.   
+[20] Tsaggouris G, Zaroliagis C. Multiobjective optimization: Improved FPTAS for shortest paths and non-linear objectives with applications [C]//Proc of the 17th International Symposium on Algorithms and Computation. Berlin: Springer, 2006:389-398.   
+[21] Bast H,Delling D,Goldberg A,et al.Route planning in transportation networks [C]// Algorithm Engineering.[S.1.] : Springer,2016: 19-80.

@@ -1,0 +1,269 @@
+[
+    {
+        "type": "text",
+        "text": "不同复合相变材料用于电子器件控温性能的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "凌子夜 张正国\\*方晓明 汪双凤 高学农 徐涛华南理工大学传热强化与过程节能教育部重点实验室，广东广州，510640Tel:020-87112845 Fax:020-87113870 E-mail:cezhang@scut.edu.cn摘要：本文实验研究了两种相变温度分别为 $5 9 ^ { \\circ } \\mathrm { C }$ 和 $8 5 ^ { \\circ } \\mathrm { C }$ 的有机物/膨胀石墨复合相变材料对模拟芯片的控温性能。在模拟芯片的发热功率分别为10W、20W和25W条件下，测试了不同环境温度下两种复合相变材料对芯片的控温效果。结果表明，复合相变材料可以使模拟电子芯片的控温时间延长 $3 8 \\% \\sim 1 1 0 \\%$ ，在环境温度高达 $7 0 ^ { \\circ } \\mathrm { C }$ 的条件下也能达到控温需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：相变材料；电子散热；膨胀石墨中图分类号：TK02 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Performances of A Thermal Management System Using Different Phase Change ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials on A Simulative Electronic Chip ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ziye Ling'Zhengguo Zhang Xiaoming Fang1 Shuangfeng Wang Xuenong Gao' Tao ${ \\mathrm { X u } } ^ { 1 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.KeyLaboratoryofEnhanced HeatTransferandEnergy Conservation,theMinistryofEducation，South China Universityof Technology, Guangzhou 510640, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This work experimentally investigated the thermal management performances of two organic phase change materials(PCMs)/expanded graphite(EG) composites with phase change temperature(PCT) of $5 9 ^ { \\circ } \\mathrm { C }$ and 85 $^ { \\circ } \\mathrm { C }$ on a simulative electronic chip at diffrent ambient temperature.The heating power ofthe chip ranged from 10 W to $2 5 \\mathrm { W } .$ The results show that the PCMs help prolong the working duration of the chip under $1 0 0 ^ { \\circ } \\mathrm { C }$ by $3 8 \\%$ to （204 $1 1 0 \\%$ . Even at an extreme condition, at the ambient temperature of $7 0 ^ { \\circ } \\mathrm { C }$ , the temperature control requirement can be met. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Phase change materials; Thermal management systems for electronics; Expanded graphite ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着电子产品的微型化和高度集成化，电子芯片的发热流密度急剧上升。未来芯片的热流密度可达 $3 0 0 \\ \\mathrm { W / c m } ^ { 2 }$ ，电子设备的散热问题已成为制约电子工业发展的瓶颈[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究表明，如果电子元件的工作温度升高$1 0 ^ { \\circ } \\mathrm { C }$ ，则其可靠性就会减少 $50 \\%$ 。美国空军预测 $5 5 \\%$ 的电子元件失效都是由于温度过高引起的[2。因此，为了确保电子元件的运行可靠性和稳定性，延长电子器件的使用寿命，开发研究高效实用的电子器件散热技术也就成为了日益重要和紧迫的课题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "常用电子器件的主动散热方法主要有[3-6]：空气强制对流散热，液体冷却，热电制冷；被动散热方法主要有：自然对流散热，热管散热和相变储热散热等。传统的散热方式都有各自的优缺点，例如强制空冷的装置庞大、风扇噪声大，液冷换热系数高但是装置复杂等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "利用相变材料发生相变时的巨大相变潜热吸收芯片散发的热量，将芯片表面温度长时间保持在材料的相变温度附近，是一种新型的散热手段。由于相变材料的相变潜热大，因此即使不外加能量用于冷却，也能长时间保持器件温度恒定在安全温度之内。除了拥有被动散热不需要外加能量的优势，相变材料还具有形状可变，可用于不同外形的器件散热。Alawadhi把相变材料用于模拟电子芯片控温系统，结果表明使用了相变材料控温的系统，不仅模拟芯片的升温速率大大降低，芯片的峰值温度也比没有相变材料的散热系统降低了$1 3 . 7 \\% - 2 6 . 8 \\%$ 。Alawadhi 和 Amon[8]研究发现，使用了相变材料的温度控制单元可以极大地减小便携式电子设备的温度波动。Weng[9]等研究了热管与相变材料复合的控温系统对电子器件控温效果。研究对比了相变材料结合风冷和自然对流结合风冷的使用情况，发现相同的控温效果下，热管与相变材料结合在一起的复合控温系统可减少 $46 \\%$ 的风扇消耗。Krishnan 和Garimella[10模拟了半导体元件的热管理系统，结果显示纯的有机相变材料热导率低，控温效果较差，而把有机相变材料注入金属泡沫时，使相变材料的导热率，提高相变材料的控温能力。除了将相变材料注入金属泡沫，Zhang 等[11]提出，利用多孔性膨胀石墨吸附融熔有机物相变材料也可以提高相变材料的热导率。而且相比于金属泡沫，膨胀石墨基复合相变材料可以保证在相变材料的相变温度之上相变材料也不会发生泄露，能够保持良好的定形特性。Yin 等[12]对比了传统的强制空冷技术与有机物/膨胀石墨复合相变材料控温技术，结果表明相变材料热控系统的有效换热系数是传统强制空冷技术的 $1 . 2 5 { \\sim } 1 . 3$ 倍。使用相变材料控温的芯片表面达到热平衡时的温度在不同的芯片发热流密度下，都要比传统的强制空冷技术低$10 \\% { \\sim } 3 0 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文实验研究了相变温度分别为 $5 9 ^ { \\circ } \\mathrm { C }$ 和 $8 5 ^ { \\circ } \\mathrm { C }$ 复合相变材料用于最大加热功率为25W模拟发热芯片的控温效果。模拟芯片的控温条件设置为$1 0 0 ^ { \\circ } \\mathrm { C }$ 以内。比较了两种膨胀石墨基复合相变材料在不同发热功率及环境温度条件下对模拟芯片的控温效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1实验部分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验相变材料分别为相变温度为 $5 9 ^ { \\circ } \\mathrm { C }$ 和 $8 5 ^ { \\circ } \\mathrm { C }$ 的有机物/膨胀石墨复合相变材料，对应的相变焓为 $1 2 2 ~ \\mathrm { { \\ k J / k g } }$ 和 $1 3 0 \\mathrm { k J / k g }$ ，比热容分比为$2 . 5 \\mathrm { k J / k g ^ { \\circ } C }$ 和 $2 . 6 \\mathrm { { k J / k g ^ { \\circ } C } }$ 。模拟芯片（尺寸：2.5$\\times 2 . 5 ~ \\mathrm { c m } ^ { 2 }$ ）发热的控温装置如图1所示，分别将有机物/膨胀石墨复合相变材料填压进相变材料腔体（合金铝材质)，填压密度为 $8 0 0 \\mathrm { k g / m } ^ { 3 }$ 。相变材料腔体如图2所示，其容积为 $1 1 0 \\mathrm { m L }$ 。填压完成后，将相变材料腔体扣在加热模块上，并利用压紧片和压紧螺杆固定其位置。再将整套装置放入恒温箱，利用恒温箱控制环境温度。加热模块表面固定一个K型热电偶，热电偶连接至Agilent34970A数据采集系统，用于记录芯片表面温度，数据采集周期为$1 \\mathrm { m i n }$ 。待温度达到预设的温度上限时，关闭电源，数据采集系统继续工作直至芯片冷却至恒温箱温度。通过调节施加在模拟芯片的工作电压，可以获得不同的加热功率：15W、20W和 $2 5 \\mathrm { W }$ 。对相变温度为 $5 9 ^ { \\circ } \\mathrm { C }$ 复合相变材料的控温系统，实验的环境温度分别为 $3 5 ^ { \\circ } \\mathrm { C } , 4 5 ^ { \\circ } \\mathrm { C }$ 和 $5 0 ^ { \\circ } \\mathrm { C }$ ；对于相变温度为 $8 5 ^ { \\circ } \\mathrm { C }$ 的复合相变材料控温系统，实验的环境温度则为$5 0 ^ { \\circ } \\mathrm { C }$ 、 $6 0 ^ { \\circ } \\mathrm { C }$ 和 $7 0 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图3(a)是相变温度为 $5 9 ^ { \\circ } \\mathrm { C }$ 有机物/膨胀石墨复合相变材料控温系统中当发热功率为25W时，芯片表面温度在不同环境温度中的变化曲线，其中Ts代表环境温度。从图中可以看出，使用相变温度为$5 9 \\mathrm { ^ \\circ C }$ 的相变材料，当环境温度低于 $3 5 ^ { \\circ } \\mathrm { C }$ 时，芯片温度可以维持在实验控制的安全温度上限 $1 0 0 ^ { \\circ } \\mathrm { C }$ 以内超过2小时。当环境温度为 $4 5 ^ { \\circ } \\mathrm { C }$ 和 $5 0 ^ { \\circ } \\mathrm { C }$ 时，芯片温度将在第70分钟和第50分钟达到 $1 0 0 ^ { \\circ } \\mathrm { C }$ 。不添加相变材料的控温系统中，当环境温度为 $4 5 ^ { \\circ } \\mathrm { C }$ 和$5 0 ^ { \\circ } \\mathrm { C }$ 时，芯片温度达到安全温度上限的时间分别为46分钟和36分钟，比有相变材料的系统提前了24和14分钟。可见，相变材料的存在使得控温时间增长了 $52 \\%$ 和 $39 \\%$ 。填入空腔的相变材料质量约为$9 0 \\mathrm { g }$ ，理论上使用了相变材料后控温时间的延长受相变材料总的潜热与显热值所决定的。对于相变温度为 $5 9 ^ { \\circ } \\mathrm { C }$ 和 $8 5 ^ { \\circ } \\mathrm { C }$ 的相变材料相变潜热分别为$1 0 . 7 4 \\mathrm { k J }$ 和 $1 1 . 4 4 \\mathrm { k J }$ 。对于最严苛的条件，当环境温度为 $5 0 ^ { \\circ } \\mathrm { C }$ 时，相变材料从环境温度上升至 $1 0 0 ^ { \\circ } \\mathrm { C }$ 吸收的显热为 $1 1 . 2 5 \\mathrm { k J }$ ，显热与潜热之和为 $2 2 . 6 9 \\mathrm { k J }$ 。理论上，相变材料的存在可以使芯片温度达到安全温度上限的时间延长 $2 2 . 6 9 \\mathrm { k J } / 2 5 \\mathrm { W } { \\approx } 9 0 0 \\mathrm { s }$ ，即 $1 5 \\mathrm { m i n }$ 这个数值与实验结果基本吻合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图3（b\\~c）是加热功率分别为20W和15W时，芯片表面温度在不同环境温度中的变化曲线。从图中可以看出，在低热流密度的条件下，即使不添加复合相变材料，在低于 $5 0 ^ { \\circ } \\mathrm { C }$ 的环境温度下，芯片温度都可以稳定在安全范围内超过2hr。但是相变材料的存在可以延缓芯片温度的上升速率，降低达到热平衡时芯片表面的温度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从图3可以看出，随着芯片发热功率的增大，芯片温度上升速率增大，散热强度需求增大。相同发热功率条件下，随着环境温度的升高，芯片温度上升得越来越快，有可能超过 $1 0 0 ^ { \\circ } \\mathrm { C }$ 的安全温度。而相变材料的存在可以有效延缓芯片温升速率，降低达到热平衡时芯片表面的温度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图4(a)是相变温度为 $8 5 \\mathrm { ^ \\circ C }$ 复合相变材料控温系统在发热功率为25W时，不同环境温度下芯片表面温度的变化曲线。从图中可以看出，当环境温度高于 $5 0 ^ { \\circ } \\mathrm { C }$ ，加热功率为25W时，即使加入复合相变材料用于控温，芯片温度仍然会超过安全温度上限 $1 0 0 ^ { \\circ } \\mathrm { C }$ 。不过环境温度越低，芯片温度上升速率越慢。使用了复合相变材料控温比单纯空腔散热，在环境温度为 $5 0 ^ { \\circ } \\mathrm { C }$ 、 $6 0 ^ { \\circ } \\mathrm { C }$ 和 $7 0 ^ { \\circ } \\mathrm { C }$ 时，芯片表面温度达到 $1 0 0 ^ { \\circ } \\mathrm { C }$ 的时间要分别推迟了34、22和12 分钟，控温时间分别增长了 $94 \\%$ 、 $1 1 0 \\%$ 和 $92 \\%$ 。对于最严苛的条件，当环境温度为 $7 0 ^ { \\circ } \\mathrm { C }$ 时，相变材料从环境温度上升至 $1 0 0 ^ { \\circ } \\mathrm { C }$ 吸收的显热为 $7 . 0 2 \\mathrm { k J }$ ，潜热与显热之和为 $1 8 . 4 6 \\mathrm { k J }$ 。理论上相变材料的存在可以使控温时间延长 $1 8 . 4 6 \\mathrm { k J } / 2 5 \\mathrm { W } { \\approx } 7 4 0 \\mathrm { s }$ ，即12分钟，该值与实验值基本吻合。相变材料对于温度控制起作用的包括了显热与潜热两部分，相变材料升温总热焓值变化以及发热功率、环境温度共同决定了相变材料的温控能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图 4(b)是发热功率为 20W时不同环境温度下芯片温度的变化曲线。如图7所示，环境温度高于或等于 $6 0 ^ { \\circ } \\mathrm { C }$ 时，芯片温度仍然会超过 $1 0 0 ^ { \\circ } \\mathrm { C }$ 。同样的，环境温度越低，芯片温度上升得越慢。使用了复合相变材料控温比起单纯空腔散热，在环境温度为 $6 0 ^ { \\circ } \\mathrm { C }$ 和 $7 0 ^ { \\circ } \\mathrm { C }$ 时，芯片表面温度达到 $1 0 0 ^ { \\circ } \\mathrm { C }$ 的时间要分别推迟了34和19分钟，控温时间延长了 $89 \\%$ 和 $100 \\%$ 。而环境温度为 $5 0 ^ { \\circ } \\mathrm { C }$ 时，使用了复合相变材料控温比起单纯空腔散热系统，芯片达到平衡时的温度要低约 $2 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图4(c)是发热功率为15W时不同环境温度下芯片温度的变化曲线。从图中可以看出，对于 $7 0 ^ { \\circ } \\mathrm { C }$ 的环境温度，复合相变材料的使用可以使其温度控制在 $1 0 0 ^ { \\circ } \\mathrm { C }$ 以内的时间延长约40分钟，控温时间延长",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1] MAHAJAN R. Emerging directions for packaging technologies [J].2002,6(1): 61-74.   \n[2] YEH L. Review of heat transfer technologiesin electronic equipment [J]. Journal of Electronic Packaging,1995, 117(4): 333-40.   \n[3]马永锡，张红．电子器件发热与冷却技术[J].化工进 展,2006,25(6): 670-4.   \nMa Yongxi, Zhang Hong. Heat dissipation of electronics and cooling techniques [J]. Chemical Industry and Engineering Progress,2006,25(6):670-4   \n[4]李斌，陶文钰，何雅玲．电子器件空气强制对流冷却研 究[J]．西安交通大学学报,2006,40(11):1241-5.   \nLi Bin，Tao Wenquan,He Yaling.Study on Forced Air Convection Cooling for Electronic Assemblies [J]. Journal of Xi'an Jiaotong University, 2006,40(11):1241-5.   \n[5]张建臣.CPU 风冷散热器散热性能分析与研究[J]．福 建电脑,2008,2):69-. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "了 $1 1 0 \\%$ 。对于低于 $7 0 ^ { \\circ } \\mathrm { C }$ 的环境温度，相变材料的存在不仅可以延缓芯片的升温速率，而且也可以降低其平衡温度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与之前的讨论相似，从图4可以看出，相同环境温度下，发热功率的增大使得芯片温升速率大大提高，而相同发热功率下，环境温度的提高也会导致芯片温升速率的提高。相变材料则可以有效延缓芯片温度的上升，降低达到热平衡时芯片的温度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文实验研究了两种不同相变温度有机物/膨胀石墨复合相变材料应用于模拟电子芯片的控温效果，获得了不同发热功率以及不同环境温度的条件下的控温性能。结果表明，发热功率的增大或者环境温度的提升都会使得芯片的温升速率增大，而复合相变材料吸收芯片发出的热量，并以显热和潜热两种形式进行储存，同时可以在一定时间内将芯片温度维持在自身相变温度附近。因此可以将芯片温度控制在 $1 0 0 ^ { \\circ } \\mathrm { C }$ 范围内的时间大大延长，同时降低达到热平衡时芯片的温度。相变材料将在发热功率为 $2 5 \\mathrm { W }$ ，环境高为 $7 0 ^ { \\circ } \\mathrm { C }$ 时，相变温度为 $8 5 ^ { \\circ } \\mathrm { C }$ 的有机物/膨胀石墨复合材料能将的芯片的温度控制在 $1 0 0 ^ { \\circ } \\mathrm { C }$ 超过半个小时。根据相变材料质量、环境温度以及发热功率计算出来控温时间的增长量与实验值基本一致，这三个因素与控温时间紧密相关。可以预计，通过增加相变材料的质量可以进一步延长对芯片温度控制的时间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Zhang Jianchen.Analysis and Performance Investigation of a CPU Air Cooling Heatsink. [J]. Fujian Computer, 2008,(2):69-   \n[6]周建辉，杨春信，鲁俊勇.CPU 空气强迫对流冷却系 统设计 [J]．电子学报,2007,35(8):1592-7.   \nZhou Jianhui,Yang Chunxin,Lu Junyong.CPU Air Forced Convection Cooling Systems Design [J]. Acta Electronica Sinica, 2007, 35(8):1592-7.   \n[7]ALAWADHI E M.Thermal Management of Blocks in a Channel Using Phase Change Material [J].Ieee T Compon Pack T,2009,32(1): 89-99.   \n[8] ALAWADHIE M,AMONCH.PCM thermal control unit for portable electronic devices: Experimental and numerical studies [J]. Ieee T Compon Pack T, 2003,26(1): 116-25.   \n[9] WENG Y-C, CHO H-P, CHANG C-C, et al. Heat pipe with PCM for electronic cooling [J].Applied Energy，2011, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "88(5): 1825-33. ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[10]KRISHNAN S,GARIMELLAS V.Thermal management of transient power spikes in electronics - Phase change energy storage or copper heat sinks? [J].Journal of Electronic Packaging,2004,126(3):308-16. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[11] ZHANG Z G, FANG X M. Study on paraffin/expanded 图表 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e4b46fede18b18f1b601a041f304a465dc72c7391bcffc2fb86e572db7381ed.jpg",
+        "img_caption": [
+            "图1实验装置示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b6d435361e352e748bd4e3ff1beb1c0c9bc249bc2a47717f5f9c57fe581151a.jpg",
+        "img_caption": [
+            "图3芯片升温曲线(相变温度 $5 9 ^ { \\circ } \\mathrm { C }$ :(a) $1 5 \\mathbb { W }$ ；(b) $2 0 \\mathbb { W }$ ;(c)25W Figure 3 Chip temperaturevariationwith the PCMwithPCT of $5 9 \\mathrm { ^ \\circ C }$ :(a)25W;(b)20W;(c)15W "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "graphite composite phase change thermal energy storage material [J].Energ Convers Manage,2006,47(3): 303-10. [12]YIN H B，GAO X N，DING J，et al. Thermal management of electronic components with thermal adaptation composite material[J].Applied Energy,2010, 87(12):3784-91. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2408691e554c1a4ae3ebdadf91de0e26c470fff441bce874a792fc33300abf77.jpg",
+        "img_caption": [
+            "Figure 1 Schematic of Experimental Setup "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c51e4344dfbdaaad694519d3f5fdd8755215f4085a01f71bd0c044de118a8e51.jpg",
+        "img_caption": [
+            "图2相变材料腔体实物图Figure2Photo of the Container ofPCM",
+            "图4芯片升温曲线(相变温度 $8 5 ^ { \\circ } \\mathrm { C }$ ):(a)25W;(b)20W;(c)15WFigure6 Chip temperaturevariationwith the PCMwithPCTof$8 5 ^ { \\circ } \\mathrm { C }$ :(a)15W;(b)20W;(c)25W"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通信作者",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "张正国地址广东省广州市天河区五山路381号华南理工大学逸夫工程馆112手机号码13922452428电话号码020-87112845Emailcezhang@scut.edu.cn",
+        "page_idx": 4
+    }
+]

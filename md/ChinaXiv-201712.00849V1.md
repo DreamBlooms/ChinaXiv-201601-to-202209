@@ -1,0 +1,103 @@
+# 临床研究
+
+# 多配体聚糖结合蛋白在大肠癌组织中的表达及其对预后的影响
+
+刘会平1²，杨 磊1²，丁彦青²，赵 震1²，于倩1,2  
+南方医科大学'南方医院病理科，基础医学院病理学系//广东省分子肿瘤病理学重点实验室,广东广州 510515
+
+摘要：目的通过对109例结肠癌患者中多配体聚糖结合蛋白(SDCBP)表达的分析，探讨其临床意义及对患者预后的影响。方法免疫组织化学法检测109例有10年随访资料,诊断为原发性结直肠癌患者中SDCBP的表达,分析其表达与结直肠癌患者各临床因素之间的关系,生存分析采用Kaplan-Meier和Cox回归分析法。结果 SDCBP的表达对结直肠肠癌患者的淋巴结转移、TNM分期及术后的生存期均有显著影响( $_ { \it P = 0 . 0 0 1 }$ 、 $\scriptstyle P = 0 . 0 3 3 ,$ 、 $\scriptstyle P = 0 . 0 0 4 ,$ ,但与患者的年龄，性别，肿瘤浸润深度，组织分化以及病理类型没有关系。Kaplan-Meier法检验,结果显示,109例结直肠癌患者中SDCBP高低表达组患者术后平均生存期及7年累计生存率分别为： $5 2 . 3 0 0 { \scriptstyle \pm 6 . 5 0 8 }$ （月） $\cdot 8 6 . 1 8 4 \pm 5 . 3 5 8$ （月）： $3 8 . 6 { \pm } 6 . 4 ( \% ) \ 、 6 1 . 5 { \pm } 6 . 7 ( \% )$ ,整体水平及各组间水平的差异经Log-rank法分析均有统计学意义 $( \chi ^ { 2 } = 1 0 . 5 8 5 , P = 0 . 0 0 1 )$ ;Cox回归分析法发现：SDCBP的高表达和发生淋巴结转移是患者死亡的主要影响因素 $_ { \mathrm { B = 0 } . 6 0 5 }$ $0 . 6 0 5 , P { = } 0 . 0 3 4 ; \mathrm { B } { = } 0 . 6 7 7 , P { = } 0 . 0 1 3 \$ 。结论 SDCBP可作为提示大肠癌淋巴结转移、TNM分期及预后的一项指标。
+
+关键词：SDCBP;免疫组织化学;大肠癌；预后
+
+# Prognostic value of syndecan binding protein in colorectal carcinoma
+
+LIUHuiping¹2,YANG Lei²²,DING Yanqing1²,ZHAO Zhen1²,YU Qian12   
+Departmentofathogyfangspital，llgeofsicicalKeybatorofolecuarorhologyoado   
+Province²,Southern Medical University,Guangzhou 51o515,China
+
+Abstract: Objective To analyze the clinical significance of syndecan binding protein (SDCBP) expression in human colorectal carcinoma (CRC)and itsvalue in predicting the postoperative survival of the patients.Methods The folow-up data for10 years were collected from 109 primary CRC patients with immunohistochemical data of SDCBP expression in the tumor tisues.Therelationship between SDCBPexpresionand theclinical factors wasanalyzed，and survival analysis was performed using the Kaplan-Meier and Cox regression analysis models. Results SDCBP expression in CRC was significantly associated with the postoperative survival time ( $\chi ^ { 2 } { = } 8 . 3 3 6$ $P { = } 0 . 0 0 4 \$ )and lymph node metastasis $\scriptstyle ( P = 0 . 0 0 1 )$ of the patients,but not withage,gender,depthof invasiontissuediferentiationorhistologicaltypeof thetumor.Kaplan-Meiersurvivalurves showed thatthe patients expression high levelsof SDCBPinthe CRCtisses hadasignificantlyshorter postoperative mean survival time and a lower 7-year survival rate than those with low SDCBP expressions $[ 5 2 . 3 0 0 { \scriptstyle \pm 6 . 5 0 8 }$ Us $8 6 . 1 8 4 { \pm } 5 . 3 5 8$ months, $( 3 8 . 6 { \pm } 6 . 4 ) \%$ US $( 6 1 . 5 { \pm } 6 . 7 ) \%$ ： $\chi ^ { 2 } { = } 1 0 . 5 8 5$ $P { = } 0 . 0 0 1 ]$ 1. Multivariate Cox analysis revealed that a high expression of SDCBP $\scriptstyle ( \mathrm { B = } 0 . 6 0 5 ,$ $P =$ 0.034) and lymph node metastasis $( { \mathrm { B } } { = } 0 . 6 7 7 ,$ $P { = } 0 . 0 1 3$ ）were the main factors related to death in CRC patients. Conclusion SDCBP expresson levelcanserve asan indicator for lymph node metastasis,TNMstaging,and outcome prediction of CRC. Key words: immunohistochemistry; syndecan binding protein; colorectal carcinoma; prognosis; metastasis
+
+大肠癌(colorectalcancer,CRC)是严重危害我国人民生命健康的恶性肿瘤[1-3]。而转移是恶性肿瘤的重要标志和最本质表现，是加速患者死亡的主要原因，也是影响预后的主要因素，因此，确定肿瘤的转移潜能及其相关因素对指导治疗、判断预后、提高患者生存时间及生活质量均有十分重要的意义。研究表明多配体聚糖结合蛋白(syndecan binding protein,SDCBP),与多种肿瘤的发生发展密切相关,在细胞内通过与蛋白、白细胞介素结合而活化，与细胞粘附和细胞骨架的形成有关，参与生长因子激活，细胞连接，细胞运动和其他信号转导通路[47],结直肠癌中尚未见报道。
+
+SDCBP基因是本课题组利用基因芯片技术在具有不同转移潜能的细胞亚系中筛选出的与结直肠癌转移相关基因8。本研究应用免疫组织化学方法检测SDCBP在结直肠癌组织中的表达情况，分析其临床意义以及对患者预后的影响，为进一步探讨SDCBP与结直肠癌之间的关系奠定理论基础。
+
+# 1 材料和方法
+
+1.1 材料
+
+选取南方医科大学附属医院南方医院2001年1月${ \sim } 2 0 0 3$ 年12月间诊断明确、随访资料完整的109例原发性大肠癌病例随访至2011年1月，最短随访时间为7
+
+年。69例男性病人，40例女性病人;51人生存，58人死亡；平均年龄为60.7岁。
+
+# 1.2 方法
+
+1.2.1实验方法一抗购自Abnova生物技术公司，而二抗、PBS溶液、柠檬酸盐缓冲液、DAB、苏木素染液等均购自福州迈新生物技术开发公司。以PBS做阴性对照，已知含有待检抗原的切片作为阳性对照。SP即链霉素一生物素免疫组化法其步骤是：将所有标本经常规石蜡包埋，连续切片厚度均为 $4 \mu \mathrm { m } , 6 5 \mathrm { ‰ }$ 烤片过夜，以减少染色过程中的脱片；脱蜡、水化;高压锅内修复，喷气开始时计时，蒸馏水冲洗;滴加 $3 \%$ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，室温静置，以降低内源性过氧化物酶活性造成的非特异性染色；滴加二抗，室温静置;PBS冲洗3遍；滴加辣根过氧化物酶标记物，室温静置;PBS冲洗3遍;DAB显色；自来水充分冲洗；苏木素复染，脱水，透明;封片。
+
+1.2.2结果判定SDCBP在细胞浆内表达，胞浆内呈棕褐色着色。以细胞内呈棕黄褐色颗粒状为阳性染色标准10。显微镜下每张切片按染色程度分：1分为阴性着色、2分为淡黄色、3分为浅褐色、4分为深褐色；同时物镜下计算不同区域染色强度面积百分比，每张切片的总分为不同区域染色强度分值与所占面积百分比乘积的总和，总得分1\~200为低表达，201\~400为高表达。
+
+# 1.3统计学处理
+
+统计学分析采用SPSS13.0软件对数据进行统计学处理。其中临床病理因素与SDCBP表达的关系采用独立样本的非参数检验。生存率分析采用KaplanMeier法及Log-rank检验。
+
+# 2结果
+
+2.1SDCBP与大肠癌各临床因素之间的关系
+
+SDCBP在结直肠癌患者中的表达(图1)。在109例原发性大肠癌患者中SDCBP的高低表达率分别为$5 2 . 3 \%$ （ $\scriptstyle n = 5 7 ,$ ， $4 7 . 7 \% ( n { = } 5 2 )$ ，从表1,2中可以看出：SDCBP在大肠癌组织中的表达与患者的年龄，性别，浸润深度，分化程度以及组织类型没有关系，而淋巴结转移组与无淋巴结转移组相比SDCBP表达有差异，该差异有明显的统计学意义（ $\scriptstyle P = 0 . 0 0 1$ ；SDCBP的表达与淋巴结转移及肿瘤TNM分期间均具有显著的正相关性$( r = 0 . 3 1 6 , P = 0 . 0 0 1 ; r = 0 . 2 3 0 , P = 0 . 0 1 6 ) ,$ 0
+
+# 2.2SDCBP对大肠癌患者术后生存期的影响
+
+评估SDCBP表达对大肠癌患者预后的影响，表3中可看到在随访期内SDCBP低表达组及高表达组平均生存时间和7年累计生存率的差异经Log-rank法分析均有统计学意义 $\scriptstyle \chi ^ { 2 } = 8 . 3 3 6 , P = 0 . 0 0 4 )$ 。
+
+2.3 各临床因素对结直肠癌患者术后生存期的影响评估各临床因素对结直肠癌患者术后生存期的影响，数据分析采用Log-rank法检验其意义，结果中只有淋巴结转移情况对患者术后生存期有影响，无淋巴结转移组和有淋巴结转移组术后平均生存时间，7年累计生存率的差异经Log-rank法分析均有统计学意义 $( \chi ^ { 2 } =$ $1 0 . 5 8 5 , P { = } 0 . 0 0 1$ ，表4)。
+
+![](images/3f35d2b4a804457396de06a0a457f453ea3a04bd349dabcc612ba19c6d7d90d3.jpg)  
+图1SDCBP在结直肠癌患者中的表达 Fig.1 SDCBP expression in colorectal cancer (DAB staining and hematoxylinredyeing). Staining intensity: A: negtive; B:weak; C: moderate; $D$ :intense.
+
+表1SDCBP的表达与各临床因素的关系 Tab.1 Relationship between SDCBP expression and various clinical factors   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="2">SDCBP expression</td><td rowspan="2">x2/z</td><td rowspan="2">P</td></tr><tr><td>low-level</td><td>high-level</td></tr><tr><td>Gender</td><td>Male</td><td>33</td><td>36</td><td></td><td></td></tr><tr><td></td><td>Female</td><td>19</td><td>21</td><td>-0.033*</td><td>0.974</td></tr><tr><td>Ages(years)</td><td>≤40</td><td>2</td><td>6</td><td></td><td></td></tr><tr><td></td><td>41-59</td><td>17</td><td>20</td><td></td><td></td></tr><tr><td></td><td>≥60</td><td>33</td><td>31</td><td>2.062</td><td>0.357</td></tr><tr><td>Histo-type</td><td>Mucinous carcinoma</td><td>7</td><td>3</td><td></td><td></td></tr><tr><td></td><td>Adeno-carcinoma</td><td>45</td><td>54</td><td>-1.474*</td><td>0.140</td></tr><tr><td>LN metastasis</td><td>No</td><td>39</td><td>25</td><td></td><td></td></tr><tr><td></td><td>Yes</td><td>13</td><td>32</td><td>-3.283*</td><td>0.001</td></tr><tr><td>Grade</td><td>Poorly</td><td>6</td><td>10</td><td></td><td></td></tr><tr><td></td><td>Moderately</td><td>21</td><td>21</td><td></td><td></td></tr><tr><td></td><td>Well</td><td>25</td><td>26</td><td>0.785*</td><td>0.675</td></tr><tr><td>Depth of invasion</td><td>Mucosa</td><td>5</td><td>1</td><td></td><td></td></tr><tr><td></td><td>Muscularis</td><td>9</td><td>7</td><td></td><td></td></tr><tr><td></td><td>Serosa</td><td>38</td><td>49</td><td>4.049*</td><td>0.132</td></tr><tr><td>TNM Stage</td><td>I</td><td>13</td><td>9</td><td></td><td></td></tr><tr><td></td><td>II</td><td>24</td><td>16</td><td></td><td></td></tr><tr><td></td><td>III</td><td>8</td><td>20</td><td></td><td></td></tr><tr><td></td><td>IV</td><td>7</td><td>12</td><td>8.757*</td><td>0.033</td></tr></table></body></html>
+
+表2SDCBP的表达与淋巴结转移、TNM分期相关性分析Tab.2 Correlation analysis of SDCBP expression with lymph node metastasis and TNM stage  
+
+<html><body><table><tr><td rowspan="2" colspan="2"></td><td colspan="2">SDCBP expression</td><td rowspan="2">r</td><td rowspan="2">P</td></tr><tr><td>Low-level</td><td>High-level</td></tr><tr><td>LN metastasis</td><td>No</td><td>39</td><td>25</td><td></td><td></td></tr><tr><td rowspan="5">TNM stage</td><td>Yes</td><td>13</td><td>32</td><td>0.316</td><td>0.001</td></tr><tr><td>I</td><td>13</td><td>9</td><td></td><td></td></tr><tr><td>II</td><td>24</td><td>16</td><td></td><td></td></tr><tr><td>III</td><td>8</td><td>20</td><td></td><td></td></tr><tr><td>IV</td><td>7</td><td>12</td><td>0.230</td><td>0.016</td></tr></table></body></html>
+
+# 2.4影响生存期的Cox模型分析
+
+将单因素分析中有统计学意义的二项临床病理因素即淋巴结的转移和SDCBP的表达，将两者纳入Cox比例风险回归模型进行综合分析，SDCBP的高表达和发生淋巴结的转移是患者死亡的主要影响因素（ $\mathbf { B } =$ $0 . 6 7 7 , P { = } 0 . 0 1 3 { \mathrm { ; B } } { = } 0 . 6 0 5 , P { = } 0 . 0 3 4$ ，表5)。
+
+# 3讨论
+
+人类SDCBP基因位于8q12,有9个外显子8个内含子，全长2173bp,编码298个氨基酸。SDCBP在胎儿的肺，肝肾及脑组织和成人的心脏和胎盘中均有表达。SDCBP蛋白含有两个PDZ功能基团，两个PDZ功能基团可与许多细胞膜受体分子或细胞结合，调节多种重要的细胞生理过程和细胞信号通路[47],可通过与细胞膜受体蛋白的结合和分离，参与细胞内蛋白质的运输、细胞骨架的构建和转录因子的激活，从而提高肿瘤细胞的增殖、黏附、侵袭、转移和肿瘤血管形成能力。研究发现SDCBP在恶性黑色素瘤、乳腺癌及胃癌中高表达并促进肿瘤的进展和转移[11-4]。本研究旨在探讨SDCBP的表达与大肠癌发展、转移及预后之间的关系，为大肠癌肿瘤标志物研究提供一个新的方向，以病人的石蜡组织为研究对象，采用免疫组织化学方法检测SDCBP在大肠癌组织中的表达。SP法结果显示109例大肠癌组织中SDCBP高低表达率分别为 $5 2 . 3 \% ( n = 5 7 )$ 1， $4 7 . 7 \%$ $scriptstyle ( n = 5 2$ ),淋巴结转移组中SDCBP的表达要高于无淋巴结转移组( $\scriptstyle \cdot = 0 . 0 0 1$ )表明SDCBP表达对大肠癌的淋巴结转移起着促进的作用。相关性分析发现：SDCBP的高表达与肿瘤的淋巴结转移和TNM分期具有明显的正相关性( $_ { \cdot = 0 . 3 1 6 }$ ， $\scriptstyle P = 0 . 0 0 1$ $_ { r = 0 . 2 3 0 }$ ， $P { = } 0 . 0 1 6$ 。在预后方面，结果显示在109例大肠癌患者中随着SDCBP表达水平的升高患者的术后生存期缩短，发生淋巴结转移的患者术后生存期也明显缩短，综合这些结果说明SDCBP的高表达与大肠癌转移、肿瘤TNM分期及预后确切有关，SDCBP表达越高淋巴结转移的可能性越高，TNM分期越高，预后越差。SDCBP作为促基因在肿瘤转移中发挥作用，它可能成为评价大肠癌发展、转移和预后的一个有价值的指标，为指导临床治疗提供新的靶点[15]。任何一种基因都不可能是决定肿瘤转移的唯一因素，因此需要进一步的研究与探索，将其与其他相关因素结合起来，提高临床诊断价值。
+
+表3SDCBP的表达对大肠癌患者术后生存率的影响 Tab.3 Efect of SDCBP expression on postoperative survival rate of patients with colorectal cance   
+
+<html><body><table><tr><td rowspan="2">SDCBP expression</td><td rowspan="2">Mean survival time (mon)</td><td colspan="3">Survival rate (%)</td><td rowspan="2">x</td><td rowspan="2">P</td></tr><tr><td>3-year</td><td>5-year</td><td>7-year</td></tr><tr><td>Low-level</td><td>86.15±6.29</td><td>75.00±6.00</td><td>69.20±6.40</td><td>61.50±6.70</td><td rowspan="2">8.34</td><td rowspan="2">0.004</td></tr><tr><td>High-level</td><td>60.44±5.90</td><td>57.90±6.50</td><td>45.60±6.60</td><td>38.60±6.40</td></tr></table></body></html>
+
+表4各临床病理因素对大肠癌术后生存率的影响 ab.4 Effect of the clinical factors on postoperative survival rate of patients with colorectal cance:   
+
+<html><body><table><tr><td></td><td></td><td rowspan="2">Mean survival time(mon)</td><td colspan="3">Survival rate(%)</td><td rowspan="2">x</td><td rowspan="2">P</td></tr><tr><td></td><td></td><td>3-year</td><td>5-year</td><td>7-year</td></tr><tr><td>Gender</td><td>Male</td><td>71.457±5.835</td><td>63.8±5.8</td><td>56.5±6.0</td><td>47.8±6.0</td><td></td><td></td></tr><tr><td></td><td>Female</td><td>75.175±6.950</td><td>70.0±7.2</td><td>57.5±7.8</td><td>52.5±7.9</td><td>0.359</td><td>0.549</td></tr><tr><td>Ages</td><td>≤40</td><td>84.125±10.628</td><td>87.5±11.7</td><td>75.0±15.3</td><td>62.5±17.1</td><td></td><td></td></tr><tr><td></td><td>41-59</td><td>77.973±7.657</td><td>73.0±7.3</td><td>56.8±8.1</td><td>51.4±8.2</td><td></td><td></td></tr><tr><td></td><td>≥60</td><td>66.953±5.815</td><td>59.4±6.1</td><td>51.6±6.2</td><td>46.9±6.2</td><td>1.677</td><td>0.432</td></tr><tr><td>LN metastasis</td><td>No</td><td>86.184±5.358</td><td>78.1±5.2</td><td>65.6±5.9</td><td>60.9±6.1</td><td></td><td></td></tr><tr><td></td><td>Yes</td><td>52.300±6.508</td><td>48.9±7.5</td><td>40.0±7.3</td><td>33.3±7.0</td><td>10.585</td><td>0.001</td></tr><tr><td>Grade</td><td>Well</td><td>80.796±5.995</td><td>76.5±5.9</td><td>60.8±6.8</td><td>56.9±6.9</td><td></td><td></td></tr><tr><td></td><td>Moderately</td><td>62.262±6.524</td><td>59.6±7.6</td><td>52.4±7.7</td><td>42.9±7.6</td><td></td><td></td></tr><tr><td></td><td>Poorly</td><td>59.906±12.747</td><td>50.0±12.5</td><td>45.8±12.3</td><td>43.8±12.4</td><td>3.385</td><td>0.184</td></tr><tr><td>Depth of invasion</td><td>Mucosa</td><td>94.000±7.303</td><td>100.0±0.0</td><td>83.3±15.2</td><td>83.3±15.2</td><td></td><td></td></tr><tr><td></td><td>Muscularis</td><td>84.500±11.835</td><td>75.0±10.8</td><td>62.5±12.1</td><td>62.5±12.1</td><td></td><td></td></tr><tr><td></td><td>Serosa</td><td>67.659±4.924</td><td>62.1±5.2</td><td>51.7±5.4</td><td>44.8±5.3</td><td>4.770</td><td>0.092</td></tr><tr><td>Histo-type</td><td>Sdeno-carcinoma</td><td>70.964±4.163</td><td>65.7±4.8</td><td>53.5±5.0</td><td>47.5±5.0</td><td></td><td></td></tr><tr><td></td><td>Mucinous carcinoma</td><td>85.480±15.164</td><td>70.0±14.5</td><td>60.0±15.5</td><td>50.0±15.8</td><td>0.799</td><td>0.371</td></tr></table></body></html>
+
+表5Cox回归模型检验 Tab.5 Cox proportional hazards model test   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">B</td><td rowspan="2">SE</td><td rowspan="2">Wald</td><td rowspan="2">Sig.</td><td rowspan="2">RR</td><td colspan="2">95.0% CI for RR</td></tr><tr><td>Lower</td><td>Upper</td></tr><tr><td>LN metastasis</td><td>0.677</td><td>0.273</td><td>6.145</td><td>0.013</td><td>1.968</td><td>1.152</td><td>3.361</td></tr><tr><td>SDCBP expression</td><td>0.605</td><td>0.286</td><td>4.479</td><td>0.034</td><td>1.832</td><td>1.046</td><td>3.209</td></tr></table></body></html>
+
+# 参考文献：
+
+[1]Herbst RS,Yano S,Kuniyasu H,et al. Differential expression of E-cadherin and type IV collagenase genes predicts outcome in patients with stage I non-small cell lung carcinoma[J].Clin Cancer Res,2000,6(3): 790-7.   
+[2]Jemal A,Thomas A,Murray T,et al. Cancer statistics[J].JAMA, 2013,310(9): 982.   
+[3]郑 树,蔡善荣.中国人大肠癌的流行病学研究[J].Chin-GermanJ Clin Oncol, 2003,2(2): 72-5.   
+[4]Hwangbo C,Park J,Lee JH.mda-9/syntenin protein positively regulates the activation of Akt protein by facilitating integrin-linked kinase adaptor function during adhesion to type Icollagen[J].JBiol Chem,2011,286(38): 33601-12.   
+[5]Tudor C,Te Riet J,Eich C,etal. Syntenin-1 and ezrin proteins Link activated leukocyte cell adhesion molecule to the actin cytoskeleton [J].JBiol Chem,2014,289(19): 13445-60.   
+[6]Das SK,Bhutia SK,Kegelman TP,et al．MDA-9/syntenin:a positive gatekeeper of melanoma metastasis[J].Front Biosci (Landmark Ed),2012,17(17):1-15.   
+[7]Dasgupta S,Menezes ME,Das SK,et al. Novel role of MDA-9/ syntenin in regulating urothelial cell proliferation by modulating EGFR signaling[J].Clin Cancer Res,2013,19(17): 4621-33.   
+[8]Hao JM,Chen JZ,Sui HM,et al.A five-gene signature as a potential predictor of metastasis and survival in colorectal cancer [J].JPathol,2010,220(4): 475-89.   
+[9]Okuda K,Sasaki H,Kawano O,et al. Epidermal growth factor receptor gene mutation,amplification and protein expression in malignant pleural mesothelioma[J].J Cancer Res Clin Oncol, 2008, 134(10): 1105-11.   
+[10]Ionescu DN, Sasatomi E,Cieply K,et al. Protein expression and gene amplification of epidermal growth factor receptor in thymomas [J].Cancer,2005,103(3): 630-6.   
+[11] Grootjans JJ,Reekmans G,Ceulemans H,et al. Syntenin-syndecanbinding requires syndecan-synteny and the co-operation of bothPDZ domains of syntenin|J].J Biol Chem,2000,275(26): 19933-41.   
+[12]Das SK,Bhutia SK,Sokhi UK,et al.Raf kinase inhibitor RKIP inhibits MDA-9/syntenin-mediated metastasis in melanoma [J]. Cancer Res,2012,72(23):6217-26.   
+[13]Gangemi R,Mirisola V,Barisione G,et al．Mda-9/syntenin is expressed in uveal melanoma and correlates with metastatic progression[J].PLoS One,2012,7(1): e29989.   
+[14]Qian XL,Li YQ,Yu B,et al. Syndecan binding protein (SDCBP) is overexpressed in estrogen receptor negative breast cancers,and is a potential promoter for tumor proliferation[J].PLoS One,2013,8 (3):e60046.   
+[15]赵 震,杨 磊.大肠癌中SDCBP基因功能的初步研究[D].广州:南方 医科大学,2012..
+
+（编辑：吴锦雅）

@@ -1,0 +1,168 @@
+# 外源抗坏血酸缓解水稻幼苗的铝胁迫效应
+
+周小华1\*，周泽仪²，李昆志(1．昆明学院 昆明滇池（湖泊）污染防治合作研究中心，昆明650214；2.华南农业大学 资源环境学院，广州510642；3．昆明理工大学 生命科学与技术学院昆明650500)
+
+摘要：为探讨外源抗坏血酸对铝胁迫下水稻氧化损伤的影响，以峰1A（不育系，灿稻）和滇优35号(杂交，粳稻)2个水稻品种为试验材料，采用溶液培养法研究外源抗坏血酸(AsA)对 ${ 5 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { A l } ^ { 3 + } }$ 胁迫下水稻根尖 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 和内源AsA含量以及抗氧化酶活性的影响。实验表明，铝胁迫 $2 4 \mathrm { ~ h ~ }$ 时，水稻根尖内源AsA含量为对照的0.90倍，与对照相比，根尖 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 增加了0.55倍 ${ \sim } 1 . 3$ 倍，SOD、POD、CAT及APX活性分别增加了0.83倍 ${ \sim } 1 . 6$ 倍、1.0倍～1.3倍、0.85倍 ${ \sim } 1 . 2$ 倍、1.0倍 ${ \sim } 1 . 8$ 倍；外源AsA处理铝胁迫水稻 $2 4 \mathrm { h }$ ，水稻根尖内源AsA含量为比照的1.2倍，SOD、POD、CAT及APX 活性分别增加了1.2倍 ${ \sim } 2 . 2$ 倍、1.5倍～1.6倍、1.3倍 ${ \sim } 1 . 7$ 倍、1.2倍 ${ \sim } 2 . 6$ 倍，而根尖 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 含量仅增加了0.1倍 ${ \sim } 0 . 6$ 倍。这些研究结果表明，铝胁迫加剧了细胞膜的过氧化程度，并诱导抗氧化酶活性以清除活性氧。外源AsA通过提高抗氧化酶活性和内源AsA含量以缓解水稻 $\mathrm { A l } ^ { 3 + }$ 胁迫引起的氧化损伤，降低细胞膜系统伤害，促进水稻生长，为外源AsA提高水稻适应铝胁迫能力提供理论依据。
+
+关键词：水稻，铝胁迫，抗坏血酸，活性氧，抗氧化酶，生理生化中图分类号：Q945.78 文献标识码：A
+
+# Effects of exogenous ascorbic acid on
+
+# alleviating aluminum stress in rice seedlings
+
+ZHOU Xiaohual\*, ZHOU Zeyi²，LI Kunzhi³ (1. Kunming Cooperative Research Center for Polution Prevention of Dianchi (Lake), Kunming University, Kunming 650214; 2. College of Natural Resources and Environment, South China Agricultural University, Guangzhou 510642; 3.Faculty ofLife Science and Biotechnology, Kunming University of Science and Technology, Kunming 650500)
+
+Abstract: The aim of the experment was to study the effects of exogenous ascorbic acid(AsA) on oxidative damage of rice under aluminum $( \mathbf { A } 1 ^ { 3 + } )$ stress. A hydroponic experiment was conducted with the peak 1A（sterile line, Indica）and dian superior 35（Hybrid, Japonica） to study the effects of exogenous AsA on the contents of $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ and endogenous AsA and the activities of antioxidant enzyme in roots of the two rice varieties under $5 0 { \mathrm { ~ \textmu m o l { } } } { \cdot } { \mathrm { L } } ^ { - 1 } { \mathrm { A l } } ^ { 3 + }$ stress. The results showed that the content of endogenous AsA was O.9O-fold of the control，and the content of $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ was 0.55-fold to 1.3-fold,the activities of SOD、POD、CAT and APX were O.83-fold to 1.6-fold, 1.0-fold to 1.3-fold,0.85-fold to 1.2-fold,1.0-fold to 1.8-fold higher than that of the control in roots of the two rice varieties under ${ \mathrm { A 1 } } ^ { 3 + }$ stress for $2 4 \mathrm { ~ h ~ }$ ，respectively. Under exogenous AsA 基金项目：国家自然科学基金（31560351）；云南省高校联合基金（2018FH001-027）；昆明学院人才引进 基金（YJL18009)[Supported by the National Natural Science Fundation of China (31560351); Universities Union Fund of Yunnan (2O18FH001-027）；Introducing Talents Research Fund of Kunming University (YJL18009)]。 作者简介：周小华（1973-），男，江西湖口人，博士，副教授，主要从事环境植物营养与保护研究，（E-mail) zxh200008 $@$ 126.com。   
+\*通信作者
+
+treatment for $2 4 \mathrm { h }$ ,the content of endogenous AsA was 1.2-fold of the control,and the activities of SOD，POD，CAT and APX were 1.2-fold to 2.2-fold，1.5-fold to 1.6-fold，1.3-fold to 1.7-fold,1.2-fold to 2.6-fold higher than that of the control, respectively,while the content of $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ was only O.1-fold to O.6-fold higher than that of the control in rice roots.The study have shown that $\mathrm { A l } ^ { 3 + }$ stress could increase the degree of membrane peroxidation, and antioxidant enzyme activities was induced to enhance the ability of scavenging ROS. While application of exogenous AsA not only could alleviate the oxidative damage induced by $\mathrm { A l } ^ { 3 + }$ , but also had a significant effect on reducing the damage of cell membrane system by enhancing antioxidant enzyme activities and AsA content, thereby promoting the rice growth,which provided theoretical basis for exogenous AsA to improve the ability of rice to adapt to aluminum stress.
+
+Keywords: rice, aluminum （ $\mathrm { A l } ^ { 3 + }$ ） stress， ascorbic acid(AsA)， ROS，antioxidant enzyme,physiology and biochemistry
+
+铝是土壳中含量最丰富的金属元素，在 $\mathsf { p H }$ 值高于5.5的土壤中，对植物没有毒害作用，在 $\mathsf { p H }$ 值低于5.5的土壤中，铝溶出量与土壤酸化程度成正相关系，一般酸性土壤铝浓度为$1 0 { \sim } 4 0 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ ，微摩尔级的铝就会严重抑制植物根系的生长以及吸收氮、磷等营养物质的效率（Liu etal.，2014；Zhou etal.，2016），从而影响植物的生长及作物的产量。我国约有 $1 3 \%$ 的水稻分布在酸性土壤上，铝胁迫已成为酸性土壤中影响粮食作物生长及产量的主要胁迫因子（Guo et al.；2010；Kochian et al.，2015）。
+
+Matsumoto etal.（2013）指出，在无胁迫因子环境中生长的植物也会产生少量的活性氧（ROS），但不会对植物造成伤害。铝胁迫下的植物体内大量积累ROS，对植物细胞造成氧化损伤，导致质膜结构破坏，同时诱导植物体内的抗氧化酶系统参与响应铝胁迫应答的调控机制，通过提高抗氧化酶活性清除过多的ROS，以维持细胞内的氧化还原平衡，修复铝胁迫下植物细胞质膜结构，恢复细胞的正常生理功能。铝胁迫下耐铝型黑大豆的抗氧化酶活性高于铝敏感型黑大豆，其膜脂受氧化损伤程度相对较轻，从而表现出更强的抗铝性能（武孔焕等，2012）。铝胁迫下柑橘通过增加 SOD、CAT 活性来增强 ROS 的清除能力，缓解柑橘因铝胁迫而导致的质膜过氧化程度，增强铝胁迫能力(Lietal.，2016)。
+
+通过外源物质调节铝胁迫下水稻的生长已有相关报道，外源NO（吴坤等，2014）、外源草酸（刘拥海等，2008）、脱落酸和 $\mathrm { C a } ^ { 2 + }$ （廖星昊，2005）能显著降低水稻根尖 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 等ROS 含量和细胞电解质渗透率，有效降低了铝对水稻根尖质膜的氧化损伤，维持稳定的细胞膜结构。抗坏血酸（Ascorbic Acid，AsA）是植物重要的非酶抗氧化剂，通过对外界刺激的识别、信号传递、基因表达和代谢调节等过程激发植物的防御机制，能清理植物体内产生的ROS(Venkatesh etal.，2014)，缓解环境胁迫对植物的毒害作用并促进植物生长发育和增产（Guletal.，2015)。已有研究表明，外源AsA可以增加大麦幼苗对盐胁迫的抗性(Agami,2014)，改善铅胁迫秋葵的氧化防御能力（Hussainetal.，2017），提高盐胁迫小麦的光合特性参数（Ashraf et al.，2008），显著增强高温胁迫水稻叶片(Shah etal.，2011)、干旱胁迫玉米（Dolatabadian etal.，2009）的抗氧化酶活性，表明外源AsA可以增强了植物对逆境的适应能力，能够参与植物适应逆境胁迫的调控过程，但有关外源AsA增强水稻抗铝性能的生理响应机制还不完全清楚，本研究以耐铝性不同的2个水稻品种为试验材料，研究外源 AsA对铝胁迫水稻的氧化防御能力的影响，以阐明外源AsA缓解铝胁迫水稻氧化损伤的作用方式，为科学评价外源AsA对铝胁迫下农作物生长提供理论依据。
+
+# 1材料与方法
+
+# 1.1材料培养与处理
+
+供试水稻（Oryzasativa）为峰1A（不育系，灿稻）和滇优35号（杂交，粳稻）（云南农业大学水稻研究所提供)。种子经消毒、浸泡、催芽,将露白的种子转移 $0 . 5 \mathrm { m m o l { \cdot } L ^ { - 1 } C a C l _ { 2 } }$ 溶液培养。待幼苗1叶龄时，用 $\mathrm { p H } 4 . 5$ 的1/4浓度水稻营养液（IRRI，国际水稻所）培养1周，再转移至 $\mathrm { p H } 4 . 5$ 的水稻全营养液（周小华等，2016）培养，每2d更换一次培养液。待水稻长至4叶1心时进行实验，分别置于 $\mathrm { p H } 4 . 5$ 含 ${ 5 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } A l C l _ { 3 } } }$ 的水稻营养液以及含 50$\mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { A l C l } _ { 3 }$ 和 $2 \mathrm { m m o l { \cdot } L ^ { - 1 } A s A }$ （周小华等，2015）的水稻营养液处理不同时间。叶绿素及内源AsA测定以无铝无AsA处理组为对照；其他指标以有铝无AsA处理 $\boldsymbol { 0 } \mathrm { h }$ 为对照。每个处理时间点做3个重复，取根尖 $( 0 \sim 2 0 \mathrm { m m } )$ ，液氮速冻，置于、 $8 0 ~ \mathrm { { ^ { \circ } C } }$ 冰箱保存。
+
+# 1.2理生化指标测定
+
+采用乙醇提取法测定叶绿素含量（陈建勋和王晓峰，2006）；硫代巴比妥法测定MDA含量（Chenetal.，2011）；分光光度法测定 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 含量（Gay＆Gebicki，2003）；邻苯二酚紫（PCV）方法测定根尖铝含量（Zheng etal.，2005）；酸性芘三酮法测定脯氨酸含量（张志良和瞿伟菁,2003）；氮蓝四唑（NBT)还原法测定 SOD 活性（Giannopolitis ＆Ries,1977）；愈创木酚法测定POD 活性（Chance＆Mehley，1955）；参照Aebi（1984）的方法测定CAT活性；参照Nakano＆Asada（1981）的方法测定APX 活性；参照Law etal.（1983）的方法测定内源AsA含量。
+
+# 1.3数据处理
+
+本实验所有数据均采用Excel进行处理，数据差异性用Duncan's 法检验， $P { < } 0 . 0 5$ 表示显著差异。
+
+# 2结果与分析
+
+# 2.1AsA对铝胁迫水稻根尖 $\mathbf { A l } ^ { 3 + }$ 含量的影响
+
+由图1可知，2种水稻根尖 $\mathrm { A l } ^ { 3 + }$ 含量随铝胁迫时间的延长而逐渐增加，同条件下滇优 35号根尖铝含量低于峰1A。外源AsA处理后，2种水稻根尖 $\mathrm { A l } ^ { 3 + }$ 含量都减少，与单一铝胁迫组均有明显差异，其中，处理 $2 4 \mathrm { ~ h ~ }$ 时效果最明显，峰1A（图1：A）根尖 $\mathrm { A l } ^ { 3 + }$ 含量只有单一铝胁迫组的0.58倍，滇优35号（图1：B）根尖 $\mathrm { A l } ^ { 3 + }$ 含量只有单一铝胁迫组的0.49 倍。表明外源AsA可以显著降低铝在水稻根尖的积累。
+
+![](images/e0bd87c2ba381e00d1a564666afe756e16d8c4f2453aa3e239f1817f9b5aac79.jpg)
+
+注：不同小写字母表示同品种水稻不同处理之间显著差异（ $\cdot < 0 . 0 5$ ）。下同。
+
+Note:Diferent lowercase leters indicate significant diferences between different treatments ofsame rice varieties treatedwith-AsAand $^ +$ AsA( $P { < } 0 . 0 5 )$ .Thesame below.
+
+图1外源 AsA处理对铝胁迫不同时间的峰1A(A)和滇优35号(B)
+
+# 水稻根尖 $\mathrm { A l } ^ { 3 + }$ 含量的影响
+
+Fig.1 Effects of exogenous AsA on $\mathrm { A l } ^ { 3 + }$ content in peak 1A (A) and dian superior 35 $\mathbf { \left( B \right) }$ in rice roots for different time
+
+# 2.2AsA对铝胁迫水稻叶片叶绿素含量的影响
+
+从表1可以看出，铝胁迫峰1A水稻叶绿素 $_ { \mathbf { a } , \mathbf { b } }$ 及叶绿素总量较对照减少了 $2 0 . 8 \% . 1 4 . 9 \%$ 和 $1 8 . 9 \%$ ，叶绿素 $\mathbf { a } / \mathbf { b }$ 减少了 $5 . 5 \%$ ；使用AsA处理，叶绿素a、b及叶绿素总量较对照分别增加了 $2 3 . 7 \%$ 、 $2 0 . 9 \%$ 和 $2 2 . 8 \%$ ，叶绿素 $\mathbf { a } / \mathbf { b }$ 值基本与对照相同。铝胁迫的滇优35号水稻叶绿素a、b及叶绿素总量较对照减少了 $1 3 . 1 \%$ 、 $1 0 . 4 \%$ 和 $3 . 5 \%$ ，叶绿素a/b 减少了 $3 . 9 \%$ ；使用AsA处理，叶绿素a、b及叶绿素总量分别比对照增加了 $2 2 . 3 \%$ 、 $1 6 . 7 \%$ 和 $2 1 . 1 \%$ ，叶绿素$\mathbf { a } / \mathbf { b }$ 值增加 $4 . 7 \%$ ，说明外源AsA可缓解铝胁迫对水稻叶绿素的分解，且滇优35号叶绿素 $\mathbf { a } / \mathbf { b }$ 值增幅大于峰1A，可见，滇优35号捕获、转化光能的能力比峰1A强，更有利于水稻光合作用。
+
+表1AsA对铝胁迫 $2 4 \mathrm { h }$ 的水稻叶片叶绿素含量的影响  
+Table 1 Effects of exogenous AsA on the contents of chlorophyll in two rice varieties leaves under $\mathrm { A l } ^ { 3 + }$ stress for $2 4 \mathrm { h }$ （204号   
+
+<html><body><table><tr><td rowspan="2">水稻品种 Rice varieties</td><td rowspan="2">处理 Treatment</td><td colspan="4">叶绿素含量 Chlorophyll content（mg·g-1）</td></tr><tr><td>a</td><td>b</td><td>a/b</td><td>a+b</td></tr><tr><td rowspan="3">峰1A Peak 1A</td><td>-Al-AsA</td><td>1.35±0.07b</td><td>0.67±0.02b</td><td>1.99±0.10a</td><td>2.02±0.21b</td></tr><tr><td>Al- AsA</td><td>1.07±0.11c</td><td>0.57±0.04b</td><td>1.88±0.13a</td><td>1.64±0.06c</td></tr><tr><td>Al+AsA</td><td>1.67±0.07a</td><td>0.81±0.32a</td><td>1.98±0.07a</td><td>2.48±0.69a</td></tr><tr><td rowspan="2">滇优35号</td><td>-Al-AsA</td><td>1.39±0.01b</td><td>0.66±0.06a</td><td>2.11±0.11a</td><td>2.04±0.13b</td></tr><tr><td>Al- AsA</td><td>1.21±0.02b</td><td>0.59±0.08a</td><td>2.05±0.41a</td><td>1.99±0.15b</td></tr><tr><td>Dian superior 35</td><td>Al+AsA</td><td>1.70±0.1a</td><td>0.77±0.04a</td><td>2.21±0.01a</td><td>2.47±0.14a</td></tr></table></body></html>
+
+注：不同小写字母表示同品种水稻不同处理之间显著差异（ $P { < } 0 . 0 5$ ）。下同。 Note:Different lowercase leters indicatesignificant diferences between differenttreatments ofsame rice varieties treatedwith-AsAand $^ +$ AsA( $\scriptstyle \sum 0 . 0 5 ,$ .The samebelow.
+
+# 2.3AsA对铝胁迫水稻根尖MDA及 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 含量的影响
+
+由表2可知，随着铝胁迫时间的延长，2种水稻根中MDA和 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 含量均呈增加趋势。当胁迫处理 $9 6 \mathrm { ~ h ~ }$ 时，峰1A根尖的MDA和 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 含量约为对照的3.8倍和4.0倍，滇优35号根尖的MDA和 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 含量分别约为对照组的3.7倍和2.0倍，AsA处理后，峰1A根尖中的MDA、 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 含量降低到对照组的2.1倍和3.0倍；滇优35号根尖中的MDA、 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 含量降低到对照组的2.7倍和1.7倍。表明铝胁迫时，2种水稻的根尖MDA、 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 含量增加，过氧化程度加剧。AsA处理水稻根尖MDA、 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 含量在处理 $1 2 \mathrm { ~ h ~ }$ 后均有显著降低，表明外源 AsA可降低水稻铝诱导产生的ROS，显著降低膜脂过氧化程度，植株受到的铝胁迫伤害得到有效缓解。
+
+表2AsA对铝胁迫不同时间的水稻根尖MDA、 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 含量的影响Table 2 Effects of exogenous AsA on the contents of MDA and $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ intwo rice varieties roots under ${ \mathrm { A 1 } } ^ { 3 + }$ stress for different time  
+
+<html><body><table><tr><td>指标 Indexes</td><td colspan="4">MDA含量 MDA content (μmol·g-1)</td><td colspan="4">HO含量</td></tr><tr><td>品种</td><td colspan="2">峰1A</td><td colspan="2">滇优35号</td><td colspan="2">H2O2 content(μmol·g-1) 峰1A</td><td colspan="2">滇优35号</td></tr><tr><td>Varieties</td><td>-AsA</td><td>Peak 1 A +AsA</td><td>Dian superior 35 -AsA</td><td>+AsA</td><td>Peak 1 A -AsA</td><td>+AsA</td><td>Dian superior 35 -AsA</td><td>+AsA</td></tr><tr><td>0h</td><td>0.59±0.2 1e</td><td>0.51±0.03 e</td><td>0.49±0.0 4e</td><td>0.50±0.08 e</td><td>3.46±0.07 d</td><td>3.44±0.25 d</td><td>4.62±0.4 6d</td><td>4.89±0.53 d</td></tr><tr><td>3h</td><td>0.63±0.1 5e</td><td>0.65±0.04 e</td><td>0.57±0.0 5e</td><td>0.49±0.04 e</td><td>4.27±0.37 d</td><td>4.02±0.06 d</td><td>4.97±0.2 1d</td><td>4.83±0.52 d</td></tr><tr><td>6h</td><td>0.61±0.3 2e</td><td>0.57±0.04 e</td><td>0.63±0.0 7d</td><td>0.52±0.01 e</td><td>5.16±0.11 d</td><td>4.68±0.27 d</td><td>5.32±0.3 3d</td><td>4.55±0.30 e</td></tr><tr><td>12 h</td><td>0.89±0.7 2d</td><td>0.67±0.04 d</td><td>0.76±0.0 3d</td><td>0.57±0.08 e</td><td>6.52±0.31 C</td><td>5.02±0.16 d</td><td>6.15±0.1 5c</td><td>5.11±0.33 d</td></tr><tr><td>24 h</td><td>1.05±0.5 5c</td><td>0.68±0.02 d</td><td>0.91±0.1 0c</td><td>0.72±0.06 d</td><td>8.06±0.07 C</td><td>5.43±0.12 d</td><td>7.16±0.3 7b</td><td>5.31±0.15 d</td></tr><tr><td>48 h</td><td>1.32±0.4 5c</td><td>0.89±0.05 d</td><td>1.29±0.0 4b</td><td>1.01±0.07 C</td><td>9.97±0.53 b</td><td>6.95±0.52 C</td><td>7.41±0.2 3b</td><td>5.26±0.39 d</td></tr><tr><td>72 h</td><td>1.63±0.4 9b</td><td>1.15±0.27 C</td><td>1.53±0.0 4a</td><td>1.31±0.03 b</td><td>11.17±0.3 1b</td><td>8.16±0.73 C</td><td>8.05±0.11 a</td><td>6.38±0.53 b</td></tr><tr><td>96h</td><td>2.24±0.6 3a</td><td>1.24±0.21 C</td><td>1.85±0.0 9a</td><td>1.32±0.14 b</td><td>14.05±0.4 3a</td><td>10.31±0.3 6b</td><td>9.21±0.4 0a</td><td>7.81±0.63 b</td></tr></table></body></html>
+
+# 2.4AsA对铝胁迫水稻根尖脯氨酸含量的影响
+
+由图2可知，铝胁迫水稻根尖游离脯氨酸含量呈递增趋势。与单一铝胁迫相比，AsA处理的根尖游离脯氨酸含量增加。峰1A（图2：A）在处理 $1 2 \mathrm { h } { \sim } 4 8 \mathrm { h }$ 有显著增加，分别增加了 $0 . 3 \sim 0 . 5$ 倍；滇优35号（图2：B）在处理 $6  { \mathrm { h } }  { \sim } 9 6  { \mathrm { h } }$ 有显著差异，分别增加了 $0 . 2 { \sim } 0 . 4$ 倍，2种水稻在处理 $^ { 4 8 \mathrm { ~ h ~ } }$ 时均达到最大值，峰1A在处理 $^ { 4 8 \mathrm { ~ h ~ } }$ 后呈缓慢下降趋势，而滇优35号在处理 $4 8 \mathrm { { h } }$ 后基本保持不变，表明AsA能提高游离脯氨酸含量，能清除铝胁迫产生的ROS，从而增强植物适应铝胁迫能力。
+
+![](images/fdaf1103724aff70a5369c05756c8b4c43147e769396f60a393c419c107e7576.jpg)  
+图2AsA对铝胁迫不同时间的峰1A(A)和滇优35号(B)根尖脯氨酸含量的影响Fig.2 Effects of exogenous AsA on proline content in peak 1 A(A) anddian superior 35(B) rice roots under ${ \bf A } 1 ^ { 3 + }$ stress for different time
+
+# 2.5AsA对铝胁迫水稻根尖SOD、POD、CAT和APX活性的影响
+
+SOD 是清除自由基的细胞保护酶系统的中心，其活性的高低是机体抗逆能力的标志。2种水稻根尖的SOD 活性在处理 $^ { 4 8 \mathrm { ~ h ~ } }$ 时达到最大，铝胁迫峰1A（图3：A）根尖的SOD活性是对照的2.8倍，AsA处理组的 SOD活性为对照组的3.6倍；铝胁迫滇优35号（图3：B）SOD 活性为对照的1.9倍，AsA处理组的 SOD 活性为对照的2.3倍。与单一铝胁迫相比，AsA处理的2种水稻根尖SOD活性在 $1 2 \mathrm { h } { \sim } 9 6 \mathrm { h }$ 时有显著增加，表明AsA处理后，根尖SOD活性都有增加，植物清除ROS能力得到增强。
+
+POD 作为植物抗逆境过程中的一种适应性酶，在防御植物细胞膜过氧化以及降低细胞受伤害程度中发挥重要作用。峰1A（图3：C）在铝胁迫 $2 4 \mathrm { h }$ 时POD活性达到最大值，为对照的2.0倍，AsA处理组的POD 活性为对照的2.5倍，与单一铝胁迫相比，AsA处理的根尖SOD活性在 $1 2 \ \mathrm { h } { \sim } 9 6 \ \mathrm { h }$ 时有显著增加；滇优35号（图3：D）在铝胁迫 $^ { 4 8 \mathrm { ~ h ~ } }$ 时POD活性达到最大值，为对照的 2.3倍，AsA 处理组的 POD 活性为对照组的2.6倍，与单一铝胁迫相比，AsA处理的根尖SOD 活性在 $2 4 \mathrm { h } { \sim } 4 8 \mathrm { ~ h ~ }$ 时有显著增加。表明铝胁迫处理能够增加根中POD 活性，而 AsA 处理能使这种增强作用更为明显，表明 POD 可能参与AsA 调控铝胁迫的应答过程。
+
+CAT 在植物抗逆境胁迫中具有非常重要的作用。在铝胁迫时，峰1A（图3：E）根尖CAT活性呈现先升后缓慢下降的趋势，根尖CAT活性在铝胁迫 $2 4 \mathrm { h }$ 时达到最大值，为对照的 2.2倍，AsA 处理组的CAT 活性为对照的2.7倍，与单一铝胁迫相比，AsA 处理 $3 \mathrm { h } { \sim } 9 6$ h的根尖CAT活性有显著差异；滇优35号（图3：F）根尖CAT活性呈现先增加后基本稳定的趋势，根尖CAT活性在铝胁迫 $2 4 \mathrm { h }$ 时为对照的1.8倍，AsA处理组的CAT活性为对照的2.2倍，与单一铝胁迫相比，AsA处理 $1 2 { \mathrm { ~ h } } { \sim } 2 4 { \mathrm { ~ h } }$ 时根尖CAT活性呈显著差异。表明铝胁迫能够增强水稻根尖CAT 活性，AsA处理能够进一步增强根尖CAT 活性。
+
+APX是以AsA为电子供体的一种过氧化物酶，是清除过氧化氢的主要酶类。铝胁迫的峰1A（图3：G）根尖APX 活性呈现先升后缓慢下降的趋势，在铝胁迫 $^ { 4 8 \mathrm { ~ h ~ } }$ 时根尖APX活性达到最大值，为对照的2.8倍，AsA处理组的APX活性为对照的3.6倍，与单一铝胁
+
+迫相比，AsA处理 $1 2 \mathrm { h } { \sim } 9 6 \mathrm { h }$ 的根尖APX活性显著增加；滇优35号（图3：H）则呈现增加趋势，在铝胁迫 $^ { 4 8 \mathrm { ~ h ~ } }$ 时根尖APX 活性为对照的2.0 倍，AsA处理组的APX 活性为对照的2.2倍，与单一铝胁迫相比，AsA处理 $3  { \mathrm { h } } \sim 2 4  { \mathrm { h } }$ 时根尖APX 活性显著增加。表明外源AsA处理的2种水稻根尖APX活性都呈增加趋势，能进一步清除过氧化物。
+
+![](images/bf48f76ce8c229bd0766021a0abb23fbc3a8e49da13b1fbd8a55a12415f7d9bd.jpg)  
+图3AsA对铝胁迫不同时间的峰1A(A,C,E,G)和滇优35号 $( \mathbf { B } , \mathbf { D } , \mathbf { F } , \mathbf { H } )$ 根尖抗氧化酶活性的影响
+
+Fig.3 Effects of exogenous AsA on the activities of antioxidant enzyme in peak $1 \mathrm { A } ( \mathbf { A } , \mathbf { C } , \mathbf { E } , \mathbf { G } )$ and dian superior 35 (B,D,F,H) rice roots under ${ \mathrm { A 1 } } ^ { 3 + }$ stress for different time
+
+# 2.6AsA对铝胁迫水稻内源AsA含量的影响
+
+铝胁迫 $9 6 \mathrm { ~ h ~ }$ 时的峰1A（图4：A）根尖AsA含量为对照的0.35倍，添加外源AsA的根尖AsA含量为对照的0.56倍，为单一铝胁迫组的1.6倍；铝胁迫 $2 4 \mathrm { h }$ 的根尖AsA含量为对照的0.86倍，添加外源AsA的根尖AsA含量为对照的1.2倍，为单一铝胁迫组的1.3倍；铝胁迫 $9 6 \mathrm { h }$ 时的滇优35号（图4：B）根尖AsA含量为对照根尖的0.79倍，AsA处理的根尖AsA含量为对照的0.94倍，为单一铝胁迫组的1.2倍，铝胁迫 $2 4 \mathrm { h }$ 时的根尖AsA含量为对照处理根尖的0.93倍，添加外源 AsA的根尖AsA含量为对照的1.2倍，为单一铝胁迫组的1.3倍；说明铝胁迫降低了水稻根尖内源AsA含量，外源AsA可提高2个水稻根尖的内源AsA含量，同条件下滇优35号根尖AsA含量均高于峰1A。
+
+![](images/fd551ab67e58bf8ec2cfbba80f6d3d40fdf40461fbf4421a9418513a15483d49.jpg)  
+图4AsA处理对铝胁迫不同时间的峰1A(A）和滇优35号(B)水稻根尖AsA含量的影响 Fig.4 Effects of AsA on the endogenous AsA content in peak 1A (A) and dian superior 35 (B) rice roots under $\mathrm { A l } ^ { 3 + }$ stress for different time.
+
+# 3讨论
+
+外源 AsA有效地缓解了铝胁迫对水稻幼苗光合作用的抑制作用。光合色素是植物光合作用过程中利用光能效率的一个重要参数，是表征光合作用优劣的主要指标之一，其含量多少能够反映植株光合能力的强弱。本研究中峰1A叶片叶绿素含量低于滇优35号，铝胁迫降低了水稻叶片叶绿素a、b以及叶绿素总量，且叶绿素a下降幅度比叶绿素b大，从而使a/b 值下降，降低了类囊体的垛叠程度，使水稻叶片捕获、转化光能的能力下降，光抑制作用增加，不利于光合作用的正常进行，与郭书奎和赵可夫（2001）的研究结果相似。外源AsA处理铝胁迫的水稻 $2 4 \mathrm { h }$ ，叶绿素a、b及叶绿素总量均有所增加，a/b比值也有所增加，主要原因可能是 $\mathrm { A l } ^ { 3 + }$ 与合成叶绿素的胆色素原脱氨酶等结合（Asgharipour etal.，2011），使酶活性降低，叶绿素合成受到抑制，从而破坏叶绿体结构。铝胁迫水稻总叶绿素含量降低的过程中，叶绿素a浓度降低更快，表明叶绿素a比叶绿素b对铝胁迫的反应更为敏感。而外源 AsA能在一定程度上降低叶绿素的分解，减轻铝胁迫对叶绿体膜造成的伤害，提高叶绿素合成酶活性，增强水稻叶片捕获、转化光能的能力。
+
+外源 AsA可以降低铝胁迫水稻下根尖的ROS 含量。虽然少量的ROS 对植物生长有一定的积极作用，可以抵御病原体侵入细胞和调控抗病相关基因的表达，但ROS 的积累量超过了抗氧化系统的清除能力时，就会对植物造成氧化损伤而影响植物生长， $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 是植物氧化损伤的主要指标，MDA 是质膜过氧化的产物， $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 、MDA常作为反映植物质膜的氧化胁迫水平的重要生理指标，其含量多少与细胞膜的氧化损伤呈正相关系（Yamamoto，2019）。目前已有许多研究报道表明，铝胁迫导致植物根尖ROS含量增加，产生的氧化胁迫加剧了膜脂的过氧化程度（Huang etal.，2018；Fan et al.，2019；Muhammad et al.，2019）。本研究发现，铝胁迫 $2 4 \mathrm { h }$ 的2种水稻根尖MDA和 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 含量显著上升，峰1A根尖 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 、MDA的含量分别比对照增长了3.0倍和2.8倍，滇优35号根尖 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 、MDA的含量分别比对照增长了1.0倍和2.7倍，峰1A根尖 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 、MDA的含量高于滇优35号，水稻根尖积累了更多的ROS，导致质膜过氧化水平提高，这与Kuo＆Kao（2003）及Guo etal.（2013）报道的铝胁迫下水稻植株 MDA 和 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 含量上升的结论一致。外源 AsA 处理的峰1A 根尖 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 、
+
+MDA的含量只比对照增长了的2.0倍和1.1倍，滇优35号根尖 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 、MDA的含量只比对照增长了0.7倍和1.7倍，AsA可显著降低根尖MDA和 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 的积累，缓解了铝胁迫对水稻造成的氧化胁迫的危害，提高水稻的耐铝能力，表明外源 AsA 对水稻耐铝的调节机制作用与 ROS 相关。
+
+外源AsA能提高铝胁迫水稻根尖的抗氧化酶活性。在环境胁迫条件下，植株为了抵御ROS 引发的氧化胁迫，会启动体内的抗氧化酶系统，如 SOD、POD、CAT 和APX等。抗氧化酶协同作用，清除体内过多的ROS，从而保护植物免受氧化胁迫的伤害（Apel&Hirt,2004），SOD在抗氧化酶系统中处于核心地位，是清除ROS的第一道防线，SOD可将 $ { \mathrm { ~ O ~ } } _ { 2 } ^ { - }$ ·催化为较稳定的 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 和 $\mathbf { O } _ { 2 }$ ，在CAT、POD和APX等作用下，将 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 分解为 $\mathrm { H } _ { 2 } \mathrm { O }$ 和 $\mathbf { O } _ { 2 }$ ，从而维持植物体内较低浓度的 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，减轻或解除质膜过氧化作用对细胞膜的损伤。本研究结果显示，铝胁迫导致2个品种水稻根尖抗氧化酶活性增加，表明铝胁迫在诱导氧化胁迫的同时，也诱导了抗氧化酶基因的表达，使抗氧化酶活性增加，研究结果与Guo etal.（2018）报道的铝胁迫下柑橘中抗氧化酶活性增加一致，外源AsA可进一步提高2种水稻根尖抗氧化酶活性，以清除更多的ROS，有助于维持细胞质膜的完整性和化学成分的稳定性，进而提高水稻的抗氧化能力以缓解其氧化损伤，使水稻能更好地适应酸性铝胁迫环境，滇优 35号根尖 SOD、POD、CAT和APX的活性高于峰1A，可以诱导更多的抗氧化酶以清除ROS,从而增强其耐铝性能，表明外源AsA通过调节水稻体内的抗氧化酶活性来调控水稻对铝胁迫的应答反应。
+
+外源AsA可提高铝胁迫水稻根尖的内源AsA含量。AsA是植物体内的重要的抗氧化剂，可以直接或者间接的清理体内产生的ROS，参与植物对环境胁迫的改善，促进植物生长发育和增产（Venkatesh etal.，2014；Guletal.，2015）。本研究结果表明，铝胁迫处理 $9 6 \mathrm { ~ h ~ }$ 时，峰1A与滇优35号根尖AsA含量分别为对照的0.35倍和0.79倍，峰1A根尖AsA含量下降幅度大于滇优35号，而外源 AsA处理可显著增加2种水稻根尖内源AsA的含量，峰1A与滇优35号根尖AsA含量分别为对照的1.61倍和1.19倍，但滇优35号根尖内源 AsA的含量高于峰1A,外源AsA可提高水稻根尖内源AsA含量,与Wang＆Kao(2007)及 Ashraf（2008）等研究结论相似，表明外源AsA通过诱导更多的内源AsA以平衡铝诱导的 ROS进发，降低水稻根中ROS的含量，在铝胁迫的应答过程中起重要的作用。
+
+# 4结论
+
+综上所述，滇优35号水稻的耐铝性能优于峰1A；铝胁迫诱导水稻体内ROS 的同时，也诱导抗氧化酶基因的表达，使抗氧化酶活性增加，清除更多的ROS，以增强水稻的抗铝能力；外源AsA能进一步提高水稻根尖抗氧化酶活性和内源AsA含量，清除ROS的能力得到进一步增强，从而提高植株的光合作用，有助于提高水稻的抗铝性能，因此，外源 AsA通过调控抗氧化酶活性和内源AsA含量参与水稻应答铝胁迫反应。
+
+# 参考文献:
+
+AEBI H, 1984. Catalase in vitro[J]. Method Enzymol, 105(C): 121-126.   
+AGAMI RA, 2O14. Applications of ascorbic acid or proline increase resistance to salt stress in barley seedlings[J]. Biol Plantarum, 58(2): 341-347.   
+APEL K,HIRT H, 20O4.Reactive oxygen spedes: metabolism,oxidative stress,and signal transduction[J].Ann Rev Plant Biol, 55: 373-399.   
+ASGHARIPOUR MR，KHATAMIPOUR M， RAZAVI-OMRANI M，2011. Phytotoxicity of cadmium on seed germination, early growth, proline and carbohydrate content in two wheat varities[J]. JMed Physiol, 5(4): 559-565.   
+ASHRAF M, ATHAR H, KHAN A， 2008. Exogenously applied ascorbic acid alleviates salt-induced oxidative stress in wheat[J]. Environ Exper Bot, 63(1-3): 224- 231.   
+CHANCE B, MEHLEY AC,1955. Assay of catalase and peroxidase[J]. Methods Enzymol, 136(2): 764-775.   
+CHEN JX, WANG XF, 2006. Plant physiology experiment instruction[M]. 2nd ed. Guangzhou: South China University of Technology Press:81-84.[陈建勋，王晓峰，2006.植物生理学实验 指导[M].2版.广州：华南理工大学出版社：81-84.]   
+CHEN Q, ZHANG XD, WANG SS,et al., 2011. Transcriptional and physiological changes of alfalfa in response to aluminium stress[J]. JAgric Sci, 149(6):737-752.   
+DOLATABADIAN A,MODARRES SANAVY SAM, SHARIFI M, 2009. Alleviation of water deficit stress effects by foliar application of ascorbic acid on zea mays[J]. J Agron Crop Sci, 195(5): 347-355.   
+FAN W, XU JM, WU P, et al.,2019. Alleviation by abscisic acid of Al toxicity in rice bean is not associated with citrate efflux but depends on ABI5-mediated signal transduction pathways[J]. J Integr Plant Biol, 61(2): 140-154.   
+GAY CA, GEBICKI JM, 2003. Measurement of protein and lipid hydro peroxides in biological systems by the ferric-xylenol orange method [J]. Anal Biochem, 315(1): 29-35.   
+GIANNOPOLITIS CN, RIES SK, 1977. Superoxide dismutase I. Occurrence in high plants[J]. Plant Physiol, 59(2): 309-314.   
+GUL H, AHMAD R, HAMAYUN M, 2015. Impact of exogenously applied AsA on growth, some biochemical constituents and ionic composition of guar (Cymopsis tetragonoloba) subjected to salinity stress[J]. Pakhtunkhwa J Life Sci, 3(1-2): 22-40.   
+GUO JH,LIU XJ, Zhang FS,et al.，2010. Significant soil acidification in major Chinese croplands[J]. Science, 327(5968): 1008-1010.   
+GUO P, QI YP, CAI YT, et al., 2018. Aluminum effects on photosynthesis, reactive oxygen species and methylglyoxal detoxification in two Citrus species differing in aluminum tolerance[J]. Tree Physiol, 38(10): 1548-1565.   
+GUO SK, ZHAO KF, 2001. The possible mechanisms of NaCl inhibit photosynthesis of maize seedings[J].JPlant Physiol,27(6):461-466.[郭书奎，赵可夫，2001.NaCl胁迫抑制玉米幼苗 光合作用的可能机理[J].植物生理学报，27(6)：461-466.]   
+GUO TG, YAO PC, ZHANG ZD,et al., 2013. Involvement of antioxidative defense system in rice seedlings exposed to aluminum toxicity and phosphorus deficiency[J]. Chin J Rice Sci, 27(6): 653-657.   
+HUANG SC, WANG XD,LIU X, et al., 2018. Isolation, identification, and characterization of an aluminum-tolerant Bacterium Burkholderia sp. SB1 from anacidic red soil[J]. Pedosphere, 28(6): 905-912.   
+HUSSAIN I, SIDDIQUE A, ASHRAF MA, 2017. Does exogenous application of ascorbic acid modulate growth， photosynthetic pigments and oxidative defense in okra (Abelmoschus esculentus L.) under lead stress[J].Acta Physiol Plant, 39(3):144-156.   
+KOCHIAN LV, PINEROS MA, LIU JP, et al., 2O15. Plant adaptation to acid soils: the molecular basis for crop aluminum resistance[J]. Ann Rev Plant Biol, 66, 571-598.   
+KUO MC, KAO CH, 2003. Aluminum effects on lipid peroxidation and antioxidative enzyme activated in rice leaves[J]. Biol Plant, 46(1): 149-152.   
+LAW MY, CHARLES SA,HALLIWELL B,1983. Glutathione and ascorbic acid in spinach (Spinacia oleracea) chloroplasts[J]. Biochemistry, 210(3): 899-903.   
+LI H, YANG LT, QI YP, et al., 2O16. Aluminum toxicity-induced alterations of leaf proteome in two Citrus species differing in aluminum tolerance[J]. Int JMol Sci, 17(7):1180-1195.   
+LIAO XH, 2005. Influence of ABA and $\mathrm { C a } ^ { 2 + }$ on alleviating aluminum-induced injury effects in rice[J]. JHuaihua Univ,24(5): 88-91.[廖星昊,2005.ABA 和 $\mathrm { C a } ^ { 2 + }$ 降低水稻的铝毒害效应[J]. 怀化学院学报，24(5)：88-91.]   
+LIU JP, PINEROS MA, KOCHIAN LV, 2014. The role of aluminum sensing and signaling in plant aluminum resistance[J]. J Integr Plant Biol, 56 (3): 221-230.   
+LIU YH, YU L, CHEN XY, et al., 20O8. Alleviation of aluminum toxicity in rice seedlings by exogenous oxalic acid[J]. JHunan Agric Univ (Nat Sci Ed), 34(3): 281-284.[刘拥海，俞乐, 陈秀云，等，2008.外源草酸对水稻幼苗铝毒害的缓解作用[J].湖南农业大学学报(自然科 学版)，34(3): 281-284.]   
+MATSUMOTO H, MOTODA H, 2013. Oxidative stress is associated with aluminum toxicity recovery in apex of pea root[J]. Plant Soil, 363(1-2): 399-410.   
+MUHAMMAD N, ZVOBGO G, FU L, et al., 2019. Physiological mechanisms for antagonistic interaction of manganese and aluminum in barley[J]. J Plant Nutr, 42(5): 466-476.   
+NAKANO K, ASADA K, 1981. Hydrogen peroxide is scavenged by ascorbate specific peroxidase in spinach chloroplasts [J]. Plant Cell Physiol, 22(5): 867-880.   
+SHAHF, HUANG J, WANG K,2011. Impact of high-temperature stress on rice plant and its traits related to tolerance[J]. JAgric Sci, 149(7): 545-556.   
+VENKATESH J, PARK SW, 2014. Role of L-ascorbate in aleviating abiotic stresses in crop plants[J]. Bot Stud, 55: 38-52.   
+WANG JW, KAO CH. 20O7. Protective effect of ascorbic acid and glutathione on $\mathrm { \bf A l C l } _ { 3 }$ -inhibited growth of rice roots[J]. Biol Plantarum, 51(3): 493-500.   
+WU K, XING CH, RAO YC, et al., 2014. Effect of exogenous nitric oxide on root growth and antioxidant system in rice seedlings under aluminum toxicity[J]. Acta Bot Boreal-Occident Sin,34(3):536-542.[吴坤，邢承华，饶玉春，等，2014.外源 NO 对铝毒下水稻根系生长 和抗氧化系统的影响[J].西北植物学报，34(3)：536-542.]   
+WU KH,CHEN Q，LI KZ,et al.，2012. Efects of aluminum stress on membrane lipid peroxidation and antioxidant enzyme activities in black soybean[J. Acta Bot Boreal-Occident Sin,32(3):511-517.[武孔焕，陈奇，李昆志，等，2012.铝胁迫对黑大豆膜脂过氧化及抗氧 化酶活性的影响[J].西北植物学报，32(3)：511-517.]   
+YAMAMOTO Y, 2019. Aluminum toxicity in plant cells: mechanisms of cell death and inhibition of cell elongation[J]. Soil Sci Plant Nutr, 65(1): 41-55.   
+ZHANG Z L, WEI JQ, 2003. Plant physiology experiment guidance[M]. 3rd ed. Beijing: Higher Education Press.[张志良，瞿伟菁，2003．植物生理学实验指导(第三版)[M]．北京：高等 教育出版社.]   
+ZHENG SJ, YANG JL, HE YF, et al., 2005. Immobilization of aluminum with phosphorus in roots is associated with high aluminum resistance in buck wheat[J]. Plant Physiol,138(1): 297-303.   
+ZHOU XH, GU ZH,LI KZ, et al., 2O15. The effects of exogenous ascorbic acid on photosynthetic characteristics in Oryza sativa L. under aluminum stress[J]. J Yangzhou Univ (Agric Life Sci) 36(3):73-78.[周小华，谷照虎，李昆志，等，2015．外源抗坏血酸 AsA 对铝胁迫下水稻光 合特性的影响[J]．扬州大学学报(农业与生命科学版)，36(3)：73-78.]   
+ZHOU XH,XU HN,LI KZ, et al., 2016. Effects of PM $\boldsymbol { \mathrm { H } } ^ { + }$ -ATPase on the nitrate uptake of rice
+
+under aluminum stressJ].JPlant Physiol, 52(7):1011-1018.[周小华，徐慧妮，李昆志，等, 2016.铝胁迫下质膜 $\boldsymbol { \mathrm { H } } ^ { + }$ -ATPase 对水稻硝态氮吸收的影响[J].植物生理学报，52（7): 1011-1018.] ZHOU XH, GU ZH,LI KZ,et al., 2O16.The effects of exogenous ascorbic acid on the mechanism of physiological and biochemical responses to nitrate uptake in two rice cultivars (Oryza sativa L.) under aluminum stress[J].JPlant Growth Regul, 35(4): 1013-1024.

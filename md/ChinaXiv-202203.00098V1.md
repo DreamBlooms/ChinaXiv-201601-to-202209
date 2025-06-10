@@ -1,0 +1,214 @@
+# 耦合融雪的新安江模型在干旱区径流模拟研究
+
+张梅洁¹²，吕海深1²，刘娣1²，朱永华¹²，孙铭悦12（1.河海大学水文水资源与水利工程科学国家重点实验室,江苏 南京210098;2.河海大学水文水资源学院,江苏 南京 210098)
+
+摘要：在西营河九条岭站以上流域内,利用2011—2018年格点降水和气温数据集的逐日资料,通过降水径流成因关系探索出格点降水异常点修正方法，并将融雪模块与三水源新安江模型耦合,研究流域日径流模拟过程。采用确定性系数和相对误差两个评估准则进行模拟效果的评价，将降水修正后以及融雪耦合后的模拟效果与未改进的模型模拟效果进行比较，分析融雪模块耦合后的新安江模型在西营河流域的适用性。结果表明：参照降水径流成因关系进行的格点降水修正提高了径流模拟的精度， $7 5 \%$ 的年份模拟径流的确定性系数有所提高。耦合融雪的新安江模型在研究区模拟较好， $7 5 \%$ 以上年份的模拟比未改进时模拟效果好， $8 7 \%$ 以上年份的模拟确定性系数达0.6以上。耦合融雪的新安江模型为西营河流域融雪径流的预报预警提供决策参考。
+
+关键词：西营河流域；格点降水；融雪模块；改进的新安江模型
+
+中国西北地区的河流多发源于山区，冰雪融水是河流春季的重要补给来源[。西营河位于甘肃省境内，其径流主要来源于祁连山东段融雪和山区降水。在西营河流域，多数研究侧重于西营灌区的生态及水利建设，进行水文模拟极少，迫切需要探索适用于该区域的水文模型。在该流域范围内使用水文模型进行模拟时，需要考虑春季融雪的影响。$\mathbb { W } \mathbf { u } ^ { [ 2 ] }$ 等通过研究长序列融雪径流过程，完成了融雪组分的评估，指出春夏季融雪径流比例随气候变暖而有所改变，融雪过程会影响高寒山区水文过程。李志龙3在研究资料缺乏的寒区流域水文模拟中，将改进的新安江模型作为混合模型的一部分，进行了融雪径流的模拟。目前，关于融雪径流预测已经有应用较广的模型，如SRM模型4；此外还有包含融雪模块的模型,如SWAT模型[5]、MIKESHE模型[6]等。然而，SRM模型主要对于春季融雪模拟较好，多数只能应用于年内短期的径流预报[7]。SWAT模型与SHE模型又较为复杂，输入的数据需要包含大量信息（包括数字高程数据、土地利用数据、积雪覆盖特征、土壤特征、降水气象数据等）8，在西营河这种数据较为缺乏的流域，数据搜集困难且数量较少，代表性不强。故而需要探索更加适用于西营河流域的融雪径流模型
+
+新安江模型[9作为国内应用较广的模型之一，其模型结构清晰、层次分明，在实际应用中得到不断地完善，可以通过改进的模型进行数据缺乏地区的水文模拟。刘金涛等[10]总结了新安江模型发展的特点，主要是架构形式趋于多样性、产汇流模型不断物理化、应用范围不断延伸。Lyu等[采用粒子群算法和集合卡尔曼滤波数据同化的3种变化，对罗江和资料匮乏地区进行模型参数批量估计。韩元元等[2将变动态存储系数法结合新安江模型进行河道洪水演算。以上研究说明在模型驱动数据及方法上均可与新安江模型进行配合，从而提高模型的应用范围及模拟效果。Alazzy[13]采用不确定性估计(GLUE)方法，对中国新安江模型估算月径流的不确定性进行检验和预测，发现采用Nash效率系数评估的新安江模型的参数不确定性更小。据此，本文率定参数时，主要以Nash效率系数作为率定参数时的目标函数。邓元倩等[14]、邵成国等[15]分别将新安江模型应用于沣河流域、新疆乌鲁木齐河，模拟效果较好，说明新安江模型适用流域逐渐扩大到西北地区，不再仅仅局限于湿润地区。赵兰兰等[16]根据干旱地区实际情况,将超渗产流模式加入新安江模型在拒马河流域进行了暴雨洪水预报及对比分析，在新安江模型各层次内部使用的方法可根据流域的地理位置等条件进行适当改进。至此，超渗产流与新安江模型的融合，使新安江模型突破了原有的固化模式，从最根本的产流层次进行改进，加强了新安江模型在全国多地的适用性。姜卉芳最早将融雪径流模拟加入新安江模型应用于切德克流域，随后田龙[1等人在该版本基础上考虑能量概念进行高寒山区融雪径流模拟。然而，该模型仍需对太阳辐射、地形影响、积雪面积等进行大量分析，在资料缺乏的山区应用较难。本文选取应用广泛、层次结构化清晰的新安江模型，在其中加入仅以气温为主要阈值的融雪模块，从而扩大新安江模型的适用范围。
+
+在资料匮乏地区，如西营河九条岭站以上流域无降水观测，且流域内地形差异大，九条岭水文站降水无法代表全流域情况。较为准确的降水驱动数据对水文模拟具有重要意义，直接影响水文模拟精度。在模拟时，需要选取最适合的驱动数据。孙铭悦[19]等在进行水文模型模拟时，比较了站点数据和格点降水数据的模拟效果，得出格点降水比站点平均的降水数据更好。本文首先进行格点降水数据修正，随后将融雪模块与新安江模型耦合，利用修正后的降水数据驱动耦合模型进行径流模拟。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+西营河位于武威市西南部，是石羊河流域的一条支流，上游由宁昌河和水关河组成，发源于祁连山东段冷龙岭。西营河属于高寒半干旱半湿润气候区。径流主要由高山融雪以及祁连山区降水组成。西营河多年平均出山径流达 $3 . 1 8 4 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ，位列石羊河上游八条河流之首，占比 $2 2 . 3 \%$ 。出山口附近设有九条岭水文站，也是该流域出山口以上唯一的水文测站。九条岭站以上区域植被良好，水土流失轻微，此处与上游由于地势的差异，降水差别较大[20]。上游年降水量可达 $5 0 0 { \sim } 8 0 0 ~ \mathrm { m m }$ ,九条岭站年降水量仅为 $2 0 0 { \sim } 4 0 0 ~ \mathrm { m m }$ 。流域4—5月多为春季融雪径流，6一9月径流为山区降水产生。本文主要研究区为西营河九条岭站以上流域(图1)，集水面积为 $1 0 7 7 \mathrm { k m } ^ { 2 }$ 。该站是石羊河流域的八大河流中不受人工设施影响的水文测站之一，积累了长序列水文实测资料。
+
+![](images/3e4123c240837167209811be5100a0499388d7678d1a92a6199cda78b0702497.jpg)  
+图1研究区域示意图  
+Fig.1 Schematic diagram of the study area
+
+# 1.2数据来源
+
+本文改进的新安江模型输人的降水和气温数据采用国家气象信息中心发布的数据集。降水采用中国地面降水日值 $0 . 5 ^ { \circ } { \times } 0 . 5 ^ { \circ }$ 格点数据集（V2.0），代码为SURF_CLI_CHN_PRE_DAY_GRID_0.5。气温采用中国地面气温日值 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 格点数据集（V2.0）,代码为SURF_CLI_CHN_TEM_DAY_GRID_0.5。此外，九条岭水文站2011—2018年的逐日蒸发和逐日流量资料来源于中华人民共和国水文年鉴第10卷第5册甘肃河西地区内陆河水文资料
+
+# 1.3 研究方法
+
+1.3.1格点降水数据修正方法格点数据集主要由中国地面高密度台站的降水结合薄盘样条法制作，依托于站点数据，插值时存在一定误差。数据集(V2.0)制作人赵煜飞[1对该数据集进行精度评估时指出，夏季误差较其他季节较为明显。将格点降水数据用于降水(融雪)径流模拟时发现在夏季会出现少量径流异常值，需要进行降水数据修正。经试验，未经修正的格点降水，在研究区每年都会出现少数的异常情况，径流未出现峰值，然而作为径流主要成因的降水却出现较大值，且与序列前后日突变较大，与临近站点降水及相关记录比较发现此日并非暴雨日且前后日并无较大降雨，从而考虑应是数据集制作产生的误差导致。常用的修正方式是与附近站点序列进行比较。然而，在西营河流域，附近的气象站点距离流域较远(图2)，且分布多偏东北、西北方向，作为降水产流主要来源的西南部山区没有代表性测站，无法全面展现整个流域降水、气温等情况。
+
+![](images/fa4b71bdcbf4e0ac1f1bbeed0b2e013032fe5e89efe38f6e733da7a9abcbaa04.jpg)  
+图2西营河流域邻近气象站点分布  
+Fig.2 Distribution of meteorological stations near Xiying River Basin
+
+本文探索性尝试通过年最大降水和径流系数进行约束，筛选出每年的异常格点降水值进行修正，从而提高径流模拟的精度。经过多年格点降水径流模拟试验，归纳得出以下降水量和径流系数两个约束能检测出较明显的格点降水异常数据。同时违背降水量约束(公式1a)和径流系数约束(公式1b)两个约束条件判断为异常点：
+
+$$
+0 \leqslant P < 0 . 7 P _ { \mathrm { \# m a x } }
+$$
+
+$$
+\alpha > 0 . 3 , \alpha = \frac { R } { P }
+$$
+
+式中： $R$ 表示出口九条岭水文站日尺度实测径流深$( \mathrm { m m } ) { \mathrel { \mathop : } } P$ 为逐日格点降水值 $( \operatorname* { m m } ) { \mathrm { : } } \alpha$ 为径流系数，径流系数0.3的约束条件主要是采用 $3 \sigma$ 原则，通过正态分布置信区间算出，即平均年径流系数为0.503，标准差 $\sigma$ 为0.067，在小于 $\mu { - } 3 \sigma$ 即0.3时，概率仅为$0 . 2 7 \%$ ，认为该测量值为坏值。
+
+尽管下垫面条件和气候条件的复杂性会对不同自然地理条件的降水-径流关系产生一定影响，降雨和径流仍具有较强的成因关系，可以作为两个序列的初步评定参考。本研究识别出异常点后，利用降水和径流相关关系进行修正，将识别出的异常点修正到每年绘制的剔除异常点的降水-径流相关关系图上，具体流程如图3所示。
+
+某些年份单日格点降水最大值达到 $4 0 \mathrm { m m }$ 甚至更大时，若此点为异常点，会影响降水量约束的异常点挑选，检测时遇此情况，需要以年第二大降水值作为降水量约束的基础值，再乘以试验率定出的比例系数0.7。
+
+1.3.2 融雪模块与新安江模型耦合本文在新安江模型基础上，增加了融雪模块，主要包括融雪模块、蒸散发计算、蓄满产流计算、三水源划分和汇流计算。
+
+(1）融雪模块
+
+改进后的新安江模型在第一层次前，加入融雪模块，主要采用度日因子法进行融雪计算。度日法假设融雪量与气温为显著线性关系，其计算公式如下：
+
+$$
+M = \left\{ \begin{array} { l r } { d \times ( T - T _ { \mathrm { 0 } } ) , } & { T > T _ { \mathrm { 0 } } } \\ { 0 } & { , } & { T \leqslant T _ { \mathrm { 0 } } } \end{array} \right.
+$$
+
+式中： $M$ 为融雪水量（ $\cdot \mathbf { m } \mathbf { m } \cdot \mathbf { d } ^ { - 1 }$ ）； $d$ 为度日因子（20 $\left( \mathbf { m } \mathbf { m } \cdot \mathbf { \mathcal { C } } ^ { - 1 } \cdot \mathbf { d } ^ { - 1 } \right)$ ; $T _ { \mathrm { 0 } }$ 为融雪临界温度 $( { \mathcal { C } } ) _ { \mathbf { \lambda } } T$ 为气温$( \mathcal { C } )$ 。
+
+在融雪模块中，主要输人数据为气温和降水。积雪消融的能量主要来源于净辐射和感热通量，其中，净辐射包含长波辐射和短波辐射。冰雪消融以近地表层的长波辐射和感热通量原因为主，气温又是地表长波辐射的主要影响因素，从而本方法将能量的影响直接由较易获取的气温作为模型的驱动。加入融雪模块后，将融雪水量和降雨量综合的液态水作为后续模型的输入。
+
+# (2）蒸散发计算
+
+模型采用三层蒸发模式，其中，蒸散发能力使用蒸发折算系数与九条岭水文站观测值的乘积
+
+$$
+E P = K C \times E p a n
+$$
+
+式中： $E P$ 为蒸散发能力 $\left( { \bf m m } \right) ; K C$ 为蒸散发折算系数；Epan为蒸发皿观测蒸发 $\left( { \bf m } \mathbf { m } \right)$ )。运用的主要思想是土壤蒸发能力与相同气象条件下的水面蒸发一般呈线性关系。
+
+(3）蓄满产流
+
+![](images/4e9d8fc7a51186ada4511c5c0b1da5af3cc10a217361e621d088bdc02bae4042.jpg)  
+图3格点降水异常点识别与修正流程  
+Fig.3 Grid precipitation anomaly identification and correction process
+
+蓄满产流模式为包气带达到田间持水量的产流模式。概化为达到田间持水量后，才开始产流。由于流域各处蓄水能力不同，降水与初始包气带蓄水量之和小于流域包气带蓄水容量最大值时，为流域部分面积产流。同理，降水与初始包气带蓄水量之和大于流域包气带蓄水容量最大值时为全流域产流。具体计算公式如下：
+
+$$
+\begin{array} { r } { \left\{ R = P E + W _ { \mathrm { o } } - W M + W M \displaystyle \left( 1 - \frac { P E + A } { W M M } \right) ^ { B + 1 } , \quad A + P E \leqslant W M M \right. } \\ { R = P E + W _ { \mathrm { o } } - W M \quad \quad \quad , \quad A + P E \geqslant W M M } \end{array}
+$$
+
+式中：A为流域初始包气带蓄水量所对应的纵坐标值 $( \mathbf { \bar { \rho } } _ { \mathrm { m m } } )$ ;WMM为流域单点最大蓄水容量 $( \mathrm { m m } ) ; W M$ 为流域任一点的包气带蓄水容量( $\mathbf { \dot { m } } \mathbf { m } .$ ； $B$ 反映流域包气带蓄水容量分布的不均匀性， $B$ 越小表示越均匀； $R$ 为产流量( $\bf \Pi _ { \mathrm { m m } }$ ）； $W$ 为流域蓄水量 $( \mathbf { m } \mathbf { m } )$ 。值得注意的是， $P E$ 中的 $P$ 指的是融雪计算后的液态水量$\left( \mathrm { m m } \right)$ 。
+
+# （4）三水源划分
+
+产流量的划分延续传统新安江模型的思路，分为地表径流、壤中流和地下径流。考虑产流面积的影响和下垫面条件，采用与上一模块包气带蓄水容量分布不均类似的处理，仍将产流面积上的自由水容量分布用抛物线近似。其中，自由水是毛管水和重力水的合称，是在土壤中受力的作用可以自由流动的水。
+
+(5）汇流计算
+
+地面径流直接流入河网，计算公式如下：
+
+$$
+Q S ( i ) = R S ( i ) \times \mathrm { U }
+$$
+
+式中： $Q S$ 为地面径流汇流 $( \mathbf { m } ^ { 3 } \cdot \mathbf { s } ^ { - 1 } )$ ; $R S$ 为地面径流$\left( \mathrm { m m } \right)$ ；U为单位转换系数，为常数； $i$ 指日数，时间尺度为日尺度。
+
+壤中流汇流采用线性水库法，计算公式如下：
+
+$$
+Q I ( i ) = C I \times Q I ( i - 1 ) + ( 1 - C I ) \times R I ( i ) \times \mathrm { U }
+$$
+
+式中： $Q I$ 为壤中流汇流 $( \mathrm { m } ^ { 3 } { \cdot } \mathrm { s } ^ { - 1 } ) , C I$ 为壤中流消退系数， $R I$ 为壤中流径流（ $( \mathrm { m m }$ )，U为单位转换系数，为常数。
+
+地下径流汇流仍采用线性水库法，采用公式如下：
+
+$$
+Q G ( i ) = C G \times Q G ( i - 1 ) + ( 1 - C G ) \times R G ( i ) \times U
+$$
+
+式中： $Q G$ 为地下径流汇流 $( \mathbf { m } ^ { 3 } \cdot \mathbf { s } ^ { - 1 } ) ; C G$ 为地下水消
+
+退系数； $R G$ 为地下水径流 $( \operatorname* { m m } )$ );U为单位转换系数,为常数。
+
+1.3.3评估准则根据水文预报评价标准，采用相对误差 $R E$ 和确定性系数 $D C$ 进行评价。二者公式如下：
+
+$$
+R E = \left| \frac { \overline { { Q _ { \mathrm { \ o b s } } } } - \overline { { Q _ { \mathrm { \ o i m } } } } } { \overline { { Q _ { \mathrm { \ o b s } } } } } \right| \times 1 0 0 \%
+$$
+
+$$
+D C = 1 - { \frac { \sum ( Q _ { \mathrm { o b s } } - Q _ { \mathrm { s i m } } ) ^ { 2 } } { \sum ( Q _ { \mathrm { o b s } } - { \overline { { Q _ { \mathrm { o b s } } } } } ) ^ { 2 } } }
+$$
+
+式中： $\overline { { Q _ { \mathrm { o b s } } } }$ 为九条岭站实测流量 $( \mathbf { m } ^ { 3 } \cdot \mathbf { s } ^ { - 1 } )$ ; $\overline { { Q _ { \mathrm { s i m } } } }$ 为模型模拟的流量值 $( \mathbf { m } ^ { 3 } \cdot \mathbf { s } ^ { - 1 } )$ ; $R E$ 为相对误差; $D C$ 为确定性系数。
+
+# 2结果与分析
+
+# 2.1格点降水数据修正结果分析
+
+根据流域在降水网格的位置，提取流域内格点降水。经过格点降水异常点识别与修正方法进行修正(图3)。在约束条件所构成的区域内寻找异常点，每年需要修正的格点并不多，但这些格点属于偏离降水径流成因关系曲线较大的降水数据点。由2018年的格点降水的修正可以看出(图4)，2018年仅有两日的格点降水需要修正，即红色标注部分（图4a)，将异常点处的降水数据修正到剔除异常点后的降水-径流关系曲线上(图4b)，这两个异常点的降水值分别由 $2 4 . 3 ~ \mathrm { m m } \cdot 2 1 . 8 ~ \mathrm { m m }$ 修正为 $0 . 6 \mathrm { m m }$ 和$4 . 3 ~ \mathrm { m m }$ 。修正后，率定期的模拟效果确定性系数从0.59提升到0.63，提升了 $0 . 0 4$ 。验证期的模拟效果确定性系数从0.69提升到0.72，提升了0.03（表1）。
+
+2013年的格点降水修正对确定性系数的提升较为明显，从0.23提升到了 $0 . 6 9$ 。格点降水修正对于$7 5 \%$ 的年份均表现为模拟效果提升。
+
+# 2.2融雪径流模拟分析
+
+分别用融雪模型融合前后及降水修正后的新安江模型进行模拟，模拟效果见表1。由表1可知，融雪模块耦合后的模拟结果通常比传统的新安江模型模拟得更好。可以注意到，改进过程中，确定性系数的提高和相对误差的降低并不同步，这是由于在参数优化时，选择了确定性系数作为目标函数，其更能反应模拟过程，体现流量模拟值的变化在总体变化中的比例。而相对误差更多地评价模拟总流量与实测值之间的关系，重点在总量的控制上。除2013年由于以确定性系数为目标函数的参数优化使得确定性系数大幅提升，相对误差为$23 \%$ ，超过了 $2 0 \%$ 外，其余年份的各种情况模拟，相对误差均在 $2 0 \%$ 以下，在后续研究中若能继续进行多目标参数优化，有望将2013年的相对误差进一步降低。
+
+选择2011—2016年作为模型率定期，2017—2018年作为模型验证期。率定期参数优化后，确定性系数达到0.63，此套参数用于验证期，确定性系数为0.72。说明此模型在西营河流域具有一定适用性。经过融雪模块融合、格点降水修正， $8 7 \%$ 以上的模拟年确定性系数在0.6以上、 $6 2 \%$ 以上的年份模拟达0.69以上，模拟结果较好。新安江模型平均确定性系数为0.62，融雪耦合和格点降水修正后平均确定性系数为0.67，提高0.05。将变动态存储系数法用于新安江模型河道洪水演算的研究在印江河流域只提高了 $0 . 0 1 8 2 ^ { [ 1 2 ] }$ ;改进新安江模型在乌江独木河流域模拟时确定性系数仅提高 $0 . 0 2 ^ { [ 2 2 ] }$ 。与类似研究相比，本文运用改进的新安江模型在西营河流域的平均确定性系数提高0.05，效果显著。
+
+![](images/da0c5b24aadc276b9230275eac2113dc20ab8ffaf2a4d9acd09c7ab5217a09e5.jpg)  
+图42018年格点降水的修正  
+Fig.4 Grid precipitation correction in 2018
+
+Tab.1 Simulation results of Xin'anjiang model under different conditions   
+
+<html><body><table><tr><td rowspan="2">年份</td><td rowspan="2">降水量/mm</td><td rowspan="2">实测径流深 /mm</td><td colspan="3">相对误差/%</td><td colspan="3">确定性系数</td></tr><tr><td>新安江模型</td><td>融雪模块融合 后新安江模型</td><td>格点降水修正 后的改进新安 江模型</td><td>新安江模型</td><td>融雪模块融合 后新安江模型</td><td>格点降水修正 后的改进新安 江模型</td></tr><tr><td>2011</td><td>639.7</td><td>289.61</td><td>14.0</td><td>7.8</td><td>16.1</td><td>0.68</td><td>0.64</td><td>0.69</td></tr><tr><td>2012</td><td>573.2</td><td>330.76</td><td>19.2</td><td>17.0</td><td>19.0</td><td>0.69</td><td>0.71</td><td>0.72</td></tr><tr><td>2013</td><td>495.3</td><td>233.34</td><td>23.0</td><td>0.2</td><td>23.2</td><td>0.69</td><td>0.23</td><td>0.69</td></tr><tr><td>2014</td><td>733.5</td><td>284.99</td><td>14.7</td><td>12.4</td><td>12.4</td><td>0.43</td><td>0.51</td><td>0.51</td></tr><tr><td>2015</td><td>556.5</td><td>273.28</td><td>14.3</td><td>6.0</td><td>15.2</td><td>0.56</td><td>0.65</td><td>0.61</td></tr><tr><td>2016</td><td>593.5</td><td>324.96</td><td>15.6</td><td>11.0</td><td>19.3</td><td>0.58</td><td>0.61</td><td>0.64</td></tr><tr><td>2017</td><td>664.5</td><td>341.85</td><td>14.7</td><td>2.7</td><td>17.1</td><td>0.62</td><td>0.65</td><td>0.72</td></tr><tr><td>2018</td><td>543.0</td><td>317.50</td><td>17.1</td><td>13.2</td><td>19.1</td><td>0.70</td><td>0.70</td><td>0.71</td></tr><tr><td>率定期</td><td>3591.7</td><td>1739.94</td><td>3.6</td><td>16.2</td><td>1.7</td><td>0.58</td><td>0.59</td><td>0.63</td></tr><tr><td>验证期</td><td>1207.5</td><td>659.35</td><td>4.0</td><td>21.0</td><td>16.2</td><td>0.67</td><td>0.69</td><td>0.72</td></tr></table></body></html>
+
+采用2011—2016年进行参数优化模型率定，利用2017一2018年进行模型的验证，参数率定时采用遗传算法优化参数，其中以确定性系数作为算法的目标函数进行率定，表2显示了优化后的模型参数。
+
+耦合融雪的新安江模型率定期和验证期模拟结果如图5所示，除第二年洪峰模拟偏低外，其余年份洪峰模拟效果均很好。率定期的多年模拟结果中，确定性系数达到0.63，比未进行格点降水修正的0.59提高了0.04。在验证期，可以看到模型已模拟出春季融雪径流，夏季的洪水部分前期模拟较好，后期模拟效果较低，可能与当年的格点降水数据仍存在误差有关。验证期耦合融雪的新安江模型经降水修正后比新安江模型模拟的确定性系数提升0.05。
+
+在融雪径流的模拟过程中，率定期内，2011年、2013年、2014年、2015年的春季径流模拟很好。在未出现较大降水时，也会出现春季小洪峰，此时主要是由于流域上游祁连山东段的山间积雪融化导致。如2011年4月20日，此前4d及当天未出现降水，出现了 $1 3 . 8 ~ \mathrm { m ^ { 3 } \cdot s ^ { - 1 } }$ 的流量峰值。由于当时气温逐渐升高，山上的积雪逐渐融化，形成了此次春季非降雨成因的融雪径流。改进的新安江模型在夏季洪峰的模拟上效果很好，这可能是因为在西营河流域，产流层较薄，多数情况下当日降水会产生当日出流，流域汇流延时较短。在验证期，总体模拟效果普遍不如率定期，但春季径流仍然能够模拟较好，说明模型加入的融雪模块运用较好，以气温为基础足以计算出研究区的春季径流。2017年的夏季洪水模拟较好，而2018年7月、8月的径流，虽然趋势一致，但多出现模拟值较高的情况。对照降水数据可以发现，在2018年修正的降水仅为9月降水。这是由于在降水修正时，没有将非较大值的降水考虑在修正范围内，修正的两个约束并不能识别较小降水的趋势性问题，这也是在后续降水数据使用中，需要深人探讨的问题。
+
+表1不同情况下新安江模型模拟结果  
+表2含融雪的新安江模型参数及物理意义  
+Tab.2 The parameters of snowmelt-Xin' anjiang model and its physical significance   
+
+<html><body><table><tr><td>层次</td><td>参数</td><td>参数意义</td><td>敏感性</td><td>取值范围</td><td>参数取值</td></tr><tr><td>融雪模块</td><td>T</td><td>基础温度/C</td><td>敏感</td><td>-1.0~2.7</td><td>1.13</td></tr><tr><td rowspan="3">蒸散发计算</td><td>d</td><td>度日因子/(mm·℃·d1)</td><td>不敏感</td><td>0.5~7</td><td>0.69</td></tr><tr><td>KC</td><td>流域蒸散发折算系数</td><td>敏感</td><td><1</td><td>0.08</td></tr><tr><td>UM</td><td>上层张力水容量/mm</td><td>不敏感</td><td>10~50</td><td>42.3</td></tr><tr><td rowspan="4">产流计算</td><td>LM</td><td>下层张力水容量/mm</td><td>不敏感</td><td>60~90</td><td>63</td></tr><tr><td>C</td><td>深层蒸散发折算系数</td><td>不敏感</td><td>0.1~0.2</td><td>0.1</td></tr><tr><td>WMM</td><td>流域平均张力水容量</td><td>不敏感</td><td>70~200</td><td>117</td></tr><tr><td>B</td><td>张力水蓄水容量曲线方次</td><td>不敏感</td><td>0.1~0.4</td><td>0.28</td></tr><tr><td rowspan="4">水源划分</td><td>IM</td><td>不透水面积占全流域面积的比例</td><td>不敏感</td><td>0.01~0.02</td><td>0.018</td></tr><tr><td>SM</td><td>表层自由水蓄水容量/mm</td><td>敏感</td><td>10~80</td><td>69.4</td></tr><tr><td>EX</td><td>表层自由水蓄水容量曲线方次</td><td>不敏感</td><td>1~1.5</td><td>1.01</td></tr><tr><td>KG</td><td>表层自由水蓄水库对地下水的日出流系数</td><td>敏感</td><td><0.7</td><td>0.3</td></tr><tr><td rowspan="4">汇流计算</td><td>KI</td><td>表层自由水蓄水库对壤中流的日出流系数</td><td>不敏感</td><td>0.7-KG</td><td>0.4</td></tr><tr><td>CI</td><td>壤中流消退系数</td><td>敏感</td><td>0~0.9</td><td>0.9</td></tr><tr><td>CG</td><td>地下水消退系数</td><td>不敏感</td><td>0.98~0.998</td><td>0.998</td></tr><tr><td>CS</td><td>河网蓄水消退系数</td><td>敏感</td><td>0.001~1</td><td>0.69</td></tr></table></body></html>
+
+![](images/79c8ff0973b55cc05c6e4836bbf96ad47e1d5ad826b62d4a97a01a50f0bf6786.jpg)  
+图5模型率定期和验证期模拟结果  
+Fig.5Simulation results during model calibration period and validation period
+
+# 3结论
+
+本文考虑到研究区实际情况将新安江模型加入融雪模块，考虑融雪对径流的影响。另一方面，由于研究区水文站点少，采用格点降水和气温数据集作为改进的新安江模型的驱动数据。运用过程中发现异常点并进行了识别方法及修正方法的探索，将格点降水进行修正作为模型驱动，进行水文模拟，进而分析新安江模型改进前后、格点降水数据修正前后的模拟效果，得到如下结论：
+
+(1）在站点资料缺乏的干旱半干旱区，利用全国范围内制作的气象数据集解决由于资料缺乏，数据集存在一定误差的问题，运用降水-径流关系曲线修正少数偏差较大的格点降水后，能够提高数据可用性，模拟的确定性系数在8a年中有6a均有提高，其余2a差异不大。
+
+(2）将融雪模块耦合新安江模型，使用的模型驱动数据较少，运用简单。新安江模型在西营河流域模拟流量过程的年确定性系数均在0.5以上，经过融雪耦合和格点降水修正后 $8 7 \%$ 以上的模拟年确定性系数0.6以上、 $6 2 \%$ 以上的模拟年确定性系数达0.69以上。新安江模型平均确定性系数为0.62，融雪耦合和格点降水修正后平均确定性系数为0.67，提高了 $8 \%$ 。总体模拟效果较好，在西营河流域运用良好。
+
+# 参考文献(References)：
+
+[1]曹泊,潘保田,高红山,等.1972—2007年祁连山东段冷龙岭现 代冰川变化研究[J].冰川冻土,2010,32(2):242-248.[Cao Bo, Pan Baotian,Gao Hongshan,et al. Glacier variation in the Lenglongling range of eastern Qilian mountains from 1972 to 2007[J]. Journal of Glaciology and Geocryology,2010,32(2): 242-248.]   
+[2]Wu X J, Zhang W,Li H Y,et al. Analysis of seasonal snowmelt contribution using a distributed energy balance model for a river basin in the Altai Mountains of northwestern China[J].Hydrological Processes,2021,35(3): 1-16.   
+[3]李志龙.新安江模型在资料缺乏的寒区流域的应用研究[D].南 京：河海大学,2OO6.[Li Zhilong.Application of Xin'anjiang Model in Cold Regions[D]. Nanjing: Hohai University,2006.]   
+[4]陈心池,张利平,闪丽洁,等.新疆山区中小河流洪水预报模型 及其应用[J].干旱区研究,2017,34(6):1426-1435.[Chen Xinchi, Zhang Liping,Shan Lijie,et al. Flood prediction models and their application for the medium and small rivers in alpine area in Xinjiang [J]. Arid Zone Research,2017,34(6): 1426-1435.]   
+[5]邢贞相,金超群,纪毅,等.基于SWAT模型与Copula修正的融 雪径流模拟[J].东北农业大学学报,2020,51():79-87.[Xing Zhenxiang,Jin Chaoqun,Ji Yi,et al. Study on snowmelt runoff simulation based on SWAT model and Copula correction[J]. Journal of Northeast Agricultural University,2O20,51(6) 79-87.]   
+[6]肖森元,杨广,何新林,等.玛纳斯河流域 MIKE SHE水文模型 率定[J].山地学报,2021,39(1):1-9.[Xiao Senyuan,Yang Guang,He Xinlin,et al. Calibration of hydrological modelling by MIKE SHE for the Manas River Basin,Xinjiang,China[J].Mountain Research,2021,39(1): 1-9.]   
+[7]金浩宇,鞠琴.SRM模型在尼洋河流域的应用研究[J].水文, 2019,39(5): 19-24.[Jin Haoyu, Ju Qin. Application of SRM model in Niyang River Basin[J]. Journal of China Hydrology,2019,39 (5): 19-24.]   
+[8]Meng X Y, Yu D L,Liu Z H. Energy balance-based SWAT model to simulate the mountain snowmelt and runoff: Taking the application in Juntanghu watershed (China) as an example[J]. Journal of Mountain Science,2015,12(2): 368-381.   
+[9]赵人俊.流域水文模拟—新安江模型与陕北模型[M].北京: 水利电力出版社,1984:106-130.[Zhao Renjun.Hydrological Simulation of Watershed: Xin'anjing Model and Shanbei Model [M].Beijing: China Water Power Press,1984: 106-130.]   
+[10] 刘金涛,宋慧卿,张行南,等.新安江模型理论研究的进展与探 讨[J].水文,2014,34(1):1-6.[Liu Jintao,Song Huiqing,Zhang Xingnan,etal.A discussion on advances in theories of Xin'anjiang model[J]. Journal of China Hydrology,2014,34(1):1-6.]   
+[11] Lyu HS,Hou T, Horton R,et al.The streamflow estimation using the Xin'anjiang rainfall runof model and dual state-parameter estimation method[J].Journal of Hydrology,2013,480(4):102-114.   
+[12] 韩元元,吴昊.改进的新安江模型在贵州印江河流域的适用性 及对比分析[J].水资源与水工程学报,2015,26(3):110-114. [Han Yuanyuan,Wu Hao.Applicability and comparative analysis of improved Xin'anjiang model in Yinjiang River basin of Guizhou Provine[J].Journalof WaterResourcesand WaterEngineering,2015,26(3): 110-114. ]   
+[13]Alazzy A A,Lyu HS, Zhu Y H. Assessing the uncertainty of the Xin'anjiang rainfall-runoff model: Effectof the likelihood function choice on the GLUE method[J]. Journal of Hydrologic Engineering, 2015,20(10): 1-11.   
+[14] 邓元倩,李致家,刘甲奇,等.基于SCE-UA算法新安江模型在 沣河流域的应用[J].水资源与水工程学报,2017,28(3):27-31. [Deng Yuanqian,Li Zhijia,Liu Jiaqi,etal.Application of Xin'anjiang model based on SCE-UA algorithmin Feng River Basin[J]. Journal of Water Resources and Water Engineering,2017,28(3): 27-31.]   
+[15]邵成国,姜卉芳,田龙.新安江模型在乌鲁木齐河径流模拟中的 运用[J].人民长江,2014,45(增刊):15-17.[Shao Chengguo,Jiang Huifang,Tian Long.Application of Xin'anjiang model in runoff simulationof Urumqi River[J]. Yangtze River,2014,45(Suppl. ): 15-17.]   
+[16] 赵兰兰,朱冰,唐俊龙.不同洪水预报模型在拒马河流域的应用 对比分析[J].水文,2017,37(4): 24-28.[Zhao Lanlan,Zhu Bing, Tang Junlong. Comparative analysisof diferent flood forecasting models used for Jumahe River Basin[J]. Journal of China Hydrology,2017,37(4): 24-28.]   
+[17]姜卉芳.融雪径流模拟及其在切德克流域的应用[J].新疆农业 大学学报,1987,23(1): 67-75.[Jiang Huifang. Snowmelt runoff simulation anditsapplicationin Chedek Basin[J]. Journalof Xinjiang Agricultural University,1987,23(1): 67-75.]   
+[18]田龙,姜卉芳,穆振侠.高寒山区融雪模型的改进与应用研究 [J].水资源与水工程学报,2014,25(4):84-88.[TianLong,Jiang Huifang, Mu Zhenxia. Application and improvement of snow melt model in high cold areas[J]. Journal of Water Resources and Water Engineering,2014, 25(4): 84-88.]   
+[19] 孙铭悦,吕海深,朱永华,等.2套气象数据在资料缺乏地区的 适用性评估——以呼图壁河流域为例[J].干旱区研究,2020,39 (1): 94-103.[Sun Mingyue,Lyu Haishen, Zhu Yonghua,et al.Applicability assessment of two meteorological datasets in areas lacking data with the Hutubi River Basin as an example[J].Arid Zone Research,2020,39(1): 94-103.]   
+[20] 陈志昆.张书余.雒佳丽.等.祁连山区降水气候特征分析I.干
+
+旱区研究,2012,29(5):847-853.[Chen Zhikun,Zhang Shuyu, Luo Jiali, et al.Analysis on the change of precipitation in the Qilian Mountains[J].Arid Zone Research,2012,29(5): 847-853.]
+
+[21]赵煜飞,朱江.近50年中国降水格点日值数据集精度及评估 [J].高原气象,2015,34(1):50-58.[Zhao Yufei,Zhu Jiang.Assessing quality of grid dailyprecipitation datasets in China inrecent 50 years[J].Plateau Meteorology,2015,34(1): 50-58.] [22] 郝庆庆,陈喜.新安江模型在乌江独木河流域的应用与改进[J]. 河海大学学报(自然科学版),2012,40(1):109-112.[Hao Qingq ing,Chen Xi.Application and improvement of Xin'anjiang model in Dumu Watershed of Wujiang River Basin[J]. Journal of Hohai University(Natural Sciences),2012,40(1): 109-112.]
+
+# Runoff simulation in an arid area using the Xin'anjiang model coupled with snowmelt
+
+ZHANG Meijie¹²，LYU Haishen'²，LIU Di’²， ZHU Yonghual²， SUN Mingyue1,2 (1. State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering,Hohai University, Nanjing 21Oo98,Jiangsu, China; 2.College of Hydrology and Water Resources,Hohai University, Nanjing 210098, Jiangsu, China)
+
+Abstract: Using datasets of the daily grid-based precipitation and temperature from 201l to 2018 in the upstream research area of Jiutiaoling hydrological station in the Xiying River Basin, we simulated the daily runoff process in the study basin. We propose a new method for the identification and correction of abnormal grid precipitation, which is based on the relationship between precipitation and runof. Moreover, we created a combination of the snowmelt module and the three water source model of the Xin'anjiang model, then analyzed the applicability of the Xin'anjiang model coupled with the snowmelt module in the Xiying River Basin. Two evaluation criteria, deterministic coeficient and relative error, were used to evaluate the simulation results.The simulation results, after precipitation correction and considering snowmelt， were compared with those without precipitation correction or snowmelt consideration.The correction of grid precipitation data,based on the relationship between precipitation and runoff, improved the accuracy of the runof simulation,and produced an improved simulation certainty coefficient in $7 5 \%$ of the years.The Xin'anjiang model with a snowmelt module produced a better simulation of the Xiying River Basin than that without a snowmelt module in $7 5 \%$ of the years.Additionally, the simulated certainty coefficient was above O.6 for more than $87 \%$ of the years.This study can act as a reference for the application of the model in the Xiying River Basin.
+
+Keywords: Xiying River Basin; grid precipitation data; snowmelt module； improved Xin'anjiang model

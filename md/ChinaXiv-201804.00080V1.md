@@ -1,0 +1,190 @@
+# 华南地区6种蕨类植物耐旱性研究
+
+沈彦会，蔡静如，许建新"，吴志（深圳市铁汉生态环境股份有限公司，广东深圳，518040）
+
+摘要：该文利用盆栽控水法研究了华南毛蕨、蜈蚣蕨、线羽凤尾蕨、毛叶铁线蕨、长叶肾蕨和普通针毛蕨6种华南地区常见蕨类的耐旱性，测定了植株在自然干旱下的土壤绝对含水量、叶绿素 SPAD值、叶片相对含水量和气体交换参数等指标变化。结果表明：随干旱胁迫加剧，叶片相对含水量总体呈下降趋势，其中普通针毛蕨、蜈蚣蕨和长叶肾蕨下降不明显，华南毛蕨降幅最大。叶绿素 SPAD值随干旱加剧显著下降。其中华南毛蕨和长叶肾蕨下降幅度较小，蜈蚣蕨下降幅度较大。净光合速率、气孔导度和蒸腾速率随干旱加剧而不断下降，其中普通针毛蕨和蜈蚣蕨下降幅度较小，华南毛蕨下降幅度较大。然而胞间 $\mathrm { C O } _ { 2 }$ 浓度随着干旱的加剧而不断上升，其中线羽凤尾蕨上升幅度最大，蜈蚣蕨和普通针毛蕨上升幅度较小。以各指标的平均变化速率为原始数据进行隶属函数法分析得出，6种参试蕨类植物的耐旱能力大小依次为蜈蚣蕨 $>$ 普通针毛蕨>长叶肾蕨 $\vdots >$ 毛叶铁线蕨 $\vdots >$ 华南毛蕨 $\mathrm { > }$ 线羽凤尾蕨。
+
+关键词：蕨类植物，耐旱性，光合参数，隶属函数，生态修复
+
+DOl: 10.11931/guihaia.gxzw201709018
+
+# The study on drought-resistance capability of six ferns from south China
+
+SHEN Yan-Hui,CAI Jing-Ru,XUJian-Xin,WU Zhi（Shenzhen Techand Ecology & Environment CO.,LTD.,Shenzhen,518040, Guangdong, China）
+
+Abstract:Thedrought-resistancecapabilityofCyclosorusparasiticus，Pterisvittata, Pteris linearisMacrothelypteris torresiana,NephrolepisbiserrataandAdiantumpubescens insouth Chinawasresearched under theconditionof artificial soil desiccation in this paper,Indexesof absolute water content,relative water content,chlorophyll content SPAD value and photosynthetic parameters were measured under drought-stress condition.The results showed that as drought stressincreased,The absolute water content of six ferns decreased generally, M. torresiana, $P .$ vittataand, $N .$ biserrata decreased slightly, C. parasiticus decreased the most. SPAD value decreased as drought stressincreased, C.parasiticus and N.biserrata decreased slightly，the reductionof P.vitata was significantly larger than the others.Net photosynthetic rate,leaf transpiration rateand stomatal conductance decreased as drought stress increased,M. torresiana and $P .$ vittata decreased less,C.parasiticus decreasedlargely.But intercellular $\mathrm { C O } _ { 2 }$ concentration increased obviously, $P .$ linearisincreased,M.torresiana and $P .$ vitata increased slightly.The drought resistance of six ferns was evaluated by membership function method based on the average rate of change in indexes.The drought resistance order follow: $P .$ vittata> M.torresiana> N. biserrata>A.pubescens ${ \mathrm { > } } C .$ parasiticus $> P .$ linearis.
+
+Key words: Ferns, drought-resistance capability, photosynthetic parameters, membership function， ecological restoration
+
+蕨类植物是介于苔藓植物和种子植物之间的一个独具特色的高等植物类群，它的多样性与被子植物多样性密切相关，而且二者具有协同进化的关系（曾宋君和邢福武，2002；陆树刚和陈风，2013；Schneider，etal，2004）。蕨类植物观赏价值高，不仅可用于园林造景、室内盆栽、立体绿化等方面，也可用于生态修复（田英翠和杨柳青，2006；苟燕妮和雷江丽，2011）。在边坡修复过程中植物因素起着重要的作用，特别是边坡植物群落的物种多样性对边坡群落的结构、功能、演替和稳定都有重要的意义（崔莉等，2007；马克明等，1999；吴彦等，2004；高贤明等，2001）。目前边坡修复中的植物配置主要是结合生态工程技术采用乔灌草的模式，但随灌木的生长，草本植物会逐渐退化，而蕨类植物一般都具有较强的耐荫性，适当的把蕨类植物运用到边坡修复中，不仅可以丰富边坡植物种类也可以增强边坡生态群落的稳定性。但边坡的立地条件一般比较差，土壤贫瘠且养分少，再加上后期养护强度小，干旱胁迫很容易成为影响边坡植物生长和发育的主要环境因子之一，因此边坡修复应选择抗旱性较强的植物（周江等，2014；孔东莲等，2007;陈洪凯和吴帆,2015）。而蕨类植物没有真正的主根，只有不定根，耐旱性相对于乔灌木来说较弱，容易受到干旱胁迫的影响（钱塘璜等，2012；张宪春，2012）。目前关于蕨类植物耐旱方面的研究还比较少，特别是关于华南地区自然分布的蕨类耐旱性研究数据几乎没有，为更好的指导蕨类在边坡绿化中的应用，本试验以华南毛蕨、蜈蚣蕨、线羽凤尾蕨、毛叶铁线蕨长叶肾蕨和普通针毛蕨6种华南地区常见的的蕨类为研究对象，通过测定植株在自然干旱下的土壤绝对含水量、叶绿素含量、叶片相对含水量和气体交换参数变化等指标变化，并利用隶属函数法进一步综合评价了6种蕨类的耐旱性。
+
+# 1.材料与方法
+
+1.1试验材料
+
+试验材料为来自深圳市铁汉生态环境股份有限公司东莞桥头繁殖基地的华南毛蕨（Cyclosorus parasiticus）、蜈蚣蕨（Pterisvittata）、线羽凤尾蕨（Pterislinearis）、普通针毛蕨（Macrothelypteris torresiana）、长叶肾蕨（Nephrolepis biserrata）和毛叶铁线蕨（Adiantumpubescens）组培驯化苗，所有参试苗都是经过组培原叶体驯化炼苗，然后待蕨类小苗生长至 $6 { \sim } 1 0 \mathsf { c m }$ 时进行上盆移栽，然后生长半年左右。
+
+1.2试验方法
+
+试验于2017年5月在东莞桥头繁殖基地开展，试验所用的蕨类苗为盆栽苗，种植盆直径 $1 4 \ c m$ ，深 $1 1 \mathsf { c m }$ ，基质为翠筠泥炭土。试验采用自然干旱胁迫的方法对6种试验幼苗进行控水处理，每个处理10个重复，分别测量处理0d(对照)、2d、5d、10d和15d时的叶片相对含水量、叶绿素及光合指标等数据，测量时随机抽取每个处理的三个试验样本进行数据收集。
+
+# 1.2.1叶绿素 SPAD 值测定
+
+SPAD 值是采用 SPAD-502叶绿素仪通过测量叶片对红色区域和近红外区域两个波长段里的吸收率，来评估当前叶片中的叶绿素的相对含量。（张贤等，2009）。测量时每个处理随机选取3株植物，每株选择相同部位的3片健康羽叶进行测量并求取平均值。
+
+# 1.2.2土壤绝对含水量
+
+利用 TDR100便携式土壤水分速测仪测定植物在自然干旱胁迫0d、2d、5d、10d 和15d时的土壤绝对含水量，变化情况如图1。
+
+Fig.1 The change in absolute water content of six ferns under drought stress注：不同小写字母表示处理间有显著性差异( $\mathbf { P } { < } 0 . 0 5 )$ ，下同；
+
+Note: Different lowercases indicate significant differences $\mathrm { ~ \bf ~ P ~ } < 0 . 0 5 )$ ,The same below
+
+1.2.3叶片相对含水量
+
+取各植株相同部位叶片，首先测定植物叶片的鲜重 $\mathbf { M } _ { 1 }$ ，后将叶片浸入蒸馏水中5-6h，使叶片吸水达到饱和状态，取出擦干叶片至表面无水分残留，再称重，得植物叶片的饱和鲜重 $\mathbf { M } _ { 2 }$ ，最后将植物叶片放进烘箱， $1 0 5 ^ { \circ } \mathsf { C }$ 杀青半小时，再于 $8 5 ^ { \circ } C$ 环境下烘至恒重，得叶片干重 $\mathbf { M } _ { 3 }$ 。
+
+叶片相对含水量（RWC）按公式计算。
+
+# 1.2.4光合指标测定
+
+利用LI-COR公司生产Li-6400 光合仪，测定植物在光强 $8 0 0 \mu \mathrm { m o l } \cdot \mathsf { m } ^ { - 2 } \cdot \mathsf { s } ^ { - 1 }$ 下的净光合速率（204号 $( P _ { \mathfrak { n } } )$ 、气孔导度 $\left( G _ { s } \right)$ 、蒸腾速率 $( T _ { r } )$ 和胞间 ${ \mathsf { C O } } _ { 2 }$ 浓度 $( C _ { \mathrm { i } } )$ 。测量时，叶室温度控制在 $2 5 ^ { \circ } \mathsf { C } ,$ 相对湿度为 $60 \%$ ，二氧化碳浓度控制在400umol·mol1。每种蕨各选3片健康羽叶进行测定。
+
+# 1.2.5耐旱性综合评价方法
+
+# 1.2.5.1植物抗旱指标数值的计算
+
+植物抗旱性是复杂多变的综合性状，受多种因素影响,某一个测量值并不能全面反应某物种的抗旱性，而综合各生理指标变化来综合反映植物的抗旱性较为合理（谭雪红等，2012），因此本文采用胁迫15d各生理指标在不同水分胁迫下其相对于对照变化速率的平均值作为综合评价指标。
+
+$$
+V _ { i j k } = \frac { \left| z _ { i j k } - z _ { i j k } \right| } { \left| z _ { i j k } \right| }
+$$
+
+式中， $V _ { i j w }$ 代表i植物j指标在W水分胁迫下的变化速率， $Z _ { i j w }$ 代表 $\mathrm { ~ w ~ }$ 水分胁迫下i植物j指标的测量平均值 $\mathcal { J } _ { i j k }$ 代表胁迫前i植物j指标的测量平均值。
+
+1.2.5.2植物抗旱性综合评价方法
+
+采用模糊数学隶属函数法（陶向新，1982），对参试物种的各个生理指标变化速率的隶属值进行累加，求取平均值，并进行种间比较，以评定植物耐旱特性。隶属函数值计算方法如下：
+
+如果某一指标与耐旱性呈正相关，则： $\times ( u ) = ( X - X _ { \operatorname* { m i n } } ) / ( X _ { \operatorname* { m a x } } - X _ { \operatorname* { m i n } } )$ 如果某一指标与耐旱性呈负相关，则： $\times ( \mu ) = 1 - ( \mathsf { X } - \mathsf { X } _ { \mathsf { m i n } } ) / ( \mathsf { X } _ { \mathsf { m a x } } - \mathsf { X } _ { \mathsf { m i n } } )$ 。式中：×（u）为某一植物在某一处理下的隶属函数值； $\mathsf { x }$ 为该植物在某一处理下的平均测定值； $\mathsf { X } _ { \mathsf { m a x } }$ 为所有参试植物在该处理下平均测定值中的最大值； $\mathsf { X } _ { \mathsf { m i n } }$ 为所有参试植物在该处理下平均测定值中的最小值。
+
+1.3数据处理
+
+采用 Excel2013和 spss20进行试验数据处理及绘制图表，利用最小显著差数（LSD）法在 $\scriptstyle \mathtt { \alpha } = 0 . 0 5$ 水平对数据进行多重比较和方差分析。
+
+# 2.结果与分析
+
+2.1干旱胁迫对参试蕨类形态的影响
+
+在干旱处理期间，线羽凤尾蕨和毛叶铁线蕨最早出现萎蔫，蜈蚣蕨和普通针毛蕨叶片有少数焦枯斑点没有萎蔫，长叶肾蕨叶片颜色由墨绿色变为蓝绿色且颜色较浅但没有出现萎蔫，可见蜈蚣蕨、普通针毛蕨和长叶肾蕨能忍受较长时间的干旱。
+
+2.2旱胁迫对叶片相对含水量的影响
+
+叶片相对含水量的高低可在一定程度上反映植物叶片保水能力的强弱（孙群等，2002）。如图2所示，6种参试蕨在干旱胁迫处理0-5d时叶片相对含水量具有不同程度的上升，且受胁迫10d时出现不明显下降，之后华南毛蕨、毛叶铁线蕨和线羽凤尾蕨急剧下降且差异性显著，而普通针毛蕨、蜈蚣蕨和长叶肾蕨的叶片相对含水量
+
+显著下降。以上结果说明在15d的干旱胁迫时间内，普通针毛蕨、蜈蚣蕨和长叶肾蕨的叶片含水量没有显著变化，表现出了较高的保水能力，相对于其它3种蕨类具有较强耐旱能力。
+
+# 图2.干旱胁迫下6种蕨叶片相对含水量变化
+
+2.3干旱胁迫对叶片叶绿素SPAD值的影响
+
+如图3所示：在干旱处理2d时，华南毛蕨、毛叶铁线蕨和长叶肾蕨的叶绿素SPAD 值呈现出小幅度的上升，随着干旱时间延长，其叶绿素 SPAD值呈现显著下降趋势，而其余三种蕨的叶绿素SPAD值则随着干旱胁迫时间延长而持续下降，其中，长叶肾蕨下降幅度最小，线羽凤尾蕨下降幅度最大，说明不同蕨类植物对干旱胁迫具有不同的应激反应，而长叶肾蕨具有较强的耐旱性。
+
+Fig.3 Changes of SPAD value of six ferns after drought stress
+
+2.4干旱胁迫对叶片净光合速率的影响
+
+如图4所示，蕨类植物在干旱胁迫期间，净光合速率总体显著性下降，其中华南毛蕨和长叶肾蕨0-5d时有上升趋势，随后显著性下降且华南毛蕨的净光合速率在15d时变为负值；毛叶铁线蕨和线羽凤尾蕨从干旱处理之初净光合速率就呈下降趋势，2-5d时毛叶铁线蕨显著性上升，但线羽凤尾蕨变化不明显，随后二者显著性下降，且15d时都降到了1以下；普通针毛蕨和蜈蚣蕨在0-5d时先小幅度上升后显著性下降，而5-10d时先不显著性上升随后又显著性下降，但15d时净光合速率都在2以上，说明二者对干旱胁迫具有较强的适应能力。
+
+Fig. 4 Changes of $P _ { \mathrm { { n } } }$ in leaf of six ferns after drought stress
+
+2.5干旱胁迫对叶片蒸腾速率的影响
+
+当植物受到干旱胁迫时，一般会通过降低自身的蒸腾速率来保持植物体内水分以更好抵御干旱。由图5可看到，随着胁迫程度加剧，6种蕨类叶片的蒸腾速率整体显著性下降，0-5d时下降幅度小且差异性不大，5-10d时下降幅度大且差异性显著。而毛叶铁线蕨和线羽凤尾蕨的蒸腾速率随干旱胁迫加剧先下降后又升高，可能是这两种蕨对干旱胁迫的生理反映不敏感，轻度胁迫不能完全产生胁迫反应，而华南毛蕨、普通针毛蕨和长叶肾蕨随胁迫加剧蒸腾速率逐渐下降，表现出了较强的耐旱性。
+
+Fig.5 Effect of drought stress on $T _ { \mathrm { r } }$ in leaf of six ferns
+
+2.6干旱胁迫对气孔导度的影响
+
+如图6所示，随干旱胁迫时间的延长，大部分蕨类叶片的气孔导度除在干旱处理2-5d有小幅度上升外，总体呈显著性下降趋势。但在干旱初期，华南毛蕨和毛叶铁线蕨下降显著，而普通针毛蕨和线羽凤尾蕨和长叶肾蕨下降趋势较小，说明二者耐旱性较强；但在胁迫 5-10d时，蜈蚣蕨和长叶肾蕨下降趋势较缓和，且蜈蚣蕨下降不显著，说明蜈蚣蕨和长叶肾蕨适应干旱的能力较强。
+
+Fig. 6 Changes of $T _ { \mathrm { r } }$ in leaf of six ferns after drought stress
+
+# 2.7干旱胁迫对胞间CO2浓度的影响
+
+随着干旱胁迫的不断加剧胞间 $\mathrm { C 0 _ { 2 } }$ 浓度逐渐增高，在干旱处理5-10d时除长叶肾蕨外其它蕨的胞间 $\mathrm { C 0 _ { 2 } }$ 浓度小幅度下降，随后华南毛蕨、毛叶铁线蕨和线羽凤尾蕨急剧升高，而蜈蚣蕨小幅度上升，说明蜈蚣蕨具有较强的耐旱性。而普通针毛蕨在干旱处理15d时逐渐下降，这可能是气孔导度、叶肉导度和叶肉细胞光合活性共同作用的结果。
+
+2.8.6种蕨类耐旱能力综合评价
+
+为更加全面的反映6种蕨类抗旱性强弱，本文以6种蕨的叶片相对含水量、叶绿素SPAD值、净光合速率、蒸腾速率、气孔导度和胞间 ${ \mathsf C } { \mathsf O } _ { 2 }$ 浓度六个指标的平均变化速率为基础数据，利用隶属函数法对其抗旱性进行了综合评价。由于所选指标均为负指标，即平均变化速率越大，该植物的抗旱性越小，根据 $\pmb { \chi } ( u ) = 1 - ( X - X _ { m i n } ) / ( X _ { m a x } - X _ { m i n } )$ （具体见1.2.5.2）计算各指
+
+的隶属函数值，使评价结果转化为正向效益，即隶属函数值越大，抗旱性越强（谭雪红等，2012；高菊，2010）。并对每种蕨的各个指标进行隶属函数值计算累加并求其平均值，最后根据平均值进行排序。如表1所示：蜈蚣蕨的分值明显高于其他蕨，为0.81；普通针毛蕨次之，为0.74；长叶肾蕨为0.54；线羽凤尾蕨分值最低为0.14，因此6种边坡蕨耐旱能力排序为蜈蚣蕨>普通针毛蕨 $>$ 长叶肾蕨 $>$ 毛叶铁线蕨 $\mathrm { > }$ 华南毛蕨 $\mathrm { > }$ 线羽凤尾蕨。
+
+表16种蕨耐旱性综合评价结果  
+Table1 Comprehensive assessment of drought resistance of seven ferns   
+
+<html><body><table><tr><td>蕨类植物</td><td rowspan="2">叶片对 RWC</td><td rowspan="2">SPAD值 SPAD value</td><td rowspan="2">净光合速率 Pn</td><td rowspan="2">气孔导度 Gs</td><td rowspan="2">腹间CO2浓 Ci</td><td rowspan="2">蒸腾速度 T</td><td rowspan="2">隶属函数均 Average</td><td rowspan="2">排序 Order</td></tr><tr><td>Ferns</td></tr><tr><td>华南毛蕨 C. parasiticus</td><td>0.03</td><td>0.86</td><td>0.00</td><td>0.05</td><td>0.50</td><td>0.11</td><td>0.26</td><td>5</td></tr><tr><td>1毛叶铁线蕨 A.pubescens 普通针毛蕨</td><td>0.17</td><td>0.85</td><td>0.35</td><td>0.43</td><td>0.61</td><td>0.30</td><td>0.45</td><td>4</td></tr><tr><td>M. torresiana 蜈蚣蕨</td><td>0.99</td><td>0.14</td><td>0.95</td><td>0.82</td><td>1.00</td><td>0.54</td><td>0.74</td><td>2</td></tr><tr><td>P.vittata 线羽凤尾蕨</td><td>1.00</td><td>0.00</td><td>1.00</td><td>0.94</td><td>0.93</td><td>1.00</td><td>0.81</td><td>1</td></tr><tr><td>P.linearis</td><td>0.38</td><td>0.27</td><td>0.06</td><td>0.14</td><td>0.00</td><td>0.00</td><td>0.14</td><td>6</td></tr><tr><td>长叶肾蕨 N.biserrata</td><td>0.98</td><td>1.00</td><td>0.33</td><td>0.00</td><td>0.94</td><td>0.00</td><td>0.54</td><td>3</td></tr></table></body></html>
+
+# 3.结论与讨论
+
+许多研究表明植物在受到干旱胁迫时，叶片相对含水量会有不同程度的下降（杨海艳等，2011；王纪坤和王立丰，2013；于景金等，2016）。但6种参试蕨在受到干旱胁迫时叶片相对含水量呈现小幅度上升后显著性下降，可能是因为植物在短时间受到干旱胁迫时，会通过调节自身的生理活动来抵御干旱，进而导致根系吸水能力增强，使叶片含水量有所升高（宋海鹏等，2010）。从干旱处理10d开始，华南毛蕨、毛叶铁线蕨和线羽凤尾蕨的相对含水量急剧下降，而其他3种蕨变化不大，说明普通针毛蕨、蜈蚣蕨和长叶肾蕨的耐旱性较强，可以耐受较长的干旱天数。
+
+叶绿素是植物光合作用不可缺少的物质，也是反映植物光合作用强弱的一个重要指标，它的含量与光合作用强弱有密切关系，也在一定程度上反映了植物的生长状况和抗逆性（杨柳青等，2016；张庆华，2016）。许多研究表明在受到干旱胁迫时，蕨类的叶绿素含量会有不同程度的下降（高菊，2010；代朝霞等，2014）。6种参试蕨在受到干旱胁迫时，叶绿素也有所下降，其中相对于处理前，长叶肾蕨的叶绿素 SPAD值下降最小，其次是普通针毛蕨，可见这两种蕨具有较强耐旱性。
+
+干旱胁迫会使植物叶片的气体交换参数降低，导致气孔导度、蒸腾速率、净光合速率下降，从而直接影响植物光合特性，这是植物对干旱胁迫的一种生理反应（Lafitte etal，2007；陈建等，2008；Lawlor&Comic,2002;张庆华等，2016）。在受到干旱胁迫时，
+
+6种参试蕨的气孔导度、净光合速率和蒸腾速率总体显著性下降，而胞间 $\mathrm { C O } _ { 2 }$ 浓度除5-10d天时有小幅度下降外总体呈显著性上升趋势，可能是因为0-5d时由于干旱胁迫导致气孔关闭引起光合参数变化，而随着干旱胁迫的不断加剧，影响光合参数的因素也转向了非气孔限制因素，也就是从干旱处理5天后叶肉细胞羧化能力成为限制蕨类光合作用的主因，这与一些研究得出的结论相似（Farquhar& Sharkey，1982；郭卫华等，2004；张光灿等，2004）。
+
+在植物抗逆性评价中，为了全面反映植物的抗逆特性,大多采用隶属函数值法对植物进行综合评价（席万鹏等，2004）。本文也利用隶属函数法，通过测定6种蕨类植物土壤绝对含水量、叶绿素含量，蒸腾速率、气孔导度、胞间 $\mathrm { C O } _ { 2 }$ 浓度、最大净光合速率等指标变化综合评价了其耐旱性。结果表明6种蕨类植物耐旱能力大小依次为：蜈蚣蕨 $\mathrm { > }$ 普通针毛蕨>长叶肾蕨 $\mathrm { > }$ 毛叶铁线蕨 $\vdots >$ 华南毛蕨 $\ >$ 线羽凤尾蕨，这与所测单个指标所表现出的耐旱能力基本相同，也与试验处理期间6种蕨所表现出来的耐旱能力基本相同。
+
+综上所述，蜈蚣蕨、普通针毛蕨和长叶肾蕨的耐旱性较强，又是华南地区常见的3种蕨类，自然传播能力强，可以考虑在边坡植被建植中进行推广。目前高速公路、铁路、采石场、矿山边坡和城市水土保持等边坡绿化防护工程常用的施工技术有湿法喷播、网袋植草、植生袋、客土喷播、混播植草和仿原生态植被恢复等，而湿法喷播因具有播撒均匀、节省劳力和省种的特点，应用较为广泛(方华等 2004；周利民，2003)。但大部分蕨类植物以孢子的形式进行繁殖，不像被子植物可以产生种子，而孢子不仅个体微小且在萌发的过程中对水分比较敏感，这就给喷播及养护带来了困难，因此如何根据边坡立地条件、施工工艺、植物配置等不同来选择蕨类植物种类、建植方式和数量等还有待进一步研究。
+
+# 参考文献
+
+CHEN HK，WUF，2015.Research on plant optimization schemes based on mechanism of vegetation soil-fixation[J].Highw,(7):264-268．[陈洪凯,吴帆,2015.基于植被固土机理的植物优化配置方案研究[J].公路，（7）:264-268.]  
+CHEN J, ZHANG GC, ZHANG SY,et al, 2008．Response processes of Aralia elata photosynthesis andtranspiration to light and soil moisture[J].ChinJAppl Ecol,19(6)：1185-1190．[陈建，张光灿，张淑勇：等，2008．辽东穗木光合和蒸腾作用对光照和土壤水分的响应过程[J］．应用生态学报，19(6)：1185-1190．]  
+CUIL,TIAN GH, WANG K,2007.Discussion on the ways of bio-diversityof expressway greening[J]_. JChin&Fgn Highw,27(4):311-313．[崔莉,田国行,王凯,2007.高速公路绿化生物多样性途径探讨[J].中外公路,27(4):311-313.]  
+DAI $\boldsymbol { Z } \boldsymbol { \mathrm { X } } ^ { 1 }$ ,HE LJ',WUFF1,et al，2014．Study on the drought resistance of several ferns in Guizhou [J].JGuizhou Univ,31(4)，30-34.[代朝霞1，何林键1，吴菲菲'，等，2014。贵州几种蕨类的抗旱性研究[J]。贵州大学学报，31(4)：30-34.]  
+FANG H，OUYANG YL，LIN JP，et al， 2004．Technical and administrative measures on quarry ecologicalrenovation[J]．Res Soil Water Cons，11(1):170-171．[方华，欧阳育林，林建平，等，2004．采石场生态整治的技术与行政措施:以深圳市为例[J］．水土保持研究，11(1)：170-171．]  
+Farquhar GD，Sharkey TD，1982．Stomatal conductance and photosynthesis [J]．Annual Review of PlantPhysiology， $3 3 ( \ 1 ) : 3 1 7 - 3 4 5$ ：  
+GAO J，2Ol0.The study on physiological character of adversity resistance of three ferns from Zhejiangprovince［D].Linan,Zhejiang A&F University.［高菊，2010.浙江省3 种蕨类植物抗逆生理特性的研究[D].临安，浙江林学院.]  
+GAO XM,MA KP, CHEN LZ，2001. Species diversity of some deciduous broad-leaved forests in the warm-temperate zone and its relations  
+to community stability[J].Acta Phytoecol Sin,25(3):283-290.[高贤明,马克平,陈灵芝，2001.暖温带若干落叶阔叶林群落物种多样性及其与群落动态的关系［J].植物生态学报,25(3)：283-290.]  
+GOUYN,LEIJL，2011.Landscape aplication and development prospect of the pteridophytes [J].S Hortic,22(3):32-34．［苟燕妮，雷江丽，2011。蕨类植物园林应用及其开发利用潜质探讨［J］.南方园艺，22（3）：32-34．]  
+GUO WH,LEI B,HUANG YM,et al，2004.Effects of severity of water stress on gas exchange characteristicsof Caragana intermedia seedlings[J].Acta Ecol Sin,24（12）：2716-2722．[郭卫华，李波，黄永梅，等，2004．不同程度的水分胁迫对中间锦鸡儿幼苗气体交换特征的影响［J］．生态学报,24（12）：2716-2722．]北尔连,那小 的昕九 上休付呀九，14(1):09-/1.  
+Lafitte HR，Guan YS，ShiY，et al，2007. Whole plant re-sponses，key processes and adaptation todrought stress ：The case of rice[J]. JExp Bot， 5（2）: 169-175.  
+LawlorDW，Comic G, 2002 Photos /nthetic carbon assimilation and associated metabolism in relation towater deficits in higher plants Plant.Ce 1.Environ, 25(2): 275-294.  
+LU SG,CHENF,2013. On the ical types [J].JYunnan Univ,35(3):497-415.[陆树刚，陈风，2013.论蕨类植物 .云南大学学报，35(3):497-415.]  
+MA KM,FU BJ, ZHOUHF,1999.Studie s and pattern diversities of the forest landscapes of Dong lingshan mountain region,Beijing, China Ecol Sin,19(1):1-7.[马克明,傅伯杰,周华锋,1999.北京东灵山地区森林的物种多样性 生研究[J].生态学报,19(1)：1-7.]  
+QIAN TH,LEI JL, ZHUANG XY，2012.Anti-drought stress capacity of 3 herbal ferns.JNW For Univ [J].27（1）：22-27.[钱瑭璜1，雷江丽² \*，庄雪影 $^ { 1 \ 3 }$ ，2012.种草本蕨类植物耐旱性研究［J］.西北林学院学报［J].27（1）：22-27.]  
+Schneider H, Schuetpel Z E，Pryer K M， et al,2004． Ferns diversified in the shadow ofangiosperms [J] .Nature,428， 556-557.  
+SONG HP,LIU J,LEI XL, et al， 2010．Effect of drought stress on physiological indexes of 5 Sedum'species［J]．Pratac Sin,27（1）：11-15．［宋海鹏，刘君，李秀玲，等，2010．干旱胁迫对5种景天属植物生理指标的影响［J］．草业科学，27（1）：11-15．]  
+SUN Q,LIANG ZS, YANG JW, et al， 2002． Water content ABA and sprout character after transplantingseedling soil under drought［J]．Acta Phytoecol Sin,26（5）：634-638．［孙群，梁宗锁，杨建伟，等，2002．干旱对苗木萌芽期水分状况、ABA含量及萌芽特性的影响［J]．植物生态学报，26（5）：634-638．]  
+TAN XH, GAO YP, GUO XP, et al， 2012．Physiological characteristics and comprehensive evaluation ofdrought resistance in five plants used for roadside ecological restoration [J]．Acta Ecol Sin，32(16): 5076-5086．[谭雪红,高艳鹏,郭小平,等,2012.五种高速公路边坡绿化植物的生理特性及抗旱性综合评价[J],生态学报,32(16): 5076-5086.]  
+TAO XX,1982.A Preliminary application of fuzzy mathematics in agricultural science [J] .JSYAU,（2）: 96-107．［陶向新,1982.模糊数学在农业科学中的初步应用［J].沈阳农学院学报，（2）：96-107.]  
+TIAN YC,YANG LQ,2006.Ferns and applications in gardens [J].N Hortic,(5):133-134.[田英翠，杨柳青,2006.蕨类植物及其在园林中的应用[J].北方园艺，(5)：133-134.]  
+W ANG JK, WANG LF，2013． Study on drought response mechanisms in bag seedlings of GT1 of Heveabrasiliensis MuellArg．[J]．SW Chin JAgric Sci,26(6).2271-2275．[王纪坤，王立丰，2013.巴西橡胶树 GT1袋装实生苗旱害响应机制研究[J].西南农业学报,26(6).2271-2275.]  
+WU Y,LIUQ,HE H,et al,2o04.Dynamics of species diversity inartificial restoration process of subalpineconiferous forest [J]．Chin JAppl Ecol,15（8):1301-1306．[吴彦,刘庆,何海,等,2004．亚高山针叶林人工恢复过程中物种多样性变化[J].应用生态学报,15（8)：1301-1306.]  
+XI WP, WANG YK, SUN FD， 2004. Comprehensive evaluation on Zanthoxylum bungeanum drought-resistancetraits bysubordinate function values analysis [J].GansuFor Sci Technol,29（1）：5-6.[席万鹏，王有科，孙飞达，2004.利用隶属函数值法综合评价花椒的抗旱性[J].甘肃林业科技，29（1）：5-6.]  
+YANG HY,LEI XL,WANG B,et al， 2011.Efect of drought stress on physiological index offern [J] .JAnhuiAgric Sci,39(11):6316-6317.[杨海艳，李雪玲，王 波，等，2011。干旱胁迫对蕨类植物生理指标的影响[J]．安徽农业科学,39(11):6316-6317.]  
+YANG LQ, ZENG H, ZHU XQ,et al， 2016. Research of water stress on four kinds of plants such as Sedumyvesi ,etc[J].Hunan For Sci Technol，43（1）：1-5．[杨柳青，曾 红，朱小青，等，2016.短蕊景天等 4种植物的水分胁迫研究［J］.湖南林业科技，43（1）：1-5.]  
+YU JJ, lei R,LIU MX,et al，2016．Ecophysiological mechanisms associated with drought tolerance and post-drought recovery in warm-and cool-season turfgrasses [J]．Acta Pratac Sin,5(11)：86-93.[于景金，李冉,刘梦娴，等，2016.暖季型与冷季型草坪草差异响应干旱及旱后复水的生理生态机制［J］.草业学报，5(11): 86-93.]  
+ZENG SJ,XING FW,2002. Ornamental Ferns [M] /XU P.Beijing: China Forestry Publishing House,2-9.[曾宋君，邢福武,2002.观赏蕨类［M]//徐平.北京：中国林业出版社，2-9.]  
+ZHANG GC,LIU X,HE KN,et al， 2004．Responses of gas exchange parameters of goldspur Goldspur appletree to soil water variation［J].Acta Phytoecol Sin,8（1）：66-72．[张光灿，刘霞，贺康宁，等，2004．金矮生苹果叶片气体交换参数对土壤水分胁迫的响应［J]．植物生态学报，8（1）：66-72.]  
+ZHANG $\mathrm { Q H } ^ { 1 }$ , ZENG XG', XIANG $\mathrm { F Y ^ { 1 } }$ ,et al ，2016．Efects on photosynthetic characteristics of strawberrySeedlings under drought Stress[J].Hubei Agric Sci,55(23)：6148-6150.[张庆华'，曾祥国‘，向发云1，等，2016.干旱胁迫对草莓苗期叶片光合特性的影响[J].湖北农业科学，55(23)：6148-6150.]  
+ZHANG X,YAN R,CAO WJ,et al，2009．Rapid selection of white clover gemplasms crude protein traits bySPAD and fourier transform near-infrared reflectance spectroscopy [J] .Spectrosc Spectr Anal，29（9）:2388-2391．［张贤，晏荣，曹文娟，等，2009.SPAD及FT-NIR光谱法快速筛选白三叶种质蛋白质性状[J].光谱学与光谱分析，29（9）：2388-2391.]  
+ZHANG XC,2012.Lycophytes and ferns of China [M]//CHEN BH. Peking University Press,12-13.[张宪春,2012.中国石松类和蕨类植物[M]//陈斌惠.北京：北京大学出版社，12-13.]  
+ZHOUJ,HUJJ,PEI ZP,etal,2014．Thedrought resistanceoftwo rockyslope ecological restoration plants underdrought stresscondition[J].NHortic,（24）：70-73．[周江',胡佳佳²,裴宗平,等,2014.干旱胁迫下两种岩石边坡修复植物的抗旱性［J].北方园艺，（24）：70-73.]  
+ZHOULM，2003．A study on hydraulic seeding technique for slope stabilization [J]．Bull Soil WaterConserv，23（3):44-45．［周利民，2003．运用液压喷播技术进行植草护坡的研究[J]．水土保持通报，23(3):44-45．]
+
+# 修改说明：
+
+1.请一一核对文中所引用的参考文献是否与文后的参考文献一致，并特别注意文中所引用  
+文献为两个作者的，中间要用“和“（中文）或者“&”（英文）连接起来。答：已核对。  
+2.此次为排版前最后一次修改，请第一作者和通讯作者协商后定稿，排版后不能有大的改  
+动。答：已知悉。  
+3.参考文献中英文刊名和“etal"均为正体。刊名缩写参考网站相关下载中心“SCI刊名缩  
+写与全称对照”。答：已按要求更改。  
+4.若文中有表：应采用三线表，表题、表头、表注、表中内容等均需有英文对照。答：已检查核对；  
+5.请仔细核对文中的图、表是否符合以下标准，如需修改，请将修改后的作图源文件上传  
+至附件，谢谢合作！答：已核对。

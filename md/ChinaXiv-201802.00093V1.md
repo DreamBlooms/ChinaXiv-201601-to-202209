@@ -1,0 +1,156 @@
+# 采用深槽螺旋波纹管的折流杆换热器传热与流动 数值模拟
+
+刘佳驹，刘伟
+
+(华中科技大学能源与动力工程学院，武汉430074)
+
+摘要：本文采用数值计算方法，以水为流动介质，研究了采用螺旋波纹管为换热管的折流杆换热器传热与流动的综合性能，并与传统采用圆管的折流杆换热器进行对比。结果表明，采用螺旋波纹管的折流杆换热器能有效提高综合强化传热性能，其EEC值可达1.28。
+
+关键词：深槽螺旋波纹管；折流杆换热器；数值模拟；强化传热 中图分类号： TK124 文献标识码：A
+
+A numerical study on heat transfer and flow characteristics of rod-baffle heat exchangers with spirally corrugated tubes
+
+LIU Jia-Ju, LIU Wei (School of EnergyandPower Engineering,Huazhong Universityof Science and Technology,Wuhan 430074,China)
+
+Abstract: This article presents a numerical simulation on heat transfer and flow characteristics of the rod-baffle heat exchangers with spirally corrugated tubes.Results are compared with those in rod-baffle heat exchanger with plain tubes.Simulation results show that the rod-baffle heat exchangers with spirally corrugated tubes can improve the overall thermal performance,and the EEC value can archive 1.28.
+
+Keywords: spirally corrugated tube;rod-bafle heat exchanger; numerical simulation;heat transfer enhancement
+
+# 0前言
+
+折流杆换热器由于其制造与安装方便，重量与成本更低，广泛应用于工业生产各个领域当中[1-4]。我国在20世纪80年代开始对折流杆换热器进行研究，并应用于实际生产当中。但是，对于折流杆换热器强化传热机理方面的研究，相关工作展开得较少。本文将深槽螺旋波纹管应用于折流杆换热器当中，以实现对换热器内管程壳程双侧强化的效果，同时探讨折流杆换热器强化传热的机理。
+
+# 1物理及数学模型
+
+图1为采用深槽螺旋波纹管的折流杆换热器的物理模型[5]：螺旋波纹管外径为 $1 6 \mathrm { m m }$ ，槽深为 $3 \mathrm { m m }$ ，折流杆间距为 $1 2 0 \mathrm { m m }$ ，折流杆直径为 $5 . 5 \mathrm { m m }$ ，换热器长度为 $1 0 0 0 \mathrm { { m m } }$ ，壳程直径为 $1 4 4 \mathrm { m m }$ 。采用圆管的折流杆换热器中，圆管直径为 $1 6 \mathrm { m m }$ ，其余几何参数不变。为简化计算，对流体作如下假设：（1）流体物性参数不变；（2）流体流动状态为稳态流动；（3）忽略重力影响。计算采用Fluent14.0中标准k-ε湍流模型对换热器速度场、温度场、压力场进行求解，并分析各个参数随 $R e$ 数变化关系。 $R e$ 变化范围是6000\~18000，壳程入口采用速度入口边界条件，温度为300K，出口为自由出流边界条件，换热管壁面采用定壁温边界条件，壁面温度为330K，其余壁面均为绝热边界条件。
+
+![](images/e389fedb55a6918e5c60d265726f25448957afabd814cc2c460d80cb37c54447.jpg)  
+Fig.1 The model of rod-baffle heat exchangers with spirally corrugated tubes
+
+计算控制方程形式如下：
+
+质量方程：
+
+$$
+\frac { \partial { \big ( \rho { U _ { i } } \big ) } } { \partial { { X } _ { i } } } = 0
+$$
+
+动量方程：
+
+$$
+\frac { \hat { \sigma } } { \hat { \alpha } _ { j } } \big ( \rho U _ { j } U _ { i } \big ) = - \frac { \hat { \alpha } P } { \hat { \alpha } _ { i } } + \frac { \hat { \sigma } } { \hat { \alpha } _ { j } } \left[ \mu \left( \frac { \hat { \sigma } U _ { i } } { \hat { \alpha } _ { j } } + \frac { \hat { \sigma } U _ { j } } { \hat { \alpha } _ { i } } \right) - \frac { 2 } { 3 } \mu \frac { \hat { \sigma } U _ { k } } { \hat { \alpha } _ { k } } \delta _ { i j } \right]
+$$
+
+能量方程：
+
+$$
+\frac { \hat { \sigma } } { \hat { \alpha } _ { j } } \left( \rho U _ { j } C _ { P } T - k \frac { \widetilde { \alpha } T } { \ \hat { \alpha } _ { j } } \right) = U _ { j } \frac { \ \hat { \sigma } P } { \hat { \alpha } _ { j } } + \left[ \mu \left( \frac { \hat { \sigma } U _ { i } } { \hat { \alpha } _ { j } } + \frac { \hat { \sigma } U _ { j } } { \hat { \alpha } _ { i } } \right) - \frac { 2 } { 3 } \mu \frac { \hat { \sigma } U _ { k } } { \hat { \alpha } _ { k } } \delta _ { i j } \right] \frac { \hat { \sigma } U _ { i } } { \hat { \alpha } _ { j } }
+$$
+
+在此模型中，标准 $k { - } \varepsilon$ 湍流模型用于计算湍流区流场，其方程形式如下：
+
+$$
+\frac { \hat { \sigma } ( \rho u _ { i } k ) } { \hat { \sigma } x _ { i } } = \frac { \hat { \sigma } } { \hat { \sigma } x _ { j } } \left[ \left( \mu + \frac { \mu _ { t } } { \sigma _ { k } } \right) \frac { \hat { \sigma } k } { \hat { \sigma } x _ { j } } \right] + G _ { k } + G _ { b } - \rho \varepsilon - Y _ { M } + S _ { k }
+$$
+
+$$
+\frac { \partial ( \rho u _ { i } \varepsilon ) } { \partial x _ { i } } = \frac { \hat { o } } { \hat { c } x _ { j } } \Bigg [ \Bigg ( \Bigg ( \mu + \frac { \mu _ { t } } { \sigma _ { \varepsilon } } \Bigg ) \Bigg ) \frac { \hat { \sigma } \varepsilon } { \hat { \sigma } x _ { j } } \Bigg ] + C _ { 1 \varepsilon } \frac { \varepsilon } { k } ( G _ { k } + C _ { 3 \varepsilon } G _ { b } ) - C _ { 2 \varepsilon } \rho \frac { \varepsilon ^ { 2 } } { k } + S _ { \varepsilon }
+$$
+
+其中， $G _ { k }$ 是由于平均速度梯度引起的湍动能 $k$ 的产生项； $G _ { b }$ 是由于浮力引起的湍动能 $k$ 的产生项； $Y _ { M }$ 是可压湍流中的脉动扩张的贡献； $C _ { I \varepsilon }$ ， $C _ { 2 \varepsilon }$ ， $C _ { 3 \varepsilon }$ 是经验常数； $\sigma _ { k }$ 和 $\sigma$ 分别是与湍动能 $k$ 和耗散率 $\boldsymbol { \varepsilon }$ 对应的Prandtl数； $S _ { k }$ 和 $S _ { \varepsilon }$ 是用户定义的源项[6]。
+
+以上控制方程采用SIMPLIC求解耦合速度场和压力场，对流项采用QUICK离散格式，近壁面采用标准壁面函数法处理。
+
+为提高计算精度，特选取4套疏密程度不同的网格对多种工况进行计算，比较结果见表1，由此确定，网格数达到 $2 . 9 \times 1 0 ^ { 7 }$ 左右时计算精度符合要求。
+
+表1网格数变化对计算结果的影响
+
+TABLE 1.The influence of the grid numbers to the computed   
+result   
+
+<html><body><table><tr><td>网格数变化</td><td>△Nu</td><td>△f</td></tr><tr><td>9.3×10~2.9×10</td><td>17%</td><td>11%</td></tr><tr><td>2.9×10~3.6×10</td><td>3.3%</td><td>2.4%</td></tr><tr><td>3.6×10～4.3×10</td><td>1.2%</td><td>1.8%</td></tr></table></body></html>
+
+# 2数值模拟及结果分析
+
+# 2.1数据处理
+
+壳程雷诺数定义如下：
+
+$$
+R e _ { s } = \frac { \rho u _ { s } D } { \mu }
+$$
+
+其中， $u _ { s }$ 为壳体截面速度均值， $\mu$ 为动力粘度系数，$D$ 为壳程的当量直径，其中 $D$ 定义如下：
+
+$$
+D = \frac { 4 A } { P }
+$$
+
+其中， $A$ 为流通截面面积直径， $P$ 为流通截面润湿周长。
+
+壳程 $N u$ 数定义如下：
+
+$$
+N u _ { s } = \frac { h D } { \lambda }
+$$
+
+其中， $h$ 为换热管表面换热系数， $D$ 为壳程当量直径，$\lambda$ 为流体导热系数。
+
+平均阻力系数定义如下：
+
+$$
+f = \frac { 2 \Delta P D } { L \rho u _ { s } ^ { 2 } }
+$$
+
+其中， $_ { A P }$ 为壳程压降。
+
+# 2.2平均努赛尔数 $N u$
+
+图2采用不同换热管的折流杆换热器的Nu数随$R e$ 数变化情况。从图中可以看出，采用不同换热管的折流杆换热器的 $N u$ 数均随 $R e$ 增大而增大。同时，采用螺旋波纹管的折流杆换热器的 $N u$ 数均高于采用光管的折流杆换热器。从数据中可以得到，采用螺旋波纹管的折流杆换热器的 $N u$ 最高可高于采用光管的折流杆换热器的Nu的 $12 \%$ 。这是因为在采用光管的折流杆换热器当中，只有折流杆在对换热管起支撑作用的同时，也对流体起扰动作用以增强换热效果。而在采用螺旋波纹管的折流杆换热器中，流体不仅受到折流杆的扰动作用，螺旋波纹管的螺旋槽道也对流体进行扰动，所以其换热性能明显强于采用光管的折流杆换热器。
+
+![](images/f454ce7a0d6c9aa77d554f785ccad31f4da8a3975aa14652940d8b47294deb23.jpg)  
+图1采用螺旋波纹管的折流杆换热器  
+图2采用不同换热管的折流杆换热器的Nu数  
+Fig.2 Variation of the Nu number with Reynolds number for different heat exchagers
+
+# 2.3平均阻力系数f
+
+图3采用不同换热管的折流杆换热器的阻力系数/随 $R e$ 数变化情况。从图中可以看出，采用不同换热管的折流杆换热器的阻力系数均随 $R e$ 数增大而减小。同时，采用螺旋波纹管的折流杆换热器中的阻力系数均高于采用光管的折流杆换热器。这是由于螺旋波纹管的螺旋槽道对流体扰动增加了流体的沿程阻力，从数据中可以得出，采用螺旋波纹管的折流杆换热器的阻力系数要高于采用光管的折流杆换热器的阻力系数的 $12 \%$ 。
+
+![](images/24f937f474bb2023592608b2c472dd0a380cdd337c7f8e1b6cd5f044db5e4ebb.jpg)  
+图3采用不同换热管的折流杆换热器的平均阻力系数 $f$ Fig.3 Variation of the friction factor with Reynolds number for different heat exchagers
+
+# 2.4综合性能评价
+
+$h / { \varDelta P }$ 常用于换热器的传热与阻力综合性能的评价。从图4可以看出，采用螺旋波纹管的折流杆换热器的综合性能要由于采用光管的折流杆换热器。如果基于流体的功耗来比较传热强化的程度，可定义EEC（Efficiency Evaluation Criterion）如下[7]:
+
+$$
+E E C = \frac { Q / Q _ { 0 } } { ( V \cdot \Delta p ) / ( V _ { 0 } \cdot \Delta p _ { 0 } ) }
+$$
+
+其中， $\varrho$ 、V、 $_ { A P }$ 分别为采用螺旋波纹管的折流杆换热器的某个 $R e$ 数下的换热量、体积流量与压降， $Q _ { \theta }$ 、$\mathit { V _ { 0 } }$ 、 $\varDelta P _ { 0 }$ 分别为采用光管的折流杆换热器在相同 $R e$ 数下的换热量、体积流量与压降。从图5可以看出，采用螺旋波纹管的折流杆换热器EEC均大于1，最高可达1.28，这说明，与采用光管的折流杆换热器相比，采用螺旋波纹管的折流杆换热器换热量增加的倍数大于功耗增加的倍数，表明此换热器具有较好的效能，具备实际应用的价值。
+
+![](images/6c6f4f397e0505b481b120f57ab77c6120ea220a243b16b2c472662463ddeea0.jpg)  
+图4不同换热器的h/ $_ { A P }$ 比较
+
+exchagers
+
+![](images/e0825af17822de9a5bf0b650022e81f42cca85be61a443d5027a31076ca5416b.jpg)  
+Fig.4Variation of $h / { \varDelta P }$ with Reynolds number for different heat   
+图5采用螺旋波纹管换热器的EEC
+
+Fig.5 Variationof EEC with Reynolds number for different heat exchagers
+
+# 3结论
+
+本文通过对采用螺旋波纹管的折流杆换热器和传统的采用光管的折流杆换热器进行数值模拟，对两种换热器的传热、阻力以及综合性能进行了分析，结果表明采用螺旋波纹管的折流杆换热器换热性能明显优于传统的采用光管的折流杆换热器，同时阻力系数增加不大，并且，采用螺旋波纹管的折流杆换热器换热量增加的倍数大于功耗增加的倍数，具有较好的效能。
+
+# 参考文献
+
+[1] Master B I,Chunangad K S,Pushpanathan V. Fouling mitigationusinghelixchangerheatexchangersin: Proceedings of the ECI Conference on Heat Exchanger Fouling and Cleaning:Fundamentals and Applications[C]. SantaFe,NM,USA.2003,317-322.   
+[2]Lutcha J,Nemcansky J. Performance improvement of tubular heat exchangers by helical baffles[J].Chemical Engineering Research and Design,1990, 68(3): 263-270.   
+[3]Deng XH,Deng SJ. Investigation of heat transfer enhancement of roughened tube bundles supported by ring or rod supports[J].Heat Transfer Engineering,1998,19(2): 21-27   
+[4]Gentry C C, Rod-baffle heat exchanger technology, Chem. Eng. Pr0g 86 (1990) 48-56   
+[5]马雷，王英双，杨杰等，折流杆换热器的数值模拟及优 化设计[J].工程热物理学报，2011,32(3):462-464. Ma Lei,Wang Yingshuang，Yang Jie,et al.Numerical simulation of rod baffle heat exchangers and its optimum design,Journal of Engineering Thermophysics (in Chinese) 32 (3) (2011) 462-464   
+[6]王福军，计算流体动力学分析[M]，清华大学出版社, 2004，120-123 Wang Fujun, Computational Fluid Dynamics Analysis[M], Beijing: Tsinghua University Press,2004,120-123   
+[7]刘伟，刘志春，马雷，多场协同原理在管内对流强化传 热性能评价中的应用[J].科学通报，2012，57(10): 867-874 W. Liu, Z.C.Liu,L. Ma, Application of a multi-field synergy principle in the performance evaluation of convective heat transfer enhancement in a tube,Chinese Sci.Bull.012, 57(10): 867-874

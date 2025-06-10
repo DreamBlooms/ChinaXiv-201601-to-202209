@@ -1,0 +1,151 @@
+# 利用CRISPR/Cas9技术构建稳定表达人白蛋白基因的中国仓鼠卵巢细胞系
+
+周松涛」 陈蕴² 龚笑海² 金坚2\*李华钟1\*(1．江南大学生物工程学院 江苏 无锡 214122；2.江南大学药学院 江苏 无锡 214122)
+
+(2.
+
+摘要：通过目的基因的随机整合方式，构建得到的CH0表达细胞系，常会因为目的基因插入到染色体内不稳定区域，而在长期传代过程中出现表达不稳定的现象，这主要是由于位点效应所导致。为了解决这个问题，现利用CRISPR/Cas9技术介导的同源重组，将目的基因直接整合于CHO细胞染色体上稳定表达区域，以克服位点效应带来的CH0表达细胞系的长期表达不稳定。现总共利用该技术获得了2株外源基因（人白蛋白基因）定点整合细胞系；western blot结果显示，细胞上清液的产物具有人白蛋白抗原性；细胞在贴壁状态下，两株细胞系在第3、12、23、35、50代，细胞每日表达的HSA质量接近，且均维持在0.5pg/cell/day;选取一株表达细胞系，经悬浮驯化后，在批次条件培养下，第1、25及50代的悬浮细胞，在摇瓶内的表达浓度均稳定在 $1 3 { \mathrm { - } } 1 4 ~ \mathrm { m g / L }$ 。本研究显示了将外源基因基因定点整合于CH0细胞基因组内的的可行性；且外源基因整合在稳定表达区域后，重组细胞系具有对外源基因长期表达的稳定性。
+
+关键词：CHO；定点整合；CRISPR/Cas9；蛋白质表达中图分类号：Q819
+
+近三十多年来，中国仓鼠卵巢细胞(Chinese Hasmter Overary cell,CHO)被广泛应用于不同治疗性蛋白质的表达，包括重组抗体、重组单体蛋白及重组融合蛋白等，CHO已经成为了生物制药领域最主要的生产细胞[1]CHO细胞系在生物制药领域备受瞩目主要有如下几个原因：首先，CHO细胞系具有很高的安全性(CHO基因组内不携带任何人源性病毒)；其次，CHO细胞可以通过悬浮驯化适应无血清培养基，并能够实现在无血清培养基中快速及高密度生长；最后，CHO细胞系表达的重组蛋白能够获得类似于人源蛋白的翻译后修饰[2-4]。传统的表达细胞系构建，主要基于转基因随机整合到基因组内，并通过多轮单克隆筛选，获得最终的表达细胞系；尽管此方法容易操作，但是不可控的转基因随机整合，会使得不同单克隆细胞之间，产生巨大的表型差异；因此，需要大量的工作来筛选出稳定表达的细胞系[5,6]。开发出一种理性的细胞系构建方法，以规避传统构建方由于基因的随机插入而带来的不稳定性，将是细胞系开发领域今后发展的方向；一般认为，通过将转基因定点整合(Site Specific Integration,SSI)到细胞基因组内稳定表达区域，能很好地避免位点效应(Position Effect)所带来的不稳定性，从而实现理性的表达细胞系构建[1,3,6-8]。
+
+目的基因的定点整合，可利用重组酶体系来实现：比如Cre/LoxP及Flp/FRT体系[9-11]；但是，此类方法的施行，需预先将重组位点整合到高表达位点(Hot Spot)后，才能再将目的基因定点整合于该位点，操作比较复杂[12-13]。此外，还可以通过CRSIPR/Cas9方法来进行转基因的定点整合；CRISPR/Cas9体系是当下被广泛利用的基因编辑系统，该系统可以快速地对几乎所有物种的基因组进行编辑[14-15]。CRISPR/Cas9系统中活跃的切割复合物主要是由CRISPR-RNA(crRNA)，trans-activating crRNA(tracrRNA)及Cas9 核酸酶(Cas9nuclease)组成。这些元素可以共同诱导DNA双链断裂(Double Strand Breaks,DSBs)。双链断裂后通常有两条主要的DNA修复途径，分别是非同源性末端连接(non-homologous end-joining,NHEJ)及同源介导的修复(homology-directed repair,HDR)[6,16]。当提供了含有与双链断裂区域侧翼序列相同的供体DNA时，目的基因(Gene of Interest,GOI)可以通过HDR机制精确地修复基因组内双链断裂区域[17]。根据以往文献报道，CRISPR/Cas9介导的HDR打靶效率约为 $1 0 \% ^ { [ 6 ] }$ 。在本研究中，此方法将会被应用于实现目的基因的定点整合。
+
+之前，本课题组已建立了一种筛选CHO基因组内稳定表达位点的方法，并获得了若干潜在稳定表达位点信息[24]。本研究通过将人源白蛋白(Human Serum Albumin,HSA)基因定点整合到一个已报道的稳定表达位点[24]，以验证外源基因定点整合于该位点后，是否能获得稳定表达外源基因的细胞系。
+
+# 1 材料与方法
+
+# 1.1材料与试剂
+
+密码子优化Cas9表达质粒，丹麦科技大学Dr.Kildegaard赠送；pSK-U6-gRNA表达质粒，复旦大学卢大儒课题组赠送；HSA供体质粒，生工公司合成；CHO-K1细胞系，美国ATCC公司产品；NEB Buffer2、BbsI-HF外切酶，美国NEB公司产品；T4连接酶，美国Promega公司产品；Lipofectamine 3000、Ham's F12K培养基、胎牛血清、美国Thermo Fisher Scientific公司产品；硝酸纤维素膜，美国Pall公司产品；抗HSA抗体，美国Gentex公司产品；牛抗兔二抗，美国Santa Cruz公司产品；DNA提取试剂盒、胶回收试剂盒、蛋白酶K、北京天根公司产品；嘌呤霉素、Triton、SDS PAGE、上样缓冲液、蛋白预制胶、脱脂牛奶、TBST缓冲液，上海生工公司产品；PCR试剂，南京诺维赞公司产品；ECL发光液，上海圣尔公司产品；M2、M4悬浮细胞培养基，苏州康聚公司产品；尿微量白蛋白检测试剂盒(乳胶比浊法)，上海名典公司产品。Human SerumAlbuminELISA检测试剂盒，武汉爱博康公司产品。
+
+# 1.2 仪器与设备
+
+SimpliAmp A24811 PCR仪，美国Life公司产品;Mini-PROTEAN Tetra电泳槽、Trans-Blot转印槽、Gel-DocsXR system成像仪、680酶标仪，美国Bio-rad公司产品；MoFloXDPFACS流式分选仪，美国贝克曼公司产品。
+
+# 1.3 实验方法
+
+# 1.3.1SgRNA表达质粒构建以及sgRNA引导Cas9靶向突变目标基因效率检测
+
+靶向识别序列位于NW_006880285.1中Kcmf1基因内。为构建sgRNA表达质粒，需首先合成两段寡核苷酸链，分别为sgRNA-1fwd: $5 ^ { \circ }$ -TTTGGAAAGAAGGTCTGATATCAAGT-3’，及sgRNA-1rev:$5 ^ { \circ }$ -TAAAACTTGATATCAGACCTTCTTTC-3’。将这两段寡核苷酸链配成如下体系： $4 ~ \mu \mathrm { L }$ $1 0 0 ~ \mu \mathrm { M }$ oligosgRNA-1fwd, $4 \mu \mathrm { L }$ $1 0 0 ~ \mu \mathrm { M }$ oligo sgRNA-1 rev, $2 \mu \mathrm { L }$ NEB Buffer2和 $1 0 \mu \mathrm { L } \ : \mathrm { H } _ { 2 } \mathrm { O }$ ， $9 5 ~ ^ { \circ } \mathrm { C }$ 水浴 $5 \mathrm { m i n }$ ，自然降温至室温后退火结合。BbsI-HF在 $3 7 ^ { \circ } \mathrm { C }$ 条件下孵育4h打开pSK-U6-gRNA质粒载体，再通过胶回收试剂盒进行载体的纯化回收。最后通过T4连接酶，在 $1 6 ^ { \circ } \mathrm { C }$ 过夜条件下，将退火连接好的寡核苷酸连接到pSK-U6-gRNA载体上。
+
+将将密码子优化的Cas9和构建好的sgRNA质粒，利用Lipofectamine 3000共同转染CHO-K1细胞。三天后分离出细胞DNA后，再以其作为模版，对靶序列附近序列进行PCR扩增，并测序。
+
+# 1.3.2细胞培养，转染及稳定细胞系构建
+
+CHO-K1细胞系在完全培养基(Ham's) $F 1 2 K + 1 0 \%$ FBS)内培养，培养环境为 $3 7 ^ { \circ } \mathrm { C }$ $5 \% \mathrm { C O } _ { 2 }$ 。将Cas9质粒（不含筛选标签)，sgRNA质粒(不含筛选标签)及HSA供体质粒(含正筛标签嘌呤霉素抗性基因及负筛标签cop-GFP基因)，按照摩尔比例1:1:1，利用Lipofectamine 3000转染6孔板内的细胞。通过在第3天添加 $4 ~ \mu \mathrm { g / m L }$ 嘌呤霉素作为筛选压力以获得稳转细胞池。经过10天的加压筛选，细胞被收集后，利用流式分选仪进行单克隆细胞分选：为了排除随机整合，仅分选不含绿色荧光的单克隆细胞，并接种到96孔板中每个孔内，其中每孔均含 $1 0 0 ~ \mu \mathrm { L }$ 完全培养基。
+
+# 1.3.3DNA的分离与PCR扩增
+
+收集细胞后，添加 $1 0 0 \mu \mathrm { L } 1 \%$ Triton溶液及 $2 0 ~ \mu \mathrm { L }$ 蛋白酶K，混匀后置于 $5 6 ~ ^ { \circ } \mathrm { C }$ 条件下孵育 $1 \mathrm { ~ h ~ }$ ，之后再加热到 $9 5 ^ { \circ } \mathrm { C }$ 并维持 $5 \mathrm { m i n }$ 。之后在 $1 3 0 0 0 \mathrm { X g }$ 条件下离心 $1 0 \mathrm { m i n }$ ，将上清作为后续 $\cdot \bar { \varsigma } ^ { , }$ 及 $_ { 3 } ,$ junction PCR及out-out PCR反应的模版DNA。 $5 ^ { \circ }$ 及 $_ 3 { ^ \circ }$ junctionPCR用于鉴定目的基因是否发生定点整合，out-outPCR用于鉴定所获单克隆细胞为纯合子还是杂合子 $\circ \ 5 ^ { \prime } / \ 3 ^ { \circ }$ junctionPCR反应条件： $9 5 ~ \mathrm { ^ { \circ } C } ~ 3 ~ \mathrm { m i n }$ $3 0 \mathrm { X }$ ： $9 5 ^ { \circ } \mathrm { C }$ 15 s, $6 6 ^ { \circ } \mathrm { C }$ 15 s, $7 2 ^ { \circ } \mathrm { C }$ 2min; $7 2 ^ { \circ } \mathrm { C } \ 5 \ \mathrm { m i n }$ 。Out-outPCR反应条件如下： $9 5 ^ { \circ } \mathrm { C } ~ 3 ~ \mathrm { m i n }$ ; 30X: $9 5 ^ { \circ } \mathrm { C }$ 15 s, $6 6 ^ { \circ } \mathrm { C } 1 5 \mathrm { \ s }$ $7 2 ^ { \circ } \mathrm { C } 6 \mathrm { m i n }$ · $7 2 ^ { \circ } \mathrm { C } \ 5 \ \mathrm { m i n }$ 。而对于巢式PCR，采用了上述out-outPCR产物作为PCR反应的模版，其具体反应条件如下： $9 5 ^ { \circ } \mathrm { C } ~ 3 ~ \mathrm { m i n }$ ; 30X:$9 5 ^ { \circ } \mathrm { C }$ 15 s, $6 5 ^ { \circ } \mathrm { C } 1 5 \mathrm { s }$ 0 $7 2 ^ { \circ } \mathrm { C } 2 \mathrm { m i n }$ · $7 2 ^ { \circ } \mathrm { C } \ 5 \ \mathrm { m i n }$ 。5'／3'junctionPCR及巢式PCR产物均被测序。所有引物信息如下表1所示：
+
+表1：定点整合验证相关PCR引物  
+Table 1: PCR primer for SSI testing   
+
+<html><body><table><tr><td>引物名称</td><td>目的</td><td>序列信息5’-3'</td></tr><tr><td>OoPCR_fwd</td><td>5' junction PCR,ooPCR 引物及测序；</td><td>GCTACTCACCAAGTGCAGC</td></tr><tr><td>HSA_rev</td><td>5'junction PCR引物及 测序；</td><td>GGCAGCTTTATCAGCAGCTTG</td></tr><tr><td>Puro_fwd</td><td>3' junction PCR引物；</td><td>GAGGAAGTCTTCTAACATGCG</td></tr><tr><td>OoPCR_rev</td><td>3' junction PCR,ooPCR 引物及测序；</td><td>GGGTGGGCTAAGTACAAGG</td></tr><tr><td>HSA_fwd</td><td>测序；</td><td>GGTTGATGTGATGTGCACTG</td></tr><tr><td>EF1_rev</td><td>测序；</td><td>CGGCGACTACTGCACTTATA</td></tr></table></body></html>
+
+# 1.3.4WesternBlot、ELISA检测与乳胶比浊检测
+
+对于贴壁细胞，将25万个细胞接种于6孔板内培养。待细胞长满后换液；一天后，将细胞上清液被提取，与SDSPAGE上样缓冲液混合并加热到 $1 0 0 ^ { \circ } \mathrm { C }$ ，10 min后，进行SDSPAGE电泳，电压为 $2 0 0 { \mathrm { V } }$ ，时间 $4 0 \mathrm { m i n }$ 。之后在100V条件下将胶上的蛋白电转到硝酸纤维素膜上，时间 $7 0 \mathrm { m i n }$ 。在室温条件下，膜经过 $5 \%$ 的脱脂牛奶TBST溶液封闭2h。之后再对膜用抗HSA抗体及二抗分别进行孵育。最后对膜添加ECL显影液后曝光并获得图像。
+
+贴壁细胞上清液中HSA浓度的检测方法如下：将细胞接种于6孔板内，每孔25万细胞，待每孔内细胞长满后，再将每孔内的老培养基替换成新鲜的完全培养基，一天后，提取上清液后用于ELISA检测；ELISA操作步骤详见说明书。在获得上清液中HSA浓度数据后，按每孔内细胞长满约120万个，即可推算出平均每个细胞每天表达分泌HSA的质量。
+
+对于悬浮细胞，将 $1 0 ^ { 6 }$ cell/mL悬浮细胞接种于 $2 0 ~ \mathrm { m L }$ M2+M4(1:1)培养基，在 $3 7 ^ { \circ } \mathrm { C }$ ， $5 \%$ $\mathrm { C O } _ { 2 }$ 以及100RPM条件下，培养6天后取上清液；上清液中HSA的蛋白质表达浓度采用乳胶比浊法，操作步骤见说明书。
+
+# 1.3.5细胞悬浮驯化
+
+贴壁细胞最初是在完全培养基条件下进行培养。为使细胞能适应悬浮培养， ${ \bf M } 2 { + } { \bf M } 4$ (1:1)培养基被逐步用来取代原来的全培养基。当细胞完全在 $\mathbf { M } 2 { + } \mathbf { M } 4$ (1:1)培养基内进行培养时，可以将细胞转移到摇瓶内以 $1 0 0 \mathrm { r p m }$ 的速度进震荡行培养。若细胞因死亡而造成细胞密度小于 $1 0 ^ { 6 }$ cell/mL，需通过添加贴壁细胞到摇瓶内使细胞最低密度维持在 $1 0 ^ { 6 }$ cell/mL以上。
+
+# 2结果与分析
+
+# 2.1位点可编辑性验证
+
+根据之前已经发现了一处稳定表达位点[24，计划在该位点附近对HSA基因进行定点整合。寻找到一处临近稳定表达位点区域附近[18]，可被CRISPR/Cas9系统识别的潜在序列：5'-GAAAGAAGGTCTGATATCAAAGG-3’。通过验证该sgRNA的打靶效率，以进一步确认该位点是否可以被应用于后续的定点整合研究。测序结果如图1所示。
+
+TT GG CCC G WwWwWWWwAWwWwwWW
+
+Fig.1 Sequencing peak map revealed sgRNA could guide Cas9 protein to cuttarget genomic sequence specifically. 测序峰图自sgRNA靶序列开始，出现了持续性重叠小峰直到测序终止；这说明了在靶序列处出现了碱基 插入/缺失(Insertion/Deletion)，意味着该靶序列可通过CRISPR/Cas9介导的HDR实现定点整合。
+
+# 2.2通过定点整合方法构建外源基因靶向敲入细胞系
+
+基因敲入体系主要包括了三个要素，即Cas9表达质粒、sgRNA表达质粒、和HSA供体质粒。供体质粒具体设计，如图2所示：其左右各有600 bp同源臂，且同源臂恰好位于可被Cas9切割开的靶向序列（CRISPR +PAM）两侧；此外嘌呤霉素抗性基因连同HSA基因均被设计在了两条同源臂之间；cop-GFP基因被设计安放在了同源臂外侧，用于排除质粒随机整合事件。当供体质粒上的HSA基因被精确整合到靶点后，细胞会表达HSA及嘌呤霉素抗性基因，且不会表达绿色荧光基因。
+
+![](images/16db2ea14f15ea35472fda746b409c05c722ce0483552fd650fb2957730d55b9.jpg)  
+图1测序峰图显示sgRNA可引导Cas9靶向切割目标基因组序列  
+blasmid map and schematic of HSA gene integration into hot spot in CHO genome
+
+将上述三个质粒转染细胞后，通过嘌呤霉素筛选，获得稳转细胞池(stable cellpool)。之后，将不含绿色荧光的细胞经流式分选仪(FACS)经分选后，每个细胞接种到96孔板内的每个孔内。经过1周培养后，不同单克隆细胞的DNA被提取后，再进行5' junction及3' junction PCR。我们成功获得了2个定点整合单克隆细胞系。这2个单克隆细胞系均可被5’junction及3'junction PCR扩增出显著条带(图3a-3b)。5' junction及3'junctionPCR的扩增产物分子量大小均约为 $1 . 5 \mathrm { k b }$ ，这与我们的设计相符(图3a)。此外，5'/3'基因组-供体边界经测序，验证了打靶盒(targeting cassette)被精准整合到了靶序列处(图3c)。Out-out PCR揭示了这两个细胞系均为杂合子，且打靶盒被完整地整合到了靶点：经out-out PCR后，获得符合预期的扩增产物(野生扩增子: $1 . 2 \mathrm { k b ^ { + } }$ 打靶盒：4.3kb $\approx$ 5.5kb，图3d泳道1-2)。此外，out-outPCR产物也经过测序(表2)，验证了敲入HSA序列的准确。
+
+![](images/c21c0026366cf5413732de06974386f6d9a319db4f6f7670572a1ddeb09166d9.jpg)  
+图2HSA供体质粒图例及HSA基因定点整合到CH0基因组内的热点示意图  
+图3HSA定点整合单克隆细胞验证
+
+<html><body><table><tr><td>Fig.3MonoclonalHSAknock-incelllineverification a.2个定点整合细胞系5'junction PCR结果;b.2个定点整合细胞系3' junction PCR结果;c.5'/3' junction PCR扩增产物Sanger测</td></tr><tr><td>序结果；d.2个定点整合细胞系out-outPCR结果 a.5'junctionCRresultsof2knock-incellins;b.3’ junctionCRresultsof2knock-incellins;c.angersequeningsultsof 5'/3' junction PCR amplification products; d. out-out PCR results of2 knock-in cell lines</td></tr><tr><td>表2：HSA基因定点整合测序结果（含CMV启动子与SV40poly(A)序列) Table 2: HSA knock-in sequencing results (including CMV promotor and SV40 poly(A） sequence)</td></tr><tr><td>HSA定点整合序列验证 GTGATGCGGTTTGGCAGTACATCAATGGGCGTGGATAGCGGTTGACTCACGGGATTTCAAGTCTCCACCCATTGACGTCATGGGAGTTTGTTTGGCACCAAA ATCACGGGACTTCCAAATGTCGTAACAACTCCGCCCATGACGCAAATGGGCGGTAGGCGTGTACGGTGGAGGTCTATATAAGCAGAGCTCGTTAGTGAACC GTCAGATCGCCTGGAGACGCCATCCACGCTGTTGACCTCCATAGAAGATTGGTAAAGCGGCCGCACTGCCACCATGGAGACAGACACACTCCTGCTATGGGTACTG</td></tr></table></body></html>
+
+# 2.3定点整合细胞系表达水平检测
+
+在HSA基因被成功定点整合于稳定表达位点后，可通过westem blot来验证定点整合的HSA基因是否准确表达。结果显示，2个细胞系其上清液内可检测出分子量约为 $6 7 \mathrm { k D a }$ 左右(图4a)的蛋白质，这与HSA蛋白质分子量吻合，故定点整合的HSA基因，可被完整且成功的表达分泌。再对这两个细胞系表达分泌HSA蛋白质水平进行检测，经ELISA方法检测后，发现这两个重组细胞系，在不同的细胞传代下(p3，p12，p26，p35,p50)，均能稳定地分泌表达HSA重组蛋白，产率均约为0.5pg/cell/day(图4b)。
+
+![](images/b62a787eb5eb939cc08ae0a3e5761d2a873d3ae35edb499b15f70c3ca0eb8422.jpg)  
+图4HSA定点整合细胞系蛋白质表达鉴定及表达水平检测 blot assay of secreted protein from HSA knock-in cell line and expression level assay
+
+a.两个HSA单克隆细胞系上清液中分泌蛋白的鉴定;b.不同传代下，两个单克隆细胞系的HSA表达分泌水平检测.Authenticationofscretedprotewiinsupeatantsof2HAmonoloalcellines;b.ExpreionlevelestforsedHAprotein of2 monoclonal cell lines in different passages
+
+# 2.4细胞的悬浮驯化及批次表达
+
+由于工业上主要利用CHO悬浮细胞表达目的蛋白，故需要对构建好的贴壁细胞进行悬浮后，再检测其表达水平并验证表达稳定性，以评估该位点的工业应用价值。悬浮细胞接种到摇瓶后，细胞密度在第二天可翻倍，便可认为该细胞系被成功悬浮驯化。对于被选中的一个HSA细胞系，发现其在第二日，细胞密度翻倍；且细胞密度被稀释2倍后，第二天的细胞密度可再次翻倍。持续若干天的观察最终证实了该细胞被成功悬浮驯化（图5a）。
+
+根据之前的结果[24]，整合在该稳定表达位点的外源基因，在细胞悬浮驯化后，会继续稳定地表达外源基因。因此，我们在细胞悬浮后直接检测HSA表达水平。图5b显示，不同传代下的HSA表达细胞系，HSA蛋白的表达水平均维持在了13-14mg/L。这很好的反应出该HSA基因整合到靶序列后，具有很好的表达稳定性。
+
+![](images/34027084a9a1a99f4f13c02f71d3b17dd72340db42fca7cc7671e5d3556a6d86.jpg)  
+图5HSA定点整合细胞系的悬浮驯化与悬浮细胞系HSA表达水平检测
+
+Fig.5AdaptiontosuspensioncultureofHSAknock-incellineand HSA expression levelassayofsuspensioncelline a．HSA定点整合细胞系的密度在稀释2倍后可以在第二天恢复到原密度；b．不同传代悬浮细胞HSA表达水平检测 a.HSAknock-incelline'sdensitycanrecovertotheoriginaldensitybytheseconddayafter2timesdilution;b.HSAexprsion level test of suspended cell in different passages.
+
+# 3结语
+
+本课题组之前曾利用慢病毒发现了CHO基因组内稳定的表达位点[24]。本次研究利用CRISPR/Cas9技术将HSA基因定点整合于该位点附近靶序列，并对其表达水平进行检测，用于评价定点整合技术在未来工业应用中的潜力。
+
+与传统的随机整合构建表达细胞系相比，将目的基因定点整合到稳定表达位点以构建表达细胞系将会有更多的优势。首先，细胞构建不再需要经历多轮的单克隆筛选。图4b显示，经过定点整合获得的两个不同的细胞系，其表达HSA蛋白质均维持在约0.5pg/cel/day水平，这与之前的研究观点相吻合[15]：即外源基因定点整合到某位点后，其蛋白质表达水平基本是趋于一致的。因此，依靠定点整合获得的表达细胞系，不再需要额外的多轮单克隆挑选，以挑选出高表达细胞系。此外，根据之前的报道，模式细胞在悬浮驯化后，并经过50次传代，所有细胞仍可稳定地表达荧光蛋白，表明该位点具有很好的稳定性；而依靠随机整合获得的细胞系，由于不存在这样的参考模式细胞，也就无法确认所筛选到的单克隆细胞在悬浮后，是否可以长期稳定表达外源基因。因此，通过随机整合构建的细胞系，在悬浮驯化后，可能会存在不稳定表达。
+
+此外，本研究还发现，HSA基因定点整合到稳定表达位点后，所筛选到的2个阳性单克隆细胞系均为杂合子，这与之前的研究报道存在显著差异[6]：该研究显示其在进行定点整合后，最终获得纯合子的概率超过了 $80 \%$ 。尽管杂合子细胞系相对于纯合子细胞系而言，少了一个基因拷贝，但是却可以利用这样的特点，在该热点区域处定点整合一个固定的基因座，比如LoxP和FRT，以进一步提升外源基因的定点整合效率[19]。而如果基因座以纯合子形式被定点整合到基因组上，那么在后期的定点整合过程中，则会产生不可预测的重组现象。在工业领域中，这显然不利于构建出稳定表达的细胞系。
+
+为了进一步提升表达水平，可以考虑从优化分泌信号角度，来增加目的蛋白的获得[23。此外通过后期的途径工程领域的优化，如：补料流加反应的优化，以实现更高的蛋白表达[3]。一些其他的基因筛选方法比如基于CRISPR/Cas9技术的功能缺失型突变(loss-of-function)，能够用来找到一些靶点，可以用于进一步提升目的基因的表达水平。较之随机整合构建的表达细胞系而言，利用这些靶点，来进一步提升这对于基于定点整合构建而得的细胞系的表达水平则更有意义。因为对于随机整合而言，其基因型的多样性会使得靶点的普适性降低。目前已经有许多文献报道了利用该技术寻找到这些靶点的具体思路，这些对于今后其在进一步提升CHO定点整合表达细胞系的表达水平上有一定帮助[20-22]。
+
+总之，本研究通过将HSA基因定点整合到稳定表达区域后，成功检测到了HSA基因的稳定表达。相信随着今后技术的不断完善，这种新型的构建方法将会逐步被越来越多的工业企业所采纳。
+
+# 参考文献
+
+[1]. WurmFM.Productionofrcombantproteintheapeuticsinultivatedmammaliacels.Natiotchology,(): 1393-1398.   
+[2]. Wurm F M, Hacker D. First CHO genome.Nat Biotechnology,2011,29(8): 718-720.   
+[3].KimJ,KiGeeGcellioteolfroucofcatprotes:rrtateandteal. Applied Microbiology & Biotechnology,2012, 93(3):917-930.   
+[4]. Fischer S, HandrickR,Otte K.The artofCHOcellengineering: A comprehensiveretrospect and future perspectives. Biotechnology Advances,2015,33(8): 1878-1896.   
+[5]. WilsonC,BellenHJ,GehingWJ.PositionEects onEukaryoticGeneExpresion.AnnualReviewofCellBiology1990 6(1):679-714.   
+[6]. LeeJS,KalleaugeTB,PedersenLE,etal.Site-specific integration in CHOcells mediatedby CRISPR/Cas9and   
+homology-directed DNA repair pathway. Scientific Reports, 2015,5: 8572.   
+[7].Jakociunas T,JensenMK,KeaslingJD.CRISPR/Cas9advances engineering ofmicrobialcellfactories.Metabolic Engingeering,2016, 34: 44-59.   
+[8].LeeJS,GravLMedersenLE,etal.AeleratedhomlogyirectedtargetedintegratiooftransgeesinCseter ovary celsviaCRISPR/Cas9andfluorescent enrichment.Biotechnology Bioengineering,2016,113(1):2518-2523   
+[9]. Kito $\mathbf { M } ,$ Itami S, Fukano ${ \mathrm { Y } } ,$ et al. Construction of engineered CHO strains for high-level production of recombinant proteins. Applied Microbiology & Biotechnology, 2002, 60(4): 442-448.   
+[10]. Gao J, Cha ${ \mathrm { s } } ,$ Jonsson $\mathbb { R } ,$ et al. Detection of anti-type 3 muscarinic acetylcholine receptor autoantibodies in the sera of Sjogren's syndrome patients by use of a transfected celline assay. Arthritis Rheum,2004,50(8): 2615-2621.   
+[11].HuangY,LiY,WangYG,etal.Anecientandtargetedgeneintegratiosystemforgevelantibodyexpreso.Jol of Immunological Methods,2007, 322(1): 28-39.   
+[12]. Schwenk F, Baron U, Rajewsky $\mathrm { \sf ~ K } ,$ et al. A cre-transgenic mouse strain for the ubiquitous deletion of loxp-flanked gene segments including deletion in germ cells. Nucleic Acid Research,1995, 23(24): 5080-5081   
+[13].Yang-NimP,DanielM,EisenbergE,etal.ApplicationoftheFLP/FRTsystemforconditionalgenedeletioninyeast Saccharomyces cerevisiae.Yeast,2011,28(9): 673-681.   
+[14].Cong L,RanFA,Cox D,etal. Multiplex Genome Enginering Using CRISPR/Cas Systems.Science,2013,339(6121): 819-823.   
+[15].Lee JS,GravLM,Lewis NE,etal.CRISPR/Cas9-mediated genome engineering ofCHOcellfactories: Appicationand perspectives.Biotechnology Journal, 2015,10(7): 979-994.   
+[16].MaliP,YangL,EsveltKM,etal.,RN-guided humangenomeengineringviaCas9.Science,213,39(6121): 8-826. [17].HockemeyedD,olderFBeardCetal.Efficienttargetingofexpressdandsilnt geesinumanESCsandCsusing zinc-finger nucleases. Nat Biotechnology,2009, 27(9): 851-857.   
+[18].Stemmer M,Thumger T,Del ${ \bf S } ,$ et al. CCTop: An Intuitive,Flexible and Reliable CRISPR/Cas9 Target Prediction Tool. PLoS One,2015,10(4): e0124633.   
+[19].TakataY,KondoS,GodaN,etal.ComparisonofeciencyetweenFLeandCreforrecombinase-mediatedete exchange in vitro and in adenovirus vector production. Genes to Cells, 2011,16(7): 765-777.   
+[20].GilbertLA,HorbeckMA,AdamsonB,etal.Genome-ScaleCSR-MedatedControlofGeneRepressoandActivation. Cell,2014, 159(3): 647-661   
+[21].Shalem O, Sanjana NE, Hartenian $\operatorname { E } ,$ et al. Genome-scale CRISPR-Cas9 knockout screening in human cells. Science, $2 0 1 4 ,$ 343(6166): 84-87.   
+[22].WangT,WeiJJ,SabatiniDM,etal.Geneticscrees inhumancelsusingtheCRISPR-Cas9system.Science,2014, 343(6166): 80-84.   
+[23].Xu D, Chen ${ \mathrm { Y } } ,$ Jin J.Effect ofsignal peptide onthe expression and secretion of hepatocyte growth factor in CHO.Chinese Journal of Cell Biology,2016,38(12):1-7.   
+[24]. Zhou ST,Ding XF,YangL,etal. Dscoverstable expresionhotspotingenomeofChinese HasmterOvarycellsusing lentivirus based random integration method. [2018-11-14]. https://doi.org/10.1101/467936
+
+# Using CRISPR/Cas9 Technology to Construct Human Serum Albumin CHO Stable Expression Cell Line
+
+ZHOU Song-taol CHEN $\mathrm { Y u n } ^ { 2 }$ GONG Xiao-hai² JIN Jian²\* LI Hua-zhong1\* (1.School of Biotechnology, Jiangnan University,Wuxi,214122,Jiangsu Province,China; 2. School of Pharmaceutical Sciences, Jiangnan University,Wuxi, 214122, Jiangsu Province, China
+
+Abstract: The expression cellines constructed by random integrating target gene into mammal cell's genome may not express the target gene stably over passges because the target gene might be inserted into unstable region of chromatin,which is known as position effect.To solve this problem,site specific integration of target gene (Human Serum Albumin gene) into stable hot spot of CHO chromatin by using homologous dependent recombination (HDR) method mediated by CRISPR/Cas9 can be effective,because the position effect issue can be overcome.Here,two site specific integration hits of human serum albumin gene were obtained verified by conducting $5 ^ { \circ }$ junction PCR, $_ { 3 } ,$ junction PCR and out-out PCR. The western blot results revealed target protein could be detected in the supernatants of culture; the average amount of HSA protein expressd per cell per day was around 0.5 pg/cel/day over diferent cell passages (passage 3,12,23,35,50)at adherent cell mode for both two hits.One hit was adapted to suspension culture.The expression level ofthis hit atbatch mode in different cell passages (passage 1，25，50) were stably around $1 3 \mathrm { - } 1 4 \ \mathrm { m g / L }$ . This research revealed it was feasible to insert heterogenous gene into the stable hot spot of CHO celline and corresponding gene expression level was stable over passages.
+
+Key Words: CHO; site specific integration; CRISPR/Cas9; protein expression

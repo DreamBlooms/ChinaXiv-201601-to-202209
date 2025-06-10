@@ -1,0 +1,716 @@
+[
+    {
+        "type": "text",
+        "text": "基于PF-LSTM网络的高效网络流量预测方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李校林1,²，吴腾1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．重庆邮电大学，通信新技术应用研究中心，重庆 400065;2.重庆信科设计有限公司，重庆 401121)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：网络流量具有实时突变性和依赖性，传统网络流量预测模型存在泛化能力弱和预测准确度低等缺点。为解决此问题，提出一种基于长短期记忆（LSTM）循环神经网络的网络流量预测模型。首先，用距离比较和优化组合策略改进粒子滤波算法(PF)的重采样过程；然后搭建PF-LSTM 网络的网络流量预测模型，将改进的PF算法用于模型训练，提高其训练速率，克服传统的LSTM网络中收敛于局部最优的缺点；最后将提出模型用于网络流量预测。实验结果表明，相比于传统的LSTM模型，提出的PF-LSTM模型具有较好的预测精度和收敛效率，能够更好地描述网络流量的变化趋势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：网络流量预测；长短期记忆神经网络；粒子滤波算法；预测模型 中图分类号：TP393.01 doi:10.3969/j.issn.1001-3695.2018.06.0394 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Efficient network traffic prediction method based on PF-LSTM network ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Xiaolin1,2, Wu Teng1 (1.Chongqing UniversityofPosts&Telecommunications,Chongqing40o65,China;2.ChongqingInformationTechmology Designing Co,Ltd,Chongqing 401121, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Thenetwork trafichassuddenchangesanddependencies inreal-time,andthetraditionalnetwork traicprediction modelhas thedisadvantagesof weak generalizationabilityand lowpredictionacuracy.Inorderto solvethis problem,this paper developedanetworktrafic prediction modelbasedonthe Long Short-Term Memory(LSTM)recurrent neural network. Firstly,mprovedresampling process ofParticleFilter (PF)with distancecomparisonandoptimizedcombinationstrategy.Then, builta PF-LSTM network model toaccurately predict the network traffic.Model training with improved PFalgorithm to improved its trainingrateandovercametheshortcomingsofconvergence inthe traditionalLSTMnetwork.Finalypredicted network traffic through proposed models.The experimental results showthatthe model has better prediction accuracy and convergence effciencycomparedwiththe traditionalLSTMmodel,whichcandescribethe trendofchangesbeterinnetwork traffic. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: network traffic prediction; long short-term memory ; particle filter algorithm; forecast model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着通信技术的迅猛发展，无线网络用户急剧增加，网络流量呈爆发式增长，为了预防网络拥堵，提高网络资源的利用率，无线网络的有效管理变得十分重要。网络流量的建模与预测可以提前掌握网络流量的变化特征与趋势，从而制定合理有效的流量管理策略，以满足用户对网络服务质量（qualityofservice，QoS）的要求。因此建立高精度的预测模型具有重要的实际意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对短期网络流量复杂多变的特点，出现了许多有效的网络流量预测模型。传统的线性模型包括自回归模型（AR）、移动平均模型（MA）、自回归移动平均模型（ARMA）、自回归合成移动平均模型（ARIMA）等[1-2]，这些模型针对小规模的稀疏网络流量预测取得了很好的效果，但是不能满足现代网络流量存在的突变性和多依赖性等非线性要求[3]。随着神经网络，支持向量机等技术的不断提出，出现了基于机器学习算法的预测模型，例如人工神经网络，最小二乘支持向量机（LSSVM)，极限学习机（extreme learningmachine，ELM）等[4\\~6]。通过对历史数据进行拟合训练和规律性学习，较好的解释了网络流量的随机性和周期性，在网络流量预测中得到广泛的应用。以上算法存在的问题在于缺少对时序数据时间相关性的考虑，预测精度有限[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "循环神经网络（recurrentneuralnetwork，RNN）是一种引入循环反馈的深层神经网络[8]，考虑到时间序列的时序相关性，在学习具有长期依赖的时序数据上表现出更强的实用性[9]。长短期记忆（longshort-termmemory，LSTM）循环神经网络是RNN的一种特殊模型，能够学习时序数据之间的长期依赖关系，有效地解决了常规RNN训练过程中的梯度消失和梯度爆炸问题，在时间序列预测领域得到广泛应用[10]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的LSTM进行网络参数的确定是采用的是反向误差传播（backpropagation throughtime，BPTT）算法，该算法复杂度非常高，并且容易收敛于局部最优解[]。粒子滤波（particle filter,PF）是一种基于蒙特卡洛思想的贝叶斯估计算法，在非线性、非高斯系统中具有更强的建模能力。该算法收敛速度快，收敛于全局最优解，已在多目标跟踪，故障诊断，信号处理等领域得到广泛的应用。[12-14]。但是基本的PF 算法存在粒子退化，粒子多样性丧失等问题[15]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对网络流量预测中LSTM参数优化问题，提出一种改进的PF-LSTM的网络流量预测模型，通过改进PF算法确定模型的最优参数，提高预测准确率和效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 LSTM神经网络 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1循环神经网络原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "深度学习作为深层次的神经网路，是机器学习中一个新的研究领域。传统的人工神经网络认为数据是独立的，它所考虑的唯一输入是当前时刻的输入数据，而不考虑数据之间的时序性。RNN是一种前馈神经网络，在传统神经网络中增加了记忆单元，隐藏层之间的节点不在是无连接的，而是有连接的了。图1为典型的RNN单元，包含输入层 $x$ ，隐藏层 $h$ ，输出层 $o$ 。其中一条单向的信息流由输入层到隐藏层，再由隐藏层到输出层，构成基本的神经网络结构，另一条信息流由隐藏层到隐藏层构成闭环，形成自连接的隐层。RNN的原理如下： $x _ { t }$ 表示 $t$ 时刻的输入， $M$ 表示 $t$ 时刻隐藏层的状态， $o _ { t }$ 表示输出。当前$t$ 时刻的隐藏层的状态除了包含输入层信息以外，还包含上一时刻 $t - 1$ 时的信息 $h _ { { \\scriptscriptstyle t } - 1 }$ ，而 $h _ { { _ t } }$ 也会对下一时刻 $^ { t + 1 }$ 时的隐藏层产生影响。使用公式可以将RNN单元的结构表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { t } = \\operatorname { t a n h } ( U x _ { t } + W h _ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\no _ { t } = s o f t \\operatorname* { m a x } ( V h _ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $U$ ， $W$ ， $V$ 为对应层的权重矩阵",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/803cb2bd0dc6d06d6641ebe0d2c8854fe7d529f2c24c79f524907000ef68ceee.jpg",
+        "img_caption": [
+            "图1RNN单元"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RNN 隐藏层的结构特点使得循环神经网络能够对前面的信息进行“记忆”并作用于此刻的输出，因此能够有效的解决长期依赖问题。但是随着时间间隔的不断增大，RNN会丧失学",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "习过去较久远信息的能力，即梯度消失。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2LSTM神经网络原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LSTM作为RNN的一种改进模型，其原理在本质上是相似的，不同之处在于LSTM模型在隐藏层中引入“记忆细胞\"的结构，使用不同的函数去计算隐藏层的状态。在\"记忆细胞\"中，使用三个门限层控制可以通过门的信息量，对具有长期依赖的序列数据非常有效。LSTM中“记忆细胞\"的结构中如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e9ccad1aeca0d156bfcd8330ad491a183c89180e6321b785f54817a1e323df5.jpg",
+        "img_caption": [
+            "图2LSTM“记忆细胞”结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2中， $i _ { t }$ 为输入门限层，用来控制信息输入； $f _ { t }$ 为遗忘门限层，用来控制细胞历史状态的保留； $o _ { t }$ 为输出门限层，用来控制信息的输出。激活函数 $\\sigma$ 为sigmoid函数，应用于三个门之中，产生的值在[0,1]之间，当遗忘门输出值为0的时候，表示将上一状态的信息全部丢弃，当遗忘门的输出值为1的时候，表示将上一状态的信息全部保留LSTM结构具体的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { t } { = } \\sigma ( W _ { x i } x _ { t } + W _ { h i } h _ { t - 1 } + b _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { t } { = } \\sigma ( W _ { \\boldsymbol { x } { f } } x _ { t } + W _ { h { f } } h _ { t - 1 } + b _ { f } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\no _ { t } { = } \\sigma ( W _ { x o } x _ { t } + W _ { h o } h _ { t - 1 } + b _ { o } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { t } = f _ { t } \\odot c _ { t - 1 } + i _ { t } \\odot \\mathrm { t a n h } ( W _ { x c } x _ { t } + W _ { h c } h _ { t - 1 } + b _ { c } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { t } { = } o _ { t } \\odot \\operatorname { t a n h } ( c _ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { t } { = } \\sigma ( W _ { y h } h _ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { t }$ 为输入层的输入， $i _ { t }$ 为输入门的输出， $f _ { t }$ 为遗忘门的输出， $o _ { t }$ 为输出门的输出， $\\boldsymbol { c } _ { t }$ 用来更新细胞状态， $h _ { { t } }$ 为隐藏层的输出， $y _ { t }$ 为输出层的输出。其中 $W$ 为对应层的权重矩阵， $b$ 为各层输出的偏差向量， $\\sigma$ 和 tanh是激活函数，分别为sigmoid函数和双曲正切函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LSTM模型训练过程采用的是与经典的反向传播算法（back propagation,BP）原理类似的BPTT算法，大致可以分为四个步骤：a）按照式(3)\\~(8)计算LSTM细胞的输出值；b）按时间和网络层级两个反向传播方向计算每个LSTM细胞的误差项；c）根据相应的误差项计算每个权重的梯度；d）应用梯度下降的优化算法更新权重。在训练过程中，误差项会向上一个状态逐层传递，几乎没有衰减。很长时间之前的状态和结尾状态都会影响各层权重的调整，最后训练出来的模型就具有较长时间范围内的记忆功能。但是BPTT算法需要利用导数运算，对优化函数和约束条件具有严格的连续和可求导的要求，在复杂的优化环境中计算复杂度高，可能收敛于局部最优值。由于近年来现代计算机计算效率的提高，粒子滤波在非线性，非高斯系统表现出良好的优越性，在智能导航和跟踪、数据分析、故障检测等领域得到了成功的应用。为了提高LSTM模型的预测精度，降低计算复杂度，提高效率，本文引入改进的粒子滤波非线性约束优化算法，通过粒子滤波实现对预测模型参数的优化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 粒子滤波优化算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1标准的粒子滤波算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒子滤波算法是一种基于蒙特卡洛思想的贝叶斯估计方法，其基本思想是：在状态空间中，通过加权求和代替积分操作，对随机信号 $\\boldsymbol { x } _ { k } ^ { i }$ （ $i = 1 , 2 , \\cdots , N$ ）的后验概率密度 $P ( x _ { k } \\mid z _ { 1 : k } )$ 进行近拟，再由系统观测函数 $z _ { 1 : k }$ 的不断更新，从而得到信号的最小方差估计。即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( x _ { k } \\mid \\boldsymbol { z } _ { 1 : k } ) = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } f ( x _ { k } ^ { i } ) = \\sum _ { i = 1 } ^ { N } w _ { k } ^ { i } f ( x _ { k } ^ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $w _ { k } ^ { i }$ 为粒子的权值， $N$ 为采样粒子数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标准的粒子滤波算法包括重要性采样、重采样、状态估计等关键步骤，其具体的实现过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "建立时变动态系统的数学模型为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { k } = f _ { k } ( x _ { k - 1 } , w _ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { k } = h _ { k } ( x _ { k } , \\nu _ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $f _ { k } ( \\bullet )$ 和 $h _ { k } ( \\bullet )$ 是系统状态和的非线性函数，变量 $w _ { k - 1 }$ 是系统噪声； $\\nu _ { \\scriptscriptstyle k }$ 是系统测量噪声。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）初始化： $k = 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由已知概率密度 $p ( x _ { 0 } )$ 采样生成初始粒子集，粒子集中每个粒子为等权重的： $\\{ x _ { 0 } ^ { i } , 1 / N ; i = 1 , 2 , \\cdots , N \\}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）重要性采样： $k = 1 , 2 , \\cdots , N$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)从建议分布函数中随机抽取 $N$ 个粒子：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { x } _ { k } ^ { i } \\sim q ( \\boldsymbol { x } _ { k } ^ { i } \\mid \\boldsymbol { x } _ { k - 1 } ^ { i } , \\boldsymbol { y } _ { k } ) = p ( \\boldsymbol { x } _ { k } ^ { i } \\mid \\boldsymbol { x } _ { k - 1 } ^ { i } ) \\mathrm { , } i = 1 , 2 , \\cdots , N\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(b)更新粒子权值并对权值进行归一化：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { k } ^ { i } = w _ { k - 1 } ^ { i } \\frac { p ( z _ { k } \\mid x _ { k } ^ { i } ) p ( x _ { k } ^ { i } \\mid x _ { k - 1 } ^ { i } ) } { q ( x _ { k } ^ { i } \\mid x _ { k - 1 } ^ { i } , y _ { k } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { w } _ { k } ^ { i } = w _ { k } ^ { i } / \\sum _ { i = 1 } ^ { N } w _ { k } ^ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）重采样 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算有效粒子数。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { N } _ { e f f } = 1 / \\sum _ { i = 1 } ^ { N } \\bigl ( \\tilde { w } _ { k } ^ { i } \\bigr ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "若 $\\hat { N } _ { e f f } < N _ { t h r }$ ，则跟据 $p ( \\tilde { x } _ { k } ^ { j } = x _ { k } ^ { i } ) = \\tilde { w } _ { k } ^ { i }$ 进行重采样，选择权值较大的粒子复制，较小的删除，形成新的生成粒子集：$\\{ x _ { k } ^ { j } , 1 \\backslash N ; j = 1 , 2 , \\cdots , N \\}$ ，其中 $N _ { _ { t h r } }$ 为设定的阈值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d）状态估计：估计系统状态及方差 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { x } _ { k } = E ( x _ { k } \\mid y _ { k } ) \\approx \\sum _ { i = 1 } ^ { N } x _ { k } ^ { i } \\tilde { w } _ { k } ^ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { k } = \\sum _ { i = 1 } ^ { N } \\tilde { w } _ { k } ^ { i } ( \\hat { x } _ { k } - x _ { k } ^ { i } ) ( \\hat { x } _ { k } - x _ { k } ^ { i } ) ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)令 $k = k + 1$ ，返回第b）步。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒子滤波中 $\\hat { N } _ { e f f }$ 决定着预测模型的预测精度，随着迭代次数的增加，在重采样的过程中权值较大的粒子大量增加，权值偏小的粒子所剩无几，有效粒子数不断降低，造成粒子贫化，多样性降低，大大提高了估计误差。为了解决这一问题，需要对重采样过程进行优化改进。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2改进重采样的粒子滤波算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统的重采样算法的思想是在生成新粒子集的过程中丢弃小权值粒子、并多次重复复制大权值粒子，这就会损失粒子的多样性。为了解决此问题，在重采样过程中引入距离比较过程和优化组合策略，首先通过距离比较过程尽可能地保留中等权值的粒子，其次根据优化组合策略由大权值粒子衍生出新粒子代替重复复制，从而在克服粒子退化现象的同时也使得新生粒子集的有效性和多样性均得到增强。具体的实现步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)距离比较过程",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了保证具有中等权值的粒子在重采样步骤之后正确保留，在累计密度函数到均匀分布随机数的映射中引入距离比较过程，定义距离比较计算式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vert u _ { j } - c _ { i } \\vert < \\delta \\cdot \\vert c _ { i } - c _ { i - 1 } \\vert , i = 1 , 2 , \\cdot \\cdot \\cdot , N\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { i } = \\sum _ { m = 1 } ^ { i } w _ { k } ^ { m } \\mathrm { ~ , ~ } i = 1 , 2 , \\cdots , N\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $c _ { i }$ 表示索引为 $i$ 的粒子的累计密度函数值， $\\boldsymbol { u } _ { j }$ 为距离最近的随机数， $\\delta = 1 / \\ : N$ 为距离因子。如果 $c _ { i }$ 和 $\\boldsymbol { u } _ { j }$ 之间的距离远远小于粒子自身的权重，则粒子被认为是具有中等权重的粒子，在重采样之后应该得到保留。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过在重采样的每一时刻引入距离比较，当前时刻重采样执行之后，能够保证具有中等权重的粒子的正确输出，粒子集的有效性得到了增强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)基于优化组合策略生成新粒子",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "重采样过程中，粒子集多样性损失是过度复制了大权重的粒子导致的。为了避免样本贫化现象，提出由优化组合策略产生的新生粒子集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在重采样过程中，将具有很大权重的粒子视为根粒子，与其邻近粒子的状态信息相结合生成新的子代粒子集。定义优化组合的公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ^ { m } = x _ { i } + \\mu _ { i } \\cdot x _ { i } ^ { a } , m = 1 , 2 , \\cdot \\cdot \\cdot , n _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { i } ^ { m }$ 代表有根粒子新生成的新生粒子集， $x _ { i } ^ { a }$ 代表与粒子相邻的邻近粒子集。设定参数",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { i } { = } ( 1 / \\alpha ) \\cdot w _ { i } ^ { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\boldsymbol { w } _ { i } ^ { a }$ 代表某一特定邻近粒子的重要性权值， $\\alpha$ 代表此特定邻近粒子距离根粒子的对应空间间隔数。通过引入参数，使不同邻近粒子权值贡献以及其距离根粒子 $x _ { i }$ 的空间间隔影响都被考虑进去。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过与邻近粒子集相结合的方式，生成新的粒子集中包含了更多邻近粒子的状态信息，使最终输出的粒子集中的多样性增强，从而能够更好的表达系统状态的后验概率密度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 基于改进粒子滤波算法的LSTM预测模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1基于改进粒子滤波算法的LSTM模型训练 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "粒子滤波算法优化函数的过程可认为是一个时变动态系统。迭代次数可以看做是离散的时间值，而系统的状态可看做是每次迭代的最优解。首先需要确定时变动态系统的测量方程，更新方程和初始状态。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LSTM预测模型的目标是使系统的预测值与实际值的误差尽可能小。也就是说目标函数是最小化 $\\sum _ { t = 1 } ^ { T } ( y _ { t } ^ { \\prime } - y _ { t } ) ^ { 2 }$ 。其中 $y _ { t } ^ { \\prime }$ 为实际值， $y _ { t }$ 而为系统的输出值， $T$ 为时间序列的长度。那么系统的测量方程可以定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf i t n e s s = \\sum _ { t = 1 } ^ { T } ( y _ { t } ^ { \\prime } - y _ { t } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统的更新方程可由式 $( 3 ) \\sim ( 8 )$ 组成，在系统更新方程，测量方程和初始状态都已知的情况下，粒子滤波算法将求解状态最优估计问题，基于粒子滤波算法的LSTM参数优化的基本步骤如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)系统状态初始化。根据上述LSTM网络的参数和式 $( 3 ) \\sim$ (8）计算LSTM的输出值 $y$ 。根据误差范围确定系统初始状态的定义域作为系统的约束条件。粒子滤波算法的性能受粒子群初始值影响较小，因此该算法中采用在其定义域内随机产生种群的方法进行初始化。令粒子总数为 $N$ ，迭代总数为tf。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)重要性采样。对于 $i = 1 , 2 , \\cdots , N$ ，根据概率分布函数$x _ { k } ^ { i } \\sim q ( x _ { k } ^ { i } \\mid x _ { k - 1 } ^ { i } , y _ { k } )$ ，从初始粒子集中随机抽取 $N$ 个粒子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)更新全局最优解。根据系统的测量方程式（22）评估所有粒子 $\\ v { x } _ { k } ^ { i }$ 的吻合值，选择其中的最优粒子以及对应的最优 $y$ 值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)更新粒子权值并对权值进行归一化。只要粒子不满足系统约束条件，就置粒子的权值为0；如果满足约束条件，就根据当前观察值 $y _ { k } ^ { i }$ 和式（13）来计算每个粒子的权值，并通过式（14）归一化粒子的权值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)重采样。为了减小粒子退化现象并保证粒子集的有效性和多样性，该算法引入距离比较过程保证中等权值粒子的正确输出。在生成新的支撑粒子集的过程中，引入由优化组合的方式结合邻居粒子的状态生成新的粒子集，克服大权重粒子过度复制所引起的样本贫化现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算有效粒子数 $\\hat { N } _ { e f f }$ ，如果 $\\hat { N } _ { e f f } < N _ { t h r }$ ，则根据距离比较和优化组合策略执行重采样过程，得到新的支撑粒子集 $\\ v { x } _ { k } ^ { i }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f)状态估计。根据式（16）（17）估计系统的状态和方差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "g)根据迭代步数 $k$ 判断算法终止条件是否满足，如果不满足终止条件，则重新返回到步骤2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "h)算法终止。返回最优的粒子和系统的输出值 $y$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2基于粒子滤波算法的LSTM预测模型的建立",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文实验是在Windows10操作系统中，基于Python3.5编程，使用Keras深度学习框架，搭建LSTM循环神经网络模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在网络结构设计中确定LSTM网络结构由1层输入层，1层隐藏层，1层输出层组成。结合图4可知，其具体的预测步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)数据预处理和样本划分。通过网络流量样本数据进行极差标椎化处理，使样本数据处于[0,1]之间。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ X _ { _ { n o r } } = { \\frac { X - X _ { \\operatorname* { m i n } } } { X _ { \\operatorname* { m a x } } - X _ { \\operatorname* { m i n } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $X _ { \\mathrm { m a x } }$ 与 $X _ { \\mathrm { m i n } }$ 表示样本数中的最大值和最小值",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经过与处理之后的数据按照简单交叉验证法划分为训练集和测试集，前 $90 \\%$ 组数据作为训练集，用于LSTM网络模型的训练，余下的 $10 \\%$ 组数据作为测试集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)确定LSTM网络中的输入层单元个数,输出层单元个数和隐藏层单元个数 $l$ 以及隐藏层参数。设置网络输入为每批 $m$ 个变量作为输入 $X = \\{ x _ { i } | i = 1 , 2 , \\cdot \\cdot \\cdot , m \\}$ ， $n$ 个变量作为输出$Y = \\{ y _ { i } | i = 1 , 2 , \\cdots , n \\}$ ，隐藏层单元个数通过多次试探实验来决定。本实验设定 $\\scriptstyle m = 1 2$ ， $n = 2$ ，即通过每批12个小时的网络流量数据预测未来2小时的网络流量值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c预测模型训练过程参数设置。通过改进的粒子滤波算法 确定参数，使模型收敛于全局最优。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)网络流量预测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)判定预测模型误差。对于网络模型预测结果，采用两种误差分析方法验证其预测精度，即均方根误差（rootmean squareerror,RMSE）和平均相对误差(mean relative error,MRE）。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S E ( y _ { i } , \\hat { y } _ { i } ) = \\sqrt { \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } ( y _ { i } - \\hat { y } _ { i } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM R E ( y _ { i } , \\hat { y } _ { i } ) = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } \\lvert \\frac { \\hat { y } _ { i } - y _ { i } } { y _ { i } } \\rvert \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $y _ { i }$ 为序列样本的实际值， $\\hat { y } _ { i }$ 为预测值， $N$ 为样本总数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 仿真结果及分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了分析本文提出的PF-LSTM模型的预测性能，选取某地区2016年5月1日到2016年5月20日每小时的网络流量统计数据作为实验对象，共计得到500个样本，如图5所示。选择前450个样本点作为训练集构建网络流量学习模型，后50个样本点作为测试集分析模型的性能。从预测精度和算法收敛效率两个方面验证其性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)预测精度。图6是分别采用传统的BPTT 算法训练的LSTM网络模型和提出的BF-LSTM网络模型对网络流量值的预测结果曲线图。由图6可以看出，传统的LSTM模型预测曲线虽然能反映网络流量的变化趋势，但是与真实值曲线拟合得不太理想，而PF-LSTM模型收敛于全局最优，能够较好地跟踪网络流量的变化趋势，实现了更精确的预测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步比较LSTM和PF-LSTM两种模型的预测效果，表1计算出了两种模型的平均预测误差，RMSE和MRE。从表中可以看出，BF-LSTM模型的预测结果误差较小，预测值要明显优于传统的LSTM模型。从MRE的角度进行评价，传统的",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LSTM的结果为 $14 . 7 2 \\%$ ，而BF-LSTM模型的结果为 $6 . 3 1 \\%$ 优于LSTM的预测误差。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/11122fe1776588a60261419ed5e3e39a64526b1dea728e67da0a501ccaefc3e1.jpg",
+        "img_caption": [
+            "图4基于改进PF-LSTM的网络流量预测模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd353de89d2a7e5fff9d702bdc864fa9daead5070af54c02bd1c31d2f7e7f644.jpg",
+        "img_caption": [
+            "图5实验统计数据图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0867a8420c4ed25dd3248cbcad88526d936921b1e4573f050a9783e6d2990ec.jpg",
+        "img_caption": [
+            "图6网络流量预测结果曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/acc29020d0e5929787a42ed3a1b865ac56684d54ce91fc4ed4a81c338a3b9ccb.jpg",
+        "table_caption": [
+            "表1不同模型预测结果及误差比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型</td><td>平均误差</td><td>RMSE</td><td>MRE</td></tr><tr><td>LSTM</td><td>101.72</td><td>109.44</td><td>14.72%</td></tr><tr><td>BF-LSTM</td><td>43.30</td><td>57.36</td><td>6.31%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b）收敛效率。为了验证PF-LSTM预测模型收敛效率，将结合文献[19]提出的基于灰狼优化算法的时间序列预测模型GWO-LSTM和传统的LSTM模型在训练数据集上进行误差收敛实验。在GWO-LSTM 模型中设置灰狼个数为200，三种模型具有相同的LSTM结构，迭代次数均为400，在相同的数据集上进行训练实验。实验结果如图7所示，从最终的平均相对误差上分析，BF-LSTM，GWO-LSTM模型的稳态相对误差均低于LSTM模型，说明前两者在预测精度方面要优于后者。从收敛速度方面考虑BF-LSTM 模型的误差收敛速度最快，其初始误差要明显小于其他两种模型，在经过200组左右的训练数据训练之后，就能收敛于最优的误差值，而GWO-LSTM模型和LSTM模型分别要经过450组和300组数据之后相对误差曲线才趋于平稳，因此PF-LSTM模型能够收敛到更小的稳态误差值，而且收敛速度最快，具有更高的效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/710de77705e80afa588c68dae68c88440d31e90b86f189b4360a8c70f55ff2fb.jpg",
+        "img_caption": [
+            "图7不同模型在训练数据集上的误差收敛曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对复杂突变的网络流量时序数据，采用LSTM网络进行时间序列预测，但是在进行训练时所采用的BPTT算法易于收敛于局部最优值，预测效果不理想。本文提出了一种基于改进的粒子滤波约束算法（PF）优化LSTM神经网络的短期网络流量预测模型（PF-LSTM）。该模型利用距离比较过程和优化组合策略改进粒子滤波算法，然后对LSTM网络进行学习训练，优化模型的参数，用于对短期网络流量进行预测。仿真实验表明，PF-LSTM预测模型具有较好的预测精度，可以准确把握网络流量的变化趋势，而且还有良好的收敛效率。将此模型应用到网络流量管理与规划中，有助于降低网络流量拥塞的频率，提高网络资源的利用率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]陈广居，梁鹏，王坤．网络流量预测模型研究[J].信息通信，2017,31 (8):191-194.(Chen Guangju,Liang Peng,Wang Kun.Research on network traffic prediction model[J].Information Communication,2017,31(8):191- 194.)   \n[2]Chen Huafeng,Liu Jianing.Modeling and forecast of wireless network traffic based on combinatorial optimization theory[J].Modern Electronics Technique,2016,39 (23): 43-46.   \n[3]Aldhyani T H H, Joshi MR. Integration of time series models with soft clustering to enhance network trafc forecasting [C]// Proc of International Conference on Research in Computational Intelligence & Communication Networks.2017: 212-214.   \n[4]Haviluddin,Alfred R.Performance of modeling time series using nonlinear autoregressive with eXogenous input (NARX) in the network traffic forecasting [C]// Proc of International Conference on Science in Information Technology. 2016: 164-168.   \n[5]许爱军.改进ABC 算法优化LSSVM的网络流量预测模型[J].计算机 应用与软件,2015,32(1): 323-326.(Xu Aijun.Network traffic prediction model based on improved ABC algorithm foroptimizing LSSVM [J]. Journal of Computer Applications and Software,2015,32(1): 323-326.)   \n[6]张立仿，张喜平.量子遗传算法优化BP 神经网络的网络流量预测[J]. 计算机工程与科学,2016,38(1):114-119.(Zhang Lifang,Zhang Xiping. Optimization of BP Neural Network Based on Quantum Genetic Algorithm for Network Traffic Prediction [J]. Computer Engineering and Science,2016, 38 (1): 114-119. )   \n[7]Zhao Zheng,Chen Weihai,Wu Xingming,et al.LSTM network:a deep learning approach for short-term traffic forecast [J]. IET Intelligent Transport Systems,2017,11 (2): 68-75.   \n[8] 黄斌，卢金金，王建华，等．基于深度卷积神经网络的物体识别算法 [J]．计算机应用,2016,36(12):3333-3340.(Huang Bin,Lu Jinjin,Wang Jianhua,et al. Object recognition algorithm based on deep convolutional neural network [J]. Journal of Computer Applications,2016,36 (12): 3333- 3340.）   \n[9] 杨祎玥，伏潜，万定生．基于深度循环神经网络的时间序列预测模型 [J].计算机技术与发展,2017,27(3):35-38.(YangWei,Fu Qian,Wan Dingsheng. Time Series Prediction Model Based on Deep Cyclic Neural Network[J].Computer Technology and Development,2017,27(3): 35-38.)   \n[10] Kong Weicong,Dong Zhaoyang,Jia Youwei,et al. Short-term residential load forecasting based on LSTM recurrent neural network [J]. IEEE Trans on Smart Grid,2017,PP (99): 1.   \n[11] Chen Kai，Yan Zhijie,Huo Qiang.A context-sensitive-chunk BPTT approach to training deep LSTM//BLSTM recurrent neural networks for offline handwriting recognition [C]//Proc of International Conference on Document Analysis and Recognition. 20l6: 411-415.   \n[12]曹蓓．粒子滤波改进算法及其应用研究[D].北京：中国科学院研究生 院,2012.(Cao Wei.Improved particle filter algorithm and its application [D]. Beijing: Graduate School ofChinese Academy of Sciences,2012.)   \n[13] Ergen T,Kozat S S.Efficient Online Learning Algorithms Based on LSTM Neural Networks.[J]. IEEE Trans on Neural Network Learn System, 2017, PP (99): 1-12.   \n[14]张凌晓，刘克成，杨新锋，等．基于改进的粒子滤波非线性约束优化算 法[J].计算机应用研究,2014,31(11):3266-3268.(Zhang Lingxiao,Liu Kecheng,Yang Xinfeng,et al. Nonlinear constrained optimization algorithm based on improved particle filter [J]. Journal of Computer Applications, 2014,31 (11): 3266-3268. )   \n[15] Jouin M,Gouriveau R,Hissel D,et al.Particle filter-based prognostics: Review, discusson and perspectives [J]. Mechanical Systems & Signal Processing,2016,31(2): 72-73.   \n[16] Zhou Tian,Peng Dongdong,Xu Chao,et al. Anadaptive particle filter based on Kullback-Leibler distance for underwater terrain aided navigation with multi-beam sonar[J].IETRadar Sonar Navigation,2018,12(4): 441-443.   \n[17] Chen Dawei.Research on trafic flow prediction in the big data environment based on the improved RBF neural net work [J]. IEEE Trans on Industrial Informations,2017,13 (4): 2000-2008.   \n[18]李小婷，史健芳．基于重采样技术改进的粒子滤波算法[J].微电子学 与计算机,2016,33(9):164-168.(Li Xiaoting,Shi Jianfang.Improved particle filter algorithm based on resampling technique [J]. Microelectronics & Computer,2016,33 (9): 164-168.)   \n[19]王书芹，华钢，郝国生，等．基于灰狼优化算法的长短期记忆网络在时 间序列预测的应用[J]．中国科技论文,2017,16(20):2309-2314.(Wang Shuqin,Hua Gang,Hao Guosheng,et al. Application of long-short-term memory network based on grey wolf optimization algorithm in time series prediction [J]. Chinese Scientific Papers,2017,16 (20): 2309-2314.)   \n[20] Lin Hunlong,Li Sai. Remaining Useful Life Prediction of the Lithium-ion Batteries Based on Particle Filter Algorithm [J].Science Technology & Engineering,2017,17 (29): 296-301. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

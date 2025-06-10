@@ -1,0 +1,580 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201610102043 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马世五,谢德体,张孝成,彭正涛,洪惠坤,罗卓,肖玖金.三峡库区生态敏感区土地生态安全预警测度与时空演变——以重庆市万州区为例.生态学报，2017,37(24)：8227-8240.  \nMaSW,XieDagXCengZTHgHKoZiaJeasuresfdolicaialyagsspatialpavoitheecolgicallseo8227-8240.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "三峡库区生态敏感区土地生态安全预警测度与时空演变",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以重庆市万州区为例",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马世五1,2,3，谢德体，\\*，张孝成2,3，,彭正涛2,3，洪惠坤4,罗卓2,3,肖玖金",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1西南大学资源环境学院，重庆400715  \n2重庆市国土资源和房屋勘测规划院，重庆400020  \n3国土资源部土地利用重点实验室重庆研究中心，重庆400020  \n4西南大学地理科学学院，重庆400715  \n5四川农业大学林学院，温江611130",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;以三峡库区生态敏感区典型区万州区为研究对象,基于压力—状态—响应(P-S-R)框架构建土地生态安全预警指标体系,运用熵值法进行土地生态安全预警分析,并通过空间统计学方法对研究区土地生态安全警度的空间分布特征、变异规律及空间关联格局进行研究分析,旨在为区域土地资源利用的规划、管理及其生态保护提供决策参考。结果表明： $\\textcircled{1}$ 研究区2000—2014年土地生态安全警度呈连续上升趋势,土地生态安全警度较高区域由万州区中心城区不断向四周扩散,但2000—2009 年期间研究区土地生态安全警度提升幅度比2009—2014 年期间更为明显,2000—2009 年期间是区域土地生态安全警度变化的关键时段。 $\\textcircled{2}$ 研究区2000—2014年 $C _ { 0 } / ( C _ { 0 } { + } C )$ 呈不断上升趋势,表明非结构性因素对区域土地生态安全警度的影响程度在不断加大,这与研究区14年来经济高速发展、人类对土地资源利用强度加剧以及区域自然灾害频发的实际情况相符。 $\\textcircled{3}$ 研究区2000年、2009年、2014 年全局 Moran'sI值分别为0.7823、0.7772、0.775,表明土地生态安全预警指数在空间上存在较强的正相关关系，区域土地生态安全警度在空间上具有较强聚集性。 $\\textcircled{4}$ 研究区“高—高”、“低—低”值区均呈现出2000—2009 年范围逐渐增加,而2009—2014年范围逐渐缩小的趋势;且“高—高\"值区主要集中分布在中心城区及其邻近区域，“低—低”值区则主要集中分布在研究区西北部和东南部等土地利用程度相对较弱、植被覆盖相对较好地区;中心城区周边的“低—高\"值区将是城市发展中优先被占用的区域,在未来的土地利用中,尤其需加强对区域\"低一高\"值区的重点保护。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：三峡库区;生态敏感区；土地生态安全;预警;时空演变 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Measures of land ecological security early warning and its spatial-temporal evolution in the ecologically sensitive area of the Three Gorges reservoir area : A case study of Wanzhou District， Chongqing City ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Shiwu1.2.3,XIE Deti1 \\* ,ZHANG Xiaocheng2,3,PENG Zhengtao $^ { 2 , 3 }$ ,HONG Huikun4,LUO Zhuo23,XIAO Jiujin5   \n1 College of Resources and Environments in Southwest University,Chongqing 40o715，China   \n2 Chongqing Land Resources and Housing Surveying and Planning Institute,Chongqing 4Oo02o,China   \n3ChongqingResearchCenteroftheKeyLaboratoryofLandUseUndertheMinistryofLandandResources，Chongqing40o，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4College ofGeographical Sciences in Southwest University,Chongqing 4OO715,China ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5Forestry College of Sichuan Agricultural University，Wenjiang 611130,China ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Theecologicallysensitive areaof the Three Gorgesreservoirarea is located inthe throatareaoftheecological barrierintheYangtzeRiverBasin，which isoneof thekeyareasforbiodiversityconservation inChina.Itisalsothewestern hub of theeconomic belt of the upper Yangtze River.The contradiction betweenresource protection and economic development has becomeincreasingly prominent，and thus,the problemofanearly warning forland ecological securityis worthyof atention.Becauseof theconsiderablesignificanceof understandingand findingasolution tocurrent problems concerning the national ecological security strategy，there isacertain reference value for determining thedegree of early waningforlandecologicalsecurityandexaminingits temporalandspatial evolution intheecologicallsensitiveareaof the Three Gorges reservoir area，thereby further improving theregional warning for land ecological security.Anearly warning indicator system for land ecological security was establishedbased on a pressure-state-response（PSR）framework.An entropy method wasthenused toanalyzetheearly warning fortheecological securityof land inthe Three Gorgesreservoir area，Wanzhou District.Inaddition，using spatialstatistical methods，thespatial distributionand Variation，andspatial corelation patternof thedegree ofalarmforland eologicalsecurityinthestudyareawere evaluatedandanalyzed.The aim of the studywas to provideadecision-making reference forthe planning，management，and ecological protectionof regional land resourceutilization.Theresultsobtained were as folows.（1）The warning degrees forlandecological security inthe study area inthe period 2OoO—2014 showedacontinuousupwardtrend，and the area with ahigherland ecological security alarmcontinued tospread fromthecentral citytothe surounding Wanzhou District.However,improvement intherangeof theland ecological securityalarm in the period 20o—2009 is more obvious than that in the period 2009—2014.Itis, therefore，clear that 2OOO—2009 is the key period for thechange in land ecological security.（2）The ratio of $C _ { 0 } / ( C _ { 0 } { + } C )$ （204号 in thestudyareaincreased from 2OoO to2O14，indicating thatthe impactof non-structural factorsonregional land ecologicalsecuritycontinues toincrease.This isconsistent withtherapid economicdevelopment,theintensifieduseof land resources，and the frequent occurence of regional natural disasters in the past 14 years.（3）The global Moran's $I$ of the study area in 2000，2009，and 2014 was0.7823，0.7772，and0.775，respectively，which indicates that there isa significantpositivecorrelationamong thelandecological security warning indexonaspatialscale，andthatthedegreeof regionalland ecological securitywaming hasastrong clusteringat thespatial scale.（4）The areasof“high-high”and “low-low”in thestudyarea showeda graduallincreasing trend from 20Oto 2O09andadecreasing trendfrom 2009 to 2014.Furthermore，the“high-high”areasare mainly distributed inthecentral cityandtheadjacent areas，whereas the “low-low”areas are mainlylocated in the northwestand southeastregions ofthe study area，where the extentof land useis relativelylowandvegetationcoverageisbeterthanthat inotherareas.The“low-high”areasaroundthecentral citywillbe apriorityarea forurbandevelopment.In termsoffuture landuse，it will，therefore，benecessary tostrengthen the protection of the“low-high” areas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:Three Gorges Reservoir Region;ecologically sensitiveregion; land ecological security；early warning;；spatialtemporal evolution ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态安全是21世纪人类社会可持续发展所面临的一个新主题[1],土地生态安全作为生态安全问题研究的重要组成部分，己成为当前土地资源可持续利用研究的前沿课题。近年来，由于我国人口急剧增加、工业化和城镇化进程加快,人地矛盾愈发凸显,不合理的土地利用方式以及土地利用强度的不断加大,导致部分区域土地生态系统遭受到严重的威胁和破坏,土地生态安全问题成为区域土地资源可持续利用的主要“瓶颈”。因此，如何保障区域土地生态系统的安全、实现土地生态安全预警成为关系到人类社会能否持续稳定发展的关键问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土地生态安全预警研究起源于生态安全预警,可以追溯到20世纪70年代[2」。随着1975全球环境监测系统（GEMS)的建立[2],生态安全预警研究开始得到广泛关注;在此基础上部分学者[3-4]从不同角度对生态环境预警进行了开拓性研究,生态环境预警理论不断完善,技术方法和手段不断更新和提高，从单项预警发展到综合预警,从专题预警发展到区域预警[5]。随着生态环境预警理论研究的不断深人,生态环境预警理论被逐步引入到土地科学领域,土地生态安全预警随着土地生态安全问题的产生和信息技术的发展亦随之出现[6]，国内外学者进行了大量研究。在国外土地生态安全预警方面,相关研究以监测预警为主,主要包括土壤监测系统建设[7],土地利用变化广域性、综合性的动态监测[8-1]和农业资源环境、土地生态环境预警预测等方面[12-15]。在国内土地生态安全预警方面,主要涉及土地生态安全预警理论[6,16-18]、预警指标体系[1922]（预警方法[23-26]及预警信息系统建设[27-28]等方面。综合来看,尽管国内外学者针对土地生态安全预警开展了大量研究,但仍存在以下不足：一是土地生态安全预警多以县(区)行政单位为评价单元,难以反映县(区)内部土地生态安全状况的局部差异;二是土地生态预警评价指标体系过多地依赖统计年鉴等社会统计资料,对土地生态状况的自然属性重视不够;三是忽略了土地生态安全警度在空间上的聚集规律、关联模式等空间分布特征及其演变过程,而土地生态安全警度的时空演变规律更具实用性,更有利于揭示区域土地生态状况的变化特征及驱动机制,能更好地为土地生态环境保护及人地关系协调发展提供参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三峡库区生态敏感区位于长江流域生态屏障的咽喉地带,是中国具有全球保护意义的生物多样性关键地区之一,同时也是长江上游经济带西部中心枢纽,保护资源与保障发展的矛盾日益突出。本研究选取三峡库区生态敏感区典型区域万州区2000年、2009年、2014年3个时期以行政村为评价单元开展土地生态安全预警测度与时空演变研究,构建基于PSR模型的区域土地生态安全预警指标体系,应用空间自相关模型和GIS相关技术开展区域土地生态安全警度时空分异特征,旨在为破解三峡库区生态敏感区生态环境瓶颈要素制约,实现区域土地资源可持续利用和社会经济可持续发展提供决策参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "重庆市万州区位于三峡库区腹心地带、四川盆地东部边缘，地处 $1 0 7 ^ { \\circ } 5 2 ^ { \\prime } 2 2 ^ { \\prime \\prime }$ 一 $1 0 8 ^ { \\circ } 5 3 ^ { \\prime } 2 5 ^ { \\prime \\prime } \\mathrm { E }$ ， $3 0 ^ { \\circ } 2 4 ^ { \\prime } 2 5 ^ { \\prime \\prime }$ 一$3 1 ^ { \\circ } 1 4 ^ { \\prime } 5 8 ^ { \\prime \\prime }$ ,东与云阳,南与石柱和湖北省利川,西与忠县和梁平,北与开县和四川省达州接壤。全区辖11个街道办事处,29个镇，12个乡，幅员面积 $3 4 5 6 . 5 5 ~ \\mathrm { k m } ^ { 2 }$ 。万州区在地势上处于我国第二阶段的东部边缘地带，四川盆地向秦巴山地和云贵高原的过渡带,境内地势总体上以长江为界,长江以北为北高南低,长江以南为南高北低,区内山脉平行延伸,谷岭相间分布,山脊线构造线基本一致,多呈东北一西南走向,形成以中低山和丘陵为主的地貌类型,属亚热带季风湿润带,气候温和,四季分明,冬暖夏热,无霜期长,雨量充沛,年均降雨量$1 4 1 6 ~ \\mathrm { m m }$ 。万州区素有“川东门户\"之称,是辐射川东、渝东、鄂西、黔东北、陕南、湘西的水陆交通枢纽和物资集散中心,区位优势十分明显。随着国家长江经济带战略的深入实施,万州区作为三峡库区腹心地带的区域性中心城市,其土地生态安全建设不仅是区域经济可持续发展的目标,更是三峡库区国土资源安全和生态文明建设的重要保障。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数据来源与处理方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究土地利用现状数据以万州区2000年、2009年、2014 年土地利用矢量图、1:1万 DEM、土地利用现状图、行政区划图为基础,同时结合区域土壤、气候、植被等自然地理资料,利用ArcGIS 10.2、GeoDa等软件对土地利用数据进行分析处理。其他社会经济数据来源于2001年、2010年、2015年万州区统计年鉴及林业、环保、农业等部门统计资料和实地调查资料。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2土地生态安全预警评价模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 预警指标体系构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究遵循科学性、综合动态性、指标可获得及可操作性、灵敏性原则,综合三峡库区生态敏感区土地生态状况实际情况[2-31],参照 20 世纪80 年代末联合国环境规划署（UNEP)和经济合作开发组织（OECD)联合提出的“压力一状态一响应\"（Pressure-State-Response,即 PSR)框架模型和联合国(UN)修改 PSR 模型后提出的“驱动力一状态一响应”（Driving Force-State-Response,即 DSR)框架模型[32-34],并结合《生态环境状况评价技术规范》（HJ192—2015）,采用德尔菲法、相关分析法,充分运用国土、环保、林业、农业等领域15位专家深厚的专业理论知识和丰富的实践经验,选取了21项指标构建了预警指标体系（表1)。本研究构建的 PSR土地生态安全预警指标体系中，“压力指标”是指人类活动对土地生态系统安全产生的压力,具体由人口、经济、城镇化及交通建设发展等方面的压力构成；“状态指标”用来反映特定时间阶段土地生态安全状况与动态特征,包括土地生态系统的自然环境状态以及土地利用状况等方面;“响应指标”是能够反映处理土地生态安全问题和维护改善土地生态安全状态的能力等方面。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 指标阈值确定与标准化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参照相关研究[26.35],将三峡库区生态敏感区土地生态安全等级划分为无警、轻警、中警、重警、巨警五级。在确定土地生态安全预警指标体系基础上,参考国家、行业和地方规定的相关环境质量标准,结合相关研究成果[18,30,36-37],从三峡库区土地生态环境现状与特征[29-31]出发,采用绝对确定法、相对确定法、专家确定法、借鉴法[37]和自然分类法（该方法利用统计学Jenk最优化法得出分界点,能够使各级内部方差之和最小）[38」确定各预警指标对应的各生态安全级别的阈值(表1),并据此阈值采用内插法进行预警指标标准化处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 权重确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究选取熵权法计算预警指标权重，并选取国土、环保、林业、农业等领域15位专家采用特尔菲法进行校核,综合确定区域土地生态安全预警指标权重(表1）,熵权法权重计算过程如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)计算第 $j$ 项指标的信息熵 $e _ { j }$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { j } = - \\sum _ { i = 1 } ^ { m } p _ { i j } \\mathrm { l n } ( \\boldsymbol { p } _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $k$ ：调节系数, $k = \\frac { 1 } { \\mathbf { l n } m }$ ，且 $k { > } 0 { ; } \\mathcal { P } _ { i j }$ ：第 $i$ 个参评对象第 $j$ 个评价指标的标准化值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)计算第 $j$ 项指标的效应值 $g _ { j }$ “",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { j } = 1 - e _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)计算第 $j$ 项指标的权重w；：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { j } = { \\frac { g _ { j } } { \\displaystyle \\sum _ { j = 1 } ^ { n } g _ { j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "某项评价指标的熵值越大,其权重值越小,反之亦然,研究区土地生态安全预警指标的权重值详见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4土地生态安全预警指数测算",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参照相关研究[39-40],采用乘算模型对评价单元进行土地生态安全预警指数计算,公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E S W I } = \\sum _ { i = 1 } ^ { n } A _ { i } \\times W _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：ESWI：某类指标的土地生态安全预警指数; $A _ { i }$ 为评价指标标准化值； $\\textstyle \\mathbf { \\textit { W } } _ { i }$ 为土地生态安全预警指标 $A _ { i }$ 的权重； $n$ 为指标总项数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 警度判别标准",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究采用系统聚类法计算模糊等价关系进行初始分类,再经ISODATA聚类法反复迭代进行研究区土地生态安全警度分类,构造无警点、低警点、中警点、重警点、巨警点等多个警限,并划分出无警、轻警、中警、重警、巨警等5个土地生态安全预警等级，详见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ecdc8f0277e1efae6ae9e1a833f6ede5cae0586c02db6768315e04301a9523c1.jpg",
+        "table_caption": [
+            "举 人 ? ",
+            "eeerereeeereerrrerregre "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">准则层 Rule Layer</td><td rowspan=\"2\">指标层 Index Layer</td><td rowspan=\"2\">单位 Unit</td><td rowspan=\"2\">指标性质 PrIneries</td><td rowspan=\"2\">标准确定依据</td><td rowspan=\"2\">无警 No warning</td><td colspan=\"3\">警度及赋值区间Alarm degreesand Assignmentranges 轻警 中警</td><td rowspan=\"2\">巨警</td><td rowspan=\"2\">Huge Warning</td><td rowspan=\"2\">权重/% Weights</td></tr><tr><td></td><td>Moderate warning</td><td>重警 Severe warning</td></tr><tr><td>压力(P)</td><td>人口自然增长率</td><td>%0</td><td>逆</td><td>专家确定法划分</td><td>0.1 <3</td><td>0.1-0.3 3-6</td><td>0.3-0.5 6-8</td><td>0.5-0.7 8-10</td><td>0.7-0.9 >10</td><td></td><td>7.3</td></tr><tr><td>Pressure(P)</td><td>GDP 增长率</td><td>%</td><td>逆</td><td>李喆（2012）[36],相对确</td><td><6</td><td>6-9</td><td>9-12</td><td>12-15</td><td>>15</td><td></td><td></td></tr><tr><td></td><td>城镇化率</td><td>%</td><td>逆</td><td>定法分12) 3]</td><td><10</td><td>10-20</td><td>20-35</td><td>35-50</td><td>>50</td><td></td><td>5 3.81</td></tr><tr><td></td><td>距交通主干道距离</td><td>m</td><td>正</td><td>李喆（2012)[36]</td><td>主干道路5km</td><td>主道路4km</td><td>主干道路3km</td><td></td><td>主干道路2km</td><td>主干道路1km</td><td>6.72</td></tr><tr><td></td><td>距城镇工矿用地距离</td><td>m</td><td>正</td><td>李喆（2012)[36]</td><td>城镇工矿3.km</td><td>城镇工矿2.5</td><td>城镇工矿2.km</td><td>城镇工矿1.5</td><td></td><td>城镇工矿1km</td><td></td></tr><tr><td></td><td>人均粮食产量</td><td>kg/人</td><td>正</td><td>国家粮食安全标准</td><td>>400</td><td>360—400</td><td>310—360</td><td>200—310</td><td></td><td></td><td>7.42</td></tr><tr><td></td><td>人口密度</td><td>人/km²</td><td>逆</td><td>李喆（2012)[36]</td><td><500</td><td>500—1000</td><td>1000—2000</td><td></td><td>2000—3000</td><td><200 >3000</td><td>3.01 6.16</td></tr><tr><td></td><td>单位面积 GDP 产值</td><td>万元/km²</td><td>逆</td><td>自然分类法划分</td><td><350</td><td>350—828</td><td>828-3654</td><td></td><td>3654—14675</td><td>>14675</td><td>9.5</td></tr><tr><td>状态(S) State(S)</td><td></td><td></td><td></td><td>农用地质量分等规程、李</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>地形缓度</td><td>度%</td><td>逆正</td><td>李喆(2012)[36] 喆(2012)[36]</td><td>0</td><td>6-150</td><td>15-30</td><td></td><td>35-30</td><td>>40</td><td>3.37</td></tr><tr><td></td><td>有机质含量</td><td>%</td><td>正</td><td>重庆市农用地分等成果</td><td>>3.0</td><td>2.0-3.0</td><td>1.0-2.0</td><td></td><td>0.6—1.0</td><td><0.6</td><td>3.05</td></tr><tr><td></td><td>水失类型多样性</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>正逆</td><td>自然分类分级标准</td><td>>0.7187</td><td>062190.787</td><td>0.4798 06219</td><td></td><td>0.2351-047988</td><td>.25及刷烈</td><td>4.08</td></tr><tr><td></td><td>人均耕地面积</td><td>hm²/人</td><td>正</td><td>国家粮食安全标准,相对 确定法划分[18]</td><td>>0.114</td><td>0.1043—0.114</td><td>0.0947—0.1043</td><td></td><td>0.085—0.0947</td><td><0.085</td><td>3.81</td></tr><tr><td></td><td>人均建设用地面积</td><td>hm²/人</td><td>逆</td><td>徐美（2013）[37]、自然分</td><td><0.01</td><td>0.01-0.0175</td><td>0.0175—0.0206</td><td></td><td>0.0206—0.025</td><td>>0.025</td><td>3</td></tr><tr><td>地层岩性</td><td></td><td></td><td></td><td>类法划分级标准</td><td>坚硬岩类</td><td>坚硬半坚硬</td><td>半坚硬岩类</td><td></td><td>半坚硬软岩类</td><td>软弱岩类</td><td>2.41</td></tr><tr><td></td><td>年降雨量</td><td>mm</td><td>逆</td><td>李喆（2012)[36]</td><td><800</td><td>800—1200</td><td>1200—1600</td><td></td><td>1600—2000</td><td>>2000</td><td>2.73</td></tr><tr><td>响应(R)</td><td>河网密度</td><td>km/km²</td><td>正</td><td>自然分类法划分</td><td>>74.32</td><td>21.35—74.32</td><td>1.88-21.35</td><td></td><td>0.96-1.88</td><td><0.96</td><td>5.3</td></tr><tr><td></td><td>自然保护区面积比例</td><td>%</td><td>正</td><td>李喆(2012)[36]</td><td>>60</td><td>40—60</td><td>20-40</td><td></td><td>5-20</td><td><5</td><td>5.33</td></tr><tr><td>Response(R)</td><td>生物丰度指数</td><td></td><td>正</td><td>自然分类法划分</td><td>>0.2455</td><td>0.2044—0.2455</td><td></td><td></td><td>0.1692—0.20440.1276—0.1692</td><td><0.1276</td><td>4.35</td></tr><tr><td></td><td>农民人均纯收入</td><td>元</td><td>正</td><td>徐美（2013）[37],专家确 定法划分</td><td>>6000</td><td>5000—6000</td><td>4000—5000</td><td></td><td>3500—4000</td><td><3500</td><td>2.37</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b09ba60edcadc244fe6529b68ed378005a07737b65c49267fd2c74db0e22f4f.jpg",
+        "table_caption": [
+            "表2土地生态安全预警分级参数",
+            "Table 2Early-warning grading parameters of land ecological security "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>预警等级 Early-warning grade</td><td>无警 No Warning</td><td>轻警 Light Warning</td><td>中警 Moderate Warning</td><td>重警 Severe Warning</td><td>巨警 Huge Warning</td></tr><tr><td>评价指数分级范围 Evaluation index grading range</td><td><0.3726</td><td>0.3726—0.4207</td><td>0.4207—0.4728</td><td>0.4728—0.5530</td><td>0.5530—0.7434</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3土地生态安全警度时空演变统计学方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 地统计学方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前,地统计学方法已成为研究生态安全空间变异性的一种有效方法。区域土地生态安全预警指数是一种空间变量,空间变化特征具有结构性和随机性,可以采用地统计学中空间变异函数的方法,借助半方差函数进行区域土地生态安全警度的空间分析[41]计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( h ) = { \\frac { 1 } { 2 n ( h ) } } \\sum _ { i = 1 } ^ { n ( h ) } \\left[ Z ( x _ { i } ) - Z ( x _ { i } + h ) \\ \\right] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $r ( h )$ 是半变异函数,揭示了整个尺度上的空间变异格局; $h$ 为两样本点的空间分割距离; $Z ( x _ { i } )$ 和$Z ( x _ { i } + h )$ 分别为空间位置 $x _ { i }$ 和 $\\mathbf { \\boldsymbol { x } } _ { i } + \\mathbf { \\boldsymbol { h } }$ 处的数值; $n ( h )$ 为空间距离为 $h$ 时的样本对数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 空间自相关",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "地理学第一定律指出:任何事物之间均相关,而离得较近的事物总比离得较远的事物相关性要高[42],亦即地理实体由于受到空间吸引和空间扩散的影响而表现出一定的相关性[43]。空间自相关分析是理论地理学的基本方法之一[44],主要用来分析空间数据的统计性分布规律。根据空间分析尺度不同,土地生态安全空间自相关可以划分为全局型空间自相关和局域型空间自相关两种。全局指标用于验证整个研究区域某一要素的空间相关关系,而局部指标则用于反映整个大区域中的 $\\fallingdotseq$ 个局部小区域单元上的某种地理现象或某一属性与相邻局部小区域单元上同一现象或属性的相关程度。本研究运用全局空间自相关Moran's $I$ 指标和局部空间自相关指标 LISA（Local Indicators of Spatial Association）来分析万州区土地生态安全警度的空间分布特征。Moran's $I$ 和LISA指标的计算公式如下[45-7]：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { M o r a n } } ^ { \\prime } { \\mathrm { s } } \\ I = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\ \\sum _ { j = 1 } ^ { m } \\ W _ { i j } ( x _ { i } - { \\bar { x } } ) \\ ( x _ { j } - { \\bar { x } } ) } { S ^ { 2 } \\displaystyle \\sum _ { i = 1 } ^ { n } \\ \\sum _ { j = 1 } ^ { m } \\ W _ { i j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $S ^ { 2 } = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\ \\left( \\ d x _ { i } \\ - \\bar { x } \\right) ^ { 2 } \\ , \\bar { x } = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\ \\ d x _ { i } \\ , \\$ $x _ { i }$ 表示第 $i$ 地区的观测值， $\\mathbf { \\Omega } _ { n }$ 为栅格数， $\\boldsymbol { W } _ { i j }$ 为二进制的邻接空间权重矩阵,表示空间对象的邻接关系。 $i = 1 , 2 , \\cdots , n ; j = 1 , 2 , \\cdots , m$ ;当区域 $i$ 和区域 $j$ 相邻时, ${ \\boldsymbol { W } _ { i j } } = 1$ ;当区域 $i$ 和区域 $j$ 不邻时， $\\mathscr { W } _ { i j } ^ { \\phantom { } } = 0$ 。Moran's $I$ 一般介于-1到1之间,大于0为正相关,小于0为负相关,绝对值越大表示空间分布具有越强关联性,即空间上有强聚集性或强相异性。反之,绝对值越小,表示空间分布关联性较小，当值趋于0时,即代表此时空间分布呈随机性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "局部空间自相关Local Moran's $I ( { \\mathrm { \\ L I S A } } )$ 是将Moran's $I$ 分解到各个空间单元,其公式为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M o r a n ^ { \\prime } s } ~ I _ { i } = \\left( { \\frac { x _ { i } ~ - ~ { \\bar { x } } } { m } } \\right) \\sum _ { j = 1 } ^ { n } ~ W _ { i j } ( x _ { i } ~ - { \\bar { x } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $m = \\frac { ( { \\sum } _ { j = 1 , j \\ne i } ^ { j } { x _ { j } } ^ { 2 } ) } { ( n - 1 ) } - \\hat { x } ^ { 2 }$ ， $I _ { i }$ 值为正时表示该空间单元周围相似值(高值或低值)的空间集聚, $I _ { i }$ 值为负时表示非相似值之间的空间集聚。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果统计与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1区域土地生态安全警度时间演变特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图1和表3可以看出,2000年土地生态安全警度以无警和轻警为主，两者之和占到了区域土地总面积的 $7 8 . 1 \\%$ ，说明了区域土地生态状况总体情况较好;而警度较高区域(重警和巨警)主要集中分布在中心城区所在乡镇及其邻近区域(周家坝街道、百安坝街道、牌楼街道、沙河街道、太白街道、高笋塘街道、钟鼓楼街道陈家坝街道、龙都街道、五桥街道、九池乡、双河口街道),仅占区域土地总面积的 $7 . 0 8 \\%$ 。2009年区域土地生态安全发生了较大变化,其土地生态安全警度明显提高,警度较低区域(无警、轻警)面积比例下降到 $4 8 . 3 4 \\%$ ，而警度较高区域(重警和巨警)面积比例则上升到 $1 8 . 4 7 \\%$ ,除了2000年土地生态安全警度较高区域外，大周镇、小周镇、天城镇、太龙镇、高梁镇、熊家镇等中心城区邻近区域亦由2000年的低警度区域变为 2009 年的高警度区域。2014年与2009 年相比,土地生态安全警度变化不明显,略有提升,警度较低区域(无警、轻警)面积比例进一步下降到 $4 5 . 6 1 \\%$ ;而警度较高区域(重警和巨警)面积比例则由2005 年的 $1 8 . 4 7 \\%$ 下降到2014年的 $1 5 . 6 3 \\%$ ,这是由于部分高警度区域(高梁镇、熊家镇、太龙镇等)土地生态环境质量得到一定程度提升所致,其生态安全警度由 2009 年的重警转变为2014年的中警状态。总体来说,研究区 2000—2014 年土地生态安全警度呈连续上升趋势,警度较高区域由万州区中心城区不断向四周扩散,但 $2 0 0 0 { \\ - } { \\ - } 2 0 0 9$ 年期间研究区土地生态安全警度提升幅度比2009—2014年期间更为明显,可见 2000—2009 年期间是区域土地生态安全警度变化的关键时段。这主要是由于2000—2009 年期间区域城镇化和工业化进程的加快,加剧了人地矛盾,农田、园地和未利用地都存在被不同程度开发占用的现象[48],进而导致土地生态环境受到越来越大的压力,生态系统稳定性逐步变差，土地生态安全警度亦随之逐步提升。而随着近年来国家生态文明建设战略的大力实施和绿色发展理念的深入践行,研究区土地生态状况得到的保护力度不断增强，这在一定程度上缓解了区域2009—2014年期间土地生态安全警度快速提升的趋势。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc9b6e94b4eeceed875c65717781e30abeeeef868742bc5b26fffffa1af5ad4a.jpg",
+        "img_caption": [
+            "图1万州区土地生态安全警度分布",
+            "Fig.1The space distribution of land ecological security warning degree in Wanzhou Distric "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/215b38f19294c580dcea87e1b7a11b288fe09b5f09b3ccabf584b446b5f18a3a.jpg",
+        "table_caption": [
+            "Table3Thechange table of land ecological security warning degres area in the study area from 2ooo to 2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土地生态安全警度 Land egolgsa sea</td><td rowspan=\"2\">2000 年面积 Area in 2000</td><td rowspan=\"2\">2009年面积 Area in 2009</td><td rowspan=\"2\">2014年面积 Area in 2014</td><td colspan=\"2\">2000—2009年 During 2000—2009</td><td colspan=\"2\">2009—2014年 During 2009—2014</td><td colspan=\"2\">2000—2014年 During 2000—2014</td></tr><tr><td>面积 Area</td><td>增加幅度/% amplitude</td><td>面积 Area</td><td>增加幅度/% amplitude</td><td>面积 Area</td><td>增加幅度/% amplitude</td></tr><tr><td>无警 No Warming</td><td>153002.25</td><td>52224.80</td><td>47351.38</td><td>-100777.45</td><td>-65.87</td><td>-4873.42</td><td>-9.33</td><td>-105651.00</td><td>-69.05</td></tr><tr><td>轻警 Light Warning</td><td>116970.19</td><td>114868.90</td><td>110289.26</td><td>-2101.29</td><td>-1.80</td><td>-4579.64</td><td>-3.99</td><td>-6680.93</td><td>-5.71</td></tr><tr><td>中警 Moderate Warning</td><td>51207.80</td><td>114701.03</td><td>133997.63</td><td>63493.22</td><td>123.99</td><td>19296.60</td><td>16.82</td><td>82789.83</td><td>161.67</td></tr><tr><td>重警 Severe Warning</td><td>15653.63</td><td>45284.53</td><td>36699.30</td><td>29630.90</td><td>189.29</td><td>-8585.23</td><td>-18.96</td><td>21045.66</td><td>134.45</td></tr><tr><td>巨警 Huge Warning</td><td>8820.67</td><td>18575.29</td><td>17316.98</td><td>9754.62</td><td>110.59</td><td>-1258.31</td><td>-6.77</td><td>8496.31</td><td>96.32</td></tr><tr><td>总面积 Total Area</td><td>345654.55</td><td>345654.55</td><td>345654.55</td><td>0.00</td><td></td><td>0.00</td><td></td><td>D 0.00</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2区域土地生态安全警度空间结构分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 空间结构变异性分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结合土地生态安全预警指数，运用 $\\mathrm { G S ^ { + } }$ 地统计学软件对研究区土地生态安全警度进行变异函数理论模型的拟合,模型拟合结果见表4。可以看出,2000年、2009年、2014年研究区土地生态安全预警指数均为球形模型的拟合效果最佳,复相关系数分别 $R ^ { 2 }$ 分别为0.838、0.949、0.961。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/140019beed6504079938b6c096001aeae44821d08972f758b3c5f81887e08528.jpg",
+        "table_caption": [
+            "表3研究区2000—2014年各土地生态安全警度面积变化表 $\\langle \\mathrm { h m } ^ { 2 }$ ",
+            "表4研究区土地生态安全警度理论变异函数"
+        ],
+        "table_footnote": [
+            "$C _ { 0 }$ 为块金值 $\\mathbf { \\nabla } _ { \\cdot } c$ 为偏基台值 $\\mathbf { \\nabla } _ { \\cdot } C _ { 0 } { + } C$ 为基台值 ${ } _ { \\cdot } A _ { 0 }$ 为变程 $\\cdot ^ { R ^ { 2 } }$ 为复相关系数 $\\mathrm { , } R S S$ 为残差"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Table 4 ThevariogramofIandecolog uritywarningdegreesintnestudyarea</td></tr><tr><td>时期Period</td><td>模型Model</td><td>Co</td><td>C0+C</td><td>A0</td><td>Co/(C0+C)</td><td>R²</td><td>RSS</td></tr><tr><td>2000</td><td>线性</td><td>0.002503</td><td>0.005003</td><td>48892.7</td><td>0.5003</td><td>0.448</td><td>1.013×10-5</td></tr><tr><td rowspan=\"6\">2009</td><td>球形</td><td>0.000610</td><td>0.004420</td><td>22600.0</td><td>0.1380</td><td>0.838</td><td>2.972×10-6</td></tr><tr><td>指数</td><td>0.000040</td><td>0.004510</td><td>24900.0</td><td>0.0089</td><td>0.835</td><td>3.046×10-6</td></tr><tr><td>高斯</td><td>0.001120</td><td>0.004420</td><td>18879.4</td><td>0.2534</td><td>0.834</td><td>3.05×10-6</td></tr><tr><td>线性</td><td>0.002289</td><td>0.006442</td><td>48892.7</td><td>0.3553</td><td>0.746</td><td>7.734×10-6</td></tr><tr><td>球形</td><td>0.001010</td><td>0.005590</td><td>34300.0</td><td>0.1807</td><td>0.949</td><td>1.551×10-6</td></tr><tr><td>指数</td><td>0.000340</td><td>0.005880</td><td>40800.0</td><td>0.0578</td><td>0.946</td><td>1.638×10-6</td></tr><tr><td rowspan=\"5\">2014</td><td>高斯</td><td>0.001430</td><td>0.005530</td><td>26500.4</td><td>0.2586</td><td>0.937</td><td>1.926×10-6</td></tr><tr><td>线性</td><td>0.002073</td><td>0.005936</td><td>48892.7</td><td>0.3492</td><td>0.784</td><td>5.415×10-6</td></tr><tr><td>球形</td><td>0.001000</td><td>0.005170</td><td>35900.0</td><td>0.1934</td><td>0.961</td><td>9.781×10-6</td></tr><tr><td>指数</td><td>0.000450</td><td>0.005490</td><td>44400.0</td><td>0.0820</td><td>0.959</td><td>1.021×10-6</td></tr><tr><td>高斯</td><td>0.001430</td><td>0.005110</td><td>28059.2</td><td>0.2798</td><td>0.946</td><td>1.343×10-6</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土地生态状况空间分布具有异质性,其空间分布受结构性因素和随机性因素(或称非结构性因素)的双重作用,可通过拟合空间结构模型来探索区域土地生态安全警度空间格局变化的内在机理。块金值 $C _ { 0 }$ 表示距离为零时的空间变异程度,反映了区域化土地生态状况的随机性特征,块金值越大则区域土地生态状况分布随机性越强。基台值( $\\scriptstyle { C _ { 0 } + C } )$ 表示空间的最大变异程度,基台值越高,区域土地生态状况的空间异质性越强 $\\ d C _ { 0 } ^ { \\prime } / ( \\ d C _ { 0 } + \\ d C )$ 表示随机性变异占总变异的比例,该比值越高,随机性因素影响越大。随机性因素(外因)包括各种自然灾害以及人为活动等因素;而结构性因素(内因)包括气候、地形地貌、土壤类型、植被类型等主导区域土地生态安全状况的空间分布因素。变程 $ { \\boldsymbol { A } } _ { 0 }$ 反映了区域土地生态状况空间自相关尺度的范围,若要素间距离在 $A _ { 0 }$ 范围内,则要素间存在空间自相关;否则,要素呈随机性分布。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2000—2014年研究区土地生态安全警度的块金效应逐步增强,从2000 年的0.00061增加到2014年的0.001,表明研究区随机性因素逐步增强,不可忽视。 $C _ { 0 } / ( C _ { 0 } { + } C )$ 在2000 年、2009 年、2014年分别为 $1 3 . 8 \\%$ 、$1 8 . 0 7 \\% . 1 9 . 3 4 \\%$ ,表明随机性因素对区域土地生态安全警度空间分异影响效应逐步增强,这与研究区14 年来经济高速发展、人类对土地资源利用强度加剧以及区域自然灾害频发的实际情况相符。2000 年、2009 年、2014年研究区土地生态安全警度空间分异变程分别为 $2 . 2 6 , 3 . 4 3 , 3 . 5 9 \\ \\mathrm { k m }$ ,可以看出研究区土地生态安全警度的相关性范围亦在不断扩张。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 空间结构关联性分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)全局自相关分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利用 Moran'sI指数判定区域土地生态安全预警指数的空间相关性和聚集程度。2000 年、2009 年、2014年研究区域土地生态安全预警指数的Moran's $I$ 值分别为0.7823、0.7772、0.7750,整体呈略微下降趋势，表明研究区域土地生态安全警度在空间上具有较强的正相关。通过Moran 散点图可以定性区分某一区域与周边区域某种属性值的相互关系。Moran 散点图分为4个象限,第一象限表示高—高聚集（HH）、第二象限表示低—高聚集(LH)、第三象限表示低—低聚集(LL）、第四象限表示高—低聚集（HL)。由图2可知,三个年份土地生态安全警度主要集中在HH和LL区,少量分布于HL、LH两个区,表明研究区土地生态安全警度具有较强的空间正相关性,空间集聚特征显著,亦即土地生态安全警度在空间上存在趋于集群的现象。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c00085d16038503a73975861bee2674b74463cec4f48e74a170335db7b6532f9.jpg",
+        "img_caption": [
+            "图2土地生态安全预警指数Moran散点图",
+            "Fig.2Moran scatter plot of early warning index of land ecological security "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn(2)局部自相关分析",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "全局Moran's $I$ 指数可检验研究区土地生态安全警度的总体空间分布模式,却不能反映相邻区域间的要素或属性的空间关联模式及局域显著性水平,而局域空间自相关能更深入地发现集聚和变异特征[49],因此需要通过局域指标来进一步研究相邻区域之间的土地生态安全警度相关程度,进而深入探讨区域土地生态安全警度的空间格局及其可能成因。通过对研究单元的土地生态安全预警指数进行局域空间关联分析，得到LISA集聚图（图3）、LISA显著性检验图（图4)和LISA面积统计表（表5）。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2751e7129317e6f5583d3bf11e4f0218eada258f7fd70e2b6bbf18a532c299c.jpg",
+        "img_caption": [
+            "图3万州区土地生态安全警度局部空间自相关LISA集群图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.3TheLISAcluster graphof local spatialautocorelationofland ecological securitywarningdegree inWanzhouDistricl ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从图3和表5可以看出,2000年“高—高\"值分布集中,主要集中分布在中心城区所在乡镇及其邻近区域（周家坝街道、百安坝街道、牌楼街道、沙河街道、太白街道、高笋塘街道、钟鼓楼街道、陈家坝街道、龙都街道、五桥街道、九池乡、双河口街道、高峰镇、高粱镇、天城镇、熊家镇、长岭镇等),大周镇、小周镇、太龙镇、新乡镇、走马镇、地保乡略有零星分布。中心城镇及其邻近区域历来是万州区经济社会快速发展地区,地势平坦、土壤质量好,人类土地利用活动剧烈,土地生态安全警度较高；“低—低”值分布相对零散,主要分布在研究区西部的武陵镇、分水镇、孙家镇、柱山乡、弹子镇和东南部的新田镇、茨竹乡、龙驹镇、恒合乡,与这一时期的土地生态安全警度较低区域(无警、轻警)分布基本一致；“低—高\"值主要集中分布在钟鼓楼街道、天城镇、熊家镇、高粱镇、小周镇等中心城区所在乡镇及其邻近区域；“高—低\"值仅有零星分布。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2000—2009 年研究区土地生态安全警度“高—高\"值地区基本没有发生变化,但是范围进一步扩展,主要是大周镇、小周镇、太龙镇等乡镇的部分不显著区域和熊家镇、天城镇、高梁镇等乡镇的“低—高\"值区变为了2009 年的“高—高\"值区。“低—低\"值总体分布情况与2000 年基本一致,主要分布在万州区西部的弹子镇、余家镇、孙家镇、后山镇、分水镇、响水镇、郭村镇、柱山乡和万州区东南部的茨竹乡、龙驹镇、恒合乡、罗田镇等地区。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2009—2014年研究区土地生态安全警度“高—高\"值范围较 2009年有所缩小,主要体现是高粱镇、太龙镇等部分“高—高”值区变为了不显著区域和熊家镇等部分“高—高”值区变为了“低—高”值区；“低—低”值区未发生明显变化,仍主要集中分布在研究区西北部和东南部等土地利用程度相对较弱、植被覆盖相对较好",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffdef63d33c2a80b3b17612074ba2b11d2991f82c894d9a5fd50c3af585f5ee2.jpg",
+        "img_caption": [
+            "图4万州区土地生态安全警度局部空间自相关LISA显著性水平图"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4TheLISAsignifcacelevel graphoflcalspatialautocorelationoflandecologcalsecuritywarningdegrein WanzouDistrict地区。可以看出,研究区“高—高”值区总体上呈现出2000—2009 年范围逐渐增加,而 2009—2014年范围缩小的趋势,这与区域土地生态安全警度变化情况相一致。土地生态安全警度的空间分布并不是随机的,存在空间上的聚集趋势;土地生态安全警度较低的单元可以对周边地区产生正面影响,使其周围土地生态警度降低,而\"高一高\"值区也可以对周边地区产生负面影响,使其土地生态安全警度提高。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/878206826c39bd4d647e4299f07adde2b21c8e1d439a0f8f62bcba68c7829d19.jpg",
+        "table_caption": [
+            "表5万州区土地生态安全警度局部空间自相关LISA面积统计表",
+            "Table5TheLISAareastatistcaltableoflocalspatialautocorelatiooflandeologicalscuritywaingdgreeinWanzhouDistrict "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"4\">时期 Period</td><td rowspan=\"4\">聚集类型 Cluster type</td><td colspan=\"6\">显著性水平 Significance level</td><td rowspan=\"4\">小计 Total/hm²</td></tr><tr><td colspan=\"2\">不显著 Non-Significant</td><td>显著 人</td><td>Significant (P<0.05)</td><td>极显著 Extremely Significant (P<0.01)</td><td></td></tr><tr><td>面积 Area/hm²</td><td>比例 Proportion/%</td><td>面积 Area/hm²</td><td>比例</td><td>面积 Area/hm²</td><td>比例 Proportion/%</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Proportion/%</td><td></td><td></td></tr><tr><td rowspan=\"10\">2000 2009</td><td>不显著 高-高</td><td>173625.74</td><td>94.40</td><td>10299.87</td><td>5.60</td><td>0.00</td><td>0.00</td><td>183925.61</td></tr><tr><td>低一低</td><td>465.72</td><td>1.03</td><td>7989.58</td><td>17.60</td><td>36934.24</td><td>81.37</td><td>45389.54</td></tr><tr><td>低一高</td><td>2093.75</td><td>1.98</td><td>36048.93</td><td>34.01</td><td>67851.20</td><td>64.01</td><td>105993.88</td></tr><tr><td>高一低</td><td>1509.47 645.04</td><td>17.42</td><td>5376.42</td><td>62.05</td><td>1778.54</td><td>20.53</td><td>8664.43</td></tr><tr><td>小计 不显著</td><td>178339.74</td><td>38.37 51.59</td><td>997.79</td><td>59.35</td><td>38.25</td><td>2.28</td><td>1681.08</td></tr><tr><td>163126.03 高高</td><td></td><td>97.19</td><td>60712.58 4718.17</td><td>17.56 2.81</td><td>106602.23 0.00</td><td>30.84</td><td>345654.55</td></tr><tr><td>396.10</td><td></td><td>0.71</td><td>12556.58</td><td>22.39</td><td>43132.95</td><td>0.00</td><td>167844.20</td></tr><tr><td>8908.80</td><td></td><td>7.62</td><td>39077.35</td><td>33.44</td><td>68877.25</td><td>76.91</td><td>56085.63</td></tr><tr><td>742.79</td><td></td><td>16.32</td><td>2950.88</td><td>64.84</td><td>857.28</td><td>58.94 18.84</td><td>116863.40</td></tr><tr><td>4.17</td><td></td><td>1.34</td><td>205.91</td><td>66.34</td><td>100.31</td><td>32.32</td><td>4550.95</td></tr><tr><td>高一低 2014</td><td>173177.88</td><td>50.10</td><td></td><td></td><td></td><td></td><td></td><td>310.39</td></tr><tr><td>小计 不显著</td><td>167217.46</td><td></td><td></td><td>59508.89</td><td>17.22</td><td>112967.78</td><td>32.68</td><td>345654.55</td></tr><tr><td></td><td>2859.59</td><td>91.97</td><td></td><td>14583.96</td><td>8.02</td><td>9.40</td><td>0.01</td><td>181810.82</td></tr><tr><td>高-高</td><td></td><td>6.01</td><td></td><td>4102.01</td><td>8.63</td><td>40596.52</td><td>85.36</td><td>47558.12</td></tr><tr><td>低一低 低一高</td><td>6197.62 526.41</td><td>5.63</td><td></td><td>39373.92</td><td>35.79 65.18</td><td>64433.25 1569.65</td><td>58.57</td><td>110004.79</td></tr><tr><td></td><td></td><td>8.75</td><td></td><td>3923.36</td><td></td><td></td><td>26.08</td><td>6019.42</td></tr><tr><td>高一低 小计</td><td>55.57 176856.66</td><td>21.26 51.17</td><td></td><td>126.76 62110.02</td><td>48.49 17.97</td><td>79.06 106687.87</td><td>30.25 30.87</td><td>261.39 345654.55</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "从图4和表5可以看出,土地生态安全警度集群分布的显著性水平分异明显，“高—高”值、“低—低”值区均以极显著水平( $P { < } 0 . 0 1 \\rangle$ )为主,而“低—高”值区、“高—低”值区则均以显著水平( $P { < } 0 . 0 5 )$ 为主。研究区域 2000—2014 年土地生态安全警度集群分布的显著性水平发生了明显改变,其\"高—高\"值区极显著性水平的区域面积从2000 年的 $3 6 9 3 4 . 2 4 \\ \\mathrm { h m } ^ { 2 }$ 增加到2009 年的 $4 3 1 3 2 . 9 5 \\ \\mathrm { h m } ^ { 2 }$ ,再减少到 2014年的 $4 0 5 9 6 . 5 2 \\ \\mathrm { h m } ^ { 2 }$ ，呈现出先增后减、总体增加的趋势,与区域土地生态安全警度 2000—2014年期间的总体提升,而 2000—2014 年期间略有缓解的总体变化特征相一致。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究以三峡库区生态敏感区典型区域万州区为研究对象,基于PSR模型构建土地生态安全预警指标体系,计算土地生态安全预警指数并划分出土地生态安全预警等级,通过半变异函数模型和空间自相关分析方法,以2000年、2009年、2014年为3个年份为基础,分析 2000—2014 年研究区土地生态状况警度时空演变状况,结论及建议如下：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1)本研究选取的土地生态安全预警指标是基于三峡库区生态敏感区自然生态基底与人类社会发展对生态环境需求而选取的评价指标,是能较好地反映研究区土地生态状况实际的个性化指标,改变了以往区域土地生态安全评价中过多地依赖于社会经济统计资料而对土地生态状况自然属性重视不够的不足之处,以更加科学合理地表征研究区土地生态安全警度。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2)本研究以土地利用现状数据库中行政村为基本评价单元,能很好地展示三峡库区生态敏感区典型区域万州区的土地生态安全警度的时空分异状况,极大地提高了区域土地生态状况评估精度,可以为整个三峡库区生态敏感区土地生态安全时空分异规律提供参考依据。研究表明,研究区2000—2014年土地生态安全状况呈现连续下降趋势,土地生态安全警度较高区域由万州区中心城区不断向四周扩散，但2000—2009 年期间研究区土地生态安全状况变化比 2009—2014年期间明显，这主要得益于近年来国家生态文明建设战略的大力实施和绿色发展理念的深入践行,区域土地生态状况得到的保护力度不断增强,这在一定程度上缓解了2009—2014年期间土地生态状况快速下降的趋势。可以看出，尽管区域土地生态状况快速恶化的趋势得到一定程度缓解,但仍不容乐观,为改善区域土地生态状况,在“十三五\"期间乃至今后更远时期内,有关部门必须在保护耕地、控制建设用地盲目扩张和水土流失、预防地质灾害、减少污染物排放、增加绿化建设、提高绿色发展水平等方面做出更加积极有效的排警调控措施,促进土地生态系统安全平稳运行,为社会经济可持续发展提供坚实保障。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（3)研究表明,土地生态安全警度在空间上存在趋于集群的现象,“高—高”值、“低—低”值区均呈现出2000—2009 年范围逐渐增加,而2009—2014 年范围逐渐缩小的趋势,且“高—高”值区主要集中分布在中心城区所在乡镇及其邻近区域，“低—低\"值区则主要集中分布在研究区西北部和东南部等土地利用程度相对较弱 植被覆盖好地区。近年来,随着重庆市“五大功能区”发展战略的深人实施和新型工业化、城镇化战略的快速推进,区域土地利用结构发生了显著变化,城市周边土地生态安全警度的聚集趋势会愈发明显。因此，中心城区周边的\"低—高\"值区将是城市发展中优先被占用的区域,在未来的土地利用中,尤其需加强对城区周边“低—高”值区的重点保护。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4)构建基于PSR模型的土地生态安全预警指标体系和采用地统计学方法、空间自相关分析方法的研究适用于区域土地生态安全警度变化的诊断，有利于促进区域土地利用生态环境的保护和改善。本研究对进一步完善区域土地生态安全预警具有一定的参考价值,对于当前受到高度关注的国家生态安全战略问题的认知与解决具有重要意义,同时也为区域土地资源利用的规划、管理以及社会经济的可持续发展提供决策参考。但是,区域土地生态安全预警是一项系统工程,本研究设置的土地生态安全预警指标阈值等问题是一个长期复杂的学术问题,目前学术界对这个问题还没形成一定的定论,有待深入研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "［1］陈星，周成虎.生态安全：国内外研究综述.地理科学进展，2005，24(6)：8-20.  \n[2]Munn R E.Global Environmental Monitoring System（GEMS）.SCOPE Report 3,Toronto,Canada;ICSU-SCOPE，1973.  \n[3]Wang XH,DuCM.Aninternet basedflood warmingsystem.Journalof Environmental Informatics,2O03,2(1）：48-56.  \n[4］罗婷文，苏墨，徐雅莉.生态环境预警研究进展及在土地领域的应用.现代经济信息，2010，（16)：202-204.  \n[5]ClarkJS,CarpenterSR,BarberM,CollnsS,DbsonA,FoleyJA,LdgeDM,PascualM,PielkeRJr,PizerW,PringleC,ReidWV,Rose KA,SalaO,SchlesgerWH,WallH,WearD.Ecologicalforeasts:anmergigimperative.Scienc,93553):6-660  \n［6］吴次芳，鲍海君.土地资源安全研究的理论与方法.北京：气象出版社，2004.  \n［7］张桃林，潘剑君，赵其国.土壤质量研究进展与方向.土壤，1999,31(1)：1-7.  \n[8]RiebsameWE,MeyerWB,TuerIBLMoelinglanduseandcoveraspartoflobaleviroenachangeCliateChange，9948(/2) : 45-64.  \n[9]Stephenne N，Lambin EF.A dynamic simulation model of Land-use changes in Sudano-sahelian countries Africa（SALU）. Agriculture,Ecosystems& Environment,2001,85(1/3）：145-161.  \n[10]Verburg,borWVelapA,ipadR,EspaoV,VeaS.delinghesatialdaofreialeeCLUE-S model. Environmental Management，2002,30(3）：391-405.  \n[11]AdamsJBbo,KapoV,RA,erts,milsRlasiofutispetraligessercsendmembers:aplicationtoland-coverchange inthe Brazilian Amazon.Remote Sensing of Environment，1995,52(2）：137-154.  \n[12]PrrJF,apendckRI,HckSB,MeyerRE.SoilqualitytrbutesdeltioshitalteativeadstaiableicuueAeJournal of Alternative Agriculture，1992,7(1）： 5-11.  \n[13]HerickJE,rowJ,TugelAJaver，HavstadK.Aplicatiof olqalityoniongndmanagentAgroyJoal,2002,94(1):3-11.  \n[14]ouaieScience Society of America Journal，1999,63（1763）:1763-1768.  \n15]Cappaelitiaftlfaledlsioal），2010,7(4) : 401-410.  \n[16］黄贤金，曲福田.耕地生态经济预警的理论与方法.生态经济，1998，（5)：14-17.  \n[17] 刘友兆，马欣，徐茂.耕地质量预警.中国土地科学，2003，17(6)：9-12.  \n［18］吴冠岑.区域土地生态安全预警研究[D]．南京：南京农业大学，2008.  \n[19］余敦，高群，欧阳龙华.鄱阳湖生态经济区土地生态安全警情研究.长江流域资源与环境，2012,21(6)：678-683.  \n[20] 韩天放.辽宁省土地利用变化生态安全评价及预警研究[D].沈阳：东北大学，2010.  \n[21］刘邵权，陈国阶，陈治谏.农村聚落生态环境预警——以万州区茨竹乡茨竹五组为例.生态学报，2001,21（2)：295-301.  \n22]LiYuZX,lehfsitydsesdin Xiamen，China.Ecological Modelling，2010,221（19）：2251-2260.  \n[23］许学工.黄河三角洲生态环境的评估和预警研究.生态学报，1996，16(5)：461-468.  \n[24]JiangYuC,WangZ,uJ,ZagZY,ZagHJEarlyaggcuraloauitsedoteasiuacity:Transactions of the Chinese Society of Agricultural Engineering，2011,27(6）：319-323.  \n[25]李华生，徐瑞祥，高中贵，彭补拙.南京城市人居环境质量预警研究.经济地理，2005，25(5)：658-661,672-672.  \n[26] 张强，薛惠锋，张明军，刘雪艳.基于可拓分析的区域生态安全预警模型及应用——以陕西省为例.生态学报，2010，30（16)：4277-4286.  \n[27］张鸿辉，刘友兆，曾永年，金晓斌，邹滨.耕地质量预警系统设计与实证.农业工程学报，2008，24（8）：74-79.  \n[28］李志斌，陈佑启，姚艳敏，石淑芹，何英彬，郭斌.基于GIS的区域性耕地预警信息系统设计.农业现代化研究，2007,28（1）：57-60.  \n[29］洪惠坤，廖和平，魏朝富,李涛，谢德体.基于改进TOPSIS 方法的三峡库区生态敏感区土地利用系统健康评价.生态学报，2015，35(24):8016-8027.  \n[30］周启刚，张晓媛，王兆林.基于正态云模型的三峡库区土地利用生态风险评价.农业工程学报，2014，30（23）：289-297.  \n[31］洪惠坤，廖和平，李涛，杨俊，谢德体.基于熵值法和Dagum 基尼系数分解的乡村空间功能时空演变分析.农业工程学报，2016，32(10):240-248.  \n[32］全川.环境指标研究进展与分析.环境科学研究，2000，13（4）：53-55.  \n[33]FAO.LandQuality IndicatorsandTheir Use in Sustainable Agricultureand Rural Development.Rome:FAO,1997:2-5.  \n[34] WalzR.DevelopentofnvirotalindicatorsstesxperienesfromGeranyEnvirotalanagento,5（6）：6-62.  \n[35] 陈美婷，匡耀求，黄宁生.基于RBF模型的广东省土地生态安全时空演变预警研究.水土保持研究，2015，22（3)：217-224.  \n［36］李喆.山地平原过渡区土地生态安全预警——以都江堰市为例[D]．成都：成都理工大学，2012.  \n[37] 徐美.湖南省土地生态安全预警及调控研究［D].长沙：湖南师范大学，2013.  \n[38］高俊刚，吴雪，张镜锂，刘林山，王兆锋，姚治君.基于等级层次分析法的金沙江下游地区生态功能分区.生态学报，2016，36(1)：134- 147.  \n[39］喻锋，李晓兵，王宏，余弘婧.皇甫川流域土地利用变化与生态安全评价.地理学报，2006,61(6)：645-653.  \n[40］冯异星，罗格平，尹昌应，周德成，鲁蕾，许文强，戴丽.干旱区内陆河流域土地利用程度变化与生态安全评价——以新疆玛纳斯河流域为例.自然资源学报，2009，24(11)：1921-1932. O  \n[41］游巍斌，何东进,巫丽芸，洪伟，詹仕华，覃德华，游惠明.武夷山风景名胜区景观生态安全度时空分异规律.生态学报,2011,31(21)：6317-6327.  \n[42] Tobler WR.Acomputer movie simulating urban growth in the Detroit Region.Economic Geography,197o,46(S1)：234-240.  \n[43] 韦仕川，熊昌盛，栾乔林，胡月明.基于耕地质量指数局部空间自相关的耕地保护分区.农业工程学报，2014，30(18)：249-256.  \n[44］陈彦光.基于 Moran 统计量的空间自相关理论发展和方法改进.地理研究，2009,28(6)：1449-1463.  \n[45]Anselin L.Local Indicators of spatial association—LISA. Geographical Analysis，,1995,27(2)：93-115.  \n[46］谢花林.基于景观结构和空间统计学的区域生态风险分析.生态学报，2008，28（10）：5020-5026.  \n[47］贺振.基于空间自相关的河南省城镇化水平空间格局研究.测绘科学，2010,35(6)：178-179,191-191.  \n[48］马世五，谢德体，张孝成，彭正涛，颜峰，袁朝兵.西南山区生态敏感区生态服务价值对土地利用变化的响应——以重庆市万州区为例.西南师范大学学报：自然科学版，2015，40(11)：80-87.  \n[49］公云龙，张绍良，章兰兰.城市地价空间自相关分析——以宿州市为例.经济地理,2011,31(11)：1906-1911.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

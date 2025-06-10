@@ -1,0 +1,193 @@
+# 情绪对饮食行为的影响：理论与机制
+
+周爱保1,2 谢珮12田喆 潘超超1,2(西北师范大学心理学院;²甘肃省行为与心理健康重点实验室，兰州 730070)(海南师范大学，海口571158)
+
+摘要人类的饮食行为受到诸多因素的影响,包括生理因素、心理因素及社会文化因素等，其中情绪对饮食行为的影响日益受到研究者的重视，这种影响一般表现为摄入量的多少和食物(热量)的选择。通过探讨不同情绪下临床和非临床个体食物摄入量的表现，总结发现消极情绪导致个体暴饮暴食的可能更大。积极情绪影响卜的饮食行为的研究结果则存在分歧：生理角度解释为积极情绪能够促进个体的享乐机制，导致进食行为增加；而自我控制理论则认为积极情绪增加了个人资源以抵制美食诱惑。此外，进一步探讨了情绪影响下饮食行为的神经生理机制。未来在饮食相关的临床研究和治疗上，需要对情绪影响下的饮食行为有更深入的神经机制方面的探究。
+
+关键词 积极情绪，消极情绪，饮食障碍，暴饮暴食
+
+# 1.引言
+
+大千世界，物质资源尤为丰富，无数珍馐美味萦绕在大街小巷，人们善于探索并乐于选择自己喜欢的味道。一日三餐提供每日必须的能量，不可或缺。毫无疑问，食物对人类来说非常重要，它不仅是一种生理上的需要，而且是生活中快乐和意义的巨大源泉(Barmhill&Doggett,2018)。婴儿时期个体就产生了对食物的特定偏好，这是初级感觉器官反馈的结果(Maier-Noth,2019)。Berridge(2009)将这种偏好称为食物的奖赏，也是大多数人在进行食物选择时的驱动机制。不过，除原始的感官驱动之外，还有一些因素影响着人们对食物的选择，例如个人目标(Kleiman et al.,2016)，疾病(Werthmann et al.,2019)，情绪(Donofry et al., 2019)等。
+
+情绪具有一定的动机功能，并且对生物体的基本行为有着重要的调控作用(Izard&Ackerman,2000)。情绪一方面能够影响个体的饮食行为，另一方面，食物的消耗也会影响人们的情绪(Czepczor-Bernat & Brytek-Matera,2021;Du et al.,2019)。受情绪影响的不健康饮食行为会引起一系列健康问题甚至疾病。一项关于儿童暴露性创伤与情绪进食关系的调查研究发现，肥胖、压力以及暴露性创伤的相关不健康结果可能与伴随情绪失调的调节应对策略直接相关(Michopoulos etal.,2015)。在相关的临床研究中，也证实了不合理的情绪调节在饮食障碍的症状维持中起到一定作用(Prefit et al.,2019)。因此，了解情绪对个体饮食行为的影响对于探索个体的饮食习惯和健康状况至关重要。
+
+早期研究者们多关注于消极情绪对食物选择的影响(Stice et al.,2005)，并将消极情绪下的进食称为情绪化进食(Spoor etal.,2007)。近些年来，采用不同的评估方法探究消极情绪下饮食行为的研究已较为成熟，消极情绪影响食物选择的结论大抵一致。一项对积极情绪和消极情绪影响下饮食行为的元分析发现消极情绪与食物摄入量增加存在一定的因果关系(Cardi,Leppanen etal.,2015)。然而，关于积极情绪影响下饮食行为的特点和生理机制方面尚未达成一致的说法，且少有研究将临床和非临床条件下情绪对饮食行为的影响进行系统的阐述。由此，根据现有的研究，从行为和神经生理的角度总结情绪对食物选择的影响模式并进行一定的解释分析，期望能为之后情绪与饮食行为之间关系的研究提供一定的参考。
+
+# 2.情绪影响饮食行为的一般表现
+
+食物和情绪相关的非临床研究一般聚焦在肥胖、身体不满意和健康人群上(Cardi,Leppanen etal.,2015)，而对饮食行为的评价大多是以摄入量、注意偏向、主观报告和其它一些生理指标来确定(Koster&Mojet,2015)。食物与情绪相关的研究则是以食物相关研究范式为基础，进一步对被试进行情绪诱导从而测量被试对食物的选择。有研究将被试分配到不同的社会排斥、中性和社会包容的场景中，之后对所有被试进行了虚假口味测试，最后测量被试摄入冰淇淋的量。结果发现，社会排斥条件下的被试摄入冰淇淋的量多于中性和社会接纳条件(Sproesser et al.,2014)。也有研究采用食物 Stroop 范式来探索情绪诱导下被试的进食行为以及消极压迫感在其中的作用，被试完成了一系列的任务包括经典的 Stroop 任务、食物Stroop 任务、邀请进食任务及问卷调查。食物 Stroop 任务中被试要对带有颜色的情绪食物词汇(例如巧克力等)和中性的动物词汇进行颜色判断。结果发现，消极情绪启动后被试的食物摄入与消极情绪唤醒有关，但与食物注意偏向无关，情绪唤醒和效价不会增加被试对食物的注意偏向(Becker et al.,2016)。
+
+消极情绪是自我调节失败最有力的预测因子之一，并促进注意和认知资源从长期目标转移到缓解负面情绪的即时目标(Heatherton&Wagner,2011)。由消极情绪导致的自我调节失败会产生许多危险行为，例如吸毒、酗酒及无节制的进食等(Heatherton&Wagner,2011)。有研究对十几项消极情绪下食物摄入量的研究结果进行元分析，发现在消极情绪诱导下(例如观看悲伤的电影片段)的被试在之后的零食风味评估测试中(要求被试品尝各种巧克力、薯片或是冰淇淋，并对其进行评分，但真实目的是测量被试对样品的摄入量)摄入了更多的食物(Cardi,Leppanen etal.,2015)。动物实验也为消极情绪诱导下的进食行为提供了一些证据，有研究将叙利亚雄性仓鼠放入经过训练且体型较大的其它动物的笼子中，连续4天，每天7分钟，控制仓鼠产生社交失败，结果发现仓鼠的进食有明显增加(Solomon et al.,2006)。另一项大鼠和健康被试的研究中，给予大鼠慢性轻度刺激，诱导大鼠的抑郁情绪之后进行杠杆训练，发现获得甜度较高奖励的大鼠会有更好地表现。采用生活事件诱发被试的消极情绪之后，也增加了被试对葡萄干和巧克力地摄入(Aguiar-Bloemer &Diez-Garcia,2018)。
+
+不过，有几项研究却发现女性在消极情绪的影响下并没有消耗更多的食物(Bongers et al.,2013;Evers etal.,2010;Le,2019)。可能是大多数研究中忽略了女性的品质和自身对社会标准的认同程度，这是一种群体内部的差异。最近的一项研究在对女性消极情绪诱导下的食物摄入量进行分析时，发现越谦虚的女性在消极情绪的诱导下反而会减少食物地摄入，可能的原因是谦逊导致的贬低自我成就的倾向与适度的行为有关，女性会减少摄入食物以保持一种稳重和适度的形象，或是过度饮食所表现出的低控制能力和不整洁的形象与他们谦逊行为的目标不一致(Le,2019)。因此，聚焦于情绪和饮食相关的研究可能更需要考虑性别等额外因素的影响。
+
+不同于消极情绪，积极情绪对饮食行为的影响存在一定的争议。有些研究者认为，由于以往对消极情绪导致暴饮暴食研究的广泛关注，忽略了积极情绪也是美味食物过量摄入的诱因，甚至积极情绪对个体食物摄入量的影响与消极情绪是相同的(Juergensen&Demaree,2015;Macht,2008)。有研究通过音乐诱导 64名健康女性被试的积极情绪或消极情绪，随后的零食风味评估结果发现，积极情绪诱导下的女性被试摄入了更多的食物(Collins& Stafford,2015)。Otake 和 Kato(2017)通过三项实验发现了积极情绪（主观幸福感）与食物摄入量的关系，对1299 名日本大学生进行主观幸福感和饮食态度的问卷调查后发现，相比于主观幸福感较低的被试，幸福感较高的被试更倾向于通过进食来获得快乐；第二项研究通过要求高低组主观幸福感的被试对一些美味食物所带来的情绪体验进行打分，结果发现主观幸福感较高的被试对美味的食物图片有更积极的情绪体验；第三项研究将食物图片换成了真实的食物，也发现了同样的结果，主观幸福感高的被试在真实的食物刺激上也表现出了更强烈的积极情绪体验。
+
+然而，积极情绪导致个体增加食物摄入量的结论似乎并不明确，存在积极情绪下出现了被试减少进食(Turner et al.,2010)和进食量并未改变的结果(Yeomans & Coughlan,2009)。有研究采用电影片段分别启动365名大学生的积极情绪或中性情绪，之后再进行高热量且诱惑程度高的巧克力和低热量的葡萄干食物的选择，结果发现，与中性情绪或是高唤醒程度的被试相比，积极情绪的被试更能抵制诱惑消耗更少的巧克力豆(Fedorikhin&Patrick,2010)。另一项研究对饮食障碍患者和健康被试在积极情绪启动下的饮食行为进行了探索，采用AB/BA 交叉设计分别在相隔一周的同天同时让被试在积极或中性情绪诱导下进行15 分钟的零食风味测试，结果发现健康被试在中性情绪和积极情绪诱导下食物的摄入量没有显著的区别(Cardi, Esposito et al., 2015)。
+
+# 3.情绪影响饮食行为的临床特点
+
+神经性厌食症(Anorexia Nervosa)、神经性贪食症(Bulimia Nervosa)和暴饮暴食症(BingeEating Disorder)均是饮食障碍的临床疾病，表现为个体对食物的过量或抑制摄入及进食行为失控(DSM 5,American Psychiatric Association, 2013)。这些疾病的发作和症状与情绪存在着一定的关系(Prefit et al.,2019;Williams-Kerver& Crowther,2020)，饮食障碍患者不合理的饮食行为(例如暴饮暴食和限制饮食等)可能是为了调节消极情绪(Brockmeyer et al.,2014)。
+
+神经性贪食症和暴饮暴食症的特点是患者在不连续的时间内大量地进食，神经性贪食症在暴食之后会反复出现不适当的代偿行为以防止体重增加(如自行催吐、过量锻炼和利尿剂滥用等)，而暴饮暴食症患者的暴食行为则与代偿性无关(Diagnostic and Statistical Manual ofMental Disorders 5;DSM5)。这些核心病症的出现可能是情绪调节缺陷和抑制控制受损所导致(Danner etal.,2014; Svaldi et al.,2014)，并且由于行为上的冲动无法与环境分离，因此抑制控制可能受到了消极情绪的影响(Sharma et al.,2014)。有研究者采用与食物相关的反眼跳任务(anti-saccade task)测量暴饮暴食患者的抑制控制、冲突处理以及自我监控的表现，实验中刺激(食物或非食物图片)会随机出现在显示屏的左侧或右侧，要求被试尽量避开出现刺激的一侧去注视没有刺激的一侧，结果发现，暴饮暴食症患者首次眼跳错误的概率远远大于对照组，暴饮暴食症患者在消极情绪下对食物刺激有更多的首视注视偏向，表明暴饮暴食患者的抑制控制能力可能受到消极情绪的影响(Leehr etal.,2018)。神经性贪食症患者也表现出了情绪影响下抑制控制能力的改变，有研究者采用事件相关电位技术(event-related potential,ERP)测量消极和中性情绪诱导下的贪食症患者对高低热量食物图片的注意，并进行了食欲和对食物愉悦感受的测量。结果发现，与健康被试相比，贪食症患者在消极情绪诱导下表现出更强烈的进食欲望，同时在消极情绪诱导下观看高热量食物时P300(ERP的一种成分，代表动机性的注意分配)的波幅有一定减弱，表明消极情绪降低了贪食症患者认知资源的可用性从而
+
+增加了对食物的渴望(Lutz etal.,2021)。
+
+神经性厌食症是目前死亡率最高的饮食障碍疾病(Fichter&Quadflieg,2016)，其主要表现为限制性的饮食、不合理思维、对食物的关注和身体意象失调(Glashouwer et al.,2019;Schaumberg etal.,2017)。除此之外，神经厌食症患者还表现出了情绪调节困难，而情绪调节被认为是饮食失调的主要原因(Aviram-Friedman et al.,2018; Innamorati et al.,2017)。早期就有研究发现神经性厌食症患者的恐惧情绪与食物热量存在一定的联系(Ellison et al.,1998)。有研究通过金钱奖励任务（命运之轮）对健康被试和神经厌食症患者进行实验，发现没有赢得金钱奖励的厌食症患者对消极情绪有更差的适应能力(Piccolo et al.,2019)。Meule 等人采用问卷法调查了神经性厌食症患者在不同情绪状态下的进食情况，发现神经性厌食症患者存在较高的负面情绪，在负面情绪下患者会比一般情况下更少的进食，而积极情绪下会有更多的进食(Meule et al.,2019)。也有研究者采用生态瞬时评估(ecological momentary assessment)的方法发现在神经性厌食症患者中，前一天较高的负面情绪与第二天更大可能的限制性饮食有关(Engel et al.,2013)。
+
+# 4.情绪影响饮食行为的理论模型
+
+饮食行为与情绪的关系千丝万缕，早期的身心理论将过度的进食行为解释为伴随消极情绪和饥饱的生理联系的状态。此外，Slochower(1983)认为经常存在“情绪性进食”的个体对情绪的适应性较差，内部认知和情感结构有一定缺陷，尤其是经常情绪性进食的个体会发生消极情绪的扩散。Kaplan 和 Kaplan(1957)将情绪的状态分为了不可控制状态和可控状态，前一种是个体能够察觉却无法改变的状态，后一种是个体能够改变的情绪状态。对焦虑状态的肥胖被试来说，不可控制焦虑状态的被试增加了进食行为，而可控制的焦虑状态却没有增加进食行为。近些年来心理学家们从不同角度对情绪影响饮食行为的表现进行了解释。
+
+# 4.1五因素模型
+
+Macht(2008)考虑到个体特质和情绪特征，提出了情绪影响饮食行为的五种模式(A fiveway model):(1)对食物选择的情绪控制，是指食物刺激引起的情绪会影响食物的选择；(2)情绪抑制食物摄入量，指由于情绪冲突导致的高唤醒或高强度的情绪会抑制进食；(3)认知缺陷影响饮食控制，在限制饮食者中，由于认知控制的损害，消极和积极的情绪会增加食物的摄入量；(4)饮食调节情绪，在情绪化进食者中，消极情绪引发了通过进食进行调节的倾向，增加了甜食和高脂肪食物的摄入量；(5)情绪一致性改善饮食行为，在正常饮食中，情绪对饮食的影响与它们的认知和动机特征是一致的。
+
+这五种模式分别通过先行条件、进食反应和中介机制指出了情绪和生物基本动机之间的功能性原则：冲突、共存和调节，得出情绪影响下饮食变化的原因可能是情绪的干扰作用，是情绪的副产品及情绪调节过程的结果(Macht,2008)。虽然能够解释消极情绪诱导下个体进食行为减少的原因，但却无法解释正常人群中消极情绪导致个体进食行为增加的原因。另外，单纯从情绪的不同作用以及个体的特征来解释情绪对饮食行为的影响似乎忽略了情绪影响下个体对食物的评价和敏感程度。有研究者从情绪影响食物价值的角度入手，提出了情绪对饮食行为的奖赏模型。
+
+# 4.2奖赏模型
+
+有研究者提出，过度进食可能也是一种成瘾行为，因为这两者存在相似的调节机制，例如将诱人食物线索看作有奖励价值的机制(Loxton& Tipman,2017;Ziauddeen&Fletcher,2013)。Baker 等人(2004)提出的关于药物成瘾的负面强化模型中强调，成瘾行为的发生主要是为了逃避或避免消极情绪，当消极情绪增加时，可能会将信息加工的过程偏向于成瘾行为。因此，根据该模型，有研究者认为，消极情绪增加了食欲刺激(例如食物或药物)的奖赏价值，导致了个体对刺激渴望的增加和注意的偏向(Hepworth et al.,2009)。在动物相关的神经科学的研究中发现，痛苦同时会抑制前额叶对行为的控制，随之产生的是对威胁刺激和奖赏系统的敏感(Arnsten,2009; Piazza & Le Moal, 1996)。
+
+如果消极情绪会使大脑奖赏系统对食物和药物更敏感，那么个体大脑中代表食欲奖赏的区域必然参与了加工，例如眶额叶皮层(orbitofrontal cortex)和纹状体(striatum)(Lopez et al,2019)。因此，有研究者采用功能磁共振技术(functional magnetic resonance imaging，fMRI)对30 名慢性节食者分别在消极和中性的情绪诱导后观看诱人食物图片的大脑活动进行了测量，结果发现，相比于中性情绪条件，消极情绪诱导下的被试在面对诱人的食物时眶额叶皮层的活动明显的增加，证明了消极情绪能够使大脑的奖赏系统对食欲线索更加敏感，为消极情绪与去抑制饮食之间的关系提供了证据(Dylan et al.,2012)。
+
+# 4.3社会文化与环境理论
+
+奖赏机制似乎明确了情绪影响下饮食行为的内在机制，但是存在社会环境中人们的饮食行为必然受到环境和文化影响。从社会文化的角度来看，情绪和饮食行为的关系可能是一种联想学习机制，增加的进食行为和积极情绪有关(Patel& Schlundt,2001)。无论在哪种文化下，食物都毫无争议的被用来庆祝某些特殊的场合。比如生日，通常是伴随着积极的情绪，人们一边说着祝福的话语一边享用着美食，再比如祭祀活动，人们怀着虔诚的心将最好的食物奉献给大自然，之后再与同伴分享，这些情绪与饮食行为可能已经变得内在相关(Monaco &
+
+Bonetto,2019)。还有研究者从社会交往和饮食行为的密切关系中发现，当与熟人或是好朋友一起吃饭时，摄入的食物量会增加，因为在这种环境下人们的用餐时间会增长，而且与好友一起用餐时产生真实的快乐感和享受有助于进食(Wansink,2004)。
+
+情绪还会引导个体在环境中寻找与目标相关的信息，例如积极的情绪能够传递一种信号，即所在的环境是良性和安全的(Andrade,2005)。因此，个体的注意可能会偏向于获得即时回报的刺激以收集更多的资源(Gupta,2019)。在饮食行为上表现出来的是，个体的关注点可能会放在享乐的短期目标上，而不是健康或是保持身材苗条的长期目标(Dingemans etal.,2009)。这个理论获得了实证的验证，当个体体验到高度积极的情绪时，他们更倾向于从事一些危险行为，如饮酒、吸毒和暴饮暴食等(Kim& Kwon,2019;Weiss et al.,2018)。社会文化中情绪对饮食行为的结论能够解释大多数的外部表现，但是个体自身的目标和态度也在其中起到了关键作用。
+
+# 4.4自我相关理论
+
+基于人类研究的理论认为，情绪困扰导致自我调节失败的原因是它降低了个体的自我意识，限制了对周遭环境的关注(Heatherton& Baumeister,1991)。这种自我意识的降低可能会导致个体关注短期的享乐目标(例如美味的食物)，而不是长期的自我监控目标。从个体自身来说，人们喜欢享受性的进食，尤其在积极情绪下。越来越多的食物消费似乎是由快乐驱动的，而不仅仅是对卡路里的需求。除了考虑到体重和健康，富足的食物资源可能会使个体产生一种与其他享乐活动(如吸毒和赌博)等同的食欲，这种现象被称为"享乐性饥饿"(Lowe &Butryn,2007)。情绪调节失败所导致的消极情绪还可能影响个体自我抑制控制能力的减弱，从而加强了进食行为的可能性(Byrme et al.,2020)。
+
+另一方面，关于自我许可的研究中描述，人们总是会主动寻找理由来解释饮食上的放纵(De Wit Huberts etal.,2012)，这些理由中，情绪似乎是众所周知的线索。而拓展-建构理论(broaden-and-build theory)认为，积极情绪增加了个人资源，使得之后的挑战(比如抵制美食)更容易实现(Fredrickson,2001)。根据情绪维持理论(mood maintenance theory)，积极情绪似乎缓解了放纵的饮食行为，因为人们不愿意因为放纵而破坏自己积极的情绪(Andrade,2005)。
+
+# 5.情绪影响饮食行为的生理及神经机制
+
+关于大脑对食物刺激反应的功能磁共振显示(functional magnetic resonance imaging，fMRI)，当个体看到食物图片刺激时，特定的大脑区域可能会被激活，包括眶额叶皮层(orbitofrontal cortex)、脑岛(insula)、纹状体(striatum)以及杏仁核(amygdala)等(Labar et al.,2001;
+
+Porubska etal.,2006;Yokum et al.,2012)。情绪对饮食行为影响的机制与成瘾的机制相似，对于一般人来说，美味的食物能够增加个体的进食欲望，这本质上是美味食物刺激感官上的奖赏，情绪能够调节个体的食欲来影响之后的进食行为。眶额叶皮层和纹状体是食物奖赏的脑区，对动物进行的神经科学研究发现情绪困扰会增加其奖赏系统对物理刺激的敏感性(Piazza&Le Moal,1996)，具体是消极情绪(如社交失败)会导致糖皮质激素的释放，而糖皮质激素反过来又会使大脑的奖赏系统对食物和药物敏感,增加了食欲刺激地反应(Adam&Epel,2007)。慢性节食者在情绪诱导下观看食物图片的fMRI扫描结果也验证了消极情绪增加奖赏系统对食物的敏感，表现为眶额叶皮层和纹状体的激活(Dylan et al.,2012)。
+
+情绪影响下的食物奖赏系统对食欲的改变通过脑岛体现。研究表明，脑岛对个体食欲的状态十分敏感(DelParigi,2002)，其主要功能是监控内部感受的线索和身体的内部状态(Critchley etal.,2004)。Killgore 等人(2006)招募了13名正常体重的女性，在观看高热量食物和低热量食物图片时进行fMRI扫描，之后采用量表对被试的情绪状态进行了自我评价。结果发现，被试在不同情绪状态下观看不同热量的食物时眶额叶皮层和脑岛的激活部位不同。这可能说明，情绪状态和食物选择倾向之间存在相关的神经机制，这种机制包括脑岛和眶额叶皮层，根据个体的情绪状态，他们似乎对不同热量的食物有不同的反应。关于情绪化进食的研究发现，对高热量食物和低热量食物的反应与脑岛和背外侧前额叶皮层(dorsolateralprefrontalcortex)有正向的关系，并且情绪性进食和背外侧前额叶皮层在选择或回避高热量食物时的激活呈正相关(Wood etal.,2016)。除此之外，杏仁核在情绪对饮食行为的影响中起到了至关重要的作用。有研究证明，杏仁核在编码积极和消极情绪方面都发挥了作用(Hamann& Mao,2002)，其基底外侧分支与海马体、腹内侧前额叶皮层(ventromedial prefrontal cortex)和眶额叶皮层双侧相连，这些联结似乎分别维持着习惯性行为、认知控制以及奖赏过程(Janak&Tye,2015)。由此可见，情绪对饮食行为影响的神经机制包括了杏仁核、脑岛、眶额叶皮层、纹状体和腹内侧前额叶的协同作用，已有情绪和饮食行为的研究强调了杏仁核和腹内侧前额叶皮层之间作用的重要性(Clithero &Rangel,2013; Seo et al.,2016)。
+
+虽然情绪对饮食行为影响的奖赏机制较为明确，但是该机制仅从情绪影响个体对食物的态度来解释之后可能的进食倾向(由于奖赏系统增加了个体对食物的敏感性)，忽略了情绪对个体自身抑制控制能力的改变，前者是从食物的角度出发，后者则是从自身的角度来确定进食行为特点。抑制控制能力使个体能够控制自己的行为而服从更高阶的目标，消极情绪减弱了抑制控制的能力，增加了个体的某些冲动行为。有研究者对 939项相关研究进行了元分析，以评估消极情绪、痛苦和认知控制在前扣带回皮层(AnteriorCingulate Cortex)上的激活，结果发现三者都激活了参与冲突监控和抑制过程的前扣带回皮层上的一个共同区域，说明了消极情绪与执行目标导向的行为存在一定的联系(Shackman et al.,2011)。虽然已有研究证明了不良的饮食行为与抑制能力和消极情绪的关系(Byrme etal.,2020)，但少有研究对这些表现背后潜在的神经机制进行探索，也并未将此机制作为消极情绪影响去抑制饮食行为的理论途径。另外，自身抑制能力受损的饮食障碍患者和某些特质人群饮食行为的神经生理机制可能更为复杂。如果能够明确这些机制，可能会为今后异常饮食行为的治疗提供一定的帮助。因此，未来关于饮食行为神经机制的研究可以从情绪影响下的抑制控制能力对饮食行为的改变入手，进行更深入的研究。
+
+# 6.总结与展望
+
+食物是人类生存的必需品，饮食行为不仅受到代谢需求的调节(Manning&Batterham,2014)，还受到情绪状态、动机和自我调节过程的影响(Treasure etal.,2012)。情绪对个体饮食行为的影响已经得到了广泛的研究，使人们对不同情绪状态下饮食行为的表现有了一些了解。长久以来，研究者们也意识到了仅仅依据个体单纯的喜好不足以预测其之后的饮食行为，而情绪与饮食行为之间存在的复杂关系预示着系统的描述情绪对饮食行为的影响是十分必要的。
+
+根据现有研究可以看出，情绪影响个体饮食行为增加或减少可能存在一定的规律。消极情绪对个体进食行为的影响更倾向于不良的饮食行为。在一般人群中，消极情绪影响下个体会选择摄入高热量的食物或是超出正常范围的进食(暴饮暴食)。在临床患者中，消极情绪影响下的患者可能出现极端的饮食行为（暴饮暴食或禁食）(Leehr et al.,2018;Lutz et al.,2021;Meule et al.,2019)，导致患者的病症加重，这可能与他们情绪调节能力缺陷有关(Aviram-Friedman et al.,2018)。从生理角度来看，消极情绪导致人们的大脑对于食物奖赏更加敏感，使得食物更加诱人，增加了之后的摄入量；从自我控制的角度来看，消极情绪破坏了有些人为保持身材而自我监控的长期目标，服从了享乐的短期目标(Seideletal.,2018)。但是，消极情绪对饮食行为的影响也会受到一些社会因素的影响而产生不一样的结果(Le,2019)。尤其是在女性中，社会文化对女性身材和行为表现的刻板印象导致女性有可能接收到消极刺激之后更加约束自己的行为。例如传统文化要求女性要时刻保持优雅的姿态，如果进食过程中姿态不够优雅或者进食过多可能会招致负面的评价，这就会促使女性更加小心的进食或者干脆停止进食来维持自我形象。还有对身材过度关注的个体，时常对自己的身材感到不满意，害怕发胖，将肥胖看成是一种极度糟糕的事情，这些不合理的思维也有可能导致个体产生负面情绪而过度节食。因此，未来对消极情绪下饮食行为的研究需要更加关注这些特定因素对进食特点的影响，如果能够发现消极情绪影响饮食行为中一些较为重要的因素，也许会为该领域提供一些新的证据。此外，消极情绪对于饮食障碍患者不合理饮食行为的影响要大于一般人，患者自身情绪调节能力的受损可能使得他们受到消极刺激的影响更大，导致难以缓解的病理性饮食行为。有研究对厌食症患者在食物暴露疗法前后进行fMRI扫描之后发现，暴露疗法之后减弱的对食物的焦虑情绪可能与自身的情绪调节有关(Young etal.,2020)。可见面对饮食障碍患者的治疗不仅需要关注病症与食物之间的关系，聚焦于患者的情绪缓解和情绪调节能力的干预可能会为改善患者病理性饮食行为提供一些新的思路。
+
+积极情绪对饮食行为的影响可能倾向于健康饮食行为中的摄入量的增多或减少。通常出现两种结果，一种是增加食物摄入量，而另一种是减少食物摄入量，造成这种不一致的表现似乎与某些因素有关，并且在不同特质的个体上表现不同。一项对 56个情绪和饮食相关研究的元分析研究发现，积极情绪促进了进食行为,这似乎是一个有力的证据(Evers etal.,2018),可这项研究中大多选用的是健康被试，且并未考虑拥有高阶目标(减肥和保持健康等)和饮食障碍等人群。虽然对于神经性厌食患者来说，积极情绪打破了患者的病态节食行为，但对于暴饮暴食和神经性贪食症患者，他们本身就有过度进食行为，积极情绪增加其进食行为显然会造成更大的伤害，且已有研究证明了积极情绪能够缓解贪食症和暴饮暴食症患者的消极情绪和减少之后卡路里的消耗(Cardi etal.,2019)。由此可见，积极情绪对饮食行为影响可以分别阐述。在健康人群中，积极情绪似乎能诱导个体将进食过程视为一种享乐的短暂目的来增加或维持这种情绪状态(Wansink,2004)，但拥有保持身体健康拒绝暴饮暴食的个体在积极情绪下可能会变得更加自律，因为积极情绪使个体获得更多的心理动力以抵制诱惑(Fredrickson,2001)。在有暴食行为的饮食障碍患者中，积极情绪的作用较为确定：首先，消极情绪是暴饮暴食的元凶，积极情绪作为缓解消极情绪的一种策略减少了患者的暴食行为；其次，积极情绪能够帮助患者提高自我调节能力，使患者更加有动力去抵抗生活中的一些负面信息和自身的不良情绪，从而改善其饮食行为；最后，积极情绪能够降低厌食症患者对食物的警惕性，患者在进食之后自身的焦虑也有所缓解。因此，无论是减少还是增加的进食行为，积极情绪似乎都能起到一定的正向作用，在饮食障碍患者中的效果最为明显。
+
+无论是积极还是消极情绪对饮食行为的影响，当前的研究结果大多都来自于实验室研究(Cardi,Leppanen etal.,2015)。实验室研究能够严格控制一些额外因素，对因果关系的论证更加准确。但是饮食行为真实存在于人们的日常生活中，情绪夹杂在日常的饮食过程中可能存在一些不同的表现，实验室研究无法保证其生态效度，比如实验研究中的情绪都是通过人为的诱导之后立即让被试参加相关的食物测试。在现实生活中，情绪的唤醒可能是一个较为漫长的过程，而且人们用餐的时间有一定的规律，这个过程所导致的进食行为无法明确的定论。因此未来除了进一步对情绪影响下的饮食行为进行实验室研究之外，多采用一些大样本的调查和更加具有生态性的研究可能会为该领域提供一些新的证据。另外，情绪影响饮食行为的研究中，大多数都将刺激分为食物与非食物，或是高热量与低热量食物，虽然这样能直接说明个体对食物的态度，但是某些食物在文化中具有特殊的意义，例如饺子、汤圆和巧克力，在不同国家的文化中，这些食物都与传统的节日有关，对人们来说它们作为庆祝的意义可能要高于食用本身。因此，文化也可能是情绪影响饮食行为中一个较为重要的因素(Monaco&Bonetto,2019)，可以将其加入今后的研究中。
+
+综上所述，对情绪影响饮食行为相关研究的梳理不仅能够为今后的研究提供一定的理论基础。更进一步，采用多种可行的方法进行饮食行为的相关研究，探索情绪对饮食行为影响中其他可能的影响因素，提供更具有生态效度的解释，或许能够为饮食障碍患者制定合理的治疗方案提供帮助，还可以在与饮食行为相关的非临床人群中(例如胖负面身体自我)提供一些有效的干预方案，防止其不良饮食行为的恶化。
+
+参考文献   
+Adam,T.C.,& Epel,E.S.(2007).Stress, eating and the reward system. Physiology & Behavior; 91,449-458.   
+Aguiar-Bloemer,A. C.,& Diez-Garcia,R. W.(2018). Influence of emotions evoked by life events on food choice. Eating and Weight Disorders, 23,45-53.   
+American Psychiatric Association. (20l3). Diagnostic and statistical manual of mental disorders (5th ed.). https://doi.0rg/10.1176/appi.boo0ks.9780890425596   
+Arnsten,A.F.T. (209). Stress signaling pathways that impair prefrontal cortex structure and function. Nature Reviews Neuroscience,10,410-422.   
+Andrade,E.B. (20o5). Behavioral consequences of afect: Combining evaluative and regulatory mechanisms. Journal of Consumer Research, 32,355-362.   
+Aviram-Friedman,R.,Astbury,N.,Ochner,C.N., Contento,I.,& Geliebter,A. (2018). Neurobiological evidence for atention bias to food,emotional dysregulation,disinhibition and deficient somatosensory awareness in obesity with binge eating disorder. Physiology & Behavior; 184,122-128.   
+Baker,T.,Piper, M., McCarthy, D.， Majeskie,M.，& Fiore,M. (2004). Addiction motivation reformulated: an affective processing model of negative reinforcement. Psychological Review, 1l1,35-51.   
+Barnhil,A.,&Doggett,T. (2018).Foodethics I: Food productionand foodjustice.Philosophy Compass,13,e12479.   
+Becker,K.D.,Fischer,S.Smith,G.T.,&Miller,J.D.(2o16).Theinfluence of negativeurgency,atentionalbias, and emotional dimensions on palatable food consumption. Appetite,100,236-243.   
+Beridge,K.C. (2o09).'Liking'and'wanting'food rewards: Brain substrates and roles in eating disorders. Physiology & Behavior, 97,537-550.   
+Bongers,P.,Jansen,A.,Havermans,R.C.,Roefs,A.,&Nederkoorn, C. (20l3).Happyeating: The underestimated role of overeating in a positive mood. Appetite, 67(1), 74-80.   
+Brockmeyer,T.，Skunde,M.，Wu,M.，Bresslein,E.,Rudofsky，G.，Herzog,W.，& Friederich,H.C.(2014). Difficulties in emotion regulation across the spectrum of eating disorders. Comprehensive Psychiatry, 55,565- 571.   
+Byrme,M.E.,Shank,L.M.,Altman,D.R.,wanson,T.N.,Ramirez,E.,Moore,N.A.,..& Yanovski,J.A. (2020). Inhibitory control and negative affect in relation to food intake among youth. Appetite,156,104858.   
+Cardi,V.,Esposito,M., Clarke,A.,Schifano,S.,& Treasure,J.(2015).The impactof induced positive moodon symptomatic behavior in eating disorders: An experimental, AB/BA crossover design testing a multimodal presentation during a test-meal. Appetite, 87,192-198.   
+Cardi, V.,Leppanen,J.,&Treasure,J. (2O15).he efects ofnegativeand positive mood inductiononeatingbehavior: A meta-analysis of laboratory studies in the healthy population and eating and weight disorders. Neuroscience &Biobehavioral Reviews,57,299-309.   
+Cardi,V.,Leppanen,J.,Leslie,M.,Esposito,M.,&Treasure,J. (2o19).Theuseofapositive moodinductionvide clip to target eating behavior in people with bulimia nervosa or binge eating disorder: An experimental study. Appetite,133,400-404.   
+Clithero,J.A.,&Rangel,A.(2013).Informatic parellationof thenetwork involved inthecomputationofsubjective value. Social Cognitive and Affective Neuroscience, 9,1289-1302.   
+Colins,R.,& Stafford,L.D.(2015).Feling happyand thinking about food: Counteractive effects of mood and memory on food consumption. Appetite,107-112.   
+Critchley, H.D., Wiens,S.,Rotshtein,P., OhmanA.,& Dolan,R.J. (2o04). Neural systems supporting interoceptive awareness. Nature Neuroscience,7,189-195.   
+Czepczor-Bernat,K.,& Brytek-Matera,A. (2021).The impact offood-related behaviors and emotional functioning on body mass index in an adult sample.Eating and Weight Disorders, 26,323-329.   
+Danner, U. N., Sternheim, L.,& Evers, C. (2014). The importance of distinguishing between the diferent eating disorders (sub)types when assessing emotion regulation strategies.Psychiatry Research,215,727-732.   
+De Witt Huberts,J.C.,Evers, C.,& De Ridder,D. T. D. (2012). License to sin: Self-licensing as underlying mechanism of hedonic consumption. European Journal of Social Psychology, 42, 490-496.   
+Del Parigi,A., Gautier,J.F.，Chen,K.,Salbe,A.D.,Ravussin,E.,Reiman,E.,& Tataranni,P.A.(2002). Neuroimaging and obesity: apping the brain responses to hunger and satiation in humans using positron emission tomography.Annals of the New York Academy of Sciences, 967,389-397.   
+Dingemans,A.E.,Martijn,C.,vanFurth,E.F.,&Jansen,A.T.M. (2o09).Expectations,mood,and eating behavior in binge eating disorder. Beware of the bright side. Appetite, 53,166-173.   
+Donofry, S.D. van Zoest, W., Moonen,A., Sacchett,S.,Nederkoorn,C.,& Roefs,A. (2019).Efectof dietary restraint and mood state on attentional processing offood cues.Journalof Behavior Therapy and Experimental Psychiatry, 62,117-124.   
+Du, J.,Zheng,Q., Hui, M. K.，& Fan, X. (2019). Can fear be eaten? The emotional outcomes of consuming frightening foods or drinks. Psychology & Marketing,36,1027-1038.   
+Dylan D. Wagner, Rebecca G.Boswell, Wilim M. Kelley, & Todd F. Heatherton. (2012). Inducing negative ffect increases the reward value of appetizing foods in dieters. Journal of Cognitive Neuroscience, 24,1625-1633.   
+Ellison,Z.,Foong,J.,Howard,R.,Bullmore,E.T.,Willams,S.C.&Treasure,J. (1998).Functional anatomyof calorie fear in anorexia nervosa.The Lancet, 352,1192.   
+Engel,S. G.,Wonderlich,S.A.,Crosby,R.D.,Mitchel,J.E.,Crow,S,Peterson,C.B.,ordon,K.H. (013). The role of affect in the maintenance of anorexia nervosa:Evidence from a naturalistic assessment of momentary behaviors and emotion.Journal of Abnormal Psychology， 122,709-719.   
+Evers,C.,Stok,F.M.,&DeRidder,D.T. (20l0).Feeding your feelings: Emotion regulationstrategiesand emotional eating. Personality and Social Psychology Bulletin,36,792-804.   
+Evers, C.,Dingemans,A., Junghans,A.F.,& Boevé,A. (2018).Feeling bad orfeling good,does emotionaffect your consumption of food? A meta-analysis of the experimental evidence. Neuroscience & Biobehavioral Reviews,92,195-208.   
+Fedorikhin,A.,& Patrick,V.M.(2010).Positive mood and resistance to temptation: The interfering influence of elevated arousal. Journal of Consumer Research,37, 698-711.   
+Fichter,M.M.,& Quadflieg,N. (2016). Mortality in eating disorders - results of a large prospective clinical longitudinal study. International Journal of Eating Disorders,49,391-401.   
+Fredrickson,B.L. (2001).The role of positive emotions in positive psychology.The broaden-and-build theory of positive emotions. American Psychologist, 56,216-228.   
+Glashouwer, K.A., Der Veer,R.M.,Adipatria,F., De Jong,P.J.,& Vocks,S. (2019). The role of body image disturbance in the onset， maintenance, and relapse of anorexia nervosa: A systematic review. Clinical Psychology Review, 74,101771.   
+Gupta,R. (2019).Positive emotions have a unique capacity to capture atention.In Progress in brain research, 247, 23-46.   
+Hamann,S.,& Mao,H. (2O02).Positive and negative emotional verbal stimuli elicit activity in the left amygdala. Neuro Report, 13,15-19.   
+Heatherton,T.F.,& Baumeister,R.F. (1991). Binge eating as escape from self-awareness. Psychological Buletin, 110(1), 86-108.   
+Heatherton,T.F.,& Wagner,D.D.(2O11).Cognitive neuroscience of self-regulation failure. Trends in Cognitive Sciences,15,132-139.   
+Hepworth,R.,Mogg,K.,Brignel, C.,&Bradey,B.P. (2009). Negative mood increases selective atentiontofood cues and subjective appetite. Appetite,54,134-142.   
+Innamorati,.,Imperatori,C.,Harnic,D.,Erbuto,D,Patitucci,E.,Janiri,L.,..&Fabbricatore,.(2).Eotion regulation and mentalization in people at risk for food addiction. Behavioral Medicine, 43,21-30.   
+Izard,C.E.,& Ackerman,B.P.(2ooo). Organizational and motivational functions of discrete emotions.In M.L.J. M.Haviland (Ed.), Handbook of emotions (2nd ed., pp.253-264).New York: Guilford Press.   
+Janak, P.H.,& Tye, K. M. (2015). From circuits to behavior in the amygdala. Nature,517,284-292.   
+Juergensen, J.,&Demaree, H.A. (2O15). Approach-motivated positive affect and emotion regulation alter globallocal focus and food choice. Motivation and Emotion,39,580-588.   
+Kaplan,H.,& Kaplan,H.S.(1957).The Psychosomatic concept ofobesity.Journalof Nervous and Mental Disease, 125,181-201.   
+Killgore, W.D., & Yurgeluntodd, D.A. (2oo6). Affect modulates appetite-related brain activityto images of food. International Journal ofEating Disorders,39,357-363.   
+Kim,S.,& Kwon,J. H. (2019).The impact of negative emotions on drinking among individuals with social anxiety disorder in daily life: The moderating effect of maladaptive emotion regulation strategies. Cognitive Therapy and Research, 44,345-359.   
+Kleiman,T., Trope, Y., & Amodio,D.M. (2016). Cognitive control modulates atention to food cues: support for the control readiness model of self-control. Brain & Cognition,110, 94-101.   
+Koster,E.P.,& Mojet, J. (2015).From mood to food and from food to mood: a psychological perspective on the measurement of food-related emotions in consumer research.Food Research International,76,180-191.   
+Labar,K.S., Gitelman,D.R.,Parrish,T.B.,Kim,Y. H.,Nobre,A.C.,&Mesulam,M. M. (2001). Hunger selectively modulates corticolimbic activation to food stimuli in humans.Behavioral Neuroscience,l15,493-500.   
+Le,T. P (2019). The association of conformity to feminine norms with women's food consumption after a negative mood induction. Appetite,123-129.   
+Leehr,E.J.,Schag,K.,Dresler,T., Grosse-Wentrup,M.,Hautzinger,M.,Fallgatter,A.J.,..&Ehlis,A.C.(2018). Food specific inhibitory control under negative mood in binge-eating disorder: Evidence from a multimethod approach.International Journal ofEating Disorders,51,12-123.   
+Lopez,R.B., Heatherton,T.F.,&Wagner,D.D.(2019).Media multitasking isassociated with higherrisk forobesity and increased responsiveness to rewarding food stimuli. Brain Imaging and Behavior, 14,1050-1061   
+Lowe,M.R.,& Butryn,M.L.(20o7).Hedonic hunger: Anew dimension of appetite? Physiology & Behavior; 91, 432-439.   
+Loxton, N.J.,& Tipman,R. J. (2017). Reward sensitivity and food addiction in women. Appetite,115, 28-35.   
+Lutz,A.P.,Dierolf,A. VanDyck,.,Georgi, C.,Schnepper,R.,Blechert,J.,& Vgele,C. (221).Mood-induced changes in the cortical processng of food images in bulimia nervosa. Addictive Behaviors,l13,106712.   
+Macht,M. (20o8). How emotions affect eating: A five-way model. Appetite, 50(1),1-11.   
+Maier-Noth,A. (2019). Early development of food preferences and healthy eating habits in infants and young children.In Nurturing a Healthy Generation ofChildren: Research Gaps and Opportunities, 91,11-20.   
+Maning,S.,& Battrham, R.L. (2014). The role of gut hormone peptide YY in energy and glucose homeostasis: Twelve years on. Annual Review of Physiology， 76, 585-608.   
+Meule,A.,Richard,A.,Schnepper,R.,Reichenberger,J.,Georgi, C.,Naab,S.,..&Blechert,J. (19).Emotion regulation and emotional eating in anorexia nervosa and bulimia nervosa. Eating Disorders, July,1-17.   
+Michopoulos,V.,Powers,A., Moore,C., Vilarreal,S.,Ressler,K.J.,& Bradley,B. (2015). The mediatingroleof emotion dysregulation and depression on the relationship between childhood trauma exposure and emotional eating. Appetite, 91,129-136.   
+Monaco,G.L.,&Bonet,E.(2019).Socialrepresentations andculture in food studies.Food Research International, 115, 474-479.   
+Otake,K.& Kato,K. (2017). Subjective happinessand emotional responsiveness to food stimuli. Journal of Happiness Studies,18, 691-708.   
+Patel,K.A.,& Schlundt,D.G.(2Oo1).Impact of moods and social context on eating behavior.Appetite,36,111- 118.   
+Piazza,P. V,&Le Moal,M.(1998).The role of stress in drug self-administration.Trends in Pharmacological sciences, 19,67-74.   
+Piccolo,M.,Milos,G.,Bluemel,S.,Schumacher,S.,Mullrpfeiffer, C.,Fried,M.,..&Martinsoelch,C.(2019). Food vs money? Effects of hunger on mood and behavioral reactivity to reward in anorexia nervosa. Appetite,134,26-33.   
+Porubska, K., Veit,R.,Preiss,H.,Fritsche,A.,&Birbaumer,N. (2006).Subjective feling of appetite modulates brain activity: an fMRI study. Neuroimage, 32,1273-1280.   
+Prefit, A. B., Candea,D.M.,& Szentagotai-Tatar,A. (2019). Emotion regulation acros eating pathology: A metaanalysis.Appetite,143,104438.   
+Schaumberg,K., Welch,E.,Breithaupt,L.,Hubel, C.,Baker,J.H.,Munnchernoff,M.A.,..& Bulik,C.M.(2017). The science behind the academy for eating disorders' nine truths about eating disorders.European Eating Disorders Review, 25,432-450.   
+Seidel,M.,King,J.A.,Ritschel,F.,Boehm,I.,&Ehrlich,S.(2018).Thereal-lifecostsofemotionregulation in anorexia nervosa: a combined ecological momentary assessment and fMRI study. Translational Psychiatry, 8(1), 28.   
+Seo,D.O.,Funderburk,S.C.,Bhatti,D.L.,Motard,L.E.,Newbold,D.,& Girven,K.S.,et al. (2016).A GABAergic projection from the centromedial nuclei of the amygdala to ventromedial prefrontal cortex modulates reward behavior. TheJournal ofNeuroscience: The Offcial Journalofthe Society for Neuroscience,36,10831-10842.   
+Shackman,A., Salomons,T.,Slagter, H. etal. (2011).The integrationof negative affect,pain and cognitive control in the cingulate cortex. Nature Reviews Neuroscience,12,154-167   
+Sharma,L.,Markon, K.E.,& Clark,L.A. (2014).Toward a theory of distinct types of “impulsive”behaviors: A meta-analysis of self-report and behavioral measures.Psychological Bulletin,140,374-408.   
+Slochower,J.A. (1983). Excessive eating. The role ofemotions and environment. New York: Human Sciences Press.   
+Solomon, M.B.,Foster,M.T.,Bartness,T.J.,& Huhman,K.L.(20o6).Social defeat and foot shock increase body mass and adiposity in male Syrian hamsters. American Journal of Physiology-Regulatory， Integrative and Comparative Physiology,292,283-290.   
+Spoor, S., Bekker, M., Van Strien,T.，& Van Heck,G. (2007). Relations between negative affect,coping and emotional eating. Appetite, 48,368-376.   
+Sproesser, G., Schupp, H.T.,& Renner, B. (2014). The bright side of stress-induced eating: Eating more when stressed but less when pleased.Psychological Science,25,58-65.   
+Stice,E.,Presnel,K.,Shaw,H.,&Rohde,P.(Oo5).Psychologicalandbehavioral risk factors forobesityonsetin adolescent girls: A prospective study. Journal of Consulting and Clinical Psychology, 73,195-202.   
+Svaldi,J.,Naumann,E.,Trentowska,M.,& Schmitz,F.(2o14).Generaland food-specific inhibitory deficits inbinge eating disorder. International Journal of Eating Disorders, 47, 534-542.   
+Treasure,J.,Cardi,V.,&Kan,C.(2O12).Eating in eating disorders.European Eating Disorders Review: TheJournal of the Eating Disorders Association,20, e42-e49.   
+Turner,S.A.,Luszczynska,A. Warner,L.,& Schwarzer,R. (200). Emotional and uncontrolled eating styles and chocolate chip cookie consumption. a controled trial of the effects of positive mood enhancement. Appetite, 54,143-149.   
+Wansink,B.(2Oo4). Environmental factors that increase the food intake and consumption volume of unknowing consumers.Annual Reviews of Nutrition,24,455-479.   
+Weiss,N.H.,Forkus,S.R.,Contractor,A.A.,& Schick,M.R. (2018).Dificulties regulating positiveemotionsand alcohol and drug misuse:A path analysis.Addictive behaviors,84,45-52.   
+Werthmann,J.,Simic,M.,Konstantellu,A.,Mansfield,P.,Mercado,D.,&Ens,W.,etal. (2o19).Same,samebut diferent: atention bias for food cues in adults and adolescents with anorexia nervosa.International Journal of Eating Disorders,52,681-690.   
+Williams-Kerver,G.A.,& Crowther,J.H.(202O).Emotion diferentiationand disordered eating behaviors:The role of appearance schemas.Eating Behaviors,37,101369.   
+Wood,S.M.W.,Schembre,S.M.,He,Q.,Engelmann,J.M.,Ames,S.L.,& Bechara,A. (2016).Emotional eating and routine restraint scores are associated with activity in brain regions involved in urge and self-control. Physiology&Behavior,165,405-412.   
+Yeomans,M.R.,& Coughlan,E.(2oo9).Mood-induced eating.interactive effects of restraint and tendency to overeat. Appetite,52,290-298.   
+Yokum,S.,Ng,J.,& Stice,E.(2O12).Attentionalbias to food images asociated with elevated weightand future weight gain: an fMRI study. Obesity, 19,1775-1783.   
+Young,K.S.,Rennals,S.J.,Leppanen,J.,Mataix-Cols,D.,Simmons,A.,uda,.,..&Cardi,V.(22O).Exposure to food in anorexia nervosa and brain correlates of food-related anxiety: Findings from a pilot study.Journal of AffectiveDisorders,274,1068-1075.   
+Ziauddeen,H.,&Fletcher,P.C. (20l3).Is food addictiona valid and usefulconcept?obesityreviews,14 (1),19- 28.
+
+# The influence of emotion on eating behavior:
+
+# Theory and mechanism
+
+ZHOU Aibao 1.2,XIE Pei1,2, TIAN Zhe,PAN Chaochao $^ { 1 , 2 }$ （20
+
+(SchoolofPsychology,Northwest Normal University;Lanzhou 73oo70,China) (Key Laboratory of Behavior and Mental Health,Gansu Province,Lanzhou 73oo7o,China) (Hainan Normal University,Haikou 571158,China)
+
+Abstract: Human eating behavior is affected by many factors， including physiological, psychological， social, and cultural factors. Most atention from researchers regarding eating behaviors has focused on the effect that emotion has on eating behaviors.Eating behaviors generally manifest in the amount of intake and in the choice of food.By studying individuals' clinical and non-clinical food intake while experiencing different emotions, researchers have concluded that negative emotions are more likely to cause individuals to overeat. However, the results of similar research on eating behaviors while individuals experience positive emotions vary. Physiologically, positive emotions can promote the individual's hedonic mechanism, which leads to increased eating behavior. Contrarily, self-control theory believes that positive emotions increase a person's ability to resist temptation. The neurophysiological mechanism of eating behavior under the influence of emotions was further discussed in this study.In the future,in diet-related clinical research and treatment, it is necessary to have more in-depth exploration of the neural mechanisms of individuals' eating behaviors when they are under the influence of various emotions.
+
+Key words: positive emotions, negative emotions, eating disorders, binge eating

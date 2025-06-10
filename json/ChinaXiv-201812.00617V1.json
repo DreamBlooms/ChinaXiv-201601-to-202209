@@ -1,0 +1,281 @@
+[
+    {
+        "type": "text",
+        "text": "代谢组学在奶牛营养与牛奶质量安全方面的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王倩1,2 张养东1,2.3\\* 郑楠1,2,3 李松励1,2.3文芳1,2,.3 赵圣国1,2.3 王加启1,2.3（1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.中国农业科学院北京畜牧兽医研究所，农业部奶产品质量安全风险评估实验室（北京)，北京100193；3.中国农业科学院北京畜牧兽医研究所，农业部奶及奶制品监督检验测试中心（北京)，北京100193）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：代谢组学是检测低分子质量（通常分子质量小于 ${ \\mathrm { ~ 1 ~ 0 0 0 ~ u ~ } }$ ）代谢物的变化，并以此来研究生物体受到病理/生理刺激或基因改变后所产生代谢产物的构成及其变化规律的学科。它是后基因时代发展起来的一门新的学科，是系统生物学的重要组成部分。代谢组学已经广泛应用于生理学、病理学、药理学、动物营养学、动物学和植物学等各个领域，但代谢组学在奶牛营养与牛奶质量安全研究中的应用还比较少。本文从代谢组学的基本概念、研究思路和方法等入手，综述了目前代谢组学在奶牛营养、疾病、热应激、牛奶质量与奶品安全中的应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：代谢组学；奶牛；营养；牛奶；质量；安全",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S852.2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛奶中除含有丰富的蛋白质、糖类和脂类外，还含有很多微量却可以承担重要生理功能的生物活性物质，例如免疫球蛋白、核苷酸和寡糖等[1-2]。许多因素可以影响到牛奶的产量和成分，例如遗传因素、饲料组成、季节性变化、奶产品加工过程以及动物健康状况等[2-5]。因此，通过检测奶中各种成分的变化，我们不仅可以了解奶产品质量，还可以追溯奶牛的生理或是病理状况[6-7]。通过生化或是感官等常规指标能够监测奶牛健康状况或牛奶品质，但检测指标较为简单，因此不可避免地使结果带有局限性。另外，如果检测参数之间缺乏关联，也会给了解研究对象的完整信息带来更多的困难。对于生命体来说，其内部生物化学反应不仅是连续的，而且这些反应所涉及到的代谢途径之间还是相互关联的，因此是以代谢网络的形式在生命体内存在，所以需要用整体和系统的研究思想去认识机体代谢。系统生物学的诞生使得生命科学的研究思想、方法和技术跨越到了整体和系统研究的阶段[8]。随着研究思想、方法和技术的创新和进步，代谢组学的出现给我们提供了全面了解动物健康及动物产品质量与安全的新契机[8-9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1代谢组学的基本概念、分类及应用范围",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1概念 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "代谢组学是研究生命体受到内外界刺激或基因修饰后所产生的与时间序列相关联的众多代谢产物的一门学科[8,10]。它测定的生理参数能够直接反映机体营养、应激或者疾病状态，且代谢物反应速度比转录组、蛋白质组要快得多。因此，代谢组学提供了一种更加直接的检验方法，这也是它有别于其他组学方法的重要特征。此外，机体代谢物的种类要远小于基因和蛋白的数目，而且研究中使用的仪器和方法更为一致，这也有利于不同研究结果间的相互比较。以上优点使得代谢组学研究在近年来得到快速发展，并在许多领域得到广泛运用，如营养学、毒理学、疾病诊断以及药物研发等领域[0]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究目标、所涉及仪器类别及分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "代谢组学检测方式的特点决定了其检测的产物不仅分子质量小，而且种类较多。因此也就要求有高灵敏度、高精度和高通量的仪器来检测这些代谢物质[8.10]。目前，常见的代谢组学的数据采集主要采用质谱（mass spectrometer,MS）和核磁共振谱（nuclear magneticresonance,NMR）为核心的分析技术，在辅助以一些高效的分离设备，共同组合成代谢组学所使用的设备，设备类型包括：气相色谱-质谱联用（gaschromatography-massspectrometer,GC-MS）、高效液 相色谱-质 谱联用（liquidchromatography-massspectrometry,LC-MS 或LC-MS/MS）、高效液相色谱-核磁共振联用（high-performance liquidchromatography-nuclear magnetic resonance,HPLC-NMR）、高效液相色谱-核磁共振-质谱联用（HPLC-NMR-MS）技术等[8,10]。其中，NMR 技术比较适合分析含量高的代谢物，样品只需要简单的处理，因此基本不会破坏样品的结构和性质，所以NMR具有良好的实验重现性和较高的灵敏度。另外，NMR 还允许样品在一定的温度和生理缓冲范围内选择实验条件，所以能更加接近生理状态，也因而能够进行实时和动态的监测和检验[8,10]。NMR 的检测对象是元素的同位素原子核，目前最为常见的NMR 波谱分析是氢谱核磁共振（ $\\mathrm { ^ 1 H }$ NMR）、碳谱核磁共振（ $^ { 1 3 } \\mathrm { C }$ NMR）及磷谱核磁共振（ $^ { 3 1 } \\mathrm { P }$ NMR）3种。基于这3种波谱的分析方法可以检测的生物样本包含生物体液、细胞提取液、组织液和活体组织，其中 $\\mathrm { ^ { 1 } H }$ NMR可引起生物样本中的含氢化合物响应，这个特点使得生物样品中大多数的代谢物都能被检测到[8,10]。GC-MS 的灵敏度高，适合分析易挥发或经衍生化后易挥发有机化合物，还具有大量可检索的标准质谱库的优势，例如美国国家标准技术学院数据库(National Institute of StandardsTechnology)。在这些数据库辅助下可以准确定性化合物种类[8,10,1]。目前的技术已经可以通过采用GC-MS 方法同时测定几百个化学性质不同的代谢物，包括有机酸、大多数氨基酸、糖、糖醇、芳胺和脂肪酸等[8,0.11]。LC-MS 不同于GC-MS 技术的地方在于其以测定物质的质荷比差别来区分和鉴定代谢物。由于LC-MS 分析样品无需衍生化处理，样品范围不受制于化合物的性质，因此GC-MS 分析难以分离和检测的，不稳定、难挥发的极性和极性低的成分均可以用LC-MS 来分析。这个特点使得LC-MS 分析化合物的类型最为广泛。但是LC-MS 得到的代谢物的鉴定还没有标准的数据库作为比对标准。若要鉴定代谢物种类，需要在线数据库的帮助下，如人类代谢组学数据库（Human Metabolome Database,HMDB）[12]。每种技术均有其优势和不可避免的缺点，但是可通过多种分析技术联合应用来弥补相互间的不足，这也是代谢组学研究中的一个重要发展趋势[8,10]。在 HPLC-NMR 和 HPLC-NMR-MS的代谢组学研究中，高通量的 HPLC 分离技术，可高效地分离代谢物，简化成分的复杂性。NMR 可提供代谢物的分子质量及子离子信息，对代谢物定性、定量分析具有高选择性和高灵敏度，而一维、二维 NMR波谱还可以用来确定分子结构[13]。代谢组学数据的分析方法包括无监督(unsupervised method)和有监督方法(supervisedmethod)2 类。无监督方法包括主成分分析(principal components analysis,PCA)、层次聚类分析(hierarchical cluster analysis,HCA)、自组织图(self-organizing maps,SOMs)。有监督方法包括判别分析(discriminant analysis,DA)、偏最小二乘法(partial least squares,PLS)、偏最小二乘法-判别分析(PLS-DA)、正交偏最小二乘-判别分析(OPLS-DA)、软独立建模分类法(soft independentmodeling ofclassanalogy,SIMCA)、人工神经网络(artificial neural network,A)[,1]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 分类及优缺点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着实验技术和数据分析方法的进步，基于代谢组学的各种研究和实验方法成功地运用到了营养学、毒理学、病理学、药理学、疾病诊断、动物模型、微生物、植物、生物医学、环境科学等领域[8,10]。虽然代谢组学的研究方向各不相同，但是大致可将代谢组学的研究分为4类：即靶向代谢组学分析、非靶向代谢组学分析、代谢指纹分析和代谢物谱图分析。靶向代谢组学分析可以验证已鉴定的生物标记物，但需要标准品在定性和定量分析上的辅助。因此这类研究通常只能对大量样本中数量有限的化合物进行定量。非靶向代谢组学主要是将对照组和试验组的代谢物（某一生物体中的全部代谢物)进行比对，以找出其代谢物的差异。代谢轮廓分析需要研究人员先期假定某类或是某个特定的代谢途径，并对此通路上不同代谢物进行更深入的研究。代谢指纹图谱需要分析个体中代谢产物的质谱峰，从而可以最终了解不同化合物的结构，建立一套完备的，识别这些不同化合物特征的分析方法[8,10]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4牛奶及奶制品作为检测对象的优势和必要性",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "现代奶牛营养研究和牛奶质量安全检测需要进行实时、连续、快速和非损伤的取样和检测技术。以往借鉴其他研究领域里所使用的血液、唾液、尿液或者是粪便等样品类型很难做到定时或是频繁取样，此外，这类样品的获得数量也很不稳定，有时甚至是微量获取，因此也就不易做到连续和精确检验。奶及奶制品相对前述的几种样品来说，有着自己独特的优势。第一，可以做到定时取样，尤其是在大型的，配备专用挤奶设备的牧场都有着较为固定的挤奶时间，取样时间较为固定。第二，获得的样品量大，例如单头奶牛每次挤奶可以获得几公斤到十几公斤样品，这就提供了大量的研究样品。第三，由于是固定时间采样，动物已经适应了挤奶的规律性扰动，因此样品收集给动物造成的应激反应小，这也保证了样品中尽可能少的包含干扰因素。第四，可获得的样品类型多。牛奶是人类最为重要的营养物质之一，原奶及以其为原料制成不同的奶产品，诸如各种类型的奶粉、液态奶、黄油、奶酪、乳清、奶油和酸奶等都可以作为样本来检测，这些样品不仅可以用来检测其品质和安全状况，还可以追溯产奶动物的营养状况、品系和种类[14-16]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "牛奶是人类获得优质蛋白质和脂类的重要来源物质。此外，牛奶中含有的维生素、矿物质和免疫球蛋白也在人类健康饮食中扮演了很重要的角色[1]。由于加工过程的不同，奶及奶制品所含有的营养物质各有不同。相应地，不同奶制品对人类健康的影响也各不相同[2]。也因此，奶及奶制品的质量和安全研究的重要意义得以凸显。代谢组学可以检测研究对象中的小分子物质，因此是鉴别和定量奶及奶制品中代谢物的极具潜力的技术手段[8,15-18]。由于不同种类奶本身所蕴含的营养和经济价值不同，不同奶畜所产奶的成分也有差异，有些差异还比较大，所以在实际检测过程中需要通过生物标记物来有效地区分出不同奶畜奶间的差异[14]。奶的质量安全问题越来越成为公众的关注点。奶及奶制品中是否含有违禁物质也是检测中重点关注的，靶向代谢组学可以很好的承担这一工作，例如基于NMR分析的代谢组学方法可以准确迅速地鉴定出奶中混入的三聚氰胺[19]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2代谢组学方法在牛奶质量安全中的应用",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1在奶产品加工性能检测中的运用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "原料奶对于乳品行业来说非常重要，因为这会直接影响牛奶的可加工性及后期产品中所蕴含的经济价值。如果原料奶本身可加工性能差，那么基于这类原料奶的奶制品也很难具有高品质的特征[20-21]。欧洲原奶产量的 $40 \\%$ 被用来制作奶酪，而且多用酶凝结法来制作。因此凝乳酶诱导的凝结性能是奶品加工性能的重要指标之一[20]。此外，影响牛奶凝固特征因素还包括物种、品系、季节性以及其本身成分等[20]，而且牛奶在凝固过程中不可避免地涉及到许多生化过程，这些生化改变对于奶品加工工艺来说非常重要。已有的研究表明奶酪制作过程中重要的处理步骤通常包括凝乳酶凝固和脱水收缩凝乳。凝乳酶凝固是酶水解酪蛋白的产生对位 $\\kappa$ 酪蛋白、亲水酪蛋白巨肽(caseinomacropeptide)和糖巨肽（glycomacropeptide)的过程，这一过程依赖于 $\\kappa .$ -酪蛋白分子的糖基化程度[20-21]。这些生化过程涉及到许多中间或是终末代谢物，但究竟有哪些代谢物发生了变化，我们还知之甚少。已有一些研究者在这个研究领域做出来一些有益的探索。Sundekilde 等[17]使用 NMR 方法分析了不同品系奶牛所产的凝固性不同的牛奶代谢轮廓谱，试图找出牛奶代谢产物与其品系及工艺特性间的内在联系。通过分析发现，牛奶代谢物轮廓与奶牛品种和聚沉性质有关，而且牛奶组分中的肉碱和奶糖的变化可作为奶牛品种分类的指标。柠檬酸盐、胆碱、肉碱和奶糖代谢物的变化与奶汁的沉聚性有关。在使用LC-MS/MS 方法对易凝固和不易凝固牛奶的代谢物分析后发现，寡聚糖也是影响牛奶凝固性能的关键因素之一[21]。另外一个影响奶品加工性能的因子是原奶热稳定性。牛奶热加工过程中有时需要超过 $1 3 0 \\mathrm { ~ \\textdegree ~ }$ 的加热条件，这会造成奶品的某些成分的生化变化。加热可能导致蛋白质的凝固，例如乳清蛋白的变性、酪蛋白变性（去磷酸化、K-酪蛋白水解）等[2-23]。代谢组学还可以用来动态分析和监测奶中各成分的变化。 $^ { 3 1 } \\mathrm { P }$ NMR方法可以用来检测超高温瞬时处理超高温瞬时灭菌奶在贮存期间的含磷成分的代谢变化[23]。奶品在生产、加工和贮存中都有可能沾染到微生物，从而造成奶品的腐败变质。重度的微生物学变化可以通过检测气味和颜色的变化来区分，然而有很多情况下，我们很难用普通感官和生化分析去检测一些轻微腐败奶品中的细微发生的生化过程。但是，代谢组学分析可以帮助我们了解这个过程中的代谢物的变化情况。例如，有研究者在牛奶中接种假单胞菌，分析了其中代谢物的变化特征，找到了可以指征腐败的数个代谢产物。这个研究同时也证明了外源性微生物确实会影响到分析结果[24]。因此，此类研究中的样品采集是个问题，因为外源进入的微生物可能会干扰到最后的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2在牛奶营养研究中的运用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "牛奶中营养物质含量高低和组成是生产者和消费者都极为关注的指标[1]。NMR 以其本身具有的对样品破坏小、检测速度快等特征，成为了食品检测领域强有力的检测工具。对比人奶、牛奶和婴儿配方奶粉中代谢物后发现，牛奶代谢物种类明显比人奶和奶粉中要多，而且不同泌乳期的牛奶代谢物含量也有区别[25-26]。人奶和猕猴奶的代谢物对比分析发现，人奶中的寡糖和氨基酸含量比猕猴奶高，而猕猴奶甘油磷酸胆碱、马尿酸、三甲胺-N-氧化物等代谢物含量比人奶中含量高[27]。胆碱是构建肝脏和脑细胞膜磷脂层的重要组分，水溶性乙酰胆碱还是重要的神经递质，在生物体内起到了非常重要的生理功能。在对比人初乳和牛初乳中胆碱含量后发现，人初乳中总胆碱含量要比产后数天所采集的牛奶中低，另外据推测人母乳中胆碱含量可能并不能满足婴儿生长和发育所需，因此需要婴儿配方奶粉中的胆碱能弥补不足[28-29]。其实，胆碱除了可以用 NMR 检测外，亲水作用液相色谱法（hydrophilicinteraction liquid chromatography,HILIC LC-MS/MS）也可以较好检测样品中胆碱及胆碱代谢物，如乙酰胆碱、甜菜碱、甘油磷酸胆碱和溶血磷脂胆碱等。研究发现，磷酸胆碱是奶牛泌乳早期奶中胆碱的主要存在形式，其含量与人奶中接近，但其后呈指数下降。与此相反地是，磷脂酰胆碱是泌乳中期及后期的胆碱主要存在形式，其含量随着泌乳时长的延长而不断增加[30]。磷脂微粒参与到许多生物功能中，并且是细胞膜的关键组分。奶中磷脂参与形成乳脂球蛋白的骨架，并且有益于动物脑的发育，因此磷脂含量也是重要的奶营养评估指标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "奶中不仅含有不同营养成分，而且含有多种元素。例如， $^ { 3 1 } \\mathrm { P }$ NMR可以用来比较不同奶中含磷成分的含量差异[30]。但是现有的奶营养研究大多局限于单个同位素谱系的研究（如$\\mathrm { ^ 1 H }$ 、 $^ { 1 3 } \\mathrm { C }$ 和 $^ { 3 1 } \\mathrm { P }$ NMR 谱)，极少有针对多个同位素谱 NMR同时开展的代谢组学的研究。例如奶中脂类代谢组可以采用 $^ 1 \\mathrm { H }$ NMR方法，这种方法敏感而且也可以快速获得结果，但就脂类的定性和定量来说， $^ { 1 3 } \\mathrm { C }$ NMR 更为合适，因其能够获得更多的信息[31-32]。由此看来，需要更多的开展多个同位素谱NMR，乃至是与质谱结合的研究工作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3在奶及奶制品标记物中的运用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "牛奶占据了世界奶类产量的绝大部分比重，但仍有一些小品种奶畜所产奶为营养学界所推崇，例如水牛奶、牦牛奶、骆驼奶和马奶等。这些种类的奶可作为功能食品，起到促进健康、预防疾病的作用[33]。由于营养价值高、经济价值可观，在利益的驱使下，常有不法商人用别种奶掺假或冒充小品种奶畜所产奶的行为出现，而仅从感官或是普通的检测手段又很难区分样品中是否混有别种奶或者为别种奶假冒，这给监管造成了极大的困难。因此，亟待发展出快速准确的技术手段来找出不同奶畜奶的生物标记物[34]。牛奶中的代谢产物是乳腺上皮细胞、外周血和微生物基因表达的最终产物的综合体现，因此奶中代谢物谱往往会带有物种的特征。NMR可以用来帮助鉴别不同奶牛品系（丹麦、荷斯坦和泽西）奶牛奶中代谢物差异，而且这些代谢物中所含的肉碱、胆碱和柠檬酸可以作为潜在的生物标记物来进行品系鉴定[27-29]。GC-MS 分析表明缬氨酸和甘氨酸可以作为特定代谢标记物，用在牛奶和在山羊奶的区分中[35]。LC-MS 和 NMR 联用可以有效区分牛奶、羊奶、水牛奶、牦牛奶、骆驼奶和马奶。对比发现，荷斯坦牛奶分别与娟珊牛奶、水牛奶、牦牛奶、山羊奶、骆驼奶和马奶间有着68、74、54、58、77和91个代谢物的差异。此外，荷斯坦牛奶中乳酸、乙酸胆碱、丁二酸和丙酮酸的含量显著高于其他动物奶，但荷斯坦牛奶中肉碱、尿苷和焦谷氨酸含量则低于显著高于其他种类奶[14]。“乳糖不耐”和“乳类过敏”人群可以饮用脱奶糖奶品或者以大豆、燕麦和谷物为基料制成的代乳食品。 $\\mathrm { ^ 1 H }$ NMR 可以用来检测无乳糖饮料（含乳糖奶、脱乳糖奶以及大豆、燕麦和谷物为基料的代乳食品）的品质。以烟碱作为内标物可以定量分析乳糖含量，从而实现对无乳糖饮料的检测。因此，NMR适合对奶及代乳食品进行快速分析[36]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，不同产地原料奶所制作的奶制品往往蕴含着不同的社会文化和经济价值，而随着城市化进程的加快，运输工具的进步以及人类活动距离的扩大，即使是地方性食品，也可以在远离产地的地区购买到，那么这些食品是否道地？品质是否和产地所售商品质量一致？这些疑问都需要解答。因此需要有快速可靠的技术手段来加以鉴定和检测。Sacco等[37]联合使用 NMR、高效离子色谱（HPIC）、电感耦合等离子体原子发射光谱（ICP-AES）、同位素比值质谱（IRMS）和化学计量学方法来区分意大利南部采集奶与中东欧地区采集奶中代谢成分的差异，结果发现，中东欧地区奶中乳糖含量要显著高于意大利南部所采集的奶。在将NMR 和 IRMS 所得数据整合分析后发现，不同产地奶中代谢物区分特征明显。氢谱高分辨魔角旋转核磁共振-核磁共振联用（ $\\mathrm { ^ { 1 } H }$ HRMAS-NMR）可以用来评估马苏里拉奶酪品质，还可以用来追溯此种奶酪是否为坎帕尼亚水牛奶所制作。代谢组学和微生物学整合分析表明，水牛奶所制作马苏里拉奶酪中微生物多样性高，但是嗜冷菌多样性低。牛奶嗜热细菌（Streptococcus thermophilus）和更高水平的半乳糖和苯丙氨酸含量。此外发现乳清酸是唯一的与物种区分有关的奶代谢产物[38]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3代谢组学方法在奶牛（代谢）疾病和热应激监测中的运用",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "泌乳早期会出现能量负平衡代谢，摄食量不足是其中最为关键的影响因素。已有的研究多从血液生化及生理角度去研究泌乳早期的负能量平衡代谢特征，但这类研究很难全面地理解泌乳早期的负能量平衡代谢特征[18.26],但代谢组学却可以从系统生物学的高度去理解这个生理时期动物的代谢特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Klein 等[2通过NMR 和MS 检测泌乳初期和晚期牛奶代谢产物，目的是鉴定奶成分和奶牛代谢状态之间的关系。结果表明丙酮和 ${ \\mathfrak { \\beta } }$ -羟基丁酸与泌乳早期乳腺代谢状态密切相关。NMR分析表明,除了牛奶中 $\\beta$ -羟基丁酸和乙酰乙酸可以作为急性酮症检测的生物标志物外，泌乳第1个月牛奶中甘油磷酸胆碱和磷酸胆碱比例也可以作为酮病预后健康评估的潜在标记物，同时动物育种中也可以使用这些指标来定向选择代谢稳定的动物作为亲体[39-40]。此外，葡萄糖、丙酮酸、乳酸和丙氨酸在负能量平衡奶牛血浆中浓度也显著下降，这与 $\\beta$ 羟基丁酸含量超过隐性酮病的限量参考值表明了食物已经不能满足机体葡萄糖的需求，需要依靠酮体作为能量来源。血浆甘氨酸的随之增加不仅反映了蛋白质储备的过度消耗，也同时预示了机体未来可能会缺乏维生素 $\\mathbf { B 6 } ^ { [ 4 1 - 4 2 ] }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "奶牛产后的泌乳高峰期由于摄食量不能满足因泌乳失去的能量，不可避免的要动员体脂来补充能量不足。目前的研究表明奶牛主要动用脂肪组织中甘油三酯来弥补不足，其进一步酯解得到的非酯化脂肪酸可以直接作为代谢燃料来弥补糖代谢燃料的不足。虽然对这个替代途径的内在机理已经有所研究，但大多是从单一代谢物的角度去开展研究，其中涉及的整体代谢途径和代谢规律我们仍不清楚[18,26]。基于高效液相色谱-电喷雾串联质谱（ESI-LC-MS/MS）技术的靶向代谢组学可以获得更多的代谢产物信息，因此可以给出一个更全面的关于泌乳早期奶牛过度酯解的代谢规律[41]。肝脏内极低密度脂蛋白(very lowdensity lipoprotein)合成途径中涉及的磷脂酰胆碱类是脂类代谢的一类关键代谢物。脂肪代谢组学分析表明高酯解动物出现脂肪过度分解，胰岛素敏感性受损和酰基肉碱变化的特征。在这些代谢通路中共鉴定出了37种关键代谢物，其中涉及到的鞘磷脂，磷脂、溶血磷脂等脂类代谢物[41,43]。然而，以上的研究局限在奶牛中，亟待开展其他小品种奶畜中的工作，这样可以获得更多关于家畜负能量平衡中机体代谢调整的信息[32.41]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "奶牛乳腺炎不仅涉及受感染的奶牛的健康和福利问题，同时，治疗中所使用的药物在牛奶中也可能有所残留，这也是牛奶质量安全的威胁因素[43]。因此，寻找奶牛乳腺炎生物标志物的研究工作就显得极为重要。有研究表明结合珠蛋白、血清淀粉样蛋白A 和三磷酸腺苷酶可以作为乳腺炎的标记物[43]。然而，这类研究都局限于单个或是几个代谢物的相关研究。乳腺炎在其发生和发展过程中涉及到很多代谢过程，代谢产物包括多种内源性和外源性化学分子如多肽、氨基酸、核酸、糖类、有机酸、维生素、茶多酚、生物碱等等，因此很难从少量的信息去全面系统认识乳腺炎的发生和发展。质谱和NMR技术使我们可以监测代谢过程的众多代谢物质[44]。前列腺素是乳腺炎相关的炎症过程的重要介质。在对其相关代谢途径中代谢物监测后发现，感染病菌的动物所产奶中血栓素 A2，前列腺素 E2以及牛奶前列环素等花生四烯酸代谢产物含量增加。这些代谢物的浓度增加，表明它们在大肠杆菌释放致炎症因子引起乳房炎炎症反应的病理生理过程中起到了重要介导作用[45]。Hettinga 等[46]使用GC-MS方法发现了患乳房炎奶牛与健康个体所产奶中的乙酸乙酯和乙酸等挥发性代谢物含量存在显著差异。这个研究也证明了通过奶中代谢物谱的检测可以追溯动物的健康状况。其后的研究表明这些挥发性代谢产物主要由病原菌诱导形成，而且这些代谢产物是由牛血液中酯酶所形成的。此外，因为在患乳腺炎动物所产奶中检测到酯酶，这表明患乳腺炎动物血液和乳腺之间的屏障泄漏程度增加，这可能就是酯酶参与代谢的物质被大量检测到的原因[47]。然而，也有研究表明处于代谢改变中的奶牛血液和奶代谢组学参数间联系还有不同的结果[39,43]。因此需要更多的工作来阐明不同体液在不同生理或病理状态下的代谢组学特征",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "间的区别和联系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "奶牛常在夏季高温天气出现“热应激”症状。这会损害动物健康，降低牛奶产量和品质，导致巨大经济损失。然而，传统的利用温湿度指数等指标来确定奶牛是否处于热应激状态的方法虽然简便，但并不准确。此外，奶牛热应激发生的生理机理目前仍不清楚，热应激生理状态的代谢标记物也不明确[1]。基于LC-MS 的血浆靶向代谢组学检测表明，热应激造成了泌乳奶牛血浆出现了41种热应激代谢标记物。其中的13种代谢物，包括三甲胺、葡萄糖、乳酸、甜菜碱、肌酸、丙酮酸、乙酰乙酸乙酯、丙酮、 ${ \\mathfrak { \\beta } }$ 羟丁酸、C16 鞘氨醇、溶血磷脂酰胆碱、磷脂酰胆碱和花生四烯酸，在诊断热应激状态时有较高的敏感性和特异性，这些物质可能是诊断奶牛是否处于热应激状态的潜在生物标记物。此外，这些潜在的诊断标记物也参与碳水化合物、氨基酸、脂类以及肠道微生物来源的代谢途径，表明了热应激影响奶牛的各类代谢途径[48]。Tian 等[15-16]比较和整合分析了热应激和非热应激条件下牛奶样品所测定的LC-MS 和NMR数据后，发现了53个可用于热应激诊断的生物标记物。它们分别参与了机体碳水化合物、氨基酸、脂类以及肠道微生物的代谢途径。在与已有的研究结果比较后发现，热应激前后，乳酸、丙酮酸、肌酸、丙酮、 $\\beta$ -羟基丁酸、三甲胺、油酸、亚油酸磷脂酰胆碱和卵磷脂在牛奶和血浆中存在显著相关性，这提示了热应激使得血-奶屏障通透性增强。关于热应激奶代谢组学的研究已经取得一些进展，但以上的研究也只是筛查了热应激变化后在不同体液中的代谢物变化。因此，需要进一步的实验来验证这些标记物是否确实可以起到指征处于热应激状态中机体代谢变化的作用。另外，还需要研究来阐明不同动物类群和不同检测样品间的热应激代谢标记物的异同。最后，要在实际应用中评估这些生物标志物的可靠性，并尽可能地阐明生物标志物引起的后续效应的生理机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4小结与展望 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "代谢组学从被广泛认可为一门学科至今不到二十年时间，因此是一门新兴的学科。作为一种具备高通量、高灵敏度、高精确度特点的现代分析技术，在诸多领域得到了大量应用，其研究思想也已经取得了巨大的进步和成功，但是仍存在许多不足之处。例如，由于没有标准数据库作为参考，基于NMR 和LC-MS 方法的代谢物鉴定还比较困难；样品的前处理方法和上样基质也不尽相同，这也导致了不同研究结果间的可比性较差。其次，由于代谢物种类、结构和组成复杂，单一检测方法很难做到全面检测。最后也是最重要的不足在于目前还缺乏由代谢组学方法延伸出的并且成熟的研究思想，因此很难用代谢组学去阐明一些基本的科学问题。然而，不可否认的是，系统生物学的研究思想驱动着实验方法和分析技术的不断进步，使得我们有机会从亚细胞、细胞、组织、器官和生物整体等不同层次全面了解生命的内涵。传统的动物营养研究通常依据少数指标及其间关联来讨论问题，无法全面反映机体代谢规律，同时也很难做到动态监测。这些传统方法不足之处正好是代谢组学的长处，它能测定与生物体有关的大量小分子代谢产物，依据这些数据得到的代谢图谱可以反映生理或病理状态的全貌，提供了动物代谢调控机制的更全面的信息。因此，代谢组学正在日益成为动物营养研究的重要系统性方法。此外，随着经济和社会的高速发展、人民生活水平的不断提高，动物产品质量安全得到了越来越高的关注度。代谢组学可以全面分析奶品成分和组成，不论是在代谢指纹分析，还是在代谢轮廓分析方面都有着其他检验方法所不具备的优势，因此在奶品质量安全研究和监测领域也有着良好的应用前景。综上所述，代谢组学本身同时具备的宏观高通量和微观检测的特征能够帮助我们更加全面了解和掌握奶牛营养、健康状况、乳品质量、乳品加工性能以及奶品安全等信息。代谢组学检测手段和数据分析方法的不断进步和完善，以及代谢组学与其他组学方法的融合及整合，都将为以奶牛养殖为代表的畜牧业发展提供更大的智力支持。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]MILLER G D,JARVIS J K,MCBEAN L D.Handbook of dairy foods and nutrition[M].3rd ed.Boca Raton:CRC Press,2007.   \n[2]VISIOLI F,STRATA A.Milk,dairy products,and their functional effects in humans:a narrative review of recent evidence[J].Advances in Nutrition,2014,5(2):131-143.   \n[3]AULDIST M J,HUBBLE I B.Effects of mastitis on raw milk and dairy products[J].Australian Journal of Dairy Technology,1998,53(1):28-36.   \n[4]ELGERSMA A,TAMMINGA S,ELLENG.Modifyingmilkcompositionthrough forage[J].Animal Feed Science and Technology,2006,131(3/4):207-225.   \n[5]ARNOULD V M R,SOYEURT H.Genetic variability of milk faty acids[J].Journal of Applied Genetics,2009,50(1):29-39.   \n[6] GARNSWORTHY P C,MASSON L L,LOCK A L,et al.Variation of milk citrate with stage of lactationanddenovofattacidsynthesisindairycows[J].JournalofDairy Science,2006,89(5):1604-1612.   \n[7]HECK J M L,VAN VAN VALENBERG H J F,DIJKSTRA J,et al.Seasonal variation in the Dutch bovine raw milk composition[J].Journal of Dairy Science,2009,92(10):4745-4755.   \n[8]NICHOLSON J K,WILSON I D.Understanding 'global' systems biology:metabonomics and the continuum of metabolism[J].Nature Reviews Drug Discovery,2003,2(8):668-676.   \n[9]BIONAZ M,LOOR J J.Gene networks driving bovine milk fat synthesis during the lactation cycle[J].BMC Genomics,2008,9(1):366.   \n[10]FIEHN O.Metabolomics-the link between genotypes and phenotypes[J].Plant Molecular Biology,2002,48(1/2):155-171.   \n[11] ALLAWAY D,KAMLAGE B,GILHAM M,et al.Effects of dietary glucose supplementation on the fasted plasma metabolome in cats and dogs[J].Metabolomics,2013,9(5):1096-1108. [12] WISHART D S,KNOX C,GUO A C,et al.HMDB:a knowledgebase for the human metabolome[J].Nucleic Acids Reserch,2009,37(S1):D603-D610.   \n[13] TANG H R,XIAO CN,WANG Y L.Important rolesofthehyphenated HPLC-DAD-MS-SPE-NMRtechniqueinmetabonomics[J].MagneticResonance in Chemistry,2009,47(S1):S157-S162.   \n[14] YANG Y X,ZHENG N,ZHAO X W,et al.Metabolomic biomarkers identify differences in milkproducedby Holsteincowsandotherminordairyanimals[J].Journalof Proteomics,2016,136:174-182.   \n[15] TIAN H,WANG J Q,ZHANG Y D,et al.Quantitative multiresidue analysis of antibiotics in milk and milk powder by ultra-performance liquid chromatography coupled to tandem quadrupole mass spectrometry[J].Journal of Chromatography B,2016,1033-1034:172-179.   \n[16] TIAN H,ZHENG N,WANG W Y,et al.Integrated metabolomics study of the milk of heat-stressed lactating dairy cows[J].Scientific Reports,2016,6:24208.   \n[17] SUNDEKILDE U K,GUSTAVSSON F,POULSEN N A,et al.Association between the bovine milk metabolome and rennet-induced coagulation properties of milk[J].Journal of Dairy Science,2014,97(10):6076-6084.   \n[18] LU J,FERNANDES E A,CANO A E P,et al.Changes in milk proteome and metabolome associated with dry period length,energy balance,and lactation stage in postparturient dairy cows[J].Journal of Proteome Reserch,2013,12(7):3288-3296.   \n[19]LACHENMEIER D W,HUMPFER E,FANG F,et al.NMR-spectroscopy for nontargeted screening and simultaneous quantification of health-relevant compounds in foods:the example of melamine[J].Journal of Agricultural and Food Chemistry,2009,57(16):7194-7199.   \n[20] BITTANTE G,PENASA M,CECCHINATO A.Invited review:genetics and modeling of milk coagulation properties[J].Journal of Dairy Science,2012,95(12):6843-6870.   \n[21] HARZIA H,KILK K,JOUDU I,et al.Comparison of the metabolic profiles of noncoagulating and coagulating bovine milk[J].Journal of Dairy Science,2012,95(2):533-540.   \n[22] SUNDEKILDE U K,FREDERIKSEN P D,CLAUSEN M R,et al.Relationship between the metabolite profile and technological properties of bovine milk from two dairy breeds elucidated by NMR-based metabolomics[J].Journal of Agricultural and Food Chemistry,2011,59(13):7360-7367.   \n[23] VALERO E,VILLAMIEL M,MIRALLESB,et al.Changesin flavourand volatile components during storage of wholeand skimmed UHTmilk[J].Food Chemistry,2001,72(1):51-58.   \n[24] BELLOQUE J,CARRASCOSA A V,LOPEZ-FANDINO R.Changes in phosphoglyceride composition during storage of ultrahigh-temperature milk,as assessed by $^ { 3 1 } \\mathrm { P }$ -nuclear magnetic resonance:possible involvement of thermoresistant microbial enzymes[J].Journal of Food Protection,2001,64:850-855.   \n[25] MARINCOLA F C,NOTO A,CABONI P,et al.A metabolomic study of preterm human and formula milk by high resolution NMR and GC/MS analysis:preliminary results[J].The Journal of Maternal-Fetal & Neonatal Medicine,2012,25(S5):62-67.   \n[26] KLEIN M S,ALMSTETTER M F,SCHLAMBERGER G,et al.Nuclear magnetic resonance and mass spectrometry-based milk metabolomics in dairy cows during early and late lactation[J].Journal of Dairy Science,2010,93(4):1539-1550.   \n[27] O'SULLIVAN A,HE X,MCNIVEN E M S,et al.Metabolomic phenotyping validates the infant rhesus monkey as a model of human infant metabolism[J].Journal of Pediatric Gastroenterology and Nutrition,2013,56(4):355-363.   \n[28] PINOTTI L,BALDI A,DELL'ORTO V.Comparative mammalian choline metabolism with emphasis on the high-yielding dairy cow[J].Nutrition Research Reviews,2002,15(2):315-331. [29] HOLMES H C,SNODGRASS G JA I,ILES R A.Changes in the choline content of human breast milk in the first 3 weeks after birth[J].European Journal of Pediatrics,20o0,159(3):198-204. [30] ARTEGOITIA V M,MIDDLETON J L,HARTE F M,et al.Choline and choline metabolite paterns and associations in blood and milk during lactation in dairy cows[J].PLoS One,2014,9(8):e103412.   \n[31] GARCIA C,LUTZ N W,CONFORT-GOUNY S,et al.Phospholipid fingerprints of milk from different mammalians determined by $^ { 3 1 } \\mathrm { P }$ NMR:towards specific interest in human health[J].Food Chemistry,2012,135(3):1777-1783.   \n[32] MAHERAD,ROCHFORTSJ.ApplicationsofNMR in dairy research[J].Metabolites,2014,4(1):131-141.   \n[33] LAMANNA R,PISCIONERI I,ROMANELLI V,et al.A preliminary study of soft cheese degradation in diffrent packaging conditionsby ${ } ^ { 1 } \\mathrm { H } \\cdot$ NMR[J].Magnetic Resonancein Chemistry,2008,46(9):828-831.   \n[34] BOUDONCK K J,MITCHELL M W,WULFF J,et al.Characterization of the biochemical variability of bovine milk using metabolomics[J].Metabolomics,2009,5(4):375-386.   \n[35] SCANO P,MURGIA A,PIRISI F M,et al.A gas chromatography-mass spectrometry-based metabolomic approach for the characterization of goat milk compared with cow milk[J].Journal of Dairy Science,2014,97(10):6057-6066.   \n[36] MONAKHOVA Y,KUBALLA T,LEITZ J,et al.NMR spectroscopy as a screening tool to validate nutrition labeling of milk,lactose-free milk,and milk substitutes based on soy and grains[J].Dairy Science & Technology,2012,92(2):109-120. [37] SACCO D,BRESCIA M A,SGARAMELLA A,et al.Discrimination between Southern Italy and foreignmilksamplesusingspectroscopicandanalyticaldata[J].Food Chemistry,2009,114(4):1559-1563.   \n[38] PISANO M B,SCANO P,MURGIA A,et al.Metabolomics and microbiological profile of Italian mozzarellacheeseproducedwith buffalo and cow milk[J].Food Chemistry,2016,192:618-624.   \n[39] KLEIN M S,ALMSTETTER M F,NURNBERGER N,et al.Correlations between milk and plasma levels of amino and carboxylic acids in dairy cows[J] .Journal of Proteome Reserch,2013,12(11):5223-5232.   \n[40] KLEIN M S,BUTTCHEREIT N,MIEMCZYK S P,et al.NMR metabolomic analysis of dairy cows reveals milk glycerophosphocholine to phosphocholine ratio as prognostic biomarker for risk of ketosis[J].Journal of Proteome Reserch,2012,11(2):1373-1381.   \n[41] HUMER E,KHOL-PARISINI A,METZLER-ZEBELI B U,et al.Alterations of the lipid metabolome in dairy cowsexperiencing excessve lipolysisearly postpartum[J].PLoS One,2016,11(7):e0158633.   \n[42] SHARMA N,MAITI S K,ROY S.Role of Vitamin E in the control of mastitis in dairy cows[J].Veterinary Practitioner,2003,4(2):140-143.   \n[43] GRONLUND U,JOHANNISSON A,WALLER P K.Changes in blood and milk lymphocyte sub-populations during acute and chronic phases of Staphylococcus aureus induced bovine mastitis[J].Research in Veterinary Science,2006,80(2):147-154   \n[44] WISHART D S.Quantitative metabolomics using NMR[J].TrAC Trends in Analytical Chemistry,2008,27(3):228-237.   \n[45] PETER A T,CLARK P W,VAN ROEKEL D E,et al.Temporal changes in metabolites of prostanoidsin milk ofheifersafterintramammaryinfusion of Escherichiabarcoli organisms[J].Prostaglandins,1990,39(4):451-457.   \n[46] HETTINGA K A,VAN VALENBERG H J F,LAM T JG M,et al.Detection of mastitis pathogens by analysis of volatile bacterial metabolites[J].Journal of Dairy ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Science,2008,91(10):3834-3839. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[47] RAULO S M,SORSA T,TERVAHARTIALA T,et al.Increase in milk metalloproteinase activity and vascular permeability in bovine endotoxin-induced and naturally occurring Escherichia coli mastitis[J].Veterinary Immunology and Immunopathology,2002,85(3/4):137-145. [48] TIAN H,WANG W Y,ZHENG N,et al.Identification of diagnostic biomarkers and metabolic pathway shifts of heat-stressed lactating dairy cows[J].Journal of Proteomics,2015,125:17-28. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Research Progress on Metabolomics Application in Dairy Cow Nutrition and Milk Quality and Safety ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "WANG Qian1,2 ZHANG Yangdong1,2,3\\* ZHENG Nan1,2.3 LI Songli1,2.3 WEN Fang1,2.3 ZHAO Shengguo1,2.3 WANG Jiaqi1,2,3   \n(1. State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Sciences,Beijing 100193, China; 2.Laboratory ofQuality and Safety Risk   \nAssessment for Dairy Products of Ministry of Agriculture (Beijing), Institute of Animal Science,   \nChinese Academy ofAgricultural Sciences, Beijing 100193, China; 3. Milk and Milk Products Inspection Center of Ministry of Agriculture (Beijing), Institute of Animal Science, Chinese Academy ofAgricultural Sciences,Beijing100193, China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstracts: Metabolomics can detect changes of metabolites with trait of low molecular weight (usually less than $\\mathrm { ~ 1 ~ 0 0 0 ~ u ~ }$ ).Based on this, it can be used to study the constituents and variation of the metabolites produced by stimulation of pathological and physiological infectors or gene change. It is a new subject that is developing in the post-genomic era,and is an important part of system biology. At present, it has been widely used in physiology， pathology， pharmacology, animal science, zoology, botany and other fields, but the researches on cow nutrition and milk safety and quality are still relatively less. Starting from basic concept, ideas and methods of metabolomics firstly, this article overviewed the current research on dairy cows’ nutrition, disease, heat stress,milk quality and milk products safety by application of metabolomics. ",
+        "page_idx": 15
+    }
+]

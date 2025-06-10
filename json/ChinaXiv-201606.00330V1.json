@@ -1,0 +1,617 @@
+[
+    {
+        "type": "text",
+        "text": "Towards the fate of natural composite Higgs model through single $t ^ { \\prime }$ search at the 8 TeV LHC ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jinmian Li,α Da Liu,α Jing Shua ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $a$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Chinese Academy of Sciences,Beijing 100190, People's Republic of China.1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: We analyze the observational potential of single $t ^ { \\prime }$ production in both the $t ^ { \\prime } \\to b W$ and $t ^ { \\prime } \\to t h$ decay channels at 8 TeV LHC using an integrated luminosity of $\\mathrm { 2 5 ~ f b ^ { - 1 } }$ . Our analysis is based on a simplified model with minimal coset $S O ( 5 ) / S O ( 4 )$ in which the $t ^ { \\prime }$ is a singlet of the unbroken $S O ( 4 )$ . The single $t ^ { \\prime }$ production, as a consequence of electroweak symmetry breaking, is less kinematically suppressed, associated with a light forward jet and has boosted decay products at the 8 TeV LHC. Therefore it provides the most promising channel in searching for a heavy $t ^ { \\prime }$ .We have exploited the above kinematical features and used the jet substructure method to reconstruct the boosted Higgs in $^ { t h }$ decay channel. It is shown that a strong constraint on the $t ^ { \\prime } b W$ coupling $( g _ { t ^ { \\prime } b W } / g _ { t b W , S M } < 0 . 2 \\sim 0 . 3 )$ at the $9 5 \\%$ （204号 C.L.can be obtained for $m _ { t ^ { \\prime } } \\subset ( 7 0 0 , 1 0 0 0 )$ GeV. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Introduction 1 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Simplified model based on $S O ( 5 ) / S O ( 4 )$ 3 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 The single $t ^ { \\prime }$ production 7 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4Event generation and analysis 8 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1bW decay channel 8   \n4.2th decay channel 10 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5 Summary 17 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The discovery of a 125 GeV Higgs-like boson last year at the Large Hadron Collider motivates us to reconsider the origin of electroweak symmetry breaking (EWSB) in the next few decades. One long related outstanding question is the naturalness problem: why we have such a dramatic cancellation on the radiative Higgs effective potential which sensitively depends on the ultraviolet physics. Popular models have been proposed and different solutions can be categorized simply based on the objects which cancel the largest Higgs radiative corrections from the Standard Model (SM) top quark. Light scalar particles (stops) would be essential for natural supersymmetry scenario while vector-like quarks with their contributions from higher dimensional operators would appear in composite Higgs models (CHMs). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The second solution, the existence of vector-like quarks, is related to another historical question that why should we only have three generations of fermions. Another chiral quark which is an exact copy of light generation, is highly constrained by indirect searches like electroweak precision test [1-3], Higgs production and decay [4-8]. Vector-like quarks 1, nevertheless, are very weakly constrained from the above measurements because their contributions are suppressed by the large vector masses. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "More recently, an interesting observation has been made in the context of CHMs on the vector-like quark masses [9-15]. If the EWSB is triggered by the radiative Higgs potential from the top quark which mixes linearly with the composite operator that consists of vectorlike quarks,there is a upper bound for the lightest vector-like quark for a l25 GeV composite Higgs for fixed $\\xi$ (roughly $< ~ 9 0 0$ GeV for $\\xi ~ = ~ 0 . 1$ ). This provide a very complimentary approach to test CHMs besides the Higgs coupling deviations which depends on $\\xi = v ^ { 2 } / f ^ { 2 }$ at the leading order. Therefore,the genuine smoking gun of CHMs is not only the deviation of composite Higgs couplings from SM ones,but also the existence of light vector-like quarks 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "If the lightest vector-like quark is a mixture of top quark and a $S O ( 4 )$ singlet, then its charge is $2 / 3$ and serves as a $t ^ { \\prime }$ particle. Unlike a chiral $t ^ { \\prime }$ which primarily decays into $b W ^ { + }$ ， the vector $t ^ { \\prime }$ has large flavor changing neutral couplings to Higgs and $Z$ boson and its decay branching ratio into $b W ^ { + }$ ， $^ { t h }$ and $t Z$ is $2 : 1 : 1$ in the Goldstone equivalence limit ( $m _ { t ^ { \\prime } } \\to \\infty$ ） Therefore, a comprehensive study combing all the decay channels or at least two would be helpful to get either a strong constraint or a hint for discovery. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The pair production of top partners at the LHC has been searched at CMS which sets the $t ^ { \\prime }$ mass bound of 570 GeV or 625 GeV at 95% confdence level (C.L.） assuming purely $b W$ or $t Z$ decay [18,19], while at ATLAS,the bound is 656 GeV at 95% CL for pure $b W$ decay channel [2O]. The discovery of Higgs-like boson has made the $^ { t h }$ decay channel promising and it has been considered in the multi-b jet final state [21-23]. A lower bound of 640 GeV was recently set on the $t ^ { \\prime }$ mass [24] at ATLAS using high multiplicity of $b$ jets of this channel with at least one Higgs boson decaying into $b b$ . Other channels using the muti-b jets final states in stop decay $\\tilde { t }  t h \\tilde { \\chi }$ [25] and $t ^ { \\prime } \\to h ^ { + } b$ [26] have also been investigated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We notice however， for 8 TeV LHC,search for heavy $t ^ { \\prime }$ ( $>$ 600 GeV） from the single production via electroweak couplings could be more promising than the pair production via QCD. First, the single production is less kinematically suppressed by the large $t ^ { \\prime }$ mass. Second, the extra jet from splitting of a valence quark with one $W$ emission always has a strong forward nature. Third, the next decay products from heavy $t ^ { \\prime }$ has a large space separation where the further decay products are highly collimated. With all those features,we expect to have a large signal to backgrounds ratio in the $t ^ { \\prime }$ single production channel. Therefore,in this paper we study the observability of a single $t ^ { \\prime }$ production at 8 TeV LHC combing both the $b W$ and $^ { t h }$ decay channels. The $t Z$ channel has either small number of events in the $Z$ （204号 di-lepton decay channel or large backgrounds in the $Z$ hadronic decay channel. For th decay channel, jet substructure method is applied to reconstruct the hadronically decaying Higgs boson because of its moderately boost in the relatively high mass region of the $t ^ { \\prime }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "of the simplified model, in a similar fashion as [27]. In Section 3 we discuss the single $t ^ { \\prime }$ （204号 production at the 8 TeV LHC and its decay channels that we consider in this paper. In Section 4 we turn to study the prospects of observing the single $t ^ { \\prime }$ production by performing a detailed analysis of the signal and backgrounds in each channel. We conclude and give a outlook in Section 5. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 Simplified model based on $S O ( 5 ) / S O ( 4 )$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Following [27],we consider a simplified composite Higgs model based on $S O ( 5 ) / S O ( 4 )$ ,where the right-handed top quark $t _ { R }$ belongs to the singlet of $S O ( 4 )$ in the strongly interacting sector. Top Yukawa is generated by the linearly coupling between $q _ { L } = ( t _ { L } , b _ { L } ) ^ { T }$ and the composite operators, according to the partial compositeness scenario [28]. The composite top partners can be either in the fourplet or singlet of the unbroken $S O ( 4 )$ .While the lightest top partner from the fourplet is the exotic charge $5 / 3$ ，we focus on the singlet case as the possible lightest top partner with charge $2 / 3$ ， $t ^ { \\prime }$ . The SM elementary fields are embedded as fundamental representation of $S O ( 5 )$ $\\xi _ { L }$ ， which formally transforms as $\\xi _ { L }  g \\xi _ { L }$ under （204号 $g \\in S O ( 5 )$ in the spurion language: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi = \\left( \\begin{array} { c } { { 0 } } \\\\ { { 0 } } \\\\ { { 0 } } \\\\ { { 0 } } \\\\ { { 0 } } \\\\ { { t ^ { \\prime } } } \\\\ { { \\frac { 2 } { 3 } } } \\end{array} \\right) , \\qquad \\xi _ { L } = \\frac { 1 } { \\sqrt { 2 } } \\left( \\begin{array} { c } { { i b _ { L } } } \\\\ { { b _ { L } } } \\\\ { { i t _ { L } } } \\\\ { { - t _ { L } } } \\\\ { { 0 } } \\end{array} \\right) _ { \\frac { 2 } { 3 } } , \\qquad \\xi _ { R } = \\left( \\begin{array} { c } { { 0 } } \\\\ { { 0 } } \\\\ { { 0 } } \\\\ { { 0 } } \\\\ { { t _ { R } } } \\end{array} \\right) _ { \\frac { 2 } { 3 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $2 / 3$ is $U ( 1 ) _ { X }$ charge in order to reproduce the right electric charge of the SM felds （204号 $Q = T ^ { 3 L } + T ^ { 3 R } + X$ ， $T ^ { 3 ( L , R ) }$ are the third $S O ( 4 ) \\simeq \\mathrm { S U } ( 2 ) _ { L } \\times \\mathrm { S U } ( 2 ) _ { R }$ unbroken generators. The above way of embedding is not the unique way but can simply protect the tree level $Z b _ { L } b _ { L }$ vertex [29]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on Callan- Coleman-Wess-Zumino (CCWZ) construction [30], the general effective Lagrangian formally invariant under $S O ( 5 ) \\times U ( 1 ) _ { X }$ to the leading order is: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { \\mathcal { L } = \\bar { q } _ { L } i D / q _ { L } + \\bar { t } _ { R } i D / t _ { R } + \\bar { \\Psi } i D / \\Psi - M _ { \\Psi } \\bar { \\Psi } \\Psi } } \\\\ { { } } & { { } } & { { } } \\\\ { { } } & { { } } & { { + \\ \\epsilon _ { q t ^ { \\prime } } \\bar { \\xi } _ { L } U \\Psi _ { R } + \\epsilon _ { q t } \\bar { \\xi } _ { L } U \\xi _ { R } + h . c . . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $U$ is the Goldstone boson $5 \\times 5$ matrix, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU = \\mathrm { e x p } ( i \\frac { \\sqrt { 2 } } { f } h ^ { \\hat { a } } T ^ { \\hat { a } } ) = \\left( \\begin{array} { c c } { { { \\bf 1 } _ { 4 \\times 4 } - \\frac { \\vec { h } \\vec { h } ^ { T } } { h ^ { 2 } } ( 1 - \\cos \\frac { h } { f } ) ~ \\frac { \\vec { h } } { h } \\sin \\frac { h } { f } } } \\\\ { { - \\frac { \\vec { h } ^ { T } } { h } \\sin \\frac { h } { f } } } & { { \\cos \\frac { h } { f } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and takes a simple form in unitary gauge: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU = \\left( \\begin{array} { c c c } { { 1 0 0 } } & { { 0 } } & { { 0 } } \\\\ { { 0 1 0 } } & { { 0 } } & { { 0 } } \\\\ { { 0 0 1 } } & { { 0 } } & { { 0 } } \\\\ { { 0 0 0 } } & { { \\cos { \\frac { h } { f } } } } & { { \\sin { \\frac { h } { f } } } } \\\\ { { 0 0 0 } } & { { 0 } } & { { - \\mathrm { s i n } { \\frac { h } { f } } \\mathrm { c o s } { \\frac { h } { f } } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where we have used the same notation h for $\\sqrt { h ^ { \\hat { a } } h ^ { \\hat { a } } }$ in eq. (2.3) and for the physical Higgs field in eq. (2.4). Note that the elementary-composite interactions of eq. (2.2) break the $S O ( 5 )$ explicitly and will contribute to the Higgs potential. We have neglected the direct mixing term among $t _ { R }$ and $t _ { R } ^ { \\prime }$ which can be removed by a field redefinition. There are three parameters $( \\epsilon _ { q t ^ { \\prime } } , \\epsilon _ { q t } , M _ { \\Psi } )$ in addition to the decay constant $f$ in Goldstone matrix and all of them can be made real by phase rotation of the chiral fields. After EWSB,the first term in the second line will induce a mass mixing between the top quark and the $t ^ { \\prime }$ and the mass matrix in the basis $( t , t ^ { \\prime } )$ is simple: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\bar { t } _ { L } \\ \\bar { t ^ { \\prime } } _ { L } \\right) \\left( { \\textstyle \\frac { \\epsilon _ { q t } } { \\sqrt { 2 } } } \\sqrt { \\xi } \\ { \\textstyle \\frac { \\epsilon _ { q t ^ { \\prime } } } { \\sqrt { 2 } } } \\sqrt { \\xi } \\right) \\left( { t _ { R } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { \\xi = \\sin ^ { 2 } \\frac { < h > } { f } = ( \\frac { v } { f } ) ^ { 2 } } \\end{array}$ which is smaler than 0.2 as suggested by Electroweak precision test. Note there is a zero element in the matrix since the right-handed top quark $t _ { R }$ isa composite singlet in our case. This remarkable feature of the mass matrix will simplify our calculation and we can diagonalize it simply by chiral rotation of the top quark and the top partner fields: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\binom { t _ { L } } { t _ { L } ^ { \\prime } }  ( \\begin{array} { c } { { \\mathrm { c o s } \\alpha \\ \\mathrm { s i n } \\alpha } } \\\\ { { \\mathrm { - s i n } \\alpha \\ \\mathrm { c o s } \\alpha } } \\end{array} ) ( \\begin{array} { c } { { t _ { L } } } \\\\ { { t _ { L } ^ { \\prime } } } \\end{array} ) , \\qquad \\binom { t _ { R } } { t _ { R } ^ { \\prime } }  ( \\begin{array} { c } { { \\mathrm { c o s } \\beta \\ \\mathrm { s i n } \\beta } } \\\\ { { \\mathrm { - s i n } \\beta \\ \\mathrm { c o s } \\beta } } \\end{array} ) ( \\begin{array} { c } { { t _ { R } } } \\\\ { { t _ { R } ^ { \\prime } } } \\end{array} ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is convenient to rewrite the Lagrangian parameters in terms of physical parameters $( \\alpha , \\beta , m _ { t } , m _ { t ^ { \\prime } } )$ and use them later in our analysis. The zero element in the mass matrix allows us to further rewrite the sine of right-handed mixing angle $\\beta$ in terms of a function of ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\alpha , m _ { t } , m _ { t ^ { \\prime } } ) ;\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d72df8eafaddba99782e582742a108a638e7a2b37dae18080d2284e10caf7e8.jpg",
+        "img_caption": [
+            "Figure 1. Branching ratios for the three decay modes of $t ^ { \\prime }$ with $m _ { t ^ { \\prime } } = 7 0 0$ GeV.Left panel: $\\xi = 0 . 1$ Red line: $b W$ decay channel; blue line: $^ { t h }$ decay channel; green line: $t Z$ decay channel. Right panel: The same plot with $\\xi = 0 . 2$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since we consider the relatively high mass region of the top partner, it is convenient to study its dynamics by using the Goldstone boson equivalence theorem. To get the couplings among the top partner and the charged, neutral Goldstone fields $\\phi ^ { \\pm } , \\phi ^ { 0 }$ ， we first rewrite the fourplet $\\vec { h }$ in terms of the standard Higgs doublet of $+ \\frac 1 2$ hypercharge: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vec { h } = \\left( { h } _ { 1 } \\atop h _ { 2 } \\right) = \\left( \\begin{array} { c } { { { \\frac { - i } { \\sqrt { 2 } } } ( \\phi ^ { + } - \\phi ^ { - } ) } } \\\\ { { { \\frac { 1 } { \\sqrt { 2 } } } ( \\phi ^ { + } + \\phi ^ { - } ) } } \\\\ { { - \\phi ^ { 0 } } } \\\\ { { h } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Then it is straightforward to obtain the Goldstone couplings by using the explicit form of $U$ matrix in eq. (2.3). Neglecting the EWSB, the mixing term between $q L$ and $t ^ { \\prime }$ in the effective Lagrangian gives: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon _ { q t ^ { \\prime } } \\bar { \\xi } _ { L } U \\Psi _ { R } \\sim - \\frac { \\epsilon _ { q t ^ { \\prime } } } { \\sqrt { 2 } f } ( h - i \\phi ^ { 0 } ) \\bar { t } _ { L } t _ { R } ^ { \\prime } + \\frac { \\epsilon _ { q t ^ { \\prime } } } { f } \\phi ^ { - } \\bar { b } _ { L } t _ { R } ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note there is a $\\sqrt { 2 }$ suppression of the coupling with the top quark, from which we can easily obtain $\\mathrm { B R } ( t ^ { \\prime }  t h ) \\approx \\mathrm { B R } ( t ^ { \\prime }  t Z ) \\approx \\mathrm { B R } ( t ^ { \\prime }  b W ) / 2 \\approx 0 . 2 5$ in the gauge eigenstate. One can also calculate the partial decay widths explicitly and obtain the exact formulas [31] : ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Gamma _ { b W } = \\displaystyle \\frac { g ^ { 2 } \\sin ^ { 2 } \\alpha m _ { t t ^ { \\prime } } ^ { 3 } } { 6 4 \\pi m _ { W } ^ { 2 } } f ( x _ { W } , x _ { b } ) g ( x _ { b } , x _ { W } ) , } } \\\\ { { \\Gamma _ { t Z } = \\displaystyle \\frac { g ^ { 2 } \\sin ^ { 2 } \\alpha { \\cos ^ { 2 } \\alpha m _ { t t ^ { \\prime } } ^ { 3 } } } { 1 2 8 \\pi m _ { W } ^ { 2 } } f ( x _ { Z } , x _ { b } ) g ( x _ { b } , x _ { Z } ) , } } \\\\ { { \\Gamma _ { t h } = \\displaystyle \\frac { g ^ { 2 } \\sin ^ { 2 } \\alpha { \\cos ^ { 2 } \\alpha m _ { t t ^ { \\prime } } ^ { 3 } } ( 1 - \\xi ) } { 1 2 8 \\pi m _ { W } ^ { 2 } } f ( x _ { t } , x _ { h } ) \\left[ ( 1 + x _ { t } ^ { 2 } - x _ { h } ^ { 2 } ) ( 1 + x _ { t } ^ { 2 } ) + 4 x _ { t } ^ { 2 } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $x _ { i }$ are defined as $\\begin{array} { r } { x _ { i } = \\frac { m _ { i } } { m _ { t ^ { \\prime } } } } \\end{array}$ , the kinematic functions are given by: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { f ( x _ { i } , y _ { j } ) = \\sqrt { ( 1 - ( x _ { i } + x _ { j } ) ^ { 2 } ) ( 1 - ( x _ { i } - x _ { j } ) ^ { 2 } ) } , } \\\\ { g ( x _ { i } , y _ { j } ) = 1 - x _ { i } ^ { 2 } + x _ { j } ^ { 2 } ( 1 + x _ { i } ^ { 2 } ) - 2 x _ { j } ^ { 4 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the large mass limit of the top partner $m _ { t ^ { \\prime } } \\to \\infty$ ， $x _ { i } \\to 0$ ，without the mixing effects, one can see that $\\Gamma _ { b W } : \\Gamma _ { t Z } : \\Gamma _ { t h } = 2 : 1 : 1$ from the above expressions in the limit $\\xi  0$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/64c46b739f3fa6f3e0325e34f75f55bc9e43e624f3296e774e327d901a40886f.jpg",
+        "img_caption": [
+            "Figure 2. Feynman diagrams of the t-chanel single $t ^ { \\prime }$ production. The right diagram is the NLO correction in our calculation which will produce an additional b-quark. See text for detail. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We show the branching ratios of three decay channels by varying left-hand mixing angle $\\alpha$ with $m _ { t ^ { \\prime } } = 7 0 0$ GeV in Figure $1$ , from which we can see either $\\xi = 0 . 1$ or $\\xi = 0 . 2$ ，E $\\mathrm { 3 R } ( t ^ { \\prime } \\to t h )$ （204号 $\\approx \\mathrm { B R } ( t ^ { \\prime }  t Z ) \\approx \\frac { 1 } { 2 } \\mathrm { B R } ( t ^ { \\prime }  b W ) \\approx 0 . 2 5$ is a good approximation as expected by Goldstone boson equivalence theorem. We will use this branching fractions in our analysis and $m _ { t ^ { \\prime } } =$ 700 GeV as our benchmark point. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 The single $t ^ { \\prime }$ production ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The single $t ^ { \\prime }$ can be produced via its electroweak interactions and the leading process is the $\\mathrm { t }$ -channel which originates from the $W \\ : - \\ : b$ fusion where $W$ is emitted by a light quark in the proton 3. The cross section of single $t ^ { \\prime }$ production has been calculated recently up to NLO using MCFM code [32] in a scheme with the proton containing four flavors of quark where there willbe an additional bottom quark produced from the gluon splitting [27]. Given that this bottom quark is very soft at 8 TeV LHC,we just omit it and recalculate the cross section using b-quark parton distribution function in the proton. The corresponding Feynman diagrams are shown in Figure 2 and the gluon-splitting one will be the NLO correction of the single production. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We plot in Figure 3 the cross sections for QCD pair production and electroweak single production of $t ^ { \\prime }$ with $\\sin \\alpha = 0 . 2$ , 0.3, 0.4 as a function of its mass . For the $t ^ { \\prime }$ pair production, we use the HATHOR code [33] which includes perturbative QCD corrections up to NNLO. In all the calculations,we choose the set of the parton distribution functions MSTW2008 [34]. We see that single production rate dominates over pair production in the moderately high mass region with appropriate $t ^ { \\prime } b W$ coupling which is just ${ \\frac { g } { \\sqrt { 2 } } } \\mathrm { s i n } \\alpha$ in the singlet case. This is due to the lower kinematical threshold of single $t ^ { \\prime }$ production in comparison with the pair production. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Another advantage of considering single $t ^ { \\prime }$ production channel is that since the cross section is proportional to the square of $t ^ { \\prime } b W$ coupling and the branching ratios for the three different decay channels are almost fixed at the relatively high mass as discussed in sect. 2, these search channels can be treated as a direct probe of the $t ^ { \\prime } b W$ coupling. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Concerning the $t ^ { \\prime }$ decay, we consider the $b W$ and $^ { t h }$ decay channels in this paper and study their practical observability by analysing the signal and backgrounds respectively. For the th decay channel, we take the advantage of multi- $b$ signature of the signal from Higgs decay and its large transverse momentum magnitude so that jet substructure method can be used to tag the boosted Higgs. Additionally, leptonic decay of the top will be considered in order to suppress the overwhelming QCD multi-jet backgrounds. We do not consider the $t Z$ （204号 decay channel here because of the small number of events for leptonic $Z$ decay, although one can use the top tagging method to improve the discovery potential. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6c57c7ed6d54775368d754ccc8040caf42e318da8c82311d787dad760375eb0.jpg",
+        "img_caption": [
+            "Figure 3. Cross sections of electroweak single $t ^ { \\prime }$ productions and QCD pair production. The solid black,red, green or dashed blue line stands for the electroweak single production with $\\mathrm { s i n } \\alpha = 0 . 2$ ,0.3, 0.4,or QCD pair production, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Event generation and analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this section, we analyze the observation potential of each channel by performing a Monte Carlo simulation of the signal and background events and applying the suitable selection cuts to maximize the significance. We will take $m _ { t ^ { \\prime } } = 7 0 0$ GeV as our benchmark scenario to illustrate event reconstruction techniques used in the analysis. Results of different masses of the top partner are shown separately assuming $\\mathrm { s i n } \\alpha = 0 . 2$ and $\\mathrm { s i n } \\alpha = 0 . 3$ for $b W$ decay channel, while for th decay channel the value of $\\mathrm { s i n } \\alpha = 0 . 4$ is adopted. We finally derive the expected 95% C. L. exclusion plots in the $m _ { t ^ { \\prime } } - \\sin \\alpha$ plane for each channel and for combination of the two channels. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1 bW decay channel ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this section, we consider the $b W$ decay channel of the top partner $t ^ { \\prime }$ with subsequent decay of $W$ boson into $\\ell \\nu$ ，where $\\ell$ is either an electron or a muon. The largest background comes from the $W \\mathrm { { + } \\ l i g h t }$ jets with one of the jets misidentified as a $b$ quark jet.The cross section is normalized as \\~ 3.96 nb from MadGraph5 [36] LO calculation multiplied with a K-factor of 1.2,where the jet partons are required to have $p _ { T } > 3 0$ GeV. $W + b +$ light jets and $W$ $+ \\ b b$ can also make contributions to the backgrounds because they contain real $b$ -quarks. The cross sections are 38.4 pb and 11.5 pb obtained similarly with W + light jets. The second important background is $t t$ with cross section $\\sim 2 3 8$ pb as obtained from approximate NNLO QCD calculations with HATHOR [33]. Other smaller backgrouds come from single top [37-39] and diboson $( W W , W Z )$ production. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The interactions of $t ^ { \\prime }$ are implemented into an UFO file for MadGraph5 [36] by using the Feynrules [40] package based on the simplified model. Parton-level events for the signal and backgrounds are generated by MadGraph5 [36] and interfaced to PYTHIA-6.420 [41] for parton-showering and hadronization,after which Delphes 3.0.5 [42] is used for detector simulation. The decay of SM particles (top quark and $W$ boson） are performed in PYTHIA 6.420. Jets are reconstructed using anti- $k _ { t }$ algorithm [43] with a radius parameter $R = 0 . 4$ and required to satisfy $| \\eta | < 4 . 5$ and $p _ { T } > 3 0$ GeV. For the b-quark jets, only the ones satisfying $| \\eta | < 2 . 5$ are considered. In addition, we take the b-tagging efficiency of 7O% for b-quark jets, miss-b-tagging probability of $1 \\%$ for light jets and 2O% for c-quark jets [24]. Furthermore, leptons are required to have $| \\eta | < 2 . 5$ ， $p _ { T } > 2 5$ GeV and be isolated. By\"isolated\",we mean the scalar $p _ { T }$ sum of the tracks and the calorimeter cells within a cone of $R = 0 . 2$ around the lepton is no more than $1 0 \\%$ of the lepton transverse momentum,where the calculation is done by simulating the energy flow algorithm. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We first impose the following basic cuts to reduce the backgrounds: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "· 1.There is exactly one isolated lepton.   \n· 2.The missing transverse energy $\\not { E } _ { T }$ is required to be larger than 10 GeV.   \n· 3. There are exactly one $b$ -tagged jet and no more than three jets in total. If there are two untagged jets,we adopt the one with higher absolute value of $\\eta$ as the forward jet candidate. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We do not reconstruct the leptonic $W$ ，because the reconstruction of the longitudinal momentum of the neutrino from $W$ decay is not good enough due to the large uncertainty in our energy scale. We only take advantage of the large $p _ { T }$ of the b-tagged jet and the lepton decaying from the relatively high mass of $t ^ { \\prime }$ and the forward nature of the untagged jet from the light quark produced together with the top partner. Based on the kinematical distributions of the signal and backgrounds in Figure 4, we impose the following cuts furthermore to get a high significance: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "· 4. We require the scalar sum of the transverse momenta of the $b$ -tagged jet, the untagged jet,and the lepton to have $H _ { T } > 5 0 0$ GeV. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "· 5. We require the b-tagged jet to have $p _ { T } > 2 0 0$ GeV, the lepton to have $p _ { T } > 1 5 0$ GeV and the light untagged jet to have $| \\eta _ { j } | > 2 . 5$ ：   \n· 6.The invariant mass of the $b$ -tagged jet and the lepton is required to have $m _ { b \\ell } > 4 0 0$ GeV,while the invariant mass of the $b$ -tagged jet and the untagged jet $m b j$ is larger than 500 GeV. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We present the cut flow of the signal and background events in Table 1, where the second column corresponds to the number of events we generated by Madgraph5 and the third column denotes the events normalized with the luminosity of $\\mathrm { 2 5 ~ f b ^ { - 1 } }$ . We finally obtain 11.3 signal and 63 background events in this decay channel, thus getting a local significance of 1.4 $\\sigma$ （204 assuming : $\\mathrm { s i n } \\alpha = 0 . 2$ . We further explore the discovery potential by varying the mass of the $t ^ { \\prime }$ and the result is shown in Table 2 for $\\mathrm { s i n } \\alpha = 0 . 2$ and Table 3 for $\\mathrm { s i n } \\alpha = 0 . 3$ . As we can observe,the local significance decreased slowly from 3.0 $\\sigma$ to 1.8 $\\sigma$ by varying the $t ^ { \\prime }$ mass. This is because of the slowly decreasing cross section and the larger transverse momentum of the objects as $t ^ { \\prime }$ becomes heavier so that the cut efficient is higher. Using these results,we depict the expected 95% C. L. exclusion region of this channel in Figure 8, from which we can see that this channel will set a strong constraint on the size of mixing sin $\\alpha$ for $m _ { t ^ { \\prime } }$ up to 1 TeV.We also show the constraints for purely chiral fourth generation which has an unit branching fraction of $t ^ { \\prime } \\to b W$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2 th decay channel ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Let us now turn to describe the search strategy for the $3 b j W$ channel. The Main background comes from the $t { \\bar { t } } +$ jets production with semi-leptonic decay of the top quark pair. This is the most challenging one because of its largest cross section （ $\\sim$ 238 pb) and large miss-btagging rate ( $\\sim 2 0 \\%$ ) of the c-quark jets from the hadronically decaying $W$ boson [24]. Other backgrounds like $t { \\bar { t } } b b$ ， $W b { \\bar { b } }$ +jets can be neglected under our consideration. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Parton-level events for the signal and background are generated by MadGraph5 [36] and interfaced to PYTHIA6.420 [41] for parton-showering and hadronization. For $t t + \\mathrm { j }$ ets,MLM matching scheme implemented in pythia is adopted to avoid double-counting in certain regions of phase space. To simulate a realistic experiment environment, we include the smearing effect by using the tracks and the calorimeter tower information,output by the energy flow algorithm from the Delphes 3.0.5 [42],as the (fat)-jet constituents. In what follows,we describe the physical object reconstruction techniques and the selection criteria for the candidate events. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Jets are reconstructed using Fastjet 3.0.3 [44]. Firstly, we search for the Higgs fat jet using Cambridge-Aachen algorithm with radius $R = 1 . 4$ and require its two leading subjets b-tagged. Once the Higgs fat jet is reconstructed, we erase its constituents from the input particles,while the remaining ones are clustered into narrow jets using anti- $k _ { t }$ algorithm with a width parameter $R = 0 . 4$ . Furthermore,the narrow jets are required to satisfy $| \\eta | < 4 . 5$ （204号 and $p _ { T } > 3 0$ GeV and only b-jets satisfying $| \\eta | < 2 . 5$ are considered. In addition，we take ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/59ee9c9aea70818f9b133d1be7d1d49fc8f08824d3db0608b84e1b56a4dfbbe4.jpg",
+        "img_caption": [
+            "Figure 4.Distributions for the signal and backgrounds of $( a ) H _ { T } , ( b ) p _ { T , b } , ( c ) p _ { T , \\ell } , ( d ) | \\eta _ { j } |$ （204号 $( e ) m _ { b \\ell } , ( f ) m _ { b j }$ after the basic cuts in the $t ^ { \\prime } \\to b W$ decay channel. The shapes are normalized to unit area. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1c85a15cb0b36e68dac259d23cbdd6fbd0079fb841ce058576289ff7125cc88.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Process</td><td>Generated</td><td>Normalized</td><td>Cut 1-3</td><td>Cut 4</td><td>Cut 5</td><td>Cut 6</td></tr><tr><td>Wjj</td><td>39999995</td><td>99000000</td><td>473641</td><td>4893</td><td>87</td><td>47</td></tr><tr><td>tt</td><td>10000000</td><td>5950000</td><td>311437</td><td>1994</td><td>15</td><td>9.5</td></tr><tr><td>Wbb</td><td>400000</td><td>288000</td><td>12884</td><td>234</td><td>2.9</td><td>2.2</td></tr><tr><td>Wbj</td><td>1000000</td><td>960000</td><td>37251</td><td>338</td><td>3.8</td><td>1.9</td></tr><tr><td>WW</td><td>2000000</td><td>1335000</td><td>8834</td><td>53</td><td>1.3</td><td>1.3</td></tr><tr><td>tW</td><td>999998</td><td>560000</td><td>42563</td><td>225</td><td>3.4</td><td>1.1</td></tr><tr><td>tb</td><td>300000</td><td>140000</td><td>6027</td><td>65</td><td>0</td><td>0</td></tr><tr><td>tj</td><td>2999999</td><td>2200000</td><td>119071</td><td>614</td><td>0.7</td><td>0</td></tr><tr><td>W Z</td><td>500000</td><td>550000</td><td>4505</td><td>19</td><td>0</td><td>0</td></tr><tr><td>Total background</td><td></td><td>110983000</td><td>1016210</td><td>8435</td><td>114</td><td>63</td></tr><tr><td>t'j→bWj</td><td>100000</td><td>1463</td><td>122</td><td>52</td><td>16</td><td>11.3</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Table 1. Cut flows for the signal and backgrounds in the analysis of the single $t ^ { \\prime }$ production channel with $t ^ { \\prime }$ decaying to $b$ and $W$ boson assuming $m _ { t ^ { \\prime } } = 7 0 0$ GeV and $\\mathrm { s i n } \\alpha = 0 . 2$ .Charge conjugate production modes are implied in the process. Results are shown for the signal assuming the $5 0 \\%$ （204号 branching ratio of $t ^ { \\prime } \\to b W$ decay. ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e0f40ab655c65e6ee6bdbeaa26e83c26638f4b2f6a3436ed7cbf19fc8cdf335.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>mtr (GeV)</td><td>S(no cut)</td><td>S</td><td>B</td><td>B</td><td rowspan=\"2\">Significance(σ)</td></tr><tr><td>700</td><td>1463</td><td>11.3</td><td>63</td><td>1.3</td></tr><tr><td>750</td><td>1153</td><td>11.1</td><td>63</td><td>1.3</td><td>1.3 1.3</td></tr><tr><td>800</td><td>911</td><td>10.2</td><td>63</td><td>1.2</td><td>1.2</td></tr><tr><td>850</td><td>726</td><td>9.8</td><td>63</td><td>1.1</td><td>1.2</td></tr><tr><td>900</td><td>581</td><td>8.6</td><td>63</td><td>1.0</td><td>1.1</td></tr><tr><td>950</td><td>468</td><td>7.0</td><td>63</td><td>0.8</td><td>0.8</td></tr><tr><td>1000</td><td>378</td><td>6.3</td><td>63</td><td>0.8</td><td>0.7</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Table 2. Results for different masses of the top partner assuming $\\mathrm { s i n } \\alpha = 0 . 2$ in the $t ^ { \\prime } \\to b W$ decay channel. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "the b-tagging efficiency of $7 0 \\%$ for $b$ quark jets, miss-b-tagging probability of $1 \\%$ for light jets and 20% for charm jets 4. Secondly, leptons are required to have $| \\eta | < 2 . 5$ ， $p _ { T } > 2 5$ GeV and to be isolated. The isolation requirement is the same with that described previously in the $b W$ decay channel. ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/9024040cb6ae5852cab1f1e9337424841ac13a11c7bc2d2b64cba816405e721b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>mtr (GeV)</td><td>S(no cut)</td><td>S</td><td>B</td><td>B</td><td>Significance(σ)</td></tr><tr><td>700</td><td>3291</td><td>25.4</td><td>63</td><td>2.7</td><td>3.0</td></tr><tr><td>750</td><td>2593</td><td>25.0</td><td>63</td><td>2.7</td><td>2.9</td></tr><tr><td>800</td><td>2050</td><td>23.0</td><td>63</td><td>2.5</td><td>2.7</td></tr><tr><td>850</td><td>1634</td><td>22.1</td><td>63</td><td>2.4</td><td>2.6</td></tr><tr><td>900</td><td>1308</td><td>19.4</td><td>63</td><td>2.1</td><td>2.4</td></tr><tr><td>950</td><td>1052</td><td>15.8</td><td>63</td><td>1.8</td><td>1.9</td></tr><tr><td>1000</td><td>849</td><td>14.2</td><td>63</td><td>1.6</td><td>1.7</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Table 3. Results for different masses of the top partner assuming $\\mathrm { s i n } \\alpha = 0 . 3$ in the $t ^ { \\prime } \\to b W$ decay channel. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "To reconstruct the boosted Higgs fat jet，we first follow the BDRS [45] procedure to decompose the fat jets which satisfy $p _ { T } > 4 0$ GeV to two subjets $j _ { 1 }$ and $j _ { 2 }$ with $m _ { j _ { 1 } } > m _ { j _ { 2 } }$ ： Next, we require a significant mass drop condition $m _ { j _ { 1 } } < \\mu m _ { j }$ with $\\mu = 0 . 6 6 7$ and that the slti $\\mathrm { y } = \\mathrm { m i n } ( p _ { T , j _ { 1 } } ^ { 2 } , p _ { T , j _ { 2 } } ^ { 2 } ) \\Delta R _ { j _ { 1 } , j _ { 2 } } ^ { 2 } / m _ { j } ^ { 2 } > y _ { \\mathrm { c u t } }$ with $y _ { \\mathrm { c u t } } = 0 . 0 9$ ）.。 Finally, we flter the Higgs neighbourhood similar to the BDRS,resolving the fat jets on a finer angular scale, $R _ { \\mathrm { f l t } } = \\operatorname* { m i n } ( 0 . 3 5 , R _ { j _ { 1 } j _ { 2 } } / 2 )$ and taking the three hardest objects (subjets) that appear, which will eliminate much of the underlying event contamination. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Since Higgs is a color singlet, the $b$ -partons from its decay are color-connected and most radiations will be contained within two angular cones around the $b$ -partons as a result of angular ordering. This radiation pattern controlled by the color flow will provide complimentary information, which is used to define the pull for discrimination [46]. In our case,the Higgs is moderately boosted and it may be more useful to use the jet dipolarity instead [47] 5. The dipolarity $\\mathcal { D }$ is defined as: ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { D } \\equiv \\frac { 1 } { R _ { 1 2 } ^ { 2 } } \\sum _ { i \\in J } \\frac { p _ { T i } } { p _ { T J } } R _ { i } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { 1 2 }$ is the angular distance between the two subjets, $R _ { 1 2 } ^ { 2 } = ( \\eta _ { 1 } - \\eta _ { 2 } ) ^ { 2 } + ( \\phi _ { 1 } - \\phi _ { 2 } ) ^ { 2 }$ ,and $R _ { i }$ is the minimum euclidean distance between each particle $( \\eta _ { i } , \\phi _ { i } )$ in the fat jet and the line segment that joins $( \\eta _ { 1 } , \\phi _ { 1 } )$ and $( \\eta _ { 2 } , \\phi _ { 2 } )$ in the $\\eta - \\phi$ plane.In our calculation, $( \\eta _ { 1 } , \\phi _ { 1 } )$ and $( \\eta _ { 2 } , \\phi _ { 2 } )$ are identified with those of the two $b$ -tagged subjects in the filtered Higgs fat jet and we include all the radiations contained within the two cones of size $R _ { 1 2 } / \\sqrt { 2 }$ centered around the $b$ -tagged subjects,i.e. we also include the soft radiations which are discarded by the mass drop criterion and filtering. We do not simulate underlying events,but we expect this will not change our results significantly because we choose the smaller cone when including the ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0bfaefba17c65b03bc8e843a56a893e40838f048466cc55f5dccab11c4dea43.jpg",
+        "img_caption": [
+            "Figure 5. Distributions for the signal and background of $( a ) m _ { h }$ ， $( b ) p _ { T , h }$ ， $( c )$ dipolarity, $( d ) R _ { h , b \\bar { b } }$ ， $( e ) | \\eta _ { j } |$ after the basic cuts in the $t ^ { \\prime } \\to t h$ decay channel. The shapes are normalized to unit area. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/c09236c0d68b5b7b9b8c0afa6932f712dbc72942337e320452d05f0887d26cc4.jpg",
+        "img_caption": [
+            "Figure 6. Distributions for the signal and background of $( a ) m _ { b j }$ ， $( b ) p _ { T , b \\ell }$ ， $( c ) m _ { h , b \\ell }$ ， $( d ) R _ { h , b \\ell }$ after the basic cuts in the $t ^ { \\prime } \\to t h$ decay channel. The shapes are normalized to unit area. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "soft radiations. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The event selection requires at least one filtered fat jet with two leading subjets b-tagged and the highest $p _ { T }$ one will be referred as the $h  b b$ candidate. Other fat jets will be dropped and the particles will be used to reconstruct the narrow jets with $R = 0 . 4$ as illustrated above. We then impose the following basic cuts to reduce the backgrounds: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "· 1. There is exactly one isolated lepton.   \n· 2.The missing transverse energy $\\not { E } _ { T }$ is required to be larger than 1O GeV.   \n· 3.There is at least one $b$ -tagged jet and one untagged jet in addition to the Higgs fat jet. The leading $b$ -jet will be referred to the top decaying $b$ -jet candidate and the untagged one with the largest absolute value of $\\eta$ will be treated as the light jet produced in association with the top partner. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "From Table 4, we can see that even after the basic cuts, the backgrounds are significantly rejected. For further analysis，we show the distributions of some important kinematical variables after the basic cuts in Figure 5 and Figure 6, from which we can infer that one can obtain good discrimination between signal and backgrounds. Here, several remarks are in order.Firstly, the distribution of the invariant mass of the reconstructed boosted Higgs fat jet has been broadened as a result of the limited resolution of the detector. Because of the small number ( $\\sim 3 4$ ) of signal events in hand after the basic cuts,we impose a relatively large mass window around the true Higgs mass. Secondly, since the reconstruction of the leptonically decaying $W$ boson is not as good as expected ( $\\sim 3 0 \\%$ )，we just abandon the information of the reconstructed top and turn to the system of the leading $b$ -tagged jet and the unique isolated lepton. Some kinematical variables are found to be very useful such as the transverse momentum of the $( b , \\ell )$ system $p _ { T , b \\ell }$ , the invariant mass of the Higgs fat jet, the $b$ -tagged jet and the lepton $^ { \\prime } { } ^ { n } h , b \\ell$ and the distance of the Higgs jet with the $( b , \\ell )$ system $R _ { h , b \\ell }$ . They tend to have larger value for the signal as a result of the heavy $t ^ { \\prime }$ that we search for. In order to enhance the significance,we in further impose the following conditions: ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "· 4. We require the Higgs fat jet to have $p _ { T , h } > 2 0 0$ GeV and the distance between the Higgs and its $b b$ subsystems $R _ { h , b \\bar { b } }$ is smaller than 0.05. We also impose a relatively large mass window for it around the true Higgs mass, $m _ { h } \\in [ 1 0 0 , 1 3 0 ]$ GeV. In addition， we require the dipolarity of the Higgs fat jet is smaller than 0.02.   \n· 5.The light untagged jet is required to have $| \\eta _ { j } | > 2 . 5$ and the invariant mass of the b-tagged jet and the untagged jet $m _ { b j }$ is larger than 200 GeV.   \n• 6. We choose $p _ { T , b \\ell } > 1 6 0$ GeV, 450 GeV $< m _ { h , b \\ell } < 6 5 0$ GeV and the distance of Higgs candidate with the system of the leading b-tagged jet and the lepton $R _ { h , b \\ell }$ is larger than 2.0. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We present the cut flow of the signal and background events in Table 4 assuming $\\mathrm { s i n } \\alpha =$ 0.4, where the second row corresponds to the number of events we generated by Madgraph5 and the third row denotes the events normalized with the luminosity of $\\mathrm { 2 5 ~ f b ^ { - 1 } }$ .We obtained 4.1 signal and 6.6 background events with $S / \\sqrt { S + B } \\sim 1 . 3$ ，and a local significance of $1 . 5 ~ \\sigma$ . In order to gain more discrimination power,we apply the boosted decision tree (BDT) method [48] which are implemented in the ROOT TMVA package [49]. In addition to the kinematical variables described above, we add the following: PT,b,PT,j,PT,e, Nb, mbl, mT,W, where $m _ { T , W }$ is the transverse mass of the leptonically decaying W boson, which is defined as $m _ { T , W } = \\sqrt { 2 p _ { T , \\ell } \\not \\vert E _ { T } ( 1 - \\mathrm { c o s } \\Delta \\phi _ { \\ell , \\not \\parallel _ { T } } ) }$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We have trained 100o decison trees and the outputs are presented in Figure 7, from which we observe that good discrimination can be obtained between signal and background. We finally obtain 9.7 signal and 1O.1 background events, thus getting $\\mathrm { S } / \\sqrt { S + B } \\sim 2 . 2$ ，and a local significance of 2.7 $\\sigma$ .In Table 5,we show the BDT results for different mass of $t ^ { \\prime }$ （204号 with $\\mathrm { s i n } \\alpha = 0 . 4$ ， from which we can see that this channel can have evidence up to 1 TeV. Using these results, we plot the expected 95% C.L.exclusion region in the $m _ { t ^ { \\prime } }$ -sin $\\alpha$ plane in Figure 8. In this figure, we also show the combined 95% C. L. exclusion region of $t ^ { \\prime } \\to t h$ and $t ^ { \\prime } \\to b W$ decay channels, from which we can observe that the single $t ^ { \\prime }$ production channel at the 8 TeV LHC will set a strong constraint on the $t ^ { \\prime } b W$ coupling with the mass of $t ^ { \\prime }$ up to 1 TeV. The current $V _ { t b }$ constraint from the single top measurements [50, 51] only sets a much weaker upper limit on the parameter $\\mathrm { s i n } \\alpha < 0 . 5 9$ in our simplified model,which we depict in Figure 8. ",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/065dcd914ba584b6c8c944008ae9037241907ab1c56d874b87ca87ca60224185.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>tt+jets</td><td>t'j+tj→3bWj</td></tr><tr><td>Generated</td><td>30732326</td><td>1999998</td></tr><tr><td>Normalized</td><td>5950000</td><td>1697</td></tr><tr><td>Cut 1-3</td><td>7277</td><td>35</td></tr><tr><td>Cut 4</td><td>178</td><td>15</td></tr><tr><td>Cut 5</td><td>25.4</td><td>7.3</td></tr><tr><td>Cut 6</td><td>6.6</td><td>4.1</td></tr><tr><td>Acceptance</td><td>0.0000011</td><td>0.0024</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Table 4. Cut flows for the signal and background in the analysis of the single $t ^ { \\prime }$ production channel with $t ^ { \\prime }$ decaying to top and Higgs for $\\mathrm { s i n } \\alpha = 0 . 4$ and $m _ { t ^ { \\prime } } = 7 0 0$ GeV.Results are shown for the signal assuming the 25% branching ratio of $t ^ { \\prime } \\to t h$ decay. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5 Summary ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we have studied the prospects of observing the single $t ^ { \\prime }$ production at the 8 TeV LHC in the $b W$ and $^ { t h }$ decay channels with $\\mathrm { 2 5 ~ f b ^ { - 1 } }$ of integrated luminosity. To illustrate our result,we adopt the simplified model based on the minimal coset $S O ( 5 ) / S O ( 4 )$ ，where the top partner is from the singlet of the unbroken $S O ( 4 )$ .We focus on the relatively high mass region of the top partner so that the single production is more effcient than the pair production at 8 TeV LHC. Since the single $t ^ { \\prime }$ production depends on the $t ^ { \\prime } \\mathrm { b W }$ coupling and the $t ^ { \\prime }$ mass (The decay branching ratios are close to the equivalence limit for heavy $t ^ { \\prime }$ )，we constrain the parameter space in the $m _ { t ^ { \\prime } } - \\sin \\alpha$ plane,where $\\alpha$ is the left-hand mixing angle ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/46f52fa1a90e6685430a9b1e35406a61afc1d29dc1e05d1c8c329b8df384e168.jpg",
+        "img_caption": [
+            "Figure 7. The outputs of BDT analysis.Left panel: background rejection vs. signal efficiency. Right panel: Normalized distributions of BDT response for signal and background. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/c722de466fa504d30d49c18eeaf2b7cf5ff02b9c7e26d47e75df42dc4e0ce547.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>mtr (GeV)</td><td>S(no cut)</td><td>S</td><td>B</td><td>B</td><td rowspan=\"2\">Significance (σ)</td></tr><tr><td>700</td><td>1697</td><td>9.7</td><td>10.1</td><td>2.2</td></tr><tr><td>750</td><td>1337</td><td>10.1</td><td>14.3</td><td>2.0</td><td>2.7 2.5</td></tr><tr><td>800</td><td>1057</td><td>10.5</td><td>24.4</td><td>1.8</td><td>2.0</td></tr><tr><td>850</td><td>842</td><td>9.9</td><td>25.2</td><td>1.7</td><td>1.8</td></tr><tr><td>900</td><td>674</td><td>7.5</td><td>15.9</td><td>1.6</td><td>1.8</td></tr><tr><td>950</td><td>542</td><td>8.3</td><td>25.9</td><td>1.4</td><td>1.5</td></tr><tr><td>1000</td><td>438</td><td>5.6</td><td>13.2</td><td>1.3</td><td>1.4</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Table 5. Results for different masses of the top partner assuming $\\mathrm { s i n } \\alpha = 0 . 4$ obtained by BDT analysis in the $t ^ { \\prime } \\to t h$ decay channel. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "between the top quark and the top partner. In the $b W$ decay channel, we rely on the large $p _ { T }$ （20 of the b-jet,the lepton,and the forward nature of the light jet to suppress the backgrounds. In the th decay channel, we have exploited jet substructure method to tag the boosted Higgs boson with decaying into $b b$ ,where the dominate background is the $t t +$ jets with large misb-tagging rate of c-quark from the $W$ decay. We also analyse the jet dipolarity of the Higgs which is a color singlet to improve discrimination ability. Combing the two results from the above two channels, we finally derive the expected 95% C.L. exclusion region in the $m _ { t ^ { \\prime } } - \\sin \\alpha$ （204号 plane, from which we conclude that the single $t ^ { \\prime }$ production will set a strong constraint on the $t ^ { \\prime }$ bW coupling ( $\\sin \\alpha \\subset [ 0 . 2 , 0 . 3 ] )$ at the 8 TeV LHC for $m _ { t ^ { \\prime } } \\subset [ 7 0 0 , 1 0 0 0 ]$ GeV. Interestingly, our constraint does not sensitively depends on the $t ^ { \\prime }$ mass because our cut efficiencies are much better for large $t ^ { \\prime }$ mass. ",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/78e65a283a24021b858e6da6feb3a2133f36739ca0bcaa576c458073a209a465.jpg",
+        "img_caption": [
+            "Figure 8. Expected 95% C. L. Exclusion region in the $m _ { t ^ { \\prime } }$ -sin $\\alpha$ plane. Green region: $t ^ { \\prime } \\to \\mathrm { b W }$ decay channel; Blue region: $t ^ { \\prime } \\to$ th decay channel; orange region: combination of the two channels. The black dashed line is the bound from the current $V _ { t b }$ constrain and red dashed line is the constrain for the purely chiral fourth generation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The single $t ^ { \\prime }$ production,which only exists after EWSB through $t - t ^ { \\prime }$ mixing,is intrinsically connected to the origin of EWSB. The size of such a mixing $( \\sin \\alpha )$ ，which represents the compositeness of top quark, is a critical parameter to induce the radiative Higgs potential from top quark loops, which give us the most important contribution for EWSB. Therefore, we expect our constraints from the single $t ^ { \\prime }$ production at the early LHC,especially those on the mixing size of a heavy $t ^ { \\prime }$ ，when elaborated by the experimentalists in the future,would provide much more sophisticated understandings on the true nature of composite EWSB. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank Kaoru Hagiwara, Qiang Li, Zhao Li, Tao Liu, Martin Jankowiak, Mihoko M. Nojiri, Michihisa Takeuchi, Riccardo Torre, Helge Voss and Wei Zou for helpful discussion. Da Liu is supported by the National Natural Science Foundation of China (Grant Nos. 11275247 and 10821504). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[1] J. Erler and P. Langacker,Phys. Rev. Lett.105,031801 (2010) [arXiv:1003.3211 [hep-ph]. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[2] O.Eberhardt,A. Lenz and J. Rohrwild, Phys. Rev. D 82, 095006 (2010) [arXiv:1005.3505 [hep-ph].   \n[3] H. Murayama, V. Rentala, J. Shu and T. T. Yanagida, Phys. Lett. B 705, 208 (2011) [arXiv:1012.0338 [hep-ph].   \n[4] G.D. Kribs, T. Plehn, M. Spannowsky and T. M. P. Tait, Phys. Rev. D 76, 075016 (2007) [arXiv:0706.3718 [hep-ph].   \n[5]W. -Y. Keung and P. Schwaller, JHEP 1106, 054 (2011) [arXiv:1103.3765 [hep-ph].   \n[6] L. M. Carpenter,arXiv:1110.4895 [hep-ph].   \n[7] O.Eberhardt,A. Lenz, A. Menzel, U. Nierste and M. Wiebusch,Phys. Rev. D 86, 074014 (2012）[arXiv:1207.0438 [hep-ph].   \n[8] O.Eberhardt, G. Herbert, H. Lacker,A. Lenz,A. Menzel, U. Nierste and M. Wiebusch,Phys. Rev. Lett.109,241802 (2012） [arXiv:1209.1101 [hep-ph].   \n[9] O.Matsedonskyi, G. Panico and A. Wulzer, JHEP 1301 (2013)164 [arXiv:1204.6333 [hep-phl].   \n[10] M. Redi and A. Tesi, JHEP 1210 (2012) 166 [arXiv:1205.0232 [hep-ph].   \n[11] D. Marzocca, M. Serone and J. Shu, JHEP 1208 (2012) 013 [arXiv:1205.0770 [hep-ph].   \n[12] A. Pomarol and F. Riva, JHEP 1208,135 (2012)[arXiv:1205.6434 [hep-ph].   \n[13] J. Berger,J. Hubisz and M. Perelstein, JHEP 1207, 016 (2012)[arXiv:1205.0013 [hep-ph].   \n[14] G.Panico,M. Redi, A. Tesi and A. Wulzer, JHEP 1303,051(2013) [arXiv:1210.7114 [hep-ph].   \n[15] D. Pappadopulo,A. Thamm and R. Torre, arXiv:1303.3062 [hep-ph].   \n[16] M. Endo, K. Hamaguchi, S. Iwamoto and N. Yokozaki, Phys. Rev. D 85, 095012 (2012) [arXiv:1112.5653 [hep-ph]].   \n[17] L. Vecchi, arXiv:1304.4579 [hep-ph].   \n[18] S. Chatrchyan et al. [CMS Collaboration], Phys.Lett. B 718 (2012) 307 [arXiv:1209.0471 [hep-ex].   \n[19] S. Chatrchyan et al.[CMS Collaboration], JHEP 01 (2013)154 [arXiv:1210.7471 [hep-ex].   \n[20] G. Aad et al. [ATLAS Collaboration], Phys. Lett. B 718 (2013) 1284 [arXiv:1210.5468 [hep-ex].   \n[21] K. Harigaya, S.Matsumoto, M. M. Nojiri and K. Tobioka,Phys. Rev. D 86 (2012) 015005 [arXiv:1204.2317 [hep-ph].   \n[22] A. Girdhar and B. Mukhopadhyaya, arXiv:1204.2885 [hep-ph].   \n[23] N. Vignaroli, Phys. Rev. D 86 (2012) 075017 [arXiv:1207.0830 [hep-ph].   \n[24] [ATLAS Collaboration],ATLAS-CONF-2013-018.   \n[25] D. Berenstein, T.Liu and E. Perkins,arXiv:1211.4288 [hep-ph].   \n[26] J. Kearney, J. Thaler and A. Pierce,arXiv:1304.4233 [hep-ph].   \n[27] A. De Simone, O. Matsedonskyi, R. Rattazzi and A. Wulzer, arXiv:1211.5663 [hep-ph].   \n[28] D. B. Kaplan, Nucl. Phys. B 365 (1991) 259.   \n[29] K.Agashe, R. Contino,L. Da Rold and A. Pomarol, Phys.Lett. B 641, 62 (2006) [hep-ph/0605341].   \n[30] S. R. Coleman, J. Wess and B. Zumino, Phys. Rev. 177 (1969) 2239; C.G. Callan, Jr., S. R. Coleman, J. Wess and B. Zumino, Phys. Rev. 177 (1969) 2247.   \n[31] M.Perelstein,M. E. Peskin and A. Pierce,Phys.Rev.D 69 (2004) 075002 [hep-ph/0310039].   \n[32] J.M. Campbell, R. Frederix,F.Maltoni and F. Tramontano, JHEP 0910 (2009) 042 [arXiv:0907.3933 [hep-ph].   \n[33] M. Aliev, H. Lacker, U. Langenfeld, S. Moch, P. Uwer and M. Wiedermann, Comput. Phys. Commun. 182 （2011） 1034 [arXiv:1007.1327 [hep-ph]].   \n[34] A. D.Martin, W. J. Stirling, R. S. Thorne and G. Watt, Eur.Phys.J. C 63 (2009) 189 [arXiv:0901.0002 [hep-ph].   \n[35] A. Atre, M. Carena, T. Han and J. Santiago,Phys. Rev. D 79 (2009) 054018 [arXiv:0806.3966 [hep-ph]].   \n[36] J.Alwall, M. Herquet, F. Maltoni, O. Mattelaer and T. Stelzer, JHEP 1106,128 (2011).   \n[37] N. Kidonakis, Phys. Rev. D 83 (2011) 091503 [arXiv:1103.2792 [hep-ph].   \n[38] N. Kidonakis, Phys. Rev.D 82 (2010) 054018 [arXiv:1005.4451 [hep-ph]].   \n[39] N. Kidonakis, Phys. Rev. D 81 (2010) 054028 [arXiv:1001.5034 [hep-ph].   \n[40] N.D. Christensen and C. Duhr, Comput.Phys.Commun. 180:1614-1641 (2009).   \n[41] T. Sjostrand, S. Mrenna and P. Z. Skands, JHEP 0605, 026 (2006).   \n[42] S. Ovyn,X. Rouby and V. Lemaitre,arXiv:0903.2225 [hep-ph].   \n[43] M. Cacciari, G. P. Salam and G. Soyez, JHEP 0804 (2008) 063 [arXiv:0802.1189 [hep-ph].   \n[44] M. Cacciari, G. P. Salam and G. Soyez, Eur. Phys. J. C 72,1896 (2012).   \n[45] J.M. Butterworth,A. R. Davison,M. Rubin and G.P. Salam,Phys. Rev. Lett.100,242001 (2008).   \n[46] J. Gallicchio and M. D. Schwartz, Phys.Rev. Lett.105,022001 (2010) [arXiv:1001.5027 [hep-ph].   \n[47] A. Hook,M. Jankowiak and J. G. Wacker, JHEP 1204,007 (2012) [arXiv:1102.1012 [hep-ph].   \n[48] B. P. Roe, H._J. Yang, J. Zhu, Y. Liu, I. Stancu and G. McGregor, Nul. Instrum. Meth. A 543 577 (2005).   \n[49] A.Hocker et al, PoS ACAT ,040 (2007). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    }
+]

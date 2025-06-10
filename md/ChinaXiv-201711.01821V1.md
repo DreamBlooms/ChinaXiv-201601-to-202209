@@ -1,0 +1,198 @@
+# 温热环境因子影响肉鸡采食的调控机制研究进展
+
+何晓芳 陆壮张 林 李蛟龙 高 峰\* 周光宏(南京农业大学动物科技学院，江苏省动物源食品生产与安全保障重点实验室，江苏省肉类生产与加工质量安全控制协同创新中心，南京 210095)
+
+摘要：采食量是影响肉鸡健康生长的重要因素，摄入的营养物质除一部分用于维持肉鸡基本生命代谢需求外，大部分用于保障肉鸡良好的生长性能。下丘脑作为中枢神经系统调节采食量的重要部位，它可以整合外周环境和各种信号分子，使得机体做出适当的反应，最终调节肉鸡的采食量。温热环境因子是实际生产中影响家禽采食行为和生长性能的重要环境因素，本文就温热环境因子对肉鸡采食行为的影响、下丘脑的摄食信号整合机制以及关键热信号分子的调控机制作一综述，以期为肉鸡温热环境控制提供理论依据。
+
+关键词：肉鸡；下丘脑；采食行为；温热环境因子；调控机制中图分类号：S831；S811.3 文献标识码：A 文章编号：
+
+肉鸡的采食行为受到温热环境因子、饲养管理、自身代谢产物、中枢和外周信号等因素综合调控，温热环境因子主要包括温度、湿度、风速、辐照等因素，畜禽舍内影响生长性能的温热环境因子主要为温度和湿度，温度和湿度的应激对肉鸡的采食行为影响范围最广、损失最为严重。鸡的等热范围为16\~26℃，低于16℃或者高于26℃，肉鸡的能量代谢水平将发生改变，进而影响其采食量。中枢神经系统尤其以下丘脑为主，通过调控食欲的强弱，使肉鸡产生饿感和饱感，最终调控采食量。神经肽（NPY）在下丘脑的采食行为调控上起着非常重要的作用，热应激的环境可以上调厌食肽类的表达，从而导致采食量下降，同时有研究发现，长期慢性冷应激的条件下，促食欲因子和抑制食欲因子的表达水平均显著下降[]。有关温热环境因子对肉鸡采食调控的作用机制研究目前已取得较大进展，因此，本文主要就温热环境因子对肉鸡采食行为的影响、下丘脑的摄食信号整合机制以及关键热信号分子的调控途径作一综述，以期为肉鸡温热环境控制提供理论参考。
+
+1温热环境因子对肉鸡生长性能及采食行为的影响
+
+据联合国粮食及农业组织（FAO）统计，全球肉鸡养殖主要分布在热带和亚热带地区[2]，在这些地区，养殖密度高，集约化程度日益增高，伴随着全球气候变暖等因素，使得肉鸡养殖中热应激发生频率居高不下，对肉鸡的健康和生长性能造成很大的负面影响，其中热应激导致饲养过程中肉鸡采食量下降的现状非常普遍，极大地影响了机体的代谢途径、激素水平和营养成分的吸收，加上宰前运输管理不当，还会影响肉鸡宰后的肉品质[3-4]。在诸多的环境应激因子中，温度和湿度对肉鸡生产造成的不利影响较大，其不利影响程度从阻碍生长速度到降低肉品质甚至造成死亡，严重影响肉鸡养殖业的健康发展。
+
+研究报道肉鸡生长阶段适宜的环境温度为17\~27℃；22\~30℃条件下，平均日采食量随着温度升高而显著下降；10\~30℃条件下，平均日增重随温度升高出现先升高后下降的趋势，22℃时达到最高，料重比随着温度升高呈现先下降后升高的趋势，22℃时最低，其中28\~42日龄的肉鸡最佳生长温度为 22\~26℃，18℃时肉鸡生长速度最快，24℃时饲料效率最高，22℃的平均日增重达到最大[5-6]，温度低于10℃或者超过28℃即出现应激反应，超过 $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，鸡体温度随着环境温度的升高而升高[]。环境温度上升至38℃以上就会出现鸡只死亡，从而造成巨大的经济损失。近来，有研究表明 42日龄的肉鸡在长期慢性热应激的条件下，采食量显著下降，体重降低，料重比增加，生长性能显著降低。在连续或周期性的热应激环境下，肉鸡的生长性能均显著降低，主要因为周期性或连续性的热应激影响饲料摄入量，连续性的热应激还降低营养物质消化率，增加代谢能摄入和散热，降低氮的摄入和沉积，降低能量沉积和能量利用效率[8]。
+
+肉鸡在急性热应激条件下[（ $4 0 { \pm } 1$ ）℃，持续2或5h）]，直肠温度和血浆皮质酮水平升高，采食时间减少，饮水和喘气时间增多，同时振翅的时间增多，翅膀散开，走动时间减少，休息时间增多[9-10]。肉鸡在高温环境下的主要散热方式是热喘息，经呼吸道散热造成水分消耗持续增加，随着温度从 $2 2 \mathrm { ~ \textdegree ~ }$ 上升到 $3 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，蒸发散热占肉鸡机体产热量的比例几乎可达到 $1 0 0 \% ^ { [ 1 0 ] }$ 。此外，高温环境下饮水量增多也是肉鸡调节体温的重要途径之一。
+
+# 2下丘脑采食调控中枢的结构和功能
+
+下丘脑作为调节体温的关键中心，在热应激情况下，下丘脑通过下丘脑-垂体-肾上腺轴(HPA)、交感神经系统以及神经内分泌途径等调节产热或散热量，从而达到新的体温平衡。下丘脑的弓状核（ARC）可整合饱腹感和饿感信号并做出感应，是调控采食活动、能量平衡和体温平衡最重要的部位。从解剖上看，ARC 具有渗透性，因其布满微脉管有孔的内皮细胞，使得ARC 可综合大脑信号。经研究证明，渗透性微脉管集中在垂体柄的近端。这表示 ARC 可支持垂体的血流逆行，这对于形成外周长环路、垂体环路以及神经内分泌超短反馈环路非常重要[1]。近年来，许多研究表明下丘脑中参与采食调控的主要核团有 ARC、旁室核（PVN）、腹内侧核（VMH）、背内侧核（DMN）和下丘脑外侧（LHA)，这些核团之间构成了采食活动和能量代谢的调控网络，共同维持能量代谢平衡[11-12]，通常将 VMN 称之为“饱感中枢”，LHA称为“饥饿中枢”[12]。正常情况下，饱感中枢和饥饿中枢交替作用，共同调节动物采食行为。
+
+ARC 是位于内侧下丘脑基底部神经元集结区，被称为“一级神经元”。由于ARC 位于血脑屏障最薄弱的地方，对血液中的激素水平等信号的变化最为敏感。在ARC 中，有2个重要的神经元，对能量稳态调控发挥重要作用，其中一个促进采食，共表达NPY和刺鼠相关蛋白（AgRP)；另外一个抑制采食，共表达阿黑皮质素原（POMC）和可卡因-安菲他明调节转录肽（CART)，因这2条神经元可表达瘦素（leptin）和胰岛素等激素的受体，同时能获得血源性营养物质如葡萄糖、脂肪酸和氨基酸，所以这2种神经元对机体能量状态非常敏感[13-14]。无论是限饲还是再饲喂的情况，AGRP和 NPY的表达与机体的营养状况密切相关。哺乳动物的下丘脑中，AGRP/NPY 神经元信号和局部的能量传感途径紧密联系，如被一磷酸腺苷激活的蛋白激酶（AMPK）和哺乳动物的雷帕霉素靶蛋白（mTOR)，其活性受循环代谢激素水平的影响，如饥饿素（ghrelin）和瘦素，以及葡萄糖和氨基酸等营养素的影响。但是 POMC/CART神经元的表达不受限饲和再饲喂的影响[15]。还有研究证明，NPY 神经元可通过激活其受体或者释放氨基丁酸抑制 POMC 神经元活性，但POMC 神经元对 NPY 神经元没有这样的负调节[16]。
+
+# 3温热环境应激过程中的重要神经递质和信号分子
+
+控制采食和能量消耗的生理系统主要有：1）感应机体的能量状态的长期和短期传入信号；2）下丘脑内整合信号并做出反应；3）输出信号调节饥饿感强度和能量水平。热应激情况下，机体能量平衡和体温平衡被打破，机体通过神经-内分泌生理系统，分泌多种肽和激素，有些激素通过调节采食行为控制能量摄入，有些激素通过改变能量消耗从而使机体达到新的内环境稳态[17]。促甲状腺激素释放激素（TRH)、生长抑素、血管活性肠肽等具有升高体温的作用，神经降压肽、胆囊收缩素（CCK）、促肾上腺皮质激素（ACTH）等具有降低体温的作用。热应激环境下，机体释放瘦素，进而刺激抑制食欲因子POMC/α-黑素细胞刺激素(α-MSH)的分泌，抑制促进采食因子NPY、AgRP 的分泌，减少采食，同时 $\mathfrak { a }$ -MSH作为黑素皮质素受体(MCR)激动剂，促进抑制食欲因子促肾上腺皮质激素释放激素（CRH）和TRH 的分泌[18]。POMC 是 $\mathbf { \boldsymbol { a } }$ MSH前体物质， $\mathbf {  { a } }$ MSH通过与黑素皮质素受体3（melanocortin
+
+3receptor，MC3R）和黑素皮质素受体4（melanocortin4receptor，MC4R）结合，从而抑制食欲，而AgRP作为 $\mathbf {  { a } }$ -MSH的拮抗剂，可与之竞争结合MCR，从而发挥促进采食作用。
+
+# 3.1 NPY
+
+NPY 是含36个氨基酸残基的长肽，以C端酰胺化酪氨酸（Y）命名，属于NPY 激素家族，该家族中也包括酪酪肽（PYY）和胰腺多肽（PP)。NPY 有许多重要生物学和病理生理功能，如对血压、神经内分泌、摄食行为等进行调控[19]。有研究表明，NPY 是促进食欲和促使繁殖必需的信号分子。NPY 因空间和时间特异性，作用于下丘脑的2条不同的通路，接收和转换内外的环境信息，通过促进前体脂肪细胞合成，增加脂肪合成和存储[20]，维持营养平衡和生殖功能。NPY 可作用于下丘脑-垂体-性腺轴，促进垂体分泌促黄体生成素(LH),对 HPA也有一定的调控作用。当受到不利的营养环境、体内激素及遗传因素的干扰，NPY神经元只刺激食欲却抑制繁殖[21]。NPY 发挥这些功能，归功于不同的 NPY 受体亚型和多种NPY 构建复杂的神经网络通路，NPY受体有Y1、Y2、Y3、Y4、Y5 和Y66种亚型，主要通过NPY与Y1或Y5这2种亚型受体结合而发挥促进采食作用。
+
+研究表明，在急性热应激条件下，NPY前体mRNA 的表达水平升高[22]，这可能与机体瘦素水平低或瘦素信号通路被抑制有关。也有研究指出动物处于禁食或饥饿等能量水平低下的生理状态时，其下丘脑 NPY 水平也会显著增加[23]。
+
+# 3.2 AgRP
+
+刺鼠基因（Agouti）编码的旁分泌信号分子可与促黑质细胞素的受体发生拮抗作用，从而降低黑色素的合成，并负责对啮齿类动物的灰色头发的颜色。AgRP类似于刺鼠蛋白（ $2 5 \%$ 个相同的氨基酸)，是α -MSH的受体 MC3R 和 MC4R 的内源性拮抗剂，主要在下丘脑和肾上腺表达。AgRP是强效的促食欲因子，瘦素通过下调AgRP表达水平，从而发挥抑制食欲的作用[24]。
+
+MC4R作为G蛋白耦联受体（GPCR)，是下丘脑分泌的一种肽类物质，在调控动物采食量中起着重要的作用。AgRP蛋白可与MC3R和MC4R 结合发挥拮抗作用，因此当AgRP过度表达将诱发肥胖[25]。
+
+# 3.3 POMC
+
+POMC 主要在下丘脑 ARC 表达，在大脑孤束核也有少量表达。POMC 是一个复杂的大分子，同时也是多种多肽的前体物质，这其中包括了广泛参与机体活动的 ACTH、β-促脂解素及多种形式的促黑素细胞激素。
+
+ARC 中POMC表达水平可被瘦素和胰岛素增强，同时也受到营养物质的影响。在正常情况下，POMC 神经元主要作用于厌食-分解代谢系统，它与许多其他抑制食欲物质和饱腹因子（如瘦素、胰岛素）相互作用。POMC不仅有内源性激动剂α-MSH，而且有内源拮抗剂 $\mathrm { A g R P } ^ { [ 2 6 ] }$ 。
+
+# 3.4 CART
+
+在啮齿类动物中，CART主要在ARC中的POMC神经元上表达，室旁核、穹窿周围、视上核、外侧和DMN 也有表达。CART神经元可共表达TRH基因、黑素浓集素、神经降压素等。在PVN中，CARTmRNA在含促肾上腺皮质激素释激素(CRF)神经元共定位。通常情况下，CART神经元上有瘦素受体，可被瘦素激活，从而发挥抑制食欲的作用。胰岛素和糖皮质激素也能激活这些神经元，低瘦素水平将下调CARTmRNA 的表达，反之高瘦素水平可上调下丘脑CART mRNA 的表达。在迷走神经传入纤维中，CCK-1 可以增强 CARTmRNA的表达水平。除了影响采食行为，CART还参与调控代谢率和体温平衡，增强能量消耗和产热作用。总体来说，CART不仅调控采食行为，同时也可通过提高能量消耗短期调控能量平衡[27]。
+
+# 4温热环境因子通过下丘脑整合采食信号机制
+
+当外源热信号传递到肉鸡机体，通过大脑皮层整合作用、交感-肾上腺髓质系统、HPA、下丘脑-垂体-甲状腺轴及脑-肠轴等，从而启动畜禽的热平衡和体温调节，并将信号传递到摄食调节中枢，最终引发采食量的改变。热应激状态下，HPA 分泌皮质酮增加，刺激大脑皮层抑制促甲状腺激素分泌，降低三碘甲腺原氨酸（ $\left. \mathbf { T } _ { 3 } \right.$ )、四碘甲腺原氨酸 $\mathrm { { ( T _ { 4 } } }$ ）水平，进而减少体蛋白质合成，加强糖异生作用，促进血液葡萄糖水平升高[28]。
+
+甲状腺激素通过调控基础代谢率在肉鸡的体温调节过程中扮演着重要的角色。根据这一机制，在热应激条件下，提高肉鸡的耐热能力的挑战之一就是调控甲状腺激素的水平，尤其是降低 ${ \mathrm { T } } _ { 3 }$ 水平可以缓解肉鸡耐热的挑战[29]。
+
+# 4.1下丘脑AMPK采食调控信号通路
+
+AMPK 是所有真核生物细胞内的能量传感器，在应激状态下如营养不足或者缺氧导致的ATP不足的条件下，AMPK 被激活。AMPK是一个异源三聚体的丝氨酸/苏氨酸蛋白激酶，由 $\alpha$ 催化亚基及 $\beta$ 和 $\gamma \ 2$ 个调节亚基组成，通过改变促食欲或使欲减退的NPY的基因表达从而调控采食行为。AMPK 酶作为家禽调控体内能量代谢平衡关键因子之一，其中一个作用是监控一磷酸腺苷（AMP）和ATP 浓度比率，随之做出相应的代谢过程的改变。此外，AMPK 可以感受细胞能量状态的信号，并通过磷酸化信号发送相应的信号，最终影响细胞代谢过程[30]。近年来大量研究表明，下丘脑细胞中的 AMPK 参与外周采食信号的整合，并在调控整个机体的能量平衡中发挥着关键作用。
+
+据最新的报道，下丘脑 AMPK 通过调控体外和体内的自噬小体而实现调节 NPY 和POMC 的表达，在下丘脑细胞受到葡萄糖供应降低或受阻的情况下，机体通过激活AMPK，增加 NPY 和减少POMC 的表达[31]。也有报道指出，下丘脑 AMPK 通路激活，仅使得促食欲因子NPY的表达增加，但POMC 的表达没有变化[32]。此外，在慢性冷应激条件下，家禽下丘脑AMPKa1及AMPKα2mRNA 表达量升高，mTOR mRNA 表达量下降[3]。
+
+# 4.2 调节采食的外周信号
+
+最近在下丘脑发现的一些肽在能量平衡中具有分解代谢作用。与甘丙肽对比，甘丙肽样肽（GALP）是其中一个介导瘦素作用的分解代谢肽。长久使用将减少食物摄入量和体重，甚至在肥胖的小鼠中也如此。而且GALP 还可以提高棕色脂肪的活性，升高体温[34]。还有类似的物质是脑源性获得神经营养因子（BDNF)，位于下丘脑腹内侧，可促进代谢作用，具有增强产热，同时下调黑皮质素系统的表达。
+
+外周的瘦素水平可以将信号传入大脑，让中枢感应能量储存状态。瘦素早在1994 年被发现，由脂肪组织分泌，能够抑制采食行为和促进能量消耗，在长期能量平衡调控通路发挥重要作用。瘦素受体在下丘脑的不同核团均有表达，其中在ARC 中通过抑制促食欲神经元NPY/AgRP 的活性发挥重要的调控能量平衡作用[35]。除此之外，肠道内分泌的一些其他的激素也可短期调控采食行为。如CCK、饥饿素、PYY等，这些激素作用于肠道的迷走神经，产生饱腹感，同时已有研究证明这些激素也可以作用大脑。CCK 由十二直肠的I型细胞分泌，可与胆囊收缩素受体（CCK-R）结合，刺激胰腺产生胰岛素和消化酶，同时促进肠道排空和胆汁的分泌，此外还作用于下丘脑中的 POMC 神经元，抑制食欲[3。饥饿素是生长激素促分泌素的内源性受体，由胃底部的内分泌细胞分泌。在哺乳动物中，饥饿素可通过调控下丘脑的ARC 中 NPY/AgRP 神经元从而促进采食，但在家禽的研究中发现，饥饿素抑制采食，这其中可能的机制是饥饿素作用于下丘脑的 HPA，增加CRF、CRH、ACTH 和糖皮质激素的分泌，同时饥饿素可下调鸡解耦蛋白从而抑制鸡的采食[37]。PYY 主要由小肠的回肠和结肠段的L 细胞分泌，感应肠道内的脂肪含量，可与下丘脑的 NPY-Y2受体结合降低采食[38]。据研究证明，在急性应激的条件下，胃肠肽饥饿素、CCK 等胃肠肽相较于中枢食欲相关的基因表达量有显著变化，而且腺胃、十二指肠和空肠是饥饿素发挥抑制食欲的主要靶点[37]。
+
+# 4.3 氨基酸化学感受器
+
+氨基酸作为新的营养和其他代谢过程中的调控因子，与机体内代谢调控及代谢疾病的发展密切相关，饲粮中氨基酸的含量和平衡情况，都会影响动物的采食量。氨基酸如亮氨酸、谷氨酸、色氨酸和精氨酸是重要的生物活性氨基酸，参与许多重要的生化反应。尤其在近十年对化学感受器的最新进展表明，游离的 $L$ 型-氨基酸不同于其他营养物质，在修饰外分泌和内分泌发挥至关重要的作用，调节蛋白质消化、代谢和营养利用，通过与诸如GPCR 结合从而激活细胞内的某特定信号通路，最终调控神经活动和激素释放，进而调节胃肠道功能，保障和维护胃肠道黏膜的完整性[39]。
+
+色氨酸是最早发现具有调控采食量的氨基酸，其作用机理可能与其代谢产物 5-羟色胺参与神经调节以及刺激调控食欲的相关。研究表明，色氨酸可促进胃肠中饥饿素的分泌和胃肠黏膜饥饿素mRNA 的表达，从而促进断奶仔猪食欲，提高采食量[40]。
+
+亮氨酸作为必需氨基酸之一，可能代表下丘脑氨基酸可用性的一种生理信号。它可以比其他氨基酸更快地进入大脑，而且是哺乳动物氨基酸感受mTORC1通路中最有效的激活剂[41]。体外或体内研究均发现，亮氨酸与葡萄糖代谢和胰岛素敏感性密切相关，脑室注射亮氨酸，通过增加下丘脑 mTOR 信号，导致哺乳动物采食量下降，而雏鸡脑室注射亮氨酸可促进采食，注射谷氨酸则抑制采食[42]。据报道，采食缬氨酸缺乏但亮氨酸过量的饲粮可导致家畜的采食量迅速降低，相反，中枢神经系统中外源亮氨酸显著刺激雏鸡的采食量。采食亮氨酸缺乏饲粮可引起小鼠采食量显著下降，由此推断亮氨酸可能是下丘脑调节采食量的一个关键因子[43-44]。由于亮氨酸与缬氨酸、异亮氨酸等支链氨基酸在动物的采食调控上可能存在拮抗作用，因而亮氨酸影响动物的采食量的途径也可能是通过促进瘦素的合成与分泌来调节动物的饱腹感[45]。但亮氨酸与下丘脑促进食欲因子和抑制食欲的 NPY之间的互作机理仍待阐明。
+
+# 4.4肠道黏膜上的味觉受体对采食的调控
+
+近年来，有研究发现采食行为除了受到上述的NPY或神经递质等激素调控，还受到胃肠机械活动和味觉受体（taste receptor，TR）的调节[46]。TR基因除了在口腔中表达，也在肠道黏膜上、下丘脑、肝脏等中表达，动物的口腔味觉系统能够识别苦、酸、甜、咸和鲜5种基本味觉，胃肠道内存在苦、甜、鲜3种味觉受体和相关味觉信号分子[47]。目前已证明，动物的味觉受体基因家族有2个，味觉受体第一家族成员(taste receptor familylmember，T1R)和味觉受体第二家族成员(taste receptor family 2 member，T2R)[48]。
+
+TIR家族属于GPCR超家族C亚型成员，由T1RI、T1R2和T1R33个基因组成，它们以异二聚体的形式发挥作用：T1R1和T1R3结合形成鲜味受体，TIR2和T1R3一起作为甜味受体。
+
+研究证实，鸡缺少T1R2基因，而TIR2基因是甜味识别的必要因子，该基因的缺失，使得鸡对甜味物质较迟钝[49]。T1R1和T1R3形成的异二聚体存在于胃肠的感知细胞中，能感受识别饲料的成分和氨基酸含量，促进同化作用，并刺激CCK的分泌[48]。CCK在消化过程中扮演着多种的角色，减缓胃排空的速度，调节肠道蠕动，刺激胰腺和胆囊分泌物，通过迷走神经产生饱腹感，抑制采食。采用甜味受体阻断剂能够降低饱感信号[50]。T1R1和T1R3能感受天然的20多种L型氨基酸和嘌呤核苷酸（如肌苷酸和鸟苷酸)，肠道味觉受体不仅能调控肠道激素的分泌，还能调节动物的采食[51]。在热应激条件下，机体的能量物质重新分配，蛋白质分解加速，肠道氨基酸的水平提高，影响胃肠道味觉受体的正常感应。
+
+# 5小结
+
+热应激造成肉鸡采食量下降的现象非常普遍，且发生的概率随着全球气候变暖逐步递增，尤其是在热带地区或温带地区的夏季。目前研究的内容主要侧重热应激对肉鸡生长性能及血液生理生化指标的影响。但关于热应激条件下，肉鸡体温平衡、能量平衡与促食欲因子和厌食因子之间的互作关系还知之甚少。而肉鸡的采食行为又受到诸多内外因素所影响，热应激条件下肉鸡采食量下降的作用机理尚未完全明了。肉鸡下丘脑ARC 建立了良好的神经网络以调控采食和能量平衡，今后的研究需要明确不同的 NPY、激素等关键调控因子的作用途径以及它们之间的互作效应;其次需要深入挖掘氨基酸化学感受器和肠道味觉受体等在温热环境应激条件下对采食调控的作用机制，以期为探索缓解热应激的科学策略提供理论依据。
+
+# 参考文献：
+
+[1] ELMQUIST J K,COPPARI R,BALTHASAR N,et al.Identifying hypothalamic pathways controlling food intake,body weight,and glucose homeostasis[J].Journal of Comparative Neurology,2005,493(1):63-71.   
+[2] FAO.FAO statistic division-foastat[EB/OL].http://faostat.fao.org.2007   
+[3] TAO X,ZHANG Z Y,DONG H,et al.Responses of thyroid hormones of market-size broilers to thermos neutral constant and warm cyclictemperatures[J].Poultry Science,2006,85(9):1520-1528.   
+[4] MENTEN JF M,BARBOSA-FILHO J A D,SILVA M,et al.Physiological responses of broiler chickens to pre-slaughter heat stress[J].World's Poultry Science Journal,2006,62(62):254-257.
+
+[5] LARALJ,ROSTAGNO M H.Impact of heat stress on poultry production[J].Animal,2013,3(2):356-369.
+
+[6]苏红光，张敏红，冯京海,等.持续冷热环境对肉鸡生产性能、糖代谢和解偶联蛋白mRNA表达的影响[J].动物营养学报，2014,26(11):3276-3283.
+
+[7]SONG Z G,LIU L,ARDASHIR S,et al.Effect of heat exposure on gene expression of feed intake regulatory peptides in laying hens[J].Journal of Biomedicine & Biotechnology,2012(4/5):484869.
+
+[8]SOUZA L F A D,ESPINHA L P,ALMEIDA E A D,et al.How heat stress (continuous or cyclical) interferes with nutrient digestibility,energy and nitrogen balances and performance in broilers[J].Livestock Science,2016,192:39-43.
+
+[9]MACK L A,FELVER-GANT JN,DENNIS R L,et al.Genetic Variations alter production and behavioral responses following heat stressin 2 strains of laying hens[J].Poultry Science,2013,92(2):285-294.
+
+[10]MAHMOUD U T,ABDEL-RAHMAN M A M,DARWISH MH A,et al.Behavioral changes and feathering score in heat stressed broiler chickens fed diets containing different levels of propolis[J].Applied Animal Behaviour Science,2015,166(1):98-105.
+
+[11]ITO K,BAHRY M A,HUI Y,et al.Acute heat stress up-regulates neuropeptide Y precursor mRNA expression and alters brain and plasma concentrations of free amino acids in chicks[J].Comparative Biochemistry & Physiology Part A: Molecular & Integrative Physiology,2015,187:13-19.
+
+[12]CIOFI P,GARRET M,LAPIROT O.Brain-endocrine interactions: a microvascular route in the mediobasal hypothalamus[J].Endocrinology,2009,150(12):5509-19.
+
+[13]MORTON G J,CUMMINGS D E,BASKIN D G,et al.Central nervous system control of food intake and body weight[J].Nature,2006,404(6778):661.
+
+[14]BELGARDT B F,OKAMURA T,BRUNING J C.Hormone and glucose signalling in POMC and AgRP neurons[J].Journal of Physiology,2009,587(22): 5305-5314.
+
+[15] WATTERSON K R,BESTOW D,GALLAGHER J,et al.Anorexigenic and orexigenic hormone modulation of mammalian target of rapamycin complex 1 activity and the regulation of hypothalamic agouti-related protein mRNA expression[J].Neurosignals,2012,21(1/2):28-41.
+
+[16] ACUNAGOYCOLEA C,TAMAMAKI N,YANAGAWA Y,et al.Mechanismsof neuropeptide Y,peptide YY,and pancreatic polypeptide inhibition of identified green fluorescent protein-expressing GABA neurons in the hypothalamic neuroendocrine arcuate nucleus[J].Journal of Neuroscience,2005,25,7406-7419.
+
+[17]MULLER M J,GEISLER C.From the past to future: from energy expenditure to energy intake to energy expenditure[J].European Journal of Clinical Nutrition,2017,71,358-364.
+
+[18] RICHARDS MP,PROSZKOWIECWEGLARZ M.Mechanismsregulating feed intake,energy expenditure,and body weight in poultry[J].Poultry Science,2007,86(7):1478-1490.
+
+[19]LOH K,HERZOG H,SHI Y C.Regulation of energy homeostasis by the NPY system[J].Trends in Endocrinology& Metabolism,2015,26,125-135
+
+[20]ZHANG W,BAI S,LIU D,et al.Neuropeptide Y promotes adipogenesis in chicken adipose cells in vitro[J].Comparative Biochemistry & Physiology:Part A Molecular & Integrative Physiology,2015,181(2):62-70.
+
+[21] WANG G,TACHIBANA T,GILBERT E R,et al.Exogenous prolactin-releasing peptide's orexigenic effect is associated with hypothalamic neuropeptide Yin chicks[J].Neuropeptides,2015,54:79-83.
+
+[22]TALLAM L S,DA S A,HALL J E,et al.Melanocortin-4 receptor mediates chronic cardiovascular and metabolic actions of leptin[J].Hypertension,2006,48(1):58-64.
+
+[23] HEILIG M.The NPY system in stress,anxiety and depression[J].Neuropeptides,2004,38(4):213-224.
+
+[24]DUNN I C,WILSON P W,SMULDERS T V,et al.Hypothalamic agouti - related protein expression is affected by both acute and chronic experience of food restriction and refeeding in chickens[J].Journal of Neuroendocrinology,2013,25(10):920-928.
+
+[25] ZENDEHDEL M,HAMIDI F,BABAPOUR V,et al.The effect of melanocortin (Mc3 and Mc4) antagonists on serotonin-induced food and water intake of broiler cockerels[J].Journal of Veterinary Science,2012,13(3):229-234.
+
+[26]FURUSE M.Central regulation of food intake in the neonatal chick[J].Animal Science Journal,2002,73(2):83-94.
+
+[27]SIMPSON K A,MARTIN N M,BLOOM S R,et al.Hypothalamic regulation of food intake andclinical therapeuticapplications[J].ArquivosBrasileirosDe EndocrinologiaE Metabologia,2009,53(2):120-128.
+
+[28]TU W L,CHENG C Y,WANG S H,et al.Profiling of differential gene expression in the hypothalamus of broiler-type Taiwan country chickens in response to acute heat stress[J].Theriogenology,2016,85(3):483-494.
+
+[29]RAGHEBIAN M,SADEGHI A A,AMINAFSHAR M.Energy sources and levels influenced on performance parameters,thyroid hormones,and HSP70 gene expresson of broiler chickens under heat stress[J].Tropical Animal Health & Production,2016,48(8):1697-1702.
+
+[30] HARDIE D G,ROSS F A,HAWLEY S A.AMPK: A nutrient and energy sensor that maintains energy homeostasis[J].Nature Reviews Molecular Cell Biology,2012,13(4):251-262.
+
+[31]OH T S,CHO H,CHO J H,et al.Hypothalamic AMPK-induced autophagy increases food intake by regulating NPY and POMC expression[J].Autophagy,2016,12(11):2009-2025.
+
+[32] KOGUT M H,GENOVESE K J,HE H,et al.AMPK and mTOR:sensors and regulators of immune metabolic changes during Salmonella infection in the chicken[J].Poultry Science,2016,95(2):345-353.
+
+[33]NGUYEN P,GREENE E,ISHOLA P,et al.Chronic mild cold conditioning modulates the expression of hypothalamic neuropeptide and intermediary metabolic-related genes and improves growth performances in young chicks[J].PLOS ONE,2015,10(11):0142319.
+
+[34]ITO K,KAGEYAMA H,HIRAKO S,et al.Interactive effect of galanin-like peptide (GALP) and spontaneous exercise on energy metabolism[J].Peptides,2013,49(20):109-116.
+
+[35] COPPARI R,ICHINOSE M,LEE C E,et al.The hypothalamic arcuate nucleus: a key site for mediating leptin's effects on glucose homeostasis and locomotor activity[J].Cell Metabolism,2005,1(1):63-72.
+
+[36]LIU L,HEPENG L,XIANLEI L,et al.Effects of acute heat stress on gene expression of brain-gut neuropeptides in broiler chickens[J].Journal of Animal Science,2013,91(11):5194-5201.
+
+[37]SATO T,NAKAMURA Y,SHIIMURA Y,et al.Structure,regulation and function of ghrelin [J].Journal of Biochemistry,2012,151(2):119-28.
+
+[38]BATTERHAM R L,HEFFRON H,KAPOOR S,et al.Critical role for peptide YY in protein-mediated satiation and body-weight regulation[J].Cell Metabolism,2006(4):223-233.
+
+[39]SAN G A,UNEYAMA H.Amino acid sensing in the gastrointestinal tract[J].Amino Acids,2013,45(3):451-461.
+
+[40] ZHANG H,YIN J,LI D,et al.Tryptophan enhances ghrelin expression and secretion associated with increased food intake and weigh gain in weaning pigs[J].Domestic Animal Endocrinology,2007,3(1):47-61.
+
+[41]XIAO F,HUANG Z,LI H,et al.Leucine deprivation increases hepatic insulin sensitivity via GCN2/mTOR/S6K1 and AMPK pathways[J].Diabetes,2011,60(3):746-756.
+
+[42]HAO S S,ROSSINTA C M,GIETZEN D W.The sensing of essential amino acid deficiency in the anterior piriform cortex,that requires the uncharged tRNA/GCN2 pathway,is sensitive to wortmannin but not rapamycin[J].Pharmacology Biochemistry & Behavior,2010,94(3): 333-340.
+
+[43] CHENG Y,ZHANG Q,MENG Q,et al.Leucine deprivation stimulates fat loss via increasing CRH expression in the hypothalamusand activating thesympathetic nervous system[J].Molecular Endocrinology,2011,25:1624-1635.
+
+[44]BLOUET C,SCHWARTZ G J.Hypothalamic nutrient sensing in the control of energy homeostasis[J].Behavioural Brain Research,2010,209(1):1-12.
+
+[45]王洪荣,季昀.氨基酸的生物活性及其营养调控功能的研究进展[J].动物营养学报，2013,25(3):447-457.
+
+[46]ROZENGURT E,STERNINI C.Taste receptor signaling in the mammalian gut[J].Current Opinion in Pharmacology,2007,7(6):557-562.
+
+[47]DEPOORTEREI.Tastereceptorsofthegut:mergingrolesinhealth and disease[J].Gut,2014,63(1):179-190.
+
+[48] DALY K,ALRAMMAHI M,MORAN A,etal.Sensing of amino acids by the gut-expressed taste receptor T1R1-T1R3 stimulates CCK secretion[J].American Journal of Physiology Gastrointestinal & Liver Physiology,2013,304(3):G271-G282.
+
+[49]SHI P,ZHANG J.Contrasting modes of evolution between Vertebrate sweet/umami receptor genes and bitter receptor genes[J].Molecular Biology and Evolution,20o5,23(2):292-300.
+
+[50] DOCKRAY G J.Cholecystokinin[J].Current Opinion in Endocrinology Diabetes& Obesity,2012,19(1):8-12.
+
+[51]XU H,STASZEWSKI L,TANG H,et al.Different functional roles of T1R subunits in the heteromeric taste receptors[J].Proceedings of the National Academy of Sciences of the United States of America,2004,101(39):14258-14263.
+
+Research Progress of Regulatory Mechanism of Thermal Environment Factors on Feed Intake in Broilers
+
+HE Xiaofang LU ZhuangZHANG Lin LI JiaolongGAO Feng\*ZHOU Guanghong (Jiangsu Collaborative Innovation Center of Meat Production and Processing, Quality and Safety Control, Key Laboratory of Animal Origin Food Production and Safety Guarantee of Jiangsu Province, College of Animal Science and Technology, Nanjing Agricultural University, Nanjing 210095,China)
+
+Abstract: Feed intake is one of the crucial factors that affect the growth performance of broilers. Generally, a small proportion of the nutrients are used to maintain basic life metabolism,and the most of the nutrients are used to guarantee the better production performance of broilers. Hypothalamus is an important part of the central nervous system, which regulates the feed intake of animals. Hypothalamus can be integrated peripheral environment and all kinds of signals, which makes the body to generate appropriate responses for achieving adaptation, and ultimately affects the feed intake of the poultry. Thermal environment factors are critical factors that influence chicken feeding behaviors in the process of production and the growth performance. In this paper, thermal environment factors and their influences on broiler feed intake behavior, hypothalamus integrating feed intake signals and regulation mechanisms,and thermal signal molecules were reviewed to give a theoretical basis for thermal environment control in broiler production.
+
+Key words: broilers; hypothalamus; feeding behaviors; thermal environment factors; regulation mechanisms

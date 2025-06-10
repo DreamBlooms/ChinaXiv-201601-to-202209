@@ -1,0 +1,183 @@
+1 辣木梗叶对奶牛生产性能及血浆生化、抗氧化和免疫指标的影响  
+2 张幸怡　林 　聪　李洋 王一臻　高　红 张广宁 姜　鑫　徐宏建　张永根  
+3 （东北农业大学动物科学技术学院，哈尔滨 150030)  
+4 摘要：本试验旨在探究辣木梗叶替代基础饲粮中 $5 0 \%$ 苜蓿对泌乳奶牛生产性能及血浆生  
+5 化、抗氧化和免疫指标的影响。选取8头产后 $1 0 0 { \sim } 1 5 0 \mathrm { d }$ ，经产，体重、胎次、产奶量相同  
+6 或相近的健康的荷斯坦奶牛，每4头为1组分为2组进行交叉试验。试验（A）组饲喂用辣  
+7號 木梗叶替代基础饲粮中 $5 0 \%$ 苜蓿的试验饲粮,对照（B）组饲喂基础饲粮。试验分2期进行，  
+8 每期 $1 8 \mathrm { ~ d ~ }$ ，其中前15天为预试期，后3天为试验期。采集血样及奶样，并记录干物质采食  
+9 （DMI）量和产奶量。结果表明：1）与B组相比，A组奶牛的DMI显著增加（ $_ { _ { P < 0 . 0 5 } ) }$ ，  
+10 产奶量有升高的趋势（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0 \$ )，且显著提高了乳蛋白率、乳蛋白产量和乳总固形物  
+11 含量，有降低乳体细胞数的趋势（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0 \$ )；2）A 组奶牛血浆中胆固醇（CHOL）和  
+12 甘油三酯(TG)的含量显著低于B组( $. P { < } 0 . 0 5 )$ ),碱性磷酸酶(ALP)活性与游离脂肪酸(NEFA)  
+13 含量有下降的趋势（ ${ \displaystyle 0 . 0 5 \leqslant P < 0 . 1 0 }$ )；3）与B组相比，A组显著提高了奶牛血浆中总抗氧化  
+14 能力（T-AOC）以及抑制羟自由基能力（ $P { < } 0 . 0 5 \$ )，显著降低了血浆中丙二醛（MDA）含量  
+15 （P<0.05)，显著提高血浆中免疫球蛋白G（ $\mathrm { I g G }$ ）的含量（ $P { < } 0 . 0 5 \$ )。因此，辣木梗叶在一  
+16 定程度上可促进奶牛生产性能的提高，预防乳房炎的发生，改善奶牛血浆生化指标，提高奶  
+17 牛机体抗氧化能力和免疫功能，可作为优质粗饲料应用于奶牛的生产实践。  
+18 关键词：辣木梗叶；奶牛；生产性能；血浆生化指标；抗氧化指标；免疫功能  
+19 中图分类号：S826  
+20 粗饲料作为奶牛主要的饲料来源，在奶牛营养体系中起着至关重要的作用，随着我国奶  
+21 牛养殖业的发展及牧草种植面积的减少，使得优质粗饲料短缺现象日益紧张，因而，近年来  
+22 人们转向对新型粗饲料资源的开发与利用。辣木（M.oleifera Lam.)，主要种植于热带和亚  
+23 热带地区，其根、树皮、叶子、花、果实和种子均具有丰富的营养及药用价值[1-3]，是一种  
+24 适应性强、生长速度快，产量高、可食用的功能性植物。辣木叶（MOL）含有丰富的蛋白
+
+质、矿物质元素、维生素及必需氨基酸，同时还含有胡萝卜素、维生素、黄酮类等抗氧化成分，是天然的抗菌剂和抗氧化剂[4]。相反，辣木梗（MOP）虽然营养价值较低，但其物理纤维含量较高且价格便宜，若将二者按相应比例混合作为粗饲料应用到奶牛生产中，缓解优质粗饲料短缺问题，这将具有重要意义。有研究发现，辣木叶在嫩叶和成熟2个阶段均具有较强的抗氧化活性，可防止因氧化反应对主要生物分子造成的损伤[5]。辣木叶在降血脂、抗动脉粥样硬化、提高免疫力和抗肿瘤等方面也具有一定作用[6-8]。Kholif 等[9]对泌乳努比亚山羊进行的饲喂试验表明，辣木叶替代一定量的芝麻可提高山羊的饲料消化率、产奶量以及改善瘤胃发酵功能。众所周知，有“牧草之王”之称的苜蓿是优质粗饲料的代表，而辣木叶的营养水平与其相当，且蛋白质含量高于苜蓿，若辣木能够在中国进行广泛推广及种植，基于其较高的生物量，无论是在营养上还是成本上均有优于苜蓿的潜力。因此本试验以辣木梗叶替代基础饲粮中 $5 0 \%$ 的首蓿，探究辣木梗叶对奶牛生产性能及血浆生化、抗氧化和免疫指标的影响，为辣木叶梗作为粗饲料在奶牛生产中科学、合理的应用提供理论依据。
+
+1材料与方法
+
+# 1.1 试验材料与试验设计
+
+试验所使用的辣木叶及辣木梗由北京美琳卡生物科技有限公司提供，辣木品种为 $\mathrm { P K M _ { 1 } }$ 是从辣木中优选的栽培品种，原产于印度的加尔各答市，具有生长速度快，分枝多，子实产量高等优良经济性状。辣木叶与辣木梗的混合比例为3:2，二者营养成分含量见表1。
+
+表1辣木叶和辣木梗营养成分含量 (干物质基础)  
+Table 1Nutrient composition contents of Moringa oleifera leaves and peduncles (DM basis) $\%$   
+
+<html><body><table><tr><td colspan="10"></td><td>中性洗涤</td><td>酸性洗涤</td></tr><tr><td>项目</td><td>干物质</td><td>粗蛋白质</td><td>粗脂</td><td>中性洗</td><td>酸性洗</td><td>酸性洗 涤木质</td><td>粗灰分</td><td>钙</td><td>总磷</td><td>不溶粗蛋</td><td>不溶粗蛋</td></tr><tr><td>Items</td><td>DM</td><td>CP</td><td>肪</td><td>涤纤维</td><td>涤纤维</td><td>素</td><td>Ash</td><td>Ca</td><td>TP</td><td>白质</td><td>白质</td></tr><tr><td></td><td></td><td></td><td>EE</td><td>NDF</td><td>ADF</td><td>ADL</td><td></td><td></td><td></td><td>NDICP</td><td>ADICP</td></tr><tr><td>辣木叶 MOL</td><td>92.72</td><td>23.13</td><td>8.99</td><td>42.44</td><td>27.87</td><td>11.55</td><td>9.96</td><td>1.52</td><td>0.19</td><td>12.34</td><td>4.02</td></tr><tr><td>辣木梗 MOP</td><td>91.38</td><td>11.98</td><td>3.40</td><td>55.51</td><td>41.05</td><td>18.65</td><td>6.92</td><td>0.88</td><td>0.24</td><td>2.45</td><td>1.09</td></tr></table></body></html>
+
+44 本试验在哈尔滨市综合牧场进行，采用交叉试验设计，以消除奶牛个体及其在不同产奶  
+45 阶段的差异。试验选取出产后100\~150d，经产，胎次、产奶量相同或相近，遗传组成基本  
+46 相似的健康的中国荷斯坦奶牛8头，每4头为1组。试验（A）组饲喂辣木梗叶替换基础饲
+
+粮中 $5 0 \%$ 苜蓿的饲粮，对照（B）组饲喂基础饲粮。试验分2期进行，每期18d，其中前15天为预试期，最后3天为试验期进行采样。本试验于2015年12月27日开始至2016年1月31日结束，为期 $3 6 \mathrm { d }$ 。
+
+1.2 饲养管理与饲粮组成
+
+本试验所有奶牛的饲养管理条件相同，每天饲喂3次，分别为05：00、11:00、17：00,每个阶段饲喂时间为 $2 { \sim } 3 \mathrm { ~ h ~ }$ ，自由饮水，饲粮饲喂形式为全混合日粮（TMR)。奶牛饲粮参照《奶牛饲养标准》NY/T34-2004由CMP配方软件配制，饲粮由精料、玉米青贮、苜蓿干草组成，精料由玉米、甜菜粕、豆粕、脂肪粉、预混料等组成，饲粮组成及营养水平见表2。
+
+# 表2饲粮组成及营养水平 (干物质基础)
+
+Table 2Composition and nutrient levels of diets (DM basis) $\%$   
+
+<html><body><table><tr><td>项目Items</td><td colspan="2">含量Contents</td></tr><tr><td></td><td>A 组A group</td><td>B 组B group</td></tr><tr><td>原料 Ingredients</td><td></td><td></td></tr><tr><td>玉米青贮 Corn silage</td><td>24.53</td><td>24.53</td></tr><tr><td>玉米 Corn</td><td>22.64</td><td>22.64</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>8.97</td><td>8.97</td></tr><tr><td>苜蓿Alfalfa</td><td>10.85</td><td>21.70</td></tr><tr><td>干酒糟及其可溶物 DDGS</td><td>4.72</td><td>4.72</td></tr><tr><td>辣木梗叶 Moringa oleifera feed</td><td>10.85</td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>11.79</td><td>11.79</td></tr><tr><td>甜菜粕 Beet pulp</td><td>2.83</td><td>2.83</td></tr><tr><td>脂肪粉 Fat meal</td><td>1.41</td><td>1.41</td></tr><tr><td>预混料 Premix1)</td><td>0.61</td><td>0.61</td></tr><tr><td>食盐 NaCl</td><td>0.80</td><td>0.80</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>泌乳净能 NEL/(MJ/kg)</td><td>7.07</td><td>7.07</td></tr><tr><td>粗蛋白质 CP</td><td>17.37</td><td>18.03</td></tr><tr><td>中性洗涤纤维NDF</td><td>31.68</td><td>30.20</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>20.00</td><td>18.89</td></tr><tr><td>钙Ca</td><td>0.67</td><td>0.67</td></tr><tr><td>总磷 TP</td><td>0.46</td><td>0.46</td></tr></table></body></html>
+
+1 每千克预混料含有 One kilogram of premix contained the following: $\mathrm { M n } \ : 3 \ : 5 0 0 \ : \mathrm { m g }$ ，Fe $1 6 0 0 \mathrm { m g }$ ， Zn 10 $0 0 0 \mathrm { m g }$ ，Cu $1 5 0 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 1 2 0 \ : \mathrm { m g }$ ，Se $8 0 \mathrm { m g }$ ，Co $5 0 \mathrm { m g }$ ，VA 800 000 IU，VD3 700 000IU，VE10000 IU。 2 泌乳净能为计算值，其余为实测值。NEL was a calculated value,and others were measured values. 1.3样品采集和处理
+
+#
+
+每期的3d试验期进行饲料供给量和剩料量的记录，分别测定其干物质含量并统计干物  
+质采食量（DMI)。每期的3d试验期对每头试验奶牛进行产奶量的记录及奶样的采集，奶样采集时间为06：  
+00和18：00，每次约 $5 0 ~ \mathrm { m L }$ ，将2次奶样按上午和下午实际产奶量的比例混合，用于乳成  
+分及乳体细胞数的测定，试验期的平均产奶量代表该阶段的产奶量。每期的试验期最后1天，于晨饲前，对每头奶牛进行尾根静脉采血，血液样本采用肝素  
+钠抗凝管收集， $3 5 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清血浆于5个EP管中，-20℃冷冻保存。用  
+于血浆生化、抗氧化和免疫指标的测定。乳成分：乳脂(Fat）、乳蛋白(Pro）、乳糖(Lac）、固形物(TS),以上指标采用FossMilkoScan  
+$\mathrm { F T + }$ 型乳成分分析仪进行测定。乳体细胞数（SCC）的测定采用利拉伐体细胞测定仪。血浆生化指标：总蛋白(TP)、白蛋白（ALB）、球蛋白（GLB）、胆固醇（CHOL）、甘  
+油三酯（TG）、高密度脂蛋白（HDL）、低密度脂蛋白（LDL）、尿素氮（UN）、葡萄糖（GLU)  
+含量，谷丙转氨酶（ALT）、碱性磷酸酶（ALP）活性，以上指标均采用意大利Fully 全自动  
+生化分析仪测定，试剂盒均购自北京中生北控生物科技股份有限公司。游离脂肪酸（NEFA）  
+和β-羟丁酸（BHBA）含量采用日本岛津UV-2401紫外分光光度计测定，试剂盒均购自南  
+京建成生物工程研究所，具体方法参见试剂盒说明书。血浆抗氧化指标：过氧化氢酶（CAT）活性、总超氧化物歧化酶（T-SOD）活性、总抗  
+氧化能力（T-AOC）、抑制羟自由基能力和丙二醛（MDA）含量。试剂盒均购自南京建成生  
+物工程有限公司，具体方法参见试剂盒说明书。血浆免疫指标：免疫球蛋白A（IgA）、免疫球蛋白G（IgG）和免疫球蛋白M（IgM)  
+含量，以上指标均采用免疫透射比浊法，通过全自动生化分析仪进行测定，试剂盒均购自南  
+京建成生物工程有限公司。  
+1.4数据处理与分析所有试验数据先用 Excel软件进行初步处理，以 SAS 9.4 软件 MIXED 模块进行统计学
+
+检验，采用Duncan氏法进行组间多重比较。 $P { < } 0 . 0 1$ 代表差异极显著， $P { < } 0 . 0 5$ 代表差异显著，$0 . 0 5 { \le } P { < } 0 . 1 0$ 代表有趋势。
+
+# 2结果与分析
+
+2.1辣木梗叶替代 $5 0 \%$ 苜蓿对奶牛生产性能的影响
+
+由表3可见，A组的DMI和能量校正乳产量显著高于B组（ $. P { < } 0 . 0 5 )$ )，且其产奶量较B组平均高 $2 . 0 9 \mathrm { k g / d }$ ，有增高的趋势（ $0 . 0 5 { \le } P { < } 0 . 1 0 )$ ；A 组奶牛乳蛋白产量、乳蛋白率和乳总固形物含量均显著高于B组（ $P { < } 0 . 0 5 \$ )，而乳脂率、乳脂产量、乳糖率、乳糖产量没有显著变化（ $P { > } 0 . 0 5 \ '$ ；A组较B组的乳体细胞数有显著降低的趋势（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0 { \rangle }$ 。
+
+# 表3辣木梗叶替代 $5 0 \%$ 首蓿对奶牛生产性能的影响
+
+Table 3Effects of Moringa oleifera leavesand peduncles replaced $50 \%$ alfalfa on production performance in   
+
+<html><body><table><tr><td>96</td><td colspan="4">cows</td></tr><tr><td>项目Items</td><td>A 组 A group</td><td>B 组B group</td><td>SEM</td><td>P值P-value</td></tr><tr><td>干物质采食量 Dry matter intake/(kg/d)</td><td>20.34a</td><td>18.68b</td><td>0.98</td><td>0.03</td></tr><tr><td>产奶量 Milk production/(kg/d)</td><td>31.36</td><td>29.27</td><td>1.06</td><td>0.08</td></tr><tr><td>4%校正乳产量 4%FCM production/(kg/d)1)</td><td>26.87</td><td>24.61</td><td>0.97</td><td>0.06</td></tr><tr><td>能量校正乳产量 ECM production/(kg/d)2)</td><td>30.28a</td><td>27.69b</td><td>0.88</td><td>0.03</td></tr><tr><td>乳成分Milk composition</td><td></td><td></td><td></td><td></td></tr><tr><td>乳脂率Milk fat rate/%</td><td>3.07</td><td>3.00</td><td>0.20</td><td>0.71</td></tr><tr><td>乳脂产量 Milk fat yield/(kg/d)</td><td>0.96</td><td>0.86</td><td>0.06</td><td>0.16</td></tr><tr><td>乳蛋白率 Milk protein rate/%</td><td>3.22a</td><td>3.12b</td><td>0.04</td><td>0.02</td></tr><tr><td>乳蛋白产量 Milk protein yield/(kg/d)</td><td>1.00a</td><td>0.91b</td><td>0.02</td><td><0.01</td></tr><tr><td>乳糖率Lactose rate/%</td><td>5.07</td><td>5.09</td><td>0.03</td><td>0.68</td></tr><tr><td>乳糖产量 Lactose yield/(kg/d)</td><td>1.58</td><td>1.50</td><td>0.04</td><td>0.09</td></tr><tr><td>乳总固形物含量 Milk total solid content/%</td><td>11.64a</td><td>11.16b</td><td>0.13</td><td>0.01</td></tr><tr><td>乳体细胞数 Milk SCC/(x10+个/mL)</td><td>12.71b</td><td>45.35a</td><td>9.19</td><td>0.05</td></tr></table></body></html>
+
+》 $4 \%$ 校正乳产量 $\scriptstyle = 0 . 4 \times$ 产奶量（kg/d) $+ 1 5 \times$ 乳脂产量 $( \mathrm { { k g / d } } )$ ）° $4 \%$ FCM production $= 0 . 4 \times$ milk production $( \mathrm { k g } / \mathrm { d } ) \substack { + 1 5 \times }$ milk fat yield $\mathrm { ( k g / d ) }$ 2）能量校正乳产量 ${ \bf \varepsilon } = 0 . 3 2 7 \times \$ 产奶量（kg/d) $+ 1 2 . 9 5 \times$ 乳脂产量( $\mathrm { \langle k g / d }$ ） $+ 7 . 6 5 \times$ 乳蛋白产量 $\mathrm { ( k g / d ) }$ 。ECM production $_ { 1 = 0 . 3 2 7 } \times$ milk production (kg $( \mathrm { d } ) + 1 2 . 9 5 \times \mathrm { m }$ ilk fat yield $( \mathrm { k g / d } ) { + } 7 . 6 5 \times \mathrm { m i l k }$ protein yield $( \mathrm { { k g / d } ) }$ 同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。 In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+2.2 辣木梗叶替代 $5 0 \%$ 苜蓿对奶牛血浆生化指标的影响
+
+由表4可见，与B组相比，A组奶牛血浆中CHOL和TG含量显著降低（ $P { < } 0 . 0 5 )$ ，血浆中ALP活性与NEFA含量有下降的趋势（ $0 . 0 5 { \le } P { < } 0 . 1 0 \dot { . }$ ，其他指标A组与B组之间无显
+
+著差异（ $P { > } 0 . 0 5 \$ ）
+
+# 表4辣木梗叶替代 $5 0 \%$ 首蓿对奶牛血浆生化指标的影响
+
+Table 4Effects of Moringa oleifera leaves and peduncles replaced $50 \%$ alfalfa on plasma biochemical indexes
+
+<html><body><table><tr><td colspan="5">in cows</td></tr><tr><td rowspan="3">项目Items</td><td>A组A</td><td>B组B</td><td rowspan="3"></td><td>P值</td></tr><tr><td>group</td><td>group</td><td>SEM P-value</td></tr><tr><td>70.08</td><td>73.46</td><td>0.24</td></tr><tr><td>总蛋白 TP/(g/L) 白蛋白 ALB/(g/L)</td><td></td><td>26.44</td><td>2.58 2.65</td><td>0.84</td></tr><tr><td>球蛋白 GLB/(g/L)</td><td>25.89</td><td></td><td>3.3</td><td></td></tr><tr><td>胆固醇 CHOL/(mmol/L)</td><td>44.19</td><td>46.78</td><td>0.39</td><td>0.46</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>4.66b</td><td>5.66a 31.88</td><td></td><td>0.04</td></tr><tr><td>碱性磷酸酶 ALP/(U/L)</td><td>31.38</td><td>47.38</td><td>1.67</td><td>0.77</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>40.38 0.17b</td><td>0.20a</td><td>3.24</td><td>0.07</td></tr><tr><td>高密度脂肪酸 HDL/(mmol/L)</td><td></td><td>1.60</td><td>0.01</td><td>0.01</td></tr><tr><td>低密度脂肪酸LDL/(mmol/L)</td><td>1.42</td><td>1.34</td><td>0.28</td><td>0.55</td></tr><tr><td>尿素氮UN/(mmol/L)</td><td>1.22</td><td>6.70</td><td>0.18</td><td>0.53</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>6.90</td><td>4.45</td><td>0.44</td><td>0.67</td></tr><tr><td>游离脂肪酸 NEFA/(μmol/L)</td><td>4.35 356.60</td><td>413.77</td><td>0.16 27.16</td><td>0.55</td></tr><tr><td>β-羟丁酸 BHBA/(mmol/L)</td><td>0.68</td><td>0.67</td><td>0.05</td><td>0.08 0.81</td></tr></table></body></html>
+
+2.3辣木梗叶替代 $5 0 \%$ 苜蓿对奶牛血浆抗氧化指标的影响
+
+由表5可见，与B组相比，添加辣木梗叶的A组可显著提高奶牛血浆中T-AOC以及抑制羟自由基能力 $( P { < } 0 . 0 5 )$ ，A组血浆中MDA含量显著降低 $( P { < } 0 . 0 5 )$ 。
+
+# 表5辣木梗叶替代 $5 0 \%$ 苜蓿对奶牛血浆抗氧化指标的影响
+
+Table 5Effects of Moringa oleifera leaves and peduncles replaced $50 \%$ alfalfa on plasma antioxidant indexes   
+
+<html><body><table><tr><td colspan="5">in cows</td></tr><tr><td>项目Items</td><td>A组A</td><td>B组B</td><td>SEM</td><td>P值</td></tr><tr><td></td><td>group</td><td>group</td><td></td><td>P-value</td></tr><tr><td>过氧化氢酶 CAT/(U/mL)</td><td>4.07</td><td>3.35</td><td>0.92</td><td>0.46</td></tr><tr><td>总超氧化物歧化酶 T-SOD/(U/mL)</td><td>192.99</td><td>185.54</td><td>6.05</td><td>0.26</td></tr><tr><td>总抗氧化能力 T-AOC/(U/mL)</td><td>2.71a</td><td>2.31b</td><td>0.13</td><td>0.02</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>2.59b</td><td>3.11a</td><td>0.18</td><td>0.03</td></tr><tr><td>抑制羟自由基能力/(U/mL)</td><td>720.14a</td><td>578.56b</td><td>40.48</td><td>0.01</td></tr></table></body></html>
+
+2.4辣木梗叶替代 $5 0 \%$ 苜蓿对奶牛血浆免疫指标的影响
+
+由表6可见，与B组相比，A组显著提高了奶牛血浆中IgG含量（ $. P { < } 0 . 0 5 )$ ，但IgA和IgM含量无显著变化（ $. P { > } 0 . 0 5 )$ ）°
+
+表6辣木梗叶替代 $5 0 \%$ 苜蓿对奶牛血浆免疫指标的影响
+
+122
+
+<html><body><table><tr><td colspan="2">cows</td><td colspan="3">g/L</td></tr><tr><td>项目Items</td><td>A 组 A group</td><td>B 组B group</td><td>SEM</td><td>P值P-value</td></tr><tr><td>免疫球蛋白AIgA</td><td>0.12</td><td>0.10</td><td>0.01</td><td>0.16</td></tr><tr><td>免疫球蛋白GIgG</td><td>1.25a</td><td>1.19b</td><td>0.01</td><td>0.01</td></tr><tr><td>免疫球蛋白MIgM</td><td>1.00</td><td>0.99</td><td>0.01</td><td>0.56</td></tr></table></body></html>
+
+3讨论
+
+3.1辣木梗叶替代 $5 0 \%$ 首蓿对奶牛生产性能的影响
+
+奶牛DMI可有效反映奶牛的生产性能和健康状况[10]。前人研究证明，辣木叶可显著提高奶牛的 DMI[I]及产奶量[12]。本试验中 A 组奶牛的 DMI及能量校正乳产量显著升高，且产奶量较B组有升高的趋势。这可能是因为添加辣木梗叶饲粮的适口性较好且过瘤胃蛋白的含量较高[13]。有文献证明，辣木叶中具有较高的过瘤胃蛋白质，过瘤胃蛋白质的增加对奶牛 DMI 的提高具有一定促进作用[14-15]。DMI 是影响奶牛产奶量的一个重要指标，在饲粮组成结构和营养水平基本相同的情况下，DMI越多，产奶量越大[6]，与本试验结果一致。A组奶牛的乳蛋白率、乳蛋白产量和乳总固形物含量显著提高，而乳糖率和乳脂率未发生显著变化。Basitan 等[17]的研究证实，奶牛饲粮中添加一定比例辣木可显著提高奶牛的产奶量。Sänchez 等[18]也报道，产奶量的提高与乳脂和乳蛋白产量的增加有一定的关系。有研究发现，改善瘤胃发酵功能可促进乳中乳蛋白、乳脂、乳糖产量的提高。Khalel等[19]的试验表明，辣木叶改善了奶牛瘤胃发酵功能，从而显著提高了奶牛的产奶量和乳成分，包括乳总固形物含量、乳脂率和乳蛋白率，但对乳糖率无显著影响，与本试验结果相似。乳体细胞数的多少可衡量奶牛的乳房健康程度，当奶牛产奶量显著降低时，其乳体细胞数会相应升高，二者呈显著的负相关[20-21]。本试验中A组乳体细胞数有低于B 组的趋势，且A组乳体细胞数小于 20$\times 1 0 ^ { 4 }$ 个 $/ \mathrm { m L }$ ，在正常范围内，而B组的乳体细胞数接近 $5 0 \times 1 0 ^ { 4 }$ 个 $/ \mathrm { m L }$ ，有患隐性乳房炎的危险[221]。A 组体细胞显著降低的主要原因可能是辣木叶具有抑菌抗炎的作用，相关研究证明辣木叶的甲醇提取物可显著抑制金黄色葡萄球菌及大肠杆菌的生长，对金黄色葡萄球菌和大肠杆菌的抑菌率可分别达 $9 0 . 3 4 \%$ 和 $3 7 . 2 1 \% ^ { [ 4 ] }$ ，其中金黄色葡萄球菌又是致奶牛患乳房炎的主要病原菌。综上所述，添加辣木梗叶的饲粮在一定程度上可提高奶牛的生产性能，显著降低乳体细胞数，有效预防隐性乳房炎的发生，从而改善奶牛乳腺健康，提高牛奶品质。
+
+3.2辣木梗叶替代 $5 0 \%$ 苜蓿对奶牛血浆生化指标的影响
+
+血浆生化指标可有效反映奶牛的营养状况，同时也有助于早期诊断及预防奶牛营养代谢疾病，本试验中A组与B组奶牛的血浆生化指标均在正常参考值范围内[23]。A组与B 组奶牛血浆中 TP、ALB、GLB、HDL、LDL、UN、GLU 含量和 ALT 活性无显著差异。CHOL与 TG 是检测血脂含量高低的重要指标，同时也可有效反映机体的脂代谢情况，反刍动物若血脂代谢异常可能导致酮病等营养代谢疾病。本试验中A组的CHOL与TG 的含量显著降低，这可能是因为辣木叶具有降低血压和CHOL的功能成分[24]。Ghasi等[25]的研究发现，辣木叶水提取物可缓解因高脂饲粮致Wistar 小鼠血浆中CHOL 含量的升高。另外，Jain 等[26]也证实辣木叶甲醇提取物对饲喂高脂饲粮的小鼠血浆中的TC 和 TG 有降低作用，与本试验结果相似。BHBA可作为预测酮症的有效指标，本试验中2组血浆BHBA含量无显著差异，未引起酮体升高。另外，血液中 NEFA 是评价奶牛机体能量负平衡重要指标[27]，当奶牛处于能量负平衡时，体脂动员加剧，血液中NEFA含量提高。本试验结果发现，A组奶牛血浆中 NEFA的含量有下降的趋势，说明添加辣木梗叶的饲粮可充分满足奶牛对能量的需要，减少脂肪动员。有研究表明，饲粮能量利用率的提高与饲粮中能量和氮的同步释放有一定关系[28]。进一步说明添加辣木梗叶的饲粮的能量和氮能较好的同步释放，提高饲粮能量利用率，减少 NEFA 的产生。ALT和ALP 是反映肝脏功能的重要氨基酸转氨酶，一般情况下其活性处于相对稳定状态，但当肝脏受到损伤时，二者的活性出现过高或过低，本试验中，A组奶牛血浆中的ALT、ALP 活性较B组均无显著性差异。这与Allam等[29]以辣木叶提取物饲喂肉鸡的试验结果相似。
+
+# 3.3辣木梗叶替代 $5 0 \%$ 首蓿对奶牛血浆抗氧化和免疫指标的影响
+
+细胞的活力及功能的发挥部分依赖于其平衡的氧化还原状态，当机体内活性氧自由基（ROS）和自由基过量时，便会破坏这种平衡，导致细胞内的一些大分子物质（DNA、蛋白质、脂质）过度氧化，久而久之，造成细胞功能退化甚至细胞凋亡[30]。细胞可通过激活CAT、SOD 等酶发挥自身的内源性保护作用以对抗氧化应激。T-AOC 是反映机体酶及非酶促系统抗氧化能力的综合指标，而MDA则是脂质过氧化物代谢的终产物，其高低反映了机体因氧自由基所导致的脂质过氧化、细胞受损程度以及氧自由基代谢状况[31]。本试验结果显示，A组较B 组奶牛血浆中T-AOC 以及抑制羟自由基能力显著升高，而 MDA含量显著降低。这可能是因为辣木叶中含有抗氧化剂，可减少因脂质过氧化作用所造成的损伤，抑制
+
+ROS 和自由基的形成[29.32]。另外，有研究发现辣木叶提取物中的酚类、花青素、硫代氨基甲酸酯和苷类等活性成分具有清除自由基、激活抗氧化酶、抑制氧化酶的作用[33]。因此，饲喂添加辣木梗叶的饲粮可提高奶牛机体的抗氧化能力。免疫球蛋白是机体内一种重要的免疫活性物质，主要参与体液免疫的进行，能够与细菌和病毒等外援物质结合，帮助机体清除这些抗原物质[34]。有报道称，辣木中含有凝聚素，对人体免疫力具有增强作用[35]。本试验结果发现，辣木梗叶可显著提高奶牛血浆中的IgG 含量，且IgG 具有抗细菌、病毒、外毒素等多种活性，说明辣木梗叶对提高奶牛机体免疫力具有一定作用。
+
+4结论 辣木梗叶在一定程度上可促进奶牛生产性能的提高，预防乳房炎的发生，改善奶牛血浆   
+生化指标，提高奶牛机体抗氧化能力和免疫功能，可作为优质粗饲料应用于奶牛的生产实践。   
+参考文献:   
+[1]ANWAR F,LATIF S,ASHRAF M,et al.Moringa oleifera:a food plant with multiple medicinal uses[J].Phytotherapy Research,2007,21(1):17-25.   
+[2] RAMACHANDRAN C,PETER K V,GOPALAKRISHNAN P K.Drumstick (Moringa oleifera):a multipurpose Indian vegetable[J].Economic Botany,1980,34(3):276-283.   
+[3] KUMAR P S,MISHRA D,GHOSH G,et al.Medicinal uses and pharmacological properties of Moringa oleifera[J].International Journal of Phytomedicine,2010,2(3):210-216.   
+[4]KUMAR V,PANDEY N,MOHAN N,et al.Antibacterial & antioxidant activity of different extract ofMoringa oleifera leaves--an in-vitrostudy[J].International Journalof Pharmaceutical Sciences Review and Research,2011,12(1):89-94.   
+[5]SREELATHA S,PADMA P R.Antioxidant activity and total phenolic content of Moringa oleifera leaves in two stages of maturity[J].PlantFoods for Human Nutrition,2009,64(4):303-311.   
+[6]UDUPA S L,UDUPA A L,KULKARNI D R.A comparative study on the effect of some indigenous drugs on normal and steroid-depressed healing[J].Fitoterapia,1998,69(6):507- 510.   
+[7]PRAKASH A O,PATHAK S,SHUKLA S,et al.Pre and post-implantation changes in the uteus of rats:response to Moringa oleifera lam.extract[J].Ancient Science of Life,1988,8(1):49-54.   
+[8]FAIZI S,SIDDIQUI B S,SALEEM R,et al.Fully acetylated carbamate and hypotensive thiocarbamate glycosides from Moringa oleifera[J].Phytochemistry,1995,38(4):957-963.   
+[9]KHOLIF A E,MORSY T A,GOUDA G A,et al.Effect of feeding diets with processed Moringa oleifera meal as protein source in lactating Anglo-Nubian goats[J].Animal Feed Science and Technology,2016,217:45-55.   
+[10]郑家三,夏成,张洪友,等.过瘤胃胆碱对围产期奶牛生产性能和能量代谢的影响[J].中国 农业大学学报,2012,17(3):114-120.   
+[11]MENDIETA-ARAICA B,SPORNDLY E,REYES-SANCHEZ N,et al.Feeding Moringa oleifera fresh or ensiled to dairy cows-effects on milk yield and milk flavor[J].Tropical Animal Health and Production,2011,43(5):1039-1047.   
+[12]SANCHEZ N R,SPORNDLY E,LEDIN I.Effect of feeding different levels of foliage of Moringa oleifera to creole dairy cows on intake,digestibility,milk production and composition[J].Livestock Science,2006,101(1/2/3):24-31.   
+[13] KHOLIF A E,GOUDA G A,MORSY T A,et al.Moringa oleifera leaf meal as a protein source in lactating goat's diets:feed intake,digestibility,ruminal fermentation,milk yield and composition,and its fatty acids profile[J].Small Ruminant Research,2015,129:129-137.   
+[14]M'HAMED D,FAVERDIN P,VERITE R.Effects of the level and source of dietary protein on intake and milk yield in dairy cows[J].Annales De Zootechnie,2001,50(3):205-211.   
+[15]KHOLIF A E,KHATTAB H M,EL-SHEWY A A,et al.Nutrient digestibility,ruminal fermentation activities,serum parameters and milk production and composition of lactating goats fed diets containing rice straw treated with Pleurotus ostreatus[J].Asian-Australasian journal of animal sciences,2014,27(3):357-364.   
+[16]刘艳娜,史莹华,严学兵,等.苜蓿青干草替代部分精料对奶牛生产性能及经济效益的影 响[J].草业学报,2013,22(6):190-197.   
+[17]BASITAN I S,JARCIA E G.Yield,quality and feed cost effciency of milk produced by Anglo-Nubian goats fed different mixtures of Napier (Pennisetum purpureum) grass and malunggay(Moringaoleifera)[J].PhilippineJournalofVeterinaryandAnimal Sciences,2013,39(2):193-200.   
+[18]SANCHEZ N R,LEDIN S,LEDIN I.Biomass production and chemical composition of Moringa oleifera under different management regimes in Nicaragua[J].Agroforestry Systems,2006,66(3):231-242.   
+[19]KHALEL M S,SHWERAB A M,HASSAN A A,et al.Nutritional evaluation of Moringa oleifera fodder in comparison with Trifolium alexandrinum (berseem) and impact of feeding on lactation performance of cows[J].Life Science Journal,2014,11(10):1040-1054.   
+[20]萨丽塔娜提,阿合买提·买买提,占秀梅.奶牛乳房炎与牛乳中的体细胞数关系研究[J].草 食家畜,2012(3):81-83.   
+[21] 毛永江,杨章平,王杏龙,等.南方地区荷斯坦牛乳中体细胞数及乳房性状与泌乳性能相 关性的研究[J].中国奶牛,2002(2):12-13.   
+[22]RUEGG PL,DOHOO IR.A benefit to cost analysis of the efect of premilking teat hygiene on somatic cell count and intramammary infections in a commercial dairy herd[J].The Canadian Veterinary Journal La Revue Vétérinaire Canadienne,1997,38(1O):632-636.   
+[23]李新萍,陶岳,张孝恩,等.新疆石河子地区奶牛血液生化指标正常参考值范围的建立[J] 中国奶牛,2011(18):47-50.   
+[24]张婧.辣木组织培养及有效成分分析[D].硕士学位论文.福州:福建农林大学,2013.   
+[25]GHASI S,NWOBODO E,OFILI J O.Hypocholesterolemic effects of crude extract of leaf of MoringaoleiferaLaminhigh-fatdietfedwistarrats[J].Journal of Ethnopharmacology,2000,69(1):21-25.   
+[26] JAIN P G,PATIL S D,HASWANI N G,et al.Hypolipidemic activity of Moringa oleifra Lam.,Moringaceae,on high fat diet induced hyperlipidemia in albino rats[J].Revista Brasileira De Farmacognosia,2010,20(6):969-973.   
+[27]LEBLANC S J.Monitoring programs for transition dairy cows[C]//Procedings of the 26th World Biuatrics Congress.Nice,France:World Biuatrics Congress,2006:460-472.   
+[28]RICHARDSON J M,WILKINSON R G,SINCLAIR L A.Synchrony of nutrient supply to
+
+the rumen and dietary energy source and their effects on the growth and metabolism of lambs[J].Journal of Animal Science,2003,81(5):1332-1347.
+
+[29]ALLAM H,ABDELAZEM A M,SALAH H,et al.Some hemato-biochemical,bacteriological and pathological effects of Moringa oleifera leaf extract in broiler chickens[J].International Journal of Basic and Applied Sciences,2016,5(2):99-104.   
+[30]MBIKAY M.Therapeutic potential of Moringa oleifera leaves in chronic hyperglycemia and dyslipidemia:a review[J].Frontiers in Pharmacology,2O12,3:24.   
+[31]朱宏娟.不同硒源及硒水平对肉仔鸡生产性能和血液抗氧化指标的影响[D].硕士学位 论文.长沙:湖南农业大学,2006.   
+[32]OGBE A O,AFFIKU J P.Proximate study,mineral and anti-nutrient composition of Moringa oleifera leaves harvested from Lafia,Nigeria:potential benefits in poultry nutrition and health[J].Journal of Microbiology Biotechnology and Food Sciences,2011,1(3):296-308.   
+[33]LUQMAN S,SRIVASTAVA S,KUMAR R,et al.Experimental assessment of Moringa oleifera leaf and fruit for its antistressantioxidant,and scavenging potential using in vitro and in vivo assays[J].Evidence-Based Complementary and Alternative Medicine,2011,2012:519084.   
+[34]刘爱国,杨桂有,刘晓磊,等.牛血清中免疫球蛋白的提取研究[J].食品科 学,2007,28(9):261-265.   
+[35]郭利群,冯凤兆,吴琳,等.辣木的药用价值及应用研究[J].热带农业科学,2015,35(6):11- 17. Effects of Moringa oleifera Leaves and Peduncles on Production Performance, and Plasma Biochemical, Antioxidant and Immune Indexes in Dairy Cows ZHANG Xingyi LIN Cong LI Yang WANG Yizhen GAO Hong ZHANG Guangning JIANG Xin XU Hongjian ZHANG Yonggen\* (College of Animal Science and Technology, Northeast Agricultural University, Harbin 150030, China)
+
+Abstract: The aim of this experiment was to investigate the effects of Moringa oleifera leaves and peduncles replaced $50 \%$ alfalfa in basal diet on production performance, plasma biochemical, antioxidant and immune indexes in lactating dairy cows. Eight healthy and multiparous Holstein cows (same or similar in body weight, parity and milk production, at 100 to $1 5 0 \mathrm { d }$ after deliver) were allocated to two groups and make a crossover trail. Cows in experimental (A) group were fed diet which Moringa oleifera leaves and peduncles replaced $50 \%$ alfalfa in a basal diet, and those in control (B) group were fed the basal diet. There were two periods in this study, and each period had 15 days of pretrial period and 3 days of trail period. Blood and milk samples were collected, and dry matter intake (DMI and milk production were recorded. The results showed as follows: 1) compared with B group,DMI in A group was significantly increased $( P { < } 0 . 0 5 )$ ，and milk production had a tendency to rise $( 0 . 0 5 { \leqslant } P { < } 0 . 1 0 )$ ，and A group significantly improved milk protein rate, milk protein yield and milk total solid content, while milk somatic cell count had a tendency to decrease $( 0 . 0 5 { \leqslant } P { < } 0 . 1 0 )$ ; 2) the contents of cholesterol (CHOL)and triglyceride (TG) in plasma of A group were significantly lower than those of B group $( P { < } 0 . 0 5 )$ ，and alkaline phosphatase (ALP） activity and non-esterified fatty acid (NEFA） content of A group had tendencies to decrease $( 0 . 0 5 { \leqslant } P { < } 0 . 1 0 )$ ; 3) compared with B group, A group not only significantly improved total antioxidant capacity (T-AOC) and inhibition of hydroxyl radical capacity in plasma （204号 $( P { < } 0 . 0 5 )$ ， significantly decreased the content of malonaldehyde (MDA) in plasma $( P { < } 0 . 0 5 )$ ，and significantly increased plasma content of immunoglobulin G (IgG) $( P { < } 0 . 0 5 )$ . In conclusion, Moringa oleifera leaves and peduncles can promote the improvement of production performance of dairy cows to a certain extent， prevent the happening of mastitis, and improve plasma biochemical indexes,antioxidant function and immune function,and can be applied in production practice of dairy cows as a high quality roughage. Key words: Moringa oleifera leaves and peduncles; dairy cows; production performance; plasma

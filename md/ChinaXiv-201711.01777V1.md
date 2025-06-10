@@ -1,0 +1,235 @@
+魏炳栋1,2 刁其玉1\* 陈　群2\* 杨华明²　邱玉朗² 王世琴」李林²
+
+3 （1.中国农业科学院饲料研究所，农业部饲料生物技术重点实验室，北京100081；2.吉林省  
+4 农业科学院畜牧分院，公主岭136100)
+
+摘要：本试验旨在利用开放式呼吸测热装置研究肉羊（公)营养物质代谢及能量需要参数。
+
+采用完全随机试验设计，将15只出生日期相近、体况良好、体重相近的杜泊 $\times$ 小尾寒羊F1代公羔随机分成3组（每组5只羊)，分别按自由采食（AL）、限饲 $70 \%$ （IR70）和限饲 $40 \%$ （IR40）3个饲喂水平投喂饲粮。分别在体重达到22 和 $3 5 ~ \mathrm { k g }$ 时进行1期试验，每期试验包括消化代谢试验（预试期 $3 \mathrm { d }$ ，正试期5d）和呼吸代谢试验（适应呼吸代谢室 $2 4 \mathrm { h }$ ，连续测定5d)。结果表明：1)随饲喂水平降低，肉羊的平均日增重极显著降低( ${ \scriptstyle \cdot } P { < } 0 . 0 1$ )，末重IR40组均极显著低于AL组（ $P { < } 0 . 0 1$ )。2）随饲喂水平降低，肉羊干物质和氮采食量极显著降低（ $_ { . P < 0 . 0 1 } )$ )，但是这2者的表观消化率没有显著变化（ $P { > } 0 . 0 5$ )。3）随饲喂水平降低，肉羊甲烷产生量、甲烷能及产热量均降低，IR40 组均极显著低于AL组（ $P { < } 0 . 0 1$ )。4）肉羊绝食$6 0 \mathrm { { h } }$ ，呼吸熵为0.71，第1期和第2期甲烷产生量分别为0.86和 $1 . 1 8 \mathrm { L } / \mathrm { d }$ ，绝食产热量分别为0.211和 $0 . 2 6 0 \mathrm { M J / k g } \mathrm { W } ^ { 0 . 7 5 }$ ，维持净能分别为0.252 和 $0 . 3 1 2 \mathrm { M J / k g } \mathrm { W } ^ { 0 . 7 5 }$ 。综合得出，随饲喂水平降低，肉羊的生产性能、营养物质采食量、平均日增重、甲烷产生量、甲烷能及产热量均降低，但营养物质表观消化率没有显著变化。绝食状态下，甲烷产生量为 $0 . 8 6 { \sim } 1 . 1 8 \mathrm { L } / \mathrm { d }$ 绝食产热量为 $0 . 2 1 1 { \sim } 0 . 2 6 0 \mathrm { M J / k g } \mathrm { W } ^ { 0 . 7 5 }$ ，维持净能为 $0 . 2 5 2 { \sim } 0 . 3 1 2 \mathrm { M J / k g } \mathrm { W } ^ { 0 . 7 5 }$
+
+关键词：肉羊；能量代谢；饲养水平；开放式呼吸测热装置
+
+中图分类号：S826
+
+我国肉羊产业发展迅速，短短数十年间，已由一个存栏量只有4000 万只的国家发展成为世界第1养羊大国。我国绵羊、山羊品种资源丰富，各省、市、自治区均有分布，但是我国肉羊的规模化生产则处于刚刚起步阶段，主要表现在：良种化程度低、养殖方式粗放、饲料加工水平低等，尤其在肉羊营养需要研究方面起步很晚，还未形成标准的肉羊营养需要、饲料评价及生产体系[1-2]。因此，研究肉羊能量需要，发展舍饲或半舍饲肉羊生产，对合理利用饲料、充分发挥肉羊生产潜能、提高养羊业经济效益具有十分重要的意义。世界上科技发达国家对动物能量代谢研究较早，处于领先地位。自18世纪中叶至19世纪初，法、德、美、丹麦等发达国家相继研究试制出各种类型的动物呼吸测热装置，在饲料营养价值判定、能量需要量确定、饲养标准制定等方面取得了丰硕的研究成果[3]。我国的能量代谢研究起步很晚，起始于20世纪70年代，著名的动物营养学家杨诗兴、杨嘉实、冯仰廉等人相继开展了呼吸代谢测定工作，研制出不同类型的面罩式、密闭式、开放式等呼吸测热装置，并应用到猪、鸡、牛、羊等动物能量代谢研究中。近些年，许贵善等[2]、楼灿等[4]、彭津津等[5]采用呼吸室、比较屠宰等方法研究了不同生理阶段肉羊的能量代谢参数。虽然上述工作已经取得了一些进展，但是利用开放式呼吸测热装置研究肉羊能量代谢需要的研究报道还较少。本研究以 $2 0 { \sim } 3 5 ~ \mathrm { k g }$ 和 $3 6 { \sim } 5 0 ~ \mathrm { k g } ~ 2$ 个体重阶段的杜泊×小尾寒羊F1代肉羊（公）为研究对象，利用吉林省农业科学院畜牧分院自主研制开发的八室并联多功能呼吸测热装置，采用饲养试验、消化代谢试验以及呼吸代谢试验相结合的方法，研究肉羊营养物质代谢及能量需要参数，以期为肉羊养殖提供数据支持。
+
+1材料与方法
+
+1.1 试验设计
+
+试验羊为杜泊 $\times$ 小尾寒羊F1代公羔。采用完全随机试验设计，将15只出生日期相近、体况良好、体重相近的肉羊随机分成3组（每组5只羊)，分别按自由采食（AL）、限饲 $70 \%$ （IR70）和限饲 $40 \%$ （IR40）3个饲喂水平投喂饲粮。试验饲粮参考NRC（2007） $2 5 \mathrm { k g }$ 体重、日增重 $0 . 3 0 0 \mathrm { k g / d }$ 绵羊需要量配制，以全混合日粮形式饲喂，精粗比 $4 5 : 5 5$ ，粗料为羊草。饲粮组成及营养水平见表1。
+
+表1饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>含量Contents</td></tr><tr><td>羊草 Chinese wildrye</td><td>55.00</td></tr><tr><td>玉米Corn</td><td>28.01</td></tr><tr><td>豆粕 Soybean meal</td><td>14.31</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.88</td></tr><tr><td>食盐 NaCl</td><td>0.45</td></tr></table></body></html>
+
+<html><body><table><tr><td>石粉Limestone</td></tr><tr><td>0.90</td></tr><tr><td>预混料 Premix1) 0.45</td></tr><tr><td>合计Total 100.00</td></tr><tr><td>营养水平 Nutrient levels²)</td></tr><tr><td>粗蛋白质CP 12.47</td></tr><tr><td>代谢能 ME/(MJ/kg) 8.42</td></tr><tr><td>钙Ca 0.85</td></tr><tr><td>磷P 0.45</td></tr><tr><td>氯化钠 NaCl 0.47</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供The premix provided the folowing per kg of diets：VA 15 000 IU，VD 5 000 IU，VE $5 0 ~ \mathrm { m g }$ ，Fe (as ferrous sulfate) $9 0 ~ \mathrm { m g }$ ，Cu (as copper sulfate) $1 2 . 5 \mathrm { m g }$ ，Mn (as manganese sulfate) 50 mg，Zn (as zinc sulfate) $1 0 0 ~ \mathrm { { m g } }$ ，Se (as sodium selenite) $0 . 3 ~ \mathrm { m g }$ ，I (potassium iodide) $0 . 8 ~ \mathrm { m g }$ ，Co (cobalt chloride) 0.5。
+
+2）营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.2 饲养管理
+
+试验前每只试验羊灌服伊维菌素溶液 $2 . 5 ~ \mathrm { m L }$ 进行驱虫处理。试验羊每天饲喂2次，自由饮水。AL组饲喂量根据前1天羊只的采食量进行调整，根据AL组的采食量，确定2个限饲组的饲喂量，消化代谢试验与呼吸代谢试验均饲喂相同饲粮。
+
+# 1.3 消化代谢试验
+
+当试验羊体重分别达到22和 $3 5 \mathrm { k g }$ 时，进行消化代谢试验。代谢试验在特制的代谢笼中进行，预试期3d，正试期5d。每天采集羊只的饲粮样本，精确记录采食量和剩料量；采用全收粪尿法收集粪和尿，每天称取并记录每只羊排粪量，粪样按 $10 \%$ 取样，将每只羊的粪样混合冷冻保存；用盛有 $1 0 0 \mathrm { \ m L \ 1 0 \% }$ $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ 的塑料桶收集尿液，每天记录尿液体积后，按 $10 \%$ 比例取样，将每只羊尿样混合冷冻保存备测。
+
+# 1.4 呼吸代谢试验
+
+呼吸代谢试验在消化代谢试验结束后进行。呼吸代谢采用吉林省农业科学院畜牧分院动物能量代谢实验室自主研制的八室并联开放式动物呼吸测热装置进行。该套装置采用开放式气体通路，小室内环境温度可控，自动化程度高、分析精度高。试验动物进入呼吸代谢室适应 $2 4 \mathrm { h }$ 后，连续测定5d，试验羊只饲粮饲喂量与消化代谢试验相同，期间不收集粪尿，测定期间每隔 $3 \ \mathrm { m i n }$ 系统自动检测并记录大气及小室内氧气（ $\mathbf { O } _ { 2 }$ )、二氧化碳（ $\mathrm { C O } _ { 2 }$ ）及甲烷（ $\mathrm { C H } _ { 4 }$ ）的浓度。
+
+# 1.5绝食代谢测定
+
+绝食代谢在IR40组完成呼吸代谢试验后，在消化代谢笼中连续绝食 $6 0 \mathrm { { h } }$ 以上，试验羊只挂好收粪袋，在呼吸代谢小室中连续测热 $2 4 \mathrm { h }$ ，试验期间收集粪样、尿样以及记录呼吸代谢数据，粪样、尿样的收集和处理与消化代谢试验相同。
+
+1.6 测定指标与方法
+
+1.6.1饲料、粪样及尿样中常规营养成分含量测定
+
+饲料、粪样测定初水分后制成风干样品，测定总能(GE)及干物质（DM)、氮（N）、中性洗涤纤维（NDF）和酸性洗涤纤维（ADF）含量，尿液样品测定GE 和氮含量。DM、氮、NDF 及ADF 含量参考《饲料分析及饲料质量检测技术》的方法进行测定；GE 采用氧弹式量热仪（鹤壁科力测控技术有限公司LRY-900AT)，按照说明书测定。
+
+1.6.2 计算公式
+
+某营养物质表观消化率 $( \% ) = 1 0 0 \times$ （食入该营养物质含量-粪中该营养物质含量）/食入该营 养物质含量;
+
+食入总能（MJ/d） $\ c =$ 试验动物每天采食量 $\times$ 饲粮总能;
+
+消化能（MJ/d） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 食入总能-粪能;
+
+代谢能（MJ/d） $\begin{array} { r l } { \mathrm { ~ } } & { { } = } \end{array}$ 食入总能-粪能-尿能-甲烷能;
+
+耗 $\mathrm { O } _ { 2 }$ 量 $( { \mathrm { L } } / { \mathrm { m i n } } ) { = }$ 进呼吸室的空气量( $\mathrm { L } / \mathrm { m i n } ) \times$ 室外空气 $\mathrm { O } _ { 2 }$ 浓度-排出呼吸室的空气量( $\dot { \mathrm { { L } } } / \mathrm { { m i n } }$ ）
+
+$\times$ 呼吸室内 $\mathrm { O } _ { 2 }$ 浓度；
+
+$\mathrm { C O } _ { 2 }$ 产生量 $\scriptstyle ( { \mathrm { L } } / { \mathrm { m i n } } ) =$ 排出呼吸室的空气量( $\cdot \operatorname { L } / \operatorname* { m i n } ) \times$ 室内 $\mathrm { C O } _ { 2 }$ 浓度-进呼吸室的空气量( $ { \mathrm { \ L } } /  { \mathrm { m i n } }$ ）$\times$ 室外 $\mathrm { C O } _ { 2 }$ 浓度；
+
+$\mathrm { C H } _ { 4 }$ 产生量 $\begin{array} { r l } {  { ( \operatorname { L } / \operatorname* { m i n } ) = } } \end{array}$ 排出呼吸室的空气量！ $ { \mathrm { ( L / \mathrm { m i n } ) \times } }$ 室内 $\mathrm { C H } _ { 4 }$ 浓度-进呼吸室的空气量 $( / \mathrm { m i n }$
+
+L） $\times$ 室外 $\mathrm { C H } _ { 4 }$ 浓度；
+
+呼吸熵 （ $\mathrm { \Delta R . Q . } ) \ { = } \mathrm { C O } _ { 2 }$ 产生量/耗 $\mathrm { O } _ { 2 }$ 量；甲烷能（ $\mathrm { \Delta K J / d ) \ = C H _ { 4 } }$ 产生量（L/d) $\times 3 9 . 5 4 \mathrm { K J / L }$ 产热量 $( \mathrm { K J } ) { = } 1 6 . 1 7 5 \times$ 耗 $\mathrm { O } _ { 2 }$ 量 $\mathrm { ( L ) } { + } 5 . 0 2 0 8 { \times } \mathrm { C O } _ { 2 }$ 产生量(L) $. 0 . 9 5 8 \times$ 尿氮含量 $( \mathbf { g } ) \times 6 . 2 5 \ – 2 . 1 6 7 \times$ $\mathrm { C H } _ { 4 }$ 产生量（L)。
+
+# 1.7 数据统计方法
+
+试验数据经Excel2010初步整理后，采用统计软件SPSS19.中的ANOVA过程进行单因素方差分析， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果与分析
+
+2.1饲喂水平对肉羊生长性能及营养物质表观消化率的影响
+
+由表2可知，各组间2期试验的肉羊初始体重差异均不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { : } }$ ；2期末重均为AL组与IR70组差异不显著（ $_ { P > 0 . 0 5 ) }$ ，但极显著高于IL40组（ $_ { . } { P } { < } 0 . 0 1 \$ )；2期平均日增重均为AL组 ${ > } \mathrm { I R } 7 0$ 组 $>$ IR40组，组间差异极显著（ $_ { \cdot } P { < } 0 . 0 1 \$ )，且第1期和第2期IR40组的平均日增重仅为0.052 和 $0 . 0 2 3 \mathrm { k g }$ ；2期DM采食量均为AL组 ${ \scriptstyle > } \mathrm { I R } 7 0$ 组 $> \mathrm { I R } 4 0$ 组，组间差异极显著 $( P { < } 0 . 0 1 )$ ，但DM、NDF 和 ADF表观消化率各组间差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { : } }$ 。经回归分析可得：
+
+DMI（g/d）=229.399 5+7.706 5W(kg)+3.224 5△ W(g/d)( $R ^ { 2 } { = } 0 . 9 7$ ， $P { = } 0 . 0 1 4 \rangle$ 。  
+式中：DMI为DM采食量；W为体重；△W为平均日增重。下式同。
+
+表2饲喂水平对肉羊生长性能及营养物质表观消化率的影响  
+Table 2Effects of feeding level on growth performance and nutrient apparent digestibility of meat sheep   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="3">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>AL</td><td>IR70</td><td>IR40</td></tr><tr><td>第1期 The first phase</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>初始重 Initial weight/kg</td><td>22.35</td><td>24.20</td><td>23.07</td><td>0.723</td><td>0.12</td></tr><tr><td>末重Final weight/kg</td><td>27.81Aa</td><td>27.42Aa</td><td>24.63Bb</td><td>0.673</td><td><0.01</td></tr><tr><td>平均日增重 ADG/ (kg/d)</td><td>0.182A</td><td>0.107B</td><td>0.052℃</td><td>0.018</td><td><0.01</td></tr><tr><td>DM采食量 DM intake/（g/d)</td><td>974.78A</td><td>845.53B</td><td>521.68C</td><td>27.915</td><td><0.01</td></tr><tr><td>表观消化率 AD/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>65.19</td><td>63.01</td><td>61.87</td><td>0.014</td><td>0.67</td></tr><tr><td>中性洗涤纤维 NDF</td><td>62.86</td><td>60.54</td><td>59.16</td><td>0.010</td><td>0.40</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>35.67</td><td>36.31</td><td>38.40</td><td>0.014</td><td>0.73</td></tr><tr><td>第2期 The second phase</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>初始重 Initial weight/kg</td><td>35.91</td><td>36.08</td><td>32.06</td><td>0.943</td><td>0.21</td></tr><tr><td>末重 Final weight/kg</td><td>40.75Aa</td><td>38.80ABab</td><td>32.62Bb</td><td>0.531</td><td><0.01</td></tr><tr><td>平均日增重 ADG/(kg/d)</td><td>0.202A</td><td>0.113B</td><td>0.023℃</td><td>0.017</td><td><0.01</td></tr><tr><td>DM采食量 DM intake/（g/d)</td><td>1 108.11A</td><td>932.46B</td><td>521.68C</td><td>30.725</td><td><0.01</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="7">表观消化率 AD/%</td></tr><tr><td>干物质 DM</td><td>66.72</td><td>65.97</td><td>61.75</td><td>0.008</td><td></td><td>0.059</td></tr><tr><td>中性洗涤纤维 NDF</td><td>60.69</td><td>60.87</td><td>57.89</td><td>0.007</td><td></td><td>0.06</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>36.79</td><td>39.43</td><td>34.17</td><td>0.016</td><td></td><td>0.22</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $\scriptstyle ( P > 0 . 0 1 )$ 。下表同。
+
+In the same row, values with no letter or the same lettr superscripts mean no significant difference ( $P { > } 0 . 0 5$ ）, while with different small letter superscripts mean significant difference ( $\scriptstyle ( P < 0 . 0 5$ ),and with different capital leter superscripts mean significant difference ( ${ \cal P } { > } 0 . 0 1$ ).The same as below.
+
+# 2.2饲喂水平对肉羊氮代谢的影响
+
+由表3可知，2期氮表观消化率各组间差异不显著（ $\cdot P { > } 0 . 0 5 )$ ，第2期AL组沉积氮/消化  
+氮显著高于IR40 组（ $\cdot P { < } 0 . 0 5 )$ ，这2组与IR70组差异均不显著（ $_ { . P > 0 . 0 5 ) }$ ，此外的各项氮代谢  
+指标均呈现出AL 组 ${ \tt > I R 7 0 }$ 组 $> \mathrm { I R } 4 0$ 组，组间差异显著或极显著（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）对氮采食量和沉积氮与DM采食量、体重及平均日增重进行回归分析可得：氮采食量 $( \mathbf { g } / \mathbf { d } ) \ = 1 . 8 8 4 \ 1 + 0 . 0 1 0 \ 6 D M I ( \mathbf { g } / \mathbf { d } ) + 0 . 0 6 9 \ 1 9 W ( \mathbf { k g } ) + 0 . 0 4 1 \ 9 4 \ \Delta \ W ( \mathbf { g } / \mathbf { d } ) ( R ^ { 2 } { = } 0 . 9 9 , \ 0 , 0 . 0 2 ) ,$ $P { = } 0 . 0 1 0 )$ ；沉积氮 ${ \mathrm { ( } { \bf g / d } \mathrm { ) } } \ = - 3 . 4 9 5 \ 2 + 0 . 0 0 4 \ 7 4 1 D M I \ { \mathrm { ( } { \bf g / d } \mathrm { ) } } \ + 0 . 1 4 5 \ 9 W ( { \bf k g } ) + 0 . 0 2 8 \ 9 6 \ \Delta \ W ( { \bf g / d } ) ( R ^ { 2 } { = } 0 . 9 9 , \Delta \mathrm { ) }$ $_ { P = 0 . 0 1 2 ) }$ 。
+
+表3饲喂水平对肉羊氮代谢的影响  
+Table 3Effects of feeding level on N metabolism of meat sheep   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>AL</td><td>IR70</td><td>IR40</td></tr><tr><td>第1期 The first phase</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>氮采食量 IntakeN/（g/d)</td><td>21.62A</td><td>16.98B</td><td>10.89C</td><td>0.598</td><td><0.01</td></tr><tr><td>粪氮Fecal N/(g/d)</td><td>6.17A</td><td>4.60B</td><td>3.21℃</td><td>0.213</td><td><0.01</td></tr><tr><td>尿氮Urinary N/(g/d)</td><td>5.88a</td><td>4.49b</td><td>4.28b</td><td>0.276</td><td>0.02</td></tr><tr><td>消化氮Digested N/（g/d)</td><td>15.31A</td><td>12.93B</td><td>7.69C</td><td>0.477</td><td><0.01</td></tr><tr><td>氮表观消化率 NAD/%</td><td>69.21</td><td>68.56</td><td>67.72</td><td>0.012</td><td>0.60</td></tr><tr><td>沉积氮Retained N/（g/d)</td><td>10.07A</td><td>6.95B</td><td>3.49C</td><td>0.539</td><td><0.01</td></tr><tr><td>沉积氮/食入氮RN/IN</td><td>0.45A</td><td>0.33B</td><td>0.24C</td><td>0.092</td><td><0.01</td></tr><tr><td>沉积氮/消化氮RN/DN</td><td>0.67A</td><td>0.56B</td><td>0.39C</td><td>0.023</td><td><0.01</td></tr><tr><td>第2期 The second phase</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>氮采食量Intake N/（g/d)</td><td>24.50A</td><td>18.90B</td><td>10.89C</td><td>0.670</td><td><0.01</td></tr><tr><td>粪氮 Fecal N/(g/d)</td><td>6.29A</td><td>4.75B</td><td>2.90℃</td><td>0.197</td><td><0.01</td></tr></table></body></html>
+
+<html><body><table><tr><td>尿氮 Urinary N/(g/d)</td><td>6.06a</td><td>5.06ab</td><td>4.69b</td><td>0.227</td><td>0.04</td></tr><tr><td>消化氮Digested N/（g/d)</td><td>18.01A</td><td>14.15B</td><td>7.98C</td><td>0.514</td><td><0.01</td></tr><tr><td>氮表观消化率 NAD/%</td><td>73.54</td><td>74.03</td><td>73.39</td><td>0.051</td><td>0.46</td></tr><tr><td>沉积氮Retained N/（g/d)</td><td>12.62A</td><td>9.49B</td><td>4.67℃</td><td>0.519</td><td><0.01</td></tr><tr><td>沉积氮/食入氮 RN/IN</td><td>0.51a</td><td>0.48b</td><td>0.46b</td><td>0.013</td><td>0.24</td></tr><tr><td>沉积氮/消化氮 RN/DN</td><td>0.67a</td><td>0.63ab</td><td>0.56b</td><td>0.014</td><td>0.01</td></tr></table></body></html>
+
+2.3 饲喂水平对肉羊呼吸代谢的影响
+
+由表4可知，2期IR40 组呼吸熵和 $\mathrm { C H } _ { 4 }$ 产生量极显著低于AL 和 IR70 组（ $P { < } 0 . 0 1 )$ ：  
+2期耗 $\mathrm { O } _ { 2 }$ 量和 $\mathrm { C O } _ { 2 }$ 产生量均为AL 组 ${ > } \mathrm { I R } 7 0$ 组 $> \mathrm { I R } 4 0$ 组，组间差异极显著 $( P { < } 0 . 0 1 )$ {除了第1  
+期 $\mathrm { C O } _ { 2 }$ 产生量 $\mathrm { [ L / ( k g \cdot d ) ] A L }$ 组与 IR70 组差异不显著 $( P { > } 0 . 0 5 ) \}$ ；对 $\mathrm { C H } _ { 4 }$ 产生量与DM、NDF  
+及ADF采食量进行回归分析可得：  
+$\mathrm { C H } _ { 4 }$ 产生量 $( \mathrm { L } / \mathrm { d } ) = - 4 . 8 5 8 ~ 6 - 0 . 2 4 2 ~ 4 D M { \cal I } ( \mathrm { g } / \mathrm { d } ) + 0 . 1 9 8 ~ 6 N D F { \cal I } ( \mathrm { g } / \mathrm { d } ) + 0 . 4 4 2 ~ 4 A D F { \cal I } ( \mathrm { g } / \mathrm { d } ) ( R ^ { 2 } = 0 . 9 9 , \mathrm { k g } / \mathrm { d } )$ $P { = } 0 . 0 0 5 )$ 。
+
+式中：NDFI为NDF采食量；ADFI为ADF采食量。下式同。
+
+表4饲喂水平对肉羊呼吸代谢的影响  
+Table 4Effects of feeding level on respiratory metabolism of meat sheep   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>AL</td><td>IR70</td><td>IR40</td></tr><tr><td>第1期The first phase</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>呼吸熵R.Q.</td><td></td><td>0.89Aa</td><td>0.88Aa</td><td>0.82Bb</td><td>0.016 <0.01</td></tr><tr><td>耗0量</td><td>L/d</td><td>251.07B 287.14A</td><td>193.70℃</td><td>14.276</td><td><0.01</td></tr><tr><td>O2 consumption</td><td>L/(kg · d)</td><td>13.37A 10.42B</td><td>8.58℃</td><td>0.783</td><td><0.01</td></tr><tr><td></td><td>L/(W0.75 · d)</td><td>28.62A 23.05B</td><td>18.66℃</td><td>1.550</td><td><0.01</td></tr><tr><td></td><td>L/d</td><td>251.06A</td><td>221.70B</td><td>159.73C 14.44</td><td><0.01</td></tr><tr><td>CO产生量 CO2 output</td><td>L/(kg · d)</td><td>11.69Aa</td><td>9.20Aa</td><td>7.07Bb</td><td>0.751 <0.01</td></tr><tr><td></td><td>L/(W0.75 · d)</td><td>25.03A</td><td>20.35B</td><td>15.39C</td><td>1.516 <0.01</td></tr><tr><td></td><td>L/d</td><td>18.42Aa</td><td>17.86Aa</td><td>1.662 13.05Bb</td><td><0.01</td></tr><tr><td>CH4产生量</td><td>L/(kg · d)</td><td>0.85A</td><td>0.74B</td><td>0.58℃ 0.073</td><td><0.01</td></tr><tr><td>CH4 output</td><td>L/(W0.75 · d)</td><td>1.82A</td><td>1.63B</td><td>1.26℃</td><td>0.156 <0.01</td></tr><tr><td colspan="2">第2期 The second phase</td><td></td><td></td><td></td><td></td></tr><tr><td>呼吸熵 R.Q.</td><td></td><td>0.86Aa</td><td>0.85Aa</td><td>0.82Bb</td><td>0.0143</td><td><0.01</td></tr><tr><td>耗O量</td><td>L/d</td><td>386.63A</td><td>329.09B</td><td>241.85℃</td><td>20.097</td><td><0.01</td></tr><tr><td>O2 consumption</td><td>L/(kg · d)</td><td>12.87A</td><td>8.81B</td><td>8.26C</td><td>0.627</td><td><0.01</td></tr><tr><td></td><td>L/(W0.75 · d)</td><td>30.02A</td><td>21.78B</td><td>19.21℃</td><td>1.431</td><td><0.01</td></tr><tr><td>CO产生量</td><td>L/d</td><td>334.69A</td><td>280.07B</td><td>196.86℃</td><td>19.495</td><td><0.01</td></tr><tr><td></td><td>L/(kg · d)</td><td>11.14A</td><td>7.50B</td><td>6.73℃</td><td>0.607</td><td><0.01</td></tr><tr><td>CO2 output</td><td>L/(W0.75 · d)</td><td>25.99A</td><td>18.53B</td><td>15.64℃</td><td>1.398</td><td><0.01</td></tr><tr><td>CH4产生量</td><td>L/d</td><td>25.76A</td><td>22.21B</td><td>13.92℃</td><td>2.244</td><td><0.01</td></tr></table></body></html>
+
+<html><body><table><tr><td>CH4 output</td><td>L/(kg · d)</td><td>0.86A</td><td>0.59B</td><td>0.48℃</td><td>0.071</td><td><0.01</td></tr><tr><td></td><td>L/(W0.75 · d)</td><td>2.01A</td><td>1.47B</td><td>1.11</td><td>0.165</td><td><0.01</td></tr></table></body></html>
+
+# 2.4肉羊绝食代谢试验结果
+
+由表5可知，试验羊绝食代谢呼吸熵为0.71，极显著低于生长期（0.82）（ $_ { \scriptstyle { P < 0 . 0 1 } }$ ，并且绝食期间 $\mathrm { C H } _ { 4 }$ 产生量极低，第1期和第2期仅分别为0.86 和 $1 . 1 8 \ \mathrm { L } / \mathrm { d } .$ 。一般认为， $\mathrm { C H } _ { 4 }$ 产生量是瘤胃发酵状态的敏感指标，当 $\mathrm { C H } _ { 4 }$ 产生量下降到忽略不计时，可看作是吸收后状态，本研究中试验羊绝食 $6 0 \mathrm { { h } }$ 以上，符合吸收后绝食状态。
+
+表5绝食代谢试验结果  
+Table 5Results of fasting metabolism test of meat sheep   
+
+<html><body><table><tr><td>项目Items</td><td></td><td>第1期The first phase</td><td>第2期 The second phase</td></tr><tr><td>体重W/kg</td><td></td><td>29.06</td><td>29.45</td></tr><tr><td>代谢体重w0.5/kg</td><td></td><td>12.50</td><td>12.63</td></tr><tr><td>呼吸熵R.Q.</td><td></td><td>0.71</td><td>0.71</td></tr><tr><td>耗0量</td><td>L/d</td><td>134.84</td><td>168.66</td></tr><tr><td>O2 consumption</td><td>L/(kg · d)</td><td>4.65</td><td>5.75</td></tr><tr><td></td><td>L/(W0.75 · d)</td><td>10.79</td><td>13.37</td></tr><tr><td>CO产生量</td><td>L/d</td><td>96.08</td><td>119.36</td></tr><tr><td>CO2 output</td><td>L/(kg · d)</td><td>3.32</td><td>4.07</td></tr><tr><td></td><td>L/(W0.75 · d)</td><td>7.69</td><td>9.46</td></tr><tr><td>CH4产生量</td><td>L/d</td><td>0.86</td><td>1.18</td></tr><tr><td>CH4 output</td><td>L/(kg · d)</td><td>0.03</td><td>0.04</td></tr><tr><td></td><td>L/(W0.75 · d)</td><td>0.07</td><td>0.09</td></tr><tr><td>尿氮UN</td><td>g/d</td><td>4.24</td><td>6.20</td></tr><tr><td></td><td>g/(kg ·d)</td><td>0.14</td><td>0.30</td></tr><tr><td></td><td>g/(W0.75 · d)</td><td>0.33</td><td>0.51</td></tr><tr><td>产热量 HP</td><td>MJ/d</td><td>2.64</td><td>3.29</td></tr><tr><td></td><td>MJ/(kg · d)</td><td>0.091</td><td>0.112</td></tr><tr><td></td><td>MJ/W0.75</td><td>0.211</td><td>0.260</td></tr><tr><td>粪氮FN</td><td>g/d</td><td>0.87</td><td>1.24</td></tr><tr><td></td><td>g/(kg· d)</td><td>0.030</td><td>0.042</td></tr><tr><td></td><td>g/(w0.75 · d)</td><td>0.070</td><td>0.098</td></tr><tr><td>干物质排泄量</td><td>g/d</td><td>58.24</td><td>63.65</td></tr><tr><td>DM output</td><td>g/(kg·d)</td><td>2.01</td><td>2.49</td></tr><tr><td>体蛋白质分解量</td><td>g/(w0.75 · d)</td><td>4.67</td><td>5.14</td></tr><tr><td>Body protein decomposition/g</td><td></td><td>26.50</td><td>38.75</td></tr><tr><td>体蛋白质产热量</td><td></td><td>0.498</td><td>0.729</td></tr><tr><td>Body protein HP/MJ 体蛋白质产热量占产热量比</td><td></td><td></td><td></td></tr><tr><td>Body protein HP/HP/%</td><td></td><td>18.9</td><td>22.2</td></tr></table></body></html>
+
+2.5饲喂水平对杂交肉羊能量转化效率的影响
+
+由表6可知，肉羊食入总能、粪能、尿能、甲烷能及产热量均为AL 组 $>$ IR70组 $>$ IR40  
+组，组间差异极显著（ $P { < } 0 . 0 1$ ）[除了第1期尿能、甲烷能，第2期尿能AL组与IR70组差  
+异不显著（ $P { > } 0 . 0 5$ ）]，各组甲烷能/食入总能在 $0 . 0 4 1 { \sim } 0 . 0 5 7$ 。总能消化率和总能代谢率均与  
+食入总能呈线性相关，经回归分析得出：总能消化率=0.590 4+0.005 237GEI(MJ/d)(R²=0.83,P=0.042);总能代谢率=0.48+0.007 138GEI(MJ/d)(R²=0.91,P=0.011)。式中：GEI为食入总能。总能消化率和总能代谢率与DM、NDF及ADF采食量呈线性相关，经回归分析得出：总能消化率=0.487 9-0.002 57DMI(g/d)+0.002 183NDFI(g/d)+0.004$2 4 5 \boldsymbol { A } D F I ( \mathbf { g } / \mathrm { d } ) ( R ^ { 2 } { = } 0 . 9 7 , P { = } 0 . 0 8 2 )$ 总能代谢率=0.462 0+0.000 134DMI(g/d)+0.000 038 6NDFI(g/d)(R²=0.91,P=0.067)。
+
+表6饲喂水平对肉羊能量转化效率的影响  
+Table 6Effects of feeding level on energy transformation efficiency of meat sheep   
+
+<html><body><table><tr><td colspan="2">项目Items</td><td colspan="3">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td></td><td></td><td>AL</td><td>IR70</td><td>IR40</td></tr><tr><td>第1期 The first phase</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>体重BW/kg</td><td></td><td>27.81</td><td>27.42</td><td>24.63</td><td>0.723</td><td>0.12</td></tr><tr><td>代谢体重w0.75/kg</td><td></td><td>12.11</td><td>11.98</td><td>11.06</td><td>0.452</td><td>0.12</td></tr><tr><td rowspan="2">食入总能GEI</td><td>MJ/d</td><td>20.99A</td><td>15.63B</td><td>9.65℃</td><td>0.490</td><td><0.01</td></tr><tr><td>MJ/(d ·W0.75)</td><td>1.73A</td><td>1.30B</td><td>0.87C</td><td>0.012</td><td><0.01</td></tr><tr><td>粪能FE/(MJ/d)</td><td></td><td>6.89A</td><td>5.06B</td><td>3.34C</td><td>0.203</td><td><0.01</td></tr><tr><td>尿能UE/（MJ/d)</td><td></td><td>0.54A</td><td>0.51A</td><td>0.28B</td><td>0.012</td><td><0.01</td></tr><tr><td>甲烷能 CH4E/（MJ/d)</td><td></td><td>0.73A</td><td>0.71A</td><td>0.52B</td><td>0.066</td><td><0.01</td></tr><tr><td>甲烷能/食入总能CH4E/GEI</td><td></td><td>0.041℃</td><td>0.048B</td><td>0.054A</td><td>0.001</td><td><0.01</td></tr><tr><td>总能消化率 GE digestibility/%</td><td></td><td>67.17</td><td>67.63</td><td>65.39</td><td>1.019</td><td>0.21</td></tr><tr><td>总能代谢率 GE metabolic rate/%</td><td></td><td>61.12</td><td>59.82</td><td>57.09</td><td>1.478</td><td>0.30</td></tr><tr><td>消化能代谢率 DE metabolic rate/%</td><td></td><td>90.19</td><td>88.46</td><td>87.32</td><td>0.029</td><td>0.52</td></tr><tr><td>代谢能 ME</td><td>MJ/d</td><td>12.83A</td><td>9.10B</td><td>5.51℃</td><td>0.762</td><td><0.01</td></tr><tr><td rowspan="2">产热量 HP</td><td>MJ/(d · W0.75)</td><td>1.06A</td><td>0.76B</td><td>0.50℃</td><td>0.023</td><td><0.01</td></tr><tr><td>MJ/d</td><td>5.83A</td><td>5.11B</td><td>2.88C</td><td>0.187</td><td><0.01</td></tr><tr><td></td><td>MJ/(d · W0.75)</td><td>0.48A</td><td>0.43B</td><td>0.26C</td><td>0.025</td><td><0.01</td></tr><tr><td rowspan="2">绝食产热量 FHP</td><td>MJ/d</td><td></td><td></td><td>2.64</td><td></td><td></td></tr><tr><td>MJ/ (d ·W0.75)</td><td></td><td></td><td>0.21</td><td></td><td></td></tr><tr><td colspan="2">第2期 The second phase</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>代谢体重w0.75/kg</td><td></td><td>16.13</td><td>15.55</td><td>13.65</td><td>0.871</td><td>0.21</td></tr><tr><td>食入总能GEI</td><td>MJ/d</td><td>22.49A</td><td>17.25B</td><td>9.65C</td><td>0.568</td><td><0.01</td></tr><tr><td></td><td>MJ/(d · W0.75)</td><td>1.39A</td><td>1.11B</td><td>0.71℃</td><td>0.043</td><td><0.01</td></tr><tr><td>粪能FE/(MJ/d)</td><td></td><td>6.02A</td><td>5.31B</td><td>3.54℃</td><td>0.161</td><td><0.01</td></tr><tr><td>尿能UE/（MJ/d)</td><td></td><td>0.62A</td><td>0.60A</td><td>0.42B</td><td>0.030</td><td><0.01</td></tr><tr><td>甲烷能 CH4E/(MJ/d)</td><td></td><td>1.02A</td><td>0.88B</td><td>0.55℃</td><td>0.089</td><td><0.01</td></tr><tr><td>甲烷能/食入总能CH4E/GE</td><td></td><td>0.050B</td><td>0.048B</td><td>0.057A</td><td>0.002</td><td><0.01</td></tr><tr><td>总能消化率 GE digestibility/%</td><td></td><td>73.23A</td><td>69.22A</td><td>63.32B</td><td>7.132</td><td><0.01</td></tr><tr><td>总能代谢率 GE metabolic rate/%</td><td></td><td>65.94A</td><td>60.64A</td><td>53.26B</td><td>6.631</td><td><0.01</td></tr><tr><td>消化能代谢率 DE metabolic rate/%</td><td></td><td>90.04A</td><td>87.60A</td><td>84.12B</td><td>3.286</td><td><0.01</td></tr><tr><td>代谢能 ME</td><td>MJ/d</td><td>14.83A</td><td>10.46B</td><td>5.41℃</td><td>0.893</td><td><0.01</td></tr><tr><td rowspan="2">产热量 HP</td><td>MJ/(d · W0.75)</td><td>0.92A</td><td>0.67B</td><td>0.40℃</td><td>0.062</td><td><0.01</td></tr><tr><td>MJ/d</td><td>7.84A</td><td>6.65B</td><td>3.84℃</td><td>0.231</td><td><0.01</td></tr><tr><td></td><td>MJ/(d · W0.75)</td><td>0.49A</td><td>0.43B</td><td>0.28℃</td><td>0.065</td><td><0.01</td></tr><tr><td rowspan="3">绝食产热量 FHP</td><td>MJ/d</td><td></td><td></td><td>3.29</td><td></td><td></td></tr><tr><td>MJ/ (d·W0.75)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.26</td><td></td><td></td></tr></table></body></html>
+
+3讨论
+
+3.1饲喂水平对肉羊生长性能及营养物质表观消化率的影响
+
+本试验参考NRC（2007） $2 5 \ \mathrm { k g }$ 体重、日增重 $0 . 3 0 0 ~ \mathrm { k g / d }$ 的肉羊营养需要，按自由采食、限饲 $70 \%$ 和限饲 $40 \%$ 3个饲喂水平投喂试验饲粮，但是本研究中AL组2期平均日增重分别为0.182 和 $0 . 2 0 2 ~ \mathrm { k g / d }$ ，均未达到 $0 . 3 0 0 ~ \mathrm { k g / d }$ ，这可能与动物试验所处环境有关，动物饲养试验在秋冬季节进行，羊舍内温度较低，造成羊只平均日增重下降。本研究中 IL40组2期平均日增重分别为0.052 和 $0 . 0 2 3 \mathrm { k g / d }$ ，基本符合试验设计日增重 $< 5 0 ~ \mathrm { g / d }$ 。许贵善[6]研究表明， $40 \%$ 限饲时杜寒杂交公羔的平均日增重为 $0 . 0 3 7 6 \mathrm { k g / d }$ ；同样，王鹏也指出，$40 \%$ 限饲组肉公羔平均日增重为 $0 . 0 5 7 1 4 \mathrm { k g / d }$ ，以上结果均与本试验结果相一致。
+
+反刍动物 DM 采食量占体重的 $2 \% { \sim } 4 \% ^ { [ 6 ] }$ ，本研究中试验羊 DM 采食量占体重的$1 . 6 \% { \sim } 4 . 3 \%$ ，并且与体重及平均日增重存在回归关系。AFRC（1990,1993）对生长绵羊最简单的估测方法为： $D M I ~ \left( \mathrm { k g / d } \right) { = } 0 . 0 2 8 W$ ；臧彦全研究指出，生长期波杂肉羊DM采食量与体重及平均日增重的回归关系为： ${ \cal D } M I ~ ( \mathrm { \bf ~ g } / \mathrm { d } ) ~ = 2 6 . 4 5 W ^ { 0 . 7 } ~ ( \mathrm { \bf ~ k g } ) ~ ^ { 5 } + 0 . 9 9 ~ \varDelta ~ W ( \mathrm { g } / \mathrm { d } ) + 3 1 2 . 2 4$ （200 $R ^ { 2 } { = } 0 . 6 6 8 \ 1$ ， $P { = } 0 . 0 0 0 \ 8$ ， $\boldsymbol { W } ^ { 0 . 7 5 }$ 为代谢体重)，这些预测模型仅代表试验状态下的采食量，在饲养实践中还需结合具体条件进行调整。
+
+# 3.2饲喂水平对肉羊氮代谢的影响
+
+反刍动物摄入的饲粮蛋白质，一部分在瘤胃中被微生物降解，降解蛋白质（RDP）被用于合成瘤胃微生物蛋白质（MCP)，饲粮的瘤胃非降解蛋白质（UDP）和瘤胃微生物蛋白质进入小肠，组成小肠蛋白质，被消化、吸收和利用。本研究中，氮采食量、粪氮、消化氮及沉积氮等指标均随饲喂水平的降低而降低，但是各组间氮表观消化率差异不显著。臧彦全[利用回归法确定了波杂肉羊生长期蛋白质需要量的预测模型：CPI（g/d)$= 2 8 . 8 7 + 1 . 9 1 W ^ { 0 . 7 5 } + 0 . 2 0 \ \varDelta \ W ( \ R ^ { 2 } = 0 . 6 8 9 \ 0 , P = 0 . 0 0 0 \ 8 , C P I \ U ^ { 3 } )$ 内粗蛋白质采食量)， $D C P \left( \mathbf { g } / \mathbf { d } \right) { = } ( 0 . 0 3$ $\varDelta \ W \mathrm { + } 1 . 2 7 ) W ^ { 0 . 7 5 }$ （ $scriptstyle \cdot { R ^ { 2 } } = 0 . 9 8 6 \ 9$ $P { = } 0 . 0 0 0 \ 7 \$ ，DCP 为消化粗蛋白质)；聂海涛等[9建立的 4\~6月龄杜湖杂交F1代母羔消化粗蛋白质与饲料粗蛋白质的回归方程为： $D C P = ( - 4 . 4 4 6 \pm 1 . 5 2 2 )$ +（1.099±0.1603）TCPC（ $\scriptstyle \cdot R ^ { 2 } = 0 . 8 3 , P = 0 . 0 7$ ，TCPC 为饲料粗蛋白质)；杨维仁等[10研究指出，4 月龄杜寒杂交F1代肉羊消化粗蛋白质需要量预测模型为： $R D C P { = } 2 . 5 9 W ^ { 0 . 7 5 } { + } 3 7 4 . 9 8 \ A W$ $R C P { = } 3 . 8 8 W ^ { 0 . 7 5 } { + } 5 6 0 ~ { \varDelta } ~ W$ （RDCP为消化粗蛋白质需要量，RCP为粗蛋白质需要量)；以上预测模型均是在一定试验条件下获得，以后在生产实践中应用时，还需进一步验证和校正。
+
+# 3.3饲喂水平对肉羊呼吸代谢的影响
+
+由于国内缺乏专门研究呼吸代谢的设备，目前关于肉羊呼吸代谢的研究较少。许贵善[6]采用 Sable 呼吸头箱对杜寒杂交羔羊进行气体代谢试验，结果表明：耗 $\mathbf { O } _ { 2 }$ 量、 $\mathrm { C O } _ { 2 }$ 和 $\mathrm { C H } _ { 4 }$ 产生量均为自有采食 $\mathrm { \Delta > }$ 限饲 $70 \% >$ 限饲 $40 \%$ ，呼吸熵变化范围为 $0 . 6 8 \mathrm { \sim } 0 . 8 4$ ；楼灿等[4]利用呼吸代谢室研究了杜寒杂交母羊空怀期和哺乳期的气体代谢特点，结果表明：耗 $\mathbf { O } _ { 2 }$ 量、 $\mathrm { C O } _ { 2 }$ ，$\mathrm { C H } _ { 4 }$ 产生量及呼吸熵与采食量显著相关，以上结果均与本试验结果相一致。  
+在之前的研究中发现，NDF 和ADF 消化量分别与 $\mathrm { C H } _ { 4 }$ 产生量呈显著线性相关["；而且可消化的粗纤维、粗蛋白质、粗脂肪和无氮浸出物采食量与 $\mathrm { C H } _ { 4 }$ 产生量也呈显著相关[12]。本研究中， $\mathrm { C H } _ { 4 }$ 产生量与DM、NDF及ADF采食量进行回归分析可得： $\mathrm { C H } _ { 4 }$ 产生量（L/d)=-4.8586-0.2424DMI（g/d） +0.1986NDFI（g/d） +0.4424ADFI（g/d） $\scriptstyle ( R ^ { 2 } = 0 . 9 9 , P = 0 . 0 0 4 9 )$ ；赵一广[13]研究指出，肉羊各营养物质采食量与 $\mathrm { C H } _ { 4 }$ 产生量的回归模型为： $\mathrm { C H } _ { 4 }$ 产生量（ $\mathrm { L } / \mathrm { k g }$ （204号 $\mathrm { D O M } ) = 0 . 2 2 6 ~ 0 O M I ( \mathbf { g } ) + 0 . 1 5 2 ~ 3 4 C P I ( \mathbf { g } ) + 0 . 0 6 4 ~ 6 5 N D F I - 0 . 6 0 5 ~ 4 9 E E I ( \mathbf { g } ) + 2 1 8 . 2 3 7 ~ 1 5 ( \mathrm { R } ^ { 2 } = 0 . 9 7 8 8 \cdot \mathrm { R } ^ { 4 } )$ 6, $P { = } 0 . 0 0 7 ~ 7$ ，DOM为可消化有机物，OMI为有机物采食量，EEI为粗脂肪采食量)与单一变量的直线回归模型相比，多元回归模型具有更高的相关性和准确性；游玉波[14研究表明，肉牛饲粮营养物质采食量与 $\mathrm { C H } _ { 4 }$ 产生量之间有显著的相关关系，并指出与单因子相比多因子预测模型的准确度更高。综合以上研究结果可知，本研究的 $\mathrm { C H } _ { 4 }$ 产生量预测模型与上述
+
+结果原理相一致，可通过DM、NDF及ADF采食量计算出肉羊 $\mathrm { C H } _ { 4 }$ 产生量，但是该模型仅采用羊草作为唯一粗饲料来源，在粗饲料类型上存在局限性，不同的饲粮类型，尤其是粗饲料不同会影响预测结果的准确性。
+
+# 3.4肉羊绝食代谢
+
+本研究2期绝食产热量（FHP）分别为2.64和 $3 . 2 9 \mathrm { M J / d }$ ；体蛋白质分解量分别为26.50和 $3 8 . 7 5 \mathrm { g }$ ，体蛋白质产热量分别占产热量的 $1 8 \% { \sim } 2 2 \%$ 。目前，国内对 FHP 的测定常采用Lofgreen 等[15]的方法，反刍动物在生产状态下动物产热量的对数与代谢能采食量呈线性关系，即 $_ \mathrm { L o g ( H P ) = a + b M E I }$ （ $H P$ 为产热量，MEI为代谢能采食量)，当MEI=0时，a的反对数即为 FHP。赵敏孟等[11,16利用此方法得出，杜泊公羊、母羊以及青山羊的FHP 分别为 339.63、332.89和 $2 5 9 . 6 6 \mathrm { K J / k g } \mathrm { W } ^ { 0 . 7 5 }$ ；杨在宾等[17]利用回归法得出，小尾寒羊泌乳期母羊FHP 为376$\mathrm { K J / k g ~ W } ^ { 0 . 7 5 }$ (单羔)和 $3 9 1 ~ \mathrm { K J / k g } ~ \mathrm { W } ^ { 0 . 7 5 }$ （双羔)；ACU(1984)对[18]绵羊的FHP采用以下模型：1岁以下， $F \left( \mathbf { M J } / \mathbf { d } \right) { = } C [ 0 . 2 5 ( \mathbf { W } / 1 . 0 8 ) ^ { 0 . 7 5 } ]$ ；1岁以上， $F ( \mathrm { M J / d } ) { = } C [ 0 . 2 3 { ( W / 1 . 0 8 ) } ^ { 0 . 7 5 } ] ( \begin{array} { l } {  } \\ {  } \end{array}$ $F$ 为FHP,C对公羔为1.15，对母羔和羯羊为1.0)；魏炳栋等[19]利用呼吸测热装置，测得 $3 0 \mathrm { k g }$ 东北细毛羊公羊的FHP 为 $4 4 4 . 4 0 \mathrm { K J / k g } \mathrm { W } ^ { 0 . 7 5 }$ ；本试验试验羊绝食 $6 0 \mathrm { { h } }$ 以上，测得的FHP 为0.211 和（204号 $0 . 2 6 0 \mathrm { M J / k g } \mathrm { W } ^ { 0 . 7 5 }$ ，低于赵敏孟[1]报道的FHP。
+
+# 3.5饲喂水平对杂交肉羊能量转化效率的影响
+
+Tyrrell 等[20研究表明，食入总能增加会造成粪能的相应增加，本研究中，食入总能、粪能和尿能均随采食量降低而降低，粪能占食入总能的 $32 . 8 \%$ ， $3 2 . 4 \%$ ， $34 . 6 \%$ （第1期）和$2 6 . 8 \%$ ， $3 0 . 8 \%$ ， $3 6 . 7 \%$ (第2 期)；反刍动物尿能损失主要受饲料结构，特别是饲粮蛋白质水平、氨基酸平衡状况等影响[11]；杨在宾等[12]研究表明，尿能与尿氮呈正相关；肉羊饲粮中蛋白质水平增高、氨基酸不平衡，均可提高尿氮的排泄，从而增加尿能损失；本研究中AL 组尿能与IL70 组差异不显著，但是极显著高于IL40 组，尿能占食入总能的平均比例为$3 . 2 \%$ ，说明一定程度的限饲对尿能没有影响，但是超过一定程度的限饲就会降低尿能；同样彭津津等[5研究指出，道寒杂交肉羊自由采食组尿能与 $60 \%$ 限饲组差异不显著，但是显著高于 $40 \%$ 限饲组，与本试验结果一致；但是，也有研究表明，饲粮能量和蛋白水平对尿能没有影响，邹彩霞[21研究指出，生长期水牛能量和蛋白饲喂水平不同对尿能没有影响。本研究第1期，总能消化率、总能代谢率及消化能代谢率平均值分别为 $6 6 . 7 3 \%$ 、 $5 9 . 3 4 \%$
+
+和 $8 8 . 6 6 \%$ ，且各组间差异不显著；第2期IL40 组总能消化率、总能代谢率及消化能代谢率均显著低于AL 和 IL70组，且AL 组与IL70 组差异不显著。目前关于羊能量利用的结果会随着羊品种、饲养方式的不同而不同。Kamalzadeh 等[22]研究指出，Balcuchi 绵羊总能的代谢率为 $54 \%$ ；ACU 指出，绵羊自由采食条件下总能代谢率为 $42 \% \sim 6 0 \%$ ；赵敏孟等[1]研究指出，杜波羊生长期总能消化率和总能代谢率分别为 $6 3 . 0 7 \%$ 和 $5 1 . 7 5 \%$ ；臧彦全[研究指出，随着饲粮中精料采食量的增加，波杂肉羊总能代谢率为 $5 0 . 1 4 \% { \sim } 6 0 . 8 7 \%$ ，总能消化率在$6 0 . 3 5 \% { \sim } 6 9 . 2 4 \%$ ；杨在宾等[23]研究表明，大尾寒羊生长前期总能消化率、总能代谢率和消化能代谢率分别为 $5 9 . 2 2 \%$ 、 $4 9 . 4 1 \%$ 和 $8 3 . 2 3 \%$ ，生长后期总能消化率、总能代谢率和消化能代谢率分别为 $6 8 . 6 0 \%$ 、 $56 . 8 4 \%$ 和 $8 1 . 9 2 \%$ ，本试验结果基本和以上研究报道一致，但是消化能代谢率较报道值略高。
+
+高秀华等[24]研究指出，随着食入总能的提高，梅花鹿总能消化率和总能代谢率均显著提高，食入总能和总能消化率呈线性正相关；法国农科院 INRA用有机物消化率计算总能消化率：禾本科 $E D { = } 0 . 9 5 7 O M D { - } 0 . 0 7$ （ $R ^ { 2 } { = } 0 . 9 9 5 \rangle$ ，对秸秆 $E D { = } 0 . 9 8 5 O M D { - } 2 . 9 5$ （ $R ^ { 2 } { = } 0 . 9 9 6 \$ ，玉米青贮 ED=1.001OMD-2.86（ $\scriptstyle \cdot { R ^ { 2 } } = 0 . 9 8 1$ ）（ $E D$ 为总能消化率)，以上结果均以可消化养分与总能消化率进行相关分析，但是本试验中是以DM、NDF 和ADF 采食量与总能消化率或总能代谢率进行回归分析，因此在以后的使用中还需进一步分析。  
+由于国内缺乏相应的专用设备，关于甲烷能的测定大多数采用回归模型进行估算。赵敏孟等[16]利用 Blaxter（1965）公式推算出，杜泊公羊甲烷能/食入总能平均值为 $8 . 3 6 \%$ ，母羊为 $8 . 2 0 \%$ ，公羊极显著高于母羊；杨在宾等[25]研究指出，杜泊羊和小尾寒羊杂交F1代肉羊甲烷能按食入总能的 $9 \%$ 来进行估算；刘海斌[2根据 Pelchen 和Peters 的预测公式： $\mathrm { C H } _ { 4 }$ 产生量（g/d）==-17.702 6 + 0.041 4NEFI (g/d) + 0.032 13DCPI(%/CP)-0.0611DEEI (g/d)（NEFI为单位采食量氮排出量，DCPI为消化粗蛋白质采食量，DEEI为消化粗脂肪采食量）对 $\mathrm { C H } _ { 4 }$ 产生量进行预测，并乘以 $5 8 . 8 1 ~ \mathrm { K J / g }$ （ $\mathrm { C H } _ { 4 }$ 热值）得到甲烷能；ACU(1984)[18]估测甲烷能为维持水平食入总能的 $8 \%$ ，食入总能增加时甲烷能占维持水平食入总能比例可下降至 $6 \%$ 。冯仰廉[27采用中国农业大学大型自控呼吸代谢室对消化道瘘管牛饲喂不同饲粮的研究结果表明， $\mathrm { C H } _ { 4 }$ 产生量与可发酵中性洗涤纤维/可发酵有机物呈显著线性相关： $\mathrm { C H } _ { 4 }$ 产生量（L/FOMkg）=60.4562+0.2967[FNDF/FOM（%)]（ $\cdot - 0 . 9 8 4 \ 2 , P { < } 0 . 0 1$ ，FOM为可发酵有机物，FNDF为可发酵中性洗涤纤维)；消化能的 $\mathrm { C H } _ { 4 }$ 损失也与可发酵中性洗涤纤维/可发酵有机物呈显著线性相关：甲烷能/DE(%)=8.6804+0.0373[FNDF/FOM $( \% )$ 水 $\scriptstyle \cdot = 0 . 9 8 4 5$ ， $P { < } 0 . 0 1 \$ )；高秀华等[24]利用中国农大呼吸代谢室对生茸期梅花鹿的呼吸代谢进行测定，得出：甲烷能产生随进食水平的增加而增加，甲烷能损失方程为：甲烷能（KJ/d）=0.070GEI-101.04(r=0.942 0,P<0.01);魏炳栋等[19]利用吉林省农科院研制的开放式呼吸测热装置对东北细毛羊的呼吸代谢进行测定，结果表明：代谢体重为 $1 2 . 8 8 \mathrm { k g }$ 时，羊的 $\mathrm { C H } _ { 4 }$ 产生量为 $2 . 3 8 \mathrm { L } / \mathrm { W } ^ { 0 . 7 5 }$ ，甲烷能损失为94.10KJ/W0.75，占代谢能的 $1 0 . 7 2 \%$ ；除此之外，国内学者还用其他方法进行呼吸代谢研究，如面具法、指示剂法等，杨在宾等[23]利用呼吸面具法研究了大尾寒羊生长期甲烷能/食入总能为$10 . 1 1 \%$ ；李瑞丽等[28利用呼吸面具法采集辽宁空怀期绒山羊母羊 $\mathrm { C H } _ { 4 }$ 产生量，得出甲烷能/食入总能为 $7 . 9 9 \%$ ；孔祥通[29]采用六氟化硫（SF6）示踪技术测定 $\mathrm { C H } _ { 4 }$ 产生量并计算出甲烷能，得出陕西白绒山羊甲烷能/食入总能为 $8 . 1 \%$ 。本研究采用开放式呼吸测热装置，测得不同体重阶段肉羊 $\mathrm { C H } _ { 4 }$ 产生量随采食量降低而减少，甲烷能/食入总能平均为 $5 \%$ ，较以上研究结果略低，可能与测试方法、动物品种及饲料组成有关。  
+绝食期间动物机体损失的能量为维持净能（NEm)，包括 FHP、绝食期间粪尿损失以及肌肉作功消耗的能量，即 ${ \mathrm { N E m } } { = } \mathrm { F H P } { + }$ 自由活动能，活动能按照 FHP 的 $20 \%$ 进行估算，则NEm=120%FHP，本试验计算所得 NEm 为0.252 和 $0 . 3 1 2 \mathrm { \ M J / k g \ W } ^ { 0 . 7 5 }$ 。根据 AFRC(1993)对绵羊维持需要采用的公式:1岁以下公羊 $F ( \mathbf { M J } / \mathbf { d } ) { = } C [ 0 . 2 5 ( W / 1 . 0 8 ) ^ { 0 . 7 5 } ] + 0 . 0 0 6 7 W , C$ 为1.15,计算可得 $2 5 ~ \mathrm { k g }$ 公羔的NEm 为 $0 . 2 8 9 \mathrm { M J / k g } \mathrm { W } ^ { 0 . 7 5 }$ ，较本试验结果略高；许贵善[研究指出，$2 0 { \sim } 3 5 ~ \mathrm { k g }$ 杜寒杂交公羔 NEm 为 $2 5 0 . 6 1 ~ \mathrm { K J / k g } ~ \mathrm { W } ^ { 0 . 7 5 }$ ，与本试验结果基本一致；王鹏[7研究指出， $2 0 { \sim } 3 5 \mathrm { k g }$ 体重陶寒杂交公羔的 NEm 为 $2 4 0 . 4 4 ~ \mathrm { K J / k g } ~ \mathrm { W } ^ { 0 . 7 5 }$ ，与本试验结果基本一致；聂海涛等[指出，杜湖杂交F1代公羔NEm 为 $1 9 3 . 7 6 \mathrm { K J / k g } \mathrm { W } ^ { 0 . 7 5 }$ ，比本试验结果略低。造成以上研究结果不一致的因素有很多，其中品种是最关键的因素，此外还有性别、生长阶段、体重、环境等均对 NEm 有影响[5]。  
+4结论
+
+随饲喂水平降低，肉羊的生产性能、营养物质采食量、平均日增重、甲烷产生量、甲烷能及产热量均降低，但营养物质表观消化率没有显著变化。绝食状态下，甲烷产生量为0.86\~1.18L/d，绝食产热量为 $0 . 2 1 1 { \sim } 0 . 2 6 0 \ \mathrm { M J / k g } \ \mathrm { W } ^ { 0 . 7 5 }$ ，维持
+
+净能为0.252\~0.312 MJ/kg W0.75。  
+参考文献：  
+[1]刁其玉.肉用羊营养需要量参数研究进展[M].北京:中国农业科学技术出版社,2013.[2] 许贵善,楼灿,刁其玉,等.20-35kg 杜寒杂交公羔羊能量需要参数[J].中国农业科学,2012,45(24):5082-5090.  
+[3]杨嘉实.畜禽能量代谢研究的简史回顾和今后发展的建议[J].中国畜牧杂志,2008,44(13):61-64.  
+[4] 楼灿,邓凯东,姜成钢,等.饲养水平对肉用绵羊空怀期和哺乳期能量代谢平衡的影响[J].中国农业科学,2016,49(5):988-997.  
+[5]彭津津,张英杰,刘月琴,等.道寒杂交公羊育肥期能量需要量研究[J].中国农业科学,2013,46(23):5066-5074.  
+[6] 许贵善 $. 2 0 { - } 3 5 \mathrm { k g }$ 杜寒杂交羔羊能量与蛋白质需要量参数的研究[D].博士学位论文.北京:中国农业科学院,2013.  
+[7]王鹏.肉用公羔生长期(20-35kg)能量和蛋白质需要量研究[D].硕士学位论文.保定:河北农业大学,2011.  
+[8]臧彦全.生长期波杂肉羊能量和蛋白质营养需要的研究[D].硕士学位论文.北京:中国农业科学院,2003.  
+[9] 聂海涛,肖慎华,兰山,等.4\~6 月龄杜湖羊杂交 $\mathrm { F } _ { 1 }$ 代母羔净蛋白质需要量[J].动物营养学报,2015,27(1):93-102.  
+[10] 杨维仁,贾志海,栾玉静,等.杂种肉羊生长期蛋白质需要量及其代谢规律研究[J].中国畜牧杂志,2004,40(6):25-26.  
+[11]赵敏孟.杜泊羊生长期能量代谢规律及需要量研究[D].硕士学位论文.泰安:山东农业大学,2013.  
+[12]杨在宾,杨维仁,张崇玉,等.青山羊尿能及尿中含氮物质排出量的相关性研究[J].中国草食动物科学,2000,2(6):9-10.  
+[13] 赵一广.肉用绵羊甲烷排放的测定与估测模型的建立[D].硕士学位论文.北京:中国农业科学院,2012.[14] 游玉波.肉牛甲烷排放测定与估算模型的研究[D].博士学位论文.北京:中国农业科学院,2008.  
+[15] LOFGREEN G P,GARRETT W N.A system for expressing net energy requirements and feedvalues for growing and finishing beef catle[J].Journal of Animal Science,1968,27(3):793-806.[16] 赵敏孟,杨在宾,杨维仁,等.饲粮能量水平对青山羊能量代谢和产热量的影响[J].中国畜牧杂志,2013,49(11):41-45.  
+[17]杨在宾,李凤双,张崇玉,等.小尾寒羊泌乳期母羊能量需要量及代谢规律研究[J].动物营养学报,1997,9(2):41-48.  
+[18] ACU.The nutrient requirements of ruminant livestock[M]//Nutrient RequirementsofRuminant Livestock,[S.l.]: Agricultural Council Union 1984.  
+[19]魏炳栋,邱玉朗,万伶俐,等.舍饲肉羊生长期能量和蛋白质代谢特点及需要量的研究[J].饲料博览,2010(7):5-8.  
+[20] TYRRELL H F,MOE P W.Effect of intake on digestive efficiency[J].Journal of DairyScience,1975,58(8):1151-1163.  
+[21]邹彩霞.生长水牛能量代谢及其需要量研究[D].博士学位论文.杭州:浙江大学,2009.[22] KAMALZADEH A,SHABANI A.Maintenance and growth requirements for energy andnitrogen of baluchi sheep[J].International Journal of Agriculture & Biology,2007(4):535-539.[23] 杨在宾,杨维仁,张崇玉,等.大尾寒羊生长期能量需要量及代谢规律研究[J].山东农业大学学报(自然科学版),1999,30(2):97-103.  
+[24] 高秀华,李忠宽,金顺丹,等.不同进食水平对生茸期梅花鹿能量代谢的影响[J].动物营养学报,2002,5(3):21-25.  
+[25]杨在宾,贾志海,于玲玲,等.杂种肉羊生长期能量需要量及其代谢规律研究[J].中国畜牧杂志,2004,40(7):18-19.  
+[26] 刘海斌.蛋白水平对舍饲辽宁绒山羊生产性能及消化代谢的影响[D].硕士学位论文.长春:吉林农业大学,2008.  
+[27]冯仰廉.反刍动物营养学[M].北京:科学出版社,2006.  
+[28]李瑞丽,张微,任婉丽,等.辽宁绒山羊空怀母羊能量需要量[J].动物营养学
+
+报,2012,24(9):1701-1706.
+
+[29] 孔祥通.日粮能量水平对陕北白绒山羊生长性能、养分消化率及甲烷产量的影响研究[D].   
+硕士学位论文.杨凌:西北农林科技大学,2014. Effects of Feeding Level on Nutrient Metabolism and Energy Requirement Parameters of Crossbred Male Sheep   
+WEI Bingdongei1,²DIAO Qiyu1\* CHENQun2\* YANG Huaming² QIU Yulang² WANG Shiqin'LI Lin² (1. Key Laboratory ofFeed Biotechnology of Ministry of Agriculture, Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing 10oo81, China; 2. Branch Institute of Animal Husbandry, Jilin Academy of Agricultural Sciences, Gongzhuling 13610o, China)   
+Abstract: This experiment was conducted to investigate nutrient metabolism and energy   
+requirement parameters of crossbred male sheep using open respiratory calorimetry measuring   
+device. The trail was conducted according to a completely random design. Fifteen Dorper and   
+Thin-Tailed Han sheep crossbred F1 lambs were randomly allocated to 3 groups with 5 lambs per   
+group. The lambs were offered diet for ad libitum (AL), $70 \%$ (IR70) and $40 \%$ of ad libitum intake （IR40）,respectively. At 22 and $3 5 \mathrm { k g }$ of body weight, two periods of test were carried out. Each   
+period consisted of digestion and metabolism test (3 d of pre-experiment and $5 \mathrm { ~ d ~ }$ of experiment)   
+and respiratory metabolism test (after $2 4 \mathrm { ~ h ~ }$ adaption in respiratory metabolism room, 5 d recording was carried   
+out). The results showed as follows: 1) with the decrease of feeding level, average daily gain was   
+significantly decreased $( P { < } 0 . 0 1 )$ , and final weight of IR40 group was significantly lower than AL   
+group $( P { < } 0 . 0 1 )$ .2）With the decrease of feding level, dry matter and nitrogen intakes were   
+significantly decreased $( P { < } 0 . 0 1 )$ ，while apparent digestibility of them were not significantly   
+affected $( P { > } 0 . 0 5 )$ . 3) With the decrease of feeding level, methane production, methane energy and   
+heat production were deceased, and IR40 group was significantly lower than AL group $( P { < } 0 . 0 1 )$ .4)   
+After fasting for $6 0 \mathrm { ~ h ~ }$ ,respiratory quotient was 0.71, methane production of the first and second periods was 0.86 and $1 . 1 8 ~ \mathrm { L / d }$ ，respectively, fasting heat production (FHP) was O.211 and 0.26 （204号 $\mathrm { M J / k g W } ^ { 0 . 7 5 }$ ，respectiely，andnetenergyformaintenance (NEm)was0.52and $0 . 3 1 2 \mathrm { \ M J / k g }$ （204号 （204号 $\mathrm { W } ^ { 0 . 7 5 }$ ，respectivelyItiocuedthatithtereaseoffdinglevelgowthpfoc nutrient intakes, average daily gain, methane production, methane energy and heat production are decreased,while apparent digestibility of nutrients are not significantly aected. Under fasting condition, methane productionis 0.86 to $1 . 1 8 \ \mathrm { L } / \mathrm { d }$ FHP is 0.211 to $0 . 2 6 0 \mathrm { M J / k g } \mathrm { W } ^ { 0 . 7 5 }$ , and NEm is 0.252 to 0.312 MJ/kg W0.75.   
+Key words: meat sheep; energy metabolism; feeding level; open respiratory calorimetry measuring device

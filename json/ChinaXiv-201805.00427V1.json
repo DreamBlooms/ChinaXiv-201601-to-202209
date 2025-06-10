@@ -1,0 +1,332 @@
+[
+    {
+        "type": "text",
+        "text": "农业生物技术领域专利态势分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵萍 张博 王学昭\\*(中国科学院文情报中心北京100190）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要专利是技术的有效载体，通过专利态势分析可以在一定程度上有效掌握技术发展脉络及发展趋势。基于专利信息，采用定量数据、定性调研与专家智慧有机结合的方法，从申请趋势、保护市场、领域分布、重要专利权人等多维度分析视角进行农业生物技术领域专利技术态势分析。通过专利态势分析掌握全球农业生物技术专利保护概貌，指出重点方向。在此基础上结合中国农业生物技术领域专利法律状态和专利转让许可状况探讨中国农业生物技术专利保护现状及存在问题，以期支撑中国农业生物技术领域的创新决策。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 农业生物技术 专利 专利布局 态势分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Patent Situation Analysis in Agricultural Biotechnology Field ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Ping ZHANG Bo WANG Xue-zhao\\* (National Science Library, Chinese Academy of Sciences,1oo19o,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Patent is an efective carrier of technology.Through the patent situation analysis，we can effectively grasp the context and trends of technological development. In this paper, we extract data from the patent database.Through the combination of quantitative data analysis,qualitative research,and expert wisdom, we carried out the patent situation analysis in the field of agricultural biotechnology from various dimensions, including application trends,protection of markets,distribution of fields,and important patentees.Through the patent situation analysis,we can grasp the overview of global patent protection of agricultural biotechnology and point outthe key directions of China's agricultural biotechnology research and development.This article discusses the status quo and existing problems of China's agricultural biotechnology patent protection,and promotes the innovative development in the field of agricultural biotechnology.In this paper,we discuss the current situation and existing problems of patent protection of agricultural biotechnology in China,in order to promote the innovation and development of agricultural biotechnology. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words Agricultural Biotechnology; Patent; Patent Layout; Situation Analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物技术搭建了传统农业向现代农业转变的桥梁，现代生物科技的发展引发了农业领域新的产业革命[]。近年来，各国政府均高度重视农业生物技术的发展，农业生物产业在全球飞速成长[2]。许多国家为加速本国农业生物产业的发展，纷纷制定相关政策[3-4]，大力支持农业生物技术的创新[5-8]，力争在未来的国际竞争中具有发言权。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "专利是技术的有效载体[9]，行业巨头纷纷通过知识产权战略垄断市场[10]。本文通过对农业生物技术相关专利的态势分析，对国内外农业生物技术知识产权保护现状进行全局呈现，以期发现我国专利保护面临的问题，为下一步技术创新布局方向提供支撑。同时，发挥情报在产业“创新驱动、转型发展”中的支撑引领作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以农业生物技术为研究对象，参考经济合作与发展组织（OECD）报告对生物技术界定的国际专利分类号（IPC）范围[]，与农业生物技术领域的专家共同遴选出了与农业生物技术相关的 IPC：A01H1/00、A01H4/00、A01N、A61K38/00、A61K39/00、A61K48/00、C05F11/08、C05F15/00、C12N、A23K、C07K14/415、C07K14/195、C07K14/37，并研究了这些 IPC 的逻辑组合规则。然后在 Incopat数据库中从IPC入手，通过多重逻辑组合检索策略，确定数据集。分析方法采用定量数据与定性调研的有机结合，再加上专家智慧的辅助作用。分析工具借助于Incopat数据库的专利分析平台以及EXCEL、ACCESS 等数据处理工具，对全球及中国农业生物技术相关专利保护与布局现状进行全景展现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2农业生物技术专利分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "截止2018 年2月，在Incopat 数据库中共检索到农业生物技术领域相关专利157871件，其中，中国知识产权局受理专利30778件（本文专利计量仅考虑发明专利，以专利申请号为统计对象；文中中国专利指中国知识产权局受理的专利)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1国内外申请趋势",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "全球最早的农业生物技术专利出现在1908年，是瑞士的个人提交的涉及对一种植物再生肥技术的保护（CH41006A）。在一定时间范围内，全球农业生物技术专利的申请经历了萌芽、增长、高峰和迁回阶段，现阶段趋于平稳增长（图1)。1908 年至1961年，全球农业生物技术专利年度申请量不超过10件；1962年至1972年的年度申请量介于 $1 0 { \\sim } 1 0 0$ 件之间；1973年开始，年度申请量增加迅速（100\\~1000 件/年)，1990 进入增长高峰期。中国的第一篇农业生物技术专利出现在1985年，是由河北省科学院微生物研究所提交的涉及一种棉籽壳生料栽培香菇的技术方法（CN85101598A）。中国农业生物技术专利的申请态势与国际趋势不完全同步，虽然整体呈上升趋势，但申请高峰期晚于全球进入申请高峰的时间。1985 年至1993 年，中国农业生物技术专利年度申请量不超过50 件；1993 年开始，年度申请量增加迅速（50\\~1000件/年)，2008 年进入增长高峰期，年度申请量超过1000件/年。受经济危机的影响，2008-2012年全球农业生物技术专利年度申请量出现小幅度下滑后回暖，预计增长趋势仍会持续，但增幅不会继续扩大（近2年专利申请数据受公开时滞影响，仅供参考，下同)。从农业生物技术的专利申请趋势判断，研发虽然仍在持续，但专利激增阶段已经过去，进入平稳增长期，推测目前农业生物技术已经进入大规模产业化阶段。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e8ee1650c85e28639d6542381075dd3c5547f6006428734d6d3d1d7ee985532.jpg",
+        "img_caption": [
+            "图1国内外专利申请趋势",
+            "Fig.1Domestic and foreign patent application trends "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2专利受理国家/地区分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "农业生物技术相关专利在全球布局广泛，共涉及二十多个国家/地区组织（图2)。中国是该领域的主要布局国家，其次是日本和美国。另外，澳大利亚、加拿大进入了专利布局排名前五位，韩国、巴西、墨西哥、英国和印度是进入专利布局前十位的国家（世界知识产权组织WIPO 和欧洲专利局EPO作为专利申请保护的有效途径，其受理的专利数据列出作为参考，下同)。专利受理国家/地区在一定程度上反映了专利申请人关注的潜在市场。分析可得，中国、日本和美国是农业生物技术研发机构比较关注的市场。这与各个国家对农业生物技术产业的支撑力度密切相关。目前，许多国家都把发展生物技术产业作为国民经济的重要内容。美国、欧洲各国政府通过研究经费来扶持农业生物技术，亚太各国借力于政府对高新产业扶持的传统，力争在农业生物技术领域占领制高点。从主要专利受理国家/地区的专利申请趋势分析，日本的专利申请时间分布较为均匀，中国和美国的专利申请时间集中分布趋势比较明显。美国集中于2000 年至2010年，中国集中于2010年至今。我国农业生物技术产业起步较晚，经过多年发展，以基因工程为核心的研制开发已显成效。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/67b65cf738197cf2734112795f22903c02d13e8967766d98ec9c0672e895ec3e.jpg",
+        "img_caption": [
+            "图2主要专利受理国家/地区（TOP5)",
+            "Fig.2 Major patent receiving countries/regions （TOP 5) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3领域分布概况",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从IPC分类分析发现农业生物技术相关专利涉及多个技术领域，较为集中的是人类生活必需（A类）和化学冶金（C类)；此外，还涉及物理（C类）、作业运输（B类）、纺织造纸（D类)、机械工程（F类)、电学（H类）等技术类别，可见该领域的技术交叉范围广泛（图3)。从细化的IPC分类分析农业生物技术的领域分布，发现微生物或酶及其组合物技术（C12N）的集中度最高，其次是医用、牙科用或梳妆用的配置品技术（A61K）和新植物或获得新植物的方法或通过组织培养技术的植物再生技术（A01H)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/246359146464265e5f177eaaf78e438027069e9236a3b8dea118ab794110d6c8.jpg",
+        "img_caption": [
+            "图3主要IPC及说明",
+            "Fig.3Main IPC and instructions "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从主要国家/地区的IPC布局分析可以看出，各国的技术布局重点方向略有不同（图4)。美国、澳大利亚的专利集中于微生物或酶及其组合物技术（C12N)和医用、牙科用或梳妆用的配置品技术（A61K)；日本对医用、牙科用或梳妆用的配置品技术（A61K）的关注度更高；中国和加拿大更加侧重微生物或酶及其组合物技术（C12N）和新植物或获得新植物的方法或通过组织培养技术的植物再生技术（A01H）的相关研发。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/971acaec4b63c437f6e3cb8027e50c7d5a9a71d72365bb1b7bffd792954a6be8.jpg",
+        "img_caption": [
+            "图4主要国家/地区的领域布局重点方向（TOP5）"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过专家智慧方法对农业生物技术领域的专利IPC进行解读、归纳和汇总，把农业生物技术领域分为生物技术育种、应用化学、农业/乳制品和动物科学、蛋白质医药、微生物/酶或其组合物等子技术。通过相关IPC的限定，分析出农业生物技术领域相关子技术的专利聚集概况。微生物/酶或其组合物是集中度最高的子技术方向，其次是蛋白质医药和应用化学，生物技术育种紧随其后，农业/乳制品和动物科学是专利布局的稀疏方向（图5）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4222fbd096644dc1edf237e22566fea49065d0ad514d3aea9a1cdd11bdd80cbd.jpg",
+        "img_caption": [
+            "Fig.4 Key directions of field layout in major countries/regions （TOP 5） ",
+            "图5重点子技术方向",
+            "Fig.5Key sub-technical directions "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4重要申请人分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "企业并购在生物技术领域案例频发，一些跨国集团把对外部优势资源的整合视为应对行业的挑战的重要手段。为了深入分析农业生物技术领域重要研发机构的专利储备，首先需要追溯该领域领军企业的并购历史。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "长期以来，全球农化行业第一梯队呈现“六巨头”格局，分别是先正达、孟山都、拜耳、陶氏、杜邦和巴斯夫六家跨国公司。但是在全球农产品价格大幅下滑导致全球农业公司效益下滑的大背景下，全球农化巨头开始了新一轮合并潮。首先，美国陶氏化学和美国杜邦两大公司于2015年完成合并，合并后成立的陶氏杜邦公司成为了仅次于德国巴斯夫公司的第二大化工企业；其次，中国化工公司以430亿美元收购种子巨头瑞士先正达公司，使中国化工公司一跃成为全球最大的杀虫剂与农业供应商；再次，德国拜耳公司以660 亿美元收购美国孟山都公司，一举成为世界最大的种子及肥料公司。上述三次并购被称为“三大并购”，三大并购后形成了四大农化公司：杜邦 $^ +$ 陶氏、中国化工 $\\cdot +$ 先正达、拜耳 $^ +$ 孟山都、巴斯夫。同时，这些农化大公司亦通过并购，对旗下的产业进行优化调整，如2017年10月，德国巴斯夫公司59亿元收购了拜耳公司种子和非选择性除草剂业务，本次收购与巴斯夫公司现有作物保护业务形成互补，增强了巴斯夫公司的除草剂产品组合，并使巴斯夫公司通过关键农业市场的专利资产进入到种子业务市场。同时，一些业务单一的公司开始通过企业并购进入农业生物技术行业。全球最大的工业酶制剂和工业微生物制剂生产商诺维信（Novozymes）通过并购德国Organobalance 等公司继续加强和扩展其微生物解决方案；在制药和诊断领域，全球领先的罗氏制药公司（Roche）通过并购，正在加强和扩展生物测序、疫苗等方面的业务。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在充分了解企业并购历程的基础上，对专利机构进行清洗，发现美国陶氏杜邦公司、德国拜耳公司、德国巴斯夫公司、中国化工公司（2016年，收购瑞士先正达，现归属于中国化工公司的大部分专利是由先正达公司申请的）、中国科学院是全球农业生物技术相关专利申请量最多的前5家专利权机构，专利量均在1500 件以上，其中，陶氏杜邦公司的专利数量最多，超过5000 件；其次为德国拜耳公司和德国巴斯夫公司（专利数量为超过3000件)。从TOP20专利申请机构的性质看，有8家属于企业，8家属于高校，4家属于科研机构，且排名前4位的机构均来自企业。从TOP20专利申请机构所属国家来看，有7家机构来自美国，7家机构来自中国，3家机构来自德国，2家机构来自日本，1家来自瑞士。美国的7家机构中不仅有陶氏杜邦、罗氏等跨国公司，还有加州大学等世界著名高校 (图6)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/34eaeb589e5884f723907550eae8752a6185ec2e267e523a528d8a75a7467c7c.jpg",
+        "img_caption": [
+            "图6全球重要申请人",
+            "Fig. 6 Globally important patent applicants "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "中国专利申请机构的主要类型有企业、大专院校、科研单位、个人和机关团体等，其中，企业申请的专利最多（超过1万件)，其次是大专院校和科研单位。中国科学院、中国农业科学院、中国农业大学、南京农业大学、华中农业大学、浙江大学、德国巴斯夫公司、美国陶氏杜邦公司、华南农业大学、上海交通大学、德国拜耳公司、福建农林科技大学、江苏省农业科学院和中国化工公司是中国农业生物技术领域相关专利的主要申请机构。其中，中国科学院相关专利技术申请量最多，为1824件；中国农业科学院专利数量为1230件，排名第2位，这两家机构的专利量远高于其他专利机构。从机构性质上看，中国TOP16专利申请机构中，高等院校的数量最多（8家)，其次为企业（5家）和科研院所（3家），但科研机构的专利申请量排名靠前（图7)。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ce3bb31138fab09b35bf39bb11979304fc6ad321aa0706757d7297234c50792.jpg",
+        "img_caption": [
+            "Fig.7 Important patent applicants in China "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5中国专利保护现状",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "截止检索时间，中国农业生物技术专利中，授权且有效的专利占 $2 6 . 3 9 \\%$ 处于实质审查状态的专利占 $30 . 8 7 \\%$ ，处于公开状态的专利占 $3 . 2 7 \\%$ ，撤回的专利占 $1 8 . 3 4 \\%$ ，权利终止的专利占 $1 3 . 4 3 \\%$ ，驳回的专利占 $7 . 1 6 \\%$ （图8)。从专利有效性角度考虑，中国有效农业生物技术专利占 $2 6 . 3 9 \\%$ ，审中专利占 $34 . 1 4 \\%$ 失效专利占 $3 9 . 4 6 \\%$ 。总体来看，中国农业生物技术专利的失效占比接近 $40 \\%$ ，其中，因撤回造成失效的专利较多，需要引起相关机构的足够重视，提高专利申请质量，确保研发技术得到真正的保护。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7abba5b77b861be35e8c1ee707366b48bc3b21648cea287f90d1a74accdee497.jpg",
+        "img_caption": [
+            "图7中国重要申请人",
+            "图8中国专利法律状态Fig.8Patent legal status"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6中国专利转让与许可状况",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "中国农业生物技术专利共发生转让1724件，发生许可193件。图9展示了中国农业生物技术专利的转让和许可状况。从转让专利的转让时间来看，转让专利数量自2008年起逐年增加，2012年后伴随小幅度的迁回趋势快速增长持续至今（近2年数据受公开滞后影响仅供参考，下同)。中国科学院、拜耳公司、上海上房园艺有限公司、诺瓦提斯公司、未名兴旺系统作物设计前沿实验室（北京）有限公司等机构是主要转让人，拜耳公司、国网上海市电力公司、四川七彩林业开发有限公司、上海上房园艺有限公司等机构是主要受让人。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从专利许可的时间来看，中国农业生物技术最早的专利许可发生在2004 年，2009 年开始专利许可量呈现曲折上升趋势，许可高峰出现在2012年，之后专利许可量出现下滑。中国农业科学院、南京农业大学、中国人民解放军军事医学科学院、华中农业大学等机构是主要许可人；北京大北农科技集团股份有限公司、军事医学科学院、无锡翔天牧生物科技有限公司、武汉科诺生物科技股份有限公司等机构是主要被许可人。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "另外，通过对发生转让许可专利的IPC分类分析发现转让许可的专利主要集中在微生物或酶及其组合物、新植物或获得新植物的方法或通过组织培养技术的植物再生、医用/牙科用或梳妆用的配置品、生物化学等所涉及的微生物等技术。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "主要转让人 专利数量 主要受让人 专利数量中国科学院 55 325 拜耳公司 42拜耳公司 42 289 国网上海市电力公司 29上海上房园艺有限公司 29 四川七彩林业开发有限公司 29中国化工公司 23 215-202 上海上房园艺有限公司 29有兴旺系统作物设计前沿实验室（北京） 21 公司 222138139三川利株式林科技有限公司 1015 74-9084 有限公司 未名兴旺系统作物设计前沿实验室(北京) 20南京农业大学 四川胜泽源农业投资有限公司 14 14 4621302546.4430 福建省中科生物股份有限公司 18巴中科技有限司 44 抚州限公司 4主要转让人 转让趋势 主要受让人转让许可概况主要许可人 许可趋势 主要许可人许可人 专利数量国农业科学院 17京农业大学 12 被许可人 专利数量国人民解放军军事医学科学院 6 27 28 北京大北农科技集团股份有限公司 1825业公司 65 20 军事医学科学院华南干细胞与再生医学研 3海交通大学 3 无锡翔天牧生物科技有限公司 3国农业大学 3 10 武汉科诺生物科技股份有限公司 3京翔天牧生物科技有限公司 3 2京龙科方舟生物工程技术有限公司 3 2004 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017[北省农林科学院植物保护研究所 3",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3结论与发展建议",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）中国与全球农业生物技术的发展趋势不同步",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "全球农业生物技术专利申请呈现两个不同的阶段：2010年前专利量的增长主要是由杜邦、巴斯夫、拜耳、收购前的孟山都、收购前的先正达等为代表的跨国公司或农业生物技术公司所引起的；2010年之后这些公司的专利申请呈现出下降趋势。而中国的农业生物技术目前正处于迅速发展阶段，成为2010年之后全球农业生物技术专利申请量增长的主要贡献者。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（2）中国机构正在逐步挑战国际大公司的优势地位",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前，陶氏杜邦公司、德国拜耳公司、德国巴斯夫公司的专利数量均超过3000件，拥有绝对性的优势。但2010年之后，我国科研院所和高校已经成为全球农业生物技术专利申请量增长的主要贡献者，如中国科学院、中国农业科学院、中国农业大学等正在打破原有的农业生物技术被跨国农化巨头所垄断的研发格局。同时，我国化工行业的巨头一中国化工公司通过收购先正达公司，也步入农业生物技术的研发优势行列。我国应从宏观层面考虑对现有专利的有效运用，以核心专利权人为主，建立专利联盟，使高质量专利形成专利池，强化我国优势技术点上的控制力，力争在优势技术点占据行业领先地位。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（3）中国需加强农业生物技术领域的专利保护力度",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "中国农业生物技术专利的失效比例接近 $40 \\%$ ，造成了科研资源的浪费，也会直接影响科技成果转化率。需引起相关专利申请人及代理机构的高度重视，采取有效举措提升专利质量，使专利真正起到为技术保驾护航的作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（4）中国在农业生物技术领域的专利转让许可状况良好",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "中国科学院、上海上房园艺有限公司、国网上海市电力公司、四川七彩林业开发有限公司、中国农业科学院、南京农业大学、北京大北农科技集团股份有限公司、军事医学科学院等机构已经走在了我国农业生物技术领域的专利转让许可前列，正在通过转让和许可等方式加快技术产业化步伐。随着我国农业生物技术产业化的进一步发展，需要更加完善的知识产权交易运营体系支撑。我国应加强农业生物技术的知识产权体系建设，促进专利技术最终转化为产品的进程。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：  \n[1]王俊生,张太宇.浅析如何促进传统农业向现代农业转变[J].当代经济,2010(O6):82-83.WAGN J S， ZHAGN T Y. How to Promote the Transformation from TraditionalAgriculture to Modern Agriculture. Contemporary Economics,2O1O(O6):82-83.  \n[2]李晶.国外农业生物技术的发展研究[J].世界农业,2015(12):53-56.Li J. Research on the Development of Foreign Agricultural Biotechnology. WorldAgriculture,2015(12):53-56.  \n[3]白京宇.我国农业生物技术发展趋势及政策建议[J].现代化农业,2006(1O):17-21.BAl J Y. China's Agricultural Biotechnology Development Trends and Policy Suggestions.Modernizing Agriculture,2006(1O):17 -21.  \n[4]罗忠玲,邹彩芬,王雅鹏.美国农业生物技术研发投资与专利保护[J].生态经济,20O6(O8):1OO-103.LUO Z L, ZOU C F, WAGN Y P. American Agricultural Biotechnology R&D Investment andPatent Protection. Ecological Economy,2006(O8):100-103.  \n[5]季凯文.国外生物农业发展动态及其对我国的启示[J].江西科学,2016,34(O2):257-261.Jl K W. The Development of Biological Agriculture in Foreign Countries and ItsEnlightenment to China. Jiangxi Science,2016,34(02):257-261.  \n[6]马桂莲,张琴.世界农业生物技术发展概况及我国发展展望[J].安徽农学通报,2OO7,13(19):87-88.MA G L, ZHANG Q. The Development of Agricultural Biotechnology in the World andProspects for China's Development. Anhui Agricultural ScienceBulletin,2007,13(19):87-88.  \n[7]胡美函,程杰.农业生物技术备战粮食危机[J].中国农村科技,2008(5):24-25.HU M H, CHEGN J. Agricultural biotechnology preparing for food crisis. China RuralScience & Technology, 2008(5):24-25.  \n[8]邱敏清,杜艳艳.基于SCI的农业生物技术文献计量分析[J].安徽农业科  \n学,2010,38(06):3282-3286.QIU M Q, DUYY. Bibliom etric Analysis of Agricultural Biotechnology Based on SCl.Journalof Anhui Agricultural Sciences,201O,38(06):3282-3286.  \n[9]郭柯磊,欧阳昭连,杜然然等.国际生物技术专利计量分析[J].生物技术通讯,2O11,22(O2):248-251.GUO K L, OUYANG Z L, DU R R, et al. Study of International Patents on Biotechnology.Letters in Biotechnology 2011,22(02):248 -251.  \n[10]张彩霞.跨国公司农业生物技术垄断、影响及启示[J].生态经济,2010(03):78-80+84.ZHAGN C X. Agriculture Biotech and Multinational Company's Monopoly & Influences.Ecological Ec0nomy,2010(03):78 -80+84.  \n[11]0ECD Science， Technology and Industry Scoreboard.2o09:66.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

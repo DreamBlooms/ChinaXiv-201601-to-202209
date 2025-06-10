@@ -1,0 +1,206 @@
+舍饲与林地放养混合模式下寿光鸡、固始鸡和罗曼蛋鸡蛋品质及肉品质的比较1林诗宇　杜夏夏　冉崇霖 李霞辉 王志刚　徐 超　舒 刚\*（四川农业大学动物医学院，成都 625100）  
+4摘要：本试验旨在比较寿光鸡、固始鸡和罗曼蛋鸡在舍饲与林地放养混合模式下蛋品质及肉品质的差异。选取90日龄寿光鸡、固始鸡和罗曼蛋鸡母鸡各120 只，每个品种鸡设4个重复，每个重复30只，在舍饲与林地放养混合模式下采用常规基础饲粮饲喂至180 日龄。结果表明：罗曼蛋鸡与寿光鸡、固始鸡相比，蛋重显著升高（ $_ { . P < 0 . 0 5 } )$ ，而蛋黄颜色、蛋白高度和哈氏单位显著降低（ $P { < } 0 . 0 5 \$ )。寿光鸡和固始鸡的蛋中锌、硒、钙、蛋白质和脂肪含量较罗曼蛋鸡显著升高( $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \rangle$ ，肌肉中脂肪和蛋白质含量也较罗曼蛋鸡显著升高( $( P { < } 0 . 0 5 )$ 。寿光鸡、固始鸡肌肉的滴水损失率、剪切力显著低于罗曼蛋鸡（ $. P { < } 0 . 0 5 )$ ，肉色显著高于罗曼蛋鸡（ $P { < } 0 . 0 5$ )。寿光鸡和固始鸡肌肉中甘氨酸、谷氨酸、异亮氨酸和鲜味氨基酸含量显著高于罗曼蛋鸡（ $P { < } 0 . 0 5 \$ )。总之，寿光鸡和固始鸡的蛋具有大蛋黄、高蛋白，且营养元素丰富，而罗曼蛋鸡的蛋含水量较高，蛋白质品质较差；寿光鸡和固始鸡的肌肉较罗曼蛋鸡具有较长货架期，且肌苷酸和氨基酸含量高，肉质鲜嫩，营养丰富；3个品种鸡中，寿光鸡和固始鸡的蛋品质和肉品质更佳。关键词：寿光鸡；固始鸡；罗曼蛋鸡；蛋品质；肉品质；营养成分中图分类号：S816 文献标识码：A 文章编号：  
+18 作为禽蛋生产、消费大国，我国的鸡蛋产量现占全世界总产量的近 $5 0 \%$ ，而鸡蛋品质是  
+19 人们关注的重点[1。衡量鸡蛋品质的重要指标包括其外在品质如蛋重、蛋黄颜色等和其内在  
+20 品质如营养成分含量等[2]。此外，蛋品质还受到鸡的品种、饲粮组成、饲养方式等多种因素的影响[3-4]。  
+随着生活水平的日益提高，人们对肉鸡的消费观正从数量型向质量型过渡，更加注重肉品质。根据世界家禽产业的发展趋势，优质鸡肉将逐渐占据世界鸡肉市场的主导地位，成为家禽生产的主流[5]。鸡肉品质也受各方面影响，而鸡的品种就是主要影响因素之一。我国具有丰富的鸡品种资源,包括地方品种、培育品种和引进品种。寿光鸡具有耐粗饲、就巢性强和抗病力强等特性，其肉质坚韧鲜美，鸡蛋畅销城乡市场，蛋价也远高于普通鸡蛋[6-7]；固始鸡是长期择优繁育出的具有良好特性的肉蛋兼用型优秀地方鸡种，也是国家重点保护畜禽品种之一[8]；罗曼蛋鸡是培育的褐壳蛋鸡配套系，具有高产蛋性能、高饲料转化率、高蛋品质、高适应力、高抗病力等优点，是世界著名的培育配套系之一[9-10]。本试验拟对上述3个品种（系）的鸡蛋和鸡肉品质进行研究，比较它们在蛋品质和肉品质方面的差异，为进一步了解寿光鸡、固始鸡和罗曼蛋鸡种质特性以及开展品种选育、保护及开发利用等提供科学依据，为消费者选择优质蛋肉提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验动物与分组
+
+选取90日龄寿光鸡、固始鸡和罗曼蛋鸡母鸡各120只，每个品种鸡设4个重复，每个重复30只，在舍饲与林地放养混合模式下常规饲喂至180日龄。其中，舍内密度为6只 $/ \mathrm { m } ^ { 2 }$ ，放牧面积为每个重复0.5亩（1亩 ${ \approx } 6 6 7 ~ \mathrm { m } ^ { 2 }$ )。试验期间自由采食和饮水，其他按常规饲养程序进行。参照NRC(1994)产蛋种鸡营养需要配制基础饲粮，其组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis)   
+
+<html><body><table><tr><td colspan="2">sitionandnutrientlevelsofthebasaldiet(air-drybasis) %</td></tr><tr><td></td><td></td></tr><tr><td>项目Items</td><td>含量Content</td></tr><tr><td></td><td></td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>玉米Corn</td><td>62.40</td></tr></table></body></html>
+
+<html><body><table><tr><td>豆粕 Soybean meal</td><td>25.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.50</td></tr><tr><td>贝壳粉 Oyster shell meal</td><td>8.50</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td></tr><tr><td>豆油 Soybean oil</td><td>1.00</td></tr><tr><td>食盐 NaCl</td><td>0.35</td></tr><tr><td>赖氨酸Lys</td><td>0.10</td></tr><tr><td>蛋氨酸 Met</td><td>0.15</td></tr><tr><td>合计Total</td><td></td></tr><tr><td>营养水平 Nutrient levels</td><td>100.00</td></tr><tr><td>代谢能 ME/(MJ/kg)2)</td><td></td></tr><tr><td>粗蛋白质 CP</td><td>11.52</td></tr><tr><td></td><td>16.53</td></tr><tr><td>粗脂肪 EE</td><td>2.84</td></tr><tr><td>钙Ca</td><td>3.52</td></tr><tr><td>有效磷 AP</td><td>0.41</td></tr><tr><td>蛋氨酸 Met</td><td>0.35</td></tr><tr><td>可消化赖氨酸 DLys</td><td>0.81</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: VA 7 500 IU,VD 2 200 IU,
+
+VE 8 IU, VK $2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 3 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 4 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 6 \mathrm { m g }$ ， $\mathbf { V B } _ { 1 2 } 0 . 0 1 6 \mathbf { m g }$ ，烟酸 nicotinic acid $3 0 \mathrm { m g }$ ，泛酸pantothenic acid $1 0 \mathrm { m g }$ ，生物素biotin $0 . 1 2 \mathrm { m g }$ ，叶酸 folic acid $0 . 2 5 \mathrm { m g }$ ， $ { \mathbf { M } }  { \mathrm { n } } 8 0  { \mathrm { m g } }$ ，Fe $5 8 ~ \mathrm { m g }$ ， $\mathrm { Z n ~ 8 0 ~ m g }$ ，Cu 8 mg， $\mathrm { ~ I ~ 1 ~ m g ~ }$ ，Se $0 . 3 \mathrm { m g }$ 。
+
+2)代谢能为计算值，其余为实测值。ME was a calculated value,while the others were measured values.
+
+# 1.2 试验仪器
+
+电子天平（A006，乐祺)，外径千分尺（283-240，日本三丰)，超低温冰箱（MDF-U3 386S，日本松下），卵形系数测定器（NFN384，日本FHK)，多功能蛋品质检测仪（EMT-7300，日本)，细菌培养箱（SPX-70B，北方仪器)，马弗炉（FR-1236，上海发瑞)，G-LM型嫩度仪（C-LM3，Tenovo），高效液相色谱仪（Prominenece UFLC，日本岛津），高速组织匀浆机（FSH-2，宏华仪器)，高速离心机（HR/T20MM，Herexi)，氨基酸自动分析仪（L-8800,日本日立)。
+
+# 1.3 试验方法
+
+在180日龄时，随机抽取3个品种鸡同日所产的鲜鸡蛋各12个进行蛋品质、营养成分含量和菌落数测定。试验结束时，每组的每个重复选择接近平均体重的2只鸡屠宰，屠宰后在 $5 \mathrm { m i n }$ 内取下胸肌中间部位，用于鸡肉常规理化指标、品质及肌苷酸、氨基酸含量的测定。
+
+# 1.3.1 蛋品质测定
+
+用电子天平称量蛋重、蛋黄重、蛋白重；蛋黄比率、蛋白比率分别为蛋黄重、蛋白重占蛋重的比率；用卵形系数测定器测定蛋形指数；用外径千分尺测量蛋壳钝端、中部、锐端的厚度，取平均值为蛋壳厚度；用多功能蛋品质检测仪测定蛋白高度、蛋黄颜色和哈氏单位。
+
+# 1.3.2 蛋中细菌检测
+
+蛋壳消毒后开一小孔，分别吸出蛋清和蛋黄加入到各有 $3 \mathrm { m L }$ 生理盐水的试管，混匀，在灭菌营养琼脂和麦康凯琼脂平板上划线，37℃条件下培养 $1 8 \mathrm { h }$ ，观察菌落数。
+
+# 1.3.3 蛋中营养成分含量测定
+
+蛋中微量元素含量采用火焰原子吸收法测定，钠（Na）、硒（Se）、锌（Zn）、铁（Fe）、钙（Ca）含量的具体测定方法分别参考GB/T 5009.91-2003、GB/T 5009.93-2010、GB/T5009.14-2003、GB/T 5009.90-2003、GB/T 5009.92-2003。蛋中水分、灰分、蛋白质和脂肪含量分别参考GB/T 5009.3-2010、GB/T 5009.4-2010、GB/T5009.5-2010和GB/T5009.47-2003
+
+中方法测定。
+
+# 1.3.4鸡肉常规理化指标测定
+
+取每只鸡左侧胸肌 $1 0 0 \ \mathrm { g }$ ，按组混匀后测定常规理化指标。其中，水分含量采用烘干失重法测定；干物质含量采用烘干法测定；粗脂肪含量采用索氏提取法测定；粗蛋白质含量采用微量凯氏定氮法测定；粗灰分含量采用马弗炉灰化法测定；微量元素含量采用火焰原子吸收法测定，其中铬 $( \mathbf { C r } )$ 、铜 $\mathrm { ( C u ) }$ )和锰（Mn含量分别参照GB 5009.15-2014、GB/T5009.13-2003、和GB/T5009.90-2003中方法测定，其他元素含量的测定方法同1.3.3。
+
+# 1.3.5 鸡肉品质测定
+
+根据《畜禽肉品学》[1中方法测定鸡肉的pH（ $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ 、 $\mathrm { p H } _ { 2 4 }$ h分别为宰后 $4 5 \mathrm { m i n }$ 和 $2 4 \mathrm { h }$ 的pH）、肉色、失水率、系水力、滴水损失率、剪切力和肌纤维直径。
+
+# 1.3.6鸡肉中肌苷酸、氨基酸含量测定
+
+鸡肉中肌苷酸含量采用高效液相色谱法测定。样品前处理方法参照叶伟庆等[12]的方法。流动相：流速 $1 \mathrm { m L / m i n }$ ， $5 \%$ 乙腈， $9 5 \%$ 甲酸铵缓冲液。检测波长： $2 5 4 \mathrm { n m }$ 。
+
+样品经过酸水解或氧化水解（用于蛋氨酸和半胱氨酸）处理后，采用氨基酸自动分析仪测定各氨基酸（色氨酸除外）含量。
+
+# 1.4 统计分析方法
+
+采用 SPSS19.0软件的ANOVA子程序进行单因素方差分析，采用LSD 法进行平均值间的多重比较。结果以平均值 $\pm$ 标准差表示。
+
+# 2结果与分析
+
+2.13个品种鸡的蛋品质比较由表2可见，罗曼蛋鸡的蛋重为 $5 7 . 1 3 \mathrm { g }$ ，分别比寿光鸡（ $2 2 . 2 6 \mathrm { g }$ ）、固始鸡的蛋重（19.53g）重 $6 3 . 8 4 \%$ 和 $5 1 . 9 4 \%$ ，差异显著（ $P { < } 0 . 0 5 \mathrm { : }$ ；蛋黄颜色表现为固始鸡 $>$ 寿光鸡 $>$ 罗曼蛋鸡，罗曼鸡与其余品种差异显著( $. P { < } 0 . 0 5 )$ ;罗曼蛋鸡与固始鸡的蛋黄比率存在显著差异( $. P { < } 0 . 0 5 )$ ，与寿光鸡的蛋黄比率无显著差异（ $P { > } 0 . 0 5 \$ )；寿光鸡的蛋白比率显著低于固始鸡和罗曼蛋鸡（ $P { < } 0 . 0 5 )$ ；罗曼蛋鸡的蛋白高度显著低于寿光鸡和固始鸡（ $. P { < } 0 . 0 5 )$ ；寿光鸡和固始鸡的哈氏单位显著高于罗曼蛋鸡（ $P { < } 0 . 0 5 )$ 0。
+
+# 表23个品种鸡的蛋品质
+
+Table2Egg quality of three chicken breeds   
+
+<html><body><table><tr><td>项目Items</td><td>寿光鸡</td><td>固始鸡</td><td>罗曼蛋鸡</td></tr><tr><td></td><td>Shouguang chickens</td><td>Gushi chickens</td><td>Roman layers</td></tr><tr><td>蛋重 Egg weight/g 蛋形指数Egg shape index</td><td>34.87±3.18b</td><td>37.60±2.98b</td><td>57.13±3.28a</td></tr><tr><td>蛋黄颜色 Yolk color</td><td>1.35±0.06 10.34±1.43a</td><td>1.34±0.03</td><td>1.35±0.06 8.09±0.69b</td></tr><tr><td>蛋黄比率 Egg yolk ratio/%</td><td>32.57±3.76ab</td><td>10.36±0.72a 29.03±1.68b</td><td>33.14±1.31a</td></tr><tr><td>蛋白比率 Eggwhite ratio /%</td><td>45.31±2.32b</td><td>49.57±2.49a</td><td>47.55±2.16a</td></tr><tr><td>蛋壳厚度 Shell thickness/mm</td><td>39.32±0.85</td><td>38.85±0.91</td><td>36.18±2.86</td></tr><tr><td>蛋白高度 Albumen height/mm</td><td>5.41±1.29a</td><td>6.71±1.37a</td><td>3.02±0.55b</td></tr><tr><td>哈氏单位 Haugh unit</td><td>79.52±7.81a</td><td>81.44±6.59a</td><td>48.26±5.53c</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 ) ,$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with no letter or the same lettr superscripts mean no significant difference ( $P { > } 0 . 0 5 ) ,$ 一 while with different small letter superscripts mean significant difference ( $\mathrm { \Phi } ^ { \prime } < 0 . 0 5 \$ ).The same as below.
+
+2.23个品种鸡蛋中营养成分含量的比较
+
+由表3可知，对于蛋Na含量，罗曼蛋鸡显著高于寿光鸡和固始鸡（ $. P { < } 0 . 0 5 )$ ；蛋中Se 含量表现为寿光鸡 $>$ 固始鸡 $>$ 罗曼蛋鸡，且3个品种鸡之间差异均显著（ $\scriptstyle \cdot < 0 . 0 5 .$ ；寿光鸡和 固始鸡蛋中Zn 含量显著高于罗曼蛋鸡（ $P { < } 0 . 0 5 \$ ；对于蛋中Fe含量，寿光鸡显著高于罗曼
+
+蛋鸡（ $P { < } 0 . 0 5 )$ ；寿光鸡和固始鸡蛋中Ca含量显著高于罗曼蛋鸡（ $\scriptstyle \cdot { \cal P } < 0 . 0 5 .$ )；与罗曼蛋鸡相 比，寿光鸡、固始鸡蛋中蛋白质和脂肪含量较高，且差异显著（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）°
+
+Table 3Nutrient contents of three chicken breeds   
+
+<html><body><table><tr><td>项目Items</td><td>寿光鸡</td><td>固始鸡</td><td>罗曼蛋鸡</td></tr><tr><td>钠 Na/（x10-² mg/g)</td><td>Shouguang chickens 143.01±4.58b</td><td>Gushi chickens</td><td>Roman layers</td></tr><tr><td>硒 Se/ (x10-2 mg/g)</td><td>0.29±0.02a</td><td>157.60±4.28c</td><td>165.02±5.28a 0.01±0.002c</td></tr><tr><td>锌 Zn/(x10-² mg/g)</td><td>1.51±0.13a</td><td>0.14±0.03b</td><td>0.09±0.01b</td></tr><tr><td>铁 Fe/ （x10-2 mg/g)</td><td>2.05±0.76a</td><td>1.46±0.72a 1.13±0.68ab</td><td>1.01±1.31b</td></tr><tr><td>钙 Ca/ (x10² mg/g)</td><td>52.01±4.32a</td><td>50.57±2.49a</td><td>45.01±2.16b</td></tr><tr><td>水分Mositure/%</td><td>75.81±1.15b</td><td>76.25±1.25ab</td><td>78.01±2.25a</td></tr><tr><td>灰分 Ash/%</td><td>0.86±0.07</td><td></td><td></td></tr><tr><td>蛋白质 Protein/%</td><td></td><td>0.91±0.06</td><td>1.01±0.14</td></tr><tr><td>脂肪Fat/%</td><td>12.61±1.21a 10.02±0.56a</td><td>12.48±1.35a 9.58±0.64a</td><td>8.50±1.35b 8.01±1.02b</td></tr></table></body></html>
+
+# 2.33个品种鸡蛋中细菌数的比较
+
+3个品种鸡的蛋中均未发现任何细菌。2.43个品种鸡肌肉中常规理化指标的比较由表4可知，寿光鸡和固始鸡肌肉中粗脂肪含量显著高于罗曼蛋鸡（ $( P { < } 0 . 0 5 )$ ，粗蛋白质含量也显著高于罗曼蛋鸡（ $( P { < } 0 . 0 5 )$ ，其他常规理化指标差异均不显著（ $P { > } 0 . 0 5 \$ )°
+
+# 表43个品种鸡肌肉中常规理化指标
+
+表33个品种鸡蛋中营养成分含量  
+Table 4Routine physical and chemical indexes in muscle of three chicken breeds   
+
+<html><body><table><tr><td></td><td></td><td></td><td></td></tr><tr><td>项目 Items</td><td>寿光鸡</td><td>固始鸡</td><td>罗曼蛋鸡</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>Shouguang chickens</td><td>Gushi chickens</td><td>Roman layers</td></tr><tr><td>水分Mositure/%</td><td>77.72±0.71</td><td>77.03±1.18</td><td>76.32±0.82</td></tr><tr><td>干物质 DM/%</td><td>22.03±0.51</td><td>22.28±0.36</td><td>21.70±1.19</td></tr><tr><td>粗蛋白质CP/%</td><td>0.69±0.04a</td><td>0.65±0.03a</td><td>0.49±0.03b</td></tr><tr><td>粗灰分 Ash/%</td><td>0.98±0.05</td><td>0.92±0.10</td><td>0.97±0.06</td></tr><tr><td>粗脂肪 EE/%</td><td>1.83±0.32a</td><td>1.78±0.45a</td><td>0.98±0.25b</td></tr><tr><td>铬 Cr/(x10-² mg/g)</td><td>0.68±0.17</td><td>0.68±0.32</td><td>0.49±0.12</td></tr><tr><td>铜 Cu/（x10² mg/g)</td><td>0.41±0.06</td><td>0.40±0.09</td><td>0.37±0.07</td></tr><tr><td>铁 Fe/ （×10² mg/g)</td><td>11.60±2.65</td><td>11.81±3.03</td><td>9.12±1.02</td></tr><tr><td>锰 Mn/(×10-2 mg/g)</td><td>0.48±0.01</td><td>0.49±0.08</td><td>0.42±0.06</td></tr><tr><td>硒 Se/ (x10-² mg/g)</td><td>0.29±0.05</td><td>0.28±0.04</td><td>0.15±0.06</td></tr><tr><td>锌 Zn/ （x10-²mg/g)</td><td>3.87±1.07</td><td>3.54±1.19</td><td>2.58±0.25</td></tr></table></body></html>
+
+# 2.53个品种鸡肉品质的比较
+
+由表5可知，寿光鸡、固始鸡和罗曼蛋鸡肌肉的 $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ 、 $\mathrm { p H } _ { 2 4 \mathrm { h } }$ 、系水力、肌纤维直径无显著差异（ ${ \cdot } P { > } 0 . 0 5 { \rangle }$ ；罗曼蛋鸡肌肉的肉色、失水率均显著低于寿光鸡和固始鸡（ $. P { < } 0 . 0 5 )$ ），而滴水损失率和剪切力则均显著高于寿光鸡和固始鸡（ $P { < } 0 . 0 5 )$ ）。
+
+# 表53个品种鸡的肉品质
+
+Table 5Meat quality of three chicken breeds   
+
+<html><body><table><tr><td>项目Items</td><td>寿光鸡</td><td>固始鸡</td><td>罗曼蛋鸡</td></tr><tr><td></td><td>Shouguang</td><td>Gushi</td><td>Roman layers</td></tr><tr><td></td><td>chickens</td><td>chickens</td><td></td></tr><tr><td>pH45 min</td><td>5.73±0.39</td><td>5.63±0.18</td><td>5.82±0.32</td></tr><tr><td>pH24 h</td><td>5.63±0.39</td><td>5.53±0.18</td><td>5.32±0.32</td></tr></table></body></html>
+
+<html><body><table><tr><td>肉色(用光密度值表示)Meat color</td><td>0.43±0.03a</td><td>0.48±0.06a</td><td>0.31±0.09b</td></tr><tr><td>（expressed by OD value)</td><td></td><td></td><td></td></tr><tr><td>系水力Water holding capacity/%</td><td>75.26±2.04</td><td>76.65±2.03</td><td>74.49±3.03</td></tr><tr><td>失水率 Water loss rate/%</td><td>23.23±0.05a</td><td>24.92±0.10a</td><td>21.97±0.06b</td></tr><tr><td>滴水损失率Drip loss rate/%</td><td>3.68±0.67b</td><td>3.48±0.82b</td><td>5.49±1.12a</td></tr><tr><td>剪切力 Shear force/N</td><td>23.25±1.26b</td><td>24.40±1.09b</td><td>26.67±1.02a</td></tr><tr><td>肌纤维直径 Muscle fiber diameter/um</td><td>22.60±2.15</td><td>21.81±3.03</td><td>23.42±2.02</td></tr></table></body></html>
+
+2.63个品种鸡肌肉中肌苷酸、氨基酸含量的比较
+
+由表6可知，寿光鸡和固始鸡肌肉中肌苷酸含量显著高于罗曼蛋鸡（ $P { < } 0 . 0 5 )$ ；寿光鸡和固始鸡肌肉中谷氨酸、甘氨酸、异亮氨酸及鲜味氨基酸含量均显著高于罗曼蛋鸡( $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 )$ ），而对于肌肉中天冬氨酸、丝氨酸和组氨酸等其他氨基酸的含量，3个品种鸡之间无显著差异（ $( P { > } 0 . 0 5 )$ °
+
+表63个品种鸡肌肉中肌苷酸、氨基酸含量  
+Table 6IMP and AA contents in mucle of three chicken breeds   
+
+<html><body><table><tr><td>项目Items</td><td>寿光鸡</td><td>固始鸡</td><td>罗曼蛋鸡</td></tr><tr><td></td><td>Shouguang chickens</td><td>Gushi chickens</td><td>Roman layers</td></tr><tr><td>肌苷酸 IMP</td><td>2.73±0.55a</td><td>2.56±0.10a</td><td>1.99±0.38b</td></tr><tr><td>天冬氨酸 Asp</td><td>8.43±0.32</td><td>8.48±0.45</td><td>8.46±0.32</td></tr><tr><td>谷氨酸 Glu</td><td>13.26±0.33a</td><td>13.31±0.21a</td><td>12.39±0.45b</td></tr><tr><td>丝氨酸 Ser</td><td>3.56±0.10</td><td>3.54±0.12</td><td>3.31±0.25</td></tr><tr><td>组氨酸 His</td><td>3.33±0.58</td><td>3.35±0.23</td><td>2.84±0.70</td></tr><tr><td>甘氨酸 Gly</td><td>4.18±0.71a</td><td>4.12±0.36a</td><td>3.63±0.23b</td></tr><tr><td>苏氨酸 Thr</td><td>4.09±0.14</td><td>4.06±0.16</td><td>3.75±0.36</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>丙氨酸 Ala</td><td>5.75±0.27</td><td>5.78±0.28</td><td>5.12±0.52</td></tr><tr><td>精氨酸Arg</td><td>6.17±0.29</td><td>6.11±0.13</td><td>5.59±0.59</td></tr><tr><td>酪氨酸Tyr</td><td>3.91±0.20</td><td>3.89±0.23</td><td>3.60±0.34</td></tr><tr><td>氨酸 Val</td><td>4.20±0.22</td><td>4.23±0.25</td><td>3.79±0.44</td></tr><tr><td>蛋氨酸Met</td><td>2.46±0.11</td><td>2.44±0.22</td><td>2.24±0.25</td></tr><tr><td>苯丙氨酸 Phe</td><td>3.90±0.13</td><td>3.93±0.18</td><td>3.59±0.39</td></tr><tr><td>异亮氨酸Ile</td><td>4.15±0.21a</td><td>4.19±0.11a</td><td>3.76±0.44b</td></tr><tr><td>亮氨酸Leu</td><td>7.44±0.33</td><td>7.36±0.21</td><td>6.76±0.72</td></tr><tr><td>赖氨酸Lys</td><td>7.97±0.38</td><td>7.87±0.24</td><td>7.27±0.13</td></tr><tr><td>脯氨酸Pro</td><td>3.37±0.49</td><td>3.32±0.29</td><td>3.11±0.29</td></tr><tr><td>半胱氨酸 Cys</td><td>0.56±0.22</td><td>0.60±0.33</td><td>0.67±0.22</td></tr><tr><td>总氨基酸 Total AA</td><td>86.73±2.82</td><td>86.58±2.14</td><td>79.05±7.73</td></tr><tr><td>鲜味氨基酸 Flavor AA</td><td>37.79±1.02a</td><td>37.81±0.65a</td><td>35.19±1.14b</td></tr></table></body></html>
+
+3讨论
+
+优质的蛋、肉具有丰富的营养成分，食用价值高，更能带来市场价值。本文比较了寿  
+光鸡、固始鸡和罗曼蛋鸡3个品种鸡的蛋品质、肉品质及蛋和肌肉中营养成分含量，以期筛  
+选出蛋品质、肉品质较高的优良鸡种。蛋品质一般是指外形（如重量）与内容物（如蛋白的黏稠度、蛋黄颜色、蛋黄比率、  
+哈氏单位)的品质。大蛋具有更丰富的内容物,蛋重的增加也是提高产蛋量的有效措施之一。  
+罗曼蛋鸡的蛋重虽大，但干物质相对较少，水分较多，所以蛋重不能完全体现高蛋品质。鸡  
+蛋营养物质和风味物质主要存在于蛋黄，因此蛋黄比率大小、蛋黄颜色深度与鸡蛋营养富集  
+度和口感有关，寿光鸡的蛋拥有较高的蛋黄比率，固始鸡的蛋蛋黄颜色则较其他品种鸡深。  
+规模化养殖中可采用控制遗传、添加脂质、抗氧化剂、高钙和药物等手段增加蛋黄颜色[13-14];哈氏单位可用来衡量鸡蛋的新鲜程度，反映浓蛋白的黏稠度，通常将蛋品质分为AA级（72以上）A级( $6 0 { \sim } 7 2 \rangle$ 和B 级(60 以下)，哈氏单位越高蛋白黏稠度越好，蛋品质越高[15-16],寿光鸡和固始鸡的哈氏单位均为AA级。  
+肉品质是评价肉的综合性状的一系列指标，包含肉色、失水率、滴水损失率、剪切力等。滴水损失率的高低与宰后鸡肉蛋白质的溶解性有关，由于肉中带电荷的蛋白质吸附大量水，当机体蛋白质含量降低时，鸡肉滴水损失率便升高[17-18]。本试验中罗曼蛋鸡肌肉的滴水损失率最高，这说明低温冷藏一段时间后，其肉中蛋白质溶解较明显，营养丢失较多。肉色是鸡肉生理、生化和微生物学变化等综合指标的外在反映，肌肉光密度（OD）值与粗脂肪含量呈正相关[19]。3个品种鸡中罗曼蛋鸡肌肉的肉色OD 值最低，与其粗脂肪含量最低相对应。剪切力与鸡肉的鲜嫩度呈正相关，鸡肉中粗脂肪含量越高剪切力越小，同时蛋白质的快速沉积使肌原纤维降解酶系活性升高，使屠宰后肉的剪切力减小[20-21]。本试验中寿光鸡肌肉中粗脂肪、粗蛋白质含量最高，相应的其剪切力最小，与上述结论一致，说明寿光鸡的肉质更鲜嫩。  
+蛋、肉中含有丰富的 Na、Se、Zn、Fe、Ca、Cr、Mn、Cu 等元素，这些都是人体正常代谢不可缺少的营养物质。Na 是细胞外液主要的阳离子，含量过高会引起 Na 潴留，影响渗透压；Se 能抑制自由基活性、参与脂代谢；Zn 是多种金属酶的组成成分，具有维护免疫的功能；Fe 为红细胞组成成分，参与携氧；Cr有治疗糖尿病的作用；Mn可抗衰老；Cu 能维护骨骼、血管和皮肤正常的功能[2-24]。研究发现，寿光鸡的蛋中 Na 含量相对最低， Se、Zn、Fe、Ca含量相对最高，其次为固始鸡，二者相差不大，罗曼蛋鸡上述元素含量则相对最低；3个品种鸡的肌肉中Cr、Cu、Fe、Mn、Se、Zn 含量则均无显著差异。  
+脂肪是一些脂溶性维生素、人体必需脂肪酸的来源，也是许多芳香类物质沉积的主要部位，因此脂肪含量高口感可能更香醇，营养更为丰富[25]。蛋白质在机体新陈代谢和生长发育等过程中发挥着非常重要的生理作用，其内必需氨基酸种类齐全，与人体需要比较接近[26]。
+
+本试验中。寿光鸡和固始鸡的蛋中脂肪和蛋白质含量以及肌肉中粗脂肪和粗蛋白质含量均显著高于罗曼蛋鸡，说明寿光鸡和固始鸡的蛋品质和肉品质较罗曼蛋鸡高。鸡肉滋味鲜美，这主要是由呈味核苷酸、游离氨基酸等风味前体物质经过化学反应形成的[27]。肌苷酸是鸡肉内重要的鲜味物质之一[28-29]。甘氨酸、丙氨酸、丝氨酸、脯氨酸呈甜味，天冬氨酸、谷氨酸具有鲜甜味，这6种氨基酸为风味氨基酸。鸡肉中风味氨基酸的组成和含量影响肉品味道的鲜美程度[30]。本试验中寿光鸡肌肉中肌苷酸含量最高，固始鸡次之，罗曼蛋鸡最低；此外，肌肉中甘氨酸、谷氨酸、鲜味氨基酸含量均以寿光鸡和固始鸡较高。因此，相对于罗曼蛋鸡，寿光鸡和固始鸡在肉品质方面表现更好。
+
+# 4结论
+
+寿光鸡、固始鸡和罗曼蛋鸡在舍饲与林地放养混合模式下均保持了良好的蛋品质和肉品  
+质，但鸡的品种对蛋品质与肉品质有一定的影响：$\textcircled{1}$ 寿光鸡和固始鸡的蛋蛋黄颜色深，体积大，蛋白高度与哈氏单位优良，与其营养  
+元素丰富、蛋白质和脂肪含量高一致，蛋品质较优；罗曼蛋鸡的蛋重虽大，但蛋白比率高，  
+蛋白高度和哈氏单位低，含水量较高，蛋品质不如寿光鸡和固始鸡。$\textcircled{2}$ （204 罗曼蛋鸡的肌肉系水力较差，具有较短货架期;寿光鸡和固始鸡具有较长货架期，  
+并且肉丰富多汁，粗蛋白质和粗脂肪含量高，具有较高的肌苷酸和鲜味氨基酸含量，肉质更  
+为鲜嫩。$\textcircled{3}$ 综合比较认为，3个品种鸡中，寿光鸡和固始鸡的蛋品质和肉品质更佳。
+
+# 参考文献：
+
+[1]卞琳琳,刘爱军.中国鸡蛋产业供需状况及发展对策分析[J].世界农业,2013(2):128-132.  
+[2]张冰.我国禽蛋生产、贸易及国际竞争力研究[D].硕士学位论文.呼和浩特:内蒙古农业大学,2005.  
+[3]王晓翠.理想蛋白模式下饲粮蛋白源对蛋品质的影响及其机理研究[D].博士学位论文.哈尔滨:东北农业大学,2015.  
+[4]王珍,王海威,申欣怡,等.影响蛋品质因素的研究进展[J].饲料博览,2016(9):34-37.  
+[5]张英,白杰,张海峰.鸡肉制品的现状及发展[J].肉类研究,2009(8):72-75.  
+[6]张红霞,刘相春,许延元,等.浅谈柴鸡的饲养技术[J].山东畜牧兽医,2013,34(12):82.  
+[7] 马丹丹,赵国先,冯焯,等.柴鸡养殖技术[J].饲料博览,2015(1):42-45.  
+[8] 王志祥.固始鸡与肉鸡、蛋鸡肉质、生长、代谢及相互关系的比较研究[D].博士学位论文.北京：中国农业大学,2005.  
+[9]肖虹.绿茶及其茶多酚对罗曼蛋鸡肉品质、蛋品质及生产性能的影响[D].硕士学位论文.合肥:  
+.95 安徽农业大学,2010.  
+.96 [10] 刘雅正.罗曼蛋鸡营养需要[J].国外畜牧学：猪与禽,2014,34(5):47.  
+.97 [11]孙玉民,罗明.畜禽肉品学[M].济南:山东科学技术出版社,1993.  
+.98 [12]叶伟庆,杜炳旺,李东华,等.黄羽肉鸡不同生长时间肌苷酸含量及相关基因表达的对比[J].食品  
+.99 与发酵工业,2015,41(10):65-70.  
+:00 [13]胡启洲.影响卵黄着色的因素[J].江西畜牧兽医杂志,2001(2):39.  
+：01 [14]刘涛,黄保华,雷秋霞,等.影响禽蛋蛋黄着色的影响因素[J].家禽科学,2010(9):44-46.  
+:02 [15]张佳兰.新杨蛋鸡蛋品质研究[D].硕士学位论文.杨凌:西北农林科技大学,2004.  
+:03 [16] 李小利.哈氏单位是检验鸡蛋品质的重要指标[J].检验检疫学刊,2013,23(2):48-49,72.  
+:04 [17]路文敏.影响冷鲜肉滴水损失关键因素研究[D].硕士学位论文.杨凌:西北农林科技大学,2010.  
+:05 [18]陈代文,张克英,胡祖禹.猪肉品质特征的形成原理[J].四川农业大学学报,2002,20(1):60-66.  
+:06 [19]戴四发,闻爱友,王立克,等.肉仔鸡肌肉色泽与品质相关性研究[J].中国农业大学学  
+:07 报,2007,12(1):61-64.[20] 陈宽维,李慧芳,张学余,等.肉鸡肌纤维与肉质关系研究[J].中国畜牧杂志,2002,38(6):6-7.[21]单安山,李锋.鸡母体营养对子代生长发育和肉质的影响[J].东北农业大学学报,2012,43(3):1-14.[22]杨东湘.论微量元素对人体健康的重要作用[J].科协论坛(下半月),2010(6):103-104.[23]黄作明,黄珣.微量元素与人体健康[J].微量元素与健康研究,2010,27(6):58-62.[24] 牛芸民,杨天林.若干重要微量金属元素的生物化学功能及其与人体健康的关系[J).微量元素与健康研究,2014,31(2):78-80.[25]张兰威,牟光庆,许高升,等.蛋品工艺学[M].哈尔滨:黑龙江科学技术出版社,1996.[26] 罗钧秋,曹中明,陈代文,等.蛋白质营养研究新阶段[J].中国畜牧杂志,2012,48(13):73-76.[27]李耀.浅谈鸡肉风味物质的呈味机理[J].食品工业科技,2011,32(3):446-449,452.[28] 罗桂芬,孙世铎,陈继兰,等.肉类风味物质:肌苷酸[J].中国家禽,2004,26(3):41-43.[29]吴娜,顾赛麒,陶宁萍,等.鲜味物质间的相互作用研究进展[J].食品工业科技,2014,35(10):389-392,400.[30] RABIE M A,PERES C,MALCATA F X.Evolution of amino acids and biogenic aminesthroughoutstorageinsausagesmadeofhorse,beefandturkeymeats[J].MeatScience,2014,96(1):82-87.致谢：本论文的顺利完成，首先要感谢符华林老师，赵小玲老师和施飞老师的指导和关怀，对论文的整个写作过程都提出了许多指导性的意见，为论文的完成付出了辛勤的劳动。其次要感谢我们试验室的师兄师姐和同学们，在论文的写作过程中他们给予我很大的帮助，给我提供了许多数据和信息，使我能够顺利地完成论文的写作。在此，请接受我深深的敬意和由衷的感激之情，同时也感谢他们在本文写作过程中对我的热情帮助和对论文提出的宝贵  
+:29意见。最后，再次向所有给予我帮助的老师、同学和朋友们表示诚挚的谢意！
+
+#
+
+Comparison of Egg Quality and Meat Quality among Shouguang Chickens, Gushi Chickens and Roman Layers under Mixed Pattern of Dry-Lot Feeding and Woodland Stocking i LIN Shiyu DU Xiaxia RAN Chonglin LI Xiahui WANG Zhigang XU Chao SHU Gang\* (College of Veterinary Medicine, Sichuan Agricultural University, Chengdu 6251Oo, China)   
+Abstract: This study aimed at comparing egg quality and meat quality among Shouguang chickens,   
+Gushi chickens and Roman layers under mixed pattern of dry-lot feeding and woodland stocking.   
+One hundred and twenty 9O-day-old female Shouguang chickens,Gushi chickens and Roman   
+layers were selected and each variety of chickens had 4 replicates with 3O chickens per replicate.   
+The 3 varieties of chickens were fed with a conventional basal diet until 18 days of age under   
+mixed pattern of dry-lot feeding and woodland stocking. The results showed that compared with   
+Shouguang chickens and Gushi chickens, the egg weight of Roman layers was significantly   
+increased $( P { < } 0 . 0 5 )$ ，while the yolk color, albumen height and Haugh unit were significantly   
+decreased $( P { < } 0 . 0 5 )$ . The zinc, selenium, iron,calcium, protein and fat contents in eggs and the   
+protein and fat contents in muscle of Shouguang chickens and Gushi chickens were significantly   
+higher than those of Roman layers $( P { < } 0 . 0 5 )$ . The drip loss and shearing force of Shouguang   
+chickens and Gushi chickens were significantly lower than those of Roman layers $( P { < } 0 . 0 5 )$ ，and   
+their meat color was significantly higher than that of Roman layers $( P { < } 0 . 0 5 )$ . The contents of   
+glycine, glutamic acid, isoleucine and flavor amino acids in muscle of Shouguang chickens and   
+Gushi chickens were significantly higher than those of Roman layers ( $( P { < } 0 . 0 5 )$ . In summary, the   
+eggs of Shouguang chickens and Gushi chickens have bigger yolk, higher eggwhite and richer   
+nutrients,but the eggs of Roman layer has higher water and worse protein quality; moreover, the   
+muscles of Shouguang chickens and Gushi chickens have longer shelf life,and higher inosinic   
+acid and amino acid contents, beter tenderness and nutrition than Roman layers. The egg quality
+
+and meat quality of Shouguang chickens and Gushi chickens are beter in 3 varieties of chickens.
+
+Key words: Shouguang chickens; Gushi chickens; Roman layers; egg quality; meat quality; nutrients

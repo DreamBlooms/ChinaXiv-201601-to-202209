@@ -1,0 +1,273 @@
+[
+    {
+        "type": "text",
+        "text": "美国公共政策评估体系的运行情况及启示：以马萨诸塞州公共住房政策为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邵挺;王金照国务院发展研究中心",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[目的/意义]借鉴美国麻州公共住房评估体系方法，对我国建立并完善科学合理的公共政策评估体系，有一定参考意义。[方法/过程］麻州公共住房评估体系具有程序化、规范化、权威性等特点，政府部门利用计算机辅助系统，负责事前资质审核、准入条件评估和事中的建设进度评估。另外，由各个利益相关方、学者等组成的咨询委员会，负责事后政策效果评估，并监督相关部门提出相应的反馈意见。[结果/结论]美国麻州公共住房评估体系对完善政府部门出台的公共住房政策，提高政策的有效性和针对性，都发挥了较重要作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：公共住房政策;评估体系;美国马萨诸塞州",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Operation and Enlightenment of American Public Policy Evaluation   \nSystem: A Case Study of the Massachusetts Public Housing Policy Shao Ting Wang Jinzhao   \nDevelopment Research Center of the State Council, 225 Chaonei Street, Dongcheng District, Beijing 100010 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Purpose/significance] This paper aims at learning from the Massachusetts public housing evaluation system to establish and improve our sound public policy evaluation system, which is valuable reference . [Method/process] The government of Massachusetts had a program of the public housing evaluation system with standardized and authoritative features,using a computer-aided system in which some government departments were responsible for the pre-qualification examination, the evaluation of access conditions and the assessment of the construction progress. In addition, its advisory committee was composed of various stakeholders,academics and other components,responsible for the post policy impact assessment, and the supervision of the relevant departments’feedback. [Result/conclusion] The Massachusetts public housing evaluation system is helpful for making public housing policies，and it has played an important role to improve the effectiveness and appropriateness of policies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: public housing policyevaluation systemMassachusetts ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一、美国麻州公共住房管理体制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在美国，各州对公共住房（Public housing或者Affordable housing）的界定标准不一。麻州的公共住房定义是：收入占当地中位数收入$80 \\%$ 的家庭，能够租赁或购买得起的住房，就叫公共住房。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "麻州负责全州公共住房建造、融资和管理的机构，是住房和社区发 展部（Department of Housing and Community Development，DHCD）,于1969年成立。DHCD再分四个部门：住房发展和建设、政策和项目、特殊项目和住房管理，分别负责公共住房建设、项目管理、融资模式创新和与相关机构沟通。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除了DHCD，麻州还有两类机构跟公共住房的运营管理相关。第一类是区域管理机构（Regional Administering Agencies,RAAs），属于非盈利组织，主要职责是为州和联邦住房保障项目的申请人，提供咨询、申报等服务。第二类是地方住房部门（LocalHousingAuthorities,LHAs)，负责监督公共住房建设、管理住房券项目以及为所在区域增加公共住房机会等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述三类机构在公共住房和租金补贴的申请资格、申核信息等方面，有明确分工：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（一）申请公共住房",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "麻州在2014年更新了公共住房申请人收入的标准。首先，公共住房针对低收入个人和家庭，也包括老人和残疾人。老人必须60 岁以上，残疾人须提供证明。具体审核工作由LHAs负责。审核通过后，候选人就会进入等候名单（waitinglist)。一般而言，无家可归者、退伍军人以及当地居民有优先权，可以排到名单前列。DHCD负责制定全州公共住房的最高租金水平：如果是整个家庭入往，租金是占到家庭收入的 $2 5 \\% - 3 0 \\%$ 。如果是老人和残疾人入住，租金则占收入的 $30 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（二）申请州租金补助",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从上世纪90年代开始，麻州每年新建公共住房的数量很少，主要靠发放租金补助，即从“补砖头”向“补人头”转变。租金补助项目分为“麻州住房券项目\"MRVP)和“可替代的住房券项目”(AHVP)。住房券由DHCD负责额度控制和管理，分为两类：一类是可流动的，跟着租客走，只要住在符合州卫生法律的房屋，就能使用住房券；另一类是固定在房屋上的，即住房券只能用于规定的房屋上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "申请人或家庭的收入水平，必须在联邦政府规定的贫困线的2倍以下。AHVP申请人必须在60岁以下，且符合住在属于老人和残疾人公共住房的资格。RAAs或LHA都可以接收申请。申请者可享受低于社会住房的租金水平。不管使用固定在房屋上还是可移动的住房券，个人支付的租金占收入水平的 $3 5 \\% - 4 0 \\%$ 。另外，AHVP个人支付的租金占收入水平的 $2 5 \\% - 3 0 \\%$ 。个人能够支付的最高租金跟市场租金的差额，就由住房券上的金额来弥补。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果申请联邦公共住房和租金补助，程序基本类似，但具体申请条件和标准不一样。另外，住房券的分类也不同，联邦政府分为“补贴住户的住房券计划”（HousingChoice Voucher Program,HCVP，可在符合条件的任何州使用）和“固定在住房上的住房券项目”。本报告主要介绍州公共住房项目的评估情况，故略去对联邦公共住房项目的相关情况介绍。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "二、麻州公共住房评估体系的运行情况",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "麻州公共住房评估体系由事前、事中、事后评估组成，事前和事中评估由政府相关部门负责（主要由DHCD承担)，借助先进的计算机辅助管理系统，具有程序化、规范化等特点。事后政策效果评估则由专门的咨询委员会负责，该委员会由政府部门成员、学者、居民及其它利益相关者组成，负责出台独立的评估报告，并有权要求政府部门及时给出回复，以及监督政府给出的后续措施。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "麻州公共住房评估体系具有以下特点：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）评估目标的多元化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "低收入住房税收信贷（Low Income Housing Tax Credits，简称LIHTC)和补贴住户的住房券计划（Housing Choice Voucher Program,简称 HCVP)，是当前全美占据主导地位的两大低收入家庭住房保障政策。两者的政策目标一个重点在于通过市场主导扩大供给(LIHTC)，另一个则在于提高家庭住房可承担能力（HCVP）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着经济发展，美国的住房保障政策目标逐步转移到通过校正这两种方案，以实现贫困的分散化和消除种族隔离，即从住房保障的初始目标转向范围更为广泛的目标，包括以扩大住户社会福利水平如减少贫困集中、提高就业、实现教育机会均等化，并积极追求经济效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "麻州住房保障制度的目标，跟联邦政府的目标基本一致，都要兼顾补充住房缺口、提高住房可承担能力和降低贫困集中这三个核心目标，从而避免政策在未来出现反复实验进而增大纠错成本。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）评估系统的自动化和全程化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "麻州在2003年建立了自动化计算机系统，用来监督和评估全州重大公共政策的实施效果，称为评估、衡量和验证系统（Evaluation,MeasurementandVerification，简称EM&V)。公共住房的评估也通过这套系统来执行。需要指出的是，评估环节包括事前可行性评估、事中进展评估和事后效果评估，EM&V系统主要管理由政府负责的事前和事中评估：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1．可行性评估。麻州DHCD先聘请有资质的建筑与城市规划企业，对项目进行可行性评估。  \n2．项目进展评估。项目开工后，城市规划委员会又对项目进展情况进行跟踪评估。  \n3．居民可负担能力评估。这是EM&V系统中最重要的一块内容。比如，波士顿市议会要求“用于租赁或出售的新建多单元楼房”中必须有 $10 \\%$ 的比例是用于公共住房。入住者的收入必须不高于当地居民总收入中位数的 $60 \\%$ ，相应的公共住房租金必须不高于当地市场租金的 $60 \\%$ 。举例说，2015年波士顿市的住房市场月租金平均值是2280美元，年租金约是16416美元。如果这些符合住房保障条件的家庭去市场上租房，租金支出约占他们家庭总收入的 $5 2 . 7 \\%$ 。如果入住公共住房，年租金约是9850美元，占家庭总收入的比重就会降至 $3 1 . 6 \\%$ o",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）评估机构的独立性和权威性 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "负责麻州公共住房评估的机构，叫公共住房咨询委员会（affordable housingadvisorycommittee，AHAC)，每年按照当地给出的公共住房建筑和管理计划，给州住房和社会发展委员会（housingand communitydevelopment committee）和公共住房所在的市议会等机构，提交独立的“评估报告”。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，AHAC会针对当年地方政府提出的公共住房建设任务，比如波士顿市在2014-2015年公共住房发展战略和计划中，提出“要增加保障房数量，提高住房密度和可担负性”，评估委员会据此确定了本年度的两个评估重点：（1）是否实现住房信托基金（HousingTrustFund，HTF）的增值。即城市房产价值每增加100美元，要求0.01美元放到住房信托基金里，该基金主要负责给兴建公共住房的开发企业提供低息贷款。（2）鼓励开发商提高住房密度和兴建公共住房。为降低融资成本，允许住房信托基金以较低利率借贷给开发商。比如，如果低于当地中位数收入 $30 \\%$ 的家庭能够购买得起，兴建房屋的开发商，从住房信托基金的贷款利率就可以从 $2 \\%$ 降至零；如果低于当地中位数收入 $5 0 \\%$ 的家庭能够购买得起，开发商的贷款利率就能降到$1 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次，为完成评估报告，咨询委员会将听取随机抽取的30家开发企业的意见，主要针对如何更好吸引私人资本进入公共住房领域，内容包括主要障碍和政策诉求等。以2015年为例，开发企业反映的主要是成本和建设两方面问题：（1）降低成本。要求州和市政府加大公共住房基础设施投资，提高公共住房附近区域的未来城市交通系统的便利性。按照40B条款，建造公共住房的开发企业，可以申请“综合许可性”（comprehensive permit)，容积率可以比市政当局分区规划确定的水平提高 $2 5 \\%$ 。但考虑到麻州分区规划确定的容积率偏低，开发企业希望可以适度提高保障房容积率。最后，减免准入费(permit fee)和污水处理费（sewage fee)，降低建设成本。（2）公共住房建设问题。大多数城市都会面临“邻近社区反对公共住房建设”的问题，“不要在我的后花园建房”（notbuiltatmybackyard）是美国根深蒂固的观点，过去有很多开发企业由于“邻里强烈反对”而不能修改土地分区规划（zoning)，造成公共住房项目流产。另外，美国公共住房建设的流程很多，现在开发企业需要分别同许多部门“打交道”，希望可以享受“一站式”服务。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最后，给出评估意见。按照前面提到的可持续性评估体系，2015年咨询委员会给出的评估意见主要涉及：项目完成情况、受益群体情况和进一步的制约因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第一、项目完成情况。2015年全州共完成46个公共住房项目，过去四年间共完成项目162个，建造了1万多个住房单元。其中， $5 0 \\%$ 左右的项目为新建，其余主要是翻修和整治。这跟麻州的税收体系有关，开发企业的房屋翻修和整治项目，不能享受跟新建项目一样高的税收补贴额，开发企业就偏向于新建公共住房项目。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第二、受益群体情况。评估中发现，麻州的公共住房项目出现一定空置。另外，高收入家庭入住比例过高。前几年，项目覆盖的低收入家庭占比一般在 $80 \\%$ ，但去年开始只有不到 $6 0 \\%$ 的公共住房为低收入家庭所拥有，高收入家庭占比提高到了 $1 5 \\%$ 。另外，公共住房项目一般处在偏僻区域，交通便利性差，周边生活等公共配套设施不足，造成入住者的通勤成本增加、生活品质下降，2015年入住者的平均通勤时间超过2个半小时，比麻州平均水平多了1小时左右。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第三、规划和社区文化的制约性。受制于过于僵化的土地分区规划（zoning)，比如要求一英亩最小面积和两个车位的车库等，公共住房项目很难满足这样的条件。另外，受美国“不在我的后院建房”的传统社区文化影响，政府主导的公共住房项目会受到周边居民的极力反对。开发周期过长、企业盈利空间小等原因，造成企业对开发公共住房项目的热情不高，也直接影响了入住时间。2015年入住者的平均轮侯时间是2年零3个月，比前几年高出半年左右。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）评估意见的反馈机制",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "评估意见出台后，会第一时间在DHCD、RAAs和LHAs等相关机构的主页上公布，所有麻州市民都有权提出进一步修改意见。汇总完意见后，在规定时间内评估委员会要对公众提出的意见，进行解答。同时，评估报告会直接送给DHCD和LHAs、当地市政议会等机构，评估委员会有权要求这些机构对评估意见给出明确回复，并对这些回复进行跟踪评估。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "三、启示",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "中美两国不同的国情和社会政治体制，决定了各自的公共政策决策和评估机制必然会有差异。但在评估体系构建、指标设置和程序设定等方面，可以借鉴美国的一些做法，为完善我国公共政策评估体系，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "提供一些启示。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第一，提高重大公共政策评估的法律效力。我国公共政策评估工作起步晚，中央政府层面的“第三方评估工作”从2012年才正式启动，地方政府还没有实行“第三方评估”，还没有形成规范化、制度化的机制。建议中央政府尽快公布关于公共政策评估的办法，就评估目的、对象、程序以及反馈等方面出台实施细则，为重大公共政策评估工作提供法律依据、增强法律效力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第二，注重评估程序的系统性和客观性，减少“人为干预”因素。美国公共政策评估体系的自动化程度高，有一套完整的指标体系，便于量化研究和分析比较。建议我国建立符合国情的政策评估体系，并借助计算机网络系统，自动追踪事前、事中环节的评估进程。在事后评估环节中，建立由各方利益代表组成的评估委员会，出示客观公正的评估报告。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第三，强化评估反馈机制建设，实行“再评估”。评估具有时点性、实时性等特点，决定了基于某一时点上的评估结果会有一定局限性。建议加强评估反馈能力建设，一是在不涉及国家机密的前提下，尽可能公开征集社会意见尤其是受影响群体的意见，完善评估报告。二是对评估报告揭示出来的问题和建议，要跟踪相关部门的应对举措，对采取的后续措施进行“再评估”。美国法律规定，评估委员会有权质询相关部门对评估建议的落实情况。",
+        "page_idx": 8
+    }
+]

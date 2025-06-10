@@ -1,0 +1,176 @@
+# 科尔沁沙地樟子松人工林土壤粒径分布特征
+
+陈宇轩¹,²，张飞岳1,²，高广磊¹,²，丁国栋}²，张英，刘雪锋
+
+(1北京林业大学水土保持国家林业和草原局重点实验室，北京100083;2北京林业大学水土保持学院宁夏盐池毛乌素沙地生态系统国家定位观测研究站,北京100083；3内蒙古自治区林业科学研究院，内蒙古呼和浩特010010）
+
+摘要：为揭示科尔沁沙地不同林龄沙地樟子松人工林对风沙土粒径分布特征的影响,以中龄、近熟和成熟沙地樟子松人工林风沙土为研究对象，以裸沙地风沙土为实验对照，采用激光衍射技术测定土壤样品粒度组成，计算分析土壤粒度参数特征,绘制土壤粒配曲线。结果显示：(1)科尔沁沙地樟子松人工林风沙土以砂粒为主，其次是粉粒，黏粒含量最少。随林龄的增长，土壤黏粒、粉粒含量呈增加趋势，砂粒含量呈减少趋势。裸沙地风沙土砂粒含量多高于同层林地土壤。(2)科尔沁沙地樟子松人工林风沙土质地较粗，分选性较差，偏度值多为正偏度，峰度值多为尖窄， $0 \sim 1 0 \mathrm { c m }$ 和 $1 0 \sim 2 0 \ \mathrm { c m }$ 风沙土分形维数分别为 $2 . 1 8 \sim 2 . 4 3$ 和 $1 . 9 8 \sim 2 . 1 7 \$ 。裸沙地风沙土质地更粗，分选性更好，分形维数更小。(3)科尔沁沙地樟子松人工林风沙土的粒度频率分布曲线均为双峰型。随林龄的增长， $1 0 \sim 2 0 \mathrm { c m }$ 风沙土的土壤颗粒细化滞后于 $0 \sim 1 0 \mathrm { c m }$ 。林地悬移组分的含量高于裸沙地，裸沙地跃移组分的分选性高于林地。科尔沁沙地不同樟子松人工林风沙土粒径分布特征存在显著差异,本研究结果可为科尔沁沙地土地沙漠化防治及生态修复提供理论依据。
+
+关键 词：科尔沁沙地；沙地樟子松；粒径分布；粒度参数；粒配曲线文章编号： $1 0 0 0 - 6 0 6 0 \big ( 2 0 2 0 \big ) 0 4 - 1 0 5 1 - 0 8 \big ( 1 0 5 1 \sim 1 0 5 8 \big )$
+
+土壤粒径分布是指土壤中各粒径级所占的百分比，与土壤水分运动、溶质运移及养分状况等因素密切相关，是重要的土壤物理特性参数之_[1-4]。土壤粒径分布多采用激光衍射技术进行测定，将土壤质地分为黏粒、粉粒和砂粒等部分。由于土壤颗粒是非规则几何形态，无法使用长度、面积、体积等规则几何特征进行描述，因此，为能够更好地定量表达土壤粒径分布特征对土壤结构及其形成过程的影响，许多专家学者在该领域内引入了分形理论概念[5。在干旱风沙区，土壤粒径分布变化是土壤演变、沙区植被恢复和风沙运动共同作用的结果，可对土地覆被和土体稳定性产生重要影响[6-7],进而间接反映土壤风蚀程度[8-9]。因此，探究土壤粒径分布特征对于揭示风沙运动规律和解析风沙沉积环境具有重要意义[10]。森林植被的防风固沙效能对土壤粒径分布特征的影响尤为重要，相关研究表明，植物地上部分可有效增加地表粗糙度，一方面增大了土壤颗粒的起动风速，另一方面通过减弱风沙流挟沙能力，促进了风蚀颗粒的沉降，进而使土壤中细颗粒物质和营养成分的含量不断增加,土壤结构得以改良[]
+
+沙地樟子松（Pinus sylvestiris var.mongoliea）原产于中国大兴安岭和呼伦贝尔红花尔基地区，具有适应性强、抗旱、耐瘠薄和速生等优良特性，可在养分含量较差、水分含量较低的风沙土上良好生长，是我国北方干旱半干旱地区农田防护林、水土保持林和防风固沙林的重要造林树种[12-13]。科尔沁沙地是我国四大沙地之一，由于过度放牧、过度开垦
+
+# 干半区地理
+
+和城市建设等人类活动的影响，该地区天然植被面积大幅削减，生态环境不断遭受破坏，荒漠化程度进一步加剧[14]。为了治理流沙并恢复天然植被，当地通过引种樟子松营造了大面积防风固沙林[15]。现阶段，国内外专家在沙地樟子松人工林土壤水分动态、养分动态及生态化学计量特征等方面取得了大量研究成果[12,16-18],荒漠化防治工作已从仅重视植被覆盖度提升到了综合改善土壤环境的水平。土壤粒径分布特征作为影响土壤环境的重要因素之一，其在樟子松人工林下的研究却仍略显薄弱。
+
+鉴于此，本研究以科尔沁沙地樟子松中龄、近熟、成熟人工林的风沙土为研究对象，裸沙地风沙土为对照实验，采用激光衍射技术揭示风沙土的粒度组成，探究分析风沙土粒度组成、粒度参数和粒配曲线在不同林龄条件下的变化规律及原因，以期深入了解沙地樟子松林龄增长过程对土壤粒径分布特征的影响，为该区域土地沙漠化防治和生态重建等工作提供理论依据
+
+# 研究区概况与方法
+
+# 1. 1 研究区概况
+
+研究区位于科尔沁沙地东南部的章古台沙地森林公园 $( 4 2 ^ { \circ } 2 3 ^ { \prime } \mathrm { ~ N ~ } , 1 2 2 ^ { \circ } 2 2 ^ { \prime } \mathrm { ~ E ~ } )$ ,海拔 $2 2 6 \mathrm { ~ m ~ }$ 。该区属中温带亚湿润大陆性季风气候,年均气温 $8 \mathrm { { ^ \circ C } }$ .$1 0 \ \mathrm { { ^ { \circ } C } }$ 以上积温 $2 8 9 0 ^ { \circ } \mathrm { C }$ ,无霜期 $1 5 0 \mathrm { d }$ 。年均降水量$5 2 6 . 5 ~ \mathrm { m m }$ ,降水集中在 $6 \sim 8$ 月，年均蒸发量1932.7$\mathbf { m } \mathbf { m }$ ，相对空气湿度 $5 8 \% \sim 5 9 \%$ ,年平均日照时数为$2 6 1 5 . 2 \mathrm { h }$ 。年平均风速 $4 . 5 \sim 5 . 0 ~ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ ,全年8级以上大风日数平均21d以上，主要发生在 $3 \sim 5$ 月[18]土壤类型主要为流动风沙土和生草风沙土，沙土颗粒均匀，沙层厚度达 $1 0 0 \mathrm { m }$ 以上，是典型的风积地貌类型，土壤养分元素 $\mathrm { ~ N ~ } , \mathrm { ~ P ~ } , \mathrm { ~ K ~ }$ 等含量较低。植被类型以沙生植物为主，优势乔木树种主要包括：樟子松、赤松（Pinus sylvestirisvar.mongoliea）、色木槭（Acermon)等,优势灌木树种包括：胡枝子(Lespedeza bicol-or）、小叶鼠李（Rhamnusparvifolia）、小叶锦鸡儿(Caragana microphylla)等。
+
+# 1.2样品采集与分析
+
+2017年8月，分别在章古台沙地森林公园中龄林(26a）、近熟林(33a)和成熟林(43a)处各随机布设3个规格为 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ 的实验样地,样地间距大于 $1 ~ \mathrm { k m }$ 。对样地内胸径大于 $1 \mathrm { { c m } }$ 的樟子松进行每木检尺，记录林龄、树高、胸径和郁闭度等指标，样地基本概况见表1。在每个样地内选取3棵樟子松标准木作为采样对象，在树冠投影下方除去枯枝落叶层后，用五点采样法采集地表 $0 \sim 1 0 ~ \mathrm { c m }$ 和 $1 0 \sim$ $2 0 \mathrm { c m }$ 风沙土样品，混匀后装人自封袋中。选择1处裸沙地作为实验对照，因此共布设采样点12个，集风沙土样品24例。风沙土样品带回实验室自然风干，剔除细根及碎石等杂物后，采用马尔文MS2000型激光粒度分析仪测定土壤粒度组成，每个样品重复测量3次，测试结果以美国制土壤粒度分级标准输出[19],并输出土壤颗粒体积分数为 $5 \%$ 、 $1 6 \%$ 、$2 5 \%$ ） $5 0 \%$ ） $7 5 \%$ ） $8 4 \%$ 和 $9 5 \%$ 时所对应的土壤粒径。
+
+表1样地基本概况  
+Tab.1Basic overview of the plot   
+
+<html><body><table><tr><td>林型</td><td>林验</td><td>平均树高</td><td>平均胸径/</td><td>林分·密度</td><td>郁闭</td></tr><tr><td>中龄林</td><td>26</td><td>10.26 ± 1.47</td><td>16.93 ± 2.81</td><td>1 650</td><td>0.72</td></tr><tr><td>近熟林</td><td>33</td><td>10.61 ± 1.03</td><td>14.06 ± 2.44</td><td>1 650</td><td>0.75</td></tr><tr><td>成熟林</td><td>43</td><td>11.12 ± 1.74</td><td>21.07 ± 1.02</td><td>1 650</td><td>0.68</td></tr></table></body></html>
+
+# 1.3土壤粒度参数计算
+
+采用Udden-Wentworth粒径标准,根据Krumbein所提出的对数转化法，将粒度的真值转化为$\phi$ 值：
+
+$$
+\Phi = - \log _ { 2 } d
+$$
+
+式中： $d$ 为沙粒粒径 $\left( \mathrm { m m } \right)$ ）
+
+采用Folk-Ward的图解法计算平均粒径、标准偏差、偏度和峰态值等土壤粒度参数，进而表征土壤粒径分布的平均程度、分散程度及分配对称性等特征[20-21],参数计算公式如下：
+
+平均粒径
+
+$$
+d _ { \scriptscriptstyle 0 } = \frac { 1 } { 3 } \big ( \phi _ { \scriptscriptstyle 1 6 } + \phi _ { \scriptscriptstyle 5 \scriptscriptstyle 0 } + \phi _ { \scriptscriptstyle 8 4 } \big )
+$$
+
+标准偏差 $\sigma _ { \scriptscriptstyle 0 } = \frac { 1 } { 4 } \big ( \phi _ { \scriptscriptstyle 8 4 } - \phi _ { \scriptscriptstyle 1 6 } \big ) + \frac { 1 } { 6 . 6 } \big ( \phi _ { \scriptscriptstyle 9 5 } - \phi _ { \scriptscriptstyle 5 } \big )$
+
+峰态值
+
+$$
+K _ { \scriptscriptstyle 0 } = \frac { \varPhi _ { \scriptscriptstyle 9 5 } - \varPhi _ { \scriptscriptstyle 5 } } { 2 . 4 4 ( \varPhi _ { \scriptscriptstyle 7 5 } - \varPhi _ { \scriptscriptstyle 2 5 } ) }
+$$
+
+土壤粒径分形维数不仅可以进一步比较不同土壤的颗粒分布特征和质地均匀程度，还可以用于反映土壤的其他特征，如土壤发生、土壤肥力、土地利用类型对质地的影响、土壤退化程度等[22]。其计
+
+算公式为：
+
+$$
+\log { \left( \frac { v \left( r < R _ { i } \right) } { v _ { r } } \right) } = \left( 3 - D \right) \log { \left( \frac { R _ { i } } { R _ { \operatorname* { m a x } } } \right) }
+$$
+
+式中： $D$ 为土壤体积分形维数； $\boldsymbol { r }$ 为土壤粒径 $( { \bf { m m } } ) ; R _ { i }$ 为粒径等级 $i$ 的土壤粒径( $\bf \Pi _ { \mathrm { m m } } )$ ； $R _ { m a x }$ 为土壤粒径的 极大值（ $( \operatorname* { m m } )$ ; $v \left( r < R _ { i } \right)$ 为土壤粒径小于 $R _ { i }$ 的土壤体 积分数 $( \% ) { : } v _ { r }$ 为各粒径等级体积分数之和 $( \% )$ O
+
+# 1. 4 统计分析方法
+
+采用 $\operatorname { E x c e l } 2 0 1 0$ 和SPSSStatistic21软件对实验数据进行统计分析,通过单因素方差分析(One-wayANOVO)的最小显著差异(LSD)法对研究区不同类型样地的土壤粒度组成与粒度参数进行差异显著性检验，置信区间为 $9 5 \%$ ○
+
+# 2 结果与分析
+
+# 2.1 土壤粒度组成
+
+科尔沁沙地樟子松人工林 $0 \sim 1 0 ~ \mathrm { c m }$ 风沙土以砂粒为主，其平均含量高达土壤颗粒的 $6 9 . 2 9 \% \sim$ $8 7 . 0 4 \%$ ，其中，细砂与中砂含量较高，极粗砂含量较低;其次为粉粒,平均含量可达 $1 3 . 3 0 \% \sim 2 5 . 0 5 \%$ ;黏粒含量最少，平均含量不足 $2 \%$ 。随林龄的增加，近熟林与成熟林的黏粒、粉粒含量显著高于中林龄1 $\left( P < 0 . 0 5 \right)$ ,近熟林的极细砂含量显著高于中林龄与成熟林( $\left( P < 0 . 0 5 \right)$ ；近熟林与成熟林的细砂含量显著低于中龄林( $\scriptstyle P < 0 . 0 5 ,$ ;成熟林的中砂含量显著高于近熟林 $( P < 0 . 0 5 )$ ;粗砂与极粗砂含量无显著变化中 $\left( P > 0 . 0 5 \right)$ 。裸沙地 $0 \sim 1 0 \ \mathrm { c m }$ 风沙土黏粒含量显著低于同层近熟林与成熟林土壤( $\left( P < 0 . 0 5 \right)$ ，与中龄林不存在显著差异( $\mathrm { \Phi } ^ { \cdot } P > 0 . 0 5 \mathrm { \Phi } ,$ ,粉粒和极细砂含量显著低于林地土壤( $\scriptstyle P < 0 . 0 5 ,$ ),中砂含量显著高于林地土壤 $( P < 0 . 0 5 )$ ),粗砂与极粗砂含量与林地土壤不存在明显差异 $( P > 0 . 0 5 ) ,$ 。
+
+科尔沁沙地樟子松人工林 $1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土仍以砂粒为主，其平均含量高达土壤颗粒的 $8 2 . 5 7 \% \sim$ $9 4 . 2 3 \%$ ;其次为粉粒，含量可达 $5 . 6 8 \% \sim 1 7 . 1 5 \%$ ；黏粒含量不足 $1 \%$ 。随林龄的增加，土壤黏粒与粉粒含量不断增加( $( P < 0 . 0 5 )$ ；成熟林极细砂含量显著高于中龄林 $( P < 0 . 0 5 )$ ;近熟林与成熟林的细砂含量显著低于中龄林 $( P < 0 . 0 5 )$ ,成熟林的中砂含量显著低于中龄林与近熟林 $( P < 0 . 0 5 )$ ;粗砂与极粗砂含量无显著变化 $( P > 0 . 0 5 )$ 。裸沙地 $1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土黏粒和粉粒含量显著低于同层近熟林与成熟林土壤1 $\cdot P < 0 . 0 5 ,$ )，与中龄林不存在显著差异( $\cdot P { > } 0 . 0 5 )$ ，极细砂含量显著低于成熟林 $\left( P < 0 . 0 5 \right)$ ,中砂含量显著高于成熟林( $\left( P < 0 . 0 5 \right)$ ,细砂、粗砂与极粗砂含量与林地土壤不存在明显差异( $\mathrm { \Phi } ^ { \left( P > 0 . 0 5 \right) }$ 。
+
+# 2.2土壤粒度参数
+
+由表3可知，科尔沁沙地樟子松中龄林、近熟林与成熟林 $0 \sim 1 0 ~ \mathrm { c m }$ 风沙土平均粒径分别为2.77$\phi , 3 . 3 2 \phi$ 和 $3 . 2 3 ~ \phi$ ，土壤质地较粗;标准偏差分别为 $1 . 3 3 \phi , 1 . 7 2 \phi , 1 . 8 4 \phi$ ，分选性均属于较差等级；偏度值分别为 $0 . 4 6 , 0 . 3 2 , 0 . 4 7$ ，偏度状况均为极正偏度；峰度值分别为 $1 . 5 1 , 1 . 1 6 , 1 . 0 4$ ,峰度状况均为尖窄，土壤颗粒的分布不均匀；分形维数分别为2.18、2.42、2.43。随着林龄的增加，近熟林和成熟林的平均粒径、标准偏差与分形维数显著高于中龄林( $\left( P < 0 . 0 5 \right)$ ，成熟林的偏度值显著高于近熟林1 $\cdot P < 0 . 0 5 ,$ );近熟林和成熟林的峰度值显著低于中龄林 $( P < 0 . 0 5 )$ 。裸沙地 $0 \sim 1 0 ~ \mathrm { c m }$ 风沙土平均粒径和标准偏差显著低于同层林地土壤 $( P < 0 . 0 5 )$ ；偏度值与林地土壤无显著差异( $\left( P > 0 . 0 5 \right)$ ；峰度值显著高于林地土壤( $\left( P < 0 . 0 5 \right)$ ；分形维数显著低于近熟林和成熟林( $\left( P < 0 . 0 5 \right)$ ,与中龄林不存在显著差异$( P > 0 . 0 5 )$ 。
+
+表2沙地樟子松人工林土壤粒度组成  
+Tab.2Soil PSD of Pinus sylvestris var.mongolica plantation   
+
+<html><body><table><tr><td rowspan="2">林木类型</td><td rowspan="2">土层深度／cm</td><td rowspan="2">黏粒/%</td><td rowspan="2">粉粒/%</td><td colspan="5">砂粒/%</td></tr><tr><td>极细砂</td><td>细砂</td><td>中砂</td><td>粗砂</td><td>极粗砂</td></tr><tr><td rowspan="2">中龄林</td><td>0~10</td><td>0.33±0.03b</td><td>13.30±1.44b</td><td>11.42±1.28b</td><td>48.95±4.83a</td><td>24.14±5.21bc</td><td>1.58±0.55a</td><td>0.28±0.23a</td></tr><tr><td>10~20</td><td>0.09±0.04C</td><td>5.68±0.86C</td><td>8.62±1.08B</td><td>56.28±6.87A</td><td>27.23±6.27AB</td><td>1.93±1.88A</td><td>0.13±0.23A</td></tr><tr><td rowspan="2">近熟林</td><td>0~10</td><td>1.64±0.19a</td><td>23.45±3.81a</td><td>19.89±1.47a</td><td>34.83±6.03b</td><td>18.12±0.80c</td><td>1.63±0.68a</td><td>0.45±0.73a</td></tr><tr><td>10~20</td><td>0.24±0.08B</td><td>12.89±1.52B</td><td>13.66±1.77AB</td><td>42.53±4.72B</td><td>27.74±5.40AB</td><td>2.86±1.37A</td><td>0.06±0.02A</td></tr><tr><td rowspan="2">成熟林</td><td>0~10</td><td>1.82±0.21a</td><td>25.05±2.20a</td><td>14.05±2.46b</td><td>32.43±4.05b</td><td>25.25±2.23b</td><td>1.40±0.73a</td><td>0.00±0.01a</td></tr><tr><td>10~20</td><td>0.28±0.05A</td><td>17.15±2.10A</td><td>16.91±5.30A</td><td>35.45±2.01B</td><td>26.00±5.68B</td><td>3.91±0.47A</td><td>0.29±0.17A</td></tr><tr><td rowspan="2">裸沙地</td><td>0~10</td><td>0.30±0.02b</td><td>7.61±0.37c</td><td>7.59±1.81c</td><td>47.68±2.57a</td><td>34.37±3.15a</td><td>2.40±0.64a</td><td>0.06±0.06a</td></tr><tr><td>10~20</td><td>0.07±0.43C</td><td>4.42±0.76C</td><td>7.97±1.03B</td><td>48.95±2.22AB</td><td>36.06±2.28A</td><td>2.44±0.18A</td><td>0.07±0.07A</td></tr></table></body></html>
+
+注：同列不同小、大写字母分别表示 $0 \sim 1 0 \ \mathrm { c m }$ 和 $1 0 \sim 2 0 ~ \mathrm { c m }$ 土层差异显著( $\cdot P < 0 . 0 5$ ）
+
+科尔沁沙地樟子松中龄林、近熟林与成熟林$1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土平均粒径分别为 $2 . 4 3 \phi \AA . 2 . 7 1 \phi$ 和$2 . 8 6 \phi$ ，土壤质地较粗；标准偏差分别为 $0 . 8 8 \phi$ ）$1 . 3 2 \phi , 1 . 4 4 \phi$ ，中龄林风沙土分选中等，近熟林和成熟林风沙土分选性较差；偏度值分别为0.25、0.36、0.33，中龄林风沙土偏度状况为正偏度，近熟林和成熟林风沙土为极正偏度;峰度值分别为1.40、1.22、1.04,中龄林和近熟林风沙土峰度状况为尖窄，成熟林为中等；分形维数分别为1.98、2.13、2.17。随着林龄的增加，近熟林和成熟林的土壤平均粒径、标准偏差与分形维数显著高于中龄林( $( P < 0 . 0 5 )$ ；近熟林和成熟林的峰度值显著低于中龄林 $( P < 0 . 0 5 )$ ；偏度值无显著变化 $( P > 0 . 0 5 )$ 。裸沙地 $1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土平均粒径、标准偏差和分形维数显著低于同层近熟林与成熟林( $\left. P < 0 . 0 5 \right)$ ，与中龄林不存在显著差异中 $\left( P > 0 . 0 5 \right)$ ；峰度值显著低于中龄林( $\left( P < 0 . 0 5 \right)$ ，与近熟林和成熟林不存在显著差异( $\left( P > 0 . 0 5 \right)$ ；偏度值与林地土壤不存在显著差异( $\cdot P > 0 . 0 5 ,$ 。
+
+# 2.3土壤粒配曲线
+
+2.3.1土壤粒度频率分布曲线如图1a所示，科尔沁沙地不同樟子松人工林 $0 \sim 1 0 ~ \mathrm { c m }$ 风沙土粒度频率分布曲线均为双峰型，3条曲线分别在 $4 . 8 ~ \phi$ 和$2 . 4 \ \phi$ 附近出现了波峰，在3.9 $\phi$ 附近处出现了波谷。波谷左侧的曲线可代表风沙土细粒组分(包括黏粒、粉粒），右侧的曲线可代表风沙土粗粒组分（砂粒）。细粒组分的波峰由高到底依次为：成熟林、近熟林、中熟林;粗粒组分的波峰由高到底依次为：中熟林、近熟林、成熟林。随林龄的增加， $0 \sim 1 0$ cm风沙土细粒组分含量逐渐增加，粗粒组分含量逐渐减少。裸沙地风沙土粒度频率分布曲线的波峰也出现在 $4 . 8 ~ \phi$ 和 $2 . 4 ~ \varPhi$ 附近，细粒组分含量低于林地土壤，粗粒组分含量高于林地土壤。
+
+如图1b所示，科尔沁沙地不同樟子松人工林$1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土粒度频率分布曲线均为双峰型，三条曲线分别在 $4 . 8 ~ \varPhi$ 和 $2 . 4 ~ \varPhi$ 附近出现了波峰，在$3 . 9 ~ \phi$ 附近处出现了波谷。细粒组分的波峰由高到底依次为：成熟林、近熟林、中熟林；粗粒组分的波峰由高到底依次为：中熟林、近熟林、成熟林。随林龄的增加， $1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土细粒组分含量逐渐增加，粗粒组分含量逐渐减少。裸沙地风沙土粒度频率分布曲线为单峰型，波峰出现在 $2 . 5 \ : \phi$ 附近。裸沙地细粒组分含量低于林地土壤,粗粒组分含量高于近熟林和成熟林土壤。
+
+表3沙地樟子松人工林土壤粒度参数  
+Tab.3Soil particle parameters of Pinus sylvestris var.mongolica plantation  
+
+<html><body><table><tr><td>林木类型</td><td>土层深度/cm</td><td>平均粒径</td><td>标准偏差</td><td>偏度值</td><td>峰度值</td><td>分形维数</td></tr><tr><td rowspan="2">中龄林</td><td>0~10</td><td>2.77±0.07b</td><td>1.33±0.06b</td><td>0.46±0.07ab</td><td>1.51±0.09b</td><td>2.18±0.01b</td></tr><tr><td>10~20</td><td>2.43±0.09B</td><td>0.88±0.12B</td><td>0.25±0.06A</td><td>1.40±0.12A</td><td>1.98±0.07C</td></tr><tr><td rowspan="2">近熟林</td><td>0~10</td><td>3.32±0.14a</td><td>1.72±0.12a</td><td>0.32±0.09b</td><td>1.16±0.05c</td><td>2.42±0.02a</td></tr><tr><td>10~20</td><td>2.71±0.13A</td><td>1.32±0.08A</td><td>0.36±0.03A</td><td>1.22±0.01B</td><td>2.13±0.04B</td></tr><tr><td rowspan="2">成熟林</td><td>0~10</td><td>3.23±0.07a</td><td>1.84±0.06a</td><td>0.47±0.10a</td><td>1.04±0.04c</td><td>2.43±0.02a</td></tr><tr><td>10~20</td><td>2.86±0.16A</td><td>1.44±0.02A</td><td>0.33±0.13A</td><td>1.04±0.12B</td><td>2.17±0.02B</td></tr><tr><td rowspan="2">裸沙地</td><td>0~10</td><td>2.36±0.08c</td><td>1.12±0.01c</td><td>0.37±0.00ab</td><td>1.78±0.17a</td><td>2.15±0.01b</td></tr><tr><td>10~20</td><td>2.28±0.03B</td><td>0.84±0.03B</td><td>0.23±0.04A</td><td>1.23±0.10B</td><td>1.91±0.11C</td></tr></table></body></html>
+
+注：同列不同小、大写字母分别表示 $0 \sim 1 0 ~ \mathrm { c m }$ 、 $1 0 \sim 2 0 ~ \mathrm { c m }$ 土层差异显著( $P < 0 . 0 5$ ）
+
+![](images/948d60dc0cf2e412bbd42db059f07ce96d11842d6b232c06680b457bf85b9250.jpg)  
+图1土壤粒度频率分布曲线  
+Fig.1Distribution curve of soil particle size frequency
+
+2.3.2土壤粒度累计频率分布曲线如图2a所示， $0 \sim 1 0 \ \mathrm { c m }$ 林地与裸沙地的土壤粒度累计频率分布曲线可划分为细粒段所代表的悬移组分、中粒段所代表的跃移组分以及粗粒段所代表的蠕移组分，成熟林、近熟林、中龄林和裸沙地跃移组分的粒径区间依次为 $5 . 1 \sim 1 . 6 ~ \varPhi \ , 4 . 9 \sim 1 . 6 ~ \varPhi \ , 3 . 8 \sim 1 . 8 ~ \varPhi$ $3 . 5 \sim 2 . 4 \ : \phi$ ,悬移组分含量：成熟林 $>$ 近熟林 $>$ 中龄林 $>$ 裸沙地。各累计频率分布曲线的斜率越大，表明土壤颗粒的分选性越好，可见各样地跃移组分的分选性显著优于其他两种组分，其分选性：裸沙地$>$ 中龄林 $>$ 近熟林 $>$ 成熟林。
+
+如图2b所示， $1 0 \sim 2 0 ~ \mathrm { c m }$ 林地与裸沙地的土壤粒度累计频率分布曲线亦可划分为悬移组分、跃移组分和蠕移组分三种类型，成熟林、近熟林、中龄林和裸沙地跃移组分的粒径区间依次为 $5 . 2 \sim 1 . 1 ~ \phi$ /$4 . 8 \sim 1 . 7 \ \phi \ . 3 . 8 \sim 1 . 8 \ \phi \ , 3 . 4 \sim 1 . 5 \ \phi$ ,悬移组分含量：成熟林 $>$ 近熟林 $>$ 中龄林 $>$ 裸沙地。跃移组分土壤颗粒的分选性较好，其分选性：裸沙地 $>$ 中龄林$>$ 近熟林 $>$ 成熟林。裸沙地 $0 \sim 1 0 ~ \mathrm { c m }$ 风沙土跃移组分的分选性优于 $1 0 \sim 2 0 ~ \mathrm { c m }$ 。
+
+![](images/3252ff50eef57601572994b0218479e4a494ad82224da0b5d3640f5b67be1f2c.jpg)  
+图2土壤粒度累计频率分布曲线  
+Fig.2Distribution curve of accumulated soil particle size frequency
+
+# 3讨论
+
+科尔沁沙地风沙土砂粒含量较高，黏粒、粉粒含量较低，这归因于区域内剧烈的风力侵蚀作用。黏粒和粉粒的粒径小于砂粒，因此其起动风速较小，更易于近地表风的吹蚀、搬运。随着林龄的增长，土壤黏粒和粉粒含量呈增加趋势，砂粒含量呈减小趋势，这是因为成熟林的生态系统更加稳定，因此可在一定程度上更加有效地影响土壤风蚀的发生和发展[23]。一方面林木冠层可有效削减风速，抑制风力侵蚀的动力[24],另一方面地表枯落物不仅可有效增大地表粗糙度，提升土壤颗粒的起动风速[25],还能增加土壤有机质含量，促进土壤团聚体的形成，提升土壤系统稳定性，从而有效抑制风沙活动[26]。 $1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土的粒度组成也不断优化，这是因为樟子松人工林的增张可有效促进地下细根的周转，进而增加土壤养分，改善土壤结构[27]。裸沙地 $0 \sim 1 0 ~ \mathrm { c m }$ 风沙土黏粒和粉粒含量显著低于同层林地土壤 $( P < 0 . 0 5 )$ _， $1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土黏粒和粉粒含量显著低于同层近熟林与成熟林的土壤 $( P < 0 . 0 5 ) ,$ 。这是因为裸沙地风沙土表层缺少植被覆盖，土壤黏粒和粉粒的含量因强烈风蚀作用而不断减少。
+
+科尔沁沙地樟子松人工林风沙土平均粒径较粗，随林龄的增长，平均粒径呈增大趋势，表明土壤粒度组成向细化趋势发展。林地风沙土分选性多属较差等级，随林龄的增长，其分选性不断变差，这是因为近熟林和成熟林的生态系统更加稳定，从而使黏粒和粉粒的含量不断增加，即土壤风沙土粒度组成不断细化，最终导致了土壤的粒径分布范围更趋广泛[22]。林地风沙土偏度状况多属极正偏、峰度状况多属尖窄，这是因为研究区风沙土细砂和中砂的含量很高，而黏粒和粉粒的含量极低，因此造成了风沙土粒度分布极不对称且相对比较集中的现象。随林龄的增长，土壤峰度值呈减小趋势，说明樟子松人工林通过增加土壤中细粒物质的含量，使土壤粒度分配逐渐趋向宽平，颗粒粗细分配的对称性不断优化。 $0 \sim 1 0 \ \mathrm { c m }$ 和 $1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土分形维数分别介于 $2 . 1 8 \sim 2 . 4 3$ 和 $1 . 9 8 \sim 2 . 1 7 \$ 之间，土壤体积分形维数大小可直接反应土壤细颗粒物质（黏
+
+# 干旱区地理
+
+粒、粉粒)的含量，在风蚀强度越高，风蚀时间越久的地区，土壤因细颗粒物质被吹蚀而逐渐粗化，此时土壤体积分形维数就越小[28]。随林龄的增长,土壤分形维数不断增大的趋势亦可表征土壤细颗粒物质含量在不断增加。裸沙地风沙土平均粒径和标准偏差显著低于林地土壤( $\cdot P < 0 . 0 5 ,$ ，分形维数显著低于近熟林和成熟林( $\lceil P < 0 . 0 5 \rceil$ )，表明土壤风蚀对裸沙地的影响更加严重。
+
+裸沙地 $0 \sim 1 0 ~ \mathrm { c m }$ 粗粒组分高于同层林地土壤，$1 0 \sim 2 0 ~ \mathrm { c m }$ 粗粒组分仅高于同层近熟林和成熟林的土壤，与中龄林土壤无明显差异，这是因为樟子松人工林的冠层可有效拦截风沙运动，使风沙流中的细颗粒物质遇阻沉降堆积[25]。再加上植物枯落物对地表土壤的直接影响，导致表层土壤结构细化的速度比下层土壤快，最终使研究区樟子松人工林改良风沙土的方式在垂直方向是自上而卜的过程，下层风沙土的结构细化具有一定滞后性。研究区风沙土存在明显悬移、跃移和蠕移组分的划分，林地土壤悬移组分的含量均高于裸沙地,归因于樟子松对风沙流的拦阻作用。林地和裸沙地风沙土跃移组分的分选性优于其他两种组分，这是由于跃移组分土壤颗粒频繁碰撞和高速旋转磨蚀所造成的[29],而跃移组分中裸沙地风沙土的分选性最好，表明风沙运动在裸沙地表面更为剧烈，
+
+# 4结论
+
+（1）科尔沁沙地樟子松人工林风沙土以砂粒为主，其次为粉粒,黏粒含量最少。随林龄的增长，土壤黏粒、粉粒含量呈增加趋势，砂粒含量呈减少趋势。裸沙地 $0 \sim 1 0 ~ \mathrm { c m }$ 风沙土砂粒含量显著高于同层林地土壤 $( P < 0 . 0 5 )$ ， $1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土砂粒含量显著高于同层近熟林与成熟林的土攘 $( P < 0 . 0 5 )$ O
+
+(2）科尔沁沙地樟子松人工林风沙土质地较粗， $0 \sim 1 0 ~ \mathrm { c m }$ 风沙土分选性均较差，偏度状况均为正偏度，峰度状况均为尖窄，分形维数 $2 . 1 8 \sim 2 . 4 3$ 。而随林龄的增加， $1 0 \sim 2 0 ~ \mathrm { c m }$ 风沙土分选性由中等变为较差，偏度状况由正偏度变为极正偏度，峰度状况由尖窄变为中等，分形维数 $1 . 9 8 \sim 2 . 1 7 \$ 。对于林地土壤而言，裸沙地风沙土质地更粗，分选性更好，分形维数更小，但偏度值不存在显著差异( $\mathbf { \nabla } P >$ 0.05)。
+
+(3）科尔沁沙地樟子松人工林风沙土的粒度频率分布曲线均为双峰型。裸沙地风沙土细粒组分含量低于林地土壤， $0 \sim 1 0 ~ \mathrm { c m }$ 粗粒组分高于林地土壤， $1 0 \sim 2 0 ~ \mathrm { c m }$ 粗粒组分仅高于近熟林和成熟林的土壤，体现了下层风沙土随林龄增加土壤颗粒不断细化的滞后性。樟子松人工林的阻沙作用使其悬移组分的含量高于裸沙地，裸沙地剧烈的风沙运动使其跃移组分的分选性高于林地。
+
+# 参考文献(References)
+
+[1]MOHAMMADI M H,MESKINI-VISHIKAEE F. Predicting soil moisture characteristic curves from continuous particle-size distribution data[J].Pedosphere,2013,23(1):70-80.   
+[2]HU HC,TIAN FQ,HU HP. Soil particle size distribution and its relationship with soil water and salt under mulched drip irigation in Xinjiang of China[J]. Science China Technology Sciences,2011,54(6):1568-1574.   
+[3］张俊华,李国栋,南忠仁,等.黑河绿洲区耕作影响下的土壤粒 径分布及其与有机碳的关系[J].地理研究，2012,31(4)： 608 - 618.[ZHANG Junhua,LI Guodong,NAN Zhongren,et al.Research on soil particle size distribution and its relationship with soil organic carbon under the effects of tillage in Heihe oasis[J].Geographical Research,2012,31(4):608-618.]   
+[4]XU G C,LI ZB,LI P.Fractal features of soil particle-size distribution and total soil nitrogen distribution in a typical watershed in the source area of the middle Dan River,China[J].Catena, 2013,101:17-23.   
+[5]EACUTE MC J,MILTON C C C,DENILTON CG,et al. Fractal analysis in the description of soil particle-size distribution under different land-use patterns in Southern Amazonas State,Brazil[J].African Journal of Agricultural Research,2016,11（23）： 2032-2042.   
+[6]WANG D,FU B J,ZHAO W W. Multifractal characteristics of soil particle size distribution under diferent land-use types on the Loess Plateau,China[J].Catena,2008,72(1):29-36.   
+[7］桂东伟,雷加强,曾凡江,等.绿洲农田不同深度土壤粒径分布 特性及其影响因素：以策勒绿洲为例[J].干旱区研究,2011, 28（4）:622- 629.[GUI Dongwei,LEI Jiaqiang,ZENG Fanjiang,et al. Analysis on soil PSD and its affecting factors at diferent depths in oasis farmland;A case study in the Qira Oasis[J]. Arid Zone Research,2011,28(4):622- 629.]   
+[8］杜海燕,周智彬,刘凤山,等.绿洲化过程中阿拉尔垦区土壤粒 径分形变化特征[J].干旱区研究，2013,30(4)：615－622. [DU Haiyan,ZHOU Zhibin,LIU Fengshan,et al. Variation of fractal dimension of soil particle size distribution in the aral reclamation area in oasis development[J].Arid Zone Research, 2013,30(4):615-622.]   
+[9]NADEU E,VENTE JD,MARTINEZ-MENA M,et al. Exploring particlesize distribution and organic carbon pools mobilized by different erosion processes at the catchment scale[J]. Journal of Soils and Sediments,2011,11(4):667-678.   
+[10］高永,丁延龙,汪季,等.不同植物灌丛沙丘表面沉积物粒度变 化及其固沙能力[J].农业工程学报,2017,33(22)：135－142. [GAO Yong,DING Yanlong,WANG Ji,et al. Sediments particle size changes and its sand fixation ability for diffrent shrub dunes[J]. Transactions of the Chinese Society of Agricultural Engineering,2017,33(22):135-142.]   
+[11]XIANG N,PENG G,BING W,et al. Fractal characteristics of soil retention curve and particle size distribution with different vegetation types in mountain areas of northern China[J]. International Journal of Environmental Research and Public Health, 2015,12(12):15379-15389.   
+[12］任悦,高广磊,丁国栋,等.沙地樟子松人工林叶片-枯落物-土 壤氮磷化学计量特征[J].应用生态学报,2019,30(3):743- 750.[REN Yue,GAO Guanglei,DING Guodong,et al. Characteristics of organic carbon content of leaf-litter-soil system in Pinus sylvestris var.mongolica plantationsJ]. JouralofBeijing Forestry University,2019,30(3):743-750.]   
+[13]CHEN Fusheng,ZENG Dehui,SINGH Anand Narain,et al. Effects of soil moisture and soil depth on nitrogen mineralization process under Mongolian pine plantations in Zhanggutai sandy land,PR China[J]. Journal of Forestry Research,2005,16(2）): 101 - 104.   
+[14］包永志,刘廷玺,段利民,等.科尔沁沙地混生小叶锦鸡儿和人 工杨树光合特性及其对气候的响应[J].干旱区研究,2019,36 (2):420- 429.[BAO Yongzhi,LIU Yanxi,DUAN Limin,et al. Photosynthetic traits of Caragana microphylla and Populus spp. and their responses to climate in the Horqin Sandy Land[J].Arid Zone Research,2019,36(2):420-429.]   
+[15］刘新平,何玉惠,魏水莲,等.科尔沁沙地樟子松(Pinus sylvestris var.mongolica)生长对降水和温度的响应[J].中国沙漠, 2016,36(1):57-63.[LIU Xinping,HE Yuhui,WEI Shuilian, et al. Growth response of Pinus sylvestris var. mongolica to precipitation and air temperature in the Horqin Sandy Land[J]. Journal of Desert Research,2016,36(1):57 - 63.]   
+[16］孟祥楠,赵雨森,郑磊,等.嫩江沙地不同年龄樟子松人工林种 群结构与林下物种多样性动态[J].应用生态学报,2012,23 （9）：2332- 2338.［MENG Xiangnan，ZHAO Yusen，ZHENG Lei，et al. Population structure and understory species diversity of different aged Pinus sylvestris var.mongolica plantations in Nenjiang Sandy Land of northeast China[J]. Chinese Journal of Applied Ecology,2012,23(9):2332-2338.]   
+[17］张继义,赵哈林,崔建垣,等.科尔沁沙地樟子松人工林土壤水 分动态的研究[J].林业科学,2005,41(3):1-6.[ZHANG Jiyi,ZHAO Halin,CUI Jianheng,et al. Community structure, soil water dynamics and community stability of Pinus sylvestris var. mongolica plantation in Horqin Sandy Land[J]. Scientia Silvae Sinicae,2005,41(3):1-6.]   
+[18］陈伏生,曾德慧,范志平,等.章古台沙地樟子松人工林土壤有 效氮的研究[J].北京林业大学学报，2005,27(3)：6－11. [CHEN Fusheng,ZENG Dehui,FAN Zhiping,et al. Available nitrogen in forest soil of Pinus sylvestris var. mongolica plantations in Zhanggutai sandy lands[J]. Journal of Beijing Forestry University,2005,27(3):6-11.]   
+19］高广磊，丁国栋,赵媛媛,等.四种粒径分级制度对土壤体积分 形维数测定的影响[J].应用基础与工程科学学报,2014,6：   
+1060 -1068.[GAO Guanglei,DING Guodong,ZHAO Yuanyuan,et al.Effects of soil particle size classification system on calculating volume-based fractal dimension［J]. Journal of Basic Science and Engineering,2014,22(6):1060-1068.] [20］杨金玲,李德成,张甘霖,等.土壤颗粒粒径分布质量分形维数 和体积分形维数的对比[J].土壤学报,2008,45(3):413－419. [YANG Jinling,LI Decheng,ZHANG Ganlin,et al. Comparison of mass and volume fractal dimensions of soil particle size distribution[J].Acta Pedolocica Sinica,2008,45(3):413-419.] [21]董智,王丽琴,杨文斌,等.额济纳盆地戈壁沉积物粒度特征分 析[J].中国水土保持科学,2013,11(1):32－38.[DONG Zhi, WANG Liqin,YANG Wenbin,et al. Grain size characteristics of gobi sediment in Ejina Basin[J]. Science of Soil and Water Conservation,2013,11(1):32-38.] [22]GAO G L,DING G D,ZHAO Y Y,et al. Characterization of soil particle size distribution with a fractal model in the desertified regions of northern China［J].Acta Geophysica,2016,64 (1):1- 14. [23］贾晓红,李新荣,李元寿.干旱沙区植被恢复过程中土壤颗粒 分形特征[J].地理研究,2007,26(3):518-525.[JIA Xiaohong,LI Xinrong,LI Yuanshou.Fractal dimension of soil particle size distribution during the process of vegetation restoration in arid sand dune area[J]. Geograpgical Research,20o7,26(3):   
+518-525.] [24] YU KY,YAO X,DENG Y B,et al. Effects of stand age on soil respiration in Pinus massoniana plantations in the hilly red soil region of southern China[J].Catena,2019,178(7):313-321. [25]HUPY JP. Influence of vegetation cover and crust type on wind-blown sediment in a semi-arid climate[J].Journal of Arid Environments,2004,58(2):167-179. [26]丁国栋.风沙物理学[M].北京:中国林业出版社,2010:138-   
+139.［DING Guodong.Aeolian physics[M]. Beijing:China Forestry Publishing House.2010:138-139.] [27］刘均东,高广磊,丁国栋,等.风蚀荒漠化地区土壤质量演变研 究进展[J].南京林业大学学报(自然科学版),2017,41(5)：   
+161-168.［LIU Yundong,GAO Guanglei,DING Guodong,et al.Soil quality in wind erosion desertified regions:A review[J]. Journal of Nanjing Forestry University （Natural Sciences Edition),2017,41(5):161-168.] [28］胡云锋,刘纪远,庄大方,等.不同土地利用/土地覆盖下土壤粒 径分布的分维特征[J].土壤学报,2005,42(2):336-339.[HU Yunfeng,LIU Jiyuan,ZHUANG Dafang,et al. Fractal dimension of soil particle size distribution under diferent land use /land coverage[J].Acta Pedologica Sinica,2005,42(2):336-339.] [29］韩广，张桂芳,杨文斌.呼伦贝尔沙地沙丘砂来源的定量分析 -逐步判别分析(SDA)在粒度分析方面的应用[J].地理学 报,2004,59(2）:189－196.[HAN Guang,ZHANG Guifang, YANG Wenbin. A quantitative analysis for the provenance of dune sand in the Hulun Buir Sandy Land:Application of stepwise discriminant analysis to the granulometric data[J].Acta Geographica Sinica,2004,59(2):189-196.]
+
+# Soil particle size distribution of Pinus sylvestris var. mongolica plantations in the Horqin Sandy Land
+
+CHEN Yu-xuan'²， ZHANG Fei-yue1'²， GAO Guang-lei1²， DING Guo-dong1'2, ZHANG Ying'， Liu Xue-feng³ (1Key Laboratory of State Forestry and Grassland Administration on Soil and Water Conservation, BeijingForestryUniversity,Beijing1Ooo83,China;   
+2YanchiResearchStation,choolofoiland WaterConservation,BeijingForestryUniversity,Beijingo83,China;   
+3Inner Mongolia Academy ofForestry Sciences,Hohhot O1oolO,Inner Mongolia,China）
+
+Abstract:Inorder toreveal the efects of different Pinus sylvestris var.mongolica plantations onthe soil particle size distribution(PSD)inthe Horqin SandyLand,InnerMongolia,China,wecollected aeoliansoil samplesof middle-aged,near-mature,and mature plantation,as wellas ofbare sandy land.The PSD was determined by using alaser diffraction technique.The soil particle size parameters and the grading curve of different plantation types were then calculated and analyzed.The results indicated thefolowing:(1）The soil PSDin the Pinus sylvestris var.mongolica plantations in the Horqin Sandy Land demonstrated the prevalence ofsand,followed byclayand silt.With the developmentof the plantations,we notedan increaseof the clayand siltfractions,paraleled bya decreaseof the sand fraction.Basically,thesand contentof the bare sandylandoutweighed thatof the plantation soil atthe same layer.(2）The plantation soil PSD reflected a poor sorting;moreover,it had a positive skewness and a sharp kurtosis,suggesting the prevalenceof coarse particles.The fractal dimensions of the plantation soil between 0-10 cm and 10-20 cm were inthe range of 2.18-2.43and 1.98-2.17,respectively. Overall,the soil texture,sorting,and fractal dimension of the bare sandyland were inferiorto those of the plantations.（3）Thefrequencycurve of each plantation showed two peaks.With the development of the plantations,the structure of the soil layer between 0-10 cm was refined faster than that between 1O and 2O cm.The content of suspended components inthe plantations was higherthan in thebare sandy land,whilethe sorting ofthe jumpcomponents was less optimized.The results of this study,which include the characteristics of soil PSD in diferent types of Pinus sylvestris var.mongolica plantations in Horqin SandyLand,can beappliedto contrastthe desertification process affctingthe studyareaand toecological restoration.
+
+Key words:Horqin SandyLand; Pinus sylvestris var.mongolica；particle size distribution;particle size parameter; particle grading curve

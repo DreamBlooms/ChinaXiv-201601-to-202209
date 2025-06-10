@@ -1,0 +1,221 @@
+饲粮添加维生素E和酵母硒对黄羽肉种鸡产蛋性能、孵化性能及蛋中维生素E和硒沉积量的影响
+
+林厦菁　蒋守群\* 李　龙　陈　芳　苟钟勇　吴绮雯　范秋丽　蒋宗勇\*（广东省农业科学院动物科学研究所，畜禽育种国家重点实验室，农业部华南动物营养与饲料重点实验室，广东省动物育种与营养公共实验室，广东省畜禽育种与营养研究重点实验室，广州 510640）摘要：本试验旨在研究饲粮添加维生素E和酵母硒对黄羽肉种鸡产蛋性能、孵化性能及蛋中维生素E 和硒（Se）沉积量的影响。试验采用 $3 { \times } 3$ 双因子设计，设3个维生素E水平（0、20、40IU/kg）和3个Se水平 $( 0 , \ 0 . 1 5 , \ 0 . 3 0 \ \mathrm { m g / k g } )$ 。选用32 周龄快大型岭南黄羽肉鸡父母代种母鸡 864只，根据产蛋率和体重一致性原则随机分成9个组，分别为 $\mathrm { V E _ { 0 } S e _ { 0 } }$ 组、 $\mathrm { V E 0 S e _ { 0 . 1 5 } }$ 组、 $\mathrm { V E } _ { 0 } \mathrm { S e } _ { 0 . 3 0 }$ 组、 $\mathrm { V E } _ { 2 0 } \mathrm { S e } _ { 0 }$ 组、 $\mathrm { V E } _ { 2 0 } \mathrm { S e } _ { 0 . 1 5 }$ 组、$\mathrm { V E } _ { 2 0 } \mathrm { S e } _ { 0 . 3 0 }$ 组、 $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 }$ 组、 $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 . 1 5 }$ 组和 $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 . 3 0 }$ 组，每组6个重复，每个重复16只鸡。试验期8周。结果表明：1）饲粮中维生素E和 Se水平对黄羽肉种鸡的体增重、平均日产蛋量、料蛋比、平均蛋重、产蛋率、破蛋率和不合格蛋率均无显著影响（P>0.05)。2）饲粮中维生素E 和 Se 水平对黄羽肉种鸡的蛋长径、蛋短径、蛋白高度、蛋黄颜色、哈氏单位、蛋黄重、蛋壳重和蛋壳厚度均无显著影响（ $P { > } 0 . 0 5$ 。3)饲粮中维生素E 和 Se 水平对黄羽肉种鸡的健雏出壳重、孵化率、弱雏率和受精率均无显著影响（ $( P { > } 0 . 0 5 )$ ）。4）饲粮中维生素E水平对黄羽肉种鸡血浆MDA含量有显著影响（ $P { < } 0 . 0 5 )$ ，随饲粮中维生素E水平的升高血浆MDA含量呈降低趋势,其中维生素E水平为 $4 0 \mathrm { I U / k g }$ 时血浆MDA含量显著低于 $0 \mathrm { { I U / k g } }$ 时 $( P { < } 0 . 0 5 )$ ：饲粮中维生素E 和 Se 水平对血浆MDA含量有显著交互作用（ $( P { < } 0 . 0 5 )$ )，其中 $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 }$ 组的血浆MDA 含量显著低于 $\mathrm { V E } _ { 0 } \mathrm { S e } _ { 0 . 1 5 }$ 和 $\mathrm { V E } _ { 0 } \mathrm { S e } _ { 0 . 3 0 }$ 组（ $\scriptstyle \cdot { P < 0 . 0 5 }$ )。5）随饲粮中维生素E和 Se水平的升高，黄羽肉种鸡蛋中维生素E和Se含量显著增加（ $( P { < } 0 . 0 5 )$ ；饲粮中维生素E和Se水平对蛋中维生素E和 Se含量有显著交互作用（ $P { < } 0 . 0 5$ ）。结果提示，维生素E可以提高黄羽肉种鸡的抗氧化水平，饲粮中维生素E 和 Se水平可以显著影响蛋中维生素E和 Se的含量；建议在无任何应激因素刺激和不使用 Se缺乏地区饲料原料的情况下，黄羽肉种鸡玉米-豆粕型饲粮可以不用额外添加维生素E 和 Se。
+
+关键词：黄羽肉种鸡；维生素E；酵母硒；种蛋孵化中图分类号：S831 文献标识码：A 文章编号：
+
+维生素E（VE）和微量元素硒（Se）是鸡必需的2种微量营养素。维生素E有缓解家禽应激、改善生长性能和提高繁殖性能等作用[I-3]。Se 是动物机体内多种硒蛋白质的功能成分，能够清理体内氧化物质，具有抗氧化和提高机体免疫功能等作用[4-5]。种鸡缺乏这2种微量营养素的其中1种，均会引起严重的机体应激反应[]。目前有关种母鸡饲粮中维生素E和 Se 需要量的研究并不多。NRC(1994)提出产蛋种母鸡饲粮维生素E和 Se 的最低需要量分别为10 和 $0 . 0 5 \mathrm { \ m g / k g }$ ；张大为提出产蛋种母鸡饲粮维生素E水平达到4mg/kg 即可满足正常生产和繁殖性能的需要，饲粮添加 $0 . 3 5 \mathrm { \ m g / k g }$ 有机硒可提高产蛋量；《鸡饲养标准》（NY/T 33—2004）以种鸡周龄为划分依据，推荐开产前1\~6周龄、开产前7\~18 周龄、开产期（19 周龄至开产）和产蛋期种鸡饲粮维生素E需要量分别为18、9、9和 $2 7 \mathrm { \Pi I U / m g }$ ，Se 需要量均为 $0 . 2 7 ~ \mathrm { m g / k g }$ 。不同品种、年龄阶段和饲养条件的种鸡对饲粮维生素E和 Se 的需要量存在一定的差异。多年来，本研究室一直对黄羽肉种鸡的营养需要进行着研究，目前已经开展了对蛋白质和能量[7]、钙[8]、磷[]、锌[0]、赖氨酸[1]、蛋氨酸[12]、异亮氨酸[13]、维生素 A[14]等需要量的研究。鉴此，本试验在前期研究的基础上，对黄羽肉种鸡产蛋期维生素E和 Se 的需要量进行研究，填补黄羽肉种鸡维生素E 和 Se 需要量研究的空白，为黄羽肉种鸡营养标准的制定和实际生产提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验动物与试验设计
+
+试验采用 $3 { \times } 3$ 双因子设计,设3个维生素E水平 $( 0 , 2 0 , 4 0 \mathrm { I U / k g } )$ 和3个Se水平 $( 0 , 0 . 1 5 , 0 . 3 0 \mathrm { m g / k g } )$ 选用 32 周龄快大型岭南黄羽肉鸡父母代种母鸡 864 只，根据产蛋率和体重一致性原则随机分成9个组，分别为 $\mathrm { V E } _ { 0 } \mathrm { S e } _ { 0 }$ 组、 $\mathrm { V E } _ { 0 } \mathrm { S e } _ { 0 . 1 5 }$ 组、 $\mathrm { V E } _ { 0 } \mathrm { S e } _ { 0 . 3 0 }$ 组、 $\mathrm { V E } _ { 2 0 } \mathrm { S e } _ { 0 }$ 组、 $\mathrm { V E } _ { 2 0 } \mathrm { S e } _ { 0 . 1 5 }$ 组、 $\mathrm { V E } _ { 2 0 } \mathrm { S e } _ { 0 . 3 0 }$ 组、 $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 }$ 组、 $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 . 1 5 }$ 组和 $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 . 3 0 }$ 组，每组6个重复，每个重复16只鸡。
+
+# 1.2 试验饲粮
+
+试验采用玉米-豆粕型基础饲粮，各组饲粮中维生素E和 Se水平按照试验设计确定，其他营养成分均参考《鸡饲养标准》(NY/T33—2004)，参照中国饲料成分及营养价值表(第 26版)和实测值设计饲粮配方。基础饲粮组成及营养水平见表1，基础饲粮含 $3 . 1 9 \mathrm { m g / k g }$ 维生素E、 $0 . 1 2 \mathrm { m g / k g \ S e }$ 。饲粮配置时，维生素E和 Se 按照不同添加水平等量替代预混料中的载体玉米芯粉，除维生素E和Se水平外，各组饲粮营养水平均相同。酵母硒由安琪酵母股份有限公司友情提供，Se含量为 $2 0 0 0 \mathrm { m g / k g }$ 。维生素E为维生素E乙酸酯，有效含量为 $5 0 \%$ 。
+
+# 表1基础饲粮组成及营养水平 (饲喂基础)
+
+Table 1 Composition and nutrient levels of the basal diet（as-fed basis ） %
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料 Ingredients</td></tr><tr><td>玉米Corm 67.30</td></tr><tr><td>玉米蛋白粉 Corn gluten meal 3.00</td></tr><tr><td>豆粕 Soybean meal 18.00</td></tr><tr><td>DL-蛋氨酸 DL-Met (99%) 0.21</td></tr><tr><td>L-苏氨酸L-Thr 0.15</td></tr><tr><td>石粉 Limestone 7.10</td></tr><tr><td>沸石粉 Zeolite powder 1.34</td></tr><tr><td>磷酸氢钙 CaHPO4</td></tr><tr><td>1.65</td></tr><tr><td>食盐 NaCl 0.25</td></tr><tr><td>预混料 Premixl) 1.00</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能 ME/(MJ/kg) 11.91</td></tr><tr><td>粗蛋白质 CP 16.50</td></tr><tr><td>钙Ca 3.00</td></tr><tr><td>总磷TP 0.70</td></tr><tr><td>非植酸磷 NPP 0.40</td></tr><tr><td>赖氨酸 Lys 0.68</td></tr><tr><td>蛋氨酸Met 0.39</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys 0.80 苏氨酸 Thr 0.55</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 Premix provided the following per $\mathrm { k g }$ of the diet: VA 15 000 IU, $\mathrm { V D } _ { 3 } 3 3 0 0 \mathrm { I U }$ VE 62.5 mg, $\mathrm { V B } _ { 1 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 9 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 6 \log$ ， $\mathbf { V B } _ { 1 2 } 0 . 0 3 \mathrm { m g }$ ，烟酸 nicotinic acid $6 0 ~ \mathrm { m g }$ ，泛酸钙calcium pantothenate $1 8 ~ \mathrm { m g }$ ，叶酸 folic acid $1 . 5 \mathrm { m g }$ ，生物素biotin $0 . 3 6 \mathrm { m g }$ ，氯化胆碱choline chloride $6 0 0 ~ \mathrm { { m g } }$ ，Fe 80 mg，Cu 12 mg, $\mathrm { 7 n 7 5 m g }$ ， $\mathrm { M n ~ 1 0 0 ~ m g }$ ， $\mathrm { ~ I ~ } 0 . 3 5 \mathrm { ~ m g ~ }$ ，Se $: 0 . 1 5 \mathrm { m g }$ 。   
+2)营养水平为计算值。Nutrient levels were calculated values.
+
+1.3 饲养管理
+
+试验鸡饲养于广东省农业科学院畜牧研究所动物营养研究室种鸡试验舍内，3层阶梯式笼养，每笼 2只。试验鸡每天定量饲喂1次，每只每天的饲喂量为 $1 3 0 \ \mathrm { g }$ ，乳头式饮水器供试验鸡自由饮水。试验期间，每天光照恒定 $1 6 \mathrm { h }$ ，保持自然通风和栏舍清洁卫生。每天记录06:00、12:00和18:00的最高温度和最低温度、湿度及天气情况。每天观察试验鸡的健康状况，记录淘汰和死亡情况。试验鸡只按照常规饲养管理规程和免疫程序进行饲养和免疫。预试期7d，正试期8周。正式试验开始前一直用符合《鸡饲养标准》(NY/T33—2004)营养水平的饲粮饲喂试验鸡。试验最后2周给种母鸡进行人工授精，输精时间为16:00，输精量为 $3 0 \mu \mathrm { L } /$ 只，每2天输1次精，种公鸡与种母鸡的比例为1:30。
+
+# 1.4 测定指标与方法
+
+# 1.4.1 产蛋性能
+
+试验开始和结束前1天20:00对试验鸡断料、供水，次日08:00以重复为单位称重，并统计试验期试验鸡的体增重和料蛋比。
+
+料蛋比 $( \% ) =$ （试验期采食量/试验期产蛋量） $\times 1 0 0$ 。
+
+试验期间，每天记录各重复鸡的产蛋数、日产蛋重、破蛋数和不合格蛋数；其中，不合格蛋包括破损蛋、软壳蛋、沙壳蛋、畸形蛋、双黄蛋和蛋中蛋等。产蛋性能的计算公式如下：
+
+产蛋率 $( \% ) =$ （产蛋数/试验鸡只存栏数） $\times 1 0 0$ 平均日产蛋量 $( \mathbf { g } ) =$ 产蛋率 $. { \big \times }$ 平均蛋重;
+
+平均蛋重 $( \mathbf { g } ) =$ 总蛋重/总产蛋数；
+
+破蛋率 $( \% ) =$ （破损蛋数/产蛋数） $\times 1 0 0$ 不合格蛋率 $( \% ) =$ （不合格蛋数/产蛋数） $\times 1 0 0$ 。
+
+1.4.2 蛋品质
+
+试验第4周和第8周末时，分别从每个重复中随机选取蛋样4枚，进行蛋品质检测。蛋壳厚度采用千分尺测量去壳膜后的蛋壳钝端、中端和尖端3个点厚度，取其平均值；然后剖离鸡蛋内容物，用吸水纸拭去蛋壳上黏附的蛋清，对蛋壳进行称重。用多功能蛋品质测定仪(以色列ORKA 公司)测定蛋白高度和蛋黄颜色，用蛋黄分离器分离出完整蛋黄，对蛋黄进行称重。哈氏单位计算公式为：
+
+式中： $H$ 为蛋白高度；W为蛋重。
+
+# 1.4.3 孵化性能
+
+试验第7周开始分别从每个重复中分批次收取种蛋50枚进行孵化，记录各重复的光蛋数、出苗数、健雏数和雏鸡出壳重。孵化性能的计算公式如下：
+
+受精率 $( \% ) { = } |$ [(入孵蛋数-光蛋数)/入孵蛋数 $] \times 1 0 0$ 孵化率 $( \% ) =$ （出苗数/入孵蛋数） $\times 1 0 0$ 弱雏率 $( \% ) =$ （弱雏数/入孵蛋数） $\times 1 0 0$ 。
+
+# 1.4.4 血浆生化指标
+
+结合试验期各重复试验鸡的产蛋水平，于试验结束时每重复选取2只接近平均产蛋率的试验鸡，翅静脉采血6mL，分离血浆，于 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 冰箱保存。采用Beckman 全自动生化分析仪(CX5型，Beckman 仪器公司，美国)及相应分析试剂盒测定血浆丙二醛（MDA）含量和总超氧化物歧化酶（T-SOD）活性，具体检测方法参照试剂盒说明书进行，检测试剂盒均购自南京建成生物工程研究所。
+
+# 1.4.5 蛋中维生素E和Se的含量
+
+试验结束后，继续饲喂试验饲粮1d， $\mathrm { V E } _ { 0 } \mathrm { S e } _ { 0 }$ 组、 $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 }$ 组、 $\mathrm { V E } _ { 0 } \mathrm { S e } _ { 0 . 3 0 }$ 组和 $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 . 3 0 }$ 每个重复收集1枚蛋，用于检测蛋中维生素E和 Se的含量。利用氢化物-原子荧光光谱法(GB 5009—2010)测定饲粮和蛋中的 Se 含量，利用高效液相色谱法(GB 5009—2003)测定饲粮和蛋中的维生素E 含量。
+
+# 1.5 数据统计分析
+
+试验数据采用 SPSS17.0 软件中的GLM 程序进行双因素方差分析，方差分析有显著效应时再进行Duncan 氏多重比较分析。统计模型中包括维生素E水平、Se水平、维生素E与Se水平的交互作用。各组试验数据均以"平均值 $\pm$ 标准误(mean±SE)"表示，并以 $\scriptstyle P < 0 . 0 5$ 为差异显著性判定标准。
+
+2结果
+
+2.1饲粮维生素E和 Se水平对黄羽肉种鸡产蛋性能的影响
+
+由表2可见，饲粮中维生素E和 Se水平对黄羽肉种鸡的体增重、平均日产蛋量、料蛋比、平均蛋重、产蛋率、破蛋率和不合格蛋率均无显著影响（ $. P { > } 0 . 0 5 )$ ；饲粮中维生素E和Se水平对产蛋性能无显著交互作用（ $. P { > } 0 . 0 5 )$ ）
+
+表2饲粮维生素E和 Se 水平对黄羽肉种鸡产蛋性能的影响  
+Table 2Effects of dietary vitamin Eand Se levels on laying performance of yelow-feathered broiler breeders   
+
+<html><body><table><tr><td colspan="2">项目Items</td><td>体增重</td><td>平均日产蛋量</td><td>料蛋比 平均蛋重</td><td></td><td>产蛋率</td><td>破蛋率</td><td>不合格蛋率</td></tr><tr><td colspan="2"></td><td>Weight gain/kg</td><td>Average daily egg mass/g</td><td>Feed/egg</td><td>Average egg weight/g</td><td>Laying rate/%</td><td> Broken egg rate/%</td><td>Unqualified egg rate/%</td></tr><tr><td>维生素E Vitamin E/(IU/kg)</td><td>酵母硒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Selenoyeast/(mg/kg)</td><td></td><td>37.96±1.40</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0 20</td><td>0 0</td><td>0.18±0.02 0.18±0.03</td><td>37.69±1.37</td><td>3.45±0.13</td><td>60.30±0.36 60.07±0.60</td><td>62.93±2.00 63.04±1.81</td><td>0.66±0.10 0.84±0.13</td><td>3.59±0.95</td></tr><tr><td>40</td><td>0</td><td>0.13±0.03</td><td>38.75±1.11</td><td>3.47±0.12 3.37±0.10</td><td>60.12±0.56</td><td>64.39±2.03</td><td>0.69±0.90</td><td>3.90±0.85</td></tr><tr><td>0</td><td>0.15</td><td>0.14±0.01</td><td>37.81±0.78</td><td>3.45±0.07</td><td>60.28±0.42</td><td>62.77±1.44</td><td>0.60±0.12</td><td>4.78±1.85</td></tr><tr><td>20</td><td>0.15</td><td>0.13±0.02</td><td>39.26±0.52</td><td>3.31±0.04</td><td>60.27±0.35</td><td>65.92±0.60</td><td>0.59±0.15</td><td>4.85±1.51 3.47±0.76</td></tr><tr><td>40</td><td>0.15</td><td>0.13±0.02</td><td>39.38±0.81</td><td>3.31±0.07</td><td>60.32±0.28</td><td>65.30±1.57</td><td>0.47±0.13</td><td></td></tr><tr><td>0</td><td>0.30</td><td>0.17±0.03</td><td>38.67±1.80</td><td>3.40±0.18</td><td>60.03±0.19</td><td>64.73±3.04</td><td>0.72±0.05</td><td>3.43±1.11</td></tr><tr><td>20</td><td>0.30</td><td>0.13±0.01</td><td>37.37±0.78</td><td>3.49±0.07</td><td>59.96±0.38</td><td>62.83±1.32</td><td>0.62±0.10</td><td>4.36±1.16</td></tr><tr><td>40</td><td>0.30</td><td>0.13±0.01</td><td>39.78±1.00</td><td>3.28±0.07</td><td>60.51±0.33</td><td>65.57±1.45</td><td>0.81±0.38</td><td>3.06±1.07 3.91±0.75</td></tr></table></body></html>
+
+<html><body><table><tr><td>维生素E</td><td>0</td><td>0.16±0.01</td><td>38.15±0.76</td><td>3.43±0.07</td><td>60.26±0.19</td><td>63.48±1.24</td><td>0.66±0.05</td><td>4.27±0.68</td></tr><tr><td></td><td></td><td></td><td>38.11±0.56</td><td>3.42±0.05</td><td>60.00±0.25</td><td>63.93±0.80</td><td>0.69±0.07</td><td>3.47±0.50</td></tr><tr><td>Vitamin E/(IU/kg)</td><td>20</td><td>0.15±0.01 0.13±0.01</td><td>39.31±0.54</td><td>3.32±0.05</td><td></td><td>65.15±0.93</td><td></td><td></td></tr><tr><td></td><td>40</td><td></td><td></td><td></td><td>60.31±0.22</td><td></td><td>0.66±0.14</td><td>4.04±0.73</td></tr><tr><td>酵母硒</td><td>0</td><td>0.16±0.06</td><td>38.13±0.71</td><td>3.43±0.06</td><td>60.16±0.28</td><td>63.45±1.07</td><td>0.73±0.08</td><td>4.09±0.72</td></tr><tr><td>Selenoyeast/(mg/kg)</td><td>0.15</td><td>0.14±0.04</td><td>38.82±0.42</td><td>3.36±0.04</td><td>60.29±0.19</td><td>64.66±0.77</td><td>0.55±0.07</td><td>3.92±0.65</td></tr><tr><td></td><td></td><td></td><td>38.61±0.73</td><td>3.39±0.07</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.30</td><td>0.14±0.06</td><td></td><td></td><td>60.17±0.18</td><td>64.44±1.17</td><td>0.72±0.13</td><td>3.78±0.56</td></tr><tr><td>变异来源 Source of variation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>维生素EVitamin E</td><td></td><td>0.133</td><td>0.315</td><td>0.301</td><td>0.792</td><td>0.484</td><td>0.973</td><td>0.670</td></tr><tr><td>酵母硒 Selenoyeast</td><td></td><td>0.241</td><td>0.739</td><td>0.670</td><td>0.899</td><td>0.673</td><td>0.354</td><td>0.942</td></tr><tr><td>维生素Ex酵母硒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vitamin Exselenoyeast</td><td></td><td>0.350</td><td>0.796</td><td>0.801</td><td>0.992</td><td>0.829</td><td>0.885</td><td>0.967</td></tr></table></body></html>
+
+同列数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+2 In the same column, values with the same or no letter superscripts mean no significant difference ( $\mathrm { \langle } P { > } 0 . 0 5 \mathrm { \rangle }$ , while with different small letter superscripts mean
+
+2.2饲粮维生素E和 Se 水平对黄羽肉种鸡蛋品质的影响
+
+由表3和表4可见，在试验第4周和第8周末，饲粮中维生素E和Se水平对黄羽肉种鸡的蛋长径、蛋短径、蛋白高度、蛋黄颜色、哈氏单位、蛋黄重、蛋壳重和蛋壳厚度均无显著影响（ $( P { > } 0 . 0 5 )$ ；饲粮中维生素E和Se水平对蛋品质无显著交互作用（ $( P { > } 0 . 0 5 )$ 。
+
+表3饲粮维生素E和Se水平对黄羽肉种鸡蛋品质的影响（第4周末）  
+Table 3Efects of dietary vitamin Eand Selevels onegg qualityof yellow-feathered broiler breeders at the end of the $4 ^ { \mathrm { t h } }$ week   
+
+<html><body><table><tr><td colspan="2">项目Items</td><td colspan="8"></td></tr><tr><td>维生素E</td><td>酵母硒</td><td>蛋长径</td><td>蛋短径</td><td>蛋白高度</td><td>蛋黄颜色</td><td>哈氏单位</td><td>蛋黄重</td><td>蛋壳重</td><td>蛋壳厚度</td></tr><tr><td>Vitamin</td><td> Selenoyeast</td><td>Egg long diameter/cm</td><td>Egg short diameter/cm</td><td>Albumen</td><td>Yolk color</td><td> Haugh unit</td><td>Yolk weight/g</td><td>Eggshell</td><td>Eggshell thickness/mm</td></tr><tr><td>E/(IU/kg)</td><td>/(mg/kg)</td><td></td><td></td><td>height/mm</td><td></td><td></td><td></td><td>weight/g</td><td></td></tr><tr><td>0</td><td>0</td><td>59.05±0.45</td><td>43.21±1.04</td><td>5.59±0.23</td><td>9.11±0.11</td><td>72.42±1.76</td><td>17.84±0.28</td><td>5.03±0.09</td><td>0.300±0.004</td></tr><tr><td>20</td><td>0</td><td>56.22±0.52</td><td>43.41±0.96</td><td>5.43±0.19</td><td>9.06±0.10</td><td>70.93±1.50</td><td>18.58±0.36</td><td>5.36±0.07</td><td>0.320±0.004</td></tr><tr><td>40</td><td>0</td><td>56.10±0.47</td><td>43.64±1.04</td><td>5.36±1.16</td><td>9.00±0.11</td><td>68.98±3.34</td><td>18.06±0.36</td><td>5.26±0.07</td><td>0.310±0.004</td></tr><tr><td>0</td><td>0.15</td><td>56.73±0.34</td><td>43.28±0.23</td><td>5.11±0.25</td><td>9.13±0.09</td><td>67.63±2.37</td><td>18.68±0.27</td><td>5.09±0.10</td><td>0.300±0.004</td></tr><tr><td>20</td><td>0.15</td><td>56.49±0.55</td><td>43.48±0.23</td><td>5.56±0.21</td><td>9.00±0.12</td><td>71.78±1.79</td><td>17.97±0.37</td><td>5.12±0.09</td><td>0.310±0.005</td></tr><tr><td>40</td><td>0.15</td><td>56.90±0.45</td><td>43.84±0.22</td><td>5.49±0.21</td><td>9.00±0.08</td><td>70.26±1.75</td><td>18.97±0.41</td><td>5.17±0.09</td><td>0.310±0.015</td></tr><tr><td>0</td><td>0.30</td><td>56.80±0.38</td><td>43.61±0.21</td><td>5.31±0.10</td><td>9.22±0.10</td><td>69.75±0.97</td><td>18.58±0.18</td><td>5.31±0.11</td><td>0.320±0.007</td></tr></table></body></html>
+
+表4饲粮维生素E和 Se水平对黄羽肉种鸡蛋品质的影响（第8周末）  
+
+<html><body><table><tr><td>20</td><td>0.30</td><td>57.24±0.44</td><td>43.40±0.23</td><td>5.57±0.17</td><td>9.00±0.00</td><td>71.64±1.46</td><td>18.39±0.34</td><td>5.17±0.06</td><td>0.300±0.004</td></tr><tr><td>40</td><td>0.30</td><td>56.23±0.43</td><td>43.22±1.17</td><td>5.09±0.20</td><td>9.00±0.08</td><td>68.31±1.56</td><td>17.92±0.38</td><td>5.07±0.10</td><td>0.300±0.005</td></tr><tr><td colspan="8">主效应 Main effect</td><td></td></tr><tr><td>维生素E</td><td>0</td><td>56.51±0.23</td><td>43.40±0.13</td><td>5.37±0.11</td><td>9.15±0.06</td><td>70.19±1.00</td><td>18.34±0.16</td><td>5.14±0.06</td><td>0.310±0.003</td></tr><tr><td>Vitamin</td><td>20</td><td>56.65±0.29</td><td>43.43±0.13</td><td>5.52±0.11</td><td>9.02±0.05</td><td>71.45±0.90</td><td>18.31±0.20</td><td>5.55±0.04</td><td>0.310±0.003</td></tr><tr><td>E/(IU/kg)</td><td>40</td><td>56.41±0.26</td><td>43.57±0.14</td><td>5.32±0.13</td><td>9.00±0.05</td><td>69.18±1.34</td><td>19.34±1.07</td><td>5.14±0.05</td><td>0.300±0.005</td></tr><tr><td>酵母硒</td><td>0</td><td>56.12±0.27</td><td>43.42±0.14</td><td>5.46±0.13</td><td>9.06±0.06</td><td>70.78±1.34</td><td>18.14±0.19</td><td>5.22±0.05</td><td>0.310±0.003</td></tr><tr><td>Selenoyeast/</td><td>0.15</td><td>56.68±0.26</td><td>43.57±0.13</td><td>5.41±0.13</td><td>9.04±0.05</td><td></td><td>18.51±0.22</td><td></td><td></td></tr><tr><td>(mg/kg)</td><td>0.30</td><td>56.76±0.24</td><td>43.41±0.14</td><td>5.32±0.10</td><td>9.07±0.04</td><td>70.12±1.11 69.90±0.79</td><td></td><td>5.13±0.05</td><td>0.310±0.005</td></tr><tr><td>变异来源 Source of variation</td><td></td><td></td><td></td><td></td><td></td><td></td><td>18.29±0.18</td><td>5.15±0.06</td><td>0.310±0.003</td></tr><tr><td colspan="8"></td><td></td><td></td></tr><tr><td>维生素E Vitamin E</td><td></td><td>0.812</td><td>0.655</td><td>0.792</td><td>0.101</td><td>0.348</td><td>0.429</td><td>0.495</td><td>0.209</td></tr><tr><td>酵母硒 Selenoyeast</td><td></td><td>0.170</td><td>0.640</td><td>0.899</td><td>0.892</td><td>0.841</td><td>0.416</td><td>0.481</td><td>0.465</td></tr><tr><td>维生素Ex酵母硒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="8"></td></tr><tr><td>Vitamin Exselenoyeast</td><td>0.578</td><td></td><td>0.596</td><td>0.584</td><td>0.672</td><td>0.677</td><td>0.187</td><td>0.100</td><td>0.124</td></tr></table></body></html>
+
+Table 4Efects of dietary vitamin Eand Se levels on egg qualityof yellow-feathered broiler breeders at the end of the $8 ^ { \mathrm { { t h } } }$ week   
+
+<html><body><table><tr><td colspan="2">项目Items</td><td colspan="8"></td></tr><tr><td>维生素E</td><td>酵母硒</td><td>蛋长径</td><td>蛋短径</td><td>蛋白高度</td><td>蛋黄颜色</td><td>哈氏单位</td><td>蛋黄重</td><td>蛋壳重</td><td>蛋壳厚度</td></tr><tr><td>Vitamin</td><td>Selenoyeast/</td><td>Egg long</td><td>Egg short</td><td>Albumen</td><td>Yolk color</td><td>Haugh unit</td><td>Yolk weight/g</td><td>Eggshell</td><td>Eggshell</td></tr><tr><td>E/(IU/kg)</td><td>(mg/kg)</td><td>diameter/cm</td><td>diameter/cm</td><td>height/mm</td><td></td><td></td><td></td><td>weight/g</td><td>thickness/mm</td></tr><tr><td>0</td><td>0</td><td>57.69±0.45</td><td>44.27±0.22</td><td>6.00±0.21</td><td>7.17±0.23</td><td>73.59±1.95</td><td>18.94±0.27</td><td>5.36±0.08</td><td>0.380±0.007</td></tr><tr><td>20</td><td>0</td><td>58.03±0.30</td><td>44.46±0.21</td><td>6.01±0.19</td><td>7.54±0.19</td><td>73.61±1.47</td><td>19.83±0.31</td><td>5.52±0.08</td><td>0.310±0.004</td></tr><tr><td>40</td><td>0</td><td>57.94±0.36</td><td>44.13±0.18</td><td>5.75±0.19</td><td>7.39±0.26</td><td>71.86±1.59</td><td>19.70±0.30</td><td>5.39±0.07</td><td>0.310±0.004</td></tr><tr><td>0</td><td>0.15</td><td>57.10±0.37</td><td>43.93±0.19</td><td>5.49±0.19</td><td>7.54±0.22</td><td>69.90±2.27</td><td>18.70±0.26</td><td>5.27±0.08</td><td>0.310±0.005</td></tr><tr><td>20</td><td>0.15</td><td>57.34±0.20</td><td>44.53±0.22</td><td>5.70±0.14</td><td>7.71±0.19</td><td>71.60±1.26</td><td>19.25±0.34</td><td>5.42±0.06</td><td>0.310±0.004</td></tr><tr><td>40</td><td>0.15</td><td>58.06±0.35</td><td>44.49±0.21</td><td>5.89±0.24</td><td>7.46±0.22</td><td>72.62±1.25</td><td>19.42±0.25</td><td>5.31±0.09</td><td>0.300±0.005</td></tr><tr><td>0</td><td>0.30</td><td>57.89±0.35</td><td>44.32±0.21</td><td>5.50±0.19</td><td>7.74±0.22</td><td>67.16±3.01</td><td>19.46±0.21</td><td>5.48±0.09</td><td>0.310±0.005</td></tr><tr><td>20</td><td>0.30</td><td>57.28±0.35</td><td>44.25±0.23</td><td>5.54±0.17</td><td>7.38±0.23</td><td>69.55±2.14</td><td>19.41±0.29</td><td>5.33±0.09</td><td>0.300±0.005</td></tr><tr><td>40</td><td>0.30</td><td>57.83±0.32</td><td>45.00±0.62</td><td>5.70±0.17</td><td>7.48±0.23</td><td>71.50±1.31</td><td>18.78±0.29</td><td>5.32±0.08</td><td>0.300±0.004</td></tr></table></body></html>
+
+主效应 Main effect
+
+<html><body><table><tr><td>维生素E</td><td>0</td><td>57.56±0.23</td><td>44.17±0.12</td><td>5.66±0.11</td><td>7.48±0.13</td><td>70.26±1.42</td><td>19.03±0.15</td><td>5.37±0.05</td><td>0.330±0.023</td></tr><tr><td>Vitamin</td><td>20</td><td>57.55±0.17</td><td>44.41±0.13</td><td>5.75±0.12</td><td>7.54±0.12</td><td>71.59±0.97</td><td>19.47±0.18</td><td>5.42±0.04</td><td>0.310±0.003</td></tr><tr><td>E/(IU/kg)</td><td>40</td><td>57.95±0.26</td><td>44.54±0.23</td><td>5.78±0.10</td><td>7.44±0.13</td><td>72.00±0.79</td><td>19.33±0.17</td><td>5.34±0.05</td><td>0.300±0.003</td></tr><tr><td>酵母硒</td><td>0</td><td>57.89±0.21</td><td>44.29±0.12</td><td>5.92±0.11</td><td>7.37±0.13</td><td>73.04±0.97</td><td>19.49±0.17</td><td>5.42±0.04</td><td>0.330±0.023</td></tr><tr><td> Selenoyeast/</td><td>0.15</td><td>57.50±0.19</td><td>44.32±0.12</td><td>5.69±0.10</td><td>7.57±0.12</td><td>71.38±0.96</td><td>19.12±0.17</td><td>5.34±0.04</td><td>0.310±0.003</td></tr><tr><td>(mg/kg)</td><td>0.30</td><td>57.67±0.20</td><td>44.52±0.23</td><td>5.58±0.11</td><td>7.53±0.13</td><td>69.41±1.30</td><td>19.22±0.16</td><td>5.37±0.05</td><td>0.310±0.003</td></tr><tr><td>变异来源 Source of variation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>维生素 E Vitamin E</td><td></td><td>0.279</td><td>0.274</td><td>0.738</td><td>0.856</td><td>0.503</td><td>0.146</td><td>0.431</td><td>0.293</td></tr><tr><td>酵母硒 Selenoyeast</td><td></td><td>0.391</td><td>0.547</td><td>0.077</td><td>0.487</td><td>0.064</td><td>0.262</td><td>0.406</td><td>0.279</td></tr><tr><td>维生素Ex酵母硒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Vitamin Exselenoyeast</td><td>0.386</td><td>0.354</td><td>0.322</td><td>0.756</td><td>0.289</td><td>0.052</td><td>0.398</td><td>0.457</td></tr></table></body></html>
+
+2.3饲粮维生素E和 Se水平对黄羽肉种鸡种蛋孵化性能的影响由表5可见，饲粮中维生素E和Se水平对黄羽肉种鸡健雏出壳重、孵化率、弱雏率和  
+受精率均无显著影响（ $( P { > } 0 . 0 5 )$ ；饲粮中维生素E和Se水平对种蛋孵化性能无显著交互作用中 $( P { > } 0 . 0 5 )$ 。
+
+# 表5饲粮维生素E和 Se水平对黄羽肉种鸡种蛋孵化性能的影响
+
+Table 5Effects of dietary vitamin E and Se levels on egg hatching performance of   
+
+<html><body><table><tr><td colspan="2">128</td><td colspan="3">yellow-feathered broilerbreeders</td><td></td></tr><tr><td colspan="2">项目Items</td><td>健雏出壳重</td><td>孵化率</td><td>弱雏率</td><td>受精率</td></tr><tr><td>维生素E Vitamin E/(IU/kg)</td><td>酵母硒</td><td>Healthy chick</td><td>Hatchability/%</td><td>Altricial</td><td>Fertilization</td></tr><tr><td>5 8 20 D ■ 40 N0</td><td>Selenoyeast/(mg/kg)</td><td>birth weight/g</td><td></td><td>rate%</td><td>rate/%</td></tr><tr><td rowspan="10">20 【 40 IXI eui 20 40</td><td>0</td><td>42.41±0.42</td><td>85.58±2.26</td><td>1.60±0.77</td><td>94.55±2.78</td></tr><tr><td>0</td><td>42.02±0.39</td><td>89.42±1.47</td><td>0.96±0.43</td><td>96.79±1.07</td></tr><tr><td>0</td><td>42.14±0.36</td><td>87.18±2.31</td><td>0.64±0.41</td><td>98.08±0.86</td></tr><tr><td>0.15</td><td>42.07±0.38</td><td>83.97±3.09</td><td>0.96±0.66</td><td>97.12±1.29</td></tr><tr><td>0.15</td><td>41.52±0.22</td><td>87.82±3.24</td><td>1.28±0.64</td><td>98.08±1.22</td></tr><tr><td>0.15</td><td>42.62±0.38</td><td>80.45±3.20</td><td>1.92±0.70</td><td>94.87±1.54</td></tr><tr><td>0.30</td><td>42.19±0.23</td><td>88.46±0.99</td><td>0.96±0.43</td><td>95.19±0.66</td></tr><tr><td>0.30</td><td>42.02±0.43</td><td>83.33±2.26</td><td>0.96±0.66</td><td>98.40±0.59</td></tr><tr><td>0.30</td><td>42.24±0.19</td><td>84.29±2.78</td><td>1.28±0.41</td><td>95.83±1.35</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>主效应 Main effect</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>维生素E</td><td>0</td><td>42.22±0.19</td><td>84.62±1.60</td><td>1.18±0.35</td><td>95.62±1.01</td></tr><tr><td>Vitamin E/(IU/kg)</td><td>20</td><td>41.85±0.20</td><td>85.47±1.57</td><td>1.07±0.32</td><td>97.76±0.56</td></tr><tr><td></td><td>40</td><td>42.33±0.18</td><td>82.59±1.88</td><td>1.28±0.31</td><td>96.26±0.77</td></tr><tr><td>酵母硒</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Selenoyeast/(mg/kg)</td><td>0</td><td>42.19±0.22</td><td>86.43±1.34</td><td>1.07±0.32</td><td>96.47±1.03</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.15</td><td>42.07±0.21</td><td>82.16±2.11</td><td>1.39±0.37</td><td>96.69±0.80</td></tr><tr><td></td><td>0.30</td><td>42.15±0.16</td><td>84.08±1.41</td><td>1.07±0.28</td><td>96.47±0.61</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>维生素EVitamin E</td><td>0.196</td><td>0.468</td><td>0.167</td><td>0.900</td></tr><tr><td>酵母硒 Selenoyeast</td><td>0.904</td><td>0.200</td><td>0.978</td><td>0.727</td></tr><tr><td>维生素Ex酵母硒</td><td></td><td></td><td></td><td></td></tr><tr><td>Vitamin Exselenoyeast</td><td>0.549</td><td>0.578</td><td>0.596</td><td>0.584</td></tr></table></body></html>
+
+2.4饲粮维生素E和Se水平对黄羽肉种鸡血浆生化指标的影响
+
+由表6可见，饲粮中维生素E水平对黄羽肉种鸡血浆MDA含量有显著影响( $( P { < } 0 . 0 5 )$ 随饲粮中维生素E水平的升高血浆MDA含量呈降低趋势，其中维生素E水平为 $4 0 \mathrm { I U / k g }$ 时血浆MDA含量显著低于 $0 \mathrm { { I U / k g } }$ 时（ $_ { . } P { < } 0 . 0 5 )$ 。饲粮中维生素E和 Se水平对黄羽肉种鸡血浆MDA含量有显著交互作用（ $. P { < } 0 . 0 5 .$ )，其中 $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 }$ 组的血浆MDA含量显著低于VEoSeo.15 和 $\mathrm { V E 0 S e _ { 0 . 3 0 } }$ 组（ $\scriptstyle \cdot < 0 . 0 5 )$ ）°
+
+# 表6饲粮维生素E和Se水平对黄羽肉种鸡血浆生化指标的影响
+
+Table 6Effects of dietary vitamin E and Se levels on biochemical parameters in plasma of yellow-feathered broiler breeders   
+
+<html><body><table><tr><td colspan="2">J</td><td colspan="2"></td></tr><tr><td colspan="2">项目Items</td><td>丙二醛</td><td>超氧化物歧化酶</td></tr><tr><td>维生素E</td><td>酵母硒</td><td>MDA/(nmol/mL)</td><td>T-SOD/(U/mL)</td></tr><tr><td>Vitamin E/(IU/kg) Selenoyeast/(mg/kg)</td><td colspan="3"></td></tr><tr><td>0</td><td>0</td><td>4.34±0.28ab</td><td>130.85±6.60</td></tr><tr><td>20</td><td>0</td><td>3.97±0.27ab</td><td>133.98±6.36</td></tr><tr><td>40</td><td>0</td><td>2.72±0.25b</td><td>123.32±4.36</td></tr><tr><td>0</td><td>0.15</td><td>5.23±0.59a</td><td>141.37±6.52</td></tr><tr><td>20</td><td>0.15</td><td>4.56±0.59ab</td><td>132.71±9.52</td></tr><tr><td>40</td><td>0.15</td><td>3.47±0.48ab</td><td>148.88±3.85</td></tr><tr><td>0</td><td>0.30</td><td>5.15±0.76a</td><td>144.97±4.48</td></tr><tr><td>20</td><td>0.30</td><td>3.87±0.29ab</td><td>130.62±6.31</td></tr><tr><td>40</td><td>0.30</td><td>4.04±0.64ab</td><td>135.05±6.12</td></tr></table></body></html>
+
+<html><body><table><tr><td>维生素E 0</td></tr><tr><td>4.91±0.33a 139.30±3.46 Vitamin E/(IU/kg)</td></tr><tr><td>20 3.98±0.26ab 126.19±5.91</td></tr><tr><td>40 3.55±0.31b 135.11±3.76</td></tr><tr><td>酵母硒</td></tr><tr><td>0 3.67±0.24 128.43±3.47 Selenoyeast/(mg/kg)</td></tr><tr><td>0.15 4.42±0.33 138.41±5.31</td></tr><tr><td>0.30 4.35±0.18 133.55±4.77</td></tr><tr><td>变异来源 Source of variation</td></tr><tr><td>维生素EVitamin E 0.006 0.118</td></tr><tr><td>酵母硒 Selenoyeast 0.168 0.314</td></tr><tr><td>维生素Ex酵母硒 0.019 0.160</td></tr><tr><td>Vitamin Exselenoyeast</td></tr></table></body></html>
+
+2.5饲粮维生素E和 Se水平对黄羽肉种鸡蛋中维生素E和 Se含量的影响
+
+由表7可见，随饲粮中维生素E和 Se水平的升高，黄羽肉种鸡蛋中维生素E和 Se 含量显著增加（ $P { < } 0 . 0 5 \$ ；饲粮中维生素E和Se水平对蛋中维生素E和Se含量有显著交互作用（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { } \ .$ ）。
+
+# 表7饲粮维生素E和Se水平对黄羽肉种鸡蛋中维生素E和Se含量的影响
+
+Table 7Effects of dietary vitamin E and Se levels on vitamin E and Se contents in egg of   
+
+<html><body><table><tr><td colspan="4">yellow-featheredbroilerbreeders</td></tr><tr><td>项目Items</td><td></td><td>维生素E</td><td>硒</td></tr><tr><td>维生素E</td><td>酵母硒</td><td>Vitamin E/(mg/kg)</td><td>Selenium/(mg/kg)</td></tr><tr><td>Vitamin E/(IU/kg)</td><td>Selenoyeast/(mg/kg)</td><td></td><td></td></tr><tr><td>0</td><td>0</td><td>6.16±0.99b</td><td>1.03±0.05b</td></tr><tr><td>40</td><td>0</td><td>29.30±2.12a</td><td>1.05±0.04b</td></tr><tr><td>0</td><td>0.30</td><td>9.86±0.98b</td><td>1.49±0.08a</td></tr><tr><td>40</td><td>0.30</td><td>27.83±2.79a</td><td>1.41±0.07a</td></tr></table></body></html>
+
+<html><body><table><tr><td>主效应 Main effect</td></tr><tr><td>维生素E</td></tr><tr><td>0 8.01±0.87b 1.26±0.08 Vitamin E/(IU/kg)</td></tr><tr><td></td></tr><tr><td>40 28.57±1.60a 1.23±0.07</td></tr><tr><td>酵母硒</td></tr><tr><td>0 17.73±3.66 1.04±0.03b Selenoyeast/(mg/kg)</td></tr><tr><td></td></tr><tr><td>0.30 18.85±3.05 1.45±0.05a</td></tr><tr><td>变异来源 Source of variation</td></tr><tr><td>维生素EVitamin E <0.001 0.782</td></tr><tr><td>酵母硒 Selenoyeast 0.816 <0.001</td></tr><tr><td>维生素Ex酵母硒</td></tr><tr><td><0.001 <0.001 Vitamin Exselenoyeast</td></tr></table></body></html>
+
+3讨论
+
+3.1饲粮维生素E和Se水平对黄羽肉种鸡产蛋性能的影响
+
+蔡娟等[15]发现，海兰褐蛋鸡饲喂不同水平酵母硒饲粮对产蛋率、平均蛋重和料蛋比均无显著影响。研究也发现，北京油鸡和罗曼粉杂交产蛋母鸡饲喂 $0 . 3 { \sim } 5 . 0 \mathrm { m g / k g }$ 酵母硒饲粮对产蛋性能无显著影响[16]。在大恒种鸡和来航鸡的研究中也发现饲粮中 Se水平对种鸡产蛋性能无显著影响[17-18]。以上研究结果说明饲粮中 Se 水平对种鸡的产蛋性能无显著影响，与本试验结果相一致。呙于明等[19]研究发现,饲粮中添加不同水平的维生素E(4、14和 $2 4 \mathrm { m g / k g ) }$ 对产蛋种母鸡的产蛋性能无显著影响。张宏馨等[20]研究发现，给海兰褐种母鸡饲喂0\~320IU/kg 维生素E饲粮，发现160 和320 IU/kg维生素E可显著提高产蛋率，而 $0 { \sim } 8 0 \mathrm { \Pi U / k g }$ 维生素E对产蛋性能无显著影响。以上研究结果说明，高剂量维生素E对母鸡的产蛋率有提高作用，但低剂量维生素E对母鸡的产蛋性能无显著影响。本试验结果显示，饲粮中添加不同水平的维生素E对黄羽肉种鸡的产蛋性能无显著影响，分析原因可能是本试验中维生素E 的添加水平相近于《鸡饲养标准》 (NY/T33—2004)的推荐水平 $( 2 7 \mathrm { I U } / \mathrm { k g } )$ ，未表现出高剂量维生素E对产蛋性能的提高作用。
+
+3.2饲粮维生素E和 Se水平对黄羽肉种鸡蛋品质和蛋中维生素E和Se 沉积量的影响本试验结果显示，饲粮不同水平维生素E和Se对黄羽肉种鸡的蛋品质无显著影响，但对蛋中维生素E和 Se 的沉积量有显著影响，随饲粮中维生素E 和 Se 水平的升高，蛋中维生素E和 Se含量显著增加。谭芳等[21研究发现，饲粮中添加 $1 . 0 { \sim } 2 . 0 \ \mathrm { m g / k g \ S e }$ 和 83.32\~166.64IU/kg 维生素E对蛋鸡的蛋重无显著影响,但是显著增加了Se 和维生素E在蛋中的沉积量。研究也发现，蛋鸡饲粮中添加不同水平的酵母硒对蛋品质无显著影响，但显著提高了蛋黄中Se 含量[22-25]。研究认为，饲粮中添加不同水平的维生素E 对种鸡的蛋黄颜色、哈氏单位、蛋壳厚度和蛋壳重均无显著影响，但能增加蛋黄中维生素 E 的沉积量[26-27]。本试验结果提示，提高饲粮维生素E和Se水平可以提高蛋中维生素E和Se 的含量。
+
+3.3饲粮维生素E和Se水平对黄羽肉种鸡种蛋孵化性能的影响
+
+研究发现，饲粮中添加0、20、40、80和160 IU/kg 维生素E对蛋鸡的孵化率、受精率和后代鸡的出壳重无显著影响，当维生素E添加水平达到320IU/kg 时，可显著提高种蛋受精率和孵化率[20];肉种母鸡饲粮中添加 $1 0 0 \mathrm { I U / k g }$ 维生素E能够提高雏鸡出壳重[28]。Wahyuni等[29]报道，饲粮中添加维生素E可以提高母鸡种蛋的孵化率。但有研究认为，种鸡饲粮中添加 $3 0 \mathrm { m g / k g }$ 维生素E能够提高种蛋受精率，但是对孵化率和雏鸡出壳重并无显著影响[30]。以上研究结果说明，维生素E 在高剂量添加时能够提高种蛋的孵化性能，而本试验中维生素 E 的添加水平并不高，所以对种蛋的孵化性能无显著影响，这一点与产蛋性能的结果相似。本试验中，饲粮添加不同水平Se对种蛋的孵化性能无显著影响。张福平等[31研究发现，贵州黄母鸡饲粮中添加 $0 . 5 \mathrm { m g / k g }$ 有机硒对受精率和孵化率无显著影响。但有研究报道认为，饲粮中添加总 Se量达到 $0 . 9 { \sim } 1 . 3 \ \mathrm { m g / k g }$ 可显著提高种蛋的受精率和出雏率[32]。还有研究发现，当饲粮中蛋氨酸硒的添加水平超过 $0 . 2 5 \mathrm { m g / k g }$ 时，种蛋的孵化性能随蛋氨酸硒添加水平的增加而降低[17]。综合以上研究报道结果，Se对于种蛋孵化性能影响的研究结果并不一致，可能与种鸡的品种、周龄、饲养条件和Se的来源不同有关。
+
+3.4饲粮维生素E和Se水平对黄羽肉种鸡血浆生化指标的影响
+
+维生素E能够增强体内抗氧化酶的活性，保护细胞膜免受自由基的损伤从而有效提高家禽机体的抗氧化功能[33-34]。Se不仅能够作为抗氧化酶系的组成成分，提高谷胱甘肽过氧化物酶(GSH-Px)和过氧化氢酶(CAT)的活性从而发挥抗氧化作用，同时可以通过直接清除血液中的自由基来抵抗自由基对机体的损伤作用[35-37]。本试验结果显示，饲粮中维生素E 水平对黄羽肉种鸡血浆MDA含量有显著影响，随饲粮维生素E水平的升高血浆MDA含量呈降低趋势，且饲粮中维生素E和Se水平对血浆MDA含量有显著交互作用。研究报道，饲粮中添加维生素 E 能够提高机体 T-SOD 和GSH-Px 的活性，降低 MDA的含量[38-39]。还有研究则认为在冷应激或者免疫应激状态下，饲粮中添加维生素E缓解应激作用显著[6.40]。本试验结果提示，提高饲粮中维生素E水平能够降低血浆MDA含量，从而缓解黄羽肉种鸡的氧化应激。
+
+# 3.5黄羽肉种鸡维生素E和 Se 需要量探讨
+
+本试验结果显示，饲粮中添加0、20、40IU/kg 维生素E对黄羽肉种鸡的产蛋性能、蛋品质和种蛋孵化性能均无显著影响，说明饲粮中不添加维生素E对黄羽肉种鸡的产蛋性能、蛋品质和种蛋孵化性能并无负面影响。目前有关维生素E 在种鸡或者蛋鸡上的研究，大多为过量添加维生素E会影响产蛋性能和孵化性能，而完全不添加维生素E 的研究报道则较少。张宏馨等[20]研究发现，饲粮中添加0、20、40、80、160 和 $3 2 0 \mathrm { m g / k g }$ 维生素E，其中0、20、40mg/kg 维生素E对产蛋性能无显著影响， $\mathrm { 0 { \sim } 1 6 0 ~ m g / k g }$ 维生素E对孵化性能无显著影响。韩慕俊[4I研究认为，蛋鸡饲粮中维生素 E 的需要量在无应激因素存在时是很低的，若免疫应激的强度不大且持续时间不长，只能导致一段时间内采食量的下降，对产蛋性能无显著影响。分析原因为：1）维生素E 是脂溶性维生素，而脂溶性维生素可在体内大量贮存，且脂溶性维生素排泄的速度缓慢。在本试验开始前，试验用黄羽肉种鸡饲喂的饲粮符合《鸡饲养标准》(NY/T33—2004)营养需要，维生素E充足且在体内有一定的贮存量。2）维生素E 的主要作用是抗氧化和促进生殖器官发育，随着种鸡年龄的增长，机体自身的抵抗力增加，生殖器官也发育成熟，种鸡通过维生素E 增加机体免疫力而提高产蛋性能的作用减弱。研究结果也显示，只有在种鸡或蛋鸡处于应激状态下，维生素E 缓解应激的作用才显著[42-43]。本试验饲粮中添加0、0.15、0.30 mg/kg Se 对黄羽肉种鸡的产蛋性能、蛋品质和种蛋孵化性能均无显著影响，说明饲粮中不添加 Se 对黄羽肉种鸡的产蛋性能、蛋品质和种蛋孵化性能并无负面影响。美国 NRC(1994)确定肉种母鸡的 Se 最低需要量为 $0 . 0 5 \mathrm { \ m g / k g }$ ，而本试验基础饲粮中 Se含量为 $0 . 1 2 \mathrm { m g / k g }$ ，说明用非缺 Se地区生产出的饲料原料配制而成的饲粮中 Se 含量已经达到黄羽肉种鸡的需求量。在实际养殖生产中，Se 缺乏症也主要发生在肉鸡
+
+生长过程中，对于开产种鸡 Se缺乏症少有发现，所以种鸡处于正常的生理状态下，普通的玉米-豆粕型饲粮(非缺Se地区饲料原料)中Se含量已经可以满足需求量。
+
+饲粮中微量元素主要由原料中的微量元素和添加的微量元素2部分组成，但是实际生产中往往忽略了原料中的微量元素，从而引起了微量元素的过量添加，既造成微量元素的浪费和饲粮成本的增加，同时还给环境带来了污染。目前已有许多研究开始关注微量元素的过量添加问题和基础饲粮中微量元素的含量[44-46]。本试验基础饲粮中含维生素] $\vec { \mathrm { \Omega } } 3 . 1 9 \mathrm { m g / k g }$ 、Se0.12 mg/kg，与其他添加维生素E 和 Se的试验组相比，产蛋性能、蛋品质和种蛋孵化性能均无显著差异。因此，在无任何应激因素刺激和不使用 Se缺乏地区饲料原料的情况下，玉米-豆粕型基础饲粮中的维生素E和Se 含量已经能满足黄羽肉种鸡的需要量。4结论综合所有试验结果，维生素E可以提高黄羽肉种鸡的抗氧化水平，饲粮中维生素E 和Se 水平可以显著影响蛋中维生素E和 Se 的含量；建设在无任何应激因素刺激和不使用 Se缺乏地区饲料原料的情况下，黄羽肉种鸡的玉米-豆粕型饲粮可以不用额外添加维生素E 和Se。参考文献:[1] SALARY J,SAHEBI-ALA F,KALANTAR M,et al.In ovo injection of vitamin E on post-hatchimmunological parameters and broiler chicken performance[J].Asian Pacific Journal of TropicalBiomedicine,2014,4(Suppl.2):S616-S619.[2] HSIEH CL,CHEN K C,LIN P X,et al.Resveratrol and vitamin E rescue valproic acid-inducedteratogenicity:the mechanism of action[J].Clinical and Experimental Pharmacology andPhysiology,2014,41(3):210-219.[3] 郭小虎,张宏馨,陈辉,等.维生素E 对蛋种鸡卵巢等级前颗粒细胞增殖的影响[J].中国家禽,2013,35(4):10-13.[4]FERGUSON L R,LAING W A.Chronic inflammation,mutation and human disease[J].MutationResearch/Fundamental and Molecular Mechanisms of Mutagenesis,2O10,690(1/2):1-2.[5]WU R J,ZHAN X A,WANG Y X,et al.Effect of different selemethionine forms and levels onperformance of breeder hens and Se distribution of tissue and egg inclusion[J].Biological Trace
+
+Element Research,2011,143(2):923-931.   
+[6] 张大为.饲粮添加VE 和硒对固始鸡生长、免疫和抗氧化机能的影响[D].硕士学位论文.郑 州:河南农业大学,2013:18-19.   
+[7] 朱翠,蒋宗勇,蒋守群,等.日粮代谢能和蛋白质水平对30\~39 周龄岭南黄羽肉种鸡繁殖性能 的影响[J].中国农业科学,2012,45(1):159-169.   
+[8] 洪平,周桂莲,蒋守群,等.饲粮钙水平对49\~56 周龄黄羽肉种鸡繁殖性能和胫骨性能的影响 [J].动物营养学报,2013,25(2):310-318.   
+[9] 蒋守群,蒋宗勇,郑春田,等.饲粮非植酸磷水平对 39\~46 周龄黄羽肉种母鸡繁殖性能、胫骨 指标和血浆生化指标的影响[J].动物营养学报,2015,27(2):559-568.   
+[10] 李龙,蒋守群,苟钟勇,等.不同锌添加水平对黄羽肉种鸡生产性能、孵化性能和血清抗氧 化性能的影响[C]//营养与饲料:第十七次全国家禽学术讨论会论文集.重庆:中国畜牧兽医学 会家禽学分会,2015:39.   
+[11] 阮栋,周桂莲,蒋守群,等.饲粮赖氨酸水平对 60\~67 周龄黄羽肉种鸡产蛋性能、蛋品质、 血液生化及孵化性能的影响[C]//动物营养与产品安全(禽):第十一次全国动物营养学术研讨 会论文集.长沙:中国畜牧兽医学会动物营养学分会,2012:138.   
+[12] 洪平,蒋守群,胡友军,等.46\~53 周龄黄羽肉种鸡蛋氨酸需要量研究[J].中国畜牧杂 志,2013,49(23):31-35.   
+[13] 林厦菁,蒋守群,苟钟勇,等.饲粮异亮氨酸水平对黄羽肉种母鸡生产性能、血液生化指标 的影响[C]//家禽饲料营养:第七届中国饲料营养学术研讨会论文集.郑州:中国畜牧兽医学会 动物营养学分会,2014:388.   
+[14] CHEN F,JIANG Z Y,JIANG S Q,et al.Dietary vitamin A supplementation improved   
+reproductive performance by regulating ovarian expression of hormone receptors,caspase-3 and Fas in broiler breeders[J].Poultry Science,2016,95(1):30-40.   
+[15] 蔡娟,卢建,施寿荣,等.酵母硒和亚硒酸钠对蛋鸡生产性能、蛋品质和蛋硒含量的影响[J]. 动物营养学报,2014,26(12):3793-3798.   
+[16] 崔国强,王海宏,初芹,等.不同硒源及硒水平对产蛋鸡生产性能和蛋品质的影响[J].中国畜 牧兽医,2012,39(9):98-101. [17] 余丹,邹成义,殷勤,等.蛋氨酸硒对大恒肉种鸡繁殖性能的影响[J].动物营养学   
+报,2014,26(11):3414-3419.   
+[18] PATTON N D.Organic selenium in the nutrition of laying hens:effects on egg selenium content,egg quality and transfer to developing chick embryo[D].Ph.D.Thesis.Lexington:University of Kentucky,2000:12-18.   
+[19] 呙于明,袁建敏.产蛋种鸡日粮中不同水平维生素E 与有机和无机硒的效果研究[J].中国 畜牧杂志,1998,34(5):10-12.   
+[20] 张宏馨.维生素E对种母鸡繁殖性能的影响及其机理研究[D].博士学位论文.保定:河北农 业大学,2013.   
+[21] 谭芳,李荣文,范石军.硒和维生素E对蛋鸡生产性能及其在蛋中沉积的影响[J].饲料博 览,1997(2):3-6.   
+[22] 何柳青,魏艳红,汪加明,等.酵母硒对绿壳蛋鸡生产性能、蛋品质、抗氧化能力及蛋黄硒 含量的影响[J].中国饲料,2012(11):26-29.   
+[23]王宏祥,潘翠玲,王昕,等.富硒酵母对蛋鸡生产性能、全血GPX活性和鸡蛋硒含量的影响 [J].天津农学院学报,2013,20(3):19-21.   
+[24] PAPPAS A C,KARADAS F,SURAI P F,et al.The selenium intake of the female chicken influences the selenium status of her progeny[J].Comparative Biochemistry and Physiology Part B:Biochemistry and Molecular Biology,2005,142(4):465-474.   
+[25] PAN C L,ZHAO Y X,LIAO S Fet al.Efect of selenium-enriched probiotics on laying performance,egg quality,egg selenium content,and egg glutathione peroxidase activity[J].Journal of Agricultural and Food Chemistry,2011,59(21):11424-11431.   
+[26] MOHITI-ASLI M,SHARIATMADARI F,LOTFOLLAHIAN H,et al.Effects of   
+supplementing layer hen diets with selenium and vitamin Eon egg quality,lipid oxidation and fatty acid composition during storage[J].Canadian Journal of Animal Science,2Oo8,88(3):475-483. [27] ASLI M M,HOSSEINI S A,LOTFOLLAHIAN H,et al.Effect of probiotics,yeast,vitamin E and vitamin C supplements on performance and immune response of laying hen during high environmental temperature[J].International Journal of Poultry Science,2OO7,6(12):895-900. [28] 安胜英,呙于明,孙秋娟,等.种鸡日粮中多不饱和脂肪酸和维生素E对种蛋品质及后代仔 鸡生理特征的影响[C]//第六次全国饲料营养学术研讨会论文集.北京:中国畜牧兽医学 会,2010.   
+[29] WAHYUNI H 1,SUTHAMA N,MANGISAH I,et al.Egg quality and hatchability of in situ-reared Kedu and Cemani hens fed diet of farmer formulation supplemented with vitamin E[J].Journal of the Indonesian Tropical Animal Agriculture,2O11,36(1):61-68.   
+[30] IRIYANTI N,ZUPRIZAL Z,YUWANTA T,et al.The effect of vitamin E supplementation in ration containing manhadden fish oil and kernel palm oil on fertility,hatchability and hatch weight of native chicken's eggs[J].Animal Production,2007,9(1):1256-1258.   
+[31]张福平,华时尚,傅筑荫.添加有机硒对种鸡繁殖性能和蛋品质的影响[J].贵州畜牧兽 医,2007,31(5):4–5.   
+[32] 崔国强.富硒饲料对种鸡繁殖性能及鸡蛋品质的影响[D].硕士学位论文.邯郸:河北工程 大学,2012.   
+[33] MOEINI M M,JALILIAN M T.Efect of selenium and vitamin E injection during late pregnancy on immune system and productive performances of Sanjabi ewes and their   
+lambs[J].Global Journal of Animal Scientific Research,2014,2(3):210-219.   
+[34] POMPEU M A,BAIAO N C,LARA L J C,et al.Effect of vitamin E supplementation on the performance of broiler chickens[J].Arquivo Brasileiro de Medicina Veterinaria e   
+Zootecnia,2015,67(2):506-510.   
+[35] FERGUSON L R.Chronic inflammation and mutagenesis[J].Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis,2010,690(1/2):3-11.   
+[36] LIU S,XU F P,YANG Z J,et al.Cadmium-induced injury and the ameliorative effects of selenium on chicken splenic lymphocytes:mechanisms of oxidative stress and   
+apoptosis[J].Biological Trace Element Research,2014,160(3):340-351.   
+[37] ZIA M W,KHALIQUE A,NAVEED S,et al.Impact of selenium supplementation on   
+productive performance and egg selenium status in native Aseel chicken[J].Italian Journal of Animal Science,2016,15(4):649-657. [38] 吴迪.天然VE及合成VE 对蛋鸡抗氧化及繁殖性能的影响[D].硕士学位论文.南京:南京 农业大学,2009.   
+[39] 王晓霞,滑静,杨佐君,等.VC及VE对热应激蛋鸡生产性能及抗氧化功能的影响[J].北京农 学院学报,2000,15(4):37-40.   
+[40] 庞婧.低温及维生素E对笼养蛋雏鸭生产及生化指标的影响[D].哈尔滨：东北农业大 学,2007.   
+[41] 韩慕俊.日粮维生素E水平对蛋鸡免疫应激的影响[D].硕士学位论文.北京:中国农业科学 院,2008.   
+[42] 石慧芹,周建川,马秋刚,等.酵母硒和维生素E对氧化应激状态蛋鸡抗氧化能力的影响[J]. 中国畜牧杂志,2013,49(21):37-40.   
+[43] PANDA A K,RAMARAO S V,RAJU M V L N,et al.Effect of dietary supplementation with vitamins E and C on production performance,immune responses and antioxidant status of White Leghorn layers under tropical summer conditions[J].British Poultry Science,2OO8,49(5):592-599. [44] 濮振宇.肉鸡日粮铜、铁、锌、锰优化供给方案初探[D].硕士学位论文.杨凌:西北农林科 技大学,2016.   
+[45] GAJULA S S,CHELASANI V K,PANDA A K,et al.Effect of supplemental inorganic Zn and Mn and their interactions on the performance of broiler chicken,mineral bioavailability,and immune response[J].Biological Trace Element Research,2011,139(2):177-187.   
+[46] 罗晓容,吴兵,张继杰,等.如何体现微量元素预混料的有效性和安全性[J].饲料与畜 牧,2014(10):51-55.   
+Effects of Dietary Vitamin E and Selenoyeast on Laying Performance, Hatching Performance and Vitamin E and Selenium Deposition in Egg of Yellow-Feathered Broiler Breeders LIN Xiajing JIANG Shouqun\* LI Long CHEN Fang GOU Zhongyong WU Qiwen FAN Qiuli JIANG Zongyong\*
+
+\*Corresponding authors: JIANG Shouqun, professor, Email: jsqun310o@hotmail.com; JIANG Zongyong, professor, E-mail: jiangz38 @hotmail.com (责任编辑李慧英)
+
+(Guangdong Key Laboratory of Animal Breeding and Nutrition/Guangdong Public Laboratory ofAnimal Breeding and Nutrition, The Key Laboratory ofAnimal Nutrition and Feed Science (South China) of Ministry of Agriculture, State Key Laboratory of Livestock and Poultry Breeding, Institute of Animal Science, Guangdong Academy of Agricultural Sciences, Guangzhou 510640, China)
+
+Abstract: The effects of dietary vitamin E (VE) and selenoyeast on laying performance, hatching performance and vitamin E and selenium (Se） deposition in egg of yellow-feathered broiler breeders were studied.A $3 { \times } 3$ double factorial design with three levels of vitamin E (O,20,40 IU/kg） and three levels of Se $( 0 , \ 0 . 1 5 , \ 0 . 3 0 \ \mathrm { m g / k g } )$ was used. Eight hundred and sixty four 32-week-old fast-growing Lingnan yelow-feathered parental broiler breeder hens were randomly assigned to nine groups with six replicates per group and sixteen hens per replicate according the similar laying rate and body weight. The nine groups were $\mathrm { V E } _ { 0 } \mathrm { S e } _ { 0 }$ group, $\mathrm { V E } _ { 0 } \mathrm { S e } _ { 0 . 1 5 }$ group, VEoSe0.30 group, $\mathrm { V E } _ { 2 0 } \mathrm { S e } _ { 0 }$ group, VE20Se0.15 group, VE2oSe0.30 group, $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 }$ group, VE40Se0.15 group and $\mathrm { V E } _ { 4 0 } \mathrm { S e } _ { 0 . 3 0 }$ group, respectively. The experiment lasted for 8 weeks. The results showed as follows: 1) dietary vitamin E and Se levels had no significant effects on weight gain, average daily egg mass,the ratio of feed to egg，average egg weight, laying rate, broken egg rate, unqualified egg rate of yellow-feathered broiler breeders $( P { > } 0 . 0 5 )$ . 2) Dietary vitamin E and Se levels had no significant effects on egg long diameter, egg short diameter, albumen height, yolk color, Haugh unit, yolk weight, eggshell weight, eggshell thickness of yellow-feathered broiler breeders $( P { > } 0 . 0 5 )$ . 3) Dietary vitamin E and Se levels had no significant effects on healthy chick birth weight, hatchability,altricial rate,fertilization rate of yellow-feathered broiler breeders $( P { > } 0 . 0 5 )$ . 4) Dietary vitamin E level had significant effect on the content of malondialdehyde (MDA) in plasma of yellow-feathered broiler breeders ( $( P { < } 0 . 0 5 )$ . The content of MDA in plasma had a decreasing tendency with the increase of dietary vitamin E level,and the content of MDA in plasma at $4 0 ~ \mathrm { I U / k g }$ vitamin E level was significantly lower than that at $0 ~ \mathrm { { I U / k g } }$ vitamin E level （2号 $( P { < } 0 . 0 5 )$ . Dietary vitamin E and Se levels had significant interaction on the content of MDA in plasma $( P { < } 0 . 0 5 )$ ， and the content of MDA in plasma in $\mathrm { V E _ { 4 0 } S e _ { 0 } }$ group was significantly lower than that in $\mathrm { V E _ { 0 } S e _ { 0 . 1 5 } }$ and VEoSe0.30 groups ( $\scriptstyle ( P < 0 . 0 5 )$ ). 5) The contents of vitamin E and Se in egg of yellow-feathered broiler breeders was significantly increased with the increase of dietary vitamin E and Se levels $( P { < } 0 . 0 5 )$ ,and dietary vitamin E and Se levels had significant interaction on the contents of vitamin E and Se in egg ( $( P { < } 0 . 0 5 )$ . In conclusion,vitamin E can improve the antioxidation level of yellow-feathered broiler breeders,and dietary vitamin E and Se levels had significant effects on the contents of vitamin E and Se in egg $( P { < } 0 . 0 5 )$ . It is suggested that corn-soybean meal diet of yellow-feathered broiler breeders do not need adding vitamin E and Se without any stress factors and without using feedstuffs in Se deficiency area.
+
+Key words: yellow-feathered broiler breeder; vitamin E; selenoyeast; egg hatching

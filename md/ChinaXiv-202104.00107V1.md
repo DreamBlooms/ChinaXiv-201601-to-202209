@@ -1,0 +1,157 @@
+# 水分和养分添加对内蒙古荒漠草原沙生针茅生长与生理特性及其敏感性的影响
+
+胡亚²，郭新新²，岳平'，李香云¹，赵生龙²，郭爱霞²，左小安1.3
+
+(1.中国科学院西北生态环境资源研究院，乌拉特荒漠草原研究站，甘肃 兰州730000；2.中国科学院大学，北京100049；3.中国科学院西北生态环境资源研究院，奈曼沙漠化研究站，甘肃 兰州730000)
+
+摘要：为了探究荒漠草原优势植物对水分和养分输入的响应特征和适应规律，通过设置2个水分水平（自然降雨、水分添加)和3个养分水平(无养分添加、N添加、NPK添加),共6个处理,研究水分与养分添加对荒漠草原优势植物沙生针茅(Stipaglareosa)生长、生理及其敏感性的影响。双因素方差分析结果表明：水分主效应、养分主效应及水分和养分的交互作用对沙生针茅的生长生理特性具有显著影响( $\scriptstyle \cdot { P < 0 . 0 5 } )$ 。水分添加显著增加了沙生针茅的叶片鲜重、干重、株高和相对电导率,降低了SOD酶活性;养分添加增加沙生针茅的叶面积,N添加增加了丙二醛含量，NPK添加降低了叶绿素 $\mathrm { { a / b } ( C a / C b ) }$ 和SOD酶活性;水分和养分的交互作用对叶面积、叶片厚度、叶绿素a(Ca）、脯氨酸、蛋白质含量和SOD酶活性具有显著影响。敏感性分析表明,叶面积和Ca含量对同时添加水分和NPK处理较为敏感，而 $\mathrm { C a / C b }$ 对水分添加处理更为敏感。综上所述,沙生针茅可以通过改变特定的生长生理特性适应水分和养分的变化，这对于揭示荒漠草原植物对全球变化的响应机制具有重要意义。
+
+关键词：养分添加；水分添加；氮素；敏感性；荒漠草原
+
+工业革命以来， $\mathrm { C O } _ { 2 }$ 浓度的不断增长导致全球气温上升，影响大气含水量，预计将导致水文循环加剧,进而使降水格局发生变化[1]。未来我国区域间降水具有较大波动，西北地区、内蒙地区的降水有一定程度的增加[2-3]。生长季降水量的增加可能在调节植被生长中发挥重要作用，有利于植物的光合作用、生长发育，增加物种丰富度和群落盖度等[4-5]。然而,极端降水的增加也加剧了洪涝灾害的风险，长期处于水淹条件下可能造成植物无氧呼吸加剧、有害物质积累、光合作用受阻、生物量锐减、甚至个体死亡、植被结构改变等[6-7]。同时，人类的生产生活已经造成生物圈大量的化学肥料养分的输入,如N、P等[8-9]。少量或短期N添加对植物生长具有明显的促进作用，而过多的单一N输入则导致生态系统退化[10]。NPK复合肥施用具有改变退化草地群落结构、提高植被生产力、改善牧草营养品质等作用[]。水分和养分对植物生长发育具有交互作用，水分缺乏会影响养分有效性的发挥，影响养分在土壤中的转化、吸收与利用；水分过多则会造成土壤养分淋溶，导致养分损失[12]
+
+荒漠草原是草原向荒漠过渡的一类草原，其年均降雨量少，季节温差、日温差较大，植物种类相对单一，植被结构较为简单,植被覆盖度低,环境条件恶劣，脆弱的生态环境使得荒漠草原易受自然和人类活动影响,对全球变化响应更为敏感[13-14]。研究全球变化下荒漠草原植物生长生理的变化，对于认知植物适应策略，预防和降低全球变化带来的损失均具有重要的意义。已有研究表明，草地植被对水分、养分反应敏感，其二者的协同作用会对草地的群落组成、结构和功能产生重要影响[11,15]。荒漠草原对水分和养分添加响应的研究在宏观尺度上取得了较大进展，但仅从植物群落水平上探讨水分和养分的变化对荒漠草原生态系统的影响不够深入。从物种个体水平探讨水分养分耦合对荒漠草原植物的影响较为少见，主要集中在对优势植物化学计量特征变化的研究[16-17]。研究植物生长生理特性有助于解释物种对不同环境条件的特定反应，为理解植物在自然环境梯度和气候变化下的变异性提供了基础[18-19] ○
+
+利用中国科学院乌拉特荒漠草原研究站的全球变化多因子野外控制实验平台，研究内蒙古乌拉特荒漠草原优势物种沙生针茅对水分、养分及其耦合效应的响应，旨在揭示荒漠草原优势物种的生长生理性状在全球变化因子影响下的响应规律。探究沙生针茅对水分养分变化的响应对于描述全球变化影响下我国荒漠草原植被生长情况，评价草地生态系统功能，管理草地资源具有重要意义。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+研究区位于内蒙古自治区西部乌拉特后旗（ $1 0 6 ^ { \circ } 5 8 ^ { \prime } \mathrm { E }$ ， $4 1 ^ { \circ } 2 5 ^ { \prime } \mathrm { N }$ )，海拔 $1 6 5 0 \mathrm { ~ m ~ }$ ,属大陆性气候，冬季寒冷漫长，夏季凉爽短暂，降水稀少，风力强劲，年均气温 $3 . 9 ~ \mathrm { ^ { \circ } C }$ ,年均降水量 $1 8 0 ~ \mathrm { m m }$ ,年平均风速 $5 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ ,无霜期约 $1 3 0 \mathrm { d }$ 。试验地处于中国科学院西北生态环境资源研究院乌拉特荒漠草原研究站，该区域的优势植物为沙生针茅（Stipaglareosa）、骆驼蓬（Peganum harmala）、碱韭（Allium polyrhizum）等。研究区土壤类型为棕钙土和灰漠土。
+
+# 1.2 试验设计
+
+中国科学院乌拉特荒漠草原研究站的全球变化多因子野外控制实验平台，依据NutrientNetwork和DroughtNet设置多个水分养分处理,处理于2017年开始至今。试验选取2个水分水平包括自然降雨(R)和水分添加（W），3个养分水平分别为无养分添加（S）、N添加(N)和NPK添加(NPK)，共6个处理，采用随机区组设计，分别为对照自然降雨无养分添加（RS）、水分添加无养分添加（WS）、自然降雨N添加（RN）、自然降雨NPK添加（RNPK）、水分添加N添加（WN）、水分添加NPK添加（WNPK)。每个处理6次重复，共36个试验小区，每个小区面积为 $6 { \mathrm { ~ m } } \times 6$ $\mathrm { ~ m ~ }$ ，小区外侧进行挖沟、铺设塑料薄膜和埋设铁皮，小区间缓冲带为 $2 \mathrm { m }$ 。水分添加处理为每次降雨后人工添加 $5 0 \%$ 的自然降雨量，2018年生长季自然降雨量为 $2 4 7 ~ \mathrm { m m }$ 。每年5月份施入肥料，养分NPK的添加量均为 $1 0 \mathrm { \ g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ,其中N养分采用树脂包膜尿素（含纯N量为 $44 \%$ ),P养分采用重过磷酸钙（含$\mathrm { P } _ { 2 } \mathrm { O } _ { 5 }$ 量为 $4 0 \%$ ，含纯P量为 $1 7 \%$ )，K养分采用硫酸钾（含 $\mathrm { K } _ { 2 } \mathrm { O }$ 量为 $5 0 \%$ ，含纯K量为 $4 0 \%$ ）。
+
+# 1.3指标测定
+
+2018年8月中旬（植物生长旺季），在清晨采集$1 0 \sim 1 5$ 株沙生针茅放入自封袋储藏于移动冰箱内带回实验室，在实验室将植株取出剪去叶柄后选取无病虫害的成熟叶片测定相关指标。株高、叶面积、叶鲜重、叶干重、叶厚度的测定参照标准方法[8]。叶绿素a(Ca）、叶绿素b(Cb）类胡萝卜素(Cx)含量用Arnon的方法进行测定[20]，脯氨酸含量使用芘三酮比色法测定[2I],蛋白质含量使用考马斯亮蓝G-250法测定[22]，丙二醛(MDA)含量使用硫代巴比妥酸比色法测定[23],用电导率仪(SanXin SX823)进行相对电导率(REC)测定[24]。超氧化物歧化酶(SOD)和过氧化物酶(POD)酶活性分别使用氮蓝四唑法和愈创木酚法测定[25-26] 。
+
+# 1.4敏感性分析
+
+为探究沙生针茅对不同水分和养分处理的敏感性，对水分养分添加处理下具有显著变化的生长生理指标进行敏感性分析，敏感性值越大说明敏感性越高，反之则越低。计算公式如下：
+
+$$
+\mathrm { I m p a c t = } { \left| T - C K \right| } / { C K }
+$$
+
+式中：T为试验处理下植物的生长生理指标值， $C K$ 为对照(RS)下植物的生长生理指标值。
+
+# 1.5 数据分析
+
+所有数据均表示为平均值 $\pm$ 标准误差。采用双因素方差分析检验养分、水分及其相互作用对沙生针茅生长和生理特性的影响。采用单因素方差分析检验养分和水分对植物生长和生理的影响以及不同处理对沙生针茅生长和生理敏感性的影响，并采用最小显著性差异(LSD)法进行多重比较( $\scriptstyle P <$ 0.05)。用SPSS22.0和SigmaPlot12.5软件进行统计分析和制图。
+
+# 2结果与分析
+
+# 2.1水分和养分添加对沙生针茅生长生理性状影响的方差分析
+
+沙生针茅生长生理特性受到水分和养分添加的影响(表1)。叶鲜重、叶干重、株高、REC和SOD酶活性受到水分主效应的显著影响。养分主效应显著影响植物叶面积、Ca/Cb、SOD酶活性和MDA含
+
+# 表1水分、养分添加以及水分养分添加交互作用对沙生针茅生长生理性状影响的方差分析
+
+Tab.1The $F$ valuesof twoway-ANOVA for effectsof water,nutrient and their interactions on growth and physiologicalcharacteristicsofStipa glareosa   
+
+<html><body><table><tr><td>变量</td><td>水分</td><td>养分</td><td>水分×养分</td></tr><tr><td>面积</td><td>0.23</td><td>6.42*</td><td>8.90**</td></tr><tr><td>叶鲜重</td><td>12.68**</td><td>0.13</td><td>1.82</td></tr><tr><td>叶干重</td><td>31.89***</td><td>2.14</td><td>0.28</td></tr><tr><td>叶厚度</td><td>0.62</td><td>0.30</td><td>3.94°</td></tr><tr><td>株高</td><td>10.27**</td><td>0.47</td><td>2.47</td></tr><tr><td>叶绿素a(Ca)</td><td>0.06</td><td>0.44</td><td>5.60°</td></tr><tr><td>叶绿素b(Cb)</td><td>0.28</td><td>1.43</td><td>0.88</td></tr><tr><td>类胡萝卜素(Cx)</td><td>0.25</td><td>0.75</td><td>2.13</td></tr><tr><td>叶绿素 a/b(Ca/Cb)</td><td>2.70</td><td>3.59*</td><td>0.22</td></tr><tr><td>脯氨酸</td><td>2.55</td><td>3.05</td><td>4.08*</td></tr><tr><td>蛋白质</td><td>0.26</td><td>0.90</td><td>5.27°</td></tr><tr><td>相对电导率(REC)</td><td>15.09**</td><td>3.00</td><td>1.00</td></tr><tr><td>超氧化物歧化酶(SOD)</td><td>11.38**</td><td>10.50**</td><td>15.22***</td></tr><tr><td>过氧化物酶(POD)</td><td>3.91</td><td>0.43</td><td>1.52</td></tr><tr><td>丙二醛(MDA)</td><td>0.09</td><td>5.850**</td><td>0.210</td></tr></table></body></html>
+
+注：\*表示 $\scriptstyle P < 0 . 0 5$ ；\*\*表示 $P { < } 0 . 0 1$ $\ast \ast \ast$ 表示 $P { < } 0 . 0 0 1$ □
+
+量。水分和养分添加的交互作用显著影响叶面积、叶厚度、Ca、脯氨酸、蛋白质含量以及SOD酶活性。
+
+# 2.2水分和养分添加对沙生针茅生长生理性状的影响
+
+根据方差分析结果，对受到水分主效应和养分主效应显著影响的生长生理性状进行分析(图1)。与R相比，W显著增加沙生针茅叶片鲜重和干重，增加幅度分别为 $3 4 . 1 7 \% , 5 0 . 0 0 \%$ ，并使株高增加$2 2 . 3 2 \%$ 。W使沙生针茅生理性状发生变化，使REC增加 $5 5 . 0 1 \%$ ,而SOD酶活性降低 $2 0 . 3 6 \%$ 。添加N与NPK使沙生针茅叶面积比S增加 $1 8 . 9 7 \% . 2 6 . 7 1 \%$ 0与S相比，N添加对沙生针茅的 $\mathrm { C a / C b }$ 和SOD酶活性无显著影响，而NPK添加使 $\mathrm { C a / C b }$ 、SOD酶活性分别下降 $7 . 7 5 \% . 3 1 . 7 6 \%$ 。 $\mathrm { \Delta N }$ 添加处理下沙生针茅MDA含量显著高于S和NPK处理
+
+# 2.3水分养分添加交互作用对沙生针茅生长生理性状的影响
+
+根据方差分析结果，对受到水分养分交互作用显著影响的性状进行分析(图2)。与RS相比，RN显著增加叶面积和叶片厚度，且叶面积和叶片厚度在养分添加条件下W与R处理间具有显著差异；但
+
+![](images/96907ca022aba019039ca44a702cfe3168f50e1843080bcc9075a4c3f671a29b.jpg)  
+注：R为自然降雨，W为水分添加;S为无养分添加,N为N添加,NPK为N、P、K添加。下同。  
+图1水分和养分添加对沙生针茅生长生理特性的影响
+
+Fig.1Growth and physiological characteristics of Stipa glareosa in response to water and nutrient addition与WS和WN相比，WNPK显著增加沙生针茅叶面积。与RS相比，RN、RNPK显著降低了Ca含量，且S与N在不同水分条件下具有显著差异。RNPK处理的脯氨酸含量显著高于RS与RN处理，且脯氨酸含量在WS与RS间具有显著差异。WN处理的蛋白质含量显著高于WS和WNPK，而WNPK添加显著降低SOD酶活性，且在NPK添加时，水分条件显著影响蛋白质含量和SOD酶活性。
+
+# 2.4沙生针茅生长生理特性对水分和养分添加的敏感性
+
+如图3所示，沙生针茅叶面积对WNPK处理敏感性显著高于其他处理。各处理对叶片鲜重敏感性无显著影响，而叶片干重对WN处理最敏感。叶片厚度对RN和WS处理较为敏感，株高敏感性在各处理中无显著差异。WNPK处理下Ca敏感性显著高于RN、RNPK和WS处理， $\mathrm { C a / C b }$ 则对WS、WN和WNPK处理较为敏感。脯氨酸的敏感性在各处理间无显著差异。WN处理使蛋白质含量和REC的敏感性显著高于其他处理。SOD酶活性对RNPK、WNPK、WS的敏感性显著高于RN处理，而MDA对RNPK处理的敏感性显著低于其他处理。
+
+![](images/3c1e431e354830fbae10024da1117cc894023c81960c8cff5bc5c0c36b2d2bec.jpg)  
+图2水分养分添加交互作用对沙生针茅生长生理性状的影响  
+图3沙生针茅生长生理特性对水分养分添加的敏感性
+
+Fig.2GrowthandphysiologicalcharacteristicsofStipaglareosainresponse tointeractionbetweenwaterandnutrientadditior
+
+RNRNPK WN-WS ■WNPK   
+%/ 100 860 (a) a %/海重上古 60 （(b） a a a a a %/ 120(c) 90 a %/ 40 50 4020 d b bc cd 4020 6030 d cd b bc 302010 C ab m bc 0 V 0 0 0   
+%/海类 604020 @a ar %/海%/海 1515 @b a %/海q/ 252015105 a ab ab 2500 @ a a a ab a a b b C / 0 0 0   
+8 200 %/海0OS 80 %/海二 30 (i) a 150 i a 60 (k) a ① at a 20 100 40 ab a a b ab ab ab 50 b 20 10 b C C C 0 0 0
+
+Fig.3Sensitivity of growth and physiological characteristics of Stipa glareosa to water and nutrient addition
+
+# 3讨论
+
+降水是干旱、半干旱区草原植物生长和植被发育的主要限制因子，降水增加可以提高土壤养分和水分的可利用性,加速植物生长[27]。本研究中水分的添加显著促进了荒漠草原沙生针茅的生长，使叶片鲜重、叶片干重和植株高度增加。相似的结果认为水分较低条件下草本植物具有较低的株高和生物量以应对干旱胁迫[28]。植物体内的抗氧化酶（如SOD、POD等)可以减轻活性氧作用，抑制膜内不饱和脂肪酸分解产物MDA的积累，保持细胞膜透性，使REC稳定在一定范围内[29]。发生干旱胁迫时，植物可以通过提高抗氧化酶活性清除活性氧、降低渗透势以维持细胞膨压，水分添加缓解了土壤干旱，从而使沙生针茅SOD酶活性降低、REC升高。
+
+养分是维持植物正常生长发育的重要因素，养分添加可以提高植物光合作用，促进植物生长发育[30]。有研究认为，草地生态系统在气候变化和人类活动作用下可能由N限制逐渐转向多元素养分共同限制[31]。本试验中，沙生针茅通过增加叶面积对养分添加进行了积极的响应。研究证明养分添加可以增加植物单株叶面积,增加植物总光合收益[2]。但NPK添加显著降低了 $\mathrm { C a / C b , S O D }$ 酶活性，反映了叶片光合活性[33]和抗氧化能力的减弱。且N添加使叶片MDA大量积累，RNPK处理也显著增加了沙生针茅脯氨酸含量。这些结果均表明沙生针茅在养分添加条件下可能处于干旱胁迫环境。这可能是由于在干旱半干旱地区，养分添加的有益影响会随着时间的推移而减弱，而对植物水分利用的影响会放大，植物地上部分的快速生长、叶片蒸腾量的增加，加重了植物的水分缺乏[32.34]
+
+水分和养分在植物形态特征、生理功能等方面具有重要影响，且二者之间存在显著的交互作用[35]。降水可以通过改变土壤水分状况间接对土壤养分供给产生影响，极端降水会增加土壤中氮素的淋溶，造成土壤养分的损失，而极端干旱会使死亡的微生物和植物有机体不断积累，导致土壤养分富集现象[]。本试验中，RN、RNPK处理下沙生针茅的叶片厚度显著高于WN、WNPK处理，这与许多研究结果相一致,干旱地区的植物具有更厚的叶片，湿润地区植物则正相反[36]。与WNPK相比,RNPK显著增加了沙生针茅叶面积,大量水分养分输入造成沙生针茅的迅速生长、组织柔嫩、叶片大而薄[37]。但WN叶面积比RN处理小，这可能是在水分养分耦合情况下，沙生针茅生长取决于养分可利用性[36]水分养分的添加提高了土壤资源有效性，同时也增强了物种间对资源的竞争，在资源丰富的条件下，物种之间的竞争比不利条件下更为激烈[38]。WNPK处理下沙生针茅的蛋白质含量显著低于RNPK，可能是由于水分的添加使植物叶片水分含量较高，对细胞内含物起到稀释作用，使单位质量叶片中物质含量降低。与WN相比，WNPK使沙生针茅叶面积增大、SOD酶活性降低，荒漠草原作为养分贫乏地带，除了N限制外，其他元素也存在一定程度的缺乏，添加多元养分更有利于植物的生长发育。
+
+敏感性分析发现不同的生长生理特性对处理具有不同的敏感性，叶面积变化对WNPK和RNPK处理最为敏感，复合元素的添加使针茅叶面积具有较大的变化。叶片干重对WN最敏感，而叶片厚度对RN最敏感，这可能说明N元素对叶片干重和厚度具有较大的影响。Ca/Cb对WS、WN、WNPK较为敏感，这可能说明在干旱半干旱地区，植物光合生理活性对水分更为敏感。植物的一些生理变化本身具有矛盾性，盆栽试验通常可以得到较为一致的数据，而田间试验结果更显复杂。但盆栽试验得出的结果往往与实地结果有一定偏差，探索植物对环境变化的响应机制，田间试验具有重要的实际意义。
+
+# 4结论
+
+水分添加能够缓解土壤干旱，显著促进沙生针茅的生长。而养分添加显著增加沙生针茅叶面积，但可能造成植物耗水过多，加重干旱胁迫，显著影响植物生理特性。水分养分耦合丰富了土壤资源，同时也可能增强了物种间的竞争，造成沙生针茅生长生理特性的复杂响应。在干旱半干旱地区，相比养分添加，植物光合活性对水分添加更为敏感。探究沙生针茅对水分和养分添加的生长生理响应机制有助于解释植物在气候变化下的特定反应，对于评价草地生态系统功能，管理草地资源具有重要意义。
+
+# 参考文献(References)：
+
+[1]Zhang Y,Moran M S,Nearing M A,et al. Extreme precipitation patterns and reductions of terrestrial ecosystem production across biomes[J]. Journal of Geophysical Research: Biogeosciences,
+
+2013,118(1): 148-157.   
+[2]Ding Y, Ren G, Zhao Z,et al. Detection, causes and projection of climate change over China: Anoverview of recent progress[J]. Advances in Atmospheric Sciences, 2007,24(6): 954-971.   
+[3]姚俊强,杨青,毛炜峰,等.西北干旱区大气水分循环要素变化 研究进展[J].干旱区研究,2018,35(2):269-276.[Yao Junqiang, Yang Qing,Mao Weiyi,et al. Characteristics of water cycle in atmosphere in the arid region of northwestern China[J].Arid Zone Research,2018,35(2): 269-276.]   
+[4] Yang H, Wu M,Liu W,et al.Community structure and composition n response to climate change in a temperate steppe[J]. Global Change Biology,2011,17(1): 452-465.   
+[5]Wu Z, Dijkstra P,Koch GW,etal.Responses of terrestrial ecosystems to temperature and precipitation change: A meta-analysis of experimental manipulation[J]. Global Change Biology,2011,17: 927-942.   
+[6] Voesenek L AC J,Colmer TD,Pierik R,et al.How plants cope with complete submergence[J]. New Phytologist,2006,170(2): 213-226.   
+[7]Panda D, Sharma S G, Sarkar R K. Chlorophyllfluorescence parameters,CO photosyntheticrateand regeneration capacity as a result of complete submergence and subsequent re-emergence in rice (Oryza sativa L.)[J]. Aquatic Botany,2008,88(2): 127-133.   
+[8]Pérez-Harguindeguy N,Diaz S,Garnier E,et al.New handbook for standardised measurement of plant functional traits worldwide[J]. Australian Journal of Botany,2013,61(3):167-234.   
+[9]苏原,罗艳,耿凤展,等.天山高寒草原植物叶片氮磷化学计量 特征对氮沉降的响应[J].干旱区研究,2019,36(2):430-436. [Su Yuan,Luo Yan,Geng Fengzhan,et al. Response of stoichiometric characteristics of nitrogen and phosphorus in plant leaves in an alpine grassands to nitrogen deposition in the Tianshan Mountains[J].Arid Zone Research,2019,36(2): 430-436.]   
+[10]Matson P,Lohse KA,Hall SJ. The globalization of nitrogen deposition: Consequences for terrestrial ecosystems[J].Ambio,2002, 31 (2): 113-119.   
+[11] 杨路存,刘何春,李长斌,等.氮磷钾不同施肥配方对退化高寒 草原植物群落结构的影响[J].生态学杂志,2015,34(1):25-32. [YangLucun,LiuHechun,LiChangbin,etal.Eectsftron, phosphorus and potassium fertilizer applications on plant community structure in a degraded alpine steppe[J]. Chinese Journal of Ecology,2015,34(1): 25-32.]   
+[12]Wang C, Wan S, Xing X,et al. Temperature and soil moisture interactively afected soil net N mineralization in temperate grassland in Northern China[J].Soil Biology and Biochemistry,2006,38 (5): 1101-1110.   
+[13] Han J, Chen J, Xia J,etal.Grazing and watering alter plant phenological processes in a desert steppe community[J]. Plant Ecology, 2015,216(4): 599-613.   
+[14] 杨新国,古君龙,王兴,等.荒漠草原中间锦鸡儿(Caragana intermedia)冠层穿透雨的发生与分布特征[J].干旱区研究,2019, 36(1): 131-138.[Yang Xinguo, Gu Junlong,Wang Xing,et al. Occurrence and distribution of throughfall under Caragana intermedia canopy in desert steppe[J].Arid Zone Research,2019,36(1): 131-138.]   
+[15]Wang Z,Li Y, Hao X,et al. Responses of plant community coverage to simulated warming and nitrogen addition in a desert steppe in Northern China[J]. Ecological Research,2015,30(4): 605-614.   
+[16]康静.增温和氮素添加对荒漠草原植物养分回收的影响[D].呼 和浩特：内蒙古农业大学,2019.[Kang Jing.Effects of Warming and Nitrogen Addition on Plant Nutrient Resorption in a Desert Steppe [D].Hohhot: Inner Mongolia Agricultural University, 2019.]   
+[17]白春利.荒漠草原优势植物养分利用及化学计量特征研究[D]. 呼和浩特:内蒙古农业大学,2013.[Bai Chunli.Study on Nutrient use and Stoichiometry of Dominant Plants in Desert Steppe [D].Hohhot: Inner Mongolia Agricultural University,2013.]   
+[18] Tang HL, Shen JB, Zhang F S,et al. Interactive effects of phosphorus deficiency and exogenous auxin on root morphological and physiological traits in white lupin (Lupinus albus L.）[J]. Science China Life Sciences,2013,56: 313-323.   
+[19]Inostroza L,Acuna H, Mendez J. Multi-physiological-trait selection indices to identify Lotus tenuis genotypes with high dry matter production under drought conditions[J]. Crop and Pasture Science, 2015,66(1): 90-99.   
+[20] Arnon D I. Copper enzymes in isolated chloroplasts. polyphenoloxidases in Beta vulgaris[J]. Plant Physiology,1949,24: 1-15.   
+[21]Bates L S, Waldren R P,Teare ID. Rapid determination of free proline for water-stress studies[J].Plant Soil,1973,39:205-207.   
+[22] Snyder JC,Desborough S L. Rapid estimation of potato tuber total protein content with coomassie brilliant blue G-25O[J]. Theoretical and Applied Genetics,1978,52(3): 135-139.   
+[23]Dipierro S,De Leonardis S.The ascorbate system and lipid peroxidation in stored potato (Solanum tuberosum L.)tubers[J]. Journal of Experimental Botany,1997,48(3): 779-783.   
+[24] Zhao DY,ShenL,Fan B,etal.Physiological and genetic properties of tomato fruits from 2 cultivars differing in chilling tolerance at cold storage[J]. Journal ofFood Science,2009,74(5): 348-352.   
+[25]Spychalla JP, Desborough S L. Superoxide dismutase,catalase, and $\alpha$ -tocopherol content of stored potato tubers[J].Plant Physiology,1990,94: 1214-1218.   
+[26] Hameed A,Iqbal N, Malik SA.Effectof D-mannose on antioxidant defense and oxidative processes in etiolated wheat coleoptiles [J].Acta Physiologiae Plantarum,2014,36(1): 161-167.   
+[27]Xia J, Wan S. The effcts of warming-shifted plant phenology on ecosystem carbon exchange are regulated by precipitation in a semi-arid grassand[J]. Plos One,2012,7(2): e32088.   
+[28]Sarangi D,Irmak S,Lindquist J,et al. Efct of water stress on the growth and fecundity of common waterhemp (Amaranthus rudis)[J]. Weed Science,2015, 64(1): 42-52.   
+[29] 张永峰,殷波.混合盐碱胁迫对苗期紫花苜蓿抗氧化酶活性及 丙一醛含量的影响[I草业学报200918/1):46-50.[Z.hang Yongfeng,Yin Bo.Influences of salt and alkali mixed stresses on antioxidative activityand MDA content of Medicago sativa at seedling stage[J]. Acta Prataculturae Sinica,2009,18(1): 46-50.]   
+[30]Moriwaki T,Falcioni R,TanakaF,et al.Nitrogen-improved photosynthesis quantum yield is driven by increased thylakoid density,enhancing green light absorption[J].Plant Science,2019,278: 1-11.   
+[31]Craine J M,Morrow C, Stock W D.Nutrient concentration ratios and co-limitation in South African grasslands[J].New Phytologist, 2008,179(3):829-836.   
+[32]Liang X, Zhang T,Lu X,et al.Global response patterns of plant photosynthesis to nitrogen addition:A meta-analysis[J]. Global Change Biology,2020,26(6):3585-3600.   
+[33]王强,金则新,郭水良,等.濒危植物长叶榧的光合生理生态特 性[J].生态学报,2014,34(22): 6460-6470.[Wang Qiang,Jin Zexin,Guo Shuiliang,et al.Photosynthetic traits of the endangered plant species Torreya jacki[J].Acta Ecologica Sinica,2014,34 (22): 6460-6470.]   
+[34]Wang J,Liu WZ,Dang TH,etal.Nitrogen fertilization effect on soil water and wheat yield in the Chinese loess plateau[J].Agronomy Journal,2013,105(1): 143-149.   
+[35] 宋成军,马克明,傅伯杰,等.岷江干旱河谷土壤水、氮和磷对小 马鞍羊蹄甲幼苗生长的影响[J].应用生态学报,2009,20(8):17- 24.[Song Chengjun,Ma Keming,Fu Bojie,et al.Influence of soil moisture,nitrogen and phosphorus contents on Bauhinia faberi seedlings growth characteristics in arid valley of Minjiang River [JJ. Chinese Journal of Applied Ecology,2009,20(8):17-24.]   
+[36]Roa-Fuentes L L, Templer PH, Campo J.Effects of precipitation regime and soil nitrogen on leaf traits in seasonally dry tropical forests of the Yucatan Peninsula,Mexico[J]. Oecologia,2015,179(2): 585-597.   
+[37]Markesteijn L,PoorterL. Seedling root morphology and biomass allocation of 62 tropical tree species in relation to drought-and shadetolerance[J]. Journal of Ecology,2009,97(2):311-325.   
+[38]Lemke I,Kolb A,Graae B,et al.Patterns of phenotypic trait variation in two temperate forest herbs along a broad climatic gradient [J].Plant Ecology,2015,216(11): 1523-1536.
+
+# Effects of water and nutrient addition on the growth and physiology of Stipa glareosa in a desert steppe in Inner Mongolia
+
+HU Ya'²， GUO Xinxin'²， YUE Ping'，LI Xiangyun¹²， ZHAO Shenglong1²GUO Aixia1², ZUO Xiao'an1,3
+
+(1.Urat Desert-grassland Research Station,Northwest Institute of Eco-Environment and Resources, Chinese Academy of Science,Lanzhou 73oooo,Gansu, China; 2.Universityof Chinese Academy of Sciences,Beijing 1Oo049,China; 3.Naiman Desertification Research Station,Northwest Institute of Eco-Environment and Resources,Chinese Academy of Science,Lanzhou 73oooo Gansu, China)
+
+Abstract: To explore the adaptive responses of dominant species in a desert steppe to environmental changes,we tested the efects of six treatments with two water levels (natural precipitation andartificial irrigation) and three nutrient levels (no nutrient addition,N adition and NPK addition)on the growth and physiology of Stipa glareosain Inner Mongolia. The results of two-wayANOVAshowed that the main factors(water andnutrients) and water $\times$ nutrientinteraction had significant effects on some of the growth and physiological parametersof $S$ glareosa ( $P <$ 0.05). Water supplementation significantly increased the leaf fresh weight,leaf dry weight, plant height and elative electrical conductivity but decreased superoxide dismutase (SOD） activity. Both $\mathrm { \Delta N }$ and NPK addition increased leaf area.N addition increased malondialdehyde content, whereasNPK adition decreased chlorophyll $\mathbf { a } / \mathbf { b }$ and SOD activity. The water $\times$ nutrient interaction factor had significant effects on leaf area, leaf thickness,chlorophyll a, proline and protein contents and SOD activity.Moreover, the leaf area and chlorophyll a content of $S$ glareosawere more sensitive to water and NPK addition, whereas thechlorophylla/bwas more sensitive to water addition treatments.In conclusion,our results suggest that S.glareosacould adapt to fluctuations in water and nutrient availability by changing specific growth and physiological characteristics,which is important for revealingthe response mechanism of plantsin a desert steppe to climate changes.
+
+Keywords: nutrient addition; water addition; nitrogen; sensitivity； desert steppe

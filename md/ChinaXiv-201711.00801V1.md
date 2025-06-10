@@ -1,0 +1,130 @@
+1 热应激诱导的氧化应激对动物肠道组织的损伤
+
+2 黄帆 吕秋凤\*
+
+3 （沈阳农业大学畜牧兽医学院，沈阳110866)
+
+4摘要：热应激是一种常见的非特异性应激，给畜牧业带来较大的损失。肠道组织在热应激  
+5 作用下易发生缺血缺氧，肠道细胞产生氧化应激，造成细胞凋亡，引起肠道组织损伤。而肠  
+6 道作为动物机体吸收营养、屏障病原体最为重要的器官，当其受到损伤时将直接影响到动物  
+7 机体的生长发育及健康状况。本文从热应激诱导肠道细胞产生氧化应激，氧化应激对肠道的  
+损伤，以及热应激诱导细胞凋亡途径等方面，结合国内外近年来研究进展作一综述。
+
+关键字：肠道；热应激；氧化应激；细胞凋亡中图分类号：S852.2
+
+热应激是应激反应的一种，当动物处在高温环境时，由于体内的热量无法得到有效的散失而出现张口呼吸、精神沉郁、采食量下降、增重减慢，严重时可因心力衰竭、脑组织受损而死亡，同时使动物福利受到挑战[]。热应激对动物机体组织的损伤主要通过氧化应激、炎症反应等途径造成细胞损伤和细胞凋亡。
+
+肠道担负着动物机体的营养吸收、屏障病原体等重要功能。流经肠道的血液约占全身血液的三分之一，当动物处在高温环境中时，由于机体散热的需要，大量血液流向体表的同时，还要维持心脏、大脑的血液供应，这使得肠道组织易出现缺血及缺氧，造成肠道细胞凋亡，导致肠黏膜受损。这不仅影响了肠道的吸收功能，还因为肠道黏膜的完整性遭到破坏而使致病菌侵入，引起全身感染2]。最终动物因得不到良好的营养供给而出现生长缓慢，或因致病菌易于通过机体的防御屏障而导致感染而死亡。本论文总结近年来的研究，重点讨论热应激诱导氧化应激对动物肠道组织的损伤。
+
+1热应激诱导动物肠道组织产生氧化应激
+
+动物在新陈代谢过程中会产生许多活性氧（reactive oxygen species,ROS），而动物机体本身拥有一套可以清除ROS 的系统，如超氧化物歧化酶（superoxide dismutase,SOD）等。
+
+收稿日期：2016-12-05  
+作者简介：黄帆（1990-），男，河北定州人，硕士研究生，从事动物生理研究。E-mail:  
+503871885@qq.com  
+\*通信作者：吕秋凤，副教授，硕士生导师，E-mail：lgf200866@126.com
+
+在正常状态下，机体中的促氧化物和抗氧化物处于动态平衡。当细胞受到外源性的刺激，如热应激时，机体内的抗氧化物含量下降，而促氧化物升高，使原来的动态平衡被打破。此时，我们称动物组织细胞发生了氧化应激（oxidative stress）。
+
+热应激发生后，动物机体中的某些与氧化应激相关的生化因子的含量和活性发生显著的变化。处于热应激状态下的动物，其血清中的皮质酮、丙二醛（malonic dialdehyde，MDA）、ROS 的含量上升，而 SOD、谷胱甘肽过氧化物酶(GSH-Px)活性和总抗氧化能力（T-AOC)下降[3-4],提示我们，热应激与氧化应激存在相关性。不仅在血清这些成分发生变化，高温还可使大鼠小肠上皮细胞内的 ROS 含量显著升高，使细胞内的 SOD、GSH-Px 活性下降[5];同时，高温导致小肠上皮细胞出现严重的凋亡、坏死和脱落。Kikusato 等[证实了热应激可导致细胞线粒体中过氧化物增加，并使细胞内ROS 含量升高，说明热应激可直接导致细胞产生氧化应激。  
+由此可知，当动物发生热应激时，无论是血清中，还是肠道组织中，其抗氧化物减少，而促氧化物增多，使小肠组织细胞发生氧化应激，而氧化应激产生的ROS、自由基等物质，会对肠道结构和功能造成损伤[7-9]。  
+2热应激诱导的氧化应激对动物肠道的损伤  
+有学者研究热应激对动物肠道的影响，通过形态学观察发现热应激导致小肠绒毛高度下降，宽度增加以及小肠上皮细胞面积减少，肠黏膜厚度、肠壁厚度以及隐窝深度显著降低，杯状细胞显著减少等；同时，苏木精-伊红（HE）染色小肠组织可以明显的观察到小肠绒毛膜出现严重的破损。这种组织形态学上的变化提示小肠的吸收功能和屏障功能受到严重的损害[10-14]。  
+动物的肠上皮分泌细胞系是由潘氏细胞、杯状细胞以及肠分泌细胞所组成，这些细胞可以保护肠道免受有害病菌的侵入，同时通过分泌激素调控肠道的功能。小肠成熟的上皮细胞一般存活4\~5d，随后脱落到肠管中，由小肠隐窝基部的干细胞分化出新的上皮细胞，并通过迁移到小肠顶端的成熟区替代脱落的细胞。这些上皮细胞的增殖和死亡处在一个较为严格的平衡中，以此维持肠道的屏障和吸收功能[15]。现已知表皮生长因子是一种促细胞生长因子，在动物的机体中具有广泛的生物学活性，例如促进肠道组织的发育及修复受损的肠黏膜组织等重要作用[16]。Liu 等[17]发现热应激可以下调猪空肠组织中的上皮生长因子及其受体的表达，减缓了小肠上皮细胞的增殖，使小肠黏膜的完整性受到破坏。  
+急性热应激使肉鸡血清皮质酮和死亡率上升，降低饲料的采食量和日增重，以及使饲料转化率降低，而这些不良变化可能与急性热应激诱发的多灶性急性肠炎有关[18]。检测热应激状态下动物的空肠组织，发现促炎因子TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 、TFN $\cdot \gamma$ 、IL $\cdot \beta$ 三者的 mRNA表达量显著增加[19]，过氧化物酶（myeloperoxidase,MPO）活性升高，且血液中的内毒素含量增高[20]。由此确定热应激可以导致小肠组织发生炎症反应。  
+热应激诱导下产生的ROS、MDA是损伤肠道组织的重要因子。如ROS 在细胞中累积可以损伤DNA，从而导致细胞凋亡；而MDA是脂质过氧化的产物，可以损伤细胞膜，同样可以导致细胞凋亡[21-22]。总之，热应激可以通过多种途径，包括诱导氧化应激、炎症反应等损伤肠道细胞或使其发生细胞凋亡，从而破坏了肠道黏膜的完整性。这与Cui等[23]通过蛋白质组学研究热应激对猪小肠组织影响结果相一致。
+
+# 3热应激诱导的细胞凋亡途径
+
+持续热应激可以使肠道组织严重损伤，而细胞凋亡是造成损伤的主要方式。热应激可诱导肠道细胞发生氧化应激，而氧化应激产生的过多ROS 可以导致细胞DNA损伤、蛋白质和脂质过氧化，最终导致细胞凋亡[24-25]。近年来的研究表明，热应激诱导的细胞凋亡途径十分复杂，包括线粒体凋亡途径、死亡受体途径以及内质网应激途径。
+
+# 3.1 线粒体凋亡途径
+
+通过透射电镜观察大鼠空肠组织的超微结构时发现，热应激使细胞线粒体出现肿胀、空泡化等现象[19]，说明热应激诱导的细胞凋亡与线粒体有着直接的关联。在线粒体凋亡途径中，细胞色素C与半胱氨酸蛋白酶（Caspase）-9以及凋亡蛋白酶激活因子（APAF1）组成凋亡复合体，从而激活凋亡基因Caspase-3 诱发细胞凋亡。Xu 等[26]通过过氧化氢诱导体外培养的大鼠小肠上皮细胞（IEC-6）产生氧化应激，并检测其相关凋亡基因和线粒体膜电位等指标，发现与之前学者研究结果相一致的变化，如ROS 含量显著增加，SOD 活性下降及MDA 含量增加，胞质中的细胞色素C含量升高，线粒体膜电位下降，同时检测到Caspase-9和Caspase-3含量升高，与线粒体凋亡途径相关的基因 Bax、Bcl-2以及细胞凋亡率显著升高，说明氧化应激可以通过线粒体途径诱导细胞凋亡。然而在细胞凋亡中，Bax 是促凋亡基因，Bcl-2 是抑制凋亡的基因，Bcl-2基因的过表达可能是由于细胞应对氧化应激时的自我抵抗。
+
+但贾丹等[27]的研究结果表明，热应激使猪小肠上皮细胞的Caspase-3、Caspase-8、Caspase-9、Bax 基因表达上调，Bcl-2基因表达上调，说明热应激通过线粒体途径诱导细胞凋亡的同时，也可通过死亡受体途径诱导凋亡。
+
+# 3.2 死亡受体途径
+
+细胞凋亡的死亡受体途径也被称为外源性凋亡途径，是由肿瘤坏死因子受体（TNFR）家族成员与其配体相结合而引起的细胞凋亡，如Fas及其配体（FasL）相结合，并在Fas 偶联死亡结构域蛋白（Fas-associated death domain protein，FADD）的协助下，收集并积累Caspase-8 的前体，形成死亡诱导信号复合体（death-inducing signaling complex，DISC），激活Caspase-8，活化的Caspase-8 引起Caspase 级联反应，进一步激活Caspase-3等，最终导致细胞调亡[24,28-29]。热应激可导致体外培养的细胞中 Fas、FasL、Caspase-8、Caspase-3基因过表达，以及使细胞的凋亡率显著上升，说明热应激可以通过死亡受体途径诱导细胞凋亡[30-31]。
+
+# 3.3 内质网应激途径
+
+内质网是所有真核细胞中具有重要意义的细胞器，具有加工和修饰蛋白质的功能。当细胞受到某种因素的刺激时，如缺氧、低血糖、高血糖、酸中毒等，将导致细胞内质网中的未折叠蛋白和错误折叠蛋白积累过量，引起内质网应激（endoplasmic reticulum stress，ERS）。细胞通过一种高度保守的胁迫适应性反应成为"未折叠蛋白反应（unfolded protein response，UPR）"保护细胞免受ERS 的损伤，但是长期的不良刺激或UPR 不足将导致细胞凋亡[32-33]。在动物细胞中，Caspase-12是ERS 诱导细胞凋亡的特有介质，在死亡受体和线粒体凋亡途径中不会被激活[34-35]。Yin 等[36]通过模拟运输过程中引起的热应激和震动应激研究大鼠的小肠损伤机制，通过透射电子显微镜观察到应激组大鼠空肠上皮细胞中的内质网发生严重的肿胀，提示细胞发生内质网应激；通过对应激组大鼠空肠的KEGG 通路分析表明，细胞凋亡与自噬，丝裂原活化蛋白激酶（MAPK）信号通路，P53信号通路与哺乳动物雷帕霉素（mTOR）信号通路参与了热应激与震动应激引起的细胞损伤，蛋白质印迹（Westerm blot)分析指出Caspase-12、Caspase-3 等表达升高，说明ERS 诱导了细胞凋亡。
+
+# 4提高肠道抗热应激能力措施
+
+热应激是一种非特异性应激，可以从动物整体水平上缓解其带来的损伤，如加强畜舍的通风散热。此外，热应激对肠道组织的损伤主要是由氧化应激引起的，因此保护和改善热应激给肠道带来的伤害还应从抗氧化方面入手，并针对肠道在热应激过程中发生的炎症反应及时给予抗炎药物。常见的抗氧化剂包括硒、维生素C以及中药成分黄芪多糖等。Liu等[37通过试验证明硒和维生素C可以缓解热应激给猪带来的不良影响，保护肠道屏障的完整性。我国学者研究具有抗氧化作用的中药复方制剂，如加减白虎汤，可以有效的减轻热应激对奶牛的损伤，促进牛体散热[38]。牛磺酸（taurine）具有抗氧化、抗凋亡等多种生物学功能，可以缓解氧化应激对肠黏膜造成的损伤和抑制肠上皮细胞的凋亡[39]。益生菌对于肠道的健康往往起到很重要的作用，如饲喂益生菌混合物可以有效的缓解热应激造成的肠道屏障功能损伤[40]；额外补充乳酸菌菌株的混合物可以提高热应激状态下肉鸡的生产性能[41]。
+
+5小结
+
+综合近年来热应激对动物肠道影响的研究可知，肠道组织易遭受到热应激的损伤。尤其当动物长时间处于高温环境而得不到改善时，动物肠道黏膜的完整性遭到破坏，肠道细胞发生氧化应激并出现大量凋亡。当前国内外研究中多关注氧化应激对哺乳动物小肠上皮细胞的损伤和凋亡，且研究较多的是死亡受体和线粒体凋亡途径，而禽类在这方面的研究较少。今后的研究应注重热应激引起的细胞凋亡途径之间的关系，以及如何提高肠道抗热应激的能力。热应激导致动物不能正常地吸收营养物质，使病原体易侵入机体，最终导致动物生长发育迟缓，严重的则因感染病原体而死亡。这提示我们预防热应激发生在动物生产中的重要性。加强炎热地区畜舍的通风降温可以有效的缓解热应激带来的损失，积极探讨热应激对肠道组织损伤的机制，寻找改善和提高肠道组织抵抗热应激能力的方法是解决问题的关键。
+
+参考文献:
+
+[1]CAULFIELD M P,CAMBRIDGE H,FOSTER S F,et al.Heat stress:a major contributor to poor animal welfare associated with long-haul live export voyages[J].Veterinary   
+Journal,2014,199(2):223-228.   
+[2]呙于明,刘丹,张炳坤.家禽肠道屏障功能及其营养调控[J].动物营养学   
+报,2014,26(10):3091-3100.   
+[3]王松波,邓琳,赵婕,等.热应激对肉鸡抗氧化能力及腓肠肌纤维类型的影响[J].华南农业大 学学报,2015,36(6):23-28.   
+[4]胡煜,蔡明成,王玲,等.热应激状态下牛血清生化指标、miRNA表达变化及其相关性分析 [J].畜牧兽医学报,2016,47(9):1840-1847.   
+[5]徐霄龙,余进,刘涛,等.高温诱导氧化应激对大鼠小肠上皮细胞凋亡损伤的机制研究[C]// 中国畜牧兽医学会中兽医学分会2013年学术年会论文集.哈尔滨:中国畜牧兽医学   
+会,2013:361-375.   
+[6]KIKUSATO M,YOSHIDA H,FURUKAWA K,et al.Efect of heat stress-induced production of mitochondrial reactive oxygen species on NADPH oxidase and heme oxygenase-1 mRNA levels in avian muscle cells[J].Journal of Thermal Biology,2015,52:8-13.   
+[7]赵珂立.氧化应激对动物自由基代谢、消化道损伤及抗氧化剂干预作用的研究[D].硕士 学位论文.上海:上海交通大学,2011:23-26.   
+[8]HUANG C,JIAO H,SONG Z,et al.Heat stress impairs mitochondria functions and induces oxidative injury in broiler chickens[J].Journal of Animal Science,2015,93(5):2144-2153. [9]FRIJHOFF J,WINYARD PG,ZARKOVIC N,et al.Clinical relevance of biomarkers of oxidative stress[J].Antioxidants & Redox Signaling,2015,23(14):1144-1170.   
+[10]CHEN Z,XIE J,HU M Y,et al.Protective effects of $\gamma$ aminobutyric acid (GABA) on the small intestinal mucosa in heat-stressed Wenchang chicken[J].The Journal of Animal & Plant Sciences,2015,25(1):78-87.   
+[11]SANTOS R R,AWATI A,ROUBOS-VAN DEN HIL P J,et al.Quantitative   
+histo-morphometric analysis of heat-stress-related damage in the small intestines of broiler chickens[J].Avian Pathology,2015,44(1):19-22.   
+[12]卜星晨,邹晓庭,田勇.热应激对动物小肠黏膜影响的研究进展[J].中国畜牧杂   
+志,2016,52(5):88-91.   
+[13]冯跃进.热应激对猪和大鼠肠道结构和功能的影响及其修复机制[D].硕士学位论文.北 京:中国农业科学院,2014:35-42.   
+[14]PEARCE S C,SANZ-FERNANDEZ M V,HOLLIS J H,et al.Short-term exposure to heat stress atenuates appetite and intestinal integrity in growing pigs[J].Journal of Animal
+
+Science,2014,92(12):5444-5454.
+
+[15]NUNES T,BERNARDAZZI C,DE SOUZA H S.Cell death and inflammatory bowel diseases:apoptosis,necrosis,and autophagy in the intestinal epithelium[J].Biomed Research International,2014,2014:218493.   
+[16]刘淑杰,徐子伟,齐珂珂,等.表皮生长因子对肠道功能调控的研究[J].动物营养学 报,2014,26(3):565-570.   
+[17]LIU F,YIN J,DU M,et al.Heat-stress-induced damage to porcine smallintestinal epithelium associated with downregulation of epithelial growth factor signaling[J].Journal of Animal Science,2009,87(6):1941-1949.   
+[18]QUINTEIRO-FILHO W M,RODRIGUES M V,RIBEIRO A,et al.Acute heat stress impairs performance parameters and induces mild intestinal enteritis in broiler chickens:role of acute hypothalamic-pituitary-adrenal axis activation[J].Journal of Animal   
+Science,2012,90(6):1986-1994.   
+[19]何莎莎.阿魏酸对热应激大鼠小肠黏膜屏障损伤的保护作用及机制[D].博士学位论文. 北京:中国农业大学,2016:38-41.   
+[20]PEARCE S C,MANI V,BODDICKER R L,et al.Heat stress reduces barrier function and alters intestinal metabolism in growing pigs[J].Journal of Animal   
+Science,2012,90(Suppl.4):257-259.   
+[21]冉茂良,高环,尹杰,等.氧化应激与 DNA 损伤[J].动物营养学报,2013,25(10):2238-2245. [22]唐丽.热应激对肉种母鸡繁殖性能、相关生理生化和分子指标的影响[D].硕士学位论文. 北京:中国农业科学院,2013:16-19.   
+[23]CUI Y J,GU X H.Proteomic changes of the porcine smallintestine in response to chronic heat stress[J].Journal of Molecular Endocrinology,2015,55(3):277-293.   
+[24]王佳煜.n-3 脂肪酸对氧化应激诱导的细胞凋亡的作用及其分子机制[D].硕士学位论文. 哈尔滨:哈尔滨工业大学,2015:8-12.   
+[25]BONOMINI F,RODELLA L F,REZZANI R.Metabolic syndrome,aging and involvement of oxidative stress[J].Aging and Disease,2015,6(2):109-120.
+
+[26]XU L,HE S S,LI D Y,et al.Hydrogen peroxide induces oxidative stress and the mitochondrial pathway of apoptosis in RAT intestinal epithelial cells (IEC-6)[J].Molecular Biology,2016,50(2):270-277.
+
+[27]贾丹,昝君兰,赵宏,等.热应激对猪小肠组织形态和细胞凋亡的影响[J].北京农学院学 报,2012,27(1):36-38.   
+[28]曾琳琳.死亡受体6诱导细胞凋亡的分子机制[D].博士学位论文.长春:吉林大   
+学,2012:18-26.   
+[29]THORBURN A.Death receptor-induced cellkilling[J].Cellular   
+Signalling,2004,16(2):139-144.   
+[30]GUO X T,CHI S K,CONG X,et al.Baicalin protects sertoli cells from heat stress-induced apoptosis via activation of the Fas/FasL pathway and Hsp72 expression[J].Reproductive Toxicology,2015,57:196-203.   
+[31]YANG J,ZONG X,WU G,et al.Taurine increases testicular function in aged rats by inhibiting oxidative stress and apoptosis[J].Amino Acids,2015,47(8):1549-1558.   
+[32]SOVOLYOVA N,HEALY S,SAMALI A,et al.Stressed to death-mechanisms of ER stress-induced cell death[J].Biological Chemistry,2014,395(1):1-13.   
+[33]SANO R,REED J C.ER stress-induced cell death mechanisms[J].Biochimica et Biophysica Acta:Molecular Cell Research,2013,1833(12):3460-3470.   
+[34]MOORWOOD C,BARTON E R.Caspase-12 ablation preserves muscle function in the mdx mouse[J].Human Molecular Genetics,2014,23(20):5325-5341.   
+[35]SZEGEZDI E,FITZGERALD U,SAMALI A.Caspase-12 and ER-stress-mediated apoptosis:the story so far[J].Annals of the New York Academy of Sciences,2003,1010:186-194. [36]YIN P,XU J Q.HE S S,et al.Endoplasmic reticulum stress in heat-and shake-induced injury in the rat small intestine[J].PLoS One,2015,10(12):e0143922.   
+[37]LIU F,COTTRELL JJ,FURNESS JB,et al.Selenium and vitamin E together improve intestinal epithelial barrier function and alleviate oxidative stress in heat-stressed   
+pigs[J].Experimental Physiology,2016,101(7):801-810.
+
+[38]郑会超.加减白虎汤散剂缓解奶牛热应激的效果及其机理研究[D].博士学位论文.杭州:浙江大学,2013:53-56.
+
+[39]SUKHOTNIK I,ARANOVICH I,SHAHAR YB,et al.Effect of taurine on intestinal recovery following intestinal ischemia-reperfusion injury in a rat[J].Pediatric Surgery International,2016,32(2):161-168.
+
+[40]SONG J,XIAO K,KE Y L,et al.Effect of a probiotic mixture on intestinal microflora,morphology,and barrier integrity of broilers subjected to heat stress[J].Poultry Science,2014,93(3):581-588.
+
+[41]JAHROMI M F,ALTAHER Y W,SHOKRYAZDAN P,et al.Dietary supplementation of a mixture of Lactobacillus strains enhances performance of broiler chickens raised under heat stress conditions[J].International Journal of Biometeorology,2016,6O(7):1099-1110.
+
+Oxidative Stress Induced by Heat Stress: Injury on Intestinal Tissue of Animals HUANG Fan LYU Qiufeng\*
+
+(College of Veterinary and Animal Science, Shenyang Agricultural University, Shenyang 10866, China)
+
+Abstract: Heat stress is a kind of common nonspecific stress,which brings great loss to animal husbandry. Intestinal tissue under heat stress is prone to ischemia and hypoxia, which induces oxidative stress in intestinal cells, causing cell apoptosis and intestinal tissue damage. While the intestine is the most important organ to absorb nutrients and defense pathogens in animal body, which can directly affect animal growth and health when injured. Combining with the domestic and international researches in recent years,this article reviewed the oxidative stress induced by intestinal heat stress, the damages of oxidative stress to the intestine tissue,and apoptosis pathway induced by heat stress.
+
+Key words: intestine; heat stress; oxidative stress; apoptosis

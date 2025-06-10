@@ -1,0 +1,195 @@
+DOI:10.13930/j.cnki.cjea.170118
+
+刘焕军，孟令华，邱政超，张新乐，殷继先，徐梦园，于微，谢雅慧．棉花生长初期灌溉信息遥感提取与校正[J]．中国生 态农业学报,2017,25(8):1216-1223 Liu HJ,Meng LH,Qiu ZC,Zhang XL, YinJX, XuMY, Yu W, XieYH. Using remote sensing to extractand corretirigation data during early cotton growth stage[J]. Chinese Journal of Eco-Agriculture,2017,25(8): 1216-1223
+
+# 棉花生长初期灌溉信息遥感提取与校正
+
+刘焕军，孟令华，邱政超，张新乐\*\*，殷继先，徐梦园，于微，谢雅慧
+
+(东北农业大学资源与环境学院哈尔滨150030)
+
+摘要：为提高生长初期低覆盖度作物长势的遥感监测精度，需要消除灌溉引起的土壤水分背景变化对归一化差值植被指数(NDVI)的影响。为了实现棉花生长初期灌溉信息提取与校正，提高棉花作物长势监测与产量预判精度，本文以美国加利福尼亚州 San JoaquinValley的2个棉花地块为研究区，选取棉花生长初期灌溉过程中的遥感影像，构建两种灌溉信息提取方法(分阶段阈值法和灌溉线提取法)，确定最优灌溉像元提取方法;比较分析灌溉与未灌溉情况下棉花的 NDVI与归一化差值水分指数(NDWI)以及土壤调节植被指数的关系，提取含有灌溉信息的像元，并对NDVI进行校正，消除灌溉对NDVI的影响。研究结果表明：在棉花生长初期，灌溉与未灌溉像元NDVI变化率达 $12 \%$ ，差异较显著；灌溉与否的棉花NDVI与NDWI间均存在极显著的线性关系，决定系数在0.80以上；利用灌溉线方法提取灌溉信息与分阶段阈值相比精度更高，精度达 $8 8 \%$ 以上；校正后线性回归模型精度达0.95，灌溉校正效果明显，灌溉与未灌溉像元的NDVI差异减小至 $2 \%$ 。本研究通过对含有灌溉信息像元NDVI值的校正，去除灌溉对NDVI造成的影响，反映了真实的植被信息，可实现对作物生长初期长势的准确遥感监测，为遥感定量监测提供便利。
+
+关键词：棉花；生长初期；灌溉信息；植被指数；归一化差值植被指数(NDVI)；归一化差值水分指数(NDWI)中图分类号：TP79；S127 文献标识码：A 文章编号:1671-3990(2017)08-1216-08
+
+# Using remote sensing to extract and correct irrigation data during early cotton growth stage
+
+LIU Huanjun, MENG Linghua, QIU Zhengchao, ZHANG Xinle\*\*, YIN Jixian, XU Mengyuan,YU Wei, XIE Yahui (Collge of Resourcesand Environmental Sciences,Northeast Agricultural University,Harbin 15oo3o,China)
+
+Abstract:Vegetatioidexisectedbyckgrondsoil,especiallintearlysageofcopgrowth.Whenvegetationoerislo theeffectofbackgroundsoilisveryobvious.Inordertoimprove theprecisionofremotesensing (RS)monitoringoncopgrowthinthe earlygrowthtageiticearytiateteeectofckgroundiloistureuetgaonooalddieeetationndex (NDVI).Agriculturalirigationdistricts havefailedtodevelopanefective methodtoeliminate diference inNDVchnge, whichhas intuhinderedeffrtstolimittheeffectofiigationoNDVI.TusinordertoicreasetheaccuracyofRSotoring ofcropgrowthatearlystage,thisstudyexploredtheefectsof dierenceinsoil moistureinformationbetwee irigatedand non-irrigatedcotonfieldonNDVI.Twocotonplots inSanJoaquinVallyinCaliforia(US)wereselectedas theresearchareaDay of Year(DOY)174 wasdeterminedasthecriticalphaseatearlygrowthstageofcottonfortheextractofirigationdatathroughband reflectance,NDVIanalysisofcotonfeldfor002.BasedonRSimages,NDVI,normalizeddierence waterindex (NDW),oil adjustedegetationindex(SAVI)andmodifiedsoiladjustedvegetationindex (MSAVI)of irigatedandnonrigatedpielswere calculated.AlsotherelatioshipsbetweenNDWIanddiferentvegetationindexes(VIs）wereanalyzed,andthetwomethodse standard deviation of the NDWI method ( $\mathrm { \Delta ( S T D _ { W I } ) }$ and irrigation line extraction method (based on relationship between NDVI and NDWIof irigatioandnon-rgationpixels,IR_L)wereused toextrcttheiigationata.Tentheaccuraciesofdirntmet ods werecompared todeterminetheoptimumextraction methodofirigationinformation.TheIR_Lmethodwasnextusedtoextract irrigationdataandcorrectheNDVIofgationpixelsinteearlystageofcottontoimprovemonoringaccuracyofcoorowth. The results showed that difference in NDVI between irrigation and non-irrigation pixels was as high as $12 \%$ in the early growth of cotton.There wasanextremelysignificantlinearcorelationbetween NDVIandNDWIofbothirrigationandnon-irrgationpixels, with coefficients of determination greater than O.80. Compared with $\mathrm { \Delta S T D _ { W I } }$ method, IR_L method had a higher accuracy and with a precision greater than $8 8 \%$ . Through IR_L model correction,the accuracy of irrigation linear regression model was as high as 0.95. Withthis,correctionefectofgationwasobviousndthdiferenceiNDVIbtweeiigatedandon-gaedpixelsdropped to $2 \%$ .Thusinthisstudy,NDVwithirrigationdata wascorected,teeffectof irigationonNDVIeliminatedwhileteeffectof background soilmoisturerduced.Finall,thestudyreflectedthetrue vegetationdata,obtainedaccurateremote sensingmoitoring ofcottongrowthatheearly growthstageandprovidedconvenient monitoring methodofcopgrowth viaremote sensing.Moreover, it promoted accurate irrigation towards saving water resources.
+
+Keywords: Cotton;Earlygrowth stage;Irigationdata;Vegetation index;Normalized difference vegetation index (NDVI); Normalized difference water index (NDWI)
+
+遥感技术具有宏观、客观、快速、低成本等特点成为近几十年作物估产和长势监测的新兴技术[-2]。及时准确地监测作物生长初期植被长势，可以对作物产量信息进行预判[3-4]。目前，在农业遥感监测中,植被指数(VI)应用广泛[5-6]，国内外用于长势监测的植被指数有多种，其中归一化差分植被指数(NDVI)使用最为广泛。裴志远等7利用同一生长季不同生育期及不同生长季同一生育期的NDVI值，构建不同的NDVI时间序列曲线的特征参数，建立了作物长势监测模型；黄青等[8]利用MODIS_NDVI分析确定了冬小麦(Triticum aestivumL.)信息提取的NDVI阈值，建立了冬小麦面积提取模型，得到2011年冬小麦整个生育期长势情况。
+
+然而，由于研究区的气候、水文条件不同，土壤背景会存在差异。植被指数会受到农田土壤背景影响[9-10]，尤其是在作物生长初期，植被覆盖度较低,土壤背景的影响更加明显。土壤背景对植被造成的影响与作物对地覆盖度—叶面积指数(LAI)关系密切，覆盖度越大，土壤背景影响越小。因此在研究土壤背景对NDVI的影响时，不能忽略作物对覆盖度的影响。刘明等[11]根据NDVI对叶面积指数进行反演，验证NDVI与LAI之间存在显著相关性。作物生长初期覆盖度较低，NDVI值小于0.5，土壤背景影响较明显，需要消除土壤背景对NDVI的影响[12]。
+
+Rondeaux等[13]从NDVI出发，对比了土壤调节植被指数等多种植被指数消除土壤背景影响的能力，指出在不同环境条件下，不同植被指数消除土壤背景影响的能力不同。然而土壤调节系列的植被指数应用虽广泛，物理意义明确；但由于土壤调节参数确定存在一定的困难，不能完全消除土壤等背景干扰。对于灌溉农业区，在整个作物生育期进行灌溉处理，导致作物生长期内灌溉与未灌溉区域遥感影像呈现不同特征，造成NDVI值的显著差异[14]。因为灌溉造成土壤水分信息分布不均匀，土壤水分差异会造成土壤背景亮暗的程度不同，对于相同的冠层结构，暗土壤背景的冠层NDVI值大于亮土壤背景的冠层NDVI值。自前，针对水分遥感监测更为直接的指标是归一化差值水分指数(NDWI)。很多学者利用NDWI进行水分以及土壤水分信息的提取。程晓娟等[15]指出，利用改进NDWI监测作物水分含量，对于评估作物水分盈亏平衡、指导农业生产灌溉具有重要意义；Lu等[16]也通过HJ-1A/B影像提取NDWI,对植被含水量信息进行分析，精度较高。然而目前研究只是针对土壤水分进行提取以及对作物水分含量进行监控，对灌溉农业区的作物长势监测少有提出有效消除NDVI差异变化的方法，没有从根本上解决灌溉对于NDVI造成影响的问题。
+
+为提高生长初期作物长势遥感监测的精度，深入研究灌溉与未灌溉情况下土壤背景水分信息差异对NDVI 的影响，本文以棉花(Gossypium sp.)为研究对象进行如下研究：1)为消除灌溉对土壤背景的影响，分析棉花生长初期灌溉与正常状态下的各种植被指数的差异;2)利用Landsat $3 0 \mathrm { m }$ 空间分辨率遥感影像，获取NDVI及反映土壤背景的植被指数时间序列，进行定量分析，明确表征灌溉后土壤背景水分状况的植被指数;3)确定灌溉信息提取方法以及NDVI的校正方法。本文研究结果对于低覆盖度下的NDVI应用具有一定参考价值，有利于促进生长初期作物长势精准监测，为遥感定量化与精准农业发展奠定基础。
+
+# 1数据与方法
+
+# 1.1 研究区域概况
+
+图1为研究区位置及影像图。本文研究区的两个地块种植的农作物均为棉花，位于美国加利福尼亚州南部的 San Joaquin Valley 西侧(图1a)，属河流三角洲地区，土壤为棕壤土，整个农场面积约为$7 ~ 0 0 0 ~ \mathrm { h m } ^ { 2 }$ ，每个地块面积约为 $6 0 ~ \mathrm { h m } ^ { 2 }$ (图1b)。该区属于地中海气候，夏季炎热干燥，冬季湿润凉爽。雨季主要集中在11月至次年4月，但降雨量极少，年平均降水量约 $7 0 \ \mathrm { \ m m } _ { \circ }$ 光热资源丰富，最高温度达$4 0 \ \mathrm { ^ \circ C }$ 以上，蒸发量大，昼夜温差在 $1 6 ~ \mathrm { { ^ circ C } }$ 左右，有利于棉花的生长，是棉花的高产区[17]。研究区农场在棉花整个生长期实施灌溉，在灌溉初期为喷灌，此后每2\~3周进行沟灌。图1c与图1d为A地块2002年第 $1 7 4 \mathrm { d }$ 与 $1 9 0 \mathrm { d }$ 假彩色影像，图1e为B地块174d假彩色影像。图 $\mathrm { 1 c / e }$ 可以看出地块的灌溉方式是从左至右、从上至下灌溉，灌溉与否差异十分明显；从图1d的第190d影像看出，地块无明显灌溉差异，但该地块在相同区域，174d时存在灌溉差异明显界线。选择190d是因为此时研究区棉花地块灌溉比较均一，与174d形成对比。 $1 7 4 { \mathrm { ~ d ~ } }$ 与 $1 9 0 \mathrm { d }$ 相差 $1 6 \mathrm { d }$ 由于本文选择的遥感影像是Landsat_TM_5和Landsat_ETM_7两种影像构成的时间序列，时间分辨率为 $1 6 ~ \mathrm { d } _ { \circ }$
+
+![](images/d937d6e2e144ce7f745b84f96ea883e8bc67ccbd1612645e5de2f28936d091b8.jpg)  
+图1研究区位置及影像图(a:加州;b:SanJoaquinValley农场;c:A地块174d假彩色影像;d:A地块 $\mathbf { 1 9 0 d }$ 假彩色影像;e:B地块 $\mathbf { 1 7 4 d }$ 假彩色影像)  
+Fig.1Mapsofthelocationandimagesofthestudyarea(a: California map;b:SanJoaquin ValleyFarm map; c:falsecolorimageof plot A on DOY 174; d: false color image of plot Aon DOY 190; e: false color image of plot B on DOY 174)
+
+# 1.2影像获取与预处理
+
+本研究主要研究棉花灌溉时期遥感影像，根据美国棉花生长期的特点，下载研究区2002年棉花裸士期与生长期的Landsat_5_TM和Landsat_7_ETM的时间序列遥感影像，时间分辨率为16d，空间分辨率为 $3 0 ~ \mathrm { ~ m ~ }$ 。对影像数据通过ENVI5.1进行辐射定标、大气校正，并按照研究区范围矢量图进行裁剪。
+
+# 1.3植被指数选取与计算
+
+NDVI是植被长势监测应用最广泛的植被指数。土壤调节植被指数(SAVI)是 NDVI 的一个改进，能减小土壤等背景信息，增加植被信号。调整型土壤调节植被指数(MSAVI)是众多土壤调节植被指数中最简单的，避免了土壤线和土壤调节参数的获取。NDWI利用近红外与中红外进行波段运算，用于研究植被的含水量[18]，本文选取NDWI对灌溉信息进行研究。各植被指数计算公式如下：
+
+$$
+\mathrm { N D V I } = { \frac { \mathrm { N I R } - \mathrm { R E D } } { \mathrm { N I R } + \mathrm { R E D } } }
+$$
+
+$$
+\mathrm { S A V I } = \frac { \mathrm { N I R } - \mathrm { R E D } } { \mathrm { N I R } + \mathrm { R E D } + L } ( 1 + L )
+$$
+
+$$
+\mathrm { M S A V I } = \frac { 2 \mathrm { N I R } + 1 - \sqrt { \left( 2 \mathrm { N I R } + 1 \right) ^ { 2 } - 8 ( \mathrm { N I R } - \mathrm { R E D } ) } } { 2 }
+$$
+
+$$
+\mathrm { N D W I } = { \frac { \mathrm { N I R } - \mathrm { S W I R } } { \mathrm { N I R } + \mathrm { S W I R } } }
+$$
+
+式中：RED、NIR、SWIR为红波段、近红外、短波红外反射率。 $L$ 为土壤调节参数，描述了土壤反射特性，当植被覆盖度较低时，推荐 $L$ 值为1.0；当植被覆盖率中等时，推荐 $L$ 值为0.5；当植被覆盖度较高
+
+时，推荐 $L$ 值为 $0 . 2 5 _ { \circ }$
+
+# 1.4棉花灌溉信息研究时相的选取
+
+大田作物冠层光谱反射率以及土壤背景对其造成的影响程度与作物覆盖度(叶面积指数)大小相关。覆盖度越大，土壤背景影响越小。本研究主要研究作物生长期的灌溉影像，通过时间序列曲线的特征参数得知(图 2a)，棉花从 174 d NDVI 上升速率增加,NDVI值低于0.5，由NDVI与叶面积指数的相关性得知174d植被覆盖度并不是很高，特选取174d(2002年6月23日)为研究灌溉信息关键时期，既考虑到作物对地覆盖度的影响，也充分显现出土壤背景对NDVI的影响。
+
+![](images/436b2c4c536e2c8e238ccc9e7f1c38e270f732285aec5ee9ba34178dc181fd3a.jpg)  
+图2棉花生长期 NDVI时间序列曲线(a)及 NDVI一阶导数曲线(b) DVI time series curve (a) and NDVI first derivative curve (b) during cotton growing perio
+
+# 1.5灌溉像元提取及校正方法
+
+# 1.5.1 标准差方法
+
+标准差能反映一个数据集的离散程度，未灌溉水平下的标准差反映了正常状态下作物NDWI的离散程度，本文选取未灌溉像元NDWI的标准偏差(STDEVNDwI)作为分阶段阈值进行灌溉信息提取，依照公式$d _ { \mathrm { N D W I } } = \frac { \mathrm { S T D E V _ { N D W I } } } { 2 }$ STDEVNDWI,分别根据 NDWI+dNDw 进行分梯度NDVI灌溉信息提取，简称为 $\mathrm { \ S T D _ { W I } }$ 方法。
+
+# 1.5.2 灌溉线法
+
+采用灌溉线进行灌溉像元提取，简称为IRL方法。由NDVI与NDWI之间的散点图(图3)可以发现,灌溉与未灌溉的散点图之间存在明显的分界线，本文将其定义为灌溉线。在覆盖度逐渐增加时，即NDVI增大，未灌溉像元的趋势线与灌溉像元的趋势线之间的距离会逐渐变小，灌溉线方程的斜率采用灌溉趋势线与未灌溉趋势线的平均值，截距采用两条直线的截距的平均值，可以在一定程度上降低高植被覆盖度下土壤背景信息弱化的影响。
+
+$$
+\mathrm { N D V I } = \frac { K _ { \mathrm { i r } } + K _ { \mathrm { n i r } } } { 2 } \times \mathrm { N D W I } + \frac { b _ { \mathrm { i r } } + b _ { \mathrm { n i r } } } { 2 }
+$$
+
+式中： $K _ { \mathrm { i r } } \ : \ : K _ { \mathrm { n i r } }$ 分别为灌溉、未灌溉状态下的NDVI与NDWI线性模型的斜率， $b _ { \mathrm { i r } } , \ b _ { \mathrm { n { i r } } }$ 为灌溉像元、未灌溉像元散点图的所在直线截距。
+
+# 1.5.3 灌溉校正方法
+
+本文的目的是消除灌溉对NDVI的影响，将灌溉像元的NDVI调整到未灌溉状态的NDVI，使灌溉前后植被指数具有可比性。因此，根据调整原理提出校正方法，分别以灌溉与未灌溉各像元趋势线的斜率与截距为参数进行校正，简称为IR_L方法。
+
+$$
+\mathrm { N D V I } _ { \mathrm { I R \_ L } } = \frac { K _ { \mathrm { n i r } } } { K _ { \mathrm { i r } } } \times \mathrm { N D V I } _ { \mathrm { I R } } + ( b _ { \mathrm { i r } } - b _ { \mathrm { n i r } } )
+$$
+
+式中： $\mathrm { \Delta N D V I _ { I R \_ L } }$ 为调整后的未灌溉棉花NDVI,$\mathrm { \Delta N D V I _ { I R } }$ 为灌溉后的NDVI, $K _ { \mathrm { i r s } } \ K _ { \mathrm { n i r } }$ 分别为灌溉、未灌溉状态下的NDVI与NDWI线性模型的斜率$b _ { \mathrm { i r } } , \ b _ { \mathrm { n { i r } } }$ 为灌溉像元、未灌溉像元线性模型的截距。
+
+![](images/de119df010920bcedec89e914be8b81530d4b7989efa2a452b1a3240f903e3f8.jpg)  
+图3基于NDVI与NDWI线性关系的灌溉线确定方法 Fig.3Method of irrigation line determination based on linear relationship between NDVI and NDWI NDWI:归一化差值水分指数Normalizeddifferencewaterindex.
+
+# 1.5.4 精度验证
+
+灌溉像元提取精度 $( \alpha )$ 采用下式计算:
+
+$$
+\alpha = ( 1 - \frac { N _ { \mathrm { C } } } { N _ { \mathrm { t } } } ) { \times } 1 0 0 \%
+$$
+
+式中： $N _ { \mathrm { t } }$ 为真实灌溉像元数; $N _ { \mathrm { c } }$ 为试验中提取灌溉像元时，错误分到未灌溉像元这一类的数量错分数。
+
+NDVI校正精度验证，采取A地块试验,B地块进行验证的原则，通过校正精度 $\alpha$ 进行判定，且对比NDVI校正后散点图离散程度。
+
+# 2 结果与分析
+
+2.1 裸土期与生长期灌溉与否像元的差异比较分析
+
+图4a和图4b分别显示了裸土期(2002年5月30日)和棉田生长期长势中等像元棉花灌溉与未灌溉各波段反射率差异图，图4c为灌溉与未灌溉像元4种植被指数的变化差异图(2002年6月23日)。从图4a可以看出，裸土时期各波段反射率差异较大，说明灌溉会造成土壤背景发生显著变化；从图4b可以看出，生长期中等长势像元的灌溉与未灌溉像元各波段反射率变化仍较显著，说明灌溉对第174d冠层棉花反射率依然存在影响，造成各波段反射率明显变化。从4种VI散点图可以看出(图 $\mathrm { 4 c } ^ { \cdot }$ )，4种VI灌溉像元均高于未灌溉像元，NDWI变化极小，而NDVI变化较大，约为 $12 \%$ ，其他3种土壤调节植被指数变化较NDVI更大，没有从根本上剔除土壤背景的影响，不能真实反映植被的真实长势。
+
+# 2.2 棉花灌溉与未灌溉像元NDWI-VI线性回归关系分析
+
+根据灌溉与未灌溉像元的4种VI散点图(图4c)发现NDWI变化差异极小，说明灌溉对其造成影响很小。因此本文拟以NDWI为自变量对其与3种VI的定量关系进行研究分析(图5)。从图5a、5b可以发现，灌溉与否NDVI与MSAVI值发生变化，即灌溉棉花像元NDVI与MSAVI值明显高于未灌溉像元，差异在 $10 \%$ 以上。且从图5可以发现灌溉与否棉花地块的NDWI与3种VI均存在极显著的线性关系。以此进行线性回归分析，线性回归模型如表1。A、B两个地块3种VI与NDWI均是极显著相关，A的决定系数更高，在0.93以上，B的决定系数为 $0 . 9 0 _ { \circ }$ 由此可以看出，灌溉会引起植被指数变化，且变化差异较大，最高达 $12 . 2 6 \%$ 。因此，在农作物遥感长势精准监测中，保证NDVI值实时监测的准确性极为重要。
+
+# 2.3基于 $\mathbf { S T D } _ { \mathbf { W I } }$ 方法和IR_L方法的棉花像元灌溉提取及精度评价
+
+本文对研究区种植棉花的A地块进行灌溉像元提取，分别依据IR_L(灌溉线法)和 $\mathrm { \Delta S T D _ { W I } }$ （标准差方法)两种方法，提取精度见表 $2 \phantom { } _ { \circ } \mathrm { I R } \_ { \mathrm { L } }$ 方法精度可达 $9 4 . 7 2 \%$ ，相比 $\mathrm { \Delta S T D _ { W I } }$ 方法，更适用于灌溉信息提取。
+
+本文选择利用A地块试验，B地块验证的精度验证方法。再次选取IR_L方法对B地块进行验证，根据结果发现，本文提出的IRL灌溉提取方法对B地块依然适用，精度高达 $8 8 . 4 1 \text{‰}$ （20
+
+# 2.4作物生长初期棉花灌溉信息遥感校正
+
+图6为A地块经过灌溉校正方法调整后的NDWI与NDVI的散点图，与未消除灌溉影响的NDWI-NDVI散点图(图5a)相比较，利用IR_L方法校正后的NDVI明显差异减小。且经过校正后，NDVI差异由灌溉前的 $12 \%$ 减小至 $2 \%$ ，整个地块散点趋势趋于一致。
+
+# 3讨论
+
+农作物长势监测主要是为田间管理提供及时准确的作物生长信息，并为早期估产提供依据[19]。作物长势遥感监测充分体现了遥感技术全面、及时、经济的特点。近十几年，许多研究利用高时空分辨率的遥感数据可以迅速获取大范围的作物长势信息。但现实情况下，由于受大气和土壤背景的影响，传感器只收到来自自标的部分信号，同时收到部分噪音，NDVI也由此受到影响，且覆盖度越低，土壤
+
+![](images/6d69114b9a32d53927f0a88baa9b9b6786b9a688bafdfcfd26d35503bbdd4a64.jpg)  
+图4棉田灌溉与未灌溉像元的反射率差异图 Fig.4Reflectance differences between irrigated and non-irrigated pixels of cotton field   
+Fig.5Two dimensional scatter diagrams of different vegetation indexes and NDWI in the early growth period of cotton (DOY 174 d) a:A地块 NDVI-NDWI;b:A 地块 MSAVI-NDWI;c:B 地块 NDVI-NDWI。NDWI:归一化差值水分指数;MSAVI:调整型土壤调 节植被指数。a:NDVI-NDWI scatter diagram of plot A；b:plot MSAVI-NDWI scatter diagram of plot A;c:NDVI-NDWI scatter diagram of plot B.NDWI: normalized difference water index;MSAVI: modified soil adjusted vegetation index.
+
+a:裸土期灌溉与未灌溉像元各波段反射率差异；b:生长初期(积日 174d)灌溉与未灌溉像元各波段反射率差异图;c:生长初期(积日174d) 灌溉与未灌溉像元的4种植被指数的散点图。NDWI：归一化差值水分 指数;MSAVI:调整型土壤调节植被指数;SAVI:土壤调节植被指数。a: band reflectance of irrigated pixel and non-irrigated pixel during bare soil period; b:band reflectance of irrigated pixel and non-irrigated pixel at early growing period (DOY 174);c: four vegetation indexes of irrigated pixel and non-irrigated pixel at early growing period (DOY 174).NDWI: normalized difference water index;MSAVI: modified soil adjusted vegetation index; SAVI: soil adjusted vegetation index.
+
+![](images/b97eae7028447cca2c3333344e08947c9bb6310eb0f5666d2b9169d8ac12e00b.jpg)  
+图5棉花生长初期(积日174d)不同植被指数与NDWI的二维散点图
+
+背景对NDVI的影响越大。本文选择积日174d作为研究时相，NDVI值小于0.5，仍处于作物生长初期。由NDVI与LAI的相关性可知覆盖度较低时，土壤背景对NDVI影响较大，因此本文在作物生长初期对由于灌溉造成的土壤背景影响进行分析，对
+
+表1灌溉与未灌溉像元的归一化差值水分指数(NDWI,y)与植被指数的线性回归模型 Table1Linear regression models ofnormalized diference water index (NDWI,y)and vegetation indexes for irigatedand non-irrigated pixels of cotton field plots   
+
+<html><body><table><tr><td rowspan="2">地块 Plot</td><td rowspan="2">自变量 Independent variable</td><td colspan="2">线性模型Linear model</td><td rowspan="2">植被指数变化率 Vegetation index change rate (%)</td><td rowspan="2">全部像元 All pixels</td><td rowspan="2">像元数 Pixels number</td></tr><tr><td>灌溉Irrigation</td><td>未灌溉Non-irrigation</td></tr><tr><td>A</td><td>NDVI</td><td>y-1.2362NDVI+0.2912</td><td>y-1.226_7NDVI+0.2594</td><td>12.26</td><td>y=1.372 INDVI+0.258 2</td><td>519</td></tr><tr><td></td><td>SAVI</td><td>y=1.847 1SAVI+0.434 3 R²=0.938 8</td><td>y=1.832 4SAVI+0.387 3 R²=0.973 8</td><td>12.14</td><td>y=2.048 3SAVI+0.385 5 R²=0.946 3</td><td></td></tr><tr><td></td><td>MSAVI</td><td>y=1.178 5MSAVI+0.463 7 R²=0.936 2</td><td>y=1.263 3MSAVI+0.421 2 R²=0.971 2</td><td>10.09</td><td>y=1.35MSAVI+0.425 3 R²=0.948</td><td></td></tr><tr><td>B</td><td>NDVI</td><td>y=1.3538NDVI+0.254 6</td><td>y=1.403 2NDVI+0.2163</td><td>17.71</td><td>y=1.370 8NDVI+0.2384</td><td>506</td></tr></table></body></html>
+
+SAVI:士壤调节植被指数;MSAVI:调整型土壤调节植被指数。SAVI:soil adjusted vegetation index;MSAVI: modified soil adjusted vege tation index.
+
+表2基于灌溉提取方法的像元灌溉信息提取精度Table2Extraction accuracyofpixel irigation information basedon irrigation extraction methodofcotton field plots  
+
+<html><body><table><tr><td>方法 Method</td><td>地块 Plot</td><td>分阶段阈值 Stage threshold</td><td>灌溉线方程 Irrigation line equation</td><td>Nc</td><td>灌溉提取精度 Accuracy (%)</td><td>灌溉像元数 Number of irrigation pixels</td><td>总像元数 All pixels</td></tr><tr><td>STDw1</td><td>A</td><td>0.029</td><td></td><td>48</td><td>85.09</td><td>322</td><td>519</td></tr><tr><td rowspan="3">IR_L</td><td>B</td><td>0.013</td><td></td><td>108</td><td>60.87</td><td>276</td><td>506</td></tr><tr><td>A</td><td></td><td>y=1.231 5NDVI+0.275 3</td><td>17</td><td>94.72</td><td>322</td><td>519</td></tr><tr><td>B</td><td></td><td>y=1.378 5NDVI+0.228 7</td><td>32</td><td>88.41</td><td>276</td><td>506</td></tr></table></body></html>
+
+$\mathrm { \Delta S T D _ { W I } }$ ：标准差法；IR_L：灌溉线法。 $\mathrm { \Delta S T D _ { W I } }$ :standard deviation of NDWI (normalized difference water index) method; IR_L:irigation line extraction method.
+
+![](images/d52eb00a3f2eb8bd3fcef153567721bfb410ff0c23b66867a90ef552e9236aff.jpg)  
+图6棉花A地块NDVI灌溉提取校正后散点图 Fig.6NDVI scatter ofPlot Aof cotton field after NDVI irrigation extraction and correction NDWI:归一化差值水分指数。NDWI:normalized difference water index.
+
+NDVI进行遥感提取与校正，这对作物长势监测有一定意义，同时有利于进一步实现精准灌溉。
+
+本文对比NDVI、NDWI、SAVI、MSAVI 4种植被指数在灌溉前后各波段反射率的差异，结果显示NDWI在灌溉前后差异最小；且发现土壤调节植被指数系列并不能完全消除土壤背景的影响，尤其针对本文研究区的灌溉情况，土壤调节植被指数消除水分背景影响的效果并不好，与NDVI相比差异更大。土壤调节植被指数系列多数是以土壤线模型计算而形成的线性模型，但现实中土壤线难以获取。本文选取的土壤调节植被指数，SAVI中土壤调节参数 $L$ 的确定是一个难题，针对不同植被覆盖度，$L$ 值的确定存在难度，植被覆盖度划分并不明显;MSAVI模型中没有明确反映土壤背景的参数。然而实际上的植被冠层光谱是一个组合，它是由几个复杂的光学物理过程组合而成，仅通过线性组合对其进行反演，存在一定的局限性。因此很难在实际应用中通过植被指数模型定量消除土壤背景的影响。本文利用变化差异最小的NDWI与NDVI的线性关系，对灌溉后的NDVI再次进行校正，一定程度上消除低覆盖度下土壤背景的影响，有效降低了由于灌溉引起的土壤背景水分信息的影响，为遥感定量监测提供了便利，可更加准确地对作物长势进行预判，推进精准灌溉，节约水资源，促进农业可持续发展。
+
+# 4结论
+
+本文以美国加州棉花为研究对象，对研究区棉花生长初期灌溉与未灌溉像元的植被指数差异与各波段反射率差异进行分析，利用灌溉与未灌溉像元的NDVI与NDWI之间极显著的线性关系，构建两种灌溉提取方法，实现了快速准确地对生长初期棉花灌溉像元进行提取，且精度高达 $8 8 \%$ ，并利用灌溉线模型对含有生长初期棉花灌溉像元NDVI值进行校正，有效地去除了土壤水分对植被指数NDVI的影响。本文研究结果解决了灌溉造成NDVI值高于正常水平的问题，反映了植被的真实信息，实现了对生长初期作物长势的准确遥感监测。本文研究成果将为低覆盖度下NDVI的研究应用提供参考依据，也将会促进遥感定量监测与精准农业的发展。
+
+# 参考文献References
+
+[1]赵春江．农业遥感研究与应用进展[J]．农业机械学报,2014, 45(12): 277-293 Zhao C J.Advances of research and application in remote sensing for agriculture[J]. Transactions of the CSAM, 2014, 45(12): 277-293   
+[2] Johnson D M.An assessment of pre-and within-season remotely sensed variables for forecasting corn and soybean yields in the United States[J].Remote Sensing of Environment,2014,141: 116-128   
+[3] Ren JQ,Chen Z X, Zhou Q B,et al.Regional yield estimation for winter wheat with MODIS-NDVI data in Shandong, China[J]. International Journal of Applied Earth Observation and Geoinformation,2008,10(4):403-413   
+[4] Mkhabela M S,Bullock P,Raj S,et al. Crop yield forecasting on the Canadian Prairies using MODIS NDVI data[J].Agricultural and Forest Meteorology,2011,151(3): 385-393   
+[5]Wardlow B D,Egbert S L.Large-area crop mapping using time-series MODIS $2 5 0 \mathrm { ~ m ~ N D V I }$ data:An assessment for the U.S.Central Great Plains[J].Remote Sensing of Environment, 2008,112(3):1096-1116   
+[6] Wu B F,Meng JH,Li Q Z,et al.Remote sensing-based global crop monitoring:Experiences with China's CropWatch system[J]. International Journal of Digital Earth,2014,7(2): 113-137   
+[7]裴志远，杨邦杰.多时相归一化植被指数NDVI的时空特征提 取与作物长势模型设计[J]．农业工程学报,2000,16(5):20-22 Pei Z Y,Yang B J.Analysis of multi-temporal and multi-spatial character of NDVI and crop condition models development[J]. Transactions of the CSAE,2000,16(5): 20-22   
+[8] 黄青，唐华俊，周清波，等．东北地区主要作物种植结构遥 感提取及长势监测[J]．农业工程学报,2010,26(9):218-223 Huang Q, Tang H J, Zhou Q B, et al. Remote-sensing based monitoring of planting structure and growth condition of major crops in Northeast China[J].Transactions of the CSAE, 2010,26(9):218-223   
+[9] Yao X,Ren H, Cao Z,et al.Detecting leaf nitrogen content in wheat with canopy hyperspectrum under different soil backgrounds[J]. International Journal of Applied Earth Observation and Geoinformation,2014,32: 114-124   
+10]史舟，梁宗正，杨媛媛，等．农业遥感研究现状与展望[J]. 农业机械学报,2015,46(2):247-260 Shi Z, Liang Z Z, YangYY, et al. Status and prospectof agricultural remote sensing[J]. Transactions of the CSAM,2015, 46(2): 247-260   
+[11]刘明，冯锐，纪瑞鹏，等．基于 MODIS-NDVI的春玉米叶面 积指数和地上生物量估算[J]．中国农学通报，2015，31(6): 80-87 Liu M,Feng R, JiR P,et al. Estimation of leaf area index and aboveground biomass of spring maize by MODIS-NDVI[J]. Chinese Agricultural Science Bulletin,2015,31(6): 80-87   
+[12] 唐怡，刘良云，黄文江，等．土壤背景对冠层 NDVI的影响 分析[J]．遥感技术与应用,2006,21(2):142-148 Tang Y,Liu L Y,Huang W J,et al. Analysis on the influence of soil backgrounds on canopy NDVI[J].Remote Sensing Technology and Application,2006,21(2): 142-148   
+[13] Rondeaux G， Steven M, Baret F. Optimizationof soil-adjusted vegetation indices[J]. Remote Sensing of Environment,1996,55(2): 95-107   
+[14]曾红伟，吴炳方，邹文涛，等．灌溉区与雨养区作物长势差 异比较分析——以美国内布拉斯加为例[J]．遥感学报, 2015,19(4): 560-567 Zeng H W,Wu B F, Zou W T,et al. Performance comparison of crop condition assessments in irigated and rain-fed areas: A case study in Nebraska[J]. Journal of Remote Sensing, 2015, 19(4): 560-567   
+[15]程晓娟，杨贵军，徐新刚，等．新植被水分指数的冬小麦冠 层水分遥感估算[J]．光谱学与光谱分析，2014，34(12): 3391-3396 Cheng XJ,Yang G J, Xu XG, et al. Estimating canopy water content in wheat based on new vegetation water index[J]. SpectroscopyandSpectralAnalysis， 2014， 34(12): 3391-3396   
+[16] Lu S L,Wu BF,Yan NN,et al.Water body mapping method with HJ-1A/B satellite imagery[J].International Journal of Applied Earth Observation and Geoinformation,2011,13(3): 428-434   
+[17]刘焕军，孟令华，张新乐，等．基于时间序列 Landsat 影像 的棉花估产模型[J].农业工程学报,2015,31(17):215-220 Liu HJ,Meng L H, Zhang X L,et al.Estimation model of cotton yield with time series Landsat images[J].Transactions of the CSAE,2015,31(17): 215-220   
+[18] Gao B C.NDWI— A normalized difference water index for remote sensing of vegetation liquid water from space[J]. Remote Sensing of Environment,1996,58(3): 257-266   
+[19] Corbeels M, Chirat G,Messad S,et al.Performance and sensitivity of the DSSAT crop growth model in simulating maize yield under conservation agriculture[J]. European Journal of Agronomy,2016,76: 41-53

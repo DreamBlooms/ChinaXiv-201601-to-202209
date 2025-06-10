@@ -1,0 +1,258 @@
+1 谷氨酰胺对脂多糖应激仔猪生长性能及血清生化指标的影响  
+2 田军权1,2 何流琴1,2 黄 牛 李 欢³ 崔志杰4 李 思³ 姚 康1\*  
+3 (1.中国科学院亚热带农业生态研究所，亚热带农业生态过程重点实验室，湖南省畜禽健康  
+4 养殖工程技术中心，农业部中南动物营养与饲料科学观测实验站，长沙 410125；2.中国科  
+5 学院大学，北京100049；3.湖南农业大学动物科学技术学院，长沙 410128；4.湘潭大学，  
+6 湘潭 411105)  
+7 摘要：本试验旨在研究饲粮中添加谷氨酰胺（Gln）对断奶仔猪不同阶段生长性能的影响，  
+8 以及其对脂多糖（LPS）诱导肠道损伤后断奶仔猪血清生化指标和生长性能的影响。选用 24  
+9 头 28 日龄健康的"杜×长×大"三元杂交断奶仔猪，随机分为3组，每组8个重复，每个重复  
+10 1头猪。对照组和LPS 组饲喂基础饲粮， $_ \mathrm { G l n + L P S }$ 组饲喂添加了 $1 \%$ 的外源性Gln 的基础饲  
+11 粮；在试验第 22、25、28、30天，LPS 组和 $_ \mathrm { G l n + L P S }$ 组腹腔注射 $1 0 0 ~ \mu \varrho / \ k \mathrm { g }$ BW LPS，对照  
+12 组则注射相同剂量的生理盐水。试验期 $3 0 \mathrm { d }$ 。结果表明：1）LPS 处理前（试验第1\~21天），  
+13 与对照组相比， $_ \mathrm { G l n + L P S }$ 组显著提高了试验第1\~7天断奶仔猪的平均日采食量（ADFI）和  
+14 平均日增重(ADG)（ $( P { < } 0 . 0 5 )$ ，显著提高了试验第 8\~14 天和第 1\~21 天断奶仔猪的 ADFI  
+15 （ $P { < } 0 . 0 5$ )。2）LPS 处理后（试验第 22\~30天)，对照组断奶仔猪的ADFI、ADG、第30天  
+16 体重均显著高于LPS 组和 $_ \mathrm { G l n + L P S }$ 组（ $P { < } 0 . 0 5 )$ ， $_ \mathrm { G l n + L P S }$ 组断奶仔猪的ADFI、ADG、第  
+17 30天体重均高于LPS 组( $_ { \cdot \cdot P > 0 . 0 5 }$ )。3)LPS 组断奶仔猪的小肠长度显著低于对照组和 $_ \mathrm { G l n + L P S }$   
+18 组 $( P { < } 0 . 0 5 )$ ，而对照组和 $_ \mathrm { G l n + L P S }$ 组之间无显著差异 $( P { > } 0 . 0 5 ) \textrm { > } 4 )$ 与对照组相比, $_ \mathrm { G l n + L P S }$ （204号  
+19 组断奶仔猪的血清高密度脂蛋白胆固醇（HDLC）含量和碱性磷酸酶（ALP）活性显著降低  
+20 （ $P { < } 0 . 0 5 )$ ，而 $_ \mathrm { G l n + L P S }$ 组与LPS组之间无显著差异（ $( P { > } 0 . 0 5 )$ ； $_ \mathrm { G l n + L P S }$ 组和LPS 组断奶  
+21 仔猪的血清免疫球蛋白M（IgM）含量显著提高（ $. P { < } 0 . 0 5 \$ )。由此可见，饲粮中添加 $1 \%$ 的  
+22 Gln 能够显著提高仔猪断奶后第1\~7天的生长性能，之后效果不明显。饲粮中添加 $1 \%$ 的Gln  
+23 能够调节应激仔猪的血清生化指标，改善其生长性能和小肠长度，从而缓解仔猪断奶应激。  
+24 关键词：谷氨酰胺；仔猪；脂多糖；生长性能；血清生化指标  
+25 中图分类号：S828  
+26 研究表明，哺乳仔猪因自身合成的谷氨酰胺（GIn）不能满足机体需求，且消化道发育  
+27 不完善，外加早期断奶应激的影响，导致了仔猪获取外源性GIn 的能力较弱[1l，因此，断奶  
+28 仔猪饲粮中及时补充外源性Gln 显得尤为重要。据相关研究报道表明，GIn 作为条件性必需  
+29 氨基酸，参与多条代谢途径，是合成鸟氨酸、瓜氨酸、脯氨酸和精氨酸的前体物质，其不仅  
+30 可以刺激细胞生长和抗体产生，而且是肠道细胞能量的主要来源[2]。刘巧婷等[]研究发现，
+
+饲粮中添加不同水平的GIn提高了保育猪的生长性能，并以 $1 . 0 \%$ 添加水平为最优。陈静等[4]研究发现，饲粮中添加GIn 能够缓解免疫应激对仔猪断奶7d后生长性能的影响。尽管国内外学者对GIn缓解仔猪断奶应激的研究已经取得了很多成果，但关于Gln 缓解仔猪断奶后期（21d后）应激的研究报道较少，特别是GIn对早期断奶仔猪在外界直接刺激产生免疫应激的研究并不多[5]。因此，本研究拟通过饲喂添加 $1 \% \mathrm { D G l n }$ 的饲粮并在断奶后期多次腹腔注射肠道杆菌系脂多糖（LPS）建立仔猪应激模型，研究GIn对断奶仔猪不同时期生长性能的影响，以及其对LPS 诱导应激后断奶仔猪后期生长性能和血清生化指标的影响，以期为生产实践提供一定的理论指导依据。
+
+1 材料与方法
+
+# 1.1 试验设计
+
+选取 24 头 28日龄健康的"杜 $\times$ 长×大"三元杂交断奶仔猪[体重 $\langle 6 . 2 4 { \pm } 0 . 2 5 \$ ）kg]，随机分为3组，每组设8个重复（公母各占1/2)，每个重复1头猪。整个试验期内，对照组和LPS 组饲喂基础饲粮， $_ \mathrm { G l n + L P S }$ 组饲喂添加了 $1 \%$ 的外源性GIn 的基础饲粮；在试验第 22、25、28、30天，LPS组和 $_ \mathrm { G l n + L P S }$ 组腹腔注射 $1 0 0 ~ \mu \mathrm { g / k g ~ B W ~ L P S }$ ，对照组则注射相同剂量的生理盐水。试验第30天进行前腔静脉采血并屠宰。试验在中科院亚热带农业生态研究所动物房进行，试验采用单笼饲养，粉料饲喂，自由采食和饮水，消毒、免疫按照猪场常规程序进行，试验期间记录采食量、体重。仔猪在28日龄断奶，转入动物房实验室，适应期为3d，之后进入正试期，试验期 $3 0 \mathrm { d }$ 。
+
+1.2试验材料与基础饲粮
+
+试验用GIn 有效成分含量为 $9 9 . 5 \%$ ，购自武汉远成共创科技有限公司。LPS购自美国Sigma公司，型号为 $E .$ ：coli serotype 055:B5。基础饲粮按照 NRC(2012)饲养标准配制，基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平(风干基础)   
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis)   
+%   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料 Ingredients</td></tr><tr><td>膨化玉米 Expanded corm 27.00</td></tr><tr><td>膨化大豆 Extruded soybean 15.50</td></tr><tr><td>玉米淀粉 Maize starch 25.00</td></tr><tr><td>乳清粉 Dried whey 10.00</td></tr><tr><td>血浆蛋白粉 Plasma protein powder 4.00</td></tr><tr><td>乳化油粉 Emulsified oil powder 2.50</td></tr><tr><td>鱼粉Fish meal 5.00</td></tr><tr><td>L-赖氨酸 L-Lys 0.70</td></tr><tr><td>蛋氨酸 Met 0.20</td></tr><tr><td>L-苏氨酸L-Thr 0.30</td></tr><tr><td>色氨酸Trp 0.05</td></tr><tr><td>白糖 White sugar 4.00</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>葡萄糖 Glucose 2.50</td></tr><tr><td>石粉Limestone 0.50</td></tr><tr><td>磷酸氢钙 CaHPO4 0.70</td></tr><tr><td>预混料 Premix1) 1. 00</td></tr><tr><td>酸化剂 Acidifier 0.90</td></tr><tr><td>抗氧化剂Antioxidant 0.05</td></tr><tr><td>防霉剂Fungicide 0.10</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>消化能 DE/(kJ/kg) 3.30</td></tr><tr><td>粗蛋白质 CP 20.00</td></tr><tr><td>赖氨酸Lys 1.55</td></tr><tr><td>蛋氨酸Met 0.65</td></tr><tr><td>苏氨酸 Thr 0.95</td></tr><tr><td>色氨酸Trp 0.25</td></tr><tr><td>钙Ca 0.75</td></tr><tr><td>有效磷 AP 0.30</td></tr></table></body></html>
+
+1’预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: VA 10800 IU, $\mathrm { V D } _ { 3 } 4 0 0 0 \mathrm { I U }$ , VE 40 IU, $\mathrm { V K } _ { 3 } 4 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 6 \mathrm { m g }$ $\mathrm { V B } _ { 2 } ~ 1 2 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 6 \log$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 5 \ : \mathrm { m g }$ 生物素 biotin $0 . 1 5 ~ \mathrm { m g }$ ，叶酸 folic acid $2 ~ \mathrm { m g }$ ，尼克酸niacin $5 0 ~ \mathrm { m g }$ ， $D$ 泛酸钙 $D$ -calciumpantothenate $2 5 ~ \mathrm { m g }$ ，Fe(as ferrous sulfate) $1 0 0 ~ \mathrm { { m g } }$ ， $\mathtt { C u }$ (as copper sulfate) $1 5 0 ~ \mathrm { m g }$ ，Mn (asmanganese sulfate) $4 0 \mathrm { m g }$ ， $Z \mathrm { n }$ (as zinc sulfate) $1 0 0 ~ \mathrm { { m g } }$ ，I(as potassium iodide) $0 . 5 0 \mathrm { m g }$ ， $Z \mathrm { n }$ (aszinc sulfate) $7 5 \mathrm { m g }$ 。
+
+2 消化能为计算值，其余为实测值。ME was a calculated value,while the others were measured values.
+
+1.3 检测指标
+
+试验期间记录采食量，在试验第1、7、14、21、30天空腹称量仔猪重量，计算平均日采食量（ADFI)、平均日增重（ADG）和料重比（F/G)。
+
+试验仔猪在第30天屠宰，屠宰前进行前腔静脉采血 $1 0 ~ \mathrm { m L }$ ，经 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱静置 $3 0 \mathrm { m i n }$ 后 $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 5 ~ \mathrm { m i n }$ 分离制备血清，利用全自动生化分析仪测定血清中的碱性磷酸酶（ALP）、谷丙转氨酶（ALT）、谷草转氨酶（AST）、磷酸肌酶激酶（CK）、 $\mathfrak { a } \mathrm { . }$ 淀粉酶（ $\mathbf {  { a } }$ -AMY)活性及尿素（UREA）、高密度脂蛋白胆固醇（HDLC）、低密度脂蛋白胆固醇（LDLC）、免疫球蛋白M（IgM）、葡萄糖（GLU）含量。
+
+屠宰后摘取心脏、肝脏、脾脏、肾脏进行称重记录，摘取小肠测量其长度并记录。  
+脏器指数 $\varXi$ 脏器质量/体质量。
+
+1.4数据统计分析
+
+所有数据采用SPSS17.0统计软件中ANOVA过程进行单因子方差分析， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果
+
+2.1饲粮中添加GIn 对断奶仔猪注射LPS 前后生长性能的影响
+
+由表2可知，试验第1\~7天， $_ \mathrm { G l n + L P S }$ 组的 ADFI 和 ADG 均显著高于对照组中 $( P { < } 0 . 0 5 )$ ），且分别提高了 $20 \%$ 和 $34 \%$ ， $\mathrm { F / G }$ 较对照组降低了 $1 6 \%$ （ $P { > } 0 . 0 5$ ）。试验第8\~14天， $_ \mathrm { G l n + L P S }$ 组的ADFI显著高于对照组（ $. P { < } 0 . 0 5$ ），但ADG却降低了 $10 \%$ ( $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ ），且F/G增加 $2 0 \% ( P { > } 0 . 0 5 )$ )。试验第 $1 5 { \sim } 2 1$ 天,3 组间ADFI、ADG、F/G均无显著差异( $( P { > } 0 . 0 5 )$ 。总的来看，试验第 $_ { 1 \sim 2 1 }$ 天，即 LPS 未处理前，与对照组相比， $_ \mathrm { G l n + L P S }$ 组的 ADFI 显著提高了 $1 1 \%$ ( $P { < } 0 . 0 5$ ），但是第21天体重、ADG和F/G均无显著差异（ $. P { > } 0 . 0 5$ ），F/G反而增加了 $9 \%$ ( $P { > } 0 . 0 5$ ）。LPS处理后的试验第 $2 2 { \sim } 3 0$ 天，LPS 组的 ADFI、ADG 和第 30天体重均显著低于对照组 （ $. P { < } 0 . 0 5 ^ { \cdot }$ ），但是 $_ \mathrm { G l n + L P S }$ 组的ADFI、ADG、第30天体重较LPS组分别提高了 $12 \%$ 、 $1 7 \%$ 、 $7 \%$ ( $P { > } 0 . 0 5$ ），F/G降低了 $9 \%$ ( $P { > } 0 . 0 5$ ）。整个试验期(第 $1 \sim$ 30 天)，LPS的组仔猪的第30天体重显著低于对照组（ $P { < } 0 . 0 5 )$ ），ADFI、ADG均低于对照组（ $. P { > } 0 . 0 5 \$ ）；与LPS 组比较， $_ \mathrm { G l n + L P S }$ 组的ADFI、ADG及第30天体重分别提高了 $7 \%$ 、$12 \%$ 和 $9 \%$ ( $P { > } 0 . 0 5$ ），F/G 降低了 $5 \%$ ( $_ { \cdot \cdot P > 0 . 0 5 } )$ ）。
+
+表2谷氨酰胺对断奶仔猪生长性能的影响  
+Table 2Effects of glutamine on growth performance of weaned piglets   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>脂多糖组</td><td>谷氨酰胺+脂多糖组</td></tr><tr><td>Items 第1～7天Day1 to 7</td><td>Control group</td><td>LPS group</td><td>Gln+LPS group</td></tr><tr><td>第1天体重 Body weight</td><td></td><td></td><td></td></tr><tr><td>on day 1/kg</td><td>6.24±0.19</td><td>6.24±0.24</td><td>6.24±0.16</td></tr><tr><td>第7天体重 Body weight</td><td>6.79±0.24</td><td>6.83±0.2</td><td>6.98±0.13</td></tr><tr><td>on day 7/kg 平均日采食量 ADFI/g</td><td>181.63±7.82b</td><td>207.5±3.28a</td><td>217.86±6.81a</td></tr><tr><td>平均日增重 ADG/g</td><td>92.86±5.13b</td><td>100.18±7.85b</td><td>124.49±7.5a</td></tr><tr><td>料重比F/G</td><td></td><td>2.12±0.17</td><td>1.79±0.09</td></tr><tr><td>第8～14天Day8 to14</td><td>2.14±0.21</td><td></td><td></td></tr><tr><td>第14天体重Body</td><td></td><td></td><td>8.43±0.17</td></tr><tr><td>weight on day 14/kg</td><td>8.4±0.31</td><td>8.21±0.18</td><td></td></tr><tr><td>平均日采食量 ADFIg</td><td></td><td></td><td></td></tr><tr><td></td><td>319.64±8.83b</td><td>321.43±8.1b</td><td>350.39±3.84a</td></tr><tr><td>平均日增重 ADG/g</td><td>230.36±18.2</td><td>218.37±17.28</td><td>207.14±9.35</td></tr><tr><td>料重比F/G 第 15～21天 Day 15 to</td><td>1.43±0.08</td><td>1.52±0.12</td><td>1.72±0.09</td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>第21天体重Body</td><td>11.09±0.34</td><td>11.11±0.25</td><td>11.16±0.33</td></tr><tr><td>weight at day 21/kg</td><td></td><td></td><td></td></tr><tr><td>平均日采食量 ADFI/g</td><td>532.77±22.13</td><td>566.37±6.37</td><td>587.78±13.73</td></tr><tr><td>平均日增重 ADG/g</td><td></td><td></td><td></td></tr><tr><td></td><td>383.93±29.26</td><td>414.29±20.2</td><td>389.8±27.83</td></tr><tr><td>料重比F/G</td><td>1.42±0.07</td><td>1.38±0.06</td><td>1.54±0.09</td></tr><tr><td>第1～21天 Day1 to 21</td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>第21天体重 Body</td><td>11.09±0.34</td><td>11.11±0.25</td><td>11.16±0.33</td></tr><tr><td>weight on day 21/kg</td><td></td><td></td><td></td></tr><tr><td>平均日采食量 ADFI/g</td><td>343.06±12.22b</td><td>365.39±4.34ab</td><td>386.14±6.63a</td></tr><tr><td>平均日增重 ADG/g</td><td>230.95±13.32</td><td>240.82±12.64</td><td>238.78±13.49</td></tr><tr><td>料重比F/G</td><td>1.5±0.06</td><td>1.54±0.08</td><td>1.64±0.07</td></tr><tr><td>第 22～30 天 Day 22 to</td><td></td><td></td><td></td></tr><tr><td>30</td><td></td><td></td><td></td></tr><tr><td>第30天体重Body</td><td>15.38±0.33a</td><td>13.43±0.59b</td><td>14.4±0.57b</td></tr><tr><td>weight on day 30/kg</td><td></td><td></td><td></td></tr><tr><td>平均日采食量 ADFI/g</td><td>758.04±33.9a</td><td>574.83±41.84b</td><td>643.35±40.2b</td></tr><tr><td>平均日增重 ADG/g</td><td>444.45±12.51a</td><td>285.04±38.45b</td><td>333.33±24.6b</td></tr><tr><td>料重比F/G</td><td>1.71±0.09</td><td>2.16±0.25</td><td>1.96±0.13</td></tr><tr><td>第1～30 天 Day1 to 30</td><td></td><td></td><td></td></tr><tr><td>第30天体重Body</td><td>15.38±0.33a</td><td>13.43±0.59b</td><td>14.4±0.57b</td></tr><tr><td>weight on day 30/kg</td><td></td><td></td><td></td></tr><tr><td>平均日采食量 ADFI/g</td><td>475.13±16</td><td>427.16±12.35</td><td>466.04±13.53</td></tr><tr><td>平均日增重 ADG/g</td><td>302.78±9.56</td><td>243.33±22.59</td><td>271.33±18.72</td></tr><tr><td>料重比F/G</td><td>1.57±0.04</td><td>1.84±0.18</td><td>1.74±0.1</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著（ $( P { > } 0 . 0 5 ) .$ )，不同小写字母表示差异显著（ $\scriptstyle \cdot < 0 . 0 5$ )。下表同。
+
+In the same row,values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ),while with different small letter superscripts mean significant difference ( $P$ ${ < } 0 . 0 5 { \mathrm { ) } }$ ). The same as below.
+
+2.2饲粮中添加GIn对LPS诱导应激后断奶仔猪脏器指数的影响
+
+由表3可知，与对照组相比，LPS 组的心脏指数、肝脏指数、脾脏指数、肾脏指数分别提高了 $9 \%$ 、 $3 3 \%$ 、 $3 7 \%$ 、 $8 \%$ ，均无显著差异（ $. P { > } 0 . 0 5$ ）。 $_ \mathrm { G l n + L P S }$ 组的心脏指数、肝脏指数、脾脏指数、肾脏指数比LPS组分别降低了 $10 \%$ 、 $1 9 \%$ 、 $12 \%$ 、 $4 \%$ ，均无显著差异（ $. P { > } 0 . 0 5$ ）。
+
+表3谷氨酰胺对断奶仔猪脏器指数的影响  
+Table 3Effects of glutamine on organ index of weaned piglets   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>脂多糖组</td><td>谷氨酰胺+脂多糖组</td></tr><tr><td>Items</td><td>Control group</td><td>LPS group</td><td>Gln+LPS group</td></tr><tr><td>心脏指数Cardiac index</td><td>0.004 4±0.000 3</td><td>0.004 8±0.000 2</td><td>0.004 3±0.000 3</td></tr><tr><td>肝脏指数Liver index</td><td>0.024 0±0.001 0</td><td>0.032 0±0.002 1</td><td>0.026 0±0.002 0</td></tr><tr><td>脾脏指数 Spleen index</td><td>0.001 9±0.000 1</td><td>0.002 6±0.000 3</td><td>0.002 3±0.000 2</td></tr><tr><td>肾脏指数 Renal index</td><td>0.005 1±0.000 3</td><td>0.005 5±0.000 3</td><td>0.005 3±0.000 2</td></tr></table></body></html>
+
+2.3饲粮中添加Gln对LPS诱导应激后断奶仔猪小肠长度的影响
+
+由图1可以看出，LPS组小肠长度显著低于对照组，但 $_ \mathrm { G l n + L P S }$ 组与对照组之间无显著差异（ $( P { > } 0 . 0 5 )$ ，并且对照组和 $_ \mathrm { G l n + L P S }$ 组的小肠长度均显著高于LPS组（ $( P { < } 0 . 0 5 )$ 。
+
+数据柱标注不同小写字母表示差异显著（ $\cdot P { < } 0 . 0 5 )$ ）。
+
+Value columns with different small letters mean significant difference $( P { < } 0 . 0 5 )$
+
+![](images/fff29763d04ac7b35c17b1a0e3ac4c7ab9b1e56868a296c2736eb2189d9d519b.jpg)  
+图1谷氨酰胺对断奶仔猪小肠长度的影响  
+Fig.1Effects of glutamine on small intestinal length of weaned piglets
+
+2.4饲粮中添加GIn对LPS 诱导应激后断奶仔猪血清生化指标的影响
+
+由表4可知，与对照组相比，LPS组血清ALP活性降低了 $1 6 \% \left( P { > } 0 . 0 5 \right) , \mathrm { G l n \mathrm { + } L P S }$ 组血清ALP 活性显著降低了 $32 \%$ ( $P { < } 0 . 0 5 \$ ）。 $_ \mathrm { G l n + L P S }$ 组血清HDLC 含量较对照组显著降低了 $2 9 \%$ （ $P { < } 0 . 0 5 \rangle$ ），但LPS组血清HDLC含量与对照组无显著差异（ $. P { > } 0 . 0 5$ ）。与对照组相比, $_ \mathrm { G l n + L P S }$ 组和LPS 组血清 $\mathrm { I g } \mathrm { \bf M }$ 含量均显著提高( $. P { < } 0 . 0 5 )$ ，并且 $_ \mathrm { G l n + L P S }$ 组较LPS组血清 $\mathrm { I g } \mathrm { M }$ 含量提高了 $1 6 \%$ （ $P { > } 0 . 0 5 \$ ）。3组血清UREA、LDLC、GLU含量及ALT、AST、CK、 $\mathfrak { a }$ -AMY活性均无显著差异（ $. P { > } 0 . 0 5 .$ ）。
+
+表4谷氨酰胺对断奶仔猪血清生化指标的影响  
+Table 4Effects of glutamine on serum biochemical parameters of weaned piglets   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>脂多糖组</td><td>谷氨酰胺+脂多糖组</td></tr><tr><td>Items</td><td>Control group</td><td>LPS group</td><td>Gln+LPS group</td></tr><tr><td>碱性磷酸酶 ALP/(U/L)</td><td>349.41±32.11a</td><td>295.06±29.32ab</td><td>236.03±13.57b</td></tr><tr><td>尿素UREA/(mmol/L)</td><td>3.39±0.25</td><td>3.5±0.24</td><td>2.91±0.15</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>105.19±6.68</td><td>84.67±9.66</td><td>83.71±4.71</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>116.06±12.93</td><td>91.78±20.94</td><td>70.51±5.47</td></tr><tr><td>高密度脂蛋白胆固醇 HDLC/(mmol/L)</td><td>0.76±0.05a</td><td>0.69±0.02ab</td><td>0.54±0.06b</td></tr><tr><td>低密度脂蛋白胆固醇 LDLC/(mmol/L)</td><td>1.26±0.09</td><td>1.12±0.09</td><td>0.99±0.09</td></tr><tr><td>磷酸肌酸激酶 CK/(U/L)</td><td>2 911.03±575.76</td><td>2 036.09±621.09</td><td>1 094.7±136.08</td></tr><tr><td>免疫球蛋白MIgM/(g/L)</td><td>0.35±0.03b</td><td>0.49±0.03a</td><td>0.57±0.06a</td></tr><tr><td>α-淀粉酶 α-AMY/(U/L)</td><td>2 850.85±287.33</td><td>2 578.85±140.63</td><td>2 791.82±159.95</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>5.72±0.43</td><td>4.63±1.06</td><td>4.8±0.38</td></tr></table></body></html>
+
+3讨论
+
+3.1饲粮中添加GIn对断奶仔猪注射LPS前后生长性能的影响
+
+据研究报道，GIn作为条件性必需氨基酸，也是母猪乳汁中含量最丰富的氨基酸，其对仔猪的生长发育起着非常重要的作用。因早期断奶仔猪胃肠道发育不完善，故消化分
+
+126 解饲粮获取外源性GIn的能力不足，从而导致GIn缺乏，影响其生长性能。本研究发现，饲  
+127 粮中添加 $1 \%$ Gln 仅能显著提高断奶仔猪前期（断奶后1周左右）的生长性能，之后效果不  
+128 明显。出现这一现象的原因可能是断奶后1周左右，饲喂添加了 $1 \%$ Gln 饲粮的断奶仔猪能  
+129 够从饲粮中获取足够的外源性Gln从而缓解了因断奶造成的内源性GIn的不足，从而显著提  
+130 高了其生长性能。另外，未添加GIn 组的仔猪1周后逐渐适应了断奶后环境，并在断奶1  
+131 周后出现了生长补偿7，使得对照组仔猪试验后期的ADG 和F/G 得以提高，所以造成试验  
+132 1周后对照组与添加GIn组的仔猪生长性能并无显著差异。这一结果与代兵等[8和刘涛等[9]  
+133 研究结果基本一致，代兵等[8还发现饲粮中添加GIn 能够提高仔猪断奶后7d小肠绒毛的长  
+134 度，降低隐窝深度，而断奶后14d与饲喂基础饲粮相比，其生长性能和小肠发育差异均不  
+135 显著，这进一步说明了添加GIn 仅能显著提高断奶后1周左右的生长性能。但张建刚等[10]总结之前的研究报道，发现关于饲粮中添加 $1 \%$ Gln 的促进生长效果在仔猪断奶后哪个阶段表现更明显的报道并不一致。 ${ \sf W } { \sf u }$ 等[I研究发现，饲粮中添加 $1 \%$ 的 Gln 对28日龄断奶仔猪前期（21\~35日龄）作用效果不明显，但在断奶后期（21\~49 日龄）作用效果显著，这与张建刚等[10]和钱利纯等[12]报道基本一致。另外，杨彩梅等[13]发现添加 $1 \%$ 的Gln可显著提高断奶前期和整个试验期的 ADG。这些差异可能与仔猪断奶时的生理状况、断奶之前是否饲喂教槽料及仔猪的断奶日龄有关。众所周知，仔猪生长发育不完善容易受到断奶、营养、免疫、饲养管理等因素的影响产生应激，从而影响仔猪的生长性能。目前，腹腔注射LPS 是构建仔猪应激的经典模型[14]。本研究中，在试验第 22、25、28、30 天，Gln 组和LPS 组分别腹腔注射LPS（ $1 0 0 ~ { \mu \mathrm { g / k g ~ B W } } .$ ，导致这2组生长性能显著降低，而添加了GIn 组的生长性能较未添加组有所改善。这与陈静等[5报道基本一致，陈静等[5]研究发现，免疫应激使断奶仔猪生长性能下降，而添加GIn 能够缓解免疫应激对仔猪生长性能的影响。这一结果说明添加$1 \%$ Gln 能够缓解仔猪因LPS诱导的免疫应激对生长性能造成的影响。
+
+由本研究结果可知，饲粮添加 $1 \%$ 的GIn仅能显著提高 28日龄断奶仔猪断奶后1周左右的生长性能，但是在仔猪整个生理期添加 $1 \%$ Gln 能够缓解应激对仔猪生长性能的影响。因此，在实际生产中，我们可以考虑提高仔猪断奶后前期（1周左右）饲粮中Gln 的添加水平，但是在断奶后期GIn的添加水平可在一定程度上有所降低。
+
+# 3.2饲粮中添加Gln对LPS诱导应激后断奶仔猪脏器指数和小肠长度的影响
+
+动物机体的器官指数是一种生物学特性指标，在一定程度上决定了器官功能的强弱。陈静等[15]研究发现，免疫应激显著降低了仔猪的脾脏指数和胸腺指数，而添加Gln 显著提高了应激仔猪的脾脏指数和胸腺指数，显著缓解了LPS诱导应激对仔猪免疫器官的影响。本研究发现饲粮中添加Gln对LPS 诱导应激后心脏、肝脏、脾脏、肾脏的脏器指数均无显著影响，但LPS 组心脏、肝脏、脾脏、肾脏的脏器指数均高于对照组，而 $\mathrm { \ G l n { + } L P S }$ 组的心脏、肝脏、脾脏、肾脏的脏器指数低于LPS 组。这可能是因为注射LPS 造成的脏器水肿或充血导致内脏器官重量增加，而添加GIn 能够在一定程度上缓解了注射 LPS 对心脏、肝脏、脾脏、肾脏造成的损伤。据相关报道小肠长度和重量是衡量小肠发育和吸收能力的关键指标，小肠长度越长及小肠吸收表面积越大，小肠消化吸收功能越强，这也预示着小肠免疫功能越完善，发育的越好[16]。代兵等[8]研究发现，饲粮添加 $1 \%$ Gln 能够显著提高仔猪断
+
+63 奶后1周小肠的重量和绒毛的长度，显著降低隐窝深度。目前研究也表明，饲粮添加 Gln  
+64 可提高绒毛高度，减少隐窝深度，进而改进肠道形态，促进肠道发育。本研究中，对照组和  
+65 $\mathrm { \ G l n { + } L P S }$ 组的仔猪小肠长度显著高于LPS组，而 $_ \mathrm { G l n + L P S }$ 组和对照组之间无显著差异，这  
+66 一结果说明添加GIn能够有效缓解因LPS 诱导应激对仔猪肠道发育造成的影响，从而维护  
+67 了断奶仔猪肠道健康。
+
+# 3.3饲粮中添加Gln对LPS 诱导应激后断奶仔猪血清生化指标的影响
+
+169 血清生化指标是反映机体代谢状况的重要指标，因此通过测定血清中的生化指标可  
+170 以在一定程度上可以反映动物的健康和生长性能，在动物生产研究中有重要的意义[7]。据  
+171 相关研究报道，血清中的IgM具有免疫和营养的作用，当仔猪收到外界各种抗原的刺激，  
+172 会激发免疫反应，此时会在短时间内产生较高水平的抗体（球蛋白）用于抵制抗原[18]。叶  
+173 亚玲等[19]研究表明，饲粮中添加丙氨酸联合GIn 可提高断奶仔猪小肠黏膜固有层免疫球蛋  
+174 白A(IgA)浆细胞数量和分泌型免疫球蛋白A(SIgA)的分泌量。本研究中,LPS 组和 $_ \mathrm { G l n + L P S }$   
+175 组仔猪血清中 $\mathrm { I g } \mathrm { M }$ 含量均显著高于对照组，并且Gln+LPS 组血清中的IgM含量较LPS 组提  
+176 高了 $1 6 \%$ ，从这一结果可知饲粮中添加GIn 可提高血清中抗体蛋白合成水平，从而增强了  
+177 仔猪抵抗应激的能力。相关报道表明，通常情况下畜禽血清中的ALP 活性只有在肠道吸收  
+178 障碍时才表现下降，它是肠道吸收发生障碍时的重要指标[20]。钱利纯等[12]研究发现，断奶  
+179 应激显著降低了仔猪血清中 ALP的活性，而添加GIn 对血清中ALP 的活性无显著影响。本  
+180 研究结果显示，LPS 诱导应激后仔猪血清中ALP 活性显著降低，且添加GIn并不会提高其  
+181 活性。这一结果说明LPS 应激可能会导致仔猪肠道吸收功能障碍，添加GIn 未对仔猪血清  
+182 中 ALP 的活性产生影响。有研究表明，HDLC 能与LPS 结合，从而具有对抗LPS 毒性作用，  
+183 HDLC与LPS 结合能够有效的封闭LPS的活性中心，竞争性的抑制LPS与其受体结合，降  
+184 低LPS 对靶细胞的激活作用,减少炎性介质的释放，从而缓解LPS 引起的免疫炎症反应[21-22]。  
+185 本研究中，由于注射LPS导致LPS组和 $_ \mathrm { G l n + L P S }$ 组血清中HDLC 的含量显著低于对照组，  
+186 并且 $_ \mathrm { G l n + L P S }$ 血清中HDLC 的含量较LPS 组降低了 $2 2 \%$ 。出现这一结果一方面可能是因为  
+187 血清中HDLC 与LPS 结合导致血清中HDLC 含量降低，另一方面可能说明饲粮中添加 $1 \%$   
+188 Gln 增强了HDLC 与LPS 的结合能力，从而降低了血清中HDLC 的含量，提高了仔猪对抗  
+189 LPS 刺激的能力。因此，添加 $1 \%$ Gln 能够调节应激仔猪血清相关生化指标，进一步地缓解  
+190 仔猪应激反应。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加 $1 \%$ 的GIn仅能够显著提高仔猪断奶后1周的生长性能，之后效果不明显。  
+$\textcircled{2}$ 饲粮中添加 $1 \%$ 的Gln 能够提高应激仔猪的血清中IgM的含量并降低HDLC的含量，改善其生长性能和小肠长度，从而缓解仔猪应激。
+
+# 参考文献：
+
+98[1]王继强,赵中生,龙强,等.断奶仔猪的生理特点及降低腹泻的营养调控措施[J].广东饲
+
+199 料,2007,16(1):42-44.  
+200 [2] 唐倩,李吕木,丁维民.谷氨酰胺对肠道营养与健康的影响[J].饲料博览,2015(2):11-16.  
+201 [3] 刘巧婷,何若钢,刘谨,等.谷氨酰胺对保育猪生长性能、免疫器官及其小肠形态学发育程度  
+202 影响的研究[J].饲料工业,2014,35(15):35-40.  
+203 [4] 陈静,刘显军,张飞,等.谷氨酰胺对免疫应激仔猪生产性能的影响[J].黑龙江畜牧兽医:科技  
+204 版,2010(2):61-62.  
+205 [5] 杨淑芬,方热军.谷氨酰胺在动物生产中的应用研究[J].广东饲料,2015,24(12):27-28.  
+206 [6] WU G,KNABE D A.Free and protein-bound amino acids in sow's colostrum and milk[J].The  
+207 Journal of Nutrition,1994,124(3):415-424.  
+208 [7] 刘永功,杜伦,杨胜,等.3 周龄与6 周龄断奶仔猪生产性能的比较[J].中国畜牧杂  
+209 志,1990,26(1):19-21.  
+210 [8] 代兵,邹思湘,陈够芬,等.谷氨酰胺对早期断奶仔猪生长性能及肠道形态发育的影响[J].畜  
+211 牧与兽医,2011,43(11):7-11.  
+212 [9] 刘涛,彭健.在日粮中添加谷氨酰胺和谷氨酸对断奶仔猪生产性能的影响[J].华中农业大学  
+213 学报,1999,18(5):457-460.  
+214 [10] 张建刚,李文婷,侯玉洁,等.谷氨酰胺对断奶仔猪生长性能和健康状况的影响[J].养  
+215 猪,2012(2):25-27.  
+216 [11] WU G,MEIER S A,KNABE D A.Dietary glutamine supplementation prevents jejunal atrophy  
+217 in weaned pigs[J].The Journal of Nutrition,1996,126(10):2578-2584.  
+218 [12] 钱利纯,尹兆正,郑根华,等.谷氨酰胺对断奶仔猪生长性能的影响[J].浙江大学学报:农业  
+219 与生命科学版,2005,31(5):649-653.  
+220 [13] 杨彩梅,陈安国.谷氨酰胺对早期断奶仔猪生产性能和小肠消化酶活性的影响[J].中国畜  
+221 牧杂志,2005,41(6):21-22.  
+222 [14] LIU Y L,LI D F,GONG L M,et al.Effects of fish oil supplementation on the performance and  
+223 the immunological,adrenal,and somatotropic responses of weaned pigs after an Escherichia  
+224 coli lipopolysaccharide challenge[J].Journal of animal science,2003,81(11):2758-2765.  
+225 [15] 陈静,刘显军,张飞,等.谷氨酰胺对免疫应激仔猪免疫器官指数的影响[J].中国兽医杂  
+226 志,2010,46(9):3-5.  
+227 [16] 董泾青,董琦,刘茂玲.新型早产猪短肠综合征模型的建立[J].中国普外基础与临床杂  
+228 志,2015,22(9):1052-1056.  
+229 [17] 周玉香,吕玉玲,王洁,等.血液生化指标在动物生产与营养调控研究中的应用概况[J].畜牧  
+230 与饲料科学,2012,33(5):72-74.  
+231 [18] MORRILL J L,MORRILL JM,FEYERHERM A M,et al.Plasma proteins and a probiotic as  
+232 ingredients in milk replacer[J].Journal of Dairy Science,1995,78(4):902-907.  
+233 [19]叶亚玲,王自蕊,游金明,等.丙氨酰-谷氨酰胺对断奶仔猪小肠黏膜固有层免疫球蛋白A浆  
+234 细胞数量、分泌型免疫球蛋白A 及黏膜中白细胞介素含量的影响[J.动物营养学  
+235 报,2015,27(1):59-66.  
+236 [20] 王秋颖.碱性磷酸酶特性及其应用的研究进展[J].中国畜牧兽医,2011,38(1):157-161.  
+237 [21] LEVELS J H M,ABRAHAM P R,VAN DEN ENDE A,et al.Distribution and kinetics of  
+238 lipoprotein-bound endotoxin[J].Infection and Immunity,2001,69(5):2821-2828.  
+239 [22] KITCHENS R L,WOLFBAUER G,ALBERS J J,et al.Plasma lipoproteins promote the release  
+240 of bacterial lipopolysaccharide from the monocyte cell surface[J].The Journal of Biological  
+241 Chemistry,1999,274(48):34116-34122.  
+4
+
+Effects of Glutamine on Growth Performance and Serum Biochemical Parameters of Lipopolysaccharide Challenged Piglets   
+TIAN Junquan1,2HE Liuqin1,2HUANG Niu³LI Huan³CUI Zhijie4LI $S \mathrm { i } ^ { 3 }$ YAO Kang1\*   
+(1. Key Laboratory of Agro-Ecological Processes in Subtropical Region, Provincial Engineering Research Center of Healthy Livestock, Scientific Observing and Experimental Station of Animal Nutrition and Feed Science in South-Central, Ministry ofAgriculture, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha 410125, China; 2. University of Chinese Academy of Sciences, Beijing 1Ooo49, China; 3. College of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, China; 4. Xiangtan University, Xiangtan, 411105, China)
+
+Abstract: The objective of the study was to evaluate the effects of dietary glutamine (Gln)   
+supplementation on growth performance in the different stages,and the effects of Gln on growth   
+performanceand serumbiochemicalparametersafterintestinalinjuryinducedby   
+265 lipopolysaccharide (LPS) of weaned piglets.Twenty-four cross-bred (DurocxLandracexYorkshire)   
+266 piglets weaned at 28 days of age were randomly assigned into 3 groups with 8 replicates per group   
+267 and 1 pig per replicate. Pigs in the control group and LPS group were fed the basal diet,and the   
+268 others in the $_ \mathrm { G l n + L P S }$ group were fed the basal diet supplemented with $1 \%$ exogenous Gln. On   
+269 day 22,25,28 and 30 of the trial,piglets in the LPS and $_ \mathrm { G l n + L P S }$ groups were administered   
+270 intraperitoneally with $1 0 0 ~ { \mu \mathrm { g / k g } }$ LPS，whereas pigs in the control group were injected   
+271 intraperitoneally with the same volume of sterile saline.The experiment lasted for 3O days. The   
+272 results showed as follows: 1)before LPS challenge（day 1 to 21 of the trial）,compared with the   
+273 control group,the average daily feed intake (ADFI) and average daily gain (ADG) of weaned   
+274 piglets in $_ \mathrm { G l n + L P S }$ group were significantly increased on day 1 to 7 of the trial $( P { < } 0 . 0 5 )$ ，the   
+275 ADFI of weaned piglets in $\mathrm { \ G l n { + } L P S }$ group were significantly increased on day 8 to 14 and 1 to 21   
+276 of the trial $( P { < } 0 . 0 5 )$ . 2) After LPS challenge （day 22 to 30 of the trial), the ADFI,ADG and body   
+277 weight on day 3O of weaned piglets in control group were significantly higher than those in LPS   
+278 and $\mathrm { \ G l n { + } L P S }$ groups $( P { < } 0 . 0 5 )$ , the ADFI, ADG and body weight on day 30 of weaned piglets in   
+279 （204号 $\mathrm { \ G l n { + } L P S }$ group were higher than those in LPS group $( P > 0 . 0 5 )$ . 3） The small intestine length of   
+280 weaned piglets in LPS group was significantly lower than that in control and $_ \mathrm { G l n + L P S }$ groups   
+281 （20 $( P { < } 0 . 0 5 )$ , but there was no difference between the control group and $\mathrm { \ G l n { + } L P S }$ group $( P { > } 0 . 0 5 )$ .4)   
+282 Compared with the control group,the high density lipoprotein cholesterol content and alkaline   
+283 phosphatase activity in serum of weaned piglets in $_ \mathrm { G l n + L P S }$ group were significantly decreased   
+284 （20 $( P { < } 0 . 0 5 )$ ,but there was no difference between the $_ \mathrm { G l n + L P S }$ group and LPS group $( P { > } 0 . 0 5 )$ ; the   
+285 serum immunoglobulin $\mathbf { M }$ content of weaned piglets in $\mathrm { \ G l n { + } L P S }$ and LPS groups was   
+286 significantly increased $( P { < } 0 . 0 5 )$ . The results indicate that dietary supplemented with $1 \%$ Gln can   
+287 improve the growth performance of piglets after weaning 1 to 7 day,and then it is not obvious.   
+288 Dietary supplemented with $1 \%$ Gln can regulate the serum biochemical parameters; improve the   
+289 growth performance and small intestine length of piglets, thereby alleviating weaning stress.   
+290 Kev words: glutamine: weaned Diglets: LPS: growth performance: serum biochemical parameters

@@ -1,0 +1,189 @@
+# 隔代教育对孙辈和祖辈的影响：双刃剑效应
+
+卢富荣」宋煜静」刘路培」方选智」张彩2(山西大学教育科学学院，太原030006)
+
+(北京师范大学中国基础教育质量监测协同创新中心，北京100875)
+
+摘要隔代教育是指祖辈对孙辈的抚养和教育，随着经济社会的发展，“隔代教育”已成为“亲代教育”的一种重要补充形式。隔代教育对祖孙两辈人的身心健康均存在“双刃剑”效应。生物进化论、社会交换理论和家庭系统理论为理解隔代教育对孙辈的影响提供了理论支持，角色紧张和角色强化理论可以加深隔代教育对祖辈影响的认识。未来研究应明确隔代教育的定义和类型，控制边界因素进行更为深入的综合性研究，并进一步推进隔代教育的本土化研究。
+
+关键词隔代教育；身体健康；心理发展；双刃剑效应
+
+家庭是孩子的第一所学校，在个体的成长中发挥着至关重要的作用。随着祖辈预期寿命的增加、母亲就业机会的增多、单亲家庭数量的增加以及“二胎”时代的到来，“隔代教育”已成为“亲代教育”的一种重要补充形式。国外隔代教育的流行率从 $7 \% { \sim } 5 8 \%$ 不等(Hank&Buber,2009； Atr-Schwartz, Tan,& Buchanan,2009； Albuquerque,2011； Hayslip & Kaminski,2005; Dunifon, Ziol-Guest,& Kopko,2014; Sadruddin et al., 2019)。在我国，隔代教育的比率则更高。据调查显示，在北京 $70 \%$ 左右的孩子接受隔代教育，上海0\~6岁的孩子中 $50 \% { \sim } 6 0 \%$ 由祖辈抚养，广州接受隔代教育的孩子占到总数的一半(黄祥祥,2006)，农村地区该现象更为普遍，超过八成的留守儿童正在接受隔代教育。
+
+隔代教育已经成为当下普遍的家庭抚养模式，其利弊也成为民众和研究者关注的焦点。在西方国家，隔代教育的形成主要是由于父母的离婚、毒品滥用、酗酒、被监禁、虐待儿童、死亡等，在这种情况下，祖辈的照顾可以为孙辈提供保护感和归属感(Atar-Schwartz,Tan,Buchanan,Flouri,&Griggs,2009)。同时，在照顾孙辈的过程中，老年人还可以发挥余热，获得更多的回报感和满足感(Hayslip& Kaminski,2005; Mahne ＆ Huxhold,2015)。但也有研究者认为隔代教育会产生祖辈生活满意度降低(Purcal,Brennan,Cass,& Jenkins,2014; Taylor,
+
+Marquis,Batten,& Coall,2016)、孙辈出现更多问题行为(Gershoff,2013; Pilkauskas &Dunifon,2016)等消极影响。可见，隔代教育对祖孙两辈均存在“双刃剑”效应。然而，当下关于隔代教育影响的研究，在我国仍然是一个较少被涉及的话题。本文基于心理学视角，系统地梳理与分析隔代教育的相关研究，深入解析隔代教育“双刃剑”效应的具体表现及其内在机制，并对未来研究方向提出针对性建议，以期为我国隔代教育的本土化研究及实践提供借鉴。
+
+# 1隔代教育的内涵和表现形式
+
+虽然隔代教育在全球范围内比较普遍，但对其定义仍未达成一致。本研究通过梳理已有研究者的定义，发现主要有以下几种类型：(1)以“祖、父辈是否共同参与"来界定隔代教育。李阳和曾彬(2016)认为隔代教育是祖辈单独抚养孙辈。孔屏和王玉香(2014)认为隔代教育是祖辈单独或与父母共同抚养孙辈。阙攀(2011)据此将隔代教育分为两类：完全隔代教育和不完全隔代教育。完全隔代教育是指父母长期与儿童分离，孙辈的生活和教育完全由祖辈负责。例如，双亲外出的留守儿童。不完全隔代教育是指父母和儿童短暂分开，祖辈暂时承担养育责任或者祖辈与父辈住在一起共同抚养孙辈。例如“周末父母”，工作日主要由祖辈照顾，周末由父母照顾。(2)以“祖辈参与时间的多少”来界定隔代教育。有的学者认为祖辈只要参与照顾孙辈就是隔代教育，而有的学者则认为祖辈照顾孙辈达半年以上才称为隔代教育(戚海燕，朱家存,2010)。徐炜芸和徐璐璐(2018)据此将隔代教育分为三类：隔代教育主导，祖辈照顾时间明显多于父辈；隔代教育辅助，祖辈照顾的时间与父辈相当；无隔代教育，祖辈不参与照顾孙辈。(3)以“祖、父辈承担的抚养责任”来界定隔代教育。有研究者认为隔代教育是父母完全放弃抚养孩子的责任，由祖辈承担全部或主要抚养责任(段飞艳，李静,2012)，而有的研究者则认为隔代教育是指祖辈参与抚养孙辈，只承担部分抚养责任。
+
+由于东西方文化的差异，隔代教育的内涵和表现形式也存在一定差异。西方国家普遍不认同照顾孙辈是祖辈应尽的义务，因此西方研究者关注的隔代教育集中于高危家庭，其主要特点是父母由于毒品滥用、酗酒、被监禁、虐待儿童、死亡等导致其无法或者不愿意照顾子女(Shakya,Usita,Eisenberg,Weston,&Liles,2012)，父母完全或部分放弃孩子的监护责任，由祖辈承担主要抚养责任。西方国家的隔代教育更多关注的是特殊家庭，从心理学的范畴探讨隔代教育的原因及其对祖辈和孙辈产生的影响。相比之下，我国隔代教育，一方面是传统孝道、儒家文化的产物，另一方面也是社会变迁产生的一种社会现象。由于我国城乡二元结构的特点，隔代教育在城市和农村的关注对象存在一定差异。在城市，隔代教育主要包括完全隔代教育(成年父母不会抚养子女或离异等)和不完全隔代教育(三代同堂、周末父母等)。
+
+在农村，关注更多的是以留守儿童为主的完全隔代教育。
+
+# 2隔代教育对孙辈的影响
+
+# 2.1隔代教育对孙辈身体健康的“双刃剑”效应
+
+对于任何个体来说，繁衍后代都具有重要意义。从进化心理学视角看，祖辈抚养孙辈，其实是有效传递自身基因、繁衍后代的一种手段。实证研究表明，隔代教育对孙辈身体健康的影响主要体现在生长发育、健康状况、死亡率、意外伤害、儿童饮食行为和肥胖等方面。祖辈丰富的育儿经验可以帮助母亲共同照顾婴儿，这在一定程度上促进了婴幼儿的身体健康。研究者较一致认为，隔代教育对孙辈最为重要的影响是提高了其存活率。然而，存活率的提高在祖辈的性别和谱系上存在差异，Sear 和 Mace(2008)对45项涉及祖辈投资影响婴儿死亡率的研究进行了综述，结果发现女性祖辈对孙辈存活率起着积极影响，其中，外祖母(母系祖辈)的积极影响最为明显(Gibson& Mace,2005)，而男性祖辈的影响几乎可以忽略不计。此外，澳大利亚(Rogers,Bell,& Mehta,2019)、巴西(Nunes,Giugliani,do Espirito Santo,&Oliveira,2011)和英国(Tanskanen& Danielsbacka,2018)的研究均表明，隔代教育对孙辈的存活率、身高、体重和保护孙辈免受家庭物理伤害方面均存在积极影响。
+
+隔代教育虽然对孙辈的身体健康起到了一定的促进作用，但在整个生命周期内，隔代教育的消极影响随着个体的成长逐渐显露出来。其中，主要表现在孙辈身体发育迟缓和肥胖等方面。多项研究一致表明，由祖辈照料的儿童健康结果较差(Li,Adab,& Cheng,2015;Sadruddin,et al.,2019)。日本(Sata et al.,2015)、瑞典(Lindberg et al.,2016)和美国(Krueger, Jutte,Franzini,Elo,&Hayward,2015)的研究均表明，与祖辈同住孙辈的BMI指数较高、身体发育迟缓、身体机能下降。研究者推测这可能是祖辈不恰当的喂养策略导致的，且相关研究也证实，由祖辈主要照顾的孩子比那些由父母或其他成年人主要照顾的孩子更经常吃不健康的食物(Li et al.)。
+
+# 2.2隔代教育对孙辈心理发展的“双刃剑”效应
+
+# 2.2.1认知发展
+
+关于隔代教育与孙辈认知发展的研究结果不一致。其中，隔代教育对孙辈认知发展的积极影响，主要体现在认知功能、沟通技巧、语言发展、学业成就等方面(Tanskanen&Danielsbacka,2018; Reynolds,Fernald, Deardorf,& Behrman,2018; Deindl & Tieben, 2016)。社会再生产理论(Theory of social reproduction)认为，祖辈的物质、文化和社会资源，可以帮助孙辈获得教育上的成功(Bourdieu,1971)。在隔代家庭中，祖辈对孙辈认知发展的影响可以是为孙辈提供良好的学习环境，也可以是通过自身的言传身教(King＆ Elde,1997)。实证研究也表明，与祖辈同住的孩子，有更好的沟通技巧和更高的学业成绩(Pong&Chen,2010; Cruise& O'Reilly, 2014)。
+
+隔代教育对孙辈认知发展的消极影响，主要体现在创造力、注意力、学业成就等方面。例如，泰国的研究表明，生活在低收入祖辈家庭中6\~12岁孙辈的认知发展更有可能低于正常水平(Nanthamongkolchai, Munsawaengsub,& Nanthamongkolchai, 2011)。徐炜芸和徐璐璐(2018)研究发现，与隔代抚养辅助(祖-父辈共同抚养)组的幼儿相比，隔代抚养主导(主要由祖辈抚养)组的幼儿在创造力总分及四个维度(流畅性、灵活性、独创性、精确性)上得分较低。一项针对欧洲4583个儿童进行的研究表明，与祖辈同住的儿童更有可能出现注意力缺陷障碍(Masfety etal.,2018)。在学业成就上，来自美国的数据表明，教师报告由祖辈抚养的孙辈平均语言素养和数学成绩明显低于父母抚养的孩子(Pilkauskas&Dunifon,2016)。
+
+# 2.2.2社会性发展
+
+虽然有关隔代教育与孙辈社会性发展的研究较多，但在该问题上尚未形成一致定论。其中，隔代教育对孙辈社会性发展的积极影响，主要体现在孙辈的情绪、问题行为和心理健康等方面。祖辈提供的育儿支持是家庭支持的核心组成部分，是孙辈重要的情感和经济资源。祖辈通过为孙辈提供无条件的关怀、指导和支持，可以有效促进其社会性发展。相关的研究表明，隔代教育可以提高孙辈的生活信心、心理健康和生活满意度(Ruiz＆ Silverstein,2007;Yorgason,Padilla-Walker,&Jackson,2011)。祖辈作为家庭社会压力的缓冲器，可以降低孙辈的抑郁水平、减少孙辈的同伴问题以及一般的行为问题，限制孙辈的反社会行为和非法使用药物行为，减少孙辈的犯罪率等(Liu,2016;Liu,2019; Profe&Wild,2015;Wild& Gaibie,2014)。然而，祖辈的积极影响在不同家庭结构上可能存在差异。越来越多的证据表明，祖辈对孙辈的积极影响尤其在离婚、监禁、父母死亡、经济困难和艾滋病等特殊家庭上更明显，在这些家庭中祖辈扮演着一个重要的补偿角色(Attar-Schwartz et al.,2009)。且相关研究证实，祖辈参与对孙辈的积极作用也会受到谱系和孙辈性别的调节。Tanskanen 和Danielsbacka(2012)的研究发现，祖辈参与和孙辈较低的情绪和行为问题相关，且母系祖辈比父系祖辈更能减少孙辈的情绪和行为问题。Liu (2019)对中国青少年的研究表明，祖母的参与减弱了父母严厉教养方式对青少年犯罪行为的有害影响，但这种影响只发生在男生身上。
+
+代教育对孙辈社会性发展也存在一定的消极作用。在西方，与祖辈同住的孙辈，其父母多数会吸毒、被监禁、虐待儿童(Shakya et al.,2012)，这些因素本身加剧了这部分儿童问题行为出现的可能，加之与亲生父母分离，更可能加重儿童的压力，导致创伤。一系列的研究表明，由祖辈抚养的孙辈会表现出更多的情绪和问题行为(Gershoff,2013;Pilkauskas &Dunifon,2016)。美国一项纵向研究表明，与祖辈同住的孙辈从事犯罪活动的可能性显著高于与父母同住的孩子(Pilkauskas&Dunifon,2016)。针对非洲裔 3\~16 岁儿童青少年的研究表明，与祖父母一起生活在低收入城市社区的儿童青少年，犯罪率更高，存在焦虑、抑郁情绪以及一系列的适应困难问题(Sadruddin,et al.,2019)。
+
+# 2.3隔代教育对孙辈影响的内在机制
+
+通过以上文献分析可以发现，无论是横向研究还是纵向研究，隔代教育对孙辈影响的异质性明显。以上研究结果的不一致，一是隔代教育的类型不同造成的，有的研究是完全隔代教育，有的则是不完全隔代教育，不完全隔代教育中有些是祖辈主导，有些是祖辈辅助(Masfety etal.,2018; Pilkauskas & Dunifon,2016)。二是抽样偏差造成的(Deindl& Tieben,2016;Sadruddin et al.,2019)，不同研究由于取样的差异可能导致研究结果的异质。三是隔代教育与儿童发展之间的关系有可能是非线性的。研究者Coall和Hertwig(2010)就曾提出隔代教育对孙辈的影响可能是一个“倒U 型曲线”。这就意味着适度的祖辈抚养对孙辈的发展最有利，过高或过低的祖辈抚养都会对孙辈产生消极影响。四是要充分考虑家庭生态系统的复杂性，隔代教育对孙辈产生影响的过程可能会受到其他因素的中介和调节作用。正如家庭系统理论(Minuchin,1985)所强调的，同一家庭环境中的各个家庭子系统是相互交织的，并且可能相互干扰。隔代教育中，祖辈对孙辈产生影响路径的复杂性以及三辈人之间的互动方式、自身特质的差异都可能导致“双刃剑”效应的产生。
+
+隔代教育中祖辈为什么会对孙辈产生影响？生物进化论、社会交换理论和家庭系统理论均提供了理论支持。首先，从生物进化论的角度看，个体的繁衍有两种形式：通过自身(亲代教育)或其他亲属(如祖辈，隔代教育)传递自己基因。祖父母有一种遗传上的动机来确保他们孙辈的存活和发展(Hawkes,2003)。祖父母投资的进化意义是基于这样一个概念，通过为他们的后代提供额外的支持和资源，使得后代可以更好地传播他们的基因(Hamilton,1964;吴宝沛，朱小琴，张雷,2013)。社会交换理论从经济学的角度阐述了家庭成员间的关系。社会交换理论认为，人们喜欢维持对他有回报的关系。隔代教育中，祖辈抚养孙辈这一行为是祖辈对孙辈的投资，通过经济支持、情感温暖等形式借贷出去，以期获得孙辈的回报，这样就形成了经济学中的“投资-回报”的双向流动(蒋泽,2008)。家庭系统理论提供了一个广泛的心理-社会模式，家庭可以看作是多个子系统的集合，各子系统之间相互联系、相互制约。
+
+在家庭生命周期内，家庭成员之间的互动呈现出亲密与疏离的交互状态。此外，家庭系统理论还强调除亲子关系外，其他家庭关系的重要性(Cox& Paley,2003)。祖辈通过提供多方面的支持，帮助减轻家庭和社会压力，使个体或家庭可以成功地应对当代生活的压力。
+
+# 3隔代教育对祖辈的影响
+
+# 3.1隔代教育对祖辈身体健康的“双刃剑”效应
+
+在隔代教育中，照顾孙辈是祖父母提高其活力的一种策略(Hilbrand,Coall,Meyer,Gerstorf,&Hertwig,2017)。研究表明，祖辈看护孙辈过程中的祖孙互动增加了祖父母进行体育锻炼的机会，这在一定程度上可以降低健康风险(Kuetal.,2013;Xu,2019)。在欧洲，照顾孙辈的祖母报告身体健康状况良好(DiGessa,Glaser,& Tinker,2016)。在中国大陆、香港和台湾最近的研究也发现，祖父母为孙辈提供偶尔的，广泛的，甚至是监护式的照顾对他们的健康也是有利的(Ku et al.,2013)。
+
+但有部分研究也发现，隔代教育在一定程度会加剧祖辈的健康风险。美国早期的研究表明，照顾孙辈与祖辈较差的健康结果相关(Xu,2019)。隔代教育中祖辈躯体活动受到限制，并且照顾孙辈是一项体力活，加之老年人的身体处于衰退期，因此与非隔代教育家庭中的祖辈相比，照顾孙辈的祖父母身体健康状况较差，尤其是那些经常照顾10 岁以下孙辈的老年人(Komonpaisarn & Loichinger, 2019)。
+
+# 3.2隔代教育对祖辈心理健康的“双刃剑”效应
+
+有关文献表明，隔代教育中祖父母自我效能感、自尊感、自我价值感的增强，晚年生活有了新的目标，大家庭关系更加亲密，这些都对他们的主观幸福感和心理健康会产生积极的影响(Mahne&Huxhold,2015)。Hayslip 和 Kaminski(2005)的研究表明抚养孙辈使祖辈获得第二次育儿机会，获得回报感和满足感。也有研究表明，孙辈的存在有利于老年人的心理健康，照顾孙辈的祖辈报告有更高的幸福感和更低的抑郁水平(Marco& Marco,2018；Courtin &Avendano, 2016)。
+
+隔代教育也会对祖辈的心理健康产生一定的消极影响。多项研究清楚的表明，祖父母作为一名看护人，在很大程度上由于社会孤立和同伴疏远，对其心理健康产生了不利影响(Purcal et al.,2014; Taylor et al.,2016)。Arpino 和 Bordone(2017)发现，定期照顾孙辈对祖母参与社会活动(如志愿活动、教育培训课程、参与政治或社区相关组织)的数量有显著的负面影响。Brunello 和 Rocco(2016)的研究表明，每月增加10 个小时的托儿时间会增加祖父母出现抑郁症状的可能性。同时，在面临家庭危机时，祖父母可能会被要求在几乎没有准备的情况下为他们的孙辈提供基本的照顾。这些情况不仅对孙辈来说是有压力的，对祖父母来说也是如此，他们经常需要在社会、心理和经济上做出重大的调整，以进入一个他们没有计划、准备不足的角色(Murphey,Cooper,& Moore,2012)。
+
+# 3.3隔代教育对祖辈影响的内在机制
+
+很显然，隔代教育对祖辈身心健康的影响同样存在“双刃剑”效应。首先，隔代教育对祖辈的影响可能与文化背景有关。Hofstede(2001)认为世界各地的文化差异之一是个体主义和集体主义文化价值观。在个体主义文化下，人们倾向于追求个人的幸福和成功。而在集体主义文化下，人们倾向于以群体为导向，重视对他人的忠诚和支持。美国和中国是个体主义文化和集体主义文化中具有代表性的国家。在美国，人们追求个人的独立性，因此，祖辈往往认为照顾孙辈不是其应有的责任。照顾孙辈导致祖辈的社交活动有所减少(Arpino &Bordone,2017)，使得祖辈由于社会孤立和同伴疏远，对其心理健康产生了负面影响。然而中国的祖辈深受集体主义价值观的影响，未把抚养孙辈作为一种负担，反而将其视为“历史使命”和个人乐趣(Lo&Liu,2009)，从而获得了更高的生活满意度。尽管强大的家庭代际纽带在各个国家都很常见，但祖父母的具体情况却有很大的不同，如祖辈所处的社会经济地位、社会保障水平都可能是预测祖辈身心健康的影响因子(Xu,2019)。其次，隔代教育对祖辈影响的异质性可能会受到祖辈承担责任的影响。Thiele 和 Whelan (2006)提出祖辈参与和心理健康之间的关系是复杂的，当祖辈不承担监护责任且经常能与孙辈接触时，祖辈体验到最大程度的幸福感。另外，祖辈的心理健康与父辈提供的经济帮助也有很大关系。在中国农村地区进行的一项研究表明，当祖辈照顾孙辈可以得到经济补偿时，其生活满意度更高(Xu& Chi,2011)。除此之外，祖辈参与隔代教育之前身体和心理健康的基线水平、研究数据的特点(Sneed& Schulz,2017; Komonpaisarn&Loichinger,2019)等也可能导致研究结果的异质性。在以往研究中，很难将这一系列的因素进行控制，所以会出现相互矛盾的研究结果。
+
+从理论上来说，角色紧张和角色强化理论为理解隔代教育对祖辈的“双刃剑”效应提供了理论指导。角色紧张理论(Role strain theory)认为个体拥有多种社会角色，当个体不能在多种社会角色之间进行协调平衡时，角色紧张就会出现或加剧(Goode,1960)。同时依据压力过程模型(Stress process model)，当某种社会角色的压力超过个体的生理和心理能力时，就可能成为对个体健康有害的“慢性压力源”(Pearlin,1989)。对于那些只是偶尔提供照顾的祖辈来讲，可能不会产生任何影响。但是，对于那些长期照顾孙辈的祖父母来说，长时间的照顾、过高的压力都会对其健康产生负面影响(Chen&Liu,2012)。以往关于隔代教育对祖辈健康不利的很多研究支持了角色紧张理论。
+
+但是，角色强化理论则支持隔代教育对祖辈身心健康具有积极作用。角色强化理论(Roleenhancement theory)表明，个体可以通过多种社会身份的积累获得利益(Sieber,1974)。社会角色帮助个体获得社会支持与满足的机会，而照顾孙辈认为是一种“生产性角色”(Rozario,Morrow-Howell,& Hinterlong,2004)。支持角色强化理论的研究表明，照顾孙辈让祖辈获得更多的回报感和满足感(Hayslip&Kaminski,2005)。同时研究表明，密切的社会联系可以延长人的寿命，而祖孙关系正是老年人社会支持网络中的重要组成部分(Chen&Liu,2012)。
+
+# 4问题与展望
+
+在积极应对人口老龄化，全面实施二孩政策的背景下，隔代教育更应受到广泛关注。因此，本文基于心理学的视角对隔代教育的“双刃剑”效应进行了解读。然而，目前隔代教育的研究比较零散、研究视角各异、研究结论多样，可能与隔代教育的概念界定、边界因素、数据类型等多种因素有关。未来的研究应多关注以下几个方面：
+
+第一，明确隔代教育的定义和类型。目前隔代教育的表现形式多样，后续研究中需要明确隔代教育的定义和类型。不同隔代类型下，祖辈对孙辈的影响是不确定的。Dunifon(2013)总结西方文献发现，非共同居住家庭中(完全隔代家庭)，由祖父母单独抚养的儿童面临着更多的挑战，包括健康问题、经济问题和学校问题。不同的隔代类型在隔代教育的“双刃剑"效应起到了至关重要的作用，因此，在未来的研究中，需要深入开展不同隔代教育类型的研究。
+
+第二，加强对相关重要边界因素的控制。隔代教育对祖辈和孙辈的影响结果异质性明显，可能与祖辈和孙辈边界因素的控制程度有关。祖辈的种族、谱系、性别、与孙辈居住距离的远近、接触频率、拥有孙辈的数量等因素可能是造成研究结果不统一的重要因素。Hirsch，Mickus和Boerger(2002)发现相比于白人青少年，黑人青少年更倾向于建立良好的祖孙关系。但是，Dunifon(2013)控制了祖辈参与度后并没有发现差异。母系家庭成员可能比父系家庭成员投资更多，对儿童的影响更大(Attar-Schwartz et al.,2009)，且祖父母对女儿孩子的投资比儿子孩子要多(Michalski& Shackelford,2005)。Dunifon和Bajracharya(2012)对551名儿童进行的研究报告中提出，与那些住在更远地方的孩子相比，与祖父母居住地不到100英里的孙子女与祖父母的关系更好。大量研究发现，孙辈的性别、年龄、种族等是隔代教育的重要预测因素(Atar-Schwartz et al.,2009)。但是，很多相关研究中并没有考虑祖辈和孙辈的这些重要因素，后续相关研究应考虑到研究对象的复杂性，尽可能控制一些变量，以期增强对实践的指导性。
+
+第三，进行多层面的隔代教育研究。已有研究在探讨隔代教育对祖孙两辈，尤其是孙辈的影响中，常常会忽略孙辈原生家庭的作用。根据父母中介理论(Robertson,1975)，父辈可能成为祖孙之间的“守门员”。代际稳定性理论曾假设，两个家庭成员(比如祖辈和孙辈)的关系质量，取决于其他家庭成员之间的互动模式。祖-父辈共同养育(Li&Liu,2019)、祖-父辈的关系(Atar-Schwartz et al.,2009)等因素会调节隔代教育中祖辈对孙辈的影响。由于祖辈、父辈和孙辈处于同一家庭系统中，因此未来的研究亟需结合成对数据研究方法，开展隔代教育对祖孙身心发展影响内在机制的多层面研究。
+
+第四，开展多种研究方法相结合的隔代教育研究。已有关于隔代教育的研究大多数是基于横断数据来探讨隔代教育对祖孙两个群体某个时间点发展的影响，缺乏通过追踪数据、成对数据分析影响的稳定性。生命历程理论强调，家庭成员之间的联系会随着时间的推移和社会情景的变化而变化(Crosnoe&Elder,2002)，这一观点表明隔代教育对祖孙两辈的影响可能随着时间的变化而变化。Mollborn，Fomby和Dennis(2011)的研究与Dunifon，Kowaleski-Jones(2007)的研究均考察了隔代教育对孙辈发展的影响，但却得出了相反的结论，造成这两项研究得出不同结论的原因可能是被试的年龄不同。前者的研究对象是婴幼儿，后者研究的对象是学龄期儿童。因此，结合自我报告、老师和家长报告，使用追踪数据开展关于隔代教育对祖辈和孙辈各时期影响的变化，对隔代教育的作用进行全方位的分析具有重要的意义。另外，任何事物的作用都是相互的，祖辈的特点可以影响孙辈，孙辈的特点也会反作用于祖辈，因此通过追踪数据也可以很好的分析他们之间的相互影响。
+
+第五，推进本土化的隔代教育研究。西方隔代教育的产生原因和中国有些不同，在西方背景下，在有限的评估祖辈影响的研究中，大部分研究都集中于高危家庭。在高危家庭中由于孩子父母去世、离婚、物质成瘾或进监狱造成父母一方或双方缺位，祖辈不得不成为孩子的主要照看人或监护人，这些孙辈本来就处于高危家庭，其消极发展结果可能并不单纯是由于祖辈抚养导致的。在我国，除了与西方类似的原因造成的隔代教育外，大量普通家庭中祖辈会广泛参与到孙辈的日常照顾中(Xu,2019)，且由于我国特有的城乡二元结构，城乡经济发展不均衡，农村劳动力外流，致使老人孩子成为留守部落，加之中国幼托机构尚不发达，隔代教育便成为面对社会现实的无奈之举。因此，城乡隔代教育对祖孙两辈的影响差异可能较大。因此，未来的研究中需要结合文化背景深入开展隔代教育的本土化研究。
+
+# 参考文献
+
+段飞艳，李静.(2012).近十年国内外隔代教养研究综述．上海教育科研,4(34),13-16.
+
+黄祥祥.(2006)．论隔代教育与儿童心理的发展．经济与社会发展,4(4),203-205.   
+蒋泽.(2008).祖父母投资的进化心理学研究-以江苏省M校中学生为例(硕士学位论文).复旦大学，上海 孔屏，王玉香.(2013).隔代教养与父母教养的比较研究．当代教育科学,(11),55-56.   
+李阳，曾彬.(2016).隔代教育对幼儿语言发展的消极影响及对策．江苏第二师范学院学报,32(7),81-84. 戚海燕，朱家存.(2010).促进隔代抚养幼儿社会性发展的策略研究．阜阳师范学院学报(社会科学版),(4), 144-147.   
+阙攀.(2011).隔代教育的不良影响及解决对策．盐城师范学院学报(人文社会科学版),(2),122-124.   
+吴宝沛，朱小琴，张雷.(2013).祖辈投资的个体差异:进化心理学的视角．心理科学进展,21(11),2082-2090.   
+徐炜芸，徐璐璐.(2018)．隔代抚养对幼儿创造力的影响．基础教育研究,485(7),74-77.   
+Albuquerque,P. C. (2011). Grandparents in multigenerational households: The case of Portugal. European Journal of Ageing, 8(3),189-198.   
+Arpino,B.,& Bordone,V. (20l7). Regular provision of grandchild careand participation in social activities.Review of Economics ofthe Household,15(1),135-174.   
+Attar-Schwartz,S.,Tan,J.P.,&Buchanan,A. (2O9).Adolescents'perspectives on relationships with grandparents: The contribution of adolescent, grandparent, and parent-grandparent relationship variables. Children and Youth Services Review, 31(9),1057-1066.   
+Atar-Schwartz,S.，Tan,J.P.，Buchanan,A.,Flouri,E.，& Griggs,J. (209). Grandparenting and adolescent adjustment in two-parent biological,lone-parent,and step-families.Journal ofFamily Psychology,23(1), 67 75.   
+Bourdieu,P.(1971). Cultural and social reproduction. Social Science Information,10, 45-79.   
+Brunello,G.,& Rocco,L.(2Ol6).Is childcare bad for the mental health of grandparents? Evidence from share. Social Science Electronic Publishing,13(12),1-29.   
+Chen,F.,&Liu,G.(2O12).The health implications of grandparents caring for grandchildren in China.The Journals of Gerontology Series B: Psychological Sciences and Social Sciences, 67 (1), 99-112.   
+Coall,D.A.,& Hertwig,R. (2010). Grandparental investment: Past,present, and future.Behavioral and Brain Sciences,33(1),1-59.   
+Courtin,E.,&Avendano,M. (2016). Under one roof: The effect ofco-residing with adult children on depression in later life. Social Science & Medicine,168,140-149.   
+Cox,M.J.,& Paley,B.(20o3). Understanding families as systems. Current Directions in Psychological Science, 12(5),193-196.   
+Crosnoe,R.,& Elder, G.H.(2OO2).Life course transitions, the generational stake,and grandparent-grandchild relationships. Journal of Marriage and Family, 64(4),1089-1096.   
+Cruise,S.,，& O'Reilly，D.(2014). The influence of parents，older siblings,and non-parental care on infant development at nine months of age. Infant Behavior and Development, 37(4), 546-555.   
+Deindl,C.，& Tieben,N. (2016).Resources of grandparents: Educational outcomesacross three generations in Europe and Israel. Journal of Marriage and Family, 79(3),769-783.   
+Di Gessa, G., Glaser,K.,& Tinker,A. (2O16).The impact of caring for grandchildren on the health of grandparents in Europe: A life course approach. Social Science & Medicine, 152,166-175.   
+Dunifon, R. (2013). The influence of grandparents on the lives of children and adolescents. Child Development Perspectives, 7(1), 55-60.   
+Dunifon,R.,& Bajracharya,A. (2012). The role of grandparents in the lives of youth. Journal ofFamily Issues, 33(9), 1168-1194.   
+Dunifon,R.,& Kowaleski-Jones,L. (2oo7).The influence of grandparents in single-mother families.Journal of Marriage and Family, 69(2), 465-481.   
+Dunifon,R. E., Ziol-Guest,K. M.，& Kopko,K. (2014). Grandparent coresidence and family well-being: Implications for research and policy.The Annals of the American Academy of Political and Social Science, 654(1), 110-126.   
+Gershoff,E.T.(2013).Spanking and child development: We know enough now to stop hiting our children. Child Development Perspectives,7(3),133-137.   
+Gibson,M.A.,& Mace,R. (2005). Helpful grandmothers in rural Ethiopia: A studyof the effect of kin on child survival and growth. Evolution and Human Behavior; 26(6), 469-482.   
+Goode, W. J. (1960). A theory of role strain. American Sociological Review, 25(4), 483-496.   
+Hamilton, W. D. (1964). The genetical evolution of social behavior. Journal of Theoretical Biology, 7(1),17-52.   
+Hank,K.,& Buber,I.(20o9). Grandparents caring for their grandchildren: Findings from the 20o4 survey of health, ageing,and retirement in Europe. Journal of Family Issues,30(1), 53-73.   
+Hawkes,K. (2003). Grandmothers and the evolution of human longevity. American Journal of Human Biology, 15(3),380-400.   
+Hayslip,B.,& Kaminski,P.L. (2O05). Grandparents raising their grandchildren: A review of the literature and suggestions for practice. The Gerontologist, 45(2),262-269.   
+Hilbrand,S.,Coal,D.A.,Meyer,A.H.,Gerstorf,D.,&Hertwig,R. (2o17).Aprospective studyof associations
+
+among helping,health,and longevity.Social Science & Medicine,187,109-117.
+
+Hirsch,B.J., Mickus,M.,& Boerger,R.(20o2). Ties to influential adults among black and white adolescents: Culture, social class,and family networks.American Journal of Community Psychology, 30(2),289-303.   
+Hofstede,G.H. (2ool). Culture's consequences: Comparing values,behaviors,institutions,and organizations across nations. Thousand Oaks, CA: Sage.   
+King, V., & Elder, G.H.(1997). The legacy of grandparenting: Childhood experiences with grandparents and current involvement with grandchildren. Journal of Marriage and the Family, 59(4),848-859.   
+Komonpaisarn,T.,&Loichinger, E. (2019). Providing regular care for grandchildren in Thailand: Ananalysis of the impact on grandparents' health. Social Science and Medicine,229,117-125.   
+Krueger, P.M., Jute,D.P.,Franzini,L.,Elo,I.,& Hayward,M.D.(2015).Family structure and multiple domains of child well-being in the United States: A cros-sectional study.Population Health Metrics,13(1),6-17.   
+Ku,L.E.,Stearns,S.C.,VanHoutven,C.H.,Lee,S.D.,Dilworth-Anderson,P.,&Konrad,T.R. (2013). Ipactof caring for grandchildren on the health of grandparents in Taiwan. Journals of Gerontology Series $B$ Psychological Sciences and Social Sciences, 68(6),1009-1021.   
+Li, B.,Adab,P.,& Cheng, K. K. (2015).The role of grandparents in childhood obesity in china-evidence from a mixed methods study. International Journal of Behavioral Nutrition and Physical Activity,12(1),91-100.   
+Li, X.,& Liu,Y. (2019). Parent-grandparent coparenting relationship,maternal parenting self-efcacy,and young children's social competence in Chinese urban families.Journal of Child and Family Studies,28,1145-1153.   
+Lindberg,L.,Ek,A.,Nyman,J.,Marcus,C., Ulijaszek,S.,& Nowicka,P. (2o16).Low grandparental social support combined with low parental socioeconomic status is closely associated with obesity in preschool-aged children: A pilot study. Pediatric Obesity, 11(4),313-316.   
+Liu, R. X. (2016). School bonding, peer associations,and self-views: The influences of gender and grandparent attachment on adolescents in mainland China. Youth and Society, 48(4), 451-469.   
+Liu,R.X.(2O19). Harsh parental discipline and delinquency inmainland china:Theconditional influences of gender and bonding to paternal grandparents. Sociological focus, 52(4),274-291.   
+Lo,M., &Liu,Y.H. (2O09). Qualityoflife among older grandparent caregivers: A pilotstudy. Journal ofAdvanced Nursing, 65(7), 1475-1484.   
+Mahne,K.,& Huxhold, O. (2015). Grandparenthood and subjective well-eing: Moderating effects of educational level.The Journals of Gerontology Series B:Psychological Sciences and Social Sciences,70(5),782-792   
+Marco,A.,& Marco,T. (20l8). Grandparenting after parental divorce: The association between non-resident parent
+
+child meetings and grandparenting in Italy. European Journal of Ageing, 15,277-286.
+
+Masfety,V.K.,Aarnink,C.,Oten,R.,Bitfoi,A.,Mihova,Z.,Lesiskiene,S.,Carta,.G., Goelite,D.,&Husky M. (2018).Three-generation households and child mental health in European countries. Social Psychiatry and Psychiatric Epidemiology,54,427-437.   
+Michalski,R.L.,&Shackelford,T.K. (2Oo5). Grandparental investment asafunctionofrelationaluncertaintyand emotional closeness with parents. Human Nature,16(3),293-305.   
+Minuchin,P. (1985).Families and individual development: Provocations from the field of family therapy. Child Development, 56(2),289-302.   
+Mollborn,S.,Fomby,P.,& Dennis,J.A. (20l1).Who maters for children's early development?Race ethnicityand extended household structures in the United States. Child Indicators Research,4(3),389-411.   
+Murphey,D., Cooper,M.,& Moore,K.A. (2012). Children living with and cared forby grandparents: State-level data from the American community survey. Child Trends,31,1-3.   
+Nanthamongkolchai,S., Munsawaengsub, C.,& Nanthamongkolchai, C. (2011). Comparison of the health status of childrenaged between 6and 12 years reared by grandparents and parents. Asia Pacific Journal of Public Health, 23(5), 766-773.   
+Nunes,L.M., Giugliani,E.R.J.,do Espirito Santo,L. C.,& Oliveira,L.D. (2ol1).Reduction ofunnecesryintake of water and herbal teason breast-fed infants:A randomized clinical trial with adolescent mothers and grandmothers. Journal of Adolescent Health, 49(3),258-264.   
+Pearlin,L.I. (1989).The sociological study ofstress Journalof Health & Social Behavior; 30(3),241-256.   
+Pilkauskas，N. V.，& Dunifon,R.E. (2016). Understanding grandfamilies: Characteristics of grandparents, nonresident parents,and children. Journal of Marriage and Family, 78(3), 623-633.   
+Pong,S.L.,& Chen, V. (2010). Co-resident grandparents and grandchildren's academic performance in Taiwan. Journal of Comparative Family Studies. 41(1),111-129.   
+Profe,W.,& Wild,L.G. (2O15).Mother,father,and grandparent involvement: Associations with adolescent mental health and substance use. Journal of Family Issues,38,776-797.   
+Purcal,C.,Brennan,D.,Cass,B.,&Jenkins,B.(2O14).Grandparentsraising grandchildren: Impactsoflifecourse stage on the experiences and costs of care. Australian Journal of Social Issues, 49(4), 467-488.   
+Reynolds,S.,Fernald,L.C.,Deardorf,J.,&Behrman,J.(2018).Familystructureand childdevelopmentinChile: A longitudinal analysis of household transitions involving fathers and grandparents. Demographic-Research, 38,1777-1814.
+
+Robertson,J.F.(1975).Interaction in three generation families,parents as mediators:Toward a theoretical perspective.The International Journal ofAging and Human Development, 6(2),103-110.
+
+Rogers,E., Bell,L.,& Mehta,K.(2O18).Exploring therole of grandparents in the feeding ofgrandchildren aged1- 5 years. Journal of Nutrition Education and Behavior, 51,300-306.   
+Rozario,P.A., Morrow-Howell, N.,& Hinterlong, J.E. (2004). Role enhancement or role strain: Assessing the impact of multiple productive roles on older caregiver well-being. Research on Aging, 26(4), 413-428.   
+Ruiz, S.A.，& Silverstein,M. (2oo7).Relationships with grandparents and the emotional wel-being of late adolescent and young adult grandchildren. Journal of Social Issues, 63(4), 793-808.   
+Sadruddin,A.F.A.,Ponguta,L.A., Zonderman,A.L., Wily, K. S., Grimshaw,A.,&Panter-Brick, C. (2019). How do grandparents influence child health and development? Asystematic review. Social Science & Medicine, 239, 1-32.   
+Sata,M.,Yamagishi,K.Sairenchi,T.,Ikeda,A.,Irie,F.,Watanabe,H.,Iso,H.,&Ota,H. (215).Impactofcaregiver type for 3-year-old children on subsequent between-meal eating habits and being overweight from childhood to adulthood: A20 Year folow-up of the Ibaraki Children's Cohort (IBACHIL) Study. Journal of Epidemiol, 25(9), 600-607.   
+Sear,R.,& Mace,R. (2008). Who keeps children alive? Areview of the effects of kin on child survival. Evolution and Human Behavior, 29(1),1-18.   
+Shakya,H.B., Usita,P.M.,Eisenberg,C.,Weston,J.,&Liles,S.(2012).Family well-being concerns ofgrandparents in skipped generation families. Journal of Gerontological Social Work, 55(1),39-54.   
+Sieber, S.D.(1974). Toward a theory ofrole accumulation. American Sociological Review, 39(4),567-578.   
+Sneed,R.S.,& Schulz, R. (2Ol7). Grandparent caregiving,race,and cognitive functioning in apopulation-based sample of older adults. Journal of Aging and Health, 20,1-22.   
+Tanskanen,A.O.,& Danielsbacka,M. (2O12).Beneficial efects of grandparental involvement vary by lineage in the UK. Personality and Individual Diferences, 53(8), 985-988.   
+Tanskanen,A. O.,& Danielsbacka, M. (2018). Multigenerational effects on children's cognitive and socioemotional outcomes: A within-child investigation. Child Development, 89(5),1856-1870.   
+Taylor,M.F.,Marquis,R.,Batten,R.,& Coal,D. (2016). Understanding the mentalhealth travails ofcustodial grandparents. Occupational Therapy in Mental Health, 32(3),259-280.   
+Thiele,D.M.,& Whelan,T.A. (2o06).The nature and dimensions of the grandparent role.Marriage& Family Review, 40(1),93-108.   
+Wild,L.G.,& Gaibie,F.(2014). Grandparental involvement and South African adolescents' psychological wellbeing. Journal of Intergenerational Relationships,12(4), 425-441.   
+Xu,H. (019). Physical and mental health of Chinese grandparents caring for grandchildren and great-grandparents. Social Science&Medicine,229,106-116.   
+Xu,L.,& Chi,I.(2O11).Life satisfaction among rural Chinese grandparents: The roles of intergenerational family relationship and support exchange with grandchildren.International Journal of Social Welfare,20,148-159.   
+Yorgason,J.B.,Padila-Walker,L.,&Jackson,J.(2Ol1).Nonresidential grandparents’emotionaland financial involvement in relation to early adolescent grandchild outcomes.Journal of Research on Adolescence,21(3), 552-558.
+
+# The “double-edged sword” effect of grandparenting on grandchildren and grandparents
+
+LU Furong1; SONG Yujingl; LIU Lupei1; FANG Xuanzhi1; ZHANG Cai² (School of Education Science,Shanxi University, Taiyuan O3ooo6,China)
+
+(Collabraeotierfntfsctalityeleie
+
+Abstract: Grandparenting refers to the upbringing and education provided by grandparents to their grandchildren. With the development of economy and society,“grandparenting” has become an important supplementary form of "parenting". Grandparenting has a “double-edged sword” effect on the physical and mental health of grandparents and grandchildren. Biological evolution theory, social exchange theory and family system theory provide theoretical support for understanding the impact of grandparenting on grandchildren. In addition, role strain theory and role enhancement theory can deepen the understanding of the impact of grandparenting on grandparents. With the aim of achieving a deeper comprehensive research and promoting the localization of grandparenting research,it is necessary for the future study to clarify the definition and types of grandparenting and to control the boundary factors.
+
+Key word: grandparenting; physical health; mental development; double-edged sword effect

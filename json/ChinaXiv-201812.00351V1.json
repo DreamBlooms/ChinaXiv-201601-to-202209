@@ -1,0 +1,324 @@
+[
+    {
+        "type": "text",
+        "text": "赵景鹏 焦洪超 王晓鹃 林海\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（山东农业大学动物科技学院，山东省动物生物工程与疾病防治重点实验室，泰安 271018）摘要：从种蛋入孵到生后早期，禽胚和雏禽的体热平衡依次受到种蛋和禽胚的高热导性、蛋壳和尿囊绒毛膜对氧气的扩散阻力、甲状腺的发育程度和幼雏的代谢能力限制。一直到种蛋孵化的后期，禽胚对冷刺激才表现出产热反应。在出壳前后，雏禽已经具备良好的体表和体核温度感知功能，下丘脑神经元对冷表现出高敏感性。中枢激素如下丘脑促甲状腺激素释放激素、促肾上腺皮质激素释放激素对雏鸡产热具有重要影响，下丘脑-垂体-甲状腺轴从孵化中期开始发挥作用，到后期与下丘脑-垂体-肾上腺轴互作，但至今尚未发现甲状腺激素、皮质酮调控新生仔鸡体温发育的直接证据。本文综述了雏禽体温调节机能的发育规律及神经内分泌机制，以期为家禽热舒适尤其是中枢神经系统可塑性的调控提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：体温调节；神经内分泌；个体发生；禽胚；雏禽中图分类号：S831.4 文献标识码：A 文章编号：1006-267X(2018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "禽胚的温度受制于外部环境，在孵化过程中，体温调节系统不断发育完善，直至出壳后数周才具备成熟的机能[1-3]。不同于大多数野生鸟类（属晚成雏，孵化期短，出壳时身体裸露无羽，闭眼，不能独立生活，需留巢保温，由亲鸟哺育一段时间，典型代表是雀形目)，鸡、鸭等家禽是早成雏（孵化期长，出壳时被羽，睁眼，腿脚有力，在绒毛干燥后就能跟随亲鸟活动、觅食，典型代表是雁形目和鸡形目)，即一出生就具有较高的产热能力[4]。雏禽体温调节机能的完善过程从禽胚神经系统的发育开始，经产热和散热机制的分化（使这些神",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2018-01-03  \n基金项目：国家重点研发计划（2016YFD0500510)；国家自然科学基金（31672442)；山东  \n省“双一流”建设奖补资金  \n作者简介：赵景鹏（1981-)，男，山东泰安人，博士，从事家禽健康养殖技术研究。E-mail:  \nzjp1299@163.com  \n\\*通信作者：林海，教授，博士生导师，E-mail：hailin@sdau.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经元控制器运转起来)，到出壳后生长改变体表面积与体积比（surface to volume ratio）和绝热性，进而增强保温性能结束[3.5-7]。雏禽在出生前后的体温调节反应显著影响后期体热平衡和生产性能[8-12]，欲弄清这种获得性环境适应的表观遗传机制，须先了解体温调节系统在孵化阶段和生命早期的发育规律及调控机理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1雏禽体温调节机能的发育阶段",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从种蛋入孵到出生后体温调节机能发育成熟，雏禽需要经历4个阶段（图1）[3.13]，才能摆脱对外界环境温度的依赖性。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb0b9196ccd03966fceb05a5f1fe5af595410fbd298a3a80ecb695b85df709eb.jpg",
+        "img_caption": [
+            "图1早成雏（a）与晚成雏（b）体温调节机能的发育阶段",
+            "Fig.1Development stages of thermoregulation in precocial (a) and altricial birds (b)[3] "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 阿伦尼乌斯（Arrhenius）限制期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第1个阶段是在禽胚啄壳前，其神经控制系统和外周产热、散热机制（效应器）都不健全，无体温调节能力。虽然它的代谢率随胚龄增加而不断提高，但仍处于较低水平，且与环境温度直接相关[14]。如果环境温度降低，禽蛋就会变凉，禽胚代谢瞬间减弱。以鸡胚为例，其在24℃时的代谢率（以耗氧量计）仅为 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 时的 $40 \\%$ 。这种变化与描述温度对化学反应速率常数影响的Arrhenius 方程相符，故该阶段被称作Arrhenius 限制期，温度效应系数Qio（基于禽胚代谢率是温度的指数函数，即前者的对数与后者呈线性关系， $Q _ { 1 0 }$ 表示温度升高10℃时代谢率的变化倍数）大约为 $2 ^ { [ 1 5 ] }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2氧气（ $\\mathrm { O } _ { 2 }$ ）传导限制期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第2个阶段是从禽胚啄壳到破壳，此时其已被覆皮肤和羽毛，大脑和骨骼肌组织（尤其是腿肌)表现出生命活力[16]。因为禽胚仍在蛋内，故机体产热量受制于蛋壳（外部扩散屏障)和尿囊绒毛膜（内部扩散屏障）对 $\\mathrm { O } _ { 2 }$ 摄取的阻碍。在蛋温降低时，如果禽胚的基础代谢率低于 $\\mathrm { O } _ { 2 }$ 传输的限值，耗氧量就会增加；如果基础代谢率已经达到 $\\mathrm { O } _ { 2 }$ 传输的限值，耗氧量就会保持稳态。不过，在一定时间内，如果禽胚的产热量不足以使自身体温超过环境温度，禽蛋就会变凉；随蛋温下降，体温调节系统会逐渐“关闭”，继而进入Arrhenius 限制期[17]。相比早成雏，晚成雏的体温调节系统在出壳前不会得到有效发育，故其一直处于Arrhenius 限制期，不会经历 $\\mathrm { O } _ { 2 }$ 传导限制期[18]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3热力限制期和体温恒定期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第3个阶段是从雏禽破壳到出生后大约10日龄，此时它的代谢率不再受限于蛋壳，因为机体气体交换的场所由尿囊绒毛膜转向肺脏，进而在 $\\mathrm { O } _ { 2 }$ 充足的条件下，其可以获得最大产热量[19]。在这一时期，受肝脏、消化道等组织发育的成熟性和甲状腺活性的影响，多数雏禽的产热能力仍不足以抵消热损耗，故难以脱温。不过，也有一些家禽从一出壳就具有良好的体温调节能力，可以绕开“热力限制期”，直接进入“体温恒定期”，如绿头鸭（野鸭）和灌丛火鸡等[20]。最后一个阶段从出生后10\\~13 日龄开始，一直延伸至成年期[1,21]。在绝缘（如皮下脂肪）、产热、散热（如肺脏、肾脏、血管）、神经内分泌系统协调配合、共同作用下，雏禽从生理、形态及行为方面完全适应外界环境温度变化，最终实现体热平衡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2雏禽体温调节机能发育的神经机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与哺乳动物类似，家禽体温的神经调节系统由3部分组成，分别是温度感受和温觉传入通路、中枢神经系统对温觉信号的整合、启动自主性和行为性调节的效应途径。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 雏禽温觉的形成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在皮肤、舌、喙等外周组织和腹腔内脏等深部器官，家禽都具有温度感受器[22]。鸡外周神经系统的分化始于孵化早期，在2\\~3 胚龄，面神经节感觉纤维就开始进入大脑[18]。在8胚龄，当环境温度降低或增加0.3℃后，鸡胚的产热量会在短期内（ $: < 1 6 \\mathrm { m i n }$ )升高或减少[23]。在大约11胚龄，外周神经长出髓鞘[18]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在出壳前后，一些学者利用局部或全身致冷、加温的方法，间接证实了外周和深部体温感受器的生成。例如，泄殖腔受凉会使1周龄雏鸡颤抖，低温增加禽胚尿囊绒毛膜、下丘脑一氧化氮（NO）释放，减少新生仔鸡活动[24-26]。从禽胚啄壳起，即破壳前 3\\~4d，它们相互之间就可进行声音通讯，其中一种叫声属于求救信号[27]。将美洲家鸭（番鸭）的胚蛋一浸入凉水（20\\~22℃）中，求救声就会增多；取回复温后，求救声就会减少[28]。以上研究表明，雏禽从一出生就具有良好的温度感知功能，其在新生期不能维持体温恒定（怕冷）的原因与温觉无关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 温觉信号的中枢整合",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 脑部结构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "视前区-下丘脑前部（PO/AH）是温度感受器与效应器的中央耦合器，不仅含有冷敏神经元和热敏神经元[29-31]，精细调控体温的正常变异，还存在少量“护温”神经元（temperatureguardian neurons）[30-31]，使脑部温度在体温失常时维持在36\\~42℃。雏鸡的脑部发育从 2胚龄开始，历经整个孵化期，一直持续到出生后3周[32]。在3胚龄，间脑分化启动。在9胚龄，间脑的解剖结构达到新生仔鸡水平[33]。在出壳前，早成雏的脑部生长比晚成雏更充分[34]，这可能是其在新生期具有更强的体温调节能力的原因之一。  \n新生美洲家鸭（番鸭）下丘脑的温度敏感性呈阶段性变化，从28胚龄到出生后第5天，PO/AH中含有较多的冷敏神经元（ $30 \\%$ ）和较少的热敏神经元（ $5 \\%$ )；出生后 $5 { \\sim } 1 0$ 日龄，前者的比例下降（ $14 \\%$ )，后者的比例增加（ $1 5 \\%$ ） $[ 3 0 , 3 5 ]$ 。在成年北京鸭中，冷敏神经元和热敏神经元的比重分别为 $6 . 2 \\%$ 和 $5 8 . 3 \\% ^ { [ 3 6 ] }$ 。由此表明，在雏禽体温调节机能发育成熟过程中，下丘脑的冷敏性降低，热敏性提高。雏鸡的体温和脑温是年龄的幂函数，两者以不同速率（前",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "者 $>$ 后者）上升，在大约10 日龄时达到成年水平[37]。在这期间，它们的温差随年龄增长而直线增加，眼异网（头部颅外血管网，通过动静脉热交换使流经脑部的血液变凉）的发育可能对此起到了关键调控作用[38]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 脊髓 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "家禽脊髓含有冷敏神经元和热敏神经元，其中颈髓和胸髓参与温度感受过程[22]。除了感知局部体温，脊髓还是体表和体核温觉传入中枢系统的通道，且整合部分温度信号。在孵化第1周，鸡胚的脊髓就开始分化[39]。最早在5胚龄，可观察到神经突触。从4\\~5胚龄开始，脊髓表现出电生理活性。在7胚龄，脊髓束发育健全。尽管脊髓的基础结构在孵化期就发育完成，但是，在出壳前后，尚不知其是否具有成熟的温度信号传导和整合功能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3体温调节的效应途径",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "体温调节反应的最终触发依赖于完善的效应途径，后者与交感和副交感神经系统交互作用，激活内分泌系统即甲状腺和肾上腺[40]。对鸡而言，在6胚龄，大多数运动神经元（即外导神经元，负责将脊髓和大脑发出的信息传到肌肉和内分泌腺，支配效应器官的活动）形成。最早在10 胚龄，可观察到反映局部本体感觉传出活动能力的肌肉反射[39]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3雏禽体温调节机能发育的内分泌机制",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自20世纪60年代至今，关于激素在雏禽体温调节机能发育中的作用研究主要围绕下丘脑-垂体-甲状腺（HPT）轴展开。从孵化后期（鸡18胚龄）起，下丘脑-垂体-肾上腺（HPA）轴与HPT轴表现出互作效应[41]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1下丘脑、垂体和甲状腺 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "入孵后 $6 . 5 { \\sim } 1 3 . 5 \\mathrm { d }$ ，鸡胚下丘脑神经元促甲状腺激素释放激素（TRH）阳性核周体的数量逐渐增加[42]。在 $1 1 . 5 { \\sim } 1 6 . 0$ 胚龄，下丘脑的功能开始成熟。从14胚龄到出壳，下丘脑 TRH的水平增加10倍，而生长激素释放抑制激素（SRIH）的水平仅翻一番；从啄壳到破壳，鸡胚下丘脑 TRH的水平增加2倍[43]。最早在6.5 胚龄，可在鸡胚垂体远侧部观察到促甲状腺激素细胞[44]。从14 胚龄到出壳，促甲状腺激素（TSH）的水平降低；但从出生到成年，TSH水平逐渐升高[43]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "鸡甲状腺的分化从咽喉基底部外翻开始，在5胚龄，分裂成两叶；在8胚龄，均匀地布满血管；在10胚龄，窦状血管的发育达到最大化；在10\\~11胚龄，可观察到甲状腺滤泡；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在10\\~15 胚龄，甲状腺的重量与体重成比例增长；在15胚龄，甲状腺的组织结构发育健全[45-46]。在孵化中、后期，早成雏（如鸡和鹌鹑）的甲状腺就表现出功能活性，即吸收碘和合成甲状腺球蛋白、甲状腺激素，而晚成雏（如鸽子）则在出壳后才表现出功能活性[47]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在入孵后9\\~11d，可在鸡胚甲状腺中观察到酪氨酸碘化现象，这与甲状腺滤泡出现的时间大致相同[48]。有研究在6.5胚龄检测到四碘甲状腺原氨酸（ $\\cdot _ { \\mathrm { { T } _ { 4 } } }$ ）的存在[49]，但不确定这是否来源于母体[50]。尽管甲状腺至少要到5胚龄才能富集碘，但是，在11\\~13 胚龄就能看到其对碘摄取明显增多[48]。在孵化中期，鸡胚血浆中的三碘甲状腺原氨酸（ ${ { \\mathrm { T } } _ { 3 } }$ ）和 $\\mathrm { T } _ { 4 }$ 的水平较低，随后逐渐增加，在出壳时达到峰值，然后下降，从10日龄起趋于稳定[51-52]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在孵化早期(3\\~10胚龄)，腺垂体能够自主调节甲状腺，但在后期（16胚龄后)，需要下丘脑的参与[53]。从6.5胚龄起，垂体就受到 TRH调控，往后（13.5 胚龄后）愈发敏感[54]。类似地，从11.5胚龄起，甲状腺的活性由自主调节转为垂体依赖，对 TSH的反应性越来越强。不同于早成雏，晚成雏的垂体在胚胎期不具备生物学功能，对甲状腺的活性无影响[47]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 HPT轴与体温调节 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在低温（ $3 0 \\mathrm { ~ \\textdegree ~ }$ ）环境中，从脱离壳膜起，鸡胚就表现出持续的代谢反应[55]。在冷暴露（20℃）条件下，给1日龄仔鸡腹腔注射 $3 0 0 \\mu \\mathrm { g / k g } \\mathrm { T } _ { 3 }$ 或 $\\mathrm { T } _ { 4 }$ ，可减缓直肠温度的下降速率，证明了甲状腺激素的生热作用[56]。在出壳后14 日龄，鹑甲状腺滤泡细胞的高度达到成年水平，同期耐冷力大增[57]。甲状腺激素通过增加线粒体氧耗，促进ATP 生成，进而调控基础代谢率，即专性产热。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过外源导入甲状腺激素，可使雏禽抵御冷应激。可是，在正常温度下，腹腔注射 ${ \\mathrm { T } } _ { 3 }$ 仅对2 周龄以上的大鸡有生热作用，而对1周龄以内的小鸡无效[58-60]。其原因可能是，在新生期，血液内源 ${ { \\mathrm { T } } _ { 3 } }$ 的水平较高，受体的结合部位已经饱和，也可能与雏鸡肌肉组织或 ${ { \\mathrm { T } } _ { 3 } }$ 作用通路相关信号分子的发育不全有关。不过，使用碘番酸阻断外周组织 $\\mathrm { T } _ { 4 }$ 向 ${ \\mathrm { T } } _ { 3 }$ 的转化后，1日龄雏鸡的直肠温度下降[61]，表明了 ${ \\mathrm { T } } _ { 3 }$ 对初生仔鸡的体温调节作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "脑室注射 TRH可增加雏鸡（1\\~2周龄）体温、呼吸频率、耗氧量和二氧化碳（ $\\mathrm { C O } _ { 2 }$ 产量，但甲状腺激素水平并无显著变化[60]，表明 TRH的生热作用与 ${ { \\mathrm { T } } _ { 3 } }$ 或 T4无关，其可能直接调控仔鸡能量代谢。可是，将处理方式改为静脉注射后，TRH则提高了甲状腺激素水平[62]。关于TRH调节雏禽体温的具体机制，有待深入研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 HPT 轴与HPA 轴 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "脑室注射促肾上腺皮质激素释放激素（CRH)可显著提高雏鸡（2\\~4日龄）直肠温度（注射后10、30和 $6 0 \\mathrm { m i n }$ )，增加耗氧量、 $\\mathrm { C O } _ { 2 }$ 生成量和产热量[58.63]，提示 HPA 轴可能参与雏禽体温调控。在鸡上，CRH和 SRIH影响 TSH释放。最早在14 胚龄，可在下丘脑室周区神经元核周体中检测到类似绵羊促肾上腺皮质激素释放因子（CRF）的成分[64-65]。在孵化第18 天，给鸡胚注射绵羊CRH，不仅可提高血液皮质酮水平，还可增加血液 ${ { \\mathrm { T } } _ { 3 } }$ 和 $\\mathrm { T } _ { 4 }$ 水平[66]。因为TSH水平随之升高，故CRH可能通过调控TSH的分泌作用于甲状腺[67]。从14 胚龄起，鸡垂体促甲状腺激素细胞就对CRH表现出反应性[68],这可能源于CRH受体2的高表达（CRH受体1丰度很低）[69]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "小鸡怕冷，这是业界常识，其背后隐含的科学问题是：雏禽由保温向脱温转变的生理机制是什么？对这一问题的回答，是利用家禽中枢神经系统前期发育的可塑性、调控后期热舒适的基础。过去几十年，在下丘脑、脊髓和甲状腺等组织水平上，与禽胚、幼雏体温调节有关的重要神经结构、内分泌组分的时空发育规律已经确认。随着与家禽体温控制有关的数量性状基因座（QTL）鉴定和染色体定位工作的完成[70-71]，未来有望借助新兴的基因组高通量测序技术如高密度单核苷酸多态性（SNP）芯片，从细胞和分子水平上揭示上述组分发生、发展的功能联系和信号网络。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] NICHELMANN M,TZSCHENTKE B.Ontogeny of thermoregulation in precocial birds[J].ComparativeBiochemistryandPhysiologyPartA:Molecular&Integrative Physiology,2002,131(4):751-763.   \n[2] TZSCHENTKE B.Attainment of thermoregulation as affected by environmental factors[J].Poultry Science,2007,86(5):1025-1036.   \n[3] WHITTOW G C,TAZAWA H.The early development of thermoregulationin birds[J].Physiological Zoology,1991,64(6):1371-1390.   \n[4] NICHELMANN M,TZSCHENTKE B.Thermoregulatory heat production in precocial avian embryos[J].Ornis Fennica,1999,76:177-187. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5] NICHELMANN M,TZSCHENTKE B.Efficiency of thermoregulatory control elements in precocial avian embryos[J].Avian and Poultry Biology Reviews,20o3,14(1):1-19. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6] SEEBACHER F,SCHWARTZ T S,THOMPSON M B.Transition from ectothermy to endothermy:the development of metabolic capacity in a bird (Gallus gallus)[J].Proceedings of the Royal Society B:Biological Sciences,2006,273(1586):565-570.   \n[7]TZSCHENTKE B.Monitoring the development of thermoregulation in poultry embryos and its influence by incubation temperature[J].Computers andElectronics in Agriculture,2008,64(1):61-71.   \n[8]HALLE I,TZSCHENTKE B.Influence of temperature manipulation during the last 4 days of incubation on hatching results,post-hatching performance and adaptability to warm growing conditions in broiler chickens[J].The Journal of Poultry Science,2011,48(2):97-105.   \n[9]JANKE O,TZSCHENTKE B.Long-lasting efect of changes in incubation temperature on heat stress induced neuronal hypothalamic c-Fos expression in chickens[J].The Open Ornithology Journal,2010,3:150-155.   \n[10] PIESTUN Y,HALEVY O,YAHAV S.Thermal manipulations of broiler embryos-the effect on thermoregulation and development during embryogenesis[J].Poultry Science,2009,88(12):2677-2688.   \n[11] PIESTUN Y,SHINDER D,RUZAL M,et al.Thermal manipulations during broiler embryogenesis:effect on the acquisition of thermotolerance[J].Poultry Science,2009,87(8):1516-1525.   \n[12] YAHAV S,MCMURTRY J P.Thermotolerance acquisition in broiler chickensby temperature conditioning early in life:the efect of timing and ambient temperature[J].Poultry Science,2001,80(12):1662-1666.   \n[13] TAZAWA H,MORIYA K,TAMURA A,et al.Ontogenetic study of thermoregulation in birds[J].Journal of Thermal Biology,2001,26(4/5):281-286.   \n[14] TZSCHENTKE B,RUMPF M.Embryonic development of endothermy[J].Respiratory Physiology & Neurobiology,2011,178(1):97-107. [15] NICHELMANNM,BURMEISTERA,JANKEO,etal.Avianembryonic thermoregulation:role of $Q _ { 1 0 }$ in interpretation of endothermic reactions[J].Journal of Thermal Biology,1998,23(6):369-376.   \n[16] CLARKE A,PORTNER H O.Temperature,metabolic power and the evolution of endothermy[J].Biological Reviews,2010,85(4):703-727.   \n[17] NICHELMANN M,JANKE O,TZSCHENTKE B.Eficiency of thermoregulation in precocial avianspeciesduringtheprenatalperiod[J].JournalofThermal Biology,2001,26(4/5):273-280.   \n[18] BAARENDSE P J J,DEBONNE M,DECUYPERE E,et al.Ontogeny of avian thermoregulation froma neural pointofview[J].World'sPoultry Science Journal,2007,63(2):267-276.   \n[19]MENNA T M,MORTOLA JP.Metabolic control of pulmonary ventilation in the developing chick embryo[J].Respiratory Physiology & Neurobiology,2002,130(1):43-55.   \n[20] TZSCHENTKE B,NICHELMANN M.Development of avian thermoregulatory system during the early postnatal period:development of the thermoregulatory set-point[J].Ornis Fennica,1999,76(4):189-198.   \n[21]TAZAWA H,CHIBA Y,KHANDOKER A H,et al.Early development of thermoregulatory competence in chickens:responses of heart rate and oxygen uptake to altered ambient temperatures[J].Avian and Poultry Biology Reviews,2004,15(3/4):166-176.   \n[22]DAWSON W R,WHITTOW G C.Thermoregulation[M]//WHITTOW G C.Sturkie's avian physiology.5th ed.London:Academic Press,2000.   \n[23]LOURENS A,VAN DEN BRAND H,HEETKAMP M J W,et al.Metabolic responses of chick embryos to short-term temperature fluctuations[J].Poultry Science,2006,85(6):1081-1086. [24]AR A,IFERGEN O,FELDMAN A,et al.Possible role of nitric oxide emission from bird embryos[J].Avian and Poultry Biology Reviews,2004,15(3/4):105-106.   \n[25]DUNAI V,TZSCHENTKE B.Impact of environmental thermal stimulation on activation of hypothalamic neuronal nitric oxide synthase during the prenatal ontogenesis in Muscovy ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ducks[J].The Scientific World Journal,2012,2012:416936. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26] MUJAHID A,FURUSE M.Behavioral responses of neonatal chicks exposed to low environmental temperature[J].Poultry Science,2009,88(5):917-922.   \n[27] RUMPF M,TZSCHENTKE B.Perinatal acoustic communication in birds:why do birds vocalize in the egg?[J].The Open Ornithology Journal,2010,3:141-149.   \n[28]NICHELMANN M,TZSCHENTKE B.Ontogeny of thermoregulation during the prenatal period in birds[J].Annals of New York Academy of Sciences,1997,813:78-86.   \n[29]BOULANT JA.Role of the preoptic-anterior hypothalamus in thermoregulation and fever[J].Clinical Infectious Disease,2000,31(Suppl.5):S157-S161.   \n[30]TZSCHENTKE B,BASTA D.Development of hypothalamic neuronal thermosensitivity in birds during the perinatal period[J].Journal of Thermal Biology,2000,25(1/2):119-123.   \n[31]TZSCHENTKE B,BASTA D,JANKE O,et al.Characteristics of early development of body functions and epigenetic adaptation to the environment in poultry:focused on development of central nervous mechanisms[J].Avian and Poultry Biology Reviews,2004,15(3/4):107-118. [32] STARCK J M.Structural variants and invariants in avian embryonic and postnatal development[M]//STARCK J M,RICKLEFS R E.Avian growth and development:evolution within the altricial-precocial spectrum.New York:Oxford University Press,1998:31-58.   \n[33] MOMOSE-SATO Y,SATO K.Development of spontaneous activity in the avian hindbrain[J].Frontiers in Neural Circuits,2016,10:63.   \n[34] WALTER I,HEGARTY B,SEEBACHER F.AMP-activated protein kinase controls metabolism and heat production during embryonic development in birds[J].The Journal of Experimental Biol0gy,2010,213(18):3167-3176.   \n[35] TZSCHENTKEB,BASTA D.Earlydevelopmentofneuronalhypothalamic thermosensitivity in birds:influence of epigenetic temperature adaptation[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2002,131(4):825-832. [36] SALLAGUNDALA N,YAKIMOVA K,TZSCHENTKE B.Characterization of neuronal hypothalamic plasticity in chicken:a comparative analysis[M]//YAHAV S,TZSCHENTKE B.New insightsintofundamentalphysiologyandperi-nataladaptationofdomestic fowl.Nottingham:Nottingham University Press,2006:99-108.   \n[37] JESSEN C.Selective brain cooling in mammals and birds[J].Japanese Journal of Physiology,2001,51(3):291-301.   \n[38] PORTER W R,WITMER L M.Avian cephalic vascular anatomy,sites of thermal exchange,and the rete ophthalmicum[J].The Anatomical Record (Hoboken),2016,299(11):1461-1486.   \n[39]ROGES L J.The development of brain and behaviour in the chicken[M].Wallingford:CAB International,1995.   \n[40]WALTER I,SEEBACHER F.Endothermy in birds:underlying molecular mechanisms[J].The Journal of Experimental Biology,2009,212(15):2328-2336.   \n[41]DEBONNE M,BAARENDSE P J J,VAN DEN BRAND H,et al.Involvement of the hypothalamic-pituitary-thyroid axis and its interaction with the hypothalamic-pituitary-adrenal axisin theontogeny of avian thermoregulation:a review[J].World's Poultry Science Journal,2008,64(3):309-321.   \n[42]DE GROEF B,VANDENBORNE K,VAN AS P,et al.Hypothalamic control of the thyroidal axis in the chicken:over the boundaries of the classcal hormonal axes[J].Domestic Animal Endocrinology,2005,29(1):104-110.   \n[43]GERIS K L,BERGHMAN L R,KUHN E R,et al.Pre- and posthatch developmental changes in hypothalamic thyrotropin-releasing hormone and somatostatin concentrations and in circulating growth hormoneandthyrotropinlevelsinthechicken[J].Journal of Endocrinology,1998,159(2):219-225.   \n[44]NAKAMURA K,IWASAWA A,KIDOKORO H,et al.Development of thyroid-stimulating hormone beta subunit-producing cells in the chicken embryonic pituitary gland[J].Cells Tissues Organs,2004,177(1):21-28.   \n[45]MCNABB F M A.Avian thyroid development and adaptive plasticity[J].General and Comparative Endocrinology,2006,147(2):93-101. [46]PATEIUK A V,KUZNIK B I,RUSAEVA N S,et al.Ontogenetic aspects of morphological and functionalcharacteristicsofthethyroidglandinbirds[J].Advancesin Gerontol0gy,2008,21(4):688-692.   \n[47]MCNABB F M A.The hypothalamic-pituitary-thyroid (HPT) axis in birds and its role in bird development and reproduction[J].Critical Reviews in Toxicology,2007,37(1/2):163-193. [48]DE GROEF B,GROMMEN S V H,DARRAS V M.Feedback control of thyrotropin secretion in the chicken:thyroid hormones increase the expression of hypophyseal somatostatin receptor types 2 and 5[J].General and Comparative Endocrinology,2007,152(2/3):178-182. [49]MUCHOW M,BOSSIS 1,PORTER T E.Ontogeny of pituitary thyrotrophs and regulation by endogenousthyroidhormonefeedbackinthechickembryo[J].Journal of Endocrinology,184(2):407-416.   \n[50] DE GROEF B,GERIS K L,MANZANO J,et al.Involvement of thyrotropin-releasing hormone receptor,somatostatin receptor subtype 2 and corticotrophin-releasing hormone receptor type1 inthe control of chicken thyrotropinsecretion[J].Molecularand Celllar Endocrinol0gy,2003,203(1/2):33-39.   \n[51]DE GROEF B,GROMMEN S V H,DARRAS V M.Increasing plasma thyroxine levels during late embryogenesis and hatching in the chicken are not caused by an increased sensitivity of the thyrotropes to hypothalamic stimulation[J].Journal of Endocrinology,2006,189(2):271-278. [52]MORAES V M B,MALHEIROS R D,BRUGGEMAN V,et al.The effect of timing of thermal conditioning during incubation on embryo physiological parameters and its relationship to thermotolerance in adult broiler chickens[J].Journal of Thermal Biology,2004,29(1):55-61. [53]BERNALJ.Iodine and brain development[J].BioFactors,199,10(2/3):271-276.   \n[54] LU J W,MCMURTRY J P,COON C N.Developmental changes of plasma insulin,glucagon,insulin-like growth factors,thyroid hormones,and glucose concentrations in chick embryos and hatched chicks[J].Poultry Science,2007,86(4):673-683.   \n[55] MUJAHID A.Acute cold-induced thermogenesisin neonatal chicks(Gallus galus)[J].Comparative Biochemistryand Physiology Part A:Molecular& Integrative ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Physiology,2010,156(1):34-41. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[56] KHANDOKE A H,FUKAZAWA K,DZIALOWSKI E M,et al.Maturation of the homeothermic response of heart rate to altered ambient temperature in developing chick hatchlings (Gallus gallus domesticus)[J].American Journal of Physiology: Regulatory,Integrative and Comparative Physiology,2004,286(1):R129-R137. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[57]KRIJGSVELD K L,VISSER G H,DAAN S.Foraging behavior and physiological changes in precocial quail chicks in response to lowtemperatures[J].Physiology & Behavior,2003,79(2):311-319.   \n[58] TACHIBANA T,TAKAHASHI H,OIKAWA D M,et al.Thyrotropin-releasing hormone increased heat production without the involvement of corticotropin-releasing factor in neonatal chicks[J].Pharmacology Biochemistry and Behavior,2006,83(4):528-532.   \n[59]DECUYPERE E,VAN AS P,VAN DER GEYTEN S,et al.Thyroid hormone availability and activity in avian species:a review[J].Domestic Animal Endocrinology,2005,29(1):63-77.   \n[60] TAKAHASHI H,IIGO M,ANDO K,et al.Regulation of body temperatureby thyrotropin-releasing hormone in neonatal chicks[J].Developmental Brain Research,2005,157(1):58-64.   \n[61]WANG J T,XU S W.Efcts of cold stress on the messenger ribonucleic acid levels of corticotrophin-releasing hormone and thyrotropin-releasing hormone in hypothalami of broilers[J].Poultry Science,2008,87(5):973-978.   \n[62]DE GROEF B,GROMMEN S V H,DARRAS V M.The chicken embryo as a model for developmental endocrinology:development of the thyrotropic,corticotropic,and somatotropic axes[J].Molecular and Cellular Endocrinology,2008,293(1/2):17-24.   \n[63]TACHIBANA T,SAITO E S,SAITO S,et al.Comparison of brain arginine-vasotocin and corticotrophin-releasingfactorforphysiologicalresponsesinchicks[J].Neuroscience Letters,2004,360(3):165-169.   \n[64]MUJAHID A,FURUSE M.Homeothermy in neonatal chicks exposed to low environmental temperature with or without intracerebroventricular administration of corticotropin-releasing ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "factor[J].FEBSLetters,2008,582(20):3052-3060. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[65] MUJAHID A,FURUSE M.Central administration of corticotropin-releasing factor induces thermogenesis by changes in mitochondrialbioenergetics in neonatal chicks[J].Neuroscience,2008,155(3):845-851.   \n[66] MUJAHID A,FURUSE M.Putative neuroprotective role of centrally administered corticotropin-releasing factor in low-temperature-exposed neonatal chicks[J].Neuroscience,2009,158(4):1571-1576.   \n[67]GERIS K L,KOTANEN S P,BERGHMAN L R,et al.Evidence of a thyrotropin-releasing activityofovinecorticotropin-releasingfactorinthedomesticfowl(Gallus domesticus)[J].General and Comparative Endocrinology,1996,104(2):139-146.   \n[68]GERIS K L,DE GROEF B,KUHN E R,et al.In vitro study of corticotropin-releasing hormone-induced thyrotropin release:ontogeny and inhibition by somatostatin[J].General and Comparative Endocrinology,2003,132(2):272-277.   \n[69] DEGROEF B,GORISN,ARCKENSL,et al.Corticotropin-releasing hormone (CRH)-induced thyrotropin release is directly mediated through CRH receptor type 2 on thyrotropes[J].Endocrinology,2003,144(12):5537-5544.   \n[70]NADAF J,PITEL F,GILBERT H,et al.QTL for several metabolic traits map to loci controlling growth and body composition in an $\\mathrm { F } _ { 2 }$ intercross between high-and low-growth chicken lines[J].Physiological Genomics,2009,38(3):241-249.   \n[71]MINVIELLE F,KAYANG B B,INOUE-MURAYAMA M,et al.Microsatelite mapping of QTL afecting growth,feed consumption,egg production,tonic immobility and body temperature of Japanese quail[J].BMC Genomics,2005,6:87.   \nOntogenic Patern of Avian Thermoregulation and Underlying Neuroendocrine Mechanisms ZHAO Jingpeng JIAO Hongchao WANG Xiaojuan LIN Hai\\*   \n(Shandong Key Laboratory for Animal Biotechnology and Disease Control, Department of Animal Science, Shandong Agricultural University, Tai'an 271018, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In ovo, nascent thermoregulation is subjected to several limitations, including the high thermal conductance of hatching eggs and embryonic tissues at the mercy of ambient temperatures, the rate of oxygen difusing through the eggshell and chorioallantoic membrane,the maturity of thyroid activity and the metabolic capacity of embryos.During later stages of incubation, egg cooling induces a compensatory increase of metabolic rate. During the late prenatal and early postnatal period, peripheral and deep-body thermoreceptors are present and functional. Maturation of the hypothalamic thermosentivity takes place with a relatively high cold sensitivity in early life. The thyroid-releasing hormone and the corticotropin-releasing hormone， produced by the hypothalamus,are possibly more important in thermoregulatory abilities of birds than their end organ products. The hypothalamus-pituitary-thyroid axis becomes functional during the mid-embryonic period, and shows close relationships with hypothalamus-pituitary-adrenal axis toward the end of incubation. Recent studies,however, were not able to show any direct effect of the thyroid and adrenocorticoid hormones on the thermoregulation of day-old chicks.This review clearly describes the ontogenic patern of avian thermoregulation and underlying neuroendocrine mechanisms, in order to lay a reference for modulation of thermal comfort, notably the plasticity of central nervous system. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: thermoregulation; neuroendocrine; ontogeny; avian embryo; neonatal birds ",
+        "page_idx": 14
+    }
+]

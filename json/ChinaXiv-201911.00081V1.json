@@ -1,0 +1,277 @@
+[
+    {
+        "type": "text",
+        "text": "乳腺原发性神经内分泌癌与浸润性癌（非特殊型）临床病理特点和淋巴结转移相关因素的病例对照研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "彭理¹，赵佳琳¹，赵大春²，张震¹，茅 枫¹，孙强中国医学科学院北京协和医学院北京协和医院1乳腺外科²病理科，北京100730通信作者：孙 强电子邮件:sunqiangpumc@sina.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目的 探讨乳腺原发性神经内分泌癌（primary neuroendocrine carcinoma of the breast,NEBC）和乳腺浸润性癌（非特殊型）（invasive carcinoma of no specialtype，NST）的临床病理差异以及淋巴结转移的相关影响因素。结果两组患者的年龄、瘤体直径、组织学分级、清扫淋巴结数目及TNM 分期均无统计学差异，两组患者基线水平较为一致。50例原发性乳腺神经内分泌癌中有淋巴结转移的患者15例。雌激素受体阳性表达率为 $9 6 \\%$ ，孕激素受体阳性表达率为 $84 \\%$ ，HER-2 阳性表达率为 $8 . 5 \\%$ ，嗜铬素A阳性表达率为 $5 8 \\%$ ，突触素阳性表达率为 $9 7 . 9 \\%$ 。影响淋巴结转移的相关因素分析中，T分期在对照组NST 患者中存在显著的差异（ $\\scriptstyle \\mathrm { P = 0 . 0 0 6 }$ ），在研究组则没有显著差异（ $\\scriptstyle \\mathrm { P = 0 } . 8 7 2 \\$ ），研究组淋巴结转移率与T分期、组织学分级及免疫组化指标尚未发现明确的差异性（ $\\mathrm { P } { > } 0 . 0 5$ ）。结论 在原发性乳腺神经内分泌癌中，雌激素受体、孕激素受体阳性表达率高，HER-2 阳性表达率低，突触素阳性表达率较嗜铬素A高。虽然评估NEBC 的预后标准尚有争议，但是仍然需要重视联合检测上述免疫组化指标及淋巴结状况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】乳腺神经内分泌癌；雌激素受体；孕激素受体；人类表皮生长因子受体2；嗜铬素A；突触素；淋巴结转移",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】R-1；R394 【文献标志码】A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Clinicopathological features and lymph node metastasis-related factors of primary neuroendocrine breast cancer and invasive breast cancer of no special type: A case-control study ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【ABSTRACT 】 Objective To approach clinicopathological differences between primary neuroendocrine(NEBC)and invasive breast cancer(NST) and the related factors of lymph node metastasis. Results There were no significant differences in age,tumor diameter, histological grade, number of lymph nodes dissected and TNM stage between the two groups. The baseline level of the two groups was similar.15 out of 5O NEBC patients had lymph node metastasis. Expressons of ER,PR and HER-2 status were $96 \\%$ ， $84 \\%$ and $8 . 5 \\%$ respectively,while expressions of $\\mathrm { C g A }$ and Syn were $58 \\%$ and $9 7 . 9 \\%$ . In the analysis of related factors affecting lymph node metastasis, there existed significant differences in $\\mathrm { \\Delta T }$ stage in the control group $( \\mathrm { P } { = } 0 . 0 0 6 )$ ）while no difference found in the study group $( \\mathrm { P = } 0 . 8 7 2 )$ ). There was no significant difference between lymph node metastasis rate and $\\mathrm { ~ T ~ }$ stage，histological grade and immunohistochemical index in the study group. Conclusions NECB is often positive for hormone receptors, whereas is almost negative for HER-2. The positive expression rate of Syn is higher than $\\mathrm { C g A }$ Although interfering factors on prognosis of NEBC are still controversial, more attntion should be paid to joint detection of the above immunohistochemical indicators and lymph node status. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Neuroendocrine breast cancer； Estrogen receptor; Progesterone receptor; Human epidermal growth factor receptor 2; Chromogranin A; Synaptophysin; Lymph node metastasis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乳腺神经内分泌癌因与小肠神经内分泌肿瘤的病理特点较相似，相关记录最早见于 1963 年[1];但神经内分泌癌至今仍然是罕见的乳腺癌病理类型之一，亦是一类有特殊生物学行为和预后特点的乳腺癌[1,2]。根据不同的诊断及分类标准，乳腺神经内分泌癌占乳腺癌总数的 $1 \\%$ 至 $5 \\% ^ { [ 3 ] }$ 。1977年 Cubilla及Woodrufr4对乳腺神经内分泌癌进行了组织学分类，从此这类罕见的乳腺癌类型才逐渐被认识。2003年WHO分类标准[5对乳腺神经内分泌癌做出了定义，确定了 $5 0 \\%$ 以上的细胞在免疫组化染色中表达神经内分泌标记物作为诊断乳腺神经内分泌癌的唯一必须标准。2012年第 4版WHO 分类标准[7根据形态学特征，将具有神经内分泌特点的乳腺癌分为三类：高分化神经内分泌肿瘤，低分化神经内分泌癌或小细胞癌，以及伴有神经内分泌分化的浸润性癌。目前对于原发性乳腺神经内分泌癌的预后研究不多，本研究通过比较原发性乳腺神经内分泌癌患者与乳腺浸润性癌（非特殊型）的免疫组化标记物阳性率及淋巴结转移率，探讨其生物学特性，为其治疗及预后评价提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对象和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对象选取北京协和医院2004至2016年收治的50例原发性乳腺神经内分泌癌患者病例作为研究组，随机选取同期手术的乳腺浸润癌（非特殊型）患者 200例作为对照组，NEBC组患者平均年龄56.4岁（31-80岁），NST组患者平均年龄54.9岁（28-82岁）。随机方法：选取同年份的NST者，按照临床分期进行随机化后挑选配对患者。入组患者要求在北京协和医院进行手术的新发乳腺癌患者并且在我院后续治疗和定期随访者，对于手术后及失联患者予以剔除。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方法收集研究组和对照组患者相关病理、免疫组化详细信息以及术后随访结果。所有病理结果经石蜡切片确诊，诊断标准参考世界卫生组织乳腺肿瘤分类第四版，由至少两名病理科医师判读。对患者的免疫组织化学结果阳性率、淋巴结转移情况、术后综合治疗及随访结果进行对比分析，寻找两组患者之间的差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "统计学处理应用 SPSS 22.0统计软件对两组患者临床特征及淋巴结转移率影响因素进行 $\\chi ^ { 2 }$ 检验或Fisher确切概率法处理，相关性采用Pearson相关分析。 $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "原发性乳腺神经内分泌癌病理特点为：1.镜下表现肿瘤呈管状或者小梁状结构，部分肿瘤细胞细胞核较大，染色质细腻；2.雌激素受体及孕激素受体阳性表达率高，HER-2 阳性表达率低；3.嗜铬素A和突触素至少一个表达为阳性，且至少在大于 $5 0 \\%$ 的细胞中表达为阳性。本研究组中患者中1型高分化神经内分泌肿瘤患者18例（ $3 6 \\%$ ），2型低分化神经内分泌癌或小细胞癌患者3例（ $6 \\%$ ），3型伴有神经内分泌分化的浸润性癌患者29例（ $5 8 \\%$ ）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd6dcc0d1481eea8978c9cd464707c9468aeb4c696a567126776545fe9e6dff7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1A.HE 染色，可见大量癌细胞，呈管状及小梁状结构 $| \\times 1 5 0 \\$ ；B.免疫组化染色ER，肿瘤细胞呈强阳性 $\\times 1 5 0$ ；C.免疫组化染色PR，肿瘤细胞中度阳性 $\\times 1 5 0$ ；D.免疫组化染色HER-2，肿瘤细胞无明显着色 $\\times 1 5 0$ ；E.免疫组化染色嗜铬素A，肿瘤细胞弥漫阳性 $\\times 1 5 0$ ；F.免疫组化染色突触素，肿瘤细胞弥漫阳性 $\\times 1 5 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究回顾了北京协和医院 2004年11月至 2016年10 月期间收治的9442 例乳腺癌患者相关病理信息，其中原发性乳腺神经内分泌癌患者共 50例（ $0 . 5 \\%$ ）。研究组50例原发性乳腺神经内分泌癌的患者中，平均年龄56.4岁（31-80岁），平均肿瘤最大直径为 $2 . 1 6 \\mathrm { c m }$ （0.2-10cm）。对照组 200 例乳腺浸润性癌（非特殊型）患者中，平均年龄 54.9岁（28-82岁），平均肿瘤最大直径为1.98cm ( $0 . 3 \\mathrm { - } 7 \\mathrm { c m }$ ）。研究组中有30例NEBC患者 $( 3 0 / 5 0 , 6 0 \\% )$ 接受了乳腺癌改良根治术，6例患者接受了乳腺单纯切除 $^ +$ 前哨淋巴结活检术，5例患者接受了保乳手术（乳腺癌局部扩大切除 $^ +$ 前哨淋巴结活检或腋窝淋巴结清扫术）。另有9例患者因高龄（大于70 岁）仅行乳腺肿物局部扩大切除而未进行腋窝淋巴结分期，2 例首诊 4 期患者行乳腺癌改良根治术。其中 41例患者具有完整病理分期，病理分期以I期和Ⅱ期为主，其中0期患者1例（ $2 . 4 \\%$ ），I期14例（ $3 4 . 1 \\%$ ），Ⅱ期18例（ $4 3 . 9 \\%$ ），Ⅲ期6例（ $1 4 . 6 \\%$ ），IV期2例（ $4 . 9 \\%$ ）。对照组NST患者中，I期68 例（41.2.$1 \\%$ ）， $\\pi$ 期65例（ $3 9 . 4 \\%$ ），Ⅲ期32例（ $1 9 . 4 \\%$ ）。两组患者临床分期相关指标包括肿瘤直径、清扫淋巴结数量、淋巴结转移数量均无统计学差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e27427e62f594b21bf8e79820dd6252b7485fc65a0c22fe7ef5ad7dfac06654.jpg",
+        "table_caption": [
+            "表1NEBC与NST临床特征比较 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征</td><td>NEBC</td><td>比例</td><td>NST</td><td>比例</td><td>x2</td><td>P</td></tr><tr><td>年龄</td><td>56.44±13.76</td><td></td><td>54.89±12.85</td><td></td><td></td><td>0.453</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8d36544e76dd9e551eab0d44071ee3d630a66fc393056813fcd7d9467eef199.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">瘤体最大径cm</td></tr><tr><td>T≤2</td><td>29</td><td>0.59</td><td>137</td><td>0.69</td><td>0.141</td></tr><tr><td>2<T≤5</td><td>18</td><td>0.37</td><td>60</td><td>0.30</td><td></td></tr><tr><td>T>5</td><td>2</td><td>0.04</td><td>2</td><td>0.01</td><td></td></tr><tr><td>组织学分级</td><td></td><td></td><td></td><td>8.719</td><td>0.013</td></tr><tr><td>I</td><td>14</td><td>0.35</td><td>27</td><td>0.15</td><td></td></tr><tr><td>ⅡI</td><td>17</td><td>0.43</td><td>95</td><td>0.53</td><td></td></tr><tr><td>IⅢI</td><td>9</td><td>0.23</td><td>58</td><td>0.32</td><td></td></tr><tr><td>淋巴结清扫数目</td><td>18.61±9.66</td><td></td><td>16.71±9.36</td><td></td><td>0.249</td></tr><tr><td>淋巴结转移数目</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0</td><td>26</td><td>0.63</td><td>106</td><td>0.65</td><td>0.869</td></tr><tr><td>1个到3个</td><td>8</td><td>0.20</td><td>27</td><td>0.17</td><td></td></tr><tr><td>4个到9个</td><td>4</td><td>0.10</td><td>21</td><td>0.13</td><td></td></tr><tr><td>10个以上</td><td>3</td><td>0.07</td><td>9</td><td>0.06</td><td></td></tr><tr><td>TNM分期</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I</td><td>14</td><td>0.35</td><td>68</td><td>0.41</td><td>0.077</td></tr><tr><td>II</td><td>18</td><td>0.45</td><td>65</td><td>0.39</td><td></td></tr><tr><td>IⅢI</td><td>6</td><td>0.15</td><td>32</td><td>0.19</td><td></td></tr><tr><td>IV</td><td>2</td><td>0.05</td><td>0</td><td>0.00</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1为NEBC与NST临床特征比较，可以看出选取患者的年龄、瘤体直径、组织学分级、清扫淋巴结数目及TNM分期均无统计学差异，两组患者基线水平较为一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于 50例 NEBC 患者中ER 阳性表达率为 $96 \\%$ （48/50），PR阳性表达率为 $84 \\%$ （42/50），HER-2阳性（免疫组织化学染色 $^ { 3 + + + }$ 或Fish法阳性）表达率为 $8 . 5 \\%$ （5/48），其中2例患者HER-2免疫组织化学染色 $^ { 2 + + }$ 但未进行Fish 检测，未纳入统计。所有NEBC患者 $\\mathrm { C g A }$ 阳性表达率为 $5 8 \\%$ （29/50），Syn阳性表达率 $9 7 . 9 \\%$ （47/48）。48例NEBC患者完成Ki-67指数检测，其中Ki-67指数 ${ < } 1 4 \\%$ 的患者22例，Ki-67指数 $\\geq 1 4 \\%$ 的患者 26例。对照组 NST 患者中 ER 阳性表达率 $78 . 5 \\ \\%$ （157/200），PR阳性表达率 $78 \\%$ （156/200），HER-2阳性表达率为 $1 4 . 5 \\%$ （29/200）。190例NST患者完成Ki-67指数检测，其中Ki-67指数 ${ < } 1 4 \\%$ 的患者52例，Ki-67指数 $\\geq 1 4 \\%$ 的患者138例。其中 37例 NEBC 患者和154例 NST 患者能够根据病理资料进行分子分型，其中 NEBC 患者中没有Her-2过表达型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NEBC 患者术后静脉化疗者为 $4 8 \\%$ （24/50），放射治疗者为 $34 \\%$ （17/50），内分泌治疗者为$94 \\%$ （47/50）。NST患者术后静脉化疗者为 $62 \\%$ （124/200），放射治疗者为 $4 0 \\%$ （80/200），内分泌治疗者为 $81 \\%$ （162/200）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8aab5e477270c0afd32565e7ae7b302aade130c1b5891f48fe8600a2430fe941.jpg",
+        "table_caption": [
+            "表2NEBC淋巴结转移率影响因素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因素</td><td>例数</td><td>淋巴结转移数</td><td>淋巴结转移率x2或F</td></tr><tr><td>T分期</td><td></td><td></td><td>P</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/24c9da0137bdec081be363ba5705260c141a7cb6829242d20c1ebde436216ae1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>T1</td><td>18</td><td>6</td><td>0.333</td><td>0.872</td></tr><tr><td>T2</td><td>19</td><td>8</td><td>0.421</td><td></td></tr><tr><td>T3</td><td>2</td><td>1</td><td>0.500</td><td></td></tr><tr><td>T4</td><td>0</td><td>0</td><td></td><td></td></tr><tr><td>组织学分级</td><td></td><td></td><td></td><td></td></tr><tr><td>I</td><td>14</td><td>2</td><td>0.143</td><td>0.229</td></tr><tr><td></td><td>17</td><td>7</td><td>0.412</td><td></td></tr><tr><td>Ⅲ</td><td>9</td><td>2</td><td>0.222</td><td></td></tr><tr><td>ER表达</td><td></td><td></td><td></td><td></td></tr><tr><td>ER 阳性</td><td>39</td><td>14</td><td>0.359</td><td>1</td></tr><tr><td>ER 阴性</td><td>2</td><td>1</td><td>0.500</td><td></td></tr><tr><td>PR表达</td><td></td><td></td><td></td><td></td></tr><tr><td>PR阳性</td><td>33</td><td>11</td><td>0.333</td><td>0.22 0.639</td></tr><tr><td>PR 阴性</td><td>8</td><td>4</td><td>0.500</td><td></td></tr><tr><td>Her-2表达</td><td></td><td></td><td></td><td></td></tr><tr><td>Her-2 阳性</td><td>9</td><td>4</td><td>0.444</td><td>0.026 0.871</td></tr><tr><td>Her-2 阴性</td><td>32</td><td>11</td><td>0.344</td><td></td></tr><tr><td>Ki-67指数</td><td></td><td></td><td></td><td></td></tr><tr><td>≤14%</td><td>17</td><td>6</td><td>0.353</td><td>0.753</td></tr><tr><td>>14%</td><td>22</td><td>9</td><td>0.409</td><td></td></tr><tr><td>分子分型</td><td></td><td></td><td></td><td></td></tr><tr><td>Luminal A型</td><td>13</td><td>4</td><td>0.308</td><td>0.865</td></tr><tr><td>Luminal B型</td><td>22</td><td>9</td><td>0.409</td><td></td></tr><tr><td>TNBC</td><td>2</td><td>1</td><td>0.500</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "影响淋巴结转移的相关因素分析中，T分期在对照组NST 患者中存在显著的差异（ $\\scriptstyle \\mathrm { P = 0 . 0 0 6 }$ ），而在研究组并没有显著差异（ $_ { \\cdot \\mathrm { P = } 0 . 8 7 2 }$ ）。按照组织学分级、雌激素受体、孕激素受体、HER-2阳性率、Ki-67指数、分子分型进行分层分析，则均未发现统计学差异（ ${ \\mathrm { P } } { > } 0 . 0 5 { \\mathrm { \\ : } }$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/390f54329f267332f38d078335af9927510542bf53f2c0a9ebd8cc16a23b2b0f.jpg",
+        "table_caption": [
+            "表3NST淋巴结转移率影响因素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因素</td><td>例数</td><td>淋巴结转移数</td><td>淋巴结转移率</td><td>x2或F</td><td>P</td></tr><tr><td>T分期</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T1</td><td>90</td><td>23</td><td>0.256</td><td></td><td>0.006</td></tr><tr><td>T2</td><td>68</td><td>32</td><td>0.471</td><td></td><td></td></tr><tr><td>T3</td><td>3</td><td>2</td><td>0.667</td><td></td><td></td></tr><tr><td>T4</td><td>0</td><td>0</td><td></td><td></td><td></td></tr><tr><td>组织学分级</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I</td><td>27</td><td>4</td><td>0.148</td><td>4.64</td><td>0.098</td></tr><tr><td>II</td><td>95</td><td>29</td><td>0.305</td><td></td><td></td></tr><tr><td>IⅢI</td><td>58</td><td>22</td><td>0.379</td><td></td><td></td></tr><tr><td>ER表达</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ER 阳性</td><td>124</td><td>48</td><td>0.387</td><td>2.879</td><td>0.09</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1f105699dccec1c63167142950489c533c68b14bfbe73caa672e0c6ec24265d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ER 阴性</td><td>38</td><td>9</td><td>0.237</td><td></td><td></td></tr><tr><td>PR表达</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PR 阳性</td><td>123</td><td>41</td><td>0.333</td><td>0.768</td><td>0.381</td></tr><tr><td>PR 阴性</td><td>39</td><td>16</td><td>0.410</td><td></td><td></td></tr><tr><td>Her-2表达</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Her-2 阳性</td><td>24</td><td>9</td><td>0.375</td><td>0.157</td><td>0.692</td></tr><tr><td>Her-2 阴性</td><td>132</td><td>44</td><td>0.333</td><td></td><td></td></tr><tr><td>Ki67指数</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>≤14%</td><td>41</td><td>13</td><td>0.317</td><td>0.208</td><td>0.648</td></tr><tr><td>>14%</td><td>115</td><td>41</td><td>0.357</td><td></td><td></td></tr><tr><td>分子分型</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Luminal A型</td><td>39</td><td>12</td><td>0.308</td><td></td><td>0.908</td></tr><tr><td>Luminal B型</td><td>89</td><td>33</td><td>0.371</td><td></td><td></td></tr><tr><td>HER-2过表达</td><td>6</td><td>2</td><td>0.333</td><td></td><td></td></tr><tr><td>TNBC</td><td>20</td><td>6</td><td>0.300</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究组NEBC患者平均随访时间为44.2个月，2例患者因乳腺癌远处转移死亡（分别为脑转移和肝转移），1例患者因心力衰竭死亡；另有2例患者出现肺转移，2例患者出现局部转移，1例患者出现骨转移，因考虑纳入两例首诊4期患者可能会对总生存统计造成一定偏移，统计时予以剔除。对照组NST平均随访时间为45.76个月，2例患者出现死亡，其中1例因为多发内脏转移死亡，1例因为心肌梗死死亡；另有2例患者出现肝转移，9例患者出现骨转移，3例患者出现肺转移，2例患者出现脑转移，2例患者出现胸壁转移，1例患者出现局部复发，1例患者出现淋巴结转移。图2中蓝色曲线是NEBC组，红色曲线是NST组，在总生存和无病生存的比较中，两组患者均未有显著差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f72ced5d18a19c52c35cef8ffb9b9bc6b0a36fc750bde1843aa724d895c8923.jpg",
+        "img_caption": [
+            "图2A总生存曲线（OS）B无病生存曲线（PFS）"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "原发性乳腺神经内分泌癌是一种罕见的特殊类型乳腺癌，2003年WHO对乳腺神经内分泌癌做出了定义后，这种罕见类型的乳腺癌才逐渐在临床工作中被认知。CgA及 Syn 成为诊断乳腺神经内分泌癌的可靠标记物。组织学上，神经内分泌癌的特点是由圆形或梭形均匀的细胞组成，细胞核呈栅栏样排列，细胞质内含有丰富的嗜酸性颗粒[8-10]。文献报道，根据不同的分类标准[2-3]原发性乳腺神经内分泌癌占总乳腺癌的 $1 \\%$ 至 $5 \\%$ ，本研究中原发性乳腺神经内分泌癌占同期收治乳腺癌总数的 $0 . 5 \\%$ ，与文献报道稍有差异。本研究患者的平均发病年龄为56.4岁，发病年龄晚于总乳腺癌的平均年龄[1]，与Li等[12]报道的中国原发性乳腺神经内分泌癌 53.2 岁平均发病年龄相近；而本研究中60岁以上患者占 $3 8 \\%$ （19/50），70岁以上患者占 $20 \\%$ （10/50）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在所有乳腺癌中，ER及PR的总体表达率约为 $5 0 \\%$ ，而乳腺神经内分泌癌的表达率远高于其他类型乳腺癌[7,12]。本研究 50 例患者中 ER 阳性表达率为 $9 6 \\%$ （48/50），PR 阳性表达率为 $84 \\%$ （42/50），表达率明显高于其他类型乳腺癌患者；术后 $94 \\%$ 的患者（47/50）接受内分泌治疗。PR阳性率与原发肿瘤最大径呈负相关（ $\\scriptstyle \\mathbf { P = } 0 . 0 2 7$ ），目前PR表达与肿瘤直径的关系相关文献报道较少，是否具有临床意义尚待进一步研究。乳腺神经内分泌癌的激素受体表达高，提示其更适合内分泌治疗，也从另一方面反映预后情况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HER-2基因又称HER-2/neu，其扩增和过度表达与乳腺癌发生发展密切相关，参与调控细胞生长、增殖及肿瘤的细胞分化，其产物的过度表达提示其预后不良。本研究中NEBC患者HER-2阳性表达率 $8 . 5 \\%$ （4/50），较Li等[12-13]报道的中国患者 $1 5 . 1 \\%$ 的阳性表达率低，与Feki等报道的9.$5 \\%$ 的阳性表达率相近[14]，对照组NST 患者HER-2 阳性表达率 $1 1 . 5 \\%$ （23/200）。本研究中4例HER-2 阳性患者均接受抗HER-2治疗，其中在随访过程中，2例发生淋巴结转移，并有1例发现骨转移；是否提示HER-2阳性的乳腺神经内分泌癌预后不佳尚待更多病例总结研究，目前因病例数偏少尚无法进行进一步统计分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "抗神经特异性烯醇化酶（NSE）是最常用的神经内分泌指标，在所有类型乳腺癌中的表达率为$1 6 \\%$ 到 $5 0 \\% ^ { [ 1 5 ] }$ ，且在没有嗜银颗粒的乳腺癌细胞中也有表达，因此 NSE 尚不能单独作为乳腺神经内分泌癌的确诊指标。Syn 和 $\\mathrm { C g A }$ 被认为是诊断神经内分泌癌的可靠指标，本研究患者中 Syn 和CgA 的阳性表达率分别为 $5 8 \\%$ 和 $9 7 . 9 \\%$ ，与文献报道数据基本一致[16,17]。本研究中尚未发现各类型神经内分泌癌中上述两抗体之间的表达特点，其表达意义尚需要进一步研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "淋巴结转移情况是指导乳腺癌患者辅助治疗和预测预后的重要指标，因NEBC 是罕见的乳腺癌类型，研究其淋巴结转移情况有重要的临床意义。本研究通过比较 NEBC 和 NST 患者淋巴结转移情况及预后评估，通过统计学分析，发现对T分期、ER、PR、HER-2、Ki-67指数及分子分型等进行分层分析，NEBC 和 NST 患者的淋巴结转移率没有显著差异。T 分期在研究组并没有显著差异，而对照组NST中存在显著性差异（ $\\scriptstyle \\mathrm { P = 0 . 0 0 6 }$ ）。NEBC的淋巴结转移率并不像NST一样与T分期有明确的相关性，文献报道，NEBC 与 NST 的预后对比尚存在争议[4,12,18,19]，从本文的结果中可看到，T分期在 NEBC 的淋巴结转移情况中各分组未见显著差异，推测 NEBC 淋巴结转移情况与原发肿瘤绝对大小可能相关性不大，更容易发生早期转移。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "乳腺神经内分泌癌可发生多部位的远处转移，包括肝、骨、肺、胰腺、脑以及软组织等，本文中也发现相应部位的转移患者，所以需要重视术后的长期随访。本文平均随访时间为 44个月，随访时间尚不足5年是本文不足之处，为确保研究数据更加具备参考价值，将对研究患者继续长期随访。评估转移灶的生物学特点对后续解救治疗也有相应的临床意义[20-211，本文中相关资料尚有欠缺。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "且原发性乳腺神经内分泌癌相对罕见，目前分子水平的分析数据相对偏少，但近期有文献报道，在乳腺神经内分泌癌中发现 PIK3CA 以及血管内皮生长因子受体 2（VEGFR2）突变[2-23]，可能为提供治疗的相关靶点提供依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，原发性乳腺神经内分泌癌是罕见的乳腺癌病理类型，ER及PR 阳性表达率高，HER-2 阳性表达率低，目前预后情况尚存争议[17,1824]。NEBC 的淋巴结转移率并不像 NST一样与 T分期有明确的相关性，联合检测 ER、PR、HER-2、Syn 和CgA 等免疫组化指标在原发性乳腺神经内分泌癌中的表达，并分析与临床病理资料之间的关系，有助于评估原发性乳腺神经内分泌癌的生物学行为，对其治疗方案的制定有重要的参考价值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Feyrter F,Hartmann G. On the carcinoid growth form of the carcinoma mammae,especially the carcinoma solidum (gelatinosum) mammae[J]. Frankf Z Pathol,1963, 73(73):24.   \n[2] Cloyd JM, Yang RL,Alison KH, et al. Impact of histological subtype on long-term outcomes of neuroendocrine carcinoma of the breast[J]. Breast Cancer Res Treat, 2O14,148(3):637-644.   \n[3] Wang J, Wei B,Albarracin CT,et al. Invasive neuroendocrine carcinoma of the breast: a populationbased study from the surveillance, epidemiology and end results (SEER) database[J]. BMC Cancer, 2014, 14(1):1-10.   \n[4] Cubilla AL,Woodruff JM. Primary carcinoid tumor of the breast: A report of eight patients.[J]. Am J Surg Pathol, 1977,1(4):283-29.   \n[5]Tavassoli FA,Devilee P. World Health Organization classification of tumours. Pathology and genetics of tumours of the breast and female genital organs[M].Lyon: IARC Press, 2003.   \n[6] Lakhani S,Elis I, Schnit S,et al. WHO Classification of Tumours of the Breast, 4th ed[M].Lyon: IARC Press, 2012.   \n[7] Rosen L，Gattuso,P，et al，Neuroendocrine Tumors of the Breast[J].Archives of Pathology & Laboratory Medicine 2017 Nov;141(11):1577-1581. doi: 10.5858   \n[8] Bogina G，Munari E，Brunelli M,et al. Neuroendocrine differentiation in breast carcinoma: Clinicopathological features and outcome[J]. Histopathology, 2016, 68(3):422-432.   \n[9] Alva K，Tauro LF， Shety P,et al. Primary neuroendocrine carcinoma of the breast: A rare and distinct entity[J]. Indian J Cancer,2015,52(4):636-637.S.   \n[10] Singh S,Aggarwal G,Kataria SP,et al.Primary neuroendocrine carcinoma of breast[J]. JCytol,2011, 28(2):91-92. [11] Fan L,Strasser-Weippl K,Li JJ, et al. Breast cancer in China[J].Lancet Oncol,2014,15(7):e279- e289.   \n[12] Li YQ,Feng D, Zhu WJ, et al. Neuroendocrine carcinoma of the breast: a review of 126 cases in China[J]. Chin J Cancer, 2017, 36(9):444-447.   \n[13] Weigelt B,Horlings HM, Kreike B,et al. Refinement of breast cancer clasification by molecular characterization of histological special types[J]. JPathol, 2010,216(2):141-150.   \n[14] Feki J，Fourati N，et al. Primary neuroendocrine tumors of the breast: a retrospective study of 21 cases and literature review[J]. Cancer Radiotherapie Journal De La Societe Francaise De Radiotherapie Oncologique 10.1016/j.canrad.2015.04.003   \n[15] Zekioglu O,Erhan Y,Ciris M,et al.Neuroendocrine differentiated carcinomas of the breast: a distinct entity[J]. Breast, 2003,12(4):251-257.   \n[16] Righi L,Sapino A,Marchio C,et al. Neuroendocrine diferentiation in breast cancer: Established facts and unresolved problems[J]. Semin Diagn Pathol, 2010,27(1):69-76.   \n[17] Nesland JM,Holm R,Johannessen JV,et al. Neurone specific enolase immunostaining in the diagnosis of breast carcinomas with neuroendocrine differentiation: its usefulness and limitations[J]. J Pathol,1986,148(1):35-43.   \n[18] Manes K, Delis S, Papaspyrou N,et al. Neuroendocrine breast carcinoma metastatic to the liver: Report of a case and review of the literature[J]. Int J Surg Case Rep,2O14, 5(8):540-543.   \n[19] Kwon SY,Bae YK, Gu MJ et al. Neuroendocrine differentiation correlates with hormone receptor expression and decreased survival in patients with invasive breast carcinoma. Histopathology 2014;64:647-659.   \n[20] Rossi S,Basso M, Strippoli A,et al. Hormone Receptor Status and HER2 Expression in Primary Breast Cancer Compared With Synchronous Axillary Metastases or Recurrent Metastatic Disease[J]. Clin Breast Cancer, 2015,15(5):307-312.   \n[21] Ang D,Ballard M, Beadling C,et al. Novel mutations in neuroendocrine carcinoma of the breast: possible therapeutic targets[J]. Appl Immunohistochem Mol Morphol, 2015,23(2):97-103.   \n[22] Herbert C,Lassalle G, Alcouffe C, et al. Approaches targeting the FGF-FGFR system: a review of the recent patent literature and associated advanced therapeutic agents[J]. Pharm Pat Anal, 2014,3(6):585-612. [23] Marton I, Knezevic F, Ramic S,et al. Immunohistochemical expression and prognostic significance of HIF- $1 \\alpha$ and VEGF-C in neuroendocrine breast cancer[J]. Anticancer Res,2012,32(12):5227-5232. [24] Kwon SY,Bae YK, Gu MJ,et al. Neuroendocrine differentiation correlates with hormone receptor expression and decreased survival in patients with invasive breast carcinoma[J]. Histopathology,2014, 64(5):647-659. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

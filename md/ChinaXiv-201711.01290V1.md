@@ -1,0 +1,162 @@
+# 光学综合孔径望远镜光程探测方法研究
+
+刘清1,2,3，姜爱民1,2（1.中国科学院国家天文台，北京100012；2.中国科学院空间天文与技术重点实验室，北京100012；3.中国科学院大学，北京100049)
+
+摘要：光干涉技术需要对光程差进行精确的补偿和控制，因此光程差的精确探测尤为重要。主要针对色散条纹法在光程差探测中的应用进行讨论，通过理论分析、仿真计算和实验，验证了在一个波长范围内的光程差与色散干涉条纹纵向光强峰值偏移量之间存在线性关系。分析实验获得的白光色散干涉条纹数据发现，理论计算预测值有一定的偏差，通过对实验系统中各主要误差源进行分析发现，分光棱镜在运动过程中引入的俯仰起伏是导致实验误差的主要原因。
+
+关键词：光干涉；色散条纹法；光程差；共相中图分类号：P111.2 文献标识码：A 文章编号：1672-7673(2017)04-0519-07
+
+光学综合孔径技术，又称光学合成孔径技术，是将多个较小口径的光学元件或光学系统进行精确的排列，使通过各子孔径的光束在焦平面上满足一定的同相位条件，实现相干叠加，经图像复原处理后，达到与单一较大通光口径相当的衍射极限分辨率的技术。
+
+H.Fizeau 最早在1868年提出恒星光干涉技术，希望利用干涉法测量恒星的角直径。1874 年,Steven 通过在Large Foucault望远镜前增加掩膜的方法，首次成功观测到恒星的干涉条纹。到目前为止，世界上已经建立了多个拼接子望远镜的光学综合孔径实验系统。美国麻省理工学院（MassachusetsInstitute of Technology，MIT)2002 年研制的GOLAY-3型光学卫星地面样机（ARGOS）[1]，演示验证了空间光学综合孔径技术的可行性，其等效孔径为 $0 . 6 2 \mathrm { ~ m ~ }$ ，角分辨率为 $0 . 3 5 ^ { \prime \prime }$ （优于单个子孔径的角分辨率 $0 . 5 5 ^ { \prime \prime }$ )，视场角约为 $3 ^ { \prime \mathrm { { ‰} } }$ 。美国洛克-马丁公司研制的 $\mathrm { S t a r 9 }$ 装置[2]是由9个子孔径组成的Fizeau 型光学综合孔径望远镜，单子孔径为 $1 2 5 ~ \mathrm { m m }$ ，经过共相位干涉，实现了与 $6 1 0 ~ \mathrm { m m }$ 口径衍射极限相当的分辨率，视场大小为1urad。
+
+北京理工大学于2009年成功研制了共相位检测与控制平台，对拼接镜面成像系统闭环控制，最终形成干涉条纹[3]。我国自主研制的LAMOST望远镜于2009年竣工验收，采用主动光学技术，有 34块拼接主镜和28块拼接施密特校正板，但是只实现了共焦成像，分辨率仍然受限于单子镜的口径。中国科学院西安光学精密机械研究所于2011年进行了综合孔径实验系统的搭建，开展了理论分析、仿真研究和有限距离综合孔径原理验证实验。上海天文台也于2011年建成2个望远镜组成的综合孔径成像系统，采用棱锥波前探测，但未实现共相成像。与国外相比，我国的天文光干涉技术有待进一步发展。
+
+光学综合孔径望远镜各子孔径间达到共相时才能形成干涉，实现复振幅的叠加，提高空间分辨率，否则，只是光强叠加，系统分辨率仍受限于子孔径的衍射极限。因此，各光束间光程差的精确探测对光学综合孔径望远镜光干涉的实现至关重要。
+
+目前国内外发展了多种光程探测的方法。离焦面检测：（1)曲率传感法[4]通过测量子镜边缘的相位不连续性重构子镜间的光程差误差；（2)相位恢复法[5'通过焦面和一对离焦面的光强数据反解瞳面相位分布计算光程差误差。出瞳面检测：四棱锥波前检测法[6通过检测4个出瞳像点能量差异计算光程差误差。焦面检测法：（1)加州大学Gary Chanan提出的宽带哈特曼-夏克法和窄带哈特曼-夏克法，通过采样孔径的衍射图样与样板图样的相关系数计算拼接子镜间的光程差误差[7}；（2)詹姆斯韦伯太空望远镜使用了色散条纹法[8]，通过处理相邻子孔径间色散干涉条纹，对光强分布进行拟合，得到光程差误差。
+
+国家天文台承担了863计划光学稀疏综合成像系统原理样机和综合数据处理技术的课题，本文以此为背景，对光程差探测方法开展了理论和实验研究。针对系统的情况，选择色散条纹法探测一个波长范围内的光程差。在分析双孔干涉理论和仿真模拟的基础上，讨论了光程差与干涉条纹光强纵向峰值偏移量之间的关系，搭建了实验装置，通过处理干涉条纹得到了光程差，并对实验误差进行了系统分析，找到了影响计算精度的主要原因是运动平台的俯仰起伏，为后续改进指明了方向。
+
+# 1 理论基础
+
+双圆孔在望远镜焦平面处，经沿 $x$ 方向色散的AMICI棱镜，形成的干涉图样强度分布[3]为
+
+$$
+I ( x , \ y ) = 2 \left( \frac { \pi a ^ { 2 } } { \lambda f } \right) ^ { 2 } \Biggl [ \frac { 2 J _ { 1 } ( Z ) } { Z } \Biggr ] ^ { 2 } \Biggl \{ 1 + \cos \Biggl [ \frac { 2 \pi } { \lambda ( x ) } \Biggl ( \frac { \mathrm { d } y } { f } + \phi \Biggr ) \Biggr ] \Biggr \} \ ,
+$$
+
+其中， $Z { = } 2 \pi a r / \lambda f$ ： $\mathbf { \alpha } _ { a }$ 为圆孔半径； $r = \sqrt { x ^ { 2 } + y ^ { 2 } }$ ; $f$ 为望远镜焦距； $d$ 为基线长度； $I ( x , \ y )$ 为色散条纹信号光强值; $I _ { 0 }$ 为色散条纹信号振幅； $\lambda \left( x \right)$ 为沿 $x$ 方向色散的波长； $\phi$ 为两圆孔干涉的光程差； $x , \ y$ 分别为横纵坐标。
+
+Fizeau 型光干涉系统中光程差探测部分双圆孔示意图如图1，其中参数为：圆孔半径 $a = 1 0 ~ \mathrm { m m }$ ;基线长度 $d = 4 0 ~ \mathrm { m m }$ ；焦距 $f = 1 6 8 0 \ \mathrm { m m }$ 。
+
+![](images/4feab92736f475108146ebaeb069013e93d9c0f654b0eec7e4cacd80e11dc4ce.jpg)  
+图1两圆孔参数  
+Fig.1The parameter of two circle holes
+
+先讨论单波长下的光干涉，令 $x = 0$ ，则 $Z = 2 \pi a y / \lambda f$ ，此时只需要对干涉条纹纵向( $y$ 方向)的光强分布进行分析：
+
+$$
+I _ { f } ( y ) = 2 \left( \frac { \pi a ^ { 2 } } { \lambda f } \right) ^ { 2 } \left[ \frac { 2 J _ { 1 } \left( \frac { 2 \pi a y } { \lambda f } \right) } { \frac { 2 \pi a y } { \lambda f } } \right] ^ { 2 } \left\{ 1 + \cos \left[ \frac { 2 \pi } { \lambda } \left( \frac { \mathrm { d } y } { f } + \phi \right) \right] \right\} .
+$$
+
+在 $- \lambda / 2 \sim + \lambda / 2$ 之间，自变量光程差 $\phi$ 与因变量峰值偏移量 $y _ { \mathrm { m a x } }$ 之间的关系(其中 $I _ { \mathrm { m a x } }$ 为峰值光强)：
+
+$$
+\frac { \lambda f } { 2 d \pi } \operatorname { a r c c o s } \ ( \frac { I _ { \mathrm { m a x } } } { \left[ 2 \ : J _ { 1 } \left( \frac { 2 \pi a \ : y _ { \mathrm { m a x } } } { \lambda f } \right) \right] ^ { 2 } } - 1 ) - y _ { \mathrm { m a x } } = \frac { f } { d } \ : \phi \ : .
+$$
+
+# 2色散条纹法仿真模拟
+
+假设自变量光程差 $\phi$ 在一个波长范围内，此时 $\phi$ 与峰值偏移量 $y _ { \mathrm { { m a x } } }$ 之间存在线性关系：
+
+将系统参数代入(4)式，分别计算 $5 0 0 \ \mathrm { n m }$ （红）、 $6 0 0 \ \mathrm { n m }$ （绿）、 $7 0 0 ~ \mathrm { n m }$ （蓝）3种单波长干涉条纹纵向光强峰值偏移量 $y _ { \mathrm { m a x } }$ （下面用 $y$ 代替)与光程差 $\phi$ （下面用piston代替)之间的关系。利用MATLAB进行数值模拟，计算结果如图2，其中横坐标光程差的采样间隔为 $1 0 \ \mathrm { n m }$ ，纵坐标 $y$ 为各光程差下干涉条纹纵向光强对应的峰值位置。取线性相关系数 $r ^ { [ 9 ] }$ 定义如下：
+
+$$
+r _ { x y } = \frac { l _ { x y } } { \sqrt { l _ { x x } l _ { y y } } } ~ ,
+$$
+
+$$
+{ \overset { . } { x } } = { \overset { 1 } { n } } \sum _ { i = 1 } ^ { n } x _ { i } ; { \overset { . } { y } } = { \frac { 1 } { n } } \sum _ { i = 1 } ^ { n } y _ { i } ; { \mathit { l } } _ { \mathrm { a x } } = \sum _ { i = 1 } ^ { n } \left( x _ { i } - { \overset { . } { x } } \right) ^ { 2 } ; { \mathit { l } } _ { \mathrm { a y } } = \sum _ { i = 1 } ^ { n } \left( x _ { i } - { \overline { { x } } } \right) \left( y _ { i } - { \overline { { y } } } \right) ; { \mathit { l } } _ { \mathrm { y y } } = \sum _ { i = 1 } ^ { n } \left( y _ { i } - { \overline { { y } } } \right) ^ { 2 }
+$$
+
+在3种单波长条件下，计算 $K$ 和 $\boldsymbol { r }$ 值，均得到 $K { \approx } - 3 9 . 5 1$ ，线性相关系数 $\boldsymbol { r }$ 优于 $9 9 . 9 9 \%$ 。因此，可认为在单色光干涉时，光程差在一个波长范围内与 $y$ 满足线性关系，并且不同波长对斜率的影响较小。
+
+对多波长色散干涉条纹进行分析，假设线色散关系 $x = 2 \times 1 0 ^ { 4 } ( \lambda - 6 5 0 \times 1 0 ^ { - 9 } )$ （单位： $\mathrm { ~ m ~ }$ )，波长$\lambda = 6 0 0 \sim 7 0 0 \mathrm { n m }$ ，采样间隔 $\Delta \lambda = 1 ~ \mathrm { { n m } }$ ，光程差 $p i s t o n = - 2 5 0 \ \mathrm { n m } \sim 2 5 0 \ \mathrm { n m }$ 范围内，得到光程差与峰值偏移量 $y$ 的拟合曲线如图3，直线拟合得到斜率 $K { \approx } { - } 3 9 . 3 7 ( K { = } y / \mathrm { p i s t o n } )$ ，线性相关系数 $r { \approx } 9 9 . 9 9 9 9 \%$ 。因此多波长光形成的色散干涉条纹纵向光强峰值位置 $y$ 与光程差也呈线性关系，斜率与单波长情况基本相同。
+
+![](images/d1b45af21e6b2fa9faeed3e681bcdf6b1c28bed910103387d847fe10eec8a646.jpg)  
+图2峰值偏移量与光程差之间的关系(3种波长 Fig.2Relationship between $y$ and piston (single-wavelength)
+
+![](images/a98c36242ee50b0aac2a8aae140509debf83a899791fb0c5c551ca8edd5c4b58.jpg)  
+图3峰值偏移量与光程差之间的关系(多波长) Fig.3Relationship between $y$ and piston （multi-wavelength)
+
+# 3 实验和数据处理
+
+在实验室搭建实验装置如图4。实验系统由5部分组成：（1)NKT白光光源；（2)光源望远镜和合光成像望远镜；(3)分光棱镜 $S _ { 1 }$ ， $S _ { 2 }$ ；（4)AMICI棱镜；（5)CMOS相机( $2 0 4 8 \times 1 0 8 8$ 像元)。系统光路示意图见图5。分光棱镜 $S _ { 1 }$ 位置保持不变， $S _ { 2 }$ 安装在直线运动导轨(LPS-45)上，可通过计算机控制 $S _ { 2 }$ 运动改变光程差。实验采集的零光程干涉条纹图像如图6。
+
+![](images/9dc9e64f6f38286fc32eb0bd5907e5d9cbfd33c0691c198245773c53f2338b00.jpg)  
+图4实验室系统搭建照片
+
+根据 $y$ 与光程差线性相关的仿真结果，在$- 2 5 0 ~ \mathrm { n m } \sim + 2 5 0 ~ \mathrm { n m }$ 范围内，以 $1 0 \ \mathrm { n m }$ 为采样间隔，分别采集不同光程差下的色散干涉条纹，并进行数据处理。为了减小误差，对各干涉条纹均取 $n$ 组纵向(垂直于色散方向)光强数据，分别进行拟合得到峰值位置偏移量y，y，…，yn,求其均值得到 $y$ 。
+
+图7为实验中一组干涉条纹纵向光强峰值偏移量 $y$ 与光程差的拟合结果。其中，横坐标光程差的范围是 $- 2 5 0 ~ \mathrm { n m } \sim + 2 5 0 ~ \mathrm { n m }$ ，纵坐标 $y$ 为干涉条纹纵向光强峰值偏移量的均值。线性拟合得到的线性相关系数 $r = 9 9 . 8 1 \%$ ，斜率 $K = - 5 0 . 7 4$ O
+
+![](images/3bd945e47daf1dae095135e4ec81471d59f8d680396182dab7a92da041880cd8.jpg)  
+Fig.4Picture of experimental system   
+图5系统光路示意图Fig.5Sketch map of system
+
+![](images/61b3c74f29706faf268aa22e00e7ec9d1d552c9959a0f8e27a8d8ab87ff7ff8e.jpg)  
+Fig.6Interferometric fringe of piston zero
+
+通过上述结果可以看出，实验数据处理与仿真计算得到的斜率之间存在一定程度的偏差。接下来对系统的主要误差源进行分析。
+
+# 4误差分析
+
+# 4.1系统主要参数对斜率的影响
+
+为了分析系统各主要设计参数对拟合斜率 $K$ 的影响，利用MATLAB建立多波长色散干涉模型，分别分析了合光成像望远镜焦距 $f _ { \setminus }$ 圆孔半径 $\mathbf { \alpha } _ { a }$ 和基线长度 $d$ 的变化对斜率 $K$ 的影响。光源波长范围设定在 $6 0 0 \sim 7 0 0 ~ \mathrm { n m }$ ，结果见表1、表2。
+
+![](images/cadb0bec407e862bca8e21ee6185bb90c135b902959e3bc619fd2a05267e1235.jpg)  
+图6零光程干涉条纹  
+图7干涉条纹峰值偏移量与光程差拟合结果(实验结果) Fig.7Relationship between y and piston (result of the experiment)
+
+从表1、表2可以看出，合光成像望远镜焦距 $f$ 在 $\pm \ 1 0 0 \ \mathrm { m m }$ 误差范围内，造成斜率变化范围在 $\pm$ 2以内；圆孔半径 $\mathbf { \alpha } _ { a }$ 在 $\pm 1 ~ \mathrm { m m }$ 误差范围内，造成斜率变化范围约 $\pm 0 . 5$ 以内；基线长度 $d$ 在 $\pm 1 \mathrm { m m }$ 误差范围内，造成斜率变化范围 $\pm 1$ 以内。可见，以上3个系统参数对斜率的影响较小，不是实验中影响斜率的主要因素。
+
+表1 $\textbf { \em a }$ 为 $\mathbf { 1 0 \ m m }$ 时， $f$ 和 $\pmb { d }$ 对 $\pmb { K }$ 的影响Table1The influence of $f$ and $\pmb { d }$ to $\pmb { K }$ When $\pmb { a } = \mathbf { 1 0 m m }$   
+
+<html><body><table><tr><td>d</td><td>39 mm</td><td>40 mm</td><td>41 mm</td></tr><tr><td>f=1 580 mm</td><td>-37.86</td><td>-37.04</td><td>-36.25</td></tr><tr><td>f=1 680 mm</td><td>-40.24</td><td>-39.37</td><td>-38.54</td></tr><tr><td>f=1780 mm</td><td>-42. 62</td><td>-41. 70</td><td>-40.82</td></tr></table></body></html>
+
+表2 $f$ 为 $\mathbf { 1 6 8 0 m m }$ 时， $\textbf { \em a }$ 和 $\textbf { \em d }$ 对 $\pmb { K }$ 的影响Table 2The influence of $\textbf { \em a }$ and $\pmb { d }$ to $\pmb { K }$ =When $f { = } 1 6 8 0 \mathrm { m m }$   
+
+<html><body><table><tr><td>d</td><td>39 mm</td><td>40 mm</td><td>41 mm</td></tr><tr><td>a=9 mm</td><td>-40.76</td><td>-39.86</td><td>-39.00</td></tr><tr><td>a=10 mm</td><td>-40.24</td><td>-39.37</td><td>-38.54</td></tr><tr><td>a=11 mm</td><td>-39.69</td><td>-38.86</td><td>-38.05</td></tr></table></body></html>
+
+# 4.2光源光谱曲线对斜率的影响
+
+NKT白光光源的光谱曲线中，各个波长的光强度值均有所差异。为了模拟光谱曲线对色散条纹的影响，假设了两组光谱曲线：（1)各波长的光强满足均匀随机分配(以0.5\~1之间的随机数为比例进行分配)，（2)各波长的光强按一定规律进行分配（光谱曲线见图8(a)，仿真计算结果如图8（b））。仿真结果显示：两组光谱曲线下得到的 $y$ 与光程差之间的斜率 $K$ 均为-39.37，线性相关系数 $\boldsymbol { r }$ 为$9 9 . 9 9 9 9 \%$ ，并且与各波长光强相同时表现一致。因此，光谱曲线也不是造成斜率变化的原因。
+
+![](images/1070c25dde70f7c05e799989d66f340b3b40fcc6524e79e0726abee45082cf36.jpg)  
+图8 (a)光谱曲线； (b)仿真结果的影响  
+Fig.8（b）The simulation results under the influence of（a）spectral curve
+
+4.3分光棱镜运动过程中引入的角度扰动对斜率的影响
+
+带动分光棱镜 $S _ { 2 }$ 运动的压电陶瓷线性运动平台是PI公司的LPS-45，其最大行程 $1 3 \ \mathrm { m m } \big ( \pm 6 . 5$ $\mathbf { m } \mathbf { m }$ )，双向可重复性为 $\pm 1 8 \mathrm { n m }$ ，最小运动增量为 $6 \mathrm { n m }$ ，角度扰动（pitch&yaw）为 $\pm 5 0 \mathrm { u r a d }$ 。在实验系统中，俯仰角度扰动使条纹发生上下偏移，偏航角度扰动使条纹发生左右偏移。首先，对两束光之间存在左右、上下错位的情况进行仿真，结果显示：
+
+(1)两束光左右错位 $( X s h i f t ) - 4 ~ \mu \mathrm { m } \sim \textrm { + } 4 ~ \mu \mathrm { m }$ ：光程差为0时，色散干涉条纹纵向光强峰值偏移量的最大值约为 $0 . 0 1 { \mathrm { ~ n m } }$ ；光程差为 $+ ~ 1 0 0 ~ \mathrm { n m }$ 时，与未发生左右错位情况下色散干涉条纹纵向光强峰值偏移量之差的最大值约为 $0 . 1 \ \mathrm { n m }$ 。可见，左右错位对色散干涉条纹光强峰值偏移量的影响较小。
+
+(2)两束光上下错位 $( \ r s h i f t ) - 4 \ \mu \mathrm { m } \sim \ + \ 4 \ \mu \mathrm { m }$ ：光程差为0时，色散干涉条纹纵向光强峰值位置偏移量随着Ysh的增加而增加，偏移量最大值约为 $1 2 2 { \mathrm { n m } }$ ；光程差为 $+ ~ 1 0 0 ~ \mathrm { n m }$ 时，色散干涉条纹纵向光强峰值位置偏移量随着Yshif 的增加而增加，与未发生上下错位情况下色散干涉条纹纵向光强峰值偏移量之差的最大值约为 $1 2 6 ~ \mathrm { { n m } }$ 。可见，上下错位对色散干涉条纹光强峰值偏移量的影响较大。
+
+假设两色散条纹在0光程差下相互重合，通过 $S _ { 2 }$ 运动产生 $+ ~ 1 0 ~ \mathrm { n m }$ 光程差，同时引入上下错位 $- 4 ~ { \mu \mathrm { m } } \sim \mathrm { ~ + ~ } 4 ~ { \mu \mathrm { m } }$ ，发现斜率值 $K$ 变化很大,为 $- 2 7 . 2 0 \sim - 5 1 . 4 5$ （如表3）。实验结果表明，在运动平台最大行程内移动 $S _ { 2 }$ 将导致探测器上的色散条纹发生上下偏移 $l = \pm 2 7 . 7 5$ 像素，对应光束角度变化 $\alpha = l 5 . 5 ~ { \mu \mathrm { m } } / f { = } ~ \pm ~ 9 0 . 8 ~ \mathrm { u r a d }$ ， $S _ { 2 }$ 角度变化 $\alpha / 2 = \pm 4 5 . 4 \mathrm { u r a d } ($ （在 $\pm 5 0$ urad内），与系统标称的数据相符。因此，可以判断上下错位是造成实验数据与仿真结果斜率值之间存在较大偏差的主要原因，这是由运动平台的俯仰角度误差决定的。
+
+表3上下条纹错位对斜率的影响  
+Table 3K under the influence of two fringes up and down   
+
+<html><body><table><tr><td>上下错位/μm (上移为正，下移为负)</td><td>斜率K</td></tr><tr><td>-4</td><td>-27.20</td></tr><tr><td>-2</td><td>-33. 25</td></tr><tr><td>0</td><td>-39.32</td></tr><tr><td>2</td><td>-45. 40</td></tr><tr><td>4</td><td>-51. 45</td></tr></table></body></html>
+
+# 5总结
+
+文中主要介绍了使用色散条纹法对光程差进行探测的方法和实验结果。首先，数值计算显示，光程差在一个波长范围内与色散干涉条纹纵向光强峰值偏移量之间存在良好的线性关系。其次，搭建实验光路，开展实验研究，通过控制分光棱镜 $S _ { 2 }$ 运动改变两光束间的光程差，再对采集的色散干涉条纹进行数据处理得到斜率数据，发现与仿真得到的斜率值有较大偏差。经过较全面的误差分析，分别对主要系统参数、光源光谱曲线和分光棱镜运动引入的角度扰动进行了分析，结果显示分光棱镜运动过程中引入的俯仰角度误差导致的条纹上下偏移是实验数据与仿真计算斜率值偏差较大的主要原因。
+
+针对这一问题，希望用系统标定的方式进行修正。即利用双频激光位移干涉仪对运动棱镜位置进行精确测量(分辨率达 $1 \mathrm { n m }$ )，以此对棱镜位置进行标定，进而得到经标定的斜率 $K _ { 0 }$ 。在实验中，用标定的 $K _ { 0 }$ 对光程差进行求解：piston ${ . = } y / { K _ { 0 } }$ 。
+
+# 参考文献：
+
+[1] Chung S J,Miller D W，Weck O L D.ARGOS testbed:study of multidisciplinary challenges of future spaceborne interferometric arrays [J]. Optical Engineering，2004，43(43）: 2156-2167.   
+[2] Kendrick R L，Aubrun JN，Bell R，et al.Wide-field Fizeau imaging telescope：experimental results [J].Applied Optics，2006，45（18）:4235-4240.   
+[3] 王姗姗.基于色散瑞利干涉原理的 piston 误差检测方法研究［D]．北京：北京理工大学， 2009.   
+[4] Chanan G A，Troy M，Sirko E.Phasing the Keck Telescope with out-of-focus images in the infrared[C]// Larry M. Advanced Technology Optical/IR Telescopes VI: Proceedingsof SPIE.1998：632-642.   
+[5] Redding D C，Basinger S A， Cohen D,et al. Wavefront control for a segmented deployable space telescope [C]// Breckinridge JB，Jakobsen P. The International Society for Optical Engineering: Proceedings of SPIE. 2000: 546-558.   
+[6] Esposito S，Devaney N. Segmented telescopes co-phasing using Pyramid Sensor [C]// Vernet E，Ragazzoni R， Esposito S, et al. 2002 ESO Conference and Workshop Proceedings. Germany : European Southern Observatory，2002：161.   
+[7] Chanan G A，Troy M, Ohara C M.Phasing the primary mirror segments of the Keck telescopes : a comparison of different techniques[C]//Philippe Dierickx.Optical Design，Materials, Fabrication，and Maintenance：Proceedings of SPIE.2002：188-202.   
+[8] Fang S，King B M， Sigrist N，et al. NIRCam long wavelength channel grisms as the dispersed fringe sensor for JWST segment mirror coarse phasing [C]// Oschmann J M，Graauw JD, Matheus W M，et al. Space Telescopes and Instrumentation 2008： Optical，Infrared，and Millimeter: Proceedings of SPIE.2008.   
+[9] 数学手册编写组.数学手册［M].北京：高等教育出版社，2006：836-840.
+
+# Experimental Research on Piston Detecting Method for Optical Synthetic Aperture Systems
+
+Liu Qing $^ { 1 , 2 , 3 }$ ， Jiang Aimin1,2
+
+(1.National Astronomical Observatories，Chinese Academy of Science，Beijing 1Ooo12,China; 2.Key Laboratory of Space Astronomy and Technology，Chinese Academy of Sciences，Beijing 10oo12，China; 3.University of Chinese Academy of Sciences，Beijing 10oo49,China,Email：liuqing@bao.ac.cn)
+
+Abstract:For optical interference，piston errr detection influences the accuracy of piston compensation considerably.We build an optical experimental system and choose dispersed fringe sensing（DFS）as piston detection method.Through numerical simulations and experiments，we find the piston within a wavelength has a linear relationship with longitudinal intensity peak offset of dispersed interference fringes.In our experiment, we use white light source（1OOnm spectral width）to generate dispersed interference fringes.The piston will be introduced intentionally by moving beam splitter platform.We find there is a diffrence between simulation results and experimental results.Then，we analyze the influence of some experimental parameters on piston detection accuracy.Finally，we find the pitch movement disturbance of beam splittr platform is the main reason of the difference.
+
+Key words: Optical interference；Dispersed fringe sensing；Piston；Co-phasing

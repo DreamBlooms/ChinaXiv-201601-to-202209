@@ -1,0 +1,512 @@
+[
+    {
+        "type": "text",
+        "text": "Size- and leaf age-dependent effectson the photosynthetic andphysiological responses of Artemisia ordosica to drought stress ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Chunyuan1.2, YU Minghan1,2\\*, DING Guodong1,2\\*, GAO Guangleil1,2, ZHANG Linlin², HE Yingying², LIU Wei² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Yanchi Research Station,SchoolofSoiland WaterConservation,BeijingForestryUniversityBeijing0o083,China; ² KeyLaboratoryofStateForestryAdministrationonSoilandWaterConservatio,BeijingFrestryUniversityBeijng083 China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Drought is one of the most significant natural disasters in the arid and semi-arid areas of China. Populations or plant organs often difer in their responses to drought and other adversities at diferent growth stages. At present, little is known about the size- and leaf age-dependent diferences in the mechanisms of shrub-related drought resistance in the deserts of China. Here，we evaluated the photosynthetic and physiological responses of Artemisia ordosica Krasch. to drought stress using a field experiment in Mu Us Sandy Land,Ningxia Hui Autonomous Region, China in 2018.Rainfall was manipulated by instaling outdoor shelters,with four rainfall treatments applied to 12 plots $( 5 ~ \\mathrm { m } \\times 5 ~ \\mathrm { m } )$ ： There were four rainfall levels, including a control and rainfall reductions of $30 \\%$ ， $50 \\%$ and $70 \\%$ ，each with three replications.Taking individual crown size as the dividing basis, we measured the responses of $\\mathcal { A }$ ordosica photosynthetic and physiological responses to drought at different growth stages,i.e.,large-sized $( > 0 . 5 \\ \\mathrm { m } ^ { 2 } )$ ）and small-sized $( \\le 0 . 5 ~ \\mathrm { m } ^ { 2 } )$ plants.The leaves of $\\mathcal { A }$ .ordosica were divided into old leaves and young leaves for separate measurement. Results showed that: (1） under drought stress, the transfer eficiency of light energy captured by antenna pigments to the photosystem II (PSII) reaction center decreased, and the heat dissipation capacity increased simultaneously. To resist the photosynthetic system damage caused by drought, $\\mathcal { A }$ ，ordosica enhanced its free radical scavenging capacity by activating its antioxidant enzyme system; and (2) growth stage and leaf age had efects on the reaction of the photosynthetic system to drought. Small $\\mathcal { A }$ ，ordosica plants could not withstand severe drought stress $70 \\%$ rainfall reduction)，whereas large $\\mathcal { A }$ ，ordosica individuals could absorb deep soil water to ensure their survival in severe drought stressed condition. Under $30 \\%$ and $50 \\%$ rainfall reduction conditions, young leaves had a greater ability to resist drought than old leaves,whereas the latter were more resistant to severe drought stress. The response of $\\mathcal { A }$ . ordosica photosynthetic system reflected the trade-off at different growth stages and leaf ages of photosynthetic production under different degrees of drought. This study provides a more comprehensive and systematic perspective for understanding the drought resistance mechanisms of desert plants. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: drought stress; age difference; plant size; photosynthesis; physiological response; survival strategy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Due to the burning of fossil fuels and changes in land use, global surface temperatures have been rising in the past few decades and are expected to increase by $1 . 1 ^ { \\circ } \\mathrm { C } \\mathrm { - } 6 . 4 ^ { \\circ } \\mathrm { C }$ by the end of this century (IPCC，2O13). Rising temperatures will change global air circulation patterns and hydrological cycles (Huntington, 2O06), leading to more extreme drought events in the future (Easterling et al., 2000; Christensen et al., 2007; Yoon et al., 2015). Arid and semi-arid areas constitute about $50 \\%$ of China's land territory,most of which are located in the northern and northwestern regions (Cheng et al., 2016). Regional characteristics, such as eco-fragility, sparse vegetation, dry land and low biological productivity make the arid and semi-arid areas of China extremely sensitive to climate change (Zhao et al., 2O13). Therefore, investigating the response of typical vegetation in this region to rainfall changes is important for future regional vegetation management. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Photosynthesis allows plants to capture energy and synthesize organic mater, which directly affects plant survival and growth (Fermin et al.,1998). This process is particularly affected by drought stress, which can inhibit the activity of photosystem I (PSI) and PSII, and destroy the coordination between them (Kobayashi et al.， 1995； Xiang et al.，2009; Wilhelm and Selmar, 2011). The destruction of PSI and PSI affects the electron transport chain and the original light energy conversion, resulting in a diminished photosynthetic rate,which hinders the synthesis of dark reactions,ultimately resulting in the declines in photosynthetic efficiency (Stefania et al., 2016; Li et al.,2018). Studies have shown that synergistic effect of reactive oxygen species (ROS) metabolism and PSII light energy conversion can stabilize the functioning of photosynthetic system (Fridovich, 1978; Bunce,1982; Bavcon et al., 1996; Szabó et al.,2005; Alexandre et al., 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theoretically, the response of plants to environmental changes is developmentally different between individuals and organs (Chaves et al., 2002; del Vall et al.，2015).At the individual scale, the root structures and functions of small plants are not fully developed, which makes small plants more susceptible to water stress than large plants, thus affecting water uptake, transport and use(Gerhard et al., 2001). Pan et al. (2002) illustrates that the formation of individual size irregularity under competitive conditions is an evolutionary stabilization strategy for plant populations (Pan et al., 2O02). However, the individual heterogeneity researchers for exploring the development and succession trends of species at the community scale are not enough now. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Studies have shown that there is heterogeneity of leaf age in plant resistance to stress. As the main functional organs of plant photosynthetic production, the structural and functional integrity of the leaves is particularly important for environmental response strategies of plants (Baghalian et al., 2011). For example, nitrogen (N) is transferred from old leaves to young leaves and the key chlorophyll element magnesium $\\left( \\mathrm { M g } \\right)$ is also transferred under stress conditions in order to maintain the photosynthetic activity of young leaves (Escudero and Mediavilla,2Oo3). In studies on the response mechanism of leaves to drought, it has been found that when plants are subjected to drought stress, the leaves slowly turn yellow, starting from old leaves until the whole plant dies (Wassmann et al., 20o9). However, other studies have shown that environmental changes affect young leaves first and then the old ones (Huang et al., 2O05). Therefore, it is necessary to fully consider the heterogeneity of individuals and organs when exploring the responses of plants to precipitation changes in sandy areas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Artemisia ordosica Krasch is a sand-fixing semi-shrub that is widely distributed on fixed and semi-fixed sand dunes in temperate deserts and grasslands in northern and northwestern China (Qiu and Shi,1991; Zhang et al., 2012). It can withstand being buried in the sand, wind erosion and barren soils,and is highly adapted to its arid and semi-arid sandy land habitat (Zhang et al., 2012).Accordingly, it plays an important role in the restoration of desert ecosystems and the succession of plant communities in sandy areas (Guo,20oo). And the ability of A. ordosica to tolerate rainfall changes has greatly affected the ecological security of sandy areas in northern China (Peters et al., 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we explored two hypotheses for the response of A. ordosica populations to rainfall changes. First, we hypothesized that decreased rainfall would accelerate the decline of $A$ ordosica populations,which willbe reflected in the photosynthetic and physiological responses, chlorophyll fluorescence and antioxidant enzyme activity. Second, we assumed that growth stages and leaf maturity had different responses to drought stress.The aim of this study was to elucidate the adaptive mechanisms of $A$ . ordosica to drought stress while considering the growth stages and leaf age differences. Our findings should help improve the cultivation and management of $A$ ordosica in arid and semi-arid areas and contribute to the understanding of the developmental trend of desert plants in response to environmental changes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Study area and plant species ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted at the Yanchi Research Station, located on the southwestern edge of the Mu Us Sandy Land, Ningxia Hui Autonomous Region, China in August 2018.The climate in this area is a mid-temperate and semi-arid continental monsoon climate with an annual mean temperature of $8 . 1 ^ { \\circ } \\mathrm { C }$ . The average annual precipitation was $3 1 1 . 0 \\ \\mathrm { m m }$ during 1956-2017,of which $8 3 . 3 \\%$ occurred from May to September (She et al., 2016). The soil type is Quartisamment according to the US Soil Taxonomy (Gao et al.,2014). The dominant plant species in this region is A. ordosica, followed by semi-shrubs such as Hedysarum mongolicum, Salix psammophila and Caragana korshinskii. Grazing in this area has been prohibited since the late l990s，and vegetation has been allowed to recover for over a decade. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A.ordosica is a xeric,deciduous, multi-stemmed and dwarf shrub with plumose,linearly lobate leaves and a height ranging from 50 to $1 0 0 \\mathrm { c m }$ . It has a sturdy main root that extends $1 { - } 3 ~ \\mathrm { m }$ down and numerous lateral roots that are distributed mainly on the top $0 { - } 3 0 ~ \\mathrm { c m }$ of the soil. Its main stem is not obvious and has many branches.The branch system configuration of $A$ . ordosica is composed of stem, branch of previous year and branch of current year (She et al.,2O16). The branch of current year sprouts from old branches (the branch of previous year) and stems and consists of vegetative and reproductive twigs. Most vegetative twigs survive the winter and bear new vegetative or reproductive twigs in the succeeding spring, while reproductive twigs die in winter (Li et al., 2011; She et al., 2017). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A site containing only $A$ . ordosica growing on the flat terrain with abundant light, no occlusion and similar vegetation coverage was selected as the research site in April 2O18. Twelve $A$ ordosica plots $5 \\mathrm { m } { \\times } 5 \\mathrm { m }$ with a $1 { \\cdot } \\mathrm { m }$ wide buffer zone) were laid out in a randomized block design. Given a maximum plant height of $1 . 4 \\mathrm { ~ m ~ }$ ，we considered that the area of $5 \\ \\mathrm { m } { \\times } 5 \\ \\mathrm { m }$ plot was reasonable. Polyvinyl chloride (PVC） plastic water-stop sheets were embedded $8 0 \\ \\mathrm { c m }$ deep around each sample plot to prevent lateral infiltration from the soil seeping sideways and to ensure the independence of adjacent plots. At the same time，a rain shelter (a shed was constructed by the metal material with a transparent roof of PVC board) was erected in each sample plot,and rainfall in the sample plots was controlled by adjusting the cover area of the baffle on top of the shed. We designed four rainfall levels, i.e., natural rainfall(control treatment) and $30 \\%$ ， $50 \\%$ and $70 \\%$ reductions of natural rainfall. Each plot was tested in triplicate. According to the National Meteorological Center, China, we defined a general drought as a decrease of $2 5 \\% - 5 0 \\%$ in rainfall over three consecutive months compared with the annual average,and a severe drought is defined as a decrease of $5 0 \\% - 8 0 \\%$ in rainfall over a single station (Zhang and Feng, 2010). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Field sampling and measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In August 2018,the canopy width, height and vegetation coverage of A. ordosica in each sampled plot were measured. The size of the crown width is significantly correlated with the age of the shrubs (Ma et al., 2002;Wang et al., 201O). Based on our previous studies on $A$ .ordosica,we divided A. ordosica individuals into two groups, including large-sized $( > 0 . 5 ~ \\mathrm { m } ^ { 2 } )$ ）and small-sized $( \\leq 0 . 5 \\ \\mathrm { m } ^ { 2 } )$ (Ma et al., 2002; Wang et al., 2010). Three representative plants in each group were selected from each sampling area for parameter measurements. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The leaves were divided into old leaves and young leaves for separate measurement. Small, light-colored leaves from the penultimate 4-6 upper leaves per plant were collected as young leaves (leaves with incomplete leaf function).Larger and dark-colored leaves from the lower leaves of the 4-6 pieces of the top of the whole plant were collected and considered as old leaves (Huang et al., 2018). The physiological parameters were measured daily from 26 July to 3 August, 2018. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Determination of net photosynthetic rate ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Net photosynthetic rate $( P _ { \\mathrm { { n } } } )$ ， transpiration rate $( T _ { \\mathrm { r } } )$ ，stomatal conductance $( G _ { \\mathrm { s } } )$ ,and intercellular $\\mathrm { C O } _ { 2 }$ concentration $\\left( C _ { \\mathrm { i } } \\right)$ of the plants were measured using a Li-COR 640O photometer. Clear and cloudless weather was selected to measure these indicators from O8:30 to 12:00 (LST) (Maria et al.,2013). Illumination intensity was set to $2 0 0 0 \\ \\mathrm { \\textmu m o l / ( m } ^ { 2 } { \\cdot } \\mathrm { s } )$ in the transparent leaf chamber of the LI-6400 portable photosynthetic apparatus (Li-COR, Inc., Lincoln, NE, USA). Leaf area was measured by LI-3o0OC (Li-COR, Inc., Lincoln, NE, USA),and then the gas exchange parameters were corrected. Open air passage was adopted, and the flow rate was set at $5 0 0 ~ { \\mu \\mathrm { m o l / s } }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wateruse efficiency(WUE) wascalculated from $P _ { \\mathrm { n } }$ and $T _ { \\mathrm { r } }$ . The formula is as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Determination of chlorophyll fluorescence ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thechlorophyll fluorescence kinetic parameters(maximum quantum yield of PSI photochemistry $( F _ { \\mathrm { v } } / F _ { \\mathrm { m } } )$ ，non-photochemical quenching (NPQ)，photochemical quenching $( \\boldsymbol { \\mathsf { q } } \\boldsymbol { \\mathsf { P } } )$ （204号 and effective quantum yield of photochemical energy conversion in PSII (pPsu)） in the $A$ ： ordosica leaves were measured using a Fluor Cam portable chlorophyl fluorescence imager (PSI, Brno,Czech Republic) from 26 July 2018 to 3 Aug 2018.Before determination, the light source was blocked using an opaque black cloth. Dark adaptation was measured over $3 0 \\ \\mathrm { \\ m i n }$ to determine the chlorophyll fluorescence in the $A$ . ordosica leaves under actinic light.Fluor Cam portable chlorophyll fluorescence imaging was used to measure fluorescence parameters and imaging in vivo using the following settings: shuttei $\\scriptstyle : = 1$ ，sensitivity $\\scriptstyle \\tau = 4 0$ ，light act1 $\\scriptstyle 1 = 6 0$ and super $= 4 5$ (Katarzyna et al., 2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { F _ { \\mathrm { v } } / F _ { \\mathrm { m } } { = } ( F _ { \\mathrm { m } } { - } F _ { 0 } ) / F _ { \\mathrm { m } } , } \\\\ { \\mathrm { N P Q = } ( F _ { \\mathrm { m } } { - } F _ { \\mathrm { m } } ) / F _ { \\mathrm { m } } , } \\\\ { \\mathrm { q P { = } } ( F _ { \\mathrm { m } } { - } F _ { \\mathrm { s } } ) / ( \\ F _ { \\mathrm { m } } { - } F _ { 0 } ) , } \\\\ { \\displaystyle { \\oplus } \\mathrm { p s _ { I I } } { = } ( F _ { \\mathrm { m } } { - } F _ { \\mathrm { t } } ) / \\ F _ { \\mathrm { m } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { \\mathrm { v } }$ is the variable fluorescence after dark adaptation; $F _ { \\mathrm { m } }$ is the maximum fluorescence after dark adaptation; $F _ { 0 }$ is the initial fluorescence measured after dark adaptation; $\\boldsymbol { F _ { \\mathrm { m } } }$ is the maximum fluorescence under light adaptation; $F _ { 0 }$ is the minimum fluorescence measured after $5 \\mathrm { ~ s ~ }$ of far-red light; $F _ { \\mathrm { s } }$ is the actual fluorescence production; and $F _ { \\mathrm { t } }$ is the fluorescence at time $t$ after onset of actinic illumination. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Determination of chlorophyll content ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fresh leaves $\\left( 0 . 1 \\ \\mathrm { g } \\right)$ were cut into small pieces before being homogenously ground in a mortar with $1 0 ~ \\mathrm { m L }$ ethanol solution.Another $5 ~ \\mathrm { m L }$ ethanol was added before filtering the solution,and more ethanol was added to the filtrate to bring the total volume to $2 5 ~ \\mathrm { m L }$ . The filtrate was placed in a l-cm colorimetric dish,and pure ethanol was added to another dish of the same size as the control treatment. The optical density of the pigment solution was measured at wavelengths of 665 and $6 4 9 \\mathrm { n m }$ using a 721 spectrophotometer (Shanghai Spectrum Instrument Co. Ltd., China). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Chlorophyllcontent $\\varXi$ (chlorophyll concentration×extract volume $\\mathrel { \\mathop : } \\times$ dilution ratio of the ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.4Determination of leaf enzyme activity Superoxide dismutase (SOD) activity was determined using the nitrogen blue tetrazolium method. Inhibition of $50 \\%$ of nitroblue tetrazolium (NBT) photochemical reduction was considered as 1 enzyme activity unit (Wang et al., 1983). Peroxidase (POD) activity was determined by guaiacol colorimetry. A change in the absorbance at $4 7 0 \\ \\mathrm { n m }$ of $0 . 1 0 / \\mathrm { m i n }$ was considered as 1 enzyme activity unit (Amalo et al.， 1994). Catalase (CAT) activity was measured by the ultraviolet absorption method, and a reduction in the absorbance at $2 4 0 ~ \\mathrm { n m }$ of $0 . 1 / \\mathrm { { m i n } }$ was considered as 1 enzyme activity unit (Li and Mei,1989). Malondialdehyde (MDA) content was determined by two-component spectrophotometry (Lin et al., 1984). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.5 Determination of soil moisture content ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Real-time monitoring of soil moisture was conducted using the Watch Dog soil moisture meter (Spectrum Technolo,Plainfield, USA） in the sample plot at depths of 15 and $5 5 \\ \\mathrm { c m }$ . A soil moisture meter was set in each sample plot. A soil moisture meter was selected at any point of the sample plot. Soil profiles with a depth of $5 5 \\mathrm { c m }$ were dug, and probes were arranged vertically at 15 and $5 5 \\mathrm { c m }$ . The data were collected every $2 \\mathrm { h }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.6Determination of rainfall, rainfall interception and environmental factor To verify the effect of the rain shelter, we collected rainfall interception corresponding to the actual rainfall at each shelter. The air temperature $( T _ { \\mathrm { a } } )$ , photosynthetic available radiation (PAR), net radiation $( R _ { \\mathrm { n } } )$ ,and relative humidity (RH) at the test time were obtained from a flux tower data near the sampling site. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The effects of different rainfall levels (four treatments) on the photosynthetic and physiological indices of $A$ .ordosica were analyzed using general linear model. The response of the photosynthetic system to drought was analyzed at different growth stages and leaf age levels. Differences in the photosynthetic and physiological indices of $A$ . ordosica at different plant growth stages and leaf ages were analyzed by 2-factor multivariate analysis of variance (MANOVA), including drought gradient (four levels) and plant size (two levels) or leaf age (two levels). For all analyses,statistical significance was determined at a level of $P { < } 0 . 0 5$ . All analyses were done using SPSS version 19.0 (IBM Corp., Armonk, NY, USA). All figures were plotted using Origin 2018 (Origina Lab., NY, USA). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Photosynthesis,chlorophyll fluorescence and antioxidant responses of A.ordosica to drought stress ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The increase in the degree of rain shelter led to significant decreases in soil water content (Fig. 1). The increase in the degree of rain shelter also led to significant decreases in WUE. WUE was significantly reduced by $1 . 2 6 ~ { \\mu \\mathrm { m o l / m m o l } }$ in $70 \\%$ rainfall reduction (Fig. 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d2724be52d0b45213de9aab490f1e2298bfe56f4c215bb45ab049c6fede5375.jpg",
+        "img_caption": [
+            "Fig.1 Soil water content at a depth of $5 5 ~ \\mathrm { c m }$ under different rainfall treatments.Rainfall treatments of $- 7 0 \\%$ $- 5 0 \\%$ and $- 3 0 \\%$ mean the rainfall reduction percentages of natural rainfall. Control, natural rainfall. Bars are standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaa2b62aee6a7656e5762ff44f29ec7b7638041fb7c0def79d5edeb4203f0d6c.jpg",
+        "img_caption": [
+            "Fig.2Water use efficiency (WUE)in the leaves of $A$ .ordosica under different rainfall treatments.Bars are standard errors.Different lowercase lettrs indicate significant differences among different rainfall treatments at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Compared with control treatment, reducing rainfall decreased the chlorophyll content, $P _ { \\mathrm { n } } , \\ T _ { \\mathrm { r } }$ and $G _ { \\mathrm { s } }$ of $A$ . ordosica. Chlorophyll content, $P _ { \\mathrm { n } } , \\ T _ { \\mathrm { r } }$ and $G _ { \\mathrm { s } }$ were the highest in control treatment and reached the lowest values in $70 \\%$ rainfall reduction. Compared with control treatment, chlorophyll content, $P _ { \\mathrm { n } }$ ， $T _ { \\mathrm { r } }$ and $G _ { \\mathrm { s } }$ in $70 \\%$ rainfall reduction was significantly reduced by 2.37 $\\mathrm { m g / g }$ ， $1 . 9 5 \\mathrm { \\textrm { \\textmu m o l / ( m } } ^ { 2 } { \\cdot } \\mathrm { s } )$ ， $0 . 7 2 \\mathrm { m m o l } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } )$ and $0 . 0 2 7 \\ : \\mathrm { \\ m m o l / ( m } ^ { 2 } { \\cdot } \\mathrm { s } )$ ，respectively. However, compared with control treatment, reducing rainfall increased $C _ { \\mathrm { i } }$ of $A$ . ordosica. $C _ { \\mathrm { i } }$ was the highest in $50 \\%$ rainfall reduction and reached the lowest value in control treatment. $C _ { \\mathrm { i } }$ was significantly reduced by $4 4 . 5 7 \\ \\mathrm { \\mu m o l / m m o l }$ in $50 \\%$ rainfall reduction (Fig. 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Drought stress had significant effects on the chlorophyll fluorescence index of the leaves of $A$ = ordosica. Compared with control treatment, reducing rainfall decreased $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ $\\Phi \\mathrm { P S I I }$ and $\\mathsf { q P }$ of $A$ ordosica. $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ $\\boldsymbol { \\Phi } \\mathrm { P S I I }$ and $\\mathsf { q P }$ was significantly reduced by 0.007, 0.180 and 0.080, respectively in $70 \\%$ rainfall reduction (Fig. 4). With the increase of drought stress, NPQ first increased and then decreased. And NPQ peaked in $50 \\%$ rainfall reduction then it reduced by O.670 in $70 \\%$ rainfall reduction. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e082b49acd7a350022035e60a965cbb7a7bd277e33cebd94f1da83caf5ae2b90.jpg",
+        "img_caption": [
+            "Fig.3Total chlorophyll content (a)，net photosynthetic rate $( P _ { \\mathrm { n } } , \\ \\mathrm { b } )$ ， transpiration rate $( T _ { \\mathrm { r } } , \\ \\mathrm { ~ c ~ } )$ ，stomatal conductance $( G _ { \\mathrm { s } , \\mathrm { d } } )$ and inter cellular $\\mathrm { C O } _ { 2 }$ concentration $( C _ { \\mathrm { i } } , { \\mathsf { e } } )$ in the leaves of $\\mathbf { \\mathcal { A } }$ .ordosica under different rainfall treatments.Bars are standard errors.Diffrent lowercase letters indicate significant differences among different rainfall treatments at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Drought stress had significant effects on the antioxidant enzyme activities in the $A$ .ordosica leaves (Fig. 5). SOD,POD, CAT and MDA activities of the leaves peaked in $50 \\%$ rainfall reduction. SOD,POD, CAT and MDA of the leaves were the lowest in control treatment. SOD,POD, CAT and MDA were significantly reduced by 793.51 U/L, $6 . 5 2 \\mathrm { U / L }$ ， $1 . 1 6 \\mathrm { U } / \\mathrm { L }$ and $1 . 0 4 \\mathrm { n m o l / L }$ , respectively in control treatment. Drought stress caused the greatest change in POD (gradien $\\scriptstyle 1 = 0 . 4 9 4$ ), followed by CAT (gradient=0.474） and SOD (gradien $\\scriptstyle \\mathrm { t = } 0 . 3 4 6$ ） activities， suggesting that POD is more sensitive to drought stress and is potentially the main antioxidant enzyme involved in the adaptive response of A. ordosica to drought stress (Fig. 5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfae5084a0de04ea57a5813179d1d25405e6486572d770a516101e2918a95b96.jpg",
+        "img_caption": [
+            "Fig.4Chlorophyll fluorescence parameters $( F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ ，pPSII, NPQ and $\\boldsymbol { \\mathrm { q } } \\boldsymbol { \\mathrm { P } }$ ; a-d) in the leaves of $A$ . ordosica under different rainfall treatments. $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ , maximum quantum yield of PSII photochemistry; $\\boldsymbol { \\Phi } \\boldsymbol { \\mathrm { P S I I } }$ ， effective quantum yield of photochemical energy conversion in PSII NPQ,non-photochemical quenching； qP, photochemical quenching.Bars are standard errors.Different lowercase letters indicate significant differences among different rainfall treatments at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Responses of A. ordosica with different leaf age and growth stages to drought stress ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rainfall and leaf age had significant effects on chlorophyll content, chlorophyll fluorescence parameters $( F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ ，φPSII,NPQ and $\\mathsf { q P }$ ） and the antioxidant enzyme activities (SOD,POD, CAT and MDA). Growth stage had no significant effects on chlorophyll content， chlorophyll fluorescence parameters and antioxidant enzyme activities. However, there was significant effect between rainfall and leaf age on the above indices. Under drought stress, growth stage showed significant differences in the antioxidant enzyme activities and $\\boldsymbol { \\Phi } \\mathrm { P S I I }$ (Table 1). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For large plants, chlorophyll content of old leaves was significantly lower than those of young leaves in control treatment, $30 \\%$ and $50 \\%$ rainfall reductions.For small plants,chlorophyll content of old leaves was significantly higher than those of young leaves in $30 \\%$ and $70 \\%$ rainfall reductions (Fig. 6). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Different growth stages had no significant effect on chlorophyll content of old leaves. In $30 \\%$ and $50 \\%$ rainfall reductions, the chlorophyll content of young leaves was significantly different at the growth stage. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac903f0c0f61704a5a6bdaf7336ff5e6aff7ced1456c059e614d5ae9d1ef3a6c.jpg",
+        "img_caption": [
+            "Fig.5Antioxidant enzyme activities in the leaves of $A$ .ordosica under different rainfall treatments.(a),SOD (superoxide dismutase); (b), POD (peroxidase); (c), CAT (catalase); (d),MDA (malondialdehyde).Barsare standard errors.Diferent lowercase letters indicate significant differences among different rainfall treatments at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/44e883da9d6447fb1c0e2d8595c73d0daab858b1ada0482b41e5e3acc8775844.jpg",
+        "table_caption": [
+            "Table1Effects of drought stress on WUE,chlorophyll content, $P _ { \\mathrm { { n } } }$ Tr, $G _ { \\mathrm { s } }$ $C _ { \\mathrm { i } }$ $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ ，PPSII,NPQ, qP, SOD,POD, CAT and MDA of A. ordosica "
+        ],
+        "table_footnote": [
+            "Note: $P _ { \\mathfrak { n } }$ ,net photosynthetic rate; $T _ { \\mathrm { r } } ,$ transpiration rate; $G _ { \\mathrm { s } }$ ,stomatal conductance; $C _ { \\mathrm { i } }$ inter cellular $\\mathrm { C O } _ { 2 }$ concentration; $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ ,maximum quantum yield of PSII photochemistry; $\\Phi \\mathrm { P S I I }$ ，effective quantum yield of photochemical energy conversion in PSI; NPQ; mon-photochemical quenching; $\\mathsf { q P }$ ，photochemical quenching; SOD,superoxide dismutase;POD,peroxidase; CAT, catalase; MDA, malondialdehyde. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>F</td><td>P</td><td></td><td>F</td><td>P</td></tr><tr><td>WUE</td><td>6.808</td><td>0.002</td><td>PPSII</td><td>136.484</td><td><0.001</td></tr><tr><td>Chlorophyll</td><td>10.192</td><td><0.001</td><td>NPQ</td><td>28.819</td><td><0.001</td></tr><tr><td>P</td><td>64.888</td><td><0.001</td><td>qP</td><td>20.487</td><td><0.001</td></tr><tr><td>T</td><td>32.230</td><td><0.001</td><td>SOD</td><td>26.681</td><td><0.001</td></tr><tr><td>Gs</td><td>26.619</td><td><0.001</td><td>POD</td><td>41.528</td><td><0.001</td></tr><tr><td>Ci</td><td>5.110</td><td>0.002</td><td>CAT</td><td>71.819</td><td><0.001</td></tr><tr><td>Fv/Fm</td><td>25.437</td><td><0.001</td><td>MDA</td><td>6.625</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study, the difference in chlorophyll $a / b$ in old leaves and young leaves under each stress gradient was consistent with the differences in the chlorophyl fluorescence index and antioxidant enzyme activity (Fig. 7). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ ，PPsI and $\\boldsymbol { \\mathrm { q } } \\boldsymbol { \\mathrm { P } }$ of old leaves were significantly lower than those in young leaves in control treatment, $30 \\%$ and $50 \\%$ rainfall reductions both in large and small plants (Fig. 8).However, in $70 \\%$ rainfall reduction, $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ $\\boldsymbol { \\Phi } \\mathrm { P S I I }$ and $\\mathsf { q P }$ were higher in old leaves than those in young leaves. Growth stages had significant differences in $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ ， $\\Phi \\mathrm { P S I I }$ and $\\mathsf { q P }$ of old leaves. $F _ { \\mathrm { v } } / F _ { \\mathrm { m } } .$ ，φPsI and qP of large plants were significantly higher than those of small plants in old leaves in $70 \\%$ rainfall reduction. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For large plants, NPQ of old leaves was significantly lower than those in young leaves in control treatment and $50 \\%$ rainfall reduction,whereas it was significantly higher in old leaves than in young leaves in $70 \\%$ rainfall reduction (Fig. 8). For small plants,NPQ of old leaves was significantly lower than those in young leaves in control treatment and $30 \\%$ rainfall reduction. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/253f6cd0af902773803b175ab367c9ea03a0d32a21b7b5c5e0d823ce5c7f99b6.jpg",
+        "img_caption": [
+            "Fig.6Total chlorophyll contents of the leaves of large (a) and small (b) $A$ . ordosica plants at different ages underdifferent rainfall treatments.Bars are standard errors.Different uppercase letters indicate significant differences of old leaves between diferent growth stages within the same rainfall treatment at $P { < } 0 . 0 5$ level. Different lowercase leters indicate significant diffrences of young leaves between diferent growth stages within the same rainfall treatment at $P { < } 0 . 0 5$ level.\\* indicates significant difference between old and young leaves at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6cd9d26f4c714fbb65793def87f9db7bd47857b809bfba34b648abc5c505e87.jpg",
+        "img_caption": [
+            "Fig.7Chlorophyll $a / b$ of the leaves of large (a) and small (b) $A$ . ordosica plants at different ages under different rainfall treatments.Diffrent uppercase letters indicate significant differences of old leaves between different growth stages within the same rainfall treatment at $P { < } 0 . 0 5$ level.Different lowercase letters indicate significant differences of young leaves between different growth stages within the same rainfall treatment at $P { < } 0 . 0 5$ level. \\* indicates significant difference between old and young leaves at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Leaves in different ages of large plants showed significant differences in response to drought stress. For large plants, SOD and POD of old leaves were significantly lower than those of young leaves in $30 \\%$ and $50 \\%$ rainfall reductions,whereas they were significantly higher in old leaves than in young leaves in $70 \\%$ rainfall reduction (Fig. 9). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Leaves in different ages of small plants showed significant differences in response to drought stress. For small plants, SOD and POD of old leaves were significantly lower than those of young leaves in $50 \\%$ rainfall reduction. For large plants, CAT of old leaves was significantly lower than those of young leaves in CK treatment and $30 \\%$ rainfall reduction,whereas it was significantly higher in old leaves than in young leaves in $70 \\%$ rainfall reduction (Fig.9). For small plants, CAT of old leaves was significantly lower than those of young leaves in $30 \\%$ and $50 \\%$ rainfall reductions.For large plants,MDA of old leaves was significantly higher than those of young leaves in CK and $30 \\%$ rainfall reduction,whereas it was significantly lower in old leaves than in young leaves in $70 \\%$ rainfall reduction (Fig. 9). In $70 \\%$ rainfall reduction, SOD,POD and CAT of old leaves had significant diferences in each growth stage. SOD,POD and CAT of large plants were significantly higher than those of small plants. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/82b8faf90e51f1869c9a1ca6a16480fbd576335531c197ead1fd7030fef92466.jpg",
+        "img_caption": [
+            "Fig.8Chlorophyll fluorescence parameters ${ \\cal F } _ { \\mathrm { v } } / { \\cal F } _ { \\mathrm { m } }$ (a,b), pPsI (c,d),NPQ (e, f) and $\\mathsf { q P }$ (g,h)) of the leaves of large and small $A$ . ordosica plants at different ages under different rainfall treatments.Bars are standard errors. Different uppercase letters indicate significant diferences of old leaves between diferent growth stages within the same rainfall treatment at $P { < } 0 . 0 5$ level.Different lowercase letters indicate significant differences of young leaves between different growth stages within the same rainfall treatment at $P { < } 0 . 0 5$ level.\\* indicates significant difference between old and young leaves at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1Photosynthetic response of A.ordosica leaves under drought stress ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The decrease of rainfall significantly affected the photosynthetic physiological characteristics of A. ordosica.By regulating photosynthetic electron transport activity and heat disspation capacity, the photoreaction center together with the antioxidant system resist drought (Sharkova, 2001; Tsonev and Kouki, 20o3). In control treatment, $30 \\%$ and $50 \\%$ rainfall reductions,photosynthetic parameters and chlorophyll fluorescence parameters of $A$ . ordosica decreased significantly with increasing drought stress. And, antioxidant enzyme activities of the leaves increased significantly with increasing drought stress,which corroborates the results of previous studies (Feng et al., 2004; Perez et al.,2O14; Parra et al.,2015). The result indicated that under drought stress, the transfer efficiency of light energy in the leaves of $A$ . ordosica，as captured by the antenna pigments to the PSII reaction center, decreased and the heat dissipation capability increased (Liu et al.,2019; Rudikovskii et al.， 2019). In the meanwhile, the antioxidant enzyme system was activated, and the scavenging ability of free radicals was enhanced (Seel et al.,1992). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/904d832dfa947c8f626f24e1195737f9995f304ca52baf544e5e9c35a612a6c8.jpg",
+        "img_caption": [
+            "Fig.9Antioxidant enzyme activities of the leaves of large and small $A$ .ordosicaplantsat different ages under different rainfall treatments.SOD,superoxide dismutase (a,b); POD,peroxidase(c,d); CAT,catalase (e,f); MDA, malondialdehyde (g,h). Bars are standard errors.Diferent uppercase leters indicate significance of old leaves between different growth stages within the same rainfall treatment at $P { < } 0 . 0 5$ level.Different lowercase letters indicate significance of young leaves between diffrent growth stages within the same rainfall treatment at $P { < } 0 . 0 5$ （204 level. \\* indicates significant difference between old and young leaves at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "However, this mechanism of regulating the photosynthesis under drought stress was restricted under severe stress,i.e., $70 \\%$ rainfall reduction in our study. Compared with mild drought stress, the photosynthetic electron transport activity of PSI reaction center under severe drought was inhibited, the heat dissipation capacity was reduced and the antioxidant enzyme activity was significantly decreased， but MDA content remained at a high value. Eventually， the photosynthetic rate and chlorophyll content of the plants were reduced (almost $50 \\%$ decline). That is,in $70 \\%$ rainfall reduction,photosynthetic regulation system of $A$ . ordosica lost its ability to resist drought. Studies have shown that under severe adverse conditions,the destruction of antioxidant system caused by excess energy of photochemical system leads to irreversible damage of photosynthetic system, which eventually leads to a decline in productivity (Huang et al., 2005; Dani and Dhawan, 2006; Verslues et al., 2006; Bhaduri and Fulekar, 2012). Thus,under future predicted patterns of decreased precipitation and increased frequency of extreme droughts, $A$ ： ordosica populations may experience an irreversible decline. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2Responses of A. ordosica to drought stress at different growth stages ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Studies have shown that the growth stages had a significant effect on the photosynthetic physiology of drought resistance (Norwood et al.,200o; Liu et al., 2016). Decreasing rainfall damaged the photosynthetic system of A. ordosica, and the damage showed heterogeneity among different growth stages of individuals. Plants regulate the photosynthetic membrane system via the PSII photosystem and antioxidant enzyme system， resulting in the stabilization of photosynthesis. And the photosynthetic system of large A. ordosica plant showed more stable under severe stress. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The difference in response to adversity at later growth stages has long been studied. For example, Gao et al. (2O10) found that Robinia pseudoacacia had the best drought resistance in the early growth stages, followed by the vigorous growth stages and growth telophase. From the perspective of resource acquisition， matureplantsgenerally have stronger resource competitiveness,and thus their ability to cope with adversity is advanced (Pan et al., 2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To figure out the resource acquisition ability of $A$ . ordosica in different growth stages，we further studied the distribution of underground roots of $A$ .ordosica.It was found that the large plants had a deper root distribution and a larger biomass than the small ones. Surface moisture content $( 1 5 \\ \\mathrm { c m } )$ showed more variable than the deep moisture content $( 5 5 ~ \\mathrm { c m } )$ (data not shown), with the occurrence of extreme drought. Therefore,large plants with deep fine roots avoiding the adverse effects of water shortage caused by the moisture content variability of the surface. Therefore, it can be inferred that photosynthetic physiology of large plants is more stable under drought. In this study, it was observed that severe drought stress caused a significant decrease of surface water. Based on this,we speculated that under the trend of reduced precipitation, the small-sized plants of A. ordosica population would die first. As a result, population succession becomes biased towards old and larger plants,which is also known as a decline-type population pattern. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3Responses of different aged A. ordosica leaves to drought stress ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Studies have shown that the photosynthetic system damage caused by stress will depend on leaf age (Buxton et al., 2O12). Our results showed that young leaves had a greater drought resistance capability than old leaves under mild drought stress. The internal causes for the differing responses of leaves of different ages to adversity have long been studied. Huang et al. (2005) found that young leaves of papaya are more sensitive to stress because the variation in membrane lipid composition is greater in young leaves than in old leaves (Huang et al., 2Oo5). Wang et al. (2016) showed that the photosynthetic system of young leaves was less development and more vulnerability to stress (Wang et al., 2016). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "However, in this study,when the drought intensified to severe stress,old leaves were better able to resist drought than young ones. Yue (2o08) certificated that the value of chlorophyll $a / b$ could reflect the stacking of the thylakoids in the chloroplasts.The higher the degree of thylakoid stacking,the less likely that photoinhibition would occur and the more drought resistant. The old leaves had stronger thylakoid stacking, so old leaves appear to be more resistant to drought than young ones. This can explain the strong resistance expression of old leaves under severe drought in this study. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The mutual conversion between old and young leaves in drought resistance mechanisms allows A.ordosica to cope with different gradients of drought stress conditions,and this is an important survival strategy for $A$ . ordosica to adapt to the sandy habitats (Maseda and Fernandez, 2006). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "When A. ordosica was subjected to drought stress,the transfer eficiency of light energy captured by the antenna pigments to the PSII reaction center decreased， whereas the heat dissipation capacity increased. To reduce the damage to the photosynthetic system caused by drought, $A$ ordosica enhanced the free radical scavenging capacity by activating its antioxidant enzyme system.However,when the rainfall was reduced by $70 \\%$ ， the photosynthetic regulation of $A$ ： ordosica failed. There were differences in the individual age and leaf age levels of plants in terms of the response of their photosynthetic system to drought. Severe drought damaged or even killed the small $A$ . ordosica plants, whereas the larger A. ordosica plants resisted severe drought stress by absorbing water from deeper soil depths. Under mild drought stress, young leaves had a stronger ability to resist drought than old ones, whereas old leaves were more resistant to drought under severe stress. The response of the photosynthetic system of $A$ .ordosica reflected the trade-off of photosynthetic production under different degrees of adversity. This study provides a more comprehensive and systematic perspective for understanding the drought resistance mechanisms of desert plants. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Natural Science Foundation of China (3170639)and the National Key Research and Development Program of China (2018YFC0507102,2016YFC0500905). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AlexandreC,PedroA,CarlosP,etal.0l3.Eectsongrowth,antioxidantenzmeactivityandlevelsofextracellularproteins inthegreenalga Chlorell vulgaris exposed tocrudecyanobacterial extracts and pure microcystinandcylindrospermopsin. Ecotoxicology & Environmental Safety, 94(1): 45-53.   \nAmalo K,Chen GX,Asade K.1994.Separate aays specific forascorbate peroxidase and guaiacolperoxidaseand for the chloroplastic and cytosolic isozymes of ascorbate peroxidase in plants.Plant& Cell Physiology,35(3): 497-504.   \nBaghalianK,AbdoshahS,Khalighi-SigaroodiF,etal.2Ol1.Physiologicalandphytochemicalresponsetodroughtstrsf German chamomile (Matricaria recutita L.).Plant Physiology and Biochemistry,49(2):201-207.   \nBavconJ,Gaberscik A,BatiF.1996.Influenceof UV-Bradiationon photosyntheticactivityandchlorophyllfluorescence kinetics in Norway spruce (Picea abies (L.) Karst.) seedlings.Trees,10(3):172-176.   \nBhaduri A M,Fulekar MH.2012.Antioxidant enzyme responsesof plants to heavymetal stressReviews inEnvironmental Science & Bio/Technology,1l(1):55-69.   \nBunceJA.1982.Efects ofwaterstressonphotosynthesisinrelation todurnalaccumulationofcarbohydrates insourceleaves. Canadian Journal of Botany,60(3):195-200.   \nBuxtonL,Takahashi S,HillR,etal.20l2.Variability intheprimarysiteof photosynthetic damagein Symbiodinium sp. (Dinophyceae) exposed to thermal stress.Journal of Phycology,48(1):117-126.   \nChavesMM,PereiraJS,MarocoJ,etal.2O02.Howplantscope with waterstress inthefield?Photosynthesisand growth. Annals of Botany,89(7): 907-916.   \nChengJM,JingGG,WeiL,etal.2O16.Long-termgrazingexclusionectsonegetationcharacteristics,soilproprtiesnd bacterial communities in the semi-arid grasslands of China.Ecological Engineering,97:170-178.   \nChristensen JH,CarterTR,Rummukainen M,etal.2Oo7.Evaluating theperformanceandutilityofregional climate models the PRUDENCE project. Climatic Change,81(S1): 1-6.   \nDani V,Dhawan D.20o6.Zincasanantiperoxidative agent following iodine-131induced changesontheantioxidantsystem and on the morphology of red blood cells in rats.Hellenic Journal of Nuclear Medicine,9(1):22-26.   \ndel ValleJC,Buide ML,InesCS,etal.2015.Onflavonoidaccumulationin diffrentplantparts:variationpatersamong individuals and populations in the shore campion (Silene littorea).Frontiers in Plant Science,6: 939.   \nEasterling DR,MehlG A,Parmesan C,et al.20o0.Climate extremes:observations,modeling,and impacts.Science, ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "289(5487): 2068-2074. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "determinants of leaf life span.Journal of Ecology,91(5): 880-889.   \nFeng YL,CaoKF,ZhangJL.2O04.Photosyntheticcharacteristics,darkrespiration,andleafmassperunitareainseedlingsof four tropical tree species grown under three iradiances.Photosynthetica, 42(3): 431-437.   \nFermin M,Anunciacion A,Javier A.1998.Photosynthesis，quenching of chlorophyll fluorescence and thermal energy dissipation in iron-deficient sugar beet leaves.Functional Plant Biology,25(4): 403-412.   \nFridovich I.1978.The biology of oxygen radicals. Science,201(4359): 875-880.   \nGao GL,DingGD,ZhaoYY,etal014.Fractalaproach toestimating changes insoil propertiesfollowing theestablishment ofCaragana korshinskii shelterbelts in Ningxia,NW China.Ecological Indicators,43:236-243.   \nGao XF,WangJX,ZhangB,etal.2010.Efectsofdrought stressondrymaterpartitioningofyoung Robinia pseudoacaciaat its different growth stages.Chinese Journal of Ecology,29:1103-1108.(in Chinese)   \nGerhard Z,Peter H,Gerold S.20o1.Smallplants,large plants: theimportanceof plant size forthe physiological ecologyof vascular epiphytes.Journal of Experimental Botany,52(363): 2051-2056.   \nGuo K.2000.Cyclic successionofArtemisia ordosica Krasch community inthe Mu Us Sandy Grassland.Acta Phytoecologica Sinica,24(2): 243-247.(in Chinese)   \nHuangDJ,MaoYX,ChenX,etal.2018.Cameliasinensis leaveswith different maturity:physiological indicesofstress resistance.Chinese Agricultural Science Bulletin,19: 44-49.(in Chinese)   \nHuang JC,Xiao Y,Zhou HG.2oo5.Impact of simulated acid rain on peroxidationof membrans lipids in leaves of papaya seedlings.Guihaia,25(6): 562-565.(in Chinese)   \nHuntington TG.20o6.Evidence for intensificationof theglobal watercycle:review and synthesis.Journal of Hydrology Amsterdam,319(1-4): 83-95.   \nIPCC Climate Change.2013.Thephysical science basis.Contributionof working groupItothe fifthasessment reportof the intergovernmentalpanelonclimatechange.In:StockerTF,QinDH,PlatnerGK,etal.Cambridge: CambridgeUniversity Press,153.   \nKatarzyna M,BojarskiB,RutG,etal.2015.Efectofdroughtstressinducedbymannitolonphysiologicalparametersofmize (Zea mays L.) seedlings and plants. Journal of Microbiology Biotechnology & Food Sciences,4(2): 86-91.   \nKobayashiT,LiaoRT,LiSQ.1995.Ecophysiological behaviorofArtemisiaordosicaon the processofsanddune fixation. Ecological Research,10(3): 339-349.   \nLi BL,Mei H S.1989.Relationship between oat leaf senescenceand activated oxygen metabolism.Ata Phytophysiologia Sinica,15(1): 6-12.(in Chinese)   \nLiL J,Gu WR,Meng Y,etal.2018.Physiologicalandbiochemical mechanismof spermidine improvingdroughtresistancein maize seedlings under drought stress.Chinese Journal of Applied Ecology,29(2): 554-564.   \nLi SL,Yu FH, Werger MJA,et al.2O11.Habitat-specific demographyacrossdune fixation stages inasemi-aridsandland: understanding the expansion,stabilization and decline ofadominant shrub.Journal of Ecology,99(2): 610-620.   \nLin ZF,IiSS,lnGZ,etal.1984.Superoxidedismutaseactivityandlipid peroxidationinrelatiotosenescenceofriceleaves. Acta Botanica Sinica,26(6):605-615.(in Chinese)   \nLiuF,MaH,Peng L,etal.2019.Efectof theinoculationof plant growth-promotingrhizobacteriaon thephotosynthetic characteristics of Sambucus williamsii Hance container seedlings under drought stress.AMB Express,9(1):169-179.   \nLiuJJ,WangXP,GaoYF,etal.2O19.Leaf gas exchangeandphotosynthesiscurvesofElymus nutansandPotentillaserina under fencing and grazing conditions in the Qilian Mountains,Northwest China.Journal of AridLand,1(3): 431-445.   \nLiuSL,YangRJenB,etal.6ifereces ihotosytheticapacityorophyllfuorescence,ndntioidantte between invasive Alnus formosanaand itsnative congener inresponse todiffrent irrdiance levels.Botany，94(12): 1087-1101.   \nMaFY,LiXR,LongLQ,etal.2002.Population structureandregenerationof plantedArtermisiaOrdosica inShapotou. Journal of Desert Research,22(6): 571-575.(in Chinese)   \nMaria SD,Puschenreiter M,Riveli AR.2013.Cadmium accumulation and physiological responseof sunflower plants to Cd during the vegetative growing cycle.Plant Soil & Environment, 59(6): 254-261.   \nMaseda PH,FernandezRJ.2O06.Stay wetorelse:threeways in which plants canadjusthydraulicallto their environment. Journal of Experimental Botany,57(15): 3963-3977.   \nNorwood M,Truesdale MR,RichterA,et al.2Oo0.Photosyntheticcarbohydrate metabolism in theresurrectionplant Craterostigma plantagineum.Journal of Experimental Botany,51(2): 159-165.   \nPan XY,WangYF,Wang G X,et al.2Oo2.Relationshipbetween growth redundancyand size inequalityin spring wheat   \nPan Y,YuCQ,TuYL,etal.20l5.Therelatioshipbetweenplant functionaltraitsand multipleecosystemservices inaTbetan grassland ecosystem.Acta Eeologica Sinica,35: 6821-6828.(in Chiese)   \nParra M J,Acuna K I,Sierr-Almeida A,etal.2015.Photosynthetic lightresponses may explain vertical distributionof Hymenophyllaceae species in a temperate rainforest of southern Chile. PloS ONE,10(12):1-19.   \nPerez CE,RodriguesFA,Moreira WR,etal.2014.Leaf gas exchangeandchlorophyllafluorescenceinwheat plantssuplied with silicon and infected with Pyricularia oryzae.Phytopathology,104(2):143-149.   \nPetersDPC,YaoJ,SalaOE,etal.2O12.Directional climatechangeand potentialreversalofdesertificationinaridand semiarid ecosystems.Global Change Biology,18(1):151-163.   \nQiu GY,Shi QH.1991.Moisture alynamicofsanddune and successional characteristics of artificial vegetation in the Shapotou area. Journal of Arid Land Resources and Environment,1: 22-32.(in Chinese)   \nRudikovskii A,Rudikovskaya E,Dudareva L.2019.Impactof air drought on photosynthesis eficiencyof the Siberian crabapple (Malus baccataL.Borkh.）in the forest-steppe zoneof Transbaikalia,Rusia.Journalof Arid Land,1(3): 255-266.   \nSeel WE,HendryGAF,LeeJA.1992.Efects ofdesiccationonsome activated oxygen processing enymes andanti-oxidnts in mosses.Journal of Experimental Botany,43(8):1031-1037.   \nSharkova VE.2001.The efectofheatshock onthecapacityof wheat plants torestore their photosynthetic electrontransport after photoinhibition or repeated heating.Russian Journal of Plant Physiology,48(6): 793-797.   \nShe WW,ZhangYQ,QinSG,etal.2O16.Increased precipitationand nitrogen altershrubarchitectureinadesert srubland: implications for primary production.Frontiers in plant science,7(1o95):1908.   \nShe W W,BaiYX, Zhang YQ,etal.2017.Plasticity in meristem allocationas an adaptive strategyof a desert shrubunder contrasting environments.Frontiers in Plant Science,8:1933.   \nStefaniaT,ElisaF,AntonioF,etal.2O16.Physiologicalandbiochemicalresponsesintwooramental shrubstdroughtstress. Frontiers in Plant Science,7(5): 645-657.   \nSzabó I,Bergantino E,Giacometti GM.20o5.Lightand oxygenic photosynthesis:energy disipation asaprotection mechanism against photo-oxidation.Embo Reports,6(7): 629-634.   \nTsonevTD,Kouki H.20o3．Contributionof photosyntheticelectron transport，heat dissipation，andrecovery of photoinactivated photosystem IIto photoprotectionat differenttemperatures in Chenopodium album leaves.Plant &Cel Physiology,44(8): 828-835.   \nVersluesPE,AgarwalM,Katiyar-AgarwalS,etal.2Oo6.Methodsndconcepts inquantifyingresistancetodrought,saltand freezing,abiotic stresses that affect plant water status.The Plant Journal,45(2): 523-539.   \nWang AG,LuoGH,ShaoCBA.1983.Studyon the superoxide dismutase of soybean seeds.Ata Phytophysiologca Sinica, 9(1):77-84.(in Chinese)   \nWang F,ChenYZ,Wang XP,etal.2016.Comparisonoffunctional traitsandphotosyntheticcharacteristicsof diferent varieties of tea leaves.Tea Science,36(3): 60-67.(in Chinese)   \nWang JH,JinHJ,MaQL,etal.2O10.Structureanddistributionpaternof Artermisiaordosicapopulation inaridregion. Journal of Desert Research,30(3): 534-538.(in Chinese)   \nWassmann R,Jagadish SVK,Heuer S.2oo9.Climate change affecting riceproduction:The physiologicalandagronomic basis for possible adaptation strategies. Advances in Agronomy,101(8): 59-122.   \nWilhelm C,elmarD.20l1.Energydisipation isan essential mechanismto sustaintheviabilityofplants:Thephysiological limits of improved photosynthesis. Journal of Plant Physiology,168(2): 79-87.   \nXiang LP,DaoYZ,XiC,etal.2o9.Effectsofshort-termlowtemperaturesonphotosystem IIfunctionofsamaraandleafof Siberian maple (Acerginnala)and subsequent recovery.Journal of Arid Land,1: 57-63.   \nYoon JH, Wang SY,Gilies RR,et al.2015.Increasing watercycle extremes in Califoria andrelation to ENSOcycleunder global warming. Nature Communications,6: 8657.   \nYue XX.2008.Comparative study on antioxidant systemof green and red-violet phenotype Suaed salsa leaves.Journal of Shandong Normal University (Natural Science),1: 121-124.(in Chinese)   \nZhang H,FengLP.20l0.Characteristicsof spatio-temporal variationofprecipitation inNorth Chinaregion inrecent5O years. Journal of Natural Resources,25(2):194-204.   \nZhangJH,WuB,YangWB,etal.2O12.SoilmoisturecharacteristicsofArtemisiaordosicacommunityatdiferentsuccession stages in mu us sandy land.Journal of Desert Research,32(6):1597-1603.(in Chinese)   \nZhao G J,Mu X M,et al.2O13.Climate changes and their impacts on waterresources insemiaridregions: acasestudyof the Wei River basin. China.Hvdrological Processes.27(26): 3852-3863. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

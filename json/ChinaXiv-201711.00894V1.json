@@ -1,0 +1,587 @@
+[
+    {
+        "type": "text",
+        "text": "鳙鱼对10种蛋白质饲料原料中营养物质的表观消化率",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "余含」戈贤平1\\* 孙盛明² 张武肖」 苏艳莉1（1.南京农业大学无锡渔业学院，无锡 214081；2.中国水产科学研究院淡水渔业研究中心，农业部淡水渔业和种质资源利用重点实验室，无锡214081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究鳙鱼（Aristichthysnobilis）对鱼粉（国产）、干酒糟及其可溶物（DDGS）、菜籽粕、米糠、豆粕、酶解羽毛粉、棉籽粕、小麦麸、玉米蛋白粉和花生粕中干物质、粗蛋白质、粗脂肪、总能以及氨基酸的表观消化率。试验饲料按照基础饲料和待测饲料原料7:3的比例构成，并添加 $0 . 5 \\%$ 的三氧化二钇（ $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ ）作为外源指示剂。挑选初体重为（ $2 9 0 . 0 2 { \\scriptstyle \\pm 2 . 8 2 }$ ）g的鳙鱼，随机分成11组，每组3个重复，每个重复10尾鱼。随机选取1组作为对照组投喂基础饲料，剩余10组为试验组分别投喂试验饲料。投喂1周后通过虹吸法收集粪便。结果表明：1）10 种饲料原料中干物质、粗蛋白质、粗脂肪和总能的表观消化率的范围分别为 $6 9 . 9 \\% \\sim 8 5 . 7 \\%$ 、 $7 3 . 5 \\% { \\sim } 8 8 . 3 \\%$ 、 $8 1 . 2 \\% { \\sim } 9 1 . 1 \\%$ 和 $8 1 . 9 \\% { \\sim } 8 6 . 3 \\%$ 。2)在10 种饲料原料中，米糠总能的表观消化率最高，而鱼粉的干物质、粗蛋白质和粗脂肪的表观消化率最高；酶解羽毛粉的干物质、粗脂肪和总能的表观消化率最低，玉米蛋白粉的粗蛋白质的表观消化率最低。3)各饲料原料氨基酸的表观消化率基本维持在 $6 5 . 5 9 \\% \\sim 9 9 . 1 7 \\%$ 且都以小麦麸较低。由此可见，鳙鱼对鱼粉具有很好的利用效果，其次是豆粕和花生粕，而酶解羽毛粉中粗蛋白质的表观消化率最低，小麦麸各氨基酸的表观消化率均比较低。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：鱼；饲料原料；表观消化率；粪便收集；营养物质中图分类号： ${ \\tt S 9 6 3 . 1 6 ^ { + } } 2$ 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在水产养殖中，一般来说饲料原料是水生动物摄取营养物质的极好来源，但必须是建立在它能够被目标物种消化吸收的基础上才能实现的。然而，原料中的营养成分究竞有多少能够被水生动物真正的吸收利用将成为关键性依据[1，因此饲料原料的营养价值不仅仅停留在含量的多少，更取决于鱼体对其的消化和利用效率。随着水产养殖业的迅速发展，人们对水产品的需求与日俱增，同时对水产动物配合饲料的需求猛增。在这样一种趋势下，若要降低养殖成本，加大养殖效益，就必须提高水产动物对饲料原料的消化和吸收效率。我国饲料原料品种繁多，加工方式各异，因此研究鱼类对饲料原料的消化利用率成为水产饲料行业亟需解决的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "消化率是指动物消化道吸收的能量或营养物质占摄入食物总能量或者营养物质总量的百分比，它是鱼类等水生动物对饲料原料中营养物质吸收状况的反馈[2]。消化率的测定是评价饲料原料营养水平的必须指标之一，也是设计成本合理、配制营养全面的饲料配方的重要组成部分[3]。因此，合理和适当的饲料配方不仅可以节约养殖成本，而且对于控制不同原料在饲料中的比重、减少饲料成分对水域环境的污染以及提高水产饲料利用率等具有重要意义[4]。目前已经陆续开展了鱼类饲料原料的消化率相关工作，包含罗非鱼（Oreochromis spp)[5]、鲑鱼(Oncorhynchus )[6]、鳕鱼(Gadus)[7]、鲤鱼(Cyprinus carpio)[8]、草鱼(Ctenopharyngodonidellus）[9]和青鱼（Mylopharyngodon piceus）[0]等主要经济鱼类，另外，鳙鱼（Aristichthysnobilis）属于滤食性鱼类的匙吻鲟(Polyodon spathala)[l，近年来有相应的消化率数据报道。然而，鳙鱼饲料原料消化率数据目前尚无报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鳙鱼属鲤科（Cyprinidae），是我国传统的“四大家鱼”之一。该种类分布广，在我国从南到北的淡水流域几乎都有，因其头大、肉质鲜美，具有较好的水产养殖前景。据《2016中国渔业统计年鉴》[12]报道，鱼的年产量达335.94万t；有关鳙鱼配合饲料的进展[13]与生物饲料的开发[14]已经有了初步研究，而随着养殖规模的扩大和产量的猛增，高效优质的人工配合饲料亟待开发；而膨化饲料因其内部有机物分子结构改变，具有淀粉更易消化、蛋白质更易利用的优势，鳙鱼对其适口性更好。另外，研究和了解鳙鱼对主要饲料原料的生物利用率，是开发优质高效配合饲料的前提[15]。综合以上的研究现状，弥补和完善鳙鱼的饲料原料生物利用率数据库是研发鳙鱼配合饲料的必备基础。本试验以鳙鱼为研究对象，测定其对10 种饲料原料的干物质、粗蛋白质、粗脂肪、总能以及氨基酸的表观消化率，以期为鱼饲料原料营养价值的评定及设计高效率、低成本、环保的鳙鱼饲料配方提供基础依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验用鱼与饲养条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验鱼购自淡水渔业研究中心南泉水产养殖基地，采用室内水循环养殖系统（青岛中科海公司）养殖，正式试验前以通威公司商品饲料（粗蛋白质水平为 $32 \\%$ ，脂肪水平为 $6 \\%$ ）饱食投喂鳙鱼，经过2周的暂养驯化后，挑选出体格健壮、规格一致、平均初体重为$( 2 9 0 . 0 2 { \\scriptstyle \\pm 2 . 8 2 }$ ）g的鳙鱼330尾，随机分成11组，每组3个重复，每个重复10尾鱼，饲养于室内水循环养殖桶[水容积（396.07\\~422.48）L]中。养殖水体溶解氧含量 $\\mathrm { > } 6 . 0 \\mathrm { m g / L }$ ，水温（ $2 7 . 0 { \\pm } 1 . 5 \\$ ）℃， $\\mathrm { p H } 7 . 0 { \\sim } 8 . 0$ ，氨氮含量 ${ < 0 . 5 \\mathrm { m g / L } }$ ，亚硝酸盐氮含量 ${ < 0 . 0 6 \\ \\mathrm { m g / L } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验原料与饲料配制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10 种试验原料均购自无锡通威股份有限公司，分别为鱼粉（fish meal，FM）（国产）、干酒糟及其可溶物（distillers dried grains with solubles，DDGS）、棉籽粕（cottonseedmeal,CSM）、花生粕（peanut meal,PNM）、菜籽粕（rapeseed meal,RSM）、米糠（rice bran,RB）、豆粕（soybean meal,SBM）、酶解羽毛粉（enzyme feather meal,EFM）、小麦麸（wheatbran）、玉米蛋白粉（corn gluten meal,CGM）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了测定鳙鱼对10种饲料原料中粗蛋白质、粗脂肪、总能及氨基酸的表观消化率，试验饲料按基础饲料和待测饲料7:3的比例组成[16l]，其中能满足鳙鱼生长发育的基础饲料与试验饲料组成见表1,饲料原料营养水平见表2。所有饲料原料先利用粉碎机粉碎后过60目筛，同时添入 $0 . 5 \\%$ 三氧化二钇（ $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ ）作为外源指示剂，采用逐级放大法与其他原料混匀配制，然后加入鱼油混合均匀，再加入适量的水揉匀，使各原料充分混匀后，最后用中型饲料膨化机（feed puffing,FP）制成粒径 $2 . 5 \\mathrm { m m }$ 的膨化饲料，经 $5 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烘干后于-20℃冰柜中保存备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8151250ff867b9921f88bad39531f033e7afba7de660daa358990688d63d8cb2.jpg",
+        "table_caption": [
+            "表1基础饲料与试验饲料组成(干物质基础) ",
+            "Table 1 Composition of basal diet and test diet（DM basis） % "
+        ],
+        "table_footnote": [
+            "1 每千克维生素预混料含 Per kg vitamin premix contained:VA 900 000 IU，VD 250 000 IU，VC 5$0 0 0 \\mathrm { m g }$ ，VE 4 500 mg， $\\mathbf { V B } _ { 2 } \\mid 0 9 0 \\mathrm { m g }$ ， $\\mathrm { V K } _ { 3 } 2 2 0 \\mathrm { m g }$ ， $\\mathbf { V B } _ { 1 2 } 0 . 0 2 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 3 2 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 5 0 0 0$ "
+        ],
+        "table_body": "<html><body><table><tr><td>原料 Ingredients</td><td>基础饲料 Basal diet</td><td>试验饲料 Test diet</td></tr><tr><td>鱼粉 Fish meal</td><td>42.00</td><td>29.40</td></tr><tr><td>豆粕 Soybean meal</td><td>20.00</td><td>14.00</td></tr><tr><td>玉米淀粉 Corn starch</td><td>23.00</td><td>16.10</td></tr><tr><td>鱼油Fish oil</td><td>4.00</td><td>2.80</td></tr><tr><td>大豆磷脂 Soybean phospholipids</td><td>1.00</td><td>0.70</td></tr><tr><td>羧甲基纤维素钠 Sodium</td><td>4.00</td><td>2.80</td></tr><tr><td>carboxymethylcellulose</td><td></td><td></td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.50</td><td>0.35</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>1.00</td><td>0.70</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>2.00</td><td>1.40</td></tr><tr><td>磷酸二氢钙Ca（HPO4）2</td><td>2.00</td><td>1.40</td></tr><tr><td>三氧化二钇 Y2O3</td><td>0.50</td><td>0.35</td></tr><tr><td>饲料原料 feed ingredient</td><td></td><td>30.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "mg，泛酸 pantothenate $1 0 0 0 \\mathrm { m g }$ ，生物素biotin $5 0 \\mathrm { m g }$ ，叶酸 folic acid $1 6 5 ~ \\mathrm { m g }$ ，烟酸niacinacid $2 5 0 0 \\mathrm { m g }$ ，胆碱choline $6 0 0 0 0 0 \\mathrm { m g }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2)每千克矿物质预混料含 Per $\\mathbf { k g }$ vitamin mineral contained: $\\mathrm { C u S O _ { 4 } { \\bullet } 5 H _ { 2 } O }$ （204 $2 . 5 \\mathrm { ~ g ~ }$ ， FeSO4·7H2O 28 g, ZnSO4·7H2O 22 g, $\\mathrm { M n S O _ { 4 } } { \\bullet } 4 \\mathrm { H _ { 2 } O } 9 \\mathrm { ~ g }$ ， $\\mathrm { N a _ { 2 } S e O _ { 3 } 0 . 0 4 5  g }$ ， $\\mathrm { K I 0 . 0 2 6 ~ g }$ ， $\\mathrm { C o C l _ { 2 } \\bullet 6 H _ { 2 } O 0 . 1 \\ g }$ 0 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2饲料原料营养水平",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c24c58f388a764b6ea8aed8e9caf78f57c4d55b2241a0cbd2cfeb957d0a5158.jpg",
+        "table_caption": [
+            "Table 2Nutrient levels of feed ingredients "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料</td><td>粗蛋白 粗脂 能量 质</td><td></td><td></td><td>灰分</td><td>蛋氨酸 Energy Ash/% Met/%</td><td>氨酸 Val/%</td><td>蛋氨酸 Met/%</td><td>异亮氨酸 Ile/%</td><td>亮氨酸 Leu/%</td><td>苯丙氨酸 Phe/%</td><td>组氨酸 His/%</td><td>赖氨酸 Lys/%</td><td>精氨酸 Arg/%</td></tr><tr><td>M</td><td>Crude Ether /(kJ/g) protein/ extrac</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>%</td><td>t/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>66.6</td><td>9.80</td><td>20.2</td><td>15.60</td><td>1.18</td><td>3.01</td><td>1.18</td><td>2.62</td><td>4.81</td><td>2.55</td><td>1.75</td><td>4.88</td><td>3.45</td></tr><tr><td>豆粕 Soybean meal</td><td>46.8</td><td>1.72</td><td>19.8</td><td>7.88</td><td>0.48</td><td>2.09</td><td>0.48</td><td>1.77</td><td>3.82</td><td>2.72</td><td>1.42</td><td>3.04</td><td>3.51</td></tr><tr><td>花生粗</td><td>51.2</td><td>1.16</td><td>19.4</td><td>6.98</td><td>0.35</td><td>1.86</td><td>0.35</td><td>1.37</td><td>3.24</td><td>2.48</td><td>1.11</td><td>1.56</td><td>4.48</td></tr><tr><td>Peanut meal 棉籽粕</td><td>40.5</td><td>1.46</td><td>19.7</td><td>7.72</td><td>0.44</td><td>1.62</td><td>0.44</td><td>1.01</td><td>2.45</td><td>2.24</td><td>1.09</td><td>1.98</td><td>4.52</td></tr><tr><td>Cottonseed meal 菜籽粕</td><td>36.5</td><td>2.46</td><td>19.8</td><td>9.58</td><td>0.46</td><td>1.72</td><td>0.46</td><td>1.18</td><td>2.56</td><td>1.53</td><td>0.99</td><td>1.96</td><td>2.85</td></tr><tr><td>Rapseed meal 干酒糟及其可溶</td><td>30.8</td><td></td><td>22.8</td><td>7.72</td><td>0.51</td><td>2.24</td><td>0.51</td><td>2.29</td><td></td><td></td><td></td><td></td><td>2.17</td></tr><tr><td>物C Distillers dried</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3.67</td><td>3.35</td><td>1.78</td><td>1.09</td><td></td></tr><tr><td>grains with</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>solubles 酶解羽毛粉</td><td>86.2</td><td>1.42</td><td>22.4</td><td>4.52</td><td>0.44</td><td>6.52</td><td>0.44</td><td>4.23</td><td>7.35</td><td></td><td></td><td></td><td>6.14</td></tr><tr><td>Enzyme feather</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>4.19</td><td>0.65</td><td>2.73</td><td></td></tr><tr><td>meal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米蛋白粉</td><td>60.5</td><td>0.72</td><td>21.5</td><td>2.45</td><td>0.65</td><td>2.90</td><td>0.65</td><td>2.44</td><td>8.78</td><td>3.62</td><td>1.84</td><td>1.12</td><td>1.99</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Corn gluten meal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>米糠</td><td>25.2</td><td>0.68</td><td>17.7</td><td>6.69</td><td>0.23</td><td>1.07</td><td>0.23</td><td>0.84</td><td>2.02</td><td>2.46</td><td>1.28</td><td>2.03</td><td>2.65</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Rice bran</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>19.9</td><td>5.88</td><td>0.18</td><td>0.77</td><td>0.18</td><td>0.45</td><td>1.11</td><td>0.71</td><td>0.48</td><td>0.88</td><td>1.19</td></tr><tr><td></td></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3样品收集处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先用不含 $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ 的基础饲料投喂1周后，再用含 $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ 的基础饲料继续投喂1周，然后随机选取其中1组作为对照组，接着投喂基础饲料，另外10组为试验组，分别投喂1种试验饲料。投喂含 ${ \\bf Y } _ { 2 } { \\bf O } _ { 3 }$ 的基础饲料和试验饲料1周后，则开始收集粪便。试验期间日投饵量为鱼体重的 $3 \\%$ ，每天投喂3次（08:00、12:00、16:00），每次投喂 $4 0 \\mathrm { m i n }$ 后清除残饵及排泄物。投喂 $3 { \\sim } 4 \\mathrm { h }$ 后养殖桶内开始出现粪便，每隔 $3 . 5 \\mathrm { h }$ 用透膜捞网收集1次粪便，而 $7 { \\sim } 8$ h为鳙鱼排粪高峰期，因此每日在试验鳙鱼集中排粪的 $1 6 { : } 2 0 { \\sim } 1 7 { : } 0 0$ 再用虹吸法[17]收集新鲜、成型、饱满及包膜完整的粪便样品于自封袋中置于65℃的烘干机中烘干，直到粪便样品够分析用为止。放入 $. - 2 0 \\mathrm { ~ \\textdegree ~ }$ 冰箱中保存待测。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4检测指标及表观消化率计算 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据国际标准方法测定[18]，水分含量用105℃常压干燥法（GB6435—1986）测定，粗蛋白质含量用全自动定氮仪进行微量凯氏定氮法（GB/T6432—1994）测定，粗脂肪含量用索氏抽提法（GB/T6433—1994）测定，粗灰分含量采用 $5 5 0 \\ \\mathrm { ~ ^ { \\circ } C }$ 灼烧法（GB/T6438—1992)测定，总能采用氧弹测热仪（IKA-C2000，德国）测定， ${ \\bf Y } _ { 2 } { \\bf O } _ { 3 }$ 含量利用高频电感耦合等离子体发射光谱仪（PerkinElmer Optima 2100 DVICP-OES，美国）测定，氨基酸含量利用全自动氨基酸分析仪（日立L-8900）测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基础饲料和试验饲料干物质表观消化率的计算公式如下[19-20]:饲料干物质的表观消化率 $( \\% ) = ( 1 { - } S _ { \\mathrm { Y r } } / F _ { \\mathrm { Y r } } ) \\times 1 0 0 \\$ 0基础饲料和试验饲料中营养成分和能量的表观消化率计算公式如下[19]:饲料营养成分的表观消化率 $( \\% ) ~ { = } [ 1 { - } ~ ( S _ { \\mathrm { Y r } } { \\times } F _ { \\mathrm { y } } ) ~ / ~ ( F _ { \\mathrm { Y r } } { \\times } S _ { \\mathrm { y } } ) ~ ] { \\times } 1 0 0 ;$ 饲料能量的表观消化率 $( \\% ) ~ = [ 1 - ~ ( \\ S _ { \\mathrm { Y r } } { \\times } F _ { \\mathrm { n } } ) ~ / ~ ( F _ { \\mathrm { Y r } } { \\times } S _ { \\mathrm { n } } ) ~ ] { \\times } 1 0 0 \\circ$ 式中： $S _ { \\mathrm { Y r } }$ 为饲料中 $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ 含量（ $( \\%$ ）； $F _ { \\mathrm { Y r } }$ 为粪便中 $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ 含量 $( \\% ) ~ ; ~ S _ { \\mathrm { y } }$ 为饲料中某营养成分的含量 $( \\%$ ）； $F _ { \\mathrm { y } }$ 为粪便中某营养成分的含量（ $( \\%$ ）； $F _ { \\mathfrak { n } }$ 为某种饲料的粪便能量值$( \\mathrm { k J / g } )$ ； $S _ { \\mathrm { n } }$ 为某种饲料的饲料能量值（ $\\mathrm { | \\mathbf { k J / g } \\rangle }$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验原料营养成分和能量的表观消化率计算公式如下[20]：ADC（%）=ACDr+[RDR/（1-R）Di]（ADCT-ADCB）；$R { = } \\ ( \\ : W _ { \\mathrm { f } } { \\times } \\ : Y _ { \\mathrm { f } } ) \\ / \\ ( \\ : W _ { \\mathrm { t } } { \\times } \\ : Y _ { \\mathrm { t } } )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中： $A D C _ { 1 }$ 为原料营养成分和能量的表观消化率； $A D C _ { \\mathrm { T } }$ 为试验饲料营养成分或能量的表观消化率； $A D C _ { \\mathrm { { B } } }$ 为基础饲料营养成分或能量的表观消化率； $D _ { \\mathrm { R } }$ 为基础饲料的营养成分含量 $( \\%$ ）或能量（ $\\mathrm { \\bf ~  ~ } . \\mathrm { \\bf { k J / g } }$ ）； $D _ { 1 }$ 为试验原料的营养成分含量 $( \\%$ ）或能量（ $\\mathrm { \\nabla \\cdot k J / g }$ ）；Wf为摄取试验饲料中基础饲料的重量（g）； $W _ { \\mathrm { t } }$ 为摄取试验饲料的重量（g）； $Y _ { \\mathrm { f } }$ 为基础饲料中某营养成分的含量 $( \\%$ ）； $Y _ { \\mathrm { t } }$ 为试验饲料中某营养成分的含量 $( \\% )$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用SPSS22.0统计软件中的单因素方差分析（one-wayANOVA），若 $P { < } 0 . 0 5$ 差异显著时，再进行 Tukey's多重比较，试验结果以平均值±标准误（mean±SE）表示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1鳙鱼对10 种饲料原料中干物质、粗蛋白质、粗脂肪和总能的表观消化率",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表3中可知，饲料原料中干物质的表观消化率为 $6 9 . 9 \\% \\sim 8 5 . 7 \\%$ ，其中鱼粉干物质的表观消化率最高，达到 $8 5 . 7 \\%$ ，显著高于其他9种饲料原料（ $P { < } 0 . 0 5$ ）；其次，豆粕、花生粕、菜籽粕、DDGS、棉籽粕和玉米蛋白粉的干物质表观消化率也较高，均达到了 $80 \\%$ 以上，显著高于除鱼粉以外的其他各组饲料原料（ $. P { < } 0 . 0 5$ ），其中花生粕、豆粕和棉籽粕之间无显著差异（ $( P { > } 0 . 0 5 )$ ），并且棉籽粕、DDGS、菜籽粕和玉米蛋白粉之间也差异不显著（ $( P { > } 0 . 0 5 )$ ；酶解羽毛粉干物质的表观消化率最低，仅仅只有 $6 9 . 9 \\%$ ，显著低于其他9种饲料原料（ $P { < } 0 . 0 5$ ）；而米糠和小麦麸干物质的表观消化率也比较低，分别为 $7 6 . 4 \\%$ 和 $7 6 . 1 \\%$ ，显著低于除酶解羽毛粉以外的其他各组饲料原料( ${ \\cdot } P { < } 0 . 0 5$ ），但二者之间无显著差异（ $( P { > } 0 . 0 5 )$ ）。鳙鱼对10 种饲料原料中干物质的表观消化率大小顺序:鱼粉>豆粕>花生粕>棉籽粕>DDGS>菜籽粕>玉米蛋白粉>米糠>小麦麸>酶解羽毛粉。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "10 种饲料原料粗蛋白质的表观消化率除玉米蛋白粉以外，均超过 $80 \\%$ 以上，其中鱼粉粗蛋白质的表观消化率显著高于其他9种饲料原料（ $( P { < } 0 . 0 5 )$ ）；其次，豆粕、棉籽粕、米糠、花生粕和菜籽粕粗蛋白质的表观消化率彼此相当，为 $8 3 . 7 \\% \\sim 8 5 . 3 \\%$ ，五者之间无显著差异（ $P { > } 0 . 0 5$ ）；DDGS、小麦麸和酶解羽毛粉的粗蛋白质表观消化率较低，显著低于除玉米蛋白粉以外的其他6种饲料原料（ $. P { < } 0 . 0 5$ ），但三者之间无显著差异（ $P { > } 0 . 0 5 \\$ ）；10种饲料原料中玉米蛋白粉的粗蛋白质表观消化率最低，仅为 $7 3 . 5 \\%$ ，显著低于其他9种饲料原料（ $P { < } 0 . 0 5$ )。鳙鱼对10种饲料原料中粗蛋白质表观消化率的大小顺序为：鱼粉 $\\cdot >$ 棉籽粕 $>$ 米糠>豆粕>花生粕>菜籽粕 $>$ 小麦麸>DDGS>酶解羽毛粉>玉米蛋白粉。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有试验饲料原料的粗脂肪表观消化率均达到 $8 1 \\%$ 以上。其中，棉籽粕、鱼粉和菜籽粕的粗脂肪表观消化率在 $8 8 . 8 \\%$ 以上，三者之间无显著差异（ $. P { > } 0 . 0 5$ ），但显著高于除豆粕外其他饲料原料（ $P { < } 0 . 0 5$ ）。其次，豆粕和 DDGS 的粗脂肪也有较好的利用效果，其表观消化率分别为 $8 8 . 7 \\%$ 和 $8 6 . 4 \\%$ ，二者之间无显著差异（ $P { > } 0 . 0 5$ ）；花生粕、玉米蛋白粉、小麦麸和米糠的粗脂肪表观消化率也相当，在 $8 3 . 3 \\% \\sim 8 6 . 1 \\%$ 之间，四者之间无显著差异（ $P { > } 0 . 0 5 \\$ ）；酶解羽毛粉的粗脂肪表观消化率最低，显著低于其他9种饲料原料（ $. P { < } 0 . 0 5 \\$ ）。鳙鱼对10 种饲料原料中粗脂肪的表观消化率大小顺序为：鱼粉 $>$ 菜籽粕 $>$ 棉籽粕>豆粕>DDGS>花生粕>玉米蛋白粉>小麦麸>米糠>酶解羽毛粉。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从总能表观消化率方面来看，除酶解羽毛粉以外，鳙鱼对其他9组试验原料的总能表观消化率均在 $8 4 . 0 \\% { \\sim } 8 6 . 3 \\%$ 之间；酶解羽毛粉的总能表观消化率为 $8 1 . 9 \\%$ ，显著低于其他9组饲料原料（ $_ { . P < 0 . 0 5 }$ ）。鱼对10种饲料原料中总能的表观消化率大小顺序为：米糠 $\\mathrm { > }$ 鱼粉>菜籽粕 $>$ DDGS>豆粕和棉籽粕>小麦麸>花生粕>玉米蛋白粉>酶解羽毛粉。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3鳙鱼对10种饲料原料中干物质、粗蛋白质、粗脂肪和总能的表观消化率",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 3Apparent digestibility of dry mater, crude protein,ether extract and gross energy in 10同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ ）。下表同。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7264e09898b07f0b07e828a2e2e506c326aaeceb8aa95c772a9d288aa53f6ca8.jpg",
+        "table_caption": [
+            "kinds of feed ingredients forAristichthys nobilis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>饲料原料 Ingredients</td><td>干物质 Dry matter</td><td>粗蛋白质 Crude protein</td><td>粗脂肪 Ether extract</td><td>总能 Gross energy</td></tr><tr><td>鱼粉</td><td>85.7±1.1a</td><td>88.3±0.9a</td><td>91.1±0.5a</td><td>86.0±0.8a</td></tr><tr><td>Fish meal</td><td></td><td></td><td></td><td></td></tr><tr><td>豆粕</td><td>82.5±1.4b</td><td>84.8±1.2b</td><td>88.7±0.7bc</td><td>85.4±0.4ab</td></tr><tr><td>Soybean meal</td><td></td><td></td><td></td><td></td></tr><tr><td>花生粕</td><td>81.6±2.4bc</td><td>84.7±1.5b</td><td>86.1±0.6de</td><td>84.4±0.5ab</td></tr><tr><td>Peanut meal</td><td></td><td></td><td></td><td></td></tr><tr><td>棉籽粕</td><td>81.2±0.8bcd</td><td>85.3±1.4b</td><td>88.8±0.9ab</td><td>85.4±0.8ab</td></tr><tr><td>Cottonseed meal</td><td></td><td></td><td></td><td></td></tr><tr><td>菜籽粕</td><td>80.4±0.9cd</td><td>83.7±1.6bc</td><td>88.9±1.2ab</td><td>85.9±0.6ab</td></tr><tr><td>Rapseed meal</td><td></td><td></td><td></td><td></td></tr><tr><td>干酒糟及其可溶物</td><td>80.9±1.1cd</td><td>81.5±1.7d</td><td>86.4±0.9cd</td><td>85.6±1.1ab</td></tr><tr><td>Distillers dried grains with solubles</td><td></td><td></td><td></td><td></td></tr><tr><td>酶解羽毛粉</td><td>69.9±2.2f</td><td>81.3±1.6d</td><td>81.2±1.4f</td><td></td></tr><tr><td>Enzyme feather meal</td><td></td><td></td><td></td><td>81.9±1.6</td></tr><tr><td>玉米蛋白粉</td><td>80.1±1.8d</td><td>73.5±1.9e</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>85.4±1.1de</td><td>84.0±1.2b</td></tr><tr><td>Corn gluten meal</td><td></td><td></td><td></td><td></td></tr><tr><td>米糠</td><td>76.4±2.3e</td><td>85.2±1.4b</td><td>83.8±0.8e</td><td>86.3±0.9a</td></tr><tr><td>Rice bran</td><td></td><td></td><td></td><td></td></tr><tr><td>小麦麸</td><td>76.1±1.9e</td><td>82.3±2.2cd</td><td>84.9±0.9de</td><td>84.5±0.6ab</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the same column, values with different small leter superscripts mean significant difference （20 $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant diference $( P { > } 0 . 0 5 )$ The same as below. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2鳙鱼对10 种饲料原料中氨基酸的表观消化率 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从表4中可知，各饲料原料氨基酸的表观消化率基本维持在 $6 5 . 5 9 \\% \\sim 9 9 . 1 7 \\%$ ，不同种氨基酸在同种饲料原料中的表观消化率不同，而同一种氨基酸在不同种饲料原料中的表观消化率也相差很大。亮氨酸和精氨酸的表观消化率普遍较高，在酶解羽毛粉中，这2种氨基酸的表观消化率分别高达 $9 7 . 8 1 \\%$ 和 $9 9 . 1 7 \\%$ ，而在小麦麸中，这2种氨基酸的表观消化率也分别达到了 $8 1 . 0 6 \\%$ 和 $9 4 . 6 0 \\%$ 。苏氨酸、亮氨酸、氨酸、异亮氨酸、苯丙氨酸和精氨酸的表观消化率在酶解羽毛粉中均是最高的，而这9种必需氨基酸的表观消化率在小麦麸中是最低的；异亮氨酸的表观消化率较其他氨基酸较低；在鱼粉中，氨基酸表观消化率较低的是苏氨酸和缬氨酸；在小麦麸中，氨基酸的表观消化率最低的为异亮氨酸。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "赖氨酸和苏氨酸的表观消化率：苏氨酸表观消化率最高的是酶解羽毛粉（ $9 7 . 3 8 \\%$ ），显著高于除鱼粉、豆粕以外的其他7组饲料原料（ $\\scriptstyle P < 0 . 0 5$ ）；而赖氨酸表观消化率最高的是鱼粉 $( 9 7 . 9 4 \\% )$ ),显著高于除豆粕、棉籽粕以及酶解羽毛粉以外的其他6组饲料原料( $_ { . } { \\cdot } { \\cdot } { \\cdot } { \\cdot } _ { } ( { 0 . 0 5 } )$ ：这2种氨基酸的表观消化率在鱼粉、豆粕和酶解羽毛粉之间都无显著差异（ $_ { \\cdot \\cdot P > 0 . 0 5 }$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸的表观消化率：鱼粉的蛋氨酸表观消化率为 $9 8 . 1 5 \\%$ ，除与豆粕（ $9 4 . 1 1 \\%$ ）、菜籽粕（ $9 3 . 7 6 \\%$ ）、棉籽粕（ $9 3 . 5 2 \\%$ ）和DDGS（ $9 5 . 2 2 \\%$ ）无显著差异（ $P { > } 0 . 0 5$ ）外，显著高于其他各饲料原料（ $. P { < } 0 . 0 5 \\$ ）；小麦麸的蛋氨酸表观消化率（ $8 2 . 4 9 \\%$ ）显著低于其他各饲料原料（ $P { < } 0 . 0 5 \\$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "组氨酸的表观消化率：酶解羽毛粉组氨酸表观消化率最低，为 $9 0 . 4 8 \\%$ ，与花生粕（ $9 3 . 7 6 \\%$ ）、菜籽粕（ $9 2 . 7 7 \\%$ ）和米糠（94.02）无显著差异（ $. P { > } 0 . 0 5 .$ ）外，显著低于其他饲料原料（ $. P { < } 0 . 0 5 \\$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表4鱼对10 种饲料原料氨基酸的表观消化率",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec9fe34cd76a48928762494d92fd68fff2bd87eaf275befab8edad7bf68764d0.jpg",
+        "table_caption": [
+            "Table 4Apparent digestibility of amino acids in 1O kinds of feed ingredients for Aristichthys "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td><td>nobilis</td><td>%</td><td></td><td></td><td></td><td></td></tr><tr><td>饲料原料 Feed ingredients</td><td>苏氨酸 Threonine</td><td>氨酸 Valine</td><td>精氨酸 Threonine</td><td>蛋氨酸 Methionine</td><td>异亮氨酸 Isoleucine</td><td>亮氨酸 Leucine</td><td>苯丙氨酸 Phenylalanin</td><td>组氨酸 Histidine</td><td>赖氨酸 Lysine</td></tr><tr><td>鱼粉</td><td>96.47±0.17ab96.50±0.22a</td><td></td><td>98.68±0.09a</td><td>98.15±0.05a</td><td>96.78±0.16a</td><td></td><td>e 97.57±0.13a 96.65±0.13ab 96.59±0.05a</td><td></td><td>97.94±0.14a</td></tr><tr><td>Fish meal 豆粕</td><td>95.32±0.26abc 94.19±0.33bc 98.64±0.01a</td><td></td><td></td><td>94.11±0.74ab</td><td>94.20±0.38b 96.38±0.23b 96.30±0.19ab 95.44±0.18ab 96.20±0.16ab</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/6646c2b771c1dfa53f5c51f71284b8a8685a5fbcddfdfe89372b510c0e745fe9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>花生粕</td><td></td><td>92.92±0.16cd 92.86±0.30cd 98.56±0.05ab91.91±0.43bc</td><td></td><td></td><td></td><td></td><td>91.98±0.23c 95.28±0.16c 95.35±0.20b93.76±0.32abc 91.70±0.33cde</td></tr><tr><td>Peanut meal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>棉籽粕</td><td>92.65±0.26cd 93.21±0.71bcd 98.79±0.03a</td><td></td><td></td><td>93.52±1.69ab</td><td></td><td></td><td>91.31±0.42° 94.85±0.26cd 95.46±0.19b 95.46±0.70ab 94.66±0.34abc</td></tr><tr><td>Cottonseed meal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>菜籽粕</td><td></td><td>92.94±0.37bc92.38±0.20d 97.78±0.19bc93.76±0.46ab</td><td></td><td></td><td></td><td></td><td>90.84±0.35c94.23±0.18d 92.61±0.41° 92.77±0.08bc 93.65±0.33bcd</td></tr><tr><td>Rapseed meal</td><td>d</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>干酒糟及其可93.83b9470b97.153d952008ab95.8603b96500396.90007a6.50089.de</td></tr><tr><td>溶物</td><td>d</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Distillers dried grains with</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>solubles</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酶解羽毛粉</td><td></td><td>97.38±0.22a97.91±0.12a99.17±0.05a</td><td></td><td>92.07±2.47bc</td><td></td><td></td><td></td></tr><tr><td>Enzyme feather</td><td></td><td></td><td></td><td></td><td></td><td></td><td>97.2±0.18a97.81±0.14a 97.26±0.14a 90.48±1.90c 95.16±0.24abc</td></tr><tr><td>meal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米蛋白粉</td><td></td><td>92.68±0.56cd 94.43±0.13bc 96.42±0.15d</td><td></td><td>95.04±0.25b</td><td></td><td></td><td>94.51±0.18b 97.91±0.06a 96.23±0.13ab 95.27±0.16ab 88.44±0.57e</td></tr><tr><td>Corn gluten</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>meal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>米糠</td><td></td><td>90.51±0.23d 87.10±0.65e 97.68±0.03c</td><td></td><td>87.32±0.25cd</td><td></td><td></td><td>86.11±0.46d 91.96±0.18e 95.37±0.04b 94.02±0.18abc 93.03±0.09bcd</td></tr><tr><td>Rice bran</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>小麦麸</td><td>75.37±2.05e75.81±0.56f94.60±0.42e</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>82.49±0.44e</td><td></td><td></td><td>65.59±0.82e 81.06±0.39f 79.72±0.62d 80.17±0.87d 82.13±2.56f</td></tr><tr><td>Wheat bran</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1表观消化率的计算方法和粪便收集方法的选择对表观消化率的影响本试验采用虹吸法在鱼类排粪高峰期间收集包膜完整的粪便[2Il，相比较传统的挤压法[22]、解剖法[23]和肛吸法[24]，虹吸法克服了因解剖鱼肠道和挤压鱼腹部收集粪便所导致的人为干扰鳙鱼生理活动的弊端；另外，相对于需要长时间连续过滤[25]的透膜捞网[26]和倾析法[25]而言，虹吸法又避免了粪便中的营养成分和无机物因长时间曝露在水中而出现部分溶失的情况。本试验通过Cho 等[16]提出的套算法，即用“ $70 \\%$ 基础饲料 $+ 3 0 \\%$ 待测原料”配成的试验饲料投喂试验鱼，并通过游文章等[20]改进的公式进行计算，这样既保证了试验饲料的营养均衡，使所得结果更接近于鳙鱼的营养生理需求，又提高了测定结果的准确度。此外，在表观消化率测定中采用 $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ 比三氧化二铬（ $\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }$ ）具有更好的适应性，现已成为水产动物消化率测定的标准方法[13,27]。因此，本试验研究采用 $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ 为外源性指示剂研究鱼对 10种饲料原料中营养物质的表观消化率。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2鳙鱼对10种饲料原料中干物质、粗蛋白质、粗脂肪和总能的表观消化率",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "干物质的表观消化率是鱼类对饲料原料总体消化能力的反映。本次试验测得鳙鱼对10种饲料原料中干物质的表观消化率（ $6 9 . 9 \\% \\sim 8 5 . 7 \\%$ ）有较大差异，其中鱼粉的干物质表观消化率最高，其次是豆粕和花生粕，而米糠和小麦麸的干物质表观消化率则低于棉籽粕、菜籽粕、DDGS 和玉米蛋白粉，这也许和2 种原料中高纤维低蛋白质的营养组分有关。Reigh等[28]的研究表明，过高含量的粗纤维和粗灰分会降低水产动物对饲料原料中干物质的表观消化率，本试验所用的鱼粉粗灰分含量（ $1 5 . 2 \\%$ ）虽然较高，但是干物质表观消化率的高低不仅与饲料中的粗纤维和粗灰分的含量有关，还与蛋白质、脂肪等营养物质的消化吸收程度有关。本试验结果表明，鳙鱼对鱼粉中的粗蛋白质和粗脂肪的表观消化率很高，说明鳙鱼对鱼粉中蛋白质和脂肪的消化利用程度很好，所以从某种意义上来说又提高了鳙鱼对干物质的表观消化率，这可能是造成鱼粉中干物质的表观消化率高于其他9种饲料原料的原因。同样的情况，棉籽粕和菜籽粕虽然纤维素含量较高，但鳙鱼对这2种饲料原料的蛋白质和脂肪的消化吸收程度也比较好，从而干物质的表观消化率也不会太低。此外，玉米蛋白粉虽然粗灰分含量较低，但是鳙鱼对其蛋白质的利用效果却很不好，因而鳙鱼对玉米蛋白粉的干物质表观消化率不会太高。对于米糠和小麦麸2种饲料原料，由于含有较高的纤维素，使得高含量的纤维素加快了食糜在肠道内移动的速度[29]，降低了鱼类对饲料原料中干物质的表观消化率，加之鳙鱼体内缺乏相应的纤维素酶，也进一步影响了对其纤维素的消化吸收。鳙鱼虽然对这2种饲料原料的蛋白质和脂肪的利用程度良好，然而可供消化吸收的总蛋白质和总脂肪的含量却很低，10种饲料原料中除了米糠（ $2 5 . 2 \\%$ ）和小麦麸（ $1 8 . 2 \\%$ ）外，其余8种饲料原料的粗蛋白质含量都在 $30 \\%$ 以上，所以能被消化吸收的总蛋白质含量就不高，从而降低了鳙鱼对米糠和小麦麸干物质的表观消化率，使得这2种原料干物质的表观消化率低于除酶解羽毛粉以外的其他饲料原料。本试验结果也发现，粗蛋白质含量在 $80 \\%$ 以上的酶解羽毛粉，除了粗蛋白质以外，鳙鱼对其他几个指标的表观消化率均是最低的，这说明本试验所用的酶解羽毛粉在加工过程中的水解酶水平可能比较低，对除蛋白质以外的其他营养物的质破坏性较大，而酶解羽毛粉的干物质的表观消化率（ $6 9 . 9 \\%$ ）最低，说明羽毛粉经过酶解处理以后不能够很好地被鳙鱼利用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "蛋白质的是水生动物营养的重要因子，其表观消化率对人工配合饲料的配方制作尤为重要。本试验测得鳙鱼对除玉米蛋白粉以外的其他9种饲料原料的粗蛋白质具有良好的利用效果，其表观消化率均达到 $80 \\%$ 以上。其中鱼粉的粗蛋白质表观消化率最高，达 $8 8 . 3 \\%$ ，高于其他原料，这是由于鱼粉的蛋白质含量较高，鱼类所需的必需脂肪酸及其他营养物质又很丰富，且必需氨基酸平衡，是较好的蛋白质源[30]，不论是肉食性还是草食性以及杂食性鱼类对鱼粉粗蛋白质的消化率都较高，这与花鲈（Lateolabrax japonicus）[31l、异育银鲫（allogynogenetic crucian carp）[32]和草鱼（Ctenopharynodon idellus）[33对鱼粉的粗蛋白质消化率结果相吻合。多数研究证明，很多鱼类对玉米蛋白粉的消化率较高，如2龄青鱼（Mylopharyngodon piceus Richardson） [34]、建鲤（Cyprinus carpiovar Jian）[35]和团头鲂（Megalobrama amblycephala）[36]。而本试验测得的鱼对玉米蛋白粉的粗蛋白质表观消化率只有 $7 3 . 5 \\%$ ，略低于其他研究结果。类似的情况如草鱼[33]对玉米蛋白粉的粗蛋白质表观消化率仅有 $6 8 . 9 1 \\%$ ，许氏平（Sebastods schlegelii）[37]对玉米蛋白粉的粗蛋白质表观消化率为 $7 9 . 1 \\%$ ，黑鲷鱼（Haliotismidae $L$ ）[38]对玉米蛋白粉的粗蛋白质表观消化率为 $7 6 . 8 3 \\%$ 。这可能与鱼类的食性和原料的加工工艺有关。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "鱼类一般可高效利用脂肪。从本试验结果能看出鳙鱼对饲料中粗脂肪的表观消化率都比较高（ $8 1 \\% { \\sim } 9 2 \\%$ ），说明鳙鱼对这10种饲料原料的脂肪具有很好的利用能力。除了酶解羽毛粉和米糠的粗脂肪表观消化率较低，分别为 $8 1 . 2 \\%$ 和 $8 3 . 8 \\%$ ，其他各组饲料的粗脂肪表观消化率均在 $8 5 \\%$ 以上，这和大多数鱼类都能有效利用脂肪的特性是相一致的[28]。鳙鱼对抗营养因子极低的玉米蛋白粉的粗脂肪表观消化率（ $8 5 . 4 \\%$ ）不高，而刘文斌等[36]报道团头鲂对玉米蛋白粉粗脂肪的表观消化率则高达 $1 0 3 . 4 \\%$ ，对酶解羽毛粉粗脂肪的表观消化率也有 $8 4 . 8 2 \\%$ ；类似的情况如王文娟[39]报道的斜带石斑鱼对玉米蛋白粉粗脂肪的表观消化率却又比较低，只有 $6 9 . 2 1 \\%$ ，这可能与不同种鱼类对脂肪源的利用特性有关。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本试验中，鳙鱼对必需氨基酸的表观消化率较高，平衡性也较好，因此对应的其粗蛋白质的表观消化率最高，相反，小麦麸的粗蛋白质表观消化率不高，只有 $8 2 . 3 \\%$ ，其氨基酸品质较差，各种必须氨基酸的消化率普遍低于其他各组饲料原料，同样的情况还有周兴华等[40]报道的银鲈对麦麸各种必须氨基酸的消化率也普遍低于其他各组饲料原料，而粗蛋白质消化率也同样不高，只有 $8 3 . 1 4 \\%$ 。这可能与小麦麸原料中纤维素含量高有关。鳙鱼对这9种氨基酸的表观消化率以酶解羽毛粉居高，但除了粗蛋白质的表观消化率外，酶解羽毛粉的其他营养物质表观消化率均较低。这也许是因为本试验所用的酶解羽毛粉在水解酶加工过程中，对氨基酸的破坏性较小，从而能够更好地被鳙鱼利用。但是酶解羽毛粉中氨基酸的组成较不平衡，本试验测得鳙鱼对酶解羽毛粉中组氨酸表观消化率为 $9 0 . 4 8 \\%$ ；对精氨酸的表观消化率则达到 $9 9 . 1 7 \\%$ ，说明鳙鱼可以很好地利用羽毛粉中的精氨酸，这对于水产动物而言具有重要的意义。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 鳙鱼对鱼粉具有很好的利用效果，其次是豆粕和花生粕，二者相当；而酶解羽毛粉中粗蛋白质的表观消化率最低，小麦麸各氨基酸的表观消化率均比较低，在鳙鱼饲料中需谨慎控制。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 试验所得数据中鱼粉、豆粕、花生粕、棉籽粕和菜籽粕都是配制鳙鱼配合饲料的适宜原料，在考虑营养充分和氨基酸平衡的条件下，豆粕与花生粕蛋白可部分替代鱼粉蛋白，以降低饲料成本。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] KOPRUCU K,OZDEMIR Y.Apparent digestibility of selected feed ingredients for Nile tilapia (Oreochromis niloticus)[J].Aquaculture,2005,250(1/2):308-316. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[2] LOVELL T.Nutrition and feeding of fish[M].Boston:Kluwer Academic Publishers,1998:1-265. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[3] 申屠基康.大黄鱼对 21 种饲料原料表观消化率及色氨酸营养需要研究[D].硕士学位论文.青岛：中国海洋大学，2010:89",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[4] HAJEN W E,BEAMES R M,HIGGS D A,et al.Digestibility of various feedstufs by post-juvenile Chinook salmon (Oncorhynchus tshawytscha) in sea water.1.validation of technique[J].Aquaculture,1993,112(4):321-332. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[5] 董晓慧,郭云学,叶继丹,等.吉富罗非鱼幼鱼对10 种饲料原料表观消化率的研究[J].动物营养学报,2009,21(3):326-334.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[6] SUGIURA S H,DONG F M,RATHBONE C K,et al.Apparent protein digestibility and mineral availabilities in various feed ingredients for salmonid feeds[J].Aquaculture,1998,159(3/4):177-202. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[7] KIM JD,TIBBETTS S M,MILLEY J E,et al.Effect of the incorporation level of dehulled soybean meal into test diet on apparent digestibility coefficients for protein and energy by juvenile haddock,Melanogrammus aeglefinus L.[J].Aquaculture,2007,267(1/2/3/4):308-314. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[8] 梁丹妮,姜雪姣,刘文斌,等.建鲤对7种饲料原料中营养物质的表观消化率[J].动物营养学报,2010,22(6):1592-1598.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[9] 林仕梅,罗莉,叶元土.草鱼对 17 种饲料原料粗蛋白和粗脂肪的表观消化率[J].中国水产科学,2001,8(3):59-64.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[10] 明建华,叶金云,张易祥,等.青鱼对8种饲料原料中营养物质的表观消化率[J].动物营养报,2012,24(10):2050-2058.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[11] 刘超,李寒松,成定北,等.瘘管全收粪法测定匙吻鲟对安玉 2166 玉米的消化率[J].淡水渔 业,2014,44(2):52-56,61. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[12]农业部渔业渔政管理局.2016年中国渔业统计年鉴[M].北京:中国农业出版社,2016:155.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[13]缪凌鸿,高启平,帅柯,等.鱼人工配合饲料养殖方式探索[J].科学养鱼,2015(1):67-68.  \n[14]刘家驹,孙建国.鳙鱼生物饲料的开发与应用[J].科学养鱼,2012(7):73-74.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[15] 江星,陈立侨,孙盛明,等.中华绒螯蟹对 10 种常见饲料蛋白源的表观消化率[J].海洋渔业,2013,35(2):209-216.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[16] CHO C Y,KAUSHIK S J.Nutritional energetics in fish:energy and protein utilization in rainbow trout (Salmo gairdneri)[J].World Review of Nutrition and Dietetics,1990,61:132-172. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[17] 史东杰,孙向军,梁拥军,等.粪便不同收集方法对锦鲤表观消化率测定结果的影响[J].水产科技情报,2013,40(5):266-271.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[18] ZHOU Q C,TAN B P,MAI K S,et al.Apparent digestibility of selected feed ingredients for juvenile cobia Rachycentron canadum[J].Aquaculture,2004,241(1/2/3/4):441-451. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[19] LUO Z,TAN X Y,CHEN Y D,et al.Apparent digestibility coefficients of selected feed ingredients for Chinese mitten crab Eriocheir sinensis[J].Aquaculture,2008,285(1/2/3/4):141-145. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[20] 游文章,雍文岳,廖朝兴,等.测定鱼类饲料原料营养成分消化率的计算方法[J].水产学报,1993,17(2):167-171.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[21] SHIPTON TA,BRITZ P J.An assessment of the use of chromic oxide as a marker in protein digestibility studies with Haliotis midae L.[J].Aquaculture,2001,203(1/2):69-83. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[22] HAJEN W E,HIGGS D A,BEAMES R M,et al.Digestibility of various feedstuffs by post-juvenile chinook salmon (Oncorhynchus tshawytscha） in sea water.2.Measurement of digestibility[J].Aquaculture,1993,112(4):333-348. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[23] VENS-CAPPELL.Methodical studies on digestion in trout.1.Reliability of digestion coefficients in relation to methods for faeces collection[J].Aquacultural Engineering,1985,4(1):33-49. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[24] 董小林,解绶启,雷武,等.粪便收集方式对异育银鲫表观消化率测定的影响[J].水生生物学报,2012,36(3):450-456.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[25] SPYRIDAKIS P,METAILLER R,GABAUDAN J,et al.Studies on nutrient digestibility in European sea bass (Dicentrarchus labrax):1 Methodological aspects concerning faecal collection[J].Aquaculture,1989,77(1):61-70. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[26] LEE S M.Evaluation of the nutrient digestibilities by different facial collection methods in juvenile and adult Korean rockfish (Sebastes schlegeli)[J].Korean Journal of Fisheries and Aquatic Sciences,1997,30(1):62-71. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[27] 张璐,陈立侨,洪美玲,等.中华绒螯蟹对 11 种饲料原料蛋白质和氨基酸的表观消化率[J].  \n水产学报,2007,31(增刊):116-121.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[28] REIGH R C,BRADEN S L,CRAIG R J.Apparent digestibility coefficients for common feedstuffs in formulated diets for red swamp crayfish,Procambarus clarkii[J].Aquaculture,1990,84(3/4):321-334. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[29] ANDERSON J,JACKSON A J,MATTY A J,et al.Effects of dietary carbohydrate and fibre on the tilapia Oreochromis niloticus (Linn.)[J].Aquaculture,1984,37(4):303-314. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[30] 钟国防,韩斌,华雪铭,等.暗纹东方鲀对几种蛋白质原料表观消化率及酶制剂对其消化能力的影响[J].上海海洋大学学报,2012,21(2):241-246.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[31]常青,梁萌青,王家林,等.花鲈对不同饲料原料的表观消化率[J].水生生物学报,2005,29(2):172-176.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[32] 姜光明,刘永贵,陈国风,等.异育银鲫对十种常用饲料原料离体消化率的测定[J].饲料工",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "业,2009,30(2):20-22. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[33] LAW A T.Digestibility of low-cost ingredients in pelleted feed by grass carp (Ctenopharyngodon idella C. et. V.)[J].Aquaculture,1986,51(2):97-103. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[34] 明建华,叶金云,张易祥,等.2 龄青鱼对7种饲料原料中营养物质的表观消化率[J].动物营养学报,2014,26(1):161-169.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[35] 梁丹妮,姜雪姣,刘文斌,等.建鲤对6种非常规蛋白质原料中营养物质的表观消化率[J].动物营养学报,2011,23(6):1065-1072.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[36] 姜雪姣,梁丹妮,刘文斌,等.团头鲂对8种非常规饲料原料中营养物质的表观消化率[J].水产学报,2011,35(6):932-939.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[37] BAI S C,CHOI S M,KIM K W,et al.Apparent protein and phosphorus digestibilities of five different dietary protein sources in Korean rockfish,Sebastes schlegeli (Hilgendorf)[J].Aquaculture Research,2001,32(1):99-105. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[38] 陈建明,王友慧,叶金云,等.黑鲷对10 种饵料原料的表观消化率[J].饲料博 览,2004(11):44-46. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[39] 王文娟.斜带石斑鱼、军曹鱼和凡纳滨对虾对常用饲料原料表观消化率的研究[D].硕士学位论文.湛江：广东海洋大学,2012:90.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[40] 周兴华,向枭,陈建.银鲈对六种饲料原料蛋白质和氨基酸的表观消化率的影响[J].粮食与饲料工业,2002(10):31-32.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Apparent Digestibility of 10 Kinds of Feed Ingredients for Bighead Carp (Aristichthys Nobilis) YU Han1GE Xianping1\\*SUN Shengming² ZHANG WuxiaolSU Yanli1 (1. Wuxi Fishery College, Nanjing Agricultural University, Wuxi 214081, China; 2. Key Laboratory of Freshwater Fisheries and Germplasm Resources Utilization, Ministry of   \nAgriculture,Freshwater Fisheries Research Center,Chinese Academy of Fishery Sciences, Wuxi ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "214081, China) ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the apparent digestibility of dry matter (DM),crude protein (CP),ether extract (EE)，gross energy (GE） and amino acids (AA） in domestic fish meal, distillers dried grains with solubles,rapeseed meal, rice bran, soybean meal, enzyme feather meal, cottonseed meal, wheat bran, corn gluten meal and peanut meal for bighead carp (Aristichthys Nobilis). The experimental diets were consisted of $70 \\%$ basal diet and $30 \\%$ test feed ingredients, and added $0 . 5 \\%$ （20 ${ \\bf Y } _ { 2 } { \\bf O } _ { 3 }$ as an exogenous indicator. Bighead carp with an average body weight of $( 2 9 0 . 0 2 { \\pm } 2 . 8 2 ) \\$ （20 $\\mathrm { \\bf { g } }$ were randomly divided into 1l groups with 3 replicates in each group and 1O fish in each replicate. The fish in randomly group were fed a basal diet, and the rest groups were fed one of ten test diets. The fecal samples were collected by instant siphonage method after feeding one week. The results showed as follows:1） the ranges of apparent digestibility of DM, CP,EE and GE in ten feed ingredients were $6 9 . 9 \\%$ to $8 5 . 7 \\%$ $7 3 . 5 \\%$ to $8 8 . 3 \\%$ （20 $8 1 . 2 \\%$ to $91 . 1 \\%$ and $8 1 . 9 \\%$ to $8 6 . 3 \\%$ . 2) In the ten feed ingredients,the rice bran had the highest apparent digestibility of GE,while the fish meal had the highest apparent digestibility of DM, CP and EE the lowest apparent digestibility of DM,EE and GE was found in enzyme feather meal, and the apparent digestibility of CP in corn gluten meal was the lowest. 3） The apparent digestibility of AA in all feed ingredients remained at $6 5 . 5 9 \\%$ to $9 9 . 1 7 \\%$ , and the wheat bran was low. It is concluded that fish meal shows the best utilization effects for Bighead carp,followed by peanut meal and soybean meal, while the apparent digestibility of CP in enzyme feather meal is the lowest, the apparent digestibility of AA in wheat bran is low. ",
+        "page_idx": 18
+    }
+]

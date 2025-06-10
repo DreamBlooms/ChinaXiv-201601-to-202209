@@ -1,0 +1,164 @@
+饲粮中添加香菇多糖对断奶大鼠生长性能、抗氧化能力和肠道健康的影响毛湘冰　陈代文　胡海燕　余　冰　古长松　何　军　虞　洁　罗钧秋　罗玉衡　郑　萍（四川农业大学动物营养研究所，动物抗病营养教育部重点实验室，成都 611130）
+
+摘要：本研究旨在探讨饲粮中添加香菇多糖对断奶大鼠生长性能、抗氧化能力和肠道健康的影响。试验选取20只健康的断奶Wistar大鼠，按照体重相近的原则分为2个组（每组10只)，分别饲喂基础饲粮和添加了 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖（香菇多糖有效含量为 $30 \%$ ）的试验饲粮。试验期为21d。结果表明：饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖显著提高了断奶大鼠的平均日增重和平均日采食量（ $. P { < } 0 . 0 5 \$ )，显著降低了料重比（ $P { < } 0 . 0 5$ ；饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖显著提高了断奶大鼠血清和空肠的总抗氧化能力（ $P { < } 0 . 0 5 \$ )，不同程度降低了血清（ $P { < } 0 . 0 5$ ）和空肠（ $\scriptstyle \cdot = 0 . 0 8$ ）丙二醛含量；饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖显著提高了断奶大鼠空肠黏膜绒毛高度和绒毛高度/隐窝深度 ( $( P { < } 0 . 0 5 )$ ；此外，饲粮添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖提高了断奶Wistar大鼠盲肠食糜中乳酸菌的数量（ $_ { \scriptstyle P = 0 . 0 7 }$ )，显著降低了盲肠食糜中大肠杆菌的数量（ $P { < } 0 . 0 5 \rangle$ ，并显著提高了盲肠食糜中乙酸、丙酸、丁酸和总挥发性脂肪酸的含量（ $P { < } 0 . 0 5$ )。综上所述，在断奶大鼠饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖(香菇多糖有效含量为 $30 \%$ ）
+
+可以改善其抗氧化能力、空肠黏膜形态结构和盲肠菌群结构，进而提高生长性能。
+
+关键词：香菇多糖；断奶大鼠；生长性能；抗氧化能力；肠道健康中国分类号：S816 文献标识码：A 文章编号：
+
+香菇多糖（lentinan）是从蘑菇、香菇中提取而来的一种含支链分子的多糖，其包含β-1,3-D-主链和2条 $\beta$ -D-1,3-和 $\beta$ -D-1,6-支链的葡聚糖，且还含有很少部分的内置 $\beta$ -D-1,6-链[-2]。近年的大量体内外研究表明，香菇多糖具有调节机体诸多生理功能的作用，而关于香菇多糖调节机体生理功能的研究主要集中于其对免疫功能和抗氧化功能的调节方面（即其可改善动物和人体的免疫功能和抗氧化能力)，这些研究表明香菇多糖具有增强机体的抗性，发挥抗病毒、细菌和寄生虫感染及抗肿瘤，进而发挥维持和改善机体健康的作用[3-8]。除了免疫功能和抗氧化能力外，肠道也是维持和改善机体健康的重要影响因素。但是，关于香菇多糖对肠道健康影响的研究还很少，仅VanNevel等9研究了饲粮中添加 $0 . 1 \%$ 香菇提取物（香菇多糖有效含量为 $2 5 \%$ ）和 $5 \%$ 香菇粉（有效成分含量未知）对断奶仔猪肠道健康的影响，但二者的作用效果存在较大的差异。因此，本试验通过在饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖（香菇多糖有效含量为 $30 \%$ )，研究其对断奶大鼠生长性能、抗氧化能力、空肠黏膜形态结构和盲肠菌群结构的影响，以期为在生产中将香菇多糖应用于改善幼龄动物健康状况，促进其生长提供理论支持和试验支撑。
+
+1材料与方法
+
+# 1.1 试验材料
+
+香菇多糖：购自于四川恒瑞通达生物科技有限公司，产品中香菇多糖有效含量为 $30 \%$ 以上。
+
+# 1.2 试验动物与试验设计
+
+试验选取20只平均体重约为 $7 5 . 4 3 ~ \mathrm { g }$ 健康的21日龄断奶Wistar大鼠（成都达硕实验动物有限公司提供)，将大鼠按照体重相近的原则随机分为2组，每组10个重复，每个重复1只大鼠。对照组和香菇多糖组分别饲喂基础饲粮和试验饲粮，试验期为21d。基础饲粮采用AIN-93G大鼠纯化饲粮标准，交由成都达硕实验动物有限公司配制，其组成及营养水平见表1。试验饲粮是以 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖等量替代基础饲粮中玉米淀粉配制而成。试验在四川农业大学动物营养研究所教学科研基地完成，试验大鼠采用单笼饲养，常规饲养管理，自然采光、通风，自由采食、饮水。
+
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米淀粉 Corn starch</td><td>39.748 6</td></tr><tr><td>酪蛋白（粗蛋白质>85%）Casein（CP>85%）</td><td>20.000 0</td></tr><tr><td>玉米淀粉糊精 Dextrinized cornstarch</td><td>13.200 0</td></tr><tr><td>蔗糖 Sucrose</td><td>10.000 0</td></tr><tr><td>大豆油（无添加剂）Soybean oil（no additives）</td><td>7.000 0</td></tr><tr><td>纤维素Fiber</td><td>5.000 0</td></tr><tr><td>矿物元素混合物Mineralmixturel)</td><td>3.500 0</td></tr><tr><td>维生素混合物Vitamin mixture2)</td><td>1.000 0</td></tr><tr><td>L-半胱氨酸L-Cys</td><td>0.300 0</td></tr><tr><td>重酒石酸胆碱（41.1%胆碱）Choline bitartrate（41.1% choline）</td><td>0.250 0</td></tr><tr><td>特丁基对苯二酚 Tert-butylhydroquinone</td><td>0.001 4</td></tr><tr><td>合计 Total</td><td></td></tr><tr><td>营养水平 Nutrientlevels3)</td><td>100.000 0</td></tr><tr><td>代谢能 ME/（MJ/kg）</td><td></td></tr><tr><td>粗蛋白质CP</td><td>16.62</td></tr><tr><td>纤维素Fiber</td><td>18.70</td></tr><tr><td>粗脂肪 EE</td><td>5.00</td></tr><tr><td>碳水化合物 Carbohydrate</td><td>7.00 64.70</td></tr></table></body></html>
+
+1)每千克矿物元素混合物含有 Contained the following per $\mathbf { k g }$ of mineral mixture: $\mathrm { C a C O _ { 3 } } 3 5 7 . 0 0 0 0 0 { \mathrm { g } } .$ （号 KHPO4 196.00 00 g，C6H9K3Og 70.780 00 g，NaCl 74.000 00 g， K2SO4 46.6000 0 g，MgO 24.000 00 g, FeC6H5O7 6.060 00 g, $\mathrm { Z n C O } _ { 3 }$ 1.650 00 g,MnCO3 0.630 00 g,CuCO3 0.300 00 g,KIO3 0.010 00 g, $\mathrm { N a } _ { 2 } \mathrm { S e O } _ { 4 }$ 0.010 25 g，(NH4)6M07O24·4HO 0.007 95 g，Na2SiO3·9HO $1 . 4 5 0 0 0 \ \mathrm { g }$ ， $\mathrm { C r K ( S O _ { 4 } ) _ { 2 } } { \cdot } 1 2 \mathrm { H } _ { 2 } \mathrm { O } \ 0 . 2 7 5 \ 0 0 \ \mathrm { g }$ ，LiCl 0.017 40 g，H3BO3 0.08150 g, $\mathrm { N a F 0 } . 0 6 3 5 0 \mathrm { g }$ ， $\mathrm { N i C O _ { 3 } } 0 . 0 3 1 8 0 \mathrm { g }$ ， $\mathrm { H _ { 4 } N O _ { 3 } V 0 . 0 0 6 6 0 \ g }$ ，蔗糖粉 powdered sucrose （204号 $2 2 1 . 0 2 6 0 0 { \mathrm { g } } .$
+
+2)每千克维生素混合物含有 Contained the following per $\mathbf { k g }$ of vitamin mixture: $D$ 泛酸钙 $D$ -calciumpantothenate $1 . 6 0 0 ~ \mathrm { g }$ ，维生素 $\mathbf { B } _ { 6 }$ 盐酸盐pyridoxine hydrochloride $0 . 7 0 0 \mathrm { g }$ ，烟酸 nicotinic acid $3 . 0 0 0 \ \mathrm { g }$ ，维生素 $\mathbf { B } _ { 1 }$ 盐酸盐 thiamine hydrochloride $0 . 6 0 0 \mathrm { g }$ ， $\mathbf { V B } _ { 2 } 0 . 6 0 0 \mathbf { g }$ ，叶酸 folic acid $0 . 2 0 0 \mathrm { g }$ ， $D .$ 生物素 $D$ -biotin 0.020g， $\mathrm { V B } _ { 1 2 } 2 . 5 0 0 \mathrm { g }$ ，VE（ $5 0 0 \mathrm { I U / g }$ ） $1 5 . 0 0 0 \ \mathrm { g }$ ，VA( $\mathrm { 5 0 0 0 0 0 0 0 / g }$ ） $0 . 8 0 0 \mathrm { g }$ ， $\mathrm { V D } _ { 3 }$ ? $\mathrm { \dot { \Omega } 4 0 0 0 0 0 0 \Omega U / g }$ ） $0 . 2 5 0 ~ \mathrm { g }$ VK $0 . 0 7 5 \mathrm { g }$ ，蔗糖粉 powdered sucrose $9 7 4 . 6 5 5 \ \mathrm { g }$ 。
+
+3)营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.3测定指标及方法
+
+# 1.3.1生长性能
+
+以重复为单位，于试验第1天和第22天对所有的大鼠进行空腹称重，并记录每日采食量，用于计算大鼠的平均日采食量（ADFI）、平均日增重（ADG）和料重比（F/G)。
+
+# 1.3.2样品采集
+
+于试验第22天称重后，对所有大鼠进行眼球摘除采血，将采集的血液置于离心管中，低温下静置 $3 0 ~ \mathrm { m i n }$ ， $3 \ 0 0 0 \ \mathrm { r / m }$ 离心 $1 5 ~ \mathrm { m i n }$ 制备血清，于 $- 2 0 \mathrm { ~ \textdegree C }$ 保存备用。采血后，对大鼠采用脊椎脱白法处死，迅速分离大鼠肠段，取 $3 \mathrm { c m }$ 空肠肠段于 $10 \%$ 中性福尔马林液中固定;并取空肠肠段的组织样品和盲肠食糜，于-80℃保存备用。
+
+# 1.3.3血清和空肠中抗氧化指标
+
+大鼠空肠组织样品的前处理参考汤俊等[0]的方法进行。血清和空肠中丙二醛（malondialdehyde,MDA）含量和总抗氧化能力（total antioxidant capacity,T-AOC）均采用南京建成生物工程研究所生产的试剂盒（货号分别为A003-1和A015-1）测定，所有的操作均按照说明书进行。
+
+1.3.4空肠黏膜形态结构
+
+大鼠空肠黏膜形态结构（绒毛高度、隐窝深度和绒毛高度/隐窝深度）的测定参考 Mao等[的方法进行。
+
+1.3.5盲肠食糜中菌群数量和挥发性脂肪酸（volatile fattyacids,VFA）含量
+
+大鼠盲肠食糜中菌群（总菌、乳酸菌、双歧杆菌和大肠杆菌）数量的测定参考Mao 等[12]的方法进行，盲肠食糜中VFA（乙酸、丙酸和丁酸和总VFA）含量的测定参考Diao 等[13]的方法进行。
+
+# 1.4数据处理与分析
+
+试验数据采用 Excel 2003 进行初步整理，所有测定结果以每只大鼠为统计单位，采用SAS 8.1软件进行 $t$ 检验，以 $P { < } 0 . 0 5$ 为差异显著， $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ 为差异有显著趋势， $P { \geq } 0 . 1 0$ 为差异不显著。数据以“平均值±标准误”表示。
+
+2结果
+
+2.1饲粮中添加香菇多糖对断奶大鼠生长性能的影响
+
+从表2中可以看出，与饲喂基础饲粮的大鼠相比，饲喂添加香菇多糖饲粮的大鼠的ADFI和 ADG分别提高了 $1 4 . 1 0 \%$ （ $_ { . } P { < } 0 . 0 5 )$ 和 $3 6 . 3 6 \%$ （ $P { < } 0 . 0 5 \$ )，而F/G 降低了 $1 5 . 8 4 \%$ （ $P { < } 0 . 0 5 \$ ）°
+
+# 表2饲粮中添加香菇多糖对断奶大鼠生长性能的影响
+
+Table 2Effects of lentinan supplementation on growth performance of weaned rats $( n { = } 1 0 )$   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>香菇多糖组</td><td>P值</td></tr><tr><td>Items</td><td>Control group</td><td>Lentinan group</td><td>P-value</td></tr></table></body></html>
+
+<html><body><table><tr><td>平均日采食量 ADFI/g</td><td>10.00±0.34</td><td>11.41±0.36</td><td><0.05</td></tr><tr><td>平均日增重 ADG/g</td><td>2.97±0.15</td><td>4.05±0.22</td><td><0.05</td></tr><tr><td>料重比F/G</td><td>3.41±0.10</td><td>2.87±0.10</td><td><0.05</td></tr></table></body></html>
+
+2.2饲粮中添加香菇多糖对断奶大鼠血清和空肠中抗氧化指标的影响
+
+从表3中可以看出，与饲喂基础饲粮的大鼠相比，饲喂添加香菇多糖饲粮的大鼠的血清和空肠中 T-AOC 分别提高了 $2 0 3 . 5 5 \%$ （ $_ { P < 0 . 0 5 ) }$ 和 $4 1 . 1 2 \%$ （ $\scriptstyle \cdot { P < 0 . 0 5 }$ )，而血清和空肠中MDA含量分别降低了 $6 7 . 1 8 \%$ ( $_ { \cdot \cdot P < 0 . 0 5 }$ ）和 $1 5 . 2 2 \%$ ( $_ { \cdot \cdot P = 0 . 0 8 ) }$ 。
+
+Table 3Effects of lentinan supplementation on antioxidant indices in jejunum and serum of weaned rats $( n { = } 1 0 )$ ）   
+
+<html><body><table><tr><td>项目</td><td>对照组 Control group</td><td>香菇多糖组 Lentinan group</td><td>P值 P-value</td></tr><tr><td>Items 血清 Serum</td><td></td><td></td><td></td></tr><tr><td>总抗氧化能力 T-AOC/(U/mL)</td><td>1.41±0.14</td><td>4.28±0.54</td><td><0.05</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>10.94±1.19</td><td>3.59±0.57</td><td><0.05</td></tr><tr><td>空肠Jejunum</td><td></td><td></td><td></td></tr><tr><td>总抗氧化能力 T-AOC/(U/mg prot)</td><td>1.97±0.23</td><td>2.78±0.04</td><td><0.05</td></tr><tr><td>丙二醛 MDA/(nmol/ mg prot)</td><td>0.92±0.07</td><td>0.78±0.05</td><td>0.08</td></tr></table></body></html>
+
+2.3饲粮中添加香菇多糖对断奶大鼠空肠黏膜形态结构的影响
+
+从表4中可以看出，与饲喂基础饲粮的大鼠相比，饲喂添加香菇多糖饲粮的大鼠的空肠黏膜绒毛高度和绒毛高度/隐窝深度显著提高（ $P { < } 0 . 0 5 )$ ，但空肠黏膜隐窝深度无显著变化（ $\scriptstyle ( P = 0 . 3 1 )$ 。
+
+表3饲粮中添加香菇多糖对断奶大鼠空肠和血清中抗氧化指标的影响  
+表4饲粮中添加香菇多糖对断奶大鼠空肠黏膜形态结构的影响  
+Table 4Effects of lentinan supplementation on jejunal mucosal morphology of weaned rats   
+
+<html><body><table><tr><td colspan="4">(n=10)</td></tr><tr><td>项目</td><td>对照组</td><td>香菇多糖组</td><td>P值</td></tr><tr><td>Items</td><td>Control group</td><td>Lentinan group</td><td>P-value</td></tr><tr><td>绒毛高度 Villus height/um</td><td>812.73±140.03</td><td>1 143.53±99.02</td><td><0.05</td></tr><tr><td>隐窝深度 Crypt depth/μm</td><td>211.78±32.32</td><td>246.26±22.86</td><td>0.31</td></tr><tr><td>绒毛高度/隐窝深度 Vilus height/crypt depth</td><td>3.84±0.19</td><td>4.66±0.14</td><td><0.05</td></tr></table></body></html>
+
+2.4饲粮中添加香菇多糖对断奶大鼠盲肠食糜中菌群数量的影响
+
+从表5中可以看出，与饲喂基础饲粮的大鼠相比，饲喂添加香菇多糖饲粮的大鼠盲肠食糜中乳酸菌数量有提高的趋势（ $scriptstyle \cdot { \cal P } = 0 . 0 7 .$ )，且大肠杆菌数量显著降低（ $_ { . P < 0 . 0 5 ) }$ ，但双歧杆菌（ $\scriptstyle P = 0 . 4 1$ ）和总菌的数量（ $scriptstyle \cdot { P = } 0 . 1 1$ ）无显著变化。
+
+表5饲粮中添加香菇多糖对断奶大鼠盲肠食糜中菌群数量的影响
+
+Table 5Effects of lentinan supplementation on microflora number in cecal digesta of weaned rats $( n { = } 1 0 )$ 1 lg(copies/g)   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>香菇多糖组 Lentinan group</td><td>P值 P-value</td></tr><tr><td>乳酸菌Lactobacillus</td><td>7.34±0.14</td><td>7.92±0.12</td><td>0.07</td></tr><tr><td>双歧杆菌Bifidobacterium</td><td>8.03±0.16</td><td>8.23±0.16</td><td>0.41</td></tr><tr><td>大肠杆菌 Escherichia coli</td><td>8.75±0.21</td><td>7.89±0.13</td><td><0.05</td></tr><tr><td>总菌Totalbacteria</td><td>10.76±0.16</td><td>10.51±0.06</td><td>0.11</td></tr></table></body></html>
+
+2.5饲粮中添加香菇多糖对断奶大鼠盲肠食糜中VFA含量的影响
+
+从表6中可以看出，与饲喂基础饲粮的大鼠相比，饲喂添加香菇多糖饲粮的大鼠盲肠食糜中乙酸、丙酸、丁酸和总VFA含量均显著增加（ $_ { . } { \cal P } { < } 0 . 0 5 )$ 。
+
+表6饲粮中添加香菇多糖对断奶大鼠盲肠食糜中VFA含量的影响  
+Table 6Effects of lentinan supplementation on VFA contents in cecal digesta of weaned rats   
+
+<html><body><table><tr><td colspan="4">(n=10) mg/g</td></tr><tr><td>项目 Items</td><td>对照组 Control group</td><td>香菇多糖组 Lentinan group</td><td>P值 P-value</td></tr><tr><td>乙酸 Acetate</td><td>4.58±1.43</td><td>14.29±1.00</td><td><0.05</td></tr><tr><td>丙酸 Propionate</td><td>2.57±0.51</td><td>5.13±0.25</td><td><0.05</td></tr><tr><td>丁酸Butyrate</td><td>1.03±0.22</td><td>2.60±0.18</td><td><0.05</td></tr><tr><td>总挥发性脂肪酸Total VFA</td><td>8.19±2.15</td><td>22.10±1.29</td><td><0.05</td></tr></table></body></html>
+
+近年的研究表明，饲粮中添加香菇多糖可显著提高断奶仔猪[4]和肉仔鸡[14-15]的生长性能。本试验结果表明，断奶大鼠饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖也可显著提高其ADFI和ADG,并显著降低其F/G，促进了断奶大鼠的生长。已有的大量体内外研究发现，香菇多糖可通过调节动物和人机体的免疫功能和抗氧化能力，进而增强机体的抗性[3-8]。而本试验中也发现，饲粮添加香菇多糖可提高断奶大鼠血清和肠道的抗氧化能力。因此，对免疫功能和抗氧化能力的调节作用可能是香菇多糖改善动物生长性能的重要因素。
+
+除了机体免疫功能和抗氧化能力外，肠道功能也是影响动物生长的重要因素之一。其中，肠道黏膜形态结构（包括肠道绒毛高度和隐窝深度）不仅与营养物质的消化吸收密切相关，且是肠道物理屏障功能的重要组成部分[16-17]。Van Nevel等[9]在断奶仔猪饲粮中添加 $5 . 0 \%$ 香菇粉（有效成分含量未知）后提高了空肠的绒毛高度和绒毛高度/隐窝深度，但是 $0 . 1 \%$ 的香菇提取物（香菇多糖有效含量为 $2 5 \%$ ）却未得到类似的结果。本试验结果表明，饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖提高了断奶大鼠空肠绒毛高度和绒毛高度/隐窝深度。这些研究结果可在一定程度上说明，饲粮中添加香菇多糖改善动物（包括大鼠）的生长性能可能与其改善空肠黏膜形态结构有关，而香菇多糖的补充形式和添加剂量是其发挥效果的影响因素。
+
+Van Nevel等的研究表明，饲粮中添加香菇粉可提高断奶仔猪空肠黏膜绒毛高度和绒毛高度/隐窝深度，这与香菇粉降低了空肠黏膜绒毛细胞的凋亡指数有关。而组织细胞的氧化还原状态可在一定程度上影响细胞凋亡[18]。本试验结果发现，饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖可提高断奶大鼠血清和空肠中T-AOC，且降低血清和空肠中MDA的含量。综合本试验与前人的研究结果可知，香菇多糖可能是通过提高组织抗氧化能力，降低绒毛细胞凋亡，进而改善了受试动物的空肠黏膜形态结构。
+
+近年的大量研究表明，肠道微生物对人和动物机体的健康发挥着重要的作用[19-20]。本试验结果表明，饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖会显著降低断奶大鼠盲肠食糜中大肠杆菌的数量，有提高乳酸菌数量的趋势。据此可以推测肠道微生物组成的变化可能也是香菇多糖调节断奶大鼠生长的重要因素之一。但是，Van Nevel等[9在断奶仔猪饲粮中添加 $5 \%$ 香菇粉（有效成分含量未知）或 $0 . 1 \%$ 的香菇提取物（香菇多糖有效含量为 $2 5 \%$ ）显著降低了空肠食糜和黏膜中各种菌群（包括大肠杆菌、乳酸菌和链球菌）的数量。这与本试验中的结果存在一定的差异，这些差异可能源于香菇多糖的添加量，即饲粮中香菇多糖添加剂量过多会同时降低有害菌群和有益菌群的数量；而添加剂量较少时，会促进有益菌群的生长，抑制有害菌群生长。
+
+作为肠道菌群产生的非直接营养物质，VFA 在调节肠道健康方面有着重要的作用，这体现在其对肠道屏障功能的全面调节：1)VFA 能促进机体肠上皮细胞增殖，增加肠道DNA、RNA 和蛋白质的含量，进而促进肠道绒毛生长[21-22]；2）VFA 能降低肠道pH，维持肠道微生态配合[23]；3）VFA可调控肠上皮细胞黏蛋白的表达，促进细胞间紧密连接蛋白重新整合[24-25]；4）VFA 可缓解LPS 诱导的细胞炎性反应，降低促炎性因子的表达[26]。而本研究的结果表明，饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖显著提高了盲肠食糜中乙酸、丙酸、丁酸和总VFA的含量。那么，可推测香菇多糖可调节空肠黏膜形态结构和盲肠食糜中菌群数量至少部分与其提高了肠道中VFA 含量有关。
+
+4结论
+
+在断奶大鼠饲粮中添加 $8 4 ~ \mathrm { m g / k g }$ 香菇多糖（香菇多糖有效含量为 $30 \%$ ）可以改善其抗氧化能力、空肠黏膜形态结构和盲肠菌群结构，进而提高生长性能。
+
+参考文献： [1]DENNERT G,TUCKER D.Antitumor polysaccharide lentinan.A Tcel adjuvant[J].Journal of the National Cancer Institute,1973,51(5):1727-1729.
+
+[2] SASAKI T,TAKASUKA N.Further study of the structure of lentinan,an anti-tumor polysaccharide from Lentinus edodes[J].Carbohydrate Research,1976,47(1):99-104.
+
+[3]KUPFAHL C,GEGINAT G,HOF H.Lentinan has a stimulatory effect on innate and adaptive immunity against murine Listeria monocytogenes infection[J].International Immunopharmacology,2006,6(4):686-696.   
+[4] 薛凌峰.香菇多糖对仔猪生产性能、免疫功能及抗氧化能力影响的研究[D].硕士学位论 文.保定:河北农业大学,2008.   
+[5]GUO Z H,HU Y L,WANG D Y,et al.Sulfated modification can enhance the adjuvanticity of lentinan and improve the immune effect of ND vaccine[J].Vaccine,20o9,27(5):660-665.   
+[6]HAO T,WANG Y M,LI J J,et al.Effect of lentinan against immunosuppression of lymphocytes cultured in simulated microgravity environment[J].Journal of Experimental Hematol0gy,2012,20(1):182-186.   
+[7]NISHITANI Y,ZHANG L,YOSHIDA M,et al.Intestinal anti-inflammatory activity of lentinan:influence on IL-8 and TNFR1 expression in intestinal epithelial cells[J].PLoS One,2013,8(4):e62441.   
+[8]DEL BUONO A,BONUCCI M,PUGLIESE S,et al.Polysaccharide from Lentinus edodes for integrative cancer treatment:immunomodulatory effects on lymphocyte population[J].World Cancer Research Journal,2016,3(1):e652.   
+[9]VAN NEVEL C J,DECUYPERE J A,DIERICK N,et al.The influence of Lentinus edodes (Shitake mushroom) preparations on bacteriological and morphological aspects of the small intestine in piglets[J].Archives of Animal Nutrition,2003,57(6):399-412.   
+[10]汤俊,王爱娜,陈代文,等.饲粮中添加鼠李糖乳酸杆菌GG 缓解轮状病毒感染诱导仔猪氧 化应激的研究[J].动物营养学报,2015,27(6):1787-1793.   
+[11]MAO X B,LIU M H,TANG J,et al.Dietary leucine supplementation improves the mucin production in the jejunal mucosa of the weaned pigs challnged by porcine rotavirus[J].PLoS One,2015,10(9):e0137380.   
+[12]MAO X B,GU C S,HU H Y,et al.Dietary Lactobacillus rhamnosus GG supplementation improves the mucosal barrier function in the intestine of weaned piglets challenged by porcine rotavirus[J].PLoS One,2016,11(1):e0146312.
+
+[13]DIAO H,ZHENG P,YU B,et al.Effects of benzoic acid and thymol on growth performance and gut characteristics of weaned piglets[J].Asian Australasian Journal of Animal Sciences,2015,28(6):827-839.
+
+[14]谢红兵,常新耀,苗志国,等.香菇多糖对肉仔鸡生产性能及免疫器官的影响[J].贵州农业 科学,2011,39(9):149-151.   
+[15] 楼月琴,杨菲菲.香菇多糖对肉鸡生长性能的影响研究[J].黑龙江畜牧兽 医,2007(10):53-54.   
+[16]CHEN H,MAO X B,HE J,et al.Dietary fibre affects intestinal mucosal barrier function and regulatesintestinalbacteriainweaningpiglets[J].BritishJournal of Nutrition,2013,110(10):1837-1848.   
+[17]MAO X,ZENG X,QIAO S,et al.Specific roles of threonine in intestinal mucosal integrity and barrier function[J].Frontiers in Bioscience,2011,3:1192-1200.   
+[18]NAKKA V P,PRAKASH-BABU P,VEMUGANTI R.Crosstalk between endoplasmic reticulum stress,oxidative stress,and autophagy:potential therapeutic targets for acute CNS injuries[J].Molecular Neurobiology,2016,53(1):532-544.   
+[19] SEKIROV I,RUSSELL S L,ANTUNES L C,et al.Gut microbiota in health and disease[J].Physiological Reviews,2010,90(3):859-904.   
+[20]KELLY C J,ZHENG L,CAMPBELL E L,et al.Crosstalk between microbiota-derived short-chain fatty acids and intestinal epithelial HIF augments tissue barrier function[J].Cell Host & Microbe,2015,17(5):662-671.   
+[21]KRIPKE A S,FOX A D,BERMAN J M,et al.Stimulation of intestinal mucosal growth with intracolonic infusion of short-chain fatty acids[J].Journal of Parenteral and Enteral Nutrition,1989,13(2):109-116.   
+[22]DRUCKER D J,ERLICH P,ASA S L,et al.Induction of intestinal epithelial proliferation by glucagon-like peptide 2[J].Proceedings of the National Academy of Sciences of the United States of America,1996,93(15):7911-7916.   
+[23]DUNCAN S H,LOUIS P,THOMSON J M,et al.The role of $\mathrm { p H }$ in determining the species composition of the human colonic microbiota[J].Environmental Microbiology,2009,11(8):2112-2122.   
+[24]BURGER-VAN PAASSEN N,VINCENT A,PUIMAN P J,et al.The regulation of intestinal mucinMUC2expression byshort-chain fattyacids:implicationsforepithelial protection[J].Biochemical Journal,2009,420(2):211-219.   
+[25]ELAMIN E E,MASCLEE A A,DEKKER J,et al.Short-chain fatty acids activate AMP-activated protein kinase and ameliorate ethanol-induced intestinal barrier dysfunction in Caco-2 cell monolayers[J].Journal of Nutrition,2013,143(12):1872-1881.   
+[26]IRAPORDA C,ERREA A,ROMANIN D E,et al.Lactate and short chain fatty acids produced by microbial fermentation downregulate proinflammatory responses in intestinal epithelial cells and myeloid cels[J].Immunobiology,2015,220(10):1161-1169.   
+Effects of Lentinan Supplementation on Growth Performance, Antioxidant Capacity and Intestinal Health of Weaned Rats   
+MAO Xiangbing CHEN Daiwen HUHaiyan YU Bing GU Changsong HE Jun YU Jie LUO Junqiu LUO Yuheng ZHENG Ping (Institute of Animal Nutrition, Sichuan Agricultural University, Key Laboratory for Animal Disease-Resistance Nutrition of Ministry of Education, Chengdu 611130, China)   
+Abstract: This experiment was conducted to determine the effects of lentinan supplementation on   
+growth performance,antioxidant capacity and intestinal health of weaned rats. Twenty healthy   
+weaned Wistar rats, based on the similar body weight, were randomly assigned to two group with   
+each group has 1O rats. The rats in those two groups were fed a basal diet and a experimental diet   
+supplementing $8 4 ~ \mathrm { m g / k g }$ lentinan (the effective content of lentinan was $30 \%$ ). The experiment   
+duration was 21 d. The results showed that diet supplemented with $8 4 ~ \mathrm { m g / k g }$ lentinan significantly   
+increased average daily gain and average daily feed intake $( P { < } 0 . 0 5 )$ , and significantly decreased   
+feed to gain ratio of weaned rats( $( P { < } 0 . 0 5 )$ .Diet supplemented with $8 4 \mathrm { \ m g / k g }$ lentinan   
+significantly enhanced the total antioxidant capacity in serum and jejunum $( P { < } 0 . 0 5 )$ , and reduced
+
+the malondialdehyde content in serum ( $( P { < } 0 . 0 5 )$ and jejunum ( $\scriptstyle \overbrace { P = 0 . 0 8 } ^ { } ,$ of weaned rats in different degrees.Diet supplemented with $8 4 ~ \mathrm { m g / k g }$ lentinan also significantly increased the villus height and the villus height/crypt depth of jejunum of weaned rats $( P { < } 0 . 0 5 )$ ．In addition，diet supplemented with $8 4 \mathrm { \ m g / k g }$ lentinan increased the Lactobacillus number in cecal digesta （2号 $( P { = } 0 . 0 7 )$ ，significantly reduce the Escherichia coli number in cecal digesta $( P { < } 0 . 0 5 )$ ，and significantly increased the contents of acetate, propionate, butyrate and total volatile fatty acids in cecal digesta of weaned rats ( $( P { < } 0 . 0 5 )$ . These results suggest that diet supplemented with $8 4 ~ \mathrm { m g / k g }$ lentinan can improve the antioxidant capacity, jejunal mucosal morphology and cecal microbiota structure,and then increase the growth performance of weaned rats. Key words: lentinan; weaned rats; growth performance; antioxidant capacity; intestinal health

@@ -1,0 +1,1309 @@
+[
+    {
+        "type": "text",
+        "text": "The first data release (DR1) of the LAMOST regular survey ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This content has been downloaded from lOPscience.Please scroll down to see the fulltext. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2015 Res.Astron.Astrophys.15 1095 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(http://iopscience.iop.0rg/1674-4527/15/8/1095) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "View the table of contents for this issue,or go to the journal homepage for more ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Download details: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IP Address:159.226.171.21   \nThis content was downloaded on 05/05/2016 at 08:39 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Please note that terms and conditions apply. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The first data release (DR1) of the LAMOST regular survey ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A-Li Luo1, Yong-Heng Zhao1,Gang Zhao1,Li-Cai Deng1, Xiao-Wei Liu5, Yi-Peng Jing4, Gang Wang1,Hao-Tong Zhang1, Jian-Rong $\\mathrm { \\Delta \\ S h i ^ { \\mathrm { 1 } } }$ , Xiang-Qun $\\mathrm { C u i ^ { 2 } }$ , Yao-Quan $\\mathrm { { C h u } ^ { 3 } }$ ， Guo-Ping $\\mathrm { L i ^ { 2 } }$ , Zhong-Rui Bai1, Yue $\\mathrm { \\Delta W u ^ { 1 } }$ , Yan Cai1, Shu-Yun Cao1, Zi-Huang $\\mathrm { C a o ^ { 1 } }$ ， Jeffrey L. Carlin7,8,Hai-Yuan Chen², Jian-Jun Chen1,Kun-Xin Chen²,Li Chen4, Xue-Lei Chen1,Xiao-Yan Chen1,Ying Chen1,Norbert Christlieb9, Jia-Ru $\\mathrm { { C h u ^ { 3 } } }$ , Chen-Zhou $\\mathrm { { C u i } ^ { 1 } }$ Yi-Qiao Dong1, Bing $\\mathrm { D u ^ { 1 } }$ ,Dong-Wei Fan1,Lei Feng1, Jian-Ning $\\mathrm { F u ^ { 6 } }$ ,Peng $\\mathrm { G a o ^ { 1 } }$ ， Xue-Fei Gong², Bo-Zhong $\\mathrm { G u ^ { 2 } }$ , Yan-Xin Guo1, Zhan-Wen Han10, Bo-Liang $\\mathrm { H e ^ { 1 } }$ ， Jin-Liang $\\mathrm { H o u ^ { 4 } }$ , Yong-Hui Hou²,Wen Hou1,Hong-Zhuan $\\mathrm { H u ^ { 3 } }$ ,Ning-Sheng $\\mathrm { H u ^ { 2 } }$ ， Zhong-Wen $\\mathrm { H u ^ { 2 } }$ , Zhi-Ying Huo1,Lei $\\mathrm { J i a ^ { 1 } }$ ,Fang-Hua Jiang², Xiang Jiang², Zhi-Bo Jiang², Ge $\\mathrm { J i n ^ { 3 } }$ , Xiao $\\mathrm { K o n g ^ { 1 } }$ ， $\\mathrm { { X u } ~ K o n g ^ { 3 } }$ , Ya-Juan Lei1, Ai-Hua $\\mathrm { L i ^ { 2 } }$ , Chang-Hua $\\mathrm { L i ^ { \\mathrm { 1 } } }$ , Guang-Wei $\\mathrm { L i ^ { \\mathrm { 1 } } }$ , Hai-Ning $\\mathrm { L i ^ { \\mathrm { 1 } } }$ , Jian $\\mathrm { L i ^ { \\mathrm { 1 } } }$ ,Qi $\\mathrm { L i ^ { \\mathrm { 1 } } }$ , Shuang $\\mathrm { L i ^ { \\mathrm { 1 } } }$ ,Sha-Sha $\\mathrm { L i ^ { \\mathrm { 1 } } }$ , Xin-Nan $\\mathrm { L i ^ { 2 } }$ ,Yan $\\mathrm { L i ^ { 4 } }$ Yin-Bi $\\mathrm { L i ^ { \\mathrm { 1 } } }$ ,Ye-Ping $\\mathrm { L i ^ { 2 } }$ , Yuan Liang1, Chien-Cheng $\\mathrm { L i n ^ { 4 } }$ ,Chao $\\mathrm { L i u ^ { 1 } }$ , Gen-Rong Liu², Guan-Qun $\\mathrm { L i u ^ { 2 } }$ , Zhi-Gang $\\mathrm { L i u ^ { 3 } }$ ,Wen-Zhi $\\mathrm { L u ^ { 2 } }$ , Yu Luo1, Yin-Dun Mao4,Heidi Newberg7, Ji-Jun $\\mathrm { N i ^ { 2 } }$ , Zhao-Xiang $\\mathrm { Q i ^ { 4 } }$ , Yong-Jun $\\mathrm { Q i ^ { 2 } }$ , Shi-Yin Shen4, Huo-Ming $\\mathrm { \\Delta \\ S h i ^ { \\mathrm { 1 } } }$ , Jing Song1, Yi-Han Song1, Ding-Qiang $\\mathrm { S u ^ { 2 } }$ ,Hong-Jun $\\mathrm { S u ^ { 1 } }$ , Zheng-Hong Tang4, Qing-Sheng Tao², Yuan Tian1, Dan $\\mathrm { W a n g ^ { 1 } }$ , Da-Qi Wang1,Feng-Fei Wang1,Guo-Min Wang2,Hai Wang2, Hong-Chi Wang11, Jian $\\mathrm { W a n g ^ { 3 } }$ , Jia-Ning Wang2,Jian-Ling Wang1, Jian-Ping Wang3, Jun-Xian $\\mathrm { W a n g ^ { 3 } }$ ,Lei Wang²,Meng-Xin Wang1, Shou-Guan Wang1, Shu-Qing Wang1, Xia Wang1, Ya-Nan Wang², You Wang², Yue-Fei Wang², You-Fen Wang1, Peng Wei1, Ming-Zhi Wei1,Hong $\\mathrm { \\Delta W u ^ { 1 } }$ ,Ke-Fei $\\mathrm { \\Delta W u ^ { 1 } }$ , Xue-Bing $\\mathrm { \\Delta W u ^ { \\mathrm { 5 } } }$ , Yu-Zhong $\\mathrm { \\Delta W u ^ { 1 } }$ , Xiao-Zheng $\\mathrm { X i n g ^ { 3 } }$ ,Ling-Zhe $\\mathrm { { X u ^ { 2 } } }$ , Xin-Qi $\\mathrm { { X u ^ { 2 } } }$ ,Yan $\\mathrm { X u ^ { 1 } }$ , Tai-Sheng $\\mathrm { Y a n ^ { 1 } }$ , De-Hua Yang², Hai-Feng Yang1,Hui-Qin Yang1,Ming Yang1, Zheng-Qiu $\\mathrm { Y a o ^ { 2 } }$ ,Yong $\\mathrm { Y u ^ { 4 } }$ ,Hui Yuan1,Hai-Bo Yuan5,Hai-Long Yuan1,Wei-Min Yuan1,Chao Zhai³,En-Peng Zhang1,Hua-Wei Zhang5, Jian-Nan Zhang1,Li-Pin Zhang²,Wei Zhang1, Yong Zhang², Yan-Xia Zhang1, Zheng-Chao Zhang²,Ming Zhao4,Fang Zhou²,Xu Zhou1, Jie $\\mathrm { Z h u ^ { 2 } }$ , Yong-Tian $\\mathrm { Z h u ^ { 2 } }$ Si-Cheng $\\mathrm { Z o u ^ { 1 } }$ and Fang Zuo1 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 National Astronomical Observatories,Chinese Academy of Sciences, Beijing 10o012,China; lal@ nao.cas.cn   \n2 Nanjing Institute of Astronomical Optics & Technology, National Astronomical Observatories, Chinese Academy of Sciences,Nanjing 210o42,China   \n3University of Science and Technology of China, Hefei 230026, China   \n4 Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 20o030, China   \n5Departmentof Astronomy,Peking University,Beijing 100871,China   \n6Departmentof Astronomy,Beijing Normal University,Beijing 10o875,China ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7Department of Physics,Applied Physics and Astronomy,Rensselaer Polytechnic Institute,Troy, NY 12180,USA 8Department of Physics and Astronomy,Earlham College,Richmond, IN 47374, USA 9Universitat Heidelberg, Zentrum fur Astronomie,Landessternwarte,Konigstuhl 12, 69117 Heidelberg, Germany 10Yunnan Observatories,Chinese Academyof Sciences,Kunming 650216,China 11Purple MountaiObservatoryhineseAcademyofSienes,Nanjing0oCina ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Received 2015January27;accepted 2015 June1 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AbstractThe Large sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST） general survey is a spectroscopic survey that will eventually cover approximately half of the celestial sphere and collect 1O million spectra of stars,galaxies and QSOs. Objects in both the pilot survey and the first year regular survey are included in the LAMOSTDR1.The pilot survey started in October 2O11 and ended in June 2O12,and the data have been released to the public as the LAMOST Pilot Data Release in August 2O12.The regular survey started in September 2O12,and completed its first year of operation in June 2O13.The LAMOST DR1 includes a total of 1202 plates containing 2955 336 spectra,of which 1 790 879 spectra have observed signalto-noise ratio $\\mathrm { ( S N R ) } \\geq 1 0$ . All data with $\\mathrm { S N R } \\geq 2$ are formally released as LAMOST DR1 under the LAMOST data policy.This data release contains a total of 2 204 696 spectra,of which 1944 329 are stellar spectra,12 O82 are galaxy spectra and 5017 are quasars.The DR1 not only includes spectra,but also three stellar catalogs with measured parameters: late A,FGK-type stars with high quality spectra (1 O61 918 entries),A-type stars (100 073 entries),and M-type stars (121522 entries).This paper introduces the survey design, the observational and instrumental limitations, data reduction and analysis,and some caveats.A description of the FITS structure of spectral files and parameter catalogs is also provided. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key words: techniques: spectroscopic survey — data release — catalog ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Large sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST), with an effective aperture of $4 \\mathrm { m }$ and size of $6 . 6 7 \\mathrm { m }$ for the main mirror,is a telescope located at the Xinglong Observatory northeast of Beijing,China. The telescope is characterized by both a large field of view and large aperture.A total of 4OOO fibers mounted on its focal plane make the LAMOST facility a powerful tool with a high spectral acquisition rate (Deng et al.2Ol2). With the capability of its large field of view and strong multiplexing ability, the LAMOST telescope is dedicated to a spectral survey of celestial objects overthe entire available northern sky.After first light in 2OO8,commissoning observations were conducted for two years. In spite of the ongoing optimization in performance of the LAMOST system, with related limitations in observations (e.g., dome seeing and fiber positioning accuracy),and data processing software,the commissioning data have contributed some preliminary results on quasars (Huo et al.2O1O; Wu et al. 2O10a,b),planetary nebulae (Yuan et al.2010) and nearby galaxies (Zou et al. 2011). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to inspect the real instrumental performance and assess the feasibility of the science goals,the science working groups for LAMOST devised the pilot survey, which was initiated on 24 October 2O11. In the pilot survey,both Galactic and extragalactic surveys were conducted - these were named LAMOST Experiment for Galactic Understanding and Exploration(LEGUE) and ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LAMOST ExtraGAlactic Survey (LEGAS), respectively (Zhao et al. 2012; Liu et al. 2015).LEGUE is made up of three parts, which focus on the Galactic Anti-center,the disk at longitudes away from the Galactic Anti-center,and the halo. Some scientific results from the pilot survey include catalogs of white dwarf-main sequence binaries (Ren et al.2O13),DA white dwarfs (Zhang et al.2O13; Zhao et al.2013),M dwarfs (Yi et al. 2O14),and identification of velocity substructure in the Galactic disk (Carlin et al. 2O13).Moreover,the LEGAS extragalactic portion of the survey studies galaxy redshifts,stellar populations of galaxies,and QSOs. Scientific results obtained include the identification of QSOs in the background of M31/M33 (Huo et al. 2013),a study of the radio-loud quasar LAMOST $\\mathbf { J } 1 1 3 1 + 3 1 1 4$ (Shi et al.2O14a),and a search for double-peaked, narrow emission-line galaxies (Shi et al.2O14b). Additionally,a catalog of newly identified QSOs from DR1 was compiled (Ai et al.2015,in preparation).The LAMOST pilot survey ended in June 2012,and included nine full moon cycles covering all good observing seasons at the site.The pilot survey data release includes 717660 spectra,in which there are 648 82O stars,2723 galaxies and 621 quasars,and a stellar parameter catalog containing entries for 373 481 stars (Luo et al. 2012). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From the experience gained by the pilot survey, the LAMOST science committee fully analyzed the observations,assessing the magnitude limit,characteristics of the telescope,and data success rate.A five-year general survey of LAMOST was designed, which would mainly focus on the Galactic survey of stars,yet still include a significant number of extragalactic sources. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As the only resolved classical disk galaxy,the Milky Way serves as a laboratory to study the formation and evolution of galaxies. However, there have been no large-scale Galactic spectroscopic surveys with a uniform sampling over all stellar populations,due to the time consuming nature of observinga large fraction of its ${ \\sim } 2 0$ billion members spread over the entire sky. Thus our knowledge on the detailed structure of our Galaxy lags behind the understanding of the large-scale structure of the universe.Several notable achievements have been made by modern large-scale surveys such as the Sloan Digital Sky Survey (SDSS); however, because SDSS is mainly focused on extragalactic targets,its spectroscopic observations have sampled only a small fraction of the Milky Way's stellar components.The powerful spectral acquisition rate of LAMOST enables a homogeneous and (statistically) complete Galactic survey. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The design of the survey will be shown in Section 2, including fields and sample selection. The observation conditions and limitations due the instruments willbe discussed in Section 3.Data reduction,spectral analysis and stellar parameter pipelines used for LAMOST willbe introduced in Section 4.The data products of Data Release 1 (DR1) willbe introduced in Section 5,as well as caveats.Finally, the data access and use policy are described in Section 6. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2DESIGNOFTHESURVEY ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1LAMOST Experiment for Galactic Understanding and Exploration (LEGUE) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As a major component of the LAMOST project, the LEGUE spectroscopic survey of the Galactic halo will observe ${ \\sim } 5 . 8$ million objects with $r < 1 6 . 8$ mag at $| b | > 3 0 ^ { \\circ }$ ,mostly located in the sky area that also has SDSS photometric coverage (Yang et al.2O12; Deng et al. 2O12; Zhang et al. 2012). Considering the time required for faint objects which should be observed in dark nights, two stripes of medium-bright (M) plates with high priority have been proposed. One is the area at Dec. $= 3 0 ^ { \\circ }$ in the Northern Galactic Cap (NGC),and the other is at Dec. $= 5 ^ { \\circ }$ in the Southern Galactic Cap (SGC). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another unique component of LEGUE is the LAMOST Spectroscopic Survey of the Galactic Anti-center (LSS-GAC), which aims to survey a significant volume over a continuous sky area of $\\sim 3 4 0 0 ~ \\mathrm { d e g ^ { 2 } }$ , covering Galactic longitudes $1 5 0 ^ { \\circ } \\leq \\ell \\leq 2 1 0 ^ { \\circ }$ and latitudes $| b | \\leq 3 0 ^ { \\circ }$ (Yuan et al. 2014b). The input catalog is selected from photometric catalogs of the Xuyi Schmidt Telescope Photometric Survey of the Galactic Anti-center (XSTPS-GAC) (Liu et al. 2014),with most targets selected with uniform probability.The catalog will include a statistically complete sample of about ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 million stars with magnitudes in the range $1 4 . 0 < r < 1 7 . 8$ (and as deep as $1 8 . 5 \\mathrm { \\ m a g }$ for some fields), with rare objects exhibiting extreme colors targeted with high priority.A detailed description ofLSS-GAC is presented by Yuan et al. (2014b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the Galactic disk survey,eight plates are chosen near the Galactic plane ( $\\langle | b | \\leq 2 0 ^ { \\circ } )$ and are nearly uniformly distributed along Galactic longitude,as well as in the region $0 ^ { \\circ } \\textless \\alpha \\textless 6 7 ^ { \\circ }$ and $4 2 ^ { \\circ } < \\delta < 5 9 ^ { \\circ }$ (Chen et al. 2O12).This survey concentrates on open clusters (OCs),and is expected to obtain about 8.9 million stars down to a limiting magnitude of $r \\sim 1 6$ mag. The highest observational priority is given to known or potential members of OCs,and a total of $1 9 4 \\mathrm { O C s }$ have high priority. The remainder of the disk targets in the $1 1 . 3 < I _ { \\mathrm { m a g } } < 1 6 . 3$ range have been uniformly selected over $I$ and $B - I$ color-magnitude space. Objects with very high proper motion $( 7 \\mathrm { m a s y r } ^ { - 1 } .$ ） are removed from the target catalogs. Positions, proper motions and magnitudes are taken from the PPMXL (Roeser et al. 2010) catalog. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 LAMOST ExtraGAlactic Survey (LEGAS) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The extragalactic survey LEGAS consists of two main parts -a galaxy survey and a QSO survey.For galaxies,it is split into two regions (again, to avoid the Galactic plane). One is in the NGC region, and shares the same footprint as the SDSS Legacy Survey.This survey mainly aims to observe those SDsS main sample galaxies (with $r < 1 7 . 7 5$ ） that were not spectroscopically observed by SDSS due to fiber collisions (Stoughton et al. 2OO2). Such “missed’ SDSS galaxies are named the complementary galaxy sample in the LAMOST survey. There are 68 722 such targets,which are given highest priority for fiber asignment on plates when possible.Because the number density of galaxies is very low,the remaining fibers on LEGAS plates are filled by LEGUE halo survey stars. The other region of the galaxy survey in LAMOST is the SGC.The LEGAS team has a long-term strategic goal of performing a galaxy survey in the SGC footprint of LAMOST $\\mathit { ( b \\mathrm { ~ < ~ } - 3 0 ) } ^ { \\mathrm { { o } } }$ and $\\delta > - 1 0 ^ { \\circ } )$ ,which aims to take spectra of all galaxies with $r < 1 8$ , and a sample of blue galaxies down to $r < 1 8 . 8 \\$ .Since this desired galaxy survey in the SGC requires much deeper observations than the main LAMOST stellar sample (currently, mostly limited to $r < 1 6 . 8 )$ ,only a few dark nights per observing season are available for these galaxies. Therefore,the galaxy survey in SGC now focuses on a strip,in the range $4 5 ^ { \\circ } < \\alpha < 6 0 ^ { \\circ }$ and $0 . 5 ^ { \\circ } < \\delta < 9 . 5 ^ { \\circ }$ Besides these two well-defined samples of galaxies,some bright-infrared galaxies are choosen as extra observational targets which are selected from infrared surveys such as IRAS,WISE and Herschel. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The efficiency of identifying quasars with redshifts between $2 . 2 \\ < \\ z \\ < \\ 3$ is low in SDSS (Schneider et al. 2OlO),because quasars with such redshifts usually have optical colors that are similar to stars and are thus mostly ignored by the SDSS quasar candidate selection algorithm. As permited by the observational conditions and instrument standards of the LAMOST telescope, the LAMOST quasar survey aims to find as many quasars as possible. We selected quasar targets from optical data within the SDSS photometric footprint using data mining methods such as support vector machines (SVMs)(Peng et al.2Ol2; Zhang & Zhao 2OO3),distribution of quasars and stars in different color spaces including $Y - K$ Vs. $g - z$ (Wu et al. 2012) and $z - W 1$ Vs. $g - z$ (Wu& Jia 2010),and the extreme deconvolution method (Bovy et al.2O11).The targets selected by multiple methods are given much higher priority in observation.The core sample is contributed from the above methods using survey data from SDsS,UKIDSS and WISE.The bonus sample comes from other survey data,such as X-ray bands from ROSAT, XMM and Chandra,and radio bands from FIRST and NVSS. In this case, QSO targets are not limited to the LEGAS plates, and are given high priority in the LEGUE plates aswell. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3The Special Fields ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1M31-M33 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Targets in the M31-M33 region include known and candidate planetary nebulae (PNe), HI regions, supergiants and globular clusters in M31 and M33,plus known and candidate background quasars and foreground Galactic stars selected from the XSTPS-GAC photometric catalogs. These stars are selected,assigned and observed in the same way as for the LSS-GAC main survey.The selection criteria of various types of targets and candidates of interest are presented elsewhere (e.g.， Yuan et al. 2010 for PNe; Huo et al. 2O10 for quasars). The central stars for the M31-M33 survey are selected similarly to the LSS-GAC main survey in the (RA,Dec) plane.Two groups of central stars are independently chosen to cover the area around M31-M33 $0 ^ { \\circ } \\le \\mathrm { R A } \\le 3 0 ^ { \\circ } ,$ $2 5 ^ { \\circ } \\leq \\mathrm { D e c } \\leq 5 0 ^ { \\circ } )$ 1 Each group contains 41 central stars. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 The LAMOST Complete Spectroscopic Survey of Pointing Area at the SGC ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A LAMOST Key Project named the LAMOST Complete Spectroscopic Survey of Pointing Area (LCSSPA) at SGC is being conducted (Yang et al. 2015),which is designed to have repeated spectroscopic observations of all sources (Galactic and extragalactic） in two $2 0 ~ \\mathrm { d e g ^ { 2 } }$ fields in the SGC.The central coordinates of the fields are $( \\alpha , \\delta ) \\ = \\ ( 3 7 . 8 8 1 5 0 9 3 9 ^ { \\circ } , 3 . 4 3 9 3 4 5 0 0 ^ { \\circ } )$ and $( 2 1 . 5 2 5 9 8 8 7 9 2 ^ { \\circ }$ $- 2 . 2 0 0 9 4 9 8 3 3 ^ { \\circ } )$ ,respectively. Targets in this field mainly consist of stars, galaxies, $u$ -band variables and QSOs.The stars and galaxies are selected from SDSS Data Release Nine (DR9)using $r$ -band $p s f$ magnitudes andPetrosian magnitudesbetween $1 4 . 0 < r < 1 8 . 1$ mag,respectively. The $u$ -band variable sources are selected as objects for which the difference in magnitudes between the SDSS and the SGC $u$ -band Sky Survey(SCUSS) is larger than $0 . 2 \\mathrm { m a g }$ ； these targets are amagnitude-limited sample down to $u = 1 9 . 0$ mag.The QSOs are selected by the same methods discussed above. The highest priority is assigned to $u$ -band variables and QSOs,with galaxies having the second priority level,and stars having the lowest pririty. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.3Keplerfields ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Additionaly,a total of 14 Kepler fields with a fixed field of view (FoV)of 105 square degrees in the constelltions Lyra and Cygnus are also selected according to the prioritized list provided by the LK project (De Cat et al.2O15,in preparation).The prioritized lists are mainly based on the type of targets and brightness.According to the type of object, these targets are divided into four priority levels: standard targets ( ${ \\sim } 2 5 0$ ，MK secondary standard stars),KASC targets( $( \\sim 7 0 0 0$ ，selected by the Kepler Asteroseismic Science Consortium,or KASC),planet targets ( $\\sim 1 5 0 0 0 0$ ,selected by the Kepler planet search group,Batalha etal.2O1O),and extra targets ( ${ \\sim } 1 0 0 0 0 0 0$ other targets in the Kepler FoV from the KIC 1O).For these,a higher observation priority is given to fainter objects. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 Plate Design ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.1Plate definitions and their magnitudes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The LAMOST plates are divided into four modes,very bright (VB),bright (B),medium-bright (M) and faint (F) according the magnitude range of stars to be observed. In DR1, the VB mode contains 2693 plates,and is used to observe stars brighter than $r \\ = \\ 1 4$ mag over the entire sky observablebyLAMOST $( - 1 0 ^ { \\circ } \\le \\mathrm { D e c } \\le 6 0 ^ { \\circ } )$ in order to make use of bright nights or nights with unfavorable conditions (e.g., poor seeing or low atmospheric transparency). In the XSTPS-GAC footprint, stars are selected as potential targets from the XSTPS-GAC and 2MASS catalogs with magnitudes $r \\leq 1 4 . 0$ mag and $9 . 0 \\leq \\ J \\ \\leq 1 2 . 5$ ,respectively. Stars outside of the XSTPS-GAC sky area are selected as potential targets from the PPMXL (Roeser et al.2O1O) catalog with magnitudes $1 0 . 0 \\le b 1 \\le 1 5 . 0 , 1 0 . 0 \\le b 2 \\le 1 5 . 0 , 9 . 0 \\le r 1 \\le 1 4 . 0 , 9 . 0 \\le r 2 \\le 1 4 . 0$ or $8 . 5 \\leq i \\leq 1 3 . 5$ and from the 2MASS catalog with magnitude $9 . 0 \\le \\ J \\ \\le 1 2 . 5$ .The“B”(bright) observing mode contains 751 plates in DR1 that observes stars with $r$ magnitudes between between 14 and 16.8. There are 692 and 655 plates assigned to the $\\mathbf { M }$ $( 1 6 . 8 \\leq r \\leq 1 7 . 8 )$ and F $\\mathit { \\check { r } } > 1 7 . 8 )$ designations, respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.2Tilingmethod ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Merging all of the science goals described above,the science committee of LAMOST designed the survey strategies and input catalogs.Based on these, the LAMOST team developed a software package named Sky Strategy System (SSS) to produce observational plates that most efciently use the multi-fiber abilities of LAMOST(Cui et al.2O12).The maximum density algorithm,density gradient algorithm and the mean-shift algorithm are used for most sky areas, with the exception of LSS-GAC, which uses separate target selection criteria (Yuan et al. 2014b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Given a sky area, the maximum density method can find the tile (or plate) with the maximum object count by making a uniform tiling. By traversing all the tiles covering a sky area,a tile with the maximum object count will be found and then a new observational plate will be configured at that position.The only factor that afects the speed and accuracy of this algorithm is the target distribution in the sky area.The denser the covering is,the higher the accuracy of finding the maximum tile becomes and the more eficient the method is,and vice-versa.The density gradient method is essentially iterative.Based on a uniform covering,this method makes an estimate of the distribution of objects and moves the tile in the direction that is expected to have a higher density of objects. The basic idea of the mean-shift algorithm is also iterative.As long as the objects are distributed unevenly in areas of the sky,a density gradient exists between different positions. Vectors are used to describe the position of targets in the tile,and the sum of vectors is set along the direction of the density gradient.By iteratively moving the field center along the sum of vectors and calculating the new vector summation,a new peak density location is obtained. In order to maintain the goal of uniformity in the remaining area and to avoid neglecting some of the peak positions in areas where density varies in complicated ways,the algorithm willtry to find a position with a higher global density and produce a coverage of the whole available sky area before the next iteration (Ren et al. 2007). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For each plate,one bright star (the so called central star, brighter than $8 { \\mathrm { ~ m a g } }$ ）must be placed in the center of the plate to feed a Shack-Hartmann detector that drives the active optics system, and four stars (brighter than $1 7 { \\mathrm { ~ m a g } }$ ）mustbe placed in the fields of each of the four guiding CCD cameras.The bright stars located in the center were selected from the Hipparcos catalog (Perryman et al.1997), with binaries excluded,and at the time of observation,the focal plane is rotated a bit to confirm that the proper guiding stars are inside the FoV of the four guiding CCD cameras. Guide stars were selected from the Guide Star Catalog (GSC), Version 2.3 (Lasker et al.2008). Central stars will be excluded if there are no corresponding guide stars. Since in some areas (e.g.,at low Galactic latitudes)there are many more available central stars than needed to fully cover that part of the sky,a step by step search is applied to reject redundant bright stars and find the tiling that maximizes sky coverage in that area (Yuan et al.2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.3Fiber allocation scheme ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Once the central position of a plate is decided by the tiling method,each object in the input catalog will be assigned a priority according to its scientific requirements.Five flux standards and $2 0 ~ \\mathrm { s k y }$ fibers are reserved in each spectrograph for data reduction; therefore,these five flux standards are allcated with the highest priority.All of the scientific targets are assigned in order of priority; ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "however,if more than two targets have the same priority in the same fiber cell,the closest target will be chosen to avoid collision with other fibers.On the other hand,if a target can be reached by different fibers at the same time,then it will be assigned to the fiber within its fiber cell that contains the minimum number of possible targets (Yuan et al.2O14a).A total of 2O sky fibers will eventually be assigned to fibers for which no targets were originally assigned.If the number of sky fibers allocated to a given spectrograph is less than 2O,the lowest priority fibers will be reassigned to the skyuntil the 2O sky fibers are allocated. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3LIMITATIONSONTHEOBSERVATIONSANDPERFORMANCEOFTHE TELESCOPE ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1 Seeing ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "One of the significant factors affecting the observations is seing,which consists of the native site seing as wellas dome seing.The seeing depends on the season,and is worse in a windy winter,but exhibits huge variations.The peak in the distribution of the nightly site seeing is at around 3 arcsec, and $8 5 \\%$ of the seeing measurements are better than 4 arcsec (Yao et al. 2O12).The non-classical dome of the LAMOST telescope seemingly affects the seeing measured directly at the focal plane, with the measurements showing seeing of about 3.5 arcsec on average. Compared to the site seeing, it is dome seeing that contributes the most in limiting the capabilities of the system (especially the limiting magnitude).Considering a fiber diameter of 3 arcsec,an average increase of 1 arcsec in seeing (at the focal plane) willead to a O.4-magnitude decrease in flux collected by each fiber. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2Fiber Positioning and Efficiency of Usage ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The precision of fiber positioning is an important factor affecting the efficiency of the survey. Through repeated observations and calculations,the accuracy of fiber positioning has been determined to be less than 1.5 arcsec on average (Chen et al.2O14),which has less effect on the fiber magnitude than the seeing.Another limitation is providedby the fixed fiber density of around 200 per $\\mathrm { d e g ^ { \\mathrm { \\bar { 2 } } } }$ .This limits sampling in both dense and sparse fields in different sky areas.For dense fields, objects are too crowded to resolve (especially near objects such as stellar clusters).By contrast, the fiber density results in a considerable waste of fibers (which are allocated to the sky) for sparse fields in areas with high Galactic latitude. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3ThePerformance of the Instruments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The performance of the instruments plays the same important role in the quantity and quality of spectra observed as the procedures used in data reduction.We briefly describe it as follows. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Overhead During the observations,the overhead time wil reduce the observational efficiency of the survey to some extent. Specifically,the telescope needs to be confocal, guide stars need to be located,and the fibers need to be repositioned when a new plate will be observed. Including the CCD readout time,the total overhead prior to observation of a field takes about 2O minutes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Throughput The throughput is a major indicator we use to measure the efciency of the telescope.The whole throughput takes the contributions of the spectrograph,fibers,CCDs,optical system,etc.,into account.In general,the throughputs of the red and blue channels are $4 \\%$ and $2 \\%$ respectively (Cui et al.2O12).During the pilot survey and the first year regular survey, the throughput of LAMOST was relatively low,and also showed a large dispersion among the 40oo fibers. Spectrograph No.4 (out of a total of 16 spectrographs) has the highest throughput of those located near the center of the focal plane; median throughput of the valid fibers connected to spectrograph No.4 during the pilot survey was about $1 . 0 \\%$ and $2 . 0 \\%$ for the blue and red bands respectively, and improved to $1 . 2 \\%$ and $3 . 0 \\%$ for the blue and red bands during the first year regular survey. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Spectrograph Nos.3,5,8,9 and 15 are located in the middle-ring of the focal plane; their throughputs are about $8 0 \\% - 9 0 \\%$ of that of spectrograph No.4. Spectrograph Nos.1,2,6,7,10,11,12, 13,14 and 16 are located in the outer-ring of the focal plane,and have measured throughputs that are about $5 0 \\% - 8 0 \\%$ of that of spectrograph No.4.Among the 25O fibers accommodated by each spectrograph,the difference in the throughput can change by a factor of two. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Stability of instrument profile Variations in emission lines from arc lamps have been monitored during a continuous 3Oo day period in order to measure the stability of the instrument profile.From Figure 1,it can be seen that the profile of each fiber changes litle with time,but that there are differences among the profiles between the fibers. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Flux calibration. The LAMOST project is designed as a spectroscopic survey without a component that can acquire corresponding photometry data. Therefore,absolute flux calibration cannot be done without the photometric data (Song et al.2Ol2).Moreover,not enough first-level standard stars are available over the large FoV observed byLAMOST that can be used for relative flux calibration. Thus we choose some stars with high quality spectra as standard stars.The uncertainty in the shape of the continuum in these standard stars will thus contribute to uncertainty in the LAMOST flux calibration. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4Sky Subtraction and Flat Fielding ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "According to the requirements set for LAMOST observations, $\\sim 1 0 - 1 5 \\%$ of the fibers for each plate are assigned for modeling the sky.This fiber assignment strategy works well for fields at high Galactic latitude, providing sky-subtraction that is consistent with results from the SDSS survey. However,the proportion of fibers that sample “clean” sky background is not adequate to build a supersky in observations near the Galactic disk,especially during bright nights.The emission lines of the night sky spectra are not subtracted satisfactorily for a number of spectra under these conditions. Differences in the fiber-to-fiber profile make the subtraction of sky emission lines more complicated. Moreover, the sky continua are more difficult to remove than narrow sky emission lines,such that there willalways be at least some sky residual remaining in reduced spectra. This in turn presents a challenge we have to deal with when determining (stellar) parameters from spectra. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It is not easy to find a light source with a five-degree FoV to use as a flat field.We therefore separately correct the flat field for each spectrograph, since each spectrograph covers only about a $1 ^ { \\circ }$ FoV.Twilight flats and screen flats are used. Additionally,the vignetting and the change in aperture caused by the telescope pointing also complicate the correction of the flat field. The movement of fibers may lead to focal ratio degradation caused by changes in fiber tension,which will cause differences in the efficiency of fibers. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4DATAREDUCTION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1 Statistics of Data Quality ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 Resolution and re-sampling ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The theoretical resolution of the 16 LAMOST spectrographs is $R = 1 0 0 0$ (as determined by the gratings),and the designed wavelength coverage is $3 6 5 { \\mathrm { - } } 9 0 0 { \\mathrm { n m } }$ .In practice,the resolution reaches $R > 1 5 0 0$ by narrowing the slit at the output end of the fibers to 2/3 the fiber width. Since the spectral images are sampled on CCDs,to avoid confusion between resolution and sampling for the final re-binned spectrum,we explain the difference as follows.On the original CCD image,4K pixels are used for recording blue or red wavelength regions ranging from $3 7 0 \\mathrm { n m }$ to $5 9 0 \\mathrm { n m }$ or from $5 7 0 \\mathrm { n m }$ to $9 0 0 { \\mathrm { n m } }$ respectively, which means each A has been sampled in two CCD pixels in the raw data. When the blue and red channels are combined together,each spectrum is re-binned for easier calculation of radial velocity.The combined spectra are re-sampled in constant-velocity pixels,with ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e49857688ba347a59790ba981766ff4f833070d2ace9013acb3c3913431a8e65.jpg",
+        "img_caption": [
+            "Fig.1 Variations in arc lines during 3OO continuous days.The left panels show the full width at half maximum (FWHM) of arc lines in the blue channel for the first 1OO days,the second 1OO days and the last10O days,from top to bottom respectively,and the right panels are the same observations in the red channel. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "80 王工 0 nmn mmmmmimLg punmmiunummmmmr 70 1000 Eom mmmummmiodpimmmmoir 西 miotmmmbomolmmmo Ccooogpetice pgEopod0boooocbooo3 ooboooogDDOOoCDCPODQE 60 poi nmmaommmmmm mmmm EO1i11 mlunmtmo Tmmmmamm 50 fumnamtmlTolr\" miouImmmi mmmmm DOO Tgo dmmmomimmmjaomg wumy pog OLOD 40 nmimmmju. mboy mmmimuammpmmmammmmmimmm mmmm mminnnimjlmomon mmmmlimmmmiiun Ⅱ m Iomimimmmmmmimm oDmmDDO 20 I 3mm 1 mnmmmiunmmpummitiun bbon pTOTT mmmmmomrEpmmmmjumum imnniiim IOIIIII mT 10 imomno[upaaanmlpimunjomeod TmD mimmm O 200 220 240 260 280 300200 220 240 260 280 300 days days (c) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a pixel scale of $6 9 \\mathrm { k m ~ s ^ { - 1 } }$ ,which means the difference in wavelength between two adjacent points is $\\Delta \\log { ( \\lambda ) } = 0 . 0 0 0 1$ .For convenience,the re-binned data interval is still referred to as a ‘pixel.' ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 The definition of signal to noise ratio ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The signal to noise ratio (SNR) is always used as a quality indicator,and is the ratio of flux to noise in some bandpass.Generally,SNR is an average value in a wavelength band and predominantly represents the continuum flux level. SNR hereafter indicates the SNR per ‘pixel'.In the LAMOST data products,SNR is defined by using the concept of inverse-variance,which is included in the spectral FITS files. It is easy to obtain the SNR for each pixel by calculating the product between the flux and its inverse-variance.The mean SNR in a wavelength band can be averaged from the SNR of each pixel in the band range.Another way to obtain SNR is to calculate the ratio between the continuum and the $1 \\sigma$ standard deviation. These two definitions of SNR are shown to provide consistent results when applied to LAMOST data (Fig. 2). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 Data quality ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The data quality is determined by SNR,and a successful observational target should have SNR ${ > } 1 0$ in $g -$ or $i -$ band.Table 1 lists the statistics on the rate of successful spectral acquisition.This success rate improved from the pilot survey to the regular survey,and the rate on VB plates reached $70 \\%$ even though these targets were observed in bright nights. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1606b223b1bcd2a68c67cd4e50d03018a3795cb1999a19af7c15369cbf17969.jpg",
+        "img_caption": [
+            "Fig.2 The two definitions of SNR are compared for a sample of LAMOST spectra. From top to bottom,the panels show SNR in the $g , r$ and $i$ bands respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.22D Pipeline ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Raw CCD data were reduced by the LAMOST data reduction software which is known as the LAMOST 2D pipeline.The procedures used by the 2D pipeline,similar to those of SDSS (Stoughton ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce6d7221cb85ce2e0cedd4fa93043d21bf6be714fe575182f0f8c95df33378da.jpg",
+        "table_caption": [
+            "Table 1 The Statistics on Rate of Successful Spectral Acquisition "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Plate Type</td><td>Number of Plates</td><td>Number of Spectrographs</td><td>Rate of Successful Spectral Acquisition</td></tr><tr><td>GAC</td><td>190</td><td>2592</td><td>318854/626554= 51%</td></tr><tr><td>M31</td><td>41</td><td>511</td><td>54950/138974= 40%</td></tr><tr><td>VB</td><td>343</td><td>4405</td><td>552245/964080= 57%</td></tr><tr><td>HD</td><td>347</td><td>5124</td><td>479076/776830= 62%</td></tr><tr><td>EG</td><td>71</td><td>1057</td><td>102675/210303= 49%</td></tr><tr><td>FMB</td><td>202</td><td>2805</td><td>268154/628069=43%</td></tr><tr><td>Kepler</td><td>8</td><td>104</td><td>15333/30499= 50%</td></tr><tr><td>Total</td><td>1202</td><td>16598</td><td>1791287/3375309=53%</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Notes:(l) The last column is the rate of successful spectral acquisition,which means the ratio of the number of spectra with $\\mathrm { S N R } _ { g }$ or $\\mathrm { S N R } _ { r } \\geq 1 0$ to the number of fibers that were assigned to targets.(2) Plate types are named from the pilot survey and the first yearof the regular survey.The details are described as follows: $G A C$ ：Galactic Anti-center plates.VB:Very bright stars with $r \\leq 1 4$ in the northern sky $( - 1 0 ^ { \\circ } \\leq$ Dec $\\leq 6 0 ^ { \\circ }$ ） $H D$ :Halo and disk plates (Sep.2012-Jun.2013). $E G$ ：Extragalacticplates. $F M B$ : Halo and disk plates (Oct.2011-Jun.2012).F,Mand B mean faint,medium and bright,respectively. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "et al.2002),aim to extract spectra from CCD images and calibrate them.The main tasks of the 2D pipeline include dark and bias subtraction,flat field correction,spectral extraction,sky subtraction, wavelength calibration,merging sub-exposures and combining wavelength bands.The processes incorporated in the 2D pipeline are listed in the following (see the flowchart in Figure 3). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1） Bias and dark counts are subtracted from each raw image.During the pilot survey,some interior light source affected the CCD that was acquiring images,so that we needed dark frames to eliminate this stray light.In the regular survey,this light source was identified and removed, so that no dark subtraction is needed.   \n(2）Flat field corrections are mainly achieved using twilight flat fields.However,white-screen flat fields were used on some days.LAMOST spectrographs are regarded as 16 different individual instrument systems for flat correction,so that the flat for each spectrograph is independent.   \n(3）The flat-field spectra are traced for each fiber,and the centroid of the row position of each fiber is fitted by a polynomial function.A good fiting of each spectral track overcomes interference between fibers.However, the fiting willfail at the end of the wavelength coverage range when the SNR becomes low.   \n(4）A spectrum is extracted along the track fitted by step 3 using a weighted aperture integration method; flux on 15 pixels is integrated to provide a single flux for 1D spectra.   \n(5） The sky background is modeled and subtracted by a fixed proportion of the fibers on each plate that is reserved for pointing toward blank sky.The method of B-spline fiting is applied to make a supersky for each sub-exposure and then principal component analysis (PCA) is used to recorrect the supersky after combining in this procedure.Additionally, the relative strength of sky emission lines is used to correct differences in effciency between sky fibers and object fibers, since these lines exists in both sky spectra and object spectra.   \n(6）Wavelength calibration is accomplished by using arc lines.The arc lamp spectra are extracted, and centroids of the lines are measured,to which we fit a Legendre polynomial as a function to describe the relationship between wavelengths and pixels,with a fifth-order polynomial in the blue branch and sixth-order in the red. A vacuum wavelength scale is applied for wavelength calibration,slightly adjusted to match the known positions of certain sky lines,and then corrected to the heliocentric frame.   \n(7） The telluric absorption in four wavelength regions (6850—6960 A, 7150—7350 A,7560— $7 7 2 0 \\mathring { \\mathrm { A } } , 8 1 0 0 { - } 8 \\mathring { 2 } 4 0 \\mathring { \\mathrm { A } } )$ is removed. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2c88aecaf3c9fd98401a826a527b76363e299640f09a7830a361cf331a1abdb.jpg",
+        "img_caption": [
+            "Fig.3 Flowchart illustrating the LAMOST 2D pipeline processing "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(8）The spectra are flux-calibrated by matching the selected flux standard stars with their matching templates of F-type stars.First, 25O spectra from one spectrograph are sorted in descending order of SNR. Stars with bad SNR or saturated fibers are abandoned.After normalizing the continuum of each spectrum, atmospheric parameters are obtained by matching a template using the Kurucz model. Then stars with $6 0 0 0 \\mathrm { K } \\leq T _ { \\mathrm { e f f } } \\leq 7 0 0 0 \\mathrm { K }$ are selected as standard stars, after visual inspection to confirm their correct identification.If the number of standard stars is less than three,then the effective temperature will be extended from $5 5 0 0 { - } 7 5 0 0 \\mathrm { K }$ to obtain more standard stars. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(9)For each object in all the exposures,the red and blue spectra are combined by stacking the points with corresponding wavelengths using a B-spline function, with inverse-variance weighting. Outliers due to cosmic rays are removed and masked,then errors in the fluxes are estimated. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 Uncertainties in the wavelength calibration ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "During the wavelength calibration,errors are most likely to be introduced when finding centroids of the emission lines of the arc lamp.In these emission lines, not all of the lines are single- some observed lines are actually blends of two or three lines.Therefore,the fiting quality of a unimodal function for these mixtures may have large uncertainties. Statistically,the average error of wavelength calibration for the arc lamp is less than $0 . 0 2 \\textup { \\AA }$ ，corresponding to about $1 \\mathrm { k m ~ s ^ { - 1 } }$ . Generally, the calibration accuracy of blue spectra is better than that of red spectra, but it degrades below $4 0 0 0 \\mathring \\mathrm { A }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2.2Uncertainties in the relative flux calibration ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "If there are no standard stars observed on one of the spectrographs (for a given plate),combined object spectra spanning the entire wavelength range cannot be produced. This is because matching the blue- and red-channel spectra relies on matching their flux in the wavelength region where they overlap. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The reddening calibration is not considered in selection of standard stars. The extinction is negligible in areas with high Galactic latitude.However,reddening willseverely affect flux calibration in areas with low Galactic latitude, biasing the continuum shapes of the resulting spectra in these high-extinction regions. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The flux of calibrated spectra from different exposures for each object may be not on the same scale.Hence before combining them, we adjust them onto a uniform scale,and then combine the spectra from different exposures by the method of B-spline fiting,which is similar to the SDSS pipeline. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.3 1D Pipeline ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The LAMOST1D pipeline works on spectral type classification and measurement of radial velocity (RV) for stars or redshift for galaxies and QSOs.By using a cross-correlation method,the pipeline recognizes the spectral classes and simultaneously determines the redshifts or radial velocities from the best fit correlation function.In this procedure,a low order polynomial is added while matching the observed spectra with templates,since the physical continuum can be difficult to detect because of the low resolution,reddening or uncertainties in the flux calibration. Currently we employ the same templates as SDSS. However, the templates will be updated with LAMOST spectra for reductions after DR1.Finally, the pipeline produces four primary classifications, namely STAR, GALAXY, QSO and UNKNOWN. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Measuring redshifts and recognizing galaxy and QSO spectra are difficult tasks since the pipeline does not work as well as for stellar classification.An additional independent pipeline was designed for galaxy recognition and redshift measurement after the initial 1D pipeline was run. It automatically identifies galaxies from the objects with confidence of classification below 8O or a target type as“galaxy” in the input catalog.The redshifts of galaxies are measured through line centers; a Gausian function with sigma of 1.5 times the wavelength step is applied to the spectra to eliminate noise before line centers are measured.The continua,smoothed by a median filter,are divided out to complete the normalization.Those data points that exceed $2 \\sigma$ ofa normalized spectrum are selected as candidate emission lines,and a set ofGaussian functions is used to fit the lines.Allthe line centers are matched with line lists spaced by steps of O.OoO5 in redshift $( z )$ . If most of the lines are matched successfully with heavily weighted lines such as $H _ { \\alpha }$ ,OII, $H _ { \\beta }$ , OIII or NII for emission line galaxies, or NaD, $\\mathbf { M g b }$ ,CaII Hor CaII K for absorption galaxies,the spectrum is classified as a galaxy,and the corresponding $z$ is the raw redshift of the spectrum.To detect mistakes in the redshift measurement, this redshift is compared with the results of the 1D pipeline,and the final redshifts are decided by experts. For QSOs,the recognitions and measurements highly depend on visual inspection; a QSO catalog of DR1 detections will be released by Ai et al. (2O15,in preparation). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.4LAMOSTStellarParameterPipeline-LASP ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LAMOST has carried out the pilot survey and the first year general survey, producing more than 2.2 million spectra,among which nearly 2 milion are stellar spectra. Through statistical analysis of the physical properties related to stars in this large spectroscopic database spanning wide sky coverage,LAMOST will definitely enhance and increase our understanding of the structure,chemistry, and kinematics of the Galactic disk and the halo as wellas its origin and evolution history.Efficient software that accurately derives the fundamental stellar atmospheric parameters plays a key role in scientific exploration.For this purpose, we developed and implemented the LAMOST stellar parameter pipeline (LASP, version 1.0). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.4.1Input data and strategy for LASP ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LASP has been used to automatically determine the stellar parameters (effective temperature: $T _ { \\mathrm { e f f } }$ surface gravity: $\\log g$ ,metallicity: [Fe/H],and radial velocity: $V _ { r }$ ）for lateA andFGK type stellar observations from the LAMOST survey.The input data for LASP are the output FITS spectra produced by the 2D and1D pipeline.For DR1,the FITS file data version is $\\mathrm { v } 2 . 6 . 4$ (according to status of the 2D and 1D pipelines,for DR2 the version willbe upgraded to v2.7.5 after some improvement), with a resolving power of $R \\sim 1 8 0 0$ covering wavelengths $3 8 0 0 - 9 0 0 0 \\mathrm { ~ \\AA ~ }$ . Observing nights for the survey are generally divided into three categories: dark nights (eight nights before and after the new moon),test nights (three nights around the full moon,used for instrumental testing),and bright nights (the remaining nights in a lunar cycle).The current criteria required for stars to be processed by LASP are: final_class is STAR, final_subclass is spectral type late A,F,G or K,and $g$ -band SNR of $S N R _ { g } \\geq 1 5$ and $S N R _ { g } \\geq 6$ for the bright and dark nights,respectively. The final_class and final_subclass information is retrieved from the 1D pipeline results. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.4.2Methods used by LASP ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The LASP consecutively adopts two methods —Correlation Function Initial (CFI) value and UlySS (Wu et al. 2O1la)— to determine stellar parameters.The CFI method is used to produce a set of coarse measurements that serve as initial guesses for ULySS,which then generates the final values that are output by LASP. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1. CFI method: Initial stellar parameter estimates are provided by a method called CFI (Du et al. 2012).The core algorithm that is part of the CFI method is as follows: provided the observed flux vector is $O$ ,and the synthetic flux vector is $S$ ,the theoretical best-fit case is $\\cos \\langle O , S \\rangle = 1$ . The algorithm searches for the best-fit by maximizing $\\cos \\langle O , S \\rangle$ as functions of $T _ { \\mathrm { e f f } } , \\log g$ and $[ \\mathrm { F e / H } ]$ where $\\begin{array} { r } { \\cos \\langle \\boldsymbol { O } , \\boldsymbol { S } \\rangle = \\frac { \\boldsymbol { O } \\cdot \\boldsymbol { S } } { | \\boldsymbol { O } | \\times | \\boldsymbol { S } | } } \\end{array}$ wichisl CFI first explores temperature in the grid of synthetic spectra to determine the $T _ { \\mathrm { e f f } }$ value of the input spectrum. After $T _ { \\mathrm { e f f } }$ is fixed, the code searches for the $[ \\mathrm { F e / H } ]$ in metallicity space in the grid, and then with fixed $T _ { \\mathrm { e f f } }$ and $[ \\mathrm { F e / H } ]$ ,it searches for the $\\log g$ . According to maps of the correlation coefficient distribution for the three parameters,the reliability of $T _ { \\mathrm { e f f } }$ estimation is relatively more credible, the $[ \\mathrm { F e / H } ]$ is less credible,and it is hard for the algorithm to determine a $\\log g$ solution. Thus the biweight mean of several $\\log g$ estimations with several correlation coeffcient values is provided as the output. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "For the production of the grid of synthetic spectra used by our CFI algorithm,we employed Kurucz spectrum synthesis code based on the ATLAS9 stellar atmosphere models provided by Castelli & Kurucz (2003). This grid is smoothed to the resolution of the LAMOST spectrograph 1 $R \\sim 1 8 0 0 \\$ ）and the pseudo-continuum of the grid is manually obtained by an experienced spectral analyzer.The analyzer manually marks the points which may be on the pseudo-continuum based on spectral features.Then spline curves are employed to fit the spectral pseudo-continuum. Finally,the points can be adjusted until the pseudo-continuum meets the requirements.The CFI's adopted synthetic library contains 89O3 spectra,in a grid with stellar parameter coverage of: $3 6 0 0 \\mathrm { K } \\leq T _ { \\mathrm { e f f } } \\leq 7 5 0 0 \\mathrm { K }$ in steps of $2 0 0 ~ \\mathrm { K } , 0 . 0 \\mathrm { d e x } \\leq \\log g \\leq 5 . 0$ dex in steps of 0.25 dex, and $- 3 . 0 \\leq \\mathrm { [ F e / H ] } \\leq 0 . 4$ in steps of 0.2 dex. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "2. ULySS method: The ULySS (Université de Lyon Spectroscopic analysis Software, Koleva et al. 2009; Wu et al. 201la, available at http://ulyss.univ-lyonl.fr/) package is employed by LASP to derive the stellar parameters via minimizing the squared difference between the observations and the model.The model is adjusted to the same resolution and sampling as the observation,and the fit is performed in pixel space.This method determines all free parameters within a single fit in order to properly handle the degeneracy between some parameters, e.g., temperature and metallicity. $\\mathrm { w } _ { \\mathrm { u } }$ et al. (2O1la) have already described the $\\chi ^ { 2 }$ minimization of ULySS.The parametric model is ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { O b s } \\left( \\lambda \\right) = P _ { n } ( \\lambda ) \\times \\left[ \\mathrm { T G M } \\left( T _ { \\mathrm { e f f } } , \\log g , \\left[ \\mathrm { F e / H } \\right] , \\lambda \\right) \\otimes G ( v _ { \\mathrm { s y s } } , \\sigma ) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda$ is the logarithm of the wavelength, $\\mathrm { O b s } ( \\lambda )$ is the observed stellar spectrum sampled in $\\log \\lambda , P _ { n } ( \\lambda )$ a series of Legendre polynomials of degree $n$ ,and $G ( v _ { \\mathrm { s y s } } , \\sigma )$ is a Gaussian broadening function characterized by residual velocity $ { v _ { \\mathrm { s y s } } }$ and dispersion $\\sigma$ . The $\\sigma$ encompasses both the instrumental broadening and the effects of rotation.The multiplicative polynomial is used to absorb errors in the flux calibration,Galactic extinction or any other source affecting the shape of the spectrum.It replaces the prior rectification or normalization by the pseudo-continuum that other methods require.The parameters of the TGM are evaluated together with those of the line-of-sight velocity distribution (LOSVD) using a Levenberg-Marquardt (Marquardt 1963; Moré et al. 198O) routine (hereafterLM).The (linear) coefficients of the $P _ { n } ( \\lambda )$ polynomials are determined by ordinary leastsquares at each evaluation of the function minimized by the LM routine. The gaps and bad pixels (e.g. emission lines,cosmic rays,bad sky subtraction,telluric lines or bad ones due to instrument errors,etc.) are automatically rejected during the fitting process by ULySS, using a clipping algorithm that is iteratively applied to the residuals of the fit. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The non-linear TGM function is an interpolator that can return a spectrum for a given set of atmospheric parameters $( T _ { \\mathrm { e f f } } , \\log g$ ， $[ \\mathrm { F e / H } ] )$ ）bymaking an interpolation over the whole ELODIE library (Prugniel& Soubiran 2001,2OO4; Prugniel et al.2O07).The interpolator(available athttp:// ulyss.univ-lyonl.fr/models.html) consists of polynomial expansions of each wavelength element in powers of $\\log T _ { \\mathrm { e f f } }$ $\\log g$ ， $[ \\mathrm { F e / H } ]$ and $f ( \\sigma )$ (a function of the rotational broadening parameterized by $\\sigma$ ,the standard deviation of a Gaussian).Three sets of polynomials are defined for three temperature ranges (roughly matching OBA,FGK and M types) with an important overlap between each other where they are linearly interpolated.For the FGK and M polynomials,26 terms are adopted; for OBA,19 terms are used.The coefficients of these polynomials have been fitted over the $\\sim 2 0 0 0$ spectra in the library,and the choice of the terms in $T _ { \\mathrm { e f f } }$ limits and of weights were fine tuned to minimize the residuals between observations and the interpolated spectra.This interpolator built on the ELODIE library (version 3.2) provides valid inverted atmospheric parameters covering $3 1 0 0 \\sim$ $5 9 0 0 0 \\mathrm { K }$ in $T _ { \\mathrm { e f f } }$ $0 . 0 0 \\sim 5 . 0 0$ dex in $\\log g$ and $- 2 . 8 0 \\sim 1 . 0 0$ dex in [Fe/H], from O to M type stars. The derived intrinsic external accuracies of ULySS for high quality AFGK stellar spectra are $4 3 \\mathrm { ~ K ~ }$ 0.13 dex and 0.05 dex for $T _ { \\mathrm { e f f } }$ $\\log g$ and $[ \\mathrm { F e / H } ]$ respectively (Wu et al.2O11a). The performances of ULySS applied to observations from the LAMOST commissioning period were already ilustrated in Wu et al. (2011b). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.4.3Processing procedure used by LASP ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "LASP operates in two stages to measure the stellar parameters. Since the LAMOST spectral flux calibration is relative (because there is no valid complete system for photometric standard stars), in the first stage we measure the original spectrum,and in the second stage we use the normalized spectrum. For the medium resolution of the LAMOST survey spectra,the blue band spectra contain most of the physical features necessary to constrain the stellar parameters. To avoid the effects of low instrumental response near both wavelength edges,as wellas for optimizing the computing time and using minimal storage space,CFI selects wavelengths in the range $3 8 5 0 - 5 5 0 0 \\mathrm { ~ \\AA ~ }$ ,and ULySS selects those in the range $4 4 0 0 - 5 7 0 0 \\mathrm { \\AA }$ (in the 1st stage) and $4 4 0 0 - 6 8 0 0 \\mathrm { \\AA }$ (in the 2nd stage). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In each stage,we first utilize CFI to get a set of initial coarse estimates.After this,we use CFI results as starting guesses for ULySS to obtain more accurate and credible measurements.Figure 4 displaysa general flowchart forLASP. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As CFI runs its core algorithm to determine the parameters individually one after another, it determines the best match between the observation and the synthetic grid spectra, both of which have been normalized.In the first stage ofCFI,it uses the RV estimated by the 1D pipeline to shift the observed spectrum to the rest frame. Theoretically,observed spectra could be approximated by synthetic spectra multiplied by low order polynomials.To quickly get an initial guess of the effective temperature for CFI as a prior, the code uses the NGS1 grid (Lee et al. 2O08). The NGS1 grid of synthetic spectra was generated from the Kurucz NEWODF models,which employ solar relative abundances from Grevesse & Sauval (1998).More details about generation of NGS1 synthetic spectra were described in Lee et al. (2Oo8). These synthetic spectra were convolved to $R = 1 0 0 0$ then sampled into $1 . 6 7 \\textup { \\AA }$ per pixel to be the NGS1 grid spectra. In order to speed up the analysis, only the spectral range of $4 5 0 0 \\mathrm { ~ \\AA ~ }$ to $5 5 0 0 \\mathrm { ~ \\AA ~ }$ was used. The synthetic spectra have been normalized by iteratively using a 9th order polynomial, rejecting points that are more than $1 \\sigma$ below and $4 \\sigma$ above the fitted function. The NGS1 grid covers $4 0 0 0 ~ \\mathrm { K } \\leq T _ { \\mathrm { e f f } } \\leq 9 7 5 0 \\mathrm { K }$ in steps of $2 5 0 ~ \\mathrm { K }$ $0 . 0 \\mathrm { d e x } \\leq \\log g \\leq 5 . 0 \\mathrm { d e x }$ in steps of 0.25 dex,and $- 4 . 0 \\leq \\mathrm { [ F e / H ] } \\leq + 0 . 5$ dex in steps of 0.25 dex for the three parameters respectively. The observed LAMOST spectra are also processed in the same fashion over the same wavelength range,then we search for the best-fit using the CFI core algorithm to get an initial guess of $T _ { \\mathrm { e f f } }$ .Then with this $T _ { \\mathrm { e f f } }$ , CFI uses its core algorithm to search for the most similar synthetic spectra (with the already known pseudo-continuum, which could be subtracted before fitting) in the grid described before in Sec.4.4.2.We use a 5th order polynomial to absorb the difference between the normalized observation and the normalized synthetic spectra,and finally get an estimation of the three parameters one after another.The grid described in Section 4.4.2 is more dense and has a bigger volume than the one used by NGS1. In the second stage of CFI, it takes the ULySS first stage results ( $\\cdot T _ { \\mathrm { e f f } }$ $\\log g$ ， $\\mathrm { [ F e / H ] }$ ,RV),which provide a more accurate RV to correct to the rest frame,and removes the need to use the NGS1 grid, since we can use the $T _ { \\mathrm { e f f } }$ given by the 1st result from ULySS. Since the spectra processed in the second stage are normalized, CFI directly matches the spectra without a prior step of removing the pseudo-continuum.Figure 5 shows an example of the CFI spectral fiting in the blue wavelength range. ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/b13fbffd6209c8ce993c1b1443ae8d6451ae21fc12ecebc00403773d84d6de4b.jpg",
+        "img_caption": [
+            "Fig.4Flow chart illustrating the parameter estimation process of LASP. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Normalization procedure between the first and the second stage. Before stellar spectra are parameterized,the pseudo-continuum should be divided out (or normalized).Forthe input observation, its analogous synthetic spectrum can be found in the synthetic grid (Sect.4.4.2) according to the parameters produced by the ULySS 1st stage results. Since the pseudo-continuum of the grid spectra has been derived previously,the pseudo-continuum of the observed spectrum can be calculated through the analogous synthetic spectrum multiplied by a polynomial.In order to obtain a continuum fit over the whole range, the wavelength range is divided into four pieces ( ${ \\leq } 5 6 0 0 { \\AA }$ $5 4 0 0 { - } 6 4 0 0 \\mathrm { \\AA }$ $6 2 0 0 { - } 8 0 0 0 { \\AA }$ $\\geq 7 8 0 \\bar { 0 } \\mathrm { \\AA } )$ and a 5th order polynomial is applied to each of these ranges.After this piecewise fiting,the pseudo-continuum of the entire wavelength range is fited by an 11th order polynomial,then the original 1D spectrum is normalized and delivered for the second stage.We performed experiments with this normalization technique on well calibrated SDSS/SEGUE（York et al.200o; Yanny et al.2Oo9) survey spectra,and found that the diference between the determined parameters given by ULySS before and after normalization is negligible.However, when we applied this method to the LAMOSTobservations,the differences are noticeable.This difference is mainly due to the unstable relative flux calibration of the spectra mentioned in Sec. 4.2.2; sometimes the shape of the flux-calibrated spectrum is quite strange,for example showing very steep regions or having several big fake humps or other spurious features,which obviously cannot be fitted bya fixed order polynomial. On the other hand,this simple intervening normalization procedure can potentially alter of shape of the original physical lines. So besides the $g$ -band SNR,the difference in the ULySS parameters between first and second stage results,to some extent, helps reflect the quality of the spectral data. If the two stages of ULySS measurements are similar to each other, ULySS determinations given by the normalized spectra are provided in the final publicly released stelar parameter catalog for late A and FGK-type spectra. Figure 6 illustrates one fiting example of ULySS applied to LAMOST observations. ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/54d87a65b5ace83f8655347c9110aa41959b76b8460462281483c834e9bc0754.jpg",
+        "img_caption": [
+            "Fig.5 An example of normalization through the CFI grid.Top: The pseudo-continuum derived from the corresponding parameter grid.Botom: Colors show normalized flux of the blue wavelength range (blue) and the synthetic grid spectrum (red). "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4251ca07545ca1e13b1647b38d6dd08c0f24be1af70fbe59f4521dbeba496ab.jpg",
+        "img_caption": [
+            "Fig.6Fits of a LAMOST stellar spectrum with ULySS (based on the ELODIE interpolator).This spectrum shows a star with specid=20111108M31_012N38_B109032_v2.6.4 and $g$ -band $\\mathrm { S N R } { = } 1 7 . 5 1$ . The top panels represent the relative flux distribution- the observation is in black and the model is in blue.Red lines represent the masked region.The bottom panels show the residuals between the observation and the best-fitted interpolated spectrum.The left panels show the original spectrum fiting,and right panels show the normalized spectrum fiting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "For observations with no prior knowledge,in order to prevent the ULySS algorithm from becoming trapped in a local minimum, we use a grid of initial guesses that sample all of the parameter space.For example,take the nodes of the guessing grid as $\\scriptstyle { T _ { \\mathrm { e f f } } = [ 4 0 0 0 , 7 0 0 0 , 1 5 0 0 0 ] \\mathrm { ~ F ~ } }$ K,log $g { = } [ 1 . 8$ 3.8] dex,and $[ \\mathrm { F e / H } ] = [ - 1 , 0 ]$ dex as adopted in the work of $\\mathrm { w } _ { \\mathrm { u } }$ et al.(2O11b). The final solution (absolute minimum) is the best values obtained from those different guesses.For late A and FGK type spectra,by using a wide guessing grid, the global solution can statistically almost always be found, with only several cases where the solution was a local minimum occuring out of ten thousand fitted stars. Also,for some spectra, the solution simply expressed by three physical parameters may not be unique. $\\chi ^ { 2 }$ maps together with the convergence maps that are tools provided as part of the ULySS package (see Wu et al. 2O11la) can be used to visualize the parameter space and identify the degeneracies and local minima.We can see that when applying the above computational grid, each observation has to be fitted 12 times.For a survey project with a massive data flow,this is quite time consuming, which is why we use CFI before ULySS to get single initial guess nodes.This effectively helps reduce the computational requirements,saving time and storage space for LASP by using fewer starting guesses in ULySS. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Although CFI is just used to give a coarse estimation,for most cases the results used for the initial guesses in ULySS are acceptable ( $\\cdot T _ { \\mathrm { e f f } }$ is most reliable). In some cases, due to its low accuracy related to either the algorithm (for example, parameters which are not physically possible or the spectral SNR is poor) or from poor parameter coverage of the synthetic spectral grid,some of the determinations given by CFI are not credible.These biases are obvious for very hot and cold stars, and also for wide regions in the $\\log g$ and $[ \\mathrm { F e / H } ]$ spaces.In practice,if any of the CFI parameters reside around the edges of its grid coverage,or in an unphysical region, or outside of the grid,ULySS does not take its results,but instead either uses a moderate guess like ( $7 0 0 0 \\mathrm { K }$ ,3.0 dex, $0 . 0 \\mathrm { d e x } ^ { \\cdot }$ or roughly estimates the starting value for $T _ { \\mathrm { e f f } }$ from the subclass indicated by the 1D pipeline. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Note that for LAMOST DR1, if the star is processed by LASP (i.e., it has $T _ { \\mathrm { e f f } } , \\log g$ and $\\mathrm { [ F e H ] }$ values), the final released RV is determined by ULySS.If the spectrum was not processed by LASP, the RV is inherited by the 1D pipeline,and for late M-type stars,the RVis from a separate module (inside the 1D pipeline) which is specially tailored for cooler stars (Guo et al.2015). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.4.4 Why iterate once ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "As is known from the normalization described in Sec.4.4.3,the quality of the calculated pseudocontinuum depends on: (1） the credibility of prior known stellr atmospheric parameters (stagel: CFI gets values from the NGS1 grid, stage2: get the ULySS result derived from the normalized spectrum); (2) the accuracy of matching the most similar synthetic spectrum; (3) the density of the synthetic grid.The three aspects mentioned may introduce large discrepancies between the adopted synthetic spectrum and the observation. Therefore,if the quality of observation is not good, the pseudo-continuum of the observed spectrum based on the synthetic spectrum is unacceptable,and thus will lead to inconsistency between stellar parameters determined by ULySS when using normalized and unnormalized spectra. Likewise,if the two stellar parameter estimations are consistent with each other, it can be concluded that the parameters are reliable and the pseudo-continuum of the observed spectrum calculated based on the synthetic one is acceptable.A reasonable degree of approximation can be measured statistically.In brief,if the two results approximately agree with each other, the stellar atmospheric parameters estimated using normalized spectra are adopted. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.4.5Errors in the stellar atmospheric parameters produced by LASP ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Since reliable random errors for each wavelength are unavailable for LAMOST spectra, like in the work of Wu et al. (2O1la), when using ULySS, we assumed a constant noise for all wavelength data points.We estimated an upper limit for the internal errors on the derived parameters by assuming $\\chi ^ { 2 } = 1$ . We performed the fit with an arbitrary value of SNR and re-scaled the internal computed errors returned by ULySS by multiplying them by $\\chi ^ { 2 }$ . The computed internal errors are small, likely for reasons related to internal degeneracies between the parameters.We used statistics from comparing with common targets observed by both LAMOST and SDSS/SEGUE(Wu et al. 2014) to estimate the external error.We then rescaled the errors using the ratio of the differences between LAMOST and SDSS parameters to the formal errors,assuming that the uncertainties of each series are equivalent. Currently the external errors determined in this way,which are released in the parameter catalog,are larger than the real measurement errors. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.4.6 Internal comparison ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In total,about $18 \\%$ of the targets in LAMOST have been observed more than one time.These multiple exposures can be used to estimate the internal errors on the parameters.We selected 111 000 targets with two observations to estimate the internal errors. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 demonstrates the internal error distribution (i.e.,the difference between parameters measured for the same star with different spectra) including a comparison of $T _ { \\mathrm { e f f } } , \\log g$ ，[Fe/H] and RV. ",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/89498d99b4d9243e66f180c59ad8fa263b8949e9be7938e8e04c5c94f05b16de.jpg",
+        "img_caption": [
+            "Fig.7Histograms comparing differences in measured stellar parameters for pairs of observations of the same star. The panels show the internal consistency of $T _ { \\mathrm { e f f } }$ $\\log g$ $[ \\mathrm { F e / H } ]$ and RV for 111 000 targets. "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "To some extent,another way to estimate the internal error is by comparing the parameters calculated through normalized spectra and unnormalized spectra.Figure 8 shows the distribution of the difference between the parameters measured using normalized and unnormalized spectra. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "4.4.7 External errors ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "We compared the common targets that have both LAMOST DR1 LASP measurements and high resolution spectral results (Bruntt et al. 2O12; Thygesen et al. 2O12; Molenda-Zakowicz et al. 2013; Dong et al. 2014). For this comparison, $T _ { \\mathrm { e f f } }$ and [Fe/H] come from the high resolution spectra, while $\\log g$ comes from the Kepler (Borucki et al. 2O1O) asteroseismic estimation. The comparison between LAMOST DRl and high-resolution data is shown in Figure 9,along with statistical fits characterizing the quality of agreement. Figure 1O shows a similar comparison for the common targets betweenLAMOST(LASP results) and SDSSDR9. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "There are several independent works comparing parameters of DR1 with other reliable external databases. For example, Gao et al.(2Ol5,in preparation) compare DRl parameters with the PASTEL catalogue.Results from the LAMOST Stellr Parameter Pipeline at Peking University (LSP3)(Xiang et al.2O15),an independent parameter pipeline developed at Peking University,show very good consistency with LAMOST/LASP values. All of these comparisons are summarized in Table 2. ",
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/10f33ebf44726f2b279b6cf03bdaab5b65598007cbe8117edb9c2233511c209d.jpg",
+        "img_caption": [
+            "Fig.8 Same as in Fig.7,but now showing the difference between parameters measured using normalized and unnormalized spectra. "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/e40526e6c7159c5e2cf55c22c9a8c0effa5ee49b6fda75ed332f8208d1eea2f0.jpg",
+        "table_caption": [
+            "Table 2 External Comparison with DR1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Teff error</td><td>log g error</td><td>[Fe/H] error</td><td>RV error</td></tr><tr><td>High resolution</td><td>-47±95K</td><td>0.03±0.25 dex</td><td>-0.02±0.1 dex</td><td>1</td></tr><tr><td>SDSS DR9</td><td>-91±111 K</td><td>0.16±0.22 dex</td><td>0.04±0.15 dex</td><td>-7.2±6.6 km s-1</td></tr><tr><td>Gao et al. 2015</td><td>11±110 K</td><td>0.03±0.19 dex</td><td>0.01±0.11 dex</td><td>-3.78±4.91 km s-1</td></tr><tr><td>LSP3</td><td>7±133K</td><td>0.02±0.22 dex</td><td>0.06± 0.14 dex</td><td>1.2± 3.1km s-1</td></tr></table></body></html>",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Huang & Zhang (private communication) also compared the parameters given by DR1 with those from APOGEE,as shown in Figure 11. Besides these,Huang et al. (2015) have compared 499 radial velocities (from DR1) with RVs of the same targets from MMT $+$ Hectospec,which has an RV accuracy of ${ \\sim } 2 . 5 \\mathrm { k m s ^ { - 1 } }$ (Drout et al. 2009,2012). The result is $V _ { r } ( \\mathrm { D R 1 } )$ $\\cdot V _ { r } ( \\mathbf { M } \\mathbf { M } \\mathbf { T } ) { = } { - } 3 . 7 6 \\pm$ $6 . 6 5 \\mathrm { k m ~ s ^ { - 1 } }$ (see Huang et al. 2015). ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5DATAPRODUCTS ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "LAMOST DR1 consists of 2204 860 spectra of stars, galaxies,quasars and unknown objects. The footprint on the sky is shown in Figure 12,and the distributions of stellar parameters forall stars in RV vs. [Fe/H] and $\\log g$ vs. $T _ { \\mathrm { e f f } }$ are shown in Figure 13.DR1 includes the following: ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1. Spectra.—In general, there are 22O4 86O flux-and wavelength-calibrated,sky-subtracted spectra released publicly in DR1. DR1 includes 1 944 329 stars,12 082 galaxies, 5017 quasars and 243 355 unknown objects.These spectra cover the range $3 6 9 0 { \\scriptstyle - 9 1 0 0 \\mathrm { \\AA } }$ with a resolution of 1800. ",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8447647e5aa4e474812b46f96f07545b6e74cf5069056dd4f21bd8c980ea71a.jpg",
+        "img_caption": [
+            "Fig.9 Comparison of the three parameters measured by LASP with LAMOST DR1 spectra and results from high resolution (HR) spectra (or Kepler asteroseismology,in the case of $\\log g$ )forthe same stars. $u _ { 1 }$ means the ULySS determination from the original spectra and $u _ { 2 }$ means the ULySS determination from normalized spectra. "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2c0c38ec22edb65712fbbac1dca5ca6843cee007d4f9074d366754c4631b9a3.jpg",
+        "img_caption": [
+            "Fig.10 Comparison of the three parameters between LASP and SDSS DR9.The convention is the same as described in Fig.9. "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/d44510becaec05e632bfd8b5c1f913272590611dd5e0d5b5cc8d3e0d60340bcc.jpg",
+        "img_caption": [
+            "Fig.11Comparison of stellar parameters for stars in common between LAMOST DR1 and APOGEE. "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0ef03ad364bca91c21d1ef049a43c7c8ff7f65748745f3cd41bd7ef69a5b01b.jpg",
+        "img_caption": [
+            "Fig.12 The footprint of LAMOST DR1 is shown in equatorial coordinates, with red circles representing LAMOST plates.A darker color means more repeated observations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2.Spectroscopic Parameter Catalogs.—In this data release,four spectroscopic parameter catalogs are included: the DR1 general catalog,the A type star catalog,the late A,F, Gand K type stellar parameter catalog,and the M star catalog.Allof these include 3O basic pieces of information about each spectrum; e.g.,RA,Dec, SNR, magnitude,spectral type and redshift,among others. In addition, the A type star catalog also publishes four Balmer line indices and four spectral line widths at $20 \\%$ below the local continuum; the late A,F, G and K type star catalog provides effective temperature, surface gravity and metallicity; and the M star catalog additionally contains a flag to indicate if a star shows magnetic activity. ",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae5f88262a2ac369d708c44de225a3320a07cffd6f27324095cb8ee2edae791a.jpg",
+        "img_caption": [
+            "Fig.13 The distribution of stars in LAMOSTDR1 in the planes of RV vs. $\\mathrm { [ F e / H ] }$ (top) and $\\log g$ vs. $T _ { \\mathrm { e f f } }$ (bottom). "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "5.1FITS File Description ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "5.1.1FITS file designation ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "The file names of the released FITS files are in the form ‘spec-MMMMM-YYYY_spXX-FFF.fits', where ‘MMMMM’ represents the local modified Julian day (MJD),‘YYYY’ is the plan identity string (PLANID),‘XX' indicates the spectrograph number (between 1 and 16),and ‘FFF' shows the fiber number (between 1 and 255).In addition,we provide a LAMOST designation for an object via the DESIG keyword that is formed as ‘LAMOST JHHMMSS.ss+DDMMSS.ss, where ‘HHMMSS.ss’is RA in units of HMS and‘+DDMMSS.ss’is Dec in units of DMS. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "5.1.2PrimaryFITSheader ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "We reorganize keywords of the primary FITS header in DR1 and divided them into eight groups including mandatory keywords, file information keywords, telescope parameter keywords,observation parameter keywords,spectrograph parameter keywords, weather condition keywords,data reduction parameter keywords and spectral analysis results.See details in the appendix (provided in the online version of this paper). ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.1.3 Primary data array ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The primary data array has five rows and NAXIS1 (a keyword explained in the online version） columns.The five rows are Flux，Inverse Variance,Continuum-Subtracted Flux, Andmask and Ormask respectively.It is noted that the ‘inverse variance’of the uncertainties (one over sigma-squared) can be used to estimate the signal-to-noise ratio of each pixel $( f l u x * ( i n v e r s e v a r i a n c e ) ^ { 0 . 5 } )$ ,and ‘Andmask'/Ormask’ are mask flags of six quality situations for each pixel. The details of these two masks are listed in Table A.9 in the online version. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.2 LAMOST Catalogs ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "FourLAMOSTDR1 catalogs are released and available at the website htp://drl.lamost.org/,including the LAMOST general catalog, the A type star catalog,the late A,F, G and K type star catalog and the M star catalog.Detailed information is listed in tables (Table A.11,Table A.12 and Table A.13 in the online version) for each catalog. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The uncertainties of measurements in DR1 are not included since the error estimation is unreliable and needs to be improved; however, the uncertainties will be released in DR2. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.2.1 LAMOST general catalog ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The LAMOST general catalog not only includes 717 660 spectra from the LAMOST pilot survey, comprised of 648 82O stellar spectra,2723 galaxy spectra, 621 quasar spectra and 65 496 unknown spectra,but also 1 487 200 spectra from the LAMOST regular survey, which includes 1 295 586 stellar spectra, 9359 galaxy spectra, 4396 quasar spectra and 177 859 unknown spectra.In this catalog, there are 1221 538 spectra with SNR in the $g$ -band larger than 10,1 839 808 spectra with SNR in $i$ -band larger than 10,and 1198 41O spectra with SNR in both $g$ -and $i$ -bands larger than 10. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "All parameters from this catalog are listed in Table A.1O (online version).For galaxies and quasars, $\\mathbf { \\^ { \\circ } z ^ { \\prime } }$ provides their redshifts,and their $\\cdot _ { \\mathbf { Z } } ,$ is set to $- 9 9 9 9$ if their redshift is unable to be estimated.For stars,‘rv’ is their heliocentric radial velocity,and the‘rv'is set to $- 9 9 9 9$ if their rv is unable to be estimated.For objects with unknown type, their $\\cdot _ { \\mathbf { Z } } ,$ and‘rv’are both set to -9999.In addition,for a galaxy or a quasar, the value of ‘rv’ is empty,and for a star, the value of $\\cdot _ { \\mathrm { { Z } } } ,$ is null. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "On the website http://drl.lamost.org,we provide two formats with the same contents for the LAMOST general catalog; one catalog is in .fits format and the other is .csv format. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.2.2 A type star catalog ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "There are 1Oo O73 A-type stellar spectra in this catalog from both the pilot and regular surveys. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Table A.11(online version） shows all fields associated with this catalog.The‘Class’field presents the two-dimensional spectral classification results,and nearly all A type stars have luminosity class provided by the LAMOST analysis pipeline.Balmer line indices are included in ‘Halpha_Indice',‘Hbeta_Indice',‘Hgama_Indice',and‘Hdelta_Indice’fields,and‘Halpha. ${ \\bf D } 0 . 2 ^ { \\prime }$ ， \\`Hbeta. ${ \\bf D } 0 . 2 ^ { \\circ }$ ,‘Hgama_D0.2',and ‘Hdelta $\\mathbf { D 0 . } 2 ^ { \\circ }$ are the widths at $2 0 \\%$ below the local continuum of these four Balmer lines.However, these eight fields are temporarily empty,and will be released in September of 2O15.The A type star catalog in .csv format can be downloaded from the website (http://drl.lamost.org). ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.2.3 AFGK high quality stellar parameter catalog ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The AFGK high quality stellar parameter catalog includes 61 686 A type stars,548 214 F type stars, 253 275 G type stars and $2 2 2 2 2 9 \\mathrm { K }$ type stars. These spectra are selected with $\\mathrm { S N R } _ { g } \\geq 6$ from darknight observations and $\\mathrm { S N R } _ { g } \\geq 2 0$ from bright nights. The effective temperatures ( $( T _ { \\mathrm { e f f } } )$ ，surface gravities $( \\log g )$ and metallicities $\\left( \\mathrm { F e / H } \\right)$ are determined by LASP. The A type stars in this catalog are those from the A type star catalog with high SNR spectra. These data are available from the website http://drl.lamost.org. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.2.4 M star catalog ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The M star catalog contains 121522 spectra,and their parameters are listed in Table A.13.The basic parameters are provided like those in other catalogs,but the magnetic activity flag ‘magact' is also included in this catalog.The flag willbe assigned to be1if stars have magnetic activity,O if there is no magnetic activity and -9999 if the magnetic activity could not be determined due to low SNR. The specific catalog for M dwarfs is given in (Guo et al.2O15).The M star catalog in .csv format can be obtained from the website http://drl.lamost.org. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.3 Caveats ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.3.1 Radial velocity error ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The DR1 pipeline adopted local Beijing Time rather than UTC during the correction from geocentric coordinates to heliocentric coordinates.Thus an error in radial velocity is introduced,with a mean value of $0 . 3 6 \\mathrm { k m } \\mathrm { s } ^ { - 1 }$ . In addition,the RV errors of some A type stars reach $8 0  { \\mathrm { k m } }  { \\mathrm { s } } ^ { - 1 }$ because their wavelength scale was incorrectly calibrated with air wavelengths instead of vacuum wavelengths. These are listed on the DR1 website. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.3.2 Spectral line errors coming from a combination of sub-exposures ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The LAMOST spectra released in DR1 are combined from several sub-exposures.If one of the three sub-exposures is problematic,spectral lines may be erroneously scaled (clipped) during the B-spline fiting by using the wrong data points.There are 66 838 spectra affected in DR1, which are listed on the DR1 website. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.3.3Offset fromverybright targets ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Some coordinates of bright objects are artificially shifted to avoid saturated exposures.However, we list the original coordinates in the DR1 website. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.3.4Mistaken spectra due to a problemwith the fiber ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Problems were found for tens of thousands of spectra in DR1 that are due to fibers or positioners. These were discovered after the data release,and include several thousand spectra that have stellar parameters $T _ { \\mathrm { e f f } }$ ， $\\log g$ and $\\mathrm { [ F e / H ] }$ .A separate list of these problematic spectra is provided on the DR1 website along with their IDs,and will be excluded from DR2. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "6DATA ACCESSANDUSE ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "The LAMOSTDR1 can be accessed at the LAMOST Data Release web portal, htp://drl.lamost.org, which has been developed under a collaboration with the Chinese Virtual Observatory (China-VO). Web form based database search and data retrieval are available for all interested users.Advanced features are provided for registered users,for example batch search,bulk retrieval and personal space. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "For registered users,lists of identifiers or coordinates supported by CDS SIMBADl and VizieR², or lists of LAMOST identifiers are acceptable to upload and use to search the database in batch mode.SQL-like queries are also supported. Virtual Observatory(VO) tools,such as Aladin³ and SpecView4,and tools developed specifically forLAMOSTare integrated into the web portal. Search results and spectra can be interactively displayed and analyzed.Large results and datasets can be retrieved in several ways, including FTP, wget, cloud storage and VO data access interfaces. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Based on the CDS X-Match Service5,cross identification with dozens of well-known catalogs is also provided as an advanced feature of the data release portal. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "According to the LAMOST data policy,any publication making use of LAMOST data should cite the standard acknowledgement as follows ‘The Guo Shou Jing Telescope (the Large Sky Area Multi-Object Fiber Spectroscopic Telescope,LAMOST） is a National Major Scientific Project built by the Chinese Academy of Sciences.Funding for the project has been provided by the National Development and Reform Commission. LAMOST is operated and managed by National Astronomical Observatories, Chinese Academy of Sciences.' ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements The work was funded by the National Basic Research Program of China (973 Program,2O14CB8457OO)and the National Natural Science Foundation of China （Grant Nos.11390371). The Guo Shou Jing Telescope (the Large Sky Area Multi-Object Fiber Spectroscopic Telescope,LAMOST) is a National Major Scientific Project built by the Chinese Academy of Sciences.Funding for the project has been provided by the National Development and Reform Commisson. LAMOST is operated and managed by National Astronomical Observatories, Chinese Academy of Sciences. The authors deeply thank Prof. Georges Comte for valuable discussions. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Batalha,N.M.,Borucki,W.J.,Koch,D.G.,et al.201O,ApJ,713,L109   \nBorucki,W.J.,Koch,D.,Basri,G., et al. 201O, Science,327,977   \nBovy,J.,Hennawi,J.F.,Hogg,D.W.,et al.2011,ApJ,729,141   \nBruntt,H.,Basu, S., Smalley,B., et al. 2012,MNRAS,423,122   \nCarlin,J.L.,DeLaunay,J.,Newberg,H.J.,et al.2013,ApJ,777,L5   \nChen,J.-J.,Bai,Z.-R.,Luo,A.-L.,&Zhao,Y.-H.2014,inSocietyof Photo-Optical Instrumentation Engineers   \n(SPIE) Conference Series,9149,1   \nChen,L.,Hou,J.-L.,Yu,J.-C.,etal.2O12,RAA(Research in Astronomyand Astrophysics),12,805   \nCui,X.-Q.,Zhao,Y.-H., Chu, Y.-Q.,etal.2012,RAA (Research in Astronomyand Astrophysics),12,1197   \nDeng,L.-C.,Newberg,H.J.,Liu, C.,etal.2O12,RAA(Research in Astronomy and Astrophysics),12,735   \nDong,S.,Zheng,Z., Zhu,Z., et al.2014,ApJ,789,L3   \nDrout,M.R.,Massey,P.,& Meynet, G.2012,ApJ,750,97   \nDrout,M.R., Massey,P.,Meynet, G., Tokarz, S.,& Caldwel,N. 2009,ApJ,703,441   \nDu,B.,Luo,A., Zhang,J.,Wu,Y.,& Wang,F.2012,in Society of Photo-Optical Instrumentation Engineers   \n(SPIE) Conference Series,8451,37   \nGuo,Y.X., Yi,Z.P.,Luo,A.L.,et al.2015,RAA (Research in Astronomy and Astrophysics),15,1182   \nHuang,Y.,Liu, X. W., Zhang,H. W.,et al.2015,RAA (Research in Astronomy and Astrophysics),15,1240   \nHuo, Z.-Y.,Liu,X.-W., Yuan,H.-B.,et al.201o,RAA (Research in Astronomy and Astrophysics),0,612   \nHuo, Z.-Y.,Liu, X.-W., Xiang, M.-S.,et al. 2013, AJ, 145,159   \nKoleva,M.,Prugniel,P.,Bouchard,A.,&Wu,Y.20O9,A&A,501,1269   \nLasker,B.M.,Lattanzi,M.G.,McLean,B.J., et al.20O8,AJ,136, 735   \nLee,Y. S.,Beers,T.C., Sivarani,T.,et al.2008,AJ,136,2022   \nLiu, X.-W., Yuan, H.-B., Huo,Z.-Y.,et al. 2014, in IAU Symposium,298,eds. S. Feltzing, G. Zhao, N. A.   \nWalton,&P.Whitelock,310   \nLiu,X.W.,Zhao,G.,& Hou,J.L.2015,RAA (Research in Astronomy and Astrophysics),15,1089   \nLuo,A.-L.,Zhang,H.-T.,Zhao,Y.-H.,etal.2012,RAA (Research in Astronomy and Astrophysics),12,1243   \nMarquardt,D.W.1963,Journal of the Society for Industrial & Applied Mathematics,11,431   \nMolenda-Zakowicz,J., Sousa, S.G.,Frasca,A., et al. 2013,MNRAS,434,1422   \nMoré,J.J.,Garbow,B.S.,& Hillstrom,K.E.1980, User guide for MINPACK-1,Tech.rep.,CM-P00068642   \nPeng,N., Zhang,Y., Zhao, Y.,& Wu,X.-b.2012,MNRAS,425,2599   \nPerryman,M. A.C.,Lindegren,L., Kovalevsky,J.,et al.1997,A&A,323,L49   \nPrugniel,P.,& Soubiran,C.2001,A&A,369,1048   \nPrugniel,P.,& Soubiran, C.2004,astro-ph/0409214   \nPrugniel,P., Soubiran, C.,Koleva,M.,& Le Borgne,D.2007,astro-ph/O703658   \nRen, J.,Luo,A.,Li, Y., et al. 2013,AJ,146, 82   \nRen,J., Wang,J.,Li, K.,F. H., et al. 20O7, Acta Astronomica Sinica, 48,500   \nRoeser,S.,Demleitner,M.,& Schilbach,E.2010,AJ,139,2440   \nSchneider,D.P.,Richards,G.T., Hal,P.B., et al. 2010, VizieR Online Data Catalog,7260, 0   \nShi,Z.X.,Comte, G.,Luo,A.L.,et al. 2014a,A&A,564,A89   \nShi,Z.-X.,Luo,A.-L., Comte, G., et al. 2014b,RAA (Research in Astronomy and Astrophysics),14,1234   \nSong,Y.-H.,Luo,A.-L., Comte, G.,et al. 2012,RAA (Research in Astronomy and Astrophysics),12,453   \nStoughton,C.,Lupton,R.H.,Bernardi,M.,et al.2002,AJ,123,485   \nThygesen,A. O.,Frandsen, S.,Bruntt,H.,et al. 2012,A&A,543,A160   \nWu,X.-B.,& Jia,Z.2010,MNRAS,406,1583   \nWu, X.-B.,Chen,Z.-Y., Jia, Z.-D., et al. 2010a,RAA (Research in Astronomy and Astrophysics),10,737   \nWu, X.-B.,Jia,Z.-D.,Chen,Z.-Y., et al. 201ob,RAA (Research in Astronomy and Astrophysics),10,745   \nWu, X.-B., Hao, G., Jia, Z., Zhang, Y.,& Peng,N. 2012, AJ,144, 49   \nWu, Y., Singh, H.P.,Prugniel, P., Gupta, R.,& Koleva, M. 2011a, A&A, 525,A71   \nWu, Y.,Luo, A.-L.,Li, H.-N., et al. 201b, RAA (Research in Astronomy and Astrophysics),11, 924   \nWu,Y.,Luo,A.,Du,B.,& Guo,Y.2014,inIAU Symposium,298,eds.S.Feltzing,G.Zhao,N.A.Walton,&   \nP. Whitelock, 445   \nXiang, M. S., Liu, X. W., Yuan, H. B., et al. 2015, MNRAS, 448, 822   \nYang,F.,Carlin,J.L.,Liu,C.,et al.2012,RAA (Research in Astronomy and Astrophysics),12,781   \nYang,M., et al. 2015, MNRAS, in press   \nYanny,B.,Rockosi, C.,Newberg,H.J.,et al.2009,AJ,137,4377   \nYao, S.,Liu, C., Zhang,H.-T.,et al.2012,RAA (Research in Astronomy and Astrophysics),12,772   \nYi, Z.,Luo, A., Song, Y., et al. 2014, AJ, 147, 33 ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "York,D.G.,Adelman,J.,Anderson,Jr.,J.E.,et al.200O,AJ,120,1579   \nYuan,H.-B.,Liu, X.-W.,Huo,Z.-Y.,et al.201o,RAA (Research in Astronomy and Astrophysics),10,599   \nYuan,H.,Zhang,H.,Lei,Y.,&Dong,Y.2Ol2,in Societyof Photo-Optical Instrumentation Engineers (SPIE) Conference Series,8448,2   \nYuan,H.,Zhang,H.,Zhang,Y.,Lei,Y.,& Dong,Y.2014a,inIAU Symposium,298,eds.S.Feltzing,G.Zhao, N.A.Walton,&P.Whitelock,452   \nYuan,H.,Liu,X.,Huo,Z.,et al.2014b,arXiv:1412.6628   \nZhang,Y.,& Zhao,Y. 2003,PASP,115,1006   \nZhang,Y.-Y.,Carlin,J.L., Yang,F.,etal.2012,RAA (Research in Astronomy and Astrophysics),12,792   \nZhang, Y.-Y., Deng,L.-C.,Liu, C., et al. 2013,AJ,146, 34   \nZhao,G., Zhao,Y.-H., Chu,Y.-Q.,Jing,Y.-P.,& Deng,L.-C.2012,RAA(Research in Astronomy and Astrophysics),12,723   \nZhao,J.K.,Luo,A.L.,Oswalt,T.D.,& Zhao,G.2013,AJ,145,169   \nZou,H.,Yang,Y.-B.,Zhang,T.-M.,et al.2011,RAA (Research in Astronomy and Astrophysics),11,1093 ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "AppendixA:TABLELIST ",
+        "text_level": 1,
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "There are nine tables for FITS files,these values must be written in a fixed format,including: ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "MandatoryKeywords (Table A.1) File Information Keywords (Table A.2) Telescope ParameterKeywords (Table A.3) Observation Parameter Keywords (Table A.4) Spectrograph Parameter Keywords (Table A.5) Weather Condition Keywords (Table A.6) DataReductionParameterKeywords (Table A.7) Spectral Analysis ResultKeywords (Table A.8) The significance of six bits of‘Andmask'and‘Ormask' (Table A.9) ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "There are another four tables, ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "The general catalog (Table A.10) A-type star catalog (Table A.11) Late A,FG K-type catalog (Table A.12) M-type star catalog (Table A.13) ",
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/3246533a9b53cc3aae44f115b3bf3e1b0d2e724affc2f770894eabf76dca42d1.jpg",
+        "table_caption": [
+            "Table A.1 Mandatory Keywords "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Keywords</td><td>Value</td><td>Comment</td></tr><tr><td>SIMPLE</td><td>T</td><td>Primary Header created byMWRFITS v1.8</td></tr><tr><td>BITPIX</td><td>-32</td><td></td></tr><tr><td>NAXIS</td><td>2</td><td></td></tr><tr><td>NAXIS1</td><td>3909</td><td></td></tr><tr><td>NAXIS2</td><td>5</td><td></td></tr><tr><td>EXTEND</td><td>T</td><td>Extensionsmay be present</td></tr></table></body></html>",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Notes:1.SIMPLE It is required to be the first keyword in the primary headerof allFITS files.The value field should contain a logical constant with the value $\\mathrm { ~ T ~ }$ if the file conforms to this standard. This keyword is mandatory for the primary header and is not permited in extension headers.Avalue ofF signifies that the file does not conform to this standard.2.BITPIX The value field should containan integer,and it should specify the number of bits that represent a data value.A value of $^ { - 3 2 }$ represents IEEE single precision floating point.3.NAXIS The value field should contain a non-negative integer no greater than 999,representing thenumberof axes inthe associated data array.Avalue of zero signifies that nodata folow the header in the HDU.4.NAXIS1 and NAXIS2 The value field of these two indexed keywords should contain a nonnegative integer,representing the number of elements along axis nof a data array.The NAXIS1 keyword represents the numberof the wavelength array,i.e.,the column numberof the primary data array,and the NAXIS2 keyword indicates the row number of the primary data array.5.EXTEND The value field should contain a logical value indicating whether the FITS fle is allowed to contain conforming extensions following the primary HDU.This keyword may only appear in the primary header and must not appear in an extension header. If the value field is Tthen there may be conforming extensions in the FITS file following the primary HDU.This keyword isonlyadvisory,so its presencewith a value Tdoes not require that the FITS filecontains extensions,nor does the absence of this keyword necessarily imply that the fle does not contain extensions. ",
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/471b1f1d00e4d7e4c9d605b03c8af9595c6598ffe5513e5fbf7ce540544839a4.jpg",
+        "table_caption": [
+            "Table A.2 File Information Keywords "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Keywords</td><td>Value</td><td>Comment</td></tr><tr><td>FILENAME</td><td>‘spec-55859-F5902_sp01-001.fits'</td><td></td></tr><tr><td>AUTHOR</td><td>‘LAMOSTPipeline'</td><td>Who compiled the information</td></tr><tr><td>N_EXTEN</td><td>1</td><td>The extension number</td></tr><tr><td>EXTENO</td><td>‘Flux Inverse Subcontinuum Andmask Ormask'</td><td></td></tr><tr><td>ORIGIN</td><td>'NAOC-LAMOST'</td><td>Organization</td></tr><tr><td>DATE</td><td>'2013-07-17T10:23:12'</td><td>(UTC)</td></tr></table></body></html>",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Notes:1.FILENAME The value field should contain a character string giving the name of this FITS file. Take the‘spec-55859-F5902_sp01-001.fits'as anexample,‘55859'is the local modified Julian day,F5902' is the plan ID,‘spO1'is the spectrograph ID,and $\\cdot _ { 0 0 1 } ,$ is the FiberID.2.AUTHOR This keyword contains a string constant‘LAMOST Pipline',which represents the author who produced this file.3.NEXTEN The value field should contain an integer giving the extension number of a FITS file.4.EXTENo This keyword contains a string constant ‘Flux Inverse Subcontinuum Andmask Ormask’explaining each row of the primary data arry in a primary HDU.5.ORIGIN This ORIGIN keyword contains a string constant ‘NAOC-LAMOST',which indicates the organization responsible for this FITS file.‘NAOC' represents the abbreviation of National Astronomical Observatories,Chinese Academy of Sciences.6.DATE The value field should contain a character string giving the UTC time when this FITS file is created. ",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/d22d841f783134a4eed75e84f45358e21500d4ee45b0ca04264059b9549d39e7.jpg",
+        "table_caption": [
+            "Table A.3 Telescope ParameterKeywords "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Keywords</td><td>Value</td><td>Comment</td></tr><tr><td>TELESCOP</td><td>‘LAMOST'</td><td>GuoShouJing Telescope</td></tr><tr><td>LONGITUD</td><td>117.580</td><td>Longitude of site [°]</td></tr><tr><td>LATITUDE</td><td>40.3900</td><td>Latitude of site [°]</td></tr><tr><td>FOCUS</td><td>19964</td><td>Telescope focus [mm]</td></tr><tr><td>CAMPRO</td><td>'NEWCAM'</td><td>Camera program name</td></tr><tr><td>CAMVER</td><td>‘v2.0’</td><td>Camera program version</td></tr></table></body></html>",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Notes:1.TELESCOP This keyword contains a string constant‘LAMOST'giving the name of our telescope.2.LONGITUD The keyword contains a floating-point constant,which provides the longitude of Xinglong station where LAMOST is located.3.LATITUDE The keyword contains a floating-point constant,which provide the latitude of Xinglong station.4.FOCUS The keyword gives the telescope focus,and itsunit is milimeter.5.CAMPRO The value field contains a string constant ‘NEWCAM',which shows the name of the camera.6.CAMVER The value field contains a character string $\\cdot _ { \\mathrm { v } 2 . 0 } ,$ ,which gives the present version of the program controlling the camera. ",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/2127d73f2679f179d6b144a5c94f0d3732f39f7fd29c7a853a7018c4e059c09f.jpg",
+        "table_caption": [
+            "Table A.4 Observation ParameterKeywords "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Keywords</td><td>Value</td><td>Comment</td></tr><tr><td>DATE-OBS</td><td>2013-06-03T16:47:08.38'</td><td>The observation median UTC</td></tr><tr><td>DATE-BEG</td><td>2013-06-04T00:13:52.0'</td><td>The observation start local time</td></tr><tr><td>DATE-END</td><td>'2013-06-04T01:21:17.0'</td><td>The observation end local time</td></tr><tr><td>MJD</td><td>56447</td><td>Local Modified Julian Day</td></tr><tr><td>MJDLIST</td><td>‘56447-56447'</td><td>Local Modified Julian Day list</td></tr><tr><td>MJMLIST</td><td>‘81283693-81283731'</td><td>Local Modified Julian Minute list</td></tr><tr><td>PLANID</td><td>HD174640N254456F01'</td><td>Plan ID in use</td></tr><tr><td>RA</td><td>266.506521500</td><td>Right ascension of object[]</td></tr><tr><td>DEC</td><td>23.7254148000</td><td>Declination of object[]</td></tr><tr><td>DESIG</td><td>LAMOSTJ174601.56+234331.4'</td><td>Designation ofLAMOST target</td></tr><tr><td>FIBERID</td><td>80</td><td>Fiber ID of Object</td></tr><tr><td>CELL_ID</td><td>‘E0818'</td><td>Fiber Unit ID on the focal plane</td></tr><tr><td>X_VALUE</td><td>51.4330635340</td><td>X coordinate of object on the focal plane [mm]</td></tr><tr><td>Y_VALUE</td><td>703.039784897</td><td>Y coordinate of object on the focal plane [mm]</td></tr><tr><td>OBJNAME</td><td>230388178985208'</td><td>Name of object</td></tr><tr><td>OBJTYPE</td><td>‘Star'</td><td>Object type from input catalog</td></tr><tr><td>OBJSOURC</td><td>‘LEGUE_LCH'</td><td>Name of input catalog</td></tr><tr><td>FIBERTYP</td><td>‘Obj'</td><td>Fiber type of object</td></tr><tr><td>MAGTYPE</td><td>‘gri'</td><td>Magnitude type of object</td></tr><tr><td>MAG1</td><td>17.94</td><td>Magl of object [mag]</td></tr><tr><td>MAG2</td><td>17.47</td><td>Mag2 of object [mag]</td></tr><tr><td>MAG3</td><td>17.24</td><td>Mag3 of object [mag]</td></tr><tr><td>MAG4</td><td>99.00</td><td>Mag4 of object [mag]</td></tr><tr><td>MAG5</td><td>99.00</td><td>Mag5 of object [mag]</td></tr><tr><td>MAG6</td><td>99.00</td><td>Mag6 of object [mag]</td></tr><tr><td>MAG7</td><td>99.00</td><td>Mag7 of object [mag]</td></tr><tr><td>OBS_TYPE</td><td>'OBJ'</td><td>The type of target (OBJ,FLAT,ARC or BIAS)</td></tr><tr><td>OBSCOMM</td><td>'Science'</td><td>Science, Test</td></tr><tr><td>RADECSYS</td><td>‘FK5'</td><td>Equatorial coordinate system</td></tr><tr><td>EQUINOX</td><td>2000.00</td><td>Equinox in years</td></tr></table></body></html>",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Notes:1.DATE-OBSThe value fieldshouldcontainacharacterstring,whichgives themedian UTCof multipleexposures.2.DATEBEG Thevaluefeld shouldcontainacharacterstring givingthestartoftheobservationaccording toBeijing Time.3.DATE-END Thevaluefieldshouldcontainacharacter string,which provides theendof theobservationaccording toBeijingTime.4.MJD The value fieldshouldbeanon-negativeinteger giving thelocalmodified Julianday.5.MJDLISTThevaluefeldshouldcontain acharacter tring,whichshowsalistof thelocalmodifiedJuliandayofnexposures.6.MJMLISTThevaluefieldshouldcontain acharacterstring,which showsalistoflocal modifiedJulian minuteofnexposures.7.PLANIDThe value field shouldcontaina characterstringprovidingtheplanIDoftetarget.8.RAThevaluefieldshouldcontainanon-negativerealfoating-pointumber which gives therightascensionofthetarget.9.DECThevaluefieldshouldcontainanon-negativerealfoating-pointnumber,which gives the declinationofthetarget.10.DESIGThevalue fieldshouldcontainacharacterstring,whichindicatesthe nameof the LAMOST target.Like the name of the SDSS target, numbers after the character $\\cdot \\mathbf { J } ^ { \\prime }$ and before $\\cdot _ { + } ,$ represent RA in the unit of HMS, and numbers after the character $\\cdot _ { + } ,$ are DEC in the unit of DMS.11.FIBERID The value field should contain a non-negative integer betweenland25O,whichshows thefiberIDandshouldbeused together with thespectrographID.12.CELLIDThe value field shouldcontainacharacter string,which gives thefberunit IDonthefocal plane.TheLAMOSTfocal planeisdivided into four quadrantsnamed EFGHrespectively;thefrstcharacterofthiskeywordrepresents thequadrant number,the firsttwonumbers afterthe firstcharacteraretherownumbers inthisquadrant,and thenext two numbers thecolumn numbers.13.XVALUEand Y_VALUE Theirvaluefield shouldcontaintworealfloating-point numbers,which giveXandYcoordinatesof thetargeton the focalplane.14.OBJNAMEThevaluefeldshouldcontainacharacterstring,givingthenameIDoftheobject thatisdeterminedby theRA,DECand HTMmethod.15.OBJTYPEThevaluefeldshouldcontainacharacterstring givingtheclassofobjects ininput catalogs.16.OBJSOURCThevalue feld should contain acharacterstring which shows the nameof theorganizationor person who submitedthe inputcatalog.17.FIBERTYPThevaluefieldshouldcontainacharacterstring,givingthe typeoffiberaigned tothis targetseyordafevaluesiObjky-stdUused,osEradadObjmeasteberisid object,includingastargalaxyandsoon.kyindicatesthefberisallcatedtotakeskylight.F-stdshowsthefberisusedtotaketh lightofafuxcalibrationstandardsta.Unused,PosErandDeadmeanthefiberisotused,goestoawrongpositionrosot work espectively.18.MAGTYPEThealuefieldshouldcontainacharacterstring,whichshowsthemagnitude typeofatarget.19. MAG1,MAG,MAG3,MAG4,MAG5,MAG6and MAG7The value fieldshouldcontainarealfoating-point numbers between Oand100,giving theasociatedmagnitudesofMAGTYPEkeyword.For example,ifMAGTYPEkeywordis‘ugrizjh',the MAG1, MAG2,MAG3,MAG4,MAG5,MAG6andMAG7keywords providethe magnitudesofu,g,r,i,z,jandhflterrespectively.0. OBS_TYPEThevaluefeldshouldcontainacharacterstringgivingthetypeofobservationtargets,which includeobject,fatbias andarclamp.21.OBSCOMMThevaluefeldshouldcontainacharactertringconstantrepresentingthepurposeoftheobservation, whichincludesobservationsusedforscienceresearchesanddiferentkindsoftests.2.RADECSYSTevaluefieldshouldcontain acharacterstringgivingtheequatorialcoordinate systembasedontheJ2OoOposition.23.EQUINOXThevaluefieldshouldcontain a real floating-point number giving the standard epoch used at present. ",
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/154ac9b6392ff02e98b80e04592a6ae0cb6d27758111712fac1ba2f3558db1f5.jpg",
+        "table_caption": [
+            "Table A.5 Spectrograph Parameter Keywords "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Keywords</td><td>Value</td><td>Comment</td></tr><tr><td>SPID</td><td>1</td><td>Spectrograph ID</td></tr><tr><td>SPRA</td><td>266.640</td><td>Average RA of this spectrograph[°]</td></tr><tr><td>SPDEC</td><td>23.7144</td><td>Average DEC of this spectrograph [°]</td></tr><tr><td>SLIT_MOD</td><td>x2/3’</td><td>Slit mode,x1,x2/3 or x1/2</td></tr></table></body></html>",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Notes:1.SPID The value field should contain a non-integer number between 1 and 16,which provides the spectrograph ID.2.SPRA and SPDEC The value field of these two keywords should contain two real floating-point numbers,which are the averages of RA and DEC for allobjects in each spectrograph.3. SLIT_MOD The value field should contain a character string giving the mode of the slit,which includes x1, $\\mathbf { x } 2 / 3$ and $\\mathbf { x } 1 / 2$ .At present,only mode $\\mathbf { x } 2 / 3$ is available,which corresponds to a spectral resolution of 1800. ",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2416d4f2b77712d417c10df85645087a37ffd510f98c7fdd89c1f1120823cfb.jpg",
+        "table_caption": [
+            "Table A.6 Weather ConditionKeywords "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Keywords</td><td>Value</td><td>Comment</td></tr><tr><td>TEMPCCDB</td><td>-101.60</td><td>The temperature of the blue CCD[C]</td></tr><tr><td>TEMPCCDR</td><td>-103.90</td><td>The temperature of the red CCD [C]</td></tr><tr><td>SEEING</td><td>3.60</td><td>Seeing during exposure [\"]</td></tr><tr><td>MOONPHA</td><td>24.51</td><td>Moon phase for a 29.53 day period [d]</td></tr><tr><td>TEMP_AIR</td><td>20.35</td><td>Temperature outside dome [C]</td></tr><tr><td>DEWPOINT</td><td>3.11</td><td>[C]</td></tr><tr><td>DUST</td><td>、，</td><td>Reservation</td></tr><tr><td>HUMIDITY</td><td>0.32</td><td></td></tr><tr><td>WINDD</td><td>87.00</td><td>Wind direction [°]</td></tr><tr><td>WINDS</td><td>2.30</td><td>Wind speed [m s-1]</td></tr></table></body></html>",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Notes:1.TEMPCCDB The value field should contain areal floating-point number,which provides the temperature of the blue CCD.The unit $\\mathbf { \\nabla } \\cdot \\mathbf { C }$ degree’represents degree Centigrade.2.TEMPCCDR The value field should contain a real floating-point number,which provides the temperature of the red CCD.The unit $\\mathbf { \\nabla } \\cdot \\mathbf { C }$ degree'represents degree Centigrade.3.SEEING The value field should contain areal floating-point number giving the seeing during an exposure,which is calculatedby manually measuring the full width at half maximumof the guide star image.4. MOONPHA The value field should contain areal floating-point number giving the moon phase.5.TEMP_AIR The value field should contain areal floating-point number giving the temperature outside the dome,which is measured by and automatic weather instrument. The unit $\\mathrm { { } ^ { \\cdot } C }$ degree’represents degree Centigrade.6.DEWPOINT The value field should contain areal floating-point number giving the dew-point temperature,which is also measured by the automatic weather instrument. The unit $\\mathrm { { } ^ { \\cdot } C }$ degree’represents degree centigrade.7.DUST The value of this keyword is temporarilyemptyatpresent,because thedust measuring instrumentisnow being debugged,and wewill write this parameter into theFITS header when the problems are resolved.8.HUMIDITYThe value field should contain areal floating-point number betweenOand1,which gives humidity in the air.9.WINDD The value field should contain arealfloating-point number which records the instantaneous wind direction when the exposure starts,andthe directionof north is definedasOdegrees.10.WINDS The value field should containarealfloating-point number which records the instantaneous wind speed when the exposure starts,and the wind direction and speed are also measured by an automatic weather instrument. ",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ace38a75b8c18820a18973c35ff710a044ee65c5bd9845e1cb1d494b529513d.jpg",
+        "table_caption": [
+            "Table A.7 Data Reduction Parameter Keywords(1) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Keywords</td><td>Value</td><td>Comment</td></tr><tr><td>LAMPLIST</td><td>\"lamphgcdne.dat'</td><td>Arc lamp emission line list</td></tr><tr><td>SKYLIST</td><td>'skylines.dat'</td><td>Sky emission line list</td></tr><tr><td>EXPID01</td><td>‘01b-20130604001350-4-81283693'</td><td>ID string for exposure 1</td></tr><tr><td>EXPID02</td><td>‘01b-20130604005112-5-81283731'</td><td>ID string for exposure 2</td></tr><tr><td>EXPID03</td><td>‘01r-20130604001348-4-81283693'</td><td>ID string for exposure 3</td></tr><tr><td>EXPID04</td><td>'01r-20130604005109-5-81283731'</td><td>ID string for exposure 4</td></tr><tr><td>NEXP</td><td>2</td><td>Number of valid exposures</td></tr><tr><td>NEXP_B</td><td>2</td><td>Number of valid blue exposures</td></tr><tr><td>NEXP_R</td><td>2</td><td>Number of valid red exposures</td></tr><tr><td>EXPT_B</td><td>3600.00 [s]</td><td>Blue exposure duration time</td></tr><tr><td>EXPT_R</td><td>3600.00 [s]</td><td>Red exposure duration time</td></tr><tr><td>EXPTIME</td><td>3600.00 [s]</td><td>Minimum exposure time for all cameras</td></tr><tr><td>BESTEXP</td><td>81283693</td><td>MJM of the best exposure</td></tr><tr><td>SCAMEAN</td><td>2.11 [ADU]</td><td>Meanlevel of scattered light</td></tr><tr><td>EXTRACT</td><td>‘aperture'</td><td>Extraction method</td></tr><tr><td>SFLATTEN</td><td>T</td><td>Super flat has been applied</td></tr><tr><td>PCASKYSB</td><td>T</td><td>PCA sky-subtraction has been applied</td></tr><tr><td>NSKIES</td><td>22</td><td>Sky fiber number</td></tr><tr><td>SKYCHI2</td><td>1.91072039307</td><td>Mean chi² of sky-subtraction</td></tr><tr><td>SCHI2MIN</td><td>1.51493247984</td><td>Minimum chi² of sky-subtraction</td></tr><tr><td>SCHI2MAX</td><td>2.31929337901</td><td>Maximum chi² of sky-subtraction</td></tr></table></body></html>",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Notes:LAMPLISTThe value field should contain a character string giving the file name of the arc lamp emission line list,which isused inthe processof wavelength calibration.SKYLISTThe valuefield shouldcontainacharacter string giving the file nameof the sky emission line list,which is used in the processof sky subtraction.EXPID01, EXPID02,EXPIDo3,EXPIDo4 The value fieldof these four keywords contains four character strings giving the ID strings of the first,second,thirdand fourth exposures respectively,which areanalogous to the file namesof LAMOST raw data for the four exposures.It should be noted that,if the exposure times of a target are n,there should be nassociated keywords here,which are EXPIDO1,EXPID02,..EXPIDn respectively.NEXP,NEXP_B, NEXP_RThe value fieldofthese three keywords shouldcontain three non-negative integers,which provide numbers of exposures,and numbers of validblue and red exposures respectively.EXPT_B,EXPT_RThe value fieldsof these two keywords should contain two real floating-point numbers,which give the exposure durations of the blue and red CCD.EXPTIME The value field shouldcontain arealfloating-point, which gives the minimum of blue andred total exposurestimes.BESTEXP The value field should contain an integer,which gives the MJM of an exposure with the maximum signal and noise ratio inn exposures.SCAMEAN The value field should contain arealfloating-point value giving the mean levelof scatered light,which is the averagefluxofregions where there isno fiberand isat the leftandright edgeofatwo dimensionalspectral image.EXTRACTThevalue field should containacharacter string,which indicates the method of spectral extraction.In the LAMOST spectral reduction pipeline,only the aperture method is applied to spectral extraction.SFLATTEN The value of this keyword should be Boolean,which represents whether or notuse the super flat is used.IntheLAMOST spectral reduction pipeline,the super fatis used to makethefiber-to-fberrelative eficiencyaroundl,anditcanbeestimated through spline fitingtheflatfluxofall fibers in a spectrograph.PCASKYSB The value of this keyword should be Boolean,which represents whether or notusethe PCA method is used to subtract skylight.IntheLAMOSTspectralreduction pipeline,the PCA method is used to subtract sky light in the wavelength range larger than $7 2 0 0 \\mathrm { \\AA }$ .NSKIES The value field should contain an integer, which shows the numberof the sky fiber inaspectrograph.SKYCHI2 The value feld shouldcontain a real floating-point,which gives the mean chi square of sky-subtraction.In the processofLAMOST spectral reduction, a super sky is obtained by spline fiting m sky spectra.Thus,the chi square between the super sky and each sky spectrum inan exposure,and the average chi square of m sky spectra can also be obtained.Assuming there are n exposures,there willbe 2n averagechi squares value because of n blue spectra and nred spectra,and this keyword will be evaluated by calculating the mean value of these 2n average chi square values.SCHI2MIN The value feld should contain a real floating-point value,which gives the minimum chi square of sky-subtraction.As mentioned above,there willbe 2naverage chi square values assuming n exposures,and this keyword willbe the maximum of these chi squares.SCHI2MAX The value field should contain areal floating-point,which gives the maximum chi square of sky-subtraction.As mentioned above,there willbe 2n average chi square values assuming nexposures, and this keyword will be the minimum of these chi square values. ",
+        "page_idx": 35
+    },
+    {
+        "type": "table",
+        "img_path": "images/71b4aa4524340f2192b65fceef74fb1bbaeb9e4bc036a68c80bb018953422c9e.jpg",
+        "table_caption": [
+            "Table A.7Data Reduction Parameter Keywords (2) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Keywords</td><td>Value</td><td>Comment</td></tr><tr><td>NSTD</td><td>2</td><td>Number of (good) standard stars</td></tr><tr><td>FSTAR</td><td>‘149-182 '</td><td>Fiber ID of flux standard stars</td></tr><tr><td>FCBY</td><td>“catalog ’</td><td>Standard stars origin (auto,manual or catalog)</td></tr><tr><td>HELIO</td><td>T</td><td>Heliocentric correction</td></tr><tr><td>HELIO_RV</td><td>-3.99846411542</td><td>[km s－1] Heliocentric correction</td></tr><tr><td>VACUUM</td><td>T</td><td>Wavelengths are in a vacuum</td></tr><tr><td>NWORDER</td><td>2</td><td>Number of linear-loglO coefficients</td></tr><tr><td>WFITTYPE</td><td>‘LOG-LINEAR'</td><td>Linear-loglO dispersion</td></tr><tr><td>COEFFO</td><td>3.56820</td><td>Central wavelength (loglO) of first pixel</td></tr><tr><td>COEFF1</td><td>0.000100000</td><td>log10 dispersion per pixel</td></tr><tr><td>WAT0_001 WAT1_001</td><td>‘system=linear' wtype=linear label=Wavelength</td><td></td></tr><tr><td></td><td>units=Angstroms</td><td></td></tr><tr><td>CRVAL1</td><td>3.56820</td><td>Central wavelength (loglO) of first pixel</td></tr><tr><td>CD1_1</td><td>0.000100000</td><td>log10 dispersion per pixel</td></tr><tr><td>CRPIX1</td><td>1</td><td>Starting pixel (1-indexed)</td></tr><tr><td>CTYPE1</td><td>‘LINEAR'</td><td></td></tr><tr><td>DC-FLAG</td><td>1</td><td>Log-linear flag</td></tr></table></body></html>",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Notes:NSTD The value field should contain a non-negative integer, which shows the number of flux standard stars with good spectra quality.FSTAR The value field should contain a character string giving the fiber identity numbers of flux standard stars,which are separated by the symbol '-.FCBY The value field should contain a character string giving the selection methods of fux standard stars,which include auto, manual and catalog.Auto indicates the standard stars are selected by the LAMOSTreduction pipeline,manual means they are picked out by experienced staffs,and catalog indicates the standard stars are provided by the nput catalog.HELIO The value of this keyword should be Boolean,which indicates whether or not to perform the heliocentric correction.HELIO_RV The value field should contain areal floating-point number,which gives the radial velocity used to carry out the heliocentric correction.VACUUMThe value of this keyword should be Boolean,which denotes whether or not the LAMOST spectrum is converted to the vacuum wavelength.NWORDER The value of this keyword should containan integer,which gives the numberof linear-log1O coefcients.WFITTYPE The value field should contain a character string giving the linear-loglO dispersion.COEFFo The value field should contain a real floating-point number,which provides the central wavelength (loglO)of the first pixel. COEFF1 The value field should contain a real floating-point number giving the loglO dispersion per pixel.WATo_oo1Thevalue field contains a character string.WAT1_O01The value field containsa character string.CRVAL1The value field should contain a real floating-point number,which gives the coordinate of the reference pixel provided by the CRPIX1 keyword.CD1_1 The value field should contain areal foating-point number giving the dispersion of per pixel.CRPIX1 The value of this keyword should contain an integer,which sets the reference pixel location on pixel axis.CTYPE1 The value field should contain acharacter string,which willhave the value ‘LINEAR’that defines the wavelength axes to be linear.DC-FLAG The value of this keyword should be Boolean,where a value ofOdefines alinear sampling of the dispersion and a value of1 defines alogarithmic sampling of the dispersion. ",
+        "page_idx": 36
+    },
+    {
+        "type": "table",
+        "img_path": "images/77c7adc4928efafdbd9236944dd1df4edf0eee8ba949e54903bdf828760bb975.jpg",
+        "table_caption": [
+            "TableA.8 Spectral AnalysisResultKeywords "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Keywords</td><td>Value</td><td>Comment</td></tr><tr><td>VERSPIPE</td><td>‘v2.6.4'</td><td>Version of Pipeline</td></tr><tr><td>CLASS</td><td>‘STAR'</td><td>Class of object</td></tr><tr><td>SUBCLASS</td><td>‘F5’</td><td>Subclass of object</td></tr><tr><td>Z</td><td>-0.000314280000000</td><td>Redshift of object</td></tr><tr><td>Z_ERR</td><td>：，</td><td>Redshift error of object</td></tr><tr><td>SN_U</td><td>1.26</td><td>SNR of u filter</td></tr><tr><td>SN_G</td><td>4.68</td><td>SNR of g filter</td></tr><tr><td>SN_R</td><td>9.62</td><td>SNR of r filter</td></tr><tr><td>SNI</td><td>11.24</td><td>SNR of i filter</td></tr><tr><td>SN_Z</td><td>7.44</td><td>SNR of z filter</td></tr></table></body></html>",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Notes:VERSPIPE The value field should contain a character string constant,which provides the version of the LAMOST pipeline that is used in spectral processng and analysis.In this data release,the value of VERSPIPE is $\\cdot _ { \\mathrm { v } 2 . 6 . 4 } ,$ . It should be noted that, $\\cdot _ { \\mathrm { v } 2 . 6 } ,$ is the version of the spectral reduction pipeline,‘v4' is the version of the spectral analysis pipeline,and $\\cdot _ { \\mathrm { v } 2 . 6 . 4 } ,$ combines these two versions together. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "CLASS The value field should contain a character string that provides the classfication result determined by the LAMOST spectral analysis pipeline,which includes‘STAR',‘GALAXY',QSO'or ‘Unknown'. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "SUBCLASS The value field should contain a character string,which gives sub-classification result for stars.This keyword providesamore detailed spectral type for lateA,F,G,Kand Mstars,and spectral and photometric type for A type stars.For galaxies,quasars or unknown type objects,this keyword is set to ‘Non' now. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { z }$ The value field should contain a real floating-point number providing the redshift of the target,which is mainly determined by the LAMOST spectral analysis pipeline.For the case that redshift is unable to calculate by the pipeline,it willbe manually determined through measuring the shifts in some spectral line centers.If thequalityofaspectrum is poor,or itis classifiedas‘Unknown',itsredshiftisartificiall setto -9999.0. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Z_ERR The value field should contain a real floating-point number,which gives the redshift error of a target.At present,the values of Z_ERR keywords are not yet published,and we will release redshift errors at the next data release in September of 2015. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "SN_U,SN_G,SN_R,SN_IandSN_ZKeywords The value fieldsof these five keywords shouldcontainfive real floating-point numbers,which give the signal to noise ratio (SNR) of u,g,r,i and $\\mathbf { z }$ bands.Using the center wavelength and bandwidth,we can obtain the wavelength range for each SDSS band,and then the SNR in each band is the median value at each pixel in this band. ",
+        "page_idx": 37
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ec47f8bdc7e3cd86328a0d0f9d88921cbe0e433209ce0f62a23824ff77e8f57.jpg",
+        "table_caption": [
+            "TableA.9 The significance of six bitsof‘Andmask’and‘Ormask\" "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Bit</td><td>Keyword</td><td>Comments</td></tr><tr><td>1</td><td>BADCCD</td><td>bad pixel on CCD</td></tr><tr><td>2</td><td>BADPROFILE</td><td>bad profile extraction</td></tr><tr><td>3</td><td>NOSKY no</td><td>sky information at this wavelength</td></tr><tr><td>4</td><td>BRIGHTSKY</td><td>sky level too high</td></tr><tr><td>5</td><td>BADCENTER</td><td>fiber trace of the CCD</td></tr><tr><td>6</td><td>NODATA</td><td>no good data</td></tr></table></body></html>",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Notes:(l)The ‘andmask'information isadecimal integerdetermined byasix-bit binary number,which represents six situationsrespectivelythatare listed inthis table.Theasociated bitof‘andmask'willbesetto1,if thecase always appears ineach exposure.Like‘andmask',‘ormask'information is alsoa decimal integer determined bya six-bitbinary number.The differenceis that each bitof‘ormask'willbesetto1if therelatedcase happens inany exposure.(2)For a spectrum,if you want to check which case occurred during the reduction process,you should convert the decimal‘Andmask’and‘Ormask'to the six-bit binary number,and a case must have happened in all exposures (at least one exposure) if the associated bit is 1 in binary ‘Andmask'('Ormask'). ",
+        "page_idx": 37
+    },
+    {
+        "type": "table",
+        "img_path": "images/c97690d3827f1c5a91399edaccfdbadfe88db4f196638ced8d549276a2538f1c.jpg",
+        "table_caption": [
+            "Table A.10 LAMOST General Catalog "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Field (unit)</td><td>Type</td><td>Comment</td></tr><tr><td>designation</td><td>varchar</td><td>Target Designation</td></tr><tr><td>specObjId</td><td>long integer</td><td>Unique Spectral ID</td></tr><tr><td>obsdate</td><td>char</td><td>Target Observation Date</td></tr><tr><td>mjd</td><td>char</td><td>Local Modified Julian Day</td></tr><tr><td>planid</td><td>char</td><td>Plan ID</td></tr><tr><td>spid</td><td>integer</td><td>Spectrograph ID</td></tr><tr><td>fiberid</td><td>integer</td><td>Fiber ID</td></tr><tr><td>objra(°)</td><td>float</td><td>Right Ascension</td></tr><tr><td>objdec ()</td><td>float</td><td>Declination</td></tr><tr><td>dataversion</td><td>char</td><td>Data Version</td></tr><tr><td>snru</td><td>float</td><td>SignalNoise Ratio of u filter</td></tr><tr><td>snrg</td><td>float</td><td>SignalNoise Ratio of gfilter</td></tr><tr><td>snrr</td><td>float</td><td>SignalNoise Ratio of r flter</td></tr><tr><td>snri</td><td>float</td><td>SignalNoise Ratio of i filter</td></tr><tr><td>snrz</td><td>float</td><td>SignalNoise Ratio of z filter</td></tr><tr><td>objtype</td><td>varchar</td><td>Object Type</td></tr><tr><td>class</td><td>varchar</td><td>Spectral Type</td></tr><tr><td>subclass</td><td>varchar</td><td>Stellar Sub-Class</td></tr><tr><td>magtype</td><td>varchar</td><td>TargetMagnitude Type</td></tr><tr><td>mag1 (mag)</td><td>float</td><td>Associated Magnitude 1</td></tr><tr><td>mag2 (mag)</td><td>float</td><td>Associated Magnitude 2</td></tr><tr><td>mag3 (mag)</td><td>float</td><td>Associated Magnitude 3</td></tr><tr><td>mag4 (mag)</td><td>float</td><td>Associated Magnitude 4</td></tr><tr><td>mag5 (mag)</td><td>float</td><td>Associated Magnitude 5</td></tr><tr><td>mag6 (mag)</td><td>float</td><td>Associated Magnitude 6</td></tr><tr><td>mag7 (mag)</td><td>float</td><td>Associated Magnitude 7</td></tr><tr><td>tsource</td><td>varchar</td><td>Organization or person who submited the input to the catalog</td></tr><tr><td>tfrom</td><td>varchar</td><td>Input catalog submitted by an organization or a person</td></tr><tr><td>fibertype</td><td>varchar</td><td>Fiber Type of target [Obj,Sky,F-std,Unused,PosErr,Dead]</td></tr><tr><td>Z</td><td>float</td><td>Redshift</td></tr><tr><td>rv (km s-1)</td><td>float</td><td>Heliocentric Radial Velocity</td></tr></table></body></html>",
+        "page_idx": 38
+    },
+    {
+        "type": "table",
+        "img_path": "images/32439c389985c149a563cf794078e0e0dd3cb80f95999de157fd5ae8ddd56060.jpg",
+        "table_caption": [
+            "Table A.11 A Type Star Catalog "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Field (unit)</td><td>Type</td><td>Comment</td></tr><tr><td>designation</td><td>varchar</td><td>TargetDesignation</td></tr><tr><td>specObjId</td><td>long integer</td><td>Unique Spectral ID</td></tr><tr><td>obsdate</td><td>char</td><td>Target Observation Date</td></tr><tr><td>mjd</td><td>char</td><td>Local Modified Julian Day</td></tr><tr><td>planid</td><td>char</td><td>Plan ID</td></tr><tr><td>spid</td><td>integer</td><td>Spectrograph ID</td></tr><tr><td>fiberid</td><td>integer</td><td>Fiber ID</td></tr><tr><td>objra (°)</td><td>float</td><td>Right Ascension</td></tr><tr><td>objdec (°)</td><td>float</td><td>Declination</td></tr><tr><td>dataversion</td><td>char</td><td>Data Version</td></tr><tr><td>snru</td><td>float</td><td>Signal Noise Ratio of u filter</td></tr><tr><td>snrg</td><td>float</td><td>Signal Noise Ratio of g filter</td></tr><tr><td>snrr</td><td>float</td><td>Signal Noise Ratio of r filter</td></tr><tr><td>snri</td><td>float</td><td>Signal Noise Ratio of i filter</td></tr><tr><td>snrz</td><td>float</td><td>Signal Noise Ratio of z filter</td></tr><tr><td>objtype</td><td>varchar</td><td>Object Type</td></tr><tr><td>class</td><td>varchar</td><td>Stellar Class</td></tr><tr><td>subclass</td><td>varchar</td><td>Stellar Sub-Class</td></tr><tr><td>magtype</td><td>varchar</td><td>Target Magnitude Type</td></tr><tr><td>mag1 (mag)</td><td>float</td><td>Associated Magnitude 1</td></tr><tr><td>mag2 (mag)</td><td>float</td><td>Associated Magnitude 2</td></tr><tr><td>mag3 (mag)</td><td>float</td><td>Associated Magnitude 3</td></tr><tr><td>mag4 (mag)</td><td>float</td><td>Associated Magnitude 4</td></tr><tr><td>mag5 (mag)</td><td>float</td><td>Associated Magnitude 5</td></tr><tr><td>mag6 (mag)</td><td>float</td><td>Associated Magnitude 6</td></tr><tr><td>mag7 (mag)</td><td>float</td><td>Associated Magnitude 7</td></tr><tr><td>tsource</td><td>varchar</td><td>Organization or person who submited the input to the catalog</td></tr><tr><td>tfrom</td><td>varchar</td><td>Input catalog submitted by an organization or a person</td></tr><tr><td>fibertype</td><td>varchar</td><td>Fiber Type of target [Obj,Sky,F-std, Unused,PosErr,Dead]</td></tr><tr><td>rv (km s-1)</td><td>float</td><td>Heliocentric Radial Velocity</td></tr><tr><td>Halpha_Indice (A)</td><td>float</td><td>Line Index of Halpha line</td></tr><tr><td>Hbeta_Indice (A)</td><td>float</td><td>Line Index of Hbeta line</td></tr><tr><td>Hgamma_Indice (A)</td><td>float</td><td>Line Index of Hgamma line</td></tr><tr><td>Hdelta_Indice (A)</td><td>float</td><td>Line Index of Hdelta line</td></tr><tr><td>Halpha_D0.2 (A)</td><td>float</td><td>Width at 2O% below the local continuum of H line</td></tr><tr><td>Hbeta_D0.2 (A)</td><td>float</td><td>Width at 2O% below the local continuum of Hβ line</td></tr><tr><td>Hgamma_D0.2 (A)</td><td>float</td><td>Width at 2O% below the local continuum of Hγ line</td></tr><tr><td>Hdelta_D0.2 (A)</td><td>float</td><td>Width at 2O% below the local continuum of Hg line</td></tr></table></body></html>",
+        "page_idx": 39
+    },
+    {
+        "type": "table",
+        "img_path": "images/331f1f74ba2bcb26950292d18728046743086c93c07082ad6b5a678f3b8ac421.jpg",
+        "table_caption": [
+            "Table A.12 A,F,G andK Type Star Catalog "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Field (unit)</td><td>Type</td><td>Comment</td></tr><tr><td>designation</td><td>varchar</td><td>TargetDesignation</td></tr><tr><td>specObjId</td><td>long integer</td><td>Unique Spectral ID</td></tr><tr><td>obsdate</td><td>char</td><td>Target Observation Date</td></tr><tr><td>mjd</td><td>char</td><td>Local Modified Julian Day</td></tr><tr><td>planid</td><td>char</td><td>Plan ID</td></tr><tr><td>spid</td><td>integer</td><td>Spectrograph ID</td></tr><tr><td>fiberid</td><td>integer</td><td>Fiber ID</td></tr><tr><td>objra (°)</td><td>float</td><td>Right Ascension</td></tr><tr><td>objdec(°)</td><td>float</td><td>Declination</td></tr><tr><td>dataversion</td><td>char</td><td>Data Version</td></tr><tr><td>snru</td><td>float</td><td>SignalNoise Ratio ofu filter</td></tr><tr><td>snrg</td><td>float</td><td>SignalNoise Ratio of g filter</td></tr><tr><td>snrr</td><td>float</td><td>Signal Noise Ratio of r filter</td></tr><tr><td>snri</td><td>float</td><td>Signal Noise Ratio of i filter</td></tr><tr><td>snrz</td><td>float</td><td>Signal Noise Ratio of z filter</td></tr><tr><td>objtype</td><td>varchar</td><td>Object Type</td></tr><tr><td>class</td><td>varchar</td><td>Stellar Class</td></tr><tr><td>subclass</td><td>varchar</td><td>Stellar Sub-Class</td></tr><tr><td>magtype</td><td>varchar</td><td>Target Magnitude Type</td></tr><tr><td>mag1 (mag)</td><td>float</td><td>Associated Magnitude 1</td></tr><tr><td>mag2 (mag)</td><td>float</td><td>Associated Magnitude 2</td></tr><tr><td>mag3 (mag)</td><td>float</td><td>Associated Magnitude 3</td></tr><tr><td>mag4 (mag)</td><td>float</td><td>Associated Magnitude 4</td></tr><tr><td>mag5 (mag)</td><td>float</td><td>Associated Magnitude 5</td></tr><tr><td>mag6 (mag)</td><td>float</td><td>Associated Magnitude 6</td></tr><tr><td>mag7 (mag)</td><td>float</td><td>Associated Magnitude 7</td></tr><tr><td>tsource</td><td>varchar</td><td>Organization or person who submited the input to the catalog</td></tr><tr><td>tfrom</td><td>varchar</td><td>Input catalog submitted by an organization or a person</td></tr><tr><td>fibertype</td><td>varchar</td><td>Fiber Type of target [Obj,Sky,F-std,Unused,PosErr,Dead]</td></tr><tr><td>rv (km s-1)</td><td>float</td><td>Heliocentric Radial Velocity</td></tr><tr><td>teff (K)</td><td>float</td><td>Effective Temperature</td></tr><tr><td>log (dex)</td><td>float</td><td>Surface Gravity</td></tr><tr><td>feh (dex)</td><td>float</td><td>Metallicity</td></tr></table></body></html>",
+        "page_idx": 40
+    },
+    {
+        "type": "table",
+        "img_path": "images/7262ff484169f578bd09fb21f1c0a990ea6490f87d67e946232d50840de5f4ec.jpg",
+        "table_caption": [
+            "Table A.13 M-type Star Catalog "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Field (unit)</td><td>Type</td><td>Comment</td></tr><tr><td>designation</td><td>varchar</td><td>TargetDesignation</td></tr><tr><td>specObjId</td><td>long integer</td><td>Unique Spectra ID</td></tr><tr><td>obsdate</td><td>float</td><td>Target Observation Date</td></tr><tr><td>mjd</td><td>char</td><td>Local Modified Julian Day</td></tr><tr><td>planid</td><td>char</td><td>Plan ID</td></tr><tr><td>spid</td><td>integer</td><td>Spectrograph ID</td></tr><tr><td>fiberid</td><td>integer</td><td>Fiber ID</td></tr><tr><td>objra (°)</td><td>float</td><td>Right Ascension</td></tr><tr><td>objdec(°)</td><td>float</td><td>Declination</td></tr><tr><td>dataversion</td><td>char</td><td>Data Version</td></tr><tr><td>snru</td><td>float</td><td>Signal Noise Ratio of u filter</td></tr><tr><td>snrg</td><td>float</td><td>Signal Noise Ratio of g filter</td></tr><tr><td>snrr</td><td>float</td><td>Signal Noise Ratio of r filter</td></tr><tr><td>snri</td><td>float</td><td>Signal Noise Ratio of i filter</td></tr><tr><td>snrz</td><td>float</td><td>Signal Noise Ratio of z filter</td></tr><tr><td>objtype</td><td>varchar</td><td>Object Type</td></tr><tr><td>class</td><td>varchar</td><td>Stellar Class</td></tr><tr><td>subclass</td><td>varchar</td><td>Stellar Sub-Class</td></tr><tr><td>magtype</td><td>varchar</td><td>TargetMagnitude Type</td></tr><tr><td>mag1 (mag)</td><td>float</td><td>Associated Magnitude 1</td></tr><tr><td>mag2 (mag)</td><td>float</td><td>Associated Magnitude 2</td></tr><tr><td>mag3 (mag)</td><td>float</td><td>Associated Magnitude 3</td></tr><tr><td>mag4 (mag)</td><td>float</td><td>Associated Magnitude 4</td></tr><tr><td>mag5 (mag)</td><td>float</td><td>Associated Magnitude 5</td></tr><tr><td>mag6 (mag)</td><td>float</td><td>Associated Magnitude 6</td></tr><tr><td>mag7 (mag)</td><td>float</td><td>Associated Magnitude 7</td></tr><tr><td>tsource</td><td>varchar</td><td>Organization or person who submited the input to the catalog</td></tr><tr><td>tfrom</td><td>varchar</td><td>Input catalog submitted by an organization or a person</td></tr><tr><td>fibertype</td><td>varchar</td><td>Fiber Type of target [Obj,Sky,F-std,Unused,PosErr,Dead]</td></tr><tr><td>rv (km s-1)</td><td>float</td><td>Heliocentric Radial Velocity</td></tr><tr><td>magact</td><td>integer</td><td>Magnetic Activity</td></tr></table></body></html>",
+        "page_idx": 41
+    }
+]

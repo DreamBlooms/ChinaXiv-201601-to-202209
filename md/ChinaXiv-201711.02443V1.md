@@ -1,0 +1,159 @@
+# 超超临界电站用镍基合金热加工过程的再结晶机理分析
+
+韦康 张麦仓 谢锡善(北京科技大学材料科学与工程学院北京100083)
+
+摘要以一种超超临界电站管材用镍基合金为研究对象，结合管材的冷热加工过程及系列压缩热变形与固溶退火实验，利用OM和TEM 等手段分析了该合金热加工过程中的动、静态再结晶行为。结果表明：该合金的动态再结晶过程是以晶界弓弯方式形核的非连续动态再结晶为主，静态再结晶则以应变诱导晶界迁动形核机制为主。此外，动态再结晶与静态再结晶过程中产生的不同形态的台阶晶界，其本质是实现表面对低指数面的偏离，保证更多晶界面为低能密排面，以使晶界界面能降低；其形态取决于晶界面的晶体学关系以及晶界位错的 Burgers矢量；台阶晶界的存在还可以促进晶界迁移，加速再结晶过程。而且，在再结晶过程进行完全后，台阶晶界仍部分保留，以降低界面能并继续促进后续的晶粒长大过程。
+
+关键词 镍基合金，再结晶，台阶晶界 文章编号 0412-1961(2017)00-0000-00
+
+# Analysis of Recrystallization Mechanisms in Hot Working Processes of a Nickel-Based Alloy for Ultra-Supercritical Power Plant Application
+
+WEIKang, ZHANG Maicang, XIE Xishan Schoolof Materials Science and Engineering, University ofScienceand Technology Beijing,Beijing 1Oo083,China Correspondent: ZHANG Maicang, professor, Tel: (O1O)62332884, E-mail: mczhang $@$ ustb.edu.cn Manuscript received 2017-01-16， in revised form 2017-05-10
+
+ABSTRACT Nickel-based aloy is a good choice for materials used in ultra-supercritical power plant, which is subjected to high temperature of order to $7 0 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ and high pressure in service. In order to meet the requirements above,a nickel-based alloy was designed and the tubes were successfully manufactured.Based on the hot/cold working processes of tube components of the nickel-based aloy,microstructural evolution behaviors,especially the recrystallzation mechanisms during hot working processes of the alloy were systematically investigated by using a series of hotcompresson tests,solution annealing tests,OMand TEM analysis.The results showed that dynamic recrystallization was dominated by discontinuous dynamic recrystallization mechanism involving grain boundary bulging，whereas the nucleation mechanism with strain inducing grain boundary migration was the driving force of static recrystallization.In addition,the essence of different forms of step grain boundary producing during dynamic recrystallization and static recrystallization was to make the surface be of low exponential surface deviation,which could ensure more interface to be low energy close-packed surface,so that the energy of grain boundary interface would be reduced.The morphology of step grain boundary depended on thecrystallographic relationship of crystal interface and the Burgers vector of grain boundary dislocation. Moreover, the presence of step grain boundary could also promote grain boundary migration and accelerate the recrystallization process. When the recrystallization process was completed, step grain boundaries still remained partially to minimize interfacial energy and continue to promote subsequent grain growth processes. KEY WORDS nickel-based alloy, recrystallization, step grain boundary
+
+Y’相沉淀强化的镍基变形高温合金具有较高的高温强度、良好的抗氧化和抗热腐蚀性能，已广泛用于航空发动机涡轮盘等关键高温部件[1]。这些优异性能是由合金的组织决定的，与金属的回复和再结晶过程密切相关2-5]。迄今为止，国内外学者对于镍基合金的再结晶行为做了大量研究。Singh 等研究了压下量$30 \%$ 和 $5 0 \%$ 的冷轧态 IN718 合金在 $1 1 3 0 { \sim } 1 2 1 4 \mathrm { ~ K ~ }$ 退火不同时间的再结晶行为；Wang 等研究了变形温度1273和 $1 3 7 3 \mathrm { K }$ 时GH4586合金在应变量 $20 \% { \sim } 6 0 \%$ 范围内的动态再结晶形核机制以及孪晶对动态再结晶的影响；Liu等[8.9利用元胞自动机模型，研究了一种镍基合金动、静态再结晶行为的预测方法。然而，晶体生长机制常常涉及晶界、缺陷的运动，并伴随有位错和/或台阶特征[10-12]。现有研究大都集中于晶界上碳化物对晶界迁移时的钉扎作用或是为了减轻晶界上元素的不连续偏聚产生的不平衡应变而形成的锯齿状晶界(serrated grain boundary)，以及锯齿晶界对晶界运动与力学性能的影响[13\~19]，有关平直且没有物相偏聚的台阶晶界产生机制的研究相对较少。
+
+本工作以一种 $7 0 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 先进超超临界电站管材用镍基合金为研究对象，对其在热加工过程的再结晶行为进行研究，从材料学角度分析了该合金动静态再结晶过程中台阶晶界的形成机理，为耐蚀镍基合金热加工过程的组织控制提供理论依据。
+
+# 1 实验方法
+
+实验用料为北京科技大学研发的 $7 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 先进超超临界电站用备用材料[20.21],其化学成分(质量分数， $\%$ ）为： $C \ 0 . 0 2 { \sim } 0 . 0 6$ ， $\mathrm { C r } 2 0 . 0 { \sim } 2 3 . 0$ ， Co 12.0\~14.5，Mo 4.0\~6.0，W 0.5\~1.5, ${ \mathrm { N b ~ } } 1 . 3 { \sim } 1 . 6$ ，Ti $1 . 3 { \sim } 1 . 6$ ，Al $1 . 3 { \sim } 1 . 6$ Ni余量。合金采用真空感应 $\mathbf { \left( V I M \right) + }$ 电渣重熔(ESR)双联工艺冶炼，再经高温均匀化处理及 $3 5 0 0 ^ { \mathrm { T } }$ 压机开坯制成直径 $1 2 0 \mathrm { m m }$ 的棒材；进而，将棒材在 $3 6 0 0 ^ { \mathrm { T } }$ 挤压机上挤成荒管，最后经多道次冷轧成外径 $4 4 . 5 \mathrm { m m }$ 、厚度 $1 0 \mathrm { m m }$ 的管材。
+
+为了研究该合金动态再结晶机理，从锻态棒材上沿轴向切取直径 $1 0 \ \mathrm { m m }$ 、长 $1 5 \ \mathrm { m m }$ 的圆柱试样，在Gleeble-1500 热模拟试验机上进行压缩变形，其工艺流程如图1所示，变形温度分别为1000、1050、1100、1150 和 $1 2 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，应变速率为0.01、1.0、10 和 $2 0 \mathrm { { s } ^ { - 1 } }$ ，变形量为 $5 0 \%$ 。热变形结束后，沿压缩轴方向把试样从中间剖开，再将切面进行机械研磨抛光，在 $2 . 5 \mathrm { \ g K M n O _ { 4 } } + 1 0 \mathrm { \ m L \ H _ { 2 } S O _ { 4 } } + 9 0 \mathrm { \ m L \ H _ { 2 } O }$ 溶液中煮沸并保持 $5 \mathrm { m i n }$ ，清洗、吹干后，利用 DMR 型光学显微镜(OM)观察其晶粒组织。从另一半纵剖面上切取 $0 . 5 \mathrm { m m }$ 厚的薄片，机械减薄至 $5 0 ~ { \mu \mathrm { m } }$ 后冲成直径 $3 \ \mathrm { m m }$ 的圆片，用 $5 \%$ 高氯酸-乙醇溶液(体积分数)对其进行双喷电解，再采用Tecnai $\mathbf { G } ^ { 2 } \mathbf { F } 3 0 \mathbf { \Lambda } \mathbf { S }$ -TWIN 型透射电子显微镜(TEM)对样品进行组织观察。
+
+![](images/e4dc994fd0d58720529db9074d0624130f1658e01aa25554ac8a1ae24d68254e.jpg)  
+图1热模拟实验示意图  
+Fig.1 Schematic of hot simulation processes
+
+从冷轧后的管材上沿径向切取 $1 0 \mathrm { m m } { \times } 1 0 \mathrm { m m } { \times } 5 \mathrm { m m }$ 的块体试样( $\mathrm { 1 0 ~ m m } { \times } 1 0 \mathrm { m m }$ 面与径向方向相垂直)，进行固溶退火，固溶温度选为1100、1120、1130、1140、1150、1160、1170 和 $1 1 8 0 ~ \mathrm { ~ \textdegree ~ }$ ，保温时间为5、10、20、40和 $6 0 \mathrm { m i n }$ ，冷却方式为水冷。之后，将冷轧态以及不同固溶态试样的 $1 0 \mathrm { m m } { \times } 1 0 \mathrm { m m }$ 面经上述相同方法制样后，采用OM与TEM观察各试样的静态再结晶情况。
+
+# 2实验结果与讨论
+
+# 2.1热变形后的组织特征及动态再结晶机制
+
+图2为锻态棒材的纵截面组织。可以看出，锻态棒材纵截面的原始组织很不均匀，存在部分未再结晶的长条状晶粒。图3为变形量为 $50 \%$ 时不同温度及应变速率变形后部分试样的再结晶组织。由图可知，经过不同条件的压缩变形，合金均发生了明显的再结晶，原始锻态组织已经基本被均匀细小的动态再结晶组织所取代。此外，应变速率越小，再结晶进行的越充分，且应变速率对晶粒尺寸的影响较小，但晶粒尺寸随着变形温度的升高而明显增大。应变速率为 $\boldsymbol { 0 . 0 1 \mathrm { s } } ^ { - 1 }$ 时的动态再结晶晶粒存在明显的晶界弓弯现象。
+
+![](images/31bdb465949f858d11f141a4a23d1e395b6b6220ca2bf924b3154bde3fe9fe1e.jpg)  
+图2锻态棒坏纵截面的组织
+
+![](images/5e51b53e00823b80696aecd1f219ea2e2b2372d08cce53ce8d3450dfc3ae7459.jpg)  
+Fig.2Microstructure of longitudinal section from the as-forged bar   
+图3不同热变形条件下合金的组织
+
+Fig.3 Microstructures of the alloy under different hot deformation parameters (a) 1050 ℃,0.01 s-1 (b) 1050 ℃,1 s-1 (c)1050 ℃,10 s (d)1150 ℃,0.01 s−1(e)1150 ℃,1 s-1 (f) 1150 ℃,10 s1
+
+图4为不同热变形条件下合金的TEM像。如图 $4 \mathrm { a } { \sim } \mathrm { c }$ 所示，在不同压缩变形条件下，合金中均观察到晶界弓弯现象，说明合金的动态再结晶机制主要为非连续动态再结晶。图4b 的弓弯部分被孪晶截断，这种现象可促进再结晶的发生[,223]。此外，在高温高应变速率下，合金中也存在亚晶合并和长大方式形核的连续动态再结晶的特征，如图4d所示。
+
+![](images/3dc6c9ccdbb56808296f8518f0f4c5368225026794565885a7e9bbddc22da5a0.jpg)  
+图4不同热变形条件下合金的TEM像
+
+Fig.4 TEM images of the alloy under different hot deformation conditions (a) 1050 ℃,0.01 s-1(b)1150 ℃,0.01 s-1(c) $1 0 5 0 ~ \mathrm { ~ } ^ { \circ } \mathrm { C }$ $2 0 \mathrm { { s } ^ { - 1 } }$ (d) $1 1 5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ $2 0 \mathrm { { s } ^ { - 1 } }$
+
+镍基合金属于低层错能材料，热变形中位错的交滑移和攀移难以进行，回复过程受阻，主要发生动态再结晶[1]。多晶体的变形具有不均匀性，由于晶粒取向的差别，不同取向的晶粒经受的应变量不同，应变量大的晶粒具有较高的位错密度，应变量小的晶粒位错密度低，造成变形过程中晶界两侧存在明显位错密度差。这使得原有晶界由低位错密度的一侧向高密度的一侧弓弯凸出，达到一定尺寸后成为稳定界面。图$4 \mathrm { a } { \sim } \mathrm { c }$ 中凸出的舌状物在晶界处形核，晶界两侧晶粒内位错密度不同,根据经典的应变诱发晶界迁移理论[3],只有满足如下关系才可能构成实际的核心：
+
+$$
+\Delta E \geq \frac { 2 \varepsilon _ { b } } { L }
+$$
+
+式中， $\triangle E$ 为弓弯处晶界两侧单位体积的储存能差; $\textbf { \textit { \textbf { \varepsilon } } } _ { b }$ 为晶界能; $L$ 为弓弯部分对应原始晶界长度的一半。
+
+在相同应变量时，低应变速率下所经历的变形时间更长，以晶界弓弯为主的非连续动态再结晶的过程进行得更充分。并且再结晶晶粒有足够的时间长大，再结晶晶粒可以再次发生晶界弓弯，产生新一轮的非连续动态再结晶。故而OM及TEM分析结果中可以观察到低应变速率下主要的再结晶形核机制为以晶界弓弯为主的非连续动态再结晶。随应变速率的升高，变形时间较短致使更多区域位错来不及抵消，且动态再结晶过程时间也有限，导致高应变速率下，动态再结晶晶粒的长大受到抑制，晶粒内部还存在部分散乱的位错，如图4c和d所示。
+
+相同应变速率条件下，在1050℃的较低温度下变形时，螺型位错的交滑移以及刃型位错的攀移能力更弱，在较低温度发生变形的合金存在着较高的位错密度，如图4a和c所示。当变形温度升高到 $1 1 5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 时，原子热激活能力增强，可以激活一些原本不利于变形的滑移系，从而形成少量亚晶界，如图4d所示。形成的亚晶在应力和热激活作用下，活性增高，细小的亚晶可转变为较大角度取向差的亚晶，导致合金的动态再结晶机制由非连续动态再结晶转变为连续动态再结晶。此外，变形温度升高也能增强再结晶晶粒晶界的迁移能力，加快位错抵消，从而降低合金的位错密度。因此，变形温度越高，变形后的合金位错密度越低，晶界越清晰和锋锐，动态再结晶晶粒尺寸也越大。
+
+# 2.2固溶退火后的组织特征及静态再结晶机制
+
+冷轧态管材固溶前纵截面的组织如图5所示。可见，其晶粒沿轧制方向被拉长，具有冷变形的特征。图6为不同固溶处理后部分试样的显微组织。由图可知，固溶温度为1100℃时，出现了大量细小的等轴晶粒，但晶粒组织很不均匀。随着温度的提高，晶粒整体上逐渐增大，并趋于均匀。此外，随着固溶时间的延长，晶粒也逐渐增大。需要指出的是，在 $1 1 8 0 ~ \mathrm { ~ \textdegree ~ }$ 下固溶，很短的时间内就已经完成再结晶，随时间的延长，合金只是发生晶粒的长大过程。
+
+![](images/9fedb782e78d0db7c530e4c161d2b5d592d6cdb2fe3c235ebaa1d33afe7c0eac.jpg)  
+图5冷轧态管材纵截面的组织
+
+Fig.5 Microstructure of longitudinal section in the as-cold-rolled tube
+
+![](images/fbaea163ec8645a73282b1d0b9731c01cdd3d7c60f075fcf5913a58167069403.jpg)
+
+# 图6不同固溶退火条件后合金的组织形貌
+
+Fig.6 Microstructures of the alloy in various heat-treated conditions (a)1100 ℃,5 min(b) $1 1 0 0 \mathrm { ~ \textdegree ~ }$ ,10 min(c) $1 1 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ， $4 0 \mathrm { m i n }$ (d) 1150 ℃,5 min (e)1150 ℃,10 min(f)1150 $\mathrm { { ^ \circ C } }$ ， $4 0 \mathrm { m i n }$ (g)1180 $\mathrm { { ^ \circ C } }$ ,5 min (h) 1180 ℃, $1 0 \mathrm { m i n }$ (i) 1180 ℃,40 min
+
+图7是冷轧态及部分固溶态试样的TEM观察结果。由图可知，冷轧态试样中存在大量位错网和形变板条，随着固溶温度的升高(图7b\~d)或固溶时间的延长(图7e,c,f)，再结晶过程更加充分，位错密度逐渐降低。此外，多处大角晶界两侧都具有一定的位错密度差。
+
+静态再结晶的驱动力是形变金属和合金的机械储存能，获得储存能即满足回复和再结晶的热力学条件。由同一管材上切取的试样，变形量以及位错密度没有显明区别，退火温度越高，静态再结晶的速率越快。因此，退火温度的升高和退火时间的延长都有利于合金内形变储存能的释放，促进晶粒长大及均匀化，进而回复到冷轧前的均匀组织。与动态再结晶过程相似，静态再结晶也是因冷轧时造成原始大角度晶界两侧存在位错密度差，以应变诱导晶界迁动形核为主要再结晶机制。
+
+![](images/8814e53ea78cfe7ee871aa8ffb0101a7e9b744ca1302facd67c15ac9eafff2fb.jpg)  
+图7不同固溶退火条件下合金的位错组态
+
+Fig.7 Dislocation structures of the alloy under different solution annealing conditions (a) cold-rolled state (b) $1 1 0 0 \mathrm { ~ \textdegree ~ }$ $2 0 \mathrm { m i n }$ (c) $1 1 4 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ,20 min (d)1180 ℃,20 min (e) $1 1 4 0 \mathrm { ~ \textdegree ~ } , 5 \operatorname* { m i n }$ (f) $1 1 4 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ , 60 min
+
+# 2.3再结晶过程中的台阶晶界及产生机理
+
+图8和9为合金动、静态再结晶过程的台阶晶界现象。在这2个阶段，台阶晶界均有不同的夹角及不同的高度，尤其在固溶处理过程中，直角型的台阶接近或超过 $0 . 5 \mu \mathrm { m }$ ；进一步观察发现，各台阶的拐角处无物相形成，仅存在一些位错，与之前工作[13-19]中存在物相偏聚的锯齿晶界明显不同。此外，各台阶没有观察到孪晶的存在，排除了部分孪晶的可能。
+
+![](images/8f73cd1ca290530e3789438d7c69bc2e4e4f2020c5d36aae0daac0c7f34b33d3.jpg)  
+图8合金在不同热变形过程中产生的台阶晶界
+
+Fig.8 Step grain boundaries of the alloy in different hot deformation processes (a) 1050 ℃,1 s-1 (b) 1150 ℃,20 s-1
+
+![](images/9e0eb7f3e14325a9f9b6ba9eee2c514787e242ad7c837005badce42434a4561a.jpg)  
+图9合金在不同固溶过程中产生的台阶晶界
+
+Fig.9 Step grain boundaries of the alloy in various heat-treated conditions (a)1140 ℃,20 min (b)1140 ℃,60 min (c)1100 ℃,20 min (d)1180 ℃,20 mir
+
+根据材料科学基础理论，在接近平衡态下的生长，晶体表面会出现完好的低能面(低指数面)。实际热加工过程基本为非平衡态，晶体表面会偏离这些低能面，稍许偏离低能面的邻位面通常都占据表面的大部分。而邻位面又会发生小面化，一些原子由原来位置转移到其它位置上，形成新取向的小平面(如图10所示)，最终使表面能降低。这种表面含有平台-台阶-扭折，其中，平台是低能的密排低指数面，而用台阶和扭折来实现表面对低指数面的偏离，以保证更多表面为低能面。然而，多晶体内部的晶界面，与晶体表面相似但又存在区别，因为晶界处两相邻晶粒晶格会发生刚性交错，不可能再像自由表面那样直接产生台阶。根据重合位置点阵(coincidence-site lattce，CSL)理论，晶界面须穿过CSL的最密排面或密排面，以使晶界包含最多的重合节点或者最短的重复周期，进而降低晶界的核心能与弹性应变能。但是如果晶界面位向不符合密排面方向，晶界就会分解为由一些次密排面组成的台阶状晶界[。这种分解现象的存在，可以有效地改善变形晶粒的高能量状态。
+
+![](images/04d1bc9c59395d6093026232eb5a5ce08f86a9fe6ff5caf1ad0a50dea9741c38.jpg)  
+图10自由表面中平台-台阶-扭折模型示意图
+
+本工作所研究的镍基合金，属于fcc 结构，其密排面{111}具有最小的表面能，如果晶界的外表面与低能面成一定角度，那么为了保持低能量的表面状态，晶界的外表面就会成台阶状。Gleiter[24在 fcc 结构材料中发现，晶粒的每一个{111}面和晶界的交互作用都会形成一个台阶。由于每一个晶粒通常可以诱导 4个系列的台阶(4个不同的{111}面)，相邻两晶粒间可以有多达8个不同系列的台阶同时存在。但并不是所有的台阶都可见，只有那些低能面近似平行于晶界时形成的台阶，才会具有强烈的对比衬度；如果低能面和晶界的偏离程度很大，台阶形貌则不明显。从图9中还可以看出，台阶具有不同的夹角及高度，意味着这些台阶可能是由多个不同的低能面以及不同层数的低能面形成。晶体学上，不同晶面族的晶面之间的夹角不同，因此，由分解为不同低能面所组成的台阶的夹角也不同；此外，由不同原子层数的低能面构成的台阶，各台阶的高度也就存在差异。
+
+而且，真实的晶界通常不是平面而是含有台阶，晶界台阶与晶界位错密切相关，通常晶界位错核心就是晶界存在的台阶[]，其形核本质目前尚不清楚。只有完全由重合节点组成的晶界才没有台阶及位错，而台阶晶界的出现说明晶体仍然具有较高的位错，晶粒的位向差也还很大，再结晶过程尚未完成。显然，晶界上重合位置越多，原子排列的畸变程度越小，晶界能也相应越低。而晶界位错是调整界面能的特殊缺陷，其具有特殊的Burgers 矢量b，在晶界插入一个相应 Burgers 矢量的位错，晶界上除了位错附近区域，其它所有区域的结构都没有改变，仅是增加了一个晶界台阶，以使晶界面拥有更多重合位置，如图11所示。由图可知，如果晶界位错与晶界面的夹角及相对位置不同，所产生台阶的夹角与高度也就不同。
+
+![](images/39e183aba6323e995e54a137cb85effd97fee9023adf9ee6ca0f07684c638d04.jpg)  
+Fig.1O Schematic of the platform-step-kink model on free surface   
+图11fcc结构材料中的晶界位错示意图
+
+Fig.11 Schematic of the grain boundary dislocation in fcc materials (b—Burgers vector)偏离密排面的台阶晶界，其表面原子具有较高能量状态以及残余结合键，使外来原子容易被表面吸附，并引起表面能的降低。在该驱动力的作用下，原子或原子团从退缩晶粒中分离发出，再沿着台阶移动并跨过一定厚度的晶界，同时增长的晶粒就会从晶界中吸收等同数量的原子。原子的发出和吸收过程，正是晶界迁移的微观机理[25.26]。该过程导致了台阶晶界的移动，并造成晶界附近物质的不稳定流动而使晶粒长大或是消减，甚至是重新排列。需要指出的是，密排面平台的结构排列紧密，其不太可能作为原子的扩散通道，而偏离密排面的台阶可以，所以台阶垂直方向上的增长速度最大，进而引起具有台阶的晶界横向迁移[27]，当台阶扫过整个晶粒晶界后就造成了晶界的整体向前迁移。然而，台阶移动受晶界上固有缺陷的钉扎作用影响，钉扎作用会减慢再结晶过程中晶界的移动。不过，由于钉扎的存在，才会使一些原子级别的细观台阶[28]，被钉扎后又被其它移动过来的台阶合并组成图8和图9中微米级别以上的台阶。实际再结晶过程中，晶界之所以还能快速迁移，是因为晶界位错-台阶不断形核及扩展和再结晶区域与原始区域之间的储存能的差异驱动在晶界迁动过程占主导因素，仅当晶界进入了一个再结晶完成的晶内，晶界移动才会停止。
+
+此外，如图9d所示，在仅发生晶粒长大的过程中，也存在台阶晶界。图12为经标准固溶及时效处理后样品的 TEM观察结果。可见，在退火再结晶过程结束后，也还存在着台阶晶界。说明在再结晶过程进行完全后，台阶晶界还是会部分保留，以降低界面能并继续促进后续的晶粒长大过程。
+
+![](images/f62af5980a81b9e79ea62443785dec5a8ab1618ff9e249dde32ca3951d587571.jpg)  
+图12经固溶及时效处理后合金的晶界特征  
+Fig.12 Step grain boundary of the alloy after solution treatment and aging processes
+
+# 3结论
+
+(1）超超临界电站用镍基合金热变形过程的动态再结晶是以晶界弓弯方式形核的非连续动态再结晶为主，冷轧态管材固溶退火过程中的静态再结晶则以应变诱导晶界迁动形核为主。
+
+(2）动态再结晶与静态再结晶过程中产生不同形态的台阶晶界，其本质是实现表面对低指数面的偏离，保证更多晶界面为低能密排面，从而降低晶界界面能；其形态取决于晶界面的晶体学关系以及晶界位错的Burgers 矢量；台阶晶界的存在还可以促进晶界迁移，加速再结晶过程。而且，在发生完全再结晶后，合金中仍部分保留台阶晶界，以降低界面能并继续促进后续的晶粒长大过程。
+
+# 参考文献
+
+[1] Guo JT.Materials Science and Engineering for Superalloys [M]. Vol 1. Beijing: Science Press,2008: 1 (郭建亭．高温合金材料学．上册．北京：科学出版社,2008:1)   
+[2] Doherty RD,Hughes DA, Humphreys FJ,et al. Current issues in recrystalization: a review [J]. Mater. Sci.   
+Eng., 1997,A238: 219   
+[3] Humphreys FJ,HatherlyM.Recrystallization and Related Annealing Phenomena [M].2ndEd.,Amsterdam: Elsevier, 2004:169   
+[4] Zahiri S H,Hodgson PD.The static,dynamic and metadynamic recrystallsation of a medium carbon steel [J]. Mater. Sci. Technol., 2004,20: 458   
+[5] Sakai T,Belyakov A,Kaibyshev R, Miura H, et al. Dynamic and post-dynamic recrystalization under hot, cold and severe plastic deformation conditions [J]. Prog.Mater. Sci., 2O14, 60: 130   
+[6] Singh R P, Hyzak JM, Howson TE,etal. Recrystallization behavior of cold rolled alloy718[A]. Superallys 718, 625 and Various Derivatives [C]. Warrendale, PA: TMS,1991: 205   
+[7] Wang L, Wang S A,Liu Y, et al. Dynamic Recrystalization Behavior of GH4586 Superalloy during Hot Compression [A]. Materials Science Forum [C]. Zurich, CH: Trans Tech Publications,2010,638: 2357   
+[8] Liu Y X,Lin Y,Li HB,et al. Studyof dynamic recrystalization in a Ni-based superalloy by experiments and cellular automaton model [J]. Mater. Sci. Eng., 2015,A626:432   
+[9] Lin Y,Liu YX,Chen MS,et al. Studyof static recrystalization behaviorin hotdeformed Ni-based superally using cellular automaton model [J]. Mater. Des., 2016, 99:107   
+[10] Hirth JP,Pond R C. Steps,dislocations and disconnections as interface defects relating to structure and phase transformations [J]. Acta. Mater., 1996, 44: 4749   
+[11] Smith WF, Hashemi J.Foundations of Materials Science and Engineering [M]. 5th Ed.,Beijing: China Machine Press,2011:138   
+[12] Shirdel M, Mirzadeh H,Parsa MH. Abnormal grain growth in AISI304L stainless steel [J]. Mater. Charact., 2014, 97: 11   
+[13]Danflou HL,Macia M,Sanders TH,etal. Mechanisms of formation of serrated grain boundaries in nickel base superalloys [A]. Superalloys 1996 [C]. Warrendale, PA: TMS,1996: 119   
+[14] Kim K J, Ginsztler J,Nam S W.The role of carbon on the occurrence of grain boundary serration in an AISI 316 stainless steel during aging heat treatment [J]. Mater. Lett, 2005,59: 1439   
+[15] Kim K J, Hong H U, Nam S W. A study on the mechanism of serrated grain boundary formation in an austenitic stainless steel [J]. Mater. Chem.Phys.,2011,126: 480   
+[16] Hong H U, KimI S,Choi BG,etal. On the Mechanism of serrated grain boundary formation in Ni-based superalloys with low $\gamma ^ { \prime }$ volume fraction [A]. Superalloys 2012 [C]. Warrendale, PA: TMS, 2012: 53   
+[17] Hong HU,Jeong HW,KimI S,etal. Significant decrease in interfacial energyof grain boundary through serrated grain boundary transition [J]. Philo. Mag., 2O12, 92: 2809   
+[18] Jiang L, Hu R, Kou H C, et al. The effect of $\mathbf { M } _ { 2 3 } \mathbf { C } _ { 6 }$ carbides on the formation of grain boundary serrations in a wrought Ni-based superalloy [J]. Mater. Sci. Eng.,2012, A536: 37   
+[19] Lim Y S, Kim D J, Hwang S S, et al. $\mathbf { M } _ { 2 3 } \mathbf { C } _ { 6 }$ precipitation behavior and grain boundary serration in Ni-based alloy 690 [J]. Mater. Charact., 2014, 96: 28   
+[20] Wu Y S, Zhang M C, Xie X S.The design and research of a new low cobalt-molybdenum niobium-containing Ni-base superalloy for $7 0 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ advanced ultra-supercritical power plants [J]. Proc. Eng., 2015,130: 617 [21] Xie X S,Wu Y S, Chi C Y,et al. Superaloys for advanced ultra-super-critical fossil power plant application [A]. Superalloys [C]. Rijeka: InTech, 2015: 51   
+[22] Li D F, Guo Q M, Guo $\textsf { S L }$ ，et al. The microstructure evolution and nucleation mechanisms of dynamic recrystallization in hot-deformed Inconel 625 superalloy [J]. Mater. Des., 2011, 32: 696   
+[23] Cao Y,Di H S, Zhang JQ,et al. An electron backscatered difraction studyon the dynamic recrystallization behavior of a nickel-chromium alloy (800H) during hot deformation [J]. Mater. Sci. Eng.,2O13,A585: 71 [24] Gleiter H. The mechanism of grain boundary migration [J]. Acta. Metall, 1969,17: 565   
+[25] Gleiter H. Theory of grain boundary migration rate [J]. Acta. Metall,1969,17: 853   
+[26] Rae C MF, Smith D A. On the mechanisms of grain boundary migration [J]. Philo. Mag.,1980, A41: 477 [27] Rajabzadeh A,Legros M, Combe N, et al.Evidence of grain boundary dislocation step motion associated to   
+shear-coupled grain boundary migration [J]. Philo. Mag.,2O13, 93: 1299   
+[28] Bowers ML, Ophus C, Gautam A,et al. Step coalescence by colective motion at an incommensurate grain   
+boundary[J].Phys.Rev.Lett.,2016,116:106102

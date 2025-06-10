@@ -1,0 +1,235 @@
+[
+    {
+        "type": "text",
+        "text": "CRLH Waveguide Based Ka-band Beam-steering Leaky-wave Antenna for Radar Application ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qingshan Yang $^ { 1 , 2 }$ , Xiaowen Zhao $^ { 1 , 2 , 3 }$ , and Yunhua Zhang $^ { 1 , 2 }$ $^ 1$ Key Laboratory of Microwave Remote Sensing, Chinese Academy of Sciences (CAS), China （20 $^ 2$ Center for Space Science and Applied Research, CAS, Beijing 100190, China （20 $^ 3$ University of Chinese Academy of Sciences (UCAS), Beijing 100049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract— A KB-band beam-steering leaky-wave antenna (LWA) based on composite right /lefthanded (CRLH) rectangular waveguide is proposed and investigated in this paper. The CRLH waveguide is composed of a traditional rectangular waveguide with short-circuited double ridge corrugations periodically mounted on one broadtail. The CRLH structure is air-filled to avoid dielectric loss. A straight long slot is cut on the other broadtail of the rectangular waveguide acting as the radiation aperture to realize a LWA.A balanced condition has been optimized for the LWA to acquire a continuous beam-steering capability from backward to forward quadrants. This capability is verified and high-gain performance is realized by simulations. Compared with other planar CRLH LWAs, the LWA proposed in this paper has the advantages of high power capacity,low loss and consistent high gain,which is very suitable for applications in practical radar systems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Beam-steering capability is highly desired for many radars especially for tracking radars. Frequency scanning and phase scanning are two general approaches for beam-steering. Traditional frequency scanning array antennas is hard to achieve continuous beam scanning from backward to forward directions because of their forward-wave propagation nature. While phased arrays have been applied widely due to their continuous beam scanning capability from backfire to endive, however,the feed networks are often bulky and very complicated. In the past decades,composite right/left-handed (CRLH) mesarteritis have been investigated extensively due to their unique properties such as backward wave and infinite wavelength propagation, which can be applied to leaky-wave antennas (LWAs) to realize continuous beam-steering from backfire to endive [1]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Numerous CRLH LWAs have been proposed using planar transmission line structures and waveguide structures [2-7]. The planar CRLH LWAs has the advantages of low profile,low weight and easy fabrication, etc.[2-5]. However,the planar structures willsuffer from high loss and low power capacity when working at the frequencies above Ku band, and they are not suitable for practical radar systems with high transmitting power for long range detection. The CRLH waveguide LWAs can handle higher power capacity compared with the planar ones. A CRLH rectangular waveguide with dielectric-filled corrugations was originally proposed in [6] and applied to LWA in [7]. However,the dielectric-fled corrugations introduce larger dielectric loss so low radiation eficiency is unavoidable. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CRLH waveguide with air-filled double ridge corrugations (DRCs) was frst proposed with the left-handed (LH) propagation investigated using ful-wave simulation in [8]. This CRLH waveguide has the advantages of high power capacity, low loss and relative easy to fabricate, which might be a good choice in practical radar applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We exploit the CRLH waveguide with RCS to realize a LWA operating at KB-band in this paper. The surface current distribution on the waveguide broadtail is derived and the leaky-wave principle is investigated in Section 2. Section 3 discusses the dispersion relation of a CRLH unit cell loaded with radiating aperture. A KB-band LWA is built in Section 4 with transmision and radiation performances simulated. Finally, conclusions are given in Section 5. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.LEAKY-WAVEPRINCIPLE",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The CRLH waveguide with RCS is realized using a traditional rectangular waveguide with one broadtail periodically loaded with short-circuited double ridge stubs. According to the electromagnetic (EM) fields expressions in the rectangular waveguide and RCS,as well as the boundary ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "conditions on the interface, the EM felds in the CRLH waveguide can be calculated [9] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { E _ { z } ^ { w } = A _ { 1 } E _ { 0 } \\sin \\left( k _ { x } \\cdot x \\right) \\frac { \\sinh \\left[ \\chi \\left( b - y \\right) \\right] } { \\sinh \\left( \\chi b \\right) } \\cdot e ^ { - j \\beta z } } } \\\\ { { H _ { z } ^ { w } = A _ { 2 } \\frac { E _ { 0 } } { \\eta _ { 0 } } \\cos \\left( k _ { x } \\cdot x \\right) \\frac { \\cosh \\left[ \\chi \\left( b - y \\right) \\right] } { \\sinh \\left( \\chi b \\right) } \\cdot e ^ { - j \\beta z } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { x } = \\frac { \\pi } { a } , \\quad \\chi ^ { 2 } = k _ { x } ^ { 2 } - k _ { c m } ^ { 2 } , \\quad k _ { c m } ^ { 2 } = k _ { 0 } ^ { 2 } - \\beta ^ { 2 } , \\quad \\gamma _ { n } ^ { 2 } = \\left( \\frac { n \\pi } { w } \\right) ^ { 2 } - k _ { c } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$k _ { c }$ is the cutoff wave number of the DRC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The transverse EM fields then can be deduced as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c } { E _ { x } ^ { w } } \\\\ { H _ { y } ^ { w } } \\\\ { H _ { x } ^ { w } } \\\\ { E _ { y } ^ { w } } \\end{array} \\right) = - \\frac { j } { k _ { c m } ^ { 2 } } \\left( \\begin{array} { c c c c } { \\omega \\mu } & { \\beta } & { 0 } & { 0 } \\\\ { \\beta } & { \\omega \\varepsilon } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\beta } & { - \\omega \\varepsilon } \\\\ { 0 } & { 0 } & { - \\omega \\mu } & { \\beta } \\end{array} \\right) \\cdot \\left( \\begin{array} { c } { \\frac { \\partial H _ { z } ^ { w } } { \\partial y } } \\\\ { \\frac { \\partial E _ { z } ^ { w } } { \\partial x } } \\\\ { \\frac { \\partial H _ { z } ^ { w } } { \\partial x } } \\\\ { \\frac { \\partial E _ { z } ^ { w } } { \\partial y } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the leaky-wave radiating application, slots should be introduced on the waveguide wals to cut the surface current. The upper broadtail of the CRLH waveguide is suitable for having radiating slots. The surface current on the upper broadtail can be determined by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { J } _ { s } | _ { y = b } = \\hat { n } \\times \\mathbf { H } _ { \\tan } ^ { w } | _ { y = b }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\hat { n }$ is the unit normal vector of the waveguide inner wall, in this case, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { n } = - \\hat { y } , \\quad \\left. { \\bf H } _ { \\mathrm { t a n } } ^ { w } \\right| _ { y = b } = \\hat { x } \\cdot H _ { x } ^ { w } | _ { y = b } + \\hat { z } \\cdot H _ { z } ^ { w } | _ { y = b }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thus ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\mathbf { J } _ { s } | _ { y = b } = \\widehat { \\boldsymbol { z } } \\cdot \\mathbf { \\nabla } H _ { x } ^ { w } | _ { y = b } - \\widehat { x } \\cdot H _ { z } ^ { w } | _ { y = b } } \\\\ { = \\widehat { \\boldsymbol { z } } \\frac { j E _ { 0 } \\left( \\beta k _ { x } A _ { 2 } - k _ { 0 } \\chi A _ { 1 } \\right) } { \\eta _ { 0 } k _ { c m } ^ { 2 } \\cosh \\left( \\chi b \\right) } \\sin { ( k _ { x } x ) } \\cdot e ^ { - j \\beta z } - \\widehat { x } \\frac { A _ { 2 } E _ { 0 } } { \\eta _ { 0 } \\sinh \\left( \\chi b \\right) } \\cos { ( k _ { x } x ) } \\cdot e ^ { - j \\beta z } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One can observe from(7) that the surface current distribution is very similar to that of the traditional rectangular waveguide, so the offset longitudinal radiating slots on the broadtail of the rectangular waveguide is still appropriate to the CRLH waveguide to realize a LWA. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.LWA CONFIGURATION & DISPERSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the configuration of the proposed KB-band LWA and one unit cel structure. An offset straight long slot is made on the upper broadtail of the CRLH waveguide acting as the radiating aperture. The CRLH LWA should operate at the balanced condition in order to achieve the broadside radiation. It should also be noted that the balanced condition of the closed CRLH waveguide will be infuenced when an offset slot is cut on the broadtail due to the fact that the balanced condition is sensitive to the geometry size. Thus the offset slot should be included in the simulation prototype when optimizing the balanced condition for the LWA. The dispersion relation of the CRLH LWA is obtained using Ansoft HFSS,as shown in Figure 2. The dispersion is first calculated based on the $S$ parameters from driven modal simulation,and then is verified by a more accurate method,i.e.，Eigenmode simulation with periodic boundary conditions. It is observed that the CRLH LWA is balanced at 33.9GHz. Allthe parameter values are labeled in the caption of Figure 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.RESULTSOF THE LWA ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The designed LWA is composed of 100 CRLH radiating unit cels. Stepped transitions are included in two ends of the LWA for connecting the structure to standard WR-28 waveguides. Figure 3 presents the simulated $S$ -parameters of the LWA using CST Microwave Studio. The $S _ { 2 1 }$ magnitude is less than $- 5 \\mathrm { d B }$ in the whole operation band. Meanwhile the $S _ { 2 1 }$ magnitude in the LH region is lower than that in the right-handed (RH) region, which indicates larger leaky-wave factors in the LH region. The $S _ { 1 1 }$ magnitude is just slightly higher than $- 1 0 \\mathrm { d B }$ nearby the transition frequency due to an extremely small bandgap exists in the operation band which is hard to eliminate in practical design [5]. The normalized radiation patterns at diffrent frequencies are given in Figure 4. A continuous beam-steering capability from backward to forward directions including the broadside direction is clearly shown. The main lobe of the radiation pattern scans from $- 3 2 ^ { \\circ }$ to $+ 2 9 ^ { \\circ }$ as the frequency changes from 32.4GHz to 40GHz. It is interesting to note that the beam width of the radiation patterns in the LH region is larger than that in the RH region due to the larger leakywave factors, which is in accordance with the results in Figure 3. High far sidelobes of the radiation patterns are observed in Figure 4 since fixed slot offset is used as well as the excitation of the aperture is exponential distribution. Tapered excitation distribution can be realized using meandering long slot in the following studies. The realized gains and radiation efficiencies at diferent frequencies are given in Figure 5. Consistent high gains in the operation band are observed and higher than ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d48c670626e7a1584da295f50ba1d39cb464ad93add4acee1d58e767fc01e01.jpg",
+        "img_caption": [
+            "Figure 1: Configuration of the proposed KB-band LWA and one unit cell structure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6be37f82bc6a900068d02025fe5062d89aa6ea89ac9d41779045f698ef70eb28.jpg",
+        "img_caption": [
+            "Figure 2: Dispersion curve of the proposed KB-band CRLH LWA. Parameter values are: $a = 4 . 3 7 \\mathrm { m m }$ ， （20 $b = 2 . 8 \\mathrm { m m }$ ， $d = 1 \\mathrm { m m }$ ， $h = 4 . 3 \\mathrm { m m }$ ， $l = 1 . 5 8 5 \\mathrm { m m }$ ， $p = 2 . 8 \\mathrm { m m }$ ， $s = 1 . 2 \\mathrm { m m }$ ， $w = 1 . 8 \\mathrm { m m }$ ， $x _ { d } = 0 . 6 \\mathrm { m m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb5ba676d60cb542b2be22847d94d3b90e575a162e636bf0357745452464a07f.jpg",
+        "img_caption": [
+            "Figure 3: Simulated $S$ -parameters of the CRLH LWA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/443f86d61d668015d25e6458a525dda13dd88b189907c7b336a84df783971ab9.jpg",
+        "img_caption": [
+            "Figure 4: Simulated normalized patterns of the CRLHLWA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc2af505452811df2e390dd30e10758c91b46fb075f21afd9f3e5fc7e09d3a73.jpg",
+        "img_caption": [
+            "Figure 5:Realized gains and radiation efficiencies of the CRLHLWA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$5 0 \\%$ ( $> 7 0 \\%$ in most frequencies) effciencies are shown. All the results indicate that this CRLH waveguide LWA is hopeful for practical radar applications. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A KB-band CRLH waveguide LWA is proposed and investigated for radar application. The leakywave principle of this CRLH waveguide is studied with theoretical formula deduced. A LWA prototype is then build and simulated. The continuous beam-steering capability from backward to forward directions is demonstrated by the simulated radiation patterns. The results indicate that this CRLH waveguide LWA has the advantages of high power capacity, low loss,and consistent high gain,and is promising for future application in practical radar system. The following studies on the optimization of radiation patterns are under way. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Caloz, C. and T. Itoh， Electromagnetic Metamaterials: Transmission Line Theory and Microwave Applications: The Engineering Approach, Wiley-IEEE Press, 2006.   \n2. Lei,L., C. Caloz, and T. Itoh,“Dominant mode leaky-wave antenna with backfire-to-endfire scanning capability,” Electronics Letters,Vol. 38,1414-1416, 2002.   \n3. Dong, Y. and T. Itoh,“Composite right/left-handed substrate integrated waveguide and half mode substrate integrated waveguide leaky-wave structures,” IEEE Transactions on Antennas and Propagation, Vol. 59, 767-775, 2011.   \n4. Yang, Q., Y. Zhang, and X. Zhang,“X-band composite right/left-handed leaky wave antenna with large beam scanning-range/bandwidth ratio,” Electronics Letters, Vol.48,746-747, 2012.   \n5. Yang, Q., X. Zhao,and Y. Zhang, “Composite right/left-handed ridge substrate integrated waveguide slot array antennas,” IEEE Transactions on Antennas and Propagation, Vol. 62, 2311-2316, 2014.   \n6.Eshrah, I. A., A. A. Kishk, A. B. Yakovlev,and A. W. Glisson,“Rectangular waveguide with dielectric-filld corrugations supporting backward waves,” IEEE Transactions on Microwave Theory and Techniques, Vol. 53, 3298-3304, 2005.   \n7. Navarro-Tapia, M.， J. Esteban， and C. Camacho-Penalosa,“On the actual possibilities of applying the composite right/left-handed waveguide technology to slot array antennas,” IEEE Transactions on Antennas and Propagation, Vol. 60, 2183-2193, 2012.   \n8. Eldeen, A. M. N. and I. A. Eshrah，“CRLH waveguide with air-flled double-ridge corrugations,” IEEE International Symposium on Antennas and Propagation (APSURSI), 2965-2968, 2011.   \n9. Kord, A. M. and I. A. Eshrah,“Generalised asymptotic boundary conditions and their application to composite right/left-handed rectangular waveguide with double-ridge corrugations,\" IET Microwaves, Antennas & Propagation, Vol. 8,1014-1020, 2014. ",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,373 @@
+ChinaXiv合作期刊
+
+2
+
+3 (云南农业大学动物科学技术学院，云南省动物营养与饲料重点试验室，昆明650021)  
+4 摘要：本试验旨在探索血红素铁与硫酸亚铁（ $\mathrm { F e S O _ { 4 } }$ ）对妊娠母鼠繁殖成绩，妊娠母鼠  
+5 组织与胎鼠铁含量，妊娠母鼠组织铁调素（hepcidin）、膜铁转运蛋白 $( F p n )$ 、猫白血病病  
+6 毒C 亚类受体（Flvcr）、转铁蛋白受体1（Tfr1）、转铁蛋白受体2（Tfr2）、二价金属转  
+7 运体1(DMT1)和血红素转运蛋白（ $H C P$ ）表达的影响。随机选取2月龄体况接近的昆明小  
+8 鼠妊娠母鼠80只，随机分为8组，分别为对照组、缺铁组、血红素铁组（15、60、90 mg/kg  
+9 血红素铁）、 $\mathrm { F e S O _ { 4 } }$ 组（75、300、 $4 5 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ ），每组10只。配种受孕起对照组饲  
+10 喂正常饲粮（基础饲粮中添加 $8 0 \mathrm { \ m g / k g \ F e S O _ { 4 } }$ ）；其他各组均饲喂基础饲粮，妊娠第 10  
+11 天开始注射 $4 0 \ \mathrm { m g / k g }$ 去铁胺（DFO），诱导妊娠母鼠缺铁模型；妊娠第14天血红素铁组  
+12 和 $\mathrm { F e S O _ { 4 } }$ 组开始在基础饲粮中添加血红素铁或 $\mathrm { F e S O _ { 4 } }$ ，缺铁组不添加。试验期为妊娠后1\~20  
+13 d。结果表明：1) $6 0 ~ \mathrm { { m g / k g } }$ 血红素铁组胎鼠重最高，极显著高于对照组与缺铁组( $_ { \scriptstyle P < 0 . 0 1 }$ ）。  
+14 2） $6 0 ~ \mathrm { { m g / k g } }$ 血红素铁组与 $4 5 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ 组母鼠血液血红蛋白（HGB）含量、红细胞数  
+15 （RBC）和红细胞容积（HCT）极显著高于缺铁组（ $P { < } 0 . 0 1$ ）。3) $6 0 ~ \mathrm { { m g / k g } }$ 血红素铁组胎  
+16 鼠铁含量最高，极显著高于对照组与 $\mathrm { F e S O _ { 4 } }$ 组（ $_ { \scriptstyle P < 0 . 0 1 }$ ）； $4 5 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ 组母鼠肝脏、  
+17 脾脏和胎盘铁含量均为最高。4) $9 0 \ \mathrm { m g / k g }$ 血红素铁组和 $4 5 0 \mathrm { \ m g / k g }$ （204号 $\mathrm { F e S O _ { 4 } }$ 组母鼠肝脏  
+18 hepcidin 表达量较高，极显著高于缺铁组与对照组（ $P { < } 0 . 0 1 \ \mathrm { \cdot }$ ）； $1 5 \mathrm { \ m g / k g }$ 血红素铁组母鼠  
+19 肝脏 Fpn、Tfr2 表达量较高，极显著高于对照组和缺铁组（ ${ \cal P } { < } 0 . 0 1$ ）； $6 0 ~ \mathrm { { m g / k g } }$ 血红素铁  
+20 组母鼠肝脏 Tfr1、Flvcr 表达量较高，极显著高于对照组和缺铁组( $_ { P < 0 . 0 1 }$ ； $7 5 \mathrm { m g / k g }$ FeSO4  
+21 组母鼠肝脏 Tfr1 表达量较高，极显著高于对照组和缺铁组（ $P { < } 0 . 0 1$ ）。5）缺铁组母鼠十  
+22 二指肠Fpn、HCP、DMT1、Flvcr表达量均极显著高于对照组（ ${ \cal P } { < } 0 . 0 1$ ）。6）缺铁组母鼠  
+23 胎盘 Fpn、Tfr1、DMT1、Flvcr、HCP 表达量极显著高于对照组（ $P { < } 0 . 0 1 \rangle$ ； $9 0 ~ \mathrm { m g / k g }$ 血红素  
+24 铁组和 $4 5 0 \mathrm { \ m g / k g }$ （204号 $\mathrm { F e S O _ { 4 } }$ 组母鼠胎盘 hepcidin 表达量较高，极显著高于缺铁组与对照组
+
+（ $P { < } 0 . 0 1$ ）。7）饲粮血红素铁添加量为 $6 1 . 0 0 \mathrm { m g / k g }$ 或 $\mathrm { F e S O _ { 4 } }$ 添加量为 $3 3 6 . 1 1 \mathrm { m g / k g }$ 时，胎鼠铁含量最高；饲粮血红素铁添加量为 $9 3 . 4 9 \mathrm { m g / k g }$ 时，母鼠肝脏铁含量最高。综合得出，母鼠饲粮中添加适宜量的血红素铁或 $\mathrm { F e S O _ { 4 } }$ 均可显著促进胎鼠增重，诱导母鼠靶组织铁调基因的表达，提高母鼠组织和妊娠20d胎鼠机体铁含量；HCP和 $F l \nu c r$ 在母鼠肠道对血红素铁吸收或胎盘转运起至关重要的作用，但肠道吸收或胎盘转运 $\mathrm { F e S O _ { 4 } }$ 主要以DMT1和Tfr2为主。
+
+关键词：妊娠母鼠；血红蛋白；铁含量；铁调素；血红素铁
+
+中图分类号：S852.2
+
+33 铁是动物必需的微量元素之一，缺铁或铁过量均影响仔猪健康和制约仔猪遗传潜力的  
+34 充分发挥。目前，缺铁性贫血是新生仔猪面临的普遍问题。从妊娠母猪寻找新型、安全高  
+35 效的有效铁源已成为改善母猪繁殖性能和促进新生仔猪生长发育的重要研究课题。白松涛  
+36 [1、赵惠君[2研究报道，妊娠后期及哺乳期缺铁会严重导致婴幼儿生长不良。母体摄入的  
+37 血红素铁与非血红素铁会影响新生儿肝脏储铁的含量。血红素铁是与血红蛋白（HGB）及  
+38 肌红蛋白、脑红蛋白中的卟啉结合的铁，它以叶啉铁的形式直接被肠黏膜上皮细胞吸收。  
+39 Cao 等3]采用同位素跟踪法证明铁的状态（血红素铁或非血红素铁）影响胎盘铁的转移，  
+40 母体血清铁调素（hepcidin)含量及母体、初生儿铁的状态与母体摄入的血红素与非血红素  
+41 铁密切相关，妊娠末期，母体摄入血红素铁可能更优先转移入胎儿。Furuyama 等[4研究报  
+42 道，血红素在调节细胞信号通路和基因表达方面起重要作用。近十年研究显示，hepcidin  
+43 在机体维持铁稳态中起着重要作用，其通过调节膜铁转运蛋白 $1 ( F p n 1 )$ 、二价金属转运体  
+44 1(DMT1)、肠细胞色素 $\mathsf { b } ( D c y t b )$ 、转铁蛋白受体 1(Tfr1)，协调和控制铁离子在细胞和内环  
+45 境之间的转运[5-6]。hepcidin可以直接与膜铁转运蛋白 $( F p n )$ 作用，使其内化和降解，控制铁  
+46 的输出[7]。现行仔猪的补铁方式尚需要进一步完善。迄今，血红素铁对新生仔猪补铁效应  
+47 的研究鲜见报道。本试验以妊娠母鼠构建缺铁模型，研究血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠繁  
+48 殖成绩，妊娠母鼠组织与胎鼠铁含量，妊娠母鼠组织 hepcidin、Fpn、猫白血病病毒C 亚类  
+49 受体（Flvcr）、Tfr1、转铁蛋白受体2（Tfr2）、DMT1和血红素转运蛋白（HCP）表达的  
+50 影响，为探索新生仔猪有效补铁途径提供科学依据。
+
+1材料与方法
+
+# 1.1试验材料
+
+血红素铁（由云南省动物营养与饲料重点试验室单胃动物营养研究室提供，从猪血液中提取，纯度为 $9 8 \%$ ，血红素含量为 $20 \%$ ，铁含量为 $2 \%$ ，剩余成分为HGB、肽、氨基酸等）； $\mathrm { F e S O _ { 4 } }$ 、去铁胺（DFO）均为试剂级，购自美国Sigma公司。
+
+1.2试验设计
+
+随机选取来源一致、健康、饲养方式相同和体重相近的2月龄昆明小鼠母鼠80 只，单笼饲养，母鼠平均体重为 $3 2 . 1 5 { \mathrm { ~ g } } { \mathrm { . } }$ 。每笼放入1只公鼠配种，母鼠受孕后，移除公鼠。妊娠母鼠随机分为8组，分别为对照组、缺铁组、血红素铁组 $( 1 5 , 6 0 , 9 0 \mathrm { m g / k g }$ 血红素铁）、$\mathrm { F e S O _ { 4 } }$ 组（75、300、 $4 5 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ ），每组10只。配种受孕起开始饲喂，缺铁组、血红素铁组、 $\mathrm { F e S O _ { 4 } }$ 组母鼠均饲喂基础饲粮，妊娠期母鼠第10 天开始注射 $4 0 \ \mathrm { m g / k g }$ DFO,诱导缺铁模型，第14天血红素铁组和 $\mathrm { F e S O _ { 4 } }$ 组开始在基础饲粮中添加血红素铁或 $\mathrm { F e S O _ { 4 } }$ 缺铁组不添加；对照组母鼠饲喂在基础饲粮中添加 $8 0 \ \mathrm { m g / k g }$ （20 $\mathrm { F e S O _ { 4 } }$ 的正常饲粮[根据 NRC（1995）标准]。试验期为妊娠后 $1 { \sim } 2 0 \mathrm { d } .$ （204号
+
+# 1.3饲粮配制与饲养管理
+
+基础饲粮组成及营养水平见表1。在清洁动物房内，试验鼠单笼饲养于专用鼠代谢笼，环境温度在（ $2 4 { \pm } 1$ ） $\mathrm { { } ^ { \circ } C }$ ，相对湿度在 $40 \% \sim 6 0 \%$ 。自由饮食及饮水，自然昼夜节律变化光照。
+
+# 表1基础饲粮组成及营养水平(风干基础)
+
+Table 1 Composition and nutrient levels of the basal diet（air-dry basis）  
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>55.47</td></tr><tr><td>豆粕 Soybean meal</td><td>24.60</td></tr><tr><td>麦麸 Wheat bran</td><td>17.00</td></tr><tr><td>碳酸钙CaCO3</td><td>1.20</td></tr><tr><td>食盐 NaCl</td><td>0.50</td></tr><tr><td>蛋氨酸Met</td><td>0.23</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>消化能DE/(MJ/kg)</td><td>12.89</td></tr><tr><td>粗蛋白质CP</td><td>19.00</td></tr><tr><td>赖氨酸Lys</td><td>0.83</td></tr></table></body></html>
+
+蛋氨酸Met 0.50   
+苏氨酸Thr 0.70   
+色氨酸Try 0.23   
+钙Ca 0.53   
+磷P 0.46   
+铁 $\mathrm { F e / ( m g / k g ) }$ 93.53
+
+1 预混料为每千克饲粮提供 Premix provided the following per kilogram of the diet： $\mathrm { C u S O 4 2 4 . 0 1 \ m g }$ MnSO4 81.89 mg,ZnSO468.83 mg,Na2SeO0.33 mg,KI0.27 mg,MgO 927.64 mg,VA 2 400 IU,VD1000$\mathrm { I U } , \mathrm { V E } 3 2 \ \mathrm { I U } , \mathrm { V B } _ { 1 } 5 \ \mathrm { m g } , \mathrm { V B } _ { 2 } 7 \ \mathrm { m g }$ ，泛酸 pantothenic acid $1 6 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $1 5 ~ \mathrm { m g }$ ，胆碱choline 2（204号 $0 0 0 ~ \mathrm { { m g } }$ ，叶酸 $0 . 5 ~ \mathrm { m g }$ □
+
+2)消化能为计算值，其他为实测值。DE was a calculated value,while the others were measured values.
+
+1.4样品采集
+
+第20天07:30空腹称重后，前腔静脉采血 $3 ~ \mathrm { m L }$ ，随后屠宰。采集母鼠胎盘、肝脏、脾脏、十二指肠及胎鼠，称重后迅速剪碎，液氮速冻，-80℃保存备用。
+
+1.5血液指标测定
+
+母鼠血液 HGB 含量、红细胞数（RBC）和红细胞容积（HCT）采用迈瑞 BC-2800 全自动血液细胞分析仪测定。
+
+1.6原子吸收法测定铁含量
+
+准确称取 $1 0 0 ~ \mathrm { { m g } }$ 待测组织样品置于去铁处理后的消化管中，加入工作液 $1 ~ \mathrm { m L }$ （高氯酸：浓硝酸 $\scriptstyle : = 1 : 4$ ），放入消化器孔内。首先在70℃消化 $3 { \sim } 4 \mathrm { h }$ ，然后依次升温到100、120、150、180、200℃，直至消化到溶液透明澄清为止。消化完毕溶液凉后转移到 $1 0 ~ \mathrm { m L }$ 容量瓶中，用去离子水清洗消化管，移入定容瓶直至用去离子水定容到 $1 0 ~ \mathrm { m L }$ 刻度待测。
+
+1.7铁调基因表达量测定
+
+1.7.1总RNA提取
+
+各组织总RNA 提取按照RNAsimple Total RNAKit[天根生化科技(北京)有限公司试剂]说明书进行，每 $5 0 { \sim } 1 0 0 ~ \mathrm { m g }$ 组织加 $1 ~ \mathrm { m L }$ 裂解液，经过研磨粉碎匀浆后，加入氯仿萃取。最后得到的总RNA 溶解于超纯水中，总RNA的纯度与浓度分别用分光光度计在 $2 6 0 \ \mathrm { n m }$ 与 $2 8 0 \mathrm { n m }$ 下检测吸光度(OD)值， $\mathrm { O D } _ { 2 6 0 \mathrm { n m } } / \mathrm { O D } _ { 2 8 0 \mathrm { n m } }$ 在1.8\~2.0 方可采用。
+
+1.7.2 反转录
+
+1 总RNA 样品按试剂盒（TaKaRa,日本）说明书要求配制反转录反应液，总体系 $1 0 \mu \mathrm { L }$   
+5 反转录产物（cDNA）于-20℃保存。
+
+ChinaXiv合作期刊
+
+# 6 1.7.3实时荧光定量PCR
+
+cDNA用于实时荧光定量PCR。以 $\beta \mathrm { . }$ -肌动蛋白（ $\beta$ -actin）为内参基因，各基因引物序列见表2。引物采用PrimerExpress 软件设计。
+
+采用 Eva Green I染料法，在 Bio-Rad CFX96TM Real-Time PCR Systems上进行实时荧光定量PCR。 $2 0 ~ \mu \mathrm { L }$ 反应体系如下：SsoFastTMEvaGREEN? Supermix $1 0 ~ \mu \mathrm { L }$ （Bio-Rad，美国)，上、下游引物（ $1 0 0 \mu \mathrm { m o l } / \mathrm { L } \ ' ,$ 各 $1 . 0 \mu \mathrm { L }$ ，cDNA模板 $2 . 0 \mu \mathrm { L }$ ，加灭菌去离子水至 $2 0 \mu \mathrm { L } .$ 样品分装于96孔板（Bio-Rad，美国）中，盖紧可透光盖（Bio-Rad，美国）。反应条件为：95℃ 10 min;95 ℃ 5s, $6 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ （ $2 0 ~ \mathrm { s }$ ， $7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ $1 5 \mathrm { ~ s ~ }$ ，40个循环。
+
+#
+
+104 表2引物序列  
+105 Table 2Primer sequences  
+基因Genes 引物序列 Primer sequences  
+β-肌动蛋白 β-actin 上游： ${ \boldsymbol { 5 } } ^ { \prime }$ -GACGGCCAAGTCATCACTATT-3'下游： $5 ^ { \prime }$ -CCACAGGATTCCATACCCAAGA-3'  
+铁调素 Hepcidin 上游： $5 ^ { \prime }$ -CCTATCTCCATCAACAGATG- $3 ^ { \prime }$ 下游： $5 ^ { \prime }$ -AACAGATACCACACTGGGAA-3'  
+膜铁转运蛋白Fpn 上游： ${ \boldsymbol { 5 } } ^ { \prime }$ -CCAGCATCAGAACAAACACG- $3 ^ { \prime }$ 下游： $5 ^ { \prime }$ -ACTGCAAAGTGCCACATCC- $3 ^ { \prime }$   
+猫白血病病毒C亚类受体Flvcr 上游： $5 ^ { \prime }$ -CTGCACATCAACTGGCTGTC $3 ^ { \prime }$ （204号下游： $5 ^ { \prime }$ -AGCATGGTGACCCAGAAGAG- $3 ^ { \prime }$   
+二价金属转运体1DMT1 上游： ${ \boldsymbol { 5 } } ^ { \prime }$ -GGCTTTCTTATGAGCATTGCCTA $3 ^ { \prime }$ 下游： $5 ^ { \prime }$ -GGAGCACCCAGAGCAGCTTA $3 ^ { \prime }$   
+转铁蛋白受体1 Tfr1 上游： $5 ^ { \prime }$ -CAGAAAGTTCCTCAGCTCAACCA $\cdot 3 ^ { \prime }$ 下游： $5 ^ { \prime }$ -GTTCAATTCAACGTCCATGGGTAAG-3'  
+转铁蛋白受体2Tfr2 上游： $5 ^ { \prime }$ -ACCCATCAGACTTCTCCCAGG-3'下游： $5 ^ { \prime }$ -GTTTGATTGAAGGACGGGAAG $\cdot 3 ^ { \prime }$   
+血红素转运蛋白 HCP 上游： $5 ^ { \prime }$ -CACCTACCCTACCTCACCA $. 3 ^ { \prime }$ 下游： $5 ^ { \prime }$ -AACGCAAAGACCACCATT-3'
+
+# 106 1.8 数据分析
+
+所有组织的铁调节基因均是以 $\beta$ -actin为内参基因进行相对定量，表达量参考Pfaff[8]  
+的方法计算。所有数据均采用 Excel进行整理，采用 SPSS19.0统计软件进行统计处理，结  
+果用平均值 $\pm$ 标准差表示，组间差异显著的采用Duncan氏法进行多重比较。  
+2结果  
+2.1血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠繁殖性能的影响由表3可见， $6 0 ~ \mathrm { { m g / k g } }$ 血红素铁组、 $3 0 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ 组母鼠增重最多，极显著高于
+
+对照组和缺铁组 $( P { < } 0 . 0 1 )$ 。 $6 0 ~ \mathrm { m g / k g }$ 血红素铁组胎鼠重和母鼠肝脏重最高，其中胎鼠重极显著高于对照组和缺铁组 $( P { < } 0 . 0 1 )$ 。
+
+Table 3Effects of heme Fe and $\mathrm { F e S O _ { 4 } }$ on breeding performance of pregnant mouse   
+
+<html><body><table><tr><td>组别Groups</td><td>增重Weight gain/g</td><td>肝脏重Liver weight/g</td><td>脾脏重 Spleen weight/g</td><td>胎盘重Placenta weight/g</td><td>胎鼠重Foetus weight/g</td><td>胎鼠数 Foetus No./ 只</td></tr><tr><td>对照Control</td><td>29.94±0.28Bc</td><td>3.09±0.11ABab</td><td>0.18±0.00Aa</td><td>0.19±0.00</td><td>1.34±0.04Bb</td><td>17±2</td></tr><tr><td>缺铁Fe deficiency</td><td>26.14±0.19De</td><td>3.07±0.04ABab</td><td>0.18±0.00Aa</td><td>0.19±0.00</td><td>1.30±0.01Bb</td><td>16±1</td></tr><tr><td>15 mg/kg 血红素铁15 mg/kg heme Fe</td><td>28.49±0.17Cd</td><td>3.14±0.06ABab</td><td>0.18±0.00Aa</td><td>0.18±0.00</td><td>1.53±0.25ABab</td><td>17±1</td></tr><tr><td>60 mg/kg 血红素铁 60 mg/kg heme Fe</td><td>34.93±0.26Aa</td><td>3.23±0.13Aa</td><td>0.18±0.00Aa</td><td>0.18±0.00</td><td>1.70±0.35Aa</td><td>17±1</td></tr><tr><td>90 mg/kg 血红素铁 90 mg/kg heme Fe</td><td>29.73±0.26Bc</td><td>3.11±0.04ABab</td><td>0.18±0.00Aa</td><td>0.19±0.00</td><td>1.37±0.01Bb</td><td>16±1</td></tr><tr><td>75 mg/kg硫酸亚铁 75 mg/kg FeSO4</td><td>25.32±0.02Ef</td><td>2.97±0.06ABab</td><td>0.17±0.00Bb</td><td>0.19±0.01</td><td>1.31±0.01Bb</td><td>17±1</td></tr><tr><td>300 mg/kg硫酸亚铁300 mg/kg FeSO4</td><td>34.39±0.15Aa</td><td>3.06±0.05ABab</td><td>0.18±0.00Aa</td><td>0.18±0.00</td><td>1.36±0.01Bb</td><td>18±1</td></tr><tr><td>450 mg/kg硫酸亚铁 450 mg/kg FeSO4</td><td>30.42±0.20Bb</td><td>2.97±0.10Bb</td><td>0.18±0.00Aa</td><td>0.18±0.01</td><td>1.38±0.01Bb</td><td>17±1</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著（ ${ P } { < } 0 . 0 1 \$ ）。下表同。In the same column,values with different smalletter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,andwith different capital letter superscripts mean extremely significant difference $( P { < } 0 . 0 1 ) \$ ).Thesame asbelow.2.2血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠血液HGB含量、RBC和HCT的影响由表4可见， $6 0 ~ \mathrm { { m g / k g } }$ 血红素铁组与 $4 5 0 ~ \mathrm { m g / k g }$ $\mathrm { F e S O _ { 4 } }$ 组母鼠血液HGB含量、RBC和 HCT极显著高于缺铁组（ ${ \cal P } { < } 0 . 0 1$ ）。
+
+表3血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠繁殖性能的影响  
+表4血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠血液HGB含量、RBC和HCT的影响 Table 4Effects of heme Fe and $\mathrm { F e S O _ { 4 } }$ on blood HGB content，RBC and HCT of pregnant mouse   
+
+<html><body><table><tr><td>组别 Groups</td><td>血红蛋白 HGB/(g/L)</td><td>红细胞数RBC/（×10l2个/L)</td><td>红细胞容积HCT/%</td></tr><tr><td>对照 Control</td><td>122.03±1.00Bb</td><td>9.49±0.84Aa</td><td>45.70±0.36Aa</td></tr><tr><td>缺铁 Fe deficiency</td><td>100.67±14.01Cc</td><td>7.04±0.39Bb</td><td>35.13±2.01Bb</td></tr><tr><td>15 mg/kg 血红素铁 15 mg/kg heme Fe</td><td>103.03±4.00Cc</td><td>8.63±0.09Aa</td><td>44.07±0.59Aa</td></tr><tr><td>60 mg/kg 血红素铁 60 mg/kg heme Fe</td><td>144.08±7.37Aa</td><td>9.71±0.47Aa</td><td>49.33±4.72Aa</td></tr><tr><td>90 mg/kg 血红素铁 90 mg/kg heme Fe</td><td>124.01±7.54Bb</td><td>8.79±0.42Aa</td><td>42.80±2.60Aa</td></tr><tr><td>75 mg/kg硫酸亚铁 75 mg/kg FeSO4</td><td>100.33±5.01Cc</td><td>7.04±0.74Bb</td><td>35.13±2.15Bb</td></tr><tr><td>300 mg/kg硫酸亚铁 300 mg/kg FeSO4</td><td>120.64±5.03Bb</td><td>8.87±0.36Aa</td><td>43.53±0.35Aa</td></tr><tr><td>450 mg/kg硫酸亚铁450 mg/kgFeSO4</td><td>145.02±6.24Aa</td><td>9.78±0.32Aa</td><td>49.33±2.21Aa</td></tr></table></body></html>
+
+126 2.3血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠组织与胎鼠铁含量的影响
+
+7 由表5可见， $9 0 \mathrm { m g / k g }$ 血红素铁组、 $4 5 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ 组母鼠肝脏铁含量较高，极显著  
+8 高于对照组和缺铁组（ $P { < } 0 . 0 1$ ）。 $4 5 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ 组母鼠脾脏铁含量最高，极显著高于对  
+9 照组和缺铁组 ( $P { < } 0 . 0 1$ ）。 $3 0 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ 组和 $4 5 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ 组母鼠胎盘铁含量极显  
+30 著高于血红素铁组（ $P { < } 0 . 0 1$ ）。缺铁组母鼠肝脏、脾脏、胎盘和胎鼠铁含量均极显著低于
+
+表5血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠组织与胎鼠铁含量的影响
+
+Table 5Effects of heme Fe and $\mathrm { F e S O _ { 4 } }$ on iron content in tissues of pregnant mice and their foetuses mg/kg   
+
+<html><body><table><tr><td>组别Groups</td><td>肝脏Liver</td><td>脾脏 Spleen</td><td>胎盘 Placenta</td><td>胎鼠Foetus</td></tr><tr><td>对照Control</td><td>161.29±6.22Dd</td><td>282.72±4.91Dd</td><td>106.79±5.78Cc</td><td>139.08±6.38De</td></tr><tr><td>缺铁 Fe deficiency</td><td>103.41±5.37Ff</td><td>177.61±3.81Ff</td><td>71.75±7.32Dd</td><td>108.13±7.67Ef</td></tr><tr><td>15 mg/kg 血红素铁15 mg/kg heme Fe</td><td>160.30±6.17Dd</td><td>283.36±7.88Dd</td><td>107.66±12.17Cc</td><td>184.83±6.38Ee</td></tr><tr><td>60 mg/kg 血红素铁 60 mg/kg heme Fe</td><td>231.17±5.28Cc</td><td>284.75±8.81Dd</td><td>108.36±5.13Cc</td><td>282.41±9.72Aa</td></tr><tr><td>90 mg/kg 血红素铁 90 mg/kg heme Fe</td><td>257.56±7.33Aa</td><td>475.82±6.25Bb</td><td>114.30±13.92Cc</td><td>243.61±11.18BCbc</td></tr><tr><td>75 mg/kg硫酸亚铁 75 mg/kg FeSO4</td><td>128.08±6.42EFef</td><td>233.37±7.88Ee</td><td>72.52±9.08Dd</td><td>155.04±4.98Dd</td></tr><tr><td>300 mg/kg 硫酸亚铁 300 mg/kg FeSO4</td><td>250.62±9.82Bb</td><td>425.50±7.66Cc</td><td>152.75±12.86Bb</td><td>254.59±5.90Bb</td></tr><tr><td>450 mg/kg 硫酸亚铁 450 mg/kg FeSO4</td><td>260.71±15.09Aa</td><td>530.51±156.60Aa</td><td>164.58±10.41Aa</td><td>234.90±8.58Cc</td></tr></table></body></html>
+
+带格式的：缩进：首行缩进：0.77厘米
+
+母鼠肝脏和胎鼠铁含量与饲粮血红素铁添加量呈二次曲线变化（ $_ { - P < 0 . 0 1 }$ ）。由二次曲线求值得出，饲粮血红素铁添加量为 $9 3 . 4 9 \mathrm { \ m g / k g }$ 时，母鼠肝脏铁含量最高；饲粮血红素铁添加量为 $6 1 . 0 0 \ \mathrm { m g / k g }$ 时，胎鼠铁含量最高（图1-A、图1-B、图1-C、图1-D）。饲粮 $\mathrm { F e S O _ { 4 } }$ 添加量为 $3 3 6 . 1 1 \mathrm { m g / k g }$ 时，胎鼠铁含量最高；饲粮 $\mathrm { F e S O _ { 4 } }$ 添加量为 $5 1 1 . 8 5 \mathrm { m g / k g }$ 时，母鼠肝脏铁含量最高（图1-E、图1-F）。
+
+![](images/14b76734b00a3b73ad46c401172607f34eb09d5408907fe17ff461b1ddf7b70f.jpg)  
+图1饲粮血红素铁添加量与妊娠母鼠肝脏和胎鼠铁含量的二次曲线变化
+
+Fig.1Quadratic curve changes of dietary hemeFe supplemental level and iron content of pregnant mice liver
+
+and fetuses
+
+2.4血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠肝脏铁调节基因表达的影响
+
+由图2-A可知，缺铁组母鼠肝脏hepcidin 表达量极显著低于对照组（ $P { < } 0 . 0 1$ ）；随着血红素铁添加量的增加，肝脏 hepcidin 表达量上升； $9 0 ~ \mathrm { m g / k g }$ 血红素铁组肝脏 hepcidin 表达量较高，与对照组差异极显著（ ${ \cal P } { < } 0 . 0 1$ ）。由图2-B可知，母鼠肝脏 $F p n$ 表达量随着血红素铁添加量的增加而降低， $1 5 \mathrm { m g / k g }$ 血红素铁组肝脏 $F p n$ 表达量较高，与对照组和缺铁组相比差异极显著（ $P { < } 0 . 0 1$ ）。由图2-C可知， $6 0 ~ \mathrm { { m g / k g } }$ 血红素铁组母鼠肝脏Tfr1表达量较高，与对照组和缺铁组相比差异极显著（ $_ { - P < 0 . 0 1 }$ ）。由图2-D可知，缺铁组母鼠肝脏Tfr2表达量极显著高于对照组 （ $P { < } 0 . 0 1$ ）； $\boldsymbol { T } \boldsymbol { f r } 2$ 表达量随着血红素铁添加量的增加而降低，15mg/kg血红素铁组较高，与对照组和缺铁组相比差异极显著（ $P { < } 0 . 0 1$ ）。由图2-E可知，
+
+ChinaXiv合作期刊
+
+$6 0 ~ \mathrm { { m g / k g } }$ 血红素铁组母鼠肝脏Flvcr表达量较高，极显著高于对照组和缺铁组（ $P { < } 0 . 0 1 \$ ）
+
+![](images/92302b356080993909c680283b7f674799625648866f4cbce00fac4b07bd4a02.jpg)
+
+165
+
+数据柱形标注不同小写字母表示差异显著（ $P { < } 0 . 0 5 \rangle$ ），不同大写字母表示差异极显著（ $P { < } 0 . 0 1 \rangle$ 。下  
+图同。Data columns with different small letters mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital  
+letters mean extremely significant difference( $_ { \it P 1 0 1 ) }$ .The same as below.  
+图2血红素铁对妊娠母鼠肝脏 hepcidin（A）、Fpn（B）、Tfr1（C）、Tfr2（D）、Flvcr（E）表达的影响  
+Fig.2Effects of heme Fe on expressions ofhepcidin（A），Fpn（B），Tfr1（C），Tfr2（D）andFlvcr（E）in liver of pregnant mice
+
+由图3-A可知，随着 $\mathrm { F e S O _ { 4 } }$ 添加量的增加，母鼠肝脏 hepcidin 表达量上升； $4 5 0 \mathrm { m g / k g }$ $\mathrm { F e S O _ { 4 } }$ 组肝脏hepcidin 的表达量较高，与对照组差异极显著（ $P { < } 0 . 0 1$ ）。由图3-B可知，母鼠肝脏 $F p n$ 表达量随着 $\mathrm { F e S O _ { 4 } }$ 添加量的增加而降低， $7 5 \mathrm { m g / k g \ F e S O _ { 4 } }$ 组肝脏 $F p n$ 表达量
+
+8 较高，与对照组和缺铁组相比差异极显著（ $P { < } 0 . 0 1$ ）。由图3-C可知， $7 5 \mathrm { m g / k g } \mathrm { F e S O _ { 4 } }$ 组  
+9 母鼠肝脏Tfr1表达量较高，与对照组和缺铁组相比差异极显著（ $_ { \scriptstyle P < 0 . 0 1 }$ ）。由图3-D可知，  
+0 母鼠肝脏Tfr2表达量随着 $\mathrm { F e S O _ { 4 } }$ 添加量的增加而降低， $7 5 \mathrm { m g / k g } \mathrm { F e S O _ { 4 } }$ 组极显著高于对照  
+1 组 $_ { \scriptstyle P < 0 . 0 1 }$ ）。由图3-E可知， $\mathrm { F e S O _ { 4 } }$ 组母鼠肝脏Flvcr表达量极显著高于对照组( $_ { | P < 0 . 0 1 \rangle }$ 。
+
+![](images/78bbf498382d1b0749094da4276bc9fccccd057484be0c683581a94eae441dda.jpg)  
+图3 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠肝脏 hepcidin（A）、Fpn（B）、Tfr1（C）、Tfr2（D）、Flvcr（E）表达的影响Fig.3Effects of $\mathrm { F e S O _ { 4 } }$ onexpressions of hepcidin（A），Fpn（B），Tfr1（C），Tfr2（D）and Flvcr（E）in liver of pregnant mice
+
+2.5血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠十二指肠铁调节基因表达的影响
+
+由图 4-A 可知，缺铁组母鼠十二指肠 $F p n$ 表达量极显著高于对照组（ $P { < } 0 . 0 1 \$ ）；Fpn表达量血红素铁添加量的增加而降低， $9 0 \mathrm { m g / k g }$ 血红素铁组 $F p n$ 表达量较低，与对照组和缺铁组相比差异极显著（ $P { < } 0 . 0 1$ ）。由图4-B可知，缺铁组和 $1 5 \mathrm { m g / k g }$ 血红素铁组母鼠十二指肠HCP表达量较高，与对照组相比差异极显著（ $P { < } 0 . 0 1 \rangle$ ；随血红素铁添加量的增加，HCP表达量下降。由图4-C、图4-D可知，缺铁组母鼠十二指肠DMT1、Flvcr表达量极显著高于对照组（ ${ \cal P } { < } 0 . 0 1$ ），随血红素铁添加量的增加，DMT1、Flvcr表达量下降。
+
+![](images/ca0ce09914cc1a63cbae97f7d55e14f918323522235720025935358826e56b7f.jpg)  
+图4血红素铁对妊娠母鼠十二指肠Fpn（A）、HCP（B）、DMT1（C）、Flvcr（D）表达的影响Fig.4Effects ofheme Fe on expressions ofFpn（A），HCP（B），DMT1（C）and Flvcr（D）induodenum of pregnant mice
+
+由图5-A 可知， $7 5 \mathrm { \ m g / k g }$ （20 $\mathrm { F e S O _ { 4 } }$ 组母鼠十二指肠Fpn 表达量极显著高于对照组${ \scriptstyle \cdot } P { < } 0 . 0 1$ ）； $F p n$ 表达量随着 $\mathrm { F e S O _ { 4 } }$ 添加量的增加而降低， $4 5 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ 组较低，与对照组和缺铁组相比差异极显著（ $_ { \cdot  { P } < 0 . 0 1 }$ ）。由图5-B可知，各 $\mathrm { F e S O _ { 4 } }$ 组母鼠十二指肠HCP表达量均极显著高于对照组（ $P { < } 0 . 0 1$ ），与缺铁组差异不显著（ $. P { > } 0 . 0 5$ ）。由图5-C、图5-D可知，随 $\mathrm { F e S O _ { 4 } }$ 添加量的增加，母鼠十二指肠DMT1、Flvcr表达量下降，但均极显著高于对照组（ $P { < } 0 . 0 1$ ），且极显著低于缺铁组（ $P { < } 0 . 0 1$ ）。
+
+B 6.40 A2.25 Aa Bb errear Aa Bb 1.80 4.80 I 4.00 1.35 1 3.20 Bb .90 2.40 Cc Dd 1.60 .45 Aa .80 0.00 0.00 Con. DEF. 75 300 450 Con FeSO4 (mg/kg) FeSO4（mg/kg) Aa Aa 4.50   
+3.20 4.05   
+2.40 Bb 3.60- mi Cc Cc grree 2.70   
+1.60 1 2.25 1.80 Dd   
+.80 1305 Cd   
+0.00 eagar 0.00 Con. DEF. 75 300 450 Con. DEF. 75 300 450 L FeSO4(mg/kg) FeSO4(mg/kg)
+
+2.6血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠胎盘铁调基因表达的影响
+
+由图6-A可知，缺铁组母鼠胎盘 hepcidin 表达量低于对照组，差异极显著（ $_ { ( P < 0 . 0 1 ) }$ ）。随着血红素铁添加量的增加，hepcidin 表达量上升；血红素铁组中， $9 0 ~ \mathrm { m g / k g }$ 血红素铁组hepcidin 的表达量较高，与对照组差异极显著( $P { < } 0 . 0 1 \rangle$ 。由图 6-B 可知，缺铁组和 $1 5 \mathrm { m g / k g }$ 血红素铁组母鼠胎盘 $F p n$ 表达量较高，与对照组相比差异极显著（ $P { < } 0 . 0 1$ ）； $F p n$ 表达量随着血红素铁添加量的增加而降低。由图6-C、图6-D、图6-E可知，缺铁组母鼠胎盘 Tfr1、DMT1、Flvcr表达量较高，与其他组相比差异极显著（ $_ { - P < 0 . 0 1 }$ ）。由图6-F可知，缺铁组和 $1 5 \mathrm { m g / k g }$ 血红素铁组母鼠胎盘 $H C P$ 表达量极显著高于其他组（ $P { < } 0 . 0 1$ ）。
+
+![](images/0642acc29569ccdc8cf52ea43140ecc8888ad734ae57f1164e74eb58030ac139.jpg)  
+图6血红素铁对妊娠母鼠胎盘 hepcidin（A）、Fpn（B）、Tfr1（C）、DMT1（D）、Flvcr（E）、HCP（F）表达的影响Fig.6Effects of heme Fe on expressions of hepcidin（A），Fpn（B），Tfrl（C），DMT1 （D），Flvcr（E）and HCP（F）in placenta of pregnant mice
+
+由图7-A可知，随着 $\mathrm { F e S O _ { 4 } }$ 添加量的增加，母鼠胎盘 hepcidin 表达量上升； $\mathrm { F e S O _ { 4 } }$ 组中， $4 5 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ 组 hepcidin 的表达量较高，与对照组差异极显著( ${ \cdot } P { < } 0 . 0 1 { \mathrm { ~ } }$ ）。由图7-B可知， $7 5 \mathrm { m g / k g } \mathrm { F e S O _ { 4 } }$ 组母鼠胎盘 $F p n$ 表达量较高，与对照组相比差异极显著（ $_ { ( P < 0 . 0 1 ) }$ ；Fpn表达量随着 $\mathrm { F e S O _ { 4 } }$ 添加量的增加而降低。由图7-C、图7-D、图7-E、图7-F可知，缺铁组母鼠胎盘 Tfr1、DMT1、Flvcr、HCP表达量较高，与其他组相比差异极显著（ $_ { \scriptstyle P < 0 . 0 1 }$ ）。
+
+![](images/623244f100522046d1fda7524d9a49384436ed8d211a53890df419f875f55f49.jpg)  
+图7FeSO4对妊娠母鼠胎盘 hepcidin（A）、Fpn（B）、Tfr1（C）、DMT1（D）、Flvcr（E）、HCP（F)表达的影响Fig.7Effects of $\mathrm { F e S O _ { 4 } }$ on expressions of hepcidin（A），Fpn（B），Tfr1（C），DMT1（D），Flvcr（E）and HCP（F）in placenta of pregnant mice
+
+3讨论
+
+3.1适宜添加量的血红素铁和 $\mathrm { F e S O _ { 4 } }$ 改善妊娠母鼠的繁殖成绩
+
+微量元素铁对胎儿生长发育具有重要影响。抗贫血胶囊改善缺大鼠铁性贫血的研究中发现，补充血红素铁可显著增加大鼠体重，增加血清铁含量。解超等[研究报道，鹅血红素显著增加患缺铁性贫血症幼龄大鼠体重和体长，促进其生长发育。本试验结果表明，饲喂血红素铁和 $\mathrm { F e S O _ { 4 } }$ 可以提高母鼠生产性能，母鼠饲喂血红素铁更能提高胎儿体重。铁过载时注射DFO，可降低机体铁含量。缺铁情况下，补加血红素铁有提高胎鼠个数的趋势。
+
+3.2适宜添加量的血红素铁和 $\mathrm { F e S O _ { 4 } }$ 提高妊娠母鼠血液HGB含量和RBC
+
+HGB 是标识动物机体铁含量的重要指标。游开绍等[10]对氯高铁血红素和富马酸亚铁治疗小儿缺铁性贫血的疗效进行了比较，结果表明氯高铁血红素口服液治疗后，血液 HGB含量显著高于对照组，血液中红细胞游离原吓啉、血红蛋白中红细胞游离原叶啉含量低于对照组，说明氯高铁血红素治疗小儿缺铁性贫血的效果优于富马酸亚铁。钟才云等用大鼠 HGB 恢复性试验研究血红素铁的抗贫血作用与生物利用率，证明血红素铁具有良好的抗贫血效果，与本试验结果一致。本试验结果表明，饲喂母鼠 $6 0 \mathrm { m g / k g }$ 血红素铁时与450$\mathrm { m g / k g \ F e S O _ { 4 } }$ 时其血液HGB 含量、RBC 极显著高于缺铁组。饲粮添加铁源能够提高母鼠血液中HGB 含量。
+
+3.3适宜添加量的血红素铁和 $\mathrm { F e S O _ { 4 } }$ 增加妊娠母鼠组织及胎鼠铁含量
+
+动物机体肝脏，脾脏是储铁的重要器官，反映机体铁营养的重要参数。胎鼠个体铁含量直接反应由母鼠转运至胎儿的铁量。DeCarli等[12]研究报道，短期膳食镁的限制，可以降低由于长期饲喂高脂肪饮食造成的生长期大鼠脾脏铁含量。本试验结果表明，缺铁情况下，DFO耗竭，极显著降低胎鼠铁含量。母鼠饲喂 $9 0 ~ \mathrm { m g / k g }$ 血红素铁、 $4 5 0 \ \mathrm { m g / k g \ F e S O _ { 4 } }$ 母鼠肝脏铁含量较高，母鼠饲喂 $\mathrm { F e S O _ { 4 } }$ 胎盘内铁含量显著高于饲喂血红素铁。血红素铁可显著增加胎鼠个体铁含量。
+
+3.4血红素铁和 $\mathrm { F e S O _ { 4 } }$ 对妊娠母鼠肝脏、十二指肠、胎盘铁调节基因表达的影响hepcidin 是介导铁调节的重要因子，本试验以hepcidin为中心，对母鼠肝脏、十二指肠、胎盘组织的铁储存、吸收、转运相关基因 $F p n$ 、Tfr1、Tfr2、Flvcr、DMT1、HCP 进行表达量的检测。
+
+# 3.4.1 妊娠母鼠肝脏
+
+hepcidin 是重要的铁调节器。Pigeon 等[13]、Bolondi等[14]研究报道，小鼠或人类肝脏铁过载，会增加 hepcidin 的表达量。本试验中，缺铁组母鼠肝脏 hepcidin 表达量低于对照组；随着血红素铁和 $\mathrm { F e S O _ { 4 } }$ 添加量的增加，hepcidin 表达量上升。
+
+Bolondi 等[14]和 Donovan 等[15]研究报道，在 Fpn 和血浆铜蓝蛋白作用下,亚铁离子$\cdot \mathrm { F e } ^ { 2 + }$ ）被转运至血液中完成再循环的过程，Fpn 起到了“出口"的作用。Boumaiza等[16]研究报道，生产功能性 hepcidin 可以在大肠杆菌中实现，经纯化后，能促使铁输出蛋白 Fpn降解。本试验中， $F p n$ 表达量随着血红素铁、 $\mathrm { F e S O _ { 4 } }$ 添加量的增加， $F p n$ 表达量下降；hepcidin与 $F p n$ 表达量趋势相反。
+
+ChinaXiv合作期刊
+
+Tfr 是铁转运的重要蛋白。本试验中，母鼠饲喂 $6 0 ~ \mathrm { { m g / k g } }$ 血红素铁和 $7 5 ~ \mathrm { m g / k g }$ FeSO4时肝脏Tfr1表达量较高，随后降低；Tfr2表达量随着血红素铁和 $\mathrm { F e S O _ { 4 } }$ 添加量的增加，Tfr2表达量降低。当机体缺铁时，Tfr表达量会升高，促进机体对铁的吸收，当机体铁过载时，其表达量会降低，控制机体对铁的输入。
+
+Flvcr 是血红素铁输出转运的主效蛋白。Vinchi 等[17]通过小鼠肝脏试验证实，Flvcr 做为血红素的输出者，调控血红素的合成，且能够降解和控制细胞色素P450。本试验中，饲喂 $6 0 ~ \mathrm { { m g / k g } }$ 血红素铁时，母鼠肝脏Flvcr表达量较高，随后降低；母鼠饲喂不同添加量的$\mathrm { F e S O _ { 4 } }$ 时，肝脏Flvcr表达量差异不显著，推测由于 $\mathrm { F e S O _ { 4 } }$ 属于无机铁，Flvcr主要输出有机铁相关。
+
+# 3.4.2 妊娠母鼠十二指肠
+
+血红素铁是很好的生物强铁化剂，可以直接被肠黏膜吸收。Wyllie 等[18]给正常或铁缺乏大鼠饲喂氯化血红素铁，证实血红素是被小肠黏膜细胞吸收。铁的状态调控Fpn 的含量，Fpn 是哺乳动物唯一 $\mathrm { F e } ^ { 2 + }$ 输出口， $F p n$ 突变，会导致铁过载疾病[19]。本试验结果表明，随铁含量的增加，Fpn表达量下调，Fpn表达量受机体内铁状态调控。
+
+HCP是近年来发现的哺乳动物血红素细胞输入蛋白，是游离血红素进入细胞的途径。Shayeghi 等[20研究报道，证实了十二指肠上皮细胞HCP具有直接摄取血红素，并将其转运入细胞内的功能，进入细胞内的铁池被重新利用，高表达的HCP1，可使血红素铁的吸收增加2\~3倍。本试验结果表明，缺铁组和饲喂 $1 5 \ \mathrm { m g / k g }$ 血红素铁时十二指肠 HCP 表达量较高，HCP与血红素铁的吸收密切相关，母鼠饲喂不同剂量无机铁源，十二指肠 HCP表达量差异不显著。推测HCP仅与有机铁的吸收相关。
+
+Leong 等[21研究报道，10 日龄缺铁小鼠，机体内缺乏铁调节的吸收机制，小肠上皮细胞DMT1和Fpn变化不显著，20 日龄缺铁小鼠，机体内转铁蛋白表达量会显著上升,补铁后会显著下调转铁蛋白的表达。本试验母鼠属于成年鼠，机体内有完整的铁吸收转运机制，所以铁缺乏时，DMT1表达量显著上升。
+
+Flvcr做为血红素的输出者，主要调控血红素的合成，与母鼠饲喂无机铁关系不密切。本试验结果显示，Flvcr主要受有机铁调控。
+
+# 3.4.3 妊娠母鼠胎盘
+
+Garcia-Valdes 等[22]研究报道，肥胖孕妇缺铁性风险更大，主要由于hepcidin 的调控，胎盘会通过增加Tfr1降低产妇缺铁状态。本试验结果表明，随着血红素铁和 $\mathrm { F e S O _ { 4 } }$ 添加量的增加，胎盘 hepcidin 表达量上升。hepcidin 与胎盘铁的输出密切相关。
+
+Bastin等[23]研究发现 $F p n \boldsymbol { 1 }$ 在胎盘主要表达于合体滋养层细胞的基底膜，其基底面面向胎盘的胎儿面，与铁从母体向胎儿单向传递一致，并且在妊娠的后3个月最高，此时期也是胎儿需要铁较多的时期，这表明 Fpn1 在铁从母体到发育的胎儿的转运中有着重要作用。李四保等[24研究报道，不同缺铁程度孕妇相应新生儿铁状态无显著差异，随着母体缺铁程度的加重，血清hepcidin 含量下调，胎盘 $F p n$ 表达量上调。本试验结果显示缺铁组和$1 5 \mathrm { m g / k g }$ 血红素铁或 $7 5 \mathrm { m g / k g } \mathrm { F e S O _ { 4 } }$ 时，母鼠胎盘 $F p n$ 表达量较高。 $F p n$ 表达量随着铁含量的增加，Fpn 表达量降低。
+
+本试验中，缺铁组母鼠胎盘Tfr1、DMT1表达量较高。结果提示，当机体内铁含量低时，通过增加Tfr1、DMT1表达量增加铁的转运。
+
+Byon 等[25]研究报道，Flvcr与红细胞形成紧密相关，可能有助于血小板的成熟，但对正常造血干细胞的功能是可有可无的。本试验中，缺铁组母鼠胎盘Flvcr表达量较高。
+
+HCP与血红素铁吸收转运密切相关。有研究报道高表达量的HCP1可使血红素铁的吸收增加 2\~3倍。本试验研究报道，母鼠饲喂血红素铁，胎鼠机体铁含量高于饲喂 $\mathrm { F e S O _ { 4 } }$ 。推测与铁在胎盘吸收转运机制相关。
+
+综上所述，母鼠饲喂适宜血红素铁可显著促进胎鼠生长发育和增加胎鼠机体铁含量，增加母鼠血液 HGB 含量；血红素铁可通过调节肠道铁吸收，胎盘铁转运，从而促进铁从母鼠运输至胎鼠，HCP和Flvcr在肠道对血红素铁吸收或胎盘转运起至关重要的作用。但肠道吸收或胎盘转运 $\mathrm { F e S O _ { 4 } }$ 主要以DMT1或Tfr2为主。二者在吸收转运方面有很大差异；母鼠肝脏和胎鼠与饲粮血红素铁添加量呈二次曲线变化，母鼠肝脏铁含量最高时，其血红素铁饲粮适宜添加量为 $9 3 . 4 9 \mathrm { \ m g / k g }$ 。母鼠饲粮血红素铁添加量为 $6 1 . 0 0 ~ \mathrm { m g / k g }$ ，胎鼠机体铁含量最高。
+
+4结论
+
+$\textcircled{1}$ 血红素铁可改善胎鼠生长发育和提高胎鼠机体铁含量；饲粮血红素铁适宜添加量为$6 1 . 0 0 \mathrm { m g / k g }$ ，此添加量下胎鼠铁含量最高。$\textcircled{2}$ 血红素铁和 $\mathrm { F e S O _ { 4 } }$ 均可增加母鼠RBC、HGB含量。饲粮血红素铁适宜添加量为93.49mg/kg，此添加量下母鼠肝脏铁含量最高。$\textcircled{3}$ 血红素铁和 $\mathrm { F e S O _ { 4 } }$ 可调节母鼠靶组织铁代谢基因的表达，从而提高组织铁含量，血红素铁诱导母鼠胎盘HCP、Flvcr表达量上调，有利于血红素铁通过胎盘进入胎儿。HCP和Flvcr 在母鼠肠道对血红素铁吸收和胎盘转运起至关重要的作用，肠道吸收或胎盘转运$\mathrm { F e S O _ { 4 } }$ 主要以DMT1和Tfr2为主，二者在吸收转运方面有很大差异，需进一步研究。
+
+334 参考文献：   
+335 [1]白松涛.妊娠期缺铁性贫血治疗方法的系统性评价[D].硕士学位论文.遵义:遵义医学   
+336 院,2012.   
+337 [2] 赵惠君.儿童缺铁和缺铁性贫血的防治[J].实用儿科临床杂志,2012,27(3):163-165.   
+338 [3] CAO C，O'BRIEN K O.Pregnancy and iron homeostasis:an update[J].Nutrition   
+339 Reviews,2012,71(1):35-51.   
+340 [4] FURUYAMA K,KANEKO K,VARGAS V P D.Heme as a magnificent molecule with   
+341 multiple missons:heme determines its own fate and governs cellular homeostasis[J].The Tohoku   
+342 Journal of Experimental Medicine,2007,213(1):1-16.   
+343 [5] GANZ T.Systemic iron homeostasis[J].Physiological Reviews,2013,93(4):1721-1741.   
+344 [6]FINBERG K E.Regulation ofsystemic iron homeostasis[J].Current Opinionin   
+345 Hematology,2013,20(3):208-214.   
+346 [7] SINGH B,ARORA S,AGRAWAL P,et al.Hepcidin:a novel peptide hormone regulating iron   
+347 metabolism[J].Clinica Chimica Acta,2011,412(11/12):823-830.   
+348 [8] PFAFFL M W.A new mathematical model for relative quantification in real-time RT  
+349 PCR[J].Nucleic Acids Research,2001,29 (9):e45.   
+350 [9] 解超,王宝维,葛文华,等.鹅血红素对患缺铁性贫血症幼龄大鼠生长发育、铁代谢和器官   
+351 组织元素分布的影响[J].动物营养学报,2015,27(2):408-417.   
+352 [10] 游开绍,吴斌,赵子庆,等.氯高铁血红素与富马酸亚铁治疗小儿缺铁性贫血的疗效比较   
+353 [J].中国新药与临床杂志,1995,14(4):211-213.   
+354 [11]钟才云,马凤楼,蔡凤鸣,等.血红素铁治疗女大学生缺铁性贫血的研究[J].中国校   
+355 医,1995,9(3):167-169.   
+356 [12]DE CARLI E,LOBO A R,SALES C H,et al.Short-term dietary magnesium restriction   
+357 lowers spleen iron concentrations in growing rats fed a high-fat diet[J].LWT: Food Science and   
+358 Technology,2014,59(2):1298-1303.   
+359 [13] PIGEON C,ILYIN GCOURSELAUD B,et al.A new mouse liver-specific gene,encoding a   
+360 protein homologous to human antimicrobial peptide hepcidin,is overexpressed during iron   
+361 overload[J].Journal of Biological Chemistry,2001,276(11):7811-7819.   
+362 [14] BOLONDI G,GARUTI C,CORRADINI E,et al.Altered hepatic BMP signaling pathway in
+
+ChinaXiv合作期刊
+
+3 human HFE hemochromatosis[J].Blood Cells,Molecules,and Diseases,2010,45(4):308-312.   
+4 [15] DONOVAN A,BROWNLIE A,ZHOU Y,et al.Positional cloning of zebrafish ferroportin1   
+5 identifies a conserved vertebrate iron exporter[J].Nature,2000,403(6771):776-781.   
+6 [16] BOUMAIZA M,JAOUEN M,DESCHEMIN J C,et al.Expression and purification of a new   
+7 recombinant camel hepcidin able to promote the degradation of the iron exporter   
+8 ferroportin1[J].Protein Expression and Purification,2015,115:11-18   
+9 [17] VINCHI F,INGOGLIA G,CHIABRANDO D,et al.Heme exporter FLVCR1a regulates heme   
+0 synthesis and degradationandcontrols activity of cytochromes   
+1 P450[J].Gastroenterology,2014,146(5):1325-1338.   
+2 [18] WYLLIE J C,KAUFMAN N.An electron microscopic study of heme uptake by rat   
+3 duodenum[J].Laboratory Investigation,1982,47(5):471-476.   
+4 [19] MORENO-CARRALERO M I,MUNOZ-MUNOZ J A,CUADRADO-GRANDE N,et al.A   
+5 novel mutation in the SLC40A1 gene associated with reduced iron export in vitro[J].American   
+6 Journal of Hematology,2014,89(7):689-694.   
+7 [20] SHAYEGHI M,LATUNDE-DADA G O,OAKHILL J S,et al.Identification of an intestinal   
+8 heme transporter[J].Cell,2005,122(5):789-801.   
+9 [21] LEONG W I,BOWLUS C L,TALLKVIST J,et al.DMT1 and FPN1 expression during   
+0 infancy:developmental regulation of iron absorption[J].American Journal of Physiology :   
+1 Gastrointestinal and Liver Physiology,2003,285(6):G1153-G1161.   
+2 [22] GARCIA-VALDES L,CAMPOY C.HAYES H,et al.The impact of maternal obesity on iron   
+3 Status,placental transferinreceptorexpressionand hepcidinexpression inhuman   
+4 pregnancy[J].International Journal of Obesity,2015,39(4):571-578.   
+5 [23] BASTIN J,DRAKESMITH H,REES M,et al.Localisation of proteins of iron metabolism in   
+6 the human placenta and liver[J].British Journal of Haematology,2006,134(5):532-543.   
+7 [24]李四保,刘玉峰,王玉梅,等.血清铁调素及胎盘膜铁转运蛋白1在母婴铁转运中的作用[J].   
+8 中华血液学杂志,2015,36(4):307-311.   
+9 [25] BYON J C HCHEN J,DOTY R T,et al.FLVCR is necessary for erythroid maturation,may   
+0 contribute toplatelet maturation,but isdispensable for normal hematopoietic stem cell   
+1 function[J].Blood,2013,122(16):2903-2910.   
+2 Effects of Heme Iron on Reproductive Performance and Iron-Regulated Gene Expressions in
+
+C hinaXiv合作期刊
+
+LI Meiquan ZHANG Chunyong JI Qiaoqing CHEN Kelin GUO Rongfu\* (Key Laboratory of Animal Nutrition and Feed Science of Yunnan Province，Collge of Animal Science and Technology, Yunnan Agricultural University，Kunming 65oo21， China) Abstract:This study was conducted to compare the effects of heme iron (Fe) and ferrous sulfate （204号 $\mathrm { ( F e S O _ { 4 } ) }$ ）on reproductive performance,the Fe content in pregnant mice tissues and fetal mice, and the expressions of Fe-regulated genes [hepcidin,ferroportin $( F p n )$ , feline leukemia virus subgroup C receptor (Flvcr)，heme carrier protein (HCP)，transferrin receptor 1(Tfrl), transferrin receptor 2(Tfr2) and divalent metal transporter 1 (DMT1)] in tissues of pregnant mice. Eighty pregnant Kunming mice with similar body condition at 2 months of age were selected and randomly divided into 8 groups with 1O mice per group.The groups were control group,Fe deficiency group,heme Fe (15，60 and $9 0 ~ \mathrm { m g / k g }$ groupsand $\mathrm { F e S O _ { 4 } }$ (75,300 and $4 5 0 \mathrm { m g / k g ) }$ （20 groups. Since pregnant, control group was fed normal diet (a basal diet supplemented with 80 mg/kg FeSO4)； the other groups were fed the basal diet，and were injected $4 0 \mathrm { \ m g / k g }$ deferoxamine to induce Fe deficiency model from $1 0 \mathrm { ~ d ~ }$ of pregnant; heme Fe and $\mathrm { F e S O _ { 4 } }$ were supplemented in heme Fe groups and $\mathrm { F e S O _ { 4 } }$ groups from $1 4 { \mathrm { ~ d ~ } }$ of pregnant, while none of them was supplemented in Fe deficiency group. The experiment was carried out at 1 to $2 0 \mathrm { ~ d ~ }$ of pregnant. The results showed as follows: 1) the weight of fetal mice in $6 0 ~ \mathrm { m g / k g }$ group was significantly higher than that in control group and Fe deficiency group $( P { < } 0 . 0 1 )$ .2）Blood hemoglobin (HGB) content,red blood cell (RBC)and hematocrit (HCT) in $6 0 ~ \mathrm { { m g / k g } }$ heme Fe group and $4 5 0 ~ \mathrm { m g / k g }$ FeSO4 group were significantly higher than those in Fe deficiency group （204 $( P { < } 0 . 0 1 )$ .3）The Fe content in the fetal mice in $6 0 ~ \mathrm { m g / k g }$ heme Fe group was significantly higher than that in control group and $\mathrm { F e S O _ { 4 } }$ groups $( P { < } 0 . 0 1 { \dot { } }$ ); the Fe content in liver，spleen and placenta was the highest i $\mathrm { 1 4 5 0 ~ m g / k g }$ $\mathrm { F e S O _ { 4 } }$ group.4) The expression of hepcidin in liver of   
+17 pregnant mice was higher in $9 0 \mathrm { m g / k g }$ heme Fe group and $4 5 0 \mathrm { m g / k g } \mathrm { F e } \mathrm { S O } _ { 4 }$ group， which was   
+18 significantly higher than that in Fe deficiency group and control group $( P { < } 0 . 0 1 )$ ); the expressions   
+19 of $F p n$ and Tfr2 in liver in $1 5 \mathrm { m g / k g }$ heme Fe group were higher, which were significantly higher   
+20 than those in Fe deficiency group and control group $( P { < } 0 . 0 1 )$ ; the expressions of $T \mathit { f r } 1$ and Flvcr
+
+421 in liver in $6 0 ~ \mathrm { m g / k g }$ heme Fe group were higher，which were significantly higher than those in   
+422 Fe deficiency group and control group $( P { < } 0 . 0 1 )$ ； the expression of $T f r 1$ in liver in $7 5 ~ \mathrm { m g / k g }$   
+423 $\mathrm { F e S O _ { 4 } }$ group was higher,which was significantly higher than that in Fe deficiency group and   
+424 control group $( P { < } 0 . 0 1 )$ .5)Fpn,HCP,DMT1 and Flvcr expressions in duodenum of pregnant   
+425 mice in Fe deficiency group were significantly higher than those in control group $( P { < } 0 . 0 1 )$ .6)   
+426 Placenta Fpn,HCP,DMT1,Flvcr,Tfrl expressions were significantly higher than those in   
+427 control group $( P { < } 0 . 0 1 )$ ； the expression of hepcidin in placenta in $9 0 ~ \mathrm { m g / k g }$ heme Fe and 450   
+428 mg/kg FeSO4 was higher,which was significantly higher than that in Fe deficiency group and   
+429 control group $( P { < } 0 . 0 1$ ).7) The Fe content of fetal mice was the highest when heme Fe was 61.00   
+430 mg/kg or $\mathrm { F e S O _ { 4 } }$ was $3 3 6 . 1 1 ~ \mathrm { m g / k g }$ ；the Fe content in liver of pregnant mice was the highest   
+431 when heme Fe was $9 3 . 4 9 ~ \mathrm { m g / k g }$ .In conclusion,the supplementation of heme Fe and $\mathrm { F e S O _ { 4 } }$ at   
+432 proper levels can increase the weight of fetal mice,regulate the expressions of Fe-regulating   
+433 genes in target tissues of pregnant mice,and increase the body Fe content of pregnancy mice and   
+434 20 d fetal mice;HCP and Flvcr play critical roles in the intestinal absorption or placental   
+435 transport of heme Fe,while intestinal absorption and placental transport of $\mathrm { F e S O _ { 4 } }$ mainly rely on   
+436 DMT1 and Tfr2.   
+437 Key words: pregnant mice; hemoglobin; iron content; hepcidin; heme iron

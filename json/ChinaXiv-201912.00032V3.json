@@ -1,0 +1,420 @@
+[
+    {
+        "type": "text",
+        "text": "Effectiveness assessment of using riverine water eDNA to simultaneously monitor the riverine and riparian biodiversity information ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HaileYang1, Hao $\\mathsf { D } \\mathsf { u } ^ { \\mathsf { 1 } \\boxtimes }$ ,Hongfang ${ \\boldsymbol { \\mathsf { O } } } { \\mathsf { i } } ^ { 2 } .$ Luxian $\\forall \\mathbf { u } ^ { 2 }$ ,Xindong Hou³,Hui Zhang1,Junyi Li, Jinming Wu1, Chengyou Wang1, Qiong Zhou1& Qiwei Wei1区 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Both aquatic and terrestrial biodiversityinformation canbe detected in riverine water environmental DNA (eDNA). However, the effectiveness of using riverine water eDNA to simultaneously monitor the riverine and terrestrialbiodiversity information remains unidentified. Here,we proposed that the monitoring effectivenesscould be approximated by the transportation efectiveness of land-to-river and upstream-to-downstream biodiversity information flows and described by three new indicators. Subsequently,we conducted a case study in awatershed on the Qinghai-Tibet Plateau.The results demonstrated that there was higher monitoring efectiveness on summer or autumn rainy days than in other seasons and weather conditions.The monitoring of the bacterial biodiversity information was more efficient than the monitoring of the eukaryotic biodiversity information.On summer rainy days, $4 3 - 7 6 \\%$ of species information in riparian sites could be detected in adjacent riverine water eDNA samples, $9 2 - 9 9 \\%$ of species information in riverine sites could be detected in a 1-km downstream eDNA sample,and halfof dead bioinformation (the bioinformation labeling the biological material that lacked life activity and fertility) could be monitored $4 - 6 k m$ downstream for eukaryotes and 13-19 km downstream for bacteria.The current study provided reference method and data for future monitoring projects design and for future monitoring results evaluation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biodiversity monitoring is the basis of ecological research, biodiversity conservation and ecosystem managementl2. Traditional biodiversity monitoring methods are cost-and time-consuming and require high levels of expertise,in which biodiversity is often studied fromalocal and low spatio-temporal resolution perspective and is generally not available at a wide taxonomic breadth,high spatio-temporal resolution and large spatio-temporal scale3-5.This limits the development of ecological research,biodiversity conservation and ecosystem management. Currently, metabarcoding and high-throughput sequencing of environmental DNA (eDNA,DNA extracted from environmental samples such as water,soil,and air) provide novel opportunities to monitor biodiversity-9.As aneficientand easy-to-standardize non-invasive monitoring approach6,10-12,and with the continuous advancements in DNA sequencing technology, using eDNA metabarcoding to monitor biodiversity is an appropriate method to revolutionize biodiversity monitoring by enabling the census of wide taxonomic species on a high spatio-temporal resolution and large spatio-temporal scale4,13,14.Streams and rivers connect upstream and downstream regions,connect land with waterbodies,and transport materials and information through extensive and heterogeneous network systems6,15,16. Riverine water eDNA incorporates biodiversity information across terrestrial and aquatic biomes6,16.Therefore,samples of riverine water eDNA havethe potential to simultaneously monitor both aquaticand terrestrial biodiversity informationofa watershed for biodiversity research,conservation,and management.However,its viabilityand monitoring efectiveness (represented by the proportion of aquatic and terestrial biodiversity information that can be detected by using limited riverine water eDNA samples) has notbeen systematically identified. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6e7a0935ed0f5b3c55cf2ec7211aaef993791c6d48907eae799336dc9591515.jpg",
+        "img_caption": [
+            "Figure1.Sampling transects.SL1 denotes the first sampling transecton the Shaliu River.The distances labeled in parentheses under the tags of sampling transects denote the distances from the estuary to the sampling transects,such as SLl $( 1 . 8 \\mathrm { k m } )$ ,which means the distance from the estuary to SLl is $1 . 8 \\mathrm { k m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The effectiveness of using riverine water eDNA to simultaneously monitorboth aquatic and terrestrial biodiversitydepends onthe land-to-river and upstream-to-downstream transportation efectivenessof the terrestrial and upstream biodiversity information6,17-20.The biodiversity information monitoring efectiveness could be approximated by assessing the land-to-river and upstream-to-downstream transportation efectiveness of the corresponding bioinformation (eDNA).Here we defined the land-to-riverand upstream-to-downstream bioinformation transportation (including organisms,nucleicacids,peptides and other biomarkers),which is driven bythe hydrologic processes of watershed systems,as the watershed biological information flow(WBIF).WBIF integrates thecologicalprocessesofeDNA,including theorigin,state,transport,andfateof DNA14,15,-.The transportation effectiveness ofWBIF mainlyrelies onthe transportcapacity,degradationrate,and environmental filtrationof WBIF1521-23Thetransportcapacityof WBIFmainlydependsonerosionandrunofl2.524Additionally,the degradation rateof WBIF mainlydepends onenvironmental features21,25,26,and theenvironmental filtration of WBIF mainly depends on the environmental changes of restricting organisms. Colectively,allof these factors are related to the seasons and weather conditions26.Therefore,we hypothesized that the monitoring effectiveness of riverine water eDNA would vary with the seasons and weather conditions.Moreover, due to taxonomy-specific eDNA degradation rates27,species-specific eDNA degradation rates17,and form-specific eDNA degradation rates28, we hypothesized that the monitoring effectiveness of riverine water eDNA would varywith taxonomic communities. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Herein,we proposed that,in order to identifythe efectiveness of using riverine water eDNA to simultaneously monitortheriverineandterrestrialbiodiversity information,we needed toassess thetransportationefectiveness ofland-to-river and upstream-to-downstream WBIF for diferent taxonomic communities in different seasons and weather conditions.In the present study, we conducted a case study in a watershed on the Qinghai-Tibet Plateau totestthe eDNA monitoring effectiveness assessment framework.We estimated the monitoring effectiveness,as indicated bythe biodiversity information of thre taxonomic communities in three seasons and weather conditions.Our objectives were threefold: (1) to identify the variation in biodiversity information monitoring effectiveness in diferent seasons and weather conditions; (2)to identify the variation in the effectiveness for monitoring the biodiversity information of diffrent taxonomic communities; and (3)to test the monitoring effectivenessassessment framework. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WBIF of the three seasonal groups.A totalof 10,602,13,766,and 16,500 bacterial OTUs were detected from the samples (including 9 riverine water samples and 9 riparian soil samples, Fig. 1) of the spring group (sampling on frozen days),summer group (sampling on rainy days) and autumn group (sampling on cloudy days),respectively (Fig.2,SupplementaryFig.S1and Supplementary Tables S1,S2).The total OTUs that were detected from the riparian soil eDNA samples were similar among the seasons (Figs.2,3,Supplementary Fig. S1). The total OTUs that were detected from the riverine water eDNA samples were richest in the autumn (Fig. 2,3, SupplementaryFig.S1).The common OTUs that were shared between the riparian soil eDNA and riverine water eDNA samples accounted for $3 6 . 3 0 \\%$ 0 $7 1 . 9 8 \\%$ and $6 7 . 5 8 \\%$ of the total OTUs that were detected in the riparian soil eDNA samples in the spring,summer, and autumn groups,respectively (Fig. 3). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb040a25739c25db08deebc05317081b2ab29a0fd947dc976589112bd18229cb.jpg",
+        "img_caption": [
+            "Figure 2.Biological information features of the samples: numbers ofclean sequences in each sample (a),OTUs in each sample (b),community richnessof each sample at the OTU level (c)and species accumulation curves at the OTU level(d).Spring_S denotes the riparian soil eDNA samples that were sampled during April 2019; Spring_Wdenotes the riverine water eDNA samples that were sampled during April 20l9; Summer_S denotes the riparian soil eDNA samples that were sampled during June 2019; Summer_W denotes the riverine water eDNA samples that were sampled during June 2019; Autumn_S denotes the riparian soil eDNA samples that were sampled during September 20l9; Autumn_W denotes the riverine water eDNA samples that were sampled during September 2019. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The transportation effectiveness values of WBIF,as indicated by bacterial OTUs from the riparian sampling site to the adjacent riverine sampling site,were $1 6 . 6 2 \\%$ 0 $6 2 . 7 6 \\%$ ,and $4 8 . 0 9 \\%$ on spring frozen,summer rainy, and autumn cloudy days,respectively,among which there was the highest transport capacityand the lowest environmental fltrationon the summer rainyday(Table1,Supplementary Table S3).Te transportation effectiveness of WBIF indicated by bacterial OTUs from upstream to downstream was $7 5 . 8 6 \\%$ $9 7 . 4 1 \\%$ ,and $9 6 . 0 7 \\%$ per km on spring frozen,summer rainy,and autumn cloudy days,respectively(Table 2,SupplementaryTable S4), among which the transport capacity was more than $9 9 \\%$ in all three seasons and the least noneffective WBIF (dead bioinformation)occurred; the longest half-life distance of the noneffective WBIFoccurred on the summer rainy day (Table 2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WBIF of the three taxonomic groups.A total of 13,766,7098,and 17,316 kinds of OTUs and 3532, 1032,and 6836 kinds of species were detected among the 18 summer samples,as indicated by the $1 6 S ~ \\mathrm { r R N A }$ （204 gene,ITS gene,and COl gene,respectively (Fig. 4, Supplementary Fig.S2 and Supplementary Table S5). The OTUs and species detected in the riverine water eDNA samples were generally higher than in the riparian soil eDNA samples for allthree taxonomic communities (Fig. 4). The common OTUs and species shared between the riparian soil and riverine water eDNA samples accounted for $7 1 . 9 8 \\%$ and $8 7 . 9 5 \\%$ 0 $6 0 . 4 0 \\%$ and $7 6 . 1 8 \\%$ ,and $3 7 . 9 3 \\%$ and $5 3 . 5 2 \\%$ of the total OTUs and species in the bacterial, fungal and eukaryotic group,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The transportation efectiveness of the bacterial, fungal,and eukaryotic WBIF from the riparian sampling site to the adjacent riverine sampling site was $6 2 . 7 6 \\%$ 0 $4 4 . 7 9 \\%$ ,and $2 2 . 6 4 \\%$ at the OTU level, respectively, and $8 0 . 7 5 \\%$ ， $6 5 . 6 2 \\%$ ,and $4 3 . 3 8 \\%$ at the species level, respectively,among which both the transport capacity and environmental fltration significantlydeclined with thebacterial,fungal,and eukaryotic communities (Table 3, Supplementary Tables S6,S7).The transportation effectiveness ofbacterial,fungal and eukaryotic WBIF from upstream to downstream was $9 7 . 4 1 \\%$ ， $9 2 . 6 4 \\%$ ,and $8 9 . 8 3 \\%$ per km at the OTU level, and $9 8 . 6 9 \\%$ $9 5 . 7 1 \\%$ ,and $9 2 . 4 1 \\%$ per kmat the species level, respectively,among which the noneffective WBIF decreased with the bacterial, ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b6796600e371262752977bf28590522d168bc9a92cb6c080d484284122ae341.jpg",
+        "img_caption": [
+            "Figure 3. OTUs in riparian soil samples (S)and riverine water samples (W) shared by the three groups (spring, summer and autumn).Spring_S denotes the riparian soil eDNA samples that were sampled during April 2019; Spring_W denotes the riverine water eDNA samples that were sampled during April 2019; Summer_S denotes the riparian soil eDNA samples that were sampled during June 20l9; Summer_W denotes the riverine water eDNA samples that were sampled during June 2019; Autumn_S denotes the riparian soil eDNA samples that were sampled during September 20l9; Autumn_W denotes the riverine water eDNA samples that were sampled during eptember 20l9.The circle thatindicates the riverine watersamples has aline,the circle that indicates the riparian soil samples do not have a line.The numbers in the circles denote the OTUs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c5404c43edac4b298c8cc29f156410d3517b770a7203dbcd3097b7ab4d74428d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Seasonal group</td><td>Weather condition</td><td>Transportcapacity</td><td>Environmental filtration</td><td>Transportationeffectiveness</td></tr><tr><td>Spring group</td><td>Frozen days</td><td>0.268791±0.202388</td><td>0.385443±0.029320</td><td>0.166152±0.125394</td></tr><tr><td>Summer group</td><td>Rainy days</td><td>0.684876±0.091302</td><td>0.083816±0.020574</td><td>0.627643±0.087327</td></tr><tr><td>Autumn group</td><td>Cloudy days</td><td>0.573579±0.052897</td><td>0.161800±0.045075</td><td>0.480933±0.052179</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table1.Seasonal variation of transport capacityenvironmental fltration,and transportation effectiveness of watershed biological information flow (WBIF)from the riparian sampling site to adjacent riverine water sampling site in three seasons indicated by bacterial OTUs.The spring group was sampled during April 2019; the summer group was sampled during June 2019; the autumn group was sampled during September 2019. Statistics for the spring group are based on 8 sampling transects except estuary(SL1); statistics for the summer and autumn groups are based on 7 sampling transects except two downstream transects (SLl and SL2). $C I = 9 5 \\%$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e81d305b3d2931d872cf0c3098b981a94c402b3d60a07d32bd67aafe14043b4.jpg",
+        "table_caption": [
+            "Table 2. Seasonal variation of transport capacity,proportion of noneffective WBIF, half-life distance of the noneffective WBIF,and transportation effectiveness of watershed biological information flow(WBIF) from the upstream to downstream regions indicated by bacterial OTUs. The spring group was sampled during April 2019; the summer group was sampled during June 2019;the autumn group was sampled during September 2019. $C I = 9 5 \\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td> Seasonal group</td><td>Weather condition</td><td>Transportcapacity (per km)</td><td>Proportion of noneffective WBIF</td><td>Half-life distance of the noneffective WBIF</td><td>Transportation effectiveness (per km)</td><td>Environmental filtration from rain point to sunny point</td><td>Environmental filtration from freshwatertosaline- water</td></tr><tr><td>Spring group</td><td>Frozen days</td><td>0.999706±0.000305</td><td>0.668465±0.003435</td><td>1.548987± 0.126870</td><td>0.758618±0.000304</td><td>/</td><td>0.160427±0.008244</td></tr><tr><td>Summer group</td><td>Rainy days</td><td>0.994245±0.000941</td><td>0.434635±0.041681</td><td>14.52338± 1.440539</td><td>0.974105±0.000926</td><td>0.005687±0.005450</td><td>0.544164±0.010042</td></tr><tr><td>Autumn group</td><td>Cloudy days</td><td>0.992250±0.001452</td><td>0.493504±0.041043</td><td>10.398112±0.711122</td><td>0.960671±0.001415</td><td>/</td><td>0.128718±0.017062</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/619c69e053637b3de7beb470ad4e3ca801b579047b6749158f36a21aa75365e1.jpg",
+        "img_caption": [
+            "Figure 4. Biological information features of the samples: numbers ofclean sequences in each sample (a), OTUs in each sample (b),community richness of each sample at the OTU level (c),and species in each sample (d). 16S_S denotes the riparian soil eDNA samples that were sequenced using thebacterial 16S rRNA gene; ITS_S denotes the riparian soil eDNA samples that were sequenced using thefungal ITS gene; COl_W denotes the riverine water eDNA samples that were sequenced using the eukaryotic mitochondrial COl gene.Bac_S denotes thebacterial group detected in the riparian soil eDNA samples; Fungus_S denotes the fungal group detected in the riparian soil eDNA samples; and Metazoa_W denotes the metazoan group detected in the riverine water eDNA samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0d1c75136ccd935d4fb00a183edeb5cd434a543f5ace598707075365e27f6e8.jpg",
+        "table_caption": [
+            "Table 3.Transportcapacity,environmental filtration,and transportation effectiveness of watershed biological information flow(WBIF)from the riparian sampling site to the adjacent riverine water sampling site on summer rainy days,as indicated by three taxonomic groups. Bacteria (detected by the 16S rRNA gene), fungi (detected by the ITS gene),and metazoans (detected by the CO1 gene) indicate the groups of bacteria (detected by the i6S rRNA gene),fungi(detected by the ITS gene),and metazoans (detected by the COl gene), respectively. Statistics in all groups are based on 7sampling transects, except fortwo downstream transects (SLl and SL2). $C I = 9 5 \\%$ ： "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Taxonomic group</td><td>Taxonomic level</td><td> Transport capacity</td><td>Environmental filtration</td><td>Transportation effectiveness</td></tr><tr><td rowspan=\"2\">Bacteria (detected by the l6S rRNA gene)</td><td>OTU level</td><td>0.684876±0.091302</td><td>0.083816±0.020574</td><td>0.627643±0.087327</td></tr><tr><td>Species level</td><td>0.829912±0.066079</td><td>0.027020±0.007048</td><td>0.807461±0.064521</td></tr><tr><td rowspan=\"2\">Fungi (detected by the ITS gene)</td><td>OTU level</td><td>0.600756±0.102865</td><td>0.258922±0.054794</td><td>0.447896±0.095670</td></tr><tr><td>Species level</td><td>0.738975±0.100006</td><td>0.113469 ±0.016910</td><td>0.656191±0.097099</td></tr><tr><td rowspan=\"2\">Metazoan (detected by the CO1 gene)</td><td>OTU level</td><td>0.440871±0.124206</td><td>0.485954±0.061102</td><td>0.226403±0.071669</td></tr><tr><td>Species level</td><td>0.604263±0.092950</td><td>0.281177±0.028991</td><td>0.433842 ±0.066684</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "fungal,and eukaryotic communities (Table 4,Supplementary Tables S8,S9),and the half-life distance of the noneffective WBIF was 14.52,4.93,and $4 . 0 7 \\mathrm { k m }$ at the OTU level and 17.82,5.96,and $5 . 0 2 \\mathrm { k m }$ at the species level for the bacterial, fungal, and eukaryotic groups, respectively (Table 4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Drivenbythe land-to-riverand upstream-to-downstream WBIF,biodiversityinformationacros terestrialand aquatic biomes couldbe detected in riverine water eDNA6,16,and the monitoring efectivenessof riverine water eDNA relies on the transportation effectiveness of corresponding $\\mathrm { W B I F } ^ { 6 , 1 7 - 2 0 }$ .The transportation effectiveness of WBIF mainly relies on the transport capacity,degradation rate,and environmental fltration of WBIFl521-23, which can vary with diferent seasons and weather conditions26.We hypothesized thatthe monitoring effectiveness would vary with the seasons and weather conditions.In the present case,the bacterial community richness in riparian soil did not vary with season,whereas the bacterial community composition in riverine water was richestin theautumn,followed by the summer (Figs.2,3).The transportation efectivenessof riparian-to-river and upstream-to-downstream WBIF in spring frozen days was significantly lower than in summer rainy days and autumn cloudy days (Tables 1,2,Supplementary Tables S3,S4).Considering the insuffcient read depth on the riverine water samples of summer and autumn groups (Supplementary Fig.S1),the riverine water bacterial community richness and the riparian-to-river transportation effectivenesson summer and autumn were already underestimated.Itindicates thatthe monitoring effectiveness varied with different seasons and weather conditions,and summer and autumn were the optimal seasons,along with rainy days being the optimal weather condition,for using riverine water eDNA to simultaneously monitorthe holistic biodiversity information in riverine sites and riparian sites. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2cf305f5e29e294da258153b4913f7d3d79e1427251ead90f6a5ff22d84a1e04.jpg",
+        "table_caption": [
+            "Table 4.Transport capacity, proportion of noneffective WBIF, half-life distance of the noneffective WBIF, and transportation effectiveness of watershed biological information flow(WBIF) from the upstream to downstream regions on summer rainy days, indicated by three taxonomic groups at the OTU and species levels estimated by programming-solved according to the evolutionaryalgorithm.Bacteria (detected by the 16S rRNA gene),fungi (detected by the ITS gene),and metazoans (detected by the CO1 gene) indicate the groups ofbacteria (detected by the 16S rRNA gene),fungi(detected by the ITS gene),and metazoans (detected by the CO1 gene), respectively. $C I = 9 5 \\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Taxonomic level</td><td colspan=\"2\"></td><td rowspan=\"2\">Half-life distance of the noneffective WBIF</td><td rowspan=\"2\">Transportation effectiveness (per km)</td><td rowspan=\"2\">Environmental filtrationfromrain point to sunny point</td><td rowspan=\"2\">Environmental filtration from freshwatertosaline- water</td></tr><tr><td>Transport capacity (per km)</td><td>Proportion of noneffective WBIF</td></tr><tr><td>Taxonomic group Bacteria (detected by</td><td>OTU level</td><td>0.994245±0.000941</td><td>0.434635±0.041681</td><td>14.52338± 1.440539</td><td>0.974105±0.000926</td><td>0.005687 ±0.005450</td><td>0.544164± 0.010042</td></tr><tr><td rowspan=\"2\">the l6S rRNA gene)</td><td>Species level</td><td>0.998188±0.000121</td><td>0.296484±0.010590</td><td>17.82057± 1.215028</td><td>0.986898±0.000121</td><td>0.051209±0.005337</td><td>0.460245±0.001469</td></tr><tr><td>OTU level</td><td>0.995550±0.000680</td><td>0.529290±0.016749</td><td>4.925445±0.353730</td><td>0.926377±0.000670</td><td>0.003482±0.002886</td><td>0.338354±0.003866</td></tr><tr><td rowspan=\"2\">Fungi (detected by the ITS gene)</td><td>Species level</td><td>0.999484±0.000244</td><td>0.386710±0.008333</td><td>5.961259±0.264864</td><td>0.957057 ±0.000242</td><td>0.000541±0.000258</td><td>0.224685±0.001239</td></tr><tr><td>OTU level</td><td>0.989275±0.000923</td><td>0.587740±0.019079</td><td>4.073058±0.362046</td><td>0.898288±0.000908</td><td>0.007897±0.006958</td><td>0.716408±0.003182</td></tr><tr><td rowspan=\"2\">Metazoan (detected by the COi gene)</td><td>Species level</td><td>0.992862±0.000724</td><td>0.537202±0.016816</td><td>5.018684±0.317762</td><td>0.924058 ±0.000713</td><td>0.005337±0.002702</td><td>0.607287±0.002642</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The biodiversity information detected by water eDNA could originate from livingand dead organisms23,26.The detection ofbiodiversity information that originates from aliving organism mainly depends on the dispersal of this living organism1,20.The detection ofbiodiversity information that originates froma dead organism mainly depends onits transport capacityanddegradation rate122,29. In summerand autumn,as driven byactive organisms,more eDNA was input into the river system.In particular,the surface runoffcaused by rain can input more eDNA from terrestrial soil into the river system and can preserve them insoil aggregates30. In the present study, the highest proportion of bacteria in riparian soil was detected in riverine water in summer and autumn, and therain promoted this phenomenon (Fig.3and Table1,Supplementary Table S3).The proportion of effective upstream-to-downstream WBIF was significantly higher in summerand autumn than in spring,as wellas being higher onrainydays than oncloudy days (Table2).eDNA (originatedfromdead organisms)degrades over time inalogisticmanner(ahalf-lifetime)22731,which was described inthisstudyasdegradingbyhalf-lifedistance inalotic system,which integrates the transportcapacityandthe degradationrate.Inthe presentwork,as driven by runoffdischarge and flow velocity(Supplementary Table S1),the half-life distance of noneffective WBIF was significantly farther in the summer than in autumn and in spring (Table 2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The biodiversity information monitoring efectiveness of riverine water eDNA,as approximated by the transportation effctiveness of WBIF,was impacted by the eDNA degradation rate in WBIF,and there were taxonomy-specific eDNA degradation rates,species-specific eDNA degradation rates17,and form-specific eDNA degradation rates28.We hypothesized that the monitoring efectivenessof riverine water eDNA would vary with taxonomic communities.In the present case,the results revealed the detection of a significantly higher monitoring effectiveness ofriverine water eDNA (both riparian-to-riverand downstream-to-upstream)for bacterial communities than for eukaryotic communities (Tables 3,4).Considering the insuffcient read depth on the bacterial community (16S rRNA gene,SupplementaryFig.S2),the detection capacityon bacterial group was alreadyunderestimated.A significantly higher monitoring effectivenessof riverine water eDNA was found for micro-eukaryotic communities (fungi) than for overalleukaryotic communities (including micro- and macroorganisms)(Tables 3,4).This indicates that the monitoring effectiveness varied with diferent taxonomic communities,and the efectiveness of monitoring eukaryoticcommunities was significantly lower than for monitoring bacterial communities; in addition,the effectivenessof monitoring macrobe communities was significantly lower than for monitoring microbe communities. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "eDNA surveys that are based on metabarcoding can actually acquire information across the taxonomic tree of life56113233 However, eDNA that originates from different taxonomic groups has a different probability of being left in the environment and input into water6,89,34. van Bochove et al. inferred that the eDNA contained inside of cells and mitochondria is especially resilient against degradation (i.e.,intracellular vs. extracelular effects)28. In the present case,more bacteria than eukaryotes and more microorganisms than macroorganisms (both OTUand species levels)in riparian soil could be detected in riverine water(Table 3).The half-life distance of noneffective WBIF for bacteria (detected by the $1 6 ~ \\mathsf { s }$ RNA gene) was much farther than that for unicellular eukaryotes (detected by the ITS gene,which is mainly unicelllar),than that for multicellular eukaryotes (as detected by the COl gene, which is mainly multicelular)(Table 4). We inferred that the eDNA contained inside ofbacterial cells was more resilient against degradation than that contained inside ofunicellular eukaryotic cells (i.e.,prokaryotic cells vs. eukaryotic cels),as wellas compared to the eDNA contained insideof multicelular eukaryoticcels or extracellular mitochondria (i.e.,unicellular eukaryoticcells vs.multicellular eukaryotic cells orextracellular mitochondria). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In previous studies,the efectiveness of using water eDNA to monitor terrestrial organisms was indicated by the detection probability8.9.34,and the efectivenessof using downstream water eDNA to monitor upstream organismsicaedecbleaeisyeotedi information monitoring effectiveness by the WBIF transportation effectiveness and proposed its assessment framework,in which we described the riparian-to-river monitoring efectivenesswith the proportionof biodiversity information in riparian soil that was detected by using riverine water eDNA samples.Additionaly, we describedthedownstream-to-upstream monitoring effctiveness with the proportion ofbiodiversity information in upstream site water eDNA samples that was detected by $_ { 1 - \\mathrm { k m } }$ downstream site water eDNA samples,and the runoff distance of that $5 0 \\%$ of dead bioinformation (i.e.,the bioinformation labeling the biological material that lacked life activityand fertility)couldbe monitored.These indicators provided newusable assessment tools for designing monitoring projects and for evaluating monitoring results. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the optimal monitoring season and weather condition (a summer rainy day) in the Shaliu river basin on the Qinghai-Tibet Plateau,by using riverine water eDNA,we were able to monitor as much as $8 7 . 9 5 \\%$ of bacterial species, $7 6 . 1 8 \\%$ of fungal species,and $5 3 . 5 2 \\%$ ofeukaryotic species from riparian soil,alongwith as much as $9 8 . 6 9 \\%$ of bacterial species, $9 5 . 7 1 \\%$ of fungal species,and $9 2 . 4 1 \\%$ of eukaryotic species from $1 \\mathrm { k m }$ upstream (Table 4).The half-life distance of the noneffective WBIF was respectively $1 7 . 8 2 \\mathrm { k m }$ 0 $5 . 9 6 \\mathrm { k m }$ ,and $5 . 0 2 \\mathrm { k m }$ for bacteria,fungi,and metazoans atthe species level (Table 4).When consideringthe fact thatthe monitoring effectiveness of eDNA can not only vary with season,weather,and taxonomic communities,but can also vary with riversand watersheds with diferentenvironmentalconditions12,17,19,23,more studiesonthe monitoringeffectiveness for each taxonomic community in other watersheds with diffrent environmental conditions are needed. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "eDNA metabarcoding surveys are relatively cheaper, more eficient,and more accurate than traditional surveys inaquatic systems10.13,although this is certainly not true inall circumstances6.Sales etal. show that the detection probabilityof using riverine water eDNA to monitorthesemi-aquaticand terrestrial mammals in natural lotic ecosystems in the UK was $4 0 \\mathrm { - } 6 7 \\%$ ,which provided comparable results to conventional survey methods perunit ofsurvey effrtfor three species (watervole,field voleand red deer); inother words,the results from 3 to 6 water replicates would beequivalentto theresults from 3to 5latrine surveysand 5-30 weeks ofsingle camera deployment9.In the current case,the riverine water eDNA samples detected $5 3 . 5 2 \\%$ of eukaryotic species from riparian soil samples.As the bioinformation in WBIF includes the biodiversity information of alltaxonomic communities,the information of all taxonomic communities could be monitored by using riverine water eDNA, although variability in monitoring effectiveness exists among different taxonomic communities.We anticipate that,in future biodiversityresearch,conservation,and management, we willbe able to eficiently monitorand assess the aquatic and terrestrial biodiversity by simply using riverine water eDNA samples. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary,to testthe idea of using riverine water eDNA to simultaneously monitor aquatic and terrestrial biodiversity,we proposedamonitoring efectivenessassessment framework,inwhich the land-to-rivermonitoring effectivenesswas indicated bydetection probability,and the upstream-to-downstream monitoring effectiveness was described bythedetection probability per kilometer runoff distanceand bythe half-life distanceof dead bioinformation.Inourcase study,in the Shaliu River watershedon the Qinghai-Tibet Plateau,andon summer rainy days, $4 3 \\mathrm { - } 7 6 \\%$ of species information in riparian sites could be detected in adjacent riverine water eDNA samples, $9 2 \\mathrm { - } 9 9 \\%$ of species information from upstream sites could be detected in a $1 { \\cdot } \\mathrm { k m }$ downstream eDNA sample,and the half-life distances of dead bioinformation for bacteria was approximately $1 3 \\mathrm { - } 1 9 \\ \\mathrm { k m }$ and was approximately $4 { \\mathrm { - } } 6 \\mathrm { k m }$ for eukaryotes. The indicators in the assessment framework that describe the monitoring effectiveness provide usable assessment tools for designing monitoring projects and for evaluating monitoring results.In future ecological research,biodiversity conservation,and ecosystem management,riverine water eDNA may be a general diagnostic procedure for routine watershed biodiversity monitoring and assessment. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Study area. The Shaliu River basin $( 3 7 ^ { \\circ } 1 0 ^ { \\prime } - 3 7 ^ { \\circ } 5 2 ^ { \\prime } \\mathrm { N } _ { \\mathrm { : } }$ $1 0 0 ^ { \\circ } 1 7 ^ { \\prime } { - } 9 9 ^ { \\circ } 3 2 ^ { \\prime } \\mathrm { E }$ ),as a sub-basin of the Qinghai Lake basin,is located $3 1 9 6 \\mathrm { m }$ above sea level on the Qinghai-Tibet Plateau (Fig.1).The Shaliu River is $1 0 6 \\mathrm { k m }$ long, with a catchment area of $1 3 2 0 \\mathrm { k m } ^ { 2 }$ .Grassland is the main land cover type,accounting for more than $9 0 \\%$ of the watershed area. Less than $5 \\%$ of the watershed area has been seriously changed by human activity, such as transformation into cultivated land and building land (http://www.gangcha.gov.cn/html/2125/item.html). Due to its simple ecosystem asemblages (only grassand,aquatic ecosystemand buildingland)and weak disturbance byhuman activity,the Shaliu River basin is anaturalsimplified modelfor investigating the effectiveness of monitoring aquatic and terrestrial biodiversity information using riverine water eDNA. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sampling and sequencing.To identify the seasonal variation of monitoring effctiveness,on April 8 and 9,June 25 and 26,and September 19 and 20 of 2019, we collected eDNA samples (spring group,summer group, and autumn group,respectively),including 27 riparian soil eDNA samples and 27 riverine water eDNA samples. The samples were colected from 9transects (including riverine sampling sites and riparian sampling sites)ofthe Shaliu River (Fig.1).The weather and hydrological conditions of each group are summarized in Supplementary Table S1. A $5 \\mathrm { - m L }$ surface soil sample was collected using a 5-mL sterilized centrifuge tube from the riparian site( $5 \\mathrm { ~ m ~ }$ from the river) of each transect.A $1 . 5 \\mathrm { - } \\mathrm { L }$ surface water sample was collected using a $1 . 5 \\mathrm { - } \\mathrm { L }$ sterilized botle (rinsed three times with sampling water) from the riverine site of each transect.Because keeping the samples cool can reduce the rate of eDNA decayand is a convenient and efficient method for conserving eDNA samples37,field samples were transported in an ice bath $( 0 ^ { \\circ } \\mathrm { C } )$ to the laboratory of the Rescue and Rehabilitation Center of Naked Carps of Qinghai Lake.To obtain the eDNA ofmost taxonomic communities25.38,riverine water samples (with purified water used as a negative control) were filtered by using $0 . 2 \\mathrm { - } \\mu \\mathrm { m }$ membrane filters (JinTeng, Tianjin,PRC) to obtain the eDNA sample in the laboratory (with every step following the operation specification of molecular biology experiment to control for contamination and using bleach to wash the experimental apparatus). Subsequently,the filter membranes of each riverine water sample were placed in a $5 0 \\mathrm { - m L }$ sterilized centrifuge tube.The samples were transported at $- 2 0 ^ { \\circ } \\mathrm { C }$ (in a dry ice bath),and stored at - $8 0 ^ { \\circ } \\mathrm { C }$ (in an ultra-low temperature freezer)until DNA extraction.More details are provided in Table 5and Supplementary Material 1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c1a6857bb6a192fac3b0018ba11f48c5ec9b7df89c2de792847c64509e305aca.jpg",
+        "table_caption": [
+            "Table 5.The steps of sampling and sequencing. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"2\">Riverine water eDNA sample</td></tr><tr><td> Sample types</td><td>Riparian soil eDNA sample</td><td colspan=\"2\"></td></tr><tr><td>Sampling site</td><td>Riparian area (5 m distance from the river)of each transect|River of each transect</td><td></td><td>Colleri.5rirlied</td></tr><tr><td>Step 1: feld sampling</td><td colspan=\"3\">Colectieg 5 ripaiilusig 5-sterilieeri</td></tr><tr><td>Step 2: feld samples transport</td><td colspan=\"2\">TrabatigtotbateedRebltCtedokti</td><td>Filtering riverine water using 0.2-μm membrane flters and placing the filters of each riverine water sample into a</td></tr><tr><td>Step 3: samples pretreatment</td><td colspan=\"3\">50-mL sterilized centrifuge tube</td></tr><tr><td>Step 4: samples frozen</td><td colspan=\"3\">Freezing the tubes in a-20 C refrigerator</td></tr><tr><td>Step 5: samples transport Step 6: samples store</td><td colspan=\"3\">Transporting the tubes at-20℃C (ina dry ice bath)</td></tr><tr><td>Step 7: DNA extraction</td><td colspan=\"2\">Storing the tubes at -80 C(in an ultra-low temperature freezer) until DNA extraction Extracting DNA using an FastDNA SPIN Kit for Soil</td></tr><tr><td>Step 8: DNA quality testing</td><td colspan=\"2\">Determining the final DNA concentration and purityusinga NanoDrop 20oo UV-Vis spectrophotometer,checkingthe DNA quality using 1% agarose gel electrophoresis 1. Bacterial 16S rRNA gene:</td></tr><tr><td>Step 9: PCR amplification-primer (with barcode)</td><td colspan=\"2\">338F (5'-ACTCCTACGGGAGGCAGCAG-3') 806R (5'-GGACTACHVGGGTWTCTAAT-3') 2. Fungal ITS gene: ITS1F (5'-CTTGGTCATTTAGAGGAAGTAA) ITS2R (5'-GCTGCGTTCTTCATCGATGC) 3.Eukaryotic mitochondrial COl gene: mlCOIintF (5'-GGWACWGGWTGAACWGTWTAYCCYCC)</td></tr><tr><td>Step 9: PCR amplification-reaction system (3 duplicate, with blank controls) FastPfu Polymerase,0.2 μL of BSA,10 ng of template DNA and ddHO</td><td colspan=\"2\">jgHCO2198R (5'-TANACYTCNGGRTGNCCRAARAAYCA) 20-μL mixtures containing4μLof5×FastPfuBufer,2μLof2.5mMdNTPs,0.8 μLof each primer (5μM),0.4 μLof</td></tr><tr><td>Step 10: PCR amplification-program (GeneAmp 9700,</td><td colspan=\"2\">1. Bacterial 16S rRNA gene: 3 minof denaturationat95C;29cyclesof30sat95C,30sforannealingat55C,and45sforelongationat72C;and a final extension at72C for 10 min 2.minfata95C: 37esof30st95C3sfealgt5Cd45sfeotiat2C;and</td></tr><tr><td>ABI, USA) Step 11: PCR product testing</td><td colspan=\"2\">a final extension at72 C for 10 min 3.Eukaryotic mitochondrial CO1 gene: 5 min ofdenaturationat 94C;35 cycles of 60 sat94C,120s for annealing at 47℃C,and 60 s for elongationat 7 C; and a final extension at72C for 5 min Testing PCR product quality using 2% agarose gel electrophoresis</td></tr><tr><td>Step 12: PCR product extraction and purification</td><td colspan=\"2\"> Pqc2Gci</td></tr><tr><td>Step 13:PCR product quantification</td><td colspan=\"2\">PCR products were quantified using QuantiFluor-ST</td></tr><tr><td>Step 14: Miseq library preparation (TruSeq DNA Sample Prep Kit)</td><td colspan=\"2\">Adding the standard tags ofIllumina to PCR products according another PCR program,extracting,purifying and checking tagged PCR products,preparing single-stranded DNA</td></tr><tr><td> Step 15: Miseq sequencing</td><td colspan=\"2\"> Puriflsetsdbedd</td></tr><tr><td>Step l6: raw sequence treatment</td><td colspan=\"2\">Raw fastq files were demultiplexed,quality-filtered by Trimmomatic and merged by FLASH</td></tr><tr><td>Step 17: clustering OTU</td><td colspan=\"2\">Operitentilt xnmiunits O)Hsted witha 97% smilritytoffusig UPASE,andchimeric equences</td></tr><tr><td>Step 18: taxonomy identification</td><td colspan=\"2\">The taxonomies of each sequence were analyzed bytheRDP Classifier Bayesian algorithm against the corrsponding database using a confidence threshold of 70% DatabterialsA ge: Sil32/16S_Bactaabase</td></tr><tr><td>Step 18:communities analysis</td><td colspan=\"2\">2.Fungal ITS gene: Unite8.0/ITS_Fungi database 3.Eukaryotic mitochondrial COl gene: nt database (standard database) The OTU numbers,types and taxonomic features ofthe samples were analyzed.Community Chao richness at the OTU level was examined using the software of Mothur</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To identify the taxonomic variation of monitoring effectiveness, we analyzed three taxonomic communities using the metabarcoding of the 16S rRNA, ITS,and mitochondrial CO1 genes39-4l. As long DNA fragments show a higher decay rate than short fragments22, short fragments better reflect community richness than long fragments2.31. We restricted the amplified fragment length to 300-500 bp and selected the primers $3 3 8 \\mathrm { F } / 8 0 6 \\mathrm { R }$ 0 ITS1F/ITS2R,and mlCOlintF/jgHCO2198R to detectbacteria,fungi,and metazoan,respectively39-41.As the extraction of eDNA42,43,amplification approach, and sequencing44can impact the results of eDNA monitoring,a consistent DNA extraction method and amplification approach should be used for comparisons among samples41,45.46. Commercial eDNA labscan help11,in which allapproaches (including eDNA extraction, primer synthesis,amplification approach,sequencing,and contamination control,among others) could be standard. In our work,samples were processed by Shanghai Majorbio Bio-pharm Technology Co.,Ltd (Shanghai, China). The details are provided in Table 5 and Supplementary Material 1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "On the free online Majorbio Cloud Platform (www.majorbio.com),we analyzed the raw sequences data, and we obtained the types of operational taxonomic unit (OTU),the sequence number of each OTU,and the taxonomic features of each sample; additionaly, we examined the community richness (Chao richness index at the OTU level). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WBIF analysis.The WBIF (including land-to-river and upstream-to-downstream WBIF)of each group was assessed to reveal the effectiveness of using riverine water eDNA to monitor the biodiversity information in riverine sites and riparian sites.In the current WBIF analysis,allof the statistical analyses used the OTUs and species in each sample.The processing approach was simply described as follows (indicated by the OTU type). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The transportation effectiveness of WBIF was indicated by the proportion of input OTUs (i.e.,the common types between the source site sample and the pool site sample) to output OTUs (the total types of source site sample) (Eq.1). ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne = \\frac { \\mathrm { N u m } ( S _ { \\mathrm { O T U } } \\cap P _ { \\mathrm { O T U } } ) } { \\mathrm { N u m } ( S _ { \\mathrm { O T U } } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $e$ denotes the transportation effectiveness of WBIF; $S _ { O T U }$ denotes the OTU assemblage of the source site sample (i.e.,the adjacent riparian soil eDNA sample in the land-to-river WBIFor the adjacent upstream water eDNA sample in the upstream-to-downstream WBIF); and $P _ { O T U }$ denotes the OTU assemblage of the pool site sample (i.e.,the adjacent riverine water eDNA sample in the land-to-river WBIFor the adjacent downstream water eDNA sample in the upstream-to-downstream WBIF). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As the distance of the land-to-river WBIF was less than $5 \\mathrm { m }$ in the present case study, the transportation effctiveness ofthe land-to-river WBIF was assumed to be constructed by transportcapacityand environmental filtration (no degradation rate).The transportation effectiveness of the land-to-river WBIF could be indicated by the proportion of the common types shared between adjacent riparian soil eDNA samples and riverine water eDNA samples to the total types of riparian soil eDNA samples (Eq.1).The transport capacity of the land-toriver WBIFcould be indicated by the proportion of the common types shared between adjacent riparian soil eDNA samples and riverine water eDNA samples to the common types shared between the riparian soil eDNA sample and allriverine water eDNA samples in te corresponding group (Eq. 2).The environmental filtration of the land-to-river WBIFcould be indicated bythe proportionof the types included in the riparian soil eDNA sample,but not in any riverine water eDNA sample to the total types in the riparian soil eDNA sample (Eq. 3). ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = \\frac { \\mathrm { N u m } ( S _ { \\mathrm { O T U } } \\cap P _ { \\mathrm { O T U } } ) } { \\mathrm { N u m } ( S _ { \\mathrm { O T U } } \\cap W _ { \\mathrm { O T U } } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf = 1 - \\frac { \\mathrm { N u m } ( S _ { \\mathrm { O T U } } \\cap W _ { \\mathrm { O T U } } ) } { \\mathrm { N u m } ( S _ { \\mathrm { O T U } } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where tdenotes the transport capacity; $f$ denotes the environmental filtration; $S _ { O T U }$ denotes the OTUassemblage of the source site sample (i.e.,the riparian soil eDNA sample);and $W _ { O T U }$ denotes the OTU assemblage of all riverine water eDNA samples. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WBIF included the efective WBIF(i.e.,the flow or migration ofliving organisms)and noneffective WBIF(i.e., theflowofthebioinformation labeling the biological material thatlacked life activityand fertilitydead bioinformation]).The transportation effctivenessof upstream-to-downstream WBIF was determined by the different features of effective WBIF and nonefective WBIF. The efective WBIF was impacted by transport capacity and environmental filtration. The noneffective WBIF was impacted by transport capacity and degradation rate. We established the following presuppositions: (1) the transportcapacity was consistent ina defined runoffcondition ofa definite season and weather condition; (2)the proportion of noneffective WBIF at each site was consistent; (3)the noneffective WBIF degraded over time (i.e.,distance)in alogistic manner;and (4) the environmental filtration was consistent ina definite environmental change.These four presuppositions did not exactly describe thefactual complex WBIF processes driven by various environmental factors,butthey provided a possibility of constructing a model to approximately address the complex WBIF processes.The transportation effctiveness of the upstream-to-downstream WBIF could be described by an equation (Eq.4),in which the transportation effectiveness was the function of runoff distance,and the transportcapacityenvironmental filtration,and degradationrate were parameters that could be estimated according to the sets of transportation effctiveness and runof distance.In practice,as WBIF are impacted by varying factors at anysite and time,the analytical solution of the parameters in Eq. (4) is imposible.Therefore,we suggested thatEq.(4) could be programming-solved, according to the evolutionaryalgorithm in Microsoft Excel. As there were only approximate solutions of the parameters inEq.(4),wesuggested obtaining severalsets (such as 30 sets)ofapproximate solutions,after which a statistical analysis could be performed for each parameter. ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne = t ^ { d } \\times { \\Bigg [ } ( 1 - k ) \\times \\left( 1 - f \\right) + k \\times \\left( { \\frac { 1 } { 2 } } \\right) ^ { \\left( { \\frac { d } { D } } \\right) { \\Bigg ] } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $e$ denotes the transportation effectiveness of WBIF; $t$ denotes the transport capacity; $d$ denotes the distance of WBIF; $k$ denotes the proportion of the noneffective WBIF; $f$ denotes the environmental fltration; and $D$ denotes the half-life distance of the noneffective WBIF. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Data availability ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Thedatasets that were generated for this studycan be found in the China National GeneBank Sequence Archive (CNSA,https://db.cngb.org/cnsa/) of the China National GeneBank database (CNGBdb) under accession number CNP0001046. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Received:6 September 2021;Accepted:9December 2021   \nPublished online:20 December 2021 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.Hooper,D.U.etal.Aglobalsynthesis reveals biodiversitylossasamajordriverofecosystemchange.Nature486,05(012).   \n2.Dixon,K.CaryGJbos,G.Ls,.os,atuessatediiveesityg evaluation.Biol. Conserv.238,108221 (2019).   \n3.Anderson,C.B.Biodiversity monitoring,earth observationsand theecologyofscale.Ecol.Let.21,1572 (2018).   \n4.Altermatt,etal.Unovingteompteoivesityucreinsatialewoks:eexamleofveesse.Oos, 607 (2020).   \n5.Pawlowski,J,pothlo-erret-entil,L.&lerma,FEnvirometal:Watseindeter?arifingteology and recommendations for its future use in biomonitoring.Mol.Ecol.29,4258 (2020).   \n6.Deiner,KFooer,E.A,cheralserJ.&eat,nomtalealsativesreoeelsf biodiversity information.Nat. Commun.7,12544 (2016).   \n7.Carraro,L,rtikaen,Hkela,JertuzoE.&aldo,.atingeesdstribtiobdanciek using environmental DNA.Proc.Natl.Acad.Sci. U. S.A.115,11724 (2018).   \n8.Seeber,PA.tal.TrrestrialmammalsurveillnceusinghybridizationcaptureofenvironmentalDNAfromAfricanwaterholes. Mol. Ecol. Resour.19,1486 (2019).   \n9.Sales,N.G.etal.Fishingformammals:Landscape-levelmonitoringofterrestrialandsmi-quaticcommunitiesusing eDNA from riverine systems.J.Appl.Ecol.57,707 (2020).   \n10.LugW.Hrits,JRon,A.RWeeks,A.R.&ngey.Otialsureesignsforevioentallg. Methods Ecol.Evol.9,1049 (2018).   \n11.Ravindran,S.Turning discarded DNA into ecology gold. Nature 570,543 (2019).   \n12.Seymour, M.Rapid progresson and future of environmental DNA research.Commun. Biol.2,80 (2019).   \n13.Valentini,A.eal.NextgenerationmonitoringofaquaticbodiversityusingenvionmentalDAmetabarcoding.Mol.Ecol, 929 (2016).   \n14.Cristescu,M.E.&Hebert,D.N.UsesandmisusesofenvironmentalDNAiniodiversityscienceandconservationAnuRev. Ecol.Evol. Syst.49,209 (2018).   \n15.Shogren,A.J.etal.Controlsomovementireams:ansprt,tention,ndresuspesionSciRep.-UK,6(0).   \n16.Matsuoka,S.etal.SpatialtructureoffungalDNAassmblagesrevealedwitheDNAmetabarcodinginaforestrivernetworkin westernJapan.MetabarcodingMetagenom.3,e36335 (2019).   \n17.Deiner,K.&eratt,FTasportdistanceofinvertebrateenvironentalinaturalriverPoOne98786(014).   \n18.Jerde,C.L.etalInfuenceofstreambotomsubstrateoretentionndtransportofvertebrateevironmentalDNA.EnvionSci. Technol.50,8770 (2016).   \n19.Sansom,B.J.&Sassoubre,L.M.EnvironmentalDNA (eDNA)sheddinganddecayratestomodelfreshwatermuseleDN transport in a river. Environ. Sci. Technol.51,14244(2017).   \n20.Pont,D.etal.EnvirometalAvealsquantitativepatesoffshodiversityinlargeversdespiteitsostreatran portation.Sci.Rep.-UK8,10361 (2018).   \n21.Bares,M.A.&Turner,C.R.TheecologyofenvironmentalDNAandimplications forconservationgenetics.Conserv.Genet.7, 1(2016).   \n22.Jo,T.etal.RapiddegradationoflongerDNAfragments enablestheimprovedestimationofdistributionandbiomassusingenvironmental DNA.Mol.Ecol.Resour. 17,e25 (2017).   \n23.Tillotson,M.D.et al.ConcentrationsofenvironmentalDNA(eDNA)reflect spawningsalmonabundanceatfinespatialand temporal scales.Biol. Conserv.220,1 (018).   \n24.Fremier,A.K.tricklerK.,arch,J,owrs,.&berg,C.treamtransportadretentioofevirotalA pulse releases in relation to hydrogeomorphic scaling factors.Environ.Sci.Technol.53,6640 (2019).   \n25.EichmillJestS.E.&rese,ctsfpaturedtroicategdaieotai lake water. Environ. Sci. Technol.50,1859 (2016).   \n26.Nukazawa,K.,Hamasuna,Y.&uzuki,Y.SimulatingtheadvectionanddegradationoftheenvironmentalDNAofommocarp along a river. Environ.Sci. Technol.52,10562 (2018).   \n27.Barnes,M.A.etal.Environmentalconditions influenceeDApersistence inaquatic sstems.Environ.Sci.Technol.48,1819 (2014).   \n28.Bochove,K.etal.OrganicmaterducestheamountofetectableenvironmentalDAinfreshwater.Ecol.Evol.,647(20).   \n29.Seymour,M.etal.Acidity promotes degradationofmulti-species environmentalDNAinlotic mesocosms.Commu.Biol.1,4 (2018).   \n30.WilpiszeskiR.L.etal.Soilagegatemicrobialcommunties:Towardsunderstandingicrobiomeinteractiosatbiologically relevant scales.Appl.Environ.Microbiol.85,e319 (2019).   \n31.Wei,N.,Nakjia,F&Tobino,TAmicrocosmstudyfsurfacesedimentenvironmentalA:Decaybservation,abudance estimation,and fragment length comparison.Environ. Sci. Technol.52,12428 (2018).   \n32.Stat,M.etal.EcosystebiomonitoringwitheDNA:Metabarcodingacrossthetreoflifeinatropicalmarineenvironment.Sci. Rep.-UK7,12211 (2017).   \n33.Djurhuus,A.etal.EnvironmentalDNArevealsseasonalshiftsandpotentialinteractions inamarinecommunityNat.Commun. 11,254 (2020).   \n34.Harper,L.R.etal.EnvironmentalDA(eDNA)metabarcodingofpondwaterasatoltosurveyconservationandmanagement priority mammals.Biol. Conserv. 238,108225 (2019).   \n35.Carraro,L,cher,E,Wutrich,.&ltermat,Envomentalallowsupsalingpatialaersofodiesitn freshwater ecosystems.Nat. Commun.11,3585 (2020).   \n36.Beng,K.C.&Colet,R.TApplicationsofenvironmentalDA(DA)incologandconservation:Opportunitiesallenges and prospects.Biodivers.Conserv.29,2089 (2020).   \n37.Sales,N.G.,Wangensteen,O.S.,Carvao,D.C.&arniSIfenceofpreservationmethods,samplemediumandsling time on eDNA recovery in a neotropical river. Environ. DNA1,119 (2019).   \n38.Li,J,aodeyead&ngtaiotdcoale and quantification via metabarcoding.Mol.Ecol.Resour.18,11o2 (2018).   \n39.Wangensteen,O.S.,Palacin,C.,Guardiola,M.&Turon,X.DNA metabarcodingoflitoral hard-botomcommunities: High diversity and database gaps revealed by two molecular markers.PeerJ6,e47o5 (2018).   \n40.Heeger,F,urzbacher,C,oure,E.C,azzon,C.J.&onaghan,.TCombiningthe5and2timprovelasiaio of fungi.Methods Ecol.Evol.10,1702 (2019).   \n41.Giebner, H.etal.Comparingdiversitylevels inenvironmentalsamples: DNAsequencecaptureand metabarcoding approaches using 18S and COI genes.Mol.Ecol.Resour.20,1333 (2020).   \n42.Hermans,S.MBuckleyH.L.&Lear,G.Optimalextraction methodsforthesimultaneousanalysisofDNAfromdiversean isms and sample types.Mol.Ecol.Resour.18,557(2018).   \n43.Armbrecht,L.etal.AnotimizedmethodfortheextractionofancienteukaryoteDAfrommarinesediments.Mol.Ecol.Resour.   \n20,906 (2020).   \n44.Nichols,R.V.et al.Minimizing polymerase biases in metabarcoding.Mol.Ecol. Resour.18,927(2018).   \n45.Nicholson,A.etal.AnanalysisofmetadatareportinginfreshwaterenvironmentalDNAresearchcalsforthedevelopntof best practice guidelines.Environ. DNA 2,343 (2020).   \n46.Dopheide,A.,Xie,D.,Buckley,TR,Drummond,A.J.&Newcomb,R.D.ImpactsofDNA extractionandPCRon DNA metabarcoding estimates of soil biodiversity.Methods Ecol.Evol.10,120 (2019). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Central Public-Interest Scientific Institution Basal Research Fund,Chinese Academy ofFishery Sciences (Grant numbers 2019HY-XKQ02,2020TD08)andthe Departmentof Science and Technology of Qinghai Provence (Grant number 2018-ZJ-703). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "H.Y.,H.D.,and H.Q.contributed to the conception ofthe study.H.Y.and L.Y. performed the field sampling. H.Y. and X.H.conducted the laboratory work. H.Y.,H.Z,J.L.,JW.,and C.W.contributed the acquisition,analysis, and interpretation of the data. Q.Z.administrated the project.H.Y.led the writing of the manuscript,and H.Z, J.L., J.W., C.W.and Q.W.contributed criticallto thedrafts and final version ofthe manuscript. Q.W.supervised and validated this study. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Competing interests ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ihe authors declare no competing interests. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Additional information ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Information The online version contains supplementary material available at https:/doi.org/ 10.1038/s41598-021-03733-7. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Correspondence and requests for materials should be addressed to H.D.or Q.W. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Reprints and permissions information is available at www.nature.com/reprints. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Open Access This article is licensed under a Creative Commons Attribution 4.O International License,which permits use,sharing,adaptation, distribution and reproduction in any medium or format,as long as you give appropriate credit to the original author(s)and the source,provide a link to the Creative Commons licence,and indicate if changes were made.The images or other third party materialin this article are included in the article's Creative Commons licence,unlessindicated otherwise ina credit line to the material.If material is not included in thearticle's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use,you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ The Author(s) 2021 ",
+        "page_idx": 10
+    }
+]

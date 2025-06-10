@@ -1,0 +1,276 @@
+# 陇中黄土高原区旱地春小麦产量对干旱胁迫响应的模拟研究
+
+王钧¹，李广」，聂志刚'，董莉霞¹，闫丽娟²(1.甘肃农业大学信息科学技术学院,甘肃 兰州730070；2.甘肃农业大学农学院,甘肃 兰州730070)
+
+摘要:为进一步探明陇中黄土高原区旱地春小麦产量形成对不同干旱胁迫的响应机制，依据甘肃省定西市安定区凤翔镇安家沟村2016—2018年大田控水试验数据以及定西市安定区1971—2018年气象数据,验证农业生产系统模拟(Agricultural production systems simulation,APSIM)模型模拟不同干旱胁迫旱地春小麦产量及产量构成要素的适宜性，基于APSIM模型分析不同生育期、不同程度干旱胁迫对旱地春小麦籽粒数、千粒重和产量的影响，利用多元逐步回归方程确定陇中黄土高原区旱地春小麦最佳灌水时间和灌水量。结果表明：(1)APSIM模型模拟陇中黄土高原区旱地春小麦生育期、籽粒数、千粒重和产量的均方根误差(Root mean square error,RMSE)均小于 $3 . 6 7 \mathrm { ~ d ~ }$ 、300.52个 $\cdot \mathrm { m } ^ { - 2 } \cdot 2 . 5 6 \ \mathrm { g } \ . 2 6 7 . 4 3 \ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ,归一化均方根误差(Normalized root mean square error,NRMSE)均小于 $3 . 8 9 \% \cdot 2 . 8 6 \% \cdot 9 . 7 1 \% \cdot 1 1 . 5 8 \%$ ,模型有效性指数（Modeleffectiveness index, $M _ { \mathrm { E } } )$ 均大于0.62、0.78、0.60、0.66,表明APSIM模型对模拟干旱胁迫条件下陇中黄土高原区旱地春小麦产量形成具有较好的适应性。(2)不同生育期干旱胁迫下，拔节期干旱胁迫对小麦籽粒数影响最大，其次由大到小依次为出苗期、分蘖期、无胁迫、抽穗期、开花期和灌浆期;灌浆期干旱胁迫对小麦千粒重影响最大，其次由大到小依次为开花期、抽穗期、无胁迫、拔节期、出苗期和分蘖期;拔节期干旱胁迫对小麦产量影响最大，其次由大到小依次为灌浆期、抽穗期、开花期、出苗期、无胁迫和分蘖期。(3)不同程度干旱胁迫下，灌水量 $3 0 0 . 0 0 \mathrm { m m }$ 旱地春小麦产量最大为 $4 8 6 6 . 1 9 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ,与其他4种灌水相比产量分别增加 $2 8 3 . 5 3 \% . 3 9 . 6 5 \% . 0 . 4 6 \%$ 和 $1 5 . 5 8 \%$ 。(4）出苗后第 $1 \textup { d } . 4 7 \textup { d } . 6 0 \textup { d } . 8 2 \textup { d } . 8 6 \textup { d }$ 灌水，且灌水量达到 $3 4 3 . 0 9 ~ \mathrm { { m m } }$ 时，旱地春小麦产量最大为 $5 5 7 8 . 9 1 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 。干旱胁迫发生时间和程度对研究区小麦产量形成具有明显的交互作用，分蘖期适度干旱胁迫有利于提高陇中黄土高原区旱地春小麦产量，而拔节期和灌浆期为旱地春小麦田间水分管理的关键生育期，小麦生长发育过程中应加强该生育期的水分管理以提高陇中黄土高原区粮食产量。
+
+关键词：干旱胁迫；小麦产量；产量构成；APSIM模型；陇中黄土高原区文章编号：
+
+小麦作为黄土高原区的重要粮食作物，其产量约占全国小麦产量 $1 0 \% ^ { [ 1 ] }$ 。但严重的水分亏缺对该地区小麦生产造成了较大的影响[2-3]。近年来,受降水变异性增大、降水季节与作物需水季节错位以及极端天气增多等因素的影响，该地区小麦生产出现减产、绝收的情况明显增加，采取适宜的管理措施进行预先干预和补救是行之有效的途径[4。为实现上述目的，众多研究通过设置大量田间试验，试图确定最优田间水分管理措施，但气候、土壤、作物属性以及管理措施的不同均会对试验结果产生严重的影响，而综合考虑这些环境因素影响，需要耗费大量的时间和人力[5]。
+
+近些年，随着作物模拟技术的不断发展，作物生长模型为此提供了行之有效的新途径，作物生长模型能够定量反映各种环境因子对作物生长发育的影响，模拟不同环境的田间试验，分析多因素的互作效应，从而确定最优田间管理措施-。国内外研究学者利用作物模型对不同生育期干旱胁迫下小麦产量的响应机制开展了大量的模拟研究。张建平等利用世界粮食研究(Worldfoodstudies,WO-FOST)模型研究了拔节期、抽穗期和灌浆期干旱胁迫对河南省冬小麦产量的影响。徐建文等基于农业技术转移决策支持系统(Decision support systemforagrotechnologytransfer,DSSAT)模型研究了黄淮海地区冬小麦拔节期和灌浆期不同灌溉量对小麦产量的影响。Flohr等利用APSIM模型研究了水分和温度胁迫对澳大利亚东南部小麦开花期的影响。Wu等基于APSIM模型研究了长期干旱胁迫对中国西南地区小麦产量的影响。总体上，前人主要利用作物模型研究单个生育期干旱胁迫对小麦产量的影响，而不同生育期和不同程度干旱胁迫耦合对小麦产量形成过程的影响研究相对较少，有待深人。
+
+本研究为进一步揭示不同干旱胁迫对陇中黄土高原区旱地春小麦产量形成的影响，结合长期大田试验数据，验证APSIM模型模拟不同干旱胁迫下旱地春小麦产量形成的适宜性。并在此基础上，利用模型模拟不同生育期、不同程度干旱胁迫耦合情景下旱地春小麦产量构成要素及产量的变化特征，从而揭示旱地春小麦产量形成对不同干旱胁迫的响应机制，确定陇中黄土高原区旱地春小麦生产的最佳灌溉量和灌溉时间，在为陇中黄土高原区旱地春小麦生产管理提供有效指导意见的同时，也为该模型在陇中黄土高原区农业生产系统中的广泛应用提供支持。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+长期定位试验位于甘肃省定西市安定区凤翔镇安家沟村，属于典型黄土高原丘陵沟壑区，海拔高度为 $1 8 7 9 \mathrm { ~ m ~ } , 4 7 \mathrm { ~ a ~ }$ 年均降水量为 $3 9 5 . 0 0 \mathrm { { m m } }$ ,其中春小麦生育期内平均降水量为 $1 8 9 . 8 6 ~ \mathrm { m m }$ ，生育期内最大降水量为 $2 8 6 . 7 0 \ \mathrm { m m }$ ,生育期内最小降水量为 $5 6 . 1 0 \mathrm { m m }$ （图1)，年均气温为 $6 . 5 0 \mathrm { { ‰} }$ ，年平均 $\mathrm { \geqslant 0 \leqslant C }$ 积温为 $2 9 3 5 . 1 0 \mathrm { ~ \textdegree C }$ ，年均 $\mathrm { \geqslant } 1 0 ~ \mathrm { \leqslant C }$ 积温为 $2 2 4 0 . 2 0 \mathrm { ~ \textdegree C }$ ,年均太阳辐射量为 $5 7 0 . 1 2 \ \mathrm { k J } \cdot \mathrm { c m } ^ { - 2 }$ ,年均蒸发量为$1 5 4 0 . 0 0 \mathrm { m m }$ ,为典型半干旱雨养农业区。试验地土壤为黄绵土,耕层容重为 $1 . 2 6 \mathrm { g } \cdot \mathrm { c m } ^ { - 3 }$ ,土壤有机碳含量为 $6 . 2 1 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ ,全氮含量为 $0 . 6 1 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ 。
+
+# 1.2试验设计
+
+1.2.1大田试验设计为验证不同干旱胁迫下APSIM模型模拟陇中黄土高原区旱地春小麦产量及产量构成的适宜性，2016—2018年在甘肃省定西市安定区凤翔镇安家沟村进行大田控水试验。大田控水试验设计依据1971—2018年间研究区旱地春小麦生育期内最大、最小降水量，以大于春小麦生育期最大降水量 $3 0 0 . 0 0 \mathrm { m m }$ 为上限,小于生育期最小降水量 $5 0 . 0 0 \mathrm { m m }$ 为下限,共设5个水平,即 $5 0 . 0 0 \ \mathrm { m m }$ 、$1 0 0 . 0 0 \ \mathrm { m m } , \ 1 5 0 . 0 0 \ \mathrm { m m } , \ 2 0 0 . 0 0 \ \mathrm { m m } , \ 2 5 0 . 0 0 \ \mathrm { m m }$ 和$3 0 0 . 0 0 \mathrm { m m }$ ，分别在小麦分蘖期、拔节期和开花期进行等量灌水，如表1所示。
+
+![](images/ca31182a94825e467305586974ae4058a8fc1bc72a5e0f30c96f649af8d1b86b.jpg)  
+图11971—2018年研究区降水量  
+Fig.1Precipitation of the study area from 1971 to 2018
+
+# 干旱区地理
+
+# 表1春小麦不同生育期灌水量
+
+Tab.1 Irrigation in the different development stagesof the springwheat /mi   
+
+<html><body><table><tr><td>总灌水量</td><td>分蘖期</td><td>拔节期</td><td>开花期</td></tr><tr><td>50.00</td><td>16.67</td><td>16.67</td><td>16.67</td></tr><tr><td>100.00</td><td>33.33</td><td>33.33</td><td>33.33</td></tr><tr><td>150.00</td><td>50.00</td><td>50.00</td><td>50.00</td></tr><tr><td>200.00</td><td>66.66</td><td>66.66</td><td>66.66</td></tr><tr><td>250.00</td><td>83.33</td><td>83.33</td><td>83.33</td></tr><tr><td>300.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr></table></body></html>
+
+大田控水试验共设3种播期，按播种时间分为正常播种（NSW，3月18日）、早播(ESW，3月3日）、和晚播(LSW，3月31日），小区面积为 $2 0 ~ \mathrm { m } { \times } 4 ~ \mathrm { m }$ ，四周埋深 $2 \mathrm { m }$ 塑料隔膜，防止土壤水分纵向运移，采用随机区组排列，重复3次。以春小麦“定西35号"为试验作物品种，播种量 $1 8 7 . 5 0 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ，播种行距$0 . 2 5 \mathrm { ~ m ~ }$ ,播种深度 $3 0 ~ \mathrm { c m }$ ，施纯氮 $1 0 5 . 0 0 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } .$ $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 0 5 . 0 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ，且所有肥料在播种时作为基肥一次性施入。大田控水试验利用遮雨棚进行遮雨,采用补灌方式控制灌水量，灌水量用水表控制，各小区其他管理措施与当地实际生产一致。
+
+1.2.2模拟试验设计为确定旱地春小麦产量及产量构成对不同干旱胁迫的响应阈值，设计不同生育期、不同程度干旱胁迫的旱地春小麦产量及产量构成要素模拟试验，基于APSIM模型研究旱地春小麦产量及产量构成要素对不同干旱胁迫的响应机制。
+
+模拟试验以灌水时期和灌水量的排列组合进行设计，即实现不同生育期、不同程度组合的干旱胁迫模拟试验。为研究不同程度干旱胁迫对春小麦产量及产量构成要素的影响，模拟试验共设5个梯度灌水量，即 $1 0 0 . 0 0 \ \mathrm { m m } , 2 0 0 . 0 0 \ \mathrm { m m } , 3 0 0 . 0 0 \ \mathrm { m m }$ $4 0 0 . 0 0 \ \mathrm { m m }$ 和 $5 0 0 . 0 0 \ \mathrm { m m }$ 。同时，通过旱地春小麦6个主要生育期(出苗期、分蘖期、拔节期、抽穗期、开花期和灌浆期)中任意某一生育期不灌水来模拟不同生育期干旱胁迫对春小麦产量及产量构成要素的影响，模拟试验设计如表2所示。
+
+# 1.3APSIM模型
+
+APSIM模型由澳大利亚农业生产系统研究组（Agricultural production systems research unit,APSRU)研制开发，模型具有较强的适用性，已被广泛应用于气候变化背景下的农业生产领域。该模型由作物模块、土壤模块、气象模块和管理模块等5大模块组成，通过模型中心引擎处理各模块参数，并模拟
+
+# 表2春小麦全生育期不同干旱胁迫的模拟试验设计
+
+Tab.2 Simulation experiment design of different drought stress during the whole growth period of spring wheat   
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td>不同生育期灌水量/mm</td><td></td><td></td><td></td></tr><tr><td>处理</td><td colspan="7">出苗期 分期</td></tr><tr><td>T1</td><td>16.67</td><td>16.67</td><td>16.67</td><td>16.67</td><td>16.67</td><td>16.67</td><td>100.00</td></tr><tr><td>T2</td><td>33.33</td><td>33.33</td><td>33.33</td><td>33.33</td><td>33.33</td><td>33.33</td><td>200.00</td></tr><tr><td>T3</td><td>50.00</td><td>50.00</td><td>50.00</td><td>50.00</td><td>50.00</td><td>50.00</td><td>300.00</td></tr><tr><td>T4</td><td>66.67</td><td>66.67</td><td>66.67</td><td>66.67</td><td>66.67</td><td>66.67</td><td>400.00</td></tr><tr><td>T5</td><td>83.33</td><td>83.33</td><td>83.33</td><td>83.33</td><td>83.33</td><td>83.33</td><td>500.00</td></tr><tr><td>T6</td><td>0.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>100.00</td></tr><tr><td>T7</td><td>0.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>200.00</td></tr><tr><td>T8</td><td>0.00</td><td>60.00</td><td>60.00</td><td>60.00</td><td>60.00</td><td>60.00</td><td>300.00</td></tr><tr><td>T9</td><td>0.00</td><td>80.00</td><td>80.00</td><td>80.00</td><td>80.00</td><td>80.00</td><td>400.00</td></tr><tr><td>T10</td><td>0.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>500.00</td></tr><tr><td>T11</td><td>20.00</td><td>0.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>100.00</td></tr><tr><td>T12</td><td>40.00</td><td>0.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>200.00</td></tr><tr><td>T13</td><td>60.00</td><td>0.00</td><td>60.00</td><td>60.00</td><td>60.00</td><td>60.00</td><td>300.00</td></tr><tr><td>T14</td><td>80.00</td><td>0.00</td><td>80.00</td><td>80.00</td><td>80.00</td><td>80.00</td><td>400.00</td></tr><tr><td>T15</td><td>100.00</td><td>0.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>500.00</td></tr><tr><td>T16</td><td>20.00</td><td>20.00</td><td>0.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>100.00</td></tr><tr><td>T17</td><td>40.00</td><td>40.00</td><td>0.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>200.00</td></tr><tr><td>T18</td><td>60.00</td><td>60.00</td><td>0.00</td><td>60.00</td><td>60.00</td><td>60.00</td><td>300.00</td></tr><tr><td>T19</td><td>80.00</td><td>80.00</td><td>0.00</td><td>80.00</td><td>80.00</td><td>80.00</td><td>400.00</td></tr><tr><td>T20</td><td>100.00</td><td>100.00</td><td>0.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>500.00</td></tr><tr><td>T21</td><td>20.00</td><td>20.00</td><td>20.00</td><td>0.00</td><td>20.00</td><td>20.00</td><td>100.00</td></tr><tr><td>T22</td><td>40.00</td><td>40.00</td><td>40.00</td><td>0.00</td><td>40.00</td><td>40.00</td><td>200.00</td></tr><tr><td>T23</td><td>60.00</td><td>60.00</td><td>60.00</td><td>0.00</td><td>60.00</td><td>60.00</td><td>300.00</td></tr><tr><td>T24</td><td>80.00</td><td>80.00</td><td>80.00</td><td>0.00</td><td>80.00</td><td>80.00</td><td>400.00</td></tr><tr><td>T25</td><td>100.00</td><td>100.00</td><td>100.00</td><td>0.00</td><td>100.00</td><td>100.00</td><td>500.00</td></tr><tr><td>T26</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>0.00</td><td>20.00</td><td>100.00</td></tr><tr><td>T27</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>0.00</td><td>40.00</td><td>200.00</td></tr><tr><td>T28</td><td>60.00</td><td>60.00</td><td>60.00</td><td>60.00</td><td>0.00</td><td>60.00</td><td>300.00</td></tr><tr><td>T29</td><td>80.00</td><td>80.00</td><td>80.00</td><td>80.00</td><td>0.00</td><td>80.00</td><td>400.00</td></tr><tr><td>T30</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>0.00</td><td>100.00</td><td>500.00</td></tr><tr><td>T31</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td><td>0.00</td><td>100.00</td></tr><tr><td>T32</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>0.00</td><td>200.00</td></tr><tr><td>T33</td><td>60.00</td><td>60.00</td><td>60.00</td><td>60.00</td><td>60.00</td><td>0.00</td><td>300.00</td></tr><tr><td>T34</td><td>80.00</td><td>80.00</td><td>80.00</td><td>80.00</td><td>80.00</td><td>0.00</td><td>400.00</td></tr><tr><td>T35</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>0.00</td><td>500.00</td></tr></table></body></html>
+
+作物生长过程获得最终结果[13]。同时，APSIM模型支持模块“插拔”，用户可以根据实际需要进行选择，以日为步长，模拟作物生长发育过程。
+
+甘肃省气象局气象中心提供模型所需定西市安定区1971—2018年气象数据。模型的作物品种参数参考李广等4关于APSIM模型在陇中黄丘陵沟壑区适用性研究中的实测数据(表3)。土壤参数为研究区土壤属性实测数据(表4)。管理参数根据控水试验设计进行设定。
+
+Tab.3 Parameters of the properties of wheat in APSIM   
+
+<html><body><table><tr><td>参数名称</td><td>参数值</td><td>单位</td></tr><tr><td>春化敏感系数</td><td>1.00</td><td>1</td></tr><tr><td>光周期敏感系数</td><td>2.00</td><td>1</td></tr><tr><td>单位茎秆干物质的籽粒数</td><td>25.00</td><td>个·g</td></tr><tr><td>灌浆期到成熟期的积温</td><td>580.00</td><td>C·d-1</td></tr><tr><td>灌浆速率</td><td>2.30</td><td>mg·d-1</td></tr><tr><td>分蘖重</td><td>1.22</td><td>g</td></tr><tr><td>单株重</td><td>4.00</td><td>g</td></tr><tr><td>株高</td><td>1000.00</td><td>mm</td></tr><tr><td>最大谷粒重</td><td>0.045</td><td>g</td></tr></table></body></html>
+
+# 1.4生育期预测模型
+
+APSIM模型利用调整积温（TT'）计算旱地春小麦生育期，当调整积温达到该生育阶段目标积温后，春小麦生长进入下一生长阶段。模型调整积温为作物某一生长阶段每日积温受春化、光周期和其他环境因子影响后的总和。调整积温计算公式为：
+
+$\mathrm { T T ^ { \prime } } = \sum [ \Delta \mathrm { T T } \times \mathrm { m i n } ( f _ { \mathrm { p } } , f _ { \mathrm { v } } ) \times \mathrm { m i n } ( f _ { \mathrm { w } } , f _ { \mathrm { p } } , f _ { \mathrm { N } } ) ]$ (1)式中： $\Delta \mathrm { T T }$ 为日积温，该值根据三基点温度( $( 0 \mathrm { { ^ { \circ } C } }$ ）$2 6 ~ \mathrm { { ^ circ C } }$ 和 $3 4 ~ \mathrm { ^ { \circ } C }$ )进行计算； $f _ { \mathrm { { D } } }$ 和 $f _ { \mathrm { v } }$ 分别为光周期系数和春化系数; $f _ { \mathrm { w } } \setminus f _ { \mathrm { N } }$ 和 $f _ { \mathrm { P } }$ 分别为土壤水分、氮和磷含量对春小麦生长的影响系数，默认值为1。
+
+播种至发芽阶段春小麦生长主要受温度和土壤水分的影响；发芽至出苗阶段春小麦生长主要受播种深度和温度的影响；出苗至分蘖阶段春小麦生长主要受温度和春化系数 $f _ { \mathrm { v } }$ (公式2)的影响；分蘖至孕穗阶段春小麦生长主要受光周期系数 $f _ { \mathrm { { D } } }$ （公式3）、温度和春小麦品种特性的影响；抽穗至开花阶段春小麦生长主要受温度影响；开花至成熟阶段春小麦生长主要受温度和春小麦灌浆因子影响。
+
+$$
+f _ { \mathrm { v } } = 1 - ( 0 . 0 0 5 4 5 4 5 R _ { \mathrm { v } } + 0 . 0 0 0 3 ) { \times } ( 5 0 - V )
+$$
+
+$$
+f _ { \mathrm { p } } = 1 - 0 . 0 0 2 R _ { \mathrm { p } } ( 2 0 - L _ { \mathrm { p } } ) ^ { 2 }
+$$
+
+式中： $R _ { \mathrm { v } }$ 为春化敏感系数； $R _ { \mathrm { P } }$ 为光周期敏感系数；$L _ { \mathrm { p } }$ 为日长，该参数利用当地纬度( $3 5 ^ { \circ } 5 8 ^ { \prime } \mathrm { N } .$ ）、日序以及晨昏蒙影 $\left( - 6 ^ { \circ } \right)$ 通过标准天文公式进行计算； $V$ 为总春化指数，利用日春化指数( $\Delta V$ )与反春化指数（ $\Delta V _ { \mathrm { d } }$ )之差进行计算[公式(4)]。其中，日春化指数与研究区日最低温和最高温相关，当日最低温低于 $1 5 ~ \mathrm { { ^ { \circ } C } }$ ,且最高温低于 $3 0 \ \mathrm { { ^ { c } C } }$ 时，春化指数计算公式如公式(5)所示;但当总春化指数小于10，且日最高温高于 $3 0 \ \mathrm { { ^ { c } C } }$ 时，春小麦生长将出现反春化，反春化指数计算公式如公式(6)所示。
+
+$$
+V { = } \sum ( \Delta V { - } \Delta V _ { \mathrm { d } } )
+$$
+
+$$
+\Delta V = \operatorname* { m i n } \left[ 1 . 4 - 0 . 0 7 7 8 T _ { \mathrm { e } } , 0 . 5 + 1 3 . 4 4 \frac { T _ { \mathrm { c } } } { \left( T _ { \mathrm { m a x } } - T _ { \mathrm { m i n } } + 3 \right) ^ { 2 } } \right] 6
+$$
+
+$$
+\Delta V _ { \mathrm { d } } { = } \operatorname* { m i n } [ 0 . 5 \times ( T _ { \mathrm { m a x } } - 3 0 ) , V ]
+$$
+
+# 1.5APSIM模型检验
+
+本研究选用研究区2016—2018年大田控水试验数据对APSIM模型适宜性进行检验，检验采用RMSE、NRMSE以及 $M _ { \mathrm { E } }$ 这3种统计指标。一般认为，RMSE和NRMSE表明模拟值与实测值间的误差，即模型模拟精度，其值越小越好。 $M _ { \mathrm { E } }$ 表明模型模拟效果，其值越接近1越好。
+
+$$
+\mathrm { R M S E } = \sqrt { \frac { 1 } { n } { \sum _ { i = 1 } ^ { n } ( P _ { i } - O _ { i } ) ^ { 2 } } }
+$$
+
+$$
+\mathrm { N R M S E } = 1 0 0 \times \frac { \sqrt { \frac { 1 } { n } { \sum _ { i = 1 } ^ { n } ( P _ { i } - O _ { i } ) } ^ { 2 } } } { \bar { P } }
+$$
+
+表3APSIM中春小麦主要属性参数  
+表4APSIM中土壤属性参数  
+Tab.4 Soil property parameters in APSIM   
+
+<html><body><table><tr><td>参数</td><td>0~5cm</td><td>5~10 cm</td><td>10~30 cm</td><td>30~50 cm</td><td>50~80 cm</td><td>80~110 cm</td><td>110~140 cm</td><td>140~170 cm</td><td>170~200 cm</td></tr><tr><td>容重/g·cm-3</td><td>1.290</td><td>1.226</td><td>1.325</td><td>1.200</td><td>1.140</td><td>1.140</td><td>1.250</td><td>1.120</td><td>1.100</td></tr><tr><td>风干含水量/cm·mm-</td><td>0.013</td><td>0.013</td><td>0.046</td><td>0.071</td><td>0.087</td><td>0.103</td><td>0.107</td><td>0.115</td><td>0.127</td></tr><tr><td>萎蔫系数/cm·cm-3</td><td>0.090</td><td>0.090</td><td>0.090</td><td>0.090</td><td>0.090</td><td>0.110</td><td>0.110</td><td>0.120</td><td>0.130</td></tr><tr><td>田间最大持水量/cm·mm-</td><td>0.274</td><td>0.274</td><td>0.270</td><td>0.269</td><td>0.261</td><td>0.269</td><td>0.260</td><td>0.257</td><td>0.261</td></tr><tr><td>饱和含水量/cm·cm-3</td><td>0.463</td><td>0.487</td><td>0.450</td><td>0.497</td><td>0.520</td><td>0.520</td><td>0.480</td><td>0.529</td><td>0.531</td></tr><tr><td>土壤导水率</td><td>0.600</td><td>0.600</td><td>0.600</td><td>0.600</td><td>0.600</td><td>0.600</td><td>0.600</td><td>0.600</td><td>0.600</td></tr><tr><td>pH值</td><td>8.360</td><td>8.360</td><td>8.360</td><td>8.360</td><td>8.360</td><td>8.360</td><td>8.360</td><td>8.360</td><td>8.360</td></tr><tr><td>铵态氮/kg·hm²</td><td>4.064</td><td>3.188</td><td>13.515</td><td>11.760</td><td>15.732</td><td>16.416</td><td>18.000</td><td>19.488</td><td>13.653</td></tr><tr><td>硝态氮/kg·hm2</td><td>12.320</td><td>9.318</td><td>61.215</td><td>39.840</td><td>57.456</td><td>62.244</td><td>61.500</td><td>46.032</td><td>51.282</td></tr><tr><td>小麦萎蔫系数/cm·cm-3</td><td>0.090</td><td>0.090</td><td>0.090</td><td>0.090</td><td>0.100</td><td>0.115</td><td>0.125</td><td>0.180</td><td>0.220</td></tr><tr><td>小麦吸水吸水/d</td><td>0.100</td><td>0.100</td><td>0.100</td><td>0.100</td><td>0.050</td><td>0.050</td><td>0.030</td><td>0.030</td><td>0.030</td></tr><tr><td>小麦根系伸展系数</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1.000</td><td>1.000</td></tr></table></body></html>
+
+# 干吴区地理
+
+$$
+M _ { \mathrm { E } } = 1 - { \frac { \displaystyle \sum _ { i = 1 } ^ { n } ( P _ { i } - O _ { i } ) ^ { 2 } } { \displaystyle \sum _ { i = 1 } ^ { n } ( P _ { i } - { \bar { P } } ) } }
+$$
+
+式中： ${ \boldsymbol { P } } _ { i }$ 表示第 $i$ 个实测值; $O _ { i }$ 表示第 $i$ 个观测值;  
+$\bar { P }$ 表示实测平均值; $n$ 为观测次数。
+
+# 2结果与分析
+
+# 2.1APSIM模型的适应性分析
+
+2.1.1APSIM模型模拟旱地春小麦生育期的适应性分析旱地春小麦生长发育过程中,出苗期、拔节期、抽穗期和开花期为春小麦生长发育的重要时期，且易于观察，利用2016—2018年大田控水试验验证APSIM模型模拟旱地春小麦4个主要生育期的适宜性。结果显示，APSIM模型对不同干旱胁迫下旱地春小麦关键生育期的模拟精度相对较高，其中出苗期模拟值与实测值RMSE为 $2 . 6 9 { \sim } 3 . 6 7 \mathrm { d }$ ,NRMSE为 $1 . 5 9 \% { \sim } 3 . 8 9 \%$ ， $M _ { \mathrm { E } }$ 为 $0 . 6 2 \mathrm { \sim } 0 . 8 6$ ;拔节期RMSE为$2 . 2 8 \substack { \sim 3 . 3 4 \mathrm { ~ d ~ } }$ ,NRMSE为 $1 . 2 9 \% \sim 3 . 0 2 \%$ ， $M _ { \mathrm { E } }$ 为 $0 . 7 1 \sim$ 0.90;抽穗期RMSE为2.05\~3.09d,NRMSE为 $1 . 0 9 \% .$ ，$2 . 7 5 \%$ ， $M _ { \mathrm { E } }$ 为 $0 . 7 6 { \sim } 0 . 9 4$ ；开花期的RMSE为 $1 . 9 8 \sim$ 2.94d,NRMSE为 $1 . 0 2 \% { \sim } 2 . 6 8 \% , M _ { \mathrm { \ell } }$ 为 $0 . 7 5 \mathrm { \sim } 0 . 9 5$ （表5)。通过与实测数据的对比分析发现，APSIM模型模拟灌水量 $1 0 0 . 0 0 { \sim } 2 0 0 . 0 0 \ \mathrm { m m }$ 的生育期精度更高，且春小麦生长后期生育期模拟效果好于前期，
+
+2.1.2APSIM模型模拟旱地春小麦产量及产量构成要素的适应性分析（1）APSIM模型模拟旱地春小麦籽粒数适应性分析。利用2016—2018年大田控水试验验证不同干旱胁迫下APSIM模型模拟春小麦籽粒数的适宜性。结果表明，春小麦籽粒数模拟值与实测值均匀分布于1：1线左右，误差控制在 $- 1 5 \% . . . + 1 5 \%$ 的范围内(图2)。模拟结果的平均
+
+RMSE为260.00个 $\mathrm { m } ^ { - 2 }$ ,平均NRMSE为 $2 . 3 2 \%$ ,平均$M _ { \mathrm { E } }$ 为0.85(表6)。结果表明，APSIM模型能够较好的模拟研究区不同干旱胁迫的春小麦籽粒数。
+
+（2）APSIM模型模拟旱地春小麦千粒重适应性分析。利用2016—2018年大田控水试验验证不同干旱胁迫下APSIM模型模拟春小麦千粒重的适宜性。结果表明，春小麦千粒重模拟值与实测值均匀分布于1:1线左右，误差控制在 $- 1 5 \% . . . + 1 5 \%$ 的范围内（图3）。模拟结果的平均RMSE为 $2 . 0 7 \ \mathrm { g }$ ，平均NRMSE为 $8 . 1 5 \%$ ,平均 $M _ { \mathrm { E } }$ 为0.68(表7)。结果表明，APSIM模型能够较好的模拟研究区不同干旱胁迫的春小麦千粒重。
+
+（3）APSIM模型模拟旱地春小麦产量适应性分析。利用2016—2018年大田控水试验验证不同干旱胁迫下APSIM模型模拟春小麦产量的适宜性。结果表明，春小麦产量的模拟值与实测值均匀分布于 $1 { : } 1$ 线左右，误差控制在 $- 1 5 \% \sim + 1 5 \%$ 的范围内（图4）。模拟结果的平均RMSE为 $2 2 5 . 4 1 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ，平均NRMSE为 $7 . 8 0 \%$ ,平均 $M _ { \mathrm { E } }$ 为0.71(表8)。结果表明，APSIM模型能够较好模拟研究区不同干旱胁迫的春小麦产量。
+
+# 2.2不同干旱胁迫对旱地春小麦产量及产量构成要素的影响
+
+2.2.1不同生育期干旱胁迫对早地春小麦产量及产量构成要素的影响不同生育期十旱胁迫对陇中黄土高原区旱地春小麦籽粒数、千粒重和产量的影响各不相同，其中，T1\~T5为无胁迫，T6\~T10为出苗期干旱胁迫，T11\~T15为分藥期干旱胁迫，T16\~T20为拔节期干旱胁迫，T21\~T25为抽穗期干旱胁迫，T26\~T30为开花期干旱胁迫，T31\~T35为灌浆期干旱胁迫，如表9所示。不同生育期干旱胁迫下，灌浆期表6干旱胁迫条件下春小麦籽粒数模拟结果检验干旱胁迫春小麦平均籽粒数最高为9642.28个· $\mathbf { m } ^ { - 2 }$ ，而拔节期干旱胁迫春小麦平均籽粒数最低为8618.81个 $\mathrm { m } ^ { - 2 }$ 。其中,灌浆期干旱胁迫且其他生育期灌水量为 $4 0 0 . 0 0 \ \mathrm { m m }$ 时，春小麦籽粒数最大为12253.92个· $\mathrm { m } ^ { - 2 }$ ,拔节期干旱胁迫且其他生育期灌水量为 $1 0 0 . 0 0 \mathrm { m m }$ 时，春小麦籽粒数最低为2907.63个· $\mathrm { m } ^ { - 2 }$ 。不同生育期干旱胁迫对春小麦籽粒数的影响由大到小依次为:拔节期、出苗期、分蘖期、无胁迫、抽穗期、开花期和灌浆期。灌浆期干旱胁迫春小麦平均籽粒数比开花期、抽穗期、无胁迫、分蘖期、出苗期和拔节期分别增加 $1 . 1 3 \% , 2 . 4 4 \% , 2 . 7 5 \%$ $2 . 9 0 \%$ ） $5 . 9 8 \%$ 和 $1 1 . 8 7 \%$ ○
+
+表5不同干旱胁迫下春小麦关键生育期模拟结果  
+Tab.5 Test results of simulation on critical growth dates of spring wheat under different drought stress   
+
+<html><body><table><tr><td rowspan="2">灌水量/mm</td><td colspan="3">出苗期</td><td colspan="3">拔节期</td><td colspan="3">抽穗期</td><td colspan="3">开花期</td></tr><tr><td>RMSE/d</td><td>NRMSE/%</td><td>ME</td><td>RMSE/d</td><td>NRMSE/%</td><td>ME</td><td>RMSE/d</td><td>NRMSE/%</td><td>ME</td><td>RMSE/d</td><td>NRMSE/%</td><td>ME</td></tr><tr><td>50.00</td><td>3.39</td><td>3.05</td><td>0.70</td><td>3.16</td><td>2.95</td><td>0.74</td><td>3.09</td><td>2.75</td><td>0.76</td><td>2.94</td><td>2.68</td><td>0.75</td></tr><tr><td>100.00</td><td>2.69</td><td>1.59</td><td>0.86</td><td>2.28</td><td>1.29</td><td>0.90</td><td>2.05</td><td>1.09</td><td>0.94</td><td>1.98</td><td>1.02</td><td>0.95</td></tr><tr><td>150.00</td><td>2.83</td><td>1.95</td><td>0.83</td><td>2.56</td><td>1.45</td><td>0.89</td><td>2.35</td><td>1.26</td><td>0.90</td><td>2.18</td><td>1.15</td><td>0.93</td></tr><tr><td>200.00</td><td>3.01</td><td>2.62</td><td>0.79</td><td>2.75</td><td>1.63</td><td>0.84</td><td>2.42</td><td>1.30</td><td>0.89</td><td>2.31</td><td>1.23</td><td>0.91</td></tr><tr><td>250.00</td><td>3.45</td><td>3.72</td><td>0.68</td><td>3.11</td><td>2.86</td><td>0.75</td><td>2.95</td><td>2.35</td><td>0.82</td><td>2.69</td><td>1.49</td><td>0.86</td></tr><tr><td>300.00</td><td>3.67</td><td>3.89</td><td>0.62</td><td>3.34</td><td>3.02</td><td>0.71</td><td>3.05</td><td>2.72</td><td>0.78</td><td>2.78</td><td>1.48</td><td>0.82</td></tr></table></body></html>
+
+注：RMSE为均方根误差;NRMSE为归一化均方根误差； $M _ { \mathrm { E } }$ 模型有效性指数。下同
+
+![](images/36d9bd135ff9fa372b6a87cd422fff94f5f7122230abe81ba8c8d0cb9121c760.jpg)  
+图2干旱胁迫条件下春小麦籽粒数模拟值与实测值相关分析  
+Fig.2 Relationship of simulated and observed values of grain number of spring wheat under drought stress
+
+Tab.6 Test results of simulation on grain number of spring wheat under drought stress   
+
+<html><body><table><tr><td>灌水量/mm</td><td>RMSE/个·m-2</td><td>NRMSE/%</td><td>ME</td></tr><tr><td>50.00</td><td>253.22</td><td>2.86</td><td>0.89</td></tr><tr><td>100.00</td><td>228.52</td><td>1.67</td><td>0.93</td></tr><tr><td>150.00</td><td>234.37</td><td>1.80</td><td>0.85</td></tr><tr><td>200.00</td><td>247.62</td><td>2.07</td><td>0.82</td></tr><tr><td>250.00</td><td>295.74</td><td>2.66</td><td>0.81</td></tr><tr><td>300.00</td><td>300.52</td><td>2.83</td><td>0.78</td></tr></table></body></html>
+
+分蘖期干旱胁迫春小麦平均千粒重最大为$4 1 . 8 8 \ \mathrm { g }$ ，而灌浆期干旱胁迫春小麦平均千粒重最低为 $3 7 . 6 0 \mathrm { g }$ 。其中，分蘖期干旱胁迫且其他生育期灌水量为 $3 0 0 . 0 0 \mathrm { m m }$ 时,春小麦千粒重最大为 $4 3 . 5 0 \ \mathrm { g }$ 灌浆期干旱胁迫且其他生育期灌水量为 $1 0 0 . 0 0 \mathrm { m m }$ 时，春小麦千粒重最低为 $3 4 . 7 5 \ \mathrm { g }$ 。不同生育期干旱胁迫对春小麦千粒重的影响由大到小依次为：灌浆期、开花期、抽穗期、无胁迫、拔节期、出苗期和分襄期。分蘖期干旱胁迫春小麦平均千粒重比出苗期、拔节期、无胁迫、抽穗期、开花期和灌浆期分别增加$0 . 9 4 \% 1 . 5 0 \% 1 . 7 7 \% 2 . 4 4 \% 8 . 0 8 \%$ 和 $1 1 . 3 8 \%$ O
+
+分蘗期干旱胁迫春小麦平均产量最高为$3 8 9 7 . 3 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ,拔节期干旱胁迫春小麦平均产量
+
+![](images/6e6f842cfc15399056c9290113f0bb8b9bf8721f333b9324a766b72088242011.jpg)  
+图3干旱胁迫条件下春小麦千粒重模拟值与实测值相关分析
+
+Fig.3Relationship of simulated and observed values of thousand grain weight of spring wheat under drought stres
+
+# 表7干旱胁迫条件下春小麦千粒重模拟值与实测值的统计指标
+
+Tab.7 Test results of simulation on thousand grain weight of springwheat under drought stress   
+
+<html><body><table><tr><td>灌水量/mm</td><td>RMSE/g</td><td>NRMSE/%</td><td>ME</td></tr><tr><td>50.00</td><td>2.56</td><td>9.71</td><td>0.74</td></tr><tr><td>100.00</td><td>2.27</td><td>7.62</td><td>0.77</td></tr><tr><td>150.00</td><td>1.66</td><td>6.00</td><td>0.72</td></tr><tr><td>200.00</td><td>1.93</td><td>7.45</td><td>0.62</td></tr><tr><td>250.00</td><td>1.96</td><td>8.63</td><td>0.62</td></tr><tr><td>300.00</td><td>2.05</td><td>9.48</td><td>0.60</td></tr></table></body></html>
+
+最低为 $3 5 3 3 . 8 8 \mathrm { ~ k g } \cdot \mathrm { h m } ^ { - 2 }$ 。其中,分蘖期干旱胁迫且其他生育期灌水量为 $4 0 0 . 0 0 \ \mathrm { m m }$ 时，春小麦产量最大为 $5 1 5 0 . 0 4 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ;拔节期干旱胁迫且其他生育期灌水量为 $1 0 0 . 0 0 \ \mathrm { m m }$ 时，春小麦产量最低为$1 2 1 9 . 7 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。不同生育期干旱胁迫对春小麦产量的影响由大到小依次为：拔节期、灌浆期、抽穗期、开花期、出苗期、无胁迫和分蘗期。分蘖期干旱胁迫春小麦平均产量比无胁迫、出苗期、开花期、抽穗期、灌浆期和拔节期分别增加 $2 . 1 0 \%$ ） $3 . 8 7 \%$ 、$4 . 2 0 \% . 5 . 5 2 \% . 6 . 4 9 \%$ 和 $1 0 . 2 8 \%$ ○
+
+研究结果表明拔节期干旱胁迫造成陇中黄土高原区旱地春小麦籽粒数大幅下降，从而导致该地区旱地春小麦减产。而分蘖期发生程度适中的干旱胁迫有利于增加陇中黄土高原区旱地春小麦千粒重，提高该地区旱地春小麦产量。
+
+2.2.2不同程度干旱胁迫对旱地春小麦产量及产量构成要素的影响不同程度干旱胁迫对春小麦产量及产量构成要素的影响不同，如图5所示。其中，灌水量 $1 0 0 . 0 0 \ \mathrm { m m }$ 的春小麦平均籽粒数为3255.91个· $\mathbf { m } ^ { - 2 }$ ,平均千粒重为 $3 9 . 1 9 \ \mathrm { g }$ ，平均产量为$1 2 6 8 . 7 8 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ;灌水量 $2 0 0 . 0 0 \mathrm { m m }$ 的春小麦平均籽粒数为8330.63个 $\cdot \mathrm { m } ^ { - 2 }$ ,平均千粒重为 $4 1 . 8 7 \mathrm { g }$ ，平均产量为 $3 4 8 4 . 5 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ；灌水量 $3 0 0 . 0 0 \mathrm { m m }$ 的春小麦平均籽粒数为11472.13个· $\mathrm { m } ^ { - 2 }$ ,平均千粒重为 $4 2 . 5 4 \ \mathrm { g }$
+
+![](images/63742b7982d3d29a602ab20a329bca1a5cee04817da59877eac3ed2abe286b32.jpg)  
+图4干旱胁迫条件下春小麦产量模拟值与实测值相关分析 Fig.4Relationship of simulated and observed values of yield of spring wheat
+
+# 表8干旱胁迫条件下春小麦产量模拟值与实测值的统计指标
+
+Tab.8 Results of simulation on yield of spring wheat under drought stress   
+
+<html><body><table><tr><td>灌水量/mm</td><td>RMSE/kg·hm-2</td><td>NRMSE/%</td><td>ME</td></tr><tr><td>50.00</td><td>267.43</td><td>11.58</td><td>0.76</td></tr><tr><td>100.00</td><td>226.92</td><td>5.50</td><td>0.78</td></tr><tr><td>150.00</td><td>234.67</td><td>6.41</td><td>0.71</td></tr><tr><td>200.00</td><td>185.78</td><td>5.16</td><td>0.67</td></tr><tr><td>250.00</td><td>215.50</td><td>8.57</td><td>0.66</td></tr><tr><td>300.00</td><td>222.18</td><td>9.58</td><td>0.69</td></tr></table></body></html>
+
+平均产量为 $4 8 6 6 . 1 9 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ;灌水量 $4 0 0 . 0 0 \ \mathrm { m m }$ 的春小麦平均籽粒数为11852.12个· $\mathbf { m } ^ { - 2 }$ ,平均千粒重为 $4 0 . 8 9 \mathrm { ~ g ~ }$ ，平均产量为 $4 8 4 4 . 1 4 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ；灌水量$5 0 0 . 0 0 \mathrm { m m }$ 的春小麦平均籽粒数为11485.54个 $\cdot \mathrm { m } ^ { - 2 }$ ，平均千粒重为 $3 6 . 6 5 \ \mathrm { g }$ ,平均产量为 $4 2 1 0 . 1 8 ~ \mathrm { k g \cdot h m ^ { - 2 } }$ 0结果表明，灌水量 $4 0 0 . 0 0 \ \mathrm { m m }$ 的春小麦籽粒数最大为11852.12个· $\mathrm { m } ^ { - 2 }$ ,与其他4种灌水量相比籽粒数分别增加 $2 6 4 . 0 2 \% . 4 2 . 1 7 \% . 3 . 3 1 \%$ 和 $3 . 1 9 \%$ ;灌水量$3 0 0 . 0 0 \mathrm { m m }$ 的春小麦千粒重最大为 $4 2 . 5 4 \ \mathrm { g }$ ，与其他4种灌水量相比千粒重分别增加 $8 . 5 5 \% , 1 . 6 0 \% , 4 . 0 4 \%$ 和 $1 6 . 0 7 \%$ ;灌水量 $3 0 0 . 0 0 \ \mathrm { m m }$ 的春小麦产量最大为$4 8 6 6 . 1 9 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ,与其他4种灌水量相比产量增加$2 8 3 . 5 3 \% . 3 9 . 6 5 \% . 0 . 4 6 \%$ 和 $1 5 . 5 8 \%$ ○
+
+2.2.3旱地春小麦最佳灌溉时间及灌溉量以出苗后第1次灌水天数变化量 $x _ { 1 }$ ,第2次灌水天数变化量$x _ { 2 }$ ,第3次灌水天数变化量 $x _ { 3 }$ ,第4次灌水天数变化量 $x _ { 4 }$ ，第5次灌水天数变化量 $x _ { 5 }$ ，以及5次灌水的总灌水变化量 $x _ { 6 }$ 为自变量，以APSIM模型模拟的春小麦籽粒数、千粒重和产量为因变量，建立多元逐步回归方程，如表10所示。3个多元逐步回归方程决定系数 $R ^ { 2 }$ 均在0.85以上，表明多元逐步回归方程拟合效果较好。
+
+# 表9不同生育期干旱胁迫对春小麦产量形成的影响
+
+Tab.9 Effect of drought stress at different growth   
+表10不同灌水措施与春小麦产量及产量构成的拟合方程及相关性  
+
+<html><body><table><tr><td colspan="7">stagesontheyield formationofwheat</td></tr><tr><td>处理</td><td>籽粒数</td><td>平均粒</td><td></td><td>平</td><td>产量</td><td>平均产量</td></tr><tr><td>T1</td><td>3402.53</td><td>9384.45</td><td>43.32</td><td>41.15</td><td>1473.98</td><td>3817.02</td></tr><tr><td>T2</td><td>8434.52</td><td></td><td>42.73</td><td></td><td>3604.07</td><td></td></tr><tr><td>T3</td><td>11252.78</td><td></td><td>41.67</td><td></td><td>4689.00</td><td></td></tr><tr><td>T4</td><td>12347.05</td><td></td><td>41.58</td><td></td><td>5133.90</td><td></td></tr><tr><td>T5</td><td>11485.36</td><td></td><td>36.43</td><td></td><td>4184.12</td><td></td></tr><tr><td>T6</td><td>3030.23</td><td>9098.02</td><td>42.18</td><td>41.49</td><td>1278.15</td><td>3752.16</td></tr><tr><td>T7</td><td>7970.41</td><td></td><td>43.18</td><td></td><td>3441.62</td><td></td></tr><tr><td>T8</td><td>11438.07</td><td></td><td>43.49</td><td></td><td>4974.42</td><td></td></tr><tr><td>T9</td><td>11655.90</td><td></td><td>42.58</td><td></td><td>4983.08</td><td></td></tr><tr><td>T10</td><td>11395.48</td><td></td><td>36.01</td><td></td><td>4103.51</td><td></td></tr><tr><td>T11</td><td>3152.92</td><td>9370.38</td><td>42.82</td><td>41.88</td><td>1350.08</td><td>3897.30</td></tr><tr><td>T12</td><td>8524.30</td><td></td><td>43.20</td><td></td><td>3682.50</td><td></td></tr><tr><td>T13</td><td>11310.70</td><td></td><td>43.50</td><td></td><td>4917.89</td><td></td></tr><tr><td>T14</td><td>11990.77</td><td></td><td>42.95</td><td></td><td>5150.04</td><td></td></tr><tr><td>T15</td><td>11873.23</td><td></td><td>36.94</td><td></td><td>4385.97</td><td></td></tr><tr><td>T16</td><td>2907.63</td><td>8618.81</td><td>41.95</td><td>41.26</td><td>1219.75</td><td>3533.88</td></tr><tr><td>T17</td><td>7709.07</td><td></td><td>43.06</td><td></td><td>3319.53</td><td></td></tr><tr><td>T18</td><td>10572.67</td><td></td><td>43.39</td><td></td><td>4587.48</td><td></td></tr><tr><td>T19</td><td>11106.43</td><td></td><td>42.09</td><td></td><td>4674.70</td><td></td></tr><tr><td>T20</td><td>10798.25</td><td></td><td>35.82</td><td></td><td>3867.93</td><td></td></tr><tr><td>T21</td><td>3353.07</td><td>9411.70</td><td>37.96</td><td>40.28</td><td>1272.83</td><td>3693.26</td></tr><tr><td>T22</td><td>8510.76</td><td></td><td>41.95</td><td></td><td>3570.26</td><td></td></tr><tr><td>T23</td><td>11725.96</td><td></td><td>42.37</td><td></td><td>4968.29</td><td></td></tr><tr><td>T24</td><td>11947.17</td><td></td><td>41.53</td><td></td><td>4961.66</td><td></td></tr><tr><td>T25</td><td>11521.54</td><td></td><td>37.61</td><td></td><td>4333.25</td><td></td></tr><tr><td>T26</td><td>3529.61</td><td>9534.52</td><td>35.53</td><td>38.75</td><td>1254.07</td><td>3740.11</td></tr><tr><td>T27</td><td>8512.47</td><td></td><td>40.12</td><td></td><td>3415.20</td><td></td></tr><tr><td>T28</td><td>11836.12</td><td></td><td>41.49</td><td></td><td>4910.81</td><td></td></tr><tr><td>T29</td><td>12158.55</td><td></td><td>39.01</td><td></td><td>4743.05</td><td></td></tr><tr><td>T30</td><td>11635.87</td><td></td><td>37.62</td><td></td><td>4377.41</td><td></td></tr><tr><td>T31</td><td>3562.02</td><td>9642.28</td><td>34.75</td><td>37.60</td><td>1237.80</td><td>3659.92</td></tr><tr><td>T32</td><td>8756.74</td><td></td><td>39.72</td><td></td><td>3478.18</td><td></td></tr><tr><td>T33</td><td>11949.24</td><td></td><td>40.49</td><td></td><td>4838.25</td><td></td></tr><tr><td>T34</td><td>12253.92</td><td></td><td>37.15</td><td></td><td>4552.33</td><td></td></tr><tr><td>T35</td><td>11689.49</td><td></td><td>35.87</td><td></td><td>4193.02</td><td></td></tr></table></body></html>
+
+![](images/548aa09328c8cf1ec437f5fd4a89153e1c2952096f0ba56d9c660bc720cf8095.jpg)  
+图5春小麦产量及产量构成要素对不同程度干旱胁迫的响应  
+Fig.5Response of wheat yield and yield components to different degree of drought stress
+
+利用多目标优化确定陇中黄土高原区旱地春小麦最佳灌水时间和灌水量，出苗后第 $1 \mathrm { d } , 4 7 \mathrm { d }$ ，$6 0 \mathrm { d } , 7 9 \mathrm { d }$ 和82d灌水，且总灌水量为 $3 6 2 . 7 4 \mathrm { ~ m m }$ 时，旱地春小麦籽粒数达到最大为13477.25个， $\mathbf { m } ^ { - 2 }$ ；出苗后第 $1 \mathrm { d } , 4 7 \mathrm { d } , 7 9 \mathrm { d } , 8 2 \mathrm { d }$ 和86d灌水，且总灌水量为 $2 4 6 . 0 4 \mathrm { m m }$ 时,春小麦千粒重达到最大为 $4 6 . 2 9 \ \mathrm { g }$ 出苗后第 $1 \mathrm { d } , 4 7 \mathrm { d } , 6 0 \mathrm { d } , 8 2 \mathrm { d }$ 和86d灌水，且总灌水量为 $3 4 3 . 0 9 \mathrm { m m }$ 时,春小麦产量达到最大为 $5 5 7 8 . 9 1 \mathrm { k g }$ $\mathrm { h m } ^ { - 2 }$ 。结果表明,出苗后第 $1 \mathrm { d } , 4 7 \mathrm { d } , 6 0 \mathrm { d } , 8 2 \mathrm { d }$ 和86d为陇中黄土高原区旱地春小麦最佳灌水时间，$3 4 3 . 0 9 \mathrm { { m m } }$ 为该地区最佳灌水量。
+
+itting equation and correlation between irrigation measures and yield and yield con   
+
+<html><body><table><tr><td>指标</td><td>拟合方程</td><td>R</td><td>F值</td><td>P值</td></tr><tr><td>籽粒数</td><td>y=-1266.36+91.09x6-0.10x6²-0.05x1x6+0.08x2x6-0.27x3x-0.18x4X6</td><td>0.92</td><td>622.82</td><td>0.0001</td></tr><tr><td>千粒重</td><td>y=0.50778+0.0889x6-0.0002x6²+0.0001x2x6+0.0020xx4-0.0004xx6+0.0042x4x5</td><td>0.85</td><td>28.88</td><td>0.0001</td></tr><tr><td>产量</td><td>y=158.54-4239.67x1+26.70x-0.05x²+6.04xix2+50.85x1x4-0.02x1x-0.03x2x+0.03x2x-0.03x3x-0.28x4+0.14x6</td><td>0.95</td><td>238.43</td><td>0.0001</td></tr></table></body></html>
+
+# 3讨论
+
+杨月等15验证不同地区、不同播期、以及不同播种密度下，APSIM模型模拟小麦生育期的适宜性，结果表明APSIM模型对小麦关键生育期模拟精度较高。樊栋樑等利用APSIM模型对内蒙古地区10个不同品种的小麦生育期、生物量以及产量进行模拟，结果表明APSIM模型对模拟小麦生长具有较高的精度。李广等4研究表明APSIM模型对模拟黄土丘陵区不同耕作措施的小麦产量具有较好的适宜性。李艳等利用APSIM模型进行了灌溉对降低小麦产量风险的研究，验证模型模拟不同灌溉条件下小麦产量的适应性。本研究表明，APSIM模型对模拟陇中黄土高原区不同生育期、不同程度干旱胁迫条件下旱地春小麦生育期、籽粒数、千粒重及产量精度较高，具有较好的适宜性。
+
+相关研究表明灌浆期干旱胁迫对小麦穗数影响相对较小，但该生育期干旱缺水会影响小麦籽粒灌浆，从而造成小麦千粒重显著降低[18]。小麦千粒重主要受灌浆期干旱等因素影响，而灌浆期前干旱对其影响相对较小[19]。而Kaur和Behl等[20的研究则表明小麦开花期前后的短期干旱胁迫均会导致小麦灌浆时间缩短，影响小麦千粒重。本研究表明分蘖期干旱胁迫且其他生育期灌水量为 $3 0 0 . 0 0 \ \mathrm { m m }$ 时，春小麦千粒重最大，这主要是因为春小麦生长前期发生轻度干旱胁迫有利于提高春小麦的平均灌浆速率,从而使春小麦具有较高的千粒重2。而灌浆期干旱胁迫且其他生育期灌水量为 $1 0 0 . 0 0 \mathrm { m m }$ 时，春小麦千粒重最小，这与前人的研究结果保持一致[22-23]。不同生育期干旱胁迫对研究区旱地春小麦千粒重的影响大小依次为：灌浆期 $>$ 开花期>抽穗期>无胁迫>拔节期 $>$ 出苗期 $>$ 分蘖期。
+
+孕穗期前干旱胁迫会导致小麦有效小穗数和穗粒数减少[22]。王敏等[24研究表明拔节期发生中等程度干旱胁迫，小麦穗数和穗粒数均明显减少。李彦彬等25研究表明拔节期任何程度干旱胁迫都会导致小麦结实小穗数减少，降低小麦有效穗数和穗粒数。本研究表明拔节期十旱胁迫是影响研究区旱地春小麦籽粒数的关键生育期，拔节期干旱胁迫且其他生育期灌水量为 $1 0 0 . 0 0 \mathrm { m m }$ 时，春小麦籽粒数最小,这与前人的研究成果一致[2。不同生育期干旱胁迫对研究区旱地春小麦籽粒数影响大小依次为：拔节期 $>$ 出苗期 $>$ 分蘗期 $>$ 无胁迫 $>$ 抽穗期 $>$ 开花期>灌浆期。
+
+小麦拔节期至孕穗期干旱胁迫会造成小花不孕，从而导致小麦穗粒数减少，而灌浆期干旱胁迫会影响小麦灌浆速率，缩短灌浆时间，对小麦千粒重和产量造成显著影响[2。相关研究同时表明拔节期干旱胁迫将导致小麦穗长和穗数显著下降，从而影响小麦产量[28-29]。同时也有研究表明小麦生长前期发生程度适中的干旱胁迫，而后期水分充足供应，可使其产量维持在一定水平，表现出一定补偿效应[30-31]。本研究表明拔节期干旱胁迫是造成研究区旱地春小麦产量下降的主要因素，该生育期干旱胁迫造成旱地春小麦籽粒数显著降低，从而导致研究区旱地春小麦产量低于其他生育期发生干旱胁迫，这与徐建文等和吕殿青[32的研究结果一致。同时，分蘖期适度干旱胁迫有利于提高研究区旱地春小麦产量，分蘖期轻度干旱胁迫可以较正常供水处理显著增加小麦穗粒数、籽粒灌浆速率、千粒重，从而增加小麦产量[33]。分蘖期干旱胁迫且其他生育期灌水量为 $4 0 0 . 0 0 \mathrm { m m }$ 时，小麦产量最大,研究结果与前人研究结果保持一致[34。不同生育期干旱胁迫对陇中黄土高原区旱地春小麦产量的影响大小依次为：拔节期 $>$ 灌浆期 $>$ 抽穗期 $>$ 开花期 $>$ 出苗期 $\mathrm { \dot { > } }$ 无胁迫 $>$ 分蘗期。
+
+相关研究表明干旱胁迫对小麦产量的影响与干旱胁迫程度有关，同时不同生育期补灌对小麦产量的补偿效应也存在着显著差异[35-36]。黄彩霞等[37]研究结果表明旱区冬小麦拔节期、抽穗期及灌浆期各灌水 $1 0 5 . 0 0 \mathrm { m m }$ 时，小麦籽粒产量达到最高。姚宁等[3研究结果表明相同灌溉水平下，抽穗期和灌浆期灌水，可以提高冬小麦千粒重，但对小麦穗数和穗粒数影响相对较低。周始威等3利用根区水质(Root zonewater quality model,RZWQM)模型对石羊河流域春小麦灌溉制度进行研究，发现出苗期、拔节期、抽穗期和灌浆期灌水 $3 2 3 . 7 0 ~ \mathrm { m m }$ 较为适宜。本研究表明出苗后第 $1 \textup d , 4 7 \textup d , 6 0 \textup d , 8 2 \textup d$ 和86d灌水，且总灌水量为 $3 4 3 . 0 9 \mathrm { ~ m m }$ 时，研究区旱地春小麦产量最大，陇中黄土高原区春小麦生育期总需水量为 $3 2 5 . 3 0 \ \mathrm { m m } ^ { [ 4 0 ] }$ 。同时，过度灌水会增加小麦无效分
+
+# 干吴区地理
+
+蘖数，造成单株叶面积减小,抑制小麦光合作用，从而导致小麦出现减产[41]
+
+# 4结论
+
+（1）APSIM模型对模拟干旱胁迫下陇中黄土高原区旱地春小麦生育期、产量及产量构成均具有较好的拟合度和适宜性。(2）不同生育期干旱胁迫条件下，拔节期干旱胁迫是造成陇中黄土高原区旱地春小麦减产的主要原因，而分蘖期适度干旱胁迫有利于提高该地区旱地春小麦产量。不同生育期干旱胁迫对陇中黄土高原区旱地春小麦产量的影响由大到小依次为：拔节期、灌浆期、抽穗期、开花期、出苗期、无胁迫和分蘖期。（3）不同程度干旱胁迫条件下，灌水量300.00$\mathbf { m } \mathbf { m }$ 的旱地春小麦产量最大为 $4 8 6 6 . 1 9 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ,与其他4种灌水量相比产量分别增加 $2 8 3 . 5 3 \%$ ） $3 9 . 6 5 \%$ 、$0 . 4 6 \%$ 和 $1 5 . 5 8 \%$ O（4）出苗后第 $1 \mathrm { d } , 4 7 \mathrm { d } , 6 0 \mathrm { d } , 8 2 \mathrm { d }$ 和86d灌水,且灌水 $3 4 3 . 0 9 \mathrm { ~ m m }$ 为陇中黄土高原区旱地春小麦最佳灌水时间和灌水量，旱地春小麦产量最高可达$5 5 7 8 . 9 1 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 0
+
+# 参考文献(References)
+
+[1] Wang X C,Li J.Evaluation of crop yield and soil water estimates using the EPIC model for the Loess Plateau of China[J]. Mathematical and Computer Modelling: An International Journal, 2O10,51 (11): 1390-1397.   
+[2] Kheir M, Soufizadeh S,Ghaffari A.Association between temperature and precipitation with dryland wheat yield in northwest of Iran [J]. Climatic Change,2017,141(4): 703-717.   
+[3] 裴雪霞,党建友，张定一，等.近54年来晋南气候变化及其对旱 地小麦产量的影响[J].麦类作物学报，2016,36(11):1502-1509. [Pei Xuexia,Dang Jianyou, Zhang Dingyi,et al. Climate change during nearly 54 years in south of Shanxi and its effect on wheat yield in dry land[J]. Journal of Triticeae Crops,2O16,36(11): 1502-1509.]   
+[4] Zarei AR,Shabani A,Mahmoudi MR.Comparison of the climate indices based on the relationship between yield loss of rain-fed winter wheat and changes of climate indices using GEE model[J]. Science of the Total Environment, 2019,661: 711-722.   
+[5] 杨晓光,刘志娟.作物产量差研究进展[J].中国农业科学,2014, 47(14):2731-2741.[Yang Xiaoguang,Liu Zhijuan.Advances in research on crop yield gaps[J].Scientia Agricultura Sinica,2014, 47(14): 2731-2741.]   
+[6] Carina M,MustafaP,Ahmad MM,etal.Assessing the sustainability of wheat-based cropping systems using simulation modelling[J]. Australian Journal of Agricultural Research,2OO7(58): 75-86.   
+[7]曹宏鑫,赵锁劳,葛道阔,等.作物模型发展探讨[J].中国农业科 学,2011,44(17): 3520-3528.[Cao Hongxin, Zhao Suolao,Ge Daokuo,et al. Discussion on development of crop models[J]. Scientia Agricultura Sinica,2011,44(17): 3520-3528.]   
+[8]张建平,赵艳霞,王春乙,等.不同发育期干旱对冬小麦灌浆和 产量影响的模拟[J].中国生态农业学报,2012,20(9):1158- 1165.[Zhang Jianping,Zhao Yanxia,Wang Chunyi,et al. Impact simulation of drought disaster at diferent developmental stages on winter wheat grain-filling and yield[J]. Chinese Journal of EcoAgriculture,2012,20(9): 1158-1165.]   
+[9]徐建文,梅旭荣,居辉,等.黄淮海地区冬小麦关键生育期不同 灌溉水平对产量影响的模拟[J].作物学报,2014,40(8):1485- 1492.[Xu Jianwen,Mei Xurong,Ju Hui,et al. Simulation of winter wheat yield in response to irrigation level at critical growing stages in the Huang-Huai-Hai Plain[J].Acta Agronomica Sinica, 2014,40(8): 1485-1492.]   
+[10]Flohr B M, Hunt JR,Kirkegaard JA,et al. Water and temperature stress define the optimal flowering period for wheat in south-eastern Australia[J]. Field Crops Research,2017,209:108-119.   
+[11]Wu Lu,Feng Liping,Li Yizhuo.A yield-related agricultural drought index reveals spatio-temporal characteristics of droughts in southwestern China[J]. Sustainability,2019,11(3):701-714.   
+[12] 李广,李玥,黄高宝,等.不同耕作措施旱地小麦生产应对气候 变化的效应分析[J].草业学报,2012,21(5):160-168.[Li Guang, Li Yue,Huang Gaobao,et al.The effects of climate change on dryland wheat production under different tillage systems[J].Acta Prataculturae Sinica,2012,21(5): 160-168.]   
+[13]Keating BA,Carberry PS,Hammer GL,et al.An overview of APSIM,a model designed for farming systems simulation[J]. European Journal of Agronomy,2003,18: 267-288.   
+[14]李广,黄高宝,William Bellotti,等.APSIM模型在黄土丘陵沟壑 区不同耕作措施中的适用性[J].生态学报,2009,29(5):2655- 2663.[Li Guang,Huang Gaobao,William Belloti,et al.Adaptation research of APSIM model under different tillage systems in the Loess hill-gullied region[J].Acta Ecologica Sinica,2009,29(5): 2655-2663.]   
+[15]杨月,刘兵,刘小军,等.小麦生育期模拟模型的比较研究[J]. 南京农业大学学报,2014,37(1): 6-14.[Yang Yue,Liu Bin,Liu Xiaojun, et al. Comparison of phasic development models in wheat [J].Journal of Nanjing Agricultural University,2O14,37(1): 6-14.]   
+[16] 樊栋樑,潘志华,杨霏云,等.APSIM-wheat模型在我国干旱半 干旱地区的适应性评价[J].干旱区资源与环境,2018,32(6): 99-105.[Fan Dongliang,Pan Zhihua, Yang Feiyun,et al.Adaptability of APSIM-wheat model in arid and semi-arid regions: A case study in Inner Mongolia[J]. Journal of Arid Land Resources and Environment,2018,32(6): 99-105.]   
+[17]李艳,薛昌颖,杨晓光,等.基于APSIM模型的灌溉降低冬小麦 产量风险研究[J].农业工程学报,2009,25(10):35-44.[Li Yan, Xue Changyin, Yang Xiaoguang,et al.Reduction of yield risk of winter wheat by appropriate irrigation based on APSIM model[J]. Transactions of the CSAE,2009,25(10): 35-44.]   
+[18] 李迎春,张超英,庞启华,等.干旱胁迫下小麦在不同生育时期 的耐旱性研究[J].西南农业学报,2008,21(3):621-624.[Li Yinchun,Zhang Chaoying,Pang Qihua,et al. Study on wheat resistance to drought in the diferent growing stagesunder drought stress[J]. Southwest China Journal of Agrcultural Sciences,2008, 21(3): 621-624.]   
+[19] 张艳玲.2014年干旱对商丘冬小麦产量影响分析[J].安徽农业 科学,2014,42(29): 10434-10436.[Zhang Yanling.Analysis of the impact of the 2O14 drought on winter wheat yield in Shangqiu City [J]. Journal of Anhui Agricultural Sciences,2014,42(29): 10434- 10436.]   
+[20]Kaur V,Behl R K.Grain yield in wheat asaffcted by short periods of high temperature,drought and their interaction during pre- and post-anthesis stages[J]. Cereal Research Communications, 2010, 38(4): 514-520.   
+[21] 孟兆江,孙景生,段爱旺,等.调亏灌溉条件下冬小麦籽粒灌浆 特征及其模拟模型[J].农业工程学报,2010,26(1):18-23.[Meng Zhaojiang,Sun Jingsheng,Duan Aiwang,et al. Grain filing characteristics of winter wheat with regulated deficit irrigation and its simulation models[J]. Transactions of the CSAE,2010,26(1): 18-23.]   
+[22] Zhang B C,LiF M, Huang G B, et al. Yield performance of spring wheat improve by regulated deficit irrigation in an arid area[J]. Agricultural Water Management,2006,79(1): 28-42.   
+[23]Kang S Z, Zhang L, Liang YL,et al. Effects of limited irrigation on yield and water use efficiency of winter wheat in the Loess Plateau of China[J].Agribultural Water Management,2OO2,55(3): 203-216.   
+[24] 王敏,张从宇,姚维传,等.不同生育期干旱胁迫对小麦产量的 影响[J].安徽农业科学,2001,29(5):605-607,610.[Wang Min, Zhang Congyu,Yao Weichuan,et al.Effects of drought stress in diffrent development stages on wheat yield[J]. Journal of Anhui Agricultural Sciences,2001,29(5): 605-607,610.]   
+[25] 李彦彬,朱亚南,李道西,等.阶段干旱及复水对小麦生长发育、 光合和产量的影响[J].灌溉排水学报,2018,37(8):76-82.[Li Yanbin,Zhu Yanan,Li Daoxi,etal.Effcts of alternating drought and watering on growth,photosynthesis and yield of wither wheat [J]. Journal of Irrigation and Drainage,2018,37(8): 76-82.]   
+[26] 吴少辉,高海涛.干旱对冬小麦粒重形成的影响及灌浆特性 分析[J].干旱地区农业研究,2002,20(2): 49-51.[Wu Shaohui, Gao Haitao.Analysis on the effct of drought on the grain weight grow and the character of the grain filling of winter wheat[J].Agricultural Research in the Arid Areas,2002,20(2): 49-51.]   
+[27] 房稳静,张雪芬,郑有飞.冬小麦灌浆期干旱对灌浆速率的影 响[J].中国农业气象,2006,27(2): 98-101.[Fang Wenjing, Zhang Xuefei, Zheng Youfei. Influence of drought on filling velocity of winter wheat during filing period[J]. Chinese Journal of Agrometeorology,2006,27(2): 98-101.]   
+[28] 田中伟,王妮妮,李怡香,等.分蘖期和拔节期干旱对小麦主茎 和分蘖穗粒形成的影响[J].麦类作物学报,2018,38(6):734- 741.[Tian Zhongwei,Wang Nini,Li Yixiang,et al.Efect of water deficit on main stem and tiller grain number formation of wheat during tillering stage and jointing stage[J].Journal of Triticeae Crops,2018,38(6): 734-741.]   
+[29] 王琛,王连喜,马国飞,等.宁夏灌区春小麦形态结构及干物质 分配对不同时期干旱胁迫的响应[J].生态学杂志.2019,38(7): 2049-2056.[Wang Chen,Wang Lianxi, Ma Guofei, etal. Responses of morphological structure and dry matter allocation of spring wheat to drought stress at different developmental stages in the irrigation districtof Ningxia[J]. Chinese Journal of Ecology,2019,38 (7): 2049-2056.]   
+[30] 刘丽平,欧阳竹,武兰芳,等.阶段性干旱及复水对小麦光合特 性和产量的影响[J].生态学杂志,2012,31(11):2797-2803.[Liu Liping,Ouyang Zhu,Wu Lanfang,et al. Effects of phased drought and re-watering on the photosynthetic characteristics and grain yield of winter wheat[J]. Chinese Journal of Ecology,2O12,31(11): 2797-2803.]   
+[31]Turner N C.Plant water relations and irigation management[J]. Agricultural Water Management,1990,17: 59-73.   
+[32] 吕殿青.陕西黄土区小麦氮肥一次深施的理论依据与增产条件 [J].中国农业科学,1983(5):39-46.[Lyu Dianqing.Theoritical basis of wholly deep dressing of N fertilizer and its application to increase the wheat yield in the loess area of Shaanxi Province[J]. Scientia Agricultura Sinica,1983(5): 39-46.]   
+[33] 张伟杨,钱希肠,李银银,等.土壤干旱对小麦生理性状和产 量的影响[J].麦类作物学报,2016,36(4):491-500.[Zhang Weiyang,Qian Xiyang,Li Yinyin,etal.Effect of soil drought on the physicological traits and grain yield of wheat[J]. Jouranl of Triticeae Crops,2016,36(4): 491-500.]   
+[34] 詹海仙,畅志坚,魏爱丽,等.干旱胁迫对小麦生理指标的影 响[J].山西农业科学,2011,39(10):1049-1051.[Zhan Haixian, Chang Zhijian,Wei Aili,etal.Impact of drought to wheat physiological index[J]. Journal of Shanxi Agricultural Sciences,2011,39 (10): 1049-1051.]   
+[35] 周秋峰,黄长志,王保林.干旱胁迫对小麦生长发育及产量形 成的影响[J].农业科技通讯,201(9):129-133[Zhou Qiufeng, Huang Changzhi,Wang Baolin.Effects of drought stress onwheat growth and yield formation[J]. Bulletin of Agricultural Science and Technology,2011(9): 129-133.]   
+[36] 李钰春,袁淑杰,郭晓梅,等.土壤水分条件对冬小麦生长发育 及产量构成的影响[J].气象与环境学报,2014,30(5):90-97. [Li Yuchun, Yuan Shujie,Guo Xiaomei,et al.Effect of soil moisture ongrowth and yield of winter wheat[J].Journal of Meteorology and Environment, 2014,30(5): 90-97.]   
+[37] 黄彩霞,柴守玺,赵德明,等.灌溉对干旱区冬小麦干物质积累、 分配和产量的影响[J].植物生态学报,2014,38(12):1333- 1344.[Huang Caixia,Chai Shouxi,Zhao Deming,et al.Effects of irrigation on accumulation and distribution of dry matter and grain yield in winter wheat in arid regions of China[J].Chinese Journal of Plant Ecology,2014,38(12): 1333-1344.]   
+[38] 姚宁,宋利兵,刘健,等.不同生长阶段水分胁迫对旱区冬小麦 生长发育和产量的影响[J].中国农业科学,2015,48(12):2379- 2389.[Yao Ning,Song Libin,Liu Jian,et al.Effects of water stress at different growth stages on the development and yields of winter wheat in arid region[J]. Scientia Agricultura Sinica,2O15,48(12): 2379-2389.]   
+[39]周始威,胡笑涛,王文娥,等.基于RZWQM模型的石羊河流域
+
+# 干吴区地理
+
+春小麦灌溉制度优化[J].农业工程学报,2016,32(6):121-127. [Zhou Shiwei,Hu Xiaotao,Wang Wen'e,et al. Optimization of irrigation schedule based on RZWQM model for spring wheat in Shiyang River Basin[J]. Transactions of the CSAE,2016,32(6):121-127.] [40]雷娟娟,闫丽娟,李广，等.基于APSIM模型小麦生育期需水量 的模拟分析[J].草业科学,2016,33(5):871-877.[Lei Juanjuan, Yan Lijuan,Li Guang,et al. Simulation on water requirement of
+
+wheat during growth period by APSIM[J].Pratacultural Science, 2016,33(5): 871-877.] [41]王振华,郑旭荣,姜国军.不同灌水量对滴灌春小麦生长与生理 指标的影响[J].核农学报,2015,9(3):538-548.[Wang Zhenhua, Zheng Xurong, Jiang Guojun.Effects of irrigation amount on the growth and physiological indexes of drip irrigated spring wheat[J]. Journal of Nuclear Agricultural Sciences,2015,9(3): 538-548.]
+
+# Simulation study of response of spring wheat yield to drought stress in the Loess Plateau of central Gansu
+
+WANG Jun'， LI Guang'， NIE Zhigang'， DONG Lixia'， YAN Lijuan²(1.College of Information Science and Technology,Gansu Agricultural University,Lanzhou73oO70,Gansu,China;2.Agronomy College,Gansu Agriculture University,Lanzhou 73oO7O,Gansu, China)
+
+Abstract: We investigate the response mechanisms of different drought stress on growth and yields of spring wheat in the Loess Plateau Region of central Gansu Province, China.In this study,we collected and analyzed field experimental data from the Anjiagou Fengxiang Town,Anding District,Dingxi City from 2016 to 2018,and meteorological data in the Anding District,Dingxi City from 1971 to 2018.The field observation data were used to verify the validity of the Agricultural Production Systems Simulation (APSIM) model under diferent drought stress.The effects of different growth stages and degres of drought stress on growth,grain numbers,thousandgrain weight,and yields of spring wheat were analyzed using the APSIM model. Finally,the optimum irrgation time and quota were selected using the results from the multiple regresson analysis. Our results revealed the root means square error values of the phenology dates,grain numbers,thousand-grain weight,and yield of the simulation model were less than 3.67 d, 300.52 grain $\cdot \mathrm { m } ^ { - 2 }$ ， $2 . 5 6 ~ \mathrm { g } .$ and $2 6 7 . 4 3 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ,respectively. The normalized root means square error values were less than $3 . 8 9 \%$ ， $2 . 8 6 \%$ ， $9 . 7 1 \%$ ,and $1 1 . 5 8 \%$ ,respectively. The model effectiveness index $( M _ { \mathrm { E } } )$ values were higher than 0.62,0.78,0.60,and 0.66,respectively. The results indicate that the model had a good fiting and adaptability under drought stress in the study area.The most influential factor for spring wheat grain numbers was drought stressat the jointing stage,followed by the emergence,tillering, no stress,heading,flowering,and grain filing stages.The most influential factor for the weight of wheat was drought stressat the grain filing stage,followedbythe flowering,heading, no stress,jointing,emergence,and tillering stages.The most influential factor for wheat yield was drought stress at the grain filing stage,followed by the grain filling,heading,flowering, emergence,no stressand tillering stages. Under diferent degrees of drought stress, the yield of irrigation quota of $3 0 0 . 0 0 \mathrm { m m }$ was the maximum value of $4 8 6 6 . 1 9 \mathrm { k g \cdot h m ^ { - 2 } }$ . The yield of irrigation quota of $3 0 0 . 0 0 \mathrm { m m }$ increased by $2 8 3 . 5 3 \%$ $3 9 . 6 5 \%$ $0 . 4 6 \%$ ,and $1 5 . 5 8 \%$ for $1 0 0 . 0 0 \mathrm { m m }$ ， $2 0 0 . 0 0 \mathrm { m m }$ $4 0 0 . 0 0 \mathrm { m m }$ and $5 0 0 . 0 0 ~ \mathrm { m m }$ , respectively. The optimal irrigation times were 1, 47, 60, 82,and $8 6 \mathrm { ~ d ~ }$ after emergence,and the optimal irrigation quota was $3 4 3 . 0 9 \mathrm { m m }$ , and the yield of wheat reached maximum values of $5 5 7 8 . 9 1 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ .A distinct interaction existed between the intensity and occurring stages of drought stress.In general, proper drought stress at the tilering stage was beneficial to increase wheat yield,but the jointing and grain filing stages were critical periods of water demand for spring wheat under drought stress. Reasonable irigation management is needed at these growing stages to increase wheat yield.
+
+Key Words: drought stress；wheat yield; yield component; APSIM model; the Loess Plateau of central Gansu

@@ -1,0 +1,252 @@
+# 班主任协商管理行为、师生关系与小学4\~6年级学生外化问题行为的相互作用关系：交叉滞后研究
+
+谢其利1,2 郑惠珍² 江光荣²任志洪² 樊燕飞2
+
+刘加怀张 文4
+
+(贵州师范学院心理健康教育与咨询中心，贵阳 550018)(青少年网络心理与行为教育部重点实验室，华中师范大学心理学院，湖北省人的发展与心理健康重点实验室，武汉 430079)(湖北省水果湖第一中学，武汉430071)(4湖北省武汉市硚口区教育科学研究室，武汉 430030)
+
+摘要 为探讨班主任协商管理行为、师生关系和学生外化问题行为三者间的相互作用关系，在1个学年中，采用问卷法对1407名小学4-6年级学生进行3次追踪测量。交叉滞后分析结果表明：(1）班主任协商管理行为启动积极的相互作用过程，T1时的班主任协商管理行为能显著减少T2时的学生的外化问题行为、提升T2时的师生关系亲密和降低T2时的师生关系冲突，进而显著影响T3时的班主任协商管理行为、师生关系和学生外化问题行为；(2）学生外化问题行为驱动消极的相互作用过程，T1时的学生外化问题行为能显著减少 T2时的班主任协商管理行为、降低T2时的师生关系亲密和增加T2时的师生关系冲突，进而显著影响 T3时的学生外化问题行为、师生关系和班主任协商管理行为。研究结果支持动态相互作用模型，提示班主任在警醒学生外化问题行为的负面驱动作用的同时，可有意识地利用协商管理行为的积极驱动作用干预学生的外化问题行为。
+
+关键词 班主任协商管理行为，学生外化问题行为，师生关系，相互作用关系，交叉滞后研究分类号 B844
+
+# 1引言
+
+一直以来,外化问题行为(externalizing behaviors)作为中小学生普遍而持久的学校适应不良形式之一受到研究者的广泛关注(Lansford etal.,2018；张彩云,2015)。随着学生进入小学中高年级(小学4\~6 年级)，其多动、不服从、撒谎、打架等外化问题行为显著增加(Lansfordet al.,2018;Petersen et al.,2015)。学生外化问题行为危害自身、同学和教师的当前及未来发展，例如，学生的外化问题行为与自身的低学业成就和心理问题紧密相关(Collins et al.,2016;
+
+Zhang et al.,2018)、负面影响同学的学习和生活(Lanas&Brunila,2019；张彩云,2015)、导致教师较高的职业压力和职业倦怠(Aloe et al.,2014; Malinen& Savolainen,2016)。教师对学生的外化问题行为进行有效管理，有利于师生的发展。
+
+在教师管理学生外化问题行为的众多方法中，协商管理(Lewis etal.,2005；魏书生,2014)和构建积极的师生关系(Lei etal.,2016; Pakarinen et al.,2017)因良好的效果而受到了广泛关注和运用。然而，最近的研究结果却为教师采用协商管理和构建积极的师生关系的方法管理学生的外化问题行为蒙上了一层阴影。例如，Wiliford 和Vitiello(2020)的交叉滞后研究发现，学生的外化问题行为负面影响教师的管理行为，但教师的管理行为却不能预测学生的外化问题行为。多项交叉滞后研究发现，学生外化问题行为能预测师生关系冲突的增加、进而预测学生外化问题行为的增加，学生外化问题行为能预测师生关系亲密的降低、但师生关系亲密却不能预测学生外化问题行为的减少(Mejia& Hoglund,2016; Roorda& Koomen,2021)。这些研究提示，学生的外化问题行为可能会负面影响教师的协商管理行为和师生关系，驱动消极的相互作用过程。
+
+与验证学生外化问题行为的消极驱动作用相比，研究者更关心如何终止并扭转由学生外化问题行为驱动的消极相互作用过程。发展心理学的动态相互作用模型(Transactional Model)认为，个体的发展是个体与环境之间持续、动态相互作用的结果，在环境影响个体的同时、个体的特点和行为也会反作用于环境(Sameroff,2009)。基于该理论，教师协商管理行为、师生关系和学生外化问题行为三者可能会相互影响，任何一方的改变均可能导致相互作用过程的改变(Sameroff,2009)。教师的协商管理行为也许可以终止学生外化问题驱动的消极相互作用过程、启动积极的相互作用过程，但需要追踪研究对此进行验证。
+
+在中国，班主任是管理中小学生在校期间的外化问题行为的第一责任人(中华人民共和国教育部,2009)。班主任与学生相处时间长、互动频繁，其管理行为(如，协商管理行为)对学生外化问题行为的影响较一般科任教师可能更大(江光荣,2004；魏书生,2014)。探讨班主任协商管理行为、班主任与学生的关系和学生外化问题行为间的相互作用关系更符合中国的教育实际。因此，本研究将以动态相互作用模型为理论基础，关注班主任协商管理行为、师生关系和学生外化问题行为三者间的相互作用关系。
+
+# 1.1班主任协商管理行为与学生外化问题行为的相互作用
+
+班主任协商管理行为可以减少学生外化问题行为(Cheon et al.,2020；魏书生,2014)。协商管理行为是指班主任/教师听取学生的声音，让学生参与到外化问题行为管理的决策和执行过程中，师生讨论如何预防外化问题行为、讨论外化问题行为发生的原因及改进方式、注重学生的自我管理等行为(Lewisetal.,2005；魏书生，2014)。自我决定理论(Self-Determination Theory)认为，个体有3 种基本的心理需求——对于自主、能力和关系的需要，这三种心理需求得到满足会促进个体的社会功能发展，反之则会导致个体的社会功能适应不良(Ryan&Deci,2017)。从该理论看，师生协商降低了班主任对学生的控制，学生的自主需求得到满足；学生参与外化问题行为的管理，学生的能力需求得到满足，因此班主任的协商管理行为可以减少学生的外化问题行为(Cheon etal.,2019)。
+
+同时，学生外化问题行为也可能影响班主任协商管理行为。探讨学生外化问题对教师管理行为的影响，可帮助教师觉察、调整使用合适的管理行为(McGrath& Bergen,2015)。虽然目前探讨学生外化问题行为影响班主任/教师管理行为(如，协商管理行为)的实证研究较少，但有不少间接证据。例如，班主任/教师发现，学生外化问题行为的发生频率和严重程度会影响其管理学生外化问题行为的方式(De Ruiter etal.,2020；魏书生,2014)。如果学生平时的外化问题行为较少，班主任/教师倾向于采用温和的方式(如，提醒)对该生进行管理；而如果学生平时的外化问题行为较多，班主任/教师倾向于采用严厉的方式(如，批评)对该生进行管理(Dunkake＆ Schuchart,2015；魏书生,2014)。最近的一项交叉滞后研究也证实，学生外化问题行为负向预测教师的课堂管理行为(Williford&Vitiello,2020)。
+
+# 1.2师生关系与学生外化问题行为的相互作用
+
+师生关系对学生的外化问题行为有重要影响(Lei et al.,2015; Sutherland et al.,2020)。基于依恋理论(Attchment Theory)，研究者认为，师生关系包含三个维度：师生关系亲密，师生关系是温暖、亲切和有效的；师生关系冲突，师生关系是消极、紧张和无效的；师生关系依赖，学生过度依赖老师、与老师的界限不清晰(Bowlby,1969; Pianta,2001)。亲密的师生关系就像一个安全基地，促进学生自由探索，减少其外化问题行为(Pakarinen et al.,2017; Pianta,2001)。从自我决定理论的角度看，亲密的师生关系能满足学生对于关系的心理需求，从而减少其外化问题行为(Reeve,2009;Ryan&Deci,2017)。追踪研究证实，亲密的师生关系可以减少学生外化问题行为、而冲突的师生关系则会导致或加重学生外化问题行为(Crockett et al,2017; De Laet et al., 2016; Ettekal & Shi, 2020)。
+
+随着研究的进展，师生关系对学生外化问题行为的单向作用受到了部分研究者的质疑，他们认为，学生外化问题行为会负面影响师生关系(Henricsson&Rydell,2004; Rudasill,2011)。近年来的一系列交叉滞后研究证实，在师生关系影响学生外化问题行为的同时，学生外化问题行为也会降低师生关系亲密、增加师生关系冲突(Crocket et al.,2017;Ettekal&Shi,2020;Ly& Zhou,2018)。例如，Roorda 和Koomen(2021)的交叉滞后研究发现，学生的外化问题行为负向预测其感知的师生关系亲密、正向预测其感知的师生关系冲突。
+
+# 1.3班主任协商管理行为与师生关系的相互作用
+
+班主任协商管理行为可能有利于构建积极的师生关系(Rogers&Freiberg,1994)。师生关系是在教师和学生相遇之后逐渐发展起来的(Mejia&Hoglund,2016)，师生双方的行为和特点均会对师生关系的发展产生影响(Sameroff,2009)。但因为教师在师生互动过程中处于优势地位，所以教师的行为在师生关系的发展过程中起着比学生的行为更重要的作用(Kincade etal.,2020;Reeve,2009)。以人为中心的理论指出，教师行为中的非指导、积极关注、温暖、真诚、尊重等特点是促进积极的师生关系形成的关键(Cormelius-White,2007)。协商管理具备尊重学生、非指导等特点，因此可能会促进师生关系亲密、降低师生关系冲突(Lewis et al.,2005; Rogers & Freiberg, 1994)。
+
+同时，师生关系可能会影响班主任协商管理行为。教师发展的“压力和应对动态相互作用模型”(Transactional Model of Stress and Coping)指出，师生关系可能会影响师生互动行为(Lazarus,1991; Spilt et al.,2011)。亲密的师生关系为班主任/教师提供积极的情感线索，触发其积极管理行为；冲突的师生关系则会激发班主任/教师的负面情绪，导致其消极管理行为(Spilt et al.,2011)。追踪研究发现，师生关系冲突负向预测教师的学生行为管理效能感(Zee etal.,2017)。在高管理效能感的情况下，教师容易采用积极的方式管理学生的外化问题行为，而在低管理效能感的情况下，教师容易采用消极的方式管理学生的外化问题行为(Reeve,2009；魏书生,2014)。这些研究间接提示，师生关系可能会影响班主任的协商管理行为。
+
+# 1.4班主任协商管理行为、师生关系和学生外化问题行为的相互作用
+
+在将师生关系视为班主任协商管理行为和学生外化问题行为的结果的情况下，班主任协商管理行为、师生关系和学生外化问题行为三者间还可能存在以下相互作用关系。
+
+班主任协商管理行为可能会通过师生关系影响学生外化问题行为;学生外化问题行为也可能会通过师生关系影响班主任协商管理行为。一方面，班主任协商管理行为有利于构建积极的师生关系(Rogers&Freiberg,1994)，而师生关系又影响学生外化问题行为(Pakarinen etal.,2017)，因此，班主任协商管理行为可能会通过师生关系影响学生外化问题行为。另一方面，学生外化问题会影响师生关系(Crockett et al.,2017; Roorda& Koomen,2021)，师生关系会影响班主任协商管理行为(Spilt etal.,2011)。因此，学生外化问题行为也可能会通过师生关系影响班主任协商管理行为。
+
+班主任协商管理行为可能会通过学生外化问题行为影响师生关系；学生外化问题行为也可能会通过班主任协商管理行为影响师生关系。一方面，班主任协商管理行为可能会降低学生外化问题行为(Ryan&Deci,2017)，而学生外化问题行为会影响师生关系(Ettekal& Shi,2020;Roorda&Koomen,2021)，因此，班主任协商管理行为可能通过学生外化问题行为影响师生关系。另一方面，学生外化问题行为可能会影响班主任协商管理行为(Dunkake &Schuchart,2015)，而班主任协商管理行为又会影响师生关系(Freiberg et al.,2009;Lewis et al.,2005)，因此，学生外化问题行为可能会通过班主任协商管理行为影响师生关系。
+
+综上，本研究基于动态相互作用模型，以中国小学 $4 { \sim } 6$ 年级学生为研究参与者，采用连续三次测量的追踪研究设计，探讨班主任协商管理行为、师生关系和学生外化问题行为三者间复杂的相互作用关系，以期深入提示三者间的相互影响机制，为个体发展的“动态相互作用模型”和教师发展的“压力和应对动态相互作用模型”补充证据，并为干预小学4\~6年级学生的外化问题行为提供依据。
+
+# 2研究方法
+
+# 2.1研究参与者
+
+采用方便整群抽样的方式，选取三个省市地区7所小学39个班的4\~6年级学生为本研究的参与者，分别是：湖北省武汉市2所城区小学、贵州省黔南州3所农村小学、贵州省遵义市1所农村小学和四川省攀枝花市1所农村小学。新学年的10月中旬进行第1次测量(以下简称T1)，次年3月中旬进行第2次测量(以下简称T2)，次年6月中旬进行第3次测量(以下简称 T3)；T1时有1587名学生参加调查，共有1407名学生参加了全部3次调查，一共流失180人，流失率为 $1 1 . 3 4 \%$ 。分析结果显示，完成全部3次调查的参与者与流失的参与者在性别 $[ \chi ^ { 2 } ( 1 ) = 0 . 6 5$ ， $p = 0 . 4 2 ]$ 、年龄 $[ ( t ( 1 5 8 5 ) = - 1 . 3 2$ ， $p = 0 . 1 9 { \dot { ) } } .$ 及T1时的班主任协商管理行为 $[ ( t ( 1 5 8 5 )   =  - 0 . 9 6 , p = 0 . 3 3 ) ]$ 、师生关系亲密 $[ ( t ( 1 5 8 5 )   = - 1 . 1 6 ,  p = 0 . 2 5 ) ]$ 、师生关系冲突[(t$( 1 5 8 5 ) = - 0 . 1 2 , p = 0 . 9 1 ) _ { . }$ 和学生外化问题行为 $[ ( t \left( 1 5 8 5 \right) = 0 . 9 0 , p = 0 . 3 7 ) ]$ 上均未发现显著差异，表明参与者不存在结构化缺失。3次测量均参加的学生为本研究的参与者。其中，湖北省703人 $( 5 0 . 0 0 \% )$ ，贵州省 511人 $( 3 6 . 3 0 \% )$ ，四川省193人 $( 1 3 . 7 0 \% )$ ；自评家庭经济状况(5级计分)：贫困36人 $( 2 . 5 6 \% )$ ，比较贫困117人 $( 8 . 3 2 \% )$ ，一般951人 $( 6 7 . 5 9 \% )$ ，比较富裕 257人 $( 1 8 . 2 6 \% )$ ，富裕46人 $( 3 . 2 7 \% )$ ；参与者年级、性别、年龄等人口学信息见表1。
+
+表1参与者年级、性别、年龄等人口学信息  
+
+<html><body><table><tr><td>年级</td><td>男</td><td>女</td><td>总计</td><td>年龄(M±SD)</td></tr><tr><td>四</td><td>142</td><td>143</td><td>285</td><td>9.76±0.69</td></tr><tr><td>五</td><td>274</td><td>235</td><td>509</td><td>10.59±0.64</td></tr><tr><td>六</td><td>314</td><td>299</td><td>643</td><td>11.55±0.76</td></tr><tr><td>总计</td><td>730</td><td>677</td><td>1407</td><td>10.84±0.99</td></tr></table></body></html>
+
+# 2.2研究工具
+
+# 2.2.1班主任协商管理行为问卷
+
+采用Lewis 等(2005)编制的课堂纪律管理策略问卷(Classroom Discipline StrategiesQuestionnaire,CDSQ)的讨论(Discussion)和参与(Involvement)分问卷，来测量班主任的协商管理行为(即，班主任与学生讨论、商量、学生参与到班级及自身外化问题行为管理的决策和执行过程中的行为。例如，班主任和全班同学共同讨论制定奖励良好行为的班规；通过讨论，班主任让我们明白有的行为会对其他人造成不好的影响)。研究团队中心理学专业的2名博士生和2名硕士生对量表进行了多轮翻译，然后请1位持有英语一级翻译证书的高校外语教师对问卷进行回译、并对翻译的质量进行把关。根据一线班主任的建议对语言表达进行了微调，将条目中的“教师”明确为“班主任”。问卷共7个自评条目，5级计分( $1 =$ 完全没有，$5 =$ 总是如此)，总分越高表明学生感知到的班主任的协商管理行为越多。使用T1的数据对问卷进行验证性因子分析，结果表明问卷的结构效度良好 $( \chi ^ { 2 } / d f = 3 . 2 6$ ，RMSEA $= 0 . 0 4$ ，NFI$= 0 . 9 7$ ， $\mathrm { I F I } = 0 . 9 8$ ， $\mathrm { C F I } = 0 . 9 8 \$ )。在本研究中，问卷在T1、T2 和 T3 时的Cronbach's $\boldsymbol { a }$ 系数分别为0.77、0.85、0.87。
+
+# 2.2.2师生关系问卷
+
+采用学生感知师生关系量表简版(Student Perception of Affective Relationship withTeacher Scale,SPARTS)的亲密维度和冲突维度来测量学生感知的师生关系(Koomen&Jellesma,2015;Zee＆de Bree,2016)。两个维度各含6个自评条目(本研究将条目中的“教师”明确为“班主任”），7级计分( $1 =$ 完全不符合， $7 =$ 完全符合)，总分越高表明学生感知的师生关系亲密/冲突程度越高。研究团队中心理学专业的2名博士生和2名硕士生对量表进行了多轮翻译，然后请1位持有英语一级翻译证书的高校外语教师对问卷进行回译、并对翻译的质量进行把关。使用T1的数据对问卷进行验证性因子分析，结果表明问卷的结构效度良好 $( \chi ^ { 2 } / d f = 3 . 6 9$ ，RMSEA $= 0 . 0 4$ ， $\mathrm { N F I } = 0 . 9 5$ ， $\mathrm { I F I } = 0 . 9 6$ ， $\mathrm { C F I } = 0 . 9 6 \$ )。在本研究中，师生关系亲密维度在 T1、T2 和 T3 时的Cronbach's $\boldsymbol { a }$ 系数分别为0.79、0.81、0.87；师生关系冲突维度在T1、T2 和 T3 时的 Cronbach's $\scriptstyle a$ 系数分别为0.71、0.76、0.73。
+
+# 2.2.3外化问题行为问卷
+
+采用Goodman(20o1)编制的困难与长处问卷(Strengths and Difficulties Questionnaire,SDQ)中文版(许文兵 等，2019)的品行问题(Conduct Problems)和多动—一注意不能(Hyperactivity-Inattention)分问卷，测量学生自我报告的外化问题行为(如，多动、不服从、撒谎、打架等)。问卷共10个自评条目，5级计分( $1 =$ 完全不符合， $5 =$ 完全符合)，总分越高表明学生的外化问题行为越严重。使用T1的数据对问卷进行验证性因子分析，结果表明问卷的结构效度良好 $( \chi ^ { 2 } / d f = 5 . 3 4$ ，RMSEA $= 0 . 0 6$ ， $\mathrm { N F I } = 0 . 9 4$ ， $\mathrm { I F I } = 0 . 9 5$ ， $\mathrm { C F I } = 0 . 9 5$ 。在本研究中，问卷在 T1、T2 和 T3 时的 Cronbach's $\boldsymbol { a }$ 系数分别为0.80、0.84、0.82。
+
+# 2.3调查程序
+
+在征得学校和学生本人的知情同意后，以班级为单位进行团体施测，调查由学校专职心理教师组织，统一指导语、集体发放问卷，志愿参加的学生匿名回答问卷，当场核对、回收问卷，该班的班主任回避。每次测量时参与者完成全部问卷约需要15分钟。
+
+# 2.4共同方法偏差的控制与检验
+
+本研究首先从测量程序上控制共同方法偏差，例如部分题目反向计分、匿名填写问卷等。在正式数据分析前，采用Harman 单因子检验法对共同方法偏差进行检验，结果发现，在3次测量中，特征值大于1的因子总数依次为4个、4个、5个，未经旋转的第一个因子解释的变异量分别为 $2 1 . 6 6 \%$ 、 $2 7 . 5 6 \%$ 、 $2 8 . 5 3 \%$ ，均小于 $40 \%$ 的临界值。表明本研究的3次测量均不存在明显的共同方法偏差(汤丹丹，温忠麟,2020)。
+
+# 2.5数据分析
+
+采用 SPSS 20.0 和Mplus 7.04 对数据进行分析。首先计算三个时间点的班主任协商管理行为、师生关系亲密/冲突和学生外化问题行为的平均得分，采用 Pearson 相关分析计算三个时间点上变量之间的相关系数。然后，分两步构建交叉滞后模型。第一步，构建交叉滞后模型，考察三个时间点的班主任协商管理行为与学生外化问题行为之间的相互作用关系。第二步，在上一模型的基础上，分别加入师生关系亲密或师生关系冲突，分析三个时间点的班主任协商管理行为、师生关系亲密/冲突与学生外化问题行为之间的相互作用关系。所有的变量均采用总分均值作为显变量进行模型分析。
+
+由于参与者填答、数据录入等原因，研究数据存在一定的缺失值，因而首先采用缺失值完全随机的Little 检验对缺失值的随机性进行检验，结果发现缺失值呈随机分布， $\chi ^ { 2 } ( 7 6 ) =$ 74.23, $p = 0 . 5 4$ 。因此，采用极大似然估计(ML)对缺失值进行处理(Berry&Willoughby,2017)。
+
+# 3结果
+
+# 3.1班主任协商管理行为、师生关系和学生外化问题行为的描述统计
+
+相关分析结果表明(表2)，3个时间点上的班主任协商管理行为、师生关系亲密、师生关系冲突和学生外化问题行为之间的两两相关均显著；部分人口学变量与3个时间点上的班主任协商管理行为、师生亲密、师生关系冲突和学生外化问题行为之间的相关显著(后续的交叉滞后模型构建及检验将学生年龄、性别、自评家庭经济状况和来源地等人口学变量作为
+
+协变量纳入交叉滞后模型进行统计控制)。
+
+表2班主任协商管理行为、师生关系和小学4\~6年级学生外化问题行为之间的相关分析  
+
+<html><body><table><tr><td>变量</td><td>M±SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr><tr><td>1.T1年龄</td><td>10.84 ± 0.99</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.T1性别</td><td>0.52 ±0.50</td><td>0.06*</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.T1家庭经济状况</td><td>3.11 ± 0.70</td><td>-0.05</td><td>0.03</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.T1来源地</td><td>0.50±0.50</td><td>0.07*</td><td>0.02</td><td>0.40***</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.T1协商管理行为</td><td>4.45± 0.66</td><td>0.04</td><td>-0.05</td><td>0.17***</td><td>0.20**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.T2 协商管理行为</td><td>4.48 ± 0.67</td><td>0.02</td><td>-0.06*</td><td>0.16***</td><td>0.17***</td><td>0.43***</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7.T3 协商管理行为</td><td>4.44 ± 0.73</td><td>-0.01</td><td>-0.05</td><td>0.11***</td><td>0.18***</td><td>0.43***</td><td>0.55***</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8.T1师生关系亲密</td><td>5.28 ± 1.35</td><td>-0.01</td><td>-0.02</td><td>0.19***</td><td>0.27****</td><td>0.53**</td><td>0.43***</td><td>0.43***</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9.T2师生关系亲密</td><td>5.31 ± 1.39</td><td>-0.01</td><td>0.01</td><td>0.15***</td><td>0.26***</td><td>0.37***</td><td>0.58***</td><td>0.50***</td><td>0.54***</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10.T3 师生关系亲密</td><td>5.33 ± 1.40</td><td>0.01</td><td>0.01</td><td>0.19****</td><td>0.29***</td><td>0.34**</td><td>0.44****</td><td>0.62***</td><td>0.51***</td><td>0.63***</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11.T1 师生关系冲突</td><td>2.19 ± 1.15</td><td>0.04</td><td>0.15***</td><td>-0.13***</td><td>-0.19***</td><td>-0.34***</td><td>-0.30***</td><td>-0.30***</td><td>-0.39***</td><td>-0.32***</td><td>-0.32***</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>12.T2师生关系冲突</td><td>2.14 ± 1.17</td><td>0.03</td><td>0.08**</td><td>-0.17***</td><td>-0.28***</td><td>-0.27***</td><td>-0.43***</td><td>-0.36***</td><td>-0.33***</td><td>-0.48***</td><td>-0.41***</td><td>0.44***</td><td>1</td><td></td><td></td><td></td></tr><tr><td>13.T3师生关系冲突</td><td>2.15 ± 1.17</td><td>0.03</td><td>0.11***</td><td>-0.13***</td><td>-0.21***</td><td>-0.26***</td><td>-0.34***</td><td>-0.45***</td><td>-0.32***</td><td>-0.41***</td><td>-0.49***</td><td>0.36***</td><td>0.50***</td><td>1</td><td></td><td></td></tr><tr><td>14.T1外化问题行为</td><td>1.56 ± 0.51</td><td>0.05*</td><td>0.17***</td><td>-0.14***</td><td>-0.21***</td><td>-0.22***</td><td>-0.22***</td><td>-0.20**</td><td>-0.31***</td><td>-0.25***</td><td>-0.23***</td><td>0.31***</td><td>0.26***</td><td>0.22***</td><td>1</td><td></td></tr><tr><td>15.T2外化问题行为</td><td>1.51 ± 0.52</td><td>0.06*</td><td>0.12**</td><td>-0.15***</td><td>-0.25***</td><td>-0.21***</td><td>-0.34***</td><td>-0.31**</td><td>-0.30***</td><td>-0.37***</td><td>-0.35***</td><td>0.24***</td><td>0.39***</td><td>0.32***</td><td>0.51***</td><td>1</td></tr><tr><td>16.T3外化问题行为</td><td>1.49 ± 0.49</td><td>0.11***</td><td>0.10***</td><td>-0.15***</td><td>-0.18***</td><td>-0.19***</td><td>-0.28***</td><td>-0.33***</td><td>-0.27***</td><td>-0.31***</td><td>-0.38***</td><td>0.22***</td><td>0.29***</td><td>0.36***</td><td>0.43***</td><td>0.59***</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5 , ^ { * * } p < 0 . 0 1 , ^ { * * } p < 0 . 0 0 1$ ；性别为虚拟变量：男 $^ { \circ } = 1$ ，女 $\mathbf { \varepsilon } = 0$ ；来源地为虚拟变量：湖北省 ${ \bf \varepsilon } = 1 \$ ，湖北省以外地区 $\mathbf { \varepsilon } = 0$ (因湖北省与其他地区的学生在三个时间点上的主要变量上均存在显著差异，故将来源地划分为两类进行虚拟编码)；下同。
+
+# 3.2交叉滞后模型的构建及检验
+
+# 3.2.1班主任协商管理行为与学生外化问题行为的交叉滞后分析
+
+在相关分析的基础上构建交叉滞后模型，探讨班主任协商管理行为与学生外化问题行为之间的纵向关系。构建如图1所示的假设模型，对图1的模型进行拟合，结果发现拟合良好，$\chi ^ { 2 } ( 2 ) = 4 . 6 6$ ， $p = 0 . 0 9$ ， $\mathrm { C F I } = 0 . 9 9$ ， $\mathrm { T L I } = 0 . 9 8$ ，RMSEA $= 0 . 0 3$ （ $90 \%$ CI: 0.001, 0.07)， SRMR$= 0 . 0 1$ 。模型路径显示，在控制协变量(学生年龄、性别、自评家庭经济状况和来源地)、自回归和同时相关后，T1的班主任协商管理行为跨时间点负向预测 T2 的学生外化问题行为(β$= - 0 . 0 6 , p = 0 . 0 1 \AA$ ,T2 的学生外化问题行为跨时间点负向预测 T3 的班主任协商管理行为 $\beta =$ $- 0 . 1 1 , p < 0 . 0 0 1 )$ ；T1 的学生外化问题行为跨时间点负向预测T2的班主任协商管理行为( $\beta =$ $- 0 . 1 0 , p < 0 . 0 0 1 \rangle$ ，T2 的班主任协商管理行为跨时间点负向预测T3 的学生外化问题行为( $\beta =$ $- 0 . 1 0 , p < 0 . 0 0 1 )$ 。结果表明，班主任协商管理行为与学生外化问题行为之间存在相互作用关系。
+
+![](images/09dc35b02a4ca3dd192a4b6cc282e03bc77c32a9dbad95c95368eff8f28db8af.jpg)  
+图1班主任协商管理行为与学生外化问题行为的交叉滞后模型图
+
+注：交叉滞后模型控制了学生年龄、性别、自评家庭经济状况和来源地等协变量，但为了呈现简洁，其路径系数未在图中标注；图中单箭头线为预测关系，双箭头线为相关关系；实线为显著的路径，虚线为不显著的路径；图中所标注的系数均为标准化系数；下同。
+
+# 3.2.2班主任协商管理行为、师生关系亲密与学生外化问题行为的交叉滞后分析
+
+为考察班主任协商管理行为、师生关系亲密与学生外化问题行为之间的相互作用关系，在图1的交叉滞后模型的基础上纳入师生关系亲密(图2)。对图2的模型进行拟合，结果表明拟合良好， $\chi ^ { 2 } ( 6 ) = 2 2 . 7 8$ ， $p < 0 . 0 0 1$ ， $\mathrm { C F I } = 0 . 9 9$ ， $\mathrm { T L I } = 0 . 9 6$ ，RMSEA $= 0 . 0 5$ （ $90 \%$ CI: 0.03,0.06)， $\operatorname { S R M R } = 0 . 0 1$ 。
+
+模型路径显示，在控制协变量(学生年龄、性别、自评家庭经济状况和来源地)、自回归和同时相关后，T1的班主任协商管理行为跨时间点正向预测 T2 的师生关系亲密 $( \beta = 0 . 0 8 , p$ $= 0 . 0 0 2 )$ 、不能跨时间点预测T2 的学生外化问题行为 $( \beta = - 0 . 0 1 , p = 0 . 8 1 )$ ，T2 的班主任协商管理行为跨时间点正向预测 T3 的师生关系亲密 $( \beta = 0 . 0 6 , p = 0 . 0 1 )$ 、负向预测 T3 的学生外化问题行为 $( \beta = - 0 . 0 6 , p = 0 . 0 2 )$ ；T1的师生关系亲密跨时间点负向预测T2的学生外化问题行为 $( \beta = - 0 . 1 3 , p < 0 . 0 0 1 )$ 、正向预测 T2 的班主任协商管理行为 $( \beta = 0 . 2 6 , p < 0 . 0 0 1 )$ ，T2的师生关系亲密跨时间点负向预测 T3 的学生外化问题行为 $( \beta = - 0 . 0 9 , p = 0 . 0 0 2 )$ 、正向预测 T3时的班主任协商管理行为 $( \beta = 0 . 2 5 , p < 0 . 0 0 1$ ); T1 的学生外化问题行为跨时间点负向预测 T2的班主任协商管理行为 $( \beta = - 0 . 0 5 , p = 0 . 0 4 )$ 和 T2 的师生关系亲密 $( \beta = - 0 . 0 7 , p = 0 . 0 0 3 )$ ；T2时的学生外化问题行为跨时间点负向预测 T3 的班主任协商管理行为 $( \beta = - 0 . 0 6 , p = 0 . 0 1 )$ 和T3 的师生关系亲密 $( \beta = - 0 . 0 8 , p < 0 . 0 0 1 )$ 。结果表明，班主任协商管理行为、师生关系亲密和学生的外化问题行为三者间存在相互作用关系。
+
+![](images/947684b2754fe6b052c979935eaeef1a0e9f7b2594fd4f1a4efbc1aabe6a0957.jpg)  
+图2班主协商管理行为、师生关系亲密与学生外化问题行为的交叉滞后模型图
+
+注：变量之间的同时相关均在0.001水平上显著，为呈现简洁，图中未标注，下同。
+
+# 3.2.3班主任协商管理行为、师生关系冲突与学生外化问题行为的交叉滞后分析
+
+为考察班主任协商管理行为、师生关系冲突与学生外化问题行为之间的相互作用关系，在图1的交叉滞后模型的基础上纳入师生关系冲突(图3)。对图3的模型进行拟合，结果发现拟合良好， $\chi ^ { 2 } ( 6 ) = 1 6 . 9 0$ ， $p = 0 . 0 0 9$ ， $\mathrm { C F I } = 0 . 9 9$ ， $\mathrm { T L I } = 0 . 9 6$ ，RMSEA $= 0 . 0 4$ （ $90 \%$ CI: 0.02,0.06)， $\operatorname { S R M R } = 0 . 0 1$ 。
+
+模型路径显示，在控制协变量(学生年龄、性别、自评家庭经济状况和来源地)、自回归和同时相关后,T1的班主任协商管理行为跨时间点负向预测 T2 的师生关系冲突 $( \beta = - 0 . 1 0 , p$ $< 0 . 0 0 1 \dot { }$ )和 T2 的学生外化问题行为 $( \beta = - 0 . 0 7 , p = 0 . 0 1 )$ ，T2 的班主任协商管理行为跨时间点负向预测 T3 的师生关系冲突 $( \beta = - 0 . 1 0 , p < 0 . 0 0 1 )$ 和 T3 的学生外化问题行为 $( \beta = - 0 . 0 9 , p <$ 0.001)；T1的师生关系冲突不能跨时间点预测 T2 的学生外化问题行为 $( \beta = 0 . 0 4 2 , p = 0 . 1 1 )$ ，能负向预测 T2 的班主任协商管理行为 $( \beta = - 0 . 1 6 , p < 0 . 0 0 1 )$ ，T2 的师生关系冲突不能跨时间点预测 T3的学生外化问题行为 $( \beta = 0 . 0 4 , p = 0 . 1 0 )$ 、能负向预测 T3 的班主任协商管理行为(β$= - 0 . 1 4 , p < 0 . 0 0 1 )$ ；T1 的外化问题行为跨时间点负向预测T2的班主任协商管理行为 $( \beta =$ $- 0 . 0 7 , p = 0 . 0 0 1 )$ 、正向预测 T2 的师生关系冲突 $( \beta = 0 . 1 1 , p < 0 . 0 0 1 )$ ，T2 的外化问题行为跨时间点负向预测T3 的班主任协商管理行为 $( \beta = - 0 . 0 8 , p = 0 . 0 0 1 )$ 、正向预测 T3 的师生关系冲突 $( \beta = 0 . 1 2 , p < 0 . 0 0 1 )$ 。结果表明，班主任协商管理行为与师生关系冲突间存在相互作用关系，班主任协商管理行为与学生的外化问题行为间存在相互作用关系，学生外化问题行为能正向预测师生关系冲突、但师生关系冲突不能预测学生外化问题行为。
+
+![](images/078667b694e036ea56e9f655a55b54697e8bb78d15fbd990a4c268b20b5b7e18.jpg)  
+图3班主任协商管理行为、师生关系冲突与学生外化问题行为的交叉滞后模型图
+
+# 4讨论
+
+本研究基于动态相互作用模型，以中国4-6年级学生为研究对象，通过连续3次追踪测量，考察班主任协商管理行为、师生关系与学生外化问题行为的相互作用关系。研究发现：(1）班主任协商管理行为启动积极的相互作用过程：T1的班主任协商管理行为减少T2 的学生外化问题行为、提升T2 的师生关系亲密、降低 T2 的师生关系冲突，进而影响 T3 的班主任协商管理行为、师生关系和学生外化问题行为。(2）学生外化问题行为驱动消极的相互作用过程：T1的学生外化问题行为减少T2 的班主任协商管理行为、降低 T2师生关系亲密、增加 T2 的师生关系冲突，进而影响T3的学生外化问题行为、师生关系和班主任协商管理行为。结果表明，班主任协商管理行为和师生关系亲密的积极作用没有消失，在一定程度上驱散了已有研究带来的阴影。结果为“动态相互作用模型”和“压力和应对动态相互作用模型”补充了证据，对干预学生的外化问题行为具有一定的启示意义。
+
+# 4.1班主任协商管理行为启动积极的相互作用过程
+
+班主任协商管理行为负向预测学生外化问题行为，这一结果与国外已有研究及国内优秀班主任的经验总结一致(Cheon et al.,2020；魏书生,2014)，表明班主任听取学生的声音，让学生参与到学生外化问题行为管理的决策和执行过程中，可以有效地降低学生的外化问题行为。但这一结果与已有交叉滞后研究认为教师管理行为不能预测学生外化问题行为的结果不一致(Wiliford & Vitiello,2020)。其原因可能是，教师的积极管理行为发挥作用需要一定的时间(Evertson&Weinstein,2013)，而Wiliford 和 Vitiello(2020)的研究以1天为时间单元进行课堂观察，可能无法观察到教师积极管理行为的作用。本研究的结果还发现，班主任协商管理行为减少学生外化问题行为，进而增加师生关系亲密、降低师生关系冲突，表明班主任协商管理行为通过学生外化问题行为间接影响师生关系，这为教师管理行为影响师生关系的机制提供了一种可能的解释(Roorda&Koomen,2021)。
+
+与已有横断研究的结果一致(Freiberg et al.,2009)，本研究发现，班主任协商管理行为增加师生关系亲密、降低师生关系冲突，进一步证实了班主任/教师的协商管理行为有利于积极的师生关系形成(Cornelius-White,2007; Rogers &Freiberg,1994)。而且，师生关系亲密正向预测班主任协商管理行为、师生关系冲突负向预测班主任协商管理行为，这为教师发展的“压力和应对动态相互作用模型”(Spilt etal.,2011)提供了重要证据。从班主任的角度看，亲密的师生关系为班主任提供了积极的情感线索，增加其协商管理行为；冲突的师生关系可能诱发班主任的负面情绪，导致其协商管理行为减少(Spilt et al.,2011; Zee et al.,2017)。从学生的角度看，在亲密的师生关系背景下，学生对班主任的管理行为解读偏积极，而在冲突的师生关系背景下，学生可能对班主任的管理行为解读偏消极(McGrath& Bergen,2015)。
+
+本研究还发现，班主任协商管理行为提升师生关系亲密、降低师生关系冲突，并通过师生关系亲密间接减少学生外化问题行为。从自我决定理论的角度看，这是因为班主任协商管理行为促进了积极的师生关系，满足了学生对于关系的心理需求，因而可以降低学生外化问题行为(Ryan&Deci,2017)。这一发现有助于理解教师协商管理行为影响学生外化问题行为的机制。而且，师生关系亲密负向预测学生外化问题行为，与已有交叉滞后研究认为师生关系亲密的积极作用消失了的结果不同(Mejia&Hoglund,2016; Roorda & Koomen,2021)。可能的原因是，在小学阶段，亲密的师生关系对减少学生的外化问题行为有重要作用(Ettekal&Shi,2020)，且班主任与学生互动频繁，对学生的影响较其他科任老师更大(江光荣,2004)。
+
+总之，班主任协商管理行为启动了积极的相互作用过程：班主任协商管理行为提升了积极的师生关系、有效减少学生外化问题行为，并进一步影响班主任协商管理行为、师生关系和学生外化问题行为。
+
+# 4.2学生外化问题行为驱动消极的相互作用过程
+
+学生外化问题行为减少班主任协商管理行为，并进一步增加学生外化问题行为，证实了学生外化问题行为会负面影响教师的管理行为(McGrath&Bergen,2015;Williford& Vitiello,2020)。学生外化问题行为影响班主任协商管理行为可能有以下的原因：首先，学生外化问题行为会触发班主任的反应性管理行为，导致班主任协商管理行为减少(Evertson&Weinstein,2013；魏书生,2014)。其次，学生外化问题行为触发了班主任对学生的负面情绪或较低的管理效能感,进而减少其协商管理行为(De Ruiter et al.,2020; Zee et al.,2017)。第三，外化问题行为较多或较严重的学生可能在与其早期主要照料者的互动中形成了不良的内部工作模型(Bowlby,1969)，这种不良的内部工作模型迁移到师生互动中，负面影响班主任协商管理行为(Pianta,2001)。
+
+而且，学生外化问题行为降低师生关系亲密、增加师生关系冲突，并通过师生关系亲密进一步影响学生外化问题行为。这一结果和已有研究一致，表明学生外化问题行为对师生关系有稳定的负面作用(De Laet et al.,2016;Ly& Zhou,2018)。已有研究证实了学生外化问题行为对师生关系的负面作用，但鲜有研究探讨学生外化问题行为是如何影响师生关系的，本研究发现，学生外化问题行为减少班主任的协商管理行为，进而负面影响师生关系。这一结果提示，学生外化问题行为可能会负面影响教师的管理行为(如，协商管理行为)，进而间接影响师生关系，这一结果有助于理解学生外化问题行为影响师生关系的机制(Dunkake &Schuchart,2015; Ly & Zhou,2018)。
+
+学生外化问题行为降低师生关系亲密、增加师生关系冲突，进而负面影响班主任协商管理行为。这一结果揭示了学生外化问题行为影响班主任/教师协商管理行为的机制之一，即，学生外化问题行为通过师生关系影响班主任/教师协商管理行为。已有追踪研究表明，学生外化问题行为会负面影响师生关系(Crockett et al.,2017; Roorda& Koomen,2021)，同时，相关理论(Spilt et al.,2011)及本研究的结果提示，积极的师生关系可促进班主任协商管理行为、消极的师生关系会减少班主任协商管理行为。因此，学生外化问题行为通过师生关系影响班主任管理行为存在一定的合理性。
+
+总之，学生的外化问题行为驱动了消极的相互作用过程：学生外化问题行为负面影响班主任协商管理行为、降低师生关系质量，并进一步影响学生外化问题行为、师生关系和班主任协商管理行为。
+
+# 4.3研究意义
+
+本研究采用追踪研究设计，探讨班主任协商管理行为、师生关系和学生外化问题行为三者间的相互作用关系。在验证了学生外化问题行为驱动消极的相互作用过程的同时，发现班主任的协商管理行为可启动积极的相互作用过程。
+
+本研究的理论意义在于：第一，揭示了班主任协商管理行为、师生关系和学生外化问题行为间的相互作用关系，为“动态相互作用模型”补充了证据。第二，发现班主任协商管理行为通过师生关系亲密间接影响学生的外化问题行为，有助于从“自我决定理论”的角度理解班主任协商管理行为影响学生外化问题行为的机制。第三，证实师生关系影响班主任协商管理行为，为教师发展的“压力和应对动态相互作用模型”提供了重要证据。第四，发现学生外化问题行为通过师生关系间接影响班主任的协商管理行为，有助于理解学生外化问题行为影响教师管理行为的机制；发现学生外化问题行为通过班主任协商管理行为间接影响师生关系，拓展了学生外化问题行为影响师生关系的已有研究。
+
+本研究的结果对于干预学生外化问题行为有一定的启示意义。首先，班主任在管理学生外化问题行为的过程中，觉察到学生外化问题行为对自己的协商管理行为的负面“驱动”作用，可帮助班主任及时调整自己、终止由学生外化问题行为驱动的消极相互作用过程；更重要的是，班主任可有意识地利用协商管理的积极作用、启动积极的相互作用过程，有效干预学生的外化问题行为。其次，在设计班主任专业发展干预项目时，一方面可以推荐班主任采用协商的方法管理学生的外化问题行为；另一方面，意识到学生外化问题行为负面影响班主任协商管理行为和师生关系，可以同感、共情班主任，让班主任觉得自己是被理解而不是苛求的，有助于提升班主任对干预项目的认可度和接受度。
+
+# 4.4研究局限与未来研究展望
+
+本研究存在一定的局限：首先，采用自陈问卷收集数据，难以完全避免社会赞许效应和共同方法偏差，未来研究中可采用现场观察或录像评分等第三方评定的方式，对班主任的协商管理行为和学生的外化问题行为进行评定；其次，追踪持续时间较短、追踪次数较少、测量的时间间隔不一致，未来可增加追踪的持续时间和测量次数、固定测量时间间隔，采用潜变量增长模型考察班主任协商管理行为对师生关系和学生外化问题行为的影响；再次，班级环境中的研究数据存在嵌套结构(本研究中，学生的数据嵌套于班主任)，未来可采用多水平模型考察班主任协商管理行为对师生关系和学生外化问题行为的影响；最后，本研究的样本是中国中、西部三个省份的4-6年级学生，样本的代表性存在一定的局限，将研究结果推广到其他地区和年级的学生时应持谨慎态度。
+
+# 5结论
+
+(1）班主任协商管理行为启动积极的相互作用过程,T1时的班主任协商管理行为负向预测 T2 时的学生外化问题行为、正向预测 T2时的师生关系亲密、负向预测 T2时的师生关系冲突，进而影响T3时的班主任协商管理行为、师生关系和学生外化问题行为。(2）学生外化问题行为驱动消极的相互作用过程，T1时的学生外化问题行为负向预测T2 时的班主任协商管理行为、负向预测T2时的师生关系亲密、正向预测T2时的师生关系冲突，进而影响T3时的学生外化问题行为、师生关系和班主任协商管理行为。
+
+参考文献   
+Aloe,A.M.,Shisler,S.M.,Norris,B.D.,Nickerson,A.B.,&Rinker,T.W. (2014). A multivariate meta-analysis of student misbehavior and teacher burnout. Educational Research Review, 12,30-44.   
+Berry,D.,& Willoughby,M.T. (20l7). On the practical interpretabilityof cross-lagged panel models: Rethinking a   
+developmental workhorse. Child Development, 88(4),1186-1206.   
+Bowlby, J. (1969). Atachment and loss: Vol. 1. Attachment. New York: Basic Books.   
+Cheon,S.H.,Reeve,J.，& Ntoumanis,N.(2019).An intervention to help teachers establish a prosocial peer climate in physical education. Learning and Instruction,64,101223.doi:10.1016/j.learninstruc.2019.101223   
+Cheon,S.H.,Reeve,J.,& Vansteenkiste, M.(2O20). When teachers learn how to provide classroom structure inan autonomy-supportive way: Benefits to teachers and their students. Teaching and Teacher Education. 90,103004.doi:10.1016/j.tate.2019.103004.   
+Colins,B.A., O'Connor, E.E., Supplee,L.，& Shaw,D. S. (2016). Behavior problems in elementary school among low-income boys: The role of teacher-child relationships.The Journal of Educational Research, 110(1), 72-84.   
+Cornelius-White,J. (2007).. RLearner-centered teacher-student relationships are effective: A meta-analysiseview of Educational Research,77(1),113-143.   
+Crockett,L. J., Wasserman,A. M.,Rudasill,K. M.,Hoffman,L.,& Kalutskaya,I. (2017).Temperamental anger and effortful control,teacher-childconflict,and externalizing behavior across the elementary school years. Child Development, 89(6),2176-2195.   
+De Laet, S., Colpin, H., Van Leeuwen,K., Van den Noortgate, W., Claes,S.,Janssens,A.,.. Verschueren, K. (2016). Transactional links between teacher-student relationships and adolescent rule-breaking behavior and behavioral school engagement: Moderating role of a dopaminergic genetic profile score. Journal of Youth and Adolescence, 45(6), 1226-1244.   
+De Ruiter,J. A.,Poorthuis,A. M. G., Aldrup,K.,& Koomen, H. M.Y. (202O). Teachers'emotional experiences in response to daily events with individual students varying in perceived past disruptive behavior. Journal of School Psychology, 82,85-102.   
+Dunkake,I.，& Schuchart, C.(2O15).Stereotypes and teacher characteristicsas an explanation for the class-specific disciplinary practices of pre-service teachers.Teaching and Teacher Education,50,56-69.   
+EttekalI.，& Shi，Q.(2O20).Developmental trajectories of teacher-student relationshipsand longitudinal associations with children's conduct problems from grades 1 to 12.Journal ofSchool Psychology,82,17-35.   
+Evertson, C.M.,& Weinstein, C.S. (Eds.). (2013). Handbook ofclassroom management: Research, practice,and contemporary issues. Mahwah, NJ: Lawrence Erlbaum.   
+Freiberg, H. J., Huzinec C., & Templeton S. (2009). Classroom management—a pathway to student achievement: A study of fourteen inner-city elementary schools. Elementary School Journal,I1o(1), 63-80.   
+Goodman,R. (2001). Psychometric properties of the strengths and difficulties questionnaire. Journal Of The American Academy Of Child And Adolescent Psychiatry, 40(11),1337-1345.   
+Henricsson,L.，& Rydell，A.M. (2004).Elementary school children with behavior problems: Teacher-child relations and self-perception. A prospective study. Merrill Palmer Quarterly, 50(2),111-138.   
+Jiang, G. R.(2004). Class environment in the Chinese school system: structure and meassurement. Journal of Psychological Science, 27(4),839-843.   
+[江光荣.(2004).中小学班级环境:结构与测量．心理科学,27(4),839-843.]   
+Kincade，L.， Cook,C.，& Goerdt,A. (2020). Meta-Analysis and common practice elements of universal approaches to improving student-teacher relationships. Review of Educational Research, 90(5),710-748.   
+Koomen,H.M.Y.,& Jelesma,F.C.(2015). Can closeness,conflict,and dependency be used to characterize students’ perceptions of the aective relationship with their teacher? Testing a new child measure in middle childhood.British Journal of Educational Psychology,85,479-497.   
+Lanas,M.,& Brunila, K. (2O19). Bad behaviour in school: A discursive approach.British Journal of Sociology of Education, 40(5),682-695.   
+Lansford,J.E.,odwin,J.,Borstein,.H.,Chang,L.,Deater-Deckard,K.,..Bacchini,D. (2018).Parenting, culture,and the development of externalizing behaviors from age 7to 14 in nine countries.Development and Psychopathology,30(5),1937-1958.   
+Lazarus, R.S.(1991).Progresson acognitive-motivational-relational theoryof emotion. American Psychologist, 46, 819-834.   
+Lei,H.,Cui,Y.,& Chiu,M.M. (2016). Afective teacher-student relationships and students’extermalizing behavior problems: A meta-analysis. Frontiers in Psychology, 7,1-12.   
+Lewis,R.,Romi, S., Qui, X.,& Katz,Y.J. (2oo5). Teachers’ classroom discipline and student misbehavior in australia, china and israel. Teaching and Teacher Education, 21(6),729-741.   
+Ly,J.,& Zhou, Q. (2O18).Bidirectional associations between teacher-child relationship quality and chinese american immigrant children's behavior problems. Journal of Clinical Child And Adolescent Psychology, 47(6), 954-966.   
+Malinen,O.P.,& Savolainen,H. (2016).The efect of perceived school climate and teacher efficacy in behavior management on job satisfaction and burnout: A longitudinal study. Teaching and Teacher Education, 60,144 -152.   
+Mcgrath,K.F.，& Bergen,P. V. (2015). Who,when,why and to what end? Students at risk of negative student-teacher relationships and their outcomes.Educational Research Review, 14,1-17.   
+Mejia,T. M.,& Hoglund, W.L. (2016). Do children's adjustment problems contribute to teacher-child relationship quality? Support for a child-driven model. Early Childhood Research Quarterly,34,13-26.   
+Ministryof Education ofthe People's Republic of China. (2009). Notice of the Ministry of education on printing and distributing the provisions on the work of primary and secondary school header teachers.Retrieved July 7,2020,from htp:edu.sina.com.cn/l/2009-08-24/1013176372.shtml   
+[中华人民共和国教育部.(2009).教育部关于印发《中小学班主任工作规定》的通知.2020-07-07取自 http://edu.sina.com.cn/l/2009-08-24/1013176372.shtml ]   
+Pakarinen,E,Silinskas,G., Hamre,B.K., Metsäpelto,R.L,Lerkanen,M.K.,Poikkeus,A. M.,& Nurmi, J.E. (2017).Cross-lagged associations between problem behaviors and teacher-student relationships in early adolescence. Journal of Early Adolescence, 38(8),1100-1141.   
+Petersen,I. T.，Bates,J.E.，Dodge,K.A.,Lansford,J.E.,& Petit,G.S.(2015).Describing and predicting developmental profiles of externalizing problems from childhood to adulthood.Development and Psychopathology, 27(3),791-818.   
+Pianta,R.C.(20o1).Student-teacher relationshipscale: Professional manual.Lutz,FL: Psychological Assessment Resources.   
+Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. Educational Psychologist, 44,159-178.   
+Rogers, C.R.,& Freiberg,H.J. (1994). Freedom to learn (3rd ed.). New York: Merrill.   
+Roorda,D.L.，& Koomen，H. M.Y. (2O21). Student-teacher relationships and students’ externalizing and internalizing behaviors: A cross-lagged study in secondary education. Child Development, 92(1),174188.   
+Rudasill，K. M. (2011). Child temperament， teacher-child interactions，and teacher-child relationships:A longitudinal investigation from first to third grade.Early Childhood Research Quarterly,26,147-156.   
+Ryan，R.M.，& Deci,E.L. (2017). Self-determination theory: Basic psychological needs in motivation, development, and wellness.New York: Guilford Press.   
+Sameroff,A.J. (2o09).The transactional model of development: How children and contexts shape each other. Washington, DC: American Psychological Association.   
+Skalicka,V.,Stenseng,F.,& Wichstrom,L. (2015).Reciprocal relations between student-teacherconflict,children S social skilsand externalizing behavior. InternationalJournal of Behavioral Development,39(5),413-425.   
+Spilt,J.L.,Koomen,H.M.Y.,& Thijs,J.T. (2011). Teacher welbeing: the importance of teacher-student relationships.Educational Psychology Review, 23(4),457-477.   
+Sutherland,K.S.,Conroy,M.A.,McLeod,B.D.,Granger,K.,Broda,M.,& Kunemund,R.(202O).Preliminary study of the effects of BEST in CLASS-elementary on outcomes of elementary students with problem behavior.Journal of Positive Behavior Interventions,22(4),220-233.   
+Tang,D.D., Wen,Z.L. (2020). Statistical approaches for testing common method bias: Problems and suggestions. Journal of Psychological Science, 43(1),215-223.   
+[汤丹丹，温忠麟.(2020).共同方法偏差检验：问题与建议．心理科学,43(1),215-223.]   
+Wiliford,A.P.,& Vitiello,V.E.(202). Who's incharge? Childbehavior predicts teacher subsequent classroom management practice for preschoolers reported to display disruptive behavior. School Psychology，35(5), 299-310.   
+Wei, S. S. (2014). Talk about the work of header teacher. Guangxi: Lijiang Press.   
+[魏书生.(2014)．班主任工作漫谈.广西．漓江出版社.]   
+Xu, W. B., Wang,M.C.,Deng, J. X.,Liu,H.H., Zeng,H.,& Yang, W.D. (2019).Reliability generalization forthe Chinese version of strengths and dificulties questionnaire.Chinese Journal of Clinical Psychology, 27(1), 67-72.   
+[许文兵，王孟成，邓嘉欣，刘惠华，曾红，杨文登.(2019).长处和困难问卷中文版的信度概化分析．中国临 床心理学杂志,27(1),67-72.]   
+Zhang, C.Y. (2015).A study on classroom problem behaviors of middle school students.Theory and Practice of Education,(8),56-60.   
+[张彩云.(2015).中学生课堂问题行为的调查研究．教育理论与实践,(8),56-60.]   
+Zhang,W., Zhang,L.,Chen,L.,Ji,L.,& Deater-Deckard,K.(2018).Developmental changes in longitudinal associations between academic achievement and psychopathological symptoms from late childhood to middle adolescence.Journal of Child Psychology and Psychiatry, 60(2),178-188.   
+Zee,M.,& De Bre,E.(2O16).Students'self-regulation and achievement in basic reading and math skils: the role of student-teacher relationships in middle childhood. European Journal of Developmental Psychology,14(3), 265-280.   
+Zee,M.,de Jong,P.F.,& Koomen, H. M.Y.(2017).From externalizing student behavior to student-specific teacher self-efcacy: The role of teacher-perceived conflict and closeness in the student-teacher relationship. Contemporary Educational Psychology,51,37-50.
+
+# The reciprocal relationships between head teachers’ negotiation management behavior and teacher-student relationship and primary school students' externalizing problem behaviors from grades four to six: A cross-lagged study
+
+XIE Qili1,2, ZHENG Huizhen², JIANG Guangrong²,REN Zhihong²
+
+FANYanfei²,LIUJiahuai,ZHANGWen4
+
+(DepartmentofMental health education and consultationcenter,Guizhou Normal College,Guyang 550018, China)( Key Laboratory ofAdolescent Cyberpsychology and Behavior (CCNU),Ministry ofEducation; Schoolof Psychology,Central China Normal University; Key Laboratoryof Human Development and Mental Health of HubeiProvince,Wuhan 430079,China)( Hubei Shuiguohu No.1 Middle School, Wuhan 430071,China) (4 Education Science Research OfficeofQiaokou District,Wuhan City,HubeiProvince,Wuhan 430o30,China)
+
+# Abstract
+
+Students’ externalizing problem behaviors negatively impact on the current and future development of themselves, classmates and teachers.Managing students’ externalizing problems is a great challenge for teachers. Previous studies in a Western educational environment and experience of excellent domestic head teachers indicate that head teachers can effectively reduce students’ externalizing problem behaviors by adopting negotiation management strategies and building positive teacher-student relationships. Most of the existing studies emphasize the influence of teachers’ negotiation management behavior and the teacher-student relationship on students’externalizing problem behaviors. However, conversely,the transactional model suggests that students’ externalizing problem behaviors may also affect teachers’ negotiation management behavior and the teacher-student relationship. The present study aims to explore the reciprocal relationships between head teachers’ negotiation management behavior and teacher-student relationship and primary school students’ externalizing problem behaviors from grades four to six in China.
+
+The questionnaire on head teachers’ negotiation management behavior, and the strengths and diffculties questionnaire,and the student perception of affective relationship scale was used for measurement were administered to 1407 students from grades four to six at three different periods in one school year. All the measures were reliable and valid. SPSS 20.O and Mplus 7.4 were used to analyze the data. A cross-lagged model was used to investigate the reciprocal relationship among the head teachers’ negotiation management behavior, the teacher-student relationship,and primary school students'externalizing problem behaviors.
+
+The results reflected that, after controlling for covariates,simultaneous correlation，and auto-regression of variables,head teachers’ negotiation management behavior drove the positive interaction cycle. The head teachers’ negotiation management behavior at Time 1 reduced the students’externalizing problem behavior， improved the intimacy of the teacher-student relationship,and decreased the conflicts of the teacher-student relationship at Time 2,which further afected the head teachers’ negotiation management behavior, the teacher-student relationship，and the students’ externalizing problem behaviors at Time 3. The students' externalizing problem behaviors drove the negative interaction cycle. The students’ externalizing problem behaviors at Time 1 reduced the head teachers’ negotiation management behavior, decreased the intimacy of the teacher-student relationship,and increased the conflicts of the teacher-student relationship at Time 2,which further affected the students’externalizing problem behaviors，the teacher-student relationship,and the head teacher's negotiation management behavior at Time 3.
+
+These observations deepen the understanding of the complex reciprocal relationships between head teachers’ negotiation management behavior and teacher-student relationship and primary school students’ externalizing problem behaviors from grade four to six in China. Additionally, the findings have important implications for preventing and intervening in students' externalizing problem behaviors. The results reflect that the head teachers need to be aware of the negative “driver” role of students’ externalizing problem behaviors,and consciously use the positive “driver” role of negotiation management behavior to break the negative cycle driven by students' externalizing problem behaviors.
+
+Key words Head teachers’ negotiation management behavior, Students’ externalizing problem behaviors,Teacher-student relationship, Reciprocal relations, Cross-lagged study

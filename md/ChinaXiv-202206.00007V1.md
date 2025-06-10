@@ -1,0 +1,149 @@
+# 全新世西风模态下中亚干旱区孢粉类型多样性变化特征
+
+以阿尔泰山为例
+
+张东良1,2.3
+
+(1.中国科学院新疆生态与地理研究所,新疆乌鲁木齐830011；2.中国科学院中亚生态与环境研究中心，新疆乌鲁木齐830011；3.中国科学院大学，北京100049)
+
+摘要：气候变暖对中亚干旱区植物带来了巨大的威胁。因观测时间受限,我们无法更好地理解长时间尺度干旱区植物多样性与气候变化之间的关系。但地质记录中的孢粉给我们提供了机会来理解过去植物存在、分布和多样性特征。以阿尔泰山为例,选择不同海拔的3个孢粉序列(高海拔-哈拉萨孜泥炭、中海拔-娜仁夏泥炭和低海拔-喀纳斯湖)来研究孢粉类型多样性变化特征及其对全新世气候变化的响应模式。结果显示：(1）阿尔泰山全新世孢粉类型多样性变化呈现出独特的格局。详细来说，全新世早期随着气候的变暖,森林上限开始向上迁移，使得高海拔孢粉类型多样性增加。（2）全新世中期气候暖湿,森林上限和下限的向上和向下迁移使得高低海拔孢粉类型多样性较高,但以泰加林主导的森林带孢粉类型多样性偏低，主要归咎于物种均匀度的下降。（3）全新世晚期气候变冷且更湿润,森林带上限向下移动,使得中海拔孢粉类型多样性显著提高。全新世阶段森林带内孢粉类型多样性变化幅度最大，该区域是气候响应最敏感区和最脆弱区。本研究有助于我们掌握山地植被带对全新世气候变化的响应模式，为探索山地植被迁移历史提供关键证据。
+
+关键词：全新世；孢粉类型多样性；阿尔泰山；干旱区；中亚
+
+全球平均气温正接近过去120万年的上限[],它们的影响在地球上每个生物群落都有记录[2]。随着未来几十年气候变化加剧，保护生物多样性以及生态系统为自然和人类提供的服务必须放在国际政策议程的重要位置[1-4]。有效的干预措施需要根据可靠的预测和基于证据的解决方案采取保护行动[2。然而，因较短的时间观测导致物种到生态系统层面对气候变化响应的可靠预测仍很困难[4]。因此,从地质历史时期找寻生物多样性演化的证据备受关注5，其中，地质记录中孢粉是最为丰富的古生态学记录，可以提供过去植物存在和分布的证据，是开展古植物多样性研究非常有效的材料之一[6]。
+
+位于中亚干旱区的天山-阿尔泰山，是世界多样性热点地区之一。近年来,该区域增温幅度远超全球平均水平，使得极端气候事件出现的频次增加。该结果对干旱区脆弱生态系统造成了严重的威胁,导致树木生长下降和死亡[7-9]。最新预测表明,干旱和半干旱地区面临显著增温和干旱的气候特点，使得该区植被栖息地破碎，且导致未来全球变化对该区植被生态系统的演化产生更大的不确定性[10]。可见,我们迫切需要借助孢粉学手段来研究该区域孢粉类型多样性与气候之间的关系。已有学者对天山孢粉类型多样性和山地森林-草原交错带在全新世“西风模态"（即全新世早期降水少，全新世中晚期降水多)[1I-12]变化下的动态规律进行了研究[13-14],但对阿尔泰山孢粉类型多样性和植被带的迁移过程仍不清楚。许多学者已在阿尔泰山不同海拔高度开展了一系列的孢粉组合研究[15-20]。这些研究可为我们开展过去气候变化是否引起阿尔泰山孢粉类型多样性增加/减少、是否影响植被带
+
+![](images/8112661fa9dc171ec7935a0232327290d33fac9391bb889f01e803377ee338a2.jpg)  
+图1研究区地形图(a)和研究点照片(b\~d)  
+Fig.1 Terrain of the Altai Mountains and photos of the studied sites
+
+的变化提供数据支撑。
+
+本研究共选取阿尔泰山不同海拔3个高分辨率孢粉序列(哈拉萨孜泥炭、娜仁夏泥炭和喀纳斯湖，图1)来探讨孢粉类型多样性对全新世“西风模态”的响应模式。本研究关注2个科学问题：（1）不同海拔全新世时段孢粉类型多样性是如何演化的？(2）全新世孢粉类型多样性如何响应全新世气温和降水变化？
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+阿尔泰山位于西伯利亚泰加林和中亚沙漠边界，其独特的地形造就了特殊的植被景观。该区域平均年气温约 $- 8 { \sim } 4 ~ \mathrm { { ^ circ C } }$ ，平均年降水量约300\~500$\mathbf { m } \mathbf { m } ^ { [ 2 1 ] }$ 。由于冷季西伯利亚高压的发展,冷干的气候主导这一地区；在暖季盛行西风将北大西洋水汽输送至这一地区，导致阿尔泰山呈现降水向东减少、大陆度向东增加2；现代植被也很好的反映了这一特征。具体说来，阿尔泰山北部、西部和西南部主要被暗针叶林所占据（包括冷杉、云杉和西伯利亚松）。进一步向东，西伯利亚松和西伯利亚落叶松盛行，在阿尔泰山的东南端高山草甸成为主导植被[22]。
+
+阿尔泰山南坡地处其中端，全长约 $7 5 0 \mathrm { k m }$ ，平均宽度约 $6 0 { \sim } 1 4 0 \ \mathrm { k m }$ 。该区域形成了明显的垂直植被带[23],从低海拔到高海拔依次为：(1)荒漠草原带（海拔小于 $8 0 0 ~ \mathrm { { m } } ,$ ),植被主要为由藜科、蒿属组成的荒漠类型，优势种为角果藜、豆科红车轴草、菊科刺头菊、蒿属、蓼科和禾本科等草本植物;(2）山地草原带(海拔 $8 0 0 { \sim } 1 4 0 0 ~ \mathrm { m } ,$ ),主要有蔷薇科绣线菊、麻黄属、禾本科、莎草科、豆科和唇形科等;(3）山地森林带(海拔 $1 4 0 0 { \sim } 2 3 0 0 ~ \mathrm { m }$ ),该带植被类型多由西伯利亚落叶松与西伯利亚云杉构成混交林，或伴生有杨属和桦木属等；（4）高山草甸带（海拔2300\~2700m)，主要有莎草科、禾本科、蔷薇科及石竹科等草本植物；(5）高山苔原带(海拔 $2 7 0 0 { \sim } 3 2 0 0 ~ \mathrm { m }$ )，主要有苔藓和地衣[23]
+
+# 1.2数据来源
+
+本研究共选取阿尔泰山不同海拔3个高分辨率的典型孢粉序列来探讨孢粉类型多样性的演化。这3个研究点分别是哈拉萨孜泥炭、娜仁夏泥炭和喀纳斯湖（图2)，基本情况如下：哈拉萨孜泥炭$( 4 8 ^ { \circ } 0 7 ^ { \prime } \mathrm { N } , 8 8 ^ { \circ } 2 2 ^ { \prime } \mathrm { E }$ ,海拔高度 $2 4 5 0 \mathrm { m }$ 位于高山草甸带。该钻孔有14个 $^ { 1 4 } \mathrm { C }$ 测年，分辨率约37a,共分析了297个样品,每个样品鉴定数大于500个[16-17]。娜仁夏泥炭 $( 4 8 ^ { \circ } 4 8 ^ { \prime } \mathrm { N } , 8 6 ^ { \circ } 5 4 ^ { \prime } \mathrm { E }$ ,海拔高度 $1 7 6 0 \mathrm { m }$ 位于山地森林带中。该钻孔有11个 $^ { 1 4 } \mathrm { C }$ 测年，分辨率约64a,共分析了189个样品，每个样品鉴定数大于300个[18]。喀纳斯湖 $( 4 8 ^ { \circ } 4 3 ^ { \prime } \mathrm { N } , 8 7 ^ { \circ } 0 1 ^ { \prime } \mathrm { E }$ ，海拔高度1365m)临近森林带下限。该钻孔有10个 $^ { 1 4 } \mathrm { C }$ 测年，分辨率约57a,共分析了124个样品，每个样品鉴定数大于300个[19]。该3个研究点均覆盖全新世时段。
+
+![](images/58039024297d0330a89d597072a6d75242e6b9648dc18dfd2553badfb87aceff.jpg)  
+图2阿尔泰山南坡植被带  
+Fig.2Vegetation belts on the southern slope of the Altai Mountains
+
+# 1.3孢粉多样性指数计算方法
+
+本研究选择Shannon-Wiener指数 $( H )$ 来开展对孢粉类型多样性的信息度量。该指数是基于孢粉组合中随机抽样个体归属的种类的不定性[24]。当孢粉种类数量越大，则个体种类归属不定性就越大,表明孢粉组合的多样性就越高[24]。该指数的计算公式如下：
+
+$$
+H = - \sum _ { i = 1 } ^ { s } P _ { i } \log ( P _ { i } )
+$$
+
+式中： $\log$ 可以选用以10为底； $s$ 为孢粉种类数；$P _ { i } { = } n _ { i } / N$ 表示第 $i$ 个种类物种丰富度； $n _ { i }$ 表示每个孢粉分类单元的个体数； $N$ 代表群落中所有孢粉类群的个体总数。
+
+为讨论孢粉序列中不同孢粉类型与多样性的关系，将孢粉进行了归类，共分为4类：泰加林组分、苔原组分、草原组分和荒漠组分[25-26]。前1个称为木本组分，后3个统称为非木本组分。此外，为讨论全新世不同时段的孢粉类型多样性的变化，全新世（约11750年前以来)可分为3个阶段：全新世早期（约11750—8200年前）、全新世中期（约8200—4200年前)和全新世晚期(约4200年前—0)[27]。
+
+# 2结果与分析
+
+# 2.1哈拉萨孜泥炭
+
+通过分析哈拉萨孜泥炭苔原、泰加林、草原和荒漠组分与Shannon-Wiener指数的相关性可以看出，泰加林组分与Shannon-Wiener指数的相关性最高 $\scriptstyle ( R ^ { 2 } = 0 . 2 1 , P < 0 . 0 1 )$ ,其次是荒漠和苔原组分( $R ^ { 2 } =$ 0.18, $P { < } 0 . 0 1$ $R ^ { 2 } { = } 0 . 1 0$ ， $P { < } 0 . 0 1$ ），草原组分与Shan-non-Wiener指数相关性不显著 $( R ^ { 2 } { = } 0 . 0 0 , P { > } 0 . 0 5 ,$ 图3a)。研究结果表明，全新世期间泰加林和荒漠植被对哈拉萨孜泥炭孢粉类型多样性有贡献且泰加林的贡献最大，而草原植被对该泥炭孢粉类型多样性的贡献较小。
+
+全新世期间，哈拉萨孜泥炭Shannon-Wiener指数平均值为1.44，未表现出明显的变化趋势（图4a)。高于平均值的时段有约10600—8900年前、约8200—5000年前、约4100—2300年前和约1700—460年前，其余时段Shannon-Wiener指数均低于平均值。全新世时段最高值出现在约4100一2300年前，最低值出现在约11600—10800年前。进一步对木本和非木本Shannon-Wiener指数追踪后发现（图4a），非木本Shannon-Wiener指数表现出与整个Shannon-Wiener指数一致的变化趋势，但木本Shan-non-Wiener指数可划分为3个阶段：全新世早期Shannon-Wiener指数较低，平均值为0.21;全新世中期 Shannon-Wiener指数较高，平均值为0.33;全新世晚期Shannon-Wiener指数逐步下降，平均值为0.21。
+
+# 2.2 娜仁夏泥炭
+
+从图3b可以看出，全新世期间苔原、泰加林、草原和荒漠组分对娜仁夏泥炭孢粉类型多样性均有贡献，其中苔原组分与Shannon-Wiener指数为负相关 $\scriptstyle \left( R ^ { 2 } = 0 . 9 2 , P < 0 . 0 1 \right)$ 外,其余均为正相关。根据相关性分析结果(图3b)，草原组分对孢粉类型多样性的贡献最大 $\left( R ^ { 2 } { = } 0 . 5 7 , P { < } 0 . 0 1 \right)$ ，其次是泰加林( $R ^ { 2 } =$ $_ { 0 . 5 3 , P < 0 . 0 1 }$ )和荒漠组分 $( R ^ { 2 } { = } 0 . 2 0 , P { < } 0 . 0 1 )$ 。
+
+娜仁夏泥炭全新世Shannon-Wiener指数平均值为1.36(图4b)。与哈拉萨孜泥炭相比较，娜仁夏泥炭指数趋势变化明显，可以划分为3个阶段：全新世早期和晚期Shannon-Wiener指数较高，平均值均为1.58，而全新世中期Shannon-Wiener指数较低，平均
+
+(a)哈拉萨孜泥炭 (b)娜仁夏泥炭 (c)喀纳斯湖   
+srari-aorrrt 2018 sraoa-ainnert 21354208 . 22 n=124012 1.6 1.4 1.2 4 1088 n=297,00.105.12 1 08-18，012 1.7 01020 304050 6070 80 30 4050 60 7080 90 10 152025303540 45 苔原孢粉含量/% 苔原孢粉含量/% 苔原孢粉含量 $\%$ （20   
+srrnra-ainnt 2018 1.6 srraairarre 2 1.6 22182 1.4 1 1108 n=297,0212 品 心 n=189,05,1 191817 n=12405 0 5101520 25303540 0 5 101520253035 5 101520 25303540 泰加林孢粉含量/% 泰加林孢粉含量/% 泰加林孢粉含量/% 2018164 =297,0.60.52 22018154 24232221 =1240070.02   
+srnmm-nnnnrt 110 sarari-airarit 189 srar-anrrt 201918 0.8 / 0.6 1.7 1020304050607080 5 10152025303540 0 10 20 3040 50 60 草原孢粉含量/% 草原孢粉含量/% 草原孢粉含量 $1 \%$ （204号 y-0.014x+1.19 y=0.0093x+1.77 201816 n=297,R²=0.18,P<0.012 220186 2423221201 n=124,R²=0.16,P<0.012   
+sraai-aonnrrt 1.4 srrnr-aarrt 1.4 srr-aannrt 110 0.8 1 110088 0.6 强 =189,21 1.9 1.7 ： 0 5101520 25303540 0 5 10 15 2025 30 15 20 25 30 35 4045 荒漠孢粉含量/% 荒漠孢粉含量/% 荒漠孢粉含量 $\%$ （204号
+
+值为1.05。就木本和非木本Shannon-Wiener指数而言，二者均表现出与整个Shannon-Wiener指数一致的变化趋势，但非木本Shannon-Wiener指数变化幅度大于木本的。
+
+# 2.3喀纳斯湖
+
+通过分析喀纳斯湖苔原、泰加林、草原和荒漠组分与Shannon-Wiener指数的相关性可以看出，泰加林组分与Shannon-Wiener指数的正相关性最高1 $R ^ { 2 } { = } 0 . 5 3$ ， $P { < } 0 . 0 1$ ），其次是荒漠和苔原组分（ $R ^ { 2 } =$ 0.18, $P { < } 0 . 0 1$ · $R ^ { 2 } { = } 0 . 1 2$ $P { < } 0 . 0 1$ ），草原组分与Shannon-Wiener指数呈现显著的负相关性 $( R ^ { 2 } { = } 0 . 4 0 , P { < }$
+
+0.01)(图3c)。与哈拉萨孜泥炭类似，全新世期间泰加林、苔原和荒漠组分对喀纳斯湖孢粉类型多样性有贡献且泰加林的贡献最大。
+
+喀纳斯湖全新世Shannon-Wiener指数平均值为2.03(图4c)，且趋势可划分为3个阶段：全新世中期指数较高，平均值为2.19,而全新世早期和晚期指数较低，平均值均为2.07和2.00。就木本和非木本Shannon-Wiener指数而言，木本Shannon-Wiener指数变化趋势与整个Shannon-Wiener一致，但非木本Shannon-Wiener指数呈现显著的下降趋势( $R ^ { 2 } { = } 0 . 4 2$ .$P { < } 0 . 0 1$ ）。
+
+![](images/24eb5e9c197e35682374d78dfec696a69fa9abe7b07d1a373ac5be20a0b31c74.jpg)  
+图4阿尔泰山孢粉类型多样性的变化 $\left( \mathsf { a } { \sim } \mathsf { c } \right)$ 与全新世气温[29]和降水[](d)  
+ig.4Changes inpolentaxadiversityintheAltaiMountains(a-c)andHolocene temperature]andprecipitationchane]（
+
+# 3讨论
+
+通过分析阿尔泰山3个研究点不同孢粉组分（苔原、泰加林、草原和荒漠)与Shannon-Wiener指数的关系可以看出，泰加林组分对不同海拔孢粉类型多样性均有显著的贡献，荒漠组分也表现出一致的正效应，而其他组分的表现略有不同(图3)。如草原组分对森林上限孢粉类型多样性的贡献很弱，对中海拔孢粉类型多样性是正贡献，而在森林下限孢粉类型多样性是负贡献。这些结果表明，利用Shan-non-Wiener指数计算的孢粉类型多样性变化可以反映全新世时段阿尔泰山森林带的迁移变化特征。从图 $4 \mathrm { a } \sim$ 图4c可以看出，全新世时段3个研究点的Shannon-Wiener指数特征均未表现出一致的趋势，类似的不一致也出现在木本和非木本Shannon-Wie-ner指数中。结合全新世气温[28]和降水[19]变化特征(图4d)，进一步分析阿尔泰山不同海拔全新世孢粉类型多样性变化和植被带的迁移过程。
+
+全新世早期(约11750—8200年前），区域气候经历了变暖和干旱。哈拉萨孜泥炭和娜仁夏泥炭Shannon-Wiener指数均较高，而喀纳斯湖Shannon-Wiener指数较低。对木本Shannon-Wiener指数来说，哈拉萨孜泥炭和喀纳斯湖指数均较低，而娜仁夏泥炭指数较高。可见，这一时期森林带主要占据中海拔地区(即娜仁夏泥炭所占区域)，未扩张至哈拉萨孜泥炭和喀纳斯湖所在区域。随着气候的逐渐变暖，森林上限逐渐上移，且随着湿度的逐步增加，森林下限开始下移。该森林带的迁移使得哈拉萨孜泥炭和喀纳斯湖木本孢粉类型多样性逐渐增加，而娜仁夏泥炭位于中海拔的森林带内，木本孢粉类型多样性持续保持在高值。
+
+全新世中期(约8200一4200年前），区域气候最温暖且湿度增加。哈拉萨孜泥炭和喀纳斯湖Shan-non-Wiener指数处于高值，表明孢粉类型多样性较为丰富；而娜仁夏泥炭Shannon-Wiener指数下降，表明孢粉类型多样性随之下降。这一特征表明，在温暖变湿背景下，森林带持续扩张，上、下限逐步向上和向下移动，使得森林逐步占据原先不位于森林带的区域(即哈拉萨孜泥炭和喀纳斯湖所在区域），从而引起该区域木本孢粉类型多样性的增加，进而导致整个时段孢粉类型多样性较高。但是在此气候背景下，娜仁夏泥炭孢粉类型多样性记录了全新世时段的最低值，该低值在木本和非木本Shannon-Wiener指数中均有体现。该时段明显下降的孢粉类型多样性可能归咎于两方面的原因：（1）温暖变湿的气候不仅促使森林带的扩大，而且引起森林带内的云杉和落叶松面积增加[15-18],进而导致其他树种面积和均匀度的下降[11],最终引起森林带木本多样性的下降；（2）森林带面积的增加势必会引起林间草地面积的下降，进而引起森林带非木本多样性的减少。
+
+全新世晚期(约4200年前一0)，区域气候最湿润且气温下降。哈拉萨孜泥炭和娜仁夏泥炭Shan-non-Wiener指数处于高值，表明该时段孢粉类型多样性丰富；而喀纳斯湖Shannon-Wiener指数下降，表明该时段孢粉类型多样性有所下降。对于木本孢粉来说，哈拉萨孜泥炭Shannon-Wiener指数缓慢下降，表明在变冷变湿的背景下森林带开始向下移动，自然会导致中低海拔孢粉类型多样性的增加。但喀纳斯湖Shannon-Wiener指数所记录的多样性有所下降，这一变化与笔者所理解的在变冷变湿背景下森林带持续向更低海拔移动所不同。造成这种差异的原因可能有：（1）气候的持续变冷使得向低海拔迁移的泰加林面积减少，进而引起木本多样性的下降;(2）全新世晚期低海拔人类活动的持续加强和火灾的频繁发生也会引起孢粉类型多样性的减少[29]
+
+综上所述，在全新世气温和降水的综合影响下，阿尔泰山植被带的变化呈现出独特的格局：全新世早期气候变暖和干燥，位于中海拔的森林带开始向上迁移，使得高海拔孢粉类型多样性增加。全新世中期气候温暖且湿润，森林带的持续向上和向下迁移使得哈拉萨孜和喀纳斯湖孢粉类型多样性较高，但因中海拔以云杉属孢粉和落叶松属孢粉占优势的林带扩张，导致泰加林物种均匀度下降，娜仁夏泥炭周边观察到的孢粉类型多样性较低。这一观察结果也得到了临近天山孢粉类型多样性变化和表土孢粉结果的支持[1l-12]。全新世晚期气候变冷且更湿润，森林带上限向下移动，使得中海拔孢粉类型多样性显著提高。这些结果表明，当气候温暖干燥时，森林带沿海拔向上移动以获得更多的水分，反之亦然。同时，森林带通过调整林带宽度来响应温暖湿润的气候,进一步使森林带向下移动[]
+
+从阿尔泰山不同海拔全新世孢粉类型多样性特征可以看出，娜仁夏泥炭所在的中海拔地区植被多样性的变化幅度最大（图 $4 \mathrm { a } \sim$ 图4c），说明森林带所在区域是对气候响应最敏感区，也是最脆弱区。考虑到湿度敏感类群的气候生态位空间及其有限的生存空间，水分流失对相对狭窄的森林带的威胁最大。当气候干燥超过其阈值时，森林带中的一些类群可能会消失。例如，作为世界多样性热点之一的东安第斯山脉狭窄的植被带对气候变暖的脆弱性很大，因为预期的气候变化速度可能会在数百年内将狭窄分布的植物类群移出气候生态位空间[30]。值得关注的是，在当前变暖背景下，研究区面临干旱加剧的风险，干旱强度和持续时间表现出不断增加趋势[31]。可见,将来气候变暖背景下可能会对干旱区森林带植物类群造成难以估量的威胁，后续需要加强山地森林带的保护和维持，特别关注对湿度敏感的植物物种。此外，尽管因受孢粉鉴定精度、产量、传播能力、代表性与沉积环境不同等的影响，使得利用其恢复古植物多样性可能存在一定的偏差[24.32]。但孢粉分析仍然是一种具有巨大潜力来重建植物多样性的方法，可以为我们研究山地植被带对全新世气候变化的响应提供可参考的关键证据[33]
+
+# 4结论
+
+通过分析阿尔泰山基于孢粉序列记录的不同海拔孢粉类型多样性变化发现，在暖干的全新世早期，森林带上限开始上移，对高海拔孢粉类型多样性的贡献逐步增加。在暖湿的全新世中期，森林带变宽，向高、低海拔同时扩张，使得高、低海拔区木本孢粉类型多样性明显增加。但森林带内因物种均匀度的下降而孢粉类型多样性明显减少。在冷湿的全新世晚期，森林带上限开始下移，导致森林带孢粉类型多样性增加。可见，全新世气温和湿度(或降水)共同影响森林带的迁移，进而引起不同海拔孢粉类型多样性的变化。
+
+# 参考文献(References):
+
+[1] Steffen W,Rockstrom J,Richardson K,et al. Trajectories of the earth system in the Anthropocene[J].Proceedings of the National Academy of Sciences,2018,115(33): 8252-8259.   
+[2] Dawson TP,Jackson S T,House JI,et al.Beyond predictions: Biodiversity conservation in a changing climate[J]. Science,2O11,332 (6025): 53-58.   
+[3] Urban M C,Bocedi G,Hendry AP,et al.Improving the forecast for biodiversity under climate change[J]. Science,2016,353(6304): 1-10.   
+[4] Foden WB,YoungBE,Akgakaya HR,etal. Climate change vulnerability assessment of species[J].Wiley Interdisciplinary Reviews: Climate Change,2019,10(1): e551.   
+[5] Fordham D A,Jackson S T,Brown SC,et al.Using paleo-archives to safeguard biodiversity under climate change[J]. Science,2020, 369: eabc5654.   
+[6] Weng C Y, Hooghiemstra H,Duivenvoorden JF. Challenges in estimating past plant diversity from fossil pollen data: Statistical assessment, problems,and possible solutions[J]. Divers Distribution, 2006,12: 310-318.   
+[7]Liu HY,Park Williams A,Allen C D,et al. Rapid warming accelerates tre growth decline insemi-arid forests of Inner Asia[J]. Global Change Biology,2013,19: 2500-2510.   
+[8] Weng C, Hooghiemstra H,Duivenvoorden JF.Response of pollen diversity to the climate-driven altitudinal shiftof vegetation in the Colombian Andes[J].Philosophical Transactions of the Royal Society B: Biological Sciences,2007,362(1478): 253-262.   
+[9]Franco A M,Hill JK, Kitschke C,et al.Impacts of climate warming and habitat losson extinctions atspecies’low-latituderange boundaries[J]. Global Change Biology,2006,12: 1545-1553.   
+[10]Huang JP, Yu H, Guan X D,et al. Accelerated dryland expansion under climate change[J]. Nature Climate Change,2O16,6: 166-171.   
+[11]Zhang D L,Feng Z D.Holocene climate variations in the Altai Mountains and the surrounding areas: A synthesis of pollen records [J]. Earth-Science Reviews,2018,185: 847-869.   
+[12] Chen FH, Yu Z, Yang M,et al.Holocene moisture evolution in arid Central Asia and its out-of-phase relationship with Asian monsoon history[J]. Quaternary Science Reviews,2008,27: 351-364.   
+[13]Cheng Y,Liu H, Wang H,et al. Climate-driven Holocene migration of forest-steppe ecotone in the Tien Mountains[J].Forests,2020, 1(11): 1139.   
+[14] 张芸,孔昭宸,阎顺,等.新疆天山北坡地区中晚全新世古生物 多样性特征[J].植物生态学报,2005,29(5):836-844. [Zhang Yun,Kong Zhaocheng,Yan Shun,et al.Paleo-biodiversity at the northern piedmont of Tianshan Mountains in Xinjiang during the Middle to Late Holocene[J].Acta Phytoecologica Sinica,2005,29 (5): 836-844.]   
+[15] Zhang D L, Chen X,Li Y M,et al. Holocene moisture variations in the arid Central Asia: New evidence from the southern Altai Mountains of China[J]. Science of the Total Environment, 2020,735: 139545.   
+[16] Wang W, Zhang D L. Holocene vegetation evolution and climatic dynamics inferred from an ombrotrophic peat sequence in the southern Altai Mountains within China[J].Global and Planetary Change,2019,172: 10-22.   
+[17] Zhang D L, Chen X,Li Y M, et al. Holocene vegetation dynamics and associated climate changes in the Altai Mountains of the arid Central Asia[J].Palaeogeography,Palaeoclimatology,Palaeoecology,2020,550: 109744.   
+[18]Feng ZD,Sun AZ,Abdusalih N,et al. Vegetationchangesandassociated climatic changes in the southern Altai Mountains within China during the Holocene[J]. Holocene,2017,27(5): 683-693.   
+[19]Huang X Z,Peng W,Rudaya N,et al. Holocene vegetation and climate dynamics in the Altai Mountains and surrounding areas[J]. Geophysical Research Letters,2018,45(13): 6628-6636.   
+[20]Zhang DL,Yang Y P,Ran M,et al.Vegetation dynamics and its response to climate change during the past 2OOO years in the Altai Mountains,northwestern China[J]. Frontiers of Earth Science, 2021,doi.org/10.1007/s11707-021-0906-9.   
+[21]Zhang DL,Lan B,Yang Y P.Comparison of precipitation variations at different time scales in the northern and southern Altai Mountains[J].Acta Geographica Sinica,2017,72(9): 1569-1579.   
+[22]Blyakharchuk T, Chernova N.Vegetation and climate in the western Sayan Mts according to pollen data from Lugovoe Mire as a background for prehistoric cultural change in southern Middle Siberia[J]. Quaternary Science Reviews,2013,75: 22-42.   
+[23]袁国映.阿尔泰山西部地区的垂直自然带[J].地理学报,1986, 41(1):32-4O.[Yuan Guoying.The vertical zonation of the western Altay MTS[J].Acta Geographica Sinica,1986,41(1): 32-40.]   
+[24]李泉,赵艳.基于孢粉组合定量重建古植物多样性的方法与进 展[J].第四纪研究,2018,38(4):821-829.[Li Quan,Zhao Yan. Quantitative methods and progress of paleofloristic diversity reconstruction based on pollen assemblages[J]. Quaternary Sciences, 2018,38(4): 821-829.]   
+[25]Prentice I,Cramer W,Harrison S,et al.A global Biome model based on plant physiology and dominance,soil properties and climate[J]. Journal of Biogeograph,1992,19(2): 117-134.   
+[26]Prentice I,Guiot J,Huntley B,et al.Reconstructing biomes from palaeoecological data: A general method and its application to European pollen data at O and 6 ka[J].Climate Dynamics,1996,12 (3): 185-194.   
+[27]Walker MJC,Berkelhammer M,Bjorck S,et al.Formal subdivision of the Holocene series/epoch:A discussion paper by a working group of INTIMATE (integration of ice core,marine and terrestrial records) and the subcommission on Quaternary stratigraphy (international commission on stratigraphy)[J]. Journal of Quaternary Science,2012,27: 649-659.   
+[28]Marcot S, Shakun J, Clark P,et al.A reconstruction of regional and global temperature for the past 113OO years[J]. Science,2013, 339:1198-1201.   
+[29]Zhang DL,Huang X Z,Liu Q,et al.Holocene fire records and their drivers in the westerlies-dominated Central Asia[J]. Science of the Total Environment,2022,833:155153.   
+[30]Bush MB,Silman MR,Urrego D H.480OO years of climate and forest change in a plant species diversity hot spot[J]. Science, 2004,303:827-829.   
+[31]Li H,Li Z,Chen Y,et al.Drylands face potential threat of robust drought in the CMIP6 SSPs scenarios[J]. Environmental Research Letters,2021,16(11): 114004.   
+[32]Hammer O,Harper DA,Ryan PD.Palaeontological statistics software package for education and data analysis[J]. Palaeontologia Electronica,2001,4(1): 9.   
+[33]Giesecke T,Wolters S, Jahns S,et al.Exploring Holocene changes in palynological richness in northern Europe-Did postglacial immigration matter?[J].PLoS One,2012,7(12): e51624.
+
+# Changes of pollen taxa diversity in the arid Central Asia under the Holocene Westerlies Mode: A case study of the Altai Mountains
+
+ZHANG Dongliangl1,2,3
+
+(1.Xinjiang Instituteof Ecologyand Geography,Chinese AcademyofSciences,Urumqi 830011,Xinjiang,China; 2.Research Center for Ecology and Environment of Central Asia,Chinese Academyof Sciences,Urumqi 830011, Xinjiang, China; 3. University of Chinese Academy of Sciences,Beijing 1Ooo49, China)
+
+Abstract Modern climate change poses a huge threat to plants in the arid Central Asia.Due to the short instrumental interval, weare unable to beter understand the long time-scale relationship between plant diversities and climate change in this region. However,pollen records in the geological archives provide us an opportunity to understand the existence,distribution and diversityof plants in the past.In this study,we selected three pollen sequences from diffrent elevations (Halasazi Peat,Narenxia Peat and Kanas Lake) in the Altai Mountains to investigate the characteristics of plant diversities and their response paterns to Holocene climate change. The results revealed that the changes of pollen taxa diversity in the Altai Mountains showed a unique pattern. As the climate was warming in the early Holocene,the upper forest limits began to migrate upward,leading to an increase in pollentaxa diversity at high elevations.In the middle Holocene,the climate was warm and wet,and the upward and downward migration of the upper and lower forest limits resulted in higher diversities at high and low elevations,but the lower diversities in the taiga-dominated forest belt mainly resulted from a decreasing species evenness.In the late Holocene,the climate became cooler and weter,and the upper forest limits moved downward,leading to a significant increase in diversities at middle elevations.The largest changes of plant diversities were observed in the forest belt during the Holocene, which means this belt is the most sensitive and vulnerable area for climate response.This study not only helps us understand the response model of mountain vegetation belt to Holocene climate change,and also provides key evidence for exploring the history of mountain vegetation migration in the arid Central Asia.
+
+Keywords: Holocene climate; pollen taxa diversity； Altai Mountains； arid zone; Central Asia

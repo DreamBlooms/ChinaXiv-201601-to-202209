@@ -1,0 +1,325 @@
+[
+    {
+        "type": "text",
+        "text": "Characterization of quinolone resistance in Salmonella enterica serovar Indiana from chickens in China1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yan Lu, $^ { * , 2 }$ Hongyu Zhao, $^ { \\dag , 2 }$ Yuqi Liu, $^ { * , 3 }$ Xuping Zhou,\\* Jinyuan Wang,‡ Tiantian Liu, $\\ddag$ Ross C. Beier, $\\ S$ （20 and Xiaolin Hou\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $^ *$ Colege of Animal Science and Technology, Beijing Key Laboratory of Traditional Chinese Veterinary Medicine (TCVM),Beijing University of Agriculture,Beijing 102206,China;+State Key Laboratory of Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101， China; $\\ddag$ Veterinary Health Epidemic Prevention Station, Nancai Shunyi District, Beijing 101300, China; and $\\ S$ USDA, Agricultural Research Service, Southern Plains Agricultural Research Center,Food andFeed Safety Research Unit, Colege Station,TX 77845 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT The aim of this study was to characterize the quinolone resistance ofSalmonella enterica serovar Indiana isolated from chickens in China.A total of 293 Salmonella strains were isolated from chicken farms and slaughterhouses in Shandong province of China,and 130(44.4%）were characterized as Salmonella enterica Indiana (chicken farms, $\\mathrm { ~ n ~ } = \\ 5 2$ strains；slaughter houses, $\\mathrm { n } = 7 8$ strains).All isolate serotypes were tested with the Kauffmann-White classification system and examined for susceptibility to the quinolones: nalidixic acid，enrofloxacin，norfloxacin，and ciprofloxacin.The resistance of the SalmonellaIndiana strainsto nalidixic acid，enrofloxacin,norfloxacin，and ciprofloxacin were 100，73.1，71.2,and $8 2 . 7 \\%$ ，and 100，59.0，79.5，and 80.2%,respectively. Selected quinolone resistant strains were evaluated for mutations in genes (gyrA，gyrB, parC,and marA） by DNA sequencing. The gyrA mutation was found in all isolates,the parC mutation was only found in some isolates,and the gyrB and marA mutations were not observed. Quinolone resistance was evaluated in the representative isolates by screening for the quinolone resistance determinants,qnrA,qnrB, qnrS，qepA,and aac( $\\delta ^ { \\prime }$ )-Ib-cr using PCR technology. The quinolone resistance determinants in Salmonella, qnrA，qnrB，qnrS，and qepA were negative by PCR, but $a a c ( \\theta ^ { \\prime } )$ -Ib-cr had high detection rates of 90.4 and $9 6 . 2 \\%$ in chicken farms and slaughterhouses,respectively. Salmonella Indiana containing the gyrA mutation was prevalent in farms and slaughterhouses and possessed a high frequency of the quinolone resistance determinant $a a c ( { \\theta } ^ { \\prime } )$ -Ib-cr. These bacteria may have originated from the same source. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Salmonella Indiana, quinolone resistance, aac ( $6 ^ { \\prime }$ )-Ib-cr, gyrA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2015 Poultry Science 94:454-460   \nhttp://dx.doi.org/10.3382/ps/peu133 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Salmonella is a serious zoonotic pathogen，which causes infectious diarrhea in humans and is the leading cause of bacterial foodborne outbreaks and incidences in China (Salam and Tothill, 2009).Most food poisoning events in China from 1994 to 2005 were caused by Salmonella (Wang et al., 2Oo7). Salmonella enterica serovar Indiana is a highly pathogenic strain, which can cause acute enteritis,diarrhea,and death, as well as huge economic losses to the livestock and poultry industries (Yang et al., 2011). Quinolones are widely used due to their broad-spectrum antimicrobial activity and strong antibacterial effects in both human and animal treatment of diseases (Li and Li, 2002).Quinolone use has led to increasingly resistant bacteria (Hooper，2Oo1)，and the isolation rate of multiple serotype Salmonella strains resistant to quinolones and fluoroquinolones has increased every year (Malorny et al.,1999). Taiwan, Japan, the Netherlands,and the United States have all experienced outbreaks of Salmonella resistant to quinolones (Helms etal.,20o5).The resistance mechanisms of Salmonella to the quinolones have become increasingly complicated and have drawn worldwide attention (Michael et al.，2Oo6). In recent years,new resistance mechanisms,including resistance to quinolones mediated by the quinolone resistance determinants of a pentapeptide repeat protein-encoding qnr(Strahilevitz et al.,2009), an efflux-pump-encoding qepA (Robicsek et al., 2006), and an aminoglycoside acetyltransferase-encoding enzyme variant $a a c ( 6 ^ { \\prime } )$ -Ib-cr(Périchon et al.,2007) genes, have been found. These drug resistance genes are located on plasmids,which can allow the rapid spread of quinolone resistance to animals and humans.Horizontal gene transfer of plasmid-mediated quinolone resistance genes increases the threat to current treatments of infectious diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The aim of this study was to characterize the quinolone resistance of Salmonella Indiana isolated from chicken farms and slaughter houses in different regions of the Shandong province in China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Salmonella Isolation, Identification, and Serotyping ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A total of 1,024 samples were collected in 20o9 from 2 chicken farms and 2 slaughterhouses in Shandong province of China. Fecal samples of 6-week-old healthy chickens from chicken farms were collected using sterile cloacal swabs,and the samples from slaughterhouse chicken meat were collected by washing the intact whole chicken carcasses with $1 0 0 ~ \\mathrm { m L }$ sterile saline, followed by centrifugation at $5 , 0 0 0 ~ \\times ~ g$ for 10 min at room temp. The supernatants were then removed and the pellets were suspended with $1 0 0 \\mu \\mathrm { L }$ sterile saline and incubated in selenite cysteine broth at 37C for 24h.From the total number of Salmonella strains(293, $2 8 . 6 \\%$ )collected, 130 $( 4 4 . 4 \\% )$ strains of Salmonella enterica serovar Indiana were isolated in a laboratory at the Institute of Animal Science and Veterinary Medicine, Shandong Academy of Agricultural Sciences.The strains were collected according to acquisition guidelines. The field studies did not involve endangered or protected species. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After the samples were incubated in sterile selenite cystine broth (Qingdao Hope Bio-Technology, Qingdao，China） at $3 7 ^ { \\circ } \\mathrm { C }$ for $2 4 \\ \\mathrm { ~ h ~ }$ ，all incubated samples were grown on chromogenic medium for Salmonella (CHROM agar，CHROMagar Microbiology，Paris,France）at $3 7 ^ { \\circ } \\mathrm { C }$ for 24 to 48 h. Only one colony/plate was picked; the purple-colored colonies on the culture plates were regarded as presumptive Salmonella colonies. Suspected colonies were isolated and grown on Difco nutrient agar (Becton，Dickinson,and Company, NJ),and then identified by transferring to tubes with triple sugar iron agar (Becton, Dickinson，and Company，NJ)，lysin indole motility semisolid agar (Becton,Dickinson and Company, NJ), Voges Proskauer semisolid media (Becton,Dickinson, and Company，NJ)，urease test broth (Becton，Dickinson，and Company, NJ)，and Simmons citrate agar (Becton，Dickinson，and Company,NJ).At the same time，isolates were tested for the invA gene by PCR methods (Wang et al., 2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Salmonella isolates were serotyped by slide agglutination for O and H antigens according to the KauffmannWhite scheme (Popoff and Le Minor, 1992） using antisera produced at the National Institute of Biological Sciences in Beijing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/11fd25de28756602ef7c12dab3d1ad135dcce4ffe4d50c7084d69a0d57ddaaab.jpg",
+        "table_caption": [
+            "Table 1.MIC interpretive criteria of the 4 quinolones. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td colspan=\"3\">MIC (μg/mL)</td></tr><tr><td>Quinolones</td><td>ATCC 25922</td><td>S (sensitive)</td><td>I (intermediary)</td><td>R (resistance)</td></tr><tr><td>Nalidixic acid</td><td>1 to 4</td><td>≤16</td><td></td><td>≥32</td></tr><tr><td>Ciprofloxacin</td><td>0.004 to 0.015</td><td>≤0.06</td><td>0.12 to 1</td><td>≥2</td></tr><tr><td>Enrofloxacin</td><td>0.008 to 0.03</td><td>≤0.25</td><td>0.5 to 1</td><td>≥2</td></tr><tr><td>Norfloxacin</td><td>0.03 to 0.12</td><td>≤4</td><td>8</td><td>≥16</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Susceptibility Testing ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The minimum inhibitory concentrations (MICs） of Salmonella Indiana isolates were determined by broth microdilution according to the Clinical and Laboratory Standards Institute guidelines (CLSI, 2OO7; CLSI, 2008).The Salmonella Indiana isolates were tested with the 4 antimicrobials, nalidixic acid (0.25 to 512 μg/mL), enrofloxacin (0.015 to $3 2 ~ \\mu \\mathrm { g / m L }$ )，norfloxacin (0.03 to 64 μg/mL),and ciprofloxacin (0.015 to $3 2 \\mu \\mathrm { g / m L }$ ).The MIC interpretive criteria for the 4 quinolones are found in Table 1. Escherichia coli strain ATCC 25922 was used for quality control. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PCR Amplification and DNA Sequencing ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PCR was used to analyze the 13O Salmonella Indiana isolates that also were quinolone resistant based on susceptibility tests.All primer sequences and the predicted sizes of the gene sequences are given in Table 2.The following antimicrobial resistance genes were evaluated in the quinolone resistant isolates:qnrA，qnrB，qnrS, $a a c ( { \\boldsymbol { \\theta } } ^ { \\prime } )$ -Ib-cr,and qepA genes were analyzed using previously described primers and PCR cycling conditions (Xia et al.，201O).The PCR analysis of each sample was carried out in a final volume of 2O μL containing 1 μL DNA template, $0 . 5 ~ \\mu \\mathrm { L }$ each primer at 1O nmol/L, 10 μL 2 $: \\times$ PCR Master Mix(Tiangen Biotech,Beijing, China）and 8 μL double-distilled water.The variant $a a c ( \\theta ^ { \\prime } )$ -Ib-cr gene was further identified by digestion with the BstF5I restriction enzyme(New England Biolabs,Ipswich,MA). The obtained DNA sequences were compared with those in GenBank using Basic Local Alignment Search Tool (BLAST). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mutations of Target Genes gyrA, gyrB, parC, and marA in Salmonella Indiana ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Primers were designed according to the literature to amplify the gyrA，gyrB，parC,and marA genes in the quinolone resistance-determining region (QRDR) of6 of the 130 strains of Salmonella Indiana.Three Salmonella strains were selected from farms (Strains 433,L355,and 404) and slaughterhouses(Strains L68, 453,and 273) for evaluation of target gene mutations. The obtained PCR products of the selected strains were purified and sequenced. The online gene library comparison feature in GenBank was used to compare sequences and confirm that the previously mentioned DNA sequences matched the standard Salmonella ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e09a2404ca4c0609ec3c09086fed9387e3108531da5b71390689ee6c99f64fb.jpg",
+        "table_caption": [
+            "Table 2. PCR primers of resistance genes and the gyrA, gyrB, parC,and marA genes in the QRDR. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene</td><td>Forward Primer (5'→3')</td><td>Reverse Primer (5'→3')</td><td>Annealing Temperature (C)</td><td>Size (bp)</td></tr><tr><td>qnrA</td><td>TTCAGCAAGAGGATTTCTCA</td><td>GGCAGCACTATTACTCCCAA</td><td>57</td><td>500</td></tr><tr><td>qnrB</td><td>CCTGAGCGGCACTGAATTTAT</td><td>GTTTGCTGCTCGCCAGTCGA</td><td>58</td><td>671</td></tr><tr><td>qnrS</td><td>CAATCATACATATCGGCACC</td><td>TCAGGATAAACAACAATACCC</td><td>58.5</td><td>420</td></tr><tr><td>aac(6')-Ib-cr</td><td>TTGCGATGCTCTATGAGTGGCTA</td><td>CTCGAATGCCTGGCGTGTTT</td><td>55</td><td>482</td></tr><tr><td>qepA</td><td>CCAGCTCGGCAACTTGATAC</td><td>ATGCTCGCCTTCCAGAAAA</td><td>54</td><td>500</td></tr><tr><td>gyrA</td><td>TATGCGATGTCGGTCATTGT</td><td>CACGAAATCCACCGTCTCTT</td><td>53.4</td><td>369</td></tr><tr><td>gyrB</td><td>GCGCTGTCCGAACTGTACCT</td><td>CGGTGATCAGCGTCGCCACTTCC</td><td>60</td><td>172</td></tr><tr><td>parC</td><td>TGCGTTGCCGTTTATTGG</td><td>TCGGCGTATTTGGACAGG</td><td>53.4</td><td>303</td></tr><tr><td>marA</td><td>GCAACGCTTGAGTATTTGCT</td><td>CATTTTCATGGTGCTCTTCG</td><td>53.4</td><td>479</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Typhimurium LT2 strain in the gene library. The corresponding DNA sequences of the tested bacteria were analyzed and compared to confirm mutation points and types. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ldentification and Susceptibility Testing ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The 130 strains collected from chicken fecal and meat samples were identified as Salmonella enterica serovar Indiana,of which 52 strains were from farms and 78 strains were from slaughterhouses. The remaining 163 isolates were identified as Salmonella enterica serovar Enteritidis. The only Salmonella serotypes identified were Indiana and Enteritidis in the 293 isolated strains. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The resistance rates of all quinolones tested in the Salmonella Indiana isolates from farms and slaughterhouses were 81.7 and $7 9 . 7 \\%$ ，respectively. The resistance rates of Salmonella from farms and slaughterhouses to the individual quinolones nalidixic acid,enrofloxacin,norfloxacin,andciprofloxacinwere1Oo,73.1, 71.2, and $8 2 . 7 \\%$ , and 100, 59.0, 79.5, and $8 0 . 2 \\%$ , respectively. Analysis of the drug sensitivity results showed that the isolated Salmonella strains were generally resistant to several frequently used quinolones. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Detection of Genes Associated with Quinolone Resistance in Salmonella ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCR was conducted on templates of the 130 Salmonella Indiana strains to detect the quinolone resistance determininants qnrA，qnrB,qnrS, $a a c ( { \\boldsymbol { \\theta } } ^ { \\prime } )$ -Ib cr, and qepA.The results of PCR analysis was negative for all resistance determinants except for $a a c ( 6 ^ { \\prime } )$ -Ib-cr, which was as high as 90.4 and $9 6 . 2 \\%$ in the farms and slaughterhouses,respectively (Table 3).The length of the fragment obtained by PCR amplification was 300 to 400 bp,which was consistent with the reported 346 bp for the $a a c ( \\theta ^ { \\prime } )$ -Ib-cr fragment (Lu et al., 2011). The PCR gene product was further identified by digestion with the BstF5I restriction enzyme. Finally, the sequence of the PCR amplification product was consistent with the $a a c ( 6 ^ { \\prime } )$ -Ib-cr sequence as seen by comparison using the BLAST search on GenBank.This demonstrated that the target gene was $a a c ( 6 ^ { \\prime } )$ -Ib-cr. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a476f7a4d31936f78b3ef392c8d1eeb54afb88be02aa9d6cb5344632b7b29ac9.jpg",
+        "table_caption": [
+            "Table 3.Resistance genes in Salmonella enterica serovar Indiana from chicken fecal and meat samples by PCR. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Source</td><td>Strains</td><td>aac(6')-Ib-cr</td><td>Positive Rate</td></tr><tr><td>Chicken farm</td><td>52</td><td>47</td><td>90.4%</td></tr><tr><td>Slaughterhouse</td><td>78</td><td>75</td><td>96.2%</td></tr><tr><td>Total</td><td>130</td><td>122</td><td>93.8%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Detection of Quinolone Target Gene Mutations ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Primers were designed according to the literature to amplify the gyrA，gyrB，parC,and marA genes in the QRDR of 6 Salmonella Indiana strains having different Pulsed Field Gel Electrophoresis (PFGE) patterns (Lu et al., 2011) isolated from farms (Strains 433,L355, and 404) and slaughterhouses (Strains L68,453,and 273).All 6 strains carried the 4 genes (gyrA，gyrB, parC,and marA),which is shown in Figures 1 and 2. The obtained PCR products were sequenced following purification and the mutations detected are shown in Table 4. Six different point mutations were detected in the 6 selected Salmonella Indiana strains,and gyrA and parC mutations were detected.The gyrA mutation was detected in all 6 strains tested,and was mainly in the loci of 83 and 87.The parC mutation was found in 5 of 6 Salmonella Indiana strains,but no strains hadthe gyrB or marA mutations.These6 strainswere resistant to nalidixic acid,ciprofloxacin，enrofloxacin, and norfloxacin. The positive rate of the gyrA and parC point mutations in Salmonella resistant to the 4 quinolones was higher than that of the same gene point mutations in strains with other drug-resistant phenotypes,indicating that when there were more point mutations of helicase-encoding gyrA and topoisomeraseencoding parC in a Salmonella strain，the quinolone drug-resistance of the strain was higher. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Salmonella enterica serovar Indiana is pathogenic to animals and humans (Li et al.，2013). The 130 Salmonella Indiana strains isolated in the present study from chickens in Shandong province accounted for $4 4 . 4 \\%$ of the total strains collected,which was about $1 6 \\%$ higher than the $2 8 . 3 \\%$ of the total strains collected in Hebi City, Henan province in 2O1O (Zhang et al.，2O1O).These results demonstrate an increased prevalence of Salmonella Indiana in farms and slaughterhouses of Shandong province. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5890b95c718c7690cffdb11d5f34a18d7d612bafaee74ffb409122a21d0e2d3.jpg",
+        "img_caption": [
+            "Figure1.AgelpotographoftheamplifiedCRproductsfom6almonellIdianastrainsisolatedfromfars(Strains4,L3and 404)and slaughterhouses (Strains L68,453,and 273)showing the presenceof the gyrAand parC genes in the QRDR,and $E$ .coli ATCC 25922 was used as control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "However,almost no information is available in the literature for $S$ . Indiana. Recently, the emergence of multidrug resistant $S$ .Typhimurium, $S$ .Paratyphi,and $S$ Agona suggests that this multi-antibiotic-resistant phenotype may emerge in other $S$ . enterica serotypes (Boyd et al.，2001; Meunier et al.， 2002). Also, the few reports on Salmonella Indiana in the domestic and international literature have not described the existence of quinolone resistance genes.However,the Salmonella Indiana isolated in this study was not only widespread in farms and slaughterhouses,but also showed characteristics of quinolone resistance.Contaminated food from animal sources is a major cause of enteric Salmonella infections in humans (Gordon and Tucker, 1965; Thorns, 2000).During slaughter and processing，Salmonella from the gastrointestinal tract of carrier birds can contaminate other carcasses and the slaughter and processinglines (Rostagno et al., 2006).Although efforts have concentrated on controlling contamination within abattoirs,a high proportion of carcasses are still found contaminated with Salmonella. Recently,a study at University of California Davis demonstrated that 4O% of the 120 participants involved with the preparation of raw poultry failed to cook their chicken to the required temperature of 74C to kill Salmonella (Holland, 2014). This statistic demonstrates the importance of using proper food preparation methods when cooking poultry and the risks of quinolone resistance in Salmonella serotypes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In an earlier study Wei and Chen (2005） isolated 68Salmonella strains from animal and human sources in China,and examined them for susceptibility to 6 fluoroquinolones. They found the resistance rate of Salmonella Indiana to enrofloxacin and norfloxacin was 9.3 and $3 . 1 \\%$ ，respectively. In the present study, the resistance rate of Salmonella Indiana to enrofloxacin and norfloxacin was as high as 66.O and $7 5 . 4 \\%$ ，respectively,which were much higher than previously reported. This indicates that Salmonella has produced stronger and more extensive drug resistance with the use of quinolones over time. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Park et al.(2006) found that qnrA，qnrB and qnrS coexisted in 313 strains of Enterobacteria,and 7/44 (15.9%) were $a a c ( 6 ^ { \\prime } )$ -Ib-cr positive strains and 66/269 $( 2 4 . 5 \\% )$ were $a a c ( 6 ^ { \\prime } )$ -Ib-cr negative strains that possessed the qnr gene.In another study,among 1O1 strains from the family Enterobacteriaceae (comprised of 89 $E$ . coli, 9 Klebsiella pneumonia,and 3 other genera) isolated from companion and food-producing animals, $3 4 . 7 \\%$ of the strains were drug resistant to quinolones mediated by plasmids.The $a a c ( 6 ^ { \\prime } )$ -Ib-cr, qnr,and qepA genes were detected alone or in combination in 19 (18.8%),8 (7.9%),and 16 $( 1 5 . 8 \\%$ ）strains,respectively; and the genes $a a c ( { \\boldsymbol { \\theta } } ^ { \\prime } )$ -Ib-cr and qepA coexisted in 5 strains (Ma et al.,2Oo9).Therefore,it can be assumed that these drug resistance genes may be present independently or jointly on the same plasmid,and play important roles in plasmid-mediated quinolone resistance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our study showed the $a a c ( 6 ^ { \\prime } )$ -Ib-cr gene was detected in isolates from all sources.The $a a c ( 6 ^ { \\prime } )$ -Ib cr gene is a variant of $a a c ( \\theta ^ { \\prime } )$ -Ib and is responsible for reduced susceptibility to ciprofloxacin and norfloxacin as a result of N-acetylation of the piperazinyl amine (Robicsek et al., 2O06; Jiang et al., 2008). Ciprofloxacin is often used for treatment of salmonellosis.However,the incidence of fluoroquinolone resistance or reduced susceptibility in Salmonella species has increased worldwide over the past decade and there have been reports of failed treatments with ciprofloxacin (Aarestrup et al.，2003). The $a a c ( \\theta ^ { \\prime } )$ Ib-cr gene also is widely distributed geographically and is stable over time in theUnited States (Park et al., 2006). Our findings suggest that the $a a c ( \\theta ^ { \\prime } )$ -Ib-cr gene may have already been prevalent among bacteria before the emergence of the fluoroquinolone resistance qnr genes.By digestion with BstF5I and sequence analysis, the variant $a a c ( \\theta ^ { \\prime } )$ -Ib-cr gene was further identified. The $a a c ( { \\theta } ^ { \\prime } )$ -Ib-cr gene was highly prevalent in our $S$ Indiana isolates,and was present in 75 (96.2%） of the 78 isolates from slaughterhouses and 47 (90.4%) of the 52 isolates from chicken farms. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/60c6701905ae634d196bd056982adaea442f2e5ff7a3bfbe94844798e79a48ea.jpg",
+        "img_caption": [
+            "Figure2.AgelphotographoftheamplifiedCRproductsfrom6SalmonellIndianastrainsisolatedfromfarms(Strains433,L355,and 404)and slaughterhouses (Strains L68,453,and273)showing the presenceof the marAand gyrB genes in the QRDR,and $E$ ：coliATCC25922 was used as control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8dedf1a8b6ec631d1a6c00aae38896d2e6b71695c1076752c520ce9cb07a47b.jpg",
+        "table_caption": [
+            "Table 4.Mutation loci of amino acids from target genes and regulatory genes in Salmonella enterica serovar Indiana.1 "
+        ],
+        "table_footnote": [
+            "1QRDR = Quinolone resistance-determining region. Fluoroquinolone abbreviations are defined as the following: NAL = Nalidixic acid,CIP = Ciprofloxacin,NOR = Norfloxacin, and ENRO= Enrofloxacin. "
+        ],
+        "table_body": "<html><body><table><tr><td>Source</td><td></td><td></td><td></td><td colspan=\"4\">MIC (μg/mL)</td></tr><tr><td></td><td>Strain</td><td>Serotype</td><td>QRDR Mutation</td><td>NAL</td><td>CIP</td><td>NOR</td><td>ENRO</td></tr><tr><td>Chicken farm</td><td>433</td><td>Indiana</td><td>gyrA S83L parC S80I</td><td>>128</td><td>4</td><td>32</td><td>4</td></tr><tr><td></td><td>L355</td><td>Indiana</td><td>gyrA S83I D87N</td><td>>128</td><td>2</td><td>32</td><td>2</td></tr><tr><td></td><td>404</td><td>Indiana</td><td>gyrA T83ID87N parC S80I</td><td>>128</td><td>4</td><td>64</td><td>4</td></tr><tr><td>Slaughterhouse</td><td>L68</td><td>Indiana</td><td>gyrA T83I D87N parC S80I</td><td>>128</td><td>4</td><td>64</td><td>2</td></tr><tr><td></td><td>453</td><td>Indiana</td><td>gyrA T83I parC S80I</td><td>>128</td><td>4</td><td>64</td><td>4</td></tr><tr><td></td><td>273</td><td>Indiana</td><td>parC S80I gyrA S83T</td><td>>128</td><td>2</td><td>64</td><td>2</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The variant $a a c ( 6 ^ { \\prime } )$ -Ib-cr gene was reportedly the first enzyme conferring resistance to 2 structurally different antibiotic families(Courvalin,2oo8),and the expression of $a a c ( { \\theta } ^ { \\prime } )$ -Ib-cr may facilitate the survival of DNA gyrase and topoisomerase IV mutants. In our study，the gyrA mutation was detected in all tested strains,and was mainly in the loci of 83 and 87.The parCmutation was found in 5 of 6 SalmonellaIndiana strains,and no strains had the gyrB and marA mutations.The point mutation positive rate for gyrA and parC in Salmonella resistant to all 4 quinolones was higher than that of the same gene point mutations in strains with other drug-resistant phenotypes,indicating that when there were more point mutations of helicaseencoding gyrA and topoisomerase-encoding parC in a Salmonella strain, the quinolone drug-resistance of the strain was higher. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,a total of 293 Salmonella strains were isolated from chicken farms and slaughterhouses in Shandong province of China，and 130 $( 4 4 . 4 \\% )$ were characterized as Salmonella enterica Indiana. The gene $a a c ( \\theta ^ { \\prime } )$ -Ib-cr had high detection rates of 90.4 and $9 6 . 2 \\%$ in chicken farms and slaughterhouses,respectively. Salmonella Indiana containing the gyrA and parC mutation was prevalent in farms and slaughterhouses and possessed a high frequency of the quinolone resistance determinant $a a c ( 6 ^ { \\prime } )$ -Ib-cr. The gyrB and marA mutations were not observed.This indicated that theSalmonellaIndiana isolated from these farms and slaughterhouses may have originated from the same source. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Aarestrup,F.M.,C.Wiuff,K.Molbak,and E.J.Threlfall.2003. Isit time to change fluoroquinolone breakpoints for Salmonella spp.Antimicrob.Agents Chemother.47:827-829.   \nBoyd,D.,G.A.Peters,A.Cloeckaert,K.S.Boumedine,E.ChaslusDancla,H.Imberechts,and MR.Mulvey.20o1.Complete nucleotide sequence of a 43-kilobase genomic island associated with the multidrug resistance region of Salmonella enterica serovar Typhimurium DT104 and its identification in phage type DT120 and serovar Agona.J.Bacteriol.183:5725-5732.   \nCLSI (Clinical and Laboratory Standards Institute).2Oo7.Performance Standards for Antimicrobial Susceptibility Testing,Seventeenth Informational Supplement.CLSI document M1oo-S17. Clinical and Laboratory Standards Institute,Wayne,PA.   \nCLSI(Clinical and Laboratory Standards Institute).2O08.Performance Standards for Antimicrobial Disk and Dilution Susceptibility Tests for Bacteria Isolated From Animals,Approved Standard,3rd Ed.Informational Supplement.CLSI document M31- A3.Clinical and Laboratory Standards Institute,Wayne,PA. Salmonella menston infection of fowls and the effect of feeding poultry food artificially infected with Salmonella.Br.Poult.Sci. 6:251-264.   \nDT104 Study GroupHelms,M.,S.Ethelberg,and K.Molbak.2005. International Salmonella Typhimurium DT104 infections,1992- 2001.Emerg.Infect Dis.11:859-867.   \nHolland, J. 2014.Home cooks caught on tape handling chicken unsafely. http://www.modbee.com/2014/07/01/34201. Accessed Jul. 9,2014.   \nHooper,D.C. 20o1. Emerging mechanisms of fluoroquinolone resistance.Emerg.Infect Dis.7:337-341.   \nJiang,Y.,Z. Zhou,Y.Qian, Z. Wei,Y. Yu, S.Hu,and L. Li. 2008.Plasmid-mediated quinolone resistance determinants qnr and $a a c ( \\theta ^ { \\prime } )$ -Ib-cr in extended-spectrum $\\beta$ -lactamase-producing Escherichia coli and Klebsiella pneumoniae in China.J.Antimicrob.Chemother.61:1003-1006.   \nLi,G.-s.,Y.-y. Wang, Z.-y. Zhu, H.-x. Wang,D.-h. Liu,W. Qiu, Y. Zheng,F.-q. Zhang,and Q.-s. Fan. 2013. Identification and drug resistance of the first Salmonella Indiana in Yunnan military garrison. Chin. Trop.Med.13:1051-1053.   \nLi,W.,and Z.Li. 2002.Development and present situation of veterinary quinolones.Chin.J.Vet.Med.36:37-39.   \nLu,Y.,C. M. Wu,G. J. Wu, H. Y. Zhao, T. He,X. Y.Cao,L. Dai,L.N. Xia, S. S. Qin,and J. Z. Shen.2011. Prevalence of antimicrobial resistance among Salmonella isolates from chicken in China.Foodborne Pathog.Dis.8:45-53.   \nMa, J.,Z. Zeng,Z.Chen, X. Xu,X.Wang,Y.Deng,D.Lu,L.Huang, Y. Zhang,J.Liu,and M. Wang.20o9.High prevalence of plasmidmediated quinolone resistance determinants qnr, $a a c ( \\theta ^ { \\prime } )$ -Ib-cr, and qepA among ceftiofur-resistant Enterobacteriaceae isolates from companion and food-producing animals.Antimicrob.Agents Chemother. 53:519-524.   \nMalorny，B.，A. Schroeter,and R. Helmuth. 1999. Incidence of quinolone resistance over the period 1986 to 1998 in veterinary Salmonella isolates from Germany. Antimicrob.Agents Chemother.43:2278-2282.   \nMeunier, D.,D.Boyd, M.R. Mulvey, S. Baucheron, C.Mammina,A. Nastasi, E. Chaslus-Dancla,and A. Cloeckaert.202.Salmonella enterica serotype Typhimurium DT 104 antibiotic resistance genomic island I in serotype Paratyphi B. Emerg.Infect Dis.8:430- 433.   \nMichael, G. B., P. Butaye,A. Cloeckaert，and S. Schwarz. 2006. Genes and mutations conferring antimicrobial resistance in Salmonella: An update.Microbes Infect. 8:1898-1914.   \nPark,C.H.,A. Robicsek,G.A. Jacoby,D.Sahm,and D.C.Hooper. 2006.Prevalence in the United States of $a a c ( \\theta ^ { \\prime } )$ -Ib-cr encoding a ciprofloxacin-modifying enzyme.Antimicrob.Agents Chemother. 50:3953-3955.   \nPerichon, B.,P.Courvalin,and M. Galimand. 20o7. Transferable resistance to aminoglycosides by methylation of G1405 in 16S rRNA and to hydrophilic fluoroquinolones by QepA-mediated efflux in Escherichia coli.Antimicrob. Agents Chemother.51:2464-2469.   \nPopoff,M. Y.,and L.Le Minor.1992.Antigenic Formulas of the Salmonella Serovars, 6th revision.WHO Collaborating Center for Reference and Research on Salmonella, Institut Pasteur,Paris, France.   \nRobicsek，A.，J. Strahilevitz,G．A.Jacoby，M.Macielag，D. Abbanat，C.H.Park，K.Bush，and D.C.Hooper.2006. Fluoroquinolone-modifying enzyme:A new adaptation of a common aminoglycoside acetyltransferase.Nat. Med. 12:83-88.   \nRostagno,M.H.,I.V.Wesley,D.W.Trampel,andH.S.Hurd. 2006.Salmonella prevalence in market-age turkeys on-farm and at slaughter.Poult. Sci. 85:1838-1842.   \nSalam，F.，and I.E. Tothill. 20o9.Detection of Salmonella Ty phimurium using an electrochemical immunosens.Biosens.Bioelectron.24:2630-2636.   \nStrahilevitz,J.,G.A. Jacoby,D. C.Hooper,and A. Robicsek.2009. Plasmid-mediated quinolone resistance:A multifaceted threat. Clin.Microbiol. Rev. 22:664-689.   \nThorns,C.J.20oo.Bacterial food-borne zoonoses.Rev. Sci. Technol. 19:226-239.   \nWang，M.-y.，M.-h.Xu,H.-w.Pan,and Z.-g.Wang.20O8.Establishment and preliminary application of LAMP invA gene assay forrapid detection of Salmonella.Chin.J.HealthLab.Technol. 18:1971-1973.   \nWang,S.,H.Duan,W. Zhang,and J.W.Li.20o7.Analysis of bacterial foodborne disease outbreaks in China between 1994 and 2005.FEMS Immunol.Med.Microbiol. 51:8-13.   \nWei,X.,and Z.Chen.20o5.Studies on the minimum inhibitory concentration of six kinds of fluoroquinolones to Salmonella. Chin. J.Vet.Med.39:4-8.   \nXia,L.N.,L.Li,C.M.Wu,Y.Q.Liu,X.Q. Tao,L.Dai,Y. H.Qi,L.M.Lu,and J.Z.Shen.201O.A survey of plasmidmediated fluoroquinolone resistance genes from Escherichia coli isolates and their dissemination in Shandong,China.Foodborne Path.Dis.7:207-215.   \nYang,B.-w.,J.-l. Shen,M.-l. Xi, X.-l. Zhang,S.-h. Cui,X.Wang, and J.-h.Meng.2011.Antibacterial susceptibility and subtypes ofSalmonella isolates from retail chicken in Xi'an in 2oo7-2008. J.Food Sci. 32:130-136.   \nZhang, X. L.， B. W. Yang, X. G.Liao,X.L. Guo, and H. X. Chui. 2010. Antimicrobial resistance of foodborne and poultry-borne Salmonella in Hebi City, Henan province. Chin. J. Zoonoses. 26:1134- 1136. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

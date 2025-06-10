@@ -1,0 +1,197 @@
+# DOI:10.5846/stxb201603270548
+
+曾令清,付成,奚露,彭姜岚,付世建.幼鱼能量代谢和个性行为的个体变异及表型关联.生态学报,2017,37(14)：4807-4816.ZengLQ,FuigJcdalbsoli(Parabramispekinensis）.Acta Ecologica Sinica,2017,37(14):4807-4816.
+
+# 鳊幼鱼能量代谢和个性行为的个体变异及表型关联
+
+曾令清，付成，奚露,彭姜岚，付世建重庆师范大学进化生理与行为学实验室,动物生物学重庆市重点实验室，重庆401331摘要：自然界中动物的表型特征(如形态、生理和行为)存在明显的种内个体差异,并且该差异在不同环境条件下保持稳定。为考察鲤科鱼类能量代谢和个性行为的个体差异及二者的关联,以（Parabramis pekinensis）幼鱼为实验对象,在( $2 5 . 0 { \pm } 0 . 5$ ） $\mathcal { \mathrm { C } }$ 条件下测定30尾幼鱼的标准代谢率(SMR）、最大代谢率(MMR,由力竭运动诱导)和过量耗氧(EPOC)并计算代谢空间（MS）和相对代谢空间(FAS）,随后测定幼鱼的勇敢性（Boldness)和活跃性（Activity)两个个性行为学指标(测定I）,1个月后（测定I)重复测定该种鱼的上述表型特征参数。结果显示:(1)1个月后幼鱼的体重和体长均显著增加且具有较好的重复性（二者 $P { < } 0 . 0 5$ ）。（2)除 MMR、MS、FAS 和EPOC 外,幼鱼SMR具有明显的重复性;SMR与MS、FAS 以及EPOC 均呈现负相关（所有 $P { < } 0 . 0 5$ ）,与MMR不相关;MS和FAS与MMR呈现正相关（二者 $P { < } 0 . 0 1$ );实验期间,鳊幼鱼部分能量代谢参数的相关性保持不变。(3)的勇敢性(潜伏时间)重复性较差,且测定Ⅱ幼鱼的潜伏时间明显增加( $_ { _ { P < 0 . 0 5 ) } }$ ,测定I和测定Ⅱ的潜伏时间与 SMR均不相关;活跃性的移动路程、游泳速度和运动时间比的重复性较差,三者之间的正相关不受时间影响;相比较测定I，测定Ⅱ幼鱼活跃性的3个指标均明显增加（所有 $\scriptstyle P < 0 . 0 5$ )。（4)不论测定I还是测定Ⅱ幼鱼的SMR与实验期间特定体重增长率(SGR)均呈正相关(二者 $P < 0 . 0 1 \$ )。研究表明在实验室环境条件下幼鱼的能量代谢和个性行为具有非平行的变化规律和重复性,表型特征之间存在关联，并且这些关联受环境条件的影响程度不尽相同;研究还提示该种鱼的SMR在短期内可预测个体的生长率。 （.
+
+关键词：标准代谢率;最大代谢率；个性;表型变异；鱼
+
+# Phenotypic correlations and individual variation of energy metabolism and personality in juvenile Chinese bream (Parabramis pekinensis)
+
+ZENG Lingqing， FU Cheng，XI Lu,Peng Jianglan， FU Shijian\*   
+LaboratoryofEoutioaryPhysilogydBehiouhogqingKyboratorfAialologyhogingalUniestoi   
+401331，China
+
+Abstract: In nature，consistent individual diferences（CIDs）in phenotypic traits（e.g.，morphology，physiology，or behavior）area widespread phenomenon in animals.CIDs in phenotypic traitsare maintained over time，and can be measured byrepeatabilityat diferent times.Weused juvenile Chinese bream （Parabramis pekinensis）asan animal model todetermineindividual variationandcorrelation betwenenergy metabolismand personality behaviorsofcyprinid fish. Under conditions of $( 2 5 \pm 0 . 5 ) \mathrm { { ^ { q } C } }$ ，the standard metabolic rate（SMR），maximum metabolic rate（MMR，induced by exhaustiveexercise），and excesspost-exercise oxygen consumption（EPOC）offish were determined，and the metabolic scope（MS）and factorial metabolicscope（FAS）were also calculated.Personality behaviors，including boldness (indicatedby latency），activity（indicated by distance moved，average swimming velocity，and percent timespent moving）were measuredforindividuals（trialI).Allof theaforementioned phenotypic traits were measuredagainafterone month（trial $\mathbb { I }$ ).The results showed that both body mass and body length of juvenile Chinese bream increased substantially，and these two morphological parameters showed good repeatability during the experiment（both $P < 0 . 0 5$ ）. Onlythe SMR of fish was repeatable,and not MMR,MS,FAS,and EPOC.SMR was negativelycorrelated with MS,FAS, and EPOC（all $P < 0 . 0 5$ ），and showed no correlation with MMR.MS had a positive correlation with both FAS and MMR （both $P < 0 . 0 5$ ).The direction of some correlations between components of energy metabolism of the juvenile Chinese bream did notchange during thecourse of experiment.Boldness （indicatedas latency）of theexperimental fish did not exhibit repeatability，and was significantly higher in trial I than in trial I（ $P < 0 . 0 5$ ).The latencies of the two measurements were notcorelated with SMR.In adition，distance moved，swimming velocity，and percent time spent moving were also notrepeatable.However,therelationshipsamong these threeactivity parameters wereallpositive in spite oftheeffectsof time.Whencomparedtothoseof trialI,thevaluesof thethree parametersOfactivityallincreased intrial ⅡI. SMR inthetwo trials were positivelyrelated tothe specific growth rate(SGR）in this fish species during thecourseof experiment.The present studysugests there were nonparalel changes in tendencyandrepeatabilitybetween theenergy metabolismandpersonality behaviorsof juvenile Chinese breamunder artificial rearing conditions where environmental parameters were spatiallyand temporally predictable.Some corelations existed between the phenotypic traitsand were substantiallyafected，todifferent extents，byenvironmentalconditions.SMRof juvenileChinesebreammaypredicttheir growth trajectory during their juvenile stage.
+
+KeyWords:standard metabolicrate；maximum metabolicrate；personality；phenotypic variation；Parabramis pekinensis
+
+由于地域差异、气候变化及人为干扰，自然界水体环境具有很大的时空异质性，不仅体现在水体理化因子（如温度、溶氧),还呈现于环境资源(如食物丰度)方面。水体环境的变化必然影响鱼类的生理功能和行为特征[1-6]。这些研究关注鱼类种内个体差异现象,它是指在某个种群的表型(如能量代谢和个性行为)存在个体差异,并且该差异在一段时间内保持稳定（即可重复测量）[7]。标准代谢率(Standard metabolic rate，SMR)是指变温动物在非活动、无食物消化的最小机体能量消耗强度[8]。即使排除体重、性别和年龄差异后,鱼类SMR 的种内个体差异仍可达2—3倍[9-]。因此,上述研究首先聚焦于 SMR 的个体差异,这是因为 SMR 是生活史理论重要的能量代谢参数,某些种类的 SMR可占个体能量总支出的 $5 0 \% ^ { [ 1 2 ] }$ ,影响机体其它生理功能（如生长、运动、繁殖)的能量分配,对个体乃至种群的生活史特征和适合度产生影响[7,13]。
+
+动物个性也称行为综合症,是指在时空变化过程中动物种内存在的整体稳定的个体行为差异,并且完全是动物自身状态的内在表现特征[14-15]。研究人员已筛选了一系列与个体适合度相关的个性行为指标,如活跃性、勇敢性、好斗性、探索性、群集性及反应性等6个指标[15-16],其中前4个指标在鱼类研究中被广泛采用[2,5-6.16]。研究发现鲑鱼类的 SMR 与个性行为存在关联,如大西洋鲑（Salmo salar）和鳟（Salmo trutta）的SMR越高,其社群等级越高,好斗性越强[9-10,17];SMR 越高的欧鲈（Dicentrarchus labrax）个体的活跃性也较强[2]。鲤科鱼类锦鲫(Carassus auratus)幼鱼也具有社群等级和好斗性行为,但与 SMR 并不相关[18]。因此,在鲑鱼类中发现的能量代谢与个性行为的关联现象是否普遍存在于鲤科鱼类,已成为研究人员普遍关注的科学问题[6,19]。
+
+（Parabramis pekinensis）为温水性鲤科鱼类,是一种重要经济鱼类,也是基础研究的实验材料,相关研究涉及温度与能量代谢和低氧耐受的关系[20-21],然而有关该种鱼能量代谢与个性行为个体差异及表型关联的研究尚未见报道。本研究以幼鱼为实验对象,考察该种鱼能量代谢和个性行为的种内个体差异及重复性，分析能量代谢与个性行为之间的关联,探讨上述关联与环境因素的关系,为鱼类生态学研究累积资料,也为经济鱼类的人工养殖提供参考数据。
+
+http://www.ecologica.cn
+
+# 1材料与方法
+
+# 1.1实验鱼来源与驯化
+
+实验鱼购于重庆市北碚区歇马人工养殖基地,运回后在重庆师范大学进化生理与行为学实验室3个循环控温水槽（约 $2 5 0 ~ \mathrm { L } )$ )中驯化3周，驯化水温为 $( 2 5 { \pm } 0 . 5 ) \mathrm { { ^ { \circ } C } }$ 。实验用水采用曝气3d后的除氯自来水。用充气泵持续向驯化水体充入空气以使其溶氧水平 $\mathrm { \hbar \gtrsim 7 . 0 ~ m g / L }$ )接近饱和状态,每日换水量约换驯化水体积的$1 5 \%$ ,光周期为 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 。每隔1d用中国通威公司的浮性饲料（ $( 4 1 . 2 { \pm } 0 . 9 ) \%$ 蛋白质、 $( 8 . 5 \pm 0 . 5 ) \%$ 脂肪、$( 2 5 . 7 { \pm } 1 . 2 ) \%$ 的碳水化合物和( $( 1 2 . 3 { \pm } 0 . 4 ) \%$ 灰分)对所有鱼饱足投喂两次（当天9：00和15：00）。为减少流水和曝气对鱼摄食的影响,投喂之前 $5 ~ \mathrm { m i n }$ 关闭气泵和水槽的循环水泵,使鱼自由摄食 $3 0 ~ \mathrm { m i n }$ ,随后清除剩余饵料、残渣和粪便。
+
+# 1.2实验设计
+
+驯化结束后，选取30尾鱼体健康、体重相近 $( 7 . 8 1 \pm 0 . 2 4 ^ { \cdot }$ ） $\mathbf { g }$ 的鳊幼鱼作为实验对象,对鱼禁食 $^ { 4 8 \mathrm { ~ h ~ } }$ ,然后进行SMR 测定,随后测定单尾鱼的最大代谢率（MMR）、代谢空间（AS)以及过量耗氧量(EPOC）。能量代谢测定后，对鳊幼鱼进行1次维持日粮水平（约 $0 . 5 \%$ 体重)的饵料投喂，以使运动后鳊幼鱼的生理状态较快恢复，所用饵料与驯化期间的一致。在测定单尾鱼的个性行为之前对鱼禁食 $^ { 4 8 \mathrm { ~ h ~ } }$ ，该时间足以使饵料消化吸收生理活动完全结束,不影响后续个性行为观察实验;随后对鳊幼鱼进行个性行为(勇敢性和活跃性)的观察和拍摄。所有实验(测定I)结束之后,将鱼放回已编号的养殖单元格（长 $1 7 \mathrm { c m } \times \$ 宽 $1 0 \ \mathrm { c m } \ \times$ 高 $1 5 \ \mathrm { c m }$ ,水深12cm）。为防止幼鱼生长过快及饲养单元格大小成为其生命活动的空间限制因素,并基于预备生长实验,对所有鱼每隔3d进行一次饱足日粮的饵料投喂。1个月之后,对所有鱼的形态参数（体重和体长）、能量代谢特征（SMR、MMR、AS 和EPOC)及个性行为重复测定1次（测定ⅡI）。实验期间,养殖水槽的溶氧水平和水温的控制、水体更换方式以及光周期均与驯化期间保持一致。鳊幼鱼的特定体重生长率( $\mathrm { ' S G R , \mathcal { H } A ) = 1 0 0 \times [ \ln }$ $\ d ( \ b { W } _ { \mathrm { t } } ) - \mathrm { l n } ( \ b { W } _ { 0 } ) \ b { \mathrm { ] } } \ / \ d t$ ,其中 $\boldsymbol { \mathcal { W } } _ { 0 }$ 为初始体重（g），W为终末体重（g）,t为实验时间 $( 3 0 \mathrm { ~ d } )$ 。
+
+# 1.3实验参数与测定方法
+
+# 1.3.1 SMR
+
+用流水式呼吸代谢仪进行SMR测定。测定前，将鱼( $n = 3 0$ )装入代谢仪的呼吸室中驯化 $^ { 4 8 \mathrm { ~ h ~ } }$ ,并测量每尾鱼的体重(精度 $\mathbf { 0 . 0 1 \ g } )$ 和体长（精度 $0 . 1 \ \mathrm { c m } { \stackrel { . } { } }$ ）。在第3天的 $9 : 0 0 \ 、 1 1 : 0 0 \ 、 1 3 : 0 0 \ 、 1 5 : 0 0 \ 、 1 7 : 0 0 \ 、 1 9 : 0 0$ 和21:00用溶氧仪( $\mathrm { H Q } _ { 3 0 \mathrm { d } } ^ { }$ ,美国哈希公司)测量鳊幼鱼的 SMR(用耗氧率表征)。在测定过程中,实验室环境保持安静以减少环境噪声对鱼生理代谢的干扰。因为鱼类存在生理代谢的昼夜节律[22],，本研究设定的采样时间覆盖了白天和夜晚,将7次重复测定的耗氧率的平均值作为鳊幼鱼的 SMR( $\mathbf { m g \Lambda } 0 _ { _ 2 } \mathbf { k g } ^ { - 1 } \mathbf { h } ^ { - 1 }$ ),其计算公式为：
+
+$$
+{ \mathrm { S M R } } = \varDelta \mathrm { O } _ { 2 } \times \ v \ / \ m ^ { 0 . 7 5 }
+$$
+
+式中,SMR为标准代谢率， $\varDelta 0 _ { \frac { 3 } { 2 } }$ 为空白呼吸室(无鱼)和实验呼吸室(有鱼)出水口的溶氧差值( $\mathrm { ~ m g ~ O _ { 2 } / L ~ }$ ）， $\mathbf { \sigma } _ { v }$ 为呼吸室的流量( $\mathrm { L } / \hbar )$ ， $m$ 为鱼的体重( $\mathbf { \nabla } _ { \mathbf { k g } } ^ { \prime } )$ ,0.75为体重校正系数[18]。
+
+# 1.3.2MMR 和 EPOC
+
+在SMR 测定后的第2天,本研究通过力竭性运动诱导个体的MMR。将鱼从呼吸室取出至力竭运动驱赶装置的环形水道( $\varphi$ 外 $= 5 2 \ \mathrm { c m } \ , \varphi$ 内 $= 2 8 ~ \mathrm { c m }$ ,水体容量约为 $2 0 \mathrm { ~ L ~ }$ ,水深 $1 0 ~ \mathrm { c m } ~ \$ )中,用手不断驱赶环形水道（水流速度约 $6 0 \ \mathrm { c m / s }$ )中的鳊幼鱼以使其保持逆流游泳直至运动力竭;处于运动力竭状态的鱼通常失去鱼体平衡且用手继续触碰时不再有明显应激反应[23]。随后迅速( $1 5 \mathrm { ~ s ~ }$ 内)将鱼转移至呼吸室内并进行恢复代谢测定。在进行 $0 . 5 \mathrm { ~ h ~ }$ 的恢复代谢测定过程中，呼吸室的水流速度设定约为 $5 0 0 ~ \mathrm { m L / m i n }$ ,数据采集时间设定为运动力竭后 $1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 1 0 , 1 5 , 2 0 , 2 5 , 3 0 \operatorname* { m i n }$ 。恢复代谢的测量方法及计算公式均与SMR一致。将此时间段获取的最大耗氧率作为单尾鱼的MMR,计算代谢空间( $\mathrm { M S } = \mathrm { M M R } { \mathrm { - } } \mathrm { S M R }$ $\begin{array} { r } { \operatorname* { m g } \mathbf { O } _ { 2 } \mathbf { k g } ^ { - 1 } \mathbf { h } ^ { - 1 } , } \end{array}$ )和相对代谢空间( $\mathrm { F A S = }$ MMR/SMR,无量纲)。力竭运动后的过量耗氧 $\mathrm { ^ { ' } E P O C , m g \ O _ { 2 } / k g \ \rangle }$ 为力竭运动恢复过程中鳊幼鱼的代谢率超过SMR之上的耗氧量总和。为考察鳊幼鱼的个体差异及其重复性,并鉴于运动力竭后的恢复代谢曲线的特征,本研究仅计算单尾鱼在1— $1 0 ~ \mathrm { m i n }$ 之间的EPOC,用于统计分析。实验结束后,将单尾鱼放回单元格进行恢复。
+
+# 1.3.3 个性行为
+
+在能量代谢测定之后,对所有鱼进行一次维持日常的饵料投喂,饵料与驯化期间一致。在 $^ { 4 8 \mathrm { ~ h ~ } }$ 之后，进行个性行为观察和拍摄。本研究个性行为包括勇敢性和活跃性,其中勇敢性的评价指标为潜伏时间（s）,活跃性的评价指标包括移动路程( $\left| \mathrm { c m } \right.$ 、游泳速度( $\mathrm { c m / s } \mathrm { \dot { \Omega } }$ )和运动时间比( $\mathrm { \ P T M } , \% )$ 。将单尾鱼移入实验室自行设计的行为学观察装置（长 $6 0 \ \mathrm { c m } \ \times$ 宽 $2 0 \ \mathrm { c m } \ \times$ 高 $2 0 ~ \mathrm { c m }$ )的驯化室（长 $2 0 \ \mathrm { c m } \ \times$ 宽 $2 0 ~ \mathrm { c m }$ )驯化 $6 0 ~ \mathrm { { m i n } }$ ,该装置的具体结构详见本实验室的前期研究工作[5-6]。个性行为的观察与拍摄期间,实验环境保持安静,以使幼鱼的个性行为完全由其内部生理状态决定。
+
+勇敢性是评价鱼类进入新异环境的勇敢程度,此新异环境是鱼类从未经历的，以个体自实验开始时初次进入新环境所用的最短时间(称为潜伏时间),该时间越长,鱼类的勇敢性越低,反之越高。具体方法：鱼在驯化室适应 $^ { \mathrm { ~ 1 ~ h ~ } }$ 后,轻轻打开驯化室与观察室之间挡板上的活动门,同时开启在观察室上方装连接电脑的摄像头，拍摄鱼进入观察室（长 $4 0 \ \mathrm { c m } \ \times$ 宽 $2 0 ~ \mathrm { c m }$ )的活动,共持续拍摄 $1 5 ~ \mathrm { m i n }$ 。对视频分析,得到每尾鱼初次进入观察室的时间。判定标准：从正上方角度观察,当鱼的上吻端刚好越过分界线时,此时对应的时间为潜伏时间。
+
+活跃性是评价鱼类的活跃程度。本研究评价鱼类的活跃性指标包括移动路程、游泳速度以及PTM，评价指标的数值越高,说明鱼的活跃性越强。具体方法：在勇敢性测定完后,将活动门关闭,使鱼在观察室驯化1h。随后拍摄鱼的自发活动,共进行 $1 0 ~ \mathrm { m i n }$ 的拍摄。通过动物轨迹跟踪系统Ethvision XT(9.0)软件对视频分析。
+
+# 1.4数据处理与统计
+
+实验数据先用Excel进行整理计算,再采用 SPSS19.0统计软件完成数理统计工作。所有统计值以平均值 $\pm$ 标准误( $\mathrm { M e a n \pm S E }$ ）表示，显著性水平为 $\textstyle P < 0 . { \mathrm { ~ } } 0 5$ 。采用配对T-检验对两次测定的实验表型参数的平均值进行显著性统计。能量代谢参数之间、个性行为参数之间的相关性、SMR与个性行为的相关性以及所有表型参数的重复性均采用Pearson相关分析。
+
+# 2结果
+
+2.1形态参数及其重复性
+
+测定I时鳊幼鱼的体重与体长平均值分别为 $7 . 8 1 { \scriptstyle \pm 0 . 2 4 \ \mathrm { g } }$ 和 $7 . 5 5 { \scriptstyle \pm 0 . 0 7 } \ \mathrm { c m }$ ,而测定 $\mathbb { I }$ 时体重和体长分别明显增加至 $( 9 . 1 7 { \scriptstyle \pm 0 . 2 4 } )$ g和 $( 7 . 8 9 { \scriptstyle \pm 0 . 0 8 } ) $ $\mathrm { c m }$ （体重 $T = 1 5 . 7 0 7 , P < 0 . 0 0 1$ ；体长 $T \mathrm { = } 7 . 6 9 6 , P < 0 . 0 0 1 )$ 。实验期间,鳊幼鱼的体重和体长均呈较好的重复性（体重 ${ r = 0 . 9 3 6 }$ ， $P < 0 . 0 0 1$ ;体长 $_ { r = 0 . 8 1 7 }$ ， $P < 0 . 0 0 1$ ）。
+
+# 2.2能量代谢和个性行为的变异情况
+
+一个月后鳊幼鱼的 SMR下降了 $2 8 . 2 \%$ （ $T = 4 . 2 7 3$ ， $P < 0 . 0 0 1$ ）,而 MMR、MS、FAS 和 EPOC 无显著变化( MMR : $T = 1 . 5 4 2 , P = 0 . 1 3 4$ ; MS : $T = 0 . 3 5 8$ ， $P = 0 . 7 2 3$ ; FAS: $T = 1 . 2 5 7$ ， $P = 0 . 2 1 9$ ; EPOC : $T = 1 . 4 3 6$ ， $P = 0 . 1 6 2$ ）（表1）。除MMR的变异系数(CV)外,SMR、MS、FAS 和EPOC的CV均变小。与CV 的变化方向相似,能量代谢参数的变异倍率(最大值/最小值)也呈下降趋势(表1）。
+
+鳊幼鱼的勇敢性(以潜伏时间评价)明显降低( $T { = } { - } 2 . 5 1 1$ ， $P { = } 0 . 0 1 8 \$ ),相比较于测定I（8尾,占 $2 6 . 7 \%$ ），在测定Ⅱ中进入观察区的鳊幼鱼仅有3尾，占 $10 \%$ 。测定 $\mathbb { I }$ 时鳊幼鱼的移动路程、游泳速度及运动时间百分比(PTM)均明显大于测定I（移动路程 $T = - 3 . 2 5 2$ ， $P = 0 . 0 0 3$ ;游泳速度 $T = - 3 . 2 0 3$ ， $P = 0 . 0 0 3$ ; PTM: $T =$ $- 3 . 0 8 6$ ， $P { = } 0 . 0 0 4 \$ )。鳊幼鱼潜伏时间的CV 和变异倍率下降,而其移动路程、游泳速度以及PTM的CV 和变异倍率均增加(表1）。
+
+Table1Summaryof datacollected from juvenile Chinese bream（Parabramis pekinensis）in the present study   
+
+<html><body><table><tr><td>指标类型 Types of index</td><td>测定次序 Measurements</td><td>参数 Parameters</td><td>平均值±标准误 Mean±SE</td><td>最大值 Maximum</td><td>最小值 Minimum</td><td>变异倍率 Variation rate</td><td>变异系数 CV/%</td></tr><tr><td>1能量代谢</td><td>测定ITrialI</td><td>标准代谢率/（mgOkg-1h-1）</td><td>86.0±5.8</td><td>148.1</td><td>47.7</td><td>3.1</td><td>36.6</td></tr><tr><td>Energy</td><td></td><td>最大代谢率/（mgOkg-1h-1)</td><td>232.4±7.8</td><td>297.0</td><td>141.0</td><td>2.1</td><td>18.4</td></tr><tr><td>metabolism</td><td></td><td>代谢空间/（mg Okg-1h-1)</td><td>146.4±10.0</td><td>241.8</td><td>34.5</td><td>7.0</td><td>37.2</td></tr><tr><td></td><td></td><td>相对代谢空间</td><td>3.1±0.2</td><td>5.7</td><td>1.3</td><td>4.5</td><td>41.9</td></tr><tr><td></td><td></td><td>过量耗氧/（mgO2/kg)</td><td>14.3±1.3</td><td>28.0</td><td>1.0</td><td>27.2</td><td>50.7</td></tr><tr><td></td><td>测定ⅡI Trial ⅡI</td><td>标准代谢率/（mgO2kg-1h-1）</td><td>64.5±1.6 *</td><td>80.5</td><td>45.9</td><td>1.75</td><td>13.8</td></tr><tr><td></td><td></td><td>最大代谢率/（mgOkg-1h-1）</td><td>215.4±18.4</td><td>313.6</td><td>141.0</td><td>2.2</td><td>18.4</td></tr><tr><td></td><td></td><td>代谢空间/（mgO2kg-1h-1)</td><td>150.8±7.3</td><td>241.3</td><td>76.1</td><td>3.2</td><td>26.5</td></tr><tr><td></td><td></td><td>相对代谢空间</td><td>3.4±0.1</td><td>5.0</td><td>2.2</td><td>2.3</td><td>21.4</td></tr><tr><td></td><td></td><td>过量耗氧/（mgO/kg)</td><td>12.5±0.6</td><td>18.4</td><td>6.1</td><td>3.0</td><td>28.0</td></tr><tr><td>2个性行为</td><td>测定ITrial I</td><td>勇敢性之潜伏时间/s</td><td>672±63</td><td>900</td><td>1</td><td>129</td><td>51.1</td></tr><tr><td>Personality</td><td></td><td>活跃性之运动时间比/%</td><td>21.3±1.3</td><td>34.8</td><td>8.9</td><td>3.9</td><td>34.6</td></tr><tr><td>behaviour</td><td></td><td>活跃性之游泳速度/(cm/s)</td><td>1.7±0.1</td><td>3.2</td><td>0.7</td><td>4.7</td><td>39.6</td></tr><tr><td></td><td></td><td>活跃性之移动路程/cm</td><td>989±68</td><td>1737</td><td>410</td><td>4.2</td><td>37.4</td></tr><tr><td></td><td>测定ⅡITrial ⅡI</td><td>勇敢性之潜伏时间/s</td><td>859±31 *</td><td>900</td><td>10</td><td>90</td><td>19.9</td></tr><tr><td></td><td></td><td>活跃性之运动时间比/%</td><td>28.6±1.9 *</td><td>50.6</td><td>10.1</td><td>5.0</td><td>36.2</td></tr><tr><td></td><td></td><td>活跃性之游泳速度/(cm/s)</td><td>3.1±0.4*</td><td>10.0</td><td>0.8</td><td>13.2</td><td>67.9</td></tr><tr><td></td><td></td><td>活跃性之移动路程/cm</td><td>1820±231</td><td>5890</td><td>438</td><td>13.7</td><td>69.6</td></tr></table></body></html>
+
+变异倍率 $\ c =$ 最大值/最小值；\*表示两次测定中间同一指标数据差异显著( $P { < } 0 . 0 5 )$
+
+# 2.3能量代谢和个性行为的相关性及重复性
+
+测定I和测定Ⅱ的鳊幼鱼 SMR与MMR均不相关;在测定I,SMR与AS、FAS 和EPOC 呈负相关,但在测定ⅡI,仅SMR与FAS及EPOC 呈负相关,其它二者不存在相关性（表2）。此外,测定I和测定Ⅱ的鳊幼鱼的MMR、AS、FAS 和EPOC之间任意两者均呈正相关(表2）;相比较于测定I，测定 $\mathbb { I } 6 7 \%$ 的参数之间的相关性程度出现下降。
+
+表1鳊幼鱼能量代谢和个性特征的综合情况  
+表2鳊幼鱼能量代谢参数之间以及个性特征之间的相关性  
+Table2CorelationsbetweenthecomponentsofeergymetaboismandpersonalitytraitsinthejuvenileCinesebream（.pekinensis）   
+
+<html><body><table><tr><td>指标类型 Types of index</td><td>测定次序 Measurements</td><td>实验参数 Parameters</td><td></td><td>相关性 Correlations</td><td></td><td></td></tr><tr><td>1能量代谢 Energy metabolism</td><td>测定ITrial I</td><td></td><td>最大代谢率 MMR</td><td>代谢空间 MS</td><td>相对代谢空间 FAS</td><td>过量耗氧 EPOC</td></tr><tr><td></td><td></td><td>标准代谢率</td><td>r=-0.055 P = 0.771</td><td>r=-0.621 P<0.001**</td><td>r=-0.831 P<0.001**</td><td>r= -0.727 P<0.001**</td></tr><tr><td>http</td><td></td><td>最大代谢率</td><td></td><td>r=0.817 P<0.001**</td><td>r=0.540 P=0.002 **</td><td>r=0.657 P<0.001**</td></tr><tr><td></td><td></td><td>代谢空间</td><td></td><td></td><td>r=0.904</td><td>r=0.935</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>P<0.001**</td><td>P<0.001**</td></tr><tr><td></td><td></td><td>相对代谢空间</td><td></td><td></td><td></td><td>r= 0.927</td></tr><tr><td></td><td></td><td></td><td>最大代谢率</td><td></td><td></td><td>P<0.001**</td></tr><tr><td></td><td>测定I Trial Ⅱ</td><td></td><td>MMR</td><td>代谢空间 MS</td><td>相对代谢空间 FAS</td><td>过量耗氧</td></tr><tr><td></td><td></td><td></td><td>r=0.082</td><td>r=-0.141</td><td>r=-0.562</td><td>EPOC</td></tr><tr><td></td><td></td><td>标准代谢率</td><td>P = 0.666</td><td>P=0.456</td><td>P=0.001 **</td><td>r=-0.377</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>P=0.040 *</td></tr><tr><td></td><td></td><td>最大代谢率</td><td></td><td>r=0.975 P<0.001**</td><td>r=0.769 P<0.001**</td><td>r= 0.496</td></tr></table></body></html>
+
+续表  
+
+<html><body><table><tr><td>指标类型 Types of index</td><td>测定次序 Measurements</td><td>实验参数 Parameters</td><td colspan="4">相关性 Correlations</td></tr><tr><td></td><td></td><td>代谢空间</td><td></td><td></td><td>r=0.890 P<0.001 **</td><td>r= 0.577 P=0.001**</td></tr><tr><td></td><td></td><td>相对代谢空间</td><td></td><td></td><td></td><td>r= 0.642 P<0.001**</td></tr><tr><td>2个性行为 Personality traits</td><td>测定ITrialI</td><td></td><td>潜伏时间 Latency</td><td>移动路程 Distance</td><td>游泳速度 Velocity</td><td></td></tr><tr><td></td><td></td><td>运动时间比</td><td>r=-0.028 P=0.855</td><td>r=0.884 P<0.001**</td><td>r=0.896 P<0.001**</td><td></td></tr><tr><td></td><td></td><td>潜伏时间</td><td></td><td>r=-0.046 P=0.808</td><td>r=0.034 P= 0.859</td><td></td></tr><tr><td></td><td></td><td>移动路程</td><td></td><td></td><td>r=0.962 P<0.001**</td><td></td></tr><tr><td></td><td>测定Ⅱ TrialⅡ</td><td></td><td>潜伏时间 Latency</td><td>移动路程 Distance</td><td>游泳速度 Velocity</td><td></td></tr><tr><td></td><td></td><td>运动时间比</td><td>r=-0.066 P=0.768</td><td>r=0.839 P<0.001**</td><td>r=0.834 P <0.001</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>r=0.7069</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>潜伏时间</td><td></td><td></td><td>rP=0.066</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>r=0.997</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>移动路程</td><td></td><td></td><td>P<0.001**</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td></table></body></html>
+
+\*表示 $P < 0 . 0 5$ ，\*\*表示 $P < 0 . 0 1$ ：
+
+幼鱼勇敢性的潜伏时间与活跃性的三个参数(移动路程、游泳速度和PTM)均不相关;然而,移动路程、游泳速度和PTM间均呈现正相关(表2）。除 SMR外,幼鱼能量代谢的其它参数及个性行为特征均无明显的重复性(表3）。在两次测定中,幼鱼的SMR与个性行为特征(潜伏时间、移动路程、游泳速度和 PTM)均不相关(表4)。
+
+表3幼鱼能量代谢和个性特征的重复性  
+Table3TherepeatabilitythecomponentsofenergymetabolismandpersonalitytraitsinthejuvenileChinesebream（P.pelinensis）   
+表4幼鱼标准代谢率与个性行为的关联  
+
+<html><body><table><tr><td rowspan="2">指标类型 Types of index</td><td rowspan="2">实验参数 Parameters</td><td colspan="2">重复性 Repeatability</td><td rowspan="2">指标类型</td><td rowspan="2">实验参数 Parameters</td><td colspan="2">重复性 Repeatability</td></tr><tr><td>r</td><td>Types of index</td><td>r</td><td>P</td></tr><tr><td>1.能量代谢</td><td>标准代谢率</td><td>0.563</td><td>0.001</td><td>2.个性行为</td><td>潜伏时间</td><td>-0.155</td><td>0.413</td></tr><tr><td rowspan="4">Energy metabolism</td><td>最大代谢率</td><td>-0.080</td><td>0.673</td><td rowspan="4">Personality traits</td><td>运动时间比</td><td>-0.069</td><td>0.715</td></tr><tr><td>代谢空间</td><td>0.018</td><td>0.925</td><td>游泳速度</td><td>-0.169</td><td>0.373</td></tr><tr><td>相对代谢空间</td><td>0.207</td><td>0.273</td><td rowspan="2">移动路程</td><td rowspan="2">-0.236</td><td rowspan="2">0.210</td></tr><tr><td>过量耗氧</td><td>0.343</td><td>0.063</td></tr></table></body></html>
+
+ible 4The correlations between standard metabolic rate and personality traits in the juvenile Chinese bream   
+
+<html><body><table><tr><td rowspan="2">测定次序 Measurements</td><td rowspan="2">标准代谢率 SMR</td><td rowspan="2">个性行为 Personality traits</td><td colspan="2">相关性 Correlations</td></tr><tr><td>r</td><td>P</td></tr><tr><td rowspan="4">测定ITrial I</td><td>SMR</td><td>US 潜伏时间</td><td></td><td>-0.204 0.280</td></tr><tr><td>SMR</td><td>Us 运动时间比</td><td>0.082</td><td>0.666</td></tr><tr><td>SMR</td><td>Us 游泳速度</td><td>0.051</td><td>0.789</td></tr><tr><td>SMR</td><td>移动距离</td><td>0.015</td><td>0.936</td></tr><tr><td rowspan="4">测定ⅡI Trial II</td><td>SMR</td><td>Us 潜伏时间</td><td>-0.086</td><td>0.651</td></tr><tr><td>SMR</td><td>Us 运动时间比</td><td>0.153</td><td>0.419</td></tr><tr><td>SMR</td><td>US 游泳速度</td><td>0.263</td><td>0.160</td></tr><tr><td>SMR</td><td>移动距离</td><td>0.278</td><td>0.137</td></tr></table></body></html>
+
+http://www.ecologica.cn
+
+# 2.4能量代谢与生长性能的关系
+
+不论实验起始时的SMR还是实验结束时的SMR,二者均与实验期间鳊幼鱼的特定体重生长率（SGR)呈正相关（图1，二者 $\textstyle P < 0 . 0 5$ )。协方差分析发现，二者的斜率和截距均存在差异( $F _ { _ { 1 , 5 9 } } = 6 . 6 2 9$ ， $P { = } 0 . 0 1 3 \cdot$ ）
+
+# 3讨论
+
+# 3.1鳊幼鱼表型特征的个体差异与重复性
+
+部分研究关注动物的生理表型（如能量代谢)和行为表型(如个性行为)的重复性及与环境食物资源（如饥饿或低食物丰度)的内在关联[6,24-26]。研究发现,饥饿不仅导致南方鲇幼鱼（Silurusmeridionalis）静止代谢率、活跃代谢率以及有氧代谢空间明显下降，其中静止代谢率的变异系数减少[27],而且还会降低该种鱼的有氧运动能力和持续加速游泳能力[28],并且南方鲇幼鱼的两种运动能力的重复性高于能量代谢表型[27-28]。在较低食物丰度条件下,与测定I比较,在测定I中鳊幼鱼的 SMR 和 MMR 均出现显著降低,而 MS、FAS 和EPOC 无明显变化,提示SMR 和MMR的下降可能与较低的食物量摄人有关。除MMR外,幼鱼上述其它代谢参数的变异系数均出现下降。此外,在测定Ⅱ中幼鱼的活跃性明显增加,而勇敢性降低,前者的变异系数增加,后者变异系数减少。在自然界中水温的日变化与年变化均较为明显,而在实验室条件下幼鱼的驯化水温波动极小,并且其它环境条件(如溶氧、氨氮和食物)也进行严格地局部控制,这种实验室养殖水体的环境异质性较低,可能是导致正常营养状态下幼鱼SMR 的变异系数变小的原因之一，即稳定的栖息环境容易导致该种鱼 SMR 的变异程度缩小。另外,测定Ⅱ中鳊幼鱼在驯化室的潜伏时间明显增长,这是因为 $1 6 . 7 \%$ 鳊幼鱼的潜伏时间明显增加至最长时间( $1 5 \mathrm { { , } \hat { m i n } ) }$ ，使得测定Ⅱ的数据更为单一，进而导致勇敢性的变异系数降低,可能与本研究设定的拍摄时间较短有关。由于鳊幼鱼在测定Ⅱ的勇敢性变低,鳊幼鱼可能想通过寻找出口逃离观察区,表现出活跃性增加,导致活跃性的变异程度增加。这种勇敢性降低和活跃性增加的行为变化表明鳊幼鱼再次在新异环境中采取更为谨慎的风险承担行为（如觅食、探索、警戒活动）。
+
+![](images/d69dbfe842e5a141bc49d99f2810a320e73cacb34aa78f182d68bab6ec08d4f0.jpg)  
+图1鳊幼鱼的标准代谢率与特定体重增长率的相关性 Fig.1The relationship between standard metabolic rate and specific growth rate in body mass in juvenile Chinese bream（ $P$ pekinensis)
+
+有研究者对47篇有关昆虫、爬行类、鸟类以及哺乳类的能量代谢的研究论文进行统计分析,认为动物的能量代谢特征(如SMR和MMR,常用整个动物耗氧率表征)具有明显的重复性[24],并且环境因子影响表型特征的重复性[27]。以鱼类为例,花鳅（Cobitis taenia）[25]、大西洋鲑[26,30]、锦鲫幼鱼[29]和鳟[31]的SMR均呈现较好的重复性;我们的前期研究发现南方鲇幼鱼 SMR 的重复性低,其 MMR 和MS 的重复性却较高,然而两周的饥饿明显降低后两者的重复性[27]。除此之外,还有研究认为,动物表型特征的重复性不仅随测定时间的增加而逐渐降低,而且实验室条件下测定的表型重复性显著高于野外实验[32]。在本研究中,幼鱼的 SMR 具有较好的重复性,与花鳅[25]、大西洋鲑[26,29]、锦鲫[30]和鳟[31]的研究结果相似,然而鳊幼鱼的MMR 和MS 等表型参数的重复性较低,说明本研究中幼鱼的 MMR 和 MS 可重复测量的时间可能短于一个月,与幼鱼在稳定实验室环境中的生理调整程度存在差异有关。虽然测定Ⅱ中该种鱼 SMR 明显下降,而 MMR 和MS 未显著降低,暗示用于其他生理功能的最大代谢潜能保持不变,同时鳊幼鱼不同个体的代谢可塑性不同。
+
+# 3.2鳊幼鱼表型特征的关联
+
+鱼类的 SMR与MMR、MS及EPOC 的内在关联备受关注,不仅是因为 SMR和MMR分别代表鱼类能量代谢能力的下限和上限,二者的差值即为MS,而且还因为这些表型参数具有不同的生态学意义[6,33]。获得鱼类MMR的方式既可通过力竭运动获得,也可通过食物诱导或者两种生理活动叠加共同获得,取决于鱼类的代谢模式[34]。不论是由食物诱导的摄食代谢峰值还是力竭运动诱导的最大代谢率,二者均与机体的呼吸循环系统密切相关,分别代表单一生理状态下机体的最大摄氧能力。研究显示,不同活跃性鱼类的种间比较发现SMR与 MMR呈正相关,即种类越活跃,其 SMR与MMR 相应越大[35};南方鲇幼鱼的SMR不但在常氧条件下与摄食代谢峰值呈正相关[36-37],而且在低氧条件下二者的正相关仍然存在[37],相似研究结果在鲤（Cyprinuscarpio）[38]、大西洋鲑[39]和鳟[40]中也有报道。为从生化机制上解释上述正相关,研究者发现鳟肝脏中与有氧代谢相关的细胞色素c氧化酶和柠檬酸合成酶的活性与 SMR及MMR呈正相关[40]。本实验室前期研究发现鲫(Carassus auratus）幼鱼的 SMR与其 MMR 呈正相关,且二者之间的正相关不受温度影响[19]；青鱼（Mylopharyngodon piceus)幼鱼的SMR与其 MMR也呈正相关,且此相关不受溶氧水平的影响[41],表明该两种鲤科鱼类 SMR与MMR 的关联不具有环境依赖性。然而,也有研究发现鲫幼鱼和南方鲇幼鱼的 SMR与 MMR并不相关[6.36]。本研究发现,两次测定中鳊幼鱼的 SMR与 MMR 均不相关,并且在测定I中 SMR与 MS、EPOC 之间呈现的负相关在测定Ⅱ消失,仅维持了 SMR与FAS 的负相关,这种现象可能与在测定I中上述能量代谢参数的变异系数降低有关,并且降低的表型特征变异系数可能是由较均质的养殖环境造成的[6]。
+
+鱼类 SMR 与个性行为的关联方向不尽相同,如大西洋鲑和鲤的 SMR 与勇敢性呈正相关[42-43];美洲红点鲑（Saluelinus fontinalis)的SMR 与其活跃性呈正相关[4];大西洋鲑的 SMR 与其好斗性呈正相关[10,45]。此外，大西洋鲑和马苏大麻哈鱼（Oncorhynchus masou）的 SMR 越高,其统治地位相应越高,占有的领域面积越大[9,46],而领域大小又与食物资源多少密切相关,必然影响个体的食物可获性[]。另有研究报道,鲫幼鱼的SMR 与其勇敢性和活跃性均不相关[6]。本研究发现,两次测定中幼鱼的 SMR与其勇敢性和活跃性均不相关,这与鲫的研究结果一致[6]。欧鲈也有类似的研究发现,即在常氧和中度低氧条件下二者均不相关,但在重度低氧条件下该种鱼的 SMR与勇敢性呈负相关[47];在低捕食压力下,三刺鱼(Gasterosteus aculeatus)的好斗性和勇敢性不相关,但在高捕食压力下,二者呈正相关「48.49]。上述现象不仅与实验室环境中食物资源丰富且可预测、水槽的物理空间均质、水体的理化因子稳定等特征相关[6],而且还与在较强的捕食压力或严重的低氧等环境胁迫下鱼类的应激程度和表型可塑性的高低存在差异有关,最终在较为极端环境或较强环境胁迫条件下鱼类表型特征之间的潜在关联得以强化并揭露[48-49]。
+
+# 3.3鳊幼鱼SMR与生长性能的关系
+
+自然水体中食物资源存在明显的时空异质性,影响鱼类的生存和生长,甚至种群的繁衍。鱼类的 SMR 与个体生长发育（如体重增长)或存活率可能存在关联,此关联可能有重要的生态结果[13,50]。虽然鱼类 SMR与生长性能的关联早被广泛关注,但不同研究的结果差异明显,相关研究多以鲑鳟鱼类为实验对象。在实验室食物资源丰富条件下个体的 SMR与生长率通常呈现正相关[1],如银大麻哈鱼（Oncorhynchus kisutch）[3]、马苏大麻哈鱼[46]和大西洋鲑[10.51]。然而,野外环境中的 SMR 与生长率不相关或呈负相关[1];在丰富食物资源条件下 SMR 的变化量与其体长呈正相关,而实验起始测定的 SMR与生长参数并不相关[52]。上述研究认为不同 SMR个体在环境食物丰度变动条件下呈现相应的优势,而且表明导致生长性能存在环境食物丰度依赖性的原因是 SMR,而非生长性能的个体变异[3-4]。本实验室的前期研究也发现,在实验室食物资源丰富条件下高 SMR鲫个体的SGR 显著高于低 SMR个体,但在低食物丰度条件下二者的生长性能无明显差异,即该种鱼的 SMR与生长性能的关联具有环境依赖性;实验起始时锦鲫幼鱼的SMR 与摄食率、摄食转化率、特定体重生长率不相关,而生长实验结束的 SMR却与摄食率呈正相关[30]。本研究显示,幼鱼不论测定Ⅰ还是测定Ⅱ的 SMR均与其SGR呈正相关,推测该种鱼在幼鱼阶段时的SMR可以预测其生长轨迹。协方差分析结果显示,测定I中SMR与 SGR的相关程度(或方程斜率)明显大于测定I的,这与锦鲫幼鱼的研究结果相似,这种现象可能与一定时期内幼鱼保持固定摄食消化频率有关,即时测量的SMR 可能包括延迟的用于生长的能量部分,而这一部分可能偏高估计SMR,导致生长性能与即时 SMR呈更高程度的正相关[4]。因此,鱼类适合的SMR测定时间的相关研究值得关注。
+
+综上所述,在实验室环境条件下幼鱼的能量代谢和个性行为具有非平行的变化规律和重复性,表型特征之间存在关联,并且这些关联受环境条件的影响程度不同。幼鱼不论实验起始时还是实验结束时的
+
+SMR 均与实验期间的SGR呈正相关,但后者的相关程度高于前者,提示在实验室环境下,该种鱼在幼鱼阶段时的 SMR 在短期内可预测其生长率。
+
+# 参考文献（References）：
+
+[1]AlvareD,cAGetablceelblepreitfhdialtrout(Smot）thilaJalfFisheries and Aquatic Sciences，2005,62(3): 643-649.  
+[2]KilleaKeJstietieaefepriveegissiginindividual juvenile European sea bass.Journal of Animal Ecology，2011,80(5）：1024-1033.  
+[3]VanLeeunTE,osefeldJcrdsJGfectsfodatioofuenoffodcosutiooidiualrateabolirate in juvenile coho salmon（Onchorhynchus kisutch）.Journal of Animal Ecology,2012,81(2）：395-402.  
+[4]RosenfeldJ，VanLeuwen，RichardsJ，AlenD.Relatonshipbetwengrowthandstandardmetabolicrate：measurementartefactsandimplications forhabitat use and life-historyadaptation insalmonids.Journal of Animal Ecology，2O14,84(1)：4-20.  
+[5]FuC,uSJ,CZD,YanXZHbiat-speifcntipredatoreaviorvratioongaleub（Zccplats）logierinedFreshwater Behaviour and Physiology，2015,48(4）：267-278.  
+[6］曾令清，付世建，曹振东.鲫幼鱼（Carassus uratus）标准代谢的个体差异与力竭后代谢特征及行为的关联.生态学报，2016，36(6)：1747- 1755.  
+[7]BiroPtasosisttidialdeecsieabolcateprotesistetidiialderecsiavdsEcology and Evolution，2010,25（11）：653-659.  
+[8]BeckFoaofdb（Osiland energy maintenance requirements. Journal of Applied Ichthyology，1995,11(3/4)：263-275.  
+[9]Metcalfe N B,Taylor A C,Thorpe JE. Metabolic rate，social status and life-history n Atlantic salmon.Animal Behaviour，1995,49(2):431-436.  
+[10]CutsCetalfylAesdohepresiuetsecsofdiualiostandard metabolic rate.Journal of Fish Biology，1998,52(5）：1026-1037.  
+[11]ArmstrongJD,ilinKJMetcafeEcologicalosequensfaratioinsadardetablisnddonceamoglEcology of Freshwater Fish,2011,20(3）：371-376.  
+[12]Steyek,GetiHealdaleaoialdmetabolicrate in the leopard frog Rana pipiens.Journal of Experimental Biology，2005,208:1201-1208.  
+[13]BurtonTilS，strongD，MecalfeWatcaustraspeifationiestietabtedatareislicalconsequences?. Proceeding of the Royal Society B:Biological Sciences，2011，278(1724）:3465-3473.  
+14]Dingeaedepotoisteepetatitao2004，15(6)：1023-1030.  
+[15] RealeD,ReaderS,Sol,Dogall,ingemansNtegatingialteperaentiinologndvolutiologicalvies，2007,82(2):291-318.  
+[16] LacasseJ,AubHrthAtestftouplingofprdatorefeeoholdhaviorratiointospistclebackulatioCurrent Zoology，2012,58(1):53-65.  
+[17]HoogestoDsGG,ealeohefitofesseavaidiialairesource predictability. Behavioral Ecology，2013,24(1):253-261.  
+[18] 陈永鹏，曹振东，付世建.锦鲫幼鱼的社群等级地位及其与标准代谢率、血糖和临界游泳能力的关系.生态学报，2010，30（7)：1940- 1945.  
+[19] 唐国伟，曹振东，付世建.温度、种内标准代谢差异与鲫幼鱼力竭运动后过量耗氧的关系.生态学杂志，32(12)：3255-3260.  
+[20］）付成，曹振东，付世建.温度和饥饿对鲤鱼幼鱼静止代谢率及自发运动的影响.动物学杂志，2012,47（2)：85-90.  
+[21] 陈波见，曹振东，付世建，王宇翔.温度对鱼静止代谢和耐低氧能力的影响.动物学杂志，2010,45（5）：1-8.  
+[22] ]曾令清，付世建，曹振东.南方鲇幼鱼标准代谢的昼夜节律.水产科学，2007，26(10)：539-542.  
+23 ZengLQ,ZhangYG,CaZD,FuSJEftoftempeatureexcesspost-exerciseoyencosutioinjuvenileouthecatish（usmeridionalis Chen）follwing exhaustive exercise.Fish Physiologyand Biochemistry,2010,36(4）：1243-1252.  
+24]NespolFcoleaaleablicteiseaableraitetaaalysalfExpetal(2000-2005.  
+[25] MaciakS，KonazewskiMRepeatabilityofstandardmetabolicrate（SMR）inasallfish，thesinedloach（Cobitistaenia).CoarativeBiochemistry and Physiology Part A：Molecular& Integrative Physiology,2010,157(2）：136-141.  
+26]SeppaEJusosisteofaddeabolcateatfeajeltsalar.Comparative Biochemistryand Physiology PartA：Molecular&IntegrativePhysiology,2O10,156(2）：278-284.  
+[27］曾令清，彭韩柳依，王健伟，庞旭，曹振东，付世建.南方鲇幼鱼运动代谢的个体变异和重复性及其饥饿响应.水产学报,2015,39（1)：  
+［28]曾令清，彭韩柳依，王健伟，庞旭，曹振东，付世建.饥饿对南方鲇幼鱼游泳能力个体变异和重复性的影响.水生生物学报，2014，38(5):883-890.  
+[29] $0 ^ { \prime }$ ConnorKI,TaylorAC,MetcalfeN.TestabilityoftandardmetabolicrateduringaperodofooddeprivationinjuvenileAtlanticaon.Journal of Fish Biology，2000,57(1）：41-51.  
+[30］刘欢，李秀明，付世建，曾令清.锦鲫幼鱼标准代谢率与生长性能的关联.水生生物学报，2016,40(4)：836-842.  
+1]NorinT,alteHRepeatabliaddeaboltetieeabolicatedbcgotroturigdfeafood availability.Journal of Experimental Biology，2011,214(10）：1668-1675.  
+[32]AuerSK,ssRD,SalinK,MetcalfeRepeatabiltfetabicateisowrfralslvingunderfeldversuslboratodiiosThe Journal of Experimental Biology，2016,219（5）: 631-634.  
+[33]Careau V,ThomasD,Humphries MM,RealeD.Energy metabolismandanimalpersonality.Oikos,2008,117(5）：641-653.  
+[34] 付世建，曹振东，曾令清，夏继刚，李秀明.鱼类游泳运动—策略与适应性进化.北京：科学出版社,2014，78-81.  
+[35] FuSJ,ZengL,LXgX,CZD,gJ，gYX.val,gestivedeabacteritioforaging strategies.The Journal of Experimental Biology，2009,212(14）：2296-2302.  
+[36]FuJ,CaDengJagYakostpradalystiosielyeltohatedstigya sedentary catfish Silurus meridionalis? Journal of Fish Biology，20o8,73(3）:692-701.  
+[37]ChenB，CaoZD,uSJ.Hyoxiaiairsedigestiedvantagefdiiualsouthecatish（Silurusmerdiolis）wittingmetabolicratesand postprandialmetabolicresponses.MarineandFreshwater BehaviourandPhysiology，2014,47(3)：197-204.  
+[38］张曦，曾令清，付世建，彭姜岚，曹振东.鲤幼鱼标准代谢率的个体差异与运动性能和摄食代谢的关系.动物学杂志，2016,51（3）：384-394.  
+[39]MillineKJAstrogJD,etcafeJveilonwihigsadardetabolicatesavereroststaprosalsfaster.Proceedings of the Royal Society B: Biological Sciences，2009,276(1664）：2103-2108.  
+[40]Norin T,Malte H.Intraspecific variation in aerobic metabolic rate of fish：relations with or size and enzyme activity in brown trout.Physiologicaland Biochemical Zoology，2012,85(6）：645-656.  
+[41]PngX,FuJ,ZagYG.diiualvaraioinetabolisdsimingperfanceijuvenlblaccap（Mylorgdoices）adthe effects of hypoxia.Marine and Freshwater Behaviour and Physiology,2O15,48(6)：431-443.  
+[42]Finstad AG,Forseth T,Ugedal O,N&esje TF. Metabolic rate,behavio nd winter performance in juvenile Atlantic salmon.Functional Ecology,2007,21(5):905-912.  
+[43]HuntingfordFA，AndreG，MackenieS,MoreraD，CoyleS，PilarckKadri.Copingstrategiesinronglyshiishtecommon carp Cyprinus carpio.Journal of Fish Biology，2010,76(7）：1576-1591.  
+44]Frellia）：913-921.  
+[45] Cutts CJ,MeaalCetiesinaljlticos99,）-.  
+[46] YamamotoT,UedaH,HigashiS.Coreationamongominancetus，metabolicateandotolithsizeinmasusalon.JoualofFshiolog，1998,52(2): 281-290.  
+[47]KilnS,sSnMeci,KeeJ.Arelatoetweeabcatedisaingrisveedighypoxia in juvenile European sea bass.Functional Ecology，2012,26(1）：134-143.  
+[48]BelAalsofcsteus)al2005,18(2): 464-473.  
+49BelAoseic（seu）828-834.  
+[50] Blanckenhorn WU.Behavioral causes andconsequences of sexual size dimorphism.Ethology，206,111（11）：977-1016.  
+[51] MCarthyDmpoaepebitfratiaddeolicteiuvelcoiseattoifetJoulfFish Biology，2000,57(1): 224-238.  
+[52]AuerSK,SalinK，RudolfAM，AndersonGJ，MetealfeNB.Fexibilityinmetabolicrateconfersagrowthadvantageuderchangingfodavailability. Journal of Animal Ecology，2015,84(5）：1405-1411.

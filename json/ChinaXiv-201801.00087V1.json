@@ -1,0 +1,729 @@
+[
+    {
+        "type": "text",
+        "text": "编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "线性唯象传热定律下斯特林机多目标优化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "戴东东，袁芳，刘伟1（华中科技大学能源学院，湖北武汉，430074）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文对斯特林发动机进行了有限时间热力学分析，在线性唯象传热定律的基础上，考虑了热源与工质换热的有限性、回热不完全性以及冷热源间存在的热漏等不可逆因素，继而得到了该模型的效率、功率以及生态学性能函数。考虑到三个优化指标不可能同时达到各自的最优值，故采用多目标遗传算法对其进行三目标同时优化，并用TOPSIS 法进行决策并将最终的结果与单目标优化进行了对比。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：斯特林；线性唯象传热定律；生态学性能；多目标优化中图分类号：TK123 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-objective Optimization of Stirling Machine under Linear ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phenomenological Heat Transfer Law ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dai Dongdong Yuan FangLiu Wei (School of Energy and Power Engineering,Huazhong University of Science and Technology,Wuhan 430074, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper presents an investigation of a finite time thermodynamic analysis of a Stirling engine model based on the linear phenomenological heat transfer law.Some irreversibilities such as heat resistance,imperfect regeneration and heat leak between heat reserviors are considered. As aresult,the thermal eficiency,output power and ecological coeficient of performance of this model are carried out. Considering that the three optimization indexescan not reach the optimal value at the same time,the multi-objective genetic algorithm is used to optimize the three targets simultaneously.The optimal solution is then selected by TOPSIS and compared with thatof single - objective optimization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Stirling;Linear phenomenological heat transfer law；Ecological performance；Multi-objective optimization ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "斯特林发动机是一种结构简单、安全可靠、可以非常有效地利用能源和对环境友好的热机，并且由于斯特林发动机可以在温差相对很低的冷热源间做功，故其可以燃烧任何品质的任何能源作为其热源[1]。因此，斯特林发动机近年来引起了越来越多的关注，并被认为是未来极具潜力的一种热机。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "斯特林发动机在1816年由罗伯特·斯特林发明。Blank[2]等人建立了内可逆斯特林发动机模型并对功率进行优化。Thombare等人Kongtragool和 Formosa 等人[3，4]用等温模型研究了不完全回热的斯特林机中死容积对性能的影响。Tlili等人[5]建立了斯特林机不可逆循环模型，研究了回热效率和死容积的影响。自从Curzon and Ahlborn[6]研究了存在有限速率传热的Carnot热机，开创了有限时间热力学的先河之后，有限时间热力学的方法也开始被用于分析斯特林发动机。Ladas［7]等人将有限时间热力学的方法应用在斯特林发动机上并讨论了换热时间对功率和效率的影响。Costea 和Petrescu等人[8，9]用基于有限速度热力学第一定律对斯特林发动机进行了性能分析。Senft［10]考虑了有限传热、机械损失和内部热损失的情况下斯特林机的理论模型。Chen等人[11]用有限时间热力学的方法建立了太阳能斯特林机的理论模型，得到了系统的效率上限。Wu等人[12]用有限时间热力学的方法分析了在回热不完全的情况下斯特林机的模型并得到了净输出功和效率的关系。Kaushik等人[13，14]用有限时间热力学的方法考虑了有限热容热源的情况下考虑回热损失的斯特林模型，并分析了各参数对功率和效率的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究人员对斯特林机做了大量的优化工作。Li等人[15]用有限时间热力学的方法对太阳能斯特林发动机的功率进行优化，并得到相应的效率。Angulo-Brown[16]提出了一种生态学函数作为热机的评价指标，使热力循环的功率与功率耗散达到最佳的折衷。Yan[17]对Angulo的指标进行改进，提出使用环境温度代替冷源温度更为合理。Long[18]研究了具有非等温过程一般化热机在生态学准则下的效率限。He 与Tyagi 等人[19，20]用生态学函数作为目标函数对不可逆斯特林机进行优化。Ust[21]提出了新的生态学函数一一ECOP来对热机进行评价，该评价指标表示为功率和功率耗散之比。近年来，涌现了一些对斯特林发动机进行多目标优化的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ahmadi等人[22-26]做了大量的工作，用多目标遗传算法对斯特林发动机进行功率、效率、热经济学函数、熵产率、压降等进行多目标优化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1斯特林发动机热力学分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经典的斯特林循环由两个等温过程和两个等容过程组成，如图1所示，具体为（1）工质在压缩腔放热压缩；（2）工质进入回热器进行等容吸热；（3）工质进入膨胀腔进行等温膨胀，对外做功；（4）工质进入回热器进行等容放热。斯特林机的工质不断地进行这四个过程完成循环做功。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/65ba9ffa08372e2454b9fc45820a286c32fa4cf89319273876d14c3af18244f8.jpg",
+        "img_caption": [
+            "图1斯特林循环示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Stirling cycle diagram ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在实际情况下，由于热（冷）源和工质之间存在热阻，工质和热（冷）源并不是同一个温度。此外，实际的回热器并不能有百分之百的回热效率，会有一定的回热损失存在，所以工质在经过回热过程之后并不能达到理想点。如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6b75b0344161a51f6af60bee8ace9c69d94917c9d8f31f1c0ea06114b94c153.jpg",
+        "img_caption": [
+            "图2考虑实际情况的斯特林机循环示意图",
+            "Fig.2 Stirling machine cycle diagram of the actual situation "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在该系统中，一个循环内热源对斯特林发动机内工质的传热量为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 3 4 } = \\alpha _ { 1 } \\Biggl ( { \\frac { 1 } { T _ { h } } } - { \\frac { 1 } { T _ { H } } } \\Biggr ) t _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\boldsymbol { a }$ 为热端换热器的传热系数， $T _ { H }$ 为热源温度， $T _ { h }$ 为工质在膨胀腔的温度， $t _ { 1 }$ 为一个循环内工质在膨胀腔的时间。同样可得一个循环内冷源与斯特林发动机内工质的换热量为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 1 2 } = \\alpha _ { 2 } \\Bigg ( \\frac { 1 } { T _ { L } } { - } \\frac { 1 } { T _ { l } } \\Bigg ) t _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\beta$ 为冷端换热器的传热系数， $T _ { L }$ 为冷源温度， $T _ { I }$ 为工质在压缩腔的温度， $t _ { 2 }$ 为一个循环内工质在压缩腔的时间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在3-4过程中，工质进行的是等温膨胀过程，所以热源传递给工质的热量等于工质对外做功量，故有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 3 4 } = n R T _ { h } \\ln \\lambda\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathbf { \\nabla } _ { n }$ 为工质的摩尔数， $R$ 为理想气体常数， $\\lambda$ 为气体膨胀压缩比。在斯特林循环中，有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { V _ { 1 } } { V _ { 2 } } = \\frac { V _ { 4 } } { V _ { 3 } } = \\lambda\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同样的，在1-2的过程中，工质对冷源的放热量等于外界对工质的做功量",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 1 2 } = n R T _ { l } \\ln \\lambda\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以，工质在膨胀腔和压缩腔的时间分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { 3 4 } = { \\frac { n R T _ { h } \\ln \\lambda } { \\alpha _ { 1 } \\left( T _ { H } - T _ { h } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "回热过程2-3和4-1均为等容过程，无做功，所以回热器与工质的换热量等于工质内能的改变",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 2 3 } = c _ { \\nu } m \\big ( T _ { h } - T _ { l } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 4 1 } = c _ { \\nu } m \\big ( T _ { h } - T _ { l } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\scriptstyle { \\phantom { + } } c _ { \\nu }$ 为工质的比热容， $\\boldsymbol { \\mathit { m } }$ 为工质质量， $T _ { h }$ 和 $T _ { I }$ 分别为等温过程3-4和1-2中工质的温度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在实际过程中，由于存在回热损失，工质在回热过程中达不到温度 $T _ { h }$ 和 $T _ { I }$ ，而是 $T _ { h } .$ 和 $T _ { I }$ ，传热量也并非 $\\mathcal { Q } _ { 2 3 }$ 和 $\\ Q _ { 4 1 }$ ，而是 $\\mathcal { Q } _ { 2 3 }$ ，和 $Q _ { 4 1 }$ ，，所以有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 2 3 } , = c m \\left( T _ { h } , - T _ { l } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 4 1 } , = c m \\left( T _ { h } - T _ { l } , \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设2-3和 $4 { - } 1$ 过程的回热损失系数分别为 $\\mu$ $\\mathbf { \\Phi } _ { 1 }$ 和 $\\mu _ { 2 }$ ，于是有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 2 3 } , = \\big ( 1 - \\mu _ { 1 } \\big ) Q _ { 2 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 4 1 } , = \\big ( 1 - \\mu _ { 2 } \\big ) Q _ { 4 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "联立（3）－（8）式可得 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { h ^ { \\prime } } = \\left( 1 - \\mu _ { 1 } \\right) T _ { h } + \\mu _ { 1 } T _ { l }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { l ^ { \\prime } } = \\mu _ { 2 } T _ { h } + \\left( 1 - \\mu _ { 2 } \\right) T _ { l }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在回热过程中，为求回热时间，定义回热时间系数",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d T } { d t } = \\pm k _ { i } \\qquad \\left( i = 1 , 2 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，‘ $\\cdot _ { + } , \\cdot _ { }$ “-”分别对应升温和降温过程； $\\scriptstyle { j = 1 }$ 对应升温过程， $\\scriptstyle { i = 2 }$ 对应降温过程。当温度变化不均匀时， $k _ { i }$ 代表工质温度的平均变化率。继而可得工质在回热器里的时间分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { 2 3 } , = { \\frac { T _ { 3 } , - T _ { 2 } } { k _ { 1 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { 4 1 } , = \\frac { T _ { 4 } - T _ { 1 } , } { k _ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $T _ { 3 }$ ，和 $T _ { 1 }$ ，是考虑了不完全回热损失的工质在回热过程后所达到的温度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于回热损失的存在，仅凭回热器的回热量无法使得工质回到理想循环该有的温度，故需要靠热源和冷源额外的放热，所以在一个循环中，热源对工质的实际放热量和冷源对工质的实际吸热量为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { Q } _ { h } = \\mathcal { Q } _ { 2 3 } , + \\mathcal { Q } _ { 3 4 } = \\left( 1 - \\mu _ { 1 } \\right) c _ { \\nu } m \\left( T _ { h } - T _ { l } \\right) + n R T _ { h } \\ln \\lambda\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { Q } _ { l } = \\mathcal { Q } _ { 4 1 } , + \\mathcal { Q } _ { 1 2 } = \\left( 1 - \\mu _ { 2 } \\right) c _ { \\nu } m \\left( T _ { h } - T _ { l } \\right) + n R T _ { l } \\ln \\lambda\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相应的时间分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { 3 ^ { \\prime } 4 } = { \\frac { \\left( 1 - \\mu _ { 1 } \\right) c _ { \\nu } m \\left( T _ { h } - T _ { l } \\right) + n R T _ { h } \\ln \\lambda } { \\alpha _ { 1 } \\left( T _ { H } - T _ { h } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { \\scriptscriptstyle { 1 ^ { * } 2 } } = \\frac { \\left( 1 - \\mu _ { 2 } \\right) c _ { \\scriptscriptstyle { v } } m \\left( T _ { \\scriptscriptstyle { h } } - T _ { \\scriptscriptstyle { l } } \\right) + n R T _ { \\scriptscriptstyle { l } } \\ln \\lambda } { \\alpha _ { \\scriptscriptstyle { 2 } } \\left( T _ { \\scriptscriptstyle { l } } - T _ { \\scriptscriptstyle { L } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在实际的斯特林发动机运行中，热源和冷源之间有热漏的存在，在一个循环中热漏的总量为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { l e a k } = C _ { S } \\left( \\frac { 1 } { T _ { L } } - \\frac { 1 } { T _ { H } } \\right) \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $C _ { S }$ 是热源和冷源之间的热阻， $\\tau$ 为循环周期，根据式子(16)(17)(20)(21)可知， $\\tau$ 可表达为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\tau = t _ { s _ { + } 4 } + t _ { 1 _ { 2 } } + t _ { 2 _ { 3 } * } + t _ { 4 \\mathrm { T } } , } \\\\ & { = \\frac { \\left( 1 - \\mu _ { 1 } \\right) c _ { s } m \\left( T _ { h } - T _ { l } \\right) + n R T _ { h } \\ln \\lambda } { \\alpha _ { 1 } \\left( T _ { H } - T _ { h } \\right) } } \\\\ & { + \\frac { \\left( 1 - \\mu _ { 2 } \\right) c _ { s } m \\left( T _ { h } - T _ { l } \\right) + n R T _ { l } \\ln \\lambda } { \\alpha _ { 2 } \\left( T _ { l } - T _ { L } \\right) } } \\\\ & { + \\frac { T _ { s } - T _ { 2 } } { k _ { 1 } } + \\frac { T _ { 4 } - T _ { \\mathrm { T } } } { k _ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以，由于热漏的存在，热源实际的放热量可以表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { Q } _ { H } = \\mathcal { Q } _ { h } + \\mathcal { Q } _ { l e a k } = \\left( 1 - \\mu _ { 1 } \\right) c _ { \\nu } m \\left( T _ { h } - T _ { l } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ n R T _ { h } \\ln \\lambda + C _ { S } \\left( \\frac { 1 } { T _ { L } } { - } \\frac { 1 } { T _ { H } } \\right) \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同理可知冷源实际的吸热量可以表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { Q } _ { L } = \\mathcal { Q } _ { l } + \\mathcal { Q } _ { l e a k } = \\left( 1 - \\mu _ { 2 } \\right) c _ { \\nu } m \\left( T _ { h } - T _ { l } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ n R T _ { l } \\ln \\lambda + C _ { S } \\left( \\frac { 1 } { T _ { L } } { - } \\frac { 1 } { T _ { H } } \\right) \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在该模型中，斯特林发动机的功率为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = Q _ { h } - Q _ { l } = n R \\left( T _ { h } - T _ { l } \\right) \\ln \\lambda\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以效率可以表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\eta = \\frac { P } { Q _ { h } } } } \\\\ { { \\displaystyle = n R \\left( T _ { h } - T _ { l } \\right) \\ln \\lambda / \\left[ \\left( 1 - \\mu _ { \\scriptscriptstyle 1 } \\right) c _ { \\scriptscriptstyle \\nu } m \\left( T _ { h } - T _ { l } \\right) \\right. } } \\\\ { { \\displaystyle \\left. + n R T _ { h } \\ln \\lambda + C _ { s } \\left( \\frac { 1 } { T _ { \\scriptscriptstyle L } } - \\frac { 1 } { T _ { \\scriptscriptstyle H } } \\right) \\tau \\right] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由Ust提出的生态学性能优化准则",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE C O P = { \\frac { P } { T _ { 0 } \\sigma } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "的最大化用来表示功率和功率耗散的最佳折衷。其中环境温度 $T _ { 0 }$ 和熵产率 $\\sigma$ 的乘积 $T _ { 0 } ~ \\sigma$ 被称为“功率耗散”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在此发动机的模型中，生态学性能函数可以表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { E C O P = \\displaystyle \\frac { P } { T _ { 0 } \\sigma } = \\frac { P } { T _ { 0 } \\left( \\frac { \\dot { Q } _ { L } } { T _ { L } } - \\frac { \\dot { Q } _ { H } } { T _ { H } } \\right) } } & { } \\\\ { = n R \\left( T _ { i } - T _ { i } \\right) \\ln \\lambda } & { } \\\\ { / ( T _ { 0 } \\frac { C _ { s } \\left( T _ { H } - T _ { t } \\right) \\dot { A } + \\mu _ { 2 } c m \\left( T _ { h } - T _ { i } \\right) + n R T _ { i } \\ln \\lambda } { T _ { L } } } & { } \\\\ { ~ - \\frac { C _ { s } \\left( T _ { H } - T _ { L } \\right) \\tau + \\mu _ { 1 } c m \\left( T _ { h } - T _ { i } \\right) + n R T _ { h } \\ln \\lambda } { T _ { H } } } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2多目标优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实际优化问题中，经常存在多个优化指标，因为不可能同时让所有指标达到各自的最优值，所以往往出现一个优化目标达到最大值时，其它指标并不是最优甚至是最劣值。本文采用多目标遗传算法对斯特林发动机的功率（26）、效率（27）以及生态学性能准则（29）进行优化。发动机工况参数选择如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "工质摩尔数 $n { = } 2 0 4 ~ \\mathrm { m o l }$ ，工质质量 $\\scriptstyle { \\mathit { m } } = 8 1 6 { \\mathrm { ~ g ~ } }$ ，工质等容比热容 $c _ { \\scriptscriptstyle V } { = } 3 . 2 1 4$ $\\mathrm { { J / { ( g \\cdot K ) } } }$ ，理想气体常数$R { = } 8 . 3 1 4$ $\\mathrm { J } / \\left( \\mathrm { m o l } \\cdot \\mathrm { K } \\right)$ ，回热损失系数 $\\mu _ { \\scriptsize 1 } { = } 0 . 3$ ， $\\mu$ $_ { 2 ^ { = 0 . 2 } }$ ，回热器中工质温度平均变化率 $k _ { 1 } = k _ { 2 } = 5 0 0$ $\\mathrm { { K / s } }$ ，换热系数 ${ \\mathbb { W } } / \\left( { \\mathrm { K } } \\cdot { \\mathrm { s } } \\right)$ ，环境温度 $\\scriptstyle { T _ { 0 } = 3 0 0 }$ K，热源与冷源间热导率 $c _ { s } { = } 1 0 \\mathrm { ~ W / \\left( K \\cdot \\Delta s \\right) }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采取四个决策变量 $T _ { h }$ $\\mathit { \\Pi } _ { h } ^ { \\prime } \\bullet \\textit { T } _ { l } \\bullet \\textit { T } _ { H } ,$ $T _ { L }$ ，分别表示工质在高温膨胀时的温度、工质在低温压缩时的温度、热源温度、冷源温度。决策变量的约束条件如下所示",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n6 0 0 \\leq T _ { h } \\leq 1 0 0 0 ~ K\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n3 0 0 \\le T _ { l } \\le 6 0 0 K\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 0 0 0 \\le T _ { \\scriptscriptstyle H } \\le 1 2 0 0 \\mathrm { \\ K }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 8 0 \\leq T _ { L } \\leq 3 0 0 ~ \\mathrm { K }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在多目标优化问题中，得到的帕累托最优解是一个解集（帕累托前沿）。在得到帕累托最优解集之后，需要引入决策方法从中选取最终的唯一结果。本文将采用TOPSIS法对帕累托最优解集进行决策。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行决策前，需要对不同量纲的目标进行无",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "量纲化。TOPSIS法使用欧式无量纲化的方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "欧式无量纲化的方法中，帕累托前沿上各个不同的点组成的目标矩阵可以表示为 $F _ { i j }$ ，其中 $\\mathbf { \\nabla } _ { \\boldsymbol { i } }$ 代表位于帕累托前沿上的每一个点， $j$ 代表目标空间上的每个点，因此可以将无量纲目标 $F _ { i , j } { } ^ { n }$ 定义为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { i j } ^ { n } = \\frac { F _ { i j } } { \\sqrt { \\sum _ { i = 1 } ^ { m } \\left( F _ { i j } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "TOPSIS决策方法中，定义了理想点和非理想点。理想点代表着该点上的每个目标函数都是最优的，而在实际的多目标优化问题中，不可能存在这样的理想点。同样的，非理想点代表着该点上的每个目标函数都是最劣的，实际问题中也不存在这样的非理想点。因此，理想点和非理想点并不在帕累托前沿上。在TOPSIS决策方法中，对于经过欧式无量纲化的目标，每一个帕累托前沿上的点与理想点和非理想点的距离被定义为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i + } = \\sqrt { \\sum _ { j = 1 } ^ { n } \\left( F _ { i j } - F _ { j } ^ { i d e a l } \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i - } = { \\sqrt { \\sum _ { j = 1 } ^ { n } \\left( F _ { i j } - F _ { j } ^ { n o n - i d e a l } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$d _ { i ^ { + } }$ 代表帕累托前沿上的点与理想点的距离， $d _ { i ^ { - } }$ 代表Pareto前沿上的点与非理想点的距离， $\\mathbf { \\Omega } _ { n }$ 代表目标的个数， $F _ { j } ^ { ~ i d e a l }$ 和 $F _ { J } ^ { \\ n o n - i d e a l }$ 分别代表第 $j$ 个目标",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在单目标优化条件下的最优值与最劣值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定义参数 $\\mathit { C l } _ { i }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC l _ { i } = \\frac { d _ { i - } } { d _ { i + } + d _ { i - } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "而拥有最小值 $\\mathit { C l } _ { i }$ 的解被选作最终解，因此最终解的指数 $\\mathbf { \\nabla } _ { \\boldsymbol { i } }$ 可有如下表示",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { _ { f i n a l } } = i \\in \\operatorname* { m i n } \\left( C l _ { i } \\right) ; i = 1 , 2 , \\ldots \\mathrm { ~ , ~ } m\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "功率（26）、效率（27）和生态学性能指标（29）在本优化中被同时最大化，基于多目标遗传算法得到的帕累托最优解集如图3所示。图中的点集即为所求的帕累托前沿。经过拟合之后，可以得到",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { E C O P = 1 . 1 6 \\times 1 0 ^ { 2 } } \\\\ { - 1 . 1 7 \\times 1 0 ^ { 2 } \\times e ^ { - \\frac { 1 } { 2 } \\times \\left( \\frac { P + 2 . 6 1 \\times 1 0 ^ { 3 } } { 2 . 6 0 \\times 1 0 ^ { 5 } } \\right) ^ { 2 } - \\frac { 1 } { 2 } \\times \\left( \\frac { \\eta + 3 . 6 1 \\times 1 0 ^ { - 1 } } { 9 . 4 3 \\times 1 0 ^ { - 1 } } \\right) ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "拟合优度为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = 0 . 9 9 8 6 7\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将TOPSIS决策得到的结果与单目标遗传算法优化的结果进行对比，如表1和表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f0d7d0ac57a245d6452bf80dc745d7a3953d3500dfa9dd85d5149f9d8b27f0a.jpg",
+        "img_caption": [
+            "图3多目标遗传算法优化结果",
+            "Fig.3 Optimization Results of Multi-objective Genetic Algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a06c8becd0f5a384248de64f33446cf09ce79a1c5d5637d31008ee26cbb073a8.jpg",
+        "table_caption": [
+            "'able1The comparison between results of multi-objective optimization with single objective optimization ",
+            "表2多目标优化与单目标优化结果对比2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"3\">目标函数</td><td colspan=\"4\">变量</td></tr><tr><td colspan=\"2\"></td><td>P(kW)</td><td>N(%)</td><td>ECOP</td><td>Th(K)</td><td>Th(K)</td><td>Th(K)</td><td>Th(K)</td></tr><tr><td rowspan=\"3\">单目标 优化</td><td>优化功率</td><td>48.39</td><td>32.03</td><td>0.67</td><td>865.2</td><td>482.9</td><td>1200. 0</td><td>280.0</td></tr><tr><td>优化效率</td><td>29.52</td><td>40.01</td><td>1.04</td><td>988.2</td><td>341.8</td><td>1169.7</td><td>280.0</td></tr><tr><td>优化生态学</td><td>20.39</td><td>37.73</td><td>1. 15</td><td>910.8</td><td>351.7</td><td>1017.3</td><td>300.0</td></tr><tr><td colspan=\"2\">多目标优（TOPSIS）</td><td>42. 37</td><td>37.60</td><td>0.94</td><td>948.8</td><td>414.3</td><td>1198.9</td><td>288.1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e77b34fd90305873b8438b49fcd70d10a3e507f9f40e71f6a5748e2ece6ea08.jpg",
+        "table_caption": [
+            "表1多目标优化与单目标优化结果对比1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>功率</td><td>效率</td><td>生态学函数</td></tr><tr><td>VS 功率优化</td><td>-12.44%</td><td>+17.39%</td><td>+40.30%</td></tr><tr><td>VS 效率优化</td><td>+43.53%</td><td>-6.02%</td><td>-9.62%</td></tr><tr><td>VS 生态学函数优化</td><td>+107.80%</td><td>-0.34%</td><td>-18.26%</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 2The comparison between results of multi-objective optimization with single objective optimization 2 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由对比表1和表2可以看到，虽然单目标优化的结果可以使得该单目标取得最大值，但是相应的，其它指标却要低得多，例如单目标优化功率的时候，虽然功率是最大的，但是效率和生态学性能指标都是最低的。由表1还可以看到，多目标优化的结果虽然不是各项指标中最大的，但是却能达到一个综合最优的结果。例如，相比于单目标优化功率，虽然少了约6 $\\operatorname { k } \\mathbb { W }$ 的做功量，但是却有着约5.6%的效率提升和约0.3的ECOP的提升。相比于单目标优化效率，效率虽然低了2.4 $\\%$ ，但是功率",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "却有着 $1 2 . 8 5 ~ \\mathrm { { k W } }$ 的提升。同样的，相对于单目标优化ECOP指标低了0.2，但是多目标优化的结果却有着 22kW的提升。优化的结果显示，采用多目标优化可以对斯特林发动机进行效率、功率以及生态学性能指标有着更合理的优化效果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文对斯特林发动机进行有限时间热力学的分析，考虑了热源与工质传热的不可逆性、回热损失和热漏的影响，再对该模型求出其功率、效率以及生态学性能指标。考虑到单目标优化的结果会使其它指标付出很大的代价，不具有实际指导意义，故采用遗传算法对这三个指标进行多目标优化。在多目标遗传算法进行优化得到帕累托最优解集之后，采用了TOPSIS决策方法进行决策，得到的结果与单目标优化的结果进行对比。从对比的结果可以看到，采用多目标遗传算法对斯特林发动机进行优化的结果更具有实际指导意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Kongtragool B,Wongwises S.A review of solar-powered Stirling engines and low temperature differential Stirling engines [J].Renewable & Sustainable Energy Reviews,2003,7(2):131- 154.   \n[2]Blank D A,Davis G W,Wu C. Power optimization of an endoreversible stirling cycle with regeneration [J].Energy,1994, 19(1): 125-133.   \n[3]Formosa F,Despesse G.Analytical model for Stirling cycle machine design [J].Energy Conversion And Management, 2010,51(10): 1855-1863.   \n[4]Kongtragool B,Wongwises S. Thermodynamic analysis of a Stirling engine including dead volumes ofhot space,cold space and regenerator [J].Renewable Energy,2006,31(3): 345-359. [5]Tlili I,Timoumi Y,Nasrallah S B.Thermodynamic analysis of the Stirling heat engine with regenerative losses and internal irreversibilities [J]. International Journal Of Engine Research,2008,9(1): 45-56.   \n[6]Curzon FL,Ahlborn B.Efficiency of a Carnot engine at maximum power output [J].American Journal of Physics,1975, 43(1): 22-24.   \n[7]Ladas HG, Ibrahim O M.Finite-time view of the stirling engine [J]. Energy,1994,19(8): 837-843.   \n[8]Costea M，Petrescu S，Harman C. The effect of irreversibilities on solar Stirling engine cycle performance [J]. Energy Conversion And Management, 1999,40(15-16): 1723- 1731.   \n[9]Petrescu S, Costea M, Harman C,et al. Application of the Direct Method to irreversible Stirling cycles with finite speed [J]. International Journal Of Energy Research,2002, 26(7): 589-609. [10] Senft JR. Theoretical limits on the performance of stirling engines [J]. International Journal Of Energy Research, 1998, 22(11): 991-1000.   \n[11] Chen JC, Yan Z J, Chen L X, et al. Efficiency bound of a solar-driven Stirling heat engine system [J]. International Journal Of Energy Research, 1998,22(9): 805-812.   \n[12] Wu F, Chen L G, Wu C, et al. Optimum performance of irreversible stirling engine with imperfect regeneration [J]. Energy Conversion And Management, 1998,39(8): 727-732. [13] Kaushik S C,Kumar S.Finite time thermodynamic analysis of endoreversible Stirling heat engine with regenerative losses [J].Energy,2000,25(10): 989-1003.   \n[14] Kaushik S C,Kumar S. Finite time thermodynamic evaluation of irreversible Ericsson and Stirling heat engines [J]. Energy Conversion And Management, 2001,42(3): 295-312. [15] Li Y Q,He Y L,Wang W W. Optimization of solarpowered Stirling heat engine with finite-time thermodynamics [J]. Renewable Energy,2011,36(1): 421-427.   \n[16] Angulo - Brown F.An ecological optimization criterion for finite - time heat engines [J]. Journal of Applied Physics, 1991, 69(11): 7465-7469.   \n[17] Yan Z. Comment on ‘An ecological optimization criterion for finite - time heat engines’[J. Appl.Phys.69,7465 (1991)] [J]. Journal of Applied Physics,1993,73(7): 3583-3583.   \n[18] Long R, Liu W. Ecological optimization for general heat engines[J].Physicaa-StatisticalMechanicsAndIts Applications,2015,434,232-239.   \n[19] He J,Chen J，Wu C. Ecological optimisation of an irreversible Stirling heat engine [J]. International Journal of Ambient Energy,2001,22(4): 211-220.   \n[20] Tyagi S K,Kaushik S C， Salhotra R. Ecological optimization and performance study of irreversible Stirling and Ericsson heat engines [J]. Journal Of Physics D-Applied Physics, 2002,35(20): 2668-2675.   \n[21] Ust Y. Ecological performance analysis and optimization of power generation systems [D]; Ph.D., Thesis Progress Report, Yildiz TechnicalUniversity,Istanbul,04. [22]Ahmadi M H,Hosseinzade H, Sayyaadi H,et al. Application of the multi-objective optimization method for designing a powered Stirling heat engine: Design with maximized power, thermal efficiency and minimized pressure loss [J].Renewable Energy,2013,60,313-322.   \n[23]Ahmadi MH,Mohammadi A H,Dehghani S.Evaluation of the maximized power of a regenerative endoreversible Stirling cycle using the thermodynamic analysis [J].Energy Conversion and Management, 2013,76, 561-570.   \n[24] Ahmadi MH, Mohammadi A H, Dehghani S,et al. Multiobjective thermodynamic-based optimization of output power of Solar Dish-Stirling engine by implementing an evolutionary algorithm [J].Energy Conversion and Management,2013,75, 438-445.   \n[25] Ahmadi MH, Sayyaadi H, Dehghani S,et al. Designing a solar powered Stirling heat engine based on multiple criteria: Maximized thermal efficiency and power [J]. Energy Conversion and Management,2013,75,282-291.   \n[26] Ahmadi M H,Sayyaadi H,Mohammadi A H,et al. Thermo-economic multi-objective optimization of solar dishStirling engine by implementing evolutionary algorithm [J]. Energy Conversion and Management, 2013,73,370-380. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "附页",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第一作者：戴东东  \n详细通讯地址：武汉市珞喻路1037号华中科技大学 能源学院动力楼 421室  \n手机：15527352565  \n邮箱：d_dd@hust.edu.cn",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 8
+    }
+]

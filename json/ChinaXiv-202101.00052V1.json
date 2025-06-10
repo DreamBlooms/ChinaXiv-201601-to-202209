@@ -1,0 +1,523 @@
+[
+    {
+        "type": "text",
+        "text": "Geochemical baseline determination and contamination of heavy metals in the urban topsoil of Fuxin City, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Hua, YU Miao, XU Hongjia, WEN Huan, FAN Haiyan, WANG Tianyi, LIU Jiangang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Geography,LiaoningNormal University,Dalian 1l6O29,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Urban topsoil is the most frequent interface between human society and natural environment. The accumulation of heavy metals in the urban topsoil has a direct effect on residents' life and health.The geochemical baseline of heavy metals is an objective description of the general level of heavy metals in the urban topsoil. Meanwhile,the determination of geochemical baseline is necessary for regional environmental management, especialy in coal cities prone to heavy metal polution. Heavy metal polltion has become an environmental problem in Fuxin City, China for a long time.To establish the geochemical baseline of heavy metals in the topsoil of Fuxin Cityand to evaluate the ecological risk of the topsoil, we collected 75 topsoil samples ( $\\mathrm { ( 0 { - } 2 0 ~ c m ) }$ and analyzed the concentrations of Cu, Ni, Zn,Pb, Cr, Cd, $\\mathrm { H g }$ and As through X-ray fluorescence spectrometry, atomic absorption spectrometry and inductively coupled plasma optical emisson spectrometry. We determined the geochemical baseline of heavy metals in the topsoil of Fuxin City by using iteration removal,box-whisker plot,cumulative frequency curve and reference metal normalization; evaluated the contamination risk and ecological risk of the topsoil by using the baseline factor index,Nemerow index and Hakanson potential ecological risk index; and identified the source category of heavy metals in the topsoil by using a pedigree clustering heatmap. Results showed that the geochemical baseline values were 42.86,89.34, 92.23, 60.55,145.21, 0.09, 0.08 and $4 . 1 7 ~ \\mathrm { m g / k g }$ for $\\mathrm { C u }$ 0 Ni, Zn,Pb, Cr, Cd, $\\mathrm { H g }$ and As,respectively. The results of Nemerow index and Hakanson potential ecological risk index indicated that the urban topsoil in the study area was slightly contaminated and suffering low potential ecological risk. The main contaminated areas dominated in the middle part and northeast part of the study area,especialy in the western Haizhou Strip Mine. The result of baseline factor index indicated that $\\mathrm { H g }$ and Cd were the major pollution elements. Using a pedigree clustering heatmap, we divided the sources of these heavy metals into three types: type I for Ni and Cr,largely represented the enrichment of heavy metals from natural sources; type II for Cu,Pb, Zn, Cd and As, mainly represented the enrichment of heavy metals from anthropogenic sources; and type II for $\\mathrm { H g , }$ represented the form of both natural and anthropogenic inputs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: heavy metals; urban topsoil; geochemical baseline; contamination index; pedigree clustering heatmap ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The geochemical baseline,which provides information for both the original geological background and the disturbance effect of human activities,has a crucial application in the study of regional topsoil pollution and the trend prediction of environmental change (Salminen and Tarvainen,1997; Teng et al.,2003; Teng et al.,2009; Zhang et al.,2018;Lu et al.,2019; Zhang et al., 2O2O). The concept of a generalized geochemical baseline was first pointed out in the 1970s (Tidball and Ebens,1976).After more than 2O a of development, the study of geochemical baseline has received widespread attention,and some consensus has been reached on unifying the concept of geochemical baseline,deepening the theoretical connotation and identifying their influencing factors (Birke,1993; Siegel,1995). At the same time,survey and mapping of the regional geochemical baseline were systematically developed (Covelli and Fontolan，1997；Darnley，1997；Plant et al.，2000；Salminen and Gregorauskien，2000; Reimann et al.， 2Oo5). Following the implementation of geochemical mapping projects in European countries, China launched a multi-objective regional geochemistry survey in the early 199Os and started large-scale research nationwide,laying the foundation of geochemistry in various areas (Wei et al.,1991). The result is still in use and has a far-reaching impact.In recent years,more attention has been focused on promoting the social application of the laws of geochemical baseline,which has been extended to the basin environment, river water quality,atmospheric dust, farmland soil, urban topsoil and other landscape areas,and has become a crucial part of global change researches (Shi et al., 2O12; Wei and Wen， 2012; Beiseyeva et al., 2O13; Tian et al.,2Ol7). Therefore,with the deepening and popularization of geochemical baseline research, new questions arise one after another: Does the law obtained from previous large-scale research is applicable to small-scale areas? Is the common method applicable for all objects? These problems are stillin the exploratory stage and need further study. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As a typical mining city with rich mineral resources,there has been continual mining in Fuxin City, China for nearly 5O a. Due to the backward technology and extensive mining methods,resource depletion and environmental damage occurred in Fuxin City. Moreover, environmental risks caused by frequent mining activities are not totally assessed.Thus,the establishment of the geochemical baseline currently cannot only provide certain instructions for environmental management, but also set a scale plate for judging the availability of industrial development. The topsoil of urban area is the most important interface of material and energy interaction,and its geochemical baseline level has the significance for environment. Currently, most studies on the topsoil environment in this area have focused on heavy metal polltion in the mining area (Li et al.,2007; Zhang et al.,2010; Cong et al.,2017; Zhao et al., 2017; Lian et al.,2O19), however, studies on the geochemical baseline of the urban topsoil are limited. Therefore， four common methods,namely iterative removal， box-whisker plot, cumulative frequency curve and reference metal normalization were used to determine the geochemical baseline of the urban topsoil in Fuxin City. Accordingly,the baseline factor index, Nemerow index and Hakanson potential ecological risk index were used to evaluate the ecological risk of heavy metals in the urban topsoil,and the source classification of heavy metals was briefly analyzed using a pedigree clustering heatmap. The findings of this study will improve our understanding of the quality of the topsoil in Fuxin City and assist in providing fundamental data support for future environmental protection policies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fuxin City is located in the northwest of Liaoning Province，China $( 4 1 ^ { \\circ } 4 1 ^ { \\prime } - 4 2 ^ { \\circ } 5 6 ^ { \\prime } \\mathrm { N }$ $1 2 1 ^ { \\circ } 0 1 ^ { \\prime } { - } 1 2 2 ^ { \\circ } 5 6 ^ { \\prime } \\mathrm { E } )$ . It is adjacent to the Horqin Sandy Land in the north,Liaohe River in the southeast and Nulu'erHu Mountain in the west.The terrain is high in the northwest and low in the southeast (Zhao et al.， 2Ol7). Fuxin City belongs to the semi-humid and semi-arid continental monsoon climate zone. The annual average temperature is $8 . 6 ^ { \\circ } \\mathrm { C }$ and average annual precipitation is $5 6 5 . 6 ~ \\mathrm { m m }$ .The dominant wind direction is southwest in summer and northwest in winter, and average wind speed is $2 . 8 ~ \\mathrm { m / s }$ . The sampling plots in the main urban area of Fuxin City include Xihe district, Haizhou district and Taiping district with an area of $1 7 6 . 0 \\mathrm { k m } ^ { 2 }$ (Fig. 1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Sampling and analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to the survey method of the Technical Specification for Soil Environment Monitoring (Ministry of Environmental Protection of China,2O04),we collected topsoil samples in the main urban area of Fuxin City in August 2O18. We laid out sampling points according to land type, population density and intensity differences of human activity (Fig.1),and then picked up one sample of topsoil at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth and subsequently collected four replicated samples from each sampling site within a $5 \\ \\mathrm { m } { \\times } 5 \\ \\mathrm { m }$ grid.After debris of animal and plant was removed from samples,we mixed five soil samples evenly. Next, about $1 \\mathrm { k g }$ of the mixed sample was stored in a polyethene sealing bag. There were 75 samples in total,with each functional zone having 15 samples,and these functional zones included traffic,industrial mining,commercial, residential and green space areas. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In laboratory, topsoil samples were naturally air-dried, crushed, sieved using a $2 \\mathrm { - m m }$ sieve,and prepared for pressing slices or acid digestion (a mixture of ${ \\bf H N O } _ { 3 }$ ，HF and $\\mathrm { H C l O _ { 4 } } )$ ！ Concentrations of Al，Fe,Ti,Rb,Cu，Ni,Zn，Pb and $\\mathrm { C r }$ were measured through $\\mathbf { \\boldsymbol { X } }$ -ray fluorescence spectrometry (ZSX Primus II, Tokyo, Japan). Arsenic concentration was measured through atomic absorption spectrometry (Hitachi Z2Ooo，Beijing， China)， $\\mathrm { H g }$ and Cd concentrationswere determined through inductively coupled plasma optical emission spectrometry (ICP-OES,PE,USA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "121°35'E 121°36'E 121°37'E 121°38'E 121°39'E 121°40'E 121°41'E 121°42'E 121°43'E 121°44'E SiheReservoir O   \n4233000 E 66 YulongLake YuR 8 E 品 23004 三 ng Road Ren C Dongxin Street   \n242244444 De 福 品 Xihe A 24444414 o- EOOS A 3 品 Sunjiaw omoRoaog   \n2410601150 。 o P 241044610 Road awan Dongfeng 24 0 S204 8 中 00 Bayi O 03 品   \n1854 L Road 7 B 5 。- 18554 品 Legend 0.0 0.9 Bypass H N Provincial highway Main street Waterbody 121°35'E 121°36'E 121°37'E 121°38'E 121°39'E 121°40'E 121°41'E 121°42'E 121°43'E 121°44'E ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Geochemical baseline value ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Four methods were used to determine the geochemical baseline value and the arithmetic average were considered as the final value. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The box-whisker plot is an effective method to calculate geochemical baseline value, which is drawn from the minimum value,first quartile, median, third quartile and the maximum value. The calculation process is fulfiled by successively eliminating outliers outside of one and a half times interquartile range. Finally, the median of remaining data was considered as the geochemical baseline value. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The iteration removal adopted double-standard deviation to quantitatively determine the geochemical baseline value (Reimann and Filzmoser, 2Ooo).When test data showed normal distribution, the upper and lower limits of outliers could be identified by calculating the average, plus or minus double-standard deviation $( \\overline { { x } } \\pm 2 s )$ . Outliers greater than $( \\overline { { x } } \\pm 2 s )$ and less than （204号 $( \\overline { { x } } - 2 s )$ were successively removed until no outliers remained. Then, the arithmetic average of remaining data was considered as the geochemical baseline value.Test data were transformed via natural logarithm firstly if they showed the logarithmic normal distribution and the following processing is the same as normal distribution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A cumulative frequency curve was plotted by using the heavy metal concentration as the abscissas and cumulative distribution frequency as the ordinate (Teng et al.,2OO3;Wei and Wen, 2012; Fan et al.,2O14).In general, there may be one or two inflexion points on the curve, which symbolized the lower and upper limits of outliers.To find the position of inflexion points,we used the consecutive linear fitting. With the increase of samples of higher concentration involved in the fitting,inflection points will be found under linear model of $R ^ { 2 } { > } 0 . 9 5$ and $P { < } 0 . 0 5$ . The baseline value was calculated by all data points below the inflexion point when the curve only had one bend. However, if there were two,the shape of curve between two bends is considered a critical factor,i.e.,data involved in computation should be included the part before the lower inflexion point (or before the upper inflexion point） if the middle part of the cumulative distribution curve is similar to the forepart (or the following part). The average value of data involved in computation was considered as the geochemical baseline value. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The reference metal normalization method can be expressed as an equation established by the correlation between active and inert elements (Teng et al.,2Oo3; Newman and Watling,2007): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { { \\scriptscriptstyle m } } = \\mathrm { a } \\overline { { { C _ { { \\scriptscriptstyle N } } } } } + { \\sf b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { m }$ is the concentration of active element $( \\mathrm { m g / k g } )$ ； $\\overline { { C _ { N } } }$ is the concentration of inert element $( \\mathrm { m g / k g } )$ ; a is the regression coefficient; and $\\boldsymbol { \\mathbf { b } }$ is the constant.As mentioned by Newman and Watling (2OO7),a suitable reference metal element is the basis of this method.Many studies have used Al, Fe, Ti, Rb, Li and $\\mathrm { v }$ as the normalizer(Teng et al., 2003; Fan et al., 2O14). In this study,Al,Fe,Ti and Rb were selected as the candidates to establish the regression equations,and the optimal normalizer was sifted through the most significant correlation coefficient.Based on fitting relations,we eliminated the samples that were not in $9 5 \\%$ confidence intervals until no outliers remained. Finally, the regression parameters a and $\\boldsymbol { \\mathbf { b } }$ were confirmed. By substituting average concentration of inert element into the equation,we calculated the geochemical baseline value. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Contamination index ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The baseline factor index that reflects the degree of element contamination was calculated using the following equation (Zhu et al.,2016): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { i } = C _ { i } / B _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { i }$ is the contamination index of heavy metal $i ; C _ { i }$ is the concentration of polluted element $i$ $( \\mathrm { m g / k g } )$ ; and $B _ { i }$ is the theoretical baseline value $( \\mathrm { m g / k g } )$ . Grade criteria of contamination are proposed as follows: $P _ { i } { \\leq } 1 . 2 0$ indicates no contamination; $1 . 2 0 { < } P _ { i } { \\leq } 1 . 5 0$ ，slight contamination; $1 . 5 0 { < } P _ { i } { \\leq } 2 . 0 0$ ,moderate contamination; and $P _ { i } > 2 . 0 0$ , heavy contamination. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Nemerow index is often used to evaluate the comprehensive contamination of multiple heavy metals, with considering the difference in contaminated heavy metals, especially for the top one (Nemerow, 1974).The equation of Nemerow index is as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { _ { N } } = \\sqrt { ( P _ { _ { \\mathrm { a v e } } } ^ { 2 } + P _ { _ { \\mathrm { m a x } } } ^ { 2 } ) / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { N }$ is the Nemerow index of $n ^ { \\mathrm { t h } }$ sample; $P _ { \\mathrm { a v e } }$ is the average value of $P _ { i }$ index;and $P _ { \\mathrm { m a x } }$ is the maximum $P _ { i }$ index.Normally, $P _ { N }$ can be classified as follows: ${ P _ { N } } { < } 0 . 7 0$ indicates safety; $0 . 7 0 { \\le } P _ { N } { < } 1 . 0 0$ ，precaution； $1 . 0 0 { \\le } P _ { N } { < } 2 . 0 0$ ，slight contamination； $2 . 0 0 { \\le } P _ { N } { < } 3 . 0 0$ ，moderate contamination;and $P _ { N } { \\ge } 3 . 0 0$ ,serious contamination. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Hakanson potential ecological risk index is a classic method used for assessing the threat posed by heavy metals,and this index simultaneously considers the concentration, ecological effect, environmental effect and toxicological influence (Hakanson,198O).The index is calculated ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR I = \\sum E _ { i } = \\sum T _ { i } P _ { i } = \\sum T _ { i } ( { ^ C } _ { \\Big / B _ { i } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $R I$ is the Hakanson potential ecological risk index; $E _ { i }$ is the potential toxicity index of a single heavy metal $i$ and $T _ { i }$ is the toxic response factor of the element $i$ ，The toxicity coefficient values are 5,5,1,5,2,30,40 and 10 for Cu,Ni, Zn, $\\mathrm { P b }$ ,Cr, Cd, $\\mathrm { H g }$ and As,respectively,as specified by Hakanson (1980). The $R I$ index is grouped into four grades: $R I { < } 1 5 0$ indicates low ecological risk; $1 5 0 { \\le } R I { < } 3 0 0$ , moderate ecological risk; $3 0 0 { \\leq } R I { < } 6 0 0$ ,considerable ecological risk; and $R I { \\stackrel { \\scriptstyle > } { = } } 6 0 0$ ,serious ecological risk. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3Pedigree clustering heatmap ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The pedigree clustering heatmap is a visualized multivariate statistical method, which performs hierarchical clustering analysis on the data matrix along the reordered columns and rows,and draws the heatmap with a dendrogram.By clustering,the groups with similar or vastly different expression values are easily visible(Wilkinson and Friendly,2Oo9).In the current study,the \"heatmap with dendrogram\" plug-in in OriginLab 2O18 software was used to complete the analysis the source of heavy metals. Specifically, given a selected color key,the inputted heavy metal concentrations are automatically standardized and marked in a specific color. The smaller the distance cluster,the higher the similarity between objects.The average Euclidean distance and Ward Euclidean distance are employed for measuring the distance of 8 heavy metals and the distance of 75 samples, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Concentrations of heavy metals ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results showed that Ni concentration was normally distributed, while the concentrations of other seven heavy metals were logarithmic normally distributed (Table 1). Except for As,the mean concentrations of other elements were higher than the background value of Liaoning Province. Especially the maximum concentration of $\\mathrm { C r }$ reached $1 0 9 5 . 4 ~ \\mathrm { m g / k g }$ ，which was nearly 20 times the background value. Similarly， the maximum value of $\\mathrm { H g }$ was $0 . 6 4 ~ \\mathrm { { \\ m g / k g } }$ approximately 17 times the concentration of the background value. The mean concentrations of the eight heavy metals divided by the corresponding background value of Liaoning Province increased in the order of $\\mathrm { A s { < } C d { < } Z n { < } C u { < } H g { < } C r { < } P b { < } N i }$ 、In addition,the concentrations of heavy metals showed strong variations. The coefficient of variations (CVs) of As, Zn, Cr, $\\mathrm { H g }$ and Cd exceeded $5 0 . 0 \\%$ ； in particular, the CVs of $\\mathrm { H g }$ and Cd were $9 3 . 8 \\%$ and $1 3 2 . 1 \\%$ ,respectively.The high spatial variation in these elements suggested the presence of point source pollution to some extent,which might be influenced by human activities,specifically for Cd and $\\mathrm { P b }$ concentrations in the traffic areas.The concentrations and CVs of Cu, Zn and $\\mathrm { H g }$ in the industrial mining areas were higher than those in other functional areas. Similarly， the CVs of $\\mathrm { H g }$ and $Z \\mathrm { n }$ in the commercial and residential areas were higher. The differences among the heavy metal concentrations in various functional areas were mainly affected by the intensity or frequency of industrial activities， power generation， industrial waste production， etc. Moreover， the concentration of Zn was slightly lower; however, the concentration of $\\mathrm { C r }$ was higher in the green space areas; this might also be atributed to human activities,such as industrial wastewater. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Geochemical baseline values ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The box-whisker plot of the eight heavy metals in the topsoil of Fuxin City is shown in Figure 2. After outliers were repeatedly removed, geochemical baseline values calculated by this method for Cu,Ni, Zn,Pb, Cr, Cd, $\\mathrm { H g }$ and As were 42.34, 92.33,86.77, 60.80,141.63,0.08,0.07 and $4 . 9 5 ~ \\mathrm { m g / k g }$ ,respectively (Fig.2). Using the iterative removal method, the geochemical baseline values for Cu, Ni, Zn, Pb,Cr, Cd,Hg and As were 42.08,87.35,88.82, 63.56,137.69,0.08, 0.07 and $3 . 5 8 ~ \\mathrm { m g / k g }$ ,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table1 Concentrations of heavy metals in the urban topsoil of Fuxin City ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ee3200ee31f8991cc92d62bfb380c138a1c59d6d928d3dddbb1ddb8fb69124f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Note:,CNEMC(ChinaNatioalEnvironmentMonitoringCentre,990);CV,coefficientofriation；N,omaldistribution;L logarithmic normal distribution. "
+        ],
+        "table_body": "<html><body><table><tr><td>Functional</td><td>Item</td><td>(mg/kg)</td><td>(mg/kg)</td><td>(mg/kg)</td><td>(mpkg)</td><td>(mgrkg)</td><td>(mg/kg)</td><td>(mg)</td><td>(mgskg)</td></tr><tr><td rowspan=\"4\">Whole study</td><td>Minimum</td><td>20.00</td><td>38.50</td><td>40.17</td><td>27.85</td><td>75.26</td><td>0.02</td><td>0.03</td><td>0.73</td></tr><tr><td>Maximum</td><td>156.58</td><td>207.45</td><td>510.16</td><td>168.95</td><td>1095.42</td><td>1.18</td><td>0.64</td><td>8.40</td></tr><tr><td>Average</td><td>45.13</td><td>91.84</td><td>107.96</td><td>63.15</td><td>162.50</td><td>0.13</td><td>0.11</td><td>4.36</td></tr><tr><td>CV (%)</td><td>36.54</td><td>36.23</td><td>61.51</td><td>32.31</td><td>73.01</td><td>132.05</td><td>93.08</td><td>53.67</td></tr><tr><td rowspan=\"4\">Traffic area</td><td>Minimum</td><td>29.56</td><td>51.08</td><td>41.78</td><td>34.35</td><td>98.53</td><td>0.05</td><td>0.03</td><td>1.32</td></tr><tr><td>Maximum</td><td>72.70</td><td>146.16</td><td>279.58</td><td>168.95</td><td>239.47</td><td>1.18</td><td>0.44</td><td>8.40</td></tr><tr><td>Average</td><td>48.84</td><td>95.03</td><td>117.18</td><td>69.01</td><td>148.47</td><td>0.28</td><td>0.12</td><td>5.33</td></tr><tr><td>CV (%)</td><td>20.60</td><td>28.73</td><td>49.37</td><td>44.97</td><td>29.32</td><td>120.72</td><td>82.48</td><td>38.84</td></tr><tr><td rowspan=\"4\">Industrial mining area</td><td>Minimum</td><td>26.36</td><td>44.79</td><td>49.01</td><td>39.92</td><td>104.00</td><td>0.03</td><td>0.04</td><td>0.94</td></tr><tr><td>Maximum</td><td>156.58</td><td>186.23</td><td>334.21</td><td>112.33</td><td>276.42</td><td>0.21</td><td>0.64</td><td>8.11</td></tr><tr><td>Average</td><td>50.22</td><td>91.31</td><td>120.67</td><td>60.96</td><td>146.69</td><td>0.10</td><td>0.16</td><td>4.65</td></tr><tr><td>CV (%)</td><td>58.45</td><td>42.36</td><td>53.62</td><td>30.55</td><td>28.95</td><td>45.96</td><td>92.00</td><td>46.96</td></tr><tr><td rowspan=\"4\">area</td><td>Minimum</td><td>32.75</td><td>48.72</td><td>75.52</td><td>27.85</td><td>75.26</td><td>0.03</td><td>0.06</td><td>1.00</td></tr><tr><td>Commercial Maximum</td><td>73.50</td><td>121.01</td><td>200.05</td><td>128.11</td><td>197.05</td><td>0.18</td><td>0.57</td><td>8.09</td></tr><tr><td>Average</td><td>47.24</td><td>76.01</td><td>110.82</td><td>62.63</td><td>152.08</td><td>0.11</td><td>0.13</td><td>4.83</td></tr><tr><td>CV (%)</td><td>27.03</td><td>31.90</td><td>29.74</td><td>33.14</td><td>25.02</td><td>31.74</td><td>94.97</td><td>46.60</td></tr><tr><td rowspan=\"4\">area</td><td>Minimum</td><td>27.16</td><td>51.86</td><td>44.56</td><td>43.63</td><td>87.58</td><td>0.03</td><td>0.04</td><td>0.73</td></tr><tr><td>Residential Maximum</td><td>57.52</td><td>136.73</td><td>510.16</td><td>77.98</td><td>186.79</td><td>0.15</td><td>0.24</td><td>8.28</td></tr><tr><td>Average</td><td>39.20</td><td>95.24</td><td>103.77</td><td>62.32</td><td>127.95</td><td>0.07</td><td>0.09</td><td>4.10</td></tr><tr><td>CV (%)</td><td>17.93</td><td>28.35</td><td>106.10</td><td>13.79</td><td>25.96</td><td>50.56</td><td>53.56</td><td>64.62</td></tr><tr><td rowspan=\"4\">Green space area</td><td>Minimum</td><td>20.00</td><td>38.50</td><td>40.17</td><td>31.56</td><td>106.74</td><td>0.02</td><td>0.03</td><td>1.38</td></tr><tr><td>Maximum</td><td>51.93</td><td>207.45</td><td>141.40</td><td>77.05</td><td>1095.42</td><td>0.21</td><td>0.16</td><td>6.22</td></tr><tr><td>Average</td><td>40.16</td><td>101.63</td><td>87.36</td><td>60.84</td><td>237.28</td><td>0.09</td><td>0.06</td><td>2.88</td></tr><tr><td>CV (%)</td><td>22.30</td><td>39.48</td><td>28.35</td><td>24.45</td><td>100.42</td><td>64.24</td><td>48.63</td><td>57.24</td></tr><tr><td colspan=\"2\">Distribution pattern</td><td>L</td><td>N</td><td>L</td><td>L</td><td>L</td><td>L</td><td>L</td><td>L</td></tr><tr><td colspan=\"2\">Background value of Liaoning Provincea</td><td>19.80</td><td>25.60</td><td>63.50</td><td>21.40</td><td>57.90</td><td>0.11</td><td>0.04</td><td>8.80</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "66 200- 135 58.3 150- 12 1015 ★ 119.71 901 88.19 4236030 42.34 10050 热 92.3 %万60 动 86.77 60 52.901 24 26.36 38.50 45 1 51.50 301 1 31.56 Cu Ni Zn Pb 250 0.18 0.16 91 （ro)nnenneetet 1247.68 0.16 +0.16 0.14 硬 A 8.40 251万15万 00 000000 000 0000000 63 4 594100 一 + Cr Cd Hg As ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The cumulative frequency curves for the eight heavy metals showed that there was a single inflection point in the curves for $\\mathrm { C u }$ ， $\\mathrm { H g }$ and As (Fig. 3). Among them, sample points participating in the calculation of geochemical baseline values for $\\mathrm { C u }$ and As accounted for $8 7 . 5 \\%$ and $8 5 . 0 \\%$ respectively,whereas $\\mathrm { H g }$ accounted only for $4 4 . 4 \\%$ ， suggesting that the accumulation of $\\mathtt { C u }$ and As in the topsoil had a consistent changing trend, whereas the contamination of $\\mathrm { H g }$ was abnormal. The baseline values of $\\mathrm { C u , H g }$ ，and As were 42.08, 0.06 and $3 . 8 7 ~ \\mathrm { m g / k g }$ ，which were calculated by all the sample points below the inflection point. In addition, two inflection points occurred in the cumulative frequency curves of Ni, Zn,Pb, Cr and Cd. Moreover, the curve shape between the two inflections was similar to that after the upper outlier. Therefore,the baseline values of these five elements were calculated as 84.62, 87.87, 58.73,140.01 and $0 . 0 9 \\mathrm { m g / k g }$ using the data before the upper outlier. Finally, the geochemical baseline values of Cu, Ni, Zn,Pb, Cr, Cd, $\\mathrm { H g }$ and As obtained by this method were 42.08,84.62,87.87, 58.73,140.01, 0.09,0.06 and $3 . 8 7 ~ \\mathrm { m g / k g }$ respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Concentration of heavy metal \\~ Trend line • Inflection point   \n(h) rrrrrreislrgrsi) (Bend, 59.25) (Bend 2,127.50) (Bed 2 12.00) (Bend 2,77.25) 100 80 9 O 100] 0 100] 35535 / 60 60 60 Peed 60 eag) 40 40 puag 40 40 20 20 5 20 20 0 0 1 0 0 20304050 60 70 50100150 200 4080120160 200 20406080100 Cu concentration Ni concentration Zn concentration Pb concentration (mg/kg) (mg/kg) (mg/kg) (mg/kg)   \n(h) rrrrreinlesi (Bend 2,213.00) (Bend 2,0.18) (Bend,0.09) (Bend, 7.30) 1080 (aart--1-g) 9 RO 1080 (OTO 1080 8 1080 P 60 60 Beer 60 60 40 40 40 40 20 20 20 20 0 120200280 0 0.06 0.12 0.18 0.24 0.04 0.080.120.160.20 0 123456789 Cr concentration Cd concentration Hg concentration As concentration (mg/kg) (mg/kg) (mg/kg) (mg/kg) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the processing of reference metal normalization,the correlation between the active and inert elements was first analyzed and correlation coefficients are shown in Table 2.Using the significance of the correlation as criteria $( P { < } 0 . 0 1 )$ for selection，we identified the optimal normalizers as Ti-Cu,Fe-Ni,Al-Zn,Ti-Pb,Fe-Cr,Al-Cd,Al- $\\mathrm { \\cdot H g }$ and Ti-As(Table 2). According to Equation 1，we performed linear regressions for the eight active elements on reference elements.After iteratively eliminating the samples lying outside $9 5 \\%$ confidence intervals,we established new linear equations for predicting the geochemical baseline value (Table 2).Finally, by substituting the average concentration of reference element into the new equation， we calculated the geochemical baseline values as 44.93, 93.06,105.47,59.09,161.51,0.11, 0.10 and $4 . 2 5 ~ \\mathrm { m g / k g }$ for Cu, Ni, Zn, Pb, Cr, Cd, $\\mathrm { H g }$ and As, respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The average values of the geochemical baseline results obtained from the four methods were considered as the final value. Consequently, the final geochemical baseline values for the urban topsoil in Fuxin City were 42.86, 89.34, 92.23, 60.55,145.21, 0.09, 0.08 and $4 . 1 7 ~ \\mathrm { { m g / k g } }$ for $\\mathrm { c u }$ Ni，Zn，Pb,Cr,Cd, $\\mathrm { H g }$ and As，respectively (Table 3).Among the eight heavy metals, geochemical baseline values of Cd and As were lower than the background value of Liaoning Province; however, the geochemical baseline values for the rest of heavy metals were significantly higher. The geochemical baseline values of Ni, Pb and $\\mathrm { C r }$ were almost triple the background value,whereas those of Cu,Hg and $Z \\mathrm { n }$ were approximately twice the background value,indicating serious heavy metal accumulation in the study area. Meanwhile,a comparison of the geochemical baseline value with other resource-oriented cities was performed.We observed that the concentrations of Ni, Pb and $\\mathrm { C r }$ were higher, but those of Cd and As were lower in Fuxin City than those in most of the other cities.In addition, the concentrations of Cu, Zn and $\\mathrm { H g }$ were similar to those reported in other cities (Table 4).It can be observed that the differences in an urban setting among these resource-oriented cities were relatively obvious and the main reason probably has more to do with the economic activity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0cbce887e93dd40ce239da7bbacf3131dd2eeda385743b9b343b92e94203b1f.jpg",
+        "table_caption": [
+            "Table 2Correlation coefficients and regression equations of inert element and active element "
+        ],
+        "table_footnote": [
+            "Note:\"and \\*\\* indicate significant correlations at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td>Element</td><td>Al</td><td>Fe</td><td>Ti</td><td>Rb</td><td>Regression equation</td><td>R²</td><td>P</td></tr><tr><td>Cu</td><td>-0.256*</td><td>0.272*</td><td>-0.340**</td><td>-0.200</td><td>y= -59.97x+70.54</td><td>0.99</td><td>0.00</td></tr><tr><td>Ni</td><td>0.073</td><td>0.314**</td><td>0.132</td><td>-0.007</td><td>y= -27.12x+5.65</td><td>0.92</td><td>0.00</td></tr><tr><td>Zn</td><td>-0.444**</td><td>0.093</td><td>-0.268*</td><td>-0.284*</td><td>y=-31.05x+320.33</td><td>0.98</td><td>0.00</td></tr><tr><td>Pb</td><td>0.057</td><td>0.079</td><td>0.315**</td><td>0.042</td><td>y=-15.08x+52.60</td><td>0.89</td><td>0.01</td></tr><tr><td>Cr</td><td>0.107</td><td>0.566**</td><td>0.275*</td><td>-0.016</td><td>y= -52.81x-7.97</td><td>0.98</td><td>0.00</td></tr><tr><td>Cd</td><td>-0.457**</td><td>0.016</td><td>-0.278*</td><td>-0.321**</td><td>y= -0.04x+0.38</td><td>0.97</td><td>0.00</td></tr><tr><td>Hg</td><td>-0.306**</td><td>-0.265*</td><td>-0.108</td><td>-0.038</td><td>y=-0.03x+0.29</td><td>0.96</td><td>0.00</td></tr><tr><td>As</td><td>-0.179</td><td>0.060</td><td>-0.328**</td><td>-0.148</td><td>y= -16.52x+11.28</td><td>0.99</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f3b1f9526a368fc1f3e88d1885192818d62879e2b9290f87531c18feb321e8a8.jpg",
+        "table_caption": [
+            "Table 3 Geochemical baseline values computed by various methods in the urban topsoil of Fuxin City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Element</td><td colspan=\"3\"></td><td rowspan=\"2\">Reference normalizatgon</td><td rowspan=\"2\">Whisker (mg/kg)</td><td rowspan=\"2\">Ieratioan (mg/kg)</td><td rowspan=\"2\">Final (mg/kg)</td><td rowspan=\"2\">Provinge</td></tr><tr><td>(mgndg)</td><td>(mg/dg）)</td><td>(mg/kg)</td></tr><tr><td>Cu</td><td>59.25</td><td>44.93</td><td>42.08</td><td>44.93</td><td>42.34</td><td>42.08</td><td>42.86</td><td>19.80</td></tr><tr><td>Ni</td><td>97.50</td><td>93.06</td><td>84.62</td><td>93.06</td><td>92.33</td><td>87.35</td><td>89.34</td><td>25.60</td></tr><tr><td>Zn</td><td>110.00</td><td>105.47</td><td>87.87</td><td>105.47</td><td>86.77</td><td>88.82</td><td>92.23</td><td>63.50</td></tr><tr><td>Pb</td><td>50.25</td><td>59.09</td><td>58.73</td><td>59.09</td><td>60.80</td><td>63.56</td><td>60.55</td><td>21.40</td></tr><tr><td>Cr</td><td>141.00</td><td>161.51</td><td>140.01</td><td>161.51</td><td>141.63</td><td>137.69</td><td>145.21</td><td>57.90</td></tr><tr><td>Cd</td><td>0.10</td><td>0.11</td><td>0.09</td><td>0.11</td><td>0.08</td><td>0.08</td><td>0.09</td><td>0.11</td></tr><tr><td>Hg</td><td>0.09</td><td>0.10</td><td>0.07</td><td>0.10</td><td>0.07</td><td>0.07</td><td>0.08</td><td>0.04</td></tr><tr><td>As</td><td>7.30</td><td>4.25</td><td>3.88</td><td>4.25</td><td>4.95</td><td>3.58</td><td>4.17</td><td>8.80</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/dcd85813591635d5d84044f9e7d952190624cfc12bd13541472fd273e810814d.jpg",
+        "table_caption": [
+            "Table 4Comparison of geochemical baseline value with other literature "
+        ],
+        "table_footnote": [
+            "Note:-meansno available value. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sampling site</td><td>Cu (mg/kg)</td><td>Ni (mg/kg)</td><td>Zn (mg/kg)</td><td>Pb (mg/kg)</td><td>Cr (mg/kg)</td><td>Cd (mg/kg)</td><td>Hg (mg/kg)</td><td>As (mg/kg)</td><td>Reference</td></tr><tr><td>BaMtoug Iner</td><td>20.37</td><td>17.98</td><td>61.42</td><td>23.52</td><td>118.47</td><td>-</td><td>-</td><td>8.65</td><td>Zhu et al. (2016)</td></tr><tr><td>BayaM Obo, Inner</td><td>26.46</td><td>29.16</td><td>76.71</td><td>29.07</td><td>124.37</td><td></td><td></td><td>16.09</td><td>Zhu et al. (2016)</td></tr><tr><td>Dexing, Jiangxi</td><td>58.90</td><td>-</td><td>138.54</td><td>54.61</td><td>72.87</td><td>0.37</td><td>0.100</td><td>14.00</td><td>Liu et al. (2014)</td></tr><tr><td>Urumqi, Xinjiang</td><td>94.54</td><td>43.28</td><td>294.47</td><td>53.53</td><td>54.28</td><td>1.17</td><td>-</td><td></td><td>Wei et al. (2010)</td></tr><tr><td>Zigong, Sichuan</td><td>23.10</td><td>24.50</td><td>62.00</td><td>28.20</td><td>66.40</td><td>0.18</td><td>0.037</td><td>3.86</td><td>Li et al. (2012)</td></tr><tr><td>Chengdu, Sichuan</td><td></td><td>32.00</td><td>535.00</td><td>281.00</td><td>110.00</td><td>2.94</td><td>0.630</td><td>28.60</td><td>Shi et al. (2012)</td></tr><tr><td>Tongling,Anhui</td><td>47.70</td><td>25.20</td><td>113.00</td><td>39.00</td><td>73.50</td><td>0.33</td><td>0.051</td><td>24.30</td><td>Jia et al. (2019)</td></tr><tr><td>Suzhou,Anhui</td><td>16.97</td><td></td><td>48.66</td><td>19.43</td><td>65.22</td><td></td><td></td><td>9.07</td><td>Gao et al. (2018)</td></tr><tr><td>Yanzhou, Shandong</td><td>34.34</td><td>33.27</td><td>89.86</td><td>27.39</td><td>75.27</td><td>0.14</td><td>0.069</td><td>7.77</td><td>Zhang (2007)</td></tr><tr><td>Fuxin, Liaoning</td><td>42.86</td><td>89.34</td><td>92.23</td><td>60.55</td><td>145.21</td><td>0.09</td><td>0.080</td><td>4.17</td><td>This study</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 Contamination assessment ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the present study, $P _ { i }$ ， $P _ { \\mathrm { N } }$ ，and $R I$ were used to assess the level of contamination and the potential risk in the urban topsoil of Fuxin City. The $P _ { i }$ values for Cu, Ni, Zn, Pb, Cr, Cd, $\\mathrm { H g }$ and As were in the ranges of 0.47-3.65, 0.43-2.32, 0.44-5.53, 0.46-2.79, 0.52-7.54, 0.23-13.23, 0.39-8.31 and O.18-2.02,respectively, meanwhile, the mean $P _ { i }$ decreased in the order of $\\mathrm { H g }$ (1.46)>Cd $( 1 . 4 5 ) { > } { \\mathrm { Z n } }$ $( 1 . 1 7 ) { > } \\mathrm { C r }$ $( 1 . 1 2 ) { > } \\mathrm { C u }$ (1.05)>As $( 1 . 0 4 ) { > } \\mathrm { P b }$ $( 1 . 0 3 ) { > } \\mathrm { N i }$ (1.02) (Fig. 4). According to the grade criteria, $P _ { i }$ values of 1.2O-1.5O indicate that the samples are slightly contaminated,whereas $P _ { i }$ value of $< 1 . 2 0$ suggests a deficiency to minimal enrichment. Thus, among the eight heavy metals, $\\mathrm { H g }$ and $\\mathrm { C d }$ (slightly contaminated) were identified as the major pollutant that caused the contamination in the topsoil of Fuxin City,while the contamination of other heavy metals was not obvious.Moreover,a portion of $P _ { i }$ for Cd, $\\mathrm { H g }$ ， $\\mathrm { C r }$ and $Z \\mathrm { n }$ exceeded 2.00.Particularly,the maximum $P _ { i }$ was 13.23 for Cd and 8.31 for $\\mathrm { H g }$ ，indicating some severe contamination,probably due to anthropogenic point sources. In addition, the mean $P _ { i }$ values for each heavy metal from different functional areas were compared. Overall, the $P _ { i }$ values for Cd, Hg,Cu,Zn，Pb and As,especially for Cd and $\\mathrm { H g }$ (heavily contaminated),in the traffic and industrial mining areas were higher among the five functional areas, which might have resulted from high-intensity human productive activity. By contrast, a relatively low level of $P _ { i }$ value of each heavy metal in the commercial and residential areas was found.In green space，the enrichment of ${ \\bf N i }$ and $\\mathrm { C r }$ was higher than those in other functional areas,indicating that the pollution sources were different from those of Cd and $\\mathrm { H g }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1628b8ffc1f8773d4e306e72477a2ea6fcf13134d3b79cd8a62219242892b3dc.jpg",
+        "img_caption": [
+            "Fig. 4 $P _ { i }$ (contamination index) values for heavy metals in the urban topsoil of Fuxin City "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The $P _ { \\mathrm { N } }$ values for the 75 samples ranged from O.8O to 9.56, with a mean value of 1.96 (Table 5). It should be noted that the mean $P _ { \\mathrm { N } }$ was very close to 2.0O,although it was ranked as slight contamination.Moreover, some samples that were evaluated as seriously contaminated were found in functional area, indicating that the enrichment of heavy metals in the urban topsoil was relatively obvious,especially in the traffic area( $\\ P _ { \\mathrm { N } } { = } 2 . 9 3$ ）andindustrial mining area( $\\bar { P } _ { \\mathrm { N } } { = } 2 . 0 4 \\rangle$ ！： The $R I$ values varied between 56.63 and 483.98, with a mean value of 131.54 (Table 5), indicating a low potential ecological risk in the topsoil,while $7 6 . 0 \\%$ ， $1 7 . 3 \\%$ and $6 . 7 \\%$ of samples had low potential risk,moderate potential risk and considerable potential risk,respectively. In addition, most of the contaminated samples were obviously located in the traffic areas ( $R I { = } 1 8 6 . 7 8 \\$ ）and industrial mining areas $( R I { = } 1 4 \\bar { 8 } . 2 2 ) ,$ ,followed by commercial areas.The lowest ecological risk was observed in the residential and green space areas. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table 5 $P _ { \\mathrm { N } }$ (Nemerow index） and $R I$ (Hakanson potential ecological risk index） values for heavy metals in theurban topsoil of Fuxin City",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/52fd5b6f514b7417df3a0c56ceb0e3a763382f1c49d635df6e4adb913dc8359d.jpg",
+        "table_caption": [
+            "JOURNALOFARIDLAND "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Functional area</td><td colspan=\"3\">PN value</td><td colspan=\"3\">RI value</td></tr><tr><td>Range</td><td>Mean</td><td>Rating range</td><td>Range</td><td>Mean</td><td>Rating range</td></tr><tr><td>Whole study area</td><td>0.80-9.56</td><td>1.96</td><td>Precaution-seriously</td><td>56.63-483.98</td><td>131.54</td><td>Low-considerable</td></tr><tr><td>Traffic area</td><td>1.12-9.56</td><td>2.93</td><td>Slightly-seriously</td><td>77.39-483.98</td><td>186.78</td><td>Moderately-considerable</td></tr><tr><td>Industrial mining area</td><td>1.11-6.09</td><td>2.04</td><td>Slightly-seriously</td><td>95.49-381.92</td><td>148.22</td><td>Low-considerable</td></tr><tr><td>Commercial area</td><td>1.11-5.33</td><td>1.66</td><td>Slightly-seriously</td><td>89.26-324.03</td><td>132.03</td><td>Low-considerable</td></tr><tr><td>Residential area</td><td>1.10-4.07</td><td>1.53</td><td>Slightly-seriously</td><td>63.59-154.11</td><td>98.54</td><td>Low-moderately</td></tr><tr><td>Green space area</td><td>0.80-5.50</td><td>1.64</td><td>Precaution-seriously</td><td>56.63-159.19</td><td>92.12</td><td>Low-moderately</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The spatial distributions of $P _ { \\mathrm { N } }$ and $R I$ were quite similar, with high values in the middle part and northeastern part of the study area (Figs. 5 and 6). Specifically, the middle section of Meicheng Road (sample 12),located in the west of Haizhou Strip Mine,was the most polluted ( $\\cdot  { P _ { \\mathrm { N } } } \\mathrm { = } 9 . 5 6$ and $R I { = } 4 8 3 . 9 8$ ). Relatively lower contamination or potential risk was observed in the eastern section of Yulong Road (sample 6O),the middle part of Xihe District (sample 54),and the region between the Meicheng Road and Bayi Road.In fact, more than $70 \\%$ of the residents were living here and most economic activities,such as traffic emissions,coal combustion, industrial production,thermal power generation， etc. were carried out in the area,which could easily lead to the mixed accumulation of multiple heavy metals.In addition, a sample in the south of Yulong Lake was seriously contaminated $( P _ { \\mathrm { N } } { = } 5 . 5 0 )$ ,but has lower potential ecological risk,which was due to the anomalous enrichment of $\\mathrm { C r }$ by anthropogenic activities.However, the enrichment of Cr was characterized by a low toxicity. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "121°35E 121°36'E121°37'E12138'E 121°39'E 121°40'E121°41'E121°42'E121°43'E121°44'E 元 Sihe Reservoir   \n230000 66 YulongLake Yulong Road O OK oRi 230004 uu P 61 60 gh- Te C riet Road O 4 SiheRoad 。   \n4440 AAsu Xinkang 。 品 inStr Xih 53 Streer S7 C 品 S204 58 2404 08 O MN S BayiRoad 25 PA   \n4400 To 品 0 2400 Riv   \n20000 Dongfeng Road, 8 ?o O o 。 B R 28 32 33 oo 20000 38 24 3 。 R O 0 Strip Mine   \n16534 O O O 1674 品 0 o 35%0 \\$204 8 8 。 75 O O O R 36 o O 0 。   \n1854 17 Road 1 18554 o P value nengxi 16 0.0 0.9 1.8kmx H Meid 9.56 0.80 121°35'E 12136'E 12137'E 121°38'E 121°39'E 121°40'E 121°41E 12142'E 12143'E 121°44'E ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a554288346e049530c2ed1cf68dad37abc2c8822d74277a21f7d0274ebc00be7.jpg",
+        "img_caption": [
+            "Fig.6Spatial distribution of $R I$ (Hakanson potential ecological risk index） value in the urban topsoil of Fuxin City "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4Pedigree clustering heatmap ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Using the pedigree clustering heatmap, we divided 75 samples into three groups at the Euclidean distance of 23.10, i.e., groups S-a, S-b and $S - c$ (Fig. 7). Among them, the samples in the group S-a are mainly characterized by high color key values of single or multiple elements. Obviously, the maximum values of Cu,Pb, Zn,Cd,Hg and Cr are allin this group,indicating that this group contains the abnormal enrichments of heavy metal influenced by human activities.There is no significant difference in the color key values between the samples in group S-b. Notably, the color key value of As element is generally higher than those of other elements, indicating a nonpoint source pollution of As.In group $S - c$ ,except fora few samples that enriched in $\\mathrm { N i }$ and $\\mathrm { H g }$ ,most of the samples had low color key values, indicating less contamination. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile,we divided the eight heavy metals into three types at the Euclidean distance of 12.27 (Fig.7).(1) Type Ifor Ni and Cr: with the exception of a very few isolated high color keys, almost al of the color keys in this group had low values. (2) Type II for Cu,Pb, Zn, Cd and As: A correlation was observed among Cu,Pb and Zn with an average distance of 9.68,and these three elements formed a group with Cd and As with an average distance of 11.31, suggesting that $\\mathtt { C u }$ Pb and Zn had homology with Cd and As.The color key values of this group obviously reflected the simultaneous enrichment of multiple heavy metals in some samples,which probably had a common source caused by human activities.(3) Type II for $\\mathrm { H g }$ :When the average distance was 12.29,Hg showed a relationship with type I; however, when the average distance was 12.27,Hg formed an independent group. This observation indicated that its clustering characteristic was different from other elements,and it tended to pair up with type II at some level. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1Comparision of geochemical baseline values obtained from different methods ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The accumulation of heavy metals in the urban topsoil has always atracted much attention, especially the type and intensity of heavy metal enrichment caused by human activities. However, in many cases,due to the limitations of factors such as outdated in timescale or mismatched in spatial scale,there are no ideal heavy metal standard reference values for soil environmental research in certain specific areas. It is necessary to establish an environmental geochemical baseline that is applicable to the area for assessing the quality of urban topsoil and impact of humans on the topsoil environment. In the process of establishing a geochemical baseline,the results obtained from different methods may be different.For example,both the iteration removal method and box-whisker method used in this study eliminate outliers firstly and then calculate the baseline value based on the remaining data. However, the former eliminates outliers outside of double-standard deviation range and calculates the arithmetic mean of remaining data as the baseline value,while the latter eliminates outliers outside one and a half times interquartile range and calculates the median of remaining data as the baseline value.Therefore,it can be inferred that if the concentration distribution of heavy metals is relatively concentrated,the results of the two should be close;however,if the concentration distribution is relatively discrete,then the baseline results are very likely to be different. The cumulative frequency curve method and reference metal normalization method are more complicated than the above two methods.The cumulative frequency curve method focuses more on the identification of any abnormal enrichment.The key link is to determine the inflection point, which is often regarded as the limit of different sources of heavy metals.Any sample data with a concentration lower than the inflection point will participate in the calculation of geochemical baseline value,including the abnormal low concentration values. Therefore,the geochemical baseline value obtained by this method may be slightly lower than other methods.As for the reference metal normalization method,although this method greatly reduces the impact of granularity, it introduces the reference element to participate in the calculation of geochemical baseline value,and the concentration distribution of reference element itself influences the geochemical baseline result to a certain extent. According to previous reports in the literature and results of this study, we observed that the geochemical baseline value obtained by this method is slightly higher than those of above-mentioned methods. Of course， the difference between these four methods is also influenced by the dispersion of statistical data; the greater the dispersion of data,the greater the difference between results.It is not difficult to conclude that each method has its own advantages; however, the core processing idea is to eliminate outliers and then locate the lower limit of outliers. Therefore,in actual research,a variety of baseline determination methods should be used simultaneously to greatly improve the accuracy and usability of the geochemical baseline value. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/07a71cf390d818d1457fff29f817188c3eda2731eb7e7c662aa1731c8539d775.jpg",
+        "img_caption": [
+            "Fig.7Pedigree clustering heatmap of heavy metals in the urban topsoil ofFuxin City.The color key represents a weighted value of each element concentration.A high color key value represents the severe enrichment (such as red),whereas a low value represents the low enrichment (such as purple). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2 Indicative significance of the lower limit of abnormal values ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In geochemistry research,it is a conventional method to distinguish the lower limit of abnormal values and calculate the geochemical baseline or background value accordingly to identify the heavy metal sources. However, using the geochemical baseline value of topsoil samples as the background value and considering the lower limit of abnormal values as the boundary between natural and anthropogenic sources are common phenomena. Although mathematical methods for determining geochemical baseline and background values are almost the same, the meaning of the lower limit of abnormal values is quite different. The geochemical baseline of topsoil represents the ordinary concentration level of heavy metals in the topsoil,and its most important function is to find a heavy metal concentrated amount in the topsoil at the sampling time, which can be used as a reference standard. The \"ordinary concentration level\" here is premised on eliminating abnormal enrichment (an important step in various geochemical baseline determination methods), in which the excluded abnormal values are considered to be caused by anthropogenic disturbance (Teng et al.,2Oo3). Whereas,the remaining data involved in the geochemical baseline calculation represents the \"natural concentration\" almost without human effect; however, may also contain a degree of human influence (Zhang et al.,2Oo6).Actually, in a stable deposition layer or soil horizon，the probability of bottom samples being disturbed by human activities is low as compared with the top samples,therefore,the lower limit of abnormal values is more reliable as the boundary between natural and anthropogenic sources (Ratenbury et al.，2Ol8).If the existence of significant difference in the concentration of topsoil is not certain,the lower limit of abnormal values only indicates the boundary between global enrichment and regional enrichment. Therefore,it is dificult to determine the concentration that is maintained without human disturbance. Precisely, if there is nonpoint source contamination caused by human activities,this part of concentration,which may be indistinguishable from natural environment and could not reveal in the form of outliers,is extremely likely to be considered as the concentration in natural environment. Many topsoil geochemical baseline studies for different objects,especially for the resource-based cities, have generally observed that the geochemical baseline values of various heavy metals were significantly higher than those of earlier ones (Fan et al.,2O14; Li et al.,2016; Zhou et al., 2O19).A similar widespread accumulation of multiple elements has also been observed in this study,and the increase in concentration probably included the indistinguishable part,as mentioned above. Accordingly，not all the lower limits of abnormal values always represented the boundary between natural and anthropogenic sources; in particular, the topsoil was chosen as the experimental material. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3Identification of the source of heavy metal contamination ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Considering that the object selected in this study is topsoil, it is not suitable to directly distinguish the source of heavy metals based on its geochemical baseline value. Therefore,a pedigree clustering heatmap is used to clasify and identify the main source types of heavy metals in the topsoil.Among the eight heavy metals involved in the cluster analysis,Ni and Cr are divided into a group. The few high-concentration samples of the two are mostly distributed in the green spaces and factory courtyards on the fringe of city. Among them, the sample with the maximum concentration of $\\mathrm { C r }$ occurs in the green space near the Municipal Infectious Disease Hospital on the south side of Yulong Lake,and it may be contaminated by a certain chromium-containing medical material. The soil composition of the other sites,according to the survey,is a mixture of coal ash backfill and excavation slag.Except for the above-mentioned samples that are obviously affected by human activities,the concentration values of the vast majority of other samples have litle variation； more importantly, most samples with slightly higher concentrations are evenly distributed in the fringes of the main urban area, especially the underdeveloped areas at the north and south ends of the urban area with low population density and less human disturbance. This shows that the main enrichment modes of Ni and $\\mathrm { C r }$ are not controlled by social production activities but by regional geological conditions and soil parent materials.Moreover, Ni and Cr belong to the iron group elements and often present a high correlation in the soil, especially under strong adsorption of natural formed soil colloids that are easier to be enriched (Lu et al., 2018; Zhang et al., 2O2O). Therefore,the enrichment sources of this group of heavy metals are mainly natural sources (mixed with a very small number of point source enrichment caused by human activities). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cu, Pb, Zn, Cd and As are classified in the same group, indicating that the accumulation of these heavy metals has a certain similarity in the source. Considering the results of sample clustering,heavy metal pollution evaluation and potential ecological risk assessment, it can be found that some samples are simultaneously enriched in some of these five elements,and what's more,these samples are mainly concentrated in the central and northeastern parts of the main urban area where heavy metal pollution and potential ecological risks are the most serious (Figs.5-7),indicating that the enrichment of these elements is very likely to be homologous. These two regions not only gather most of population of Fuxin City, but also gather a variety of social and economic occurrence areas such as industry and mining, commerce, manufacturing and transportation.This also indicates that the enrichment of above-mentioned heavy metals in these areas mainly originates from anthropogenic activities. More specifically, economic activities in the study area, such as coal washing，coal preparation， thermal power generation， chemical manufacturing, leather processing and mining transportation related to Haizhou Strip Mine, mechanical processing, stone and building materials processing in the northeastern part of the city, can provide sources for the enrichment of Cu,Pb,Zn and Cd.And the old mining area in southern Xi River has caused As enrichment in a large range.In addition, planting,animal husbandry, garbage incineration and discharge of wastes have also been confirmed to cause the accumulation of heavy metals (Li et al.,2010; Chen et al., 2012; Wang et al.,2016; Xue et al.,2018; Han et al., 2019;Wang et al., 2019). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The enrichment of $\\mathrm { H g }$ is different from other elements.Most $\\mathrm { H g }$ -contaminated samples are distributed along the prevailing wind direction from southwest to northeast in the study area. Generally, the accumulation of $\\mathrm { H g }$ is often closely related to coal and metal ore resources (Jiang et al.,2005; Cai et al.,2012).Moreover, $\\mathrm { H g }$ is a liquid element with volatility;when it is in a volatile state, its enrichment direction willbe consistent with the prevailing wind direction (Lü et al., 2018). It is speculated that $\\mathrm { H g }$ enrichment in the study area is controlled by natural conditions to a certain extent. At the same time, however, the concentration of $\\mathrm { H g }$ in the sample is highly variable,and the contamination of some samples is serious,reflecting that enrichment of $\\mathrm { H g }$ has been significantly affected by humans. One obvious reason is that Haizhou Strip Mine was once the largest strip mine in Asia. It has a long history of using coal-fired power generation and heating resources,which may provide an important source of $\\mathrm { H g }$ enrichment. Moreover, $\\mathrm { H g }$ enrichment caused by such man-made activities may be relatively more. Therefore,it can be inferred that the source of $\\mathrm { H g }$ enrichment is a mixed input of anthropogenic and natural sources. In addition, the contamination degree of heavy metals in the topsoil of different functional areas in Fuxin City is relatively close, which is obviously different from some non-resource-based cities. This phenomenon precisely reflects the development characteristics of Fuxin City built on the coal.The economic activities and urban expansion of the city are almost entirely developed around mining areas.As a result, the functional areas are nested with each other and have lite difference in the contamination of heavy metals. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The geochemical baseline of the urban topsoil is one of the important indices for representing the environmental quality of topsoil. As a typical coal city, Fuxin City is in the critical period of economic transformation,and its topsoil environmental quality is one of the reference standards to evaluate whether the transformation practice meets environmental friendliness.Our results not only analyze the current geochemical baseline of heavy metals in the urban topsoil of Fuxin City but also summarize the accumulation trend of heavy metals in the topsoil, which can be divided into anthropogenic sources,natural sources and a mixed source. At the same time, the contamination risk and ecological risk caused by the accumulation of heavy metals in the topsoil was also evaluated,and the characteristics of the relatively low risk of heavy metal contamination in the overall topsoil in the study area were identified，along with spatial contamination characteristics dominated by the middle part and northeastern part of the study area, especially the west of Haizhou Strip Mine. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Natural Science Foundation of China (41271064),the Foundation of Liaoning Educational Committe,China (L201783640) and the PhD Research Startup Foundation of Liaoning University,China (BS2O18LOl4).We acknowledge the anonymous reviewers and the editors for their careful reading and insightful comments and suggestions. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Beiseyeva G,Abuduwali J.2Ol3.Migrationand acumulationof heavy metals in disturbed landscapes in developingore deposits,East Kazakhstan. Journal of Arid Land,5(2):180-187.   \nBirke M,Rauch U.1993.Environmentalaspectsof theregional geochemical survey inthesouthernpartofEastGermany. Journal of Geochemical Exploration,49(1-2): 35-61.   \nCaiLM,XuZC,Ren MZ,etal.2Ol2.Source identificationof eight hazardous heavy metals inagricultural soilsofHuizhou, Guangdong Province,China. Ecotoxicology and Environmental Safety,78:2-8.   \nChen XD,LuXW,YangG2Ol2.Sources identificationof heavy metals inurban topsoilfrominside the xi'ansecondngroad, NW China using multivariate statistical methods. CATENA,98:73-78.   \nChina National Environment Monitoring Centre(CNEMC).1990.The Background Values of Elements in Chinese Soils. Beijing:Environmental Science Press,330-460.(in Chinese)   \nCongX,LeiX,FuL,eal7olionaactestisdcologcalisssmntofavmetalsisosodte Gangue heap of Haizhou Coal Mine,China. Earth and Environment,45(3): 329-335.(in Chinese)   \nCovellS,Fontolan G.1997.Aplicationofanormalizationprocedurein determiningregional geochemicalbaselines. Environmental Geology,30(1-2): 34-45.   \nDarnleyAG.1997.A global geochemicalreference network: thefoundationforgeochemicalbaselines.Journalof Geochemical Exploration, 60(1): 1-5.   \nFan K,Wei CY,Yang XS.2014.Geochemical baselineofheavy metals in the soilsof Qiaokou Town,ChangshaCityand its application.Acta Scientiae Circumstantiae,34(12): 3076-3083.(in Chinese)   \nGao Y,XuDS,Li Q.2O18.A studyonenvironmental geochemical baselinesof heavymetals in thesurficial soilof Suzhou. Earth and Environment,46(5): 444-450.(in Chinese)   \nHakansonL.1980.Anecological risk index foraquaticpollution control:A sediment ecological aproach.Water Research, 14(8):975-1001.   \nHan LF,GaoB,Hao H,et al.2O19.Arsenic pollutionof sediments in China: Anassssmentbygeochemical baseline.Science of the Total Environment,651:1983-1991. Environmental Science,26(2): 34-39.(in Chinese)   \nLi A,ShiZM,NiSJ.2O12.Geochemical baselineandcontaminationof heavymetals insoilofZigongLongtanzhen,Sichuan Province. Computing Techniques for Geophysical and Geochemical Exploration,34(4): 470-474. (in Chinese)   \nLiYX,XuLC,Xiong X,etal.2Oo7.The spatial structure featureof heavy metals inagricultural soilofmining city:Acase study of Fuxin, China.Acta Scientiae Circumstantiae,27(4): 679-687.(in Chinese)   \nLiYX,Xiong X,Lin CY,etal.2010.Cadmium inanimal productionandits potential hazardoBeijingandFuxinfarmlands. Journal of Hazardous Materials,177(1-3): 475-480.   \nLi ZC,SunLH,Chen S.2016.Geochemical baselineof heavymetals in theriversediment incoalproduction citiesandits application-A case study of Suzhou City,China.Earth and Environment,44(4): 462-471. (in Chinese)   \nLianMH,WangJ,SunLN,etal.2019.Profilesand potentialealthrisksofheavy metals insoilandcrops fromthewatershed of Xi River in Northeast China.Ecotoxicology and Environmental Safety,169: 442-448.   \nLiu JP, Zhao YY,XueQ,etal.2014.A genetic analysis ofsoil heavy metals accumulationcharacteristicsoftheDawu River basin in the Dexing Copper Mine,Jiangxi Province.Geological Buletin of China,33(8):1154-1166.(in Chinese)   \nLü JS,He H C.2O18.Identifying theorigins and spatial distribution of heavy metals in the soilsof Jiangsu coast. Environmental Science,39(6):351-362.(in Chinese)   \nLu X Z,GuAQ,Zhang YW,etal.2O19.Sources andriskassssmentof heavy metal inagricultural soils basedon the environmental geochemical baselines.Acta Pedologica Sinica, 56(2): 408-419.(in Chinese)   \nMinistryof Environmental Protectionof China.2O04.The Technical Specification for Soil Environmental Monitoring (HJ/T166-20o4).Beijing: China Environmental Science Press,7-14.(in Chinese)   \nNemerow NL.1974. Scientific Stream Pollution Analysis.New York: Scripta Book Co.,210-231.   \nNewman B K,Watling RJ.2007.Definitionofbaseline metalconcentrations forasessing metal enrichmentof sediment from the south-eastern cape coastline of South Africa.Water SA,33(5): 675-691.   \nPlant J,SmithD,Smith B,etal.2o.Environmental geochemistryattheglobalscale.Journalof theGeological Society 16(11-12): 1291-1308.   \nRatenbury M,MartinA,Baisden T,etal.2O18.Geochemicalbaseline soilsurveys forunderstanding element andisotope variation across New Zealand.New Zealand Journal of Agricultural Research,61(3): 347-357.   \nReimann C,FilzmoserP.2Ooo.Normalandlognormaldatadistributioningeochemistry:deathof amyth.Consequences forthe statistical treatment of geochemical and environmental data.Environmental Geology,39(9): 10o1-1014.   \nReimannC,FilzmoserP,Garret RG.2O05.Backgroundand threshold:critical comparisonof methodsof determination. Science of the Total Environment,346(1-3): 1-16.   \nSalminen R,Tarvainen T.1997.The problem of defining geochemical baselines:A case study of selected elements and geological materials in Finland.Journal of Geochemical Exploration, 6O(1): 91-98.   \nSalminenR,GregorauskienV.2oo.Considerationsregardingthe definitionof a geochemical baselineof elements in the surficial materials in areas differing in basic geology. Applied Geochemistry,15(5): 647-653.   \nShi M Z,NiSJ, ZhangCJ,etal.2O12.The geochemical baselineof near-ground arid dust in Chengdu economic region. Geological Bulletin of China,31(1): 90-96.(in Chinese)   \nSiegelFR.1995.Environmental geochemistry in development plannng:an example fromthe Nile Delta,Egypt.Journalof Geochemical Exploration, 55(1-3):265-273.   \nTeng YG,TuoXGNiSJ,etal.2Oo3.Approachof determining geochemicalbaselines: AstudycasefromPanzuaregion. Journal of Chengdu University of Technology: Science& Technology Edition,30(4): 422-428.(in Chinese)   \nTeng YG,NiSJ,WangJS,etal.2Oo9.Geochemical baselineoftraceelements inthesedimentin Dexingarea,South China. Environmental Geology,57(7): 1649-1660.   \nTian K,Huang B,Xing Z,et al.2O17. Geochemical baseline establishment and ecological risk evaluationof heavymetals in greenhouse soils from Dongtai, China. Ecological Indicators,72: 510-520.   \nTidball RR,Ebens RJ.1976.Regional geochemical baselines insoilsof the Powder River Basin,Montana-Wyoming.In: $2 8 ^ { \\mathrm { t h } }$ Annual Field Conference Guidebook,299.   \nWang SH,Wang WW,ChenJY,etal.2019.Geochemicalbaseline establishmentandpolutionsourcedeterminationof heavy metals in lake sediments: Acase studyin Lihu Lake,China. Science of the Total Environment, 657: 978-986.   \nWang W,LaiYS,MaYY,etal.2O16.Heavymetalcontaminationof urbantopsoil inapetrochemical industrial cityin Xinjiang,China. Journal of Arid Land,8(6): 871-880.   \nWeiB G,JiangFQLiXM,etal..HeavmetaliducedecologicaliskinthecityofUrumqi,NWChia.Evotal Monitoring & Assessment,160: 33-45.   \nWeiCY,Wen HL.2Ol2.Geochemical baselinesofheavy metals in thesedimentsof two large freshwater lakes inChina: implications for contamination character and history.Environmental Geochemistryand Health,34(6):737-748.   \nWeiFS,ChengJS,WuYY,etal.1991.Studyonthebackgroundcontentson61elementsof soils inChina.Environmental Science,12(4):12-19.(in Chinese)   \nWilkinson L,Friendly M.2009.The history of the cluster heat map.American Statistician,63(2):179-184.   \nXue ZB,LiL,Zhang SK,et al.2O18.Comparative studybetween Nemerow index method and compound index method for the risk assessmentof soil heavy metalpollution.ScienceofSoiland Water Conservation,6(2):119-125.(in Chinese)   \nZhang MX,Lu XW,ShiD Q,etal.2O18.Toxic metalenrichmentcharacteristicsand sourcesof arid urban surface soil in Yinchuan City,China.Journal of Arid Land,10(4): 653-662.   \nZhangP.2O07.Study and applicationof environmental geochemical baseline incoal mining area.Shandong Universityof Science and Technology,21-41.(in Chinese)   \nZhangSR,WangCY,LiuJH,etal.2O.Assessmentofheavymetalpolutionandecologicalriskinsoilsofthesouthwester Part of the Xiongan New Area.Earth Science Frontiers,https:/doi.org/10.13745/j.esf.sf.2020.7.1.(inChinese)   \nZhang W,YiYL,ChengXL,etal.2O10.Dustfallamountandcontentsofheavy metals industfalinFuxin CitySouthwest China.Journal of Agricultural Sciences,23(1):201-205.(in Chinese)   \nZhang X Z,Yang ZH,MaZS,etal.2Oo6.Geochemical background and geochemical baseline.GeologicalBuletinof China, 25(5): 626-629.(in Chinese)   \nZhao XL,SunJ,LiJH,etal.2Ol7.Polutionevaluationand healthriskofheavy metals inatmosphericdeposition inFuxin City.Research of Environmental Sciences,30(9):1346-1354.(in Chinese)   \nZhouJW,ZhouJY,DaiL,etal.2O19.Establishmentof topsoil geochemicalbaselinevalue intheconcentratedminingareaof the Lala Copper Ore,China.Chinese Journal of Soil Science,50(2):427-436.(in Chinese)   \nZhu XD,Wei CY,Yang F2O16.Determinationof heavy metal baselinein Baotou and Bayan Oboand itsapplication in the assessment of heavy metal contamination.Journal of Natural Resources,31(2): 310-320. (in Chinese) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

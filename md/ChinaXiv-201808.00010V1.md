@@ -1,0 +1,186 @@
+# 红壤退化与修复长期研究促进东南丘陵区生态循环农业发展
+
+孙波梁音徐仁扣 彭新华 王兴祥周 静李忠佩 赵学强中国科学院南京土壤研究所 鹰潭红壤生态实验站 南京 210008摘要我国东南红壤丘陵区面临侵蚀、酸化、肥力衰减、重金属污染、季节性干旱等退化问题，造成红壤生态系统退化和土地生产力下降，制约了区域农业的可持续发展。1985年鹰潭红壤生态实验站建站以来，系统开展了红壤生态系统的长期观测和生态学基础研究，以及红壤退化与修复、耕地地力演变与提升、红壤养分循环与高效利用、红壤污染与治理、红壤生态农业模式与区域发展战略等方面的应用研究和示范推广。在红壤发生方面，发现现代脱硅富铝化过程仍在继续，小流域土壤自然酸化速率较低；针对红壤农业利用中的加速酸化，研发了抑制质子产生和提升土壤抗酸化能力的新方法，挖掘了红壤区新的耐铝植物资源，揭示了植物耐铝的分子生物学机制；建立了红壤区土壤侵蚀多尺度监测方法，编制了土壤可蚀性因子分布图，查明了红壤侵蚀演变和崩岗发育机制，建立了侵蚀红壤的开发性治理模式；探明了红壤区季节性干旱发生规律，揭示了红壤孔隙形成机制以及不同尺度的水文通量，研发了农田水分高精度远程数据采集系统，建立了低丘红壤区高效节水农业模式；建立了土壤-农作物系统重金属和稀土元素迁移预测模型，提出了红壤和水稻土安全阈值，集成了红壤重金属污染治理技术模式;查明了南方红壤地力和养分平衡的演变状况，揭示了红壤碳氮转化生物网络的驱动机制，提出红壤大团聚体生物培肥技术；创建了江西省耕地保育与持续高效的现代农业技术体系，发展了红壤小流域“山水林田湖草”生态循环农业模式，为红壤区耕地质量建设、生态环境保护和新一代生态循环农业的发展作出了重要贡献。
+
+关键词红壤丘陵区，耕地退化，大团聚体培肥，生态修复，土壤污染治理，生态循环农业模式 DOI 10.16418/j.issn.1000-3045.2018.07.011
+
+我国东南红壤丘陵区（云贵川以东、长江以南）包括湘、赣、浙、闽、桂、粤、琼及鄂、苏、皖南部，土壤面积约113万平方公里，占全国土地总面积的 $1 1 . 8 \%$ 。这一地区广泛分布着铁铝土纲，主要包括红壤( $5 5 . 8 \%$ ）、赤红壤（ $1 7 . 5 \%$ ）、砖红壤（ $3 . 9 \%$ ）和黄壤( $2 2 . 8 \%$ ）。红壤地区跨越中亚热带、南亚热带及热带，水热资源丰富（ $1 5 ^ { \circ } \mathrm { C } - 2 8 ^ { \circ } \mathrm { C }$ ， $\geq 1 0 ^ { \circ } \mathrm { C }$ 积温 $5 0 0 0 ^ { \circ } \mathrm { C } .$ 一$9 5 0 0 ^ { \circ } \mathrm { C }$ ，年均降雨 $1 2 0 0 { \ - } { \ - } 1 5 0 0 { \mathrm { m m } }$ ，高温多雨，湿热同季），农业生产和经济发展潜力很大，是我国水稻、油料、经济林果（柑橘等）和经济作物（茶叶等）重要产区。由于自然因素和人类不合理的利用，红壤生态系统面临水土流失、季节性干旱、土壤酸化、土壤肥力和生态功能衰减、土壤重金属污染等退化过程，造成生态系统退化和土地生产力下降，这制约了红壤地区农业的可持续发展。
+
+从20世纪50年代起，中国科学院南京土壤研究所李庆逵院士率领中国科学院南方综合科考队进行了红黄壤区土壤资源调查和橡胶宜林地考察，并开展了红壤改良利用试验，在江西新建县建立了甘家山红壤试验场，创建了低产红壤旱地“以磷增氮”的磷矿粉直接施用技术；60—70年代，基于碳铵造粒方法建立有机肥-铵态氮配施方法，提出红壤性水稻土次生潜育化改良技术；80 年代，提出红壤“脱硅富铝化”发生机制，建立了侵蚀红壤的植被恢复技术和酸性土壤改良技术[]。1985 年在江西省鹰潭市余江县建立红壤生态实验站（以下简称“鹰潭站”），系统开展了红壤生态系统演变与调控、红壤质量退化和重建、红壤区域农业可持续发展对策和模式的研究，在红壤退化机制与防治方面获得一系列国家级和省部级科技进步奖[2]。
+
+在应用基础研究方面，近10年来鹰潭站主持实施了“973”项目“东南丘陵区红壤酸化过程与调控原理”、“863”项目“南方季节性缺水灌区（江西省鹰潭）节水农业综合技术体系集成与示范”，重点基金项目“广西红壤肥力与生态功能协同演变机制与调控”；目前主持执行国家重点研发计划项目“耕地地力影响化肥养分利用的机制与调控”、国家自然科学重点基金项目“农田土壤微生物多样性形成规律的热能理论研究”和“可变电荷土壤中根-土相互作用与根/土界面的电化学特征”、国家自然科学基金国际合作项目“红壤关键带多尺度水文过程及其驱动下的物质迁移与模型模拟”以及中国科学院战略性先导科技专项项目“地上-地下生物协同调控与氮磷高效利用机理”。在技术研发和示范方面，鹰潭站主持实施了“十一五”国家科技支撑计划“红壤退化的阻控和定向修复与高效优质生态农业关键技术研究与试验示范”、中科院-江西省合作项目“耕地保育与持续高效现代农业试点工程—一江西试区”、中科院科技服务网络计划项目“粮食主产区中低产土壤地力提升减施化肥的关键技术体系集成示范”和“江西贵溪镉铜污染土壤修复技术示范”。通过长期研究，鹰潭站为红壤生态系统退化和治理提供了重要理论和技术支撑，推动了江西省耕地保育与持续高效现代农业建设，促进了区域水土流失治理和耕地地力提升，保障了区域农业结构调整和特色农业发展。
+
+# 1在红壤发生方面，发现现代气候条件下红色风化壳的脱硅富铝化过程仍在继续，但小流域土壤自然酸化速率只有传统估计量的一半
+
+南方红壤是在第三纪末期以来多次间冰期湿热条件下形成的，通过对南方红色风化壳（红壤层）的生物地球化学研究，发现红壤的主要成土过程是脱硅富铝化过程和生物富集过程。根据原生矿物的风化程度（ $< 1 \mathrm { m m }$ 黏粒的 ${ \mathrm { S i O } } _ { 2 } : { \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ 率），富铝化过程可以分为准铁铝（2.2—2.5）、铁铝（2.0左右）和富铝（ $< 1 . 7$ ）的3个阶段，黏粒部分矿物从以高岭石和水云母为主，变为以高岭石和三水铝矿为主。对安徽宣城深厚红土剖面（图1）的研究表明，中更新世以来温湿一干凉交替的气候旋回以及植被的变化影响了成土过程及其有机质含量。由于南方第四纪末次冰期以来气候变得干冷，红土的脱硅富铝化过程减弱，但这一过程仍在继续，在现代气候条件下，林地土壤砖红壤和红壤中硅和盐基的迁移较高（ $1 3 5 \mathrm { c m }$ 处渗漏水 $\mathrm { S i O } _ { 2 }$ 含量为 $3 . 0 { - } 1 3 . 2 \mathrm { m g } \mathrm { L } ^ { - 1 }$ ,CaO 含量为1.63—$8 . 3 8 \mathrm { m g L } ^ { - 1 }$ ），铁、铝淋失较少（ $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 和 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 含量分别为0.18—0.47和 $0 . 0 2 { - } 0 . 5 7 \mathrm { m g \ L ^ { - 1 } }$ ），同时生物富集作用强烈，凋落物对盐基的归还量较高（ $\mathrm { C a O }$ 、 $\mathrm { M g O }$ 、 $\mathrm { K } _ { 2 } \mathrm { O }$ 分别达 $5 5 . 3 \mathrm { - } 1 5 6 . 1 , 2 1 . 5 \mathrm { - } 7 4 . 0 , 3 3 . 4 \mathrm { - } 5 5 . 2 \mathrm { k g } \mathrm { h m } ^ { - 2 } \mathrm { a } ^ { - 1 } )$ [3]。
+
+脱硅富铝化过程中盐基淋失导致的酸化过程十分缓慢，很难在短期直接观测自然酸化速率。基于典型亚热带小流域长期观测，通过风化和酸化过程中岩石、半风化体、土壤、径流水中硅与盐基离子的化学计量学关系，准确区分出土壤矿物风化和胶体阳离子交换过程消耗输入质子（ $\boldsymbol { \mathrm { ~ H ~ } } ^ { + }$ ）的比例为 $4 6 : 5 4$ ，其中基于阳离子交换过程土壤自然酸化速率只有传统估计量的一半[4]。伴随红壤发育中的土壤矿物风化，导致带正电荷的铁铝氧化物与带负电荷的铝硅酸盐矿物表面发生“扩散层重叠作用”，减少了土壤表面有效负电荷数量，从而抑制了土壤自然酸化过程[5]。对于红壤发生中自然酸化的研究支撑了对林地土壤酸化的预测和管理（图2）。
+
+# 2在红壤加速酸化阻控方面，研发了抑制质子产生和提升土壤抗酸化能力的新方法，挖掘了红壤区新的耐铝植物资源，揭示了植物耐铝的分子生物学机制
+
+基于红壤区域调查和长期试验，发现近30年来，由于酸沉降和铵态氮肥施用量增加，导致森林草地和农田系统中红壤酸化加速。在亚热带红黄壤区（301个采样点），土壤pH均值由5.37（4.40—6.60）下降至5.14（粮食作物，4.17—6.52）和5.07（经济作物，3.93—6.44）。在抑制质子产生方面，红壤旱地中配合施用尿素、铵态氮肥和硝化抑制剂抑制氮肥硝化产酸；设施蔬菜地中利用硝态氮肥替代铵态氮、配合根际碱化作用可以控制质子源。在提升土壤的抗酸化能力方面，短期尺度上施用秸秆生物炭可有效提升红壤酸缓冲容量，长期尺度上通过施用有机肥提高土壤有机质增强红壤抗酸化能力。秸秆生物炭、特别是豆科作物秸秆含丰富的碳酸盐和有机阴离子，其消耗质子过程以羧基质子化过程为主，在pH值 $> 6 . 2$ 时贡献率达 $6 8 \% - 9 4 \%$ ， $\mathfrak { p H }$ 值 $< 6$ 时Si沉淀消耗质子作用增强[（图3）。施用生物炭中和红壤酸度，可以解决长期施用石灰导致的土壤板结问题，特别是配合施用石灰物质（如无重金属污染的碱渣等工业副产品）与农作物秸秆（生物炭），可以同步改良红壤表层（ $0 { - } 2 0 ~ \mathrm { c m }$ ）和表下层（ $2 0 { \mathrm { - } } 4 0 ~ { \mathrm { c m } }$ ）酸度，提高红壤肥力[7]。通过建立不同区域红壤旱地主要作物的酸害阈值（如安徽和湖南红壤中油菜的pH阈值分别为4.9和5.6），构建了红壤旱地石灰类物质降酸、有机肥阻酸与减氮控酸技术，在江西、安徽等省示范应用成效显著，土壤pH值可以提高0.4—1.0个单位，油菜产量提高50%以上[8.9]
+
+![](images/1c885556bd600899eefd02570e26485a33ea62c8f4d54f76a51236bb32d543df.jpg)  
+图1第四纪红黏土发育的深厚红土层 (张甘霖提供照片)
+
+![](images/22caae07da46a3b0d5e6fbb60c65acc5cc22a8c588eada040a7d6ffaada71129.jpg)  
+图2典型红壤小流域质子输入和输出通量(单位：molha"y')
+
+针对酸性土壤中铝毒引起问题，挖掘了红壤区耐铝植物和微生物资源，发现了一种新的铝超积累植物——油茶（老叶铝含量可达 $1 3 . 5 \mathrm { g / k g }$ ）[10]和耐铝植物——胡枝子[1]（图4），从酸性土壤中分离到一株高耐铝（ $1 0 0 \mathrm { m m o l / \Omega }$ （204号LAl）微生物——红酵母（Rhodotorula taiwanensis RS1）[12]。在生物耐铝机制方面，阐明油茶地上部铝通过韧皮部运输，二色胡枝子通过根系分泌苹果酸和柠檬酸耐铝[],高耐铝红酵母依靠较低的细胞壁负电性耐铝[13]；系统阐明了“铵态氮减轻、硝态氮加重植物铝毒”的机制，首次揭示了“耐铝植物偏好铵态氮、不耐铝植物偏好硝态氮”的规律，建立了土壤-植物系统氮铝偶联模式图[14]，发现只有在耐铝植物中磷才能减缓植物铝毒[15]，研究结果为提高红壤生产力提供了理论基础。
+
+![](images/ec41d5b2f5bb455fbb084eb24b6be594b485186abd9bb4b419979245bd288739.jpg)  
+图3红壤中施用生物炭消耗质子的机制
+
+![](images/ae17e9c157382478b2fc80140aae50afa6dece04de6a21c31a7a8d8832b5e5e2.jpg)  
+图4胡枝子耐铝机制-根尖ALMTI基因促进苹果酸外排螯合铝
+
+3建立了红壤区土壤侵蚀多尺度监测方法，编制了土壤可蚀性因子分布图，揭示了红壤侵蚀演变和崩岗发育机制，建立了侵蚀红壤的开发性治理模式
+
+在土壤侵蚀监测方法方面，研发了降雨侵蚀力观测仪，基于降雨量、降雨强度与降雨动能关系建立了适合小尺度（田块）的降雨侵蚀力模型[16]；在中尺度（流域），针对遥感与模型（CSLE、SWAT等）集成方法，确定了最佳遥感影像分辨率和DEM精度，建立了高精度的土壤侵蚀监测方法；厘定了小流域治理度概念和计算方法，为小流域水土流失治理效果提供了评价方法[8。优化了土壤可蚀性 $K$ 值计算模型，编制了全国 $1 : 5 0$ 万的土壤可蚀性 $K$ 值分布图（图5），查明了东南红壤区土壤 $K$ 值分布（发现紫色湿润雏形土和淡色潮湿雏形土 $K$ 值最高），为国务院第一次水利普查暨第四次水土保持普查提供了基础数据[17]。通过区域调查查明了东南红壤丘陵区近50年来水土流失演变状况，发现水土流失面积从20世纪50年代初的10.5万平方公里增加到2002年的19.6万平方公里，现有水土流失面积为16.0万平方公里（占比 $12 . 5 \%$ ），其中崩岗26万个（崩岗区年均土壤侵蚀模数高达 $5 . 9 { \times } 1 0 ^ { 4 } \mathrm { t } \ \mathrm { k m } ^ { - 2 } \ \mathrm { a } ^ { - 1 }$ ），治理率低于 $1 \%$ ，局部水土流失严重[18]。
+
+在土壤侵蚀发生和环境效应方面，揭示了马尾松林地水土流失规律，发现植被林冠层对水土流失影响的阈值，其中马尾松纯林覆盖度小于 $24 \%$ ，影响权重很小；查明了赣南稀土尾矿区泥沙和浸矿物迁移规律，发现 $\mathrm { N H } _ { 4 } ^ { + }$ 随着径流泥沙迁移， $\mathrm { S O } _ { 4 } ^ { 2 - }$ 随径流水迁移；在流域尺度上（江西瀲水河流域579平方公里）揭示了长期营造水保林（1971—2009年）通过增加流域蒸腾减少流域的产水量和产沙量，近20年来（1991—2009年）造林对降低流域产沙量的贡献率从 $41 \%$ 增加到 $6 8 \%$ ，由于流域水文循环和水土流失的耦合变化最终降低了流域氮磷输出（年输出量仅为 $3 . 3 8 \mathrm { { k g } N / \mathrm { { h a } } }$ 和 $1 . 1 6 \mathrm { { k g } P / \mathrm { { h a } } }$ ）。
+
+基于红壤坡面产沙和径流形成机制，建立了以保护团聚体和减缓径流为核心的侵蚀阻控理论，针对不同坡度的红壤旱坡地，建立了减缓径流的工程和生物配套的“集流聚肥”水保耕作体系[19]，包括等高草篱、土埂、梯田和覆盖措施，治理8年后植被恢复区产沙得到完全控制，平均固碳速率为 $4 . 6 3 \ : \mathrm { t } \ : \mathrm { h m } ^ { - 2 } \ : \mathrm { a } ^ { - 1 }$ ，生态效益显著[20]。针对花岗岩红壤的侵蚀类型，基于群落构建理论确定了侵蚀红壤劣地马尾松林植被恢复重建的群落指标，构建了立体植被快速恢复模式，包括剧烈侵蚀的水保草覆盖模式、乔灌草混交模式、补植乡土植物模式、经济林生草覆盖模式。揭示了红壤区崩岗发育过程和形成机制，研发了基于新型水保材料固土控蚀的大型崩岗快速治理技术，以“山水林田湖草”生态修复理念为核心，建立了“治坡、降坡、稳坡”与农林果牧经济开发融合的崩岗治理模式（图6），并在江西和福建进行了示范推广[8]
+
+4 查明了红壤区季节性干旱发生规律，揭示了红壤孔隙形成机制以及不同尺度的水文通量，研发了农田水分高精度远程数据采集系统，建立了低丘红壤区高效节水农业技术体系
+
+通过长期观测和调查，明确了红壤丘陵区土壤-作物干旱和气候性干旱的时空发生规律，发现其年发生概率分别为 $8 6 \%$ 和 $60 \%$ ，以夏秋伏旱（7一9月）危害最大。从区域分布看，江南丘陵北部多发伏、夏旱；红壤区东部多发秋旱，10月份赣、闽多发，11月桂、粤、闽多发[21]。
+
+红壤有效水库容较低是季节性干旱的内在原因。针对长期施肥对土壤孔隙的影响机制，利用CT技术和土壤水分特征曲线（SWRC）揭示了红壤大孔隙和孔隙分布特征，建立了拟合水分特征曲线的双峰模型(bimodal lognormal model, BLN；double-exponentialmodel,DEmodel），发现施肥主要改变土壤的结构性孔隙，对质地性孔隙影响较小[22]。针对土壤生物的影响,利用CT与图像分析技术研究了两种生态位的蚯蚓对红壤和砂姜黑土蚯蚓洞孔隙结构的影响，发现了蚯蚓类型显著影响了蚯蚓洞结构，其中以腐质物为食的远环蚓属蚯蚓（Amynthascarnosus）比以土壤为食的杜拉属蚯蚓（Drawidasinica）形成更粗大的洞，上下连接性好，垂直方向更加明显，从而显著提高了饱和导水率（图7）[23]。基于长期试验，研究了土壤-植物-大气连续体（SPAC）中水流阻力的变化特征，揭示了气候、母质、利用方式和施肥对土壤剖面水分库容季节性变化的影响，发现长期施肥对红壤深层（ $1 0 0 \mathrm { c m }$ ）水分动态的影响显著增加。基于浅层土壤含水量变化和土壤水分的时间稳定性特征，预测土壤深层含水量动态变化和区域平均含水量，实现点位观测的时空尺度扩展[24.25]。在小流域尺度（孙家小流域），应用端元混合模型明确了径流来源，发现灌溉水、雨水和地下水分别贡献了 $46 \%$ 、$2 6 \%$ 和 $2 8 \% ^ { [ 2 6 ] }$ O
+
+![](images/467272f292b8fc9edbec77e8d30cb0b4087e57d61020015dc98ff1e01da57469.jpg)  
+图5　东南红壤丘陵区土壤可蚀性 $K$ 值分布
+
+![](images/50ed15fd2525ae638a20f278d772574b365217d329d9bf70b9a4e7ef7f47fa4e.jpg)  
+图6经济开发型崩岗治理模式框架
+
+![](images/421cfedc257be64e07938e24e64849fa21ea8339e8266ba39cd08dc21b78b813.jpg)  
+图7不同生态位的蚯蚓对红壤大孔隙（蚯蚓洞）的影响
+
+鹰潭站发展了红壤区以农艺措施为主的水、肥、土综合管理的抗旱节水技术体系。从选用抗旱作物入手，发展冬季农业优化种植模式；从保持土壤水分、促进根系生长、提高植株抗旱性入手，优化了以花生为主的高效节水旱地种植模式；阐明了水稻节水种植模式的水肥耦合机制，提出了节灌条件下水稻水肥高效利用的综合调控模式[21]。研发了稻田水位-地表灌溉深度-渗漏三联测量装置和高精度土壤水分传感器，实现了灌区田间水层深度、情、作物长势等生态因子的精确自动监测，支撑了水稻节水技术研发。基于田块、小流域和灌区的水量平衡，提出了灌区水资源优化配置方案，配套浅层地下水打井灌溉技术和小流域水文监测评价技术，支撑了红壤灌区节水改造工程建设，在江西建设示范区1万亩；灌水利用率由 $30 \%$ 提高到 $70 \%$ 以上，作物水分利用率由 $1 . 3 ~ \mathrm { k g / m } ^ { 3 }$ 提高到 $1 . 7 \mathrm { k g / m } ^ { 3 }$ ，增产 $1 8 \% - 3 2 \%$ 。
+
+# 5建立了土壤-农作物系统重金属和稀土元素迁移预测模型，提出了红壤和水稻土安全阈值，集成了红壤重金属污染治理技术模式
+
+在系统开展红壤-植物系统中重金属污染机理研究的基础上[2]，基于土壤基础性质（pH值和有机质）建立了土壤-农作物系统重金属迁移预测模型[28]，初步明确了蔬菜、水稻、脐橙土壤重金属安全阈值[28-30]，制定了水稻和根茎类蔬菜生产的土壤砷、汞、镉、铅、铬安全阈值国家标准（报批稿），报批标准各项阈值普遍高于GB15618-1995一级标准规定的水平（图8），并修正了GB15618-1995二级标准中对汞的规定过于严格而对铅的规定过于宽松的问题，报批标准基于土壤pH值和有机质范围细化了水稻和根茎类蔬菜的重金属安全阈值，提高了在实际农业生产中的适用性。基于调查和定位试验，澄清了赣南脐橙重金属和稀土超标问题，发现即使在稀土尾矿地果园中稀土元素含量高达 $1 0 3 8 \mathrm { m g / k g }$ ，脐橙果品稀土元素含量也不超标。
+
+针对镉污染农田，筛选了区域适宜的低积累品种、明确水稻茎节在镉向籽粒传输中的限制作用[31]，研制了纳米羟基磷灰石等新型复配钝化材料（图9），提出了钝化材料酸稳定性的简易方法[32]；研发碱性材料钝化、分蘖期施用微肥（铁、锌、硒等）等关键技术，降低糙米镉含量 $7 5 \% ^ { [ 3 3 ] }$ ，集成低积累水稻品种 $^ +$ 钝化材料降低活性 $\cdot +$ 分蘖期微肥根控 $\cdot +$ 孕穗期淹水生理阻控的水稻安全生产技术体系，以及钝化 $. +$ 改土 $^ +$ 发展果树/纤维/能源作物等种植业结构调整技术和模式。针对稀土尾矿污染区研发了T沟蓄水保土的植被快速恢复技术，水土流失减少 $80 \%$ 、植被成活率达到 $90 \%$ ，集成了T沟蓄水保土、周年生物覆盖、土壤培肥，发展脐橙的复垦与安全生产技术模式。技术模式在鹰潭、赣州等地得到大面积推广应用，部分成果参加集成的“重金属超标农田和稀土尾矿污染区安全利用关键技术及应用”申报了江西省科技进步奖。
+
+![](images/0fb3ed16fc1c5c3f88754a86d0510ad15cd9041d6a9dc9cb33fa5eb2904472d3.jpg)  
+图8根茎类蔬菜生产土壤中镉安全阈值
+
+![](images/6c15ec223698c02481406ae61c414a30b8f4b46430ecbfba1f7a13decf3b6007.jpg)  
+图9制备土壤重金属污染修复材料纳米羟基磷灰石
+
+6 查明了红壤地力和养分平衡的演变状况，揭示了红壤有机质和养分转化的微生物机制，阐明了水热条件对土壤碳氮转化核心菌群演替的驱动作用，提出红壤大团聚体生物培肥技术
+
+引入“土壤圈-水圈-大气圈-岩石圈-生物圈”交互作用理论模型，从红壤圈与水、气、岩石、生物圈之间的物质循环角度，从田块到流域尺度系统开展红壤生态系统结构、过程和功能研究[3]；引入“土壤质量”概念，建立了红壤肥力、环境和健康质量研究框架，系统开展了红壤质量演变机制与调控理论研究[34]。
+
+在系统研究红壤有机碳转化机制的基础上，评估了不同施肥措施的固碳潜力；明确了东部红壤区土壤有机质分布状况，发现20世纪80年代以来的20年间红壤旱地有机质含量下降，而水稻土有机质含量提升[34]；由于大面积实施秸秆还田技术，东部和中南部土壤有机碳储量在 1980—2011年间分别增加了 8.33和 $6 . 6 7 \mathrm { M g / h a } ^ { [ 3 5 ] }$ 。通过长期试验揭示了不同气候带下秸秆腐解机制及其替代氮肥的适宜比例，发现微生物群落组成与秸秆化学结构的协同变化机制，真菌/细菌比例驱动了秸秆芳化度的增加[36,37];针对中亚热带中低产水稻田，长期培肥后秸秆全量还田可以显著提高土壤有机碳（平衡值达 $1 9 \mathrm { g / k g }$ ），改善土壤团粒结构和微生物活性，在替代 $20 \% - 3 0 \%$ 化肥氮的水平下保持水稻高产[38]
+
+探明了东南红壤区土壤养分的贫瘠状况，揭示了农田养分平衡的演变特征及其对红壤养分库的影响，发现东部红壤旱地全氮中度贫瘠（约 $63 \%$ ）、速效磷严重贫瘠（约 $78 \%$ ）；随着区域经济的发展，农田氮磷盈余量及其环境风险不断增加，从氮盈余量看，中东部（苏、浙、闽、粤 $> 1 7 0 \mathrm { { k g / h a } }$ ） $>$ 中部（皖、赣、鄂6 $\mathrm { \hbar ( - 1 7 0 k g / h a ) > }$ 西部（桂 $< 6 4 \mathrm { { k g / h a } }$ ）。在揭示农田养分盈余对土壤养分库容促进作用的基础上，揭示了长期培肥过程中土壤生物网络形成对养分转化的促进机制，阐明了大团聚体中线虫捕食微生物促进红壤“固碳供氮释磷”机制。研究发现，旱地红壤有机培肥后促进了大团聚体的形成，大团聚体中线虫对活跃微生物的捕食作用抑制了土壤碳代谢（“负反馈”），提高了有机质积累能力；而食细菌线虫优势属——原杆属（Protorhabditis）捕食生物网络中的关键微生物硝化螺菌属（Nitrosospira cluster 3a,9,10）和中慢生型根瘤菌属（Mesorhizobium），促进了微生物的氮代谢和磷代谢（“正反馈”），从而提高了土壤氮磷的供应能力。基于这些结果提出了红壤“大团聚体生物培肥理论”框架（图10）[39.40]。在区域尺度上揭示了气候条件对土壤养分转化功能微生物演替的驱动作用，发现气候变暖促进微生物的演替速率，增加碳、氮循环核心菌群丰度，促进土壤呼吸和硝化功能[4]。上述成果为提出适应气候-土壤类型的微生物功能调控措施提供了理论依据。
+
+![](images/d144b86673d9977587ffd5bb4f64ad4ef8ccabf0ec4c2dbaddd8b92631361dae.jpg)  
+图10红壤“大团聚体生物培肥理论”框架
+
+# 7长期持续提升红壤退化的治理水平，创建了江西省耕地保育与持续高效的现代农业技术体系，发展了红壤小流域 “山水林田湖草”生态循环农业模式
+
+从20世纪80年代起，鹰潭站在红壤退化机理和治理方面开展了集成研究和技术示范，从防酸控蚀、保水增肥、建立高效农林复合系统方面不断推进红壤退化的综合治理水平。阐明了南方红壤区水土流失规律、允许侵蚀量和生态整治技术，提出了发挥工程水库-土壤水库作用的防御旱涝灾害对策以及基于坡地集水-节水灌溉-避旱栽培抵御季节性干旱的原理，揭示了低产水稻田和贫瘠旱地障碍因素与土壤因侵蚀、酸化和肥力衰减的退化机理。明确了红壤旱地酸化、盐基流失和养分贫瘠与非均衡化特征，提出红壤退化综合防治技术体系，包括侵蚀红壤快速绿化与水土保持技术、退化土壤肥力恢复与优化施肥技术、酸性土壤长效改良技术、蓄-保-灌结合防御季节性干旱技术。提出了以多元多熟间套种技术为代表的高产高效种养技术，建立了基于优质粮经饲产业的农业高效开发模式,基于地理信息系统技术提出南方红壤区农业发展战略，带动了地方农业结构的调整和特色农业的发展[42]。
+
+21世纪起，全面提升了土壤退化治理和耕地质量培育技术，建立了红壤酸化和花生连作障碍修复模式，集成了稻秆快腐还田和肥力培育技术，研发了基于水稻光谱诊断和缓控释肥的氮肥运筹技术，解决了双季稻机械化与轻型化生产的衔接技术，开发了双季稻高产设计栽培模式，创建了江西省耕地保育与持续高效的现代农业技术体系，建立了复合型持续增产模式、平原高产型超高产、山区低产型耕地定向培育模式和丘陵盆地中产型轻型生产模式。在江西省14个县市示范推广1565万亩，增产粮食近10亿公斤，节本增效近18亿元，为实现江西省新增100亿斤粮食规划提供了技术支撑[34]。
+
+鹰潭站不断完善“顶林、腰果、谷农、塘鱼”立体种养模式，丘顶部种植马尾松、湿地松等用材林和水保林；丘岗中部种植经果和作物（柑橘、甜柿、葡萄、油茶、花生、油菜等）；塘麓种植粮作和饲料（水稻、玉米、牧草等），发展家畜家禽养殖和沼气；池塘养鱼，配合建立人工小湿地处理和循环利用养殖废弃物。基于线性规划模型建立了小流域立体循环模式中养分循环利用的合理配比，针对中小型养殖场（年出栏1200头猪，年产生48吨猪粪和360吨冲栏水），沼气池处理有机粪尿后在果园、旱地、水田系统中循环利用养分的适宜比例为1：6：1，年产生有机肥资源可以满足100亩旱地、50亩水田和10亩柑橘园的养分需求，这一技术为解决东南区集约化畜禽养殖业的有机废弃物资源提供解决方案。近年来，提出建立东南红壤区小流域尺度的“山水林田湖草”生态循环农业模式（图11），融合治水、改土、造林措施，建立特色种养产业链，提高红壤坡地生产能力和农业综合开发规模，实现区域经济效益和生态效益的双赢。
+
+![](images/b7b9efa48cd28b233c7c80986d6d1b7fa3141a648f3c130ca83ab5fe82093ea3.jpg)  
+图11　红壤小流域“山水林田湖草”生态循环农业模式
+
+# 8结语
+
+我国东部红壤丘陵区兼有生态脆弱区和农业主产区（水稻、油菜、柑橘等）特色，面临巨大的资源-环境-人口压力，中低产田比例大，耕地质量退化严重，制约了区域农业的可持续发展。鹰潭站自1985年建站以来，通过对红壤退化机制和改良技术的长期研究和试验示范，为提高红壤生产力和红壤生态环境质量，保障我国的食物安全作出了重要贡献；通过承担国家和省部级重大项目，推动和引领了我国红壤生态学的发展。目前，鹰潭站通过完善野外长期试验平台，提升多尺度观测装备的现代化水平，吸收新材料、新装备、新信息技术和新生物技术的发展成果，建设红壤关键带等小流域尺度的综合观测系统，凝练研究团队的国家需求和学科发展目标，培养和引进优秀人才，提升学术研究水平和技术研发能力，为发展红壤区适度规模的新一代生态高效农业模式作出新的贡献。
+
+# 参考文献
+
+1 李庆逵.中国红壤.北京:科学出版社,1983:1-171.   
+2赵其国．开拓资源优势，创新研发潜力，为我国南方红壤地 区社会经济发展作贡献一 纪念鹰潭红壤生态实验站建 站30 周年.土壤,2015,47(2):197-203.   
+3赵其国.红壤物质循环及其调控.北京：科学出版社，2002: 1-495.   
+4 Yang J-L,Zhang G-L,Huang L-M,et al. Estimating soil acidification rate at watershed scale based on the stoichiometric relations between silicon and base cations. Chemical Geology, 2013(337-338): 30-37.   
+5Xu RK,Qafoku NP,van Ranst E,et al.Adsorption properties of subtropical and tropical variable charge soils:Implications from climate change and biochar amendment.Advances in Agronomy, 2016,135: 1-58.
+
+6ShiRY,Hong ZN,Li JY,et al.Mechanisms for increasing the
+
+pH buffering capacity of an acidic Ultisol by crop straw derived biochars. Journal of Agricultural and Food Chemistry,2017,65: 8111-8119.   
+7Li JY,Liu ZD,Masud MM,et al. Alkaline slag is more effective than phosphogypsum in the amelioration of subsoil acidity in an Ultisol profile.Soiland TillgeResearch,2015,149: 21-32.   
+8 孙波.红壤退化阻控与生态修复.北京:科学出版社,2011.   
+9 徐仁扣.酸化红壤的修复原理与技术．北京：科学出版社, 2013.   
+10 Chen R F, Shen R F, Gu P,et al. Investigation of aluminum tolerance species in acid soils of South China. Communications in Soil Science and Plant Analysis,2008,39: 1493-1506   
+11 Dong X Y, Shen R F, Chen R F,et al. Secretion of malate and citrate from roots is related to high Al-resistance in Lespedeza bicolor. Plant and Soil,2008,306:139-147.   
+12 Zhao X Q,Aizawa T, Schneider J,et al. Complete mitochondrial genome of the aluminum-tolerant fungus Rhodotorula taiwanensis RS1 and comparative analysis of Basidiomycota mitochondrial genomes. Microbiology Open,2013,2(2): 308-317.   
+13Hu ZM, Zhao XQ,Bao X M,et al.A potential contribution of the less negatively charged cell wall to the high aluminum tolerance of Rhodotorula taiwanensisRS1. Yeast,2016,33: 575-586.   
+14 Zhao XQ, Shen R F.Aluminum-nitrogen interactions in the soil plant system. Frontiers in Plant Science,2018,9: 807.   
+15 Shao JF,Che J,Chen RF,et al. Effect of in planta phosphorus on aluminum-induced inhibition of root elongation in wheat. Plant and Soil,2015,395: 307-315.   
+16 Yuan JQ,Liang Y,Cao L X. Preliminary study on mechanicsbased rainfall kinetic energy. International Soil and Water Conservation Research,2014,2(3): 67-73.   
+17 梁音,刘宪春,曹龙熹,等.中国水蚀区土壤可蚀性 $K$ 值计算与 宏观分布.中国水土保持,2013,(10):35-40.   
+18 水利部，中国科学院,中国工程院.中国水土流失防治与生态 安全：南方红壤区卷.北京：科学出版社,2011.
+
+19Wang Y,Cao L,FanJ,etal.Modeling soil detachment of different management practices in the red soil region of China.Land Degradation & Development,2017,28:1496-1505.
+
+20 顾亚兰,梁音，曹龙熹,等.红黏土侵蚀劣地集水区植被恢复30年中的水沙特征.中国水土保持科学，2017,15(3)：1-8.
+
+21 赵其国,张桃林,鲁如坤,等.我国东部红壤区土壤退化的时空变化、机理及调控对策.北京：科学出版社,2002.
+
+22 Zhou H, Mooney S J,Peng X H.Bimodal soil pore structure investigated by a combined soil water retention curve and X-ray Computed Tomography approach. Soil Science Society of America Journal,2017,Doi: 10.2136/ssaj2016.10.0338.
+
+23Bottinelli N,Zhou H,Capowiez Y,et al. Earthworm burrowing activity of two non-Lumbricidae earthworm species incubated in soils with contrasting organic carbon content (Vertisol vs.Ultisol). Biology and Fertilityof Soil,2017, 53(8): 951-955.
+
+24 Gao L,Lv YJ.Wang D D,et al. Can shallow-layer measurements at a single location be used to predict deep soil water storage at the slope scale? Journal ofHydrology,2015,531: 534-542.
+
+25 Gao L,Lv Y J.Wang D D,et al.Soil water storage prediction at high space-time resolution along an agricultural hill slope. Agricultural Water Management,2016,165:122-130.
+
+26 Lv Y J,Gao L,Geris J,et al.Assessment of water sources and their contributions to streamflow by endmember mixing analysis in asubtropical mixed agricultural catchment.Agricultural Water Management,2018,203:411-422.
+
+27 陈怀满.土壤—植物系统中的重金属污染.北京：科学出版社，1996.
+
+28Ding C,Ma Y,Li X,et al.Determination and validation of soil thresholds for cadmium based on food quality standard and health risk assessment.Science of the Total Environment,2017,619: 700-706.
+
+29Ye X,Li H,Ma Y,et al. The bioaccumulation of Cd in rice grains in paddy soils as affected and predicted by soil properties.Journal of Soils and Sediments,2014,14:1407-1416.
+
+30 Cheng J,Ding C,Li X,et al. Heavy metals in navel orange orchards of Xinfeng County and their transfer from soils tonavel oranges.Ecotoxicology and Environmental Safety,2015,122: 153-158.
+
+31Huang G,Ding C,Guo F,et al.The Role of Node Restriction on Cadmium Accumulation in the Brown Rice of 12 Chinese Rice (Oryza sativa L.) Cultivars.Journal of Agricultural and Food Chemistry,2017,65:10157-10164.
+
+32 Guo F,Ding C, Zhou Z,et al. Stability of immobilization remediation of several amendments on cadmium contaminated soils as affected by simulated soil acidification.Ecotoxicology and Environmental Safety,2018,161:164-172.
+
+33Huang G,Ding C,Hu Z,et al.Topdressing iron fertilizer coupled with pre-immobilization in acidic paddy fields reduced cadmium uptake by rice (Oryza sativa L.).Science of the Total Environment 2018,636:1040-1047.
+
+34何园球,孙波.红壤质量演变与调控.北京：科学出版社，2008
+
+35 Zhao Y,Wang M,Hu S,et al.,Economics- and policy-driven organic carbon input enhancement dominates soil organic carbon accumulation in Chinese croplands.Proceedings of the National Academyof Sciences of the United States of America,2018,doi: 10.1073/pnas.1700292114.
+
+36Wang X,Sun B,Mao J,et al.Structural convergence of maize and wheat straw during two-year decomposition under different climate conditions.Environmental Science and Technology, 2012, 46:7159-7165.
+
+37 Sun B,Wan X,Wang F,et al.Assessing the relative effects of geographic location and soil type on microbial communities associated with straw decomposition.Applied Environmental Microbiology,2013,79(11):3327-3335.
+
+38 Lv M,Li Z,Che Y,et al. Soil organic C,nutrients,microbial biomass,and grain yield of rice(Oryza sativa L.) after 18 years of fertilizer application to an infertile paddy soil.Biology and Fertility of Soils,2011,47(7):777-783.
+
+39JiangY, Sun B,LiH,et al.Aggregate-related changes in network patterns of nematodes and ammonia oxidizersin an acidic soil. Soil Biology and Biochemistry,2015,88:101-109.
+
+40 Jiang Y, Liu M, Zhang J,et al. Nematode grazing promotes bacterial community dynamics in soil at the aggregate level. The ISME Journal,2017,11(12): 2705-2717.
+
+41 Liang Y, Jiang Y,Wang F,et al. Long-term soil transplant simulating climate change with latitude significantly alters microbial temporal turnover. The ISME Journal, 2015,9:2561- 2572.
+
+42 张桃林.中国红壤退化机制与防治.北京：中国农业出版社，1999.
+
+# Long-term Research on Red Soil Degradation and Remediation Promotes Development of Ecological Recycling Agriculture in Hilly Region of Southeast China
+
+UN BoLIANG YinXU RenkouPENG XinhuaWANG Xingxiang ZHOU Jing LI ZhongpeiZHAO Xueqian! (Yingtan Red Soil Ecological Experiment Station, Institute ofSoil Science, Chinese Academy of Sciences,
+
+Nanjing 210008,China）
+
+AbstractTeegradationproblsfoilron,olidifiatio,oilrtilityeuation,oilaetalpltiodsoal droughtintheedsoilhillegionofSutheastChinahveresutedinthedegradationofteedsoileosystemndthedeclinftheland productivityhichrestrictsthsustaiabledevelopmentofegoalgriculturincetheestablshentofngtanRedSoilEological ExperimentStationin1985,thelong-termobservationandecologicalbasicresearchofredsoilecosystemshavebeencariedout,the aplicationresearchanddemonstrationhavebenimplementedonsoildegradationadrestoration,oilqualityevolutionndimproent, nutrientyclingdtutlatio,ilpltionndmedatiodologicalgclureoeladgioaldveloptstategy inredsoilillygionFortheedldevelopment,itwasfoundtatteprocessofmodedesilicationandrealumiingasotiung, andthenaturallidiaiteesallwatedasl.Fotaeleadidiicatiooflundeagluralutio thenewmethodsofinibitingprotonproductionandimprovigacidresistancecapacityweredeveloped,thenewauminum-tolerantplant resourcesareexcavated,andtemolecularbologymechanismforplantaluminum-resistanceasrevealed.Themultisalemethosforsoil erosionmonitogeabsd,tesatialisrtioofilodlityactoraapd,teveloptechaissofloo andslopecolseindlioetiddtveopetaageetodelfdlosiootrolabd Theoccurrenceregularityofseasonaldrought inedsoilrgionwasfoundout,themechanismofporeformationandtheydrologicflux atdfferentsalsevealed,presoteataclosforlsureatuselopd,dt andwater-savingagriculturalmodelintelow-hillredoilregionasestablised.Foreavymetalandrareearthelement,teprdiction modelsformigrationinolopstemswereestablshed,teetyresholdvauesfordsiladpddysoilwreputfrwaddte remediationtecholoysyeforetalpteddslandpddysoilwasitegated.Tcangesofsoilertilityandrtlace inredsoilregioerevestigateddaped,tdiingecanoflogicalorkfoarbdrogetordlsas revealed,andtepipleforicalertiooflggateasputfadodigtlal techologysyfoadoservaiingiovestablisddtolocalligicltueoelfotd goveranceof“mountain-ater-frlandforest-lakegrass’sstemasdevelopdatthesallwatesdscaleinedsoilgio,hhade agreatcontributiotefalandualitydevelopment,teologcaleviomentprotectiondtedevelopmentfneatiof ecological recycling agriculture in red soil region.
+
+Keywordsrdlllioagadao,ertilttivaiofeslgeatelogicalstoraio,lti remediation, ecological recycling agriculture model
+
+![](images/c0e3bd659b232e834ceea91a623d265afaba35b2e0bf90bbaea90135475d25a8.jpg)
+
+孙 波中国科学院鹰潭红壤生态实验站 (江西鹰潭农田生态系统国家野外科学观测研究站)站长，农业农村部耕地保育重点实验室常务副主任。国家重点研发计划项目首席科学家、中国科学院特聘教授核心骨干、江苏省“333”高层次人才工程第二层次人才、中国植物营养与肥料学会副理事长、中国土壤学会理事、全国土壤质量标准化技术委员会委员、中国生态学学会长期生态专业委员会委员、江西省生态学会副理事长、农业农村部耕地质量建设专家指导组成员。主要研究土壤退化机制与修复原理、土壤养分循环生物学机制与调控技术，发表SCI论文60余篇，出版专著5部，制定国家标准2项，获2004年度（排名第6）和2011年度（排名第4）国家科技进步奖二等奖各1项。E-mail:bsun@issas.ac.cn
+
+SUNBoDirectorofYingtanRed SoilEcologicalExperiment StationofChinese AcademyofSciences (NationalAgro-Ecosystem ObservationandResearch Stationin Yingtan),and theexecutivedirectorofKeyLaboratoryofFarmlandConservationofMinistryof AgricultureandRuralAfis.HesthciefDistinguisdResearhFellofChineseAcademyofciences,thsecondleveltalentsietist iJiangsuTalengroectndhepcipalivesigatorPftioalKey&rect.Heentlyreicete PhysicalGeogapyComiteofeogapcalSocietyofi,svicepresdentofthlantutritoandFertilerSiececetyf China,asamemberofSlienceSocietyofinaasouncilemberofatioaladardzationTchicalComitforilQuity asamemberofLongteEcologyCommiteeEoloicalSocietyofinadasvicepresidentofcologcalSocetyofJagiPrice. HealsoervesasamemberoftheExpertAdvisoryCommiteeforarlandQualityConstructioofMinistryofAgriculturandRuralAfars. Hehadpublishdorea6teatioalpeedcadeicpers(ideedbyieCiatiodex),oogapsdaioal standards.As themainaccomplisher,hesawardedthesecondlassprizeofNatioalScieneandTechnologyrogresAwardin4and 2011,respectively. E-mail: bsun@issas.ac.cn

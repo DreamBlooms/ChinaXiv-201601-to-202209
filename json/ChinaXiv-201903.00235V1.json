@@ -1,0 +1,462 @@
+[
+    {
+        "type": "text",
+        "text": "Impact of air drought on photosynthesis efficiency of the Siberian crabapple (Malus baccata L. Borkh.) in the forest-steppe zone of Transbaikalia, Russia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alexandr RUDIKOVSKII, Elena RUDIKOVSKAYA\\*, Lyubov DUDAREVA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Siberian InstituteofPlant Physiologyand Biochemistryof Siberian Branch,Russan AcademyofSciences,Irkutsk 664033, Russia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The adaption of photosynthesis,being a key metabolic process, plays an important role in plant resistance to air drought.In this study,the Siberian crabapple (Malus baccata L.Borkh.) in the forest-steppe zone of Transbaikalia region，Russia， was subjected to air drought stress and its photosynthesis characteristics were analyzed.The results show that air drought and suficient soil moisture supply lead to thedecrease in the total chlorophyll(Chl) content, while theratio of Chls to carotenoids is constant in the Siberian crabapple tree. The function of photosystem II (PS-II) in the crabapple trees is characterized by a decrease in the fraction of absorbed light energy spent on the photochemical work and an increase in the proportion of non-photosynthetic thermal quenching. These changes indicate the photosynthetic down-regulation that acts as a universal photoprotective mechanism. During the midday hours, the combination of high air temperature and low air humidity leads to the decrease in the maximum photochemical quantum yield of photosystem II $( \\mathrm { F _ { v } } / \\mathrm { F _ { m } } )$ and the efficiency of photosynthesis $\\mathrm { ( P _ { A B S } ) }$ . The parameters of leaf gas exchange show the significant differences in these values between the control and experimental variants.During the morning hours,the Siberian crabapple,growing in the Irkutsk City, aimilates carbon dioxide more intensively. Due to the higher air humidity,the stomata are kept open and the necessary amount of carbon dioxide entries the sites of carboxylation. The low air humidity combined with wind in the experimental variants leads to the unreasonably high water lossin the crabapple leaves by more than $2 7 \\%$ as compared to the control variant (Irkutsk City). However, water use efciency in the morning hours increases during plant photosynthetic processes, i.e., $42 \\%$ higher than that of control. This, apparently,is a reflection of the adaptation processes of the Siberian crabapple to the air drought and parching wind. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: air drought; chlorophyllfluorescence; leaf gas exchange; pigments; water use efficiency ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations:ABS,absorbedenergy flux;ChlchlorophyllET,electrontransport flux;ETR,electron transportrate; $\\mathrm { ~ F _ { 0 } ~ }$ minimum fluorescence yield in dark-adapted state; $\\mathrm { F _ { m } }$ ,maximum fluorescence yield in dark-adapted_state; ${ \\mathrm { F _ { m } } } ^ { \\prime }$ ,maximum fluorescence yield in light-adapted state; ${ \\mathrm { F } } _ { 0 } ^ { \\prime }$ ，minimum fluorescence yield in light-adapted state; $\\mathrm { F _ { v } / F _ { m } }$ ，quantum yield of photosystemI;AR,photosntheticallyactiverdiation;PS-I,photoystemII;C,reactioncenter;T,trappingflux;VPD, vapour pressuredeicit; WUE,wateruseeffciency; Y(I),effectivequantumyieldofphotosystemI;Y(NPQ),quanumield of non-photochemical quenching. $\\Psi _ { 0 }$ ,probability that a photon trapped by the PS-II reaction center enters the electron transport chain beyond $\\mathrm { \\Delta Q _ { A } }$ (the primary electron acceptor quinone in PS-II) (at $\\scriptstyle t = 0$ ） $\\displaystyle { \\Phi _ { \\mathrm { P o } } }$ ,the maximum quantum yield of primary photochemistry at $\\scriptstyle t = 0$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Alexandr RUDIKOVSKI,Elena RUDIKOVSKAYA,Lyubov DUDAREVA.2019. Impact of air drought on photosynthesis eficiencyof the Siberiancrabapple (Malus baccataL.Borkh.)inthe forest-steppe zoneofTransbaikalia, Russia.Journal of Arid Land,11(2):255-266.https://doi.org/10.1007/s40333-019-0006-9 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The estimates of climate change show that the presently observed increase in average global temperature in the world will be kept in future (Bodner et al.,2O15; Borland et al.,2015). The increases in temperature and vapour pressure deficit (VPD) in the air enhance soil evaporation and leaf transpiration, which leads to water stress in plants. Soil and air drought is one of the most significant abiotic stress factors, which limit plant growth and ecosystem productivity around the globe (Bodner et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is beyond argument that the ability of plants to adapt to changing conditions is directly or indirectly connected with the plasticity of photosynthesis, which, combined with other processes, determines the growth and development of plants and,at the end of the day, their successful propagation.As photosynthesis is very sensitive to the external environmental factors,the dependence of growth and development of plants on these factors can be estimated by measuring the photosynthetic response to ecological stressors (Lang et al., 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "At large,the factors limiting plant photosynthesis under draught conditions can be of stomatal or non-stomatal nature. The degree of influence of each factor can be estimated by studying a net photosynthetic rate $( \\mathrm { P _ { n } } )$ , intercellular $\\mathrm { C O } _ { 2 }$ concentration (Ci), and stomatal limitation (Lang et al., 2018). It is shown that the decrease in $\\mathbf { P } _ { \\mathrm { n } }$ after a certain degree of drought may be a result of joint influence of stomatal and non-stomatal factors (Zhang et al., 2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The increase in the degree or duration of drought leads to the decrease in the net photosynthetic productivity due to non-stomatal limitation,i.e., due to structural and functional alterations of the leaf photosystem connected with the damages to the photosynthetic apparatus as well as with the electron transport activity and light energy conversion efficiency (Lang et al.， 2018). Besides, drought causes noticeable destructions of membrane systems and ultrastructural damage of chloroplasts (Ghotbi-Ravandi et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The persistence of photosynthetic light reaction under the conditions of drought and the reduced $\\mathrm { { C _ { i } } }$ leads to the accumulation of recovered components of the electron transport chain. This may be the reason for a severe damage to the photosynthetic apparatus. The protective mechanisms, such as thermal dissipation of light energy, xanthophyll cycle,Mehler reaction, and dissociation of light-harvesting complexes from photosystem II (PS-II) reaction centers (Basu et al., 2016)are known to function in the plant cells to reduce such destructions. Some authors consider the decrease in pigment content under drought as a special mechanism of photoprotection which leads to the decrease in light absorption (Liu et al., 2011).As drought intensifies,a higher Chla/Chlb ratio arouses the decrease in the amount of peripheral light-harvesting complexes, which reduces the light absorption by PS-II. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The mechanism of limitation of the photosynthetic rate is especially complex,when drought reaches a certain degree of severity. In this case,a simple analysis of leaf gas exchange parameters cannot be an accurate representation of the degree of the damage to the photosynthetic apparatus in the leaves. Chl fluorescence can be considered as an integrated probe for the study of the interrelation between plant photosynthesis and environment.It is now widely used in the studies devoted to the mechanisms underlying the responses of different vegetation types to ecological stress (Lang et al., 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The effects of the influence of high air temperature and drought on plants are fairly well studied. However, the experiments,where there is a combination of water stress and high temperature, are rare, although high temperature and drought together often adversely affect plant growth and productivity in nature (Sehgal et al., 2O18). The combination of soil and air drought with the high temperature influence is expected to increase in the nearest future, which makes the study of the influence of this combination of stressors as well as of the contribution of each stressor highly topical for the understanding of the mechanisms of this influence and, possibly,for the work on the improvement of the tolerance in economically valuable cultures (Zandalinas et al., 2018).At large, photosynthetic activity is repressed via destabilization of Rubisco and PS-II damage under the influence of abiotic stresses.However, the influence of drought, thermal stress or their combination on photosynthesis can be different depending on the plant species and the plant habitat. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In arid and semi-arid forest ecosystems, the changes in the forest structure and the increase in the tree mortality rates have been fixed lately.They are deemed to be connected with the climate warming and severe droughts (Borland et al., 2015; Liang et al.，2016). The consequences of climate change are most pronounced in semi-arid regions.To understand the adaptation potential and to estimate the vulnerability of species under the influence of drought and high temperature, we study these processes in forest ecosystems at a regional level. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although soil moisture plays a crucial role in the local differentiation of forests and steppes because of the differing plant demand for water (Liu et al., 2O15),air drought and an atendant VPD also have a great influence on gas exchange in leaves and, consequently, on the decrease in stomatal conductance (Perez-Martin et al., 20o9). VPD is shown to be especially important for woody plants,where it is the main driver influencing the transpiration and stomatal conductance within $2 4 \\mathrm { ~ h ~ }$ . There is a high probability that the rise in air temperature,closely connected with global warming, willead to the increase in VPD and to the enhancement of stress load in plants against the background of soil drought in forest biomes (Borland et al.,2015). This makes an individual estimation of the air drought contribution to the overall influence of the lack of moisture. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Transbaikalia region in Russia includes the forest-steppe ecotones in southern and eastern Baikal Lake and is currently under the influence of both air and soil drought. The Transbaikalia forest-steppe ecotone is an area with the low level of precipitation, and the amount of precipitation reduced (almost by $2 5 \\%$ ） during the first decade of the $2 1 ^ { \\mathrm { s t } }$ century (Kharuk et al., 2013). The locally estimated warming trend for this region amounts to $0 . 0 5 ^ { \\circ } \\mathrm { C } { - } 0 . 0 8 ^ { \\circ } \\mathrm { C }$ per annum, and the accelerated warming is shown to take place here in the second half of the $2 0 ^ { \\mathrm { t h } }$ century (Anenkhonov et al., 2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this region, we have found small populations of the Siberian crabapple (Malus baccata L. Borkh.） growing in the underbrush of the sparse pine forest and steppe areas (Rudikovsky et al., 2008).The Siberian crabapple grows directly next to the mountain stream. These plants are not endemic species and have sufficient soil moisture. However, during the spring/summer season, the trees here are subject to an unfavorable influence of dry air and high air temperature. The comparison of the trees growing near the mountain streams with the control ones will allow to individually estimating the influence of air drought and sufficient soil water supply on the photosynthetic apparatus efficiency. It should be noted that the control plants grow under the conditions close to the optimal ones and are,by their origin,the clones of the trees growing under natural conditions described above. In addition to the information about the functioning of photosynthetic apparatus under these unusual conditions,we are geting the model of artificial irrigation of apple trees,the practice in the application of which can be improved on the basis of the gained knowledge. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In light of this, the aim of our study is the analysis of the influence of air drought on the processes of adaptation of the photosynthetic apparatus of the Siberian crabapple (Malus baccata L. Borkh.), growing in the contact zone of forest and steppe.To achieve the aim, we measured the parameters of gas exchange in the leaves, pigment content, and Chl fluorescence of the Siberian crabapple growing naturally and under control conditions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Study area and materials ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Transbaikalia region belongs to the continental climate,i.e.,a short vegetation period of 100-130 d; abrupt oscillations of daily and monthly average air temperatures; May-June drought decreasing the plant crops； high intensity of solar radiation; and insuficient moistening and uneven precipitation. Annual precipitation in the middle Selenga River current is $2 1 0 { - } 2 5 0 ~ \\mathrm { m m }$ while $8 0 \\% - 9 0 \\%$ of precipitation falls in July-August. Currently, the vegetation of sub-taiga belt is presented by steppificated pine forests. They are interspersed with steppe areas,suggesting fluctuation of forest ecosystems in the contact zone,and their probable transformation to the steppe. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, we evaluated the plants of the Siberian crabapple growing near the Yagodnoye Village ( $1 ^ { \\mathrm { s t } }$ site; $5 1 ^ { \\circ } 2 4 ^ { \\prime } 0 5 ^ { \\prime \\prime } \\mathrm { N }$ ， $1 0 6 ^ { \\circ } 3 0 ^ { \\prime } 3 0 ^ { \\prime \\prime } \\mathrm { E } )$ ， $1 2 . 5 ~ \\mathrm { k m }$ from the Gusinoozersk Town (Selenga Province, Buryat Republic) in the contact zone between forest and dry steppe. The trees were growing close to the flowing mountain stream (about $2 \\mathrm { ~ m } )$ ).Trees of the Siberian crabapple growing at the experimental site of the Siberian Institute of Plant Physiology and Biochemistry within the Irkutsk City( $( 2 ^ { \\mathrm { n d } }$ site) were used as control plants. The trees represented clones of those from natural experimental population propagated from root suckers. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Climate in the Irkutsk City in Russia is less continental compared to the Transbaikalia region due to the functioning of hydroelectric power station and other water reservoirs along the Angara River. Mean annual precipitation is $4 7 2 ~ \\mathrm { m m }$ ,more than half of which occurs in summer. Table 1 presents the values of air humidity, precipitation, temperature, and maximum wind speed for June-July of 2010-20l2 in the Yagodnoye Village and Irkutsk City. The data are taken from the site http://www.rp5.ru. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/496d3de9bd191b410edfa8e9a3b75e29db2198ff405bd527cd4a30b6bfa7ac48.jpg",
+        "table_caption": [
+            "Table1Values of air humidity,precipitation,temperature,and wind speed for June-July of 2O10-2012 in the Yagodnoye Village and Irkutsk City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Year</td><td colspan=\"8\">June (Yagodnoye Village)</td></tr><tr><td colspan=\"2\">Air humidity (%)</td><td colspan=\"3\">Precipitation</td><td colspan=\"2\">Temperature (C)</td><td>Wind speed (m/s)</td></tr><tr><td>Mean</td><td>Min</td><td>Total (mm)</td><td>Max (mm)</td><td>Number of days</td><td>Mean</td><td>Max</td><td>Max</td></tr><tr><td>2010</td><td>49.0</td><td>15</td><td>20</td><td>11</td><td>8</td><td>19.1</td><td>39.3</td><td>14</td></tr><tr><td>2011</td><td>46.0</td><td>10</td><td>18</td><td>6</td><td>10</td><td>20.6</td><td>33.3</td><td>10</td></tr><tr><td>2012</td><td>57.0</td><td>14</td><td>38</td><td>8</td><td>15</td><td>18.1</td><td>32.9</td><td>13</td></tr><tr><td colspan=\"9\">July (Yagodnoye Village)</td></tr><tr><td>2010</td><td>56.0</td><td>9</td><td>51</td><td>16</td><td>10</td><td>22.2</td><td>35.2</td><td>10</td></tr><tr><td>2011</td><td>55.0</td><td>14</td><td>38</td><td>5</td><td>10</td><td>20.1</td><td>36.1</td><td>12</td></tr><tr><td>2012</td><td>64.0</td><td>24</td><td>49</td><td>15</td><td>12</td><td>20.3</td><td>30.5</td><td>11</td></tr><tr><td colspan=\"8\"></td><td></td></tr><tr><td rowspan=\"3\">Year</td><td colspan=\"2\">Air humidity (%)</td><td></td><td>Precipitation</td><td></td><td colspan=\"2\">Temperature (C)</td><td>Wind speed (m/s)</td></tr><tr><td>Mean</td><td>Min</td><td>Total (mm)</td><td>Max (mm)</td><td>Number of days</td><td>Mean</td><td>Max</td><td>Max</td></tr><tr><td>66.3</td><td>23</td><td>57</td><td>12</td><td>12</td><td>16.0</td><td>35.4</td><td>6</td></tr><tr><td>2011</td><td>70.3</td><td>36</td><td>31</td><td>14</td><td>5</td><td>17.9</td><td>32.0</td><td>5</td></tr><tr><td>2012</td><td>62.4</td><td>23</td><td>21</td><td>5</td><td>17</td><td>17.4</td><td>31.0</td><td>6</td></tr><tr><td colspan=\"9\">July (Irkutsk City)</td></tr><tr><td>2010</td><td>71.4</td><td>30</td><td>45</td><td>10</td><td>17</td><td>19.5</td><td>30.8</td><td>6</td></tr><tr><td>2011</td><td>71.3</td><td>26</td><td>113</td><td>17</td><td>20</td><td>17.3</td><td>31.7</td><td>5</td></tr><tr><td>2012</td><td>77.3</td><td>32</td><td>150</td><td>28</td><td>21</td><td>18.3</td><td>28.1</td><td>4</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2Pigment measurement ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The quantitative composition of pigments was determined by spectrophotometric method using a standard approach (von Wettstein,1957). The leaf tissue $\\mathrm { ( 5 0 ~ m g ) }$ frozen with liquid nitrogen was homogenized using $3 ~ \\mathrm { m L }$ of $80 \\%$ acetone with a small amount of $\\mathrm { C a C O } _ { 3 }$ . The homogenate volume was increased up to $1 0 ~ \\mathrm { m L }$ and centrifuged at $2 0 0 0 \\ \\mathrm { g }$ (Allegra $6 4 ~ \\mathrm { R }$ ,Germany) during $1 0 \\mathrm { m i n }$ at the temperature of $4 ^ { \\circ } \\mathrm { C }$ . Acetone extract $( 3 \\mathrm { \\ m L } )$ ） was placed in a cuvette and optical density was determined at 440.5, 644.0, and $6 6 2 . 0 \\ \\mathrm { n m }$ using spectrophotometer SF-46 (LOMO, Russia). The concentration of chlorophyll $a$ (Chla),chlorophyll $b$ (Chlb), total content of $\\operatorname { C h l } a + b$ and carotenoids (Car) content were calculated using the following formulas (Osipova et al., 2016): ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C h l } b { = } 2 1 . 4 3 \\mathrm { A } 6 4 4 { - } 4 . 6 5 \\mathrm { A } 6 6 2 .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where A662 is the absorbance at $6 6 2 ~ \\mathrm { n m }$ ；A644 is the absorbance at $6 4 4 ~ \\mathrm { n m }$ ； and A440.5is the absorbance at $4 4 0 . 5 \\mathrm { n m }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Chl fluorescence ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Chla fluorescence of apple leaves was measured in the morning, at noon and in the evening. The leave photosynthesis eficiency was estimated by the values of fluorescence of Chla determined using a portable impulse fluorimeter PAM-250o (Walz, Effelrich, Germany).The dark adaptation of the leaves was carried out for $3 0 \\mathrm { m i n }$ . To support the process of photosynthesis,we used red actinic light $( 6 7 7 \\ \\mathrm { \\mu m o l / ( m } ^ { 2 } { \\cdot } \\mathrm { s ) ) }$ . For the analysis, we used well-lit leaves from the middle part of the plants, fully developed,dark green, of the same size, without signs of damage. The measurements were done in the morning (09:00-11:00,LST),at noon (12:00-14:00) and in the evening (17:00-20:00). In the Yagodnoye Villge, the measurements of Chl fluorescence were carried out during a week in June (9-16 June in 2010,201l and 2012) or in July (9-16 July in 2010,201l and 2012). In the Irkutsk City, the same measurements were also carried out for a week in June (18-24 June in 2010, 2011 and 2012) or in July (18-24 July in 2010,2011,and 2012). The fluorescence results were separately considered, i.e.,the ones obtained on sunny and hot days,when the temperature and lighting were highest,and the other ones obtained on the days, when the temperature at midday did not rise above $2 5 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We conducted quantitative analysis of the characteristics of primary photosynthesis processes based on the parameters of fluorescence kinetic curve using the OJIP-test. The later is based on the theory of energy pathways (Strasser et al.， 2Oo4). For calculations, we used the following parameters of curves,i.e.,minimal fluorescence yield in dark-adapted state ( $\\mathrm { { F } _ { 0 } }$ or O);intensity of fluorescence at $3 0 0 ~ \\mu \\mathrm { s }$ ； intensity of fluorescence at $2 ~ \\mathrm { m s }$ 1 $\\mathrm { \\Delta F _ { 2 m s } }$ , J-peak); intensity of fluorescence at $3 0 ~ \\mathrm { m s }$ 0 $( \\mathrm { F } _ { 3 0 \\mathrm { m s } }$ ，I-peak） and the maximal fluorescence yield in dark-adapted state $\\mathrm { { F } _ { m } }$ or P). The used parameters of the OJIP-test, as well as formulas for their calculation (Kalaji et al., 2014) are given in Table 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/166d66a02b94284f98cc93004fcf35c6f231c392f452f7a3600c8f2344a8f214.jpg",
+        "table_caption": [
+            "Table 2 Parameters of OJIP-test "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Parameters of OJIP-test</td><td>Description</td></tr><tr><td>Vj=(F2ms-Fo)/Fv</td><td>Relative variable fluorescence at 2 ms (J-step)</td></tr><tr><td>V1=(F30ms-Fo)/Fv</td><td>Relative variable fluorescence at 30 ms (I-step)</td></tr><tr><td>Y0=ET/TRo=(1-Vj)</td><td>Probability that a photon trapped by the PS-II reaction center enters the electron transport chain beyond QA (the primary electron acceptor quinone in PS-II) (at t=0)</td></tr><tr><td>RC/ABS=(F2ms-F0)/4(F300μs-F0))×(Fv/Fm)</td><td>Density of operative photosystems.RC/ABS-fraction of active (QA-reducing) PS-II reaction centers.</td></tr><tr><td>F/Fo</td><td>Contribution of light reactions to primary photochemistry is estimated.</td></tr><tr><td>φpo=TRo/ABS=1-Fo/Fm=Fv/Fm</td><td>Maximum quantum yield of primary photochemistry at t=0</td></tr><tr><td>PABs=(RC/ABS)(φP/(1-φpo))(Po/(1-Y0))</td><td>Performance index (potential） for energy conservation from photons absorbed by PS-II to the reduction of intersystem electron acceptors</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It was previously shown that the parameter PABs is more sensitive to environmental changes compared to $\\mathrm { F _ { v } / F _ { m } }$ (Brestic and Zivcak,2O13). The PABs value characterizes the photosynthetic efficiency of PS-II determined by three basic processes,i.e., efficiency of light energy accumulation, efficiency of the excitation energy capture and the one of the use of excitation energy in photosynthesis processes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4Stomatal conductance, transpiration, and photosynthetic rate ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to evaluate the rate of carbon dioxide assimilation, we determined the stomatal conductance. transpiration,rate of carbon dioxide assimilation,as well as carbon dioxide concentration in the fully developed leaves from the middle part of the plants，without signs of damage. The measurements were done using a portable gas analyzer (LCi Photosynthesis System, ADC BioScientific Ltd., Hoddesdon, England). Water use efficiency (WUE) was calculated as ratio of net photosynthesis to transpiration. The data on the air temperature and light intensity were measured. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We determined field soil humidity and full field water capacity (FFWC) according to the method of Vadyunina and Korchagina (1986). We calculated the deficiency of vapour in the air according to the formula of Murray (1967) with the temperature and air humidity being taken into account. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To determine the Chl fluorescence and photosynthesis parameters, we performed each experiment with five biological replicates. To study the Chl concentration, we performed the experiments with 5-9 biological replicates. Statistical analyses were conducted using the Excel software, package MS Office 2007,and StatSoft STATISTICA 12. The normality of the distribution was assessed using the Shapiro-Wilk criterion. The significance of diferences between variants was determined using Student's $t$ -criterion $( P { \\le } 0 . 0 5 )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Soil physical properties showed that in the underbrush of the pine forest near the Yagodnoye Village, on the sites of apple trees growing next to the mountain stream, the soil moisture was $7 1 . 0 \\%$ （204 $( \\pm 4 . 2 \\% )$ （20 of FFWC in June,and in July it varied only a little. Soil humidity on the site in the Irkutsk City was $7 9 . 6 \\%$ （204 $( \\pm 9 . 1 \\% )$ of FFWC in June and July. In the case of hot weather in June in the Irkutsk City, soil humidity was sustained at an optimal level ( $7 5 \\% - 8 0 \\%$ of FFWC). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There was no significant difference between the values of photosynthetically active radiation obtained in the Yagodnoye and Irkutsk sites (Fig. 1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1788ddcfff223aec2279d54a4ebbdbbc76d1f1ba398e1303f8b482e4c9d1afd.jpg",
+        "img_caption": [
+            "Fig.1Diurnal variation of photosyntheticaly active radiation in the Irkutsk (a,21 June 2010)and Yagodnoye(b, 13 June 2O1O) sites.The bars indicate standard error for five replicates. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The total Chl content in the leaves increased in July compared to June.As for the trees growing under natural conditions of the Yagodnoye Village,total Chl content was lower in June and July compared to the trees growing in the Irkutsk City (Fig. 2a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There were no significant differences in the ratio of Chl s to carotenoids in the trees in control and experimental sites, including periods in June and July (Fig.2b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It was found that in June and July, plants from both studied sites,according to the main parameters of Chl fluorescence, had quite a functional photosynthetic mechanism (Tables 3 and 4). This was confirmed by low values of $\\mathrm { F } _ { 0 }$ as well as by a high level of potentially maximum level of Chl fluorescence $( \\mathrm { F _ { v } / F _ { m } } )$ in the morning. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "However, drought of the forest-steppe zone in June had an adverse effect on photosynthetic efficiency of the Siberian crabapple (Table 3).In June,the evaluated groups differed in the basic parameters of Chla fluorescence only slightly during morning hours. This difference increased during midday hours. The result showed that plants growing in the Irkutsk City had a large value of $\\mathrm { F _ { v } / F _ { 0 } }$ . This suggests a greater probability of capturing the excited energy by PC-I antenna systems of these apples' leaves (Table 3), which, in turn, influenced the values of PABs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/69a5a2bb79fcab5b60bc78f07f4493a59f6111ab18e0376935695359d7af3f36.jpg",
+        "img_caption": [
+            "Fig.2Total Chl content (a)and the ratioof Chl to carotenoid (b)in the leaves of the Siberian crabapple growing inthe Yagodnoye Vilage and Irkutsk City.The bars indicate standard deviation for fivereplicates.Asterisks $( ^ { * } )$ indicate significant differences between all obtained data at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b23e087a4daff8f4ff9deb6f29a0b458b13e5c872711ed15accedcc65d8ecb8.jpg",
+        "table_caption": [
+            "Table 3 Parameters of Chl fluorescence and OIJP-test in the Siberian crabapple leaves in June "
+        ],
+        "table_footnote": [
+            "Note:MeanSE.Asterisks(indicatesignificantdierencesbetweenthedataobtaiedinteIrkutskCityandYagodnoyeVillgeat $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">June (Irkutsk City)</td></tr><tr><td></td><td>F0</td><td>ETR</td><td>Y(II)</td><td>Y(NPQ)</td><td>Fv/Fm</td><td>VJ</td><td>Y0</td><td>RC/ABS</td><td>Fv/F0</td><td>PABS</td></tr><tr><td>Morning</td><td>0.11±0.01</td><td>47±5</td><td>0.20±0.04*</td><td>0.51±0.05*</td><td>0.78±0.01</td><td>0.33±0.01</td><td>0.67±0.03</td><td>0.36±0.03</td><td>3.25±0.10</td><td>2.30±0.11</td></tr><tr><td>Noon</td><td>0.12±0.01</td><td>35±8</td><td>0.24±0.03*</td><td>0.45±0.03*</td><td>0.77±0.01</td><td>0.30±0.01*</td><td>0.69±0.01</td><td>0.37±0.02</td><td>3.34±0.19*</td><td>2.78±0.17*</td></tr><tr><td>Evening</td><td>0.11±0.01</td><td>36±5</td><td>0.15±0.01*</td><td>0.46±0.04*</td><td>0.77±0.02</td><td>0.34±0.01</td><td>0.66±0.02</td><td>0.38±0.03</td><td>3.58±0.30</td><td>2.69±0.15</td></tr><tr><td colspan=\"10\">June (Yagodnoye Village)</td></tr><tr><td>Morning</td><td>0.12±0.01</td><td>36±5</td><td>0.10±0.03</td><td>0.60±002</td><td>0.76±0.01</td><td>0.31±0.03</td><td>0.69±0.04</td><td>0.32±0.02</td><td>3.01±0.20</td><td>2.20±0.17</td></tr><tr><td>Noon, temperatures</td><td>0.11±0.01</td><td>38±11</td><td>0.14±0.03</td><td>0.56±0.02</td><td>0.73±0.01</td><td>0.36±0.01</td><td>0.64±0.01</td><td>0.36±0.02</td><td>2.79±0.30</td><td>1.80±0.16</td></tr><tr><td>above 25C Noon, temperatures</td><td>0.11±0.01</td><td>36±9</td><td>0.14±0.03</td><td>0.58±0.02</td><td>0.76±0.02</td><td>0.36±0.03</td><td>0.71±0.03</td><td>0.34±0.02</td><td>3.08±0.06</td><td>2.29±0.15</td></tr><tr><td>below 25C Evening</td><td>0.10±0.01</td><td>20±5</td><td>0.07±0.01</td><td>0.61±0.02</td><td>0.78±0.02</td><td>0.33±0.01</td><td>0.67±0.01</td><td>0.33±0.01</td><td>4.25±0.27</td><td>2.23± 0.16</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f17d8d713479e3e1c950eeeff38cb71d734b95ff622a81a8d47a39fba48b5328.jpg",
+        "table_caption": [
+            "Table 4 Parameters of Chl fluorescence and OIJP-test in the Siberian crabapple leaves in Jul: "
+        ],
+        "table_footnote": [
+            "Note:Mean±SE.Asterisks()indicatesignificantdiferencesbetweethedataobtainedintheIrkutskCityandYagodnoye Villgeat $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"12\">July (Irkutsk City)</td></tr><tr><td></td><td>F0</td><td>ETR</td><td>Y(II)</td><td>Y(NPQ)</td><td>Fv/Fm</td><td>Vi</td><td>Y0</td><td>RC/ABS</td><td>Fv/F0</td><td>PABS</td></tr><tr><td>Morning</td><td>0.11±0.01</td><td>40±8</td><td>0.21±0.03*</td><td>0.51±0.02</td><td>0.79±0.02</td><td>0.29±0.01</td><td>0.72±0.02</td><td>0.35±0.01</td><td>3.77±0.02</td><td>3.21±0.15</td></tr><tr><td>Noon</td><td>0.11±0.01</td><td>42±5</td><td>0.25±0.02*</td><td>0.47±0.03*</td><td>0.78±0.01</td><td>0.29±0.01</td><td>0.72±0.01</td><td>0.35±0.01</td><td>3.40±0.02</td><td>2.90±0.20</td></tr><tr><td>Evening</td><td>0.11±0.01</td><td>40±9</td><td>0.21±0.06*</td><td>0.51±0.07</td><td>0.79±0.02</td><td>0.29±0.01</td><td>0.72±0.02</td><td>0.35±0.01</td><td>3.36±0.06</td><td>2.79±0.20</td></tr><tr><td colspan=\"9\">July (Yagodnoye Village)</td></tr><tr><td>Morning</td><td>0.10±0.01</td><td>33±5</td><td>0.12±0.02</td><td>0.52±0.03</td><td>0.77±0.01</td><td>0.28±0.02</td><td>0.72±0.01</td><td>0.35±0.02</td><td>3.45±0.27</td><td>3.08±0.12</td></tr><tr><td>Noon, temperatures</td><td>0.10±0.01</td><td>40±6</td><td>0.10±0.02</td><td>0.61±0.02</td><td>0.79±0.02</td><td>0.28±0.01</td><td>0.72±0.01</td><td>0.33±0.01</td><td>3.20± 0.23</td><td>2.60±0.12</td></tr><tr><td>above 25C Noon, temperatures</td><td>0.10±0.01</td><td>34±9</td><td>0.12±0.04</td><td>0.56±0.04</td><td>0.77±0.01</td><td>0.31±0.02</td><td>0.69±0.02</td><td>0.35±0.02</td><td>3.38±0.19</td><td>2.70±0.11</td></tr><tr><td>below 25C Evening</td><td>0.10±0.01</td><td>33±5</td><td>0.12±0.02</td><td>0.52±0.03</td><td>0.77±0.01</td><td>0.28±0.02</td><td>0.72±0.01</td><td>0.35±0.02</td><td>3.45±0.27</td><td>3.08±0.12</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The main differences observed between the plants growing under natural conditions and the ones growing in the Irkutsk City were the differences in the parameters of YII (real quantum efficiency of PSI). And this value was about 1.5 times higher (see Table 3) from the Irkutsk City than that from the Yagodnoye Village.This fact obviously reflects the diference in the degree of photochemical usage of the absorbed PS-II light energy in the studied apple trees. In addition, the apple plants growing under natural conditions showed a larger quantum yield of Y(NPQ) (non-photochemical fluorescence quenching). Values of $\\mathrm { F _ { v } / F _ { m } }$ ， YII,and Y(NPQ) indicated that leaves reduced the negative effects of drought on the photosynthetic apparatus through its down-regulation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The data on OIJP-test also indicated the intensification of the negative impact of the contact area's adverse conditions on the PS-I apple leaves in June,at midday, when the temperature on a sunny day reached values above $2 5 ^ { \\circ } \\mathrm { C }$ . This was accompanied by a decrease of the parameter $\\mathrm { F _ { v } / F _ { m } }$ and index PABs (Table 3). In this case, the relative variable fluorescence at 2 ms $\\mathrm { ( V _ { J } ) }$ rate was increased in the experimental trees in comparison with control plants. It indicated a gain in the proportion of closed reaction centers to their total number. In the Siberian crabapple trees growing in the Irkutsk City, the rate of the parameter $\\mathrm { F _ { v } / F _ { 0 } }$ ，which characterizes the ability of antenna systems to capture energy,was higher than that of trees growing in natural environment. The treated trees in the Irkutsk City also had a greater value of $\\Psi _ { 0 }$ indicators,which reflected the greater probability of electron transfer from the primary electron acceptor quinone in PS-II $\\mathrm { ( Q _ { A } ) }$ to quinone pool. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In July, the spring-summer drought is somewhat mitigated by increased air humidity and rainfall in the Transbaikalia region (Table 1). Increasing moisture content led to an improvement in the state of PS-II plant leaves in both variants of the experiment. Nevertheless, the values of real quantum efficiency of the PS-II as in all other cases indicated that the proportion of absorbed light energy, which went to the photochemical work,was greater in the trees growing in the Irkutsk City (Table 4). Apparently,this is due to the fact that despite the slight increase in air humidity, water vapour pressure deficit values remain high because of the high air temperature in the Transbaikalia region (Fig. 3). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8531cf823fcb08d49a999ddf879149244ef540a7c88af5c4e3179f08d4fcb442.jpg",
+        "img_caption": [
+            "Fig.3Vapour pressure deficit in the Yagodnoye Villageand Irkutsk City in June (a)and July (b).The bars indicate standard error for thirty-three replicates. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Due to the higher temperature and lower humidity, the VPD values were higher at the control site in both July and June (Fig. 3). It was found that high VPD values were accompanied by a higher wind speed. This trend was typical for both months (Fig. 4). The correlation coefficients in the Irkutsk City were O.988 in June and 0.955 in July,and they were 0.970 in June and 0.955 in July in the Yagodnoye Village. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The findings on carbonic gas assimilation speed testify to significant differences between the control variants and the experimental ones (Table 5). These differences are caused by the environmental conditions. In the morning,the leaves of apples growing in the Irkutsk City asimilate carbonic gas more intensively. This is due to the presence of available moisture in soil and higher air humidity, which allow the plants to keep stomata open. This provides the necessary access of carbonic gas to carboxylation sites. The lower air humidity in the Yagodnoye Village resulted in the following changes,i.e., the stomatal conductance for the vapour and transpiration decreased by a factor of more than two to reduce the unreasonably high water loss in the crabapple leaves. All this resulted, eventually， in reduction of the speed of carbonic gas assimilation by the leaves of experimental trees in the Yagodnoye Village by more than $2 7 \\%$ compared to control trees in the Irkutsk City.The activation of the mechanisms contributing to the optimization of water consumption (the stomata closure and, hence，the decrease in their conductance) resulted in the WUE increase during photosynthesis in naturally growing plants,i.e., it was $42 \\%$ higher than in control plants. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5aa32e8ea099da8f5d171ba34c5b67afc71d541cb7a3e4375695730015a97d7.jpg",
+        "img_caption": [
+            "Fig.4Wind speed in the Yagodnoye Vilage and Irkutsk City in June (a)and July(b).Thebars indicate standard error for thirty-three replicates. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e043302a82591b5a446f69f1784ffe6e0aab67a74e4b2b75c5bf1c6e158f29b.jpg",
+        "table_caption": [
+            "lable 5Leaf gas exchange parameters of the Siberian crabapple trees "
+        ],
+        "table_footnote": [
+            "Note:Mean±SE.Asterisks（）indicatesignificantdiferencesbetweenthedataobtainedintheIrkutskCityandYagodnoye Vilageat $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Parameter</td><td colspan=\"3\">Yagodnoye Village</td><td colspan=\"3\">Irkutsk City</td></tr><tr><td>Morning</td><td>Noon</td><td>Evening</td><td>Morning</td><td>Noon</td><td>Evening</td></tr><tr><td>Rate of transpiration (mmol/(m²-s))</td><td>2.26±0.20*</td><td>2.86±0.45*</td><td>2.06±0.36*</td><td>5.90±1.06</td><td>6.64±1.28</td><td>5.42±0.99</td></tr><tr><td>Stomatal conductance of water vapour (mol/(m²·s))</td><td>0.28±0.02*</td><td>0.13±0.03*</td><td>0.10±0.01*</td><td>0.69±0.28</td><td>0.28±0.07</td><td>0.23±0.05</td></tr><tr><td>Rate of carbon dioxide assimilation (μmol/(m²·s))</td><td>13.51±1.24*</td><td>9.82±1.25</td><td>10.25±1.19</td><td>18.89±2.63</td><td>12.51±3.01</td><td>13.28±2.76</td></tr><tr><td>Water use efficiency</td><td>5.57</td><td>3.43</td><td>4.97</td><td>3.20</td><td>1.88</td><td>2.45</td></tr><tr><td>Carbon dioxide concentration in the leaves (μmol/mol)</td><td>253±21</td><td>222±19</td><td>219±17</td><td>268±17</td><td>229±15</td><td>223±18</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It is generally believed that the change in the ratio of Chls to carotenoids against the background of a decrease in the total number of Chls points towards plant stress status (Lichtenthaler and Babani, 2Oo4). Since in our case the level of Chl reduction in apple is not accompanied by the changes in Chls/carotenoids ratio,it may be assumed that the reduction in total Chl content is adaptive in its nature (the reduction in the ability to capture radiant energy). It was found that under conditions of drought the excessive absorption of light by photosynthetic apparatus was accompanied by the formation of reactive oxygen species，adversely affecting the cels. The reduction of their amount can be achieved by degradation of a certain part of photosynthetic pigments (Liu et al., 2011). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It is known that the dissipation of excess light energy via xanthophyll cycle acts as a photoprotective mechanism, since the light energy is turned into heat (Jahns et al.,2O12). At high light levels, when the stomatal conductance is reduced at the background of the available carbon dioxide,the leaves generate more energy than that consumed by the Calvin cycle. In such circumstances, down-regulation of photosynthesis can be a powerful mechanism of protection of $\\mathrm { C } _ { 3 }$ plants against photodamage (Cruces et al.,2017). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Since all of the studied trees are sufciently provided with soil moisture, the decrease in the real quantum yield of PS-II and the increase in the share of non-photosynthetic quenching may be due to the adverse influence of temperature and low air humidity. High values of VPD,which depend on these parameters, lead to an intensification of physiological stress in plants during drought and to an increase of water loss in anisohydric plants or to the reduction of carbon absorption in isohydric types (McDowell et al., 2008). Increased wind speed at the experimental site brings certain adverse contribution to the strengthening action of drought (Huang et al., 2016). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Our results confirm the information about the effect of drought on Chl fluorescence obtained for the Siberian crabapple trees growing in Hunshandak sandland in Inner Mongolia of China, the region with the symptoms of desertification. This work shows that significant damages to photosynthetic apparatus of the Siberian crabapple can be caused by the temperatures exceeding $2 5 ^ { \\circ } \\mathrm { C }$ or photosynthetically active radiation (FAR) more than 1500 photons per meter per second (Li et al.,2003). According to our data, FAR in the Yagodnoye Vilage and Irkutsk City did not exceed this level and was the same for the study areas on a sunny and cloudless day in June. Therefore，in our experiment， natural apple plants were subjected only to thermal stress, accompanied by an increase in the VPD. In contrast to plants growing under natural conditions, in the leaves of the Siberian crabapple in the Irkutsk City,at midday, there was no evidence of down-regulation of the PS-II. It is most likely, that this is the result of cooling effect of the transpiration, the level of which was twice higher in the Irkutsk City than in the Yagodnoe Village. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "There are two stages of the stomatal conductance reaction to the VPD changes.At the first stage, the conductance is close to the maximum at low or moderate VPD, but it shows a strong decrease after a certain threshold, which has been found in apple trees (Kullaj et al.,2017) and wheat (Schoppach et al., 2017). It is assumed that at low VPD, stomatal conductance is adjusted according to the feedback by the products of photosynthesis. Stomatal restriction becomes a limiting factor of photosynthesis at higher VPD. VPD values of about $1 . 5 \\mathrm { { k P a } }$ are considered to be close to the threshold value of this parameter for the domestic apple (Massonnet et al., 2007). In our case,this threshold was certainly exceeded. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It is known that plants use essentially different mechanisms of adaptation to drought of different intensity. When there is enough water in the ground, apple plants can successfully use the isohydric strategy of adaptation. This strategy allows a plant to keep the stomata open during a long time as well as to maintain gas exchange, photosynthesis, and accumulation of biomass. In our opinion, it is the open stomata along with the need for leaves cooling that explains the increase in transpiration by the apple leaves at midday. For this reason, WUE decreases during photosynthesis at this time. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In our experiments,we found changes in the photosynthetic apparatus of the Siberian crabapple under the influence of air drought accompanied by a normal soil moisture supply. Under these conditions, total Chl content is reduced in the leaves. The probability is that high illumination and forced stomatal closure make the lower Chl content sufficient for the leaves to undergo photosynthesis. The trees of the Siberian crabapple, growing in the forest-steppe zone, have quite an efficient photosynthetic apparatus during the morning hours, regardless of the influence of spring-summer air drought. This is confirmed by the result that $\\mathrm { F } _ { 0 }$ is not increased. Meanwhile, $\\mathrm { F _ { v } / F _ { m } }$ is at a sufficiently high level, and the difference in $\\mathrm { \\Delta P _ { A B S } }$ is not statistically significant. The influence of air drought on the PS-II leads to the decrease in the fraction of absorbed light energy spent on the photochemical work.At the same time,the increase in the quantum yield of non-photochemical fluorescence quenching-Y(NPQ) occurs. High temperature (more than $2 5 ^ { \\circ } \\mathrm { C }$ ） and low air humidity at midday and early in the afternoon have an adverse effect on the PS-I of the Siberian crabapple, inducing a slight decrease in the coefficient of contingency $\\mathrm { F _ { v } / F _ { m } }$ as well as the decrease in the PABs. Due to spring-summer drought and the windy weather, the unfavorable conditions negatively influence the assimilation of carbon dioxide in the Siberian crabapple. The increase in the vapour pressure deficit leads to a decrease in the stomatal conductance for water vapour by a factor of more than two with the corresponding decrease in transpiration in the crabapple leaves.All this leads,at the end of the day, to the decrease in the carbon dioxide assimilation rate by more than $2 7 \\%$ as compared to the control variant (Irkutsk City).Due to the decrease in transpiration, the water use effciency of crabapples growing in more intense drought conditions increases during the processes of photosynthesis. It can be considered as an adaptation to such conditions. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The research was funded by the Siberian Branch of the Russian Academy of Sciences (Integration Project No. 105).The work was performed atthe Siberian Institute ofPlant Physiology and Biochemistry,Siberian Branchof the Russian Academy of Sciences (Irkutsk City). We thank Dr. Larisa GARKAVA-GUSTAVSSON for comments on the manuscript and Dr.Alexandra YAZEVA for her work on the translation of the manuscript. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AnenkhonovOA,KorolyukAY,SandanovDV,etal.20l5.Soil-moistureconditionsindicatedbyfield-layerplantshelp identify vulnerable forests inthe forest-steppeofsemi-arid Southern Siberia.Ecological Indicators,57:196-207.   \nBasu S,Ramegowda V, Kumar A,etal.2016.Plant adaptation todrought stres.F10oResearch,5(F10oo Faculty Rev): 1554-1563.   \nBodner G,NakhforooshA,KaulH-P.2Ol5.Managementofcropwaterunderdrought:areview.AgronomyforSustainable Development,35(2): 401-442.   \nBorlandAM,WulschlegerSD,WestonDJ,etal.20l5.Climate-resilientagroforestry:physiologicalresponsestoliate changeand engineeringofcrassulaceanacid metabolism(CAM)asamitigationstrategy.Plant,CellandEnvironment,38(9): 1833-1849.   \nBrestic M,Zivcak M.2O13.PSI fluorescence techniques formeasurementofdroughtandhigh temperature stressignal incrop plants: protocols and applications.In: Rout G,Das A.Molecular StressPhysiologyof Plants.India: Springer,87-131.   \nCruces E,RautenbergerR,Rojas-LilloYtal.217.PhysiologicalaclimationofLessoniaspicatatduralchangingAR and UVradiation:diferential regulation among down-regulation of photochemistry，ROS scavenging activity and phlorotannins as major photoprotective mechanisms.Photosynthesis Research,131(2):145-157.   \nGhotbi-RavandiAA,Shahbazi M,Shariati M,etal.2O14.Effectsof mildandseveredroughtstressonphotosynthetic effciency in tolerantandsusceptible barley(HordeumvulgareL.）genotypes.Journalof Agronomyand Crop Science, 200(6): 403-415.   \nHuangP，WanX,LieffersVJ.2016.Daytimeand nighttime wind diferentiallyaffectshydraulicpropertiesand thigmomorphogenic response of poplar saplings.Physiologia Plantarum,157(1): 85-94.   \nJahnsP,HolzwarthAR.2012.Theroleofte xanthophyllcycleandofluteininphotoprotectionofphotosystemII Biochimica et Biophysica Acta,1817(1):182-193.   \nKalaji HM,SchaskerGLadleRJ,etal.014.Frequentlyskedquestionsaboutinvvolorophylfuorescene:practical issues.Photosynthesis Research,122(2):121-158.   \nKharuk VI,RansonKJ,OskorbinPA,etal.2013.Climate inducedbirch mortalityinTrans-Baikallakeregion,Siberia.Forest Ecology and Management,289: 385-392.   \nKullajE,Avdiu V,LepajaL,etal.2017.Modeling canopytranspiration and stomatalconductanceof youngapplesusinga parameterized Penman-Monteith equation.Acta Horticulture,1177: 405-412.   \nLangY,WangM,XiaJ,etal2O18.Efectsofsoildroughtstressonphotosyntheticgasexchangetraitsandchlorophyl fluorescence in Forsythia suspense.Journal of Forestry Research,29(1):45-53.   \nLawBE.2015.Regional analysis of droughtand heat impacts on forests: current and future science directions.Global Change Biology,20(12): 3595-3599.   \nLi YG,Jiang GM,Niu SL,et al.2Oo3.Gas exchangeand wateruse eficiencyof threenative tree species in Hunshandak Sandland of China.Photosynthetica,41(2): 227-232.   \nLiangE，LeuschnerC,Dulamsuren C,et al.2016.Global warming-related tree growth decline and mortality on the north-eastern Tibetan plateau. Climatic Change,134(1-2): 163-176.   \nLichtenthaler HK,BabaniF.2O04.Lightadaptationandsenescenceof thephotosynthetic apparatus.Changes in pigment composition,chlorophyllfluorescence parameters and photosyntheticactivity.In:Papageorgiou GC,GovindjeeAdvances in Photosynthesis and Respiration.Dordrecht: Springer,713-734.   \nLiu C,Liu Y,GuoK,etal.2011.Efectofdroughtonpigments,osmoticadjustmentandantioxidantenzymes insixwoody plant species in karst habitats of southwestern China.Environmental and Experimental Botany,71(2):174-183.   \nLiu H,YinY,WangQ,etal.2O15.Climaticeffectsonplantspecies distributionwithintheforest-steppeecotoneinorth China.Applied Vegetation Science,18(1):43-49.   \nMasonetC,CostesE,Rambal S,etal.2o07.Stomatalregulationof photosynthesis inappleleaves:evidencefordiferent water-use strategies between two cultivars.Annals of Botany,l0o(6):1347-1356.   \nMcDowellN,Pockman WT,llen CD,etal.2Oo8.Mechanismsofplantsurvivaland mortalityduring drought:whydoome plants survive while others succumb to drought? New Phytologist,178(4): 719-739.   \nMurray F W.1967.On the computation of saturation Vapor pressure.Journal of Applied Meteorology,6: 203-204.   \nOsipova S,PermyakovA,Permyakova M,et al.2O15.Regionsof the bread wheat Dgenome associated with variation in key photosynthesis taitsandshoot biomassunderboth well wateredand water deficientconditions.Journalof AppliedGenetics, 57(2): 151-163.   \nPerez-MartinA,FexsJ,bas-CarboM,etal.Oo9.nteractiveectsofsoilwaterdeficitadairapourpressredeficiton mesophyll conductance to $\\mathrm { C O } _ { 2 }$ in Vitis.Journal of Experimental Botany,60(8):2391-2405.   \nRudikovskiyAV,RudikovskayaEGDudarevaLV,etal.2Oo8.UniqueandrareformsofSiberianapple treeinSelengadistrict of Buryatia. Siberian Ecological Journal,2:327-333.   \nSchoppachR,FleuryD,SinclairTR,etal.20l7.Transpirationsensitivitytoevaporativedemandacross2Oyearsofbreeding of Australian wheat cultivars. Journal of Agronomy and Crop Science,203(3): 219-226.   \nSehgalA,SitaK,BadariK,etal.2O18.Infuenceofdroughtandheatstress,appliedindependentlyorinombinatiodring seeddevelopment,onqualitativeandquantitativeaspectsofseedsoflentil (Lens culinaris Medikus)genotypes,diering in drought sensitivity.Plant, Cell and Environment,42(1):198-211.   \nStraerRJ,Tsimill-MichaelM,SrivastavaA.O04.Analysisofthechlorophyllafluorescence transient.In:Papageorgiou G C,Govindjee.Advances in Photosynthesis and Respiration.Dordrecht: Springer,321-362.   \nvon WetsteinD.1957.Chlorophyllethalsandsubmicroscopic morphological changes inplastids.ExperimentalCellResearch, 12(3):427-506.(in German)   \nZandalinasSI,MitlerR,BalfagonD,etal.2O18.Plantadaptationstothecombinationofdroughtand hightemperatures. Physiologia Plantarum,162(1): 2-12.   \nZhang SY,ZhangGC,GuSY,etal0l0.Criticalresponsesofphotosytheticeficiencyof goldspurapple treetsoilwater variation in semiarid loess hilly area.Photosynthetica,48(4): 589-595. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

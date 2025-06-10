@@ -1,0 +1,284 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PRDM1基因对非霍奇金淋巴瘤细胞增殖能力的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐理华',李 玺²,谭 获1  \n1广州医科大学附属第一医院血液科,广东广州 510230;中山大学附属第三医院甲乳外科,广东广州 510630",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的观察PRDM1对非霍奇金淋巴瘤细胞SUDHL-4增殖能力的影响。方法通过质粒转染的方法在低表达PRDM1的SUDHL-4细胞中过表达PRDM1基因,通过MTT实验、细胞周期分析检测SUDHL-4生物学行为的变化。结果过表达PRDM1的SUDHL-4细胞的生长速度明显下降，细胞 $\\mathrm { G } _ { 0 } / \\mathrm { G } _ { 1 }$ 比例、S期比例下降； $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期比例升高,细胞阻滞于 $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期，差异均有统计学意义 $( P { < } 0 . 0 5 )$ 。结论PRDM1基因表达缺失可能在非霍奇金淋巴瘤的发生发展中起重要作用，可能成为判断非霍奇金淋巴瘤预后的分子标志物及临床治疗的靶点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：非霍奇金淋巴瘤；PRDM1;SUDHL-4细胞 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of PRDM1gene expression on the reproductive ability of non-Hodgkin lymphoma cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XULihual,LIXi,TANHuo   \n1DepartmentofematologyteFstAfilitedHositalofuangzouedicalUniesityuangzou23in;pattf   \nthyroid surgery,theThirdAfliatedHospital of Zhongshan University,Guangzhou 510630,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTo explore theeffectsofPRDM1gene expressionon thereproductiveabilityof Non-HodgkinLymphoma cells SUDHL-4.Methods Non-Hodgkin Lymphoma cells SUDHL-4 was chosed to show thebiology behavior changes after overexpressing PRDM1 gene,trough the MTT test,and cellcycle analysis.Results After overexpresing PRDM1 gene,the proliferation of SUDHL-4 cell were significantly decreased, and cell cycle arrested at ${ \\bf G } _ { 2 } / { \\bf M }$ $( P { < } 0 . 0 5 )$ . Conclusion The loss of PRDM1 gene mayberelated totheoccurrence and developmentof lymphoma,and it may become the molecular diagnostics and new therapy target of lymphoma. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: non-Hodgkin lymphoma; PRDM1; SUDHL-4 cell ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "淋巴瘤是最常见的淋巴造血系统恶性肿瘤，起源于淋巴网状系统，多发生于淋巴结和(或)结外淋巴组织，近年来发病率呈上升趋势[。世界卫生组织将淋巴瘤分为两类，霍奇金淋巴瘤(HL)和非霍奇金淋巴瘤(NHL)，其中HL仅占 $1 0 . 9 \\%$ ,NHL占 $8 9 . 1 \\%$ O",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NHL起源于B细胞和T细胞/NK(自然杀伤)细胞，是一组异质性极高的疾病，在病理、病程、治疗反应等方面均存在极大差异。根据不同的细胞形态、免疫标记、遗传学指标等可进一步分为70多种不同的亚型。近年来，随着分子生物学的迅速发展，人们逐渐认识到恶性淋巴瘤是一个涉及多重基因事件的复杂过程。研究人员致力于探寻非霍奇金淋巴瘤发生的分子机制，进而为早期诊断及制定特定的靶向治疗方案提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1991年，Keller等2发现一种β干扰素分泌抑制因子,将其命名为PRDM1。PRDM1是一种转录抑制子，对哺乳动物的组织发育和分化起着关键的作用。其在成熟B细胞的终末分化中的作用已得到广泛共识。目前有关microRNA对PRDM1的调控的研究已渐渐成为人们关注的热点。PRDM1在弥漫大B细胞淋巴瘤中的肿瘤抑制作用已有很多报道。Mandelbaum等3在约$5 3 \\%$ 的DLBCL中发现了组成型活化BCL-6所介导的转录抑制，从而证实了PRDM1的抑癌作用。PRDM1的失活阻断了细胞的终末分化，而促使DLBCL的发生。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PRDM1基因突变及其表达对于各种类型淋巴瘤的发生和预后都有着重要意义。但关于PRDM1对非霍奇金淋巴瘤细胞行为的影响，国内外均未见报道。本研究通过在非霍奇金淋巴瘤细胞SUDHL-4中过表达PRDM1基因的方法来观察该基因对其增殖能力的影响，现报道如下。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "弥漫大B细胞淋巴瘤细胞株SUDHL-4细胞株购买于ATCC(美国模式培养物研究所);DMEM细胞培养基和胎牛血清购于美国Gibco;pcDNA3.1 $( + )$ -PRDM1表达载体由上海吉凯基因科技公司构建；鼠抗人PRDM1单克隆抗体购自美国SantaCruz。兔抗人多克隆抗 ${ \\mathfrak { \\beta } } .$ 肌动蛋白抗体用作内参，购自美国CellSignalingTechnolog，羊抗兔和兔抗鼠二抗购自北京中杉金桥生物技术有限公司。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1细胞培养 非霍奇金淋巴瘤细胞SUDHL-4细胞接种在含有 $10 \\%$ 胎牛血清、 $1 0 0 \\ \\mathrm { U / m L }$ 庆大霉素的DMEM培养基中，置于 $3 7 \\%$ 二氧化碳孵箱中培养，$0 . 2 5 \\%$ 胰酶常规消化和传代，取对数生长期且细胞活力良好的细胞用于实验。实验细胞分为3组，加入pcDNA3.1 $( + )$ -PRDM1载体的为SUDHL-4-PRDM1组，加入空白质粒的为SUDHL-4-vector组，不做处理的为空白对照组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 电穿孔法转染转染当天配制电穿孔缓冲液[3],置于冰箱预冷。每个样本取 $2 \\times 1 0 ^ { 7 }$ 细胞,加 $4 0 ~ { \\mu \\mathrm { g } }$ 载体。电穿孔条件：电压 $1 6 0 ~ \\mathrm { { m V } }$ ，电阻 $\\boldsymbol { \\mathscr { \\infty } }$ ；电容： $9 5 0 \\mathrm { u F }$ ，电击1次。电穿孔后，加DMEM培养基置于 $3 7 \\mathrm { ~ \\% ~ }$ 二氧化碳孵箱中培养， $2 4 { \\sim } 4 8 \\mathrm { ~ h ~ }$ 后加入puromycin $2 ~ \\mu \\mathrm { g / m L }$ 进行筛选;每周换液3次，培养4周。将筛选出的细胞克隆继续培养在含 $1 . 0 ~ \\mu \\mathrm { g / m L }$ puromycin $30 \\%$ 胎牛血清的DMEM培养基中。用于蛋白质提取、检测细胞活性和细胞周期等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3Western-blotting法检测PRDM1在转染细胞中的表达取对数生长期的SUDHL-4-PRDM1、SUDHL-4-vector，及空白对照组SUDHL-4细胞，加入细胞裂解液后， $4 \\mathrm { { ^ { \\circ } C } }$ 下静置 $^ { \\textrm { 1 h } }$ 低温高速离心 $( 4 \\mathrm { ~ ‰ ~ }$ $3 0 ~ \\mathrm { m i n } ,$ ),提取上清即为总蛋白。经 $12 \\%$ 的SDS-PAGE电泳、转印，脱脂奶粉封闭，抗 $\\beta \\cdot$ -actin(1:500)和抗$\\mathrm { P R D M 1 } \\left( 1 { : } 5 0 \\right) 4 ~ \\mathrm { ^ { \\circ } C }$ 下孵育过夜；二抗室温下孵育 $^ { 2 \\mathrm { ~ h ~ } }$ ECL显色，经自动电泳凝胶成像分析仪采集图像。实验重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4四甲基偶氮唑蓝比色法(MTT法)检测细胞活性分别将 $5 \\times 1 0 ^ { 3 }$ 个/孔 SUDHL-4-PRDM1、SUDHL-4-vector，及空白对照组SUDHL-4细胞接种于96孔细胞培养板中。 $3 7 ~ \\mathrm { ^ { \\circ } C } \\setminus { 5 \\% } \\mathrm { C O } _ { 2 }$ 环境培养，分别于第1\\~7天加入 $5 \\mathrm { m g / m L }$ 的甲基噻唑基四唑(MTT法)工作液 $2 0 ~ \\mu \\mathrm { L }$ 继续培养 $^ { 4 \\mathrm { ~ h ~ } }$ ,弃上清液,每孔加入 $1 0 0 ~ \\mu \\mathrm { L }$ 二甲基亚砜(DMSO)溶液，于微量震荡器震荡 $1 5 \\mathrm { m i n }$ 后用酶标仪测定波长 $4 9 0 \\ \\mathrm { n m }$ 的吸光度值，试验重复3次，每个观察点设5个复孔，取均值进行计算。以时间为横坐标， $. A _ { 4 9 0 }$ 值为纵坐标作图，观察细胞的增殖情况，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5细胞周期测定取对数生长期SUDHL-4-PRDM1、SUDHL-4-vector,及空白对照组SUDHL-4细胞,离心去上清，用冷PBS $( 4 ~ \\mathrm { { ^ { \\circ } C } ) }$ 洗涤细胞后， $8 0 0 ~ \\mathrm { r / m i n }$ 离心 $5 \\mathrm { m i n }$ ,共洗涤2次。用含有 $10 \\%$ 胎牛血清的PBS溶液 $3 0 0 ~  { \\mu \\mathrm { L } }$ 重悬3组细胞，加入 $7 0 0 ~ \\mu \\mathrm { L }$ 无水乙醇固定$3 0 \\mathrm { m i n }$ 。冷PBS( $( 4 ^ { \\circ } \\mathrm { C } )$ 洗涤后， $3 0 0 ~ \\mathrm { r / m i n }$ 离心 $5 \\mathrm { m i n }$ 后，加入 $5 ~ { \\mu \\mathrm { g / L } }$ 碘化丙啶染色 $2 0 { \\sim } 3 0 ~ \\mathrm { m i n }$ 。室温下避光放置 $1 5 \\mathrm { m i n }$ 待测。记录细胞周期的分布并计算细胞凋亡比率。全部数据经FACSCalibur流式细胞仪和CELLQuest软件获取",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 统计学方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS19.0统计软件进行数据分析处理，计量资料用均数 $\\cdot \\pm$ 标准差表示，组建比较采用 $t$ 检验，计数资料采用卡方检验，所有实验重复3次，以 $P { < } 0 . 0 5$ 为差异具有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1非霍奇金淋巴瘤细胞SUDHL-4中PRDM1蛋白表达情况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以 $\\beta$ -actin为对照，非霍奇金淋巴瘤细胞SUDHL-4中转染p $\\mathrm { \\Sigma } _ { \\mathrm { { c D N A 3 . 1 ( + ) } } }$ -PRDM1、pcDNA3.1 $( + )$ 及不做处理后PRDM1蛋白相对表达量分别为 $0 . 7 6 { \\pm } 0 . 0 4 , 0 . 4 6 { \\pm }$ $0 . 0 1 , 0 . 3 8 { \\pm } 0 . 0 2$ 。与空白对照组及空质粒组相比，转染pcDNA3.1 ( $( +$ )-PRDM1后非霍奇金淋巴瘤细胞SUDHL-4中PRDM1蛋白相对表达量明显上升( $\\scriptstyle t =$ $4 . 3 6 5 , P { < } 0 . 0 5 ; t { = } 4 . 3 1 9 , P { < } 0 . 0 5$ ，图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/55a92cbf1f45dec74c07fa573270505383d8fd4c1935ef032c1a9f1d10391499.jpg",
+        "img_caption": [
+            "图1在 SUDHL-4中转染 pcDNA3.1 $( + )$ -PRDM1后，PRDM1表达量增加A:SUDHL-4中转染pcDNA3.1 $+ ^ { - }$ )-PRDM1、pcDNA3.1$( + )$ 及空白对照后，PRDM1表达情况; $B$ ：PRDM1与内参$\\beta \\mathrm { . }$ -actin相对表达量."
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2MTT检测结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过MTT法绘制SUDHL-4-PRDM1、SUDHL-4-vector,及空白对照组SUDHL-4细胞的生长曲线以研",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "究PRDM1的表达对细胞增殖的影响。与空质粒组及空白对照组细胞相比，转染PRDM1的SUDHL-4细胞其生长速度明显下降，差异有统计学意义( $\\scriptstyle \\phantom { + } ( P < 0 . 0 5$ ，图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9eda597ec7b65e46c02113789a366e0b6143305f4b2859ec28cbb64bcfa53de.jpg",
+        "img_caption": [
+            "图2MTT 实 验 检 测 SUDHL-4-PRDM1、SUDHL-4-vector,及空白对照组SUDHL-4细胞增殖能力的差异。"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3细胞周期检测结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SUDHL-4-PRDM1、SUDHL-4-vector,及空白对照组SUDHL-4细胞的G0/G1比例、S期比例， $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期比例见表1，SUDHL-4-PRDM1组的 $\\mathrm { { G } } _ { 0 } / \\mathrm { { G } } _ { 1 }$ 比例、S期比例，低于空质粒组及空白对照组； $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期比例高于空质粒组及空白对照组，差异有统计学意义( $\\scriptstyle \\left( P < 0 . 0 5 \\right.$ ,表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1991年，Keller等2发现一种β干扰素分泌抑制因子，该蛋白可特异性结合β干扰素基因的启动子阳性调控区I,遂将其命名为PRDM1。Turner等5发现IL-2和IL-5可以诱导小鼠淋巴瘤细胞株BCL-1中Blimp1表达，而过表达Blimp1可促使B细胞向浆细胞分化。后续的研究显示，小鼠的Blimp1蛋白与人类的PRDM1蛋白具有高度同源性[4]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人PRDM1基因定位于染色体6q21-22.1,而该区域在多种恶性肿瘤中均存在缺失突变，故此推测PRDM1基因是抑癌基因[。PRDM1基因有2种转录本：PRDM1α和PRDM1β。PRDM1α由PRDM1基因的正常启动子启动编码，含789个氨基酸，由5个结构域组成，即氨基端酸性区、PR结构域、脯氨酸富集区、5个锌指结构和羧基端酸性区[。PRDM1β缺失了1\\~3号外显子，由4号外显子上游的新启动子启动编码，含687个氨基酸。由于PRDM1β的功能缺陷，丧失了对多个靶基因的调控作用，因此可能具有与PRDM1a相反的功能。而传统意义上PRDM1蛋白指的是PRDM1α。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac7d19c91b899575bd9736d9b71e24217bfbbcae4ccf13d94999a9aeb6f9c40e.jpg",
+        "table_caption": [
+            "表1细胞周期分析结果 $( \\% )$ "
+        ],
+        "table_footnote": [
+            "$^ { * } P { < } 0 . 0 5 \\ v s$ 对照组"
+        ],
+        "table_body": "<html><body><table><tr><td>组别</td><td>G/G1</td><td>S</td><td>G/M</td></tr><tr><td>SUDHL-4-PRDM1</td><td>40.1±3.2 *</td><td>38.5±3.7*</td><td>26.1±2.9 *</td></tr><tr><td>SUDHL-4-vector</td><td>48.9±3.6</td><td>48.7±3.3</td><td>10.1±1.6</td></tr><tr><td>SUDHL-4</td><td>47.2±3.1</td><td>49.6±3.5</td><td>9.2±1.8</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PRDM1对哺乳动物的组织发育和分化起着关键的作用。在小鼠的胚胎发育过程中，多种组织中都可以检测到Blimp1蛋白表达，如胎盘、心脏、前肢和感觉器官和等。但在Blimp1基因敲除小鼠的胚胎中，妊娠10.5d后胚胎即死亡，且胎盘、支气管不能正常发育，血管结构也不完整9。PRDM1在B细胞终末分化中所发挥的重要作用已经被多个研究证实。已知有4种转录因子及其靶基因与B细胞分化密切相关，分别是PRDM1、BCL-6、PAX5和XBP-1。在成熟B细胞阶段，PRDM1表达被BCL-6抑制；到生发中心后期，BCL-6的表达下调，而PRDM1表达增强，并可通过抑制PAX5,诱导XBP-1表达,以促进B细胞向浆细胞分化[10-11]。目前关于microRNA对PRDM1的调控的研究已渐渐成为人们关注的热点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PRDM1在弥漫大B细胞淋巴瘤中的肿瘤抑制作用已有很多报道，近年来的多个实验结果为该理论提供了新的依据。Tam等[1对DLBCL细胞系进行了PRDM1基因的分析，发现了一些集中于第2外显子第2内含子处剪接供体位点的点突变，从而导致剪接错误，致使野生型PRDM1α和PRDM1β均表达缺失。Mandelbaum等3发现导致PRDM1基因失活的机制包括了纯合子缺失、截短或错义突变,并且在约 $5 3 \\%$ 的DLBCL中发现了组成型活化BCL-6所介导的转录抑制，从而证实了PRDM1的抑癌作用。PRDM1的失活阻断了细胞的终末分化，而促使DLBCL的发生。但关于PRDM1对非霍奇金淋巴瘤细胞行为的影响，国内外均未见报道。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了研究PRDM1基因在非霍奇金淋巴瘤中的作用，我们采用在非霍奇金淋巴瘤细胞SUDHL-4中过表达PRDM1基因的方法来观察该基因对其增殖能力及细胞周期的影响，研究结果显示，SUDHL-4细胞转染PRDM1后,细胞生长速度较空载体组及空白对照组明显下降，细胞周期分析发现，转染PRDM1的SUDHL-4细胞 $\\mathbf { G } _ { 0 } / \\mathbf { G } _ { 1 }$ 比例、S期比例，低于空载体组； $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期比例高于空载体组，细胞阻滞于 $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期，由此推测PRDM1基因过表达引起SUDHL-4细胞细胞周期分布改变可能是影响细胞增殖及凋亡的重要原因之一，与Tam及Mandelbaum报道的PRDM1在DLBCL中表达缺失及PRDM1可发挥抑癌作用相一致，并进一步阐明了其发挥抑癌作用的可能机制，对明确非霍奇金淋巴瘤的生物学行为具有重要意义，有助于了解非霍奇金淋巴瘤的生物学特性,预测肿瘤的复发、转移，为针对PRDM1的靶向治疗提供理论依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对PRDM1表达缺失引起的非霍奇金淋巴瘤发生发展而设计的特异靶向药物具有重要的治疗价值，不仅有助于非霍奇金淋巴瘤发生发展机制的研究，且也为肿瘤的治疗提供了有希望的靶点。但其调控细胞增殖能力的确切机制和路径仍有待于进一步研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Grund EM,Muise-Helmericks RC.Cost efficient and effective gene transfer into the human natural killer cell line,NK92[J].J Immunol Methods,2005,296(1/2): 31-6.   \n[2]Keller AD,Maniatis T.Identification and characterization of a novel repressor of beta-interferon gene expression[J].Genes Dev,1991,5 (5):868-79.   \n[3]Mandelbaum J,Bhagat G,Tang HY,et al.Blimpl is a tumor suppressor gene frequently disrupted in activated B cell-like diffuse large B cell lymphoma[J].Cancer Cell,2010,18(6): 568-79.   \n[4]Grund EM,Muise-Helmericks RC.Cost efficient and effective gene transfer into the human natural killer cell line,NK92[J].J Immunol Methods,2005,296(1/2): 31-6.   \n[5]Turner CJ,Mack DH,Davis MM.Blimp-1,a novel Zinc fingercontaining protein that can drive the maturation of B lymphocytes into immunoglobulin-secreting cells[J]. Cell,1994,77(2): 297-306.   \n[6]Huang S.Blimp-1 is the murine homolog of the human transcriptional repressor PRDI-BF1[J].Cell,1994,78(1): 9-13.   \n[7] Mock BA,Liu L,Lepaslier D,et al. The B-lymphocyte maturation promoting transcription factor Blimpl/PRDI-BFlmaps to D6S447 on human chromosome 6q21-q22.1 and the syntenic region of mouse chromosome 10[J].Genomics,1996,37(1): 24-8.   \n[8]Gyory I,Wu J,Fejer G,et al.PRDI-BF1 recruits the histone H3 methyltransferase G9a in transcriptional silencing[J].Nat Immunol, 2004,5(3): 299-308.   \n[9]Gyory I,Fejer G,Ghosh N,et al.Identification of a functionally impaired positive regulatory domain I binding factor 1 transcription repressor in myeloma cell lines [J].J Immunol,20o3,170(6): 3125-33.   \n[10]Lin J,Lwin T,Zhao JJ,et al.Follicular dendritic cellinduced microRNA-mediated upregulation of PRDM1 and downregulation of BCL-6 in non-Hodgkin's B-cell lymphomas[J].Leukemia, 2011, 25(1): 145-52.   \n[11]Calame K.Activation-dependent induction of Blimp-1[J].Curr Opin Immunol, 2008,20(3): 259-64.   \n[12] Tam W,Gomez M,Chadburn A,et al.Mutational analysis of PRDM1 indicates a tumor-suppressor role in diffuse large B-cell lymphomas[J].Blood,2006,107(10): 4090-100. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    }
+]

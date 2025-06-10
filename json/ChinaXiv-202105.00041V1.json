@@ -1,0 +1,354 @@
+[
+    {
+        "type": "text",
+        "text": "一种基于高阶AGO生成的 GM(1,1)模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "涂缘\\*，倪嘉雨（四川大学 物理学院，成都610065）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：近年来,灰色系统理论在各个领域中的应用愈发广泛.在灰色预测模型中,GM(1,1)模型最为核心与基础,但该模型对振荡序列难以进行模拟,且振荡序列往往无法通过准指数律检验,这削弱了GM(1,1)模型的应用范围.本文利用GM(1,1)模型对单调序列的模拟,对振荡序列的1-AGO 序列建立 GM(1,1)模型.再通过引入修正项的IAGO操作,还原到对原振荡序列的模拟.建立了改进的GM(1,1)模型,弥补了传统GM(1,1)模型对振荡序列模拟的缺陷.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：GM(1,1)模型；灰色系统；数据处理；预测",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "灰色系统理论自1982年由邓聚龙教授提出后，距今已经有近40年的历史了，其起源于根据数据量较小的信息作出预测与分析[1-3.由于灰色系统理论集时间响应模型、灰色关联分析方法和灰数理论于一身，能够对实际的问题进行多方面、多角度地分析，所以迅速地成为经济、信息、决策和控制领域中十分重要的研究手段.其中，GM(1,1)模型具有十分清晰的数学图像,良好的函数分析性质,以及它体现了灰色系统理论建模的精髓,所以成为了应用最广泛、最基础的模型.而其他的多种多样的模型,如GM(2,1)模型、Verhulst模型等等,都是要么通过替换GM(1,1)模型中的灰作用量得到[4-6]，要么将GM(1,1)模型的时间响应函数和别的函数耦合得到[7-9].下面就GM(1,1)模型,进行简要的介绍.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "源于灰导数的定义，对原序列 $x ^ { ( 0 ) } ( k )$ 进行1-AGO 生成，得到 $x ^ { ( 1 ) } ( k )$ ,该1-AGO 序列的灰导数是原序列.以GM(1,1)模型为例，其白化方程为",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } x ^ { ( 1 ) } ( k ) } { \\mathrm { d } t } + a z ^ { ( 1 ) } ( k ) = b\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中 $z ^ { ( 1 ) } ( k ) = 0 . 5 x ^ { ( 1 ) } ( k ) + 0 . 5 x ^ { ( 1 ) } ( k - 1 )$ 是对 1-AGO 序列进行平滑性处理后得到的背景值序列．对 1-AGO 序列建模，则(1)式等号左边第一项对应的便是原序列 $x ^ { ( 0 ) } ( k )$ .这样使得方程的求解变得方便，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由(1)式解出的时间响应序列为",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { ( 1 ) } ( k + 1 ) = { \\bigg ( } x ^ { ( 0 ) } ( 1 ) - { \\frac { b } { a } } { \\bigg ) } { \\mathrm { e } } ^ { - a k } + { \\frac { b } { a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中的参数 $a , \\ b$ ，可以采用最小二乘进行估计，具体步骤可参考文献[10]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但在实际应用中，该模型对原序列的有很多严格的要求，比如由于GM(1,1)模型用到的时间响应函数是指数型函数，所以为了保证模型的准确性，要求建模的序列必须满足准指数律．然而很不幸，现实中的振荡序列，一般都难以满足准指数律，从而导致GM(1,1)模型的相对误差很大．并且，指数型函数构建的模型始终无法很好地避免单调性所带来的影响，特别是对振荡序列的模拟结果不尽人意，指数模型在这方面的缺陷已经有许多工作证明[l-14].正是基于这种情况，本文提出了一种基于高阶 AGO 序列建模的办法，即对原序列进行两次甚至多次AGO生成之后，再进行建模，并最终还原到原序列的方法．由于高阶 AGO生成会让数据序列更加趋于指数分布，从而使得 GM(1,1)模型的有效性得到很大的提升．比如我们随便取一个序列{50810,46110,51177,93775,110574,110524}，其1-AGO序列为{50810,96920,148097,241872,352446,462970}，绘制图像作为对比",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c74a69c52e7540efbc738f2f4d828d665a6f91549de0d1581cd203e3624f9ff7.jpg",
+        "img_caption": [
+            "图1某数据序列与其1-AGO对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1的(a)是原序列,(b)是其1-AGO序列，可见AGO生成的确能让序列更加趋近于指数分布.以及，高阶AGO 模型在模拟还原时引入的带有正负性的修正项，一定程度上弥补了指数型函数模型建模机制上的缺陷，即单调性对模拟带来的限制.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2高阶AGO生成的模拟优势 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GM(1,1)的时间响应序列是指数型的，所以适合描述整体呈现单调性的序列，这也正是其难以描述振荡序列的原因．并且振荡序列往往无法通过准指数律检验．考虑到 AGO 生成能使序列的发展趋势趋于指数型[15],GM(1,1)模型对原序列建模效果较差，却很可能能够很好地描述其AGO序列.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "下面以两组数据举例来说明这个问题．取振荡序列 $\\{ 9 , 6 , 4 , 5 , 3 \\}$ 和 $\\{ 8 , 1 , 6 , 3 , 4 \\}$ ，对其进行GM(1,1)建模以及对其1-AGO 序列进行GM(1,1)建模，比较相对误差.",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/91a5d87e9a9e3a1c00baa9e8df5784f1b66069d6b985f62e84765140ca7e4c84.jpg",
+        "table_caption": [
+            "表1对序列建模与对其1-AGO序列建模的比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序列</td><td>模拟值</td><td>相对误差</td><td>1-AGO 序列</td><td>模拟值</td><td>相对误差</td></tr><tr><td>9</td><td>一</td><td>1</td><td>9</td><td>一</td><td>1</td></tr><tr><td>6</td><td>5.748612</td><td>4.19%</td><td>15</td><td>15.594331</td><td>3.96%</td></tr><tr><td>4</td><td>4.814434</td><td>20.36%</td><td>19</td><td>18.850539</td><td>0.79%</td></tr><tr><td>5</td><td>4.032065</td><td>19.36%</td><td>24</td><td>22.786666</td><td>5.06%</td></tr><tr><td>3</td><td>3.376834</td><td>12.56%</td><td>27</td><td>27.544686</td><td>2.02%</td></tr><tr><td>平均相对误差</td><td></td><td>14.12%</td><td>平均相对误差</td><td></td><td>2.96%</td></tr><tr><td>序列</td><td>模拟值</td><td>相对误差</td><td>1-AGO 序列</td><td>模拟值</td><td>相对误差</td></tr><tr><td>8</td><td>1</td><td>1</td><td>8</td><td>一</td><td>一</td></tr><tr><td>1</td><td>2.829706</td><td>182.97%</td><td>9</td><td>10.506067</td><td>16.73%</td></tr><tr><td>6</td><td>3.247475</td><td>45.88%</td><td>15</td><td>13.530107</td><td>9.80%</td></tr><tr><td>3</td><td>3.726922</td><td>24.23%</td><td>18</td><td>17.424579</td><td>3.20%</td></tr><tr><td>4</td><td>4.277153</td><td>6.93%</td><td>22</td><td>22.440026</td><td>2.00%</td></tr><tr><td colspan=\"2\">平均相对误差</td><td>65.00%</td><td colspan=\"2\">平均相对误差</td><td>7.93%</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于出于对比效果的目的，这里暂不考虑模型前检验而直接建模（实际上它们的1-AGO序列均能通过GM(1,1)建模前检验）．从表1可以看出，直接对振荡序列进行GM(1,1)建模的平均相对误差非常大，而对振荡序列的1-AGO序列进行GM(1,1)建模，其平均相对误差基本都在可接受范围内．这说明GM(1,1)模型更适合对振荡序列的AGO序列进行模拟，而不是直接对原序列进行模拟，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于GM(1,1)模型本身就会对准备建模的序列做1次AGO 生成，我们这里是在GM(1,1)之前就对数据进行了1次AGO生成，整个流程中出现了两次AGO生成．我们将这种做AGO生成次数超过1次的GM(1,1)模型称为:基于高阶 AGO 生成的GM(1,1)模型，在下文中简称“高阶 AGO 模型”.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接下来我们需要解决如何将对AGO序列的模拟还原到对振荡序列本身的模拟，以及这种模型如何对序列做出预测．我们先从理论上分析该模型应当如何还原对振荡序列的模拟.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3模拟还原方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设原序列为 $x ^ { ( 0 ) } ( k )$ ，其预测值记为 $\\hat { x } ^ { ( 0 ) } ( k )$ 。 $x ^ { ( 0 ) } ( k )$ 的 1-AGO 序列为 $x ^ { ( 1 ) } ( k )$ ，其预测值记为 $\\hat { x } ^ { ( 1 ) } \\left( k \\right)$ ，以此类推．原本的GM(1,1)模型利用IAGO 操作",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { ( 1 ) } ( k ) - x ^ { ( 1 ) } ( k - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\sum _ { i = 1 } ^ { k } x ^ { ( 0 ) } ( i ) - \\sum _ { i = 1 } ^ { k - 1 } x ^ { ( 0 ) } ( i ) = x ^ { ( 0 ) } ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实现了从对 $x ^ { ( 1 ) } ( k )$ 的模拟还原到对 $x ^ { ( 0 ) } ( k )$ 的模拟．但由于建模之后，(3)中的 1-AGO 序列要取模拟值，这便是GM(1,1)的误差来源",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果我们对1-AGO 序列 $x ^ { ( 1 ) } ( k )$ 进行 GM(1,1)建模，得到 2-AGO 序列 $x ^ { ( 2 ) } ( k )$ 的模型．想要还原到 $x ^ { ( 0 ) } ( k )$ 序列就需要两次IAGO 操作",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\left( x ^ { ( 2 ) } ( k ) - x ^ { ( 2 ) } ( k - 1 ) \\right) - \\left( x ^ { ( 2 ) } ( k - 1 ) - x ^ { ( 2 ) } ( k - 2 ) \\right) } } \\\\ { { = x ^ { ( 1 ) } ( k ) - x ^ { ( 1 ) } ( k - 1 ) = x ^ { ( 0 ) } ( k ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)中的 $x ^ { ( 2 ) } ( k )$ 序列是模拟值，而 $x ^ { ( 1 ) } ( k )$ 是模拟值计算出来的．这时再对 $x ^ { ( 0 ) } ( k )$ 进行计算会造成误差的二次累积，从而导致模型误差可能比直接进行 GM(1,1)建模更大．所以需要一种办法来降低第二次IAGO 操作的误差，从而更精确地还原到对原序列的模拟，让高阶AGO 模型的优势得以发挥到最大.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设序列与模拟值之间有残差 $\\Delta = \\hat { x } ^ { ( 1 ) } ( k ) - x ^ { ( 1 ) } ( k )$ ，以及相对误差 $\\delta _ { k } = | \\Delta | / x ^ { ( 1 ) } ( k )$ ．可根据 $\\Delta$ 的取值情况，取模拟修正项",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { x ^ { \\prime } } ^ { \\scriptscriptstyle ( 1 ) } ( k ) = ( 1 - \\delta _ { k } ) \\hat { x } ^ { \\scriptscriptstyle ( 1 ) } ( k ) , \\Delta > 0 } \\\\ { { x ^ { \\prime } } ^ { \\scriptscriptstyle ( 1 ) } ( k ) = ( 1 + \\delta _ { k } ) \\hat { x } ^ { \\scriptscriptstyle ( 1 ) } ( k ) , \\Delta < 0 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果取消相对误差中的绝对值符号，那么(5)中两个式子可以统一为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { \\prime ( 1 ) } \\left( k \\right) = \\left( 1 - \\delta _ { k } \\right) x ^ { \\left( 1 \\right) } \\left( k \\right) , \\delta _ { k } = \\Delta / x ^ { \\left( 1 \\right) } \\left( k \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后利用 ${ x ^ { \\prime } } ^ { ( 1 ) } ( k )$ 对 $x ^ { ( 0 ) } ( k )$ 进行计算，从而将对 $x ^ { ( 2 ) } ( k )$ 的模拟还原到对 $x ^ { ( 0 ) } ( k )$ 的模拟",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { x ^ { ( 2 ) } ( k ) - x ^ { ( 2 ) } ( k - 1 ) = x ^ { ( 1 ) } ( k ) } \\\\ { x ^ { \\prime ( 1 ) } ( k ) - x ^ { \\prime ( 1 ) } ( k - 1 ) = x ^ { ( 0 ) } ( k ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们仍然以振荡序列 $\\{ 9 , 6 , 4 , 5 , 3 \\}$ 和{8,1,6,3,4}作为例子来研究这个方法的效果",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/60a561ecdf4dfdfe40f50b08ac9705d79d68ca1e565d253fb77054e3276bca96.jpg",
+        "table_caption": [
+            "表2模拟还原效果示意表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序列</td><td>GM(1,1)模</td><td>相对误差</td><td>高阶 AGO 模型模拟值</td><td>相对误差</td></tr><tr><td>9</td><td>一</td><td>一</td><td>一</td><td>一</td></tr><tr><td>6</td><td>5.748612</td><td>4.19%</td><td>5.976452</td><td>0.39%</td></tr><tr><td>4</td><td>4.814434</td><td>20.36%</td><td>4.022365</td><td>0.56%</td></tr><tr><td>5</td><td>4.032065</td><td>19.36%</td><td>4.939851</td><td>1.20%</td></tr><tr><td>3</td><td>3.376834</td><td>12.56%</td><td>3.050331</td><td>1.68%</td></tr><tr><td>平均相对误差</td><td></td><td>14.12%</td><td>平均相对误差</td><td>0.96%</td></tr><tr><td>序列</td><td>GM(1,1)模</td><td>相对误差</td><td>高阶 AGO 模型模拟值</td><td>相对误差</td></tr><tr><td>8</td><td>一</td><td>一</td><td>1</td><td>一</td></tr><tr><td>1</td><td>2.829706</td><td>182.97%</td><td>0.747971</td><td>25.20%</td></tr><tr><td>6</td><td>3.247475</td><td>45.88%</td><td>6.107992</td><td>1.80%</td></tr><tr><td>3</td><td>3.726922</td><td>24.23%</td><td>3.125645</td><td>4.19%</td></tr><tr><td>4</td><td>4.277153</td><td>6.93%</td><td>4.009595</td><td>0.24%</td></tr><tr><td colspan=\"2\">平均相对误差</td><td>65.00%</td><td>平均相对误差</td><td>7.86%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里同样是出于对比效果的目的，暂不考虑原序列的模型前检验而直接建模（实际上它们的1-AGO 序列均能通过GM(1,1)建模前检验，而它们本身不能通过建模前检验）.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表 2 十分清晰地展现了高阶 AGO 模型的强大．理论上来说，正是因为(6)中对$\\delta _ { k } = \\Delta / x ^ { \\left( 1 \\right) } \\left( k \\right)$ 的引进，它的正负性使得 GM(1,1)建模机制中单调性的缺陷得到了弥补，从而更精准地还原了序列.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4序列的预测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前为止，我们运用高阶 AGO 生成和GM(1,1)模型，以及模拟还原方法实现了对序列的模拟．接下来便是对序列发展的预测，正如传统GM(1,1)所做的那样.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设待预测项为 $x ^ { ( 0 ) } ( k + 1 )$ ．根据(6)、(7)式，待预测项与其一项存在关系",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { \\prime ( 1 ) } ( k + 1 ) - x ^ { \\prime ( 1 ) } ( k ) = x ^ { ( 0 ) } ( k + 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= ( 1 - \\delta _ { k + 1 } ) x ^ { ( 1 ) } ( k + 1 ) - ( 1 - \\delta _ { k } ) x ^ { ( 1 ) } ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在(8)中 $x ^ { ( 1 ) } ( k + 1 )$ 、 $x ^ { ( 1 ) } ( k )$ 是已知量，是通过对 $x ^ { ( 2 ) } ( k )$ 建模后，进行 IAGO 得到的． $\\delta _ { k }$ 是$x ^ { ( 1 ) } ( k )$ 的修正项，也是已知量．所以(8)中唯一的未知量是 $\\delta _ { k + 1 }$ ．但由于它来源于相对误差,客观上并不存在内在规律，所以不建议对其进行建模预测，一个可行的办法是根据 $\\delta _ { k }$ 的历史信息对其进行赋值，这也是灰数理论中常用的办法[16].",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果希望保守建模，得到比较小的预测值，可以取 $\\delta _ { k + 1 } = \\operatorname* { m a x } \\left\\{ \\delta _ { k } \\right\\}$ ，也就是 $\\delta _ { k }$ 历史信息中的最大值．反之，如果得到比较大的预测值，则可以取 $\\delta _ { k + 1 } = \\operatorname* { m i n } \\left\\{ \\delta _ { k } \\right\\}$ ．如果数据受新息影响较大，可以考虑仅对预测项前两三项的 $\\delta _ { k }$ 求加权平均再赋值．总之，可以根据预测需求进行调整，按照灰数理论中赋值的技巧结合实际情况进行赋值.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "下面以{8,1,6,3,4}序列为例进行高阶AGO 模型预测示意.",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab4012b689f170552a19c1783bd0ab879a86500d0308eb96c27bcd5a41b90164.jpg",
+        "table_caption": [
+            "表3高阶AGO模型预测示意图"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序列</td><td>模拟值</td><td>相对误差</td></tr><tr><td>8</td><td>一</td><td>一</td></tr><tr><td>1</td><td>0.747971</td><td>25.20%</td></tr><tr><td>6</td><td>6.107992</td><td>1.80%</td></tr><tr><td>3</td><td>3.125645</td><td>4.19%</td></tr><tr><td>4</td><td>4.009595</td><td>0.24%</td></tr><tr><td>平均相对误差</td><td></td><td>7.86%</td></tr><tr><td>小值预测</td><td>2.071898</td><td>1</td></tr><tr><td>大值预测</td><td>9.739813</td><td>一</td></tr><tr><td>均值预测</td><td>6.493338</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表中均值预测是指取 $\\delta _ { k + 1 } = \\mathrm { a v r e a g e } \\left\\{ \\delta _ { k } \\right\\}$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3展示了高阶AGO模型的三种预测结果．在对原序列的模拟上，平均相对误差仅有$7 . 8 6 \\%$ ，而这个序列本身无法通过准指数律检验从而建立GM(1,1)模型．从表2可以看到，直接对其进行建模的话，平均相对误差将达到 $6 5 \\%$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5总结与讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "至此，我们通过对振荡序列的1-AGO序列建立GM(1,1)模型，再运用第2节介绍的模拟还原方法还原到对振荡序列的模拟，建立了基于高阶 AGO 生成的GM(1,1)模型．一般来讲，由于多次IAGO 操作会造成误差的累积，根据文献[17]关于还原误差的讨论，设传统GM(1,1)模型的平均误差是e，如果存在 $r$ 阶AGO模型还原回原序列的方法，那么其不引入修正项时的平均相对误差将达到 $2 ^ { r } \\epsilon$ ．也就是，随着建模阶数的上升而呈2的指数增长．但是在引入了修正项后，理论上会将这个误差减小到 $2 ^ { r - 1 } \\epsilon$ ．虽然在 $r$ 很大的时候这个误差仍然很大，但振荡序列的1-AGO 往往已经能够通过GM(1,1)模型的建模前检验，实际应用中 $r$ 通常取2,特殊情况取3，理论上的还原误差累积很小．所以，对振荡序列建立2阶 AGO 生成GM(1,1)模型已经能够起到比较好的效果，所以不建议对原序列的2阶以上的AGO 序列进行建模，除非能够找到这种情况下能很好地还原模拟的方法，正如本文第2节所做的那样，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这种方法相较于利用 GM(1,1)模型对振荡序列建模目前流行的三种方法——GM(1,1)模型群、残差GM(1,1)模型和区间预测而言，要更加简便和深刻．所谓模型群，就是将振荡序列分成许许多多的小区间，然后逐一进行建模[I8]；残差模型本质上是一种二次建模，即进行一次建模后，对误差序列再进行一次建模的方法[19-21I；区间预测是对区间的极大值和极小值分别建模，从而能够找到待预测区间的振荡范围，再利用灰数理论中的白化系数，对振荡范围内的值进行赋权的办法[22-23]．而本文介绍的高阶 AGO 模型，比区间预测更加具有准确性,比模型群的办法更加方便简洁．跟残差模型原理相似，但在序列还原阶段就对误差序列进行了处理，无需再次建模这样繁琐的操作.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]邓聚龙.灰色系统综述[J].世界科学,1983(07):1-5.  \n[2] XieN,WangR.AHistoric Review of GreyForecasting Models [J].Journalof grey System,2O17,29(4).  \n[3]刘思峰.灰色系统理论的产生与发展[J].南京航空航天大学学报,2004.  \n[4]王正新,党耀国,裴玲玲.基于GM(1,1)幂模型的振荡序列建模方法[J].系统工程与电子技术,2011,3(1):2440-2444.  \n[5] 孟伟.基于分数阶拓展算子的灰色预测模型[D].南京航空航天大学,2015.  \n[6]马永梅,王淑超.改进的GM(1,1)幂模型的构建与应用[J].经济数学,2019,36(03):84-88.  \n[7]林耀进,王晨曦.基于指数三角函数的灰色预测模型研究与应用[J].漳州师范学院学报(自然科学版),2009,22(02):32-36.  \n[8] 黄胜.灰色系统与多元逐步回归耦合模型在年用水量预测中的应用[J].节水灌溉,2007(05):38-40.  \n[9]柴志君,欧阳中辉,岳炯.一种改进的灰色BP 神经网络预测模型[J].兵工自动化,2020.39(10):84-88+96.  \n[10] 曾波,尹小勇,孟伟．实用灰色预测建模方法及其 MATLAB 程序实现[M].北京：科学出版社,2018.  \n[11]张大海,江世芳,史开泉.灰色预测公式的理论缺陷及改进[J].系统工程理论与实践,2002(08):140-142.  \n[12] 熊岗,陈章潮.灰色预测模型的缺陷及改进方法[J].系统工程,1992(06):32-36.  \n[13]武悦.关于灰色系统模型GM(1,1)适用范围的讨论[J].北京工业大学学报,1999(01):72-75.  \n[14]刘思峰,曾波,刘解放,谢乃明.GM(1,1)模型的几种基本形式及其适用范围研究[J].系统工程与电子技术,2014,36(03):501-508.  \n[15] 邓聚龙.累加生成灰指数律——灰色控制系统的优化信息处理问题[J].华中工学院学报,1987(05):7-12.  \n[16]NanleiChenNimingXie.Uncertaintyepresentatioandinforationmeasurementofgreyumbers[J].GreySystems:ToandApplication,2020,10(4).  \n[17]WuL,LiuS,aoL,eal.Usingfractioalderclatiotuceorsfroierseulatedgeeratigatorofgymodel[J]. Soft Computing,2015,19(2): 483-488.  \n[18] 柯宏发，马超，王乃超,等．基于GM(1,N)模型群的装备维修性及影响因素分析[J].装甲兵工程学院学报,2019,v.33:No.143(03):119-123.  \n[19] 李希灿,李丽.时序残差GM(1,1)模型[J].系统工程理论与实践,1998(10):60-64.  \n[20]JianshanL,ChangmingW,ijunZ,etal.ResidualG(1,)odel-BasedPredictionMethodforChaoticTimeSeries[J].JoualofGrey System,2012,24(4).  \n[21]吕海涛,程帅帅,吴利丰.基于残差GM(1,1)模型的强(弱)化缓冲算子还原模型[J].数学的实践与认识,2019,49(19):284-290.  \n[22]Zeng B,LiuS,XieN.Predictionmodelofinterval greynumberbasedonDGM(1,1)[J].JouralofSystemsEngineeringandElectronics,2010,21(4): 598-603.  \n[23]PingpingXiong,XiaZou,YingjieYang.Thenonlineartielagmultivariablegreypredictionmodelbasedonintervalgeynmbersand its application[J]. Natural Hazards,2O21(prepublish).",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TheGM(1,1) Model Based on High Order AGO Generation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Yuan Tu, Jiayu NI ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(College ofPhysics,SichuanUniversity,Chengdu 61oo65,China） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In recent years,Grey system theory has been widely used in various fields.Among the Grey Prediction Models,the GM(1,1） model is the core and foundation.However,due to the exponential time response sequence,GM(1,1） model is dificult to simulate the oscillation sequence,and the oscillation sequence can not pass the GM(1,1) pre modeling test.These factors weaken the application of GM(1,1） model. The paper establishes GM(1,1） model for the 1-AGO sequence of oscillation sequence,by using the advantage of monotone sequence simulation of GM(1,1） model. Then,the IAGO operation with correction term is introduced to restore the simulation of oscillation sequence. Finally,an improved GM(1,1) model is established to makeup for the defect of the traditional GM (1,1) model in the simulation of oscillation sequence. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key words:GM(1,1) model; Grey system theory; data processing;prediction ",
+        "page_idx": 5
+    }
+]

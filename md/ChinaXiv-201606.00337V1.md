@@ -1,0 +1,169 @@
+# Probing the CP-even Higgs Sector via $H _ { 3 }  H _ { 2 } H _ { 1 }$ in the Natural NMSSM
+
+Zhaofeng Kang,1,\* Jinmian Li,2,t Tianjun Li ${ } ^ { 2 , 3 , 4 , \ddagger }$ Da Liu, $^ { 2 , \ S }$ and Jing Shu $^ 2$ I （204号 $^ { 1 }$ Center for High-Energy Physics, Peking University， Beijing, 100871， P. R. China 14号 $\mathcal { Z }$ State Key Laboratory of Theoretical Physics， Institute of Theoretical Physics, Chinese Academy of Sciences，Beijing 10019o， P.R. China （204号 $^ { 3 }$ School of Physical Electronics， Universityof Electronic Science and Technology of China， Chengdu 610054,P.R.China 1号 $\mathit { 4 }$ George $P$ .and Cynthia W. Mitchell Institute for Fundamental Physics and Astronomy, Texas A&M University， College Station， TX 77843,USA (Dated:February 25, 2013)
+
+After the discovery of a Standard Model (SM) like Higgs boson,naturalness strongly favors the next to the Minimal Supersymmetric SM (NMSSM).In this letter,we point out that the most natural NMSSM predicts the following CP-even Higgs $H _ { i }$ sector:(A) $H _ { 2 }$ is the SM-like Higgs boson with mass pushed-upward by a lighter $H _ { 1 }$ with mass overwhelmingly within $[ m _ { H _ { 2 } } / 2 , m _ { H _ { 2 } } ]$ ；(B) $m _ { H _ { 3 } } \simeq 2 \mu / \sin 2 \beta \gtrsim 3 0 0$ GeV; (C) $H _ { 3 }$ has a significant coupling to top quarks and can decay to $H _ { 1 } H _ { 2 }$ with a large branching ratio. Using jet substructure we show that all the three Higgs bosons can be discovered via $g g  H _ { 3 }  H _ { 1 } H _ { 2 }  b b \ell \nu j j$ at the 14 TeV LHC.Especially, the LEP-LHC scenario with $H _ { 1 } \simeq 9 8$ GeV has a very good discovery potential.
+
+PACS numbers:12.60.Jv，14.70.Pw,95.35.+d
+
+Introduction: Supersymmetry provides the most elegant solution to the gauge hierarchy problem in the Standard Model (SM).In the supersymmetric SMs (SSMs) with $R$ -parity,we can not only achieve the gauge coupling unification,but also have a cold dark matter candidate.Recently, the discovery of a SM like Higgs boson at the LHC with mass $m _ { h }$ around 126 GeV [1] has deep implications to the SSMs. Although such a relatively heavy Higgs boson mass can be achieved in the Minimal SSM (MSSM),it generically incurs a large fine-tuning (For the possible solutions,see [2]).By constrast,the next-to-the MSSM (NMSSM) with an extra SM singlet Higgs field $S$ isstrongly favored by naturalness [3]，due to originally its dynamically solution to the Higgs bilinear mass $\mu$ problem and now the SM-like Higgs boson mass enhancement via the relatively large Higgs trilinear Yukawa coupling $\lambda$ in the superpotential and singlet-doublet mixing effect [4-7]. The natural NMSSM may leave hints at the light stop sector,but the search is rather model dependent [8,9] and barely has relation with Higgs sector (Recent attempt to search for the light stop utilizing the properties of the SM-like Higgs boson was done in [10].).
+
+In the natural NMSSM, the second lightest CP-even Higgs boson $H _ { 2 }$ is indentified as the SM like Higgs boson, while the lightest CP-even Higgs boson $H _ { 1 }$ has dominant singlet component.Thus,the $H _ { 2 }$ mass can be pushedupward via the singlet-doublet mixing effect [4-7]. Such a scenario can explain the possible di-photon excess from Higgs decays [4,11,12] since the significant mixing effect reduces the decay width of $H _ { 2 }  b \bar { b }$ and the light charged Higgsino may increase the Higgs decays to diphotons. Interestingly, $\boldsymbol { H } _ { 1 }$ may be used to interpret the slight LEP excess for the Higgs mass around 98 GeV[14] (It receives some interest [15,16] recently.),or the LHC excess for the Higgs mass around ${ \sim } 1 1 3$ GeV[17].A scenario with two light higgs and a low-mass pseudoscalar in NMSSM has been discussed in [18]. More noticeable features emerge when we take the heavy CP-even Higgs boson $H _ { 3 }$ into account.In this letter,we consider the CP-even Higgs sector in the natural NMSSM.We point out that naturalness implies the $H _ { 3 }$ mass range $m _ { H _ { 3 } } \in [ 3 0 0 , 6 0 0 ]$ GeV and its significant triple Higgs coupling with $H _ { 1 }$ and $H _ { 2 }$ 业 Such a Higgs sector structure leads us to investigate the discovery potential of the whole CP-even Higgs bosons from the process $g g  H _ { 3 }  H _ { 1 } H _ { 2 }$ . With jet substructure,we show that all three CP-even Higgs bosons $H _ { i }$ （204号 can be probed at the 14 TeV LHC. Our search strategy is specially suitable for the LEP-LHC Higgs bosons but also applies to the general pushing-upward scenario.
+
+Light Higgs Bosons in the Pushing-Upward Scenario: The SM-like Higgs boson can be accommodated without recurring severe fine-tuning,and we can show that the whole Higgs sector is light.Restricted to the $Z _ { 3 } -$ NMSSM,naturalness conditions point to a predic tive parameter space
+
+$$
+\begin{array} { l } { { \lambda : 0 . 6 - 0 . 7 , \quad \tan \beta : 1 . 3 - 3 . 0 , } } \\ { { \mu = \lambda v _ { s } : 1 0 0 \mathrm { G e V } - 2 0 0 \mathrm { G e V } , } } \end{array}
+$$
+
+where $\tan \beta$ is the ratio of the vacuum expectation values for two Higgs doublets, and $\kappa$ is the singlet cubic coupling in the superpotential. Also, $\kappa$ is constrained by perturbativity,and typically is no more than half of $\lambda$ . The stop sector should be sufficiently light, e.g., $m _ { \widetilde { t } _ { L } } = m _ { \widetilde { t } _ { R } } = 5 0 0$ GeV,and a flavor safe choice $A _ { t } ~ = ~ - 5 0 0$ GeV. Their concrete values will not qualitatively affect our following discussions.
+
+Importantly, $A _ { \lambda }$ can be further determined in the pushing-upward mixing scenario. The Higgs mass square matrix in the Goldstone basis is
+
+$$
+\begin{array} { r l } & { ( M _ { s } ^ { 2 } ) _ { 1 1 } = M _ { s } ^ { 4 } + ( m _ { 2 } ^ { 2 } - \lambda ^ { 2 } v ^ { 2 } ) \sin ^ { 2 } 2 \beta , } \\ & { ( M _ { s } ^ { 2 } ) _ { 1 2 } = - \frac { 1 } { 2 } ( m _ { 2 } ^ { 2 } - \lambda ^ { 2 } v ^ { 2 } ) \sin 4 \beta , } \\ & { ( M _ { s } ^ { 2 } ) _ { 1 3 } = - \frac { 1 } { 2 } ( M _ { s } ^ { 2 } \sin 2 \beta + 2 \lambda \kappa v _ { s } ^ { 2 } ) \cos 2 \beta , } \\ & { ( M _ { s } ^ { 2 } ) _ { 2 2 } = - m _ { 2 } ^ { 2 } \cos ^ { 2 } 2 \beta + \lambda ^ { 2 } v ^ { 2 } \sin ^ { 2 } 2 \beta , } \\ & { ( M _ { s } ^ { 2 } ) _ { 2 3 } = \frac { 1 } { 2 } ( 4 \lambda ^ { 2 } v _ { s } ^ { 2 } - M _ { s } ^ { 2 } \sin ^ { 2 } 2 \beta - 2 \lambda \kappa v _ { s } ^ { 2 } \sin 2 \beta ) \frac { v } { v _ { s } } , } \\ & { ( M _ { s } ^ { 2 } ) _ { 3 3 } = \frac { 1 } { 4 } M _ { s } ^ { 2 } \sin ^ { 2 } 2 \beta \left( \frac { v } { v _ { s } } \right) ^ { 2 } } \\ & { + 4 \kappa ^ { 2 } v _ { s } ^ { 2 } + \kappa A _ { \kappa } v _ { s } - \frac { 1 } { 2 } \lambda \kappa v ^ { 2 } \sin 2 \beta , } \end{array}
+$$
+
+where $M _ { A } ^ { 2 } = 2 \lambda v _ { s } ( A _ { \lambda } + \kappa v _ { s } ) / \sin 2 \beta$ defines the largest scale among these elements.Let the orthogonal matrix diagonalizing $M _ { S } ^ { 2 }$ be $O$ t $O ^ { T } \mathrm { D i a g } ( m _ { H _ { 3 } } ^ { 2 } , m _ { H _ { 2 } } ^ { 2 } , m _ { H _ { 1 } } ^ { 2 } ) O \ =$ $M _ { S } ^ { 2 }$ ． The singlet-doublet mixing effect can'be approximately studied by decoupling the entries involving the first state.Ref.[4] found that,in the case with a large $\lambda$ and small $\mu$ , the realization of pushing-upward scenario, which requires $( M _ { S } ^ { 2 } ) _ { 3 3 } \lesssim ( M _ { S } ^ { 2 } ) _ { 2 2 }$ , necessitates a cancelation to reduce the large non-diagonal element $( M _ { S } ^ { 2 } ) _ { 2 3 }$ ：
+
+$$
+1 - ( A _ { \lambda } / 2 \mu + \kappa / \lambda ) \sin 2 \beta \simeq 0 .
+$$
+
+Thus, $A _ { \lambda }$ is largely determined by $\mu$ and $\tan \beta$ ,and to a less degree,by $\kappa$ .Then we have
+
+$$
+m _ { H _ { 3 } } ^ { 2 } \approx M _ { A } ^ { 2 } \simeq \left( \frac { 2 \mu } { \sin 2 \beta } \right) ^ { 2 } \left( 1 - \frac { \kappa } { \lambda } \frac { \sin 2 \beta } { 2 } \right) .
+$$
+
+Recall that $\kappa < \lambda$ ，so,to a good approximation,we get （204号 $m _ { H _ { 3 } } \simeq M _ { A } \simeq 2 \mu / \sin 2 \beta$ ，which is about $2 . 5 \mu$ ，relating the $H _ { 3 }$ mass directly with the weak scale naturalness.
+
+We now summarize the Higgs spectra in the natural NMSSM under consideration.First,all the Higgs fields are properly light. $H _ { 3 }$ and its $S U ( 2 ) _ { L }$ partners,the charged Higgs bosons $H ^ { \pm }$ and the heavy CP-odd Higgs $A _ { 2 }$ ，take roughly degenerate masses $M _ { A }$ ， $H _ { 2 }$ is SM-like while $H _ { 1 }$ is even lighter. $\boldsymbol { H } _ { 1 }$ is a SM singlet like and then can be allowed by the LEP experiment. Note that $m _ { H _ { 1 } }$ （204号 is most likely to fall into the region $[ m _ { h } / 2 , m _ { h } ]$ with the lower bound set by forbidding the decay $H _ { 2 }  H _ { 1 } H _ { 1 }$ (Ref.[19] considered such case.). Otherwise it tends to be the dominant decay mode of $H _ { 2 }$ ．In addition，the lightest CP-odd Higgs boson $A _ { 1 }$ also has a mass around the weak scale. Moreover,a pair of charginos and three neutralinos,consisting of the Higgsinos and singlino,are light as well.All of them may be detectable at the LHC and here we focus on the CP-even Higgs bosons.
+
+$H _ { i } -$ couplings: The Higgs signals at colliders are sensitive to their mixing angles whose effects,in a standard form,are described by the tree-level Lagrangian:
+
+$$
+\begin{array} { r l } { {  { \mathcal { L } _ { \mathrm { t r e e } } \supset r _ { i , Z } \frac { M _ { Z } ^ { 2 } } { \sqrt { 2 } v } H _ { i } Z Z + r _ { i , W } \frac { \sqrt { 2 } M _ { W } ^ { 2 } } { v } H _ { i } W ^ { + } W ^ { - } } } } \\ { { \phantom { \qquad } - r _ { i , f } \frac { m _ { f } } { \sqrt { 2 } v } H _ { i } \bar { f } f + \mu _ { i j k } H _ { i } H _ { j } H _ { k } , } } \end{array}
+$$
+
+with $v \approx 1 7 4$ GeV. ． etc.，encode the deviations of ${ } ^ { T } i , V$ $H _ { i }$ from $h _ { \mathrm { S M } }$ . For instance,we have
+
+$$
+r _ { 1 , V } = O _ { 3 2 } , \quad r _ { 2 , V } = O _ { 2 2 } , \quad r _ { 3 , V } = O _ { 1 2 } .
+$$
+
+We also include the triple Higgs couplings，which will play a crucial role in the search for Higgs bosons.
+
+We now present the features of $H _ { 3 }$ couplings.Firstly, note that $( M _ { S } ^ { 2 } ) _ { 1 2 }$ is a small entry and we can express it in terms of $O$ and $m _ { H _ { i } } ^ { 2 }$ Since $m _ { H _ { 3 } }$ is a few times of $m _ { H _ { 2 , 1 } }$ ， then it is not difficult to obtain the upper bound
+
+$$
+{ \cal O } _ { 1 2 } = - s _ { \theta _ { 1 } } \lesssim ( M _ { S } ^ { 2 } ) _ { 1 2 } / m _ { H _ { 3 } } ^ { 2 } \sim ( M _ { S } ^ { 2 } ) _ { 1 2 } / ( M _ { S } ^ { 2 } ) _ { 1 1 } ,
+$$
+
+where $( M _ { S } ^ { 2 } ) _ { 1 1 }$ gives the dominant contribution to $m _ { H _ { 3 } }$ ： Therefore,the trilinear couplings between $H _ { 3 }$ and the weak gauge bosons are negligibly small. Next,the reduced couplings of $H _ { 3 }$ to the bottom and top quarks are given by
+
+$$
+\begin{array} { r l } & { C _ { 3 , b } = - O _ { 1 1 } \tan \beta + O _ { 1 2 } \approx - O _ { 1 1 } \tan \beta , } \\ & { C _ { 3 , t } = O _ { 1 1 } \cot \beta + O _ { 1 2 } \approx O _ { 1 1 } \cot \beta . } \end{array}
+$$
+
+Owing to a relatively small $\tan \beta$ in the natural NMSSM, $H _ { 3 }$ coupling to the bottom quark is not enhanced while its coupling to the top quark is significant. They have crucial implications to the collider phenomenology of $H _ { 3 }$ e.g.,it can be considerably produced at the LHC by virtue of the significant coupling to gluons:
+
+$$
+C _ { 3 , g } = 1 . 0 3 C _ { 2 , t } - 0 . 0 6 C _ { 2 , b } \approx O _ { 1 1 } \cot \beta .
+$$
+
+Finally, the triple Higgs coupling $H _ { 3 } H _ { 2 } H _ { 1 }$ receives two possible large contributions and is given by
+
+$$
+\mu _ { 1 2 3 } \sim - \frac { \lambda A _ { \lambda } } { \sqrt { 2 } } \left( 1 + 2 \frac { \kappa } { \lambda } \frac { \mu } { A _ { \lambda } } \right) \simeq - \frac { \lambda A _ { \lambda } } { \sqrt { 2 } } .
+$$
+
+It thus has a large $\lambda A _ { \lambda }$ enhancement and leads to $H _ { 3 } $ $H _ { 1 } H _ { 2 }$ decay width at the GeV scale and dominates the $H _ { 3 }$ Higgs-to-Higgs decay,as provides the most promising discovery prospect for $H _ { 3 }$ and $\boldsymbol { H } _ { 1 }$ ,similarly to Ref.[13].
+
+We now turn our attention to the lightest Higgs boson $\boldsymbol { H } _ { 1 }$ .Interestingly, the LEP collaboration reported (with an signal significance 2.3 $\sigma$ )a slight excess of events for a Higgs boson with mass $\sim 9 5 - 1 0 0$ GeV[14]. Although our discussions on the Higgs bosons and the ensuing search strategy are not restricted to this case,it is temptingto interpret $H _ { 1 }$ as the source of this excess.So we have
+
+$$
+C _ { 1 , V } ^ { 2 } \frac { \mathrm { B r } ( H _ { 1 } \to b \bar { b } ) } { \mathrm { B r } _ { S M } ( H _ { 1 } \to b \bar { b } ) } \sim 0 . 1 - 0 . 2 5 .
+$$
+
+For $m _ { H } \lesssim 1 0 0$ GeV, its decay to $b b$ nearly determines its total width. Thus,the LEP requires $C _ { H _ { 1 } , V V } \sim 0 . 3$ which is a typical value expected from the mixing Higgs sector.
+
+![](images/3978212f2f1987f02eb57d0916e0e51f5772123395e0435299407d1e7d19cc6e.jpg)  
+FIG.1: A plot on the $\sigma _ { H _ { 3 } } – \prime r t _ { H _ { 3 } }$ plane,with color code denoting $m _ { H _ { 1 } }$ .Large inverted triangle points satisfy the LEP$\begin{array} { r } { \frac { A _ { \lambda } } { \mathrm { G e V } } ~ \subset \ } \end{array}$ $\textstyle { \frac { A _ { \kappa } } { \mathrm { G e V } } } ~ \subset ~ [ - 3 0 0 , ~ 0 ]$ $\frac { \prime \prime H _ { 2 } } { \mathrm { G e V } } \ \subset \ \left[ 1 2 5 , 1 2 7 \right]$ $R _ { 2 , g g } ( \gamma \gamma ) ~ \subset$ $R _ { 2 , g g } ( V V ) ~ \subset ~$ [1.0, 1.3].
+
+Signature and backgrounds: In light of the previous analysis,the signature $g g  H _ { 3 }  H _ { 1 } (  b b ) H _ { 2 } ( $ $W _ { h } W _ { \ell } )$ is promising，where we denote $W _ { h }$ as hadronic decaying $W$ boson and denote $W _ { \ell }$ as leptonic decaying $W$ boson. The $W _ { \ell }$ will suppress the enormous QCD backgrounds.The total cross section is
+
+$$
+\begin{array} { c l c r } { { \sigma _ { H _ { 3 } } = 0 . 2 \left( \displaystyle \frac { C _ { 3 , g } } { 0 . 4 } \right) ^ { 2 } \displaystyle \frac { \mathrm { B r } ( H _ { 3 } \to H _ { 1 } H _ { 2 } ) } { 2 0 \% } \displaystyle \frac { \mathrm { B r } ( H _ { 1 } \to b \bar { b } ) } { 9 0 \% } } } \\ { { \displaystyle \frac { \mathrm { B r } ( H _ { 2 } \to W _ { \ell } W _ { h } ) } { 2 8 \% } \displaystyle \frac { \sigma _ { \mathrm { G F } } ( h _ { \mathrm { S M } } ) } { 1 0 \mathrm { p b } } \mathrm { p b } , } } \end{array}
+$$
+
+where $\ell = e , \mu$ . The numerical results are shown in Fig. 1, where a plot of the distribution of $\sigma _ { H _ { 3 } }$ on the $m _ { H _ { 2 } } - m _ { H _ { 1 } }$ （204号 plane is presented.It can be seen that its values cluster well for a given $m _ { H _ { 3 } }$ (typically within only a few times), in particular for heavier $H _ { 3 }$ ：
+
+We implement the simplified model for Higgs bosons in Feynrules [21] to generate the UFO format of the effective model for MadGraph5 [22]，where the parton-level signatures are generated.
+
+The semi-leptonic $t \bar { t }$ pair production is the dominant background (BG)，with the NNLO cross section $\approx 2 4 0$ pb [23]． The subdominant BG $W _ { \ell } + b b$ +jets has cross section depending on the renormalization scale,roughly, about 40 pb. Other backgrounds can be neglected in our signal region. BGs are generated using MadGraph5. To avoid double counting,we adopt the modified version of MLM-matching [24] with $x q \mathrm { { c u t } = 1 5 }$ GeV. For the latter BG,we include up to 2 additional jets and set the $k -$ factortobe 2.
+
+Weuse PYTHIA6.420 [25] for decaying particles, parton-showering and hadronization. However，in order to employ the BDRS procedure later,we turn off the $B -$ hadron decays in Pythia. The produced objects are then converted to the HepMC [26] event format and passed to Fastjet 3.0 [27]to cluster the final states. The final visible particles are requited to have $p _ { T } > 0 . 1$ GeV and $| \eta | < 5 . 0$ which are defined as tracks hereafter. Leptons from signal events should be isolated, otherwise they are combined with the tracks to reconstruct fat jets later. Additionally, signal leptons are required to have $| \eta | < 2 . 5$ and $p _ { T } > 1 0$ GeV. We take $b -$ tagging efficiency of $7 0 \%$ with the other light quark mis-tagged probability $1 \%$ ：
+
+We choose the C/A algorithm [29] with radius $R { = } 1 . 4$ and $p _ { T } >$ 40 GeV to cluster the tracks and form fat jets. Following BDRS [28],we first break the hard fat jets into subjets $j _ { 1 , 2 }$ with masses $^ { \prime \prime \mathit { n } _ { j 1 , 2 } }$ . Next,a significant mass drop $m _ { j _ { 1 } } < \mu m _ { j }$ with $\mu { = } 0 . 6 6 7$ and not too asymmetric splittig,i., $y = \operatorname* { m i n } ( p _ { T , j _ { 1 } } ^ { 2 } , ~ p _ { T , j _ { 2 } } ^ { 2 } ) \Delta R _ { j _ { 1 } , j _ { 2 } } ^ { 2 } / m _ { j } ^ { 2 } > y _ { c u t }$ with ${ y _ { c u t } } \mathrm { { = } } 0 . 0 9$ (b $\Delta R _ { j _ { 1 } , j _ { 2 } } ^ { 2 }$ isthd $j = j _ { 1 }$ and go back to decomposition.Finally,we filter the Higgs neighbourhood,resolving the fat jets on a finer angular scale $R _ { \mathrm { f i l t } } = \mathrm { m i n } ( 0 . 3 5 , R _ { j _ { 1 } j _ { 2 } } / 2 )$ and taking the three hardest objects,with the remains identified as the underlying events contamination and hence dropped.
+
+Events selection and results:Two basic cuts are imposed to trigger our events.Firstly,at least two fltered fat jets are required. One of them has two leading subjets which pass $b -$ tagging and satisfy $| \eta | < 2 . 5$ ，and then is identified as the $H _ { 1 } - _ { \cdot }$ jet.Among the remaining fat jets, the one with highest $p _ { T }$ is regarded as the $W _ { h } - .$ jet[30]. Secondly, the events must contain exactly one isolated lepton.
+
+![](images/fca94c3a8655d2cbd1812bd58c1ede4df3e690c9659725a22112c876bc4048e5.jpg)  
+FIG.2: Distribution for trigged signal and background of $p _ { T , H _ { 1 } }$ ， $m _ { H _ { 1 } }$ ， $m _ { j j l \nu }$ ， $\Delta \phi _ { l j }$ ， $\Delta R _ { H _ { 1 } b \bar { b } }$ ， $M _ { C }$ . The number of events have been normalised to 14 TeV 500 $f b ^ { - 1 }$ ,and the signal is 400 times amplified.
+
+For illumination,here we will take a benchmark point inspired by the LEP-LHC Higgs scenario: $m _ { H _ { 1 } } = 9 8 \mathrm { G e V }$ $m _ { H _ { 2 } } = 1 2 5$ GeV as well as $m _ { H _ { 3 } } = 4 0 0$ GeV. Figure 2 shows the distributions of some important kinematic variables.In terms of the plots,we display the cut flow:
+
+· Cut1: The relatively large mass splitting between $H _ { 3 }$ and $H _ { 1 }$ gives $H _ { 1 }$ a boost.Therefore,we require （204号 $p _ { T , b \bar { b } } > 1 5 0 \mathrm { G e V }$ ， $p _ { T , j j \ell \nu } > 1 2 0 \mathrm { G e V }$ ，and $| p _ { T , b \bar { b } } -$ PT,jjlv| <20GeV. · Cut2: It is observed that the longitudinal momentum of the neutrino from $W$ decay is generically small，and hence ${ } ^ { T h } H _ { 2 , 3 }$ can be approximately reconstructed by assuming $p _ { z , \nu } = 0$ . Practically, cuts based on this assumption are sufficiently good. So we impose: $9 5 \mathrm { G e V } < m _ { H _ { 1 } } < 1 0 0 \mathrm { G e V }$ ， $m _ { j j \ell \nu } ~ <$ （204号 （20 $1 5 0 \mathrm { G e V }$ ,and $m _ { b \bar { b } j j \ell \nu } < 4 4 0 \mathrm { G e V }$ ： · Cut3: Because $H _ { 2 }$ has spin-O and $W$ only couples to the left-handed fermions,the lepton from $W _ { \ell }$ will align with one of the jets from $W _ { h }$ decay. It allows us to impose a cut $| \Delta \phi _ { \ell j } | < 1 . 5$ ，namely the azimuthal angles difference between the signal lepton and (one) jet being sufficiently small. · Cut4: The fltered $\boldsymbol { H } _ { 1 }$ -jet actually contains three subjets, the $b b$ and a radiated gluon. So the $\boldsymbol { H } _ { 1 }$ -jet and its $b b$ subsystem must have a very small angle distance.By contrast,the angle distance between the $H _ { 1 }$ -jet and $W _ { h }$ -jet is much larger.Thus,we require $\Delta R _ { H _ { 1 } , b \bar { b } } < 0 . 0 1$ ,and $2 . 6 < \Delta R _ { H _ { 1 } W _ { h } } < 3 . 4$ · Cut5:We also impose the cluster transverse mass of decay product of the $H _ { 2 }$ ： $\begin{array} { r l } { M _ { C } } & { { } = } \end{array}$ $\sqrt { p _ { T , j j \ell } ^ { 2 } + m _ { j j \ell } ^ { 2 } } + \not { E } _ { T } < 2 2 0 \mathrm { G e V }$ ．
+
+With the above cuts,we obtain the signal significance 4.42 $\sigma$ excess for the LEP-LHC benchmark point at 14 TeV 500 $f b ^ { - 1 }$ .The cut efficiency and the signals are presented in Table I.
+
+TABLE I:Number of events after each cut for background and signal (normalized to $5 0 0 ~ f b ^ { - 1 }$ ). The signal significance $S / \sqrt { S + B }$ has reached to 4.O2 and with the precise 4.42 $\sigma$ excess for the LEP-LHC benchmark point.   
+
+<html><body><table><tr><td>一</td><td>tt</td><td>W(→lvjj)bb+jets</td><td>Signal</td></tr><tr><td>Total</td><td>1.2 × 108</td><td>1.91 × 107</td><td>1.25 × 104</td></tr><tr><td>Trigged</td><td>4.95 × 106</td><td>1.45 ×106</td><td>1456.75</td></tr><tr><td>Cut1</td><td>3.77 × 105</td><td>1.61 × 105</td><td>639.5</td></tr><tr><td>Cut2</td><td>1932</td><td>203</td><td>119.75</td></tr><tr><td>Cut3</td><td>1512</td><td>155.2</td><td>105.5</td></tr><tr><td>Cut4</td><td>108</td><td>47.75</td><td>56.25</td></tr><tr><td>Cut5</td><td>84</td><td>47.75</td><td>55</td></tr></table></body></html>
+
+Since Fig.1 shows obvious cluster behavior, the whole parameter space with pushing-upward effect can be explored.Using BDT analysis [31],we consider six representative points to demonstrate the search prospect,and the discovery signal significance for each case is given in Table II.Some observations can be made:(A) For a given $m _ { H _ { 3 } }$ ,a lighter $H _ { 1 }$ shows better discovery potential; (B)Increasing $H _ { 3 }$ mass helps to boost $\boldsymbol { H } _ { 1 }$ but the cross section is reduced.Thus,a moderately heavy $H _ { 3 } \sim 4 0 0$ GeV and relatively light $H _ { 1 }$ have the most promising discovery potential; (C) Most of the parameter space is discoverable except for simultaneously light $H _ { 3 }$ and heavy $\boldsymbol { H } _ { 1 }$ ，e.g.，the benchmark point B1,despite of a rather large cross section,has a quite low signal significance.
+
+The situation can be further improved when we take $H ^ { \pm }$ into account. $H ^ { \pm }$ can be produced associated with a single top,with a moderately large cross section at the small $\tan \beta$ region.Moreover,it can decay to $H _ { 1 }$ and $W$ with a substantial branching ratio and hence provide a way to probe $H _ { 1 }$ and $H ^ { \pm }$ .In this case $H ^ { \pm }$ can be produced with a larger $p _ { T }$ and the boost will be easier for lighter $H ^ { \pm }$ , not very sensitive to $m _ { H _ { 1 } }$ . So it can provide a complementary or even more promising channel for the pushing-upward scenario.We leave it for the future work.
+
+<html><body><table><tr><td></td><td>mH1(GeV)</td><td>mH3(GeV)σ (fb)</td><td></td><td>SB</td></tr><tr><td>B1</td><td>100</td><td>300</td><td>70</td><td>0.81</td></tr><tr><td>B2</td><td>65</td><td>300</td><td>50</td><td>3.84</td></tr><tr><td>B3</td><td>98</td><td>400</td><td>25</td><td>4.73</td></tr><tr><td>B4</td><td>65</td><td>400</td><td>20</td><td>7.68</td></tr><tr><td>B5</td><td>100</td><td>600</td><td>2</td><td>2.79</td></tr><tr><td>B6</td><td>65</td><td>600</td><td>2</td><td>4.99</td></tr></table></body></html>
+
+TABLE II:Discovery signal significances for 6 representative pointsat 14 TeV 500 $f b ^ { - 1 }$ .We design 25 kinematic variables forBDT analysis [31]:ET,PT,W,mW,njet,PT,b1,PT,b2, PT,l, $^ { \prime } { } ^ { m } T , \ell \nu$ ， $p _ { { T } , w j \ell }$ ， $p _ { T , w j _ { 2 } }$ ， $p _ { T , j j \ell \nu }$ ， $\Delta R _ { \ell j }$ ， $\Delta \phi _ { l w }$ ， $_ { p T , H _ { 3 } }$ ， $m _ { \ell \nu }$ ， $E _ { l \nu }$ ， and mH3
+
+Conclusion:We pointed out the specific features in the CP-even Higgs sector of the natural NMSSM, and showed that all three CP-even Higgs boson $H _ { i }$ can be probed at the14 TeVLHC.
+
+Acknowledgements: We would like to thank Ran Huo,Chunli Tong,Andreas Papaefstathiou, Lilin Yang and Jose Zurita for helpful discussions. This research was supported in part by the Natural Science Foundation of China under grant numbers 10821504,11075194, 11135003，and 11275246，and by the DOE grant DEFG03-95-Er-40917 (TL).
+
+\* E-mail: zhaofengkang@gmail.com   
+† E-mail: jmli@itp.ac.cn   
+‡E-mail: tli@itp.ac.cn   
+\$E-mail: liudaphysics@gmail.com   
+E-mail: shujingtom@gmail.com   
+[1]G.Aad et al. [ATLAS Collaboration],Phys.Lett.B 716, 1(2012); S.Chatrchyan et al.[CMS Collaboration],Phys. Lett.B 716,30 (2012).   
+[2] S.Antusch,et al arXiv:1207.7236；I.Gogoladze,et al arXiv:1212.2593;H.Baer,et al arXiv:1212.2655.   
+[3]U.Ellwanger，C.Hugonie and A.M.Teixeira,Phys. Rept.496,1 (2010). [4]Z.Kang,J.Li and T.Li, JHEP 1211,024 (2012).   
+[5] J. -J. Cao, Z. -X. Heng, J. M. Yang, Y. -M. Zhang and J.-Y. Zhu,JHEP 1203,086 (2012). [6]K.Agashe,Y.Cui and R.Franceschini,arXiv:1209.2115.   
+[7] Early works:S.Chang,P.J.Fox and N.Weiner,JHEP 0608,O68 (2006).R.Dermisek and J.F.Gunion,Phys. Rev.D 77,015013 (2008).   
+[8]J.Cao, C.Han,L.Wu,J.M. Yang and Y.Zhang, JHEP 1211 (2012） 039 [9]X.-J.Bi,Q. -S.Yan and P. -F.Yin,arXiv:1209.2703.   
+[10]D.Berenstein,T.Liu and E.Perkins,arXiv:1211.4288.   
+[11]U.Ellwanger，arXiv:1112.3548；D.A.Vasquez，et al Phys.Rev.D 86，035023 (2012)；T.Cheng，et al arXiv:1207.6392；R.Benbrik,et al Eur.Phys.J.C 72, 2171(2012)．Z. Heng，arXiv:1210.3751；K.Kowalska, et al arXiv:1211.1693；Z. Kang,et al arXiv:1208.2673; T.Gherghetta,B.von Harling，A.D.Medina and M.A.Schmidt,arXiv:1212.5243.   
+[12]K.Choi,S.H. Im，K.S.Jeong and M. Yamaguchi, arXiv:1211.0875.   
+[13] M.J. Dolan，C. Englert and M. Spannowsky, arXiv:1210.8166.   
+[14]R.Barate et al.[LEP Working Group for Higgs boson searches and ALEPH and DELPHI and L3 and OPAL Collaborations],Phys.Lett.B 565,61 (2003).   
+[15] G.Belanger，U. Ellwanger，J.F.Gunion，Y. Jiang, S.Kraml and J.H. Schwarz,arXiv:1210.1976.   
+[16]M. Drees，arXiv:1210.6507；L.Basso and F.Staub, arXiv:1210.7946；F. Arbabifar，et al. arXiv:1211.6797; L.Aparicio,P.G.Camara,D.G.Cerdeno,L.E.Ibanez and I.Valenzuela,arXiv:1212.4808;   
+[17] The CMS Collaboration,CMS-PAS-HIG-12-045 (2012)   
+[18] D.G.Cerdeno，P.Ghosh and C. B. Park, arXiv:1301.1325 [hep-ph].   
+[19]S.F.King,M Muhlleitner,R.Nevzorov and K.Walz, arXiv:1211.5074.   
+[20]U.Ellwanger and C.Hugonie,Comput.Phys.Commun. 175（2006) 290;U.Ellwanger,J.F.Gunion,and C.Hugonie,JHEP 02（2005）066.   
+[21]N.D.Christensen and C.Duhr,Comput.Phys.Commun. 180:1614-1641 (2009).   
+[22]J.Alwall,M.Herquet，F.Maltoni,O.Mattelaer and T.Stelzer,JHEP 1106,128 (2011).   
+[23]V.Ahrens,A.Ferroglia,M.Neubert,B.D.Pecjak and L.L.Yang,Phys.Lett.B 703,135 (2011).   
+[24]S.Hoeche,et al hep-ph/O602031.J.Alwall,S.de Visscher andF.Maltoni,JHEP 0902,017(2009).   
+[25]T.Sjostrand,S.Mrenna and P.Z.Skands,JHEP 0605, 026 (2006).   
+[26] M.Dobbs and J.B.Hansen,Comput.Phys.Commun. 134,41 (2001).   
+[27]M.Cacciari,G.P. Salam and G.Soyez,Eur.Phys. J.C 72,1896 (2012)   
+[28]J.M.Butterworth，A.R.Davison，M.Rubin and G.P.Salam,Phys.Rev.Lett.100,242001 (2008)   
+[29] Y.L.Dokshitzer，G.D.Leder，S.Moretti and B. R.Webber，JHEP 08,001(1997)；M. Wobisch and T. Wengler,hep-ph/9907280.   
+[30] A.Papaefstathiou,L. L. Yang andJ. Zurita, arXiv:1209.1489.   
+[31] Hai-JunYang, Byron P. Roe and Ji Zhu, Nucl.Instrum.Meth.A555 (2005) 370-385.

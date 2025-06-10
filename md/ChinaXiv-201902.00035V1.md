@@ -1,0 +1,138 @@
+# 非小细胞肺癌跳跃性N2淋巴结转移的临床病理特点
+
+张家齐，刘磊，王桂阁，白文梁，李单青中国医学科学院北京协和医学院北京协和医院胸外科，北京100730通信作者：李单青 电话：010-69152630 E-mail：lidanqing@pumch.cn摘要：肺癌作为全球肿瘤致死的首要原因，其主要治疗方式，尤其对于早期非小细胞肺癌患者，手术治疗依然占主导地位，而淋巴结转移状态对于肺癌的分期、预后至关重要。跳跃性N2 转移比较常见，而且与患者的预后密切相关。本文主要归纳非小细胞肺癌跳跃性 N2 转移的临床病理特点及其生存预后等，期待为临床决策提供一定的指导。
+
+关键词：非小细胞肺癌；跳跃性N2转移；临床病理特点；生存预后
+
+中图分类号：R734.2，R-1
+
+#
+
+The clinicopathological features of skip N2 lymph node metastasis in NSCLC Zhang Jia-qi, Liu Lei, Wang Gui-ge, Bai Wen-liang, Li Shan-qing Department of Thoracic Surgery, Peking Union Medical College Hospital, Chinese Academy of Medical Science & Peking Union Medical College,Beijing 100730, China Corresponding author: Li Shan-qingTel: O10-69152630 E-mail: lidanqing $@$ pumch.cn Abstract: The main treatment for non-small cell lung cancer(NSCLC),as the leading cause of cancer-related death in the world, is surgery intervention, especially for early-stage NSCLC,and the pathological lymph nodes metastasis is closely associated with the staging and prognosis of patients. Among N2 metastasis,skip N2 metastasis is a quite common phenomenon，as it's reported that skip N2 metastasis is associated with a better prognosis.The aim of this article is to summary the clinicopathological features and prognosis of skip N2 metastasis in NSCLC, and guide for clinical decision making.
+
+Key words: NSCLC, skip N2 metastasis, clinicopathological features, prognosis
+
+肺癌作为全球肿瘤致死的首要原因，其发病率在逐渐上升；近些年来肺癌治疗方面的研究取得了较大进展，包括手术技巧、靶向治疗、免疫治疗等，使得肺癌患者的生存预后有了较大提高。对于可切除肿瘤的患者，尤其是非小细胞肺癌（non-smallcell lungcancer,NSCLC)，其首选的治疗方法依旧是手术治疗，手术方式以肺叶切除加系统性纵隔淋巴结清扫为主；而手术指征则需要依据原发肺癌病灶的临床分期进行评估，目前最常用的肿瘤分期依据是肺癌的肿瘤-淋巴结-转移（Tumor-Node-Metastasis,TNM）分期标准。2016年国际肺癌研究协会根据从16 个国家，35个中心搜集到的从1999 年至 2010年一共94，708 例肺癌数据，通过癌症研究和生物统计的综合分析，更新旧版的肺癌分期系统，公布了第 8版肺癌的 TNM分期策略[1-4]。新版的分期策略主要以肺癌预后为出发点，对肺癌的 T/N/M重新归纳总结更新，为肺癌的预后评价及临床治疗决策提供了更精确地指导。新版的N分期系统将跳跃性N2转移单独列出（图1)，即 N2a1；虽然在最终的肺癌 TNM分期中并无细分，但这一点的提出是基于部分N1和 N2al患者生存曲线存在交叉的情况，即N2a1患者的病理预后可能较其他N2患者好，提示潜在的亚分期患者具有更优的预后。
+
+![](images/9df734afe096a616f980445fb435e336d4fce6b850ddd9344c49ef693d9cdb3e.jpg)  
+图1.第八版肺癌TNM分期中N分期描述
+
+普遍认为，肺癌N2淋巴结转移指的是肺癌患者出现同侧纵隔内和/或隆突下淋巴结转移，包含N1（-）N2 $( + )$ 及 $\mathrm { N } 1 ( + ) \ N 2 ( + )$ ；而肺癌跳跃性N2转移则指的是前者，即肺癌患者出现N2淋巴结转移，但是没有对应的气管旁或同侧肺门区淋巴结侵犯。早在1971年，肺癌跳跃性纵隔淋巴结转移被Kirsh团队所发现[5]；Libshitz在1986 年首次将之命名为“跳跃现象”[回]。三十多年来，越来越多的病例被报道；有数据表明，NSCLC发生N2转移的病例中 $20 \% { \sim } 3 0 \%$ 存在跳跃性转移，并且此类亚型的肺癌患者具有较好的预后[7-10]。本文旨在归纳总结相关文献，对NSCLC跳跃性N2转移的临床及病理等特点进行回顾综述。
+
+# 1NSCLC跳跃性N2转移的临床特征
+
+NSCLC 中跳跃性N2 转移现象并不罕见；根据不同的文献报道，N2 阳性的NSCLC 患者中，跳跃性 N2 转移比例波动在 $20 \% \sim 4 4 \%$ ，平均约 $3 1 . 6 \% ^ { [ 1 1 , 1 2 ] }$ 。有研究[13-15]表明，跳跃性 N2 转移的 NSCLC 患者在年龄、性别上并无差异，与吸烟史没有相关性；但是Guerrera[12在 2016 年公布了一共 54 例跳跃性 N2 转移的肺腺癌患者的病例资料，发现跳跃性N2 转移的肺腺癌主要集中在非吸烟者；但这也无法说明吸烟是跳跃性转移的独立影响因子。多项研究[13,16-18]表明，跳跃性N2 转移的 NSCLC 更多见于原发癌灶位于右肺者，尤其是右上肺；但是，Li[14]认为肿瘤的大小可以作为独立因素影响跳跃性N2转移，尤其是小于3cm的肿瘤;而肿瘤的位置则与跳跃性转移无相关性。不过，大多研究[19,20]认为，不同肺叶的肺癌具有相对特异的跳跃性 N2 转移区；Shigemoto[19]根据相关文献的报告，绘制出了不同肺叶相对特异的跳跃性N2转移区域的简图，指出右上肺及左上肺肺癌多分别跳跃转移至第4组及第5组淋巴结，双下肺肺癌多跳跃转移至第9组；这与Takahashi[17]及Kawano[21等观点大致相同，约 $80 \%$ 的患者符合这种规律。
+
+# 2NSCLC 跳跃性N2转移的病理特征
+
+NSCLC的病理类型主要包括腺癌、鳞癌、大细胞癌等，约占肺癌的 $80 \%$ ，其中腺癌的发生率较其他病理类型的NSCLC 高。有研究发现，跳跃性N2转移的 NSCLC更多见于腺癌类型，尤其是腺泡状生长为主的肺腺癌，非跳跃性 N2转移的 NSCLC 则更多见于乳头状生长为主的肺腺癌[13]。但 Ilic[22]于 2007 年报道了21例跳跃性N2 转移的NSCLC 患者，发现N2转移的NSCLC 患者的病理类型多为肺腺癌，而跳跃性N2转移更常见于肺鳞癌患者 $( \mathsf { p } { < } 0 . 0 0 1 )$ ，这与 Tanaka[23]及Casali[24的研究结果相似，Ilic 并根据其观察结果认为女性患者之所以较少发生跳跃性 N2 转移可能与女性患者肺腺癌发病率高相关。而 Riquet[8则认为肺癌组织病理学在N2跳跃转移方面并无区别，但如果单独就单站纵隔淋巴结转移而言，跳跃性N2 转移的NSCLC 多见于腺癌及大细胞癌，而非跳跃性N2 转移者则以鳞癌为主。2001年，王思愚[25在分析176 例ⅢA-N2 NSCLC 的特点时，认为跳跃性N2转移的NSCLC多为单站纵隔淋巴结转移（ $9 2 . 5 \%$ ）。
+
+2015 年，Li[13]分析了45 例跳跃性N2 转移的肺腺癌患者组织病理结果，发现存在跳跃性 N2 转移的肺腺癌具有较少的淋巴管浸润及胸膜侵犯。但相反地，来自日本的Atsuo Gorai[2医生回顾性分析了422 例临床IA期NSCLC 患者，其中 21例存在跳跃性N2 转移，其病理类型包括腺癌和非腺癌，结果表明跳跃性N2 转移的NSCLC具有更高概率的脏层胸膜及淋巴血管侵犯；而且多因素分析提示脏层胸膜侵犯，对于临床早期肺癌患者，是肺癌跳跃性N2转移的重要预测因子。
+
+# 3NSCLC跳跃性N2转移的分子生物学/标记物研究进展
+
+目前肺癌，尤其肺腺癌的基因检测技术已经相当成熟，且广泛应用于指导肺腺癌的靶向治疗上。而 Guerrera[12则把焦点聚集在跳跃性 N2 转移的肺腺癌上，其团队统计了54/279 例跳跃性N2转移的肺腺癌患者，检测肺腺癌较为常见的突变基因（KRAS和EGFR），结果发现 $3 3 \%$ 的跳跃性N2转移的肺腺癌患者存在EGFR 突变（尤其是20外显子突变），而非跳跃性N2转移的肺腺癌患者EGFR突变阳性率仅占 $10 \%$ ( $\mathsf { p } { < } 0 . 0 0 1$ ）；KRAS突变则在两者之间并无差异。
+
+Pezell[27]和Ohsaki[28等曾报道，Bcl-2 的过表达往往提示NSCLC 患者具有更好的预后；而 Prenzel[29]后来的研究发现，跳跃性 N2 转移的NSCLC 患者的 Bcl-2表达水平较非跳跃性 N2 转移的患者高，这或许能够解释跳跃性 N2 转移患者具有较好预后的现象；同样，p53 突变作为一种反向影响因子，其在非跳跃性 N2转移肺腺癌中的水平较跳跃性转移者高。
+
+NSCLC 跳跃性N2转移的标记物研究相对较少。Komatsu及其团队[30回顾性分析了279 例术前临床IA 期的 NSCLC 患者，其中12 例患者存在跳跃性 N2 转移，分析患者术前血清里面CEA、Cyfra21-1、SLX的浓度，结果发现相比于 pNO的患者，跳跃性N2 转移的 NSCLC 患者的血清 SLX 浓度明显升高；其多因素分析提示在临床IA 期NSCLC 患者中，SLX 是跳跃性N2 转移的一个独立预测因子；但遗憾的是，并没有看到关于跳跃性N2转移与非跳跃性N2转移间的对比，而且缺乏特异性和敏感性的数据分析。
+
+# 4NSCLC跳跃性N2转移的可能机制
+
+肺癌的胸内淋巴结转移途径与淋巴引流方向存在密切关系，一般按照肺内-肺门-纵隔的顺序进行转移，由近及远，自上而下。肺癌跳跃性转移的机制，目前主要认为包括：1）侵犯脏层胸膜的肺癌通过壁层胸膜下淋巴管转移到纵隔淋巴结；2）肿瘤细胞绕过N1淋巴结通过肺内淋巴管转移到纵隔淋巴结；3）常规组织病理学对于N1淋巴结微转移的检出失败；4）淋巴结的基因背景改变。
+
+2014年，日本的Takizawa医生及其团队[31利用吲哚氰绿近红外荧光显像系统，在术中观察到一个右下肺直径约 $2 3 \mathrm { m m }$ 的实性肿瘤直接跳跃转移至纵隔淋巴结的真实路径，从而证实了跳跃性转移的存在；其手术组织病理也证实了为肺腺癌的 N2 转移，而且是第7组和 4R 组淋巴结。同样地，Imai[32也在术中证实了肺癌可以绕过肺门淋巴结直接转移至纵隔淋巴结。
+
+近些年来越来越多的研究报道提示淋巴管生成能够预测多种实体恶性肿瘤的淋巴结转移，虽然并没有关于肺癌相关的研究，但Ohta[33]等发现跳跃性 N2转移与非跳跃性N2 转移的NSCLC 在肿瘤周围区域，其淋巴管密度及血管内皮生长因子C的表达水平存在差异，跳跃性转移者肿瘤周围淋巴管密度较高；而且跳跃性N2 转移的NSCLC 患者中，淋巴管密度高者生存率会更低。肿瘤周围微环境的改变是否与NSCLC跳跃性N2转移直接相关，尚无直接的证据说明。
+
+# 5NSCLC跳跃性N2转移患者的生存分析
+
+有报道ⅢA-N2期NSCLC病人的5年生存率为 $6 \% \sim 3 5 \% ^ { [ 3 4 ] }$ ,其生存率的差异可能与治疗方法的选择以及肿瘤异质性等相关。但很多研究[7,13,16,22,29]发现，NSCLC 跳跃性N2 转移患者具有相对较好的预后。最近，日本的Isaka医生对1012 名接受手术治疗的I\~Ⅲ期 NSCLC 患者进行随访，其中包括 48 名跳跃性N2 转移的患者，结果发现，5年内肿瘤局部复发概率对于NO、N1、跳跃性 N2及非跳跃性 N2分别是 $9 6 . 1 \%$ 、 $8 4 . 1 \%$ 、 $8 5 . 0 \%$ 和 $5 3 . 5 \%$ C $\scriptstyle \cdot < 0 . 0 0 0 1 .$ ）；N1转移的NSCLC患者与跳跃性N2转移的NSCLC患者在5年局部肿瘤复发情况方面无明显差异。Guerrera[12]分析了54/279 例跳跃性 N2 转移的肺癌患者，发现跳跃性 N2 转移的 NSCLC 患者可能具有更好的总体生存期（overall survival,OS）（HR0.656; $\mathrm { P } = 0 . 0 6 3$ ·， $9 5 \%$ CI0.421-1.023）；跳跃性N2 转移对于OS具有独立保护作用(HR 0.503; ${ \mathrm { P } } = 0 . 0 1 4$ ·， $9 5 \%$ CI0.291-0.870)。而且，与非跳跃性N2 转移的患者相比,跳跃性转移者5年内肿瘤复发转移的风险显著降低(0.71VS0.45, $\scriptstyle \mathtt { p = 0 . 0 9 }$ ）°同样的，EGFR热点突变的患者同样具有较低的5年复发率。
+
+本文统计不同文献报道的跳跃性N2转移NSCLC患者的5年生存率，结果如下：
+
+<html><body><table><tr><td rowspan="2">作者</td><td rowspan="2">年份</td><td colspan="2">跳跃性N2 转移</td><td colspan="2">非跳跃性 N2转移</td><td rowspan="2">p值</td></tr><tr><td>例数</td><td>5年生存率 (%)</td><td>例数</td><td>5年生存率 (%）</td></tr><tr><td>Akcay[35]</td><td>2017</td><td>55</td><td>20.0</td><td>56</td><td>7.4</td><td>0.084</td></tr><tr><td>Guerrera[12]</td><td>2017</td><td>54</td><td>42.0</td><td>225</td><td>44.0</td><td>0.84</td></tr><tr><td>Li[13]</td><td>2015</td><td>45</td><td>60.7</td><td>132</td><td>32.1</td><td>0.024</td></tr><tr><td>Sonobe[16]</td><td>2013</td><td>248</td><td>47.8</td><td>248</td><td>41.7</td><td>0.168</td></tr><tr><td>Ohta[33]</td><td>2006</td><td></td><td>33.4</td><td></td><td>19.8</td><td>0.0189</td></tr><tr><td>Prenze[29]</td><td>2004</td><td>17</td><td>41.0</td><td>28</td><td>14.0</td><td>0.019</td></tr><tr><td>Gawryckowski[36]</td><td>2003</td><td>23</td><td>26.1</td><td>41</td><td>0.0</td><td>0.0015</td></tr><tr><td>Fukuse[37]</td><td>2000</td><td>30</td><td>51.0</td><td>57</td><td>33.0</td><td>0.12</td></tr><tr><td>Oyaizu[38]</td><td>1999</td><td>76</td><td>37.0</td><td>102</td><td>22.0</td><td>0.02</td></tr><tr><td>Yoshino[39]</td><td>1996</td><td>33</td><td>35.0</td><td>77</td><td>13.0</td><td>0.054</td></tr></table></body></html>
+
+表1.不同文献报道的跳跃性N2转移肺癌患者5年生存率
+
+Citak[40]于2015年发表一项研究数据，其团队专门统计了接受手术治疗且出现主肺动脉窗淋巴结转移的左上肺 NSCLC 患者的生存情况；其结果表明，与非跳跃性N2 转移的 NSCLC 患者相比，跳跃性 N2 转移的患者具有更好的5 年生存率（ $2 9 . 9 \%$ vs. $1 9 . 2 \%$ ）。Riquet[8总结了几篇文献的数据，同样认为跳跃性 N2转移的NSCLC 患者具有相对较好的预后生存。
+
+# 6讨论
+
+对于接受手术治疗的NSCLC 患者，是否出现N2转移是影响其术后辅助治疗措施选择及预后的重要因素；但随着研究的深入，临床医生们发现，即使是
+
+N2 阳性的 NSCLC 患者，其预后依然相差甚远，这也就不断促使人们去分析为何同样的肿瘤分期，却存在如此迥异的生存结局；这其中不乏关于单站N2 转移与多站 N2 转移、N2转移的数量及比例以及本文关注的跳跃性N2转移的对比研究。本文关注跳跃性N2转移的原因主要是此类患者预后相对较好，而且可能会影响手术方案的决策。
+
+NSCLC的标准手术方式是解剖性肺叶切除加系统性淋巴结清扫；但随着研究的不断深入，一些临床实验结果认为，系统性与选择性淋巴结清扫对于某些患者的生存预后影响并无统计学差异。因此，对于NSCLC，尤其是早期肺癌患者，是否需要行系统性纵隔淋巴结清扫尚存在争议。另外随着肺段切除概念的引入，对于某些早期肺癌患者，为了最大程度的保留患者的肺功能，部分医院已开展肺段切除手术；但考虑到跳跃性N2转移的普遍性，临床实践中是否需要特异地行纵隔淋巴结采样/清扫，是否需因此而改变手术策略，这些手术的适应症是否需要进一步规范化，以避免遗漏潜在的转移病灶，进而提高患者的生存预后。最近，来自上海的成兴华医生[4回顾性分析了1430 例临床I期 NSCLC 患者的临床病理学特征，发现肿瘤大小 ${ < } 2 \mathrm { c m }$ 、pN1阴性，无淋巴管血管浸润和鳞屑样腺癌的患者出现纵隔淋巴结转移的几率很低；其次原位腺癌、微浸润性腺癌或最终病理提示为鳞屑样腺癌的患者均未出现 pN2 转移，其5年OS 和无复发生存期均为$9 9 . 3 \%$ ；该团队认为，肿瘤的组织病理学可以预测早期肺癌的纵隔淋巴结转移，对于这些低危组患者可以开展选择性纵隔淋巴结清扫。而张[42]等则在分析临床Ia期NSCLC 患者的病理后提出，建议全面的肺门和纵隔淋巴结清扫是CT纵隔窗显示肿瘤直径大于 $1 0 \mathrm { m m }$ 并非常贴近脏层胸膜的周围型肺癌的标准手术方式。Komatsu[30则发现，术前考虑临床Ia期的NSCLC，若其GGO 成分大于$7 5 \%$ ，则极少出现跳跃性 N2 转移。因此，对于早期肺癌患者的手术方案的临床决策，尤其在系统性纵隔淋巴结清扫方面，依然存在广泛的争论。遗憾的是，术前穿刺病理或术中冰冻病理，尚无法提供具体详尽的病理诊断，以有效指导此类手术方案的选择。但是，结合以上临床病理特点，譬如直径小于 $2 \mathrm { c m }$ 、未侵犯脏层胸膜的右上肺的肺腺癌，存在EGFR 突变，或许可行选择性N2 活检，但依旧有待更高等级的证据支持。相信在不久的将来，随着对跳跃性转移的了解不断加深，外科医生可以更敏感地预测跳跃性转移的发生，从而指导手术方式的选择。
+
+此外，关于跳跃性转移的肺癌在靶向治疗、免疫治疗等方面的研究尚存在一些突破的空间。
+
+除了非小细胞肺癌，在小细胞肺癌、肺类癌、食管癌、胃癌等其他肿瘤中，也存在跳跃性转移现象。不同肿瘤的跳跃性转移现象本身是否存在某种本质联系，是否与肿瘤的发生、发展存在因果关系尚需要进一步的研究来证实。
+
+综上所述，普遍认为肺癌跳跃性N2转移具有较好的预后，右上肺腺癌具有更高的跳跃性转移发生率，其EGFR突变率相对较高。遗憾地是，由于缺乏规范、随机、大样本的临床数据分析，尚无法提供一些高级别的临床证据来预测肺癌跳跃性转移的发生。鉴于跳跃性转移具有相对特异的纵隔淋巴结转移区，或许在不久的将来，对于某些早期NSCLC，肺叶特异性或选择性纵隔淋巴结清扫会逐渐成为主流纵隔淋巴结清扫方式，这有待大量的临床研究证据的支持。
+
+# 参考文献
+
+[1] Detterbeck F C, Nicholson A G, Franklin W A, et al. The IASLC Lung Cancer Staging Project: Summary of Proposals for Revisions of the Classification of Lung Cancers with Multiple Pulmonary Sites of Involvement in the Forthcoming Eighth Edition of the TNM Classfication[J]. Journal of Thoracic Oncology,2016,11(5):639-650.   
+[2] Deterbeck F C, Marom E M, Arenberg D A, et al. The IASLC Lung Cancer Staging Project: Background Data and Proposals for the Application of TNM Staging Rules to Lung Cancer Presenting as Multiple Nodules with Ground Glass or Lepidic Features or a Pneumonic Type of Involvement in the Forthcoming Eighth Edition of the TNM Clasification[J]. Journal of Thoracic Oncology, 2016,11(5):666-680.   
+[3] Dettrbeck F C, Chansky K,Groome P,et al. The IASLC Lung Cancer Staging Project: Methodology and Validation Used in the Development of Proposals for Revision of the Stage Classification of NSCLC in the Forthcoming (Eighth) Edition of the TNM Classification of Lung Cancer[J]. Journal of Thoracic Oncology, 2016,11(9):1433-1446.   
+[4] Detterbeck F C，Boffa D J，Kim A W,et al.The Eighth Edition Lung Cancer Stage Classification[J]. Chest, 2017,151(1):193-203.   
+[5] Kirsh M M, Kahn D R, Gago O,et al. Treatment of bronchogenic carcinoma with mediastinal
+
+metastases[J]. The Annals of thoracic surgery, 1971,12(1):11.
+
+[6] Libshitz HI,McKenna RJ,Mountain C F.Patterns of mediastinal metastases in bronchogenic carcinoma[J]. Chest,1986,90(2):229-232.
+
+[7] Isaka M, Kojima H, Takahashi S,et al.Risk factors for local recurrence after lobectomy and lymph node dissection in patients with non-small cell lung cancer:Implications for adjuvant therapy[J]. Lung Cancer, 2018,115:28-33.
+
+[8] Riquet M, Assouad J, Bagan P,et al. Skip Mediastinal Lymph Node Metastasis and Lung Cancer: A Particular N2 Subgroup With a Better Prognosis[J]. The Annals of Thoracic Surgery, 2005,79(1):225-233.
+
+[9] Benoit L，Anusca A,Ortega-Deballon P,et al. Analysis of risk factors for skip lymphatic metastasis and their prognostic value in operated N2 non-small-cell lung carcinoma[J]. European Journal of Surgical Oncology (EJSO), 2006,32(5):583-587.
+
+[10] MISTHOS P, SEPSAS E,ATHANASSIADI K,et al. Skip metastases: analysis of their clinical significance and prognosis in the IIIA stage of non-small cell lung cancer[J]. European Journal of Cardio-Thoracic Surgery, 2004,25(4):502-508.
+
+[11]孟迪.N2淋巴结跳跃性转移在肺癌中的临床特点和预后分析[D]．浙江大学,2016.
+
+[12] Guerrera F,Renaud S,Tabbó F, et al. Epidermal growth factor receptor mutations are linked to skip N2 lymph node metastasis in resected non-smal-cell lung cancer adenocarcinomas†[J]. European Journal of Cardio-Thoracic Surgery, 2017,51(4):680-688.
+
+[13] Li H, Hu H,Wang R,et al. Lung adenocarcinoma: Are skip N2 metastases different from non-skip?[J]. The Journal of Thoracic and Cardiovascular Surgery, 2O15,15O(4):790-795.
+
+[14] Li G L, Zhu Y, Zheng W,et al. Analysis of factors influencing skip lymphatic metastasis in pN(2) non-small cell lung cancer[J]. Chin J Cancer Res,2012,24(4):340-345.
+
+[15] Li G, Zhu Y,Zheng W,et al. Analysis of factors influencing skip lymphatic metastasis in pN2 non-small cell lung cancer[J]. Chinese Journal of Cancer Research, 2O12,24(4):340-345.
+
+[16] Sonobe M,Date H, Wada H,et al.Prognostic factors after complete resection of pN2 non - small cell lung cancer[J]. The Journal of Thoracic and Cardiovascular Surgery,2O13,146(4):788-795.
+
+[17] Takahashi K,Sasaki T,Nabaa B,et al. Pulmonary lymphatic drainage to the mediastinum based on computed tomographic observations of the primary complex of pulmonary histoplasmosis[J]. Acta Radiologica, 2012,53(2):161-167.
+
+[18] Misthos P,Sepsas E,Kokotsakis J,et al. The Significance of One-Station N2 Disease in the Prognosis of Patients With Nonsmall-Cell Lung Cancer[J]. The Annals of Thoracic Surgery, 2008,86(5):1626-1630.
+
+[19] Shigemoto Y, Suga K, Matsunaga N. F-18-FDG-avid lymph node metastasis along preferential lymphatic drainage pathways from the tumor-bearing lung lobe on F-18-FDG PET/CT in patients with non-small-cel lung cancer[J]. Annals of Nuclear Medicine, 2016,30(4):287-297.   
+[20] Ito M, Yamashita Y, Miyata Y,et al. Prognostic impact of the primary tumor location based on the hilar structures in non-small cellung cancer with mediastinal lymph node metastasis[J]. Lung Cancer,2012,76(1):93-97.   
+[21] Kawano R, Hata E, Ikeda S,et al. Lobe-specific skip nodal metastasis in non-small cell lung cancer patients[J]. Ann Thorac Cardiovasc Surg, 2008,14(1):9-14.   
+[22] Nenad Iic A P D A. Skip Mediastinal Nodal Metastases in the IIa/N2 Non-Small Cell Lung Cancer[J]. J Thorac Oncol, 2007(2):1018-1021.   
+[23] TANAKA F, TAKENAKA K, OYANAGI H,et al. Skip mediastinal nodal metastases in non-smallcelllungcancer1[J].EuropeanJournalofCardio-ThoracicSurgery, 2004,25(6):1114-1120.   
+[24] Casali C, Stefani A, Natali P,et al. Prognostic factors in surgically resected N2 non-small cell lung cancer: the importance of patterns of mediastinal lymph nodes metastases[J]. European Journal of Cardio-Thoracic Surgery, 2005,28(1):33-38.   
+[25]王思愚，吴一龙，区伟，等．非小细胞肺癌纵隔淋巴结跳跃性转移的研究[J]．中华肿瘤杂志, 2001,23(3):259-261.   
+[26] Gorai A, Sakao Y, Kuroda H, et al. The clinicopathological features associated with skip N2 metastases in patients with clinical stage IA non-small-cell lung cancer[J]. European Journal of Cardio-Thoracic Surgery, 2015,47(4):653-658.   
+[27] Pezzela F,Turley H, Kuzu I, et al. bcl-2 Protein in Non-Small-Cell Lung Carcinoma[J]. New England Journal of Medicine,1993,329(10):690-694.   
+[28] Ohsaki Y,Toyoshima E,Fujiuchi S, et al. Bcl-2 and p53 protein expression in non-small cell lung cancers: correlation with survival time[J]. Clin Cancer Res,1996,2(5):915-920.   
+[29] Prenzel K L, Baldus S E, Monig S P, et al. Skip metastasis in nonsmallcel lung carcinoma[J]. Cancer, 2004,100(9):1909-1917.
+
+[30] Komatsu H, Mizuguchi S, Izumi N, et al. Sialyl Lewis $\mathrm { \Delta X }$ as a predictor of skip N2 metastasis in clinical stage IA non-small cell lung cancer[J]. Woria Journal oI Surgical Uncology, 2013,11(1):309.
+
+[31] Hiromitsu Takizawa S S M T. Demonstration of the skip metastasis pathway for N2 non - small cellung cancer[J]. J Thorac Cardiovasc Surg, 2014,147(e50):20022-25223.   
+[32] Imai K, Minamiya Y, Saito H, et al. Detection of pleural lymph flow using indocyanine green fluorescence imaging in non-small cell lung cancer surgery: a preliminary study[J]. Surgery Today,2013,43(3):249-254.   
+[33] Yasuhiko Ohta Y S M O. Results of initial operations in non-smal lung cancer patients with sinle-level N2 disease[J]. Ann Thorac Surg,2006,81:427-433.   
+[34] Goldstraw P, Crowley J, Chansky K, et al. The IASLC Lung Cancer Staging Project: Proposals for the Revision of the TNM Stage Groupings in the Forthcoming (Seventh) Edition of the TNM Classification of Malignant Tumours[J]. Journal of Thoracic Oncology,2OO7,2(8):706-714.   
+[35] Akcay O. Skip metastasis in non-small cell lung cancer: does it affect the prognosis?[J]. The Turkish Journal of Thoracic and Cardiovascular Surgery, 2O17,25(2):230-234.   
+[36] Gawrychowski J, Gabriel A,Lackowska B. Heterogeneity of stage IIA non-small cell lung cancers (NSCLC) and evaluation of late results of surgical treatment[J]. European Journal of Surgical Oncology (EJSO),2003,29(2):178-184.   
+[37] Fukuse T, Hirata T, Naiki H,et al. Prognostic significance of proliferative activity in pN2 non-small-cell lung carcinomas and their mediastinal lymph node metastases[J]. Annals of surgery,2000,232(1):112-118.   
+[38] Oyaizu T, Sagawa M, Sato M, et al. The pattern of mediastinal nodal involvement in lung cancer according to tumor-located lobe[J]. Kyobu geka. The Japanese journal of thoracic surgery, 1999,52(11):890.   
+[39] Yoshino I. Skip Metastasis to the Mediastinal Lymph Nodes in Non-Small Cell Lung Cancer[J]. Ann Thorac Surg,1996,62:1021-1025.   
+[40] Citak N, Sayar A, Metin M, et al. The Prognostic Significance of Metastasis to Lymph Nodes in Aortopulmonary Zone (Stations 5 and 6) in Completely Resected Left Upper Lobe Tumors[J]. The Thoracic and Cardiovascular Surgeon, 2015,63(07):568-576.   
+[41] Cheng X, Zheng D, Li Y, et al. Tumor histology predicts mediastinal nodal status and may be
+
+used to guide limited lymphadenectomy in patients with clinical stage I non-small cell lung cancer.[J]. Journal of Thoracic & Cardiovascular Surgery, 2018.
+
+[42]张翀．临床Ia期非小细胞肺癌纵隔N2淋巴结跳跃性转移的临床、影像和病理相关因素分析[D]．浙江大学,2017.

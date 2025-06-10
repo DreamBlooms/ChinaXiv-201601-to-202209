@@ -1,0 +1,95 @@
+临床研究
+
+# 肾移植术后肺部真菌感染的临床分析
+
+于立新，曾明星
+
+南方医科大学南方医院器官移植科，广东广州510515摘要：目的探讨肾移植术后患者肺部真菌感染的临床特点、治疗措施及其危险因素。方法回顾性分析我院2009年1月\~2014年9月我院器官移植科收治的176例肾移植术后并发感染患者的临床资料，其中40例肾移植术后患者诊断为肺部真菌感染，对这40例肾移植术后肺部真菌感染患者的临床症状、体征、影像学表现、病原菌培养或组织病理学检查、治疗以及其他相关病例资料进行总结分析。结果40例肾移植术后肺部真菌感染患者中男性25例，女性15例，平均年龄49岁,28例肺部真菌感染患者发生在肾移植术后6个月内,病原菌培养阳性19例,病原菌中念珠菌属感染17例，其中白色念珠菌11例，克柔氏念珠菌2例，光滑念珠菌3例,热带念珠菌1例，曲霉菌感染1例,假丝酵母菌感染1例,培养阴性21例，合并感染24例。采用抗真菌药物及辅助治疗后38例治愈,死亡2例。结论 肾移植术后肺部真菌感染多发生在术后6个月内,病原菌以白色念珠菌最常见，多为混合感染，且病情重、发展快,应尽早明确诊断,及时采用抗真菌药物及综合措施是救治成功的关键。
+
+关键词：肾移植；肺部真菌感染；危险因素
+
+# Pulmonary fungal infection after renal transplantation: analysis of 40 cases
+
+YU Lixin, ZENG Mingxing DepartmentofOrganTransplantation,anfangHspital,SouthernedicalUniersityGuangzhou515,ina
+
+Abstract: ObjectiveToexploretheclinicalcharacteristics,therapeutic measuresandriskfactorsofpulmonaryfungalinfection in patients afterrenal transplantation.Methods Theclinicaldataof176 patients receivingrenal alograft transplantation with postoperative infections were retrospectively analyzed. Among the patients,40 were diagnosed to have pulmonary fungal infection，andtheirclinicalsymptoms，signs，radiographic findings，pathogenicbacterialculture，histopathological examination,and treatments wereanalyzed.Results The 4O recipients with postoperative pulmonary fungal infection included 25 maleand 15 female patients with ameanage of 49 years.Twenty-eight of the patients developed pulmonary fungal infection within 6months after transplantation.Positive pathogen cultivationwasreported in19cases，and Candid albicansateiddeisddtdcali 1case,and Candidamycodermain1case.Twenty-fourofoutof the40cases werefoundtohavecoinfection.Allthepatients received antifungal drugs and adjuvanttreatments,and 38 patients werecured and2 died. Conclusion Pulmonary fungal infectionoften ocurs within 6monthsafterrenaltransplantation.The mostcommon fungalpathogen is Candidalbicansand thepatientsoften had coinfections.Earlydiagnosisand timely intervention with antifungal drugsandcomprehensive measures are critical in the management of pulmonary fungal infection following renal transplantation.
+
+Key words: renal transplantation; pulmonary fungal infection; risk factors
+
+随着外科技术水平的不断提高，肾移植已成为治疗慢性肾衰竭最有效的手段，但近年来由于广谱抗生素及新型强力免疫抑制剂的应用，使肾移植术后感染的发生率不断增加,严重影响肾移植患者及移植肾的长期存活率，有文献报道，肾移植术后感染发病率为正常人的2倍[1]。肺部感染是肾移植术后最主要亦是最常见的感染并发症,其中真菌感染约 $20 \%$ ,并呈逐年上升趋势[2],虽然其感染率较细菌低，但死亡率却较高，有文献报道，肾移植术后并发真菌感染的病死率可高达 $4 0 \% \sim 1 0 0 \% ^ { [ 3 ] }$ 已成为移植肾失功和受体移植物带功死亡的重要原因之一。为了提高对肾移植患者肺部真菌感染的认识以及提高肾移植术后的人、肾存活率，本文通过对我院收治的40例肾移植术后并发肺部真菌感染患者的临床资料进行总结分析，探讨肾移植患者肺部真菌感染的相关危险因素、临床特点以及治疗措施，现报道如下。
+
+# 1资料和方法
+
+# 1.1一般临床资料
+
+选择2009年1月\~2014年9月我院器官移植科收治的176例肾移植术后并发感染患者的临床资料，其中40例肾移植患者诊断为肺部真菌感染，男性25例，女性
+
+15例，年龄30\~68岁，平均49岁。术前原发性疾病包括：慢性肾小球肾炎17例，高血压肾病12例，糖尿病肾病7例，IgA肾病3例，多囊肾1例。术前行规律血液透析治疗27例，平均透析20.5月，规律腹膜透析13例，平均透析13.5月。HLA配型有2\~4个位点相符，ABO配型符合输血原则，群体反应性抗体(PRA)均阴性( $\prec$ $10 \%$ ),淋巴细胞毒交叉配型试验均阴性( $4 1 0 \%$ )。热缺血时间 $3 . 0 { \sim } 8 . 5 \ \mathrm { m i n }$ ，平均 $4 . 9 \ \mathrm { m i n }$ ；冷缺血时间 $7 { \sim } 1 3 . 5 \mathrm { h }$ 平均 $1 0 . 5 \mathrm { ~ h ~ }$ 。所有患者术前血常规、感染二项(CRP、PCT)、真菌-D葡聚糖及胸部X线检查均无特殊异常，全身亦无可疑感染灶存在。40例肾移植术后并发肺部真菌感染的患者人院时均以发热为首发症状，体温 $3 7 . 6 \sim$ $4 0 . 3 ~ \mathrm { { ^ circ C } }$ ，呈弛张热，伴有咳嗽、咳痰，且痰液量较少，甚至无痰，有活动后胸闷、气促，但无明显呼吸困难或发绀等症状,呼吸频率 $2 0 { \sim } 3 0 / \mathrm { m i n }$ □
+
+# 1.2免疫抑制药物治疗方案
+
+肾移植受者术前 $3 0 ~ \mathrm { m i n }$ 均予甲泼尼龙琥珀酸钠(甲强龙） $1 . 0 \ \mathrm { g }$ 静滴,术后第1、2、3天分别予甲强龙 $0 . 5 ~ \mathrm { g } \sim$ $0 . 2 5 \ \mathrm { g } { \sim } 0 . 2 5 \ \mathrm { g }$ 连续3d冲击治疗。其中有11例术前 $2 \mathrm { h }$ 与术后第4天均予抗 $\mathrm { C D } _ { 2 5 }$ 单克隆抗体(舒莱） $| 2 0 \ : \mathrm { m g } \ : \$ 静滴进行免疫诱导，29例术后第1\~5天分别静脉应用抗人T淋巴细胞兔免疫球蛋白(ATG)0.1g进行免疫诱导。术后长期予口服他克莫司(FK506)环孢素 $\mathbf { A } ( \mathbf { C } \mathbf { s } \mathbf { A } ) +$ 霉酚酸酯(MMF) $+$ 糖皮质激素(Pred)三联免疫抑制治疗方案，其中他克莫司组37例，环孢素组3例。7例患者术后发生急性排斥反应，发生时间为术后15\~120d,平均 $4 9 \mathrm { d }$ 7例患者经甲强龙 $0 . 5 \ { \mathrm { g } } \setminus 0 . 2 5 \ { \mathrm { g } } \setminus 0 . 2 5 \ { \mathrm { g } }$ 连续3d冲击治疗后均逆转，2例患者因再发急性排斥反应均给予甲强龙$0 . 2 5 \mathrm { ~ g } \mathrm { ~ } , 0 . 2 5 \mathrm { ~ g }$ 冲击治疗，其中有1例患者的移植肾功能恢复正常，另有1例患者经甲强龙 $0 . 2 5 \mathrm { ~ g } \mathrm { ~ } , 0 . 2 5 \mathrm { ~ g }$ 冲击治疗无效后给予 $\mathrm { A T G 0 . 1 g / d }$ 静滴，连续3d为一个疗程，经加强抗排斥治疗后患者血肌酐呈进行性下降趋势，移植肾功能逐渐恢复正常。
+
+# 1.3真菌感染的诊断要点
+
+(1临床表现：早期多表现为不规则发热，无明显咳嗽、咳痰，随着病情进展，患者可迅速出现发热(可达$3 9 ~ \mathrm { ^ { \circ } C }$ 以上，呈弛张热或稽留热）咳嗽、咳痰伴活动后胸闷、气促、呼吸困难甚至呼吸衰竭，多数患者肺部听诊可闻及散在干、湿性啰音;(2)X线胸片检查早期多为肺纹理增多、增粗、紊乱等间质性炎症表现，随着病情的进展，很快发展为片状、结节状乃甚至“白肺”，即两肺透亮度呈弥漫性减低。胸部CT平扫检查可见双肺纹理增多、增粗紊乱模糊，呈弥漫性斑片状、网格状、薄雾状及毛玻璃样改变，双肺可见单发或多发大小不等的结节影，伴有空洞影及新月征；(3)真菌培养阳性或经活体组织学检查证实有真菌侵入性感染的组织学证据,为确诊
+
+指标。
+
+# 1.4 治疗方法
+
+肾移植术后肺部真菌感染早期多采用经验性治疗，在尚无病原学证据的情况下，先予广谱抗生素治疗3d,若无效，则停用广谱抗生素，改为窄谱抗细菌药物联合抗真菌、病毒、卡氏肺孢子菌的"大包围"治疗策略，用药3d后评估疗效，并根据病原体检测结果及疗效来调整用药。真菌培养阳性者采用新型抗真菌药物治疗，如米卡芬净钠(米开明);真菌培养阴性者，经抗细菌、抗病毒治疗无效后，根据经验治疗先予百炎净或伏立康唑治疗3d,无效后改用或加用米卡芬净钠(米开明)，用药3\~7d后复查X线胸片或胸部CT。用药期间视情况适当减少免疫抑制剂口服剂量，同时应用丙种球蛋白(每日等对症支持治疗，持续低流量吸氧，必要时给予面罩或无创性机械通气，若血氧饱和度无明显改善者则需建立人工气道行有创机械通气治疗。
+
+# 1.5统计学分析
+
+结果采用SPSS19.0软件进行统计学分析，计量资料结果以均数 $\cdot \pm$ 标准差表示，治疗前后的比较采用配对样本 $t$ 检验， $P { < } 0 . 0 5$ 认为差异有统计学意义。
+
+# 2结果
+
+176例肾移植术后并发感染的患者中有40例患者诊断为肺部真菌感染 $( 2 2 . 7 \% , 4 0 / 1 7 6 ) , 2 8$ 例 $( 7 0 . 0 \% , 2 8 /$ 40)发生在术后6个月内；病原菌培养阳性19例，病原菌中念珠菌感染17例( $8 9 . 5 \%$ ,17/19),其中白色念珠菌11例 $( 6 4 . 7 \%$ ,11/17)，克柔氏念珠菌2例( $1 1 . 8 \%$ ,2/17)，光滑念珠菌3例 $( 1 7 . 7 \% , 3 / 1 7 )$ ，热带念珠菌1例 $( 5 . 9 \%$ ,1/17)，曲霉菌感染1例 $( 5 . 3 \% , 1 / 1 9 )$ ，假丝酵母菌1例（204 $( 5 . 3 \% , 1 / 1 9 )$ ;培养阴性21例，合并感染24例 $( 6 0 . 0 \%$ ，24/40)，其中真菌合并细菌、巨细胞病毒感染7例，真菌合并细菌感染14例，真菌合并巨细胞病毒感染3例，细菌主要以革兰阴性杆菌为主(包括铜绿假单胞菌、肺炎克雷伯杆菌、流感嗜血杆菌、鲍曼不动杆菌)。
+
+采用抗真菌药物等治疗后38例治愈（ $9 5 . 0 \%$ ,38/40)，死亡2例 $( 5 . 0 \% , 2 / 4 0 )$ ，直接死亡原因均为呼吸窘迫综合征，2例均为移植肾失功死亡。与治疗前相比，治疗后患者血清丙氨酸转氨酶、血清白蛋白、直接胆红素、间接胆红素、血清肌酐 $\ 、 2 4 \mathrm { h }$ 尿蛋白定量、外周血血红蛋白含量及血小板总数均略偏高，白细胞总数略偏低，但差异均无统计学意义（ $\mathrm { \ P { > } 0 . 0 5 }$ ，表1)。
+
+# 3讨论
+
+真菌在自然界广泛存在，可寄生于健康人体，属于条件致病菌，在正常状态下并不致病，但当各种原因导致机体免疫力下降、体内菌群失调时，可引起感染致病。据相关文献报道[46],肾移植术后真菌感染不仅与大剂量使用免疫抑制剂及生物制剂的免疫诱导、术后出现急性排斥反应，反复给予糖皮质激素(甲强龙)冲击治疗、广谱抗生素的应用有关，而且也与环境因素、患者白细胞减少症、糖尿病、高龄、长期贫血、低蛋白血症、术后移植肾功能延迟恢复时辅助透析、住院时间过长、各种导管的使用及留置、手术时间过长、输血、合并巨细胞病毒(CMV)感染等有关。
+
+表1肾移植术后肺部真菌感染治疗前后肝功能、肾功能、骨髓造血功能的变化 Tab.1 Liver, kidneyand bone marrow hematopoietic functions of the recipients with postoperative pulmonary fungalinfectionbeforeandafter the treatment   
+
+<html><body><table><tr><td>Group</td><td>n</td><td>ALT (U/L)</td><td>Albumin (g/L)</td><td>DBIL (μmol/L)</td><td>IBIL (μmol/L)</td><td>Serum Creatinine (μmol/L)</td></tr><tr><td>BT</td><td>40</td><td>13.35±9.26</td><td>36.63±4.44</td><td>2.90±1.47</td><td>5.27±2.55</td><td>131.63±100.39</td></tr><tr><td>AT</td><td>40</td><td>17.83±10.85</td><td>36.90±4.82</td><td>3.01±1.07</td><td>5.82±2.99</td><td>134.85±101.32</td></tr><tr><td>P</td><td></td><td>>0.05</td><td>>0.05</td><td>>0.05</td><td>>0.05</td><td>>0.05</td></tr></table></body></html>
+
+Note: ALT:Alaninetransaminase;DBIL: Directbilirubin;IBIL: Indirectbilirubin;BT:Before treatment; AT:Afterreatment.
+
+续表1   
+
+<html><body><table><tr><td>Group</td><td>24-hour roteinuria (g/24 h)</td><td>WBC (x10/L)</td><td>RBC (x10'2/L)</td><td>Hb (g/L)</td><td>PLT (x10/L)</td></tr><tr><td>BT</td><td>0.22±0.56</td><td>8.62±3.96</td><td>3.67±1.56</td><td>112.70±24.35</td><td>196.90±69.10</td></tr><tr><td>AT</td><td>0.23±0.62</td><td>8.42±3.64</td><td>4.17±1.66</td><td>113.55±20.72</td><td>211.48±81.14</td></tr><tr><td>P</td><td>>0.05</td><td>>0.05</td><td>>0.05</td><td>>0.05</td><td>>0.05</td></tr></table></body></html>
+
+本文40例肾移植术后肺部真菌感染患者中 $7 0 . 0 \%$ (28/40)发生在肾移植术后6个月内，这与国外学者Khan $\mathbf { A } ^ { [ 7 ] }$ 所报道的相一致。另外，国外有关肺部真菌感染病原学调查显示，实体器官移植后的真菌感染率为$5 \% { \sim } 5 9 \% ^ { [ 8 \mathrm { - } 9 ] }$ ,我中心肾移植术后真菌感染的发病率为$2 2 . 7 \% ( 4 0 / 1 7 6 )$ ，这与国外的报道相符。在40例肾移植术后肺部真菌感染患者中，病原菌培养阳性19例$( 4 7 . 5 \% , 1 9 / 4 0 )$ ，主要以念珠菌属为主( $8 9 . 5 \%$ ,17/19),其中白色念珠菌占 $6 4 . 7 \% ( 1 1 / 1 7 )$ ,其次为曲霉菌(1/19,$5 . 3 \%$ )、假丝酵母菌 $( 1 / 1 9 , 5 . 3 \%$ ),并且以混合性感染多见 $( 6 0 . 0 \% , 2 4 / 4 0 )$ ,这与国外报道的相似[10]。由于肾移植术后肺部真菌感染病情重、发展快，早期病原学不能及时、准确的做出诊断，并且常常合并细菌、病毒等感染，尤其是合并巨细胞病毒感染，患者可在数日内出现呼吸窘迫综合征，甚至可致患者死亡，因此早期及时采取抗真菌治疗并联合抗细菌、抗病毒治疗是十分重要的。目前抗真菌药物主要有三唑类(氟康唑、伏立康唑等）、咪唑类(酮康唑、咪康唑等)抗生素类(两性霉素B等）、嘧啶类(氟孢嘧啶）棘白菌素类(醋酸卡泊芬净钠、米卡芬净钠等）复方磺胺甲噁唑(百炎净)。由于三唑类抗真菌药对念珠菌属及其它酵母菌、霉菌、隐球菌、组织包浆菌等均具有广谱抗真菌活性，临床上已将其作为一线抗真菌药物[1-12]。近年来，由于耐药菌的不断出现以及念珠菌属、曲霉菌属等的感染率上升，使氟康唑在临床上的治疗效果越来越不理想，迫使人们不断研发新型抗真菌药物。本文19例真菌培养或者镜检阳性患者均使用新型抗真菌药物米卡芬净钠(米开明) $1 2 0 0 \mathrm { m g , 1 / d }$ 静滴，连用7\~14d,对于混合感染者还联合了抗细菌、抗病毒药物，经积极治疗后均治愈出院，而21例真菌培养阴性患者，结合其临床表现及辅助检查，高度怀疑真菌感染，行经验性抗真菌治疗，先予百炎净 $\mathrm { ( 0 . 9 6 ~ g / d }$ 口服)或伏立康唑( $2 0 0 \mathrm { m g / d }$ 口服)治疗3d,无效后改用或加用米卡芬净钠(米开明)， $2 0 0 \ \mathrm { m g , 1 / d }$ 静滴,其中有2例患者因就诊较晚且合并细菌、巨细胞病毒混合感染导致呼吸窘迫综合征，治疗无效死亡，其余均康复出院。其他治疗措施还包括最小化免疫抑制方案(特别是合并巨细胞病毒感染）应用丙种免疫球蛋白 $( 1 . 0 \mathrm { ~ g ~ } 1 / \mathrm { d }$ 静滴,连用3\~7d)以及纠正低蛋白血症、贫血等营养支持治疗，持续或间断吸氧,严重低氧血症患者给予高流量面罩吸氧或呼吸机辅助呼吸治疗。本研究显示：与治疗前相比，本文使用米卡芬净钠(米开明)治疗后患者血清丙氨酸转氨酶、血清白蛋白、直接胆红素、间接胆红素、血清肌酐 $\ 、 2 4 \mathrm { h }$ 尿蛋白定量、外周血血红蛋白含量及血小板总数均略偏高，白细胞总数略偏低,但差异均无统计学意义 $( P { > } 0 . 0 5 )$ 。由此可见,米卡芬净钠(米开明)对肾移植术后肺部真菌感染具有良好的治疗效果且不良反应少，可以作为治疗肾移植术后肺部真菌感染的首选药物。
+
+国内文献报道肾移植术后真菌感染的治愈率为  
+$6 6 . 7 \% \sim 9 6 \% ^ { [ 1 3 - 1 4 ] }$ ;国外文献报道为 $1 8 \% { \sim } 6 7 \% ^ { [ 3 , 1 5 ] }$ 。本中  
+心38例患者治愈，治愈率 $9 5 . 0 \% ( 3 8 / 4 0 )$ ，与国内文献报(下转封三页)
+
+# （上接882页）
+
+道的一致。针对肾移植术后并发肺部真菌感染患者，我们的治疗体会是：(1)术前选择肾移植受者时，应了解受者既往感染情况及其他疾病，积极对症治疗，以达到移植要求；(2)肾移植术后肺部真菌感染的早期诊断常常为决定预后的主要因素，当患者有咳嗽、咳痰、发热等临床表现，在诊断肺部感染时应考虑到真菌感染的可能，及早进行痰、血真菌培养检查，做到肺部真菌感染早期发现并及时治疗；(3)对于感染早期，胸部CT检查比胸部X线检查有更高的灵敏度，有助于肺部真菌感染的早期诊断;(4)肺部真菌感染患者多为混合感染，早期应“联合、足量、广谱"用药，避免失去抗感染最佳治疗时机；(5)对诊断为肺部真菌感染患者应合理使用抗真菌药物，对于病情较重的患者，除积极抗真菌治疗外，还应减少免疫抑制剂用量，甚至必要时停用免疫抑制剂、应用丙种球蛋白以及纠正低蛋白血症、贫血等营养支持治疗，持续或间断吸氧，必要时进行气管插管辅助呼吸是救治成功的关键措施。
+
+综上所述，肺部真菌感染是肾移植术后常见的感染并发症，术后6月内发生感染的风险较大，病原菌主要以念珠菌为主，特别是白色念珠菌最常见，多为混合感染，发生ARDS者预后差。对于肾移植术后并发肺部真菌感染的患者，及时使用抗真菌药物治疗以及积极采取强有力的综合治疗措施，才能有效的控制感染，提高肾移植术后肺部真菌感染的治愈率。
+
+# 参考文献：
+
+[1]Linares L,Cofan F,Cervera C,et al.Infection-related mortality in a large cohort of renal transplant recipients[J].Transplant Proc,2007,   
+39(7): 2225-7. [2]Israel E,Hirschwerk D,Jhaveri KD.Acremonium skin and soft tissue infection in a kidney transplant recipient[J]. Transplantation   
+2013,95(4): e20. [3]Trabelsi H,Néji S,Sellami H,et al.Invasive fungal infections in renal transplant recipients:about 11 cases[J].JMycol Med,2013, 23(4): 255-60.   
+[4]Wijesuriya TM,Weerasekera MM, Kottahachchi J,et al. Proportion of lower limb fungal foot infections in patients with type 2 diabetes at a tertiary care hospital in Sri Lanka[J].Indian J Endocrinol Metab,2014,18(1):63-9.   
+[5] Oner-Eyuboglu F, Karacan O,Akgay S,et al. Invasive pulmonary fungal infections in solid organ transplant recipients:a four-year review[J].Transplant Proc,2003,35(7): 2689-91.   
+[6]于立新,孙小齐,邓文锋,等.肾移植患者肺部重症感染的原因及救治 措施分析[J].中华泌尿外科杂志,2013,34(6):455-8.   
+[7]Khan A,El-Charabaty E,El-Sayegh S.Fungal infections in renal transplant patients[J]. JClin Med Res,2015,7(6): 371-8.   
+[8]Ranario JC,Reddick CS,Peterson JD,et al. Unilateral presentation of disseminated candidiasis: case report and review of the literature [J].Cutis,2013,91(3): 137-40.   
+[9]Badiee P,Alborzi A. Invasive fungal infections in renal transplant recipients[J].Exp Clin Transplant,2011,9(6): 355-62.   
+[10] Pappas PG,Alexander BD,Andes DR,et al. Invasive fungal infections among organ transplant recipients: results of the Transplant-Associated InfectionSurveillance Network (TRANSNET)[J].Clin Infect Dis,2010,50(8): 1101-11.   
+[11] Kwan LP,Choy CB,Chan TM, et al. Successful treatment of pulmonaryrhizopusinfectionwithsurgical resectionand posaconazole ina renal transplant recipient [J].Nephrology (Carlton),2013,18(1): 74-5.   
+[12] Shang W,Feng G, Sun R,et al. Comparison of micafungin and voriconazole in the treatment of invasive fungal infections in kidney transplant recipients [J].J Clin Pharm Ther,2012,37(6): 652-6.   
+[13]纳 宁,罗云,华学锋,等.肾移植术后真菌感染的诊治[J].广东医学, 2007,28(5): 766-8.   
+[14]徐 斌,杨 庆,王林辉,等.肾移植术后肺部真菌感染的诊断与治疗 [J].临床泌尿外科杂志,2008,23(9):690-3.   
+[15] Santos T,Aguiar B, Santos L,et al. Invasive fungal infections after kidney transplantation:a single-center experience [J].Transplant Proc,2015,47(4): 971-5. (起旦)

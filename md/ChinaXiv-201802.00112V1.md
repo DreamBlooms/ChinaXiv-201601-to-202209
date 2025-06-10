@@ -1,0 +1,130 @@
+# ${ \sf H } _ { 2 } { \sf S }$ 在水溶液中溶解度的分子动力学研究
+
+李茂祥 刘朝雷广平 宋粉红（低品位能源利用技术及系统教育部重点实验室，重庆大学动力工程学院，重庆 400030）
+
+摘要：本文采用分子动力学方法模拟了温度363.15K和 $4 1 3 . 1 5 \mathrm { ~ K ~ }$ ，压力 $3 \ \mathrm { M P a }$ 和 $6 \ \mathrm { M P a }$ 条件下，硫化氢在不同浓度无机盐溶液中的溶解度并对 Hofmeister效应中反常现象进行了讨论。研究表明，相同温度和离子浓度下，压力越高硫化氢的溶解度越大；相同压力和离子浓度下，温度越高硫化氢的溶解度越小；相同温度和压力下，离子浓度越高，硫化氢的溶解度越小，与相关实验结果一致。溶解度模拟数据和 geochem平台提供的数据相比，最小误差为 $5 . 5 \%$ ，最大误差为 $1 7 . 7 \%$ ，平均误差为 $1 3 . 1 \%$ 。同时，还发现Hofmeister效应中的反常现象是由阳离子的尺寸效应引起的。
+
+关键词：硫化氢；离子；溶解度；分子动力学中图分类号：TK123 文献标识码：A
+
+# Molecular Dynamics Simulations of the Solubility of HS in Aqueous Solutions
+
+LI Mao-Xiang,LIU Chao, LEI Guang-Ping, SONG Fen-Hong (KeyLaboratoryofLow-gradeEnergy UtilizationTechnologiesndSystemsofMinistryofEducation,CollegeofPowerEngiering Chongqing University, Chongqing 40o030, China)
+
+Abstract:The solubility of hydrogen sulfide in aqueous solutions is studied by molecular dynamics simulations at $3 6 3 . 1 5 \mathrm { ~ K ~ }$ and $4 1 3 . 1 5 \mathrm { K }$ at pressures $3 \mathrm { M P a }$ and $6 \mathrm { M P a }$ .The notable exception of Hofmeister effect is explained.Results show that the higher pressure leadstothehghersolubilitythehighertemperatureleadstothelowersolubilityandthedecreaseofthesolubilityofhydrogensulfide causedbythepresenceofsaltisalsoobseved.Thesimulationresultsarecomparedwiththegeochem-modeldataandthe minialerror is $5 . 5 \%$ ,the maximum error is $1 7 . 7 \%$ ,the mean error is $1 3 . 1 \%$ .It is found that the notable exception of Hofmeister effect is related to the cation size.
+
+Key words: hydrogen sulfide; ion; solubility; molecular dynamics simulation
+
+# 0引言
+
+$\mathrm { H } _ { 2 } \mathrm { S }$ 是自然界中最常见的气体之一，广泛发现于天然气[1-2]和流体包裹体中[3-4]。随着石油天然气勘探开发的不断深入，油气开采环境越来越恶劣，特别是高含 $\mathrm { H } _ { 2 } \mathrm { S }$ 组分油气田的开发，使得油套管腐蚀，溶解在水基钻井液中返回工地，灾难性的突发事故也越来越突出。近年来，世界各地相继开发了一些 $\mathrm { H } _ { 2 } \mathrm { S }$ 含量较高的气井[5],在我国也相继开发了高含 $\mathrm { H } _ { 2 } \mathrm { S }$ 的酸性天然气藏，四川盆地2/3气田含 $\mathrm { H } _ { 2 } \mathrm { S }$ 。因此，研究 $\mathrm { H } _ { 2 } \mathrm { S }$ 在水溶液中的溶解度有重要的理论
+
+和工程应用价值。
+
+国内外的研究者们做了大量的 $\mathrm { H } _ { 2 } \mathrm { S }$ 溶解度研究工作，得出上百套实验数据、几千个数据点并建立了理论模型外推到实验所覆盖的温度、压力范围之外，但是这些模型都有一定的局限性。由于 $\mathrm { H } _ { 2 } \mathrm { S }$ 的剧毒性、腐蚀性以及实验的温度、压力条件和成分的限制，因此采用分子动力学模拟是一种很好的方法。 $\mathrm { H } _ { 2 } \mathrm { S }$ 在水溶液中溶解度的机理研究工作非常少，Vorholz等[6-7]采用分子模拟(MC)的方法定性分析了$\mathrm { H } _ { 2 } \mathrm { S }$ 在纯水和NaC1水溶液中的盐析效应，仅做了部分定量分析。Lopez 等[8采用分子动力学(MD)研究了 $\mathrm { H } _ { 2 } \mathrm { S }$ 在纯水中的溶解度，他们只统计了气相区和液相区的密度。 $\mathrm { H } _ { 2 } \mathrm { S }$ 在水溶液中的Hofmeister效应还没有文章报道。
+
+分子动力学方法能够反映分子间的相互作用，是研究微观现象的有效手段。本文从分子水平上研究 $\mathrm { H } _ { 2 } \mathrm { S }$ 在水溶液中的溶解度，并解释Hofmeister效应中的反常现象。
+
+# 1 模拟细节
+
+![](images/9e7304bd5ac599568897958b86896bb839caf64bb26af8c972d24acb9a0f5e83.jpg)  
+图1模拟盒子示意图Fig.1 Simulation cell
+
+采用3000个水分子和2000个 $\mathrm { H } _ { 2 } \mathrm { S }$ 分子，模拟盒子的大小由体系的密度确定，为了分析问题的方便，在分析数据的时候仅取气相部分 $L { \times } L { \times } L$ 的体积来讨论，如图一所示。模拟过程中在X，Y和Z三个方向上均采用周期性边界条件。分别各自取108，216，324个 $\mathrm { \Delta N a } ^ { + }$ ，CI放在模拟盒中，配成1.94mol/kg， $3 . 8 8 \mathrm { m o l / k g }$ ， $5 . 8 3 \mathrm { m o l / k g N a C l }$ 溶液进行分子动力学模拟。水分子模型选用键长、键角可变的SPC 模型[7]。 $\mathrm { H } _ { 2 } \mathrm { S }$ 模型用 Shyamal 模型[9]，离子模型用 SD 模型[10]，分子间的相互作用力分为短程范德华力与长程库伦力，分子间相互作用势函数为：
+
+$$
+\phi ( r _ { i j } ) = 4 \varepsilon _ { i j } [ ( \frac { \sigma _ { i j } } { r _ { i j } } ) ^ { 1 2 } - ( \frac { \sigma _ { i j } } { r _ { i j } } ) ^ { 6 } ] + \frac { 1 } { 4 \pi \varepsilon _ { 0 } } \sum _ { i = 1 } ^ { 3 } \sum _ { j = 1 } ^ { 3 } \frac { q _ { i } q _ { j } } { r _ { i j } }
+$$
+
+其中， $\sigma _ { i j }$ 和 $\varepsilon _ { i j }$ 分别为原子间的尺度参数和势阱深度。$q _ { i }$ 和 $q _ { j }$ 分别为原子 $i$ 与 $j$ 的电荷， $r _ { i j }$ 为原子 $i$ 与 $j$ 间的距离。 $\scriptstyle { \varepsilon _ { o } }$ 为真空介电常数。表1给出势函数中的各原子参数。
+
+表1势函数中各原子参数  
+Table1 Parameter of atoms for potential function   
+
+<html><body><table><tr><td rowspan="2">Atom</td><td>Sigma/</td><td>Epsilon/</td><td>Charge/</td></tr><tr><td>nm</td><td>kJ · mol-1</td><td>e</td></tr><tr><td>0</td><td>0.3166</td><td>0.6502</td><td>-0.82</td></tr><tr><td>HO</td><td>0</td><td>0</td><td>0.41</td></tr><tr><td>S</td><td>0.372</td><td>2.0789</td><td>-0.248</td></tr><tr><td>HHS</td><td>0.098</td><td>0.0324</td><td>0.124</td></tr><tr><td>Na+</td><td>0.2350</td><td>0.5440</td><td>1.0</td></tr><tr><td>CI</td><td>0.4400</td><td>0.4184</td><td>-1.0</td></tr></table></body></html>
+
+水分子内的相互作用为键和键角围绕其原点的简谐振动[1]
+
+$$
+U _ { i n } = \sum _ { B o n d s } \frac { 1 } { 2 } k _ { b } ( r - r _ { 0 } ) ^ { 2 } + \sum _ { A n g l e s } \frac { 1 } { 2 } k _ { \theta } ( \theta - \theta _ { 0 } ) ^ { 2 }
+$$
+
+式中， $r _ { 0 }$ 和 $\theta _ { 0 }$ 分别为 $0 . 1 \mathrm { n m }$ 和 $1 0 9 . 4 7 ^ { \circ }$ ， $k _ { \mathrm { b } }$ 和 $k _ { \theta }$ 分别为 $4 6 5 3 6 0 \mathrm { k J / ( m o l . n m } ^ { 2 } )$ 和 $3 8 6 . 4 \mathrm { k J } / ( \mathrm { m o l . r a d } ^ { 2 } )$ 。
+
+分子间耦合尺度参数 $\sigma _ { l s }$ 和能量参数 $\varepsilon _ { l s }$ 可以根据Lorentz-Berthelot 混合法则[12]计算：
+
+$$
+\mathcal { E } _ { l s } = \sqrt { \mathcal { E } _ { l } \cdot \mathcal { E } _ { s } } ~ \sigma _ { l s } = ( \sigma _ { l } + \sigma _ { s } ) / 2 . 0
+$$
+
+为减少计算时间，势能截断半径取 $0 . 9 \mathrm { n m }$ ，超过该距离分子间的相互作用力可忽略不计，长程静电力的处理采用 Ewald 加和法[12]。采用 VelocityVerlet算法求解粒子的动力学方程，系统温度采用Nose-Hoover方法控制，模拟300,000步系统达到平衡，模拟统计参数300,000步，时间步长为0.8 fs。
+
+# 2结果与讨论
+
+# 2.1 $\mathrm { H } _ { 2 } \mathrm { S }$ 在NaCl水溶液中的溶解度
+
+图2给出了363.15K,3MPa,NaCl浓度为1.94$\mathrm { m o l / k g }$ 条件下，通过模拟得到的气液相平衡时 $\mathrm { H } _ { 2 } \mathrm { S }$ 和水溶液的密度分布的平均值。
+
+![](images/0bbcb9457473666028f8b34a5bc832397ad5c47bd220d7794a9ec47409dd8870.jpg)  
+图 $2 \mathrm { H } _ { 2 } \mathrm { S }$ 和溶液的密度分布  
+Fig.2Density profile of $\mathrm { H } _ { 2 } \mathrm { S }$ and solution
+
+从图2中可以看到气液界面区附近 $\mathrm { H } _ { 2 } \mathrm { S }$ 浓度比气相主体浓度高很多，这是目前的实验不能得到的数据。
+
+表2给出的是不同温度、压力下 $\mathrm { H } _ { 2 } \mathrm { S }$ 在NaCl水溶液中溶解度的模拟值与geochem平台[13查询值的对比，最小误差为 $5 . 5 \%$ ，最大误差为 $1 7 . 7 \%$ ，平均误差为 $1 3 . 1 \%$ 。从图中可以看出，模拟值与查询值曲线趋势大致相同证明本文模拟程序参数正确，并且模拟值都比实验值要大，这可以通过加入校正系数来减小误差。
+
+表2不同条件下 ${ \mathsf { H } } _ { 2 } { \mathsf { S } }$ 溶解度的模拟值与查询值对比[13]Table2Solubilityof $\mathrm { H } _ { 2 } \mathrm { S }$ in aqueous solutions ofNaCl  
+
+<html><body><table><tr><td>序 号 #</td><td>T/ K</td><td>P/ MPa</td><td>mNacl' mol · kg-1</td><td>mH2s/ mol · kg-1</td><td>mH2S.ex mol · kg-1</td><td>误 差 %</td></tr><tr><td>1</td><td>363.15</td><td>3</td><td>0</td><td>1.297</td><td>1.102</td><td>17.7</td></tr><tr><td>2</td><td>363.15</td><td>6</td><td>0</td><td>2.284</td><td>2.03</td><td>12.5</td></tr><tr><td>3</td><td>363.15</td><td>3</td><td>1.94</td><td>0.933</td><td>0.799</td><td>16.8</td></tr><tr><td>4</td><td>363.15</td><td>6</td><td>1.94</td><td>1.692</td><td>1.469</td><td>15.2</td></tr><tr><td>5</td><td>363.15</td><td>3</td><td>3.88</td><td>0.737</td><td>0.628</td><td>17.4</td></tr><tr><td>6</td><td>363.15</td><td>6</td><td>3.88</td><td>1.216</td><td>1.153</td><td>5.5</td></tr><tr><td>7</td><td>363.15</td><td>3</td><td>5.83</td><td>0.611</td><td>0.536</td><td>14.0</td></tr><tr><td>8</td><td>363.15</td><td>6</td><td>5.83</td><td>1.131</td><td>0.981</td><td>15.3</td></tr><tr><td>9</td><td>413.15</td><td>3</td><td>0</td><td>0.902</td><td>0.771</td><td>17.0</td></tr><tr><td>10</td><td>413.15</td><td>6</td><td>0</td><td>1.814</td><td>1.629</td><td>11.4</td></tr><tr><td>11</td><td>413.15</td><td>3</td><td>1.94</td><td>0.615</td><td>0.558</td><td>10.2</td></tr><tr><td>12</td><td>413.15</td><td>6</td><td>1.94</td><td>1.304</td><td>1.173</td><td>11.2</td></tr><tr><td>13</td><td>413.15</td><td>3</td><td>3.88</td><td>0.488</td><td>0.439</td><td>11.2</td></tr><tr><td>14</td><td>413.15</td><td>6</td><td>3.88</td><td>1.002</td><td>0.915</td><td>9.5</td></tr><tr><td>15</td><td>413.15</td><td>3</td><td>5.83</td><td>0.432</td><td>0.373</td><td>15.8</td></tr><tr><td>16</td><td>413.15</td><td>6</td><td>5.83</td><td>0.843</td><td>0.775</td><td>8.7</td></tr></table></body></html>
+
+图3给出了413.15K，3MPa条件下，不同浓度的 $\mathrm { { N a C l } }$ 水溶液中 $\mathrm { H } _ { 2 } \mathrm { S }$ 的溶解度模拟结果与geochem平台查询平台结果的对比。从图3可以明显看出，在温度、压力一定的条件下，NaC1水溶液的浓度越高， $\mathrm { H } _ { 2 } \mathrm { S }$ 的溶解度越小。
+
+![](images/1c17ca52b7c471da6046e4f95aa3e5104ac7b0847453df0dffc7137e0362ade7.jpg)  
+图 $3 \mathrm { H } _ { 2 } \mathrm { S }$ 溶解度的模拟值与geochem平台查询值对比 Fig.3Solubility of $\mathrm { H } _ { 2 } \mathrm { S }$ in aqueous solutions ofNaCl
+
+图4为相同压力（ $\dot { } 6 \ \mathrm { M P a } \dot { }$ )，不同温度条件下，不同浓度的 $\mathrm { \Delta N a C l }$ 水溶液中 $\mathrm { H } _ { 2 } \mathrm { S }$ 溶解度对比。由图可知，在相同的压力、 $\mathrm { \Delta N a C l }$ 浓度条件下，温度越高，$\mathrm { H } _ { 2 } \mathrm { S }$ 溶解度越小，这些与实验结果趋势一致。
+
+![](images/e00909e1c056d03caca52dc91dcd488ca6480ab4932bb808c0172ab8701f80a5.jpg)  
+图4不同条件下 $\mathrm { H } _ { 2 } \mathrm { S }$ 溶解度对比
+
+# 2.2Hofmeister效应
+
+Hofmeister按照不同的盐类对蛋白质的溶解度的影响编制了Hofmeister序列，离子的排序按照它们对溶解度从大到小排列[14]。通过分析这个规律可以发现电荷越大或离子尺寸越小则盐析效应越明显，显著的例外是 ${ \mathrm { L i } } ^ { + }$ 尺寸比 $\mathrm { { N a } ^ { + } }$ 小，但是它的盐析效应却没有 $\mathrm { { N a } ^ { + } }$ 明显。本文尝试以 $\mathrm { H } _ { 2 } \mathrm { S }$ 在无机盐中的溶解度的分子动力学模拟来解释这一现象。
+
+为了研究Hofmeister效应，本文取 $3 6 3 . 1 5 \mathrm { K }$ ，6MPa, $1 . 9 4 ~ \mathrm { m o l / k g }$ 时的盐浓度来进行分析。减小 $\mathrm { { N a } ^ { + } }$ 和CI尺寸参数 $1 5 \%$ 和 $30 \%$ ，其他参数不变。所得数据如表3所示：
+
+![](images/a18d7789e309cc5bb8863995eb389f1738800831b3d06f132feaa5f149f255f9.jpg)  
+Fig.4 Solubility of $\mathrm { H } _ { 2 } \mathrm { S }$ in aqueous solutions of NaCl
+
+表3 $\mathrm { H } _ { 2 } \mathrm { S }$ 在 $\mathrm { \Delta N a C l }$ 水溶液中的溶解度  
+Table3 Solubility of $\mathrm { H } _ { 2 } \mathrm { S }$ in aqueous solutions of NaCl   
+
+<html><body><table><tr><td rowspan="2">solution</td><td rowspan="2">Sigma+/ nm</td><td rowspan="2">Sigma-/</td><td rowspan="2">mNaC1/</td><td rowspan="2">mH2s/</td></tr><tr><td>nm</td></tr><tr><td>NaC1</td><td>0.235</td><td>0.440</td><td>mol - kg-1 1.94</td><td>mol - kg-1 1.469</td></tr><tr><td>NaCl(15%)</td><td>0.235</td><td>0.374</td><td>1.94</td><td>1.352</td></tr><tr><td>Na(15%)Cl</td><td>0.1998</td><td>0.440</td><td>1.94</td><td>1.205</td></tr><tr><td>NaCl(30%)</td><td>0.235</td><td>0.308</td><td>1.94</td><td>1.211</td></tr><tr><td>Na(30%)C1</td><td>0.1645</td><td>0.440</td><td>1.94</td><td>1.361</td></tr><tr><td>Na(30%)Cl(30%)</td><td>0.1645</td><td>0.308</td><td>1.94</td><td>1.187</td></tr></table></body></html>
+
+![](images/c9cc9a3957159114cc396385c72365b579f9089ccd16b25a275726004a77fc20.jpg)
+
+图5(a)改变阴离子尺寸大小对 $\mathrm { H } _ { 2 } \mathrm { S }$ 溶解度的影响;(b)改变阳离子尺寸大小对 $\mathrm { H } _ { 2 } \mathrm { S }$ 溶解度的影响Fig.5 (a) Effect of anion size on the solubility of $\mathrm { H } _ { 2 } \mathrm { S }$ (b)Effect of cation size on the solubility of $\mathrm { H } _ { 2 } \mathrm { S }$
+
+从图5可以看出减小CI尺寸，在相同的条件下会减小 $\mathrm { H } _ { 2 } \mathrm { S }$ 在盐溶液中的溶解度；减小 $\mathrm { { N a } ^ { + } }$ 尺寸，刚开始会减小 $\mathrm { H } _ { 2 } \mathrm { S }$ 在盐溶液中的溶解度，但是进一步减小 $\mathrm { { N a } ^ { + } }$ 尺寸， $\mathrm { H } _ { 2 } \mathrm { S }$ 在盐溶液中的溶解度反而增加。这说明在Hofmeister效应中的反常现象是由于${ \mathrm { L i } } ^ { + } .$ 尺寸大小引起的，而不是它的自然属性导致的。从表3可以看出，同时最大程度地减小Na和CI的尺寸会最大限度地减少 $\mathrm { H } _ { 2 } \mathrm { S }$ 在盐溶液中的溶解度。
+
+# 3结论
+
+本文采用分子动力学方法模拟了在363.15K和$4 1 3 . 1 5 \mathrm { K }$ ，压力为 $3 \mathrm { M P a }$ 和 $6 \mathrm { M P a }$ 条件下，硫化氢在不同浓度无机盐溶液中的溶解度。通过调整离子尺寸来改变离子大小解释Hofmeister效应中的反常现象。研究发现，相同温度和离子浓度下，压力越大硫化氢的溶解度越大；相同压力和离子浓度下，温度越高硫化氢的溶解度越小；相同温度和压力下，离子浓度越高，硫化氢的溶解度越低，与相关实验结果一致。溶解度模拟数据和geochem平台查询结果相比，最小误差为 $5 . 5 \%$ ，最大误差为 $1 7 . 7 \%$ ，平均误差为 $1 3 . 1 \%$ 。同时，还发现Hofmeister中的反常现象是因为随着阳离子尺寸的减小，对盐析效应的影响先增大，当尺寸小到一定程度时，对盐析效应的影响反而减小，而这与离子的尺寸相关，不是由离子的自然属性引起的。同时最大程度的减小$\mathrm { { N a } ^ { + } }$ ，CI尺寸会最大限度的减少硫化氢在盐溶液中的溶解度。
+
+# 参考文献
+
+[1]Desrocher S,Hutcheon I,Kirste D,et al.Constraints on the Generation of $\mathrm { H } _ { 2 } \mathrm { S }$ and $\mathrm { C O } _ { 2 }$ in the Subsurface Triassic, Alberta Basin, Canada[J]. Chemical Geology,20o4,204:
+
+237-254   
+[2]LU Yixin, Schaefer L. A Solid Oxide Fuel Cell System Fed With Hydrogen Sulfide and Natural Gas [J]. Journal of Power Sources,2004,135: 184-191   
+[3]Saccocia PJ,Gillis K M. Hydrothermal Upflow Zones in the Oceanic-crust [J]. Earth and Planetary Science Letters, 1995, 136: 1-16   
+[4] Cardellach E， CanalsA， Grandia F.Recurrent Hydrothermal Activity Induced by Successive Extensional Episodes: the Case of the Berta F-(Pb-Zn) Vein System (NE Spain)[J], Ore Geology Review,2003,22,133-141   
+[5] Skinner L. $\mathrm { C O } _ { 2 }$ Blowouts: An Emerging Problem [J], World Oil, 2003, 224   
+[6] Vorholz J，Rumpf B，Maurer G. Prediction of the Vapor-liquid Phase Equilibrium of Hydrogen Sulfide and the Binary System Water-hydrogen Sulfide by Molecular Simulation [J].Physical Chemistry Chemical Physics, 2002, 4: 4449-4457   
+[7] Vorholz J, Maurer G. Molecular Simulation of the Salting Out Effect in the System $_ \mathrm { H } _ { 2 } \mathrm { S } { \cdot } \mathrm { H } _ { 2 } \mathrm { O } { \cdot } \mathrm { N a } \mathrm { C l }$ [J].Physical Chemistry Chemical Physics,2008,10: 7247-7256   
+[8] Lopez L R, Jose A. Molecular Dynamics Simulations of the Solubility of $\mathrm { H } _ { 2 } \mathrm { S }$ and $\mathrm { C O } _ { 2 }$ in water [J]. Journal of the Mexican Chemical Society,2008,52: 88-92   
+[9]Nath $\textsc { s k }$ . Molecular Simulation of Vapor-liquid Phase Equilibria of Hydrogen Sulfide and its Mixtures With Alkanes [J]. Journal of Physical Chemistry B,2003,107: 9498-9504   
+[10] Smith D E,Dang L X. Computer Simulations of NaCl Association in Polarizable Water [J]．The Journal of Chemical Physics,1994,100: 3757-3766   
+[11] Fuller N G, Rowley R L.The Effect of Model Internal Flexibility Upon NEMD Simulations of Viscosity [J]. Int J Thermophys, 2000, 21: 45-55   
+[12] Allen MP, Tildesley D J. Computer Simulation of Liquids [M]. Second Edition. Oxford, UK: Clarendon Press,1989   
+[13] The DUAN Group. Thermodynamical Properties of the $_ \mathrm { H _ { 2 } O - H _ { 2 } S - N a C l }$ System[EB/OL].[2013-04-17]. http://models.kl-edi.ac.cn/models/h2o_h2s_nacl/   
+[14] Dill K A，Bromberg S. Molecular Driving Forces: Statistical Thermodynamics in Chemistry and Biology [M]. First Edition. New York: Garland Science, 2003

@@ -1,0 +1,413 @@
+[
+    {
+        "type": "text",
+        "text": "A new ionoscopiform fish (Holostei: Halecomorphi) from the Middle Triassic (Anisian) of Yunnan, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Xin-Ying1,2 XU Guang-Huil\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology andPaleoanthropology,ChineseAcademy of Sciences Beijing100044 \\* Corresponding author: xuguanghui@ivpp.ac.cn)   \n(2 University of Chinese Academy of Sciences Beijing 100049) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractIonoscopiformes, sister to Amiiformes,an extinct group of halecomorph fishes previously known mainly from the late Middle Triassc (Ladinian) and Late Jurassic of Europe and the Early Cretaceous of the New World.They have not been known in China until recently two ionoscopiforms (Robustichthys and Panxianichthys） were found from the early Middle Triassic (Anisian) of Yunnan and Guizhou,respectively. Here,a new ionoscopiform, Subortichthys triassicus gen. et sp. nov.,is described on the basis of six well-preserved specimens from the earlyMiddle Triassic (Pelsonian,Anisian, ${ \\sim } 2 4 4 \\ \\mathrm { M a }$ )marine deposits exposed inLuoping,eastern Yunnan, China. The discovery documents the second ionoscopiform from the Luoping fossil beds and one of the oldest ionoscopiforms in the world, providing important information for understanding the origin and early diversification of this group. Subortichthys is an unambiguous halecomorph as it possesses two synapomorphies of this clade: a symplectic articulating with the lower jaw and a notched posterior margin of the maxilla. Within the phylogenetic framework of the Halecomorphi, results of the phylogenetic analysis place Subortichthys at the base of the Ionoscopiformes because it bears a sensory canal in the maxilla (an ionoscopiform synapomorphy),but lacks derived features of other ionoscopiforms.Notably, Subortichthys is distinguished from other members of this order with a unique combination of features, such as presence of three or four pairs of extrascapulars and a much expanded third infraorbital posteriorly contacting the preopercle.The new material reveals that the earliest diversification of ionoscopiforms was wellundertaken in South China (a part of east Paleotethys Ocean then) by the early Middle Triassic (Anisian). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsLuoping, Yunnan; Triassic; Ionoscopiformes, Halecomorphi; osteology; phylogeny ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Ma XY, Xu G H,in press.A new ionoscopiform fish (Holostei: Halecomorphi) from the Middle Triassic (Anisian) of Yunnan,China.Vertebrata PalAsiatica ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Halecomorphi are one of three main subdivisions of the crown-group Neopterygii. They have long attracted the attention of paleoichthyologists interested in phylogenetic and comparative studies of neopterygian fishes (Patterson,1973; Grande and Bemis,1998). Although living halecomorphs are represented by a single species Amia calva (bowfin, renowned as ‘living fossil'） from the freshwater environments in central and eastern North America, this clade has a rich fossil history.The earliest halecomorphs,referred to the Parasemionotiformes, are confined in the Early Triasic marine deposits; the placement of the Permian Brachydegma in the Parasemionotiformes (Hurley et al.,20o7) has been rejected by subsequent studies (Near et al.,2012; Xu et al., 2014a). Most parasemionotiforms (except Watsonulus) still need detailed comparative description and taxonomic revision (Olsen, 1984; Grande and Bemis,1998). The Ionoscopiformes are another interesting group of marine halecomorphs that are generally considered as the sister group of the Amiiformes. In the past decades,ionoscopiforms were mainly known from the Late Jurassic of Europe and the Early Cretaceous of the New World (Schaeffer,1960,1971; Bartram,1975;Maisey,1991; Grande and Bemis,1998;Brito,2000; Alvarado-Ortega and Espinosa-Arrubarrena, 2008; Lane and Ebert, 2012; Machado et al., 2013). Potential ionoscopiforms were also reported from the late Middle Triassic (Ladinian) of Italy and Austria, but they are based on poorly preserved specimens (De Alessandri, 1910; Sieber, 1955; L6pez-Arbarello et al., 2014). Recently, convincing ionoscopiforms based on well-preserved specimens were found from the early Middle Triassic (Anisian) of South China (Xu et al., 2014b; Xu and Shen, 2015) and the Middle Jurassic of Africa (Taverne,2015). These provide new insights on the origin and early evolution of this group. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In China, two previously known ionoscopiforms are Robustichthys luopingensis and Panxianichthys imparilis from the Middle Triassic (Pelsonian, Anisian) of Luoping, Yunnan Province and Panxian, Guizhou Province, respectively.Among them, Robustichthys represents the earliest ionoscopiform, providing a minimum estimate for the age of the origin of this order (Xu et al., 2014b). Panxianichthys, probably slightly younger than Robustichthys (Benton et al., 2013),shows some features more primitive than Robustichthys,documenting the most basal ionoscopiform previously known (Xu and Shen,2015). Here, we report the discovery of a new ionoscopiform based on six exceptionally well-preserved specimens from the same fossil beds to those of Robustichthys (upper member of the Guanling Formation, ${ \\sim } 2 4 4 \\ \\mathrm { M a }$ ） in Luoping, eastern Yunnan (Zhang et al.,2009; Hu et al.,201; Benton et al.,2013). The new discovery stimulated a phylogenetic analysis to reassess the interrelationships of the Ionoscopiformes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Material and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fossil specimens were prepared mechanically, and stored at the fossil collection of the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP), Chinese Academy of Sciences. Ilustrations were drawn under an Olympus SZX7 microscope with a camera lucida atachment,and further prepared using Adobe Photoshop CS4.The relative position of fins and scale counts were expressed following Westoll(1944). Although we accept that actinopterygian frontals and parietals are the homologues of sarcopterygian parietals and postparietals, respectively (Schultze,1993),we nevertheless utilize the traditional actinopterygian nomenclature following Grande and Bemis (1998) for ease of comparison with most existing literature.Tree searches were accomplished by the heuristic search algorithm in PAUP\\* 4.0b10 (Swofford, 2oo3).All characters were unordered and equally weighted. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Systematic paleontology ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Neopterygii Regan, 1923 HolosteiMüller,1845 Halecomorphi Cope, 1972 Ionoscopiformes Grande&Bemis,1998 Subortichthys triassicus gen. et sp.nov. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Figs. 1-4) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EtymologyGenus epithet Subort- is derived from subortus (Latin), meaning revival; and -ichthys,fish. Species epithet is derived from Triassic (the first epoch of the Mesozoic), referring to the age of the taxon and also to the three extrascapulars commonly at each side of the skull. / ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HolotypeIVPP V 20o51, a nearly complete, laterally compressed specimen with the right pectoral fin missing. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Referred specimensIVPP V 19003,V 20052,V 20680, V 22950 and V 22951. Five nearly complete specimens. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Locality and horizonLuoping, Yunnan, China; second (upper) member of Guanling Formation,Pelsonian,Anisian,Middle Triassic. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DiagnosisA basal ionoscopiform distinguished from other members of this order by the following combination of features: frontal trapezoidal, nearly four times as long as square parietal; dermopterotic 1.5 times as long as parietal; supraorbital sensory canal contacting anterior pit-line in parietal; three pairs of extrascapulars in common condition (four pairs, occasionally); three supraorbitals; five infraorbitals; third infraorbital much expanded, contacting preopercle posteriorly; three or four suborbitals; quadratojugal splint-like; supramaxilla single, half of length of maxilla; maxilla much long, extending to level of middle portion of parietal posteriorly; 12 pairs of branchiostegal rays; 10-13 rays in each pectoral fin; 10-11 principal dorsal rays; eight anal rays; 18 principal caudal rays; rhomboidal scales with serrated posterior margin; and scale formula of D18-19/P7-8,A15-16, C27-28/T30-32. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Description and comparison ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "General morphology and sizeSubortichthys is a small-sized halecomorph with a blunt snout, a fusiform body and a moderately forked caudal fin (Fig.1).The dorsal fin inserts slightly posterior to the origins of pelvic fins.The anal fin is located in the posterior quarter of the body. The holotype (Fig.1A) has a standard length(SL) of $6 2 ~ \\mathrm { m m }$ ，and a total length of ${ \\sim } 8 0 ~ \\mathrm { m m }$ .The smallest specimen (Fig.1B) has a SL of $4 3 ~ \\mathrm { m m }$ ，and the largest specimen (V ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd3c99c7135ad8f9d8ad2f32b2aed2c40f18313cd44c12ff690eef64a71c77b5.jpg",
+        "img_caption": [
+            "Fig.1 Subortichthys triassicus gen.et sp.nov. A.IVPPV 20051 (holotype); B.V 20052;C.reconstruction "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "20680,see the online supplementary material) reaches a SL of $7 2 ~ \\mathrm { m m }$ .The head is relatively large; its length is about one-third of SL. The maximal body depth, slightly larger than the head length,lies midway between the end of the opercle and the origin of the dorsal fin.The outer surfaces of the cranial bones are ornamented with ganoine ridges and tubercles. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Snout and skull roof The canal-bearing bones of the snout consist of a median rostral, paired nasals and antorbitals (Fig. 2). The median rostral is smalland subtriangular, contacting the nasal posterodorsally, the antorbital laterally and the premaxilla ventrally. The ethmoid commissural sensory canal runs transversely through the anterior portion of this bone. The paired nasals meet each other in the middle line.Each nasal is small and plate-like, having a curved lateral margin and a straight medial margin. The posterior nostril lies between the nasal and the antorbital; the anterior nostril probably opens near the junction of the nasal, rostral and antorbital, as in other holosteans.An anterior portion of the supraorbital sensory canal is enclosed in the nasal, indicated by several pores on this bone.The antorbitals are elongate and slightly curved,having an expanded posterior portion and a tapering anterior arm. The antorbital extends anteriorly and contacts the rostral medially. The posterior margin of the antorbital forms the anterior orbital margin. The ethmoid commissural canal contacts the infraorbital sensory canal at the middle portion of the antorbital. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8ce16239c0c0a0024b46d983dacfe846b41329f13529c3e57e0ed9c343a3dea.jpg",
+        "img_caption": [
+            "Fig.2 Skulland pectoral girdle of Subortichthys triassicus gen. et sp. nov.,coated with ammonium chloride A.IVPP V 20051 (holotype); B.V 20052 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations: ang.angular;ao.antorbital; br. branchiostegal rays; cl.cleithrum; co.coronoid; den.dentary; dpt-l.left dermopterotic;dpt-r.right dermopterotic; dsp.dermosphenotic; es.extrascapular; fr. frontal;   \ngu. gular; io. infraorbital; iop. interopercle; mx. maxilla; mxc.sensory canal on maxill; n. nasal; op.opercle;   \npa. parietal; pas. parasphenoid; pcl. postcleithrum; pl-a.anterior pit line; pl-m. middle pit line; pl-p. posterior pit line; pm. premaxilla; pop. preopercle; pt. posttemporal; qc. quadrate condyle; qj. quadratojugal; qu. quadrate; r. rostral; ra. retroarticular; sc.sympletic condyle; scl. supracleithrum; scr. sclerotic ring; smx.supramaxilla; so.suborbital; sop.subopercle; sp. sphenotic; su. supraorbital ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The frontal is trapezoidal, four times as long as the parietal (Figs.2,3B). It widens posteriorly with the posterior portion twice as wide as the anterior. The frontal contacts the parietal and dermopterotic posteriorly in a sinuous suture. The supraorbital sensory canal enters the frontal from the nasal,runs longitudinally through this bone,and posteriorly contacts the anterior pit-line in the parietal.The parietal is nearly square, half as wide as the posterior portion of the frontal. The posterior pit-line is relatively short, located at the posteromedial portion of the parietal. The middle pit-line is quite long; it extends from the posterolateral portion of the parietal, runs laterally into the dermopterotic,and ends near the temporal sensory canal in this bone.The dermopterotic is trapezoidal, nearly 1.5 times as long as the parietal. The temporal sensory canal runs longitudinally through the dermopterotic, indicated by a line of about ten small pores near the lateral margin of this bone. Three extrascapulars are present at each side of the skull in five type specimens.Additionally, there are four extrascapulars at the left side of the skull in V 20680. This probably represents an intraspecific variation among different individuals (rather than an interspecific variation) because these specimens are consistent in most of other features (except the number and shape of suborbitals that might represent another intraspecific variation, see below). These extrascapulars are nearly trapezoidal, and their sizes slightly vary in different specimens. The supratemporal commissure runs transversely through the extrascapulars, indicated by several small pores at the middle portions of these bones. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Circumorbital bonesThere are three supraorbitals. They are rectangular and largely equal in length. In comparison,Panxianichthys and Robustichthys have only two supraorbitals, and other ionoscopiforms generally have four or more supraorbitals. Five infraorbitals are present (Fig. 2). Among them, the first is sub-trapezoidal with a triangular anterior portion inserting between the antorbital and maxilla; the second is elongate and low: the third is much expanded, contacting the preopercle posteriorly; the fourth is small and trapezoidal, 1.5 times deeper than long (V 2295O); and the fifth is rectangular, nearly equal to the fourth in depth. The dermosphenotic is trapezoidal, narrowing ventrally. The conjunction of the infraorbital and temporal canals is near the dorsal margin of this bone. The sphenotic has a smal triangular dermal component that contacts the dermosphenotic anteriorly, the dermopterotic dorsally and the upper suborbital ventrally. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In four specimens, there are three suborbitals; the upper is small and trapezoidal, the middle is large and pentagonal, and the lower is small and triangular. In V 22950, four suborbitals are present; the second is the largest, below which two smaller ones fit the place of the triangular lower suborbital in other specimens. Three suborbitals are also present in most of other ionoscopiforms (Panxianichthys, Ophiopsis,Ionoscopus and Quetzalichthys).By contrast, five suborbitals are present in Macrepistius (Schaeffer,l96O),and eight or more in Robustichthys (Xu et al.,2014b) and Teoichthys (Applegate,1988; Machado et al.,2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sclerotic bones are partly preserved near the orbital rim. They are thin and curved, but their number cannot be determined. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Palatal bones and suspensoriumBecause all specimens are laterally compressed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "the palate bones can only be observed through the orbit, including at least the parasphenoid, entopterygoid, ectopterygoid and dermopalatine. The oral margins of these bones are covered by dense conical teeth (Fig. 3A). The teeth on the parasphenoid and entopterygoid are very small, and those on the dermopalatine are notably larger. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The hyomandibular,laterally covered by the suborbitals and preopercle,cannot be directly observed in most specimens (except V 22951). Via the X-ray computed tomography, this bone is relatively wel revealed in the holotype (Fig.3F). In V 22951, the suborbitals and preopercle are missing,and the hyomandibular is almost fully exposed (see the online supplementary material). It is hatchet-shaped and vertically positioned, with a single broad facet articulating with the ventral side of the braincase dorsally. There is a foramen at the middle portion of the hyomandibula, Ithrough which the hyomandibular branch of the facial nerve may pass. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The quadrate is partly exposed below the third infraorbital and posterior to the maxilla (Figs.2B,3C-E). It is small and nearly fan-shaped, articulating with the lower jaw ventrally. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The quadratojugal is splint-like, tapering dorsally (Figs. 2A, 3A, D). It rests on the anterior edge of the yentral portion of preopercle. The ventral portion of the quadratojugal contacts the symplectic medially and does not contact the lower jaw (Fig. 3D). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The symplectic is rod-like (V 22951), resembling that in Robustichthys (Xu et al., 2014b). It has a slightly expanded dorsal portion and a large ventralcondyle that articulates with the lower jaw. Corresponding to this condyle,the lower jaw has a distinct notch in the dorsal margin of its posterior portion (Fig. 3A). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "JawsThe upper jaw at each side of the skull includes a premaxilla, a maxilla and a supramaxilla (Figs.2, 3). The premaxilla is relatively large, bearing a robust nasal process. Because of the overlap of the nasal, the fenestra for the olfactory nerve cannot be observed in this nasal process. About ten conical teeth are present along the oral margin of the premaxilla. The teeth are nearly equal in size to those on the anterior portion of the maxilla. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The maxilla is elongate and low, bearing a peg-like anterior process and a distinct notch at its posterior margin. Presence of this posterior maxillary notch has been considered as a halecomorph synapomorphy (Grande and Bemis,1998). The anterior dorsal margin of the maxilla is slightly excavated for the first infraorbtial,and the posterior dorsal margin of this bone is more excavated for a supramaxilla.The supramaxilla is about half the length of the maxilla, tapering at both ends. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The lower jaw is elongate, bearing a well-expanded coronoid process at its posterior portion.Four elements,the dentary,angular, supra-angular and retroarticular are discernable in the lateral view. The dentary is wedge-shaped, posteriorly contacting the angular in a sinuous suture.The angular is trapezoidal, about one third of the length of the low jaw. The supraangular, only partly exposed in V 20680 (Fig. 3C),is still unknown in its complete shape. The retroarticular is very small (Fig. 2A), contacting the posteroventral portion of the angular anteriorly.A few coronoid bones are exposed in the medial view of the low jaw (Figs. 2A, 3A). They are small plate-like bones,covered by dense conical teeth. These teeth are slightly smaller than those along the oral margin of the dentary. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Operculo-gular seriesThe opercle is large and trapezoidal, 1.5 times deeper than long. The subopercle is sickle-shaped, nearly half as deep as the opercle. It bears a small triangular anterodorsal process that inserts between the preopercle and opercle. The interopercle is ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c3c9ad81a2e84dac65a932cc3fe5f05d30e3ef7223d0bd0914a554b27dd5319.jpg",
+        "img_caption": [
+            "Fig.3Subortichthys triassicus gen.et sp.nov. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A. IVPP V 22950,arrows indicating the sensory pores on the maxila; B.V19003,parietal relatively short and   \nnearly square in shape; C-E. V 20680: C. photo,D.line drawing; E. X-ray computed tomography, showing   \nmainly the splint-like quadratojugal and the symplectic involvement in the jaw hinge;F.X-ray computed tomography of the skull of V 20o51 (holotype), showing the hyomandibular   \nAbbreviations: dp.dermopalatine; ent. entopterygoid; hm. hyomandibular; hmf. foramen for the   \nhyomandibular trunk offacial nerve (VII);san.supra-angular.For other abbreviations see Fig.2.For complete specimens and sensory pores on the maxilla,see the online supplementary material ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "small and triangular, tapering anteroventrally. The preopercle is narrow and crescent-shaped, carrying a sensory canal parallel to its anterior margin with a line of small pores near its posterior margin. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Twelve pairs of branchiostegal rays are present (Fig. 2B). They are elongated, gradually broadened posteriorly. The median gular is oval, slightly over half the length of the lower jaw. A short traverse pit-line is present at the middle portion of this bone. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Girdles and finsA posttemporal,a supracleithrum,a cleithrum,and two postcleithra can be identified in each pectoral girdle. The posttemporal is large and sub-trapezoidal with a rounded posterior margin.A sensory canal runs longitudinally through the anterolateral portion of the posttemporal and enters the supracleithrum. The supracleithrum is deep and trapezoidal. It is anteriorly inclined and partly overlapped by the opercle.The cleithrum is large and curved, bearing a conspicuous posteroentral notch for the pectoral fin insertion. Two postcleithra are plate-like; the dorsal is twice as deep as the ventral. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The pectoral fins are large, inserting low in the body. Each bears 10-13 distally segmented and branched rays. One or two basal fulcra and a series of fringing fulcra are associated with the leading ray. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The pelvic girdles are not exposed. The pelvic fins are small, originating at the $7 ^ { \\mathrm { t h } }$ or ${ { 8 } ^ { \\mathrm { t h } } }$ vertical scale row. Each bears five distally segmented and branched rays, preceded by two basal fulcra and a series of fringing fulera. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The dorsal fin originates above the 18th or 19th vertical scale row. It is triangular, composed of 11 principal rays. The first principal ray is distally segmented and unbranched, preceded by a relatively long rudimentary ray, three basal fulcra and a series of fringing fulcra; the remaining rays are branched distally. The anal fin originates below the 1 ${ 5 } ^ { \\mathrm { t h } }$ or $1 6 ^ { \\mathrm { t h } }$ vertical scale row and has eight distally segmented rays. The first ray is unbranched, preceded by three or four basal fulcra and a series of fringing fulcra,and the remaining rays are branched distally. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The caudal fin is hemi-heterocercal with a moderately forked profile. It has 18 principal rays, half in each lobe (Fig. 4). The dorsal and ventral marginal principal rays are segmented and unbranched, and the middle rays are segmented and branched up to three times.In addition, there are one rudimentary ray and eight basal fulcra in the dorsal lobe,and three rudimentary rays and two basal fulcra in the ventral lobe.Fringing fulcra are present in both lobes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ScalesThe body is fully covered with rhombic scales.The scales are arranged in 30-32 vertical rows along the main lateral line (Fig.1; see also supplementary material). In addition, seven or eight rows of scales extend into the epaxial lobe of the caudal fin (Fig. 4). The scales in the anterior flank region are 1.5 times deeper than wide,and they gradually become lower and smaller dorsally, ventrally and posteriorly.Besides the main lateral line,there is an additional lateral line,indicated by a line of about ten small pores on the scales in the predorsal region.Most scales,except those covering the epaxial lobe of the caudal fin, have 2-8 acute projections at the posterior margin. Pegs and anterodorsal extensions are exposed on some scales in the anterior flank region. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d3a1b7963068aa1bc85ccf45c6bbc34485fc45120a0a23c49abe32253115c3d.jpg",
+        "img_caption": [
+            "Fig.4 Fins of Subortichthys triassicus gen. et sp.nov. A-C.IVPP V 20680: A. pectoral fin, B.pelvic fin, C. dorsal fin; D-E.V 20o51 (holotype):D.anal fin,E.caudal fin Abbreviations: bf.basal fulcra; ff.fringing fulcra; pf. principal fin rays; rr. rudimentary rays "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4 Phylogenetic relationships and implications ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to illuminate the phylogenetic position of Subortichthys,we performed a phylogenetic analysis based on a data matrix of 112 characters coded across 31 neopterygian taxa with the stem-neopterygian ‘Perleidus’ madagascariensis selected for out-group comparison (see the online supplementary material). The phylogenetic analysis yielded nine most parsimonious trees (Tree length $= 2 3 9$ ； consistency index $= 0 . 5 5 2 3$ ； retention index $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 0.7221). Subortichthys was recovered at the base of the Ionoscopiformes (Fig. 5). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Subortichthys is an unambiguous halecomorph,as it possesses two synapomorphies of this clade: a symplectic articulating with the lower jaw,and a notched posterior margin of the maxilla. Patterson (1973) first proposed the symplectic involvement in the jaw hinge as a halecomorph synapomorphy, and this has been widely accepted by later authors (Gardiner et al.,1996; Grande and Bemis,1998; Alvarado-Ortega and Espinosa-Arrubarrena,2008; Lane and Ebert, 2012; Brito and Alvarado-Ortega, 2013; Xu et al.,2014b; Lopez-Arbarello et al., 2014; Xu and Shen, 2015; Taverne,2015; Sun et al., 2017). Although Brito (1988) argued that the symplectic of the aspidorhynchid Vinctifer also articulated with the lower jaw, this was not confirmed by Maisey (1991),who described that the symplectic of Vinctifer did not reach the lower jaw.A symplectic articulating with the lower jaw has not been known in other aspidorhynchid genera. Brito and Alvarado-Ortega (2013） suggested that Vinctifer might represent a convergent evolution to halecomorphs in this feature. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Grande and Bemis (1998) proposed presence of an excavated posterior margin of the maxilla as a halecomorph synapomorphy. However, Brito and Alvarado-Ortega (2013) argued that an excavated posterior margin of the maxilla is ambiguous in the Parasemionotiformes and considered this feature as a synapomorphy of the clade Ionoscopiformes plus Amiiformes 0 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ Halecomorphi minus Parasemionotiformes). Among parasemionotiforms, only Watsonulus has been well studied; previous studies (Olsen,1984; Grande and Bemis,1998) showed that a small notch was present at the posterior margin of the maxilla in well-preserved specimens of this taxon. We thus agree with Grande and Bemis (1998) and consider an excavated posterior margin of the maxilla as a halecomorph synapomorphy, although further studies are needed to determine if this anatomical structure is present in other parasemionotiforms. Subortichthys, similar to Panxianichthys, Robustichthys and most other non-parasemionotiform halecomorphs, has an excavated posterior margin of the maxilla. This postmaxillary notch is secondarily lost in a few halecomorphs (e.g., Amblysemius, Grande and Bemis,1998; and Cipactlichthys,Brito and Alvarado-Ortega, 2013). qt: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Presence of a single supramaxilla was once considered as a halecomorph synapomorphy (Grande and Bemis,l998). Subortichthys does have a single supramaxilla, as in other halecomorphs.However, a supramaxilla is also present in basal ginglymodians and some teleosts outside of the Halecomorphi.Results of our analysis, consistent with recent others (Brito and Alvarado-Ortega, 2013; Xu et al., 2014b; Xu and Shen, 2015), support that this feature is a synapomorphy of the crown-group Neopterygii. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Compared with other halecomorphs,Subortichthys is more derived than the Parasemionotiformes (represented by Watsonulus), sharing a derived feature with other ionoscopiforms and amiiforms,a dermosphenotic firmly sutured to,and forming part of the skull roof. Furthermore, Subortichthys possesses a synapomorphy of the Ionoscopiformes, presence of a sensory canal in the maxilla.However, it lacks three derived features of other ionoscopiforms that were considered as synapomorphies of this order (Grande and Bemis, 1998; Alvarado-Ortega and Espinosa-Arrubarrena, 20o8), i.e., presence of relatively long ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Amiacalva Cycluruskehreri C   \nVidalamia catalunica   \nLPachyamia mexicana Calamopleurus Viiiiiit Amiopsis lepidota Solnhofenamia   \nIkechaoamia C   \nSinamia zdanskyi Ghrrotorroaei   \nCaturus furcatus Liodesmus gracilis 5 Quetzalichthys -Ionoscopus cyprinoides 3 > Oshuniabrevis ey Teoichthyskallistos 4 yoooooodooerrs Macrepistiusarenatus Ophiopsisprocera Congophiopsis Furo muensteri ） Robustichthys Panxianichthys 2 Subortichthys Prliirreorn Watsonulus C ■   \nAtractosteus [poouig   \nObaichthys decoratus Semionotus elegans   \nElops   \n-Leptolepiscoryphaenoides 2 Tetteseer Dorsetichthys Pholidoctenus Perleidus'madagascariensis ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "parietals,aposteriorlyinclinedlowerborder of the last infraorbital, and an innerorbital flange of the dermosphenotic bearing an infraorbital sensory canal. Therefore, Subortichthys is placed at the base of the Ionoscopiformes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Subortichthys is unique among ionoscopiforms in having three or four pairs of extrascapulars,a large third infraorbital posteriorly contacting the preopercle, and a long maxilla extending to the level of middle portion of the parietal. In comparison,Panxianichthys and other ionoscopiforms generally have a single pair of extrascapulars (Schaeffer, 1960;Bartram, 1975；Maisey,1991; Brito,2000; Lane and Ebert,2012; Machado et al.,2013;LópezArbarello et al., 2014; Xu et al., 2014b; Xu and Shen,2015; Sun et al., 2017). Three or more pairs of extrascapulars are otherwise present in two sinamiid amiiforms (Sinamia and Ikechaoamia) and some derived ginglymodians (Obaicthys and Atractosteus) (Grande and Bemis, 1998: Grande,2010), but results of our analysis indicate that they might be independently evolved.A large third infraorbital posteriorly contacting the preopercle was only known in some teleosts (e.g., pholidophorids; Arratia,2013） among the crown-group Neopterygii. Subortichthys represents an interesting convergent evolution to early teleosts in this feature. Moreover, Subortichthys has a long maxilla extending to the level of middle portion ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Parasemion. $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Parasemionotiformes.For character descriptions and codings for the sampled taxa, see the online supplementary material ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "of the parietal. Similar condition is otherwise present in parasemionotiforms, several caturid amiforms and some teleosts among the crown-group Neopterygii. By contrast, the maxilla is relatively short and its posterior end commonly does not exceed the anterior margin of the parietal in other ionoscopiforms. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Subortichthys retains primitive ionoscopiform conditions in having a splint-like quadratojugal and a quite long antorbital. Panxianichthys also has a splint-like quadratojugal (personal observation). Robustichthys and more derived ionoscopiforms lack a splint-like quadratojugal (Xu et al., 2O14b). Additionally, Subortichthys has a quite long antorbital with its posterior margin forming the anterior orbital margin,showing a condition similar to Panxianichthys,Robustichthys,Oshunia and Furo muensteri but different from other ionoscopiforms,in which the antorbital is relatively short and does not contribute to the composition of the orbital margin. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Based on the previously known geographical distribution, the Ionoscopiformes were inferred to have originated in Europe and subsequently dispersed to the New World (AlvaradoOrtega and Espinosa-Arrubarrena, 2oo8). However, the recent discovery of two ionoscopiforms from South China indicated that this order had a wider distribution than previously appreciated (Xu et al.,2014b; Xu and Shen, 2015). Xu et al. (2014b) suggested that the Ionoscopiformes probably originated in South China (a part of eastern Paleotethys Ocean); via the Paleotethys Ocean,this group dispersed into Europe. The discovery of Subortichthys further supports this hypothesis. The new material reveals that the earliest diversification of ionoscopiforms was well undertaken in South China by the early Middle Triassic (Anisian). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgmentsWe thank Chang M M, Zhu M, Jin F, and Wu F X for constructive suggestions and discussons, Yin P F for conducting X-ray computed tomography, Grande L and Maisey J for access to comparative fossil materials in the Field Museum of Natural History (Chicago) and American Museum of Natural History (New York) respectively, Shen C C for specimen preparation, and Hu S X, Liu TL, Weng J X,and Chen Q T for helps in field trips in Yunnan Province. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplementary material can be found at the website of Vertebrate PalAsiatica (http://english.ivpp.cas.cn/sp/ PalAsiatica/vp_list/) in Vol.55,Issue 2 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "云南中三叠世(安尼期)预言鱼目(全骨鱼类：近鲱形类)一新属种",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "马昕莹1.2 徐光辉1",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)(2中国科学院大学北京100049)",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "摘要：预言鱼目是近鲱形类的一个绝灭支系，被认为是弓鳍鱼目的姐妹群。预言鱼目化石过去主要发现于欧洲的中三叠世拉丁期和晚侏罗世地层以及新大陆的早白垩世地层。近年来，在云南和贵州的中三叠世安尼期地层中分别发现了一种预言鱼目鱼类化石(强壮鱼和盘县鱼),代表了该目在中国的首次发现。根据产于云南罗平中三叠世安尼期( ${ \\widetilde { \\mathbf { \\Gamma } } } { \\sim } 2 4 4 \\ \\mathrm { M a } )$ 海相地层中的6块保存良好的鱼化石，命名了预言鱼目一个新的属种，三叠复兴鱼(Subortichthystriassicus gen.et sp.nov.)。三叠复兴鱼是罗平生物群中发现的第二种预言鱼目鱼类，代表了预言鱼目最古老的化石记录之一，为研究该目的起源和早期分异提供了重要信息。复兴鱼无疑可以归人近鲱形类，因为它具有近鲱形类两个共近裔性状，续骨与下颌关节以及上颌骨后缘具有凹缺。分支分析结果表明，复兴鱼位于预言鱼目的基部，因为它具有该目的重要鉴定特征，上颌骨具有感觉管，但它不具有其他预言鱼目鱼类的进步特征。特别的是，复兴鱼具有一些独特的性状，如额外肩胛骨3或4对、第三眶下骨特别宽大并与前鳃盖骨前缘相接等。复兴鱼的发现表明预言鱼目鱼类在华南地区(三叠纪时期位于古特提斯洋的东部)的早期分异至少发生在中三叠世早期(安尼期)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "关键词：云南罗平，三叠纪，预言鱼目，近鲱形类，骨骼学，系统发育 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References   \nAlvarado-OrtegaJ,Espinosa-Arrubarrena L,2Oo8.Anew genusof ionoscopiform fish (Halecomorphi) from the Lower Cretaceous (Albian)lithographic limestones of the Tlayua quarry,Puebla,Mexico.JPaleont,82:163-175   \nApplegate SP,1988.Anew genus and species of a holosteanbelonging to the family Ophiopsidae,Teoichthys kallstos, from the Cretaceous near Tepexi de Rodriguez, Puebla.Rev Inst Geol,7: 200-205   \nArratia G,20l3.orpolgytxonoydlogeofiicpolidoporidss(Actiopterygieletei).Vert Paleont Mem (Suppl),13:1-138   \nBartram A WH,1975.The holostean fish genus Ophiopsis Agasiz. Zool JLinn Soc,56: 183-205   \nBentonMJ,ZhangQY,HuSXetal.,2013.Exceptionalvertebratebiotas from the TriassicofChina,andtheexpansionof marine ecosystems after the Permo-Triassic mass extinction.Earth Sci Rev,125:199-243   \nBrito PM,1988.La structure dususpensorium de Vinctifer,Poissn Actinopterygien Mésozoique: Remarques sur les implications phylogenetiques. Geobios,21: 819-823   \nBrito P M,20o0.A new halecomorph with two dorsal fins,Placidichthys bidorsalis ，n. sp. (Actinopterygii: Halecomorphi) from the Lower Cretaceousof the Araripe Basin, northeast Brazil. CR Acad SciParis Sci Terre Plan, 331: 749-754   \nBrito PM,Alvarado-Ortega J,13.Cipactlichthy scutatus,gen.nv.,sp.nov.anewhalecomorph (NeopterygiHolostei) from the Lower Cretaceous Tlayua Formation of Mexico.PLoS ONE,8: e73551   \nDe Alessandri G,1910.Studiisui pesci Triasici dellaLombardia.Mem Soc Ital Sci Nat Mus Civi Stor Nat Milano,7: 1-145   \nGardinerBG,aseyJG,LitlewoodD996Iterrlationshipsofbasalnopterygians.IniasseyMLJrtiL, Johnson G D eds. Interrelationships of Fishes. San Diego: Academic Press.117-146   \nGrandeL,2010.Anempirical synthetic patern studyof gars (Lepisosteiformes)andcloselyrelatedspecies,ased mostlyon skeletal anatomy.The resurrection of holostei. Copeia,1O(Suppl):1-871   \nGrandeL,Bemis WE,1998.Acomprehensive phylogenetic studyofamid fishes (Amidae)basedoncomparative skeletal anatomy:an empirical search for interconnected pattrns of natural history.Soc Vert Paleont Mem (Suppl JVert Paleont),4: 1-690   \nHu SX,ZhangQY,Chen ZQetal.,2011.The Luoping biota: exceptional preservation,and new evidence onthe Triasic recovery from end-Permian mass extinction.Proc R Soc B,278: 2274-2282   \nHurleyIA,MuellerRL,Dunn KAetal.,2Oo7.Anew time-scale forray-finned fish evolution.ProcRSocB,274:489-   \n498 Lane JA,Ebert M,2012.RevisionofFuro muensteri (Halecomorphi,Ophiopsidae)from the Upper Jurassicof western Europe,with comments on the genus.JVert Paleont,32: 799-819 Lopez-ArbarelloA,StockarR,Burgin T,2014.Phylogenetic relationshipsof the Triasic Archaeosemionotus Deecke (Halecomorphi,Ionoscopiformes) from the ‘Perledo Fauna'.PLoS ONE,9: e108665 Machado G P,Alvarado-Ortega J,Machado L P et al. 2013. Teoichthys brevipina,sp. nov.,a new ophiopsid fish (Halecomorphi,Ionoscopiformes)from theLower Cretaceous TlayuaFormation,Central Mexico.JVertPaleont,:   \n482-487 Maisey JG,1991. Santana Fossls: an Illustrated Atlas.Neptune,NJ: TFHPublications Inc.1-459 Near TJ,EytanRI,Dornburg Aetal.,2O12.Resolutionofray-finnedfishphylogenyandtimingof diversification.Proc Nat Acad Sci, 109:13698-13703 OlsenPE,1984.Theskull and pectoral girdleoftheparasemionotid fish Watsonulus eugnathoides fromtheEarlyTriassic Sakemena Group of Madagascar with comments on the relationships of the holostean fishes.JVert Paleont, 4: 481- Paterson C,973.Interrelationships ofholosteans.In: Greenwood PH, Miles R S,Pattrson Ceds.Interrelationshipsof Fishes. Zool J Linn Soc 3(Suppl): 233-305 Schaeffer B,1960.The Cretaceous holostean fish Macrepistius.Am Mus Novit,2011: 1-18 Schaeffer B,1971.The braincaseof the holostean fish Macrepistius,with commentsonneurocranial osification in the Actinopterygi. Am Mus Novit,2459: 1-34 Schultze H-P,1993. Patterns of diversity in the skuls of jawe fish s.In: Hanken J,Hall B K eds.The Skull.Volume 2. Paterns of Structural and Systematic Diversity. Chicago: University of Chicago Press189-254 SieberR,1955.Ein bemerkenswerter Fischfund aus der Mitteltrias Kärtens 2: 91-96 Sun Z Y, Tintori A, Xu Y Z et al., 2017. A new non-parasemionotiform order e Halecomorphi (Neopterygii, Actinopterygi) from the Middle Triassc of Tethys. JSyst Palaeont,15: 223-240 Swoffrd DL,2003. PAUP\\*. Phylogenetic Analysis Using Parsimony (\\*and Other Methods). Version 4.0b10.Sunderland, Massachusetts: Sinauer Associates atf Taverne L,20l5. Osteology and phylogenetic relationships of Congophiopsis lepersonnei gen. nov.(Halecomorphi Ionoscopiformes) from the Songa Limestones (Midle Jurassc,Stanleyville Formation),Democratic Republic of Congo.Geo Eco Trop,38: 223-240 WestollS,1944.The Haplolepidae,anew familyofLate Carboniferous bony fishes-Astudy intaxonomyand evolution. Bull Am Mus Nat Hist,83: 1-121 Xu GH,Shen CC,2015.Panxianichthys imparilisgen.et sp.nov.,anew ionoscopiform (Halecomorphi) from the Middle Triassic of Guizhou, China.Vert PalAsiat,53(1): 1-15 Xu GH,GaoKQ,FinareliJA,2O14a.Arevisionof the Middle Triassic sanilepiform fishFukangichthys longidorsalis from Xinjiang,China,with comments on the phylogeny of the Actinopteri.JVert Paleont,34: 747-759 Xu G H,Zhao LJ,Coates MI,2014b.The oldest ionoscopiform from China sheds new light on the early evolutionof halecomorph fishes.Biol Lett,10: 20140204 Zhang QY,Zhou CY,LuTetal.,20o9.Aconodont-based Middle TriassicageassgnmentfortheLuopingBiotaofYunnan, China. Sci China Ser D-Earth Sci,52:1673-1678 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

@@ -1,0 +1,276 @@
+# 窟野河水-气界面 $\mathbf { C O } _ { 2 }$ 交换通量变化特征及其影响因素分析
+
+史红岩¹²，冉立山³4，岳荣，于瑞宏¹，赵艳霞¹²，吕喜玺ó(1.内蒙古大学生态与环境学院,内蒙古 呼和浩特010021；2.内蒙古河流与湖泊生态重点实验室，内蒙古 呼和浩特010021；3.香港大学地理系,香港999077；4.香港大学深圳研究院，深圳518057；5.西北农林科技大学水土保持研究所,黄土高原土壤侵蚀与旱地农业国家重点实验室，陕西 杨凌712100;6.新加坡国立大学地理学院,新加坡117570)
+
+摘要：近年来内陆水体 $\mathrm { C O } _ { 2 }$ 释放受到广泛关注，为揭示黄土高原地区内陆水体 $\mathrm { C O } _ { 2 }$ 的释放特征，于2018年7月和10月及2019年3月和6月利用 $\mathrm { L I } { - } 7 0 0 0 \mathrm { C O } _ { 2 }$ 分析仪对窟野河及代表性水库开展了高频次的水体 $\mathrm { C O } _ { 2 }$ 分压 $\left( { } _ { p \mathrm { C O } _ { 2 } } \right)$ 和水-气界面 $\mathrm { C O } _ { 2 }$ 交换通量( $\left( F \mathrm { C O } _ { 2 } \right)$ )观测，并分析其时空变化规律。结果表明：窟野河水体 $p \mathrm { C O } _ { 2 }$ 和 $F \mathrm { C O } _ { 2 }$ （分别为996$\mu \mathrm { a t m }$ 和 $9 4 . 5 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ 均高于水库(分别为 $7 5 2 \mu \mathrm { a t m }$ 和 $1 0 . 3 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ 。 $F \mathrm { C O } _ { 2 }$ 季节性差异明显：对于河流而言，表现为秋季最高( $\mathrm { 1 6 5 . 7 \ m m o l { \cdot } m ^ { - 2 } { \cdot } d ^ { - 1 } } )$ ，春季最低 $\left( 4 2 . 9 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } \right)$ ；对于水库而言，变化趋势则完全相反，表现为春季最高( $\cdot 1 6 . 6 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ ，秋季最低 $\left( - 5 . 4 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } \right)$ 。生物地球化学活性更强的支流 $F \mathrm { C O } _ { 2 } ( 1 0 7 . 4 \ : \mathrm { m m o l }$ $\mathbf { m } ^ { - 2 } { \boldsymbol { \cdot } } \mathbf { d } ^ { - 1 } )$ 高出干流 $\left( 6 6 . 5 \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } } \right)$ 约 $5 0 \%$ ;同时,位于中下游黄土丘陵区的水库 $F \mathrm { C O } _ { 2 } ( 1 6 . 4 \mathrm { m m o l } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { d } ^ { - 1 } )$ 显著高于位于上游呼鄂丘陵区的水库 $F { \bf C O } _ { 2 } ( 1 . 2 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ 。整体来看，流域水体 $p \mathrm { C O } _ { 2 }$ 受碳酸盐体系影响最大，有机碳分解作用次之;流速是控制水-气界面气体交换速率的关键因素。在年尺度上，窟野河的河流与水库水体均为大气持续碳源。窟野河平均 $\mathrm { C O } _ { 2 }$ 释放量与我国长江及国外温带河流相近，但低于黄河中游的其他支流。
+
+关键词：二氧化碳交换( $\left| \mathrm { F C O } _ { 2 } \right. ,$ ；二氧化碳分压 $\left( { } _ { p \mathrm { C O } _ { 2 } } \right)$ ；时空变化；水库；窟野河
+
+河流是连接海洋和陆地碳库的重要纽带。近年来的研究表明，经陆地生态系统进入河流的碳通量明显大于河流入海的碳通量，说明河流并不只是简单的碳输送通道，进入河流的碳会被"截留"而埋藏在水体中或经转化后以温室气体的形式释放至大气中[1-5]。Raymond等[6]利用全球内陆水域 $\mathrm { C O } _ { 2 }$ 分压 $( \boldsymbol { p } \mathbf { C } \mathbf { O } _ { 2 } )$ 数据估算全球内陆水域向大气释放了2.1$\mathrm { P g \ C \bullet a ^ { - 1 } }$ ，该释放通量与陆地生态系统年净吸收的$2 . 6 \mathrm { P g } \mathrm { C } { \cdot } \mathrm { a } ^ { - 1 }$ 相当。国内外对内陆水域的 $\phantom { + } _ { p } \mathrm { C O } _ { 2 }$ 和水-气界面 $\mathrm { C O } _ { 2 }$ 交换 $F \mathrm { C O } _ { 2 }$ )做了大量研究工作，指出两者是受流域地表理化性质和人类活动等因素共同作用的结果。例如，Davidson等7]对亚马逊河碳循环的研究发现其 $p \mathrm { C O } _ { 2 }$ 主要受控于地下水补给和水体自身呼吸作用。然而,Striegl等[在对Yukon河流域的研究中则指出其 $p \mathrm { C O } _ { 2 }$ 及 $F { \mathrm { C O } } _ { 2 }$ 的动态变化主要受地下水和地表径流及纬度等因素影响，而呼吸作用的贡献并不明显。另外，受 $\phantom { + } _ { p } \mathrm { C O } _ { 2 }$ 变化的影响，$F { \mathrm { C O } } _ { 2 }$ 亦表现出明显的时空变化特征。就黄河而言，宋鲁萍8对黄河三角洲观测发现其 $F \mathrm { C O } _ { 2 }$ 介于$4 2 . 0 \sim 5 6 . 4 ~ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ 之间;而杨欢针对黄河中游的研究则发现其 $F { \mathrm { C O } } _ { 2 }$ 可达到 $3 4 4 . 1 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } \nonumber$ 由此可见，水体 $\phantom { 0 } _ { p } \mathrm { C O } _ { 2 }$ 和 $F { \mathrm { C O } } _ { 2 }$ 均表现出明显的时空差异特征，针对代表性河流开展 $\mathrm { C O } _ { 2 }$ 交换通量研究对正确理解全球碳循环过程具有重要意义。
+
+黄河中游流经黄土高原地区，受强烈的物理侵蚀和化学风化的双重影响，大量碳被输送到河流水体中[10]。窟野河流域作为黄河中游粗泥沙的重要来源，研究其流域水-气界面 $\mathrm { C O } _ { 2 }$ 交换通量变化对理解黄土高原乃至整个黄河流域的碳输移及收支平衡都具有重要意义。本文以整个窟野河流域及其代表性水库为研究对象，通过时空尺度上的高频次野外采样分析其 $F { \mathrm { C O } } _ { 2 }$ 的时空变化特征及相关影响因素，以期加强对黄河中游土壤侵蚀剧烈地区河流$\mathrm { C O } _ { 2 }$ 释放变化规律的理解，并为黄河中游乃至整个流域的碳收支平衡提供数据支撑。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+窟野河流域 $( 3 8 ^ { \circ } 2 2 ^ { \prime } { \sim } 3 9 ^ { \circ } 3 0 ^ { \prime } \mathrm { N } , 1 0 9 ^ { \circ } 3 0 ^ { \prime } { \sim } 1 1 0 ^ { \circ } 5 0 ^ { \prime } \mathrm { E } )$ 发源于内蒙古自治区东胜市巴定沟，流经伊金霍洛旗和陕西省府谷县境，于神木县沙昴头村注人黄河，是黄河的一级支流,干流长 $2 4 2 \mathrm { k m }$ ，流域面积为$8 7 0 6 \mathrm { k m } ^ { 2 }$ (图1)。窟野河水系结构较为简单，主要支流有乌兰木伦河和悖牛川河等。源头至神木段为(流域上游)呼鄂丘陵沟壑区，主要土壤类型为砂质土；中下游为黄土丘陵沟壑区，主要土壤类型为黄绵土，富含碳酸盐。窟野河流经黄河中游多沙粗沙区，其中粗沙来源区面积为 $4 0 0 1 ~ \mathrm { k m } ^ { 2 }$ ，占全黄河粗沙来源区总面积的 $2 1 \%$ 。流域洪枯流量变幅明显，是黄河中游的暴雨中心之一，多年平均降雨量368.2$\mathbf { m } \mathbf { m }$ ,多以暴雨形式集中在 $7 \sim 9$ 月份，其降水量约占年降雨的 $6 0 \% ^ { [ 1 1 ] }$ 。近年来,窟野河流域植被明显增加，水土流失有所缓解。此外，流域每年有长达两个月的冰封期，冰封期为12月中旬至次年2月末。
+
+![](images/79c7c7a7bbe68c0160025eddc82bf6c8f5d9d4aa8a68823bd51ed56486ed242f.jpg)  
+图1窟野河流域位置及采样点示意图  
+Fig.1 Location map of the Kuye River basin and the sampling sites
+
+# 1.2野外 $\mathbf { C O } _ { 2 }$ 释放测量
+
+野外实测和采样分别于2018年7月（夏季丰水期)和10月(秋季)及2019年3月下旬(春季融冰期）和6月(夏季枯水期)在窟野河干流、主要支流及代表性水库进行，共包括15个河流采样点和5个水库采样点。采样点尽量布设于城市和污染源的上游。采样点位置见图1，图中1表示窟野河干流，2和3分别表示流入干流的一级支流和流入一级支流的二级支流。水库采样点覆盖流域上下游，5个水库皆为小(Ⅱ)型水库(库容小于 $1 0 0 { \times } 1 0 ^ { 4 } \mathrm { m } ^ { 3 } ,$ 。上游水库库龄为 $6 \sim 1 0 \mathrm { ~ a ~ }$ ，水深为 $5 \sim 8 \mathrm { ~ m ~ }$ ,正常蓄水位下水域面积为 $1 . 3 \sim 3 . 3 ~ \mathrm { k m } ^ { 2 }$ ；下游水库库龄为 $1 0 \sim 2 0$ a,水深为 $5 \sim 1 2 ~ \mathrm { m }$ ,正常蓄水位下水域面积为 $0 . 0 1 \sim$ $0 . 0 5 \mathrm { ~ k m } ^ { 2 }$ ,水库上游流域植被稀少，土壤侵蚀严重。采样时先用采集点处水样润洗采样瓶3次，然后采集水面以下 $5 \mathrm { c m }$ 水体2L用于室内分析。
+
+对于 $p \mathrm { C O } _ { 2 }$ ,利用顶空平衡法进行测量。顶空瓶总容量 $6 3 0 ~ \mathrm { m L }$ ，用水样润洗3次后采集水样400$\mathrm { m L }$ ，在密封条件下剧烈晃动约 $2 ~ \mathrm { m i n }$ ，当顶空瓶内水、气中的 $\mathrm { C O } _ { 2 }$ 浓度达到平衡时，通过过滤器与LI-$7 0 0 0 \mathrm { C O } _ { 2 }$ 分析仪(美国LI-COR公司)连接进行现场测量。过滤器的作用在于防止连接时杂质混入仪器，并在仪器外接含有苏打及高氯酸镁的干燥管。测量时气体先后通过苏打和高氯酸镁进行干燥。重复测量3次保证误差在 $5 \%$ 以内，最后利用 $\mathrm { C O } _ { 2 }$ 溶解度常数、顶空比以及平衡前后水体 $\mathrm { \ p H }$ 变化计算出水体实际 $p \mathrm { C O } _ { 2 } ^ { [ 1 2 - 1 3 ] }$ 。对于 $F { \mathrm { C O } } _ { 2 }$ ,采用漂浮通量箱测量。通量箱体积为 $1 0 . 7 7 \mathrm { ~ L ~ }$ ，与水面接触面积为$0 . 1 0 \mathrm { m } ^ { 2 }$ ,通量箱外表用锡纸进行包裹以最大程度减小太阳辐射影响，内置温度计以记录测量过程中通量箱内的温度变化。测量时，通量箱通过两根塑料管与 $\mathrm { L I } { - } 7 0 0 0 ~ \mathrm { C O } _ { 2 }$ 分析仪进行连接并形成封闭回路。待箱内气压与大气压平衡时，将通量放置于水面上并开启 $\mathrm { L I } { - } 7 0 0 0 \mathrm { C O } _ { 2 }$ 分析仪以记录 $p { \bf C } { \bf O } _ { 2 }$ 数值。当 $\mathrm { C O } _ { 2 }$ 逸出或吸收速率稳定并持续一段时间后，视为一个监测周期,每次监测约持续 $1 0 \mathrm { m i n }$ 。水-气界面 $\mathrm { C O } _ { 2 }$ 交换通量通过公式(1)计算。
+
+$$
+F \mathbf { C O } _ { 2 } = ( \mathrm { d } p \mathbf { C O } _ { 2 } / \mathrm { d } t ) ( V / R T S )
+$$
+
+式中： $F { \mathrm { C O } } _ { 2 }$ 为 $\mathrm { C O } _ { 2 }$ 的逸出通量 $( { \mathrm { m m o l } } \cdot { \mathrm { m } } ^ { - 2 } \cdot { \mathrm { d } } ^ { - 1 } ) : { \mathrm { d } } p \quad$ （204号$\mathrm { C O } _ { 2 } / \mathrm { d } t$ 表示 $p \mathrm { C O } _ { 2 }$ 在通量箱中累计的斜率( $\left( \mu \mathrm { a t m } \cdot \mathrm { s } ^ { - 1 } \right)$
+
+$V$ 为通量箱体积 $( \mathbf { m } ^ { 3 } )$ ； $R$ 为气体常数 $( \mathrm { m } ^ { 3 } \cdot \mathrm { a t m } \cdot \mathrm { K } ^ { - 1 }$ · $\mathrm { m o l } ^ { - 1 }$ ）； $T$ 为通量箱内温度(K); $s$ 为通量箱接触水面 的面积 $\left( \mathbf { m } ^ { 2 } \right)$ 。
+
+对于水-气界面气体交换速率(GasTransferVe-locity, $k$ ),采用模型法计算[12-14]：
+
+$$
+F \mathrm { C O } _ { _ 2 } { = } k ( c _ { _ { \mathrm { a q } } } - c _ { _ { \mathrm { e q } } } )
+$$
+
+式中： $c _ { \mathrm { a q } }$ 和 $c _ { \mathrm { e q } }$ 分别表示水体实际的 $\mathrm { C O } _ { 2 }$ 浓度和水体与大气平衡时的 $\mathrm { C O } _ { 2 }$ 浓度 $( \mu \mathrm { a t m } )$ 。结合实测的$F { \mathrm { C O } } _ { 2 }$ ，利用公式(2)反算出 $k$ 。为方便比较，将 $k$ 值标准化为 $S _ { c }$ 数(Schmidt Number)为600时的 $k _ { 6 0 0 } , k _ { 6 0 0 }$ 转换公式为[14]：
+
+$$
+k = k _ { _ { 6 0 0 } } ( 6 0 0 / S _ { c } ) ^ { 1 / 2 }
+$$
+
+式中： $S _ { c }$ 数为水体动力黏度与待测气体分子扩散速率之比。对于特定气体， $S _ { c }$ 数与水温 $( T )$ 、盐度等物理参数有关。对于河流水体而言,其计算公式为[15]：
+
+$$
+S _ { c } = 1 9 1 1 . 1 - 1 1 8 . 1 1 \times
+$$
+
+$$
+T \mathrm { + } 3 . 4 5 2 7 \times T ^ { 2 } \mathrm { - } 0 . 0 4 1 3 2 0 \times T ^ { 3 }
+$$
+
+# 1.3水环境测量
+
+水环境特征变量（如 $\mathrm { \ p H }$ 、水温和盐度)采用便携式水质分析仪 $\mathrm { M u l t i } { - } 3 6 3 0$ （德国WTW公司）测量水质分析仪在每次测量前采用三种校正液( $\mathrm { \Delta \cdot \ p H = }$ $4 . 0 1 \cdot \mathrm { p H } { = } 7 . 0 0 \cdot \mathrm { p H } { = } 1 0 . 0 1 ,$ 进行校正以确保准确性，采集的样品现场通过 $0 . 7 ~ { \mu \mathrm { m } }$ 滤纸（WhatmanGF/F)过滤并用 $0 . 1 \ \mathrm { m o l \cdot L ^ { - 1 } }$ 的盐酸配合甲基橙溶液进行滴定以测量其总碱度（ $\mathrm { \Phi _ { \cdot } p H } { \approx } 4 . 4 \$ ，重复两次，误差在 $5 \%$ 以内。因目前针对黄河的河流碳循环研究认为碳酸氢根（ $\cdot \mathrm { H C O } _ { 3 } ^ { - }$ )可占碱度的 $9 6 \%$ 以上，而溶解无机碳(DIC)主要由 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 构成[13],故本文采用总碱度代替DIC含量进行分析。风速及气温采用Kestrel2000(美国Kestrel公司)测定。采集过滤后的水样$4 0 ~ \mathrm { m L }$ 并加入磷酸酸化至 $\mathrm { p H } < 2$ 。水样保存于 $4 \mathrm { { ^ { \circ } C } }$ 条件下并带回室内利用总有机碳分析仪ElementarvarioTOC(德国Elementar公司)测量其溶解有机碳(DOC)浓度，测量误差在 $5 \%$ 以内。另外，采集500mL水样并加入碳酸镁悬浊液用于叶绿素(Chla)测量。叶绿素先经 $1 0 \%$ 丙酮溶液 $1 0 ~ \mathrm { m L }$ 进行萃取后用紫外-可见光分光光度计UV-2600（日本岛津公司）测定,测量精度为 $\pm 0 . 0 1 ~ \mu \mathrm { g }$ 。
+
+# 2结果与分析
+
+# 2.1水环境因子变化特征
+
+窟野河主要水环境因子如表1所示，水体 $\mathrm { \ p H }$ 为$8 . 0 \sim 9 . 5 \$ ,均值为8.7，属弱碱性。水温随季节变化明显，夏季水温( $1 6 . 7 \sim 3 3 . 8 ~ \mathrm { ^ { \circ } C }$ )显著高于秋季( $5 . 5 \sim$ $1 6 . 2 ~ \mathrm { ^ { \circ } C }$ )和春季（ $\mathrm { 1 } \sim 1 2 . 2 \ \mathrm { ^ { \circ } C } \ \mathrm { ) }$ ，且丰水期 $>$ 枯水期；风速变化幅度为 $0 . 1 \sim 1 . 0 \ \mathrm { m \cdot s ^ { - 1 } }$ ;流速无明显的季节性差异。此外，Chla呈现明显的季节变化特征，表现为：春季 $\mathrm { > }$ 夏季 $: >$ 秋季;DOC深度为 $0 . 1 \sim 1 8 . 4 \ \mathrm { m g ^ { - } L ^ { - 1 } }$ 均值为 $3 . 0 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ,季节性差异显著且上游明显高于中下游。DIC 浓度为 $2 3 . 0 \sim 1 1 8 . 1 ~ \mathrm { m g \cdot L ^ { - 1 } }$ ，均值为$5 3 . 9 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ,高于黄河均值 $4 1 . 2 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 [ 1 6 ] }$ □
+
+表1窟野河流域主要水环境因子  
+Tab.1 Majorenvironmental indicatorsintheKuye River basin   
+
+<html><body><table><tr><td>采样日期</td><td>参数</td><td>pH</td><td>水温/℃</td><td>Chl a/( μg·L-1)</td><td>DIC/(mg·L-1)</td><td>DOC/(mg·L-1)</td><td>风速/(m·s-1)</td><td>流速/(m·s-1)</td></tr><tr><td rowspan="4">2018年7月(夏季丰水期)</td><td>最小值</td><td>8.0</td><td>16.7</td><td>一</td><td>28.8</td><td>1.6</td><td>一</td><td>0.1</td></tr><tr><td>最大值</td><td>9.4</td><td>33.8</td><td>一</td><td>63.4</td><td>18.4</td><td>1</td><td>0.9</td></tr><tr><td>平均值</td><td>8.4</td><td>27.0</td><td>一</td><td>40.8</td><td>5.5</td><td>1</td><td>0.5</td></tr><tr><td>标准偏差</td><td>0.5</td><td>5.5</td><td>1</td><td>10.8</td><td>5.8</td><td>1</td><td>0.3</td></tr><tr><td rowspan="4">2018年10月(秋季)</td><td>最小值</td><td>8.1</td><td>5.5</td><td>0.1</td><td>23.6</td><td>0.9</td><td>0.0</td><td>0.2</td></tr><tr><td>最大值</td><td>8.8</td><td>16.2</td><td>15.9</td><td>63.4</td><td>13.7</td><td>1.3</td><td>1.4</td></tr><tr><td>平均值</td><td>8.5</td><td>10.8</td><td>4.7</td><td>45.5</td><td>4.4</td><td>0.6</td><td>0.6</td></tr><tr><td>标准偏差</td><td>0.7</td><td>2.5</td><td>4.9</td><td>11.8</td><td>4.0</td><td>0.4</td><td>0.3</td></tr><tr><td rowspan="4">2019年3月(春季)</td><td>最小值</td><td>8.7</td><td>1.0</td><td>4.2</td><td>23.0</td><td>1.0</td><td>0.0</td><td>0.1</td></tr><tr><td>最大值</td><td>9.2</td><td>12.2</td><td>18.1</td><td>118.1</td><td>2.7</td><td>3.2</td><td>0.8</td></tr><tr><td>平均值</td><td>8.8</td><td>6.6</td><td>9.1</td><td>58.1</td><td>1.6</td><td>1.0</td><td>0.4</td></tr><tr><td>标准偏差</td><td>0.1</td><td>3.5</td><td>3.4</td><td>21.5</td><td>0.5</td><td>0.8</td><td>0.2</td></tr><tr><td rowspan="4">2019年6月(夏季枯水期)</td><td>最小值</td><td>8.6</td><td>19.5</td><td>2.4</td><td>28.8</td><td>0.1</td><td>0.0</td><td>0.0</td></tr><tr><td>最大值</td><td>9.5</td><td>32.3</td><td>18.8</td><td>83.5</td><td>2.2</td><td>2.0</td><td>1.4</td></tr><tr><td>平均值</td><td>9.0</td><td>25.0</td><td>6.2</td><td>54.6</td><td>0.5</td><td>0.3</td><td>0.5</td></tr><tr><td>标准偏差</td><td>0.3</td><td>3.9</td><td>4.2</td><td>14.5</td><td>0.7</td><td>0.7</td><td>0.3</td></tr></table></body></html>
+
+注：-表示未测得数据。下同。
+
+水库的测量结果见表2，其 $\mathrm { \ p H }$ 略高于河流，介于 $8 . 2 \sim 9 . 3 \$ 之间，均值为8.8；水温与风速变化趋势与河流一致；DIC浓度略高于河流，总体为 $2 6 . 5 \sim$ $1 0 1 . 4 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ,均值为 $6 7 . 3 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ,且夏季显著高于春秋两季。此外，与河流明显不同的是：水库DOC含量无明显季节性差异,但均值 $\left( 5 . 3 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \right) ,$ 明显高于河流。另外，由于水库相对静止的水生环境，其Chla含量高于河流约 $20 \%$ ○
+
+# 2.2河流 $p { \bf C O } _ { 2 }$ 和 $F \mathbf { C O } _ { 2 }$ 变化特征
+
+流域水体内的碳主要源自陆地生态系统内的生物地球化学过程，其碳输移过程受水温、流量、陆地-水体联通性、风速等水文和气候因素的影响和控制[17-19]。窟野河 $p \mathrm { C O } _ { 2 }$ 的变化如图2所示，春季变化范围在 $6 4 5 \sim 2 3 5 5 ~ { \mu \mathrm { a t m } }$ ,均值为 $1 1 0 4 ~ \mu \mathrm { a t m }$ ；夏季枯水期变化范围在 $4 3 \sim 2 1 6 2 ~ \mu \mathrm { a t m }$ ,均值为1073.5$\mu \mathrm { a t m }$ ;夏季丰水期变化范围在 $1 9 0 \sim 2 6 0 4 ~ { \mu \mathrm { a t m } }$ ，均值为 $1 0 8 9 ~ \mu \mathrm { a t m }$ ;秋季变化范围在 $5 2 5 \sim 1 0 2 8 ~ { \mu \mathrm { a t m } }$ ，均值为 $7 1 6 ~ \mu \mathrm { a t m }$ 。季节上表现为：春季 $>$ 夏季丰水期 $\mathrm { > }$ 夏季枯水期 $\mathrm { \dot { > } }$ 秋季。同时，生物地球化学活性更强的支流水体 $p \mathrm { C O } _ { 2 } ( 1 1 2 4 \ \mu \mathrm { a t m } )$ 明显大于干流水体（20 $( 7 4 1 \mu \mathrm { a t m } )$ 。
+
+对于窟野河流域，由于冬季水域全面结冰，有效阻止了水-气界面的 $\mathrm { C O } _ { 2 }$ 释放，导致冰层下的水体因有机质分解氧化而累积了大量的溶解性 $\mathrm { C O } _ { 2 }$ 。随着春季气温增加，冰层逐渐融化，累积在冰层下的大量 $\mathrm { C O } _ { 2 }$ 参与到碳循环中，从而导致春季融冰期的水体 $p \mathrm { C O } _ { 2 }$ 明显高于其他季节[20-21]。同时,春季融冰期因水温低而导致 $\mathrm { C O } _ { 2 }$ 溶解度相对较高，也是导致其高 $p { \bf C } { \bf O } _ { 2 }$ 的一个潜在原因[9.18]。而夏季因为径流量较大，大量坡面有机质经地表径流携带而进入河道系统中[10.14];同时夏季水体微生物分解有机碳而生产 $\mathrm { C O } _ { 2 }$ 的能力强于秋季。因此,河流水体 $p { \bf C } { \bf O } _ { 2 }$ 在夏季高于秋季。
+
+同时， $F { \mathrm { C O } } _ { 2 }$ 也表现出显著的变化特征(图3）。春季变化范围在 $7 . 0 \sim 1 4 9 . 1 \ \mathrm { m m o l \cdot \ m ^ { - 2 } \cdot d ^ { - 1 } }$ ,均值为$4 2 . 9 ~ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ ;夏季枯水期变化范围在 $- 3 4 . 1 \sim$ $3 6 9 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ ，均值为 $6 6 . 1 \ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ ;夏季丰水期变化范围在 $- 6 3 . 2 \sim 3 3 9 . 5 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ ，均值为$1 0 3 . 1 \ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ ;秋季变化范围在 $2 0 . 0 \sim 4 6 7 . 3 \$ $\mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ ,均值为 $1 6 5 . 7 \ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ 。季节上表现为：秋季 $>$ 夏季丰水期 $>$ 夏季枯水期 $>$ 春季。与$p { \bf C } { \bf O } _ { 2 }$ 相同，支流水体 $\mathrm { ( 1 0 7 . 4 \ m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } ) }$ 同样大于干流水体 $\left( 6 6 . 5 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } \right)$ ○
+
+综合来看，窟野河水体 $F \mathrm { C O } _ { 2 }$ 与 $p { \bf C } { \bf O } _ { 2 }$ 在季节变化上存在明显差异(图2和图3)。这表明水-气界面的气体交换速率 $k$ 是控制水体 $F { \mathrm { C O } } _ { 2 }$ 的关键因素。
+
+表2采样水库水环境因子  
+Tab.2 Environmental indicators in the sampled reservoirs   
+
+<html><body><table><tr><td>日期</td><td>参数</td><td>pH</td><td>水温/℃</td><td>Chl a/(μg·L-1）DIC/(mg·L-1)</td><td></td><td>DOC/(mg·L-1)</td><td>风速/(m·s-1)</td></tr><tr><td rowspan="4">2018年7月(夏季丰水期)</td><td>最小值</td><td>8.2</td><td>27.7</td><td>2.9</td><td>26.5</td><td>2.6</td><td>一</td></tr><tr><td>最大值</td><td>9.0</td><td>34.9</td><td>5.5</td><td>91.2</td><td>7.5</td><td>一</td></tr><tr><td>平均值</td><td>8.7</td><td>29.8</td><td>4.3</td><td>58.2</td><td>4.3</td><td>一</td></tr><tr><td>标准偏差</td><td>0.4</td><td>3.5</td><td>1.1</td><td>26.9</td><td>2.3</td><td>1</td></tr><tr><td rowspan="3">2018年10月(秋季)</td><td>最小值</td><td>8.3</td><td>10.8</td><td>1.1</td><td>38.3</td><td>1.2</td><td>0.6</td></tr><tr><td>最大值</td><td>9.5</td><td>17.2</td><td>12.0</td><td>69.6</td><td>14.8</td><td>1.1</td></tr><tr><td>平均值</td><td>8.9</td><td>12.9</td><td>5.7</td><td>48.8</td><td>4.2</td><td>0.8</td></tr><tr><td rowspan="4">2019年3月(春季)</td><td>标准偏差</td><td>0.5</td><td>2.5</td><td>5.0</td><td>12.4</td><td>5.9</td><td>0.2</td></tr><tr><td>最小值</td><td>8.4</td><td>6.4</td><td>5.2</td><td>37.4</td><td>1.0</td><td>0.0</td></tr><tr><td>最大值</td><td>9.4</td><td>12.7</td><td>27.3</td><td>61.9</td><td>12.8</td><td>3.2</td></tr><tr><td>平均值</td><td>8.7</td><td>8.8</td><td>11.4</td><td>48.0</td><td>5.2</td><td>1.0</td></tr><tr><td rowspan="4">2019年6月(夏季枯水期)</td><td>标准偏差</td><td>0.4</td><td>2.5</td><td>9.1</td><td>10.8</td><td>4.6</td><td>0.8</td></tr><tr><td>最小值</td><td>8.8</td><td>24.2</td><td>3.4</td><td>40.3</td><td>0.2</td><td>0.0</td></tr><tr><td>最大值</td><td>9.6</td><td>30.0</td><td>6.0</td><td>101.4</td><td>17.5</td><td>2.0</td></tr><tr><td>平均值</td><td>9.1</td><td>25.7</td><td>5.0</td><td>76.0</td><td>5.1</td><td>0.3</td></tr><tr><td></td><td>标准偏差</td><td>0.3</td><td>2.4</td><td>1.1</td><td>24.4</td><td>7.2</td><td>0.7</td></tr></table></body></html>
+
+![](images/1f7756fe1a16400da03bdb38193aaff90085053e0435583f57042f15949df270.jpg)  
+图2河流采样点 $p { \mathrm { C O } } _ { 2 }$ 的变化特征
+
+![](images/6cab4fca78894497cc3af8243aa2332bf1d18c61f8e25aea9c49771e4c31ae9b.jpg)  
+Fig.2Spatial and temporal variations of $\boldsymbol { p } \mathrm { C O } _ { 2 }$ at the river sampling sites.The transverse dash line denotes   
+图3河流采样点 $F C O _ { 2 }$ 的变化特征 Fig.3Spatial and temporal variations of $F C O _ { 2 }$ at the river sampling sites   
+图5水库采样点 $p { \mathrm { C O } } _ { 2 }$ 与 $F C O _ { 2 }$ 的变化特征 Fig.5Spatial and variations of $\phantom { + } p \phantom { + } \mathrm { C O } _ { 2 }$ and $F C O _ { 2 }$ at reservoir sampling sites
+
+例如，窟野河春季水体 $p { \bf C } { \bf O } _ { 2 }$ 最高而秋季最低，但$F { \mathrm { C O } } _ { 2 }$ 却表现为秋季最高而春季最低。这是因为秋季的水体流速高出春季约 $5 0 \%$ ,水面紊动强度增加进而导致 $k$ 值增大。
+
+此外， $p { \bf C } { \bf O } _ { 2 }$ 和 $F \mathrm { C O } _ { 2 }$ 在不同地貌类型下也呈现出明显的差异(图4)，其差异主要体现在夏季丰水期和秋季。尽管此时上游呼鄂丘陵区的 $p \mathrm { C O } _ { 2 }$ (1036$\mu \mathrm { a t m } .$ 仅高于中下游黄土丘陵区( $8 1 5 \mu \mathrm { a t m } ,$ 约 $3 0 \%$ ，但其 $F \mathrm { C O } _ { 2 } ( 1 7 1 . 4 \ \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ 则高于黄土丘陵区（ $9 8 . 3 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ 约 $7 0 \%$ 。从整体来看， $p { \bf C } { \bf O } _ { 2 }$ 表现为呼鄂丘陵区 $( 1 1 0 5 ~ \mu \mathrm { a t m } )$ 大于黄土丘陵区（923$\mu \mathrm { a t m }$ ； $F \mathrm { C O } _ { 2 }$ 同样表现为呼鄂丘陵区( $1 1 4 . 8 ~ \mathrm { m m o l }$ ：$\mathbf { m } ^ { - 2 } { \boldsymbol { \cdot } } \mathbf { d } ^ { - 1 } )$ 高于黄土丘陵区 $\left( 7 5 . 2 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } \right)$ 0
+
+![](images/31fffb2290069d016a1aa2e5d35033e27df25ac981405ea49fe6388fb8a08dd6.jpg)  
+图4不同等级河流采样点 $F C O _ { 2 }$ 和 $p { \mathrm { C O } } _ { 2 }$ 的季节性变化 Fig.4 Seasonal variations of $F C O _ { 2 }$ and $p { \mathrm { C O } } _ { 2 }$ at different river sampling sites
+
+# 2.3水库 $p { \bf C O } _ { 2 }$ 和 $F \mathbf { C O } _ { 2 }$ 的变化特征
+
+相比于河流水体，水库水体的 $p { \bf C } { \bf O } _ { 2 }$ 和 $F { \mathrm { C O } } _ { 2 }$ 则表现出完全不同的变化特征(图5)。其 $p { \bf C } { \bf O } _ { 2 }$ 在春季变化范围为 $2 1 6 \sim 2 0 0 0 ~ \mu \mathrm { a t m }$ ,均值为 $1 0 9 1 ~ \mu \mathrm { a t m }$ ；夏季枯水期变化范围为 $1 0 3 \sim 1 5 1 1 ~ { \mu \mathrm { a t m } }$ ,均值为1009$\mu \mathrm { a t m }$ ;夏季丰水期变化范围为 $2 0 1 \sim 7 8 5 ~ \mu \mathrm { a t m }$ ,均值为 $4 6 0 ~ \mu \mathrm { a t m }$ ;秋季变化范围为 $2 2 0 \sim 8 3 7 ~ \mu \mathrm { a t m }$ ,均值为 $4 4 6 ~ \mu \mathrm { a t m }$ 。季节变化表现为：春季 $\mathrm { : > }$ 夏季枯水期>夏季丰水期 $>$ 秋季；不同地貌类型下：位于上游呼鄂丘陵区的水库( $3 7 1 \ \mu \mathrm { a t m } \$ )小于位于中下游黄土丘陵区水库 $( 1 0 5 6 \mu \mathrm { a t m } )$ ）
+
+$F { \mathrm { C O } } _ { 2 }$ 在春季变化范围为 $- 1 . 8 \sim 4 2 . 4 \ \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 }$ $\mathbf { d } ^ { - 1 }$ ,均值为 $1 6 . 6 \ \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ ;夏季枯水期变化范围为 $- 6 . 0 \sim 3 4 . 0 \ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ ，均值为 $1 4 . 4 ~ \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 }$ ·$\mathbf { d } ^ { - 1 }$ ;夏季丰水期的变化范围为 $- 8 . 2 \sim 6 0 . 3 \ \mathrm { m m o l \cdot m ^ { - 2 } }$ .$\mathrm { d } ^ { - 1 }$ ,均值为 $1 5 . 5 \ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ ;秋季变化范围为$- 2 8 . 2 \sim 8 . 1 \ \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ ,均值为 $- 5 . 4 \ \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$
+
+140 呼鄂丘陵 黄土丘陵 2000120- 春季 -1600[Pr.o)/ 100- 夏季水期 -120080 60 秋季 2 器 -0-春季 400 H/ood er40- 9 夏季水期 40020- -8000 诊 盛 -1200-20 目 -1600-40 -2000K1 K2 K10 K16 K20采样点
+
+季节变化表现为：春季 $\mathrm { > }$ 夏季丰水期 $\mathrm { \dot { > } }$ 夏季枯水期 $>$ 秋季，且在秋季表现为碳汇；不同地貌类型下，位于呼鄂丘陵区的水库（ $\cdot 1 . 2 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } \rangle$ 亦小于位于黄王丘陵区的水库( $\cdot 1 6 . 4 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ 。
+
+此外,与河流不同的是,水库水体 $F { \mathrm { C O } } _ { 2 }$ 与 $p \mathrm { C O } _ { 2 }$ 在季节变化上基本一致，均表现为春季最高而秋季最低。但需要指出的是，尽管夏季枯水期水库水体$p { \bf C } { \bf O } _ { 2 }$ 高出丰水期水库水体 $p \mathrm { C O } _ { 2 }$ 约一倍，但两者$F { \mathrm { C O } } _ { 2 }$ 却非常相近(图5)。这主要是由于枯水期风速均值仅为 $0 . 3 \ \mathrm { m \cdot s ^ { - 1 } }$ ,为全年最低，微弱的水面紊动导致其 $k$ 值最小,从而影响了其 $F { \mathrm { C O } } _ { 2 }$ 大小。另外，水库采样点K10在丰水期表现为强碳源， $F { \mathrm { C O } } _ { 2 }$ 高达$6 0 . 3 ~ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ ，远高于其他水库(图5)，也导致了丰水期 $F { \mathrm { C O } } _ { 2 }$ 均值增大。
+
+# 3讨论
+
+# 3.1 $p \mathbf { C } \mathbf { O } _ { 2 }$ 与碳酸盐系统的关系
+
+黄土高原地区水体受强烈化学风化影响而形成的碳酸盐体系是控制其水体 $p \mathrm { C O } _ { 2 }$ 分布的主要因素，而碳酸盐体系的影响主要通过 $\mathrm { \ p H }$ 和DIC来体现[16-18]。其中,DIC在水体中以溶解态的 $\mathrm { C O } _ { 2 }$ （包括$\mathrm { H } _ { 2 } \mathrm { C O } _ { 3 }$ ）、 $\mathrm { H C O } _ { 3 }$ 和 $\mathrm { C O _ { 3 } } ^ { 2 - } 3$ 种形态存在，不同形态的DIC组分在水中的浓度直接受水体 $\mathrm { \ p H }$ 大小控制[22-23]。碳酸盐体系各组分相互间的转换可表达为：
+
+$$
+\mathrm { C O } _ { 2 } + \mathrm { H } _ { 2 } \mathrm { O }  \mathrm { H } _ { 2 } \mathrm { C O } ^ { 3 }  2 \mathrm { H } ^ { + } + \mathrm { C O } _ { 3 } ^ { 2 - }
+$$
+
+$$
+\mathrm { C a C O } _ { 3 } + \mathrm { H } _ { 2 } \mathrm { O } + \mathrm { C O } _ { 2 } {  } \mathrm { C a } ^ { 2 + } + 2 \mathrm { H C O } _ { 3 } ^ { - }
+$$
+
+以往的研究表明，当水体 $\mathrm { \ p H }$ 高于7时，溶解态的 $\mathrm { C O } _ { 2 }$ 会被电离为 $\mathrm { H C O } _ { 3 } ^ { - }$ 和 $\mathrm { C O } _ { 3 } ^ { 2 - }$ 离子，从而以非挥发性的形态存在于水体中，并通过碳酸盐缓冲效应(Buffering Effect）影响水体 $p { \bf C } { \bf O } _ { 2 }$ 大小[22-23]。窟野河水体的 $\mathrm { \ p H }$ 均值高达8.7,高 $\mathrm { \ p H }$ 导致的强碳酸盐缓冲效应是影响其水体 $p \mathrm { C O } _ { 2 }$ 大小的主控因素(表3)。特别需要指出的是，尽管黄土丘陵区的河流水体DIC浓度更高，但其因受高 $\mathrm { \ p H }$ 而形成的碳酸盐缓冲效应的影响,其河流水体 $p \mathrm { C O } _ { 2 }$ 甚至低于DIC浓度更低的呼鄂丘陵区水体 $p \mathrm { C O } _ { 2 }$ (图6)。这也表明碳酸盐缓冲效应是影响窟野河水体 $p { \bf C } { \bf O } _ { 2 }$ 大小的关键因子。
+
+# 表3窟野河 $p { \bf C O } _ { 2 }$ 与水环境因子相关性
+
+Tab.3 Correlation between river water $p { \bf C } { \bf O } _ { 2 }$ and various waterqualityparameterintheKuyeRiverbasin   
+
+<html><body><table><tr><td>季节及水体</td><td>pH</td><td>DIC</td><td>DOC</td><td>水温</td><td>Chl a</td></tr><tr><td>春季</td><td>-0.518*</td><td>0.656*</td><td>0.200</td><td>-0.261</td><td>-0.041</td></tr><tr><td>夏季枯水期</td><td>-0.836**</td><td>0.190</td><td>-0.742**</td><td>-0.247</td><td>-0.608*</td></tr><tr><td>夏季丰水期</td><td>-0.786**</td><td>0.232</td><td>0.549°</td><td>-0.232</td><td>1</td></tr><tr><td>秋季</td><td>-0.638*</td><td>0.040</td><td>0.582°</td><td>0.446</td><td>-0.177</td></tr></table></body></html>
+
+注：\*\*表示相关性在0.01水平上显著；\*表示在0.05水平上显著。下同。
+
+此外，水库水体 $p \mathrm { C O } _ { 2 }$ 与DIC则呈极显著正相关关系(表4)。这是由于该流域水库的陆源有机碳输入量较低、水库植物的初级生产力也远低于热带地区，库区水体的溶解 $\mathrm { C O } _ { 2 }$ 主要来源于DIC[24]。实际上，该流域水库水体主要来源于地下水，而地下水富含DIC,其DIC含量高达 $5 7 . 8 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ,远高于黄河平均DIC含量 $4 1 . 2 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 [ 1 6 ] }$ 。因此,较高的地下水DIC浓度直接控制库区水体的 $p \mathrm { C O } _ { 2 }$ 大小。
+
+# 3.2 $p { \bf C O } _ { 2 }$ 与叶绿素(Chla)及水温的关系
+
+水体Chla浓度可以定量表征浮游植物的量，即浮游植物消耗 $\mathrm { C O } _ { 2 }$ 的能力[25]。根据表3和表4可以看出,仅在夏季枯水期,河流水体Chla与 $p { \bf C } { \bf O } _ { 2 }$ 呈极
+
+![](images/4e8a9382f3b5c83fee0c92e5144c1a21be962156dfbd3e125eb1b7f09593ed7e.jpg)  
+图6不同地貌类型下 $\mathrm { p H }$ 与河流水体 $p { \mathrm { C O } } _ { 2 }$ 的关系  
+Fig.6Relationship between pHand $p { \mathrm { C O } } _ { 2 }$ under different geomorphological landscapes
+
+# 表4水库水体 $p { \bf C O } _ { 2 }$ 与水环境因子相关性
+
+Tab.4 Correlation between reservoir water $p { \bf C } { \bf O } _ { 2 }$ and variouswaterqualityparameterintheKuyeRiver basin   
+
+<html><body><table><tr><td></td><td>pCO2</td><td>pH</td><td>DIC</td><td>DOC</td><td>水温</td><td>Chl a</td></tr><tr><td>pCO2</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>pH</td><td>-0.503*</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>DIC</td><td>0.663**</td><td>0.628**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>DOC</td><td>-0.609**</td><td>0.492*</td><td>0.702**</td><td>1</td><td></td><td></td></tr><tr><td>水温</td><td>-0.264</td><td>0.276</td><td>0.476</td><td>0.203</td><td>1</td><td></td></tr><tr><td>Chl a</td><td>-0.519*</td><td>0.392</td><td>-0.120</td><td>0.213</td><td>0.024</td><td>1</td></tr></table></body></html>
+
+显著负相关关系 $( R { = } - 0 . 6 1 , P { < } 0 . 0 0 1 )$ ;而在水库水体，两者则表现为全年性的显著负相关关系。这主要是由于夏季较高的水温及水库相对静止的水生环境更有利于浮游植物的生长；加之水库静止的物理环境有利于泥沙的沉降，导致水体透明度增加，进而增加水生植物的光合作用强度[24.26]。同时,河流与水库水体 $p \mathrm { C O } _ { 2 }$ 对Chla的不同响应也表明了两者的 $\mathrm { C O } _ { 2 }$ 来源可能存在根本差异。该结果也与Ran等[18]认为外源碳输入是临近流域无定河河流水体$\mathrm { C O } _ { 2 }$ 的主要来源，以及水生光合作用是控制其水库水体 $p \mathrm { C O } _ { 2 }$ 大小的关键因素的结论相一致。
+
+此外，尽管水温是影响碳酸盐体系热力学平衡的重要因素，通常认为其与 $p { \bf C } { \bf O } _ { 2 }$ 呈正相关[27]；但适宜的水温也是影响水生光合作用强度的重要因素。岳荣等2对位于黄土高原中部的南沟水库的研究中发现表层水温是控制浮游植物生物量增长的重要原因，两者呈极显著正相关关系。因此，受正负两个相反过程的共同作用，水体 $p \mathrm { C O } _ { 2 }$ 与水温并无显著相关性。
+
+# 3.3 $p { \bf C O } _ { 2 }$ 与DOC浓度的关系
+
+DOC是河湖系统中碳的重要组成形态。其来源分为内源和外源，内源是指水体浮游植物光合作用、细菌分解作用等产生的有机物；外源指来自土壤有机物降解和人类生产、生活的排废物[29-30]。其中，外源DOC的降解是决定水体高 $p { \bf C } { \bf O } _ { 2 }$ 的重要原因[31]。本研究表明,窟野河水体 $p \mathrm { C O } _ { 2 }$ 在夏季丰水期和秋季与DOC呈极显著正相关(表3)。因为在这两个季节地表径流明显增加，大量陆源DOC输入河道，水体微生物呼吸作用和光化学氧化作用使得DOC矿化生成 $\mathrm { C O } _ { 2 } ^ { [ 3 2 ] }$ 。这与前人对黄河中游的研究一致，即陆源DOC氧化分解是河流水体 $\mathrm { C O } _ { 2 }$ 的一个重要来源[12,17-18]
+
+此外，与河流不同的是，水库水体滞留时间相对较长，其DOC多以内源为主；同时，相对静止的水生环境也有利于水生浮游植物因光合作用而消耗水体 $\mathrm { C O } _ { 2 } ^ { [ 3 3 ] }$ ,从而导致 $p \mathrm { C O } _ { 2 }$ 与DOC呈负相关(表4)。
+
+# 3.4水体动力学对 $k$ 的影响
+
+3.4.1 $k _ { 6 0 0 }$ 与流速的关系窟野河流速为 $0 . 0 3 \sim 1 . 4 \$ $\mathbf { m } \cdot \mathbf { s } ^ { - 1 }$ ,其季节变化规律与 $F { \mathrm { C O } } _ { 2 }$ 基本一致,表明水体流速是影响其 $k _ { 6 0 0 }$ 的重要因素，二者呈极显著正相关(图7)。首先，水体流速较大有助于加大水体表面的破碎度和湍流度，增加水-气接触面积，促进两者气体交换[34];其次，流速的增加也会增强水体搅动能力，导致河床物质更易悬浮于水体中，使沉积物中的有机碳和无机碳参与到水体碳循环中[35],从而增加 $F \mathrm { C O } _ { 2 \odot }$
+
+![](images/a3fe9ba1f86e902dbe615284854ea506d3aef7837039451151ec9b87e6c631aa.jpg)  
+图7水体流速与气体交换速率 $k _ { 6 0 0 }$ 线性拟合关系 Fig.7Linear relationship between $k _ { 6 0 0 }$ and flowvelocity
+
+3.4.2 $k _ { 6 0 0 }$ 与风速的关系风速是影响 $k$ 值大小的另一重要因子，对气体交换起决定性作用[34-37]。吕东珂[7]发现当风速高于 $3 . 5 ~ \mathrm { m \cdot s ^ { - 1 } }$ 时，风速与 $k$ 呈显著正相关；但当风速低于 $3 . 5 \ \mathrm { m \cdot s ^ { - 1 } }$ 时，风速对 $k$ 的作用并不明显。实际上，采样期间绝大部分风速处于$0 . 1 \sim 1 . 0 \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ ,均值仅为 $0 . 7 6 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ ,远低于 $3 . 5 \mathrm { m \cdot s ^ { - 1 } }$ 的临界值[38]。因此无论对于河流还是水库,低风速所产生的紊动皆不足以引起水体表面破碎化从而影响水-气界面交换通量变化，故而风速与 $k _ { 6 0 0 }$ 无统计相关性(图8)。
+
+此外，通量箱布设在一定程度上阻碍了水-气界面的空气流动[39]，这也可能是导致 $k _ { 6 0 0 }$ 与风速无明显关系的潜在因素。
+
+# 3.5不同地区水体 $F \mathbf { C O } _ { 2 }$ 对比及对区域碳收支平衡的影响
+
+对比不同地区及气候带的河流可以发现（表
+
+![](images/a452423db1b25a3bee88179100f66f1f62456625ddf829e9a5ba79db055e3b17.jpg)  
+图8气体交换速率 $k _ { 6 0 0 }$ 与风速的线性拟合关系  
+Fig.8Linear relationship between $k _ { 6 0 0 }$ and wind speed.(a) river (b) reservoir
+
+5)，窟野河的河流 $p { \bf C } { \bf O } _ { 2 }$ 和 $F { \mathrm { C O } } _ { 2 }$ 与我国长江及国外其他地区温带河流相近，但远低于热带及亚热带河流。值得注意的是，窟野河的 $p \mathrm { C O } _ { 2 }$ 与临近的河流无定河相近，但其 $F { \mathrm { C O } } _ { 2 }$ 却明显低于后者。这是因为（1）相对于无定河流域，窟野河的河道比降较小，流速相对缓慢，水-气界面紊动强度较弱。因此，尽管二者的水体 $p \mathrm { C O } _ { 2 }$ 相近，但因窟野河的河流 $k$ 值较低，导致其平均 $F { \mathrm { C O } } _ { 2 }$ 仅为无定河流域的 $56 \%$ [18]；(2)$\mathrm { C O } _ { 2 }$ 在水中的溶解度与水温成反比，水温高的流域，$\mathrm { C O } _ { 2 }$ 更易从水体逸出[13]。窟野河流域位于温带大陆性气候区，其水温明显低于亚热带、热带等地区的河流水温[30.34],因此 $\mathrm { C O } _ { 2 }$ 更易存于水体中；(3）热带及亚热带流域植被茂盛、径流量大，土壤有机质含量高且陆源碳输入强烈[45-46];同时，其水体微生物呼吸作用强烈，大量易分解有机质在河道输移过程中被氧化分解而生成 $\mathrm { C O } _ { 2 }$ ，从而导致较高的 $\mathrm { C O } _ { 2 }$ 释放。
+
+此外,黄河流域内不同区域的河流水体 $p \mathrm { C O } _ { 2 }$ 及
+
+$F { \mathrm { C O } } _ { 2 }$ 空间差异显著(表5)。干流水体因其流速较高导致 $k$ 值较大，其 $F { \mathrm { C O } } _ { 2 }$ 表现出明显的空间变化特征。这表明在以后的研究中需要日益完善基础数据，才能更准确地评估其流域尺度的河流水-气界面 $\mathrm { C O } _ { 2 }$ 交换通量。
+
+最后，本研究发现水库水体的 $F { \mathrm { C O } } _ { 2 }$ 明显低于河流水体的 $F \mathrm { C O } _ { 2 }$ 。局部区域的 $F { \mathrm { C O } } _ { 2 }$ 甚至为负值，表明该水体表现为碳汇。说明在河道上修建水库将显著改变河流系统原有的碳循环过程及规律，水库拦水运行将改变河流水体原有的理化性质特征，进而改变河流系统原有的水-气界面 $\mathrm { C O } _ { 2 }$ 交换速率及方向[46-47]。在评估区域尺度的碳收支平衡时，若只考虑河流水体的 $\mathrm { C O } _ { 2 }$ 交换而不考虑水库水体的 $\mathrm { C O } _ { 2 }$ 交换，将导致总体的水-气界面 $\mathrm { C O } _ { 2 }$ 逸出通量被高估[48]。因此,将来针对区域碳收支平衡的研究,必须综合考虑河流和水库两种水体不同的水-气界面$\mathrm { C O } _ { 2 }$ 交换速率。
+
+表5不同地区河流的水-气界面 $\mathbf { C O } _ { 2 }$ 逸出通量比较  
+Tab.5 Comparison of $\mathbf { C O } _ { 2 }$ outgassing flux between Kuye River and other rivers   
+
+<html><body><table><tr><td>河流</td><td>位置</td><td>气候带</td><td>pCO/( μatm)</td><td>FCO/(mmol·m2·d-1)</td><td>参考文献</td></tr><tr><td>窟野河(黄河支流)</td><td>中国</td><td>温带</td><td>941</td><td>94.5</td><td>本研究</td></tr><tr><td>无定河(黄河支流)</td><td>中国</td><td>温带</td><td>881</td><td>168.6</td><td>[18]</td></tr><tr><td>头道拐(黄河干流)</td><td>中国</td><td>温带</td><td>995</td><td>230.1</td><td>[17]</td></tr><tr><td>黄河(枯水、丰水期)</td><td>中国</td><td>温带</td><td>2810</td><td>854.8</td><td>[15]</td></tr><tr><td>黄河(源区)</td><td>中国</td><td>高原气候带</td><td>771</td><td>135.0</td><td>[41]</td></tr><tr><td>长江</td><td>中国</td><td>温带</td><td>1013</td><td>42.5~93.7</td><td>[40]</td></tr><tr><td>科罗拉多河</td><td>美国</td><td>温带</td><td>250~4000</td><td>35.9</td><td>[42]</td></tr><tr><td>阿尔卑斯山区Ybbs河</td><td>奥地利</td><td>温带</td><td>367~1169</td><td>86.0~290.1</td><td>[43]</td></tr><tr><td>西江</td><td>中国</td><td>亚热带</td><td>2600</td><td>172.6~356.2</td><td>[30]</td></tr><tr><td>亚马逊河</td><td>巴西</td><td>热带</td><td>141~9569</td><td>327.1</td><td>[34]</td></tr><tr><td>刚果河</td><td>刚果</td><td>热带</td><td>1087~22899</td><td>2469.0</td><td>[44]</td></tr></table></body></html>
+
+# 4结论
+
+通过在窟野河流域开展的涉及季节、地貌类型的高频次水体 $p \mathrm { C O } _ { 2 }$ 和水-气界面 $\mathrm { C O } _ { 2 }$ 交换通量实测研究，得出如下结论：
+
+（1）窟野河表层水体 $p \mathrm { C O } _ { 2 }$ 为 $4 3 \sim 2 6 0 4 ~ { \mu \mathrm { a t m } }$ $F \mathrm { C O } _ { 2 }$ 通量为 $4 3 . 0 \sim 1 6 5 . 8 ~ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ 。季节性差异显著，秋季通量最高，夏季次之，且丰水期高于枯水期，春季最低。同时，支流 $F { \mathrm { C O } } _ { 2 }$ 通量高于干流约$5 0 \%$ 。
+
+(2）对于水库而言，水体 $p { \bf C } { \bf O } _ { 2 }$ 为 $2 0 1 \sim 2 0 0 1$ $\mu \mathrm { a t m }$ $F \mathrm { C O } _ { 2 }$ 通量为 $- 8 . 2 \sim 6 0 . 3 ~ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ 。从季节上来看，春季最高，夏季次之，且丰水期高于枯水期，秋季表现为全年最低。不同地貌类型下，上游呼鄂丘陵区低于中下游黄土丘陵区。
+
+（3）碳酸盐体系对流域水体 $p \mathrm { C O } _ { 2 }$ 的影响最大，DOC分解作用次之。另外,Chla对水体 $p { \bf C } { \bf O } _ { 2 }$ 也具有一定的影响，但非主控因素。同时，流速是控制窟野河水-气界面气体交换速率的关键因素，而风速的影响并不明显。
+
+(4）通过与其他地区的河流水体 $\mathrm { C O } _ { 2 }$ 释放量对比，可以发现窟野河的 $\mathrm { C O } _ { 2 }$ 平均排放量与国内长江及国外其他地区温带河流相近，低于黄河中游的其他河流，并远低于热带河流。同时，针对区域碳收支平衡的估算必须同时考虑河流和水库水体不同的水-气界面 $F { \mathrm { C O } } _ { 2 }$ ○
+
+# 参考文献(References):
+
+[1] StrieglRG,DornblaserMM,McdonaldCP,etal.Carbondioxide and methane emissions from the Yukon River system[J].Global Biogeochemical Cycles,2012,26(4): GB0E05.   
+[2] Cole JJ,Prairie YT,Caraco NF,et al. Plumbing the global carbon cycle: Integrating inland waters into the terrestrial carbon budget[J].Ecosystems,2007,10(1): 171-184.   
+[3] Abril G,Martinez JM,ArtigasLF,et al.Amazon River carbon dioxide outgassing fuelled by wetlands[J]. Nature,2O14, 505(7483): 395-398.   
+[4] Battin TJ,Luyssaert S,Kaplan L A,etal. The boundless carbon cycle[J].Nature Geoscience,2009,2(9): 598-600.   
+[5] Butman D,Stackpoole S,Stets E,etal.Aquatic carbon cycling in the conterminous United States and implications for terrestrial carbon accounting[J].Proceedings of the National Academy of Sciences,2016,113(1): 58-63.   
+[6] Raymond P A,Hartmann J,Lauerwald R,et al. Global carbon dioxide emissions from inland waters[J]. Nature,2013,503(7476): 355-359.   
+[7]Davidson E A,Figueiredo R O,Markewitz D,et al. Dissolved $\mathrm { C O } _ { 2 }$ in small catchment streams of eastern Amazonia: A minor pathway of terrestrial carbon loss[J]. Journal of Geophysical Research: Biogeosciences,2010,115(G4): 47-479.   
+[8] 宋鲁萍.黄河三角州滨海盐碱地 $\mathrm { C O } _ { 2 } , \mathrm { N } _ { 2 } \mathrm { O }$ 通量特征及影响因素 研究[D].烟台:中国科学院烟台海岸带研究所,2014. Song Luping. Research on $\mathrm { C O } _ { 2 } , \mathrm { N } _ { 2 } \mathrm { O }$ Flux Characteristics and Influencing Factors of Coastal Saline-Alkali Land in Three California Yellow River[D]. Yantai: Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences, 2014.]   
+[9]杨欢.黄河中游 $p \mathrm { C O } _ { 2 }$ 的时空变化特征研究[D].呼和浩特：内蒙 古大学,2O15.[Yang Huan. Study on the Characteristics of Spatiotemporal Variation of $p { \bf C } { \bf O } _ { 2 }$ in the Middle Reaches of the Yellow River[D]. Huhhot: Inner Mongolia University,2015.]   
+[10] 慕星,张晓明.皇甫川流域水沙变化及驱动因素分析[J].干旱区 研究,2013,30(5): 933-939.[Mu Xing,Zhang Xiaoming.The variation of runof volume and sediment load and its driving factors in Huangfuchuan River Watershed[J]. Arid Zone Research, 2013, 30 (5): 933-939.]   
+[11] 袁水龙,谢天明.窟野河暴雨洪水泥沙特征分析[J].陕西水利, 2018(1): 40-43.[Yuan Shuilong, Xie Tianming. Analysis of the characteristics of the storm flood cement sand in Kuye River[J]. Shaanxi Water Resources,2018(1): 40-43.]   
+[12] Raymond P A,Zappa C J, Butman D,et al. Scaling the gas transfer velocity and hydraulic geometry in streams and small riversr[J]. Limnology and Oceanography: Fluids and Environments,2012, 2 (1): 41-53.   
+[13] Ran L,Lu X X, Yang H, et al. $\mathrm { C O } _ { 2 }$ outgassing from the Yellow River network and its implications for riverine carbon cycle[J]. Journal of Geophysical Research: Biogeosciences,2015,120(7): 1334- 1347.   
+[14]吴飞红.典型岩溶溪流水-气界面CO交换系数(k)及其影响因 素研究[D].重庆:西南大学,2018.[Wu Feihong.The Gas Exchange Coefficient (k) of $\mathrm { C O } _ { 2 }$ and its Influencing Factors Across Water-Air Interface ina Typical Karst Groundwater-Fed Stream [D]. Chongqing: Southwest University,2018.]   
+[15]Wanninkhof R. Relationship between wind speed and gas exchange over the ocean[J]. Journal of Geophysical Research,1992, 97(5): 7373-7382.   
+[16] 王宝森.考虑耗水量估算黄河流域化学风化大气 $\mathrm { C O } _ { 2 }$ 消耗量 [D].青岛:中国海洋大学,2011.[Wang Baosen.Estimating CO2 Consumption of Chemical Weathering Atmosphere in the Yellow River Basin Considering Water Consumption[D]. Qingdao: Ocean University,2011.]   
+[17] 李凌宇,于瑞宏,田明扬,等.黄河 $F \mathrm { C O } _ { 2 }$ 时空变化及其影响因素 -以头道拐水文站为例[J].生态学报,2017,37(22):7636- 7646.[Li Lingyu, Yu Ruihong, Tian Mingyang,et al. Spatial-temporal variations and influencing factors of carbon dioxide evasion from the Yellow River: An example of the Toudaoguai Gauging Station[J].Acta Ecologica Sinica,2017,37(22): 7636-7646.]   
+[18]Ran L,Li L,Tian M,et al.Riverine CO2,emissions in the Wuding River catchment on the Loess Plateau: Environmental controls and dam impoundment impact[J]. Journal of Geophysical Research: Biogeosciences,2017,122(6): 1439-1455.   
+[19]Reiman J, Xu Y. Diel variability of $p { \bf { C } } { \bf { U } } _ { 2 }$ and CO2 outgassing from the lower Mississippi River: Implications for riverine CO $2$ outgassing estimation[J]. Water,2018,11(13): 2-15.   
+[20]Else BG T,Galley RG,Lansard B,et al.Further observations of a decreasing atmospheric $\mathrm { C O } _ { 2 }$ uptake capacity in the Canada Basin (Arctic Ocean) due to sea ice loss[J]. Geophysical Research Letters, 2013,40(6): 1132-1137.   
+[21] 王建,丁永建,许民,等.天山科其喀尔冰川区复杂下垫面 $\mathrm { C O } _ { 2 }$ 通量贡献区分析[J].干旱区研究,2018,35(6):1512-1520. [Wang Jian, Ding Yongjian,Xu Min,et al. $\mathrm { C O } _ { 2 }$ carbon flux over moraine area of the Koxkar Glacier in the Tianshan Mountains[J]. Arid Zone Research,2018,35(6): 1512-1520.]   
+[22]Duvert C, Bossa M,Tyler K J, et al. Groundwater-derived DIC and carbonate buffering enhance fluvial CO $^ { 1 2 }$ evasion in two Australian tropical rivers[J].Global Biogeochemical Cycles，2019,124(2): 312-327.   
+[23]Stets E G, Butman D, Mcdonald C P,et al. Carbonate buffering and metabolic controls on carbon dioxide in rivers[J]. Global Biogeochemical Cycles,2017,31(4): 663-677.   
+[24] 宫辰,杨现坤,田明扬,等.黄河源区水库二氧化碳逸出暖季变 化规律及影响因素分析——以刘家峡水库为例[J].环境科学 学报,2018,38(7):2919-2930.[Gong Chen,Yang Xiankun,Tian Mingyang,et al.Variations of $\mathrm { C O } _ { 2 }$ evasion from reservoirs and its influencing factors in warm season in the headwater region of the YellowRiver:A case study of the Liujiaxia Reservoir[J].Acta Scientiae Circumstantiae,2018,38(7): 2919-2930.]   
+[25]Krasakopoulou E,Rapsomanikis S, Papadopoulos A,et al.Partial pressure and air-sea COz flux in the Aegean Sea during February [JJ. Continental Shelf Research,2009,29(11-12): 1477-1488.   
+[26]Zhang L J, Wang L, CaiW J,etal. Impact of human activities on organic carbon transport in the Yellow River[J].Biogeosciences, 2013, 10(4): 2513-2524.   
+[27]Takahashi T, Olafsson J, Goddard JG,et al. Seasonal variation of CO2and nutrients inthe high-latitude surface oceans:A comparative study[J]. Global Biogeochemical Cycles,1993,7(4): 843-878.   
+[28] 岳荣,史红岩,冉立山,等.融冰期与非融冰期水库 $\mathrm { C O } _ { 2 }$ 逸出昼 夜变化及 $\mathrm { C O } _ { 2 }$ 分压影响因素研究[J].环境科学学报,2020,40 (2): 320-328.[Yue Rong,Shi Hongyan,Ran Lishan,et al. Study on diurnal variation of CO $^ { 1 2 }$ flux from reservoir and the influencing factors of partial pressure of COz in melting and non-melting seasons[J].Acta Scientiae Circumstantiae,2020,40(2): 320-38.]   
+[29]Nebbioso A,Piccolo A. Molecular characterization of dissolved organic mater (DOM): A critical review[J]. Analytical and Bioanalytical Chemistry,2013,405(1): 109-124.   
+[30]Yao G,Gao Q,Wang Z,et al.Dynamics of CO $^ 2$ partial pressure and Co $^ { 1 2 }$ outgassing in the lower reaches of the Xijiang River,a subtropical monsoon river in China[J]. Science of the Total Environment,2007,376(1-3): 255-266.   
+[31]Halbedel S, Koschorreck M. Regulation of CO $^ { 1 } 2$ emissions from temperate streams and reservoirs[J]. Biogeosciences,2013,10(11): 7539-7551.   
+[32] Tamooh F, Meysman FJR, Borges A V,et al. Sediment and carbon fluxes along a longitudinal gradient in the lower Tana River (Kenya)[J].Journal of Geophysical Research: Biogeosciences, 2014,119(7): 1340-1353.   
+[33] Chun L Y, Qiang L C, Lu W S,et al. Seasonal variability of $p { \bf { C } } { \bf { O } } _ { 2 }$ （204号 in the two karst reservoirs,Hongfeng and Baihua Lakes in Guizhou Province, China[J]. Environmental Science,2007,28(12): 2674-2681.   
+[34] Alin Simone R,Rasera Maria de Fätima FL, Salimon Cleber I, et al. physical controls on carbon dioxide transfer velocityand flux in low-gradient river systems and implications for regional carbon budgets[J].Journal of Geophysical Research: Biogeosciences,2011, 116(1): 241-259.   
+[35] 陈银波.喀斯特小流域水-气界面二氧化碳释放及其影响因素 研究[D].贵阳:贵州大学,2019.[Chen Yinbo.Carbon Dioxide Release from Water-air Interface in Karst Watershed and its Influencing Factors:A Case Study of Aha Lake into the Lake[D]. Guiyang: Guizhou University,2019.]   
+[36]王钰祺,吕东珂.泥河水库秋季水-气界面 $\mathrm { C O } _ { 2 }$ 通量日变化特征 及影响因子分析[J].森林工程,2011,27(2):19-22.[Wang Yuqi, Lyu Dongke.Analysis on influencing factors and diurnal variation of CO2 fluxes across water-air interface of Nihe reservoir in autumn [J].Forest Engineering,2011,27(2): 19-22.]   
+[37]吕东珂.哈尔滨周边泥炭型水库水-气界面 $\mathrm { C O } _ { 2 }$ 通量研究[D].哈 尔滨：东北林业大学,2013.[Lyu Dongke.Study on COFlux at the Water-air Interfaceof Peatland ReservoirsAround Harbin[D]. Harbin: NortheastForestryUniversity,2013.]   
+[38]Wanninkhof R,Trinanes J. The impact of changing wind speeds on gas transfer and its effect on global air-sea CC $^ { \prime _ { 2 } }$ fluxes[J]. Global Biogeochemical Cycles,2017,31(6): 961-974.   
+[39] Crusius J, Wanninkhof R.Gas transfer velocities measured at low wind speed over a lake[J].Limnology and Oceanography,2003,48 (3): 1010-1017.   
+[40] Zhai W, Dai M, Guo X,et al. Carbonate system and CO2 degassing fluxes in the inner estuary of Changjiang (Yangtze) River, China [J].Marine Chemistry,2007,107(3): 342-356.   
+[41] Tian M, Yang X,Ran L, et al. Impact of land cover types on riverine CO outgassing in the Yellow River source region[J]. Water, 2019,11(11): 18.   
+[42]Crawford JT,Dornblaser M M, Stanley E H,et al. Source limitation of carbon gas emissions in high-elevation mountain streams and lakes[J]. Journal of Geophysical Research: Biogeosciences, 2015,120(5): 952-964.   
+[43] Schelker J, Singer G A, Ulseth A J,et al. $\mathrm { C O } _ { 2 }$ evasion from a steep, high gradient stream network: Importance of seasonal and diurnal variation in aquatic $p \mathrm { C O } _ { 2 }$ and gas transfer[J].Limnology and Oceanography,2016,61(5): 1826-1838.   
+[44]Borges A V,Darchambeau F,Lambert T,et al.Variations of dissolved greenhouse gases ( $\mathrm { C O } _ { 2 }$ ,CH4,NO) in the Congo River network overwhelmingly driven by fluvial-wetland connectivity[J]. Biogeoences Discussions,2019,16(19): 3801-3834.   
+[45] 梁顺田,王雨春,胡明明,等.夏季朱衣河二氧化碳分压分布特 征及影响因素分析[J].中国水利水电科学研究院学报,2017, 15(2):153-160.[Liang Shuntian,Wang Yuchun,Hu Mingming,et al.Distributions of partial pressure of carbon dioxide and its affecting factors in the Zhuyi River in summer[J]. Journal of China Institute of Water Resources and Hydropower Research,2O17,15(2): 153-160.]   
+[46]Aufdenkampe A K,Mayorga E,Raymond PA,et al. Riverine coupling of biogeochemical cycles between land,oceans,and atmosphere[J].Frontiers in Ecology and the Environment,2O11,9(1): 53-60.   
+[47]Elizabeth León-Palmero,Rafael Morales-Baquero,Isabel Reche. Greenhouse gas fluxes from reservoirs determined by watershed lithology,morphometry,and anthropogenic pressure[J].Environmental Research Letters,2020,15(4): 1-12.   
+[48]Drake TW,RaymondPA,SpencerRG M.Terrestrial carbon inputs to inland waters:A current synthesis of estimates and uncertainty[J].Limnology and Oceanography Letters,2018,3(3): 132-142.
+
+# Variations of $\mathbf { C O } _ { 2 }$ exchange in the Kuye River basin and its influencing factors
+
+SHI Hongyan12, RAN Lishan”，YUERong²，YU Ruihong12,， ZHAO Yanxia'²， LYU Xixi6   
+(1.SchoolofEcologyandEnvironment,Inner Mongolia University,HohhotOOo21,Inner Mongolia,China;2.Inner   
+Mongolia KeyLaboratoryof River and Lake Ecology,Hohhot OlOO21,Inner Mongolia,China; 3.Department of   
+Geography,The Universityof Hong Kong,Hong Kong 99077,China; 4.The Universityof Hong Kong Shenzhen   
+InstituteofResearchand Innovation,Shenzhen 518O57,China;5.StateKeyLaboratoryofSoilErosionandDryland   
+Farming onLoessPlateau,Institute ofSoiland Water Conservation,NorthwestA&F University,Yangling 712100, Shaanxi, China; 6. Department of Geography, National University of Singapore, Singapore 117570)
+
+Abstract: This study aimed to examine the riverine $\mathrm { C O } _ { 2 }$ emissions on the Loess Plateau. The river water $\mathrm { C O } _ { 2 }$ partial pressure $( p \mathsf { C O } _ { 2 } )$ and $\mathrm { C O } _ { 2 }$ outgassing across the water-air interface $\left( F C O _ { 2 } \right)$ in the Kuye River basin, situated in the northern Loess Plateau,was holisticaly investigated in July and October 2018and March and June 2019 using a LI- $7 0 0 0 ~ \mathrm { C O } _ { 2 }$ analyzer. Both $p { \mathrm { C O } _ { 2 } }$ and $F C O _ { 2 }$ were higher in rivers ( $9 9 6 ~ \mu \mathrm { a t m }$ and $9 4 . 5 \ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ ， respectively） than in reservoirs ( $7 5 2 \mu \mathrm { a t m }$ and $1 0 . 3 \ \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ ,respectively). Meanwhile, the $F \mathrm { C O } _ { 2 }$ exhibited pronounced seasonal variations.For the river waters,the highest $F C O _ { 2 }$ of $1 6 5 . 7 \ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ occurred in autumn, and the lowest $F C O _ { 2 }$ of 42.9 mmol $\cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { d } ^ { - 1 }$ occurred in spring. For the reservoir waters, the opposite was observed with the highest $F \mathrm { C O } _ { 2 }$ of $1 6 . 6 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ occurring in spring and the lowest $F C O _ { 2 }$ of $- 5 . 4 \ \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } }$ occurring in autumn. Spatially, the $F C O _ { 2 }$ in the tributary rivers ( $\cdot 1 0 7 . 4 \ \mathrm { m m o l } \cdot \mathrm { m } ^ { \textrm { - 2 } } \cdot \mathrm { d } ^ { \textrm { - 1 } } )$ ）with a stronger biogeochemical activity was significantly higher than that in the Kuye mainstream $( 6 6 . 5 \mathrm { m m o l \cdot m ^ { - 2 } \cdot d ^ { - 1 } } )$ by $50 \%$ While for reservoirs, the $F \mathrm { C O } _ { 2 }$ of the reservoir waters $( 1 . 2 \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ in the upper sandy hilly area was lower than that in the middle and lower loess hilly area ( $\cdot 1 6 . 4 \ \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ . In summary, the $p { \mathrm { C O } } _ { 2 }$ was mostly affected bythe carbonate system,followed by dissolved organic carbon.Additionally,flow velocity had a substantial impact on the gas transfer velocity $( k )$ ，whereas there was no significant correlation between $k$ and wind speed. On an annual scale, both rivers and reservoirs were strong carbon sources for the atmosphere,and their average effluxes were close to that of the Yangtze River while substantially lower than that of theother tributaries in the middle Yellow River Basin.
+
+Keywords: carbon dioxide outgassing; partial pressure of carbon dioxide; spatio-temporal variation;reservoir; Kuye River

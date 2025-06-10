@@ -1,0 +1,218 @@
+# DOI: 10.5846/stxb201510232145
+
+王亮,张秀梅，丁鹏伟,刘甜雨,陈四清.金乌贼繁殖行为与交配策略.生态学报,2017,37(6):1871-1880.   
+WangL,ZhagXinguctiedraeiletctaoca 1871-1880.
+
+# 金乌贼繁殖行为与交配策略
+
+王亮¹，张秀梅1,2,\*，丁鹏伟¹，刘甜雨'，陈四清
+
+1中国海洋大学水产学院，青岛266003  
+2 青岛海洋科学与技术国家实验室,海洋渔业科学与食物产出过程功能实验室，青岛266072  
+3中国水产科学研究院黄海水产研究所，青岛266071
+
+摘要：2014年6月于室内大型水槽使用摄像系统对金乌贼繁殖过程进行连续观察与记录,通过定性和定量比较分析,解析其繁殖过程中游泳、捕食、求偶、争斗、交配及产卵等行为特征。结果显示:金乌贼游泳主要依靠漏斗喷水的反作用力,持续游泳能力较弱;繁殖期的金乌贼继续摄食，能发现周围 $2 0 { - } 3 8 ~ \mathrm { c m }$ 范围内的凡纳滨对虾，攻击距离为7一 $2 4 ~ \mathrm { c m }$ ,能在2.1一6.1s内完成对对虾的捕获且成功率极高,外源营养为卵(精)巢不同步发育、分批产卵和复杂的繁殖行为继续提供能量支持;金乌贼具明显的求偶行为,规格差异是影响求偶的重要因素,其中雄性亲本更倾向选择与自身规格相当或略小的雌性,而雌性亲本则更倾向于选择大规格(较大规格争斗易获胜)的雄性;金乌贼一次交配持续125—398s,雄性有明显的精子移除行为和领域性,交配后雄性伴游在雌性周围3- $2 4 ~ \mathrm { c m }$ 范围内,不允许其他乌贼靠近,平均伴游 $6 1 ~ \mathrm { m i n }$ 后会再次交配。精子移除、伴游以及多次交配是雄性金乌贼有效提高父权贡献率的关键行为基础;研究结果表明,金乌贼采取“多夫多妻”的混交婚配策略,两性亲本均存在多次交配现象，这能有效提高雌雄的生殖成功率和受精卵的遗传多样性。
+
+关键词：金乌贼;游泳;捕食;求偶;交配;性选择;混交制;精子竞争
+
+# Reproductive behavior and mating strategy of Sepia esculenta
+
+WANG Liang¹， ZHANG Xiumei1,2,\*，DING Pengwei'，LIU Tianyu1，CHEN Siqing
+
+1 College ofFisheries，Ocean University ofChina，Qingdao 266OO3,China   
+2FunctionLboratoforrineseeSiecdFodPrductioProcesesingdatialLbatorfarineiecedl Qingdao 266072，China   
+3Yellw SeaFisheries Research Institute,Chinese Academy ofFisheries Science，Qingdao 266O71,China
+
+Abstract：Sepia esculenta Hoyleiswidelydistributedin Chinesecoastal waters，andthe tasteandthehighly valueof nutrients make it one of the most important economical species in China. This organism can grow up to $2 0 0 ~ \mathrm { { m m } }$ in mantle length during its short lifespan of1 yearorless.Mature S.esculenta individuals migrate to inshore areas to mateand spawn during the breeding period，which is from Juneto Julyin Xuejiadao，Qingdao in China.Thereproductivebehaviorand mating strategy，which include mate selection and sperm competition，determine the quality（e.g.dorsal mantle lengthor bodyweightof newlyhatched larvae）and quantityofofspring，and playanimportantrolein generating geneticdiversity. Here，sexually mature S.esculenta were captured usinga basket trapoff thecoast of Xuejadao，Qingdao，China，between May and June of 2O14.The reproductive behaviors of $S$ ，esculenta，including swimming，predation，courtship，battle, mating，and egg-laying were analyzed using both qualitativeand quantitativecomparisonsafterobservation inan indor pool with an image pickup system. The results revealed that the swimming power of $S$ ，esculenta was mainly linked to the funnel and could not be sustained for long periods of time.S.esculenta continued to feedon Litopenaeus vannamei( $( 1 0 . 4 \pm 0 . 6 )$ cm in total length） within a distance ranging from 20 to $3 8 ~ \mathrm { c m }$ and could rapidly catch prey（in 2.1—6.1 s），ilustrating that itutilized theenergy from feeding forthe non-synchronousovarian（testicular）development，batch spawning，and complex reproductive behaviors.Before mating，S.esculentademonstrated obvious courtship behavior.The males tended to choose females of similaror slightly smaler sizes，whereas the females tended to chose larger males.The males competed forfemales andthe winner hadanopportunityto mate with female.The male wouldbeginbylightly touchingthecheek of thefemale,andalso maintainedahead-to-head positionduring the mating.Beforeejaculation,themales movedarmIl to remove the sperm masses attached to theresidual buccal membranes from previous matings.After sperm removal,the male heldspermatophores ejected through itsfunnel withthebaseof hectocotylizedleftarmIVandthen presedthecoiledarmon the ventral portionof the female'sbuccal membrane.A successul mating lastedarelativelylongtime（125—398 s），but the mating process could easilybe interupted by interferencefrom other individuals nearby，especiallyother males.The male continued to guard the spawning female（staying 3—24cm fromthe female），and repeated matings ocurred at an average interval of 61 min during the mate guarding process.Fertilized female $S$ . esculenta individuals began to lay eggs approximately $4 . 5 ~ \mathrm { { \ m i n } }$ after mating. The eggs were relatively large（long axis diameter：16.4—20.O mm；short axis diameter:10.5—12.6mm).Although males involved in guarding females delayed their search forother mates，they may have reduced the probabilitythat the female would remate with other males.Sperm removal，guarding，and repeated mating could effectively improve the male success rate. The mating strategy of $S$ . esculenta was promiscuity，and repeated instance of mating，inboth males andfemales，could efectivelyimprovethereproductive successrateand level of genetic diversity.
+
+Key Words:Sepia esculenta；swimming；predation；courtship；mating；sex selection；promiscuity；sperm competition
+
+头足类具有生长速度快、生命周期短、世代更新快等特点,因此繁殖期是其生命周期的重要阶段[1-2]。择偶、交配等繁殖行为与策略不仅决定了头足类后代的数量和质量,对其遗传多样性水平亦有重要意义。目前，国内外学者相继报道了曼氏无针乌贼（Sepiella maindroni）、澳大利亚拟乌贼（Sepioteuthis australis）、欧洲横纹乌贼（Sepia offcianlis）、拟目乌贼（Sepia lycidas）虎斑乌贼（Sepia pharaonis）真蛸（Octopus vulgaris）、嘉庚蛸（Octopus tankahke)等的繁殖习性[3-9]。这些头足类在繁殖期均具有明显的求偶、争斗、交配和产卵等行为，而在游泳能力、摄食、领域范围、精子移除、交配间隔等方面存在种间差异。
+
+金乌贼（Sepia esculenta）属软体动物门（Mollusca）、头足纲（Cephalopoda）、乌贼目（Sepioidea）、乌贼科(Sepidae）、乌贼属(Sepia）,主要分布于我国黄渤海、东海、南海,日本北海道以南,朝鲜西南海域及菲律宾群岛海域[10]。一些研究已经报道了金乌贼的生殖洄游[11]、亲体驯化[12]及适宜产卵附着基开发[13-15]等内容,但有关金乌贼繁殖行为的报道多为求偶、争斗和交配时身体特征的定性描述[13,15-17],对于其繁殖过程中的领域性、择偶倾向、婚配制度和精子竞争等交配策略尚未见系统报道。
+
+本文以金乌贼为研究对象，2014年6月—7月于室内大型水槽使用摄像系统对其繁殖过程进行连续观察与记录,通过定性和定量比较分析,解析其繁殖过程中游泳、捕食、求偶、争斗、交配及产卵等行为特征，探讨金乌贼繁殖期间的能量利用、择偶和精子竞争等交配策略,以期丰富金乌贼繁殖行为学研究内容,并为其增殖放流和资源保护等提供科学依据。
+
+# 1材料与方法
+
+# 1.1实验材料
+
+2014年6月于青岛薛家岛周边海域 $( 3 5 ^ { \circ } 5 9 ^ { \prime } \mathrm { N } , 1 2 0 ^ { \circ } 1 9 ^ { \prime } \mathrm { E } )$ 使用地笼网捕获金乌贼亲本,将其暂养于青岛金沙滩水产有限公司的长方形水池( $\lvert 5 . 5 \ \mathrm { m } \times 2 \ \mathrm { m } \times 1 \ \mathrm { m }$ )中适应 $^ { 4 8 \mathrm { ~ h ~ } }$ 。
+
+http ://www.ecologica.cn
+
+# 1.2实验过程与条件
+
+实验时,从暂养水池中随机挑选8只状态良好(色泽鲜亮、活力强、胴背部伤痕较少且不明显)的亲本移至实验水槽( $( 2 . 2 ~ \mathrm { m } { \times } 1 . 2 ~ \mathrm { m } { \times } 0 . 7 ~ \mathrm { m } )$ ,雌雄各半，雄性体质量( $\mathbf { ( 4 2 0 \pm 9 8 ) } \mathbf { g }$ ，胴长 $( 1 4 . 1 \pm 1 . 5 ) \mathrm { c m }$ ;雌性体质量( $4 0 0 \pm$ $7 2 ) \mathbf { g }$ ，胴长( $( 1 3 . 5 { \pm } 1 . 6 ) \mathrm { c m } .$ 。
+
+每日8:00—12:00,使用HDR-AS100VR 便携式摄像机（日本索尼公司)和ROV3.0水下摄像系统（法国Subsea Tech公司)连续观察和记录金乌贼的繁殖行为,持续记录 $1 0 \mathrm { ~ d ~ }$ 。利用便携式摄像机的放大功能，,采用“随机取样法”[18]重点记录金乌贼繁殖过程中的游泳、捕食、求偶、争斗、交配及产卵等行为,录制视频为 30frames/s;同时利用水下摄像系统,采用“聚焦个体采样法”[18]进行连续录像备用,录制视频为20 frames/s。每天18:00 收集统计产卵量,并随机选取5枚受精卵,利用游标卡尺测量其长径和短径,精确到 $0 . 0 1 \ \mathrm { c m }$ 。
+
+实验期间，水槽底部放置两个白色海参附苗筐( $4 3 ~ \mathrm { c m } { \times } 3 8 ~ \mathrm { c m } { \times } 3 0 ~ \mathrm { c m }$ 作为产卵附着基；水槽内海水循环流动,日换水量 $100 \%$ ,光周期和自然光一致,海水盐度31一32,温度 $2 0 { - } 2 3 ^ { \circ } \mathrm { C }$ ， $\mathrm { \ p H }$ 值 $7 . 7 { - } 7 . 8 , 2 4 \mathrm { ~ h ~ }$ 连续充氧;每日9:00 投喂鲜活凡纳滨对虾（Litopenaeus vannamei)（全长( $1 0 . 4 { \pm } 0 . 6 \$ ） $\mathrm { c m } , n = 1 0 \AA ,$ 。
+
+# 1.3 数据处理与分析
+
+连续录像资料使用UleadVideo Studio15软件进行编辑。首先剪辑8个样本 $( 4 9 4 \delta )$ 典型的捕食、求偶、争斗、交配及产卵行为片段，每个样本随机截取5个时长为 $1 0 ~ \mathrm { m i n }$ 的片段,然后逐帧进行分析。截取各典型行为图,手绘简图并利用Photoshop CS6进行处理和说明;以已知的金乌贼胴背长为标尺,对逐帧图像上金乌贼的各种行为反应距离进行测量,并根据视频嵌入时间计算捕食速度、伴游时间、交配时间等。
+
+使用 SPSS 18.0等软件处理数据,对不同个体获取的距离、长度和时间数据求取平均值和标准差。
+
+# 2实验结果
+
+# 2.1 游泳行为
+
+繁殖期间,金乌贼亲体的游泳行为主要包括前进和后退两种类型。其漏斗能随意转动（图11),前进时，漏斗向后喷水，鳍快速摆动以辅助游泳，4对腕(触腕除外)紧紧靠拢伸直。后退分为游泳后退和急速后退，游泳后退是较为常见的运动方式,但当其受到惊吓或快速逃避时则主要出现急速后退,并常伴随喷墨现象。游泳后退时,漏斗向前喷水,鳍轻微摆动以维持平衡,4对腕(触腕除外)靠拢,末端自然松开;急速后退时,漏斗
+
+![](images/8825f91b8961840d3710f53846f3aa9f511b8d736d0983f1400ef67a249bad27.jpg)  
+图1金乌贼的游泳行为  
+Fig.1The swimming behavior of S.esculenta
+
+http ://www.ecologica.cn
+
+突然向前喷水（墨),速度瞬间达到最快,鳍无需摆动,后退方向不能改变,距离可达0.3一 $1 . 0 \ \mathrm { m } ( ( 0 . 6 { \pm } 0 . 1 6 )$ $\mathrm { ~ m ~ } , n = 4 0 \dot { ~ }$ )。右转向游动时,头和腕先向右转动,随后漏斗向左后方喷水,右侧鳍摆动幅度和频率降低,左侧鳍摆动幅度和频率升高;左转向游动时则相反。金乌贼持续游泳能力较弱,持续游泳 $3 4 - 2 4 0 \mathrm { ~ s ~ } ( \mathrm { ~ ( ~ } 1 2 7 \pm 6 0 ) \mathrm { ~ s ~ } , n$ $= 4 0$ )后一般出现5—150 s( $( 4 9 \pm 3 3 )$ s, $n = 4 0$ )的间歇期,此时金乌贼的鳍小幅度、低频率摆动,漏斗轻微喷水,4对腕自然伸展,基本处于静止状态（图1）。
+
+# 2.2捕食行为
+
+金乌贼繁殖期间继续进食。视频分析结果表明,它能够发现在其周围 $2 0 { \ - } - 3 8 \ \mathrm { c m } ( ( 2 9 \pm 5 ) \ \mathrm { c m } , n = 4 0 ) ,$ 范围内活动的凡纳滨对虾。捕食行为可分为4个过程(图2)：（1)发现(Attention）,第一对触手高高耸起并不停摆动;（2)定位（Positioning）,体色由深变浅,并慢慢接近对虾;（3)攻击（Attacking）,距对虾约 $7 - 2 4 ~ \mathrm { c m } ( ~ ( 1 6 \pm$ 4）cm, $n = 4 0$ )时触腕迅速弹射将其卷住收回;(4)捕获(Seizure）,其余4对腕将对虾紧紧固定,触腕收回触腕囊,此时身体花纹呈现斑块状。金乌贼捕食过程非常迅速,从发现、定位到捕捉仅需2.1—6.1 s( $( 4 . 0 { \pm } 1 . 2 ) \$ s,$n = 4 0$ )。成功捕获对虾后,金乌贼通常游至实验水槽角落区域咀嚼吞食,吞食1尾对虾一般耗时超过 $1 ~ \mathrm { m i n }$ 。进食结束后常休息一段时间。繁殖后期金乌贼的摄食率明显降低,甚至不再进食。
+
+![](images/28e3dd6ed15e39474b51a0dfa8a7004900b0b44e4dab9b75589d82aaddf4fa9e.jpg)  
+图2金乌贼捕食行为  
+Fig.2The predation behavior of S.esculenta
+
+# 2.3 求偶行为
+
+繁殖期,雄性金乌贼行为活跃,胴背部呈现较粗横条纹,密布细小斑点,体色鲜艳,类似“婚姻色”;雌性则较少游泳,常在池底休息,胴背部呈现较大斑点,横纹斑不明显,仅在两侧隐约可见。雄乌贼主动追逐求偶,雌性则相对被动地接受、躲避或拒绝配对。
+
+# 2.3.1 追逐和配对行为
+
+雄性金乌贼选定雌性时,体色变得鲜亮,通常在距雌性 $1 1 - 5 4 \ \mathrm { c m } \left( \left( 3 0 \pm 1 0 \right) \ \mathrm { c m } , n = 2 0 \right)$ 范围内追逐。若雌性无意配对，则不断躲避,甚至喷墨,雄性连续追逐21一74 s（ $( 5 2 \pm 1 4 )$ s, $n = 2 0$ )后稍作休息，然后继续追逐或改变追逐对象;若雌性有意配对，便共同游泳一段距离（图3），伺机交配。
+
+# 2.3.2 领域行为
+
+雄性金乌贼为争夺配偶,常发生同性间的争斗。配对成功的雄乌贼伴游于雌性周围 3 $ { \mathrm { 3 } }  { \mathrm { - } } 2 4 \ \mathrm { c m } \left(  { \mathrm { ( } } 1 3 \pm 6 \right)$ cm, $n = 2 0$ )处,有其他雄性出现在雌性周边 $2 7 - 8 6 \ \mathrm { c m } ( \ ( 5 5 \pm 1 7 ) \ \mathrm { c m } , n = 2 0 )$ 范围内,护游雄性体色变得异常鲜艳以示警告,若入侵雄性无意闯入或体型较小,则体色变暗,主动游走;若入侵雄性继续靠近,护游雄性会将第一对腕翘起,其余3对腕（触腕除外)尽力张开,身体倾斜以保护雌性（图4）,有时甚至喷墨进行威吓,此时入侵乌贼体色变得异常鲜艳,腕张开,与护游乌贼对峙,若对峙未能奏效,两雄乌贼则用腕鞭笞对方的胴体,有时甚至跃出水面发生身体碰撞。护游雄性获胜后则继续守护该雌性,如失败则离开，入侵乌贼或可直接与该雌性配对 $( 9 4 . 4 \% , n = 1 8 )$ ),或需追逐求偶后才能确定是否配对 $( 5 . 6 \% , n = 1 8 )$ 。
+
+![](images/06c6ccd9e6fa20c14ad20df4b00b57e04e70d1ce45c1ad1fdc8d5ca44a088d32.jpg)  
+Fig.3Chase and matching behavior
+
+当两雄性规格差异较大时，争斗时间较短;差异不大时,争斗则变得异常激烈,持续时间能达40s左右，通常体型较大雄性的获胜机会更大。
+
+# 2.4 交配行为
+
+金乌贼交配过程复杂，可分为3个阶段(图5)：(1)试探，雄乌贼利用腕轻碰雌性头部，若雌性无意交配则不断闪躲迅速逃离，若有意交配则静止不动;（2)调整，雄乌贼张开腕，包住雌性半侧头部，待雌性将腕张开，雄性立即移动包住雌性头部,二者成一条直线状;(3)交配,采取头对头的交配方式。交配过程分为：a,精子移除,雄性利用第三对腕刮去雌性纳精囊处已粘附的精荚;b,传递精荚,胴部连续两次用力压缩,雄性茎化腕(左侧第4腕)接住由漏斗喷出的精荚;c,放置精荚,雄性茎化腕迅速将精荚粘在雌性纳精囊处。
+
+![](images/87841ddd3f3e3219d0b1c5f38be13c11d912ced93828f6ea947057c199e7476e.jpg)  
+图3追逐和配对行为  
+图4领域行为  
+Fig.4Territorial behavior
+
+一次成功的交配(将精荚粘附于纳精囊处)所需时间为125一398s（( $\ : 2 8 1 \pm 7 5 \ : , \ :$ ）s， $n = 2 0$ ），第一和第二阶段耗时极短（2—4s， ${ ( 3 . 0 { \pm } 0 . 6 ) }$ s, $n = 2 0$ ),更多时间用于精子移除。交配阶段,雄性高度紧张,推动雌性缓慢转动,同时警戒四周,防止其他雄性入侵,当入侵者接近警戒范围 $2 1 - 4 3 \ \mathrm { c m } ( ( 3 4 \pm 6 ) \ \mathrm { c m } , n = 1 6 )$ 时，交配被打断,雄性迅速松开雌性并与入侵者展开争斗。
+
+观察发现,大规格雄性存在与非配对雌性强行交配现象,但交配持续时间更短,精荚常粘附于雌性面颊或腕部;小规格雄性则通过伪装(淡去背部横纹斑,胴背部呈现较大斑点,宛似雌性)缓慢潜行接近未配对雌性，伺机与之交配。
+
+![](images/8c1ccdccc8db6cd8a8cc2106092c7d56f757a944ca5c9c30f686564bb0dce42c.jpg)  
+图5交配行为  
+Fig.5The mating behavior
+
+# 2.5 伴游行为
+
+交配结束后,雄性亲本继续伴游于雌性周围 $3 { \longrightarrow } 2 4 \ \mathrm { c m } ( \ ( \ 1 3 { \pm } 6 ) \ \mathrm { c m } , n { = } 2 0 )$ 处,以防止其他雄性靠近。通常雄性伴游 $2 3 - 8 2 \operatorname* { m i n } ( ( 6 1 \pm 1 5 ) \operatorname* { m i n } , n = 2 0 )$ 后,伺机与雌性再次交配。当有入侵雄性靠近，护游雄性与之争斗,若争斗失败,护游雄性离开,入侵雄性则迅速( $< 1 ~ \mathrm { m i n } ^ { \cdot }$ )试图与雌性交配。
+
+# 2.6产卵行为
+
+交配结束后,雌乌贼游至产卵基附近的安静角落休息,约 $3 . 2 { - 5 . 3 } \operatorname* { m i n } ( ( 4 . 5 \pm 0 . 6 ) \operatorname* { m i n } , n = 2 0 )$ 后开始产卵（图6)。产卵过程中,雌性4对腕靠拢并缓慢游向产卵基,距产卵基3— ${ \cdot } 5 \ \mathrm { c m }$ 时,停滞几秒钟,腕的尖端轻微摆动,然后游向产卵位置,用第1、2、3 对腕的尖端左右交叉勾住产卵基,利用腕的扣压力和漏斗喷水的冲力,将卵粘于产卵基上,该过程持续6.2—7.9 s( $( 6 . 9 { \pm } 0 . 5 ) \$ s, $n = 2 0$ )。随后雌性后退至距产卵基 $1 8 { - } 3 0 ~ \mathrm { c m }$ ( $( 2 3 \pm 6 )$ cm, $n = 2 0$ )处,利用腕拍击池底和漏斗喷水将池底的污物(池底未放泥沙)粘于卵膜表面(图6）,具明显的吹沙护卵行为。金乌贼为多次产卵,一次仅产一枚,随后游至角落处休息,约 $\substack { \dag . 3 - 6 . 8 \operatorname* { m i n } \left( \left( \ 5 . 3 \pm 0 . 6 \right) \right. }$ （20min, $n = 2 0$ )后再次产卵。
+
+雌乌贼每次交配后,通常将卵产于附着基同一位置,将其按左右相间顺序排列。雌乌贼一般将卵附着在海参筐产卵基的中部略下方,产卵基上附着卵较少时呈较为明显的区域分布;附着卵较多时,雌乌贼常在已产卵层上继续产卵。刚产出的受精卵呈白色而透明,柔软而有弹性,形似梨状,长径约 $1 6 . 4 { \ - } { - 2 0 . 0 } \ \mathrm { m m } ( \ ( \ 1 8 . 2 \pm$ 1.3) $\mathbf { m m }$ $n = 5 0$ ），短径约 $1 0 . 5 \mathrm { - } 1 2 . 6 ~ \mathrm { m m } ( \left( 1 1 . 3 \pm 0 . 7 \right) ~ \mathrm { m m } , n = 5 0 )$ 。繁殖前期,每只雌乌贼每天平均约产卵90粒;繁殖后期产卵量减少,每只每天平均约30粒,最后产出的受精卵极小,且多数未包被三级卵膜。
+
+![](images/fb24c8349097402236ad36bc01cedc8781719eecb25f73b04b22672a4b8b7354.jpg)  
+图6产卵行为  
+Fig.6Egg-laying behavior
+
+# 3讨论
+
+# 3.1金乌贼繁殖过程的行为特征
+
+# 3.1.1 游泳行为
+
+乌贼属生物具有相似的运动方式[6-7],喷水推进为金乌贼提供运动的主要动力,并能辅助改变游泳方向;鳍可以维持身体平衡,并通过改变摆动幅度、频率辅助游泳和转换方向。金乌贼游泳能力比拟目乌贼差,游泳127 s左右需休息 $4 9 \mathrm { ~ s ~ }$ ,而拟目乌贼能持续游泳 $4 1 7 \ \mathrm { s } ^ { [ 6 ] }$ 。金乌贼游泳过程中常出现身体变色现象,分析认为是不同环境条件而本能呈现的体色，有利于捕食和逃避天敌。
+
+# 3.1.2 捕食行为
+
+金乌贼成体喜食扇蟹（Xanthidae）、虾蛄（Squilla orarotia）、鹰爪虾（Trachypenaeuscuruirostris）、毛虾（Acetes)等[10],属于主动攻击型摄食者,在繁殖期继续摄食。而嘉庚蛸繁殖期间则停止摄食[9]（表1),分析认为这与两种生物的不同产卵模式有关:金乌贼为分批产卵[13],繁殖期持续时间长,因此需要摄食以补充能量;而嘉庚蛸为一次产卵或2—3d分批产卵[9]（表1),繁殖期持续时间短,自身储存的能量即可满足其繁殖需求。实验发现金乌贼亲体的攻击距离为7— ${ \cdot 2 4 } \ \mathrm { c m }$ ,约为其胴背长的0.5—1.7倍,而雷舒涵等研究表明,金乌贼幼体的攻击距离为胴背长的1—2倍[23],说明成熟亲本的攻击距离虽然随胴背长的增加而增加,但并未呈线性关系,这可能与触腕的异速生长有关[1]。
+
+http://www.ecologica.cn
+
+实验发现,金乌贼捕食迅速且成功率极高,分析认为,发达的视觉系统[13],使其准确判断周围饵料生物的方向和距离;触腕高度发达的横纹肌,使其具有快速的弹射能力[24];具有约10行吸盘的独特的触腕穗,可以紧紧吸住食物,防止饵料生物逃脱。繁殖后期金乌贼摄食量明显减少,推测因繁殖活动消耗大量能量,导致体力不足,难以快速伸出触腕捕捉饵料生物。
+
+表14种常见头足类的生殖特性  
+Table 1The reproductive characteristics of four common cephalopods   
+
+<html><body><table><tr><td>物ies</td><td></td><td>卵巢发 育类型 type development</td><td>广</td><td></td><td>卵径/mm 长径×短径 short diameter</td><td>繁殖期摄 season</td><td></td><td>初孵幼体</td><td>受精卵孵化率和</td></tr><tr><td>Sepia esculenta 金乌贼[13,19]</td><td>400±72</td><td>不同步型</td><td>分批产卵</td><td>900</td><td>16.-12.6</td><td>继续进食</td><td>无</td><td>5.0-7.0</td><td>化率后能自%；幼体短时</td></tr><tr><td>曼氏无针乌贼 Sepiella maindroni2,</td><td>105—218</td><td>不同步型</td><td>自然条件一年繁殖 一次;人工养殖一 年繁殖两次;分批 产卵</td><td>1018-2368</td><td>7.5—15.0x 6.5-9.0</td><td>继续进食</td><td>无</td><td>5.6</td><td>孵化率82.5%;幼体短时间适 应后能自主捕食</td></tr><tr><td>真蛸[8] Octopus vulgaris</td><td>1150</td><td>不同步型</td><td>分批产卵</td><td>2万-17万</td><td>2.4-2.7× 1.0-1.3</td><td>继续进食</td><td>有</td><td>3.8</td><td>孵化率 84.3%;30d左右的浮 游生活期,死亡率高</td></tr><tr><td>Octopus tankahkeei 嘉庚蛸[9,22]</td><td>85-103</td><td></td><td>一次产卵或2- 3d分批产卵</td><td>60-110</td><td>15.0—16.0x 3.8-4.6</td><td>不进食</td><td>有</td><td></td><td>孵化率高;初孵幼体迅速伏 底,行动灵敏</td></tr></table></body></html>
+
+# 3.1.3求偶、争斗行为
+
+进入性成熟和繁殖期,金乌贼有明显的求偶行为。与乌贼属其他生物类似[25],金乌贼性选择过程中,雄性个体主动追逐雌性,雌性个体则较为被动地接受、逃避或拒绝配对。实验中雄性金乌贼更倾向于选择与自身规格相当或略小的雌性,分析认为是追逐大规格雌性需消耗更多的时间和精力所致;而雌性个体更易接受大规格雄性的求偶,这与大规格雄性在争斗中更易获胜有关。因此，规格是金乌贼择偶的重要影响因素[26-27]
+
+雄性个体为争夺配偶,常发生同性间的争斗,与蛸类相比[28],乌贼属生物争斗更加频繁而激烈,最初表现为体表条纹和色素斑的展示、对峙,随后升级为腕相互接触和身体碰撞等,争斗中取胜的雄性更易接近雌性区域。观察发现,规格较大雄性优势明显,易在争斗中取胜并获得配偶,大规格雄性亲本甚至存在强行与非配对雌性交配现象,这使得种群中一部分强势个体拥有多个配偶并有多次交配的机会,便于留下更多健康后代。
+
+# 3.1.4 交配、伴游行为
+
+不同于真蛸和蓝蛸（Octopus cyanea)的距离式交配[29],金乌贼采取头对头的交配方式,过程较温和,多为自愿交配。交配过程中雄性领域性极强，一旦有其他乌贼闯入,雄性迅速松开雌性并与入侵者争斗以护卫配偶,而蓝蛸则可一边交配，一边用非交接腕驱逐入侵者[28]。实验中金乌贼两性亲本均存在与多个异性多次交配的现象,说明金乌贼采取“多夫多妻"的混交婚配制度。这与韩松[16]研究报道的金乌贼一雌多雄制存在差异,分析认为与实验所用金乌贼样本数相关,在韩松的实验中雌雄亲本比例为2:18,雄性亲本数量远多于雌性,雄性间的激烈竞争影响着雌雄个体间的性选择。雄性的多次交配能留下更多精子,有效提高其生殖成功率;对于雌性亲本,虽然多次交配会耗费大量的时间和能量,并存在许多潜在风险（被捕食、感染疾病或寄生虫、身体受伤等)[30],但有利于降低因精液中无精子或精子数量过少引起受精失败的风险,有效提高卵的受精成功率和遗传多样性[31],海角蜂（Apis mellfera capensis）[32]和脉红螺（Rapana venosa）[3]也具有相同的繁殖策略。
+
+金乌贼交配时存在精子移除行为,与欧洲横纹乌贼[34]和澳洲巨乌贼(Sepia apama）[35]利用漏斗喷水冲刷以除去异体精子不同，它是利用第三对腕刮除其他雄性粘附在雌性纳精囊周边的精子。精子移除是精子竞争中一个重要的繁殖策略[36],Wada研究发现,金乌贼移除精子的数量与移除时间呈正相关[37]。本研究发现,金乌贼的一次交配持续时间比虎斑乌贼[7、曼氏无针乌贼[3]长,使雄乌贼有更多时间移除精子,以提高自身的父权贡献率。
+
+交配结束后，雄性金乌贼有伴游行为，雌性周围3— $\cdot 2 4 \mathrm { \ c m }$ 范围内属于伴游雄性的领域。欧洲横纹乌贼[5]、曼氏无针乌贼[3]、拟目乌贼[7等均有伴游行为,伴游虽然会耽误雄性寻找其他雌性交配,但可以有效防止该雌性与其他雄性交配时移除其已附着在雌性纳精囊处的精子。金乌贼多次交配的间隔时间较长（ $6 1 ~ \mathrm { m i n } )$ ,而虎斑乌贼伴游时， $3 ~ \mathrm { m i n }$ 内即可进行2—3次交配[7],分析认为虎斑乌贼的频繁交配是对交配持续时间较短( $< 1 5 0 \mathrm { ~ s } { \ i }$ ）[7」的一种补偿机制。
+
+雌性金乌贼纳精囊能够储存来自多个雄性的精荚,导致了精子竞争产生[33]。精子竞争作为雄性间竞争的最终形式,极大地促进了雄性行为特性的产生或改变。如交配过程中的精子移除、交配后的伴游以及伴游过程中的多次交配行为等，这些独特的繁殖行为能有效提高自身的父权贡献率。
+
+# 3.1.5 产卵行为
+
+金乌贼习惯在附着基上产卵,这种产卵习性与澳大利亚拟乌贼[4]、欧洲横纹乌贼[5相似,而与真蛸喜好在巢穴四壁产卵[8]不同。金乌贼平均产卵量远低于真蛸(2—17万粒),分析认为是金乌贼雌性亲本个体较小$( 4 0 0 { \pm } 7 2 ) \mathrm { g }$ ,同时所产卵子远大于真蛸卵 $( 2 . 4 { \ - } 2 . 7 ~ { \mathrm { m m } } { \times } 1 . 0 { - } 1 . 3 ~ { \mathrm { m m } } )$ )所致(表1）。金乌贼采取此种繁殖策略与其亲体无护卵行为相关,较大的卵黄和较厚的三级卵膜结构,可提高受精卵孵化率;同时金乌贼初孵幼体胴长（5- $\cdot 7 \ \mathrm { m m }$ )较大,迅速伏底,能较快适应外界环境,具有较高成活率,而真蛸初孵幼体需经历30d浮游生活期,死亡率极高,因此通过提高怀卵量的方式以保证后代的补充(表1)。与拟目乌贼在同一条卵带上混合产卵[不同,金乌贼雌性各自有单独的产卵区域,更倾向于将卵附着在产卵基的中部略下方,按左右相间顺序排列,这能防止沉积物将受精卵掩埋,增加受精卵与水的接触面积,有效提高受精卵的孵化率。
+
+# 3.2金乌贼的交配策略
+
+繁殖是动物生活史研究的核心内容,是物种延续及物种多样性形成的主要因素[38]。而有性生殖物种的雌雄双方共同为后代贡献基因,顺利交配是生殖繁衍后代的关键,雌雄个体为达到交配目的,所采取的策略可以看作是经长期进化而形成的一种适应性特征。
+
+能量来源方面,金乌贼卵巢和精巢均属不同步发育型[13],随着成熟卵(精)子的排出,未成熟卵(精)子不断发育并分批产出。这种分批产卵行为,使仔乌孵化的时间序列延长,对初孵仔乌在海区的分散和存活具有重要意义,但繁殖亲体需消耗大量能量;同时金乌贼繁殖期复杂的繁殖行为(求偶、争斗、交配及产卵行为等)也需要能量支撑,这对金乌贼能量分配提出了更高要求。与真蛸[39类似,金乌贼繁殖期继续摄食,外源营养为其繁殖活动提供能量补充。Rosa 等研究指出,大西洋长腕蛸(Octopus defilippi)性成熟及繁殖行为所消耗的能量来自其自身储备[40],在阿根廷滑柔鱼(Ilex argentinus)的研究中也发现雌性亲本开始产卵后,外套腔、内脏等逐渐萎缩的现象[41],而关于金乌贼繁殖期自身储备能量的利用等尚有待进一步探究。
+
+交配对策方面,雌雄亲本在繁殖期间均需投入大量的时间、精力和能量[42-43],因此会根据第二性征选择性交配[44]以提高繁殖成功率。与三斑海马（Hippocampus trimaculatus）[45]类似,金乌贼亲本选择配偶时,规格是重要的影响因素。在克氏原螯虾（Procambarus clarkia）和松材线虫（Bursaphelenchus xylophilus）的研究中发现婚配状态也会影响其择偶倾向,克氏原螯虾中的童子虾倾向与处女虾交配,松材线虫中的处女雌虫和已婚雌虫都会优先选择与处子雄虫进行交配[46-47]。金乌贼能否辨别配偶的婚配状态以及是否具有明显的选择倾向尚有待于进一步研究,掌握这些繁殖规律对金乌贼亲体培育和苗种生产具有重要指导作用。
+
+# 参考文献（References）：
+
+[1］韦柳枝，高天翔，韩志强，柳志强，王云中.日照近海金乌贼生物学的初步研究.中国海洋大学学报：自然科学版，2005，35（6)：
+
+[2]MoltshakN,lGTSegtisfd（potesstrlis）pulatis：otof‘ocrsnFish Biology and Fisheries，2007,17(2）：183-195.  
+3]WadakegiotsukariepductivevifaeestshepellcVuslfMalacological Society of Japan，2006,65(3）：221-228.  
+[4]JantzenvedJeproductiieqdpotetsstrdisShustraliIteaotsThe Biological Bulletin，2003,204(3）：305-317.  
+[5]AdamoSA，roWKingAJ,atrDL,atherJA,hoakerKL，WoodJB.AgonsticandrepructivebehavioursofteishSepia officianlis in a semi-natural environment. Journal of Molluscan Studies,20oo,66(3）:417-419.  
+[6] 文菁，江星，王雁，陈道海.拟目乌贼繁殖行为学的初步研究.水产科学，2012，31(1)：22-27..  
+[7] 陈道海，郑亚龙．虎斑乌贼（Sepia pharaonis）繁殖行为谱分析.海洋与湖沼，2013，44(4)：931-936.  
+[8] 林国清，黄健，胡荣炊，宋武林.真蛸人工繁殖初步试验.福建水产，2008，（3)：16-20.  
+[9] 焦海峰，尤仲杰，包永波.人工养殖条件下嘉庚蛸的生物学特性及繁育技术初探.动物学杂志，2005，40（3）：67-71.  
+[10] 董正之.世界大洋经济头足类生物学.济南：山东科学技术出版社，1991：197-207.  
+[11] 李嘉泳.金乌贼（Sepia esculenta Hoyle)在黄渤海的结群生殖和洄游.中国海洋大学学报：自然科学版，1963，（2）：69-108.  
+[12] 刘长琳，庄志猛，陈四清，邓永生.金乌贼亲体驯养与繁殖特性研究.渔业现代化，2009,36(2)：34-37.  
+[13] 郝振林.金乌贼繁殖、发育及荧光标志技术的研究[D].青岛：中国海洋大学，2010.  
+[14] 赵厚钧，魏邦福，胡明，杜贞玺，吴廷山，王茂琴，张秀梅，韦柳枝.金乌贼受精卵孵化及不同材料附着基附卵效果的初步研究.海洋湖沼通报，2004，（3）：64-68.  
+[15]FujitaT，raaI，MatskaT,KawauaGSagehaviorndseleioofspangsbsrtebyuteishpueiSuisan Gakkaishi,1997,63：141-151.（in Japanese with English abstract）.  
+[16] 韩松.金乌贼(Sepia esculenta)繁殖行为及交配模式的分子鉴定［D].青岛：中国海洋大学，2010.  
+[17] 魏臻邦.金乌贼生活习性的初步观察.动物学杂志，1964，（3)：132-134.  
+[18] MartinP，BatesonPPG.Measuringbehavior：anintroductoryguide.2nded.Cambridge：Cambridge UniversityPress，993：1-222.  
+[19] 周维武.金乌贼（Sepia esculenta Hoyle)人工孵化与培育技术.现代渔业信息，2007，22(11)：27-29.  
+[20] 苏跃中，周瑞发，刘振勇，苏仰源，谢友亮，谢友佺,李庆叨，周绍锋.曼氏无针乌贼规模化全人工育苗技术初探.水产科技情报，2011,38(5) : 219-222.  
+[21] 叶素兰．人工养殖曼氏无针乌贼繁殖生物学及生殖生物学研究[D].杭州：浙江工业大学，2009.  
+[22] 尤仲杰，焦海峰.嘉庚蛸个体生殖力的研究.海洋学报，2006，28(6)：134-138.  
+[23] 雷舒涵.金乌贼胚胎与幼体发育生物学研究[D]．青岛：中国海洋大学，2013.  
+[24] KierWM.Squd-srateduscethevolutioofspialiduslefiberty.ulliofanese，,49-)：-0.  
+[25] ArnoldJM.ObservationsonthematingbehaviorofthesquidSepioteuthissepioidea.BuletinofMarineScience,1965,15(1）:6-22.  
+[26] KvaremoC，SimonsLW.Varianceinfemalequalityoperationalsexratioandmalematechoiceinabushcricket.BehavioralEcologyndSociobiology，1999，45(3）：245-252.  
+[27]Kokko H,Monaghan P.Predicting the direction of sexual selection.Ecology Leters，201,4（2）:159-165.  
+[28] HanlonRT,MesengerJB.Cephalopdbehaviour.London：CambrdgeUniversityPress，998：91-97,01-110,25-1735-135.  
+[29] Wells MJ,Wells J. Sexual displays and mating of Octopus vulgaris Cuvier and $o$ . cyanea Gray and attempts to alter performance by manipulating theglandular condition of the animals.Animal Behaviour,1972,20(2）：293-308.  
+[30]HunterF,PetrieOtroMread.WydomalescopulaterepeatedlyitoemaleTdsiEolog&Evolutio9821-26.  
+[31]ArnqvistG,ilonT.TeevolutiooflyadrymultiematingndealeftssinisetsAialhavioro）：4-64.  
+[32] Moritz RFA,Kryger P,Alsopp M H. Competition for royalty in bes.Nature，1996,384（6604）: 31-31.  
+[33] 薛东秀.脉红螺繁殖行为和群体遗传特征研究[D].青岛：中国科学院海洋研究所，2014.  
+[34]HanloRT,AmntSA，GabrH.Behaviraspectsfsercompetioinuteish，epificnalis（Sepoe：CephalodaaeBiology，1999，134(4)：719-728.  
+[35]HalK,alaofaittseCephalopoda）.Marine Biology，2002，140(3）：533-545.  
+[36]Birkhead TR，Mpler A P. Sperm competition and sexual selection.London:Academic Press，1998.344-345.  
+[37]Wad,kegakioriatsuriYSpisplactaviorofutfishpieulent（Cephaloi）Joalf
+
+Ethology，2005，23(2）：85-92.[38]JamesCiLietoatelldsopeatel：307-316.[39]OteroJ，GozleAF，ieiuerreproductiveceandratioofOctopuslgarisiGlicanwaters，atic.Fisheries Research，2007，85(1/2）：122-129.[40]RosaRosta,nefofeualturatoisealopositfopuslgarisdOdefi（Cephalopoda).Marine Biology，2004，145（3）：563-574.[41] HatfieldEMC,odousePG,BarberDLProductioofsomaandgoadinmaturingfemaleIleargentinus（Molusca：Cepalopoda）Joualof the Marine Biological Association of the United Kingdom，1992,72(2）：281-291.[42]Triversretalesualee//mpbellBealeletiodetfanag1972:136-179.[43] WedellN，GageMJG,ParkerGA.Spermompetion，aleprudenceandspem-litedfemalesTrendsiEcolgy&Evolution0，17(7):313-320.[44] 周波.性选择中的奔离过程与障碍原理.遗传，1995，17(4)：43-48.[45] 李景，徐永健.三斑海马择偶行为的观察与分析.渔业现代化，2014，41(2)：38-42.[46] AquiloniL，GherardiF.Mutualatechoiceinafshlargebdysizeisselectedythsexes，virginityymalesolyJoualfZlog2008,274(2):171-179.[47］刘宝军.松材线虫择偶对策及择偶偏向的转录组分析[D].北京：中国林业科学研究院，2014.

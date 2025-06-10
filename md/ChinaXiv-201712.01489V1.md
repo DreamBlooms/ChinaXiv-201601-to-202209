@@ -1,0 +1,237 @@
+# DOI: 10.5846/stxb201609271947
+
+戴巍，赵科理，高智群，刘康华，张峰，傅伟军.典型亚热带森林生态系统碳密度及储量空间变异特征.生态学报,2017,37（22)：7528-7538.DaiW,ZhaoKLGaQ,LuKZagFuWSaiavraoracteritfboesidtogeinfrotesitcasubtropical region.Acta Ecologica Sinica,2017,37(22）:7528-7538.
+
+# 典型亚热带森林生态系统碳密度及储量空间变异特征
+
+戴巍1,²，赵科理2,4，高智群³，刘康华¹，张峰，傅伟军1，
+
+1浙江农林大学，亚热带森林培育国家重点实验室培育基地，临安311300  
+2 浙江农林大学，浙江省土壤污染生物修复重点实验室，临安311300  
+3 浙江臻善科技有限公司，杭州310058  
+4浙江大学，浙江省亚热带土壤与植物营养重点研究实验室，杭州310058  
+5 浙江省林业调查规划设计院，杭州310058
+
+摘要：以浙江省森林生态系统为研究对象,基于GIS 网格布点,采集了838个森林样地样本（土壤、枯落物等),结合浙江省森林资源监测中心相关数据，利用地统计学和 Moran'sI相结合的方法系统研究了浙江省森林生态系统碳密度及碳储量空间变异特征。结果表明;浙江省森林生态系统平均碳密度为 $1 4 5 . 2 2 ~ \mathrm { t / h m } ^ { 2 }$ ,其中森林植被、土壤、枯落物和枯死木层碳密度分别为27.34、$1 0 8 . 8 9 , 1 . 7 9 , 1 . 3 8 ~ \mathrm { t / h m } ^ { 2 }$ 。克里格空间插值和局部 Moran'sI指数结果表明碳密度空间分布规律呈现从西南向东北方向逐渐递减的趋势,与浙江省地形、地势较为一致,受海拔、树龄、森林类型、台风气候等自然因素和人类活动共同影响。浙江省森林生态系统碳储量为 $8 7 7 . 1 9 \mathrm { ~ T g ~ C ~ }$ ,森林植被、土壤、枯落物和枯死木层碳储量分别为 $2 0 3 . 8 8 , 6 5 6 . 2 0 , 1 0 . 8 4 , 6 . 2 7 \mathrm { ~ T g ~ C ~ }$ ，分别占总碳储量的 $2 3 \% . 7 5 \% . 1 . 3 \% . 0 . 7 \%$ 。在浙江省森林生态系统碳储量空间分布格局中,土壤层是森林生态系统中最大的碳库,约是森林植被层的3.22倍,是整个浙江省森林生态系统碳储量最主要的贡献者。浙江省森林资源丰富，大多数森林仍处于中幼龄林阶段，碳密度水平较低,但是中幼龄林生长速度较快,加强对全省中幼龄林的健康管理,是未来整体提升浙江省森林生态系统固碳潜力的关键。
+
+关键词：亚热带森林生态系统;碳密度;碳储量;空间变异;地统计学;GIS;Moran's I
+
+# Spatial variation characteristics of carbon density and storage in forest ecosystems in a typical subtropical region
+
+DAI Wei1²， ZHAO Keli²4，GAO Zhiqun³，LIU Kanghua'， ZHANG Feng§，FU Weijun1 \*   
+1TheNurturingStationfortheStateKeyLaboratoryofSubtropicalSilviculture，ZhejngA&FUniversity,Lin'an3130,Cina   
+2KeyLaboratoryofSoilContaminationBioremediationofZhejiangProvince，ZhejiangA&FUniversity，Lin'an313ooChina   
+3 Zhejiang Zhen-Good Technology Co.,Ltd,Hangzhou 310o58,China   
+4 Zhejang ProvincialKeyLaboratoryofSubtropicSoilandPlantNutrition，ZhejiangUniversity，Hangzhou310o58，China   
+5 Survey Scheme Designing Institute of Zhejiang Province Forest Bureau，Hangzhou 310058，China
+
+Abstract：Spatial patern information of carbon densityandstorage in forestecosystems playsan importantrole in the evaluation ofcarbon sequestration potentialsand healthy forest management.Forestvegetation carbon，soil organiccarbon, forestlittercarbonand dead treecarbonarethe four main carbon pols in forest ecosystems.Mostof previous studies on carbondensityandstorage inforest ecosystemsare basedonthecontinuous forest inventorysystem in Chinaorecosystem models；however,thereis litleinformationonthespatial variationofforestecosystems.Compared totraditionalresearch methods，geostatistical methodscombined with krigingspatial interpolationand Moran'sIhavebeenregardedasaneffective tol toexplorespatial variation，which have beensuccessfullyused toinvestigatethespatialvariabilityof environmental variablesandtoincorporatethis informationinto mappng.Therefore,itis widelyapliedtoanalyze spatialheterogeneityof forestand soil variables.In 2Ol2，based on theannual data from the Forest Resources Monitoring Centerin Zhejiang Province，a total of 838 forest sample plots were established based on a $4 ~ \mathrm { k m }$ （south-north） $\times ~ 6 ~ \mathrm { k m }$ （east-west） grid system in Zhejiang Province，and the area of each plot was $0 . 0 8 \ \mathrm { h m } ^ { 2 }$ . The portable global positioning system （GPS） was usedtorecordthelongitudesandlatitudes.Inthisstudy，weanalyzed thespatial variation characteristicsofcarbon density andstorageofforest ecosystems in Zhejiang Province using geostatistical methodsand Moran'sI.Theresultsshowed thatthe average carbon density of forest ecosystems in Zhejiang Province was $1 4 5 . 2 2 \ \mathrm { t / h m } ^ { 2 }$ ，and the forest vegetation layer， soil layer,forest litter layer，and dead tree layer carbon densities were $2 7 . 3 4 ~ \mathrm { t / h m } ^ { 2 }$ ， $1 0 8 . 8 9 ~ \mathrm { { t / h m ^ { 2 } } }$ ， $1 . 7 9 ^ { \circ } \mathrm { t / h m } ^ { 2 }$ ，and $1 . 3 8 ~ \mathrm { t / }$ （204 $\mathrm { { h m } } ^ { 2 }$ .Krigingspatial interpolationand Local Moran'sIshowed that thespatial distributionof carbon density gradually decreased from southwestto northeast，similar to topographic changes in Zhejiang Province,which was influenced by both natural factorssuchas altitude,forestage,foresttypes，typhoon climate,and humanactivities.Thecarbon storageofforest ecosystems in Zhejiang Province was $8 7 7 . 1 9 \mathrm { ~ T g ~ C ~ }$ ，of which $2 0 3 . 8 8 \mathrm { T g } \mathrm { C }$ was in the forest vegetation layer, $6 5 6 . 2 0 \mathrm { T g } \mathrm { C }$ in the soil layer，10.84 Tg C in the forest litter layer，and $6 . 2 7 \mathrm { ~ T g ~ C ~ }$ in the dead tree layer， accounting for $23 \%$ ， $7 5 \%$ ， （204号 $1 . 3 \%$ ，and $0 . 7 \%$ of the total carbon storage，respectively.The soil layer was the largest carbon pool in forest ecosystems, which wasabout thre timesas large asthe forest vegetation layer，and which was the most importantcontributor to the carbonstorage of forest ecosystems in Zhejiang Province.There are abundant forestresources in Zhejiang Province；mostof the forests are young and middle-aged forests，which account for $7 6 . 7 6 \%$ of the total forest area in Zhejiang Province ，and the young and middle-agedforestsoften haverelativelylowcarbon density，but growfast.Therefore，weshould strengthen thehealthy management of youngand middle-aged forestsandenhance the carbon sequestration potentialsof forest ecosystems in Zhejiang Province in the future，in ordertoregulate theglobal carboncycle，mitigatethe increase in atmospheric $\mathrm { C O } _ { 2 }$ concentrations，and maintain global climate.
+
+Key Words: forest ecosystems；carbon density；carbon storage；spatial variation; Geostatistics；GIS；Moran'sI
+
+森林生态系统是陆地生态系统碳库最重要、最活跃的组成部分,在维护全球碳平衡和缓解气候变化等方面发挥着日益重要的作用,其主要包括森林植被、土壤、枯落物和枯死木四大碳库[1-2]。由于森林生态系统的重要性和特殊性,近年来关于森林生态系统碳汇的研究已成为国内外学者研究的热点之一[3-5]。如 Botkin等[3]针对北美温带落叶阔叶林森林生态系统碳储量和碳密度空间特征进行了分析;Yolasigmaz 等[4]研究了地中海地区森林生态系统碳库空间分布格局及其影响机制;我国学者王新闯等[5]讨论了中国北方吉林省森林生态系统碳储量、碳密度及其分布特征。
+
+在众多森林生态系统中,亚热带森林是其重要的组成部分,它在应对全球气候变化中的作用日益被人们所关注[6]。浙江省属于典型的亚热带季风气候区,森林资源丰富,固碳潜力巨大。目前已有一些学者开展了浙江省森林生态系统碳汇的初步研究[7-9]。张骏等[7]利用1999—2000 年实地观测数据估算了浙江省生态公益林碳储量及其固碳潜力;张茂震等[8]基于森林资源连续清查资料分析了浙江省森林生物量和生产力的变化;张峰等[9研究了浙江省森林植被碳储量空间分布。由于浙江省森林类型多样,森林生态系统空间变异性强,使得研究结果差异性较大。因此,急需探明浙江省森林生态系统碳密度空间分布特征,以此为精确估算该地区森林生态系统碳储量提供保障。地统计学是目前最为有效的空间变异分析工具[9],可与其他空间分析技术（Moran'sI，Neighborhood statistics 等）[2]相结合研究环境变量的空间变异和分布格局,并且能够提供具有统计意义的空间变异信息,已被广泛应用到生态学、地学以及环境科学等领域[2,10]。
+
+http://www.ecologica.cn
+
+本研究主要以浙江省森林生态系统为研究对象,结合浙江省森林资源监测中心相关数据,通过GIS 网格布点,利用地统计学、克里格空间插值以及Moran'sI相结合的方法系统研究浙江省森林生态系统碳密度及碳储量空间变异特征，从而为区域尺度下的森林生态系统碳密度及碳储量时空变异研究和森林的健康管理提供借鉴。
+
+# 1材料与方法
+
+# 1.1 研究区和采样地概况
+
+浙江省地处中国东南沿海(图1），长江三角洲南翼，介于 $2 7 ^ { \circ } 0 6 ^ { \prime } \mathrm { - } 3 1 ^ { \circ } 1 1 ^ { \prime } \mathrm { N } , 1 1 8 ^ { \circ } \ 0 1 ^ { \prime } \mathrm { - } 1 2 3 ^ { \circ } 1 0 ^ { \prime } \mathrm { E }$ 之间,属于典型的亚热带季风气候区，季风显著、四季分明、雨热同期。全省陆地面积 $1 0 . 1 8 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,约为全国面积的 $1 . 1 \%$ 。地形较为复杂，西南部分以山地为主，平均海拔在 $1 0 0 0 \mathrm { ~ m ~ }$ 以上；中部多为 $5 0 0 \mathrm { ~ m ~ }$ 以下的丘陵，大小盆地相间分布；东北部为海拔 $1 0 \mathrm { ~ m ~ }$ 以下的冲积平原,河网密布;全省地势从西南向东北呈阶梯下降趋势。红壤、黄壤和红黄壤是全省主要的土壤类型,还分布少量紫色土、石灰土等[8]。浙江省森林资源丰富，森林面积达到 $6 0 4 . 0 6 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ ,林木蓄积量$2 . 8 2 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,森林覆盖率 $5 9 . 3 4 \%$ ,其中乔木林、经济林和竹林分别占森林总面积的 $6 8 . 9 0 \%$ ） $1 6 . 8 0 \%$ 和 $1 4 . 3 0 \%$ [11]。
+
+2012年基于浙江省资源监测中心相关数据[12]在全省范围内采用系统抽样 $4 ~ \mathrm { k m } { \times } 6 ~ \mathrm { k m } ~ ( \$ GIS网格布点选取838个森林样地(图1）,每个样地面积 $0 . 0 8 \ \mathrm { h m } ^ { 2 }$ ,形状为边长 $1 0 \ \mathrm { m } \times 1 0 \ \mathrm { m }$ 的正方形,全部样地均由GPS 导航定位。在每个森林样地设置的样方内按照植被层、土壤层、枯落物层进行取样测定,并记录地形、地貌等周边环境因子。由于野外采集的局限性本研究中枯死木层碳密度和碳储量数据主要来源于浙江省森林资源监测中心。
+
+![](images/e3d77b5d6b2ad86fdb5456b1bab8d455a0a88fab1b1a5efbbb60ebfcf4557a78.jpg)  
+图1采样点分布图  
+Fig.1Spatial distribution map of sampling sites
+
+# 1.2 研究方法
+
+# 1.2.1 森林植被层碳密度、碳储量计算
+
+森林样地主要包括乔木林、竹林、草本和灌木4种典型的亚热带森林植被类型,在每个森林样地设置3个重复样方,大小为 $2 8 . 2 8 ~ \mathrm { m } \times 2 8 . 2 8 ~ \mathrm { m }$ ,样方内测定乔木林每木检尺、竹林每竹检尺数据,在每个样方内开展森林生物量小样方调查,设置3个，每个边长为 $2 { \mathrm { ~ m } } { \times } 2 { \mathrm { ~ m } }$ ,记录灌木(灌木树种及高度 $< 2 \mathrm { ~ m ~ }$ 的乔木幼树)的主要种名称、株数、平均高、平均地径,草本的主要种名称、平均高、盖度。袁位高等[13]依据浙江省重点生态公益林区域布设的典型样地并结合林分类型、树龄、群落结构等条件构建了硬阔1（Hard Broad1）、硬阔2（HardBroad2）软阔（Soft Broad）、松类（Pine）、杉木（ChineseFir）、竹子（Bamboo）等单株生物量模型和草本(Herbal)、灌木(Shrub)生物量模型(表1)。单株生物量模型由树根、树冠、树干和总量构成,其中 ${ \mathbf { \Omega } } _ { H , L , D }$ 分别为树高、冠长和胸径;草本模型中 $H$ 为平均高, $G$ 为盖度;灌木模型中 $H$ 为高度, $D$ 为地径。由于建模样本均来自浙江省各地,因此具有较好的适用性。
+
+根据样地的优势树种,选择相应的含碳系数,将所计算的各样地单位面积生物量与相应的含碳系数相乘得到样地碳密度[12]。利用样地生物量碳密度数据,通过地统计学结合 ArcGIS 10.2绘制森林植被生物量碳密度的空间分布图,以此计算浙江省森林植被总碳储量,其计算公式如下：
+
+$$
+{ \mathrm { F B C S } } = \sum _ { i = 1 } ^ { n } { \mathrm { F B C D } } _ { i } \ \times \ { \mathrm { A r e a } } _ { { \mathrm { g r i d } } } \ \times \ 1 0 ^ { - 1 2 }
+$$
+
+式中，FBCS为浙江省森林植被生物量总碳储量( $\mathrm { T g ~ C }$ ）， $n$ 为总栅格数， $i$ 为第 $i$ 个栅格， ${ \mathrm { F B C D } } _ { i }$ 为第 $i$ 个栅格森
+
+林样地生物量碳密度( $\mathrm { \ k g / m } ^ { 2 }$ )， $\mathrm { A r e a } _ { \mathrm { g r i d } }$ 为栅格区域面积 $\left( \mathbf { m } ^ { 2 } \right)$ 。
+
+表1生物量模型结构  
+Table1 Structures of biomass models   
+
+<html><body><table><tr><td>植物类型 Type of vegetation</td><td>树根模型W2 Root model W2</td><td>树冠模型W3 Crown model W3</td><td>树干模型W4 Stem model W4</td><td>总量模型W1 Total model W</td><td></td></tr><tr><td>硬阔 1Hard Broad1</td><td>W0.0549H01068D2.0953</td><td>W3=0.0980D1.6481L0.4610</td><td>W40.0560H0.8099D1.8140</td><td>W=W2+W3+W4</td><td rowspan="4"></td></tr><tr><td>硬阔 2Hard Broad2</td><td>W0.2470H0.1745D1.7954</td><td>W30.286D109680.9450</td><td>W40.0803H0.7815D18056</td><td>W1=W2+W3+W4</td></tr><tr><td>松类Pine</td><td>W0.0417H-00780D2.218</td><td>W0.1377D.48730.4052</td><td>W40.0600H0.7934D1.8005</td><td>W1=W2+W3+W4</td></tr><tr><td>杉木 Chinese Fir</td><td>W0.0617H-0.1037D2153</td><td>W30.0971D1.7814g0.0346</td><td>W40.0647H0.8959D1.4880</td><td>W1=W2+W3+W4</td></tr><tr><td>软阔 Soft Broad</td><td>W0.0459H0.1067D2.0247</td><td>W30.0856D1.226,0.3970</td><td>W40.0444H0.71969D1.7095</td><td>W1=W2+W3+W4</td><td rowspan="2">O</td></tr><tr><td>竹子 Bamboo</td><td>W0.3710H0.1357DO.9817</td><td>W0.2800D0.8357L02740</td><td>W40.0398H0.5779D1.8540</td><td>W1=W2+W3+W4</td></tr><tr><td>草本 Herbal</td><td></td><td></td><td></td><td>W10.4098H0.5427D1.0615 W0.0549H08030G1.0877</td><td></td></tr></table></body></html>
+
+W：总生物量 Total biomass, $( \mathrm { { k g } ) }$ ；草本模型中 $H$ ：草本平均高 Herbal average height, $\mathrm { { ( c m \bar { } } }$ ； $\textit { G }$ ：盖度Coverage；灌木模型中 $\textstyle H _ { : }$ 高度 Height, $( \mathbf { m } ) ; D$ ：地径Ground diameter，（cm）；其余生物量模型中 $H$ ：树高 Tree height， $\mathrm { ( m ) }$ ；L：冠长 Crown length, $\mathrm { { ( c m ) } }$ ; $D$ ：胸径 Diameter at breast height，（cm）
+
+# 1.2.2土壤层碳密度、碳储量计算
+
+在选取的838个森林样地进行网格采样,网格为 $4 ~ \mathrm { k m } \times 6 ~ \mathrm { k m }$ 。采样时采集土壤层剖面样品，但要避免大树及路沟等人为活动痕迹,每个剖面分为0—10、10—30、30—60、60—100cm4层,并在各个土层分别取重量约 $1 ~ \mathrm { k g }$ 左右土样。将采集的土壤样品直接带回实验室放在室温下风干,磨碎,过筛( $2 ~ \mathrm { m m }$ 和 $0 . 2 5 ~ \mathrm { m m }$ 筛)后进行土壤有机碳测定,土壤有机碳测定采用重铬酸钾外加热法进行[5.14]。土壤有机碳密度主要按照以下公式计算：
+
+$$
+\mathrm { S O C D } _ { i h } = \sum _ { i = 1 } ^ { n } T _ { i } \times C _ { i } \times P _ { i } \times ( 1 - q _ { i } \% ) / 1 0 0
+$$
+
+式中， $\mathrm { S O C D } _ { i h }$ 为样地第 $i$ 个栅格区域在土壤剖面 $\bar { h }$ 时的土壤有机碳密度( $\cdot / \mathrm { h m } ^ { 2 }$ ）， $n$ 为土壤层数, $T _ { i }$ 为土壤剖面第 $i$ 层的土壤厚度（cm）， $C _ { i }$ 为土壤剖面第 $i$ 层的土壤碳含量 $( { \bf \underline { { g } } } / { \bf k } { \bf \underline { { g } } } )$ ， $P _ { i }$ 为土壤剖面第 $i$ 层的土壤容重( $\mathbf { g } / \mathbf { \Sigma }$ $\mathrm { c m } ^ { 3 }$ ）， $q _ { i } \%$ 为第 $i$ 层的砾石含量系数（砾石直径大于 $2 ~ \mathrm { m m }$ );浙江省森林土壤层碳储量计算主要通过以下公式得出[15]： ?
+
+$$
+\mathrm { S O C S } _ { h } \ : = \ : \sum _ { i = 1 } ^ { n } \mathrm { \ : S O C D } _ { i h } \ : \times \ : \mathrm { A r e a } _ { \mathrm { g r i d } } \ : \times \ : 1 0 ^ { - 1 2 }
+$$
+
+式中， ${ \mathrm { s o c s } } _ { h }$ 为浙江省森林土壤剖面 $h$ 时土壤有机碳的总储量( $\mathrm { ~ T g ~ C ~ }$ ), $n$ 为总的栅格数, $i$ 为第 $i$ 个栅格,$\mathrm { S O C D } _ { i h }$ 为第 $i$ 栅格区域在土壤剖面 $h$ 时的土壤有机碳密度( $\mathbf { \ k g } / \mathbf { m } ^ { 2 }$ )， $\mathrm { A r e a } _ { \mathrm { g r i d } }$ 为每个栅格区域的面积 $( { \mathrm { ~ m } } ^ { 2 }$ ）。
+
+# 1.2.3枯落物层碳密度、碳储量计算
+
+在浙江省内每个森林样地设置3个 $1 \ \mathrm { m } { \times } 1 \ \mathrm { m }$ 小样方,将小样方内收集的枯落物样品称重带回实验室并放入烘箱 $1 0 5 ^ { \circ } \mathrm { C }$ 烘干后,研磨粉碎,取 $0 . 5 \mathrm { ~ g ~ }$ 左右放入有机元素分析仪（Vario MAXCN)测定枯落物样品碳元素含量,将样品碳含量计算转换为森林样地枯落物碳密度,而计算得出的样地枯落物碳密度与对应的样地栅格区域面积相乘即为每个样地水平下的枯落物碳储量。针对计算得到的样地枯落物碳储量估算浙江省森林枯落物层总碳储量,其计算流程与森林植被碳储量相似。
+
+# 1.3 空间自相关分析
+
+空间自相关分析是指同一个变量在不同空间位置上的分布、幅度及其相似性,主要度量空间单元属性值集聚的程度[16]。Moran'sI指数是表征空间自相关分析的基本指标,一般包括全局和局部两种指标,全局Moran'sI指数的取值一般在-1和1之间,大于0表示积极的正相关,等于0表示不相关,小于0表示负相关；局部 Moran'sI指数主要识别局部空间聚类和进行异常值分析[10],其公式是：
+
+http://www.ecologica.cn
+
+$$
+I _ { i } = \frac { z _ { i } - { \bar { z } } } { \sigma ^ { 2 } } \sum _ { j = 1 , j \neq i } ^ { n } \left[ W _ { i j } ( z _ { j } - { \bar { z } } ) \right]
+$$
+
+式中,变量 $z$ 的平均值为 $\bar { z }$ ;变量 $z$ 的方差为 $\sigma ^ { 2 }$ ;变量 $z$ 在采样点 $i , j$ 处的数值分别为 $z _ { i } \mathrm { , } z _ { j } \mathrm { ( } i$ 不等于 $j$ ）；采样点之间的距离权重为 $\boldsymbol { W } _ { i j }$ 。当局部 Moran'sI值大于0时表示研究区的目标值与它附近的采样点具有一定的相似性,即为空间集聚区,主要表现高值集聚区和低值集聚区;当局部 Moran'sI值小于0时则表示出现空间异常值,主要包括高-低值异常和低-高值异常情况[10,16]。
+
+# 1.4 地统计分析
+
+地统计学主要是以区域化变量理论为基础,以变异函数为主要工具,研究在空间分布上既有随机性和结构性,或空间相关性和依赖性的自然现象的科学[17]。
+
+克里格空间插值是地统计学最为核心的技术,又称为空间局部插值或空间局部估计,其基本原理就是通过区域化变量的原始数据和变异函数的结构特点来对未采样点的区域化变量的取值进行线性无偏最优估计[18]。以区域化变量理论为基础建立起来的地统计学的函数即为半方差函数（semivariance）,其表达式为：
+
+$$
+r ( h ) = \frac { 1 } { 2 N ( h ) } \sum _ { i = 1 } ^ { N ( h ) } \left[ Z ( x _ { i } + h ) - Z ( x _ { i } ) \right] ^ { 2 }
+$$
+
+式中， $r ( h )$ 为半方差函数； $h$ 为样点空间间隔距离,即为步长； $N ( h )$ 为当间隔距离为 $\mathit { \Pi } _ { \overline { { h } } }$ 时的所有成对样点的数量;变量 $Z ( x )$ 在样点 $x _ { i }$ 和 $x _ { i } + h$ 的实测值分别为 $Z ( x _ { i } )$ 和 $Z { \left( x _ { i } + h \right) }$ 。在实际应用中,半方差图和数学函数进行拟合,描述某一区域变量的变异规律。指数模型、高斯模型、圆形模型和球状模型等等是常用的半方差函数理论模型[18-19]
+
+# 1.5 数据处理
+
+采用Excel2007和 SPSS 21.0对原始实验数据进行整理,计算以及描述统计分析。利用Geoda0.9.5-i识别高低值空间异常值和计算空间自相关系数;利用ArcGIS 10.2对数据进行空间插值和地统计分析。
+
+# 2结果与讨论
+
+2.1浙江省森林生态系统碳密度统计特征
+
+表2是浙江省森林生态系统碳密度的描述性统计结果。浙江省森林生态系统平均碳密度为 $1 4 5 . 2 2 ~ \mathrm { t / }$ $\mathbf { h } \mathbf { m } ^ { 2 }$ ,其中森林植被、土壤、枯落物和枯死木层平均碳密度分别为 $2 7 . 3 4 , 1 0 8 . 8 9 , 1 . 7 9 , 1 . 3 8 \mathrm { ~ t / h m } ^ { 2 }$ ,各部分碳密度低于全国森林生态系统[20]对应的植被层 $5 7 . 0 7 ~ \mathrm { { t / h m ^ { 2 } } }$ 、土壤层 $1 9 3 . 5 5 ~ \mathrm { { t / h m } ^ { 2 } }$ 、枯落物层 $8 . 2 1 ~ \mathrm { t / h m } ^ { 2 }$ ,但植被层碳密度略高于江西省[21]的 $2 6 . 2  { 7 }  { \mathrm { \ t / h m } } ^ { 2 }$ 、辽宁省[22]的 $2 5 . 0 8 ~ \mathrm { t / h m } ^ { 2 }$ ,土壤层碳密度与王绍强等[23]研究的中国土壤有机碳密度 $1 0 5 . 3 0 \mathrm { \ t / h m } ^ { 2 }$ 较为相近。浙江省森林生态系统碳密度水平明显低于全国森林生态系统平均碳密度 $^ { 2 0 ] } 2 5 8 . 8 3 \ \mathrm { t / f h m } ^ { 2 }$ ,也低于海南省[24]的 $1 6 3 . 7 0 ~ \mathrm { { t / h m } ^ { 2 } }$ ,四川省[25]的 $2 3 2 . 8 1 ~ \mathrm { { t / h m } } ^ { 2 }$ ,吉林省[5]的 $2 2 5 . 3 0 ~ \mathrm { { t / h m } ^ { 2 } }$ 。主要原因可能由于浙江省大多数森林处于中幼龄林阶段,全省森林面积中约有 $7 6 . 7 6 \%$ 为中幼龄林,加上改革开放以来浙江省社会经济的快速发展,森林开发利用比较严重[1,2,26],，不利于森林生态系统的良性循环,因此碳密度处于较低水平。
+
+表2浙江省森林生态系统碳密度数据描述性统计分析/( $\cdot / \mathrm { h m } ^ { 2 }$ ）  
+
+<html><body><table><tr><td>类型 Type</td><td>最小值 Min</td><td>25%</td><td>中位数 Median</td><td>75%</td><td>最大值 Max</td><td>平均值 Mean</td><td>标准差 SD</td><td>变异系数 CV/(%)</td><td>偏度 Skewness</td><td>峰度 Kurtosis</td><td>K-Sp</td></tr><tr><td>植被Vegetation</td><td>0.12</td><td>13.48</td><td>22.81</td><td>37.16</td><td>182.12</td><td>27.34</td><td>20.14</td><td>73.69</td><td>(1.72)</td><td>5.68</td><td>(0.2084)</td></tr><tr><td>土壤 Soil</td><td>6.67</td><td>64.06</td><td>93.16</td><td>131.23</td><td>1025.59</td><td>108.89</td><td>78.13</td><td>71.75</td><td>4.52 (-0.16)</td><td>38.40 (1.32)</td><td>0.00 (0.280)</td></tr><tr><td>枯落物 Forest litter</td><td>0.01</td><td>1.05</td><td>1.60</td><td>2.21</td><td>8.84</td><td>1.79</td><td>1.19</td><td>66.48</td><td>1.76 (0.02)</td><td>5.40 (0.34)</td><td>0.00 (0.053)</td></tr></table></body></html>
+
+http://www.ecologica.cn
+
+变异系数主要用来描述研究变量的变异程度,根据Zhang等[27]对变异程度的分类,当变异系数 $< 1 0 \%$ 时为弱变异性;当 $1 0 \%$ ≤变异系数 $\leqslant 1 0 0 \%$ 时为中等变异性;变异系数 $> 1 0 0 \%$ 时为强变异性,从表2可以看出森林植被、土壤、枯落物层的变异系数分别为 $7 3 . 6 9 \% . 7 1 . 7 5 \% . 6 6 . 4 8 \%$ ,表明属于中等变异程度。
+
+# 2.2浙江省森林生态系统碳密度正态性
+
+研究表明,偏度、峰度和 $K { - } S _ { p }$ 值主要表示研究数据是否趋于正态分布[27-28]，表2中森林植被层偏度(1.72)和峰度(5.69）、土壤层偏度(4.52)和峰度(38.40）以及枯落物层偏度(1.76)和峰度(5.40)数值较大且均大于1,其中植被、土壤和枯落物层 $K { - } S _ { _ p }$ 值均小于0.05,表明原始数据不符合正态分布趋势，因此需要对森林植被、土壤和枯落物层的原始数据进行数据转换。在经过对数转换之后， $K { - } S _ { \rho }$ 值分别为0.284、0.280 和0.053均大于0.05,偏度和峰度值趋近于0表明处理后的数据服从正态分布,可进行插值分析。浙江省森林生态系统各组成部分碳密度数据转换前后的直方图如图2所示,原始数据的直方图正态分布曲线向左偏斜,经过对数转换后的直方图趋于正态分布，分布曲线居中分布。
+
+![](images/ce4c403372ed367a93ca832cf2c2db545123682baa0bd607ae6369ab98eb2018.jpg)  
+图2浙江省森林生态系统碳密度直方图/( $\lfloor \sqrt { \mathrm { h m } ^ { 2 } }$ ）  
+Fig.2Histograms of Forest ecosystems carbon density in Zhejiang Province
+
+# 2.3空间聚类和空间异常值分析
+
+图3为浙江省森林生态系统LISA 局部自相关类型图,其中森林植被、土壤和枯落物层碳密度全局Moran'sI值都大于0,分别为0.064、0.181和0.120,呈现极显著正的空间自相关性( $P { < } 0 . 0 1 \$ )，表明在整个研究区域内森林植被、土壤和枯落物层的目标值与它们附近的采样点具有一定的相似性[10,29]。
+
+局部 Moran'sI空间分布特征揭示森林植被层的高值集聚区主要分布在浙江省的西南部,少数点出现在西北接壤地区;土壤层高值集聚区主要集中在浙江省的西北部,少数出现西南山区;枯落物层的高值集聚区比较分散,主要出现在浙江省西北部,在浙江省宁波-舟山一带出现零星高值。低值集聚区主要分布在浙江省中部地区,以土壤层较为明显。出现高值集聚区主要因为海拔、林分类型以及人为活动等因素有关,海拔较高的地区,人类活动较少,主要以天然林为主,森林植被覆盖率较高,原生植被保存较为完整,有利于碳汇的积累[30-31];低值集聚区可能该地区以经济林(山核桃林、板栗树林等）、毛竹林为主,树种结构单一,人为活动频繁,改变原有的森林生态环境,忽视了森林生态系统的固碳潜力。研究发现在森林植被、土壤和枯落物层的高值集聚区附近出现低值空间异常值,可能与人类活动有关;在低值集聚区的周边区域出现高值空间异常值主要是由于当地的气候条件、地势高低、树龄等因素造成的影响[5,30-31],其他地区显示不显著。
+
+![](images/5bb53496edeb8f85cdd3d180607c8db3ae36c5d619166576b0df3dbb9f6561c9.jpg)  
+图3浙江省森林生态系统碳密度的LISA局部空间自相关类型  
+Fig.3Local indicators of spatialassociation intermsofForest ecosystemscarbondensityin Zhejiang Province
+
+2.4浙江省森林生态系统的空间变异结构特征
+
+为了进行浙江省森林生态系统空间结构和变异特征分析，采用地统计学方法，对浙江省森林生态系统碳密度进行半方差函数拟合,并选取最优模型。研究发现MS 值越接近0,RMSS 值越趋近于1,表明是最优模型[32],经过半方差函数最优模型拟合后得出森林样地中植被层、土壤层符合指数模型,枯落物层符合高斯模型(表3)。
+
+http://www.ecologica.cn
+
+块基比主要是指随机性因素引起的空间变异性占系统总变异的比例，可以用来衡量空间变异性程度，又称为基台效应[29]。Cambardella等[33]认为当块基比比值 $< 2 5 \%$ ,表明变量具有很强的空间自相关性;比值介于$2 5 \%$ 一 $7 5 \%$ 之间表明具有中等程度的空间相关性；比值 $> 7 5 \%$ 则表明空间弱相关性,变程主要反映在一定尺度下空间自相关性的作用范围,它是半方差函数的另一重要指标。表3显示森林植被、土壤和枯落物层的块基比分别为 $7 4 . 1 2 \% . 6 5 . 7 9 \% . 5 4 . 2 4 \%$ 表明具有中等变异程度的空间相关性,说明其受结构性和随机性双重因素的影响。本研究中土壤层碳密度的变程最大，为 $1 3 7 . 2 8 ~ \mathrm { k m }$ ,表明土壤层碳密度受到土壤有机质等结构性因素的影响较大，而植被和枯落物层碳密度的变程分别为 $1 4 . 5 3 ~ \mathrm { k m }$ 和 $1 5 . 7 0 ~ \mathrm { k m }$ ,相对较小可能与人类活动有一定关系。
+
+表3浙江省森林生态系统碳密度变异函数理论模型及其相关参数  
+Table3TheoreticalsemivariogrammodelsandtheorespondingparametersforforestecosystemscarbondensityinZhejangProvince   
+
+<html><body><table><tr><td>类型 Type</td><td>分布类型 Distribution type</td><td>理论模型 Theoretical model</td><td>块金值 Nugget</td><td>基台值 Still</td><td>变程 Range/km</td><td>块基比 Nugget/ Still/%</td><td>MS RMSS</td></tr><tr><td>植被Vegetation</td><td>对数正态</td><td>指数模型</td><td>0.63</td><td>0.85</td><td>14.53</td><td>74.12</td><td>0.56</td></tr><tr><td>土壤 Soil</td><td>对数正态</td><td>指数模型</td><td>0.25</td><td>0.38</td><td>137.28</td><td>0.020 65.79 0.005</td><td>0.96</td></tr><tr><td>枯落物 Forest litter</td><td>对数正态</td><td>高斯模型</td><td>0.32</td><td>0.59</td><td>A5.70</td><td>54.24 -0.010</td><td>0.82</td></tr></table></body></html>
+
+MS：标准平均值 Mean standardized；RMSS：标准均方根预测误差 Root mean square standardized
+
+# 2.5浙江省森林生态系统碳密度空间分布格局
+
+通过普通克里格插值,绘制出浙江省森林生态系统碳密度各部分空间分布图(图4),总体上浙江省森林生态系统碳密度空间分布规律与浙江省地形、地势[8.34]较为一致,呈现明显的自西南向东北逐渐递减的趋势。从图4中可以看出浙江省森林植被、土壤和枯落物层碳密度高值区空间分布具有一定的相似性,主要分布在浙江省西南和西北山区,这些地区海拔较高,天然林分布广泛,森林植被年龄悠久,乔、灌、草层次较为完整,生物量较大,人为活动干扰较少,加之水热条件较好,因此碳密度水平较高,但这些区域也是典型的生态环境脆弱区,森林一旦遭到破坏,其恢复难度较大,该结果与张峰等[9]研究结论较为相近。
+
+森林植被层、土壤层碳密度空间分布低值出现在浙江省北部地区,而枯落物层低值区出现在浙江省东北地区。浙江省北部地处杭嘉湖平原,森林植被覆盖率仅仅 $9 . 1 8 \%$ ,河网密集,地势低平,经济发达,人口密度集中[35-36],不利于森林碳汇的积累。图4 显示浙江省中部地区碳密度较低,浙江省中部地区包括金衢盆地,金衢盆地是浙江省主要的商品粮基地和传统的农业经济种植混合区[37],历史悠久,土地大面积开发,主要种植经济林和毛竹林等人工林，人为活动较为频繁。这表明海拔的高低、森林类型以及人类活动干扰是影响浙江省森林生态系统碳密度空间变异重要的因素。浙江省东南沿海一带森林生态系统各部分碳密度水平普遍较低,可能由于气候和人为因素共同造成的,夏秋季节的台风暴雨灾害不利于森林植被健康持久的生长,许多原生植被常绿阔叶林破坏严重,导致枯枝落叶输入量减少,影响土壤层碳含量的增加,此外浙江省东南沿海地区开发较早,是浙江省经济发达地区之一,城镇化进程严重破坏了原生森林生态系统分布格局,目前森林类型多以人工林为主,且树龄较低,而且人工林的碳储能力明显劣于天然林[12.3.38],间接导致这一地区碳汇能力较为低下。研究发现浙江省森林生态系统碳密度空间分布特征与Moran'sI所揭示的分布格局较为一致。
+
+# 2.6浙江省森林生态系统碳储量空间分布特征
+
+周玉荣等[20]在广泛收集资料的基础上,估算我国森林生态系统碳储量约为 $2 8 . 1 2 \times 1 0 ^ { 3 }$ Tg C,其中森林植被、土壤和枯落物层碳储量依次为 $6 . 2 0 { \times } 1 0 ^ { 3 } \ 、 2 1 . 0 2 { \times } 1 0 ^ { 3 } \ 、 0 . 8 9 { \times } 1 0 ^ { 3 }  { \mathrm { ~ T g ~ C ~ } }$ 。本研究结合浙江省森林资源监测中心相关数据,通过地统计学、克里格空间插值以及Moran'sI相结合的方法对浙江省森林生态系统碳储量空间分布特征进行了分析,结果表明浙江省森林生态系统碳储量约为 $8 7 7 . 1 9 \mathrm { ~ T g ~ C ~ }$ ,约占全国森林生态系统碳储量的 $3 . 1 2 \%$ ,低于四川省[25」的 $2 9 2 6 . 8 1 \mathrm { ~ T g ~ C ~ }$ 和吉林省[5]的 $1 8 2 0 . 4 1 \mathrm { ~ T g ~ C ~ }$ ,高于陕西省[30]的 $7 9 0 . 7 5 \mathrm { ~ T g ~ C ~ }$ 和李银等[39]研究的浙江省森林生态效统碳储量 $6 0 2 . 7 3 \mathrm { ~ T g ~ C ~ }$ （表4）,可能与研究数据、方法有一定的关系。浙江省森林植被、土壤、枯落物和枯死木层碳储量分别为 $2 0 3 . 8 8 \mathrm { \ , 6 5 6 . 2 0 \mathrm { ~ , 1 0 . 8 4 \mathrm { ~ , 6 . 2 7 \mathrm { ~ T g ~ C ~ } } } }$ ,所占总储量比例关系依次为$2 3 \% . 7 5 \% . 1 . 3 \% . 0 . 7 \%$ ,这一比例关系与周玉荣等[20」研究的全国森林生态系统碳储量分布格局较为一致。
+
+![](images/2f3df60285742b6440d258128b0e4e7c1501d48b0f452fec0e5aba3da768a171.jpg)  
+图4浙江省森林生态系统碳密度空间分布图  
+Fig.4Spatial distribution map of Forest ecosystems carbon density in Zhejiang Province
+
+在浙江省森林生态系统碳储量空间分布格局中,森林植被层碳储量约占全国森林植被碳储量的 $3 . 2 9 \%$ ，低于福建省[40]的 $2 2 9 . 3 1 \mathrm { ~ T g ~ C ~ }$ ，也低于四川省[25]的 $4 9 1 . 4 1 \mathrm { ~ T g ~ C ~ }$ ,吉林省[5]的 $4 4 4 . 3 5 \mathrm { ~ T g ~ C ~ }$ ,这很大程度上取决于所在区域森林起源、树龄、森林面积等因素。森林土壤层碳储量在浙江省总碳储量格局中所占比重最为显著,约为植被层碳储量的3.22倍,表明土壤碳库是森林生态系统中最大的碳库,在森林生态系统碳平衡和碳循环过程中发挥非常重要的作用,对全球气候变化的改善意义深远,李银等[39]研究表明浙江省森林土壤碳库约为植被碳库的3.23倍,本研究与其结论基本一致。研究表明森林枯落物碳储量虽然相对较小,但却是森林生态生态系统重要的组成部分之一,是土壤层碳循环和养分的重要来源[39]。一般水热条件较好的地区,人为干扰较小,枯落物输入量较大,土壤动物和微生物群体活性降低,从而使有机碳保留在土壤中,土壤碳储量相对升高[20,25]。因此,保护好森林枯落物,减少人为因素的干扰能够有效的促进和维持整个森林生态系统碳平衡。本研究中枯落物层碳储量约占全国枯落物层碳储量的 $1 . 2 \%$ ,碳密度平均值为 $1 . 7 9 \ \mathrm { t / h m } ^ { 2 }$ ,低于全国水平$\mathrm { ' } 8 . 2 1 ~ \mathrm { t / h m } ^ { 2 }$ ),可能与当地的水热因子和地域特点等因素有关[20]。同时,本研究添加了森林生态系统枯死木层碳储量 $\stackrel { \prime } { ( 6 . 2 7 \mathrm { ~ T g ~ C ~ } ) }$ ),突破了以往森林生态系统碳库的研究只针对植被、土壤和枯落物层的格局,从本研究可发现,枯死木与枯落物碳储量( $1 0 . 8 4 ~ \mathrm { T g ~ C }$ )结果较为相近,表明枯死木碳库也是森林生态系统中不容忽视的重要碳库,加深了森林生态系统各部分固碳功能的认识。
+
+表4全国不同区域森林生态系统碳储量及碳密度  
+Table 4Forest ecosystem carbon storage and density of different areas in China   
+
+<html><body><table><tr><td>国家/区域 Country/Area</td><td>碳储量 Carbon storage/(Tg C)</td><td>碳密度 Carbon density/(t/hm²)</td><td>文献 References</td><td></td></tr><tr><td>中国China</td><td>28120.00</td><td>258.83</td><td>[20]</td><td></td></tr><tr><td>四川</td><td>2926.81</td><td>232.81</td><td>[25]</td><td></td></tr><tr><td>吉林</td><td>1820.41</td><td>225.30</td><td>[5]</td><td></td></tr><tr><td>陕西</td><td>790.75</td><td>123.70</td><td>[30]</td><td></td></tr><tr><td>浙江</td><td>602.73</td><td>120.80</td><td>[39]</td><td></td></tr><tr><td>浙江</td><td>877.19</td><td>145.22</td><td>本研究</td><td></td></tr></table></body></html>
+
+# 3结论
+
+浙江省森林生态系统平均碳密度为 $1 4 5 . 2 2 \ \mathrm { t / h m } ^ { 2 }$ ,其中植被层碳密度 $2 7 . 3 4 ~ \mathrm { t / h m } ^ { 2 }$ ，土壤层 $1 0 8 . 8 9 ~ \mathrm { { t / h m } ^ { 2 } }$ ，枯落物层 $1 . 7 9 \mathrm { \ t / h m } ^ { 2 }$ ,枯死木层 $1 . 3 8 ~ \mathrm { t / h m } ^ { 2 }$ 。全省森林生态系统碳密度空间分布规律与地形、地势变化相一致,呈现明显的自西南向东北方向逐渐降低的趋势,碳密度空间变异主要受海拔、森林类型、树龄、台风气候以及人类活动等因素影响。
+
+浙江省森林生态系统碳储量约为 $8 7 7 . 1 9 \mathrm { ~ T g ~ C ~ }$ ,其中森林植被、土壤、枯落物和枯死木层碳储量分别为$2 0 3 . 8 8 , 6 5 6 . 2 0 , 1 0 . 8 4 , 6 . 2 7 \mathrm { T g } \mathrm { C } ,$ 。目前浙江省大多数森林虽处于中幼龄林阶段,但是中幼龄林生长速度较快,通过建立健康可持续的森林管理政策,随着时间的推移,浙江省森林生态系统固碳能力将会进一步提升。
+
+# 参考文献（References）:
+
+[1]Ciais P,Tans PP,Trolier M,White JWC，Francey RJ.A large northern hemisphere terrestrial $\mathrm { C O } _ { 2 }$ sink indicated by the ${ } ^ { 1 3 } \mathrm { C } / { } ^ { 1 2 } \mathrm { C }$ ratio ofatmospheric $\mathrm { C O } _ { 2 }$ . Science，1995，269(5227）:1098-1102.  
+[2]FuWJgK,ZG,ZKLUinan'dGSudyhespatialpaeoresliaboesitnuboalnof southeastern China.Biogeosciences，2014，11(8）: 2401-2409.  
+[3]BotkinsoG,ssdbofeoutgtr9.  
+[4]YolasigazHA,KelesSChangesinabstoageadoxygproductioinforestiberboassofBalciForestManageentUniturkebetween 1984 and 2006.African Journal of Biotechnology，2009,8（19）：4872-4883.  
+[5］王新闯，齐光，于大炮，周莉，代力民.吉林省森林生态系统的碳储量、碳密度及其分布.应用生态学报，2011,22（8）：2013-2020.  
+[6]YuGR,ChenZ,iaoSL,PengCH,CiisP,WngQF,LiXR,ZhuXJ.HighcarbndioxideuptakebysubtropicalforestecosstesneEastAsiamosooegioProedsoftetioalcadeyofiecsfteUitedSatesofmica,1）：494915.  
+[7］张骏，袁位高，葛滢，江波，朱锦茹，沈爱华，常杰.浙江省生态公益林碳储量和固碳现状及潜力.生态学报，2010,30(14)：3839-3848.  
+[8］张茂震，王广兴，刘安兴.基于森林资源连续清查资料估算的浙江省森林生物量及生产力.林业科学，2009,45(9)：13-17.  
+[9］张峰，杜群，葛宏立，刘安兴，傅伟军，季碧勇.基于地统计学和CFI样地的浙江省森林碳空间分布研究.生态学报,2012，32（16)：5275-5286.  
+[10]Zhang C S,LuoL， Xu W L,Ledwith V. Use of local Moran's Iand GIS to identify polution hotspots of $\mathrm { P b }$ in urban soils of Galway，Ireland.Science of the Total Environment，2008,398(1/3）：212-221.[11] 浙江省林业厅.浙江省林业自然资源—森林卷.北京：中国农业科学技术出版社，2006：5-9.  
+[12] 陶吉兴，杜群，季碧勇，张国江，傅伟军，徐军，葛宏立，姚鸿文，王文武.浙江森林碳汇功能监测.北京：中国林业出版社，2014.  
+[13] 袁位高，江波，葛永金，朱锦茹，沈爱华.浙江省重点公益林生物量模型研究.浙江林业科技，2009,29（2）：1-5.  
+[14] 鲍士旦.土壤农化分析.北京：中国农业出版社，2007：25-99.  
+[15] LiuZP,ShaoMA，WangYQ.EfectofenviromentalfactorsonregioalsoiloganicarbonstocksacrosstheLoessPlateuregion，ina.Agriculture Ecosystems & Environment,2011,142(3/4）：184-194.  
+[16]ZhaoKL,u,LuXHagagC,YeQ,uJStiriatoooceratiosfcodtssalricesystem in Wenlingof southeastern China.Environmental ScienceandPollution Research,2014,21（11)：7165-7176.  
+[17]Goovaerts P.Geostatistics for Natural Resources Evaluation.New York:Oxford University Press，1997.  
+[18] Goovaerts P.Geostatistics in soil science：state-of-the-art and perspectives.Geoderma,1999,89(1/2)：1-45.  
+[19] Isaaks EH,Srivastava R M.An Introduction to Applied Geostatistics.New York：Oxford University Press,1989.  
+[20] 周玉荣，于振良，赵士洞.我国主要森林生态系统碳贮量和碳平衡.植物生态学报，2000，24(5)：518-522.  
+[21] 李鑫，欧阳勋志，刘琪璟.江西省 2001-2005 年森林植被碳储量及区域分布特征．自然资源学报，2011,26(4)：654-665.  
+[22] 甄伟，黄玫，翟印礼，陈珂，龚亚珍.辽宁省森林植被碳储量和固碳速率变化.应用生态学报，2014，25(5)：1259-1265.  
+[23] 王绍强，周成虎，李克让，朱松丽，黄方红.中国土壤有机碳库及空间分布特征分析.地理学报，200,55(5）：533-544.  
+[24]Ren H,LiLJ,LiuQ,WangX,LiYD,Hui DF,JianSG,WangJ,YangH,LuHF,ZhouGY,TangXL,ZhangQM,Wang D,YuanL,ChenXB.SpatialandtemporalpatesofcarbonstorageinforestcosystemsonHainanIsland，SoutherChina.PLoSOne，2014，9(9):e108163.  
+［25］黄从德.四川森林生态系统碳储量及其空间分异特征[D].雅安：四川农业大学，2008.  
+[26］刘其霞，常杰，江波，袁位高，戚连忠，朱锦茹，葛滢，沈琪．浙江省常绿阔叶生态公益林生物量.生态学报，2005，25(9)：2139-2144.  
+[27]ZangXY,uYangXD,engK，rbrttilvrabiltofutrientpropetsiacklforastCiadospe2007,17(1): 19-29.  
+[28]LiBG，Ca,LuWXhenWR,WangXJ,aoGeostatisicalaalysisndgingfhexachlorocyeaneresidusilfromTianjin，China.Environmental Pollution，2006,142(3）：567-575.  
+[29］高智群，张美剑，赵科理，傅伟军，高伟.土壤——水稻系统重金属空间异质性研究——以浙江省嵊州市为例.中国环境科学,2016，36(1):215-224.  
+[30] 崔高阳，陈云明，曹扬，安淳淳.陕西省森林生态系统碳储量分布格局分析.植物生态学报，2015，39(4)：333-342.  
+[31] 方精云.探索中国山地植物多样性的分布规律.生物多样性，2004，12(1)：1-4.  
+[32]LiXD,LeeSL,WongSC,ShiWZ,orntonLThestudyofmetalcontaminationinurbansoilofHongKongusingaGSbasedarach.Environmental Pollution，2004，129(1）：113-124.  
+[33]CambardellCA,MoanTB,arkinTB,KarlenD，NovakJ,rcoRFKonokaAE.eld-scalevariabilityofsilpopeisncentral Iowa soils. Soil Science Society of America Journal,1994,58(5)：1501-1511.  
+［34］支俊俊.浙江省土壤有机碳估算及其尺度效应研究[D].杭州：浙江大学，2014.  
+[35] Moran P A P.Notes on continuous stochastic phenomena. Biometrika，195O,37(1/2）：17-23.  
+[36]FuWJ,FuZJ,GeH,JiBY,JangPK,LiYF,WuJ,ZaoKLSpatialratioofbiomascabondensitinasubroicaliofsoutheastern China.Forests，2015,6(6）：1966-1981.  
+[37］张佳佳，傅伟军，杜群，张国江，姜培坤.浙江省森林调落物碳密度空间变异特征.林业科学,2014,50（2）：8-13.  
+[38］曹扬，陈云明，晋蓓，渠美.陕西省森林植被碳储量、碳密度及其空间分布格局.干旱区资源与环境，2014，28（9)：69-73.  
+[39］李银，陈国科，林敦梅，陈彬,高雷明，简兴，杨波，徐武兵，苏宏新，赖江山，王希华，杨海波，马克平.浙江省森林生态系统碳储量及其分布特征.植物生态学报，2016，40（4)：354-363.  
+[40]RenY,WeiXHZangL，CuiSH,CenF,XiongYZ,XieP.PotentialforforestvegetatocarbonstorageinFujanProvic,Chia,determined fromforestinventories.Plant and Soil，2011,345(1/2）:125-140.?

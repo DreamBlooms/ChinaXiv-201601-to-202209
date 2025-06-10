@@ -1,0 +1,270 @@
+丝兰提取物对断奶仔猪生长性能、血清抗氧化和免疫指标、粪便中氮磷排放量及微生物数
+
+量的影响
+
+何贝贝’姜建阳」于光辉’赵卫永² 孙朋朋 宋春阳1\*
+
+（1.青岛农业大学动物科技学院，青岛266109；2.蓬莱市南王街道畜牧兽医站，烟台
+
+# 265600)
+
+摘要：本试验旨在研究添加丝兰提取物对断奶仔猪生长性能、血清抗氧化和免疫指标、粪便中氮磷排放量及微生物数量的影响，以确定仔猪饲粮中丝兰提取物的适宜添加水平。试验选择120头28日龄、体重（ $8 . 0 0 { \scriptstyle \pm 0 . 4 6 }$ ）kg的健康“杜 $\times$ 长 $\times$ 大”断奶仔猪，随机分为5个组，每个组4个重复，每个重复6头。Ⅰ组为对照组，饲喂基础饲粮； $\operatorname { I I } \sim \operatorname { V }$ 组分别在基础饲粮中添加90、120、150、 $1 8 0 ~ \mathrm { m g / k g }$ 丝兰提取物。试验期 $2 8 \mathrm { ~ d ~ }$ 。结果表明：1）与对照组相比，I组的平均日增重（ADG）、平均日采食量（ADFI）极显著提高 $( P { < } 0 . 0 1 )$ ，料重比（F/G）显著降低 $_ { ( P < 0 . 0 5 ) }$ ；III、 $\mathrm { I V }$ 、V组的腹泻率显著或极显著降低 $( P { < } 0 . 0 5$ 或P<0.01)。2）与对照组相比，II组血清过氧化氢酶（CAT）、超氧化物歧化酶（SOD）活性和总抗氧化能力（T-AOC）显著提高 $( P { < } 0 . 0 5 )$ 。各组间血清谷胱甘肽过氧化物酶（GSH-Px）活性和丙二醛（MDA）含量无显著差异 $( P { > } 0 . 0 5 )$ 。3）与对照组相比，IⅢ组血清一氧化氮(NO)含量显著提高 $( P { < } 0 . 0 5 )$ ，一氧化氮合酶(NOS)、诱导型一氧化氮合酶(iNOS)活性极显著提高 $( P { < } 0 . 0 1 )$ ；III、 $\mathrm { I V }$ 、V组血清免疫球蛋白 $\mathbf { G }$ （ $\mathrm { I g G }$ ）含量显著提高 $( P { < } 0 . 0 5 )$ 。4）与对照组相比，II组胸腺指数显著提高 $( P { < } 0 . 0 5 )$ 。各组间脾脏指数无显著差异 $( P { > } 0 . 0 5 )$ 。5）与对照组相比，IV组粪便中总氮含量显著降低 $( P { < } 0 . 0 5 )$ ，Ⅱ、IⅢI、IⅣ组粪便中氨态氮含量显著降低 $( P { < } 0 . 0 5 )$ 。各组间粪便中总磷含量无显著差异 $( P { > } 0 . 0 5 )$ 。6）与对照组相比，II、IV组粪便中大肠杆菌数量显著减少 $( P { < } 0 . 0 5 )$ 。各组间粪便中总需氧菌和乳酸杆菌数量无显著差异 $( P { > } 0 . 0 5 )$ 。由此可见，在本试验条件下，建议丝兰提取物在仔猪饲粮中的适宜添加水平为 $1 2 0 \mathrm { m g / k g }$ 。
+
+关键词：丝兰提取物；断奶仔猪；生长性能；免疫指标；抗氧化指标；氮磷中图分类号：S828 文献标识码： 文章编号：
+
+保育仔猪的生产是养猪生产的重要组成部分，环境、饲料添加剂等都是影响仔猪生长性能的因素[1]。研究发现，当猪舍内氨气浓度达到 $1 0 0 ~ { \mu \mathrm { g / k g } }$ 时能对猪的生长发育及生长性能产生极显著影响，寻求一种既能提高仔猪生长性能又能减少有害气体排放的饲料添加剂显得尤为迫切[2-3]。丝兰提取物是丝兰属植物的有效提取成分，是一种能减少动物氨气排放、调节肠道微环境、促进细胞营养及提高动物免疫力的饲料添加剂[4]。Cheeke 等[5]研究表明，丝兰提取物的主要有效成分为皂角苷（皂甙)、多糖及丝兰酚等。丁永敏等[研究表明，丝兰提取物中的皂角苷在动物体内可能有以下3种作用：1)抑制动物体内有害菌的增值，降低有害菌的数量，维持动物体内有益菌与有害菌的比例；2)通过改变消化道上皮细胞膜的形态，减少细胞膜的表面张力，从而促进营养物质的吸收，提高饲料利用率；3)具有良好的免疫特性，能够提高动物体的免疫功能。Johnston 等[7以多种畜禽为研究对象，结果发现：畜禽饲粮中添加丝兰提取物不仅能够降低禽舍内的氨气、硫化氧等有害气体的浓度，还可以提高畜禽对饲料利用率以及畜禽的平均日增重（ADG)。王俐等[8研究发现，添加丝兰提取物使猪舍氨气浓度下降了 $3 3 \% { \sim } 4 6 \%$ ，哺乳母猪采食量平均增加了 $0 . 5 ~ \mathrm { k g / d }$ ，弱仔数显著下降。Min 等发现在饲粮中添加丝兰提取物，能改善猪的胴体长度、等级以及背膘厚度和眼肌面积。王保黎等[1]试验发现，给猪饲喂含有丝兰提取物的饲粮能够降低其排泄物的氨气产量，减少养猪场造成的环境污染，添加水平以 $9 0 ~ \mathrm { g / t }$ 为宜。Colina 等[1研究饲粮调控以减少保育舍氨气浓度，结果表明，与基础饲粮组相比，饲喂含有 $1 2 5 \ \mathrm { m g / k g }$ 丝兰提取物饲粮的断奶仔猪舍内氨气浓度显著降低。本试验通过饲粮中添加不同水平的丝兰提取物，研究其对仔猪生长性能、血清抗氧化和免疫指标、粪便中氮磷排放量及微生物数量的影响，为确定仔猪饲粮中丝兰提取物的适宜添加水平提供科学依据。
+
+# 1材料与方法
+
+1.1 试验材料
+
+试验所用丝兰提取物为美国 DPI配送加工有限公司生产的富兰宝天然类固醇萨洒皂角苷；其中有效成分为总可溶固形物 $123 0 \%$ 、皂角苷 $2 1 0 . 5 \%$ 、B50值 $\leq 1 2 \ \mathrm { m g }$ 。皂角苷含量：丝兰提取物中的许多功能都与皂角苷相关，它的含量应不低于 $10 . 5 \%$ 。B50 值：B50 值分析测定（硝基氰化苯酚法）是衡量丝兰提取物结合氨气的能力，它的数值表示结合 $50 \%$ 的氨气所需要的丝兰提取物的重量。
+
+# 1.2 试验设计
+
+试验选择120头28日龄、体重（ $8 . 0 0 { \scriptstyle \pm 0 . 4 6 }$ ）kg的健康“杜 $\times$ 长 $\times$ 大”断奶仔猪，随机分为5个组，每个组4个重复，每个重复6头（公母各占1/2）。Ⅰ组为对照组，饲喂基础饲粮；试验组（II～V组）分别在基础饲粮中添加90、120、150、 $1 8 0 ~ \mathrm { m g / k g }$ 丝兰提取物。试验期为28d
+
+# 1.3试验饲粮
+
+试验饲粮参考NRC（1998）建议的猪饲养标准配制。基础饲粮组成及营养水平见表 1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>60.20</td></tr><tr><td>豆粕 Soybean meal</td><td>21.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>鱼粉Fish meal</td><td>4.00</td></tr><tr><td>乳清粉Wheypowder</td><td>5.00</td></tr><tr><td>豆油 Soybean oil</td><td>1.80</td></tr><tr><td>酵母Yeast</td><td>2.00</td></tr><tr><td>预混料 Premix1)</td><td>4.00</td></tr><tr><td>小麦Wheat</td><td>2.00</td></tr><tr><td>合计Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>消化能DE/(MJ/kg)</td><td>13.38</td></tr><tr><td>粗蛋白质CP</td><td>19.60</td></tr><tr><td>钙Ca</td><td>0.72</td></tr><tr><td>总磷TP</td><td>0.76</td></tr><tr><td>有效磷AP</td><td>0.54</td></tr><tr><td>食盐NaCl</td><td>0.32</td></tr><tr><td>赖氨酸Lys</td><td>1.31</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of the diet: VA 270 000 IU，VC $2 9 8 ~ \mathrm { m g }$ ， $\mathrm { V D } _ { 3 }$ 1 700 IU，VE $4 3 . 7 5 ~ \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 3 . 1 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 1 . 8 7 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 }$ 6.25 mg， $\mathrm { V B } _ { 6 } 1 2 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 3 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $2 5 ~ \mathrm { m g }$ ，泛酸 calcium pantothenate 15 mg，叶酸 folic acid $0 . 6 5 \mathrm { \ m g }$ ，生物素 biotin $0 . 4 ~ \mathrm { m g }$ ，胆碱choline $6 0 0 ~ \mathrm { { m g } }$ ，Fe (as ferrous sulfate) $1 3 0 ~ \mathrm { m g }$ ， $\mathrm { c u }$ (as copper sulfate) $1 2 ~ \mathrm { m g }$ ， Zn (as zinc sulfate) $1 2 0 ~ \mathrm { m g }$ ， Mn (as manganese sulfate) $5 0 ~ \mathrm { m g }$ ，Ca (as calcium sulfate) $1 0 . 3 5 ~ \mathrm { m g }$ ，Se (as sodium selenite) $0 . 1 6 ~ \mathrm { m g }$ ，Co (as cobalt sulfate) $0 . 1 \mathrm { m g }$ 。
+
+2)消化能为计算值，其余为实测值。DE was a measured value,while the others were measured values.
+
+# 1.4饲养管理
+
+试验在全封闭式猪舍进行，保育床饲养，自由采食、饮水，按照猪场常规饲养管理程序进行免疫和消毒。每天于08:00、12:00、16:00、20:00时观察每圈猪的健康状况。
+
+# 1.5样品采集与处理
+
+血清：于试验的第 29天07:00，每个组选6头接近平均体重的仔猪，前腔静脉采血10mL， $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 分离血清， $- 2 0 \mathrm { { ^ { \circ } C } }$ 保存待测。
+
+粪便：在试验结束前连续3d早上，在每个重复中随机收取4头健康仔猪排出的新鲜的粪便 $ { 4 0 \mathrm { ~ g ~ } }$ 左右，然后以重复为单位进行混合，使用无菌自封袋封装后置入-20℃冰箱内
+
+保存。
+
+组织样品：于试验的第 29天早上每个组选3头接近平均体重的猪，经耳静脉注射盐酸氯丙嗪 $( 3 ~ \mathrm { m g / k g }$ BW)麻醉处死，打开腹腔，取出脾脏和胸腺，用滤纸吸掉血液，去除脂肪后分别称重。
+
+# 1.6测定指标
+
+# 1.6.1生长性能
+
+试验开始时08：00对每头仔猪进行空腹称重，记录初始重，第29天08:00对每头仔猪空腹称重，计算平均日增重；以重复为单位记录给料量和剩余料量，计算平均日采食量（ADFI）和料重比（F/G)；试验期间观察并记录仔猪腹泻情况，计算腹泻率。腹泻率 $( \% ) = 1 0 0 \times$ 累计腹泻猪只头次数/(试验仔猪头数×试验天数)。
+
+# 1.6.2血清抗氧化指标
+
+血清超氧化物歧化酶（SOD）、过氧化氢酶（CAT）、谷胱甘肽过氧化物酶（GSH-Px）活性及丙二醛（MDA）含量均用试剂盒测定，试剂盒购自南京建成生物工程研究所，具体步骤按其说明书使用。
+
+# 1.6.3免疫器官指数
+
+免疫器官指数 $( \mathbf { g } / \mathbf { k } \mathbf { g } ) { = }$ 免疫器官重量/宰前活体重。
+
+# 1.6.4血清免疫指标
+
+血清一氧化氮(NO)、免疫球蛋白G（IgG）含量及一氧化氮合酶(NOS)、诱导型一氧化氮合酶(iNOS)活性均用试剂盒测定，试剂盒购自南京建成生物工程研究所，具体步骤按其说明书使用。
+
+# 1.6.5粪便中氮磷排放量及微生物数量
+
+粪样中氮磷排放量及微生物数量的测定采用田丽新[12]的方法。粪样中的总氮(TN)含量
+
+的测定采用GB/T 6432—1994 中的凯氏定氮法，总磷(TP)含量的测定采用GB/T 6437—2002中的分光光度法。
+
+# 1.7数据处理与统计分析
+
+采用SPSS17.0统计软件对数据进行单因素方差分析和Duncan氏法多重比较， $P { < } 0 . 0 5$ 和$P { < } 0 . 0 1$ 分别为差异显著和极显著，试验数据以“平均值 $\pm$ 标准差"表示。
+
+# 2结果与分析
+
+# 2.1丝兰提取物对仔猪生长性能的影响
+
+由表2可以看出，ⅡI、IⅢI、 $\mathrm { I V }$ 、V组仔猪的平均日增重、平均日采食量均高于I组。平均日增重方面，Ⅲ组比I组提高了 $1 9 . 4 3 \%$ ，差异极显著 $( P { < } 0 . 0 1 )$ ；II、 $\mathrm { I V }$ 、V组分别比I组提高了 $6 . 6 1 \%$ 、 $8 . 8 1 \%$ 、 $6 . 8 8 \%$ ，差异均不显著 $( P { > } 0 . 0 5 )$ ；IⅢ组比ⅡI、V组分别提高了12.02%、 $1 1 . 7 4 \%$ ，差异均显著 $( P { < } 0 . 0 5 )$ ，比IV组提高了 $9 . 7 6 \%$ ，差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+平均日采食量方面，Ⅲ组比I组提高了 $14 . 2 4 \%$ ，差异极显著 $( P { < } 0 . 0 1 )$ ；IV组比I组提高了 $1 1 . 3 7 \%$ ，差异显著 $( P { < } 0 . 0 5 )$ ；IⅢ组与Ⅱ、 $\mathrm { I V }$ 、 $\mathrm { \Delta V }$ 组相比，差异均不显著 $( P { > } 0 . 0 5 )$ 。
+
+料重比方面，IⅢ组最低，显著低于其他各组 $( P { < } 0 . 0 5 )$ ；Ⅱ、 $\mathrm { I V }$ 、 $\mathrm { \Delta V }$ 组与I组相比，差异均不显著 $( P { > } 0 . 0 5 )$ 。
+
+腹泻率方面， $\mathrm { I V }$ 、 $\mathrm { \Delta V }$ 组比I组分别降低了 $57 . 3 2 \%$ 、 $5 3 . 4 8 \%$ ，差异极显著 $( P { < } 0 . 0 1 )$ ，II组比I组降低了 $42 . 8 5 \%$ ，差异显著 $( P { < } 0 . 0 5 )$ ；Ⅱ组比I组降低了 $2 8 . 5 9 \%$ ，差异不显著$( P { > } 0 . 0 5 )$ 。
+
+表2丝兰提取物对仔猪生长性能的影响  
+Table 2 Effects of Yucca schidigera extract on growth performance of piglets   
+
+<html><body><table><tr><td>项目 Items</td><td>I</td><td>I</td><td>IⅢ</td><td>组别 Groups</td><td>IV</td><td>V</td></tr><tr><td>初重</td><td>Initial</td><td>8.06±0.37</td><td>7.95±0.43</td><td>8.03±0.36</td><td>8.02±0.31</td><td>7.97±0.47</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="6">weight/kg</td></tr><tr><td>平均日增重</td><td>384.14±40.88Aab</td><td>409.54±41ABb</td><td>458.78±19.69Bc</td><td>417.98±27.25ABbc</td><td>410.58±32.14ABb</td></tr><tr><td>ADG/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量</td><td>610.23±6.38Aa</td><td>632.16±9.19ABb</td><td>697.18±15.24Bb</td><td>679.61±11.24ABb</td><td>663.22±13.43ABab</td></tr><tr><td>ADFI/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td>1.58±0.05a</td><td>1.55±0.11a</td><td>1.52±0.13b</td><td>1.62±0.32a</td><td>1.61±0.24a</td></tr><tr><td>腹泻率Diarrhea rate/%</td><td>29.17±0.21Aa</td><td>20.83±0.34ABa</td><td>16.67±0.45ABb</td><td>12.45±0.91Bb</td><td>13.57±0.63Bb</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \rangle$ ，不同大写字母表示差异极显著中 $( P { < } 0 . 0 1 )$ ，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with different small leter superscripts mean significant difference （204 $( P { < } 0 . 0 5 )$ , and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same or no letter superscripts mean no significant difference ( ${ \it P } { > } 0 . 0 5 { \it \Psi }$ ). The same as below.
+
+# 2.2丝兰提取物对仔猪血清抗氧化指标的影响
+
+由表3可以看出，Ⅱ、IⅢI、 $\mathrm { I V }$ 、V组的血清CAT活性比I组分别提高了 $4 . 9 6 \%$ 、 $8 . 0 6 \%$ ，$6 . 1 3 \%$ 、 $4 . 7 2 \%$ ，差异均显著 $( P { < } 0 . 0 5 )$ ；ⅢI组的血清SOD活性比I组提高了 $6 . 8 9 \%$ ，差异显著$( P { < } 0 . 0 5 )$ ；各组间血清MDA含量和GSH-Px活性差异不显著 $( P { > } 0 . 0 5 )$ ；ⅡI、II、Ⅳ、V组的血清总抗氧化能力比I组分别提高了 $6 . 1 7 \%$ 、 $9 . 5 2 \%$ 、 $6 . 8 5 \%$ 、 $5 . 4 1 \%$ ，差异均显著$( P { > } 0 . 0 5 ) _ { } $ 。
+
+表3丝兰提取物对仔猪血清抗氧化指标的影响  
+Table 3 Effects of Yucca schidigera extract on serum antioxidant indexes of piglets   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">组别Groups</td></tr><tr><td>I</td><td>I</td><td>Ⅲ</td><td>IV</td><td>V</td></tr><tr><td>过氧化氢酶 CAT/(U/mL)</td><td>46.16±0.95a</td><td>48.45±0.43b</td><td>49.88±0.20c</td><td>48.99±0.25b</td><td>48.34±0.33b</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>121.66±1.93a</td><td>123.48±1.13a</td><td>130.16±0.92b</td><td>122.05±0.12a</td><td>124.66±0.74a</td></tr><tr><td>丙二醛</td><td>3.52±0.15</td><td>3.41±0.02</td><td>3.40±0.08</td><td>3.39±0.23</td><td>3.42±0.11</td></tr><tr><td>MDA/(nmol/mL) 谷胱甘肽过氧化物</td><td>127.51±2.36</td><td>133.58±2.63</td><td>132.49±2.04</td><td>135.18±3.42</td><td>130.24±2.25</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="6">酶</td></tr><tr><td>GSH-Px/(U/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总抗氧化能力</td><td>13.13±0.13a</td><td>13.94±0.08b</td><td>14.38±0.25c</td><td>14.03±0.11b</td><td>13.84±0.07b</td></tr><tr><td>T-AOC/(U/mL)</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.3丝兰提取物对仔猪血清免疫指标的影响
+
+由表4可以看出，IⅢ、IⅣ、 $\mathrm { \Delta V }$ 组血清IgG含量比I组分别提高了 $6 . 8 0 \%$ 、 $7 . 7 7 \%$ 、$5 . 8 3 \%$ ，差异均显著 $( P { < } 0 . 0 5 )$ 。I、II、 $\mathrm { I V }$ 、V组血清NO含量比I组分别提高了 $3 . 0 3 \%$ 、$1 7 . 9 1 \%$ 、 $4 . 3 4 \%$ 、 $8 . 6 6 \%$ ，其中只有IⅢ组与I组之间差异显著 $( P { < } 0 . 0 5 )$ 。与I组相比，Ⅲ组血清NOS活性提高了 $2 6 . 4 2 \%$ ，差异极显著 $( P { < } 0 . 0 1 )$ ；IV组提高了 $1 3 . 4 0 \%$ ，差异显著$( P { < } 0 . 0 5 )$ 。II组血清iNOS活性比I组提高了 $1 7 . 4 3 \%$ ，差异极显著 $( P { < } 0 . 0 1 )$ ；IV组比I组提高了 $1 0 . 2 2 \%$ ，差异显著 $( P { < } 0 . 0 5 )$ 。
+
+# 表4丝兰提取物对仔猪血清免疫指标的影响
+
+Table 4 Effects of Yucca schidigera extract on serum immune indexes of piglets   
+
+<html><body><table><tr><td>项目</td><td colspan="5">组别Groups</td></tr><tr><td>Items</td><td>I</td><td>I</td><td>III</td><td>IV</td><td>V</td></tr><tr><td>免疫球蛋白G IgG/(g/L)</td><td>1.03±0.02a</td><td>1.05±0.04a</td><td>1.10±0.03b</td><td>1.11±0.09b</td><td>1.09±0.03b</td></tr><tr><td>一氧化氮 NO/(umol/L)</td><td>52.75±9.23a</td><td>54.35±8.81ab</td><td>62.20±4.33b</td><td>55.04±3.86ab</td><td>57.32±5.04ab</td></tr><tr><td>一氧化氮合成 酶</td><td>30.81±2.64Aa</td><td>31.55±2.67Aa</td><td>38.95±2.59Bb</td><td>34.94±2.83ABb</td><td>33.13±3.39ABa</td></tr><tr><td>NOS/(U/mol) 诱导型一氧化 氮合成酶 iNOS/(U/mol)</td><td>7.63±0.64Aa</td><td>7.98±0.36Aa</td><td>8.96±0.11Bb</td><td>8.41±0.31ABb</td><td>7.99±0.17Aa</td></tr></table></body></html>
+
+# 2.4丝兰提取物对仔猪免疫器官指数的影响
+
+由表5可以看出，与I组相比，I组显著提高了仔猪的胸腺指数 $( P { < } 0 . 0 5 )$ ，Ⅱ、 $\mathrm { I V }$ 、V组虽然也提高了胸腺指数，但差异不显著 $( P { > } 0 . 0 5 )$ 。与I组相比，I、II、 $\mathrm { I V }$ 、V组均提高仔猪的脾脏指数，但差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+# 表5丝兰提取物对仔猪免疫器官指数的影响
+
+Table 5 Effects of Yucca schidigera extract on immune organ index of piglets g/kg   
+
+<html><body><table><tr><td>项目</td><td colspan="5">组别Groups</td></tr><tr><td>Items</td><td>I</td><td>I</td><td>III</td><td>IV</td><td>V</td></tr></table></body></html>
+
+<html><body><table><tr><td>胸腺指数 Thymus index</td><td>1.45±0.17a</td><td>1.47±0.13a</td><td>2.03±0.23b</td><td>1.71±0.34a</td><td>1.55±0.38a</td></tr><tr><td>脾脏指数</td><td>1.51±0.20</td><td>1.59±0.19</td><td>1.67±0.29</td><td>1.71±0.38</td><td>1.61±0.14</td></tr></table></body></html>
+
+# 2.5 丝兰提取物对仔猪粪便中氮磷排放量的影响
+
+由表6可以看出，IV组粪便中总氮含量最低，与I组相比，降低了 $4 . 7 3 \%$ ，差异显著$( P { < } 0 . 0 5 )$ ；Ⅱ、I、V组也低于I组，但差异不显著 $( P { > } 0 . 0 5 )$ 。ⅡI、II、IⅣ组粪便中氨态氮含量显著低于I组 $( P { < } 0 . 0 5 )$ ，分别降低了 $14 . 7 1 \%$ 、 $1 7 . 6 5 \%$ 、 $1 3 . 2 4 \%$ ；V组也低于I组，但差异不显著 $( P { > } 0 . 0 5 )$ 。与I组相比，ⅡI、III、 $\mathrm { I V }$ 、 $\mathrm { \Delta V }$ 组粪便中总磷含量均降低，但差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+Table 6 Effects of Yucca schidigera extract on fecal nitrogen and phosphorus emission of piglets   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">组别Groups</td></tr><tr><td>I</td><td>II</td><td>Ⅲ</td><td>IV</td><td>V</td></tr><tr><td>总氮 Total nitrogen%</td><td>3.38±0.10a</td><td>3.35±0.07a</td><td>3.32±0.06a</td><td>3.22±0.04b</td><td>3.29±0.11a</td></tr><tr><td>总磷 Total phosphorus%</td><td>4.94±0.13</td><td>4.82±0.10</td><td>4.83±0.05</td><td>4.77±0.06</td><td>4.87±0.09</td></tr><tr><td>氨态氮 Ammonia nitrogen/(mg/g)</td><td>0.68±0.04a</td><td>0.58±0.04b</td><td>0.56±0.05b</td><td>0.59±0.04b</td><td>0.61±0.05ab</td></tr></table></body></html>
+
+2.6丝兰提取物对仔猪粪便中微生物数量的影响
+
+由表 7可以看出，ⅡI、I、IV、V组粪便中总需氧菌数量均低于I组，但差异不显著$( P { > } 0 . 0 5 )$ 。II、IV组粪便中大肠杆菌数量显著低于I组 $( P < 0 . 0 5 )$ ，分别降低了 $4 . 2 6 \%$ 、$4 . 8 1 \%$ ；Ⅱ、V组也低于I组，但差异不显著 $( P { > } 0 . 0 5 )$ 。I、III、 $\mathrm { I V }$ 、 $\mathrm { \Delta V }$ 组粪便中乳酸杆菌数量均高于I组，但差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+# 表7丝兰提取物对仔猪粪便中微生物数量的影响
+
+表6丝兰提取物对仔猪粪便中氮磷排放量的影响  
+Table 7 Effects of Yucca schidigera extract on fecal microorganism number of piglets lg(CFU/g)   
+
+<html><body><table><tr><td>项目</td><td colspan="5">组别 Groups</td></tr><tr><td>Items</td><td>I</td><td>I</td><td>IⅢI</td><td>IV</td><td>V</td></tr><tr><td>总需氧菌 Total</td><td>9.10±0.04</td><td>8.98±0.05</td><td>8.96±0.08</td><td>8.72±0.23</td><td>8.99±0.16</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="6">bacteria</td></tr><tr><td>大肠杆菌</td><td>7.28±0.10a</td><td>7.13±0.05a</td><td>6.97±0.07b</td><td>6.93±0.12b</td><td>7.04±0.08ab</td></tr><tr><td>Escherichia coli</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乳酸杆菌</td><td>7.44±0.07</td><td>7.59±0.31</td><td>7.62±0.14</td><td>7.58±0.25</td><td>7.61±0.16</td></tr><tr><td>Lactobacillus</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1丝兰提取物对仔猪生长性能的影响
+
+平均日增重、平均日采食量、料重比是衡量仔猪生长性能的3个主要指标，由本次试验数据来看，饲粮中添加丝兰提取物能够提高仔猪的平均日增重、平均日采食量，降低料重比。郑光耀[13]报道，丝兰提取物能够提高仔猪生长性能，而且还可以显著降低猪场的臭气浓度；罗想林等[14]以后备种猪作为研究对象，研究表明：在后备种猪饲粮中添加 40$\mathrm { m g / k g }$ 的丝兰提取物，与对照组相比，试验组后备种猪的平均日增重提高了 $6 . 2 \%$ ，料重比降低了 $3 . 6 \%$ ，并能有效降低种猪眼结膜炎发生率，这与本试验结果相似。高建忠等[15]报道，仔猪一般在断奶后 $3 { \sim } 4 \mathrm { ~ d ~ }$ 开始出现腹泻，1周左右仔猪腹泻达到高峰，窝腹泻频率最高可达 $3 2 . 4 \%$ ，2周后便逐渐下降。本试验结果与此基本一致，在试验的4\~7d仔猪的腹泻率为高峰， $1 2 \mathrm { d }$ 之后趋于稳定，各试验组腹泻率均低于对照组。
+
+# 3.2丝兰提取物对仔猪血清抗氧化指标的影响
+
+血清中GSH-Px、SOD、CAT 活性及 MDA 含量、T-AOC 均是反映机体抗氧化能力的重要指标[15-16]。刘汝祥等[17]和范石军等[18]研究表明，动物血清 MDA 的含量能够反映机体内脂质过氧化的程度，一定程度上可以间接地反映出细胞受损伤的程度，血清 MDA 含量越高，则表明机体细胞受损伤的程度越大；血清 MDA含量越低，则表明机体细胞受损伤程度较小。T-AOC 是用于衡量机体抗氧化综合性指标，是反映机体抗氧化能力的一个综合性指标[19]。万善霞等[20研究表明，GSH-Px 有 4 种不同的类型，其中使用最多的为血清GSH-Px。徐先祥等[21研究表明，丝兰提取物中的皂甙具有抗氧化作用。李广等[22]报道，皂甙具有免疫调节的作用。本试验结果显示，仔猪饲粮中添加丝兰提取物可以提高仔猪血清 T-AOC 及CAT、SOD、GSH-Px 活性，降低血清 MDA含量，表明在本试验条件下，饲粮中添加丝兰提取物可以提高仔猪血清抗氧化能力。
+
+# 3.3丝兰提取物对仔猪血清免疫指标的影响
+
+IgG 具有抗菌、抗病毒等免疫活性[23]。郭俊清[24]报道，血清 IgG 含量与机体体液免疫功能呈正比例关系。刘莉如等[25报道，IgG 是抗感染的主要抗体，可通过经典途径激活补体，对细胞性抗原可产生抗体依赖性的细胞介导的细胞毒(AD-CC)作用及调理作用。本试验中，与对照组相比，试验组仔猪血清中的 IgG 含量均高于对照组，分析其原因可能是丝兰提取物中的有效成分刺激脾脏和淋巴的浆细胞，产生更多的 IgG 参与免疫应答。NO 是一种非常重要的生理性的细胞内及细胞间的信号分子，在免疫神经及循环等系统中起着重要作用，多糖促进 NO 合成的机制可能是通过激活淋巴细胞，促进iNOS 基因表达，使iNOS 合成增加，进而促进 NO 的合成与分泌[26]。本试验中，试验组的血清 NO 含量及NOS、iNOS 活性均高于对照组，这与肖华丽等[27]和王建文等[28]研究结果相似。分析原因，可能与是丝兰提取物中的成分可以刺激淋巴细胞，促进iNOS 的表达，进而提高血清NOS 的活性，增加血清NO的含量，从而提高动物机体的免疫能力。
+
+# 3.4丝兰提取物对仔猪免疫器官指数的影响
+
+胸腺是仔猪细胞免疫的中枢器官，属于一级免疫器官；脾脏是仔猪外周免疫器官，属于二级器官。脾脏内大约含有 $40 \%$ 的T细胞和 $60 \%$ 的 B细胞，在动物机体的体液免疫中具有重要作用[29]。Rivas 等[30]研究认为，免疫器官指数可以直接反映动物机体免疫功能的强弱。本试验中，试验组的胸腺指数均高于对照组，且组效果最好；试验组的脾脏指数均高于对照组，说明丝兰提取物可以提高仔猪胸腺及脾脏的生长，进而提高仔猪的免疫能力。
+
+# 3.5丝兰提取物对仔猪粪便中氮磷排放量的影响
+
+陈华洁[31将不同水平的丝兰提取物添加到鸡的排泄物中，来比较它们对氨态氮含量等的影响，结果表明：不同水平的丝兰提取物均能显著降低鸡排泄物中氨态氮含量，且添加水平为 $0 . 0 2 4 ~ \mathrm { g / L }$ 效果最好。这与本试验结果相似，本试验中，试验组均能降低仔猪粪便中氨态氮含量，且ⅡI、III、IⅣ组能显著降低仔猪粪便中氨态氮含量，分析原因可能是丝兰提取物中的有效成分可以减缓尿素分解产生氨气的速度，具有类似脲酶抑制剂的作用。在本试验条件下，试验组均能降低仔猪粪便中总氮和总磷的含量，表明丝兰提取物能够提高仔猪对饲粮中氮和磷的利用率，从而使仔猪粪便中的总氮和总磷含量低于对照组。
+
+3.6丝兰提取物对仔猪粪便中微生物数量的影响
+
+仔猪消化道内存在大量的有益微生物，这些微生物对仔猪的营养吸收起着重要的作用，同时乳酸菌和大肠杆菌被认为是指示肠道健康的主要菌群[32]。Murali 等[33]和 Castilo等[34]研究表明，动物消化道及肠道内中乳酸菌与大肠杆菌的比值是检测肠道菌群平衡状态的指示指标，它们之间数量的相对多少，可以反映出肠道内菌群的健康状况；若动物肠道内乳酸菌数量高于大肠杆菌数量，则能够促进有益菌对肠道病原菌抑制作用的发挥，对动物生长有益；若大肠杆菌数量高于乳酸菌数量，则会引起动物消化道内有害微生物的生长，影响动物生长。本试验条件下，饲粮中添加丝兰提取物可以降低粪便中总需氧菌、大肠杆菌的数量，提高粪便中乳酸杆菌的数量，在一定程度上反映了仔猪肠道内微生物的种类及数量，提高有益菌乳酸杆菌数量，降低有害菌大肠杆菌数量，可以调节仔猪肠道内的微平衡。
+
+# 4结论
+
+$\textcircled{1}$ 仔猪饲粮中添加丝兰提取物可提高仔猪生长性能、血清抗氧化和免疫指标，减少氮磷排放量，改善肠道微生物平衡。
+
+$\textcircled{2}$ 在本试验设计条件下，综合各项指标，建议仔猪饲粮中丝兰提取物的适宜添加水平
+
+为 $1 2 0 ~ \mathrm { m g / k g }$ 。
+
+参考文献：
+
+[1]王喆.仔猪的饲养与健康管理[J].中国动物保健,2016(2):14-15.[2]白兆鹏,朱海生,高云峰.畜禽舍内氨气减排措施的研究进展[J].饲料博览,2011(9):38-40.[3]崔玉华.猪舍内氨气的危害及其控制措施[J].现代畜牧科技,2017(2):39.[4]崔秀梅,杨在宾,杨维仁,等.丝兰提取物在畜禽生产中的应用研究[J].饲料广角,2011(5):43-
+
+44.
+
+[5] CHEEKE P R.Actual and potential applications of Yucca schidigera and Quillja saponaria saponins in human and animal nutrition[M]//OLESZEK W,MARSTON A.Saponins in Food, Feedstuffs and Medicinal Plants.Netherlands:Springer,2000.
+
+[6]丁永敏.丝兰提取物对肉鸡生产性能、血液生化指标和养分利用率影响的研究[D].硕士学位论文.泰安：山东农业大学,2010
+
+[7] JOHNSTON N L,QUARLES C L,FAGERBERG D J,et al.Evaluation of yucca saponin on broiler performance and ammonia suppression[J].Poultry Science,1981,60(10):2289-2292.
+
+[8]王俐,张红星,朱鹤岩.益生菌和丝兰提取物降低猪舍有害气体浓度的效果试验[J].饲料工业,2007,28(23):29-31.
+
+[9]MIN T S,KIM J D,HYUN Y,et al.Effects of environmentally friendly agents on growth performance,nutrient digestibility,nutrient excretion and carcass charac-teristics in growingfinishing pigs[J].Asian-Australasian Journal of Animal Sciences,2001,14(4):540-547.
+
+[10]王保黎,樊信鹏,卢丽,等.丝兰属植物提取物降低猪舍氨气浓度的试验[J].畜禽业,2010(9):52-55.
+
+[11] COLINA JJ,LEWIS A J,MILLER P S,et al.Dietary manipulation to reduce aerial am-monia concentrations in nursery pig facilities[J].Animal Science,2001,79(12):3096-3103.
+
+[12] 田丽新.丝兰提取物对奶牛产奶性能、免疫功能和氨气排放的影响[D].硕士学位论文.呼和浩特:内蒙古农业大学,2014.
+
+[13]郑光耀.丝兰提取物对猪场环境污染及猪生长性能的影响[J].林产化工通 讯,2000,34(2):26-28.
+
+[14]罗想林,谢丕雄,万熙卿.丝兰宝对后备种猪生长性能及舍内氨气浓度的影响[J].养 猪,2004,22(3):40-41.
+
+[15]高建忠,黄克和.动物硒蛋白研究进展[J].畜牧与兽医,2004,36(7):39-42.
+
+[16] SZCZUBIAL M,KANKOFER M,WAWRON W.The dynamics of changes in erythrocyte glutathione peroxidase activity and serum selenium content during the periparturient period in sows[J].Polish Journal of Veterinary Sciences,2004,7(1):21-26.
+
+[17] 刘汝祥,侯明海,李彦芹,等.不同维生素 A水平对荷斯坦种公牛血液抗氧化指标的影响[J].西南农业学报,2008,21(3):798-801.
+
+[18] 范石军,韩友文,李德发,等.雏鸡高温应激与超氧化处理对其肝脏丙二醛和谷胱甘肽 过氧化物酶含量及活性的影响[J].中国饲料,2001(10):11-13.
+
+[19] 朱宏娟.不同硒源及硒水平对肉仔鸡生产性能和血液抗氧化指标的影响[D].硕士学位论文.长沙：湖南农业大学,2006.
+
+[20] 万善霞,滑静,张淑萍.牛初乳对仔猪血清抗氧化酶活性及丙二醛水平的影响[J].北京农学院学报,2008,23(4):5-6,40.
+
+[21]徐先祥,夏伦祝,高家荣.中药皂苷类物质抗氧化作用研究进展[J].中国中医药科技,2004,11(2):126-128.
+
+[22]李广,李浩波,刘璐,等.皂甙的生理活性及其应用研究进展[J].畜物兽医科学,2003,19(6):3-6.
+
+[23] 谢红兵.复方中草药免疫增强剂对断奶仔猪免疫功能的影响[D].硕士学位论文.福州:福建农林大学,2004.
+
+[24]郭俊清.亮氨酸及 $\beta$ -羟基 $\cdot \beta$ -甲基丁酸钙对绒山羊免疫机能和生产性能影响的研究[D].硕士学位论文.呼和浩特:内蒙古农业大学,2009.
+
+[25] 刘莉如,滑静,王晓霞,等.抗菌肽对蛋用仔公鸡血液免疫指标和肠道菌群的影响[J].动物营养学报,2012,20(9):1812-1818.
+
+[26]陈洪亮.植物多糖的制备及对肉仔鸡免疫功能影响的研究[D].博士学位论文.北京:中国农业科学院,2002.
+
+[27]肖华丽,侯永清,丁斌鹰,等.复合免疫增强剂对断奶仔猪生长性能、血浆生化及免疫指标的影响[J].饲料工业,2008,29(20):6-8.
+
+[28]王建文,牟其芸.部分中草药复方的免疫增强作用和兽医临床应用[J].中兽医学杂 志,1990(4):36-38.
+
+[29]呙于明.动物免疫营养[M].北京:科学出版社,2011:6-30.
+
+[30] RIVAS A L,FABRICANT J.Indication of immunodepression in chickens infected with various strains of Marek's disease virus[J].Avian Diseases,1988,32(1):l-8.
+
+[31]陈华洁.樟科、蒜属、丝兰属植物提取物对肉鸡排泄物中氨挥发的影响及其机理探讨[D].硕士学位论文.杭州:浙江大学,2006.
+
+[32] CASTILLO M C,MARTiN-ORUE S M,MANZANILLA E G,et al.Quantification of total bacteria,Enterobacteria and Lactobacilli populations in pig digesta by real-time PCR[J].Veterinary Microbiology,2006,114(1/2):165-170.
+
+on the coliform and Lactobacilus flora of intestinal tissue and feces from piglets[J].Journal of Food Protection,1977,40(5):288-295.
+
+[34] CASTILLO M,MARTiN-ORIUE S M,ANGUITA M,et al.Adaptation of gut microbiota to corn physical structure and different types of dietary fibre[J].Livestock Science,2007,109(1/2/3):149-152.
+
+Effects of Yucca schidigera Extract on Growth Performance, Serum Antioxidant and Immune Indexes,Fecal Nitrogen and Phosphorus Emisson and Microorganism Number of Weaner Piglets HE Beibeil JIANG Jianyang' YU Guanghui' ZHAO Weiyong² SUN Pengpeng' SONG Chunyang1\*
+
+(1. College of Animal Science and Technology, Qingdao Agricultural University, Qingdao 266109, China; 2. Animal Husbandry and Veterinary Station of Penglai Nanwang Sub-District, Yantai
+
+265600, China)
+
+Abstract: The objective of this experiment was to study the effect of Yucca schidigera extract on growth performance,serum antioxidant and immune indexes， fecal nitrogen and phosphorus emission and microorganism number of weaner piglets, and to found the optimal supplemental level of Yucca schidigera extract for piglets. A total of 120 twenty-eight-day-old weaner piglets (Duroc $\times$ LandracexLarge) with the body weight of $( 8 . 0 0 { \pm } 0 . 4 6 ) ~ \mathrm { k g }$ were randomly divided into 5 groups with 4 replicates per group and 6 piglets per replicate. The control group (group I） was fed a basal diet, and the groups $\mathrm { I I }$ to $\mathrm { \Delta V }$ were fed the basal diet supplemented with 90,120,150 and $1 8 0 ~ \mathrm { m g / k g }$ Yucca schidigera extract, respectively. The experiment lasted for 28 days. The results showed as follows: 1) compared with the control group, the average daily gain (ADG) and average daily feed intake (ADFI) of group III was significantly increased $( P { < } 0 . 0 1 )$ ,the feed to gain ratio (F/G) of group III was significantly decreased $( P { < } 0 . 0 5 )$ ,and the diarrhea rate of groups III, $\mathrm { I V }$ and $\mathrm { \Delta V }$ was significantly decreased ( $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ or $P { < } 0 . 0 1$ ).2）Compared with the control group,the catalase (CAT), superoxide dismutase (SOD) activities and total antioxidant capacity (T-AOC) in serum of group III were significantly increased $( P { < } 0 . 0 5 )$ . There were no significant difference on glutathione peroxidase (GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ ）activity and malondialdehyde(MDA） content in serum among all groups $( P { > } 0 . 0 5 )$ . 3) Compared with the control group,the serum nitric oxide (NO) content of group II was significantly increased $( P { < } 0 . 0 5 )$ ，and the serum nitric oxide synthase (NOS) and inducible nitric oxide synthase in plasma (iNOS) activities of group Il were significantly increased $( P { < } 0 . 0 1 )$ ,the serum immunoglobulin G content of groups III， IV and V was significantly increased $( P { < } 0 . 0 5 )$ . 4) Compared with the control group,the thymus index of group II was significantly increased $( P { < } 0 . 0 5 )$ . There were no significant difference on spleen index among all groups $( P { > } 0 . 0 5 )$ . 5) Compared with the control group,the fecal total nitrogen content of group $\mathrm { I V }$ was significantly decreased $( P { < } 0 . 0 5 )$ ,the fecal ammonia nitrogen content of groups $\mathrm { I I }$ , III and $\mathrm { I V }$ was significantly decreased $( P { < } 0 . 0 5 )$ . There were no significant difference on fecal total phosphorus content among al groups $( P { > } 0 . 0 5 )$ . 6) Compared with the control group, the fecal Escherichia coli number of groups IIl and $\mathrm { I V }$ was significantly decreased $( P { < } 0 . 0 5 )$ ： There were no significant difference on fecal total aerobic bacteria and Lactobacillus number among all groups $( P { > } 0 . 0 5 )$ .In conclusion,under this experiment condition, the dietary optimal supplemental level of Yucca schidigera extract for piglets is $1 2 0 ~ \mathrm { m g / k g }$
+
+Key words: Yucca schidigera extract; weaner piglets; growth performance; immune index; antioxidant index; nitrogen and phosphorus

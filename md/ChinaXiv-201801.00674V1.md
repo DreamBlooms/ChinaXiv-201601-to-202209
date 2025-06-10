@@ -1,0 +1,136 @@
+基础研究
+
+# 孕鼠交通性污染物暴露对其子代雄性辜丸DNA甲基化水平的 影响
+
+唐旭,夏茵茵,唐靖媛,代华，刘星灿,程淑群,孟盼，张瑞源  
+重庆医科大学公共卫生与管理学院医学与社会发展研究中心,健康领域社会风险预测治理协同创新中心，重  
+庆400016
+
+摘要：目的探讨孕鼠交通性污染物暴露对其雄性子代生殖系统和睾丸细胞DNA甲基化水平的影响。方法 将孕鼠随机分为对照组和暴露组，暴露组孕鼠置于重庆市主城区某主要交通枢纽的隧道，从受孕第4天(d4)至d14每天染毒 $^ { 8 \mathrm { ~ h ~ } }$ ，子代分娩后饲养至性成熟。在孕鼠染毒的d4、d8、d12、d14+对交通要道进行交通性污染物的采集和检测。暴露组和对照组各取3只子代雄鼠辜丸进行RRBS甲基化测序并用qRT-PCR方法检测目的基因Aldh7a1和 $R p e$ 的mRNA表达水平。结果交通要道的交通性污染物TSP、PM2.5、PM10、NOx的浓度和噪声分贝都超过对照组,差异有统计学意义( $_ { ( P < 0 . 0 5 ) }$ 。与对照组比较，暴露组子代雄鼠睾丸细胞基因组有23个基因甲基化表达水平升高,35个基因甲基化表达水平降低 $( P { < } 0 . 0 5 )$ ,这些基因几乎涉及主要生精过程。与对照组相比，暴露组Aldh7al和Rpe基因相对表达量减少。结论 交通性污染物使子代雄性睾丸发生DNA甲基化的改变,可能是导致现代社会男性生殖功能受损的原因之一。
+
+关键词：交通性污染物;孕期暴露;雄性子代;生殖系统;DNA甲基化
+
+# Effects of maternal exposure to vehicle exhaust on the reproductive system and DNA methylation in male offspring mice
+
+TANG $X u ,$ XIA Yinyin,TANG Jingyuan,DAIHua,LIU Xingcan,CHENG Shuqun,MENGPan ZHANG Ruiyuan ResearchCentefedicinedocialeeloment,oatioCenterforcialisoeranceialthholofublclt Management,Chongqing Medical University, Chongqing 40oo16,China
+
+Abstract: Objective To explore theefectof exposure to vehicle exhaust in pregnant mice on the reproductive function and DNA methylation in male ofspring mice. Methods Twenty pregnant mice were randomized into control group and vehicle exhaust exposure group $( n { = } 1 0 )$ and exposed to routine laboratory condition and to vehicle exhaust for 10 consecutive days ( $^ { \mathrm { ~ 8 ~ h ~ } }$ per day) in a tunnel with a heavy trafic, where the concentrations of TSP, PM10,PM2.5, $\mathrm { S O } _ { 2 }$ and NOX and the decibel of noise were measured.Theoffspringmice wereraisedtillreaching maturityandtheepididymidesof themalemice werecolletedto testthe weightcoeficients,DNAmethylationlevel,andmRNAlevelsofAdh7alandRpe.ResultsThebody weightandthe weightcoeficients of theepididymidesand testes difered significantlybetween theexposuregroupandthecontrolgroup $P >$ 0.05). The concentrations of TSP, PM2.5, PM10 and $\operatorname { N O x }$ and the decibel of noise were significantly higher in the traffic environment and the control environment $_ { ( P < 0 . 0 5 ) }$ . Reduced representation bisulphite sequencing (RRBS) and Gene ontology (GO)showed that 58 genes had significantly diferent methylation levels between the two groups, mostly relating to the process of spermatogenesis $( P { < } 0 . 0 5 )$ . Compared with the control group,Aldh7a1 and Rpe mRNA expressons in the testes were down-regulated significantly in the exposure group $_ { ( P < 0 . 0 5 ) }$ . Conclusion Exposure of pregnant mice to vehicle exhaust causes damages of the reproductive function in the male ofspring mice.
+
+Key words: vehicle exhaust; exposure, pregnancy; ofspring mice; reproductive system; DNA methylation近50年来男性精子质量呈现逐渐下降趋势[1],人群流行病学调查和大量的动物实验发现城市大气环境污染是影响男性生殖健康的重要原因，而交通性污染是城市大气环境污染的首要污染源。机动车尾气中的主要污染物如颗粒物2、BaP、内分泌干扰物4等均对生殖系统有明确的毒性作用，噪声振动联合作用对胚胎发育有影响[5]。有研究表明[67],环境污染物能够促进生殖系细胞表观遗传标志(DNA甲基化)发生改变，这些改变与男性不育症，男性弱精症等相关且多代遗传。国内外研究发现交通性污染物对雄性生殖系统有明确直接作用，但孕期母鼠暴露对其子代的影响还未见相关报道本实验通过建立孕鼠交通性污染物暴露模型，应用高通量的甲基化测序技术（reducedrepresentationbisulfitesequencing,RRBS)研究交通性污染物对子代雄性小鼠睾丸细胞DNA甲基化水平的影响。探讨孕期母鼠暴露对其雄性子代生殖系统的影响及可能机制，为交通性污染物对男性生殖健康危害的可能机制提供理论依据。
+
+# 1材料和方法
+
+# 1.1孕鼠模型的构建
+
+选择清洁级C57BL/6J种系性成熟小鼠，体质量$2 0 { \sim } 2 5 \ \mathrm { g }$ ，由重庆医科大学动物实验中心提供。适应性喂养(温度 $2 0 { \sim } 2 5 ~ \mathrm { \textdegree C }$ 湿度 $45 \% { \sim } 5 5 \%$ 、自由饮食和进水)一周后，按1:2(雄性:雌性)于晚上9:00合笼,次日早晨$8 : 0 0$ 查雌鼠阴栓，查到阴栓者定为受孕第0天(d0)，次日记为孕1d(d1)，以此推算孕龄。
+
+# 1.2汽车尾气染毒模型的建立
+
+选取重庆市主城区某交通枢纽的隧道作为染毒地点。将20只孕鼠随机分为暴露组和对照组，每组10只。将暴露组孕鼠放于染毒地点进行染毒，每天染毒 $8 \mathrm { ~ h ~ }$ $( 9 : 0 0 { \sim } 1 7 : 0 0 )$ ,从d4染毒至d14,共染毒 $1 0 \mathrm { d } .$ 。其余时间及对照组都分笼饲养于重庆医科大学动物实验中心普通级，温度 $( 2 1 \pm 1 ) \mathrm { { ^ { \circ } C } }$ ,相对湿度 $4 0 \% { \sim } 6 0 \%$ ，自由进食和饮水。d18后将孕鼠单笼喂养直至其自然分娩。子代出生后正常饲养至性成熟(55日龄)。
+
+# 1.3交通性污染物采集和测定
+
+分别在孕鼠染毒的d4、d8、d12、d14进行采样。TSP、 $\mathrm { P M } _ { 1 0 } , \mathrm { P M } _ { 2 . 5 }$ ：美国LIGHTHOUSE尘埃粒子计数器。 $\mathrm { S O } _ { 2 }$ ：盐酸付玫瑰品红比色法。NOx：盐酸萘乙二胺比色法。噪声：日本理音RIONNL-42噪声分析仪。同时记录环境温度、湿度、气流、辐射等气象条件，并使用统一表格详细记录采样过程。
+
+# 1.4睾丸组织脏器系数
+
+将暴露组和对照组子代雄鼠喂养至性成熟后用乙醚麻醉法处死小鼠，立即摘取双侧睾丸和附睾，剔除脂肪组织并用滤纸吸去组织表面的水份，称重并记录辜丸和附辜组织质量，计算脏器系数：脏器系数 $\ : : = \ :$ 脏器质量（g)/体质量 $( \mathrm { g } ) { \times } 1 0 0 \%$ 。
+
+# 1.5睾丸组织DNA的提取
+
+暴露组和对照组各3只雄鼠各取 $0 . 0 5 ~ \mathrm { g }$ 睾丸组织放入研钵中磨碎，加DNA提取液 $1 0 ~ \mathrm { m L }$ （含 $1 0 ~ \mathrm { m L / L }$ Tris-cl pH8.0,0.1 mol/L EDTA, $\mathrm { P h ~ 8 . 0 , 0 . 5 ~ g / L }$ SDS),蛋白酶K消化， $5 5 ~ \mathrm { { ^ { \circ } C } }$ 水浴过夜，饱和酚/氯仿抽取DNA，冰乙醇沉淀DNA，常温晾干，加水溶解，紫外分光光度计检测DNA浓度及纯度。
+
+1.6RRBS测序
+
+提取出来的DNA用于HiSeq2500双端 $2 \times 1 0 0$ bpc测序模式检测。步骤如下：DNA质量检测合格的样品用于文库构建；使用限制性内切酶MspI对大片段DNA样品进行酶切处理，富集 $\mathbf { C } \mathbf { p } \mathbf { G }$ 区域;对酶切后的DNA片段进行末端修复，在3端加上碱基"A"；用电泳法选择大小适宜的DNA片段进行回收，并用亚硫酸盐处理回收的片段；去盐处理后，PCR扩增两端带有接头的DNA片段，构建测序文库；最后用质量合格的文库进行cluster制备和测序。
+
+# 1.7荧光定量PCR(qRT-PCR）
+
+用Trizol提取对照组和暴露组睾丸组织总RNA，核酸蛋白仪测定总RNA的浓度及纯度。分别取总$\mathrm { R N A } 2 \mathrm { m g }$ ,按反转录试剂盒说明书操作，逆转录反应合成cDNA。以反应所得cDNA在MyiQ实时定量PCR仪上进行PCR反应，每个基因各做3个平行组。分别绘制目的基因和内参照基因 $| \beta \rrangle$ -actin的溶解曲线和标准曲线,检测各基因的反应特异性和扩增效率。以IQ5.0软件对PCR数据进行统计学分析，以各组目的基因表达水平与内参的比值为该基因的校正表达水平。引物序列见表1。
+
+表1Real-timePCR引物序列 Tab.1Real-time PCR primer sequence   
+
+<html><body><table><tr><td>Gene</td><td>Primer Sequence</td></tr><tr><td>Aldh7al</td><td>F:5'-ATAGCCCAGGTTTTGGAGGA-3' R:5'-CCAGTGAAGGACAGCAGGTT-3'</td></tr><tr><td>Rpe</td><td>F:5'-TTGCCATCAAACCAGGAACT-3' R:5'-CCTCAACCAGTGAACCTTGG-3'</td></tr><tr><td></td><td>F: 5'-ACCAACTGGGACGATATGGAGAAGA-3'</td></tr><tr><td>β-actin</td><td>R:5'-ACGACCAGAGGCATACAGGGACAA-3'</td></tr></table></body></html>
+
+# 1.8统计学处理
+
+采用SPSS16.0软件进行统计分析，组间比较采用t检验， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1交通性污染物情况比较
+
+交通要道的TSP、 $\mathrm { P M } _ { 1 0 } \mathrm { , P M } _ { 2 . 5 }$ 浓度均高于动物实验中心，差异具有统计学意义 $( P { < } 0 . 0 5 )$ ，其浓度分别为国家环境空气质量标准(GB3095-2012)一级标准浓度限值的5.08倍，4.12倍，4.02倍。交通要道的NOx浓度和噪声远高于动物实验中心，差异有统计学意义（ $( P { < } 0 . 0 5 )$ ，而 $\mathrm { S O } _ { 2 }$ 浓度在两个测定点的差异没有显著性 $( P { > } 0 . 0 5$ 表2)。
+
+表2交通性污染物测定结果 Tab.2Determinationof the major polutants in the vehicle exhaust collected from the traffic environment (Mean±SD, $n { = } 4$ 1   
+
+<html><body><table><tr><td>Site</td><td>SO2 (mg/m)</td><td>NOx (mg/m)</td><td>TSP (mg/m)</td><td>PM2.s (mg/m)</td><td>PMo (mg/m)</td><td>noise(dB)</td></tr><tr><td>Animal experimental center</td><td>0.006±0.0008</td><td>0.006±0.0015</td><td>0.056±0.023</td><td>27±5.33</td><td>45±2.27</td><td>19.16±1.95</td></tr><tr><td>Artery traffic</td><td>0.008±0.0023</td><td>0.079±0.147*</td><td>0.61±0.049*</td><td>141±23.45*</td><td>206±20.78*</td><td>77.60±7.05*</td></tr></table></body></html>
+
+（204号 $^ { * } P { < } 0 . 0 5$ compared with animal experiment center.
+
+# 2.2交通性污染物对子代雄鼠生殖器官重量的影响子代雄鼠性成熟后，暴露组与对照组小鼠的体质
+
+量、辜丸脏器系数、附睾脏器系数差异无统计学意义中 $\scriptstyle \mathrm { \mathit { P } > 0 . 0 5 }$ ，表3)。
+
+表3交通性污染物对子代雄鼠体质量、丸和附辜的影响 Tab.3 Efect of vehicle exhaust on weight, testis and epididymisin in the male offspring mice (Mean±SD, $n { = } 2 0$ 0   
+
+<html><body><table><tr><td>Group</td><td>Body weight (g)</td><td>Weight coefficient of testis (%)</td><td>Weight coefficient of epididymis (%)</td></tr><tr><td>Control group</td><td>27.00±1.911</td><td>0.696±0.32</td><td>0.167±0.07</td></tr><tr><td>Exposed group</td><td>25.54±2.903</td><td>0.649±0.19</td><td>0.160±0.08</td></tr></table></body></html>
+
+# 2.3RRBS甲基化测序结果
+
+胞嘧啶发生甲基化数目最多的区域为基因间区段和内含子，暴露组甲基化胞嘧啶为对照组的两倍。胞嘧啶发生甲基化最少的区域为基因下游和结合部位(图1)。与对照组比较，暴露组子代雄鼠睾丸细胞基因组有23个基因甲基化水平提高，35个基因甲基化水平降低 $( P { < } 0 . 0 5 )$ 。甲基化水平差异的基因的分布位于绝大多数染色体上，最多的是chr5(8个基因），而染色体 $\cdot \mathrm { c h r 3 } \mathrm { , c h r 1 3 , c h r 1 8 , c h r 2 0 , c h r 2 1 , c h r 2 2 , X , Y }$ 未有基因发生甲基化改变(图2)。将上述58个基因进行GO类型分析，并分类汇总，进行富集度检验，发现暴露组中发生甲基化的基因几乎涉及所有主要生精过程，如糖酵解途径、丙酮酸代谢过程、精子活力、细胞凋亡、胚胎发育、细胞蛋白质分解代谢过程、ATP结合等(表4)。
+
+![](images/87fc86729461d51f8dc19583347eb2d32475be4cec7b8d28b551b4c30b0805f6.jpg)  
+图1对照组和暴露组基因功能区的甲基化情况 Fig.1Methylation in the functional regions of the genes in the control and exposure group.
+
+# 2.4Aldh7a1,Rpe基因mRNA表达情况
+
+根据甲基化富集度检验的 $P$ 值、甲基化差异基因的显著性通路等指标,将两个代表性基因 $A l d h 7 a I , R p e$ 挑选出来进行验证(表5)。qRT-PCR检测结果显示（图3)，与对照组相比，暴露组子代雄鼠睾丸细胞中Aldh7a1，RpemRNA表达水平降低，差异具有统计学意义 $( P { < } 0 . 0 5 )$ 。
+
+# 3讨论
+
+城市大气污染导致的生殖健康损害是目前人类面临的一个严峻问题[8。近年来，随着我国经济发展和城市化进程的加快，机动车保有量快速增加，机动车尾气已成为空气污染的重要来源之一[9,是造成灰霾、光化学烟雾污染[的重要原因。本研究调查结果显示，重庆市主城区某交通要道的颗粒物浓度为国家环境空气质量标准(GB3095-2012)一级标准的4\~5倍，NOx与噪声虽未超过该标准，但明显高于对照组，提示交通要道污染情况十分严重。
+
+本实验通过建立孕鼠交通性污染物暴露模型，发现暴露组子代雄鼠体质量和生殖系统脏器系数并无统计学改变，表明器官未发生萎缩、充血、水肿、增生肥大等变化[。许多研究结果证实了器官萎缩的细胞凋亡假设，当细胞凋亡与增殖之间失衡，可能导致器官实质细胞数量减少发生萎缩；机体发生慢性充血可能因致炎因子作用、肿瘤压迫等所引起，常导致患部水肿引起实质细胞萎缩、结缔组织增生和肥大，从而使体重和脏器系数发生改变[13]。本文差异甲基化基因GO富集分析结果中分类基因不直接参与调控萎缩、充血、水肿、增生肥大有关的生物学过程，如细胞凋亡、致炎因子、肿瘤发生。因此这可能是小鼠体质量和脏器系数没有改变的部分原因，但其器官功能是否发生了改变还需接下来进一步检测。暴露组在各基因功能区中胞嘧啶甲基化的数目都远高于对照组，提示孕鼠暴露于汽车尾气、噪声等环境因子中，引起子代雄鼠睾丸细胞DNA发生甲基化改变。由此可见，在胚胎发育的关键阶段，环境因子通常不引起DNA序列的改变，但是会引起生殖系细胞表观基因组(DNA甲基化)发生永久性改变，通过生殖系细胞多代传递，从而产生表观遗传表型[14-15]。本研究发现，在基因不同功能区中，基因间区和内含子是胞嘧啶发生甲基化最多的区段,和李俊贤的研究结果一致[16]。这两个区段皆是非编码区域，但其转录出的MicroRNA通过调控基因的开启、关闭时间和表达频率调控着精原干细胞的减数分裂和精子发生过程[17.18]。由此推测甲基化改变致MicroRNA表达水平改变而导致基因表达异常也可能损害男性生殖功能。
+
+![](images/6f4f2669b76fb2279a97e03662574aa27819f6a541c065aaf8890b09f1354b29.jpg)  
+图258个甲基化基因的染色体分布 Fig.2 Chromosome distribution of 58 methylated genes.
+
+<html><body><table><tr><td>Biological process</td><td>GO ID</td><td>% Chang</td><td>P</td><td>Genes</td></tr><tr><td>Glycolysis process</td><td>0006096</td><td>37.93</td><td>9.61E-04</td><td>Aldh7a1,Adh5,Rpia,PGM2,GPI, etc</td></tr><tr><td>Pyruvate metabolism process</td><td>0006090</td><td>25.86</td><td>0.04</td><td>Rpe,PDHB,KorA,DLAT,etc</td></tr><tr><td>Sperm motility</td><td>0030317</td><td>17.24</td><td>0.03</td><td>Rab12,APOB,SEMG2,SEMG2,etc</td></tr><tr><td>Apoptosis</td><td>0060785</td><td>6.89</td><td>0.05</td><td>BCL2AIA,GRAMD4,EPHA2,TRAF4</td></tr><tr><td>Embryonic morphogenesis</td><td>0048598</td><td>6.89</td><td>0.05</td><td>2610005L07RIK,HOXD3,EPHA2,CDH23</td></tr><tr><td>Cellular protein catabolic process</td><td>0044257</td><td>4.34</td><td>0.29</td><td>FBXL19,SOCS5,FBXL17，FBXO46,CNO4</td></tr><tr><td>ATP binding</td><td>0005524</td><td>1.13</td><td>0.05</td><td>HELQ,FLT1, CDK8,KIF19A</td></tr></table></body></html>
+
+表4RRBS测序结果中暴露组发生甲基化的58个基因GO类型分析T Tab.4 GO analysis of 58 methylated genes in the in the control and exposure groups after RRBS sequencing   
+表5Aldh7al,Rpe基因KEGG通路分析Tab.5 KEGG pathway analysis of Aldh7a1 and Rpe genes  
+
+<html><body><table><tr><td>Gene</td><td>Chromosome loction</td><td>ID</td><td>Pathway</td></tr><tr><td>Aldh7a1</td><td>5</td><td>mmu00620</td><td>Pyruvate metabolism</td></tr><tr><td>Rpe</td><td>10</td><td>mmu00030</td><td>Flycolytic pathway</td></tr></table></body></html>
+
+![](images/17ca4168f2d634a2e103c13a2d597a4efe8393da601334ba2b379565eadfb8f8.jpg)  
+图3对照组和暴露组Aldh7a1,Rpe基因mRNA相对表达量 Fig.3 Aldh7a1 and Rpe mRNA expressions in the control and exposure groups. $^ { * } P { < } 0 . 0 5$ compared with control group.
+
+本研究发现子代雄性小鼠睾丸细胞基因组58个差异甲基化基因，对这些基因进行GO富集分析，发现这些基因几乎涉及所有主要精子发生过程，如：睾丸细胞的异常凋亡影响精子正常分化成熟和数量稳定[9]，同时也使线粒体膜电位发生改变，影响三磷酸腺苷(ATP)异常代谢和供能，使精子活动力降低，进而导致男性弱精子症的产生[20-21]。睾丸细胞中DNA甲基化异常对受精后胚胎发育有影响，如：妊娠率明显下降、胚胎着床前的损失率明显增加、小鼠发育迟缓[22-23]等。GO富集分析发现富集程度最高的是糖酵解途径和丙酮酸代谢过程，筛选出与其有关的Aldh7a1和Rpe基因在暴露组表达下降。Rpe参与糖酵解途径调控，糖酵解途径产生的丙酮酸和乳酸在代谢过程中能产生ATP，为生精细胞的发生和发展过程提供能量[14]。Aldh7a1与丙酮酸代谢过程有关，有研究表明，异常的丙酮酸代谢过程会促进细胞凋亡过程中生精细胞的变性[24]。因此,我们推测甲基化所致的基因表达水平改变可能是交通性污染物对男性生殖系统损害的原因之一，然而其中涉及复杂调控网络的变化，具体机制仍待进一步研究。
+
+# 参考文献：
+
+[1］姚基伟,杨伟,丁杰,等.汽车尾气染毒动物模型的构建及其对雄鼠 生殖功能影响的初步研究[J].局解手术学杂志,2015,24(6): 599-601.   
+[2]Ono N,Oshio S,Niwata Y,et al.Prenatal exposure to diesel exhaust impairs mouse spermatogenesis[J]. Inhal Toxicol, 20O7,19(3): 275-81.   
+[3]Khan D,Ahmed SA.Epigenetic regulation of Non-Lymphoid cells by bisphenol a,a model endocrine disrupter:potential implications for immunoregulation[J].Front Endocrinol,2015,5(91): 1-7.   
+[4]Kim A,Park M,Yoon TK,et al,Maternal exposure to benzo[b] fluoranthene disturbs reproductive performance in male offspring mice[J]. ToxicolLett,2011,203(1):54-61.   
+[5]董宏彬,刘景芳.噪声对孕鼠生殖内分泌影响的研究[J].中国公共卫 生学报,1995,14(04):222-4.   
+[6]Guerrero-Bosagna C, Skinner MK. Environmentally induced epigenetic transgenerational inheritance of phenotype and disease [J].Mol Cell Endocrinol,2012,354(1/2): 3-8.   
+[7]Anway MD,Skinner MK.Epigenetic transgenerational actions of endocrine disruptors[J].Endocrinology,2006,147(6 Suppl): S43-9.   
+[8]Abdul KS,Jayasinghe SS,Jayasumana C,et al.Arsenic and human health effects:A review[J].Environ Toxicol Pharmacol,2O15,40 (3): 828-46.   
+[9]郭宇宏,王自发,康宏,等.机动车尾气排放对城市空气质量的影响研 究——以乌鲁木齐市春节前后对比分析[J].环境科学学报,2014,34 (5): 1109-17.   
+[10]刘 璐.机动车排放VOCs和NOX对形成大气光化学氧化剂影响的模 拟[D].西安:长安大学,2011: 13-6.   
+[11]孙建新,安 娟,连 军.影响实验动物脏器重量及脏器系数因素分析 [J].实验动物科学,2009,26(1):49-51.   
+[12]漆正堂,卢健.骨骼肌萎缩的细胞分子机制与抗萎缩运动模式[J].中 国组织工程研究与临床康复,2007,11(36):7240-3.   
+[13]赵琳阁.充血.血停滞.学栓形成[J].中原医刊,1993,2(3):23-6.   
+[14] Skinner MK.What is an epigenetic transgenerational phenotype?F3 or F2[J].Reprod Toxicol, 2008,25(1): 2-6.   
+[15]Qi C,Yan MH,Cao ZH,et al.Sperm tsRNAs contribute to intergenerational inheritance of an acquired metabolic disorder[J]. Science,2016,351(6271):397-400.   
+[16]李俊贤.基于DNA甲基化探讨益气养阴活血法阻断大血管病变 KKay小鼠高血糖"代谢记忆"效应的表观遗传学机制[D].成都:成都 中医药大学,2014: 34-5.   
+[17]Salian S,Doshi T, Vanage G.Impairment in protein expression profile of testicular steroid receptor coregulators in male rat offspring perinatally exposed to Bisphenol A[J].Life Sci, 2009,85 (1/2): 11-8.   
+[18] Wang L, Xu C. Role of microRNAs in mammalian spermatogenesis and testicular germ cell tumors [J].Reproduction,2015,149 (3): R127-37.   
+[19]Ha SJ,Kim BG,Lee YA,et al. Effect of antioxidants and apoptosis inhibitors on cryopreservation of murine germ cells enriched for spermatogonial stem cells[J]. PLoS One,2016,11(8): 161-7.   
+[20] Guiney AI,Javadova D,Kirac D,et al.Detection of Y chromosome microdeletionsand mitochondrial DNA mutations inmale infertility patients[J]. Genet Mol Res,2012,11(2):1039-48.   
+[21] Zhou R, Wang R, Qin Y,et al. Mitochondria-related miR-151a-5p reduces cellular ATP production by targeting CYTB in asthenoZoospermia[J]. Sci Rep,2015,5(5): 17743.   
+[22]Kelly TL，Li E, Trasler JM. 5-aza-2'-deoxycytidine induces alterations in murine spermatogenesis and pregnancy outcome[J]. J Androl,2003,24(6): 822-30.   
+[23] Tan K, Zhang Z,Miao K,et al.Dynamic integrated analysis of DNA methylation and gene expression profiles in in vivo and in vitrofertilized mouse post-implantation extraembryonicand placental tissues[J].Mol Hum Reprod,2016,22(7): 485-98.   
+[24] Urner F, Sakkas D.Characterization of glycolysis and pentose phosphate pathway activity during sperm entry into the mouse oocyte[J]. Biol Reprod,1999,60(4): 973-8. (编辑·经媛)

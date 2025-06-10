@@ -1,0 +1,534 @@
+[
+    {
+        "type": "text",
+        "text": "Cleavage of GSDMD by inflammatory caspases determines pyroptotic cell death ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lianjin $\\mathrm { { \\cal { S } } h i ^ { 1 , 2 * } }$ ,Yue Zhao2\\*, Kun Wang², Xuyan $\\mathrm { S h i ^ { 2 } }$ ,Yue Wang², Huanwei Huang², Yinghua Zhuang²,Tao Cai², Fengchao Wang² & Feng Shao2,3,4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inflammatorycaspases (caspase-1,-4,-5and -1l)are critical for innate defences. Caspase-1 is activated byligands of various canonical inflammasomes,and caspase-4,-5and -l directly recognize bacterial lipopolysaccharide,bothof which trigger pyroptosis. Despite the crucial role in immunity and endotoxic shock, the mechanism for pyroptosis induction by inflammatory caspases is unknown. Here we identify gasdermin D (Gsdmd) by genome-wide clustered regularly interspaced palindromic repeat (CRISPR)-Cas9 nuclease screens of caspase-l- and caspase-1-mediated pyroptosis in mouse bone marrow macrophages. GSDMD-deficient cels resisted the induction of pyroptosis by cytosolic lipopolysaccharide and known canonical inflammasome ligands. Interleukin-1β release was also diminished in Gsdmd-7-cels, despite intact processingby caspase-1. Caspase-1and caspase-4/5/11specifically cleaved the linker between the amino-terminal gasdermin- ${ \\bf \\nabla } \\cdot { \\bf N }$ and carboxy-terminal gasdermin-C domains in GSDMD, which was required and sufficient for pyroptosis.The cleavage released the intramolecular inhibition on the gasdermin-N domain that showed intrinsic pyroptosis-inducing activity. Other gasdermin family members were not cleaved by inflammatory caspases but shared the autoinhibition; gain-of-function mutations in Gsdma3 that cause alopecia and skin defects disrupted the autoinhibition,alowing its gasdermin-N domain to trigger pyroptosis. Thes findings offer insight into inflammasome-mediated immunity/diseases and also change our understanding of pyroptosis and programmed necrosis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inflammatory caspases (caspase-1,murine caspase-1l and human caspase-4/5) are crucial for innate immune defences.Aberrant or excessive activation of caspase-l causes or is associated with many autoinflammatory,autoimmune and even metabolic diseases1,2. Caspase-1 is activated by the canonical inflammasomes,in which a central scaffold, such as NLRP3,NLRP1,NAIP-NLRC4,AIM2 and Pyrin,detects its cognate ligand'.The NAIPs directly recognize flagellin,as well as the rod and needle components of bacterial type III secretion system $( \\mathrm { T } 3 \\mathrm { S } ) ^ { 3 - 5 }$ .The newly identified Pyrin inflammasome indirectly senses bacterial modifications and inactivation of host Rho GTPases.Caspase-11 detects cytosolic bacterial lipopolysaccharide (LPS),playing a critical role in endotoxic shock7,8.Caspase-11 and its human counterparts caspase-4/5 are activated by direct LPS binding9,10. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Caspase-1 activation mainly occurs in macrophage/dendritic cells. Active caspase-1 processes and maturates interleukin (IL) $\\cdot { } 1 \\beta / 1 8$ and also triggers a form of programmed necrosis known as pyroptosis. Pyroptosis is the dominant response upon caspase-4/5/11 activation, occurring in both macrophage and non-macrophage cells9,11. Pyroptosis features pore formation in the plasma membrane,cell sweling and rupture of the membrane,causing massve leakage of cytosolic contents.Accumulating evidences suggest a critical role of pyroptosis in immunity and diseasel².Pyroptosis of infected cells releases intracellular bacteria for neutrophil-mediated killingl3. Inflammasome-mediated, but IL-1β/18-independent,clearance of infection has been noted with several intracellular bacteria12-15. Pyroptosis induced by the NLRP1B inflammasome or a gain-offunction mutation in Nlrpla is the primary cause of anthrax-lethaltoxin-induced lung injuryl6 and haematopoietic progenitor cel depletion in mice17,respectively. Caspase-1-mediated pyroptosis in HIV infection accounts for $\\mathrm { C D \\dot { 4 } ^ { + } }$ T-cell depletion18,a critical event in HIV pathogenesis.Pyroptosis rather than cytokine secretion is probably the key determinant of mouse lethality caused by systemic activation of the NAIP-NLRC4 inflammasome or caspase-11 activation by excessive $\\mathrm { L P S } ^ { 7 , 8 , 1 9 }$ .Despite these important functions,the mechanism underlying how inflammatory caspases trigger pyroptosis is unknown. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GSDMD is required for LPS-induced pyroptosis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We previously established an LPS electroporation protocol that can induce pyroptosis in more than $90 \\%$ of LPS-stimulated cells9. This robust assay allowed for unbiased genome-wide genetic screen using the CRISPR-Cas9 technology to identify new components in LPS/caspase-4/11-induced pyroptosis. The screen was performed in $\\dot { T } \\dot { l } r 4 ^ { - / - }$ immortalized bone-marrow-derived macrophages (iBMDMs） that responded normally to LPS electroporation (Extended Data Fig.la).As expected, three out of the four Caspl1- targeting guide RNAs (gRNAs) were recovered within the top 100 hits.Notably,there was only one other gene gasdermin D (Gsdmd) that also had multiple gRNA hits; four out of the five Gsdmd-targeting gRNAs appeared in the top 30 hits,with two among the top 10 (Fig.la).GSDMD is conserved in human and mouse with ${ \\sim } 7 2 \\%$ sequence similarity (Extended Data Fig. 2a).Small interference RNA(siRNA) knockdown in HeLa cells excluded other selected top hits but confirmed the requirement of GSDMD (Extended Data Fig.1b-d,also see Methods). siRNAknockdown of Gsdmd in mouse iBMDMs also inhibited LPS-induced pyroptosis; the extent of inhibition by three different siRNAs correlated with their knockdown efficiency (Extended Data Fig.le,f). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a d ePoly(dA:dT) transfecti 100- ■WT GenegRNA#RaningRNAsequence (%)iil 80- Casp11_3 74 GACTTAGGCTACGATGTGG 60 Casp11_2 92 CAGATTTACCCAATAAAGG 601 40- Gsdmd_4 46 CAACACCTTGGATCGTG e 20- 4020 Gsdmd_2 20 GCAACAGCTTCGGAGTCGT 0- Gsdmd_1 26 AGTCTCTGATGTCGTCGAT LPS +N Nig Fm BS af LFn- FIC NFα CHX 2 iBMDMWT Aim2--Gsdm 0   \nb LPS electroporation C LPS electroporation LFn BsaK 60- 山 0 1.1 100 60 1 40 40- 20 20- 0 0   \nHeLa GSDMD WT KO-1 KO-2 KO-3 iBMDM GsdmdWTKO-1 KO-2 WT KO-1 KO-2   \nGSDMD rescue + GSDMD rescue + + GSDMD GSDMD Tubulin Tubulin   \nf 100 ■WTpriBMDM g 50 ■WTpriBMDM (%) geep ea 880 40- Lm (%) geep ne 20 4030 ■Gsdmd-/- priBMDM 20- 10- 0 01 LFn-BsaK LFn-FliC LPS $^ +$ Nig TcdB DNA LPS S.typhimurium WT △sipD WTsipD MOI=5 MOI=0.5   \nh 1.2 工 ■WT priBMDM i 0.6- T ■WTpriBMDM 1.0- Gsdmd-/-priBMDM 0.5- ■Gsdmd-/- priBMDM ■Casp1/11-/-priBMDM ） 1 三   \n0.4 工 0.1 工 0.2 0 WT △sipD WT△sipD 0 Uninf. Untreated LFn-BsaK LFn-FliC LPS + Nig TcdB DNA S. typhimurium S.typhimurium MOI=5 MOI= 0.5 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1|Genetic screens identify that GSDMD is required for inflammatory-caspase-mediated pyroptosis and its role in caspase-l-induced $\\mathbf { I L - 1 } \\mathbf { \\beta }$ release.a, gRNA hits from a genome-wide CRISPR-Cas9 screen of LPS-induced pyroptosis in mouse iBMDMs. Shown are genes with multiple $\\mathrm { g R N A }$ hits among the top 10o hits.Foldenrichment-based ranking and the target sequence of each gRNAare listed.b,c,Effectsof GSDMD knockout on LPS electroporation and LFn-BsaKinduced pyroptosis.Three $G S D M D ^ { - / - }$ HeLa clones (KO-1,-2 and -3) and two Gsdmd iBMDMclones generated by CRISPR-Cas9- mediated targeting were analysed.For complementation,Flag-tagged human GSDMD was stably expressed in the knockout cells and its expression is shown by anti-Flag immunoblotting; tubulin expression is the loading control.WT, wild type.d,e,Effects of Gsdmd knockout on canonical inflammasome-mediated pyroptosis or on apoptosis.LFn-BsaK,LFn-FliC (flagellin), $\\mathrm { L P S } + \\mathrm { N i g }$ (nigericin),poly(dA:dT) transfection, $\\mathrm { T N F } \\mathfrak { X } + \\mathrm { C H X }$ and ultraviolet (UV) radiation were employed to activate the NAIP2-NLRC4, the NAIP5-NLRC4, the NLRP3, the AIM2 inflammasome,the extrinsic and the intrinsic apoptosis pathways,respectively.f-i,Assays for inflammasome-mediated pyroptosis and IL- $1 \\beta$ release.Primary BMDMs (priBMDMs) from wild-type or $G s d m d ^ { - / - }$ mice were stimulated with indicated canonical inflammasome stimuli or LPS electroporation $( \\mathbf { f } , \\mathbf { h } )$ ,or infected with S. typhimurium (wild-type or the T3SS-deficient △sipD mutant) at the indicated multiplicity of infection (MOI) (g,i).TcdB,C.difficile toxin B; Uninf.,uninfected cells.ATP-based cell viability $\\left( \\mathbf { b - e } \\right)$ ,lactate dehydrogenase (LDH)-release-based cell death (f,g),and ELISA assay of IL $\\cdot 1 \\beta$ release $( \\mathbf { h } , \\mathbf { i } )$ are expressed as mean values $\\pm$ s.d. from three technical replicates.Data shown are representative of at least three $\\left( \\mathbf { b - e } \\right)$ or two (f-i) independent experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To further validate the role ofGSDMD, $G S D M D ^ { - / - }$ HeLa cells and $G s d m d ^ { - / - }$ iBMDMcells were generated by CRISPR-Cas9-mediated targeting (Extended Data Fig.3a).In both cells,the absence of GSDMD completely blocked LPS electroporation-triggered pyroptosis,which was confirmed in multiple knockout clones (Extended Data Fig. 3b,c).Re-expression of human GSDMD in three $G S D M D ^ { - / - }$ HeLa cell clones all restored LPS-induced pyroptosis (Fig.1b).Mouse GSDMD showed the same rescue effect (Extended Data Fig. 3d). Similarly, $G s d m d ^ { - / - }$ iBMDM cells regained the sensitivity to LPS electroporation when complemented with either human or mouse GSDMD (Fig.lc and Extended Data Fig. 3e). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GSDMD is required for caspase-1-mediated pyroptosis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We also performed a parallel CRISPR-Cas9 screen on caspase-1- mediated pyroptosis in iBMDMcells using the anthrax lethal factor N-terminal-domain-fused T3SS rod proteinofBurkholderia thailandensis (LFn-BsaK), the most potent agonist of the NAIP-NLRC4 inflammasome4,20.Notably,the top hits recovered from the screen were dominated by gRNAs targeting all known components in the pathway,includingNaip2,Nlrc4and Casp1,each ofwhich was hit by multiple gRNAs (Extended Data Fig.4a).The screen also hit Gsdmd which,along with seven other genes,had two independent gRNAs (Extended Data Fig.4a).The requirement of Gsdmd,but not the seven other genes,for LFn-BsaK-induced pyroptosis was confirmed by siRNA knockdown assays (Extended Data Fig. le,f and 4b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, $G s d m d ^ { - / - }$ iBMDM clones completely resisted LFnBsaK-induced pyroptosis (Extended Data Fig.3f),which was fully restored by exogenous expression of GSDMD (Fig.1c).Gsdmd iBMDMs were also unresponsive to stimulation by LFn-flagellin (FliC),an agonist of the NAIP5-NLRC4 inflammasome (Fig. 1d). Caspase-7 was previously shown to be cleaved by caspase-1 upon inflammasome activation by flagellin in Legionella pneumophilainfected mouse macrophages²1.We confirmed the cleavage of caspase-7/3 in LFn-BsaK-stimulated $G s d m d ^ { - / - }$ iBMDMs (Extended DataFig.4c).However,evident cleavage could be observed $6 \\mathrm { { h } }$ after stimulation,a time point when Gsdmd-proficient cells had already died of pyroptosis (therefore little caspase-3/7 cleavage occurred). This suggests that caspase- $3 / 7$ cleavage plays no role in caspase-1- mediated pyroptosis,but may induce apoptosis or have other functions in defence against L. pneumophila²1.Thus,GSDMD plays a critical role in caspase-1-mediated pyroptosis downstream of the NAIP-NLRC4 inflammasome. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GSDMD is only required for pyroptotic cell death ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We further examined the role of GSDMD in other canonicalinflammasome-triggered pyroptosis. Gsdmd-/- completely blocked iBMDM cell pyroptosis upon activation of the NLRP3 and AIM2 inflammasomes by LPS plus nigericin and poly(dA:dT),respectively (Fig.1d,e).In contrast, $G s d m d ^ { - 7 - }$ did not affect extrinsic and intrinsic apoptosis triggered by $\\mathrm { T N F } \\alpha$ plus cycloheximide $( \\mathrm { T N F } \\mathfrak { A } + \\mathrm { C H X } )$ and ultraviolet irradiation,respectively (Fig.1d).siRNA knockdown of GSDMD in HT-29 cells,though efficiently blocking LPS-induced pyroptosis,had no effect on TSZ $( \\mathrm { T N F } \\mathfrak { X }$ plus SMAC mimetic and the caspase inhibitor zVAD)-induced necroptosis,another form of programmed necrosis mediated by the RIPK1-RIPK3-MLKL axis²2 (Extended Data Fig. 5a-c). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We generated GSDMD-deficient mice by CRISPR-Cas9-mediated targeting. Primary BMDMs from two independent homozygous mutant mice (F1-1 and F1-2) (Extended Data Fig.6a) were analysed for inflammasome activation,and similar results were obtained.In the canonical inflammasome pathway, pyroptosis mediated by the NAIP2/ 5-NLRC4,NLRP3 and AIM2 inflammasomes were all blocked by GSDMD deficiency (Fig. 1f). $G s d m d ^ { - / - }$ also abolished pyroptosis upon Clostridium difficile toxinBactivationof the Pyrin inflammasome6. Similarly，Gsdmd-/-BMDMsresisted LPS-induced pyroptosis (Fig.lf).When infected with Salmonella typhimurium,wild-type BMDMs showed extensive pyroptosis due to T3SS-dependent activation of NAIP-NLRC4 inflammasome,but little pyroptosis occurred in BMDMs_from $G s d m d ^ { - / - }$ mice (Fig. 1g). Defective pyroptosis in $G s d m d ^ { - / - }$ BMDMs was not due to the absence of caspase-1/11 expression (Extended Data Fig. 6b).Consistent with that in iBMDMs, primary $G s d m d ^ { - / - }$ BMDMs remained sensitive to necroptosis induction by TSZ orLPS plus zVAD (ExtendedData Fig.5d,e).These data highlight a specific role of GSDMD in caspase-4/11 and caspase-1- mediated pyroptosis downstream of multiple inflammasomes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GSDMD controls IL-1β release but not maturation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { I L } { - } 1 \\beta$ maturation and secretion is the other major response of canonical inflammasome activation.We observed that primary $G s d m d ^ { - / - }$ BMDMs,in contrast to wild-type BMDMs,secreted litle $\\mathrm { I L } { - } 1 \\beta$ into the supernatant upon activation of the NAIP2/5-NLRC4, NLRP3,Pyrin and AIM2 inflammasomes (Fig.1h). S. typhimuriuminfection-induced $\\mathrm { I L } { - } 1 \\beta$ release was also inhibited in Gsdmd-/- BMDMs (Fig. li)． Notably，caspase-1 autoprocessing occurred normally in Gsdmd $^ { - / - }$ BMDMs upon activation of the above inflammasomes while extracellular secretion of both pro-caspase-1 and the mature caspase-1 was severely inhibited (Extended Data Fig. 6c). Intact caspase-1 autoprocessing and $\\mathrm { I L } { - } 1 \\beta$ maturation were also observed in the cytosol of $G s d m d ^ { - / - }$ iBMDMs upon canonical inflammasomes activation (Fig.2a,b and Extended Data Fig. 7a). Thus,GSDMD-mediated pyroptosis plays an important role in mature IL- $\\cdot 1 \\beta$ release without affecting its maturation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GSDMD isspecifically cleaved by caspase-1/4/5/11 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The above analyses predict that GSDMD functions downstream of the inflammatory caspases.We observed that GSDMD was cleaved in LPS and LFn-BsaK-stimulated HeLa and iBMDMcells,respectively (Fig. 2c).A cleavage product $( \\sim 3 8 \\mathrm { k D a } )$ corresponding to the N-terminal half of $2 \\times$ Flag-HA-GSDMD was constantly identified. LPS and LFn-BsaK-induced GSDMD cleavage was diminished by a pan-caspase inhibitor zVAD that also blocked cell death (Extended Data Fig.7b).Co-expression of GSDMD with caspase-1,4,5 or1l but not apoptotic caspases (caspase-2,8 and 9) in 293T cells induced the same cleavage of GSDMD (Extended Data Fig.7c).No GSDMD cleavage occurred in $\\mathrm { T N F } \\mathfrak { X } + \\mathrm { C H X }$ and TSZ-stimulated cells (Extended Data Fig. 5f),consistent with that GSDMD was not required for apoptosis and necroptosis (Fig. 1d and Extended Data Fig. 5c). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We then tested whether GSDMD isa direct substrate of inflammatory caspases.The active tetramer forms of caspase-1,4and11,but not caspase-2,8 and 9,were found capable of cleaving purified recombinant GSDMD (no tag, ${ \\sim } 5 3 \\mathrm { k D a } ,$ (Fig.2d). The larger-size cleavage product migrated at ${ \\sim } 3 1 \\mathrm { k D a }$ ,which plus the 7-l $\\ k \\mathrm { D } \\mathrm { a } \\ 2 \\times \\mathrm { F } .$ lag-HA tag equals the 38-kDa N-terminal cleavage product observed in cells (Fig.2c). The other cleavage product $( \\sim 2 2 \\mathrm { k D a } )$ matched the size of the remaining C-terminal fragment.Consistent with that caspase-4/11 are activated by direct LPS binding',insect-cell-purified caspase-11 could process recombinant GSDMD into the $3 1 \\mathrm { k D a }$ and $2 2 \\mathrm { k D a }$ fragments only upon prior incubation with LPS or Lipid A but not muramyl dipeptide (MDP) (Fig. 2e).Identical results were observed with insect-cell-purified caspase-4.Edman sequencing of the C-terminal fragment revealed an N-terminal sequence of $_ { 2 7 6 } \\mathrm { G V P A E G } _ { 2 8 1 }$ (Fig. 2e). Preceding $_ { 2 7 6 } \\mathrm { G V P A E G } _ { 2 8 1 }$ is ${ } _ { 2 7 2 } \\mathrm { F L T D } _ { 2 7 5 }$ in human GSDMD and $_ { 2 7 3 } \\mathrm { L L S D } _ { 2 7 6 }$ in mouse GSDMD (Fig. 2f), which fit well with the substrate recognition motif of inflammatory caspases23. ${ } _ { 2 7 2 } \\mathrm { F L T D } _ { 2 7 5 }$ is the only possible inflammatory-caspase cleavage site conserved in human and mouse GSDMD (Extended Data Fig. 2a).Thus,inflammatory caspases specifically cleave GSDMD after the ${ } _ { 2 7 2 } \\mathrm { F L T D } _ { 2 7 5 }$ (or $_ { 2 7 3 } \\mathrm { L L S D } _ { 2 7 6 } ,$ ）sequence (Fig.2f). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8088d521692cd292d6f8caa2cb587a4f35781ff4a47a4d1f87be8dc0dc48a927.jpg",
+        "img_caption": [
+            "Figure 2|GSDMD is a substrate specifically for inflammatory caspases. a,b,Effects of Gsdmd knockout on intracellular processing of caspase-1 and IL$1 \\beta$ (stably expressed).pl0,mature caspase-1; Pro-CASP1,caspase-1 precursor; Pro-IL- $\\cdot 1 \\beta$ IL $\\boldsymbol { \\cdot } \\boldsymbol { 1 } \\boldsymbol { \\beta }$ precursor; pl7,mature IL $1 \\beta$ .c,A specific cleavage in GSDMD induced by LPS electroporation and LFn-BsaK.GSDMD-FL, fulllength GSDMD.d,In vitro cleavage of GSDMD by recombinant caspases. Purified GSDMD was incubated with active $\\mathrm { p } 2 0 / \\mathrm { p } 1 0$ tetramers of indicated caspases (rCASPs).e,In vitro cleavage of GSDMD byLPS-activated caspase$1 1 / 4$ .Purified GSDMD was incubated with insect-cell-purified caspase-11/4 pre-incubated with LPS or indicated ligands.The N-terminal sequence of GSDMD-C determined by Edman sequencing is shown.f, Cartoon diagram of GSDMD structure and the cleavage by inflammatory caspases.LFn-BsaK and $\\mathrm { L P S + N i g }$ .were used to activate the NAIP2-NLRC4 and NLRP3 inflammasome,respectively (a-c). $2 \\times$ Flag-HA-GSDMD was stablyexpressed in HeLa and iBMDMcells (c).Reaction samples were analysed by SDSPAGE and Coomassie blue staining(d,e).Cell lysates were subjected to anticaspase-1 (a),anti-IL- $1 \\beta$ (b),anti-Flag(c),anti-tubulin (a,c) and anti-actin (b) immunoblotting.All data shown are representative of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cleavage of GSDMD is required for pyroptosis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We generated a mutantGSDMD,in which Asp275(Asp276 in mouse GSDMD) was replaced with an alanine.As expected,the D/A mutants of GSDMD resisted cleavage by caspase-1 and caspase-4/5/11 overexpressed in 293T cells (Extended Data Fig.8a,b).Physiologically activatedcaspase-1byLFn-BsaKalso failed tocleaveGSDMDD275A complemented into the $G s d m d ^ { - / - }$ iBMDMs (Fig.3a); importantly, the mutant was completely inactive in restoring LFn-BsaK-induced pyroptosis (Fig. 3b). GSDMD D275A also resisted cleavage by caspase-11 and caspase-4 in LPS-stimulated iBMDM and HeLa cells, respectively (Fig.3a,c),and was unable to mediate LPS-induced pyroptosis (Fig. 3b, d). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In bacterial infection assays,complementation of the $G s d m d ^ { - / - }$ iBMDMs with wild-type GSDMD restored S.typhimurium-induced pyroptosis but the D275A mutant showed no activity (Fig. 3e). While wild-type GSDMD was cleaved in the T3SS-dependent manner,the D275A mutant protein remained intact (Extended Data Fig.8c).The same results were observed inB.thailandensis and enteropathogenic Escherichia coli infections (Fig.3f and Extended Data Fig.8d).In HeLa cell infection,S. typhimurium △sifA triggered ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a iBMDMGsdmd KO-1 C HeLa GSDMD KO-1 GSDMD WT D/A WT D/A GSDMD WT D/A c Mock B 5 1 PS MC GSDMD-FL   \nGSDMD-FL GSDMD-N GSDMD-N Tubulin Tubulin   \nb LFn-BsaK LPS electroporation d LPS electroporation 100 JI.LI 100 1 (%) iell 80- (%) ylli 80- 60 60 40- 40 20- 20- 0 0-   \niBMDM Gsdmd WT KO-1 WT KO-1 HeLa GSDMD WT KO-1   \nFlag-GSDMD WTD/A WT D/A Flag-GSDMD WTD/A   \nFlag-GSDMD Flag-GSDMD Tubulin Tubulin   \ne ■WT S.typhimurium■S.typhimurium△sipD f ■WTB.thailandensis B. thailandensis bipE 1 T T 工 301 (%) ill 100 601 paaet 2520 15- 4020 工 e 10- 5- 0 Flag-GSDMD WT D/A 0   \niBMDM Gsdmd WT KO-1 ■WTEPEC ■EPEC △escN 30   \ng (%) ggapeala L山 2 cei 101 5- 0 Flag-GSDMD WTD/A Flag-GSDMD WT D/A HeLa GSDMD WT KO-1 iBMDMGsdmd WT KO-1 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "caspase-4-dependent pyroptosis9,14.This cell death was diminished in $G S D M D ^ { - / - }$ cells (Fig. 3g).Notably，expression of wild-type GSDMD but not the D275A mutant in $G { \\dot { S } } { \\dot { D } } M D ^ { - / - }$ cells restored S. typhimurium △sifA-triggered pyroptosis (Fig. 3g). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cleavage of GSDMD is sufficient to drive pyroptosis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To investigate whether cleavage at Asp275 in GSDMD is sufficient to initiate pyroptosis,a PreScission protease (PPase) recognition sequence (EVLFNGP)was inserted between Leu273 and $\\mathrm { T h r } 2 7 4$ in the ${ } _ { 2 7 2 } \\mathrm { F L T D } _ { 2 7 5 }$ motif in GSDMD.Expression of thisengineered GSDMD(EVLFNGP) mutant or wild-type GSDMD in 293T cells by itself triggered no pyroptosis.However, upon cytosolic delivery of purified PPase,cells expressing GSDMD(EVLFNGP) but not wild-type GSDMD died extensively (Fig. 4a). Consistently, GSDMD(EVLFNGP) but not the wild-type protein was cleaved into the expected size by the PPase (Fig. 4b). The dying cels developed typical pyroptosis morphology with cell swelling and membrane rupture (Fig. 4a).We also engineered the FLTD site into DEVD,the cleavage site of caspase $3 / 7$ and the resulting GSDMD(DEVD） mutant was stably expressed in $G S D M D ^ { - / - }$ HeLa cells.When stimulated with ${ \\mathrm { T N F } } \\mathfrak { X } + { \\mathrm { C H X } } .$ ，both wild-type GSDMD and GSDMD(DEVD） mutant-expressing cells showed massive cell death (Fig. 4c).As expected, cells expressing wildtype GSDMD underwent apoptosis with no GSDMD cleavage.In contrast, GSDMD(DEVD) mutant-expressing cells showed typical pyroptotic morphology,in which the mutant GSDMD was proteolysed to the expected size by activated endogenous caspase- $\\cdot 3 / 7$ (Fig. 4c,d).The switch of $\\mathrm { T N F } \\mathfrak { X }$ -induced apoptosis to pyroptosis by the caspase-3/7- sensitive GSDMD(DEVD) can be observed in Supplementary Videos 1 and 2.These results establish that proteolytic cleavage at Asp275 in GSDMD is sufficient to instruct mammalian cells to undergo pyroptosis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/059393f317894745bb687d41cba1c46841acdb00ca1507971ca37a374ad93ab4.jpg",
+        "img_caption": [
+            "Figure 3|Cleavage of GSDMD by inflammatory caspases is required for pyroptosis.a-d,Assays of the cleavage-resistant mutant of GSDMD in caspase-land caspase-4/11-mediated pyroptosis induced byLFn-BsaK and LPS electroporation,respectively. $\\mathbf { e } { \\boldsymbol { - } } \\mathbf { g } ;$ Assays of the cleavage-resistant mutant ofGSDMD in bacterial-infection-induced pyroptosis.iBMDMcells were infected withwild-type S.typhimurium(e),B.thailandensis or enteropathogenic E.coli(EPEC)(f) or their T3SS-deficient mutants (△sipD, △bipB and △escN,respectively)as controls.HeLa cellswere infected with S.typhimurium △sifA(g).The wild-type or the D275A mutants (D/A) of $2 \\times$ Flag-HA-GSDMD(a,c) and Flag-GSDMD $( { \\bf b } , { \\bf d - g } )$ were stably expressed in the knockout cells.Cell lysates were analysed by anti-Flag and anti-tubulin immunoblotting(a-d).Lysates of non-stimulated cellswere analysed inb andd.ATP-based cell viability (b,d,e) and LDH-release-based cell death $( \\mathbf { f } , \\mathbf { g } )$ are expressed as mean values $\\pm$ s.d. from three technical replicates.All data shown are representative of three independent experiments. ",
+            "Figure 4|Interdomain cleavage of GSDMD is suficient to trigger pyroptosis owing to the intrinsic pyroptosis-inducing activity in its N-terminal domain.a,b,Pyroptosis induced by interdomain cleavage of an engineered GSDMD by PPase. 293T cels were transfected with Flag-tagged wild-type GSDMD or GSDMD-Mutl (insertion of the PPase recognition sequence EVLFQGP into the FLTD site).Purified PPase was electroporated into the cells.c,d, Switch of $\\mathrm { T N F } \\mathfrak { L }$ -induced apoptosis to pyroptosis by the caspase-3-sensitive GSDMD mutant.Flag-tagged wild-type GSDMD or GSDMD-Mut2 (replacement of the FLTD motif with the caspase-3-cleavage site DEVD) was stably expressed in HeLa $G S D M D ^ { - / - }$ cells. Cells were treated with $\\mathrm { T N F } \\mathfrak { X } + \\mathrm { C H X }$ for $^ { 8 \\mathrm { h } }$ .e,f, The pyroptosis-inducing activity of GSDMD N-terminal domain.Indicated GSDMD fragments were transiently expressed in 293T cells.GSDMD-FL, full-length GSDMD;GSDMD-N and GSDMD-C,the N- and C-terminal product of GSDMD generated by inflammatory caspase cleavage,respectively.Phase-contrast images of cell morphologyare shown ina,cand e.ATP-based cell viability is expressed as mean values $\\pm$ s.d.from three technical replicates (a,c,f) and are marked on the images in decimal form (a,c).Cell lysates were analysed by anti-Flag and anti-tubulin immunoblotting (b,d,f).All data shown are representative of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2b)25,26.The gasdermin family shares $\\sim 4 5 \\%$ overall sequence homology.Structures of the gasdermins can be divided into two domains,the gasdermin-N and $\\mathsf { - C }$ domains,corresponding to the two cleavage fragments of GSDMD by inflammatory caspases (Fig.2f).Mice lack GsdmB,but encode three GSDMA (GSDMA1- A3）and four GSDMC (GSDMC1-C4）proteins (Extended Data Fig.2b).Other gasdermins do not share the FLTD motif in GSDMD (Extended Data Fig.2a). Consistently,GSDMA,GSDMB and GSDMC resisted caspase-1/11 cleavage in $2 9 3 \\mathrm { T }$ cells (Extended Data Fig.9a).The gasdermin-N domain of GSDMA,GSDMB and GSDMC all could bind to its respective gasdermin-C domain (Fig. 5c), suggesting a similar autoinhibition that is released by mechanisms other than caspase cleavage. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Pyroptosis-inducing activity of GSDMD-N domain Pyroptosis-inducing activity of GSDMA3 in disease ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The function of GSDMD is completely unknown. Gsdmd /- mice have no obvious phenotypes with normal epithelial differentiation in the intestinal tract despite high expression in gastrointestinal tracts24.To understand the functional mechanism of GSDMD cleavage in pyroptosis,the N-terminal and C-terminal cleavage fragments (GSDMD-N and GSDMD-C,respectively)were individually expressed in 293Tcells.In contrast to GSDMD-C and full-length GSDMD,GSDMD-N could cause extensive cell death with apparent pyroptosis morphology (Fig.4e,f).GSDMD-N was expressed at a much lower level than GSDMD-C and full-length GSDMD,a phe nomenon commonly seen in proteins with cytotoxicity.Progressive truncations identified residues 1-243 of GSDMD as the minimal fragment capable of triggering pyroptosis (Fig. 4f). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Autoinhibition of GSDMD and the gasdermin family ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Above analyses suggest that GSDMD-C may interact with GSDMDN and this autoinhibition is released upon interdomain cleavage by inflammatory caspases. Supporting this idea, GSDMD-C was efficiently co-immunoprecipitated by GSDMD-N in transfected 293T cells (Fig. 5a).Furthermore,overexpression of GSDMD-C could block LPS-induced pyroptosis in HeLa cells due to trans-inhibition of endogenous GSDMD-N generated from caspase-4 cleavage (Fig. 5b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GSDMD belongs to the gasdermin family that also contains GSDMA,GSDMB,GSDMC,DFNA5 and DFNB59 (Extended Data ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The function of the gasdermin family is poorly characterized25,26. GSDMA3 is the most studied gasdermin; mice with spontaneous or chemically induced mutations in Gsdma3 exhibit hyperkeratosis and hair-loss phenotypes in the skin25-27.The mechanism for this alopecia pathology is unknown,but severe chronic inflammation has been observed in the skin of Gsdma3-mutant mice28,29.Like GSDMD, GSDMA3 exhibited the intramolecular interaction between its gasdermin-N and -C domains (Fig. 5c). Overexpression of the gasdermin-N domain of GSDMA3 (residues 1-284),but not full-length GSDMA3,caused extensive pyroptosis in $2 9 3 \\mathrm { T }$ cells (Fig. 5d); GSDMA3 was not cleaved by inflammatory caspases but artificial interdomain cleavage of an engineered GSDMA3 by PPase could cause 293T cell pyroptosis (Extended Data Fig. 9b).GSDMA3 also remained intact in $\\mathrm { T N F } \\mathfrak { Q }$ -induced apoptosis and necroptosis (Extended Data Fig. 9c). These data suggest that GSDMA3 is an autoinhibited pyroptosis-inducing factor functioning in an unknown biological process.The autoinhibition is partially supported by a recent intriguing study that proposes a function of GSDMA3 in autophagy30. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Gsdma3-/- mice show no visible skin defects3o.In fact, the hyperkeratosis and hair-loss phenotype in Gsdma3-mutant mice is dominant and the mutations are gain-of-function²5.There are nine reported Gsdma3 mutant alleles,resulting in 259RDW (insertion after residue 259 with mistranslated RDW sequence),T278P,L343P, Y344C,Y344H,A348T,I359N,premature stop at 366,and duplication of E411A412 (412EA),in the gasdermin-C domain25-27.Five of the mutations(T278P,L343P,Y344C,A348T and 412EA) were analysed and found capable of instructing 293T cells to undergo pyroptosis (Fig.5e).These mutations all disrupted or attenuated the co-immunoprecipitation between the gasdermin-N and -C domains of GSDMA3 (Fig.5f).Thus,the alopecia-causing GSDMA3 mutants lose the autoinhibition and become constitutively active in triggering pyroptosis.Taken all together,our analyses further suggest that gasdermins are all pyroptosis-inducing factors that are activated by release of the autoinhibition on their gasdermin-N domains. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/015014f789f19448ba1fb0996a2c6a952993f77bc1da5a193295627c6b32ee44.jpg",
+        "img_caption": [
+            "Figure 5|Autoinhibition of the pyroptosisinducing activity of the gasdermin family. ",
+            "a,c,Co-immunoprecipitation assay of the interaction between the gasdermin-Nand -C domains in GSDMD and other gasdermin family members.\\* indicates antibody light chain. mGSDMD,mouse GSDMD.b,Effects of GSDMDC domain overexpression on LPS electroporationinduced pyroptosis.Vec.,vector.d,e,The pyroptosis-inducingactivityofGSDMA3-N domain and its alopecia-causing mutants.f,Effects of the alopecia-causing mutations on the co-immunoprecipitation interaction between the N and C domains of GSDMA3.GSDMA3\",point mutants ofGSDMA3 analysed here.Indicated gasdermin constructs were expressed in 293T cells. Anti-Flag immunoprecipitation (a,c,f) was performed.The immunoprecipitates (Flag IP) or the total lysates were analysed by immunoblotting with antibodies against indicated epitopes or tubulin.ATP-based cell viability is expressed as mean values $\\pm$ s.d.from three technical replicates (b,d,e).All data shown are representative of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We identify GSDMD as a generic substrate for caspase-1 and caspase4/5/11.Cleavage of GSDMD by the inflammatory caspases critically determines pyroptosis by releasing the cleaved gasdermin-N domain that bears intrinsic pyroptosis-inducing activity. Further understanding the mechanism of action of GSDMD may provide a new avenue for therapeutic intervention of inflammatory-caspase-associated autoinflammatory conditions and septic shock.We also show that other gasdermins have a similar pyroptosis function; importantly,this observation redefines the concept of pyroptosis as gasderminmediated programmed necrosis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Caspases are classified into apoptotic and inflammatory caspases. Substrate targeting by these caspases is known to be promiscuous to some extent; overlapping substrate spectra for caspases of different natures have been noted in proteomic efforts that identified GSDMD as a substrate for both caspase-1 and apoptotic caspases31,32. Our data suggest that interdomain cleavage of GSDMD by caspase-1/4/5/11 determines pyroptosis.Caspase-1 can also cleave caspase- $3 / 7 ^ { 2 1 }$ ,which may have a pyroptosis-independent function,particularly in the absence of GSDMD.Thus,the substrate cleaved by a caspase in a cellular context is the determinant for the nature of the cell death. Pyroptosis and necroptosis are two types of lytic and programmed necrosis.In necroptosis,a pseudokinase MLKL,upon phosphorylation by RIPK3,acts as the executioner to rupture the membrane²².It is unclear at this stage whether GSDMD plays a similar‘executioner' role in pyroptosis,but our data suggest that GSDMD,or more specifically its gasdermin-N domain,is sufficient to drive pyroptosis regardless of the cellular system.Given the possible presence ofother GSDMD-and MLKL-like necrosis factors,our results suggest a new paradigm for understanding programmed necrosis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Online Content Methods,along with any additional Extended Data display items and Source Data,are available in the online version of the paper; references unique to these sections appear only in the online paper. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Received 23 June; accepted 25 August 2015. Published online 16 September 2015. ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. Lamkanfi,M.& Dixit,V.M.Mechanisms and functions ofinflammasomes.Ce//157, 1013-1022 (2014).   \n2. Henao-Mejia,J., Elinav,E.,Thaiss, C.A.& Flavel,R.A.Inflammasomes and metabolic disease.Annu.Rev.Physiol.76,57-78 (2014).   \n3. Kofoed,E.M.& Vance,R.E.Innate immune recognition of bacterial ligands by NAIPs determines inflammasome specificity. Nature 477,592-595 (2011).   \n4. Zhao,Y.etal.The NLRC4 inflammasome receptors for bacterial flagelin and type Ill secretion apparatus.Nature 477,596-600 (2011).   \n5. Zhao,Y.& Shao,F.The NAIP-NLRC4 inflammasome in innate immune detection of bacterial flagellin and type Ill secretion apparatus.Immunol.Rev.265,85-102 (2015).   \n6. Xu,H.et al. Innate immune sensing of bacterial modifications of Rho GTPases by the Pyrin inflammasome.Nature 513,237-241 (2014).   \n7. Kayagaki,N.et al. Noncanonical inflammasome activation by intracellular LPS independent of TLR4.Science 341,1246-1249 (2013).   \n8. Hagar,J.A.,Powell, D.A.,Aachoui,Y., Ernst,R.K.& Miao,E.A.Cytoplasmic LPS activates caspase-11: implications in TLR4-independent endotoxic shock.Science 341,1250-1253 (2013).   \n9.Shi,J.etal.Inflammatory caspases are innate immune receptors for intracellular LPS.Nature 514,187-192 (2014).   \n10.Yang,J.,Zhao,Y.&Shao,F.Non-canonical activationofinflammatory caspases by cytosolic LPS in innate immunity. Curr.Opin.lmmunol.32,78-83 (2015).   \n11.Kayagaki,N.etal.Non-canonicalinflammasomeactivation targets caspase-11. Nature 479,117-121 (2011).   \n12.Jorgensen,i.& Miao,E.A.Pyroptotic celldeath defends against intracellular pathogens.Immunol.Rev.265,130-142 (2015).   \n13.Miao,E.A.etal. Caspase-1-induced pyroptosis isan innate immune effector mechanism against intracellular bacteria.Nature Immunol.11,1136-1142 (2010).   \n14.Aachoui,Y.etal. Caspase-11 protects against bacteria that escape the vacuole. Science 339,975-978(2013).   \n15.Sauer,J.D.etal. Listeria monocytogenes engineered to activate the Nlrc4 inflammasome are severely attenuated and are poor inducers of protective immunity.Proc.Natl Acad.Sci. USA108,12419-12424 (2011).   \n16.Kovarova,M.et al. NLRP1-dependent pyroptosis leads to acute lung injury and morbidity in mice.J.Immunol.189,2006-2016 (2012).   \n17.Masters,S.L.et al. NLRP1 inflammasome activation induces pyroptosis of hematopoietic progenitor cels.Immunity 37,1009-1023 (2012).   \n18.Doitsh, G.et al. Cel death by pyroptosis drives CD4 T-cell depletion in HIV-1 infection.Nature 505,509-514 (2014).   \n19.von Moltke,J.et al. Rapid induction of inflammatory lipid mediators by the inflammasome in vivo. Nature 490,107-111 (2012).   \n20.Yang,J.,Zhao,Y.,Shi,J.&Shao,F.Human NAiP and mouse NAIP1 recognize bacterial type Ill secretion needle protein for inflammasome activation.Proc.Natl Acad. Sci. USA110,14408-14413 (2013).   \n21.Akhter,A.et al. Caspase-7 activation by the Nlrc4/lpaf inflammasome restricts Legionella pneumophila infection.PLoSPathog.5,eiooo361 (2009).   \n22.Sun,L.& Wang,X.A new kind of cellsuicide: mechanisms and functions of programmed necrosis.Trends Biochem.Sci.39,587-593 (2014).   \n23.Poreba, M., Strozyk,A.,Salvesen,G.S.& Drag,M.Caspase substrates and inhibitors.Cold Spring Harb.Perspect Biol.5,a008680 (2013).   \n24.Fujii,T.et al. Gasdermin D(Gsdmd) is dispensable for mouse intestinal epithelium development. Genesis 46,418-423 (2008).   \n25.Tanaka,S., Mizushina,Y.,Kato,Y.,Tamura,M.& Shiroishi,T.Functional conservation of Gsdma cluster genes specifically duplicated in the mouse genome. G3 (Bethesda)3,1843-1850 (2013).   \n26.Saeki,N.& Sasaki, H.in Endothelium and epithelium:composition,functions,and pathology(eds J.Carrasco&M.Matheus) Ch.IX193-21i(Nova Science Publishers,2011).   \n27.Kumar,S.etal.Gsdma3l359 isanovelENU-induced mutantmouselinefor studying the function of Gasdermin A3 in the hair follicle and epidermis.J. Dermatol. Sci.67,190-192 (2012).   \n28.Ruge,F.etal. Delineating immune-mediated mechanisms underlying hair follicle destruction in the mouse mutant defolliculated.J.Invest Dermatol.131,572-579 (2011).   \n29.Zhou,Y.etal. Gsdma3 mutation causes bulge stem celldepletion and alopecia mediated by skin inflammation.Am.J.Pathol.180,763-774 (2012).   \n30.Shi,P.etal.Loss of conserved Gsdma3 self-regulation causesautophagy and cel death.Biochem.J.468,325-336 (2015).   \n31.Agard,N.J.,Maltby,D.&Wells,J.A.Inflammatory stimuli regulate caspase substrate profiles.Mol.Cell.Proteomics 9,880-893 (2010).   \n32.Crawford,E.D.et al.The DegraBase:a database of proteolysis in healthy and apoptotic human cells.Mol. Cell.Proteomics 12,813-824 (2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Information is available in the online version of the paper. ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements We thank J. Ding for recombinant protein purification and X.Wang for reagents.We thank members ofthe Shao laboratory for helpful discussions and technical assistance.This work was supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (XDB08020202),the China National Science Foundation Program for Distinguished Young Scholars (31225o02)and Program for International Collaborations (31461143oo6),and the National Basic Research Program of China 973 Program (2012CB518700 and 2014CB849602) to F.S.The research was supported in partbyan International Early Career Scientist grant from the Howard Hughes Medical Institute and the Beijing Scholar Program to F.S. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions F.S.and J.S.conceived the study; J.S.performed the CRISPR-Cas9 screens; J.S.and Y.Zha.designed and performed the majority of experiments,assisted by K.W.and X.S.; H.H.and T.C.performed the deep sequencing; J.S.,Y.W.,Y.Zhu.andF.W.generated the knockout mice.J.S.,Y.Zha.andF.S.analysed the data and wrote the manuscript.All authors discussed the results and commented on the manuscript. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Author Information Reprints and permissions information is available at www.nature.com/reprints.The authors declare no competing financial interests. Readers are welcome to commenton the online version of the paper.Correspondence and requests for materials should be addressed to F.S.(shaofeng@nibs.ac.cn). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "No statistical methods were used to predetermine sample size.The experiments were not randomized and the investigators were not blinded to allocation during experiments and outcome assessment. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Plasmids,antibodies and reagents.Complementary DNA(cDNA) for human GSDMD was amplified from reverse-transcribed cDNAof HT-29 cells;cDNAs for human GSDMB,human GSDMC and mouse Gsdma3 were synthesized by our in-house gene synthesis facility;cDNAs for human GSDMA and mouse Gsdmd were obtained from Vigene Biosciences (CH892815) and OriGene (MC202215), respectively.The gasdermincDNAs were inserted into a modified $\\mathsf { p C S 2 - 3 } \\mathsf { \\times }$ Flag vector for transient expression in 293T cells and the pWPI lentiviral vector with an N-terminal $2 \\times$ Flag-HA tag or the FUIGW vector with an N-terminal Flag tag for stable expression in HeLa and iBMDMcells.For recombinant expression in E.coli,the cDNAs were cloned into a modified pET vector with an N-terminal SUMO tag. Truncation mutants of the gasdermins were constructed by the standard PCR cloning strategy and inserted into the pCS2 vector with indicated tags.Expression plasmids for caspase-1,4,5 and 11 were previously described4,9, the caspase-9 plasmid was a gift from X.Wang (National Institute of Biological Sciences,Beijing).cDNAs for human CASP2 and mouse Casp8 are from the Life Technologies Ultimate ORF collection and OriGene (MC200404),respectively. Point mutations were generated by the QuickChange Site-Directed Mutagenesis Kit (Stratagene).All plasmids were verified by DNA sequencing. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Antibodies for caspase-1 pl0 (sc-515),Myc epitope (sc-789)and GSDMD (sc-81868) were obtained from Santa Cruz Biotechnology.Other antibodies used in this study include anti-HA(MMS-101P,Covance),anti-Flag M2 (F4049),antiactin (A2066) and anti-tubulin(T5l68)(Sigma-Aldrich),rat monoclonal caspase-11 17D9 (NB120-10454,Novus Biologicals),anti-caspase-3 (#9662) and caspase-7 (#12827）(Cell Signaling Technology)，IL- $1 \\beta$ (3ZD；Biological Resources Branch,National Cancer Institute) and the antibody for detecting endogenous GSDMD (NBP2-33422,Novus Biologicals).Ultrapure LPS from E.coli O111:B4 and poly(dA:dT) were purchased from InvivoGen.LPS (L4524, for priming), $\\mathrm { T N F } \\mathfrak { Q }$ and cycloheximide were purchased from Sigma-Aldrich. SMAC mimetic and the pan-caspase inhibitor zVAD are gifts from thelaboratory of X.Wang (National Institute of Biological Sciences,Beijing).Nigericin was purchased from Calbiochem.Recombinant $\\mathrm { p } 2 0 / \\mathrm { p } 1 0$ active caspase proteins (caspase-1/2/4/8/9)and lipid A(ALX-581-200-L001) were obtained from Enzo Life Sciences.Cell culture products are from Life technologies and all other chemicals used are Sigma-Aldrich products unless noted. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cell culture and transfection.HeLa,HT-29 and 293Tcells were obtained from ATCC.C57BL/6 mice-derived wild-type and $\\eta _ { I r 4 } - / -$ iBMDMcellswerekindly provided byK.A.Fitzgerald(Universityof Massachusetts Medical School, United States)andA.Ding(Weill CornellMedical College,United States),respectively, and used in our previous studies4,6,30.All the cell lines are well-established,commonly used and frequently checked by virtue of their morphological features and functionalities,but have not been subjected to authentication by short tandem repeat (STR) profiling.All the cell lines have been tested to be mycoplasmanegative by the commonly used PCR method.iBMDM,HeLa and 293T cells were grown in Dulbecco's modified Eagle's medium (DMEM); HT-29 cells were grown in McCoy's 5a modified medium.All media were supplemented with $1 0 \\%$ (vol/vol) fetal bovine serum (FBS)and $2 \\mathrm { m M } \\mathrm { L }$ glutamine.All cells were grown at $3 7 ^ { \\circ } \\mathrm { C }$ in a $5 \\%$ $\\mathrm { C O } _ { 2 }$ incubator.Transient transfection ofHeLa and 293Tcells was performed using the JetPRIME (Polyplus Transfection) or Vigofect (Vigorous) reagents by following the manufacturers'instructions.For stable expression, lentiviral plasmids harbouring the desired gene were first transfected into 293T cells together with the packing plasmids pSPAX2 and pMD2G with a ratio of 5:3:2.The supernatants were collected $^ { 4 8 \\mathrm { ~ h ~ } }$ after transfection and used to infect HeLa or iBMDMcells for another $4 8 \\mathrm { h }$ .GFP-positive infected cells were sorted by flow cytometry (BD BiosciencesFACSAria II).For siRNA knockdown, $0 . 5 \\mu \\mathrm { l }$ of $2 0 \\mu \\mathrm { M }$ siRNA together with $0 . 8 \\mu \\mathrm { l }$ ofINTERFERin reagents (Polyplus Transfection) were used for reverse transfection of iBMDMcells in the 96-well plate format; ${ 5 \\mu \\mathrm { l } }$ of $2 0 \\mu \\mathrm { M }$ siRNA and $1 0 \\mu \\mathrm { l }$ of INTERFERin reagents were used to transfectHeLa cells in the 6-well plate format.The knockdown was performed for $6 0 \\mathrm { h }$ before subsequent analyses.The knockdown effciency was assessed by quantitative real-time PCR (qRT-PCR) analyses as previously described4.All siRNA oligonucleotides were synthesized by our in-house facility using the sequences from the MISSION shRNA library (Broad Institute,United States) and their sequences are listed in Supplementary Table1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Inflammasome activation assays.Activation of the canonical caspase-1 inflammasomes (the NLRP3,NAIP-NLRC4 and AIM2 inflammasomes) and the noncanonical caspase-11 inflammasome by LPS was performed using the protocols that have been detailed in our previous publications4,6,9,2o.For bacteria-induced inflammasome activation,S.typhimurium (wild-type and△sipD),B.thailandensis (wild-type and △bipB),EPEC(wild-type and △escN) were used to infect iBMDM cells and S.typhimurium (wild-type and △sifA) was used to infect HeLa cells,as described previously4,9. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Microscopy imaging ofcell death.To examine cell death morphology,cels were treated as indicated in the 6-well plates (Nunc products,Thermo Fisher Scientific Inc.）for static image capture or in glass-bottom culture dishes (MatTek Corporation) for live imaging. Static bright field images of pyroptotic cells were captured using an Olympus IX71 or a Zeiss Pascal Confocal microscope. The image pictures were processed using ImageJ or the LSM Image Examiner program.Live images ofcell death were recorded with the PerkinElmer UltraVIEW spinning disk confocal microscopy and processed in the software Volocity.All image data shown were representative of at least three randomly selected fields. Genome-wide CRISPR-Cas9 screens.The lentiviral gRNA plasmid library for genome-wide CRISPR-Cas9 screen was obtained from Addgene $( \\# 5 0 9 4 7 ) ^ { 3 3 }$ ;amplification of thelibrary and preparation of the lentivirus were performed following the protocol provided byAddgene.In brief, $1 \\mu \\mathrm { l }$ of library DNA $( 1 0 \\mathrm { n g } \\mu \\mathrm { l } ^ { - 1 } )$ was used to transform $2 5 ~ { \\mu \\mathrm { l } }$ of electrocompetent $E$ coli(TaKaRa).Transformed colonies $( > 6 \\times 1 0 ^ { 7 } )$ were scraped offtheLuria-Bertani(LB)plates into the media, and plasmids were exacted by using the GoldHi EndoFree Plasmid Maxi Kit (CWBIO).To prepare the virus library,293Tcells in the $1 5 \\mathrm { - c m }$ dish were transfected with $2 5 ~ { \\mu \\mathrm { g } }$ of library DNA together with $1 5 ~ { \\mu \\mathrm { g } }$ of psPAX2 and $1 0 ~ { \\mu \\mathrm { g } }$ of pMD2.G.Eight hours after transfection,the media were changed to high-serum DMEM $2 0 \\%$ FBS with $2 5 ~ \\mathrm { \\ m M }$ HEPES)．Another $^ { 4 0 \\mathrm { ~ h ~ } }$ later,the media (from twenty $1 5 \\mathrm { - c m }$ dishes of transfected cells) were collected and centrifuged at $3 , 0 0 0 \\ \\mathrm { r . p . m }$ .for $1 0 \\ \\mathrm { m i n }$ .The supernatant was filtered through a $0 . 2 2 \\mathrm { - } \\mu \\mathrm { m }$ membrane and aliquots of $3 0 ~ \\mathrm { m l }$ were stored at $- 8 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the pilot experiment,the volume of the lentivirus library required for achieving an MOI of O.3 for infecting the target cell line was determined in the 12-well plate format.For the large scale screen, $T l r { 4 } ^ { - / - }$ iBMDM cells stably expressing the Cas9 protein were seeded in the $1 5 \\mathrm { - c m }$ dish $( 2 \\times 1 0 ^ { 6 }$ cells in $2 0 \\mathrm { m l }$ media per dish) and a total of $2 \\times 1 0 ^ { 7 }$ cells were infected with the $\\mathrm { { g R N A } }$ lentivirus library. Sixty hours after infection,cells were re-seeded at a density of $1 \\times 1 0 ^ { 5 } \\mathrm { m l } ^ { - 1 }$ in fresh media supplemented with $5 \\mu \\mathrm { g } \\ \\mathrm { m l } ^ { - 1 }$ puromycin (to eliminate non-infected cells).After6 to 8 days, ${ \\sim } 3 \\times { 1 0 } ^ { 8 }$ cells from five culture dishes were electroporated with LPS to trigger caspase-11-mediated pyroptosis,or stimulated withLFn-BsaK/protective antigen (PA) to induce caspase-1-mediated pyroptosis4;another $3 \\times { 1 0 } ^ { \\hat { 8 } }$ cells were left untreated as the control sample.Each screen was repeated another time.Surviving cells were collected after growing to near $9 0 \\%$ confluence and lysed in the SNET buffer ( $2 0 ~ \\mathrm { m M }$ Tris-HCL( $\\mathrm { \\ p H \\ 8 . 0 ) }$ $5 \\mathrm { m M }$ EDTA,400 mM NaCl, $4 0 0 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ Proteinase K and $1 \\%$ SDS). Genomic DNAs of each group of cells were prepared by using the phenol-chloroform extraction and isopropanol precipitation method.The DNA was dissolved in $\\mathrm { H } _ { 2 } \\mathrm { O }$ （20 $( 4 { - } 5 \\mu \\mathrm { g } \\mu \\mathrm { l } ^ { - 1 } )$ and used as the templates for amplification of the gRNA. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The gRNAs were amplified by a two-step PCR method using the Titanium Taq DNA polymerase (ClontechLaboratories).In the first step,six $5 0 \\mathrm { - } \\mu \\mathrm { l }$ PCR reactions (each containing $5 0 \\mu \\ g$ of genomic DNA template) were performed with the forward primer 50bp-F and the reverse primer 50bp-R;the PCR program used is $9 4 ^ { \\circ } \\mathrm { C }$ for180 s,16 cycles of $9 4 ^ { \\circ } \\mathrm { C }$ for 30 s, ${ 6 0 } ^ { \\circ } \\mathrm { C }$ for 10 s and $7 2 ^ { \\circ } \\mathrm { C }$ for $2 5 s$ anda final 2-min extension at ${ 6 8 ^ { \\circ } \\mathrm { C } }$ 、Products of the first-step PCR were pooled together and used as the template for the second-step PCR.Also six $5 0 \\mathrm { - } \\mu \\mathrm { l }$ PCR reactions (each containing $1 \\mu \\mathrm { l }$ of the first-step PCR product) were performed with the forward primer Index-Fand one of the reverse primers (Index-R1 to R6): Index-R1 for the control sample,Index-R2 for the replicate control sample, Index-R3 for the caspase-1l screen,Index-R4 for the replicate caspase-11 screen, Index-R5 for the caspase-1 screen and Index-R6 for the replicate caspase-1 screen. The PCR program used is $9 4 ^ { \\circ } \\mathrm { C }$ for 180 s,18 cycles of $9 4 ^ { \\circ } \\mathrm { C }$ for $3 0 s ,$ （20 ${ 5 4 } ^ { \\circ } \\mathrm { C }$ for10 sand $7 2 ^ { \\circ } \\mathrm { C }$ for $1 8 s _ { \\mathrm { : } }$ ,and a final2-min extensionat ${ 6 8 } ^ { \\circ } \\mathrm { C }$ Products of the second-step PCR reactions were subjected to electrophoresis on the $1 . 5 \\%$ agarose gel; the DNAs (the 31o-bp band) were extracted and sequenced at the HiSeq25o0 instrument (Ilumina) by using the 50-bp single-end sequencing protocol.The first19 nucleotides from each sequencing read are the gRNA sequence recovered from thelibrary.The frequency of each gRNA was obtained by dividing the gRNA read number by the total sample read number; the fold of enrichment was calculated by comparing the frequency of each $\\mathrm { g R N A }$ in the experiment sample with that in the control sample.Sequences for all the primers are listed in Supplementary Table 1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The top $5 0 \\mathrm { g R N A }$ hits from the caspase-1l screen were examined and 18 genes that are conserved in human and mouse were identified for siRNA knockdown validation in HeLa cells.HeLa cells expressed caspase-4 but not caspase-5 (Extended Data Fig.1b) and respond robustly to cytosolic $\\mathrm { L P S ^ { 9 , 1 0 } }$ .For each gene, a mixture of two independent siRNAs was used and the knockdown efficiency of 12 of those having mRNA expression in HeLa cells was confirmed.Importantly, only siRNAs targeting human GSDMD,besides the control CASP4-targeting siRNA,could efficiently block cytosolic LPS-induced pyroptosis (Extended Data Fig.lc).When assayed individually,the two GSDMD-targeting siRNAs both showed potent inhibition ofHeLa cell pyroptosis (Extended Data Fig.1d). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Generation of CRISPR-Cas9 knockout cell lines.Human codon-optimized Cas9 (hCas9) and GFP-targeting gRNA-expressing plasmids (gRNA_GFP-T1) were purchased from Addgene.The 19-bp GFP-targeting sequence in the gRNA vector was replaced with the sequence targeting the desired gene by QuickChange site-directed mutagenesis.The target sequences used are AGCATCCTGGC ATTCCGAG for mouse Gsdmd and TTCCACTTCTACGATGCCA for human GSDMD.To construct the knockout cell lines, $1 \\mu \\ g$ of gRNA-expressing plasmid, $3 \\mu \\mathrm { g }$ of hCas9 plasmid and $1 ~ { \\mu \\mathrm { g } }$ of pEGFP-C1 vector were co-transfected into $6 \\times 1 0 ^ { 6 }$ iBMDM or HeLa cells.Three days later,GFP-positive cells were sorted into single clones into the 96-well plate by flow cytometry using the BD Biosciences FACSAria II or the Beckman Coulter MoFlo XDP cell sorter. Single clones were screened by the T7 endonuclease I-cuting assay and the candidate knockout clones were verified by sequencing of the PCR fragments as described previously9.The PCR primers used are listed in Supplementary Table 1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Knockout mice and primary BMDM cells.All animal experiments were conducted following the Ministry of Health national guidelines for housing and care oflaboratory animals and performed in accordance with institutional regulations after review and approval by the Institutional Animal Care and Use Committee at National Institute of Biological Sciences.The Gsdmd knockout mice were generatedbyco-microinjection ofinvitro-translated $C a s 9 \\mathrm { m R N A }$ and gRNA into the C57BL/6 zygotes.Founders with frameshift mutations were screened with T7E1 assay and validated byDNA sequencing.Founders were intercrossed to generate biallelic $G s d m d ^ { - / - }$ mice.The gRNA sequence used to generate the knockout mice is AGCATCCTGGCATTCCGAG. C57BL/6 wild-type mice were from Vital River Laboratory Animal Technology Co.and $C a s \\dot { p } { l } / { l } { l } ^ { - }$ mice were obtained from the Jackson Laboratory. $R i p k 3 ^ { - / - }$ mice were a gift from X. Wang (National Institute of Biological Sciences,Beijing).Primary BMDM cells were prepared from 6-week-old male mice (C57BL/6 background) by following a standard procedure as previously described.For each experimental design,at least two mice were chosen to prepare the BMDM cells for assaying the inflammasome responses; the mice were not randomized and the investigators were not blinded. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cytotoxicity assay and $\\mathbf { I L - 1 } \\mathbf { \\beta }$ ELISA.Relevant cells were treated as indicated. Cell death was measured by the LDH assay using CytoTox 96 Non-Radioactive CytotoxicityAssay kit (Promega).Cell viability was determinedby the CellTiterGlo Luminescent Cell Viability Assay (Promega).To measure $\\mathrm { I L } { - } 1 \\beta$ release, primary BMDM cells were primed with LPS $( \\mathrm { \\bar { 1 } } \\mu \\mathrm { g } \\mathrm { \\ m l } ^ { - 1 } ,$ for $2 \\mathrm { h }$ and released mature $\\mathrm { I L } { - } 1 \\beta$ was determined by using the $\\mathrm { I L } { - } 1 \\beta$ ELISA kit (Neobioscience Technology Company). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Purification of recombinant proteins.To obtain recombinant human GSDMD, E.coli BL21 (DE3) cells harbouring pET28a- $\\mathrm { \\cdot H i s } _ { 6 }$ -SUMO-GSDMD were grown in LB medium supplemented with $3 0  { \\mu \\mathrm { g } }  { \\mathrm { m l } ^ { - 1 } }$ kanamycin. Protein expression was induced overnight at $1 8 ^ { \\circ } \\mathrm { C }$ with $0 . 4 ~ \\mathrm { m M }$ isopropyl-B-D-thiogalactopyranoside (IPTG)after $\\mathrm { \\ O D } _ { 6 0 0 } ~ \\mathrm { n m }$ reached O.8.Cells were harvested and resuspended in a lysis buffer containing $2 0 ~ \\mathrm { m M }$ Tris-HCl $\\mathrm { ( p H 8 . 0 ) }$ _ $1 5 0 \\mathrm { m M }$ NaCl, $2 0 ~ \\mathrm { m M }$ imidazole and $1 0 ~ \\mathrm { m M } :$ 2-mercaptoethanol. The ${ \\mathrm { H i s } } _ { 6 }$ -SUMO-tagged protein was first purified by affinity chromatography using Ni-NTA beads (Qiagen）and the SUMO tag was removed by overnight ULP1 protease digestion at $4 ^ { \\circ } \\mathrm { C }$ .The cleaved GSDMD was further purified by HiTrap Qion-exchange and Superdex G200 gel-filtration chromatography (GE Healthcare Life Sciences). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To obtain the constitutive-active caspase-11 $\\mathtt { p } 2 0 / \\mathtt { p } 1 0$ tetramer,cDNAs encoding the p20 large and pl0 small subunit were cloned into pET21a with a $6 \\times$ His tag fused to the C terminus of the plO subunit. The two subunits were separately expressed inE.coli with $1 \\mathrm { m M }$ IPTG induction for $^ { 4 \\mathrm { h } }$ at $3 0 ^ { \\circ } \\mathrm { C }$ Bacteria collected from1-lculture were resuspended and lysed in $1 0 0 \\mathrm { m l }$ oflysisbuffer( $5 0 \\mathrm { m M }$ TrisHCl $\\mathrm { ( p H ~ 8 . 0 ) }$ _， $1 5 0 \\mathrm { \\ m M \\ N a C l }$ and $1 0 \\ \\mathrm { m M }$ 2-mercaptoethanol) by sonication. Inclusion bodies,obtained by centrifugation of the lysates at $1 8 , 0 0 0 \\ \\mathrm { r . p . m }$ .for $\\mathrm { 1 h } ,$ was washed with $5 0 \\mathrm { m l }$ ofBuffer1( $\\mathrm { 5 0 } \\mathrm { m M }$ Tris-HCl $\\left( \\mathrm { p H 8 . 0 } \\right)$ ， $3 0 0 \\mathrm { m M N a C l }$ $1 \\mathrm { M }$ guanidiniumhydrochloride(GdnCl) and $0 . 1 \\%$ Triton X-100) and $5 0 ~ \\mathrm { m l }$ of Buffer2( $5 0 \\mathrm { m M }$ Tris-HCl $\\mathrm { ( p H 8 . 0 ) }$ _ $3 0 0 \\mathrm { m M N a C l }$ and1MGdnCl) twice for each buffer.The washed inclusion bodies were solubilized by stirring in $6 ~ \\mathrm { m l }$ of the solubilization buffer containing $6 . 5 \\mathrm { M }$ GdnCl, $2 5 ~ \\mathrm { m M }$ Tris-HCl $\\mathrm { \\langle p H } 7 . 5 \\mathrm { \\rangle }$ ） $5 \\mathrm { m M }$ EDTA and $1 0 0 \\ \\mathrm { m M }$ DTTovernight at room temperature.To obtain active $\\mathtt { p } 2 0 / \\mathtt { p } 1 0$ tetramers byrefolding, $1 2 ~ \\mathrm { m l }$ of above solubilized inclusion body solution containing denatured large and small subunits (molecular ratio,1:2) were drop-by-drop diluted in $5 0 0 ~ \\mathrm { m l }$ ofrefolding buffer ( $\\mathrm { i } 0 0 \\ \\mathrm { m M }$ HEPES, $1 0 0 ~ \\mathrm { m M }$ NaCl, $1 0 0 ~ \\mathrm { m M }$ sodium malonate, $2 0 \\%$ sucrose, $0 . 1 \\mathrm { ~ M ~ }$ NDSB-201 and $1 0 ~ \\mathrm { m M }$ DTT)and then gently stirred in a nitrogen atmosphere at $1 6 ^ { \\circ } \\mathrm { C }$ overnight.Protein aggregates were removed by centrifugation at $4 { , } 0 0 0 \\ \\mathrm { r . p . m }$ .for $2 0 ~ \\mathrm { m i n }$ and the refolded protein supernatants were concentrated and dialysed against a buffer containing $5 0 \\mathrm { m M }$ Tris-HCl $\\mathrm { ( p H 8 . 0 ) }$ $1 5 0 \\mathrm { m M N a C l }$ and $1 0 \\mathrm { m M }$ 2-mercaptoethanol.The protein was afinity-purified by theNi-NTAbeadsand further purified bythe Superdex G2o0 gel-filtration chromatography.Expression and purification of recombinant LFn-BsaK and LFn-FliC proteins were described previously4. Recombinant full-length caspase-4 and caspase-11 were expressed and purified from insect cells also as previously described'.Recombinant PreScission protease (PPase) proteins are routine lab stocks. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In vitro GSDMD cleavage by recombinant caspases.For cleavage by the $\\mathrm { p } 2 0 /$ pl0 tetramers of active caspase, $5 ~ { \\mu \\mathrm { g } }$ of purified recombinant GSDMD was incubated with 1 unit of caspase-1,2,4,8 and 9 or $0 . 1 ~ { \\mu \\mathrm { g } }$ of caspase-1l in a $2 5 \\mathrm { - } \\mu \\mathrm { l }$ reaction containing $5 0 ~ \\mathrm { m M }$ HEPES (pH7.5), $3 \\mathrm { m M }$ EDTA, $1 5 0 \\mathrm { m M N a C l }$ 0 $0 . 0 0 5 \\%$ (vol/vol) Tween-20 and $1 0 ~ \\mathrm { m M }$ DTT.The reaction was incubated for $6 0 \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C } .$ Forcleavage by LPS-activated caspase-4/11,the full-length caspase proteins purified from insect cells were first incubated with LPS,lipid A or MDP for $3 0 \\mathrm { m i n }$ at $3 0 ^ { \\circ } \\mathrm { C } ; 5 \\mu \\mathrm { g }$ of purified recombinant GSDMD was then reacted with the ligand-incubated caspases at $3 7 ^ { \\circ } \\mathrm { C }$ for $9 \\mathrm { { m i n } }$ .Cleavage of GSDMD was examined by Coomassie blue staining of the reaction samples separated on the SDS-PAGE gel. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "33.Koike-Yusa, H.,Li,Y.,Tan,E.-P.,del Castillo Velasco-Herrera,M.& Yusa,K. Genome-wide recessive genetic screening in mammalian cells with a lentiviral CRISPR-guide RNA library.Nature Biotechnol.32,267-273 (2014). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a10840402648642c097f48299b303360283d2332f1dc4714de21fd9e5c966f8a.jpg",
+        "img_caption": [
+            "Extended Data Figure 1|siRNAknockdown validation of the requirement of GSDMD for LPS-and LFn-BsaK-induced pyroptosis.a, LPS electroporation-induced pyroptosis in the absence of priming.Primary BMDMs (priBMDM)(wild-type(WT) or the Caspl and Caspl1 double knockout) or iBMDMcells (wild-type or $T l r { 4 } ^ { - / - }$ )wereassayed. $T l r { 4 } ^ { - / - }$ iBMDMs were used for the CRISPR-Cas9 screen in this study. b,Reverse-transcription PCR analyses of caspase-5 expression in HeLa and 293Tcells.Plasmid harbouring caspase-5 cDNA serves as the positive control. c,siRNA knockdown validation of the CRISPR-Cas9 screen of LPS-induced pyroptosis.HeLa cells were used to validate the selected top hits from the ",
+            "screen.Mixtures of two independent siRNA pairs targeting each gene were transfected into the cell.siRNAs targeting CASP4 and luciferase were used as the positive and negative control, respectively.d,Effects of GSDMD siRNA knockdown onLPS-induced pyroptosis inHeLa cells.e,f,Effects of Gsdmd siRNA knockdown on LPS and LFn-BsaK-induced pyroptosis in iBMDM cells.The knockdown efficiency(d,e) was measured by qRT-PCR analyses. ATP-based cell viability (a,c,d,f) and siRNA knockdown efficiency $( \\mathbf { d } , \\mathbf { e } )$ were expressed as mean values $\\pm$ s.d.from three technical replicates.Data shown are representative of two (c) or three $( { \\bf a } , { \\bf b } , { \\bf d - f } )$ independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "hGSDMD 1 MGSAFERVVRRVVQELDHG.GEFIPV QSSTGF .SWF K上 CVNLSIKD  \nmGSDMD 11 MPSAFDKVVKNVIKEVSGSRGDLIPVDS .MTMFENV TRALARQLNPR.GDLTPLDSLIDFKRFHP RNSTSFRP VLRKRKS NRKFSS SREWKPR.YSCVNLSI FWGA YVRTDYTLL TLEP  \nhGSDMB 1 MFSVFBEITRIVVKEMDAG.GDMIAVRSLVDADRFRCFHLVG....EKRTEFGCR.HYTTGLTLMDILD T  \nhGSDMC 1 MPSMLERISKNLVKEIGSK..DLTPVKYLLSATKLROEVILRKKKDSRSS SSEWEQSDYVPVEFSI LNDILE  \nhGSDMD 68 DAA. .EPDVQRGRSFHFYDAMDGQIQGSVELAAP GQAKIAGGAAVSDSSSTSMNVYSLSVDPNTWQTL  \nmGSDMD 69 .EPEPECEGSFKVSDVVDGNIOGRVMLSGMGEGKISGGAAVSDSSSASMNVCILRVTOKTWETMhGSDMA 67 GSS.. .PSDPTDTGNFGFKNMLDTRVEGDVDVPKT..VKVKGTAGLSONS..TLEVOTLSVAPKALETV  \nhGSDMB 65 DGDKWLDELDSGLQGQKAEFQILDN.VDSTGELIVRLPKEITISGSFOGFHHQKIKISENRISQQYLATLhGSDMC 69 SSS....VLETVVTGPEHFSDIMIQKHKADMGVNVGIEVSVSGEASVDHGCSLEEQIVTIPSPN...LED  \nhGSDMD 134 LHERHLRQPEHKVLQQLRSRGDNVYVVTDVIOTOKEVEVTRTHKREGSGRFSLPGATCLQ.GEGQGHLSQ  \nmGSDMD 135 QHERHLOOPENKILOOLRSRGDDLFVVTE TEVLOTKEEVOITEVHSQEGSGOFTLPGALCLK.GEGKGHQSR  \nhGSDMA 129 QERK..LAADHPFLKEMQDQGENLYVVMDVVETVOEVTLERAGKAEACFSLPFFAPLGLQ.....GSINHhGSDMB 134 ENRK .LKRELPFSFRSINTRENLYI ETLETVKEETLKSDRQYKFWSQISQGHLSYKH ..KG  \nhGSDMC 132 FQKRKLLDPEPSFLKECRRRGDNLYVV TEAVELINNTVLYDSSSVNILGKIALWITYGKGQGQGESLRVK  \nhGSDMD 203 KKIVT PSGSTLAFRVAOIVIDS. .DLDVLLFPDKKORTE  \nmGSDMD 204 K KMV TIPAGSILAFRVAOLLIGS..KWDILLVSDEKQRTEE  \nhGSDMA 192 KEAVTIPKGCVLAFRVROLMVKGKDEWDIPHICNDNMOTEhGSDMB 194 OREV TIPPNRVLSYRVKOLVEPN..KETMNIHFRGKTKS  \nhGSDMC 202 KKALTLQKGMVMAYKRKQI VIK .EKAILISDDDEQRTEQDEYEISEMVGYCAARSEGLLPSFHTISPT  \nhGSDMD 242 PPATGHKRSTSEGAWPQLPSGLSMMRCLHNELTDGVPAEGAFT.EDFOGLRAEVETISKELELLDRE  \nmGSDMD 243 .PSSGDRKAVGQRHHGLNVLAALCSIGKQLSLLSDGIDEEELIEAADEOGLYAEVKACSSELESLEME  \nhGSDMA 233 ......PGEKSGEEKVILIOASDVGDVHEG...FRTLKEEVORETQOVEKISRV  \nhGSDMB 233 ..EEKDGASSCLGKSLGSEDSRN......MKEKLEDMESVLKDITEE  \nhGSDMC 269 LFNASSNDMKLKPELFLTOOFLSGHLPKYEOVHILPVGRIEEPFWO..NEKHLOEEVFOKIKTLAOLSKD  \nhGSDMD 308 LCOLLLEGLEGVERDQLALRALEEALEOGQSLG.PVEPLDGPAGAVIECLVLSSGMLVPELAIPVVYLIG  \nmGSDMD 310 LROOILVNIGKITODOPSMEALEASLGOGLCSGGQVEPLDGPAGCITEC LECIVLDSGELVPELAAPIFYLLG  \nhGSDMA 278 GOSSLLSSLSKLIGKKKELODLELALEG. ALDKGHEVTIEAIP.KDVLLSKEAVGAILYEVG  \nhGSDMB 272 KRKDVLNSLAKCIGKEDIRODLEORVSEVLISG.:ELHMEDPDKP LGKEDIRODLEQRVSEVLISG..ELHMEDPDKPLISSIFNAAGVLVEARAKAILDELD  \nhGSDMC 337 VQDVMEYSILAMLRDRGALODLMNMLELDSSGH.. LDGPGGAILKKIOQDSNHAWFNPKDPILYLLE  \nhGSDMD 377 ALTMLS HKLLAEALE SQ LGPLEL DOSAPWQERSTMSLPPGLLGNSWGE.GAPAWVLLDEC  \nmGSDMD 380 ALAVLSETOOQLLAKALETTVISKQLELVKHVLEOSTPWQEQSSVSLPTVLLGDCWDE.KNPTWVLLEEC  \nhGSDMA 338 ALTELSEAOOKLLVKSMEKKILPVOLKLVESTMEONFLLDKEGVFPLOPELLSSLGDEELTLTEALVGLS  \nhGSDMB 340 AMSLYALEVSYONRYPWSIELKPELAPLOSEGLAIYGLEC  \nhGSDMD 446 GLELGEDT HVCWEPQAQGRM 上 SLALLSG SQEPH.  \nmGSDMD 449 GLRLQVESPQVHWEPTSLIPTS SALYASLE ASLFLISSIGQKPC.  \nhGSDMA 408 GLEVORSGPOYMWDPDTLPRL ALYAGLSLIOOLTKAS.  \nhGSDMB 377 ：： :ELASSP DMDYDPEAR.IL ALYVVVSILLELAEGPTSVSS  \nhGSDMC 472 GLRMELDNPRSTWDVEAKMPL LY GTLSLLQQLAEA.  \nb 0.14 mDFNA50.0440.046mGSDMA10.069 hGSDMA0.2240.106 mGSDMA30.099 mGSDMA20.26 hGSDMC0.1090.146 0.118 mGSDMC10.058mGSDMC40.061mGSDMC30.129 mGSDMC20.132 0.215 mGSDMD0.211 0.211 hGSDMD0.381 hGSDMB0.344 mDFNB59hDFNB590.142 hDFNA5",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "ExtendedData Figure2|The gasdermin familyof proteins inhumanand mouse.a,Multiple sequence alignment ofhuman GSDMA,GSDMB,GSDMC, GSDMD and mouse GSDMD.The alignment was performed by using the ClustalW2algorithmanddisplayed withESPript3.0 (http://espript.ibcp.fr/ ESPript/cgi-bin/ESPript.cgi).Identical residues are highlighted by the dark red background and conserved residues are indicated by red font.The black box "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "marks the caspase- $1 / 4 / 1 1$ cleavage motifs in human and mouse GSDMD.The residue number is indicated on the left of the sequence.b,Phylogenetic tree of all the gasdermin family of proteins in human and mouse.ClustalW alignment was carried out to generate the phylogenetic tree by using the Neighbor Joining' method.DFNA5 and DFNB59 are distantly related to the gasdermins,and the latter only contains gasdermin-N domain. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a b Human Fg0 H F Y D A M D G Q I Q LPS electroporation GSDMD KO-1 CAC TTC TAC GAT C ATG CAT GG CAG ATA CAG 18 川 TTC CAC TTC TAC GAT G- G GAT GGG CAG ATA CAG KO-2 TTC CAC TTC TAC GAT -CC ATG GAT GGG CAG ATA CAG Cee 4020 0 KO-3 TTC CAC TTC ATC GTA GAG -TG GAT GGG CAG GTA CAG HeLa-GSDMD WT KO-1 KO-2 KO-3 deletion of 58 bp C LPS electroporation Mouse S213 I L A F R V A Q L L I GSDMD AGC ATC CTG GCA TTC CGA GTG GCC CAA CTG CTT ATT (%) yill 100 80 1 KO-1 AGC ATC CTG GCA TTC C CGA GTG GCC CAA CTG CTT ATT AGC ATC CTG GCA TTC C CGA GTG GCC CAA CTG CTT ATT 60 40 KO-2 AGC ATC CTG GCA TT- CGA GTG GCC CAA CTG CTT ATT AGC ATC CTG GCA TT- CGA GTG GCC CAA CTG CTT ATT 20 0   \nd LPS electroporation e LPS electroporation iBMDM-GsdmdWT KO-1 KO-2 100 8 88 一 f 100 LFn-BsaK 0 0 (%)ill 860 40 I HeLa-GSDMD WT KO-1 iBMDM-Gsdmd WT KO-1 20 mGSDMD mGSDMD mGSDMD mGSDMD 0 WT KO-1 KO-2 Tubulin Tubulin iBMDM-Gsdmd ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/46b99915eed7f9d0c7e0a3b89feb650dc160f45a2f29fc9ff1b81366428590f8.jpg",
+        "table_caption": [
+            "a LFn-BsaK CRISPR-Cas9 screen hits with multiple gRNAs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>RankingGene_gRNA#</td><td></td><td>Average folds of enrichment</td><td>gRNA sequence</td></tr><tr><td>1</td><td>NIrc4_2</td><td>3695.249</td><td>GTTTCGAATAGTCCCCCCC</td></tr><tr><td>2</td><td>NIrc4_1</td><td>2797.553</td><td>AGGTGCCTCATGACCGCCC</td></tr><tr><td>3</td><td>NIrc4_5</td><td>2202.819</td><td>ATATGGATGATCTTTCGGG</td></tr><tr><td>4</td><td>NIrc4_4</td><td>1798.824</td><td>ATCAGCAAGCCGACCTTCA</td></tr><tr><td>6</td><td>Naip2_5</td><td>1599.965</td><td>TTCTGGTCGTAATTTCTTG</td></tr><tr><td>7</td><td>NIrc4_3</td><td>1241.855</td><td>ATCTGCTCCTCTACACGTG</td></tr><tr><td>8</td><td>Casp1_3</td><td>1143.169</td><td>AGGGCAAGACGTGTACGAG</td></tr><tr><td>10</td><td>Casp1_1</td><td>877.4373</td><td>GAATTCTGGAGCTTCAATC</td></tr><tr><td>12</td><td>Fbx044_1</td><td>659.6165</td><td>ATCGCCTCCGTTCACGTCC</td></tr><tr><td>13</td><td>Casp1_5</td><td>649.6994</td><td>ATGTCTCATGGTATCCAGG</td></tr><tr><td>15</td><td>Naip2_4</td><td>554.2724</td><td>ACTGGCCCCACGAATCACC</td></tr><tr><td>17</td><td>Naip2_2</td><td>315.3426</td><td>ACAGCCCCGGGTGATTCGT</td></tr><tr><td>18</td><td>Casp1_4</td><td>246.0405</td><td>CAACTTGAGCTCCAACCCT</td></tr><tr><td>21</td><td>Naip2_1</td><td>202.6801</td><td>CTAGACTCGTATCTAGGTA</td></tr><tr><td>36</td><td>Antxr2_4</td><td>67.18251</td><td>TGACGGACGGTAAGCTGGA</td></tr><tr><td>57</td><td>Ccdc6_3</td><td>35.80221</td><td>CTCGCCGTGAATTACGAGA</td></tr><tr><td>88</td><td>Ccdc6_5</td><td>23.54041</td><td>CTCGCCGTGAATTACGAGA</td></tr><tr><td>138</td><td>Gsdmd_3</td><td>16.5958</td><td>CAACAGCTTCGGAGTCGTG</td></tr><tr><td>153</td><td>1700034J05Rik_4</td><td>15.40841</td><td>CTCTTCAGGAAACGAGATC</td></tr><tr><td>171</td><td>Plekhg6_3</td><td>14.6932</td><td>CAGACCATGGCTTATGCGC</td></tr><tr><td>195</td><td>Bcl2/2_1</td><td>13.87979</td><td>CCTAACTGGGGCCGTCTTG</td></tr><tr><td>203</td><td>Plekhg6_1</td><td>13.46514</td><td>ATAAATGGCCAGGTCCGAC</td></tr><tr><td>236</td><td>Fbx044_4</td><td>12.63271</td><td>GGCTTCATCACCGAGGACT</td></tr><tr><td>239</td><td>Antxr2_2</td><td>12.47934</td><td>GCTAGTGTTTACTGCGTTG</td></tr><tr><td>338</td><td>Bcl2l2_5</td><td>9.98516</td><td>CCTAACTGGGGCCGTCTTG</td></tr><tr><td>340</td><td>1700034J05Rik_2</td><td>9.970983</td><td>CTGGCCTGGGATATCGATG</td></tr><tr><td>352</td><td>Gsdmd_4</td><td>9.753432</td><td>AGCATCCTGGCATTCCGAG</td></tr><tr><td>353</td><td>Gm97_5</td><td>9.727808</td><td>CTGGCTCACCTATATGCCC</td></tr><tr><td>365</td><td>Gm97_4</td><td>9.490875</td><td>CTGGCTCACCTATATGCCC</td></tr><tr><td>376</td><td>Ppp1r3b_3</td><td>9.245637</td><td>AGCCCCTGGTTGTCGGCGA</td></tr><tr><td>380</td><td>Ppp1r3b5</td><td>9.168484</td><td>ACAGTTTTCTAGGCAGACG</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d736769714cf0165f93e7ce4b8e43161219e9d5d0fbbee4a6bc744925f009dec.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ExtendedDataFigure 4|CRISPR-Cas9 screenofLFn-BsaK-triggered pyroptosis and effects of Gsdmd knockout onLFn-BsaK-induced and caspase-1-mediated caspase-3/7cleavage.a, gRNA hits froma genome-wide CRISPR-Cas9 screen of LFn-BsaK-induced pyroptosis in mouse $T l r { 4 } ^ { - / - }$ iBMDMcells.Shown are those genes with multiple gRNAhits.The ranking, the average fold increase and the sequences for each gRNA are listed.Genes highlighted in red encode known components in the pathway (Antxr2 encodes the endocytosis receptor for the LFn tag) and were hit by multiple gRNAs. b,siRNA knockdown validation of screen hits.Mixtures of two independent siRNA pairs targeting each gene were transfected into the iBMDMcells before stimulation with LFn-BsaK.siRNAs targetingNlrc4and luciferase were used as the positive and negative control, respectively.ATP-based cell viability is expressed as mean values $\\pm \\ s . \\mathrm { d } .$ from three technical replicates.c,Caspase-3/7 activation upon prolonged LFn-BsaK treatment in wild-type and Gsdmd-/- (the KO-1 clone; KO,knockout) iBMDM cells.Cell lysates were analysed by anti-caspase-3/7 and tubulin immunoblotting.Data shown are representative of two ${ \\bf ( b ) }$ and three (c) independent experiments. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/32377c76bed1b2ea325c55099c7cd932b0828c482eac866c2ff24e7392896896.jpg",
+        "img_caption": [
+            "Extended Data Figure 5|GSDMD is not required for and not cleaved in TNFa-induced necroptosis and apoptosis.a-c,Effects of GSDMD knockdown on LPS electroporation-induced pyroptosis and TSZ-induced necroptosis in HT-29 cells.Two independent GSDMD-targeting siRNAs (#1 and #2) were assayed and the immunoblots ina show the knockdown efficiency.d,e,PrimaryBMDMcells from $G s d m d ^ { - / - }$ or other indicated mouse strains were stimulated with TSZ (d) or $\\mathrm { L P S } + \\mathrm { z V A D }$ (e) to trigger necroptosis. f, The absence of GSDMD cleavage in TNFα-induced apoptosis and "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "necroptosis. $2 \\times$ Flag-HA-GSDMD was stably expressed in HeLa and HT-29 cells.Apoptosis was induced by $\\mathrm { T N F } \\mathfrak { X } + \\mathrm { C H X }$ treatment in HeLa cells and necroptosis was induced by TSZ stimulation of HT-29 cells.Lysates of stimulated cells were analysed by anti-Flag and anti-tubulin immunobloting to examine possible GSDMD cleavage.GSDMD-FL,full-length GSDMD. ATP-based cell viabilityis expressed asmean values $\\pm$ s.d.from three technical replicates (b-f).Data shown are representative of atleast two independent experiments. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/30a9f1386eab1dde7c8bee6e7c17f41e9db7549338e42ec9181045feb2682595.jpg",
+        "img_caption": [
+            "Extended Data Figure 6|Generation of Gsdmd-/-mice and assays for inflammasome-mediated caspase-1 autoprocessing and secretion. ",
+            "mice.c,Primary BMDMs derived from wild-type or $G s d m d ^ { - / - }$ mice were stimulated with indicated canonical inflammasome stimuli or infected with S.typhimurium (wild type or the T3SS-deficient△sipD mutant).Total cell lysates or the culture supernatants were subjected to anti-caspase-l or antitubulin immunoblotting.Data shown $( \\boldsymbol { \\mathbf { b } } , \\boldsymbol { \\mathbf { c } } )$ are representative of two independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "a,Gsdmd-/- mice were generated by CRISPR-Cas9-mdiated targeting.Shown are the sequence mutations in the two homozygous F1 lines (F1-1 and F1-2) used in the study.b,Anti-caspase-1/caspase-11 immunoblots of lysates of unstimulated primary BMDMcells derived from wild-type and $G s d m d ^ { - / - }$ immunoblots of cell lysates to examine GSDMA3 cleavage and the lower panel shows ATP-based cell viability expressed as mean values $\\pm$ s.d. from three technical replicates.c,The absence of GSDMA3 cleavage in $\\mathrm { T N F } \\mathfrak { X }$ -induced apoptosis and necroptosis.Flag-GSDMA3 was expressed in HeLa and L929 cells.Apoptosis was induced by $\\mathrm { T N F } \\mathfrak { X } + \\mathrm { C H X }$ treatment in HeLa cells and necroptosis was induced by TSZ stimulation ofL929 cells.Lysates of stimulated cells were analysed by anti-Flag and anti-tubulin immunoblotting. Data shown are representative of three independent experiments. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/c296c1e2f759ab37b61b34ce4379b6d8e7b2ad1ec3d07de1a77ad80162538035.jpg",
+        "img_caption": [
+            "Extended Data Figure 7|Specific cleavage of GSDMD by inflammatory caspases.a,Effects of Gsdmd knockout on caspase-1 activation by the AIM2 inflammasome.Indicated iBMDMcells were stimulated by poly(dA:dT) transfection.b,Effects of the pan-caspase inhibitor zVAD on LPS electroporation-and LFn-BsaK-induced GSDMD cleavage in HeLa and iBMDMcells,respectively.ATP-based cell viability is expressed as mean values ",
+            "$\\pm$ s.d.from three technical replicates.c,Assays of GSDMD cleavage by inflammatory and apoptotic caspases overexpressed in cells. $3 \\times$ Flag-GSDMD was co-transfected with indicated Myc-caspase into 293T cells.Total cell lysateswere analysed byanti-caspase-1 (a,b),anti-Flag(b,c),anti-Myc (c) and anti-tubulin $\\left( \\mathbf { a - c } \\right)$ immunobloting.Data shown are representative of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/28eaf6fbb5b3d70f3a3b38a292f2aeabed7f42f515644386ae5f97354e8746f7.jpg",
+        "img_caption": [
+            "Extended Data Figure 8|Resistance of the GSDMDD/A mutant to inflammatory-caspase cleavage.a,b,Assays of proteolytic cleavage of the GSDMD D/A mutant by overexpression-activated inflammatory caspases. $3 \\times$ Flag-tagged mouse (a) or human (b) GSDMD (wild-type or the D/A mutant) was co-transfected with Myc-tagged caspase-1/11(a) or caspasel/4/5/ 11 (b) into 293T cells.Cell lysates were analysed by anti-Flag,anti-Myc and anti-tubulin immunoblotting. c,d,Assays of proteolytic cleavage of GSDMD D/A mutant by bacterial-infection-activated caspase-1.Wild-type,Gsdmd knockout (the KO-1 clone),or Gsdmd KO-1 complemented with $2 \\times$ Flag",
+            "HA-GSDMD (wild-type or the D/A mutant) iBMDMcells were infected with wild-type S.typhimurium(c),B.thailandensis or EPEC(d) to induce caspase-1 activation (by the NAIP-NLRC4 inflammasome),or their T3SS-deficient mutant strains(△sipD,△bipB and △escN,respectively)as controls.Cell lysates were analysed by anti-caspase-1,anti-tubulin and anti-Flag immunoblotting. p10,mature caspase-1.GSDMD-FL,full-length GSDMD;GSDMD-N, the N-terminal cleavage product of GSDMD.The D/A mutants refer to D275A for human GSDMD and D276A for mouse GSDMD.Data shown are representative of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e464317b3a635dbb3708e683964333ce7350f5ee6b25e0838ddb4d20d5368f8.jpg",
+        "img_caption": [
+            "ExtendedDataFigure9|CharacterizationofGSDMA3andother gasdermin family members.a,Flag-tagged GSDMA,GSDMB,GSDMC and GSDMD were co-transfected with caspase-1 (upper panel) or caspase-11 (lower panel) into 293T cells.Cell lysates were analysed by anti-Flag,anticaspase-1,anti-Myc or anti-tubulin immunoblotting.b,Wild-type GSDMA3 oraGSDMA3-mutantharbouringa PPase cleavage site between its gasderminN and -C domain was expressed in 293T cells.Recombinant PPase was transfected into the cells by electroporation. The upper panel shows the "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

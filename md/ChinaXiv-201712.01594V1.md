@@ -1,0 +1,191 @@
+# CSpace机构知识库影音资源支持能力扩展研究与实践
+
+吴志强祝忠明姚晓娜 王思丽(中国科学院兰州文献情报中心 兰州 730030)
+
+摘要：【目的】提出机构知识库影音支持能力扩展方向，实现CSpace 机构知识库影音支持能力扩展。应用背景】影音知识资源在机构产出中所占比例不断增长，扩展机构知识库影音支持能力可更好地揭示、发现影音知识资源，挖掘和利用其学术研究价值和潜力。【方法】分析用户的应用需求和国内外机构知识库影音支持服务的发展趋势，构建机构知识库影音资源支持功能扩展框架，选择其中的关键技术和方法搭建实验平台，探索将其应用于CSpace 系统的可行性。【结果】实现了影音格式转换、视频场景分析和具有场景导航功能的播放器。【结论】影音转码稳定性和效率较高，其他影音支持功能离实用还存在一定距离，将影音格式转换技术应用于CSpace 机构知识库系统中，能够扩展机构知识库的影音支持服务。
+
+关键词：机构知识库CSpace 影音FFMPEG功能扩展分类号：G250
+
+# 1引言
+
+机构知识库(Institutional Repository，IR)是机构数字知识资产长期保存与应用的重要基础平台，随着信息技术的发展以及开放获取运动的兴起，机构数字知识资产的可靠保存、有效组织和重用成为科研教育机构关注的热点问题，越来越多的科研教育机构开始规划或着手建设机构知识库系统。
+
+CSpace是中国科学院兰州文献情报中心研发的机构知识库系统，2007年开始部署于中国科学院所属研究所，为研究所开展多种类型知识产出的采集、保存、管理和传播利用提供了可靠稳定的政策、平台和服务支持。经过近10年的发展，目前除了中国科学院系统的110多个研究所使用之外，正逐步向院外用户推广，已在多家科研机构、高校以及企业部署使用。随着多媒体技术的应用和普及，CSpace用户在机构知识库系统中存储的影音类非文本知识资源比例不断增长，用户对影音知识资源的存储和应用方式也有了更高的要求，为了适应用户的需求，更好地揭示、发现影音知识资源，挖掘和利用其学术研究价值和潜力，需要进一步扩展机构知识库影音知识资源的支持能力。
+
+本文梳理了国内外在影音资源长期保存与应用方面的研究现状，结合当前机构知识库用户对影音长期保存与应用方面的需求，构建了机构知识库影音存储与应用功能扩展架构，并对其中的关键技术进行研究与实践，将较为成熟、稳定、可靠的影音支持功能集成到CSpace系统中，扩展了CSpace系统的影音资源支持能力。
+
+# 2 国内外研究现状
+
+随着信息技术的发展，影音数字资源已经成为科研人员普遍产出和应用的知识资源[1]，国际上越来越多的大学和科研机构开始通过扩展IR或建设专门数字知识库的方式培育和发展机构支持影音等非文本知识资源存储、组织、管理和服务的能力。根据OpenDOAR[2](TheDirectoryof Open AccessRepositories)开放数字知识库登记系统的统计数据，全球已有740多个数字知识库不同程度地涉及影音的存储管理。
+
+从当前国际上IR对影音的存储管理和支持能力来看，一般采用类似于文本内容管理的方式，支持对影音对象进行描述、上载和保存，提供基于元数据描述的检索和发现利用，同时大都在内容的呈现过程中嵌入相关的媒体浏览器或播放器，提供在线浏览和播放利用的服务，如DSpace[3]、Fedora[4]。部分研究机构已经尝试在IR中引入相对成熟的场景、语音、文本和图像识别等基于内容的影音分析方法和技术，以增强IR对影音内容的描述和组织能力，如德国国家科技图书馆专门成立了非文本文献能力中心(CompetenceCentre for Non-textualMaterials)，将多媒体存储和分析方法应用于大学演讲视频的情景、语音和图像的元数据处理和识别，并将识别结果和文本知识进行语义集成关联，方便用户像获取文本资源一样快速地查找和使用数据巨大的影音知识资源[5-6]；Yovisto[7讲座视频门户将自动视频分析与用户自主的标注、评价等Web2.0服务进行集成应用，视频播放具有场景导航功能；ScienceCinema[8]是由美国科技信息办公室(OSTI)和欧洲核子研究中心(CERN)共同创建的科学视频门户，采用微软提供的音频索引和语音识别技术，用户可以检索视频文件语音中特定的词语，检索词可在音频片段中突出显示。
+
+近年来，国内机构知识库建设进人快速发展时期，高校、科研机构以及公共图书馆在机构知识库或专门数字知识库建设中也加强了影音知识资源的支持能力研究，如大学数字图书馆国际合作计划(ChinaAcademicDigitalAcademicLibrary,CADAL)项目由浙江大学图书馆与中国科学院共同承担，对影音中的文本、声音和视频信息进行分析提取，用于影音资源的检索；清华大学的基于内容的视频信息管理系统TH-CVIMS(TsingHua Content-based Video InformationManagementSystem)通过镜头切变和渐变检测、视频特技镜头检测等基于内容的视频分析方法，实现了视频数据分割、标注和检索等功能；国防科技大学多媒体研究中心和系统工程系研究开发了新闻节目浏览检索系统(New VideoCAR)和多媒体信息查询和检索系统(MICR)，能够对新闻视频的内容进行自动分析、分类和管理，用户可以快速定位感兴趣的新闻片断，也可以快速掌握一段新闻的大意。此外，北京大学、浙江大学、上海交通大学、复旦大学、中国科学院计算技术研究所、微软亚洲研究院等一些科研机构都开展了相关的研究,并获得了一定的成果[9-12]。在IR 领域之外，国内在影音的存储、处理和利用方面的技术发展较快，如百度旗下的爱奇艺已经将视频关键帧提取与展示技术应用于视频平台中，用户在视频播放过程中，将鼠标放置于时间线上即可看到所指时间的视频画面，为用户快速浏览和查找所需要的视频资源提供了便利；优酷播放平台除了和爱奇艺一样，提供视频关键帧导航功能之外，在时间线上还通过视频内容提示点，将视频分割成若干个视频片段，在提示点标注视频片段的内容信息，进一步为用户提供了便利。
+
+总的来看，加强影音知识资源的支持能力建设已成为机构知识库建设中的一个重要研究方向。IR领域之外，有关影音的处理和利用技术发展较快，通过内容分析和索引技术的应用，提供基于内容的按例检索、可视化导航等新型信息发现利用已经成为一种方向和趋势。有关的研究和成果，也为IR扩展影音支持能力提供了更加丰富和有力的方法与技术选择。
+
+# 3机构知识库影音资源支持功能框架
+
+# 3.1 功能需求
+
+CSpace4.0系统支持对影音知识资源的描述、上载和保存，但由于影音资源的格式复杂多样，CSpace4.0自身没有格式转换功能，为了满足影音资源的在线浏览播放需求，用户在上传影音资源的时候，首先需要在本地计算机上通过第三方视频格式转换工具，如格式工厂将视频转换为可在线播放的FLV和MP4格式，然后才能上传到CSpace系统中。CSpace4.0系统部署应用后，用户反映有时按照系统说明，将视频格式转换成符合要求的格式之后，在CSpace系统中也无法进行正常的播放浏览，经排查发现：
+
+(1）用户上传的视频虽然显示的是FLV或者MP4格式，但视频封装中视频流的设置有问题，导致无法播放;
+
+(2）视频文件的MoovAtom元数据信息一般放置在文件的前部，主要描述视频的时长、分辨率等基本信息，视频播放器需要加载视频的MoovAtom元数据信息，才能初始化播放视频文件。正常情况下视频MoovAtom元数据应该放在视频文件的头部，但有些视频文件在封装时将视频描述信息置于文件末尾，视频播放器无法加载到这些信息就会一直缓冲，从而无法实现视频的边加载边播放功能。
+
+另一方面，国际上部分研究机构已经尝试将视频场景分析、关键帧提取、语音和图像识别等影音分析处理技术应用到机构知识库或数字知识库平台中，可为用户提供更好的影音支持服务。根据用户的需求反馈以及机构知识库影音支持能力的发展趋势，机构知识库影音支持扩展功能包括：
+
+# (1）影音格式转换
+
+视频文件由音频流和视频流封装而成，音频流和视频流的编码格式以及视频的封装格式都有多种类型，从而导致视频文件的格式复杂多样。若不对其进行统一的格式转换，将给后期进一步的分析、处理和应用造成极大的困难，为便于后期的处理和应用，当用户提交影音文件后，需按照统一的转换格式和参数，对其进行转换处理。
+
+# (2）影音信息提取与标注
+
+影音信息包括技术元数据信息和内容元数据信息，技术元数据信息如码率、分辨率、时长、比特率等的提取较为容易，可通过现有的开源工具FFMPEG[13]完成。内容元数据包含的信息较多，如视频镜头、场景、文本、图像、声音等多个方面的信息，需要综合采用多种方法和技术抽取获得，其提取的充分性、完整性和准确性将对后期的视频检索和应用产生直接的影响。
+
+# (3）影音播放导航
+
+通过影音信息自动提取与标注技术获得的视频场景、关键帧、内容文本等信息需通过一定的方式进行组织呈现，从而使用户能够实现方便的检索、发现和应用。通过在影音播放器中嵌入视频导航功能，可为用户提供基于视频场景和关键帧的导航，也可将视频内容文本或标签与视频时间点进行关联，基于JS脚本，点击相应的内容文本或标签即可跳转到相应的视频时间点，实现基于视频内容的导航。
+
+# 3.2 功能框架
+
+机构知识库影音资源支持能力扩展框架如图1所示，底层影音存储、加工与标引功能通过计算机自动完成，包括影音存储、格式转换、技术元数据提取、场景分析、关键帧提取、内容分析与标引等方面，经过分析处理后的影音资源可支持机构知识库上层的影音场景导航、关键帧浏览、内容推荐等功能，对影音资源的处理加工深度和质量决定了机构知识库影音资源支持服务的丰富性和有效性。影音存储、加工、标引功能涉及的技术和方法较为复杂，为了提供稳定、可靠的服务，在功能实现过程中，主要采用技术相对成熟稳定的算法和方法，采取由浅入深、逐步扩展的方式进行。
+
+![](images/b970450fc053739fb13165dbf1c77fb68c73597317142332eba6093cbb27090a.jpg)  
+机构知识库影音资源支持服务  
+图1机构知识库影音资源支持功能框架
+
+# 4关键技术研究与实验
+
+影音资源存储、加工和标引所涉及的技术和方法较多，对其中的关键技术和方法进行研究和实验，选择稳定可靠的功能，集成到CSpace系统中，扩展影音支持服务功能，同时对相关的技术和方法进行深人的实验研究，也为进一步的影音支持能力扩展做好铺垫。
+
+# 4.1 视频格式转换
+
+视频在线浏览主要采用FLV或MP4格式，FLV视频文件播放需要Flash插件的支持，在苹果iOS系统上无法播放，为了系统的跨平台和移动端应用需求，CSpace系统将视频统一转换为MP4格式。当前视频格式转换工具较多,FFMPEG以其开源和成熟的技术、跨平台的特点得到了广泛的应用，支持对AVI、MP4、FLV、MPG、WMV、3GP、MOV、ASX、ASF等多种常见影音格式进行编解码操作，但不支持 RM、RMVB、WMV9这些常见视频格式，因此，在视频格式转换过程中，对于RM、RMVB、WMV9格式的视频文件首先采用另一款格式转换工具MEncoder[14]转换为AVI格式，然后采用FFMPEG转换为MP4格式，FFMPEG支持的视频直接转换为MP4格式，为了防止视频文件的MoovAtom元数据后置导致的视频无法边加载边播放问题，视频转换为MP4格式后，通过MEncoder工具包中的qt-faststart工具，检测视频文件MoovAtom元数据位置，如果位置在视频文件的最后，则将其移动到文件前部，格式转换流程如图2所示。
+
+![](images/b933d4b464bd11d39b1b261e5e860bec603fa8d2529af47c6af9faa30fc081c8.jpg)  
+图2影音格式转换流程
+
+采用Java语言，按照上述影音转换流程，通过命令行的方式调用FFMPEG、MEncoder 和qt-faststart构建测试程序。具体调用方式如下所示，采用两个CPU进行格式转换，将视频文件转换为H.264编码格式。
+
+mencoder 12.rmvb -oac mp3lame -lameopts prese $\scriptstyle 1 = 6 4$ -ovc xvid -xvidencopts bitrate $\scriptstyle \sum 6 0 0$ -of avi -o temp.avi ffmpeg-i temp.avi -c:v libx264-y-threads 2 temp.mp4 qt-faststart temp.mp412.mp4
+
+分别在Windows平台和Linux平台进行视频格式转换测试，测试文件分为 MP4 和RMVB两种格式,Linux实验平台采用VM虚拟机搭建，和Windows 测试系统采用相同的计算机，主要配置如下：CPU为Inteli78核；内存8GB，集成显卡。测试发现：FFMPEG视频格式转换的时效比(转换所需时间/视频时长 $\times 1 0 0 \%$ 约为 $13 \%$ ，MEncoder视频格式转换时效比约为 $1 1 \%$ ，qt-faststart工具主要判断视频文件的MoovAtom元数据信息位置以及位置转移工作，其执行速度较快，可以忽略不计,100分钟的视频文件完成格式转换最快约需要13分钟，格式转换效率较高，转换工具的运行也非常稳定。
+
+# 4.2 视频分析
+
+视频分析过程如图3所示，包括场景/镜头分析、图像和文本识别等方法和技术，经过调研和分析，主要选择场景/镜头分析方面的技术进行研究和实验。
+
+视频镜头识别使用开源的视频处理工具OpenCV2.4.9[15]，通过调研和学习现有的视频镜头识别技术，采用图像像素差和双阈值的方法，初步实现了镜头识别，可获取每个镜头的关键帧，以及镜头的起止时间信息，并可自动为每个视频文件建立一个
+
+![](images/1c09a23fd46aeba3f0061b73386ee9a7ff486f2667316a10317372054e00fa59.jpg)  
+图3视频分析过程
+
+XML文档，将镜头的起止时间、关键帧图片存储路径信息保存到XML文件中(格式如下所示)，实现了视频$$ 帧图像结构的保存与组织，视频镜头的切分准确率尚可，但视频分析的时效性较弱。
+
+$< ? \mathrm { x m l }$ version $\scriptstyle { \mathfrak { = } } " 1 . 0 ^ { \prime }$ encoding="utf-8"?>   
+<ckplayer> <img_path $>$ ckplayer/imgframe/</img_path><!-- 关键帧文件夹地址 $\mathrm { . . } >$ <totaltime>146</totaltime><!--视频时间--> <img_button> <img> <id>1</id> <img>1.jpg</img> <duration>0,20</duration> </img> <img> <id>2</id> <img>2.jpg</img> <duration>20,45</duration> </img> <img> <id>12</id> <img>12.jpg</img> <duration>128,146</duration> </img> </img_button>   
+</ckplayer>
+
+# 4.3 视频导航
+
+视频导航需要选择适当的在线流媒体播放器进行二次开发，实现播放界面中集成显示场景信息、关键帧预览，以及视频播放定位功能。经过调研分析，以国内应用广泛的CKplayer[16视频播放器为基础，采用AS3.0进行二次开发，使其具有视频镜头导航功能，具体的播放导航效果如图4所示。
+
+![](images/10ae1c8f642c4abbac3651725fbc8ed96ede53fdd0ee7fbbe80e2362e1f2c009.jpg)  
+图4具有视频导航功能的播放器
+
+视频播放时，向播放器传递视频文件和其对应的XML文档位置信息，播放器通过XML文档中存储的视频镜头起始时间、关键帧信息，加载导航模块。视频导航区域在播放器视频播放区域和时间条之间，将鼠标移动到视频镜头缩略图上，可大图显示视频的关键帧，同时也可左右滑动鼠标，查看各个镜头的主要内容，若需要观看某个视频片段，可点击相应镜头的关键帧图片直接将视频播放位置切换到所点击镜头的播放位置。
+
+# 5CSpace影音支持能力扩展
+
+通过研究现有的影音支持关键技术，首先选择较为稳定成熟的视频格式转换技术应用到CSpace 机构知识库系统。视频转码采用CSpace机构知识库的事件触发及处理机制[17]，具体转换机制如图5所示。
+
+![](images/effa09da92f9a9d20edb62f48868ca5d122a6bdb48342ed6a886b7fafe109bf5.jpg)  
+图5CSpace 影音格式转换机制  
+图6影音转换时机设置
+
+视频文件以Bitstream 实体对象的方式存储于CSpace系统的bitsteam表中，一个Bitstream对象即为一条记录，格式转换后的视频文件也以Bitstream 对象的方式存储，其与原始视频之间通过parent_bitstream_id字段建立关联，通过convert_status 字段记录视频的格式转换状态，转换状态定义如下所示：
+
+public static final intBITSTREAM_CONVERT_NOW $\scriptstyle \mathbf { \bar { \rho } } = 1$ · /影音立即开始转码   
+public static final intBITSTREAM_CONVERT_AUTO $_ { \ d = 2 }$ //根据影音转码任务确定转码时机   
+public static final intBITSTREAM_CONVERT_ON $\scriptstyle \mathbf { \bar { \rho } } = 3$ ： //转码中   
+public static final intBITSTREAM_CONVERT_FINISH=4; //转码完成   
+public static final intBITSTREAM_CONVERT_ERROR $_ { . = 5 }$ ·
+
+//转码失败
+
+在CSpace系统的条目提交/编辑过程中，当视频文件上传成功后，系统自动调用FFMPEG提取视频文件的时长、分辨率、码率、格式等技术元数据信息，存储到数据库中。由于视频格式转换需要耗费服务器较多的CPU和内存资源，为了兼顾用户的各种应用需求，设置视频格式转换时机选项，在如图6所示的文件列表中，用户可点击修改按钮，在文件信息编辑部分，设置视频文件格式转换的时机，如果提交者不选择格式转换的时机，则条目提交或更新时，系统将根据视频文件的时长信息，进行格式转换时机判断，若时长小于两小时则将其加入到文件转换队列中，更新数据库中的格式转换状态为正在转换；若视频时长超过两个小时，则将格式转换状态设置为BITSTREAMCONVERT_AUTO，CSpace系统设置了视频转换定时任务，在每天凌晨两点自动启动转换任务，从bitstream表中筛选未进行格式转换的视频文件，以ID为排序依据，将前5个视频文件加入到视频格式转换队列中进行格式转换，在视频格式转换的各个阶段，都会对数据库中的格式转换状态字段进行更新。
+
+主文件/全文 文献类型 版本 格式转换 许 访问权限 操作知识共享署名-非 修改  
+12.mp4 影音 立即转换 商式共使用开放获取 生成议 删除知识共享署名-非 修改  
+○实验过程1.rmvb 影音 自动选择空商业性使用-相同开放获取 生成议 删除  
+全文权限设置  
+全文名称 实验过程1.rmvb  
+文献类型 影音 √  
+版本  
+格式转换 □立即转换  
+许 t非用同方.  
+访问权限 发布时限： 立即发布 在线浏览：无限制 V全文下载：无限制 V填写元数据 确定 取消
+
+视频文件加入到转换队列后，文件的转换状态将更新为正在转换状态，在等待或转换过程中，如果CSpace服务重启或者停止，视频文件的状态则一直停留在正在转换状态，这种情况下，为了保持视频文件转换状态的正确性，CSpace系统将会在启动过程中，自动更新这些错误的视频格式转换状态。
+
+影音资源分布于机构知识库的条目中，为了对其进行统一管理，CSpace加入了视频管理功能，界面如图7所示，在页面中可进行选项卡的切换，查看转码完成、转码中以及等待转码的视频文件信息，点击列表中“操作"列的“查看"按钮，可进入视频所在的条目进而详细浏览页面；点击“修改"按钮，可直接进入视频文件所在条目的修改页面，可在如图6所示的修改页面点击“修改"或“生成"按钮，修改视频文件的元数据信息或者立即进行视频文件格式转换操作。
+
+![](images/35ac13bf9b05729f029954efef1a87b94a834fc4a4ec6009e55cc99745bf9db8.jpg)  
+图7视频管理
+
+其他影音支持功能如场景分析、播放导航等，由于前期的实验结果离应用还存在一定的差距，因此暂未集成到CSpace系统中，未来需要持续关注相关方法和技术的发展动态，将更为成熟稳定的方法和技术应用到CSpace系统中，进一步完善其影音支持功能。
+
+# 6结语
+
+随着信息技术和多媒体技术的发展，机构知识库影音文件的存储和应用需求不断提高，为了适应用户对影音资源应用的新需求，本文基于用户的应用需求和国内外机构知识库或专门数字知识库平台影音支持服务的发展趋势，构建了机构知识库影音资源支持功能扩展框架，并对一些关键技术和方法进行了研究和实现，在此基础上，选择较为成熟稳定的视频转码功能应用到CSpace 系统中，扩展了CSpace 机构知识库的影音资源管理和支持能力。未来还需持续关注相关技术和方法的最新研究进展，同时对影音支持能力扩展框架中涉及的其他技术和方法进行研究，逐步扩展机构知识库影音支持功能，向为用户提供像获取和使用文本资源一样便利的影音知识资源迈进。
+
+# 参考文献：
+
+[1]Kuipers T,van der Hoeven J. Insight into Digital Preservation of Research Output in Europe[R]. Survey Report, 2009.   
+[2]OpenDOAR [EB/OL]. [2017-06-25]. http://www.opendoar. org/.   
+[3] DSpace [EB/OL].[2017-06-25]. http://www.dspace.org/.   
+[4] Fedora [EB/OL].[2017-06-25]. http://fedorarepository.org/.   
+[5] Strobel S， Marin-Arraiza P. Metadata for Scientific Audiovisual Media: Current Practices and Perspectives of the TIB|AV-portal[C]//Proceedings of Research Conference on Metadata and Semantics Research. Springer,2015:159-170.   
+[6]Hentschel C, Blumel I, Sack H. Automatic Annotation of Scientific Video Material Based on Visual Concept Detection [C]/Proceedings of the 13th International Conference on Knowledge Management and Knowledge Technologies. ACM,2013: Article No. 16.   
+[7] Waitelonis J,Ludwig N,Sack H.Use What You Have: Yovisto Video Search Engine Takes a Semantic Turn[C]// Proceedings of the 5th International Conference on Semantic and Digital Media Technologies.2011: 173-185.   
+[8]ScienceCinema [EB/OL]. [2017-06-25]. https://www.osti. gov/sciencecinema/.   
+[9] 何云峰．视频内容组织与索引技术研究[D]．武汉：华中科 技大学，2011.(He Yunfeng. Study on the Video Content Organization and Indexing [D]. Wuhan: Huazhong University of Science and Technology,2011.)   
+[10]毕玉侠，隋晶波，于占洋.CADAL 数字图书馆评介[J]．医 学信息学杂志,2012,33(1):68-70.(Bi Yuxia, Sui Jingbo,Yu Zhanyang. IntroductionofChinaAcademicDigital Associative Library[J].Journal of Medical Informatics,2012, 33(1): 68-70.)   
+[11]王海霞．基于关键帧的视频信息检索系统的设计与实现 [D]．北京：北京交通大学,2007.(Wang Haixia.The Design and Implication of the Video Retrieval System Based on the KeyFrame [D].Beijing:Beijing Jiaotong University,2007.)   
+[12]刘兴洪．基于内容相似性的图像特征提取[D].重庆：重庆 邮电大学,2007.(Liu Xinghong.Image Features Extraction Based on Similar Contents and Concepts[D]. Chongqing: Chongqing University of Posts and Telecommunications, 2007.)
+
+# 应用论文
+
+[13]FFMPEG [EB/OL].[2017-06-25]. http://www.fmpeg.org/.   
+[14]MEncoder [EB/OL].[2017-06-25].http://www.mplayerhq.hu/ design7/news.html.   
+[15] OpenCV [EB/OL].[2017-06-25]. http://opencv.org.   
+[16] CKplayer [EB/OL].[2017-06-25]. http://www.ckplayer.com/.   
+[17]吴志强，祝忠明，刘巍，等．基于LireSolr 的机构知识库图 像检索[J]．图书馆学研究，2016(14)：58-63，39.（Wu Zhiqiang,Zhu Zhongming,Liu Wei，et al. The Image Retrieval of LireSolr-Based for Institutional Repository [J]. Research on Library Science,2016(14):58-63,39.)
+
+# 作者贡献声明：
+
+吴志强：功能框架设计，论文起草;  
+祝忠明：提出研究思路，设计研究方案;姚晓娜：系统功能部署与测试;  
+王思丽：论文修改。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据由作者自存储,E-mail:wuzq@llas.ac.cn。  
+[1]吴志强.CSpace_Player.zip.具有视频导航功能的播放器.  
+[2]吴志强.CSpace_video_segment.zip.视频镜头分析.
+
+收稿日期:2017-06-30
+
+# Expanding Support Ability of CSpace for Audios and Videos Resources
+
+Wu ZhiqiangZhu ZhongmingYao XiaonaWang Sili (Lanzhou Literature and Information Center, Chinese Academy of Sciences, Lanzhou 73oo30,China)
+
+Abstract:[Objective]The paper aims to expand the supporting abilityof the CSpace Institutional Repository for audios and videos.[Context] The ever-growing audios and videos resources,require us to expand the Institutional Repository's supporting ability, which helpus retrieve knowledge and increase their academic values more effectively. [Methods]First,we analyzed the needs of users and the developments of Institutional Repositorys audiosand videos supporting services at home and abroad.Then,we constructed an extension framework for the supporting functions. Finally,we chose the keytechnologies and methods tobuildthe experimental platform,and explored its feasibilityin CSpace. [Results]The proposed method helped us change audios and videos clips’ formats,analyze video scenes and developa video player with scene navigation functions.[Conclusions] The transcoding technology for audios and videos works effctively.However，other supporting functions could be further improved.The format conversion technology for audios and videos in CSpace could expand its supporting services.
+
+Keywords: Institutional Repository CSpaceAudios and VideosFFMPEG Functional Extension

@@ -1,0 +1,418 @@
+[
+    {
+        "type": "text",
+        "text": "1 牛链球菌在瘤胃中产酸的代谢机制及调控1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 陈连民 沈宜钊 王洪荣\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （扬州大学动物科学与技术学院，扬州225009）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：牛链球菌（S.bovis）是瘤胃主要的乳酸产生菌，在饲喂高精料饲粮导致瘤胃乳酸  \n5 中毒进程中扮演重要角色。已有研究证实 S.bovis 利用碳水化合物代谢产酸主要受葡萄糖转  \n5 运方式、酵解产酸途径中酶和中间代谢物调控。另外，研究也发现环境 pH、增殖生长阶段  \n7 及分解代谢控制蛋白（CcpA）等对其产酸速率和模式也有显著影响。本文对近年来有关 S.bovis 利用饲料中碳水化合物发酵产酸代谢途径及影响因素研究加以综述，为从微生物代谢角度解析瘤胃乳酸中毒机制提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：牛链球菌；乳酸；瘤胃酸中毒；代谢途径中图分类号：S852.2；S823",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现代集约化养殖条件下，以淀粉为主的高精料饲粮饲养方式会引起反刍动物瘤胃中牛链球菌（Streptococcus bovis，S.bovis）快速增殖生长，并利用易发酵碳水化合物发酵产生大量乳酸，造成乳酸积累，加速瘤胃酸中毒进程[1-3]。因此，可通过控制 S.bovis 增殖生长及代谢产酸，使其产生的乳酸维持在适当水平，达到一定程度上防治瘤胃乳酸中毒发生[3-4]。大量研究表明，S.bovis 主要通过糖酵解或己糖二磷酸（EMP）途径代谢产酸[5]。调控饲粮中碳水化合物降解产生的葡萄糖在 S.bovis 细胞中的酵解流速，达到预防瘤胃乳酸中毒目的已引起相关学者的广泛关注。研究表明，S.bovis 的葡萄糖转运方式、酵解产酸途径、代谢途径中的酶和中间代谢物、生长环境 pH、不同生长阶段以及分解代谢控制蛋白A（catabolitecontrolproteinA，CcpA）等都对 S.bovis 利用碳水化合物代谢产酸有显著影响。本文对近年来相关研究进展进行综述，为通过微生物代谢途径解析瘤胃乳酸中毒机制提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1S.bovis跨膜葡萄糖摄取机制对产酸的影响 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "饲粮中的淀粉进入瘤胃后在淀粉酶作用下水解为葡萄糖等，S.bovis 通过对葡萄糖等糖类摄取和发酵获得能量以供其增殖生长并发酵产酸。当前研究认为 S.bovis 葡萄糖跨膜摄取转运主要包括磷酸转移酶系统（phosphotransferase system，PTS）以及易化扩散2条途径[6]。易化扩散中，细胞膜外高浓度葡萄糖通过膜载体蛋白、通道等在不消耗能量的前提下顺浓度梯度扩散至细胞内。相比易化扩散，PTS 则负责特异性地将葡萄糖从胞外跨膜主动运输进入胞质。该转运系统对葡萄糖更具亲和力，是糖逆浓度梯度转运的主要方式[7，但PTS 对葡萄糖跨膜转运能力小于易化扩散[]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PTS 由3类酶构成,分别为：磷酸烯醇式丙酮酸依赖型蛋白激酶I（PEP-dependent proteinkinase enzymeI，EI）、热稳定性组氨酸磷酸化蛋白（heat-stable，histidine-phosphorylprotein，HPr）以及酶II（enzymeII，EII）。EI和HPr 是非特异性的可溶性胞质蛋白，为不同糖类PTS 转运系统所共享。EII则具有糖类特异性，且在结构域水平非常保守，一般包含3个结构域（EIIA、EIIB和EIIC)，3个结构域或组织在1个蛋白质上，由连接序列融合，或在进化过程中被分开位于2\\~4个蛋白质组分中，但只有相互结合才具转运活性。EIIA 和 EIIB 为亲水性磷酸转移酶结构域，朝向胞内，EⅡIC一般为疏水性膜结合通道形成的结构域[8]。当胞外富含葡萄糖碳源时，胞内PEP 将作为磷酸基团（Pi）的供体，EI接受PEP供给的Pi 形成EI-P，并将 Pi传递到 HPr 的15 号组氨酸残基，形成组氨酰磷酸化 HPr(HPr-[His-P])，进一步地再经EIIA-EIIB途径传递Pi，导致EIIB磷酸化。磷酸化的EIIB(EIIB-P)可以激活EIIC,EIIC 特异识别葡萄糖，并将其磷酸化为葡萄糖-6-磷酸(G-6-P)后转运进入胞质（图1），进入糖酵解途径[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "胞外胞内",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7f25cc92edbe1fda3e414c62732da42393ff8457a63e486633306b513eb0572.jpg",
+        "img_caption": [
+            "图1S.bovis葡萄糖跨膜转运方式",
+            "Fig.1 Glucose trans membrane transport by S. bovis[8] "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究发现，革兰氏阳性菌可将Pi传递到HPr的46号丝氨酸残基，形成丝氨酰磷酸化HPr（HPr-[Ser-P]）的ATP 依赖型HPr 激酶[9-10]。HPr-[Ser-P]除参与葡萄糖跨膜转运外还参与诸如芽孢杆菌、链球菌和乳酸杆菌等革兰氏阳性菌多个基因转录调控[1-12]。基因转录调控中，HPr-[Ser-P]对CcpA具有极高亲和力。在与其结合形成复合物后，进一步地又与位于操纵子 $5 ^ { \\prime }$ 端或其上游的代谢反应原件（CRE）相靶定，最终使基因转录被激活或抑制[13]；同时，HPr-[Ser-P]可通过诱导排斥机制抑制 PTS 及非 PTS 的糖跨膜转运。HPr-[Ser-P]通过激活磷酸糖磷酸酶，使磷酸糖去磷酸化，引起已摄入胞质的葡萄糖外流[14-15]。Cook 等[16]提出果糖-1,6-二磷酸（FDP）活化蛋白激酶可能对HPr-[Ser-P]的诱导排斥起到激活作用。相关研究也进一步证实 FDP 能激活 HPr 激酶，进而抑制糖的跨膜转运[7]。此外，Asanuma 等[17]研究 HPr磷酸化对 S.bovis 增殖产酸的影响发现,HPr-[Ser-P]随 S.bovis 增殖速率下降而下降，对应的 HPr-[His-P]和胞内Pi浓度则升高。该研究认为Pi浓度可以通过调节 HPr 激酶决定HPr-[His-P]与HPr-[Ser-P]相对优势程度，进而调控S.bovis 增殖产酸。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2碳水化合物在S.bovis细胞质内的代谢产酸及调控 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1S.bovis利用葡萄糖代谢产酸途径",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "淀粉等碳水化合物在淀粉酶等作用下最终降解为葡萄糖。无氧条件下，1分子葡萄糖经过10步反应分解成2分子丙酮酸并提供能量的过程即为糖酵解过程[18]。糖酵解过程是真核细胞以及细菌对摄入体内的葡萄糖最初经历的酶促分解过程，也是葡萄糖分解代谢所经历的共同途径。被瘤胃中 S.bovis 细胞摄入的葡萄糖酵解为丙酮酸后的去路主要有4条：1）在乳酸脱氢酶（LDH）作用下生成乳酸。2）在甲酸裂解酶（PFL）作用下生成甲酸。3）在丙酮酸脱羧酶及乙醇脱氢酶（ADHE）作用下生成乙醇。4）转化为乙酰辅酶A后，经磷酸转乙酰基酶和乙酸激酶作用生成乙酸，经 AHDE 作用生成乙醇，与草酰乙酸形成柠檬酸进入生物合成；另外，葡萄糖酵解产生的 PEP又可在磷酸烯醇式丙酮酸羧化酶（PCK）作用下生成草酰乙酸[19-20]。图2为葡萄糖在 S.bovis 胞内的酵解产酸路径总结图[19-23]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NAD+：烟酰胺腺嘌呤二核苷酸；NADH：还原型烟酰胺腺嘌呤二核苷酸。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/15e85b8f2828a36680a3e8b659bb1655ca7efbe0607109b524fe947a2389582c.jpg",
+        "img_caption": [
+            "图2瘤胃中S.bovis 利用葡萄糖酵解产酸路径",
+            "Fig.2Fermentation pathways of glucose by S.bovis in rumen[19-23] "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2代谢途径酶与中间代谢物对S.bovis产酸的影响 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究发现，影响 S.bovis产酸模式的中间代谢物主要包括FDP及丙糖磷酸等；而酶主要包括果糖-1,6-二磷酸醛缩酶（FBA）、LDH及PFL等。中间代谢物与酶通过相互影响进而达",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "到对糖酵解产酸速率和模式的调控。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 中间代谢物对酶的调控作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经典生物化学认为，代谢途径中催化不可逆反应的酶所处位点是控制代谢反应的关键。糖酵解途径中己糖激酶、磷酸果糖激酶（PFK）和丙酮酸激酶（PYK）催化的反应实际都是不可逆反应，3种酶活性受到酵解途径各种产物的影响，具体地：1）己糖激酶活性受其产物葡萄糖-6-磷酸的抑制。当PFK活性不高时，造成果糖-6-磷酸的积累，而葡萄糖-6-磷酸与果糖-6-磷酸维持在一种相对平衡，使得葡萄糖-6-磷酸的浓度增加。2）PFK 活性能够被高浓度的 ATP 和柠檬酸所抑制。因为高浓度 ATP 抑制PFK与底物果糖-6-磷酸的结合。另外，如果细胞内柠檬酸含量高，则意味着丰富的生物合成前体物存在，葡萄糖无需为提供合成前体物而降解，柠檬酸可以通过加强ATP 的抑制效应来抑制PFK，减慢糖酵解途径。3）PFK活性能够被高浓度 AMP、ADP、果糖-2,6-二磷酸、果糖-6-磷酸激活。果糖-2,6-二磷酸能够提高果糖激酶与果糖-6-磷酸的亲和力并降低 ATP 抑制效应。而果糖-6-磷酸有加速果糖-2,6-二磷酸合成作用，还有抑制该化合物被水解的作用。4）PYK 活性受FDP 激活；当能量储存足够时，高浓度ATP对PYK变构抑制效应使酵解过程减慢；当血液葡萄糖浓度降低，会激起肝脏中PYK的磷酸化，酶活降低，酵解过程减慢，血液葡萄糖浓度得以维持；与此同时，丙氨酸由丙酮酸接受1个氨基形成，丙氨酸浓度增加意味着丙酮酸作为丙氨酸的前体过量。丙氨酸对 PYK的变构抑制效应，也使酵解过程减慢[24-27]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，FDP 和丙糖磷酸[二羟丙酮磷酸（DHAP)、甘油醛-3-磷酸(GAP)]也对 S.bovis 糖酵解产酸起重要调控作用。Russell等[28]研究发现S.bovis 胞内FDP浓度高时乳酸产量增多，LDH 活性升高，认为乳酸产量增加可能与FDP对LDH 激活作用有关。而 FDP 对LDH 激活作用早在1964 年被Wolin[29]证实。Asanuma 等[30]研究S.bovis 糖酵解过程中DHAP 和GAP对PFL 抑制效应发现,DHAP 和GAP对PFL具有剂量抑制效应。当DHAP浓度为 $0 . 1 \\ \\mathrm { m m o l / L }$ 时，PFL活性相比最高时的活性降低 $40 \\%$ ，而当GAP浓度为 $0 . 1 \\mathrm { m m o l / L }$ 时，PFL 活性相比最高时活性则降低超过 $80 \\%$ 。有关丙糖磷酸对PFL的抑制效应也在乳酸链球菌、链球菌属及变形链球菌中得到证实，认为葡糖酵解程度带来DHAP 和GAP 浓度大幅度变化造成PFL的变构效应，从而起到抑制作用[31-33]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 代谢酶对中间代谢物的调控作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "己糖激酶、PFK和PYK作为糖酵解反应中的关键酶，对S.bovis发酵产酸具有重要调控作用。有关PFK 基因过表达 S.bovis 菌株研究中发现PFK过表达并不影响产甲酸和乳酸的比例及生长增殖速率，认为 PFK 不是 S.bovis 糖代谢产酸途径主要调控因素[34-35]；有关",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PYK对S.bovis糖酵解及产酸调控的研究发现PYK过表达S.bovis菌株PYK活性远高于正常菌株，但两者乳酸和甲酸产量及比例则无显著差异，认为PYK过表达并不会影响 S.bovis糖酵解产酸速率和模式[35]，类似研究结果在产乳酸链球菌中也得到证实[34]。但当前有关己糖激酶调控 S.bovis 利用葡萄糖酵解产酸的研究尚鲜见报道。更多的研究表明 FBA、LDH及PFL 等对S.bovis 酵解产酸起中心调控作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Asanuma等[36]认为大量易发酵碳水化合物作为底物时S.bovisFBA过表达可以减少乳酸产生，少量易发酵碳水化合物或不易发酵碳水化合物作为底物时FBA低表达可以提高乳酸产生。进一步地，其通过FBA过表达 S.bovis 菌株研究发现该菌株胞内FDP 较低，对应的LDH转录水平低于PFL，乳酸产量减少。但DHAP 和GAP浓度均显著高于常规菌株，分别达到 2.6 和0.49 mmol/L[37]。FBA将FDP裂解成1分子DHAP 和GAP。当FBA过表达时，理论上酵解产生DHAP 和GAP 浓度升高，会抑制 PFL 活性，从而使得乳酸产量增加[31-33]。但实际研究中FBA过表达时 DHAP 和GAP 浓度升高反而引起乳酸减少甲酸增多，可能因为LDH 活性对 FDP 的强依赖性，即FBA 过表达导致FDP 浓度降低使LDH 活性减弱程度远大于DHAP 和GAP 浓度升高对PFL 的抑制作用[28.37]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另外，Asanuma 等[38-39]研究 S.bovis 菌株 ADHE过表达对产酸模式的影响，发现同样培养环境下构建的ADHE 过表达菌株ADHE 表达量是普通菌株的3倍，但乙醇的产量却没有显著差异。对应的PFL及LDH的表达量及乳酸、甲酸的产量也无显著差异。说明 S.bovis糖酵解产酸主要倾向乳酸和甲酸，即使 ADHE 的过表达，对丙酮酸或乙酰辅酶 A 流向乙醇的去路影响甚微。Asanuma 等[40-41l认为丙酮酸向乳酸的转化需要 NADH 向 NAD+转化，而GAP 在甘油醛-3-磷酸脱氢酶（GAPDH）作用下形成1,3-二磷酸甘油是 S.bovis 葡萄糖酵解过程中唯一提供NADH的路径，因此认为GAPDH过表达会为下游乳酸合成提供更多NADH，从而使 S.bovis 糖酵解产生更多乳酸[42]。但在利用GAPDH过表达 S.bovis 菌株的实际研究中却发现GAPDH过表达并不能改变 S.bovis 葡萄糖酵解过程中 NADH/NAD+及甲酸/乳酸，产酸模式仍主要取决于LDH和PFL 相对优势程度[40]。但由于此类研究只是针对 S.bovis JB1菌株的体外纯培养试验，并不代表对瘤胃中其他S.bovis 菌株的共性，且瘤胃内环境比纯培养环境条件要复杂得多，因此不能否定此类酶对S.bovis 瘤胃环境下产酸的调控作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3pH对 S.bovis产酸的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "高精料饲喂首先引起淀粉分解菌大量增殖，成为优势菌群，产生大量挥发性脂肪酸，引起 pH 降低。当pH下降到 5.5 左右时，多数微生物增殖生长一定程度上受到抑制，而对低pH具有耐受性的 S.bovis 能够大量增殖生长，并以主要产生乳酸。pH能够对 S.bovis 糖酵解产酸起到调控作用主要是因为酵解产酸过程中相关酶的活性随pH的变化被不同程度地抑制或激活。pH为6.7的体外连续培养条件下 S.bovis产酸主要以甲酸、乙酸等为主，而乳酸产量较少；当培养液pH下降到 4.7时 S.bovis 转向乳酸发酵为主。说明 pH高条件下 PFL活性被激活，LDH 活性被抑制，而当pH 降低时 PFL 活性被抑制，LDH活性被激活[28]。并且当pH分别为5.5和7.5时,LDH和PFL活性达到最高[28.43]。Asanuma 等[36]研究表明 S.bovis的 FBA 活性在pH为4.5时远低于pH为7.0时，并且FBA 活性在pH为5.5时仅为 $\\mathfrak { p H } ~ 7 . 0$ 时的1/2;而FBA的高活性可以减少大量易发酵碳水化合物为培养底物时 S.bovis乳酸的产量。因此，当FBA 活性受低pH抑制时，会引起FDP 浓度升高，进一步激活LDH,造成乳酸产量的增加。除对酶的活性影响外，pH 还可从转录水平调控LDH合成。Asanuma 等[43]研究发现培养基pH为4.5时 $L D H$ 的转录水平远高于pH为6.9时。但pH引起的 S.bovis LDH基因转录水平变化到底是由什么样的信号通路或者感应机制介导的目前还不得而知，仍有待进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Russell等[44]研究体外 S.bovis 和埃氏巨球形菌（Megasphaeraelsdenii，M.elsdenii）连续共培养条件下，稀释率及pH对两者的影响发现，pH较高（ $6 . 0 { \\sim } 6 . 6 \\dot$ ）时，S.bovis 相对于M.elsdenii数量优势最大，但乳酸产量较少。进一步随pH下降（ $5 . 4 { \\sim } 6 . 0 \\dot { . }$ ），S.bovis 相对于M.elsdenii数量优势减弱，乳酸产量增加。当pH降低到5.4以下时，M.elsdeni几乎消失，乳酸大量累积。说明环境pH对 S.bovis产酸及其与M.elsdenii相对优势程度有一定影响。也有研究发现，一旦动物机体适应高精料饲粮后，S.bovis数量会降低为万分之一，与饲喂青干草时数量相当，说明 S.bovis 的数量变化又不仅仅与pH降低有关，瘤胃微生物菌群间的互作也可能对其起到重要影响[45]。乳酸大量的产生积累会进一步引起pH下降并抑制乳酸分解菌的活力，造成革兰氏阴性菌死亡裂解释放内毒素等，导致瘤胃菌群紊乱，加剧瘤胃代谢酸中毒[3.46-48]。当pH下降到 5.0时，S.bovis 生长受到抑制，对低 pH具有耐受性的乳酸杆菌等数量逐渐增加，形成优势菌群，进一步产生大量乳酸，并释放细菌素等毒性物质，抑制 S.bovis 等其他菌群的生长[45]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4S.bovis增殖阶段对产酸的影响 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分批培养条件下，S.bovis 由对数期转向平稳期时，伴随增殖速率放缓，LDH转录水平会进一步降低，产酸倾向甲酸，Asanuma 等[43]认为S.bovis 不同生长阶段会从转录层次调控产酸模式。并且S.bovis连续培养时，PFL 转录水平降低，LDH转录水平升高，产酸以乳酸为主，并且细菌一直处于高增殖速率[49]。这进一步说明，S.bovis 生长增殖阶段对产酸具有调控作用；有关基因对 S.bovis 纯培养条件下生长调控研究发现LuxS基因编码的LuxS 诱导合成酶2是通用的细菌群体感应调控因子，LuxS表达情况与 S.bovis 增殖速率相关，表现为对数生长期时表达最高，进入生长平稳期时表达会迅速降低，并且LuxS基因表达并不受S.bovis 密度影响，但在组成复杂且不断变化的瘤胃环境中，LuxS 则具有调节细胞生理功能和代谢的作用[50]。另外，S.bovis 增殖速率不同表现出LuxS基因表达差异与S.bovis 不同生长阶段LDH表达变化有着一致性，可能对 S.bovis生长代谢起到调控作用，但仍有待进一步的研究证实。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 CcpA对 S.bovis产酸的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CcpA 是基因转录的抑制或激活剂，对细胞代谢起重要调控作用[51]。在利用CcpA 基因缺失的 S.bovis 菌株研究其对代谢产酸影响发现，相比正常菌株，CcpA 基因缺失菌株 LDH转录水平较低，PFL转录水平较高，产酸趋向甲酸[52]。进一步研究发现CcpA启动子区存在一个 CRE序列，CcpA 需要与HPr-[Ser-P]结合形成复合物才能进一步与CRE 结合从而发挥作用[10,12]，而 LDH和 PFL 基因的上游区域都存在CRE 序列，是CcpA与 HPr-[Ser-P]所形成复合物的潜在结合位点，说明CcpA可能参与 S.bovis 的糖代谢及产酸调控[54]。除对 LDH和 PFL 的调控外，相关研究也发现CcpA可能通过调控 S.bovis 酵解途径中编码代谢酶的其他基因影响发酵产酸。Asanuma 等[35,53-54l先后发现GAPDH、PYK 和 PCK基因上游都存在1个CcpA 潜在结合位点，并且利用CcpA基因缺失 S.bovis 菌株研究葡萄糖为底物培养条件下相比正常菌株以上3个基因都出现低表达，产酸模式倾向甲酸，由此可见CcpA对 S.bovis代谢产酸具有重要调控作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6小结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "S.bovis 与瘤胃乳酸中毒关系密切，对该菌的代谢产酸路径及影响因素的研究一定程度上可揭示瘤胃中S.bovis 的代谢产酸规律，为瘤胃乳酸中毒的微生物代谢层次解析提供资料参考。当前研究揭示了丙糖磷酸、FDP 等中间代谢物，FBA、LDH、PFL 等关键酶以及环境 pH对 S.bovis 代谢产酸的中心调控作用。相对地，转录层次诸如CcpA、LuxS 基因等对S.bovis 代谢产酸调控也起重要作用，但转录层次对 S.bovis代谢产酸调控研究仍处于初级阶段，且多数研究只是针对1\\~2种编码酶或调控因子的基因转录变化推测其在 S.bovis 代谢产酸中的调控作用，缺乏对代谢通路的系统性研究、验证。同时，当前研究过于集中在不同环境条件下 S.bovis 纯培养代谢产酸的变化，忽视了瘤胃乳酸中毒发展进程中其他微生物菌群演替、互作以及有害代谢物等对 S.bovis 可能具有的代谢产酸调控作用。另外，在酶、基因等定量技术手段上仍停留在Westerm blot 和 Northem blot，检测通量较小、成本高、耗时费力。因此，未来研究中一方面可以借助代谢组学、蛋白质组学、转录组学等先进的高通量检测技术手段，系统地对 S.bovis 代谢产酸规律进行探索揭示；另一方面，需要在瘤胃内不同内环境条件下，研究混合瘤胃微生物对对 S.bovis代谢产酸的影响。为进一步揭示瘤胃乳酸中毒机制提供依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1] MAROUNE M,BARTOS S.Interactions between rumen amylolytic and lactate-utilizing bacteria in growth on starch[J].Journal of Applied Bacteriology,1987,63(3):233-238. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2] WANG H R,PAN X H,WANG C,et al.Effects of different dietary concentrate to forage ratio and thiamine supplementation on the rumen fermentation and ruminal bacterial community in dairy cows[J].Animal Production Science,2014,55(2):189-193. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3]王洪荣.反刍动物瘤胃酸中毒机制解析及其营养调控措施[JJ.动物营养学 报,2014,26(10):3140-3148. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4] LETTAT A,NOZIERE P,SILBERBERG M,et al.Rumen microbial and fermentation characteristics are affected differently by bacterial probiotic supplementation during induced lactic and subacute acidosis in sheep[J].BMC Microbiology,2012,12:142. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5] ASANUMAN,HINO T.Understandingmetabolicregulation in the ruminal bacteria,Streptococcus bovis,Selenomonas ruminantium,and Megasphaera elsdeni[M]//MARTIN S A.Gastrointestinal microbiology in animals.Kerala,India:Research Signpost,2002:61-87. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6] RUSSELL J B.Low-afnity,high-capacity system of glucose transport in the ruminal bacterium Streptococcus bovis:evidence for a mechanism of facilitated diffusion[J].Applied and Environmental Microbiology,1990,56(11):3304-3307. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7] VADEBONCOEUR C,PELLETIER M.The phosphoenolpyruvate:sugar phosphotransferase system of oral Streptococci and its role in the control of sugar metabolism[J].FEMS Microbiology Reviews,1997,19(3):187-207. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]POSTMA P W,LENGELER J W,JACOBSON G R.Phosphoenolpyruvate:carbohydrate phosphotransferase systems of bacteria[J].Microbiological Reviews,1993,57(3):543-594. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9] DEUTSCHER J,SAIER M H,Jr.ATP-dependent protein kinase-catalyzed phosphorylation of a seryl residue in HPr,a phosphate carrier protein of the phosphotransferase system in Streptococcus pyogenes[J].Proceedings of the National Academy of Sciences of the United States of America,1983,80(22):6790-6794. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10] FUJITA Y,MIWA Y,GALINIER A,et al.Specific recognition of the Bacillus subtilis gnt cis-acting catabolite-responsive element by a protein complex formed between CcpA and seryl-phosphorylated HPr[J].Molecular Microbiology,1995,17(5):953-960. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[11] MARTIN-VERSTRAETE I,STULKE J,KLIER A,et al.Two different mechanisms mediate cataboliterepressionofthe Bacillus subtilis levanase operon[J].Journal of Bacteriol0gy,1995,177(23):6919-6927. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[12] DEUTSCHER J,KUSTER E,BERGSTEDT U,et al.Protein kinase-dependent HPr/CcpA interaction links glycolytic activity to carbon catabolite represson in gram-positive bacteria[J].Molecular Microbiology,1995,15(6):1049-1053. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[13] HUECK C J,HILLEN W,SAIER M H,Jr.Analysis of a cis-active sequence mediating catabolite repression in gram-positive bacteria[J].Research in Microbiol0gy,1994,145(7):503-518. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[14]YE J J,REIZER J,CUI X,et al.Inhibition ofthephosphoenolpyruvate:lactose phosphotransferase system and activation of a cytoplasmic sugar-phosphate phosphatase in Lactococcus lactis by ATP-dependent metabolite-activated phosphorylation of serine 46 in the phosphocarrier protein HPr[J].Journal of Biological Chemistry,1994,269(16):11837- 11844. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[15] YE JJ,SAIER MH,Jr.Purification and characterization of a small membrane-associated sugar phosphate phosphatase that is allosterically activated by HPr (Ser (P)） of the phosphotransferasesystem in Lactococcus lactis[J].Journal of Biological Chemistry,1995,270(28):16740-16744. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[16] COOK G M,KEARNS D B,RUSSELL J B,et al.Regulation of the lactose phosphotransferase system of Streptococcus bovis by glucose:independence of inducer exclusion and expulsion mechanisms[J].Microbiology,1995,141(9):2261-2269. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[17] ASANUMA N,HINO T.Molecular characterization of HPr and related enzymes,and regulation of HPr phosphorylation in the ruminal bacterium Streptococcus bovis[J].Archives of Microbiology,2003,179(3):205-213. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[18]王镜岩,朱圣庚,徐长法.生物化学:下册[M].3版.北京:高等教育出版社,2002.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[19] ZHOU S D,CAUSEY T B,HASONA A,et al.Production of optically pure $D$ -lactic acid in mineral salts medium by metabolically engineered Escherichia coli W311O[J].Applied and [20] ZHOU S D,SHANMUGAM K T,INGRAM L O.Functional replacement of the Escherichia coliD $\\cdot ( - )$ -lactate dehydrogenase gene (ldhA) with the $L \\mathrm { - } ( \\mathrel { + } )$ -lactate dehydrogenase gene (ldhL) from Pediococcus acidilactici[J].Applied and Environmental Microbiol0gy,2003,69(4):2237-2244. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[21] OKANO K,TANAKA T,OGINO C,et al.Biotechnological production of enantiomeric pure lactic acid from renewable resources:recent achievements,perspectives,and limits[J].Applied Microbiology and Biotechnology,2010,85(3):413-423.   \n[22] AXELSSON L.Lactic acid bacteria:classification and physiology[M].New York:Marcel Dekker,2004:1-66.   \n[23] LEVERING J,MUSTERS M W JM,BEKKER M,et al.Role of phosphate in the central metabolism of two lactic acid bacteria-a comparative systems biology approach[J].FEBS Journal,2012,279(7):1274-1290.   \n[24] 包尔德文.动态生物化学[M].石声汉,译.北京:人民卫生出版社,1956.   \n[25] 李建武.生物化学[M].北京:北京大学出版社,1990.   \n[26] HORTON R H,MORAN L A,OCHS R S,et al.Principles of biochemistry[M].3rd ed.Upper Saddle River:Prentice Hall,1996.   \n[27] NELSON D L,LEHNINGER A L,COX M M.Lehninger principles of biochemistry[M].New York:W.H.Freeman and Company,2008.   \n[28] RUSSELL J B,HINO T.Regulation of lactate production in Streptococcus bovis:a spiraling effect that contributes to rumen acidosis[J].Journal of Dairy Science,1985,68(7):1712-1721.   \n[29]WOLINMJ.Fructose-1,6-diphosphaterequirementofstreptococcallactic dehydrogenases[J].Science,1964,146(3645):775-777.   \n[30] ASANUMA N,HINO T.Effects of $\\mathrm { p H }$ and energy supply on activity and amount of pyruvate formate-lyaseinStreptococcus bovis[J].Applied and Environmental Microbiology,2000,66(9):3773-3777.   \n[31] FORDYCE A M,CROW V L,THOMAS T D.Regulation of product formation during glucose orlactose limitation in nongrowing cells of Streptococcuslactis[J].Applied and Environmental Microbiology,1984,48(2):332-337.   \n[32] TAKAHASHI S,ABBE K,YAMADA T.Purification of pyruvate formate-lyase from ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Streptococcus mutans and its regulatory properties[J].Journal of Bacteriol0gy,1982,149(3):1034-1040. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[33] THOMAS T D,TURNER K W,CROW V L.Galactose fermentation by Streptococcus lactis and Streptococcus cremoris:pathways,products,and regulation[J].Journal of Bacteriology,1980,144(2):672-682. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[34] RAMOS A,NEVES A R,VENTURA R,et al.Effect of pyruvate kinase overproduction on glucose metabolism of Lactococcus lactis[J].Microbiology,2004,150(4):1103-1111. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[35] ASANUMA N,KANADA K,HINO T.Molecular properties and transcriptional control of the phosphofructokinase and pyruvate kinase genes in a ruminal bacterium,Streptococcus bovis[J].Anaerobe,2008,14(4):237-241. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[36] ASANUMA N,HINO T.Fructose bisphosphate aldolase activity and glycolytic intermediate concentrations in relation to lactate production in Streptococcus bovis[J].Anaerobe,2002,8(1):1-8. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[37]ASANUMA N,YOSHII T,KIKUCHI M,et al.Effectsofthe overexpressionof fructose-1,6-bisphosphate aldolase on fermentation pattern and transcription of the genes encoding lactate dehydrogenase and pyruvate formate-lyase in a ruminal bacterium,Streptococcus bovis[J].The Journal of General and Applied Microbiol0gy,2004,50(2):71-78. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[38] ASANUMA N,YOSHII T,HINO T.Molecular characteristics and transcription of the gene encoding a multifunctional alcohol dehydrogenase in relation to the deactivation of pyruvate formate-lyaseintheruminal bacterium Streptococcusbovis[J].Archivesof Microbiology,2004,181(2):122-128. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[39]ASANUMA N,HINO T.Molecular characterization and expression ofpyruvate formate-lyase-activating enzyme in a ruminal bacterium,Streptococcus bovis[J].Applied and Environmental Microbiology,2002,68(7):3352-3357. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[40] ASANUMA N,YOSHIZAWA K,HINO T.Properties and role of glyceraldehyde-3-phosphate dehydrogenase in the control of fermentation pattern and growth in a ruminal bacterium,Streptococcus bovis[J].Current Microbiology,2009,58(4):283-287. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[41] GARRIGUES C,LOUBIERE P,LINDLEY N D,et al.Control of the shift from homolactic acid to mixed-acid fermentation in Lactococcus lactis:predominant role of the NADH/NAD $^ +$ ratio[J].Journal of Bacteriology,1997,179(17):5282-5287. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[42]KANDLER O.Carbohydratemetabolism in lacticacidbacteria[J].Antonie van Leeuwenhoek,1983,49(3):209-224. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[43] ASANUMA N,IWAMOTO M,HINO T.Regulation of lactate dehydrogenase synthesis in a ruminalbacterium,Streptococcusbovis[J].TheJournalofGeneralandApplied Microbiol0gy,1997,43(6):325-331.   \n[44] RUSSELL J B,COTTA M A,DOMBROWSKI D B.Rumen bacterial competition in continuous culture:Streptococcusbovisversus Megasphaera elsdeni[J].Applied and Environmental Microbiology,1981,41(6):1394-1399.   \n[45] WELLS J E,KRAUSE D O,CALLAWAY T R,et al.A bacteriocin-mediated antagonism by ruminal lactobacilli against Streptococcus bovis[J].FEMS Microbiology Ecology,1997,22(3):237-243.   \n[46] MAO S Y,ZHANG R Y,WANG D S,et al.Impact of subacute ruminal acidosis (SARA) adaptation on rumen microbiota in dairy cattle using pyrosequencing[J].Anaerobe,2013,24:12-19.   \n[47] SUN Y Z,MAO S Y,ZHU W Y.Rumen chemical and bacterial changes during stepwise adaptation to a high-concentrate diet in goats[J].Animal,2010,4(2):210-217.   \n[48] LIU J H,XU T T,ZHU W Y,et al.A high-grain diet alters the omasal epithelial structure and expressionoftightjunctionproteinsinagoatmodel[J].TheVeterinary Jourmal,2014,201(1):95-100.   \n[49] ASANUMA N,IWAMOTO M,HINO T.Structure and transcriptional regulation of the gene encodingpyruvateformate-lyaseofaruminal bacterium,Streptococcus bovis[J].Microbiology,1999,145(1):151-157.   \n[50] ASANUMA N,YOSHII T,HINO T.Molecular characterization and transcription of the luxS gene that encodes LuxS autoinducer 2 synthase in Streptococcus bovis[J].Current Microbiology,2004,49(5):366-371.   \n[51] HENKIN T M,GRUNDY F J,NICHOLSON W L,et al.Catabolite repression of $\\mathfrak { a }$ amylase gene expression in Bacillus subtilis involves a trans-acting gene product homologous to the Escherichia coli lacl and galR repressors[J].Molecular Microbiology,1991,5(3):575-584.   \n[52] ASANUMA N,YOSHII T,HINO T.Molecular characterization of CcpA and involvement of ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "this protein in transcriptional regulation of lactate dehydrogenase and pyruvate formate-lyase intheruminalbacteriumStreptococcusbovis[J].AppliedandEnvironmental Microbiology,2004,70(9):5244-5251. [53]ASANUMA N,HINO T.Presenceof NADP+-specificglyceraldehyde-3-phosphate dehydrogenase and CcpA-dependent transcription of its gene in the ruminal bacterium Streptococcus bovis[J].FEMS Microbiology Letters,2006,257(1):17-23. [54] ASANUMA N,KANADA K,ARAI Y,et al.Molecular characterization and significance of phosphoenolpyruvate carboxykinase in a ruminal bacterium,Streptococcus bovis[J].The Journal of General and Applied Microbiology,2010,56(2):121-127. Metabolic Mechanism of Acid Production by Streptococcus bovis in Rumen and Its Regulation CHEN Lianmin SHEN YizhaoWANG Hongrong\\* (College of Animal Science and Technology, Yangzhou University, Yangzhou 225009, China) Abstract: Streptococcus bovis (S. bovis) is usually a major lactate producing bacterium in the rumen, and is recognized its’ contribution to development of rumen acidosis when ruminants are fed high concentrate diets. Previous work indicates that carbohydrate metabolism in S. bovis is mainly affected by the way of glucose trans membrane transport, and enzymes and intermediate metabolites in glycolytic pathway. In addition,the factors,environmental $\\mathfrak { p H }$ ， growth stage, and control protein catabolism (CcpA),etc., also have significant impacts. In this paper, metabolic mechanism and influence factors of carbohydrate fermentation and acid production by S. bovis were reviewed in purpose to provide references for further insight into the mechanism of rumen acidosis caused by lactic acids. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: Streptococcus bovis；lactic acids； rumen acidosis； metabolic pathway",
+        "page_idx": 13
+    }
+]

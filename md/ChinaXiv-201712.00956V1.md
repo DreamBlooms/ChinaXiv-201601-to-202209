@@ -1,0 +1,80 @@
+病例报告
+
+# 年轻多囊卵巢綜合征患者发生子宫内膜样腺癌并透明细胞癌1例报告
+
+牛静,刘 楠,刘国炳南方医科大学南方医院妇产科，广东广州510515
+
+摘要：患者,26岁,未婚未育。主诉月经不调4年,阴道流血10d,发现宫腔占位5d。病理检查：中-低分化子宫内膜样腺癌。行腹腔镜下筋膜外全子宫及双附件切除术,术后诊断：子宫内膜样中低分化腺癌并透明细胞癌Ⅱ期,辅予以化疗,患者恢复可。年轻多囊卵巢综合症患者是发生子宫内膜癌的高危人群，而合并透明细胞癌者罕见，术前多科室综合评估、治疗方式的选择及预后分析是十分必要的，这也为今后的临床工作提供了经验。
+
+关键词：多囊卵巢综合征;子宫内膜样腺癌;透明细胞癌
+
+# Endometrial adenocarcinoma and clear cell carcinoma in a young woman with polycystic ovarian syndrome: a case report
+
+NIU Jing,LIUNan,LIUGuobing DepartmentofGynecologyandbstetrics,anangHospital,SouthernedicalniersityGuangzhou5,ina
+
+Abstract:A 26-year-old unmarred womanwith iregular menstruation for4 years wasadmitted foran intrauterine space-occupying mass.Pathological examination before surgery showed moderately to poorly diferentiated endometrial adenocarcinoma.Thepatientunderwent laparoscopicallyassistedepifascial panhysterectomywithbilateral salpingo-oophorectomy.Pathological examination of the surgical specimens reported moderately to poorlydiferentiated endometrialadenocarcinomaand stage IIclearcellcarcinoma.The patient then received chemotherapyandremained alive without evidence of recurrence. Young women with polycystic ovarian syndrome areat high risk of developing endometrial carcinoma,butconcurrntclearcellcarcinoma israre.Careful evaluation beforeandafter treatmentareessential toimprove the patients’ prognosis.
+
+Key words: polycystic ovarian syndrome; endometrial adenocarcinoma; clear cell carcinon
+
+# 1 病例介绍
+
+患者，女，26岁，未婚未育， $\mathsf { B M I } 4 3 \mathrm { k g } / \mathrm { m } ^ { 2 }$ ，因月经不调4年，阴道流血10d,发现宫腔占位5d入院。既往月经周期规律，近4年曾因经期延长行妈富隆及输血等对症治疗。此次月经来潮后经量多，持续 $1 0 \mathrm { d } _ { \mathrm { o } }$ 就诊我院查血常规：血红蛋白测定 $( \mathrm { H G B } ) 3 2 ~ \mathrm { g / L } ~$ 。B超示：宫腔底部分离约 $8 ~ \mathrm { m m }$ ，宫腔中段见不均质稍强回声，大小为$2 5 \mathrm { m m } { \times } 1 8 \mathrm { m m }$ ,边界欠清;左侧卵巢多个无回声区。入院后给予炔诺酮止血，输血纠正贫血。同时完善相关检查，两次空腹血糖偏高;肿瘤标志物：人附辜蛋白测定$( { \mathrm { H E 4 } } ) 6 2 8 . 9 { \mathrm { p m o l } } L$ ，卵巢癌相关抗原 $( \mathbf { C A } – 1 2 5 ) 2 1 . 8 \mathbf { U } / \mathbf { m L } _ { \circ }$ MRI: $\mathbf { T } _ { 2 } \mathbf { W } \mathbf { I }$ 示子宫内膜明显增厚，较厚处约 $3 . 9 \mathrm { c m }$ ，结合带不完整，子宫肌层界线部分不清楚，病灶呈长T长
+
+T信号，其内信号部分不均匀。子宫肌层明显强化，与病灶分界更轻。盆壁未见明显肿大淋巴结。
+
+为明确诊断，需行诊断性刮宫，告知患者无性生活史，行诊刮术需切开处女膜，患者及其家属表示同意。术中见：宫颈口一肿物自宫腔脱出，大小约 $5 \mathrm { c m }$ ，质脆，宫颈、穹窿未触及结节。子宫前位，增大，如孕2月余，质硬。因腹部脂肪厚，双附件触诊不满意。钳夹宫腔脱出物送病检，病理示：中-低分化子宫内膜样腺癌。初步拟诊断：(1)子宫内膜样中低分化腺癌Ⅱ期；(2)多囊卵巢综合征(PCOS);(3)肥胖症;(4)血糖调节受损。无明显绝对手术禁忌症，于2015年7月21日行腹腔镜筋膜外全子宫及双附件切除术。术中见：盆腔无粘连，子宫前位，增大如孕2个多月大，表面血管丰富，子宫活动度好，双侧附件未见明显异常，盆腔淋巴结未见明显肿大。
+
+术后病理(图1)：(1（子宫)中-低分化子宫内膜样腺癌并透明细胞癌，侵及宫壁全层，部分累及宫颈，伴多量脉管癌栓；(2)自检阴道壁切缘未见癌残留；(3)（双侧卵巢)卵泡囊肿;(4(双侧输卵管)大致正常伴(右侧)输卵管系膜囊肿；(5)腹腔冲洗液未见癌细胞；(6)ER、PR中等强阳性。术后诊断：子宫内膜样中低分化腺癌并透明细胞癌Ⅱ期，辅助治疗方案：放疗联合化疗。已行6次TC方案化疗（紫杉醇 $\dot { + }$ 卡铂)，目前情况稳定。
+
+![](images/449e4dfe3ae499cf0de9b838f1fda70a7b32484d6c40c5eb070806a8fa3a2379.jpg)  
+图1肿瘤HE染色结果  
+Fig.1HE staining of tumor.A: The tumor cels show a nest-like arrangement surrounded by fibrous tissue hyperplasia (Original magnification: $1 0 \times 1 0 ^ { \cdot }$ ; B:The tumor cells show unclear cell boundary with round and bubble-shaped nuclei,and small kernel was visible.Part of the cell cytoplasm show red dye and transparent with few mitotic cells $( 1 0 \times 2 0 )$ ; C:The tumor cells were arranged in a glandular and sieve pattern and showed invasive growth！ $( 1 0 \times 1 0 )$ ; D: The tumor cells showed high pseudostratified columnar and were densely arranged $( 1 0 \times 2 0 )$ ：
+
+# 2讨论
+
+子宫内膜癌是女性生殖系统常见恶性肿瘤之一。随着人类寿命的延长及肥胖症发生率的增加，其发病率逐年升高[。基于形态学将子宫内膜癌分为两种类型：I型(雌激素依赖型),占 $8 0 \% { \sim } 8 5 \%$ ,均为子宫内膜样腺癌；Ⅱ型(非雌激素依赖型)， $10 \% { \sim } 2 1 \%$ ，主要类型包括子宫乳头状浆液性腺癌、未分化型癌，及透明细胞癌(ECCC)[2]。子宫内膜透明细胞癌是子宫内膜癌的特殊病理类型，发病率仅 $1 \% { \sim } 6 \%$ ，且恶性程度高，预后差，早期易发生远处转移,易耐药[3]。ECCC平均发病年龄是65岁，其发病分子机制尚不明确，多与P53基因突变，Ki67高表达，P16基因失活，E-cadherin(钙黏蛋白)低表达，Her-2/neu高表达,STK15扩增，多个染色体上的杂合性丢失等有关[46。子宫内膜癌发生的危险因素包括无孕激素拮抗的高雌激素水平(肥胖、糖尿病、高脂饮食等)，月经初潮早发，无生育史，绝经延迟，Lynch综合征等7。而有报道称：单纯子宫内膜透明细胞癌患者均无肥胖、高血压等并发症，仅2例表现为绝经延迟[8]。
+
+子宫内膜透明细胞癌的临床表现与子宫内膜癌无明显差异，主要为异常阴道流血或流液，多由诊断刮宫或宫腔镜活检病理发现，由CT、MRI辅助行术前分期，
+
+CAl25检查对可协助诊断子宫外有无病灶，根据术后病理结果确诊[9-10]。子宫内膜透明细胞癌的标准手术治疗方式：全子宫切除术 $\cdot +$ 双附件切除术，而是否行淋巴结切除并没有明确的标准。术后辅助治疗：盆腔放疗，短距离放疗，腹主动脉放疗，全腹放疗及化疗。子宫内膜透明细胞癌的辅助治疗应按以下方案进行：IA期，严密观察或化疗或行盆腔RT;IB-Ⅱ期：联合或不联合盆腔RT、阴道BT的化疗(尤其是伴有宫颈间质浸润者);Ⅲ\~IV期：充分切除病灶，化疗和伴有或不伴有阴道BT的盆腔RT(尤其是伴有宫颈间质浸润者);对于Ⅲ期或V期病灶充分切除后的患者应考虑化疗[6.11]
+
+FIGO2006年度报告：子宫内膜透明细胞癌与子宫  
+内膜腺癌的5年总生存率分别是 $6 2 . 5 \% . 8 3 . 2 \%$ 。子宫  
+内膜透明细胞癌各临床分期的5年生存率分别是：I  
+期， $7 9 \%$ ;Ⅱ期， $7 7 \%$ ;Ⅲ期， $47 \%$ $\mathrm { I V }$ 期， $2 1 \% ^ { [ 1 2 ] }$ 。单变量  
+分析显示：病理分期、临床分期、年龄、脉管浸润及肌层  
+浸润深度与生存率显著相关。在多变量分析中，仅病理  
+分期及年龄可作为独立的预后因素[13]。子宫肌层浸润  
+深度，淋巴脉管浸润，混合性癌及主要的病理类型(乳头  
+状VS非乳头状)并不影响I\~Ⅱ期ECCC的生存率。组(下转封三页）
+
+# （上接734页）
+
+织学类型与静脉血栓形成的高风险有关[14]。研究发现I-Ⅱ期患者的肿瘤复发率为 $4 4 . 5 \%$ ,而Ⅲ-IV期患者的肿瘤复发率为 $8 4 . 6 \%$ 。复发的患者中有2/3出现盆腔外转移，最常见的转移部位：上腹腔，肺及肝脏,少见的有脑，骨及皮肤转移[13]。分析38例行手术治疗的ECCC患者(部分行盆腔或腹主动脉淋巴结切除术)发现：与未行辅助化疗的患者相比，行辅助化疗的患者未出现盆腔复发[15]。辅助治疗可提高IB-Ⅱ期患者的总生存率。最新一项意大利的研究也发现： $2 6 \%$ 的子宫内膜透明细胞癌复发患者对化疗敏感[7。这也支持：手术联合局部辅助放疗及化疗可以更好地控制原发病及全身疾病。
+
+本例患者26岁，未婚未育， $\mathrm { \bf B M I } ~ 4 3 ~ \mathrm { k g / m } ^ { 2 }$ ，伴PCOS,主因阴道流血就诊，诊断：子宫内膜样中低分化腺癌并透明细胞癌Ⅱ期。2013年的一项流行病学研究发现Ⅱ型子宫内膜癌的发生也与雌激素引起的子宫内膜增生有关[2]。子宫内膜增生的PCOS患者发生子宫内膜癌的几率比非PCOS患者高4倍[1。大量证据证明,肥胖及Ⅱ型糖尿病是子宫内膜癌发生和死亡的高风险因素[17]。分析本例患者的发病机制可能与肥胖所引起的高雌激素水平及子宫内膜缺乏孕激素的对抗作用长期处于增殖状态，最终导致癌变有关。然而，关于PCOS患者发生子宫内膜透明细胞癌的报道罕见，机制也尚不清楚。因术前病理结果未提示透明细胞癌，术中未触及肿大淋巴结，且术中患者因肥胖出现气道压过高，导致血氧饱和度下降，未行盆腔淋巴结清扫术。术后根据指南：推荐采用盆腔放疗加阴道后装放疗，辅以腹主动脉旁区域放疗，可加用化疗。故术后先予化疗，已行6个疗程，现预后可。
+
+本例报告提示我们对出现阴道流血的PCOS患者应高度警惕子宫内膜病变。为年轻未婚未育的子宫内膜癌患者做出诊断和选择治疗方式对我们来说是一项极大的挑战。对处于早期阶段的此类患者，应根据其意愿及治疗方式的利弊为其提供医学意见。综合分析，对患者病情进行全面的评估，做好临床分期，根据患者个人情况制定治疗方案是十分必要的。
+
+# 参考文献：
+
+[1]Morice P,Leary A,Creutzberg C,et al.Endometrial cancer[J] Lancet,2016,387(123):1094-108. [2]Setiawan VW,Yang HP,Pike MC,et al. Type Iand II endometrial
+
+CaHCEIs: Have uIey uIeIeIt IIsK IaClOIs LJ」. J CII UHcOI,zU15,51 (20): 2607-18.   
+[3]Malpica A, Tornos C,Burke TW,et al. Low-stage clear-cell carcinoma of the endometrium[J].Am J Surg Pathol,1995,19(7): 769-74.   
+[4] Gadducci A,Cosio S,Spirito N,et al. Clear cellcarcinoma of the endometrium: a biological and clinical enigma[J].Anticancer Res, 2010,30(4): 1327-34.   
+[5]Hasegawa K,Nagao S, Yasuda M,et al. Gynecologic cancer InterGroup (GCIG) consensus review for clear cell carcinoma of the uterine corpus and cervix[J]. Int J Gynecol Cancer,2O14,24(9 Suppl 3): S90-5.   
+[6]Koh W, Greer BE,Abu-Rustum NR,et al. Uterine neoplasms[J]. J Natl Compr Canc Netw,2014,12(2): 248-80.   
+[7]Maggino T, Zola P, Sartori E,et al. Clear cell endometrial cancer: a CTF multicentre Italian study[J]. Eur JGynaecol Oncol,2015,36 (4): 428-31.   
+[8]庞晓燕,张 颐,郭科军.子宫内膜透明细胞癌的临床分析[J].中国医 科大学学报,2009,38(12):921-3.   
+[9]吴 倩.子宫内膜透明细胞癌的诊治进展[J].实用医学杂志,2014,30 (8): 1328-30.   
+[10]Hunn J,Tenney ME,Tergas AI,etal. Paterns and utilityof routine surveillance in high grade endometrial cancer[J].Gynecol Oncol, 2015,137(3): 485-9.   
+[11]Plataniotis G,Castiglion M,杨 华,et al.欧洲肿瘤内科协会对子宫 内膜癌的诊断,治疗和随访所制定的临床实践指南[J].国际妇产科学 杂志,2011(02): 163-5.   
+[12] Creasman WT, Odicino F, Maisonneuve P,et al. Carcinoma of the corpus uteri[J].JEpidemiol Biostat,2001,6(1): 47-86.   
+[13]Abeler VM,Vergote IB,Kjorstad KE,et al. Clear cell carcinoma of the endometrium. Prognosis and metastatic pattern [J].Cancer, 1996, 78(8): 1740-7.   
+[14] Carcangiu ML,Chambers JT. Early pathologic stage clear cell carcinomaand uterinepapillaryserouscarcinoma of the endometrium: comparison of clinicopathologic features and survival [J].Int JGynecol Pathol,1995,14(1): 30-8.   
+[15] Murphy KT, Rotmensch J, Yamada SD,et al. Outcome and patterns of failure in pathologic stages I-IV clear-cell carcinoma of the endometrium: implications for adjuvant radiation therapy[J]. Int J Radiat Oncol Biol Phys,2003,55(5): 1272-6.   
+[16]Prakansamut N, Sirayapiwat P, Triratanachat S. The percentages of endometrial hyperplasia and endometrial cancer among polycystic ovarysyndrome(PCOS） patientspresenting with abnormal menstrual pattern[J].JMed Assoc Thai,2014,97(2): 159-64.   
+[17]Li X, Shao R. PCOS and obesity: insulin resistance might be a common etiology for the development of type I endometrial carcinoma[J].Am JCancer Res,2014,4(1):73-9.
+
+(编辑：孙昌朋)

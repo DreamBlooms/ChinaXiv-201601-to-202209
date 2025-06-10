@@ -1,0 +1,549 @@
+[
+    {
+        "type": "text",
+        "text": "星载钠荧光多普勒激光雷达性能分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "闫召爱\\*① 胡雄① 郭商勇① 程永强① 郭文杰①② 潘艺升①②①(中国科学院空间科学与应用研究中心北京 100190)②(中国科学院大学北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：星载钠荧光多普勒激光雷达可以用来测量全球的中间层顶及低热层区域的大气风场、温度及钠原子数密度等。为了从理论上分析星载钠荧光多普勒激光雷达的可行性，该文依据激光雷达方程，对星载钠荧光多普勒激光雷达的回波信号强度以及大气参数测量精度进行仿真计算。分析结果显示在使用 $4 0 0 ~ \\mathrm { k m }$ 轨道高度， $3 0 . 0 ^ { \\circ }$ 观测角度，9.0 W 激光发射功率, $1 . 0 \\mathrm { m }$ 接收望远镜口径, $2 . 0 \\mathrm { k m }$ 垂直距离分辨率，30.0s信号累积时间情况下，可获得 $0 . 8 \\mathrm { m / s }$ 视线风速测量精度， $1 . 5 ~ \\mathrm { m / s }$ 水平风速测量精度和 $2 . 5 \\mathrm { ~ K ~ }$ 温度测量精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：激光雷达；中高层大气；多普勒；钠荧光",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：V556.5  \nDOI: 10.12000/JR14140",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：2095-283X(2015)01-0099-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引用格式：闫召爱，胡雄，郭商勇，等．星载钠荧光多普勒激光雷达性能分析[J]．雷达学报,2015,4(1):99-106. http://dx.doi.org/10.12000/JR14140. Reference format: Yan Zhao-ai, Hu Xiong, Guo Shang-yong,et al. Performance analysis of spaceborne sodium fluorescence Doppler lidar[J]. Journal of Radars, 2015,4(1): 99-106. http://dx.doi.org/10.12000/JR14140. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Performance Analysis of Spaceborne Sodium Fluorescence Doppler Lidar ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yan Zhao-ai① Hu Xiong① Guo Shang-yong① Cheng Yong-qiang① Guo Wen-jie@② Pan Yi-sheng@② ①(Center for Space Science and Applied Research,Chinese Academy of Sciences,Beijing 10019o,China) ②(University of Chinese Academy of Sciences, Beijing 100049, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The spaceborne sodium Doppler lidar can be developed to measure global wind,temperature and sodium numberdensityin the mesopause and lower thermosphere region.In order toanalyze the feasibilityof the lidar, simulation calculations about backscattering signals and measurement accuracy have been done in this paper. The analyzedresult shows that the line-of-sight wind accuracy,horizontal windaccuracyand temperature accuracy are $0 . 8 \\mathrm { m } / \\mathrm { s }$ ,1.5 m/s and 2.5 K when the height of satellite orbit is $4 0 0 ~ \\mathrm { k m }$ , observational angle is $3 0 . 0 ^ { \\circ }$ ,laser power is 9.0 W,receiver diameter is1.0 m,vertical range resolution is 2.0km,and signal integrated time is 30.0 s. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Lidar;Middle and upper atmosphere;Doppler; Sodium fluorescence ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地球大气中间层顶及低热层区域(约 $7 0 \\sim 1 1 0$ km)的观测对于中高层大气动力学过程研究、全球环境变化研究、宇宙尘埃研究以及保障航天活动等具有重要的意义。对这一区域的观测研究在国际上受到了高度重视。美国国家航空航天局(NASA)于1991年发射了一颗高空大气研究卫星UARS(UpperAtmosphereResearch Satellite)，用于进行中间层和热层的大气观测。2001年，美国NASA又发射了热层-电离层-中间层能量和动力学卫星TIMED（Thermosphere Ionosphere MesosphereEnergeticsandDynamiscs)，重点进行 $6 0 { \\sim } 1 8 0 \\ \\mathrm { k m }$ 高度的大气层观测。这些探测技术都采用的是被动式测量技术[]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "若使用主动式探测技术，那么探测的精度和分辨率都将得到提高。目前，激光探测技术用于中间层顶区域的探测得到了迅速发展。自20世纪60 年代开始，钠荧光激光雷达、钾荧光激光雷达、钙荧光激光雷达、铁激光雷达等逐渐被建立起来用于观测中间层顶及低热层大气2。其中以钠荧光激光雷达最为普遍。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1990年美国科罗拉多州立大学和伊利诺伊大学合作建立了首台先进的窄线宽双频钠荧光多普勒激光雷达，用于测量中间层顶大气温度和风速[3.4]。随后，他们采用激光频率稳定技术、激光频率调节技术进一步发展了大气风场/温度探测三频钠荧光多普勒激光雷达[5.6]。2010 年中国科学院空间科学与应用研究中心研制成功了首台车载钠荧光多普勒激光雷达，可以同时测量大气风场、温度以及钠原子数密度等[7.8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但是，国际上还没有星载钠激光雷达在运行。2008年希腊雅典娜研究中心提出了全球中间层激光雷达探测计划GLEME（GlobalLidar ExplorationoftheMEsosphere)，利用钠激光雷达探测中间层顶区域的大气温度和水平风场9。美国国家航空航天局(NASA)Goddard 飞行中心于 2013 年底公布了其发展星载钠激光雷达探测中间层顶区域大气的工作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在我国，中国科学院空间科学与应用研究中心基于车载钠荧光多普勒激光雷达的研究基础，提出了星载钠激光雷达新载荷技术的概念[10，以探测全球的中间层区域大气风场、温度以及钠原子数密度，研究大气中间层和低热层大气结构和动力学等科学问题。本文的主要工作是基于激光雷达方程计算星载钠荧光激光雷达的信号强度及测量精度，初步论证其可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 探测原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在中间层顶区域的大气层中，存在一金属层，里面含有钠原子。发射波长 $5 8 9 \\ \\mathrm { n m }$ 的激光激发大气中的钠原子发射共振荧光；通过测量荧光光谱的多普勒展宽，可以获得温度信息；通过测量多普勒频移，可以获得风速信息。钠原子荧光光谱与钠原子的温度与运动速度直接相关。钠原子作为示踪物，其温度、运动速度与大气背景温度、风速相同，从而可利用钠原子荧光的光谱测量得到中间层顶区域大气温度和风速。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在钠荧光激光雷达中，使用钠原子荧光光谱$\\mathrm { D } _ { 2 }$ 线进行测量。钠原子D线跃迁能级分布图如图1所示。 $3 ^ { 2 } \\mathrm { p _ { 3 / 2 } } {  } 3 ^ { 2 } \\mathrm { s _ { 1 / 2 } }$ ，形成 $\\mathrm { D } _ { 2 }$ 线，波长为589.158$\\mathrm { n m }$ 。对于 $\\mathrm { D } _ { 2 }$ 线的超精细结构， $\\mathrm { 3 ^ { 2 } p _ { 3 / 2 } }$ 又分裂为4个能级[2,5,11]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中间层顶的钠原子多普勒展宽与绝对温度的平方根成正比，与原子质量的平方根成反比，可以表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\mathrm { D } } = { \\sqrt { \\frac { \\mathrm { k _ { \\mathrm { B } } } T } { M \\lambda _ { \\mathrm { 0 } } ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf6d26a36cd997101c8d5f72b470d9bfb6ec5d6017699fad84d5271ff04f0403.jpg",
+        "img_caption": [
+            "图1钠原子D线跃迁能级分布图",
+            "Fig.1Energy levels of sodium D transitions "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathrm { k _ { B } }$ 是波尔兹曼常数， $T$ 是温度， $M$ 是原子质量，$\\lambda _ { 0 }$ 是中心波长。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "钠原子 $\\mathrm { D } _ { 2 }$ 线线型可以表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ( \\nu ) = { \\frac { 1 } { \\sqrt { 2 \\pi } \\sigma _ { \\mathrm { { D } } } } } \\sum _ { n = 1 } ^ { 6 } A _ { n } \\exp \\left( - { \\frac { \\left[ \\nu _ { n } - \\nu \\left( 1 - { \\frac { V } { \\mathrm { { c } } } } \\right) \\right] ^ { 2 } } { 2 \\sigma _ { \\mathrm { { D } } } ^ { 2 } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\sigma _ { \\mathrm { D } }$ 为多普勒展宽的均方根宽度， $\\nu _ { n }$ 表示第 $n$ 条谱线的相对频率， $\\nu$ 为频率， $A _ { n }$ 表示第 $n$ 条谱线的相对强度， $V$ 为钠原子的视线速度， $ { \\mathrm { ~  ~ \\mathscr ~ { ~ c ~ } ~ } }$ 为光速。 $\\mathrm { D } _ { 2 }$ 线超精细结构的主要参数见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "发射激光激发钠原子产生共振荧光，共振荧光的线型是原子多普勒展宽线型与激光线型 $g _ { \\mathrm { L } } ( \\nu )$ 卷积的结果，可以表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { G ( \\nu ) = \\int g ( \\nu - \\nu ^ { \\prime } ) g _ { \\mathrm { L } } ( \\nu ^ { \\prime } ) \\mathrm { d } \\nu ^ { \\prime } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "激光线型 $g _ { \\mathrm { L } } ( \\nu )$ 一般是宽度为 $\\sigma _ { \\mathrm { L } }$ 的高斯线型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大气温度决定钠荧光的宽度，视线风速决定其多普勒频移。不同温度、风速时，钠荧光谱线如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "发射3个频率的窄线宽激光，获得两个独立的回波强度比值，可以将谱线的宽度和多普勒频移同时测量出来，从而同时获得大气温度和视线风速，该技术称为三频多普勒技术。激光雷达使用3个频率(FO,FP,FM)分别位于 $\\mathrm { \\Delta D _ { 2 a } }$ 谱线的峰值处和两翼(见图2)。 $\\mathrm { \\Delta D _ { 2 a } }$ 谱线上3个频率(FO,FP,FM)处的大气回波信号强度为 $N ( \\mathrm { F 0 } ) , N ( \\mathrm { F P } ) , N ( \\mathrm { F M } )$ ，定义比值 $R _ { \\mathrm { T } } , R _ { \\mathrm { W } }$ 如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c3e7f0398725e6de67c7e12ceb1fb783a74c2ad1b75898213d654bd3fcd568e5.jpg",
+        "table_caption": [
+            "表1钠原子 $\\mathbf { D _ { 2 } }$ 线超精细跃迁参数",
+            "Tab.1 Parameters of Na $\\mathbf { D _ { 2 } }$ hyperfine transitions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>谱线</td><td>跃迁n</td><td>频率偏移vn (GHz)</td><td>相对线强度An</td></tr><tr><td rowspan=\"3\">D2b</td><td>1</td><td>1.0911</td><td>5/32</td></tr><tr><td>2</td><td>1.0566</td><td>5/32</td></tr><tr><td>3</td><td>1.0408</td><td>2/32</td></tr><tr><td rowspan=\"3\">D2a</td><td>4</td><td>-0.6216</td><td>14/32</td></tr><tr><td>5</td><td>-0.6806</td><td>5/32</td></tr><tr><td>6</td><td>-0.7150</td><td>1/32</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6412d34b3d4eeebd7c5dee53c106a5487788ad2fbd5ff380942bc5117d65c729.jpg",
+        "img_caption": [
+            "图2钠原子 $\\mathrm { { D } _ { 2 } }$ 线吸收光谱",
+            "Fig.2Sodium $\\mathrm { D } _ { 2 }$ absorption spectrum "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { T } } = { \\frac { N ( \\mathrm { F P } ) + N ( \\mathrm { F M } ) } { N ( \\mathrm { F 0 } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { W } } = { \\frac { N ( \\mathrm { F P } ) - N ( \\mathrm { F M } ) } { N ( \\mathrm { F 0 } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后通过测量比值 $R _ { \\mathrm { T } }$ 和 $R _ { \\mathrm { W } }$ ，可获得大气温度和风速。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3星载钠激光雷达回波信号强度仿真计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了从理论上分析星载钠激光雷达的可行性，并为系统的设计提供理论依据，我们依据激光雷达方程对星载钠激光雷达的回波信号强度以及大气参数探测精度进行仿真计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "钠激光雷达的大气散射信号主要包括两部分：钠荧光信号 $ { N _ { \\mathrm { N a } } }$ 和瑞利散射信号 $N _ { \\mathrm { R } }$ （不采集低层大气的米散射信号)。这两部分信号的激光雷达方程可以表示为[2,12,13]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { N _ { \\mathrm { N a } } ( \\lambda , z , T , V ) = [ \\frac { P _ { \\mathrm { L } } ( \\lambda ) \\Delta t } { \\mathrm { ~ h c ~ } / \\lambda } ] [ \\sigma _ { \\mathrm { N a } } ( \\lambda , T , V ) n _ { \\mathrm { N a } } ( z ) \\Delta z ] } } \\\\ & { } & { \\cdot ( \\frac { A } { z ^ { 2 } } ) ( \\eta ) ( T _ { \\mathrm { R } } ^ { 2 } ) ( T _ { \\mathrm { N a } } ^ { 2 } ) \\qquad ( \\mathrm { 6 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { R } } \\left( \\lambda , z , T , V \\right) = \\left[ \\frac { P _ { \\mathrm { L } } ( \\lambda ) \\Delta t } { \\mathrm { h c } / \\lambda } \\right] \\left[ \\sigma _ { \\mathrm { R } } ( \\lambda , T , V ) n _ { \\mathrm { R } } ( z ) \\Delta z \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cdot \\left( { \\frac { A } { z ^ { 2 } } } \\right) ( \\eta ) \\left( T _ { \\mathrm { R } } ^ { 2 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$N _ { \\mathrm { { N a } } } ( \\lambda , z , T , V )$ 表示接收到的距离 $z - \\Delta z / 2 \\sim z +$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta z / 2$ 范围内的光子数； $N _ { \\mathrm { { R } } } ( \\lambda , z , T , V )$ 表示接收到的距离 $z - \\Delta z / 2 \\sim z + \\Delta z / 2$ 范围内的大气瑞利散射光子数； $z$ 表示视线距离； $T$ 表示大气温度； $V$ 表示风速； $P _ { \\mathrm { { L } } } ( \\lambda )$ 表示发射的脉冲激光平均功率；$\\Delta t$ 表示信号累积时间； $\\mathrm { \\Delta h }$ 表示普朗克常数；c表示光速； $\\lambda$ 表示激光波长； $\\sigma _ { \\mathrm { N a } } ( \\lambda , z , T , V )$ 表示钠荧光后向散射微分截面； $\\sigma _ { \\mathrm { { R } } } ( \\lambda , z , T , V )$ 表示瑞利信号后向散射微分截面； $n _ { \\mathrm { { N a } } }$ 表示钠原子数密度； $n _ { \\mathrm { R } }$ 表示大气分子数密度； $\\Delta z$ 表示视线方向信号累积距离；$A$ 表示接收望远镜面积； $\\eta$ 表示激光雷达系统效率； $T _ { \\mathrm { R } }$ 表示大气对光信号的透过率； $T _ { \\mathrm { N a } }$ 表示钠层对光信号的透过率。  \n$\\left[ \\frac { P _ { \\mathrm { L } } ( \\lambda ) \\Delta t } { \\mathrm { h c } / \\lambda } \\right]$ 项表示发射的光子数； $\\left[ \\sigma ( \\lambda , T , V ) n ( z ) \\right.$ $\\Delta z ]$ 项表示距离 $z - \\Delta z / 2 \\sim z + \\Delta z / 2$ 范围内的光子的散射概率； $\\left( A / z ^ { 2 } \\right)$ 项表示接收视场角度。从激光雷达方程中可以看出表征大气状态的是$\\sigma ( \\lambda , T , V ) n ( z )$ ，称为后向散射系数 $\\beta ( \\lambda , z , T , V )$ 。$\\sigma ( \\lambda , T , V )$ 表示单个散射体的后向散射系数， $n ( z )$ 表示散射体的数密度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "钠原子吸收光子后向各个方向发射荧光，各向同性，其后向散射微分截面 $\\sigma _ { \\mathrm { { N a } } } ( \\lambda , z , T , V )$ 可以表示为钠原子吸收截面 $\\sigma _ { \\mathrm { a b s } } ( \\lambda , z , T , V )$ 除以立体角度 $4 \\pi$ ，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\beta _ { \\mathrm { N a } } ( \\lambda , z , T , V ) = \\sigma _ { \\mathrm { N a } } ( \\lambda , z , T , V ) n _ { \\mathrm { N a } } ( z ) } \\\\ { = \\frac { \\sigma _ { \\mathrm { a b s } } ( \\lambda , z , T , V ) } { 4 \\pi } n _ { \\mathrm { N a } } ( z ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "钠原子吸收截面 $\\sigma _ { \\mathrm { a b s } } ( \\lambda , z , T , V )$ 已有较准确的理论模型，可参阅文献[2,5,10]。当 $\\scriptstyle { T = 2 0 0 \\mathrm { ~ K } , V = }$ $0 ~ \\mathrm { m / s }$ 时，在激光频率FO处，钠原子吸收截面$\\sigma _ { \\mathrm { a b s } } ( \\lambda , z , T , V )$ 值约为 $9 . 2 \\times 1 0 ^ { - 1 6 } \\ \\mathrm { ~ m ^ { 2 } s r ^ { - 1 } }$ (见图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "激光雷达方程中的 $\\Delta z$ 表示激光传输方向上的信号累积距离。当观测角度为 $\\varphi$ ，光斑直径为 $D$ 时，信号累积距离 $\\Delta z$ 对应的激光雷达垂直距离分辨率可以表示为 $\\Delta H = \\Delta z \\cos \\varphi + D \\sin \\varphi$ 。由于激光束光斑较小，本文中没有考虑 $D \\sin \\varphi$ 项对垂直距离分辨率的贡献。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "激光雷达方程中的 $\\Delta t$ 表示回波信号的累积时间。因为钠荧光多普勒激光雷达所使用的钠原子金属层分布于地球各地的 $7 0 { \\sim } 1 1 0 \\ \\mathrm { k m }$ 上空，当激光雷达工作在运动的卫星平台时，由于同一高度的大气环境特性一致，所以可以对同距离运动方向上的探测数据进行累积。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行测量误差计算时，主要考虑了光子随机起伏引起的回波信号误差，依据参数反演公式，进一步可求得测量参数的误差，具体过程可参考文献[2]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3是星载钠荧光多普勒激光雷达观测方式示意图。该激光雷达工作在侧视观测方式下，激光束传播方向与卫星平台运动方向垂直，与天底方向保持一定的夹角。此观测方式借鉴了欧洲航天局ADM-Aeolus卫星项目的观测方式[14]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在仿真计算时，卫星轨道高度设为 $4 0 0 ~ \\mathrm { k m }$ 观测角度为 $3 0 . 0 ^ { \\circ }$ ；钠原子的数密度采用北京地区地基观测结果的年平均值，最大数密度为 $4 . 2 5 \\times 1 0 ^ { 9 }$ $\\mathrm { m ^ { - 3 } }$ ，位于 $9 1 \\mathrm { k m }$ 左右处，如图4所示；激光发射功率 $P _ { \\mathrm { L } } ( \\lambda ) = 9 . 0 ~ \\mathrm { W }$ ；接收望远镜面积 $A = 0 . 7 9 ~ \\mathrm { m } ^ { 2 }$ (望远镜口径为 $1 . 0 \\mathrm { m } \\mathrm { \\ddot { \\Omega } }$ )；系统效率 $\\eta = 0 . 0 1$ ；垂直距离分辨率 $\\Delta H = 2 . 0 \\mathrm { k m }$ ；信号累积时间 $\\Delta t = 3 0 . 0$ S。大气的温度、密度值由大气模式MSISE-00给出，大气风速值设为 $V = 0 ~ \\mathrm { m / s }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2798394abedeba5de548ef081d79b13f0726c776f1596a52386b5433323641f4.jpg",
+        "img_caption": [
+            "图3星载钠荧光多普勒激光雷达观测方式 Fig.3Obervation mode of spaceborne sodium fluorescence Doppler lidar ",
+            "Fig.4The annual mean of sodium number density over Beijing "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f3a76c86a5469ac9a571a878a1c02e5ac0714693530945993d649dce45c15bb.jpg",
+        "img_caption": [
+            "图4 北京地区钠原子数密度年平均值"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真计算中的主要参数(激光发射功率、信号累积距离、信号累积时间)的数值参考了NASAGoddard飞行中心星载钠激光雷达的设计值[15；接收望远镜口径值参考了美国国家航空航天局(NASA)和法国国家航天中心(CNES)合作的“云-气溶胶激光雷达和红外探测者观测”(Cloud-Aerosol Lidar and Infrared Pathfinder SatelliteObservations，CALIPSO)计划中的望远镜口径值[16。卫星轨道采用低轨道，有利于激光雷达回波信号的收集。为了测量大气水平风速，观测方向与垂直于地球表面方向有一定的角度，综合考虑水平风速的测量精度和温度测量精度，该角度设定为 $3 0 . 0 ^ { \\circ }$ 。星载钠荧光多普勒激光雷达的主要参数见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/555e5b464318ec91255dd429f719dac5c081cad842575a4cc2266f8ad8909d82.jpg",
+        "table_caption": [
+            "表2星载钠激光雷达主要参数",
+            "Tab.2Parameters of the space-borne sodium lidar "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>P(入)</td><td>A</td><td>△H</td><td>△t</td><td>n</td></tr><tr><td>9.0W</td><td>0.79 m²</td><td>2.0 km</td><td>30.0 s</td><td>0.01</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5是星载钠荧光多普勒激光雷达仿真计算结果，纵坐标是海拔高度。图5(a)是 $\\mathrm { F 0 }$ , FP,FM 3个激光频率信号强度，横坐标是光子数；图 5(b)是FO，FP，FM3个激光频率信号对应的信噪比；图5(c)是大气温度测量误差；图5(d)是视线风速测量误差。由图可见，在 $9 1 . 6 \\mathrm { k m }$ 处接收到的信号最强。FO，FP，FM3个激光频率信号强度分别为11805，5126，4056个光子，它们对应的信噪比分别为20.4dB，18.5dB，18.0dB。在该处温度测量误差约为 $2 . 5 ~ \\mathrm { K }$ ，视线风速测量误差约为 $0 . 8 ~ \\mathrm { m / s }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/973aa7e644379f03e09ed58cc79c30685dcf32cb0bf9eebd0486e11f5355ed1b.jpg",
+        "img_caption": [
+            "图5星载钠荧光多普勒激光雷达仿真计算结果",
+            "Fig.5Simulation calculation results of spaceborne sodium fluorescence Doppler lidar "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "激光雷达的测量精度主要取决于接收到的回波信号强度。由激光雷达方程可知，接收到的回波信号强度与激光发射功率、接收望远镜面积、信号累积距离、信号累积时间成正比；激光发射功率越高，接收望远镜面积越大，信号累积距离(或时间)越长，接收到的信号也就越强。另外，接收到的回波信号强度还与激光在传输过程中的耗散有关，在激光雷达方程中表现为透过率 $T _ { \\mathrm { R } } ^ { 2 }$ 和 $ { T _ { \\mathrm { N a } } } ^ { 2 }$ 项。由于70$\\mathrm { k m }$ 以上的大气比较稀薄，大气分子对激光的散射作用比较弱，所以大气分子对激光束传输过程中的耗散影响非常小， $T _ { \\mathrm { R } } ^ { 2 } \\approx 1$ 。而钠原子层对激光的吸收作用比较明显，对激光的透过率 $T _ { \\mathrm { N a } } ^ { 2 }$ 在 $1 0 0 ~ \\mathrm { k m }$ $9 0 ~ \\mathrm { k m }$ ， $8 0 ~ \\mathrm { k m }$ 处分别为 $9 9 . 8 \\%$ ， $9 6 . 0 \\%$ ， $9 3 . 7 \\%$ ，在仿真计算时需要考虑。在激光发射功率、接收望远镜面积等参数一定时，信号累积距离、信号累积时间越短，激光雷达的测量精度越低。因此，在进行星载钠荧光多普勒激光雷达参数配置时，还需要考虑实际应用对测量结果精度和时空分辨率的需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这与其它星载多普勒激光雷达参数配置问题是一致的[14]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "星载钠荧光多普勒激光雷达的观测角度是一个重要的参数。当垂直于地球表面观测时，由于卫星与大气层之间的距离最短，所以收到的回波信号最强。但这种观测方式不能够测量水平风速。当观测角度逐渐增大时，卫星与大气层之间的距离逐渐增长，激光束与大气层的作用距离也增长，测量精度随之变化。当观测角度为 $7 0 . 7 ^ { \\circ }$ 时，激光束不再照射到地球表面，与地球表面最近的距离为 $2 0 \\mathrm { k m }$ 。为了使星载钠荧光多普勒激光雷达能够收到 $2 0 \\mathrm { k m }$ 以上大气的信号(部分信号用于标定工作)，因此，观测角度不能超过 $7 0 . 7 ^ { \\circ }$ 。下面仿真计算了不同观测角度情况下，大气温度和水平风速的测量精度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设水平风速为 $U$ ，测量精度为 $\\delta U$ ，视线风速为 $V$ ，测量精度为 $\\delta V$ ，激光束与垂直于地球表面方向的角度为 $\\varphi$ (见图3)，那么它们之间的关系可以表示为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU = { \\frac { V } { \\sin \\varphi } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta U = { \\frac { \\delta V } { \\sin \\varphi } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图6是不同观测角度时的观测情况，横坐标为观测角度，单位为 $\\circ$ 。图6(a)是卫星发射激光到 $9 1 \\mathrm { k m }$ 大气层的距离；图6(b)是 $9 1 \\mathrm { k m }$ 处大气温度的测量误差；图6(c)是视线风速(line-of-sight)和水平风速(horizontal)测量误差。可以看出，当观测角度为 $0 ^ { \\circ }$ 时，卫星发射激光到 $9 1 ~ \\mathrm { k m }$ 大气层最近 $\\mathrm { { ( 3 0 9 ~ k m ) } }$ ，大气温度和视线风速测量误差最小，分别为 $2 . 3 \\mathrm { ~ K ~ }$ 和 $0 . 7 \\mathrm { m / s }$ 。随着观测角度的增大，大气温度和视线风速测量误差也逐渐增大。当观测角度为 $7 0 . 7 ^ { \\circ }$ 时，大气温度和视线风速测量误差分别为 $4 . 6 \\mathrm { ~ K ~ }$ 和1.3$\\mathrm { m } / \\mathrm { s }$ 。但水平风速的测量误差并不是随观测角度增大而呈现增大趋势，它在观测角度较小时，测量误差比较大，后逐渐变小，在观测角度为 $5 3 . 0 ^ { \\circ }$ 时，测量误差最小为 $1 . 1 \\mathrm { m / s }$ ，随后又逐渐增大。对于水平风速测量来讲， $5 3 . 0 ^ { \\circ }$ 的观测角度比较好，但此时的温度测量误差比较大，约为 $3 . 1 \\mathrm { K }$ 。为了兼顾水平风速和温度的测量精度，观测角度可以选择在 $3 0 . 0 ^ { \\circ }$ 左右，此时卫星发射激光到 $9 1 ~ \\mathrm { k m }$ 大气层的距离为$3 6 0 ~ \\mathrm { k m }$ ，大气温度测量误差为 $2 . 5 \\mathrm { ~ K ~ }$ ，视线风速测量误差为 $0 . 8 ~ \\mathrm { m / s }$ ，水平风速测量误差为 $1 . 5 ~ \\mathrm { m / s }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6debb7402c4db21a8c872858e068287a5efadcc448f71e040169d928b03c7da.jpg",
+        "img_caption": [
+            "图6不同观测角度时的观测情况",
+            "Fig.6Measurement results when different observational angles "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "星载钠荧光多普勒激光雷达可以测量全球的中间层顶及低热层区域的大气温度和风场以及钠原子数密度，具有一定的发展前景。本文介绍了钠荧光多普勒激光雷达的观测原理，利用激光雷达方程对星载钠荧光多普勒激光雷达的信号强度以及测量精度进行了仿真计算。仿真计算表明，发展星载钠荧光多普勒激光雷达具有一定的可行性。下一步，我们将进一步对星载钠荧光多普勒激光雷达系统进行详细论证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 陈洪滨．中高层大气研究的空间探测[J]．地球科学进展，2009, 24(3):229-241. Chen Hong-bin.An overview of the space-based observations forupperatmospheric research[J].Aduances in Earth Science, 2009,24(3): 229-241. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2] Fujii T and Fukuchi T.Laser Remote Sensing[M].Boca Raton: CRC Press,2005:179-432.   \n[3] She C Y,Latifi H,Yu JR，et al..Two-frequency lidar technique for mesospheric Na temperature measurements[J]. Geophysical Research Letters,1990,17(7):929-932.   \n[4] Bills R E.Iron and sodium Doppler/temperature lidar studies of the upper mesosphere[D].[Ph.D.dissertation],University of Illinois at Urbana-Champaign,1991.   \n[5] She C Y,Yu J R,Latifi H,et al..High-spectral-resolution fluorescence light detection and ranging for mesospheric sodium temperature measurements[J].Applied Optics,1992, 31(12): 2095-2106.   \n[6] She C Y and Yu JR. Simultaneous three-frequency Na lidar measurements of radial wind and temperature in the mesopauseregion[J].Geophysical Research Letters,1994, 21(17): 1771-1774.   \n[7] Hu X,Yan ZA,Guo S Y,et al.. Sodium fluorescence Doppler lidarto measureatmospheric temperature in the mesopauseregion[J].Chinese Science Bulletin,20l1,56(3): 417-423.   \n[8] Hu X,Yan Z A,Guo S Y,et al..A sodium lidar to measure mesopause region wind and temperature at Langfang observatory (39.4oN,116.6E)[C].26th International Laser Radar Conference,Porto Heli,Greece,20l2:1l05-1108.   \n[9] Talaat ER, Sarris TE,PapayannisA,et al..GLEME: global lidar exploration of the mesosphere[C].24th International Laser Radar Conference，Boulder，Colorado，USA，2008: 832-834.   \n[10]吴小成，胡雄，闫召爱，等．大气金属层探测卫星研究[J]．测 绘通报，2014(S0):73-75. Wu Xiao-cheng， Hu Xiong， Yan Zhao-ai, etal.. Atmosphericmetal layer detection satellite[J]．Bulletin of Surveying and Mapping,2014(So): 73-75.   \n[11]闫召爱，胡雄,郭商勇，等.钠原子 $\\mathrm { D } _ { 2 }$ 线无多普勒饱和荧光光 谱的测量[J]．光学学报，2010,30(4):1036-1040. Yan Zhao-ai,Hu Xiong,Guo Shang-yong， et al.. Sodium atoms $\\mathrm { D } _ { 2 }$ line Doppler-free saturation fluorescence spectra measurements[J]. Acta Optica Sinica, 2010, 30(4): 1036-1040.   \n[12]徐丽，胡雄，闫召爱，等．钠多普勒激光雷达大气参数反演方 法[J]．红外与激光工程,2009,38(1):140-143. Xu Li,Hu Xiong,Yan Zhao-ai,et al..Retrieval method of atmospheric parameters for a sodium Doppler lidar[J]. Infrared and Laser Engineering,2009,38(1):140-143.   \n[13]徐丽，胡雄，程永强，等．钠多普勒激光雷达回波光子数仿真 及大气参数反演[J]．地球物理学报,2010,53(7):1520-1528. Xu Li,Hu Xiong,Cheng Yong-qiang，et al..Simulation of echo-photon counts of a sodium Doppler ldiar and retrievals of atmospheric parameters[J]. Chinese Journal of Geophysics, 2010,53(7):1520-1528.   \n[14]Paffrath U. Performance assessment of the Aeolus Doppler wind lidar prototype[D]. [Ph.D.dissertation],Lehrstuhlfuir Thermodynamic Technische Universität Miinchen, 2006.   \n[15] Krainak M A，Yu A W,Janches D,et al..Self-Raman Nd:VO4 laser and electro-optic technology for space-based sodium lidar instrument[C].SPIE Photonics West，San Francisco,California,USA,2014,DOI:10.1117/12.2041453.   \n[16]Winker D M,Pelon J,Coakley JA,et al..The CALIPSO misson: a global 3D view of aerosols and clouds[J]. Buletin of the American Meteorological Society,20l0,91(9):1211-1229. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e2683f6efad2e6900c294a29396dd304c5414b3141af0d405cf7cf0a30c6702.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者简介",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "闫召爱(1981-)，男，山东巨野人，2011年获得中国科学院研究生院空间物理学专业博士学位，中国科学院空间科学与应用研究中心副研究员，主要研究方向为大气激光雷达技术。  \nE-mail:yanza@nssc.ac.cn郭商勇(1976-)，男，山西临汾人，助理研究员，主要研究方向为大气激光雷达技术。  \nE-mail: guosy@nssc.ac.cn",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9d4a1842f061867469fc79e45c2a88447750a8965dcf548642c60ed1efe0ed9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f32e1b8f94c584d6d88a148f24b6369bd0cd4f65ef76d71d7e4d602dd5fe8389.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "胡雄(1967-)，男，湖北通城人，博士，研究员，博士生导师，中国科学院空间科学与应用研究中心临近空间环境研究室主任，中国空间科学学会空间物理学专业委员会委员，中国航空学会临近空间飞行器专业委员会委员，中国宇航学会光电技术专业委员会委员，主要研",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/45b5e349d466e399b56202b0a3dff67f59357d7d50b33b3775d9b610207d8fc8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "程永强(1981-)，男，陕西渭南人，助理研究员，中国宇航学会光电技术专业委员会委员，主要研究方向为临近空间探测及激光雷达技术。  \nE-mail:chengyq@nssc.ac.cn",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "究方向为临近空间环境探测、研究及预报。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3454cf1276a6321c8b04d214dc969b935d122e1f9ab5221e0002d7cb4c9ee17d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "郭文杰(1989-)，男，河北石家庄人，博士研究生，主要研究方向为大气激光雷达技术及大气重力波研究。  \nE-mail: gwj2127@nssc.ac.cn",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdca7ed3122dfdcc8fde756518740c78d1c02f19c81ecbf85f8d26634f244ec2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "潘艺升(1989-)，广西钦州人，硕士研究生，主要研究方向为临近空间探测技术。E-mail: panys01@hotmail.com",
+        "page_idx": 7
+    }
+]

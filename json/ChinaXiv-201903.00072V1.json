@@ -1,0 +1,532 @@
+[
+    {
+        "type": "text",
+        "text": "基于FPGA自适应滤波器的磁轴承位移传感器故障信号处理分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宗鸣冯超 郑安琪（沈阳工业大学电气工程学院 沈阳110870）",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/de34133302bf98e6b18aa33076b3262804b981e86a6b7e123fd1ec9923e67512.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宗鸣男1957年生，教授，博士生导师，研究方向为特种电机及其控制、智能电器。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对采用差动方式测量位移的主动磁悬浮轴承控制系统，研究了电涡流位移传感器故障信号与控制器输出信号之间的关系，分析了不同探头发生故障时位移传感器输出和控制器输出的特征，介绍了自适应滤波的工作原理，进而提出了基于自适应滤波的传感器故障诊断方法。该方法以两传感器输出信号的差值为参考信号对控制器的输出信号进行滤波，得到控制器输出信号与两传感器输出差值信号之间的相关系数，从而根据相关系数的极性准确判断出现故障的传感器。最后应用Matlab 对其进行仿真，并结合基于可编程序门阵列（FPGA）的自适应滤波器对故障信号进行实验验证。结果表明，该方法可以准确地检测到传感器故障并识别故障传感器。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：电涡流位移传感器 可编程序门阵列 自适应滤波 故障诊断中图分类号：TM571",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fault Analysis of Magnetic Bearing Displacement Sensor Based on FPGA Adaptive Filter ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e8ca829f7983ec123112a4d56fdd30a9302599f11e52a34a2de08579d0b1c7c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zong Ming Feng Chao Zheng Anqi （ShenyangUniversity of TechnologyShenyang110870 China ) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冯超男1992年生，硕士，研究方向为电机与电器。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: According to the active magnetic bearing equipped with different displacement sensors,the relationship between the fault signal of eddy current displacement sensors and the output signal of the controller is studied.The characteristics of the output of the displacement sensor and the output of the controller are analyzed in the event of failure of the different probe.The principle of adaptive filtering is introduced, and then a sensor fault diagnosis method based on the adaptive filtering is proposed. The method uses the difference between the two sensor output signals as the reference signal to filter the output signal of the controller to obtain the correlation coefficient between the controller output signal and the difference signals between the two sensors, so that the polarity of the correlation coeficient can be judged accurately faulty sensor. The simulation is carried out by Matlab,and the experimental results are verified by the adaptive filter based on field-programmable gate array (FPGA). The results show that the method can detect the sensor fault and identify the fault sensor accurately. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Eddy current displacement sensor, field-programmable gate array, adaptive filtering, fault diagnosis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "磁悬浮轴承是利用电磁铁产生可控电磁力将转子无接触的悬浮的一种新型轴承，与传统轴承相比，磁悬浮轴承具有无磨损、无污染、无需润滑以及刚度阻尼可调等优点[1]。但磁悬浮轴承系统因包含传感器、控制器和功率放大器等，远比传统轴承复杂，因此如何提高磁悬浮轴承系统的可靠性是目前研究的热点。作为系统最重要的环节，传感器的探头被安装在转子附近，经常受到转子运行时带来的振动和高速气流的影响，最容易损坏，所以对传感器采用冗余设计成为提高系统可靠性的主要方法之一[2]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过在主动磁悬浮轴承系统中引入错误识别和诊断系统可以在一定程度上提高主动磁悬浮轴承的可靠性。错误识别和诊断（FaultDetectionandDiagnosis，FDD）系统的主要任务是实时检测主动磁悬浮轴承的各个子系统的功能，如果某个子系统的功能不正常，则错误识别和诊断系统将自动识别出故障单元并对故障单元进行替换，因此错误识别和诊断系统要求系统具有一定的功能冗余度。FDD系统的关键就在于故障的诊断与识别。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主动磁悬浮轴承系统通常采用差动式位移传感器以提高位移检测的性能。差动式位移传感器在每个自由度上安装有两个位移传感器（本文分别称为传感器1和传感器2）同时检测转子的位移。针对采用差动式位移传感器的主动磁悬浮轴承系统，介绍了一种位移传感器故障的识别方法。该方法可以通过分析两路位移信号和控制器的输出信号来检测传感器的故障并识别出故障传感器。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2差动式位移传感器输出信号与故障信号及干扰力的关系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1为采用差动式电涡流位移传感器的主动磁悬浮轴承单自由度系统结构框图。图中， $C ( s )$ 为控制器； $K _ { \\mathrm { i } }$ 为磁悬浮轴承的电流刚度系数； $G ( s )$ 为转子模型； $K _ { \\mathrm { s l } }$ 和 $K _ { s 2 }$ 分别为传感器1和传感器2的增益； $\\boldsymbol { r }$ 为参考输入； $f$ 为转子所受的干扰力； $d _ { 1 }$ ， $d _ { 2 }$ 分别为施加在传感器1和传感器2上的干扰信号，分别用来模拟传感器1和传感器2的故障； $V _ { 1 }$ 、 $V _ { 2 }$ 分别为传感器1和传感器2的输出信号； $u _ { \\mathrm { c } }$ 为控制器的输出信号。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图1可得两个传感器的输出信号和故障信号、干扰力之间的关系为",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6a5cd990b0854c1c4a0746be64e658af4498339a3688a2c3845b407937f2350.jpg",
+        "img_caption": [
+            "图1差动位移传感器的主动磁悬浮轴承系统结构框图 Fi.1Structure diagram of active magnetic suspension bearing system with differential displacement sensor "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\cal V } _ { 1 } = \\displaystyle \\frac { 1 } { 1 + \\Delta } K _ { s 1 } \\Biggl ( 1 + \\frac 1 2 K _ { s 2 } K _ { i } G ( s ) C ( s ) \\Biggr ) d _ { 1 } + } } \\\\ { { \\displaystyle \\phantom { \\int } \\quad } } \\\\ { { \\displaystyle \\phantom { \\int } \\frac { 1 } { 1 + \\Delta } \\Biggl ( - \\frac 1 2 K _ { s 1 } K _ { s 2 } K _ { i } G ( s ) C ( s ) d _ { 2 } + K _ { s 1 } G ( s ) f \\Biggr ) } } \\\\ { { { \\cal V } _ { 2 } = \\displaystyle \\frac { 1 } { 1 + \\Delta } K _ { s 2 } \\Biggl ( 1 + \\frac 1 2 K _ { s 1 } K _ { i } G ( s ) C ( s ) \\Biggr ) d _ { 2 } + } } \\\\ { { \\displaystyle \\phantom { \\int } \\quad } } \\\\ { { \\displaystyle \\phantom { \\int } \\frac { 1 } { 1 + \\Delta } \\biggl ( - \\frac 1 2 K _ { s 1 } K _ { s 2 } K _ { i } G ( s ) C ( s ) d _ { 1 } + K _ { s 2 } G ( s ) f \\Biggr ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，△=⊥( $\\Delta = \\frac { 1 } { 2 } ( K _ { \\mathrm { s 1 } } + K _ { \\mathrm { s 2 } } ) K _ { \\mathrm { i } } G ( s ) C ( s )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3传感器故障检测原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传感器故障的形式多种多样。本系统中的传感器主要有两大类故障形式，分别为非完全型故障和完全型故障。其中非完全型故障主要包括漂移偏差故障和固定偏差故障，主要是由偏置电流或偏置电压以及工作传感器发生温漂造成；而完全型故障主要包括开路故障和短路故障，主要是由于传感器信号线断路以及传感器硬件电路中芯片管脚未连接上或信号线短接造成的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据式 (1)，可以推导出两个传感器输出信号的差值为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { _ \\mathrm { i } = V _ { \\mathrm { 1 } } - V _ { \\mathrm { 2 } } = \\frac { K _ { \\mathrm { s 1 } } } { 1 + \\Delta } \\Big ( 1 + K _ { \\mathrm { s 2 } } K _ { \\mathrm { i } } G ( s ) C ( s ) \\Big ) d _ { \\mathrm { 1 } } - } } \\\\ { \\displaystyle \\qquad \\frac { K _ { \\mathrm { s 2 } } } { 1 + \\Delta } \\big ( 1 + K _ { \\mathrm { s 1 } } K _ { \\mathrm { i } } G ( s ) C ( s ) \\big ) d _ { \\mathrm { 2 } } + \\frac { 1 } { 1 + \\Delta } ( K _ { \\mathrm { s 1 } } - K _ { \\mathrm { s 2 } } ) G ( s ) f }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设两个传感器的特性完全一致，即有",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\mathrm { s 1 } } = K _ { \\mathrm { s 2 } } = K _ { \\mathrm { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则式（2）可以简化为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { d } } = K _ { \\mathrm { s } } \\left( d _ { 1 } - d _ { 2 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式（3）可知，当两个传感器的特性完全相同时，两个位移传感器输出信号的差值仅与传感器故障信号有关。可利用这个特征来检测传感器的故障，即只要 $V _ { \\mathrm { d } }$ 不为零，就表示某个传感器有故障。实际应用中两个传感器的特性不可能完全一致，因此定义一个允许的误差阈值 $V _ { \\mathrm { t o l } }$ ，如果两个传感器的差值信号满足如下关系式",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. V _ { \\mathrm { d } } \\right. \\leqslant V _ { \\mathrm { t o l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则认为传感器没有发生故障，否则判定传感器出现故障。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 故障传感器的识别 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（3）可知，两个传感器中任一个传感器发生故障都会导致 $V _ { \\mathrm { d } }$ 发生变化，因此通过 $V _ { \\mathrm { d } }$ 尽管可以发现传感器有故障但却无法确定哪个传感器有故障，必须通过检测其他信号来识别故障传感器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文将通过分析各信号之间的关系来对出现故障的传感器进行识别。根据图1的系统框图可以推导出控制器的输出电压和传感器干扰信号及转子干扰力之间的关系为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { c } } = - \\frac { C ( s ) } { 2 ( 1 + \\Delta ) } K _ { \\mathrm { s } } ( d _ { 1 } + d _ { 2 } ) - \\frac { G ( s ) C ( s ) } { ( 1 + \\Delta ) } K _ { \\mathrm { s } } f\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（4）可知，控制器的输出信号包含两部分：一部分和传感器的故障信号有关；一部分和转子的干扰力有关。令",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { c s } } = - \\frac { C ( s ) } { 2 ( 1 + \\Delta ) } K _ { \\mathrm { s } } ( d _ { 1 } + d _ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { c f } } = - \\frac { G ( s ) C ( s ) } { ( 1 + \\Delta ) } K _ { s } f\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则式（4）可简化为 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { c } } = u _ { \\mathrm { c s } } + u _ { \\mathrm { c f } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当传感器1失效，即只有干扰信号 $d _ { 1 }$ 时，则",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { 2 } = 0 , ~ V _ { \\mathrm { d } } = K _ { \\mathrm { s } } d _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将式（7）代入式（5），可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { c s } } = - \\frac { C ( s ) } { 2 ( 1 + \\Delta ) } K _ { \\mathrm { s } } d _ { 1 } = - \\frac { G ( s ) C ( s ) } { 2 ( 1 + \\Delta ) } V _ { \\mathrm { d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当传感器2失效，即只有干扰信号 $d _ { 2 }$ 时，则",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { \\mathrm { 1 } } = 0 , V _ { \\mathrm { d } } = - K _ { \\mathrm { s } } d _ { \\mathrm { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将式（9）代入式（5)，可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { c s } } = - \\frac { C ( s ) } { 2 ( 1 + \\Delta ) } K _ { \\mathrm { s } } d _ { 2 } = \\frac { C ( s ) } { 2 ( 1 + \\Delta ) } V _ { \\mathrm { d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（8）和式（10）可写为 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { c s } } = ( - 1 ) ^ { n } \\frac { C ( s ) } { 2 ( 1 + \\Delta ) } V _ { \\mathrm { d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $n = 1$ 表示传感器1出现故障； $n = 2$ 表示传感器2出现故障。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传感器的故障包含直流干扰和交流干扰两种可能性，因此 $V _ { \\mathrm { d } }$ 中可能同时包含有交、直流信号，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { d } } = V _ { \\mathrm { d 0 } } + V _ { \\mathrm { d a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $V _ { \\mathrm { d 0 } }$ 表示直流分量； $V _ { \\mathrm { d a } }$ 表示交流分量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（11）可知， $u _ { \\mathrm { c s } }$ 和 $V _ { \\mathrm { d } }$ 之间的关系是频率的函数，因此可将 $u _ { \\mathrm { c s } }$ 进一步表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { c s } } = \\left( - 1 \\right) ^ { n } \\left( k _ { \\mathrm { 0 } } V _ { \\mathrm { d 0 } } + k _ { \\mathrm { k _ { \\mathrm { 0 } } } } V _ { \\mathrm { d a } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $k _ { 0 } = \\frac { C ( s ) } { 2 ( 1 + \\Delta ) } \\Bigg | _ { s = }$ $k _ { k _ { 0 } } = \\frac { \\bigg | } { 2 ( 1 + \\Delta ) } \\Bigg | _ { s = \\mathrm { j } k _ { 0 } }$ ， $k _ { 0 }$ 为传感器交流干扰频率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（12）可知，如果传感器1发生故障，则$u _ { \\mathrm { c s } }$ 和 $V _ { \\mathrm { d 0 } }$ 、 $V _ { \\mathrm { d a } }$ 的比例系数是负值；如果传感器2发生故障，则 $u _ { \\mathrm { c s } }$ 和 $V _ { \\mathrm { d 0 } }$ 、 $V _ { \\mathrm { d a } }$ 比例系数是正值。因此通过分析 $u _ { \\mathrm { c s } }$ 和 $V _ { \\mathrm { d 0 } }$ 、 $V _ { \\mathrm { d a } }$ 的比例系数可以识别发生故障的传感器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用数字相关滤波对各信号进行分析来确定相关系数。数字相关滤波是基于原始信号和参考信号之间的相关原理从原始信号中准确地提取出和参考信号相关的信号。数字相关滤波原理如图2所示[4-5]。图中， $s$ 为原始信号； $\\boldsymbol { r }$ 为参考信号； $e$ 为误差信号； $y$ 为补偿信号。设原始信号 $s$ 由与 $\\boldsymbol { r }$ 相关的信号和干扰信号构成，即",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/65657a7f039b956cf53deab628efbc0dba3b57e406bca4b1ecdfc42566a25d90.jpg",
+        "img_caption": [
+            "图2数字相关滤波原理",
+            "Fig.2Digital filtering principle "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该滤波器通过最小均方算法(LeastMeanSquare，LMS）调整参考信号的加权因子 $w$ 来调整补偿信号，使得误差信号的方差最小，随着算法的执行，加权因子 $w$ 逐渐收敛于 $k$ ，此时补偿信号 $y$ 就是原始信号 $s$ 中和参考信号 $\\boldsymbol { r }$ 相关的成分。如果用 $V _ { \\mathrm { d 0 } }$ 和 $V _ { \\mathrm { d a } }$ 作为参考信号对 $u _ { \\mathrm { c } }$ 进行相关滤波，即可分析出 $u _ { \\mathrm { c s } }$ ， $V _ { \\mathrm { d 0 } }$ ， $V _ { \\mathrm { d a } }$ 的比例系数。原理框图如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/06f0bd576100a1051f945923f2f8d1d5668e97a1170d558f06acc767a73c34b7.jpg",
+        "img_caption": [
+            "图3LMS自适应滤波框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相关滤波算法为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left\\{ y _ { i } = w _ { 1 , i } V _ { \\mathrm { d a } , i } + w _ { 2 , i } V _ { \\mathrm { d } 0 , i } \\right. } \\\\ & { \\left. \\begin{array} { r l } & { \\left. } \\\\ & { e _ { i } = V _ { \\mathrm { c } , i } - y _ { i } \\right. } \\\\ & { \\left. } \\\\ & { w _ { 1 , i + 1 } = w _ { 1 , i } + 2 \\mu e _ { i } V _ { \\mathrm { d a } , i } \\right. } \\\\ & { \\left. } \\\\ & { w _ { 2 , i + 1 } = w _ { 2 , i } + 2 \\mu e _ { i } V _ { \\mathrm { d } 0 , i } \\right. } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\boldsymbol { \\mu }$ 为算法的收敛因子； $w _ { 1 , i } , \\ w _ { 2 , i }$ 分别为当前时刻 $V _ { \\mathrm { d a } }$ 和 $V _ { \\mathrm { d 0 } }$ 的权值； $w _ { 1 , i + 1 }$ 、 $\\mathbf { W } _ { 2 , i + 1 }$ 分别为下一时刻$V _ { \\mathrm { d a } }$ 和 $V _ { \\mathrm { d 0 } }$ 的权值； $y _ { i }$ 为当前时刻的补偿信号； $e _ { i }$ 为当前时刻原始信号和补偿信号的误差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "滤波器稳定之后，有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { 1 } = k _ { 0 } , ~ w _ { 2 } = k _ { k _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由式（12）可知，如果 $w _ { 1 }$ 和 $w _ { 2 }$ 为负，则说明传感器1有故障；如果 $w _ { 1 }$ 和 $w _ { 2 }$ 为正，则说明传感器2有故障。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 仿真分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以单自由度主动磁悬浮轴承为研究对象，采用Matlab对上文提出的传感器故障识别算法进行仿真。其中对转子施加了一个正弦干扰力来模拟转子在转动过程中的离心力，对传感器施加一个带偏置的正弦干扰信号来模拟传感器探头的故障。对转子施加的干扰力为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对传感器施加的干扰信号为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { \\mathrm { d } } = 0 . 5 \\substack { + \\sin { ( 2 0 0 \\pi t ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4为传感器1发生故障时控制系统各处信号波形及识别结果；图5为传感器2发生故障时控制系统各处信号波形和识别结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c132ae3e6b604484cc8d6d54c9e2c218354b1a457dd125edf3adefa3f43aa33d.jpg",
+        "img_caption": [
+            "图4传感器1发生故障时各处信号波形及识别结果 Fig.4Signal waveforms and recognition result when the sensor 1 fails "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/955b2b48dd54da70ba0b4ba0fa289cd0d2690b88e02b9d6e45ca5b497aab0c8c.jpg",
+        "img_caption": [
+            "Fig.3LMS adaptive filter block diagram ",
+            "图5传感器2发生故障时各处信号波形及识别结果 Fig.5Signal waveforms and recognition result when the sensor2fails "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4中，1为传感器1的输出信号；2为传感器2的输出信号；3为直流相关系数；4为交流相关系数。可以看出，当传感器1发生故障时，识别出来的两个系数均为负值；当传感器2发生故障时，识别出来的两个系数均为正值，与理论分析一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6 实验验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数字滤波器与模拟滤波器相比，具有信噪比高、过渡带性能好、高可靠性及可扩展性、设计灵活方便的优势。因而自适应滤波器的硬件实现一直是自适应信号处理领域研究的热点。随着专用数字信号处理芯片的发展，数字滤波器的可实现性能以及处理速度得到了极大的提升，现场可编程序门阵列(Field-ProgrammableGateArray，FPGA）作为一种新型数字信号处理芯片，具有数字信号处理速度快、数据并行处理以及利用硬件编程语言直接进行硬件设计等特点，并且可以使系统的开发周期缩短，成本降低，容易升级和变更。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文基于FPGA进行了LMS自适应滤波器的设计，并应用于主动磁悬浮轴承系统中，进行差动位移传感信号的处理与分析，从而对传感器的故障进行识别与诊断。FPGA自适应滤波器以两个差动方式下的位移传感器输出信号的差值信号为参考信号，对控制器的输出信号进行滤波，得到权值系数用来判定传感器故障。本实验以主动磁悬浮轴承一个径向自由度为对象进行研究，实验结果如图6、图",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/51594555070f6d1fa6489f5163cac94e33a6b84bb02c5630da213ea436a50443.jpg",
+        "img_caption": [
+            "图6探头1发生故障对传感器及控制器的影响和故障识别结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6e280509a4831fccc672e602bcfd728d848aab8dc1e0b378e2f67fefde57e3f.jpg",
+        "img_caption": [
+            "Fig.6The impact on the sensor and the controller when the sensor1 fails and the resultof fault identification ",
+            "图7探头2发生故障对传感器及控制器的影响和故障识别结果",
+            "Fig.7The impact on the sensor and the controller when the sensor2 fails and the result of fault identification "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6、图7中，1为传感器1的信号；2为传感器2的信号；3为控制器的输出信号；4为直流参考信号权值；5为交流参考信号权值。图6试验中，$t _ { \\mathrm { s 1 } }$ 时刻将干扰信号施加于传感器1的处理电路，模拟探头1出现故障。可以看出：在 $t _ { \\mathrm { s 1 } }$ 时刻之前转子稳定悬浮，在 $t _ { \\mathrm { s 1 } }$ 时刻之后转子开始小幅振动，但转子仍然处于悬浮状态。此时传感器1和传感器2信号均出现不同程度的振动，但仍在正常范围之内。与此同时，算法计算结果开始逐渐变化并于故障发生后约0.35s稳定于一负值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7试验中，在 $t _ { \\mathrm { s } 2 }$ 时刻将干扰信号施加于传感器2的处理电路，模拟探头2出现故障。可以看出：在 $t _ { \\mathrm { s } 2 }$ 时刻之前转子稳定悬浮，在 $t _ { \\mathrm { s } 2 }$ 时刻之后转子开始小幅振动，但转子仍然处于悬浮状态。此时传感器1和传感器2信号均出现不同程度的振动，但仍在正常范围之内。与此同时，算法计算结果开始逐渐变化并于故障发生后约0.35s稳定于一正值。实验结果与理论分析一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文针对采用差动式位移传感器的主动磁悬浮轴承系统研究了传感器故障的检测方法，分析了不同类型的传感器故障的特点及识别方法，针对传感器的功能受损性故障提出了一种基于LMS自适应滤波的故障传感器识别算法。首先从理论上证明了该算法的可行性，然后采用Matlab对该算法进行了仿真研究，并结合基于FPGA所设计的自适应滤波器对故障信号进行实验验证。研究结果表明该方法可以有效地识别出故障传感器。本文的研究结果为提高主动磁悬浮轴承位移检测系统的可靠性提供了一种新的实现方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 胡业发，周祖德，江征风．磁力轴承的基础理论 及应用[M]．北京：机械工业出版社，2006.   \n[2] 肖鹏飞，谢振宇，徐欣，等．传感器冗余的磁悬 浮轴承转子系统研究[J]．振动与冲击，2012， 31(14): 143-156. XiaoPengfei,Xie Zhenyu,XuXin,etal.Active magnetic bearing rotor system with redundant sensors[J].Journal of Vibration and Shock,2012, 31(14): 143-156.   \n[3] 常建华，全书海．自适应陷波器的原理、应用及 其算法仿真[J]．武汉汽车工业大学学报，1998, 20(3):46-49. Chang Jianhua,Quan Shuhai. The theory, application and algorithm simulation of adaptive notch filter[J]. Journal of Wuhan Automative Polytechnic University,1998,20(3): 46-49.   \n[4] 徐长胜，周兆英，李杰．自适应滤波的原理和应用 [J]．中国仪器仪表，1994(6)：8-9. Xu Changsheng, Zhou Zhaoying,Li Jie. Principle and application of adaptive filtering[J]. China Instrumentation, 1994(6): 8-9.   \n[5] 张立萍，柴万东，张迪．标准串行LMS自适应滤 波器的FPGA实现[J]．赤峰学院学报（自然科学 版），2014，30(21)：28-29. Zhang Liping,Chai Wandong, Zhang Di. FPGA implementation of standard serial LMS adaptive filter[J]. Journal of Chifeng University (Natural Science Edition),2014,30(21): 28-29.   \n[6] 雷宇，靳宝全，王云才，等．LMS 自适应滤波器 模块化设计及其 FPGA实现[J]．电子器件，2017, 40(2): 390-395. Lei Yu, Jin Baoquan, Wang Yuncai, et al. Mdular design of LMS adaptive filter and its FPGA implementation[J]. Chinese Journal of Electron Devices,2017,40(2): 390-395.   \n[7] 崔东辉，徐龙祥．主动磁悬浮轴承位移传感器故 障识别[J]．中国机械工程，2009，41(23)：2880- 2885. Cui Donghui, Xu Longxiang. Fault diagnosis of displacement sensors of active magnetic bearing[J]. China Mechanical Engineering, 2009,20(23): 2880- 2885.   \n[8] Xu Longxiang,Zhang Jinyu,Gerhard S.High temperature displacement sensor[J]. Chinese Journal of Mechanical Engineering,2005,3(18): 449-452.   \n[9] BurdetL,Maeder T, Siegwart T,et al.Thick film radial position sensor for high temperature active magnetic bearing[C]. Proc.of the 10th Symp on Magnetic Bearing,Kentucky: University of Kentucky, 2006: 37-41.   \n[10] Gosiewski Z. Deagnostic of rotating machinery with magnetic bearing & rigid rotor[C]. Proc.of the 9th Symp on Magnetic Bearing, Kentucky: University of Kentucky, 2004: 19-24.   \n[11]Montie D,Maslen E. Self-sensing in fault tolerant magnetic bearings[J]. Journal of Engineering for Gas Turbines and Power, 2001,123(4): 864-870.   \n[12] Li MingHsiu,Palazzolo AB,Kenny A,et al.Fault tolerant homopolar magnetic bearings[J]. IEEE Transactions on Magnetics,2004,40(5):3308- 3318.   \n[13] Maslen EH, Sortore C K,Gillies G T,et al. Fault tolerant magnetic bearings[J]. Transactions of the ASME, Journal of Engineering for Gas Turbines and Power, 1999,121(3): 504-508.   \n[14]Schroder P, Chipperfield AJ,Fleming PJ, et al. Fault tolerant control of active magnetic bearings[J]. IEEE International Symposium on Industria Electronics, 1998,2(5): 573-578.   \n[15]陈黎霞，李亚萍，姚淑霞．基于LMS算法和 Matlab 的自适应滤波器的设计[J]．华北水利水电 学院学报，2008，29(4)：51-53. Chen Lixia, Li Yaping, Yao Shuxia. Design of adaptive filter based on lms algorithm in Matlab[J]. Journal of North China Institute of Water Conservancy and Hydroelectric Power, 2008,29(4): 51-53. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

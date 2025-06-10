@@ -1,0 +1,379 @@
+[
+    {
+        "type": "text",
+        "text": "NVST多通道高分辨观测系统软件设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈宇超1,²，金振宇¹，杨磊¹(1.中国科学院云南天文台，云南 昆明 650011；2.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要： $1 \\mathrm { ~ m ~ }$ 太阳望远镜多通道高分辨成像系统是望远镜的重要终端设备之一，目前由$\\mathrm { H } \\alpha$ 通道(线 $\\because 6 5 6 . 2 8 3 ~ \\mathrm { n m }$ )和TiO通道( $7 0 5 . 8 ~ \\mathrm { n m }$ )构成。主要介绍了多通道高分辨观测系统软件的设计。观测系统在功能上主要实现了 $\\mathrm { H } \\alpha$ 通道多波长点扫描观测模式，TiO通道多时间分辨率观测模式，以及为满足多通道发展的需求，如常规观测通道的增加以及探测器的更换等，在系统架构上采用了松耦合的分布式分层结构。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：观测采集系统； $1 \\mathrm { m }$ 太阳望远镜；高分辨观测中图分类号：TP311.1 文献标识码：A 文章编号：1672-7673(2016)01-0075-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抚仙湖 $1 \\mathrm { m }$ 太阳望远镜(NVST)是目前国内最大的太阳望远镜，也是世界上最大的真空望远镜，主要对太阳光球和色球进行高空间分辨率的成像观测和高光谱分辨率的光谱观测[1]。太阳光球和色球的高空间分辨率观测是太阳物理很重要的研究方向，也是主要的观测研究手段之一。目前已经实现了TiO和 $\\mathrm { H } \\alpha$ 双通道高分辨观测系统，该系统利用高分辨图像处理技术消除湍流大气对成像质量的影响，对太阳光球和色球进行同步高分辨率观测。基于该观测系统可以开展多项太阳物理前沿的研究，如太阳耀斑的精细结构等。常规的天文观测直接用探测器自带的软件既可进行，但是随着观测要求的提高，探测器自带的软件已经不能满足观测需求，高分辨观测系统的观测需求更为复杂，因此必须自行开发观测软件。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外许多望远镜采用不同的方式实现了自己的观测系统。由于各个望远镜实际情况以及科学目的不同，对观测采集系统有不同的要求。观测系统受这些需求的影响，在实现时采用了相应的措施，具有鲜明的该望远镜的特色，很难把这些系统直接挪用作为另一台望远镜的控制观测系统。比如远程望远镜控制系统第二版（Remote Telescope System $2 ^ { \\mathrm { n d } }$ Version，RTS2），最初的目的是为了能够自动控制一台小型望远镜对伽马射线暴进行观测的控制程序[2]，所以在开发该系统时，更关心系统是否能够及时响应伽马射线暴(Gamma Ray Burst，GRB)信号，进行观测目标的快速切换。因此RTS2系统采用简单的C/S结构，使用一个中央调度服务器管理各个设备进程，具有结构简单，易于开发的特点。但受C/S架构特点的影响，当系统结构变得相对复杂时，将加大中央调度服务器的负载，降低服务器响应速度，造成消息处理的延迟，影响整个系统的性能。因此阿塔卡玛大型毫米波天线阵（AtacamaLarge Milimeter/sub-millimeter Array，ALMA)在开发其控制观测系统时，基于该系统需要协调多台望远镜的控制进行观测以及所控制的望远镜规模可能发生扩充的考虑，未采用传统的C/S架构，而是使用了容器/组件模型开发系统[3]。多个容器分担了系统中央调度服务器的角色，避免某一服务器负载过大。该方式不仅提高系统的可扩展性，而且具有更好的可重用性。此外，ALMA 提供开源的ALMA 通用软件框架（ALMA Common Software，ACS），可进行二次开发，缩短系统的开发周期。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于 $1 \\mathrm { ~ m ~ }$ 太阳望远镜高分辨观测系统仍有很多发展规划，如增加观测通道、改进高分辨重建技术、更换高速探测器、与光谱仪的同步观测模式等等。因此在高分辨观测软件的设计过程中需要将当前的需求和未来观测系统的发展统筹考虑，否则每一次变化都可能导致整个软件重新设计，大大增加开发成本，大幅度拖延观测系统的研制时间。在保证观测系统功能的前提下，还需具备良好的可扩展性，因此选用与ACS 相似的软件架构。由于ACS 使用通用物件请求代理架构作为通信中间件，并且与整个框架紧密耦合，基于通用物件请求代理架构（Common Object Request Broker Architecture，CORBA）组件性能与功能局限选择自行开发组件容器以及远程对象调用的底层实现。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多通道高分辨观测系统简介",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 1 观测系统现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 \\mathrm { m }$ 太阳望远镜现使用的常规观测通道为 $\\mathrm { H } \\alpha$ 通道( $6 5 6 . 2 8 3 ~ \\mathrm { n m }$ )和TiO通道（ $( 7 0 5 . 8 ~ \\mathrm { n m } )$ ），分别对太阳色球和光球进行观测。 $1 \\mathrm { m }$ 太阳望远镜未将自适应光学系统用于常规观测，为实现高分辨观测，采用了后期数据重建的方式提高观测数据的空间分辨率，所以观测系统首先要满足重建算法的要求。$1 \\mathrm { m }$ 太阳望远镜采用斑点掩模算法，对图像进行多帧统计重建，需要观测采集系统能够在保证观测对象结构不发生变化的同时，采集满足算法信噪比要求帧数的数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 \\mathrm { m }$ 太阳望远镜原使用探测器厂家提供的数据采集程序，在功能上只能实现探测器的连续采集，无法与其它设备进行交互以实现比较复杂的观测模式，因此需要开发新的观测采集系统。新的观测采集系统根据各个通道观测方式的特点，可以实现波长点扫描观测、时间分辨率可调等多种观测模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 1. 1 $\\mathrm { H } \\alpha$ 通道",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { H } \\alpha$ 通道使用中心波长可调的Lyot滤光器进行成像观测，可实现不同波长的观测。对窄带成像观测，单点观测通常难以解释一些现象，如某些低温物质存在一定视向运动，造成增亮的假象，所以需要利用滤光器中心波长可调的特点，通过对多个波长进行观测，以获得谱线观测所能提供的物理信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在满足后期重建算法要求的基础上，观测采集系统需要实现 $\\mathrm { H } \\alpha$ 通道多个波长点扫描观测模式。其中，单个波长点观测作为多波长点扫描观测模式的特例，具体观测状态见图1。观测多个波长点会造成时间分辨率的下降，通常观测3个波长点需要 $4 2 \\mathrm { ~ s ~ }$ 。由于常规观测主要对耀斑进行监测，所以为保证时间分辨率， $\\mathrm { H } \\alpha$ 通道常规观测模式为 $\\mathbf { H } \\alpha$ 线心单波长点观测。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dd562546007f29a4537cb55ffe3f710a0d72e7df58863c23cfdf1c8829c265e.jpg",
+        "img_caption": [
+            "图1观测状态图：左图为TiO通道；右图为Hα通道多个波长点扫描观测 ",
+            "Fig.1The State Diagram of the Observation "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 1. 2 TiO通道",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TiO 通道的观测对象为不同演化速度的动力学现象，为满足观测需要，配备了一台可以实现高速采集的互补式金属氧化物半导体（Complementary Metal-Oxide-Semiconductor，CMOS)探测器。该探测器可以实现全帧曝光频率为 $1 0 0 \\mathrm { { H z } }$ ，但受CamLink传输速度 $2 5 0 ~ \\mathrm { M B / s }$ 的限制，1s内曝光的数据需要4s的传输时间。为防止探测器内存由于缓存太多的数据导致崩溃，在曝光完一定帧数后，必须停止曝光，直到缓存于探测器内存中的数据被完全移出。影响采集速度的主要因素为CambLink 的传输速度，因此可通过缩小曝光区域，降低数据量以提高每秒传输的帧数，即牺牲 TiO通道的视场以换取更高的时间分辨率。观测采集系统需要根据观测要求，提供小视场、高时间分辨率的观测模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "常规观测时，TiO通道以监测为主，需要保证足够的视场。由于后期数据重建速度较慢，不能应对长时间持续采集带来的数据处理压力。因此需要观测采集系统能够实现大视场、低时间分辨率的常规观测模式，即在连续采集完重建算法要求的帧数后，暂停一段时间，在保证后期重建效果的同时，减少数据量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2观测系统的发展",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在现有双通道高分辨成像系统的基础上，将搭建五通道成像系统，具体参数见表1[4]。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/14433879afdaa1641e7c56fd686bd6df50bd8207c624ab0d66653caa52809da1.jpg",
+        "table_caption": [
+            "表1五通道高分辨成像系统观测参数",
+            "Main Performance Parameters of the Multi-Channel High-Resolution Observation System "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">通道</td><td rowspan=\"2\">线心波长 /nm</td><td rowspan=\"2\">透过率 带宽 /nm</td><td rowspan=\"2\">常用曝 光时间 /ms</td><td rowspan=\"2\">常规观测 时间分辨 率/s</td><td rowspan=\"2\">观测目标</td><td rowspan=\"2\">状态</td></tr><tr><td></td></tr><tr><td>H-alpha</td><td>656.281 ± 0.4</td><td>0.025</td><td>20</td><td>12</td><td>色球磁结构动力学特征</td><td>常规观测</td></tr><tr><td>Ti0</td><td>705.8</td><td>1.0</td><td>1</td><td>30</td><td>光球小尺度亮点，黑子精细结构</td><td>常规观测</td></tr><tr><td>G-band</td><td>430. 0</td><td>1. 0</td><td>10</td><td>30</td><td>低光球小尺度磁结构</td><td>实验</td></tr><tr><td>Ca II 8542</td><td>854.2 ± 1</td><td>0.04</td><td>20</td><td>30</td><td>色球精细磁结构动力学特征</td><td>实验</td></tr><tr><td>He I</td><td>1083.0</td><td>待定</td><td>未定</td><td>未定</td><td>冕洞或日冕底部磁场动力学特征</td><td>实验</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1多通道高分辨成像系统",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多通道高分辨成像系统的升级包括两方面：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1)常规观测通道数的增加。首先在原双通道成像系统的基础上，增加G-band，Ca II( $8 5 4 . 2 ~ \\mathrm { n m } ,$ 和 $\\mathrm { H e } \\ \\mathrm { I } ( 1 0 8 3 . 0 \\ \\mathrm { n m } )$ 。其中，CaⅡI通道将使用中心波长可调的Lyot滤光器对色球进行观测，沿用 $\\mathrm { H } \\alpha$ 通道的观测模式，即多个波长点扫描观测，以及将单个波长点观测作为该种观测方式的特例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)更高采集效率探测器的使用。在双通道观测中，TiO 通道使用的CMOS 探测器采集频率为$1 0 0 \\mathrm { { H z } }$ ，但由于CamLink传输速度的限制，造成观测时间分辨率的下降。所以选择能够使用两个CamLink接口同时传输数据的探测器，作为多通道使用的探测器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. 2. 2 多通道同步观测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通道数的增加和更高采集频率探测器的使用，将面临更大的数据处理重建压力。TiO通道采用降低常规观测的时间分辨率的方式减轻数据重建的压力，但这种采集方式很难在其它观测通道继续使用，所以为减轻重建的压力，将采用多通道同步观测作为特殊的采集手段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TiO 通道使用滤光片对光球进行观测，信噪比远高于 $\\mathrm { H } \\alpha$ 通道使用的Lyot滤光器，所以使用由高信噪比的宽带成像系统观测数据进行统计重建得到的瞬时传递函数，重建低信噪比低通道的观测数据。该方式具有如下优点[5]：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)重建速度快。同步重建只需要计算信噪比较高的通道的传递函数，所以相比需要对几个通道都计算传递函数的传统重建方式，可以减少重建所需的时间。(2)提高时间分辨率。使用斑点掩模法对数据进行重建，为保证信噪比，往往采用增加重建帧数的方法，而使用同步重建需要的帧数较少，即用同样的帧数可以获得更多的结果，所以提高了时间分辨率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同步重建算法要求不同通道探测器同步触发的误差为 $1 \\mathrm { m s }$ 。为满足该触发精度，由一台上位机负责多台探测器的同步外触发控制。上位机通过外设部件互连标准（Peripheral Component Interconnect,PCI)总线控制卡的并行I/O口同步向多台探测器发出外触发信号，探测器收到信号后开始曝光。经过试验证明探测器的触发精度在纳秒量级，可以满足同步重建算法的要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "双通道同步观测已经完成实验，但仍未用于常规观测。主要原因为双通道现使用的探测器采集频率相差很大。 $\\mathrm { H } \\alpha$ 通道使用的CCD 模数转换效率很低，合并读取为 $1 { \\times } 1$ 时采集频率为 $3 . 4 \\mathrm { H z }$ ，而TiO通道使用的CMOS外触发模式下采集频率为 $1 3 ~ \\mathrm { H z }$ ，所以若采用一一对应的同步方式，将极大降低TiO通道的时间分辨率。因此，在搭建五通道观测平台时，选用了相同型号高采集频率的CMOS 探测器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 系统设计和实现",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 \\mathrm { m }$ 太阳望远镜多通道高分辨观测系统主要需求如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)功能性需求：（a) $\\mathrm { H } \\alpha$ 通道实现多个波长点扫描观测；(b)TiO 通道时间分辨率可调。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)非功能性需求：（a)开发周期短：功能性需求需要马上实现，并用于实际观测。在使用过程中，根据使用效果，可能调整预先定义的需求；（b)易扩展性：观测系统能够满足多通道观测系统扩展或升级需求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了在较短的开发周期内提交软件，以及在使用过程中能够快速响应需求的变化，采用敏捷开发方式[6]，即首先快速搭建能够满足观测需要的软件，并在较低周期的迭代部署过程中，根据使用情况，调整原有功能的实现并增加新的特性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在系统的具体实现过程中，为满足多通道发展的需要，主要通过降低系统耦合性的方式提高可扩展性，并分别从硬件部署和软件结构上进行系统的解耦。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. 1 系统部署",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为满足 $1 \\mathrm { m }$ 太阳望远镜增加观测通道，使用更高采集频率探测器的要求，以及 $\\mathbf { H } \\alpha$ 通道和TiO通道的观测具有一定的独立性，采用分布式、多终端的观测采集部署方案（图2)。该方案具有以下优点：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)可拓展性：由于每个通道配有一个控制终端，可通过增加控制终端数目来增加通道数，而且每个终端控制一台探测器，可以满足探测器的带宽以及其它要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2)可维护性：发生单点故障时，不影响其它通道的正常观测，而且方便故障的排查。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)成本较低：可以使用较为便宜的商用计算机，降低成本。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a3040c8625d26c0620a1a8d8e2be78ac53f75c5680740cb19c622580d378d1f.jpg",
+        "img_caption": [
+            "光谱仪平台",
+            "图2观测采集系统部署图",
+            "Fig.2The Deployment diagram of the data collection system "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 系统架构设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于观测系统仍然处于发展状态，需要更换探测器，调整存储设备，甚至存在更换操作系统的可能，因此需要系统架构能够满足功能和该功能相关计算机底层技术间的松耦合，所以将系统架构分为功能架构和技术架构[3,7]（图3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f7ec976bcf10977ab0da7a9cdddcaa3bd4ff6882a08207b319222ad7b84c861.jpg",
+        "img_caption": [
+            "图3功能/技术架构示意图",
+            "Fig.3Functional/Technical Architecture "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)功能框架描述了各个组件的接口及功能，以及各个组件间的关系和交互行为。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)技术框架提供了远程通讯、线程、事务处理机制等底层具体实现细节。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为实现系统功能架构和技术架构的分离，采用了组件容器模型。组件是架构构建的最小模块，并以元数据等方式声明了与架构相关的属性，包括与其它组件的依赖性，所以可以独立开发组件。容器拥有多个独立的组件，并提供外部接口，能够简化对组件的管理。组件相当于实现构建功能框架最小单元的程序，而容器负责这些程序的开始、结束及其它功能，构成技术框架。Java和.Net都提供了容器组件的实现，但由于性能和设备硬件的支持，如许多设备的 SDK包不提供.Net或者Java环境的支持，所以选择自行开发。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "技术框架和功能框架的分离具有以下优点：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)降低了具体功能与相关软件技术间的耦合性。软件技术发展十分迅速，若与功能紧密耦合，就会使观测采集系统的性能受现有软件实现技术的限制。如 $1 \\mathrm { ~ m ~ }$ 太阳望远镜现有控制系统的开发与通信技术实现紧密耦合。当时的通信技术已经不能满足现在的要求，所以如果更改底层通信技术，需要重写所有望远镜控制系统，工程量巨大。通过技术架构与功能架构间的松耦合性，可以减少调整软件技术带来的工作量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)可以为工程师提供开发具体应用的平台，开发具体功能性应用的技术人员不用关心底层技术的实现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 界面设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为方便观测人员操作，使用了图形交互界面（图4）。界面的设计采用了极简风格，主界面中仅列出观测必须使用的功能，如 $\\mathrm { H } \\alpha$ 通道滤光器扫描的偏带点、探测器曝光时间、观测目标信息等，其它在观测中极少使用的功能，如修改探测器合并读取或截取区域（Area Of Interest，AOI)，更改滤光器串口等，通过修改相应配置文件调整这些在观测中很少使用的参数。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8283438899115ec7544e25941a648a7546e097be5ee30c16d5a45b4d3919d655.jpg",
+        "img_caption": [
+            "图4交互图形界面。左图为 $\\mathrm { H } \\alpha$ 通道图形界面，右图为TiO通道图形界面",
+            "Fig.4Interaction of the GUI "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论及展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "多通道高分辨观测采集系统在功能上主要实现了 $\\mathrm { H } \\alpha$ 通道的多波长点扫描观测以及TiO通道根据不同观测目的采用不同时间分辨率等观测模式。由于 $1 \\mathrm { m }$ 太阳望远镜多通道高分辨观测系统仍处于发展之中，观测采集软件系统在实现观测功能的同时，需保证良好的扩展性。因此在实现观测软件的过程中，采用了敏捷开发方式，在较低开发周期的部署迭代中，调整已实现的功能并加入新的特性。此外通过分布式、多终端的部署方式以及类似于ACS 技术、功能框架的分离，提高观测采集系统的扩展性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在下一步的发展中，将由双通道拓展为五通道高分辨成像系统，并更换更高速率的探测器，因此将在现有双通道观测采集系统的基础上，增加相应的观测采集服务端。此外，将使用多通道同步外触发采集模式代替现在使用的软件触发模式。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Liu Zhong，Xu Jun，Gu Bozhong.New vacuum solar telescope and observations with high resolution [J].Research in Astronomy and Astrophysics，2014，14(6):705-718.   \n[2] Kubánek P.RTS2-the remote telescope system [J]. Advances in Astronomy，2010:1-17.   \n[3] Schwarz J,Farris A， Sommer H. The ALMA software architecture [C]// Proceedings of SPIE. 2004：190-204.   \n[4] 徐稚，杨磊，向永源，等.抚仙湖一米红外太阳望远镜Hα 窄带滤光器扫描轮廓的检测与修 正［J].天文研究与技术—国家天文台台刊，2014，11(3)：239-246. Xu Zhi，Yang Lei，Xiang Yongyuan，et al.An investigation of spectral-line profiles from the wavelength-scanning with a narrow-band Hα Lyotfilter on the YNAO new vacuum solar telescope [J].Astronomical Research & Technology- —Publications of National Astronomical Observatories of China，2014，11(3):239-246.   \n[5] 姚绘玲，金振宇，向永源.大气色散对太阳多波段同步高分辨图像重建的影响［J].天文研 究与技术，2015，12(2)：189-195. Yao Huiling，Jin Zhenyu. Xiang Yongyuan. A study of influences of atmospheric dispersion on the multi-waveband synchronous high-resolution reconstruction applied to solar images [J]. Astronomical Research& Technology，2015，12(2）:189-195.   \n[6] Shore J，Warden S. The art of agile development [M]. New York: O'Reilly Media,Incorporated, 2007.   \n[7] Chiozzi G，Gustafsson B,Jeram B，et al. CORBA-based common software for the ALMA project [C]// Proceedings of SPIE. 2012: 43-54. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NVST Multi-Channel High-Resolution Imaging System ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chen Yuchao $^ { 1 , 2 }$ ， Jin Zhenyu’, Yang Lei' (1.Yunnan Observatories，Chinese Academy of Science，Kunming 6500l1,China,Email:cyc@ ynao.ac.cn, 2.University of Chinese Academy of Sciences，Beijing1OoO49，China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The New Vacuum Solar Telescope is an 1-meter，ground-based telescope which offrs the unparalleled performance to solar observations.One of the important instruments in the NVST is the multichannel high-resolution imaging system，and in the system five main work wave length ranges,including $\\mathrm { H } \\alpha$ ， TiO-band,G-band，Ca II ( $8 5 4 . 2 \\mathrm { n m }$ ）and HeI（1083.Onm）are covered.Up to now，Hα and TiO-band channels are being used. The $\\mathrm { H } \\alpha$ channel is an arrow-band imaging system，equipped with a tunable Lyot filter.The interpretationof thenarrow-band filtergram is diffcult due to the crosstalk between the brightness and the Dopplershift modulation，therefore the observational system is required to perform the multi-offband observation in Hα channel to obtain a scanned profile in order to get meaningful physical information.The TiOband is abroad-band imaging system and uses a high-cadence CMOS.To achieve much higher cadence for some specific observations，it should support to decrease the FOV to increase the acquisition speed of the camera.However，the software provided by the camera manufacturedis failed to meet the observation need so that a new observational software system is constructed to satisfy the diferent observational needs in two channels.Taking the factors intoaccount that another three channel will soon beadded and high-cadence cameras willcome into uses，the software architecture designed for NVST acquisition system should provide the scalabilityand the flexibility to adaptto changes in technologies throughout the lifetime of NVST.To achieve this goal,the distributed multi-terminal deployment and a loosely coupled system is adopted.The system is based on a tiered software architecture implemented as three primary systems that are the Observation Control System（OCS），the Instrument Control System（ICS）and the Data Handling System（DHS）. The OCS interacts with our staff and coordinates the overall observational operations.The ICS manages the instruments and the DHS manages the data operation including saving，processing and transferring.For decoupling the logical systems they can be developed independently so that the software architectures are separated into the functional architecture and the technical architecture，paterned similar to that adopted bythe ACS（ALMA Common Service).The technical architecture describes the underlying implementation of the technical aspect, such as threading and messge broadcasting.The functional architecture，in contrast to the technical architecture，describes the functional behavior.Therefore the container/component mode is adopted to achieve this separation of architectures.The container manages many components which provide functional behavior. This paper describes the deployment of acquisition system and the design of the software architecture on the top of the container/component mode to achieve the scalabilityand flexibility to adaptthe changes in observational instruments and in observational methods ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words: Observation System；NVST；High-resolution Observation ",
+        "page_idx": 6
+    }
+]

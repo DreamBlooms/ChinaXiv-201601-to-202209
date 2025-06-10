@@ -1,0 +1,409 @@
+[
+    {
+        "type": "text",
+        "text": "Non-planar ring contained polyester modifying polylactide to pursue high toughness ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jia Qiu, Fei Liu, Junwu Zhang, Haining ${ \\Nu } { \\sf a } ^ { * * }$ , Jin Zhu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NingboKeybealbteedind 315201,PRChina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nPolymers   \nFracture toughness Impact behaviour Elastic properties ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Non-planar ring contained polyester is synthesized as an effective toughening agent to modify polylactide (PLA).By systematically researching the relation between molecular structure and properties,the two key factors to pursue high toughness of PLA with non-planar ring contained polyester are carefully distinguished.For one thing,the polyester must own the ability to be well compatible with PLA.For the other,the polyester should have a rigid molecular chain but“non-rigid\"aggregation structure.By suitably controlling the molecular design,poly(butylene adipate-co-1,4-cyclohexanedicarboxylate)(PBAC) is obtained.After using PBAC to toughen PLA,the elongation extremely increases to $1 9 6 . 1 \\pm 3 . 6 \\%$ and the notched impact strength is also effectively improved with several times.Finaly,our research establishes an important methodology to toughen PLA and thus fabricates tough PLA based blends. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polylactide(PLA) isa typical biobasedand biodegradable polyesterwith excellent mechanical properties such as high strength and modulus[1,2].These advantages enable PLA suitable in various application fields,including packaging,biomedical devices,and so on[3].Nevertheless,the inherent brittleness including low flexibility and low impact strength is inevitable [4].This disadvantage becomes the key restriction of PLA for wider applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Blending PLA with a secondary polymer is recognized as a simple but effective way to achieve toughening[5-8].In practice, many secondary polymers such as poly(ε-caprolactone）(PCL) [9,10],poly(butylene succinate)(PBS)[11],poly(hydroxy butyrate) (PHB）[12]，poly(propylene carbonate）(PPC）[13]，and poly(- butylene succinate-co-adipate) (PBSA)[14] have beenrespectively tried.However,due to the lack of the necessary guidance in theory to choose the secondary polymers,the improvement in toughness of PLA is unsatisfying. In fact,the significant improvement of toughening PLA starts from using compatibilizer[15].After many attempts,for instance，using triphenyl phosphite（TPP）[16], epoxide soybean oil [17], tung oil anhydride [18],epoxidized itaconic acid[19],epoxidized cardanol [2O],epoxidized citric acid [21],etc,the interfacial adhesion between PLAand the modifier is improved and thus enhances the toughness.But,compatibilizer is not usually a good choice.Generally, the molecular weight of compatibilizer is low and thus results in unexpected exudation to extremely reduce the overall mechanical properties. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently，poly(butylene adipate-co-terephthalate）(PBAT）attracts great attention [22-24].Though literature [24] believes PBAT isa good material to modify PLA,the ratio of aromatics and aliphatics inPBAT(particularcommercial PBAT) isin fact rather fixed. Increasing the amount of aliphatic chains in PBAT will lead to the obviously decrease in mechanical strength and modulus.And, the increase of benzene rings in PBAT will reduce the environmental friendly [25,26]. For example,poly(butylene terephthalate）is resistant to microbial attack [27]. Thus,the properties of PBAT are almost notadjustable. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "According to the studies made by our group [28,29] and other researchers[3O-32],non-planar ring structures have been proved to own good rigidity and toughness simultaneously. And,the toughness of non-planar ring contained polymers can be controlled through the transition of the stereostructure.Study[33] has proved the cis-1,4-cyclohexylene ring moiety (cis-CHRM) introduces kinks into the main chain,whichactasdefectsand can hinder the formation of crystallinity,resultinginwell flexibility.Accordingly, in this paper,we decided to design controllable non-planar ring contained polyester as the toughening agent for PLA. By researching the relation between molecular structure and properties，we would like to establish an effective methodology to toughen PLA.Thus,the PLA/polyester blend with high toughness and general properties is expected to be fabricated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experiment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theanalytical pure 1,4-butanediol (BDO),adipic acid (AA),and tetrabutyl titanate werepurchased from Aladdin Reagent (Shanghai,China).1,4-cyclohexanedicarboxylic acid (mix-CHDA, cis:trans $\\textstyle = 1 : 1$ )and $9 9 \\%$ trans-CHDA were bought from Kangmanlin Chemical Reagent Company (Nanjing, China). Mix-CHDA was purified to obtain cis-CHDA with high purity(above $8 5 \\%$ ).PLA(4032D) was supplied by NatureWorks (Minnesota,USA). It was vacuum dried at $8 0 ^ { \\circ } \\mathsf { C }$ for $^ { 8 \\mathrm { ~ h ~ } }$ prior to use. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Synthesis of PBC and PBAC ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PBC was synthesized from cis-CHDA and BDO using tetrabutyl titanate as catalyst following with the experimental steps of Ref.[37].PBACwassynthesized from $9 9 \\%$ trans-CHDA,BDO,and AA. Firstly,using trans-CHDA and BDO,AA and BDO to obtain bis(1,4- hydroxybutyl)trans-1,4-cyclohexanedicarboxylate (trans-BHBC) andbis(1,4-hydroxybutyl)adipate (BHBA),respectively,with tetrabutyl titanate as catalyst.PBAC was then obtained by polycondensation with trans-BHBC and BHBA,the feed weight ratio of trans-BHBC to BHBA was 4:1 with tetrabutyl titanate as catalyst. Finally,bothPBCandPBACwerevacuumdriedfor $^ { 2 \\mathrm { h } }$ at $4 0 ^ { \\circ } C$ and $8 0 ^ { \\circ } \\mathsf C ,$ respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.PreparationofPLA/PBC andPLA/PBAC blends ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PLA/PBC and PLA/PBAC(a number is followed to present the weight fraction of PBC or PBAC in the blends) were melt-blended in atwinscrewextruder(Brabender,Germany)，respectively. Whereafter, the melting blends were water-cooled and sent to a LQ-25 granulator (Hengxi Machinery Manufacturing Co.，Ltd., Taizhou,China） to make pellets.Then,the pellets were dried at $8 0 ^ { \\circ } \\mathsf { C }$ in a vacuum-drying oven for $^ { 1 2 \\mathrm { ~ h ~ } }$ .Lastly,theywere injected into standard test bars viaa HTF9oW injection molding machine (Haitian Plastics Machinery,Ningbo,China). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The structures of polyesters were determined by proton nuclear magnetic resonance ( $\\mathrm { ^ { 1 } H \\ N M R } )$ in $\\mathsf { C D C l } _ { 3 }$ solvent using a Bruker AVIII40o NMR spectrometer.Molecular weights and polydispersity (PD，molecular weight distributions）were measured on a PLGPC22O gel permeation chromatograph（GPC）at $4 0 \\ ^ { \\circ } \\mathsf C$ with a normal flow rate of $1 . 0 ~ \\mathrm { m L / m i n }$ .Thermal decomposition temperature $( T _ { d } )$ Was measured usinga METTLER-TOLEDO TGA/DSC thermogravimetric analyzer (TGA).Each TGA specimen was heated from $5 0 ^ { \\circ } \\mathsf C$ to $6 0 0 ^ { \\circ } C$ at a rate of $1 0 ~ { ^ \\circ C / \\operatorname* { m i n } }$ under nitrogen atmosphere.Thermal properties were investigated using a differential scanning calorimetry(DSC) instrument (METTLER-TOLEDO DSC I). Each DSC specimen was heated from room temperature to $2 0 0 ^ { \\circ } { \\mathsf C }$ at $2 0 ^ { \\circ } C / \\operatorname* { m i n }$ and hold for $2 \\mathrm { m i n }$ to eliminate any thermal history.Then cooled to $- 3 5 ^ { \\circ } \\mathsf C$ at $5 ~ { ^ \\circ } \\mathrm { C } / \\mathrm { m i n }$ and hold for $5 ~ \\mathrm { { m i n } }$ to obtain crystallization temperature $\\left( T _ { c } \\right)$ .The glass transition temperature $( T _ { g } ) _ { \\mathbf { \\delta } }$ cold crystallization temperature $\\left( T _ { c c } \\right)$ ,as well as melting temperature $( T _ { m } )$ were obtained by the second heating at $1 0 \\ \\mathrm { ^ { \\circ } C / m i n }$ to $2 0 0 \\ ^ { \\circ } { \\mathsf { C } } .$ All the DSC tests were under nitrogen atmosphere.The degree of crystallinity $( \\chi _ { c } )$ of blends was determined as follow, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi _ { c } = \\frac { \\Delta H _ { m } - \\Delta H _ { c c } } { \\phi \\Delta H _ { m } ^ { \\theta } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\varDelta H _ { m }$ and $A H _ { c c }$ is the enthalpy of melting of blends and cold crystallization,respectively. $\\Delta H _ { m } ^ { \\theta }$ is the enthalpy of fusion assuming $100 \\%$ crystalline PLA $( 9 3 . 7 \\mathrm { J } / \\mathrm { g } )$ [34]. $\\boldsymbol { \\phi }$ is the weight fraction of PLA in the blends. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to GB/T1040.1-2006(China),tensile test was carried out at $2 0 0 \\ \\mathrm { m m / m i n }$ and $1 0 \\ \\mathrm { m m / m i n }$ forpolyesters and blends, respectively,on Instron 5567apparatus.The notch impact test was performed ona mechanical impact tester (XJ-5oZ,Chengde Dahua Testing Machine Co.Ltd., Chengde,China),according to GB/T1843- 2008 (China).Before the test,samples were notched on a WAY-240 universal sampling machine(Chengde Kecheng Testing Machine Co.,Ltd.,China).The bending test was performed by Instron5567 apparatus according to GB/T 9341-2008(China）at $2 ~ \\mathrm { { m m / m i n } }$ .At least five samples for each blend were tested in these mechanical tests. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The microstructural morphology of blends were characterized by environmental scanning electron microscopy (SEM,Hitachi S4800,Japan) at8kV,7uA.After immersing in liquid nitrogen for $2 0 \\mathrm { m i n }$ ,samples were fractured by vice,and then rupture surfaces were coated with gold priorto observation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The number-average diameter $( d _ { i } )$ of the separated phases was determined bya software (Nano Measurer 1.2)and 5O setswere analyzed per sample.The average diameter(d) and its distribution $( \\sigma )$ were calculated by the following equations: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd = \\frac { \\sum _ { i = 1 } ^ { 5 0 } d _ { i } } { 5 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\sqrt { \\frac { \\sum _ { i = 1 } ^ { 5 0 } \\left( d _ { i } - d \\right) ^ { 2 } } { 5 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1．PBC and PBAC ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The molecular structures of PBC and PBAC are carefully confirmed in Fig.1. According to the integration of peak area of cisCHRM(signal at $2 . 4 7 ~ \\mathrm { p p m } )$ and trans-CHRM(signal at $2 . 2 8 ~ \\mathsf { p p m } _ { . } ^ { \\cdot }$ 一 the molar ratio of cis-CHRM is $5 2 \\%$ and $1 1 \\%$ in PBC and PBAC, respectively.In fact,the feed ratio of cis-CHDAisa little different with the final one in both PBC and PBAC.The deviation is due to the inevitable isomerization between cis and trans isomers [35],during the polycondensation.In our study,PBC showsa high elongationat $52 6 \\%$ and superior modulus $( 7 0 . 6 ~ \\mathrm { M P a } )$ (Table1).PBACis copolymerized by PBC and a small flexible chain(poly(butylene adipate)). Due to the lower amount of cis-CHDA,PBAC shows better crystallinity, leading to higher tensile strength and modulus than PBC. While the elongation of PBAC remains as similar to PBC.With the good performances,PBC and PBAC will be used to tough PLA. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/baacc1802a9458edc90b488d65a4dd2e9ba9974bf2629e2a873cc53e934b392d.jpg",
+        "img_caption": [
+            "Fig. 1. $^ 1 \\mathrm { H }$ NMR spectra of PBC and PBAC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8923909d26743bc6100dc0747bf6ff2dbc66e1892f2c0d7ffde8c72e8e57acda.jpg",
+        "table_caption": [
+            "Table 1 Composition,molecular weight,and mechanical properties of PBC and PBAC. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Samples</td><td colspan=\"2\">Final molar ratio (%)</td><td rowspan=\"2\">cis-CHDA molar ratio (%)</td><td rowspan=\"2\">Mn (g/mol)</td><td rowspan=\"2\">PD</td><td rowspan=\"2\">Tensile strength (MPa)</td><td rowspan=\"2\">Elongation at break (%)</td><td rowspan=\"2\">Young's modulus (MPa)</td></tr><tr><td>PBC</td><td>PBA</td></tr><tr><td>PBC</td><td>100</td><td>/</td><td>52</td><td>3.1 × 104</td><td>2.8</td><td>12.2 ± 1.4</td><td>526 ± 41</td><td>70.6 ± 2.7</td></tr><tr><td>PBAC</td><td>84</td><td>16</td><td>11</td><td>4.2 × 104</td><td>3.0</td><td>40.8± 2.4</td><td>505± 19</td><td>153.0 ± 4.0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/785b9b55f5e5e49184ba03ec069b04fb26f467ded35ed476f19bbc99edb8b4cd.jpg",
+        "img_caption": [
+            "Fig.2.SEM imagesof cryo-fractured surface of (a)PLA/PBC10,(b)PLA/PBC20,(c)PLA/PBAC10,and (d)PLA/PBAC2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ff3f5437ea17bcbf40e725246e8fd226ace322fe08db7750aa75190f4e08847.jpg",
+        "table_caption": [
+            "Table 2 Mechanical properties of PLA,PLA/PBC,and PLA/PBAC blends. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Samples</td><td>Tensile strength (MPa)</td><td>Elongation at break (%)</td><td>Flexual strength (MPa)</td><td>Flexual modulus (MPa)</td></tr><tr><td>PLA</td><td>68 ± 1</td><td>3.8 ± 0.2</td><td>98±1</td><td>3400 ± 50</td></tr><tr><td>PLA/PBC5</td><td>52±2</td><td>2.8 ± 0.4</td><td>88±1</td><td>3140 ± 40</td></tr><tr><td>PLA/PBC10</td><td>46±1</td><td>3.3 ± 0.5</td><td>73 ± 1</td><td>3010 ± 70</td></tr><tr><td>PLA/PBC15</td><td>40±1</td><td>3.9 ± 0.3</td><td>69±0</td><td>2690 ± 50</td></tr><tr><td>PLA/PBC20</td><td>35 ±1</td><td>6.8 ± 1.1</td><td>64±0</td><td>2460 ± 20</td></tr><tr><td>PLA/PBAC10</td><td>59±0</td><td>131.9 ± 24.8</td><td>81±1</td><td>2860 ± 20</td></tr><tr><td>PLA/PBAC20</td><td>50±1</td><td>160.8 ± 24.7</td><td>70±1</td><td>2510± 20</td></tr><tr><td>PLA/PBAC30</td><td>44± 1</td><td>196.1 ± 3.6</td><td>61±0</td><td>2130 ±10</td></tr><tr><td>PLA/PBAC40</td><td>36 ±2</td><td>189.9 ± 2.2</td><td>52±0</td><td>1770 ± 20</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.PBC and PBAC toughened PLA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After blending PBC or PBAC with PLA,the micro-morphology at therupture surfaces of the blends is firstly observed.As shown in Fig.2,many big holes with smooth edge can be observed obviously in PLA/PBC blends.This phenomenon is no doubt formed by the removal ofPBC from PLA matrix.In otherwords,interfacial adhesion between PBC and PLA isrelatively poor.It isvery possible because of the difference between the non-planar ring structure of PBCand the complete aliphatic structure of PLA.The average diametersare $0 . 9 0 ~ { \\mu \\mathrm { m } }$ and $0 . 9 1 ~ { \\mu \\mathrm { m } }$ forPLA/PBC1O and PLA/PBC20, respectively.The corresponding size distributionsare O.41 and 0.38, respectively.While in PLA/PBAC blends,the holesare much smaller and the edge is obscure (Fig.2(c)). The average diameters are ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb69ae36d7636eb1799bed7e34d7163d1c0f7a9d5f920c588042a3113758b0f4.jpg",
+        "img_caption": [
+            "Fig.3.SEMimagesof tensile-fracturedsurfaceof (a)PLA/PBC10,(b)PLA/PBC20,(c)PLA/PBAC10,and(d)PLA/PBAC20. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2c2e39798144f10fea86d95ac2c6626d40bd32ab66db1b25fde78d2f64ccf57.jpg",
+        "img_caption": [
+            "Fig.4.Impact strength of (a) PLA/PBC,and (b) PLA/PBAC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$0 . 4 9 \\mu \\mathrm { m }$ and $0 . 3 5 \\mu \\mathrm { m }$ for PLA/PBAC10 and PLA/PBAC2O,respectively. The corresponding size distributions are O.14 and O.12,respectively. Compared to PLA/PBC,the compatibility between PBAC and PLA is much better.This can be attributed to BA units for theiraliphatic chains.The similarity between BA units in PBAC and the molecular chains of PLA initiates good compatibility between PBAC and PLA. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mechanical properties of neat PLA and its blends are shown in Table 2.The neat PLA shows extremely high tensile strength (68MPa)，flexualstrength (98MPa) and flexual modulus $( 3 4 0 0 ~ \\mathrm { M P a } ) _ { \\cdot }$ ),butverylowelongation $( 3 . 8 \\% )$ .Theresults show the typical brittle nature of PLA.With $5 \\mathrm { - } 1 0 \\%$ PBC,the PLA/PBC blends present low elongation $( { \\sim } 3 \\% )$ .With increasing the amount of PBC up to $20 \\%$ ，the elongation can be improved to $6 . 8 \\%$ These results suggest that the brittleness of PLA can be adjusted by blending PBC. But, the increase of toughness is very limited.As to PBAC,with $10 \\%$ added into PLA,the elongation dramatically increases to $13 2 \\%$ And it keeps increasing to $1 6 1 \\%$ and $19 6 \\%$ with the addition of $20 \\%$ and ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$30 \\%$ PBAC,respectively.The different toughness between PLA/PBC and PLA/PBAC blends is consistent with the compatibility between PLA and polyesters.Though the tensile strength,flexual strength, and flexual modulus decease,the improvement in toughness by adding PBAC is very obvious. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To further investigate the toughening mechanism of blends, SEM is utilized (Fig.3). The tensile-fractured surfaces of PLA/PBC blends showa little bit rougher with some cavities and some thick rods,which is formed by the removal of PBC and the deformed PBC phases. According to the study of Kim [36],when the phase adhesion between the modifier particles and the matrix is good,the plastic deformation occurs via single cavitation processes inside modifier particles,whereas when there is no or poor phase adhesion,the micromechanical deformation processes are followed by debonding.Since PBC phase prefers to be removed by tensile stress rather than deformed,the compatibility and interfacial adhesion between PBC and PLA are weak.However,the tensile-fractured surfaces of PLA/PBAC exhibit highly elongated deformation formed bythe deformation of PBAC，indicating the high interfacial compatibility between PBAC and PLA.Due to the large deformation, a great deal of energy can be absorbed,thus producesa rather high toughness.Finally, tough property in terms of the tensile elongation is obviously improved with the addition of PBAC. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/787989bc29bf1372e3b3238de152a330e9e9d337dd065fa78349f76685cc98e0.jpg",
+        "img_caption": [
+            "Fig.5.SEM imagesof impact-fractured surface of (a)PLA/PBC10,(b)PLA/PBC20,(c)PLA/PBAC10,and(d)PLA/PBAC20. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3554505ddb559ffd7279b793d4bc1162ca4a69ac45d8c93573e23a2f07840cf.jpg",
+        "img_caption": [
+            "ig.6.The two key factors to achieve high toughness of PLA with non-planar ring contained polyeste "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 shows the notched impact strength of neat PLA,PLA/PBC and PLA/PBAC blends.The impact strength of neat PLA is $3 . 5 ~ \\mathrm { k J } / \\mathrm { m } ^ { 2 }$ With the use of PBC up to $20 \\%$ ,the impact strength is enhanced to $6 . 3 \\mathrm { k J } / \\mathrm { m } ^ { 2 }$ ,nearly1.8 times larger than that of PLA.While the impact strength is $4 . 7 \\mathrm { k J } / \\mathrm { m } ^ { 2 }$ with the addition of $20 \\%$ PBAC.The value is 1.3 times larger than that of neat PLA,but lower than that of $\\mathsf { P L A } /$ PBC20.The SEM images of the impact-fractures surfaces show more evidences of ductile fracturesasmore fibrilsand layered fracture in blends,which can be observed with the addition of PBC in Fig.5(a) and (b) than with the addition of PBAC in Fig.5(c) and(d). It reflects PBC has better effect on improving the notched impact strength of PLA.However, continue to improve the amount of PBAC to $30 \\text{‰}$ the impact strength can significantly increase to $6 . 8 { - } 1 0 . 1 \\ \\mathrm { k J } / \\mathrm { m } ^ { 2 }$ This value isabout1.9-2.9 times higher than that of neatPLA. Since polyesters have different elastic properties compared with PLA matrix,the separated phase formed bypolyestersactsas the stress concentrative point to absorb energy during tensile test.Because the number of C6 ring existed in PBC is much larger than that of ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f430ff661858511509c4e0abb9f3cd9bdec9e7107e1db973980ef598570fdf4.jpg",
+        "img_caption": [
+            "Fig.7.Second heating DSCthermograms forneat polymersand blends: (a)PLA and PLA/PBC,and(b)PLAand PLA/PBAC "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a1e9e62edc64aa2423a9fff76bafbcbc16a4abab3a95ba6beb1e1df0530fa39.jpg",
+        "img_caption": [
+            "Fig.8.Cooling DSC thermograms for neat polymers and blends:(a) PLA/PBC,and (b) PLA/PBAC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0072b378b156030384115fe355e60118d8380a3deb1ce941bfb1533171c47baa.jpg",
+        "table_caption": [
+            "Table 3 Thermal properties of PLA before and after blending. "
+        ],
+        "table_footnote": [
+            "a The $\\chi _ { c }$ of PBAC was calculated referring to the research [38]. The $\\Delta H _ { m } ^ { \\theta }$ of PBC is 141 $\\mathrm { J } / \\mathrm { g }$ according to the group contribution theory. "
+        ],
+        "table_body": "<html><body><table><tr><td>Samples</td><td>Tg(C)</td><td>Tcc(C)</td><td>4Hcc(J/g)</td><td>4Hm (J/g)</td><td>Xc(%)</td><td>Td(C)</td></tr><tr><td>PBC</td><td>-8</td><td>！</td><td></td><td></td><td>！</td><td>364</td></tr><tr><td>PBAC</td><td>-16</td><td></td><td></td><td>20.9</td><td>18.5a</td><td>374</td></tr><tr><td>PLA</td><td>59</td><td></td><td></td><td>10.2</td><td>10.9</td><td>333</td></tr><tr><td>PLA/PBC5</td><td>60</td><td>111</td><td>31.8</td><td>35.8</td><td>4.5</td><td>322</td></tr><tr><td>PLA/PBC10</td><td>59</td><td>108</td><td>31.2</td><td>43.0</td><td>14.0</td><td>329</td></tr><tr><td>PLA/PBC15</td><td>59</td><td>110</td><td>26.0</td><td>37.3</td><td>14.2</td><td>326</td></tr><tr><td>PLA/PBC20</td><td>59</td><td>110</td><td>23.5</td><td>33.9</td><td>13.9</td><td>312</td></tr><tr><td>PLA/PBAC10</td><td>59</td><td>97</td><td>14.5</td><td>28.5</td><td>16.6</td><td>324</td></tr><tr><td>PLA/PBAC20</td><td>60</td><td>94</td><td>13.8</td><td>32.2</td><td>24.5</td><td>326</td></tr><tr><td>PLA/PBAC30</td><td>60</td><td>93</td><td>10.3</td><td>27.6</td><td>26.4</td><td>319</td></tr><tr><td>PLA/PBAC40</td><td>60</td><td>92</td><td>8.4</td><td>24.3</td><td>28.3</td><td>317</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PBAC,PBC is quite helpful to enhance the notched impact strength of PLA with relatively low amount. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Combination with all the experimental phenomenon and data, we understand that the non-planar ring contained polyester can obviously improve the toughness of PLA.The samples of PLA/PBAC blends show visually considerable stress whitening and neck after tensile test (see at the lower-left corner in Fig.6). It is obvious that, even with $1 0 \\%$ PBAC,brittle-to-tough transition occurs in PLA/PBAC blends.Really tough PLA/PBAC blend is fabricated.In conclusion, thereare two key factors to decide the effect of toughening.The first is the compatibility between polyesterand PLA.The second is the rigid molecular chain but “non-rigid”aggregation structure (Fig. 6). Our previous researches [28,29,37] noticed non-planar ring contained polyesters are particular tough.For one thing，their molecular chain is more rigid than polyesters with aliphatic molecular chain. For the other, incorporating the cis non-planar ring can disrupt the crystalline region and thus releases the strong intrinsic entropic elasticity of the molecular chain.That is to say,if the aggregation structure of the polyester is“non-rigid\",it is very helpful to exhibit the intrinsic entropic elasticity of the rigid molecular chain.Detailed explanation can be seen in Ref.[37]. So the toughness of PLA can be improved due to the flexibility of the“nonrigid”aggregation structure,and the stability of therigid chains. This understanding provides us an important principle to design and fabricate non-planar ring contained polyester to modify PLA with the aim to pursue high toughness. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figs.7 and 8 give the second heating DSC curves and the cooling DSC curves of PLA,polyesters,and blends.The detailed results are summarized in Table 3.The $T _ { g }$ of neat PLA shows a high value and thusreflects the relatively high brittleness.While the $T _ { g }$ ofPBAC and PBC is low,indicating the good flexibility and reflecting the \"non-rigid\"aggregation structure.Besides,PBC has no melting peak and crystallization peak.And,PBAC has melting peak and crystallization peak.AfteraddingPBC or PBAC into PLA,the capability of crystallization of PLA is slightly improved due to the heterogeneous nucleation effect. From Fig.7, there is not an obvious $T _ { c c }$ for neat PLA,and the $\\chi _ { c }$ is $1 0 . 9 \\%$ However,after introducing PBC into PLA, there is a $T _ { c c }$ at $\\sim 1 1 0 ^ { \\circ } { \\mathsf { C } } .$ The $\\chi _ { c }$ increases a little to $1 3 \\mathrm { - } 1 4 \\%$ .As to $\\mathsf { P L A } /$ PBAC blends,the $T _ { c c }$ of PLA is $9 2 - 9 7 ~ ^ { \\circ } C .$ The $\\chi _ { c }$ is $1 6 . 6 \\substack { - 2 8 . 3 \\% }$ Though PLA in PLA/PBAC blends exhibits higher crystallization, PLA/PBAC blends show higher toughness.Through the thermal analysis,the“non-rigid”aggregation structure of PBAC is proved directly. The reasons for the high toughness and strength of PLA/ PBAC blends are better understood. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition,both PBC and PBAC toughened PLA show the $T _ { d }$ at ${ \\sim } 3 2 0 ^ { \\circ } { \\mathsf { C } } .$ It is only slightly lower than that of PLA.The toughening of PLAby adding polyesters hardly changes the characteristic of the thermal degradation of PLA. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary,non-planar ring contained polyester has been synthesized to toughen PLA during melt blending.By carefully testing the mechanical properties and analyzing thermal properties,the two key factors of non-planar ring contained polyester to achieve high tough material are found and the excellent toughening effect can be easily obtained.As shown in our experiments, the elongation of PLA/PBAC increases to $1 9 6 . 1 ~ \\pm ~ 3 . 6 \\%$ ，and the notched impact strength is also improved with several times.Our research finally establishes an effective methodology to toughen PLA and thus fabricates tough PLA based blends. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful for the financial support by the National Science Foundation of China(NSFC,No. 51503217),Key Research Program of the Chinese Academy of Sciences (KGZD-EW-606-16), Ningbo Natural Science Foundation (No.2014A610135),and Ningbo Innovation Project (No.2015B11003). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] H. Liu, J. Zhang, Research progress in toughening modification of poly (lactic acid), J. Polym. Sci. Part B Polym.Phys.49(15) (2011) 1051-1083.   \n[2]K.Madhavan Nampoothiri, N.R. Nair,R.P. John, An overview of the recent developments in polylactide (PLA） research,Bioresour. Technol.101 (22) (2010) 8493-8501.   \n[3] X.Li,H.L. Kang, J.X. Shen,L.Q. Zhang, T. Nishi, K. Ito, C.M. Zhao,P. Coates, Highly toughened polylactide with novel sliding graft copolymer by in situ reactive compatibilization, crosslinking and chain extension, Polymer 55(16) (2014) 4313-4323.   \n[4] N. Herrera,A.P. Mathew,K. Oksman，Plasticized polylactic acid/cellulose nanocomposites prepared using melt-extrusion and liquid feeding: mechanical，thermal and optical properties， Compos. Sci. Technol. 106 (2015) 149-155.   \n[5]K. Zhang,A.K. Mohanty,M. Misra,Fully biodegradable and biorenewable ternaryblendsfrompolylactide， poly(3-hydroxybutyrate-co-hydroxyvalerate) and poly (butylene succinate) with balanced properties,ACS Appl. Mater. Interfaces 4 (6) (2012)3091-3101.   \n[6]K. Zhang, V. Nagarajan,M. Misra, A.K. Mohanty, Supertoughened renewable PLA reactive multiphase blends system: phase morphology and performance, ACS Appl. Mater. Interfaces 6 (15) (2014) 12436-12448.   \n[7] J. Odent, J.-M. Raquez, E. Duquesne,P. Dubois, Random aliphatic copolyesters as new biodegradable impact modifiers for polylactide materials, Eur. Polym.J. 48 (2) (2012) 331-340. [8]R.Bhardwaj,A.K. Mohanty，Modification of britte polylactide_by novel hyperbranched_polymer-based nanostructures， Biomacromolecules8 (8) (2007) 2476-2484. [9] ME. Broz, D.L. VanderHart, N.R. Washburn, Structure_and mechanical properties of poly(d,l-lactic acid)/poly(ε-caprolactone) blends, Biomaterials 24 (23) (2003) 4181-4190.   \n[10] C.L. Simoes, J.C. Viana,A.M. Cunha,Mechanical properties of poly(epsilonCaprolactone) and poly(lactic acid) blends, J. Appl. Polym. Sci. 112 (1) (2009) 345-352.   \n[11] L. Xie,H. Xu,B.Niu, X. Ji,J. Chen,Z.-M. Li,B.S. Hsiao,G.-J. Zhong, Unprece dented access to strong and ductile poly (lactic acid) by introducing in situ nanofibrillarpoly(butylene succinate） forgreenpackaging， Biomacromolecules_15 (11) (2014) 4054-4064.   \n[12] L. Yu, K. Dean,L. Li, Polymer blends and composites from renewable resources, Prog. Polym. Sci. 31 (6) (2006) 576-602.   \n[13] X. Ma, J. Yu, N. Wang, Compatibility characterization of poly (lactic acid)/poly (propylene carbonate) blends,J. Polym. Sci. Part B Polym. Phys.44(1) (2006) 94-101.   \n[14] W. Pivsa-Art, S. Pivsa-Art, K. Fujii K. Nomura, K. Ishimoto, Y. Aso, H. Yamane, H. Ohara, Compression molding and melt-spinning of_the blends of poly (lacticacid)andpoly (butylenesuccnate-co-dipate),J.Appl.Polym.Sci.132 (16) (2015) 41856.   \n[15] L Gardella, M. Calabrese, O. Monticeli, PLA maleation: aneasyand effective method to modify the properties of PLA/PCL immiscible blends, Colloid Polym. Sci. 292 (9) (2014) 2391-2398.   \n[16] V. Ojo,S.Sinha Ray,R.Sadiku,Toughening of biodegradable polylactide/poly (butylene succinate-co-adipate) blends via in situ reactive compatibilization, ACS Appl. Mater. Interfaces 5 (10) (2013) 4266-4276.   \n[17] X. Dai, Z. Xiong, H. Na,J. Zhu, How does epoxidized soybean oil improve the toughness of_microcrystalline_cellulose filled polylactide acid composites? Compos. Sci. Technol. 90 (2014) 9-15.   \n[18] Z. Xiong,C.Li, S. Ma,J. Feng, Y. Yang, R. Zhang, J. Zhu, The properties of poly (lactic acid)/starch blends with a functionalized plant oil: tung oil anhydride, Carbohydr. Polym. 95 (1) (2013) 77-84.   \n[19] Z. Xiong,S. Ma, L. Fan, Z. Tang,R. Zhang, H. Na, J. Zhu, Surface_ hydrophobic modification of_starch with bio-basedepoxy resins to_fabricatehighperformance_polylactide composite materials， Compos. Sci. Technol. 94 (2014) 16-22.   \n[20] Z. Xiong, X. Dai, R. Zhang, Z. Tang, H. Na, J. Zhu, Preparation of biobased monofunctional compatibilizer from cardanol to fabricate polylactide/starch blends with_superior tensile properties,Ind. Eng. Chem. Res.53 (26)(2014) 10653-10659.   \n[21] X. Dai, Z. Xiong,S. Ma, C.Li,J. Wang, H. Na,J. Zhu,Fabricating highly reactive bio-based compatibilizers_of epoxidized citric_acid to improve the flexural properties_of polylactide/microcrystalline cellulose blends,Ind. Eng.Chem. Res. 54 (15) (2015) 3806-3812.   \n[22] P. Ma, X. Cai, Y. Zhang, S. Wang, W. Dong, M. Chen, P. Lemstra, In-situ compatibilizationofpoly(lactic_acid）andpoly(butylene_adipate-coterephthalate) blends by using dicumyl peroxide as a free-radical initiator, Polym. Degrad. Stab. 102 (2014) 145-151.   \n[23] V. Mittal, A. Chaudhry, N.B. Matsko,“True\" biocomposites with biopolyesters and date_seed_powder: mechanical, thermal,and degradation properties, J. Appl. Polym. Sci. 131 (19) (2014) 40816.   \n[24] j.T. Yeh, C.H. Tsou, C.Y. Huang, K.N. Chen, C.S. Wu, W.L. Chai, Compatible and crystallization_properties_of poly (lactic_acid)/poly_(butylene_adipate-c0- terephthalate) blends, J. Appl. Polym. Sci. 116 (2) (2010) 680-687.   \n[25]U. Witt, R.J. Muller, W.D. Deckwer, New biodegradable polyester-copolymers from commodity chemicals with favorable use properties, J. Environ. Polym. Degrad.3 (4) (1995)215-223.   \n[26] U. Witt, R.J.Muller,W.D. Deckwer, Biodegradation behaviorand material propertiesofaliphatic/aromatic_polyestersofcommercial importance, j. Environ. Polym. Degrad.5 (2) (1997) 81-89.   \n[27] U. Witt T. Einig,M. Yamamoto, I. Kleeberg, W.-D. Deckwer, R.-J. Muiller, Biodegradation of aliphatic-aromatic copolyesters: evaluation of the final biodegradability and ecotoxicological impact of degradation intermediates, Chemosphere 44 (2) (2001) 289-299.   \n[28]L Zhang,S.S.Shams,Y.Wei,X.Liu,S.Ma,R.Zhang,J.Zhu,Originof ighly recoverable shape memory polyurethanes (SMPUs) with non-planar ring structures: a single molecule force spectroscopy investigation,J. Mater. Chem. A 2 (47) (2014) 20010-20016.   \n[29] L. Zhang, Y. Jiang, Z. Xiong, X. Liu, H. Na, R. Zhang, J. Zhu, Highly recoverable rosin-based shape memory polyurethanes,J. Mater. Chem. A1(10) (2013) 3263-3267.   \n[30] B. Zhang, S.R. Turner, New poly (arylene ether sulfone)s based on 4,4'-[trans，4-cyclohexanediylbis (methylene)] bisphenol，Polymer 54(17） (2013) 4493-4500.   \n[31] W.J. Yoon,S.Y. Hwang, J.M. Koo, Y.J. Lee,S.U. Lee, S.S.Im, Synthesis_and characteristics_of a_biobased_high $\\cdot \\mathrm { T _ { g } }$ terpolyester_of_isosorbide， ethylene glycol,and 1,4-cyclohexane dimethanol: effect of ethylene glycol as_a chain linker on polymerization, Macromolecules 46 (18) (2013) 7219-7231.   \n[32] J. Karger-Kocsis, O. Gryshchuk,N. Jost, Toughness response of vinylester/ epoxy-based thermosets of interpenetrating network structure as a function of theepoxyresiformulation:efectsofthecylohexyenelinkageJApl.   \n[33]A. Celli, P. Marchese,L. Sisti, D. Dumand, S. Sullalti, G. Totaro, Effect of 1, 4- cyclohexylene units on thermalpropertiesofpoly(1，4- cyclohexylenedimethylene adipate） and similar aliphatic polyesters,Polym. Int. 62 (8) (2013)1210-1217.   \n[34]D. Garlotta, A literature review of poly (lactic acid), J. Polym. Environ. 9 (2) (2001) 63-84.   \n[35]B.Vanhaecht，M.N. Teerenstra，D.R. Suwier，R. Willem，M. Biesemans, C.E.Koning, Controlled stereochemistry of polyamides derived from cis/trans1, 4-cyclohexanedicarboxylic acid, J. Polym. Sci. Part A Polym. Chem. 39(6) (2001) 833-840.   \n[36]G.-M. Kim，G.H. Michler， Micromechanical deformation processesin toughened and particle-filled semicrystalline polymers: part 1. Characterization of deformation processes in dependence on phase morphology, Polymer 39(23) (1998) 5689-5697.   \n[37]F. Liu,J. Zhang, J. Wang, X. Liu, R. Zhang, G. Hu, H. Na, J. Zhu, Soft segment free thermoplastic polyester elastomers with high performance,J. Mater. Chem. A 3(2015) 13637-13641.   \n[38] F. Li, X. Xu, Q.Hao,Q. Li, J. Yu,A. Cao,Effects of comonomer sequential structure on thermal and crystallization behaviors of biodegradable poly (butylene succinate-co-butylene terephthalate)s, J. Polym. Sci. Part B Polym. Phys.44(12)(2006)1635-1644. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

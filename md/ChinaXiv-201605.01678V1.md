@@ -1,0 +1,146 @@
+Wang Jing,SunZhibin,Dai Bin,DaiGuoliang,KongLiming,WangBaorui.Prototypesystemusedforfamestructuredisplay andtemperature measurementtechnology inmicrogravitycombustionexperiment (in Chinese)．Chin.J.Space Sci.，2015, 35(3):336-342, doi:10.11728/cjss2015.03.336
+
+# 微重力燃烧实验火焰结构显示和全场\*温度测量的原理样机
+
+王静1.2 孙志斌³ 代斌 戴国亮² 孔黎明1 王宝瑞4
+
+1(扬州大学化学化工学院扬州 225009)
+
+2(中国科学院力学研究所 中国科学院微重力重点实验室北京 100190)
+
+3(中国科学院空间科学与应用研究中心北京 100190)4(中国科学院工程热物理研究所北京 100190)
+
+摘要用于空间燃烧实验的设备要求轻重量、小尺寸和多功能．将纹影法、彩虹纹影偏折法与差分干涉法相结合，研制了可用于火焰结构显示和全场温度测量的原理样机．该原理样机具有重量轻、尺寸小、模块化和多功能等特点：通过微重力落塔实验，检验了利用纹影法测量火焰结构的功能，同时在常重力条件下检验了利用彩虹纹影偏折法和差分干涉法测量火焰全场温度的功能．结果表明，火焰结构分辨率不低于 $1 \mathrm { m m }$ ，火焰温度测量结果精确，相对误差小于 $2 \%$ ：该原理样机将提升空间燃烧的观察方法，有助于未来空间燃烧实验的开展.
+
+关键词微重力，火焰结构，火焰温度场，原理样机中图分类号V524
+
+# Prototype System Used for Flame Structure Display and Temperature Measurement Technology in Microgravity Combustion Experiment
+
+WANG Jing $^ { 1 , 2 }$ （20 SUN Zhibin $^ 3$ （204号 DAI Bin3 DAI Guoliang $^ 2$
+
+KONG Liming1 WANG Baorui4
+
+1(College of Chemistry and Chemical Engineering， Yangzhou University, Yangzhou 225009) 2(Key Laboratory of Microgravity, Institute of Mechanics,Chinese Academy of Sciences, Beijing 100190) 3(Center for Space Science and Applied Research,Chinese Academy of Sciences,Beijing 100190) 4(Institute of Engineering Thermophysics,Chinese Academy of Sciences,Beijing 100190)
+
+AbstractThe facility for combustion experiments in space is lightweight,smal sized and multifunctional. In this paper, a prototype system used for flame structure display and temperature measurement is presented,which combined the schlieren method,rainbow schlieren deflection method and diferential interference method. It is also lightweight and small sized.As for the prototype system,the flame structure display function was checked by schlieren method in microgravity drop tower,and the temperature measurement function was checked by rainbow schlieren deflection and diferential interference method under normal gravity condition.Results show that the resolution of flame structure was not less than $1 \mathrm { m m }$ , and temperature field measurement was accurate with relative error smaller than $2 \%$ . Such prototype system is important to the promotion of space combustion science experiment technology and willbe beneficial to the future combustion experiments in space. Key wordsMicrogravity, Flame structure, Flame temperature, Prototype system
+
+# 0 引言
+
+重力对燃烧过程有着十分重要的影响．微重力条件下重力的影响会大大减弱甚至消失，这为认识燃烧的内在机制提供了新的机会．另一方面，在载人空间飞行器中存在火灾隐患，微重力燃烧研究将为载人航天飞行提供火灾安全保障
+
+燃烧是燃料与氧化剂发生强烈化学反应的现象其过程涉及化学反应、流动、传热传质等复杂的相互作用.微重力燃烧实验中的诊断技术要求实现对燃烧过程的温度、流场、气体成分和浓度、固体颗粒成分和浓度等进行定性或定量测量，并通过数据处理，对燃烧现象进行分析.显示火焰结构、测量火焰全场温度分布是开展燃烧实验的基础工作之一.
+
+开展空间燃烧实验技术研究在国际上受到广泛重视，已有采用纹影法和差分干涉法测量火焰结构和全场温度的研究．例如，Kostiuk 等[1]、Kobayashi等[2]和Li等[3]分别在NASA的Lewis 落塔、日本微重力落井及自由落体等短时微重力环境中采用纹影法测量了火焰结构．中国近年来也开展了利用纹影法测量火焰结构研究．中国科学院力学研究所微重力重点实验室的Wang等[4]和Pu等[5]分别与波兰科学家合作开展了相关研究，取得一些实验结果Du 等[6-7]采用Wollaston 棱镜(W棱镜)差分干涉仪成功测得微重力环境(落塔）中蜡烛火焰的温度
+
+近年来，在落塔开展的微重力火焰温度测量研究中开始采用彩虹纹影偏折法．Ibarreta 等[8]利用此法在NASA的Glenn落塔中进行了层状烟黑火焰的全场温度测量，得到火焰温度场空间分辨率更高的火焰温度场结果.
+
+受空间条件限制，空间微重力燃烧实验测量设备的尺寸、重量及功耗都有较严格的要求.多种光学测量方法如果能够集成在一种设备中，将大大提高获得数据的能力与可靠性.因此，应用于空间微重力实验的小型化、多功能与模块化的火焰结构显示与温度场测量设备的研制迫在眉睫.本文将纹影法、彩虹纹影偏折法与差分干涉法集成在一个尺寸小、重量轻的原理样机中，通过合理的光路设计，结合单点光电探测器与压缩算法模块,在低入射光强条件下实现了原理样机的小型化、多功能化和模块化.通过微重力落塔实验检验了原理样机的可靠性.为未来空间燃烧实验的观察技术与设备研制打下了基础，
+
+# 1原理样机工作原理及设计
+
+# 1.1 原理样机工作原理
+
+原理样机中，燃烧火焰结构显示采用纹影法，火焰全场温度测量采用彩虹纹影偏折法与差分干涉法原理样机采用的光路原理如图1所示，
+
+原理样机的运行流程如下.光源输出的光信号经聚焦透镜聚焦后，通过狭缝光阑滤除杂散背景光，然后通过扩束准直，经反射后入射至火焰区域，再经由反镜反射输入到聚焦透镜会聚后，经刀口在透镜焦点处切割光源像，将光线受流场的扰动转变为记录平面上的光强分布，经准直透镜准直后入射到数字微阵列反射镜，对光场进行随机调制后，经会聚透镜会聚入射到单点光电探测器，再经过压缩算法模块重构图像．由此得到火焰的纹影、彩虹纹影和差分干涉图像．最终计算获得观测流场的密度变化分布及流场分层的密度梯度，从而反演出火焰温度.由彩虹纹影与差分干涉图像计算观测流场的密度变化分布及流场分层的密度梯度，通过自主编制的软件包实现自动导入图像和计算火焰场中某位置点温度的功能．火焰温度的测量误差由火焰温度计算值与相同位置热电偶的测量值相比较获得.
+
+![](images/8baefce6537617381cd2bf50ed20023a71a3e01e578bd53a6406fd06efbbc8f0.jpg)  
+图1原理样机光路原理  
+Fig.1Principle of optical path in the prototype system
+
+纹影、彩虹纹影和差分干涉测量技术在燃烧等流体领域得到了广泛应用.微重力燃烧实验中的诊断技术要求实现对燃烧过程中的温度、流场、气体成分和浓度、固体颗粒成分和浓度等进行定性或定量测量，并通过数据处理，对燃烧现象进行分析.
+
+纹影法测量火焰结构的原理是，用刀口在透镜焦点处切割光源像，将光线受流场的扰动转变为记录平面上的光强分布.
+
+彩虹纹影偏折法和差分干涉法所采用的光路布置与纹影法基本相同，唯一的不同之处在于，在聚焦透镜2的焦点处将纹影法采用的刀口分别改为彩虹纹影滤光片和W棱镜.差分干涉法测量火焰全场温度的原理是，由激光器发出的线偏振光经光扩束准直透镜扩束后，再经反射镜反射产生一束平行光穿过实验场，聚焦透镜2将光束会聚在W棱镜上，从而产生干涉现象.
+
+基于压缩感知的纹影、彩虹纹影、差分干涉测量成像系统避免了光学噪声和电学噪声，对成像产生良好效果.压缩感知由Candes 等[9]于 2004 年提出，该理论是将L1-范数最小化稀疏约束与随机矩阵结合，获得稀疏信号重建性能的最佳结果，压缩感知基于信号的可压缩性，通过低维空间、低分辨率、欠奈奎斯特采样数据的非相关观测实现高维信号的感知，广泛应用于图像处理、光学/微波成像等学科领域．压缩感知理论是将采样和压缩同时进行，很好地利用了自然信号可以在某个稀疏基下表示的先验知识，可以实现远低于奈奎斯特/香农采样极限的亚采样，并能近乎完美地重建信号信息.
+
+# 1.2 原理样机设计
+
+用于微重力落塔实验的原理样机设计示意及其实物如图2所示．由于空间微重力燃烧实验受到空间条件的制约，这里选择了不同规格的光学元器件来满足原理样机小尺寸、轻重量及低功耗的要求，并采用蜡烛火焰进行研究．原理样机中采用的光学元器件及光学设备信息列于表1.
+
+空间实验所能提供的电源电压和电流较小，彩虹纹影通常使用的氙灯光源[10]由于功耗太大，无法适用于空间实验，因此选择低功耗 $( 6 \mathrm { W } { \cdot } \mathrm { h } ^ { - 1 } ) .$ ）的白光光源作为纹影法、彩虹纹影偏折法的入射光源(图2中部件1)．考虑到其发射出的点光源光斑太大 (直径约 $\mathrm { 5 } \mathrm { m m } \mathrm { \dot { \Omega } }$ ）造成成像质量下降，因此使用双凸透镜L1(直径 $1 0 \mathrm { m m }$ ，焦距 $\mathrm { 1 5 m m }$ ）减小光斑尺寸．将L1放置在距离白光光源大于其2倍焦距的位置，白光光源发出的光经过L1后会聚成约 $1 \mathrm { m m }$ 光斑的点光源，满足了光路需求．差分干涉法所使用的光源为 $\mathrm { 5 0 m W ~ 5 3 2 m n }$ 激光光源 (图2中部件2),通过空间滤波器 (图2中部件3)，使得激光光源发散成为亮度均匀的大光斑(直径 $8 \mathrm { c m }$ ，可覆盖整个蜡烛火焰)
+
+![](images/2bb01db316afe4892437ba5aca03d3795a0650a062022f6bfdfadb2a0f9c4000.jpg)  
+图2用于微重力落塔实验的原理样机设计示意 (a）及实物(b)  
+Tig.2Design schematic diagram (a)and image of prototype system (b) for microgravity drop tower experiment
+
+# 1.2.1 小型化设计
+
+原理样机中的光学元器件及图像接收装置数目众多，如何在满足原理样机小型化要求下，发挥各组件的作用，实现原理样机的诸多功能，是设计时需要考虑的问题
+
+这里通过选择Z型光路及参数合适的光学元器件，确保原理样机的小型化．K9加强铝反射镜M1,M2,M3,M5的使用,使得光路发生不同程度偏折，实现了Z型光路.光束提升器M4使得光学元器件摆放紧凑，位置合理．接收屏7为可旋转的，采集纹影和彩虹纹影图像时，将接收屏7旋转到光路中成像；采集差分干涉图像时，将接收屏7旋转 $9 0 ^ { \circ }$ ，避免遮挡光路通过接收屏8.
+
+选取直径 $5 0 . 8 \mathrm { m m }$ ，焦距 $\mathrm { 1 5 0 m m }$ 的K9双凸透镜，实现了在焦距较短的条件下平行光束变大并能够包裹住火焰整体的要求，
+
+# 1.2.2 多功能化与模块化设计
+
+将纹影、彩虹纹影偏折及差分干涉三种光学检测方法集成到原理样机，实现了原理样机的多功能化设计.
+
+为实现原理样机的模块化要求，专门设计了可推拉刀口架及光源切换装置 (微重力落塔实验中未采用此切换装置).选用激光光源作为入射光源时，将可翻折K9加强铝反射镜M6矗于光路中，另外将刀口推拉至W棱镜处来满足差分干涉实验的要求；选用白光光源作为入射光源时，将可翻折K9加强铝反射镜M6翻折 $9 0 ^ { \circ }$ ，使得入射白光通过光路，同时相应推拉刀口架，切换不同的刀口，以此满足纹影和彩虹纹影的实验要求.
+
+# 1.2.3 可靠性检验
+
+进行空间实验时，对设备的可靠性有较高要求为此利用微重力落塔实验，检验原理样机在微重力环境中的高可靠性
+
+# 1.2.4 图像采集与处理
+
+白光作为入射光源时，光强较小，为了提高图像采集灵敏度与高分辨率，采用三色单点光电探测器实现高通量成像.压缩算法模块重构彩色图像，通过对图像的纹影（见图3）计算，得出观测流场的结构分布；通过对图像的彩虹纹影及干涉条纹计算，得出观测流场的密度变化分布.
+
+通过以上合理的光路布置以及恰当地选取光学元器件，最终研制出的原理样机质量为 $1 4 . 5 \mathrm { k g }$ 包络尺寸为 $3 0 0 \mathrm { m m } \times 4 0 0 \mathrm { m m } \times 4 0 0 \mathrm { m m }$ ，最大功耗为 $\mathrm { 2 4 W }$
+
+# 2 结果与讨论
+
+# 2.1 火焰结构分辨率
+
+根据纹影照片的分辨率（ $\mathrm { 1 6 2 6 \times 1 2 3 6 p i x e l }$ ，单个像素点为 $0 . 0 2 4 \mathrm { m m }$ ，得到的火焰结构分辨率不低于 $1 \mathrm { m m }$
+
+1 - :： 举   
+TTrd tttsss gsgtttied jt tatt[ laits   
+
+<html><body><table><tr><td>编号</td><td>部件名称</td><td>规格参数</td><td>生产厂家</td><td>用途及备注</td></tr><tr><td>1</td><td>卤钨灯白光光源</td><td>12VDC,0.5 A</td><td>ZCN 雷畴</td><td>纹影、彩虹纹影成像光源；发射出直径约5mm 的光斑</td></tr><tr><td>2</td><td>激光器</td><td>MW-GL-532/50 mW</td><td>SLOC 公司</td><td>差分干涉成像光源</td></tr><tr><td>3</td><td>空间滤波器</td><td>25μm 小孔</td><td>大恒光电</td><td>使通过的激光点光源发散为亮度均匀的光斑</td></tr><tr><td>4</td><td>W棱镜</td><td>分束角20'，规格 10 mm×10mm×5mm</td><td>大恒光电</td><td>实现差分干涉条纹</td></tr><tr><td></td><td>纹影刀口</td><td>超薄刀片</td><td>吉列</td><td>在透镜焦点处切割光源像，将光线受流场的扰动转变为记录平面上的光强分</td></tr><tr><td>5 6</td><td>彩虹纹影刀口</td><td>彩色胶片</td><td>自制</td><td>在透镜焦点处切割光源像，将光线受流场的扰动转变为记录平面上的光强分</td></tr><tr><td>7</td><td>可旋转接收屏</td><td></td><td>自制</td><td>呈现纹影、彩虹纹影图像</td></tr><tr><td>8</td><td>偏振片，接收屏</td><td>直径50.8 mm，Tc2,</td><td>大恒光电</td><td>当光波通过波片时，其中正交偏振分量之一被偏振片强烈吸收，而另一分量</td></tr><tr><td>9</td><td>三色单点光电探</td><td>消光比500:1;翻折连接架</td><td>自制</td><td>自然光转换为线偏振光；在不需要偏振片时，可使其翻折90°，避免遮挡光路; 实现光电信号采集转换</td></tr><tr><td>10,11</td><td>测器、压缩算法模块 S 型热电偶,智能</td><td>WRP100,WRP-010,</td><td>上海虹天仪表厂</td><td>S 型热电偶用于测量火焰温度，智能数显温控仪用于显示火焰温度</td></tr><tr><td>L1</td><td>数显温控仪 K9 双凸透镜</td><td>0~1600°C;DH48WK 直径10 mm,焦距15 mm</td><td>大恒光电</td><td>L1放置在距离白光光源大于其2倍焦距位置,从白光光源发出的光经过L1</td></tr><tr><td>L2, L3</td><td>K9 双凸透镜</td><td>直径 50.8mm，焦距 150 mm</td><td>大恒光电</td><td>的亮光斑,近似为点光源;选用焦距15mm 的K9双凸透镜以减少光源损失 发散光源通过L2后会聚成平行光束，由于火焰整体偏大，故选择直径50.8 得通过其的光束能够包裹住火焰整体，选择焦距150mm 是为了满足整体布</td></tr><tr><td>M1</td><td>K9 加强铝反射镜</td><td>直径 25.4 mm,T4,入/4</td><td>大恒光电</td><td>束通过L3后会聚成为点光源 使白光光源发出的光经过 M1后偏折90°进入L1</td></tr><tr><td>M2</td><td>K9 加强铝反射镜</td><td>(633 nm) 直径 25.4 mm,T4,入/4</td><td>大恒光电</td><td>靠近L1焦点位置摆放，使得L1焦点处的点光源微发散后即通过 M1转折</td></tr><tr><td>M6</td><td>可翻折K9 加强铝</td><td>(633 nm) 直径 50.8 mm, T4,入/4 (633 nm)</td><td>大恒光电</td><td>当激光器作为入射光源时，使M2呈竖直状态，激光光源光路通畅，白光光 滤波器3的发散光斑通过 M2转折 90°后进入L2；当卤钨灯作为入射光源明</td></tr><tr><td>M3</td><td>K9 加强铝反射镜</td><td>直径50.8 mm，T4,入/4</td><td>大恒光电</td><td>畅，激光光源改变光路 靠近L3 位置摆放,使得从L3 出来的会聚光经过M3 转折90°，因为刚从</td></tr><tr><td>M4</td><td>光束提升器</td><td>(633 nm) H60-250,直径 25.4mm</td><td>大恒光电</td><td>大,选择直径50.8mm 的K9加强铝反射镜 由于激光器发射的光源较矮，故采用 M4提升光源的高度来满足整个光路</td></tr><tr><td>M5</td><td>K9 加强铝反射镜</td><td>直径 25.4 mm,T4,入/4</td><td>大恒光电</td><td>从空间滤波器3出来的激光光源经过 M5 转折 90°</td></tr></table></body></html>
+
+# 2.2 火焰全场温度测量结果
+
+图4给出的是利用彩虹纹影偏折法和差分干涉法测量火焰全场温度时得到的测量结果．需要指出的是，本研究工作的目标之一是检验原理样机采用彩虹纹影偏折法和差分干涉法测量火焰温度的精确性，因此实验 (计算)温度与实测温度对比的意义远大于火焰温度面分布特征的测量．因而这里并未进行火焰温度面分布特征测量，而是采用将实测温度值与实验 (计算)温度值进行对比的方法来检验原理样机测量温度的精确性.为此，利用2根S型热电偶(型号为WRP-100,长度 $1 5 \mathrm { c m }$ ，偶丝直径 $0 . 5 \mathrm { m m }$ ，测量范围 $0 { \sim } 1 6 0 0 ^ { \circ } \mathrm { C }$ 。基本误差限为 $\pm 0 . 2 5 \%$ 在火焰中两处位置进行了火焰实际温度的测量 (参见图4中标注的热电偶位置).考虑到火焰的轴对称性，特意选择了两处位置，使其均处于火焰的同一垂直截面上，但在水平方向和垂直方向距离火焰的中心位置均不相同，以确保这两处位置火焰的温度不同.其中，图5(a)为彩虹纹影偏折法结果，实测温度为 $1 2 0 3 ^ { \circ } \mathrm { C }$ 和 $9 4 1 ^ { \circ } \mathrm { C }$ 利用本文软件包[8,10]计算得到的温度值为 $1 1 8 3 ^ { \circ } \mathrm { C }$ 和 $9 2 7 ^ { \circ } \mathrm { C }$ ，误差分别为 $1 . 6 9 \%$ 和 $1 . 5 1 \%$ ；图5(b）为差分干涉法结果,实测温度为 $1 0 6 6 ^ { \circ } \mathrm { C }$ 和 $7 2 7 ^ { \circ } \mathrm { C }$ ，利用本文软件包计算得出的温度值为 $1 0 8 1 ^ { \circ } \mathrm { C }$ 和 $7 3 8 ^ { \circ } \mathrm { C }$ ，误差分别为 $1 . 4 6 \%$ 和 $1 . 4 9 \%$ .结果表明，采用此原理样机得到的火焰温度数据是精确的，与实测值的相对误差小于 $2 \%$
+
+![](images/0cecd157d77e4c240b234d11051d9440c92dcf962b780c76df6d55cd03db2948.jpg)  
+图3火焰结构纹影 Fig.3Schlieren figure of fame structure
+
+# 2.3 微重力落塔实验结果
+
+图5给出了微重力落塔实验中拍摄的蜡烛火焰形状随时间的变化．图中， $t = 0 \mathrm { s }$ 表示开始释放落舱，此时蜡烛火焰与地面燃烧的蜡烛火焰形状一样，没有任何变化；落舱刚开始降落时，由于微重力水平不太高，且火焰的形状变化需要一定响应时间，使得火焰形状未立刻变为球状.随着落舱的降落，落舱中的微重力水平逐渐提高（中国科学院力学研究所微重力落塔单舱的微重力水平为 $1 0 ^ { - 3 } g \dot { }$ ，蜡烛火焰的形状逐步发生变化，火焰高度减小，宽度增加.图5中,当 $t = 1 . 9 7 \mathrm { s }$ 时,火焰近乎成为球形.在 $t = 2 . 4 3 \mathrm { : }$ S之后，由于落舱中的微重力水平降低，蜡烛火焰又逐渐变为锥形.
+
+![](images/a5a1f147942a02d557db7dcfc3a2247b61f702ab885dce9fb7315c40031ef269.jpg)  
+图4采用彩虹纹影偏折法与差分干涉法获得的结果.(a）彩虹纹影偏折法，(b)差分干涉法 Fig.4Results of rainbow schlieren deflection method and diferential interferometry.(a)rainbow schlieren deflection method,(b) differential interferometry
+
+图6为微重力落塔实验中拍摄的火焰结构纹影图中， $t = 0 \mathrm { s }$ 表示开始释放落舱时蜡烛火焰的纹影图像； $t ~ = ~ 0 . 8 9 \mathrm { s }$ 表示落舱释放0.89s 后拍摄的蜡烛火焰纹影图像，对应图5中 $t = 0 . 8 9 \mathrm { s }$ 时火焰形状， $t = 0 . 8 9 \mathrm { s }$ 的火焰纹影图像显示，此时火焰宽度较 $t = 0 \mathrm { s }$ 时更宽，高度较 $t = 0 \mathrm { s }$ 时减小; $t = 1 . 8 9 \mathrm { s }$ 表示落舱释放1.89s后拍摄的蜡烛火焰纹影图像，对应图5中 $t = 1 . 8 9 \mathrm { s }$ 时火焰形状，由于此时蜡烛火焰呈球形，其一侧的边缘已经超出CCD拍摄范围，因此在该图片中只能看到蜡烛火焰另一侧的纹影
+
+原理样机的微重力落塔实验结果表明了原理样机在微重力环境中具有高可靠性
+
+由于采用了三色单点光电探测器实现光电信号采集转换，然后输入对应的压缩算法模块，使得测量方法具有高通量、高信噪比的特点，提高了图像采集灵敏度和分辨率，测量结果更为精确，
+
+# 3结论
+
+![](images/1cacc2249427fdf49df3ca009b2bdc42dd83b2fb0d0b7c8157d722c1be88f57b.jpg)  
+原理样机集成了纹影、彩虹纹影偏折、差分干涉
+
+![](images/86438cbc04a8137568f325b18e0dfd6530a4aa72ab185f42a0463c631c7c29bf.jpg)  
+图5落塔实验中拍摄的火焰形状变化 Fig.5Changes of flame shape in drop tower experiments   
+图6落塔实验中拍摄的火焰结构纹影 Fig.6Images of flame structure by schlieren deflection method in microgravity drop tower experiments
+
+等光学诊断技术，具备高可靠性、小型化、模块化、多功能的特点，火焰结构分辨率不低于 $1 \mathrm { m m }$ ，温度场测量结果精确，温度测量相对误差小于 $2 \%$ ，同时,通过合理的光路布置及恰当选取光学元器件，使得原理样机质量为 $1 4 . 5 \mathrm { k g }$ ，包络尺寸为 $3 0 0 \mathrm { m m } \times$ $4 0 0 \mathrm { m m } \times 4 0 0 \mathrm { m m }$ ，最大功耗为 $2 4 \mathrm { W }$
+
+# 参考文献
+
+[1] Kostiuk L W,Cheng R K.Imaging of premixed flames in microgravity [J]. Exp.Fluids,1994,18(1/2):59-68   
+[2] Kobayashi H, Park J, Iwahashi T,et al. Microgravity experiments on flame spread of an n-decane droplet array in a high-pressure environment [J].Proc.Combust.Inst., 2002,29(2):2603-2610   
+[3] Li Q,Gu Y X,Dahm W, et al. Near-limit laminar burning velocities of microgravity premixed hydrogen flames with chemically-passive fire suppressants [J].Proc. Combust. Inst.,2007,31(2):2701-2709   
+[4] Wang S F, Zhang H, Jarosinski J,et al.Laminar burning velocities and Markstein lengths of premixed methane/air flames near the lean flammability limit in microgravity [J]. Combust. Flame,2010,157(4):667-675   
+[5] Pu Y K,Hu J,Jarosinski J.Experimentally determined flame properties near flammability limits under gravity and microgravity conditions[J].Combust.Sci.Tech., 2009,181(12):1431-1442   
+[6] Du Wenfeng,Zhang Xiaoqian,Wei Minggang,et al. The Candle flames in microgravity[J]. J.Eng. Thermophys., 2000，21(4):515-519． In Chinese (杜文锋，张孝谦，韦明 罡，等．微重力环境中的蜡烛火焰[J]．工程热物理学报，2000, 21(4):515-519)   
+[7] Du Wenfeng, Zhang Xiaoqian,Wei Minggang,et al. Candle flame temperature measurement in microgravity by differential interferometry[J].J. Combust.Sci.Tech., 2000,6(2):129-132.In Chinese(杜文锋,张孝谦,韦明罡,等. 差分干涉法测量微重力环境蜡烛火焰的温度[J].燃烧科学与技 术,2000,6(2):129-132)   
+[8] Falfonso F I,Chih J S,Hirasawa T,et al.Burning velocity measurements of microgravity spherical sooting premixed flames using rainbow SCHLIEREN deflectiometry[J]. Combust.Flame,2005,140(1/2):93-102   
+[9] Candes E,Romberg J.Quantitative robust uncertainty principles and optimally sparse decompositions [J].Found. Comput. Math.,2006,6(2):227-254   
+10] Jiang Guanlei, Hong Yanji,Ye Jifei,et al. Experimental Investigation of the quantitative measurement by rainbow schlieren[J]．J.Acad.Equip.Comm.Technol.,2012, 23(1):127-131．In Chinese(蒋冠雷，洪延姬，叶继飞,等．彩 虹纹影定量测量实验方法研[J].装备指挥技术学院学报，2012, 23(1):127-131)

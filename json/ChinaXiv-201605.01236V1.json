@@ -1,0 +1,397 @@
+[
+    {
+        "type": "text",
+        "text": "Long Noncoding RNA ADINR Regulates Adipogenesis by Transcriptionally Activating C/EBPα ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tengfei Xiao,1,2,3,7 Lihui Liu,1,2,5,7 Hongling Li,4,7 Yu Sun, $^ { 1 , 2 , 5 , 7 }$ Huaxia Luo, $^ { 1 , 2 , 5 }$ Tangping Li,4 Shihua Wang,4 Stephen Dalton,6 Robert Chunhua Zhao, $^ { 4 , \\star }$ and Runsheng Chen1,2,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Key Laboratoryof RNA Biology,Instituteof Biophysics,Chinese AcademyofSciences,Beijing1Oolo1,China   \n2Key Laboratoryof Non-coding RNA,Institute of Biophysics,Chinese Academyof Sciences,Beijing1Oolo1,China   \n3CenterforFunctionalCancerEpigenetics,Dna-FarberCancerIstitute,HarvardSchoolofublicHealth,Boston,M,UA   \nCetefE Union Medical College,Chinese Academy of Medical Sciences,Beijing 1oooo5,China   \n5Graduate School of the Chinese Academy of Sciences,Beijing 1Ooo8o,China   \nPaulDCovelteficaldaltecsartofocstrdleculaooeitf Brooks Drive,Athens,GA 30602, USA   \n7Co-first author   \n\\*Correspondence: zhaochunhua@vip.163.com (R.C.Z.), rschen@ibp.ac.cn (R.C.)   \nhttp://dx.doi.org/10.1016/j.stemcr.2015.09.007   \nThis is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUMMARY ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$C / E B P \\alpha$ isacriticaltaiptalutopogesisHowatioisselfuedsoldeod remainsakeyuestiontateedstoaddresedforompleteuderstandingofdipogenicevelopment.Hereeidentif ADINR (adipogenic differentiation induced noncoding RNA),transcribed from aposition ${ \\sim } 4 5 0$ bp upstream of the C/EBPα gene,that orchestratesC/EBP&transcriptoinviDepletooDeadstevereadipognicdefectatisrsudyoverexpressofC/ over,werevealtatDRRNAspecificallbindstoPAandrecruits M/4histonemethyl-transferasecomplexesSostoicrease H3K4me3 and decrease H3K27me3 histone modification in the $C / E B P \\alpha$ locus during adipogenesis. These results show that ADINR plays importanroles inregulatingthedifrentiationofhuman mesenchymalstemcels intoadipocytesbymodulatingC/EBP&incis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analyses of the human transcriptome using tiling arrays (Cheng et al.，2005；Kapranov et al.，2007） and RNAsequencing (RNA-seq) technology(Cabili et al., 2O11; Guttman et al.,2Oo9) have revealed that the entire genome is extensively transcribed as RNA.Substantial fractions of these transcripts are relatively long，apparently do not encode proteins,and are commonly termed \"long noncoding RNAs\" (lncRNAs). However， the functions of the lncRNAs are not yet well understood. One point of view, infact,suggests that theymostly represent \"transcriptional noise\"(Ponjavic et al.,20O7; Struhl, 2007). Nonetheless,an increasing body of recent evidence suggests that specific lncRNAs play a regulatory role in numerous cellular processes,including stem cell pluripotency(Guttman et al., 2011；Loewer et al.，2O1O)，cell-cycle regulation (Hung et al.，2O11),cell development and differentiation (Klattenhoff et al., 2O13; Kretz et al., 2012),and human disease pathogenesis (Wapinski and Chang, 2O11). Other studies have documented that lncRNAsrecruit chromatinmodification complexes involved in gene silencing or gene activation.For example, the lncRNAs Xist (Zhao et al., 2OO8) and HOTAIR (Rinn et al., 2OO7; Tsai et al., 201O) physically associate with Polycomb repressive complex 2 (PRC2) in the cis or trans form (Guttman and Rinn，2O12) and specifically repress target genes by modulating histone H3 lysine 27 trimethylation (H3K27me3) at various sites along the genome. Similarly， the lncRNAs HOTTIP(Wang et al., 2011) activate HOXA genes by recruiting the TrxG: MLL1 (Trithorax group activator:Mixed lineage leukemia 1) complextochromatin,whichleadsto increasedH3K4trimethylation (H3K4me3)at the HOXA locus.A very recent studyreported that the lncRNA ecCEBPA，which is transcribed in the same direction as the C/EBPα gene,interacts with DNMT-1 to block C/EBPα gene methylation in leukemic cell lines (Di Ruscio et al., 2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Obesity is an important risk factor for various diseases, particularly heart disease,diabetes,hypertension,and cancer (Friedman,2OoO).Thus,understanding the molecular mechanism that regulates adipogenesiswould be expected to facilitate the development of methods for the treatment of obesityand other adipogenic-differentiation-related disorders.In recent years,human mesenchymal stem cells (hMSCs) have been widelyused as an alternative model for the study of human adipogenesis.In contrast to human pre-adipocytes,hMsCs are multipotent,and there is less individual variability between donor-derivedhMSCs (Janderovä et al.， 2003;Pittenger et al.，1999). Over the past 2 decades，transcriptional regulation of adipogenesis has been shown to involve an elaborate network of transcription factors that coordinate the expression of several hundred proteins (Farmer，2006). $P P A R \\gamma$ and $C / E B P \\alpha$ are considered to be the two principal adipogenic transcription factors in this network,positively regulating each other's expression and cooperating in the control of adipogenesis (Rosen et al.，2Oo2).Nevertheless,the detailed molecular mechanism that activates the expression of $P P A R \\gamma$ and C/EBPα during adipogenesis is not yet known.Although several lncRNAs are differentially regulated during adipogenesis (Kikuchi et al., 2009; Sun et al., 2013),none have been identified to directly participate in the genetic control of adipogenic differentiation. Here,we reveal that, during adipogenic differentiation,an uncharacterized noncoding RNA (ADINR) activates the $C / E B P \\alpha$ gene in cis by impacting H3K4me3 and H3K27me3 histone modification of the $C / E B P \\alpha$ locus.These findings have major implications for obesityandhuman disease. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ADINR Is a lncRNA Upregulated during Adipogenesis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To explore whether lncRNAs are involved in the adipogenic differentiation of hMSCs,we designed a customized microarray to probe the expression profiles of 39,3o3 human transcripts that have been annotated as potential noncoding RNAs (see Experimental Procedures). The expression profiles were probed on days O,3,and 6 of adipogenic differentiation.Analysis showed that 1,423 annotated or potential lncRNAs were up- or downregulated by ${ > } 2$ -fold during adipogenic differentiation (Student's t test, false discovery rate $\\mathrm { [ F D R ] } < 0 . 2 ;$ ：Figure 1A; Table S1).Of these, $3 7 . 7 \\%$ (536) showed reduced expression during differentiation relative to uninduced cells，while the remaining lncRNAs (887） were highly induced at an early (day 3) and/or a late (day 6) stage of adipogenic differentiation. We focused on an uncharacterized RNA transcript,ADINR, whose genomic location suggested that it was divergently transcribed from a position ${ \\sim } 4 5 0$ bp upstream of the $C / E B P \\alpha$ gene (Figure 1B). ADINR exhibited significantly increased expression on days 3 and 6 $( \\mathrm { p } < 0 . 0 2 )$ compared to undifferentiated hMSCs. Sequence analysis of the ADINR locus revealed it to be highly conserved in rhesus macaque,mouse, dog,and elephant (Figure S1A). Furthermore,qRT-PCR showed that ADINR expression increased 20- to 30-fold on days 3 and 6 relative to day O (Figure 1C), confirming the microarray data.The qRT-PCR results further showed that ADINR and $C / E B P \\alpha$ are co-expressed during adipogenic differentiation (Figure 1C). Analysis performed by the $5 ^ { \\prime }$ and $3 ^ { \\prime }$ rapid amplification of cDNA ends (RACE) suggested that the ADINR locus produces two polyadenylated,unspliced transcripts (Figure 1D;Figure S1B). Isoform A has an ${ \\sim } 1 9 0$ -nt-long extension at the $3 ^ { \\prime }$ end relative to isoform B, the latter being the major form as determined by RACE (Figure 1D),and the primers used are listed in Figure S1C. Additional RT-PCR analyses of multiple humancell lines suggested that ADiNR is expressed ina number of tissues (lung, liver,colon,etc.) and not restricted to hMSCs and adipocytes (Figure S1D). RNA-seq data from ENCODE indicates that expression of the ADINR and C/EBPα genes is correlated in all nine cell lines tested (Figure S1A). Single-molecule RNA fluorescence in situ hybridization of ADiNR showed that the transcript is exclusively localized in the nucleus ofhMSCs and day-3differentiated cells (Figure 1E). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ADINR Regulates the Adipogenesis Program In Vitro and In Vivo ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To study the functional role of ADINR during adipogenesis, weused small interferingRNAs (siRNAs)to knock down ADINR transcripts on day O,followed by culture in hMSC medium (adipogenesis dO) or adipogenic medium for 3 days (adipogenesis d3).Knockdown of ADiNR with two independent siRNAs markedlyreduced the expression of $C / E B P \\alpha$ and $P P A R \\gamma$ ，both at mRNA and protein levels on day O and day 3 (Figures 2A-2C)，suggesting that ADINR RNA plays a key role in the coordinated activation of $C / E B P \\alpha$ and $P P A R \\gamma$ during adipogenic differentiation.We further transfected the siRNAs (#1) and depleted ADINR in hMsCs on day O,followed by 8 days of adipogenic differentiation.Notably,knockdown of ADiNR resulted ina dramatic adipogenic defect,as shownby the decreased number of oil red $\\mathrm { O ^ { + } }$ cells and reduced adipogenic transcripts $C / E B P \\alpha , P P A R \\gamma ,$ fatty acid binding protein 4 (Fabp4) and lipoprotein lipase (LPL; Figures 2D and 2E;Figures S2A and S2B).To exclude the off-target effects of the siRNAs for ADINR knockdown，we also performed more knockdown assays using RNase-H-based antisense oligonucleotides (ASO).Likewise,the ASO-targeted ADINR could not only downregulate the expression of $C / E B P \\alpha$ ， $P P A R \\gamma _ { \\scriptscriptstyle \\ l }$ ，FABP4, and LPL (Figure 2F) but also decrease the number of oil red $\\mathrm { O ^ { + } }$ cells (Figure 2G). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subsequently,we tested whether the adipogenic defect could be rescued by ectopic expression of the ADINR RNA.To eliminate the possibility that“adipogenic rescue\" was caused by the ectopic ADiNR RNA annealing to the siRNA(#1) and titrating it away,hMSCs were sequentially transfected with the siRNA(#1) on day O and then infected withalentivirus expressinga mutant ADiNRRNA with four mutations in the siRNA target site (Figure 2H).After dexamethasone treatment for adipogenic differentiation，we found that the ectopic mutant ADiNR exhibited scant rescue of the severe adipogenic defects caused by the depletion of endogenous ADINR (Figure 2I). This rescue assay onlyresulted in an ${ \\sim } 1 . 2 \\cdot$ to ${ \\sim } 1 . 3$ -foldincreasein the expression of $C / E B P \\alpha$ mRNA as well as other adipogenic markers.However, the adipogenic deficiency was readily rescued by lentivirus-mediated ectopic expression of C/EBPα (Figures 2I and 2J; Figure S2C). In addition, ectopic (A)Mean-centered,hierarchical clustering of1,423 differentially ( $\\geq 2$ -fold) expressed (two-tailed,paired Student's t test,FDR $\\mathbf { \\bar { \\rho } } _ { < }$ 0.2),previously annotated noncoding RNAs on days O,3,and 6 of adipogenic differentiation.The microarray data are from three independentbiologicalreplicates. NC, negative control. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaa12354bc9dd0384fd789d0f8f211c061af73567ca6edb0cc5df5ae7573decb.jpg",
+        "img_caption": [
+            "Figure 1. lncRNA ADINR Is Upregulated during Adipogenic Differentiation "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(B) ChIP-seq analysis of H3K4me3 and H3K27me3at the $C / E B P \\alpha$ and ADINR loci in adipose-derived hMSCs on day 20 of adipogenic differentiation relative to the undifferentiated cells (day O).The data were obtained from the Roadmap Epigenomics Project. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(C)qRT-PCR analysis of $C / E B P \\alpha$ and ADINR expression across three time points (days 0,3, and 6）of adipogenic differentiation.The relative expression levels after normalizing to the amount of $G A P D H$ signal in each sample are shown. $q { \\mathsf { P C R } }$ data are presented as the mean $\\pm { \\mathsf { S D } }$ in three independent experiments. (D) $5 ^ { \\prime }$ and $3 ^ { \\prime }$ RACE and RT-PCR assays detecting full-length ADINR RNA in undifferentiated (Od) and 3-day adipogenic-differentiated (3d)hMSCs.The longest bands (arrows) for ADINR RNA in the RACE assays were indicated.Through sequencing the PCR product of $5 ^ { \\prime }$ RACE,we found that the two shorter bands are non-specific PCR products. $+ ,$ RT-PCR using DNase-treated 3d total RNA;-，PCR using DNase-treated 3d total RNA (no RT; negative control). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(E) Single-molecule RNA fluorescence in situ hybridization shows greatly increased abundance of ADINR molecules during adipogenic differentiation,and ADINR RNA is exclusively localized in the nucleus of hMSCs and day-3 differentiated cells.Scale bars, $5 0 ~ { \\mu \\mathrm { m } }$ · See also Figure S1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "overexpression of wild-type ADINR barely stimulated $C / E B P \\alpha$ expression and also failed to facilitate the adipogenic differentiation of hMsCsas efficientlyas did overexpression of $C / E B P \\alpha$ (Figures 2K and 2L; Figure S2D). Together,these data suggest that ADiNRRNA is inactive in trans but that it promotes adipogenesis by activating $C / E B P \\alpha$ transcription in cis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ADINR Interacts with MLL3/4 Complexes to Regulate C/EBPα Expression ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In hMSCs,the $P P A R \\gamma$ promoter is enriched in H3K4me3 and depleted of H3K27me3 (Figure S3A). In contrast, the $C / E B P \\alpha$ promoter is enriched for overlapping domains of ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "H3K4me3 and H3K27me3,a histone modification pattern associated with “poised/bivalent\" regulatory sequences (Bernstein et al., 2OO6). During adipogenic differentiation, H3K4me3 is increased markedly on the $C / E B P \\alpha$ promoter, while $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ is decreased, suggesting that the $C / E B P \\alpha$ gene is transcriptionally activated (Figure 1B). In addition, two other epigenetic markers,histone H3K9me3 and CpG DNA methylation，which are generally associated with gene repression，were present at onlylowlevelsand exhibited almost no change during differentiation (Figures S3B and S3C). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next,we addressed whether ADiNR regulates $C / E B P \\alpha$ by impacting H3K4me3 and H3K27me3 marksat the $C / E B P \\alpha$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5484535ac8618ed0140946a3e59b8f1dda08cf93e376722ddc7dd5f912e9fde5.jpg",
+        "img_caption": [
+            "Figure 2. ADINR RNA Depletion Represses Adipogenic Differentiation (A and B) qRT-PCR analysis of ADINR RNA, $C / E B P \\alpha ,$ and $P P A R \\gamma$ after knockdown of ADINR RNA using two independent siRNAs (siADINR#1 and siADINR#2) on day O(A) and day 3(B) of adipogenic differentiation. (C) Western blot of $C / E B P \\alpha$ and $P P A R \\gamma$ after knockdown of ADINR RNA using two independent siRNAs (siADINR#1 and siADINR#2) on day O and day 3 of adipogenic differentiation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(legendcontinuedon next page) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "locus.Chromatin immunoprecipitation (ChIP) assays for days O and 3 showed that knockdown of ADiNR significantly reduced H3K4me3 and increased H3K27me3 in the promoter and coding regions of C/EBPα (Figure 3A). This indicates that ADiNR is involved in the maintenance of H3K4me3 and the removal of H3K27me3 in these regions during adipogenic differentiation.Previous studies inmammals have documented the existence of at least six types of SET-domain-containing lysine methyltransferases that are responsible for H3K4me3 (Mohan et al., 2012).These histone methyltransferases interact with a core complex including WDR5 and RBBP5 in order to form a set of three complexes abbreviated as MLL1/2, MLL3/4,and SET1A/B (Figure S3D). To identify which of the complexes is essential for the expression of $C / E B P \\alpha$ and ADINR RNA,we used siRNAs to knock down the specific protein in each of the three complexes (i.e., Menin, PTIP,and WDR82，respectively).Changes in levels of $\\mathrm { C / E B P \\mathfrak { L } }$ and ADINR were then used as readouts for the function of these complexes in regulation of adipogenic transcription．Knockdown of PTIP，a component of the MLL3/4 complexes，significantly reduced the expression of $C / E B P \\alpha$ and ADINR on days O and 3 (Figure S3E), while knockdown of Menin and WDR82 had no detectable effect on $\\mathrm { C / E B P \\mathfrak { L } }$ Or ADINR expression (Figures S3F and S3G). Knockdown of MLL3 and MLL4 indicated that both proteins are required for $C / E B P \\alpha$ expression on day 3,whereas only the knockdown of MLL4 markedly altered $C / E B P \\alpha$ expression on day O (Figures S3H and S3I). Collectively, these results point to an association between the MLL3/4 complexes and the regulation of $C / E B P \\alpha$ and ADINR expression.This finding is consistent with previous reports in mouse adipocytes that PTIP and MLL4 are recruited to the $C / E B P \\alpha$ promoter during preadipocyte diferentiation (Cho et al., 2009). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To identify whether there is a molecular relationship between ADINR and MLL3/4 complexes,we demonstrated that we could retrieve endogenous ADiNR RNA by immunoprecipitation of endogenous PTIP and WDR5 from hMSCs on day 3 (Figure 3B). Subunits of MLL1/2 (Menin) and SET1A/B (CXXC1),however, did not precipitate with ADINR RNA.These observations indicate that ADINR transcriptbindsto one ormore subunits of the MLL3/4 complex but not MLL1/2 and SET1A/B.To further investigate this interaction of ADINR with MLL3/4,we used an RNA pull-down assay that uses in-vitro-transcribed biotinlabeled full-length ADiNR isoform A and histone H2A mRNA (control） probes.The ADiNR probe specifically retrieved MLL3/4 subunits (i.e.，PTIP,PA1，and WDR5), but not Menin or CXXC1 (Figure 3C). Together, these results confirm that the ADiNR RNA associates with the MLL3/4 complexes to regulate C/EBPα expression. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PA1 Is Recruited to the C/EBPα Promoter by Specifically Binding to ADINR ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To identify subunits of MLL3/4 complexes that directly interact with ADiNR,six forms of in-vitro-purified glutathione S-transferase (GST) fusion protein were used in binding assays with total RNA from adipogenic-induced hMSCs on day 3.In contrast to recombinant GST-RBBP5, GST-WDR5， GST-PTIP， GST-WDR82， and GST-Menin, GST-PA1 was able to specifically bind to the endogenous ADINR RNA (Figure 4A). The functional studies had indicated that ADINRRNA regulates the $C / E B P \\alpha$ gene in cis. To confirm that ADiNR regulates the $C / E B P \\alpha$ gene by re cruiting the MLL3/4 complexes to the $C / E B P \\alpha$ promoter, we performed ChIP assays on PA1，in the presence or absence ofADiNR.TheresultsshowedthatPA1isrecruited to the $C / E B P \\alpha$ promoter on days O and 3,and the knockdown of ADiNR significantly inhibits the binding of PA1 to the $C / E B P \\alpha$ promoter (Figure 4B).These findings indicate that the MLL3/4 complexes are recruited to the $C / E B P \\alpha$ promoter by the binding of PA1 to ADINR RNA during adipogenic differentiation.To localize the PA1 binding site on ADINR RNA,seven truncated probes from ADINR isoform A were used for GST-PA1 in-vitro-binding assays,ultimately (A)RNA pull-down with six different GSTconjugated proteins (WDR5，WDR82，PA1, PTIP，RBBP5,and Menin） from the adipocyte total RNA on day 3.Only GST-PA1 specifically retrieves ADINR RNA. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a6c46e8f51cf3274374a0872407d19dff10689ba4e1ee05a4b49a2d7ff5734a.jpg",
+        "img_caption": [
+            "Figure 3. ADINR RNA Is Required for the Active Chromatin State of the C/EBPα and ADINR Loci ",
+            "(A) ChIP assay of H3K4me3 and H3K27me3 at the $C / E B P \\alpha$ and ADINR loci. The $q { \\mathsf { P C R } }$ data are presented as the mean $\\pm { \\mathsf { S D } }$ in six independent experiments. ${ } ^ { \\star } \\mathsf { p } < 0 . 0 5 ; { } ^ { \\star \\star } \\mathsf { p } < 0 . 0 1 . \\mathsf { N C } ,$ ：negative control. (B)RNA mmunoprecipitation(IP)ofedogenousWDR5,,Menin,andCXC1inumanadipoctesafter3daysofdierentiatioe retrieved RNA was quantified by qRT-PCR (negative controls: U1 and GAPDH RNAs).Approximately $2 ~ { \\mu \\mu \\mu }$ of cell lysate was loaded as the input control. Error bars represent the mean $\\pm \\mathsf { S D }$ in three independent experiments. (C) Immunoblot analysis after RNA pull-down assay of in-vitro-transcribed ADINR RNA and histone2 mRNA. See also Figure S3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ad068e734c6ed7edc34b758313276ea61a2a9a203e4585f11b5f63e162d9a10.jpg",
+        "img_caption": [
+            "Figure 4.ADINR RNA Regulates Active Chromatin via Binding to PA1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(B) ChIP assay of PA1 in the $C / E B P \\alpha$ promoter region.Knockdown of ADINR RNA significantly abrogates the peaks of PA1 occupancy in the region of primers4 and primers5 (see Figure 3A). $^ { \\star \\star } \\mathsf { p } < 0 . 0 1$ ，Student's t test. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(C)Affinity of seven truncated ADINR RNA fragments for GST-PA1 (in vitro binding assay).All the panels show means $\\pm \\mathsf { S D }$ in three independent experiments. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "See also Figure S4. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "indicating that the PA1-bindingactivitymapped between nucleotides 1685 and 1937 (Figure 4C),a region that includes a LINE repeat element conserved in mammals (Figure S4A). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this report, the long intergenic noncoding RNA ADINR was found to regulate the adipogenesis of hMsCs by in cis recruitment of the trithorax complex (MLL3/MLL4） to the $C / E B P \\alpha$ promoter region.We show that the abundance of ADiNR was increased during the differentiation from hMSC to adipocyte.This phenomenon indicates that ADINR may play a key role in the complicated process. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It was reported that $C / E B P \\alpha$ is a critical transcriptional modulator of adipocyte differentiation and adipogenesis (Farmer, 2OO6). In this study, downregulation of ADINR can downregulate the level of $C / E B P \\alpha$ via acting on the latter'spromoter to impact transcription.Thereby，gene expression cascades involved in adipocytes differentiating into hMSCs are activated and result in adipogenesis. Our findings suggest that ADINR is an uncharacterized transcriptional regulator of $C / E B P \\alpha$ ，which shed light on how lncRNA coordinates with key transcriptional factors to regulate downstreamgene expression and hMSCs differentiation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the human genome,more than 2,Ooo lncRNAs are bidirectionally transcribedwithin $2 \\mathrm { k b }$ of the transcription start sites of protein-coding genes (Sigova et al.， 2013). Many of them are co-expressed with the protein-coding genes (Hung et al.，2O11).However, the regulatory func tions of these lncRNAs that are associated with the promoters or enhancers of protein-coding genes could be different.Several studieshaveaddressedtherolesofthese promoter-associated antisense transcriptsthat could directly regulate the expression of nearby genes by various mechanisms (Hsieh et al., 2014; Pandey et al., 2OO8),while other studies have shown that some divergent lncRNAs and protein-coding gene pairs may share the same upstream transcriptional network but contribute to the same cellular response independently (Grote et al., 2013; Musahl et al., 2015). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Previous mapping of histone marks in embryonic stem (ES) cells has frequently found overlapping domains of H3K4me3 and H3K27me3 at the promoter regions of developmental regulators (Bernstein et al.，2OO6). These \"bivalent\" domains poise the activity of genes encoding developmental transcription factors in pluripotent cells and， duringearlydifferentiation， resolveintoan H3K4me3-activated state or an H3K27me3-repressed state. During adipogenic differentiation，knockdown of the ADINR dramatically affects the histone marks of both H3K4me3 and H3K27me3 at the promoter of ${ \\mathrm { C / E B P } } \\mathfrak { L }$ ,indicating that the ADINR exerts its functions by modulating this bivalent region.A previous study (Janowski et al., 2005) showed that transfection of siRNA may directly regulate chromatin changes by hybridizing to chromatin DNA, which might be an alternative mechanism through which the siRNAs (#1 and #2) can directly affect the $\\mathrm { C / E B P \\mathfrak { L } }$ expression.Although we cannot absolutely exclude this possibility,the consistent results that have been shown by three types of knockdown approaches (siRNA,short hairpin RNA [shRNA]，and ASO）against ADINR could make it more convincing that this lncRNA plays essential roles in regulating adipogenesis. The precise molecular mechanism that underlies regulation of these specific histone variations is not fully understood, but information from this study clearly implicates the role for this lncRNA. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The MLL3/4 complexes contain a histone H3K27 demethylase (i.e.，UTX）that might be responsible for the removalofH3K27me3at the $C / E B P \\alpha$ and ADINRlocidur ing adipogenic differentiation.Moreover,MLL4 is required for H3K4 mono- and di-methylation and partially redundant with MLL3 during cell differentiation (Lee et al., 2013);at the same time,MLL3/4 playsa critical partin adipogenesis by enriching H3K4me3 on $P P A R \\gamma$ and $C / E B P \\alpha$ promoters (Cho et al.，2Oo9). Our findings suggest that the ADINR RNA exerts its effect by acting in concert with the functionally uncharacterized PA1 protein so as to serve asalink between the MLL3/4 complexes and the chromatin,therebyactivating $C / E B P \\alpha$ expression (Figure S4B). Recently, the lncRNAs HOTTIP(Wang et al.，2O11)，plus other RNAs with an enhancer-like function (Kim et al., 2010;Qrom et al.，201O)，have been shown to regulate nearby genes in cis.Investigation of these RNAs should provide further clues as to whether there is widespread chromatin remodeling associated with RNA recruitment of enzymes that regulate gene expression. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Insummary,we identified a lncRNA,named ADiNR, that functions as a significant positive modulator in hMsC differentiation. Grounded on our findings, we proposed an action model for ADINR (Figure S4B). In this model, ADINR governs $C / E B P \\alpha$ transcriptional activity in cis by affecting the level of H3K4me3 in the promoter region of $C / E B P \\alpha _ { i }$ and this government occurs through the association of ADINRwithPA1,which isa memberof the histone methylation complex MLL3/4. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RNA Extraction and Microarray Hybridization ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The cells on days O,3,and 6 during differentiation were harvested, and total RNA was extracted with TRIzol (Invitrogen).Each time point has three replicates.Total RNAs were hybridized using mRNA-lncRNA-combined microarray (CapitalBio). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plasmids and Antibodies ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The following plasmids have been used in this study:pCDH-EF1- MSCV-GFP-Puro (SBI,CD711B-1) and pGEX-6P-1 (Addgene).Antibodies: mouse and rabbit immunoglobulin G (IgG) (sc-69786 and sc-66931) were from Santa Cruz Biotechnology.anti-PTIP(A300- 369A and A300-370A)，anti-PA1 (A301-978A and A301-979A), anti-Menin (A300-105A)，and anti-CXXC1 (A303-161A)were ordered from Bethyl Laboratories.anti-WDR5 (ab56919),antiH3K4me3 (ab858O)，and anti-H3K27me3 (ab6002)were from Abcam. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CellIsolation and Culture ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Human adipose tissue was obtained from patients undergoing liposuction according to procedures approved by the Ethics Committee at the Chinese Academy of Medical Sciences and Peking Union Medical College.Fresh liposuction tissue was collected, digested，and isolated according to an established method (Cao etal.,2OO5).The cells were then cultured with hADSC culture medium containing DMEM/F-12,MCDB-201, $2 \\%$ fetal bovine serum, $1 \\times$ insulin transferrin selenium, $1 0 ^ { - 8 } \\mathrm { M }$ dexamethasone, $1 0 ^ { - 4 } \\mathrm { M }$ ascorbic acid 2-phosphate, $1 0 \\mathrm { \\ n g / m l }$ EGF, $1 0 \\mathrm { \\ n g / m l }$ PDGF-BB, and $\\mathrm { { 1 ~ n g / m l } }$ Activin A. See also the Supplemental Experimental Procedures. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACCESSIONNUMBERS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The accession number for the microarray data reported in this paper is GEO GSE57593 (http://www.ncbi.nlm.nih.gov/geo/). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTALINFORMATION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Information includes Supplemental Experimental Procedures,four figures,and two tables and can be found with this article online at http://dx.doi.org/10.1016/j.stemcr.2015.09. 007. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "T.X.,L.L., Y.S.,H.L.,R.C.Z., S.D.,and R.C. designed experiments, T.X.analyzed microarray data. T.X.,L.L., Y.S.,H.L., T.L.,and S.W. performed experiments.T.X.drafted the manuscript.L.L., H.L, and S.D.revised the article,which all authors edited and approved. R.C.Z.,S.D.,andR.C.directed and supervised the research. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank MylesBrownand ShirleyLiu for helpful discussions and Jianqing Zhao for assistance withmicroarray data.Thisworkwas supported by the Chinese Academy of Sciences Strategic Project ofLeading Science and Technology (XDAO1o2O4O2),theNational HighTechnology ResearchandDevelopmentProgram(\"863\"Program) (2012AAO2O4O2),and the National Natural Science Foundation of China (No.81370466).R.Z.was supported by a National Collaborative Innovation Program grant (for Biotherapy). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Received: April 16,2015   \nRevised:September9,2015   \nAccepted: September 10,2015   \nPublished:October 15,2015 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bernstein, B.E., Mikkelsen, T.S., Xie,X., Kamal, M., Huebert,D.J., Cuff,J., Fry, B., Meissner, A., Wernig, M., Plath, K., et al. (2006). A bivalent chromatin structure marks key developmental genes in embryonic stem cells. Cell 125, 315-326. Cabili, M.N., Trapnell, C., Goff, L., Koziol, M., Tazon-Vega, B.,Regev,A.,and Rinn, J.L. (2011). Integrative annotation of human large intergenic noncoding RNAs reveals global properties and specific subclasses. Genes Dev. 25,1915-1927. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cao, Y., Sun, Z., Liao,L., Meng, Y., Han, $\\mathrm { Q . , }$ and Zhao, R.C. (2005). Human adipose tissue-derived stem cells differentiate into endothelial cels in vitro and improve postnatal neovascularization in vivo. Biochem. Biophys. Res. Commun. 332, 370-379.   \nCheng, J., Kapranov, P.,Drenkow,J.,Dike, S.,Brubaker, S.,Patel, S., Long, J., Stern, D.,Tammana, H., Helt, G.,et al. (2Oo5). Transcriptional maps of 10 human chromosomes at 5-nucleotide resolution. Science 308, 1149-1154.   \nCho, Y.W., Hong, S., Jin, Q., Wang, L., Lee, J.E., Gavrilova, O., and Ge, K. (20o9). Histone methylation regulator PTIP is required for PPARgamma and C/EBPalpha expression and adipogenesis. Cell Metab.10, 27-39.   \nDi Ruscio,A.,Ebralidze, A.K.,Benoukraf,T.,Amabile,G.,Goff,L.A., Terragni, J.， Figueroa, M.E.，De Figueiredo Pontes, L.L., AlberichJorda, M., Zhang, P., et al. (2013). DNMT1-interacting RNAs block gene-specific DNA methylation. Nature 503, 371-376.   \nFarmer, S.R. (2006). Transcriptional control of adipocyte formation. Cell Metab. 4, 263-273.   \nFriedman, J.M. (200o). Obesity in the new millennium. Nature 404, 632-634.   \nGrote,P., Witler,L.,Hendrix,D.,Koch,F, Wahrisch,S., Beisaw,A, Macura, K., Bläss, G., Kellis, M.,Werber, M.,and Herrmann,B.G. (2013). The tissue-specific lncRNA Fendrr is an essential regulator of heart and body wall development in the mouse. Dev. Cell 24, 206-214.   \nGuttman, M., and Rinn, J.L. (2012). Modular regulatory principles of large non-coding RNAs. Nature 482, 339-346.   \nGuttman, M.,Amit,1.,Garber, M.,French, C.,Lin, M.F., Feldser, D, Huarte, M., Zuk, O., Carey, B.W., Cassady, J.P. et al. (2009). Chromatin signature reveals over a thousand highly conserved large non-coding RNAs in mammals. Nature 458, 223-227.   \nGuttman, M., Donaghey, J., Carey, B.W., Garber, M., Grenier, J.K., Munson, G., Young, G., Lucas, A.B., Ach, R., Bruhn,L., et al. (2011). lincRNAs act in the circuitry controlling pluripotency and differentiation. Nature 477, 295-300.   \nHsieh, C.L., Fei, T., Chen, Y.,Li, T., Gao, Y., Wang, X., Sun, T., Sweeney, C.J.,Lee, G.S., Chen,S.,etal. (2014).Enhancer RNAs participate in androgen receptor-driven looping that selectively enhances gene activation.Proc. Natl. Acad. Sci. USA 111, 7319-734.   \nHung, T., Wang, Y., Lin, M.F., Koegel, A.K., Kotake, Y., Grant, G.D., Horlings, H.M., Shah, N., Umbricht, C.， Wang, P., et al. (2011). Extensive and coordinated transcription of noncoding RNAs within cell-cycle promoters. Nat. Genet. 43, 621-629.   \nJanderova, L., McNeil, M., Murrell, A.N., Mynatt, R.L., and Smith, S.R. (2003). Human mesenchymal stem cels as an in vitro model for human adipogenesis. Obes. Res.11, 65-74.   \nJanowski, B.A., Huffman, K.E., Schwartz, J.C., Ram, R., Hardy, D., Shames，D.S.，Minna, J.D.，and Corey， D.R. (2005). Inhibiting gene expression at transcription start sites in chromosomal DNA with antigene RNAs. Nat. Chem. Biol. 1, 216-222.   \nKapranov, P., Cheng,J., Dike, S., Nix, D.A.,Duttagupta, R. Willingham,A.T., Stadler, P.F., Hertel, J., Hackermuller, J.,Hofacker, I.L., et al. (2oO7). RNA maps reveal new RNA classes and a possible function for pervasive transcription. Science 316,1484-1488. Kikuchi, K., Fukuda,M., Ito,T., Inoue, M., Yokoi, T.,Chiku, S., Mitsuyama, T.,Asai, K., Hirose, T.,and Aizawa, Y. (2Oo9). Transcripts of unknown function in multiple-signaling pathways involved in human stem cell differentiation. Nucleic Acids Res. 37, 4987-5000. Kim, T.K., Hemberg, M., Gray, J.M., Costa, A.M., Bear, D.M., Wu,J., Harmin,D.A.,Laptewicz, M., Barbara-Haley, K., Kuersten, S., etal. (2010). Widespread transcription at neuronal activity-regulated enhancers. Nature 465, 182-187.   \nKlattenhoff, C.A., Scheuermann, J.C., Surface, L.E., Bradley, R.K., Fields，P.A.， Steinhauser， M.L.，Ding，H.，Butty， V.L.， Torrey,L.. Haas, S., et al. (2O13). Braveheart, a long noncoding RNA required for cardiovascular lineage commitment. Cell 152, 570-583. Kretz, M., Webster, D.E., Flockhart, R.J., Lee, C.S., Zehnder, A.,Lopez-Pajares, V., Qu, K., Zheng, G.X., Chow, J., Kim, G.E., et al. (2012). Suppression of progenitor differentiation requires the long noncoding RNA ANCR. Genes Dev. 26, 338-343.   \nLee,J.E.,Wang, C.,Xu,S.,Cho, Y.W., Wang,L.,Feng, X.,Baldridge, A., Sartorelli, V., Zhuang, L., Peng, W., and Ge, K. (2013). H3K4 mono- and di-methyltransferase MLL4 is required for enhancer activation during cell differentiation. eLife 2, e01503.   \nLoewer, S.,Cabili,M.N., Guttman, M.,Loh, Y.H.,Thomas,K.,Park, I.H., Garber, M., Curran, M., Onder, T., Agarwal, S., et al. (2010). Large intergenic non-coding RNA-RoR modulates reprogramming of human induced pluripotent stem cells. Nat. Genet. 42, 1113-1117.   \nMohan, M., Herz, H.M.,and Shilatifard, A. (2012). SnapShot: Histone lysine methylase complexes. Cell 149, 498-498.e1.   \nMusahl, A.S.,Huang,X.，Rusakiewicz, S.，Ntini, E., Marsico,A., Kroemer, G., Kepp,O., and Orom, U.A. (2015). A long non-coding RNA links calreticulin-mediated immunogenic cell removal to RB1 transcription. Oncogene.Published online January 12，2015. http://dx.doi.org/10.1038/onc.2014.424.   \nOrom, U.A., Derrien, T., Beringer, M., Gumireddy, K., Gardini, A., Bussotti, G., Lai, F., Zytnicki, M., Notredame, C., Huang, Q. et al. (2010). Long noncoding RNAs with enhancer-like function in human cells. Cell 143, 46-58.   \nPandey, R.R.， Mondal, T., Mohammad, F., Enroth, S., Redrup, L., Komorowski, J.，Nagano, T.， Mancini-Dinardo,D.，and Kanduri, C. (2008). Kcnqlotl antisense noncoding RNA mediates lineagespecific transcriptional silencing through chromatin-level regulation. Mol. Cell 32, 232-246.   \nPittenger, M.F., Mackay, A.M., Beck, S.C., Jaiswal, R.K., Douglas, R, Mosca, J.D.， Moorman，M.A.， Simonetti， D.W.， Craig，S.，and Marshak, D.R. (1999). Multilineage potential of adult human mesenchymal stem cells. Science 284, 143-147.   \nPonjavic, J., Ponting, C.P., and Lunter, G. (2OO7). Functionality or transcriptional noise? Evidence for selection within long noncoding RNAs. Genome Res. 17, 556-565.   \nRinn,J.L., Kertesz,M., Wang,J.K.,Squazzo,S.L., Xu,X.,Brugmann, S.A., Goodnough, L.H., Helms, J.A., Farnham, P.J., Segal, E. and Chang, H.Y. (2Oo7). Functional demarcation of active and silent chromatin domains in human HOX loci by noncoding RNAs. Cell 129,1311-1323.   \nRosen, E.D., Hsu, C.H., Wang, X., Sakai, S., Freeman, M.W., Gonzalez，FJ.，and Spiegelman，B.M. (2OO2). C/EBPalpha induces adipogenesis through PPARgamma: a unified pathway. Genes Dev. 16,22-26.   \nSigova, A.A., Mullen, A.C., Molinie, B., Gupta, S., Orlando, D.A, Guenther, M.G.,Almada,A.E., Lin,C., Sharp,PA.,Giallourakis, C.C.,and Young, R.A. (2013). Divergent transcription of long noncoding RNA/mRNA gene pairs in embryonic stem cells. Proc. Natl. Acad. Sci. USA 110, 2876-2881.   \nStruhl, K. (2oO7). Transcriptional noise and the fidelity of initiation by RNA polymerase II. Nat. Struct. Mol. Biol.14, 103-105.   \nSun,L., Goff, L.A., Trapnell, C., Alexander, R., Lo, K.A., Hacisuleyman,E., Sauvageau, M., Tazon-Vega, B., Kelley, D.R.,Hendrickson, D.G., et al. (2013). Long noncoding RNAs regulate adipogenesis. Proc. Natl. Acad. Sci. USA 110, 3387-3392. Tsai, M.C., Manor, O., Wan, Y., Mosammaparast, N.， Wang, J.K., Lan, F., Shi, Y., Segal, E., and Chang, H.Y. (2O1O). Long noncoding RNA as modular scaffold of histone modification complexes. Science 329, 689-693.   \nWang, K.C., Yang, Y.W., Liu, B., Sanyal, A., Corces-Zimmerman, R., Chen, Y., Lajoie, B.R., Protacio, A., Flynn, R.A., Gupta, R.A., et al. (2011). A long noncoding RNA maintains active chromatin to coordinate homeotic gene expression. Nature 472, 120-124.   \nWapinski, O., and Chang, H.Y. (2011). Long noncoding RNAs and human disease. Trends Cell Biol. 21, 354-361.   \nZhao,J., Sun, B.K., Erwin,J.A., Song,J.J., and Lee,J.T. (2OO8). Polycomb proteins targeted by a short repeat RNA to the mouse X chromosome. Science 322, 750-756. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

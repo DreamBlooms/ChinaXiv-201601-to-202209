@@ -1,0 +1,434 @@
+[
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "容庭」陈庄\\*刘志昌」王 刚'马现永」张　洁」邓盾1（1．广东省农业科学院动物科学研究所，畜禽育种国家重点实验室，广东省动物育种与营养公共实验室，广东省畜禽育种与营养研究重点实验室，广州 510640；2.广东省农业科学院，广州 510640）摘要：本试验旨在研究饲粮中长期添加酸化剂和亚剂量硫酸新霉素对黄羽肉鸡回肠黏膜菌群动态变化和组成的影响。选择 800只1日龄健康岭南黄羽肉鸡，随机分为4个组，每组5个重复，每个重复40 只鸡。对照组（A组）饲喂基础饲粮，B、C 和D 组饲粮分别在基础饲粮中添加 $0 . 2 \\%$ 酸化剂I、 $0 . 3 \\%$ 酸化剂Ⅱ和 $5 0 \\mathrm { m g / k g }$ 硫酸新霉素。试验期 42d。分别于1、7、14、21、28、35和42 日龄时，采集肉鸡回肠黏膜并提取细菌DNA，采用聚合酶链式反应（PCR）-变性梯度凝胶电泳（DGGE）技术分析肉鸡回肠黏膜菌群结构，同时应用16S rDNA 基因序列技术，建立42 日龄肉鸡回肠黏膜细菌16S rDNA的随机克隆文库。动态变化趋势分析发现，4组肉鸡回肠黏膜菌群结构发生变化的程度不同， $_ { 1 \\sim 2 8 }$ 日龄时4组的动态变化值分别为 $9 \\% \\sim 3 3 \\%$ 、 $8 \\% \\sim 9 0 \\%$ 、 $8 \\% \\sim 5 6 \\%$ 和 $1 7 \\% \\sim 4 5 \\%$ 。回肠黏膜细菌随机克隆文库分析发现，A组文库有94个序列，共产生16个OTUs（operationaltaxonomicunits)；B组有87个序列，共产生7个OTUs；C组有 98个序列，共产生5个OTUs；D组有94个序列，共产生9个OTUs。A和D组乳酸杆菌属（Lactobacillus）所占克隆总数的比例分别为 $3 9 . 3 6 \\%$ 和 $5 0 . 0 0 \\%$ ，极显著高于B（ $6 . 9 0 \\%$ ）和C组（ $1 0 . 2 0 \\%$ ） $_ { . P < 0 . 0 1 } )$ )；A 组与其他各组其他菌属的种类与组成比例存在差异，且均未发现与埃希氏菌属（Escherichia）相关序列。由此可知，饲粮中长期添加酸化剂和亚剂量硫酸新霉素会使 $_ { 1 \\sim 2 8 }$ 日龄岭南黄羽肉鸡回肠黏膜菌群结构发生剧烈变化，42日龄肉鸡回肠黏膜菌群的多样性下降，乳酸杆菌属的组成发生改变，这种变化与差异可能是酸化剂与抗生素持续压力的影响所致。关键词：酸化剂；硫酸新霉素；岭南黄羽肉鸡；肠道黏膜菌群；PCR-DGGE；16S rDNA克隆文库中图分类号：S831 文献标识码： 文章编号：动物胃肠道是一个开放且复杂的生态系统，每克肠道内容物中含有 $1 0 ^ { 1 1 } { \\sim } 1 0 ^ { 1 4 }$ 个微生物，且种收稿日期：2017-06-21",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：广东省农业科学院院长基金项目（201621）；广东省科技计划项目（2009B020307001）作者简介：容庭(1983—)，男，海南乐东人，高级畜牧师，硕士，从事动物肠道微生态研究。E-mail:blueskyrt@163.com\\*通信作者：陈庄，研究员，硕士生导师，E-mail:Chenzh1963@vip.sina.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "类丰富多样，这些微生物会对宿主的营养、生理及免疫产生显著影响[1-2]。因此，胃肠道菌群对宿主健康的影响备受研究者的关注。饲用抗生素的不合理和不规范使用，导致动物自身免疫力下降、采食量下降及肠道菌群失调。鉴于此，功能性饲料添加剂如酸化剂、酶制剂、益生素等抗生素替代物在近20年得到广泛的研究与应用。研究认为，酸化剂可改善畜禽的生产性能和肠道菌群，如提高饲粮的养分消化率、改善肠道微生态环境、改善小肠组织结构、促进肠道有益菌增殖、减少致病菌及细菌毒素的产生等[3-8]。硫酸新霉素属于氨基糖苷类广谱抗生素，临床上主要用于治疗畜禽细菌性胃肠道感染，口服给药很少出现毒性反应，口服后大部分以原形药随粪便排出，畜禽体内无药物残留。鉴于硫酸新霉素具有对畜禽的高度安全性以及不易产生耐药性和交叉耐药性等优点而成为国外最常用的兽药之一。目前，大多数研究报道均为基于酸化剂和抗生素促生长剂对畜禽肠道内容物微生物丛的研究，而硫酸新霉素作为预防用药和酸化剂对畜禽胃肠道黏膜微生物影响的研究尚未见报道。因此，本试验以岭南黄羽肉鸡作为试验素材，采用聚合酶链式反应（PCR）-变性梯度凝胶电泳（DGGE)技术与16S rDNA基因序列技术分析酸化剂和亚剂量硫酸新霉素对黄羽肉鸡回肠黏膜菌群组成及多样性的影响，为今后深入开展饲用抗生素和酸化剂的应用提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料与试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2014年10月29日—2014年12月9日在广东省农业科学院动物科学研究所试验场地完成，试验期42d。选择 800只1日龄健康岭南黄羽肉鸡，随机分为4个组，每组5个重复，每个重复40只鸡，各组的初始体重无显著差异（ $. P { > } 0 . 0 5 \\$ )。对照组（A组）饲喂基础饲粮，B、C和D组饲粮分别在基础饲粮中添加 $0 . 2 \\%$ 酸化剂I、 $0 . 3 \\%$ 酸化剂Ⅱ和 $5 0 \\mathrm { m g / k g }$ 硫酸新霉素。酸化剂I［（2009）外饲准字198号]为国外品牌，组成成分为磷酸、甲酸、乳酸、苹果酸、柠檬酸和酒石酸；酸化剂I[粤饲添字（2007）186007]为国内品牌，组成成分为延胡索酸、乳酸、柠檬酸、丙酸和甲酸。两种酸化剂的用量均按其说明书推荐的剂量。硫酸新霉素（干品效价： $6 7 5 \\mathrm { U / m g }$ ）购于宜昌三峡制药有限公司，其用量依据《进口兽药质量标准》（1999 年)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验鸡均在封闭式肉鸡舍内地面平养，地面铺放木屑，光照时间 $2 4 \\mathrm { h }$ ，自由采食和饮水。试验选用玉米-豆粕型基础饲粮，参照NRC（1994）建议的《鸡的营养需要量》、《鸡饲养标准》（NY/T33—2004）和中国饲料成分及营养价值表（2005年)，按照 $_ { 1 \\sim 2 1 }$ 日龄和 $2 2 { \\sim } 4 2$ 日龄2个阶段进行饲粮配制。 $_ { 1 \\sim 2 1 }$ 日龄饲粮的粗蛋白质水平为 $21 \\%$ ，代谢能水平为 $1 2 . 1 2 \\mathrm { M J / k g }$ ; $2 2 { \\sim } 4 2$ 日龄饲粮的粗蛋白质水平为 $1 9 \\%$ ，代谢能水平为 $1 2 . 5 4 ~ \\mathrm { M J / k g }$ 。试验采用常规免疫程序，鸡舍平均温度约 $2 2 ^ { \\circ } \\mathrm { C }$ 相对湿度控制在 $6 0 \\% \\sim 6 5 \\%$ 。试验期间鸡只未发生疾病，采用常规消毒。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别于试验鸡1、21和42日龄时，以重复为单位进行空腹称重。称重前12h停料、不停水，于第2天08:00 进行空腹称重。计算每个重复试验鸡的平均日增重（average daily gain，ADG）、平均日采食量（average daily feed intake，ADFI）和料重比（fed/gain，F/G）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4样品采集、前处理及DNA提取 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别于试验鸡1、7、14、21、28、35和42日龄时，早上喂料前从每个重复中随机挑选2只（每组10只）健康的试验鸡屠宰，采集回肠黏膜样品（中部 $2 \\mathrm { c m }$ )，截取 $1 \\mathrm { c m }$ 立即放入液氮中速冻，于$- 8 0 ^ { \\circ } \\mathrm { C }$ 保存备用。前处理方法参照文献[9-10]，即将样品解冻后，将1cm肠段纵向剪开，用灭菌生理盐水漂洗掉大块的内容物，重复冲洗2次，使黏附在肠壁上的消化物和结合松懈的细菌和黏液分离;将冲洗干净的肠段样品放入1mL灭菌生理盐水（包含 $0 . 1 \\%$ 土温80）中，漩涡振荡 $3 0 ~ \\mathrm { s }$ ，使贴于黏膜的细菌分离，此步骤重复1次；将得到的细菌悬液 $1 3 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 、 $4 ^ { \\circ } \\mathrm { C }$ 离心 $3 0 \\mathrm { m i n }$ ，收集菌体。合并每组10只鸡的另外1cm回肠黏膜样品,菌体置于 $1 . 5 ~ \\mathrm { m L }$ 的TE缓冲液[ $1 0 \\mathrm { m m o l / L }$ Tris-HC1 $( \\mathsf { p H } { = } 8 . 0 \\$ ，1 mmol/L乙二胺四乙酸（EDTA）]中，取 ${ 5 0 0 \\mu \\mathrm { L } }$ 用来提取DNA；其余 $1 \\mathrm { m L }$ 立即置于液氮中速冻，于$- 8 0 ^ { \\circ } \\mathrm { C }$ 保存备用。采用EZgene TMBacterial gDNAKit（Biomiga，USA）试剂盒进行DNA提取，其操作步骤按说明书进行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 PCR-DGGE与图谱分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 PCR-DGGE ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据参考文献[11]设计出16S rDNA的V3区PCR扩增引物（由上海生物工程有限公司合成)，341F-GC( $5 ^ { \\prime }$ CGCCCGCCGCGCGCGGCGGGCGGGGCGGGGGCACGGGGGGCCTACGGGAGGCAGCAG-3'和518R( $5 ^ { \\prime }$ -ATTACCGCGGCTGCTGG-3'。PCR反应体系（ ${ 5 0 . 0 \\mu \\mathrm { L } }$ ）： $1 0 \\times$ buffer(含氯化镁)5μL， $\\mathrm { { d N T P s } ( 1 0 \\ m m o l / L ) 4 \\ \\mu L }$ ，上、下游引物（ $1 0 \\mathrm { \\ : \\mu m o l / L }$ ）各 $0 . 5 ~ \\mu \\mathrm { L }$ ，模板DNA（ $2 0 ~ \\mathrm { { n g / \\mu L } }$ ） ${ 5 \\mu \\mathrm { L } }$ ，Taq DNA 聚合酶 $( 5 ~ \\mathrm { U / \\mu L } ) 0 . 2 5 ~ \\mu \\mathrm { L }$ ， $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 补足 ${ 5 0 \\mu \\mathrm { L } }$ ，同时设不添加模板的阴性对照；PCR扩增条件：$9 4 ^ { \\circ } \\mathrm { C }$ 预变性 $3 \\mathrm { m i n }$ ; $9 4 ^ { \\circ } \\mathrm { C }$ 变性 $3 0 ~ \\mathrm { s }$ ， $5 7 . 5 ^ { \\circ } \\mathrm { C }$ 退火 $4 0 \\mathrm { ~ s ~ }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $5 0 ~ \\mathrm { s }$ ，30个循环； $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $7 \\mathrm { m i n }$ 。取 ${ 5 \\mu \\mathrm { L } }$ PCR产物用 $1 . 2 \\%$ 的 $1 { \\times } \\mathrm { T A E }$ 琼脂糖凝胶电泳检测。PCR产物采用试剂盒（上海生物工程有限公司）回收，其方法依照试剂盒的使用说明。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用Bio-RadDcode系统进行PCR-DGGE凝胶电泳。凝胶梯度为 $4 0 \\% \\sim 6 0 \\%$ ，变性方向与电泳方向一致。 $100 \\%$ 变性剂溶液含 $7 \\mathrm { m o l / L }$ 尿素和 $40 \\%$ 去离子甲酰胺。使用 $1 \\times$ TAE缓冲液， $7 0 \\mathrm { V }$ 、 $6 0 ^ { \\circ } \\mathrm { C }$ 电泳 $1 4 \\mathrm { h }$ ，PCR产物上样量为 $2 0 ~ \\mu \\mathrm { L }$ 。采用硝酸银染色法，将银染的凝胶放置在白光投射仪上，用数码相机拍照并保存图片。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2PCR-DGGE凝胶图像与数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用Phoretix1D Pro（Totallab）软件对PCR-DGGE图像进行聚类分析。动态变化性计算公式[12]为：$\\%$ change $= 1 0 0 – \\%$ similarity。式中， $\\%$ similarity表示2个相邻时间点相似性的比较； $\\%$ change为变化值或者改变值，表示在一段时间内某个微生态系统的改变或更新程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.616SrDNA随机克隆文库的构建 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6.1 细菌16SrDNAV3区PCR扩增 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以42 日龄黄羽肉鸡回肠黏膜细菌基因组DNA为模板，根据参考文献[11]设计出16S rDNAV3 区的引物（无GC夹）进行PCR扩增。引物（由上海生物工程有限公司合成）：341F（ $5 ^ { \\prime }$ CCTACGGGAGGCAGCAG-3')和 518R( $5 ^ { \\prime }$ -ATTACCGCGGCTGCTGG-3')。PCR反应体系、扩增条件、电泳检测和PCR产物回收同1.5.1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6.2随机克隆文库构建与数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PCR回收产物连接到pMD18-T载体[购于宝生物工程(大连)有限公司]，置于 $4 ^ { \\circ } \\mathrm { C } .$ 冰箱连接过夜，用DH5a感受态细胞[购于宝生物工程(大连)有限公司]进行重组载体转化，将转化产物加入LB培养基中 $3 7 ^ { \\circ } \\mathrm { C }$ 、 $1 6 0 ~ \\mathrm { r / m i n }$ 培养1h后，取适量培养物涂布于LB抗性平板[含 $5 0 ~ \\mu \\mathrm { g / m L }$ 氨苄青霉素（Amp）、$20 \\%$ 异丙基硫代 $- \\beta - D -$ 半乳糖苷（IPTG）和 $2 . 5 \\%$ 5-溴-4-氯-3-吲哚 $\\cdot \\beta - D$ 半乳糖苷（X-gal）]上，将平板移置 $3 7 ^ { \\circ } \\mathrm { C }$ 培养箱中培养 $1 2 \\sim 1 4 \\mathrm { h }$ ，取出置于 $4 ^ { \\circ } \\mathrm { C } .$ 冰箱过夜。从平板中挑取100个白色单菌落，接入LB培养液（含 $5 0 ~ \\mu \\mathrm { g / m L }$ Amp）中，移入摇床 $1 7 0 ~ \\mathrm { r / m i n }$ 、 $3 7 ^ { \\circ } \\mathrm { C }$ 振荡培养 $1 2 \\sim 1 4 \\mathrm { h }$ 。以菌液作为模板，用引物BcaBESTPrimerM13-47[购于宝生物工程(大连)有限公司]扩增pMD18-T载体目的片段，进行阳性克隆PCR鉴定，并挑选阳性克隆子的菌液进行测序（华大基因)，建立克隆文库。文库数据分析方法见文献[13]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肉鸡生产性能数据用SPSS13.0软件进行统计，采用单因素方差分析（one-way ANOVA）程序和Duncan氏多重比较法进行分析，数据结果以“平均值 $\\pm$ 标准误”来表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测序得到的16S rDNAV3区基因序列经DNASTAR 找出目的片段，并在RDP 数据库中寻找相似性序列（相似性 $2 9 5 \\%$ ）进行比对分析。回肠随机克隆文库中克隆子所占比例均采用 $u$ 检验法进行",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "差异显著性分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1岭南黄羽肉鸡的生产性能由表1可知，各组各阶段肉鸡的终未体重、平均日增重、平均日采食量和料重比均无显著差异中 $( P { > } 0 . 0 5 )$ )。由此可见，饲粮中添加酸化剂和硫酸新霉素对不同生长阶段岭南黄羽肉鸡的生产性能无  \n显著影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 1Effects of acidifiers and neomycin sulfate on performance of Lingnan yellow-feathered broilers ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a196bcfdd2c526e651c9b6a212bca722d409717859434fd2a80b99dec95a8a8a.jpg",
+        "table_caption": [
+            "表1酸化剂与硫酸新霉素对岭南黄羽肉鸡生产性能的影响"
+        ],
+        "table_footnote": [
+            "同行数据肩标相同或无字母表示差异不显著（ $. P { > } 0 . 0 5 ^ { \\ }$ )，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td>阶段</td><td>A组</td><td>B组</td><td>C组</td><td>D组</td></tr><tr><td>Items</td><td>Stages</td><td>Group A</td><td>Group B</td><td>Group C</td><td>Group D</td></tr><tr><td>终末体重</td><td>21d</td><td>417.17±5.20</td><td>414.82±5.35</td><td>415.36±4.36</td><td>419.37±5.23</td></tr><tr><td>Final weight/g</td><td>42 d</td><td>1334.14±20.27</td><td>1 358.14±20.78</td><td>1 338.09±17.97</td><td>1 339.22±18.05</td></tr><tr><td>平均日增重</td><td>1~21d</td><td>18.71±0.23</td><td>18.61±0.27</td><td>18.65±0.22</td><td>18.72±0.24</td></tr><tr><td>ADG/g</td><td>22~42 d</td><td>43.37±1.59</td><td>44.92±0.82</td><td>43.94±1.04</td><td>43.78±1.01</td></tr><tr><td></td><td>1~42d</td><td>31.18±0.72</td><td>32.16±0.50</td><td>31.66±0.44</td><td>31.75±0.28</td></tr><tr><td>平均日采食量</td><td>1~21d</td><td>32.21±0.53</td><td>31.16±0.39</td><td>32.22±0.27</td><td>31.27±0.51</td></tr><tr><td>ADFI/g</td><td>22~42 d</td><td>92.87±3.31</td><td>96.05±1.33</td><td>94.81±2.44</td><td>95.42±1.00</td></tr><tr><td></td><td>1~42 d</td><td>62.75±1.71</td><td>63.61±0.56</td><td>63.52±1.29</td><td>63.34±0.42</td></tr><tr><td></td><td>1~21d</td><td>1.74±0.03</td><td>1.71±0.01</td><td>1.75±0.03</td><td>1.69±0.05</td></tr><tr><td>料重比F/G</td><td>22~42 d</td><td>2.31±0.05</td><td>2.33±0.49</td><td>2.44±0.05</td><td>2.35±0.01</td></tr><tr><td></td><td>1~42d</td><td>2.14±0.02</td><td>2.14±0.03</td><td>2.21±0.03</td><td>2.14±0.01</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with the same letter or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean significant difference ( $( P { < } 0 . 0 1 )$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2回肠黏膜细菌DNA提取和16SrDNAV3区PCR扩增回肠黏膜细菌DNA电泳结果发现，片段大小约 $2 3 \\mathrm { k b }$ ，经核酸蛋白仪测定可作为PCR扩增16SrDNAV3 区序列的模板。16S rDNAV3区PCR产物大小约240 bp，片段大小与预期的一致（图略）。克隆子PCR 鉴定结果显示（图1)，用引物 BcaBESTPrimer M13-47扩增的PCR产物大小约 330 bp。条带单一无引物二聚体，片段大小正确的鉴定为阳性克隆子。4组分别从LB抗性平板上随机挑选100个阳性克隆子，A组符合测序的克隆子总数为94个，B组为87个，C组为98个，D组为94个。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M:DL2000； $_ { 1 \\sim 2 3 }$ 泳道：A、B、C及D组LB抗性平板随机挑选的单克隆子；24泳道：阴性对照。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f8b85ad6f2229072c36a4cc7205f00c53fd2639a3f003ed00862956bba29b35.jpg",
+        "img_caption": [
+            "Fig.1 PCR identification of the clones "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M: Marker DL 20oo; lane 1 to 23: clones selected randomly from LB resistance plates in groups A,B, C and D; lane 24: negative control. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图1克隆子PCR 鉴定结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 回肠黏膜菌群结构的相似性与动态变化分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Phoretix1DPro 软件分析PCR-DGGE 图谱发现（表2)，A组与B、C、D 组 $_ { 1 \\sim 4 2 }$ 日龄肉鸡回肠黏膜菌群结构的相似性较低，分别为 $3 6 \\% \\sim 7 5 \\%$ 、 $3 3 \\% \\sim 7 5 \\%$ 、 $40 \\% \\sim 7 1 \\%$ 。聚类分析发现（图2），A 组的1日龄和B组的1日龄聚为一小类，A组的其他日龄单独聚为一小类，且与其他各组的不同日龄均未发生聚类。动态变化趋势分析发现（图3)， $_ { 1 \\sim 4 2 }$ 日龄时4组肉鸡回肠黏膜菌群结构发生变化的程度不同， $_ { 1 \\sim 2 8 }$ 日龄时 A组的动态变化值为 $9 \\% \\sim 3 3 \\%$ ，B、C、D组的动态变化值分别为$8 \\% \\sim 9 0 \\%$ 、 $8 \\% \\sim 5 6 \\%$ 、 $1 7 \\% \\sim 4 5 \\%$ ; $3 5 { \\sim } 4 2$ 日龄时A组的动态变化值仅为 $1 1 \\% \\sim 1 7 \\%$ ，B、C、D组的动态变化值分别为 $5 \\% \\sim 6 7 \\%$ 、 $12 \\% \\sim 2 0 \\%$ 和 $2 9 \\% \\sim 3 3 \\%$ 。由此可见，饲粮中长期添加酸化剂和亚剂量硫酸新霉素导致B组肉鸡 $_ { 1 \\sim 4 2 }$ 日龄、C和 $\\mathrm { ~ D ~ }$ 组肉鸡 $_ { 1 \\sim 2 8 }$ 日龄时回肠黏膜菌群结构发生剧烈变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 2Analysis of the similarity matrix of ileal mucosa microbiota structure of broilers ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e44a2de33bf542954a34941fd7f928e81c2553de2bdc7d849e69b0fd779b4749.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>7</td><td>14</td><td>21</td><td>28</td><td>35</td><td>42</td></tr><tr><td>A 组 Group A*</td><td></td><td>67</td><td>91</td><td>73</td><td>89</td><td>89</td><td>83</td></tr><tr><td>B 组 Group B*</td><td></td><td>50</td><td>10</td><td>33</td><td>92</td><td>95</td><td>33</td></tr><tr><td>C 组 Group C*</td><td></td><td>44</td><td>91</td><td>67</td><td>83</td><td>80</td><td>88</td></tr><tr><td>D 组 Group D*</td><td></td><td>55</td><td>73</td><td>67</td><td>83</td><td>67</td><td>71</td></tr><tr><td>A组×B组#</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Group A×Group B#</td><td>75</td><td>44</td><td>55</td><td>50</td><td>40</td><td>36</td><td>62</td></tr><tr><td>A组×C组#</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>75</td><td>40</td><td>33</td><td>73</td><td>60</td><td>57</td><td>71</td></tr><tr><td>Group A×Group C#</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A组×D组#</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>50</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>50</td><td>60</td><td>40</td><td>55</td><td></td><td>71</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>70</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Group A×Group D#</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\\*表示同一组别相邻2个日龄的相似性比较；\\*表示A组分别与其他组别同一日龄的相似性比较。 \\* mean comparison of the similarity in the same group at adjacent two days of age; # mean comparison of the similarity between group A and other groups at the same days of age, respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3275997aae8c8221ddf6f26ab8f17de7397add7e9d1f22aee3086179e2a7fa7f.jpg",
+        "img_caption": [
+            "Dendrogram: UPGMA(Dice) ",
+            "图2肉鸡回肠黏膜菌群结构相似性聚类分析树状图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A1\\~A42、B1\\~B42、C1\\~C42、D1\\~D42：A组、B组、C组、D组1、7、14、21、28、35、42日龄肉鸡回肠黏膜细菌基因组DNA样品。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A1 to A42, B1 to B42, C1 to C42 and D1\\~D42: samples of genomic DNA of ileal mucosa microbiota of broilers in groups A,B, C and D at 1,7,14, 21, 28,35 and 42 days of age,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.2The similarity clustering analysis dendrogram of ileal mucosa microbiota structure of broilers ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/927c82cb89ab4deca7b84aa370540991a9cf4a88c5d739f101155685a35582f4.jpg",
+        "img_caption": [
+            "图3肉鸡回肠黏膜菌群结构动态变化趋势图",
+            "Fig.3The dynamic change trend curves of ileal mucosa microbiota structure of broilers "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4回肠黏膜菌群多样性分析",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，A组的库容值低于其他3组，OTUs（operational taxonomic units）、香农指数、均匀度、丰富度和辛普森指数均高于B和C组，A组的香农指数和丰富度高于D组，均匀度和辛普森指数与D组相当。说明A组42日龄肉鸡回肠黏膜菌群的多样性高于B、C和D组，菌群多样性信息丰富，物种丰富度高。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/14e349d04405d7a9a8505e0561a47e72c03434f04e64abbcd821336eee32875f.jpg",
+        "table_caption": [
+            "表342日龄肉鸡回肠黏膜菌群多样性分析",
+            "Table 3Analysis of the diversity of ileal mucosa microbiota of broilers at 42 days of age "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别</td><td>OTUs</td><td>库容</td><td>香农指数</td><td>均匀度</td><td>丰富度</td><td>辛普森指数</td></tr><tr><td>Groups</td><td></td><td>Coverage</td><td>Shannon index</td><td>Evenness</td><td>Richness</td><td>Simpson index</td></tr><tr><td>A组 Group A</td><td>16</td><td>83.0%</td><td>1.42</td><td>0.51</td><td>3.30</td><td>0.61</td></tr><tr><td>B组 Group B</td><td>7</td><td>91.9%</td><td>0.62</td><td>0.32</td><td>1.34</td><td>0.25</td></tr><tr><td>C组 Group C</td><td>5</td><td>94.9%</td><td>0.47</td><td>0.29</td><td>0.87</td><td>0.21</td></tr><tr><td>D组 Group D</td><td>9</td><td>90.4%</td><td>1.34</td><td>0.61</td><td>1.76</td><td>0.67</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5 回肠黏膜细菌随机克隆文库分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，A组肉鸡回肠黏膜细菌16S rDNA 随机克隆文库有94个序列，共6个属，归为4个科和2个门；B组有87个序列，共3个属，归为3个科和1个门；C组有98个序列，共2个属于，归为2个科和1个门；D组有 94个序列，共3个属，归为3个科和2个门。四组中未知序列所占克隆总数的比例分别为 $5 5 . 3 2 \\%$ 、 $8 6 . 2 1 \\%$ 、 $8 8 . 7 8 \\%$ 和 $4 7 . 8 7 \\%$ ，这些细菌在GenBank 数据库中找到与其相似性为 $1 0 0 . 0 \\%$ 的序列（FJ471462.1)；其次是厚壁菌门（Firmicutes)，所占克隆总数的比例分别为 $4 3 . 6 2 \\%$ 、 $1 3 . 7 9 \\%$ 、 $1 1 . 2 2 \\%$ 和 $5 1 . 0 6 \\%$ ，厚壁菌门中乳杆菌科（Lactobacillaceae）所占克隆总数的比例最大，分别为 $3 9 . 3 6 \\%$ 、 $6 . 9 0 \\%$ 、 $1 0 . 2 0 \\%$ 和 $5 0 . 0 0 \\%$ 。A和 $\\mathrm { ~ D ~ }$ 组乳杆菌属（Lactobacillus）所占克隆总数的比例分别为 $3 9 . 3 6 \\%$ 和 $5 0 . 0 0 \\%$ ，极显著高于B（ $6 . 9 0 \\%$ ）和C组（ $1 0 . 2 0 \\%$ ） $_ { \\cdot } P { < } 0 . 0 1 \\$ ；A组与其他各组其他菌属的种类与组成比例存在差异，且均未发现与埃希氏菌属（Escherichia）相关序列。由此可见，饲粮中长期添加酸化剂和亚剂量硫酸新霉素会影响 42日龄肉鸡回肠黏膜细菌的种类和组成比例，尤其是优势菌群乳杆菌属的比例。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "182 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表442日龄肉鸡回肠黏膜细菌16SrDNA 随机克隆文库分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "183 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 4Analysis of the random clone library of 16S rDNA of ileal mucosa microbiota of broilers at 42 days of age ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca89550c4d72ce5b37a945613d5662ae07a87d3060ef395335c643ca0469dab2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别</td><td rowspan=\"2\">门</td><td rowspan=\"2\">科</td><td rowspan=\"2\">属</td><td rowspan=\"2\">登录号</td><td rowspan=\"2\">相似性</td><td rowspan=\"2\">克隆数 Clone</td><td rowspan=\"2\">克隆子所点比例 Proportion of clones/% Chinαx咨作期刊</td></tr><tr><td>Accession No. Similarity/%</td></tr><tr><td>Groups</td><td></td><td></td><td></td><td></td><td>S000436960</td><td>100.0</td><td>26</td><td></td></tr><tr><td rowspan=\"10\">A组Group A</td><td rowspan=\"10\"></td><td rowspan=\"10\">La乳eilceae</td><td rowspan=\"10\">乳酸杆菌属 Lactobacilus</td><td>S000397250</td><td>100.0</td><td>3</td><td></td></tr><tr><td>S000008742</td><td>100.0</td><td>1</td><td></td></tr><tr><td>S002249537</td><td>100.0</td><td>1</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>S00114047</td><td>9.0</td><td>11</td><td>39.36（37/94） A</td></tr><tr><td></td><td>100.0</td><td>1</td><td></td></tr><tr><td>S002249734</td><td></td><td></td><td></td></tr><tr><td>S001105961</td><td>100.0</td><td>1</td><td></td></tr><tr><td>S001111484</td><td>100.0</td><td>1</td><td></td></tr><tr><td>S000537228</td><td>97.8</td><td>1</td><td></td></tr><tr><td rowspan=\"8\">总计Total</td><td></td><td>Lac螺菌ceae</td><td>未分类毛螺菌属 Unclassified 假丁酸弧菌属Morella</td><td>S000763547</td><td>97.5</td><td>1</td><td>3.19 (3/94)</td></tr><tr><td></td><td></td><td>Lachnospiracea incertae sedis</td><td>S000326486</td><td>100.0</td><td>1</td><td></td></tr><tr><td></td><td>瘤胃菌科</td><td>clostridium IV</td><td>S000790001 S001546027</td><td>100.0 100.0</td><td>1 1</td><td>1.06 (1/94)</td></tr><tr><td>拟杆菌门 Bacteroidetes</td><td>Ruminococcaceae 普雷沃氏菌科</td><td>普氏菌属Prevotella</td><td>S002175260</td><td>100.0</td><td>1</td><td>1.06 (1/94)</td></tr><tr><td>未知序列 Unknown</td><td>Prevotellaceae</td><td></td><td>FJ471462.1</td><td>99.0~100.0</td><td>52（3）*</td><td>55.32 (52/94)</td></tr><tr><td>sequence</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"5\"></td><td></td><td></td><td>S000436960</td><td>100.0</td><td>94 2</td><td></td></tr><tr><td>Lac乳杆ceae</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>乳酸杆菌属Lactobacillus</td><td>S000397255</td><td>100.0</td><td>２１</td><td>6.90（6/87）B</td></tr><tr><td></td><td></td><td>S001343808</td><td>100.0</td><td>1</td><td></td></tr><tr><td>厚壁菌门 Firmicutes Clcae</td><td>未分类梭菌属dUnclassfied</td><td>S000707277</td><td>100.0</td><td>5</td><td>5.75 (5/87)</td></tr><tr><td rowspan=\"2\"></td><td></td><td>肠球菌科 Enterococcaceae</td><td>肠球菌属 Enterococcus</td><td>S001220665</td><td>95.0</td><td>1</td><td>1.15 (1/87)</td></tr><tr><td>未知序列 Unknown sequence</td><td></td><td></td><td>FJ471462.1</td><td>99.0~100.0</td><td>75（6）*</td><td>86.21（75/87）</td></tr><tr><td rowspan=\"3\">总计Total</td><td></td><td></td><td></td><td></td><td></td><td>87</td><td></td></tr><tr><td></td><td>乳杆菌科</td><td></td><td>S000436960</td><td>100.0</td><td>7</td><td></td></tr><tr><td>厚壁菌门 Firmicutes</td><td>Lactobacillaceae</td><td>乳酸杆菌属 Lactobacilus</td><td>S000397250</td><td>100.0</td><td>2</td><td>10.20（10/98）B</td></tr><tr><td rowspan=\"3\">C 组 Group C</td><td></td><td></td><td></td><td>S001106209</td><td>100.0</td><td>1</td><td></td></tr><tr><td></td><td>瘤胃菌科</td><td>普拉梭杆菌属Faecalibacterium</td><td>S000667649</td><td>99.0</td><td>1</td><td>1.02 (1/98)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/f458fcc66491adb02dd4b02062dcebdf39b5f85dff862e30f126d9b401fdd5ff.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">未知序列Unknown sequence</td><td rowspan=\"5\">Ruminococcaceae</td><td rowspan=\"5\">FJ471462.1</td><td rowspan=\"5\">99.0~100.0</td><td>87（9）*</td><td>88.78(87/98)</td></tr><tr><td>总计Total</td><td></td><td>S000397250 100.0</td><td>98</td><td></td></tr><tr><td colspan=\"3\"></td><td>20</td></tr><tr><td>S000436960</td><td>100.0</td><td>22</td></tr><tr><td rowspan=\"5\"></td><td rowspan=\"5\">La乳菌cae 乳酸杆菌属Lactobacillus</td><td>S00035227</td><td>9.0</td><td>12</td><td>50.00（47/94）A</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>S000330124</td><td>100.0</td><td>1</td><td></td></tr><tr><td>S000859527</td><td>98.0</td><td>1</td><td></td></tr><tr><td>未分类毛螺菌属Unclassified S000013969</td><td>100.0</td><td>1</td><td>1.06 (1/94)</td></tr><tr><td></td><td>放线菌门 Actinobacteria 未知序列Unknown</td><td>Lachnospiraceae 微球菌科 Micrococcaceae</td><td>Lachnospiraceae 涅斯捷连科氏菌属Nesterenkonia</td><td>S000536435</td><td>100.0</td><td>1</td><td>1.06 (1/94)</td></tr><tr><td>总计Total</td><td>sequence</td><td></td><td></td><td>FJ471462.1</td><td>100.0</td><td>45（6）＊</td><td>47.87 (45/94)</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "表中只列出相似性 $2 9 5 \\%$ 的序列。未知序列是指在RDP与GenBank 数据库中均未找到相似性 $2 9 5 \\%$ 的序列； $\\star _ { N }$ （n）表示 $N$ 个序列（其中有 $N _ { - n }$ 个相同克隆子或序列， $n$ 个不同克隆子或序列）均在 RDP数据库中未找到与其相似的序列，而在GenBank 数据库中找到与其相似性 $2 9 9 \\%$ 的序列。同列数据乳杆菌属所占克隆总数的比例肩标不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ ，相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Sequence similarity $2 9 5 \\%$ was listed. Unknown sequence mean sequence similarity $2 9 5 \\%$ could not be found in the RDP and GenBank data base. ${ } ^ { \\star } N ( n )$ mean $\\mathrm { \\Delta N }$ sequences (included N-n identical clones or sequences and $n$ diferent clones or sequences) similar sequences could not be found in RDP data base, but sequences similarity $2 9 9 \\%$ could be fo difference ( $_ { . } { \\cal P } { < } 0 . 0 1$ ）， while with the same or no letter superscripts mean no significant difference ( $_ { . P > 0 . 0 5 ) }$ ： ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "肉鸡生长速度快，易受生理、环境等因素的影响造成肠道酸度不足和炎症，而酸化剂可调节肠道适宜的酸性环境，酸化剂和抗生素均可抑制有害菌、促进有益菌增殖和消除肠道炎症；但长期使用酸化剂和抗生素，会扰乱宿主肠道菌群的平衡。本试验PCR-DGGE图谱分析表明， $_ { 1 \\sim 4 2 }$ 日龄时A组与B、C、D组肉鸡回肠黏膜菌群结构的相似性较低， $_ { 1 \\sim 2 8 }$ 日龄时B、C和D组回肠黏膜菌群结构发生剧烈变化，$3 5 { \\sim } 4 2$ 日龄时B组回肠黏膜菌群结构发生剧烈变化。试验期间观察肉鸡的采食、饮水、排泄等行为均表现正常，各组肉鸡的生产性能无显著差异，显示了酸化剂与抗生素的持续压力造成肠道内环境发生改变，迫使黏膜细菌重新选择与定植，导致黏膜菌群的多样性相对减少，各组回肠黏膜菌属的种类与组成比例存在差异，尤其是乳酸杆菌属的组成比例。宿主肠道微生物丛的成熟和稳定性受年龄、饲粮组分、抗生素、遗传等因素的影响，进而影响宿主的生命活动[14-15]。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "酸化剂在家禽生产中的应用研究滞后于仔猪。研究表明，饲粮中添加酸化剂能显著降低鸡十二指肠[16]、回肠[16-18]、空肠[19]和盲肠[17,1-22内容物中大肠杆菌的数量，但对乳酸杆菌数量影响的报道有争议。抗生素的主要功能是疾病防治和促生长，对肠道微生态影响的研究鲜有报道，且主要集中在常见抗生素促生长剂对鸡肠道内容物微生物的影响，如阿维菌素、亚甲基水杨酸杆菌肽、恩拉霉素、维吉尼亚霉素、盐霉素等[14,2-27]。然而，抗生素促生长剂已被世界各国禁止在畜禽饲粮中添加使用或限制其最高用量，近年来关于饲用抗生素对动物肠道微生态影响的研究资料极少。本研究旨在探讨酸化剂与硫酸新霉素（农业部许可使用）对肉鸡回肠黏膜菌群的影响，研究发现，A和D组乳杆菌属所占克隆总数的比例分别为 $3 9 . 3 6 \\%$ 和 $50 . 0 0 \\%$ ，极显著高于B（ $6 . 9 0 \\%$ ）和C组（ $1 0 . 2 0 \\%$ )，这与多数有关酸化剂对鸡回肠内容物乳酸杆菌的影响结果不一致，其原因可能是酸化剂的组成种类和处理技术不同。未经包被的酸化剂进入胃肠道后迅速发挥酸化作用，降低肠道pH，抑制大肠杆菌等有害菌的增殖，而对有益菌未发生显著影响；酸化剂经包被后不易被饲粮成分中和，达到缓释效果，调节肠道pH，能显著提高乳酸杆菌等有益菌的增殖[20.28]。各组肉鸡回肠黏膜细菌16S rDNA随机克隆文库分析均未发现与埃希氏菌属(Escherichia)相关序列，其原因可能是：1）肉鸡的品种不同，肠道微生物的选择与定植不同。报道认为， $5 { \\sim } 6$ 周龄罗氏（ROSS）肉鸡回肠黏膜中可检测到埃希氏菌属相关系列[29-30]，与本试验结果不一致；2）细菌的适宜生长环境不同。大多数有害菌适宜在中性偏碱性环境中生长，如大肠杆菌pH为 $6 . 0 \\sim 8 . 0$ ，而有益菌更适宜于在酸性环境中生长（pH为 ${ 5 . 4 } { \\sim } 6 . 4$ ）。本试验测得各组肉鸡（42日龄）整个肠道（嗦囊至盲肠)内容物均属于酸性环境（pH为 $3 . 2 { \\sim } 6 . 7$ ）（数据未列出），较适宜有益菌的生长。此外，回肠黏膜细菌16S rDNA随机克隆文库分析发现，饲粮中长期添加亚剂量硫酸新霉素能增加回肠黏膜优势菌群乳酸杆菌属的组成比例，提示亚剂量抗生素作为预防用药在畜禽生产上的应用将是新的研究方向，是一种积极信号，其结果目前暂未见文献报道，有待深入研究。而有关酸化剂或抗生素、肠腔微生物和黏膜微生物3者间相互影响的研究目前尚不清楚，关于饲用抗生素与肠道黏膜菌群的相互影响需进一步研究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "饲粮中长期添加酸化剂和亚剂量硫酸新霉素会使 $_ { 1 \\sim 2 8 }$ 日龄岭南黄羽肉鸡回肠黏膜菌群结构发生 剧烈变化，42日龄肉鸡回肠黏膜菌群的多样性下降，乳酸杆菌属的组成发生改变。 参考文献: [1]SAVAGEDC.Microbialecologyofthegastrointestinaltract[J].AnnualReviewof Microbiology,1977,31(1):107-133. [2] ZOETENDAL E G,COLLIER C T,KOIKE S,et al.Molecular ecological analysis of the gastrointestinal microbiota:a review[J].The Journal of Nutrtion,2004,134(2):465-472. [3]MANZANILLA E G,PEREZ JF,MARTIN M,et al.Effect of plant extracts and formic acid on the intestinal equilibrium of early-weaned pigs[J].Journal of Animal Science,2004,82(11):3210-3218. [4] ABDEL-FATTAH S A,EL-SANHOURY M H,EL-MEDNAY N M,et al.Thyroid activity,some blood constituents,organsmorphologyandperformanceofbroilerchicksfedsupplementalorganic acids[J].International Journal of Poultry Science,2008,7(3):215-222. [5] GARCIA V,CATALA-GREGORI P,HERNANDEZ F,et al.Eect of formic acid and plant extracts on growth nutrient digestibility,intestine mucosa morphology,and meat yield of broilers[J].The Journal of Applied Poultry Research,2007,16(4):555-562. [6] HEMANDEZ F,GARCiA V,MADRID J,et al.Efect of formic acid on performance,digestibility,intestinal histomorphologyandplasmametabolitelevelsofbroilerchickens[J].BritishPoultry Science,2006,47(1):50-56. [7] JUNIOR P C M,BEIRAO B C B,FILHO T F,et al.Use of blends of organic acids and oregano extracts in feed and water of broiler chickens to control Salmonella enteritidis persistence in the crop and ceca of experimentally infected birds[J].The Journal of Applied Poultry Research,2014,23(4):671-682. [8] PAUL S K,SAMANATA G,HALDER G,et al.Effect of a combination of organic acid salts as antibiotic replacer on the performance and gut health of broiler chickens[J].Livestock Research for Rural Development,2007,19(11):1-11. [9] LI M,GONG J H,COTTRILL M,et al.Evaluation of QIAampR $@$ DNA stool mini kit for ecological studies of gut microbiota[J].Journal of Microbiological Methods,2002,54(1):13-20. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[10] 张洁,容庭,刘志昌,等.两纯系鸡胃肠道黏膜细菌l6S rDNA 的PCR-DGGE 分析比较[J].畜牧兽医学报,2013,44(2):204-210.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[11] MUYZER G,DE WAAL E C,UITTERLINDEN A G.Profiling of complex microbial populations by denaturing gradient gel electrophoresis analysis of polymerase chain reaction-amplified genes coding for 16S rRna[J].Applied and Environmental Microbiology,1993,59(3):695-700.   \n[12]MARZORATI M,WITTEBOLLE L,BOON N,et al.Howtoget more out of molecular fingerprints:practical tools for microbial ecology[J].Environmental Microbiology,2008,10(6):1571-1581. [13] 容庭,张洁,王刚,等.l6S rDNA克隆文库方法分析两纯系鸡回肠及盲肠黏膜细菌的组成[J].畜牧兽医 学报,2014,45(8):1218-1227.   \n[14] PEDROSO A A,MENTEN JF M,LAMBAIS M R,et al.Intestinal bacterial community and growth performance of chickens fed diets containing antibiotics[J].Poultry Science,2006,85(4):747-752.   \n[15] LUMPKINGS B S,BATAL A B,LEE M D.Evaluation of the bacterial community and intestinal development of different genetic lines of chickens[J].Poultry Science,2010,89(8):1614-1621.   \n[16] 刘艳利,辛洪亮,黄铁军,等.酸化剂对蛋鸡生产性能、蛋品质及肠道相关指标的影响[J].动物营养 学报,2015,27(2) :526-534.   \n[17] GUNAL M,YAYLI G,KAYA O,et al.The effects of antibiotic growth promoter,probictic or organic acid supplemmtation on performance,intestinal microflora and tissue of broilers[J].International Journal of Poultry Science,2006,5(2):149-155.   \n[18] ENGBERG R M,HEDEMANN M S,JENSEN B B.The influence of grinding and pelleting of feed on the microbial composition and activity in the digestive tract of broilerchickens[J].British Poultry Science,2002,43(4):569-579.   \n[19] 罗四维.复合酸化剂对肉仔鸡生产性能和消化道内环境的影响[D].硕士学位论文.扬州：扬州大 学,2010.   \n[20] 许丽惠,樊倩,张杰,等.包被酸化剂对黄羽肉鸡生长性能、消化道内环境及血清生化指标的影响[J]. 动物营养学报,2016,28(2):585-592.   \n[21] 赵旭,沈一茹,陈杰,等.不同种类酸化剂对肉鸡肠道发育、消化酶活性以及微生物数量的影响[J]. 动物营养学报,2015,27(11) :3509-3515.   \n[22] AL-KASSI A G,MOHSSEN M A.Comparative study between single organic acid effect and synergistic organic acid efect on broiler performance[J].Pakistan Journal of Nutrition,20o9,8(6):896-899. [23] KNARREBORG A,SIMON M A,ENGBERG RMJENSEN B B,et al.Effects of dietary fat source and subtherapeutic levels of antibiotic on the bacterial community in the ileum of broiler chickens at various ages[J].Applied and Environmental Microbiology,2002,68(12):5918-5924.   \n[24] SMIRNOV A,PEREZ R,AMIT-ROMACH E,et al.Mucin dynamics and microbial populations in chicken small ntestine are changed by dietary probiotic and antibiotic growth promoter supplementation[J].The Journal of Nutrition,2005,135(2):187-192.   \n[25] DUMONCEAUX T J,HILL JE,SEAN M,et al.Characterization of intestinal microbiota and response to dietaryvirginiamycinsupplementationinthebroilerchicken[J].AppliedandEnvironmental Microbiol0gy,2006,72(4):2815-2823.   \n[26] ZHOU H,GONG J,BRISBIN JT,et al.Appropriate chicken sample size for identifying the composition of broiler intestinal microbiota affected by dietary antibiotics,using the polymerase chain reaction-denaturing gradient gel electrophoresis technique[J].Poultry Science,2007,86(12):2541-2549.   \n[27] JOHANSEN C H,BJERRUM L,PEDERSEN K.Impact of salinomycin on the intestinal microflora of broiler chickens[J].Acta Veterinaria Scandinavica,2007,49(30):1-8.   \n[28] 晏家友.缓释复合酸化剂对断奶仔猪消化道酸度及肠道形态和功能的影响[D].硕士学位论文.雅安: 四川农业大学,2009:25-30.   \n[29] GONG JH,FORSTER R J,YU H,et al.Molecular analysis of bacterial populations in the ileum of broiler chickens and comparison with bacteria in the cecum[J].FEMS Microbiology Ecology,2002,41(3):171-179. [30] GONG JH,SI W D,FORSTER R J,et al.16S rRNA gene-based analysis of mucosa-associated bacterial community and phylogeny in the chicken gastrointestinal tracts:from crops to ceca[J].FEMs Microbiology Ecology,2007,59(2):147-157. Effects of Acidifiers and Antibiotics on Ileal Mucosa Microbiota of Yellow-Feathered Broilers   \nRONG Ting1CHEN Zhuang2\\* LIU Zhichang1WANG Gang1MA Xianyong1ZHANG JielDENG Dun1 (1. Institute of Animal Science, Guangdong Academy ofAgricultural Sciences, State Key Laboratory of   \nLivestock and Poultry Breeding, Guangdong Public Laboratory of Animal Breeding and Nutrition, Guangdong ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key Laboratory of Animal Breeding and Nutrition, Guangzhou 510640, China; 2. Guangdong Academy of Agricuuurul Sciences, Guungznou Sivu4v, Cninuj ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment Was conducted to study the effects of dietary long-term supplemented with acidifiers and subclinical doses of neomycin sulfate on the ileal mucosa microbiota composition and dynamic changes of yellow-feathered broilers.Eight hundred 1-day-old healthy Lingnan yellow-feathered broilers were randomly divided into 4 groups with 5 replicates per group and 40 broilers per replicate. Broilers in control group (group A) were fed a basal diet, and the others in groups B, Cand D were fed the basal diets supplemented with $0 . 2 \\%$ （204号 acidifier I, $0 . 3 \\%$ acidifier $\\mathrm { I I }$ and $5 0 ~ \\mathrm { m g / k g }$ neomycin sulfate, respectively. The experiment lasted for 42 days. Ilal mucosa of broilers were collcted and microbiota DNA were extracted at 1,7,14,21,28,35 and 42 days of age，respectively. Ileal mucosa microbiota structure of broilers were analyzed by polymerase chain reaction-denaturing gradient gel electrophoresis (PCR-DGGE),and the random clone library of 16S rDNA of ileal mucosa microbiota of broilers at 42 days of age were established by 16S rDNA gene sequences technology. The results of dynamic change trend analysis showed that the change degree of ileal mucosa microbiota structure of broilers in 4 groups was diferent, the dynamic change value at 1 to 28 days of age in 4 groups were $9 \\%$ to $3 3 \\%$ ， $8 \\%$ to $90 \\%$ ， $8 \\%$ to $56 \\%$ and $1 7 \\%$ to $45 \\%$ , respectively. The results of the random clone library of ileum mucosa microbiota analysis showed that 16 operational taxonomic units (OTUs)(form 94 sequences) were detected in group A,7 OTUs (form 87 sequences) in group B,5 OTUs (form 98 sequences) in group C and 9 OTUs (form 94 sequences) in group D. The proportion of Lactobacillus in the total number of clones in groups A and $\\mathrm { ~ D ~ }$ was $3 9 . 3 6 \\%$ and $5 0 . 0 0 \\%$ ， which was significantly higher than that in groups B （204号 $( 6 . 9 0 \\% )$ and C $( 1 0 . 2 0 \\% )$ 1 $( P { < } 0 . 0 1 )$ .The type and composition proportion of other species were different between groups A and the others. In addition,sequence related to Escherichia were not detected in all groups. These results indicate that dietary long-term supplemented with acidifiers and subclinical doses of neomycin sulfate can cause remarkably change of the ileal mucosa microbiota structure of Lingnan yelow-feathered broilers at 1 to 28 days of age,decreasing of the diversity of ileal mucosa microbiota of broilers at 42 days of age,change of the composition of Lactobacilus,and the changes and differences may be caused by the acidifier and antibiotic continuous pressure. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Key words: acidifier； neomycin sulfate;Lingnan yelow-feathered broilers;intestinal mucosa microbiota;PCR-DGGE; 16S rDNA clone library",
+        "page_idx": 17
+    }
+]

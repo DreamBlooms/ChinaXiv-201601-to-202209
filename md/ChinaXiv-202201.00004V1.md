@@ -1,0 +1,197 @@
+# 2010\~2020中国内地初中生心理健康问题检出率的元分析
+
+张亚利1 靳娟娟1 俞国良2(中国人民大学教育学院;²中国人民大学心理研究所，北京100872)
+
+摘要初中生心理健康问题的检出率在诸多研究中存在很大分歧，未能为心理健康政策制定和服务体系建设提供充分依据。为明确心理健康问题的整体检出率并澄清其影响因素，对 $2 0 1 0 { \sim } 2 0 2 0$ 年检索到的文献进行了元分析。结果发现，初中生面临不同程度的心理健康问题，其中焦虑、抑郁和自我伤害检出率排在前三位；初中生心理健康问题随年代发展呈恶化趋势，其中焦虑和自杀企图尤为明显；初中生心理健康问题检出率饱受测量工具、检出标准和检出时间不统一的影响；初中生心理健康问题检出率整体上随年级而增加，其中焦虑尤为明显；女生的心理健康问题检出率高于男生，自杀尤为明显；中西部地区的初中生比东北和东部地区更容易出现心理健康问题，尤其是焦虑和自我伤害。未来应立足中国大地研制科学的测量工具和筛查标准并建立心理健康动态监测体系和学校心理健康服务体系。
+
+关键词 心理健康，检出率，初中生，元分析
+
+# 1引言
+
+初中生正处于青春期，其生理和心理都处于急速发展阶段，被喻为“疾风骤雨期”。在心理发展上，初中生虽然比小学生更加成熟，但健全人格仍未形成，面对生活中的压力性事件时仍然容易出现一些心理健康问题。不仅如此，数字化时代的到来，使得当代初中生成为了数字原住民，自出生至死亡都紧紧嵌套于网络与数字化环境中。也正是这种网络使用的文化潮流给初中生心理健康带来了新的威胁(俞国良，王浩,2020)。当然，初中生心理健康问题的频发还与其本身面临的学业负担及中考压力有关，社会转型阶段的知识与人才需求逐渐传导到当代中学生的培养过程中，使初中生面临更大的学业压力。总之，种种原因都可能使得初中生心理健康面临更大的挑战，因此，初中生的心理健康保健是不容忽视的现实问题。
+
+初中生心理健康问题已被心理学、教育学、社会学、生物学、公共卫生与预防医学等众多领域关注。众多领域对该问题的探讨总是围绕描述、解释、预测和控制展开，其中“描述"起着基础和核心的作用。在描述工作中，关于心理健康问题的发生率又是极为重要的议题。如有研究发现初中生抑郁的检出率为 $10 \% { \sim } 6 0 \%$ 不等(Chi etal.,2020;Guo et al.,2014；张婉婉 等,2013),焦虑的检出率为 $6 \% { \sim } 5 8 \%$ （204号不等(杜春燕 等,2016；雍那 等,2018; Zhang etal.,2019)。但也可以看出，关于该问题的描述结果很不一致，检出率之间相差很大，反而给心理健康工作者带来了困惑。因此，初中生总体心理健康状况不佳的比例究竟多大依旧不得而知。面对该问题，近年来有研究者不再描述初中生心理健康问题的发生率，转而描述心理健康的一般水平，如有研究发现，1987\~2013年我国初中生心理健康水平呈现区域性恶化趋势，中西部地区下降趋势尤为明显(王勍，俞国良,2017)。该视角虽然揭示了初中生心理健康问题的变迁特点，但仍然无法揭示初中生心理健康问题的总体检出率，亦无法调和当下研究中检出率不一致的矛盾结果，更无法为相关部门和工作者提供准确的判断依据。
+
+近年来，元分析技术的出现与成熟运用为解决该问题提供了可能。关于初中生心理健康问题检出率结果不一致的现象大多受到了取样人数、地域、测量工具等因素的影响。元分析则可以对原始研究加以整合，从宏观角度得出更普遍、更精确的结论，并且推断研究结果异质性的原因，为心理健康的精准干预提供高质量的证据支持。目前个别研究对我国青少年的自杀企图(Hu et al.,2015)和抑郁(Tang etal.,2019)的检出率进行了元分析，但存在着不完善的地方。首先，其并未纳入未发表的文献，存在着纳入偏倚。其次，其仅仅着眼了心理健康问题中的某一方面，分析的并不全面，无法从整体上审视心理健康问题的一般状况。此外，其往往将初中生和高中生混合在一起分析，未能精准的考虑初中生这一独立的学段群体。初中生和高中生虽然同为青少年，但两者生理心理发展的规律以及面临的主要学习任务均不相同，因而初中生心理健康问题充满了独特性。因此，本研究拟用元分析的方法对初中生较为典型的心理健康问题检出率进行估计，以澄清以往原始研究中研究结论不一致的问题。从而更加清晰地描述我国初中生的一般状况，为心理健康服务体系的建设提供更加详实的资料。
+
+关于心理健康的内涵目前存在病理学取向、积极取向和完全取向三种不同的观点，本研究中关注的是心理健康问题的检出率，因而依据的是病理学取向，认为心理健康是精神病理学症状的不显著状态。由于无法全部覆盖所有的心理健康问题指标，沿用当下研究中的经典框架(Achenbach,1966)，本研究将心理健康问题操作化的界定为内化问题和外化问题两大类。此外，初中生正处于“疾风骤雨期”，其身心发展的不协调、心理活动的矛盾状态、情绪表现的两极性以及自我意识不成熟带来的极端性或偏执性的个性特点，容易导致初中生出现一些情绪问题和自我伤害问题(俞国良，张亚利,2020)。有鉴于此，本研究结合文献梳理，重点关注初中生内化问题中的焦虑、抑郁、睡眠问题和自杀意念和自杀计划的检出率以及外化问题中的自我伤害和自杀未遂的检出率。
+
+# 2 方法
+
+# 2.1 文献检索与筛选
+
+本研究中包括的心理健康指标较多，但在检索过程中是根据不同心理健康指标独立开展的。与既有类似研究不同的是，为了更加全面的纳入文献，避免纳入偏倚的出现，本研究还尽可能的检索了未发表的文献。另外，在检索时对于关心的特定学生群体也未加限定，而是在全面检索之后，再进行筛选。检索数据库中文使用的是知网期刊和硕博论文数据库，英文使用的是WebofScience 核心合集数据库，检索范围设定为摘要。中文数据库检索时，焦虑需包含关键词“焦虑”和“检出率”；抑郁需包含关键词“抑郁”和“检出率”；睡眠问题需包括关键词（“睡眠问题”或“睡眠障碍”或“失眠”)和“检出率”；自我伤害需包括关键词“自我伤害”和“检出率”；自杀需包括关键词“自杀”和“检出率”。英文数据库检索时，焦虑需包含关键词"anxi\*”and（"prevalence”or“detection rate"）and“Chin\*”；抑郁需包含关键词"depress\*”and（"prevalence”or“detection rate"） and“Chin\*”；睡眠问题需包括关键词("sleep”or“insomnia"）and（"prevalence”or“detection rate")and“Chin\*"；自我伤害需包括关键词("self-harm”or“self-harm”or"self-injury” or “self injury") and("prevalence” or“detection rate") and “Chin\*"；自杀需包括关键词"suicid\*"and("prevalence”or“detection rate”)and“Chin\*”。为增加元分析结果的实效性和政策咨询的可参考性，本研究将检索时间段设为2010年1月1日至2020年12月31日。最终共获取文献：焦虑3126篇，抑郁 3844篇，睡眠问题1255篇，自我伤害145篇，自杀554篇。
+
+使用EndNoteX9导入文献并按照如下标准筛选：(1)需为实证研究且为一手资料。(2)报告了检出率或能够计算检出率的必要信息且正确无误。(3)须对测量工具有明确介绍。(4)数据重复发表的仅取其一。(5)研究对象为中国初中阶段或对应年龄段(12\~15岁)学生。(6)研究对象不是特殊人群，如贫困生、留守儿童等。文献筛选过程由1位博士生完成，最后按心理健康指标分配给3位博士生随机抽取 $10 \%$ 剔除文献和保留文献进行核查，出现不一致结果需要与最初文献筛选者协商解决。文献筛选流程见图1。
+
+![](images/52dd4790edf400ae7e3f9024968e61f97680922b993c1d838e8a3124d6faa615.jpg)  
+图1文献纳入流程
+
+# 2.2 数据提取和编码
+
+每篇研究根据以下特征进行数据提取和编码：作者、出版年、取样地区、检出率、被试数、测量工具、检出标准、检出时间段和出版类型。如果追踪研究在多个时间点收集了发生率，则提取第一次的数据；在同一时间点采用多种评估方法时，提取测量工具效果最佳的结果；基于相同数据的多篇研究，提取信息最全面的一篇。编码先由1位博士生完成，完成后由另一位博士生对照原文核查。若核查出与原文不一致的情况，经过讨论进行更正。最终纳入文献的详细信息均可开放获取(https://osf.io/7uewg/)。
+
+# 2.3 出版偏倚控制与检验
+
+出版偏倚是指阳性的结果被出版的几率更大，所以仅检索发表出来的文献未必能全面的代表整个领域的研究。本研究还检索了未公开发表的硕博论文库，一定程度上减少了出版偏倚的出现。此外，本研究还将使用漏斗图和Egger's 回归法检验是否存在出版偏倚。于漏斗图而言，如果图形呈现一个对称的倒漏斗形状，则表明出版偏倚较小；于Egger's回归而言，如果线性回归的结果不显著，代表出版偏倚较小。
+
+# 2.4 模型选择
+
+估计总体效应值的方法分为固定和随机模型两种。前者假设众多原始研究测量的结果包括相同的真值和随机误差两部分，肉眼看到的结果差异全部由随机误差导致。后者假设众多研究测量的结果由真值、系统误差和随机误差三部分组成，结果的差异除了受随机误差影响，还受不同种类的系统误差影响，如测量工具、检出标准等。文献编码过程中，本研究发现众多研究样本特征(如测量工具、取样地等)不尽相同，因而选用随机效应模型进行元分析。另外，本研究还将通过异质性检验中的 $\varrho$ 检验结果以及 $I ^ { 2 }$ 值两个指标查看模型选择的适切性。若 $\varrho$ 检验结果显著或 $I ^ { 2 }$ 的值高于 $7 5 \%$ ，则选择随机效应模型更合适，反之，选用固定效应模型更合适(Huedo-Medina et al.,2006)。
+
+# 2.5 数据处理
+
+使用软件Comprehensive Meta-Analysis Version 3.3 进行检出率的总体估计和调节效应检验。计算合并检出率时，CMA软件会将输入的比率数据转化为logit数据 $[ \mathrm { l o g i t = L o g ( p / ( l - p ) } ) ]$ 进行分析 $\begin{array} { r } { \mathrm { ( v a r ( l o g i t ) = \frac { 1 } { c a s e } + \frac { 1 } { n o n \_ c a s e } ) } } \end{array}$ ，分析完成后会将logit 结果再次转换为比率数据输出(Card,2012)。分析调节效应时采用两种形式：(1)当调节变量为连续变量时采用元回归分析考察结果是否显著； (2)当调节变量为分类变量时采用亚组分析检验结果是否显著。亚组分析时为了保证调节变量每个水平下的研究均能代表该水平，参照既有研究(张亚利 等,2021)，每个水平下的效应量个数应不少于3个。
+
+# 3 结果
+
+# 3.1 文献纳入情况
+
+本研究中，(1)焦虑共纳入研究50 篇(50个效应值，83879 名被试)，包括硕博论文13篇，期刊论文37篇；(2)抑郁共纳入研究95篇(95个效应值，196096名被试)，包括硕博论文16篇，期刊论文 79 篇；(3)睡眠问题共纳入研究 21篇(21个效应值，61190 名被试)，包括硕博论文4篇，期刊论文17篇； (4)自我伤害共纳入研究 24 篇(24个效应值，98408 名被试)，包括硕博论文3篇，期刊论文 21篇；(5)自杀意念共纳入研究 26 篇(26个效应值，128622 名被试)，包括硕博论文2篇，期刊论文24篇；(6)自杀计划共纳入研究8篇(8个效应值，29534名被试)，包括硕博论文2篇，期刊论文6篇；(7)自杀企图共纳入研究16 篇(16个效应值，114040名被试)，包括硕博论文2篇，期刊论文14篇。
+
+# 3.2 异质性检验
+
+本研究对纳入的效应量进行异质性检验，以便确定采用随机效应模型是否恰当，以及是否有必要进行调节效应分析。检验结果发现(表1)，各心理健康指标的Q值均显著，且 $I ^ { 2 }$ 值均超过了 $7 5 \%$ 的标准(Huedo-Medina etal.,2006)，表明选用随机效应模型是恰当的。该结果也提示不同研究间的估计值差异可能受到了一些研究特征因素的干扰，可进行调节效应分析。
+
+# 3.3 主效应检验
+
+采用随机效应模型分别对纳入的各类心理健康问题进行分析，结果显示：(1)焦虑的检出率为 $2 6 . 9 \%$ ;(2)抑郁的检出率为 $23 . 9 \%$ ;(3)睡眠问题的检出率为 $1 6 . 7 \%$ (4)自我伤害的检出率为 $2 2 . 4 \%$ ； (5)自杀意念的检出率为 $1 7 . 1 \%$ ；(6)自杀计划的检出率为 $6 . 6 \%$ ;(7)自杀企图(未遂)的检出率为 $3 . 9 \%$ (表1)。
+
+表1初中生心理健康问题的检出率  
+
+<html><body><table><tr><td rowspan="2">心理健康问题种类k被试数</td><td colspan="4">效应值及95%的置信区间</td><td colspan="2">异质性检验</td></tr><tr><td></td><td>检出率</td><td>下限</td><td>上限</td><td></td><td>p</td></tr><tr><td>焦虑</td><td>50 83879</td><td>0.269</td><td>0.235</td><td>0.306</td><td></td><td>99.180<0.001</td></tr><tr><td>抑郁</td><td>95 196096</td><td>0.239</td><td>0.215</td><td>0.264</td><td></td><td>99.308<0.001</td></tr><tr><td>睡眠问题</td><td>21 61190</td><td>0.167</td><td>0.146</td><td>0.191</td><td></td><td>97.854<0.001</td></tr><tr><td>自我伤害</td><td>24 98408</td><td>0.224</td><td>0.172</td><td>0.286</td><td></td><td>99.732<0.001</td></tr><tr><td>自杀意念</td><td>26 128622</td><td>0.171</td><td>0.151</td><td>0.193</td><td></td><td>98.955<0.001</td></tr><tr><td>自杀计划</td><td>8 29534</td><td>0.066</td><td>0.0488</td><td>0.089</td><td></td><td>97.985<0.001</td></tr><tr><td>自杀企图(未遂)</td><td>16 114040</td><td>0.039</td><td>0.035</td><td>0.045</td><td></td><td>94.098 <0.001</td></tr></table></body></html>
+
+敏感性分析发现，排除任意一个样本后的焦虑的总体检出率在 $2 6 . 3 \% \sim 2 8 . 1 \%$ 之间浮动；抑郁的总体检出率在 $2 3 . 6 \% \sim 2 4 . 2 \%$ 之间浮动；睡眠问题的总体检出率在 $1 6 . 2 \% \sim 1 7 . 9 \%$ 之间浮动；自我伤害的总体检出率在 $2 1 . 0 \% \sim 2 3 . 6 \%$ 之间浮动；自杀意念的总体检出率在 $1 6 . 6 \% \sim 1 7 . 8 \%$ 之间浮动；自杀计划的总体检出率在 $5 . 9 \% \sim 7 . 7 \%$ 之间浮动；自杀企图的总体检出率在 $3 . 7 \% \sim 4 . 2 \%$ 之间浮动，均与各自的总体估计值相差不大，说明元分析最终的估计结果具有较高的稳定性。
+
+# 3.4 调节效应检验
+
+就焦虑而言，结果发现：(1)出版年份的调节效应显著 ${ ( b = 0 . 0 8 }$ ， $9 5 \% C \mathrm { I } { = } [ 0 . 0 2$ 0.13])，进一步的分析发现 $2 0 1 0 { \sim } 2 0 1 4$ 年的检出率为 $24 \%$ ， $2 0 1 5 { \sim } 2 0 2 0$ 年的检出率为 $31 \%$ ，说明近10 年来焦虑问题的检出率越来越高；(2)测量工具的调节效应显著，使用MSSMHS量表测得的检出率最高，其次是CSSAS，最后是SAS 和SCARED，表明不同的工具及筛查标准是影响检出率高低的重要因素；(3)检出时间的调节作用显著，1周与3个月的检出率接近，但被试被问及最近一段时间的焦虑情绪时检出率最高。表明检出时间的差异可能是影响检出率高低的因素；(4)年级的调节效应显著，初一至初三学生的检出率随年级递增；(5)性别的调节作用不显著，男生和女生的检出率相当；(6是否独生的调节作用不显著，独生和非独生群体检出率相当；(7)生源地的调节作用不显著，城镇与农村初中生焦虑检出率相当；(8)经济区域的调节作用显著，东北地区检出率最低，东部和中部地区居中，西部地区最高。
+
+表2焦虑检出率的调节效应分析  
+
+<html><body><table><tr><td rowspan="2">调节变量</td><td colspan="2">异质性检验</td><td rowspan="2">类别</td><td rowspan="2">k</td><td rowspan="2">检出率</td><td colspan="2">95% CI</td></tr><tr><td>QB df p</td><td></td><td>下限</td><td>上限</td></tr><tr><td rowspan="4">测量工具+检出标准30.483</td><td rowspan="4"></td><td rowspan="4"><0.001</td><td>CSSAS2</td><td>3</td><td>0.35</td><td>0.25</td><td>0.47</td></tr><tr><td>MSSMHS2</td><td>11</td><td>0.44</td><td>0.38</td><td>0.51</td></tr><tr><td>SAS50</td><td>15</td><td>0.25</td><td>0.21</td><td>0.29</td></tr><tr><td>SCARED23</td><td>10</td><td>0.26</td><td>0.22</td><td>0.32</td></tr><tr><td rowspan="3">检出时间</td><td rowspan="3">25.8942</td><td rowspan="3"><0.001</td><td>1周</td><td>25</td><td>0.24</td><td>0.20</td><td>0.27</td></tr><tr><td>3个月</td><td>10</td><td>0.26</td><td>0.21</td><td>0.32</td></tr><tr><td>近来</td><td>12</td><td>0.41</td><td>0.35</td><td>0.48</td></tr><tr><td rowspan="3">年级</td><td rowspan="3">6.977</td><td rowspan="3">2 0.031</td><td>初一</td><td>13</td><td>0.25</td><td>0.19</td><td>0.32</td></tr><tr><td>初二</td><td>13</td><td>0.28</td><td>0.21</td><td>0.35</td></tr><tr><td>初三</td><td>11</td><td>0.39</td><td>0.30</td><td>0.48</td></tr><tr><td rowspan="2">性别</td><td rowspan="2">1.931</td><td rowspan="2">1</td><td rowspan="2">0.165</td><td>男生 18</td><td>0.24</td><td></td><td>0.20 0.28</td></tr><tr><td>女生</td><td>18 0.28</td><td></td><td>0.24 0.33</td></tr><tr><td>独生与否</td><td>0.007</td><td>1</td><td>0.936</td><td>独生 非独生</td><td>7</td><td>0.23</td><td>0.19</td><td>0.29</td></tr><tr><td rowspan="2">生源地</td><td rowspan="2">0.048</td><td rowspan="2">1 0.826</td><td></td><td>7 4</td><td>0.24 0.29</td><td>0.19</td><td>0.29</td></tr><tr><td>城镇 农村</td><td>4</td><td></td><td>0.19</td><td>0.41</td></tr><tr><td rowspan="4">经济区域</td><td rowspan="4"></td><td rowspan="4">23.819 3 <0.001</td><td></td><td></td><td>0.31</td><td>0.21</td><td>0.43</td></tr><tr><td>东北</td><td>3</td><td>0.11</td><td>0.06</td><td>0.18</td></tr><tr><td>东部</td><td>17</td><td>0.24</td><td>0.20</td><td>0.28</td></tr><tr><td>中部 西部</td><td>12</td><td>0.26</td><td>0.21</td><td>0.32</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td><td>17</td><td>0.35</td><td>0.29</td><td>0.41</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：CSSAS 为中学生焦虑量表(王极盛 等,1997a);MSSMHS 为中国中学生心理健康量表(王极盛 等,1997); SAS为焦虑自评量表(Zung,1971); SCARED 为儿童焦虑性情绪障碍筛查表(Birmaher etal.,1997)。工具后的数字为检出标准，下同。
+
+就抑郁而言，结果发现：(1)出版年份的调节效应不显著 $( b = 0 . 0 1$ ， $9 5 \% C l = [ -$ 0.03,0.05])，说明近10 年来抑郁检出率无明显变化；(2)测量工具的调节效应显著。SCL-90 中抑郁分量表测出的检出率偏低，MSSMHS和 SDS 测得的检出率偏高，不同工具和标准测出的检出率在 $1 3 \% { \sim } 3 8 \%$ 之间； (3)检出时间的调节效应显著，2周的检出率最低，最近一段时间的检出率最高；(4)年级的调节作用不显著，但初一至初三学生的检出率呈年级递增趋势；(5)性别的调节作用不显著，检出率仅呈现出女高男低的倾向；(6)独生与否的调节作用不显著；(7)生源地的调节作用不显著；(8)经济区域的调节作用不显著。
+
+表3抑郁检出率的调节效应分析  
+
+<html><body><table><tr><td>调节变量</td><td>异质性检验 类别 k检出率</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="4">QB df p</td><td></td><td></td><td>下限</td><td>上限</td></tr><tr><td colspan="3" rowspan="8"></td><td></td><td>CDI19</td><td>12 0.23</td><td></td><td>0.18 0.29</td></tr><tr><td></td><td>CESD16</td><td>7</td><td>0.30</td><td>0.22 0.38</td></tr><tr><td></td><td>CESD20</td><td>11</td><td>0.23</td><td>0.18 0.29</td></tr><tr><td></td><td>DSRSC15</td><td>9</td><td>0.22 0.17</td><td>0.28</td></tr><tr><td>测量工具+检出标准 36.786 8 <0.001 MSSMHS2</td><td></td><td>9 0.38</td><td>0.30</td><td>0.46</td></tr><tr><td></td><td>SCL2</td><td>3 0.13</td><td>0.07</td><td>0.21</td></tr><tr><td></td><td>SDS50</td><td>11 0.37</td><td>0.30</td><td>0.45</td></tr><tr><td rowspan="4"></td><td></td><td>SDS53 6</td><td>0.33</td><td>0.24</td><td>0.43</td></tr><tr><td></td><td>CSSDS2</td><td>3 0.19</td><td>0.11</td><td>0.30</td></tr><tr><td>1周</td><td>67</td><td>0.25</td><td>0.22</td><td>0.28</td></tr><tr><td>0.010 2周</td><td>16</td><td>0.19</td><td>0.15</td><td>0.25</td></tr><tr><td rowspan="3">年级</td><td rowspan="3"></td><td>近来</td><td>8</td><td>0.36</td><td>0.26</td><td>0.46</td></tr><tr><td>初一</td><td>33</td><td>0.25</td><td>0.21</td><td>0.29</td></tr><tr><td>0.142 初二</td><td>32</td><td>0.28</td><td>0.24</td><td>0.33</td></tr><tr><td rowspan="2">性别</td><td rowspan="2"></td><td rowspan="2"></td><td>初三</td><td>29</td><td>0.31</td><td>0.26 0.36</td></tr><tr><td>男生</td><td>29 0.25</td><td>0.21</td><td>0.29</td></tr><tr><td rowspan="2"></td><td rowspan="2">1.129</td><td rowspan="2">1 0.288 0.436</td><td>女生</td><td>28</td><td>0.28</td><td>0.24 0.32</td></tr><tr><td>独生</td><td>13 0.26</td><td>0.20</td><td>0.32</td></tr><tr><td rowspan="2">独生与否</td><td rowspan="2">0.606 1</td><td rowspan="2">1 0.245</td><td>非独生</td><td>13</td><td>0.29</td><td>0.23 0.37</td></tr><tr><td>城镇</td><td>12 0.27</td><td>0.22</td><td>0.34</td></tr><tr><td rowspan="2">生源地</td><td rowspan="2">1.349</td><td rowspan="2"></td><td>农村</td><td>12</td><td>0.33</td><td>0.26 0.39</td></tr><tr><td>东北</td><td>5 0.26</td><td>0.17</td><td>0.39</td></tr><tr><td rowspan="3">经济区域</td><td rowspan="3">2.010 3</td><td rowspan="3">0.570</td><td>东部</td><td>37</td><td>0.23</td><td>0.20 0.27</td></tr><tr><td>中部</td><td>23</td><td>0.22 0.18</td><td>0.27</td></tr><tr><td>西部</td><td>23</td><td>0.27 0.22</td><td>0.32</td></tr></table></body></html>
+
+注：CDI 为儿童抑郁量表(Kovacs,1992);CESD 为流调中心抑郁量表(Radloff,1997);DSRSC 为儿童抑郁自评量表(Birleson,1981);MSSMHS 为中国中学生心理健康量表(王极盛等,1997); SCL 为 90 项症状自评量表(Derogatis,1977); SDS 为抑郁自评量表(Zung,1965);CSSDS 为中学生抑郁量表(王极盛 等,1997b)。
+
+就睡眠问题而言，结果发现： (1)出版年份的调节效应不显著 $( b = - 0 . 0 1$ $9 5 \% C \mathrm { I } { = } [ - 0 . 0 7 , 0 . 0 6 ] )$ ，说明近10年来自我伤害的检出率虽有下降趋势，但变化不显著；(2)年级的调节作用不显著；(3)性别的调节作用不显著；(4)经济区域的调节效应不显著，表明东、中、东北地区的睡眠问题检出率无显著差异。
+
+表4睡眠问题检出率的调节效应分析  
+
+<html><body><table><tr><td rowspan="2">调节变量</td><td colspan="2">异质性检验</td><td rowspan="2">95% CI 下限</td></tr><tr><td>QB dfp</td><td>类别k 检出率</td></tr><tr><td rowspan="3">年级</td><td rowspan="3">2.526 2 0.283</td><td>初一3 0.11</td><td>0.04 0.27</td></tr><tr><td>初二3 0.14</td><td>0.05 0.31</td></tr><tr><td>初三4 0.26</td><td>0.13 0.46</td></tr><tr><td>性别</td><td>0.047 1 0.828</td><td>男生5 0.11 女生5 0.10</td><td>0.07 0.16 0.06 0.15</td></tr></table></body></html>
+
+<html><body><table><tr><td>东北 3 0.12 东部 9 0.20 经济区域3.54220.170 中部 5 0.16</td></tr></table></body></html>
+
+就自我伤害而言，结果发现： (1)出版年份的调节效应不显著 $( b = 0 . 0 8$ $9 5 \% C [ = [ - 0 . 0 3 4 , 0 . 2 0 ] )$ ，说明近10年来自我伤害的检出率虽有上升趋势，但变化不明显；(2)测量工具的调节效应不显著;(3)年级的调节作用不显著;(4)性别的调节作用不显著；(5)独生与否的调节作用不显著;(6)生源地的调节作用不显著；(7)经济区域的调节作用显著，中西部地区偏高，东部地区最低。
+
+表5自我伤害检出率的调节效应分析  
+
+<html><body><table><tr><td rowspan="2">调节变量</td><td colspan="2">异质性检验</td><td rowspan="2">类别</td><td rowspan="2">k检出率</td><td colspan="2">95% CI</td></tr><tr><td>Qb dfp</td><td></td><td></td><td>下限 上限</td></tr><tr><td rowspan="2"></td><td>测量工具 0.361 1 0.548</td><td></td><td>ANSAQ 3</td><td></td><td>0.20 0.08</td><td>0.43</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td>OSI 初一</td><td>4 5</td><td>0.28 0.13 0.26 0.16</td><td>0.49 0.38</td></tr><tr><td>0.849</td><td>初二 6</td><td>0.26</td><td></td></tr><tr><td rowspan="2">年级</td><td>0.327 2</td><td></td><td>初三</td><td>4 0.30</td><td>0.17 0.18</td><td>0.37 0.45</td></tr><tr><td rowspan="2"></td><td></td><td>男生</td><td>8</td><td>0.21 0.16</td><td>0.28</td></tr><tr><td>性别 0.510 1</td><td>0.475</td><td>女生</td><td>8 0.24</td><td>0.18</td><td>0.32</td></tr><tr><td>独生与否0.0771</td><td></td><td>0.782</td><td>独生 非独生</td><td>3 3</td><td>0.26 0.23</td><td>0.15 0.13</td><td>0.41 0.38</td></tr><tr><td rowspan="2">生源地</td><td>0.495 1</td><td>0.482</td><td>城镇</td><td>3</td><td>0.26</td><td>0.15</td><td>0.41</td></tr><tr><td rowspan="2"></td><td></td><td>农村</td><td>4</td><td>0.18</td><td>0.09</td><td>0.33</td></tr><tr><td rowspan="2"></td><td></td><td>东北</td><td>一 一</td><td>0.16</td><td>一 0.09</td><td>一 0.27</td></tr><tr><td rowspan="2">经济区域 6.004 2 0.050</td><td></td><td>东部</td><td>4</td><td></td><td></td><td></td></tr><tr><td rowspan="2"></td><td></td><td>中部</td><td>9</td><td>0.31</td><td>0.23</td><td>0.41</td></tr><tr><td></td><td>西部</td><td>4</td><td>0.35</td><td></td><td>0.22</td><td>0.51</td></tr></table></body></html>
+
+注：ANSAQ为青少年非自杀性自伤行为评定问卷(万宇辉 等,2018);OSI为渥太华自我伤害问卷(Cloutier& Nixon,2003)。
+
+首先，就自杀意念而言，结果发现：(1)出版年份的调节效应不显著 $( b = 0 . 0 3$ $9 5 \% C I = [ - 0 . 0 3 , 0 . 0 8 ] )$ ，说明近10年来自杀意念的检出率虽有上升趋势，但不明显；(2)测量工具的调节效应显著，单条目迫选题测得的检出率显著高于李克特计分式的 SIOSS 量表； (3)年级的调节效应不显著，初一至初三年级的检出率无显著差异； (4)性别的调节效应呈边缘显著，女生的自杀意念检出率 $( 2 2 \% )$ 高于男生$( 1 6 \% )$ ；(5)经济区域的调节作用不显著，东、中、西部地区检出率的差异不显著。其次，就自杀计划而言，调节效应检验发现：(1)年级的调节效应显著，初一年级的检出率显著低于初二年级；(2)性别的调节效应不显著。最后，就自杀企图而言，调节效应检验发现： (1)出版年份的调节效应显著 $( b = 0 . 0 8 , 9 5 \% \mathrm { C I } \mathrm { = } [ 0 . 0 2 , 0 . 1 3 ] ) ,$ 说明近10年来自杀企图的检出率明显增加；(2)年级的调节效应不显著； (3)性别的调节作用不显著，但女生的自杀企图检出率 $( 4 \% )$ 略高于男生 $( 3 \% )$ ；(4)经济区域的调节作用不显著，东部地区和西部地区检出率的差异不显著。
+
+表6自杀检出率的调节效应分析  
+
+<html><body><table><tr><td rowspan="2">自杀类别</td><td rowspan="2">调节变量</td><td colspan="3">异质性检验</td><td rowspan="2"></td><td rowspan="2">k</td><td rowspan="2">检出率</td><td colspan="2">95% CI</td></tr><tr><td>QB df</td><td>p</td><td>类别</td><td>下限</td></tr><tr><td rowspan="9">自杀意念</td><td rowspan="3">测量工具 14.8541</td><td rowspan="3"></td><td rowspan="3"></td><td><0.001</td><td>单条目迫选</td><td>17</td><td>0.19</td><td>上限 0.17</td><td>0.22</td></tr><tr><td></td><td>SIOSS</td><td>6</td><td>0.11</td><td>0.09</td><td>0.14</td></tr><tr><td></td><td>初一</td><td>8</td><td>0.14</td><td>0.12</td><td>0.17</td></tr><tr><td rowspan="2">年级</td><td rowspan="2">2.093 2</td><td rowspan="2"></td><td rowspan="2">0.351</td><td>初二</td><td>8</td><td>0.16</td><td>0.14</td><td>0.19</td></tr><tr><td>初三</td><td>5</td><td>0.17</td><td>0.13</td><td>0.20</td></tr><tr><td rowspan="2">性别</td><td rowspan="2">3.148 1</td><td rowspan="2">0.076</td><td rowspan="2"></td><td>男生</td><td>8</td><td>0.16</td><td>0.12</td><td>0.21</td></tr><tr><td>女生</td><td>8</td><td>0.22</td><td>0.17</td><td>0.28</td></tr><tr><td rowspan="9">自杀计划</td><td rowspan="3">经济区域1.467</td><td rowspan="3"></td><td rowspan="3">2 0.480</td><td rowspan="3"></td><td>东北</td><td>一</td><td></td><td></td><td></td></tr><tr><td>东部</td><td>14</td><td>0.16</td><td>0.14</td><td>0.19</td></tr><tr><td>中部 西部</td><td>5 3</td><td>0.19 0.18</td><td>0.15 0.13</td><td>0.24 0.24</td></tr><tr><td rowspan="2">年级</td><td rowspan="2">6.478 1</td><td rowspan="2">0.011</td><td></td><td></td><td>0.05</td><td></td><td></td></tr><tr><td>初一</td><td>3 3</td><td>0.06</td><td>0.04 0.05</td><td>0.05 0.08</td></tr><tr><td rowspan="2">性别</td><td rowspan="2"></td><td rowspan="2">0.759</td><td>初二</td><td>一</td><td></td><td></td><td></td></tr><tr><td>初三</td><td></td><td>0.05</td><td>0.02</td><td>0.15</td></tr><tr><td rowspan="2"></td><td rowspan="2">0.094</td><td rowspan="2">1</td><td rowspan="2"></td><td>男生</td><td>3 3</td><td>0.06</td><td></td><td></td></tr><tr><td>女生</td><td></td><td></td><td>0.02</td><td>0.18</td></tr><tr><td rowspan="8"></td><td rowspan="2">年级</td><td rowspan="2">1.444</td><td rowspan="2">2</td><td rowspan="2">0.486</td><td>初一</td><td>4</td><td>0.03</td><td>0.02</td><td>0.05</td></tr><tr><td>初二</td><td>4</td><td>0.04</td><td>0.03</td><td>0.06</td></tr><tr><td rowspan="2">性别</td><td rowspan="2">2.248</td><td rowspan="2">1</td><td rowspan="2"></td><td>初三</td><td>3</td><td>0.05</td><td>0.03</td><td>0.07</td></tr><tr><td>男生</td><td>5</td><td>0.03</td><td>0.02</td><td>0.04</td></tr><tr><td rowspan="4">自杀企图(未遂)</td><td rowspan="4">经济区域 1.171</td><td rowspan="4"></td><td rowspan="4"></td><td rowspan="4">0.134</td><td>女生</td><td>3</td><td></td><td></td></tr><tr><td></td><td>0.04</td><td>0.03</td><td>0.07</td></tr><tr><td>东北 东部</td><td>一 7 0.03</td><td>0.03</td><td>0.04</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td rowspan="4"></td><td rowspan="4"></td><td rowspan="4"></td><td rowspan="4"></td><td rowspan="4"></td><td>中部</td><td>1</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>西部</td><td></td><td>0.04</td><td>0.03</td><td>0.05</td></tr><tr><td></td><td>3</td><td></td><td></td><td></td></tr></table></body></html>
+
+注：SIOSS为夏朝云等(2002)编制的自杀意念自评量表。
+
+# 3.5 发表偏差检验
+
+首先，就漏斗图而言，各类心理健康问题的效应值均集中在图形上方且均匀分布于总效应的两侧，初步表明发表偏差问题并不明显。其次，就Egger线性回归的结果而言：焦虑的回归截距为-4.77， $9 5 \% \mathrm { C I } \left[ - 1 1 . 6 6 , 2 . 1 2 \right]$ ；抑郁的回归截距为- $- 0 . 5 6 , 9 5 \% \mathrm { C I } \left[ - 5 . 5 7 , 4 . 4 6 \right]$ ；睡眠问题的回归截距为 $2 . 5 4 , 9 5 \% \mathrm { C I } [ - 3 . 7 5 , 8 . 8 4 ] ;$ 自我伤害的回归截距为 $7 . 9 6 , 9 5 \% \mathrm { C I } \left[ - 1 2 . 6 9 , 2 8 . 6 1 \right]$ ；自杀意念的回归截距为-1.68,$9 5 \% \mathrm { C I } [ - 8 . 8 3 , 5 . 4 7 ]$ ；自杀计划的回归截距为-8.45, $9 5 \%$ CI[-25.754,8.84]；自杀企图的回归截距为-2.75, $9 5 \%$ CI[-6.62,1.23]。所有结果均说明本研究不存在明显的发表偏差。漏斗图详见开源网址https://osf.io/7uewg/
+
+# 4讨论
+
+# 4.1心理健康问题的总体检出率
+
+本研究发现，近10年来，初中生心理健康问题检出率中，焦虑为 $2 6 . 9 \%$ 新抑郁为 $23 . 9 \%$ ，睡眠问题为 $1 6 . 7 \%$ ，自我伤害为 $2 2 . 4 \%$ ，自杀意念为 $1 7 . 1 \%$ ，自杀计划为 $6 . 6 \%$ ，自杀企图为 $3 . 9 \%$ 。该结果发现，焦虑、抑郁和自我伤害检出率排在前三位，说明初中生可能面临的情绪问题较为突出。这既与初中生面临的学业难度增大、家长较高的学业期望以及中考压力有关，也与初中生步入青春期后的生理和激素分泌变化有关(Tang etal.,2019；雍那 等,2018)，还与教师队伍的心理健康水平和学校的校园氛围有关，有研究表明初中生的很多心理健康问题均可归结为师源性心理问题(金东贤 等,2008；俞国良，张亚利,2021)。总之，外在环境因素和自身生理因素导致心理尚未成熟但精力充沛的初中生情绪容易两极化，产生一些情绪问题和并发心理问题(李婷 等,2020)。此外，本研究还发现，一定比例的初中生还存在着自我伤害问题和自杀，这与其消极情绪和不成熟的应对方式均有关系(傅小兰 等,2021)，值得心理健康工作者关注。需要注意的是，本研究中综合得出的检出率均基于静态的视角，这些在某一时间点置身于心理健康风险中的个体自我救赎的比例和风险延续的比例还需立足动态视角衡量。
+
+本结果与类似研究可能存在着不同之处。 (1)关于焦虑，本结果高于$1 9 8 0 { \sim } 2 0 0 9$ 年全球 44个国家焦虑障碍 $7 . 3 \%$ 的检出率(Baxteretal.,2013)，以及$2 0 0 0 { \sim } 2 0 1 5$ 年我国焦虑障碍 $0 . 5 \%$ 的检出率(Guo etal.,2016)。原因在于Baxter 等和Guo 等关注的是焦虑障碍，程度较严重，而本研究关注的是焦虑症状或焦虑问题的检出率，包含了轻、中、重不同程度的焦虑问题。此外，本研究关注的是初中群体而其它研究则不限于此。该结果一定程度上表明初中生虽然焦虑情绪突出，但可能大部分并不严重。(2)关于抑郁，本结果高于 $1 9 9 1 { \sim } 2 0 1 8$ 年我国初中生$2 1 . 9 \%$ 的检出率(Lietal.,2019)，低于 $2 0 1 2 { \sim } 2 0 1 8$ 年我国初中生 $2 6 . 8 \%$ 的检出率(刘福荣 等,2020)。这可能是由于本研究关注的时间范围有别于既有研究，也可能是因为纳入了未发表的研究，使得纳入数量超过了既有研究，估计结果更加准确。另外，本结果高于 $2 0 1 1 { \sim } 2 0 1 8$ 年中国小学生 $1 6 . 8 \%$ 的检出率(刘福荣 等,2021);低于 $1 9 9 9 { \sim } 2 0 1 8$ 年中国高中生 $2 4 . 2 \%$ 的检出率(Li etal.,2019)， $2 0 1 5 { \sim } 2 0 2 0$ 年中国大学生 $2 7 \%$ 的检出率(Gao et al.,2020)， $1 9 8 0 { \sim } 2 0 2 0$ 年全球研究生 $34 \%$ 的检出率(Guo et al.,2021),与 $1 9 8 7 { \sim } 2 0 1 2$ 年中国老年人 $23 . 6 \%$ 的检出率持平(Lietal.,2014)。表明抑郁问题可能在初中生群体中只是开始显现，若应对不好，可能会一致延续。
+
+(3)关于睡眠问题，本研究由于纳入了部分未发表的文献，使得检出率低于Liang 等(2021)元分析中的 $2 0 1 0 { \sim } 2 0 2 0$ 年初中生 $20 \%$ 的检出率。此外，本结果还低于 $2 0 1 0 { \sim } 2 0 2 0$ 我国高中生 $28 \%$ 的睡眠问题检出率(Liang etal.,2021),2011\~2015我国大学生 $2 5 . 7 \%$ 的检出率(Lietal.,2018)，1999\~2016 年我国老年人 $3 5 . 9 \%$ 的检出率(Luetal.,2019)，表明睡眠问题可能随着年龄增长呈现出逐渐增加的趋势。(4)关于自我伤害，本结果高于 $2 0 0 7 { \sim } 2 0 1 5$ 年我国大学生 $1 6 . 6 \%$ 的检出率(潘珍等,2016)和 $1 9 8 9 { \sim } 2 0 1 8$ 年全球儿童青少年 $1 9 . 5 \%$ 的检出率(Lim etal.,2019)，表明自我伤害行为可能集中出现在初中阶段。(5)关于自杀意念，本结果与邹广顺等(2021)元分析中 $2 0 1 0 { \sim } 2 0 2 0$ 我国初中生 $1 6 . 6 \%$ 的检出率结果一致，但低于 $2 0 1 0 { \sim } 2 0 2 0$ 年我国高中生 $1 8 . 1 \%$ 的检出率，高于全球大学生 $1 9 8 0 { \sim } 2 0 1 6$ 年 $10 . 6 2 \%$ 的检出率(Mortier et al.,2018)，低于 $2 0 0 8 { \sim } 2 0 1 7$ 年欧洲一般人群 $3 . 6 2 \%$ 的检出率(Castillejosetal.,2020)。在一定程度上表明心理尚未成熟的青少年比大学生和一般人更容易产生自杀意念，处于社会转型期的我国初中生比世界其他人群更容易产生自杀意念。(6)关于自杀计划，本结果高于 $2 0 1 0 { \sim } 2 0 1 8$ 年我国大学生 $4 . 4 \%$ 的检出率(茹福霞 等,2019)，低于 $2 0 0 8 { \sim } 2 0 1 7$ 年欧洲一般人 $1 . 6 \%$ 的检出率(Castillejos et al.,2020),也表明我国初中生心理的脆弱性。(7)关于自杀企图，本结果低于 $1 9 8 9 { \sim } 2 0 1 8$ 年全球儿童青少年 $4 . 5 \%$ 的检出率(Lim etal.,2019)，高于 $1 9 9 9 { \sim } 2 0 1 4$ 年我国大学生$2 . 8 \%$ 的检出率，高于 $2 0 0 8 { \sim } 2 0 1 7$ 年欧洲一般人 $0 . 5 7 \%$ 的检出率(Castillejos et al.,2020)。表明我国初中生面临的自杀问题较为突出，可能与该阶段自身的心理不成熟和情绪等心理问题的困扰有关，也与中国当下社会转型过程中学生面对的生存压力增大有关。
+
+# 4.2心理健康问题检出率的调节效应
+
+出版年代：本研究首次分析了2010\~2020年初中生心理健康问题检出率的动态变化特点，发现焦虑和自杀企图呈现逐年恶化的趋势。该结果与以往的横断历史研究结果交相呼应(王就，俞国良,2017;Xin,Wang,& Sheng,2020)，其发现初中生或青少年的焦虑水平随时间发展呈现出恶化趋势。本研究则进一步表明，焦虑不仅仅是整体水平的恶化，存在焦虑问题的人数比例也在逐年增加。除了日益激烈的竞争环境影响外，社会转型期离婚率的增加、城镇化水平的提升所导致的青少年与原生家庭社会联结的削弱，以及数字化时代线下社交互动的减少都是导致初中生焦虑和自杀企图检出率日益增加的重要因素(Twenge& Spitzberg,2020;Xin,Wang,& Sheng,2020)。该结果可能并非我国独有的现象，有研究发现，$2 0 1 1 { \sim } 2 0 1 8$ 年美国青少年的自杀企图检出率也显著增加了(Twenge,2020)。但可喜的是心理健康恶化的趋势仅体现在个别方面，抑郁、睡眠问题、自我伤害和自杀意念近10年来并未表现出明显的恶化趋势。该结果与Twenge(2020)的结果不同，其发现美国青少年 $2 0 1 1 { \sim } 2 0 1 8$ 年青少年心理健康几乎呈现全面恶化的趋势，重度抑郁和自我伤害行为的检出率也显著增加了。表明近年来我国关于初中生心理健康教育政策的实施可能起到了一定作用(俞国良，琚运婷,2018)，但同时也提示此类心理健康问题的检出率并未呈现降低趋势，未来针对初中生的心理健康教育工作仍然任重道远。
+
+测量工具：本研究发现，除自我伤害以外，其它心理健康问题的检出率均会受到测量工具的影响，甚至焦虑和抑郁还会受到不同检出标准的影响。具体来看，(1)关于焦虑，使用MSSMHS 和CSSAS 测得的检出率最高。这两种工具均为王极盛等编制(1997,1997a)，虽然题目的命制具有调研基础，但常模的制定略显粗糙，与临床样本缺乏对照，且取样并不广泛，导致检出标准尤其是轻度焦虑的标准较为宽松，使得检出率较高。但从原始的研究来看，这种高检出率多半指的是轻度焦虑。(2)关于抑郁，使用MSSMHS 和 SDS 测得的检出率偏高。不同测量工具倚重的核心症状虽然相似，但边缘症状可能不同，因而导致了上述差异(Fried,2017)。另外，不同学者对抑郁症状标定的检出分数并不相同，也是导致结果差异大的重要因素。(3)关于自我伤害，ANSAQ和OSI测得的检出率差异不显著。这可能是因为两者测量的题目十分类似，ANSAQ编制时借鉴了OSI的内容。(4)关于自杀意念，单条目迫选题测得的检出率显著高于SIOSS量表。该结果提示，对于工具提供者而言，应立足于中国大地，基于科学的调研程序制定适合新时代我国初中生群体的权威性心理健康问题筛查工具、筛查方案、常模标准、操作流程和解释系统。对于工具使用者而言，应尽量选择权威性的测量工具并清晰的报告检出标准，还应该结合多种视角如精神病理学网络分析技术更加精准的识别心理疾患个体，以便从筛查源头上降低诊断偏差，增加结果的可重复性，减少异质性结果(陈琛 等,2021)。对于工具的管理者而言，有必要在相关政府部门设置专门的业务对具有筛查功能的心理健康量表进行备案、审查，甚至可领导、委托或指定相关机构或学术团体编制和更新科学的筛查工具，推荐较为科学的筛查方案。
+
+检出时间：本研究仅对能够支撑探讨检出时间调节效应的焦虑和抑郁问题进行了分析。睡眠问题由于检出时间多为一个月，自我伤害和自杀检出时间多为一年，均比较一致，因而未探讨检出时间的调节效应。最终本结果发现，对焦虑而言，检出时间的调节效应显著，1周与3个月的检出率接近，但被试被问及最近一段时间的焦虑情绪时检出率最高；对抑郁而言，检出时间的调节效应显著，2周的检出率最低，最近一段时间的检出率最高。表明检出时间确实是影响检出率高低的重要因素，其中当检出时间不那么确定时，检出率最高，提示工具编制者和使用者应尽可能的给出明确的检出时间，否则被试可能无法清晰的把握测试的内容，测验的结果提供的证据价值也不够充分。值得注意的是，本研究中检出时间为"最近一段时间"的测量工具均为王极盛等(1997,1997a,1997b)编制的问卷，检出率的偏高可能还有检出标准宽松的因素夹杂其中。另外值得注意的是，当检出时间确定时，无论是焦虑问题中的一周与三个月，还是抑郁问题中的一周与两周，检出率的差异均不显著。表明已有工具中的这些明确的时间设定可能不会对检出率产生实质性的影响，但与本文之外的测量时间段，比如年检出率和终生检出率是否存在差异，仍然值得未来研究关注。
+
+年级：本研究对所有心理健康问题检出率涉及的年级差异进行了分析，其中自杀计划由于报告初三年级检出率的研究数量少于3个，因而仅探讨了初一和初二年级的差异。最终结果发现，焦虑和自杀计划的年级差异显著，初一至初三学生的检出率随年级递增。焦虑问题是初中生检出率最高的心理健康问题。随着年级的升高，初中生面对的学业难度和中考压力也逐渐显现，因而呈现出随年级升高的特点(Tang etal.,2019)。值得注意的是，除焦虑和自杀计划外，初中生抑郁、睡眠问题、自我伤害和其它自杀问题的检出率随年级增加仅呈现微增的发展趋势而差异均不显著。抑郁的结果同 Tang 等(2019)的结果类似，但与傅小兰等(2021)得出的抑郁平均水平存在年级差异的结果不同，表明随着年级增长的抑郁整体水平可能仅是特定阶段群体性抑郁水平自然升高的表现形式，真正受抑郁情绪影响产生抑郁症状的人数是相对稳定的。
+
+性别：本结果发现，初中生自杀意念检出率存在显著的性别差异，女生的检出率显著高于男生。该结果与美国青少年大型调查的结果一致(Twenge,2020)，也与 Hu等(2015)关于青少年自杀未遂的元分析结果一致。这可能与两性生理上的激素分泌差异(如睾酮与雌二醇)和大脑对情感信息的加工差异有关，使得女性面对应激性刺激更加敏感也更难适应，更易出现自杀意念(Yang&Feldman,2018)。此外，男性一般遭遇生活事件或社会性创伤时可能更多的将不满的力量向外部释放，如发起攻击行为，女性则更容易指向自身，导致自杀意念检出率比男性高(Freeman etal.,2017)。另外一个因素则与中国的传统文化和性别角色差异有关，在我国男孩和女孩的性别角色差异十分明显，男孩一般会被文化赋予坚强、勇敢、阳刚的标签，女孩一般被赋予可爱、温柔、乖巧的标签，使得社会对男性自杀的容忍度更低，男性自杀会被视为无能、没出息，对这种负面社会评价的恐惧反而成为男孩自杀意念出现的抑制因素(Zhang,2014)。值得注意的是，除自杀外，焦虑、抑郁、睡眠问题和自我伤害仅呈现出女性检出率比男性略高的趋势，但差异却并不显著。该结果与Liang 等(2021)关于中国青少年睡眠问题检出率结果,Tang等(2019)关于中国儿童青少年抑郁检出率结果一致，均未发现显著的性别差异。表明应对自杀时应着重关注女性的易感性，而对焦虑、抑郁等心理健康问题时应注重政策实施的全面性。
+
+独生与否和生源地：本研究仅对能够支撑探讨独生与否和生源地调节效应的焦虑、抑郁和自我伤害进行了分析。研究结果发现，上述3种心理健康问题的检出率在独生和非独生初中生中差异不显著，在城镇和农村的初中生中差异也不显著。该结果与Li 等(2019)和 Tang 等(2019)对中国儿童青少年抑郁检出率的元分析结果一致，表明是否独生和生源地可能不是当下影响初中生心理健康问题检出率的关键因素。首先，在独生与否因素上，由于近年来中国经济发展伴随的生存压力导致众多家庭不愿生育二胎，而有生育二胎意愿的家庭往往不存在较大的养育压力，因此，无论是独生还是非独生学生，在当下均能够享受家庭中的资源，心理健康水平并无显著差异(廖友国，连榕,2020)。其次，在生源地因素上，近年来由于国民素质的普遍提升，使得城乡家庭教养理念进一步缩小。此外，由于我国农村家庭可支配收入的增加，使得农村和城镇家庭对子女的教育投入差距进一步缩小。这些都使得城乡初中正面对的成长环境更加相似，心理健康水平更加趋同。
+
+经济区域：本研究将被试按经济区域归属分为东北、东部、中部和西部四个亚组，结果发现仅有焦虑和自我伤害存在显著的区域差异，中西部地区检出率偏高，东部和东北地区检出率偏低，而抑郁、睡眠问题和自杀均不存在显著的区域差异，仅呈现出中西部检出率偏高，东部偏低的趋势。这可能是因为东北地区和东部地区高教资源较多，尤其是东北地区人口相对较少但高教资源相对丰富，对于初中生乃至高中生而言，将来面对的升学压力和生存压力较小，心理健康问题较少(Rao etal.,2019)。中西部地区属于高教资源较为贫乏的地区，并且教育的人均投入较少，关于心理健康教育方面的投入不如东部地区，从而导致了焦虑和自我伤害检出率区域差异的出现(邹广顺 等,2021)。总之，经济的发展给区域内带来的教育资源的供给和心理健康投入的增加是心理健康问题检出率较低的重要因素。因此，未来心理健康服务应重视中西部地区的初中生，在减负的同时提供更优质的教育，从而减少焦虑等心理健康问题的出现。
+
+# 4.3研究意义与不足
+
+本研究首次基于检索到的文献，采用元分析的视角估计了我国初中生2010\~2020约十年来典型心理健康问题的检出率，并揭示了一些左右检出率大小的重要因素，初步澄清了关于检出率大小不一致的争论问题，为相关部门和人员了解初中生心理健康的基本状况提供了更加殷实的证据。但本研究也存在不足之处。首先，检索外文数据库时仅利用了WebofScience核心合集这一检索平台。虽然覆盖了重要研究，但难免有个别研究被遗漏。未来感兴趣的研究者可以按年份适当检索更多的数据库，并建立元分析数据库以备未来分析。其次，仅分析了初中生较为典型的几类心理健康问题，无法完全覆盖心理健康的所有指标，未来可关注其它心理健康指标的检出率。最后，元分析是基于原始文献进行的二次分析，很难规避出版偏见，仍然需要与高质量的原始研究互相印证，尤其是在动态发展过程中加以验证。
+
+# 5结论
+
+(1)初中生面临不同程度的心理健康问题，其中焦虑、抑郁和自我伤害排在前三位。(2)初中生心理健康问题随年代发展呈现恶化趋势，其中焦虑和自杀企图尤为明显。(3)初中生心理健康问题检出率饱受测量工具、检出标准和检出时间不统一的影响。(4)初中生心理健康问题整体上随年级而增加，其中焦虑尤为明显。(5)
+
+女生的心理健康问题检出率高于男生，自杀尤为明显。(6中西部地区的初中生比乐北和示部地区史谷勿山现心埋健康问题，儿共定焦虑和日找忉古。
+
+参考文献：  
+陈琛，王力，曹成琦，李根.(2021).心理病理学网络理论，方法与挑战.心理科学进展,29(10),1724-1739.  
+杜春燕，吴丝丝，郑玉花，马圆圆，闫雪梅，杨晓玮，.苏春香.(2016).青海省西宁市初中生心理健康现状调查.护理研究：中旬版,30(9),3253-3256.  
+傅小兰，张侃，陈雪峰，陈祉妍.(2021).中国国民心理健康发展报告(2019\~2020)．社会科学文献出版社，北京.  
+金东贤，邢淑芬，俞国良.(2008)．教师心理健康对学生发展的影响.教育研究,1,56-59.  
+李婷，王宏，刁华，杨连建，蒲杨，金凤.(2020).初中生心理健康现状及其家庭影响因素.中国健康心理学杂志,28(5),746-752.  
+廖友国，连榕.(2020).独生与非独生子女心理健康变迁的差异——一项横断历史研究.西南大学学报(社会科学版),46(3),117-126+203.  
+刘福荣，宋晓琴，尚小平，吴梦凡，隋美丽，董一超，刘新奎.(2020).中学生抑郁症状检出率的meta 分析.中国心理卫生杂志,34(2),123-128.  
+刘福荣，吴梦凡，董一超，岳馨培，尚小平，隋美丽，刘新奎.(2021)．小学生抑郁症状检出率的 meta 分析．中国心理卫生杂志,35(6),482-488.  
+潘珍，毛绍菊，唐寒梅，傅燕艳，孙玮璇，廖志林,.黄鹏.(2016).中国大学生非自杀性自伤检出率的 Meta 分析.中国学校卫生,37(6),878-881.  
+茹福霞，黄秀萍，詹文韵，饶裕莲，陈小龙，胡旺，黄鹏.(2019).中国大陆大学生自杀计划检出率 Meta 分析.中国学校卫生,40(1),42-45.  
+万宇辉，刘婉，郝加虎，陶芳标.(2018).青少年非自杀性自伤行为评定问卷的编制及其信效度评价.中国学校卫生,39(2),170-173.  
+王极盛，李焰，赫尔实.(1997).中国中学生心理健康量表的编制及其标准化.社会心理科学,46(4), 15-20.  
+王极盛，邱炳武，赫尔实.(1997a).中学生焦虑量表的编制及其标准化.社会心理科学,45(3),1-3.  
+王极盛，邱炳武，赫尔实.(1997b).中学生抑郁量表的编制及其标准化.社会心理科学,45(3),4-6.  
+王勍，俞国良.(2017)．初中生心理健康的横断历史研究.中国特殊教育,(11),74-80.  
+夏朝云，王东波，吴素琴，叶剑辉.(2002)．自杀意念自评量表的初步制定．临床精神医学杂志,2,100-102.  
+雍那，任玉玲，王春元，杨仕龙，唐雷，丁祥洪，喻元凤.(2018)．南充市中学生心理健康状况
+
+调查.中国健康心理学杂志,26(10),1592-1597. 俞国良，琚运婷.(2018).我国心理健康教育政策的历史进程分析与启示.中国教育学刊,10,47- 48 俞国良，王浩.(2020).文化潮流与社会转型：影响我国青少年心理健康状况的重要因素及现 实策略.西南民族大学学报(人文社科版),41(9),213-219. 俞国良，张亚利.(2020).大中小幼心理健康教育一体化：人格的视角.教育研究,41(6),125- 133. 俞国良，张亚利.(2021).青少年无聊的心理效应与应对——心理健康视角.山西师大学报(社 会科学版),48(4),95-101. 张婉婉，刘阳，余婷婷，胡塔静，葛星，汪耿夫,.苏普玉. (2013).童年期虐待与初中生抑郁 症状关系.中国公共卫生,29(8),1165-1168. 张亚利,李森，俞国良.(2021).社交媒体使用与错失焦虑的关系：一项元分析.心理学报， 53(3),273-290. 邹广顺，吕军城，乔晓伟.(2021).中国中学生自杀意念检出率的 meta分析.中国心理卫生杂 志, 35(8), 643-650. Achenbach, T. M. (1966). The classification of children's psychiatric symptoms: A factor-analytic study. Psychological Monographs: General and Applied, 80(7),1-37. Baxter, A. J.， Scot, K. M., Vos, T.,& Whiteford, H. A. (2013). Global prevalence of anxiety disorders: A systematic review and meta-regression. Psychological Medicine, 43(5), 897-910. Birleson,P.(1981). The validity of depressive disorder in childhood and the development of a selfrating scale: A research report. Journal of Child Psychology and Psychiatry, 22(1), 73-88. Birmaher, B., Khetarpal, S., Brent, D., Cully, M., Balach, L., Kaufman, J.,& Neer, S. M. (1997). The screen for child anxiety related emotional disorders (SCARED): Scale construction and psychometric characteristics.Journal of the American Academy of Child & Adolescent Psychiatry, 36(4), 545-553. Card,N. A. (2012). Applied meta-analysis for social science research. New York: Guilford Press. Castillejos, M. C.,Huertas, P., Martin, P.,& Moreno Kuestner, B. (202O). Prevalence of suicidality in the European general population: A systematic review and meta-analysis. Archives of Suicide Research,1-19. Chi,X.,Becker,B.,Yu,Q.,Hossain,M.M.,Lin,J.,Yeung,A.,..& Zou,L. (202O).Persistence and remission of depressive symptoms and psycho-social correlates in Chinese early adolescents. BMC Psychiatry, 20(1), 1-11. Cloutier, P.F., & Nixon, M. K. (2003). The Ottawa self-injury inventory: A preliminary evaluation. European Child & Adolescent Psychiatry ,12( suppl 1),1-94。 Derogatis, L. R. (1977). SCL-90-R: Administration, scoring, and procedures manual. Baltimore: Clinical Psychometric Research.
+
+Freeman, A.,Mergl, R., Kohls,E., Szekely,A., Gusmao,R.,Arensman,E.,..& Rummel-Kluge, C. (2017). A cross-national study on gender differences in suicide intent. BMC Psychiatry, 17(1), 1-11.   
+Gao, L., Xie, Y., Jia, C., & Wang, W. (202O). Prevalence of depression among Chinese university students: A systematic review and meta-analysis. Scientific Reports,10(1),1-11.   
+Guo,L., Deng, J., He, Y., Deng, X., Huang, J., Huang, G.,.. & Lu, C. (2014). Prevalence and correlates of sleep disturbance and depressive symptoms among Chinese adolescents: A crosssectional survey study. BMJ Open, 4(7), e005517.   
+Guo,L.,Fan, H., Xu, Z.,Li,J., Chen,T., Zhang, Z., & Yang, K. (2021). Prevalence and changes in depressive symptoms among postgraduate students: A systematic review and meta-analysis from1980to2020.StressandHealth.Advanceonlinepublication. https://doi.0rg/10.1002/smi.3045   
+Guo, X., Meng, Z., Huang, G., Fan, J., Zhou, W., Ling, W.,..& Su,L. (2016). Meta-analysis of the prevalence of anxiety disorders in mainland China from 20o0 to 2015. Scientific Reports, $^ { 6 ( 1 ) }$ 1-15.   
+Hu,J., Dong, Y., Chen, X., Liu, Y., Ma, D., Liu, X.,..& He, W. (2015). Prevalence of suicide attemptsamongChineseadolescents:Ameta-analysisof cross-sectional studies. Comprehensive psychiatry, 61, 78-89.   
+Huedo-Medina, T. B.， Sanchez-Meca, J.， Marin-Martinez,F.，& Botella, J. (2006). Asessing heterogeneity in meta-analysis: Q statistic or I2 index? Psychological Methods，11(2),193- 206.   
+Kovacs, M. (1992). Children's Depression Inventory (CDI). New York: Multi-health Systems, Inc.   
+Li,D., Zhang, D. J., Shao, J. J., Qi, X. D., & Tian,L. (2014). A meta-analysis of the prevalence of depressive symptoms in Chinese older adults. Archives of Gerontology and Geriatrics, 58(1), 1-9.   
+Li, J. Y., Li, J.,Liang, J. H., Qian, S., Jia, R. X., Wang, Y. Q., & Xu, Y. (2019). Depressive symptoms among children and adolescents in China: A systematic review and meta-analysis. Medical Science Monitor: International Medical Journal of Experimental and Clinical Research,25, 7459.   
+Li,L., Wang, Y.Y., Wang, S. B., Zhang,L.,Li,L., Xu, D. D.,..& Xiang, Y. T. (2018). Prevalence of sleep disturbances in Chinese university students: A comprehensive meta-analysis. Journal of Sleep Research, 27(3), e12648.   
+Liang,M., Guo,L., Huo,J.,& Zhou, G. (2021). Prevalence of sleep disturbances in Chinese adolescents: A systematic review and meta-analysis. Plos One,16(3), e0247333.   
+Lim, K. S., Wong, C. H., McIntyre, R. S., Wang, J., Zhang, Z., Tran, B. X.,.. & Ho, R. C. (2019).
+
+Global lifetime and 12-month prevalence of suicidal behavior, deliberate self-harm and nonsuicidal self-injury in children and adolescents between 1989 and 2018: A metaanalysis. International Journal of Environmental Research and Public Health,16(22), 4581. Lu,L., Wang, S. B., Rao, W., Zhang, Q., Ungvari, G. S., Ng, C. H.,..& Xiang, Y. T. (2019). The prevalence of sleep disturbances and sleep quality in older Chinese adults: A comprehensive meta-analysis. Behavioral Sleep Medicine, 17(6), 683-697. Mortier,P.， Cuijpers, P.，Kiekens,G., Auerbach， R. P.，Demyttenaere, K.， Green, J. G.，... & Brufferts,R. (2018). The prevalence of suicidal thoughts and behaviours among college students: A meta-analysis. Psychological Medicine, 48(4), 554-565. Radloff, L. S. (1977). The CES-D scale: A self-report depresson scale for research in the general population. Applied psychological measurement, 1(3), 385-401. Rao, W. W., Xu, D. D., Cao, X. L., Wen, S. Y., Che, W. 1., Ng, C. H.,.. & Xiang, Y. T. (2019). Prevalence of depressive symptoms in children and adolescents in China: A meta-analysis of observational studies. Psychiatry Research, 272, 790-796. Tang, X., Tang, S., Ren, Z., & Wong, D.F. K. (2019). Prevalence of depressive symptoms among adolescents in secondary school in mainland China: A systematic review and metaanalysis. Journal of Affective Disorders, 245, 498-507. Twenge, J. M. (2020). Why increases in adolescent depression may be linked to the technological environment. Current Opinion in Psychology,32,89-94. Twenge,J. M.，& Spitzberg,B. H. (2020). Declines in non-digital social interaction among Americans, 2003-2017. Journal of Applied Social Psychology, 50(6), 363-367. Xin, S.,Wang, Y.,& Sheng,L. (202O). Impact of social changes and birth cohort on anxiety in adolescents in mainland China (1992-2017): A cross-temporal meta-analysis. Children and Youth Services Review, 116, 105159. Yang, X.， & Feldman, M. W. (2018). A reversed gender patern? A meta-analysis of gender differences in the prevalence of non-suicidal self-injurious behaviour among Chinese adolescents. BMC Public Health, 18(1), 1-7. Zhang,J. (2O14). The gender ratio of Chinese suicide rates: an explanation in Confucianism. Sex Roles, 70(3),146-154. Zhang, S. C., Yang, R., Li, D. L., Wan, Y. H., Tao,F.B., & Fang, J. (2019). Association of health literacy and sleep problems with mental health of Chinese students in combined junior and senior high school. PloS One,14(6), e0217685. Zung, W. W. (1965). A self-rating depression scale. Archives ofgeneral psychiatry, 12(1), 63-70. Zung, W. W. (1971). A rating instrument for anxiety disorders. Psychosomatics, 12(6),371-379.
+
+Prevalence of mental health problems among junior high school students in Chinese mainland
+
+from 2010 to 2020: A Meta-analysis
+
+ZHANG Yali', JIN Juanjuanl, YU Guoliang² (School ofEducation,Renmin UniversityofChina,Beijingloo872,China)
+
+( Institute of Psychology,Renmin University of China,Beijing 10o872,China)
+
+Abstract: The prevalence of mental health problems of junior high school students is very different in many studies, which fails to provide sufficient basis for the formulation of mental health policy and the construction of mental health service system. In order to identify the overall prevalence of mental health problems and clarify its influencing factors,a meta-analysis of literature retrieved from 2010 to 2020 was performed. The results showed that: (1) Junior high school students faced different degrees of mental health problems,among which the prevalence of anxiety, depression and self-harm ranked in the top three. (2) Some aspects of mental health problems of junior high school students showed a worsening trend with the development of the years, especially anxiety and suicide attempt. (3) The prevalence of mental health problems of junior high school students is seriously affected by the inconsistency of measurement tools, detection criteria and detection time. (4) Generally, the prevalence of mental health problems in junior high school students increases with the grade, especially anxiety. (5) The prevalence of mental health problems among girls is higher than that of boys,especially suicide.(6) Junior high school students in the central and western regions are more likely to have mental health problems, especially anxiety and self-harm, than those in the northeast and eastern regions.In the future,scientific measurement tools and standards should be developed based on the Chinese background, and a mental health dynamic monitoring system and school mental health service system should be established.
+
+Key words: mental health, prevalence, junior high school student, meta-analysis

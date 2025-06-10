@@ -1,0 +1,295 @@
+[
+    {
+        "type": "text",
+        "text": "苔藓生物结皮层腐殖质组成变化特征研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "闫德仁，张胜男，吴振廷（内蒙古林业科学研究院,内蒙古呼和浩特010010)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：腐殖质组成是表征土壤化学性质的主要指标之一，在某种程度对评价风沙土的发育过程具有意义。采集了不同气候区沙地沙漠苔藓生物结皮层样品，采用重铬酸钾容量法和光密度法测定了苔藓结皮层腐殖质组成含量和胡敏酸吸光特性。结果表明：随着干燥指数的增加，苔藓结皮层有机质含量由 $1 4 . 9 3 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ 降低到 $9 . 8 9 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ，腐殖酸总量由 $5 . 1 \\ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ 降低到 $2 . 0 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ，胡敏酸含量由 $2 . 9 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 降低到 $0 . 7 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ，富里酸含量由 $2 . 2 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 降低到 $1 . 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ，胡敏酸与富里酸比值( $\\cdot H A / F A )$ 由1.32 降低到 $0 . 5 4 , E _ { 4 } / E _ { 6 }$ 比值则由4.28增加到5.83。苔藓结皮层腐殖质组成含量及胡敏酸吸光特性具有地带性变化趋势，并影响着生物结皮层及流动风沙土的发育演变过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：苔藓生物结皮；沙漠；有机质；腐殖质组成；地带性特征",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "防沙治沙是我国西部地区生态建设的重点，经过近60a的努力，沙漠治理取得了明显的成效，而流动沙地固定的显著特征，不仅仅是植被盖度的增加，更重要的地表形成生物结皮（biologicalsoilcrusts，BSC）。生物土壤结皮层的存在不仅能够影响流动风沙土的养分循环和维管植物群落发育，而且对改变土壤的水文过程、促进风沙土发育等也具有良好效果，特别是在缺乏氮素的干旱生态系统中更具有生态意义。国外相关报道表明1，在沙漠地区，通过表层土壤养分的富集作用，生物结皮不仅能够促进土壤中的物质能量循环,而且进一步影响着土壤的发育过程，同时随着维管植物的生长发育并拦截沉积大量细颗粒物质，为逐渐形成顶级类型的苔藓结皮层提供物质条件。国内的相关报道认为[2]。沙漠地区生物结皮层同样具有富集表层土壤养分的作用，并对风沙土壤的物理特性具有明显的改善作用[3-5]。杨元明[6的研究表明,表层土壤$\\mathrm { ' } 0 \\sim 5 \\ \\mathrm { c m } , \\$ )有机质含量最高，并随土层深度增加，积累的有机质呈降低趋势。张军红等[7认为,生物结皮的发育，显著增加了表层土壤有机质的含量。郭轶瑞等5认为土壤全氮、全磷、速效氮、速效磷、有机质等养分含量主要富集在 $0 \\sim 5 ~ \\mathrm { c m }$ 生物结皮层。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "闫德仁等8研究表明，生物土壤结皮层形成的时间越长，生物结皮层中土壤腐殖质组成含量越高，并且在不同气候区，其腐殖质组成及其结构特征表现出区域性的变化特征。窦森等 研究表明，在土壤有机碳中的腐殖质不易被微生物分解，是土壤有机碳库中比较稳定的物质组分，因此，腐殖质含量及其组成特征能够从某种程度上反映土壤结构的形成特征。为此，本文通过研究干旱沙漠、半干旱沙地气候条件下苔藓生物结皮层腐殖质的变化特征，对进一步阐明不同气候区生物土壤结皮层腐殖质组成是否存在地带性的变化趋势，客观评价苔藓生物结皮层对风沙土发育过程的影响如何具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "样地分别选择半干旱区的呼伦贝尔沙地、科尔沁沙地人工固沙林，干旱区的库布齐沙漠和腾格里沙漠人工固沙林。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "呼伦贝尔沙地选择在鄂温克旗，干燥度 $1 . 2 \\sim$ 1.5,年平均降雨 $3 5 0 \\ \\mathrm { m m }$ ,年平均气温 $- 2 . 3 \\mathrm { ~ \\textdegree C }$ ，年平均蒸发量 $1 ~ 4 6 6 . 6 ~ \\mathrm { m m }$ ,无霜期 $9 0 \\sim 1 0 0 \\mathrm { ~ d ~ }$ 。人工固沙林树种主要为樟子松、榆树、杨柴，植被盖度",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$6 0 \\% \\sim 7 5 \\%$ ,样地林龄分别为 $2 0 \\textrm { a } , 3 0$ a和 $4 0 \\mathrm { ~ a ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "科尔沁沙地选择在科尔沁左翼后旗，干燥度$1 . 0 \\sim 1 . 4 9$ ,年平均降雨 $4 6 8 ~ \\mathrm { { \\ m m } }$ ,年平均气温 $5 . 9 ~ \\mathrm { ^ { \\circ } C }$ ，年平均蒸发量 $1 ~ 8 9 5 ~ \\mathrm { m m }$ ,无霜期 $1 3 0 \\sim 1 5 0 \\mathrm { ~ d ~ }$ 。人工固沙林树种主要为樟子松,植被盖度 $5 0 \\% \\sim 8 0 \\%$ ，样地林龄分别为20a、30a $4 0 \\textrm { a }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "库布齐沙漠选择在库布齐沙漠北缘达拉特旗展旦召苏木，气候干燥度2.05，年平均降雨量 $3 1 7 ~ \\mathrm { m m }$ .年平均气温 $6 ~ \\mathrm { { ^ \\circ C } }$ ,年平均蒸发量 $2 ~ 1 6 0 ~ \\mathrm { m m }$ ,无霜期$1 3 0 \\sim 1 4 0 \\mathrm { ~ d ~ }$ 。杨树等林草植被平均覆盖度 $5 0 \\%$ \\~$70 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "腾格里沙漠选择在中国科学院西北生态院的沙坡头沙漠试验站，气候干燥度2.5，年平均降雨$1 8 6 . 4 ~ \\mathrm { m m }$ ，年平均气温 $9 . 6 \\mathrm { ~ \\textdegree C }$ ，年平均蒸发量$2 ~ 8 8 0 . 5 ~ \\mathrm { m m }$ ,无霜期 $1 5 0 \\sim 1 8 0 \\mathrm { ~ d ~ }$ 。柠条、沙蒿等灌草植被平均覆盖度 $45 \\% \\sim 5 0 \\%$ ，取样地林龄分别为26a $\\phantom { 0 } { \\cdot 2 9 }$ a $\\phantom { + } \\cdot 4 8$ a和 $5 2 \\mathrm { ~ a ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 分析样品",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2017年7月分别在呼伦贝尔沙地、科尔沁沙地和库布齐沙漠分别选择20a $\\cdot 3 0$ a $\\phantom { + } \\cdot 4 0$ a人工固沙林植被样地，在腾格里沙漠选择26a、29 a $\\cdot 4 8$ a、52 a人工固沙植被样地。在上述样地内，选择苔藓生物结皮发育完成的典型样方，即样方苔藓生物结皮层覆盖率 $100 \\%$ 。然后采集苔藓生物结皮层，其厚度$1 . 0 \\ \\sim 1 . 5 \\ \\mathrm { c m }$ 。在上述4个地区的每个样地中，采集2～3重复的典型苔藓生物结皮层样品，分别放入自封袋内，然后在室内风干备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 腐殖质及其组成测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述分析样品过60目筛后，进行有机质及其组成含量的测定。具体测定方法为重铬酸钾容量法。胡敏酸光密度值采用VIS-723型分光光度计法测定。每个分析测试样本2个重复，其平均值作为分析数据。不同气候区苔藓生物结皮层腐殖质组成含量及其吸光特性数据采用总平均值（不同时间样地测定值总平均)进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1沙漠沙地苔藓生物结皮层腐殖质组成变化趋势",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在以往的研究中，土壤腐殖质组成在我国表现出明显的水平地带性变异[10];或者说,随着漠钙土、灰钙土、栗钙土，以及黑土带的更迭，不仅胡敏酸含量逐渐增加，而且其芳构化度和分子量也逐渐增加[]。同样,由于气候条件的显著差异,不同气候区沙漠苔藓生物结皮层土壤有机质及其组成含量差异显著(表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着干燥度降低，各样地内苔藓结皮层有机质由 $9 . 8 9 \\ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ 逐渐增加到 $1 4 . 9 3 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ ,腐殖酸由 $2 . 0 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 增加到 $5 . 1 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,胡敏酸由0.7$\\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ 增加到 $2 . 9 0 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ,胡敏酸与富里酸比值0 $[ H A / F A \\rangle$ 由0.54增加到1.32。从 $E _ { 4 6 5 } \\setminus E _ { 6 6 5 }$ 吸光值变化看，随着干燥度增加，反映胡敏酸光学特性的$E _ { 4 6 5 } \\setminus E _ { 6 6 5 }$ 值减少，而 $E _ { 4 } / E _ { 6 }$ 比值在增加,说明胡敏酸结构得到进一步改善，其分子量和芳构化度也逐渐增加。表明不同气候区沙漠生物结皮层腐殖质组成和结构特征具有区域性变化特征。陈隆亨等[12]认为从亚湿润区、半干旱区到干旱区，由于降雨量、温度变化，进一步影响土壤腐殖酸中胡敏酸和富里酸比值变化，并呈现出降低的趋势，例如，在黑钙土区，风沙土中的胡敏酸分子的芳香核缩合程度较高，而在干旱区，风沙土中的胡敏酸分子芳香核缩合较低。这反映出地带性气候对腐殖质结构组成的影响，并进一步影响着风沙土演变过程。因为，胡敏酸分子容易和土壤中的各种无机养分结合后，土壤变得相对疏松，孔隙增加，土壤理化性质得到改善，并进一步促进风沙土肥力的增加。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2沙地苔藓结皮层腐殖质组成特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "流动沙地建立植被后，风蚀得到有效控制，为生物结皮的形成提供了保障。段争虎等[13]研究认为流沙本身的颗粒物是生物结皮层形成的物质基础，而结皮形成的关键颗粒物是粗粉沙，并且生物结皮形成演变过程就是粗粉沙不断物理聚集和分选的动态过程。所以，结皮层形成时间对腐殖质组成具有重要影响。因为结皮层形成时间越长，积累的细颗粒物和有机物也就相对越多。从表2可以看出，在半干旱区沙地气候环境条件下，苔藓生物结皮层形成时间越长，越有利于结皮层土壤有机质和腐殖质组成含量的增加。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/712a19cc1357bd400c83c8b3ab4809caf1b830b8897b9d38162d97447f99c38f.jpg",
+        "table_caption": [
+            "表1苔藓结皮层腐殖质组成特征的变化",
+            "Tab.1 Changes of humus composition of bryophyte crust "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地点</td><td>有机质/g·kg-1</td><td>腐殖酸/g·kg-1</td><td>胡敏酸/g·kg-1</td><td>富里酸/g·kg-1</td><td>HA/FA</td><td>E465</td><td>E665</td><td>E4/E6</td></tr><tr><td>呼伦贝尔沙地</td><td>14.93</td><td>5.10</td><td>2.90</td><td>2.20</td><td>1.32</td><td>0.214</td><td>0.050</td><td>4.28</td></tr><tr><td>科尔沁沙地</td><td>17.77</td><td>6.00</td><td>2.70</td><td>2.30</td><td>1.17</td><td>0.144</td><td>0.029</td><td>4.96</td></tr><tr><td>库布齐沙漠</td><td>13.14</td><td>2.50</td><td>1.10</td><td>1.40</td><td>0.79</td><td>0.065</td><td>0.013</td><td>5.00</td></tr><tr><td>腾格里沙漠</td><td>9.89</td><td>2.00</td><td>0.70</td><td>1.30</td><td>0.54</td><td>0.035</td><td>0.006</td><td>5.83</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在科尔沁沙地， $2 0 \\mathrm { ~ a ~ }$ 苔藓结皮层有机质为11.52$\\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ ,腐殖酸 $3 . 4 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,胡敏酸为 $2 . 0 0 \\mathrm { ~ g ~ } \\cdot$ ，$\\mathbf { k g } ^ { - 1 }$ ，而 $4 0 \\mathrm { ~ a ~ }$ 苔藓结皮层分别为 $2 4 . 7 7 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g } ^ { - 1 }$ 、$9 . 3 0 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ 和 $4 . \\ 1 0 \\ \\mathrm { ~ g ~ } \\cdot \\ \\mathrm { k g } ^ { \\mathrm { ~ - ~ 1 ~ } }$ ;在呼伦贝尔沙地,20 a苔藓结皮层有机质为 $1 2 . 4 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ，腐殖酸$4 . 4 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,胡敏酸为 $3 . 4 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,40a苔藓结皮层分别为 $1 7 . 5 8 \\textrm { g } \\cdot \\textrm { k g } ^ { - 1 } \\cdot 6 . 3 0 \\textrm { g } \\cdot \\textrm { k g } ^ { - 1 }$ 和3.10$\\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ 。此外,由于气候条件的差异,两个沙地苔藓结皮层胡敏酸光学特性，即 $E _ { 4 6 5 } \\setminus E _ { 6 6 5 }$ 值 $. E _ { 4 } / E _ { 6 }$ 比值的变化趋势并不相同，其原因可能和区域降水、温度差异有关。王丽莉[14]认为影响土壤腐殖质形成和转化的两个重要环境因子是温度和水分。崔燕[15]对毛乌素沙地不同植被土壤腐殖质特征，表明本氏针茅群落作为该地区的顶级植被群落，其腐殖质C、胡敏酸C和富里酸C含量最高，其次是油蒿群落,牛心朴子群落最低。贾树海等[16]在科尔沁沙地章古台的研究表明，云杉樟子松林土壤腐殖质C 含量为 $2 . 0 4 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 、榆树樟子松林为 $1 . 9 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 、樟子松纯林为 $1 . 7 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 、怀槐樟子松林为1.58$\\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ 、对照只有 $0 . 7 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,且各个林型土壤富里酸均高于胡敏酸。此外,陈隆亨等[12]在内蒙古呼伦贝尔沙地辉河林场樟子松林地分析沙土腐殖质含量， $3 \\sim 2 1 ~ \\mathrm { c m }$ 土层全C 含量为 $4 . 2 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ,腐殖质C为 $1 . 3 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g } ^ { - 1 }$ ,胡敏酸C为 $0 . 7 2 6 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ，而在浑善达克沙地克什克腾旗云杉林地， $. 5 \\sim 2 9 ~ \\mathrm { c m }$ 土层全C含量为 $3 3 . 9 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,腐殖质C为12.76$\\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ ,胡敏酸C为 $7 . 5 1 \\ \\mathrm { ~ g ~ } \\cdot \\ \\mathrm { k g } ^ { \\mathrm { ~ - ~ 1 ~ } }$ 。所以,文启孝[0]认为在同一地带内,由于母质或植被不同,腐殖质组成也将因之而异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3沙漠苔藓结皮层腐殖质组成特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱沙漠区的气候特点是干旱、少雨和高温，这样的气候条件不利于土壤腐殖质积累。但是在库布齐沙漠的达拉特旗属于沙地气候环境，其苔藓结皮层有机质和腐殖质组成含量明显高于腾格里沙漠。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从表3中看出，在库布齐沙漠(达拉特旗)随着苔藓生物结皮形成时间的增加，有机质含量增加，但腐殖质各组成含量并没有呈现增加的趋势，而20a生物结皮层的腐殖酸、胡敏酸、富里酸含量则最高。而且，随着沙漠区苔藓生物结皮形成时间的增加，胡敏酸 $E _ { 4 6 5 } \\setminus E _ { 6 6 5 }$ 吸光值增加,同时 $E _ { 4 } / E _ { 6 }$ 比值在减少,而 $H A / F A$ 比值增加。 $H A / F A$ 比值越大，土壤腐殖物质的聚合越高，反映了苔藓生物结皮层胡敏酸分子量和分子的芳构化度逐渐增加，并改善胡敏酸结构。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a738cd1fadb641ac49f219078bec4870aa9ed11c09f9b3559af9704a2a76469.jpg",
+        "table_caption": [
+            "表2沙地苔藓生物结皮层不同形成时间腐殖质特征的变化",
+            "'ab.2Changes of humus characteristics in different formation time of bryophyte crust in sandy: "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地点</td><td></td><td>有机质／g·kg-1</td><td>腐殖酸／g·kg-1</td><td>胡敏酸／g·kg-1</td><td>富里酸／g·kg-1</td><td>HA/FA</td><td>E465</td><td>E665</td><td>E4/E6</td></tr><tr><td>科尔沁沙地</td><td>40a</td><td>24.77</td><td>9.30</td><td>4.10</td><td>5.20</td><td>0.78</td><td>0.205</td><td>0.043</td><td>4.76</td></tr><tr><td rowspan=\"5\"></td><td>30a</td><td>17.02</td><td>5.40</td><td>2.10</td><td>3.30</td><td>0.63</td><td>0.118</td><td>0.022</td><td>5.36</td></tr><tr><td>20a</td><td>11.52</td><td>3.40</td><td>2.00</td><td>1.40</td><td>1.43</td><td>0.109</td><td>0.022</td><td>4.95</td></tr><tr><td>40 a</td><td>17.58</td><td>6.30</td><td>3.10</td><td>3.20</td><td>0.96</td><td>0.168</td><td>0.033</td><td>5.09</td></tr><tr><td>30a</td><td>14.75</td><td>4.70</td><td>2.30</td><td>2.40</td><td>0.95</td><td>0.115</td><td>0.025</td><td>4.60</td></tr><tr><td>20a</td><td>12.45</td><td>4.40</td><td>3.40</td><td>1.00</td><td>3.40</td><td>0.360</td><td>0.093</td><td>3.87</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffbf65eb5e2194ff8e7173ad16295abf2a5b1df2b4684c814e6fe18630e3c240.jpg",
+        "table_caption": [
+            "表3沙漠苔藓结皮层不同形成时间腐殖质特征的变化",
+            "Tab.3 Changes of humus characteristics in different formation time of bryophyte crust in desert "
+        ],
+        "table_footnote": [
+            "注;腾格里沙漠\\*,相关数据来源于文献[17]"
+        ],
+        "table_body": "<html><body><table><tr><td>地点</td><td></td><td>有机质／g·kg-1</td><td>腐殖酸／g·kg-1</td><td>胡敏酸／g·kg-1</td><td>富里酸／g·kg-1</td><td>HA /FA</td><td>E465</td><td>E665</td><td>E4/E6</td></tr><tr><td>腾格里沙漠*</td><td>52 a</td><td>11. 95</td><td>2.20</td><td>0.90</td><td>1.30</td><td>0.69</td><td>0.054</td><td>0.011</td><td>4.90</td></tr><tr><td rowspan=\"6\"></td><td>48a</td><td>10.28</td><td>1.80</td><td>0.80</td><td>1.00</td><td>0.80</td><td>0.044</td><td>0.007</td><td>6.28</td></tr><tr><td>29 a</td><td>8.73</td><td>1.90</td><td>0.50</td><td>1.40</td><td>0.35</td><td>0.021</td><td>0.003</td><td>7.00</td></tr><tr><td>26 a</td><td>8.61</td><td>2.10</td><td>0.40</td><td>1.70</td><td>0.23</td><td>0.019</td><td>0.004</td><td>4.75</td></tr><tr><td>40a</td><td>14.40</td><td>2.10</td><td>1.00</td><td>1.10</td><td>0.91</td><td>0.082</td><td>0.017</td><td>4.82</td></tr><tr><td>20a</td><td>12. 55</td><td>3.10</td><td>1.20</td><td>1.90</td><td>0.63</td><td>0.051</td><td>0.010</td><td>5.10</td></tr><tr><td>13a</td><td>12. 46</td><td>2.20</td><td>1.00</td><td>1.20</td><td>0.83</td><td>0.061</td><td>0.011</td><td>5.54</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在腾格里沙漠，随着生物结皮形成时间增加，有机质及其组成的含量同样表现出增加的趋势。26a生物结皮层有机质含量为 $8 . 6 1 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ,而52a生物结皮层有机质含量增加到 $1 1 . 9 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ;26a生物结皮层腐殖酸为 $2 . 1 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,52a生物结皮层为 $2 . 2 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g } ^ { - 1 }$ ,26a生物结皮层胡敏酸含量为$0 . 4 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 }$ ,52a生物结皮层为 $0 . 9 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ，并且胡敏酸的光密度吸光值 $E _ { 4 6 5 } \\setminus E _ { 6 6 5 }$ 也随着生物结皮层形成时间的增加而增加，而 $E _ { 4 } / E _ { 6 }$ 比值呈现出减少趋势，说明，在沙漠地区苔藓生物结皮层形成时间增加，同样增加了胡敏酸分子量及其芳构化程度。张玉兰等[18]认为,在沙漠地区固沙植被营建时间越长，越有利于土壤有机质及其组分含量的增加，同时$H A / F A$ 比值也呈现增加的特征。说明流动风沙土被植被固定后，土壤理化性质得到改善，并提高了有机质的腐殖化程度，进一步促进了风沙土的发育过程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤有机质作为土壤有机碳的重要来源，不仅是衡量土壤质量的一个关键属性，而且对提高土壤肥力水平具有重要作用，同时也是衡量特定土壤类型发育演变及评价其结构稳定性的重要指标。因为，土壤有机质通过影响土壤理化性质及土壤的生物学性质而进一步影响土壤的肥力特性,并为植物生长提供养分。而风沙地区的生物结皮作为荒漠生态系统的重要成分部分，深刻影响着防风固沙生态体系的安全。所以，研究风沙地区苔藓生物结皮层腐殖质组成特征和胡敏酸光学特性变化，对深入探讨流动风沙土发育演变过程具有重要的意义。闫德仁等[8研究了鄂尔多斯乌审旗、伊金霍洛旗、达拉特旗等地飞播林生物结皮层腐殖质及其组成的变化，初步分析了其地带性变化的特点，并认为胡敏酸的增加对改善风沙土的性质具有重要作用。王静春[9]认为干燥指数由0增加到0.53 时,腐殖酸相对分子质量和芳香性逐渐增强，而当干燥指数大于0.53时，腐殖酸分子量和芳香度降低。陈隆亨等[12]研究表明,草原栗钙土 $0 \\sim 1 0 \\ \\mathrm { c m }$ 土层胡敏酸C含量为 $1 . 4 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,荒漠草原栗钙土 $0 \\sim 1 7 ~ \\mathrm { c m }$ 土层胡敏酸C含量为 $0 . 1 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,富里酸C含量分别为 $1 . 0 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 和 $0 . 4 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ， $H A / F A$ 比值分别为1.37和0.92。表明不同气候区风沙土腐殖质组成的地带性特征，从某种程度讲也反映了生物结皮层有机质、腐殖质组成特征地带性差异。说明沙漠沙地生物结皮层腐殖质组成及其结构特征具有地带性烙印。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）生物土壤结皮层中有机质、腐殖质及其组成含量的变化是对自然环境、气候条件变化响应比较敏感的指标之一，并能够在短期内表现出其特定的变化规律。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）从腾格里沙漠往东到呼伦贝尔沙地，随着不同地区干燥度降低，苔藓生物结皮层胡敏酸结构得到进一步改善，反映出苔藓结皮层腐殖质组成含量及胡敏酸吸光特性具有地带性变化特征，并影响着生物结皮层及流动风沙土的发育演变过程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）由于沙地沙漠环境的差异，随着生物结皮形成时间增加，不同地区苔藓结皮层有机质和腐殖质组成含量变化特征不同，但总体变化呈现增加的趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1］闫德仁，薛英英，韩凤杰,等.国外沙漠生物结皮研究概况[J]. 内蒙古林业科技,2007,33（1）:39－42.［YANDeren,XUE Yingying,HAN Fengjie,et al.Present study on biological soil crusts in abroad deserts[J].Journal of Inner Mongolia Forestry Science& Technology,2007,33（1）:28-32.]   \n[2]闫德仁,薛英英,赵春光.沙漠生物结皮国内研究现状[J].内 蒙古林业科技,2007,33(3）:28-32.[YAN Deren,XUE Yingying,ZHAO Chunguang.Present study on biological soil crusts in China[J].Journal of Inner Mongolia Forestry Science & Technology,2007,33(3):28-32.]   \n[3］贾宝全,张红旗,张志强,等.甘肃省民勤沙区土壤结皮理化性 质研究［J].生态学报，2003,23（7）：1442-1448.［JIABaoquan,ZHANG Hongqi,ZHANG Zhiqiang,et al. The study on the phyical and chemical characteristic of sand soil crust in the Minqin County,Guansu Province[J].Acta Ecologica Sinica,2O03,23 (7):1442 -1448.]   \n[4] 李卫红，任天瑞，周智彬，等.新疆古尔班通古特沙漠生物结皮 的土壤理化性质分析[J].冰川冻土，2005，27（4)：619-626. [LIHongwei,REN Tianrui,ZHOU Zhibin,et al. Study on the soil physicochemical characteristics of biological crusts on sand-dune surface in Gurbantunggut Desert,Xinjiang Region[J].Journal of Glaciology and Geocryology,2005,27(4） :619-626.] ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[5]郭轶瑞，赵哈林,赵学勇，等.科尔沁沙地结皮发育对土壤理化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "性质影响的研究[J].水土保持学报,2007,21（1)：135－139.[ GUO Yirui,ZHAO Halin,ZHAO Xueyong,et al. Study on crust development and its influences on soil physicochemical properties in Horqin Sand[J].Journal of Soil and Water Conservation,2007,21 (1):135-139.] [6]张元明,杨维康，王雪芹,等.生物结皮影响下的土壤有机质分 异特征［J].生态学报,2005,23（12）：3420-3425.［ZHANG Yuanming,YANGWeikang，WANG Xueqin,et al.Influenceof cryptogamic soil crusts on accumulation of soil organic matter[J]. Acta Ecologica Sinica,2005,23（12）:3420 -3425.] [7］张军红,吴波.油蒿与臭柏沙地生物结皮对土壤理化性质的影 响[J].东北林业大学学报,2012,40（3）:58-61.[ZHANG Junhong,WU Bo.Influences of biological soil crusts on physicochemical properties of soil in Artemisia ordosica and Sabina vulgaris communities[J].Journal of Northeast Forestry University,2012,   \n40(3) :58 -61.] [8］闫德仁,薛英英,赵春光.沙漠地区生物土壤结皮层腐殖质特 征[J].生态学杂志,2007,26（2）:2017-2020.[YAN Deren, XUE Yingying,ZHAO Chunguang.Humus feature in soil bio-crust in desert area[J].Chinese Journal of Ecology,2007,26（2）：   \n2017 -2020.] [9］窦森,周桂玉,杨翔宇,等.生物质碳及其与土壤腐殖质碳的关系 [J].土壤学报,2012,49(4）:796-802.[DOU Sen,ZHOU Guiyu, YANG Xiangyu,et al.Biochar and its relation to humus crabon in soil[J].Acta Pedologica Sinica.2012,49(4) :796-802.] [10］文启孝.土壤有机质研究法［M].北京：农业出版社,1984. [WEN Qixiao.Soil organic matter research method[M]. Beijing: Agricultural Press,1994.] [11］中国科学院南京土壤研究所.中国土壤[M].北京：科学出版 社,1978.[Nanjing Institute of Soil Science,Chinese Academy of Sciences.Soils of China[M].Beijing：Science Press,1978.] [12］陈隆亨,李福兴,邸醒民,等.中国风沙土［M].北京：科学出版 社,1998.[CHEN Longheng,LI Fuxing,DI Xingmin,et al. Sand soils of China[M]. Beijing:Science Press,1998.] [13］段争虎，刘新民，屈建军.沙坡头地区土壤结皮形成机理的研 究[J].干旱区研究,1996,（2）:31-36.［DUAN Zhenghu,LIU Xinmin,QU Jianjun.Study on formation mechanism of soil crust in the Shapotou Area[J].Arid Zone Research,1996,(2） :31-36.] [14］王丽莉.温度和水分对土壤腐殖质形成与转化的影响[D].长 春：吉林农业大学,20O3.［WANG Lili.Effects of temperature and moisture on the formation and transformation of soil humus[D]. Changchun:Jilin Agricultural University,2003.] [15］崔燕.沙质荒漠化过程中土壤有机碳变化特征［D].北京：中 国农业大学,2004.[CUI Yan.Characteristics of soil organic carbon change during sandy desertification[D]. Beijing：China Agricultural University,2004.] [16］贾树海，王薇薇,张日升.不同林型土壤有机碳及腐殖质组成 的分布特征[J].水土保持学报,2017,31（6)：189-198.［JIA Shuhai,WANG Weiwei,ZHANG Risheng.Distribution characteristics of soil organic carbon and humus composition in different forest Types[J]. Journal of Soil and Water Conservation,2017,31（6）：   \n189 -198.] [17］闫德仁,张胜男，闫婷.沙坡头苔藓结皮层土壤特性研究[J]. 中国土壤与肥料,2019,282（4）:47-52.［YANDeren,ZHANG Shengnan,YAN Ting. Study on soil properties evolution of moss biological crust layer in Shapotou Area[J].Soil and Fertilizer Sciences in China,2019,282(4):47 -52.] [18］张玉兰，孙彩霞,段争虎，等.光谱法分析固沙工程对土壤腐殖 质及组分的影响[J].光谱学与光谱分析,2010,31（1)：179-   \n183.[ZHANG Yulan,SUN Caixia,DUAN Zhenghu,et al.Effect of sand-stabilization engineering on soil humus and components by analysis by several spectroscopy methods[J].Spectroscopy and Spectral Analysis,2010,31(1) :179-183.] [19］王静春.中国干旱半干旱草原地区土壤中腐殖质的提取与表 征研究［D].哈尔滨：哈尔滨工业大学,2015.[WANG Jingchun.Extraction and characterization of humus from soils in arid and semi-arid grassland regions of China[D].Harbin：Harbin University of Technology,2015.] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Characteristics of humus composition in crusts of bryophytes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "YAN De-ren， ZHANG Sheng-nan， WU Zhen-ting(InnerMongolia AcademyofForestry Science,HohhotOloolO,InnerMongolia,China)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Humus composition is one of the basic characteristics of soil,which has important guiding significance forthe evaluation of soil formation and evolution proces.In this paper,the samples of bryophyte crust layers from sandy deserts in diferent climatic regions of Inner Mongolia,China were collected.Thecontent of humuscompositionof bryophyte crust layers and the light absorption properties of humic acid were determined by potassium dichromate volumetric method and optical density method.The results showed that with the increase in the dryness index, bryophyte crust organic matter content was reduced from 14.93 to $9 . 8 9 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,total humic acid content was reduced from 5.1 to $2 . 0 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ,humic acid content was reduced from 2.9 to $0 . 7 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ,folic acid content was reduced from 2.2 to $1 . 3 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ， $H A / F A$ ratio was reduced from 1.32 to 0.45 ,and $E _ { 4 } / E _ { 6 }$ ratio was increased from 4.28 to5.83.Thecontent of humus in bryophyte crust and the light absorption properties of humic acid have a zonal trend,and it influences the development and evolution of biological crusts and aeolian sandy soils. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key words:bryophyte crust layers；desert；organic matter； humus composition； zonality trend",
+        "page_idx": 4
+    }
+]

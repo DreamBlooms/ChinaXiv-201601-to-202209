@@ -1,0 +1,286 @@
+产几丁质酶菌株的筛选、鉴定及其对玉米秸秆中优势霉菌的抑制作用张立阳 张幸怡 张薇林聪 张永根\*（东北农业大学动物科学技术学院，哈尔滨150030)
+
+摘要：本试验旨在研究利用产几丁质酶菌株抑制玉米秸秆中优势霉菌的生长，为提高秸秆利用率提供理论依据。利用胶体几丁质培养基从玉米秸秆样品中筛选出一株产几丁质酶菌株BS-1，同时将优势霉菌进行分离、纯化。通过对BS-1菌株和优势霉菌形态学观察以及16SrDNA或18SrDNA序列测定进行菌种鉴定。利用3，5-二硝基水杨酸比色法测定BS-1菌株发酵24、48、72、96、120、144、168h的几丁质酶活性，以及牛津杯法检测BS-1菌株发酵液对玉米秸秆中优势霉菌的抑制作用。结果显示，玉米秸秆样品中分离出的BS-1菌株经鉴定为枯草芽孢杆菌（Bacillus subtilis），4株优势霉菌分别为卷枝毛霉（Mucorcircinelloides）、尖孢镰刀菌（Fusarium oxysporum）、米曲霉（Aspergillus oryzae）和黑曲霉（Aspergillus niger）。BS-1菌株在37℃下培养120h产几丁质酶活性达到最高值3.23U/mL。BS-1菌株发酵液对玉米秸秆中4株优势霉菌均有明显抑制作用，抑菌圈直径分别为18.13、18.48、17.55、15.68 mm。由此可见，筛选到的产几丁质酶枯草芽孢杆菌BS-1能够有效抑制玉米秸秆中的卷枝毛霉、尖孢镰刀菌、米曲霉、黑曲霉4株优势霉菌生长。
+
+关键词：玉米秸秆；优势霉菌；抑菌；几丁质酶；枯草芽孢杆菌中图分类号：S816.3 文献标识码： 文章编号：
+
+我国是农业大国，秸秆产量位居世界第一，尤其是玉米秸秆，是反刍动物重要的粗饲料来源[1]。农业部调查报告指出，2009年我国玉米秸秆产量为2.65亿t[2]，据国家统计局数据显示，玉米播种面积仍在不断上升，玉米秸秆产量亦同步增加。近年来秸秆的不当处理，造成空气污染严重[3]，尤其是PM2.5、PM10对人的呼吸系统危害极大。国家发展和改革委员会、农业部、财政部等已在资金补贴、电价、税收等多方面出台优惠政策，大力推进秸秆饲料化利用研究[4-6]。但由于玉米秸秆在打捆、揉丝等机械化收储，加工时天气多变，易卷入泥土等原因，贮藏过程极易发霉腐败。为解决这一问题，丙酸、丙酸盐等多种化学防霉剂先后上市，但因其不具备生物活性、成本高、对加工机械和操作人员的皮肤和呼吸系统具有强烈腐蚀性等原因，使其应用在玉米秸秆这一廉价资源的防霉抑菌上受到限制。因而开发一种具备生物活性的菌制剂替代传统化学防霉剂，节约贮藏成本，解决秸秆霉变问题，势在必行。
+
+几丁质又称甲壳素，是自然界中含量仅次于纤维素的第二大可再生资源，是组成真菌细胞壁的主要成分。几丁质酶系可作用于 $\beta$ -1，4糖苷键，分解几丁质产生N-乙酰氨基葡萄糖(NAG)。Kishore等[7认为，一些细菌能够分泌几丁质酶，通过破坏真菌细胞壁对真菌产生抑制作用。已报导的多种产几丁质酶菌株，如变形斑沙雷式菌[8]、赭绿青霉菌[]和侧孢芽孢杆菌[10]，对尖孢镰刀菌、黑曲霉、小麦赤霉菌等真菌有较强抑制作用。目前，国内外对几丁质酶的应用研究主要集中在水稻、棉花、烟草等植物的抗真菌病虫害以及对几丁质类工业废物的生物降解上，将其应用于秸秆等饲料资源防霉抑菌的研究还未见报导。微生物法处理秸秆的研究也主要集中于秸秆的微生物降解，如刘尧等[1筛选的复合菌系22℃培养16 d,玉米秸秆降解率达 $3 8 . 5 \%$ ；萨如拉等[12]筛选出低温下有效降解玉米秸秆的复合菌系，15d降解率达 $3 2 . 2 1 \%$ 。本试验从玉米秸秆中筛选优势霉菌及几丁质酶高产菌，并对高产菌的几丁质酶活性和其对优势霉菌的抑制作用进行测定，旨在探究引起玉米秸秆霉变的霉菌种类，并验证产几丁质酶菌株的抑真菌能力，以期能用微生物处理替代传统化学防霉剂，为玉米秸秆的贮藏提供理论支持和实践指导。
+
+# 1材料与方法
+
+# 1.1 玉米秸秆及菌株
+
+玉米秸秆来自黑龙江省农垦九三管理局七星泡农场。产几丁质酶菌株和4株霉菌均从玉米秸秆捆中分离纯化。
+
+# 1.2主要培养基及试剂配制
+
+马铃薯葡萄糖（PDA）培养基、高盐察氏培养基用于霉菌的分离、纯化及培养；发酵培养基用于产几丁质酶菌株的活化和培养，配方为：在溶菌肉汤（LB）培养基的基础上加入$2 5 \%$ （V/V）的 $1 \%$ 胶体几丁质；胶体几丁质培养基用于产几丁质酶菌株的筛选，配方为： $1 \%$ 胶体几丁质 $2 5 0 ~ \mathrm { m L }$ 、 ${ \mathrm { K } } _ { 2 } { \mathrm { H P O } } _ { 4 }$ 3H2O 0.7 g、KH2PO4 0.3 g、FeSO4:7H2O 0.01 g、MgSO4:7H2O$0 . 5 \mathrm { \ g }$ ，蒸馏水定容至 $1 0 0 0 { \mathrm { m L } }$ 。以上培养基均在121 $\mathrm { { } ^ { \circ } C }$ 灭菌 $2 0 \mathrm { m i n }$ 后取出冷却备用。固体培养基需在灭菌前加入 $2 \%$ 琼脂。
+
+$1 \%$ 胶体几丁质的配制参考Roberts等[13]的方法，并做了简单的修改，具体如下：称取5g几丁质粉末（购于Sigma公司)，溶解于 $2 0 0 ~ \mathrm { m L }$ 、4℃下预冷的浓盐酸中，快速搅拌2h后，加入到 $1 0 0 0 { \mathrm { m L } }$ 、 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下预冷的 $5 0 \%$ 乙醇中，再次快速搅拌 $2 \mathrm { h }$ ，于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱过夜，离心收集沉淀，用去离子水反复冲洗、离心至中性，将沉淀分散至少许去离子水中。取一定量上述胶体几丁质于105℃下烘干，测定其浓度，调整最终浓度为 $1 \%$ (m/V)，121 $\mathrm { { } ^ { \circ } C }$ 下灭菌20 min备用。
+
+3，5-二硝基水杨酸（DNS）溶液：称取 $3 . 1 5 \ \mathrm { g \ C _ { 7 } H _ { 4 } N _ { 2 } O _ { 7 } }$ ，加入到 $6 0 0 ~ \mathrm { m L }$ 去离子水中,搅拌，水浴加热至45℃。逐步加入 $0 . 2 \ \mathrm { g / m L }$ 的NaOH溶液 $1 0 0 ~ \mathrm { { m L } }$ ，搅拌至清澈透明。再加入C4H4KNaO6·4H2O 91.0 g、C6H5OH 2.5 g和 $\mathsf { I N a } _ { 2 } \mathsf { S O } _ { 3 } 2 . 5 \ \mathrm { g }$ ，同时补加去离子水 $3 0 0 ~ \mathrm { m L }$ ，45℃水浴中搅拌至完全溶解，定容至 $1 0 0 0 { \mathrm { m L } }$ ，避光保存。
+
+# 1.3拮抗菌株及优势霉菌的分离、纯化
+
+取采集到的玉米秸秆 $\mathrm { \nabla } \cdot \mathsf { s } _ { \mathrm { \nabla \mathrm { g } } }$ ，放入含有 $2 5 0 ~ \mathrm { m L }$ 灭菌生理盐水的玻璃塞三角瓶中，28℃下振摇 $3 0 \mathrm { m i n }$ ，取 $1 \mathrm { m L }$ 菌悬液10倍梯度稀释，制作 $1 0 ^ { - 3 }$ 、 $1 0 ^ { - 4 }$ 、 $1 0 ^ { - 5 }$ 稀释度的菌悬液。各吸取 $1 0 0 ~ \mu \mathrm { L }$ 涂布在PDA培养基平板上， $2 8 \mathrm { ~ \ ^ { \circ } C }$ 倒置培养3d后，观察生长数量大、长势旺盛的霉菌以及与
+
+霉菌有拮抗作用的菌株，用接种环挑取单个优势霉菌菌落，接种于高盐察氏培养基，拮抗菌株接种于LB培养基，采用平板划线法分离纯化，直到分离的微生物纯化为止[14]。
+
+# 1.4产几丁质酶菌株的筛选
+
+将玉米秸秆中纯化出的霉菌拮抗菌株，点种在胶体几丁质培养基平板上，每个菌株做3个对照，37℃倒置培养3d后，观察菌落周围是否有几丁质降解透明圈。
+
+# 1.5 霉菌的形态学观察
+
+将灭菌的PDA培养基切成1 $\mathrm { c m } \times 1$ cm薄片，放在已灭菌的载玻片上，置于无菌培养皿内的U形玻璃棒上。将少量霉菌孢子接种在琼脂块边缘，用无菌盖玻片盖在琼脂块上。28℃正置培养3\~5d。取出载玻片置于AMG EVOS倒置显微镜低倍镜下观察，必要时换高倍镜[14]。根据菌落培养特征和菌体结构特征，参阅《食品卫生微生物学标准鉴定图谱》[15]、《真菌鉴定手册》[16]进行初步鉴定。
+
+1.6优势霉菌、产几丁质酶菌株的分子生物学鉴定
+
+霉菌通过引物ITS1(5'-TCC GTA GGT GAA CCT GCGG-3')和ITS4(5'-TCC TCC GCTTAT TGA TAT GC-3)[17]进行18S rDNA扩增。
+
+产几丁质酶菌株通过引物27F(5'-AGA GTTTGA TCC TGG CTC AG-3')和1492R(5'- TACGGC TAC CTT GTT ACG ACTT-3')[18]进行16S rDNA扩增。
+
+反应程序为：94℃预变性 $5 \mathrm { m i n }$ ；94℃变性 $3 0 ~ \mathrm { s }$ ，55℃退火 $1 \mathrm { m i n }$ ，72℃延伸 $1 \mathrm { m i n }$ 共30个循环；72℃延伸 $1 0 \ \mathrm { m i n }$ 。PCR产物经凝胶回收纯化后，由金唯智生物科技有限公司（北京）进行测序。序列同源性分析利用BLAST软件在GenBank上比对，并通过MEGA4.1软件构建产几丁质酶菌株16SrDNA的进化树。
+
+# 1.7几丁质酶活性的测定
+
+# 1.7.1 NAG标准曲线的建立
+
+以NAG为标准品，准确称取 $1 0 0 ~ \mathrm { { m g } }$ ，用去离子水溶解后，定容至 $5 0 ~ \mathrm { m L }$ 容量瓶中。分别吸取0、0.2、0.4、0.6、0.8、1.0mL转入玻璃试管中，补加去离子水至 $2 { \mathrm { m L } }$ ，加入3mLDNS溶液，于沸水浴中水浴 $1 0 ~ \mathrm { { m i n } }$ ，取出后冷却至室温，定容至 $2 5 ~ \mathrm { m L }$ 容量瓶中。用紫外分光光度计测定 $5 4 0 \ \mathrm { n m }$ 下吸光度（OD）值。以 $\mathrm { O D } _ { 5 4 0 }$ 为横坐标，NAG浓度为纵坐标，绘制标准曲线。
+
+# 1.7.2 几丁质酶活性测定
+
+取 $0 . 5 ~ \mathrm { m L }$ 离心处理的稀释待测酶液，加磷酸盐缓冲液（PBS） $2 { \mathrm { ~ m L } }$ ，再加入 $1 \mathrm { m L } 1 \%$ 胶体几丁质液，混匀后立即在恒温水浴锅37℃下保温1h，再迅速在4 $\mathrm { { } ^ { \circ } C }$ 下 $1 0 \ 0 0 0 \times g$ 离心10min，取上清液2mL至试管内，加入DNS试剂 $\lvert 3 \ : \mathrm { m L }$ ，在沸水浴中煮 $1 0 \mathrm { m i n }$ ，取出后立即用冷水冷却至室温后，定容至 $2 5 ~ \mathrm { m L }$ 容量瓶中。以灭活的几丁质粗酶液为对照，每个处理3次重复，测定其 $\mathrm { O D } _ { 5 4 0 }$ 值，与标准曲线对照，计算几丁质酶的活性[19-20]。1个酶活性单位(U)定义为在上述条件下 $1 \mathrm { m i n }$ 生成1 $\mu \mathrm { m o l }$ NAG所需的酶量。
+
+# 1.8 抑菌能力的测定
+
+# 1.8.1产几丁质酶菌发酵上清液及霉菌孢子液的制备
+
+将产几丁质酶菌以 $2 \%$ 的接种量接种在发酵培养基中，37℃下培养120h后，于4℃、$1 0 0 0 0 \times \mathrm { g }$ 离心 $1 0 \mathrm { m i n }$ ，收集上清液，保存在4℃冰箱中备用。将4株霉菌接种在PDA斜面上，28℃培养5d后，用含 $0 . 0 5 \% ( V / V )$ 的吐温-80的无菌水刮取斜面上的孢子，将悬液经已灭菌的纱布过滤，采用血球计数板测定孢子浓度，将孢子浓度调整为10个/mL，备用。
+
+# 1.8.2 抑菌试验
+
+在无菌操作台内，将灭菌的 $5 \ \mathrm { m L }$ 水琼脂培养基倒入平板中，水平放置冷却凝固后，将霉菌孢子悬液 $1 0 0 ~ \mu \mathrm { L }$ 混入到 $7 { \sim } 1 0 ~ \mathrm { m L }$ 已灭菌的50℃左右的葡萄糖马铃薯半固体培养基(琼脂含量 $0 . 7 5 \%$ ）中，使霉菌孢子浓度为 $1 0 ^ { 4 . }$ 个/mL，混匀后立即倒入水琼脂平板上，冷却凝固后均匀的摆放3个牛津杯，分别将 $2 0 0 ~ \mu \mathrm { L }$ 的发酵上清液注入牛津杯，以无菌水作为对照，水平放入28 $\mathrm { { } ^ { \circ } C }$ 恒温箱中培养，大约48h后观察是否出现抑菌圈，并测量其直径[10,21-22]。
+
+# 1.9 统计分析
+
+试验数据采用SAS9.2统计软件中的ANOVA程序进行单因素方差分析，结果用平均值土标准差（means±SD）表示， $P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果与分析
+
+# 2.1几丁质酶高产菌筛选鉴定
+
+将和霉菌有拮抗作用的菌株纯化后，分别接种在胶体几丁质培养基上，培养3d后，产几丁质酶菌株周围出现明显的几丁质降解圈。
+
+# 2.1.1 PCR扩增结果
+
+将产几丁质酶菌株16SrDNA进行PCR扩增后，产物的琼脂糖凝胶电泳验证结果如图1所示，在1500bp处有明亮的特征条带。
+
+![](images/12ab58cf45cf6ac42c1dd7c65e366f82b810aacac8f2273277e2b0d7e120738a.jpg)
+
+M：标记物 marker (D2000)；1：BS-1扩增产物 BS-1 amplification product；2：阴性对照negative control。
+
+# 图1产几丁质酶菌株PCR扩增16SrDNA
+
+Fig.1PCR amplification of chitinase producing strain 16S rDNA
+
+# 2.1.2 测序结果及同源性分析
+
+将PCR产物测序结果拼接后，获得全长为1408bp的基因序列，这与电泳图的结果一致。在GenBank数据库中进行Blast序列比对，发现其16SrDNA与多数枯草芽孢杆菌同源性高达$9 9 \%$ ，利用MEGA4.1构建系统发育树，如图2。从系统发育树上可看出，产几丁质酶菌株与
+
+枯草芽孢杆菌聚类在一起，与其亲缘关系最近，从而进一步确定该菌株为枯草芽孢杆菌，并命名为BS-1。
+
+![](images/356d6be506e850bfaf63c866a0ba2b9ff751162d32d7d39faca9c52d1cf6083c.jpg)  
+图2菌株BS-1基于16SrDNA序列同源性系统发育树  
+Fig.2Phylogenetic tree of strain BS-1 based on 16S rDNA sequence homology
+
+# 2.2优势霉菌的筛选鉴定
+
+# 2.2.1 优势霉菌的分离纯化及形态学观察
+
+将霉菌中的优势菌株分离、纯化，并进行了形态学观察，AMGEVOS倒置显微镜下观察结果见图3。其中：
+
+霉菌A：菌丝无隔、分枝状，各分枝顶端着生球形孢子囊，囊内产大量球形、椭圆形光滑的孢囊孢子。菌丝初期为白色，后长成灰白色至黑色，菌丝体蔓延迅速，无假根和匍匐菌丝。初步鉴定其为毛霉属。
+
+霉菌B：菌落突起絮状，菌丝为白色、有隔、质密，生长迅速。大型分生孢子镰刀形，少许弯曲。初步鉴定其为镰刀霉属。
+
+霉菌C：菌落质地疏松，生长相对较快，起初为白色，逐渐转变为黄色，最后变为淡绿褐色，菌落反面呈淡褐色。顶囊接近球形，上覆单层小梗，分生孢子头呈放射状。初步鉴定其为曲霉属。
+
+霉菌D：菌落质地疏松，蔓延迅速，起初为白色，后变为微黄色，最终变成黑色。顶部
+
+有球形顶囊，其上覆盖一层梗基和一层小梗，分生孢子呈放射状，分生孢子梗长度不一，菌丝发达。初步鉴定其为曲霉属。
+
+![](images/3c7254d8b046ab18aebd2e30c1e0e6f92623eaf5bebd591dbfa651ba5e0018fc.jpg)
+
+品 200um D
+
+# 2.2.2 优势霉菌的18srDNA序列测定
+
+玉米秸秆中纯化得到的4株霉菌染色体18SrDNA进行PCR扩增后，产物的琼脂糖凝胶电泳验证结果如图4所示，均在600bp处有明亮的特征条带。
+
+![](images/19e630f02e30f9425e9ef39a4577c52923e1b557b63204dfeee02c825ca33ac2.jpg)  
+图3优势霉菌菌落培养特征和菌体结构特征  
+Fig.3Colony shape and hyphae characteristic of dominant moulds   
+Fig.4PCR amplification of dominant moulds 18S rDNA
+
+A\~D：菌株A\~D的扩增产物 amplification products of moulds A to D；Y：阴性对照 negativecontrol；M：标记物 marker(D2000)。
+
+# 图4优势霉菌PCR扩增18SrDNA
+
+# 2.2.3 测序结果及同源性分析
+
+将PCR产物测序结果拼接后，其基因序列均在600bp左右，这与电泳图的结果一致。在GenBank数据库中进行Blast序列比对，结合菌落培养特征和菌体结构特征确定玉米秸秆中优
+
+势霉菌A\~D分别为卷枝毛霉（Mucorcircinelloides）、尖孢镰刀菌（Fusarium oxysporum）、米曲霉（Aspergillus oryzae）、黑曲霉（Aspergillus niger）。
+
+# 2.3几丁质酶高产菌酶活性测定
+
+# 2.3.1 NAG标准曲线的建立
+
+以 $\mathrm { O D } _ { 5 4 0 }$ 为横坐标，NAG浓度为纵坐标，绘制标准曲线。其关系如图5。
+
+![](images/ede3b5b8dfe2ec9524f5d8c72a160057150e93012625ab9680f127ecc1bdb402.jpg)  
+图5NAG标准曲线  
+Fig.5Standard curve of NAG
+
+# 2.3.2不同培养时间几丁质酶活性
+
+通过DNS比色法测定BS-1菌株在不同培养时间下反应液颜色的强度，并根据NAG标准曲线得到计算公式：NAG $\left( \mu \mathbf { g } / \mathrm { m L } \right) = \left( \mathbf { O D } _ { \sharp \sharp \sharp } \mathbf { - O D } _ { \sharp \sharp } \right)$ ）/0.0141，计算得到不同培养时间的几丁质酶活性见表1。当BS-1菌株培养72h时，几丁质酶活性开始快速增加，并在培养120h达到最大值 $3 . 2 3 \mathrm { U / m L }$ ，几丁质酶活性显著高于培养24、48、72、96、168h（ $\cdot < 0 . 0 5$ ）°
+
+表1不同培养时间几丁质酶活性  
+Table 1 Chitinase activity at different culture time U/mL   
+
+<html><body><table><tr><td rowspan="2">项目 Item</td><td colspan="7">时间Time/h</td></tr><tr><td>24</td><td>48</td><td>72</td><td>96</td><td>120</td><td>144</td><td>168</td></tr><tr><td>几丁质酶活性 Chitinase activity</td><td>0.37±0.10d</td><td>0.60±0.07d</td><td>1.29±0.14c</td><td>2.87±0.08b</td><td>3.23±0.15a</td><td>3.08±0.12a</td><td>2.71±0.14b</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同字母表示差异不显著（ $( P { > } 0 . 0 5 ) ,$ 。
+
+下表同。
+
+Values in the same row with difference letter superscripts mean significant difference ( $P <$ 0.05),while with the same letter superscripts mean no significant difference ( $\mathrm { \Phi } ^ { ' } P { > } 0 . 0 5 \mathrm { \ ' }$ ). The same as below.
+
+# 2.4几丁质酶高产菌抑制霉菌效果测定
+
+如图6所示，结果表明，BS-1发酵液对4株霉菌均有抑制作用，在牛津杯周围出现了不同大小的抑菌圈，而对照孔均未出现抑菌圈。其中BS-1发酵液对尖孢镰刀菌的抑制作用最强，其抑菌圈直径高达 $1 8 . 4 8 ~ \mathrm { m m }$ ，如表2所示。抑菌圈直径由大到小顺序依次为尖孢镰刀菌 $>$ 卷枝毛霉 $>$ 米曲霉 $>$ 黑曲霉，其中前3种菌株间抑菌圈直径差异不显著（ $\cdot  { P } { > } 0 . 0 5 \$ )，但均显著高于黑曲霉 （ $\lceil P { < } 0 . 0 5 \rangle$ 。
+
+# 表2BS-1发酵液对4株霉菌的抑菌圈直径
+
+Tab.2Diameter of inhibition zone of BS-1 fermentation fluid towards four moulds   
+
+<html><body><table><tr><td colspan="5">mm</td></tr><tr><td>项目</td><td>卷枝毛霉</td><td>尖孢镰刀菌</td><td>米曲霉</td><td>黑曲霉</td></tr><tr><td rowspan="2">Item</td><td>Mucor</td><td>Fusarium</td><td>Aspergillus</td><td>Aspergillus</td></tr><tr><td>circinelloides</td><td>oxysporum</td><td>oryzae</td><td>niger</td></tr><tr><td>抑菌圈直径</td><td></td><td></td><td></td><td></td></tr><tr><td>Diameter of</td><td>18.13±0.95a</td><td>18.48±1.10a</td><td>17.55±1.45a</td><td>15.68±0.83b</td></tr><tr><td>inhibition zone</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/6b9d6427d7c9e1610638923e7d09e86601b97654c8966be0cb806e9ab7fc9510.jpg)  
+卷枝毛霉Mucorcircinelloides
+
+尖孢镰刀霉Fusarium oxysporum
+
+![](images/e77a20d82b75dbe20dd844af94b588009355b4dc3278fe4f4b9b2f4322886fcf.jpg)  
+米曲霉 Aspergillus oryzae  
+黑曲霉 Aspergillus niger  
+图6BS-1发酵液对4株霉菌的抑制作用
+
+1：对照孔control hole；2、3：试验孔 test holes。
+
+Fig.6Inhibition of BS-1 fermentation fluid towards four moulds
+
+# 3讨论
+
+# 3.1产几丁质酶菌株BS-1的筛选、鉴定
+
+目前，以玉米秸秆资源作为反刍动物粗饲料时，主要通过化学法处理[23-25]，在提高其营养价值的同时，延长其贮藏时间。而本试验的目的是利用具备生物活性的菌株达到抑制玉米秸秆中霉菌的生长，从而更利于其贮藏。有报导显示，产几丁质酶的微生物种类很多，许多细菌[26-27]、真菌[28]还有放线菌[29]均可以产生几丁质酶，其中芽孢杆菌(Bacillus)是一类重要的酶制剂生产菌[30]。从玉米秸秆样品中筛选出的枯草芽孢杆菌BS-1，在几丁质培养基平板上有明显的几丁质降解圈，证明其能够产生几丁质酶。将其利用于玉米秸秆的抑菌防霉，一方面其产生的几丁质酶可以破坏真菌细胞壁从而抑制霉菌生长；另一方面，因为该菌株直接取自玉米秸秆捆，其在秸秆中生存适应性、活性等是通过其他途径得到的菌株所不能比拟的。此外，因其具备生物活性，添加量少，成本低，因而是抑制玉米秸秆捆发霉的较优的选择之一，其生产利用价值值得进一步研究。
+
+# 3.2BS-1产几丁质酶活性的测定
+
+近年来，微生物产几丁质酶的研究与应用取得了一定进展，但大多研究集中于几丁质酶菌产酶的培养条件、酶活性的提高、酶学性质等方面，且因为筛选的菌株产酶量低、活性差，使得与实际生产还有很大差距，这是几丁质酶推广应用的瓶颈所在[31]。本研究丰富了几丁质酶产生菌及生防菌的芽孢杆菌资源，初步探明了BS-1菌株的几丁质酶活性，并探究了其对某些真菌的抑制作用。在本研究的基础上也可进一步对BS-1菌株进行改造，对产酶条件进行优化，推动生防菌的应用发展。
+
+几丁质酶是一类差异较大的水解酶类，随材料来源不同酶学性质存在一定的差异[32]。由于目前几丁质酶活性测定的方法、选用的底物、酶活性单位的定义以及酶活性的表示方式等多方面存在着各种差异，所报导的产几丁质酶菌株的酶活性大小也不尽相同[20]，如嗜水气单孢菌0.39U/mL[18]、短芽胞杆菌1.25U/mL[33]和黑曲霉82U/mL[34]，本研究的枯草芽孢杆菌BS-1产几丁质酶活性表现为在培养的前2d活性较低，随着培养时间增长，酶活性不断变大，在培养120h达到最大值3.23U/mL，随后酶活性随着菌株进入生长衰亡期而缓慢下降，这与董晶等[35]对4个病原真菌在虫表皮培养基上的产几丁质酶活性的研究结果相近。BS-1产几丁质酶活性最大时高于目前国际工业化几丁质酶产生菌黏质沙雷氏菌(Serratiamarcescens)的原始出发菌株[36]，具有较高的潜在工业应用价值。对枯草芽孢杆菌BS-1的几丁质酶的热稳定性、酸碱稳定性和金属离子对酶活性的影响等特性，以及酶的纯化、基因克隆和序列分析还需要进一步研究。
+
+# 3.3 BS-1发酵液对玉米秸秆中优势霉菌的抑制效果
+
+有研究认为几丁质酶主要作用于真菌的细胞壁，几丁质是大多数真菌细胞壁的主要成分，当它被降解后，细胞壁变薄，形成球状突起，最终导致原生质膜破裂，原生质体外漏，达到抑制菌丝生长的目的[37]。本研究的牛津杯平板扩散法抑菌试验结果显示，BS-1菌株发酵液对玉米秸秆样品中的4株优势霉菌均有较为明显的抑制作用，抑菌圈直径大小的不同可能是由于霉菌的生长速度以及细胞壁中几丁质含量或结构不同所致。此外，几种霉菌来自不同菌属，说明BS-1菌株产几丁质酶抑菌谱较广，在抑制优势霉菌的同时，也能够有效抑制其他引起霉变的真菌。BS-1产几丁质酶对苜蓿等其他粗饲料以及颗粒料等饲料中的霉菌是否具有抑制作用，还需要进一步试验，但从其对玉米秸秆中霉菌的作用来看，其潜力是十分巨大的。
+
+# 4结论
+
+玉米秸秆样品中的主要优势霉菌经鉴定为卷枝毛霉、尖孢镰刀菌、米曲霉、黑曲霉。同时从中分离得到的高产几丁质酶菌株 BS-1，经鉴定为枯草芽孢杆菌，其在 37℃、200$\mathrm { { r } / \mathrm { { m i n } } }$ 下发酵 $1 2 0 \mathrm { h }$ ，产几丁质酶活性达到最大值 $3 . 2 3 ~ \mathrm { U / m L }$ 。BS-1菌株产几丁质酶对玉米秸秆中4株优势霉菌有明显的抑制作用。
+
+参考文献：
+
+[1]史海涛,杨军香,田雨佳,等.玉米秸秆营养价值的开发利用—未充分开发利用的廉价资源[J].中国奶牛,2012(17):3-11.  
+[2]中华人民共和国农业部.全国农作物秸秆资源调查与评价报告[R].北京:中华人民共和国农业部,2010.  
+[3]张文举,王加启,龚月生,等.秸秆饲料资源开发利用的研究进展[J].国外畜牧科技,2001,28(3):15-18.  
+[4]中华人民共和国国务院.关于加快推进农作物秸秆综合利用的意见(国办发[2008]105号)[Z].北京:中华人民共和国国务院,2008.  
+[5]中华人民共和国农业部.全国节粮型畜牧业发展规划(2011-2020)[Z].北京:中华人民共和国农业部,2011.  
+[6]中华人民共和国国务院.关于加大改革创新力度加快农业现代化建设的若干意见[J].中华人民共和国国务院公报,2015(5):6-14.
+
+[7] KISHORE G K,PANDE S,PODILE A R.Biological control of late leaf spot of peanut (Arachis hypogaea) with chitinolytic bacteria[J].Phytopathology,2005,95(10):1157-1165.
+
+[8] MEHMOOD M A,XIAO X,HAFEEZ F Y,et al.Purification and characterization of a chitinase from Serratia proteamaculans[J].World Journal of Microbiology and Biotechnology,2009,25(11):1955-1961.
+
+[9] PATIL N S,WAGHMARE S R,JADHAV J P.Purification and characterization of an extracellular antifungal chitinase from Penicillium ochrochloron MTCC 517 and its application in protoplast formation[J].Process Biochemistry,2013,48(1):176-183.
+
+[10]赵秋敏,陈月华,蔡峻,等.一株产几丁质酶、抑真菌的侧孢芽孢杆菌[J].中国生物防治,2006,22(增刊):42-46.
+
+[11]刘尧,李力,李俊,等.玉米秸秆高效腐解复合菌系CSS-1的选育及其组成分析[J].中国农业科学,2010,43(21):4437-4446.
+
+[12]萨如拉,高聚林,于晓芳,等.玉米秸秆低温降解复合菌系的筛选[J].中国农业科学,2013,46(19):4082-4090.
+
+[13] ROBERTS W K,SELITRENNIKOFF C P.Plant and bacterial chitinases differ in antifungal activity[J].Microbiology,1988,134(1):169-176.
+
+[14] 沈萍,陈向东.微生物学实验[M].4版.北京:高等教育出版社,2007.  
+[15] 刘云国.食品卫生微生物学标准鉴定图谱[M].北京:科学出版社,2009:58-72.  
+[16] 魏景超.真菌鉴定手册[M].上海:上海科学技术出版社,1979:58-135.
+
+[17] WHITE T J,BRUNS T D,LEE S B,et al.Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics[M]//INNIS M A,GELFAND D H,SHINSKY J J,et al.PCRprotocols,aguidetomethodsandapplications.SanDiego:Academic Press,1990:315-322.
+
+[18]王海东,陈飚,伦镜盛,等.产几丁质酶菌株SWCH-6的筛选、鉴定及其产酶条件的优化研究[J].微生物学通报,2008,35(5):705-711.
+
+[19] MILLER G L.Use of dinitrosalicylic acid reagent for determination of reducing sugar[J].Analytical Chemistry,1959,31(3):426-428.
+
+[20]肖湘,周樱,王风平.高效几丁质降解菌CB101的分离、鉴定及其几丁质酶系的研究[J].海洋学报,2003,25(1):138-142.
+
+[21]LARIBI-HABCHI L,BOUANANE-DARENFED A,DROUICHE N,et al.Purification,characterization,and molecular cloning of an extracellular chitinase from Bacilluslicheniformisstain LHH100isolated from wastewatersamples in Algeria[J].International Journal of Biological Macromolecules,2O15,72:1117-1128.
+
+[22]马绪荣,苏德模.药品微生物学检验手册[M].北京:科学出版社,2000:229-242.
+
+23]贾书静.饲料防霉剂及其应用[J].兽药与饲料添加剂,2006,11(3):23-26.
+
+[24] WANG T P,YIN J,ZHENG Z M.Effects of chemical inhomogeneity of corn stalk on solvolysis liquefaction[J].Carbohydrate Polymers,2012,87(4):2638-2641.
+
+[25]李胜利,史海涛,曹志军,等.粗饲料科学利用及评价技术[J].动物营养学报,2014,26(10):3149-3158.
+
+[26] DAS S N,NEERAJA C,SARMA P V S R N,et al.Microbial chitinases for chitin waste management[M]//SATYANARAYANA T,JOHRI B N,PRAKASH A.Microorganisms in environmental management.Netherlands:Springer,2O12:135-150.
+
+[27] LEIFERT C,LI H,CHIDBUREE S,et al.Antibiotic production and biocontrol activity by Bacillus subtilis CL27 and Bacillus pumilus CL45[J].JournalofApplied Bacteriology,1995,78(2):97-108.
+
+[28]LI D C.Review of fungal chitinases[J].Mycopathologia,2006,161(6):345-360.
+
+[29] GUPTA R,SAXENA R K,CHATURVEDI P,et al.Chitinase production by Streptomyces viridificans:its potential in fungal cell wall lysis[J].Journal of Applied
+
+Bacteriol0gy,1995,78(4):378-383.
+
+[30]李春霞,佟永薇,侯世洁.微生物几丁质酶的研究进展[J].食品研究与开发,2008,29(8):155-157.
+
+[31]张拥军,鲜乔.芽孢杆菌几丁质酶高酶活菌株的筛选及其酶活测定[J].中国食品学 报,2009,9(3):135-139.
+
+[32] ARAKI T,KURAMOTO M,TORIKATA T.Positions of disulfide bonds in yam (Dioscoreajaponica) acidic classIL (classIV） chitinase[J].Archivesof BiochemistryandBiophysics,1996,335(1):118-122.
+
+[33]邓红梅,毕方铖,叶炬斌,等.几丁质酶高产菌的筛选及其产酶条件的优化研究[J].化学与生物工程,2010,27(5):62-65.
+
+[34] BRZEZINSKA M S,JANKIEWICZ U.Production of antifungal chitinase by Aspergillus niger LOCK 62 and itspotential roleinthebiologicalcontrol[J].Current Microbiology,2012,65(6):666-672.
+
+[35]董晶,谢映平,刘卫敏,等.病原真菌降解两种虫体壁过程中胞外酶作用[J].中国农业科学,2015,48(5):889-899.
+
+[36] CABIB E.Chitinase from Serratia marcescens[J].Methods in Enzymol0gy,1988,161:460-462.
+
+[37] BUCHNER P,ROCHAT C,WUILLEME S,et al.Characterization of a tissue-specific and developmentally regulated $\beta$ -1,3-glucanase gene in pea (Pisum sativum)[J].Plant Molecular Biology,2002,49(2):171-186.
+
+Screening and Identification of Chitinase Producing Strain and Its Inhibition Action to
+
+# Dominant Moulds in Corn Stalk
+
+ZHANG Liyang ZHANG XingyiZHANG WeiLIN CongZHANG Yonggen\* (College ofAnimal Science and Technology,Northeast Agricultural University, Harbin 150030)
+
+Abstract: The objective of this experiment was to inhibit the growth of dominant moulds in corn stalk using chitinase producing strain,and provide a reference for improving the utilization efficiency of corn stalk. Chitinase producing strain of BS-1 was screened from corn stalk using colloidal chitin medium.At the same time,the dominant moulds were isolated and purified. Identification of strain BS-1 and dominant moulds were carried out through morphological observation and 16S rDNA or 18S rDNA sequence analysis. In addition,the chitinase activity of strain BS-1 was assayed using 3,5-dinitrosalicylic acid colorimetric method after 24,48,72, 96, 120, 144 and $1 6 8 \mathrm { ~ h ~ }$ of fermentation and the inhibition action of fermentation liquid of strain BS-1 to dominant moulds was detected by oxford cup method. The results showed as follows: strain BS-1 isolated from corn stalk was Bacillus subtilis and four dominant moulds were Mucor circinelloides, Fusarium oxysporum, Aspergillus oryzae and Aspergillus niger, respectively. After （204 $1 2 0 \mathrm { ~ h ~ }$ of fermentation at $3 7 \mathrm { ~ \textdegree C }$ , the highest chitinase activity of strain BS-1 was obtained to be $3 . 2 3 ~ \mathrm { U / m L }$ .The fermentation liquid of strain BS-1 showed obvious inhibition to four dominant moulds from corn stalk, the diameter of inhibition zone was 18.13,18.48,17.55 and $1 5 . 6 8 \ \mathrm { m m }$ ， respectively. In conclusion,the screened chitinase producing Bacillus subtilis BS-1 can efectively inhibit the growth of dominant moulds of Mucor circinelloides,Fusarium oxysporum, Aspergillus oryzae and Aspergillus niger from corn straw.
+
+Key words: corn stalk; dominant moulds;antifungal; chitinase; Bacillus subtilis

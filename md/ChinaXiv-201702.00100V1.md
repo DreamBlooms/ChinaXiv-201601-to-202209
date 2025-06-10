@@ -1,0 +1,158 @@
+# DOI:10.5846/stxb201508031633
+
+王睿彤,孙景宽,陆兆华.土壤改良剂对黄河三角洲滨海盐碱土生化特性的影响.生态学报,2017,37(2)：425-431.WangRTJutelsalroptaaliliccSinica,2017,37(2):425-431.
+
+# 土壤改良剂对黄河三角洲滨海盐碱土生化特性的影响
+
+王睿彤1,²,孙景宽1，\*,陆兆华1,2
+
+1滨州学院山东省黄河三角洲生态环境重点实验室，滨州256603  
+2中国矿业大学(北京)恢复生态学研究所，北京100083
+
+摘要：以黄河三角洲滨海盐碱土为研究对象,采用4因素4水平正交设计试验,将牛粪（A）、石膏（B）、秸秆（C）、保水剂（D)4种改良剂设置成不同比例,对黄河三角洲滨海盐碱土生化特性进行改良试验,以期筛选出适宜的改良方案。结果表明：牛粪（A）、石膏(B)秸秆(C)3种改良剂对土壤呼吸强度、土壤磷酸酶、土壤脲酶、土壤脱氢酶和土壤微生物碳氮改良效果明显,保水剂（D)对土壤微生物碳氮改良效果明显,各处理间差异显著。各改良剂对盐碱土各生化指标的贡献值存在差异,综合考虑土壤呼吸强度、土壤酶、土壤微生物碳氮适宜配方为 $\mathrm { A } _ { 4 } \mathrm { B } _ { 3 } \mathrm { C } _ { 2 } \mathrm { D } _ { 2 }$ ,土壤呼吸强度、土壤磷酸酶、土壤脲酶、土壤脱氢酶和土壤微生物碳氮分别比对照增高 $1 0 9 . 6 4 \%$ $8 9 . 5 4 \%$ $6 2 . 2 0 \%$ $8 1 . 7 5 \%$ $6 0 . 5 0 \%$ ， $1 1 8 . 0 0 \%$ ,相关分析表明,除微生物氮和脲酶相关不显著外,上述各土壤生化指标间均显著相关,研究结果可为黄河三角洲盐碱土的改良利用提供一定的理论依据。
+
+关键词：改良剂;黄河三角洲;滨海盐碱土；正交设计；生化特性
+
+# Effect of Soil Ameliorants on the Biochemical Properties of Coastal Saline-alkali Soil in the Yellow River Delta
+
+WANG Ruitong1,²，SUN Jingkuan1\*，LU Zhaohua1,2 1ShandongProincialKeyLboratoryfEcoEniomentalScienceforYelloierelanzouUniersityzou6in 2InstituteofRestorationEcology,theChina UniversityofMiningand Technology(Beijing），Beijing10oo83,China
+
+Abstract：The presentstudyanalyzed theimproved biochemicalpropertiesof thecoastalsaline-alkalisoil intheYellow River Delta using four factorsof afour level orthogonal variance analysis.Four kindsof ameliorants，including cow dung （A），gypsum（B），straw（C），and a water-retaining agent（D），were aplied with different formulas.Theobjective of the present study wastodetermiethe most eficient drainage schemeand provideatheoreticalbasis forthe improvementof thecoastalsaline-alkalisoil intheYellow RiverDelta.Theresults indicatedthatthe effectofcow dung，gypsum,and straw on soil respiration intensity，phosphatase，urease，dehydrogenase，andmicrobial biomass carbonand nitrogenshowed significant ( $P { < } 0 . 0 5$ )differences among the treatments with improvement；and the effect of the water-retaining agent on microbial biomass C and N showed significant ( $P { < } 0 . 0 5 \$ )differences among the treatments with improvement. Significantly higher indicator valuesthanthecontrolgroupwerealsoobserved.Thecontributionofthefour kindsofameliorantsdiffered in the mprovementofsaline soilconditions.Consideringtheresults，the most effcientformula for soilrespiration intensity, enzymes，and microbial biomass C and N was $\mathrm { A } _ { 4 } \mathrm { B } _ { 3 } \mathrm { C } _ { 2 } \mathrm { D } _ { 2 }$ . Compared to the control group，soil respiration intensity, phosphatase，urease，dehydrogenase，and microbial C and N increased by $1 0 9 . 6 4 \%$ ， $8 9 . 5 4 \%$ ， $6 2 . 2 0 \%$ ， $8 1 . 7 5 \%$ ， $6 0 . 5 0 \%$ ，and $1 1 8 . 0 0 \%$ ，respectively. The correlation analysis indicated that there were significant ( $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ）correlations between the soil biochemical parameters,except for microbialNand urease.Theresultsof thecurrentstudycould providea theoretical basis for the improvement and utilization of saline alkali soil in the Yellow River Delta.
+
+KeyWords:ameliorants；Yelow River Delta；coastal saline-alkali soil；orthogonal design；biochemical properties
+
+我国海岸线漫长,滨海盐碱地面积约达 $1 . 0 { \times } 1 0 ^ { 6 } \ \mathrm { h m } ^ { 2 [ 1 ] }$ 。滨海盐碱地是在海洋和陆地的相互作用下由大量泥沙沉积而形成的连接陆地和海洋的缓冲地带,地貌以平原、河口三角洲和滩涂为主,绝大多数属泥质海岸带,土壤类型主要为滨海盐土类、潮土类等[2],黄河三角洲地区蒸降比大,地下水位高,矿化度大,土壤盐渍化高达 $70 \%$ 以上[3]。因此,开发利用盐碱土壤对提高土地使用率及保护生态环境等具有重要意义。
+
+长期以来，改良盐碱土壤多采用工程措施，如淡水淋洗压盐，客土转移土壤盐分,添加化学改良剂，种植耐盐植物进行生物修复等多种方法[4-7]。但综合利用当地废弃物,进行多因素多水平改良的研究并不多见,本研究针对黄河三角洲工农业生产中产生的废弃物堆积问题,利用石膏、秸秆、牛粪、保水剂4种改良剂,通过4因素4水平正交设计方案,对黄河三角洲滨海盐碱土进行土壤改良实验,分析其改良机理,探索更加高效,成本低廉的改良方法。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+供试土壤采自山东省滨州市沾化县滨海盐碱地,土壤含盐量在 $0 . 5 \%$ 一 $0 . 6 \%$ ,土壤基本理化性质如表1所示。盐碱土壤改良材料包括小麦秸秆、牛粪、胜利油田保水剂以及石膏。小麦秸秆和牛粪由园林绿化中心提供,保水剂由中国矿业大学(北京)恢复生态学研究所提供,石膏由天津市恒兴化学试剂制造有限公司生产。
+
+表1实验土壤基本理化性质  
+Table 1 The physical and chemical properties of the background soil   
+
+<html><body><table><tr><td>酸碱值 pH</td><td>钠吸附比 Sodium adsorption ratio</td><td>含盐量/% Salinity</td><td>容重 Bulk density/ （g/cm³）</td><td>总孔隙度 Total porosity/%</td><td>饱和持水量 Saturation moisture capacity/%</td><td>有机质 Organic/%</td><td>有效氮 Available nitroge/ （mg/kg)</td><td>有效磷 Available phosphoru/ （mg/kg)</td><td>有效钾 Available potassium/ （mg/kg)</td></tr><tr><td>7.89</td><td>97.23</td><td>0.51</td><td>1.52</td><td>42.30</td><td>37.20</td><td>0.26</td><td>37.27</td><td>11.71</td><td>155.64</td></tr></table></body></html>
+
+# 1.2 试验设计
+
+实验在人工温室布置,所用塑料盆直径为 $2 8 . 2 ~ \mathrm { c m }$ ，高 $1 9 . 8 ~ \mathrm { c m }$ ,每个塑料盆装 $8 ~ \mathrm { k g }$ 土壤。4种改良剂均设计为4个梯度,按L16(4,4)条件实验正交设计表设计,与土壤混合均匀,共16个处理,每个处理重复3次。处理分别为： $\mathrm { , A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 } \ 、 A _ { 1 } B _ { 2 } C _ { 2 } D _ { 2 } \ 、 A _ { 1 } B _ { 3 } C _ { 3 } D _ { 3 } \ 、 A _ { 1 } B _ { 4 } C _ { 4 } D _ { 4 } \ 、 A _ { 2 } B _ { 1 } C _ { 2 } D _ { 3 } \ 、 A _ { 2 } B _ { 2 } C _ { 1 } D _ { 4 } \ddots A _ { 2 } D _ { 2 } \ 、 A _ { 3 } A _ { 4 } \ddots A _ { 2 } C _ { 2 } \vert } $ B3C4D1、AB4C3D、A3B,C3$\mathrm { D _ { 4 } \cdot A _ { 3 } B _ { 2 } C _ { 4 } D _ { 3 } \cdot A _ { 3 } B _ { 3 } C _ { 1 } D _ { 2 } \cdot A _ { 3 } B _ { 4 } C _ { 2 } D _ { 1 } \cdot A _ { 4 } B _ { 1 } C _ { 4 } D _ { 2 } \cdot A _ { 4 } B _ { 2 } C _ { 3 } D _ { 1 } \cdot A _ { 4 } B _ { 3 } C _ { 2 } D _ { 4 } \cdot A _ { 4 } B _ { 4 } C _ { 1 } D _ { 3 } \circ }$
+
+小麦秸秆粉碎成 $1 \ \mathrm { c m }$ 段,划分 $0 , 1 , 2 , 3 \ \mathrm { g / k g } \ 4$ 个梯度[8];针对滨州沾化盐碱土的具体情况,通过测定土壤容重、交换性钠含量确定石膏添加量[9],纯石膏设置 $0 , 1 . 6 8 , 3 . 3 7 , 6 . 7 3 \mathrm { ~ t } / \mathrm { h m } ^ { 2 } 4$ 个梯度,即 $0 , 1 0 . 5 , 2 1 , 4 2 \mathrm { \ g } /$ 盆;牛粪设置 $0 \% , 2 \% , 3 \% , 4 \% 4$ 个梯度[10],即 $0 , 1 6 0 , 2 4 0 , 3 2 0 \mathrm { ~ g } /$ 盆;胜利油田生产的保水剂同样设置 $0 \%$ ，$0 . 0 1 \%$ ， $0 . 0 3 \%$ ， $0 . 0 5 \%$ 4个梯度[11],即 $0 , 0 . 8 , 2 . 4 , 4 . 0 \ \mathrm { g } /$ 盆。各改良剂均与盆栽盐碱土壤( $8 ~ \mathrm { k g / }$ 盆)混匀。
+
+土壤灌溉按照滨州市当地 1999—2008 年降雨量的变化趋势进行安排[12]。灌水制度分冬、春、夏和秋4种不同的灌溉方式。滨州冬、春、夏、秋平均降雨量分别为 $7 . 2 9 , 2 7 . 3 8 , 1 1 1 . 4 7 , 3 5 . 2 7 ~ \mathrm { m m }$ ,折合浇灌量分别为0.46,1.71,6.96,2.2L/盆，最终冬、春、夏、秋各季节每周每个盆浇灌分别为 $5 0 , 1 5 0 , 5 5 0 , 2 0 0 ~ \mathrm { m L }$ 。混匀土壤培养周期为1a,1a之后采样进行相关指标分析。
+
+# 1.3 测定项目与方法
+
+使用采样器进行“五点法"采样。采好的土样自然风干，过 $2 ~ \mathrm { m m }$ 筛,装入塑封袋保存,用于测定土壤的各
+
+项指标。土壤呼吸强度采用氢氧化钠吸收法测定[13];磷酸酶采用磷酸苯二钠比色法[14];脲酶采用苯酚钠-次氯酸钠比色法[14];脱氢酶采用TTC 分光光度法测定[14];微生物总量采用氯仿熏蒸- ${ \bf \cdot K } _ { 2 } \mathrm { S 0 } _ { 4 }$ 提取-碳自动分析法。试验数据采用 Excel软件和 SPSS13.0进行方差分析,应用Duncan进行多重比较。
+
+# 2结果与讨论
+
+2.1不同处理下盐碱土土壤呼吸强度的变化
+
+土壤呼吸指土壤产生 $\mathrm { C O } _ { 2 }$ 的所有代谢过程,包括植物的根系呼吸、土壤微生物呼吸和土壤动物呼吸3个生物学过程和1个非生物学过程，即少量的土壤有机物氧化而产生的 $\mathrm { C O } _ { 2 }$ ,其中对土壤呼吸强度贡献最大的是根系的自养呼吸和微生物的异养呼吸[15],土壤呼吸强度是评价土壤生物活性和土壤肥力的总指标,可衡量土壤有机物的分解速率[16-17]。
+
+从图1可以看出，土壤经过改良，土壤呼吸强度各处理差异显著，变化趋势大致由低到高，且各处理与对照差异显著，各土壤指标值均高于对照。方差分析表明,牛粪(A),石膏(B),秸秆(C)这3个因素对盐碱土壤呼吸强度改良的影响显著，保水剂(D)影响不显著，且其影响程度的大小有差异，这4个因素对盐碱土壤呼吸强度改良作用的大小依次为： $\mathrm { A { > } C { > } B { > } D }$ 。其中，A因素中 $\mathbf { A } _ { 4 }$ 均数最大（1903.49），且 $\mathrm { A } _ { 1 } \ 、 \mathrm { A } _ { 2 } \ 、 \mathrm { A } _ { 3 } \ 、 \mathrm { A } _ { 4 }$ 之间存在显著性差异( $P { < } 0 . 0 5 )$ 。同理,B因素中 $\mathbf { B } _ { 1 }$ 均数最大(1345.73）， $\mathbf { B } _ { 1 }$ 与 ${ \bf B } _ { 3 } \setminus { \bf B } _ { 4 }$ 之间存在显著性差异， $\mathbf { B } _ { 2 }$ 与 $\mathbf { B } _ { 3 }$ 之间存在显著性差异; $\mathrm { C } _ { 4 }$ 均数最大（1412.23）， $\mathrm { C } _ { 4 }$ 与 $\mathbf { C } _ { 1 }$ 、$\mathbf { C } _ { 2 } \ 、 \mathbf { C } _ { 3 }$ 之间存在显著性差异, $\mathbf { C } _ { 1 } , \mathbf { C } _ { 3 }$ 之间存在显著性差异； $\mathbf { D } _ { 1 }$ 均数最大（1343.86）， $\mathbf { D } _ { 1 }$ 与 $\mathrm { D } _ { 2 } \ 、 \mathrm { D } _ { 4 }$ 之间存在显著性差异。
+
+![](images/2bd55ff1489ba0b47138337c157be2282e7a50167cc03affad98bcc9bd674854.jpg)  
+图1不同处理下盐碱土壤呼吸强度的变化  
+Fig.1Soil respiration intensity in saline-alkali soil under the different treatments
+
+# 2.2不同处理下盐碱土土壤酶的变化
+
+酶在土壤中所进行的各种物化反应过程中均起着重要的作用,和土壤肥力的演变过程也息息相关,酶活性在一定程度上反映了土壤肥力状况[],是土壤生物学活性的综合体现,可促进生态系统中能量流动和物质循环[18]。由于土壤酶主要源于土壤微生物,因此可指示土壤环境中微生物活性[19-20]。
+
+# 2.2.1不同处理下盐碱土土壤磷酸酶的变化
+
+P作为必需的大量营养元素，土壤中的有机P一般占全 $\mathrm { ~ \bf ~ P ~ }$ 的 $3 0 \%$ 一 $5 0 \%$ ,有的可达 $9 5 \%$ ,而有机磷酸酯在土壤中必须被水解成无机P后才能被植物吸收,在这一过程中微生物和磷酸酶起着重要作用[21]。从图2可看出,土壤经过改良,土壤磷酸酶各处理差异显著,变化趋势大致由低到高,且各处理与对照差异显著,各土壤指标值均高于对照。通过方差分析可知,牛粪,石膏,秸秆这3个因素对盐碱土壤磷酸酶改良的影响显著,保水剂影响不显著，且其影响程度的大小有差异,这4个因素对盐碱土壤磷酸酶改良作用的大小依次为： $\mathrm { A } { > } \mathrm { C } { > }$ $\mathrm { B } { > } \mathrm { D }$ 。其中，A因素中 $\mathbf { A } _ { 4 }$ 均数最大（436.93），且 $\mathbf { A } _ { 1 }$ 与 ${ \bf A } _ { 2 } \ 、 { \bf A } _ { 3 } \ 、 { \bf A } _ { 4 }$ 之间存在显著性差异,其中 $\mathbf { A } _ { 3 }$ 与 $\mathbf { A } _ { 4 }$ 之间存在显著性差异。同理,B因素中 $\mathbf { B } _ { 4 }$ 均数最大（406.05）， $\mathbf { B } _ { 1 }$ 与 ${ \bf B } _ { 4 }$ 之间存在显著性差异; $\mathrm { C } _ { 4 }$ 均数最大（410.59）， $\mathrm { C } _ { 1 }$ 与$\mathrm { C } _ { 3 } \mathrm { ~ } . \mathrm { C } _ { 4 }$ 之间存在显著性差异； $\mathrm { ~ D } _ { 2 }$ 均数最大（401.85）， $\mathbf { D } _ { 2 }$ 与 $\mathrm { D } _ { 3 } \setminus \mathrm { D } _ { 4 }$ 之间存在显著性差异。
+
+# 2.2.2不同处理下盐碱土壤脲酶的变化
+
+脲酶在土壤中能将尿素转化成氨,成为有机体生命活动的氮源[22]。脲酶是一种最普遍存在的土壤酶，因为土壤脲酶参与土壤中含N有机化合物的转化,其活性强度常用来表征土壤N素供应强度[23]。从图3可看出,土壤经过改良,土壤脲酶各处理差异显著,变化趋势大致由低到高,且各处理与对照差异显著,各土壤指标值均高于对照。通过方差分析可知,牛粪,石膏,秸秆这3个因素对盐碱土壤脲酶改良的影响显著,保水剂影响不显著,但其影响程度的大小有差异,这4个因素对盐碱土壤脲酶改良作用的大小依次为： $\mathrm { A { > } C { > } B { > } D }$ 。其中,A因素中 $\mathbf { A } _ { 3 }$ 均数最大（598.35），且 $\mathbf { A } _ { 1 }$ 与 $\mathrm { A } _ { 2 } \mathrm { ~ , ~ } \mathrm { A } _ { 3 }$ ） $\mathrm { A } _ { 4 }$ 之间存在显著性差异,其中 $\mathbf { A } _ { 2 }$ 与 $\mathbf { A } _ { 3 }$ 之间存在显著性差异。同理,B因素中 $\mathbf { B } _ { 4 }$ 均数最大（552.32）， ${ \bf B } _ { 3 }$ 与 $\mathbf { B } _ { 4 }$ 之间存在显著性差异; $\mathrm { C } _ { 4 }$ 均数最大（564.68）， $\mathrm { C } _ { 2 }$ 与 $\mathrm { C } _ { 3 } \mathrm { ~ } _ { \mathrm { { 1 } } } \mathrm { C } _ { 4 }$ 之间存在显著性差异,其中, $\mathrm { C } _ { 1 }$ 与 $\mathrm { C } _ { 4 }$ 之间存在显著性差异； $\mathbf { D } _ { 2 }$ 均数最大（530.69）， $\mathbf { D } _ { 1 } \setminus \mathbf { D } _ { 2 } \setminus \mathbf { D } _ { 3 } \setminus \mathbf { D } _ { 4 }$ 之间不存在显著性差异。
+
+![](images/535a5be39de4ddbbf7b45d5938fb739924c23bec1d7a9e305e718e910ead8b59.jpg)  
+图2不同处理下盐碱土壤磷酸酶活性变化
+
+![](images/27c150c1a92b8ba8f3c7eb8ee59769c8540488e61b89f8865c8172a5c705bf75.jpg)  
+图3不同处理下盐碱土壤脲酶活性变化  
+Fig.3 Urease activities in saline-alkali soil under the different
+
+# 2.2.3 不同处理下盐碱土土壤脱氢酶的变化
+
+脱氢酶是土壤中主要酶类之一，是氢的中间传递体，能催化促进土壤中有机物脱氢。碳水化合物和有机酸可作为氢的供体，脱氢酶能从中析出氢而进行氧化作用,在土壤有机物氧化中发挥重要作用[24]。长期施肥可增加土壤中微生物活性,提高脱氢酶活性，可表征土壤微生物活性的高低[25]。由图4可知,土壤脱氢酶随时间变化幅度较大。土壤经过改良，各处理土壤脱氢酶差异显著，变化趋势大致由低到高，且各处理与对照差异显著，各土壤指标值均高于对照。通过方差分析可知，牛粪，石膏，秸秆这3个因素对盐碱土壤脱氢酶改良的影响显著,保水剂影响不显著，但其影响程度的大小有差异，这4个因素对盐碱土壤脱氢酶改良作用的大小依次为： $\mathrm { A { > } C { > } B { > } D }$ 。其中,A因素中 $\mathbf { A } _ { 4 }$ 均数最大（194.34），且 $\mathbf { A } _ { 1 }$ 与 ${ \bf A } _ { 2 } \ 、 { \bf A } _ { 3 } \ 、 { \bf A } _ { 4 }$ 之间存在显著性差异,其中 $\mathbf { A } _ { 2 }$ 与 ${ \mathrm { A } } _ { 3 } \ldots { \mathrm { A } } _ { 3 }$ 之间存在显著性差异。同理,B因素中 $\mathbf { B } _ { 4 }$ 均数最大（166.90）， $\mathbf { B } _ { 1 }$ 与 ${ \bf B } _ { 4 }$ 之间存在显著性差异; $\mathrm { C } _ { 4 }$ 均数最大（170.34）， $\mathrm { C } _ { 4 }$ 与 $\mathbf { C } _ { 1 } , \mathbf { C } _ { 2 } , \mathbf { C } _ { 3 }$ 之间存在显著性差异;${ \bf D } _ { 3 }$ 均数最大（165.08），且 $\mathrm { D } _ { 3 } \setminus \mathrm { D } _ { 4 }$ 之间存在显著性差异。
+
+![](images/677cb8b55da90ee34f25621245c352f752599f15f97cdd26a54db46391e526b4.jpg)  
+Fig. 2 Phosphatase activities in saline-alkali soil under the different treatments   
+treatments   
+图4不同处理下盐碱土壤脱氢酶活性变化  
+Fig.4Dehydrogenase activities in saline-alkali soil under the different treatments
+
+2.3不同改良配方对盐渍化土壤微生物总碳、总氮的影响
+
+土壤微生物量碳虽然占土壤有机碳的 $1 \% - 4 \% ^ { [ 2 6 ] }$ ,但却是土壤养分和土壤动植物生命活动的养分的主要来源,是反映土壤微生物活性和质量的总体指标,比土壤有机质更能有效地反映土壤肥力状况[27-28]。土壤微生物量的大小一般与土壤肥力水平呈正相关,土壤肥力水平越高,土壤微生物量C、N 含量也就越大[29],因此土壤的微生物量也可作为一个评价土壤肥力的指标。从图5、图6可知,随着改良剂梯度的变化,微生物碳量变化显著。土壤经过改良,土壤微生物碳量各处理差异显著,变化趋势大致由低到高,且各处理与对照差异显著,各土壤指标值均高于对照。因为土壤中添加牛粪和秸秆等有机物质,土壤微生物活性增强,微生物碳含量变大，微生物氮量的变化规律与微生物碳量一致。
+
+http://www.ecologica.cn
+
+通过方差分析可知,牛粪,石膏,秸秆,保水剂这4个因素对盐碱土壤微生物碳改良的影响显著,但其影响程度的大小有差异,这4个因素对盐碱土壤微生物碳改良作用的大小依次为： $\mathrm { A { > } B { > } D { > } C }$ 。其中,A 因素中 $\mathbf { A } _ { 4 }$ 均数最大（213.91），且 $\mathrm { A } _ { 1 } \ 、 \mathrm { A } _ { 2 } \ 、 \mathrm { A } _ { 3 } \ 、 \mathrm { A } _ { 4 }$ 之间存在显著性差异。同理,B 因素中 $\mathbf { B } _ { 3 }$ 均数最大（135.45）， $\mathbf { B } _ { 1 }$ 和 $\mathbf { B } _ { 2 }$ 分别与 ${ \bf B } _ { 3 } \setminus { \bf B } _ { 4 }$ 之间存在显著性差异; $\mathbf { C } _ { 1 }$ 均数最大（127.78）， $\mathrm { C } _ { 3 }$ 与 $\mathbf { C } _ { 1 } , \mathbf { C } _ { 2 }$ 之间存在显著性差异; $\mathbf { D } _ { 3 }$ 均数最大（134.62），且 $\mathrm { \Delta D } _ { 1 }$ 和 $\mathbf { D } _ { 2 }$ 分别与 $\mathrm { D } _ { 3 } \setminus \mathrm { D } _ { 4 }$ 之间存在显著性差异。
+
+![](images/e9e58e33245a9bad52e07572ebf5c457879731822d95a42d2dc934b7aa180f47.jpg)  
+图5不同处理下盐碱土壤微生物碳含量的变化
+
+![](images/f7e70b702d0fe0cbe8dd0c9b05c7e697f81696247658b8533072a96202f3cefc.jpg)  
+Fig.5Microbial biomass C contents in saline-alkali soil under the different treatments   
+图6不同处理下盐碱土壤微生物氮含量的变化Fig.6Microbial biomass N contents in saline-alkali soil underthe different treatments
+
+通过方差分析可知,牛粪,石膏,秸秆,保水剂这4个因素对盐碱土壤微生物氮改良的影响显著,但其影响程度的大小有差异,这4个因素对盐碱土壤微生物氮改良作用的大小依次为： $\mathrm { A { > } B { > } D { > } C }$ 。其中,A 因素中 $\mathbf { A } _ { 4 }$ 均数最大（47.42），且 $\mathbf { A } _ { 1 }$ 与 ${ \bf A } _ { 2 } \ 、 { \bf A } _ { 3 } \ 、 { \bf A } _ { 4 }$ 之间存在显著性差异,其中 $\mathbf { A } _ { 4 }$ 与 $\mathbf { A } _ { 2 } \mathbf { \Omega } , \mathbf { A } _ { 3 }$ 之间存在显著性差异。同理,B 因素中 $\mathbf { B } _ { 3 }$ 均数最大（25.83）， $\mathbf { B } _ { 1 }$ 和 $\mathbf { B } _ { 2 }$ 分别与 $\mathbf { B } _ { 3 } \ 、 \mathbf { B } _ { 4 }$ 之间存在显著性差异; $\mathrm { C } _ { 2 }$ 均数最大（26.78）， $\mathbf { C } _ { 2 }$ 与 $\mathrm { C } _ { 3 } \mathrm { ~ } , \mathrm { C } _ { 4 }$ 之间存在显著性差异,且 $\mathbf { C } _ { 1 }$ 与 $\mathrm { C } _ { 4 }$ 之间存在显著性差异; $\mathrm { { D } } _ { 4 }$ 均数最大（27.23）， $\mathrm { { D } } _ { 4 }$ 与 $\mathbf { D } _ { 1 } \setminus \mathbf { D } _ { 2 }$ 之间存在显著性差异,且 $\mathbf { D } _ { 2 }$ 与 $\mathbf { D } _ { 3 }$ 之间存在显著性差异。
+
+# 2.4土壤生化指标相关性分析
+
+从表2可以看出,盐碱化土壤经过改良,土壤呼吸强度与土壤磷酸酶、土壤脲酶、土壤脱氢酶、土壤微生物碳、微生物氮成极显著性相关;土壤磷酸酶与土壤脲酶、土壤脱氢酶、土壤微生物碳、微生物氮成极显著性相关;土壤脲酶与土壤脱氢酶极显著性相关,与土壤微生物碳显著相关,与土壤微生物氮相关不显著;土壤脱氢酶与土壤微生物碳、土壤微生物氮成极显著性相关;土壤微生物碳与土壤微生物氮成极显著相关。其原因与植物根系对养分的活化、吸收以及土壤微生物、土壤酶对土壤有机质分解、转化有关。同时，促进了土壤微生物、土壤酶活性提高;土壤微生物量、土壤酶活性及土壤养分三者之间关系密切。
+
+表2盐碱土壤各生化指标的相关性  
+Table2Correlative coeficient between biochemical indicators of Saline-alkali Soi   
+
+<html><body><table><tr><td>生化指标 Biochemical indicators</td><td>呼吸强度 Respiration</td><td>磷酸酶 Phosphatase</td><td>脲酶 Urease</td><td>脱氢酶 Dehydrogenase</td><td>微生物碳 Microbial</td><td>微生物氮 Microbial</td></tr><tr><td>呼吸强度 Respiration intensity</td><td>intensity 1</td><td></td><td></td><td></td><td>biomass C</td><td>biomass N</td></tr><tr><td>磷酸酶 Phosphatase</td><td>0.634**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>脲酶 Urease</td><td>0.631**</td><td>0.631**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>脱氢酶 Dehydrogenase</td><td>0.894 **</td><td>0.645 **</td><td>0.653 **</td><td>1</td><td></td><td></td></tr><tr><td>微生物碳量 Microbial biomass C contents</td><td>0.780 **</td><td>0.393 **</td><td>0.310 *</td><td>0.717 **</td><td>1</td><td></td></tr><tr><td>微生物氮量 Microbial biomass N contents</td><td>0.721**</td><td>0.370**</td><td>0.190</td><td>0.571**</td><td>0.921**</td><td>1</td></tr></table></body></html>
+
+\*\*表示相关性在置信水平为0.01具有重要意义（双侧的）。 $*$ 表示相关性在置信水平为0.05具有重要意义（双侧的)
+
+# 3结论
+
+本研究以黄河三角洲工农业生产中的废弃物为改良材料,拟通过添加石膏,牛粪,秸秆,保水剂,促进土壤中钠钙离子交换率,利于盐分的淋溶去除,增加土壤的养分含量,改善土壤的物理结构,增强改良土壤的保水保肥潜能。研究结果表明，4种改良剂对盐碱土土壤呼吸强度、土壤磷酸酶、土壤脉酶、土壤脱氢酶和土壤微生物碳氮等生化指标的改良效果存在差异,牛粪(A）、石膏(B)、秸秆(C)3种改良剂对土壤呼吸强度、土壤磷酸酶、土壤脲酶、土壤脱氢酶和土壤微生物碳氮改良效果均显著,保水剂(D)对土壤微生物碳氮改良效果显著,对土壤呼吸强度、土壤磷酸酶、土壤脲酶、土壤脱氢酶改良作用不显著。
+
+4种改良剂对盐碱土各生化指标的贡献值存在差异,综合考虑经济效益和改良效果,对土壤呼吸强度、土壤酶、土壤微生物碳氮等生化特性改良的适宜配方为 $\mathbf { A } _ { 4 } \mathbf { B } _ { 3 } \mathbf { C } _ { 2 } \mathbf { D } _ { 2 }$ ,土壤呼吸强度、土壤磷酸酶、土壤脲酶、土壤脱氢酶和土壤微生物碳氮分别比对照增高 $1 0 9 . 6 4 \%$ ， $8 9 . 5 4 \%$ ， $6 2 . 2 0 \%$ $8 1 . 7 5 \%$ $6 0 . 5 0 \%$ $1 1 8 . 0 0 \%$ ,相关分析表明,除微生物氮和脲酶相关不显著外，上述各土壤生化指标间均显著相关，研究结果可为黄河三角洲盐碱土的改良利用提供一定的理论依据。
+
+# 参考文献（References）：
+
+[1］杨劲松.中国盐渍土研究的发展历程与展望.土壤学报，2008，45(5）：837-845.  
+[2］单奇华,张建锋，阮伟建，唐华军,沈立铭，陈光才.滨海盐碱地土壤质量指标对生态改良的响应.生态学报，2011,31（20)：6072-6079.  
+［3］关元秀，刘高焕，王劲峰.基于GIS 的黄河三角洲盐碱地改良分区.地理学报，2001,56(2)：198-205.  
+［4］程镜润，陈小华，刘振鸿，李小平，付融冰，陈泉源.脱硫石膏改良滨海盐碱土的脱盐过程与效果实验研究.中国环境科学，2014，34(6)：1505-1513.  
+[5］王春霞，王全九，吕廷波，庄亮.添加化学改良剂的砂质盐碱土入渗特征试验研究.水土保持学报，2014，28(1）：31-35.  
+[6］王琳琳，李素艳，孙向阳，张涛，付颖，张红蕾.不同隔盐措施对滨海盐碱地土壤水盐运移及刺槐光合特性的影响.生态学报，2015，35(5)：1388-1398.  
+［7］董丽洁，陆兆华，贾琼,裴定宇，佟海荣，李伟，朱金方，夏孟婧.造纸废水灌溉对黄河三角洲盐碱地土壤酶活性的影响.生态学报，2010，30(24): 6821-6827.  
+[8」叶文培，王凯荣,Johnson SE，谢小立.添加玉米和水稻秸秆对淹水土壤pH、二氧化碳及交换态铵的影响.应用生态学报，2008，19（2)：345-350.  
+[9］王金满，杨培岭，张建国，石懿．脱硫石膏改良碱化土壤过程中的向日葵苗期盐响应研究.农业工程学报，2005，21（9)：33-37.  
+[10］杨婷，胡君利，王一明，张晶，吕家珑，林先贵.发酵牛粪和造纸干粉对土壤中多环芳烃降解的影响.生态环境学报，2009，18（6)：2161-2165.  
+[11］黄占斌，万会娥，邓西平,张国桢.保水剂在改良土壤和作物抗旱节水中的效应.水土保持学报，1999,5（4）：52-55.  
+[12] 滨州市统计局.滨州统计年鉴(1999—2008).北京：中国统计出版社，1999—2008.  
+[13］张丁辰，蔡典雄，代快，张晓明，冯宗会，王小彬.旱地农田两种土壤呼吸测定方法的比较.中国土壤与肥料，2011,（4)：1-4,29-29.  
+[14] 关松荫.土壤酶及其研究法.北京：农业出版社，1986  
+［15］张东秋，石培礼，张宪洲.土壤呼吸主要影响因素的研究进展.地球科学进展，2005，20（7）：778-785.  
+[16］诸葛玉平，张旭东，刘启.长期施肥对黑土呼吸过程的影响．土壤通报，2005，36(3）：391-394.  
+[17] ColemanDC，HunterMD,HuttonJ，omeroyS，SwiftJrL.Soilrespirationfrofourgradingforestedwatersedsmeasuredoverartercentury.Forest Ecology and Management，2002，157(1/3）：247-253.  
+[18］颜世磊，赵蕾，孙红炜，田晓燕，李凡，路兴波.大田环境下转 Bt基因玉米对土壤酶活性的影响.生态学报，2011,31（15)：4244-4250.  
+9]LiuXigYtrlciolastatiplain，Northeast China.Pedosphere，2008，18(4）：431-440.  
+[20]NdiayeE，deJcGrathDickntegratieologcalicaofoetetingangeisolqualitecanJoalfAlternative Agriculture，2000，15(1）：26-36.  
+[21］孙海国，张福锁.缺磷条件下的小麦根系酸性磷酸酶活性研究.应用生态学报，2002，13（3）：379-381.  
+22]Singateuctaseaseeddgasectiuaildgsidsoil after acetamiprid treatments.Chemosphere，2008,71(3）：412-418.  
+[23］杨玉盛，邱仁辉，俞新妥，黄宝龙.杉木连栽土壤微生物及生化特性的研究.生物多样性，1999，7（1)：1-7.  
+[24］郭明，陈红军，王春蕾.4种农药对土壤脱氢酶活性的影响.环境化学，2000，19(6)：523-527.  
+[25]Chu HY,Lin $\mathrm { ~ X ~ G ~ }$ ，FujiiT，MorimotoS,YagiK，HuJL,Zhang JB.Soil microbial biomass，dehydrogenase activity，bacterial communitystructure inresponse to long-term fertilizer management.Soil Biologyand Biochemistry,2007,39（11）：2971-2976.  
+[26］朱宏，赵成义，李君，李玉杰，王锋.怪柳林地土壤微生物量碳及相关因素的分布特征.土壤学报，2008,45（2)：375-379.  
+[27]PaitsGssglaosstdspllgrowth under or ganic and conventional management.Applied Soil Ecology，2Oo5,28(1）：1-13.  
+[28］毛榕，崔强，赵琼，艾桂艳，李禄军，曾德慧.不同林龄杨树农田防护林土壤微生物生物量碳、氮和微生物活性.应用生态学报，2009,20(9)：2079-2084.  
+29]ieErozfolssieforganic manures. Soil Biology and Biochemistry，1993,25(6）：659-669.

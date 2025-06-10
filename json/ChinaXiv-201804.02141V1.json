@@ -1,0 +1,510 @@
+[
+    {
+        "type": "text",
+        "text": "NOMA中基于非规则码片映射的稀疏多用户检测算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "詹德满1²，李燕龙1,²，王俊义1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.桂林电子科技大学 认知无线电与信息处理教育部重点实验室，广西 桂林 541004;2.中国电子科技集团公司第 54研究所 通信网信息传输与分发技术重点实验室，石家庄050081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对非正交多址接入系统灵活性不高的问题，基于码片映射码分多址（Chip Mapping-CDMA，CM-CDMA）系统，设计了一种非规则结构的码片映射矩阵。根据不同场景需求，该映射矩阵可为各用户分配不同数量的传输码片，提高了系统灵活性。同时分析了非规则映射矩阵的引入满足压缩感知RIP条件，并对该系统模型进行了验证。仿真结果表明，该系统能够利用压缩感知理论可靠地检测出活跃用户和数据，过载率可达 $300 \\%$ ，有效提升了频谱利用率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：非正交多址；非规则映射矩阵；压缩感知；多用户检测 中图分类号：TN929 doi:10.3969/j.issn.1001-3695.2018.02.0049 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sparse multiuser detection algorithm based on irregular chip mapping in non-orthogonal multiple access ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhan Deman1,2, Li Yanlong1,2, Wang Junyi1 (1.KeyLaboratoryofCognitiveRadio&Information Processing,MinistryofEducation,Guilin UniversityofElectronic Technology，GuilinGuangxi 541004,China;2.Science&TechnologyonInformation Transmission&Disseminationin Communication Networks Laboratory,The 54th Research Instituteof China Electronics Technology Group Corporation, Shijiazhuang 050081, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inviewofthe lowflexibilityofnon-orthogonal multipleaccesssystem,this paperdesigned an iregularchip mapping matrix based on chip mapping-CDMA(CM-CDMA)system.This irregularchip mapping matrix can allocate diferent quantity of transmission chips foreachuseraccording to different scenerequirements,which improves the flexibilityofsystem.Atthe same ime,itanalyzed theconditionwhichsatisfiedcompressedsensingRIPaftertheirregularmapping matrices wasintroduced. It also validatedthe system model.Thesimulationresults showthat the systemcan detectactive users anddatareliablybyusing the compressed sensing theory. The overload rate can reach $300 \\%$ ,which improves the spectrum utilization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Non-orthogonal multiple access; irrgular mapping matrix; compressive sensing; multi-user detection ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "移动互联网和物联网的迅猛发展将会对未来无线通信系统提出更苛刻的要求[1]。非正交多址接入（non-orthogonal multipleaccess，NOMA）[2]具有低时延、高传输速率、高连接密度等优点[34]，被认为是解决未来通信中海量用户接入技术之一。NOMA克服了传统正交多址中频谱利用率低的缺点，它将会在移动通信中得到更广泛的应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在 NOMA系统中，需要将用户信息映射到扩频资源（码片）上进行传输，而映射关系在一定程度上反映了系统的实际价值。由于LDPC码校验矩阵是一种低密度的稀疏矩阵[5]，可作为映射矩阵，因此本文利用LDPC码的校验矩阵的生成方法来构造映射矩阵。LDPC 校验矩阵的生成方法主要有两类[]，一类是随机构造法，另一类是代数构造法。在这两类生成方法中，代数构造法简单容易实现，灵活性较高。用户与码片的映射关系可分为规则映射和非规则映射，规则映射矩阵中用户与码片的映射数量关系是固定的[7]，不能灵活适应不同场景需求，并且稀疏度较大[8]，不利于接收端的稀疏检测。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，本文研究非规则映射场景下的稀疏多用户检测算。非规则映射克服了规则映射技术不能灵活地适应不同场景需求。本文设计了一种非规则结构的映射矩阵[9-10]，可为不同用户分配不同数量的码片，在保证了连通同时也兼顾了覆盖要求[1]，提高了码片的利用率和系统的灵活性。本文中分析了在引入非规则结构映射矩阵后，接收端接收到的信号仍是稀疏的，即接收信号满足压缩感知的条件。压缩感知检测方法主要分为两类：贪婪算法和凸优化算法。贪婪算法计算效率高，复杂度低。在CM-CDMA系统接收端，即使过载条件下，利用压缩感知技术也能高概率地检测出活跃用户和数据[12][13]，有效提升了频谱效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于ChipsMapper-CDMA非正交多址接入系统，设计了一种非规则的码片映射矩阵，系统模型如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec86a790b869fe9bb7eaf0ba1b7d39bea51447a671a97abe959eda1052259d60.jpg",
+        "img_caption": [
+            "图1ChipsMapper-CDMA系统模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在CM-CDMA系统，令X、Y和 $\\mathbf { n }$ 分别表示用户传输符号向量、接收向量和噪声向量。在接收端所有用户接收信号可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { y } = \\sum _ { k = 1 } ^ { K } \\pmb { a } _ { k } \\pmb { x } _ { k } + \\mathbf { n } { = } \\mathbf { A } \\mathbf { x } + \\mathbf { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：用户 $k$ 的影响信号向量 $\\pmb { a } _ { k }$ 是瞬时信道响应 $\\mathbf { h } _ { \\scriptscriptstyle k }$ 、初始扩频序列S和映射向量 $\\mathbf { f } _ { _ { k } }$ 的积，即式（2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\Delta } \\mathbf { a } _ { \\boldsymbol { k } } = \\mathbf { h } _ { \\boldsymbol { k } } \\cdot \\mathbf { s } \\cdot \\mathbf { f } _ { \\boldsymbol { k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在CM-CDMA系统中，用户与码片之间的映射关系可用二分图表示，也可将用户与码片的映射关系用相应的标示矩阵 $\\mathbf { F }$ 来表示，如4个码片资源，6个用户F矩阵可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F } = \\left[ \\begin{array} { l l l l l l } { 1 } & { 0 } & { 0 } & { 1 } & { 1 } & { 0 } \\\\ { 0 } & { 1 } & { 1 } & { 0 } & { 1 } & { 0 } \\\\ { 0 } & { 1 } & { 0 } & { 1 } & { 0 } & { 1 } \\\\ { 1 } & { 1 } & { 0 } & { 0 } & { 0 } & { 1 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果标示矩阵F中的每一列或者每一行含有相同个数的“1”,这样的映射叫做规则结构映射，否则叫非规则结构映射。非规则结构映射矩阵通过为每一个用户分配不同数量码片实现不同场景下覆盖和连通的要求，以提高系统灵活性。为了达到重点覆盖要求，每个用户多分配传输码片，可用式（4)来表示；为保证连通要求，每个用户少分配传输码片，可用式（5）来表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\operatorname { F } = \\left[ \\begin{array} { l l l l l l } { 1 } & { 1 } & { 1 } & { 0 } & { 1 } & { 0 } \\\\ { 1 } & { 1 } & { 0 } & { 0 } & { 1 } \\\\ { 1 } & { 1 } & { 1 } & { 0 } & { 1 } & { 1 } \\\\ { 1 } & { 0 } & { 1 } & { 0 } & { 1 } & { 1 } \\end{array} \\right] } \\\\ { \\operatorname { F } = \\left[ \\begin{array} { l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 1 } \\\\ { 1 } & { 1 } & { 1 } & { 1 } & { 1 } & { 1 } \\\\ { 0 } & { 0 } & { 1 } & { 0 } & { 0 } & { 0 } \\end{array} \\right] } \\\\ { \\operatorname { F } = \\left[ \\begin{array} { l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 1 } & { 1 } & { 1 } & { 1 } & { 1 } & { 1 } \\\\ { 0 } & { 0 } & { 1 } & { 0 } & { 0 } & { 0 } \\end{array} \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用的非规则结构映射矩阵F，具体可借鉴PG-LDPC码构造法设计[14]。映射矩阵 $\\mathbf { F }$ 可以采用\"复制-转换”算法得到。其操作为：现有一基础矩阵B，它的每一个元素的数值都是随机的，用 $\\boldsymbol { r } \\times \\boldsymbol { r }$ 阶的零矩阵 $0 _ { r }$ 替换基础矩阵B中所有的\"0\"元素；用 $r \\times r$ 阶的单位阵I替换基础矩阵B中所有的\"1\"元素；对大于\"1\"的元素，先用相应个数的置换阵求异或，然后用所求得的置换阵对相应元素进行替换。假设有基础矩阵B，则有相对应映射矩阵为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { B = \\left[ \\begin{array} { c c c c } { { 1 } } & { { 2 } } & { { \\cdots } } & { { 1 } } \\\\ { { \\vdots } } & { { \\vdots } } & { { \\ddots } } & { { \\vdots } } \\\\ { { 1 } } & { { 0 } } & { { \\cdots } } & { { 4 } } \\end{array} \\right] \\xrightarrow { \\scriptscriptstyle { \\# } \\# | \\mathrm { i } \\cdot \\# | \\mathrm { s } \\cdot \\# | } \\longrightarrow } }  \\\\ { { F = \\left[ \\begin{array} { c c c c } { { I _ { r } } } & { { I _ { r } \\oplus \\Pi _ { 1 } } } & { { \\cdots } } & { { I _ { r } } } \\\\ { { \\vdots } } & { { \\ddots } } & { { \\vdots } } & { { \\vdots } } \\\\ { { I _ { r } } } & { { 0 _ { r } } } & { { \\cdots } } & { { \\Pi _ { 2 } \\oplus \\Pi _ { 3 } \\oplus \\Pi _ { 4 } } } \\end{array} \\right] _ { 2 r \\times 3 r } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：置换阵 $\\Pi _ { i , } i = 1 , \\cdots , 4$ 是一个 $4 { \\times } 4$ 的子矩阵，每个子矩阵都是单位循环矩阵，因此导出图的校验矩阵具有分块循环特性[15]。非规则矩阵的这一分块性质，提高了在接收端对信号重建概率，由于基础矩阵B中的元素值是随机生成的，因此经过复制置换操作后的非规则结构LDPC校验矩阵具有稀疏特点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 非规则映射矩阵有限等距性质分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在接收端，如果式（1）中的矩阵A满足有限等距性质（restricted isometryproperty，RIP）[16]，那么就可以从接收到的信号中还原出原信息。式（2）中初始扩频序列S是非零的对角阵，若将所有的用户 $k$ 的影响信号向量 ${ \\bf a } _ { { \\scriptscriptstyle k } }$ 写成矩阵形式，由于初始扩频序列S不会改变矩阵的稀疏性，为简便起见可将其略去，则可以得到到式（7)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = H F\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现在来分析观测矩阵A的有限等距性质。在压缩感知（compressing sensing，CS）理论中已经表明，作为观测矩阵的$N \\times K$ 阶高斯矩阵或伯努利矩阵，当它满足满足RIP性质（ $K$ 阶RIP性质）时，可以在接收端重建原始信号[5]。因此，进一步假设本文所设计的非规则映射矩阵可以为高斯矩阵或伯努利矩阵。下面给出高斯CS矩阵 $\\mathrm { F _ { G } }$ 和伯努利CS矩阵 $\\mathrm { F _ { B } }$ 的定义和概率分布[17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高斯CS 矩阵 $\\mathrm { F _ { G } }$ ： $N \\times K$ 高斯矩阵FG的元素 $f _ { n , k }$ 是独立同分布的高斯随机变量，其概率分布如式（5）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { n , k } \\sim N ( 0 , 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "伯努利CS矩阵 $\\mathrm { F _ { B } } : N \\times K$ 伯努利矩阵 $\\mathrm { F _ { B } }$ 的元素是独立同分布的伯努利随机变量，其概率分布如式（9）或（10）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { f _ { n , k } = \\left\\{ \\begin{array} { l l } { + 1 ~ , } & { \\frac { 1 } { 2 } } \\\\ { - 1 ~ , } & { \\frac { 1 } { 2 } } \\\\ { - 1 ~ , } & { \\frac { 1 } { 6 } } \\end{array} \\right. } & { { } } \\\\ { f _ { n , k } = \\left\\{ \\begin{array} { l l } { + 1 ~ , } & { \\frac { 1 } { 6 } } \\\\ { 0 } & { \\frac { 2 } { 3 } } \\\\ { - 1 ~ , } & { \\frac { 1 } { 6 } } \\end{array} \\right. } & { { } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据CS理论[5]，RIP可以保证式（1）中 $K$ 稀疏信号 $\\textbf { x }$ 的恢复。根据文献[17]给出的亚高斯变量和各向同性随机向量的定义1、定义2，可以推出高斯随机变量和伯努利随机变量均是亚高斯随机变量，且各项同性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1一个随机变量X如果满足下式，那么 $\\mathrm { \\Delta } \\mathrm { X }$ 称为亚高斯随机变量",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P } \\{ \\left| x \\right| \\ge { \\bf t } \\} \\le \\exp \\left( 1 { - } \\frac { { \\bf t } ^ { 2 } } { Q ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathsf { Q }$ 是一个绝对常数。X的亚高斯范数表示为 $\\left. x \\right. _ { \\psi 2 }$ ，定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\| x \\right\\| _ { \\psi ^ { 2 } } = \\operatorname* { s u p } _ { P \\geq 1 } P ^ { - 1 / 2 } ( \\operatorname { E } \\left| x \\right| ^ { P } ) ^ { 1 / P }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "很容易看出，式（8）中的高斯随机变量和式（9）中的伯努利随机变量都是亚高斯随机变量，并且式(8)、式（9）的亚高斯范数分别为 $\\left\\| x \\right\\| _ { \\psi ^ { 2 } } = \\mathsf { C } _ { \\mathrm { G } }$ ， $\\left\\| x \\right\\| _ { \\psi 2 } = 1$ ,其中 $\\mathrm { C } _ { \\mathrm { G } }$ 是一个绝对常数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义2随机向量 $ { \\mathbf { b } } \\in  { \\mathbb { R } } ^ { K \\times 1 }$ 如果满足 $\\mathbf { E b b } ^ { \\mathrm { { T } } } = \\mathbf { I } \\in \\mathbf { R } ^ { K \\times K }$ ，则称为各向同性。等价地，如果满足式（13)，b是各向同性向量：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE { \\big \\langle } { \\mathbf b } , { \\mathbf x } { \\big \\rangle } ^ { 2 } = \\left\\| x \\right\\| _ { 2 } ^ { 2 } \\quad \\forall { \\mathbf x } \\in R ^ { K \\times 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此易知高斯随机向量和伯努利随机向量都是各向同性随机向量[17]。同理，列向量 $f _ { k }$ （ $1 \\leq k \\leq K$ ）如果满足${ \\bf E f } _ { k } { \\bf f } _ { k } ^ { \\mathrm { T } } { = } { \\bf I } \\in { \\bf R } ^ { N \\times N }$ 和式（14)，那么列向量 $f _ { k }$ 也是各向同性随机向量。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE { \\big \\langle } \\mathrm { f } _ { k } , \\mathbf { x } { \\big \\rangle } ^ { 2 } = \\left\\| x \\right\\| _ { 2 } ^ { 2 } \\quad \\forall \\mathbf { x } \\in R ^ { N \\times 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进一步根据文献[17]中的定理1来分析（1）中 $\\mathbf { A } = \\mathrm { H F }$ 的RIP，如果文献[18]中的定理2成立，那么观测矩阵A满足RIP 性质。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理1设 ${ \\bf { B } } \\in { \\bf { R } } ^ { \\mathrm { { M } } \\times \\mathrm { { S } } }$ 为具有 $\\mathrm { \\Delta } \\mathrm { M } { > } { > } \\mathrm { S }$ 特点的矩阵，其行$\\mathsf { b } _ { \\mathrm { m } } \\in \\mathsf { R } ^ { \\mathrm { S } \\times 1 }$ 为独立的亚高斯各向同性随机向量。那么对于任意t${ \\geq } 0$ ，满足下式概率至少有 $1 - 2 \\mathrm { e x p } ( - c t ^ { 2 } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sqrt { M } - C \\sqrt { S } - t \\leq S _ { \\operatorname* { m i n } } ( B ) \\leq S _ { \\operatorname* { m a x } } ( B ) \\leq \\sqrt { M } + C \\sqrt { S } + t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $S _ { \\mathrm { m i n } } ( B )$ 和 $S _ { \\mathrm { m a x } } ( B )$ 分别表示矩阵B的最小和最大奇异值。$C = C _ { \\omega }$ ， $c = c _ { \\omega } > 0$ 只取决于亚高斯范数 $\\omega = \\operatorname* { m a x } _ { \\boldsymbol { m } } \\left\\| \\mathbf { b } _ { m } \\right\\| _ { \\psi ^ { 2 } }$ ,其中$\\left\\|  { \\mathbf { b } } _ { m } \\right\\| _ { \\psi ^ { 2 } } = \\operatorname* { s u p } \\left\\| \\left.  { \\mathbf { b } } _ { m } , \\mathbf { x } \\right. \\right\\| _ { \\psi ^ { 2 } } , \\left\\| \\mathbf { x } \\right\\| _ { 2 } = 1 \\ 。$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文设计的映射矩阵F是一个稀疏矩阵，令 $K$ 表示映射矩阵F的稀疏度， $N$ 表示矩阵的行数，矩阵中的非零元素满足式（9)，即映射矩阵中的元素是独立同分布的伯努利随机变量。同时假设信道矩阵 ${ \\bf H } \\in { \\bf R } ^ { N \\times N }$ 行独立，且有相同的F范数D,即 $\\begin{array} { r } { \\mathrm { H } _ { i } = \\sqrt { \\sum _ { j = 1 } ^ { N } \\left| a _ { i , j } \\right| ^ { 2 } } \\left( i = 1 , \\cdots , N \\right) } \\end{array}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令 $\\lambda$ 为 $\\{ 1 \\ , \\quad \\cdots \\ , \\quad K \\}$ 的一个子集， $\\vert \\lambda \\vert = K$ ，$\\mathbf { A } _ { \\lambda } { = } \\mathbf { H F } _ { \\lambda } \\in \\mathbf { R } ^ { N \\times K } ( N \\gg K )$ ，其中矩阵 $\\mathbf { A } _ { \\lambda }$ 是A中对应列构成的子矩阵。设 $a _ { n , k }$ 是 $\\mathbf { A } _ { \\lambda }$ 的 $( n , k )$ 项， $h _ { n } \\in \\mathbf { R } ^ { N \\times 1 } ( 1 < n < N )$ 表示$\\mathrm { ~ H ~ }$ 的第 $n$ 行， $f _ { k } \\in { \\mathbf { R } } ^ { N \\times 1 } ( 1 < k < K )$ 表示 $\\mathrm { F } _ { \\lambda }$ 的第 $k$ 列。由式(9)的定义知 $\\mathbf { A } _ { \\lambda }$ 的元素是亚高斯变量，对于任意 $n , k \\ , \\ a _ { n , k }$ 的均值${ \\mathrm E a } _ { n , k } = { \\mathrm E h } _ { n } ^ { \\mathrm T } f _ { k } = 0$ 。从式（14）知 $\\mathrm { E } a _ { n , k } = \\mathrm { E } ( f _ { k } , h _ { n } ) ^ { 2 } = \\left\\| h _ { n } \\right\\| _ { 2 } ^ { 2 } = D ^ { 2 }$ 。设 $\\boldsymbol { a } _ { m } = \\left[ a _ { n , 1 } , \\cdots , a _ { n , K } \\right] ^ { \\mathrm { T } } \\in \\mathrm { R } ^ { K \\times 1 }$ 表示 $\\mathbf { A } _ { \\lambda }$ 的第 $\\mathfrak { n }$ 行， $1 \\leq n \\leq N ,$ 。由文献[18]中定理2知 $\\mathbf { A } _ { \\lambda }$ 的行是独立的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据文献[18], $\\boldsymbol { a } _ { n }$ 的二阶矩，即 ${ \\bf E } a _ { n } a _ { n } ^ { { \\bf T } } \\in { \\bf R } ^ { K \\times K }$ 由下式给出：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\left[ \\begin{array} { l l l l } { \\operatorname { E } a _ { n , 1 } ^ { 2 } } & { \\operatorname { E } a _ { n , 1 } a _ { n , 2 } } & { \\cdots } & { \\operatorname { E } a _ { n , 1 } a _ { n , S } } \\\\ { \\operatorname { E } a _ { n , 1 } a _ { n , 2 } } & { \\operatorname { E } a _ { n , 2 } ^ { 2 } } & { \\cdots } & { \\operatorname { E } a _ { n , 2 } a _ { n , S } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { \\operatorname { E } a _ { n , 1 } a _ { n , S } } & { \\operatorname { E } a _ { n , 2 } a _ { n , S } } & { \\cdots } & { \\operatorname { E } a _ { n , S } ^ { 2 } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由前分析知 （204号 $\\mathrm { E } a _ { n , k } ^ { 2 } = D ^ { 2 }$ （20$\\mathrm { E } a _ { n , k } a _ { n , j } = \\mathrm { E f } _ { k } ^ { \\mathrm { T } } \\mathrm { h } _ { n } \\mathrm { f } _ { j } ^ { \\mathrm { T } } \\mathrm { h } _ { n } = 0 , \\ 1 \\leq k , j \\leq K , k \\neq j$ ，则有 $\\mathrm { E } a _ { n } a _ { n } = D ^ { 2 } \\mathrm { I }$ 0令 $\\begin{array} { r } { \\boldsymbol { \\mathsf { b } } _ { n } = \\frac { 1 } { D } \\boldsymbol { a } _ { n } } \\end{array}$ ，则 $\\boldsymbol { \\mathrm { E b } } _ { n } \\boldsymbol { \\mathrm { b } } _ { n } ^ { \\mathrm { T } } = \\mathbf { I }$ 。因此 $\\textstyle { \\frac { 1 } { D } } a _ { n } \\in \\mathbf { R } ^ { K \\times 1 } ( 1 \\leq n \\leq N )$ 是独立的亚高斯各向同性随机向量。由定理1可知， $\\begin{array} { r } { \\mathbf { B } = \\frac { 1 } { D } \\mathbf { A } _ { \\Lambda } } \\end{array}$ 的奇异值界限满足不等式（15）的概率至少为 $1 - 2 \\mathrm { e x p } ( - c t ^ { 2 } ) ( t \\geq 0 )$ 令 $\\delta _ { \\kappa } = { \\frac { c { \\sqrt { K } } + t } { \\sqrt { N } } } { ( K \\ll N ) }$ c√K+t(K《N)，对式(15)进一步转化可得式(17)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 - \\delta _ { \\kappa } \\leq S _ { \\mathrm { m i n } } \\mathopen { } \\mathclose \\bgroup \\left( \\frac { 1 } { D \\sqrt { N } } \\mathbf { A } _ { \\lambda } \\aftergroup \\egroup \\right) \\leq S _ { \\mathrm { m a x } } \\mathopen { } \\mathclose \\bgroup \\left( \\frac { 1 } { D \\sqrt { N } } \\mathbf { A } _ { \\lambda } \\aftergroup \\egroup \\right) \\leq 1 + \\delta _ { \\kappa }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于任意的 $\\lambda \\in \\left\\{ 1 , \\cdots , K \\right\\}$ 、 $\\left. \\lambda \\right. = K$ 和 $\\mathbf { X } \\in R ^ { K \\times 1 }$ ，不等式（17）两边同时乘以 $\\left\\| \\mathbf { x } \\right\\| _ { 2 }$ ，并做相应整理，可得式（18）成立概率至少为 $1 { - } 2 \\mathrm { e x p } ( - c t ^ { 2 } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\big ( 1 - \\delta _ { { \\boldsymbol { K } } } \\big ) \\big \\| { \\bf x } \\big \\| _ { 2 } \\leq \\frac { 1 } { D \\sqrt { N } } \\big \\| { \\bf A } _ { \\lambda } { \\bf x } \\big \\| _ { 2 } \\leq \\big ( 1 + \\delta _ { { \\boldsymbol { K } } } \\big ) \\big \\| { \\bf x } \\big \\| _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这意味着对于任意 $K$ 稀疏信号 $\\mathbf { X } \\in R ^ { K \\times 1 }$ ，式（18）成立概率至少为 $1 - 2 \\mathrm { e x p } ( - c t ^ { 2 } ) ( t \\geq 0 )$ 。由此可知，本文所设计的映射矩阵是可行的，式（1）中的观测矩阵A满足RIP性质。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 稀疏多用户检测算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如前分析，本文研究的CM-CDMA系统中观测矩阵A满足 RIP性质，故可以用压缩感知技术对接收的信号进行重建。在压缩感知检测中，式（1）的观测矩阵A和观测向量y是已知的。一般用非零元素的数量来衡量稀疏性，即式（19)。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S } = \\left| \\begin{array} { l } { k : x _ { _ { k } } \\neq 0 } \\end{array} \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文研究的CM-CDMA系统扩频序列经过CMDA映射后信号变为复信号，而凸优化算法不适用于复信号的检测。因此，这里仅简要介绍本文用到的贪婪算法。在匹配追踪（matchingpursuit，MP)算法基础上进行改进的算法有压缩采样匹配追踪（compressive samplingMP，CoSaMP)，子空间追踪（SubspacePursuit，SP)和稀疏度自适应匹配追踪(sparsityadaptive MP，SAMP)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在CoSaMP重构算法中，如果稀疏信号x的稀疏度为 $K$ ，那么矩阵A只有 $K$ 列对信号Y中的元素的取值起作用。该算法在迭代的过程中需要找出 $K$ 个最优的列集合，再利用最小二乘法求出信号x的估计值，其过程如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b41fa7150d13431f2c17e6485d8b4ada32b6a2ab3a861449b4e5a04c21f76d0e.jpg",
+        "table_caption": [
+            "表1CoSaMP算法流程"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Algorithm1 Compressive Sampling Matching Pursuit (CoSaMP)</td></tr><tr><td>r=y,Γ°=,l=0</td></tr><tr><td>repeat</td></tr><tr><td>v=ATr_,l=l+1</td></tr><tr><td>Ω = sup(V2x)</td></tr><tr><td>r'=rl-1UΩ</td></tr><tr><td>x =Ay and x =0</td></tr><tr><td>r'=y-Axl</td></tr><tr><td>untill=KorA\"r E</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SP算法和CoSaMP算法差别很小，CoSaMP迭代时每次选 择2K个原子，而 SP每次选择K个原子，但是 SP算法更高 效。SP算法过程如表2所示。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鉴于前面所述贪婪算法及其他算法大都需要已知信号的稀疏度 $K$ ，而在实际中这个一般是不知道的。基于此背景，稀疏度自适应匹配追踪(SparsityAdaptive MP)被提出，它能自适应稀",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e692f9a64ad0f1c91d4322d0c49fae49e5671bac0724a406bef58ecab4adae80.jpg",
+        "table_caption": [
+            "疏信号。SAMP算法过程如表3所示：",
+            "表2SP 算法流程"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Algorithm 2 Subspace Pursuit (SP)</td><td></td></tr><tr><td>r°=y，Γ°=@,l=0 repeat</td><td></td></tr><tr><td>ν=Ar_,l=l+1 Ω = supp(v1x) T=r-1uΩ x =Ay andx = 0</td><td></td></tr><tr><td>r=y-Axl until l=Kx orA\"r<ε</td><td></td></tr><tr><td></td><td>表3SAMP算法流程</td></tr><tr><td></td><td>Algorithm 3 Sparsity Adaptive MP (SAMP)</td></tr><tr><td>r°=y,Γ°=,,L=s,k=1,j=1</td><td></td></tr><tr><td>repeat</td><td></td></tr><tr><td>s = max(Φ* rx-1|,L)</td><td></td></tr><tr><td>C =Ix-1US</td><td></td></tr><tr><td>T=max(l+,L)</td><td></td></tr><tr><td></td><td></td></tr><tr><td>r=y-ΦpΦ+y</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>j=j+1</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>L=jxs</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>until|/l ≥|-l</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 仿真结果 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文主要研究的是在CM-CDMA系统中用户与传输码片的非规则映射关系及对活跃用户与数据的检测，以均方误差（mean square error，MSE）作为衡量活跃用户与数据检测的性能指标，即：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M S E } { = } \\frac { 1 } { N } { \\sum _ { i = 1 } ^ { N } } E ( \\hat { \\mathbf { x } } _ { i } { - } \\mathbf { x } _ { i } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式（17）中 $\\mathbf { x } _ { \\scriptscriptstyle i }$ 和 $\\hat { \\mathbf { x } } _ { i }$ 分别是用户传输符号向量和估计向量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文中 CD-CDMA 系统仿真采用二进制相移键控(binaryphase shiftkeying，BPSK)调制，无线多径信道为 $_ { \\mathrm { L } = 8 }$ ，用户的初始扩频序列s采用 $\\mathbf { m }$ 序列生成。在系统仿真中， $\\mathrm { ~  ~ { ~ N ~ } ~ }$ 、 $\\rho _ { \\mathrm { a } }$ 、 $\\beta$ 分别为传输增益、活跃度、过载率。以信噪比为横坐标，仿真在不同信噪比下接收端传输符号检测的均方误差MSE。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4是系统在不同过载率的情况下均方误差，从图中可知CM-CDMA系统在过载率为 $300 \\%$ 时仍能可靠地检测出活跃用户和数据，频谱利用率可达 $300 \\%$ ，说明频谱利用率高。在相同的过载率条件下，三种算法中性能最优的是SP算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5是系统在不同活跃度条件下的均方误差。从图中可知在不同活跃度条件下CM-CDMA系统均能够检测出活跃用户和数据。在活跃度为 $14 \\%$ 及低信噪比条件下各算法都不够稳定，但随着信噪比的增加，三种算法性能均趋向稳定。说明CM-CDMA系统在低活跃度时较稳定。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fa3e511d406571b87027a8987fbf06de6f5d6df62fa4b7f0e6396b7adcb3248.jpg",
+        "img_caption": [
+            "图5不同活跃度的MSE"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6是系统在不同传输增益条件下的均方误差。从图可知SAMP算法在传输增益为 $N = 1 2 8$ 时性能不够稳定。但随着信噪比的增加，CoSaMP、SP、SAMP算法都较稳定。从图可知CM-CDMA系统在过载条件下能较好地适应不同的传输增益。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/11a27bcbfce475a308c62d440ff25a00687fcca2d5502c8f0f5c9abc4b1b72da.jpg",
+        "img_caption": [
+            "图6不同传输增益的MSE"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图7是过载率为 $200 \\%$ 时系统在不同信号稀疏度条件下的均方误差。从图中可知，三种算法在稀疏度较小时能可靠地检测出活跃用户和数据，同时当信号稀疏度K增大时系统变得不够稳定。说明CM-CDMA系统在稀疏度较小的情况下较稳定。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1562f28d0a1c071cabb1e3fb5bf3c55f682d4ccfa8eaabe0a016a1f37938bf6f.jpg",
+        "img_caption": [
+            "图4.不同过载率的MSE"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac37d06b9da08aebac388a4ab59186860488cd6191345b10a160c78058a5cfb8.jpg",
+        "img_caption": [
+            "图7不同信号稀疏度的MSE"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文研究了非正交多址接入系统中的上行多用户检测，基于CM-CDMA系统设计了一种非规则结构的映射矩阵，在接收端利用贪婪算法对活跃用户和数据进行检测。根据系统的不同场景需求，非规则结构映射矩阵为各用户分配不同数量的传输码片，提高了系统的灵活性。通过压缩感知技术验证了系统在不同的过载率、活跃度、传输增益和稀疏度条件下的性能。从仿真结果可知，该系统具有较好的适应性，在过载率为 $3 0 0 \\%$ 时，系统仍能可靠地检测出活跃用户和数据，有效提升了频谱利用率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Boccardi F,Heath R W,Lozano A,et al.Five disruptive technology directions for 5G[J].IEEE Communications Magazine,2014,52(2): 74-80.   \n[2]Dai Linglong,Wang Bichai,Yuan Yifei,et al.Non-orthogonal multiple access for 5G:solutions,challenges,opportunities,and future research trends [J].IEEE Communications Magazine,2015,53 (9):74-81.   \n[3]Hoshyar R,Wathan F P,Tafazoli R.Novel Low-Density Signature for Synchronous CDMA Systems Over AWGN Channel [J]. IEEE Trans on Signal Processing,2008,56(4): 1616-1626.   \n[4]Al-Imari M,Xiao Pei, Imran MA,et al. Uplink non-orthogonal multiple access for 5G wireless networks [C]// Proc of International Symposium on Wireless Communications Systems.2014:781-785.   \n[5] Islam MR,Kim J.On the use of QC-LDPC code for data transfer using short and medium block length [C]// Proc of the 11th International Conference on Advanced Communication Technology.2oo9:15-18.   \n[6] 刘渊，李雅庆．一种非规则QC-LDPC 的掩码矩阵构造方法[J]．制导 与引信,2012,33(1): 37-43.(Liu Yuan,Li Yaqing.Aconstruction meethod of masking matrix for irregular QC-LDPC[J].Guidance & Fuze,2012,33 (1): 37-43.)   \n[7]Arabaci M,Djordjevic IB,Saunders R,et al.High-rate non-binary regular quasi-cyclic LDPC codes for optical communications [J]. Journal of Lightwave Technology,2009,27 (23): 5261-5267.   \n[8]Li Zongwang, Chen Lei, Zeng Lingqi,et al.Efficient encoding of quasicyclic low-density parity-check codes [J].IEEE Trans on Communications, 2006,54 (1): 71-81.   \n[9] 刘仕爽，柱涛，彭兑武，寺．用于LDPC 编码调制系统的非规则映射技 术[J].清华大学学报：自然科学版，2011,6(51):734-738.(Liu Zaishuang, Cheng Tao,Peng Kewu, et al. Iregular mapping applications in LDPC coded modulation systems [J].Journal of Tsinghua University (Science & Technology),2011,6(51): 734-738.)   \n[10] Jiang Xueqin, Lee MH, Hou Jia.Regular and Irregular Quasi-Cyclic LDPC Codes [C]//Proc of the 73rd IEEE Vehicular Technology Conference. 2011: 1-5.   \n[11] Nikopour H, Baligh H. Sparse code multiple access $[ \\mathrm { C } ] / \\AA$ Proc of IEEE International Symposium on Personal Indoor and Mobile Radio Communications.2013:332-336.   \n[12] Schepker HF,Dekorsy A. sparse multi-user detection for CDMA transmission using greedy algorithms [C]/ Proc of International Symposium on Wireless Communication Systems.2012:291-295.   \n[13] Bockelmann C,Schepker H F,Dekorsy A.Compressive sensing based multi-user detection for machine-to-machine communication [J]. European Trans on Telecommunications,2013,24 (4): 389-400.   \n[14] The Consultative Committee for Space Data Systems.131.1-O-2. Experimental specifications,low density parity check codes for use in nearearth and deep space applications [S].[S.1.] : The Consultative Committee for Space Data Systems, 2007.   \n[15]陈震华，许肖梅，陈友淦，等．浅海水声信道中原模图LDPC 码的设计 及性能分析 [J]．电子与信息学报,2016,38(1):153-159.(Chen Zhenhua, Xu Xiaomei, Chen Yougan,et al. Design and analysis of protograph based LDPC codes in shallow water acoustic channels [J]. Journal of Electronics & Information Technology,2016,38(1): 153-159.）   \n[16]郭艳，钱鹏，李宁，等．基于压缩感知的多目标定位中的测量矩阵设计 [J].计算机科学,2016,43(11):160-163.(Guo Yan,Qian Peng,Li Ning,et al. Measurement matrix design for multiple target localization based on compressive sensing [J]. Computer Science,2016,43 (11): 160-163.)   \n[17] Vershynin R.1011.3027,Introduction to the non-asymptotic analysis of random matrices [S]. Eprint Arxiv, University of Michigan.2010:1-62.   \n[18]He Kesen,Li Yangqing, Yin Changchuan,Anovel CS-based non-orthogonal multiple access MIMO system for downlink of MTC in 5G [C]//Proc of the 28th IEEE Annual International Symposium on Personal, Indoor,and Mobile Radio Communications.2017:1-5. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

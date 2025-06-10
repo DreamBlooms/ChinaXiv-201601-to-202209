@@ -1,0 +1,547 @@
+[
+    {
+        "type": "text",
+        "text": "基于标化工作量的某中心城区社区卫生机构家庭医生团队工作开展现状分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐佳巧¹，颜骅1，方军波1，王海琴1，郭佩1，沈福来²，王形松2\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．200032上海市徐汇区斜土街道社区卫生服务中心  \n2．200333上海市徐汇区斜土街道社区卫生服务中心标化工作量改革项目组  \n\\*通信作者：王形松；E-mail：wxs_insist $@$ 163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】背景：家庭医生团队在运行过程中存在着工作内容条理不清、分工不合理和高能低用等问题，制约了家庭医生团队的整体发展。目的：本研究将借助标化工作量对某中心城区社区卫生机构家庭医生团队工作开展现状进行分析，了解阻碍家庭医生团队发展的主要因素，为家庭医生团队工作模式的改进提供指导。方法：以上海某中心城区社区卫生服务中心为例，分别采集 2019、2021年8月和9月家庭医生团队所开展的业务项目、项目发生的数量和项目标化工作量的相关参数。从服务项目性质的角度，将家庭医生团队服务分为基本医疗服务和公共卫生服务。计算家庭医生团队基本医疗和公共卫生工作的标化工作总量和总时间。根据医防融合的思路，将家庭医生团队工作拆分为社区动员、社区筛查、社区诊断、社区干预和社区随访五个通用的环节，计算各工作环节的标化工作总量和总时间。运用TOPSIS方法对家庭医生社区动员、社区筛查和社区随访所有服务项目的价值水平进行综合评价。结果：家庭医生团队公共卫生的标化工作量大大增加，但公共卫生标化工作量的增长并没有促进基本医疗标化工作量的增长。家庭医生团队在各环节的标化工作总量从大到小依次是社区诊断、社区随访、社区干预、社区动员、社区筛查。家庭医生团队在社区动员、社区筛查和社区随访的单位时间人力成本偏高。结论：应加强家庭医生社区干预相关专业技能的培训，增加相关设施设备。优化家庭医生团队各工作环节的人力资源配置，降低社区动员、社区筛查和社区随访的执行人力成本。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】标化工作量家庭医生社区卫生机构工作现状TOPSIS",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "inalysis of the current situation of family doctor team work in a community health institution in a entral urban area based on standardized workload ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XU Jiayu', YAN Hual,FANG Junbol, WANG Haiqin', GUO Pei', SHEN Fulai², WANG Xingsong²   \n1. Community Health Service Center, Xietu Street, Xuhui District, Shanghai, 200032, China   \n2. Standardized Workload Reform Project Team of Xietu Street Community Health Service Center, Xuhui   \nDistrict, Shanghai, 200333, China   \n\\*Corresponding author: WANG Xingsong; E-mail: wxs_insist@163.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 Background: During the operation of the family doctor team, there are problems such as unclear work content,unreasonable division of labor,and high-level but low-use, which restricts the overall development of the family doctor team. Objective: This study analyzed the current situation of family doctor team work in a community health institution in a central urban area with the help of standardized workload. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods: Taking a community health service center in a central urban area in Shanghai as an example, the business projects caried out by the family doctor team in August and September 2019 and 2021, the number of projects and the relevant parameters of project standardization workload.From the perspective of the nature of service items,family doctor team services are divided into basic medical services and public health services. Calculate the standardised work volume and total time of the family doctor team's basic medical and public health work. According to the idea of medical-prevention integration, the work of family doctor teams is divided into five general links: community mobilization，community screening,community diagnosis, community intervention and community follow-up,and the total standardized work and total time ofeach work link are calculated.The TOPSIS method was used to comprehensively evaluate the value level of all service items of family doctor team's community mobilization, community screening and community follow-up. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results: The standardization workload offamily doctor team's public health increased greatly,but the increase of public health standardization workload did not promote the increase of basic medical standardization workload.The total amount of standardized work performed by familydoctor teams in each link is community diagnosis,community follow-up,community intervention,community mobilization,and community screening in descending order.The labor cost per unit time offamily doctor teams in community mobilization,community screeningand community follow-up is relatively high. Conclusion: The training of professional skills related ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "to community intervention of family doctor teams should be strengthened,and related facilities and equipment should be increased. Optimize the alocation of human resources in each work link offamily doctor teams,and reduce the labor cost of community mobilization, community screening and community follow-up. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Key Words】 standardized workload; family doctor team; community health institutions; work status; TOPSIS当前，家庭医生团队已成为构筑基层医疗体系的最基底网络，承担着居民“健康守门人”的重要角色，其服务能力、服务质量和工作效率对家庭医生签约工作的推进以及家庭医生制度的发展都起着关键的作用。现阶段，家庭医生签约服务正处于发展阶段，家庭医生团队在运行过程中仍存在着诸多问题和困难，包括工作内容条理不清、分工不合理、高能低用、经营不能自给自足等，这使得家庭医生团队的整体发展进入慢速疲态阶段[1-3]。标化工作量是对医务人员提供服务的人力成本、时间成本、技术难度和风险程度的综合反映，对于社区卫生机构的绩效管理、成本核算和服务效果评价等方面都有着重要的应用价值[47]。目前，基于标化工作量的相关研究多关注于家庭医生团队的绩效管理和签约服务效果评价[8-9]，较少探讨家庭医生团队的工作分工、工作质量和工作效率。因此，本研究将借助标化工作量对家庭医生团队工作开展现状进行分析，以期了解影响家庭医生团队发展的主要因素，为完善家庭医生团队工作制度提供参考。同时通过 TOPSIS 方法对家庭医生团队的服务项目进行评价，以期了解家庭医生团队中需降低执行人力成本或可用于外包的服务项目，为优化家庭医生的服务质量，提高工作效率提供指导。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1对象与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以徐汇区斜土街道社区卫生服务中心的家庭医生团队作为研究对象。于2021年7月-11月期间，收集家庭医生团队2019年8月和9月以及2021年8月和9月所开展的业务项目、项目发生的数量、标化工作量相关参数（包括耗时、技术难度和风险程度等）以及家庭医生团队的人员构成和职责分工情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1数据收集方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据的收集分两个阶段进行：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阶段一：收集家庭医生团队的服务项目、项目标化工作量的相关参数、人员构成和职责分工",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于2021年7月至8月，首先，由中心信息科从his 系统导出家庭医生团队正在开展的医疗收费项目作为家庭医生团队基本医疗服务项目的参考，公共卫生的服务项目则以《徐汇区社区卫生服务中心基本项目标准化工作量指标体系(2020版)中的基本公共卫生、公卫项目和家庭医生健康管理服务为参考；其次，根据其他社区卫生服务中心的调研结果对前一步收集的家庭医生团队服务项目的标化工作量参数进行赋值，制作服务项目和标化工作量参数审核工具（包括服务项目、项目单位、项目内涵、耗时、技术难度和风险程度等）；然后，通过访谈法对斜土街道社区卫生服务中心各家庭医生团队长进行一对一访谈，了解各家庭医生团队的人员构成与职责分工情况，讲解服务项目和标化工作量审核的原则，根据上一步制作的服务项目和标化工作量参数审核工具，交由家庭医生团队长负责审核，根据家庭医生团队工作实际对基本医疗和公共卫生服务项目进行新增或删减，同时对标化工作量相关参数进行修订或对未赋值的参数进行赋值；最后，对审核后的服务项目和标化值参数进行质量控制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阶段二：收集家庭医生团队的服务项目的发生数量",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于2021年9月至11月，由中心信息科从his 系统导出家庭医生团队医疗收费项目的发生数量，而部公共卫生服务项目的发生数量均由家庭医生团队长负责统计。然后，对收集的家庭医生团队服务项目的发生数量进行审核。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2家庭医生团队服务项目梳理",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从服务项目性质的角度，将家庭医生团队服务分为基本医疗服务和公共卫生服务（包含基本公共卫生和重大公共卫生项目）。其中基本医疗服务项目为斜土街道社区卫生服务中心家庭医生团队所开展的医疗收费项目，公共卫生项目，公共卫生项目由家庭医生团队长在《徐汇区社区卫生服务中心基本项目标准化工作量指标体系(2020 版)》中的基本公共卫生、公卫项目和家庭医生健康管理服务的基础上根据家庭医生团队的工作实际对服务项目进行增删。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据医防融合的思路，将家庭医生团队服务分为社区动员、社区筛查、社区诊断、社区干预和社区随访。其中社区动员指以广大社区居民为服务对象，通过宣传、健康教育、咨询等方式加强社区居民对医疗保健知识的认知和理解；社区筛查是以社区高危人群为服务对象，开展的体检、调查、筛查等服务项目；社区诊断包括各种临床诊断以及健康评估等服务项目；社区干预包括各种临床治疗项目以及针对特定目标人群（如糖尿病患者、精神病人等）所开展的健康干预项目；社区随访是指针对目标区域或特定目标人群定期开展的随访、巡查等工作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3家庭医生团队工作总时间投入计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "家庭医生团队工作总时间根据家庭医生所开展服务项目的总耗时和项目发生数量计算。家庭医生团队工作的总时间投入 $\\scriptstyle \\cdot = \\sum _ { n } ^ { i } ( T _ { i } \\times P _ { i } )$ ,其中i指家庭医生所开展的服务项目， $T _ { i }$ 指服务项目的人力投入时间， $P _ { i }$ 指服务项目的发生数量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4家庭医生团队工作标化工作总量计算",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "某服务项目标化工作量的计算根据该服务项目的技术劳务标化价值与全院基准项目的技术劳务标化价值的比值得出。其中，基准项目指1次5分钟的全科门急诊诊疗费。某服务项目的技术劳务标化价值！ $( Y _ { i } )$ 的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$Y _ { i } { = } X _ { i } { \\times } T _ { i } { \\times }$ （ $1 + a \\times$ 项目技术难度 $\\times$ 项目风险程度 $/ \\mathrm { m i n }$ （技术难度 $\\vdots \\times$ 风险程度））",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $X _ { i }$ 指单位时间各类工种职称下的目标薪酬（即单位时间人力价值）； $T _ { i }$ 指该服务项目的耗时； $\\alpha$ 指技术难度和技术风险的权重，基于上海多家社区卫生服务中心标化工作量测量实践， $\\scriptstyle a = 0 . 0 6$ ； $\\mathrm { m i n }$ （技术难度 $\\times$ 风险程度）是技术难度 $\\times$ 风险程度的最小值，约为 $0 . 2 1 ^ { [ 5 - 7 , 1 0 ] }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则某服务项目的标化工作量 ${ = } Y _ { i } / Y _ { 0 }$ ， $Y _ { 0 }$ 指基准项目的技术劳务标化价值。家庭医生团队工作的标化工作总量${ \\bf \\mathrm { = } } \\sum _ { \\bf n } ^ { \\mathrm { i } } ( Y _ { i } \\times P _ { i } / Y _ { 0 } )$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 TOPSIS 法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TOPSIS 法是一种面向多目标决策的综合评价方法，通过归一化后的原始数据，采用余弦法找出多个目标中的最优解和最劣解，然后计算各个评价对象与最优解和最劣解之间的距离，获得各评价对象与理想解的接近程度，以此作为评价对象优劣排序的依据[11-12]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "评价过程包括指标同向化和归一化处理、熵值法设置指标权重和计算评价结果，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）指标同向化和归一化处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TOPSIS 法使用距离尺度来衡量评价对象的差距，为避免尺度混乱，需要对指标进行同向化处理。本研究中四个指标的指向性为总耗时长、技术难度和风险程度低、项目发生数量多，因此本研究对技术难度和风险程度进行正向化处理。正向化处理后，采用公式Zi = $\\begin{array} { r } { { \\bf \\nabla } [ Z _ { i j } = \\frac { x _ { i j } } { \\sqrt { \\sum _ { i = 1 } ^ { n } ( x _ { i j } ) ^ { 2 } } } ] } \\end{array}$ 对数据进行平方和归一化处理获得归一化矩阵Z，其中 $x _ { i j }$ 指各服务",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目（j）在各指标（i）下的数值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）熵值法设置指标权重",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "熵值法根据各指标所提供信息的大小确定指标的权重。指标的离散程度越大，不确定性就越大，熵值就越小，权重就会越大。权重越大，表示该指标对综合评价的影响越大[11-12]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）计算评价结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，将数据矩阵Z中每个评价指标的最大值作为最优解 $Z ^ { + }$ ，每个评价指标的最小值作为最劣解 $Z$ 。其次，计算各评价指标与最优解、最劣解之间的欧式距离。然后，计算各评价对象与最优解的接近程度 $C _ { i }$ 。最后，根据 $\\boldsymbol { C } i$ 值大小对评价对象进行排序，给出评价结果， $\\boldsymbol { C } i$ 越接近于1，表明评价对象越接近最优解，越接近于0，表明评价对像越接近最劣解[11-12]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数据统计与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 Excel2016 和 SPSS 25.0 对数据进行处理和分析，主要统计分析方法包括一般描述性统计、Pearson 相关分析和单因素方差分析，以 $P { < } 0 . 0 5$ 为差异有统计学意义。采用TOPSIS法对家庭医生的服务项目进行综合评价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1家庭医生团队的构成和职责分工 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "斜土街道社区卫生服务中心共有4个家庭医生团队，每个家庭医生团队均由家庭医生（3-5名，其中包含一名团队长）和家庭医生助理（2-4名，由机构护士担任）构成。家庭医生主要负责家庭医生签约、签约居民健康管理、日常诊疗、中西医适宜技术、家庭病床、慢性病管理、居民健康档案管理、健康宣教、长护险评估、传染病防控、突发公共卫生事件应急处置、科研带教、提供双向转诊、专家预约和专家会诊服务等。家庭医生助理主要负责健康宣教、协助家庭医生做好签约居民健康管理以及慢性病管理、协助家庭医生做好居民健康档案管理、包括护理在内的各项诊疗工作、健康促进活动、传染病防控、突发公共卫生事件应急处置、科研带教和统计报表等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基本医疗和公共卫生运营思路下家庭医生团队工作现状",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1家庭医生团队基本医疗和公共卫生服务项目梳理结果",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "梳理出家庭医生团队服务项目共194项，其中基本医疗服务项目包括诊疗项目、中医理疗项目、护理项目等，共99 项。家庭医生团队所开展的公共卫生项目涉及免疫接种/免疫规划、急性传染病防治、艾滋病/性病防治、结核病防治、糖尿病防治、肿瘤防治、心脑血管病防治、精神疾病管理、老年人健康管理、儿童健康管理、眼保健与防盲治盲、居民电子健康档案管理、学校、幼托机构卫生、生命统计、健康教育与健康促进、麻风病、药具管理、伤害防制、健康危害因素监测与控制、脑卒中高危人群筛查与干预项目、新冠防控、重点人群健康保健、卫生监督协管、重大公共卫生项目、慢病健康管理、学科医联体项目、家庭医生健康管理和家庭医生其他服务，共95项。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2家庭医生团队基本医疗和公共卫生服务开展现状",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2019年，家庭医生团队公共卫生的标化工作总量是基本医疗的0.7倍；2021年，家庭医生团队公共卫生的标化工作总量约是基本医疗的1.4倍。家庭医生团队公共卫生和基本医疗标化工作总量对比如图1所示。Pearson 相关分析显示，家庭医生团队公共卫生和基本医疗标化工作量在4个时间点的变化并没有显著关联（ $\\scriptstyle . R = - 0 . 7 2$ ， $\\scriptstyle P = 0 . 2 7$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "家庭医生团队工作的标化工作总量乘以单价代表了家庭医生应当分配的工作量绩效，因此，通过标化工作总量/总时间投入则可以反映家庭医生团队工作单位时间的人力成本。结果显示，家庭医生团队在基本医疗上的单位时间人力成本明显大于公共卫生。2021年家庭医生团队公共卫生单位时间人力成本与2019 年持平，而基本医疗呈下降趋势，如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b01ed9314e0da1728482b228381a48dc96d017a54f44bb5a9f61df538e7f018c.jpg",
+        "img_caption": [
+            "图1家庭医生团队公共卫生和基本医疗标化工作总量对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure1Comparison ofthe total standardization work offamily doctor teams in public health and basic medical care ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/23ccf308bcdbff8e6093380d1f15382c5165fe43c0448cb78b60ec15d4d7d7bb.jpg",
+        "img_caption": [
+            "图2家庭医生团队公共卫生和基本医疗标化工作总量/总时间对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 2Comparison of the totalamount/total timeofthe standardization work of public healthand basic medical care of the family doctor team ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3医防融合思路下的家庭医生团队工作开展现状",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1家庭医生团队各工作环节服务项目梳理结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据医防融合的思路，将家庭医生团队服务项目按工作环节切分，社区动员包括健康教育、各类便民服务和疾病防治宣传等；社区筛查包括大肠癌、脑卒中、糖尿病高危人群、艾滋病、肺癌、肺结核、精神疾病、低视力筛查等；社区诊断和社区干预包括基本医疗项目以及慢性病健康管理、精神疾病管理、儿童健康管理和老年人健康管理等条线中的部分项目；社区随访包括慢性疾病、传染病、艾滋病/性病、精神疾病等疾病的随访以及卫生监督、生命统计和医养结合等其他条线中的部分项目和疫情相关工作。家庭医生团队服务项目划分如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c6d78d6efdeb353dede20cf803714a450fee32f69080fb7bc6b07fd9d342f95.jpg",
+        "img_caption": [
+            "图3家庭医生团队服务项目按工作环节划分"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 family doctor team service items divided by work link ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2家庭医生团队各工作环节服务开展现状",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结果显示，家庭医生团队在各环节的标化工作总量从大到小依次是社区诊断、社区随访、社区干预、社区动员、社区筛查。2021年社区诊断和社区干预的标化工作总量同比比 2019年均有所上升，如图4所示。标化工作量/总时间比较的结果显示，社区诊断的标化工作量/总时间最高，其次是社区干预，社区动员、社区筛查和社区随访的标化工作量/总时间相当。2021年社区诊断和社区干预的标化工作量/总时间较2019年同比均有所下降，而社区动员、社区筛查和社区随访并没有明显的变化，如图5所示。此外，方差分析结果显示家庭医生团队各工作环节的技术难度、风险程度和单位时间人力价值（初级全科医师为1，初级护士为0.7）存在显著差异（ $\\scriptstyle P < 0 . 0 0 1 { \\mathrm { ~ , ~ } }$ ），如表1所示。事后比较显示社区动员、社区随访的技术难度、风险程度和单位时间人力价值均显著小于社区干预和社区诊断 $( P { < } 0 . 0 5 )$ ，社区筛查的技术难度、风险程度和单位时间人力价值均显著小于社区干预（ $\\cdot P { < } 0 . 0 5 \\$ ），但与社区诊断没有显著性差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/96f22281a358cc5e36ee53655d06c9e508ce88be81bda75a9d2d690728f6a967.jpg",
+        "img_caption": [
+            "图4家庭医生团队各环节的标化工作总量对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 Comparison of the total amount of standardized work in each link of family doctor teams ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4c024049cfa40858da9f6d78ff0a0b31fa5e22ec74c94a1bf66735313d0c8f9.jpg",
+        "img_caption": [
+            "图5家庭医生团队各环节标化工作总量/总时间对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 Comparison of total standardized work/total time in each link of family doctor teams表1各工作环节的技术难度、风险程度和单位时间人力价值（平均值 $\\pm$ 标准差）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/da46c687f775226bbb27ef082b8e84d10737306d6bd7d6bce18a935a4415fd5c.jpg",
+        "table_caption": [
+            "e 1 Technical diffculty, risk level and labor value per unit time of each work link (mean $\\pm$ standard deviation) "
+        ],
+        "table_footnote": [
+            "2.4需考虑外包或降低执行人力成本的项目维度分析 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>社区动员</td><td>社区筛查</td><td>社区诊断</td><td>社区干预</td><td>社区随访</td><td>F</td><td>P</td></tr><tr><td>技术难度</td><td>0.46±0.10</td><td>0.60±0.21</td><td>0.72±0.37</td><td>0.89±0.35</td><td>0.47±0.07</td><td>19.19</td><td><0.001</td></tr><tr><td>风险程度</td><td>0.54±0.11</td><td>0.68±0.20</td><td>0.77±0.37</td><td>0.87±0.23</td><td>0.60±0.11</td><td>14.94</td><td><0.001</td></tr><tr><td>单位时间相对人力价值</td><td>0.74±0.10</td><td>0.73±0.09</td><td>0.82±0.15</td><td>0.84±0.14</td><td>0.71±0.05</td><td>11.17</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "近年由于疫情防控及各类公卫项目的增加，家庭医生团队的工作量陡然上升，在这种情况下，虽然家庭医生服务范围和服务内涵在不断丰富，但是由于人力资源匮乏、信息化水平低等因素，家庭医生的大部分时间和精力被分散在繁杂琐碎的事务中，这一方面影响了家庭医生服务提供的效率和质量，一方面也阻碍了家庭医生自身的专业发展。因此，为了解家庭医生团队工作中哪些服务项目所能创造的价值不高且又耗费很多精力，可以通过外包或降低执行人力成本的方式优化家庭医生团队的人力资源配置，使家庭医生有更多的时间专注于提高服务水平和服务质量，本研究通过TOPSIS 法结合熵值法以总耗时、项目发生数量、技术难度和风险程度（取2019年、2021年8月和9月各项目发生数量的总和）作为评价指标对家庭医生团队的服务项目进行综合评价。项目的总耗时越长、发生数量越多，技术难度和风险程度越低，说明服务项目对家庭医生来说越为繁琐，时间投入产出越小，应由更低人力成本的人来完成，即对家庭医生的价值越小。由于健康问题的诊断和评估、干预方案的制定和实行属于医生的本职和专长工作，因此，社区诊断和社区干预应由家庭医生来胜任，不包含在评价范围内。熵值法设置指标权重结果和 TOPSIS评价结果如下。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.1熵值法设置指标权重结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "四个指标技术难度、风险程度、总耗时和项目发生数量的权重分别为0.0151、0.0265、0.2806 和0.6778，其中项目发生数量的权重最大，其次是总耗时。如表2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/79990d765d71805b800c8fbca08dad75ef03dad42693a49be869dc2f1afa8372.jpg",
+        "table_caption": [
+            "表2评价指标的权重 (熵值法）",
+            "Table 2 Weights of evaluation indicators (entropy method) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标名称</td><td>信息熵值</td><td>信息效用值</td><td>权重</td></tr><tr><td>技术难度</td><td>0.9893</td><td>0.0107</td><td>0.0151</td></tr><tr><td>风险程度</td><td>0.9812</td><td>0.0188</td><td>0.0265</td></tr><tr><td>总耗时</td><td>0.8011</td><td>0.1989</td><td>0.2806</td></tr><tr><td>项目发生数量</td><td>0.5196</td><td>0.4804</td><td>0.6778</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.2TOPSIS评价结果 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "社区动员（11个）、社区筛查（14个）和社区随访（37）共包含62个项目。相对接近度越接近于1，说明该服务项目对家庭医生团队来说价值越不高且耗费精力也越多。社区动员、社区筛查和社区随访在家庭医生团队所有工作环节的总耗时占比约为 $4 9 . 0 \\%$ 。计算单个项目总耗时在社区动员、社区筛查和社区随访所有62个项目的总耗时中的占比，结果发现前13个项目的总耗时占比约为 $8 3 . 0 \\%$ 。其中社区随访共有9个，占社区随访项目总数的 $24 . 3 \\%$ 总耗时占比合计约占 $80 . 0 \\%$ ；社区筛查1个，占社区筛查项目总数的 $7 . 1 \\%$ ，总耗时占比为 $1 . 6 \\%$ ；社区动员3个，占社区动员项目总数的 $2 7 . 3 \\%$ ，总耗时占比合计 $1 . 4 \\%$ 。如表 2-3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d882793767ed87d4299c613cf35b70173c4c81fba17bb3395e0d897ef94e9aa.jpg",
+        "table_caption": [
+            "表3TOPSIS评价结果（前13项）",
+            "Table 3 TOPSIS evaluation results (the first 13 items) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目名称</td><td>工作环节</td><td>正理想解距 离D</td><td>负理想解距离 D-</td><td>相对接近度 C</td><td>排序结 果</td><td>总耗时占 比（%）</td></tr><tr><td>更新慢病患者健康档案</td><td>社区随访</td><td>0.105</td><td>0.490</td><td>0.823</td><td>1</td><td>9.0</td></tr><tr><td>高血压患者随访管理</td><td>社区随访</td><td>0.124</td><td>0.423</td><td>0.774</td><td>2</td><td>15.5</td></tr><tr><td>签约居民信息维护</td><td>社区随访</td><td>0.378</td><td>0.126</td><td>0.249</td><td>3</td><td>6.9</td></tr><tr><td>糖尿病患者随访管理</td><td>社区随访</td><td>0.397</td><td>0.107</td><td>0.212</td><td>4</td><td>3.9</td></tr><tr><td>娱乐场所干预人群健康体检筛 查</td><td>社区筛查</td><td>0.489</td><td>0.106</td><td>0.178</td><td>5</td><td>1.6</td></tr><tr><td>养老机构医养结合服务</td><td>社区随访</td><td>0.490</td><td>0.106</td><td>0.177</td><td>6</td><td>0.1</td></tr><tr><td>密切接触者医学观察、健康监 护</td><td>社区随访</td><td>0.489</td><td>0.103</td><td>0.174</td><td>7</td><td>1.2</td></tr><tr><td>各类便民服务</td><td>社区动员</td><td>0.490</td><td>0.103</td><td>0.174</td><td>8</td><td>0.3</td></tr><tr><td>密切接触者特殊情况上门处置</td><td>社区随访</td><td>0.490</td><td>0.103</td><td>0.174</td><td>9</td><td>0.1</td></tr><tr><td>门诊药物发放管理</td><td>社区随访</td><td>0.477</td><td>0.070</td><td>0.128</td><td>10</td><td>16.1</td></tr><tr><td>社区健康教育</td><td>社区动员</td><td>0.491</td><td>0.069</td><td>0.123</td><td>11</td><td>0.6</td></tr><tr><td>65 岁以上老人体检（身高体 重）</td><td>社区动员</td><td>0.445</td><td>0.058</td><td>0.116</td><td>12</td><td>0.5</td></tr><tr><td>疫情相关工作(居家）</td><td>社区随访</td><td>0.451</td><td>0.059</td><td>0.115</td><td>13</td><td>27.3</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1家庭医生团队分工现状 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究结果显示，家庭医生团队内部分工并不明确，家庭医生和家庭医生助理在工作内容上存在多数重叠，家庭医生助理的主要职责是提供日常辅助工作。应当对家庭医生和家庭医生助理的岗位职责有更清晰的界定，而家庭医生助理也可以进一步划分为专业性助理和事务性助理，分别负责临床方面的专业性工作和行政管理方面的事务性工作。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2家庭医生团队基本医疗和公共卫生服务开展现状",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "社区卫生机构承担着居民的基本医疗和基本公共卫生，而家庭医生团队作为其核心载体，主要为居民提供“防、治、管”一体的健康管理服务[13-14]。因此，在家庭医生团队工作中，基本医疗和公共卫生应当有效结合，相互促进。本研究结果显示家庭医生团队基本医疗与公共卫生业务发展并没有显著关联，公共卫生业务工作量的增加并没有带动基本医疗业务工作量的增长。这说明，家庭医生团队在基本医疗和公共卫生业务上缺乏有效的联动机制。另一方面，根据标化工作总量/总时间的比较结果来看，2021年家庭医生团队在基本医疗上的单位时间人力成本与 2019 年同比下降，这可能与基本医疗标化工作总量的下降有关，而 2021年公共卫生的标化工作总量虽然与 2019 年同比有所上升，但其单位时间人力成本并没有明显变化意味着社区卫生机构所需支付的成本将随公共卫生标化工作总量的上升而增加。这说明家庭医生在基本医疗和公共卫生的资源配置上存在问题，家庭医生团队在公共卫生上投入了过多时间和精力，在一定程度上也影响了自身基本医疗业务的发展。同时也反映了家庭医生团队在实际工作中出现公共卫生工作只关注到预防，基本医疗工作只关注到医疗的现象，预防和医疗没有达到有效融合[15]。因此，家庭医生团队应当对自身的工作有更清晰的认识，并将资源进行合理有效地配置，把时间和精力放在更有价值的工作上，同时也应探索医防融合一体化的路径，主动利用公共卫生服务为基本医疗服务创造价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3家庭医生团队工作医防融合现状 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究结果显示，在家庭医生团队工作的五个环节中，社区诊断和社区随访的标化工作总量最大，说明家庭医生团队工作量绩效的主要贡献来源于社区诊断和社区随访。社区干预的标化工作量相对较少，这表明现阶段家庭医生团队工作还并没有开展实质性的社区干预服务。一方面可能是由于家庭医生专科服务能力不足、设备设施等不够完善，因此在服务范围和服务水平上比较受限；另一方面，家庭医生团队工作中资源配置不合理，在社区随访投入过多的时间和精力，没有多余的精力开展社区干预相应的业务。因此，应当加强家庭医生社区干预相关专业技能的培训，并增加相关的设备设施，同时也要优化人力资源配置，将繁琐的工作从家庭医生中剥离出来。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过家庭医生团队各环节工作的标化工作总量/总时间（单位时间人力成本）来看，社区诊断和社区干预的单位时间人力成本较其他环节要高。与 2019 年同比，2021年社区诊断和社区干预的单位时间人力成本均有所下降，而",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2021年社区动员、社区随访和社区筛查的单位时间人力成本并没有明显变化，并且与社区诊断和社区干预的单位时间人力成本想接近。此外，根据各环节服务项目的技术难度、风险程度和单位时间人力价值可以看出，尽管社区动员、社区筛查和社区随访的技术难度、风险程度和单位时间人力价值均较社区诊断和社区干预要低，但单位时间人力价值与社区诊断和社区干预差距并不大。这些结果说明家庭医生团队工作的人力资源配置存在高能低用的情况，在社区动员、社区筛查和社区随访工作环节中，家庭医生承担了较多难度和风险不高的工作，这些工作一方面耗费了家庭医生较多的时间和精力，另一方面其时间投入产出相对较差，这些工作完全可以交给更低人力成本的人来负责，而家庭医生则应将更多的时间专注于提升其服务能力和服务质量，进一步推进签约服务。因此，应当考虑降低社区动员、社区筛查和社区随访的执行人力成本或外包给第三方。其中社区动员主要为社区宣传、巡防等工作，不需要太多医疗背景相关知识，因此可以聘用社区志愿者或社工等承担此部分工作，他们不仅对社区更加熟悉，与居民沟通更为有效，另外在家庭医生团队其他工作环节也可以承担居民联络人的身份；社区筛查和社区随访多涉及医疗背景相关的知识，因此，可以由机构内部的护士或公卫医师兼职，或利用现代信息化工具（如智能语音随访）节省人力资源[16-17]，也可与第三方机构合作，由第三方提供有医疗背景（比如护理、康复、中医药等）的人力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4家庭医生团队可考虑外包或降低执行人力成本的服务项目",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过 TOPSIS 对社区动员、社区筛查和社区随访服务项目的综合评价，可知家庭医生团队花费了约 $40 . 7 \\%$ 0 $( 4 9 . 0 \\% \\times 8 3 . 0 \\%$ ）的时间在 $6 . 7 \\%$ （ $1 3 / 1 9 4 \\times 1 0 0 \\%$ ）的服务项目上，并且TOPSIS排序结果显示这些服务项目在社区动员、社区筛查和社区随访所有服务项目中的排序最为靠前，即对家庭医生来说价值较小，时间投入产出不高。这些项目包括更新慢病患者健康档案、高血压患者随访管理、签约居民信息维护、糖尿病患者随访管理、娱乐场所干预人群健康体检筛查、养老机构医养结合服务、密切接触者医学观察、健康监护、各类便民服务、密切接触者特殊情况上门处置、门诊药物发放管理、社区健康教育、65岁以上老人体检（身高体重）和疫情相关工作（居家）。其中更新慢病患者健康档案、高血压患者随访管理、签约居民信息维护和糖尿病患者随访管理在家庭医生团队工作中最应考虑外包和降低执行人力成本。居民的健康档案的管理和更新维护一般工作量比较大，而家庭医生团队除了要负责居民健康档案的管理，还要负责医疗和预防保健服务，存在人手不足的情况，另一方面，家庭医生团队对档案管理的专业素养不高，并没有对居民健康档案进行充分有效的利用[18]。因此，可考虑将居民健康档案管理外包给专业的档案管理人员。另一方面，高血压和糖尿病患者的随访目前主要是通过门诊随访、上门随访和电话随访等方式对患者进行症状问询、体征测量、生活方式调查和用药情况调查。就随访内容而言，这些工作是完全可以由机构内具有相关背景的护士来胜任的。此外，由于高血压和糖尿病患者在社区居民中患病率较高，人口基数较大，而家庭医生团队又存在人手不足的情况，仅靠家庭医生团队和传统的随访模式往往无法满足居民对于随访效率和随访质量的要求。因此，家庭医生团队应当考虑利用现代化信息技术或外包等手段提升高血压和糖尿病等慢性疾病的随访效率和质量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：颜骅、方军波、王海琴、郭佩、徐佳玲负责文章的构思与设计；沈福来、王形松负责文章的可行性分析；颜骅、方军波、王海琴、郭佩、徐佳巧负责资料收集与整理；沈福来、王形松负责数据的处理与分析；颜骅、方军波、王海琴、郭佩、徐佳瑪、沈福来、王形松负责文章的撰写；沈福来、王形松负责论文的修订；颜骅、方军波、王海琴、郭佩、徐佳巧、沈福来负责文章的质量控制和审校。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文无利益冲突。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]应晓华．上海家庭医生服务市场发展现状、问题及对策[J]．科学发展,2020,145(12):101-112.  \n[2]皇甫慧慧,李红艳．中国家庭医生制度研究进展[J].中国老年学杂志,2019,39(7):1771-1776.DOI:10.3969/j issn.1005-9202.2019.07. 079  \n[3]邵高蔚,袁颖,杨斯曼,等．家庭医生团队建设现状与问题研究[J]．中国农村卫生事业管理,2019,39(4):241-245.  \n[4]杨郗，陈利云，李娟萍，等．基于标化工作量的社区医养结合服务项目成本测算研究[J].中国全科医学，2021,24(1):103-108.DOI: 10.12114/j.issn.1007-9572.2020.00.225YANG X，CHENLY，LIJP，et al. Cost accounting of community integrated health and socialcare service based onstandardized workload[J]．Chinese General Practice，2021，24（1）：103-108．DOI：10.12114/jissn.1007-9572.2020.00.225  \n[5] 林吉祥，顾静华，汪天英，等．标化工作量在社区卫生服务机构全面绩效管理中的实践案例研究[J]．中国全科医学，2021， 24(25): 3210-3220.DOI: 10.12114/j.issn.1007-9572.2021.00.183LINJX，GUJH，WANGTY，etal.Efectofstandardized workload used incomprehensive performance managementin community health institutions:a practice-based analysis [J].Chinese GeneralPractice，2021，24(25):3210-3220.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DOI: 10.12114/j.issn.1007-9572.2021.00.183.[6] 林吉祥,顾静华,汪天英,等．标化工作量在基层医疗卫生机构管理中的应用与价值研究[J].中国全科医学，2021,24(25): 3197-3204. DOI: 10.12114/j.issn.1007-9572.2021.00.184LIN JX，GUJH，WANG TY， et al. Application of standardized workload in primary healthcare management [J].Chinese General Practice，2021，24（25）：3197-3204.DOI: 10.12114/j.issn.1007-9572.2021.00.184[7] 姜瑛．医疗改革背景下基层医疗卫生机构如何进行成本核算管理[J].经贸实践,2016(1):60..[8]李婕,朱先,曾志嵘．家庭医生签约服务标化工作量测算及应用研究_李婕[J].中国全科医学,2021,24(16):2022-2027,2033. DOI: 10.12114/j.issn.1007-9572.2021.00.199LI J，ZHU X， ZENG ZR.Measurement and application of the standardized workload of contracted family doctorservices[J].Chinese General Practice,2021,24(16):2022-2027,2033.DOI: 10.12114/j.issn.1007-9572.2021.00.199[9]陈史蓉,刘华．标化工作量模式下家庭医生团队服务的效果评价[J]．中国初级卫生保健,2018,32(7):19-21.DOI:10.3969/j.issn.1001-568X.2018.07.0007[10]林吉祥，顾静华，汪天英，等．社区卫生服务项目标化工作量技术难度和风险程度的精准赋值方法研究[J].中国全科医学， 2021， 24(25): 3205-3209.DOI: 10.12114/j.issn.1007-9572.2021.00.220LINJX，GUJH，WANGTY，etal.Methods for accurately assigning the value of technical difficulty and risk degreeofstandardized workload ofcommunity health services [J].Chinese GeneralPractice，2021，24（25）：3205-3209.DOI: 10.12114/j.issn.1007-9572.2021.00.220[11]顾思雨,梁园园,章凯燕,等.TOPSIS 法和秩和比法模糊联合在基本公共卫生服务质量综合评价中的应用研究[J].中国全科医学,2022,25(4): 432-437.DOI: 10.12114/j.issn.1007-9572.2021.00.320GU SY，LIANGYY， ZHANGKY，et al.Fuzzy combination ofTOPSIS and RSR for comprehensively assessing thequality of national essential public health services [J].Chinese General Practice，2022，25（4）:432-437.DOI:10.12114/j.issn.1007-9572.2021.00.320[12]常海月,湛欢,周良荣．基于TOPSIS 法的湖南省基层医疗机构医疗服务能力评价研究[J]．中国初级卫生保健,2021,35(9):10-12.DO1: 10.3969/j.issn.1001-568X.2021.09.0004[13]王显君,唐智友，杨文梅,等．基层医疗卫生机构医防\"五融合\"健康管理服务模式研究[J].中国全科医学，2020,23(31): 3924-3929.DOI: 10.12114/j.issn.1007-9572.2020.00.454WANGXJ，TANGZY，YANG WM，etal. Deliveryof essential medical services with national essential public healthservices via five integrated measures in primarycare setings:a practical study [J].Chinese General Practice， 2020,23（31） : 3924-3929.DOI: 10.12114/j.issn.1007-9572.2020.00.454[14]任晓春,牛亚泽,孟令光．论公共卫生服务与基本医疗服务的协同之路[J].医学与哲学,2021,42(19):65-69.DOI:10.12014/j.issn.1002-0772.2021.19.14[15]李俊,江雁,鲍玥葵,等．家庭医生团队医防融合一体化模式实施效果分析[J].中国公共卫生管理,2021,37(5):574-578.DOI: 10.19568/j.cnki.23-1318.2021.05.0003[16]董雄伟．基于信息化的家庭医生团队预约随访模式管理高血压的效果评价[J]．上海医药,2019,40(12):33-35.[17]王思源,周峰,高俊岭,等．人工智能电话随访在高血压随访管理中的应用[J].中国慢性病预防与控制,2021,29(11):817-820. DOI:10.16386/j.cjpccd.issn.1004-6194.2021.11.004[18]丁梅．社区居民健康档案管理的优化路径探微[J].兰台内外,2021,343(34):4-6.",
+        "page_idx": 8
+    }
+]

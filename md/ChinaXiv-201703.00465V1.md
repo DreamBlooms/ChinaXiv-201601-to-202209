@@ -1,0 +1,147 @@
+# 集输立管气液流量变化暂态过程实验研究
+
+邹遂丰　郭烈锦　刘威志　姚 添　匡世才(西安交通大学动力工程多相流国家重点实验室，西安710049)
+
+摘要在大型集输立管多相流实验系统上进行了单相或两相流量变化实验研究，比较并分析了集输立管系统与简单水平管压力过升、过降现象的异同，研究了压力、压差的均值或幅值的暂态变化以及压力、压差达到稳态的顺次。结果表明集输立管系统流量变化的暂态响应受下倾管－立管结构与入口流量改变的共同影响，在不同流速范围内两种影响因素呈不同的主次关系。实验结果还表明不同压差信号的响应可用于立管不稳定流型或不规则流型形成的预报。
+
+关键词集输立管系统，流量变化，暂态响应，局部气液比，有害流型预报中图分类号：O359 文献标识码：A 文章编号:0253-231X(2017)03-0587-08
+
+# Experimental Study on Transient Process of Gas and Liquid Flow Rates ir Pipeline-riser System
+
+ZOU Sui-FengGUO Lie-JinLIU Wei-ZhiYAO TianKUANG Shi-Cai (State KeyLaboratoryof MultiphaseFlowinPower Engineering,Xi'anJiaotong University，Xi'an710049,China)
+
+Abstract Response of flow condition to variation of gas and/or liquid flow rates is experimentally studied on a long pipeline-riser system. Pressure overshoot and undershoot are analyzed and compared with those in a simple horizontal pipe. Transient characteristics of both pressure and diferential pressure are investigated,including mean and amplitude. Chronological order of moments when the pressure and differential pressures reach steady state is ranked and analyzed. Results show that transient response to flow rate variations is affected by not only fow rate variation but also the bend at the riser bottom,and which is the primary impact depends on fow velocity.Results also reveal the feasibility of forecasting unstable regime and irregular regime before their occurrence in the riser.
+
+Key wordspipeline-riser; flow rate variation; transient response; local gas liquid ratio; hazardous regime forecast
+
+# 0引言
+
+集输立管系统是海洋油气生产中将海底原油及伴生气举升到海面生产平台的重要设备。在一定气液流速范围内，立管内将出现以长液塞为特征、伴随剧烈压力波动的的不稳定流型，特别是气液周期性交替流出的严重段塞流，这种流型将带来产量剧烈波动、管线振动、腐蚀加剧等危害，因此需要对此类流型的产生进行及时预报，以在其出现之前或至少在其造成危害之前实现防控，保障管线及设备的安全。
+
+引起管线内流型变化的原因非常广泛，如流量、操作压力、工质组分、沿程设备工作参数等变化，以及暂态操作如启停、清管等。在气液两相或多相流流型图上，最常见的自变量是各相流速，流型转变判据模型一般也基于流速；但总流量及各相流速的不分离在线测量、特别是在间歇流态下的测量，技术上仍未得到很好解决；因此，管线系统内流速变化对流型转变的影响无法像其他已知或可测变化一样可直接通过数学模型迅速计算和预报。然而，流型转变过程伴随压力、相含率等参数的变化；对这些参数的响应进行研究，将促进海洋管线流动监测中流型转变及有害流型形成的预报技术的发展。
+
+对流量瞬变过程的实验研究主要集中在水平管段塞流或弹状流流型。在这些实验条件下，气相流量增加时出现压力过升现象、气相流量降低时出现压力过降现象，而液相流量变化时压力变化平稳渐进[1-3]。Taitel等[4]与王鑫等[5]建立了相应的暂态模型，较好地模拟出了这些现象；其中过升和过降现象分别来源于暂态的长液塞与分层流。江延明等[6]研究了分层流型的流量瞬态变化，并指出分层流的压力瞬态变化过程取决于气体的惯性和可压缩性；段塞流的压力瞬态变化过程取决于液塞的惯性和液膜区气体的可压缩性；进而计算了压力波方面的特性。陈振瑜等[7]计算了暂态过程压差的概率密度(PDF）与功率谱密度(PSD)，前者的峰值实质上体现的是波动均值升降的几个阶段；而作者认为，在波动未达平稳的情况下计算PSD应当以适当方式滤除低频信息，否则由于均值变化在极低频率上产生的大尖峰易掩盖主频分布及峰值的变化情况。
+
+对于集输立管系统的暂态过程，喻西崇等[8]采用OLGA软件模拟了总流量瞬变对整体流型转变的影响；并定性对比了不同出口压力、阀门开度、组分下，总流量瞬变时立管顶部压力、底部持液率与底部流型变化曲线。喻西崇等[9]还基于灰色关联分析提出了水平管气相或液相流量瞬变后稳定平衡时间的预测模型。赵越超等[10]在总长 $1 2 . 6 5 \mathrm { m }$ 、高 $2 . 2 \mathrm { m }$ 的小型集输立管系统上进行了气液流量瞬变实验，但并未描述响应暂态过程。
+
+然而，以上研究主要用于集输管线设计或校核计算，或者用于建立及改进段塞跟踪模型等瞬态多相流模型；研究大多针对水平管段塞流，对复杂管线流量变化的研究、尤其是实验研究，仍较为缺乏。本文对集输立管系统入口流量 (即表观流速)变化暂态过程的沿程流动响应规律开展了较为系统的实验研究，比较并解释了暂态过程与简单水平管内流量变化响应的异同、不同位置处压力与压差响应的先后关系；分析不稳定流型形成的原因，初步研究了不稳定流型形成的预报可行性。
+
+# 1实验系统与实验方法
+
+实验环路如图1所示，其内径为 $7 5 \mathrm { m m }$ 。空气与水分别经质量流量计计量后经混合器进入长 $3 8 0 \mathrm { ~ m ~ }$ 的水平环路，再经过长 $2 5 \mathrm { m }$ 的 $5 ^ { \circ }$ 下倾管进入高约21m的垂直立管。由于建筑原因，立管顶部至气液分离器间有一段高约 $1 8 \mathrm { m }$ 的下降管。气液分离器入口设一截止阀；气液分离后气相排空，液相流回水箱循环使用。实验环路上设置了罗斯蒙特3051系列压力变送器P0、P14、P18与压差变送器DP2、DP15、DP16,分别测量混合器出口、立管底部、下倾管入口处的压力与水平管内圈、立管、立管底部弯头处的压差。实验过程中，管线入口气相表观流速范围 $u _ { \mathrm { s a } } ~ =$ $0 . 0 8 8 { \sim } 2 1 \mathrm { m } / \mathrm { s } ($ 折算为 $0 ^ { \circ } \mathrm { C }$ ， $1 0 1 . 3 \mathrm { k P a }$ ，不考虑溶解),水相表观流速范围 $u _ { \mathrm { s w } } = 0 . 0 2 3 { \sim } 0 . 7 0 \mathrm { m } / \mathrm { s }$ ，分离器入□截止阀流阻系数为 $2 . 5 { \times } 1 0 ^ { 6 } \ \mathrm { P a { \cdot } s ^ { 2 } { \cdot } m ^ { - 2 } }$ 、出口阀门全开，管线平均压力范围为 $1 6 4 { \sim } 3 0 0 0 \ \mathrm { k P a } _ { \circ }$ （20
+
+实验中，压力、压差与流量信号的采集频率均为${ 1 0 0 } \mathrm { H z }$ ，自开机至停机期间不间断采集。对于每一目标流速，当稳态工况持续3个周期或 $2 0 ~ \mathrm { m i n }$ (取较大值)之后调节至下一目标流速。每次单相流速调节一般在 $3 0 { \sim } 9 0 ~ \mathrm { s }$ 内完成，两相流速调节一般在 $6 0 { \sim } 1 2 0$ s内完成。考虑实验环路的长度及传感器位置，前述调节过程可以视为瞬态变化。实验共记录156个工况、112次流速转变的暂态过程。
+
+![](images/fbd0f9bec01ffbd472349aa34b27e0e753544a8818e6d5eb6f6d70d7e0b06cba.jpg)  
+图1实验系统
+
+Fig.1 Schematic diagram of experimental system
+
+# 2流型划分
+
+本文把集输立管系统整体流型划分为4种基本形式：严重段塞流(Severe Slugging，SS)——存在液塞流出阶段，或者立管底部周期性阻塞；震荡流型(Oscillation，OSC)——立管压差波动幅度超过全水值的 $2 0 \%$ ，但不满足SS 流型的特征；第一类稳定流型(Stable1，ST1)——高含气率下立管压差波动幅度不超过全水值的 $2 0 \%$ 、均值低于全水值 $4 0 \%$ ；第二类稳定流型(Stable 2，ST2)——低含气率下立管压差波动幅度不超过全水值的 $2 0 \%$ 、均值高于全水值 $4 0 \%$ 。前两者统称不稳定流型 (Unstable，UST),后两者统称稳定流型 (Stable，ST)。由于管线压力较低，在中低液相流速下很大范围内发生不稳定周期与稳定周期交替出现的不规则流型 (Irregular，IR)。图2为本文实验工况点，图中IR流型表示不稳定周期的“占空比”不超过 $5 0 \%$ 的不规则流型。
+
+# 3结果与讨论
+
+特性。
+
+对 112 次流速转变的暂态过程记录的压力与压差信号进行了分析。其中，气液质量比(gas liq-uidratio，以下简称气液比或GLR）增加的过程64次，气液比减小的过程41次，气液比不变的过程7次。图 $\mathrm { 3 ( a ) } \sim \mathrm { ( d ) }$ 分别为气流量不变、水流量降低，气流量不变、水流量升高，水流量不变、气流量降低，水流量不变、气流量升高时部分压力与压差信号的响应；下标r表示相对值。由于下倾管－立管的特殊结构，集输立管系统整体流型的周期通常比水平管、垂直管等简单管型中段塞流或弹状流的周期长得多，暂态过程也呈现出较更为复杂的
+
+![](images/9e7c63c225ab3e33190a3f1f49f8a9b71b4587d3bfe60928ac979d9278d6154e.jpg)
+
+![](images/8f8d440c2ba0708ee12ff6fa9b52cbc3bb97d4433ff4a2d5bb4613e1a838f1af.jpg)  
+图2实验工况点 Fig.2 Test data points   
+图3液相或气相流量变化后部分压力与压差信号的响应 .3Response of pressure and differential pressures to variation of gas or liquid flow rate
+
+# 3.1立管底部压力的过升、过降现象
+
+图3(a）中 4400s、7900s附近，以及图3(d)中$2 7 0 0 \mathrm { s } , 6 2 0 0 \mathrm { s }$ ；附近，分别可以看到立管底部压力 $p _ { 1 4 }$ 发生过升、过降现象，水平管实验的文献[1-3,6,7,9]对这种现象也有报道，但与本文实验规律不尽相同。
+
+在本文实验中，压力过升、过降并非普遍现象，记录下的112次暂态过程中总共仅有33次出现。与文献[6,7]及作者等以往实验的对比表明，差别的主要来源之一为实验方法的差异——以往文献的实验系统压力较低、气液流量之间以及与管内流型间的相互影响相互显著；而本文实验中水泵出口压力高于管内压力 $1 { \sim } 2 \ \mathrm { M P a }$ ，气相缓冲罐绝对压力更高达 $1 2 { \sim } 1 5 \ \mathrm { M P a }$ ，因而某一相流量的改变对另一相流量的影响较小，严重段塞流等强间歇流型对水流量的影响也很小。第二个主要原因是下倾管－立管结构的影响。如图4所示， $p _ { 1 4 }$ 的波动超前于上游各压力传感器，且自混合器出口至立管底部的各压力传感器的信号波形相似度非常高，因此在集输立管系统中显著存在下游影响上游的情况，这也是本文以 $p _ { 1 4 }$ 为例描述过升、过降现象的原因。在本实验系统的管长范围内，立管底部压力波动向上游的传播淹没了混合器出口流量所致压力波动向下游的传播。但立管底部并非质量流量的来源，而气体的压缩性使立管底部压力与流速相互阻碍对方变化，因此过升和过降更不易发生。此外在 $u _ { \mathrm { s a } } < 4 ~ \mathrm { m / s }$ $u _ { \mathrm { s w } }$ $< 0 . 1 5 \mathrm { m } / \mathrm { s }$ 的中低流速下，压力过升、过降现象仅观察到3次，则是由于中低流速下流动周期一般较长，且低流速下分离器入口节流压降几乎可忽略、 $p _ { 1 4 }$ 主要受立管内含液量的影响，而与含液量有关的 $\Delta p _ { 1 5 }$ 其幅值在较低的气液流速下变化很小，因此 $p _ { 1 4 }$ 难以发生过升、过降现象。
+
+实验还发现液相流量降低时 $p _ { 1 4 }$ 也可能发生过降现象，如图5所示；而以往文献[2,3]中液相流量变化并未引起压力过升或过降。相对于 $p _ { 1 4 }$ ， $\Delta p _ { 1 5 }$ 的变化更为丰富，其均值可能多次升降。图5所示变化可解释如下：流量降低使流入立管的液相减少，立管含液率降低, $p _ { 1 4 }$ 、 $\Delta p _ { 1 5 }$ 都下降；由于 $p _ { 1 4 }$ 降低使气相膨胀、流速加快，将更多的液相推入立管， $\Delta p _ { 1 5 }$ 又上升，但上升量不足以抵消管线压力的下降；同时入□液相流量降低使得流入立管的液相再次减少，立管液相流速发生过降、含液率降低；直至上游的稳态流量传递到立管处，压力 $p _ { 1 4 }$ 、含液率与 $\Delta p _ { 1 5 }$ 才重新回升建立新稳态。由此可见，下倾管-立管结构使局部液相流量过降，是出现压力过降的根源。图5中， $\Delta p _ { 1 5 }$ 先于 $p _ { 1 4 }$ 达到极小值，仍然表明 $p _ { 1 4 }$ 受立管内流型的影响。除 $\Delta p _ { 1 5 }$ 外， $\Delta p _ { 2 }$ 也能观察到均值或幅值多次升降或增减，并且在 $u _ { \mathrm { s a } }$ 或 $u _ { \mathrm { s w } }$ 增加或减小时均可能发生，进一步表明集输立管系统流量变化暂态过程比简单水平管内更加复杂。
+
+![](images/6a8193159dbc7e68e00671e3903b7ff2c61f0ae8c98372e79679f98d2197ea39.jpg)  
+图4 立管压力波动向上游传播 Fig.4 Upstream propagation of pressure wave
+
+![](images/d8a2e2ba117b101a21330a73efc5cfa6b6fb178cb12c148badb8283a419e13f0.jpg)  
+图5液相流量降低时发生的压力过降现象Fig.5 Pressure undershoot when liquid flow rate decreases
+
+# 3.2局部暂态流型
+
+流量变化暂态过程中压差均值和幅值发生非单调变化时，表明出现暂态流型。图6(a)、(b)分别为两个稳态ST流型工况过渡时与两个稳态UST流型工况过渡时立管压差与水平管压差的变化曲线。图6(a）中气液比不变、总流量增大时，出现了暂态不稳定流型；原因在于气液间存在滑移，气相的真实流速高，其流量改变的传播也更快，因此水平段的大部分液相被迅速推入立管，形成孤立大段塞，随后稳态重新建立。图6(b）中气相流量不变、水相流量降低时，出现了暂态稳定流型；原因可以归结为流量降低使得管线压力降低，气体膨胀而流速升高，同时立管内气液体积比进一步增加，使得整体流型暂时进入稳定区域，此后随着管内气体流速的降低又逐渐形成不稳定流型直至达到新稳态。
+
+水平管局部暂态流型除了图6(a)所示的孤立大段塞以外，还可在IR流型达到稳态之前观察到（见3.4节所述较长时间的暂态分层流)。如果把IR流型的水平管局部流型仍视为段塞流，则与水平管实验[2,6] 的规律一致，产生原因可由文献[2]解释，即由于气量减小引起的段塞速度减小使其夹带液相的能力减弱，不足以维持段塞流形态。在较高液速下，气量减小引起的分层流维持时间减少，直至仅出现波状分层流，或者仍然维持段塞流、但压差波动幅值有所降低，亦与文献[2],[7]的规律一致。
+
+# 3.3新稳态的建立顺序
+
+本文以某一参数均值、幅值及周期均达到稳态的时刻作为该参数暂态过程结束的标准。通过观察对各参数达到稳态的时间进行判读。结果如表1所示，从统计上看， $\Delta p _ { 2 }$ 、 $\Delta { p } _ { 1 6 }$ 、 $\Delta p _ { 1 5 }$ 的顺次均值依次增大，这与它们之间相对上下游位置的关系相对应。但对于单个工况, $\Delta p _ { 1 6 } . \Delta p _ { 1 5 }$ 也可能率先达到
+
+(a)始末稳态均为ST，暂态UST
+
+![](images/9202adb3ff92dd268fb82f1a381b7ad6fe06708da868b8bbd207a17345347ba4.jpg)  
+Fig.6 Transient local regimes in transient flow rate process
+
+![](images/bdffce74eca3df10f3ffdf3940316258417b0e32ab1d8ce0e6961ca77a8f5c7a.jpg)  
+图6流量变化形成的局部暂态流型
+
+稳态； $\Delta p _ { 1 5 }$ 先于 $\Delta p _ { 1 6 }$ 达到稳态的情况也有较为清 晰的发生范围；而立管底部压力 $p _ { 1 4 }$ 几乎总是最晚 达到稳态。
+
+# 表1部分压力与压差信号达到稳态的顺次
+
+Table 1 Chronological order of moments when the pressure and differential pressures reach steadystate   
+
+<html><body><table><tr><td rowspan="2">顺次</td><td colspan="4">暂态工况个数</td></tr><tr><td>△p2</td><td>P14</td><td>△p15</td><td>△p16</td></tr><tr><td>1</td><td>93</td><td>0</td><td>8</td><td>28</td></tr><tr><td>2</td><td>11</td><td>1</td><td>29</td><td>66</td></tr><tr><td>3</td><td>8</td><td>3</td><td>73</td><td>18</td></tr><tr><td>4</td><td>0</td><td>108</td><td>2</td><td>0</td></tr><tr><td>平均顺次</td><td>1.24</td><td>3.96</td><td>2.62</td><td>1.91</td></tr></table></body></html>
+
+$\Delta p _ { 1 6 }$ 、 $\Delta p _ { 1 5 }$ 率先达到稳态的情况共出现28 次（含9次与 $\Delta p _ { 2 }$ 同时达到稳态； $\Delta p _ { 1 5 }$ 的8次均为与$\Delta p _ { 1 6 }$ 同时达到稳态)，图7中曲线c之间的部分为其发生范围。从流速分布上看，这一情形绝大多数出现在 $u _ { \mathrm { s a } } { < } 1 . 6 ~ \mathrm { m / s }$ ， $u _ { \mathrm { s w } } { < } 0 . 3 7 ~ \mathrm { m / s }$ 的中低流速范围;对应的流型主要为 SS(27 次，另1次为OSC)；该流型下易出现相对长时间的分层流态，此时改变流速， $\Delta p _ { 2 }$ 的幅值无明显差别；而立管底部易发生阻塞，在立管中发生喷发后 $\Delta p _ { 2 }$ 幅值才出现明显的变化，达到稳态后亦是如此。以上表明 SS 流型下立管底部对上游水平段流型有显著的影响。从流速变化的方向看，气液比升高或降低时 $\Delta p _ { 1 6 }$ 或 $\Delta p _ { 1 5 }$ 都可能最先达到稳态；其中升高时相对更易发生，实验中共出现了20 次。
+
+$\Delta p _ { 1 5 }$ 先于 $\Delta p _ { 1 6 }$ 达到稳态的情况主要出现在较高的气相流速，共出现了19次，但超前量一般不大，图7中的曲线d的内部为该现象发生的范围。其中14次出现在IR流型的区域，另有3次OSC、2次 ST1，但后两者每个周期的压差波动幅值均不相等，也存在一定的不规则性，只是幅度均在立管高差的 $2 0 \%$ 以上或以下，因而未归入IR 流型。达到稳态后，这些新工况仍有 $\Delta p _ { 1 5 }$ 超前于 $\Delta p _ { 1 6 }$ 。以上表明， $\Delta p _ { 1 5 }$ 先于 $\Delta p _ { 1 6 }$ 达到稳态与流型的不规则性存在某种关联，有助于揭示不规则流型的成因。 $\Delta p _ { 1 5 }$ 与 $\Delta p _ { 1 6 }$ 同时达到稳态的情况共发生12次，均发生在 $u _ { \mathrm { s w } } { < } 0 . 1 5 ~ \mathrm { m / s }$ ， $u _ { \mathrm { s a } } { < } 0 . 7 ~ \mathrm { m / s }$ 的低流速范围。
+
+![](images/6e08a3edaa6d5349dcbaafd04521efc3a53a1ed686ff70f305e5d3095f862290.jpg)  
+图7压差达到稳态的不同顺序与流型边界对照（a.UST及IR 流型的边界；b.SS 流型的边界；c. $\Delta { p } _ { 1 6 }$ 率先达到稳态的发生 范围；d. $\Delta p _ { 1 5 }$ 先于 $\Delta p _ { 1 6 }$ 达到稳态的发生范围) Fig.7 Boundaries of different chronological orders and boundaries of different regimes
+
+表1还指出，立管底部压力 $p _ { 1 4 }$ 达到稳态的时间一般滞后于各压差；实验范围内 $p _ { 1 4 }$ 相对于 $\Delta p _ { 1 5 }$ 的滞后量可从 $3 0 ~ \mathrm { s }$ 至 $1 3 0 0 ~ \mathrm { s }$ 。滞后量较小时主要体现为同一周期内的滞后 (类似于相位差)，滞后量较大的情况则是 $p _ { 1 4 }$ 的均值未达稳定。达到稳态后， $p _ { 1 4 }$ 一般仍然滞后于 $\Delta p _ { 1 5 }$ ，滞后量通常在 $1 0 \mathrm { ~ s ~ }$ 数量级;且两者波形也不完全相同。在SS流型下当立管充满液塞、 $\Delta p _ { 1 5 }$ 已达到最大值时， $p _ { 1 4 }$ 仍可能继续升高，如图8(a)所示；而在IR 流型下， $p _ { 1 4 }$ 与 $\Delta p _ { 1 5 }$ 的差异更加明显— $\Delta p _ { 1 5 }$ 出现 $1 { \sim } 2$ 个不稳定周期后又经历若干个稳定周期，而 $p _ { 1 4 }$ 尽管周期仍与 $\Delta p _ { 1 5 }$ 相同，但各周期的均值依次缓慢上升然后缓慢下降，当 $\Delta p _ { 1 5 }$ 再一次出现不稳定周期后 $p _ { 1 4 }$ 均值又缓慢上升，呈现出大周期的形态，如图8(b）所示。造成$p _ { 1 4 }$ 与 $\Delta p _ { 1 5 }$ 变化不一致的主要原因是不同位置处的局部流速不同，以及气体可压缩性对压力变化的缓冲作用；不仅由下倾管－立管结构引起，而且本实验环路的大容积特别是下倾管以及立管顶部至分离器之间的容积使得缓冲作用更加明显。譬如SS流型下，立管内充满液相后， $\Delta p _ { 1 5 }$ 维持不变；气相仍在下倾管内积聚、压缩， $p _ { 1 4 }$ 继续升高；喷发时则相反，立管内水被快速推出后维持一段时间的稳定混状流(含气小段塞)，而气相仍在进入立管，因而 $\Delta p _ { 1 5 }$ 均值不变而 $p _ { 1 4 }$ 均值逐渐下降。而IR流型发生在高气速范围，液塞被推出立管后还在继续被气相推动，因此其喷发完毕后 $p _ { 1 4 }$ 甚至还未达到最大值。不同研究者对集输立管系统整体流型划分的差异，也可部分归结于 $p _ { 1 4 }$ 与 $\Delta p _ { 1 5 }$ 的不一致性。
+
+![](images/7792fae9a7c776536f28237e348b221dc9119f4103124b98f0410f946f8caa3b.jpg)  
+图8稳态下 $p _ { 1 4 }$ 与 $\Delta p _ { 1 5 }$ 波动的非一致性 Fig.8 Inconsistency between pressure at the riser bottom $\left( p _ { 1 4 } \right)$ and differential pressure of the riser $( \Delta p _ { 1 5 } )$ （204
+
+# 3.4不稳定流型、不规则流型形成的暂态过程
+
+在实验条件下不稳定流型的流速边界附近，共记录了34 组稳定流型（ST）转变为不稳定流型(UST）或不规则流型（IR）的暂态过程，包括单独改变气相流量的7组、单独改变液相流量的17组、同时改变气液流量的10组 (其中7组气液质量比不变)。
+
+实验中，流量变化引起的立管内ST流型向UST或IR流型的转变的多个工况，在达到新稳态之前，立管相对压差 $\Delta p _ { 1 5 , r }$ 的幅值已超过0.2，即已进入UST或IR流型的区域。此时，对于绝大多数（33组)暂态工况，仍有 $\Delta p _ { 2 }$ 超前于 $\Delta p _ { 1 5 }$ ，如图9所示；仅在极低水速 $u _ { \mathrm { s w } } = 0 . 0 2 4 \ : \mathrm { m / s }$ 1 $u _ { \mathrm { s a } } = 1 . 9 { \longrightarrow } 0 . 9 4 ~ \mathrm { m / s }$ 的1组工况下，整体流型转变为OSC时水平管内仍长期维持分层流。实验范围内， $\Delta p _ { 2 }$ 变化相对于$\Delta p _ { 1 5 }$ 首次出现大幅波动的超前量为 $2 3 { \sim } 3 6 7 \mathrm { s }$ ；考虑到压差传感器DP2与DP15的取压段中心仅相距约$1 1 0 \mathrm { ~ m ~ }$ ，超前量可认为充裕。因此，借助水平管信号(局部流型)对UST、IR流型的形成进行预报具备可行性。
+
+具体地，水平段压差表征的整体流型向UST、IR的转变的先兆，主要包括两种形式一—水平段形成暂态分层流 (图9(a))，或者间歇流压差波动幅度增加 (图9(b))。前者出现在一相或两相流量减少的情况；后者主要出现在一相或两相流量增加的情况，但在中高液速下某一相流量减少时也有发生，此时幅值先增加，达到稳态后出现周期与幅值基本恒定的间歇态，该间歇态一个周期内在取压段内也可能出现短暂分层流。另外，第二种形式下，转变为UST流型过程中 $\Delta p _ { 2 }$ 波动的最大值与最小值均发生变化，而转变为IR 流型时一般只有最大值变化。当液相流量很低时，ST1流型下水平管内已经为稳态分层流，此时若 $\Delta p _ { 2 }$ 出现孤立的 $1 { \sim } 2$ 个大幅波动的周期，也表明立管中即将形成IR 流型。
+
+![](images/5433637e7817e7fef1c04fa05a2cd54408878047407c0d8f4a4445984541738e.jpg)  
+(a)水平段形成短暂分层流
+
+![](images/968340fa7d269c1ae1b7b04f8dd892cd85b1bbf0454cb384b099474a216d22bb.jpg)  
+图9向不稳定流型或不规则流型转变的两种形式 Fig.9 Transition to unstable regime and irregular regime
+
+# 4结论
+
+1）集输立管系统气相流量变化时可发生压力均值过升、过降现象，液相流量降低时可发生压力过降现象；压力均值过升、过降现象在中高流速下相对易于发生；实验中，水泵与空压机出口流量的人为稳定会阻碍压力均值过升、过降现象的发生。
+
+2)立管压差、水平管压差的均值也可发生过升、过降现象，甚至出现多次升降的情况；流量改变后均值和幅值均可能先出现反向于终态的变化，然后才逐渐趋近终态值。以上现象归因于立管垂直结构对暂态局部气液比、流速的影响及垂直段与水平段局部流型种类与流速范围的差异。
+
+3)集输立管系统某一相或两相流量变化时，可产生暂态流型，包括两个稳定流型工况间的过渡暂态出现不稳定流型、两个不稳定流型工况间的过渡暂态出现稳定流型。在不同流速范围下，暂态流型的成因分别为水平管内起塞现象的变化以及立管垂直结构的影响。
+
+4）一般地，集输立管系统沿程压差达到稳态的顺次为自上游至下游；水平管－下倾管沿程压力达到稳态的顺次则是自下游至上游；压差先于压力达到稳态。复杂管线系统内局部压力与压差波动不一致的主要原因为起伏结构与气体可压缩性共同所致的局部各相流速变化与压力缓冲作用，起伏结构越复杂、管线容积越大，不一致性越显著。
+
+5)通常立管内不稳定流型出现前，水平管压差将出现前兆，主要包括水平段形成暂态分层流、间歇流压差波动幅度增加等两种形式，本文实验范围稳定流型转变为不稳定流型或不规则流型时水平段压差比立管压差有 $2 3 \mathrm { \sim } 3 6 7$ s的超前量。
+
+本文实验表明，集输立管系统内无论是压力、压差的均值或幅值的暂态变化，还是压力、压差达到稳态的顺次，都受下倾管－立管结构与入口流量的共同影响，在不同的流速范围内两种影响因素呈不同的主次关系。水平管压差变化可以有效预报立管内不稳定流型或不规则流型的形成，而立管及立管底部压差的暂态响应在部分情况下也有助于预报不稳定流型的形成，有助于进一步提高集输立管系统流动监测及安全保障技术水平。
+
+# 参考文献
+
+[1]MinamiK,Shoham O.Transient Two-phase Flow Behavior in Pipelines:Experiment and Modeling [J].International Journal of Multiphase Flow,1994,20(4):739-752   
+[2]King MJS,Hale CP,Lawrence CJ,et al.Characteristics of Flowrate Transients in Slug Flow [J].International Journal of Multiphase Flow,1998,24(5):825-854   
+[3] He L,Guo L,Chen X,et al. An Experimental Study of the Flowrate Transients in Slug Flow[J].Chinese Journal of Chemical Engineering,2002,10(4):396-403   
+[4] Taitel Y,Lee N,DuklerAE. Transient Gas-Liquid Flow in Horizontal Pipes:Modeling the Flow Pattern Transitions [J].AIChE Journal,1978,24(5):920-934   
+[5]王鑫，郭烈锦．水平管气液段塞流流量瞬变特性模拟研究 [J]．工程热物理学报，2004,25(5)：797-800 WANG Xin,GUO Liejin. Simulation of the Flowrate Transitents Characteristics of Gas-liquid Slug Flow in Horizontal Pipeline [J]. Journal of Engineering Thermophysics,2004,25(5):797-800   
+[6]江延明，李玉星，冯叔初．气液混输管线气相流量瞬态变 化特性实验研究[J]．石油大学学报（自然科学版)，2003, 27(1): 72-75,79 JIANG Yanmin,LI Yuxing,FENG Shuchu. Experimental Study on Transients Characteristics of Gas Flow Rate in Gas-Liquid Pipelines [J]. Journal of the University of Petroleum,China,2003,27(1):72-75,79   
+[7]陈振瑜，赵庆军，何利民.水平管段塞流气量瞬变特性试验 研究[J]．石油大学学报(自然科学版)，2005，29(1)：92-97 CHEN Zhenyu, ZHAO Qingjun,HE Limin. Experimental Study of Gas Flowrate Transient Characteristics of Slug Flow in Horizontal Pipelines [J].Journal of the University of Petroleum, China,2005,29(1): 92-97   
+[8]喻西崇，李清平,安维杰等.海底混输管道停输和再启动瞬 态流动规律研究[J]．工程热物理学报，2008，29(2)：251- 255 YU Xichong，LI Qingping，AN Weijie，et al. Shutdown and Restart Transient Flow Characteristic Study in Offshore Multiphase Pipeline [J]. Journal of Engineering Thermophysics, 2008,29(2):251-255   
+[9]喻西崇，安维杰，吴应湘等．海底混输管道瞬态过程中 稳定平衡时间和总持液量变化规律研究[J]．中国海上油 气，2004,16(6):414-421 YU Xichong,AN Weijie, WU Yingxiang, et al. Study on Variation rule of stabilized equilibrium time and total liquid inventory in Transient Flow Process in Sub_sea Mul tiphase Pipeline [J].China Offshore Oil and Gas,2004, 16(6): 414-421   
+10]赵越超，何利民，陈振瑜.气液流量瞬变过程强烈段塞流压 力及持液率波动分析[J]．天然气与石油，2007,25(1)：16- 18, 22 ZHAO Yuechao,HE Limin,CHEN Zhenyu.Study on Fluctuations of Pressure and Liquid Holdup Under Severe Slugging in Transient Process of Gas and Liquid Flow Rates [J].Natural Gas and Oil, 2007,25(1):16-18,22

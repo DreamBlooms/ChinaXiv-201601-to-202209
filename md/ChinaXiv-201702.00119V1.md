@@ -1,0 +1,200 @@
+# DOI: 10.5846/stxb201507311616
+
+彭红松,章锦河,韩娅,汤国荣,张瑜.旅游地生态效率测度的 SBM-DEA 模型及实证分析.生态学报,2017,37(2):628-638.PengHS,ZhagJaYangGZangsuretdpalaliscisatosdcMeasure-Data Envelopment Analysis model.Acta Ecologica Sinica,2O17,37(2）:628-638.
+
+# 旅游地生态效率测度的SBM-DEA模型及实证分析
+
+彭红松¹，章锦河1\*，韩 娅²,汤国荣},张瑜}
+
+1南京大学国土资源与旅游学系，南京210023  
+2安徽师范大学国土资源与旅游学院，芜湖241003
+
+摘要;旅游地是典型的人地关系相互作用的特殊区域，旅游地的生态效率研究是其制定与实施包容性、持续性发展政策与措施的基础。采用基于时间序列、包含非期望产出的SBM-DEA模型方法,构建旅游地生态效率测度模型及评价指标体系，以黄山风景区为例,利用1981—2014年的投入产出数据,测度旅游地复合系统的生态效率,分析其演化特征和阶段,并利用 Tobit 回归模型对其影响因素进行实证检验。结果表明:(1)34年来,黄山风景区旅游生态效率(综合效率)不断提升,且具较大发展潜力，在分解效率中,技术效率较高,规模效率次之,规模效率是决定综合效率的关键因素;（2)旅游生态效率的演化经历了初期低效、快速成长、成熟高效、下行风险四个阶段,不同阶段效率的特征不同,影响因素也存在差异；（3)旅游生态效率完成了由规模报酬递增向递减的过渡,资源要素的投入冗余已成为现阶段阻碍生态效率的进一步提高的关键因素;(4)旅游发展水平、产业结构和技术水平对生态效率产生显著的正向影响,投资水平产生显著的负向影响,以废弃物末端治理为表征的环保规制对生态效率的提升作用并不显著。文章最后提出,在山岳型风景区发展初期,应尽可能扩大资源要素投入规模,进入成熟阶段后,则转向逐渐控制投入规模,改善技术能力和资源配置能力,摒弃过度依靠资源消耗和环境污染的粗放式发展模式,走精细化、可持续的发展道路。
+
+关键词：旅游生态效率；时间序列SBM-DEA模型；Tobit回归分析；黄山风景区
+
+# Measurement and empirical analysis of eco-efficiency in tourism destinations based on a Slack-based Measure-Data Envelopment Analysis model
+
+PENG Hongsong1，ZHANG Jinhe1,\*，HAN $\mathrm { Y a } ^ { 2 }$ ，TANG Guorong1，ZHANG Yu1 1 Department ofLand Resources and Tourism Science，Nanjing University，Nanjing 21o023,China 2College of Territorial Resources and Tourism，Anhui Normal University，Wuhu 241OO3,China
+
+Abstract:Many tourism destinations are characterizedby interactions between people and theenvironment.Typicaly, researchontheeco-effciencyof tourismdestinations is thebasisfortheformulationandimplementationof inclusive, sustainable development policiesandmeasures.Extensive literature isavailableon theeco-effciencyevaluationsof the environmental impactof human material production behavior，such as industryandmanufacturing，but studies exploring tourism from the perspectiveof human consumption behaviorare limited.Litle systematicresearch has beenconducted to investigatetheco-eficiencytheoreticalsystemandthecalculationmethodsinvolved,withmoreattentionpaid tolarge-and medium-scaleregional orurban cases.Smallregional-scalecases，especialltourist destinations，areyettobeexplored. Based on a time series Slack-based Measure-Data Envelopment Analysis （SBM-DEA）model,including unexpected output, we builtamodel to measure theeco-effciencyof tourism destinationsandanevaluation index system.Weselected the averagewagelevel，new fixedasset investments，energyconsumption，waterconsumption，andcatering biologicalresource consumption as input indicators.Per capita tourism income wasselected as theexpected output indicator，and the emission indicators of tourism waste,namely,theamount of garbage，sewage,and waste gas emissions，were used to characterize the unexpectedoutput indicators.Wechose the Huangshan scenic areaasanexampleand usedtheinputandoutputdata from 1981to2014 to measure theeco-effciencyof the tourist destinationcomposite systemandanalyzed itsevolution characteristicsand phases.WeusedaTobitregresionmodel toempirically testtheinfluencing factors.First，weexplored thecharacteristicsandtheevolutionof theeco-effciencyof thetourismdestination；next，wedistinguishedthekeyfactors that nfluencedthiseco-effciencyand investigatedtherelationshipsbetween tourismeco-effciency，tourism investment, andoutput factors.Thefollowing results were obtained:（1）Inthepast 34 years，eco-effciency（technical effciency）has growncontinualyin the Huangshan scenic area，which hasa great development potential.Pure technical eficiency is the mostinfluential,followedbysaleeficiency,fordecomposition.Scaleeficiencyisadecisivefactorfortechnicaleffciency. (2）Theevolutionof tourismecological eficiency has four stages：initial ineffcient stage，rapidgrowth stage，mature eficient stage，anddownsiderisk stage.Theeco-effciencycharacteristicsandinfluencing factors indiferent stagesare diferent.（3）Tourismeco-effciency iscomplete when scale transition returns froman increase toa decrease.Thus，the input redundancyof resourcesbecomes thekey factor preventing ecological eficiency from improving further inthe present stage.（4）The level of tourism development，industrial structure,andtechnical level haveasignificant positive impacton eco-effciency，butinvestment levels haveasignificantnegative impact.Theenvironmentalregulation thatemphasizes the managementof wasteisnot efective inpromoting eco-effciency.Thisstudyproposedthatthe scaleofresource inputs should beexpandedasfaras posibleat the beginningof the mountain-type scenicarea development.When thedestination enters the mature stage，the investment scaleshouldgraduallybe controled.This involves improved technologyand resource allocation，abandoning theextensive development patern that resultsin overdependenceonresourceconsumption and environmental polution.The studycontributes torelated research perspectivesand methodsand promotes thesustainable development of tourism destinations.
+
+KeyWords:tourism eco-eficiency；time series of SBM-DEA model；Tobit regression analysis；Huangshan scenicarea
+
+沿革于效率评价范畴,生态效率(Eco-effciency）最早由 Schaltegger 和 Sturm 在 1990 年提出[1]。1992 年世界可持续发展工商业联合会(WBCSD)出版《改变航向：一个关于发展与环境的全球商业观点》[2」,使生态效率的概念被广泛认识与接受，其基本思想是以最少的资源投人和环境代价获得最大的经济价值。生态效率作为衡量人类经济发展与环境保护、自然生态与人类生态的和谐度,测度企业、产品、产业、区域等不同类型与尺度的“自然-经济-社会"复合系统可持续发展状态的有效工具,日益成为重要的研究前沿。国外相关研究起步于 20 世纪90年代,聚焦于生态效率的基础理论[3-5]、测度方法[6-10]、生态效率在企业、行业、区域等不同尺度及领域的实证研究[1-4]等3个方面。国内学者在引进国外先进的理论和评价方法的基础上,取得了积极的进展,初步形成了一些适合中国国情的理论、方法及应用[15-20]。但总体而言,国内外相关研究尚存在以下不足：研究视角上,多从人类物质生产行为(产业、行业、产品)对环境影响的视角切入进行生态效率评价，而从人类消费行为(如旅游业、旅游产品)对环境影响的视角的生态效率研究不足;研究方法上,对生态效率理论体系及相应测算方法的系统性研究不足;研究区域上,较多关注大中尺度区域或城市案例,而对小区域尺度，尤其是旅游地的研究仍有待探索。
+
+伴随着旅游业的快速发展,旅游效率研究成为效率评价的新兴领域。国内外学者主要关注旅游酒店[21]景区[22」、目的地[23-24]等的经营利用效率,而忽视了包含资源消耗、环境污染在内的生态效率分析,尽管有关旅游线路产品[15]、旅游废弃物[25]、旅游交通[26]等研究中涉及生态效率研究,但仍缺乏对旅游地生态效率的系统、综合研究。旅游地生态效率已成为衡量旅游地生态环境质量与可持续发展水平的主要指标。如何科学分析旅游地的生态效率,解释其与旅游经济发展、环境质量的关系，成为亟待解决的理论与实践问题。
+
+生态效率测度是生态效率研究的基础,主要包括单一比值法、指标体系法和模型法[27]。单一比值法以产品/服务的价值与环境影响的比值来表示,生命周期评价法、物质流分析法、生态足迹和能值分析法等属于此类,适用于分析单个项目或技术对象,但由于未能给出最优的比率集合,难以指导决策实践[28];指标体系法的核心是构建生态效率指标集,利于综合表征区域自然、经济、社会复合系统的发展水平和协调程度,但难以剔除主观赋权对评价结果的影响;模型法中应用最广泛的是数据包络分析方法（Data Envelopment Analysis，DEA）,它是一种以相对效率为基础,对若干具有多输入、多输出的决策单元（Decision Making Unit,DMU）,进行相对有效性或效率评级的非参数统计方法[29]。因具有无须统一指标单位、无须考虑投入与产出之间的函数关系、无须预先估计参数、无须假设权重等优点,最大程度的保证了原始信息的完整,在效率研究中得到广泛运用。从现有DEA效率评价的文献来看,存在3个问题，一是DEA分析法要求评价指标与评价决策单元数量之间一般有1:3 的关系,因此不宜应用于单个旅游地;二是往往忽略非期望产出,生态效率测度不完全;三是不能有效测度单个旅游地生态效率的变化过程与影响因素。
+
+鉴于此,本文构建基于时间序列、包含非期望产出的 SBM-DEA（Slack Based Measure-Data EnvelopmentAnalysis)生态效率评价指标体系及测度模型,并以黄山风景区为例,从全要素投入-产出的视角对旅游地生态效率进行历时性研究,拟解决两个问题，一是揭示旅游地生态效率的变化特征与演进过程,二是识别影响旅游地生态效率的关键因素,探讨旅游地生态效率与旅游投入、产出要素的关系,以期丰富相关研究的视角与方法，促进旅游地的可持续发展。
+
+# 1指标选择、研究方法及数据来源
+
+# 1.1指标选取与指标解释
+
+生态效率的测度指标包括投入、期望产出和非期望产出,投入、产出要素指标的选取直接关系到生态效率测度的科学性和准确性。目前国内外尚无统一的生态效率测度指标,本文结合旅游地发展要素的实际和投入产出过程,选取具体测度指标(表1）。
+
+表1旅游生态效率评价指标体系  
+Table 1 Tourism eco-efficiency evaluation system   
+
+<html><body><table><tr><td>指标类别 Index type</td><td>内涵 Connotation</td><td>指标名称 Name</td></tr><tr><td rowspan="5">投入指标 Input indicators</td><td>劳动力投入</td><td>平均工资水平/元</td></tr><tr><td>资本投入</td><td>新增固定资产投资额/万元</td></tr><tr><td>能源投入</td><td>能源消耗量/吨标准煤</td></tr><tr><td>水资源投入</td><td>水资源消耗量/t</td></tr><tr><td>餐饮生物资源投入</td><td>餐饮生物资源消耗量/hm2</td></tr><tr><td>期望产出指标 Expected output indicators</td><td>经济产出</td><td>旅游收入/万元</td></tr><tr><td>非期望产出指标</td><td>污染物排放</td><td>垃圾排放量/t</td></tr><tr><td colspan="2">Undesirable output index</td><td>污水排放量/t</td></tr><tr><td colspan="2"></td><td>废气排放量/t</td></tr></table></body></html>
+
+投入指标方面。劳动力、资本、能源与资源是旅游业发展的主要投入要素。劳动力要素指标一般用“从业人员数"表征,但未能凸显投入的“成本"货币属性,较之从业人员数量指标,平均工资水平这一质量指标更能体现劳动投入的大小;资本投入包括流动资本与固定资本,流动资本往往与工资、能源、资源的消耗相关联，为避免重复,选择每年新增固定资产投资指标;能源消耗包括电、煤、天然气等;水资源消耗主要考虑实体水消耗,包括旅游服务、管理以及生态、消防用水，不包括虚拟水;生物资源消耗主要是餐饮部分的生物资源消耗。综上，最终选取平均工资水平、新增固定资产投资额、能源消耗量、水资源消耗量和餐饮生物资源消耗量五个指标。
+
+期望产出指标方面。由于时间序列上旅游地生态产出变化相对稳定,对整个生态系统相对效率评价的影响不大,而社会产出也难以测度,故本文仅考虑经济方面的产出,而忽略生态及社会方面。学者们对期望产出指标的选取标准不一,但绝大多数将旅游收人或旅游接待人次作为期望产出指标[30]。从科学的角度出发,游客满意度也是反映旅游地发展期望产出的指标,但考虑到难以进行标准化衡量的实际,故不作考虑。最终选
+
+取人均旅游收入作为期望产出。
+
+非期望产出指标方面。旅游废弃物是影响旅游地环境质量的主要因素,指在旅游发展中,由于游客旅游活动、居民日常生活、旅游开发建设等活动而产生的对旅游地环境有污染或生态影响的气态、液态与固态物质[25]。采用旅游废弃物的排放量指标来表征非期望产出,分别是垃圾排放量、污水排放量和废气排放量。
+
+需要说明的是,旅游地生态效率的投入和产出大多发生在当年,且投入和产出滞后效益具有同时性,本文忽略投入和产出效益的时滞性,默认当年投入获得当年全部产出。对本文涉及到的平均工资水平、新增固定资产投资及旅游收入等价值指标,使用居民消费价格指数(CPI)折算为以1981年为基期的不变价格。对餐饮生物资源消耗量运用旅游餐饮生态足迹模型,转换成统一的生态足迹[31]。对于游客及管理服务消耗的电、煤、石油、液化气、木柴等能源,利用能源转换系数统一换算成标准煤[32]。
+
+# 1.2 模型方法
+
+# 1.2.1 SBM-DEA模型
+
+以CCR、BCC模型为代表的DEA传统模型大多是基于径向和角度的度量,未能充分考虑投入产出的松弛性问题,导致效率测度存在偏差[33]。为解决这一问题,Tone 提出并发展了 SBM-DEA 模型[34]。它与传统模型不同之处在于,把松弛变量直接放入目标函数,同时解决了投入松弛性问题和非期望产出下的效率评价问题。此外,SBM模型属于非径向、非角度度量方法,能够避免径向和角度选择的差异导致的偏差,更能体现生态效率评价的本质。描述如下：
+
+假设生产系统有 $n$ 个决策单元,各单元分别包含投入、期望产出和非期望产出3个向量,表示为 $\boldsymbol { x } \in R ^ { m }$ ，（204号 $\boldsymbol { y } ^ { g } \in \boldsymbol { R } ^ { s _ { 1 } }$ ， $\boldsymbol { y } ^ { b } \in { \boldsymbol { R } } ^ { s _ { 2 } }$ ,定义矩阵 $\textit { X } , \textit { Y } ^ { g } , \textit { Y } ^ { b }$ 如下： $[ X ] = \left[ x _ { 1 } , \cdots , x _ { n } \right] ^ { T } \in \mathfrak { R } ^ { m \times n }$ ， $[ Y ^ { g } ] = [ y _ { 1 } ^ { g } , \cdots , y _ { n } ^ { g } ] ^ { T } \in R ^ { s _ { 1 } \times n }$ 及$[ Y ^ { b } ] = [ y _ { 1 } ^ { b } , \cdots , y _ { n } ^ { b } ] ^ { T } \in R ^ { s _ { 2 } \times n } , X > 0 , Y ^ { s } > 0 , Y ^ { b } > 0 _ { \circ }$
+
+定义生产可能性集 $\mathrm { ~ \bf ~ P ~ }$ 为：
+
+$$
+P = \{ ( x , y ^ { g } , y ^ { b } ) \mid x \geqslant \lambda x , y ^ { g } \leqslant \lambda Y ^ { g } , y ^ { b } \geqslant \lambda Y ^ { b } , \lambda \geqslant 0 \}
+$$
+
+则基于规模报酬可变的 SBM-DEA 模型用式(2)表示：
+
+$$
+P ^ { * } = \operatorname* { m i n } \frac { 1 - \frac { 1 } { m } \sum _ { i = 1 } ^ { m } \frac { s _ { i } ^ { - } } { x _ { i 0 } } } { 1 + \displaystyle \frac { 1 } { s _ { 1 } + s _ { 2 } } \Bigg [ \sum _ { i = 1 } ^ { s _ { 1 } } \frac { s _ { r } ^ { g } } { y _ { r 0 } ^ { g } } + \sum _ { i = 1 } ^ { s _ { 2 } } \frac { s _ { r } ^ { b } } { y _ { r 0 } ^ { b } } \Bigg ] }
+$$
+
+式中， $s$ 表示投入、产出的松弛量， $\lambda$ 是权重向量。目标函数 $P ^ { * }$ 关于 $s ^ { - }$ ， $s ^ { g }$ ， $s ^ { b }$ 是严格递减的,并且 $0 \leqslant P ^ { \ast } \leqslant$ 1。对于特定的决策单元,当且仅当 $P ^ { * } = 1$ ，且 $s ^ { - }$ ， $s ^ { g }$ ， $s ^ { b }$ 均为0,综合效率有效,且技术效率和规模效率均有效。若 $P ^ { * } < 1$ ,或 $s ^ { - }$ ， $s ^ { g }$ ， $s ^ { b }$ 不全为0,说明决策单元是无效率的,为技术效率或规模效率无效,存在改进投入产出的必要性。对上述模型施加不同约束条件后，可得到规模报酬不变的 SBM-DEA模型及相应效率值，依据上述模型判断旅游地生态效率所处阶段。
+
+现有 DEA效率研究大多以面板数据或截面数据为主,所得效率是不同决策单元横向比较的结果,不能反映时间序列上特定研究对象的效率演进过程,更不能在区域发展实践上给予科学指导。鉴于此,本文依据SBM-DEA模型原理和生态效率内涵,将单个旅游地不同年份的投入-产出系统作为决策单元,分析生态效率的纵向演进过程。故旅游地生态效率(综合效率,用TE 表示)有效是指,该年份旅游地投入-产出系统在与其他年份比较中,是以最小的资源投人和环境损耗,获得最大的经济产出。由于时间序列上旅游地生态产出变化相对稳定,对整个生态系统相对效率评价的影响不大,且按照 SBM-DEA 模型的要求,评价单元必须大于三倍指标之和,若综合生态及社会方面的各类产出指标,将超出这一限制,导致测度结果出现偏差,故模型中暂未考虑社会及生态方面的产出。进一步地,可将综合效率分解为：(1)技术效率,指资源配置、利用及污染物控制的效率,用PTE 表示。（2)规模效率,指资源规模集聚的效率,用来衡量决策单元是否处于最佳规模下的生产,用 SE 表示。三者的值介于0—1,综合效率等于技术效率与规模效率的乘积。
+
+http://www.ecologica.cn
+
+# 1.2.2 Tobit回归模型
+
+Tobit 回归模型由Tobin提出,属于一种因变量受限的回归模型,它能够解决受限或截断因变量的模型构建问题[35]。使用 SBM-DEA模型测算出的旅游生态效率是介于0—1的离散截断值,为检验生态效率的影响因素、方向及程度,识别影响旅游地生态效率的关键因素与控制措施,可将 SBM-DEA 模型得到的效率值作为因变量,各影响因素为自变量,运用Tobit回归模型检验其影响因素。模型表达式为：
+
+$$
+Y = \left\{ { \begin{array} { l } { { Y ^ { * } = \alpha + \beta X + \varepsilon , Y ^ { * } > 0 } } \\ { { 0 , Y ^ { * } \leqslant 0 } } \end{array} } \right.
+$$
+
+式中，Y为截断因变量向量; $X$ 为自变量向量; $\alpha$ 为截距项向量; $\beta$ 为回归参数向量;扰动项 $\varepsilon { - } N ( 0 , \sigma ^ { 2 } )$ 。当因变量是部分连续分布或部分离散分布数据时,运用普通最小二乘法(OLS)估计Tobit 模型的参数是有偏的、不一致的,因此采用最大似然估计法(ML)估计Tobit模型中的参数。
+
+# 1.3 数据来源
+
+研究团队常年对黄山风景区的旅游发展和生态环境进行跟踪调查。为进一步获取生态效率投入产出数据,于2015年5月进行实地调研,主要采取访谈与文献统计资料收集方式。一是走访黄山风景区管委会的经济发展局、规划土地处、园林局、交通局、旅游办、环保办等部门；二是走访黄山集团公司下属的供水公司、用电服务公司、迅洁洗涤中心以及黄山股份公司下属的经营管理公司、景区开发管理公司、垃圾处理站、污水处理站、采购配送中心等部门,获得投入、期望产出和非期望产出三类相关的统计数据。
+
+投入数据包括1981—2014年黄山风景区从业人员平均工资水平、新增固定资产投资额、能源消耗量、水资源消耗量、餐饮生物资源消耗量(资料来源于经济发展局、规划土地处、园林局、经营管理公司、景区开发管理公司、供水公司、用电服务公司、采购配送中心等部门)。对从业人员平均工资数据的个别缺失值,使用黄山市职工平均工资指标(资料来源于《安徽省统计年鉴》、《安徽60年》)代替。对游客的餐饮生物资源消耗量资料的部分缺失值,假定游客在目的地的餐饮生物资源的消耗量与当地居民相同,使用当地居民的人均每日餐饮生物资源消耗量(资料来源于《安徽省统计年鉴》、《安徽60 年》)代替。期望产出数据包括黄山风景区1981—2014年的旅游总收人、总人次及其构成（来源于旅游办)。非期望产出数据包括黄山风景区1981一2014 年管理及旅游服务产生的垃圾(包括生活垃圾、建筑垃圾）、污水(包括生活污水、洗涤污水、消防污水)和废气(包括烟尘、 $. 5 0 _ { 2 } \ 、 \mathrm { N O } _ { { } _ { x } }$ )等各类旅游废弃物排放总量及构成的统计数据(资料来源于环保办、垃圾处理站、污水处理站、迅洁洗涤中心等部门),污水达标排放率等相关环境监测数据(资料来源于环保办）等。原始数据及其主要特征如表2所示。
+
+表2黄山风景区旅游生态效率投入产出数据特征(1981—2014)   
+Table 2 Tourism eco-efficiency data features of Huangshan Scenic Area（1981—2014)   
+
+<html><body><table><tr><td>指标类型 Index type</td><td>指标名称 Index name</td><td>起始年份值 Beginning value</td><td>终止年份值 Termination</td><td>年均增长率 Growth rate</td><td>标准差 SD</td></tr><tr><td>投入指标 Input indicators</td><td>平均工资水平/元</td><td>602</td><td>46473</td><td>14.08%</td><td>13723.69</td></tr><tr><td></td><td>新增固定资产投资额/万元</td><td>249</td><td>186381</td><td>22.21%</td><td>56373.79</td></tr><tr><td></td><td>能源消耗量/吨标准煤</td><td>763</td><td>10324</td><td>8.21%</td><td>2930.23</td></tr><tr><td></td><td>水资源消耗量/t</td><td>76419</td><td>817499</td><td>7.45%</td><td>222808.80</td></tr><tr><td>期望产出指标</td><td>餐饮生物资源消耗量/hm2</td><td>329</td><td>5311</td><td>8.79%</td><td>1423.52</td></tr><tr><td>Expected output indicators</td><td>旅游收入/万元</td><td>303</td><td>148991</td><td>20.66%</td><td>57882.92</td></tr><tr><td>非期望产出指标</td><td>垃圾排放量/t</td><td>943</td><td>4377</td><td>4.76%</td><td>1395.59</td></tr><tr><td>Undesirable output index</td><td>污水排放量/t</td><td>64956</td><td>694874</td><td>7.45%</td><td>181287.31</td></tr><tr><td></td><td>废气排放量/t</td><td>24</td><td>76</td><td>3.55%</td><td>23.561</td></tr></table></body></html>
+
+# 2实证分析
+
+# 2.1 研究区概况
+
+黄山风景区是享誉世界的旅游胜地,拥有世界文化与自然双重遗产和世界地质公园的桂冠,素有“五岳归来不看山、黄山归来不看岳"的美誉。风景区位于黄山市境内的黟县、歙县、休宁县以及黄山区、徽州区之间,山境南北长 $4 0 ~ \mathrm { k m }$ ,东西宽 $3 0 ~ \mathrm { k m }$ ,总面积约 $1 2 0 0 \ \mathrm { k m } ^ { 2 }$ ,核心景区面积 $1 6 0 . 6 \ \mathrm { k m } ^ { 2 }$ 。据黄山管委会统计,自1979 年对外开放以来,旅游业发展迅速,至2014年,共接待国内外游客4364.05万人次,累计实现旅游收入177.16 亿元。随着旅游业的快速发展,资源要素投入日益增长,旅游废弃物也逐渐增多,2014年员工人均工资为46473元,实现固定资产投资总额 186381万元,折算消耗标准煤、水、餐饮生物资源分别为10324t、$8 1 7 4 9 9 \mathrm { t } \ 、 5 3 1 1 \mathrm { h m } ^ { 2 }$ ,排放垃圾、污水、废气分别达 $4 3 7 7 \mathrm { t } \setminus 6 9 4 8 7 4 \mathrm { t } \setminus 7 6 \mathrm { t }$ ,对景区自然、经济及生态系统的压力不容忽视。
+
+# 2.2黄山风景区旅游生态效率特征
+
+将不同年份的投入-产出系统作为决策单元,运用包含非期望产出的 SBM-DEA 模型,计算出1981—2014年黄山风景区生态效率(综合效率)、技术效率和规模效率(表3)。研究发现,黄山风景区旅游生态效率存在以下特征。
+
+表3黄山风景区生态效率及其分解效率值(1981—2014)   
+
+<html><body><table><tr><td colspan="10">Table3 Eco-efficiencyand decompositionefficiencyvalueofHuangshan Scenic Area（1981-</td></tr><tr><td>年份Year</td><td>TE</td><td>PTE</td><td>SE</td><td>R-S</td><td>年份Yera</td><td>TE</td><td>PTE</td><td>SE</td><td>R-S</td></tr><tr><td>1981</td><td>0.034</td><td>1</td><td>0.034</td><td>irs</td><td>1998</td><td>0.494</td><td>0.797</td><td>0.620</td><td>irs</td></tr><tr><td>1982</td><td>0.054</td><td>1</td><td>0.054</td><td>irs</td><td>1999</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1983</td><td>0.067</td><td>1</td><td>0.067</td><td>irs</td><td>2000</td><td>1</td><td>1</td><td>1</td><td></td></tr><tr><td>1984</td><td>0.045</td><td>0.435</td><td>0.104</td><td>irs</td><td>2001</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1985</td><td>0.050</td><td>0.352</td><td>0.142</td><td>irs</td><td>2002</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1986</td><td>0.092</td><td>0.373</td><td>0.245</td><td>irs</td><td>2003</td><td>0.510</td><td>1</td><td>0.510</td><td>irs</td></tr><tr><td>1987</td><td>0.080</td><td>0.303</td><td>0.264</td><td>irs</td><td>2004</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1988</td><td>0.099</td><td>0.372</td><td>0.265</td><td>irs</td><td>2005</td><td>0.842</td><td>0.862</td><td>0.976</td><td>irs</td></tr><tr><td>1989</td><td>0.121</td><td>0.416</td><td>0.291</td><td>irs</td><td>2006</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1990</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2007</td><td>0.784</td><td>0.819</td><td>0.958</td><td>irs</td></tr><tr><td>1991</td><td>0.165</td><td>0.356</td><td>0.464</td><td>irs</td><td>2008</td><td>0.831</td><td>0.848</td><td>0.981</td><td>irs</td></tr><tr><td>1992</td><td>0.189</td><td>0.362</td><td>0.522</td><td>irs</td><td>2009</td><td>1</td><td>1</td><td>1</td><td>一</td></tr><tr><td>1993</td><td>0.184</td><td>0.341</td><td>0.539</td><td>irs</td><td>2010</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1994</td><td>0.251</td><td>0.445</td><td>0.563</td><td>irs</td><td>2011</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1995</td><td>0.326</td><td>0.471</td><td>0.692</td><td>irs</td><td>2012</td><td>0.829</td><td>1</td><td>0.829</td><td>drs</td></tr><tr><td>1996</td><td>0.399</td><td>1</td><td>0.399</td><td>irs</td><td>2013</td><td>0.517</td><td>0.543</td><td>0.953</td><td>irs</td></tr><tr><td>1997</td><td>0.487</td><td>0.621</td><td>0.784</td><td>irs</td><td>2014</td><td>0.578</td><td>0.590</td><td>0.980</td><td>irs</td></tr><tr><td>均值 Means</td><td>0.530</td><td>0.744</td><td>0.654</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>最小值Min</td><td>0.034</td><td>0.303</td><td>0.034</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>最大值Max</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>标准差SD</td><td>0.388</td><td>0.281</td><td>0.355</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>有效年份Effective Year</td><td>10</td><td>16</td><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+TE;综合效率techcalfiiency;T术率pure ehicalfcySE模率scalefecyirs规模报递增increasigeuso scale;drs:规模报酬递减 decreasing returns to scale;-:规模报酬不变
+
+(1)总体看来,生态效率(综合效率)不断提升,且具较大发展潜力。黄山风景区1981—1988 年生态效率平均值仅为0.07,而1999—2014 年则达0.87,34年来,生态效率总体呈现提升趋势。1981—2014年,生态效率平均值为0.530,达到有效1的年份有10个，占比 $2 9 . 4 1 \%$ ,表明生态效率系统存在大量的投入、非期望产出冗余,即使在减少已有资源要素投入和非期望产出 $47 \%$ 的水平下,通过有效的技术利用水平和资源利用方式,仍能达到已有的期望产出水平,因而实行资源节约、环境友好型发展战略是旅游地提升生态效率的必由之路。
+
+（2)分解效率方面,技术效率较高,规模效率次之。技术效率和规模效率有效的年份分别是16个、10个，占总体的 $4 7 . 0 6 \% \ 、 2 9 . 4 1 \%$ ,平均值分别为0.744、0.654,标准差分别为0.281、0.355,表明技术效率水平较高且相对稳定，规模效率水平次之且年际变化较大。
+
+(3)综合效率与其分解效率的关系方面,规模效率是决定综合效率的关键因素。为分析综合效率与其分解效率之间的关系,分别建立基于时间序列的各效率二维有序坐标散点图(图1),依据散点与45 度对角线位置的远近,判定分解效率与综合效率相关性的强弱。结果显示,规模效率对综合效率的解释能力更强。进一步进行偏相关分析,通过依次控制各分解效率,分别测算综合效率与各分解效率的相关程度。结果表明,规模效率、技术效率与综合效率的相关系数分别达到0.959和0.839,均通过0.95 置信水平下的显著性检验,验证了黄山风景区综合效率与其分解效率之间均存在显著的相关性。相比而言，与规模效率之间的相关程度更大，规模效率是决定综合效率的关键因素
+
+![](images/86a567d915740331265a3edb08e4718114267b27a878c0f95140c9ba6a9c860d.jpg)  
+图1黄山风景区旅游生态效率及其分解效率的关系  
+Fig.1The relationship between tourism eco-effciency and decomposition efficiencyof Huangshan Scenic Area
+
+(4)规模报酬变化规律上,生态效率总体经历规模报酬递增-不变-递减的演变过程。1981—1989、1991—1998、2003、2005、2007、2008、2013和2014年,生态效率处于规模递增阶段,通过增加资源要素的投入规模,可获得更大的期望产出水平;1990、1999—2002、2004、2006及2009—2011年,处于规模报酬不变阶段,投入和产出的规模同比例增加;2012年处于规模报酬递减阶段，若不考虑生态影响的区际转移问题，黄山风景区的要素投人已经超过了资源-经济-环境系统的消化能力，进一步扩大投人规模将制约系统的产出水平，造成资源浪费和生态环境破坏。由此,未来需审慎使用以扩大资源投入规模为手段追求生态效率更大化的做法。
+
+2.3黄山风景区旅游生态效率演进过程及阶段
+
+从黄山风景区生态效率演进过程来看，可分为初期低效阶段、快速成长阶段、成熟高效阶段和下行风险阶段4个阶段（图2）。
+
+初期低效阶段(1981—1988年)：综合效率、技术效率和规模效率平均水平分别为0.065、0.604 和0.146,综合效率和规模效率极低,技术效率较高。原因在于,景区开放之初,基本沿袭计划经济模式下的经营管理方式,投入规模严重不足,主要致力于优化配置有限资源。该阶段职工平均工资、新增固定资产投资额、能耗量、生物资源消耗量和供水量等仅占34年总量的 $7 . 4 6 \%$ 、 $5 . 8 5 \%$ ） $1 4 . 9 1 \%$ 、 $1 3 . 6 2 \%$ 和 $1 2 . 4 3 \%$ ,对生态效率系统影响较小。。
+
+快速成长阶段(1989—1998年)：综合效率、技术效率和规模效率平均水平分别为0.362、0.582 和0.586，综合效率快速增长,并在1990 年达到有效1,主要得益于规模效率和技术效率的增长。具体而言,黄山风景区于1989 年撤销旅游处,成立“黄山旅游总公司”,逐渐摆脱计划经济模式,开始市场化运营。1996年,黄山旅游正式挂牌上市,开展劳动用工、人事管理和分配制度改革,投入规模、经营管理水平均快速提升。另外,新(改、扩)建游步道、酒店、索道、水库等基础与配套设施,使得接待能力大幅提升。1990 年和1995年,分别完成两次能源结构调整，电能占能源消费总量的比例达 $8 5 \%$ 以上。污水处理站的陆续投入使用,及固体垃圾的环保化处理,也有效降低了旅游废弃物对生态环境的影响。
+
+成熟高效阶段(1999—2012年)：综合效率、技术效率和规模效率平均水平分别为0.914、0.966 和0.947,规模效率与技术效率共同促使生态效率保持在高位。1999年,组建“黄山旅游集团”,并以黄山旅游发展股份有限公司为骨干企业(包含管委会所属企业),实行规模化、集团化经营,使得资源要素投入规模、配置水平、管理经营水平及旅游收人均大幅提升。坚持“保护当头、生态优先”的理念,建设绿色景区,旅游生态效率系统渐趋成熟。
+
+下行风险阶段(2013—2014年)：综合效率、技术效率和规模效率年均水平分别为0.55、0.565和0.965,综合效率下行的根源在于技术效率下降,表明黄山风景区经过规模报酬递增-不变-递减阶段后,生态效率系统的投入规模已逐渐与资源消化能力及环境吸纳能力相平衡，进一步验证了在规模报酬趋向递减的阶段,需审慎使用以扩大资源投入规模为手段追求生态效率的做法,调控和优化现有资源结构,提升技术效率,成为提升生态效率的主要途径。
+
+![](images/e4f7d079abcd888625d6dc20a61654c4896054fdc080344c2bf67b3e66e1efd8.jpg)  
+图2黄山风景区旅游生态效率演进阶段  
+Fig.2Tourism eco-efficiency evolution stage of Huangshan Scenic Area
+
+# 3黄山风景区旅游生态效率的影响因素
+
+影响区域生态效率的主要因素有规模效应、结构效应、技术效应、资本效应、环境政策与管制因素等[36-38]。本文使用Tobit 截取回归模型,验证旅游发展水平、产业结构、技术水平、投资水平和环保规制5个因素对旅游生态效率的影响。模型自变量选取人均旅游收入（ATR）、酒店业收入占风景区旅游总收入比例（HR）万元旅游收入能耗（RE）、万元旅游收入新增固定资产投资额（FAI)和污水达标排放率(LWP）,因变量为综合效率(TE）、技术效率(PTE)和规模效率(SE）,数据截取1998—2014 年的时间序列数据。为避免数据量纲不同对参数估计造成的非平稳性问题,对各影响因素进行标准化处理(取自然对数),最大程度保留时间序列数据的特征。根据上述控制变量，模型(3)修正为：
+
+$E E _ { i } = a _ { 0 } + b _ { 1 } \mathrm { l n } ( \mathrm { A T R } _ { i } ) ~ + b _ { 2 } \mathrm { l n } ( H R _ { i } ) ~ + b _ { 3 } \mathrm { l n } ( R E _ { i } ) ~ + b _ { 4 } \mathrm { l n } ( \mathrm { F A I } _ { i } ) ~ + b _ { 5 } \mathrm { l n } ( \mathrm { L W P } _ { i } ) ~ + u _ { i }$ （204号 (4)式中,EE第 $i$ 年旅游生态效率 $\left( T E , \mathrm { P T E } , S E \right)$ $\mathrm { l n } ( \mathrm { \ A T R } _ { i } ) \mathrm { \Omega } \mathrm { { l n } \ ( \it H R } _ { i } ) \mathrm { \Omega } _ { \mathrm { { l n } } } ( R E _ { i } ) \mathrm { \Omega } _ { \mathrm { { l n } } } ( \mathrm { \ F A I } _ { i } )$ 和 $\ln ( \mathrm { L W P } _ { i } )$ 分别为第 $i$ 年 ATR、HR、RE、FAI和LWP 的自然对数 $a _ { 0 } \ 、 b _ { 1 } 、 b _ { 2 } 、 b _ { 3 } 、 b _ { 4 } 、 b _ { 5 }$ 为待估计参数， $u _ { i }$ 为随机扰动项。
+
+使用时间序列数据进行Tobit回归分析前,为避免变量的伪回归问题,需进行多重共线性检验和单位根检验。结果显示,各变量间相关系数小于0.65,通过多重共线性检验，各变量均存在单位根,在进行一阶差分后满足平稳性要求。最后,利用Eviews7.0 对式(4)做Tobit回归分析(表4）。
+
+表4黄山旅游生态效率Tobit回归分析  
+Table 4Tobit regression analysis of Huangshan tourism Eco-efficiency   
+
+<html><body><table><tr><td rowspan="2">解释变量 Explanatory variables</td><td colspan="2">综合效率(TE) Technical efficiency</td><td colspan="2">纯技术效率(PTE) Pure technical efficiency</td><td colspan="2">规模效率(SE) Scale efficiency</td></tr><tr><td>系数 Coefficient</td><td>Z值 z-statistics</td><td>系数</td><td>Z值</td><td>系数</td><td>Z值</td></tr><tr><td>ln(ATR)</td><td>0.579698</td><td>3.602474 ***</td><td>Coefficient -0.267648</td><td>z-statistics -0.707685</td><td>Coefficient 0.767862</td><td>z-statistics 3.535267 ***</td></tr><tr><td>ln (HR)</td><td>0.676157</td><td>2.863268 ***</td><td>-0.007172</td><td>-0.014718</td><td>1.173087</td><td>3.949243 ***</td></tr><tr><td>ln(RE)</td><td>-1.756370</td><td>-3.858865 ***</td><td>-1.907192</td><td>-1.893577 *</td><td>-1.152685</td><td>-1.869824 *</td></tr><tr><td>ln(FAI)</td><td>-0.564441</td><td>-8.438301 ***</td><td>-0.244154</td><td>-1.790228 *</td><td>-0.516240</td><td>-6.007911 ***</td></tr><tr><td>ln(LWP)</td><td>-0.091847</td><td>-0.565686</td><td>-0.175323</td><td>-0.474729</td><td>0.258984</td><td>1.425224</td></tr><tr><td>常数 Contant</td><td>6.125623</td><td>2.162696 **</td><td>15.67007</td><td>2.356689 **</td><td>-2.176160</td><td>-0.556062</td></tr></table></body></html>
+
+\*、\*\*、\*\*\*分别表示在 $0 . 1 , 0 . 0 5 , 0 . 0 1$ 水平上显著
+
+Tobit回归结果显示：
+
+(1)旅游发展水平对生态效率的影响。以旅游地人均旅游收入ATR表征的旅游发展水平对综合效率、规模效率产生显著的正向影响,对纯技术效率产生负向影响,但未通过显著性检验。表4表明,ATR 每增加$1 \%$ ,综合效率、规模效率会分别提升 $0 . 5 8 \%$ ） $0 . 7 8 \%$ 。1998—2014 年,黄山风景区人均旅游收入从最低 295元增长到最高655元,旅游发展水平的提升能够带来规模效应,促进生态效率的提升,也符合生态效率期望产出最大化的内涵。
+
+(2)产业结构对生态效率的影响。以酒店业收入占景区旅游总收入的比例HR表征的产业结构对综合效率、规模效率产生显著的正向影响,对纯技术效率产生负向影响,但未通过显著性检验。旅游地产业结构所处的不同阶段对生态效率的影响不同,黄山风景区已由初期以“门票经济”为主的观光阶段,发展为当下的“旅游综合体"阶段,酒店业建设已具相当规模,有各类宾馆星级酒店15家,其中4星级酒店5家,3星级酒店 3家，床位数6576张。表4表明，HR每增加 $1 \%$ ,综合效率、规模效率会分别提升 $0 . 6 8 \% , 1 . 1 7 \%$ ，可见促进酒店业发展,增加过夜游客比例,发挥结构效应,能够提高旅游地生态效率。在未来在国家公园体制下,将山上酒店下迁,并适当放宽控制酒店规模的政策,利于提升生态效率。
+
+（3)技术水平对生态效率的影响。以万元旅游收入能耗指标RE表征的技术水平是负向指标,能耗越大，技术水平越低。1998—2014年，黄山风景区RE从117t标准煤下降到 $6 9 \mathrm { t }$ ,RE对生态效率产生显著的负向影响,每下降 $1 \%$ ,综合效率、纯技术效率和规模效率会分别提升 $1 . 7 6 \% 1 . 9 1 \% 1 . 1 5 \%$ 。可见,技术进步对提高旅游地生态效率的作用较大,未来应加大节能减排技术的应用,坚定实行绿色景区战略。
+
+(4)投资水平对生态效率的影响。以万元旅游收入新增固定资产投资额FAI表征的投资水平对生态效率产生显著的负向影响。FAI每提高 $1 \%$ ,综合效率、技术效率和规模效率分别下降 $0 . 5 6 \% . 0 . 2 4 \% . 0 . 5 1 \%$ ，可见,投资规模已逐渐与消化能力相平衡,未来需审慎使用以扩大投资规模为手段追求生态效率的做法,而应转向提高投资配置能力和利用效率。
+
+（5)环保规制对生态效率的影响。以景区污水达标排放率LWP 为表征的环保规制对生态效率的影响并不显著。1998—2014年，黄山风景区LWP从 $5 0 \%$ 增长到 $100 \%$ ,环境规制效果较好，但这种末端治理的污染管制方式对生态效率提升的作用并不明显,消耗大量资源,未来可采取节能减排措施,从源头上实现废弃物减量化。
+
+# 4结论与讨论
+
+本文采用时间序列的SBM-DEA模型方法,构建了旅游地生态效率测度模型及评价指标体系,并实证分析1981—2014 年黄山风景区的旅游生态效率演化特征和阶段,检验其影响因素,得出以下结论：(1)从总体特征来看,34年来,黄山风景区旅游生态效率(综合效率)不断提升,且具较大发展潜力,在分解效率中,技术
+
+http://www.ecologica.cn
+
+效率较高,规模效率次之,规模效率是决定生态效率整体水平的关键因素;(2)从演化阶段来看,经历了初期低效、快速成长、成熟高效和下行风险四个阶段,不同阶段效率的特征不同,主要影响因素也存在差异；（3）从规模报酬的变化规律来看,完成了由规模报酬递增-规模报酬不变-规模报酬递减的过渡,资源要素的投入冗余已经阻碍了生态效率的进一步提高,调控和优化资源结构,改善技术效率,成为现阶段提高生态效率的主要途径;(4)从影响因素来看,不同因素对旅游生态效率的影响方向和影响程度存在差异,旅游发展水平、产业结构和技术水平对旅游地生态效率产生显著的正向影响,投资水平对生态效率产生显著的负向影响,而以废弃物末端治理为表征的环保规制则生态效率的提升作用并不显著。
+
+从理论角度看,旅游地不同发展时期的资源投入规模、利用方式、经营管理及技术水平存在阶段性特征，其经济产出规模和环境影响效应也随之变化,进而影响旅游地生态效率的演进,使其呈现不同的阶段特征。从哲学联系的观点来看,旅游地发展阶段和水平是影响生态效率水平高低的根本原因,探索旅游地生态效率应该从宏观尺度上,立足于旅游地复杂系统演化规律的视角寻找理论依据,如旅游地生命周期理论,这一结论构成了本文的理论价值。未来应在完善旅游生态效率测度指标体系与模型的基础上，加强不同类型、不同发展阶段和地理背景下的旅游地对比研究,探讨一般特征和基本模式,寻求生态效率指标在生态安全、生态周期、生态伦理及可持续发展等问题上的应用。
+
+从实践角度看,以上结论对以黄山风景区为代表的山岳型风景区的旅游生态效率提升也具现实意义。一般而言,在发展初期，旅游地经济发展水平不高，资源要素投入规模是制约旅游地发展的主要要素，应尽可能扩大资源投入规模,迅速提高产出水平。在旅游地发展进入成熟阶段后,应逐渐控制并优化资本、能源、水资源等的投入规模及结构,改善技术能力和资源配置能力,摒弃过度依靠资源消耗和环境污染的粗放式发展模式,走精细化、可持续的发展道路。
+
+# 参考文献（References）:
+
+[1]Schaltegger S,Sturm A. Okologische Rationalitat.Die Unternehmung，1990,4：273-290.  
+[2]SchmidheinyS，WBCSDChangingCourse；AGlobalBusinessPerspeciveonDevelopmentandtheEnviromentCambridge，MassPress，1992.  
+[3] WBCSD.Eco-Eficiency:Leadership for Improved Economicand Environmental Performance.Geneva:WBCSD,1996：3-16.  
+[4]UNCeatitaldaalefcatteeveddfGeneva：United Nations Publication,2O03：29-30.  
+[5lidlu(4): 73-83.  
+[6]ZhuZY，WangK，ZhangBAplingnetworkdataenvelopmentanalysisodeltoquantifyteco-efcencyofproducts:Aasestudyofpesticides.Journal of Cleaner Production，2014,69：67-73.  
+[7]Robaina-AlvesMMoutioVMacedPewfrotieraproachoodeltho-efeyinEuropeancountrisJoalofleProduction，2015，103：562-573.  
+[8]HuppesG,IsikawaM.Aframeworkforquantifiedeco-ficiencyanalysis.JournalofIndustrialEcology,Oo5,9（4）：25-41.  
+[9] EgilmezG，KucukaratariOustaabilitesstUufactugctosAnocutpubdfroacJournal of Cleaner Production,2013,53：91-102.  
+[10] KielennivaNtiaJesgocaaedagtaialveJoultlManagement，2012，109：179-188.  
+[11]Campbellogers，eekJfntfetiatioaitorachalfroductivitalysis（）：213-221.  
+[12]RdeaerhenkDteatedialdocestofpctsdpralfIndustrial Ecology，2005,9（4）：105-116.  
+[13]VaneeeuistliJalc（：741- 755.  
+[14] Seppalaa,MelaeM,eIKoskelaS,TeunenJ,lueMR.Howanthecoffecyofegionbasuredndod
+
+Journal of Industrial Ecology，2005，9(4）：117-130.[15］李鹏，杨桂华，郑彪，张一群.基于温室气体排放的云南香格里拉旅游线路产品生态效率.生态学报，2008，28(5)：2207-2219.[16]关伟，许淑婷.中国能源生态效率的空间格局与空间效应.地理学报，2015，70(6)：980-992.[17］张晓娣.生态效率变动的产业及要素推动：基于投入产出和系统优化模型.自然资源学报，2015，30(5)：748-760.[18] 张海涛，王如松，胡聘，张云.煤矿固废资源化利用的生态效率与碳减排——以淮北市为例.生态学报，2011，,31（19)：5638-5645.[19］张子龙，鹿晨昱，陈兴鹏，薛冰.陇东黄土高原农业生态效率的时空演变分析——以庆阳市为例.地理科学,2014，34(4)：472-478.[20] 黄和平.基于生态效率的江西省循环经济发展模式.生态学报，2015，35(9)：2894-2901.[21］孙景荣，张捷，章锦河，钟士恩，马金海，张玉玲.中国城市酒店业效率的空间特征及优化对策.经济地理,2012，32（8）：155-159.[22］马晓龙，保继刚.基于DEA的中国国家级风景名胜区使用效率评价.地理研究，2009,28（3）：838-848.[23］马晓龙，金远亮.张家界城市旅游发展的效率特征与演进模式.旅游学刊，2015，30(2）：24-32.24]KyiaSalA.edetlodetdcsTourism Management，2011，32(3）：629-640.[25］章锦河.旅游废弃物生态影响评价——以九寨沟、黄山风景区为例.生态学报，2008，28(6)：2764-2773.[26]BridaJeidPuliaoursmdtrasportssteiotaiiroentsnalyisftecoicficyofableainSouth Tyrol. Journal of Transport Geography，2O14,36：1-11.[27］尹科，王如松，周传斌，梁菁.国内外生态效率核算方法及其应用研究述评.生态学报，2012，32（11)：3595-3605.[28]QuarigasiWalGfJVaJAEE，SpgerToogfosesngofecinlgistisoks.European Journal of Operational Research，2009,193（3）：670-682.［29］魏权龄.评价相对有效性的 DEA方法—运筹学的新领域.北京：中国人民大学出版社，1988.30]aroCaeireilTourism Research,2006,8(5）：367-379.[31］章锦河，张捷.旅游生态足迹模型及黄山市实证分析.地理学报，2004，59（5）：763-771.[32]FerngJJ.Towardascenarioanalysis framework forenergyfotprints.Ecological Economics,2O02,40(1）：53-69.[33］潘丹，应瑞瑶.中国农业生态效率评价方法与实证——基于非期望产出的 SBM模型分析.生态学报，2013，33（12)：3837-3845.[34]ToneK.cdsureitelotalisropaalOpratialach）[35]Tobin J.Estimation of relationships for limited dependent variables.Econometrica，1958,26(1）：24-36.［36］付丽娜，陈晓红，冷智花.基于超效率DEA 模型的城市群生态效率研究——以长株潭" $3 { + } 5 ^ { \prime }$ 城市群为例.中国人口·资源与环境，2013，23(4):169-175.[37]ZangB,JFanZY，YuanZWGeJco-efeevaluatioofidustrialysinina：AdataevelopeanalyisacEcological Economics，2008,68(1/2）：306-316.[38］罗能生，李佳佳，罗富政.中国城镇化进程与区域生态效率关系的实证研究.中国人口·资源与环境，2013,23（11）：53-60.

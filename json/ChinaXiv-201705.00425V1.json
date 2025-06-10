@@ -1,0 +1,467 @@
+[
+    {
+        "type": "text",
+        "text": "A high efficient method for introducing reactive amines onto carbon fiber surfaces using hexachlorocyclophosphazene as a new coupling agent ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Haibing Xu, Xiaoqing Zhang\\*, Dong Liu, Yan Chun, Xinyu Fan \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Instituteacedufuinsiteftealdd ZhongguanWestRoad,Zhenh,Ningbo315201,Zhejiang,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nCarbon fiber   \nGrafting   \nHexachlorocyclophosphazene   \nInterfacial adhesion ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To improve the interfacial properties of carbon fiber(CF)reinforced composites,an innovativeand simple functionalized strategy has been proposed by grafting $^ { 4 , 4 ^ { \\prime } }$ -oxydianiline(ODA) onto carbon fiber surface using hexachlorocyclophosphazene (HCCP) as a novel coupling agent at mild reaction conditions.The chemical composition of the CF surface was confirmed by X-ray photoelectron spectra (XPS).The surface topography and surface energy of CF were examined by atomic force microscope (AFM) and dynamic contact angle tests (DCA),respectively.The interfacial shear strength (IFSS)of CF reinforced composites was studied by microbond test.The tensile strength of CF was measured by single filament tensile test. After functionalization treatment,the grafted amine groups on the fiber surface enhanced the surface wettability of modified CFand formed strong chemical bonding between fiber and matrix,improving the interfacialadhesion strength of composites.The interfacial shear strength of modified CFreinforced composites increased by $7 1 . 2 \\%$ compared with that of desized CF.The interfacial enhancement mechanism was also discussed in detail.Moreover,the modified CF almost kept the original mechanical properties after functionalization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Carbon fibers(CF)reinforced composites with their favorable specific strength and specific stiffness are widely used in many cutting-edge fields,such as aerospace and automotive industries [1-4].However,the interfacial performance of carbon fiber reinforced composites is weak due to the poorwettability and adhesion strength between carbon fiberand matrix,which is caused bythe non-polar and inactive surfaces of carbon fibers.The poor interfacial properties of composites have a negative effect on overall mechanical properties[5-1O].Therefore,in the past decades,many research efforts have been made to increase the polarityand activity of carbon fibers,and thus improve the interfacial adhesion of the resulting composites.A variety of surface treatments of CF,such aselectrochemical method[11],plasma treatment [12,13], coating[14-17] and chemical grafting[18-24] have been successfully achieved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chemical grafting coupling agents is one of most effective strategies to introduce active groups onto carbon fiber surfaces, enhancing thewettabilityand reactivity,and finallyresultingin good interfacial properties of composites.Besides that,on the basis of these active amines,some nanoscaled carbon reinforcements (such as carbon nanotube and graphene oxide）can be introduced onto the fiber surface to prepare the hybrid reinforcements by chemical grafting [21-24]. Various diamines or polyamines,such as ethylene diamine[9,20,21],1,3-propodiamine [22]，1,4-cyclohexanediamine [23]and tetraethylenepentamine [18,19] are good candidates for coupling agents.In these proposed methods,forming amide is the key step.However,it is difficult for amines to react with carboxylic groups on the CF surfaces forming amide bonds under a mild condition [18,19]. The reaction condition is always harsh[18,19].The carboxyl groups have to previously convert into highly reactive acyl chlorides ina corrosive mediaand with a long reaction time [20,23].So these modification procedures arerather complicate.Recently,some peptide coupling reagents areutilized to activate the condensation between the amino and carboxylic groups [9,21,22]. Unfortunately, these peptide coupling reagentsare expensive.Moreover,the grafting densityof amines is not very high.On the one hand,those diamine coupling agents only have two amine groups in each molecule.On the other hand,only one part of the carboxyl groups (about $50 \\%$ )on the fiber surface can reactwith amine groups forming amide bonds[18].As detailed in above references,only one amine group is introduced onto the CF surface for each carboxyl group consumed during the grafting process [2O-23].Therefore, the quantity of amine groups grafted onto fiber surface is limited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nowadays many researchers have tried to develop novel coupling agents with multiple functional groups (such as octaglycidyldimethylsilyl POSS [9] and PAMAM dendrimer [8,24,25]) to improve the interfacial adhesion strength of composites by introducing more active groups on the CF surfaces.However,these methods are still directly or indirectly based on the formation of amide bond between the amine and carboxyl groups.Some issues in the amide formation step mentioned above cannot be avoided. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hexachlorocyclophosphazene(HCCP, $\\mathsf { N } _ { 3 } \\mathsf { P } _ { 3 } \\mathsf { C l } _ { 6 }$ )isakind of inorganic ring material containing alternating phosphorus and nitrogen atoms.HCCP has a robust heterocyclic ring with six remarkably active P-Cl groups that can react with many nucleophiles,such as amines[26-29],alcoholic groups [30-32],phenolic groups[33-35], giving rise to several differentclasses ofmultifunctional cyclophosphazenes.Their physical and chemical properties can easily be tailored via substitution with appropriate functional groups.This important feature enables HCCP to functionalize the surfaces of solid materials [36-40]. In our previous work [41],a layer of amine-capped cross-linked polyphosphazenes was grafted onto CF surfaces through in-situ polycondensation between HCCP and $^ { 4 , 4 ^ { \\prime } }$ 1 oxydianiline (ODA),introducinga great amount of active amines onto the fiber surfaces,and finally improving the interfacial shear strength of carbon fiber composites. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present work,we propose a simple,effcient and alternative surface treatment method to functionalize carbon fiber surfaces with plenty of active amines by grafting $^ { 4 , 4 ^ { \\prime } }$ -oxydianiline (ODA),using HcCP as a novel coupling agent,under mild reaction conditions.The functionalized fibers possess a layer of amines (at molecule level) linked to fiber surfaces,whichare more suitable to be further chemically reacted with resin matrix,thus forming a layer of interface with the same or similar composition of matrix, improving the wettability between fibers and resin matrix,and diminishing the defect at the interface.Being different from the previous chemical modification of CF surface [18-25], the present method is based on phenolic hydroxyl rather than carboxyl groups on the fiber surfaces.For our modification strategy,to be specific, first,the carbon fiber was oxidized with concentrated nitric acid in a shorter time to generate more free phenolic hydroxyl instead of carboxyl groups.Second,HCCP was grafted onto CF surfaces via the formation of strong ${ \\mathsf { C } } { \\mathsf { - O - P } }$ covalent bond between active P-Cl and phenolic hydroxyl groups.Finally, the rest of highly reactive P-Cl groups on CF surfaces were substituted by $^ { 4 , 4 ^ { \\prime } }$ -oxydianiline (ODA). So,it was expected that the quantity and density of amine groups on the functionalized CF would be much higher than that of the modified CF through the methods based on amide formation [18-25]. It was also expected to bring a new hope for the further improvement in interfacial adhesion property.The surface properties of functionalized carbon fibers were characterized by X-ray photoelectron spectroscopy (XPS),atomic force microscope (AFM) and dynamic contact angle tests (DCA).The tensile strength of carbon fiber was measured by single filament tensile test.The interfacial shear strength between carbon fiber and matrix was studied by microbond test. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1．Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "T700S carbon fibers(12K, $1 . 8 0 \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ ),withanaveragediame ter of $7 \\mu \\mathrm { m }$ ,waspurchased from Toray Industries,Inc.,Japan.The epoxy resin matrix AEP312Aand the curingagent AEP312B were purchased from Ningbo Ocean Chemical New Materials Technology Co.,Ltd. (Ningbo,China). AEP 312 A and AEP $3 1 2 \\mathrm { ~ B ~ }$ were used at a weight ratio of2:1. $^ { 4 , 4 ^ { \\prime } }$ -oxydianiline(ODA), tetrahydrofuran (THF) and triethylamine(TEA) werepurchased from Sinopharm Chemical Reagent Co.,Ltd (Shanghai, China). Anhydrous acetonitrilewas obtained from Aladdin Industrial Inc.，American.Hexachlorocyclophosphazene(HCCP)was purchased from Zibo Lanyin Chemical Co.Ltd.,China.Concentrated nitric acid $( 6 0 \\% )$ was purchased from Shanghai Chemical Factory,China.Anhydrous triethylamine(TEA) wasprepared by refluxingin the presence of phthalic anhydride and distilling under the protection of nitrogen. Anhydrous tetrahydrofuran was prepared by distillation from sodium/benzophenone under the protection of nitrogen. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Grafting procedure of carbon fibers ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The carbon fibers were extracted with acetone for $4 8 \\mathrm { h }$ to remove the sizing agent,and named CF.Then the desized fibers were oxidized in concentrated nitric acid $\\left( \\mathrm { H N O } _ { 3 } \\right)$ at $1 0 0 ^ { \\circ } \\mathsf C$ for $^ { 2 \\mathrm { h } }$ to introduce polar groups (such as hydroxyl and carboxyl groups). Subsequently,the oxidized fibers were taken out and washed several timeswithdeionizedwateruntil $\\mathsf { p H } \\sim 7$ and thendriedat $8 0 ^ { \\circ } C$ under vacuum,named CFO.The oxidized fibers were dipped into the uniform solution of $0 . 4 \\mathrm { g } \\mathrm { \\ H C C P }$ and $5 \\mathrm { m L }$ of triethylamine in $5 0 \\mathrm { m L }$ ofanhydrous acetonitrile,and were kept at $5 0 ^ { \\circ } \\mathsf C$ for $2 4 \\mathrm { h }$ obtaining the HCCP grafted fibers,named CFO-HCCP.CFO-HCCP fiberswere washed byanhydrous THF and acetonitrile for2cycles, respectively,and then kept stirring in anhydrous acetonitrile for $^ { 1 \\mathrm { h } }$ .And then CFO-HCCP fibers were immediately put into the uniform solution of $0 . 4 \\mathrm { g }$ ODA and $5 \\mathrm { m L }$ of TEA in $4 0 \\mathrm { m L }$ of anhydrous acetonitrile,reacting at $5 0 ^ { \\circ } C$ for $2 4 \\mathrm { h }$ ，obtaining the ODA functionalized carbon fibers,named CFO-HCCP-ODA.The functionalized fibers were washed by anhydrous THF and acetonitrile for 2 cycles,respectively,removing the ODA residue and byproduct triethylamine hydrochloride.All reactions were carried out undera drynitrogen atmosphere.The schematic of grafting procedures is illustrated in Fig. 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The chemical compositions ofcarbon fiber surfaces were studied by X-ray photoelectron spectroscopy(XPS) using a Axis Ultra XPS instrument (Shimadzu, Japan) equipped with a monochromatic Al Kαradiation $( 1 4 8 6 . 6 \\mathsf { e V } )$ .The binding energies were calibrated by referencing to C1s peak at $2 8 4 . 8 \\mathrm { e V }$ .The XPS CASA software was used for data analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The surface topographies of carbon fibers were observed by a DI Multimode $\\mathsf { v }$ scanning probe microscope(Dimension 3100V, Veeco,USA） using tapping mode at ambient condition. The surface roughness of carbon fiber $\\left( R _ { a } \\right)$ was obtained in an area of $4 \\mu \\mathrm { m } \\times 4 \\mu \\mathrm { m }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The surface wettability of carbon fibers were evaluated by a Dynamic Contact Angle Meter and Tensiometer (DCAT 21,DataPhysics,Germany).Referring to Song'swork[42],deionized water $( \\gamma = 7 2 . 8 \\mathrm { m N / m }$ $\\mathrm { m } , \\gamma ^ { d } = 2 1 . 8 \\mathrm { m N } / \\mathrm { m } , \\gamma ^ { p } = 5 1 . 0 \\mathrm { m N } / \\mathrm { m } \\mathrm { \\Omega }$ andethylene glycol $( \\gamma = 4 8 . 3 \\mathrm { m N / m } , \\gamma ^ { d } = 2 9 . 3 \\mathrm { m N / m }$ $\\gamma ^ { p } = 1 9 . 0 \\mathrm { m N / m } )$ were selected as testing liquids.The advancing contact angle $\\mathbf { \\eta } ^ { ( \\theta ) }$ was determined from the mass change during immersion of the fiber into testing liquids using Wilhelmy equation: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = \\frac { m g } { \\pi d _ { f } \\gamma _ { l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $d _ { f }$ is the fiber diameter, $g$ is the gravitational acceleration, and $\\gamma _ { l }$ is the surface energy of the test liquid. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9b4bea461b880fe8b886ac09b51f2940ca2b058c012a084a65e7f6685c2b20d.jpg",
+        "img_caption": [
+            "Fig.1.The schematic of grafting procedure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Byusing the measured contact angles and two testing liquids with known surface tension components,the dispersive and polar components of carbon fiber samples were calculated according to Owens-Wendt method as described in Eqs.(2)and (3). ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\gamma _ { l } \\left( 1 + \\cos \\theta \\right) = 2 \\sqrt { \\gamma _ { l } ^ { d } \\gamma _ { f } ^ { d } } + 2 \\sqrt { \\gamma _ { l } ^ { p } \\gamma _ { f } ^ { p } } } \\\\ & { \\gamma _ { f } = \\gamma _ { f } ^ { d } + \\gamma _ { f } ^ { p } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\gamma$ is the surface tension, $\\gamma ^ { d }$ is the dispersive component, $\\gamma ^ { p }$ is the polar component.The subscript land $f$ means the testing liquid and carbon fibers,respectively.Each measurement was repeated 5 times and the results were averaged. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The tensile strengths of carbon fibers were measured bya XQ-1 tensile testing machine(Dong Hua University,Shanghai, China) ata cross-head speed of $5 \\mathrm { { m m / m i n } }$ [43].The gauge length was $2 0 \\mathrm { m m }$ Atleast 3O filament samples were tested for each case,and the average value was taken as the test result. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The interfacial shear strength (IFSS) was adopted to quantify the interfacial property between carbon fibers and matrix [14]. The schematic of microbond test is illustrated in Fig.2.A carbon fiber monofilament was fastened to a paperboard with dimension of $2 6 \\mathrm { { m m } \\times 5 8 \\mathrm { { m m } } }$ using adhesive tape.Some resin microdroplets were applied to the monofilament usinga steel needle,obtaining the single fiber composites (see Fig.2a).The specimens were cured at $8 0 ^ { \\circ } C$ for $2 \\mathrm { h }$ and then $1 0 0 ^ { \\circ } \\mathsf C$ for $^ { 2 \\mathrm { h } }$ .Microbond tests were conducted employing the interfacial evaluation equipment (MODEL HM41o,Tohei Sanyon, Japan).The frame togetherwith fiberwas moved at a crosshead displacement rate of $1 . 0 \\mu \\mathrm { m } / s$ .The microdroplets with embedded fiber length around $8 0 . 0 \\mu \\mathrm { m }$ were chosen and debonded by fixture (see Fig.2b).More specifically,the chosen embedded fiber lengths were $7 8 . 1 \\pm 5 . 0 \\mu \\mathrm { m }$ $7 9 . 6 \\pm 5 . 7 \\mu \\mathrm { m }$ and ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$7 8 . 4 \\pm 4 . 4 \\mu \\mathrm { m }$ for CF, CFO and CFO-HCCP-ODA fibers,respectively. The debonding load was recorded by computer.The IFSS was calculated as the following equation [14]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau = \\frac { F _ { \\mathrm { m a x } } } { \\pi d _ { f } L _ { e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/71d80bf6eeb423f1b2f6609f704e57e7b19bf96a0e1848ef1b6dfb0fd92a054c.jpg",
+        "img_caption": [
+            "Fig.2.The schematic of single fiber microbond test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\tau$ is the interfacial shear strength, $F _ { \\mathrm { m a x } }$ is the maximum tensile force, $d _ { f }$ is the diameter of the carbon fiber,and $L _ { e }$ is the embedded length of the fiber.At least3O valid datawere collected for every group of specimens and then averaged. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The surface morphologies of the carbon fibers debonding from matrix were obtained employinga field emission scanning electron microscope (S-48oo,Hitachi, Japan),operatingat an accelerating voltage of $4 \\mathrm { k V } .$ The samples were sputter coated with Pt. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Resultanddiscussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Description of surface functionalization strategy ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The strategy devised for surface functionalization of carbon fibers is based on the exploitation of HCCP,which is utilized as a highly reactive and efficient coupling agent to bond carbon fibers and diamine compounds.In this study, $^ { 4 , 4 ^ { \\prime } }$ -oxydianiline(ODA)is chosen as a sample,which is widely used as curing agents in the composite material field.And a two-step procedure is employed to graft ODA onto fiber surface,as shown in Fig.1.In the first step, HCCP was fixed onto CFO surface through the reaction between the active P-Cl and hydroxyl groups instead of carboxyl groups, forming strong covalent ${ \\mathsf { C } } { \\mathsf { - O - P } }$ bonds.The chemical reactivity and quantity of active sites of carbon fiber can be remarkably enhanced. Because multiple P-Cl groups were introduced for each hydroxyl group consumed.In the second step, ODA molecules were grafted onto the carbon fiber surfaces through nucleophilic substitution reaction between amine groups of ODA and the P-Cl groups on the CFO-HCCP surfaces,obtaining CFO-HCCP-ODA fibers.In the two-step grafting process,aweaklyalkaline triethylamine(TEA) was used as catalyst to accelerate the reaction and trap byproduct HCl.It is expected that the wettabilityand interfacial adhesion strength between carbon fibers and matrix can be improved due to the abundant amine groups grafted on the fiber surfaces.Futhermore, these active amines have a potential to connect nanoscaled carbon reinforcements onto the fiber surfaces with higher density, thereby forming better multi-scale reinforcements.And in our lab, the research efforts are focusing on grafting graphene oxides onto CFO-HCCP-ODA surfaces now.In addition,the reaction conditions in the whole process are mild,which can prevent to reduce the original mechanical properties of carbon fibers. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Surface chemical compositions of carbon fibers ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this work, CF was prepared by soxhlet extraction with acetone to remove epoxy sizing from the commercial T7oo fibers.To verify the epoxy sizing removing by acetone,XPS survey scans were performed to detect the surface elemental compositions of T7oo and CF,and the results are shown in Supporting Information (Figs.S1 and S2,Tables S1 and S2).XPS results indicate that most of epoxy sizing on the fiber surface was cleaned byacetone.Though it is difficult to remove the sizing completely by the mild method,the little residual sizing had no negative effect on the next modification and the final conclusion.Because the little residual sizing,ora thin layer of the weakly bonded materials on the fiber surfaces can be further cleaned by concentrated nitric acid in the oxidation treatment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To verify the chemical reaction of the grafting procedures,XPS survey scans were performed to detect the surface elemental compositions of carbon fibers,the results are summarized in Table 1 and shown in Fig.3.As shown in Fig.3a and b,in the XPS wide scan spectra of the desized fibers(CF)and oxidized fibers (CFO),three peaks centered around 284.8,532.1 and $4 0 0 . 0 \\mathrm { e V }$ can be observed, which are assigned to C1s,O1s,and N1s,respectively.The surface elements of CF is mainly composed of carbon,oxygen and insignificantamount of nitrogen.Afteroxidation treatmentwith ${ \\mathrm { H N O } } _ { 3 }$ ,the carbon content decreased from $8 3 . 6 \\%$ to $7 4 . 3 \\%$ ,and the oxygen contentincreased dramatically from $1 3 . 6 \\%$ to $2 2 . 1 \\%$ .Some of the carbon atoms on the fiber surface were converted to hydroxyland carboxyl groups [21].As presented in Fig.3c,after grafting HCCP and ODA, besides C1s,O1s and N1s peaks,two new peaks ofCl2p at $2 0 0 . 7 \\mathrm { e V }$ and $\\mathtt { P 2 p }$ at $1 3 4 . 1 \\mathrm { e V }$ are found in the surfaces of CFO-HCCP-ODA. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cbe5b8bdbc877cad7fe41fc2f98f693a13ee04426790d75a1170ffc591c7caec.jpg",
+        "table_caption": [
+            "Table 1 Surface element analysis of CF,CFO and CFO-HCCP-ODA. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td colspan=\"7\">Element content (at%)</td></tr><tr><td></td><td>C</td><td>0</td><td>N</td><td>P</td><td>Cl</td><td>N/P</td><td>Cl/P</td></tr><tr><td>CF</td><td>83.6</td><td>13.6</td><td>2.8</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>CFO</td><td>74.3</td><td>22.1</td><td>3.6</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>CFO-HCCP-ODA</td><td>61.6</td><td>27.6</td><td>8.1</td><td>2.1</td><td>0.6</td><td>3.9</td><td>0.3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/16a185e2ccf86f0318affba6f1fb21ec6fe7bf756b6b8063cafdacfe455368db.jpg",
+        "img_caption": [
+            "Fig.3.XPS wide scan spectra of(a) CF,(b) CFO and (c) CFO-HCCP-ODA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad0490e23cae980853d5a6f3cfe36eae3d1b606bbae58bd1dfe8669b76916bdb.jpg",
+        "table_caption": [
+            "Table 2 Component peaks and attributions of N 1s curve fitting for CF,CFO and CFO-HCCP-ODA. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>N peaks</td><td>Binding Energy (ev)</td><td>Attributions</td><td></td></tr><tr><td>CF</td><td>N1</td><td>400.5</td><td>Nitrogen heterocycles</td></tr><tr><td>CFO</td><td>N1</td><td>400.7</td><td>Nitrogen heterocycles</td></tr><tr><td></td><td>N2</td><td>405.6</td><td>Nitro group(—NO2）</td></tr><tr><td>CFO-HCCP-ODA</td><td>N1</td><td>398.1</td><td>Phosphazene ring (P—N=P)</td></tr><tr><td></td><td>N2</td><td>399.5</td><td>Free amines of ODA (Ph-NH2)</td></tr><tr><td></td><td>N3</td><td>401.7</td><td>Protonated N (N+)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compared with CFO,the carbon content decreased significantly to $6 1 . 6 \\%$ ,and the nitrogen contentincreased obviously to $8 . 1 \\%$ Inaddition,the new peak of phosphorus was detected with a content of $2 . 1 \\%$ .It isworth noting that surface atomic ${ \\mathsf { N } } / { \\mathsf { P } }$ ratio is 3.9.It is known that HCCP molecular only has a stoichiometric ${ \\mathsf { N } } / { \\mathsf { P } }$ ratio of 1.These findings imply that ODA was successfully grafted onto the fiber surfaces using HCCP as a coupling agent.Furthermore, in CFO-HCCP-ODA, the $\\textsf { P } 2 \\mathsf { p }$ peak at $1 3 4 . 1 \\mathrm { e V }$ slightly lowering than that of the pure HCCP ( $_ { 1 3 4 . 6 \\mathrm { e V } ) }$ [44] also demonstrates that nucleophilic substitution reactions between $\\sf { P - C l }$ groups and phenolic hydroxyl on the CFO surface or/and amines of ODA were realized successfully [4O]. Besides that, the presence of residual chlorines $( 0 . 6 \\% )$ suggests that P-Cl groups of HCCP were not substituted completely by ODA.It maybe due to the stereo-hindrance effect.Another possible reason for the presence of residual chlorines is that some byproduct HCl molecules were adsorbed on the fiber surfaces by the interactionwithNofHCCP or/and ODA,forming the protonated nitrogens $\\left( \\mathsf { N } ^ { + } \\right)$ [37]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Further information can be inferred by curve fitting of the N1s spectra in Fig.4.In the N1s curve fitting of CF(see Fig.4a), the only component centered at $4 0 0 . 5 \\mathrm { e V }$ isassigned to some nitrogen heterocycles originated from poly(acrylonitrile),which is the original materials of carbon fibers [45-47]. In the N1s curve fitting of CFO (see Fig.4b),the major component N1 centered at $4 0 0 . 7 \\mathrm { e V }$ is also assigned to nitrogen heterocycles originated from poly(acrylonitrile).The minor component N2 located at $4 0 5 . 6 \\mathrm { e V }$ is attributed to the nitro group $\\scriptstyle ( - { \\mathsf { N O } } _ { 2 } )$ ),which was introduced during the oxidation treatment by nitric acid [46].In the case of CFO-HCCPODA(see Fig.4c),N1s peak was fitted to 3 curves (N1,N2 and N3) with binding energy at 398.1,399.5 and $4 0 1 . 7 \\mathrm { e V } ,$ ,respectively. N1(398.1 eV) is assigned to nitrogen of the phosphazene ring or chain $( \\mathsf { P { \\mathrm { - } } N { = } P } )$ [37-40,44,48]; while N2 $( 3 9 9 . 5 \\mathrm { e V } )$ isreasonably attributed to the free amine groups $( \\mathrm { P h } { \\mathrm { - N H } _ { 2 } } ) ,$ ofODA molecules grafted on the carbon fiber surfaces [29];N3 $( 4 0 1 . 7 \\mathrm { e V } )$ is due to protonated N $\\left( \\mathsf { N } ^ { + } \\right)$ [37,47],which was caused by the interaction with hydrochloric acid,a byproduct in the grafting process.The component peaks and attribution of N1s curve fitting for CF,CFO and CFO-HCCP-ODA fibersare summarized in Table 2.Based on the above XPS results,the conclusion can be draw that ODA was successfully grafted onto the carbon fiber surfacesusing HCCPasa bridging agent,and a great amountof free amines were introduced onto the carbon fiber surfaces.These free amines can help to enhance the polarityand activity of the carbon fiber surfaces,thus resulting in goodwettabilityand interfacialadhesion. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.Surface topographiesof carbon fibers ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The surface topographies of desized,oxidized and modified carbon fibers were investigated using atomic force microscope with tapping mode.As shown in Fig.5a and b, the surfaces of CF and CFO seem to be neat and smooth,with a roughness $\\left( R _ { a } \\right)$ of 6.1 and $5 . 4 \\mathrm { n m }$ ,respectively. Compared with the CF,the roughness $R _ { a }$ of CFO slightly decreased to $5 . 4 \\mathrm { n m }$ ,the similar phenomenon was reported in Refs.[41,47].The slight decrease may arise fromremoving the little residual polymer sizing or a thin layer of the weakly bonded materials at apparent surface of carbon fiber by oxidation in a short time.In the case of CFO-HCCP-ODA (see Fig.5c),after grafting HCCP and ODA molecules onto CFO,the surface became a bit rougher.With careful observation,a fewof convex protrusions could be found on the surface.The roughness $R _ { a }$ slightly increased to $6 . 9 \\mathrm { n m }$ .However,in general, there is no significant difference in roughness among CF,CFO and CFO-HCCP-ODA fibers.The roughness of these carbon fibersare relatively low.Because the T700s carbon fibers have a inherent smooth and neat surfaces without any detectable groove along the longitudinal direction of fiber,unlike T300 carbon fibers [42]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4256fa3e9acc9dfa3f2d157f299b858f4732b26cad82991c55ef95c9b30529b2.jpg",
+        "img_caption": [
+            "Fig.4.XPS curve fitting of N1s peak of(a) CF,(b) CFO and (c) CFO-HCCP-ODA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/de2d1ba09149e214ad2cfaa6410eef84f61243b01c1b6f463993a5921eea43d1.jpg",
+        "img_caption": [
+            "Fig.5.AFM topography images of (a) CF,(b) CFO and (c) CFO-HCCP-ODA "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "fibers decreased remarkably from $7 2 . 0 ^ { \\circ }$ to $5 8 . 7 \\mathrm { ^ { \\circ } }$ for water and from $7 2 . 3 ^ { \\circ }$ to $6 2 . 8 ^ { \\circ }$ for ethylene glycol. The surface energy increased to $5 4 . 8 \\mathrm { m N / m }$ ，with a dispersive component of $0 . 3 \\mathrm { m N / m }$ and an enhanced polar component of $5 4 . 5 \\mathrm { m N / m }$ .Compared with CFO,the contact angles of CFO-HCCP-ODA increased slightly from $5 8 . 7 ^ { \\circ }$ （204号 to $5 9 . 6 ^ { \\circ }$ forwater,and decreased slightly from $6 2 . 8 ^ { \\circ }$ to $5 9 . 6 ^ { \\circ }$ for ethylene glycol.The surface energy was $4 9 . 4 \\mathrm { m N / m }$ ,witha dispersive component of $1 . 3 \\mathrm { m N / m }$ and a polar component of $4 8 . 1 \\mathrm { m N / m }$ From the results,it can be found that the dispersive components of CF, CFO and CFO-HCCP-ODA fibers Were all low,and there was no remarkable difference among them.The phenomenon is attributed to the intrinsic low roughness of T7ooS carbon fibers,which has been verified by AFM analysis above.The findings suggest that the obvious changes in surface energy of CF,CFO and CFO-HCCP-ODA are mainly due to the polar components.After oxidation treatment, the surface wettability of CFO increased dramatically.The introduced polar groups(such as carboxyl and hydroxyl groups) areresponsible for the improvement of surface energy,especially its polar component.While after the further functionalization with HCCP and ODA,the surface energy and its polar component of CFO-HCCP-ODA slightly decreased.Theoretically, the polar amine groups could help to improve the polar component of surface energy.However,in the ODA molecule,the benzene ring segment is non-polar and its size is much bigger than amine groups.The characters make the ODA molecule weak-polar.And indeed, ODA is insoluble in water.In short,the ability of amine groups in enhancing the polar component of surface energy is weakened by non-polar benzene ring.On the other hand,the decrease of surface energy of CFO-HCCP-ODA compared with that of CFO may be caused by the stereo-hindrance effect.The molecular size of HCCP and ODAare much bigger than carboxyl and hydroxyl groups.Part of carboxyl and unreacted hydroxyl groups are covered and stopped from contacting with the testing liquids.Overall,in comparison with CFO, surface energy of CFO-HCCP-ODA had a slight decrease.However, compared with CF,surface energy of CFO-HCCP-ODA still had a dramatic increase,and the surface wettability of carbon fibers was enhanced significantly. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.Dynamic contact angle and surface energy analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The performance of carbon fiber reinforced composite is related to the surface wettability of carbon fiber.Poor wettability usuallyresults ina weak interfacial strength.Functionalization with HCCP and ODA on the fiber surface was expected to change the surface wettability of carbon fiber,which was evaluated by the contact angle $\\mathbf { \\eta } ( \\theta )$ and surface energy $( \\gamma )$ .Deionized water and ethylene glycol,whose surface tension components were known, were used as testing liquids to measure the contact angle between testing liquids and single fibers.Surface energy $( \\gamma )$ is composed of two components,polar component $( \\gamma ^ { p } )$ and dispersive component $( \\gamma ^ { d } )$ ,which can be easily determined by solving the Eqs. (2)and (3).The results are summarized in Table 3.As shown in Table 3,the surface energy of desized fiber(CF) was $3 7 . 6 \\mathrm { m N } / \\mathrm { m }$ with a dispersive component of $0 . 9 \\mathrm { m N / m }$ and a polar component of $3 6 . 7 \\mathrm { m N / m }$ .After oxidation with ${ \\mathrm { H N O } } _ { 3 }$ ,the contact angles of CFO ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5.Tensile strength of single carbon fiber ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the present strategy,based on the hydroxyl groups of carbon fibers,the efficient grafting was achieved through an effortless process under mild conditions.A tensile testing machine was employed to evaluate the mechanical property,and a negligible change in tensile strength was observed(see Supporting information,Fig.S3).Tensile strength of CF,CFO and CFO-HCCP-ODA were 4.80,4.69 and $4 . 7 5 \\mathsf { G P a }$ ,respectively. Compared with CF,the single fiber tensile strength of CFO and CFO-HCCP-ODA had a insignificant decrease of $2 . 3 \\%$ and $1 . 0 \\%$ ,respectively.The results indicate that the modified carbon fibers almost kept the original mechanical propertiesafter functionalization with several steps.Itis mainly due to the mild reaction conditions.Futhermore,it is notable that compared with CFO,the tensile strength of CFO-HCCP-ODA increasedslightly from4.69 to 4.75 GPa,by $1 . 3 \\%$ Theresult implies that grafting ODA onto the fiber surface,using HCCP as coupling agent,has a potential to protect the fibers from the defects caused from oxidation treatment by $\\mathsf { H N O } _ { 3 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/024506ed5ec8f752603ad188b2f5fc4d25ca31c2851fe5c6e206d059e6721a66.jpg",
+        "table_caption": [
+            "Table 3 Dynamic contact angles and surface energies of CF,CFO and CFO-HCCP-ODA. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Sample</td><td colspan=\"2\">Contact angle 0 ()</td><td rowspan=\"2\">2d (mN/m)</td><td rowspan=\"2\">2P (mN/m)</td><td rowspan=\"2\">(mN/m)</td></tr><tr><td>Water</td><td>Ethylene glycol</td></tr><tr><td>CF</td><td>72.0 ± 5.3</td><td>72.3 ± 6.0</td><td>0.9</td><td>36.7</td><td>37.6</td></tr><tr><td>CFO</td><td>58.7 ± 5.1</td><td>62.8 ± 3.4</td><td>0.3</td><td>54.5</td><td>54.8</td></tr><tr><td>CFO-HCCP-ODA</td><td>59.6 ± 1.4</td><td>59.6 ± 2.6</td><td>1.3</td><td>48.1</td><td>49.4</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.6.Interfacial propertiesofcarbonfiber/epoxycomposites ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Interfacial property is one of the most important performances for carbon fiber reinforced composites.The interfacial shear strengths(IFSS) of the composites were evaluated by microbond test.The results are showed in Fig.6.IFSS values of CF,CFO and CFO-HCCP-ODA reinforced composites were 47.5,56.6 and $8 1 . 3  { \\mathrm { M P a } }$ ,respectively.Compared with desized CF,CFO increased IFSS of the composites by $1 9 . 2 \\%$ ,and CFO-HCCP-ODA significantly increased IFSS of the composites by $7 1 . 2 \\%$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Generally,the mechanism of the improvement of interfacial shear strength is related to mechanical interlocking,surface wettability and chemical bonding between carbon fibers and matrix. While there is no obvious gap among the roughness of CF, CFO and ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecd70040a6887077013d1fbc1c74b6fa7da8d9c781a2b8f16ba4c67b86d2cf4b.jpg",
+        "img_caption": [
+            "Fig.7.Surface morphologies of debonded samples:(a)and(b)CF,(c)and(d) CFO,(e)and (f) CFO-HCCP-ODA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/79a58dd71b5b648804d6cedc7ca6517a8167e9743ec2e7b9396a4eac8090f6c0.jpg",
+        "img_caption": [
+            "Fig.6.IFSS results of the composites reinforced by CF,CFO and CFO-HCCP-ODA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CFO-HCCP-ODA.The roughness of CFO was even slightly lower than that of CF.And the roughness of CFO-HCCP-ODA was only slightly higher than those of CF and CFO.The results indicate that the mechanical interlocking interaction is not the main factor responsible for the improvement of IFSS in this study. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From the surface energy data in Table 3,it can be seen that the surface energies of CFO and CFO-HCCP-ODA are higher than that of desized CF,which are beneficial to improve the surface wettability between fibers and matrix,and diminish the defect at the interface of composites,and avoid forming an interface of weak cohesion.Thus,the increased surface wettability between fibersand matrixled to the enhancement of the interfacialadhesion strength.Moreover,as shown in Table 3,the surface energy and polar component of CFO-HCCP-ODA are slightly lower than their corresponding parameters of CFO.However，the IFSS of CFO-HCCP-ODA reinforced composite is obviously higher than that of CFO.The results suggest that the grafted ODA is responsible forthe dramatic improvement.In the CFO-HCCP-ODA reinforced composites,the grafted ODA can still work as a curing agent during the solidifying process.Namely, the grafted amine groups on the CFO-HCCP-ODA surface reacted with epoxy groups of matrix, forming strong chemical bonds between carbon fiber and matrix, which remarkably improved the interfacial adhesion strength of composites. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to verify the hypothesis,the surface morphologies of carbon fibers after debonding from matrix were examined by SEM.As shown in Fig.7a-d, the debonded surfaces of CF and CFO are almost clean and smooth.This phenomenon suggests that the matrix completely detached from the fiber surface.The dominant fracture mechanism of the desized CF reinforced composites is interfacial debonding,which is due to the weak adhesion between fibers and matrix.For CFO fibers,though undergoing the oxidation treatment,introducing the polar groups onto the surfaces, and improving the surface wettability,the interfacial adhesion is not very strong. Because the chemical interaction between epoxy groups of matrix and polar groups of CFO is still insignificant. The main interaction between the matrix and carbon fiber surfaces is just the improved physical adsorption.After oxidation treatment, the enhanced surface wettability brings about a better physical adsorption,which can increase the interfacial adhesion strength to a certain extent.In comparison,for CFO-HCCP-ODA reinforced composite,a remarkablydifferent fracture surface topography is shown in Fig.7e and f.An amount of resin adhering on the fiber surface can be observed on the fractograph (see Fig. 7f).These results manifest that the interfacial adhesion strength between CFO-HCCP-ODA and epoxy matrix was so strong that the matrix could not be detached from the fiber surface,and the interfacial fracture started from the matrix.The above results also imply that chemical bonding played a key role in improving the interfacial properties of CFO-HCCP-ODA reinforced composite system, besides the enhanced surface wettability between fiber and matrix. In other words,the strong chemical bonds were created by the reaction of amines and epoxy groups between fiber surfaces and matrix in the solidifying process.Grafting ODA onto the carbon fiber surfaces using HCCP as a coupling agent enhanced the interfacial adhesion strength of the composites indeed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the present study, $^ { 4 , 4 ^ { \\prime } }$ -oxydianiline(ODA)was successfully grafted onto carbon fiber surfaces using hexachlorocyclophosphazene (HCCP) as a distinctive coupling agent, through a two-step substitution reaction route.A great amount of amine groups were introduced on the modified carbon fiber surfaces,which obviously helped to improve the surface wettabilityand facilitated to form strong chemical interactions between carbon fiber and matrix. Thus,the interfacial shear strength of CFO-HCCP-ODA composites increased significantly by $7 1 . 2 \\%$ in comparison with that of desized CF composites.The interfacial fracture topographies of CFO-HCCP-ODA reinforced composites indicated that the strong chemical interactions played a dominant role in improving the interfacial properties.Moreover,the grafting reaction did not result ina significant change in tensile strength of carbon fibers.After functionalization with several steps,the modified carbon fibers almost kept the original mechanical properties. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by National Natural Science Foundation of China (51303193),National High Technology Research and Development Program of China (863 Program, No.2O12AA03A206)，Ningbo Natural Science Foundation （No. 2013A610021) and Ningbo Key Project (No.201401B1005019). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementary data ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data associated with this article can be found,in the online version,at http://dx.doi.org/10.1016/j.apsusc. 2014.08.124. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] M.C. Paiva,C.A. Bernardo,M. Nardinb,Mechanical, surface and interfacial characterisation of pitch and PAN-based carbon fiber， Carbon 38 (2000) 1323-1337. [2] H.G. Chae, S. Kumar, Making strong fibers, Science 319 (2008) 908-909.   \n[3] S.Y. Kim,S.J. Baek,J.R. Youn,New hybrid method for simultaneous improvement of tensile and impact properties of carbon fiber reinforced composites, Carbon 49 (2011) 5329-5338.   \n[4] S.Chand，Review carbon fibers for composites,J. Mater. Sci.35(2000) 1303-1313.   \n[5] L. Yang, X.D. He,L. Mei, L.Y. Tong, R.G. Wang, Y.B. Li, Interfacial shear behavior of 3D composites reinforced with CNT-grafted carbon fibers, Composites: Part A 43 (2012) 1410-1418.   \n[6] J.D.H. Hughes, The carbon fiber/epoxy interface-a review, Compos. Sci. Technol. 41 (1991) 13-45.   \n[7] S.H. Deng, X.D. Zhou, C.J. Fan, Q.F.Lin, X.G. Zhou, Release of interfacial thermal stress and accompanying improvement of interfacial adhesion in carbon fiber reinforced epoxy resin composites: induced by diblock copolymers, Composites: Part A 43 (2012) 990-996.   \n[8] Q.Y. Peng, Y.B. Li, X.D. He, H.Z. Lv, P.G. Hu, Y.Y. Shang, C. Wang, R.G. Wang, T. Sritharan, S.Y. Du, Interfacial enhancement of carbon fiber composites by poly(amido amine) functionalization, Compos. Sci. Technol.74 (2013) 37-42.   \n[9] F. Zhao, Y.D. Huang, Grafting of polyhedral oligomeric silsesquioxanes on a carbon fiber surface: novel coupling agents for fiber/polymer matrix composites, J. Mater. Chem.21(2011)3695-3703.   \n[10] LG. Tang,J.L. Kardos,A review of methods for improving the interfacial adhesion between carbon fiber and polymer matrix, Polym. Compos.18(1997) 100-113.   \n[11] X. Qian, X.F. Xue, Q. OuYang, Y.S. Chen, Q. Yan, Effect of ammonium-salt solutions on the surface properties of carbon fibers in electrochemical anodic oxidation, Appl. Surf. Sci. 259 (2012) 238-244.   \n[12]A. Bismarck, M.E. Kumru, J. Springer, Influence of oxygen plasma treatment of PAN-based carbon fibers on their electrokinetic and wetting properties, J. Colloid Interface Sci. 210 (1999) 60-72.   \n[13] M.A. Montes-Morán, F.W.J. Hattum, J.P. Nunes, A. Martinez-Alonso, J.M.D. Tascón, C.A. Bernardo,A study of the effect of plasma treatment on the interfacial properties of carbon fiber-thermoplastic composites, Carbon 43 (2005) 1795-1799.   \n[14] X.Q. Zhang, X.Y.Fan, C. Yan,H.Z. Li, Y.D. Zhu, X.T. Li, L.P.Yu, Interfacial microstructure and properties of carbon fiber composites modified with graphene oxide, ACS Appl. Mater. Interfaces 4(2012) 1543-1552.   \n[15] M. Li, Y.Z. Gu, Y.N. Liu, Y.X. Li, Z.G. Zhang, Interfacial improvement of carbon fiber/epoxy composites using a simple process for depositing commercially functionalized carbon nanotubes on the fibers, Carbon 52 (2013) 109-121.   \n[16] J.H.Guo, C.X.Lu,F.An,S.Q. He,Preparation and characterization of carbon nanotubes/carbon fiber hybrid material by ultrasonically assisted electrophoretic deposition, Mater. Lett. 66 (2012) 382-384.   \n[17] $\\scriptstyle { \\mathrm { Q } } .$ An,A.N. Rider,E.T. Thostenson, Electrophoretic deposition of carbon nanotubes onto carbon-fiber fabric for production of carbon/epoxy composites with improved mechanical properties, Carbon 50 (2012) 4130-4143.   \n[18] C.U. Pittman Jr., G.R. He, B. Wu, S.D. Gardner, Chemical modification of carbon fiber surfaces by nitric acid oxidation followed by reaction with tetraethylenepentamine, Carbon 35 (1997) 317-331.   \n[19] C.U. Pittman Jr.,Z. Wu, W.Jiang, G.R. He, B. Wu, W. Li,S.D. Gardner, Reactivities of amine functions grafted to carbon fiber surfaces by tetraethylenepentamine. Designing interfacial bonding, Carbon 35 (1997) 929-943.   \n[20] F.Zhao, Y.D.Huang,Improved interfacial properties of carbon fiber/epoxy composites through grafting polyhedral oligomeric silsesquioxane on the carbon fiber surface,Mater.Lett. 64(2010) 2742-2744.   \n[21] F. Zhao, Y.D. Huang, Preparation and properties of polyhedral oligomeric silsesquioxane and carbon nanotube grafted carbon fiber hierarchical reinforcing structure,J. Mater. Chem. 21 (2011) 2867-2870.   \n[22] Y.X. Li, Y.B. Li, Y.J. Ding, Q.Y. Peng, C. Wang, R.G. Wang, T. Sritharan, X.D. He, S.Y. Du,Tuning the interfacial property of hierarchical composites by changing the grafting density of carbon nanotube using 1,3-propodiamine, Compos. Sci. Technol. 85 (2013)36-42.   \n[23] X.D.He,F.H.Zhang, R.G.Wang,W.B.Liu,Preparation of carbon nanotube/carbon fiber multi-scale reinforcement by grafting multi-walled carbon nanotubes onto the fibers, Carbon 45 (2007) 2559-2563.   \n[24] Y.B. Li, Q.Y. Peng, X.D. He, P.A. Hu, C. Wang, Y.Y. Shang, R.G. Wang, W.C. Jiao, H.Z. Lv, Synthesis and characterization of a new hierarchical reinforcement by chemically grafting graphene oxide onto carbon fibers,J. Mater. Chem. 22 (2012) 18748-18752.   \n[25] Q.Y. Peng, X.D. He, Y.B. Li, C. Wang, R.G. Wang, P.A. Hu, Y.D. Yan, T. Sritharan, Chemically and uniformly grafting carbon nanotubes onto carbon fibers by poly(amide amine) for enhancing interfacial strength in carbon fiber composites,J.Mater. Chem.22 (2012) 5928-5931.   \n[26] i. Un, H. bisoglu, A. Kilic, \\$. Sahin Un, F. Yuksel, Nucleophilic substitution reactions of adamantane derivatives with cyclophosphazenes, Inorg. Chim. Acta 387 (2012) 226-233.   \n[27] A. Uslu, \\$. Sahin Un, A. Kilic, \\$. Yilmaz, F. Yuksel, F. Hacivelioglu, The synthesis and characterization of 4-isopropylanilino derivatives of cyclotriphosphazene, Inorg. Chim. Acta 405 (2013) 140-146.   \n[28] G.Y. Ciftci, E.T. Ecik, T. Yildirim, K. Bilgin, E. \\$enkuytu, F. Yuksel, Y. Uludag, A. Kilic, Synthesis and characterization of new cyclotriphosphazene compounds, Tetrahedron 69 (2013)1454-1461.   \n[29] P. Zhang, X.B. Huang, J.W. Fu, Y.W. Huang, X.Z. Tang, Fabrication of aminoterminated multiwalled carbon nanotubes via layer-by-layer self-assembly approach,Macromol. Mater. Eng. 295 (2010) 437-441.   \n[30] S. Besli, S.J. Coles, D.B. Davies, A.O. Erkovan, M.B. Hursthouse, A. Kilic, Singledouble- and triple-bridged derivatives of cyclotriphosphazenes with an octafluorohexane-1,6-diol, Polyhedron 28 (2009) 3593-3599.   \n[31] S. Besli, S.J. Coles, D. Davarcl, D.B. Davies, F. Yuksel, Effect of chain length on the formation of intramolecular and intermolecular products: Reaction of diols with cyclotriphosphazene,Polyhedron 30 (2011)329-339.   \n[32] K.Tao,J.Li,L. Xu,X.L. Zhao,L.X. Xue, X.Y.Fan, Q. Yan, A novel phosphazene cyclomatrix network polymer: Design, synthesis and application in flame retardant polylactide,Polym. Degrad. Stab.96 (2011) 1248-1254.   \n[33] X. Zhang, Y. Zhong, Z.P. Mao, The flame retardancy and thermal stability properties of poly(ethyleneterephthalate)/hexakis (4-nitrophenoxy） cyclotriphosphazene systems,Polym. Degrad. Stab.97 (2012)1504-1510.   \n[34] C.L. Bao, Y.Q. Guo, L. Song, Y.C. Kan, X.D. Qian, Y. Hu, In situ preparation of functionalized graphene oxide/epoxy nanocomposites with effective reinforcements,J. Mater. Chem.21 (2011) 13290-13298.   \n[35] L. Zhu, Y.Y. Xu, W.Z. Yuan,J.Y. Xi, X.B. Huang, X.Z. Tang, S.X. Zheng, One-pot synthesis of poly(cyclotriphosphazene-co-4,4'-sulfonyldiphenol) nanotubes via an in situ template approach, Adv. Mater.18 (2006) 2997-3000.   \n[36] H.R. Allcock, Polyphosphazene elastomers, gels,and other soft materials, Soft Matter8(2012) 7521-7532.   \n[37]R. Milani，M. Gleria,A. Sassi, R.D. Jaeger,A. Mazzah,L. Gengembre,M. Frere,C. Jama, Surface functionalization with phosphazenes, Part 3: Surface modification of plasma-treated polyethylene with fluorinated alcohols using chlorinated phosphazenes as coupling agents, Chem. Mater. 19 (2007) 4975-4981.   \n[38] R.D.Jaeger, A.Mazzah,L. Gengembre,M.Frere, C.Jama,R.Milani, R.Bertani,M. Gleria,Surface functionalization with phosphazenes.V.Surface modification of plasma-treated polyamide 6 with fluorinated alcohols and azobenzene derivatives through chlorinated phosphazene intermediates,J. Appl. Polym. Sci.108 (2008)3191-3199.   \n[39]R.Milani, M. Gleria,S. Gross,R.D. Jaeger, A. Mazzah,L. Gengembre,M. Frere, C. Jama, Surface functionalization with phosphazenes: Part 6.Modification of polyethylene-co-polyvinylalcohol copolymer surface plates with fluorinated alcohols and azobenzene derivatives using chlorinated phosphazenes as coupling agents,J. Inorg. Organomet. Polym. 18 (2008) 344-351.   \n[40] A.B. Boscoletto，M. Gleria，R. Milani,L. Meda，R. Bertani，Surface functionalization with phosphazene substrates-Part VII. Silicon-based materials functionalized with hexachlorocyclophosphazene， Surf. Interface Anal. 41 (2009)27-33.   \n[41] X.Q. Zhang, H.B. Xu, X.Y. Fan, Grafting of amine-capped cross-linked polyphosphazenes onto carbon fiber surfaces: a novel coupling agent for fiber reinforced composites,RSC Adv.4(2014) 12198-12205.   \n[42] W.Song, A.J. Gu, G.Z.Liang,L.Yuan, Effect of the surface roughness on interfacial properties of carbon fibers reinforced epoxy resin composites, Appl. Surf. Sci. 257 (2011) 4069-4074.   \n[43] J.W.Yao,W.D.Yu,D.Pan,Tensile strength and its variation of pan-based carbon fibers. III. Weak-link analysis,J. Appl. Polym. Sci. 110 (2008) 3778-3784.   \n[44] P.Vassileva, V. Krastev,L. Lakov, O. Peshev, XPS determination of the binding energies of phosphorus and nitrogen in phosphazenes,J. Mater. Sci. 39 (2004) 3201-3202.   \n[45] G.X. Zhang, S.H. Sun, D.Q. Yang, J-P. Dodelet, E. Sacher, The surface analytical characterization of carbon fibers functionalized by $\\mathrm { H _ { 2 } S O _ { 4 } / H N O _ { 3 } }$ treatment, Carbon 46 (2008) 196-205.   \n[46] M.Q. Tran,K.K.C.Ho,G. Kalinka,M.S.P. Shaffer,A. Bismarck, Carbon fiber reinforced poly(vinylidene fluoride): Impact of matrix modification on fiber/polymer adhesion, Compos.Sci. Technol. 68 (2008) 1766-1776.   \n[47] F. Vautard, P. Fioux, L. Vidal, J. Schultz, M. Nardin, B. Defoort, Influence of an oxidation of the carbon fiber surface on the adhesion strength in carbon fiberacrylate composites cured by electron beam, Int. J. Adhes. Adhes. 34 (2012) 93-106.   \n[48] A.V. Naumkin,I.O. Volkov,D.R. Tur, Effect of X-rays on the surface composition of polyphosphazene: X-ray photoelectron spectroscopic study, Polym.Sci., Ser. A Polym. Phys.51 (2009) 537-541. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

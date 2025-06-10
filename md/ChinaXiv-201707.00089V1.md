@@ -1,0 +1,184 @@
+# DOI:10.5846/stxb201602120273
+
+常兆丰,李亚,张剑挥,王强强,张德魁,唐进年,王祺,张慧文.新月形沙丘稳定性机理——以甘肃河西沙区为例.生态学报,2017,37（13)： 4375-4383.   
+Chang ZF,LiY,ZhangJH,WangQQ,ZhangDK,TangJN,WangQ,ZhangHWStabilitymechanismsofbarchansanddunes:acasestudinthe Hexi Desert in Gansu.Acta Ecologica Sinica,2017,37(13）:4375-4383.
+
+# 新月形沙丘稳定性机理
+
+以甘肃河西沙区为例
+
+# 常兆丰，李亚\*，张剑挥,王强强,张德魁,唐进年，王祺,张慧文
+
+甘肃省治沙研究所，兰州 730070
+
+摘要;新月形沙丘是一种重要的沙丘类型，一般存在于绿洲边缘。研究新月形沙丘的稳定性,对于揭示绿洲缘的风沙运动规律有重要学术价值,而到目前新月形沙丘的稳定性还是沙漠生态学领域中一个的尚未解决的科学问题。以河西沙区新月形沙丘为例,通过调查其分布环境、测定沙丘各部位风速和风蚀积沙等,分析了新月形沙丘顶部稳定机理。结果表明：1)甘肃河西沙区的新月形沙丘分布在沙漠边缘的下风向，一般为斑块状分布。分布区域为平坦的沙粘质或沙砾质滩地，丘间地较为开阔且具有明显的主风向。2)主风向(NW)过程是新月形沙丘顶点与沙脊线重合的过程,也是新月形沙丘前移和高度降低的过程;反主风向(SE)过程是新月形沙丘顶点与沙脊线分离的过程,也是新月形沙丘背风坡上部风蚀与沙丘增高的过程。3)新月形沙丘越高大,两翼越长、夹角越小。4)较为开阔的前后滩地是新月形沙丘及新月形沙丘链存在所必须的环境条件,相对单一的主风向是新月形沙丘及新月形沙丘链维持其稳定性的关键因子,反向风及两翼的廊道效应是新月形沙丘增高增大的关键因子,主、反两个方向的风速及其分布频率是控制该区域新月形沙丘及新月形沙丘链高度的限制因子。
+
+关键词：新月型沙丘；顶部；稳定性；河西沙区
+
+# Stability mechanisms of barchan sand dunes: a case study in the Hexi Desert in Gansu
+
+CHANG Zhaofeng，LI Ya\*， ZHANG Jianhui，WANG Qiangqiang，ZHANG Dekui， TANG Jinnian，WANG Qi,  
+ZHANG Huiwen  
+Gansu Desert Control Research Institute,Lanzhou 73OO7O,China
+
+Abstract:Barchan sand dunes，which are distributed attheoasis fringe，arean important typeof dune.The study of the mechanismof stabilityof barchansanddunes isof greatimportancetothedeterminationoftheregulationof aeolian-sand movementat the oasis fringe.However，thestability of barchan sand dunes remainsan unresolved scientific issue.This studytook the barchan dunesinthe Hexi Desert asacase study.The stability mechanism of the topof barchan dunes was analyzed.Theresultsshowedthat:（1）The barchan dunes in the Hexi Desert of Gansu Province were distributedas patches downwind from the desert fringe.Thedistributionareawas flatsandy-clayorsandy-gravelsoil.Thelowlandsamong the dunes were wide，with prominent prevailing winds.（2）The prevailing northwestern winds causedthetopof the dunes and thesand line tocoincide，and the dunes to move forwardand become lower.The southeastern winds（opposite to prevailing winds）caused the topofthedune to separate from the sand line,and theupperpartof theleward slope was wind-eroded andthe dunes were heightened.（3）The higher the barchan dune was，thelonger thetwo flanks were，and the smaller the angle was.（4）Thewideflatarea was vitaltotheformationofbarchansand barchans chains.Thelargelyprevailing wind wasthekeyfactorforthestabilityofthebarchansandbarchans chains.Theoppositewindandthecorridor efect between the two flanks were keyfactors enabling the barchans to growin size and height.The wind speed anddistributionfrequency of the prevailing and opposite winds were factors restraining the height of the barchan dunes and barchan dune chains.
+
+Key Words：barchan dunes；top；stability；the Hexi Desert
+
+金字塔沙丘是一种相对高大的沙丘类型[1-2],一般的研究认为,金字塔沙丘是由不少于三组以上的风力差别不大的风反复塑造形成的沙丘[3-4]。新月形沙丘也是一种相对较为高大的沙丘,在甘肃河西地区沙漠边缘存在大量新月形沙丘及新月形沙丘链。甘肃河西沙区一般都具有明显的主风向,一般不存在"三组以上风力差别不大的风”，即没有相反或其他方向大风的反复塑造过程,而这些高大新月形沙丘及新月形沙丘链为何能够稳定存在，其顶部不会被风蚀削平呢?
+
+新月形沙丘是一种主要的沙丘类型，一般存在于沙漠边缘,亦即绿洲边缘。虽然国内外有关新月形沙丘的研究报道不少,但主要集中在新月形沙丘的形态特征[5-8]、沙丘流场[911]和沙丘表面粒度[12-14]等方面,而对新月形沙丘的顶部的稳定性问题研究很少。
+
+要揭示新月形沙丘的稳定性机理,首先必须搞清楚其存在的环境条件,而与新月形沙丘分布环境较相关的研究亦很少,与之相近的研究主要是关于新月形沙丘的分布格局、规模和相互作用等。许振文等[15]对比分析了库母塔格沙漠、乌兰布和沙漠与河北昌黎黄金海岸和北戴河翡翠岛沿岸新月型沙丘的数量、规模、沙粒的粒度。Bishop[16]和Durán等[17]通过对摩洛哥沙漠的研究,认为新月形沙丘的分布经历一个自我调整的过程,且随着沙丘的移动和合并,其大小和丘间距将趋向于一致[18]。Hersen 等[7]的研究认为每一个沙地中新月形沙丘的大小及之间的距离是一致的,而且通过碰撞过程,沙丘越大其繁殖速度越快。Elbelrhiti 等[19]则认为较大的新月形沙丘通过两翼沙物质的损失形成了下一级的小的新月形沙丘,从而维持了新月形沙丘沙地的发展模式和沙丘大小的分布。在沙丘相互作用的过程中,新月形沙丘高度的分布不会改变[20-21]。
+
+气流是新月形沙丘形成的动力因子,因而也是新月形沙丘研究的重点[22]。Bourke[8]和杨岩岩[22]等人指出,新月形沙丘存在沙脊线与丘顶重合与分离两种情况,可能是由于风向的变化所致,当风向较为单一时,沙脊线与丘顶重合;当风向较多变时,沙脊线与丘顶分离,在野外其重合的情况较少。张春来等人研究[23]认为，沙丘迎风坡坡度变缓的部位沉积大于侵蚀,其它部位侵蚀大于沉积,其中丘顶输沙率和侵蚀强度最大。姚洪林等[24]通过对毛乌素沙地流动沙丘的观测研究指出,在临界起沙风速时沙丘顶部处于风蚀过程,而当风速逐渐增大时,沙丘顶部处于积沙过程。Belrhiti和Douady[25]认为新月形沙丘的两翼和最高点形成一个稳定的多边形，才使得其移动时保持形状不变。
+
+综上所述,到目前为止研究新月形沙丘顶部的稳定性是沙漠生态学领域中一个的尚未解决的科学问题。新月形沙丘是一种主要的沙丘类型。研究新月形沙丘的顶部稳定性,不仅对于揭示绿洲边缘的风沙运动规律、风沙流的入侵和沙漠的拓展等方面都有重要的学术价值,而且在防沙固沙工程的建设和沙区资源开发、生态环境保护等方面具有重要的现实意义。鉴于此,本文以甘肃河西绿洲边缘的新月形沙丘为例,从分布环境调查、流场观测和两翼特征分析等方面对新月形沙丘顶部稳定性作一初步分析,以资讨论。
+
+# 1研究区与观测研究方法
+
+研究区：甘肃河西地区是指境内黄河以西的武威、金昌、张掖、酒泉、嘉峪关5市,地理位置在 $9 2 ^ { \circ } 4 5 ^ { \prime }$ 一$1 0 4 ^ { \circ } 1 5 ^ { \prime } \mathrm { E } \ 、 3 6 ^ { \circ } 3 5 ^ { \prime } \overline { { - 4 2 ^ { \circ } 4 5 ^ { \prime } \mathrm { N } } }$ 之间。该区南侧为祁连山脉,东、北、西三面被腾格里沙漠、巴丹吉林沙漠和库姆塔格三大沙漠包围，境内有沙漠和零星沙地 $7 . 5 4 \times 1 0 ^ { 2 } \mathrm { k m } ^ { 2 }$ ,绿洲边缘存在大量的高大新月形沙丘及新月形沙丘链。民勤县地处腾格里沙漠的西部边缘，位于河西走廊东北侧,是甘肃河西沙区新月形沙丘和新月形沙丘
+
+![](images/3b8063e9e669fa6c0621e7a1d322413657b359b636bf9fdbbcd2c1f17e777334.jpg)  
+链分布最集中的沙区,新月形沙丘和新月形沙丘链多分布在绿洲NW 边缘即上风向沙漠边缘（图1)。  
+图1甘肃河西沙区新月形沙丘分布情况
+
+观测研究方法：在对甘肃河西绿洲边缘新月形沙丘及新月形沙丘链全面调查的基础上，选择典型新月形沙丘进行流场观测和风蚀积沙观测,即在民勤西沙窝（腾格里沙漠西部边缘)选择了2个高大新月形沙丘，在沙丘各关键部位设置了风速、风向自计观测记录仪（图2）。风速观测时间：1号沙丘为2014年4—9月份，观测初期沙丘高最点与沙脊线分离;2号沙丘为2015 年4—9月份，观测初期沙丘高最点与沙脊线重合。于风速观测的同时，在沙丘各关键部位设置了风蚀杆，测定各关键部分的风蚀深度和积沙厚度。并测定了观测沙丘四周的沙源状况和沙丘前后的植被状况。1)风速风向观测高度为距地面 $5 0 \mathrm { { c m } }$ ,每 $2 0 \mathrm { { m i n } }$ 采样1次,按每2m/s为一个风速级进行统计,观测的最大风速为 $1 4 . 9 \mathrm { m } / \mathrm { s } ; 2 \cdot$ 风蚀深度和积沙厚度观测采用8号钢丝一端埋入地下,沙面以上留 $3 0 \mathrm { c m }$ ,每次观测时量取地上高度。本文正向风系指当地的主风向 NW 风,反向风为 SE 风。不论是正向风过程还是反向风过程,迎风坡和背风坡均按习惯中常用的正向风定义,即当地主风向为 NW,本文中的NW坡则为迎风坡。顶点是指沙丘的最高点,弦长为两翼端点之间的距离,沙丘的长宽比为沙丘总长度与总宽度之比，弓背厚系指从迎风坡底部到背风坡底部的距离(图3)。气候资料采用当地气象站和中国气象科学数据共享服务网的资料。
+
+![](images/68ccc07c8fcce469f99fcf6b13df0b10ee364d7b29890548c3992867228ffde4.jpg)  
+Fig.1Distribution of barchan dune in Hexi desert area of Gansu   
+图2新月形沙丘观测样点图  
+Fig.2Observation sampling point of barchan dune
+
+数据分析：正向风按 $2 \mathrm { m / s }$ 为一个风速级统计,分为 $< 2 \mathrm { m / s }$ ， $\geqslant 2 - < 4 \mathrm { m / s }$ ， $\geqslant 4$ 一 ${ < } 6 \mathrm { m / s }$ ， $\geqslant 6$ -<8m/s,${ \geqslant } 8 \mathrm { m } / \mathrm { s } ~ 5$ 级;反向风的风速较小,故按 $1 \mathrm { m / s }$ 为一个风速级统计。风速数据分析运用 SPSS13.0软件完成。
+
+# 2结果分析
+
+# 2.1 新月形沙丘的分布环境
+
+新月形沙丘一般形成于较开阔的沙砾质或粘砾质滩地上。新月形沙丘的发育是从沙斑、沙堆开始的，即风沙流遇到障碍物(如灌丛、砾石等)后堆积，首先形成沙斑或饼状，之后在单一风向的作用下，逐渐过渡到盾形沙堆、雏形新月形沙丘[22]，进而发育为新月形沙丘。
+
+甘肃河西走廊沙区新月形沙丘以东段民勤绿洲边缘最多，其次是西段金塔绿洲边缘，走廊中段很少有新月形沙丘分布。新月形沙丘的基本特征是：沙丘平均高度 $8 . 1 \mathrm { m }$ ,最高 $1 1 . 6 \mathrm { m }$ ,最低 $3 . 6 \mathrm { m }$ ;弓背厚平均 $1 0 1 . 1 \mathrm { { m } }$ ,最厚 $1 5 5 . 7 \mathrm { m }$ ,最薄 $6 4 . 1 \mathrm { m }$ ;平均总长 $1 6 2 . 3 \mathrm { m }$ ,最长 $2 9 4 . 4 \mathrm { { m } }$ ，最短 $8 6 . 5 \mathrm { m }$ ;平均总宽 $1 8 8 . 9 \mathrm { { m } }$ ,最宽 $2 2 7 . 4 \mathrm { m }$ ，最窄57.3$\mathbf { m }$ ;背风坡坡度平均 $3 1 . 8 ^ { \circ }$ ,最徒 $3 2 . 9 ^ { \circ }$ ,最缓 $3 0 . 1 ^ { \circ }$ （表1）
+
+![](images/1d362fe6fa0a535e968e5fa12bca9c2316ad97656a1acf0e6870f838a14e5861.jpg)  
+图3新月形沙丘特征表述  
+Fig.3Feature representation of barchan dune
+
+表1甘肃河西沙区新月形沙丘的形态特征  
+Table1Morphological characteristics of barchan dune in Hexi desert area of Gansu   
+
+<html><body><table><tr><td>沙丘编号</td><td></td><td>H高度</td><td></td><td>L</td><td>总 //m</td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>民勤3-1</td><td>9.8</td><td>123.3</td><td>214.6</td><td>202.5</td><td>32.6</td><td>N48°W</td><td>662.9</td><td>378.0</td></tr><tr><td>2</td><td>民勤3-2</td><td>11.2</td><td>155.7</td><td>294.4</td><td>227.4</td><td>32.2</td><td>N48°W</td><td>163.3</td><td>491.6</td></tr><tr><td>3</td><td>民勤3-3</td><td>9.5</td><td>120.5</td><td>197.5</td><td>209.8</td><td>32.1</td><td>N48°W</td><td>134.2</td><td>176.6</td></tr><tr><td>4</td><td>民勤小</td><td>3.7</td><td>78.7</td><td>86.5</td><td>81.8</td><td>31.8</td><td>N48°W</td><td>251.8</td><td>367.8</td></tr><tr><td>5</td><td>民勤9</td><td>7.9</td><td>90.8</td><td>112.5</td><td>81.5</td><td>32.9</td><td>N45°W</td><td>214.3</td><td>253.3</td></tr><tr><td>6</td><td>民勤10</td><td>7.6</td><td>86.7</td><td>136.8</td><td>64.7</td><td>31.5</td><td>N46°W</td><td>137.9</td><td>430.1</td></tr><tr><td>7</td><td>民勤11</td><td>11.6</td><td>104.4</td><td>183.6</td><td>57.3</td><td>31.6</td><td>N46°W</td><td>179.7</td><td>243.1</td></tr><tr><td>8</td><td>民勤12</td><td>8.6</td><td>64.1</td><td>131.4</td><td>77.9</td><td>30.1</td><td>N46°W</td><td>135.2</td><td>697.3</td></tr><tr><td>9</td><td>金昌1</td><td>8.4</td><td>130.3</td><td>197.6</td><td>123.2</td><td>31.7</td><td>N55°W</td><td>227.4</td><td>372.1</td></tr><tr><td>10</td><td>金塔1</td><td>6</td><td>83.7</td><td>125.3</td><td>104.8</td><td>31.5</td><td>N63°W</td><td>250.4</td><td>129.5</td></tr><tr><td>11</td><td>金塔2</td><td>5.3</td><td>73.5</td><td>104.8</td><td>76.6</td><td>31.7</td><td>N63°W</td><td>108.2</td><td>419.8</td></tr></table></body></html>
+
+新月形沙丘的分布环境特征:1)位于沙漠或零星沙地的下风向边缘,即绿洲上风向边缘,如民勤沙区的新月形沙丘位于民勤西沙窝绿洲上风向边缘,金昌沙区的新月形沙丘位于金昌北部沙漠绿洲边缘,金塔沙区的新月形位于金塔绿洲西侧零星沙漠边缘(图1);2)凡是有新月形沙丘存在的区域均有新月形沙丘链;3）新月形沙丘前后均有较为开阔的平坦沙砾质滩地或粘砾质滩地,上风向滩地平均宽 $2 2 4 . 1 \mathrm { { m } }$ ,最宽 $6 6 2 . 9 \mathrm { { m } }$ ，下风向滩地平均宽 $3 5 9 . 9 \mathrm { { m } }$ ,最宽 $6 9 7 . 3 \mathrm { m } ; 4 )$ 具有单一的主风向,如民勤、金昌沙区的主风向为 NW,金塔沙区的主风向为NW 和WNW,沙丘走向从民勤沙区的 $\mathrm { N } 4 5 ^ { \circ } \mathrm { W } \mathrm { - } \mathrm { N } 4 8 ^ { \circ } \mathrm { W }$ 到金塔沙区的 $\mathrm { N } 6 3 ^ { \circ } \mathrm { W } ; 5 )$ 均为流动沙丘,即沙丘迎风坡及背风坡几乎无植被,沙丘前后滩地植被稀疏,植被盖度 $0 . 5 \%$ 一 $4 . 0 \%$ 。
+
+# 2.2 正反两种风向过程
+
+# 2.2.1主风向的沙丘前移、沙丘顶点降低及其与沙脊线的重合过程
+
+民勤沙区主风向为NW,新月形沙丘走向为NW—SE,当地起沙风速为4.5- $- 5 . 0 \mathrm { m } / \mathrm { s } ^ { [ 2 6 ] }$ 。1号新月形沙丘观测前沙丘最高点与沙脊线分离。风速观测结果表明,当上风向参照点风速 ${ \geqslant } 8 \ \mathrm { m / s }$ 时，沙丘最高点与沙脊线之间的风速小于上风向对照点风速,即在沙丘最高点与沙脊线之间存在一个弱风区（图4a);2号沙丘沙脊线与沙丘最高点重合时,风速在沙丘顶部最大（图4b）。
+
+2014年3月31日—5月8日风蚀测定结果表明,在主风向(NW)风力作用下,沙丘迎风坡各部位均处于不同程度的风蚀过程,迎风坡底部风蚀深度 $6 . 7 \ \mathrm { c m }$ ,中部风蚀深度 $1 3 . 0 ~ \mathrm { c m }$ ,沙丘最高点与沙脊线之间风蚀深度 $1 6 . 8 ~ \mathrm { c m }$ ,沙丘西翼中部风蚀深度 $6 . 0 \ \mathrm { c m }$ ,西翼边缘风蚀深度 $0 . 0 \ \mathrm { c m }$ ,沙丘东翼中部风蚀深度 $1 1 . 0 \ \mathrm { c m }$ ,东翼边缘风蚀深度 $0 . 5 \ \mathrm { c m }$ ,亦即沙丘顶部风蚀最强烈，沙丘高度有所降低。
+
+每年春季新月形沙丘的最高点和沙脊线一般是分离的。当发生大风沙尘暴时,风沙流沿沙丘迎风坡上升,到达沙丘最高点后,载荷气流在惯性力的作用下,继续沿迎风坡面方向运行一段距离（图5a,b),而因沙丘最高点与沙脊线之间的高度低于沙丘最高点,在沙丘最高点与沙脊线之间存在一个弱风区。
+
+风沙流在越过沙丘最高点时,大量沙粒沉降(图5b),引起沙丘最高点前移,直到与沙脊线重合,之后再将大量沙粒降落到沙丘背风坡上部并向下自由滑落,沙丘前移（图5c),3月31日—5月8日,沙丘背风坡底部前移了 $1 . 3 4 \mathrm { ~ m ~ }$ 。
+
+![](images/66ce2ff2a805dbb53dc2e19e963e6763935d056ef7a580b1cb9c708fbb604a65.jpg)  
+Fig.4Change trends of wind speed in various parts of the dunes of main direction
+
+![](images/08a3777efdd1f05ca30b0a993872af133465fb2322f449e5755d547c216f189c.jpg)  
+图4新月形沙丘正风向风速变化  
+图5主风向过程示意图  
+Fig.5Schematic diagram of main wind direction process
+
+2.2.2反向风的沙丘顶点增高及其与沙脊线的分离过程
+
+上述可知,经过春季大风季节后,民勤沙区新月形沙丘的最高点与沙脊线重合,而到了夏季,当地一般会出现SE风,当风速达到起沙风速时,SE向(部分ESE及SSE向)起沙风将大量沙粒从背风坡吹起,越过沙脊线后继续沿背风坡方向上扬,风速越大上扬高度越高。由于背风坡较陡,加之沙粒较细,风沙流吹扬高度较高,风沙流中较粗的颗粒在沙丘迎风坡上部降落沉积,较细颗粒则飞扬到迎风坡下部甚至更远(图 6a,b)。
+
+如果夏季大于起沙风速的SE 风较多,一方面沙丘背风坡上部风蚀,坡度变缓,沙丘最高点与沙脊线分离并向迎风坡方向移动,另一方面沙丘高度增加（图6c）。如1号沙丘,2015年初较 2014年5月份沙丘最高点距离沙脊线 $8 . 3 \mathrm { ~ m ~ }$ ,沙丘高度增高了 $4 3 \ \mathrm { c m }$ ;而到2015年5月8日观测时，又一次完全重合。
+
+![](images/76a6986b9bdbbfdb9222ada706873b2ae702d281e2d66651abafc6b87fad464b.jpg)  
+Fig.6Schematic diagram of anti-main wind direction process
+
+图6反主风向过程示意图
+
+# 2.3 两翼的廊道作用
+
+# 2.3.1 反主风向的风速特征
+
+民勤沙区主风向NW(包括WNW、W)的风速较大,与此相反风向 SE（包括ESE、E)的风速较小（图7）。正因为如此,当地的新月形沙丘基本上都是NW—SE走向,亦即NW 是新月形沙丘的主风向,SE 是反向风向。表1中1号沙丘正向风(NW)的测定结果是:从上风向开阔地(1号测点)到沙丘迎风坡底部(2号测点)风速降低,从迎风坡底部到沙丘顶部(4号测点)风速增大,背风坡底部(5 号测点)风速最小,之后风速逐渐放大（图4a）。
+
+Fig.7Distribution of wind speed and wind direction in Minqin desert area from 2ooo to 2014
+
+1号沙丘反向风（SE)的测定结果(图8)与主风(NW)方向过程相反，主要表现在：1)在沙丘背风坡一侧,由远(8号测点)向近(6号测点)风速逐渐加大，到背风坡底部(5号测点)时风速变小。2)在沙丘背风坡一侧,反方向的风速由远向近的加速作用与风速大小正相关，如从8号测点到6号测点， $\geqslant 5 \mathrm { ~ m / s ~ }$ 的风增加了$0 . 4 1 7 ~ \mathrm { m / s } , \geq 4 - > 5 \mathrm { m / s }$ 的风增加了 $0 . 3 6 6 ~ \mathrm { m / s }$ ， $\geqslant 3$ 一${ > } 4 \mathrm { m } / \mathrm { s }$ 的风增加了 $0 . 2 7 2 \mathrm { \ m } / \mathrm { s } , \geqslant 2 \mathrm { - } > 3 \mathrm { m } / \mathrm { s }$ 的风增加了$0 . 2 6 8 ~ \mathrm { m / s } , \gtrsim 1 { \longrightarrow } 2 \mathrm { m / s }$ 的风只增加了 $0 . 0 3 1 \ \mathrm { m / s }$ 。3)不同风速变异最小的测点在迎风坡底部，不同风速变异最大的测点在沙丘顶部。主风向过程不同风速变异最小的测点在背风坡底部(5号测点），而不同风速变异最
+
+![](images/59fe56cb7de51bc32aeda752a097f8cb9072fcc12b69a939b463cf560e0e5c2c.jpg)  
+图7民勤沙区2000—2014年风速风向分布  
+图8新月形沙丘风向风速变化  
+Fig.8Change trends of wind speed in various parts of the dunes of opposite direction
+
+一风速≥5m/s 3m/s>风速 $\geq 2  { \mathrm { m / s } }$ 0—5m/s>风速≥4m/s \*2m/s>风速 $\geq 1  { \mathbf { m } } /  { \mathbf { s } }$ 一一4m/s>风速≥3m/s \*风速<1m/s(s/u)/pas pa 6543 02 G □一 米 菜个 ? 八 ? ? 个 来01 2 3 4 5 6 7 8测点Measuring points
+
+大的测点在迎风坡上风向平坦地(1号测点)。4)各风速平均,从迎风坡中部到迎风坡底部的风速减小幅度远远大于从沙丘顶部到迎风坡中部的风速减小幅度,而正向风过程各风速平均,从迎风坡底部到迎风坡中部的风速增大幅度与从迎风坡中部到沙丘顶部的风速增大幅度相当。
+
+# 2.3.2 反主风向的积沙特征
+
+表1中1号沙丘的风蚀测定结果表明,2014年5月8日与2014年3月31日相比,在主风向(NW)风力作用下，沙丘高度降低 $3 7 . 7 \mathrm { c m }$ ,迎风坡底部风蚀深度 $6 . 7 \ \mathrm { c m }$ ,中部风蚀深度 $1 3 . 0 ~ \mathrm { c m }$ ,沙丘西翼中部风蚀深度6.0cm,西翼边缘风蚀深度 $0 . 0 \ \mathrm { c m }$ ,沙丘东翼中部风蚀深度 $1 1 . 0 \ \mathrm { c m }$ ,东翼边缘风蚀深度 $0 . 5 ~ \mathrm { c m }$ ,亦即沙丘顶部风蚀最强烈。
+
+反风向过程之后（2015年9月21日)的测定结果表明,1号沙丘最高点距离沙脊线 $8 . 3 \mathrm { ~ m ~ }$ ,沙丘高度较2015 年5月22日增高了 $4 3 \ \mathrm { c m }$ 。
+
+# 3讨论
+
+(1)新月形沙丘及新月形沙丘链分布的最显著的环境特征有三：一是分布在沙砾质或粘砾质滩地上；二是地势平坦,更多的可能是古河床,沙丘与下垫面滩地的分异明显;三是沙丘上风向和沙丘下风向滩地比较开阔。在较为平坦开阔的下垫面上,风沙流运行流畅,一方面风沙流携带的沙粒沿新月形沙丘上升堆积增高增大,另一方面,大风沿沙丘两侧将沙粒向前推移则形成了新月形沙丘的两翼（也称兽角)[10]。河西走廊的新月形沙丘均分布在沙漠边缘的下风向,一般为斑块状分布,新月形沙丘上风向平坦沙砾质滩地或粘砾质滩地平均宽 $2 4 6 . 4 \mathrm { m }$ ,沙丘下风向平坦沙砾质滩地或粘砾质滩地平均宽374.4m。
+
+（2)一般来说,沙脊线与沙丘顶点的分离与重合一年交替一次,夏季多见的是重合,秋冬季多见的是分离。特殊年份SE 风速较小或在局部区域,有时则不出现分离;或者某年春季NW 风速较小时,则全年均为分离的情况。由于同样的原因,前述的沙丘最高点与沙脊线之间的弱风区也处于存在与消失的反复交替过程中。也由于如此,在一年当中,新月形沙丘的高度也存在起伏。新月形沙丘的顶点一般一年当中存在一次前进和后退的交替过程,前进和后退的幅度主要是由一年当中 NW 和 SE 的风速和频率差异决定的。而在此过程中,即使 SE方向的风速和频率都较大,只能吹蚀背风坡的上部从而使得沙丘背风坡变缓,而不能使得背风坡的基部后退,即背风坡的基部只有前进的过程而没有后退的过程。因而,新月形沙丘的前移应当以背风坡基部(图2测点5)为准。
+
+(3)从新月形沙丘各部位风蚀观测情况看,沙丘的顶部是最不稳定的,即始终处于前移—后退和增高—降低的动态过程中。NW风和SE 风季节性交替分布,维持着新月形沙丘的基本形状。新月形沙丘的稳定只是一种动态的稳定。由此可见，如果没有 SE 由于方向的起沙风,就不会出现新月形沙丘最高点与沙脊线分离的情况,沙丘的顶部就会相对稳定，沙丘前移速度就会更快。
+
+（4)有的研究认为从迎风坡下部到沙丘顶部,沙粒由粗变细[27-28],有的则认为相反[12,29]。其实这些观测都没有错,只是观测取样的季节不同,因而才得出了相反的结论。事实上,这也是NW风和SE 风季节性交替造成的,如在民勤沙区,作者于5月上旬观测的结果是从迎风坡下部到沙丘顶部中沙增多而细沙减少,而向两翼细沙为增多趋势。事实上,如果在春末夏初NW 风后期 SE大风来临之前观测,其结果基本都是这样,而在秋冬季观测时则可能出现相反的情况。
+
+(5)在民勤沙区,高大的新月形沙丘高度可达 $1 0 \mathrm { m }$ 以上(表1)，高度低于4— ${ \cdot } 5 \mathrm { m }$ 的即为正在发育过程中的小新月形沙丘。由沙斑、沙堆到盾形沙堆、雏形新月形沙丘,首先是从弓背厚度增加开始的[22]。风沙流遇到沙斑、沙堆等障碍物时,气流抬升或改变方向,风速降低,沙粒堆积。由于沙丘高度较低,迎风坡坡长较短，正向风在迎风坡的风力聚合加大作用小于高大新月形沙丘的,因而沙丘顶部和沙脊线一般不会重合。小新月形沙丘的弓背继续加厚,迎风坡坡长逐渐延长,沙丘增高增大。由于沙丘的增高,风沙流在背风坡出现反射涡流,渐渐地在背风坡出现落沙坡和沙脊线。随着两翼的形成和延长,反向风的作用增强,沙丘的增高加快。在特定的(风况)环境中,当正向风和反向风的堆积和吹蚀作用相当时,沙丘的高度趋于稳定。据笔者在民勤沙区观测,在反向风的风力和频率较高的年份沙丘增高,当反向风的大小和频率较低年份则沙丘高度反而降低。
+
+由于风速风向仪数量所限,1号沙丘和2号沙丘并不是同时观测的,但最大风速、迎风坡最低风速、背风坡最低风速的分布部位以及沙丘迎风坡的风速增大过程等都是相同的。
+
+# 4结论
+
+甘肃河西沙区的新月形沙丘及新月形沙丘链均均分布在沙漠边缘的下风向,一般为斑块状分布。分布区域为平坦的沙粘质或沙砾质滩地,丘间的较为开阔,且沙丘下风向滩地较上风向滩地更为开阔。新月形沙丘及新月形沙丘链的分布区都具有明显的主风向,其他方向的风速较小或偶尔有大风但频率较低。
+
+主风向(NW)过程是新月形沙丘最高点与沙脊线重合的过程,也是新月形沙丘前移和高度降低的过程；反主风向(SE)过程是新月形沙丘最高点与沙脊线分离的过程,也是新月形沙丘背风坡风蚀与沙丘增高的过程;由于当地以NW 过程为主,因而新月形沙丘沿NW—SE方向前移,SE 过程只能风蚀减缓沙丘背风坡的坡度。
+
+新月形沙丘两翼长度及其夹角与沙丘的高度密切相关,沙丘越高大,两翼越长、夹角越小。两翼是维持新月形沙丘稳定性的重要形态特征之一。
+
+较为开阔的前后滩地是新月形沙丘及新月形沙丘链存在所必须的环境条件,相对单一的主风向是新月形沙丘及新月形沙丘链维持其稳定性的关键因子,反向风及两翼的廊道效应是新月形沙丘增高增大的关键因子,主、反两个方向的风速及其分布频率是控制该区域新月形沙丘及新月形沙丘链高度的限制因子。
+
+# 参考文献（References）：
+
+[1］柳立本，张伟民，彭飞，谭立海.金字塔沙丘流场的三维数值模拟.中国沙漠，2011，31（2)：386-392.  
+[2] 胡世雄，吴正.敦煌鸣沙山金字塔沙丘的形成模式研究.地理研究，1997,16(1)：60-67.  
+[3] 凌裕泉，吴正，刘绍中，李长治.新月形沙丘形态的模拟实验研究.地理科学，1998，18(1)：88-93.  
+[4] 王莉萍.基于地貌学原理的巴丹吉林沙漠金字塔沙丘形态和形成过程的研究[D]．西安：陕西师范大学，2013.  
+[5] 焦银霞，穆媛芮，张旺生，郭洁，陈奕霖，李晓木.新疆北山库姆塔格沙垄沙丘的形态特征分析.国土资源遥感，2013，25（2）：138-142.  
+[6] SauermanG,ogonP,olako,eraHJTesafhebrchanunesofSutheorocoGeomophologyO(/2)：462.  
+[7]HersenP.OnthecrescenticshaeofarchanduesTheEuropeanPhysicalJOualB-CondensedMaterandComplexSstes，O04，7（4）：507-514.  
+[8] Bourke M C.Barchan dune asymmetry:Observations from Mars and Earth.Icarus,2010,205(1）：183-197.  
+[9] 韩致文，緱倩倩，杜鹤强，孙家欢.新月形沙丘表面 $1 0 0 \mathrm { c m }$ 高度内风沙流输沙量垂直分布函数分段拟合.地理科学，2012，32（7)：892-897.  
+[10] 江丽娟，马高生.新月形沙丘表面流场的数值模拟.兰州大学学报：自然科学版，2010，46(1)：48-52，58-58.  
+[11] Sauermann G,AndradeJSJr，MaiaLP,CostaUMS，AraujoAD,HermannHJ. Wind velocityandsand ransportonabarchandune.Geomorphology，2003，54(3/4）: 245-255.  
+[12] 周娜，张春来，刘永刚.雅鲁藏布江米林宽谷段新月形沙丘粒度分异研究.地理科学，2011,31（8)：958-963.  
+[13] DuranO,SchmmleV,LindG,HaHJ.Teneizedistrutiodaigelatioofahannefiels.Gaular,11(1) : 7-11.  
+[14]PalerJA，Meja-AlvarezR，BestJL，ChristesenKTParticeiagevelocetrymeasurementsofflowoverinteractingarchdnes.Experiments in Fluids，2012,52(3）：809-829.  
+[15］许振文，王晓东，王桂君，尤芳芳，刘惠清.对比分析我国西北与海岸地区新月型沙丘形态及成因差异.长春师范学院学报：自然科学版，2013，32(4)：63-66.  
+16]Bishptpalsaetc，aaofetas.  
+[17]DurenO,ludin，AnreotiBOnelatrasport：Gi-saleinteractios，aicalhaismsndainglaoaReah2011，3(3): 243-270.  
+[18] KocurekG，EwingRC.Aeoliandunefieldself-organization-implicationsfortheformationofsimpleversuscomplexdune-fieldpaters.Geomorphology，2005，72(1/4）：94-105.  
+[19]Elblilinreotieldcefoface-aeducedablitfdsatu，5）  
+[20]EndoNagchiKKatsukiOeatiofoleprcssofteractitwcsexpentsicalLetters，2004，31(12):L12503.1-L12503.3..  
+21]KatsukisiHdgchK.CliooftossuaedUgpledelalicalSociety of Japan，2005，74(2）：538-541.  
+[22] 杨岩岩，刘连友，屈志强，张国明.新月形沙丘研究进展.地理科学，2014，34（1)：76-83.  
+[23] 张春来，郝青振，邹学勇，严平.新月形沙丘迎风坡形态及沉积物对表面气流的响应.中国沙漠，199，19(4)：359-363.  
+[24] 姚洪林，阎德仁，胡小龙，刘永军，张化珍.毛乌素沙地流动沙丘风蚀积沙规律研究.内蒙古林业科技，2001，（1）：3-9.  
+[25] Belrhiti HE,Douady S.Equilibrium versus disequilibriumof barchan dunes.Geomorphology,2011,125(4)：558-568.  
+[26] 甘肃省民勤治沙综合试验站.甘肃沙漠与治理.兰州：甘肃人民出版社，1975.  
+[27] 李志忠，关有志.纵向沙丘和横向沙丘模拟流场的实验研究.中国沙漠，1996，16(4)：360-363.  
+[28]McLeanS，NelsoJMWlfeS.Turbulencestructureovertodiensioalbedfos：implcatisforsimenttrasprtJoalfGeophysical Research，1994,99(C6）：12729-12747.  
+[29］王训明，董治宝，赵爱国.简单横向沙丘表面物质组成、气流分布及其在动力学过程中的意义.干旱区资源与环境，2004，18(4)：29-33.

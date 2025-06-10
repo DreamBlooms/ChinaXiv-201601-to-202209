@@ -1,0 +1,488 @@
+[
+    {
+        "type": "text",
+        "text": "绿洲-沙漠过渡带植被覆盖动态变化及其驱动因素以新疆策勒为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曹永香¹，毛东雷¹，薛杰2，苏松领¹，开买尔古丽·阿不来提¹，蔡富艳4（1.新疆师范大学地理科学与旅游学院,新疆干旱区湖泊环境与资源重点实验室,新疆 乌鲁木齐830054;2.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;3.新疆策勒荒漠草地生态系统国家野外科学观测研究站,新疆 策勒848300;4.乌鲁木齐职业大学应用工程学院,新疆 乌鲁木齐830002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：绿洲-沙漠过渡带是绿洲与沙漠生态系统之间的生态缓冲区,对维持绿洲稳定与防风固沙具有重要的生态功能。以策勒绿洲-沙漠过渡带为例,选取1993—2017年Landsat遥感影像数据、气象与社会经济数据，采用归一化植被指数（Normalized Diference Vegetation Index）、像元二分模型和主成分分析方法,探讨小尺度区域长时间序列的植被变化及其驱动因素。结果表明：(1）在近25a来,策勒绿洲-沙漠过渡带的年均NDVI呈逐年增加的趋势,高NDVI主要分布在其东南部,而低NDVI主要分布在其西与西北部;（2）多年平均植被覆盖度为0.23,其中1993年、1998年、2008年、2011年、2014年、2017年这6期的FVC(Fractional Vegetation Coverage)分别为 $0 . 2 0 \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup ( 0 . 1 8 \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup ( 0 . 1 9 \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup )$ ，0.27、0.28,植被覆盖度在不断增加;(3）植被覆盖度总体以中等和低覆盖为主,分别占研究区总面积的 $3 0 . 7 3 \\%$ 、$2 1 . 4 7 \\%$ ，其次为低、较高、高和极低覆盖植被，分别占研究区总面积的 $2 1 . 4 8 \\% . 2 0 . 3 9 \\% . 2 0 . 1 2 \\% . 7 . 2 6 \\%$ 。植被覆盖明显变好区域所占面积较小且主要集中在中部和东南部及策勒河流域周边，其余变化等级的植被覆盖分布较分散;（4）在年际时间尺度上,人类活动是影响策勒绿洲-沙漠过渡带植被变化的主导因素,植被对降水量和大气相对湿度的敏感度大于气温，其中人工造林、耕地面积、人口数量、防护林面积分别在第一主成分分析中占0.850、0.810、0.853、0.779,大气相对湿度、降水量和牲畜存栏数分别占第二主成分分析的 $0 . 8 4 5 、 0 . 7 5 3 、 - 0 . 6 0 8$ ,气温占第三主成分分析的0.883。本研究为进一步认识绿洲-沙漠过渡带的植被变化、影响因素、植被保育及恢复提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：归一化植被指数；植被覆盖度；绿洲-沙漠过渡带；影响因素；主成分分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植被是陆地生态系统的重要组成部分，在维持全球和区域生态系统可持续发展中发挥着重要作用[-2]。植被覆盖度作为衡量地表植被覆盖状况和描述生态系统环境的重要指标，是反映生态环境变化的敏感指示器[3],对研究水土保持、区域环境质量评价和生态系统评估等领域具有重要意义[4-6]。近年来，在全球气候变暖与人类活动的双重影响下，我国西北干旱区的生态环境问题日益突出，其植被变化已成为诸多学者探究区域生态环境演变与气候变化响应等方面研究的切入点[7-9]。其中,气候变化是改变植被生长、结构和功能的主要因素之_[10],前期研究表明,降水和气温是影响区域植被覆盖变化的2个主要因子[9.],而随着人类活动的不断加强，区域植被覆盖变化已被大部分学者认为是气候变化与人类活动共同作用的结果[8.12-13]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "绿洲作为我国西北干旱区典型的地域景观，其生态环境的稳定与健康发展至关重要，尤其由绿洲与荒漠生态系统组成的绿洲-沙漠过渡带，对气候变化与人类活动非常敏感[14],是维持绿洲生态安全，防风固沙的重要天然生态屏障[15]。因此,深入探讨这一特殊地带的植被变化与驱动因素，对确保绿洲与荒漠生态系统稳定具有重要的理论和实践意义。目前，大多学者已对不同区域的绿洲-沙漠过渡带逐步开展了相关研究[16-18],其中位于塔克拉玛干沙漠南缘的策勒绿洲-沙漠过渡带已成为近年来的研究热点区域[19-20]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着遥感技术的快速发展，利用遥感数据对区域植被变化的研究已成为发展趋势，但多数以大、中尺度空间为研究区域，采用短时间尺度低分辨率的MODISNDVI数据开展研究，而利用较高分辨率的Landsat遥感影像数据分析小尺度区域空间在长时间序列上的植被变化及其驱动因素的研究还较为少见。因此，本文以新疆策勒绿洲-沙漠过渡带为例，选取受风沙活动影响最大及人类干扰较为强烈的西北缘过渡带为研究区域，获取多年时间尺度上的Landsat影像数据对该区域内的植被覆盖变化及驱动因子开展研究，旨在了解该区域植被覆盖在近年来的动态变化及其影响因素，为进一步认识绿洲-过渡带区域的植被变化、影响因素、植被保育及恢复提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "策勒绿洲位于塔克拉玛干沙漠南缘和昆仑山北麓之间，属典型内陆暖温带荒漠气候，夏季炎热，干旱少雨，光热充足，日照时间长，昼夜温差大，多年平均降水量 $3 5 . 1 ~ \\mathrm { m m }$ ,年潜在蒸发量 $2 6 0 0 ~ \\mathrm { m m } ^ { [ 2 1 ] }$ 。该绿洲位于塔里木盆地西北和东北两大主风向的下风区域，风沙活动频繁，多年平均沙尘日数25.2d,最多年高达 $5 9 \\mathrm { d } ^ { [ 2 2 ] }$ ,频繁的风沙灾害严重影响到该地经济-社会-生态的稳定发展，威胁当地居民的正常生产和生活。根据植被覆盖度大小，穆桂金等[19]将植被覆盖度在 $2 0 \\% { \\sim } 2 5 \\%$ 之间的地带界定为绿洲-沙漠过渡带外缘边界，策勒绿洲-沙漠过渡带主要分布在其西、北、东方向，过渡带上主要分布有多枝怪柳、花花柴、骆驼刺、盐生草、猪毛菜、河西菊等旱生天然植被[23-24],具有良好的防风阻沙作用，对策勒绿洲内部农田具有重要生态保护功能。策勒绿洲-沙漠过渡带大面积分布于县城西北方向，常年受西、西北西风的强烈影响，主要土壤类型为风沙土、棕漠土、灌淤土与盐土，过渡带内的植被单调，疏叶骆驼刺，多枝怪柳、花花柴是该区最为常见的植被类型，自然植被覆盖度仅有 $1 5 \\% { \\sim } 3 0 \\% ^ { [ 2 1 , 2 5 ] }$ ，但绿洲-沙漠过渡带大小和宽度随绿洲扩张与荒漠侵袭而不断变化，且随着时间的推移，受人类干扰力度大，耕地不断扩张，是研究气候变化与人类活动的典型区域(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/610dd6f4239d7e13b73d9355c14e0c5265de138f14bcfa6398a8b406e1a9e32a.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1 Overview of the research area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源及预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遥感影像数据来源于中国科学院计算机网络信息中心地理空间数据云平台(http://www.gscloud.cn)提供的Landsat5-TM和Landsat8-OLI数据产品。由于卫星遥感影像受天气的影响较大，为确保分析结果的准确性，本文选取云量覆盖低于 $2 0 \\%$ 且处在植被生长季的遥感影像，利用软件ENVI5.3对遥感影像进行空间裁剪、辐射定标和大气校正等一般预处理。鉴于夏秋季节植被的生长量最大，因此，在实际选择影像时，根据任晓等[26],潘光耀等[20],董弟文等[13]学者研究指出，南疆以每年7—9月植被生长季的其中一期遥感影像计算NDVI和植被盖度是分析其植被变化的最佳时期。综合考虑云量、区域沙尘、植被生长季节差异的影响，选取1993年8月19日、1994年7月28日、1995年5月5日、1998年9月25日、2007年7月9日、2008年7月2日、2009年8月15日、2010年7月8日、2011年8月5日、2013年9月18日、2014年8月20日、2015年9月24日、2016年7月8日、2017年8月28日共13期影像图，其中2011年及以前的影像图由Landsat5-TM卫星成像，2013—2017年的影像图由Landsat8-OLI卫星成像。植被变化是一个较为缓慢的过程，为了更加清晰地展示研究区植被覆盖的动态变化，将1993年、1998年、2008年、2011年、2014年、2017年6期遥感影像图进行可视化表达并分析其时空变化。此外，本文采用的气象数据(气温、降水与大气相对湿度)和人类活动数据（人口数量、耕地面积、造林面积、防护林面积、年牲畜存栏数量)均由中国科学院新疆策勒荒漠草地生态系统国家野外科学观测研究站提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2NDVI与植被覆盖度的计算及分级",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "归一化植被指数(NDVI)又称为标准化植被指数，具有高灵敏度，能识别较宽范围，且能消除地形和群落结构的阴影和辐射干扰等优点，被广泛应用于植被覆盖度的研究中[27-28],其计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D V I { = } ( N I R - R ) / ( N I R + R ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：NIR表示近红外波段,TM影像中为band4,OLI影像中为band5； $R$ 表示红色波段，TM影像中为band3,OLI影像中为band4。在ENVI5.3中进行具体波段运算时，将公式(1)表达为 $[ \\mathrm { f l o a t } ( b _ { 1 } ) - b _ { 2 } ] / ( b _ { 1 } +$ $^ { b _ { 2 } ) , b _ { 1 } }$ 代表近红外波段， $b _ { 2 }$ 代表红色波段。NDVI取值在 $[ - 1 , + 1 ]$ 区间内，正值表示有植被覆盖，值越大表明植被覆盖度越高。相反，负值表示地面为水、雪等，0表示无植被覆盖。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "提取绿洲-沙漠过渡带植被覆盖与划分覆盖等级是评估荒漠植被生长现状的重要指标，在计算出NDVI的基础上，利用像元二分模型划分植被覆盖度等级[29-30]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F V C } = { \\frac { \\mathrm { N D V I } - \\mathrm { N D V I } _ { \\mathrm { s o i l } } } { \\mathrm { N D V I } _ { \\mathrm { v e g } } - \\mathrm { N D V I } _ { \\mathrm { s o i l } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { \\Delta N D V I _ { s o i l } }$ 为完全是裸土或无植被所覆盖像元的NDVI值; $\\mathrm { N D V I _ { v e g } }$ 为完全被植被覆盖像元的NDVI值。在时间、大气和地表湿度等条件的影响下，ND-$\\mathrm { V I } _ { \\mathrm { s o i l } }$ 和 $\\mathrm { \\Delta N D V I _ { v e g } }$ 的值具有不确定性，因此采用近似值替代的方法，根据已计算的NDVI频率统计结果，将NDVI累计频率为 $0 . 5 \\%$ 的值作为 $\\mathrm { \\Delta N D V I _ { s o i l } }$ 的参数值，累计频率为 $9 9 . 5 \\%$ 的值作为 $\\mathrm { \\Delta N D V I _ { v e g } }$ 的参数值[31-32]。利用ArcGIS软件将计算得出的植被覆盖度进行重分类，对植被覆盖度大小进行等级划分，参考全国沙漠化普查地类划分标准、水利部颁布的《土壤侵蚀分类分级标准》(SL190-1996)及借鉴前人相关研究成果，根据已得出的研究区整体植被覆盖情况，将其植被等级具体划分为：极低覆盖( $1 0 \\%$ 以下）低覆盖( $1 0 \\% { \\sim } 3 0 \\%$ ）、中等覆盖 $30 \\% { \\sim } 6 0 \\%$ )、较高覆盖0 $6 0 \\% { \\sim } 8 0 \\%$ ）、高覆盖区( $8 0 \\%$ 以上)[29]。尽管遥感解译时间的不同会导致一定的不确定性，但本文旨在研究该绿洲-沙漠过渡带植被覆盖在年时间尺度内的动态变化，因此时间跨度大小并不影响其在整个时间范围内动态变化趋势。因此，为使策勒绿洲-沙漠过渡带植被覆盖度的时空变化特征表现更直观，利用后一期的植被覆盖度 $( F _ { t } )$ 与前一期植被覆盖度 $\\left( \\boldsymbol { F } _ { t - 1 } \\right)$ 在ArcGIS软件中进行栅格差值运算，即前后两期差值变化 $D / = { \\boldsymbol { F } } _ { t } – F _ { t - 1 }$ ，得出前后两期植被覆盖度的变化情况，并利用相同方法计算最后一期与第一期的植被覆盖度，得出整个研究期间内植被覆盖度的整体变化情况，若差值为负则表征覆盖情况变差，为正表征覆盖情况有所改善。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3主成分分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据董弟文等[13]、王子玉等[33]研究认为，气温1 $\\mathrm { { . } ^ { \\circ } C }$ ）、降水量（ $( \\mathbf { \\bar { \\rho } } _ { \\mathrm { m m } } )$ ）、大气相对湿度 $( \\% )$ 、人口数量（人）、耕地面积（ $\\left. \\mathbf { h } \\mathbf { m } ^ { 2 } \\right.$ 、造林面积（ $\\left. \\mathbf { h } \\mathbf { m } ^ { 2 } \\right.$ ）、防护林面积$\\left( \\mathrm { h m } ^ { 2 } \\right)$ )及牲畜存栏数(只)8个因子指标是影响过渡带植被动态变化的重要因素。因此，本文采用主成分分析方法选取该8个因子量化影响策勒绿洲-沙漠过渡带植被覆盖变化的贡献率，具体过程为：(1)对原始数据进行标准化处理以消除数量级和量纲带来的误差影响；（2）计算标准化后的数据指标相关系数矩阵；（3）特征值和特征向量的计算；（4）根据贡献率和累计贡献率将累计贡献率达到 $8 0 \\%$ 以上的确定为主成分；（5）计算主成分的载荷状况；(6）根据各主成分的贡献率分析影响其植被变化的主要因素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1NDVI的时空变化特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1993—2017年间策勒绿洲-沙漠过渡带的ND-VI整体呈增加趋势，多年NDVI平均值为0.16,其中1993年、1998年、2008年、2011年、2014年、2017年的 NDVI平均值分别为0.10、0.13、0.14、0.18、0.21、0.19。6个时期的NDVI空间分布格局总体一致，",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0330cc5b1c6fe6e993b01756924d2d969cae5659c83641701564596c69f73437.jpg",
+        "img_caption": [
+            "图2 策勒绿洲-沙漠过渡带的归一化植被指数(NDVI)",
+            "Fig.2 Normalized difference vegetation index of Cele oasis-desert ecotone (NDVI) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NDVI高值主要分布在东南部，靠近策勒县绿洲中心(图2),低值主要分布在西、西北部的塔克拉玛干沙漠边缘。在1993—2008年期间，其NDVI高值范围有一定扩大，但不明显。相反，自2008年以后，NDVI高值范围在空间分布上明显扩大，特别是在2011年之后，紧邻策勒绿洲边缘的NDVI高值扩大范围愈加明显。NDVI高值范围的空间变化表明策勒绿洲-沙漠过渡带的植被覆盖度有所恢复且得到一定提高。由于影像选取时相正值植被生长期，紧靠策勒绿洲的植被覆盖度相对较高，策勒河周边具有植被生长的良好水文条件，因此其植被覆盖在逐年增加。同时，策勒绿洲周围有大面积防护林分布，因此研究区植被覆盖逐渐形成以策勒绿洲为中心，由内向外展开的空间分布格局",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2植被覆盖度的时空变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 植被覆盖度总体特征策勒绿洲-沙漠过渡带的植被覆盖度在1993—2017年间的多年平均植被覆盖度为0.23，其中1993年、1998年、2008年、2011年、2014年、2017年6期的植被覆盖度依次为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0.20、0.18、0.19、0.23、0.27、0.28，植被覆盖度总体在不断增加，但整体以低、中等植被覆盖为主(图3)。1993年和1998年两期的植被覆盖度变化较小，仅极低植被覆盖区有一定减少，2008年在靠近绿洲边缘的地方，植被覆盖度成块状显著增加，中部有小部分减少，整体变化不明显。而自2011年后，过渡带整体植被覆盖度明显提高，极低植被覆盖区范围逐渐减小，植被覆盖度从策勒绿洲中心向外围沙漠地区呈由高到低的空间分布格局。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据6期植被覆盖度分级统计(表1)，中等覆盖区为策勒绿洲-沙漠过渡带植被覆盖面积最大的等级，占研究区总面积的 $3 0 . 7 5 \\%$ ，其次依次为低、较高、高覆盖区，分别占研究区总面积的 $2 1 . 4 8 \\%$ ！$2 0 . 3 9 \\% . 2 0 . 1 2 \\%$ ,极低覆盖区所占面积较小，仅占总面积的 $7 . 2 6 \\%$ 。在1993—1998年期间，该区低、中等和高植被覆盖区面积分别增加了 $3 . 0 6 \\mathrm { ~ k m } ^ { 2 } , 0 . 8 5$ $\\mathrm { k m } ^ { 2 } \\cdot 0 . 0 7 \\mathrm { k m } ^ { 2 }$ ，极低覆盖区和较高覆盖区分别减少了$3 . 1 ~ \\mathrm { k m } ^ { 2 }$ 与 $0 . 8 8 \\mathrm { k m } ^ { 2 }$ ,植被覆盖整体有一定增加。在1998一2008年期间，植被覆盖度整体为减小趋势，其中极低覆盖和低覆盖区分别增加了 $0 . 8 5 \\ \\mathrm { k m } ^ { 2 }$ 与$1 . 0 6 \\ \\mathrm { k m } ^ { 2 }$ ，中等、高、较高覆盖区分别减少了1.67$\\mathrm { k m } ^ { 2 } \\ 、 0 . 1 4 \\mathrm { k m } ^ { 2 } 、 0 . 1 \\mathrm { k m } ^ { 2 }$ 。在2008—2011年期间，极低和较高覆盖区分别增加了 $2 . 0 6 \\mathrm { k m } ^ { 2 }$ 与 $0 . 1 9 \\mathrm { k m } ^ { 2 }$ ，低覆盖区减少了 $1 . 4 5 \\mathrm { k m } ^ { 2 } , 2 0 1 1 - 2 0 1 4$ 年期间，极低覆盖区减少了 $2 . 2 \\ \\mathrm { k m } ^ { 2 }$ ，低、中等覆盖区分别增加了1.7$\\mathrm { k m } ^ { 2 } \\cdot 0 . 8 2 \\mathrm { k m } ^ { 2 }$ ,其余覆盖区变化不明显。在2014—2017年期间，极低、较高、高植被覆盖区分别增加了$1 . 6 5 \\mathrm { k m } ^ { 2 } , 0 . 1 2 \\mathrm { k m } ^ { 2 } , 0 . 1 9 \\mathrm { k m } ^ { 2 }$ ，其余等级覆盖区增减不明显。因此,研究区的植被覆盖变化波动较大，极低覆盖区不稳定，低植被覆盖区面积呈明显扩张态势，中等植被覆盖区面积前期虽有一定的增加，但整体为减少趋势，较高植被覆盖区不断减少，高植",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/22a3b15e2455d5ee68362c24c6d6ba7b7f41845ba8e3b19b3473eea96d0c2e85.jpg",
+        "img_caption": [
+            "图3策勒绿洲-沙漠过渡带植被覆盖度空间分布",
+            "Fig.3Spatial distribution of vegetation coverage in Cele oasis-desert ecotone "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fdc90fd7f6eed6df060a21186f7bbf755a464ec938b71ccebfa9518a42912d58.jpg",
+        "table_caption": [
+            "表1各等级植被覆盖度面积及所占百分比",
+            "Tab.1 Area and percentage of vegetation coverage of each grade "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">覆盖等级</td><td colspan=\"2\">1993年</td><td colspan=\"2\">1998年</td><td colspan=\"2\">2008年</td><td colspan=\"2\">2011年</td><td colspan=\"2\">2014年</td><td colspan=\"2\">2017年</td></tr><tr><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td></td><td>面积/km²占比/%</td></tr><tr><td>极低覆盖</td><td>7.95</td><td>9.04</td><td>4.85</td><td>5.52</td><td>5.70</td><td>6.48</td><td>7.51</td><td>8.54</td><td>5.31</td><td>6.04</td><td>6.96</td><td>7.91</td></tr><tr><td>低覆盖</td><td>16.04</td><td>18.25</td><td>19.10</td><td>21.74</td><td>20.16</td><td>22.94</td><td>18.71</td><td>21.29</td><td>20.41</td><td>23.22</td><td>18.77</td><td>21.36</td></tr><tr><td>中等覆盖</td><td>27.32</td><td>31.09</td><td>28.17</td><td>32.06</td><td>26.50</td><td>30.16</td><td>26.14</td><td>29.74</td><td>26.96</td><td>30.67</td><td>26.94</td><td>30.65</td></tr><tr><td>较高覆盖</td><td>18.78</td><td>21.37</td><td>17.90</td><td>20.36</td><td>17.76</td><td>20.21</td><td>17.95</td><td>20.42</td><td>17.48</td><td>19.89</td><td>17.60</td><td>20.03</td></tr><tr><td>高覆盖</td><td>17.79</td><td>20.25</td><td>17.86</td><td>20.32</td><td>17.76</td><td>20.20</td><td>17.59</td><td>20.01</td><td>17.42</td><td>20.17</td><td>17.61</td><td>20.04</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "被覆盖区变化不明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 植被覆盖度变化分级特征将6期的FVC时空变化数据，按照变化程度划分为5个等级，表2为等级划分标准和各等级面积占比,植被覆盖度变化等级空间分布情况如图4所示。1993—1998年、1998—2008 年、2008—2011年、2011—2014年、2014—2017年、1993—2017年植被覆盖变化情况均以基本不变等级为主，所占面积较大(表2)，分别占总面积的 $6 0 . 7 3 \\%$ 、 $5 9 . 7 0 \\%$ 、 $6 8 . 6 1 \\%$ 、 $6 2 . 2 7 \\%$ 、$6 3 . 7 2 \\% . 4 6 . 9 7 \\%$ 。轻微变差、轻微变好等级所占面积差异较小，明显变差与明显变好等级所占面积均较小。在整个研究时段内，研究区各等级植被覆盖变化所占面积由大到小为：基本不变、轻微变差、轻",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2FVC变化等级值域、面积及所占比例",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/93498b12320375a8c32cedf35638a517fd95f5596ff600d0143efa75ccba93d9.jpg",
+        "table_caption": [
+            "Tab.2 Range,area and proportion of FVC grade change "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变化程度</td><td rowspan=\"2\">值域范围</td><td colspan=\"2\">1993- -1998年</td><td colspan=\"2\">1998- -2008年</td><td colspan=\"2\">2008- -2011年</td><td colspan=\"2\">2011- -2014年</td><td colspan=\"2\">2014- -2017年</td><td colspan=\"2\">1993- -2017年</td></tr><tr><td>面积/km²占比/%</td><td></td><td>面积/km²</td><td>占比/%</td><td>面积/km占比/%</td><td></td><td>面积/km²</td><td>占比/%</td><td>面积/km占比/%</td><td></td><td></td><td>面积/km²占比/%</td></tr><tr><td>明显变差</td><td>D<-1.5</td><td>1.82</td><td>2.07</td><td>1.07</td><td>1.22</td><td>0.87</td><td>0.90</td><td>0.09</td><td>0.09</td><td>1.73</td><td>1.97</td><td>3.49</td><td>3.97</td></tr><tr><td>轻微变差</td><td>-1.≤D<-0.5</td><td>14.10</td><td>16.05</td><td>18.94</td><td>21.55</td><td>15.17</td><td>17.26</td><td>17.97</td><td>20.44</td><td>15.10</td><td>17.18</td><td>22.77</td><td>25.91</td></tr><tr><td>基本不变</td><td>-0.5≤D<0.5</td><td>53.37</td><td>60.73</td><td>52.46</td><td>59.70</td><td>60.30</td><td>68.61</td><td>54.73</td><td>62.27</td><td>56.00</td><td>63.72</td><td>41.28</td><td>46.97</td></tr><tr><td>轻微变好</td><td>0.5≤D<2.5</td><td>17.24</td><td>19.61</td><td>13.47</td><td>15.33</td><td>9.79</td><td>11.14</td><td>9.86</td><td>11.21</td><td>13.41</td><td>15.26</td><td>15.35</td><td>17.46</td></tr><tr><td>明显变好</td><td>D>2.5</td><td>1.35</td><td>1.54</td><td>1.94</td><td>2.21</td><td>1.76</td><td>2.00</td><td>3.43</td><td>3.90</td><td>1.65</td><td>1.88</td><td>5.00</td><td>5.69</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccae41f763c67ab0f80a15e2f33b9d655cdd16f46bfa964f4a40e8287796ad62.jpg",
+        "img_caption": [
+            "图4FVC变化等级",
+            "Fig.4 The grade of FVC change "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "微变好、明显变好，明显变差，平均分别为60.33$\\mathrm { k m ^ { 2 } \\setminus 1 9 . 7 3 ~ k m ^ { 2 } \\setminus 1 5 . 0 0 ~ k m ^ { 2 } \\setminus 2 . 8 7 ~ k m ^ { 2 } \\setminus 1 . 7 0 ~ k m ^ { 2 } }$ 。植被覆盖明显变好地区主要集中在绿洲-沙漠过渡带中部和东南部以及策勒河流域周边，呈斑块状分布，其余4种变化等级的植被覆盖在空间分布上较分散（图4）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3植被变化驱动因素分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1气候变化与人类活动的趋势分析从气象因素的变化来看，在1993—2017年间策勒年平均气温整体呈波动上升趋势，降水量和大气相对湿度变化趋势整体趋于一致，波动起伏均较大(图5a)。从人类活动上分析，在1993—2017年间策勒人口数量和耕地面积均呈显著上升趋势，在2007年前耕地面积较少且波动较大，而2007年后耕地面积急剧增加，从 $1 6 7 9 0 \\mathrm { h m } ^ { 2 }$ 增长到 $2 5 5 0 0 \\ \\mathrm { h m } ^ { 2 }$ ,之后仍呈缓慢增长趋势(图5b)，人口数量在近25a间呈近似线性增长趋势，每10a增加近 $2 \\times 1 0 ^ { 4 }$ 人口。策勒绿洲在1998一2015年间的人工造林和防护林面积呈急剧增加趋势，且在2007年以后，其增加趋势更为明显（图5c)，年牲畜存栏数量呈缓慢增长趋势，但变化波动较大(图5d)。可见，随着人口数量的增长，耕地面积也在不断增加，而随着耕地面积的增加，为阻挡风沙侵蚀，防护林、人工造林面积也相应有所增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.2因子指标选取与主成分分析将标准化后的数据进行主成分分析，得到影响因子的相关系数矩",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d8161911d7db7c78b9dee72fff5a6c2644de61d8061d9f92537fc05002fa203.jpg",
+        "img_caption": [
+            "图5气象和人类活动要素的变化趋势",
+            "Fig.5The changing trend of meteorology and elements of human activity "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3评价指标的相关系数矩阵",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa1e1ba52cfb65d7b094746ebb411a33db0f709a18dce4876c827659f430b12a.jpg",
+        "table_caption": [
+            "Tab.3 Correlation matrixof the evaluation index "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>要素指标</td><td>降水量</td><td>气温</td><td>大气相对湿度</td><td>人口</td><td>耕地面积</td><td>造林面积</td><td>防护林面积</td><td>牲畜存栏数</td></tr><tr><td>降水量</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>气温</td><td>0.440</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>大气相对湿度</td><td>0.512</td><td>-0.361</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>人口数量</td><td>0.181</td><td>0.128</td><td>-0.437</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>耕地面积</td><td>0.279</td><td>0.310</td><td>-0.347</td><td>0.773</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>造林面积</td><td>0.482</td><td>0.012</td><td>0.038</td><td>0.592</td><td>0.542</td><td>1.000</td><td></td><td></td></tr><tr><td>防护林面积</td><td>0.294</td><td>0.119</td><td>-0.143</td><td>0.419</td><td>0.483</td><td>0.897</td><td>1.000</td><td></td></tr><tr><td>牲畜存栏数</td><td>-0.123</td><td>0.005</td><td>-0.439</td><td>0.551</td><td>-0.061</td><td>0.223</td><td>0.075</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "阵(表3)，选取的影响因子指标间的相关系数多数大于0.3,表明各因子间存在一定的相关性，适合进行主成分分析[34]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在解决实际问题中，通常选取累积方差贡献率在 $8 0 \\%$ 以上的主成分代替原来的单个变量进行分析，以实现数据降维的目的，结合利用特征值大于1的原则[35-36]。本文选取前3个主成分对影响策勒绿洲-沙漠过渡带植被变化的因素进行分析，各主成分的特征值、方差贡献率、累计贡献率如表4所示，并将各因素对于原始指标的载荷情况统计如表5所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b64894ac08f1d844923c048b057f8d14b0e2150c36c2d865b23c1543841e3e1.jpg",
+        "table_caption": [
+            "Tab.4 The index characteristic value and contribution rate "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主成分</td><td>特征值</td><td>贡献率/%</td><td>累积率/%</td></tr><tr><td>第一主成分</td><td>3.251</td><td>40.634</td><td>40.634</td></tr><tr><td>第二主成分</td><td>1.901</td><td>23.760</td><td>64.394</td></tr><tr><td>第三主成分</td><td>1.268</td><td>15.851</td><td>80.245</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5主成分载荷矩阵",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d2f1796372071728ee951d824ae725e3a4e4da19d5a478824c7249de376f555f.jpg",
+        "table_caption": [
+            "表4指标特征值与贡献率",
+            "Tab.5 Loading matrix of principal component "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>第一主成分</td><td>第二主成分</td><td>第三主成分</td></tr><tr><td>造林面积</td><td>0.850</td><td>0.325</td><td>-0.374</td></tr><tr><td>耕地面积</td><td>0.810</td><td>0.001</td><td>0.225</td></tr><tr><td>人口数量</td><td>0.853</td><td>-0.312</td><td>-0.099</td></tr><tr><td>防护林面积</td><td>0.779</td><td>0.232</td><td>-0.252</td></tr><tr><td>大气相对湿度</td><td>-0.352</td><td>0.845</td><td>-0.280</td></tr><tr><td>降水量</td><td>0.421</td><td>0.753</td><td>0.260</td></tr><tr><td>牲畜存栏数</td><td>0.344</td><td>-0.608</td><td>-0.281</td></tr><tr><td>气温</td><td>0.345</td><td>0.017</td><td>0.883</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5的主成分因子载荷表明，造林面积、耕地面积、人口数量、防护林面积在第一主成分中占有较高权重，分别占 $0 . 8 5 0 \\ 、 0 . 8 1 0 \\ 、 0 . 8 5 3 \\ 、 0 . 7 7 9$ ，大气相对湿度、降水量和牲畜存栏数在第二主成分中所占权重较大，分别占 $0 . 8 4 5 , 0 . 7 5 3 , - 0 . 6 0 8$ ，占第三主成分权重较大的为气温，为0.883。综合分析表明，人类活动是影响策勒绿洲-沙漠过渡带植被变化的最主要因素，其次为气候因素，降水和大气相对湿度对其植被变化的驱动作用大于气温，可见，该地植被对气温的敏感度低于大气相对湿度和降水。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在1993—2017年的整个研究时期，绿洲-沙漠过渡带的植被覆盖整体呈增加趋势，绿洲边缘的植被覆盖虽然整体在不断增加，但也存在条带状的减少现象，植被覆盖度在空间上呈以绿洲为中心向外围沙漠地区由高到低延伸的空间分布格局，过渡带位置逐渐向沙漠地区移动且范围逐渐缩小。这与毛东雷[37研究结论具有相似之处，即过渡带植被盖度和种类数量自沙漠前沿至绿洲方向总体呈增加趋势，局部小空间内有零星分布，主要原因为绿洲边缘带农田的开垦，导致天然植被减少。策勒西北缘绿洲-沙漠过渡带位于西北风向的下方区域[24],风沙危害严重，风沙流对植被的沙割、沙埋作用严重破坏植被生长[38],破坏程度沿主风向从沙漠向绿洲逐渐降低。此外，随着人口数量增加、耕地扩张与防护林建设，绿洲内植被盖度明显增加并不断向沙漠地区延伸，过渡带植被在局部空间内存在斑块状分布，这可能是由局部地形及土壤养分造成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "绿洲-沙漠过渡带高NDVI主要分布在其东南部靠近策勒绿洲处，而低值主要分布在西与西北部的塔克拉玛干沙漠边缘，自2011年后，高NDVI分布范围明显扩大。植被覆盖度变化与植被NDVI变化趋势一致，从策勒绿洲中心向外围沙漠地区呈由高到低的空间分布格局，高植被覆盖区范围扩大且较分散，极低植被覆盖范围逐渐减少。自20世纪90年代中后期起，当地开始进行防风固沙工程和大量防护林网体系的建设，而绿洲-沙漠过渡带作为绿洲边缘重要的生态屏障，对其植被环境的改善至关重要，尤其自2012年以来，过渡带西北方向开展了造林治沙工作，使其植被覆盖度显著提高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从气候因素上来看，研究区内植被对降水量和大气相对湿度的敏感度强于气温，这与李震等3研究结论基本一致。虽然也有学者指出植被对气温的响应程度大于降水[40-41],但有研究表明策勒绿洲在近几十年来气温逐年上升，最高气温没有显著变化，而降水却逐渐增加且存在异常年份[42]。本文分析得出，策勒年平均气温在1993一2017年间总体呈上升趋势，降水量和大气相对湿度变化趋势基本一致，呈波动增加趋势。气温上升虽然能提高植被生长所需的热量，但同时也会加快蒸发，进而影响植被生长。因此相比于气温，植被对降水量和大气相对湿度的增加及异常变动更为敏感。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "常年极端干旱的气候条件及丰富的沙尘源环境，使区域内植被生长条件较为恶劣，毗邻沙漠的绿洲边缘过渡带的植被覆盖度更低。在年际间，过渡带降水、气温及植被覆盖变化较小，而在年内变化较为明显8，所以在年际时间尺度上，区域内人口增长、耕地及防护林面积的增加等人类活动因素对植被覆盖变化的影响较气候因素显著[43-4]。区域内的牲畜存栏数量在一定程度上可间接反映当地牲畜放牧对过渡带植被的影响，根据主成分分析表明，牲畜存栏数量与植被覆盖度之间存在一定的负相关性，但在牲畜存栏数量对植被覆盖变化驱动因素的主成分分析中，其载荷在第二主成分中所占权重相对较小，表明在主成分分析筛选主要因子中，其影响作用较小，这与过渡带近十几年来围栏禁正放牧与樵柴的政策有关[45]。此外，随着绿洲扩张与农业技术发展,绿洲渠系的衬砌率提高,减少了地下水的渗漏，从而导致过渡带一些靠地下水维系的荒漠植被出现了衰退现象[37]。当地政府政策的引导对其植被覆盖变化也起到重要调节作用，如早期区域内人口的快速增长与水资源的不合理利用、毁林开荒、过度砍伐等一系列的社会因素使区域内植被破坏严重，风沙侵袭明显2，而随着当地政府和人们对防风治沙重视程度的增加及“三北\"防护林体系的建设、封沙育草、恢复天然植被等措施的实施，当地生态环境得到明显改善,植被盖度增加，这与岳胜如等[46研究观点基本一致。此外，植被覆盖变化除受气候和人类活动的影响,地下水、地形、土壤湿度、温度及养分等因素也直接影响植被变化。因此，在后续的研究中需要结合多种数据与定量分析方法验证其气候与人类活动因素对绿洲-过渡带的影响及贡献率。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文以策勒绿洲-沙漠过渡带为例，获取1993—2017年较高分辨率的Landsat遥感影像数据并结合气象与社会经济数据，采用归一化植被指数（NDVI）、像元二分模型和主成分分析方法，探讨了小尺度区域长时间序列的植被变化及其驱动因素。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1）绿洲-沙漠过渡带植被覆盖时空变化波动较大，植被覆盖度明显增加且自东南向西北方向呈逐渐扩张的趋势。从时间变化上来看，策勒绿洲-沙漠过渡带的植被覆盖度逐年增加，多年NDVI平均值为0.16,多年平均FVC为0.23。从空间变化上来看，研究区高NDVI主要分布在策勒绿洲-沙漠过渡带的东南部，低NDVI主要分布在西、西北部，紧邻塔克拉玛干沙漠，植被覆盖度自绿洲向过渡带及外围不断扩张。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2）在1993—2017年间，过渡带植被整体以低、中等植被覆盖为主，极低覆盖区植被变化显著，低植被覆盖区面积呈扩张趋势，中等、较高植被覆盖区呈减少趋势，高植被覆盖区面积变化波动较小。据6期的植被覆盖度分级统计可知，研究区植被覆盖度整体偏低，中等植被覆盖度占研究区总面积之比最大，为 $3 0 . 7 3 \\%$ ，其次依次为低、较高、高和极低植被覆盖度，分别占研究区总面积的 $2 1 . 4 8 \\%$ 、$2 0 . 3 9 \\% . 2 0 . 1 2 \\% . 7 . 2 6 \\%$ □",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）1993—1998年、1998—2008年、2008—2011年、2011—2014年、2014—2017年这6期的植被覆盖变化以基本不变类型为主，分别占研究区总面积的 $6 0 . 7 3 \\%$ 、 $5 9 . 7 0 \\%$ 、 $6 8 . 6 1 \\%$ 、 $6 2 . 2 7 \\%$ 、 $6 3 . 7 2 \\%$ ○不同等级植被覆盖度在年际间的增减变化主要以基本不变等级为主，轻微变差、轻微变好等级所占面积差异较小，明显变差与明显变好等级所占面积均较小。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（4）人类活动是影响研究区植被变化的主导因素，其次为气候因素。人工造林面积、耕地面积、人口数量、防护林面积在第一主成分中的占比较大,分别占0.850、0.810、0.853、0.779，而大气相对湿度、降水量和牲畜存栏数在第二主成分中的占比较大，分别占0.845、0.753、-0.608，第三主成分中占比较大的为气温，占0.883。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Forkel M, Carvalhais N, Rodenbeck C,et al. Enhanced seasonal $\\mathrm { C O } _ { 2 }$ exchange caused by amplified plant productivity in Northern ecosystems[J]. Science,2016,6274: 696-699.   \n[2]Peng J,Liu Z H, Liu YH,etal. Trendanalysis of vegetation dynamics in Qinghai-Tibet plateau using hurst exponent[J]. Ecological Indicators,2012,14(1):28-39.   \n[3]包刚,覃志豪,包玉海,等.1982—2006年蒙古高原植被覆盖时 空变化分析[J].中国沙漠,2013,33(3):916-927.[Bao Gang, Qin Zhihao,Bao Yuhai,et al. Spatial-temporal changes of vegetation cover in Mongolian Plateau during 1982-2O06[J]. Journal of Desert Research,2013,33(3): 916-927.]   \n[4]祁燕,王秀兰,冯仲科,等.基于RS与GIS 的北京市植被覆盖度 变化研究[J].林业调查规划,2009,34(2):1-4.[Qi Yan,Wang Xiulan,Feng Zhongke,etal. Study oncoverage changesof the vegetationin Beijing City basedonRSand GIS[J].Forest Inventory and Planning,2009,34(2): 1-4.]   \n[5]马志勇,沈涛,张军海,等.基于植被覆盖度的植被变化分析[J] 测绘通报,2007(3):45-48.[Ma Zhiyong,Shen Tao,Zhang Junhai,et al. Vegetation changes analysis based on vegetation coverage[J]. Bulletin of Surveying and Mapping, 2007(3): 45-48.]   \n[6]甘春英,王兮之,李保生,等.连江流域近18年来植被覆盖度变 化分析[J].地理科学,2011,31(8):1019-1024.[Gan Chunying, Wang Xizhi,Li Baosheng,et al.Changesof vegetationcoverage during recent 18 years in Lianjiang River watershed[J]. Scientia Geographica Sinica, 2011,31(8): 1019-1024.]   \n[7]董璐,赵杰,刘雪佳,等.1982—2015年新疆地区植被生长对气 温的响应[J].应用生态学报,2019,30(7):2165-2170.[Dong Lu, Zhao Jie,Liu Xuejia,et al.Responses of vegetation growth to temperature during 1982-2O15 in Xinjiang, China[J]. Chinese Journal of Applied Ecology,2019,30(7): 2165-2170.]   \n[8]慈晖,张强.新疆NDVI时空特征及气候变化影响研究[J].地球 信息科学,2017,19(5): 662-671.[Ci Hui, Zhang Qiang.Spatiotemporal patterns of NDVI variations and possible relations with climate changes in Xinjiang Province[J]. Journal of Geo-Information Science,2017,19(5): 662-671.]   \n[9]丁玥,阿布都热合曼·哈力克,陈香月,等.和田地区植被覆盖变 化及气候因子驱动分析[J].生态学报,2020,40(4):1258-1268. [Ding Yue,Abudureheman Halike, Chen Xiangyue,et al. Spatialtemporal changes in vegetation characteristics and climate in Hotan prefecture[J]. Acta Ecologica Sinica,2020,40(4): 1258-1268.]   \n[10] 陈秀妍,付碧宏,时丕龙,等.2000—2016年中亚天山植被变化 及气候分异研究[J].干旱区地理,2019,42(1):162-171.[Chen Xiuyan,Fu Bihong, Shi Pilong, et al. Vegetation dynamics in response to climate change in Tianshan, Central Asia from 2000 to 2016[J]. Arid Land Geography,2019,42(1): 162-171.]   \n[11]马梓策,于红博,曹聪明,等.中国植被覆盖度时空特征及其影 响因素分析[J].长江流域资源与环境,2020,29(6):1310-1321. [Ma Zice,Yu Hongbo, Cao Congming,et al.Spatio temporal characteristics of fractional vegetation coverage and its influencing factors in China[J]. Resources and Environment in the Yangtze Basin, 2020,29(6): 1310-1321.]   \n[12] 刘海,刘凤,郑粮.气候变化及人类活动对黄河流域植被覆盖变 化的影响[J].水土保持学报,2021,25(4):143-151.[Liu Hai, Liu Feng, Zheng Liang. Effects of climate change and human activities on vegetation cover change in the Yellow River basin[J]. Journal of Soiland Water Conservation,2021,25(4): 143-151.]   \n[13] 董弟文,阿布都热合曼·哈力克,王大伟,等.1994—2016年和 田绿洲植被覆盖时空变化分析[J.生态学报,2019,39(10): 3710-3719.[Dong Diwen, Abudureheman Halike,Wang Dawei, et al. Spatio-temporal variations in vegetation cover in Hotan oasis from 1994 to 2016[J].Acta Ecologica Sinica,2019,39(10): 3710- 3719.]   \n[14]王玉朝,赵成义.绿洲-荒漠生态脆弱带的研究[J].干旱区地理, 2001,24(2): 182-188.[Wand Yuchao,Zhao Chengyi. Study in desert-oasis ecological fragile zone[J].Arid Land Geography,2001, 24(2): 182-188.]   \n[15] 毛东雷,雷加强,王翠,等.新疆策勒县沙漠-绿洲过渡带风沙 流结构及输沙粒度特征[J].水土保持通报,2015,35(1):25-33. [Mao Donglei,Lei Jiaqiang,Wang Cui,et al. Characteristicsof sand flown structure and sand transportation particles in Cele desert-oasis ecotone of Xinjiang Wei Autonomous Region[J]. Bulltin of Soil and Water Conservation,2015,35(1): 25-3.]   \n[16] 周洒洒,何清,金莉莉,等.塔克拉玛干沙漠北缘绿洲-荒漠过 渡带辐射特征—以肖塘为例[J].中国沙漠,2020,40(4):43- 51.[Zhou Sasa,He Qing,Jin Lili,etal. Radiation characteristics of the oasis-desert transition zone in the northern margin of the Taklimakan Desert: A case study of Xiaotang[J]. Journal of Desert Research,2020,40(4): 43-51.]   \n[17] 韩福贵,徐先英,尉秋实,等.民勤绿洲-荒漠过渡带典型固沙 植物生殖物候对气候变化的响应[J].中国沙漠,2015,35(2): 330-337.[Han Fugui, Xu Xianying, Yu Qiushi, et al. Response of reproductive phenology of typical sand-fixing plants to climate change in the oasis-desert transitional zone in Minqin, Gansu, China[J]. Journal of Desert Research,2015,35(2): 330-337.]   \n[18] 常学礼,季树新,乔荣荣,等.基于NDVI绿洲-荒漠过渡带宽度 识别——以河西走廊中部荒漠绿洲为例[J].生态学报,2020, 40(15): 5327-5336.[Chang Xueli, Ji Shuxin, Qiao Rongrong,et al.NDVI-based identification of oasis-desert transitional zone wideness: A case study in the central Hexi corridor[J]. Acta Ecologica Sinica,2020,40(15): 5327-5336.]   \n[19] 穆桂金,贺俊霞,雷加强,等.再议绿洲-沙漠过渡带:以策勒绿 洲-沙漠过渡带为例[J].干旱区地理,2013,36(2):195-202.[Mu Guijin,He Junxia,Lei Jiaqiang,et al.A discussionof the transitional zone from oasis to sandy desert:A case study at Cele Oasis ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[J].Arid Land Geography,2013,36(2): 195-202.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20] 潘光耀,穆桂金,岳健,等.2001-2010年策勒绿洲-沙漠过渡带 的变化及其成因[J].干旱区研究,2014,31(1):169-175.[Pan Guangyao,Mu Guijin,Yue Jian,et al. Change of the oasis-desert ecotone and its causes in Qira county during the period of 2001-   \n2010[J]. Arid Zone Research,2014,31(1): 169-175.] [21] 毛东雷,雷加强,曾凡江,等.策勒绿洲-沙漠过渡带风沙活动 强度的空间分布特征[J].水土保持学报,2013,27(2):13-19. [Mao Donglei,Lei Jiaqiang,Zeng Fanjiang,etal. Spatial distribution characteristics of sand blown activities intensity on Cele oasisdesert ecotone[J]. Journal of Soil and Water Conservation,2013,27 (2): 13-19.] [22] 张鹤年.塔克拉玛干沙漠南缘-绿洲过渡带生态环境区综合治 理技术与试验示范研究[J].干旱区研究,1995,12(4):1-9. [Zhang Henian. Study on integrated management technology and experimental demonstration of eco-environment zone in Southern margin of Taklimakan Desert and oasis transition zone[J.Arid Zone Research,1995,12(4): 1-9.] [23] 阿布都瓦斯提·吾拉木.绿洲荒漠交错带地下水位分布的遥感 模型研究[D].乌鲁木齐：新疆大学,2000.[Abuduwasiti $\\cdot$ wulamu.Research on Model of Groundwater Level Distribution in Oasis and Desert Ecotone Using Remote Sensing[D]. Urumqi: Xinjiang University,2000.] [24] 毛东雷,雷加强,曾凡江,等.新疆策勒沙漠-绿洲过渡带不同 下垫面地表蚀积变化特征[J].中国沙漠,2014,34(4):961-969. [Mao Donglei,Lei Jiaqiang, Zeng Fanjiang,etal. Sand erosion and deposition on diferent underlying land surfaces in the desert-oasis ecotone in Cele,Xinjiang,China[J]. Journal of Desert Research,   \n2014,34(4): 961-969.] [25] 杨帆,王雪芹,何清,等.绿洲-沙漠过渡带怪柳灌丛沙堆形态 特征及空间分布格局[J].干旱区研究,2014,31(3):556-563. [Yang Fan, Wang Xueqin, He Qing,et al. Morphological features and spatial distrubution pattern of Tamarix ramosissima Nebkhas in an oasis-desert ecotone[J].Arid Zone Research, 2014,31(3):   \n556-563.] [26] 任晓,穆桂金,徐立帅,等.塔里木盆地南缘 2000—2013年人工 绿洲扩张特点[J].干旱区地理,2015,38(5):1022-1030.[Ren Xiao,Mu Guijin,Xu Lishuai, et al. Characteristics of artificial oasis expansion in south Traim Basin from 200O to 2013[J].Arid Land Geography,2015,38(5): 1022-1030.] [27] 叶贵祥,李维青,田源.基于NDVI的干旱区典型绿洲植被覆盖 动态变化分析——以策勒绿洲为例[J].干旱区资源与环境,   \n2009,23(9):128-133.[Ye Guixiang,Li Weiqing,Tian Yuan. Dynamic changes of vegetation cover in typical oasis of arid areas based on NDVI[J]. Journal of Arid Land Resources and Environment 2009,23(9): 128-133.] [28] 李向婷,白洁,李光录,等.新疆荒漠稀疏植被覆盖度信息遥感 提取方法比较[J].干旱区地理,2013,36(3):502-511.[Li Xiangting,Bai Jie,Li Guanglu,et al.Comparison of methods based on MODIS for estimating sparse vegetation fraction across desert in Xinjiang[J].Arid Land Geography,2013,36(3): 502- 511.]   \n[29] 陈涛,李平湘,张良培.武汉地区1988—2002 年植被覆盖度变 化动态分析[J].遥感技术与应用,2008,23(5):511-516.[Chen Tao,Li Pingxiang, Zhang Liangpei. Dynamicanalysisof vegetation fraction change in Wuhan region from 1988 to 2002[J].Remote Sensing Technology and Application,2008,23(5): 511-516.]   \n[30]田静,阎雨,陈圣波.植被覆盖率遥感研究进展[J].国土资源遥 感,2004(1): 1-5.[Tian Jing, Yan Yu, Chen Shengbo. The advances in the application of the remote sensing technique to the estimation of vegetation fractional cover[J]. Remote Sensing for Land & Resources,2004(1): 1-5.]   \n[31] 张号,屈建军,张克存.绿洲植被覆盖度遥感信息提取——以敦 煌绿洲为例[J].中国沙漠,2015,35(2):493-498.[Zhang Hao, Qu Jianjun, Zhang Kecun.Vegetation cover information extraction technology for Dunhuang oasis based on remote sensing images[J]. Journal of Desert Research, 2015,35(2): 493-498.]   \n[32] 伍超群,张绪冰,王耀,等.基于Landsat影像的木里煤田矿区植 被覆盖提取及时空变化分析[J].测绘与空间地理信息,2020, 43(2):67-72.[Wu Chaoqun,Zhang Xubing,Wang Yao,et al. Analysis of vegetation coverage extraction and time-space change in Muli coalfield based on landsat image[J].Geomatics & Spatial Information Technology,2020,43(2): 67-72.]   \n[33]王子玉,许端阳,杨华,等.1981—2010年气候变化和人类活动 对内蒙古地区植被动态影响的定量研究[J].地理科学进展, 2017,36(8): 1025-1032.[Wang Ziyu, Xu Duanyang, Yang Hua, et al. Impactsof climate change and human activitieson vegetation dynamics in Inner Mongolia,1981-2010[J].Progress in Geography,2017,36(8): 1025-1032.]   \n[34]薛薇.SPSS 统计分析方法及应用[M].北京:电子工业出版社, 2013:262-279.[Xue Wei. SPSS Statistical Analysis Method And Its Application[M].Beijing:Publishing House of Electronics Industry,2013: 262-279.]   \n[35] 刘潇,薛莹,纪毓鹏,等.基于主成分分析法的黄河口及其邻近 水域水质评价[J].中国环境科学,2015,35(10):3187-3192. [Liu Xiao,Xue Ying, Ji Yupeng, et al. An assessment of water quality in the Yellow River estuary and its adjacent waters based on principal component analysis[J]. China Environmental Science, 2015,35(10): 3187-3192.]   \n[36] 陈佩.主成分分析法研究及其在特征提取中的应用[D].陕西: 陕西师范大学,2014.[Chen Pei.Principal Component Analysis and Its Application in Feature Extraction[D]. Shaanxi: Shaanxi Normal University,2014.]   \n[37] 毛东雷.策勒绿洲-沙漠过渡带植被与土壤水分空间异质性研 究[J].现代农业科技,2013(13):252-256.[Mao Donglei.Research on space heterogeneity of vegetation and soil moisture in oasis-desert ecotone in Cele county[J]. Modern Agricultural Science and Technology,2013(13): 252-256.]   \n[38] 杨兴华,何清,程玉景,等.策勒绿洲-荒漠过渡带风沙前沿近 地表沙濡水平通量观测[J].干旱区研究,2013,30(6):1100- 1105.[Yang Xinghua,He Qing, Cheng Yujing, et al. Near-surface horizontal aeolian sand-dust flax over oasis-desert ecotone in Qira county,Xinjiang[J].Arid Zone Research,2013,30(6): 1100-1105.]   \n[39] 李震,阎福礼,范湘涛.中国西北地区NDVI变化及其与温度和 降水的关系[J].遥感学报,2005,20(3):308-313.[Li Zhen,Yan Fuli,Fan Xiangtao.The variabilityof NDVIover Northwest China and its relation to temperature and precipitation[J].National Remote Sensing Bulletin,2005,20(3): 308-313.]   \n[40]白红英.秦巴山区森林植被对环境变化的响应[M].北京:科学 出版社,2O14.[Bai Hongying.The Response of Vegetation to Environmental Change in Qinba Mountains[M].Beijing:Science Press, 2014.]   \n[41] 郭铌,朱燕君,王介民,等.近22年来西北不同类型植被 NDVI 变化与气候因子的关系[J.植物生态学报,2008,32(2):319- 327.[Guo Ni, Zhu Yanjun,Wang Jiemin,et al. The relationship between NDVIandclimate elements for22 years indifferent vegetation areas of Northwest China[J]. Journal of Plant Ecology,2008, 32(2): 319-327.]   \n[42] 曾佳,郭峰,赵灿,等.塔克拉玛干沙漠南缘小绿洲近50 a来气 候变化特征[J].干旱区地理,2014,37(5):948-957.[Zeng Jia, Guo Feng, Zhao Can, et al. Climate change of small oases in the southern margin of Taklimakan Desert in recent 5O years[J].Arid Land Geography,2014,37(5): 948-957.]   \n[43] 段峥嵘,祖拜代·木依布拉,夏建新.基于NDVI的干旱区绿洲 植被覆盖度动态变化分析:以新疆阿克苏地区为例[J].中央民 族大学学报(自然科学版),2018,27(2):5-14.[Duan Zhengrong, Zubaidai Muyibula, Xia Jianxin.Analysisof vegetation coverage dynamic change in typical oasis of arid areas based on NDVI: A case study of Aksu region in Xinjiang[J]. Journal of MUC(Natural Sciences Edition),2018,27(2): 5-14.]   \n[44] 隋悦,鹿琳琳,张熙,等.2000—2013年新疆植被覆盖变化多尺 度遥感分析[J].气象与环境科学,2016,39(3):1-8.[Sui Yue,Lu Linlin,Zang Xi,tal.Multi-saleremotesensinganalsisfeg etation coverchanges from 2000 to2013in Xinjiang[J]. Meteorological and Environmental Sciences,2016,39(3):1-8.]   \n[45]马骅,吕永龙,邢颖,等.农户对禁牧政策的行为响应及其影响 因素研究——以新疆策勒县为例[J].干旱区地理,2006,29(6): 902-908.[Ma Hua,Lyu Yonglong,Xing Ying,et al. Rural households’behavior responses to grazing prohibition policy:A case study in Qira, China[J].Arid Land Geography,2006,29(6): 902-908.]   \n[46]岳胜如,周纪云,胡雪菲,等.2000一2018年新疆植被覆盖时空 变化特征及驱动力分析[J].塔里木大学学报,2020,32(2):97- 105.[Yue ShengruZhouJiun,Hu Xuefei,etaltudyondriving factors and spatial- temporal evolution of vegetation coverage in Xinjiang from 200O to 2018[J].Journal of Tarim University,2020, 32(2): 97-105.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Dynamic changes and driving factors of vegetation cover in the oasis-desert ecotone: A case study of Cele, Xinjiang ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CAO Yongxiang'， MAO Donglei'， Xue Jie²³， SU Songling', Kaimaierguli Abulaiti'， CAI Fuyan4   \n(1.Collge ofGeography ScienceandTourism,Xinjiang Normal University,Xinjiang LaboratoryofLakeEnvironment   \nand Resources inArid Zone,Urumqi 830054,Xinjiang, China; 2.StateKey Laboratory of Desertand Oasis Ecology, Xinjiang Institute of Ecologyand Geography,Chinese Academyof Sciences,Urumqi 83oo11,Xinjiang,China; 3.Cele National Station of Observationand Research for Desert-Grassand Ecosystem in Xinjiang, Cele 848300,   \nXinjiang, China; 4. Collge of Application Enginering, Urumqi Vocational University,Urumqi 83002, Xinjiang, China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The oasis-desert ecotone is an ecological buffer zone between the oasis and desert ecosystems,playing an important ecological role in maintaining oasis stability,preventing wind,and fixing sand.Based on Landsat remote sensing image data taken from l993 to 2017,and meteorological and socioeconomic data, we used the normalized vegetation index (NDVI),the pixel dichotomy model,and the principal component analysis method to investigate long-term vegetation changes and their driving factors in small-scale regions.The results show that (1) the average annual NDVIof the Cele oasis-desert ecotone has been increasing yearly in the last 25 years.The high-value area of the NDVI is mainly distributed in the southeast,whereas the low-value area is mainly distributed in the west and northwest of study area; (2) the annual mean fractional vegetation coverage (FVC) was 0.23,and theFVC in 1993,1998,2008,2011,2014,and 2017 were 0.20,0.18,0.19,0.23,0.27,and 0.28, respectively, indicating that vegetation coverage has continuously improved; (3） regional vegetation coverage was mainly medium and low, accounting for $3 0 . 7 3 \\%$ and $2 1 . 4 7 \\%$ of the total area of the study area, respectively. Low, high, higher, and very low vegetation coverage accounted for $2 1 . 4 8 \\%$ ， $20 . 3 9 \\%$ ， $2 0 . 1 2 \\%$ ,and $7 . 2 6 \\%$ of the total study area,respectively. The areas with improved vegetation coverage were relatively small and mainly concentrated in the middle and southeast of the Cele River basin,whereas the distribution of other vegetation cover types was scattered;and(4)on the interannualtimescale,human activities are the dominant factor affecting vegetation change in the oasis-desert ecotone,and vegetation is more sensitive to precipitation than to air temperature.Artificially forested land，cultivated land,populated areas，and shelter belt areas accounted for 0.850,0.810,0.853,and 0.779of the first principal component,respectively.Atmospheric relative humidity, precipitation, and livestock inventory accounted for 0.845, O.753,and $- 0 . 6 0 8$ of the second principal component, respectively,but air temperature accounted for 0.883of the third principal component.This study provides a theoretical basis to further understand vegetation change,the analysis of influencing factors,and vegetation conservation and restoration in the oasis-desert ecotone. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Keywords: normalized difference vegetation index;vegetation coverage;oasis-desert ecotone; influencing factors；principal component analysis ",
+        "page_idx": 11
+    }
+]

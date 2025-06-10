@@ -1,0 +1,380 @@
+# 车联网中基于轨迹预测的无人机动态协同优化覆盖算法
+
+吴壮a,b，唐伦aʰ，蒲昊ab，汪智平ab，陈前斌a,b(重庆邮电大学a.通信与信息工程学院;b.移动通信技术重点实验室，重庆 400065)
+
+摘要：针对城市车联网中出现的基站覆盖空洞及局部流量过载等问题，该文提出了一种基于车辆轨迹预测信息的动态预部署方案。首先，为了训练得到统一的 Seq2Seq-GRU轨迹预测模型，多个携带边缘计算服务器的无人机在分布式联邦学习与区块链的架构下，去除中心聚合节点,采取改进的Raft算法，在每轮训练中根据贡献数据量的大小，选举得到节点来完成参数聚合及模型更新任务。其次，基于模型预测结果，提出了一种改进的虚拟力向导部署算法，通过各虚拟力来引导无人机进行动态地部署以提升车辆的接入率及通信质量。仿真结果表明，所提出的训练架构能够加速模型的训练，部署算法在提升车辆接入率的同时提升了车辆与无人机之间的通信质量。
+
+关键词：无人机；车联网；联邦学习；区块链；虚拟力 中图分类号：TP929.5 doi:10.19734/j.issn.1001-3695.2022.01.0022
+
+# UAV dynamic collaborative optimization coverage algorithm based on trajectory prediction in internet of vehicles
+
+Wu Zhuanga,bt, Tang Luna b, Pu Haoa,b, Wang Zhipinga,b, Chen Qianbina, b (a.SchoolofCommunication& Information Engineering,b.Key Labof Mobile Communication Technology,Chongqing University of Posts & Telecommunications, Chongqing 40oo65,China)
+
+Abstract: Aiming atthe problems ofcoverage voidsofbase stations andlocal trafic overload in urban vehicle networking, this pape proposes adynamic pre-deployment scheme basedon vehicle trajectoryprediction information.Firstly,multiple UAVs equipped with edge computing servers remove the central aggregation node under the architecture of distributed federated learning and blockchainandadoptan improved Raftalgorithm to trainaunifiedSeq2Seq-GRU trajectory prediction model.Intheroundof training,according totheamount ofcontributed data,the scheme elects the nodes to complete the parameteraggregationand modelupdating tasks.Secondly,basedon thepredictionresultsof the model,thispaper proposes animproved virtual force guide deployment algorithm,which gudes the UAVto dynamicall deploy through each virtual force to mprove the accessrate and communication quality ofthe vehicle.The simulation results show that the proposed training architecturecanacelerate thetrainingofthe model,andthedeploymentalgorithm improves theaccess rateof the vehicle while improving the communication quality between the vehicle and the UAV.
+
+Key words: unmanned aerial vehicle; Internet of vehicles; federated learning; blockchain; virtual force
+
+# 0 引言
+
+近些年来，随着我国经济的发展、城市人均生活水平的提升，城区中的车流量迅速增加[1]。车联网作为汽车与电子信息技术融合的新范式，旨在通过人工智能与信息通信技术，解决城市拥堵、安全驾驶等方面的问题[2]。未来的现代智能交通系统(ITS,intelligent transportation system)亟需智能、便捷、安全可靠的车联网环境[3]。然而，在城市的复杂环境中，各种城市建设、障碍物及难以靠近的区域等因素会造成基站覆盖空洞、通信链路质量差等问题。此外，因上下班高峰期，车祸，道路施工等原因造成的城市道路拥堵，局部流量热点的问题会对车联网低时延，高可靠的要求造成严重威胁。
+
+针对以上问题，有学者提出的利用无人机等空中节点以辅助地面车辆通信成为一种趋势[4]。国家将于2030年实现6G 网络的商用化，空天地一体化网络作为其中的重要一环，旨在通过空中节点实现全域覆盖。无人机因其价格低廉、灵敏便捷等优点被广泛用于农业、安检、通信、救灾等领域。它不仅可以实现快速适应各种环境，作为空中节点，还能够实现城市范围内复杂环境的大规模覆盖，是未来6G通信网的重要一环。此外，基站及路侧单元(RSUs，Road SideUnits)虽然已经为车联网提供了通信的保障，但其无法及时地应对处理上述问题，而无人机的高机动性和灵活部署与调整，在解决覆盖空洞、应急通信有着明显优势。无人机辅助基站，可以更好地为ITS服务。
+
+车联网中有效的网络接入、网络流量预测是无人机部署与协调组网的关键，但是车联网中的流量数据难以获取，文献[5]提供了一种思路，由于车联网中车辆终端设备的业务大多是周期性的广播业务，网络流量较稳定，同时一定区域内的网络流量与车辆数据之间有很强的相关性。因此，对于车联网中的网络接入，网络覆盖，流量分布等，本文使用城市中的车辆迁移趋势，车辆位置信息等描述车联网中的网络接入与流量预测。
+
+目前已有大量学者针对无人机作为空中基站部署，主要分为对无人机的三维空间的部署的研究，能量优化下无人机飞行轨迹的研究。文献[6]研究了无人机辅助地面基站的边缘小区用户，通过优化无人机的轨迹及无人机与地面基站之间带宽分布、用户划分，最大化小区中所有用户的最小吞吐量。文献[7]研究了多无人机系统下无人机支持多用户的通信调度及用户关联的优化问题，通过将问题进行分解，加快算法的收敛速度并提升了吞吐量。然而这些场景均没有考虑用户的位置会随时间的变化而发生变化，当用户的位置变化时，整个系统的通信的吞吐量会发生变化。车联网下车辆轨迹预测的研究主要集中在用神经网络去学习车辆的移动特性从而去预测可能移动的位置。张[8]等人运用时空残差网络(ST-ResNet)，并结合外部因素如天气、周内周末等，在北京出租车与纽约共享单车轨迹数据集，该网络结构能很好地预测城市中各区域车辆轨迹。张[9]等人首次利用CNN提取城市中个区域交通流量的空间相关性，研究了基于时空部分与全局部分的时空预测模型(DeepST)，在数据集上验证了其网络模型对于捕获时空特性的优势。城市中基于蜂窝网络的业务流量时空分布及预测研究中，章[10]等人设计了时空密集连接卷积神经网络进行城市蜂窝流量预测。通过意大利电信数据集的验证，得到各个业务有很大的时间周期性，不同城市区域的同一业务存有差异。张[1]等人设计了一种时空跨域神经网络(STCNet)。通过收集基站信息，POI分布，社会活动及与之相关的短信、呼叫、因特网蜂窝业务数据进行相关性分析与研究步量化跨区域数据集和蜂窝流量之间的空间相关性，计算了Pearson 相关系数，得到三种蜂窝业务数据之间存在一定的相似性，蜂窝业务还受到基站数目、小区POI等影响。基于此，设计的STCNet网络可以捕捉蜂窝流量的时空依赖关系及外部影响因素，具有良好的预测性能。对于车辆轨迹预测和业务服务部署的研究，Dalgkitsis[12]设计了四层结构的网络架构：数据中心、区域服务器、边缘计算服务器、车辆。通过利用CNN进行车辆移动轨迹的预测，采用遗传算法将车联网中车辆服务进行动态的迁移到距离车辆最近的边缘服务器，以满足用户的服务质量要求。然而没有考虑将数据放在中心位置进行训练，带来的通信上开销及数据隐私泄露等问题。
+
+针对以上的训练数据隐私保护，无人机部署未考虑车辆用户的空间分布变化，多无人机之间协作等问题。本文的主要贡献总结如下：
+
+1)设计了一种基于分布式联邦学习与区块链的训练学习框架。在该框架下，多个具备边缘计算能力的无人机利用本地车辆轨迹数据进行训练，同时舍去传统联邦学习框架中的参数聚合节点，无人机采取改进的Raft算法竞争当选聚合服务器完成参数聚合的任务，并将更新参数保存在统一维护的区块链中；各无人机节点下载获取参数继续训练直至完成训练任务。
+
+2)提出了一种改进的虚拟力向导算法。该算法将无人机建模成相互之间有引力与斥力作用的电荷，将地面车辆用户建模成分散在各个位置上的电荷，其对无人机也有引力作用；无人机对其他无人机的引力设计中，无人机的能量及无人机覆盖区域内车辆数目会影响库仑力的比例系数，无人机对其他无人机的斥力设计中，安全距离是其比例系数，斥力保证无人机之间不发生碰撞；地面车辆对无人机的引力设计中，考虑车辆的分布位置，力的方向是从车辆指向无人机，保证无人机部署在车辆群体的中心位置上；各无人机在各力的牵引作用下，部署在合力为零的位置。
+
+# 1 系统模型及问题表述
+
+# 1.1系统模型
+
+如图1所示，考虑城市内基站覆盖空洞地区及局部流量过载区域，如路面交通堵塞区域，需要多台无人机协助基站完成该区域的覆盖优化。将热点区域划分为 $H { \times } W$ 个区域，被划分的小区域集合为 $\{ c _ { i , j } \in C \}$ ，其中 $i = 1 , 2 , \cdots , H$ ， $j = 1 , 2 , \cdots , W$ 。初始化被划分的每个区域都包括一定数量的车辆。
+
+1)车联网底层车辆：假设城市中所有车辆配备GPS装置以获取车辆的当前位置，每个车辆具有5G收发设备，用于接入无人机基站，并可以传输自己的位置信息；采用划分时隙的方式，在每个时隙 $n$ 中，各个车辆记录一个位置 $( x _ { n } , y _ { n } )$ ：每经过 $t$ 个时隙，每个车辆汇总 $t$ 个时隙的位置，即：$T _ { n } = [ ( x _ { 1 } , y _ { 1 } ) , ( x _ { 2 } , y _ { 2 } ) , \cdots ( x _ { t } , y _ { t } ) ]$ ，并将过去 $t$ 个时隙的位置信息上传到无人机中进行处理。
+
+2)无人机：现阶段，无人机因其高机动性及灵敏性常被用于空中基站来完成无线接入及覆盖任务。边缘计算作为新兴的技术，将计算任务卸载在用户设备边缘端，可以大大降低任务处理的延迟。考虑未来无人机作为空中基站的同时，为满足车联网的低时延的计算任务，其中也集成了边缘计算能力。所有区域都有一个用于本区域覆盖的无人机，相关文献[5]指出，车联网一定区域内的网络流量与车辆数目之间有很强的相关性，用无人机的车辆接入数量代表其覆盖能力，并假设每个无人机的覆盖能力是相同，即 $\{ u _ { i , j } ^ { \operatorname* { m a x } } = u _ { \operatorname* { m a x } } \}$ 其中，$i = 1 , 2 , \cdots , H$ ， $j = 1 , 2 , \cdots , W$ 。城市中的无人机相互之间通过组网，构成自组织网络，并能通过路由转发的方式告知各自的位置。
+
+![](images/746e48c1762102032ccdc9ac1b743c3ed2c7a990f0495b03e1ee78493a6c0ef3.jpg)  
+图1系统架构  
+Fig.1System architecture
+
+# 1.2问题描述
+
+考虑到该区域中各车辆用户并非静止，车联网中的车辆分布位置是随时间的变化而发生改变，传统的数学模型在刻画车辆的轨迹时，具有很大的局限性。因此为了学习到该区域的车辆移动特性，需采取深度学习的方法，来学习车辆的轨迹变化信息。单一无人机节点训练模型具有一定的局限性，无法与其他无人机进行模型交互，无法学习到整个区域车辆信息。因此需要一种分布式的训练学习框架来协同各无人机的训练，加速模型的推演。
+
+传统的无人机部署解决的是单一时刻的无人机部署与能耗问题。原本固定在各划分区域的无人机可能会因为迁入车辆数目大于迁出车辆数目、本地接入车辆的数量激升，导致基站负荷过载，影响车联网中车辆的通信质量；也可能发生车辆迁出数目大于迁入数目，从而发生因接入车辆数量下降而导致无人机空闲，造成通信资源的浪费。当车辆用户的时空特性发生变化时，无人机的部署能耗优化问题需在地面车辆用户位置发生变化时进行重新计算位置，因此本文设计了一种智能预部署算法来进行无人机位置的迭代更新。为了获取移动车辆用户的分布特性，本文提出了一种基于联邦学习与区块链的Seq2Seq-GRU训练学习架构，训练的模型可以预测并获取车辆用户分布特征；为了优化无人机的部署位置，设计了一种改进的虚拟力向导部署算法来进行动态地更新。
+
+# 2 基于联邦学习与区块链的Seq2Seq-GRU
+
+# 2.1 Seq2Seq-GRU
+
+门控循环单元网络(GRU)是基于循环神经网络(RNN)改进的一种神经单元[13]，其网络架构如图2所示，在处理和预测时间序列数据时比传统RNN有更为优异的表现，相较于长短期记忆网络(LSTM)结构更为简单。GRU单元结构中包括两个门：更新门及重置门。其中更新门、重置门和下一时刻输出门的计算公式为
+
+![](images/cfc42c018f01f409634a68c6493b19386af0b2b75f1724ce2ce34b06dbe26205.jpg)  
+图2GRU结构
+
+式(1)中， $x _ { t }$ 为当前时刻的输入信息； $h _ { t } ^ { \ast }$ 为当前时刻的候选输出状态； $h _ { t }$ 为当前时刻的输出状态信息； $z _ { t }$ 为GRU更新门，作用是决定前一时刻输出状态信息可以被更新到当前状态的大小程度； $r _ { t }$ 为重置门，作用是决定前一时刻输出状态信息可以被更新到候选状态的大小程度； $\sigma$ 为 sigmoid 激活函数。
+
+车辆运行轨迹数据为时间序列的数据，$T _ { n } = \{ ( x _ { 1 } , y _ { 1 } ) , ( x _ { 2 } , y _ { 2 } ) , \cdots ( x _ { n } , y _ { n } ) \}$ ，通过已知位置序列，可以预测下一时间的位置序列。轨迹预测的问题可以表述如下：
+
+$$
+\widetilde { l } _ { n } \cdots \widetilde { l } _ { n + k } = \arg \operatorname* { m a x } P ( l _ { n + 1 } \cdots l _ { n + k } | l _ { 1 } l _ { 2 } \cdots l _ { n } )
+$$
+
+其中 $l _ { i } = ( x _ { i } , y _ { i } )$ □
+
+序列到序列(Seq2Seq)是专门为时序序列的学习和预测而设计的一种结构。它可将任意长度的输入序列映射成可变长度的输出序列，其网络模型图如图3所示。Seq2Seq 框架由两个不同的神经网络组成，分别为编码器网络和解码器网络[14]。首先，编码器网络读取输入序列，并将其转换为固定长度的矢量作为其整体表示。当Seq2Seq的基本神经单元为GRU时，整体表示是编码器网络中最后的输出状态向量 $h _ { \mathrm { r } }$ 及候选输出状态向量 $h _ { \iota } ^ { \prime }$ 。然后，解码器使用整体表示来初始化其自身的内部状态，并在随后的迭代过程中逐步估计正确的输出序列。每一步的输出代表当时的预测结果。通常，解码器部分被设计为自回归模型，其中前一步的输出将被用作下一步的输入。
+
+编码器网络包括三层堆叠的GRU层，每一个轨迹输入到第一层各个GRU单元中，输出的状态信息分别输入到下一层及下一时刻的GRU单元中去。解码器采取的网络结构与编码器网络相同，编码器网络最后更新的GRU 单元状态作为解码器网络的输入。同时最后一个轨迹数据输入到解码器第一个GRU单元中，依次类推，每前一步预测结果输入到下一步第一层GRU单元中。
+
+![](images/1d4fb07019e5e0701afe7c60975a3cf1094a587ca76d4b720a4302f14974cffa.jpg)  
+Fig. 2 GRU structure   
+Fig.3Sequence-to-sequence GRU network model
+
+# 2.2联邦学习与区块链下的Seq2Seq-GRU训练
+
+在传统的集中式训练框架下，各无人机节点拥有本地轨迹数据，该框架下要求各节点将本地数据上传至统一的云端服务器，经过数据清洗及数据格式的统一后再训练生成一个通用的神经网络预测模型。在完成神经网络模型的训练后，各无人机节点从云端服务器下载网络模型。数据的上传会占用大量的网络资源，且难以应对一些实时性要求较高的应用场景；并且将数据上传至云端服务器存在数据泄露的风险，这样难以保护各车联网用户数据的安全与隐私。
+
+联邦学习是一种旨在保护数据安全与用户隐私的分布式机器学习架构[15]，它解决了小数据、数据孤岛、模型训练慢等问题。基于区域划分的车联网是一种典型的分布式网络，各区域中参与的底层车辆会产生大量的数据，将数据上传至统一的中心，进行统一的模型学习训练，会面临着以下三个方面的挑战：一是大量数据上传会导致通信上行链路的拥塞，二是数据上传会涉及到车辆隐私信息问题，三是数据上传至统一的中心进行训练会导致模型训练速度慢的后果。
+
+单一联邦学习框架下，分布式模型训练各个体需要依赖于一个统一的中心节点的协作配合以完成参数聚合、模型更新。但当中心节点受到攻击后会导致训练停滞，模型参数无法及时更新，影响整个系统模型的训练进程。同时攻击会导致 Seq2Seq-GRU模型信息的泄露，文献[16]指出，利用区块链的去中心化及分布式记账本的特性来解决中心节点易受攻击及信息安全的问题。因此本文设计了一种基于联邦学习与区块链 Seq2Seq-GRU训练框架，将各无人机节点刻画成区块链的每个矿工节点，来进行模型的学习。
+
+被划分区域中的无人机分布在各个子区域内，是一种典型的分布式结构。联邦学习的各个学习体利用本地的数据进行训练，其学习的目的在于最小化全局损失函数，定义如下：
+
+$$
+\underset { \ b { \mathrm { a r g m i n } } \ b { F } ( \boldsymbol { w } ) } { \sum _ { j = 1 } ^ { W } \sum _ { i = 1 } ^ { H } } D _ { i , j } F _ { i , j } ( \boldsymbol { w } )
+$$
+
+式(3)中 $F _ { i , j } ( w )$ 为无人机 $u _ { i , j }$ 的本地损失函数， $D _ { i , j }$ 为无人机$u _ { i , j }$ 的数据集的大小， $D$ 是整个多无人机网络的数据集的大小。
+
+区块链的领导者：无人机群体的起始领导者是由整个无人机群体随机选举出的一个无人机，它的任务是创立区块链的起始区块；所有无人机向该无人机申请注册获取公钥和私钥。随后的领导者是由各无人机竞争选举出来的，其任务是创建维护新区块，并完成参数聚合及模型更新等工作。
+
+公钥与私钥：各无人机上传模型参数利用公钥加密参数信息并可以利用公钥验证该模型参数是否收到攻击。私钥是各无人机进行保管的本地密钥，可以提供验证并解密的模型参数信息。
+
+起始区块：是区块链的第一个区块，其中的信息包括了需要训练的 Seq2Seq-GRU的初始模型参数 $w ( k = 0 )$ 。
+
+矿工：矿工是各无人机节点，各矿工可以利用其收集的车辆轨迹数据进行本地模型的训练，也可以提供区块链中各区块的维护、验证。整个矿工群体可划分为候选人群体及选民群体。
+
+多台无人机的学习训练的流程如图4所示，详细过程介绍如下。
+
+![](images/c8f1513bdcf548b62a8b02e24d73b25754b6945d28afdb844cfb146ba9237b22.jpg)  
+图3Seq2Seq-GRU 网络模型  
+图4无人机训练流程  
+Fig.4UAV training process
+
+步骤1：由整个无人机群体随机选举起始领导者，由该领导者创建区块链的起始区块。无人机群体中其他无人机下载初始模型参数、公钥及各自的私钥，此时各无人机是参与整个训练流程的矿工。
+
+步骤2：矿工利用本地车联网中车辆的数据集，根据其局部损失函数，按照随机梯度下降算法进行局部更新，即：
+
+$$
+w _ { i , j } ( k ) = w _ { i , j } ( k - 1 ) - \eta \Delta w _ { i , j } ( k - 1 )
+$$
+
+各矿工将模型参数信息按公钥进行加密。
+
+步骤3：为了奖励各矿工贡献训练成果，完成更多训练任务的矿工将获得创立新区块及在本地进行全局模型参数的聚合更新的机会，矿工群体按照算法1进行选举，选出领导者。
+
+步骤4：领导者使用公钥创建下一个区块。
+
+步骤5：各矿工将其加密后的模型参数用私钥进行数字签名，并上传至领导者。
+
+步骤6：领导者利用私钥对各个矿工上传的模型参数进行解密验证，并用联邦平均算法更新全局模型参数，如下式（5)：
+
+$$
+w ( k ) = \frac { \displaystyle \sum _ { J = 1 } ^ { W } \sum _ { i = 1 } ^ { H } D _ { i , j } F _ { i , j } ( w ) } { D }
+$$
+
+领导者将更新后的模型利用公钥进行加密，并结合其数字签名，作为事务，添加到区块中。
+
+步骤7：各个终端车辆下载更新后的区块链并进行解密获取更新后的全局模型参数，然后基于此模型参数，从步骤2 开始重复上述过程，直至全局模型收敛，或满足其他终止条件时停止训练。
+
+算法1改进的 Raft 算法输入：矿工数目 $H \times W$ ，矿工集合 $\cup M _ { i , j }$ 各矿工用于训练的有效数据集大小 $D _ { i , j }$ ，矿工候选人数目 $N u m _ { c a l }$ ，前任矿工领导数据集大小 $D _ { F L }$ ，训练轮次 $T$ 输出：矿工领导者 $L _ { T }$ ，矿工候选人群体 $\cup C _ { i , j }$ ，矿工选民 $\cup F _ { i , j }$ 初始化： $D _ { \mathrm { m a x } } = D _ { F L }$ 、 $D _ { m e d } = 0$ ，训练轮次 $T = 1$ 1:if $T = 1$ 2: for $\forall M _ { k } \in \cup M _ { i , j }$ do3: if $D _ { i , j } \geq D _ { \operatorname* { m a x } }$ 4: $D _ { F L } = D _ { k }$ ， $L _ { T } = L _ { k }$ ，选举数据集最大的为矿工领导5： if $D _ { m e d } \leq D _ { k } < D _ { \operatorname* { m a x } }$ 6: $C _ { k _ { n w p } } \cup C _ { i , j }$ ， $D _ { m e d } = \operatorname* { m i n } ( D _ { i , j } \in \cup C _ { i , j } )$ ，选举候选人群体，候选人群体在下一轮获得优先被选举权7: else8: $F _ { k } \cup F _ { i , j }$ ，划分矿工群体， $T = T + 1$ 9: end for $T = T + 1$ （2010:else11: $L _ { T } \in \cup F _ { i , j }$ ，上一轮选举人回归到矿工群体内12: for $\forall C _ { k } \in \cup C _ { i , j }$ do13: if $D _ { k } \geq D _ { \operatorname* { m a x } }$ （204号14: $D _ { F L } = D _ { k }$ ， $L _ { T + 1 } = L _ { k }$ ，候选人群体内选举这一轮的领导者15: end for16: for $\forall F _ { k } \in \cup F _ { i , j }$ do17: $D _ { \mathrm { m e d } } = \operatorname* { m a x } ( D _ { i , j } \in \cup F _ { i , j } )$ ， $F _ { k } \in \cup F _ { i , j }$ ，矿工群体内本轮贡献训练数据量最大的进入候选人群体内，参与下一轮训练
+
+# 18: end for
+
+训练结束后，各个无人机可以利用其私钥解密最后区块中的模型参数信息，并利用训练好的Seq2Seq-GRU对划分区域内的车联网车辆时空分布特性的进行预测。这是后续无人机群体进行动态地预部署的依据。
+
+# 3 改进的虚拟力向导部署算法
+
+# 3.1无人机与地面车联网车辆用户的信道模型
+
+为了简化分析，参照无人机的空地信道模型[17]，定义无
+
+人机对地面车联网车辆之间视距传输概率为
+
+$$
+P _ { L o s } ( \theta ) = \frac { 1 } { 1 + \alpha \exp ( \beta ( \theta - \alpha ) ) }
+$$
+
+其中， $\theta$ 为无人机与地面车联网车辆之间的夹角； $\alpha$ 、 $\beta$ 分别为地理环境因素所决定的地理环境参数。与此同时，可以得到非视距的传输概率为 $P _ { N L o s } ( \theta ) = 1 - P _ { L o s } ( \theta )$ 。
+
+无人机与地面车辆之间的视距与非视距的平均路径损耗分别为
+
+$$
+\begin{array} { l } { { \displaystyle { \cal L } _ { L o s } = 2 0 \log \displaystyle \frac { 4 \pi } { c } \times d \times f + \eta _ { L o s } } } \\ { { \displaystyle { \cal L } _ { N L o s } = 2 0 \log \displaystyle \frac { 4 \pi } { c } \times d \times f + \eta _ { N L o s } } } \end{array}
+$$
+
+其中， $\textit { d }$ 为无人机与地面车辆的直线距离， $f$ 为无人机选择信道的载波频率， $\mid c \mid$ 为电磁波的传播速度， $\eta _ { L o s }$ 、 $\eta _ { N L o s }$ 分别为视距及非视距情况中其他的自由空间损耗。
+
+则无人机与地面车辆之间的路径损耗可以表示如下：
+
+$$
+\begin{array} { r } { L o s ( \mathrm { d B } ) = P _ { L o s } ( \theta ) \times L _ { L o s } + P _ { N L o s } ( \theta ) \times L _ { N L o s } } \end{array}
+$$
+
+多台无人机服务地面车辆时，地面车辆用户会接收到各无人机的信号，从而产生叠加干扰。为了保证通信质量，地面车辆会选择大于自己SINR阈值的无人机来进行接入。其中地面上第 $k$ 个车辆用户接收到第 $m$ 个无人机的信干噪比定义为
+
+$$
+S I N R _ { m , k } = \frac { p _ { m , k } g _ { m , k } } { \displaystyle \sum _ { n = 1 \land n \neq m } ^ { N } p _ { n , k } g _ { n , k } + N }
+$$
+
+其中， $\sum _ { n = 1 \land n \neq m } ^ { N } p _ { n , k } g _ { n , k }$ 是除无人机 $m$ 以外其他无人机的干扰功率之和， $N$ 是高斯白噪声功率， $g$ 是无人机与地面车辆用户之间的功率增益，是由 $g = 1 0 ^ { \frac { L o s ( \mathrm { d B } ) } { 1 0 } }$ 确定。并且假定无人机给每个车辆用户分得的功率是相同的 $p _ { m , k } = p _ { \mathrm { m a x } } / u _ { i , j } ^ { \mathrm { m a x } }$ 。为了保证车辆用户的通信质量，车辆用户的信干噪比还需满足下式(10)的最小信干噪比 $\Psi _ { \iota h }$ 约束。
+
+$$
+S N I R _ { { m } , k } \ge \Psi _ { { t h } }
+$$
+
+# 3.2无人机能耗模型
+
+无人机是能量受限的移动终端，为了保证无人机的正常飞行及正常回收，需要对无人机的能耗进行建模，以更新无人机的剩余能量。为了方便刻画分析，忽略了无人机作为基站的发射能耗，这里主要考虑无人机的飞行能耗。
+
+按照无人机的飞行状态，可以将飞行行为划分为两种情况，一种是悬停状态，一种是直线飞行状态。
+
+为了简化模型，将无人机直线飞行状态下的功率值设定为常数，记为 $P _ { f }$ 。则飞行一段时间后，无人机的飞行能耗为
+
+$$
+E _ { d } ( t ) = P _ { f } \Delta t = P _ { f } \frac { \Delta d } { V _ { f } } = P _ { f } \frac { \sqrt { ( x ^ { ' } - x ) ^ { 2 } + ( y ^ { ' } - y ) ^ { 2 } } } { V _ { f } }
+$$
+
+其中 $V _ { f }$ 是无人机飞行速率， $( x ^ { \prime } , y ^ { \prime } )$ 是飞行一段时间后的位置，$( x , y )$ 是出发时的位置。
+
+无人机悬停状态下，无人机功率值也设定为常数，记为$P _ { h }$ 。则悬停在原位置一段时间后，无人机的悬停能耗为
+
+$$
+E _ { h } ( t ) = P _ { h } \Delta t
+$$
+
+其中， $\Delta t$ 是无人机在原位置所停留的时间。且无人机在飞行时的平均功率应大于其静止时的平均功率，即 $P _ { f } > P _ { h }$ 0
+
+# 3.3 虚拟力设计
+
+无人机学习到的 Seq2Seq-GRU 模型可以提前预测并感知车辆用户的下一位置或多步行驶后的位置，此为预部署，为缓解热点区域通信压力提供了有力依据。为了使无人机预先部署在相应的合理位置，将无人机群体、车辆用户建模成相互之间有虚拟库仑力作用的电荷；设计并改进了几种虚拟力，这些虚拟力会引导无人机准确飞行及位置动态更新。
+
+划分区域中，各无人机所覆盖的区域内的车辆数量不同。当本区域的车辆数目过多时，无人机会请求附近区域的无人机进行协助覆盖，并且无人机的剩余能量是无人机服务于本区域的限制条件，如图5(a)所示。为了刻画这种关系，无人机之间的虚拟引力按照库仑引力进行建模，其定义如下：
+
+$$
+F _ { m , n } ^ { + } = \frac { u _ { m } ^ { t } } { u _ { \mathrm { m a x } } } \times \frac { E _ { \mathrm { m i n } } } { E _ { m } ^ { t } } \times \frac { \vec { e } _ { m , n } } { d _ { m , n } ^ { 2 } } = k _ { + } \frac { u _ { m } ^ { t } } { E _ { m } ^ { t } } \frac { \vec { e } _ { m , n } } { d _ { m , n } ^ { 2 } }
+$$
+
+其中， $k _ { + }$ 为常数，是无人机最小能量与最大接入能力之比；$\boldsymbol { u } _ { m } ^ { t }$ 为无人机 $m$ 在时刻 $t$ 覆盖区域的车辆数目； $E _ { m } ^ { t }$ 为无人机 $\mid m \mid$ 在时刻 $t$ 的剩余能量； $\vec { e } _ { m , n }$ 为无人机 $m$ 指向无人机 $n$ 的单位向量； $d _ { m , n }$ 为无人机 $m$ 与无人机 $n$ 之间的直线距离。由式(13)可以看出，当无人机区域内的车辆用户数增长时或自身能量剩余不足时，该引力会增大，从而请求附近区域的无人机进行协助覆盖接入。
+
+此外，无人机与无人机之间存在着安全距离，安全距离不仅为了防止两个无人机之间相撞，而且保证各个无人机必须有一个最小覆盖范围，用于服务最小覆盖范围内的车辆，如图5(b)所示。将两个无人机之间的虚拟斥力按照库仑斥力进行建模，其定义如下：
+
+$$
+F _ { m , n } ^ { - } = { \frac { d _ { \mathrm { m i n } } { \vec { e } } _ { m , n } } { d _ { m , n } ^ { 2 } } } = k _ { - } { \frac { { \vec { e } } _ { m , n } } { d _ { m , n } ^ { 2 } } }
+$$
+
+其中， $k _ { - }$ 为常数，表示无人机之间的最小安全距离。
+
+![](images/9ddf4c9c0ab70eed9ea1925229bfd85f0f9c41b4a93cd99f359172c98f6fcb74.jpg)  
+图5无人机之间的引力与斥力图
+
+各无人机可以根据Seq2Seq-GRU网络模型预测获取各区域内车辆的移动轨迹与未来位置，从而获取区域内车辆的二维空间分布情况，如图6所示。为了使无人机飞到车辆用户上方，无人机 $m$ 受到用户 $i$ 的吸引力也可建模为库仑引力，其定义如下：
+
+$$
+F _ { m , i } ^ { + } = k _ { u s e r } \frac { \vec { e } _ { m , i } } { d _ { m , i } ^ { 2 } }
+$$
+
+其中 $k _ { u s e r }$ 为常数，是地面用户对无人机的吸引力常数； $\vec { e } _ { m , i }$ 为用户 $i$ 指向无人机 $m$ 的单位向量； $d _ { m , i }$ 为无人机 $m$ 与用户 $i$ 之间的直线距离。
+
+![](images/d7a8bf5646e7a2655e8b152624129815c06353f296c396d14eaa813ee096bed7.jpg)  
+Fig.5Gravitation and repulsion diagram between uavs   
+图6用户对无人机的引力 Fig.6User's gravitational force to UAV
+
+借助物理学中力的合成与分解，同时忽略无人机分解到z 轴方向的力，无人机 $m$ 的三种合力可以分解到 $x$ 轴与 $y$ 轴方向的力，合力 $F _ { m }$ 可表示如下：
+
+$$
+\begin{array} { l } { { \displaystyle F _ { m } = F _ { x } + F _ { y } } } \\ { { \displaystyle F _ { m , x } = \sum _ { u _ { n } } F _ { n , m } ^ { + } ( x ) + \sum _ { u s e r _ { i } } F _ { i , m } ^ { + } ( x ) + \sum _ { u _ { n } } F _ { n , m } ^ { - } ( x ) } } \\ { { \displaystyle F _ { m , y } = \sum _ { u _ { n } } F _ { n , m } ^ { + } ( y ) + \sum _ { u s e r _ { i } } F _ { i , m } ^ { + } ( y ) + \sum _ { u _ { n } } F _ { n , m } ^ { - } ( y ) } } \end{array}
+$$
+
+$F _ { m , x }$ 与 $F _ { m , y }$ 为无人机 $\mid m$ 受到的 $x$ 轴与 $y$ 轴上的各引力与斥力 的矢量和， $F _ { m }$ 为无人机 $m$ 受到的 $x$ 轴与 $y$ 轴上的力的矢量和。
+
+为了防止无人机因地面车辆用户的小范围移动而导致无人机受力一直发生变化，自身受到的合力无法为0；设置无人机预测部署时间间隔，一方面，在单个或多个时间间隔内，无人机利用的预测模型可以进行车辆单步或多步移动后的位置；另一方面，在每个时间间隔内，假设车辆用户将会移动到固定位置上，并接受某个无人机的服务。当被划分区域内的各无人机在该时间间隔内飞向合力为0的位置上，就完成了此时刻覆盖。
+
+当无人机协助附近无人机时，处于两个无人机交叉覆盖的区域的车辆用户会计算得到自己与协助无人机之间的信干噪比，若高于原信干噪比，则选择切换到该无人机上。因此本文中的地面车辆用户选取的是最大信干噪比接入。整个协助部署如算法2所示。
+
+算法2无人机动态辅助车联网车辆用户覆盖接入输入：无人机的 Seq2Seq-GRU 的预测模型，时间间隔 $\Delta t$ ，无人机更新部署位置的时间间隔 $T = N \Delta t$ ，无人机之间的引力系数 $k _ { + }$ ，车辆用户对无人机的引力系数 $k _ { u s e r }$ ，无人机之间的斥力系数 $k _ { - }$ ，无人机的接入能力 $u _ { \mathrm { m a x } }$ ，无人机的最低能量 $E _ { \mathrm { m i n } }$ 。输出：无人机各时间间隔的飞行轨迹及各部署位置。初始化：无人机的初始位置1:for $U A V _ { m } \in \forall U A V$ 在 $T$ 内do2：预测经过 $T$ 时间后车辆用户的空间分布，并更新 $u _ { m } ^ { t + T }$ ；无人机根据式(16)计算得到的合力为0的位置3:if $E _ { \mathrm { m i n } } \leq E _ { m } ^ { t }$ 4: $U A V _ { m }$ 进行飞回基地5： else if $U A V _ { m }$ 的 $F _ { m } \neq 0$ 6: （204号 $U A V _ { m }$ 受力飞行到 $F _ { m } = 0$ 的位置；根据式(11)与式(12)更新E7: for $u s e r _ { i } \in U A V _ { m } \land \forall U A V _ { n , n \neq m }$ do8: if $S N I R _ { n , i } \geq S I N R _ { m , i }$ 且 $u _ { n } ^ { t } \neq u _ { \operatorname* { m a x } }$ （2049: 车辆用户 $i$ 从 $U A V _ { m }$ 切换接入到 $U A V _ { n }$ 10: else11: 不选择切换12: end for13: else14: 等待下一时刻15:end for
+
+影响整个部署算法的复杂度的两个关键因素，无人机数目与无人机的计算合力为零的时间，假设单个无人机计算时间为t，则整个部署算法的时间复杂度为 $o ( m * t )$ 0
+
+# 4 仿真分析
+
+# 4.1基于区块链联邦学习的 Seq2Seq-GRU 训练
+
+为了评估所提出Seq2Seq-GRU的算法性能，采取了两个评估指标，1)均方误差(MSE)，衡量多个用户的预测位置数据与真实位置数据之间的平均误差；2)直线距离，表示预测位置与实际位置的距离。
+
+MSE 的定义如下：
+
+$$
+\underset { M S E } { \sum } = \frac { \displaystyle \sum _ { u s e r _ { m } = 1 } ^ { K } ( \hat { P } _ { u s e r _ { m } } - P _ { u s e r _ { m } } ) ^ { 2 } } { K }
+$$
+
+其中： $\hat { P } _ { u s e r _ { m } }$ 是用户 $m$ 的预测位置， $P _ { u s e r _ { m } }$ 是用户 $m$ 的实际位置。
+
+直线距离是根据两地之间经纬度数据进行计算，公式如下：$d _ { ( \hat { P } _ { \mathrm { t a c r } _ { m } } - P _ { \mathrm { a t e r } _ { m } } ) } = R \times \operatorname { a r c c o s } [ \cos ( \hat { y } ) \cos ( y ) \cos ( \hat { x } - x ) + \sin ( y ) \sin ( \hat { y } ) ]$ (18)其中： $R$ 是地球的半径， $( \hat { x } , \hat { y } )$ 是预测的经纬度位置， $( x , y )$ 是实际的经纬度位置。
+
+本实验采取真实的数据集，是2008年美国旧金山湾区
+
+30天内收集的500 辆出租车GPS坐标，每个出租车的样本包含纬度、经度、占有率、时间戳，占有率反映的是出租车是否有乘客，本实验仿真未使用。
+
+仿真平台选取的是PyCharm2020.3与Anaconda3，编程语言为Python3.7，深度学习框架选取的是TensorFlow。
+
+将数据集按照 $80 \%$ 、 $10 \%$ 及 $10 \%$ 的比例划分为训练集、验证集、测试集。
+
+为了对比提出的 Seq2Seq-GRU 轨迹预测模型的性能，采用了传统的机器学习方法作为基线方法，如线性回归、支持向量机，及深度学习相关的RNN及LSTM。均方误差的仿真结果如图7所示。另一个评估模型的指标是单步预测位置与实际位置的直线距离。仿真结果如图8所示。
+
+![](images/01d804d1c9eebd411cf197a71775cdbbe7882cca5037eb69967b9cdc8c8a21d7.jpg)  
+图7不同模型的MSE
+
+45 1 1 线性回归 40 1 RNN LSTM 35 一 T GRU Seq2SeqLSTM   
+30 + JSeq2SeqGRU Bi-GSeq-Atention Social-Scene-LSTM 20   
+单 15 m 10 5 0 3 4 56 7 8 9 9种预测模型
+
+从图7与图8可看出Seq2Seq-GRU的MSE与预测误差明显小于传统的回归方法，且相对于RNN和LSTM相关模型的性能更好。此外，注意机制(Seq2Seq-Attention)并没有比常规的Seq2Seq框架的预测效果更优。因为注意力机制主要解决的是机器翻译中输入句子和输出句子之间的单词顺序不匹配问题。而轨迹数据是一个关于位置的时间序列集合，具有从左到右的顺序关系，且短期轨迹具有细粒度的特性，因此，速度和方向等全局信息对于轨迹预测更为重要。
+
+当进行多步预测时，随着预测步幅的增长，误差也会累计。表1统计了各个方法的多步预测预测位置与实际位置的误差。
+
+从表1可以看出，虽然Social-Scene-LSTM单步预测的误差相较于Seq2Seq-GRU预测模型的更低，但是随着预测步长的增加，其累计误差相较于Seq2Seq-GRU更大，模型预测结果不稳定。
+
+为了加速模型训练及保护本地车辆位置数据的隐私，训练过程中引入了联邦学习与区块链框架，图9对比仿真了10个节点在集中式框架与本文所提框架的模型训练收敛速度。从图中可以看出，集中式框架下轨迹预测模型大约在第160轮开始收敛，而联邦学习与区块链框架下轨迹预测模型在第20轮已经收敛；证明所提出的联邦学习与区块链框架的训练效果更好。因为联邦学习可以充分应用各个无人机的算力，将模型训练任务分配给每个无人机，从而加速模型的训练速度，而传统集中式框架将所有模型训练任务分配给单一的无人机上，导致训练速度慢，效率低下。
+
+![](images/17a8bcc864ab64ca7a0982f77e84dcc64f8bcd899aedd150a756e3d2e274df79.jpg)  
+Fig.7MSE of different models   
+图8各个模型预测位置与实际位置的距离差  
+Fig.8Distance difference between predicted position and actual position of each model   
+图9集中式训练与联邦学习的训练模型收敛图   
+Fig.9Convergence diagram of training model for centralized training and federated learning
+
+表1各个方法多步预测与实际位置之间的误差距离(m)
+
+Tab.1 Error distance between multi-step prediction and actual position of each method (m)   
+
+<html><body><table><tr><td>方法</td><td>1步</td><td>2步</td><td>3步</td></tr><tr><td>线性回归</td><td>40.23</td><td>60.79</td><td>85.67</td></tr><tr><td>RNN</td><td>20.11</td><td>35.97</td><td>58.04</td></tr><tr><td>LSTM</td><td>19.89</td><td>32.07</td><td>56.83</td></tr><tr><td>GRU</td><td>20.03</td><td>33.17</td><td>57.24</td></tr><tr><td>Seq2Seq-LSTM</td><td>14.73</td><td>28.67</td><td>45.26</td></tr><tr><td>Seq2Seq-GRU</td><td>13.69</td><td>27.45</td><td>44.38</td></tr><tr><td>Bi-GRU</td><td>14.71</td><td>28.59</td><td>45.02</td></tr><tr><td>Seq2Seq-Attention</td><td>16.22</td><td>27.72</td><td>46.81</td></tr><tr><td>Social-Scene-LSTM</td><td>13.681</td><td>27.51</td><td>44.37</td></tr></table></body></html>
+
+# 4.2改进的虚拟力部署
+
+预部署算法中，相关的仿真参数如表2所示。
+
+表2仿真参数设置  
+Tab.2Simulation parameter settings   
+
+<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>无人机的数目</td><td>50</td></tr><tr><td>无人机的覆盖范围（Rmax）</td><td>100m</td></tr><tr><td>无人机的最大接入能力（umax）</td><td>150</td></tr><tr><td>无人机的电池能量（Emax）</td><td>10KJ</td></tr><tr><td>无人机高度(H)</td><td>200m</td></tr><tr><td>无人机之间的引力系数(k+)</td><td>10</td></tr><tr><td>无人机之间的斥力系数(k-)</td><td>20</td></tr><tr><td>车辆对无人机引力系数（kuser）</td><td>5</td></tr><tr><td>无人机的最低能量限制（Emn）</td><td>10KJ</td></tr><tr><td>无人机的发射功率(P)</td><td>10w</td></tr><tr><td>无人机直线飞行时的飞行功率(P）</td><td>150w</td></tr><tr><td>无人机的悬停功率（Ph）</td><td>100w</td></tr></table></body></html>
+
+为了验证动态的无人机覆盖部署优化算法，对比仿真了全域无人机静止在本区域、在相邻两个区域互相反复横向移动、随机移动部署及改进虚拟力向导的部署算法在一段时间上的覆盖接入率，其中覆盖率的定义如下：
+
+$$
+C = \frac { u s e r _ { c o n n e c t e d } } { u s e r _ { a l l } } = \frac { \displaystyle \sum _ { j = 0 } ^ { W } \sum _ { i = 0 } ^ { H } u s e r _ { ~ i , j } ^ { \prime } } { \displaystyle \sum _ { j = 0 } ^ { W } \sum _ { i = 0 } ^ { H } u s e r _ { i , j } }
+$$
+
+四种算法在不同时刻的仿真结果如图10所示。
+
+![](images/1744b5e55d8e32eea8b0cfc05057c71d02bd9af141f071ecaa60232057a36ae4.jpg)  
+图10四种算法不同时刻覆盖接入率
+
+从图中可看出基于改进的虚拟力部署算法随时间的变化覆盖接入率稳定在 $92 \%$ 左右，且相对于其他三种部署算法有明显的提升。
+
+另外对比了四种部署算法在各个时刻的剩余能耗，结果如图11所示。
+
+![](images/eb080c2adb342fa031ed13e1268b0556efdd70a656414d102e5843d9a98ef245.jpg)  
+Fig.1OFour algorithms cover the access rate at different times
+
+从图中可看出，基于改进的虚拟力部署算法相较于其他三种部署算法的能量损耗较大，因为无人机为了满足不同时刻，部署在不同位置的需要，飞行能耗较大。
+
+其次，仿真对比了地面车辆用户采取最大信干噪比接入算法下，四种部署算法下车辆用户的平均信干噪比，如图12所示。
+
+![](images/4c3c9820c728e98b8fb2038672514e20c86b5dbb26228fef87738d01147e0515.jpg)  
+图11不同时刻各无人机的剩余能量总和 Fig.l1The sum of the remaining energy of each UAVat different times   
+图12四种算法不同时刻地面车辆用户的平均信干噪比 Fig.l2Average signal-to-interference-noise ratio of ground vehicle usersat different times with four algorithms
+
+从图中可看出基于改进的虚拟力部署算法随时间的变化车辆用户的信干噪比稳定在12.5dB左右，且相对于其他三种部署算法有明显的提升。
+
+从图10与图12均可以看出，所提出的改进的虚拟力相较于传统的部署算法可以明显提升车辆的接入率和通信质量。因为该算法通过神经网络预测获取车辆的轨迹信息和未来位置，获取车辆的时空分布特性，可以针对性地进行部署。但与此同时，从图11中可以看出无人机的能量也得到了消耗，综合图10至图12，该算法是牺牲无人机的能量来换取通信效能的提升。
+
+无人机可以进行多步预测并部署，对比仿真了无人机单步及多步预测，相应预部署的覆盖率与能耗的关系。其中定义了无人机在单步及多步预测的平均覆盖率，是指在多次实验中，各无人机采取改进虚拟力预部署算法时，无人机群体的一个较稳定的覆盖率均值；并且定义了平均剩余能耗率，是指各无人机在进行相应步长预测后并进行调整部署位置后，各无人机剩余能量总和与无人机初始能耗总和比值的实验平均值。其仿真结果如图13所示。
+
+![](images/a5476dbe40ecac8e4e70c3f7b73bf9ea0fb231ced3ca07d8a4875760ba0b6cf5.jpg)  
+图13平均覆盖率平均剩余能量率与调整步长之间的关系 Fig.13The relationship between the average coverage rate and the average remaining energy rate and the adjustment step size
+
+从图中可看出，随着预测步长的增加，无人机的平均覆盖率逐渐降低，而其平均剩余能量率有所提升，两者之间相互制约；为了维持两者的最佳平衡点，其最佳的预部署调整步长应为2.5步左右。
+
+# 5 结束语
+
+本文提出了一种基于联邦学习与区块链的深度学习训练方法，同时针对多台无人机间的协作关系，设计了一种改进的虚拟力预部署算法。为了保护城市流量热点区域中车联网车辆用户的隐私，同时为了提高分布式无人机网络的模型训练效率，本文提出了一种边缘计算节点协同的联邦学习与区块链框架，该框架可以很好的实现各个无人机节点的协同训练及模型更新。各无人机在获取到训练后的模型可以对城市中各个区域车辆的移动轨迹进行预测，获取底层车辆用户的时空分布特性；采用改进的虚拟力预部署算法，各底层车辆用户采取最大信干噪比接入算法，无人机节点在相邻节点及车辆用户力的牵引下，部署在合适的位置上，该算法可以实现各节点之间的协同部署并保证了车辆用户的接入质量。对比仿真的四种部署算法，改进的虚拟力部署算法在接入率、平均信干噪比上有明显提升。同时仿真了能耗与无人机覆盖之间的制约关系，仿真结果显示，无人机在每2.5步左右进行一个预测调整部署，能够实现两者之间很好的权衡。
+
+# 参考文献：
+
+[1]Zhang Jun,Letaief KB.Mobile edge intelligence and computing for the internet of vehicles [J].Proceedings of the IEEE,2019,108 (2): 246-261.   
+[2]林艳，闫帅，张一晋，等．基于交通流量预测的车联网双边拍卖边缘 计算迁移方案 [J].通信学报，2020,41(12):205-214.(Lin Yan,Yan Shuai,Zhang Yijin,et al.Flow-of-traffic prediction program based mobile edge computing for internet of vehicles using double auction [J]. Journal on Communications,2020,41(12): 205-214.)   
+[3]范茜莹，黄传河，朱钧宇，等．无人机辅助车联网环境下干扰感知的 节点接入机制[J].通信学报，2019,40(6):90-101.(Fan Xiying, Huang Chuanhe,Zhu Junyu,et al. Interference-aware node access scheme in UAV-aided VANET[J].Journal on Communications,2019,40
+
+# (6): 90-101.)
+
+[4]Jawhar I,Mohamed N,Al-Jaroodi J,et al.Communication and networking of UAV-based systems: Classification and associated architectures [J]. Journal of Network and Computer Applications,2017, 84:93-108.   
+[5]马慧生．面向协作式自动驾驶的 5G 车联网无线传输技术及优化方 法研究 [D].北京邮电大学,2020.(MaHuisheng.Research on wireless transmission technology and optimization methods of 5G-V2X for cooperative autonomous driving [D].Beijing University of Posts and Telecommunications,2020)   
+[6]Lyu Jiangbin,Zeng Yong,Zhang Rui. Spectrum sharing and cyclical multiple access in UAV-aided cellular offloading [C]// GLOBECOM 2017-2017 IEEE Global Communications Conference.IEEE,2017:1-6.   
+[7]Wu Yang,Fan Wenlu,Yang Weiwei,et al.Robust trajectory and communication design for multi-UAV enabled wireless networks in the presence of jammers [J].IEEE Access,2019,8:2893-2905.   
+[8]Zhang Junbo,Zheng Yu,Qi Dekang,et al.Predicting citywide crowd flows using deep spatio-temporal residual networks [J]．Artificial Intelligence,2018,259:147-166.   
+[9]Zhang Junbo,Zheng Yu,Qi Dekang,et al. DNN-based prediction model forspatio-temporal data [C]// Proceedings of the 24th ACM SIGSPATIAL international conference on advances in geographic information systems.2016:1-4.   
+[10] Zhang Chuanting,Zhang Haixia,Yuan Dongfeng,et al. Citywide cellular traffic prediction based on densely connected convolutional neural networks[J].IEEE Communications Letters,2018,22 (8):1656-1659.   
+[11] Zhang Chuanting,Zhang Haixia,Qiao Jingping,et al.Deep transfer learning for intelligent cellular traffic prediction based on cross-domain big data [J].IEEE Journal on Selected Areas in Communications,2019,   
+37 (6): 1389-1401. [12] Dalgkitsis A,Mekikis PV,Antonopoulos A,et al.Data driven service orchestration for vehicular networks [J].IEEE Transactionson Intelligent Transportation Systems,2020,22(7): 4100-4109. [13] Cho K,Merrienboer BV,Bahdanau D,et al.On the properties of neural machine translation:Encoder-Decoder approaches [EB/OL].(2014-09-   
+03).https://arxiv.org/abs/1409.1259. [14] Wang Chujie,Ma Lin,Li Rongpeng，et al.Exploring trajectory prediction through machine learning methods [J].IEEE Access,2019,7:   
+101441-101452. [15]赵羽，杨洁，刘淼，等．面向视频监控基于联邦学习的智能边缘计算 技术[J].通信学报,2020,41(10):109-115.(Zhao Yu,Yang Jie,Liu Miao,et al. Federated learning based intelligent edge computing technique for video surveillance [J]. Journal of Network and Computer Applications,2020,41(10):109-115.) [16] Qu Youyang,Pokhrel S R,Garg S,et al.A blockchained federated learning framework for cognitive computing in industry 4.O networks [J].IEEE Transactions on Industrial Informatics,2020,17 (4):2964-   
+2973. [17]吴炜钰，赵海涛，王海军，等．无人机骨干网分布式组网及接入选择 算法[J].计算机学报，2019,42(02):121-137.(Wu Weiyu,Zhao Haitao,Wang Haijun,et al.Distribute deployment and access selection algorithm for UAV airborne networks [J].Chinese Journal ofComputers,   
+2019,42 (02): 121-137.)

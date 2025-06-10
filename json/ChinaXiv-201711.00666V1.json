@@ -1,0 +1,317 @@
+[
+    {
+        "type": "text",
+        "text": "太阳能辅助燃煤电广碳减排的技术经济性比较",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵睿恺 赵力 邓帅（中低温热能高效利用教育部重点实验室，天津大学，天津300072）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文基于300MW燃煤电厂的设计参数，针对四种典型燃煤电厂碳减排系统进行了发电量和碳减排量的比较。同时，从经济性角度分析且比较了四种燃煤电厂碳减排系统的均化发电成本(LCOE)和碳移除成本(COR)。结果显示在碳捕集率为 $50 \\%$ 条件下，当碳捕集设备的价格降低到原价的 $70 \\%$ 且有机朗肯循环(ORC)设备价格低于5065元/kW时，太阳能ORC 辅助碳减排的发电成本比太阳能直接辅助碳捕集系统低，此时太阳能ORC 辅助系统在经济性上具备竞争力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：碳减排；太阳能；燃煤电厂；技术经济性分析中图分类号：TK519 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Techno-economic Comparison of Solar-assisted Power Plant for Emission Reduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao Rui—KaiZhao LiDeng Shuai (Key LaboratoryofEfcient UtilizationofLowandMedium GradeEnergyTanjinUniversity,Tianjin3oo72,China) Abstract: Based on design parameters of a $3 0 0 ~ \\mathrm { M W }$ power plant, the performances of four systems equipped by emision reduction unit are compared for power generation and emission reduction.Economic evaluation was conducted in terms of levelized costs of electricity (LCOE) and cost of $\\mathrm { C O } _ { 2 }$ removed (COR).Results show that when the price of Organic Rankine Cycle (ORC) is lower than $5 0 6 5 \\mathrm { C N Y / k W }$ and the price of Amine plant is reduced to the $70 \\%$ of initial Cost,the solar ORC assisted system has advantages over the solar direct assisted system at the capture rate of $50 \\%$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: carbon emission reduction; solar energy； coal-fired power plant; techno-economic feasibility ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，适合燃煤电厂碳捕获的主流技术多为能源密集型技术，即捕集能耗过高，例如燃烧后碳捕集技术中MEA吸收法，解吸塔内解吸反应过程需大量的热量，捕获每吨 $\\mathrm { C O } _ { 2 }$ 需要3\\~4GJ热能。燃煤电厂供给如此大量热量通常采用汽轮机低压抽汽，从而导致燃煤电厂输出功率的损失[1]。作为一种清洁能源，太阳能的应用越来越受到重视。从减少燃煤电厂碳捕集功率损失的角度，一些学者研究通过太阳能热利用技术进行辅助，减少了汽轮机抽汽供热。例如，文献[2,3]均围绕太阳能直接供热给再沸器展开可行性研究，并对其进行技术性和经济性分析。文献[4]提出太阳能有机朗肯循环（ORC）辅助电厂碳捕集系统，利用冷凝过程提供再沸器耗热，实现了太阳能循环的梯级利用。作为间接减排方式，提高能源转化效率和新能源集成使用也可以为燃煤电厂碳减排提供技术方案。文献[5]利用TRNSYS模拟分析了一座300MW的太阳能辅助电厂的性能。其中利用太阳能加热蒸汽代替电厂朗肯循环抽汽加热回热器，提高了燃煤电厂的输出功率，具有间接减排效应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "综合以上发现：众多学者提出不同的太阳能辅助燃煤电厂碳减排系统，并各自进行了分析，然而在相同基础上对比分析不同太阳能辅助方式的文献却很少。本文在300 MW 燃煤电厂的基础上，选取四个典型系统，从系统发电量和碳减排量的角度，进行了技术性分析与比较；同时，从经济性角度，比较了四类系统的均化发电成本和碳移除成本。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1系统介绍",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文选取四种燃煤电厂碳减排方式，其系统结构如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "系统1：常规电厂汽轮机抽汽式碳捕集系统，图中以虚线A将电厂循环和碳捕集系统相连，从而对该系统进行图示。其工作原理为：通过汽轮机低压抽汽的方式为再沸器提供热量，用以捕捉电厂烟气中的 $\\mathrm { C O } _ { 2 }$ 。吸收剂选用MEA溶液，再沸器负荷为 $3 . 1 2 \\mathrm { G J } / \\mathrm { t o n }$ ，再沸器温度为 $1 2 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C } ^ { [ 1 ] }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "系统2：太阳能辅助电厂发电系统，图中以虚线B将电厂循环和太阳能集热场相连。其工作原理为：利用太阳能加热蒸汽代替电厂朗肯循环抽汽加热回热器，提高电厂的发电量。受回热器设计条件的限制，来自太阳能制取的蒸汽量是需参考电厂既有抽汽回热设计容量的，故太阳能集热器面积也需符合该设定容量，其面积为0.12 km[5]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统3：太阳能辅助电厂碳捕集系统，图中虚线A与C将电厂循环、碳捕集系统和太阳能集热场相连。其工作原理为：利用太阳能集热场环路产生的蒸汽或汽轮机抽汽的方式为再沸器提供热量，实现 $\\mathrm { C O } _ { 2 }$ 的捕捉[2,3]。太阳能集热环路集热温度设定为 $1 8 0 ~ \\mathrm { ~ \\textdegree ~ }$ ，产生蒸汽的温度 $1 4 4 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统4：太阳能ORC辅助电厂碳捕集系统，图中虚线A、B与D将电厂循环、碳捕集系统、太阳能集热场和有机朗肯循环相连。其工作原理为：利用太阳能有机朗肯循环的冷凝热或汽轮机抽汽的方式为再沸器提供热量，用以捕捉烟气中 $\\mathrm { C O } _ { 2 }$ ；同时太阳能有机朗肯循环可以发电，实现了太阳能的梯级利用[4]。太阳能集热温度 $3 3 0 \\mathrm { ~ \\textdegree ~ }$ ，有机工质选用甲苯，蒸发温度为 $3 0 0 \\mathrm { ~ \\textdegree ~ }$ ,冷凝温度 $1 5 2 \\mathrm { ~ \\textdegree C }$ ,ORC 循环热效率 $1 5 . 4 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a63b5f06ea511754cf9faaa151c1654bc4ccfa4e04815ecc5d56b7f823bfb59a.jpg",
+        "img_caption": [
+            "图1四种系统对应简图",
+            "Fig.1 Schematic diagram of four cases "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 技术性对比",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "技术性分析是以 $3 0 0 ~ \\mathrm { M W }$ 的燃煤电厂为基础，电厂烟气排放量256.4ton/h。电厂添加碳捕集系统后，采用汽轮机抽汽对再沸器提供热量，电厂附属功率消耗（风机等）为 $1 7 . 0 5 \\mathrm { M W }$ ，若碳捕集率为 $90 \\%$ 时，抽汽带来的功率损失为 $3 7 . 9 ~ \\mathrm { M W }$ ，碳捕集系统附属功率消耗 $1 7 . 2 \\ \\mathrm { M W } ^ { [ 1 ] }$ 。系统2利用集热场加热蒸汽代替电厂循环抽汽加热回热器， $3 0 0 ~ \\mathrm { M W }$ 燃煤电厂系统附属消耗 $2 5 \\mathrm { M W } ^ { [ 5 ] }$ 。所有集热场采用槽式太阳能集热器。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取我国西部一个太阳能资源丰富的地区的气候条件做基准，相应的月平均温度 $T _ { a }$ 、月平均阳光时间$t _ { s }$ 和月平均直射辐射 $I ,$ 如表1所示。技术分析与对比基于以下假设：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)碳捕捉带来的功率损失与 $\\mathrm { C O } _ { 2 }$ 捕集率成线性关系；（2）碳减排当量计算：按 $2 8 4 . 7 \\ \\mathrm { g / k W h }$ 计算太阳能所发电量对应的碳减排量；（3）所有系统没有考虑蓄热装置，当太阳能直射辐射大于等于 $2 0 0 \\mathrm { W / m } ^ { 2 }$ ，启用太阳能集热器装置；当直射辐射小于 $2 0 0 \\mathrm { W / m } ^ { 2 }$ 关闭太阳能集热器，开启汽轮机抽汽[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当设计 $\\mathrm { C O } _ { 2 }$ 捕集系统的捕集率为 $50 \\%$ 时，根据以上条件设计太阳能集热场（系统2除外)。太阳能集热场的设计以全年平均值来计算。各个系统的集热场面积S、年总发电量 $E _ { T }$ 和年总减排量 $\\varrho _ { C }$ ，如表2所示：表1月平均温度 ${ \\cal T } _ { a }$ 、月平均阳光时间 $t _ { s }$ 和月平均直射辐射 $I$ Tablel Monthly mean ambient temperature,sunshine hours,and",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d7df9870246c9e88eed3257fab51201e968e033071953c20dd7cf827d26d7dc.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "表2各系统的集热场面积 $\\mathcal { S } _ { \\nu }$ 年总发电量 $\\phantom { \\frac { 1 } { 2 } } E _ { \\ l }$ 和年总减排量 $Q _ { c }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Month</td><td>ty/h·day-1</td><td>I/kWh·m²day-1</td><td>Ta/c</td></tr><tr><td>1</td><td>7.8</td><td>3.7</td><td>1.1</td></tr><tr><td>2</td><td>8.3</td><td>3.8</td><td>4.4</td></tr><tr><td>3</td><td>8.8</td><td>3.6</td><td>6.7</td></tr><tr><td>4</td><td>9.7</td><td>3.9</td><td>11.1</td></tr><tr><td>5</td><td>10.6</td><td>5.2</td><td>15.0</td></tr><tr><td>6</td><td>11.0</td><td>6.2</td><td>18.7</td></tr><tr><td>7</td><td>10.2</td><td>4.6</td><td>18.0</td></tr><tr><td>8</td><td>9.9</td><td>4.3</td><td>16.7</td></tr><tr><td>9</td><td>9.1</td><td>3.4</td><td>15.5</td></tr><tr><td>10</td><td>8.8</td><td>4.5</td><td>12.6</td></tr><tr><td>11</td><td>8.0</td><td>4.4</td><td>7.5</td></tr><tr><td>12</td><td>7.8</td><td>3.3</td><td>2.7</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/caeadbdcba17cfc9500e7ea65b1840bf60efd7b86170f307c2752cf7b4758f84.jpg",
+        "table_caption": [
+            "DNI of typical city ",
+            "Table2 solar fields,yearly electricity production and yearly emission reduction of four systems "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>S/km²</td><td>Er/GWh·year-1</td><td>Qc/ton:year-1</td></tr><tr><td>系统1</td><td>0</td><td>2022</td><td>1.031×106</td></tr><tr><td>系统2</td><td>0.120</td><td>2242</td><td>2.337×104</td></tr><tr><td>系统3</td><td>0.396</td><td>2095</td><td>1.008×106</td></tr><tr><td>系统4</td><td>0.450</td><td>2153</td><td>1.014×106</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由表2分析对比得出：（1）集热场面积，系统 $3 <$ 系统4。由于太阳能有机朗肯循环的冷凝热用于再沸器热耗，同时进行太阳能热发电，相对于太阳能集热器全用于再沸器耗能所需热量更大，故系统4的集热面积比系统3的面积大 $1 3 . 6 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）年总发电量比较序列：系统 $1 <$ 系统 $3 <$ 系统$^ { 4 < }$ 系统2。系统2作为间接减排方式没有碳捕集系统，不需要汽轮机抽汽引起功率损失，在集热器运行期间太阳能可以增加系统功率，故全年总发电量最大，约为2242GWh。在含有碳捕集的其他三个系统中，系统4中太阳能有机朗肯循环热发电可以带来额外发电量，故系统4的全年总发电量比系统3的高 $2 . 8 \\%$ 。此外，由于没有太阳能的辅助，系统1全年进行汽轮机抽汽供给再沸器热耗，引起大量功率损失，所以系统1的全年总发电量最小，为2022GWh。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）年总减排量比较序列：系统 $2 <$ 系统 $3 <$ 系统$^ { 4 < }$ 系统1。系统2没有碳捕集设备，属于间接减排方式，所以全年总减排量最低，为 $2 . 3 3 7 \\times 1 0 ^ { 4 }$ ton。在含有碳捕集的其他三个系统中，系统4中太阳能有机朗肯循环热发电可以折算碳减排量，所以系统4的全年碳减排量比系统3的高 $0 . 6 \\%$ 。太阳能辅助采用全年平均值来设计集热场，导致部分集热器运行时间里碳捕集率低于 $50 \\%$ ，太阳能热发电折算的减排量又很小，而系统1采用汽轮机抽汽可以稳定捕捉烟气中的 $\\mathrm { C O } _ { 2 }$ 所以系统1的减排量最大，约为 $1 . 0 3 1 \\times 1 0 ^ { 6 }$ ton。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3经济性对比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经济性对比采用均化发电成本（LCOE）和碳移除成本(COR)来分析计算。LCOE和COR的公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { L C O E } = \\frac { \\sum ( N _ { t } + O _ { t } + F _ { t } + M _ { t } + D _ { t } ) } { \\sum ( E _ { t } \\bullet ( 1 + r ) ^ { - t } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ C O R = \\frac { ( L C O E _ { c a p } - L C O E _ { r e f } ) \\bullet E _ { t } } { C _ { C O 2 , t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以上公式中， $N _ { t }$ ，为第 $t$ 年的系统投资； $O _ { t }$ ，为第$\\mathbf { \\Psi } _ { t }$ 年的运行维护成本； $F _ { t }$ ，为第 $\\mathbf { \\chi } _ { t }$ 年的燃料成本； $M _ { t }$ 为第 $t$ 年的MEA损失的成本； $D _ { t } ,$ 为系统残值 $0 ; ( l + r ) ^ { - t }$ 为第 $t$ 年的折现因子; $E _ { t }$ ，为第 $t$ 年的系统发电量; $C _ { C O 2 , t } ,$ （204号为第 $\\mathbf { \\chi } _ { t }$ 年碳减排量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经济性对比还需以下假设：（1）捕捉 $\\mathrm { C O } _ { 2 }$ 的运输成本和储存成本没有考虑；（2）整个运行期间没有考虑任何碳减排补贴等政策优惠；（3）每年在12月份各个系统进行维护整修,则全年运行时间8016小时。四个系统的经济性参数如表3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于四个系统都是辅助燃煤电厂碳减排系统，经济性对比主要集中在三个方面：第一，碳捕集系统的成本变化；第二，太阳能集热场成本变化；第三，有机朗肯循环设备的成本变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在各系统的经济性参数保持不变的情况下，当碳捕集设备投资的价格分别增加或减少 $1 5 \\%$ 时，各系统的LCOE和COR的变化如图2所示。由于系统2没有含有碳捕集设备，其LCOE 和COR保持不变，分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0.407CNY/kW时和1703.38CNY/ton。当设备价格增加或减少时，其他三个系统的LCOE 和COR相应的分别增加或减少。例如碳捕集设备价格增加 $1 5 \\%$ ，系统4的LCOE 则增加了 $2 . 4 6 \\%$ ，达到了 $0 . 6 0 4 \\mathrm { C N Y / k W }$ 时；碳捕集设备价格减少 $10 \\%$ ，系统4的COR则减少了$5 . 7 5 \\%$ ，达到了 $3 5 6 . 5 9 \\mathrm { C N Y / t o n } { } _ { \\mathrm { c } }$ 。四个系统在此变化区间内均化发电成本和碳移除成本都没有交叉点。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c3c805ae48aee2c1a8a3786c0afe194dffe27f780978952fbda9c5e179f4c6c.jpg",
+        "table_caption": [
+            "表3系统经济性比较所需参数",
+            "Table3 Parameters of four cases for economical analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>经济参数</td><td>数值</td><td>经济参数</td><td>数值</td></tr><tr><td>T/Year</td><td>20</td><td>Th/h</td><td>8016</td></tr><tr><td>Tc/Year</td><td>2</td><td>Q/%</td><td>5</td></tr><tr><td>r/%</td><td>6</td><td>B/%</td><td>5</td></tr><tr><td>Pp/CNY·kW-1</td><td>8396.64</td><td>hm/kg:ton-1</td><td>1.6</td></tr><tr><td>Pa/CNY</td><td>1.27×109</td><td>Pm/CNY·ton-1</td><td>6.11</td></tr><tr><td>P/CNY·m²</td><td>1165.5[4]</td><td>hc/ton·h-1</td><td>98</td></tr><tr><td>P/CNY·kW-1</td><td>15750</td><td>Pc/CNY·ton-1</td><td>598.5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：T一项目周期； $T _ { c }$ 一项目建设时间； $T _ { h }$ 一全年运行时间； $B$ 一建设成本； $\\varrho$ 一运行维护成本； $r$ 一利率； $P _ { p }$ 一电厂成本； $P _ { a }$ 一捕集装置成本； $P _ { s }$ 一集热场成本； $P _ { o }$ ORC设备成本； $P _ { m }$ 一MEA成本； $P _ { c }$ 一煤价格； $h _ { m }$ MEA耗损； $h _ { c }$ 一煤消耗。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e7025fd3dd0b9975f6369606fecb6f116653158647ce6feb242925445a5e058.jpg",
+        "img_caption": [
+            "图2碳捕集设备价格变动时各系统的LCOE与CORFig.2 VariationofLCOE and COR with the cost of the Amine plani"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在各系统的经济性参数保持不变的情况下，当集热场的价格变动时，各系统的LCOE与COR变化如图3所示，可以发现：由于系统1不含有太阳能集热场，其LCOE和COR保持不变，分别为0.544CNY/kWh和 304.93 CNY/ton。当集热场成本低于 606.7$\\mathrm { C N Y / m } ^ { 2 }$ ，系统3的LCOE 将低于系统1的成本，太阳能辅助电厂碳捕集系统（系统3）此时将比常规电厂汽轮机抽汽式碳捕集系统（系统1）更具有优势。例如集热场价格为 $5 0 0 \\mathrm { \\ C N Y / m } ^ { 2 }$ 时，系统3的均化发电成本为 $0 . 5 4 0 \\mathrm { \\ C N Y / k W h }$ ，这比系统1的LCOE低了$0 . 7 4 \\%$ 。然而，四个系统的COR在此区间没有交叉点。由于系统2的全年碳减排量远低于其他三个系统的减排量，导致其COR远大于其他三个系统的COR。例如集热场价格为 $1 1 0 0 \\mathrm { \\ C N Y / m } ^ { 2 }$ 时，系统2的COR为1631.99CNY/ton，约为系统1对应COR的5.4倍。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/463a95bfb668ed36a22d038f55569ad26a5186ffcab510b4e79aa87cdac6116b.jpg",
+        "img_caption": [
+            "图3太阳能集热场价格变动时各系统的LCOE与COR"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bf1fb2fb8d4e47bf5c6a21199d651d8ad6dd4aaa54924ff5aaf5b242e57e100.jpg",
+        "img_caption": [
+            "Fig.3 Variation ofLCOE and COR with the solar field cost ",
+            "图4ORC设备价格变动时各系统的LCOE与CORFig.4 Variation ofLCOE and COR with the ORC cost"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当碳捕集设备的价格降低到原价的 $70 \\%$ ，太阳能集热场的价格降到 $5 0 4 \\mathrm { C N Y / m } ^ { 2 }$ ,其他经济数据保持不变的时候，关于有机朗肯循环设备价格变动引起的变化，如图4所示。由于碳捕集设备和集热场成本都已降低，此时系统3的LCOE已经低于系统1的LCOE。由于其他系统（除系统4外）不含有ORC设备，所以这些系统的LCOE和COR保持不变。当ORC设备降低到5065.2CNY/kW，系统4的LCOE将和系统1的LCOE一样。当ORC设备价格继续降到低于3827.3$\\mathrm { C N Y / k W }$ ，系统4的LCOE要比系统3的LCOE的低。四个系统在此变化区间内COR都没有交叉点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从系统全年总发电量和总碳减排量出发，对于太阳能辅助燃煤电厂碳减排的四种典型构型进行性能考察，可以发现当太阳能热利用辅助方式的梯级利用越合理，系统越具有优势，具体体现为经济性与技术性能的平衡。系统4为太阳能驱动ORC辅助燃煤电厂碳捕捉，利用太阳能发电的同时又通过冷凝热供给再沸器热量，实现了太阳能的梯级利用，在全年总发电量和总碳减排量方面处于比较序列里的第二位。需要说明的是，对于梯级利用复杂的太阳能辅助方式，其LCOE和COR相对较高，只有随着技术进步和成本的下降，此类辅助方式才可能在经济性上具有优势。例如，当碳捕集设备的价格降低到原价的 $70 \\%$ ，太阳能集热场的成本降到 $5 0 4 \\mathrm { C N Y / m } ^ { 2 }$ ,ORC设备低于5065.2$\\mathrm { C N Y / k W }$ ，系统4的LCOE会低于系统1的LCOE。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Khalilpour R,Abbas A.HEN Optimization for Effcient Retrofitting ofCoal-fired Power Plants with Post-combustion Carbon Capture [J]. International Journal of Greenhouse Gas Control,2011,5: 189-199   \n[2] Li HL，Yan JY.，Campana P.E.Feasibility of Fntegrating Solar Energy into a Power Plant with Amine-based Chemical Absorption for $\\mathrm { C O } _ { 2 }$ Capture [J]. International Journal of Greenhouse gas control. 2012, 9: 272-280   \n[3] Mokhtar M,Ali MT,Khalilpour R,et al．Solar-assisted Post-combustion Carbon Capture Feasibility Study[J]. Applied Energy,2012,92: 668-676   \n[4] 赵力，谭雨亭．太阳能有机朗肯循环辅助燃煤发电进行碳 捕集的系统装置：中国,CN201310277530[P].2013-07-04 ZHAO Li., TAN Yuting. System device of integrating solar Organic Rankine into a coal-fired power plant: China, CN201310277530[P].2013-07-04   \n[5] Bakos GC,Tsechelidou C.Solar Aided Power Generation of a 300 MW Lignite Fred Power Plant Combined with Line-focus Parabolic Trough Collectors Feld [J].Renewable Energy,2013,60: 540-547   \n[6] Kazuya G, Katsunori Y, Takayuki H. A Review of Eficiency Penalty in a Coal-fired Power Plant with Post-combustion $\\mathrm { C O } _ { 2 }$ Capture [J].Applied Energy,2013,111:710-720 ",
+        "page_idx": 3
+    }
+]

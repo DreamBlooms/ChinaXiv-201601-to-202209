@@ -1,0 +1,194 @@
+# 应用TCSC抑制电力系统次同步谐振的研究
+
+付超楠' 郭昆丽」杨帆²（1.西安工程大学西安 7100482.国网山西省电力公司平顺供电公司 平顺047400）
+
+![](images/9c426feff8651f36576dfd1d830406087a77fbef2f2ab1a74dc32b8a92e9acb0.jpg)
+
+摘要：针对IEEE次同步谐振第一标准测试系统，提出抑制次同步谐振的可控串补（TCSC）方案。利用PSCAD/EMTDC仿真软件，建立TCSC及其控制仿真模型，仿真研究得到能抑制次同步谐振的可控串补和固定串补组合方案。采用开环阻抗控制策略对TCSC抑制次同步谐振的性能进行仿真验证。
+
+关键词：可控硅控串联电容补偿器 次同步谐振 串联补偿中图分类号：TM762
+
+付超楠男1991年生，硕士研究生，研究方向为电能质量。
+
+# Suppression of Subsynchronous Resonance in Power System by Using TCSC
+
+Fu Chaonan'Guo Kunli'Yang Fan² (1.Xi'an University of EngineeringXi'an City710048China 2. National Network Shanxi Electric Power Company Pingshun Power Supply Company Pingshun047400China ）
+
+![](images/44b0d68acb234c74bbd10f999a6ba1be64b3fa80440420f8e8b6934e95292f7d.jpg)
+
+郭昆丽女 1974年生，硕士生导师，研究方向为电力系统。
+
+Abstract: According to the IEEE SSR first benchmark system, proposed to suppress sub synchronous resonance controllable series compensation (TCSC） scheme.By using PSCAD/EMTDC simulation software,the establishment of TCSC and its control simulation model, simulation study can suppress sub synchronous resonance with controllable series compensation and fixed series compensation combination scheme.By using open loop impedance control strategy of TCSC the performance of inhibiting sub synchronous resonance simulation.
+
+Keywords: Thyristor controlled series compensation, sub-synchronous resonance, series compensation
+
+# 1 引言
+
+串联补偿技术是提高远距离输电系统传输容量和电力系统暂态稳定的最经济的方法之一，已经在我国的电力系统中得到广泛应用。但在输电系统中采用串补后，送端线路经串补接入受端系统时，在正常运行方式下，可能会产生由扰动引起的输电线路谐振现象，其谐振频率低于系统的工频，称为电力系统谐振[1]。在这种谐振状态下，会在发电机上产生次同步旋转磁场；如果发电机的某个机械扭振频率与电气谐振频率互补，就会产生扭振放大作用，损坏发电机的轴系，即为次同步谐振。实际上，次同步谐振（Sub-SynchronousResonance，SSR）是电力系统暂态稳定的问题之一，当系统发生次同步谐振时，汽轮发电机组的多质量块轴系将在一个或多个低于额定频率的状态下发生扭矩，与电力网络发生能量的相互转化；电力系统通过电磁力矩影响汽轮机轴系系统，轴系系统则因为发电机转子角位移和角速度的改变而影响电力系统。
+
+文献[1]对次同步谐振的产生机理以及可控串补抑制次同步谐振的电气参数设计进行了研究；文献[2]从可控串补次频率的阻抗性质分析了TCSC对抑制SSR的作用，证明了TCSC抑制次同步谐振是可控串补具有电阻特性和电感特性产生的结果，发生SSR时增大晶闸管导通角，能够明显抑制SSR的持续；文献[3]分析了TCSC在抑制次同步谐振时产生正阻尼的特性。
+
+本文以IEEE的次同步谐振第一标准测试系统为基础[5]，搭建 TCSC 抑制 SSR的仿真模型，并采用开环阻抗控制，进行了仿真运行、计算结果分析。这种方法的最大优点是简单，避免了不同控制间的互相影响。仿真结果验证了TCSC能够抑制SSR并能较好地保证电力系统运行的安全性。
+
+# 2电力系统次同步谐振的产生机理
+
+# 2.1次同步谐振的机理
+
+次同步谐振是电力系统的一种非正常运行方式，是指电力系统和汽轮发电机构成的网络之间，以一个或几个低于系统工频进行能量相互转化的一种状态。次同步谐振的具体表现包括：感应发电机效应、扭转相互作用和暂态扭矩放大作用引起的次同步谐振三种现象[5]。
+
+# 2.2串补引起SSR的基本原理
+
+图1为经串联补偿的输电系统，线路的阻抗元件采用集中参数。
+
+![](images/30339072ee1d41c219f1b0cd0b38fb1145befde0f863a0e754e1e37cd899e696.jpg)  
+图1串补线路示意图  
+Fig.1Schematic diagram of series compensated lines
+
+对于整个系统，其自然电气谐振频率为
+
+$$
+f _ { \mathrm { e r } } = f _ { 0 } { \sqrt { \frac { X _ { \mathrm { C } } } { X ^ { \prime \prime } + X _ { \mathrm { T } } + X _ { \mathrm { L } } } } }
+$$
+
+式中， $X ^ { \prime \prime }$ 为发电机的次暂态电抗； $X _ { \mathrm { T } }$ 为变压器的漏电抗； $X _ { \mathrm { L } }$ 和 $X _ { \mathrm { { C } } }$ 是线路的感抗和串补的容抗。
+
+由于线路的串补度一般小于1，所以有 $X _ { \mathrm { C } } < X _ { \mathrm { L } }$ 则 $f _ { \mathrm { e r } } < f _ { 0 }$ ， $f _ { 0 }$ 为系统工频[]。
+
+产生SSR的条件为：当电网中产生扰动时，在输电线路与发电机的电枢之间产生 $f _ { \mathrm { e r } }$ 频率的电流分量，电枢中的次同步电流分量会在转子上感应出频率为 $f _ { 0 } - f _ { \mathrm { e r } }$ 的电气扭矩；若转子的机械扭振频率 $f _ { \mathrm { m } }$ 与电枢电路中的电磁振荡频率 $f _ { \mathrm { e r } }$ 之和接近工频时，即 $f _ { \mathrm { 0 } } \approx f _ { \mathrm { e r } } + f _ { \mathrm { m } }$ 时，转子发生机械共振，转子感应出频率为 $f _ { \mathrm { m } }$ 的振荡分量，将在电枢绕组中感应出次同步频率为 $f _ { 0 } - f _ { \mathrm { m } }$ 的电流，这样就形成电气与机械的谐振。如果谐振的能量大于或者等于机械和电磁振荡中阻尼的能量损耗，即系统相对于此谐振为负阻尼，振荡就可以持续下去甚至发散，从而发生次同步谐振[8]。
+
+# 3TCSC抑制SSR的基本原理
+
+# 3.1 TCSC基本原理
+
+TCSC中的电抗值 $X _ { \mathrm { L ( \alpha \mathrm { ( } \alpha ) } }$ 随着触发角 $\alpha$ 的变化而持续变化，因此TCSC的电抗 $X _ { \mathrm { { T C S C } } }$ 可以等效为固定的容抗 $X _ { \mathrm { { C } } }$ 和可变的感抗 $X _ { \mathrm { L ( \alpha ) } }$ 并联组成，其值为
+
+$$
+X _ { \mathrm { T C S C } } = \frac { X _ { \mathrm { C } } X _ { \mathrm { L ( \alpha ) } } } { X _ { \mathrm { C } } - X _ { \mathrm { L ( \alpha ) } } }
+$$
+
+因此，通过改变晶闸管的触发角 $\alpha$ 可以改变$X _ { \mathrm { L ( \alpha ) } }$ 的值，改变TCSC的等效电抗 $X _ { \mathrm { T C S C } }$ 的值[10]。由式（2）可知，当 $X _ { \mathrm { C } } - X _ { \mathrm { L ( a ) } } > 0$ 时，TCSC 对外呈现为一个可变的感抗；当 $X _ { \mathrm { C } } - X _ { \mathrm { L ( a ) } } < 0$ 时，TCSC对外呈现为一个可变的容抗；而当 $X _ { \mathrm { C } } - X _ { \mathrm { L ( a ) } } = 0$ 时，
+
+TCSC等效电抗为无穷大，对外电路来说相当于开路，因此，应避免这种情况出现。TCSC结构如图2所示。
+
+![](images/e20686e9d41e0994e5e7634d71830d31a5543ee2081c17704efaface4c64535c.jpg)  
+图2TCSC 结构示意图
+
+# 3.2用于抑制SSR的控制策略
+
+本文采用的是开环阻抗控制，根据抑制次同步谐振效果的要求，计算一个固定的容抗值，利用TCSC的正阻尼能力抑制SSR。SSR严重时也可根据情况改变电抗值，以提高抑制SSR的效果。因为整个过程是开环的，不对抑制SSR的电抗值进行误差修正。开环控制的优点是简单，有利于避免不同控制的相互影响；缺点是在某些系统条件下抑制效果不理想。
+
+具体实现步骤为：以线路电流为信号，晶闸管经过固定延时发出触发脉冲，即对应固定的晶闸管触发角。此触发脉冲，则是由固定的TCSC基波目标阻抗值，根据正常运行时的阻抗值、正常运行导通角以及对应的目标阻抗值的触发角三者计算得出。
+
+（1）系统的正常运行。TCSC模型内部仿真如图3所示。
+
+由图3可看出，在TCSC的始端测量线路的电压 $V _ { \mathrm { T C S C } }$ 和有功功率 $P _ { \mathrm { T C S C } }$ ，二者与自己本身的整定值取差值，差值为系统的误差信号，经过相位补偿后，再与阻抗设定值 $X _ { \mathrm { s e t } }$ 取和值，再经过限幅、相位补偿。得到可控串补的阻抗参考值 $X _ { \mathrm { r e f } }$ ，与表1对比可得晶闸管的触发角。
+
+根据 $X _ { \mathrm { e f f } } { = } X _ { \mathrm { T C S C } } / X _ { \mathrm { C } }$ 可以获得 $X _ { \mathrm { { C } } }$ 对应的 $X _ { \mathrm { T C S C } }$ 的值，也就是对应的系统恒阻抗控制的最初设定值。
+
+(2）触发脉冲的产生。晶闸管触发脉冲的产生根据晶闸管的基本触发角，利用PLL锁相回路产生一个与线路电气量同步的信号，传输到脉冲发生器产生脉冲。这个脉冲对应计算得出的阻抗值产生的触发脉冲。为了保证使系统受到扰动后仍然较稳定，在开环控制中引入本地变量，将正常运行的触发角$\alpha$ 转化为目标阻抗值的触发角 $\alpha$ 。触发脉冲的产生如图4所示，实时动态触发角的产生如图5所示。
+
+图6为实时动态阻抗，其电气信号为可控串补线路实际的电气量。 $I _ { \mathrm { a } }$ 为线路的实际电流， $E _ { \mathrm { a } }$ 为容抗两端的电压，两个值的比值为实时的动态阻抗值$x _ { \mathrm { { e f f a } } }$ 。然后与参考阻抗值 $\boldsymbol { x } _ { \mathrm { r e f } }$ 取差值，所得的值经过比例积分环节控制、限幅环节，得到实时线路的触发角 $\alpha$ 。
+
+![](images/01465ee69bdec13eccd9c9adb286aaa3d0aa870d4ded3c2dfcb99fd7a59a1bf6.jpg)  
+Fig.2Schematic diagram of TCSC structure   
+图3TCSC 模型内部仿真图  
+Fig.3 Internal simulation of TCSC model
+
+表1不同触发角对应的TCSC 阻抗值  
+Tab.1Impedance values corresponding to different firing angles TCSC   
+
+<html><body><table><tr><td>触发角α/()</td><td>150</td><td>154</td><td>157</td><td>160</td><td>163</td><td>166</td><td>169</td><td>172</td><td>175</td></tr><tr><td>Xef</td><td>-2.463 7</td><td>-1.635 7</td><td>-1.345 2</td><td>-1.203 6</td><td>-1.111 0</td><td>-1.047 9</td><td>-1.036 5</td><td>-1.008 8</td><td>-1.003 4</td></tr></table></body></html>
+
+![](images/c296587faa21547e6fb5f78b212487af53cd54c2e107b4053571bd7d9eb58cf4.jpg)  
+图4触发脉冲的产生
+
+![](images/63c99ae9c59b09e67abf7d419b333bc31753837effae9e040a6aee6346ee270b.jpg)  
+Fig.4Generation of trigger pulse
+
+![](images/bf1a4fcb6b24f53fbd3f2040b46ee8edfc8fe929f9653fe7952255241fb20c9b.jpg)  
+Fig.5Generation of real-time dynamic triggering angle   
+图6实时动态阻抗  
+Fig.6Real time dynamic impedance
+
+$V _ { \mathrm { A l } }$ 为a相晶闸管两端的电压，作为晶闸管脉冲触发的同步信号，经过移相可以获得 $V _ { \mathrm { B 1 } }$ 、 $V _ { \mathrm { { C 1 } } }$ 的信号。然后将三相的正弦电压信号通过锁相环PLL转换为三角波信号。差值点触发脉冲器的H端输入为线路同步信号，L端输入为晶闸管触发脉冲，比较H端信号与L端信号的大小，若H端大于L端将发出脉冲；若小于则不发出脉冲。
+
+# 4 仿真模型及结果
+
+# 4.1发电机模型
+
+在次同步谐振中，汽轮发电机轴系等效为六质量块模型，次同步谐振本质是受到扰动后，轴系的各个质量块间发生相对的扭振，若电网系统相对于此扭振等效为负阻尼，则发电机轴系的扭振可能持续下去，甚至会发生越来越强的扭振，以致于将轴系扭断[1]
+
+分析汽轮机轴系扭振固有的机械特性的时，为取得较高的精确值，一般将轴系等效成几段甚至几十段，用来研究次同步谐振的集中质量块模型；所以在仿真运行中，也需要将汽轮发电机轴系模型等效为六质量块模型。PSCAD中的IEEE第一基准模型中，将发电机的轴系分为6个部分。图7为含有6个质量块的发电机的轴系模型，6个集中质量块分别为高压缸(HP)、中压缸(MP)、低压缸A(LPA）、低压缸B（LPB）、发电机（GEN）和励磁机（EXC）[5,12]。因为具有6个质量块的轴系，所以有5个扭振模式。
+
+![](images/94e58541534ba94b2edaed3900c20c0e6572f8d98b1e03b95fe1ec5755c672be.jpg)  
+图5实时动态触发角的产生  
+图7汽轮发电机轴系六质量块示意图  
+Fig.7Sketch of six mass block of turbo generator shaft system
+
+# 4.2系统仿真模型
+
+采用IEEE 次同步谐振第一基准测试模型[1-13],用于次同步谐振研究的模型以 $8 9 2 . 3 \mathrm { M V \cdot A }$ 发电机组和 $5 0 0 \mathrm { k V }$ 传输系统为基础，包括一个标准电力网络和一台汽轮发电机组。所研究的系统结构及部分参数如图8所示，发电机的轴系采用6个质量块模型，该模型的5个机械扭振频率分别为 $1 5 . 7 1 \mathrm { H z }$ ， $2 0 . 2 1 \mathrm { H z }$ ，$2 5 . 5 5 \mathrm { H z }$ ， $3 2 . 2 8 \mathrm { H z }$ 和 $4 7 . 4 5 \mathrm { H z } _ { \mathrm { c } }$ 。一台 $8 9 2 . 4 \mathrm { M V \cdot A }$ 的发电机经升压变压器后通过一回带有串联电容补偿的输电线路与无穷大电源系统相连，线路串联补偿度为 $57 \%$ ，对应常规串补为 $8 8 \Omega$ ，发电机、轴系、变压器和线路参数见表2～表4。
+
+# 表2发电机参数
+
+Tab.2 Generator parameter   
+
+<html><body><table><tr><td>电枢电阻Ro(pu)</td><td colspan="5">0.001</td></tr><tr><td>漏电抗X(pu)</td><td></td><td></td><td>0.130</td><td></td><td></td></tr><tr><td rowspan="2">d轴参数 (pu)</td><td>xd</td><td>xd</td><td>x</td><td>T</td><td>T</td></tr><tr><td>1.79</td><td>0.169</td><td>0.135</td><td>4.3</td><td>0.032</td></tr><tr><td rowspan="2">q轴参数 (pu)</td><td>xq</td><td>xa</td><td>x</td><td>T</td><td>T</td></tr><tr><td>1.71</td><td>0.228</td><td>0.2</td><td>0.85</td><td>0.05</td></tr></table></body></html>
+
+# 表3轴系参数
+
+Tab.3 Shaft system parameter   
+
+<html><body><table><tr><td></td><td>HP</td><td>IP</td><td>LPA</td><td>LPB</td><td>GEN</td><td>EX</td></tr><tr><td>惯性时间 常数T/s</td><td>0.185 794</td><td>0.311178</td><td>1.717 34</td><td>1.768 43</td><td>1.736 99</td><td>0.068433</td></tr><tr><td>弹性系 数 K(pu)</td><td>19.303</td><td>34.929</td><td>52.038</td><td>70.858</td><td>2.822</td><td></td></tr></table></body></html>
+
+# 表4变压器和输电线路参数
+
+Tab.4Transformer and transmission line parameters  
+
+<html><body><table><tr><td>r(pu)</td><td>0.01</td></tr><tr><td>xt (pu)</td><td>0.14</td></tr><tr><td>r (pu)</td><td>0.02</td></tr><tr><td>xL(pu)</td><td>0.56</td></tr></table></body></html>
+
+# 4.3时域仿真结果
+
+比较无TCSC及加入TCSC两种情况下，该研究系统发生大扰动后对应的发电机轴系各分段上的转矩变化情况。设置故障发生时间为开始运行1.5 s后，图8为系统仿真模型在串补电容加入三相短路故障，持续0.075s后故障消失。由图9可以看到，未加入TCSC时，短路故障发生后轴系各段的转矩值发散，表明该系统失去稳定性。
+
+加入TCSC时，图10中加入故障扰动后，发电机轴系各段上的转矩幅值明显减小，表明TCSC有效地阻尼了轴系之间的扭振，验证了TCSC在改变晶闸管触发角的情况下可以抑制电力系统SSR的持续，从而使得电力系统保持稳定。
+
+![](images/82de481c4958e108871bd86a13c29fbfda6391af2a04f8dc3e5cbc58d9fa9166.jpg)  
+图8系统仿真模型
+
+![](images/5de88b93345d33bf138d6e6b2f5302bc1396de103d8a3e5903a910b7b24e924c.jpg)  
+Fig.8System simulation model   
+图9无TCSC时的轴系的扭振情况  
+Fig.9Torsional vibration of shafting without TCSC
+
+# 5 结论
+
+本文介绍了电力系统次同步谐振的产生机理，给出了TCSC抑制次同步谐振的原理和相应的控制器设计方法。将TCSC加入到IEEE次同步谐振第一标准模型中，并在PSCAD/EMTDC中建立了其仿真模型，并对所设计的最优控制策略进行了时域仿真验证，仿真结果表明，TCSC有效地抑制了电力系统次同步谐振。
+
+![](images/ea37a3519d880ce2ffe14aa3701a0b10accf6741405aad894e7fb7f65ce0759d.jpg)  
+(a）低压缸A和低压缸B之间的扭矩
+
+![](images/eba8428c1de0cf423c4e28fb6100083072f7dccc6f13d76018e95c624ba0cf66.jpg)  
+(b）发电机与励磁机之间的扭矩
+
+![](images/691f204d9b67eacac5d3a3f9a2b0b5017adb11ef2192187755eb76d0b6e1dd7b.jpg)  
+(c）电磁扭矩响应
+
+![](images/ea54e6aa50291e609b28eda87ec504a8605495f0651650dc3598138b12d6c534.jpg)  
+图10加入TCSC 时轴系各段之间的扭振情况 Fig.10Torsional vibration of each section of shafting when adding TCSC
+
+# 参考文献
+
+[1] 葛俊，童陆园，耿俊成，等．TCSC 抑制次同步谐 振的机理研究及其参数设计[J]．中国电机工程学 报，2002，22(6)：25-29. Ge Jun,Tong Luyuan,Geng Juncheng,et al. Research on the mechanism of TCSC suppressing subsynchronous resonance and its parameter design[J]. Proceedings of The Chinese Society of Electrical Engineering,2002, 22(6): 25-29.   
+[2] 韩光，童陆园，葛俊，等．TCSC 抑制次同步谐振 的机理分析[J]．电力系统自动化，2002，26(2): 18-22. Han Guang, Tong Luyuan, Ge Jun, et al. Analysis of the mechanism of TCSC suppressing subsynchronous resonance[J]. Automation of Electric Power Systems, 2002,26(2): 18-22.   
+[3] 吴熙，蒋平．TCSC 在次同步谐振中的阻尼现象[J]. 电力系统保护与控制，2010，38(3)：34-38. Wu Xi, Jiang Ping. The damping phenomenon of TCSC in subsynchronous resonance[J]. Power System Protection and Control, 2010, 38(3): 34-38.   
+[4] 张少康，李兴源，张振，等．TCSC 及其主动阻尼 控制对次同步谐振的抑制[J]．电网技术，2010, 34(1): 22-26. Zhang Shaokang, Li Xingyuan, Zhang Zhen, et al. Suppression of subsynchronous resonance by TCSC and its active damping control[J]. Power System Technology,2010,34(1): 22-26.   
+[5] Putman T H, Ramey D G. Theory of the modulated reactance solution for subsynchronous resonance[J]. IEEE Transactions on Power Apparatus and Systems,1982,101(6): 1527-1535.   
+[6] Hammad A E,El-Sadek M.Application of a thyristor-controlled var compensator for damping subsynchronous oscillations in power systems[J]. IEEE Transactions on Power Apparatus and Systems, 1984. 103(1): 198-212.   
+[7] 白菲菲，和鹏，张鹏，等，抑制次同步谐振的串 补方案仿真研究[J]．电力系统保护与控制，2011， 39(19):121-125. Bai Feifei,He Peng, Zhang Peng,et al. Simulation study of cascade compensation schemes to suppress subsynchronous resonance[J].Power System Protection and Control, 2011,39(19):121-125.   
+[8] 刘洪涛，徐政，周长春．静止无功补偿器对发电 机次同步振荡特性的影响[J]．电网技术，2003， 27(1):1-4. Liu Hongtao,Xu Zheng,Zhou Changchun.Influence of static var compensator on subsynchronous oscillation of generator[J]. Power System Technology,2003,27(1):1-4.   
+[9] 于姗，荆龙，金新民．牵引供电系统次谐振抑制 技术的研究[J]．电气应用，2016，35(14)：48-52.   
+[10] 王敏，康积涛，朱娅，等．TCSC抑制次同步谐 振的原理及控制器设计[J]．电工电气，2012(4)： 25-28. Wang Min,Kang Jitao, Zhu Ya,etal. The principle and controller design of TCsC to suppress subsynchronous resonance[J].Electrical and Electrical Engineering,2012(4): 25-28.   
+[11] Ramey D G,Kimmel D S,Dorney JW,et al. Dynamic stabilizer verification tests at the sanjuan station[J].IEEE Transactions on Power Apparatus and Systems,1981,100(12): 5011-5019.   
+[12] IEEE Subsynchronous Resonance Working Group. Countermeasures to subsynchroousresonance problems[J]. IEEE Transactions on Power Apparatus and System,1980,99(5):1810-1818.   
+[13] IEEE Subsynchronous Resonance Task Force. First benchmark model for computer simulation of subsynchronous resonance[J].IEEE Transactions on Power Apparatus and Systems,1977,96(5): 1565- 1572.

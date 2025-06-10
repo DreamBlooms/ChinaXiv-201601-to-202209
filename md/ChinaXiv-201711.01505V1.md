@@ -1,0 +1,196 @@
+香甜鲜复合诱食剂对断奶仔猪生长性能、血清生化指标、养分表观消化率和粪便微生物菌群的影响李方方」 武思远」 朱宇旌」 黄铁军² 何茂龙² 张勇1,2\*
+
+（1.沈阳农业大学畜牧兽医学院，沈阳110866；2.乐达（广州）香味剂有限公司，广州 510730）摘要：本试验旨在研究饲粮中添加不同水平香甜鲜复合诱食剂对断奶仔猪生长性能、血清生化指标、养分表观消化率和粪便微生物菌群的影响。选取（ $4 3 { \pm } 4$ ）日龄体重相近的健康大白仔猪72头，随机分为3个组，每个组3个重复，每个重复8头猪。对照组饲喂基础饲粮，试验组分别在基础饲粮上添加1和 $2 \mathrm { k g / t }$ 的香甜鲜复合诱食剂。试验期 $2 8 \mathrm { d } _ { \circ }$ 结果表明：与对照组相比，饲粮中添加 $2 \mathrm { k g / t }$ 香甜鲜复合诱食剂能够显著提高断奶仔猪平均日采食量和平均日增重 ( $_ { . P < 0 . 0 5 ) }$ ；饲粮中添加香甜鲜复合诱食剂对养分表观消化率、血清生化指标和粪便微生物菌群的影响不显著！ $( P { > } 0 . 0 5 )$ 。由此可见，饲粮中添加 $2 ~ \mathrm { k g / t }$ 香甜鲜复合诱食剂能提高断奶仔猪平均日采食量和平均日增重，提高生长性能。本试验条件下推荐断奶仔猪饲粮中添加 $2 \mathrm { k g / t }$ 香甜鲜复合诱食剂为宜。
+
+关键词：香甜鲜复合诱食剂；断奶仔猪；生长性能；血清生化指标；养分表观消化率
+
+中图分类号：S828
+
+仔猪的生长性能与其采食量直接相关，而饲料的适口性是影响采食量的关键因素。哺乳动物采食过程主要依靠食物的视觉和味觉刺激，动物的唇、舌、齿等采食器官将食物送进口腔后，还会依靠食物的味觉、嗅觉刺激以及口腔对食物的触觉进行食物评定，把包含在食物当中不适合的物质排出口腔[1]。因此，提高动物的采食量就是尽量满足动物的视觉、嗅觉和味觉的喜好。诱食剂能够通过自身散发的香气吸引动物的注意，诱使动物对饲粮进行采食；通过自身具备的味道保证动物采食的持续性。另外，诱食剂还可以刺激动物的感知器官对食物做出反应，大脑将收到的信息处理后传递给消化系统，提高动物的消化功能，增加采食量。试验证明，饲粮添加诱食剂中的香味剂能促进猪的食欲，增加其采食量[2-3]。Rezaei 等[4]在断奶仔猪饲粮中添加不同浓度梯度的谷氨酸进行试验，结果显示仔猪的日增重和饲料利用率与谷氨酸的浓度呈正相关，且安全有效添加谷氨酸的最高浓度是 $4 \%$ 。目前，对香味剂、甜味剂和鲜味剂的应用比较成熟，但主要集中在单一使用或两两使用上，三者配合使用的报道较少。因此，本试验旨在通过研究饲粮中添加香甜鲜复合诱食剂（aromatic,sweetener and flavor enhancer compound feeding atractant,ASF-CFA）对保育仔猪生产性能、血清生化指标、养分表观消化率和粪便微生物菌群的影响，为香甜鲜复合诱食剂在保育仔猪饲料中的使用提供科学依据。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+香甜鲜复合诱食剂由乐达（广州）香味剂有限公司提供（产品编号 78456Z)，试验中复合诱食剂香型为奶酪香，甜味由糖精钠提供，鲜味由谷氨酸钠、氨基酸、核苷酸、植物提取物、酵母降解物等复合物提供。
+
+# 1.2 试验设计
+
+试验采用完全随机区组设计，选取72头（ $4 3 { \pm } 4$ ）日龄、体重（ $8 . 0 7 { \scriptstyle \pm 2 . 0 5 }$ ）kg体况良好的大白21日龄断奶仔猪，随机分为3个组，每个组3个重复，每个重复8头猪。对照组饲喂基础饲粮，试验组分别在基础饲粮上添加1和 $2 \mathrm { k g / t }$ 的香甜鲜复合诱食剂。试验期 $2 8 \textup { d }$ 。参照NRC（1998）早期断奶仔猪营养需要配制成颗粒料，基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) %
+
+项目Items 含量Content   
+原料Ingredients   
+玉米Corn 70.00   
+豆粕 Soybean meal 18.00   
+膨化大豆 Extruded soybean 4.40   
+鱼粉 Fish meal 3.00   
+石粉 Limestone 0.90   
+磷酸氢钙 $\mathrm { C a H P O _ { 4 } }$ （20 1.40   
+食盐 NaCl 0.30   
+预混料 Premix1)) 2.00   
+合计 Total 100.00
+
+# C hinaXiv合作期刊
+
+营养水平 Nutrient levels2)  
+代谢能 ME/(MJ/kg)² 13.37  
+粗蛋白质CP 17.00  
+有效磷 AP 0.43  
+钙Ca 0.84  
+可消化赖氨酸 DLys 1.00  
+可消化蛋氨酸DMet 0.24  
+可消化苏氨酸 DThr 0.64  
+可消化色氨酸 DTry 0.16
+
+1 预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: VA 8 000 IU, VD3 1 228 IU, VE 15 IU, $\mathrm { V K } _ { 3 }$ 3.0 mg, $\mathrm { V B } _ { 1 } ~ 1 . 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 3 . 1 \mathrm { m g }$ $\mathrm { V B } _ { 6 } 1 . 2 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 3 . 4 \mathrm { m g }$ ，氯化胆碱 choline chloride $5 0 0 \mathrm { m g }$ ，生物素biotin $0 . 1 1 \mathrm { m g }$ ，烟酸niacin $2 5 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 6 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 ~ \mathrm { m g }$ ，Fe (as ferrous sulfate)120 mg，Cu (as copper sulfate) $1 0 \mathrm { m g }$ ， $Z \mathrm { n }$ (as zinc sulfate) $1 3 0 \mathrm { m g }$ ，Mn (as manganese sulfate) $1 0 0 ~ \mathrm { { m g } }$ ，I(as potassium iodide) $0 . 3 ~ \mathrm { m g }$ ， Se (as sodium selenite) $0 . 3 ~ \mathrm { m g }$ ，赖氨酸盐酸盐Lys·HCl $( 7 8 \% )$ $3 \mathrm { g }$ ，蛋氨酸Met $2 . 5 \ \mathrm { g }$ ， $L$ 苏氨酸 $L { \mathrm { - T h r } } 6 \ \mathrm { g }$ （204号 $L$ 色氨酸 $L$ -Try $1 . 5 \mathrm { g }$ 。
+
+2代谢能和可消化氨基酸为计算值，其余为实测值。ME and digestible amino acid werecalculated values,while the others were measured values.
+
+# 1.3 饲养管理
+
+本试验于2015年4月28日至2015年5月25日在辽宁艾德蒙种猪繁育有限公司完成，试验期间猪舍温度为（ $2 6 { \pm } 3$ ）℃。供试猪只在同一栋猪舍内饲喂，自由采食、自由饮水，按照猪场常规程序进行饲养。
+
+# 1.4样品采集
+
+# 1.4.1 粪样的采集
+
+每个组选取生长较好、体况相近的仔猪各4头，于试验结束前3d每日07:00至09:00收集粪样，每头猪采集新鲜粪样2份，每份 $2 0 0 \ \mathrm { g }$ ，用无菌器械采集，无菌塑料袋封装，其中一份加入体积分数为 $10 \%$ 的酒石酸水溶液 $2 0 ~ \mathrm { m L }$ （防止氨气挥发)，用于养分含量分析；另外一份-20℃冷冻保存，用于微生物数量测定。实验室测定前，将每头猪3d所采粪样混合均匀后取样进行测定。试验结束当天每重复收集1头仔猪的新鲜粪便约 $3 0 \mathrm { g }$ ，保存于冰箱中备用。
+
+# 1.4.2 血样的采集
+
+试验结束当天同一时间每个重复随机选取4头仔猪，空腹前腔静脉采血 $1 0 ~ \mathrm { m L }$ ，静置 $1 5 \mathrm { m i n }$ 后，$3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取血清， $- 2 0 \ { ^ { \circ } \mathrm { C } }$ 条件下保存待测。
+
+# 1.5 检测指标
+
+# 1.5.1 生长性能指标
+
+试验第1天和第29 天清晨进行空腹称重，计算平均日采食量（average daily feed intake,ADFI)、平均日增重（average daily gain,ADG）和料重比（feed to gain,F/G）。
+
+每天清晨观察仔猪粪便软硬稀度，判断是否腹泻并且做好记录。按正常、稀软、黏稠、水样 4个等级进行划分，分别用0、1、2、3分表示，最后统计各组腹泻指数。腹泻率以圈为单位做为1个重复进行统计分析。
+
+腹泻率（%） $\mathbf { \Sigma } = \mathbf { \Sigma }$ [(腹泻仔猪头次)/(试验仔猪数×试验天数) $\lvert \times 1 0 0$
+
+腹泻指数 $\varXi$ 腹泻总评分/仔猪头数。
+
+# 1.5.2 血清生化指标
+
+通过放射免疫分析法测定血清生长激素（growth hormone,GH)、瘦素（leptin,Lep）和胆囊收缩素（cholecystokinin，CCK）含量，试剂盒分别购自天津九鼎医学生物工程有限公司、北京华埠力特生物技术研究所和上海第二军医大学神经生物学教研室，分别按其说明书通过Sn-69513型免疫计数器测定。通过酶联免疫分析法测定胰高血糖素样肽-1（glucagon-likepeptide1，GLP-1）和胃饥饿素（ghrelin）含量，试剂盒购自南京贝森伽生物技术有限公司，按其盒说明书通过Multiskan MK3 酶标仪测定。
+
+# 1.5.3 粪便中微生物数量
+
+本试验主要以平板计数法测定供试猪只粪便中大肠杆菌、双歧杆菌和乳酸杆菌的数量。将采集好的粪样在超净操作台中配成 $1 0 ^ { - 1 }$ 的稀释液（将 $ { 1 . 0 \mathrm { ~ g ~ } }$ 的样品加至 $\mathfrak { g } _ { \mathrm { ~ g ~ } }$ 灭菌生理盐水中，比例为1:10)。震荡摇匀后，以 $1 \ \mathrm { m L }$ 的稀释液与 $9 ~ \mathrm { m L }$ 的灭菌生理盐水配制成 $1 0 ^ { - 2 }$ 的稀释液。用相同的方法配制 $1 0 ^ { - 3 } { \sim } 1 0 ^ { - 7 }$ 的稀释液。将稀释液分别接种在LBS 培养基（HB0385）、麦康凯培养基（HB6238-1)和 BL 培养基（HB0395）中用以乳酸杆菌、大肠杆菌和双歧杆菌的选择和计数，所用培养基购自于青岛海博生物技术有限公司。其中大肠杆菌有氧条件下培养 $2 4 \mathrm { ~ h ~ }$ ，乳酸杆菌和双歧杆菌在无氧条件下分别培养36和 $4 8 \mathrm { h }$ 。各个稀释梯度进行3次重复计数，取其平均值作为最终结果，结果均以每克粪便中含有的菌群总数的常用对数值 $[ \log ( \mathrm { C F U / g } ) ]$ 表示。
+
+# 1.5.4养分表观消化率
+
+采用内源指示剂法，参照《饲料分析及饲料检测技术》[5测定饲料和粪样中的粗蛋白质（CP)、粗脂肪（EE）、钙（Ca）、磷（P）、粗灰分（Ash）含量，并计算养分表观消化率。
+
+# 1.6 数据处理及分析
+
+数据采用SPSS22.0软件的一般线性模型的单变量程序进行完全区组方差分析，用Duncan 氏法进行多重比较，结果以"平均值 $\pm$ 标准差"表示， $P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果
+
+2.1饲粮中添加香甜鲜复合诱食剂对断奶仔猪生长性能的影响
+
+如表2所示，与对照组相比，饲粮中添加 $2 ~ \mathrm { k g / t }$ 的香甜鲜复合诱食剂显著提高了断奶仔猪平均日采食量和平均日增重（ $\scriptstyle P < 0 . 0 5 .$ )，分别提高了 $1 4 . 8 \%$ 和 $1 8 . 8 \%$ ；饲粮中添加香甜鲜复合诱食剂对断奶仔猪料重比、腹泻率和腹泻指数均没有显著影响（ $( P { > } 0 . 0 5 )$ 。与对照组相比，饲粮中添加 $1 \mathrm { k g / t }$ 的香甜鲜复合诱食剂的断奶仔猪平均日采食量、平均日增重、料重比、腹泻率和腹泻指数均没有显著差异（ $. P { > } 0 . 0 5 )$ 。
+
+# 表2饲粮中添加香甜鲜复合诱食剂对断奶仔猪生长性能的影响
+
+Table 2Effects of dietary ASF-CFA on growth performance of weaning piglets   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>1kg/t香甜鲜复合诱食剂组</td><td>2 kg/t香甜鲜复合诱食剂组</td></tr><tr><td>Items</td><td>Control group</td><td>1 kg/t ASF-CFA group</td><td>2 kg/t ASF-CFA group</td></tr><tr><td>初重 Initial weigh/kg</td><td>8.02±2.32</td><td>8.08±2.37</td><td>8.10±2.40</td></tr><tr><td>末重 Final weigh/kg</td><td>14.76±3.17</td><td>15.33±2.47</td><td>16.40±2.46</td></tr><tr><td>平均日采食量 ADFI/(g/d)</td><td>420.42±27.01a</td><td>436.94±19.91ab</td><td>493.45±50.51b</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>240.54±33.27a</td><td>258.89±14.89ab</td><td>296.12±7.83b</td></tr><tr><td>料重比F/G</td><td>1.75±0.16</td><td>1.69±0.07</td><td>1.67±0.13</td></tr><tr><td>腹泻率Rateofdiarrhea/%</td><td>9.51±0.05</td><td>9.45±0.04</td><td>9.43±0.04</td></tr><tr><td>腹泻指数 Indexof diarrhea</td><td>0.34±0.02</td><td>0.33±0.01</td><td>0.32±0.01</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \$ )，相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ )。下表同。
+
+In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference ( ${ \mathrm { ' } P } { > } 0 . 0 5 { \mathrm { ) } }$ .The same as below.
+
+2.2饲粮中添加香甜鲜复合诱食剂对断奶仔猪血清生化指标的影响
+
+如表3所示，饲粮中添加香甜鲜复合诱食剂对断奶仔猪血清生长激素、瘦素、胆囊收缩素、胰高血糖素样肽-1和胃饥饿素含量的影响均不显著 （ $P { > } 0 . 0 5 )$ ）
+
+表3饲粮中香甜鲜复合诱食剂对断奶仔猪血清指标的影响
+
+Table 3Effects of dietary ASF-CFA on serum biochemical indices of weaning piglets   
+
+<html><body><table><tr><td rowspan="2">项目</td><td rowspan="2">对照组</td><td>1kg/t香甜鲜复合诱食剂</td><td>2kg/t香甜鲜复合诱食剂</td></tr><tr><td>组</td><td>组</td></tr><tr><td>Items</td><td>Control group</td><td>1 kg/t ASF-CFA group</td><td>2 kg/t ASF-CFA group</td></tr><tr><td>生长激素 GH/(ng/mL)</td><td>3.08±0.15</td><td>3.21±0.23</td><td>3.60±0.73</td></tr><tr><td>瘦素Lep/(ng/mL)</td><td>5.71±0.72</td><td>5.60±0.67</td><td>5.09±0.95</td></tr><tr><td>胆囊收缩素 CCK/(pg/mL)</td><td>79.49±22.03</td><td>78.11±17.18</td><td>70.80±5.28</td></tr><tr><td>胰高血糖素样肽-1GLP-1/(pmol/L)</td><td>4.14±1.98</td><td>3.22±1.31</td><td>2.72±0.29</td></tr><tr><td>胃饥饿素 Ghrelin/(ng/L)</td><td>833.64±226.04</td><td>856.72±199.33</td><td>927.15±187.58</td></tr></table></body></html>
+
+2.3饲粮中添加香甜鲜复合诱食剂对断奶仔猪粪便微生物数量的影响
+
+如表4所示，饲粮中添加香甜鲜复合诱食剂对断奶仔猪粪便中大肠杆菌、双歧杆菌和乳酸杆菌数量的影响均不显著（ $P { > } 0 . 0 5 )$ 。
+
+表4饲粮中添加香甜鲜复合诱食剂对断奶仔猪粪便微生物数量的影响  
+Table 4Effects of dietary ASF-CFA on fecal microbe number of weaning piglets lg(CFU/g)   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>1kg/t香甜鲜复合诱食剂组</td><td>2 kg/t香甜鲜复合诱食剂组</td></tr><tr><td>Items</td><td>Control group</td><td>1 kg/t ASF-CFA group</td><td>2 kg/t ASF-CFA group</td></tr><tr><td>大肠杆菌 Escherichia coli</td><td>7.31±0.07</td><td>7.30±0.06</td><td>7.21±0.10</td></tr><tr><td>双歧杆菌Bifidobacteria</td><td>6.36±0.22</td><td>6.41±0.27</td><td>6.48±0.17</td></tr><tr><td>乳酸杆菌Lactobacillus</td><td>7.16±0.11</td><td>7.05±0.14</td><td>7.22±0.13</td></tr></table></body></html>
+
+2.4饲粮中添加香甜鲜复合诱食剂对断奶仔猪养分表观消化率的影响
+
+如表5所示，饲粮中添加香甜鲜复合诱食剂对断奶仔猪粗蛋白质、粗脂肪、有机物、钙和磷的表观消化率的影响均不显著（ $P { > } 0 . 0 5 )$ ）
+
+表5饲粮中添加香甜鲜复合诱食剂对断奶仔猪养分表观消化率的影响  
+Table 5Effects of dietary ASF-CFA on nutrient apparent digestibility of weaning piglets %   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>1kg/t香甜鲜复合诱食剂组</td><td>2 kg/t香甜鲜复合诱食剂</td></tr><tr><td>Items</td><td>Control group</td><td>1 kg/t ASF-CFA group</td><td>组 2 kg/t ASF-CFA group</td></tr><tr><td>粗蛋白质CP</td><td>55.76±4.28</td><td>59.69±4.00</td><td>64.29±7.36</td></tr><tr><td>粗脂肪 EE</td><td>54.76±1.07</td><td>56.24±2.70</td><td>57.74±2.59</td></tr><tr><td>有机物OM</td><td>77.69±4.76</td><td>77.77±1.53</td><td>77.76±1.68</td></tr><tr><td>钙Ca</td><td>31.71±6.02</td><td>33.94±2.19</td><td>40.94±9.59</td></tr><tr><td>磷P</td><td>35.23±3.22</td><td>37.26±1.26</td><td>40.73±3.79</td></tr></table></body></html>
+
+3讨论
+
+关于诱食剂对猪采食量的影响已经有很多报道，但往往是针对某一单一味道的研究。高剑蓉等[6认为，香味剂能够提高仔猪的生长性能；很多关于仔猪的研究证明，饲粮中添加甜味剂能够提高其平均日采食量和平均日增重[7-9]。将甜味剂与香味剂在仔猪饲粮中复合使用，同样能够增加仔猪的平均日采食量和平均日增重[10]。鲜味剂可以增强其他诱食剂的诱食效果，其中谷氨酸钠主要是在胃酸作用下转化为谷氨酸后起作用，在仔猪饲粮中添加谷氨酸后，提高了断奶仔猪的平均日增重[-12]。本试验断奶仔猪饲粮中添加香甜鲜复合诱食剂后的结果与上述试验结果相似，香甜鲜复合诱食剂对断奶仔猪平均日采食量和平均日增重有提高作用，这可能与香甜鲜复合诱食剂中的香味剂改善了饲粮的气味、甜味剂和鲜味剂改善了饲粮的适口性有关，三者共同增加了饲粮对断奶仔猪的诱食能力，从而提高了断奶仔猪的生长性能。
+
+而鲜味剂中的谷氨酸钠在胃酸作用下转化成谷氨酸，谷氨酸可以维持断奶仔猪肠道正常的生理功能功能和结构[13]。而且谷氨酸还能进一步转化成谷胱甘肽，谷胱甘肽可以在肠道黏膜受到氧化损伤时提供保护作用[14]。吕继蓉等[15]发现，在断奶仔猪饲粮中添加香味剂和甜味剂可以改善其腹泻率;
+
+彭彰智[16]也发现饲粮中添加鲜味剂可改善断奶仔猪的腹泻情况。断奶仔猪肠道内的微生物菌群平衡也对腹泻率有一定的参考意义，本试验中饲粮添加香甜鲜复合诱食剂并未对断奶仔猪腹泻率及粪便微生物数量产生影响，这可能是由于试验开始时断奶仔猪已经渡过断奶应激期，适应了保育料，其肠道的生理状态已经基本恢复到正常水平，致使香甜鲜复合诱食剂促进断奶应激后仔猪胃肠道的发育和微生物菌群平衡的作用没有得到完全发挥有关。
+
+血清生化指标能够在一定程度上反映机体的生理状况，会随着动物的生理状态在一定范围内发生动态变化，只要这些指标的值在正常区间内，都表示动物机体处于正常状态。本试验的结果表明，饲粮中添加香甜鲜复合诱食剂对仔猪的血清生化指标均未产生显著的影响。
+
+饲料中养分的消化率除了与饲料原料配比、加工工艺有关之外，还和动物的自身状况有关。本试验结果与陈娥英等[17]和朱文涛等[18]的结果相比养分表观消化率偏低，可能与猪品种及采样方式有关，本试验选取统一品种仔猪、采取同一种采样方法，结果仍有一定的参考意义。饲粮中添加香甜鲜复合诱食剂对断奶仔猪养分表观消化率均没有显著影响，这与刘涛等[]在断奶仔猪饲粮中添加谷氨酸后对饲料利用率没有影响的结论类似。
+
+# 4结论
+
+饲粮中添加 $2 ~ \mathrm { k g / t }$ 奶酪香型的香甜鲜复合诱食剂能显著提高仔猪平均日采食量和平均日增重。  
+本试验条件下推荐仔猪饲粮中添加 $2 \mathrm { k g / t }$ 的香甜鲜复合诱食剂为宜。
+
+# 参考文献：
+
+[1]欧阳五庆.动物生理学[M].2版.北京:科学出版社,2012:135.
+
+[2]王全,张广智.饲料香味剂对仔猪生产性能的影响[J].山东畜牧兽医,2014,35(6):13-14.
+
+[3]张加秋.猪用饲料香味剂对仔猪饲喂效果的比较[J].贵州畜牧兽医,2003,27(2):8-8.
+
+[4] REZAEI R,KNABE D A,TEKWE C D,et al.Dietary supplementation with monosodium glutamate is safe and improves growth performance in postweaning pigs[J].Amino Acids,20l3,44(3):911-923.
+
+[5]杨胜.饲料分析及饲料质量检测技术[M].北京:北京农业大学出版社,1993:20-34.
+
+[6] 高剑蓉,邵水龙,乔杏堂.仔猪饲粮中添加香味料MF—12 效果报告[J].养猪,1995(2):2-3. [7] ZHU L,WANG G,DONG B,et al.Effects of sweetener neotame on diet preference,performance and hematological and biochemical parameters of weaned piglets[J].Animal Feed Science and Technology,2016,214:86-94.
+
+[8] NAIM M,RONEN T,STRIEMB J,et al.Adenylate cyclase responses to sucrose stimulation in membranes of pig circumvallate taste papillae[J].Comparative Biochemistry and Physiology Part B:Comparative Biochemistry,1991,100(3):455-458.
+
+[9] STERK A,SCHLEGEL P,MULA J,et al.Effects of sweeteners on individual feed intake characteristics and performance in group-housed weanling pigs[J].Journal of Animal Science,2008,86(11):2990-2997.
+
+[10] 刘爽,陈玉林,孙世铎.几种甜味剂和香味剂对仔猪采食量和增重的影响[J].西北农业学报,2008,17(3):73-77.
+
+[11] 刘涛,彭健.在日粮中添加谷氨酰胺和谷氨酸对断奶仔猪生产性能的影响[J].养殖与饲料,2003(9):7-9.
+
+[12] KONG X F,ZHOU X L,FENG Z M,et al.Dietary supplementation with monosodium $L$ -glutamate modifies lipid composition and gene expression related to lipid metabolism in growing pigs fed a normal- or high-fat diet[J].Livestock Science,2015,180:247-252.
+
+[13] SOUBA WW,SMITHR J,WILMORED W.Glutamine metabolism by the intestinal tract[J].Journal of Parenteral and Enteral Nutrition,1985,9(5):608-617.
+
+[14]张军民,王连递,高振川,等.日粮添加谷氨酰胺对早期断奶仔猪抗氧化能力的影响[J].畜牧兽医学报，2002,33(2):105-109)
+
+[15]吕继蓉,雷燕,张克英.不同剂量的甜味剂对仔猪生产性能的影响[J].饲料工业,2011,32(20):29-31.[16] 彭彰智.谷氨酸对断奶仔猪的营养及肠道神经系统的影响[D].硕士学位论文.南昌:南昌大学,2012:11.
+
+[17] 陈娥英,杨玉芬,乔建国.仔猪不同低蛋白日粮添加赖氨酸、蛋氨酸、苏氨酸和色氨酸的效果研究[J].江西农业大学学报,2005,27(5):764-768.
+
+[18] 朱文涛,雒秋江,王富连,等.柠檬酸等4种酸化剂对断奶仔猪体增重和日粮消化率的影响[J].中国畜牧兽医,2004,31(4):13-16.
+
+Effects of Aromatic, Sweetener and Flavor Enhancer Compound Feeding Attractant on Growth Performance, Serum Biochemical Indices,Nutrient Apparent Digestibility and Faecal Microflora of Weaning Pigletsi
+
+LI Fangfang1WU Siyuan1ZHU Yujin1HUANG Tiejun² HE Maolong²ZHANG Yong1,2\* (1. College ofAnimal Sciences and Veterinary Sciences, Shenyang Agricultural University, Shenyang 110866, China; 2. Lucta (Guangzhou) Flavors Co.,Ltd., Guangzhou 510730, China)
+
+Abstract: This study was conducted to investigate the effcts of dietary different supplemental levels of aromatic,sweetener and flavor enhancer compound feeding attractant (ASF-CFA) on growth performance, serum biochemical indices, nutrient apparent digestibility and faecal microflora of weaning piglets. Seventy two( $4 3 { \pm } 4 \$ ） -day-old healthy large white piglets with similar body weight were selected and randomly divided into 3 groups with 3 replicates per group and 8 piglets per replicate.Piglets in the control group were fed a basal diet,and the others were fed the basal diets supplemented with 1 and $2 ~ \mathrm { k g / t }$ ASF-CFA, respectively. The trial lasted for 28 days. The results showed that compared with the control group, dietary supplemented with $2 ~ \mathrm { k g / t }$ ASF-CFA significantly increased the average daily feed intake and average daily gain $( P { < } 0 . 0 5 )$ ；dietary ASF-CFA had no influence on serum biochemical indices，nutrient apparent digestibility and faecal microflora of weaning piglets $( P { > } 0 . 0 5 )$ . It is concluded that dietary supplemented with $2 ~ \mathrm { k g / t }$ ASF-CFA can increase the average daily feed intake and average daily gain,and then improve the growth performance of weaning piglets. Under the conditions of this experiment， the suitable supplemental level of ASF-CFA for weaning piglets is $2 \mathrm { k g / t }$
+
+Key words: aromatic，sweetener and flavor compound feeding atractant; weaning piglets； growth performance; serum biochemical indices; nutrient apparent digestibility

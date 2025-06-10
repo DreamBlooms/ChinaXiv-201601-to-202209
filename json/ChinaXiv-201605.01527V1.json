@@ -1,0 +1,502 @@
+[
+    {
+        "type": "text",
+        "text": "Deficiency of CD4O Reveals an Important Role for LIGHT in Anti- Leishmania Immunity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ifeoma Okwor, Guilian Xu, Haidong Tang, Yong Liang Yang-Xin Fu and Jude E. Uzonna ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "J Immunol 2015; 195:194-202; Prepublished online 29 May 2015;   \ndoi: 10.4049/jimmunol.1401892   \nhttp://www.jimmunol.org/content/195/1/194 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This article cites 51 articles,26 of which you can access for free at: http://www.jimmunol.org/content/195/1/194.full#ref-list-1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Subscriptions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Information about subscribing to The Journal of Immunology is online at: http://jimmunol.org/subscriptions ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Permissions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Submit copyright permission requests at: http://www.aai.org/ji/copyright.html ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Email Alerts ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Receive free email-alerts when new articles cite this article. Sign up at: http://jimmunol.org/cgi/alerts/etoc ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deficiency of CD40 Reveals an Important Role for LIGHT in Anti-Leishmania Immunity ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ifeoma Okwor,\\* Guilian Xu,† Haidong Tang,\\* Yong Liang,\\$ Yang-Xin Fu,\\* and Jude E. Uzonna\\*5T ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We previously showedthatLIGHTand itsreceptorherpes virus entrymediator(HVEM)areimportantfordevelopmentofoptimal $\\mathbf { C D 4 } ^ { + }$ Th1cell immunityandresistancetoprimaryLeishmania major infection inmice.Inthis study,wefurthercharacterizedthe contributionsofthis oleculeindndriticcell(DC)maturation,iitiatio,andmaintenanceofprimaryimmunityndcodary anti-Leishmania immunity. Flow-cytometric studies showed that $\\mathbf { C D 8 alpha } ^ { + }$ DC subset was mostly affected by HVEM-Ig and lymphotoxin $\\mathbf { \\beta } _ { \\mathbf { \\beta } }$ receptor-Ig treatment.LIGHT signaling is required at both the priming and the maintenance stages of primary antiLeishmania immunitybutiscompletelydispensableduringsecondary immunity inwild type mice.However,LIGHTblockade led to impaired IL-12 and $\\mathbf { I F N - } \\gamma$ responses and loss of resistance in healed CD40-deficient mice after $L$ ，major challenge. The protective effect of LIGHT was mediated primarily via its interaction with lymphotoxin $\\mathbf { \\beta } _ { \\mathbf { \\beta } }$ receptor on $\\mathbf { C D 8 0 } _ { } ^ { + }$ DCs. Collectively, ourresultsshowthatalthough LIGHTis criticalfor maintenanceof primaryTh1response,it is dispensable during secondary anti-Leishmania immunityin the presence offunctional CD40signalingasseen inwildtype mice.The Journalof Immunology, 2015,195: 194-202. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Leishmania major, the causative agent of cutaneous Tm leishmaniasis,is dependent on the nature of $\\mathrm { C D 4 ^ { + } }$ subset that is induced(1-4).Resistance is usually correlated with the development of strong IFN- $\\cdot \\gamma$ -producing $\\mathrm { C D 4 ^ { + } }$ Th1 cells, which activate macrophages to produce NO,an effector molecule for killing intracellular parasites.In contrast, susceptibility has been associated with IL-4 and IL-1O production by Th2 cells, cytokines that deactivate macrophages and inhibit their intracellular parasite-killing ability(1,5).Akey factor that regulates the nature and qualityof anti-Leishmania immunity in infected mice is the level of IL-12 production by dendritic cells(DCs)and the degree of responsiveness of naive $\\mathrm { C D 4 ^ { + } }$ T cells to this cytokine (6-8).Thus,BALB/c mice are highly susceptible to $L$ major because their DCs produce very low amounts of IL-12,and their $\\mathrm { | C D 4 ^ { + } }$ T cells respond poorly to it because of the downregulation of $\\mathrm { I L } { - } 1 2 \\mathrm { R } \\beta$ expression (8-1O).In contrast,DCs from the resistant C57BL/6 (B6) mice produce high levels of IL-12 and their $\\mathrm { C D 4 } ^ { + }$ T cells maintain IL-12 responsiveness throughout infection(8).The pathways that influence early IL-12 production by DCs during $L$ 、major infection are still poorly understood,although the nature of activation and expression of various costimulatory molecules appear to be important (11,12). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The TNF superfamily of cytokines and their receptors play critical roles in the development of the immune system and in immune regulation,inflammation,and autoimmunity by regulating cell death, survival,and differentiation(13-15).There are four closelyrelated members of this family,which include lymphotoxin $\\propto$ (LTα, $\\mathtt { L T } \\beta$ TNF,and LIGHT. Their cognate receptors include TNFR1, TNFR2, lymphotoxin $\\beta$ receptor (LTβR),and herpes virus entry mediator (HVEM). Both $\\mathrm { L T } \\alpha$ and $\\mathrm { L T } \\beta$ are important for formation and structural integrity of peripheral lymphoid organs because mice with targeted deletion of these genes lack organized peripheral lymph nodes and their spleen architecture is structurally dysregulated (16-18).In contrast,LIGHT-deficient mice have normal peripheral lymphoid organs,suggesting that unlike LTα and $\\mathtt { L T \\beta }$ its function may be more closely related to immune modulation(16, 17).LIGHT is expressed on activated T cells,monocytes,granulocytes,and immature DCs (19-21) and binds to three receptors: LTβR,HVEM,and in humans,the decoy receptor,DcR3/TR6（19, 22,23).HVEM is expressed on resting T cells,NK cells,monocytes,immature DCs,and endothelial cells (22,24,25),whereas LTβR is expressed mostly on stromal cells,DCs,and endothelial cells but is absent on lymphocytes (26,27).The interaction of LIGHT with its receptors modulates several biological processes including cell survival,inflammation,and upregulation of intracellular adhesion molecule-1 leading to tumor eradication (28). In addition,signals transmitted via LIGHT-HVEM interaction have costimulatory effects on T cells,enhancing their proliferation and cytokine production(19,21).Thus,LIGHT expression enhances cytolytic T lymphocyte-mediated tumor immunity and allograft rejection (21,29),and its overexpression on $\\mathrm { \\Delta T }$ cells results in extensive T cell-proliferative disorders that are characterized by massive polyclonal expansion of $\\mathrm { C D 4 ^ { + } }$ and $\\mathrm { C D 8 ^ { + } }$ T cells (30, 31). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We previously reported that blockade ofLIGHT signaling results in severe impairment in anti-CD4O,LPS-,and CpG-induced IL",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 2 \\mathrm { p } 4 0$ production by macrophages and DCs in vitro and in vivo,and a concomitant impairment in $\\mathrm { C D 4 ^ { + } T h 1 }$ response and susceptibility to $L .$ major in the otherwise resistant B6 mice (32).In this study, we extend these findings by showing that blockade of LIGHT interaction with its receptorleads to impaired DC maturation and IL-12 production post- $\\ – L .$ major infection.We further demonstrate that LIGHT is required at both the priming and the maintenance stages of primaryanti-Leishmania immunitybutiscompletelydispensable during secondary immunity.Interestingly,blockade of LIGHT signaling in CD4O-deficient (knockout [KO]) mice that healed their primary $L$ .major infection afterrIL-12 treatment led to lower delayed-type hypersensitivity (DTH)andhigherparasite burden after secondary $L$ .major challenge.Collectively,our results show thatLIGHT is critical for priming and maintenance of $\\mathrm { C D 4 ^ { + } }$ Th1 response during primary $L .$ major infection but is completely dispensable for secondary immunity in intact wild type(WT） mice. However, in the absence of CD4O signaling,LIGHT becomes important for sustained IL-12 production, recall $\\mathrm { C D 4 ^ { + } }$ Th1 response, and maintenance of secondary anti-Leishmania immunity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods Mice ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Six- to 8-wk-old female B6 mice were purchased from Charles River Laboratories (St-Constant, QC). Female CD4O-deficient $\\mathrm { ( C D 4 0 ~ K O ) }$ and IL-12KO mice were purchased from The Jackson Laboratory (Bar Harbor, ME)and housed in specific pathogen-free units at the Central Animal Care Services,University ofManitoba.All mouse experiments were approved by the University ofManitoba Animal Care Committee in accordance with the regulation of the Canadian Council for Animal Care. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Parasites,infection,andrIL-12 treatment ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "L.major parasites (MHOM/IL/8O/Friedlin) were grown in Grace's insect medium (Life Technologies Life Technologies） supplemented with $20 \\%$ heat-inactivated FBS, $2 ~ \\mathrm { m M }$ glutamine, $1 0 0 \\mathrm { U / m l }$ penicillin,and $1 0 0 ~ \\mathrm { \\mu g / m l }$ streptomycin.For infection,7-d stationary-phase promastigotes were washed three times in PBS and counted.Mice were infected by injecting $1 \\times 1 0 ^ { 6 }$ parasites suspended in $5 0 ~ \\mu \\mathrm { l }$ PBS into the right hind footpad.For challenge infections,healed mice $( > 1 2$ wk postinfection） were injected with $5 \\times \\mathrm { 1 0 ^ { 6 } }$ parasites suspended in $5 0 ~ \\mu \\mathrm { l }$ PBS into the left hind footpad.Lesion development and progression were monitored weekly by measuring the diameter of the infected and uninfected footpads with Vernier calipers.Infected WT mice completely resolved their lesions by12wk postinfection.To obtain healed CD40 KO mice,we treated infected $\\mathrm { C D 4 0 ~ K O }$ and IL-12 KO mice intralesionally with $0 . 3 ~ \\mu \\mathrm { g }$ rIL-12(PeproTech,Rocky Hill,NJ) three times per week for the first 2 wk of infection.This treatment results in complete lesion resolution by 8-1O wk after infection with $L _ { ☉ }$ major. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Treatmentwith HVEM-Ig,LTβR-Ig,and TRANCE-Ig fusion proteins ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "One day before $L .$ major infection,some naive mice were injected with HVEM-Ig or LTβR-Ig fusion proteins $\\mathrm { 1 0 0 ~ \\ \\mu g / m o u s e ) }$ or control $\\mathbf { \\nabla \\cdot I g }$ (Human IgG1; Sigma) i.p. (32). To determine whether LIGHT signaling is important at the initiation (priming) and/or maintenance of established immune response,we initiated HVEM-Ig administration 1 d before (as describedearlier) or2wk post- $\\_ L$ ，majorinfection. To investigate the role ofLIGHT in secondary (memory) anti-Leishmania immunity,we injected healed WT and $\\mathrm { C D 4 0 ~ K O }$ mice with HVEM $\\mathbf { \\nabla \\cdot I g }$ or $\\mathrm { L T } \\mathrm { \\beta R \\mathrm { - } I g }$ 1 $( 1 0 0 ~ \\mu \\mathrm { g } /$ mouse)i.p.and then challenged them with $L .$ major on the contralateral footpad the next day.To investigate the role of TNF-related activationinduced cytokine(TRANCE) receptor activator of NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ (RANK) pathwayin secondaryanti-Leishmania immunity,we injected healed WTor CD40KO mice with TRANCE-Ig $( 1 0 0 ~ \\mathrm { \\mu g / m o u s e } ,$ i.p.and then challenged themwith $L$ major on the contralateral foot the following day.Challenged mice were further given weekly administration of the fusion protein until sacrificed.Mice were monitored for DTH response at $^ { 7 2 \\mathrm { ~ h ~ } }$ postchallenge and sacrificed 3 wk later to estimate parasite burden. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Invitro recall response and intracellular cytokine staining ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At various times postinfection,infected mice were sacrificed and the draining lymph nodes(dLNs) were collected and made into single-cell suspensions. Cells were washed, suspended at 4 million/ml in complete medium (DMEM supplemented with $10 \\%$ heat-inactivated FCS, $2 ~ \\mathrm { m M }$ glutamine, $1 0 0 ~ \\mathrm { U / m l }$ penicillin,and $1 0 0 ~ \\mu \\mathrm { g / m l }$ streptomycin),and plated at $1 \\ \\mathrm { m l / w e l l }$ in 24- well tissue culture plates (Falcon;VWR,Edmonton,AB). Cells were stimulated with or without soluble leishmanial $\\mathbf { A } \\mathbf { g }$ (SLA; $5 0 ~ \\mu \\mathrm { g / m l } ,$ for $^ { 7 2 \\mathrm { ~ h ~ } }$ and the supernatant fluids were collected and stored at $- 2 0 ^ { \\circ } \\mathrm { C }$ until assayed forcytokines by ELISA.For intracellular cytokine staining,some cells were stimulated with PMA $\\mathrm { ( 5 0 ~ n g / m l ) }$ and ionomycin $\\left( 5 0 0 ~ \\mathrm { n g / m l } \\right)$ for $^ { 4 \\mathrm { ~ h ~ } }$ ，and brefeldin A $\\mathrm { ( 1 0 ~ \\mu g / m l ) }$ ）wasadded in the last $^ { 2 \\mathrm { ~ h ~ } }$ to enhance intracellular cytokine accumulation.Cells were harvested and stained for cell-surface markers and intracellular cytokines as previously described (33). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ELISA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IL-4,IL-12,and $\\mathrm { I F N - } \\gamma$ concentrations in the cell culture supernatant fluids were measured by sandwich ELISA using paired Abs from BD Pharmingen (San Jose,CA) according to manufacturer's suggested protocols.The sensitivities of the ELISAs were 15,31,and $1 5 \\mathrm { p g / m l }$ for IL-4,IL-12,and $\\mathrm { I F N - \\gamma }$ ,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IsolationofdLNand splenicDCs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C D 1 1 c ^ { + } }$ cells were enriched from pooled dLNs (three mice per pool) of 3-d $L .$ major-infected WT mice treated with HVEM-Ig,LTβR-Ig,orcontrol Ig, or from spleens of naive WT or CD4O KO mice using Stem Cell EasySep enrichment kit following manufacturer's instructions.The enriched cells were then stained with allophycocyanin-conjugated anti $. \\mathrm { C D } 8 \\alpha$ eFlour-450- conjugated anti-CDiO3 mAbs and then sorted into $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { + } }$ $\\mathrm { C D 1 1 c ^ { + } }$ $ { \\mathrm { C D 8 } }  { \\alpha } ^ { - }$ ， $\\mathrm { C D } 1 1 \\mathrm { c } ^ { + } \\mathrm { C D } 1 0 3 ^ { + }$ ，and $\\mathrm { C D } 1 1 \\mathrm { c } ^ { + } \\mathrm { C D } 1 0 3 ^ { - }$ populations using BD FACSAria III(BD Biosciences,Mississauga, ON).The purity of the different cell population was ${ > } 9 6 \\%$ as assessed by flow cytometry. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generation of bonemarrow-derived DCs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bone marrow-derived DCs (BMDCs) were generated from naive WT,HVEM KO,and $\\operatorname { L T } \\beta \\operatorname { R }$ KO mice as described previously (34).In brief,bone marrow cells were isolated from the femur and tibia of mice.BMDCs were differentiated in petri dishes in the presence of $2 0 \\mathrm { n g / m l }$ rGM-CSF (Peprotech,Rocky Hill,NJ).Immature DCs were harvested on day 8,and the purity of DCs (i.e., $\\mathrm { C D 1 1 c ^ { + } }$ cells) was between 85 and $92 \\%$ as assessed by flow cytometry. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$C D 4 ^ { + }$ Tcell purification and CFSE labeling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C D 4 } ^ { + }$ T cells were purified from single-cell suspensions of spleens from naive or $L$ .major-infected and healed $( > 1 2$ wk postinfection） WT or $\\mathrm { C D 4 0 ~ K O }$ mice by negative selection using $\\mathrm { C D 4 } ^ { + }$ T cell enrichment kit (EasySep；Stemcell Technologies，Vancouver,BC）according to the manufacturer's suggested protocols.To maximize T cell recovery,we first labeled total spleen cells with CFSE dye as previously described (35)before $\\mathrm { C D 4 } ^ { + }$ T cell enrichment.The purity of T cells was ${ > } 9 8 \\%$ as assessed by flow cytometry. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CocultureofDCs and T cells ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sorted splenic DCs or BMDCs were cocultured in U-bottom 96-well tissue culture plates with CFSE-labeled $\\mathrm { C D 4 ^ { + } }$ T cells at a DC/T cell ratio of 1:100.The cells were stimulated with or without freeze-thawed $L .$ major $\\mathbf { A } \\mathbf { g }$ $( 5 \\times 1 0 ^ { 6 }$ parasite equivalent per well) for $\\textrm { 4 d }$ .Proliferation and $\\mathrm { I F N - \\gamma }$ secretion were then assessed by flow cytometry.In some experiments,the sorted DC subsets from the dLNs of fusion protein-treated and $L .$ majorinfected micewere stimulated invitro with SLAfor $3 \\mathrm { d }$ and the level of IL$1 2 \\mathrm { p } 4 0$ in the culture supernatant fluid was assessed by ELISA. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Estimationofparasite burden ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Parasite burden in the primary infected or challenged footpadswas quantified by limiting dilution analysis as previously described (33). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Student t test was used to compare mean and SEM between two groups.In some experiments,nonparametric one-way ANOVA was used to compare mean and SD of more than two groups.Tukey's test was used where there was significant difference in ANOVA.Differences were considered significant when $p < 0 . 0 5$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BlockadeofLIGHTleadsto reductioninDCnumberandIL-12 productionpost-L.major infection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Weshowed previously that blockade ofLIGHT byHVEM-Ig or LTβR-Ig affects LPS-induced production of IL-12 by BMDCs in vitro (32).To testwhetherLIGHT blockade affected the subset of DCs that is induced post- $\\_ L$ .major infection,we treated naive mice with HVEM-Ig, $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ ,or control-Ig before infection with $L .$ major and assessed the subset of DCs present in the dLNs directly ex vivo by flow cytometry.Blockade of LIGHT caused significant $( p < 0 . 0 5  – 0 . 0 1 )$ reduction in the percentages (Fig.1A, 1C）and absolute numbers(Fig.1B，1D）of $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { + } }$ (Fig.1A,1B) and $\\mathrm { C D } 1 1 \\mathrm { c } ^ { + } \\mathrm { C D } 1 0 3 ^ { + }$ (Fig.1C,1D) DCs in the dLNs of infected mice.In addition,we found that both $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { + } }$ and $\\mathrm { C D } 1 1 \\mathrm { c } ^ { + } \\mathrm { C D } 1 0 3 ^ { + }$ DCs were capable of producing IL-12 (Fig.1E,1F).However,the $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { + } }$ DCs subsets were the major population that produced IL-12 post-L. major infection (Fig.1E,1F). Interestingly, IL-12 production by $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { + } }$ cellswas significantly $( p < 0 . 0 1 - 0 . 0 0 1$ ）reduced post-HVEM-Ig and $- \\mathrm { L T } \\mathrm { [ 3 R - I g }$ treatment (Fig.1E),whereas only $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ fusion protein caused significant reduction in $\\scriptstyle { \\mathbb { L } } - 1 2$ production in both $\\mathbf { C D } 1 0 3 ^ { + }$ and $\\mathrm { C D } 1 0 3 ^ { - }$ DC subsets (Fig.1F). Taken together, these results show thatLIGHTaffected the numbers and subsets ofDCs in the dLNs,as well as their ability to produce IL-12 after infection with $L$ major. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LIGHTisimportant for both priming andmaintenanceof primary anti-Leishmania immunity ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LIGHT is important for optimal IL-12 production,the development of $\\mathrm { C D 4 ^ { + } }$ Th1 immune response,and resistance to $L$ major (32).Because IL-12 is required for both priming and main tenance of anti-Leishmania immunity (36-38)，we investigated whether LIGHT is required at both the priming and the maintenance stages of anti-Leishmania immunity.Injection of HVEM-Ig(Fig.2A，2B）or $\\mathrm { L T } \\mathrm { \\beta R \\mathrm { - } I g }$ (data not shown） fusion proteins before or starting at 2 wk after $L$ ，major infection resulted in significantly $( p \\ < \\ 0 . 0 0 1 ^ { \\cdot }$ ）bigger lesion size and higher parasite burden than in the control-Ig-treated group (Fig.2A,2B). This treatment also severely impaired the production of $\\mathrm { I F N - \\gamma }$ by $\\mathrm { C D 4 ^ { + } }$ T cells after in vitro stimulation with SLA(Fig.2C-E).However, the effect of LIGHT blockade was more prominent in mice treated with the fusion protein preinfection,suggesting that although this pathway is important for both effective priming and maintenance of anti-Leishmania immunity,it is more important during the initiation phase of the anti-Leishmania immune response. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next,we wished to determine whether LIGHTis also important for effective secondary (memory）anti-Leishmania immunity.Therefore,we injected HVEM-Ig or $\\mathrm { L T } \\mathrm { \\beta R \\mathrm { - } I g }$ into healed B6 mice ${ \\left( > 1 6 \\right. }$ wk after primary infection),and after $2 4 \\mathrm { h }$ challenged them with $L$ majorInjectionofHVEM-IgorLTβR-Igbefore secondary challenge had no effect on DTH response (Fig.3A） and rapid control of parasite proliferation (Fig.3B).Furthermore,whereas injection of HVEM-Ig or $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ significantly impaired IL-12 production by dLN cells from infected naive mice (see Figs.1,2), it had no effect on the IL-12 productionby cells from healed mice after secondary $L .$ major challenge (Fig. 3C). Taken together, theseresults suggest that althoughLIGHT is critical for effective primary immunity,itis dispensable during secondary anti-Leishmania immunity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LIGHTis dispensable for secondary anti-Leishmania immunity ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TreatmentwithrIL-12leadsto healingin CD4O-deficientmice ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although an earlier report showed that CD4O and CD4OL interaction is critical for resistance to $L$ 、major (39),a laterstudy showed that this interaction may be dispensable for healing low-dose infection (4O). Because IL-12 production is indispensable for resistance to $L .$ major,this observation suggests the existence of an alternative (i.e.，CD4O-CD4OL-independent）pathway for IL-12 production during $L$ ，major infection. Indeed, the outcome of $L$ 、major infection in CD4O- and IL-12- deficient mice after treatment with rIL-12 was completely different.Although treatment of both mice with rIL-12 within the first 2 wk of infection initially led to resolution of cutaneous lesion and reduction in parasite burden,lesion recrudescence (indicative of disease reactivation) occurred in IL-12 KO，but not in $\\mathrm { C D 4 0 ~ K O }$ ，mice after cessation of rIL-12 treatment (Fig.4A,4B).Furthermore,although rIL-12-treated $\\mathrm { C D 4 0 ~ K O }$ mice were resistant to secondary $L$ .major challenge, treated $\\mathrm { I L } { - } 1 2 ~ \\mathrm { K O }$ mice were highly susceptible (Fig. 4C). These observations underscore the critical role of $\\mathrm { C D 4 0 - }$ CD4OL interaction in IL-12 production and immunity against L.majorinfection.More importantly,they further confirm the existence of a CD40-CD4OL-independent, IL-12-producing pathway for maintenance of secondary immunity in healed CD40 KO mice. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/104f556a66d916449a2697789700dd44be012354201346b0223758c4c2c24fb5.jpg",
+        "img_caption": [
+            "FIGURE1.BlockadeofLIGHTleadsto reduction in numbers of $\\mathrm { C D 8 0 } ^ { + }$ and $\\mathrm { C D } 1 0 3 ^ { + }$ DCs and IL-12 production post- $\\scriptstyle - L .$ major infection.B6 mice were treated with HVEM-Ig, $\\mathrm { L T } \\mathrm { \\beta R \\mathrm { - } I g }$ ,or controlIgandinfectedwith $L$ major the next day.Three days postinfection,mice were sacrificed and the percentages (A and C)and absolute numbers(B and $\\pmb { \\triangleright }$ of $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { + } }$ (A and B)and $\\mathrm { C D 1 1 c } ^ { + }$ $\\mathrm { C D } 1 0 3 ^ { + }$ (C and D） cells in the lymph nodes draining the infection site were determined directly ex vivo by flow cytometry.DCs $\\mathrm { ( C D 1 l c ^ { + } ) }$ were first enriched by negative selection from pooled dLN cells from three mice and then sorted into $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { + } }$ and $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { - } }$ (E)or $\\mathrm { C D 1 1 c ^ { + } }$ $\\mathrm { C D } 1 0 3 ^ { + }$ and $\\mathrm { C D } 1 1 \\mathrm { c } ^ { + } \\mathrm { C D } 1 0 3 ^ { - }$ (F) populations.The cells were then stimulated in vitro with soluble Leishmania $\\mathbf { A } \\mathbf { g }$ (SLA; $5 0 \\ \\mu \\mathrm { g / m l } ,$ for $3 \\textrm { d }$ in the presence or absence of HVEM-Ig, $\\mathrm { L T } \\mathrm { \\beta R \\mathrm { - } I g }$ ，or control-Ig，and the level of IL-12 in the culture supernatant fluid was determined by ELISA.Results presented are representative of two different experiments with similar results $( n = 4 - 5$ mice/ group). $^ { * } p < 0 . 0 5$ ， $\\ast \\ast _ { p } < 0 . 0 1$ . ns, not significant. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c12c1e77aed110bda8852ae397ae984dd10ddff15e206786272bd487ebc37ca.jpg",
+        "img_caption": [
+            "FIGURE2.IGHisimportantforbothpringdmaintenanefanti-LesmanimuityB6iceereijecteditHEM-gotog weekly starting at day $^ { - 1 }$ for 2 wk (to test priming) or from 2 wk after (to test maintenance) infection with $L$ 、major,and the lesion size(A) was monitoredeeklyksposifeiiceeacdttiatrasirdeftedfs)Atacte were restimulated in vitro for $^ { 7 2 \\mathrm { ~ h ~ } }$ with SLA and the supernatant fluids were assayed for IFN $\\cdot \\gamma$ by ELISA(C).In addition,the percentages of $\\scriptstyle { \\mathrm { I F N - } } \\gamma _ { - }$ producing $\\mathrm { C D 4 ^ { + } T }$ cells were determined by flow cytometry (D).The bar graph (E) represents the mean $\\pm \\ \\mathrm { S E }$ of flow-cytometry results (shown in C) fromfourtofive mice ineach group.Results presentedare representativeof two diferent experiments with similarresults $\\scriptstyle { \\overbrace { n } = 4 - 5 }$ mice/group). ${ } ^ { \\ast } p < { }$ 0.05, $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LIGHTis critical formaintenanceof immunity in healed CD40-deficient mice ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our findings implicate LIGHT as playing an important role in IL-12 production and optimal resistance to $L$ ，major infection (Figs.1-3) (32).Because healed $\\mathrm { C D 4 0 ~ K O }$ mice do not reactivate their lesion (unlike IL-12KO mice) after cessation of rIL12 treatment,we hypothesized that their durable resistance is due to LIGHT-dependent IL-12 production.We therefore assessed the impact of HVEM-Ig or LTβR-Ig treatment on secondary anti-Leishmania immunity in rIL-12-treated CD4O KO mice. Unlike WT mice,treatment of healed $\\mathrm { C D 4 0 ~ K O }$ mice with HVEM-Ig or LTβR-Ig led to loss of immunity to secondary L.major challenge as evidenced by significantly $( p < 0 . 0 1 )$ smaller DTH response and higher parasite burden at the challenged footpads(Fig.5A,5B).In addition,dLN cells from healed CD40 KO mice treated with HVEM-Ig or $\\mathrm { L T } \\mathrm { \\beta R \\mathrm { - } I g }$ produced significantly $( p ~ < ~ 0 . 0 1 { - 0 . 0 0 1 } )$ ）less IL-12(Fig.5C)and $\\mathrm { I F N - \\gamma }$ (Fig.5D) compared with the control-Ig-treated group.Furthermore,the level of IL-4(Fig.5E)was significantly $( p < 0 . 0 1 )$ （2 higher in the HVEM-Ig- or LTβR-Ig-treated group compared with the control-Ig-treated group. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A previousreportby Padigel etal.(41) showed thatin CD40L KO mice,the TRANCE-RANK pathway mediates IL-12 production leading to resistance to $L$ .major.Therefore,we investigated whether the TRANCE-RANK pathway played a role in the maintenance of resistance in IL-12-treated $\\mathrm { C D 4 0 ~ K O }$ mice infected with $L$ .major.Wefoundthatblockadeof TRANCERANK pathwaybytreatmentwithTRANCE- $\\cdot \\mathrm { I g }$ in healed CD40 KO mice had no impact on DTH response and rapid parasite control after secondary $L .$ major challenge (Fig. 6A,6B). Collectively,these results indicate that in the absence of CD4O,LIGHT plays a critical role in $_ { \\mathrm { I L - } 1 2 }$ production, long-term maintenance of immunity,and resistance to secondary $L$ major challenge. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/af66146037244a2a4a97123b747df69338d83d39f4bafe97e5cb7c831f563c0b.jpg",
+        "img_caption": [
+            "FIGURE3IGHisspesablefoodry(ryti-LishiiuityiceerefectedithLjdllodtalele weeks after primary infection (when lesion was completely resolved),healed mice were injected with HVEM-Ig, $\\mathrm { L T } \\mathrm { \\beta R \\mathrm { - } I g }$ ,orcontrol $\\cdot \\mathrm { l g }$ 1 ${ \\mathrm { 1 0 0 ~ \\mu g / } }$ mouse) andchalengedtenextdaintcontralateralftithLmjorSomealedounifectedag-mated(aive）Wmiceerealsohaleds controls.Teoseudsadrdleofoo (rontrolIgdakoslgereacdteteeparasien)ellseiuladrofor $^ { 7 2 \\mathrm { ~ h ~ } }$ and the supernatant fluids were assayed for $\\mathtt { I L - l 2 p 4 0 }$ by ELISA(C).Results presented are representative of three different experiments with similar results $\\scriptstyle ( n = 3 - 5$ mice/group).ns,not significant. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7c2ade3df40a20cc8515f321a9134fbaf255f8c82f03f2c0513ec22d33a649c.jpg",
+        "img_caption": [
+            "FIGURE4.Treatmetih-adstaliginLofectedCD4KuttILice.WIL-Od4Ketd with $L .$ majorweretreatedwithL-orBforthefrst2wkandlesiondevelopment (A)asmonitoredweklyAt12kpostifectioniceere challenged with virulent $L .$ major,and DTH response was determined after $7 2 \\mathrm { h }$ .(B) Challenged mice were sacrificed after 3 wk,and parasite burden in the chalengdsedssulsdtiftps 1 $\\scriptstyle { \\overbrace { n } = 3 - 4 }$ mice/group). $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$C D \\delta \\alpha ^ { + } D C s$ are responsible for $C D 4 ^ { + }$ Tcell proliferation and IFN- $\\cdot \\gamma$ production in healed CD40 KO mice ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Next, we wished to determine the relevant DC population that drives CD40-independent but IL-12-dependent maintenance of antiLeishmania immunityinhealed CD4OKOmice.We sorted splenic DCs $\\mathrm { ( C D 1 1 c ^ { + } ) }$ fromWTand $\\mathrm { C D 4 0 ~ K O }$ mice into highly enriched $\\mathrm { C D 8 \\alpha ^ { + } }$ 1 $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { + } ) }$ or $\\mathrm { C D 8 \\alpha ^ { - } }$ $\\mathrm { ( C D 1 1 c ^ { + } C D 8 \\alpha ^ { - } ) }$ and $\\mathrm { C D } 1 0 3 ^ { + }$ $\\mathrm { ( C D 1 1 c ^ { + } C D 1 0 3 ^ { + } ) }$ ）and $\\mathrm { C D } 1 0 3 ^ { - }$ 1 $\\mathrm { ( C D 1 1 c ^ { + } C D 1 0 3 \\bar { \\ } ^ { - } } ,$ ）populations, pulsed them with freeze-thawed $L .$ major,and cocultured them with CFSE-labeled $\\mathrm { C D 4 ^ { + } }$ T cells from healed WT mice,and assessed T cell proliferation and $\\mathrm { I F N - \\gamma }$ production after $^ { 4 \\mathrm { ~ d ~ } }$ We found that both $\\mathrm { C D 8 \\alpha ^ { + } }$ and $\\mathrm { C D 8 \\alpha ^ { - } }$ DCs from WT mice induced comparable proliferation and $\\mathrm { I F N - } \\gamma$ production by $\\mathrm { C D 4 ^ { + } }$ T cells (Fig.7A,upper panel,and 7B).In contrast, only $\\mathrm { C D 8 \\alpha ^ { + } }$ DCs from $\\mathrm { C D 4 0 \\ K O }$ mice induced appreciable proliferation and $\\mathrm { I F N - \\gamma }$ production by $\\mathrm { C D 4 ^ { + } }$ T cells from WT mice (Fig.7A, lower panel,and 7B). Interestingly, $\\mathrm { C D } 1 0 3 ^ { + }$ and $\\mathrm { C D } 1 0 3 ^ { - }$ DCs from WT and $\\mathrm { C D 4 0 ~ K O }$ mice induced comparable numbers of proliferating and $\\mathrm { I F N - \\gamma }$ -producing $\\mathrm { C D 4 ^ { + } }$ T cells in vitro (Fig.7C,7D).Taken together, these results suggest that $\\mathrm { C D 8 \\alpha ^ { + } }$ DCs are responsible for maintaining CD40-independent $\\mathrm { C D 4 ^ { + } }$ T cell response and immunity in healed $\\mathrm { C D 4 0 ~ K O }$ mice. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LIGHT mediatesIL-12 production and induction of $C D 4 ^ { + }$ Tcell proliferation andIFN $\\gamma$ productionprimarilyviaLTβR ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In mice, LIGHT interacts with HVEM and $\\mathrm { L T } \\beta \\mathrm { R }$ , two major receptors expressed on APCs including DCs(19,22,23). To determine the key receptor involved in LIGHT-mediated IL-12 production and induction of $\\mathrm { C D 4 ^ { + } }$ T cell response,we cocultured $L .$ major-infected BMDCsfrom WT,HVEMKO,and $\\mathrm { L T } \\beta \\mathrm { R }$ KO with CFSE-labeled $\\mathrm { C D 4 ^ { + } }$ T cells from healed WT mice,and assessed cell proliferation and $\\mathrm { I F N - } \\gamma$ production after 4 d.As shown in Fig.8A,IL-12 pro duction was significantly $( p < 0 . 0 0 1 )$ ）reduced in cell-culture supernatants of $\\mathrm { C D 4 ^ { + } }$ T cells cocultured with LTβR KO BMDCs compared with those cocultured with WT or HVEM KO BMDCs. Interestingly, the level of IL-12 was significantly $( p < 0 . 0 1 )$ lower in the $\\mathrm { L T } \\beta \\mathrm { R }$ KO compared with the HVEMKO mice (Fig. 8A).In line with this,the percentage of proliferating IFN- $\\cdot \\gamma$ -producing $\\mathrm { C D 4 ^ { + } }$ T cells in conditions cocultured with LTβR KO BMDCs was significantly $( p < 0 . 0 1 \\mathrm { - } 0 . 0 0 1 )$ lower than those cocultured with WT or HVEMKO BMDCs (Fig.8B,8C).Taken together,our data suggest that although binding of LIGHT to HVEM may play some roles, $\\operatorname { L T } \\beta \\mathbf { R }$ isthe primary receptor involved in LIGHT-mediated IL-12 production,Th1 response,and immunity to $L .$ major. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/754b5c19cb56572d9cbb1ff2d33c1343ee3b9b89c7b8b2ccefc299698603c5ac.jpg",
+        "img_caption": [
+            "FIGURE 5. Blockade ofLIGHT led to loss of immunity in healed CD40 KO mice.CD40 KO mice made to heal their $L$ major infection byrIL-12 treatment were treated with HVEM-Ig, $\\mathrm { L T } \\beta \\mathrm { R - I g }$ ,or control $\\cdot \\mathrm { l g }$ and then challenged with $L .$ major after $2 4 \\mathrm { ~ h ~ }$ Some uninfected age-matched (naive) mice were also challenged as controls. Seventy-two hours after challenge,DTH response (A)was determined by measuring footpad thickness in the challenge feet. Three weeks after challenge,mice were sacrificed and parasite burden in the challenged footpads was determined (B).At sacrifice,dLN cells were stimulated with SLA for $7 2 \\mathrm { { h } }$ ,and the levels ofIL-12 (C), $\\mathrm { I F N - \\gamma }$ (D), and IL4(E) in the cell culture supernatant fluids were determined by ELISA.Results presented are representative of two independent experiments with similar findings 1 $\\scriptstyle \\overbar { n } = 3 - 4$ mice/group). $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ ， $\\ast \\ast \\ast _ { p } <$ 0.001. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee745a8b311075bd430b3df21b1777c747ffb6935166f407ea8195e4fef4f10c.jpg",
+        "img_caption": [
+            "FIGURE 6.TRANCE-RANK interaction is not required for secondary immunity in healed $\\mathrm { C D 4 0 ~ K O }$ mice.Healed CD4OKO mice were treated with TRANCE-Ig fusion protein or control $\\cdot \\mathrm { I g } \\ 2 4 \\ \\mathrm { h }$ before challenge with L.major,and DTH response was determined after $7 2 \\mathrm { ~ h ~ }$ (A).Three weeks afterchallenge,mice were sacrificed and parasite burden in the challenged footpads was determined (B).Results presented are representative of two independent experiments with similar findings.ns,not significant. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We previously reported that LIGHT signaling is critical for optimal IL-12 production and $\\mathrm { C D 4 ^ { + } }$ Th1 development in mice,and its blockade either byusingHVEM-Ig fusion protein or targeted gene deletion of LIGHT or HVEM results in susceptibility to $L$ .major infection in the otherwise resistant strain of mice (32).However, this study did not directly show the contribution of LIGHT in IL-12 production post- $\\ – L .$ major infection or investigate whether LIGHT is important for early and/or sustainedIL-12 production in L.major-infectedmice.Furthermore,whetherLIGHTisrequired for secondary anti-Leishmania immunity was not investigated. In this study,we corroborate the importance of LIGHT in primary anti-Leishmania immunity.More importantly,we show that LIGHT is required at both the priming and the maintenance stages ofprimary anti-Leishmania immunity butis completely dispensableduring secondary anti-Leishmania immunity in intact (WT) micewith functional CD4O-CD4OL interaction.However,in the absence of CD4O-CD4OL interaction (as is seen in CD40 KO mice),blockade of LIGHT led to dramatically impaired DTH and $\\mathrm { I F N - \\gamma }$ responses and a consequent inability to control parasite proliferation after secondary $L .$ major challenge.We further found that $\\mathrm { C D 8 \\alpha ^ { + } }$ DCs are responsible for maintaining this CD40- independent but IL-12-dependent $\\mathrm { C D 4 ^ { + } }$ T cell proliferation and $\\mathrm { I F N - \\gamma }$ production in $L$ major-infected $\\mathrm { C D 4 0 ~ K O }$ mice manipulated to heal their primary infection by rIL-12 treatment. Collectively,this study identifiesLIGHTasan important molecule that is critical for maintenance of IL-12-dependent anti-Leishmania immunity in mice. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LIGHT is expressed on activated $\\mathrm { ~ T ~ }$ cells，monocytes，granulocytes,and immature DCs(19-21) and binds to three receptors: LTβR,HVEM,and in humans,the decoy receptor,DcR3/TR6 (19,22,23).HVEM is expressed on resting T cells,NK cells, monocytes，immature DCs,and endothelial cells (22,24,25), whereas $\\operatorname { L T } \\beta \\mathbf { R }$ is expressed mostly on stromal cells,DCs,and endothelial cells but is absent on lymphocytes (26,27).The interaction ofLIGHT with its receptors including LTβR,HVEM, and in humans,the decoy receptor，DcR3/TR6(19,22，23), modulates several biological processes including cell survival, inflammation,and upregulation of intracellular adhesion molecule-1 leading to tumor eradication (28).In addition,signals transmited via LIGHT-HVEM interaction have costimulatory effects on $\\mathrm { ~ T ~ }$ cells，enhancing their proliferation and cytokine production(19,21).Thus,LIGHT expression enhances cytolytic Tlymphocyte-mediated tumor immunity and allograft rejection (21，29)，and its overexpression on $\\mathrm { \\Delta T }$ cells results in extensive T cell-proliferative disorders that are characterized by massive polyclonal expansion of $\\mathrm { C D 4 } ^ { + }$ and $\\mathrm { C D 8 ^ { + } }$ T cells (30,31). Several studies show that the engagement of LIGHT with its ligand plays a crucial role for optimal T cell activation and differentiation into effector cells (21,22,42,43).Thus,blockade ofLIGHT-HVEM interaction in vitro inhibits polyclonal T cell proliferation (22,42), and T cells from LIGHT-deficient mice show impaired effector functions after anti-CD3 stimulation in vitro (44,45).In addition to having a direct effect on $\\mathrm { ~ T ~ }$ cells,LIGHT also indirectly influences activation and differentiation,and effector T cell responses by inducing DC maturation and IL-12 production (46,47).We found that blockade of LIGHT by treatment with HVEM-Ig or LTβR-Ig significantly impairs expression of costimulatory molecules and IL-12 production by total $\\mathrm { C D 1 1 c ^ { + } }$ cells (data not shown),as well as $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { + } }$ and $\\mathrm { C D } 1 1 \\mathrm { c } ^ { + } \\mathrm { C D } 1 0 3 ^ { + }$ (Fig. 1) ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b54300f4756b69098af0f572f6a4c0b39471bc5878a539bf70ca04125148017b.jpg",
+        "img_caption": [
+            "FIGURE7． $\\mathrm { C D 8 \\alpha ^ { + } }$ DCsare responsible for maintaining CD40-independent $\\mathrm { C D 4 ^ { + } }$ T cell response in healed mice. $\\mathrm { C D 1 1 c ^ { + } }$ cells were enriched from spleens of naive WT or $\\mathrm { C D 4 0 ~ K O }$ mice by positive selection and then further sorted by flow cytometry into $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { + } }$ ， $\\mathrm { C D 1 1 c ^ { + } C D 8 \\alpha ^ { - } }$ $\\mathrm { C D } 1 1 \\mathrm { c } ^ { + } \\mathrm { C D } 1 0 3 ^ { + }$ ,and $\\mathrm { C D } 1 1 \\mathrm { c } ^ { + } \\mathrm { C D } 1 0 3 ^ { - }$ populations. The different DC populations were then cocultured with CFSE-labeled $\\mathrm { | C D 4 ^ { + } }$ T cells isolated from spleens ofWT mice that have healed their primary L.major infection.After $9 6 \\mathrm { ~ h ~ }$ ，the percentage of proliferating and IFN $\\cdot \\gamma$ -producing $\\mathrm { | C D 4 ^ { + } }$ T cells induced by the different subsetswas determined by flow cytometry (A and B).The bar graphs (C and D) represent the mean $\\pm \\ \\mathrm { S E }$ of flow-cytometry results (shown in A and B) from three to four mice in each group.Results presented are representative of two independent experiments with similar findings. $^ { * * } p < 0 . 0 1$ . ns, not significant. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/630258dd299597faec52f6aaf47b582e15430b327c7b0858aa515276499825bc.jpg",
+        "img_caption": [
+            "FIGURE 8. $\\mathbf { \\Delta } \\mathrm { L T } \\boldsymbol { \\beta } \\mathbf { R }$ is the primary receptor involved in LIGHT-dependent maintenance of $\\mathrm { C D 4 } ^ { + }$ T cell response in healed mice.BMDCs were generated from naiveWT,HVEMKO,and $\\operatorname { L T } \\beta \\mathbf { R }$ KO mice and then cocultured with CFSE-labeled $\\mathrm { C D 4 ^ { + } }$ T cells from mice that healed their primary $L .$ major infection.The cultures were stimulated with freeze-thawed Leishmania parasites for $9 6 \\mathrm { ~ h ~ }$ ,and the level of IL-12 in the cell culture supernatant fluid was determined by ELISA(A). In addition,the percentage of proliferating $\\mathrm { ( C F S E ^ { l o } ) }$ IFN $\\cdot \\gamma$ -producing $\\mathrm { C D 4 ^ { + } }$ T cells was determined by flow cytometry (B).(C) Bar graph represents the mean $\\pm \\ \\mathrm { S E }$ of proliferating $\\mathrm { ( C F S E ^ { l o } ) }$ IFN $\\cdot \\gamma$ -producing $\\mathrm { C D 4 ^ { + } }$ T cells from three mice in each group.Results presented are representative of two independent experiments with similar findings. $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DCs in the dLNs,leading to impairment of Th1 response post$L .$ major infection.This is in agreement with a recent publication that showed thatLIGHT-HVEM interaction is critical for $\\scriptstyle { \\mathrm { I L - } 1 2 - }$ TNF-，and $\\mathrm { I F N - \\gamma }$ -producing $\\mathrm { ~ T ~ }$ cells that are responsible for controlling hepatic infection in $L$ .donovani-infected mice (48). Taken together,our results suggest that the interaction ofLIGHT with its ligands on APCs (such as DCs) is an important pathway forLIGHT-mediated IL-12 production,T cell activation,and resistance to $L .$ major in mice.Previously published data showed that injection of $\\operatorname { L T } \\beta \\operatorname { R }$ agonistic Ab in mice with established $L .$ donovani infection led to protective immune response and parasite clearance,suggesting that $\\mathrm { L T } \\beta \\mathrm { R }$ is the key ligand involved inLIGHT-mediated anti-Leishmania immunity (48).Using BMDCs frommice lackingHVEMor $\\operatorname { L T } \\beta \\mathbf { R }$ ,we corroborate this finding and further show thatLIGHT interaction with $\\mathrm { L T } \\beta \\mathrm { R }$ was more critical than its interaction with HVEM in mediating a protective immune response because BMDCs from $\\mathrm { L T } \\beta \\mathrm { R }$ KO mice induced significantly less proliferation and $\\mathrm { I F N - } \\gamma$ production in $\\mathrm { C D 4 ^ { + } }$ T cells compared with BMDCs from HVEMKO mice. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IL-12 is a critical cytokine for the development and maintenance of Thl cells and resistance to $L$ major (6,7,49). Hence we investigated at what stage duringLeishmania infection thatLIGHT is required for immunity. Treatment of WT mice with HVEM-Ig or $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ before (priming/initiation of immunity）or after 2 wk (maintenance of immunity）of infection resulted in significantly bigger lesions and higher parasite burden than in untreated controls (Fig.2A,2B).This was associated with severely impaired pro duction of $\\mathrm { I F N - } \\gamma$ by cells from spleens and dLNs of infected mice (Fig.2C). Collectively, these observations suggest that akin to rIL12,LIGHT is required at both the initiation and the maintenance stages of anti-Leishmania immunity.Interestingly,we found that treatment with HVEM $\\mathbf { \\nabla } \\cdot \\mathbf { l } \\mathbf { g }$ and LTβR-Ig had no effect on IL-12 production,induction of DTH response,and accelerated parasite clearance (Fig.3).This indicates that although LIGHT contributes to optimal development of primary anti-Leishmania immunity,it has no effect during secondary (memory) immunity to $L$ major. It is likely that the requirements for activating/recalling memory Tcells are different from those needed for differentiation of naive cells into effector cells,with the latter being more dependent on LIGHTmediated IL-12 production than the former. Indeed, previous reports show that the requirements for activating memory cells are relatively less stringent than those for naive cells,with memory cells requiring lesser costimulation,Ag,TCR-peptide avidity,and cytokines than naive cells (50,51). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Treatment of infectedIL-12-deficient micewith rIL-12leads to resolution of cutaneous lesion and control of parasite proliferation (37,38).However,recrudescence occurs after cessation of rIL-12 treatment, suggesting that continuous IL-12 is important for initiation and maintenance of resistance in $L$ major-infected mice (38).We found that unlike IL-12-deficient mice, treatment of CD4O-deficient mice with rIL-12 leads to resistance that is maintained indefinitely even after cessation of recombinant cytokine treatment (Fig.4).This suggests the existence of a CD40- independent IL-12-producing pathway during the maintenance phaseof anti-Leishmania immunity.We found that blockade of LIGHT in CD4O-deficient mice that healed their lesion led to impaired DTH response and parasite clearance after secondary L.major challenge that was associated with significantlyreduced $\\mathrm { I F N - } \\gamma$ response.Collectively,these observations show that the maintenance of resistance in $L .$ major-infected, CD40-deficient miceafter cessation ofrIL-12 treatmentismediated byLIGHTdependent IL-12 production. Thus,in the absence of CD40 signaling,LIGHT plays a critical role for IL-12 production,a finding that explains the differences in outcome of $L .$ major infection in IL-12- and CD4O-deficient mice after cessation of rIL-12 treatment. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A previous report showed that signaling via the TRANCERANK pathway could compensate for $\\mathrm { C D 4 0 - C D 4 0 L }$ interaction in the production of IL-12 during primary $L .$ major infection (41). However,whether the TRANCE-RANK pathway contributes to IL-12 production during secondary anti-Leishmania immunity is notknown.We found that blockade of TRANCE-RANK interaction did not affect IL-12 production and resistance to secondary L.major challenge in CD4O-deficient mice,suggesting that this pathway is not responsible for the maintenance of resistance to L.major in CD4O-deficient mice after cessation of rIL-12 treatment. Collectively,the data presented in this article suggest that in the absence of CD4O,IL-12 production viaLIGHT pathway is enough to maintain secondary protective immunity against $L .$ major. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Insummary,we have demonstrated thatLIGHT is important for DC maturation and IL-12 production after infection with $L$ major, and disruption of this pathway leads to impairment in $\\mathrm { C D 4 ^ { + } }$ Th1 development and $\\mathrm { I F N - \\gamma }$ production.Furthermore,we show that althoughLIGHT is important for the maintenance of anti-Leishmania immunity,it is dispensable for secondary (memory）antiLeishmania immunity in WT mice.However,in the absence of CD40-CD4OL signaling,LIGHT-dependent IL-12 production, primarily via $\\mathrm { C D 8 \\alpha ^ { + } }$ DCs,is critical for maintenance anti-Leishmania immunity. Our data corroborate our initial report andfurther suggest that LIGHT could provide a new therapeutic target for regulation of IL-12 production in vivo and for controlling various $\\mathrm { C D 4 } ^ { + }$ Th1-mediated autoimmune and inflammatory diseases such as arthritis,diabetes,colitis,among others. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Journal of Immunology ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We thank the members of Parasite Vaccine Development Laboratory for insightful comments and constructive criticisms. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Disclosures ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors have no financial conflicts of interest. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.Reiner, S.L.,and R.M.Locksley.1995.The regulation of immunity to Leishmania major Annu.Rev.Immunol.13:151-177.   \n2.Scott,P.i996.Th cell development and regulation in experimental cutaneous leishmaniasis. Chem. Immunol. 63:98-114.   \n3.Locksley,R.M.,S.L.Reiner,F.Hatam,D.R.Littman,and N. Kileen.1993. Helper T cells without CD4:control of leishmaniasis in CD4-deficient mice. Science 261: 1448-1451.   \n4.Locksley,R.M.,F.P.Heinzel,B.J.Holaday,S.S.Mutha,S.L.Reiner,and M.D.Sadick.1991.Induction of Th1 and Th2 $\\mathrm { C D 4 + }$ subsets during murine Leishmania major infection. Res. Immunol. 142: 28-32.   \n5.Launois,P.,I. Maillard, S.Pingel,K.G.Swihart,I. Xénarios,H. Acha-Orbea, H.Diggelmann,R.M. Locksley, H. R. MacDonald,and J.A. Louis.1997. IL4 rapidly produced by V beta $_ { 4 \\mathrm { ~ V ~ } }$ alpha 8 $\\scriptstyle \\mathrm { C D 4 + }$ T cells instructs Th2 development and susceptibility to Leishmania major in BALB/c mice.Immunity 6:541-549.   \n6.Sypek,J.P.,C.L.Chung,S.E.Mayor,J.M. Subramanyam,S.J.Goldman, D.S.Sieburth,S.F.Wolf,and R.G. Schaub.1993.Resolution of cutaneous leishmaniasis: interleukin 12 initiates a protective T helper type l immune response.J.Exp.Med.177:1797-1802.   \n7.Afonso,L.C.,T.M.Scharton,L.Q. Vieira,M.Wysocka,G.Trinchieri,and P.Scott.1994.The adjuvant effect of interleukin-12 in a vaccine against Leishmania major. Science 263:235-237.   \n8.Louis,J.A.，F.Conceicao-Silva，H.Himmelrich,F.Tacchini-Cottier,and P.Launois.1998.Anti-leishmania effector functions of CD4+ Th1 cells and early events instructing Th2 cell development and susceptibility to Leishmania major in BALB/c mice.Adv.Exp.Med.Biol.452:53-60.   \n9.Himmelrich,H.,C.Parra-Lopez,F. Tacchini-Cottier,J.A.Louis,and P.Launois. 1998.The IL-4 rapidly produced in BALB/c mice after infection with Leishmania major down-regulates IL-12 receptor beta 2-chain expression on $\\mathrm { C D 4 + }$ Tcells resulting in a state of unresponsiveness to IL-12.J. Immunol.161: 6156- 6163.   \n10.Jones,D.，M.M.Elloso,L.Showe,D.Williams,G.Trinchieri,and P.Scott.1998.Differential regulation of the interleukin-12 receptor during the innate immune response to Leishmania major. Infect. Immun. 66: 3818-3824.   \n11.Campbel,K.A.,P.J. Ovendale,M.K. Kennedy,W.C.Fanslow,S.G.Reed,and C.R.Maliszewski.1996. CD40 ligand is required for protective cell-mediated immunity to Leishmania major. Immunity 4:283-289.   \n12.Soong， L., J.C.Xu,I.S.Grewal,P.Kima,J.Sun，B.J.Longley，,Jr, N.H.Ruddle,D.McMahon-Pratt,and R.A.Flavell.1996.Disruption of CD40- CD4O ligand interactions results in an enhanced susceptibility to Leishmania amazonensis infection. Immunity 4: 263-273.   \n13.Locksley,R.M.,N.Killeen,and M.J. Lenardo.2001.The TNF and TNF receptor superfamilies:integrating mammalian biology. Cell 1O4:487-501.   \n14.Ware,C.F.20o5.Network communications: lymphotoxins,LIGHT,and TNF. Annu.Rev.Immunol. 23:787-819.   \n15.Ware,C.F.2003.The TNF superfamily.Cytokine Growth Factor Rev.14:181- 184.   \n16.Tumanov,A.V.,S.I. Grivennikov,A.N. Shakhov,S.A.Rybtsov,E.P.Koroleva, J. Takeda,S.A.Nedospasov,and D.V.Kuprash.20o3.Dissecting the role of lymphotoxin in lymphoid organs byconditional targeting.Immunol.Rev.195: 106-116.   \n17．Tumanov,A.V.,D.V.Kuprash,and S.A.Nedospasov.2Oo3.The role of lymphotoxin in development and maintenance of secondary lymphoid tissues. Cytokine Growth Factor Rev.14: 275-288.   \n18.Pfeffer,K.2Oo3.Biological functions of tumor necrosis factor cytokines and their receptors.Cytokine Growth Factor Rev.14:185-191.   \n19.Mauri,D.N.,R.Ebner,R.I. Montgomery,K.D.Kochel,T.C.Cheung,G.L.Yu, S.Ruben,M.Murphy,R.J.Eisenberg,G.H. Cohen,et al.1998.LIGHT,a new member of the TNF superfamily,and lymphotoxin alpha are ligands for herpesvirus entry mediator. Immunity 8:21-30.   \n20.Zhai,Y.,R.Guo,T.L.Hsu,G.L.Yu,J.Ni,B.S.Kwon,G.W.Jiang,J. Lu, J.Tan,M.Ugustus,et al.1998.LIGHT,a novel ligand for lymphotoxin beta receptor and TR2/HVEM induces apoptosis and suppresses in vivo tumor formation via gene transfer.J. Clin.Invest.102:1142-1151.   \n21.Tamada,K.,K.Shimozaki,A.I.Chapoval,Y.Zhai,J.Su,S.F.Chen, S.L.Hsieh,S.Nagata,J.Ni,and L.Chen.2OO0.LIGHT,a TNF-like molecule, costimulates Tcell proliferation and is required for dendritic cell-mediated allogeneic T cell response.J. Immunol.164: 4105-4110.   \n22.Harrop,J.A.,P.C.McDonnell,M.Brigham-Burke,S.D.Lyn,J.Minton, K.B.Tan,K.Dede,J.Spampanato,C.Silverman,P.Hensley，etal.1998. Herpesvirus entry mediator ligand (HVEM-L),a novel ligand for HVEM/TR2, stimulates proliferation of Tcellsand inhibits HT29 cell growth.J.Biol.Chem. 072.2754027556 presses LIGHT-mediated apoptosis.J.Biol.Chem.274:13733-13736.   \n24.Kwon,B.S.,K.B. Tan,J.Ni,K.O.Oh,Z.H.Lee,K.K. Kim,Y.J.Kim, S.Wang,R. Gentz, G.L.Yu,etal.1997.A newly identified member of the tumor necrosis factor receptor superfamily with a wide tissue distribution and involvement in lymphocyte activation. J.Biol. Chem. 272:14272- 14276.   \n25.Morel,Y.,J.M.SchianodeColella,J.Harrop,K.C.DeenS.D.Hmes T.A.WattamS..Kadekar,A.unehR.SweeJ.A.Gstautetal 2000.ReciprocalexpresionoftheTFfamilyrecetorerpesviusentry mediator and its ligand LIGHTon activated Tcels: LIGHT down-regulates its own receptor. J.Immunol.165: 4397-4404.   \n26.Gommerman,J.L.,and J.L.Browning.20o3.Lymphotoxin/light,lymphoid microenvironments and autoimmune disease.Nat. Rev. Immunol. 3: 642- 655.   \n27.Wang,Y.G.,K.D.Kim,J.Wang,P.Yu,andY.X.Fu.2005.Stimulating lymphotoxin beta receptor on the dendritic cels is critical for their homeostasis and expansion.J.Immunol.175: 6997-7002.   \n28.Yu,P,YLee,WLiuR.K.CinJWag,YWang,Ahietinger,ip H.Schreiber,andY.X.Fu.204.Priming of naiveTcelsinside tumorsleads to eradicationof established tumors.Nat. Immunol.5:141-149.   \n29.Tamada,K.,K.Simozaki,A.I.Chapoval,G.Zhu,G.Sica,D.Flies,.Boone, H.Hsu,YX.Fu,S.Nagata,etal.20o.ModulationofT-cel-mediatedimmunity in tumor and graft-versus-host disease models through the LIGHT costimulatorypathway.Nat.Med.6: 283-289.   \n30.Shaikh，R.B.S.Santee，S.W.Granger,K.Butrovich,T.Cheung, M.Kronenberg,H.Cheroutre,and C.F.Ware.20o1.Constitutive expression of LIGHTon Tcelsleads to lymphocyte activation,inflammation,and tissue destruction. J. Immunol.167: 6330-6337.   \n31.Wang,J,J.C.Lo,A.Foster,P.Yu,H.M.Chen,Y.Wang,K.Tamada,L.Chen, andYXuflest Tcell-derived LIGHT.J.Clin.Invest.108:1771-1780.   \n32.Xu,G.D.LiuLOkworY.Wang,H.KomerS.K.Kung,Y.XFund J.E.Uzona.2007.LIGHTIscritical forIL-12 productionbydendriticcells, optimal $\\mathrm { C D 4 + }$ Th1 cell response,and resistance to Leishmania major. J. Immunol.179: 6901-6909.   \n33.Uzonna,J.E.,K.L.Joyce,andP. Scott 2004.Low dose Leishmania major promotesa transient Thelpercell type2 responsethat is down-regulated by interferon gamma-producing $\\mathrm { C D 8 + }$ T cells.J.Exp.Med.199:1559-1566.   \n34.Liu,D.,T.Zhang,A.J.Marshall,K.Okkenhaug，B.Vanhaesebroeck，and J.E.Uzonna.2009.Thep110deltaisoformof phosphatidylinositol3-kinase controls susceptibility to Leishmania major by regulating expansionand tissue homing of regulatory Tcels.J.Immunol.183:1921-1933.   \n35.Okwor,I.B.,P.Jia,Z.Mou,C.Onyilagha,and J.E. Uzonna.2014. $\\mathrm { C D 8 + }$ T cells are preferentially activated during primary low dose leishmania major infection but arecompletely dispensable duringsecondary anti-Leishmania immunity PLoS Negl.Trop.Dis.8: e3300.   \n36.Stobie,L.,S.Gurunathan,C.Prussn,D.L. Sacks,N. Glaichenhaus, C.Y.Wu, and R.A. Seder.20oo.The role of antigen and IL-12 in sustaining Th1 memory cells in vivo: IL-12 isrequired to maintainmemory/effector Th1celssufficient to mediate protection to an infectious parasite challenge.Proc.Natl.Acad. Sci. USA 97: 8427-8432.   \n37.Park,A.Y.,B.Hondowicz,M.Kopf,andP.Scott.20o2.The role of IL-12 in maintaining resistancetoLeishmania major. J.Immunol.168:5771-5777.   \n38.Park,A.Y.,B.D.Hondowicz,andP.Scott.20oo.IL-12 is required to maintain a Thl response during Leishmania major infection.J. Immunol.165: 896-902.   \n39.Shu,U.,KiniwaC.YWu,C.MaliszewskiNVezioJHakiiatel andG.Delespesse.1995.Activated Tcels induce interleukin-12 production by monocytesviaCD40-CD40ligandinteraction.Eur.J.Immunol.25:11251128.   \n40.Padigel,U.M.andJ.P.Farrell.203.CD40-CD40ligandcostimulationisot required for initiation and maintenance of a Thl-type response to Leishmania major infection. Infect. Immun.71:1389-1395.   \n41.Padigel,U. M.,N. Kim,Y.Choi, and J.P.Farrell.2003.TRANCE-RANK costimulationisrequiredforIL-12productionand theinitiationofaThl-type response to Leishmania major infection inCD40L-deficient mice.J.Immunol. 171: 5437-5441.   \n42.Wang,J.,R.A.Anders,Y.Wang,J.R.Turer,C.Abraham,K.Peerand Y. X.Fu.2Oo5.The critical role of LIGHT in promoting intestinal inflammation and Crohn's disease.J. Immunol.174: 8173-8182.   \n43.Ye,Q.,C.C.Fraser,W.Gao,L.Wang，S.J.Busfield,C.Wang，Y.Qiu, A.J.Coyle,J.C.Gutierrez-Ramos,and W.W.Hancock.2002.Modulation of LIGHT-HVEM costimulation prolongs cardiac alograft survival.J.Exp.Med. 195: 795-800.   \n44.Liu,I.C.S.Shmidt,FZhaoA.J.OkraglyA.Glasebrook，N.Fox E.Galbreath,Q.Zhang,H.Y.Song,S.Na,and D.D.Yang.2003.LIGHTdeficiencyimpairs $\\mathrm { C D 8 + }$ T cell expansion,but not effector function.Int. Immunol.15: 861-870.   \n45.Scheu,S.,J.Alferink,T.Potzel,W.Barchet,U.Kalinke,andK.Pfeer.02. Targeted disruption of LIGHTcauses defects in costimulatory Tcellactivation and reveals cooperation with lymphotoxin beta in mesenteric lymph node genesis. J.Exp.Med.195:1613-1624.   \n46.Morel, Y.,A. Truneh,R.T.Costello,and D.Olive.2003.LIGHT,anew TNF superfamily member,is essential for memory T helper cell-mediated activation of dendritic cells. Eur. J.Immunol.33:3213-3219.   \n47.Morel,Y.,A.Truneh,R.W.Sweet,D.Olive,andR.T.Costello.20o1.The TNF superfamily members LIGHT and CD154(CD40 ligand) costimulate induction ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "of dendritic cell maturation and elicit specific CTL activity.J.Immunol.167: 2479-2486. 48.Stanley，A.C.，F.de Labastida Rivera,A.Haque,M.Sheel,Y.Zhou, F.H.Amante,P.T.Bunn,L.M.Randall,K.Pfeffer,S.Scheu,et al.2011. Critical roles for LIGHT and its receptors in generating T cell-mediated immunity during Leishmania donovani infection.PLoS Pathog.7:elo02279. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "49.Heinzel,F.P.,R.M.Rerko,F.Ahmed,and E.Pearlman.1995.Endogenous IL  \n12 is required for control of Th2 cytokine responses capable of exacerbating leishmaniasis in normally resistant mice.J.Immunol.155:730-739.   \n50.Dutton,R.W.,L.M.Bradley,and S.L.Swain.1998.Tcell memory. Annu.Rev. Immunol. 16: 201-223.   \n51.Sprent,J. 20o2.T memory cells: quality not quantity. Cur: Biol.12:R174-R176. ",
+        "page_idx": 9
+    }
+]

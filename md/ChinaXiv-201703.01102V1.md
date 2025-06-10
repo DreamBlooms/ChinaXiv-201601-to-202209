@@ -1,0 +1,153 @@
+# 环氧树脂复合泡沫塑料的制备及其拉压性能
+
+李苗苗　陈 平　王 辉　李建超(北京科技大学机械工程学院 北京 100083)
+
+摘要使用万能试验机对粉煤灰微珠/环氧树脂复合泡沫塑料进行拉伸和压缩实验，并用扫描电镜(SEM)观察其断面形貌，研究了微珠含量、微珠粒径以及级配比例对复合泡沫塑料拉伸和压缩性能的影响。结果表明，随着微珠含量的增加复合泡沫塑料的拉伸和压缩强度都表现出先升高后下降的趋势，且在填充量为 $1 5 \mathrm { p h r }$ 时达到最大，其拉伸强度和压缩强度比纯环氧树脂分别提高了 $9 . 1 5 \%$ 和 $6 . 8 6 \%$ 。在填充量相同的条件下，微珠的粒径越小复合泡沫塑料的拉伸和压缩强度越高。填充小粒径微珠 $( 2 0 \ \mu \mathrm m )$ 比填充大粒径微珠 $2 5 0 \ \mu \mathrm { m } )$ 复合泡沫塑料的拉伸强度和压缩强度分别高 $1 5 8 . 4 1 \%$ 和 $1 9 . 9 6 \%$ ，拉伸模量和压缩模量分别高 $3 2 . 7 7 \%$ 和 $7 3 . 5 9 \%$ 。不同粒径微珠级配填充环氧树脂复合泡沫塑料的拉伸和压缩性能主要受小粒径微珠含量的影响，小粒径微珠含量越高其拉伸和压缩强度越高。
+
+关键词复合材料，环氧复合泡沫，拉伸性能，压缩性能，粉煤灰微珠中图分类号TB332
+
+文章编号 1005-3093(2017)02-0088-08
+
+# Preparation and Tensile-compressive Properties of Syntactic Foams of Epoxy Resin Filled with Fly Ash Cenospheres
+
+LIMiaomiao,CHENPing,WANGHui, LI Jianchao (SchoolofMechanical Engineering,UniversityofScienceand TechnologyBeijing,Beijing10oo83,China) Correspondent: CHEN Ping,Tel: 13521586168, E-mail: chenp@ustb.edu.cn Supported by National Natural Science Foundation of China (No.51305023) Manuscript received 2016-04-29;in revised form 2016-07-10
+
+ABSTRACT The tensile-compressive properties of syntactic foams of fly ash cenospheres/epoxy resin were measured by universal testing machine,and the fracture surface were characterized by scanning electron microscopy (SEM).The efect of the content,particle size and gradation ratio of fly ash cenospheres on the tensile-compressive properties of the syntactic foam was investigated.The results show that the tensile strength and compressive strength of the syntactic foam increases first and then decreases with the increase of cenospheres content.The compressive strength of the syntactic foams reaches a maximum when the content of cenospheres is 15phr,while the tensile strength and compressive strength increase by $9 . 1 5 \%$ and $6 . 8 6 \%$ compared with pure epoxy resin respectively. For the same filling amount, the smaler the particle size of the cenospheres,the higher the tensile strength and compressive strength of the syntactic foam.The tensile strength and compressive strength of the syntactic foam filled with small size cenospheres $( 2 0 \ \mu m )$ increase $1 5 8 . 4 1 \%$ and $1 9 . 9 6 \%$ respectively over that of the syntactic foam filled with large size cenospheres $( 2 5 0 ~ \mu m )$ .The tensile strength and compressive strength of the syntactic foam filled with cenospheres of diferent grading ratios is mainlyaffected by the content of smal size cenospheres.The more the content of smal size cenospheres,the higher the tensile strength and compressive strength of the syntactic foam.
+
+KEYWORDS composites，epoxy syntactic foam,tensile properties，compressive properties,fly ash cenospheres
+
+改性工艺，如图1所示。
+
+复合泡沫塑料是指将空心微珠、固化剂以及其他试剂加入到树脂基体中，固化后得到的一种复合材料。复合泡沫塑料具有低密度、高强度、低吸水率等特点，广泛应用在航空航天和深海载具等领域[-5]。近年来国内外对外太空和深海环境的研究不断深入，对复合泡沫塑料的性能也提出了新的要求。大量研究发现，改变体系的成分可制备出不同性能的复合泡沫塑料，使其适应不同环境的要求[6-15]。田爱平等发现，泡沫铝-空心微珠能显著提高环氧泡沫复合材料的力学性能。Wang[12]等研究了膨胀微球/环氧树脂泡沫塑料的压缩性能，发现环氧泡沫的压缩强度和模量与其密度呈幂次定律关系。Panteghini等[14]研究了空心微珠/环氧复合泡沫塑料的压缩性能，并建立了相关的预测模型。Nian[5等对复合泡沫塑料的失效行为进行了分析并使用有限元模型进行了模拟，结果表明，模型与试验的拟合性较好且复合泡沫塑料的拉伸强度随着中空颗粒含量的增加而降低，但是随着壳厚度的增加而增加。本文研究不同微珠含量、粒径以及级配比例对空心微珠/环氧树脂复合泡沫塑料的拉伸和压缩性能的影响，通过分析微观形貌探究复合泡沫材料的内在失效机理。
+
+# 1实验方法
+
+# 1.1实验用原料
+
+基体材料为双酚A型环氧树脂E51(环氧值约为$0 . 0 5 1 \mathrm { ~ m o l } \cdot \mathrm { k g } ^ { - 1 } )$ ，固化剂为聚酰胺650(胺值约为140)，活性稀释剂为环氧丙烷丁基醚(660A)，固化促进剂为2,4,6-三(二甲氨基甲基)苯酚(DMP-30)，消泡剂为聚二甲基硅氧烷。从粉煤灰微珠中分选出粒径为4个级别的颗粒：筛网尺寸分别为60目、100目、280目、740目，对应的粒径分别为 $2 5 0 ~ \mu \mathrm { m }$ ， $1 5 0 \ \mu \mathrm { m }$ $5 4 \ \mu \mathrm { m }$ 和 $2 0 \ \mu \mathrm { m }$ 。
+
+# 1.2微珠表面改性处理
+
+为了改善微珠与树脂基体间的相容性对微珠表面进行改性处理，使用的改性剂为KH550。具体的
+
+图2给出了改性微珠在环氧基体中的SEM形貌图，可见经KH550改性后的微珠与基体间的界面相容性较好。
+
+# 1.3试样制备
+
+将适量的环氧树脂置于烧杯中，分别向环氧树脂中加入稀释剂(10 phr)(phr表示每 $\boldsymbol { 1 0 0 } \mathrm { \ g }$ 环氧树脂中添加剂的含量)、消泡剂 $( 0 . 5 \mathrm { p h r } )$ ，并在温度为 $4 0 ^ { \circ } \mathrm { C }$ 的水浴锅中搅拌均匀。向烧杯中加入改性微珠，并在 $4 0 ^ { \circ } \mathrm { C }$ 超声搅拌直至均匀。之后向烧杯中加入固化剂 $\mathrm { 1 0 0 ~ p h r } )$ 和固化促进剂 $( 3 ~ \mathrm { p h r } )$ ,在FCS-1型真空反应釜中搅拌均匀后得到环氧树脂混合物。将环氧树脂混合物倒入模具中并固化(固化工艺为 $1 2 0 ^ { \circ } \mathrm { C } 1 \mathrm { h } )$ ，脱模后得到所需试样。试样制备参数列于表1。
+
+# 1.4实验设备和性能测试
+
+设备采用WDW-10E微机控制电子式万能试验机和蔡司ZEISSEVO18材料分析扫描电子显微镜。按国标GB/T1041—2008测量试样的压缩性能，按国标GB/T1040.1—2006测量拉伸性能，取5个试样试验数据的平均值。用扫描电镜观察断面形貌。
+
+# 2结果和讨论
+
+# 2.1微珠含量对复合泡沫拉压性能的影响
+
+分别用 $0 \mathrm { \ p h r . } 5 \mathrm { \ p h r . } 1 0 \mathrm { \ p h r . } 1 5 \mathrm { \ p h r . } 2 0 \mathrm { \ p h r . } 2 5 \mathrm { \ p h r }$ 的粉煤灰微珠 $( 2 0 \ \mu \mathrm m )$ 填充环氧树脂，研究微珠含量对环氧树脂拉伸和压缩性能的影响。实验结果列于表2。从表2可以看出：随着微珠含量的增加，复合材料的拉伸强度和拉伸模量呈现先增加后下降的趋势。当微珠添加量达到 $1 5 \mathrm { p h r }$ 时复合泡沫塑料的拉伸强度和拉伸模量均达到最大，比纯环氧树脂分别提高了约 $9 . 1 5 \%$ 和 $2 0 . 0 3 \%$ 。随着微珠含量的进一步增加，复合材料的拉伸强度和拉伸模量急剧下降。对于压缩性能，随着微珠含量的增加复合泡沫的压缩强度呈现先增加后下降的趋势，在 $1 5 \mathrm { p h r }$ 时达到大，比纯环氧树脂提高了 $6 . 8 6 \%$ 。复合泡沫的压缩模量随随着粉煤灰微珠的加入均有较大提升，最大提高了$4 3 . 2 2 \%$ 。这一结果表明，填充适当比例的粉煤灰微珠能显著提高坏氧树脂的拉伸和压缩性能；而当微珠填充量过大时，微珠发生团聚使复合材料的性能下降。
+
+![](images/646db57c0c2d84cb9b350327c1c7983adcd84ff40a1bbc2d8c79c0387957ab1b.jpg)  
+图2改性微珠在基体中分布的SEM照片Fig.2 SEM micrographs of modified cenospheres distribu-tion in the epoxy
+
+![](images/5e950cf5c65bbc56a1ecb0c8460bc0ad09cd7fb00c9073e712e408ebacb4dd92.jpg)  
+Fig.1Schematic diagramofcenospheresmodification
+
+![](images/08a6e11f244ff53655314e2399087a890300969d00127532cbf512244ed86ad6.jpg)  
+图1微珠改性流程图
+
+图3给出了环氧树脂复合泡沫材料在不同微珠含量下的拉伸和压缩应力-应变曲线。如图3a拉伸应力-应变曲线所示，所有试样都有明显的线弹性阶段但没有屈服阶段，试样在达到最大应力后立即发生断裂，呈现出明显的脆性断裂特征。这表明，粉煤灰微珠的加入并没有改变环氧树脂的脆性本质，但是能改善环氧树脂的拉伸强度和拉伸模量等性能，其变化的趋势与表2给出的结果一致。图3b给出了复合泡沫的压缩应力-应变曲线，可见所有试样都有明显的线弹性阶段和屈服阶段。在压缩的前期，复合泡沫试样的应力随着应变线性增加；当应变达到$9 \%$ 左右时应力进入平台区(即随着应变的增加，应力几乎保持不变)直至试样发生破坏。
+
+图4给出了不同微珠含量填充环氧树脂复合材料的拉伸断面SEM图。从图4a中可以看出，纯环氧树脂的拉伸断面十分光滑、平整，材料表现为明显的脆性断裂特征，抗拉强度较低。加入改性微珠后，环氧树脂的拉伸强度有明显改善。添加 $5 \mathrm { p h r }$ 微珠的复合材料拉伸断面(图4b)呈现类似于水流冲刷后的形貌，基体发生了塑性变形，生成了较多的新表面，吸收了较多的能量。随着微珠含量的进一步增加至$1 0 \ \mathrm { p h r }$ (图4c)和15phr(图4d)，复合材料断面由冲刷状变为更加粗糙的“鱼鳞"状，形成了较多的新表面，吸收了更多的能量，基体发生了较大的塑性变形，材料的韧性增大，拉伸强度有着明显的升高。其可能的原因是，加入的改性微珠在基体树脂中起到了交联点的作用：一方面，微珠表面易与环氧树脂链缠结形成物理交联；另一方面，偶联剂一端的胺基与环氧树脂以化学键结合，另一端的硅氧烷基与微珠表面通过次键力结合，这使得改性微珠与基体树脂界面结合力提高，相容性增强，从而起到化学交联的作用。当复合材料受外力拉伸时微珠的这种物理和化学交联作用能更好地传递应力，使树脂基体发生塑性变形，吸收了大量的能量[16-18]。同时，微珠自身也起到承受载荷和阻碍裂纹扩展的作用，使复合材料的拉伸强度提高。如图4e和图4f所示，复合材料的拉伸断面呈现大片光滑区域，与图4d相比断面的鳞片状形貌逐渐消失，形成的新表面明显减少，基体塑性变形程度减轻，复合材料的拉伸强度下降。其原因是，当微珠含量达到 $2 0 \mathrm { p h r }$ 和 $2 5 \mathrm { p h r }$ 时，过多的微珠在树脂基体中发生团聚(图5)，从而产生应力集中。当复合材料受外力拉伸时从团聚处发生破坏，使其拉伸强度降低[19-20]
+
+表1试样参数Table1 Sample parameters  
+表2不同微珠含量下环氧树脂复合泡沫塑料的拉伸和压缩性能  
+
+<html><body><table><tr><td>Sample number</td><td>Cenospheres type</td><td>Cenospheres content/phr</td><td>Density/g.cm</td></tr><tr><td>1</td><td>20μm</td><td>0</td><td>1.206</td></tr><tr><td>2</td><td>20 μm</td><td>5</td><td>1.196</td></tr><tr><td>3</td><td>20 μm</td><td>10</td><td>1.155</td></tr><tr><td>4</td><td>20μm</td><td>15</td><td>1.139</td></tr><tr><td>5</td><td>20 μum</td><td>20</td><td>1.084</td></tr><tr><td>6</td><td>20 μm</td><td>25</td><td>1.076</td></tr><tr><td>7</td><td>250 μm</td><td>15</td><td>1.014</td></tr><tr><td>8</td><td>150 μm</td><td>15</td><td>1.039</td></tr><tr><td>9</td><td>54 μm</td><td>15</td><td>1.096</td></tr><tr><td>10</td><td>20 μm :54 μm =2:8</td><td>15</td><td>1.034</td></tr><tr><td>11</td><td>20 μm :54 μm =4:6</td><td>15</td><td>1.060</td></tr><tr><td>12</td><td>20 μm :54 μm =5:5</td><td>15</td><td>1.080</td></tr><tr><td>13</td><td>20 μm :54 μm =6:4</td><td>15</td><td>1.083</td></tr><tr><td>14</td><td>20 μm :54 μm =8:2</td><td>15</td><td>1.144</td></tr></table></body></html>
+
+Table 2 Tensile and compressive properties of epoxy resin filled with different cenospheres contel   
+
+<html><body><table><tr><td>Cenospheres content /phr</td><td>Tensile strength /MPa</td><td>Tensile modulus/MPa</td><td>Compressive strength /MPa</td><td>Compressive modulus /MPa</td></tr><tr><td>0</td><td>34.33</td><td>486.12</td><td>45.17</td><td>435.45</td></tr><tr><td>5</td><td>34.87</td><td>503.27</td><td>45.90</td><td>623.64</td></tr><tr><td>10</td><td>35.93</td><td>503.19</td><td>46.32</td><td>443.38</td></tr><tr><td>15</td><td>37.47</td><td>583.53</td><td>48.27</td><td>556.04</td></tr><tr><td>20</td><td>32.24</td><td>506.94</td><td>44.32</td><td>579.62</td></tr><tr><td>25</td><td>22.45</td><td>488.42</td><td>37.44</td><td>469.87</td></tr></table></body></html>
+
+# 2.2微珠粒径对复合泡沫拉压性能的影响
+
+保持填料总含量为 $1 5 \mathrm { p h r } ,$ 分别用 $2 5 0 \mu \mathrm { m } , 1 5 0 \mu \mathrm { m }$
+
+![](images/7e7dd85403cd525b7a5d40eabfa120e29f30ed065c40ba6092851b1ee40e64cd.jpg)  
+图3微珠含量对环氧树脂复合泡沫塑料应力-应变关系的影响 Fig.3 Influence of cenospheres content on stress-strain relationship for the cenospheres/epoxy resin syntactic foam(a) tensile stress-strain curve (b) compressive stress-strain curve
+
+![](images/1f2fc28c7ab15cf9eb070e901b3c0b90bee52366673378c9f87fd8b8821fbc4b.jpg)  
+图4不同微珠含量下环氧树脂泡沫的拉伸断面SEM照片
+
+Fig.4 SEM micrographs of tensile fracture surface of epoxy resin filled with different cenospheres content (a)0phr,(b)5phr,(c) 10phr,(d) 15phr,(e) 20phr,(f) 25phr
+
+$5 4 \ \mu \mathrm { m }$ 和 $2 0 \ \mu \mathrm { m }$ 的改性粉煤灰微珠填充环氧树脂，研究了微珠粒径对环氧树脂复合泡沫塑料拉伸和压缩性能的影响，结果列于表3。可以看出：填充的微珠粒径越小，复合材料的拉伸强度和压缩强度越高。填充 $2 0 \ \mu \mathrm { m }$ 微珠试样的拉伸强度和压缩强度比填充 $2 5 0 \ \mu \mathrm { m }$ 微珠试样分别高出了 $1 5 8 . 4 1 \%$ 和$1 9 . 9 6 \%$ 。复合泡沫的拉伸模量随着微珠粒径的减小而增大，填充 $2 0 \ \mu \mathrm { m }$ 微珠试样的拉伸模量比填充$2 5 0 \ \mu \mathrm { m }$ 微珠试样的拉伸模量高出了 $3 2 . 7 7 \%$ 。试样的压缩模量并不随着微珠粒径减小而线性增加，但是仍可认为粒径越小其压缩模量越大，填充 $2 0 \ \mu \mathrm { m }$ 微珠试样的压缩模量比填充 $2 5 0 ~ \mu \mathrm { m }$ 微珠试样的压缩模量高出了 $7 3 . 5 9 \%$ 。其原因可能是小粒径微珠的比表面积大，表面原子占有率高，与基体的结合力更强。而大粒径微珠质量相对较大，在制备过程中易沉降和团聚，从而使性能下降。
+
+![](images/29fcf31c59dfad83a4ed115b6d3addc7d06c21a017d98c79b65651c001d4c5d0.jpg)  
+图5微珠团聚的SEM照片Fig.5 SEM micrographs of agglomeration of cenospheres
+
+图6给出了不同微珠粒径填充环氧树脂复合泡沫的拉伸和压缩应力-应变曲线。如图6a的拉伸应力-应变曲线所示，复合泡沫塑料试样有明显的弹性阶段但并未出现屈服阶段，是典型的脆性断裂特征。但是，随着微珠粒径的减小复合泡沫塑料的极限拉伸应力和模量均有较大提高，吸收能量的能力也有很大的提高(曲线下方包含的面积增大)，与表3给出的测试结果一致。图6b给出了压缩应力-应变曲线，可见复合泡沫塑料出现了相对明显的弹性阶段和屈服阶段，材料的屈服极限随微珠粒径的减小而上升，压缩模量虽未呈线性增加趋势，但是仍然是小粒径比大粒径颗粒要好，因此压缩性能随之提高。
+
+图7和图4d给出了添加不同粒径微珠时复合材料的拉伸断面SEM图。对比发现，填充微珠粒径为$2 5 0 \ \mu \mathrm { m }$ 时复合材料的拉伸断面光滑平整，呈现出很小的线条状形貌，基体基本没有发生塑性变形，形成的新表面极少，表现为脆性断裂特征(图7a)。添加粒径较小的微珠时(图7b)材料断面呈现“河流线"形貌，材料发生了塑性变形，生成了较多的新表面，基体吸收了大量的能量，复合材料的拉伸性能有所提升。图7c所示的断面形貌与图7b较为类似，但其塑性变形程度更加明显，形成的"河流线"形貌也更加严重，拉伸性能有了进一步的提高。结合图4d可以看出，随着微珠粒径的减小环氧树脂的拉伸强度有明显的提升。其原因是，在质量分数相同的条件下，微珠粒径越小则微珠数量越多、比表面积更大，有更多的表面与环氧树脂基体结合，提高了结合强度，微珠承受载荷的能力有所提高[21。同时，小粒径微珠可形成更多的物理和化学交联点，传递更多的应力，阻碍裂纹扩展的能力也增强，从而使复合材料吸收断裂能的能力增强，使拉伸强度显著提高。同时，在试样的制备过程中大粒径微珠易发生沉降和破碎，也使其拉伸性能下降。
+
+表3不同微珠粒径下环氧树脂复合泡沫塑料的拉伸和压缩性能  
+Table 3 Tensile and compressive properties of epoxy resin filled with different cenospheres siz
+
+![](images/2b2e676903349ee533e91e1a353471dc4ed4315317750e0243aa01fa3738ffb3.jpg)
+
+图6微珠粒径对环氧树脂复合泡沫应力-应变关系的影响 Fig.6 Influence of cenospheres size on stress-strain relationship for the cenospheres/epoxy resin syntactic foam (a) tensile stress-strain curve (b) compressive stress-strain curve
+
+# 2.3微珠级配比例对复合泡沫拉压性能的影响
+
+固定填充含量为 $1 5 ~ \mathrm { p h r }$ ，用 $2 0 \ \mu \mathrm { m }$ 和 $5 4 ~ \mu \mathrm { m }$ 两种微珠按 $2 { : } 8 , 4 { : } 6 , 5 { : } 5 , 6 { : } 4 , 8 { : } 2$ 的比例填充环氧树脂，复合泡沫塑料的拉伸和压缩性能如表4所示。从表4可以看出：复合材料的拉伸强度和压缩强度随着级配微珠中 $2 0 \ \mu \mathrm { m }$ 微珠比例的增高而提高。与微珠级配比为2:8相比，微珠级配比为8:2时的拉伸强度和压缩强度分别高出 $1 2 . 2 7 \%$ 和 $5 . 6 6 \%$ 。随着级配比的增大，复合泡沫的拉伸模量变化不大明显，而压缩模量大致呈逐渐下降趋势。这一结果表明：级配比不同，微珠未出现协同增强效应，级配微珠/环氧树脂复合材料的拉压性能主要受级配微珠中小粒径微珠含量的影响。
+
+图8给出了不同级配比例下复合泡沫的拉伸和压缩应力应变曲线。试样的拉伸强度和压缩强度均为试样失效前的最大应力。由图8a拉伸应力-应变曲线可以看出，所有材料均有明显的线弹性阶段，但没有屈服阶段，呈现出典型的拉伸脆性断裂特征。其拉伸强度随着 $2 0 \ \mu \mathrm { m }$ 微珠含量的增加而增加，拉伸模量变化不太明显。除级配比例为5:5外，复合泡沫吸收能量的能力也随着 $2 0 \ \mu \mathrm { m }$ 微珠含量的增加而增加。图8b给出了压缩应力-应变曲线，可见复合材料有明显的线弹性阶段和屈服阶段，材料的屈服阶段在应变为 $10 \%$ 左右出现。材料压缩强度随着 $2 0 \ \mu \mathrm { m }$ 微珠含量的增加而升高，其吸收压缩断裂能的能力也随之增加，而复合泡沫的压缩模量却随之降低。
+
+图9给出了 $2 0 \ \mu \mathrm { m }$ 和 $5 4 ~ \mu \mathrm { m }$ 两种微珠按不同比例填充环氧树脂复合材料拉伸断面SEM图。当级配比例为2：8时，拉伸断面较为光滑，断面呈流水冲刷状，塑性变形程度不高，形成的新表面不多，吸收的断裂能也相对较小(图9a)。当级配比例为4:6时复合材料断面的冲刷状形貌明显，材料塑性变形程度加深，形成的新表面增多，拉伸性能有所提高(图
+
+![](images/427ac10b43e8a79ece51039e8ac09d1d2994334690b73df232c3f950b525808b.jpg)  
+图7不同微珠粒径下环氧树脂复合泡沫的拉伸断面SEM图
+
+Fig.7 SEM micrographs of tensile fracture surface of epoxy resin filled with different cenospheres size (a) $2 5 0 \ \mu \mathrm { m } .$ (b)150 μm,(c) $5 4 \mu \mathrm { m }$
+
+表4不同微珠级配比例下环氧树脂复合泡沫塑料的拉伸和压缩性能  
+Table 4 Tensile and compressive properties of epoxy resin filled with different cenospheres grading ratio   
+
+<html><body><table><tr><td>Grading ratio /20 μm:54 μm</td><td>Tensile strength /MPa</td><td>Tensile modulus /MPa</td><td>Compressive strength /MPa</td><td>Compressive modulus /MPa</td></tr><tr><td>2:8</td><td>31.70</td><td>507.54</td><td>43.83</td><td>510.68</td></tr><tr><td>4:6</td><td>34.03</td><td>486.09</td><td>44.68</td><td>540.74</td></tr><tr><td>5:5</td><td>34.38</td><td>569.01</td><td>44.92</td><td>442.29</td></tr><tr><td>6:4</td><td>34.92</td><td>537.27</td><td>45.47</td><td>356.44</td></tr><tr><td>8:2</td><td>35.59</td><td>527.69</td><td>46.31</td><td>257.02</td></tr></table></body></html>
+
+![](images/4e74bfd5f924e9d6fccf6d287823047852e2ba80ea1add022cca2730ee58912d.jpg)  
+图8微珠级配比对环氧树脂复合泡沫塑料应力-应变关系的影响 Fig.8 Influence of cenospheres grading ratio on stres-strain relationship for the cenospheres/epoxy resin syntactic foam (a) tensile stress-strain curve (b) compressive stress-strain curve
+
+![](images/1220bc456b48a36acd62be6055f1edcf622ae799ceb2a66d3b02026450833ec8.jpg)  
+图9微珠粒径不同的环氧树脂复合泡沫的拉伸断面SEM图
+
+Fig.9 SEM micrographs of tensile fracture surface of composites filled with different grading ratio (a) 2:8,(b) 4:6,(c) 5:5,(d) 6:4,(e) 8:2
+
+9b)。图9c中的流水冲刷形貌更为强烈，并出现了少量“鳞片"状形貌，表明材料发生了显著的塑性变形。图9d中的断面几乎看不见流水冲刷形貌，断面呈现出更为粗糙的“鳞片"状形貌，复合材料的塑性变形程度进一步增大，材料表现出的拉伸性能显著增加。如图9e所示，当微珠的比例为8:2时几乎看不到光滑的表面，断面呈现高度差极大的沟壑状。此时材料的塑性变形程度极大，形成的新表面极多。综合分析表明，复合材料的拉伸性能随着小粒径微珠比例的增加而提高。大小微珠级配，并没有对环氧树脂的拉伸性能产生协同增强效应，这表明，环氧树脂的拉伸性能主要与微珠与基体的结合强度以及微珠与基体的接触面积有关。大粒径微珠的存在减少了微珠与环氧基体的接触面积和物理化学交联数量，导致复合材料传递应力的能力以及结合强度下降，使拉伸性能降低。因此，当小粒径微珠的比例提高时复合材料传递应力的能力上升、微珠与基体的结合强度增加，表现出更高的拉伸性能。
+
+# 3结论
+
+对于粉煤灰微珠/环氧树脂复合泡沫塑料，用KH550改性后的微珠与环氧基体的界面结合力较好。微珠/环氧树脂复合泡沫体系有一个最佳的填料比例( $\mathrm { 1 5 ~ p h r } )$ ，适当的微珠含量可显著改善环氧树脂的拉伸与压缩性能，含量过高时微珠发生团聚，使复合泡沫的拉伸和压缩性能显著降低。由于小粒径微珠的比表面积较大，微珠与环氧树脂结合力更强，因而小粒径微珠对环氧树脂拉伸和压缩性能的提升效果比大粒径微珠要好。级配微珠填充环氧树脂复合泡沫没有对其拉伸和压缩性能产生协同增强效果，复合泡沫的拉伸和压缩性能主要受小粒径微珠含量的影响。
+
+# 参考文献
+
+[1] Wouterson E M,Boey F Y C,Wong S -C,et al. Nano-toughening versus micro-toughening of polymer syntactic foams [J].Compos. Sci. Technol.,2007,67(14): 2924   
+[2] Woldesenbet E.Low velocity impact properties of nanoparticulate syntactic foams [J].Mat. Sci.Eng.A-Struct.,2008,496(1-2): 217   
+[3]Yu M, Zhu P,Ma Y Q.Experimental study and numerical prediction of tensile strength properties and failure modes of hollow spheres filled syntactic foams [J]. Comp.Mater. Sci.,2012,63:232   
+[4] Bardella L,Malanca F,Ponzo P,et al.A micromechanical model for quasi-britle compressive failure of glass-microballoons/thermosetmatrix syntactic foams [J].J.Eur. Ceram. Soc.,2014,34(11): 2605   
+[5] Huang R X,LiPF.Elastic behaviour and failure mechanism in epoxy syntactic foams: The effect of glass microballoon volume fractions [J]. Compos.Part B-Eng.,2015,78:401   
+[6] Wouterson E M,Boey FY C,Hu X,et al. Specific properties and fracture toughness of syntactic foam:Effect of foam microstructures[J].Compos.Sci. Technol.,2005,65(11-12):1840   
+[7] Asif A,Rao L V, Ninan K N.Nanoclay reinforced thermoplastic toughened epoxy hybrid syntactic foam: Surface morphology,mechanical and thermo mechanical properties [J].Mat. Sci. Eng.AStruct.,2010,527(23): 6184   
+[8] Ferreira JA M,Capela C,Cost JD.A study of the mechanical behaviour on fibre reinforced hollow microspheres hybrid composites [J]. Compos Part A-Appl. S.,2010,41(3): 345   
+[9] Swetha C,Kumar R. Quasi-static uni-axial compression behaviour of hollow glass microspheres/epoxy based syntactic foams [J].Mater. Design,2011,32(8-9): 4152   
+[10] Jumahat A, Soutis C,Mahmud J,et al. Compressive properties of nanoclay/epoxy nanocomposites [J].Procedia Engineering,2012, 41: 1607   
+[11] Tian AP, Yu W,Li D J. Compressive and flexural mechanical properties of foam Al-HGM/epoxy foam composite [J].Acta.Mater. Compos. Sin.,2013,30(4): 74 (田爱平,余 为,李东杰.泡沫铝-空心玻璃微珠/环氧泡沫复合材 料压缩及弯曲力学性能[J].复合材料学报,2013,30(4):74)   
+[12] Wang L J, Yang X, Zhang J, et al. The compressive properties of expandable microspheres/epoxy foams [J]. Compos.Part B-Eng., 2014, 56: 724   
+[13] Seaglar J,Rousseau C-E. Compressive evaluation of homogeneous and graded epoxy-glass particulate composites[J]. Mat. Sci. Eng. C-Mater.,2015,49:727   
+[14] Panteghini A,Bardella L.On the compressive strength of glass microballoons-based syntactic foams [J].Mech.Mater.,2015,82: 63   
+[15] Nian G D, Shan Y J,Xu Q,et al.Failure analysis of syntactic foams:A computational model with cohesive law and XFEM[J]. Compos.Part B-Eng.,2016,89: 18   
+[16] Sun T,Fan HY,Wang Z,et al. Modified nano $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ -epoxycomposite with enhanced mechanical properties [J]. Mater. Design, 2015, 87: 10   
+[17] Derradji M,Ramdani N, Zhang T,et al. Mechanical and thermal properties of phthalonitrile resin reinforced with silicon carbide particles [J].Mater.Design,2015,71: 48   
+[18] Wang X,Wang L,Su Q,et al. Use of unmodified $\mathrm { S i O } _ { 2 }$ as nanofiller to improve mechanical properties of polymer-based nanocomposites [J].Compos.Sci. Technol.,2013,89:52   
+[19] Baheti V, Militky J, Mishra R,et al. Thermomechanical properties of glass fabric/epoxy composites filled with fly ash [J]. Compos. Part B-Eng.,2016,85:268   
+[20] Sharmila TKB,Antony JV, Jayakrishnan MP,etal.Mechanical, thermal and dielectric properties of hybrid composites of epoxy and reduced graphene oxide/iron oxide [J].Mater. Design,2016, 90: 60   
+[21] LiJN,Yu KJ,QianK,et al. Effect of graphene oxide- $\mathrm { S i O } _ { 2 }$ hybrid materials on tensile properties of epoxy [J].Acta. Mater. Compos. Sin.,2014,31(5): 1192 (李佳锯,俞科静,钱坤等.氧化石墨烯 $\cdot \mathrm { S i O } _ { 2 }$ 杂化材料对环氧树 脂拉伸性能的影响[J].复合材料学报,2014,31(5):1192)

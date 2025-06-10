@@ -1,0 +1,281 @@
+[
+    {
+        "type": "text",
+        "text": "环状RNA的结构和功能特性及其与胃癌发生的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姚立鹏’²，葛炜¹，胡英君¹，骆海燕¹，吴珊珊¹，林飞蕾¹，郭俊明",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宁波卫生职业技术学院，浙江宁波 315002宁波大学医学院生物化学与分子生物学研究所、浙江省病理生理学技术研究重点实验室，浙江宁波 315211",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：环状RNA是一类新发现以共价键形成环状结构的RNA分子，没有5'帽和3'尾，具有高度的序列保守性和稳定性，不易被核酸外切酶降解，在转录或转录后水平发挥基因表达调控的作用。近年来，环状RNA已被发现与许多肿瘤包括胃癌发生密切相关。本文首先介绍环状RNA形成、分类、分子特征和功能，然后从环状 RNA与胃癌发生、环状 RNA 与胃癌诊断、以及环状 RNA 在胃癌治疗中的作用等3个方面阐述环状 RNA与胃癌的关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：环状RNA，胃癌，基因表达，肿瘤 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The structural and functional characteristics of circular RNAs and their relationships with gastric cancer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YaoLi-pengl,2,GeWei,HuYing-jun’,LuoHai-yan1,WuShan-shan’,LinFei-lei],Guo Jun-ming   \nUniversity,Ningbo315211,Zhejiang,hina   \nbstract:Carss)lsovdoleesceidelistbtedamalildootd $3 ^ { \\prime }$ tail, but have a high degree of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ee ti cirsd Keyword:circRNA; gastric cancer; gene expression; tumor ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "胃癌是我国及世界常见恶性肿瘤之一。据统计，全球每年约有 100万胃癌新发病例，每年因胃癌死亡的人数为80 万人]。胃癌具有起病隐匿、易转移、早期易漏诊和高复发率等特点[3]。由于传统的血浆癌胚抗原（carcinoembryonic antigen，CEA）或糖类抗原19-9(carbohydrate antigen 19-9,CA19-9)都属于非器官特异性肿瘤相关抗原，在胃癌的筛查中的特异性与敏感性都较低，现阶段胃癌的诊断仍依赖于内镜检查。然而，内镜检查有一定的并发症和禁忌症，并不能为所有人接受。因此，寻找新的肿瘤标志物以提高胃癌早期诊疗率意义重大。近年来研究发现，环状 RNA（Circular RNA，cireRNA)可充当微小RNA（MicroRNA，miRNA)分子的“海绵”[+5]，间接参与肿瘤的发生、发展过程，并且circRNA在胃癌组织中与癌旁组织表达量存在差异，因此，circRNA 有望成为新的肿瘤分子标志物，在胃癌诊疗中发挥重要作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文就circRNA与胃癌之间关系的最新研究进展，从circRNA与胃癌发生的相关性、circRNA 在胃癌诊断方面的应用价值、以及circRNA在胃癌治疗方面的作用等3个方面作一综述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1circRNA 概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1circRNA的形成与分类",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "circRNA 最早被认为是 RNA 剪切拼接错误产生的[6]，但随着科学技术的发展，越来越多的研究显示circRNA 剪接机制是复杂的，同一个基因位点可以通过选择性环化产生不同类型的circRNA[78]，这一特点将使circRNA 在调控基因表达方面更加灵活和方便。目前，人类细胞中circRNA 主要来自单个或多个外显子，即外显子序列形成的circRNA(Exoniccircular RNA，ecircRNA)。此外，其他三种类型的circRNA分别是：内含子序列形成的circRNA(CircularintronicRNA，ciRNA）、内含子序列和外显子序列共同形成的circRNA（exon-introncircRNA,EIciRNA)、以及转运RNA(TransferRibonucleicAcid，tRNA）内含子通过tRNA 前体剪接形成的 circRNA（tRNA intronic circRNA，tricRNA）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述4 种circRNA 的生成方式各不相同（图1)。ecircRNA通过外显子跳跃，3’端剪切供体与 5’端剪切受体结合，产生包含外显子的套索，然后内含子被切除形成[9]。EIciRNAs 是通过内含子之间的碱基配对，pre-mRNA 剪切拼接形成。在形成ecircRNA 时，如果保留了内含子序列则会产生EIciRNA；反之，在形成EIciRNA时，如果EIciRNA中的内含子可被切除也可形成ecircRNA[9]。ciRNA通过套索驱动环化生成，ciRNA 的形成过程中存在一些共有的保守序列，如：5'剪切位点附近存在一段7nt 左右富含GU碱基的结构，分支点附近存在一段 1lnt 左右富含C碱基的结构\"。研究发现，在ciRNA 的形成过程中，关键序列是环化正常进行所必需的[]。tricRNA 则是由 tRNA 内含子通过 tRNA 前体剪接形成的[。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/486c889b43ac112e4f2a2e24075dddf5f3df4a2f83209b89a45cf7ed10d4958c.jpg",
+        "img_caption": [
+            "图1环状 RNA 的生成方式Fig. 1 Models of circRNAformation"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2circRNA的分子特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CircRNA 在细胞中广泛存在[912]，目前在人类细胞中有 100 00种以上的circRNA 已经被识别（表1）。circRNA具有以下分子特征：没有5'帽和3’尾，以共价键形成环状结构；大部分属于非编码 RNA，主要由外显子衍生而来；同一个基因位点可以通过选择性环化产生不同类型的circRNA；形",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "成过程与前体 mRNA 的剪接彼此竞争，且受到剪接因子的调控；在哺乳动物细胞中具有高度的序列保守性和稳定性，不易被核酸外切酶降解；表达水平差异大，在组织细胞中的具有特异性表达及时空特异性表达；大多数位于细胞质中，同时也在人体的血液、唾液、外泌体等中广泛存在；可调控基因的表达，在转录或转录后水平发挥调控作用[1-14]。cireRNA 的分子特征决定它有可能未来作为临床诊断和预测疾病预后的生物标志物。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/588b823e9ddf88e6c37da223c0078294bfc40b1dca7d128830cb59ca4db49a88.jpg",
+        "table_caption": [
+            "表1人类细胞中已鉴定出的circRNA数量",
+            "Table1NumbersofidentifiedcircRNAs in humancells "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Sequencing samples</td><td>CircRNAs’number</td><td>References</td></tr><tr><td>Homo sapiens</td><td>fetal head</td><td>1184</td><td>[9]</td></tr><tr><td></td><td>19 and 37 weeks female fetal cerebellum</td><td>21071</td><td></td></tr><tr><td></td><td>20 and 22 weeks male fetuses diencephalon</td><td>24632</td><td></td></tr><tr><td></td><td>20 and 22 weeks female fetal frontal lobe</td><td>38983</td><td></td></tr><tr><td></td><td>22 weeks male fetuses and</td><td>31085</td><td></td></tr><tr><td></td><td>20 weeks female fetuses occipital lobe</td><td></td><td></td></tr><tr><td></td><td>24 weeks female fetuses and</td><td>23303</td><td></td></tr><tr><td></td><td>22 weeks parietal male fetuses</td><td></td><td></td></tr><tr><td></td><td>20 and 24 weeks female fetuses temporal lobe</td><td>21835</td><td>[10]</td></tr><tr><td></td><td>Human neuroblastoma cells SH-SY5Y</td><td>4264</td><td>[15]</td></tr><tr><td></td><td>Human fibroblasts Hs68 cell line</td><td>7771</td><td></td></tr><tr><td></td><td>H9 cell line</td><td>103</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9a064d6ce6f4cf6426fd61fe73301ea50e98e9f1b549a40b7e6d1ba0acd726c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Cell</td><td>line</td><td>181535</td><td></td></tr><tr><td></td><td colspan=\"3\">A549,AG04450,BJ,GM12878,H1-hESC,HeLa S3,HepG2, HMEC,HSMM,HUVEC,K562,MCF-7,NHEK,NHLF and</td></tr><tr><td>SK-N-SHRA</td><td colspan=\"3\"></td></tr><tr><td></td><td colspan=\"2\">CD19+,CD34+,HEK293 and Neutrophil cell line</td><td>[4]</td></tr><tr><td>cell-free saliva, CFS</td><td></td><td>>400</td><td>[16]</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3circRNA的主要功能",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "充当miRNA海绵是circRNA最典型的一个功能。miRNA 是生物体内普遍存在的一种调控性非编码RNA（Non-coding RNA，ncRNA），它们通常在转录后水平通过降解或者抑制目标 mRNA 来影响成百上千的致病基因的表达[1]。因此，研究 circRNA的 miRNA 海绵作用或许可以解释某些疾病发生的分子机理。在充当miRNA分子“海绵”circRNA中，最具代表性的miRNA“海绵”是Sry（Sex-determining region Y)基因相关的睾丸特异性 circRNA和小脑退化相关蛋白1反义转录物（antisense tothecerebelardegeneration-related proteinl transcript，CDRlas)。CDRlas含74个miR-7结合位点，对miR-7起负调控作用[8]。当CDRlas 过表达时，miR-7靶基因的表达水平就会上升；反之，当抑制CDRlas 表达时，miR-7靶基因的表达水平就会降低[]Sry基因相关的睾丸特异性circRNA含16个miR-138的结合位点[8]，它具有与CDRlas类似的调控方式，可与miR-138相互作用来调控 miR-138靶基因的表达。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CircRNA 还被发现可以通守顺式作用调控疾病相关母系基因的转录，影响母系基因及其靶基因的表达，为相应疾病的治疗提供了一种新思器.8.0-23。其中，比较经典的例子是锚蛋白重复结构域 52(ci-ankyrin repeatdomain 52，ci-ankrd52)，它作为聚合酶Ⅱ复合体的正向调节因子，聚集了自身编码基因的转录位点，可正向调节 RNA 聚合酶Ⅱ复合体的转录活性，对母系基因发挥顺式调节作用[]。circRNA也可调节成熟 mRNA 的稳定性，有些circRNA还具有保护细胞免受外源病原体入侵的功能，如敲除 mcircRasGEF1B（一种脂多糖诱导产生的circRNA）的表达之后，脂多糖诱导的细胞间黏附分子1",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "的表达也会减少，以保护细胞免受外源病原体感染[24]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，circRNA 也可以通过与蛋白质相互作用参与多种生理过程的调控。例如，circ-Foxo3可以通过与黏着斑激酶(focal adhesionkinase，FAK)及人低氧诱导因子 $\\mathbf { \\Delta } _ { 1 \\mathrm { a } }$ (hypoxia inducible factor $\\textstyle 1 { \\mathfrak { a } } , \\mathrm { H I F } 1 { \\mathfrak { a } } )$ 等蛋白质的相互作用，调控相应抗性过程[2]。circRNA分子与蛋白质的相互作用同样可被用于疾病的治疗。Bohjanen 等设计了一种能够特异性结合反式激活调控蛋白(transactivating regulatory protein，Tat)的 cireRNA 分子来抑制1型人类免疫缺陷病毒( Human immunodeficiency virus type 1，HIV-1)基因的表达[26]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不同于绝对意义上的ncRNA，在某些特定条件下circRNA可以翻译为有功能的蛋白质。Abe[]等研究发现，有些circRNA可通过滚环扩增(rollingcircle amplification，RCA)机理产生丰富的蛋白质产物，提示circRNA在人类细胞中的翻译频率可能远远高于之前的预测。细胞质中的 circRNA一旦内部核糖体进入位点被启动，也能参与蛋白质的翻译。例如，丁型肝炎病毒(hepatitis D virus，HDV)核心含单股负链共价闭合的circRNA就可以翻译成 HDV 抗原[7]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上，circRNA的功能主要体现在4方面：充当miRNA分子“海绵”、调控基因的转录、与 RNA结合蛋白相互作用及参与蛋白质翻译(图2)。此外，基于circRNA 异常稳定的结构，circRNA 可能还有其他未知的生物学功能。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/97637ceebe7c850daba0fbd03deb34b97662b8ce2f1c06a0f042dd1f52456dc2.jpg",
+        "img_caption": [
+            "图2环状RNA的主要功能Fig.2 The mainfunctions of circRNAs"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "K virus; ci-ankrd52, ci-ankyrin repeat domain 52. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2．circRNA与胃癌 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "circRNA 的分子特征和生物学功能使其有可能未来作为胃癌诊断与治疗的潜在标志物与靶点。下面，我们主要集中讨论最新的circRNA在胃癌方面的研究进展（表2）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1circRNA与胃癌发生发展的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "miRNA 是生物体内普遍存在的一种调控性非编码 RNA，它们通常在转录后水平通过降解或者抑制目标 mRNA 来影响成百上千的致癌基因的表达[]。与癌周非肿瘤组织相比，circRNA在癌症组织中表达异常，这些异常表达的circRNA 通过干扰 miRNA或参与其他生物学过程来影响癌症的发生。研究发现，miR-7可以抑制胃癌细胞的增殖、迁移和侵袭，促进胃癌细胞凋亡。在胃癌细胞中，miR-7既可通过降解表皮生长因子受体（epidermal growth factorreceptor，EGFR）的mRNA、降低蛋白质水平来抑制胃癌细胞的增殖和侵袭28]；还可抑制胰岛素生长因子受体（insulin-likegrowthfactorlreceptor，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IGFIR），使E-钙黏蛋白表达量增加、部分逆转上皮-间质转化，从而抑制人胃癌细胞侵袭与转移2]。作为 miRNA 海绵，circRNA CDRlas有 miR-7 的结合位点ciRS-7，ciRS-7 通过结合 miR-7间接调控miR-7靶标的表达，从而多途径影响胃癌的发生和发展[]。总之，胃癌的发生发展与过表达 ciRS-7抑制 miR-7 的表达从而增加 EGFR、IGFIR 的表达量有关[29-1]。cireRNA 失调也可能参与胃癌的进展。利用高通量测序，许多表达失调的circRNA 也已在胃癌中发现。例如，与正常组织相比，hsa_circ_0001649、hsa_circ_0000190、hsa_circ_00096等在胃癌组织和/或胃癌细胞中下调[21-3]。hsa_circ_0001649的下调与胃癌病理分化程度显著相关[2]；hsa_circ_000096通过调节细胞周期蛋白D1、CDK6、MMP-2和MMP-9的表达抑制细胞增殖和迁移；而hsa_circ_00090 的表达水平与胃癌的瘤直径、淋巴结转移、远处转移、TNM分期和CA19-9水平相关33]。 还有研究3通过分析circRNA、miRNA、mRNA表达以及它们在胃癌组织和癌旁组织的关系发现，circRNA可以通过与miRNA相互作用，建立起circRNA-miRNA-mRNA之间的联系，从而在胃癌发生发展中起调控作用。同时，CD44、CXC5、MYH、MALAT1以及其他一些基因也可以通过circRNA 和 miRNA 以及 miRNA 和 mRNA 之间的相互作用来影响胃癌的发生发展。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2circRNA在胃癌诊疗方面的应用价值",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于circRNA 失调可能参与胃癌的进展，许多表达失调的circRNA也已在胃癌患者的胃癌组织、细胞、甚至血浆中发现3]，circRNA 未来可能成为胃癌诊断及预后评估的潜在标志物。例如，研究发现 hsa_circ_00190 的表达水平在胃癌组织和胃癌患者血浆中下调，且它在敏感性和特异性方面优于常用的标志物如CEA和CA19-9[33。hsa_circ_02059在胃癌组织中表达低于癌旁组织，且其在外周血中稳定存在，更适合作为诊断标志物[37]。还有研究人员以4个circRNA（hsa_circ_101308、hsa_circ_10423、hsa_circ_104916和hsa_circ_10269）表达水平为基础构建了一个胃癌复发概率风险评分公式，用来预测II期胃癌根治术后早期复发情况]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于一部份circRNA可以通过miRNA 海绵作用调控肿瘤发展，若能找到这些miRNA对应的circRNA海绵，不仅有可能寻找到未来新的胃癌分子标志物，还可以发现影响胃癌发生的调控分子。例如，EGFR在胃癌中常过度表达，是一种重要的治疗靶点。研究者发现miR-7通过结合 EGFR mRNA非编码区三个靶点下调EGFR的表达，从而诱导胃癌细胞周期阻滞和凋亡9]。同时，miR-7通过作用于IGFIR和黏着斑激酶上调上皮钙粘附素的含量[0-2]，从而减少上皮-间质转换，具有间接抑癌作用。Chen等]研究发现，circPVT1在胃癌组织中的表达水平高于癌旁组织，且circPVT1作为miR-125的“海绵”，能够促进胃癌细胞的增殖。同时，通过Kaplan-Meier方法绘制总生存期（overallsurvival，OS）和无病生存期（disease free survival，DFS）曲线，观察到circPVT1的水平可作为患者的OS和DFS 的独立预后标志物。另有学者还发现，circPVT1能竞争性结合 let-7，而抑制 let-7调控的下游基因(IGF2BPI、KRAS和HMGA2）最终将抑制衰老进程[4]。还有一些circRNA 仅含有少量甚至不含有 miRNA结合位点，而是通过与反式作用因子等调控蛋白结合形成复合物的方式影响癌细胞的生长\\*]。例如，circ-Foxo3 通过与细胞周期蛋白依赖性激酶抑制剂、周期蛋白依赖性激酶形成复合物阻碍了细胞周期的进程。在肿瘤细胞中，circ-Foxo3 的含量减少，细胞周期不能得到合理抑制，细胞增殖加快[25]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表2circRNA与胃癌",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/376897dbacd194e0cea501338959efa78046feb56e2e913c061bdd11d1e69157.jpg",
+        "table_caption": [
+            "Table1 CircRNAs in gastric cancer "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>CircRNA</td><td>Sample type</td><td>Sample number</td><td>Expression in tumors</td><td>Clinical correlation</td><td>Function</td><td>Methods</td><td>Reference</td></tr><tr><td rowspan=\"2\">hsa_circ_002059</td><td>Tissue/P lasma</td><td>101 Paired cancer tissues and adjacent nontumorous tissues；36 paired plasma</td><td>Down</td><td>Distal metastasis,</td><td></td><td>qRT-PCR</td><td>[37]</td></tr><tr><td>samples</td><td>from preoperative and postoperative</td><td></td><td>TNM stage, Gender and age</td><td></td><td></td><td></td></tr><tr><td>hsa_circ_0001649</td><td>Tissue/ plasma</td><td>patients. 76 Tumor tissue samples and their paired paracancerous histological normal tissues; 20 patients' whole</td><td>Down</td><td>Pathological differentiation</td><td></td><td>qRT-PCR</td><td>[32]</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/344d84a86ef8bc36ddc3eaf09a0ae376d765a4665366fc3f6ee0ac747d80d380.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">hsa_circ_0000190</td><td colspan=\"5\">postoperatively. 104 paired cancer tissues and</td><td rowspan=\"2\">qRT-PCR</td><td rowspan=\"2\">[33]</td></tr><tr><td></td><td>Tissue/ plasma</td><td>adjacent non-tumor tissues; 104 plasma samples from cancer</td><td>Down</td><td>Tumor diameter, lymphatic metastasis, distal metastasis,</td><td></td><td></td></tr><tr><td>hsa_circ_0000096</td><td>Tissue</td><td>patients or health controls 101 paired cancer tissues and adjacent non-tumorous tissues.</td><td></td><td>Down</td><td>TNM stage and CA19-9 levels</td><td>growth and migration by regulating cyclin D1, CDK6， MMP-2and MMP-9</td><td>Promotescancer cellqRT-PCR</td><td>[34]</td></tr><tr><td>circPVT1</td><td>Tissue</td><td>187 Paired cancer andadjacent normal tissues.</td><td>specimens</td><td>Up</td><td>Anindependent prognostic marker for overall survival andproliferation by acting disease-free survival.</td><td>Promote cell as a sponge for miR-125 family</td><td>qRT-PCR</td><td>[43]</td></tr><tr><td>hsa_circ_0003159</td><td>Tissue</td><td>108 paired gastric cancer tissues and adjacent non- tumorous tissues.</td><td></td><td>Down</td><td>Gender, distal metastasis,</td><td>members.</td><td>qRT-PCR</td><td>[46]</td></tr><tr><td>hsa_circ_0001895</td><td>Tissue</td><td>96gastric cancer tissues and their Down adjacent non-tumorous tissues,</td><td>35healthy gastric mucosa and 30</td><td></td><td>tumor-node-metastasis stage. Cell differentiation, Borrmann type, tissue carcinoembryonic antigen expression.</td><td></td><td>qRT-PCR</td><td>[47]</td></tr><tr><td>hsa_circ_0006633</td><td>Tissue/ plasma</td><td>gastric dysplasia tissues. 96 gastric cancer tissues and their adjacent non-tumorous tissues, 35 human healthy gastric mucosa, 51</td><td></td><td>Down</td><td>Distal metastasis, tissue CEA level.</td><td></td><td>qRT-PCR</td><td>[48]</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/97a6af7fb3a8d953e6938f09ec12c1a94028dd6a4fcfd49c03691dcd08cd58c7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>dysplasia tissues;</td></tr><tr><td></td><td>Plasma samples were obtained from 20</td></tr><tr><td></td><td>healthy volunteers and 20 gastric cancer</td></tr><tr><td></td><td>patients.</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3问题和展望",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以上有关circRNA 的研究向我们展示了真核生物转录组的复杂性和多样性。然而，目前我们对circRNA 的研究尚处起步阶段，关于circRNA 形成、运输、降解、表达、翻译及功能方面仍有很多问题需要被进一步阐明。如：circRNA的产生依赖怎样的机制?circRNA 是怎样在细胞核与细胞质间运输的？有哪些信号通路与蛋白质参与运输过程？circRNA是怎样降解的?circRNA的降解涉及了哪些信号通路?有哪些蛋白质或酶参与降解过程?circRNA在组织细胞中的特异性表达以及时空特异性表达是如何被调控的？等等这些问题目前还没有清晰的答案。circRNA 与胃癌的关系方面，由于circRNA在胃癌组织细胞及外泌体中具有差异性表达的特征，考虑其未来很可能作为生物学标记用于胃癌的临床诊断及预后评估。鉴于circRNA 的结构和功能特性，对circRNA进行改造并将其用于基因表达调控以及胃癌的治疗或许是可行的。未来，随着对circRNA 的不断深入探究，相信研究circRNA 会更好地为了解与治疗人类疾病提供理论依据与技术指导。REFERENCES[2] Jemal A,BrayF, Center MM, et al. Global cancer statistics.CACancerJ Clin,2011, 61(2):69-90.J Clin Lab Anal, 2017, e22185.[4]Memczaoti,ia[5[6]Cocquerell C,MascrezB,HetuinD,etal. Mis-splicing yields circularRNA molecules.FASEBJ,1993,7(1):155-160.[7]GuoJU,AaluHtadtdactetiarl,",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[8] Qu S,Yang X,Li X,et al. Circular RNA: A new star of noncoding RNAs. Cancer Lett,2015,365(2):141-148.   \n[9]Jeckgti   \n[10] Zhang Y,Zhang X O,Chen T,et al. Circular intronic long noncoding RNAs.Molecular Cel,2013,51(6):792-806.   \n[11] Huang G,LiS,Yang N,etal. Recent progress in circular RNAs in human cancers. Cancer Let, 2017， 404:8-18.   \n[12ZngQo 7(11215):11215.   \n[13]SalzmanJ,ChenRE,OsenN,etal.CeltyespecificfeauresofcilarRexpres.PoGeet,2,9(9):77.   \n[14]BanJ,tc   \n[5]   \n[16] [7]b Adolescents. J Clin Lab Anal,2016,30(5):727-731.   \n[18]Hanseneturaleietosure8   \n[19] Hansen TB, Kjems J, Damgaard C K. Circular RNA and miR-7 in cancer. CancerRes,2013,73(18):5609-5612.   \n[21]KellyS,renCCokPR,etal.ExoSipngIselatediExulaio.Jolol,,45)-41.   \n[22]LiZ,HaglEooilateatcetctol.   \n[23]Ashwal-Fus,erdrti,el.CgeisoetesiprescgCel,6().   \n[24g [25]u 44(6):2846-2858.   \n[26o 24(19):3733-3738.   \n[27]AbeN,MatsumotoK,NisaraM,etal.RollingCcleTanslationofCircularRAinLivingHumanCell.SciRep5,5:645.   \niJ 31(4):1715-1722. 32(11):1363-1372.   \nHepatology, 2012, 55(6):1852-1862.   \nJ Real-Time PCR. J Cancer Res Clin Oncol, 2015,141(11):1945-1952.   \n2 [33] [34]LiPClaoc   \n[5 [36] Wang Y, Wang Z.Efficient backsplicing produces translatable circular mRNAs.RNA,2015,21(2):172-179.   \n[37LiPCHsect.   \n9is 32(11):1363-1372.   \n7(8):e41523.   \n4 2616-2621.   \n208-219. Cancer Lett,2017,404:91-92.   \n[44] Li F, Zhang L,Li W, et al. Circular RNA ITCH has inhibitory effect on ESCC by suppressing the $\\mathrm { W n t / \\beta }$ -catenin pathway. Oncotarget, 2015, 6(8):6001-6013. 45 Oncogene,2016,35(30):3919-3931.   \n[46Tian, ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

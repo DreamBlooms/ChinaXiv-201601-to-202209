@@ -1,0 +1,448 @@
+[
+    {
+        "type": "text",
+        "text": "基坑工程BIM技术结合有限元分析应用研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "饶平平1 刘焯立1 班洪侠1徐明² 王翔宇3(1.上海理工大学环境与建筑学院,上海200093；2.上海市杨浦区建筑业管理事务中心,上海200090;3.上海延华智能科技(集团)股份有限公司，上海430073)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】传统的二维设计方式与施工管理办法已经无法满足日益复杂的基坑工程的需求,BIM技术的出现为解决这些问题提供了技术支持，并可以结合有限元分析验证基坑支护结构的安全性。基于基坑工程实例，引入BIM技术,运用CATIA软件建立BIM基坑支护模型,结合Navisworks软件进行基坑工程施工模拟。综合分析了CATIA与有限元结合的几种方式，运用有限元分析软件ABAQUS验证了基坑支护结构的稳定性。实际工程应用表明，BIM技术与有限元分析相结合，在实际基坑工程中具有广泛的应用价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM技术；有限元分析；基坑工程；施工模拟",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17；TV551.4【文献标识码】A 【文章编号】1674-7461(2017)03-0052-06   \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.03.09 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着我国经济的增长，城市化进程加快，高层建筑大规模兴建，城市地下空间的开发和利用也在不断扩展,形成了大量设计方案、施工过程复杂的深基坑工程[1]。并且基坑工程大多具有地质条件复杂、明挖范围大、施工场地狭小、支护结构复杂等特点[2]。而传统的基坑工程设计、施工仍然依赖二维设计方式,该种设计方式本身存在信息不完整、表达不准确等诸多问题，并且需要绘制大量图纸，这些图纸相对独立，必须由专业人员进行解读后才能形成一个整体[3]。随着基坑工程的日益复杂、开挖深度的增加，传统的二维设计方式与施工管理已经无法满足基坑施工质量、进度、安全等要求。而BIM（BuildingInformationModeling)技术的出现为解决这些问题提供了技术支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM（BuildingInformation Modeling）建筑信息模型，该技术是以计算机技术为基础，结合整个建筑工程各种项目信息，构建三维可视的建筑信息模型，从前期勘查到设计、施工、运维，在工程项目的全生命周期中发挥其相应的作用[4]。建筑信息模型本身具有可视化、模拟性、优化性、协调性、可出图性五大优点[5]。将BIM技术引入到基坑工程中，尤其是在可视化施工模拟、设计方案优化、碰撞检查、多方协同工作等方面发挥其优势,在保证建筑工程质量、安全的同时，显著提高基坑方案设计与施工进度管理的效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而，目前主流BIM软件与其它辅助设计软件之间缺少相应的数据转换接口，导致目前国内BIM技术的应用大多数停留在碰撞检查、可视化模拟、工程算量等层面上。BIM在基坑工程应用方面，难以结合岩土专业相关有限元软件（ABAQUS、MIDAS等)对整体基坑支护方案进行安全性验证。并且传统的基坑支护有限元分析大多仍停留在二维分析层面，以线、面来表示各支撑构件与开挖土体，与实际基坑工程情况不符，分析结果难以对实际基坑工程进行准确、有效的指导。而且目前大多数有限元分析软件建模能力有限，难以绘制建筑设计中常用的曲面、钢筋等不规则图形，无法对设计中的复杂节点建立相应模型。因此，将BIM技术结合有限元分析共同引入到基坑工程中，弥补了传统的二维设计、分析的不足，既发挥了BIM技术在三维可视化、施工过程模拟等方面的优势，又能够运用有限元软件对基坑支护设计方案进行安全性验证。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文根据上海市某研发中心基坑工程，基于CATIA建立基坑支护模型，运用插件导入有限元软件 ABAQUS中对基坑支护设计方案进行安全性验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 项目概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工程场地位于上海市嘉定工业区，新培路西、汇善路北，占地面积约为 $6 \\ 8 0 1 \\mathrm { m } ^ { 2 }$ ,基坑总延长约为 $3 3 9 \\mathrm { m }$ ,本工程主要由1幢8层研发中心、1幢8层营销中心、1幢6层行政中心及1个气罐库等配套设施组成,采用框架－剪力墙结构体系,桩筏基础十基坑普遍区开挖深度 $9 . 7 \\mathrm { m }$ ,基坑工程安全等级为二级。支护方案采用钻孔灌注桩 $^ +$ 单排三轴水泥土搅拌桩 $^ +$ 二道混凝土支撑；坑内采用管井降水。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3基坑BIM模型建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2目前市场上BIM技术主流建模软件为REVIT,但是却少有有限元软件能够与之进行对接，笔者查阅了相关资料后，为了便于与岩土专业有限元软件ABAQUS 对接,最终选用了BIM核心建模软件 Das-sault CATIA 建立基坑BIM模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 CATIA 建立基坑 BIM模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CATIA自诞生以来一直运用于机械行业，软件本身包含了众多机械行业相关模块，但是却很少运用于建筑行业，因此，并没有类似于主流BIM软件Revit中所自带的“梁、板、柱”等族文件。CATIA建模步骤主要分为两大块：“part”模块中的零部件的设计与“product”模块中装配体的设计。零部件的设计可以理解为，根据设计要求来单独创建整体模型中所需的各种构件，类似于Revit中族文件的建立；装配体的设计，即将单独建立好的各个零部件按照设计的约束要求和位置关系，进行装配形成整体模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次基坑BIM模型的建立即采用上述方法：首先根据设计要求建立如“搅拌桩、灌注桩、立柱、冠梁、围標、内撑”等众多构件，继而按照基坑支护设计要求将这些单独的构件进行空间关系的约束，最终装配形成完整的基坑BIM模型（如图1、2）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1628e88377f47f5739265327a70715aec064635e09ece7b55a4a2646fdb88a0d.jpg",
+        "img_caption": [
+            "图1基坑支护3D 模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a73d1b8917ce5e54957d5fe7ff3973b3c233d22538dd08dce4060cceaa01e72a.jpg",
+        "img_caption": [
+            "图2基坑支护平面图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2BIM技术在基坑工程中的部分应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)三维可视化。传统的二维基坑设计需要绘制大量图纸，这种设计方式本身存在信息不完整、表达不准确等诸多问题。而BIM技术能够将整个基坑支护体系直观、立体的展现给设计方、施工方、业主方，并且BIM技术能够清楚地表示基坑工程中的配筋、复杂构件设计等问题(如图3、图4）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/67cf2586fd30a1ad67e16824ffc2400b44df8801fb121ff98b61febbfa8094a1.jpg",
+        "img_caption": [
+            "图3冠梁配筋图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f5a95993d82848cbffe94b3c09310f9ad3520a2242251cd46d629fa2d64fab9.jpg",
+        "img_caption": [
+            "图4格构柱与二维设计对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "S(2)基坑工程施工模拟。基坑工程施工过程复杂，各项施工交替进行。为此,结合Navisworks 软件,对本工程进行了施工进度计划模拟（见图5）。通过BIM技术，将空间信息与时间信息整合在一个可视的4D 模型中,直观、形象地模拟各施工工序间的衔接情况，能够清晰把握在安装过程中的难点和要点，从而制定合理的施工计划,有效地提高了施工质量和施工管理水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2db4325ab407a8ff6bccf669f4db9fa8af60875488db076153f0db83a35f8797.jpg",
+        "img_caption": [
+            "图5基坑施工模拟"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4CATIA结合有限元分析探索",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1在CATIA中直接进行有限元分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CATIA软件中自带简单的有限元分析模块，在“分析与模拟”模块中提供了高级网格划分工具和有限元分析两个工作台。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "笔者通过尝试和查阅相关资料，发现CATIA中生成的实体网格不一定连续，会影响有限元计算结果的准确性。而且CATIA软件本身有限元分析功能比较薄弱，在材料属性、分析步设置、施加荷载方面无法满足实际工程要求，所以在CATIA中直接进行基坑支护结构有限元分析是不可取的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2将CATIA中网格单元导入ABAQUS进行有限元分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CATIA中可以调用ABAQUS中Nonlinear Struc-turalAnalysis和ThermalAnalysis 两个分析模块作为辅助设计。在这两个模块中进行有限元分析时，可以先使用CAITA建立相应模型并进行网格划分后，将 job任务提交给ABAQUS中的分析模块进行计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这种方法使CATIA与ABAQUS 相结合，理论上较为先进，但是存在诸多局限性，CATIA的网格划分功能相对较弱，在划分网格时可能会出现网格不均匀、节点不连续等问题,并且无法提供如MIDAS、ABAQUS等软件中的合并功能，很难实现复杂模型(如内支撑、格构柱)的网格划分。而对于相对简单模型，在有限元软件中也可以较快地进行建模，并且可以自动划分六面体网格。因此，该方法虽然可行，但较难应用于基坑支护模型的有限元分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.3将CATIA中模型导入ABAQUS进行有限元分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "笔者通过尝试，发现CATIA建立的模型可以运用ABAQUSFORCATIA 插件导入到 ABAQUS中,继而在ABAQUS中对模型进行网格划分、分析步选取、计算模型分析等工作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相比于上述两种方法，将CATIA模型导入ABAQUS进行有限元分析，一方面发挥了CATIA本身强大的建模功能，对于基坑工程中的各种实体构件均能精确地建立相应模型,另一方面,ABAQUS 作为岩土方向专业的有限元分析软件，其网格划分、施加荷载、土体本构模型、参数设置等功能均比较完善，分析结果也较为准确，对于实际基坑工程更具有指导意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5 有限元分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次有限元分析即采上述第三种方式：运用",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cfb42065b19c81db879703babb49229ba142bf65bf1610469b9834b09fd5e5a.jpg",
+        "img_caption": [
+            "图6BIM模型导入ABAQUS"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CATIA建立基坑BIM模型，使用接口软件“ABAQUSforCATIA”将BIM模型无损导入有限元软件ABAQUS中（图6），从而进行基坑支护结构的有限元分析，验证基坑支护设计方案的安全性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1BIM模型处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ABAQUS中对于网格划分、材料参数、接触关系、相互作用、荷载施加等问题十分敏感，某一步的设置问题将直接影响计算分析的进行，并且随着分析模型的愈加复杂，网格、节点也以几何级增长，ABAQUS对电脑的硬件要求会变得很高，因此需要对模型进行适应性处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一将钢筋等效为同等强度混凝土，视钢筋混凝土结构为整体[7]。根据文献[8-9]结论,基坑支护有限元模型计算范围：沿开挖面水平方向取开挖深度L的15\\~3倍，下边界沿基坑深度方向取2\\~3倍L。因此选取模型计算范围为：长为 $1 4 4 \\mathrm { m }$ ，宽 $1 0 5 \\mathrm { m }$ ，高为 $3 5 \\mathrm { m }$ （图7）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2 参数设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文结合该基坑实际工程地质条件，决定采用Mohr-Coulomb弹塑性本构模型，各土层参数信息见表1。混凝土采用线弹性模型，弹性模量 $\\textrm { E } =$ $3 0 \\mathrm { G P a }$ ,泊松比 $\\mu = 0 . 2$ ,桩土摩擦系数为0.45。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/025c0d68ab5f1475bff5db7e0fac20ef2ff1db0bda8ad0fa917900a1121f8b6d.jpg",
+        "img_caption": [
+            "图7基坑支护有限元计算模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.3施工过程模拟 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ABAQUS中，施工过程的模拟通过分析步的设置实现，根据基坑支护设计方案和实际施工工况确定模拟计算共考虑四个分析步：第一步开挖土方至第一道支撑底部；第二步设置冠梁、第一道支撑;第三步开挖土方至第二道支撑底部，浇筑腰梁、第二道支撑；第四步开挖至基坑底部。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.4计算结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.4.1灌注桩桩身水平位移分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图8为基坑开挖过程中钻孔灌注桩桩身水平位移。分析步一中，灌注桩桩身绝大部分嵌入于土体中，第一道支撑尚未设置，导致桩体形成了类似于悬臂梁结构，水平位移沿桩身向下逐渐减小，最大位移发生在桩体顶端，为 $4 . 9 \\mathrm { m m }$ 。分析步二中，由于桩顶冠梁的浇筑和第一道支撑的及时施加，有效的限制了支护桩上部的水平位移。分析步三中，土体继续开挖，并浇筑腰梁以及第二道支撑，支护桩桩身最大位移并未发生在桩顶部，而是在发生在两道支撑之间，说明第二道支撑对桩体位移产生了约束作用，限制了桩体的侧向变形。分析步四中，继续开挖土体至基坑底部,相比分析步三，支护桩水平位移呈增大趋势，在达到最大值 $5 . 7 \\mathrm { m m }$ 后，受到了两道混凝土支撑的约束作用，位移发展趋势逐渐减小，位移曲线呈现为S形。对比实测数据与分析步四中的桩身水平位移曲线，两者在数值上有所差别,但整体位移趋势均近似于S形曲线,并且桩身最大位移发生位置基本相同，说明该计算模型基本正确",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1fc91a389a7a4f735615ad1a53c111f2a9e04fb1ae3b1df325893173d59ba80c.jpg",
+        "table_caption": [
+            "表1土层参数及力学指标"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土层名称</td><td>层厚(m)</td><td>重度(kN/m）</td><td>弹性模量(MPa)</td><td>泊松比</td><td>黏聚力(kPa)</td><td>内摩擦角(°)</td></tr><tr><td>耕填土</td><td>2</td><td>18</td><td>4.2</td><td>0.32</td><td>2</td><td>18</td></tr><tr><td>粉质粘土</td><td>6.4</td><td>18.9</td><td>5.4</td><td>0.3</td><td>5</td><td>25</td></tr><tr><td>淤泥质粉质粘土</td><td>5.6</td><td>17.4</td><td>6</td><td>0.39</td><td>12.5</td><td>10</td></tr><tr><td>粉细砂土</td><td>4.4</td><td>19</td><td>20</td><td>0.25</td><td>5</td><td>30</td></tr><tr><td>粉砂夹粉质粘土</td><td>9.7</td><td>18.7</td><td>18</td><td>0.27</td><td>6</td><td>28</td></tr><tr><td>粉细砂夹粉质粘土</td><td>8.4</td><td>18.5</td><td>19</td><td>0.3</td><td>6</td><td>27.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/80bbba18f3ff470deeabaa33322ab9462f077ad3f188dd9ccabf3e864e60c650.jpg",
+        "img_caption": [
+            "",
+            "图8灌注桩桩身水平位移"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对比相关规范及基坑支护设计方案要求，桩身最大位移允许值为 $3 0 \\mathrm { m m }$ ,本次基坑支护有限元模拟的桩身最大位移为 $5 . 7 \\mathrm { m m }$ ，实际监测最大桩身位移为 $8 . 9 \\mathrm { m m }$ ,均在允许值范围内,初步验证了基坑支护方案的安全性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.4.2 灌注桩桩身应力分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分析灌注桩桩身应力曲线（图9），整体来看，桩身应力值随着开挖深度变化较为明显，但在桩身嵌固深度范围内变化较小。分析步二中，开挖深度较浅，并且受到第一道支撑的约束，桩身应力值较小，呈均匀分布。分析步三中，随着开挖的进行，桩身应力值较分析步二中明显增大，并且在 $5 \\mathrm { m }$ 处达到最大值 $2 4 5 \\mathrm { { k P a } }$ ，由于第二道的支撑的约束作用，限制了桩身应力值的发展趋势,开挖深度范围内，桩身应力曲线近似“大肚子”形状。分析步四中，桩身应力变化分布较为均匀，并且在开挖深度范围内，桩身应力曲线呈现为“葫芦”形状，说明桩身应力的发展受到了第一道支撑与第二道支撑的限制作用。对比实际设计方案所给出的桩身应力变化曲线，有限元模拟计算桩身应力最大值为 $2 4 5 \\mathrm { { k P a } }$ ,小于实际设计最大值 $2 9 5 \\mathrm { { k P a } }$ ,并且桩身最大应力发生位置与有限元计算结果基本相同，应力曲线分布相似，保证了计算模型的准确性，进一步验证了基坑支护方案的安全性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff53ceaff62ec67087d5b4ad8a9b325ad417a8eb676e35ad7b9d2f6deddcd01e.jpg",
+        "img_caption": [
+            "图9灌注桩桩身应力曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据上海某研发中心基坑工程实例，引入了BIM技术并结合有限元分析，得到以下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)基于CATIA软件将BIM技术引入到基坑工程中，并结合Navisworks 进行了基坑工程施工模拟，发挥了BIM技术在三维可视化、施工过程模拟、协同工作、深化设计等方面的优势，解决了传统二维设计所存在的表达不明确、信息不完整、出图量大等问题,提高了设计效率，在保证工程质量的同时，提高了整体施工管理水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)将BIM模型导入ABAQUS软件进行有限元分析，对计算结果进行了分析，对比了实际监测数据与相关设计规范要求，初步验证了基坑支护方案的安全性，实现了BIM技术与有限元分析的有效结合。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)将BIM技术结合有限元分析共同运用于基坑工程中，一方面通过BIM技术,使设计人员清晰、准确地表达设计意图，提高了设计效率，便于业主对整个工程的项目进度、质量进行管理，有助于施工方及时发现可能存在的问题，保证现场施工有效 安全的进行。另一方面,结合有限元分析对整体支护设计方案进行安全性验证,弥补了传统二维设计分析的不足,对实际基坑工程更具有指导意义。BIM技术结合有限元分析，也是未来BIM技术在基坑工程应用中的发展方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "龚晓南．基坑工程实例M」.北京：中国建筑工业出版",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "社，2006.  \n[2］赵雪锋，姚爱军，刘东明，等.BIM技术在中国尊基础工程中的应用[J].施工技术，2015，44(6)：49-53.  \n［3］彭曙光.BIM技术在基坑工程设计中的应用[J].重庆科技学院学报（自然科学版），2012，14（5）：129-130.  \n[4］常建军.BIM技术在地铁隧道工程施工中的应用[J].施工技术.2016，45(6)：35-42.  \n［5］唐红，孔政，龙腾，等.建筑信息建模技术在武汉某超大型深基坑工程中的应用[J].工业建筑，2016，46(11):197-200.  \n［6］黄俊炫，张磊，叶艺.基于CATIA的大型桥梁三维建模方法[J].土木建筑工程信息技术，2012，4（4)：51-53.  \n［7］许胜才，范秋雁,崔峰,等.基于ABAQUS 的特殊双排桩支护结构三维有限元模拟[J].地下空间与工程学报，2015，11(6)：1515-1520.  \n［8］黄传胜，张家生，等.地铁深基坑三维有限元模型尺寸效应分析［J].铁道科学与工程学报，2011，7（2）：59-63.  \n［9］刘福天，赵春风,吴杰，等.常州地区大直径钻孔灌注桩承载性状及尺寸效应试验研究[J」.岩石力学与工程学报，2010，29（4）：858-864.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Application of BIM Technology Combined with Finite Element Analysis in Foundation Pit Engineering ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rao Pingping'，Liu Zhuoli' ，Ban Hongxia'，Xu Ming²，Wang Xiangyu²(1.Schoolof EnvironmentandArchitecture,UniversityofShanghai for Scienceand Technology，Shanghai 2Oo093,China;2. Construction Management Center of Yangpu District， Shanghai 200090， China ;3.ShanghaiYanhua Smartech （group) Co.， Ltd.， Shanghai 430O73，China）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Traditional approachof 2D design and construction management no longermets the increasingly complex needs of the pit engineering，while theemergence of BIM technologyprovides technical support to adress these issues,and also provides a new wayto verify the safety of the foundation pit support structure whencombined with the finite element analysis.This paper presents a foundation pit enginering example that the BIM technology is introducedand the BIM foundation pit support model is established by CATIA.Also，Navisworks isapplied for foundation pitconstruction simulation.This paper analyzesseveral methods for the combination ofCATIA and finite element，and applies ABAQUS,a finite element analysis software，to verify the stability of foundation pit support structure.Practical engineering application shows thattheBIMtechnology combined with the finite element analysis, is of great application valuein practical foundation pit engineering. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM Technology；Finite Element Analysis；Foundation Pit Engineering；Construction Simulation ",
+        "page_idx": 5
+    }
+]

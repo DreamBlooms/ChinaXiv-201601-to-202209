@@ -1,0 +1,571 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201609261944 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王志杰,苏姬.南水北调中线汉中市水源地生态脆弱性评价与特征分析.生态学报,2018,38(2)：432-442.  \nWangZJSalalilceienorth water transfer project,China.Acta Ecologica Sinica,2018,38(2）:432-442.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "南水北调中线汉中市水源地生态脆弱性评价与特征分析 1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王志杰'，苏 姬2，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1贵州大学生命科学学院，贵阳550025  \n2贵州大学林学院，贵阳550025",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：南水北调中线工程是为了缓解我国华北地区水资源严重短缺的一项大型调水工程,其水源地的生态环境质量,直接关系到中线工程的水质安全及其长效运行,对区域社会经济发展具有重要影响。以位于南水北调中线工程水源地的汉中市为研究对象,基于遥感和GIS技术,采用\"压力—状态—响应\"评价模型框架,利用空间主成分分析方法对汉中市生态脆弱性进行定量评价。结果表明：1)汉中市生态脆弱性整体处于中等偏高水平,其形成是人类活动与自然环境相互作用的结果,年均气温、年均降水量、人均GDP、土壤侵蚀强度和海拔为主要的驱动因子;2)不同海拔梯度上,中山区和高中山区生态脆弱性程度高,其次为高山区,低山区和丘陵区生态脆弱性程度相对较弱;3)不同行政区划上,西部和东部的略阳县、宁强县、佛坪县、西乡县和镇巴县5个县区脆弱性程度最高,中部的汉台区生态脆弱性程度最弱，其他各县区生态脆弱性程度居中;4)汉中市生态脆弱性指数具有强烈的空间自相关性特征,其空间异质性具有明显的各向异性特点， $4 5 ^ { \\circ }$ 和 $1 3 5 ^ { \\circ }$ 方向上的空间变异最大。研究可为水源地生态建设与恢复、区域可持续发展规划提供理论基础和科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态脆弱性;可持续发展;生态恢复;南水北调中线工程;汉中市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of Eco-environmental vulnerability characteristics of Hanzhong City, near the water source midway along the route of the south-to-north water transfer project， China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Zhijie'， SU Yuan2 \\* 1CollegeofLife Sciences，Guizhou University，Guiyang 55OO25,China 2 College of Forestry， GuizhouUniversity，Guiyang 550o25，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:South-to-north water transfer project is alarge project aimed at aleviatingtheserious water resource shortage in norther China.Theeco-environment qualityof the water sourceareais directlyrelated to waterquality，safety，and longtermoperationof the water transfer project.Further,ithas important efectsonregional，social，and economicdevelopment. Inthe present study，theeco-environmental vulnerabilityof Hanzhong City,whichis located midwayalong therouteof the south-to-north water transfer project，was quantitativelyevaluatedbyusing\"presure-state-response\"model and spatial principal component analysis based onremotesensingand GIS technology.The resultsshowed that：1）theecoenvironmentalvulnerabilityof Hanzhong City wasatamedium levelandwasdetermined bythe interactionof human activitiesand natural environment.Theelevation，annual average precipitation，annualaverage temperate，percapitagross domestic product（GDP），and soil erosion intensitywerethe maindriving factors.2）Inaddition，theeco-environment vulnerabilityvariedwithaltitudinal gradient.Vulnerabilityof themediumand high-mediummountainareas washigherthan that of thehigh mountainarea，and itwaslow inthelow mountainand hil-gullyareas.3）Among theadministrative divisions，theareaswith high eco-environment vulnerability were mainlydistributed in the Zhenba，Xixiang，Foping, Lueyang，and Ningqiang counties；theareas withlowvulnerability werelocated inthe Hantai district.4）Theregional ecoenvironmental vulnerabilityof Hanzhong Cityhad strongspatialautocorelation.Thespatialvariation was larger inthe direction of $4 5 ^ { \\circ }$ and $1 3 5 ^ { \\circ }$ . It could provide theoretical and scientific basis for ecological restoration and planning of regional sustainable development of the water source midway along the route of the south-to-north water transfer project. 八 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:eco-environmental vulnerability；sustainabledevelopment；ecologicalrestoration；south-to-north watertransfer project；Hanzhong City O ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态环境脆弱性是景观或生态系统在特定时空尺度上相对于外界干扰而具有的敏感反应和恢复状态，是生态系统的固有属性在干扰作用下的表现[1]。随着全球变化和人类活动的加剧,生态与环境问题大量涌现,人类赖以生存和发展的生态系统受到巨大的影响,其中生态脆弱性问题尤为突出。近年来,关于生态脆弱性的研究已逐渐成为全球变化和可持续发展研究的热点和重点，也是当前资源环境领域重要的问题之一，受到国内外诸多学者的广泛关注[2-4]。区域生态环境脆弱性评价不仅可以从宏观上了解区域的脆弱性现状和分布特征,而且有助于合理配置土地资源和保护脆弱生态环境。同时,也是制定区域可持续发展规划的重要前提[4-]。目前,关于生态脆弱性评价的方法主要有综合评价法[6、模糊评价法[7]、层次分析法[8]、主成分分析法[3,9]、指标权重法[10]、景观评价法[]以及生态脆弱性指数评价法[]等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "南水北调中线工程是为了缓解我国华北地区水资源严重短缺的一项大型调水工程,其水源地丹江口水库多年平均入库水量408.5亿 $\\mathbf { m } ^ { 3 }$ ,其中陕西境内汉江和丹江入库水量 284.7亿 $\\mathbf { m } ^ { 3 }$ ,占入库总水量的 $70 \\%$ 。发源于陕南秦巴山地的汉江流域是丹江口水库的主要水源地,保护水源地生态环境质量,确保南水北调中线工程水质安全、促进区域经济发展、实现人与自然和谐共处一直是相关管理部门和学术界关心的热点问题。然而，长期以来,陕西境内的汉江流域经济落后,生态环境恶化问题相当突出,不合理的人类活动剧烈引起的土壤侵蚀严重,自然灾害频繁[12-13],区域生态环境正面临严重的威胁。因此,开展水源地生态脆弱性评价及其特征研究,明确其生态脆弱性整体状况与空间分布以及今后的重点治理区域和方向,对有针对性地进行生态环境建设与保护具有重要的现实指导意义,对区域社会经济发展和生态环境质量的改善,以及保障南水北调中线工程的安全运行具有重要的科学意义。而我国关于生态脆弱性评价的区域多涉及喀斯特地区[1415]、农牧交错区[16]、高寒山地[17]、三峡库区[2]以及流域湿地[18-9]等典型的生态脆弱区,对于地处我国中部生态安全的屏障区和重要水源涵养区的南水北调中线水源地的生态脆弱性评价相关研究鲜有报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此,本研究以位于南水北调中线水源地的汉中市为研究对象,利用RS 和GIS 技术,采用空间主成分分析方法,对汉中市生态脆弱性进行定量评价,揭示汉中市生态脆弱性现状和空间分布特征,明确该区生态脆弱性的驱动因子，以期为南水北调中线水源地的生态建设与恢复提供科学依据和决策支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "汉中市 $( 3 3 ^ { \\circ } 0 2 ^ { \\prime } - 3 3 ^ { \\circ } 2 2 ^ { \\prime } \\mathrm { N } , 1 0 6 ^ { \\circ } 5 1 ^ { \\prime } - 1 0 7 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { E } )$ 位于陕西省西南部,地处秦巴山区西段,北靠秦岭、南倚米仓山(即大巴山西段),中为汉江上游谷地平坝(即汉中盆地)。全市辖汉台区、南郑、城固、洋县、西乡、勉县、宁强、略阳、镇巴、留坝、佛坪等11个县区,土地面积约 $2 . 7 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ （图1）。地势南北高,中间低，形成了“两山夹一川\"的地貌骨架,区内地貌类型以山地为主,中高山区面积占总面积的 $57 \\%$ ,低山、丘陵占 $3 2 . 8 \\%$ ,平坝仅占 $1 0 . 2 \\%$ 。气候类型属内陆东亚季风气候,由于盆地地形影响,自汉江谷地到秦岭山地,气候垂直差异明显。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着海拔高度的不同，分为3种不同的气候类型：海拔 $8 0 0 \\mathrm { m }$ 以下的北亚热带气候;海拔800— $1 2 5 0 \\mathrm { m }$ 的暖温带湿润气候;海拔 $1 2 5 0 \\mathrm { m }$ 以上的中温带湿润气候。多年平均气温 $1 4 . 3 ^ { \\circ } \\mathrm { C }$ ,年最高平均气温 $1 9 . 2 \\%$ ,年极端最高气温 $3 8 ^ { \\circ } \\mathrm { C }$ （1953年8月18日）;年平均最低温度 $1 0 . 6 ^ { \\circ } \\mathrm { C }$ ,年极端最低气温 $- 1 0 . 1 \\mathrm { { ^ { \\circ } C } }$ （1957年1月14日）。多年平均降水量为 $7 0 0 { - } 1 7 0 0 { \\mathrm { m m } }$ 之间,年均平均风速介于1一 $\\cdot 2 . 5 \\mathrm { m } / \\mathrm { s }$ 之间[20」。境内地带性植被属于北亚热带常绿、落叶阔叶混交林,但由于多次大规模的毁林和过度采伐,原始森林几乎破坏殆尽,目前,山区以天然次生林为主,生态效益变差,保障区域生态安全的功能明显下降[12-13]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2871eac0c1177ea09f901cf2fd79fb821d055f32e1e9b6525672284c86dc9cd1.jpg",
+        "img_caption": [
+            "图1研究区位置示意图",
+            "Fig.1 Location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2评价指标体系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "影响生态脆弱性的因素归纳起来包括自然因素和人为因素两方面,区域自身的自然地理环境构成生态脆弱性的本底条件,人类通过一系列的活动加速或减缓生态脆弱性的进程[21]。因此,生态脆弱性评价的关键在于指标体系是否科学合理,压力一状态—响应(PSR)框架模型从人类系统和自然系统的相互作用与影响出发,具有清晰的因果关系,被广泛应用于生态评价[2]。参考已有相关研究成果[2-5,21-22],结合汉中市自然、社会实际状况,遵循科学性、系统性、综合性、目的性和可操作性的原则,本研究选取10个指标构建汉中市生态脆弱性评价指标体系。具体而言：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "压力指标反映人类活动对生态系统所造成的负荷[2]。长期以来,该区域经济相对落后,人口地域分布差异显著,城乡二元结构明显。近年来人口数量的增长使区域环境承载力不堪重负，同时，导致对资源环境的不合理利用和干扰程度大[23]。人口的区域分异与数量增长形成该区域人类活动干扰生态系统的主要内在原因,因此,选取人口密度代表人类活动对汉中市生态系统造成的压力指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "状态指标是生态系统内各种因素长期作用的结果,也是生态系统和功能的最直接体现[2]。汉中市位于我国秦巴山区腹地,受长期地质时期构造运动作用,境内大部分区域山高坡陡,地势相对高差悬殊，地形破碎，地质构造复杂,地貌类型多样,加上降雨集中,多暴雨,降水与气温的空间异质性强,构成特殊的本底地质地貌和气象气候条件。并且由于水土保持基础设施薄弱,加之多次大规模的毁林和过度采伐,原始森林几乎破坏殆尽，目前，山区以天然次生林为主，生态效益变差，保障区域生态安全的功能明显下降，不合理的人类活动引起的土壤侵蚀严重,自然灾害频繁,生态环境恶化问题突出[1-13]。因此,选取海拔、坡度和地形起伏度代表地形地貌脆弱因子;年均降水量和年均气温反映了区域水热资源状况,代表了区内不同生态系统的复杂性和生态稳定性;NDVI、土地利用/覆被类型代表植被对汉中市环境变异的抗干扰能力和缓冲能力;土壤侵蚀强度代表水土流失特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "响应指标体现人类面临生态问题所采取的对策与措施[2]。一般而言,人均GDP代表区域经济发展状况,一定程度上能够反映生态系统的健康状况以及对生态建设和保护的投入能力[2]。因此,选取人均GDP 作为汉中市生态脆弱性评价的响应指标因子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3数据源与数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文所采用的资料包括研究区Landsat-8TM遥感影像、DEM数据、气温、降雨、人口密度、人均GDP 和行政区划图,以及相关的统计资料,数据来源与特征见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd02c10733b614ee62f63c2cc5b3bda3c424c77d6ea01d4f30b5dbac63f52dcc.jpg",
+        "table_caption": [
+            "表1数据源与数据特征",
+            "Table 1 Data source and its charactistics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 ID</td><td>数据类型 Data Type</td><td>数据来源 Data Source</td><td>数据特征 Data Charactistic</td></tr><tr><td>1</td><td>Landsat-8TM遥感影像</td><td>地理空间数据云网站</td><td>图像日期：2014年9月</td></tr><tr><td>2</td><td>DEM(数字高程模型)</td><td></td><td>空间分辨率30m×30m</td></tr><tr><td>3</td><td>气温、降雨</td><td>陕西省水利厅、国家气象局</td><td>汉中市及周边地区15个气象站数据</td></tr><tr><td>4</td><td>人口密度、GDP</td><td>汉中市统计年鉴</td><td>数据年份：2014年</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据研究需要，须对原始数据进行进一步处理。其中：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土地利用/覆被类型提取,运用研究区TM遥感影像,依据土地利用现状分类标准（GB/T21010—2007），结合汉中市具体情况及研究目标,将研究区土地利用划分为林地、草地、水域、农用地、建筑用地和裸地6类。通过野外调查建立解译标志,进而在ENVI5.1软件平台上采用最大似然法监督分类,完成对遥感数据的解译,得到汉中市2014年土地利用/覆被类型图。土地利用分类结果参照Google Earth 高分辨率遥感影像和GPS 野外调查样点进行精度验证,监督分类结果精度为 $9 2 . 1 2 \\%$ ,Kappa系数值为0.9121,遥感图像数字处理精度可以满足研究要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NDVI的提取,利用汉中市 TM遥感影像,在ENVI5.1软件平台上运用 Band math 功能实现,计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\Delta N D V I } = { \\frac { \\rho _ { \\mathrm { N I R } } \\ - \\rho _ { R } } { \\rho _ { \\mathrm { N I R } } \\ + \\rho _ { R } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\widehat { \\rho _ { \\mathrm { N I R } } }$ 为近红外波段的反射率， $\\rho _ { R }$ 为红波段的反射率,NDVI为归一化植被指数。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "坡度和地形起伏度的提取,分别基于DEM在 ArcGIS10.2软件平台的 Surface 和 Neighborhood 工具下计算生成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7 年均降雨量和年均气温,利用汉中市及周边地区15 个气象站的统计资料,基于 ArcGIS10.2软件平台,运用反距离加权插值(IDW)方法进行空间插值,以实现数据的空间化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤侵蚀强度由土壤侵蚀各因子经RUSLE 模型计算后,依据水利部颁布的《土壤侵蚀强度分类分级标准》（SL196—2007)转化得到。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于各类数据来源、投影方式与比例尺等不同,在数据评价分析前对所有数据统一进行几何配准与数据重采样,将所有空间数据统一到 Transverse_Mercator投影坐标系下,中央经线为111°,所有数据栅格大小统一重采样为 $3 0 \\mathrm { m } \\times 3 0 \\mathrm { m }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 指标标准化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因各评价指标性质不同、量纲各异,无法直接进行生态脆弱性评价,因此,必须对评价指标进行标准化处理,以解决参数不可比的问题。本研究所选取的10个指标对生态脆弱性的影响可以分为正向指标和逆向指标。正向指标表示指标值越大,生态脆弱性程度越高,逆向指标表示指标值越大,生态脆弱性程度越低。其中,正向指标包括人口密度、坡度、海拔、地形起伏度、年均气温和年均降水,逆向指标包括 NDVI和人均GDP,土壤侵蚀强度和土地利用/覆被类型为定性指标。在标准化之前首先对定性指标进行量化处理,借鉴相关研究成果[3],按照分等级赋值法对指标因子进行量化赋值（表2）,并将其量化后按正向指标进行处理。指标标准化采用极差标准化方法进行,计算方法如下[2]：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "正向指标：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { i } = \\frac { X _ { i } - X _ { \\operatorname* { m i n } } } { X _ { \\operatorname* { m a x } } - X _ { \\operatorname* { m i n } } } \\times 1 0\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "逆向指标：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { _ i } = \\frac { X _ { _ \\mathrm { m a x } } - X _ { i } } { X _ { _ \\mathrm { m a x } } - X _ { _ \\mathrm { m i n } } } \\times 1 0\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $Z _ { i }$ 表示第 $i$ 指标的标准化值,变化范围为 $_ { 0 - 1 0 , X _ { i } }$ 为第 $i$ 指标的实际值， $. X _ { \\mathrm { m i n } }$ 为实际值的最小值， $X _ { \\mathrm { m a x } }$ 为实际值的最大值。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0c5852987998781355e190d6cf7016798b7f50510f048ef63faa4f0ba5c872d.jpg",
+        "table_caption": [
+            "表2定性指标的定量化处理",
+            "Table 2Quantification of qualitative indices "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标 Indicator</td><td colspan=\"4\">标准化赋值 Standardized value</td></tr><tr><td>2 4</td><td>6</td><td>8</td><td>10</td></tr><tr><td>土地利用/覆被类型 Land use/coverage type</td><td>林地、水体</td><td>草地 耕地</td><td>建设用地</td><td>裸地</td></tr><tr><td>土壤侵蚀强度 Soil erosion intensity</td><td>微度 轻度</td><td>中度</td><td>强烈</td><td>极强烈、剧烈</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 生态脆弱性评价方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在众多生态脆弱性评价的方法中,空间主成分分析基于数理统计的原理,考虑各指标之间的相互关系,在损失很少信息的前提下,实现了将多个指标转换为少数几个互不相关的综合指标。同时,该方法整个过程不再需要专家打分,评价结果具有一定的客观性。因此,本研究采用空间主成分分析方法进行汉中市生态脆弱性评价研究。空间主成分分析的基本原理是将 $n$ 个相关变量 $X _ { i }$ 线性组合成 $\\mathbf { \\nabla } _ { m }$ 个独立变量 $Y _ { j } ( m < n )$ ， $Y _ { j }$ 中保存了 $X _ { i }$ 中大部分信息,于是 $\\ v { n }$ 个相关变量就缩减成 $\\mathbf { \\nabla } _ { m }$ 个独立变量 $Y _ { j }$ （即主成分因子)。主成分分析是在地理信息系统软件的支持下,通过将原始空间坐标轴旋转,将相关的多变量空间数据转化为少数几个不相关的综合指标,实现用较少的综合指标最大限度地保留原来较多变量所反映的信息。本研究在 ArcGIS10.2软件平台上,将评价指标体系中设定的人口密度、人均GDP、年均降水量、年均气温、地形起伏度、土壤侵蚀强度、坡度、海拔、NDVI和土地利用/覆被类型等因子进行空间主成分分析,计算出汉中市生态脆弱性指数。利用主成分分析方法进行生态脆弱性指数计算的公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E V I } = r _ { 1 } Y _ { 1 } + r _ { 2 } Y _ { 2 } + r _ { 3 } Y _ { 3 } + \\cdots + r _ { n } Y _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：EVI为生态脆弱性指数， $r _ { i }$ 为第 $i$ 个主成分， $Y _ { i }$ 为第 $i$ 个主成分对应的贡献率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为便于生态脆弱性指数(EVI)的度量和比较,对其进行标准化处理。标准化计算方法如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\mathrm { E V I } } = \\frac { \\mathrm { E V I - E V I _ { \\mathrm { m i n } } } } { \\mathrm { E V I _ { \\mathrm { m a x } } \\ - \\ E V I _ { \\mathrm { m i n } } } } \\times 1 0\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $S _ { \\mathrm { { E V I } } }$ 为生态脆弱性指数的标准化值,变化范围为0—10;EVI为生态脆弱性指数的实际值; $\\mathrm { E V I _ { \\mathrm { m a x } } }$ 为生态脆弱性指数的最大值， $\\mathrm { E V I } _ { \\operatorname* { m i n } }$ 为生态脆弱性指数的最小值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6 空间自相关分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用地统计学的半变异函数进行生态环境脆弱性的空间分析,可以揭示生态脆弱性空间变化的结构性和",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随机性特征。半变异函数的计算公式为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( h ) = \\frac { 1 } { 2 N ( h ) } \\sum _ { i = 1 } ^ { N ( h ) } \\left[ Z ( x _ { i } ) \\ - Z ( x _ { i } + h ) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $N ( h )$ 为相隔距离等于 $h$ 时的样点对数， $Z ( x _ { i } )$ 为样点 $Z$ 在 $x _ { i }$ 的实测值， $Z { \\bigl ( } x _ { i } + h { \\bigr ) }$ 为与 $x _ { i }$ 距离为 $\\boldsymbol { h }$ 处的样 点值。 2 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "半变异函数具有3个重要参数;块金值(Nugget）、基台值(Sill)和变程(Range）。块金值 $C _ { 0 }$ 的大小反映区域化变量随机性的大小,基台值( $( C _ { 0 } { + } C )$ 反映变量变化幅度或系统的总变异程度,变程 $\\mathbf { \\alpha } _ { a }$ 表明变量自相关变化的尺度,块金值和基台值之比 $C _ { 0 } / ( C _ { 0 } { + } C )$ 表示由随机因素引起的空间变异占系统总变异的比例,可反映变量的空间自相关程度。一般而言，比例小于 $2 5 \\%$ ,说明变量具有强烈的空间相关性， $2 5 \\%$ 一 $7 5 \\%$ 之间,变量具有中等的空间相关性,大于 $7 5 \\%$ 时,变量空间自相关性很弱[22]。 2",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1汉中市生态脆弱性评价结果 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据主成分分析原理,由公式(4)和表3得出汉中市生态脆弱性计算公式为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中：EVI为生态脆弱性指数， $P _ { 1 } { \\mathrm { - } } P _ { 5 }$ 分别为原始空间变量进行主成分提取的前5个主成分因子,5个主因子累计贡献率达到 $9 0 \\%$ 以上。前5个主成分因子中原始变量的贡献反映了汉中市生态脆弱性特征驱动力，其中：第1主成分中年均气温和年均降水量贡献最大;第2主成分中年均气温的贡献较大;第3主成分中人均GDP 的贡献远大于其他指标;第4主成分中土壤侵蚀强度的贡献较大;第5主成分中海拔的贡献最大,即年均气温、年均降水、人均GDP、土壤侵蚀强度和海拔等构成汉中市生态脆弱性形成的驱动因子。这说明汉中市生态脆弱性的形成是人类活动和自然环境的综合作用,恶劣的自然条件使生态环境存在潜在的脆弱性,而人类活动的干扰和破坏则使潜在的脆弱性转化为现实的脆弱性。具体而言,研究区内大部分区域山高坡陡，地势起伏高差悬殊,地质构造复杂,岩层松散,岩体风化较深,地层破碎,加上降雨集中,多暴雨,区内生态环境敏感性强[23-24]。加之人口数量的增长,对资源环境的不合理利用和干扰程度大,使区域环境承载力不堪重负。已有研究发现,汉江上游近 $2 / 3$ 的耕地都是 $2 5 ^ { \\circ }$ 以上坡耕地,并且由于多次大规模的毁林和过度采伐,原始森林几乎破坏殆尽,目前,山区以天然次生林为主,生态效益变差,保障区域生态安全的功能明显下降,生态环境遭到严重破坏,滑坡、泥石流等自然灾害频发,水土流失分布广、侵蚀强度大,2009 年汉中市水土流失面积达 $4 7 7 5 . 0 7 \\mathrm { k m } ^ { 2 }$ ,占汉中市国土总面积的近 $3 5 \\%$ ,土壤侵蚀模数更高达 $9 0 3 1 \\mathrm { t } \\ \\mathrm { k m } ^ { - 2 } \\mathrm { a } ^ { - 1 }$ ,导致汉中市生态环境恶化问题相当突出[12-13.23-24]。同时,陕西省属于我国经济欠发达的省份之一,而汉中市更是贫困县比较集中的区域,经济社会发展滞后,自我发展能力有限,生态环境治理的困难重重[12]。此外,在全球气候变化(增暖)的背景下,汉中市气候变暖的趋势明显,20 世纪90年代以来,呈现降水减少、气温升高、气候偏旱的趋势[25-26]。而降水和气温是影响研究区植被生长的主要限制因子[27]。在相同的水分条件下,气温的增加意味着蒸发量增大和干燥度增加,影响植被的生长及土壤状况,直接加剧了以植物为基础的生态系统的脆弱性[28]。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/55300e2352514b0ee97ccc3fe43265575f10ee08bbf06956603211d3274cd16c.jpg",
+        "table_caption": [
+            "表3空间主成分分析结果",
+            "Table 3The results of spatial principal component analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主成分因子 Principal component</td><td>特征值/入 Eigenvalues</td><td>贡献率/% Percent of Eigenvalues</td><td>累计贡献率/% Accumulative of Eigenvalues</td></tr><tr><td>1</td><td>4.85805</td><td>33.96</td><td>33.96</td></tr><tr><td>2</td><td>3.95044</td><td>27.62</td><td>61.58</td></tr><tr><td>3</td><td>1.71539</td><td>11.99</td><td>73.57</td></tr><tr><td>4</td><td>1.50484</td><td>10.52</td><td>84.09</td></tr><tr><td>5</td><td>0.96574</td><td>6.75</td><td>90.84</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于公式(7)的计算结果,借助ArcGIS10.2软件平台,按公式(5)对汉中市生态脆弱性指数(EVI)进行标准化处理。进而依据国内外关于生态脆弱性评价研究的分级标准[2-4],结合汉中市自然-社会复合生态系统的特征,将汉中市生态脆弱性划分为5个等级(表4,图2）,分别为微度脆弱( $S _ { \\mathrm { { E V I } } } { < } 2 \\AA \\AA \\AA$ ）、轻度脆弱( $2 \\leqslant S _ { \\mathrm { E V I } } < 4$ ）、中度脆弱( $4 { \\leqslant } S _ { \\mathrm { E V I } } { < } 6 \\$ ）、重度脆弱( $6 { \\leqslant } S _ { \\mathrm { E V I } } { < } 8$ )和极度脆弱( $S _ { \\mathrm { { E V I } } } { \\geq } 8$ )。同时,为了更加直观的表达生态脆弱性的状态,本文引入乘算模型的生态脆弱性综合指数（Ecological vulnerability synthetic index,EVSI）,进行不同空间单元生态环境状况的整体差异分析[2,.29],计算公式如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E V S I } = \\sum _ { i = 1 } ^ { n } { P _ { i } } \\times { \\frac { A _ { i } } { S } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中：EVSI为生态脆弱性综合指数； $\\boldsymbol { P } _ { i }$ 为第 $i$ 类脆弱性等级值； $A _ { i }$ 为第 $i$ 类脆弱性等级面积;S为区域（评价单元)总面积。 2",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/187f7534c98ef2885f7e1effd4b0293cbd1d7383b1fcab3f7d252580456719fc.jpg",
+        "table_caption": [
+            "Table 4Classification criterion of ecological vulnerability in HanzhongCity[2,29] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级 Level</td><td>脆弱性 Vulnerability</td><td>生态脆弱性指数标准化值 Standardized value of ecological vulnerabilityindex(EVI)</td><td>特征 Characteristic 生态系统结构和功能合理完善，所承受压力小，生态系统稳定，抗</td></tr><tr><td>I</td><td>微度脆弱</td><td><2</td></tr><tr><td>ⅡI</td><td>轻度脆弱</td><td>生态系统结构和功能较为完整，所承受压力较小，生态系统较稳 2-4 定,抗外界干扰能力和自我恢复能力较强，生态脆弱性较低</td></tr><tr><td>IⅢI</td><td>中度脆弱</td><td>生态系统结构和功能尚可维持，所承受压力接近生态阈值，生态 4-6 系统较不稳定，对外界干扰较为敏感，自我恢复能力较弱，生态脆 弱性较高</td></tr><tr><td>IV</td><td>重度脆弱</td><td>生态系统结构和功能出现缺陷，所承受压力大，生态系统不稳定， 6-8 对外界干扰敏感性强,受损后恢复难度大,生态脆弱性高</td></tr><tr><td>V</td><td>极度脆弱</td><td>生态系统结构和功能严重退化，所承受压力极大,生态系统极不 ≥8 稳定，对外界干扰极度敏感，受损后恢复难度极大，甚至不可逆</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据上述评价方法和标准,统计分析汉中市生态脆弱性的整体特征,结果表明(表5)：汉中市生态脆弱性指数标准化平均值为 $5 . 2 1 \\pm 1 . 4 1$ ,EVSI值为3.09,整体处于中度偏高脆弱水平,这与潘景璐等[30]人的研究结果基本一致。生态脆弱性空间分异特征明显,呈现“四周高,中间低”的格局。各脆弱性等级的面积分布表现为：中度脆弱所占面积比例最高，占研究区总面积的 $5 7 . 2 4 \\%$ ;其次为重度脆弱和轻度脆弱,分别占 $2 4 . 6 8 \\%$ 和$1 3 . 0 7 \\%$ ;微度和极度脆弱面积分布较小,分别仅占 $3 . 0 5 \\%$ 和 $1 . 9 6 \\%$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/09e9fdc68a8d60b0817e8b8d24a132660526837baaeaeb8e1e6b8d6cf9b32827.jpg",
+        "table_caption": [
+            "表4汉中市生态脆弱性分级标准[2,29]",
+            "表5汉中市生态脆弱性评价结果",
+            "Table 5The results of ecological vulnerability evaluation in Hanzhong City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>脆弱性等级 Vulnerability level</td><td>像元数/No. Count</td><td>面积/km² Area</td><td>占总共面积比例/% Percentage of total area</td></tr><tr><td>微度脆弱 Negligible vulnerability</td><td>920097</td><td>828.09</td><td>3.05</td></tr><tr><td>轻度脆弱 Light vulnerability</td><td>3941738</td><td>3547.56</td><td>13.07</td></tr><tr><td>中度脆弱 Medium vulnerability</td><td>17259034</td><td>15533.13</td><td>57.24</td></tr><tr><td>重度脆弱 Strong vulnerability</td><td>7440851</td><td>6696.77</td><td>24.68</td></tr><tr><td>极度脆弱 Extreme vulnerability</td><td>591763</td><td>532.59</td><td>1.96</td></tr><tr><td>合计 Total</td><td>30153483</td><td>27138.13</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2生态脆弱性空间分布特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.1生态脆弱性在不同海拔梯度的空间分布",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "汉中市地处秦巴腹地,地貌类型多样,从北到南,依次经过秦岭南麓、汉中盆地和大巴山北坡,相对高差达",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$2 8 0 0 \\mathrm { m }$ 以上。不同海拔梯度上，气候特征、植被类型、土地利用状况等具有明显差异，生态环境质量也存在差异。因此，有必要研究汉中市不同海拔梯度下生态脆弱性的垂直地带性分布特征",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于汉中市海拔分布特征,依据陈志明[31]、刘振东和涂汉明[32]根据国家DTM数据进行高程频数统计得出的地貌类型划分标准，将汉中市地貌类型划分为5种类型,即：丘陵(海拔 $< 5 0 0 \\mathrm { m } \\dot { }$ ）、低山(海拔 $5 0 0 { - } 8 0 0 \\mathrm { m } \\qquad $ ）、中山(海拔 $8 0 0 { - } 2 0 0 0 \\mathrm { m }$ ）、高中山（海拔 $2 0 0 0 { - } 3 0 0 0 \\mathrm { m } )$ 和高山（海拔 $> 3 0 0 0 \\mathrm { m } \\mathrm { \\Omega } ,$ )。将汉中市生态脆弱性评价结果图与海拔分级图叠加，分析不同海拔梯度各脆弱性等级的面积比例，结果表明(表6)：研究区生态环境质量最差的海拔梯度位于中山区和高中山区，生态脆弱性综合指数值(EVSI)分别达到3.33和3.23，高于研究区EVSI值(为3.09)的整体水平，以中度脆弱（分别占 $6 1 . 7 1 \\%$ 和 $7 6 . 8 2 \\%$ )和重度脆弱（分别占 $3 1 . 4 3 \\%$ 和 $2 2 . 9 5 \\%$ )为主,二者分别占中山区和高中山区总面积的 $9 0 \\%$ 以上,其中,重度脆弱主要分布在研究区东南部的大巴山区,中度脆弱主要分布在研究区四周的秦岭山区和大巴山区;其次为高山区,EVSI值为3.00,该海拔梯度总面积较小,仅为 $0 . 1 5 \\mathrm { k m } ^ { 2 }$ ,但全部为中度脆弱;这是由于海拔较高的区域虽相对于低山丘陵区植被覆盖状况较高,但因地形破碎,坡度陡峭,地形起伏大,暴雨、滑坡、泥石流等自然灾害频繁,自然环境本底基础差,生态敏感性强。而低山区和丘陵区生态环境质量相对较好,EVSI值(分别为2.55和1.90)明显小于其他海拔梯度和研究区整体水平。其中,低山区以中度脆弱和轻度脆弱为主,共占低山区总面积的 $8 3 . 7 1 \\%$ ，丘陵区则以轻度和微度脆弱为主，共占丘陵区总面积的72.82%。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2943d10fc284f3f2f8d03d6a37c29625a8a19213a0af8f1a7c42020455dae4ec.jpg",
+        "img_caption": [
+            "图22014年汉中市生态脆弱性空间分布图",
+            "Fig.2Spatial distribution of eco-environmental vulnerability in Hanzhong City at 2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4df4e44f02da0e80de774cc76231203a6f53cbe45b8b208a516a6a2be96ff589.jpg",
+        "table_caption": [
+            "表6不同海拔梯度上各生态脆弱性等级分布图",
+            "Table6 Distribution of eco-environmental vulnerability in different elevations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">地貌类型 Geomorphic type</td><td colspan=\"2\">微度脆</td><td colspan=\"2\">轻度脆弱</td><td colspan=\"2\">中度l脆弱</td><td colspan=\"2\">重度脆弱</td><td colspan=\"2\">极度脆弱</td><td rowspan=\"3\">计 km²</td><td rowspan=\"3\">生态脆a性综合指数y sytheti inlex</td></tr><tr><td colspan=\"2\">面积</td><td colspan=\"2\"></td><td colspan=\"2\">面</td><td colspan=\"2\">面积</td><td colspan=\"2\">面积/ 比例/%</td></tr><tr><td>比例/%</td><td></td><td>面积</td><td>比例/%</td><td></td><td>比例/%</td><td></td><td>比例/%</td><td>km²</td><td></td></tr><tr><td>丘陵 Hill-guly</td><td>328.99 37.99</td><td></td><td>301.63</td><td>34.83</td><td>227.68</td><td>26.29</td><td>7.76</td><td>0.90</td><td>0.00</td><td>0.00</td><td>866.06</td><td>1.90</td></tr><tr><td>低山 Low mountain</td><td>498.03</td><td>7.80</td><td>2452.66</td><td>38.41</td><td>2892.82</td><td>45.30</td><td>518.54</td><td>8.12</td><td>23.95</td><td>0.38</td><td>6386.00</td><td>2.55</td></tr><tr><td>中山 Medium mountain</td><td>1.06 0.01</td><td></td><td>792.93</td><td>4.18</td><td>11691.40</td><td>61.71</td><td>5955.04</td><td>31.43</td><td>506.77</td><td>2.67</td><td>18947.20</td><td>3.33</td></tr><tr><td>高中山 High-medium mountain</td><td>0.00</td><td>0.00</td><td>0.35</td><td>0.04</td><td>721.08</td><td>76.82</td><td>215.42</td><td>22.95</td><td>1.87</td><td>0.20</td><td>938.71</td><td>3.23</td></tr><tr><td>高山 High mountain</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.15</td><td>100.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.15</td><td>3.00</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.2各县区生态脆弱性空间分布特征",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从各县区不同脆弱性等级的面积统计结果可以看出(表7)：位于研究区西部和东部的略阳县、宁强县、佛坪县、西乡县和镇巴县5个县区脆弱性程度较高,EVSI值均高于研究区整体水平,尤以研究区东南部的镇巴县生态脆弱性程度最为严重,EVSI值达到4.02,远高于其他县区,且以重度脆弱和极度脆弱为主,重度脆弱等级面积占全县总面积的 $7 1 . 9 8 \\%$ ,极度脆弱占 $1 5 . 0 1 \\%$ ;其他4个县区的脆弱性等级以中度和重度脆弱为主，二者占各县总面积的 $9 0 \\%$ 一 $9 5 \\%$ 以上。这是因为上述5县全部处于秦岭山区和大巴山区的中山区、高中山区和高山区,自然环境本底基础差;同时,该5县属于汉中市经济发展水平靠后的县份[30],如镇巴县和佛坪县 2014年GDP总量分别仅为56.42亿元和6.65亿元,分别约是汉台区GDP总量的1/4和 $1 / 3 0$ ,落后的经济水平，对生态环境建设和保护的投人力度不足。并且这些县份的耕地资源贫乏，如西乡县2010年人均耕地面积不到$0 . 0 5 \\mathrm { h m } ^ { 2 } / \\$ 人,低于陕西省和全国的平均水平[30],迫于生活压力,人们对周边林地资源的不合理干扰强度大,对生态环境的破坏严重,土壤侵蚀程度较高,导致生态环境的脆弱化程度明显高于其他县份。研究区北部的留坝县,EVSI值为3.00,低于研究区整体水平,脆弱性等级以中度脆弱为主,占留坝县总面积的 $9 2 . 4 4 \\%$ 。研究区其他5个县区的生态脆弱性程度相对较低，其中勉县、南郑县、洋县和城固县生态脆弱性等级以中度和轻度脆弱为主,二者占各县总面积的 $8 0 \\%$ 以上。研究区中部的汉台区虽然人口密度大,人类活动对自然环境的潜在影响力较大,但由于地处汉中盆地中心,耕地资源相对丰富,自然环境本底条件较好,加之社会经济水平相对较高,生态环境建设和保护的力度较大,生态脆弱性程度最弱,EVSI值仅为1.54,且以微度脆弱为主，占汉台区总面积的 $6 3 . 3 7 \\%$ 。整体上,随着社会经济的不断发展,汉中市已基本形成以汉台区为中心,向周边辐射的“自然环境-社会-经济”系统良性发展生态圈,各县区生态脆弱性空间分布表现出“东西部高、中部低;四周高，中间低”的特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/de11f51613d5da36e7dcbe768d2bcc6dc26b72b86bc2968d696f17aa51dd2eca.jpg",
+        "table_caption": [
+            "表7不同县区的脆弱性等级面积分布",
+            "Table7Distribution of eco-environmental vulnerability in different administrator divisions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">县名称 County</td><td colspan=\"2\">微度胎</td><td colspan=\"2\">轻度脆弱</td><td colspan=\"2\">中度脆</td><td colspan=\"2\">重度</td><td colspan=\"2\">极度脆弱</td><td rowspan=\"2\">合计 Total/ km²</td><td rowspan=\"2\">生态g胞a性综合bt数y syntheinle</td></tr><tr><td>面积</td><td>比例/%</td><td>面积</td><td>比例/%</td><td>面积</td><td>比例/%</td><td>比例/%</td><td></td><td>比例/%</td><td></td></tr><tr><td>西乡县</td><td>0.00</td><td>0.00</td><td>294.30</td><td>9.10</td><td>2000.15</td><td>61.83</td><td>面积 926.11</td><td>28.63</td><td>14.52</td><td>0.45</td><td>3235.08</td><td>3.20</td></tr><tr><td>略阳县</td><td>0.00</td><td>0.00</td><td>29.33</td><td>1.04</td><td>2177.72</td><td>77.01</td><td>620.69</td><td>21.95</td><td>0.05</td><td>0.00</td><td>2827.80</td><td>3.21</td></tr><tr><td>宁强县</td><td>0.00</td><td>0.00</td><td>8.72</td><td>0.27</td><td>1791.89</td><td>54.94</td><td>1455.53</td><td>44.62</td><td>5.66</td><td>0.17</td><td>3261.79</td><td>3.45</td></tr><tr><td>勉县</td><td>32.59</td><td>1.36</td><td>464.67</td><td>19.40</td><td>1792.22</td><td>74.82</td><td>106.05</td><td>4.43</td><td>0.00</td><td>0.00</td><td>2395.53</td><td>2.82</td></tr><tr><td>镇巴县</td><td>0.00</td><td>0.00</td><td>0.06</td><td>0.00</td><td>442.37</td><td>13.01</td><td>2448.46</td><td>71.98</td><td>510.59</td><td>15.01</td><td>3401.48</td><td>4.02</td></tr><tr><td>佛坪县</td><td>0.00</td><td>0.00</td><td>4.32</td><td>0.34</td><td>809.55</td><td>63.88</td><td>452.58</td><td>35.71</td><td>0.95</td><td>0.07</td><td>1267.39</td><td>3.36</td></tr><tr><td>留坝县</td><td>0.00</td><td>0.00</td><td>74.19</td><td>3.79</td><td>1809.26</td><td>92.44</td><td>73.79</td><td>3.77</td><td>0.00</td><td>0.00</td><td>1957.23</td><td>3.00</td></tr><tr><td>汉台区</td><td>347.13</td><td>63.37</td><td>103.55</td><td>18.90</td><td>97.10</td><td>17.72</td><td>0.04</td><td>0.01</td><td>0.00</td><td>0.00</td><td>547.82</td><td>1.54</td></tr><tr><td>南郑县</td><td>145.16</td><td>5.14</td><td>851.85</td><td>30.16</td><td>1470.14</td><td>52.04</td><td>356.93</td><td>12.64</td><td>0.74</td><td>0.03</td><td>2824.82</td><td>2.72</td></tr><tr><td>洋县</td><td>11.68</td><td>0.37</td><td>709.50</td><td>22.18</td><td>2246.76</td><td>70.23</td><td>231.36</td><td>7.23</td><td>0.05</td><td>0.00</td><td>3199.35</td><td>2.84</td></tr><tr><td>城固县</td><td>291.53</td><td>13.13</td><td>1007.08</td><td>45.37</td><td>895.91</td><td>40.36</td><td>25.22</td><td>1.14</td><td>0.03</td><td>0.00</td><td>2219.76</td><td>2.30</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3生态脆弱性空间自相关性特征",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "运用ArcGIS10.2的Fishnet工具，按 $5 0 0 \\mathrm { m }$ 的采样间隔提取汉中市生态脆弱性指数值,得到107935个样点生态脆弱度值，利用地统计学软件 $\\mathrm { G S } { + } 9 . 0$ ,利用107935个样点数据计算其半变异函数并进行函数拟合。结果表明(表8):高斯模型能真实反映汉中市各内部因素的相关性。基台值 $C _ { 0 } { + } C$ 为 2.503反映汉中生态脆弱性指数的波动变化较大， $C _ { 0 } / C _ { 0 } { + } C$ 为0.1254,属于强烈的空间自相关,说明研究区生态环境脆弱性是有自然因素和人为因素共同作用的结果,其中由随机因素引起的空间异质性占总空间异质性的 $1 2 . 5 4 \\%$ ,且主要体现在 $5 0 0 \\mathrm { m }$ 以下的小尺度上;而由空间自相关引起的空间异质性占总空间异质性的 $8 7 . 4 6 \\%$ 。研究区的变程为$7 2 . 9 2 \\mathrm { k m }$ ,表明在该变程内各区域生态环境脆弱性值存在空间相关性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "。区域化变量的变异函数不仅与间隔距离有关,而且也与方向有关。通过计算 $0 ^ { \\circ } , 4 5 ^ { \\circ } , 9 0 ^ { \\circ }$ 和 $1 3 5 ^ { \\circ }$ 等4个主要方向的变异函数,分析其函数曲线的变化,可以反映区域化变量在各个方向上的变异特征。结果表明,汉中市生态环境脆弱程度的空间异质性具有明显的各向异性特点，在 $4 5 ^ { \\circ }$ 和 $1 3 5 ^ { \\circ }$ 方向上的空间变异最大,而 $0 ^ { \\circ }$ 和 $9 0 ^ { \\circ }$ 方向上的空间变异较不明显,说明生态环境脆弱性的空间变异主要体现在 $4 5 ^ { \\circ }$ 和 $1 3 5 ^ { \\circ }$ 方向,主要原因是地形、降水、气温、地表覆盖类型、人均GDP、人口密度等因子在不同方向上存在显著的差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/42b7c96678e0a5d0b0bca59e2db94030a0be74b7d4755a4acef78eb9b0433958.jpg",
+        "table_caption": [
+            "表8汉中市生态脆弱性理论变异函数",
+            "Table 8Semi-variogram of eco-environment vulnerability in Hanzhong City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型 Model</td><td>块金值 Nugget</td><td>基台值 Sill</td><td>块金值/基台值 Nugget/Sill</td><td>变程/(m/a) Range</td><td>R²</td><td>残差 Residual sum of squares( RSS)</td></tr><tr><td>线性模型 Linear model</td><td>0.771</td><td>2.927</td><td>0.2634</td><td>127892.335</td><td>0.687</td><td>2.790</td></tr><tr><td>球状模型 Spherical model</td><td>0.001</td><td>2.487</td><td>0.0004</td><td>85600</td><td>0.955</td><td>0.404</td></tr><tr><td>指数模型 Exponential model</td><td>0.001</td><td>2.727</td><td>0.0004</td><td>126300</td><td>0.896</td><td>0.965</td></tr><tr><td>高斯模型 Gaussian model</td><td>0.314</td><td>2.503</td><td>0.1254</td><td>72919.339</td><td>0.957</td><td>0.384 D</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3主要结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "汉中市地处秦巴腹地,南依大巴山,北靠秦岭,是我国生态功能区也是经济限制发展区,更是我国南水北调中线工程的主要水源区,担负着保证足够水源和合格水质的重要作用,更承担着保持水土、减少河道泥沙淤积的作用,其生态功能的优劣,直接关系到中线工程的水质和安全运行[33]。本文基于压力-状态-响应模型框架,构建包括了人口密度、人均GDP、年均降水量、年均气温、海拔、坡度、地形起伏度、NDVI、土地利用/覆被类型和土壤侵蚀强度等10个因子的生态脆弱性评价指标体系,运用主成分分析方法,对汉中市生态脆弱性状况及其特征进行了分析，得到以下主要结论： ）",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)汉中市生态脆弱性整体处于中等偏高水平。中度脆弱等级所占面积比例最高,占研究区总面积的  \n$5 7 . 2 4 \\%$ 。汉中市生态脆弱性的形成是人类活动和自然环境的综合作用,年均气温、年均降水、人均GDP、土壤  \n侵蚀强度和海拔为主要的驱动因子。(2)汉中市生态脆弱性具有强烈的空间自相关特征,空间自相关引起的空间异质性占总空间异质性的  \n$8 7 . 4 6 \\%$ 。生态环境脆弱程度的空间异质性具有明显的各向异性特点,在 $4 5 ^ { \\circ }$ 和 $1 3 5 ^ { \\circ }$ 方向上的空间变异最大。(3)不同海拔梯度上,汉中市生态脆弱性程度最高的区域位于中山区和高中山区,以中度脆弱和重度脆  \n弱为主,二者占中山区和高中山区总面积的 $9 0 \\%$ 以上。重度脆弱主要分布在研究区东南部的大巴山区,中度  \n脆弱主要分布在研究区四周的秦岭山区和大巴山区。低山区和丘陵区生态环境质量相对较好,其中低山区以  \n中度脆弱和轻度脆弱为主，丘陵区则以轻度和微度脆弱为主。(4)不同行政区划上,汉中市西部和东部的略阳县、宁强县、佛坪县、西乡县和镇巴县5个县区脆弱性程  \n度最高,且以中度和重度脆弱为主。中部的汉台区生态脆弱性程度最弱,以微度脆弱为主。其他5个县区的  \n脆弱性程度居中。整体上,各县区生态脆弱性空间分布表现出“东西部高、中部低;四周高,中间低”的特征。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于研究区自然环境的特殊性和复杂性,社会经济发展水平的不均性,影响生态脆弱性的各主导因子之间存在复杂的耦合关系,不同空间单元的生态脆弱性主要驱动因子和驱动机制各异,导致汉中市生态脆弱性的空间分异明显。因此,针对汉中市特殊的区位特点及其生态脆弱性空间分布的异质性,在今后生态环境治理与恢复过程中,对于生态脆弱性程度较高的镇巴县、西乡县、佛坪县、略阳县和宁强县等5县区,根据其“自然环境基础差,社会经济水平低,人类活动对环境的干扰和破坏力度大”的特点,应将这些县份作为重点治理区,社会经济发展和生态环境建设与保护双管齐下,优化经济发展产业布局,通过生态补偿、生态移民等综合措施,减小人类活动对环境的破坏,控制土壤侵蚀,以提高水源地特别是汉江源头的生态环境质量。对于“自然环境基础较好,社会经济水平较高，人类活动对生态环境的建设和保护力度较大”的生态脆弱性程度较弱的汉台区及其周边的勉县、南郑县、城固县等4县区,应作为重点监督区,在社会经济不断发展的同时,协调可持续发展的人地关系,预防人类活动对生态环境的恶化。而对于生态脆弱性程度居中的留坝县和洋县,应作为重点预防保护区,控制土壤侵蚀,加强生态环境的保护力度。总体而言,汉中市作为南水北调中线水源地，其生态环境的质量直接决定着区域社会经济发展和调水工程的有效运行,今后应因地制宜、有的放矢,科学合理制定生态恢复与建设规划方案,确保汉中市社会经济与生态环境可持续发展,保障南水北调中线工程的水",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "源安全以及调水工程的长效安全运行。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1］王让会，樊自立.塔里木河流域生态脆弱性评价研究.干旱环境监测，1998，12(4)：218-223.  \n[2] 马骏，李昌晓，魏虹，马朋,杨予静,任庆水,张雯.三峡库区生态脆弱性评价.生态学报，2015，35（21)：7117-7129.  \n[3］雷波，焦峰，王志杰，刘源鑫,朱乐天.延河流域生态环境脆弱性评价及其特征分析.西北林学院学报，2013，28（3)：161-167.  \n[4］钟晓娟，孙保平，赵岩，李锦荣,周湘山,王引乾,邱一丹,冯磊.基于主成分分析的云南省生态脆弱性评价.生态环境学报，2011，20(1)：109-113.  \n[5］周嘉慧，黄晓霞.生态脆弱性评价方法评述.云南地理环境研究，2008，20(1)：55-59，71-71.  \n[6]Furlano,eveloofaldualbisfrlastalatSsiloState.Environmental Earth Sciences，2011,64(3）：659-669.  \n[7]Enea M,SalemiG.Fuzzyapproach totheenvironmentalimpact evaluation.EcologicalModeling,2001,136(2/3）：131-147.  \n8Huanginifilthe Chi-Jia-Wan Stream watershed,Taiwan.Environmental Monitoring and Assessment,2010,168(1/4)：141-158.  \n9]AbsogllJerUsiltlalbliAfrica.Applied Geography，2012,35(1/2）:515-524.  \n10]LiXJ,eGiaXeailitededdidtof the Yellow River basin，China.Applied Geography，2001,21(1）：87-106.  \n11]Gme-leesoidelfisieeloli2003，168(3)：319-341.  \n[12] 马乃喜，周文涛，孙纲.陕西汉江流域的生态环境问题及其对丹江口水库的影响.陕西环境，2003，10(6)：1-3.  \n[13] 赵佐平，闫莎，同延安，魏样.汉江流域上游生态环境现状及治理措施.水土保持通报，2012，32(5)：32-36，60-60.  \n[14] 胡宝清，金姝兰，曹少英，蒋树芳.基于GIS技术的广西喀斯特生态环境脆弱性综合评价.水土保持学报，2004，18（1）：103-107.  \n[15] 张笑楠，王克林，张伟，陈洪松,何寻阳.桂西北喀斯特区域生态环境脆弱性.生态学报，2009,29(2)：749-757.  \n[16］徐广才，康慕谊，Metzger M,李亚飞.锡林郭勒盟生态脆弱性.生态学报，2012,32（5）：1643-1653.  \n[17]ZhouXanYWagH,ZgF，uLReJsentfvionteabiltinerthsteihTibetan Plateau， China.Environmental Earth Sciences，2011,63(4）: 667-674.  \n[18] 王丽婧，郭怀成，刘永，戴永立,王吉华.邛海流域生态脆弱性及其评价研究.生态学杂志，2005，24（10)：1192-1196.  \n[19] 张德君，高航，杨俊，席建超,李雪铭.基于GIS 的南四湖湿地生态脆弱性评价.资源科学，2014，36(4)：874-882.  \n[20] 汉中市地方志编纂委员会.汉中市志.北京：中共中央党校出版社，1994：63-80.  \n[21] 雷波，焦峰，王志杰，刘源鑫，朱乐天.黄土丘陵区不同植被带典型小流域生态脆弱性评价．自然灾害学报，2013,2(5)：149-159.  \n[22] 时卉，杨兆萍，韩芳，栾福明,石天戈．自然遗产地生态脆弱性分析与评价——以托木尔区域为例.干旱区地理，2013，36(2）：318-328.  \n[23] 白景锋.南水北调中线工程水源区流域生态环境可持续发展研究.南水北调与水利科技，2005，3（2)：12-14.  \n[24] 白景锋.南水北调中线水源区生态环境保护研究.南水北调与水利科技，2006，4（S）：7-9.  \n[25] 姜雁飞，李锐，郝慧梅.汉中市近59年气候变化特征分析.干旱区资源与环境，2012，26(1)：71-74.  \n[26] 刘阳，延军平，杜继稳.1960—2009 年汉中市气候变化特征及未来趋势.气象与环境学报，2011,27（3）：45-50.  \n[27] 刘宪锋，潘耀忠，朱秀芳，李双双.2000—2014年秦巴山区植被覆盖时空变化特征及其归因.地理学报，2015，70(5）：705-716.  \n[28] 魏琦.北方农牧交错带生态脆弱性评价与生态治理研究[D].北京：中国农业科学院，2010.  \n[29］姚雄，余坤勇，刘健，杨素萍,何平,邓洋波,俞欣妍,陈樟昊.南方水土流失严重区的生态脆弱性时空演变.应用生态学报,2016,27（3)：735-745.  \n[30] 潘景璐.基于生境压力的发展对秦岭生物多样性保护影响研究[D].北京：北京林业大学，2013.  \n[31] 陈志明.论中国地貌图的研制原则、内容与方法——以1:400000全国地貌图为例.地理学报，1993，48（2）：105-113.  \n[32] 刘振东，涂汉明.中国地势起伏度统计单元的初步研究.热带地理，1989,9(1)：31-38.  \n[33] 王志杰，苏姬，王志泰.基于GIS 的汉江上游文川河流域土壤侵蚀特征研究.西北林学院学报,2016，31(1)：199-205.",
+        "page_idx": 10
+    }
+]

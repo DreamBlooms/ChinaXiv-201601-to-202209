@@ -1,0 +1,493 @@
+[
+    {
+        "type": "text",
+        "text": "Structure ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Structural Insights into the Molecular Recognition between Cerebral Cavernous Malformation 2 and Mitogen-Activated Protein Kinase Kinase Kinase 3 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphical Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Authors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/57a87976dba69cd4f919aff87a4106c440bfec38eef8841f062a68d21aae5b2b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaoyan Wang, Yanjie Hou.,, Da-Cheng Wang, Jingjin Ding ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence jding@moon.ibp.ac.cn (J.D.), dcwang@ibp.ac.cn (D.-C.W.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In Brief ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CCM2 functions as an adaptor protein thatmediatestheactivationofMEKK3 signaling in response to osmotic stress, ornegatively regulates MEKK3 signaling, which is important for normal cardiovascular development. Wang et al. reveal the structural basis governing the molecular recognition between CCM2 and MEKK3. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Highlights ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CCM2ct assembles into a global six-helix domain by   \nintramolecularinteraction   \nCCM2ct intramolecular interaction is weak   \n$M E K K 3 - \\Pi _ { \\mathsf { h e l i x } }$ is the crucial structural element for CCM2ct   \nbinding   \nThe binding of CCM2ct to MEKK3- $\\cdot n _ { \\mathrm { h e l i x } }$ resembles CCM2ct   \nintramolecularinteraction ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Structural Insights into the Molecular Recognition between Cerebral Cavernous Malformation 2 and Mitogen-Activated Protein Kinase Kinase Kinase 3 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Xiaoyan Wang,1,2 Yanjie Hou,1 Kai Deng,1,3 Ying Zhang,1 Da-Cheng Wang,1,\\*and Jingjin Ding1,\\*   \n1Nationalabatoyfomacromoleculsstituteofsicsiecadeyofensejinople'sblcf   \nChina   \n2Departmentof ClinicalOncology,Taihe Hospital,Hubei UniversityofMedicine,Hubei4420o0,People'sRepublicof China   \n3ReproductiveMedicine Center,Renmin Hospital,Hubei Universityof Medicine,Hubei 4420o0,People'sRepublicofChina   \n\\*Correspondence: jding@moon.ibp.ac.cn (J.D.), dcwang@ibp.ac.cn (D.-C.W.)   \nhttp://dx.doi.0rg/10.1016/j.str.2015.04.003 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SUMMARY ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cerebral cavernousmalformation2 (CCM2) functions asanadaptorprotein implicatedinvarious biological processes.By interacting with the mitogen-activated protein kinase MEKK3,CCM2 either mediates the activation of MEKK3 signaling in response to osmotic stress or negatively regulates MEKK3 signaling,which is important for normal cardiovascular development. However， the molecular basis governing CCM2- MEKK3 interaction is largely unknown. Here we report the crystal structure of the CCM2 C-terminal part (CCM2ct) containing both the five-helix domain $( \\mathsf { C C M 2 c t _ { s } } )$ and the following C-terminal tail. The end of the C-terminal tail forms an isolated helix,which interacts intramolecularlywith $\\mathsf { C C M 2 c t _ { s } }$ Bybiochemical studies we identified the N-terminal amphiphilic helix of MEKK3 $( M E K K 3 - n _ { \\mathsf { h e l i x } } )$ as the essential structural element for CCM2ctbinding.We further determined the crystal structure of CCM2cts-MEKK3-nnelix complex,inwhichMEKK3- $\\scriptstyle \\cdot \\mathsf { n } _ { \\mathsf { h e l i x } }$ binds to the same site of $\\mathsf { C C M 2 c t _ { s } }$ for CCM2ct intramolecular interaction. These findings buildastructural frameworkforunderstanding CCM2ct-MEKK3 molecular recognition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Adaptor proteins are an emerging group of proteins that function as essential components of cellular signal transduction involved in gene expression， protein synthesis and quality control,cell metabolism,intracellular traficking，cytoskeletonmaintenanceand rearrangement,cellularmembrane dynamics,stress and immune response (Good et al.， 2011; Pan et al.,2012). In cellular signal cascades,adaptor proteins evolve unique protein-protein and protein-ligand interaction modules to recruit their binding partners (Bhattacharyya et al.，2006；Flynn，2001)． Exploring the structural basis for adaptor-partner recognition could provide in-depth understanding of the complicated functions of related signal pathways in the cell. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cerebral cavernous malformation 2 (CCM2) was initially characterized asa critical adaptor protein formitogen-activated protein kinase (MAPK) cascade in response to osmotic stress.By bridging the upstream kinases MAPK/ERK kinase kinase 3 (MEKK3) and MAPK/ERK kinase 3 (MEK3) in the p38 MAPK phospho-relay pathway，CCM2 mediates the phosphorylation and ensuing activation of MEK3 by MEKK3,in turn activating downstream p38 MAPK and regulating cytoskeletal architecture (Uhlik et al., 2003). The gene encoding CCM2 has been identified as the second CCM-related gene (Denier et al., 2004; Liquori et al.，2003，2007). Loss-of-function mutations in CCM2 result in human cerebral cavernous malformation,a common vascular lesion of the CNS that leads to headaches,seizures, stroke,and intracranial hemorrhage (Labauge et al., 2oo7). By physically interacting with the first CCM-related gene product KRIT1 (Krev1/Rap1A Interaction Trapped 1，also known as CCM1),CCM2 is coupled to transmembrane receptor heart of glass1 (HEG1) signaling，which regulates the endothelial cell junction and maintains the vessel integrity (Kleaveland et al., 2009) and is involved in the signal pathway that inhibits small GTPase RhoA and its effector Rho kinase,consequently limiting actin stress fibers and vascular permeability (Borikova et al., 2010； Crose et al.， 2009； Stockton et al.， 2010； Whitehead et al., 2009). Moreover, CCM2 can organize a large CCM signal complex via association with both Kirt1 and the third CCMrelated gene product PDCD10 (programmed cell death 10, also known as CCM3) (Faurobert and Albiges-Rizo, 2010; Hilder et al., 2007; Voss et al., 2007; Zawistowski et al., 2005),which regulates vascular stability and growth dynamically (Rosen et al., 2013; Zheng et al., 2012). Full-length human CCM2 comprises 444 residues and adopts a two-domain architecture.The N-terminal part of CCM2 contains a canonical phosphotyrosinebinding (PTB) domain,which recognizes the NPxY/F (where x is any residue) motifs of Krit1 to perform related physiological functions (Hilder et al., 2007; Zawistowski et al., 2005). In neuroblastoma or medulloblastoma cells, the N-terminal PTB domain of CCM2 has been shown to interact with the juxtamembrane region of receptor tyrosine kinase TrkA,and the C-terminal part of CCM2 links to cell death by an unknown mechanism (Harel et al.，2oo9). Further studies indicated that germinal center kinase class Il kinase STK25 is part of TrkA-CCM2- dependent death in medulloblastoma cells through CCM2- CCM3-STK25 interactions (Costa et al., 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/519f95c8a639b7bc9f6f7c74be33dbbb7a97cf17292191bd14e05875560ed67d.jpg",
+        "table_caption": [
+            "Table1.DataCollectionandRefinementStatistics "
+        ],
+        "table_footnote": [
+            "$a _ { 5 \\% }$ of reflections are randomly selected for calculating Rfree "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\"></td></tr><tr><td></td><td>CCM2ct</td><td>CCM2cts</td><td>CCM2cts- MEKK3-nhelix</td></tr><tr><td colspan=\"4\">DataCollection</td></tr><tr><td>Space group</td><td>14,22</td><td>P6,22</td><td>P43212</td></tr><tr><td colspan=\"4\">Cell dimensions</td></tr><tr><td>a, b, c (A)</td><td>a = b = 113.30, c = 102.55</td><td>a = b = 51.36, c = 137.01</td><td>a = b = 61.21, c = 68.98</td></tr><tr><td>α, β, γ (°)</td><td>α = β= γ = 90.00</td><td>α = β = 90.00, γ = 120.00</td><td>α=β= γ = 90.00</td></tr><tr><td>Wavelength (A)</td><td>0.97916</td><td>0.97908</td><td>1.54180</td></tr><tr><td>Resolution (A)</td><td>45.41-2.70 (2.85-2.70)</td><td>37.31-1.93 (2.04-1.93)</td><td>45.78-2.10 (2.21-2.10)</td></tr><tr><td>Unique reflections</td><td>9,435 (1,351)</td><td>8,320 (1,170)</td><td>8,073 (1,092)</td></tr><tr><td>Rmerge (%)</td><td>7.7 (38.1)</td><td>4.2 (7.9)</td><td>5.5 (29.8)</td></tr><tr><td>Average I/σ(l)</td><td>23.1 (6.9)</td><td>55.5 (30.5)</td><td>31.2 (5.9)</td></tr><tr><td>Completeness (%)</td><td>99.7 (100.0)</td><td>97.3 (96.7)</td><td>99.4 (96.4)</td></tr><tr><td>Redundancy</td><td>14.3 (14.7)</td><td>21.1 (21.8)</td><td>11.0 (6.8)</td></tr><tr><td colspan=\"4\">Refinement</td></tr><tr><td>Resolution (A)</td><td>43.19-2.70 (3.09-2.70)</td><td>31.86-1.93 (2.21-1.93)</td><td>45.78-2.10 (2.40-2.10)</td></tr><tr><td>No. of reflections</td><td>9,422 (3,081)</td><td>8,320 (2,671)</td><td>8,036 (2,565)</td></tr><tr><td>Rwork/Rfree (%)a</td><td>21.90/26.67 (29.61/35.71)</td><td>20.04/23.46 (21.77/29.53)</td><td>20.33/23.72 (20.64/27.02)</td></tr><tr><td colspan=\"4\">No. of atoms</td></tr><tr><td>Protein</td><td>844</td><td>688</td><td>858</td></tr><tr><td>Water</td><td>0</td><td>74</td><td>70</td></tr><tr><td colspan=\"4\">B factors (A2)</td></tr><tr><td>Protein</td><td>67.36</td><td>26.11</td><td>29.30</td></tr><tr><td>Water</td><td>0</td><td>36.37</td><td>35.58</td></tr><tr><td colspan=\"4\">Root-mean-square deviations</td></tr><tr><td>Bond lengths (A)</td><td>0.004</td><td>0.014</td><td>0.002</td></tr><tr><td>Bond angles (°)</td><td>0.701</td><td>1.406</td><td>0.636</td></tr><tr><td>Dihedral angles (o)</td><td>14.800</td><td>14.792</td><td>13.001</td></tr><tr><td>Chirality (°)</td><td>0.045 0.002</td><td>0.087 0.007</td><td>0.040 0.002</td></tr><tr><td colspan=\"4\">Planarity (A)</td></tr><tr><td>Ramachandran plot Favored (%)</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td colspan=\"4\">Values inparentheses represent the highest-resolution shell.</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although great efforts have been made to characterize the physiological functions of CCM2，the structural basis for the functional performance of CCM2,especially for thatof its C-terminal part (CCM2ct), remains obscure.Recently,the structure of a truncated CCM2ct fragment (residues 283-379) was reported to be a five-helix compact domain (Fisher et al.，2013).This finding provides the preliminary structural informationfor CCM2ct,although the physiological significance of this structural feature has not been uncovered.Since initial characterization of CCM2-MEKK3 interaction in hyperosmotic stress signaling,further studies confirmed that CCM2-MEKK3 interactionis crucial for the activation of osmoprotective transcription factor via not p38 MAPK but phospholipase C-γ1 (Zhou et al., ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2011).Later, CCM2-MEKK3 interaction was found to be associatedwithan Arp2/3defect-induced non-autonomouseffect on chemotactic signaling through the activation of nuclear factor kB downstream (Wu et al.，2013). Most recently，CCM2- MEKK3 interaction has been demonstrated to play an important rolein endothelial cells for normal cardiovasculardevelopment. This interactionarrests MEKK3 in the CCM signal complexand inhibits MEKK3 signaling by negatively regulating endocardial expression of KLF2/4 transcription factors and ADAMTS4/5 proteases that degrade cardiac jelly (Zhou et al., 2O15). This finding revealsamolecularmechanism bywhich CCM2-MEKK3 interaction functions in cardiovascular development that mayalso underlie CCM formation. However, the molecular basis governing CCM2-MEKK3 interaction remains largely unknown.Here, we present the crystal structure of CCM2ct, the biochemical studies that identify CCM2ct-MEKK3 recognition,and the complex structure of CCM2ct with an internal helix of MEKK3. Together,these findings reveal the structural basis for the molecular recognition between CCM2ct and MEKK3,and expand our knowledge on the action mode of the important adaptor protein CCM2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "OverallStructureofCCM2ct ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although the biological functions of CCM2 imply that it adopts a two-domain architecture,the structural and functional significance of CCM2ct could not be uncovered by sequence analysis. We successfully expressed，purified,and crystallized human CCM2ct comprising C-terminal residues beyond 289 (residues 290-444). The crystal structure of CCM2ct was determined by selenium single-wavelength anomalous diffraction at $2 . 7 0 \\mathrm { - } \\mathring { \\mathsf { A } }$ in space group $1 4 _ { 1 } 2 2$ (Table 1).There is one CCM2ct molecule perasymmetric unit. Overall, CCM2ct assembles into a global six-helix domain，which contains both the truncated fragment asreported previously (named $\\mathsf { C C M 2 c t _ { s } } )$ and the following C-terminal tail. ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ consists of the tandem helices α1-α5 (residues 290-376),whereas the end of the C-terminal tail forms the isolated $\\boldsymbol { \\mathfrak { a } } \\boldsymbol { 6 }$ helix (residues 421-436) (named $\\mathsf { C C M 2 - C _ { h e l i x } ) }$ (Figure 1A). The long loop (residues 377-420) connecting $\\mathsf { C C M 2 c t _ { s } }$ and $\\mathsf { C C M } 2 \\mathsf { - c } _ { \\mathsf { h e l i x } }$ ,and the remaining residues beyond α6,are omitted in the final model due to the lack of interpretable electron density，indicative of their high intrinsic flexibility.In ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ ,the $\\alpha \\neq / \\alpha 2$ and $\\alpha \\geq / \\alpha 4$ helix pairs form two V-shape helix hairpins,bundling side by side to form the structural core of CCM2ct. The following $a 5$ and $\\boldsymbol { \\mathfrak { a } } \\boldsymbol { 6 }$ flank the clefts of $\\alpha \\beta / \\alpha 4$ and $\\alpha \\neq / \\alpha 2$ hairpins,respectively (Figure 1A).Sequence alignments among the CCM2ct homologs from different vertebrates also present high conservation of both parts of CCM2ct，but less sequence homology of the connecting loop (Figure 1B).This observation indicates that the structural feature we found in human CCM2ct is characteristic of all CCM2 homologs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IntramolecularInteractionofCCM2ct ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Structural homology searches using the Dali server (Holm and Sander,1995) reveal that the structure of CCM2ct closely resembles that of the complex between the N-terminal domain of the Usher syndrome master scaffolding protein harmonin (named harmonin-nt) and an internal helix of cadherin23 (named ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/56323138da08a703b3f6fa942c23ec623dd4de46a99d6fa66c20d3fc2e2deee0.jpg",
+        "img_caption": [
+            "Figure1.Structural OverviewofCCM2ct (A) Overall structure of CCM2ct in cartoon scheme as viewed from the front (left) and the side (right). Secondary structure elements are labeled.The long loop connecting ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ and CCM2- $\\cdot \\mathsf { c } _ { \\mathsf { h e l i x } }$ .s shown as a dotted line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(B) Sequence alignment among the CCM2ct homologs fromdifferent vertebrates.Strictly conserved residuesare highlighted with a red background.Similar residues are colored in light red. Secondary structures of human CCM2ct are schematicallyrepresentedabove the sequences. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fdae5136e3d36e2b94d17f86fdf2471575bdb364ff9df8adbb6a518737069347.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1eb9efb022e4f3c25a296728b1ec044fe5fc3af1a997c87edf407f90d669984a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "the structure of CCM2ct, the $\\alpha \\neq / \\alpha 2$ angle is about $4 2 ^ { \\circ }$ and the side chain of $\\mathsf { A r g } 3 2 6$ takes a frizzy conformation to accommodate $\\mathsf { C C M 2 - C _ { h e l i x . } }$ However，inthe structure of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ ，the $\\alpha \\neq / \\alpha 2$ angle decreases to $3 2 ^ { \\circ }$ and the side chain of $\\mathsf { A r g } 3 2 6$ changes to an extended conformation,covering the $\\alpha \\neq / \\alpha 2$ cleft (Figure 2E).To investigate whetherthe intramolecularinteractionobservedin the structure of CCM2ct is metastable in solution,a CCM2 peptide (residues 417- 438) containing $\\mathsf { C C M 2 - c } _ { \\mathsf { h e l i x } }$ was synthetized,and its bindingaffinity to ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ wasmeasured by isothermal titration calorimetry (ITC) assay (Figure 3A). Data cadherin23helix)，giving a Z score of 10.2. Superimposing the structure of CCM2ct on that of harmonin-nt-cadherin23helix complex yields a root-mean-square deviation of 2.0 A for $7 8 \\ \\mathsf { C } \\mathsf { a }$ atoms and shows that CCM2cts and $\\mathsf { C C M 2 - c } _ { \\mathsf { h e l i x } }$ are well aligned onto harmonin-nt and cadherin $2 3 _ { \\mathrm { h e l i x } }$ ,respectively (Figure 2A). In the structure of harmonin-nt-cadherir $1 2 3 \\mathrm { _ { h e l i x } }$ complex, the $\\alpha \\neq / \\alpha 2$ hairpin of harmonin-nt preforms a hydrophobic cleft to accommodate cadherin23nelix，resulting in tight binding between the two proteins (Pan et al.,20o9).Both structural superimposition and structure-based sequence alignment indicate that the residues forming the $\\alpha 1 / \\alpha 2 V$ -shaped hydrophobic cleftof ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ are highly conserved with those of harmonin-nt (Figure 2B; Figure S1). Similar to cadherin $2 3 _ { \\mathrm { h e l i x } }$ in the complex, $\\mathsf { C C M 2 - c } _ { \\mathsf { h e l i x } }$ is folded into a typical amphiphilic helix,with the hydrophobic face(composed of residues Met424,Ile425,Ile428, Ile432,and Leu435) embedded into the $\\alpha \\neq / \\alpha 2$ hydrophobic cleftof ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ (Figure 2C). In addition，Asp431 in $\\mathsf { C C M 2 - c } _ { \\mathsf { h e l i x } }$ forms two hydrogen bonds with the side chains of His323 and Arg326 in $\\boldsymbol { \\mathfrak { a } } 2$ ,serving as the supplement of CCM2cts-CCM2-Chelix interactions (Figure 2C). These structural observations suggest that CCM2ct intramolecular interaction between ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ and $\\mathsf { C C M } 2 \\mathsf { - c } _ { \\mathsf { h e l i x } }$ is analogous to harmonin-nt-cadherin $2 3 _ { \\mathrm { h e l i x } }$ binding.To verify that the major fragment $\\mathsf { C C M 2 c t _ { s } }$ is a stable structural module like harmonin-nt,we also constructed,expressed, and crystallized ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ (Table 1).The solved structure of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ is highly similar to that of harmonin-nt，consistent with the observation of a previous report (Fisher et al.,2013). Upon superimposing the structures of $\\mathsf { C C M 2 c t _ { s } }$ and CCM2ct, $\\mathsf { C C M 2 c t _ { s } }$ overlaps well with its counterpart in CCM2ct except for a slight deviation of the $\\alpha \\neq / \\alpha 2$ V-shaped cleft (Figure 2D). In fitting yields a dissociation constant $( K _ { \\mathrm { d } } )$ of $8 2 . 0 ~ \\mu \\mathsf { M }$ between ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ and CCM2 peptide，suggesting that the ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ $\\mathsf { C C M 2 - C _ { h e l i x } }$ intramolecular interaction is weak. Binding of CCM2 peptide to CCM2ct was not detected by ITC measurement (Figure 3B).This result indicates that CCM2ct intramolecular interaction playsacompetitive role in recruiting other targets. Next, the molecular mass of CCM2ct in solution was determined byanalytical ultracentrifugation.The result shows a dominant peak with mean value of 1 $1 7 , 8 5 9 \\pm 7 6 1$ Da,which is very close to theoretical 18,463 Da of CCM2ct, demonstrating the monomeric state of CCM2ct in solution (Figure 3C). This observation implies that CCM2ctdoesnot form stable dimers oroligomers by mutual interaction between ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ and $\\mathsf { C C M 2 - c } _ { \\mathsf { h e l i x } }$ ，which also suggests that CCM2ct intramolecular interaction is weak. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CCM2ctDirectlyInteractswithMEKK3N-TerminalHelix ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The striking structural similarity between CCM2ct and harmoninnt-cadherin23helix complex,in addition to the weak CCM2ct intramolecular interaction,prompt the speculation that the $\\alpha \\neq / \\alpha 2$ hydrophobic cleft of CCM2ct could act as a potential binding sitefor CCM2 partner recruitment.The initial characterization of CCM2 showed that CCM2ct is the direct target of MEKK3 (Uhlik et al.,2oo3).Sequence and secondary structure analyses reveal thatMEKK3containsan isolatedhelixat its Nterminus (residues 3-17,named $M E K ( 3 - n _ { \\mathsf { h e l i x } } )$ ，closely resembling the CCM2-Chelix (Figure 4A). To determine whether $M E K K 3 - \\cap \\limits _ { n \\in \\pi }$ is directly recognized by CCM2ct,aMEKK3 peptide (residues 1- 22) comprising MEKK3-nhelix was synthesized,and its binding affinity to CCM2ctand ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ measured by surface plasmon resonance (SPR) experiments (Figure 4B).The $\\boldsymbol { K } _ { \\mathrm { d } }$ between ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A B 1357 cadherin23helix 166 Y325 F356 Y33 L435 L65 L299 162 _353 L322 14321357 ￥25 R326 A6 L30 F356 D431 Y302 F318 L299 L 53 L322 F9 L26.02 14Y302 142819 H323 α1 Y27 CCM2ct 135M424 harmonin-nt α6   \nD E CCM2cts R326 R326 420 32° α1 α2 CCM2ct CCM2ct cleft CCM2cts cleft (A) Structural superimposition of CCM2ct and harmonin-nt-cadherin23helix complex.   \n(B) Structural superimposition of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ and harmonin-nt.The conserved hydrophobic residues forming the $\\propto 1 / \\alpha 2$ cleft of ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ and their counterparts in harmonin-nt are shown as stick models.   \n(C) Close-up view of the intramolecular interaction of CCM2ct. ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ and $\\mathsf { C C M 2 - C _ { h e l i x } }$ are represented as surface and ribbon models,respectively.The hydrophobic residues forming the $a 1 / \\alpha 2$ cleft are labeled and colored yellow.The hydrophobic residues on CCM2- $\\cdot \\mathbf { c } _ { \\mathrm { h e l i x } }$ are labeled and shown as stick models. Hydrogen bonds are shownas black dashes,andthe involved residues are also shownas bal-and-stick models.   \n(D) Structural superimposition of isolated ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ and its counterpart in CCM2ct.   \n(E) Structural scheme of the variability of $\\alpha \\neq / \\alpha 2$ cleft and conformational change of $\\mathsf { A r g } 3 2 6$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MEKK3 peptideand CCM2ct or ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ are 9.59 and $3 . 2 5 \\mu \\mathsf { M }$ respectively,an orderof magnitude lower than that of CCM2ct intramolecular interaction，which indicates that both CCM2ct and ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ were able to tightly bind to $M E K K 3 - \\mathsf { n } _ { \\mathsf { h e l i x } }$ due to the much higher afinity of the binding site to $M E K K 3 - \\cap \\limits _ { n = 1 } { \\cdot }$ than to $\\mathsf { C C M 2 - c _ { h e l i x } }$ .To further confirm that $M E K K 3 - \\cap \\limits _ { \\mathsf { h e l i x } }$ is the crucial structural element for CCM2ct-MEKK3 recognition in a protein context, two N-terminal fragments of MEKK3 were constructed and expressed.One comprises residues1-126 (named MEKK3nt), including $M E K K 3 - \\mathsf { n } _ { \\mathsf { h e l i x } }$ ,the MEKK3 N-terminal Phox and Bem1p (PB1) domain,and the connecting loop.The other consists of residues 42-126,only containing MEKK3 N-terminal PB1 domain (named $\\mathsf { M E K K 3 n t _ { s } } )$ .Ni pull-down assays indicate that both CCM2ct and ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ arrest MEKK3nt but not MEKK3nts in vitro (Figure S2). In accordance with pull-down results,the binding affinities between MEKK3nt and CCM2ct or ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ can be determined by SPR measurements,whereas those between MEKK3nts and CCM2ct or $\\mathsf { C C M 2 c t _ { s } }$ are not detectable (Figure 4C; Figure S3). The $\\boldsymbol { K } _ { \\mathrm { d } }$ between ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ andMEKK3nt is only 7-fold lower than thatbetween CCM2ct and MEKK3nt (Table 2), implying that the competitive role of $\\mathsf { C C M 2 - C _ { h e l i x } }$ in CCM2ct-MEKK3 intermolecular interaction is limited.These observations further confirm that CCM2ct intramolecular interaction is weak compared with CCM2ct-MEKK3 intermolecular interaction. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Structural Determinants Governing CCM2ct-MEKK3 Recognition ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Toexplore the structural basis for CCM2ct-MEKK3 recognition, we determined the crystal structure of CCM2cts-MEKK3-nelix complex by co-crystallization.The complex structure was solved at $2 . 1 0 \\dot { - } \\dot { \\mathsf { A } }$ resolution by molecular replacement using the structure of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ as model (Table 1).The unambiguous electron density helped us build the $M E K K 3 - n _ { h e l i x }$ model precisely (Figure S4). Each asymmetric unit contains one ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ MEKK3-nnelix Complex.The overall structure of the complex is highly similar to that of CCM2ct (Figure 5A). $M E K K 3 - \\mathsf { n } _ { \\mathsf { h e l i x } }$ adopts anamphiphilically helical conformationand binds into the $\\alpha \\neq / \\alpha 2$ hydrophobic cleft of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ .Residues Leu7, Ile10,Leu14,and Leu17 on the hydrophobic face of $M E K K 3 - \\mathsf { n } _ { \\mathsf { h e l i x } }$ flank the hydrophobic cluster in the $\\alpha \\neq / \\alpha 2$ cleft of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ ，similarlyto their counterparts of $\\mathsf { C C M 2 - c } _ { \\mathsf { h e l i x } }$ in CCM2ct intramolecular interaction (Figure 5B). Inaddition, the conserved Asp13,corresponding to Asp431 of $\\mathsf { C C M 2 - C _ { h e l i x } }$ ,forms hydrogen-bond interactions with His323 and $\\mathsf { A r g } 3 2 6$ of $\\boldsymbol { \\mathfrak { a } } 2$ similar to those in CCM2ct intramolecular interaction (Figure 5B). From a structural viewpoint, CCM2ct employs the $\\alpha \\neq / \\alpha 2$ Cleft to recruit MEKK3-nnelix inthe manner analogous to CCM2ct intramolecular interaction.The variability of the $\\alpha 1 / \\alpha 2$ cleft is also observed in the CCM2cts-MEKK3-nhelix complex.When superimposing the ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ in the complex with its counterpart in CCM2ct, the main deviation occurs in the $\\alpha \\neq / \\alpha 2$ cleft. The $\\alpha \\neq / \\alpha 2$ angle of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ enlarges more for accepting $M E K K 3 - \\mathsf { n } _ { \\mathsf { h e l i x } }$ than for accommodating CCM2- $\\cdot c _ { \\mathrm { h e l i x } }$ (Figure 5C). As a result, MEKK3-nnelix is embedded deeper into the $\\alpha \\neq / \\alpha 2$ cleft than the $\\mathsf { C C M 2 - C _ { h e l i x } } ,$ （ contributing to closer hydrophobic contact (Figure 5D).In-depth inspection reveals that the non-conserved residues at both termini of $M E K K 3 - \\mathsf { n } _ { \\mathsf { h e l i x } }$ form extensive interactions with the α1/ $\\scriptstyle { \\mathfrak { a } } 2$ cleft of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ ,conferring the specific recognition between $\\mathsf { C C M 2 c t _ { s } }$ and $M E K K 3 - n _ { h e l i x }$ .At the N terminus,the long side chains of Trp421and Met424 of $\\mathsf { C C M 2 - C _ { h e l i x } }$ hinder the insertion of conserved Ile425 and distance the N terminus of CCM2-Chelix from the $\\alpha \\neq / \\alpha 2$ turn.However，Glu3 in $M E K K 3 - \\mathsf { n } _ { \\mathsf { h e l i x } } ,$ corresponding to Trp421 in $\\mathsf { C C M 2 - c } _ { \\mathsf { h e l i x } }$ ，interacts with Ser312 of the $\\alpha \\neq / \\alpha 2$ turn by a hydrogen bond,and Ala6 in MEKK3-nnelix substitutes Met424 in the $\\mathsf { C C M 2 - c _ { h e l i x } }$ . Both residue variations ablate the steric hindrance,and render the Leu7 of MEKK3-Nnelix (corresponding to Ile425 in $\\mathsf { C C M 2 - C _ { h e l i x } } )$ embedded into the $\\alpha \\neq / \\alpha 2$ cleft and clamped by the aliphatic portion of the side chain of $\\mathsf { A r g 3 0 7 }$ in $\\boldsymbol { \\mathfrak { a } } \\boldsymbol { 1 }$ and hydrophobic Ile315 in α2 (Figure 5E). At the C terminus,Three non-conserved hydrophobic residues of $M E K K 3 - n _ { h e l i x }$ ,Met11,Val15,and Met19,contribute additional hydrophobic interactions with Leu291 in the preceding N-terminal loop and Leu299 in α1 of ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ ， generating a round of extension of α1 at the N terminus (Figure 5F). Point mutations on the residues involved in the CCM2ct-MEKK3-nnelix intermolecularinteraction further confirm the structural determinants governing CCM2ct-MEKK3 recognition.On mutating either of the four crucial hydrophobic residues (Leu7, Ile10,Leu14,and Leu17) to charged Asp or substituting the conserved Asp13 to Ala in MEKK3，the binding between CCM2ct and MEKK3nt was completelyabolished (Table 2),suggesting theirdeterminative roles in CCM2ct-MEKK3 recognition.Mutation of the nonconserved Glu3 of MEKK3 to Ala induced only 2-fold reduction of the binding affinity between CCM2ct and MEKK3nt, indicating itsauxiliary roles in CCM2ct-MEKK3 recognition (Table 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/909a4fbe8eea7ff256737ad4932b5417d39a43fe04e4445398bc34c5d85222f4.jpg",
+        "img_caption": [
+            "Figure 3. Biochemical Characterizationof CCM2ct Intramolecular Interaction (A) Profile of the titration of ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ to synthetized CCM2 peptide as measured by ITC.The binding parameters are indicated. (B) Profile of the titration of CCM2ct to synthesized CCM2 peptide as measured by ITC. (C) The molar mass profile of CCM2ct as determined by analytical ultracentrifugation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this work,we discovered that CCM2 contains a well-folded adaptor domain at its C terminus.Although CCM2ct exhibits considerable structural homology with the N-terminal proteinprotein interaction domain of the Usher syndrome master scaffolding protein harmonin,it presents unique structural features different from harmonin-nt. CCM2ct comprises both the structural module $\\mathsf { C C M 2 c t _ { s } }$ corresponding to harmonin-nt,and the C-terminal structural element corresponding to the binding target of harmonin-nt.The two parts of CCM2ct could assemble into an integrated domain by intramolecular interactionanalogous to the mechanism by which harmonin-nt binds to its target,a short internal helix of cadherin23.However,unlike the intermolecular interaction between harmonin-nt and cadherin23,which is strong and metastable，CCM2ct intramolecular interaction is weak. These structural distinctions between CCM2ctand harmonin-nt are functionally relevant.As the masterscaffold protein of Usher protein complexes，harmonin interacts with cadherin23 firmly, (A)Domain schematic diagram of CCM2 and MEKK3 along with the sequence alignment of $\\mathsf { C C M 2 - C _ { h e l i x } }$ and $M E K K 3 - n _ { h e l i x }$ The conserved residues in both helices are highlighted.PTB, phosphotyrosine-binding domain;PB1,Phox and Bem1p domain;KD, kinase domain. (B)SPR sensorgram indicating the titrations of CCM2ct and ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ by synthesized MEKK3 peptide at different concentrations. (C)SPR sensorgram indicating the titrations of CCM2ct by MEKK3nt and $\\mathsf { M E K K 3 n t _ { s } }$ at different concentrations. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A CCM2-Chelix 421 435   \nN-PTB CTs WDRMISDISSDIEAL-C N-EQEALNSIMNDLVAL PB1 KD-C 3 17 MEKK3-Nhelix   \nB CCM2ct-MEKK3peptide CCM2cts-MEKK3peptide 120 0.20μM 120 0.20μM 100- 0.39μM 100- 0.39μM 0.78μM 0.78μM   \n8 1.56μM 80 1.56μM   \n)rseodsse 04 28M 25.0μM horoeeee 6040 3234M 25.0μM 20 20- 01 Ftss 0- -20- -20 6080 100120140160180200 6080 100120140160180200 time (s) time (s)   \nC CCM2ct-MEKK3nt CCM2ct-MEKK3nts 807060504030201000 0.156 μM 10 2.5.M   \n(rr) esuodsss 12 (Uu) -10 5.00μM reuodese -20- -30- -40- -50 0 100 200 300 400 0 40 80 120 160 time (s) time (s) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "sible for CCM2ct-MEKK3 recognition. The structure of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ -MEKK3-nnelix complex solved in this study providesa precise molecular basis for CCM2ctMEKK3 recognition.To recruit MEKK3 for signal transduction, $\\mathsf { C C M 2 c t _ { s } }$ employs the potential binding site to accept $M E K K 3 - \\Pi _ { \\mathsf { h e l i x } }$ in a manner resembling CCM2ct intramolecular interaction.The specific sequences of $M E K K 3 - \\mathsf { n } _ { \\mathsf { h e l i x } }$ introduce more extensive interactions with ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ than those of $\\mathsf { C C M 2 - c } _ { \\mathsf { h e l i x } }$ therefore giving rise to greater stability of CCM2cts-MEKK3-Nnelix intermolecular interaction than that of CCM2ct intramolecular interaction.The resulting CCM2- MEKK3 interaction builds a molecular platform for regulating MEKK3 signaling. When the cellis under dangerous conditionssuch asosmotic stress, CCM2-MEKK3 interaction facilitates the recruitment and activation of a downgoverning the functional tip links of hair cells (Pan et al., 2009). Therefore the binding site of harmonin-nt for cadherin $2 3 _ { \\mathsf { h e l i x } }$ is pre-formed and unoccupied，and breaking this interaction causes dysfunction.CCM2 isanadaptor protein.Protein-protein interactions between CCM2 and its partners respond to diverse physiological conditions and are achieved precisely in time and space.This requires CCM2 to be able to switch between the resting state and the acting state,similarly to other adaptor proteins.Hence，in its resting state CCM2 evolves CCM2-Cnelix, which could occupy the potential binding site of CCM2ct by intramolecular interaction,playing a competitive role in undesirableintermolecular interaction.Moreover,CCM2ct intramolecularinteraction is intrinsically weak and makes available the potential binding site forappropriate partners.On sensing the upstream signals, the structural element analogous to CCM2-Chelix in the partners could occupy the binding site of CCM2ct with much higher binding affinity,resulting in CCM2 acting in a partner-recruitment state and transmitting signals downstream. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Following rational deduction we focused on MEKK3,the first and important partner of CCM2,and mapped the N-terminal isolated helix of MEKK3 as the essential structural element responstream signaling component of MEKK3 signaling,in turn helping the cell to generate a protective response (Uhlik et al.， 2003; Zhou etal.,2011).However,during cardiovascular development, increased MEKK3 signaling in endothelial cells is harmful because MEKK3 up-regulates endocardial expression of the KLF2/4 transcription factors and ADAMTS4/5 proteases that degradecardiac jelly,the important extracellularmatrix inthe developing heart.Therefore,endothelial CCM2-MEKK3 interaction captures MEKK3 to the efficient CCM signal complexand inhibits MEKK3 activity by an unknown mechanism during normal cardiac development (Zhou et al.,2015).Our findings build an elegant structural framework forunderstanding CCM2-MEKK3 interaction.Thediscovered CCM2ct $\\mathbf { \\dot { s } }$ -MEKK3-Nnelix intermolecularinteraction raises the possibility that the other parts of CCM2,including the N-terminal part and the released CCM2- $\\mathsf { c } _ { \\mathsf { h e l i x } }$ ,could recruit other partners that regulate MEKK3 signaling in opposite directions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is well known that adaptor proteins perform their functions viaprotein-protein interactions.Two types of protein-protein interactionsare characterized bymostadaptor proteins,the first of which is homotypic interaction between the interacting modules. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e53f31c73101c1db0fa12db630959c6732097c7f3c7ce129cff1b289c4b883e.jpg",
+        "table_caption": [
+            "Table2.Kineticsand Affinity Constants forWild-Typeand MutantMEKK3ntProteinsBindingtoCCM2ctorCCM2cts "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Association Rate,ka</td><td>Dissociation</td><td>Binding</td></tr><tr><td>Protein MEKK3nt-CCM2ct</td><td>(M-1s-1) 2.37 × 104</td><td>Rate, ka (s-1) 5.01 × 10-3</td><td>Affinity, Ka (M) 2.11 × 10-7</td></tr><tr><td>MEKK3nt-CCM2cts</td><td>4.90 × 104</td><td>1.44 × 10-3</td><td>2.93 × 10-8</td></tr><tr><td>MEKK3nts-CCM2ct</td><td>ND</td><td>ND</td><td>ND</td></tr><tr><td>MEKK3nts-CCM2cts</td><td>ND</td><td>ND</td><td>ND</td></tr><tr><td>MEKK3nt-E3A-CCM2ct</td><td>9.94 × 10³</td><td>5.15 × 10-3</td><td>5.18 × 10-7</td></tr><tr><td>MEKK3nt-L7D-CCM2ct</td><td>ND</td><td>ND</td><td>ND</td></tr><tr><td>MEKK3nt-I10D-CCM2ct</td><td>ND</td><td>ND</td><td>ND</td></tr><tr><td>MEKK3nt-L14D-CCM2ct</td><td> ND</td><td>ND</td><td>ND</td></tr><tr><td>MEKK3nt-L17D-CCM2ct</td><td> ND</td><td>ND</td><td>ND</td></tr><tr><td>ND, not detectable.</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The homologous structural modules are present in both the adaptor and its binding partners,and mediate the recruitment of partners by adaptor proteins.Members of the death domain superfamily typicallyadopt this type of interaction (Park et al., 2007).The other type is sequence motif recognition by the interacting modules,whereby the unique structural modules of adaptor proteins recognize and bind to the specific motifs in its binding partners,giving rise to the tight binding betweenadaptor and partner proteins.Src-homology 2 (SH2) domain-containing proteins are the most widely known examples of this type of interaction (Songyang et al., 1993). Structural studies on another CCM protein, CCM3,from our and other groups revealed that the N-terminal domain of CCM3 is not only a novel dimerization domain but also a structural module mediating the homotypic interaction with germinal center kinase Ill (GCKll) proteins (Ding et al., 2010; Li et al., 2010; Xu et al., 2013; Zhang et al., 2013)．These findings classify CCM3 as the adaptor protein featuring the first type of interaction.In this study,our findings on CCM2ct intramolecular interaction and CCM2ct-MEKK3 recognition uncover aharmonin-nt-like structural module ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ at the C terminus of CCM2，and define a novel sequence motif L/lxxL/lxxDL/lxxL/l (where x is any residue), which is folded into an isolated amphiphilic helix and specifically recognized by ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ .Based on these findings,we may categorize CCM2 as the adaptor protein adopting the second type of interaction.Moreover, CCM2 isamultifunctional adaptor protein through its interaction with different partners.The molecular recognition between CCM2ct and MEKK3 provides a sound structural basis for further investigations on whether CCM2 could interactwith other partners inamanner similar to that for recognizing MEKK3. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Escherichia coli BL21 (DE3) cells (Novagen) harboring the recombinant plasmids were grown in LB medium supplemented with $1 0 0 ~ \\mu \\ g / \\mu \\mu$ ampicillin at $3 1 0 ~ \\mathsf { K }$ until the ${ \\tt O D } _ { 6 0 0 }$ of the culture reached O.8.The proteins were then expressed for3 hrat $3 1 0 \\mathsf { K }$ after induction with $0 . 2 5 \\mathsf { m M }$ isopropyl- ${ \\bf \\beta } \\cdot { \\bf \\{ \\beta \\} }$ -D-thiogalactoside.Cell pellets expressing recombinantMEKK3nt or $\\mathsf { M E K K 3 n t _ { s } }$ were harvested and lysed by sonication in lysis buffer $5 0 ~ \\mathsf { m M }$ phosphate saline [pH8.0], $3 0 0 \\mathsf { m M }$ sodium chloride, $1 0 \\mathsf { m } \\mathsf { M }$ imidazole,and $1 0 \\mathsf { m } \\mathsf { M } \\beta$ -mercaptoethanol).After centrifugation,the soluble proteins were first purified using an NiNTA chromatography column (Novagen).The thioredoxin and ${ \\mathsf { H i s } } _ { 6 }$ tagswere cleaved with PreScission protease overnight after buffer exchange with lysis bufer. Subsequently,the untagged proteins were again passed through an Ni-NTA chromatography column to deplete the thioredoxin and ${ \\mathsf { H i s } } _ { 6 }$ tags. MEKK3nt and $\\mathsf { M E K K 3 n t _ { s } }$ were further purified by size-exclusion chromatographyusinga Hiload 16/60 Superdex 75 column (GE Healthcare) in buffer (20 mM HEPES [pH7.5], $1 5 0 ~ \\mathsf { m M }$ sodium chloride).The CCM2 peptide (residues 417-438) and MEKK3 peptide (residues 1-22) were synthesized by Scilight-Peptide Inc.(Beijing, China).The mutants of MEKK3ntwere generated by site-directed mutagenesis using the wild-type vector as the template,and confirmed by DNA sequencing.The expressed and purified procedure for the mutant proteins was the same as that for wild-type proteins. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Crystallization, Data Collection,and Structure Determination ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Crystallization and data collection for CCM2ct were as previously described (Wang et al.,2012). ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ crystals were grown by the sitting-drop vapor diffusion methodat 293Kwith2-μl drops containing $1 \\mu |$ of protein solution and1 μl of reservoirsolutionequilibrated over $8 0 \\mu \\mu \\mu$ of reservoir solution.The qualified crystals were obtained in the reservoir buffer containing 0.1MBis-Tris $( \\mathsf { p H } 6 . 5$ 一 $30 \\%$ (w/v) polyethylene glycol 550,and $5 0 \\mathsf { m } \\mathsf { M }$ calcium chloride within 3-4 days,and soaked in a cryoprotecting solution containing reservoir buffer in addition with $10 \\%$ (v/v) glycerol before being flash-frozen with liquid nitrogen for data collection. Co-crystallization of ${ \\mathsf { C C M 2 c t _ { s } } }$ with MEKK3 peptide was performed by the sitting-drop vapor diffusion method at $2 9 3 \\mathsf { K }$ using the mixture of ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ and dissolved MEKK3 peptide at a molar ratio of 1:3.The complex crystals were obtained in the reservoir buffercontaining $3 . 5 \\mathsf { M }$ sodium formate $\\left( \\mathsf { p } \\mathsf { H } \\ 7 . 0 \\right)$ within $2 4 ~ \\mathsf { h r }$ ，and soaked in paraffin oil as a cryoprotecting solution before being flash-frozen with liquid nitrogen for data collection.Diffraction data of ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ were collected atthe Shanghai Synchrotron Radiation Facility(Shanghai, China), and that of CCM2cts-MEKK3- $\\cdot \\mathsf { n } _ { \\mathsf { h e l i x } }$ complex was collected on a Rigaku FR-E diffraction system using a Rigaku R-Axis $\\mathsf { N } { + } { + }$ imageplatedetectorat $4 0 ~ \\mathsf { k V }$ and $4 0 \\mathsf { m A }$ Both data were processed with IMOSFLM and scaled with SCALA from the CCP4 program suite (Dodson et al.,1997). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Phase determination and automatic model building of CCM2ct were performed using the PHENIX program suite (Adams et al.,2010).The rest of the model was manually built with Coot (Emsley et al.,2010).The structures of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ and CCM2cts-MEKK3- $\\cdot \\mathsf { n } _ { \\mathsf { h e l i x } }$ complex were both determined by molecular replacement with PHASER of the CCP4 program suite using the truncated CCM2 structure as a search model.All the structures were refined with PHENIX,and manual modeling was performed between refinement cycles.The statistics of data collection and refinement are summarized in Table 1. The quality of the final model was validated by MolProbity (Chen et al.,2010). Sequence alignments were generated using ClustalW (Chenna et al., 2003), and the sequence alignment figures were produced using ESPript (Robert and Gouet,2014).All other figures were rendered in PyMOL (http://www. pymol.org). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The atomic coordinates and structure factors for CCM2ct, $\\mathsf { C C M 2 c t _ { s } }$ and CCM2cts-MEKK3- $\\mathsf { \\cdot n } _ { \\mathsf { h e l i x } }$ complex (PDB: 4YKC,4YKD,4YL6) have been deposited in the PDB of the Research Collaboratory for Structural Bioinformatics, Rutgers University (http://www.rcsb.org/). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cloning, Expression,and Purification ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CCM2ct (residues 290-444) was constructed,expressed,and purified as previously described (Wang et al.,2012).The same procedure was applied to obtain purified ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ (residues 290-376).Both MEKK3nt (residues 1-126) and MEKK3nts (residues 42-126) were subcloned into a modified pET-32a(+） vector with a thioredoxin tag，a ${ \\mathsf { H i s } } _ { 6 }$ tag，and a PreScission protease site at the N terminus to facilitate protein folding and purication. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ITC Assay ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ITC experiments were performed at $2 9 8 \\mathsf { K }$ using an ITC200 (GE Healthcare). The CCM2 peptide was dissolved in the buffer containing $2 0 ~ \\mathsf { m M }$ HEPES (pH 7.5)，150 mM NaCl，and 5 mM DTT.CCM2ct and ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ proteins wereexchanged to the same bufferfor titration. $3 . 2 \\mathsf { m M } \\mathsf { C C M 2 c t _ { s } }$ or $2 . 1 ~ \\mathsf { m M }$ CCM2ctwas titrated into the cell containing 0.13 mMor 0.1mM CCM2 peptide with $2 \\mu \\mu \\mu$ per injectionseparated by $\\boldsymbol { 1 2 0 \\mathsf { s } }$ Atotal of 20 injectionswere delivered.The binding parameters were calculated using Microcal Origin 7.0 software. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A B C MEKK3-nhelix   \n垫 L17 华 L435 M R326 L14 1432 α1 D13 H323 D431 L7 110 α2 1425 1428 CCM2-Chelix MEKK3-Nhelix   \nD CCM2-Chelix E M19 MEKK3-nnelix L291 N 1425 M424 X W421 A6 R307 L7 E3 V15 α1 1315 α2 L299 α1 S312 M11 oee aisu riyuie 04.   \n(A) Overall structure of CCM2cts-MEKK3 $\\mathsf { n } _ { \\mathsf { h e l i x } }$ complex in cartoon scheme.   \n(B) The conserved interactions between the $\\propto 1 / \\alpha 2$ cleft of ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ and MEKK3- $\\cdot \\mathsf { n } _ { \\mathsf { h e l i x } }$ ： ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ is represented as electrostatic potential surface with the coloration from red to blue for negatively to positively charged regions.CCM2- $\\mathsf { \\cdot c } _ { \\mathsf { h e l i x } }$ is superimposed onto MEKK3- $\\cdot \\mathsf { n } _ { \\mathsf { h e l i x } }$ .The residues involved in conserved interactions are labeled and shown as stick models. Hydrogen bonds are shown as black dashes.   \n(C) Structural superimposition of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ in complex and its counterpart in CCM2ct.   \n(D) Structural superimposition of the $\\alpha \\leq 1 / \\alpha 2$ cleft of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ with its binding target.The conserved hydrophobic residues embedded in the cleft are shown as stick models.   \n(E and F) Close-up views of the specific interactions between both MEKK3- $\\mathsf { n } _ { \\mathsf { h e l i x } }$ terminus and the α1/α2 cleft of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Analytical Ultracentrifugation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sedimentation velocity measurement was performed on CCM2ct.The sample was loaded at the concentration yielding initial $A _ { 2 8 0 }$ values of 0.8. Ultracentrifugation was performed at $2 9 8 \\mathsf { K }$ in buffer containing $2 0 ~ \\mathsf { m M }$ HEPES (pH 7.5) and 150 mM NaCl using an Optima XL-l analytical ultracentrifuge (Beckman Instruments,Palo Alto, CA)with an An50-Ti rotor.The sample was run for $8 \\mathsf { h r }$ at a rotor speed of 60,oo0 rpm.The data were analyzed according to the concentration (M) method using the SEDFIT software package. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Pull-down Assay ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Ni-NTA beads pre-equilibrated with lysis buffer were coated with excess purified CCM2ct-His6 or CCM2cts-His6 proteins and incubated with equimolar MEKK3nt or MEKK3nt for 30 minat 277K.The beads were thenwashed three times using lysis buffer,and the unbound proteins collected.The proteins bound on the beads were eluted by lysis buffer supplemented with $3 0 0 ~ \\mathsf { m M }$ imidazole.All the protein samples including the inputs were analyzed by SDS-PAGE. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SPR Kinetic Assay ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SPR experiments were carried out at $2 9 8 ~ \\mathsf { K }$ using a Biacore 30o0 optical biosensor equipped with a CM5 sensor chip.A running buffer containing $2 0 ~ \\mathsf { m M }$ HEPES (pH 7.5), $1 5 0 \\mathrm { \\ m M \\ N a C l }$ ，and $0 . 0 0 5 \\%$ (v/v) Tween-20 was used for all measurements.A total of 3,200 response units (RU) of CCM2ct and1,075 RU of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ were immobilized on the chip prior to blockade with ethanolamine in reaction to the MEKK3 peptide.270 RU of CCM2ct and $1 3 7 \\mathsf { R U }$ of ${ \\mathsf { C C M } } 2 { \\mathsf { c t } } _ { \\mathsf { s } }$ were immobilized on the chip in reaction to wildtype MEKK3nt or $M E K K 3 n t _ { \\mathrm { s } }$ in addition to MEKK3nt mutants.The samples of MEKK3 peptide,MEKK3nt, $\\mathsf { M E K K 3 n t _ { s } }$ and MEKK3nt mutants were injected atdifferentconcentrationswithaflowrateof $4 0 \\mu | / \\mathrm { m i n }$ .Whenthedatacollection for each cycle was complete,the sensor surface was regenerated with $5 \\min \\ N a O H$ .Sensorgrams were fit globally with Biacore T100 evaluation software using a steady-state affinity model for CCM2ct or ${ \\mathsf { C C M 2 c t } } _ { \\mathsf { s } }$ interactions with MEKK3 peptide and a 1:1 Langmuir binding model for those with wildtype MEKK3ntorMEKK3ntmutants. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTALINFORMATION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Information includes four figures and can be found with this article online at http://dx.doi.org/10.1016/j.str.2015.04.003. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors thank Yi Han and Yuanyuan Chen (Institute of Biophysics,Chinese Academy of Sciences) for their assistance with in-house data collection, ITC, and Biacore analysis,and the staff at beamline NW12A of the Photon Factory (2011G044,KEK,Japan) and at beamline BL17U of Shanghai Synchrotron ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Radiation Facility (Shanghai,China) for technical assistance during data collection.Thiswork was funded by the Chinese Ministry of Science and Technology 973 program (grants 2011CB910304 and 2011CB911103),the Strategic Priority Research Program of the Chinese Academy of Sciences (grant XDB0802020O)，the Key Program of the Chinese Academy of Sciences (KJZD-EW-LO2),and the National Natural Science Foundation of China (grant 31100535). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Received:December8,2014   \nRevised:March 16,2015   \nAccepted:April2,2015   \nPublished: May 14,2015 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Adams, P.D., Afonine, P.V., Bunkoczi, G., Chen, V.B., Davis, I.W., Echols, N., Headd, J.J., Hung,L.W., Kapral, G.J., Grosse-Kunstleve, R.W., et al. (2010). PHENIX:a comprehensive Python-based system for macromolecular structure solution. Acta Crystallogr. D Biol. Crystallogr. 66, 213-221.   \nBhattacharyya, R.P., Remenyi, A., Yeh, B.J.,and Lim,W.A. (2006). Domains, motifs,and scaffolds: the role of modular interactions in the evolution and wiring of cellsignaling circuits. Annu. Rev. Biochem. 75, 655-680.   \nBorikova, A.L., Dibble, C.F., Sciaky, N., Welch, C.M., Abel, A.N., Bencharit, S., and Johnson, G.L. (2010). Rho kinase inhibition rescues the endothelial cell cerebral cavernous malformation phenotype.J. Biol. Chem. 285, 11760-11764. Chen, V.B., Arendal, W.B., 3rd, Headd, J.J., Keedy, D.A., Immormino, R.M., Kapral， G.J.，Murray，L.W.， Richardson, J.S.,and Richardson, D.C. (2010). MolProbity: all-atom structure validation for macromolecular crystallography. Acta Crystallogr. D Biol. Crystallogr. 66, 12-21.   \nChenna, R., Sugawara, H., Koike, T., Lopez, R., Gibson, T.J., Higgins, D.G., and Thompson, J.D. (20o3). Multiple sequence alignment with the Clustal series of programs. Nucleic Acids Res.31, 3497-3500.   \nCosta, B., Kean, M.J., Ast, V., Knight, J.D., Mett, A.,Levy, Z., Ceccarelli, D.F., Badillo, B.G., Eils, R., Konig, R., et al. (2012). STK25 protein mediates TrkA and CCM2 protein-dependent death in pediatric tumor cells of neural origin. J. Biol. Chem. 287,29285-29289.   \nCrose，L.E.， Hilder， T.L.，Sciaky，N.，and Johnson，G.L. (2009). Cerebral cavernous malformation 2 protein promotes smad ubiquitin regulatory factor 1-mediated RhoA degradation in endothelial cells.J.Biol. Chem.284, 13301-13305.   \nDenier, C., Goutagny, S., Labauge, P.， Krivosic, V.， Arnoult, M., Cousin, A.. Benabid, A.L., Comoy, J., Frerebeau, P., Gilbert, B., et al. (2004). Mutations within the MGC4607 gene cause cerebral cavernous malformations. Am. J. Hum. Genet. 74,326-337.   \nDing,J., Wang, X.,Li, D.F., Hu, Y., Zhang, Y.,and Wang, D.C. (2010). Crystal structure of human programmed cell death 10 complexed with inositol(1,3,4,5)-tetrakisphosphate: a novel adaptor protein involved in human cerebral cavernous malformation. Biochem. Biophys. Res. Commun.399, 587-592.   \nDodson, E.J.,Winn,M., and Ralph, A. (1997). Collaborative Computational Project, number 4: providing programs for protein crystallography. Methods Enzymol. 277, 620-633.   \nEmsley, P., Lohkamp, B., Scott, W.G., and Cowtan,K. (2010). Features and development of Coot. Acta Crystallogr. D Biol. Crystallogr. 66, 486-501. Faurobert，E.，and Albiges-Rizo，C. (2010). Recent insights into cerebral cavernous malformations:a complex jigsaw puzzle under construction. FEBS J. 277, 1084-1096.   \nFisher, O.S., Zhang, R., Li, X., Murphy, J.W., Demeler, B., and Boggon, T.J. (2013). Structural studies of cerebral cavernous malformations 2 (CCM2) reveal a folded helical domain at its C-terminus. FEBS Lett. 587, 272-277. Flynn,D.C. (2001). Adaptor proteins. Oncogene 20, 6270-6272.   \nGood, M.C., Zalatan, J.G.,and Lim, W.A. (2011). Scaffold proteins: hubs for controllina the flow of cellular information. Science 332. 680-686. Harel,L., Costa,B., Tcherpakov, M., Zapatka, M., Oberthuer, A., Hansford, L.M.,Vojvodic, M., Levy, Z., Chen, Z.Y., Lee, F.S., et al. (2009). CCM2 mediates death signaling by the TrkA receptor tyrosine kinase. Neuron 63, 585-591. Hilder, T.., Malone,M.H., Bencharit, S., Coliceli, J., Haystead,T.A., Johnson, G.L.,and Wu, C.C. (2007). Proteomic identification of the cerebral cavernous malformation signaling complex.J. Proteome Res.6, 4343-4355.   \nHolm, L., and Sander, C.(1995). Dali: a network tool for protein structure comparison. Trends Biochem. Sci. 20, 478-480.   \nKleaveland,B.,Zheng, X., Liu,J.J., Blum,Y., Tung,J.J., Zou, Z., Sweeney, S.M., Chen, M., Guo, L., Lu, M.M., et al. (20o9). Regulation of cardiovascular development and integrity by the heart of glass-cerebral cavernous malformation protein pathway. Nat. Med. 15,169-176.   \nLabauge，P.，Denier， C.， Bergametti, F.，and Tournier-Lasserve，E. (2007). Genetics of cavernous angiomas. Lancet Neurol. 6, 237-244.   \nLi, X., Zhang, R., Zhang, H., He, Y., Ji, W., Min, W., and Boggon, T.J. (2010). Crystal structure of CCM3,a cerebral cavernous malformation protein critical for vascular integrity. J. Biol. Chem. 285, 24099-24107.   \nLiquori, C.L.,Berg, M.J., Siegel, A.M., Huang,E., Zawistowski, J.S., Stoffer, T., Verlaan, D., Balogun, F., Hughes,L.,Leedom, T.P., et al. (20o3). Mutations in a gene encoding a novel protein containing a phosphotyrosine-binding domain cause type 2 cerebral cavernous malformations. Am.J. Hum. Genet.73,1459- 1464.   \nLiquori, C.L.,Berg, M.J.,Squitieri,F.,Leedom,T.P.,Ptacek,L.,Johnson, E.W., and Marchuk, D.A. (2007). Deletions in CCM2 are a common cause of cerebral cavernous malformations. Am. J. Hum. Genet. 80, 69-75.   \nPan,L., Yan, J., Wu,L.,and Zhang, M. (2009). Assembling stable hair cell tip link complex via multidentate interactions between harmonin and cadherin 23. Proc. Natl. Acad. Sci. USA 106, 5575-5580.   \nPan, C.Q., Sudol, M., Sheetz, M., and Low, B.C. (2012). Modularity and functional plasticity of scaffold proteins as p()acemakers in cell signaling. Cell Signal. 24, 2143-2165.   \nPark, H.H.,Lo, Y.C., Lin, S.C., Wang,L., Yang, J.K., and Wu, H. (2007). The death domain superfamily in intracellular signaling of apoptosis and inflammation. Annu. Rev. Immunol. 25, 561-586.   \nRobert, X.,and Gouet, P. (2014). Deciphering key features in protein structures with the new ENDscript server. Nucleic Acids Res. 42, W320-W324.   \nRosen，J.N.， Sogah，V.M.， Ye, L.Y.，and Mably，J.D. (2013).ccm2-like is required for cardiovascular development as a novel component of the HegCCM pathway. Dev. Biol. 376,74-85.   \nSongyang，Z., Shoelson，S.E., Chaudhuri, M.， Gish，G.， Pawson, T.，Haser, W.G., King,F., Roberts, T., Ratnofsky, S.,Lechleider, R.J., et al. (1993). SH2 domains recognize specific phosphopeptide sequences. Cell 72, 767-778. Stockton, R.A., Shenkar, R., Awad, I.A.,and Ginsberg, M.H. (2010). Cerebral cavernous malformations proteins inhibit Rho kinase to stabilize vascular integrity. J. Exp. Med. 207,881-896.   \nUhlik,M.T.，Abell,A.N., Johnson, N.L,，Sun, W., Cuevas,B.D.， Lobel-Rice, K.E.,Horne, E.A., Del'Acqua, M.L.,and Johnson, G.L. (2003). Rac-MEKK3- MKK3 scaffolding for p38 MAPK activation during hyperosmotic shock. Nat. Cell Biol. 5, 1104-1110.   \nVoss，K.， Stahl， S.， Schleider， E.， Ullrich， S.， Nickel,J.， Mueller,T.D.，and Felbor, U. (2007). CCM3 interacts with CCM2 indicating common pathogenesis for cerebral cavernous malformations. Neurogenetics 8, 249-256. Wang,X., Ding,J.,and Wang, D. (2012). Crystalization and preliminary X-ray analysis of the C-terminal domain of CCM2,part of a novel adaptor protein involved in cerebral cavernous malformations. Acta Crystallogr. Sect.F Struct. Biol. Cryst. Commun. 68, 683-686.   \nWhitehead,K.J., Chan, A.C., Navankasattusas, S.， Koh,W.,London, N.R., Ling,J., Mayo,A.H.,Drakos, S.G., Jones, C.A.,Zhu, W.,et al. (2009). The cerebral cavernous malformation signaling pathway promotes vascular integrity via Rho GTPases. Nat. Med. 15, 177-184.   \nWu, C., Haynes, E.M., Asokan, S.B., Simon, J.M., Sharpless, N.E.， Baldwin, A.S.,Davis, I.J., Johnson, G.L., and Bear, J.E. (2013). Loss of Arp2/3 induces an NF-kappaB-dependent, nonautonomous effect on chemotactic signaling. J. Cell Biol. 203,907-916. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Xu, X., Wang, X., Zhang, Y., Wang, D.C., and Ding, J. (2013). Structural basis for the unique heterodimeric assembly between cerebral cavernous malformation 3 and germinal center kinase Ill. Structure 21,1059-1066. Zawistowski, J.S., Stalheim,L., Uhlik,M.T., Abell, A.N., Ancrile, B.B., Johnson, G.L.,and Marchuk, D.A. (2005). CCM1 and CCM2 protein interactions in cell signaling:implications for cerebral cavernous malformations pathogenesis. Hum. Mol. Genet. 14,2521-2531. Zhang,M., Dong, L., Shi, Z., Jiao, S., Zhang, Z., Zhang, W., Liu, G., Chen, C., Feng,M., Hao, Q., et al. (2013). Structural mechanism of CCM3 heterodimerization with GCKlll kinases. Structure 21, 680-688. Zheng, X., Xu, C., Smith, A.O., Stratman, A.N., Zou, Z., Kleaveland, B., Yuan, L., Didiku, C., Sen, A., Liu, X., et al. (2012). Dynamic regulation of the cerebral ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "cavernous malformation pathway controls vascular stability and growth. Dev.   \nCell 23,342-355. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Zhou, X., Izumi, Y., Burg, M.B., and Ferraris, J.D. (2011). Rac1/osmosensing scaffold for MEKK3 contributes via phospholipase C-gamma1 to activation of the osmoprotective transcription factor NFAT5. Proc. Natl. Acad. Sci. USA 108,12155-12160. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Zhou，Z.， Rawnsley， D.R.，Goddard，L.M.， Pan，W.， Cao，X.J.，Jakus,Z. Zheng, H., Yang, J., Arthur, J.S.,Whitehead,K.J.,et al. (2015). The cerebral cavernous malformation pathway controls cardiac development via regulation of endocardial MEKK3 signaling and KLF expression. Dev. Cell 32, 168-180. ",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "type": "text",
+        "text": "桉叶素生物合成研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "匙占库，文孟良，赵江源，李铭刚，韩秀林\\*（云南生物资源保护与利用国家重点实验室；西南微生物多样性教育部重点实验室；云南省微生物研究所；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生命科学学院；云南大学，云南昆明650091)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：作为桉叶油的主要成分，桉叶素是具有多种生物活性的单萜化合物，被广泛应用于药品、食品及化妆品等领域。桉叶油主要从桉树叶提取，该过程耗费大量人力及自然资源，且容易污染环境。近年来，随着微生物代谢工程与合成生物学的快速发展，加上越来越多萜类生物合成途径得到解析，为桉叶素的绿色生产提供了新的途径。本文对桉叶素的生物合成途径、桉叶素合酶的结构与功能及近年来桉叶素的微生物合成进行了综述，并对利用微生物代谢工程合成桉叶素等单萜化合物的瓶颈问题及解决方案进行了探讨和归纳，为构建高产桉叶素等单萜微生物工程菌株提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：桉叶素；桉叶素合酶；生物合成途径；合成生物学中图分类号：TQ35文献标识码：A文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recent Advances in Biosynthesis of 1,8-Cineole SHI Zhan-ku, WEN Meng-liang, ZHAO Jiang-yuan, LI Ming-gang, HAN Xiu-lin \\* (State Key Laboratory for Conservation and Utilization of Bio-Resources in Yunnan; Key Laboratory of Microbial Diversity in Southwest of China,Ministry of Education; Yunnan Institute of Microbiology,Schoolof Life Sciences, Yunnan University, Kunming 65oo91, Yunnan, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As the main component of eucalyptus oil,1,8-cineole is a monoterpene compound exhibiting a wide range of bioactivities.It has been applied broadly in the fields of pharmaceuticals，food,and cosmetic industries.The commercially available eucalyptus oil is mainly extracted from Eucalyptus leaves.The extraction process requires intensive labor and abundant natural resources,and is prone to contaminate the environment. 1,8-cineole willbe produced greenly with the rapid development of microbial metabolic engineering and synthetic biology,and with more and more biosynthetic pathways of terpenoids have been deciphered in the future .In this paper,the biosynthetic pathway of 1,8-cineole,the structures and functions of 1,8-cineole synthases,and the microbial biosynthesis of 1,8-cineole are reviewed.The bottleneck problems encountered in the production of 1,8-cineole with engineered microbial strains are summarized,and the corresponding solving strategiesare proposed.,This review willprovide references for the construction of enginered microbial strains with high yield of 1,8-cineole or other monoterpenes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:1,8-cineole;cineole synthase; biosynthetic pathway; synthetic biology桉叶素（eucalyptol/cineole/1,8-cineole），通常称为1,8-cineole，是双环单萜化合物，CAS登录号：470-82-6，分子式： $\\mathrm { C _ { 1 0 } H _ { 1 8 } O }$ ，分子量：154.249。其主要存在于桉树属、樟科的月桂属以及唇形科的鼠尾草属、薰衣草属、百里香属、迷迭香属等植物体内[1-3]。近年来，在多种植物内生真菌中也有发现[4]。桉叶素具有驱虫、抗菌和抗炎等多种药理活性，用于治疗人疥螨[5]、胃肠道疾病[6]、气道炎症性疾病[7]和神经退行性疾病相关的炎症[8]等多种疾病。还具有降压[9]、保肝[10]和抗肿瘤作用[1]，广泛应用于药品、食品和化妆品领域[12,13]。此外，桉叶素还能提高乙醇汽油的辛烷值，是一种非常有潜力的生物燃料或燃料添加剂[14]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "桉叶素是桉叶油的主要活性成分，通过水蒸气蒸馏桉树的枝叶是获取桉叶油的传统方式。传统提取成本高，消耗大量人力和自然资源，容易造成环境污染，而且受自然资源的限制，难以实现可持续的工业化生产。通过分子遗传育种提高桉树的桉叶油产量也面临同样的问题。化学合成按叶素则涉及立体选择性合成，得率低且成本较高。随着代谢工程和合成生物学的发展及越来越多萜类生物合成途径的解析，特别是桉叶素的生物合成途径已得到解析，这为利用微生物来合成桉叶素提供了可能[15]。本文对桉叶素的生物合成途径，桉叶素合成关键酶桉叶素合酶的结构与功能及近年来桉叶素的微生物合成进行了综述，并对利用微生物代谢工程合成桉叶素等单萜化合物的瓶颈问题及解决策略进行了探讨和归纳。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1桉叶素的生物合成途径",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自然界中萜类化合物虽然种类繁多、结构复杂，但它们都来自共同的前体分子异戊烯基焦磷酸（isopentenyl pyrophosphate，IPP)。IPP 在植物体内主要通过胞质中的甲羟戊酸途径（mevalonate pathway，MVA）或质体中的甲基赤藓糖醇磷酸途径（2-C-methyl-D-erythritol4-phosphate，MEP）合成。MVA 和 MEP 两条途径分别以乙酰辅酶A、3-磷酸甘油醛和丙酮酸盐为起始原料经多步反应合成 IPP,IPP 再经异戊基焦磷酸异构酶（isopentyl pyrophosphateisomerase，IPPI）转化为其异构体二甲基烯丙基焦磷酸（dimethylallyl pyrophosphate,DMAPP）。IPP 和 DMAPP再以不同配比分别经香叶基焦磷酸合酶（geranyl pyrophosphatesynthase，GPPS）、香叶基香叶基焦磷酸合酶（geranyl geranyl phosphate synthase，GGPPS）和法尼基焦磷酸合酶（farnesyl pyrophosphate synthase，FPPS）催化形成香叶基焦磷酸酯（geranyl pyrophosphate，GPP）、香叶基香叶基焦磷酸酯（geranyl geranyl pyrophosphate，GGPP）和法尼基焦磷酸酯（farnysyl pyrophosphate，FPP)，这些异戊基焦磷酸合酶的活性受 IPP 和DMAPP 的比例影响。GPP、GGPP 和FPP 分别在不同萜烯合酶或细胞色素 P450酶的共同作用下生成单萜、二萜/四萜和倍半萜/三萜类物质（图1)。单萜、二萜和四萜类化合物主要在质体中合成，胞质中主要合成倍半萜和三萜类化合物，其中质体中的IPP也会跨膜进入胞质中参与倍半萜或三萜的生物合成[16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "cytosol:MVA -pathway Sesquiterpenes Diterpenes MonoterpenesTriterpenesTetraterpenes Ac-CoA→ACAc-CoA→HMG-CoA→MVA→MVA-P→ MVA-PP_→ IPP AAT HMGS HMGR MK PmK PmD ID DMAPP →GPP →FPP →GGPP ID1→ 1 2X 7 7   \nG3PDXS DXR IspD IspE IspF IspG IspH 3X →DXP-→MEP-→CDP-ME-→CDP-MEP-→MECPP-→HMBPP-→IPP   \nPYRL plastid:MEP -pathway ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Notes: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CoA，coenzymeA；A-CoA，acetyl-CoA；AA-CoA，acetoacetyl-CoA；HMG-CoA，(S)-3-hydroxy-3-methylglutaryl-CoA；MVA, mevalonate；V-P,mevalonate-5-pospate；V-PP,mevaloatedpospate;APP,imethylalyldiphospate；Potel diphosphate; G3P,D-glyceraldehyde-3-phosphate；PYR, pyruvate; DXP,1-deoxy-D-xylulose-5-phosphate; MEP, 2-C-methyl-D-erythritol-4-phosphate; CDP-ME, 4-(cytidine5'-diphospho)-2-C-methyl-D-erythritol; CDP-ME2P, 2-phospho-4-(cytidine5-diphospho)-2-C-methyl-D-erythritol; MECPP, 2-C-methyl-D-erythritol-2,4-cyclodiphosphate; HMBPP,1-hydroxy-2-methyl-2-(E)-butenyl-4-diphosphate；GPP，geranyldiphosphate；FPP，farnesyldiphosphate； GGPP, geranylgeranyldiphosphate；AAT，acetyl-CoAC-acetyltransferase；HMGS,3-hydroxy-3-methylglutarylCoAsynthase；HMGR, 3-hydroxy-3-methylglutarylCoAreductase;MK,mevalonateinase;PMK,phosphomevalonate kinase;PMD,mevalonatedipospate decarboxylase; IDI，isopentenyldiphosphate isomerase; DXS, 1-deoxyxylulose-5-phosphatesynthase; DXR, 1-deoxy-D-xylulose-5-phosphatereductoisomerase；IspD， 4-diphosphocytidyl-2-C-methyl-D-erythritolsynthase; IspE, 4-diphosphocytidyl-2-C-methyl-D-erythritolkinase；IspF，2-C-methyl-D-erythritol2,4-cyclodiphosphatesythase; IspG, (E)-4-hydroxy-3-methybut-y-diposphatesythase；IspH,4ydroy-3-methyut-eydphosphateeductase；DCate carboxylase;X,one fold;2X,two fold;3X,three fold. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "桉叶素在植物体内的生物合成和其它单萜类物质生物合成途径一致，都是在质体中完成的。首先 IPP 和DMAPP 在GPPS 合酶催化作用下缩合形成GPP，GPP再经桉叶素合酶（1,8-cineole synthase,CinS）环化形成桉叶素。CroteauR 等通过底物类似物、抑制物、中间物及中间类似物和天然合酶大致阐明了从GPP 到桉叶素的反应机制，结合近年来鼠尾草、细菌等来源的桉叶素合酶结构性质研究，推测其机制为：底物GPP先在二价金属离子的作用下电离形成阳离子中间体α-terpinylcation，当其捕获到活化的水分子后形成α-terpineol,再经过内环双键的质子化环化成桉叶素 [17-19]（图 2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e00a143cbb029a9c28762bd7a800555b1f5f60a3190fd301353bc19279b9bed3.jpg",
+        "img_caption": [
+            "图1．植物体内萜类化合物合成示意图Fig 1 Outline of the formation of plant terpenes",
+            "图2.桉叶素合酶催化GPP到桉叶素的反应机制[19]"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig 2 The reaction mechanism of CinS converting GPP into 1,8-cineole ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 桉叶素合酶 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "桉叶素合酶是桉叶素生物合成的关键酶，其催化GPP 生成桉叶素。编码桉叶素合酶的基因于1998年首次从鼠尾草中克隆和鉴定[20]，此后陆续在拟南芥[21]、蜜柑 []、鼠尾草[18]、烟草[23,26,27]、链霉菌[24]、薰衣草[25]、炭团属真菌[28]以及青蒿中[29]中被发现和鉴定。这些不同来源的桉叶素合酶都能催化GPP 底物产生桉叶素，催化效率各异（表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ce1db64329adefd65793776ea3e69d12310946067dcef811915fc14bab223fe.jpg",
+        "table_caption": [
+            "表1不同物种来源桉叶素合酶及其重组蛋白催化产物",
+            "Table1 CinSes from various species and their catalysates with GPP "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Tabie</td></tr><tr><td>Species Nicotiana</td><td>Accession No.</td><td>Products 1,8-cineole (62%),myrcene,limonene,</td><td>Crystal structure</td><td>References</td></tr><tr><td>suaveolens Nicotiana</td><td>ABP88782</td><td>sabinene, cimene,α-terpineole, α-pinene, 1,8-cineole (50%),limonene,myrcene,</td><td></td><td>[23]</td></tr><tr><td>noctiflora Nicotiana</td><td>AHK23027</td><td>β-pinene,α-pinene, sabinene,α-terpineol. 1,8-cineole(50-80%), myrcene, limonene,</td><td></td><td>[27]</td></tr><tr><td>mutabilis Nicotiana</td><td>AFO59753</td><td>sabinene, cimene,α-terpineole,α-pinene, 1,8-cineole(60%-67%), α-terpineol,</td><td></td><td>[26]</td></tr><tr><td>forgetiana Nicotiana</td><td>AFO63172</td><td>pinene,sabinene, β-myrcene,limonene 1,8-cineole (60%-67%),α-terpineol</td><td></td><td>[26]</td></tr><tr><td>longiflora Lavandula</td><td>AFO59752</td><td>pinene,sabinene, β-myrcene,limonene 1,8-cineole (80%),sabinene,</td><td></td><td>[26]</td></tr><tr><td>latifolia Salvia</td><td>AFL03422</td><td>α-phellandrene,limonene,α-terpineol</td><td></td><td>[25]</td></tr><tr><td>officinalis Salvia</td><td>AAC26016</td><td>1,8-cineole (79%), α-terpineol, olefins 1,8-cineole (72.4%),α-terpineol,</td><td></td><td>[20]</td></tr><tr><td>fruticosa</td><td>ABH07677</td><td>β-pinene, α-pinene, sabinene, myrcene, limonene 1,8-cineole (59.28%), sabinene,</td><td>+</td><td>[18]</td></tr><tr><td>Artemisia annua Arabidopsis</td><td>AIE41601</td><td>β-phellandrene,α-terpineol, trans-sabinene,(-)-α-pinene, cis-β-terpineol, β-myrcene,α-thujene 1,8-cineole(52%), α-thujene, α-pinene,</td><td></td><td>[29]</td></tr><tr><td>thaliana</td><td>AAU01970</td><td>sabinene, β-pinene, myrcene, limonene, (E)-β-ocimene,terpinolene,α-terpineol</td><td></td><td>[21]</td></tr><tr><td>Citrus unshiu</td><td>BAD91045</td><td>1,8-cineole (>98%)</td><td></td><td>[22]</td></tr><tr><td>Streptomyces clavuligerus</td><td>EDY47508</td><td>1,8-cineole (>50%),1,4-cineole, isoborneol,borneol</td><td></td><td>[24]</td></tr><tr><td>ATCC 27064</td><td></td><td>α-terpinol, fenchol</td><td></td><td></td></tr><tr><td>Hypoxylon sp.E7406B</td><td>AHY23922</td><td>1,8-cineole (90%) D-limonene</td><td></td><td>[28]</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前发现和研究的桉叶素合酶基因主要集中在细菌、真菌和拟南芥等植物中，作为桉叶油的主来源物种桉树，其桉叶素合酶基因的研究却相对较少，目前仅在铁木桉（Eucalyptussideroxylon）中报道过与桉叶素合成相关的单萜合酶基因 TPS1[30]。桉叶素在蓝桉桉叶油中含量较高[31，理论上蓝桉的桉叶素生物合成途径应该是很高效的，蓝桉桉叶素合酶催化生成桉叶素的效率也可能较高，但迄今为止尚未有蓝桉来源桉叶素合酶的研究报道。因此，从蓝桉中挖掘高效的桉叶素合酶基因很有必要，不仅能扩大桉叶素合酶基因种类，还可为构建高产桉叶素的微生物工程菌提供高效酶来源。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1按叶素合酶的分类及结构",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "桉叶素合酶属于植物单萜环化酶的一种，包含N端的桶装结构域和C端螺旋结构域。根据C端是否为α螺旋可将萜类合酶划分为I型和其他类型。N端结构域没有明确的催化功能，可能在级联反应异构化过程中形成一个亲水性的盖状结构，从而维持活性区域的疏水环境 [32]。C端的α螺旋构成了一个具有催化功能的活性口袋，其入口处存在两个能够结合金属阳离子的天冬氨酸Asp位点，其中一个是DDXXD/E 结构域，另一个则是(N,D)D(L,I,V)X(S,T)X3E 结构域。不同物种来源的桉叶素合酶氨基酸序列相似度较低，但这两个位点上几乎所有的萜类合酶都是保守的[33]。其中DDXXD/E 结构域负责结合两个 $\\mathrm { M g ^ { 2 + } }$ ，(N,D)D(L,I,V)X(S,T)X3E 负责结合第三个 $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ，三个 $\\mathrm { M g ^ { 2 + } }$ 形成的电子束将与GPP的磷酸根结合，在其他氨基酸的辅助下，GPP 去焦磷酸后进一步形成阳离子中间体 [34-36]。桉叶素合酶蛋白的活性口袋内侧还存在亲水性的氨基酸残基，这些残基负责结合并活化水分子，中间体阳离子捕获被活化的水分子后环化形成桉叶素[19]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Kampranis SC 等通过X射线衍射，首次获得来源于鼠尾草桉叶素合酶 Sf-CinS1的晶体结构，分辨率为1.95A[18]，酶蛋白单体 Sf-CinS1二级结构式由23 个 $\\mathfrak { a } \\mathrm { . }$ 螺旋和8个 $3 _ { 1 0 }$ 螺旋共同组成的一个 $\\mathfrak { a }$ -螺旋结构（图3（a))，是典型的类型I植物萜类环化酶。其中N端结构域是由8个 $\\mathfrak { a }$ -螺旋组成，这8个 $\\mathbf { \\bar { a } } _ { }$ -螺旋是以αα桶式排列。而15个 $\\mathbf { \\bar { a } }$ 螺旋构成和两个 $3 _ { 1 0 }$ 螺旋以正交束的方式形成了其C端结构域。KaruppiahV等获得 Streptomyces calvuligerus 来源的桉叶素合酶bCinS 的晶体结构，在分辨率为1.61A下，bCinS 是一个由两个结构上非常相似的单体组成的二聚体如图3（b）所示，也属于类型I植物萜类环化酶，单体包含有一些残基无规律的排列在活性口袋旁边。电子密度显示，底物类似物FGPP 只与二聚体其中的一个单体互作[19]。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c5a3c581ed2746a811ab5fdde679ac99707119617c1bbdfaac26626b776d7e1.jpg",
+        "img_caption": [
+            "图3 桉叶素合酶晶体结构[18,19]（a）单体鼠尾草桉叶素合酶；（b）二聚体细菌桉叶素合酶Fig 3 Crystal structure of CinS（a） Monomeric of Sf-CinS1；（b） dimer of bCinS"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2桉叶素合酶的功能研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "桉叶素合酶的功能研究主要集中在对其活性中心关键氨基酸残基的缺失和替换。Sf-CinS1保守区域DDXXD/E上游的天冬酰胺Asn338侧链能够活化水分子，对合成桉叶素起到了决定性作用，将Asn338突变为异亮氨酸I（N338I）时，其主要催化产物转变为香会烯[18]。序列比对发现，残基Asn在已鉴定的真核桉叶素合酶中高度保守（图4(a))。Hypoxylonsp.E7406B来源的的桉叶素合酶Hyp3的相应位点的残基为Asn136,该位点突变会消除Hyp3合成桉叶素的功能[28]。然而，从获得的晶体结构显示bCinS 中对水分子起到活化作用的残基为Trp58和Asn305，Asn305所处的位点与Asn338不同，如图4（b）所示，但其所行使的功能很可能与N338一致[19]。除了保守区域DDXXD/E上游的Asn之外，Piechulla B 等应用定点突变、数学建模以及半经验计算等方法对Nicotiana suaveolens“桉叶素盒子”（烟草花释放的桉叶素为主的一系列单萜化合物的总称）桉叶素合酶功能进行研究，发现氨基酸残基 Arg147、Asn148 和Phe266 决定催化产物中桉叶素所占比例[37]。而烟草Nicotianalangsdorffi的松油醇合酶 TER缺少位点147和148对应的氨基酸残基，并且位于保守区域DDXXD上游位点264位氨基酸残基也不同，如图4（a）所示，当野生型TER插入Arg147和 Asn148时，其催化产物中桉叶素成分明显提高，另外，将 TER 原始位点264 丝氨酸 Ser突变为苯丙氨酸Phe(S264F)时，产物桉叶素所占比列由原来 $30 \\%$ 增加为 $5 1 . 9 \\%$ ，表明266F氨基酸残基对烟草的“桉叶素盒子”这一类合酶起关键作用，而且非常保守。通过同源建模发现Phe266与DDXXD 同在一条α-螺旋中，但Phe266并未在活性口袋内侧距离活性内腔有10A之远如图4（c）所示。由于未获得该蛋白与底物的共晶体结构，因此该位点所起到的具体作用仍然不清楚。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "budatitolie DCFKNEKGTDFKPS- LSHDRKGLLQLYEASFLSRQGEE-TLQLAREFATKILQKEVDE 178Suotticinalis DCFKNDKGTDFKPS---LVDDTRGLLQLYEASFLSAQGEE-TLHL DFATKFLHKRVLV 225Sufxuticase DCFKNAKGTDFKPS---LVDDTRGLLQLYEASFLSAQGEE-TLRLA DFATKFLQKRVLV 225Arabidopsis DVIIDQIESN--TF---KTNNINGIISLYEASYLSTKSDTKLHKVI PFATEQIRKFVD- 159Artemisia_annue HNFKEKTQNLKPYL---H-EDMVVMLNIYEASYYSYEDES-IMDDARDFTAKYLKEN- 172Citxus.unshiu SRFMDEKGSFKLSS---HSDDCKGMLALYEAAYLLVEEESSIFRDA FTTAYLKEWVVK 184Hypoxylon sp. EFLREAISRSVPGLENCNVFDPRSLGVPWPTSFPAAA-QSKYWKDAEEAAAELMDQIVAA 83Nbonsriensis DGLSET- -HTKDTKGMLYLYEASFLATEGES-ELEQA WTEKHLREYLK- 159Nunectitloxe DGLSET- HTKDTKGMLYLYEASFLATEGES-ELEQARNWTEKHLREYLK- 159N. nutabilis DGLSET- HTKDTKGMLYLYEASFLATEGES-ELEQAI NWTEKHLREYLK- 159N.foxgetiane DGLSET- HTKDTKGMLYLYEASFLATEGES-ELEQARNWTEKHLREYLK- 159N. longifloxe DGLSET- HTKDTKGMLYLYEASFLATEGES-ELEQA NWTEKHLREYLK- 159N. suaveolens GGLSE- -HTEDTKGMLYLYEASFLATEGES-ELEKARNWTEKHLREYLE- 159Nlangsdorffii DGLSE- -HTKDTKGMLYLYEASFLATEGES-ELEQA WTEKHLREYLK- 157Llatitolia QELPF- -VRDRIVECYLWTTGVIQRRE-HGYERIMLTKINALVTTIDDVFDIYGTLEE 302Sofficinalis HELPF- -VRDRIVECYYWTTGVVERRE-HGYERIMLTKINALVTTIDDVFDIYGTLEE 356S.fxuticose HELPF- -VRDRIVECYYWTTGVVERRQ-HGYERIMLTKINALVTTIDDVFDIYGTLEE 356Arabidopsis NQLPF- -VRDRIVENYFWTVGLIYEPQ-FGYIRRIMTIVNALVTTIDDIYDIYGTLEE 293Artemisiaannua KELPF- ARDRLMENFLWTVGVNYLPR-FSLGRRTLTKVNAMITTIDDVYDVFGTIDE 305Citrus.unshiu ERLNF- -ARDRIMENFFWTVGVIFEPN-FGYCRRMSTMVNALITTIDDVYDVYGTLDE 320Hypoxyion.5P. LAVSDKKAAKRRELLDTSV-SAPMNMFPAANAPRARIMAKANLLIFMHDDVCEYQSVQST 153N.bonaxiensis ENLPF- -ARDRLVENFFWTIGVNFLPQ-YGYFRRIETKVNALVTTIDDVYDVFGTLDE 292N.noctifioxe ENLPF- -ARDRLVENFFWTIGVNFLPQ-YGHFRRIETKVNALVTTIDDVYDVFGTLDE 292Nnutabilis ENLPF- -ARDRLVENFFWTIGVNFLPQ-YGYFRRIETKVNALVTTIDDVYDVFGTLDE 292N.foxgetiane ENLPF- -ARDRLVENFFWTIGVNFLPQ-YGYFRRIETKVNALVTTIDDVYDVFGTLDE 292Nuloneitloxe ENLPF- -ARDRLVENFFWTIGVNFLPQ-YGYFRRIETKVNALVTTIDDVYDVFGTLDE 292N.suaveolens ENLPF -ARDRLVENFFWTIGVNFLPQ-YGYFRRIETKVNALVTTIDDVYDVFGTMDE 292N.langsdaxttii ENLPF -ARDRLVENFFWTIGVNFLPQ-YGYSRRIETKVNALVTTIDDVYDVFGTMDE 290(a)M290R174 A77 Y446 Mg2+ H298F179G7 A355F300315 M180 Y502 1279  \n309 C235 1305L183 N324.F266  \nN308E335N5E336(b) (c）",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图4（a）真核来源桉叶素合酶氨基酸序列比对；（b）bCinS晶体结构中对水分子起到协调作用的残基 Trp58和 Asn305[19]；（C）N.suaveolens CIN的3D 模型的C端结构域及其残基F266[37]。"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig 4（a） Amino acid sequence alignment of CinS.Asn residues （green） locates uperstream of conserved motifs:DDXXD/E（yellow）Ter is lack of R147 and N148，also diferent at the position 264（green） ；（b） Asn305 and Trp58 residues responsible for coordinating the water molecule in bCinS；(c） C-terminal domain of the N. suaveolens CIN3D model with residue F266. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最近研究发现，萜类合酶酶活性位点的极性氨基酸残基能够决定酶催化产物的特异性以及催化活性[36,37]。目前已鉴定的桉叶素合酶都是多功能合酶，虽然已经确定其中几个氨基酸残基对桉叶素合成有决定性作用，但决定产物特异性以及决定合酶催化效率的氨基酸残基仍值得我们去探索。通过对决定桉叶素合酶效率以及产物特异性的可塑性位点功能研究，可以更全面认识桉叶素合酶系的结构与功能之间的关系，为桉叶素合酶的定向进化提供理论基础，同时也为植物萜类合酶的快速进化研究提供科学依据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3桉叶素的微生物生物合成研究",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前已证实一部分真核微生物自身可以合成、释放桉叶素，但大多数微生物如细菌以及酵母细胞需要经过工程改造之后才能合成桉叶素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1合成桉叶素的天然微生物",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "桉叶素最初主要在植物产生的挥发油中发现，后来研究发现植物体内的一些微生物也能够产生。TomsheckAR 等首次证实内生真菌Hypoxylon sp.CI-4 能够产生并释放桉叶素，GC-MS检测到桉叶素占其挥发性有机化合物（VOCs）比例为 $7 . 6 \\%$ [38]。另外，分别从香脂树以及细叶野豌豆组织中分离到内生真菌轮层炭菌Nodulisporium sp.EC-12 和Nodulisporium sp.Ni 25-2A 也被证实能够合成释放桉叶素 [39,40]，桉叶素所占其VOCs 比例分别为 $0 . 7 \\%$ 和 $12 . 9 2 \\%$ 。ShawJJ等筛选得到8株可以产生桉叶素的菌株，其中菌株E6826D、E13415F 和 E13732D 属于环状炭团菌属（annulohypoxylon)；菌株B10820A属于环状炭团菌属的第二分支；菌株 E7015B、E13615I、E7406B 和E14012A属于炭团菌属（hypoxylon），并首次在真菌中获得桉叶素合酶基因hyp3 [28]。Hussin AI等从植物美丽新木姜子（Neolitseapulchella）中分离得到内生真菌 Annulohypoxylon sp.FPYF3050，其能够释放 $9 4 . 9 5 \\%$ 的桉叶素 [3]。目前发现的能够产桉叶素的微生物，大多集中在炭角菌科的炭团菌属、环形炭团菌属和炭球菌属(daldivia)这三种属中。虽然 OhnishiY等首次从 Streptomyces clavuligerus ATCC27064 中鉴定桉叶素合酶基因cnsA[24]，但未能在该菌的发酵产物中检测到桉叶素。可能由于在实验室条件下基因cnsA未能表达或者细菌出于自我保护将合成的桉叶素转化为其他化合物。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2产桉叶素的微生物工程菌株",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "萜类化合物合成的通用底物是IPP及其异构体DMAPP，因此凡是在细胞内包含有MEP途径或者MVA途径的微生物，都可以作为合成桉叶素等单萜化合物的潜在菌株。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "酿酒酵母（Saccharomycescerevisiae）是一种单细胞真核生物，MVA是酵母自身用于合成甾醇类化合物的内源途径[41]；另外，基因编辑技术的快速发展结合酵母细胞较高的重组效率，使其成为合成桉叶素等萜类化合物的模式真核工程菌株。2011年，Antonios MMakris课题组筛选到一株高产固醇的酿酒酵母EG60，利用cre-lox可循环重组系统将 Sf-CinS1整合在该菌株中表达，为了提高GPP的可利用率，作者利用同样的技术整合关键的合酶基因",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IDII以及HMG2（K6R)，最终的工程菌AM78-07合成桉叶素的产率为 $1 . 0 9 \\mathrm { g } / \\mathrm { L } ^ { [ 4 2 ] }$ 。这不仅是按叶素合成的首次合成报道，同时也是迄今为止桉叶素产量最高的报道。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "相比酵母，大肠杆菌作为工程菌也有其自身优势，比如它们培养周期短、遗传背景清晰、分子操作成熟等。MEP 途径是大肠杆菌的内源途径，其用于胞内 tRNA的异戊烯基化、醌以及细胞壁的合成[43]，2015年，Jeffrey J.Shaw 在鉴定炭团属真菌 Hypoxylon sp.E7406B 中的桉叶素合酶基因Hyp3时，将基因Hyp3 通过质粒pTrc99 导入菌株E.coli $\\mathrm { D H } 5 \\mathrm { a }$ （包含有外源 MVA途径的质粒pJBEI-2999）首次构建了产桉叶素的原核工程菌[28]，但其研究重点为桉叶素合酶基因功能研究，因此未对桉叶素产量进行优化。2017年，DanielMendez-Perez等以E.coliDH1作为出发菌株，用质粒pTrc99a分别表达链霉菌来源的桉叶素合酶 $\\mathrm { C S } _ { S t r }$ 和真菌来源的桉叶素合酶 $\\mathrm { C S } _ { h y p 3 }$ ，同时共表达外源MVA途径以及突变体合酶IspA（S81F）来提高胞内GPP含量，成功获得了产桉叶素的原核工程菌 $\\mathrm { C D 2 P ^ { * } }$ 。同时，也证实了 $\\mathrm { C S } _ { S t r }$ 在工程菌中表达效率要高于 $\\mathrm { C S } _ { h y p 3 }$ 。经过培养优化后最终工程菌合成桉叶素的产量达到653$\\mathrm { m g / L ^ { [ 4 4 ] } }$ 。同年，Nigel S.Scrutton 等在研究细菌来源的桉叶素合酶的晶体结构过程中也构建了产桉叶素的E.coli 菌株，虽然桉叶素的产率只有 $1 1 6 . 8 ~ \\pm ~ 3 6 . 4 ~ \\mathrm { m g / L }$ ，但细菌来源的桉叶素合酶在工程菌中催化GPP获得桉叶素的纯度为 $96 \\%$ ，远高于其他植物来源的桉叶素合酶[19]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以链霉菌作为工程菌合成桉叶素的报道较少，2011年，NakanoC 等人在鉴定细菌来源的桉叶素合酶时，将链霉菌 S.clavuligerus ATCC 27064来源的桉叶素合酶基因cnsA通过质粒pHSA81 导入链霉菌（Streptomyces lividans）构建了产桉叶素的链霉菌工程菌[24]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述，酿酒酵母在合成桉叶素等单萜类化合物中更具优势。一方面，由于酵母自身固有的MVA途径合成DMAPP 的效率高于MEP 途径[45]；另一方面，在构建产桉叶素的原核工程菌时，需要导入两个甚至多个携带目的基因的质粒。这不仅会给原核工程菌带来极大的负荷，而且添加的抗生素会失效导致质粒表达不稳定。除了大肠杆菌和酿酒酵母之外，芽孢杆菌以及蓝细菌也已经作为工程菌合成萜类化合物 [46.47]。目前尚未有以这两类工程菌合成桉叶素的研究报道。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3微生物生物合成按叶素的存在问题及策略",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "借助于代谢工程和合成生物学的快速发展，大肠杆菌以及酵母工程菌已经成功生产一些附加值高的萜类化合物，其中一部分已经进行了商业化生产。例如，抗疟疾药物青蒿素前体青蒿酸在酵母工程菌中的已成功生产 [48-50]，其产量达到了 $4 0 ~ \\mathrm { g / L }$ 。大肠杆菌合成红没药醇以及法尼烯的产量也分别达到 $9 . 1 \\ \\mathrm { g / L }$ 和 $8 . 7 4 ~ \\mathrm { g } / \\mathrm { L } ~ ^ { [ 5 1 , 5 2 ] }$ 。桉叶素以及其他单萜类化合物如柠檬烯、蒎烯和香叶醇虽然已经在大肠杆菌以及酵母工程菌中成功合成，但是产量非常低，尚达不到商业化生产的要求[53,54]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前，主要有四个瓶颈问题导致了桉叶素和其它单萜的低产：（1)代谢产物的反馈抑制，",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1-脱氧-D-木酮糖-5-磷酸（DXS）以及3-羟基-3-甲基戊二酸单酰辅酶A还原酶（HMGR）分别是MEP途径和MVA途径中的关键限速酶，会受到代谢途径下游产物 IPP/DMAPP 以及FPP 的反馈抑制 [5,56]，这是合成所有萜类化合物的共性瓶颈问题；（2）胞内单萜合成的前体物GPP 供应严重不足，大肠杆菌和酵母细胞内源负责合成GPP 的法尼基焦磷酸合酶分别是 IspA与 Erg20 [57,58]。IspA与Erg20 皆为双功能酶，它们既能够催化底物 IPP与DMAPP合成 GPP 又能合成 FPP，但主要合成FPP，GPP 是只是代谢途径中的附带产物，导致其合成单萜的产量处于较低水平；（3）单萜固有的抗菌活性抑制工程菌株的生长；（4）桉叶素合酶或者其他单萜合酶在工程菌中表达的催化活性低。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "针对以上微生物生物合成桉叶素和其他单萜化合物产量低的限制因素，目前的解决方案为：（1）在大肠杆菌中引入酵母的MVA途径能使DMAPP 产量提高了36倍[45]，表明优化MVA途径比优化MEP途径更有效。酵母细胞内的HMGR有两个异构酶Hmglp 和Hmg2p,分别由基因HMG1和HMG2基因编码。DonaldKA等发现，截短的 tHMGR 所编码的酶蛋白不再受MVA途径代谢产物反馈抑制的影响，从而消除了MVA途径中一个重要的瓶颈问题，大幅增加了MVA途径的代谢通量 [59]。Engels B等过量表达tHMG1后紫衫二烯产量比出发菌提高了近40倍[60]。另外，还有研究表明源自 Staphylococcus aureus 的mva 基因所编码的 HMGR表现出更高的催化效率[61]。（2）过表达独立的GPPS 或者使用内源法尼基焦磷酸合酶的突变体可以提高工程菌中GPP含量。酵母中的两种突变体合酶 Erg20（K197G）和Erg20WW（F96W-N127W）[62,63]、大肠杆菌中突变体合酶IspA（S81F）和源于巨冷杉的香叶基焦磷酸合酶（Abies grandis AgtrGPPS2）[64]三者已被证实能够有效提高GPP 的产率；（3）为了减轻桉叶素等单萜化合物对工程菌的毒性，目前的解决方案包括：在发酵液上面覆盖有机相，将合成的单萜原位萃取，减轻其对工程菌的毒性[65]；借助外流泵工程设计将合成的单萜从细胞中泵出；敲除编码细胞膜或者细胞壁上与单萜结合而产生毒性的靶蛋白基因，提高工程菌对于单萜的耐受性[6]。（4）将不同来源的合酶蛋白的融合表达及及去除信号肽可以提高单萜合酶在工程菌中催化活性[67]，有效的增加萜类化合物产量[68]；例如，Jiang 等在蛋白质表面电子静力学分布的指导下，将突变体Erg20WW（F96W-N127W）与来自长春花且去除信号肽的香叶醇合酶（Catharanthus roseus t3CrGES）进行反向融合后再附加了一个突变体 Erg20WW，使香叶醇产量从 $1 9 1 . 6 1 \\ \\mathrm { m g / L }$ 增加到 $5 2 3 . 9 6 \\mathrm { \\ m g / L \\ } ^ { [ 6 9 }$ ]。另外，通过定向进化提高单萜合酶催化效率，例如， $\\mathrm { X u ~ J }$ 等在研究柠檬烯合酶定向进化过程中，在突变体M6（N345A/L423A/S454A/C321Y）的基础上，将454位点的非极性氨基酸丙氨酸A突变为极性氨基酸甘氨酸G时（A454G)，酶活增加近 $200 \\%$ [38]。还可以借助可视化对接软件如Autodock等模拟构建蛋白与底物配体对接，找出与底物结合紧密的可塑性氨基酸，进行桉叶素合酶定向进化的研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4展望 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "云南是全球桉叶油的最大产地，目前原油产量达到1.5万吨，产值10亿元。2013 年出口桉叶油9780 吨，占全球市场的 $90 \\%$ 的市场份额。从2015年10月开始，云南的桉树开始出现桉木虱虫害，到2016年呈现爆发态势，全省各地种植的桉树无一处幸免。桉木虱以成虫和若虫刺吸桉树新梢嫩叶，严重时造成新梢枯死，影响桉树的生长与发育。2016 年云南各个产地的桉叶油产量出现 $2 5 \\%$ 到 $8 5 \\%$ 的降幅，造成了桉叶油原油的价格大幅上涨：2015年11月56元/公斤，2016年11月66元/公斤，2017年2月78元/公斤，2018年4月140元/公斤，二年多的时间涨幅达 $1 5 0 \\%$ 。占全球市场的 $90 \\%$ 的市场份额的云南省桉叶油的产量的下跌，为生物合成桉叶素进入市场提供了绝好的战略机遇。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "尽管通过代谢工程改造微生物合成桉叶素取得了一些进展，但桉叶素的产量相对其它萜类化合物还较低，尚达不到工业化生产的要求。但随着合成生物学、生物信息学、代谢组学的飞速发展，通过对代谢途径各通路间相互关系及作用的理解，必将加速高产桉叶素或其它单萜类化合物工程菌的构建，从而促进微生物合成萜类化合物的产业化发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]VituroCIMolinaAC,HeitCVolatilecompoentsofEucalyptusglobulusLabillsp.bicostatafromJujuyArgentiast Oil Res,2003,15(3): 206-208.   \n[2]Tizianbaaidoneasalcalooiitiobaldtioatieiity rosemary,oregano and coriander essential oils.JEssent Oil Res,1998,10(6): 618-627.   \n[3]HussanArFgetaAtibactealiityfoLmaceeetialilssingsaisaorel growth.LWT-Food Sci Technol,2011,44(4): 1199-1206.   \n[4]WangKYrobelG,YanDHeproductioof8-ieole,potentialiofuelfroedophtictraiofAnlooyl sp.FPYF3050 when grown on agricultural residues.J Sustain Bioenergy Syst,2017,7(2): 65-84.   \n[5]HuZ,CenZnZalIvirocaiidlactiityofinlegstScoessbeivaicldreglatingcts enzyme activity.Parasitol Res,2015,114(8): 2959-2567.   \n[6]Caldas GFROlveiraARD,ArujoAV,etal.Gastroprotectivemehaissofthe mooterpen8-inole (ecalytol). One,2015,10(8): e0134558.   \n[7]JuergensURAtinflammatorypropertisoftemonoterpene.8-cineole:curentevidenceforco-medicatioininflamatory airway diseases.Drug Res (Stuttg),2014,64(12): 638-646.   \n[8]KhanA,VbvK,JvdH,aleole(caltoltigatesifmatioiloidtatoicaedCcels:eeto Alzheimer's disease.Neurochem Res,2014,39(2): 344-352.   \n[9]MoonHK,KangPLeeHS,etalEectsof-ineoleonhertesionducedyroicexposuretocotineinata Pharmacol,2014,66(5): 688-693.   \n[10]SantosFA,ilaRToeAR,etal.-ineoleprotectsagainstliverflureinaniiomurinemodeloendtoxicock. JPharm Pharmacol,2001, 53(4): 505-511.   \n[1]MotekiHbasaiH,amadaYETL.peciiciuctioofoptosisy-inoleintuanukeacellstt a in human stomach cancer cell line.Oncol Rep,20o2,9(4): 757-760.   \n[12]DakdAKeyegStaloloicaldaldoicogicasicaeofucteiail. J Sci Food Agric,2017, 98(3): 833-848.   \n[13]Lahlou S,FigueiredoAF,MagalhaesPJ,etal.Cardiovascularefectsof8-ineole,aterpenoidoxidepresentinanyplant essential oils,in normotensive rats. Can JPhysiol Pharmacol,2002,80(12): 1125-1131.   \n[14] VermaP,harawivediG.Potentialuseofcalyptusbiodiesel icompressedignitionengine.EgyptJPet,6(1): 91-95.   \n[15]ZebecZ,WilkesJ,JervisAJ,etal.Towardssythesisofmonoterpenesandderivativesusingsythticbiology.CurrOph Biol, 2016,34: 37-43.   \n[16]ThollDpesthadgatioivsitdlogicallesoftrpeetabos.urpiantiol,,9(): 297-304.   \n[17]CroteauR,osKepE,aosthsisfotees:prtialicatioractatiodf action of 1,8-Cineole Synthase.Arch Biochem Biophys,1994,309(1): 184-192.   \n[18]KampranisSC,aidisD,PurvisA,etal.ationalonversionofsubstrateandproductspeifityinaSlviaotepe synthase: structural insightsintotheevolutionof terpenesynthase function.Plant Cell,2007,19(6):994-2005.   \n[19]KaruppahVanaghanKE,LeferinkGH,etal.tructuralsisfcatalsisintebcterialonoterpeesythaslalool synthase and1,8-cineole synthase.ACS Catal,2017,7(9): 6268-6282.   \n[20]WiseMLSavageTJ,KatahiraE,etal.Monoterpenesynthasesfromcommonsage(Salviaoficinalis).cDNAisolation, characterization,and functional expression of $( + )$ sabinene synthase,1,8-cineole synthase,and $( + )$ -bornyl diphosphate synthase.J Biol Chem,1998,273(24): 14891-14899.   \n[21]ChenFoKrJtaaracteatiofospeiicrabdopsisteseposibleofoae volatile monoterpene 1,8-cineole.PlantPhysiol,2004,135(4):1956-1966.   \n[22]Shimada,EdoFujH,etalsolatiadaracterzatioof()betcieed,8eolesasiniuss Marc.Plant Sci,2005,168(4): 987-995.   \n[23]RoederS,HartmannA,EfmertU,etalRegulationofsimultaneossthesisofforalsentterpenoidsbye-inole synthase oficotianasuaveolens.antoliol,07,65(1-2):-4.   \n[24]NakanoC,KiHKOishiY.Identificationoftefistbactealmonoterpnecclas,-ineolesthase,tatcatalte direct conversion of geranyl diphosphate. Chembiochem,2011,12(13): 1988-1991.   \n[25]DemissieZCellkeretngcalaractezationdgenoicgaatioofole from Lavandula.Plant Mol Biol,2012,79(4-5): 393-411.   \n[26]FahrichrosskLttisfleee'epiietio expression,functional characterization and phylogenetic analysis.Plant Mol Biol,2012,79(6): 537-553.   \n[27]Fahrch,iullaracteisticatoidleee'oeetheprntincoaifo Plant Mol Biol,2014,85(1-2): 135-145.   \n[28]ShaJJ，Berbasova T,SasakiT，etal.Identificationofafungal1,8-cineolesynthasefromHypoxylonsp.withspecificity determinants in common with the plant synthases.JBiol Chem,2015,290(13): 8511-8526.   \n[29]RuanJX,iJX,FngX,etal.olationadhracterzationof teeooepeestsesfroArtemsia.ot Plant Sci,2016,7: 638.   \n[30]KeszeiA,BrubakerCL,CarterR,tal.FunctionalndevolutionaryelationshipsetweenterpenesythsesfroAstralian Myrtaceae.Phytochemistry,2010,71(8-9): 844-852.   \n[31]Balacs T.Cineol-eucalyus.IntJAromatr9978(8):-.   \n[32]WillimsC,cgarveyDJKatairaEJetal.Tucatiooflimonenstasepreproteinprovidesafullctivesedoture formofthismonoterpenecylaseandrevealsthe functionoftheamino-terminalargininepair.Biochemistry，1998,37(35): 12213-12220.   \n[33]WhitingtoDA,WiseML,UrbanskyM,etal.Boldiphosphatesythase:tructureandtrategyforcarbocationaiulationby a terpenoid cyclase. Proc Natl Acad Sci USA,2002,99(24): 15375-15380.   \n[34]DegenhardtJKlerGsnJootepedteeetsdtrgifpeeletalitn plants.Phytochemistry,2009,70(15):1621-1637.   \n[35]StarksCM,NoelJPStructuralbasisforcyclicterpenebiosynthesisbytobacco-epi-aristolochenesynthase.Science，97, 277(5333): 1815-1820.   \n[36]GaoY,HozatkoRB,PetersRJerpeoidsthasetructures:Asofaricompleteiewofomplexcatalysis.NatProdp1, 29(10): 1153-1175.   \n[37] Piechulla B,Bartelt R,Brosemann A,etal. The α-terpineol to 1,8-cineole cyclizatio 1of tobacco terpene synthases.Plant Physiol,2016,172(4): 2120-2131.   \n[38]TomsheckAR,StrobelGA,oothE,etal.Hypoxylonspaedophteoferseindicaproducing1-ineoleadotroactie volatiles with fuelpotential.Microb Ecol,2010,60(4): 903-914.   \n[39]Mends M,YuE,StrobelGA,etal.AnendophyticNodulisporiumspproducingvolailerganiccompoudshavingbioactivity and fuel potential.JPet Environ Biotechnol,2012,3(Supplement S1): S33-S47.   \n[40]Riyaz-UHasnS,trobelGaryB,etal.AndopticNdulisporsp.frocentralAmericaproducingvatlc compounds with both biologicaland fuel potential.JMicrobiol Biotechnol,2013,23(1): 29-35.   \n[41] Goldstein JL,Brown M S.Regulation of the mevalonate pathway. Nature,1990,343(6257): 425-430.   \n[42]IgneaC,CvetkovicILoupasskiS,etal.Improvngyeaststainsusigreyelableitegraticaetesforteprouctiofplat terpenoids.Microb CellFact,2011,10: 4.   \n[43]ErhardtH,DempwolfF,freundschuhM,etal.OrganizationoftheEscherichiacoliaerobicenzyecomplexesofoidative phosphorylation in dynamic domains within the cytoplasmic membrane.Microbiologyopen,2014,3(3): 316-326.   \n[44]MendezreDlosogutiJ,HuQ,tal.roductiofjetfuepecsorootepeodogiredEhl. Biotechnol Bioeng,2017,114(8): 1703-1712.   \n[45]MartinVJ,iteraJWithersST,etal.Engineeringamevaloatepathwayinscherichiacolfoproductioofterpes.at Biotechnol,2003,21(7): 796-802.   \n[46]GuanZ,uedalla,taboggofcibilisfeidpdcioplbo 2015, 99(22): 9395-9406.   \n[47]FormighieriC,MelisA.Sustainableheterologousproductionof terpenehdrocarbonsincyanobacteria.PhotosynthRes,2016 130(1-3): 1-13.   \n[48]PaddonCstfallJitraJ,tal.geticroucofotettialaarteisi 496(7446): 528-532.   \n[49]WestfallJiteraDJenanR,etal.roductionofmophdieeineastaditsoversiotdydoarteisinccid precursor to the antimalarial agent artemisinin.Proc Natl Acad Sci USA,2012,109(3):11-118.   \n[50]RoK,PaadiseEOueletM,tal.Productooftentimalaaldugprecsorsiiccidigieeedastture 2006,440(7086): 940-943.   \n[51]HanGH,KiSK,Yoo,etaFetativepructiodectetractioof(-bsabololietablicall Escherichia coli.MicrobCellFact,2016,15(1):185.   \n[52] You S,Yin Q, Zhang J,et al.Utilization of biodiesel by-product as substrate for high-production of $\\beta$ farnesenevia relatively balanced mevalonate pathway in Escherichia coli.Bioresour Technol,20l7,243: 228.   \n[53]FischrJeyerSadeletal.etabolicgieingofooteeesthsisieastiotecolin,() 1883-1892.   \n[54]CarrauFM,Medina K,BoidoE,etal.Denovosynthesisof monoterpenesbySacchromycescerevisiaewineyeasts.EM Microbiol Lett,2005,243(1):17-115.   \n[55]BanerjeeA，SharkeyTD.Methylerythritol4-phosphate(MEP）pathwaymetabolicregulation.NatProdRep,2014，31(8): 1043-1055.   \n[56] Rodwell VW,NordstromJL,Mitschelen JJ.RegulationofHMG-CoA reductase.AdvLipidRes,1976,14:1-74.   \n[57]Fujisaki S,HaraH,ishimuraY,etal.CloningandnucleotidesequnceoftheispAgeneresponsibleforfaresyldiposphate synthase activity in Escherichia coli.JBiochem,1990,108(6): 995-1000.   \n[58]AndersonMS,YargerJG,urckCL,tal.Fasyldiposphatesthetase.olecularcoing,qence,andexpesioofn essential gene from Saccharomyces cerevisiae.JBiol Chem,1989,264(32):19176-19184.   \n[59]DonaldKAHamptoRYFritzIBEectsfoveprouctioofthatalyticdoainfdroy-ethlglutarloA reductase on squalene synthesis inSaccharomyces cerevisiae.Appl Environ Microbiol,1997,63(9):341-344.   \n[60]EngelsB,DahPJeeweiS.MetabolicngineringoftaxadienebiosythsisinyastasafirststeptowadsTaxol(Paclitael) production.Metab Eng,2008,10(3-4):201-206.   \n[61]LiQ，SunZ,iJ,etal.Enhancingbeta-caroteneproductioninSaccharomycescerevisiaebymetabolicenginering.FEMS Microbiol Lett,2013,345(2): 94-101.   \n[62]FischerJeyerSldelaletabolicgieingofootpeesthsisineastiotecoling,8) 1883-1892.   \n[63IgneaC,PontiiM,MafeiME,etal.Engineringmonoterpeneprouctioninyeastusingasytheticdominantnegativegeranyl diphosphate synthase.ACS Synth Biol,2014,3(5):298-306.   \n[64]TashiroM,iotaHawaoaS,talacteralproductifpinebybratoreveisythase.ACthiol 2016,5(9):1011-1120.   \n[65]BrenanTCR,uerCD,KromerJO,etal.Allvatingmonoterpenetoxicitysingatw-phaseextractivefermentatioforth bioproduction of jet fuel mixtures in Saccharomyces cerevisiae.Biotechnol Bioeng,2012,109(10):2513-3522.   \n[66]ZhangL,XiaoWH,WangY,etal.Chasisndeyzyes engineeringformooterpenesproduction.BiotechnolAdv,017.   \n[67]DenbyC,LiRA,VuVT,etaldustrialbewingeastegieredforteproductioofpriaryfvrdetenantsod beer. Nat Commun.,2018,9(1):965-974.   \n[68]BadheRR,MekalaNK,ParchaSR,etal.CombinationofERG9RepresionandEnzyeFusionTechnologyforImproved Production of Amorphadiene in Saccharomyces cerevisiae.Janal Methods Chem,2013(12):140469-140476.   \n[69]JiangGZ,YaoMD,WangY,etal.ManipulationofGESandERG2OforgeranioloverproductioninSccaromycescerevisiae. Metab Eng,2017,41: 57-66. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,423 @@
+[
+    {
+        "type": "text",
+        "text": "1 饲料牛磺酸水平对不同生长阶段斜带石斑鱼幼鱼生长性能和体成分的影响  \n2 王学习 周铭文 黄 岩 王 琨 叶继丹\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（集美大学水产学院，厦门市饲料检测与安全评价重点实验室，厦门361021）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：本试验旨在研究饲料牛磺酸水平对不同生长阶段斜带石斑鱼幼鱼生长性能和体成分的影响。以  \n5 酪蛋白和明胶为蛋白质源，配制牛磺酸水平分别为0（D1）、 $0 . 5 \\%$ （D2）、 $1 . 0 \\%$ （D3）和 $1 . 5 \\%$ (D4)  \n6 的试验饲料。将初始体重为（ $1 3 . 8 5 { \\scriptstyle \\pm 0 . 2 5 }$ ） $\\mathrm { \\bf { g } }$ 斜带石斑鱼幼鱼随机分为4组，每组4个水族箱（体积为  \n7 $ { 1 2 0 \\mathrm { L } } )$ ，每箱放养25尾。试验鱼每天投喂饲料2次至表观饱食，养殖周期 $8 4 { \\mathrm { ~ d ~ } }$ ，分别在饲喂的第28、  \n8 56 和84天称重、取样。试验第 $_ { 1 \\sim 2 8 }$ 天为第1个生长阶段，第 $2 9 \\sim 5 6$ 天为第2个生长阶段，第 $5 7 \\sim$   \n9 84天为第3个生长阶段。结果表明：在每个生长阶段下，牛磺酸添加组（D2、D3和D4组）试验鱼的  \n10 增重率、特定生长率、摄食率和饲料效率均显著高于未添加牛磺酸组（D1 组）（ $( P { < } 0 . 0 5 )$ ，且D3组试  \n11 验鱼的增重率显著高于其他牛磺酸添加组（第3个生长阶段的D4 组除外） $( P { < } 0 . 0 5 ) \\$ 。在同一饲料牛磺  \n12 酸水平下，第1个生长阶段试验鱼的增重率、特定生长率、摄食率和饲料效率均显著高于第2个和第3个生长阶段（ $( P { < } 0 . 0 5 )$ 。在饲喂至第 28、56 和84天时，各牛磺酸添加组试验鱼的肝体比和脏体比均显著低于未添加牛磺酸组（ $( P { < } 0 . 0 5 )$ ，肥满度则与未添加牛磺酸组无显著差异（ $( P { > } 0 . 0 5 )$ 。在同一饲料牛磺酸水平下，饲喂至第56和84天时的肝体比和脏体比均显著低于饲喂至第28天时（ $( P { < } 0 . 0 5 )$ 。饲喂 $8 4 { \\mathrm { d } }$ 时，各牛磺酸添加组鱼体的粗蛋白质含量显著高于而粗脂肪含量显著低于未添加牛磺酸组（ $P { < } 0 . 0 5 )$ ）°上述结果表明，饲料中维持一定水平的牛磺酸有利于斜带石斑鱼幼鱼的生长，饲料牛磺酸不足或过多均不利于其生长。饲料中添加牛磺酸降低斜带石斑鱼幼鱼体脂沉积而增加体蛋白质沉积。以增重率为评价指标，通过回归分析得到3个生长阶段斜带石斑鱼幼鱼饲料的适宜牛磺酸水平分别为 $1 . 2 0 \\%$ （第1个生长阶段，体重： $1 3 . 8 3 { \\sim } 3 9 . 0 9 \\mathrm { g }$ ）、 $1 . 0 8 \\%$ （第2个生长阶段，体重： $3 9 . 0 9 \\mathrm { - } 6 6 . 8 8 \\mathrm { g }$ ）、 $1 . 0 0 \\%$ （第3个生长阶段，体重： $6 6 . 8 8 \\mathrm { \\sim } 1 0 1 . 0 3 ~ \\mathrm { g }$ ）。斜带石斑鱼幼鱼对牛磺酸的需要随鱼龄的增长而下降。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：斜带石斑鱼幼鱼；饲料牛磺酸水平；生长阶段；生长性能；体成ク中图分类号：S963 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛磺酸是动物体内不参与蛋白质代谢的含量最多的游离氨基酸，在调节机体生理机能方面具有多种重要的生物学功能[]。牛磺酸的一个重要功能是在肝脏中与胆酸结合生成胆汁酸，并提高限速酶胆固醇7α-羧化酶的活性，加强胆固醇向胆汁酸转化，促进脂肪的消化与代谢[2]。饲料中蛋白质和脂肪水平一定的情况下，饲料中添加牛磺酸能够提高草鱼(Ctenopharyngodon idella)鱼体的粗蛋白质和粗脂肪含量[3]，但却能降低虹[4]（Oncorhynchus mykiss）、大西洋鲑[5](Salmo salar)和大菱鲆[6]（Scophthalmusmaximus）的鱼体粗脂肪含量。本课题组前期的研究也发现，饲料中添加牛磺酸提高了尼罗罗非鱼[7](Oreochromis niloticus)而降低了斜带石斑鱼[8]（Epinephelus coioides）的鱼体粗脂肪含量，表明牛磺酸与鱼类脂肪代谢存在密切关系。牛磺酸还是一种条件性必需氨基酸。除了猫科等少数几种哺乳动物不能合成牛磺酸外，大多数脊椎动物具有一定的牛磺酸合成能力，但在幼龄期体内牛磺酸合成量相对不足，满足不了生长发育的需求，需要外源补充[9]。在鱼类中，饲料中添加牛磺酸能够提高大菱鲆[2]和牙鲆[10]（Paralichthys olivaceus）的生长性能，当饲料中缺乏牛磺酸时，会抑制军曹鱼[(（Rachycentron canadum）和虹鳟[12]的生长，甚至会导致绿肝综合征的发生[13-14]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鱼类在不同生长阶段对牛磺酸的需要量不同，如牙鲆仔鱼（体重： $2 . 4 { \\mathrm { g } } { \\dot { . } }$ )对牛磺酸需要量是幼鱼（体重： $ { 1 4 . 5 \\mathrm { ~ g ~ } }$ ）的3倍[15]，而鱼类在幼鱼期不同阶段对饲料牛磺酸的需要量目前未见研究报道。幼鱼期作为鱼类从仔鱼期到成熟期过渡的重要阶段，也是鱼体器官组织快速成长的阶段，对营养物质的需要也会发生相应变化。因此，本试验配制等氮等脂的不同牛磺酸水平的饲料，设定3个生长阶段（每个阶段养殖期设为 $2 8 \\mathrm { d }$ )，对斜带石斑鱼幼鱼进行为期84d的饲养试验，通过测定生长性能和体成分来探讨饲料中牛磺酸水平与不同生长阶段斜带石斑鱼生长的关系，以期为牛磺酸在水产饲料中的应用提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验饲料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验以酪蛋白和明胶为蛋白质源（不含牛磺酸)，以鱼油、大豆油和大豆卵磷脂为脂肪源，以玉米淀粉为糖源，以微晶纤维素为填充剂，配制牛磺酸水平分别为0(D1)、 $0 . 5 \\%$ （D2）、 $1 . 0 \\%$ （D3）和 $1 . 5 \\%$ （D4）的试验饲料(表1)。将酪蛋白、明胶和虾粉用粉碎机粉碎后过80 目筛网，然后根据饲料配方按比例将所有原料加水混匀，制成粒径为 $2 . 5 \\mathrm { m m }$ 的颗粒饲料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲料组成及营养水平（风干基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Composition and nutrient levels of experimental diets （air-dry basis） % ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/54222b129fab6f1c1c7f51db557b89f7114a169f5165156d57c26e2861758a0d.jpg",
+        "table_caption": [
+            "饲料 Diets"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">饲科 Diets 原料 Ingredients</td></tr><tr><td></td><td>D1</td><td>D2</td><td>D3</td><td>D4</td></tr><tr><td>酪蛋白 Casein1)</td><td>47.00</td><td>47.00</td><td>47.00</td><td>47.00</td></tr><tr><td>明胶 Gelatin2</td><td>8.00</td><td>8.00</td><td>8.00</td><td>8.00</td></tr><tr><td>玉米淀粉 Corn starch</td><td>24.00</td><td>24.00</td><td>24.00</td><td>24.00</td></tr><tr><td>鱼油Fish oil</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>大豆油 Soybean oil</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>大豆卵磷脂 Soybean lecithin</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>维生素预混料 Vitamin premix)</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>矿物质预混料 Mineral premix4)</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>维生素CVitamin C</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>虾粉 Shrimp meal</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>微晶纤维素 Microcrystalline cellulose</td><td>6.18</td><td>5.68</td><td>5.18</td><td>4.68</td></tr><tr><td>牛磺酸 Taurine5)</td><td></td><td>0.50</td><td>1.00</td><td></td></tr><tr><td>合计Total</td><td>100.00</td><td></td><td></td><td>1.50</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td>100.00</td><td>100.00</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/63a3da0ddf2113c21c99462d4a030677fdc028ae4c841cb666ec6ed0f8d3589a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>干物质 Dry matter</td><td>90.81</td><td>90.76</td><td>90.24</td><td>90.21</td></tr><tr><td>粗蛋白质 Crude protein</td><td>49.55</td><td>49.21</td><td>49.13</td><td>49.56</td></tr><tr><td>粗脂肪 Crude lipid</td><td>8.78</td><td>8.61</td><td>8.54</td><td>8.71</td></tr><tr><td>粗灰分 Ash</td><td>2.21</td><td>2.54</td><td>2.35</td><td>2.42</td></tr><tr><td>牛磺酸 Taurine</td><td>0.10</td><td>0.49</td><td>0.96</td><td>1.47</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1酪蛋白购自国药集团化学试剂有限公司。Casein was obtained from Sinopharm Chemical Reagent Co.,Ltd. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）明胶购自国药集团化学试剂有限公司。Gelatin was obtained from Sinopharm Chemical Reagent Co.,Ltd. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）维生素预混料为每千克饲料提供 Vitamin premix supplied the following per $\\mathrm { k g }$ of diets: VA $1 0 \\mathrm { m g }$ ,VD 10 mg， VK 40mg,VE 100 mg, $\\mathrm { V B } _ { 1 }$ 60 mg, $\\mathrm { V B } _ { 2 } 7 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 8 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 4 \\ : \\mathrm { m g }$ ，烟酸nicotinic acid $2 0 0 ~ \\mathrm { { m g } }$ ，泛酸钙 calcium pantothenate$2 0 0 \\mathrm { m g }$ ，生物素biotin $2 \\ : \\mathrm { m g }$ ，肌醇inositol $5 0 0 ~ \\mathrm { m g }$ ，叶酸 folic acid $8 ~ \\mathrm { m g }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4矿物质预混料为每千克饲料提供 Mineral premix supplied the following per $\\mathrm { k g }$ of diets: $\\mathrm { F e S O _ { 4 } }$ ·7H20 497.84 mg, CuSO4·5H2O 11.8 mg, $\\mathrm { Z n S O _ { 4 } { \\cdot } 7 H _ { 2 } O \\ 1 7 5 . 8 4 \\ m g }$ ， $\\mathrm { M n S O _ { 4 } } { \\cdot } 4 \\mathrm { H _ { 2 } O } \\ 1 2 1 . 8 \\ \\mathrm { m g }$ ， $\\mathrm { C o C l _ { 2 } { \\cdot } 6 H _ { 2 } O 0 . 1 8 ~ m g }$ ， $\\mathrm { K I O } _ { 3 } 0 . 5 1 \\mathrm { m g }$ ， $\\mathrm { N a } _ { 2 } \\mathrm { S e O } _ { 3 } 0 . 3 3$ mg。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5牛磺酸购自国药集团化学试剂有限公司，货号为阿拉丁-T103829,纯度为 $9 9 \\%$ 。Taurine was obtained from Sinopharm Chemical Reagent Co.,Ltd., it's item number was Aladdin-T1O3829 and purity was $9 9 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2养殖管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "斜带石斑鱼幼鱼暂养2周后，挑选健康无病、大小基本一致的400尾试验鱼，随机放入16个体积为 $1 2 0 \\mathrm { L }$ 的水族箱中，每个水族箱 25尾，把水族箱随机分为4组，每组4个水族箱（重复)。试验用斜带石斑鱼幼鱼的初始体重为（13.85±0.25）g。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每天分别在08:30和18:30投喂饲料至表观饱食。投喂 $0 . 5 \\mathrm { h }$ 后吸去残饵和粪便，日换水量约 $100 \\%$ 。在养殖过程中，每天观察和记录试验鱼的摄食和行为，养殖周期 $8 4 { \\mathrm { d } }$ ，试验第 $_ { 1 \\sim 2 8 }$ 天为第1个生长阶段，第 $2 9 \\sim 5 6$ 天为第2个生长阶段，第 $5 7 { \\sim } 8 4$ 天为第3个生长阶段。养殖期间水体温度为 $2 4 . 5 { \\sim } 3 0 . 8 \\mathrm { ~ \\normalfont ~ \\textdegree ~ }$ ，溶解氧浓度大于 $5 . 7 \\mathrm { m g / L }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别在试验开始前以及试验第28、56和84天，将每箱中的试验鱼全部捞出称总重，之后放回各自水族箱稳定 $2 4 \\mathrm { h }$ 。再从每箱中随机捞取6尾试验鱼，用丁香酚麻醉，依次测量每尾鱼的体重、体长，解剖取肝脏和其他内脏，并分别称重。在试验第84天时，从各箱中随机捞取3尾试验鱼，保存于 $- 2 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，用于体成分测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 指标测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1常规成分测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "饲料原料、试验饲料和鱼体样品的水分含量采用105℃恒温箱烘干恒重法测定，粗蛋白质含量采用凯氏定氮法（Kjeltec 8400 型凯氏定氮仪）测定，粗脂肪含量采用索氏提取法测定，粗灰分含量采用马弗炉（ $5 5 0 \\mathrm { ~ \\textdegree C }$ ）灼烧法测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 牛磺酸含量的测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按周铭文等的方法提取饲料牛磺酸，再用日立L-8900 型氨基酸自动分析仪测定牛磺酸含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5生长性能指标计算公式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生长性能指标的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "增重率（weight gain rate， $\\mathrm { W G R } , \\% ) \\ = 1 0 0 \\times ( W _ { \\mathrm { t } } { - } W _ { 0 } ) / W _ { 0 }$ 特定生长率（specific growth rate，SGR， $\\% ( \\mathrm { d } ) ~ { = } 1 0 0 \\times ~ ( \\mathrm { l n } W _ { \\mathrm { t } } { - } \\mathrm { l n } W _ { 0 } ) ~ / t ;$ 摄食率（feeding rate，FR，9 $\\mathit { \\hat { o } } / \\mathrm { d } ) \\ = 1 0 0 { \\times } W _ { \\mathrm { f } } / ( W _ { \\mathrm { t } } / 2 { + } W _ { 0 } / 2 ) / t$ 饲料效率（feed efficiency，FE） ${ \\it \\Omega } = ( W _ { \\mathrm { t } } { \\cdot } W _ { 0 } ) / W _ { \\mathrm { f } }$ 肝体比（hepatosomatic index，HSI， $\\% ) \\ { = } 1 0 0 { \\times } W _ { \\mathrm { h } } / W _ { \\mathrm { b } }$ 脏体比（viscerasomatic index，VSI， $\\% ) \\ { = } 1 0 0 { \\times } W _ { \\mathrm { v } } / W _ { \\mathrm { b } }$ 肥满度（condition factor，CF， $\\mathrm { g } / \\mathrm { c m } ^ { 3 } ) = 1 0 0 { \\times } W _ { \\mathrm { b } } / L ^ { 3 } .$ 0 式中： $W _ { 0 }$ 为初始均重（g)； $W _ { \\mathrm { t } }$ 为终末均重（g)； $W _ { \\mathrm { f } }$ 为摄食饲料总量（g)； $W _ { \\flat }$ 为样品鱼体重（g)； $W _ { \\mathrm { h } }$ 为样品鱼肝脏重 ${ \\bf \\Pi } ( { \\bf g } )$ ; $W _ { \\mathrm { v } }$ 为样品鱼内脏重 ${ \\bf \\Pi } ( { \\bf g } )$ ; $L$ 为样品鱼体长（cm)； $\\mathbf { \\chi } _ { t }$ 为投喂天数（d)。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6数据统计与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS17.0进行单因素方差分析（one-way ANOVA）和双因素方差分析（two-way ANOVA），所有试验数据均以平均值 $\\pm$ 标准差（mean±SD）表示，若存在显著性差异时，采用Student-Newmnan-Keuls法进行多重比较，差异显著性水平为 $P { < } 0 . 0 5$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1饲料牛磺酸水平对不同生长阶段斜带石斑鱼幼鱼生长性能的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲料牛磺酸水平对不同生长阶段斜带石斑鱼幼鱼生长性能影响的结果见表2和表3。由表2可知，在每个生长阶段，所有牛磺酸添加组（D2、D3、D4 组）试验鱼的WGR、FE、SGR 和FR均显著高于未添加牛磺酸组（D1组）（ $. P { < } 0 . 0 5 )$ 。在每个生长阶段，WGR均随着饲料牛磺酸水平的升高呈现出先升高后下降的趋势，除第3个生长阶段的D4组外，D3组的WGR 均显著高于同生长阶段的其他牛磺酸添加组组 ( $( P { < } 0 . 0 5 )$ ；除了第2个生长阶段中D3组的SGR 显著高于D4组（ $_ { \\cdot \\cdot P < 0 . 0 5 }$ ）外，第1个和第3个生长阶段中D3组的 SGR、FE 和FR与其他牛磺酸添加组差异不显著（ $( P { > } 0 . 0 5 )$ 。由表3可知，在每个饲料牛磺酸水平下，第2个和第3个生长阶段的WGR、SGR、FE和FR均显著低于第1个生长阶段中 $( P { < } 0 . 0 5 )$ ，且饲料牛磺酸水平和生长阶段以及二者的交互作用对这4个指标均有显著的影响( $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/804dd1d3175a751c1735dd46ea38a573606a6776693ea78cfbdf1bc4e6ee8ba4.jpg",
+        "table_caption": [
+            "表2饲料牛磺酸水平对不同生长阶段斜带石斑鱼幼鱼生长性能的影响",
+            "Table 2Effects of dietary taurine level on growth performance of juvenile grouper under different growth periods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Growth</td><td>组别</td><td>初始均重</td><td>终末均重</td><td>增重率</td><td>特定生长率</td><td>饲料效率</td><td>摄食率</td></tr><tr><td>periods</td><td>Groups</td><td>IAW/g</td><td>FAW/g</td><td>WGR%l</td><td>SGR/(%/d)</td><td>FE</td><td>FR/(%/d)</td></tr><tr><td>第1个生长</td><td>D1</td><td>13.85±0.35</td><td>36.05±1.45a</td><td>156.74±8.69a</td><td>1.46±0.55a</td><td>0.58±0.11a</td><td>3.91±0.36a</td></tr><tr><td>阶段The</td><td>D2</td><td>13.83±0.26</td><td>36.65±2.43a</td><td>165.42±12.31b</td><td>1.51±0.10b</td><td>0.77±0.08b</td><td>4.78±0.26b</td></tr><tr><td>1st growth</td><td>D3</td><td>13.87±0.31</td><td>39.09±1.61b</td><td>181.90±11.12d</td><td>1.63±0.07b</td><td>0.70±0.05b</td><td>5.10±0.29b</td></tr><tr><td>period</td><td>D4</td><td>13.85±0.13</td><td>38.39±1.15b</td><td>177.04±8.06c</td><td>1.60±0.12b</td><td>0.70±0.10b</td><td>4.65±0.19b</td></tr><tr><td>集合标准误Pooled</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SE</td><td></td><td>0.02</td><td>1.24</td><td>6.10</td><td>0.01</td><td>0.01</td><td>0.04</td></tr><tr><td>P值P-value</td><td></td><td>0.321</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.002</td><td><0.001</td></tr><tr><td>第2个生长</td><td>D1</td><td>36.57±1.94</td><td>52.43±5.51a</td><td>43.00±8.08a</td><td>0.61±0.09a</td><td>0.43±0.05a</td><td>3.36±0.11a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生长阶段",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e63ae7400c8cbcbe250274fd0f41ac4bfcc732643f6d734d4914b2bd5ef67c7d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>阶段The</td><td>D2</td><td>36.05±3.49</td><td>57.39±6.51ab</td><td>59.67±3.86b</td><td>0.79±0.04bc</td><td>0.55±0.01b</td><td>3.50±0.05b</td></tr><tr><td>2nd growth</td><td>D3</td><td>38.71±2.28</td><td>66.88±8.25b</td><td>73.68±7.77c</td><td>0.90±0.07c</td><td>0.57±0.04b</td><td>3.58±0.04b</td></tr><tr><td>period</td><td>D4</td><td>37.52±1.96</td><td>59.16±2.15ab</td><td>57.34±6.51b</td><td>0.74±0.10b</td><td>0.54±0.07b</td><td>3.51±0.06b</td></tr><tr><td colspan=\"6\">集合标准误Pooled</td><td></td><td></td></tr><tr><td>SE</td><td></td><td>0.08</td><td>2.65</td><td>3.70</td><td>0.02</td><td>0.01</td><td>0.05</td></tr><tr><td>P值 P-value</td><td></td><td>0.247</td><td>0.012</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>第3个生长</td><td>D1</td><td>47.21±7.28a</td><td>66.56±8.18a</td><td>40.00±1.64a</td><td>0.53±0.13a</td><td>0.32±0.01a</td><td>1.93±0.01a</td></tr><tr><td>阶段The</td><td>D2</td><td>55.70±5.16a</td><td>83.86±7.58b</td><td>53.67±2.71b</td><td>0.63±0.04b</td><td>0.46±0.03b</td><td>2.10±0.05b</td></tr><tr><td>3rd growth</td><td>D3</td><td>63.35±4.34b</td><td>101.03±2.68c</td><td>59.47±3.03c</td><td>0.72±0.14b</td><td>0.51±0.01b</td><td>2.16±0.07b</td></tr><tr><td>period</td><td>D4</td><td>56.47±3.10a</td><td>88.27±2.92b</td><td>56.43±4.86bc</td><td>0.69±0.21b</td><td>0.46±0.02b</td><td>2.12±0.09b</td></tr><tr><td colspan=\"6\">集合标准误Pooled</td><td></td><td></td></tr><tr><td>SE</td><td></td><td>0.12</td><td>4.12</td><td>2.21</td><td>0.01</td><td>0.01</td><td>0.03</td></tr><tr><td>P值P-value</td><td></td><td><0.001</td><td><0.001</td><td>0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "每个生长阶段（饲养天数）中同列数据肩标不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。表5同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Values with different leter superscripts inthe same column of each growth period（feeding day）indicated significant ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "difference $( P { < } 0 . 0 5 )$ . The same as Table 5. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 3Effects of dietary taurine level and growth period on growth performance of juvenile grouper ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0281babbecf6d30e413fcb18f96f9fdc2f5d0eb2486585f5072b69450ae6d5c.jpg",
+        "table_caption": [
+            "表3饲料牛磺酸水平和生长阶段对斜带石斑鱼幼鱼生长性能的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>饲料牛磺酸水平</td><td>生长阶段</td><td>增重率</td><td>特定生长率</td><td>饲料效率</td><td>摄食率</td></tr><tr><td>Dietary taurine levels/%</td><td>Growth periods</td><td>WGR/%</td><td>SGR/(%/d)</td><td>FE</td><td>FR/(%/d)</td></tr><tr><td rowspan=\"6\">0</td><td>第1个生长阶 段 The 1st growth</td><td>156.74±8.69e</td><td>1.46±0.55cd</td><td>0.58±0.11bcd</td><td>3.91±0.36d</td></tr><tr><td>period</td><td></td><td></td><td></td><td></td></tr><tr><td>第2个生长阶</td><td></td><td></td><td></td><td></td></tr><tr><td>段 The 2nd growth</td><td>43.00±8.08a</td><td>0.61±0.09a</td><td>0.43±0.05b</td><td>3.36±0.11c</td></tr><tr><td>period</td><td></td><td></td><td></td><td></td></tr><tr><td>第3个生长阶</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>段</td><td>40.00±1.64a</td><td>0.53±0.13a</td><td>0.32±0.01a</td><td>1.93±0.01a</td></tr><tr><td></td><td>The 3rd growth period</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第1个生长阶</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>段 The 1st growth</td><td>165.42±12.31ef</td><td>1.51±0.10d</td><td></td><td></td></tr><tr><td></td><td>period</td><td></td><td></td><td>0.77±0.08d</td><td>4.78±0.26e</td></tr><tr><td>0.5</td><td>第2个生长阶</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>段 The 2nd growth</td><td>59.67±3.86c</td><td>0.79±0.04bc</td><td>0.55±0.01c</td><td>3.50±0.05cd</td></tr><tr><td>第3个生长阶</td><td>period</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "段",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The 3rd growthperiod第1个生长阶段 The 1st growth 181.90±11.12f 1.63±0.07d 0.70±0.05d 5.10±0.29eperiod第2个生长阶1.0 段 The 2nd growth 73.68±7.77d 0.90±0.07bc 0.57±0.04c 3.58±0.04cdperiod第3个生长阶段59.47±3.03c 0.72±0.14abc 0.46±0.03b 2.16±0.07bThe 3rd growthperiod第1个生长阶段 The 1st growth 177.04±8.06ef 1.60±0.12d 0.70±0.10cd 4.65±0.19eperiod第2个生长阶段 The 2nd growth 57.34±6.51bc 0.74±0.10ab 0.54±0.07bc 3.51±0.06cd1.5period第3个生长阶段56.43±4.86bc 0.69±0.21abc 0.46±0.02b 2.12±0.09bThe 3rd growthperiod集合标准误Pooled SE 6.55 0.13 0.05 0.14$P$ 值 $P$ -value饲料牛磺酸水平 Dietary taurine level <0.001 <0.001 <0.001 <0.001生长阶段 Growth period <0.001 <0.001 <0.001 <0.001饲料牛磺酸水平 $\\mathbf { \\nabla } \\cdot \\mathbf { \\times }$ 生长阶段Dietary taurine<0.001 <0.001 0.002 <0.001levelxgrowth period",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。表6和表7同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Values with different letter superscripts in the same column indicated significant difference $_ { ( P < 0 . 0 5 ) }$ .The same as Table 6 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and Table 7. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了解不同生长阶段斜带石斑鱼幼鱼对饲料牛磺酸的需求差异，以WGR为评价指标，建立了3个生长阶段下斜带石斑鱼幼鱼的WGR 与饲料牛磺酸水平的回归方程（表4)。由表4可知，3个生长阶段下斜带石斑鱼幼鱼饲料牛磺酸的适宜水平分别是 $1 . 2 0 \\%$ （第1个生长阶段，体重： $1 3 . 8 3 { \\sim } 3 9 . 0 9 \\mathrm { ~ g } )$ 、$1 . 0 8 \\%$ （第2个生长阶段，体重： $3 9 . 0 9 \\mathrm { - } 6 6 . 8 8 \\mathrm { ~ g } \\rangle$ ）、 $1 . 0 0 \\%$ （第3个生长阶段，体重： $6 6 . 8 8 \\mathrm { \\sim } 1 0 1 . 0 3 \\mathrm { ~ g } )$ 。由此可见，斜带石斑鱼幼鱼对饲料牛磺酸的需要量与鱼龄密切相关，鱼龄越大，需要的饲料牛磺酸水平越低。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7dede892bdbfc82c5b974cede739ea7e3f99366a989d98f9db68b7973592534.jpg",
+        "table_caption": [
+            "Table 4Relationships between dietary taurine level $( X )$ and WGR(Y) of juvenile grouper at different growth periods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生长阶段 Growth periods</td><td>回归方程 Regressive equations</td><td>R²</td><td>P值P-value</td><td>需要量 Requirement/%</td></tr><tr><td>第1生长阶段</td><td rowspan=\"3\">Y=-20.19X²+48.43X+150.54</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td></td></tr><tr><td></td><td><0.001</td></tr><tr><td>The 1st growth</td><td>1.20</td></tr><tr><td>period</td><td rowspan=\"3\"></td><td rowspan=\"3\">0.953</td><td rowspan=\"3\"></td><td></td></tr><tr><td>第2生长阶段</td><td><0.001</td></tr><tr><td>The 2nd growth Y=-35.78X²+77.29X+34.41</td><td>1.08</td></tr><tr><td>period</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td></td></tr><tr><td>第3生长阶段</td><td></td></tr><tr><td>The 3rd growth Y=-40.30X²+80.82X+57.49</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2饲料牛磺酸水平对不同饲喂天数斜带石斑鱼幼鱼形态学指标的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以饲喂天数和饲料牛磺酸水平作为试验因子，对斜带石斑鱼幼鱼的形态学指标进行方差分析，结果见表5和表6。由表5可知，在饲喂至第28、56和84天时，各牛磺酸添加组试验鱼的HSI和VSI均显著低于未添加牛磺酸组（ $P { < } 0 . 0 5 )$ ，CF 则与未添加牛磺酸组无显著差异（ $P { > } 0 . 0 5 )$ 。各牛磺酸添加组的HSI、VSI、CF均无显著差异（ $( P { > } 0 . 0 5 )$ 。由表6可知，在每个饲料牛磺酸水平下，饲喂至第 56 和84天时的HSI和VSI均显著低于饲喂至第28天时（ $P { < } 0 . 0 5 \\$ )。饲料牛磺酸水平与饲喂天数及二者的交互作用对HSI和VSI均存在显著的影响（ $. P { < } 0 . 0 5 )$ ，但CF只受饲喂天数的显著影响（ $_ { _ { P < 0 . 0 5 ) } }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/310c7743583d8ff38519d654c6c2dd8e0cf134ad626b415633e24e1a8af0cfcc.jpg",
+        "table_caption": [
+            "表5饲料牛磺酸水平对不同饲喂天数斜带石斑鱼幼鱼形态学指标的影响",
+            "Table 5Effects of dietary taurine level on morphological indices of juvenile grouper at different feeding days "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>饲养天数Feeding days/d</td><td>组别Groups</td><td>肝体比 HSI/%</td><td>脏体比VSI/%</td><td>肥满度CF/(g/cm3)</td></tr><tr><td rowspan=\"4\">28</td><td>D1</td><td>3.19±0.31a</td><td>9.05±0.42a</td><td>1.47±0.73</td></tr><tr><td>D2</td><td>2.25±0.20b</td><td>7.87±0.57b</td><td>1.46±0.04</td></tr><tr><td>D3</td><td>2.24±0.45b</td><td>7.64±0.56b</td><td>1.46±0.02</td></tr><tr><td>D4</td><td>2.09±0.33b</td><td>7.49±0.56b</td><td>1.48±0.04</td></tr><tr><td>集合标准误 Pooled SE P值 P-value</td><td></td><td>0.11</td><td>0.32</td><td>0.01</td></tr><tr><td rowspan=\"4\">56</td><td></td><td><0.001</td><td><0.001</td><td>0.123</td></tr><tr><td>D1</td><td>2.65±0.21a</td><td>7.88±0.30a</td><td>2.68±0.12</td></tr><tr><td>D2</td><td>1.93±0.23b</td><td>6.90±0.34b</td><td>2.65±0.15</td></tr><tr><td>D3</td><td>1.65±0.13b</td><td>6.86±0.23b</td><td>2.67±0.13</td></tr><tr><td></td><td>D4</td><td>1.75±0.13b</td><td>6.49±0.28b</td><td>2.65±0.20</td></tr><tr><td>集合标准误 Pooled SE P值P-value</td><td></td><td>0.07 <0.001</td><td>0.24 <0.001</td><td>0.02 0.243</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a162ecaa0a008b7d0a84810bb065f8e86e501385399fb5ad87f3004ebc5ca759.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>D1 2.20±0.44a</td><td>7.28±0.60a</td><td>2.26±0.32</td></tr><tr><td></td><td>D2 1.34±0.17b</td><td>5.92±0.11b</td><td>2.24±0.15</td></tr><tr><td>84</td><td>D3 1.34±0.12b</td><td>6.19±0.20b</td><td>2.25±0.44</td></tr><tr><td></td><td>D4 1.58±0.18b</td><td>6.12±0.36b</td><td>2.24±0.16</td></tr><tr><td colspan=\"2\">集合标准误 Pooled SE</td><td>0.02 0.26</td><td>0.04</td></tr><tr><td colspan=\"2\">P值P-value</td><td><0.001</td><td><0.001 0.541</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4088fdaf56124405815023266092cd6a908c85a74c4be17f3d9432280ea79da.jpg",
+        "table_caption": [
+            "Table 6Effects of dietary taurine level and feeding day on morphological indices of juvenile grouper "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>饲料牛磺酸水平 饲喂天数 Feeding days/d Dietary taurine levels/%</td><td>肝体比 HSI/%</td><td>脏体比 VSI/%</td><td>肥满度 CF/(g/cm3)</td></tr><tr><td>28</td><td>3.19±0.31f</td><td>9.05±0.42e</td><td>1.47±0.73ab</td></tr><tr><td>56</td><td>2.65±0.21e</td><td>7.88±0.30d</td><td>2.68±0.12c</td></tr><tr><td>84</td><td>2.20±0.44bcde</td><td>7.28±0.60bcd</td><td>2.26±0.32bc</td></tr><tr><td>28</td><td>2.25±0.20de</td><td>7.87±0.57d</td><td>1.46±0.04a</td></tr><tr><td>0.5 56</td><td>1.93±0.23bcd</td><td>6.90±0.34bc</td><td>2.65±0.15c</td></tr><tr><td>84</td><td>1.34±0.17a</td><td>5.92±0.11a</td><td>2.24±0.15b</td></tr><tr><td>28</td><td>2.24±0.45de</td><td>7.64±0.56cd</td><td>1.46±0.02a</td></tr><tr><td>1.0 56</td><td>1.65±0.13bc</td><td>6.86±0.23bc</td><td>2.67±0.13c</td></tr><tr><td>84</td><td>1.34±0.12a</td><td>6.19±0.20ab</td><td>2.25±0.44bc</td></tr><tr><td>28</td><td>2.09±0.33cd</td><td>7.49±0.56cd</td><td>1.48±0.04a</td></tr><tr><td>56</td><td>1.75±0.13bcd</td><td>6.49±0.28b</td><td>2.65±0.20c</td></tr><tr><td>84</td><td>1.58±0.18ab</td><td>6.12±0.36ab</td><td>2.24±0.16b</td></tr><tr><td>集合标准误Pooled SE</td><td>0.24</td><td>0.37</td><td>0.21</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td></tr><tr><td>饲料牛磺酸水平 Dietary taurine level</td><td><0.001</td><td><0.001</td><td>0.156</td></tr><tr><td>饲喂天数 Feeding days</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>饲料牛磺酸水平×饲喂天数 Dietary taurine levelxfeeding day</td><td><0.001</td><td><0.001</td><td>0.468</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3饲料牛磺酸水平对饲喂 $8 4 { \\mathrm { d } }$ 时斜带石斑鱼幼鱼体成分的影响 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验测定了试验期末各组斜带石斑鱼幼鱼的体成分，结果见表7。与未添加牛磺酸组相比，各牛磺酸添加组鱼体粗蛋白质含量显著升高（ $. P { < } 0 . 0 5 )$ ，粗脂肪含量显著降低（ $P { < } 0 . 0 5 )$ ，但各牛磺酸添加组间的鱼体粗蛋白质和粗脂肪含量差异不显著 （ $. P { > } 0 . 0 5 \\$ )；各组间鱼体水分和粗灰分含量均没有显著差异$( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6c54b415de360ebc524527198fa51041390dc873f67e87b3fdc31f0f0607d161.jpg",
+        "table_caption": [
+            "表6饲料牛磺酸水平和饲喂天数对斜带石斑鱼幼鱼形态学指标的影响",
+            "表7饲料牛磺酸水平对饲喂 $8 4 { \\mathrm { ~ d ~ } }$ 时斜带石斑鱼幼鱼体成分的影响",
+            "Table 7Effects of dietary taurine level on body composition of juvenile grouper after feeding 84( "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别 Groups</td><td>水分Moisture</td><td>粗蛋白质 Crude protein</td><td>粗脂肪 Crude lipid</td><td>粗灰分 Ash</td></tr><tr><td>D1</td><td>69.73±0.68</td><td>17.02±0.61a</td><td>6.98±0.62b</td><td>4.87±0.03</td></tr><tr><td>D2</td><td>69.71±0.46</td><td>17.88±0.15b</td><td>6.69±0.06a</td><td>4.90±0.16</td></tr><tr><td>D3</td><td>69.56±0.98</td><td>17.99±0.29b</td><td>6.56±0.16a</td><td>4.85±0.18</td></tr><tr><td>D4</td><td>69.53±0.19</td><td>17.96±0.03b</td><td>6.66±0.28a</td><td>4.93±0.31</td></tr><tr><td>集合标准误 Pooled SE</td><td>0.15</td><td>0.07</td><td>0.06</td><td>0.02</td></tr><tr><td>P值P-value</td><td>0.921</td><td><0.001</td><td>0.009</td><td>0.452</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "146 大量研究表明，饲料中牛磺酸对鱼类具有明显的促进生长作用[3,10]。在本试验中，饲料牛磺酸缺乏时，斜带石斑鱼表现出较差的生长性能，这与在牙鲆[15-16]、五条[17](Seriola Quinqueradiata)、真鲷[18]（Pagrusmajor）和草鱼3]上所得试验结果一致。饲料牛磺酸水平对斜带石斑鱼生长性能的影响在3个生长阶段具有一致的表现，都是随着饲料牛磺酸水平的升高，WGR呈先升高后下降的趋势（表2），这与在虹[19]和大菱鲆[20]上所得试验结果相一致，可能是因为斜带石斑鱼在幼鱼期具有较强的牛磺酸合成能力[21]，同时牛磺酸添加过多可能引起饲料适口性下降，相应地降低摄食量[22-23]，最终导致生长速度下降。本试验以28d为1个生长阶段，连续测定了3个生长阶段斜带石斑鱼幼鱼的生长性能，从生长性能结果可见，第1个生长阶段的生长速度快于第2个生长阶段，第2个生长阶段的生长速度快于第3个生长阶段（表3)，说明鱼龄越小生长速度越快，这与鱼类生长发育规律相符。以WGR为评价指标，回归分析得到3个生长阶段斜带石斑鱼幼鱼饲料的适宜牛磺酸水平分别为 $1 . 2 0 \\%$ （第1个生长阶段，体重： $1 8 . 8 3 { \\sim } 3 9 . 0 9 \\mathrm { g }$ ）、 $1 . 0 8 \\%$ （第2个生长阶段，体重： $3 9 . 0 9 \\mathrm { - } 6 6 . 8 8 \\mathrm { ~ g }$ 、 $1 . 0 0 \\%$ （第3个生长阶段，体重：$6 6 . 8 8 \\substack { \\sim } 1 0 1 . 0 3 \\mathrm { ~ g }$ )（表4)。由此可见，斜带石斑鱼幼鱼对牛磺酸的需要量也是随着鱼龄的增加而下降，说明动物越接近成年，生长代谢就越趋于稳定，对营养物质的需要量就相对下降。尽管本试验中斜带石斑鱼幼鱼从第1个生长阶段到第3个生长阶段的生长速度逐渐下降，但3个生长阶段仍是斜带石斑鱼养殖过程中的较快生长期。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "牛磺酸对鱼类具有诱食作用[23]。研究已经证实牛磺酸对多种鱼类的摄食具有良好的促进作用[19-20,24-29]。本试验表明，在每个生长阶段下，各牛磺酸添加组斜带石斑鱼幼鱼的 FR 均显著高于未添加牛磺酸组，且在饲料牛磺酸水平为 $1 . 0 \\%$ 时达到最高，说明饲料中一定水平的牛磺酸对斜带石斑鱼幼鱼也有较强的诱食性（表2)。在本试验中，未添加牛磺酸组斜带石斑鱼幼鱼的FR 和FE 明显低于各牛磺酸添加组，且在饲料牛磺酸水平从 $0 . 5 \\%$ 升高至 $1 . 5 \\%$ 时FR和FE 没有进一步的增加，说明饲料中缺乏牛磺酸会影响鱼的摄食并降低营养物质利用[30]；在不考虑饲料牛磺酸水平的情况下，斜带石斑鱼幼鱼的 FR 和FE 在3个生长阶段是逐渐降低的，这也是其在3个生长阶段WGR 逐渐下降的原因之一。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究表明，牛磺酸可促进脂肪的消化、吸收和代谢[31]。本试验结果显示，各牛磺酸添加组鱼体的粗脂肪含量显著低于未添加牛磺酸组（表7)，这与在虹鳟[4]、大菱鲆和大西洋鲑[5]中的研究结果一致，但与在草鱼[3]、罗非鱼[7-8]中的研究结果相反。研究发现，饲料中添加牛磺酸提高了鹑[32]和肉仔鸡[33]肝脏中肝脂酶和脂蛋白脂酶的活性以及降低了肝脏中甘油三酯的含量。本试验虽未测定斜带石斑鱼幼鱼肝脏中相关脂类代谢关键酶的活性，但是本试验结果表明，在不考虑饲喂天数的情况下饲料添加牛磺酸显著降低了斜带石斑鱼幼鱼的HSI和VSI（表5)，这个结果提示牛磺酸降低了鱼体肝脏和其他内脏中脂肪的沉积，而脏器组织脂肪沉积的减少应该是鱼体粗脂肪含量下降的直接原因。本试验中，饲料添加牛磺酸显著提高了鱼体的粗蛋白质含量，说明牛磺酸能够促进斜带石斑鱼幼鱼体蛋白质的沉积，与文献报道的饲料中添加牛磺酸可提高塞内加尔鳎[34]（Solea senegalensis）、草鱼[3]和细点牙鲷（Dentex dentex）[35]体蛋白质沉积的结果一致，这可能与牛磺酸促进体蛋白质合成相关激素的分泌有关[36]。在不考虑饲料牛磺酸水平的情况下，饲喂至第28天时的HSI和VSI均显著高于饲喂至第56和84天时，但后两者间的差异则不显著，这说明斜带石斑鱼幼鱼在经历了一个较为快速的生长发育阶段后，鱼体器官组织发育接近成体，生长发育随之进入一个相对稳定的状态。4结论",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 饲料中维持一定水平的牛磺酸有利于斜带石斑鱼幼鱼的生长，饲料牛磺酸不足或过多都不利于其生长。饲料中添加牛磺酸降低斜带石斑鱼幼鱼体脂沉积而增加体蛋白质沉积。$\\textcircled{2}$ 以WGR 为评价指标，经回归分析得到3个生长阶段斜带石斑鱼幼鱼饲料适宜的牛磺酸水平分别为 $1 . 2 0 \\%$ （第1个生长阶段，体重： $1 8 . 8 3 { \\sim } 3 9 . 0 9 \\mathrm { g }$ ）、 $1 . 0 8 \\%$ （第2个生长阶段，体重： $3 9 . 0 9 \\substack { \\sim } 6 6 . 8 8 \\mathrm { g } \\rangle$ 、$1 . 0 0 \\%$ （第3个生长阶段，体重： $6 6 . 8 8 \\mathrm { \\sim } 1 0 1 . 0 3 \\mathrm { ~ g } )$ ，表明，斜带石斑鱼在在幼鱼期的不同生长阶段对牛磺酸的需求有所差异，且随鱼龄的增长而逐渐降低。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献： [1]HUXTABLE R J.Physiological actions of Taurine[J].Physiological Reviews,1992,72(1):101-163. [2] YUN B,AI Q H,MAI K S,et al.Synergistic effects of dietary cholesterol and taurine on growth performance and cholesterol metabolism in juvenile turbot (Scophthalmus maximus L.） fed high plant protein diets[J].Aquaculture,2012,324-325:85-91. [3] 罗莉,文华,王琳,等.牛磺酸对草鱼生长、品质、消化酶和代谢酶活性的影响[J].动物营养学 报,2006,18(3):166-171. [4] 徐奇友,许红,郑秋珊,等.牛磺酸对虹鳟仔鱼生长、体成分和免疫指标的影响[J].动物营养学 报,2007,19(5):544-548. [5]ESPE M,RUOHONEN K,EL-MOWAFI A.Effect of taurine supplementation on the metabolism and body lipid-to-proteinratioinjuvenileAtlanticsalmon (Salmosalar)[J].Aquaculture Research,2012,43(3):349-360. [6] 贠彪.在高植物蛋白饲料中添加胆固醇、牛磺酸和大豆皂甙对大菱鲆生长性能和胆固醇代谢的影响 [D].博士学位论文.青岛:中国海洋大学,2012. [7] 周铭文,王和伟,叶继丹.饲料牛磺酸对尼罗罗非鱼生长、体成分及组织游离氨基酸含量的影响[J].水产 学报,2015,39(2):213-223. [8] 王和伟.饲料牛磺酸水平对吉富罗非鱼和斜带石斑鱼生长的影响[D].硕士学位论文.厦门:集美大 学,2013. [9] CHO K H,KIM E S,CHOUE R,et al.Insufficient taurine in enteral nutrition for patients[J].Nutrition Research,2006,26(9):450-453.   \n08 [10]KIM SK,MATSUNARI H,TAKEUCHI T,et al.Effect of different dietary taurine levels on the   \n09 conjugated bile acid composition and growth performance of juvenile and fingerling Japanese flounder   \n10 Paralichthys olivaceus[J].Aquaculture,2007,273(4):595-601.   \n11 [11] LUNGER A N,MCLEAN E,GAYLORD T G,et al.Taurine supplementation to alternative dietary proteins   \n12 usedinfishmealreplacementenhancesgrowthofjuvenilecobia(Rachycentron   \n13 canadum)[J].Aquaculture,2007,271(1/2/3/4):401-410.   \n14 [12] GURER H,OZGUNES H,SAYGIN E,et al.Antioxidant effect of taurine against lead-induced oxidative   \n15 stress[J].Archives of Environmental Contamination and Toxicology,2OO1,41(4):397-402.   \n16 [13] 肖世平,傅伟龙,江青艳.饲粮中添加牛磺酸对黄鸡性腺发育及其内分泌的影响[J].华南农业大学学   \n17 报,1997,18(2):94-99.   \n18 [14] TAKAGI S,MURATA H,GOTO T,et al.Necessity of dietary taurine supplementation for preventing ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "219 green liver symptom and improving growth performance in yearling red sea bream Pagrus major fed   \n220 nonfishmeal diets based on soy protein concentrate[J].Fisheries Science,2010,76(1):119-130.   \n221 [15] KIM S K,MATSUNARI H,TAKEUCHI T,et al.Comparison of taurine biosynthesis ability between   \n222 juveniles of Japanese flounder and common carp[J].Amino Acids,2008,35(1):161-168.   \n223 [16] KIM S K,TAKEUCHI T,YOKOYAMA M,et al.Effect of dietary supplementation with taurine, $\\beta$ -alanine   \n224 andGABA on the growth of juvenile and fingerling Japanese flounder Paralichthys olivaceus[J].Fisheries   \n225 Science,2003,69(2):242-248.   \n226 [17]MATSUNARI H,TAKEUCHI T,TAKAHASHI M,et al.Effect of Dietary taurine supplementation on   \n227 growth performance of yellowtail juveniles Seriola quinqueradiata[J].Fisheries   \n228 Science,2005,71(5):1131-1135.   \n229 [18] TAKAGI S,MURATA H,GOTO T,et al.Effcacy of taurine supplementation for preventing green liver   \n230 syndrome and improving growth performance in yearling red sea bream Pagrus major fed low-fishmeal   \n231 diet[J].Fisheries Science,2006,72(6):1191-1199.   \n232 [19] GAYLORD T G,TEAGUE A M,BARROWS F T.Taurine supplementation of all-plant protein diets for   \n233 rainbow trout (Oncorhynchus mykis)[J].Journal of the World Aquaculture Society,2006,37(4):509-517.   \n234 [20] QI G S,AI Q H,MAI K S,et al.Effcts of dietary taurine supplementation to a casein-based diet on   \n235 growth performance and taurine distribution in two sizes of juvenile turbot (Scophthalmus maximus   \n236 L.)[J].Aquaculture,2012,358-359:122-128.   \n237 [21] GOTO T,TAKAGI S,ICHIKI T,et al.Studies on the green liver in cultured red sea bream fed low level   \n238 andnon-fish meal diets:relationship between hepatictaurineand biliverdin levels[J].Fisheries   \n239 Science,2001,67(1):58-63.   \n240 [22] TAKAOKA O,TAKII K,NAKAMURA M,et al.Identification of feeding stimulants for marbled   \n241 rockfish[J].Nippon Suisan Gakkaishi,1990,56:345-351.   \n242 [23] CARR W E S.Chemical stimulation of feeding behaviour[M]//HARA T J.Chemoreception in   \n243 fishes.Amsterdam:Elsevier,1982:259-273.   \n244 [24] FUZESSERY Z M,CARR W E S,ACHE B W.Antennular chemosensitivity in the spiny   \n245 lobster,Panulirus argus:studies of taurine sensitive receptors[J].The Biological   \n246 Bulletin,1978,154(2):226-240.   \n247 [25] KIM S K,TAKEUCHI T,YOKOYAMA M,et al.Effect of dietary taurine levels on growth and feeding   \n248 behavior of juvenile Japanese flounder Paralichthys olivaceus[J].Aquaculture,2O05,250(3/4):765-774.   \n249 [26] MATSUNARI H,FURUITA H,YAMAMOTO T,et al.Effect of dietary taurine and cystine on growth   \n250 performance of juvenile red sea bream Pagrus major[J].Aquaculture,20o8,274(1):142-147.   \n251 [27]MARTINEZ JB,CHATZIFOTIS S,DIVANACH P,et al.Effect of dietary taurine supplementation on   \n252 growth performance and feed selection of sea bass Dicentrarchuslabrax fry fed with   \n253 demand-feeders[J].Fisheries Science,2004,70(1):74-79.   \n254 [28] TAKAGI S,MURATA H,GOTO T,et al.Taurine is an essential nutrient for yellowtail Seriola   \n255 quinqueradiata fed non-fish meal diets based on soy protein   \n256 concentrate[J].Aquaculture,2008,280(1/2/3/4):198-205.   \n257 [29] 邱小琮,赵红雪,魏智清.牛磺酸对鲤鱼诱食活性的初步研究[J].河北渔业,2006(8):10-11,21. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[30] GARBUTT J T,LACK L,TYOR M P.The enterohepatic circulation of bile salts in gastrointestinal disorders[J].The American Journal of Medicine,1971,51(5):627-636.   \n[31] RUSSELL D W.The enzymes,regulation,and genetics of bile acid synthesis[J].Annual Review of Biochemistry,2003,72(1):137-174.   \n[32] 王芙蓉.牛磺酸对鹌鹑生产性能、免疫功能及脂肪代谢影响的研究[D].博士学位论文.无锡:江南大 学,2010.   \n[33] ZENG D S,GAO Z HHUANG X L,et al.Efect of taurine on lipid metabolism of broilers[J].Journal of Applied Animal Research,2012,40(2):86-89.   \n[34]PINTO W,FIGUEIRA L,RIBEIRO L,et al.Dietary taurine supplementation enhances metamorphosis and growth potential of Solea senegalensis larvae[J].Aquaculture,2010,309(1/2/3/4):159-164.   \n[35] CHATZIFOTIS S,POLEMITOU I,DIVANACH P,et al.Effect of dietary taurine supplementation on growth performance and bile salt activated lipase activity of common dentex,Dentex dentex,fed a fish meal/soy protein concentrate-based diet[J].Aquaculture,2008,275(1/2/3/4):201-208.   \n[36]邱小琮,赵红雪.牛磺酸对鲤生长及血清 ${ { \\mathrm { T } } _ { 3 } }$ 、 $\\mathrm { T } _ { 4 }$ 含量的影响[J].淡水渔业,2006,36(1):22-24. Effects of Dietary Taurine Level on Growth Performance and Body Composition of Juvenile Grouper (Epinephelus coioides) at Different Growth Periods WANG XuexiZHOU Mingwen HUANG YanWANG Kun YE Jidan\\* (Xiamen Key Laboratory for Feed Quality Testing and Safety Evaluation,Fisheries College of Jimei University, Xiamen 361021, China)   \nAbstract: A feeding trial was conducted to investigate the effects of dietary taurine level on growth   \nperformance and body composition of juvenile grouper (Epinephelus coioides） at diferent growth periods.   \nFour experimental diets were formulated to contain O (D1), $0 . 5 \\%$ (D2)， $1 . 0 \\%$ (D3）and $1 . 5 \\%$ (D4） taurine   \nbased on casein and gelatin as protein sources.Juvenile grouper with the initial body weight of $( 1 3 . 8 5 \\pm 0 . 2 5 ) \\$ （20   \ng were allocated to 4 groups and each group had 4 aquariums (the volume of $1 2 0 \\mathrm { { L } }$ ）at a stock density of 25   \nfish per aquarium.The fish were fed to satiation twice daily over a 84-day feeding period, which was divided   \ninto three sub-periods: day 1 to 28 (the 1st growth period),day 29 to 56 (the 2nd growth period)and day 57 to   \n84 (the 3rd growth period). Fish were weighted and sampled on day 28,56 and 84,respectively.The results   \nshowed as follows: the weight gain ratio (WGR)，specific growth rate (SGR)， feeding rate (FR) and feed   \nefficiency (FE)offish in taurine groups（D2,D3 and D4 groups）were significantly higher than those of fish   \nin non-taurine group (D1 group) at each growth period $( P { < } 0 . 0 5 )$ ,and the fish in D3 group had significantly   \nhigher WGR compared with other groups expect D4 group at the 3rd growth period $( P { < } 0 . 0 5 )$ . Moreover, the   \nWGR,SGR,FR andFEoffish at the lst growth period were significantly higher than those of fish at the 2nd   \nand 3rd growth periods at the same dietary taurine level $( P { < } 0 . 0 5 ) \\$ . When feeding on day 28, 56 and 84,the   \nhepatosomatic index (HSI) and viscerasomatic index (VSI) of fish in taurine groups were significantly lower   \nthan those of fish in non-taurine group $( P { < } 0 . 0 5 )$ , but no significant difference was found in condition factor ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(CF) compared with non-taurine group ( $\\mathrm { \\langle } P { > } 0 . 0 5 \\mathrm { \\rangle }$ ).However,significantly lower HSI and VSI of fish were observed on day 56 and 84 compared witho on day 28 at the same dietary taurine level $( P { < } 0 . \\ 0 5 )$ .The whole-body crude protein content was significantly higher, but crude lipid content was significantly lower of fish fed taurine-containing diets than those of fish fed non-taurine diet on day 84 ( $( P { < } 0 . 0 5 )$ . The above results indicate that appropriate dietary taurine level willbe beneficial to the growth of juvenile grouper,and excess or deficient taurine supplementation willhave the opposite effect. Addition of taurine in diets can reduce the lipid deposition but elevate protein deposition of juvenile grouper body at the same time. The appropriate dietary levels calculated base on WGR as the evaluation index at three growth periods are $1 . 2 0 \\%$ (the 1st growth period, body weight: 13.83 to $3 9 . 0 9 ~ \\mathrm { g }$ ， $1 . 0 8 \\%$ (the 2nd growth period, body weight: 39.09 to $6 6 . 8 8 \\ { \\mathrm { g } } { \\cdot }$ and $1 . 0 0 \\%$ (the 3rd growth period, body weight: 66.88 to $\\mathrm { 1 0 1 . 0 3 ~ g }$ , respectively,and this result indicates that the requirement of taurine will decline with fish age. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: juvenile grouper (Epinephelus coioides); dietary taurine level; growth period; growth performance; body composition ",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,328 @@
+# 基于非线性渐变式颜色映射的LIC改进算法
+
+高茂庭，董红周，周凡(上海海事大学 信息工程学院，上海 201306)
+
+摘要：线积分卷积（LIC）算法展现的纹理反映了整个矢量场的方向结构，但却不能展现矢量场的强度大小。针对此问题提出基于非线性渐变式颜色映射的LIC 改进算法，将矢量场强度与白噪声结合作为LIC 的输入纹理，运用FastLIC 思想并划分纹理区域同步执行LIC运算来提高算法效率；再将矢量场强度作非线性变换，根据渐变式颜色映射方案使用OpenCV处理引擎并行实现矢量场强度的颜色映射；最后由LIC 得到的灰度纹理和颜色映射结果确定合成系数并构造累计函数增强二者结果，再进行线性合成运算得到最终的可视化效果。在对全球海洋流场和风场两种典型的矢量场进行可视化以及与其他算法对比实验表明，改进算法得到的可视化效果纹理清晰，较好地展示出矢量场的方向和强度，能够更准确地反映矢量场的全方位信息和局部变化情况。
+
+关键词：线积分卷积；矢量场；场强；可视化；累计函数 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.03.0199
+
+# Improved LIC algorithm based on nonlinear gradual-changing color mapping
+
+Gao Maoting,Dong Hongzhou, Zhou Fan (College of Information Engineering,Shanghai Maritime University,Shanghai 2O1306,China)
+
+Abstract:The texturerevealedbyline integral convolution (LIC)reflects thedirectional structureofthe whole vectorfield, butcannotshowthefield intensity.Inorder to solve thisproblem,this paper proposedanimprovedLICalgorithmbasedon nonlineargradual-changingcolor mapping.Firstly,theintensityof vectorfieldcombined with white noise to formthe input textureof improved LIC,whichused the ideaof FastLICanddividesthetextureintoseveralregions forsynchronous executioof LIC,to improve theeficiencyof LIC.Secondly,the improved LICdoesanon-linear transformationon the intensityof vectorfield,andusedtheprocessingengine,OpenCV,toimplementhecolormappingofthevectorfieldintensity according tothegradual-changingcolor-mapping scheme.Finally,theresultsof graytextureobtainedbyLICandcolor maping determine the syntheticcoeficient,constructingacumulative function enhances thetwo results，and adopting the wayof linear synthesisobtains the final visualization.Simulationresults show that when applied tothe globaloceanflow field and windfield,theproposedalgorithmgeneratesaclearvisualizationdisplays thedirectionand intensityofvectorfieldbeter, and eflects the global information and local changes of the vector field beter,when compared with other algorithms. Key words: line integral convolution; vector field; intensity; visualization; cumulative function
+
+# 0 引言
+
+采用可视化的方式对矢量场数据展示往往是掌握和分析其运动规律的重要手段，也为进一步发现矢量场的特征结构提供了基础支撑。但矢量数据因具有大小和方向两个属性，目前还没有直接适用的可视化模型[1]。实际应用中的矢量场(如海洋流场、风场等)往往具有复杂性和特殊性，传统的点图标法和矢量线法[2已经无法满足其可视化要求。而线积分卷积算法（lineintegralconvolution,LIC）[3]通过生成连续平滑的纹理展现矢量场的方向变化和形状特征，在矢量场可视化中具有独特的优势[4]。
+
+对矢量场数据可视化需要同时考虑方向和强度大小，但LIC 算法生成的纹理只能展示矢量场的方向，并不能反映出矢量场的强度信息，而且算法比较耗时。针对LIC算法存在的问题，许多改进算法先后被提出，张文等人[提出了基于HLS模型的FastLIC 算法，将矢量大小通过HLS颜色模型映射，再利用OpenGL技术将映射结果叠加到FastLIC算法生成的灰度纹理上，为LIC算法展现矢量场强度提供了新思路；陆剑锋等人[6提出了基于对比度数量映射的LIC 算法，通过图像的对比度对矢量场强度进行数量映射，再与LIC纹理合成，结果同时展示了矢量场的方向和大小；张文耀等人[提出了基于HSV模型的LIC算法，将矢量场方向映射为色度，场强大小映射为饱和度，先得到矢量场中各点的HSV颜色值，再转换为相应的RGB值，得到最终的颜色纹理，并通过FastLIC算法提高效率；赵安元等人[8提出了基于查找表的LIC算法，通过建立查找表提前存储流线的方式提高算法效率，将矢量场强度映射为颜色值，与LIC得到的灰度值加权平均得到最终的纹理值；詹芳芳等人[9]提出了基于CUDA架构的颜色增强LIC 算法，通过在CUDA架构上并行实现LIC算法来提高算法的效率，用分类颜色映射方法对矢量场强度进行映射，不仅展示了矢量场的方向和强度，还突出了用户感兴趣区域的矢量场特征；Ding等人[10]提出了基于非稳定流场的并行LIC算法，通过设计流线重用策略和建立值散射收集机制提高LIC算法的效率，再利用GPU的并行性对流场强度进行线性映射，实现了高密集流场的可视化；韩敏等人[I提出了基于GPU 的流线增强型LIC 算法，根据积分点所在区域结合不同的积分方法，自适应更新积分步长来减小LIC的计算量，利用GPU的并行性提高渲染速度，得到的可视化效果可以直观地反映出矢量场的特征分布。
+
+上述LIC改进算法通过将矢量场强度进行颜色映射，再与LIC得到的灰度纹理线性合成得到最终的可视化效果，虽然同时展示了矢量场的方向和强度，但灰度纹理与色彩结合后亮度会变小，导致整体颜色变暗，对比度、视觉分辨度降低；当局部区域矢量场强度变化平缓时，表示场强大小的颜色将难以区分；线性合成系数也没有合适的确定方法，如果灰度纹理的系数过高，则颜色不明显，反之，纹理将不清晰。
+
+因此，本文提出一种基于非线性渐变式颜色映射的LIC改进算法，将矢量场强度与白噪声结合形成新的输入纹理，结合FastLIC算法[I2]思想并划分纹理区域同步执行LIC运算；通过OpenCV处理引擎并行实现矢量场强度的非线性渐变式颜色映射；再根据LIC得到的灰度纹理值和非线性渐变式颜色映射结果确定线性合成系数，并构造附加累计函数将两者结果分别根据函数进行变换，最后合成运算得到最终的彩色纹理可视化效果。
+
+# 1 经典线积分卷积算法
+
+线积分卷积算法（line integral convolution,LIC）是BriamCabral和LeithLeedom在SIGGRAPH93上提出的，这种用卷积形式表示矢量场的方向信息来源于一种运动模糊的思想。LIC 算法作为一种基于纹理的矢量场可视化方法，综合了几何形状映射和颜色映射的长处，生成的纹理在空间上连续平滑，能够清晰地表现出矢量场的方向变化和形状特征，克服了传统点图标法、几何矢量线法等可视化效果混乱的缺点[13]。
+
+在LIC运算中，首先生成一个与矢量场分辨率相同的白噪声作为输入纹理，然后在矢量场中选取点生成流线，即将该点沿矢量场正、反方向对称伸展得到局部流线，将流线上所有对应的输入噪声值按卷积核参与卷积，卷积结果作为输出纹理的灰度值。假定生成的局部流线用 $\sigma ( s )$ 表示， $s$ 是弧长参数， $T$ 为输入的白噪声纹理，LIC 纹理在 $x _ { \mathfrak { o } } = \sigma ( s )$ 处的灰度值为$I ( x _ { 0 } )$ ，则 $I ( x _ { 0 } )$ 计算如式(1)所示。
+
+$$
+I ( x _ { 0 } ) = \frac { 1 } { Z } \int _ { s _ { 0 } - L } ^ { s _ { 0 } + L } k ( s - s _ { 0 } ) T ( \sigma ( s ) ) d s
+$$
+
+其中： $Z = \int _ { - L } ^ { L } k ( s ) d s$ 为归一化参数； $k ( s )$ ， $s \in [ - L , L ]$ 为卷积核函数,不同的卷积核函数将对应不同的卷积结果[14]。经典LIC算法的流程如图1所示。
+
+![](images/0247c900ae8c79a455505d08003a4d2fecff943b8c06d1b6852c468c4437b4c0.jpg)  
+图1经典LIC算法的流程  
+图2基于非线性渐变式颜色映射的LIC改进算法流程
+
+# 2 基于非线性渐变式颜色映射的LIC改进算法
+
+为了更好地显示矢量场的方向和强度信息，获得高分辨率的可视化效果，同时提高LIC算法的效率，本文提出一种基于非线性渐变式颜色映射的LIC改进算法。该算法分为三个模块，如图2所示。
+
+开始?输入矢量场数据  
+LIc运算 非线性渐变矢量场数据预处理（矢量场 i式颜色映射强度提取、归一化) 选取非线性因子0.1，将↓ 矢量场强度进行非线性  
+生成与矢量场规模相同的白 变换噪声纹理 √↓ 根据选定颜色条制定渐白噪声与归一化的矢量场强 变式颜色映射方案，并度数据加权合成新的纹理 ↓ 通过OpenCV实现↓运用FastLIC思想生成积分流线 输出映射结果↓将合成纹理划分为多模块，同步实现卷积运算√输出灰度纹理  
+合成模块根据灰度纹理和映射结果确定线性合成系数，构造附加累计函数分别对灰度纹理和映射结果进行变换，最后通过合成运算得到最终的彩色纹理√矢量场可视化结果结束
+
+第一个模块是LIC运算的改进，将矢量场强度与白噪声相结合形成新的纹理作为LIC运算的输入，在LIC得到的灰度纹理中融入场强信息进行增强显示。为了提高LIC的运算速度，降低算法对硬件的依赖程度，该模块在FastLIC 算法思想的基础上，将合成纹理分成若干区域同步执行LIC运算。
+
+第二个模块是非线性渐变式颜色映射，根据实际应用场景选定颜色表，制定非线性渐变式颜色映射方案并采用OpenCV实现，克服了线性映射在矢量场强度变化不明显区域映射效果不佳的缺点。该模块与第一模块将实现并行计算来提高算法的运行速度。
+
+第三个模块是灰度纹理与非线性渐变式颜色映射结果合成，首先根据各个点的灰度纹理值和映射结果确定线性合成系数；再通过构造附加的累计函数，将灰度纹理值和映射结果根据函数作相应变换；最后合成运算得到最终的彩色纹理结果，克服了一般线性合成方法所得效果亮度暗、纹理不清晰以及合成系数难以确定等缺点。
+
+# 2.1 LIC 运算的改进
+
+经典LIC算法获取原始矢量场后，生成一个与原始矢量场规模一致的白噪声作为输入纹理。假设二维矢量场大小为$X \times Y$ ，由原始矢量场得到的白噪声纹理为 $T$ ，为了计算方便，用 $r a n d ( x , y )$ 表示 $T$ 中各个项的取值，rand $( x , y )$ 为介于[0,1]之间的随机数，则可令 $T$ 为
+
+$$
+T = \left[ \begin{array} { l l l l } { r a n d ( 1 , 1 ) } & { r a n d ( 1 , 2 ) } & { \cdots } & { r a n d ( 1 , y ) } \\ {  } & {  } & {  } & {  } \\ { r a n d ( 2 , 1 ) } & { r a n d ( 2 , 2 ) } & { \cdots } & { r a n d ( 2 , y ) } \\ {  } & {  } & { \ddots } & { \vdots } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } \\ {  } & {  } & {  } & {  } \\ { r a n d ( x , 1 ) } & { r a n d ( x , 2 ) } & { \cdots } & { r a n d ( x , y ) } \end{array} \right]
+$$
+
+文献[15]提出将白噪声纹理着色来区分不同的运动方向，本文方法在白噪声纹理中融入原始矢量场的强度信息进行LIC运算。由式(1)可得在白噪声纹理中融入场强大小后形成新的输入纹理完全可行。通过原始矢量场获得场强矩阵后，为了能够在白噪声矩阵 $T$ 中融入场强大小，需要对原始矢量场强度矩阵进行归一化处理[16]。定义原始矢量场强度矩阵为 $M$ ，归一化处理后的矩阵为 $N$ ，现给出将矩阵 $M$ 中所有项归一化 $[ a , b ]$ 区间的一般方法：
+
+$$
+n _ { x y } = a + \frac { ( b - a ) } { m _ { \mathrm { m a x } } - m _ { \mathrm { m i n } } } ( m _ { x y } - m _ { \mathrm { m i n } } )
+$$
+
+其中： $m _ { x y }$ 为矩阵 $M$ 中的任意项； $n _ { _ { x y } }$ 为 $m _ { _ { x y } }$ 归一化后对应的项，$n _ { _ { x y } } \in [ a , b ]$ ; $m _ { \operatorname* { m a x } }$ 为矩阵 $M$ 中项的最大值； $m _ { \operatorname* { m i n } }$ 为矩阵 $M$ 中项的最小值。最后所得矩阵 $N$ 为
+
+$$
+{ \boldsymbol { N } } = { \left[ \begin{array} { l l l l } { n _ { 1 1 } } & { n _ { 1 2 } } & { \cdots } & { n _ { 1 y } } \\ & & & \\ { n _ { 2 1 } } & { n _ { 2 2 } } & { \cdots } & { n _ { 2 y } } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } \\ & & & & { } \\ { n _ { x 1 } } & { n _ { x 2 } } & { \cdots } & { n _ { x y } } \end{array} \right] }
+$$
+
+由于矩阵 $T$ 中的 $r a n d ( x , y ) \in [ 0 , 1 ]$ ，为了白噪声与矢量场强度更好地融合，此处应该把场强矩阵 $N$ 中的值归一化到[0,1]内，即令式(2)中 $a = 0 , b = 1$ 。由式(1)得 LIC 算法输出的纹理强度 $I ( x _ { 0 } )$ 与白噪声 $T$ 成正相关，在融入场强大小后， $I ( x _ { 0 } )$ 和新生成的纹理依然要保证这种相关性。所以本文采用将白噪声矩阵 $T$ 与归一化的矢量场强度矩阵 $N$ 进行加权求和的方式，矩阵 $T$ 中的各项取值为[0,1]， $M$ 归一化后各项数值的区间为[0,1]。根据矩阵 $T$ ， $N$ 定义一个生成新的输入纹理的函数$\mathbf { g } ( T , N )$ ，令权重系数为 $\alpha , \beta$ ，白噪声融入场强大小后形成的新的纹理为 $\boldsymbol { Q }$ ，则
+
+$$
+Q = \mathbf { g } ( T , N ) = { \frac { \alpha T + \beta N } { \alpha + \beta } }
+$$
+
+$\alpha$ 越大，表示白噪声所占比重越高，由此生成的输出纹理将越能体现矢量场的方向信息； $\beta$ 越大，表示矢量场强度所占比重越高，最终生成的可视化效果越能体现出矢量场的强度信息。
+
+获得新的输入纹理后，LIC算法需要从当前点开始分别向正、反两个方向延伸到两段长为 $L$ 的流线，此过程称为流线生成[17]。本文选用数值积分的方式生成流线。在对海洋流场和风场可视化的应用中，由于实测数据是基于采样点的，这里需要用离散的思想描述LIC算法中流线的轨迹 $s ( t )$ ，用 $V ( s ( t ) , t )$ 表示流线速度，则在一个时间段 $[ t _ { k } , t _ { k + 1 } ]$ 内，流线的轨迹可表示为
+
+$$
+s ( t _ { k + 1 } ) = s ( t _ { k } ) + \int _ { t _ { k } } ^ { t _ { k + 1 } } V ( s ( t ) , t ) d t
+$$
+
+其中： $V ( s ( t ) , t )$ 又可以分解为
+
+$$
+V ( s ( t ) , t ) = [ \nu _ { x } ( [ x , y ] , t ) , \nu _ { y } ( [ x , y ] , t ) ]
+$$
+
+对式(4)进行求解即可得到该点生成的流线。为了对矢量场中复杂微小结构进行很好地展示，本文选用精度最高的变长四阶Runge-Kutta方法[18]求出生成流线，而且随着矢量场数据规模的增加，基于RK4的求解方法加速效果明显。
+
+然而流线生成模块因重复计算大量流线导致LIC算法十分耗时。为了提高算法的运行效率，本文对LIC运算进行了改进。目前降低LIC算法时间复杂度的方式主要分为四类：第一类是将LIC算法改为FastLIC算法，不用重复计算流线，而是充分利用了点之间的相关性，即后一点的纹理值可以由前一个点得出；第二类是并行LIC算法，在大规模并行分布式存储计算机上实现，速度快但对硬件要求特别高；第三类是分级线积分策略[19]，利用多核架构对算法中的积分过程进行加速，缩短LIC运算时间；第四类则是通过GPU实现LIC算法的并行计算，利用GPU大量的执行单元提高算法效率。第二类和第四类对硬件要求过高，对于第三类改进算法，如果矢量场规模增加，则运算时间依旧呈线性增长。本文选择FastLIC算法思想来提高LIC算法的效率，并在此基础上将输入纹理划分为 $n$ 个区域，分模块同步执行LIC运算。FastLIC算法思想提出，根据相邻位置点之间的相关性，可以通过已知点的灰度值求其相邻点的灰度值，避免不必要的流线生成计算。假设 $x _ { 1 }$ 和 $x _ { 2 }$ 是矢量场上相邻的两点，计算它们的卷积时，可以发现这两点生成的流线有很大部分相互覆盖的区域，如图3所示。
+
+![](images/5197ad58c1d3fbd20174f8858479fdc1c3e4a57ba7a9ab8ce8c9d0ca58a000b7.jpg)  
+图3点和 $x _ { 2 }$ 点生成的流线
+
+若已知 $x _ { 1 }$ 处的灰度值为 $I ( x _ { 1 } )$ ，则 $x _ { 2 }$ 处的灰度值 $I ( x _ { 2 } )$ 可通 过式(6)求得
+
+$$
+I ( x _ { 2 } ) = I ( x _ { 1 } ) - I ( \Delta _ { 1 } ) + I ( \Delta _ { 2 } )
+$$
+
+式(6)只在盒式卷积核的情况下成立，且 $I ( \Delta _ { \mathrm { l } } )$ 和 $I ( \Delta _ { _ 2 } )$ 分别是 $\Delta _ { \imath }$ 和 $\Delta _ { 2 }$ 区域的卷积结果。由于数据采样点具有离散的特性，通过式(1)可得到采样点离散情况下 $x _ { 1 }$ 点处纹理灰度值$I ( x _ { 1 } )$ 的计算方法如式(7)所示。
+
+$$
+I ( x _ { 1 } ) = \sum _ { i = - L } ^ { L } T ( x _ { i } ) k ( x _ { i } )
+$$
+
+其中： $x _ { i }$ 为流线上离散点； $T ( x _ { i } )$ 为 $x _ { i }$ 点对应的输入纹理； $k ( x _ { i } )$   
+为 $x _ { i }$ 对 $x _ { 1 }$ 的贡献且满足 $\int _ { - L } ^ { L } k ( x _ { i } ) = 1$ 。
+
+根据采样点离散的特性，若每条长为 $L$ 的流线上有 $n$ 个点，则正反流线上共有 $2 n + 1$ 个点。对于离散点的卷积，需要满足所有参与卷积的点的卷积系数之和为1，且每个点的系数都相等，所以得到系数为 $1 / \left( 2 n + 1 \right)$ ，即式(7)中的 $k ( x _ { i } ) { = } 1 / \left( 2 n + 1 \right)$ ，满足盒式卷积核，不仅保证了显示质量同时得到最快的运算速度，所以 $x _ { 1 }$ 点处的灰度值为
+
+$$
+I ( x _ { 1 } ) = { \frac { 1 } { 2 n + 1 } } ( \sum _ { i = - n } ^ { n } T ( x _ { i } ) )
+$$
+
+将式(3)代入，得到 $x _ { 1 }$ 点处的灰度值计算为
+
+$$
+I ( x _ { 1 } ) = \frac { 1 } { 2 n + 1 } ( \sum _ { i = - n } ^ { n } \frac { \alpha T ( x _ { i } ) + \beta N ( x _ { i } ) } { \alpha + \beta } )
+$$
+
+所以，运用FastLIC思想，基于盒式卷积核，对于任意从点 $x _ { m }$ 开始的LIC运算，不需要重复计算大量流线，只要求出$I ( x _ { m } )$ 的值， $I ( x _ { m + 1 } )$ 和 $I ( x _ { m - 1 } )$ 的值便可通过式(10)(11)求得,且求解采用嵌入式变步长龙格塔库数值积分法，提高了流线计算的准确性。
+
+$$
+\begin{array} { r l } & { I ( x _ { m + 1 } ) = I ( x _ { m } ) + k ( Q ( x _ { m + 1 + L } ) - Q ( x _ { m - L } ) ) } \\ & { I ( x _ { m - 1 } ) = I ( x _ { m } ) + k ( Q ( x _ { m - 1 - L } ) - Q ( x _ { m + L } ) ) } \end{array}
+$$
+
+式(10）（11)中： $k { = } 1 / \left( 2 n + 1 \right)$ ； $Q ( x _ { i } )$ 为式(3)计算得到的新纹理。
+
+# 2.2非线性渐变式颜色映射
+
+为了更好地展现矢量场的强度信息，使视觉效果更佳，本文通过自选定颜色表制定非线性渐变式颜色映射方案对矢量场强度进行颜色渲染并采用OpenCV实现。OpenCV是一个跨平台的计算机视觉库,其强大的视觉处理算法能够准确地从选定的颜色表中获取颜色样本，不需要添加新的外部支持也可以完整地编译链接生成执行程序，在颜色映射方面处理十分高效。本文将借助OpenCV轻量级处理引擎快速实现非线性渐变式颜色映射方案。为了进一步提高算法的效率，颜色映射过程与LIC运算采用并行的处理方式。
+
+# 2.2.1非线性场强值转换
+
+在实际应用中，矢量场强度往往分布不均匀，如果场强集中在一段较小的范围内，线性映射会将场强映射结果集中在某一种颜色区域内，这样就很难区分出局部场强的大小。针对线性映射存在的缺点，本文通过非线性方式转换场强值。从原始矢量场中得到场强大小mag，将场强大小根据式(12)进行转换：
+
+$$
+n e w m a g = \frac { c ^ { m a g } \% a g \strut _ { a g \operatorname* { m a x } } } { c - 1 }
+$$
+
+其中：newmag为非线性变换后的结果； $\scriptstyle { c }$ 为非线性映射因子，实验一般取 $c = 0 . 1$ ； $m a g _ { \mathrm { m a x } }$ 为矢量场强度中的最大值。根据$c = 0 . 1$ 得到式(12)图像如图4所示，由图像可得newmag $\in [ 0 , 1 ]$ 0
+
+![](images/a6bcf6e1f5a8e2a36ad1107c9767d82c97cc64d8547cef6dd3751f21d322617a.jpg)  
+图4 $\scriptstyle \mathtt { c = 0 . 1 }$ 时，newmag与mag 的映射关系
+
+2.2.2渐变式颜色映射
+
+由于本文的实验对象是海洋流场和风场，为了得到较好的颜色映射效果，本文的颜色模型将参照PanoplyWin[20]软件中提供的颜色表。PanoplyWin 软件是由NASA.GISS发布的海洋数据可视化软件，拥有专业的海洋要素颜色映射体系。从PanoplyWin 软件中选取对应海洋流场和风场映射的颜色表如图5所示。
+
+![](images/ccccbb43d92f673d0bef7877d1b008d221ae4ca25fd095b343ac645fd044ca37.jpg)  
+图5PanoplyWin软件中对应流场和风场映射的颜色表
+
+在原始场强经过非线性变换得到新的场强值后，为了实现颜色映射的平滑过渡，本文提出如下的渐变式颜色映射方案：
+
+由OpenCV读取出颜色模型的大小 $w \times h$ ，若要将非线性变换后的newmag根据颜色表进行映射，还需将newmag按照式(13)作放大处理：
+
+$$
+p = \lfloor n e w m a g \times w \rfloor
+$$
+
+$p$ 为newmag变换后的值， $p \in [ 0 , w ]$ 。将颜色表的长、宽分别等分成 $w$ 、 $h$ 份，取其长度上任意相邻的两点，记为$p _ { m } , p _ { m + 1 }$ ，假设 $p$ 落在 $p _ { m } , p _ { m + 1 }$ 之间， $p$ 到 $p _ { { } _ { m } }$ 的距离为 $l _ { \mathrm { { l } } }$ ， $p$
+
+到 $p _ { m + 1 }$ 的距离为 $l _ { 2 }$ ，如图6所示。
+
+![](images/bd201c6c4004ddcedf6d160de8fa4c50a42004fb376c292cc926bc80638456d1.jpg)  
+图6在颜色表的长度上任取两个相邻的点
+
+若要达到渐变效果，则 $p$ 处的颜色取值可由式(14) (15)得出
+
+$$
+c o l o r [ p ] = \frac { l _ { 2 } } { l _ { 1 } + l _ { 2 } } * c o l o r [ p _ { m } ] + \frac { l _ { 1 } } { l _ { 1 } + l _ { 2 } } * c o l o r [ p _ { m + 1 } ]
+$$
+
+$$
+c o l o r [ p _ { m } ] = \frac { 1 } { h } \sum _ { i = 0 } ^ { h - 1 } c o l o r [ p _ { m } , i ]
+$$
+
+式(14)(15)中：color $\cdot _ { p _ { m } , i ] }$ 为颜色表在 $( \boldsymbol { p } _ { m } , i )$ 处的颜色值。将 $l _ { 1 }$ 和 $l _ { 2 }$ 的取值代入式(14)得到原始矢量场中强度mag对应的颜色映射值为
+
+$$
+\begin{array} { c } { { c o l o r [ p ] = ( p _ { m + 1 } - n e w m a g \mathrm { ~ } ^ { * } w ) \mathrm { ~ } ^ { * } c o l o r [ p _ { m } ] } } \\ { { + ( n e w m a g \mathrm { ~ } ^ { * } w - p _ { m } ) c o l o r [ p _ { m + 1 } ] } } \end{array}
+$$
+
+# 2.3灰度纹理与非线性渐变式颜色映射结果合成
+
+在两个模块分别执行完后，需要进行合成才能得到最终的可视化效果。令LIC得到的灰度纹理为 $R _ { \scriptscriptstyle L I C }$ ，颜色映射结果为$R _ { c o l o r }$ ，常见的合成方式如式(17)(18)所示。
+
+$$
+R _ { l a s t } = t R _ { L I C } + ( 1 - t ) R _ { c o l o r }
+$$
+
+$$
+R _ { l a s t } = t \times R _ { L I C } \times R _ { c o l o r }
+$$
+
+式(17)(18)中： $R _ { l a s t }$ 为合成的最终结果； $\mathbf { \xi } _ { t } ^ { }$ 为合成系数，且$\textstyle t \in ( 0 , 1 )$ 。
+
+通过式(17)的合成，虽然可以通过参数 $t$ 来控制灰度纹理和颜色映射结果的显示比重，但得到的效果整体亮度偏暗，对比度、视觉分辨度降低，局部纹理和颜色不清晰等。通过式(18)的合成，不仅同时弱化了纹理和颜色映射的效果，而且运算速度大大降低。由此可知，上述两种方式的合成效果并不理想。
+
+本文通过构造附加累计分布函数来增强灰度纹理与颜色映射结果的显示。过程如下：
+
+a)已知 $R _ { \scriptscriptstyle L I C }$ 的大小为 $X * Y$ ，得到 $R _ { _ { L I C } }$ 中的最大灰度值为$I _ { L I C \operatorname* { m a x } }$ ，最小灰度值为 $I _ { L I C \operatorname* { m i n } }$ 。
+
+b)将 $R _ { \scriptscriptstyle L I C }$ 中的灰度划分为 $n$ 个等份，并标号为$L _ { 1 } , L _ { 2 } , L _ { 3 } , \cdots , L _ { n }$ ，每个等份的区间长度为 $( I _ { L I C \operatorname* { m a x } } - I _ { L I C \operatorname* { m i n } } ) / n$ 。
+
+c)通过统计获得 $R _ { \scriptscriptstyle L I C }$ 中灰度值落在 $L _ { 1 } , L _ { 2 } , L _ { 3 } , \cdots , L _ { n }$ 中点的个数，记为 $h ( L _ { i } ) , i = 1 , 2 , 3 , \cdots , n$ ，并分别求出 $h ( L _ { i } )$ 占总数的百分比，记为 $h s ( L _ { i } ) = h ( L _ { i } ) / ( X * Y )$ ， $i = 1 , 2 , 3 , \cdots , n$ 。
+
+d)计算各个灰度级的累计分布 $h p ( L _ { i } )$ ，即$h p ( L _ { i } ) = \sum _ { j = 0 } ^ { i } h s ( L _ { j } ) \ , i = 1 , 2 , 3 , \cdots , n \ \mathrm { ~ o ~ }$ （20
+
+e)重新分配灰度值 $I ^ { \prime } ( x _ { 0 } )$ ，因为灰度值的取值为[0,255]，所以实验时 $n$ 取255，即
+
+$$
+I ^ { \prime } ( x _ { 0 } ) = \left\{ \begin{array} { l l } { { 2 5 5 ^ { * } \sum _ { j = 0 } ^ { i } { \frac { h ( L _ { j } ) } { x ^ { * } y } } , i = 1 , 2 , 3 , \cdots , n , L _ { j } \not = 0 . } } \\ { { 0 , L _ { j } = 0 } } \end{array} \right.
+$$
+
+假设 $R _ { L I C }$ 中有两个像素点 $R _ { \mathfrak { m } } , R _ { \mathfrak { n } , \mathfrak { n } }$ ，且 $I ( R _ { { } _ { m } } ) < I ( R _ { { } _ { n } } )$ ，因为$h p ( L _ { i } )$ ， $i = 1 , 2 , 3 , \cdots , n$ 在定义域内为增函数，将 $R _ { \mathfrak { m } } , R _ { \mathfrak { n } }$ 的值带入上述式(19)中，得 $I ^ { \prime } ( R _ { _ m } ) < I ^ { \prime } ( R _ { _ n } )$ ，所以通过附加累计函数增强显示的过程并不改变原来灰度纹理的变化趋势。 $R _ { c o l o r }$ 中处理方式同上述 $R _ { L I C }$ 的方法,结果记为 $I _ { c } ^ { \phantom { \dagger } } ( x _ { 0 } )$ ，则最终的合成方式为
+
+$$
+{ I ^ { \prime } } _ { l a s t } ( x _ { 0 } ) = { \frac { I ( x _ { 0 } ) } { I ( x _ { 0 } ) + I _ { c } ( x _ { 0 } ) } } I ^ { \prime } ( x _ { 0 } ) + { \frac { I _ { c } ( x _ { 0 } ) } { I ( x _ { 0 } ) + I _ { c } ( x _ { 0 } ) } } { I _ { c } } ^ { \prime } ( x _ { 0 } )
+$$
+
+其中： $I _ { c } ( x _ { 0 } )$ 为非线性渐变式颜色映射后的结果值。
+
+# 3 实验结果及其分析
+
+# 3.1数据集和实验环境
+
+本文选取全球海洋流场和风场这两个典型的矢量场作为实验对象，采用由美国国家海洋和大气管理局(NOAA)提供的全球海洋流场和风场实测数据。数据格式为NetCDF，时间分辨率为 $^ \mathrm { ~ 6 ~ h ~ }$ ，空间分辨率为 $0 . 2 5 ^ { \mathrm { { o } } } \times 0 . 2 5 ^ { \mathrm { { o } } }$ ，空间覆盖范围为$1 8 0 ^ { \circ } \mathrm { W } { \sim } 1 8 0 ^ { \circ }$ E， $9 0 ^ { \circ } \ \mathrm { ~ S { \sim } 9 0 ~ ^ { \circ } ~ N }$ 。
+
+本文的实验环境为Windows10操作系统，Intelcorei5处理器和8GB内存，开发工具为VS2013，图形库选用OpenCV，代码使用 $^ { C + + }$ 语言实现。
+
+# 3.2 可视化效果对比实验
+
+本文选用适合海洋流场、风场的专业颜色映射表得到的可视化效果与基于HLS、HSV等模型映射的LIC算法得到的可视化效果存在较大的颜色差，区分度很大。所以本实验是在同一颜色映射表下进行，将本文算法三个模块得到的可视化结果分别同对应的经典LIC算法、线性颜色映射方法以及基于线性颜色映射的LIC算法(LCLIC)所得结果进行比较，以此来验证本文算法在矢量场可视化应用中的优劣性。选用全球海洋流场的可视化过程进行实验说明，最后再给出本文算法应用到全球海洋风场中得到的可视化效果。实验采用控制可变因素的方式进行，经过前期多次实验比较，当划分模块的个数 $\scriptstyle n = 5$ 时，能够较好地平衡处理速率和可视化效果质量，积分半长 $L { = } 1 0$ ，$\scriptstyle \alpha = \beta = 1 / 2$ 时，可视化效果最佳。所以，对比实验将以此为基准进行。
+
+在对全球海洋流场数据可视化的应用中，本文改进的LIC运算模块输出的结果如图7(a)所示，经典LIC算法输出的结果如图7(b)所示，黑色阴影部分为陆地面积。本文改进的LIC运算模块得到的可视化效果，已经通过明暗渐变的纹理初步显示了场强的分布，而且流场的方向变化也十分清晰。
+
+![](images/55459fa5fbe3ce3709aee7614e2c56df8e2e0ccd00c549d00133caba564ca446.jpg)  
+（a）本文改进的LIC运算模块得到的灰度纹理效果
+
+![](images/7aa75525ded556c18522fe08fe4abdca21a8e04e986f528f88526cf3fdd6d4cd.jpg)  
+（b）经典LIC算法得到的灰度纹理效果
+
+图8(a)为本文非线性渐变式颜色映射的效果； (b)为采用线性方式颜色映射的效果。本文提出的非线性渐变式颜色映射方法能够适应局部流场强度变化不明显的区域。当局部区域流场强度变化缓慢时，普通的线性映射方法会在该区域形成较大一片颜色相同的区域，如图8(b)中的方框标记区域；而基于本文的方法则可以反映出流场强度变化较小的分布情况，如图8(a)方框标记区域。
+
+![](images/3506a5fb91cb213e2aa9fe8191bd08b38a910523d153dc3261b9c9e8dd317059.jpg)
+
+![](images/ce967a883309309aac7c5a6feb76bf17bff0ebec6036dfb53d57fcbdd6b2294b.jpg)  
+（a）非线性渐变式颜色映射   
+图8非线性渐变式颜色映射与普通线性映射效果对比
+
+![](images/4c962b7099382ee93d662d263e073e1248c98f8d7677aaf05d199f1772580989.jpg)  
+图7本文改进的LIC运算模块与经典LIC 算法的灰度纹理对比
+
+LCLIC 算法是采用式(17)的合成方式，在这种合成方式中，合成系数并没有明确的规定方法。图9(a)为式(17)中 $t = 0 . 3$ 时LCLIC算法得到的可视化结果，纹理不清晰，但色彩比较丰富；图9(b)为式(17)中 $t = 0 . 7$ 时LCLIC算法得到的可视化结果，纹理效果比颜色效果明显。除了合成系数影响外，基于LCLIC 算法得到的可视化效果仍然会整体变暗，纹理和颜色在合成后效果都会被减弱。本文算法明确了合成系数，并构造附加累计函数对两者结果进行变换，克服了合成系数难以确定以及合成效果不理想等缺点。图10为本文算法得到的全球流场可视化效果。
+
+![](images/64c50d5b60d83a501b3fe83fd963279708fdbd9ded262c979bd21a016cf215df.jpg)  
+（a） $t = 0 . 3$ 时LCLIC得到的全球流场可视化效果
+
+![](images/6d2586f719855a0665fb8979eba070a3b00d4055680e1dc43c5d84030f427ddc.jpg)  
+（b） $t = 0 . 7$ 时LCLIC得到的全球流场可视化效果图9线性合成不同合成系数对应的可视化效果  
+图10本文算法得到的全球流场可视化效果
+
+海洋风场可视化的处理流程同海洋流场。图11为本文算法得到的全球海洋风场可视化效果。通过海洋流场和风场这两个复杂矢量场的可视化效果来看，本文提出的基于非线性渐变式颜色映射的LIC改进算法，运用在矢量场可视化中，不仅清晰地展现了矢量场的方向变化，还能表现出矢量场的强度信息。可视化效果具有较高的亮度和对比度，克服了其他LIC改进算法得到的彩色纹理饱和度下降、色彩偏暗、纹理区分度较低等缺点，在矢量场局部区域的可视化中，也能够清晰地展现出方向和强度的变化趋势。
+
+![](images/b112fe08725170ccbb22f31e7c30aa640913775d827ca756e184e8922e55634c.jpg)  
+（b）普通的线性映射  
+图11本文算法得到的全球风场可视化效果
+
+# 3.3算法效率对比实验
+
+# 3.3.1与其他可视化算法的对比实验
+
+为了获取本文算法与其他可视化算法的时耗差距，实验选取了文献[1,2]中所提的点图标法、矢量线法以及拓扑法(分别简写为PIM、VLM、TM)与本文算法(NGCLIC)进行对比实验。表1为上述可视化方法的用时统计。
+
+表1不同可视化方法的用时比较/s  
+
+<html><body><table><tr><td>矢量场</td><td>PIM</td><td>VLM</td><td>TM</td><td>NGCLIC</td></tr><tr><td>720x361</td><td>1.02</td><td>1.36</td><td>2.41</td><td>2.03</td></tr><tr><td>1440x481</td><td>2.54</td><td>3.15</td><td>5.32</td><td>4.39</td></tr></table></body></html>
+
+从时间上可以看出，本文算法的时耗比点图标法和矢量线法高，比拓扑法要低，但在本文算法得到的可视化效果中，纹理方向上的点之间具有更强的相关性，这种特征不仅体现了矢量场数据的连续性，而且达到纹理模拟真实场景的逼真效果，这是点图标法和矢量线法无法达到的。
+
+# 3.3.2与其他LIC改进算法的对比实验
+
+为了分析本文算法与其他LIC改进算法在性能上的差异，实验又选取了文献 $[ 5 \sim 9 ]$ 中所提到的LIC改进算法(分别简写为HFLIC、HSVLIC、LTLIC、NCLIC)与本文算法进行对比实验。表2为不同的LIC改进算法用时统计。
+
+表2不同的LIC改进算法用时比较/s  
+
+<html><body><table><tr><td>矢量场</td><td>HFLIC</td><td>HSVLIC</td><td>LTLIC</td><td>NCLIC</td><td>NGCLIC</td></tr><tr><td>720x361</td><td>2.41</td><td>2.23</td><td>2.14</td><td>1.75</td><td>2.03</td></tr><tr><td>1440x481</td><td>5.32</td><td>4.94</td><td>4.68</td><td>4.27</td><td>4.39</td></tr></table></body></html>
+
+从表2可以看出，本文算法在保证可视化的质量的同时，比文献[5,7,8]中提到的算法在效率上有一定提升，但比文献[9]中的算法效率要低。本文算法通过运用FastLIC思想实现LIC运算模块、划分输入纹理为 $n$ 个模块同步执行LIC运算、选用轻量级的OpenCV处理引擎、并行实现LIC运算和非线性渐变式颜色映射等一系列措施来提高算法的运行速度，这种优势也会随着数据量的增加而慢慢显现；但本文的LIC模块需要生成新的纹理，分模块同步计算需要系统开销，且算法的合成模块需要同时等到LIC结果和颜色映射结果才能执行，所以本文算法依旧存在时耗问题。此外，本文算法没有结合GPU方式进行加速渲染，这也是本文算法比文献[9」中提到的算法效率低的原因，但本文算法对硬件要求不高，适用性更广。
+
+# 4 结束语
+
+本文针对经典LIC算法和LIC改进算法在矢量场强度上映射弱的缺点，提出了基于非线性渐变式颜色映射的LIC改进算法。通过实验验证，改进后的算法适合变化剧烈的海洋流场、风场等典型的矢量场，不仅同时展现了矢量场的方向和强度，而且能够清晰、准确地反映出矢量场全方位信息以及局部区域的变化趋势。所绘制出的彩色纹理连续平滑，保持了较高的色彩亮度和视觉分辨率，取得了较好的可视化效果。用可视化手段处理及表现矢量环境已成为了迫切需要解决的课题。本文算法在海洋流场、风场可视化中的应用，也为气动流场、磁极场等其他矢量场提供新的研究方法。未来本文还将在此基础上充分结合数据挖掘的方法去探寻矢量场的变化规律和特征结构以及其他现象，开建立艮好可视化挖掘机制。
+
+参考文献：   
+[1]王盛波，潘志庚．二维流场可视化方法对比分析及综述[J].系统仿真 学报,2014,26 (9):1875-1881. (Wang Shengbo,Pan Zhigeng.Comparison andanalysis of visualizationmethods for two-dimensional flow fields [J] Journal of System Simulation,2014,26 (9): 1875-1881. )   
+[2] 陈为，张嵩，鲁爱东．数据可视化的基本原理与方法[M].北京：科学 出版社，2013:100-136.(Chen Wei,Zhang Song，Lu Aidong.Basic principlesand methodsof datavisualization [M].BeiJing:SciencePress, 2013: 100-136)   
+[3]Cabral B,Leedom C. Imaging vector fields using line integral convolution [J].ComputerGraphics,1993,27:263-270.   
+[4]Lu D,Zhu D,Wang Z,et al.Efficient level of detail for texture- based flow visualization [J]. Computer Animation & Virtual Worlds,2016,27 (2): 123-140.   
+[5]张文，李晓梅.LIC 纹理中可视矢量大小的方法[J].计算机应用，2000 (S1):15-17. (Zhang Wen,Li Xiaomei. Method of visual vector size in LIC textures [J]. Journal of Computer Applications,2000 (s1): 19-21.)   
+[6] 陆剑锋，潘志庚，张明敏，等．基于图像对比度数量映射的矢量场可视 化算法[J]．系统仿真学报，2004,16(7):1502-1505.(Lu Jianfeng，Pan Zhigeng,ZhangMingmin,etal.Vector field visualizationalgorithmbased on image contrast number mappng [J]. Journal of System Simulation, 2004,16 (7): 1502-1505.)   
+[7] 张文耀，蒋凌霜．基于HSV 颜色模型的二维流场可视化[J].北京理工 大学学报,2010,30(3):302-306.(Zhang Wenyao,Jiang Lingshuang.2D flow field visualization based on HSV color model [J].Transactions of Beijing Institute of Technology,2010,30(3): 302-306.)   
+[8]赵安元，任杰，刘东权．二维和三维矢量场的可视化[J].计算机应用 研究,2011,28(4):1592-1597.(Zhao Anyuan,Ren Jie,Liu Dongquan. Visualization of 2D and 3D vector field [J].Application Research of Computers,2011,28 (4): 1592-1597.)   
+[9]詹芳芳，胡伟，袁国栋．二维LIC 矢量场可视化算法的研究及改进[J]. 计算机科学，2013，40(9):257-261.(Zhan Fangfang，Hu Wei，Yuan Guodong. Improvementof 2D LIC algorithm for vector field visualization [J]. Computer Science,2013,40 (9): 257-261. )   
+[10] Ding Zi'ang,Liu Zhanping,Yu Yang,etal.Parallel unsteady flow line integral convolution for high-performance dense visualization [Cl// Proc of IEEE Visualization Symposium. 2015: 25-30.   
+[11]韩敏，张海超，边茂松，等．流线增强型线性积分卷积流场可视化[J]. 系统仿真学报,2016,28(12):2933-2938.(Han Min,Zhang Haichao,Bian Maosong，et al.Flow visualization based on enhanced streamline line integral convolution [J]. Journal of System Simulation,2O16,28 (12):
+
+2933-2938.)
+
+[12] Li Zhenhai,Luo Zhicai,Wang Haihong,et al.Visualization of gravity vector field using improved FLIC algorithm[J].Geomatics& Information Science of Wuhan University,2011,36(3): 276-270.   
+[13] Matvienko V,Kruger J.Explicit frequency control for high-quality texture-based flow visualization [C]//Proc of IEEE Scientific Visualization Conference.2015:41-48.   
+[14]Karch GK,Sadlo F,WeiskopfD,et al.Visualization of2D unsteady flow using streamline-based concepts in space-time [J].Journal of Visualization, 2016,19 (1): 115-128.   
+[15]李伟，宁建国．着色噪声的LIC 算法 [J].计算机仿真，2003,20(3): 30-32.(Li Wei,Ning Jianguo.Coloring-noise line integral covolution algorithm [J].Computer Simulation,2003,20 (3): 30-32.)   
+[16]Nakatsukasa Y,Soma T,Uschmajew A.Finding a low-rank basis in a matrix subspace [J].Mathematical Programming，2017，162 (1-2): 325-361.   
+[17]Lawonn K,Krone M,Ertl T,et al.Line integral convolution for real-time illustration of molecular surface shape and salient regions [J].Computer Graphics Forum,2014,33(3):181-190.   
+[18] Hamid FNA,Rabiei F, Ismail F.Composite group of explicit Runge-Kutta methods [C]// Proc of International Conference on Mathematical Sciences & Statistics.[S.1.] :AIP Publishing LLC,2016: 577-593.   
+[19] Hlawatsch M, Sadlo F,Weiskopf D.Hierarchical line integration [J]. IEEE Trans on Visualization & Computer Graphics,2011,17(8): 1148.   
+[20] Schmunk R B.Panoply netCDF,HDF and GRIB data viewer [EB/OL]. (2018-01-10) [2018-02-25].https://www.giss.nasa.gov/tools/panoply/ colorbars/.

@@ -1,0 +1,838 @@
+[
+    {
+        "type": "text",
+        "text": "基于自适应控制的八个混沌系统的多级组合同步‘",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙军伟，李楠，王延峰(郑州轻工业学院 电气信息工程学院，郑州 450002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对传统的混沌系统结构样式单一和系统变量少的问题，设计了一种混沌电路系统。该电路有较为复杂的动力学行为，较高的敏感性和较强的抗干扰性。随着电路参数的变化，结合自适应稳定性判据和混沌运动理论详细分析讨论了该系统的不同动力学行为；此外，根据电路图搭建了相应的电路并利用示波器观察该电路的动力学行为，其行为与 MATLAB 的仿真结果相一致，进一步证明了电路的可行性和灵活性。在此基础上，文章重点提出并研究了基于本系统的多级组合同步，通过构造不同的控制器，实现了八个系统之间的多级组合同步。仿真结果表明，该同步方案在收敛速度和精度上具有很好的效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：混沌电路；周期；分岔；暂态混沌；组合同步；系统误差；控制器中图分类号：TP273.1 doi:10.19734/j.issn.1001-3695.2018.05.0445",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-stage combination synchronization of six chaotic systems based on adaptive control ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sun Junwei, Li Nan, Wang Yanfeng (CollegeofElectrical&InformationEngineering,Zhengzhou UniversityofLightIndustry,Zhengzhou45o,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aimingat the problemofsingle structure styleandlessystem variablefortraditional chaotic system,we proposed a chaoticcircuit.Thecircuit has morecomplexdynamic behaviors,highersensitivitytovariable andstrongeranti-interference. With thechange of circuit parameters，we discussed the diferent dynamic behaviors ofthe system in detail based on the adaptive stabilitycriterionand chaos motion theory.Inaddition,weconstructed thecorrsponding circuitandobserved the system dynamics phenomena by osciloscope.The dynamics phenomena are in accordance with the simulation results of Matlab,which furter proves thefeasibilityand flexibilityof thecircuit.Onthis basis，weput forwardand studied he multi-stagecombination synchronization basedonthis system.Byconstructing diferentcontrollers，werealized the multi-stage combination synchronizationamong the eight systems.The simulation resultsshow thatthe synchronization scheme has a good effect on convergence speed and precision. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:chaoticcircuit;period; bifurcation; transientchaos; combination synchronization; system error;controller ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着非线性控制的发展，混沌系统的控制和应用成为非线性科学的一个重要研究方向，尤其是以混沌同步为基础的保密通信在实际应用中得到了广泛的关注。在非线性动力系统中，非线性函数会引起系统的混沌行为。如果系统的非线性函数不同，混沌系统的动力行为和特征也不尽相同。常见的非线性函数有平方函数、立方函数、分段线性函数、单函数等，非线性系统有Geneiso 系统[]、Sprott 系统[2]、Henon 系统[3]、Arneodo-Coullet系统[4]，Chua 系统[5]，Elwakil 系统[6等。然而，许多混沌系统的设计方法都是基于一些著名的混沌系统，如洛伦兹系统、Rossler系统8、Chen系统等。这些系统一般都是从电路设计的角度来构造电路，相对比较复杂，因此有必要从实践方面去研究和构造一些易于实现的电路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "另一方面，将混沌同步应用到保密通信成为近年来保密通信技术的研究热点和竞争较为激烈的研究领域。保密通信[10，11]的主要目标是使通信系统中所传输的有用信号不容易被窃取且能够在通信系统的接收端有效地恢复出来。混沌信号具有许多特殊的性质，如伪随机性、对初始条件和参数的高敏感性、宽带谱性和长期的不可预测性。这些特性满足了一些通信系统对通信保密信号的特殊要求,因此,混沌同步[12\"14]在保密通信方面具有潜在的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "具体来说，混沌同步主要是指响应系统的状态趋近于驱动系统的状态。目前，常见的混沌同步包括完全同步[15]、相位同步[16]、投影同步[17]、广义同步[18,19]、滞后同步[20]、局部同步[21]等。然而，大多数的研究都集中在单驱动系统和单响应系统的同步方案上，研究多驱动系统和多响应系统以及各系统之间的组合同步[224]内容较少，因此有必要对多系统方面的研究给予更多的关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文设计了一种混沌电路系统，该电路有较为复杂的运动轨迹，较高的敏感性和较强的抗干扰性。同时，重点研究了基于本系统的多阶段组合同步，通过构造不同的控制器，实现了八个系统之间的多阶段组合同步。实验验证表明了该系统有着复杂的动力学特性，所提出的同步方案具有很好的准确性和可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1一种新的混沌系统及其基本特性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1电路模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "混沌系统由下面的三阶方程式来表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\dot { x } = a y } \\\\ { \\dot { y } = b ( - x + y ) + y z } \\\\ { \\dot { z } = c - y ^ { 2 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $a , b , c$ 为系统（1）的参数， $x , \\ y , \\ z$ 是系统(1)的状态变量。当 $a { = } 1$ ， $b { = } 1$ ， $c { = } 1$ 时，系统（1）的Lyapunov 指数如图1所示，可以看出Lyapunov 指数为LE1>0， $_ { \\mathrm { L E 2 < 0 } }$ 和$\\mathrm { L E } 3 { < } 0$ ，表明此时系统（1）处于混沌状态。当初始条件：$x ( 0 ) = \\mathbf { 1 }$ ， $y ( 0 ) = \\mathbf { 1 }$ ， $z ( 0 ) = \\mathbf { 1 }$ 时，系统式（1）的混沌吸引子如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/54ae6bc867cfa058f59ef7e737eb63e5308be6ab983852dcc9e9dbc5af6e01df.jpg",
+        "img_caption": [
+            "图1系统式(1)的Lyapunov 指数Fig.1Lyapunov index of formula(1)"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2系统参数的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在这一部分运用分岔图、Lyapunov指数等方法详细讨论了系统式（1）的参数对系统的动力学行为的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1参数a的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $a \\in [ 0 , ~ 5 ]$ ，参数 $\\scriptstyle \\mathbf { b } = 1$ ， $\\scriptstyle { \\mathrm { c } = 1 }$ ，初始条件 $x ( 0 ) = 1$ $y ( \\mathbf { O } ) = \\mathbf { 1 }$ ， $z ( \\mathbf { O } ) = \\mathbf { 1 }$ 时的Lyapunov 指数图和相应的分岔图如图3和4所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "观察图3和4可以看出，当参数 $a \\in [ 0 , \\ 0 . 7 ]$ 时，最大的Lyapunov指数 $\\mathrm { L E 1 } > 0$ ，而且LE1从正值渐渐变为零。如图(5)(a)所示，当 $a { = } 0 . 2$ 时，系统式（1）产生了混沌现象。当参数 $\\boldsymbol { a }$ 继续在区间[0.7,5]增加时，系统再次进入混沌状态，通过在区间[0.7,5]任意取值，可以观察到系统的混沌状态，如图5(b)所示。为了研究初始条件对系统式（1）的影响，在图5中分别用红色曲线代表初始条件为(0.8,1,1.4)时的运动轨迹，蓝色曲线代表初始条件为(1,1,1)时的运动轨迹。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/03ee6acb4fab1c847e24797df8b61e1c9bc8c4341422ee5132eff8f8185f3407.jpg",
+        "img_caption": [
+            "图2系统式(1)的混沌吸引子"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/455612570e11b7764d0752a4b4437177603cdbb781cf4581bb462c18e77ab9cc.jpg",
+        "img_caption": [
+            "Fig.2 Chaotic attractor of formula (1) ",
+            "图3参数a的Lyapunov指数"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/67352478d9d254103419fc9d44adf4738875cf3c9bbea9b286d13b2cf13d2c10.jpg",
+        "img_caption": [
+            "Fig.3 Lyapunov index of parameter a ",
+            "图4参数a的分岔图",
+            "Fig.4Bifurcation diagram of parameter a"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b36a183d186589582f67d4439bc24eacf44953264769ae50d9d7081a4f15791b.jpg",
+        "img_caption": [
+            "图5参数a变化时系统式(1)的混沌吸引子"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2参数b的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $\\boldsymbol { \\mathsf { b } } \\in [ 0 , \\ 5 ]$ ，参数 $\\scriptstyle a = 1$ ， $\\scriptstyle { \\mathrm { c } = 1 }$ ，初始条件 $x ( 0 ) = 1$ $y ( \\mathbf { O } ) = \\mathbf { 1 }$ ， $z ( \\mathbf { O } ) = \\mathbf { 1 }$ 时的Lyapunov 指数图和相应的分岔图如图6和7所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "混沌系统式(1)随参数b的变化产生了丰富而复杂的的动力学行为，如图6、7所示。观察图6可知，当参数b在区间不断增加时，最大的Lyapunov 指数LE1从正值变为零，其动力学行为由混沌变成周期性行为。而当参数 $b \\in [ 0 . 1 , 0 . 2 ]$ 和 $b \\in [ 2 . 6$ 2.9]时，此时最大的Lyapunov指数 $\\mathrm { L E 1 } < 0$ ，系统式（1）出现了周期倍增现象，如图8(a)所示。系统式（1）的混沌行为主要集中在当参数b∈[0,0.1]U[0.2，2.6]U[2.9，5]这三个区间内。因此，系统的共存分岔行为和共存吸引子主要发生在 $\\in [ 0 , 0 . 1 ]$ U[0.2，2.6]U[2.9，5]这三个区间内，如图8(b)所示。这里，分别用红色曲线代表系统（1）在初始条件为(1.5,2.1,1.3)时系统式（1）的运动轨迹，蓝色曲线代表初始条件为(1,1,1)时的运动轨迹。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c57bffab76f0ccd5af5ab6c8d208ec73f5fe9f13ab6b8e7a1da6af7c1a87943d.jpg",
+        "img_caption": [
+            "Fig.5 Chaotic attractor of formula(1) when parameter a changes "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff61f0caaae3518b6057f78f2f0445439228d91a807120c81409b71ba615233e.jpg",
+        "img_caption": [
+            "图8参数b变化时系统式(1)的混沌吸引子"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/480a591883de9908ef294b310a876e871f222f80d37e81b9ef003490e23b69f0.jpg",
+        "img_caption": [
+            "图6参数b的Lyapunov 指数Fig.6Lyapunov index of parameter b",
+            "图7参数b的分岔图",
+            "Fig.7Bifurcation diagram of parameter b"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3参数c的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $c \\in [ 0 . 7$ ，5]，参数 $\\scriptstyle a = 1$ ， $\\scriptstyle \\mathbf { b } = 1$ ，初始条件 $x ( 0 ) = 1$ $y ( \\mathbf { O } ) = \\mathbf { 1 }$ ， $z ( \\mathbf { O } ) = \\mathbf { 1 }$ 时的Lyapunov 指数图和相应的分岔图如图9和10所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过分析图9和10 可以看出系统最大的Lyapunov 指数LE1从零变为正值，表明系统在起点处处于暂态阶段。随着参数c在区间[0.7，1.4]中增加，系统式（1）进入了混沌状态并始终保持，如图(11) $( a )$ 所示。当参数 $c \\in [ 1 . 4 , ~ 1 . 9 ]$ 时，如图9所示，系统式（1）的最大Lyapunov指数LE1等于零，此时系统处于周期倍增阶段，如图(11)(b)所示。当 $c \\in [ 1 . 9 , \\ 5 ]$ 时，最大Lyapunov 指数LE1为正值，系统式（1）再次进入了混沌状态。。在图11中分别用红色曲线代表初始条件为(0.5,1,2.2)时的运动轨迹，蓝色曲线代表初始条件为(1,1,1)时的运动轨迹。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/620e94d75a3b4808ec2c386f6d4fa8cb2c1f2de3a51fb33e3d38af656bab3d08.jpg",
+        "img_caption": [
+            "Fig.8 Chaotic attractor of formula(1) when parameter b changes ",
+            "图9参数c 的Lyapunov 指数"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3197aceef342f369bfee7cf45012150b80366b30fc307788fa141eeb7a7b67a.jpg",
+        "img_caption": [
+            "Fig.9Lyapunov indexof parameter c ",
+            "图10参数c的分岔图",
+            "Fig.10 Bifurcation diagram of parameter c"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b209c40235608645f14e51e31cc8ef3554582a2a81c244c26983a39d9e2475df.jpg",
+        "img_caption": [
+            "图11参数c变化时系统式(1)的混沌吸引子"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 电路的具体实现和结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过利用Multisim构造系统式（1）的电路图，实现了混沌系统式（1）的动力学特性，利用示波器观察实验现象。如图12所示，混沌电路由电阻、电容、运算放大器和乘法器等构成。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/17f86253dae479b5342721e868f49c05bd4b4ef74f4e0e9ea11dab731a077f1a.jpg",
+        "img_caption": [
+            "Fig.11 Chaotic attractor of formula(1) when parameter c changes"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，运算放大器、电阻器和电容器及其外围电路可用于实现积分环节；运算放大器，电阻器和外围电路用来实现比例运算和加法运算；通过乘法器实现了各信号之间的乘法运算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据系统aa (1)的方程，有 $\\scriptstyle a = 1$ ， $\\scriptstyle \\mathbf { b = } 1$ ， $\\mathrm { c } { = } 1$ ，因此系统方程(1)可以构造为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\mathbf { \\dot { x } } = \\frac { R _ { 3 } } { 1 0 0 0 R _ { 1 } C _ { 1 } R _ { 2 } } y } \\\\ { \\displaystyle \\mathbf { \\dot { y } } = \\frac { 1 } { 1 0 0 0 R _ { 8 } C _ { 2 } R _ { 2 } } ( - \\frac { R _ { 5 } } { R _ { 4 } } x + \\frac { R _ { 5 } } { R _ { 6 } } y + \\frac { R _ { 5 } } { R _ { 7 } } y z ) } \\\\ { \\displaystyle \\mathbf { \\dot { z } } = \\mathbf { 1 } - \\frac { R _ { 1 2 } } { 1 0 0 0 R _ { 1 4 } R _ { 1 1 } C _ { 3 } } x ^ { 2 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对比式（1）和（2），保持相对应的系数相等，因此可以得到如下结论。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { R _ { 3 } } { 1 0 0 0 R _ { 1 } R _ { 2 } C _ { 1 } } = 1 , ~ \\frac { R _ { 5 } } { 1 0 0 0 R _ { 8 } R _ { 4 } C _ { 2 } } = 1 , ~ \\frac { R _ { 5 } } { 1 0 0 0 R _ { 8 } R _ { 6 } C _ { 2 } } = 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\frac { R _ { 5 } } { 1 0 0 0 R _ { 8 } R _ { 7 } C _ { 2 } } = 1 , \\frac { R _ { 1 2 } } { 1 0 0 0 R _ { 1 4 } R _ { 1 1 } C _ { 3 } } = 1$ 。电阻的阻值分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$R _ { 1 } = R _ { 8 } = R _ { 1 4 } = 1 0 0 K \\Omega , R _ { 2 } = R _ { 3 } = R _ { 4 } = R _ { 5 } = R _ { 6 }$ $= R _ { 7 } = R _ { 9 } = R _ { 1 0 } = R _ { 1 1 } = R _ { 1 2 } = R _ { 1 3 } = 1 0 K \\Omega$ ；电容值是 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 1 } = C _ { 2 } = C _ { 3 } = 1 0 \\mathrm { n } F ~ , \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据所选的器件，根据Multisim电路图搭建了相应的实物电路图。然后利用示波器调试，得到了系统(1)相应的混沌吸引子，如图13所示。很明显，示波器所得到的图14与Matlab的仿真图2相一致，证明了混沌系统式（1）的正确性和可行性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/533ba1a4b8b8bf92bda27187ed74d10f88ee55c373456d97d8d83914cb22087b.jpg",
+        "img_caption": [
+            "(a) $\\mathbf { x }$ 轴与y轴的相位图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0d3af59e78b913110ddcef6cfefbb52284b91da1181c872a30cafec509b0939.jpg",
+        "img_caption": [
+            "Fig.12Multisimcircuit diagram ",
+            "(a)Phase diagram of $\\mathbf { x }$ -axisand $\\mathsf { y }$ -axis ",
+            "$( { \\bf b } ) { \\bf x }$ 轴与z轴的相位图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a24c7d88a2bc854159df0b9e8c2d30ec93a9d10b55068c748239fcce60ed8f23.jpg",
+        "img_caption": [
+            "图12Multisim 电路图",
+            "(b) Phase diagram of $\\mathbf { \\boldsymbol { x } }$ -axisand $\\mathbf { z }$ -axis ",
+            "图13示波器调试图",
+            "Fig.13 Debugging diagram of oscilloscope "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 多阶段组合同步 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于稳定性理论，考虑以下多个带控制器的混沌系统",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\dot { x } _ { 1 } = f _ { 1 } ( x _ { 1 } ) + u _ { 1 } } \\\\ & { \\dot { x } _ { 2 } = f _ { 2 } ( x _ { 2 } ) + u _ { 2 } } \\\\ & { \\dot { x } _ { 3 } = f _ { 1 } ( y _ { 1 } ) + v _ { 1 } } \\\\ & { \\dot { y } _ { 2 } = g _ { 2 } ( y _ { 2 } ) + v _ { 2 } } \\\\ & { \\dot { z } _ { 1 } = h _ { 1 } ( z _ { 1 } ) + w _ { 1 } } \\\\ & { \\dot { z } _ { 2 } = h _ { 2 } ( z _ { 2 } ) + w _ { 2 } } \\\\ & { \\dot { y } _ { 1 } = \\sigma _ { 1 } ( y _ { 1 } ) + \\xi _ { 1 } } \\\\ & { \\dot { y } _ { 2 } = \\sigma _ { 2 } ( y _ { 2 } ) + \\xi _ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $x _ { 1 } , x _ { 2 } , y _ { 1 } , y _ { 2 } , z _ { 1 } , z _ { 2 } , \\psi _ { 1 } , \\psi _ { 2 } \\in \\Re ^ { n }$ $\\begin{array} { c } { { x _ { 1 } = ( x _ { 1 1 } , x _ { 1 1 } , x _ { 1 3 } \\cdots x _ { 1 n } ) ^ { T } , x _ { 2 } = ( x _ { 2 1 } , x _ { 2 2 } , x _ { 2 3 } \\cdots x _ { 2 n } ) ^ { T } } } \\\\ { { y _ { 1 } = ( y _ { 1 1 } , y _ { 1 1 } , y _ { 1 3 } \\cdots y _ { 1 n } ) ^ { T } , y _ { 2 } = ( y _ { 2 1 } , y _ { 2 2 } , y _ { 2 3 } \\cdots y _ { 2 n } ) ^ { T } } } \\\\ { { z _ { 1 } = ( z _ { 1 1 } , z _ { 1 1 } , z _ { 1 3 } \\cdots z _ { 1 n } ) ^ { T } , z _ { 2 } = ( z _ { 2 1 } , z _ { 2 2 } , z _ { 2 3 } \\cdots z _ { 2 n } ) ^ { T } } } \\\\ { { \\psi _ { 1 } = ( \\psi _ { 1 1 } , \\psi _ { 1 1 } , \\psi _ { 1 3 } \\cdots \\psi _ { 1 n } ) ^ { T } , \\psi _ { 2 } = ( \\psi _ { 2 1 } , \\psi _ { 2 2 } , \\psi _ { 2 3 } \\cdots \\psi _ { 2 n } ) ^ { T } } } \\end{array}$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别是系统 $( \\begin{array} { l } { 3 } \\end{array} ) \\begin{array} { l } { \\begin{array} { r } { \\longrightarrow } \\end{array} ( \\begin{array} { l } { 8 } \\end{array} ) } \\end{array}$ 的状态向量。$f _ { 1 } , f _ { 2 } , g _ { 1 } , g _ { 2 } , h _ { 1 } , h _ { 2 } , \\sigma _ { 1 } , \\sigma _ { 2 }$ 分别是连续函数，u,U,V,V,W,W,S,分别是要设计的控制器。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定义1分别考虑系统式(3)(4)组合和系统式(5)(6)组合的误差；系统式(5)(6)组合和系统式(7)(8)组合的误差；系统式(7)(8)组合和系统式(9)(10)组合的误差，系统式(9)(10)组合和系统式(3)(4)组合的误差，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne = ( e _ { 1 } , e _ { 2 } , e _ { 3 } , e _ { 4 } ) ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $e _ { 1 } = ( e _ { 1 1 } , e _ { 2 1 } , e _ { 3 1 } \\cdots e _ { n 1 } ) ^ { T } , e _ { 2 } = ( e _ { 1 2 } , e _ { 2 2 } , e _ { 3 2 } \\cdots e _ { n 2 } ) ^ { T }$ ，$e _ { 3 } = ( e _ { 1 3 } , e _ { 2 3 } , e _ { 3 3 } \\cdots e _ { n 3 } ) ^ { T } , e _ { 4 } = ( e _ { 1 4 } , e _ { 2 4 } , e _ { 3 4 } \\cdots e _ { n 4 } ) ^ { T }$   \n（20 $e _ { 1 i } = ( \\mathbf { k } _ { 1 i } x _ { 1 i } + \\mathbf { k } _ { 2 i } x _ { 2 i } - \\mathbf { l } _ { 1 i } y _ { 1 i } - \\mathbf { l } _ { 2 i } y _ { 2 i } ) ^ { T } ,$ ，  \n（204 $e _ { 2 i } = ( \\boldsymbol { 1 } _ { 1 i } y _ { 1 i } + \\boldsymbol { 1 } _ { 2 i } y _ { 2 i } - \\mathbf { m } _ { 1 i } z _ { 1 i } - \\mathbf { m } _ { 2 i } z _ { 2 i } ) ^ { T } ,$   \n$e _ { 3 i } = ( \\mathbf { m } _ { 1 i } z _ { 1 i } + \\mathbf { m } _ { 2 i } z _ { 2 i } - \\mathbf { p } _ { 1 i } \\psi _ { 1 i } - \\mathbf { p } _ { 2 i } \\psi _ { 2 i } ) ^ { T } ,$   \n$e _ { 4 i } = ( \\mathbf { p } _ { 1 i } \\psi _ { 1 i } + \\mathbf { p } _ { 2 i } \\psi _ { 2 i } - \\mathbf { k } _ { 1 i } x _ { 1 i } - \\mathbf { k } _ { 2 i } x _ { 2 i } ) ^ { T } ,$ （20号  \n$( \\textit { \\textbf { k } } _ { 1 i } , \\textit { \\textbf { k } } _ { 2 i } , \\textit { l } _ { 1 i } , \\textit { l } _ { 2 i } , m _ { 1 i } , m _ { 2 i } , p _ { 1 i } , p _ { 2 i }$ 分别是常系数，$i = 1 , 2 , 3$ )。如果时间t趋于无穷时， $\\operatorname* { l i m } _ { t \\to \\infty } \\lVert e \\rVert = 0$ ，那么系统式(3)(4)组合和系统式(5)(6)组合达到同步；系统式(5)(6)组合和系统式(7)(8)组合实现同步；系统式(7)(8)组合和系统式(9)(10)组合形成同步；系统式(9)(10)组合和系统式(3)(4)组合实现同步。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了更加具体地说明问题，以系统式（1）为例并且考虑下面八个带控制器的三维系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\dot { x } _ { 1 1 } = x _ { 1 2 } + u _ { 1 1 } } \\\\ { \\dot { x } _ { 1 2 } = - x _ { 1 1 } + x _ { 1 2 } + x _ { 1 2 } x _ { 1 3 } + u _ { 1 2 } } \\\\ { \\dot { x } _ { 1 3 } = 1 - x _ { 1 2 } ^ { 2 } + u _ { 1 3 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\bullet } & { \\bullet } \\\\ { x _ { 2 1 } = x _ { 2 2 } + u _ { 2 1 } } & \\\\ { \\bullet } & \\\\ { x _ { 2 2 } = - x _ { 2 1 } + x _ { 2 2 } + x _ { 2 2 } x _ { 2 3 } + u _ { 2 2 } } \\\\ { \\bullet } & \\\\ { x _ { 2 3 } = 1 - x _ { 2 2 } ^ { 2 } + u _ { 2 3 } } & \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\bullet } & { \\bullet } \\\\ { \\bullet _ { 1 1 } = y _ { 1 2 } + \\nu _ { 1 1 } } & \\\\ { \\bullet } & \\\\ { y _ { 1 2 } = - y _ { 1 1 } + y _ { 1 2 } + y _ { 1 2 } y _ { 1 3 } + \\nu _ { 1 2 } } & \\\\ { \\bullet } & \\\\ { y _ { 1 3 } = 1 - y _ { 1 2 } ^ { 2 } + \\nu _ { 1 3 } } & \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\bullet } & { \\quad } \\\\ { \\overline { { y } } _ { 2 1 } = y _ { 2 2 } + \\nu _ { 2 1 } } & { \\quad } \\\\ { \\bullet } & { \\quad } \\\\ { \\overline { { y } } _ { 2 2 } = - y _ { 2 1 } + y _ { 2 2 } + y _ { 2 2 } y _ { 2 3 } + \\nu _ { 2 2 } } & { \\quad } \\\\ { \\bullet } & { \\quad } \\\\ { \\quad y _ { 2 3 } = 1 - y _ { 2 2 } ^ { 2 } + \\nu _ { 2 3 } } & { \\quad } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\bullet } & { \\bullet } \\\\ { z _ { 1 1 } = z _ { 1 2 } + w _ { 1 1 } } & \\\\ { \\bullet } & \\\\ { z _ { 1 2 } = - z _ { 1 1 } + z _ { 1 2 } + z _ { 1 2 } z _ { 1 3 } + w _ { 1 2 } } & \\\\ { \\bullet } & \\\\ { z _ { 1 3 } = 1 - z _ { 1 2 } ^ { 2 } + w _ { 1 3 } } & \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\bullet } & { \\bullet } \\\\ { z _ { 2 1 } = z _ { 2 2 } + w _ { 2 1 } } & \\\\ { \\bullet } & \\\\ { z _ { 2 2 } = - z _ { 2 1 } + z _ { 2 2 } + z _ { 2 2 } z _ { 2 3 } + w _ { 2 2 } } \\\\ { \\bullet } & \\\\ { z _ { 2 3 } = 1 - z _ { 2 2 } ^ { 2 } + w _ { 2 3 } } & \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\dot { \\psi } _ { 1 1 } = \\psi _ { 1 2 } + \\xi _ { 1 1 } } \\\\ { \\dot { \\psi } _ { 1 2 } = - \\psi _ { 1 1 } + \\psi _ { 1 2 } + \\psi _ { 1 2 } \\psi _ { 1 3 } + \\xi _ { 1 2 } } \\\\ { \\dot { \\psi } _ { 1 3 } = 1 - \\psi _ { 1 2 } ^ { 2 } + \\xi _ { 1 3 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\dot { \\psi } _ { 2 1 } = \\psi _ { 2 2 } + \\xi _ { 2 1 } } \\\\ { \\bullet } \\\\ { \\dot { \\psi } _ { 2 2 } = - \\psi _ { 2 1 } + \\psi _ { 2 2 } + \\psi _ { 2 2 } \\psi _ { 2 3 } + \\xi _ { 2 2 } } \\\\ { \\bullet } \\\\ { \\dot { \\psi } _ { 2 3 } = 1 - \\psi _ { 2 2 } ^ { 2 } + \\xi _ { 2 3 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $u _ { 1 i } , u _ { 2 i } , \\nu _ { 1 i } , \\nu _ { 2 i } , w _ { 1 i } , w _ { 2 i } , \\xi _ { 1 i } , \\xi _ { 2 i } ( i = 1 , 2 , 3 )$ 是需要设计的控制器。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "八个混沌系统分别考虑下面的多阶段组合同步控制器。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { U _ { 1 } = { \\bf k } _ { 1 1 } u _ { 1 1 } + { \\bf k } _ { 2 1 } u _ { 2 1 } - { \\bf l } _ { 1 1 } \\nu _ { 1 1 } - { \\bf l } _ { 2 1 } \\nu _ { 2 1 } } \\\\ { U _ { 2 } = { \\bf l } _ { 1 1 } \\nu _ { 1 1 } + { \\bf l } _ { 2 1 } \\nu _ { 2 1 } - { \\bf m } _ { 1 1 } w _ { 1 1 } - { \\bf m } _ { 2 1 } w _ { 2 1 } } \\\\ { U _ { 3 } = { \\bf m } _ { 1 1 } w _ { 1 1 } + { \\bf m } _ { 2 1 } w _ { 2 1 } - { \\bf p } _ { 1 1 } \\xi _ { 1 1 } - { \\bf p } _ { 2 1 } \\xi _ { 2 1 } } \\\\ { U _ { 4 } = { \\bf p } _ { 1 1 } \\xi _ { 1 1 } + { \\bf p } _ { 2 1 } \\xi _ { 2 1 } - { \\bf k } _ { 1 1 } u _ { 1 1 } - { \\bf k } _ { 2 1 } u _ { 2 1 } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\{ U _ { 5 } = { \\bf k } _ { 1 2 } u _ { 1 2 } + { \\bf k } _ { 2 2 } u _ { 2 2 } - { \\bf l } _ { 1 2 } \\nu _ { 1 2 } - { \\bf l } _ { 2 2 } \\nu _ { 2 2 }  } \\\\ & { \\{ U _ { 6 } = { \\bf l } _ { 1 2 } \\nu _ { 1 2 } + { \\bf l } _ { 2 2 } \\nu _ { 2 2 } - { \\bf m } _ { 1 2 } w _ { 1 2 } - { \\bf m } _ { 2 2 } w _ { 2 2 }  } \\\\ & {  | U _ { 7 } = { \\bf m } _ { 1 2 } w _ { 1 2 } + { \\bf m } _ { 2 2 } w _ { 2 2 } - { \\bf p } _ { 1 2 } \\xi _ { 1 2 } - { \\bf p } _ { 2 2 } \\xi _ { 2 2 }  } \\\\ & {  [ U _ { 8 } = { \\bf p } _ { 1 2 } \\xi _ { 1 2 } + { \\bf p } _ { 2 2 } \\xi _ { 2 2 } - { \\bf k } _ { 1 2 } u _ { 1 2 } - { \\bf k } _ { 2 2 } u _ { 2 2 }   } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left[ U _ { 9 } = { \\bf k } _ { 1 3 } u _ { 1 3 } + { \\bf k } _ { 2 3 } u _ { 2 3 } - \\mathrm { \\bf I } _ { 1 3 } \\nu _ { 1 3 } - \\mathrm { \\bf I } _ { 2 3 } \\nu _ { 2 3 } \\right. } \\\\ & { \\left. \\mathcal { V } _ { 1 0 } = 1 _ { 1 3 } \\nu _ { 1 3 } + \\mathrm { \\bf I } _ { 2 3 } \\nu _ { 2 3 } - \\mathrm { \\bf m } _ { 1 3 } w _ { 1 3 } - \\mathrm { \\bf m } _ { 2 3 } w _ { 2 3 } \\right. } \\\\ & { \\left. \\mathcal { V } _ { 1 1 } = \\mathrm { \\bf m } _ { 1 3 } w _ { 1 3 } + \\mathrm { \\bf m } _ { 2 3 } w _ { 2 1 } - \\mathrm { \\bf p } _ { 1 3 } \\xi _ { 1 3 } - \\mathrm { \\bf p } _ { 2 3 } \\xi _ { 2 3 } \\right. } \\\\ & { \\left. U _ { 1 2 } = \\mathrm { \\bf p } _ { 1 3 } \\xi _ { 1 3 } + \\mathrm { \\bf p } _ { 2 3 } \\xi _ { 2 3 } - { \\bf k } _ { 1 3 } u _ { 1 3 } - { \\bf k } _ { 2 3 } u _ { 2 3 } \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据系统（12）—（19），多阶段同步控制器可以设计为以下形式23-25",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { [ U _ { 1 } = - \\mathrm { k } _ { 1 1 } x _ { 1 2 } - \\mathrm { k } _ { 2 1 } x _ { 2 2 } + \\mathrm { l } _ { 1 1 } y _ { 1 2 } + \\mathrm { l } _ { 2 1 } y _ { 2 1 } - \\alpha _ { 1 } e _ { 1 1 } + \\beta _ { 1 } e _ { 2 1 }  } \\\\ & {  ] U _ { 2 } = - 1 _ { 1 1 } y _ { 1 2 } - 1 _ { 2 1 } y _ { 2 2 } + \\mathrm { m } _ { 1 1 } z _ { 1 2 } + \\mathrm { m } _ { 2 1 } z _ { 2 2 } - \\beta _ { 1 } e _ { 1 1 } - \\alpha _ { 1 } e _ { 4 1 } } \\\\ & {  \\{ U _ { 3 } = - \\mathrm { m } _ { 1 1 } z _ { 1 2 } - \\mathrm { m } _ { 2 1 } z _ { 2 2 } + \\mathrm { p } _ { 1 1 } \\psi _ { 1 2 } + \\mathrm { p } _ { 2 1 } \\psi _ { 2 2 } - \\beta _ { 1 } e _ { 4 1 } - \\gamma _ { 1 } e _ { 3 1 }  } \\\\ & {    U _ { 4 } = - \\mathrm { p } _ { 1 1 } \\psi _ { 1 2 } - \\mathrm { p } _ { 2 1 } \\psi _ { 2 2 } + \\mathrm { k } _ { 1 1 } x _ { 1 2 } + \\mathrm { k } _ { 2 1 } x _ { 2 2 } + \\alpha _ { 1 } e _ { 2 1 } + \\beta _ { 1 } e _ { 3 1 } - \\gamma _ { 1 } e _ { 4 1 }  } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\mathrm { k } _ { 2 2 } x _ { 2 2 } x _ { 2 3 } - \\mathrm { l } _ { 1 2 } y _ { 1 1 } + \\mathrm { l } _ { 1 2 } y _ { 1 2 } + \\mathrm { l } _ { 1 2 } y _ { 1 2 } y _ { 1 3 } - \\mathrm { l } _ { 2 2 } y _ { 2 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ \\mathrm { l } _ { 2 2 } \\mathrm { y } _ { 2 2 } + \\mathrm { l } _ { 2 2 } \\mathrm { y } _ { 2 2 } \\mathrm { y } _ { 2 3 } - \\alpha _ { 2 } e _ { 1 2 } + \\gamma _ { 2 } e _ { 4 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| U _ { 6 } = \\mathrm { l } _ { 1 2 } y _ { 1 1 } - \\mathrm { l } _ { 1 2 } y _ { 1 2 } - \\mathrm { l } _ { 1 2 } y _ { 1 2 } y _ { 1 3 } + \\mathrm { l } _ { 2 2 } y _ { 2 1 } - \\mathrm { l } _ { 2 2 } y _ { 2 2 } - \\mathrm { l } _ { 2 2 } y _ { 2 2 } y _ { 2 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { - m } _ { 1 2 } z _ { 1 1 } + \\mathbf { m } _ { 1 2 } z _ { 1 2 } + \\mathbf { m } _ { 1 2 } z _ { 1 2 } z _ { 1 3 } - \\mathbf { m } _ { 2 2 } z _ { 2 1 } + \\mathbf { m } _ { 2 2 } z _ { 2 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left| U _ { 7 } = \\mathbf { m } _ { 1 2 } z _ { 1 1 } - \\mathbf { m } _ { 1 2 } z _ { 1 2 } - \\mathbf { m } _ { 1 2 } z _ { 1 2 } z _ { 1 3 } + \\mathbf { m } _ { 2 2 } z _ { 2 1 } - \\mathbf { m } _ { 2 2 } z _ { 2 2 } \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { - \\mathbf { m } _ { 2 2 } \\boldsymbol { z } _ { 2 2 } \\boldsymbol { z } _ { 2 3 } - \\mathbf { p } _ { 1 2 } \\psi _ { 1 1 } + \\mathbf { p } _ { 1 2 } \\psi _ { 1 2 } + \\mathbf { p } _ { 1 2 } \\psi _ { 1 2 } \\psi _ { 1 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\mathtt { p } _ { 2 2 } \\psi _ { 2 1 } + \\mathtt { p } _ { 2 2 } \\psi _ { 2 2 } + \\mathtt { p } _ { 2 2 } \\psi _ { 2 2 } \\psi _ { 2 3 } - \\gamma _ { 2 } e _ { 3 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| U _ { 8 } = { \\tt p } _ { 1 2 } \\psi _ { 1 1 } + { \\tt p } _ { 1 2 } \\psi _ { 1 2 } + { \\tt p } _ { 1 2 } \\psi _ { 1 2 } \\psi _ { 1 3 } - { \\tt p } _ { 2 2 } \\psi _ { 2 1 } + { \\tt p } _ { 2 2 } \\psi _ { 2 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { } } & { { } + \\mathtt { p } _ { 2 2 } \\psi _ { 2 2 } \\psi _ { 2 3 } - \\mathbf { k } _ { 1 2 } x _ { 1 1 } + \\mathbf { k } _ { 1 2 } x _ { 1 2 } + \\mathbf { k } _ { 1 2 } x _ { 1 2 } x _ { 1 3 } - \\mathbf { k } _ { 2 2 } x _ { 2 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left\\{ U _ { 0 } = - { \\bf k } _ { 1 3 } + { \\bf k } _ { 1 3 } x ^ { 2 } { \\bf \\sigma } _ { 1 2 } - { \\bf k } _ { 2 3 } + { \\bf k } _ { 2 3 } x ^ { 2 } { \\bf \\sigma } _ { 2 2 } + { \\bf l } _ { 1 3 } - { \\bf l } _ { 1 3 } y ^ { 2 } { \\bf \\sigma } _ { 1 2 } \\right. } \\\\ & { \\left. \\quad \\quad + { \\bf l } _ { 2 3 } - { \\bf k } _ { 2 3 } y ^ { 2 } { \\bf \\sigma } _ { 2 2 } - { \\bf k } _ { 3 } e _ { 1 3 } + \\beta _ { 3 } e _ { 2 3 } + \\gamma _ { 3 } e _ { 4 3 } \\right. } \\\\ & { \\left. \\quad U _ { 1 0 } = - { \\bf l } _ { 1 3 } + { \\bf l } _ { 1 3 } y ^ { 2 } { \\bf \\sigma } _ { 1 2 } - { \\bf l } _ { 2 3 } + { \\bf l } _ { 2 3 } y ^ { 2 } { \\bf \\sigma } _ { 2 2 } + { \\bf l } _ { 1 3 } - { \\bf l } _ { 1 3 } z ^ { 2 } { \\bf \\sigma } _ { 1 2 } \\right. } \\\\ & { \\quad \\quad \\quad \\left. + { \\bf m } _ { 2 3 } - { \\bf m } _ { 2 3 } z ^ { 2 } { \\bf \\sigma } _ { 2 2 } - \\beta _ { 3 } e _ { 1 3 } - \\gamma _ { 3 } e _ { 2 3 } \\right. } \\\\ & { \\left. \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\left. \\quad \\quad \\quad { \\bf p } _ { 1 3 } = - { \\bf m } _ { 1 3 } + { \\bf n } _ { 1 3 } z ^ { 2 } { \\bf \\sigma } _ { 1 2 } ^ { 2 } - { \\bf m } _ { 2 3 } + { \\bf m } _ { 2 3 } z ^ { 2 } { \\bf \\sigma } _ { 2 2 } + { \\bf p } _ { 1 3 } - \\right. } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\left. { \\bf p } _ { 1 3 } y ^ { 2 } { \\bf \\sigma } _ { 1 2 } ^ { 2 } + { \\bf p } _ { 2 3 } - { \\bf p } _ { 2 3 } y ^ { 2 } { \\bf \\sigma } _ { 2 2 } + { \\bf a } _ { 3 } e _ { 3 } - \\gamma _ { 3 } e _ { 3 3 } \\right. \\right. } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ &  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad { \\bf k } _ { 1 3 } x ^ { 2 } { \\bf \\sigma } _ { 1 2 } + { \\bf k } _  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\alpha _ { i } , \\beta _ { i } , \\gamma _ { i } \\left( i = 1 , 2 , 3 \\right)$ 是正常系数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "定理1如果系统误差式（11）的组合控制器是$U _ { 1 } , U _ { 2 } , U _ { 3 } , U _ { 4 } , U _ { 5 } , U _ { 6 } , U _ { 7 } , U _ { 8 } , U _ { 9 } , U _ { 1 0 } , U _ { 1 1 } , U _ { 1 2 }$ ，并且控制器满足条件式（23）～（25），那么系统式（12）～（19）将达到多阶段组合同步。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "证明构造如下的Lyapunov 函数：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( t ) = \\frac { 1 } { 2 } \\sum _ { i = 4 } ^ { 4 } ( e _ { i 1 } ^ { 2 } + e _ { i 2 } ^ { 2 } + e _ { i 3 } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$V ( t )$ 对时间t求导可得",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\dot { V } ( t ) = e _ { 1 1 } \\dot { e } _ { 1 1 } + e _ { 1 2 } \\dot { e } _ { 1 2 } + e _ { 1 3 } \\dot { e } _ { 1 3 } + e _ { 2 1 } \\dot { e } _ { 2 1 } + e _ { 2 2 } \\dot { e } _ { 2 2 } + e _ { 2 3 } \\dot { e } _ { 2 3 } + } \\\\ { \\dot { e } _ { 3 1 } + e _ { 3 2 } \\dot { e } _ { 3 2 } + e _ { 3 3 } \\dot { e } _ { 3 3 } + e _ { 4 1 } \\dot { e } _ { 4 1 } + e _ { 4 2 } \\dot { e } _ { 3 2 } + e _ { 4 3 } \\dot { e } _ { 3 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "考虑系统式（12）～（19）可以得到以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\hat { \\mathbf { \\xi } } _ { x _ { 1 } } ^ { * } } & { = \\mathbf { k } _ { 1 } \\hat { \\mathbf { \\xi } } _ { x _ { 2 } } \\hat { \\mathbf { \\xi } } _ { x _ { 3 } } \\hat { \\mathbf { \\xi } } _ { x _ { 3 } } \\hat { \\mathbf { \\xi } } _ { x _ { 3 } } \\hat { \\mathbf { \\xi } } _ { x _ { 4 } } \\hat { \\mathbf { \\xi } } _ { x _ { 4 } } \\hat { \\mathbf { \\xi } } _ { x _ { 4 } } \\hat { \\mathbf { \\xi } } _ { x _ { 5 } } \\hat { \\mathbf { \\xi } } _ { x _ { 5 } } \\hat { \\mathbf { \\xi } } _ { x _ { 6 } } \\hat { \\mathbf { \\xi } } _ { x _ { 7 } } \\hat { \\mathbf { \\xi } } _ { x _ { 1 } } } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\quad \\quad \\quad \\quad  \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ &  = \\mathbf { k } _ { 1 } \\hat { \\mathbf { \\xi } } _ { x _ { 1 } } \\hat { \\mathbf { \\xi } } _ { x _ { 2 } } \\hat { \\mathbf { \\xi } } _ { x _ { 3 } } \\hat { \\mathbf { \\xi } } _ { x _ { 3 } } \\hat { \\mathbf { \\xi } } _ { x _ { 4 } } \\hat { \\mathbf { \\xi } } _ { x _ { 4 } } \\hat { \\mathbf { \\xi } } _ { x _ { 4 } } \\hat { \\mathbf { \\xi } } _ { x _ { 5 } } \\hat { \\mathbf { \\xi } } _ { x _ { 5 } } \\hat { \\mathbf { \\xi } } _ { x _ { 6 } } \\hat { \\mathbf { \\xi } } _ { x _ { 7 } } \\hat { \\mathbf { \\xi } } _ { x _ { 8 } } \\hat { \\mathbf { \\xi } } _  x  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left. \\mathbf { \\dot { e } } _ { 1 2 } = \\mathbf { k } _ { 1 2 } \\mathbf { \\dot { x } } _ { 1 2 } + \\mathbf { k } _ { 2 2 } \\mathbf { \\dot { x } } _ { 2 2 } - \\mathbf { l } _ { 1 2 } \\mathbf { \\dot { y } } _ { 1 2 } - \\mathbf { l } _ { 2 2 } \\mathbf { \\dot { y } } _ { 2 2 } \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathbf { \\lambda } } & { { } = - \\mathbf { k } _ { 1 2 } x _ { 1 1 } + \\mathbf { k } _ { 1 2 } x _ { 1 2 } + \\mathbf { k } _ { 1 2 } x _ { 1 2 } x _ { 1 3 } - \\mathbf { k } _ { 2 2 } x _ { 2 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ \\mathrm { k } _ { 2 2 } x _ { 2 2 } + \\mathrm { k } _ { 2 2 } x _ { 2 2 } x _ { 2 3 } + \\mathrm { l } _ { 1 2 } y _ { 1 1 } - \\mathrm { l } _ { 1 2 } y _ { 1 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\mathrm { l } _ { 1 2 } y _ { 1 2 } y _ { 1 3 } + \\mathrm { l } _ { 2 2 } y _ { 2 1 } - \\mathrm { l } _ { 2 2 } y _ { 2 2 } - \\mathrm { l } _ { 2 2 } y _ { 2 2 } y _ { 2 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ \\mathrm { k } _ { 1 2 } u _ { 1 2 } + \\mathrm { k } _ { 2 2 } u _ { 2 2 } - \\mathrm { l } _ { 1 2 } \\nu _ { 1 2 } - \\mathrm { l } _ { 2 2 } \\nu _ { 2 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { 2 2 } = { \\mathrm { l } } _ { 1 2 } \\ { \\mathrm { y } } _ { 1 2 } + { \\mathrm { l } } _ { 2 2 } \\ { \\mathrm { y } } _ { 2 2 } - { \\mathrm { m } } _ { 1 2 } \\ { \\mathrm { z } } _ { 1 2 } - { \\mathrm { m } } _ { 2 2 } \\ { \\mathrm { z } } _ { 2 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= - { \\mathrm { l } } _ { 1 2 } y _ { 1 1 } + { \\mathrm { l } } _ { 1 2 } y _ { 1 2 } + { \\mathrm { l } } _ { 1 2 } y _ { 1 2 } y _ { 1 3 } - { \\mathrm { l } } _ { 2 2 } y _ { 2 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ \\mathrm { l } _ { 2 2 } \\mathrm { y } _ { 2 2 } + \\mathrm { l } _ { 2 2 } \\mathrm { y } _ { 2 2 } \\mathrm { y } _ { 2 3 } + \\mathrm { m } _ { 1 2 } \\mathrm { z } _ { 1 1 } - \\mathrm { m } _ { 1 2 } \\mathrm { z } _ { 1 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { - m } _ { 1 2 } z _ { 1 2 } z _ { 1 3 } + \\mathbf { m } _ { 2 2 } z _ { 2 1 } - \\mathbf { m } _ { 2 2 } z _ { 2 2 } - m _ { 2 2 } z _ { 2 2 } z _ { 2 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { l } _ { 1 2 } \\nu _ { 1 2 } + \\mathrm { l } _ { 2 2 } \\nu _ { 2 2 } - \\mathrm { m } _ { 1 2 } w _ { 1 2 } - \\mathrm { m } _ { 2 2 } w _ { 2 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { 3 2 } =  { \\mathbf { m } } _ { 1 2 } \\ : z _ { 1 2 } +  { \\mathbf { m } } _ { 2 2 } \\ : z _ { 2 2 } -  { \\mathbf { p } } _ { 1 2 } \\psi _ { 1 2 } -  { \\mathbf { p } } _ { 2 2 } \\psi _ { 2 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\lambda } = - \\mathbf { m } _ { 1 2 } z _ { 1 1 } + \\mathbf { m } _ { 1 2 } z _ { 1 2 } + \\mathbf { m } _ { 1 2 } z _ { 1 2 } z _ { 1 3 } - \\mathbf { m } _ { 2 2 } z _ { 2 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { } & { { } + \\mathfrak { m } _ { 2 2 } \\bar { z } _ { 2 2 } + { m } _ { 2 2 } \\bar { z } _ { 2 2 } \\bar { z } _ { 2 3 } + \\mathfrak { p } _ { 1 2 } \\psi _ { 1 1 } - \\mathfrak { p } _ { 1 2 } \\psi _ { 1 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\mathtt { p } _ { 1 2 } \\psi _ { 1 2 } \\psi _ { 1 3 } + \\mathtt { p } _ { 2 2 } \\psi _ { 2 1 } - \\mathtt { p } _ { 2 2 } \\psi _ { 2 2 } - \\mathtt { p } _ { 2 2 } \\psi _ { 2 2 } x _ { 2 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { + \\mathtt { m } _ { 1 2 } \\mathtt { w } _ { 1 2 } + \\mathtt { m } _ { 2 2 } \\mathtt { w } _ { 2 2 } - \\mathtt { p } _ { 1 2 } \\xi _ { 1 2 } - \\mathtt { p } _ { 2 2 } \\xi _ { 2 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| e _ { 4 2 } = { \\tt p } _ { 1 2 } \\psi _ { 1 2 } + { \\tt p } _ { 2 2 } \\psi _ { 2 2 } - { \\bf k } _ { 1 2 } x _ { 1 2 } - { \\bf k } _ { 2 2 } x _ { 2 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ l = { \\tt p } _ { 1 2 } \\psi _ { 1 1 } - { \\tt p } _ { 1 2 } \\psi _ { 1 2 } - { \\tt p } _ { 1 2 } \\psi _ { 1 2 } \\psi _ { 1 3 } + { \\tt p } _ { 2 2 } \\psi _ { 2 1 } - { \\tt p } _ { 2 2 } \\psi _ { 2 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\mathtt { p } _ { 2 2 } \\psi _ { 2 2 } x _ { 2 3 } + \\mathtt { k } _ { 1 2 } x _ { 1 1 } - \\mathtt { k } _ { 1 2 } x _ { 1 2 } - \\mathtt { k } _ { 1 2 } x _ { 1 2 } x _ { 1 3 } + \\mathtt { k } _ { 2 2 } x _ { 2 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\mathrm { k } _ { 2 2 } x _ { 2 2 } - \\mathrm { k } _ { 2 2 } x _ { 2 2 } x _ { 2 3 } + \\mathrm { p } _ { 1 2 } \\xi _ { 1 2 } + \\mathrm { p } _ { 2 2 } \\xi _ { 2 2 } - \\mathrm { k } _ { 1 2 } u _ { 1 2 } - \\mathrm { k } _ { 2 2 } u _ { 2 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { | { \\bf r } _ { 0 } = { \\bf k } _ { \\perp } , { \\bf n } _ { 2 } + { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 2 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , } \\\\ & { \\quad - { \\bf k } _ { \\perp } , { \\bf n } _ { 2 } + { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 2 } + { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } - { \\bf k } _ { \\perp } , } \\\\ &  \\quad = { \\bf k } _ { \\perp } , { \\bf n } _ { 3 } + { \\bf k }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过式（23）～（25）对式（28）～（30）简化，可以得到如下的结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\bullet } & { \\bullet } \\\\ { e _ { 1 1 } = - \\alpha _ { 1 } e _ { 1 1 } + \\beta _ { 1 } e _ { 2 1 } } & \\\\ { \\bullet } & \\\\ { e _ { 2 1 } = - \\beta _ { 1 } e _ { 1 1 } - \\alpha _ { 1 } e _ { 4 1 } } & \\\\ { \\bullet } & \\\\ { e _ { 3 1 } = - \\beta _ { 1 } e _ { 4 1 } - \\gamma _ { 1 } e _ { 3 1 } } & \\\\ { \\bullet } & \\\\ { e _ { 4 1 } = \\alpha _ { 1 } e _ { 2 1 } + \\beta _ { 1 } e _ { 3 1 } - \\gamma _ { 1 } } & \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\bullet } & { \\bullet } \\\\ { e _ { 1 2 } = - \\alpha _ { 2 } e _ { 1 2 } + \\gamma _ { 2 } e _ { 4 2 } } & \\\\ { \\bullet } & \\\\ { e _ { 2 2 } = - \\beta _ { 2 } e _ { 2 2 } } & \\\\ { \\bullet } & \\\\ { e _ { 3 2 } = - \\gamma _ { 2 } e _ { 3 2 } } & \\\\ { \\bullet } & \\\\ { e _ { 4 2 } = - \\alpha _ { 2 } e _ { 4 2 } - \\gamma _ { 2 } e _ { 1 2 } } & \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { \\dot { e } _ { 1 3 } = - \\alpha _ { 3 } e _ { 1 3 } + \\beta _ { 3 } e _ { 2 3 } + \\gamma _ { 3 } e _ { 4 3 } } \\\\ { \\bullet } \\\\ { e _ { 2 3 } = - \\beta _ { 3 } e _ { 1 3 } - \\gamma _ { 3 } e _ { 2 3 } } \\\\ { \\bullet } \\\\ { e _ { 3 3 } = \\alpha _ { 3 } e _ { 4 3 } - \\gamma _ { 3 } e _ { 3 3 } } \\\\ { \\bullet } \\\\ { e _ { 4 3 } = - \\alpha _ { 3 } e _ { 3 3 } - \\alpha _ { 3 } e _ { 4 3 } - \\gamma _ { 3 } e _ { 1 3 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将式(31)\\~(33)分别代入式(27)可以得到",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\dot { V } ( t ) = e _ { 1 1 } \\dot { e } _ { 1 1 } + e _ { 1 2 } \\dot { e } _ { 1 2 } + e _ { 1 3 } \\dot { e } _ { 1 3 } + e _ { 2 1 } \\dot { e } _ { 2 1 } + e _ { 2 2 } \\dot { e } _ { 2 2 } + e _ { 2 3 } \\dot { e } _ { 2 3 } + } \\\\ & { \\qquad \\bullet \\qquad \\bullet \\qquad \\bullet \\qquad \\bullet \\qquad \\bullet \\qquad \\bullet } \\\\ & { \\qquad \\quad e _ { 3 1 } \\dot { e } _ { 3 1 } + e _ { 3 2 } \\dot { e } _ { 3 2 } + e _ { 3 3 } \\dot { e } _ { 3 3 } + e _ { 4 1 } \\dot { e } _ { 4 1 } + e _ { 4 2 } \\dot { e } _ { 4 2 } + e _ { 4 3 } \\dot { e } _ { 4 3 } } \\\\ & { \\qquad = - \\alpha _ { 1 } \\dot { e } _ { 1 1 } ^ { 2 } - \\gamma _ { 1 } e _ { 3 1 } ^ { 2 } - \\gamma _ { 1 } e _ { 4 1 } ^ { 2 } - \\alpha _ { 2 } \\dot { e } _ { 1 2 } ^ { 2 } - \\beta _ { 2 } \\dot { e } _ { 2 2 } ^ { 2 } } \\\\ & { \\qquad \\quad - \\gamma _ { 2 } e _ { 3 2 } ^ { 2 } - \\alpha _ { 2 } \\dot { e } _ { 4 2 } ^ { 2 } - \\alpha _ { 3 } e _ { 1 3 } ^ { 2 } - \\beta _ { 3 } \\dot { e } _ { 2 3 } ^ { 2 } - \\gamma _ { 3 } \\dot { e } _ { 2 3 } ^ { 2 } } \\\\ & { \\qquad \\quad - \\gamma _ { 3 } e _ { 3 3 } ^ { 2 } - \\alpha _ { 3 } \\dot { e } _ { 4 3 } ^ { 2 } } \\\\ & { \\qquad \\quad \\le 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\alpha _ { i } , \\beta _ { i } , \\gamma _ { i } \\left( i = 1 , 2 , 3 \\right)$ 是正常系数， $V ( t )$ 是非负数，所以 $\\dot { V } ( t )$ 是非正值。根据Lyapunov 稳定判据，系统误差（11)随时间趋于无穷时， $\\operatorname* { l i m } _ { t \\to \\infty } \\| e \\| = 0$ ，证明完毕。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 仿真结果 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "仿真实验证明了所提出的理论的正确性。假设$\\alpha _ { 1 } = 1 , \\beta _ { 1 } = 2 , \\gamma _ { 1 } = 3 , \\alpha _ { 2 } = 2 , \\beta _ { 2 } = 1 , \\gamma _ { 2 } = 4 ,$ $\\alpha _ { 3 } = 3 , \\beta _ { 3 } = 4 , \\gamma _ { 3 } = 1 , k _ { 1 i } = l _ { 1 i } = m _ { 1 i } = p _ { 1 i } =$ $k _ { _ { 2 i } } = l _ { 2 i } = m _ { 2 i } = p _ { 2 i } = 1 , ( i = 1 , 2 , 3 )$ 。系统的初始状态任意给出如下所示：$( x _ { 1 1 } ( 0 ) , x _ { 1 2 } ( 0 ) , x _ { 1 3 } ( 0 ) ) ^ { T } = ( 1 , 2 , 4 ) ^ { T } ,$ （204$( x _ { 2 1 } ( 0 ) , x _ { 2 2 } ( 0 ) , x _ { 2 3 } ( 0 ) ) ^ { T } = ( 2 , 5 , 1 ) ^ { T } ,$ $( y _ { 1 1 } ( 0 ) , y _ { 1 2 } ( 0 ) , y _ { 1 3 } ( 0 ) ) ^ { T } = ( 2 , 4 , 3 ) ^ { T } ,$ $( y _ { 2 1 } ( 0 ) , y _ { 2 2 } ( 0 ) , y _ { 2 3 } ( 0 ) ) ^ { T } = ( 2 , 5 , 1 ) ^ { T } ,$ $\\begin{array} { r } { ( z _ { 1 1 } ( 0 ) , z _ { 1 2 } ( 0 ) , z _ { 1 3 } ( 0 ) ) ^ { T } = ( 2 , 4 , 3 ) ^ { T } , } \\end{array}$ （204号$( z _ { 2 1 } ( 0 ) , z _ { 2 2 } ( 0 ) , z _ { 2 3 } ( 0 ) ) ^ { T } = ( 6 , 2 , 3 ) ^ { T } ,$ $( \\psi _ { 1 1 } ( 0 ) , \\psi _ { 1 2 } ( 0 ) , \\psi _ { 1 3 } ( 0 ) ) ^ { T } = ( 1 , 5 , 2 ) ^ { T } ,$ （20$( \\psi _ { 2 1 } ( 0 ) , \\psi _ { 2 2 } ( 0 ) , \\psi _ { 2 3 } ( 0 ) ) ^ { T } = ( 4 , 2 , 5 ) ^ { T } ,$ （2根据式（9），可以计算出系统误差的初始值分别是$( e _ { 1 1 } ( 0 ) , e _ { 2 1 } ( 0 ) , e _ { 3 1 } ( 0 ) , e _ { 4 1 } ( 0 ) ) ^ { T } = ( - 1 , - 4 , 3 , 2 ) ^ { T } ,$ $( e _ { 1 2 } ( 0 ) , e _ { 2 2 } ( 0 ) , e _ { 3 2 } ( 0 ) , e _ { 4 2 } ( 0 ) ) ^ { T } = ( - 2 , 3 , - 1 , 0 ) ^ { T } ,$ （20$( e _ { 1 3 } ( 0 ) , e _ { 2 3 } ( 0 ) , e _ { 3 3 } ( 0 ) , e _ { 4 3 } ( 0 ) ) ^ { T } = ( 2 , - 2 , - 1 , 2 ) ^ { T }$ ，系统的误差收敛图如图14所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d056dce7a8bf1eeb0c4bb96444a830dae8e4fa0c744a0427a2a98beff90485ab.jpg",
+        "img_caption": [
+            "图14误差收敛图",
+            "Fig.14 Error convergence diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文设计了一种新的混沌电路，通过自适应稳定判据理论详细讨论了系统参数对于系统动力学行为的影响，显示出系统具有较好的混沌特性。其次，重点提出并证明了一种新的同步方案一多级组合同步，通过构造不同的控制器，结合误差分析，实现了八个系统之间的多级组合同步。实验结果表明该方案具有一定的可行性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]LuoRunzi， ZengYanhui.Thecontrolandsynchronizationof fractional-order Genesio-Tesi system [J].Nonlinear Dynamics,2O17,88 (3): 1-11.   \n[2]Lai Qiang,Chen Shiming.Generating multiple chaotic attractors from sprott B system [J]. International Journal of Bifurcation and Chaos,2016, 26 (11): 1650177.   \n[3]Song Bingbing，Ding Qun. Comparisons of typical discrete logistic map and henon map [J]. Intelligent Data Analysis and Its Applications,2014, 297: 267-275.   \n[4]Vaidyanathan S. Output regulation of Arneodo-Coullet chaotic system [C]// Proc of International Conference on Computer Science & Information Technology. 2011: 98-107.   \n[5] Vaidyanathan S,Rasappan S. Global chaos synchronization of n-scroll Chua circuit and Lur'e system using backstepping control design with recursive feedback [J].Arabian Journal for Science and Engineering,2014, 39 (4): 3351-3364.   \n[6] Elwakil A.Fractional-ordercircuitsand systems:anemerging interdisciplinary research area [J]. IEEE Circuits and Systems Magazine, 2010,10 (4): 40-50.   \n[7]Li Chunbiao，Julienclinton S.Coexisting hidden atractors in a 4D simplified lorenz system[J].International Journal of Bifurcation and Chaos,2014,24 (3): 739-748.   \n[8]Frasca M,Gambuzza LV, Buscarino A,et al.Memristor based adaptive coupling for synchronization of two Rössler systems [J].Advances in Neural Networks: Computational and Theoretical Issues,2O15，37: 395-400.   \n[9]Zhang Fuchen,Liao Xiaofeng,Mu Chunlai,et al. On global boundedness ofthe Chen system[J].Discrete and ContinuousDynamical Systems-Series B,2017,22 (4): 1673-1681.   \n[10] Abd MH, TahirFR,Al-Suhail Get al. An adaptive observer synchronization using chaotic time-delay system for secure communication [J]. Nonlinear Dynamics,2017,90 (4): 2583-2598.   \n[11] Zhao Jianfeng,Wang Shuying,Chang Yingxiang,et al．A novel image encryption scheme based on an improper fractional-order chaotic system [J].Nonlinear Dynamics,2015,80(4): 1721-1729.   \n[12] WangSha,Yu Yongguang，WenGuoguang.Hybridprojective synchronization of time-delayed fractional order chaotic systems [J]. Nonlinear Analysis: Hybrid Systems,2014,11:129-138.   \n[13]李震波，唐驾时．参数扰动下的混沌同步控制及其保密通信方案[J]. 控制理论与应用，2014，31(5):592-600.(Li Zhengbo，Tang Jiashi. Chaotic synchronization control under parametric perturbation and its secure communication scheme [J]. Control theory and Application,2014, 31 (5): 592-600.)   \n[14]潘光，魏静．一种分数阶混沌系统同步的自适应滑模控制器设计[J]. 物理学报,2015,64 (4): 040501-040507. (Pan Guang,Wei Jing.Design of an adaptive sliding mode controller for synchronization of fractional order chaotic systems [J].Acta Physica Sinica,2015,64 (4): 040501-040507.)   \n[15] Pecora Louism, Carrol Thomas L. Synchronization in chaotic systems [J]. Chaos,2015,25: 097611-1-097611-11.   \n[16] Wu Xiaofeng,Cai Jianping，Wang Muhong.Robust synchronization of chaotic horizontal platform systems with phase difference [J]. Journal of Sound and Vibration,207,305(3): 481-491.   \n[17] Du Hongyue， Zeng Qianghuang，Wang Changhong.Modified function projective synchronization of chaotic system [J].Chaos,Solitons,Fractals, 2009, 42 (4): 2399-2404.   \n[18] WangShibing，Wang Xingyuan，Han Bo. Complex Generalized Synchronization and Parameter Identification of Nonidentical Nonlinear Complex Systems [J]. International Journal of Modern Physics B,2016,27 (30): 1350195.   \n[19]韦相，赵军产．参数未知耦合时滞不同复杂网络的广义同步[J].控制 理论与应用，2016，33(6):825-831.(Wei Xiang，Zhao Junchan. Generalizedsynchronizationof complexnetworkswith unknown parameters and coupled delays [J]. Control theory and Application,2016, 33 (6): 825-831. )   \n[20] Xia Yonghui,Yang Zijing,Han Maoan.Lag synchronization of unknown chaotic delayed Yang-Yang-Type fuzzy neural networkswith noise perturbation based on adaptive control and parameter identification [J]. IEEE Trans on Neural Networks,2009,20(7): 1165-1180.   \n[21] Wu Wei,Chen Tianping.Partial synchronization in linearlyand symmetrically coupled ordinary differential systems [J]. Physica D: Nonlinear Phenomena,2009,238 (4): 355-364.   \n[22]张檬，韩敏．基于滑模控制法的不确定复杂网络间有限时间组合同步 [J].控制与决策,2017,32(8):1553-1536.(Zhang Meng,Han Min.Finite time combination synchronization of uncertain complex networks based on sliding mode control[J]. Control and Decision,2017,32(8):1553-1536.)   \n[23]Luo Runzi,Wang Yinglan,Deng Shucheng.Combination synchronization of three classc chaotic systems using active backs stepping design [J]. Chaos,2011,21: 043114-1-043114-6.   \n[24] SunJunwei， ShenYi,WangXiaoping，etal.Finite-time combination-combination synchronization of four diferent chaotic systems with unknown parameters via sliding mode control [J].Nonlinear Dynamics，2014,76 (1): 383-397. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

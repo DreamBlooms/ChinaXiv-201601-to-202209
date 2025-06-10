@@ -1,0 +1,188 @@
+# DOI:10.5846/stxb201510292183
+
+蒋万祥，何逢志，蔡庆华.香溪河水生昆虫功能性状及功能多样性空间格局.生态学报,2017,37(6);1861-1870. JiangWXHiaifosdcalsssic Ecologica Sinica,2017,37(6) :1861-1870.
+
+# 香溪河水生昆虫功能性状及功能多样性空间格局
+
+蒋万祥1,²，何逢志¹，蔡庆华1，
+
+1中国科学院水生生物研究所淡水生态与生物技术国家重点实验室，武汉430072  
+2 枣庄学院生命科学学院，枣庄277160
+
+摘要：近年来，生物多样性研究已从群落物种多样性拓展至功能多样性层面,使用功能性状表征功能组成及功能多样性是当前底栖动物生态学研究的热点之一。物种功能性状对环境变化敏感,对群落和种群沿环境梯度的演替具有许多潜在的指示作用。为了解香溪河水系水生昆虫功能性状空间分布格局及环境因子对功能多样性的影响，于2005年12月及2006年1月、2月对该水系的香溪河、九冲河、高岚河、古夫河4条河流的水生昆虫进行了调查，并对理化指标进行了测定;参考相关文献资料,本研究选择化性、漂移性、游泳能力、吸附能力、形状、个体大小、流态偏好、温度偏好、生活型、营养习性等10个功能性状纳入分析。研究结果发现,香溪河水系共鉴定水生昆虫127种,四节蜉（Baetis sp.）、高翔蜉（Epeorus sp.）、短尾石蝇（Nemoura sp.)为区域优势分类单元,相对丰度分别为 $3 8 . 6 \% . 9 . 1 \% . 6 . 7 \% ; 4$ 条河流间优势物种组成差异较大。10个功能性状中相对丰度最高的等级性状分别为1世代/a（Volt2）、高漂移率（Drft3）、无游泳能力（Swim1）、无吸附能力（Atch1）、流线型（Shpel）、小型个体（Size1）、沉积/侵蚀流态兼好型（Rheo2）、广温型（Ther2）、附着型(Habi4）、收集者（Tropl);单因素方差分析及独立样本T检验表明,化性、附着能力、大小、流速偏好、温度偏好、漂移性、生活型、营养习性等性状级别间差异显著,而游泳能力、形状性状等级间无显著差异。对10个功能性状的33个等级性状在4条河流间相对丰度的差异性进行研究,结果发现,Volt1、Drft2、Swim2、Atchl、Atch2、Size3、Rheol、Ther3、Habi2、Habi3、Trop3、Trop5等12个等级性状相对丰度在4条河流间差异显著。功能性状多样性、树状图功能多样性用来描述4条河流功能多样性,结果表明,功能性状多样性指数均值在古夫河、高岚河、九冲河、香溪河分别为2.8、3.2、6.9和5.4;树状图功能多样性指数均值在分别为4.8、5.7、11.1、8.8。功能冗余度均值在4条河流分别为2.9、3.4、4.6、3.9。运用逐步回归分析功能多样性、功能冗余度与环境参数的关系,结果表明,功能性状多样性指数受总氮、水深影响显著;树状图功能多样性指数受总氮、水深、流速影响显著;功能冗余度指数受硝态氮、溶解氧、二氧化硅影响显著。
+
+关键词：功能性状；功能多样性指数；水生昆虫；香溪河
+
+# Spatial distribution patterns of trait composition and functional diversity of aquatic insects in the Xiangxi River system
+
+JIANG Wanxiang1,²，HE Fengzhi1，CAI Qinghual, \*   
+1StateKeyboratosteroodoteoosttefoeceyofe，W   
+2 College of Life Sciences，Zaozhuang University，Zaozhuang 27716O,China
+
+Abstract：Recently，biodiversityresearch has expanded fromcommunity speciesdiversityto functional diversity.Theuseof species traitstocharacterize thefunctional compositionofbenthic invertebratecommunities has become wellestablished in ecological literature.Thisapproach could potentiall predict changes of both speciesand communitiesalong environmental gradients in termsof traitsthataresensitivetolocalenvironmental changes.Withtheaimof understanding theinfluenceof environmental factorson thespatial distribution paternsof traitcompositionand functional diversityof aquatic insects, macroinvertebrates were surveyed at12 sites along 4 rivers（i.e.，Xiangxi，Jiuchong，Gaolan，and Gufu Rivers）in the Xiangxi River system duringaperiodof lowflow（from December 2005 to February 2006).Simultaneously，water samples were collected at each site and transported to the laboratory，where the concentrations of 6 parameters（TN，TP, $\mathrm { N O } _ { 2 }$ -N, $\mathrm { N O } _ { 3 }$ -N, $\mathrm { N H } _ { 4 }$ -N，and $\mathrm { P 0 } _ { 4 } { \cdot } \mathrm { P }$ ）were determined. Other physical and chemical parameters were measured in the field.Based on published datasetsandexpertopinion，wecompiled informationon10biologicaland ecologicaltraitsofaquatic insects includingvoltinism，occurrence in drift，swimming ability，atachment，shape，size at maturity，rheophily，thermal preference，habit，and trophic habit.A total of 127 taxa were colected；Baetis sp.，Epeorus sp.，Nemoura sp.were the dominant taxa，with relative abundances of 38.6，9.1，and $6 . 7 \%$ respectively； the dominant taxa compositions were significantly different among the 4 rivers ( $\left( P < 0 . 0 5 \right)$ . One-way ANOVA and independent samples $\mathrm { \Delta T }$ test were performed to comparethe traits which showed thatthe proportionof Volt1（univoltie），Drft2（commonoccurrence in drift），Swim2 （weak swimming ability），Atchl（none of atachment），Atch2（someof attchment），Size3（large sizeat maturity）， Rheol（depositionalrheophilyonly），Ther3（warmeurythermal），Habi2（climber），Habi3（sprawl），Trop3 （herbivore），Trop5（shredder）were significantly different among the 4 rivers( $\textstyle P < 0 . 0 5 )$ .Modified functional attribute diversityandfunctional diversitybasedonadendrogram werecalculated tocharacterize functionaldiversityinthe Xiangxi River system，and theresultsshowed thatthe Jiuchong River hadthe highest modifiedfunctionalatribute diversity（6.9）, followed bythe Xiangxi（5.4），Gaolan（3.2），and Gufu（2.8）Rivers；functional diversitybasedona dendrogramand functionalredundancy index also showed the same patern.One-way ANOVA analysis showed that these2 functional diversity indices all showed Jiuchong River $>$ Xiangxi River $>$ Gaolan，Gufu Rivers；and the functional redundancy index showed Jiuchong River $\geqslant$ Xiangxi River $\geqslant$ Gaolan River $\geqslant$ Gufu River.Finally，a stepwise regression analysis was conducted to examtherelationship between functional indicesandphysicochemical parameters.Theresultsshowed that modifiedfunctionalatributediversitywas significantlyimpactedbytotal nitrogen，andwaterdepth；whereas functional diversity basedonadendrogram was impactedbytotal nitrogen，waterdepth，andflow velocity；andfunctionalredundancy was affected by nitrate- $\mathbf { \nabla } \cdot \mathrm { N }$ ，dissolved oxygen，and silicon dioxide.
+
+Key Words: functional traits；functional diversity index；aquatic insect；Xiangxi River
+
+伴随全球范围内气候、生物地化循环、土地利用、生物区系的改变,生物多样性正以前所未有的速率丧失[1],潜在地影响着生态系统过程及服务功能[2]。生物多样性与生态系统功能关系成为了近年来生态学研究的重大科学问题之一[3-4],这一问题的探索可分为3个方面:1)分类学多样性指标(taxonomic diversity）（如物种丰度)替代生物多样性。由于不同物种在生理、生态、形态特征等方面存在较大差别,物种本身在群落的构建、维持及生态系统功能上所起的作用和相互间的关系等信息均未包含进指数,因此,难以体现物种特征对生态系统过程的重要性[4-5]。2)功能群多样性(functional groups diversity）（如功能摄食类群)替代生物多样性。尽管功能群的划分强调了功能群之间的不同,但忽略了同一功能群内物种之间的差异，使得功能群内物种相互关系的信息尽失;同时,功能群划分随意性较强,在某些情况下功能群多样性对生态系统功能（如生产力变异)的解释甚至不如随机分组[67]。3)功能多样性（functional diversity)替代生物多样性。功能多样性是以物种功能性状(functionaltraits）为基础,将物种的多度同功能性状结合在一起,考虑了群落中物种性状的分布和差异[8],能够很好地表征生态系统功能及服务[9-11]。
+
+功能多样性指数来源于植物群落功能多样性研究[12]，在国内外陆生植被生态学研究中应用较为广泛[13-14]。相对于陆生植被系统,水域生态系统更加复杂,底栖动物等一些低等水生生物功能性状的量化和获取较为困难,研究相对较少。底栖动物功能多样性研究主要涉及物种与功能性状组成格局的关系[15],不同季节、不同河流间功能性状的比较[16],物种丰度和性状对功能多样性及冗余度的影响[17];功能性状及多样性对环境梯度的响应[15]等方面。在我国,底栖动物功能性状总结性文献尚未见报道,其功能多样性研究尚鲜见报道。本文以香溪河水生昆虫为研究对象,拟通过功能性状及功能多样性状空间分布的比较,探讨功能性状空间格局及功能多样性对环境因子的响应,为深入开展相关工作奠定一定的理论基础。
+
+# 1材料与方法
+
+# 1.1 研究区域概况
+
+香溪河发源于神农架林区,流域面积 $3 0 9 9 { \mathrm { ~ k m } } ^ { 2 }$ ,自然落差 $1 5 4 0 \ \mathrm { m } ^ { [ 1 8 ] }$ ,流域年平均降水约 $1 0 0 0 \ \mathrm { m m } ^ { [ 1 9 - 2 0 ] }$ 为三峡湖北库区最大的入库河流;拥有九冲河、古夫河、高岚河3条主要支流[2-2]。本研究在香溪河水系共设样点12个（图1），其中,九冲河5个（JC09、JC08、JC05、JC03、JC02）,香溪河4个（XX23、XX21、XX17、XX14）,高岚河2个（GL03、GL02）,古夫河1个（GF04）。4条河流中九冲河受人类活动干扰最小,栖境质量最好,香溪河次之,而高岚河和古夫河受干扰较为严重[21,23]。
+
+![](images/4ca7adfc7419d6358ff45b6b6772e5b7332c0b480bc069a0e9e6df94d23c18b0.jpg)  
+图1样点分布图  
+Fig.1Location of the sampling sites
+
+# 1.2底栖动物采集及鉴定
+
+2005年12月到2006年2月（为减少时间尺度对研究结果的影响，只选择一个季度数据纳入分析)每月中旬用40 目网径、采样面积 $0 . 0 9 \mathrm { ~ m } ^ { 2 }$ 的索伯网(surber sampler)沿断面采集2—3次,将网中的底栖动物拣出，装标本瓶中,用 $10 \%$ 的甲醛溶液固定,标本带回实验室后分类[24-25]、计数。
+
+# 1.3 理化指标测定
+
+$\mathrm { \ p H }$ 值、电导、水温、总溶解性固体、盐度、溶氧用HORIBAW-23 多参数水质分析仪测定,流速用LJD 型打印式流速仪测定断面0.6倍水深处流速,水深和水面宽度用卷尺测定。总氮、总磷、硝态氮、氨氮、磷酸盐、二氧化硅按国标测定[26]。
+
+# 1.4功能性状和功能多样性
+
+功能性状主要参考文献[2-29]；上述文献中未包含的物种及性状主要根据相关分类资料的描述和标本确定。根据流域生境属性,选择化性、漂移性、游泳能力、吸附能力、形状、成熟个体大小、流态偏好、温度偏好、生活型、营养习性10个功能性状纳入分析。功能性状及其等级描述、代码见表1。
+
+功能多样性选择改进的功能性状多样性指数（MFAD）[30]和树状图功能多样性指数 $( F D ) ^ { [ 3 1 ] }$ 。MFAD是根据物种性状将群落中 $s$ 个物种划分为 $N$ 个功能单位（性状组成完全相同的物种归为1个功能单位， $N \leqslant S { \mathrm { \cdot } }$ ，然后计算群落中功能单位间的Gower距离,距离越大,多样性越高。 $F D$ 指数计算首先根据功能性状构建群落物种树状图,然后计算所有分支长度的总和即为FD值。功能冗余度 $( F R )$ 参考文献van der Linden 等[15]方法计算;该指数主要用来描述群落功能的冗余,通常用功能多样性指数（本文采用FD 指数)和 Shannon-Wiener指数的比值表征;通常FR值越大表示群落越稳定。
+
+表1香溪河水生昆虫功能性状、性状等级和代码  
+Table 1 The functional traits,trait state and code of aquatic insect in the Xiangxi river   
+
+<html><body><table><tr><td>性状 Trait</td><td>性状等级 Trait state</td><td>代码Code</td></tr><tr><td>化性</td><td>少于1世代/a Semivoltine</td><td>Volt1</td></tr><tr><td>Voltinism</td><td>1世代/a Univoltine</td><td>Volt2</td></tr><tr><td></td><td>2代或多代/a Bi-or multivoltine</td><td>Volt3</td></tr><tr><td>漂移性</td><td>极少Rare</td><td>Drft1</td></tr><tr><td>Occurrence in drift</td><td>一般Common</td><td>Drft2</td></tr><tr><td></td><td>较高 Abundant</td><td>Drft3</td></tr><tr><td>游泳能力</td><td>无None</td><td>Swim1</td></tr><tr><td>Swimming ability</td><td>弱Weak</td><td>Swim2</td></tr><tr><td></td><td>强 Strong</td><td>Swim3</td></tr><tr><td>吸附能力</td><td>无None</td><td>Atch1</td></tr><tr><td>Attachment</td><td>有 Some</td><td>Atch2</td></tr><tr><td></td><td>二者兼备 Both</td><td>Atch3</td></tr><tr><td>形状</td><td>流线型 Streamlined</td><td>Shpe1</td></tr><tr><td>Shape</td><td>非流线型 Not streamlined</td><td>Shpe2</td></tr><tr><td>成熟个体大小</td><td>小 Small (<9mm)</td><td>Size1</td></tr><tr><td>Size at maturity</td><td>中等 Medium（9—16 mm)</td><td>Size2</td></tr><tr><td>流态偏好</td><td>大 Large (> 16 mm)</td><td>Size3</td></tr><tr><td>Rheophily</td><td>沉积型 Depositional only</td><td>Rheo1</td></tr><tr><td></td><td>沉积和侵蚀型 Depositional and erosional</td><td>Rheo2</td></tr><tr><td></td><td>侵蚀型 Erosional</td><td>Rheo3</td></tr><tr><td>温度偏好</td><td>喜凉Cool eurythermal</td><td>Ther1</td></tr><tr><td>Thermal preference</td><td>广温Cool/warm eurythermal</td><td>Ther2</td></tr><tr><td></td><td>喜热 Warm eurythermal</td><td>Ther3</td></tr><tr><td>生活型</td><td>穴居 Burrow</td><td>Habi1</td></tr><tr><td>Habit</td><td>攀爬Climb</td><td>Habi2</td></tr><tr><td></td><td>蔓生 Sprawl</td><td>Habi3</td></tr><tr><td></td><td>附着Cling</td><td>Habi4</td></tr><tr><td>营养习性</td><td>游泳 Swim</td><td>Habi5</td></tr><tr><td></td><td>集食者 Collector-gatherer</td><td>Trop1</td></tr><tr><td>Trophic habit</td><td>滤食者 Collector-filterer</td><td>Trop2</td></tr><tr><td></td><td>植食者 Herbivore</td><td>Trop3</td></tr><tr><td></td><td>捕食者 Predator</td><td>Trop4</td></tr><tr><td></td><td>撕食者 Shredder</td><td>Trop5</td></tr></table></body></html>
+
+# 1.5 数据处理
+
+运用多响应置换过程分析（MPPA)分析不同河流水生昆虫群落结构的组成差异;运用单因素方差分析（one-way ANOVA）、独立样本T检验(independentsamples Ttest）比较等级性状、功能多样性指数等的差异;运用逐步回归分析(stepwise regression analysis)研究功能多样性指数同环境因子的关系;功能多样性计算运用的软件为R3.1.3和FDiversity软件包[32」;分析图使用软件Origin 8.0制作;样点图用ArcGIS10.0制作。
+
+http ://www.ecologica.cn
+
+# 2结果与分析
+
+# 2.1 物种组成
+
+本研究共鉴定水生昆虫127种,四节蜉(Baetis sp.）、高翔蜉(Epeorus sp.）、短尾石蝇(Nemoura sp.)为流域优势分类单元[33],相对丰度分别为 $3 8 . 6 \% . 9 . 1 \% . 6 . 7 \%$ （表2)。其中,九冲河采集水生昆虫91种,四节蜉、短尾石蝇、高翔蜉为优势分类单元，相对丰度分别为 $2 7 . 6 \% 1 5 . 6 \% \cdot 1 1 . 3 \%$ ;香溪河采集80种，四节蜉、高翔蜉为优势分类单元,相对丰度分别为 $5 0 . 9 \% . 9 . 9 \%$ ;高岚河共采集54 种,四节蜉、侧枝纹石蛾（Ceratopsyche sp.）、橫科一种（Tetropinasp.)为优势分类单元,相对丰度分别为 $3 5 . 8 \% . 2 2 . 2 \% \ . 1 2 . 9 \%$ ;古夫河共采集水生昆虫25 种,优势分类单元为四节蜉、直突摇蚊（Orthcladius sp.）、锯形蜉（Serratella sp.）、朝大蚊（Antocha sp.）,相对丰度分别为 $4 4 . 6 \% , 1 2 . 6 \% , 1 0 . 5 \% , 7 . 5 \%$ 。运用多响应置换过程分析（MPPA)就4条河流水生昆虫群落结构的差异性进行比较,结果表明,4条河流间水生昆虫群落结构差异均显著( $( P < 0 . 0 5 )$ 。
+
+表2香溪河水系及主要支流水生昆虫优势分类单元  
+  
+
+<html><body><table><tr><td colspan="6">Table2 The dominant taxa among Xiangxi River system and main tributaries</td></tr><tr><td>优势分类单元 Dominant taxa</td><td>香溪河水系</td><td>九冲河</td><td>香溪河</td><td>高岚河</td><td>古夫河</td></tr><tr><td>四节蜉 Baetis sp./%</td><td>38.6</td><td>27.6</td><td>50.9</td><td>35.8</td><td>44.6</td></tr><tr><td>短尾石蝇 Nemoura sp./%</td><td>6.7</td><td>15.6</td><td></td><td></td><td></td></tr><tr><td>高翔蜉 Epeorus sp./%</td><td>9.1</td><td>11.3</td><td>9.9</td><td></td><td></td></tr><tr><td>侧枝纹石蛾Ceratopsychesp./%</td><td></td><td></td><td>22.2</td><td></td><td></td></tr><tr><td>直突摇蚊 Orthcladius sp./%</td><td></td><td></td><td></td><td>12.6</td><td></td></tr><tr><td>積科一种 Tetropina sp./%</td><td></td><td></td><td>12.9</td><td></td><td></td></tr><tr><td>锯形蜉 Serratella sp./%</td><td></td><td></td><td></td><td>10.5</td><td></td></tr><tr><td>朝大蚊 Antocha sp./%</td><td></td><td></td><td></td><td>7.5</td><td></td></tr></table></body></html>
+
+# 2.2 功能性状
+
+# 2.2.1 功能性状组成
+
+运用方差分析及独立样本 $T$ 检验对各功能性状进行分析(表3）,结果表明,化性、吸附能力、大小、流速偏好、温度偏好、漂移性、生活型、营养习性等性状各级别间差异均显著( $P { < } 0 . 0 5 \rangle$ ;其中化性表现为 $\mathrm { V o l t } 2 > \mathrm { V o l t } 3$ $\mathrm { > V o l t 1 }$ ;吸附能力表现为 $\mathrm { A t c h 1 } > \mathrm { A t c h 2 } > \mathrm { A t c h 3 }$ ;大小性状表现为 $\mathrm { S i z e 1 } > \mathrm { S i z e 2 } > \mathrm { S i z e 3 }$ ;流速偏好表现为 ${ \mathrm { R h e o } } 2 >$ $\mathrm { R h e o } 3 { > } \mathrm { R h e o } 1$ ;温度偏好表现为 $\mathrm { T h e r } 2 { > } \mathrm { T h e r } 1 { > } \mathrm { T h e r } 3$ 。漂移性表现为 $\mathrm { D r f t } 3 \geqslant \mathrm { D r f t } 2 \geqslant \mathrm { D r f t } 1$ ;生活型性状各级别间表现为Habi4 $\mathrm { H a b i } 5 { > } \mathrm { H a b i } 1$ 、 $\mathrm { H a b i } 3 { > } \mathrm { H a b i } 2$ ;营养习性表现为 Trop1 相对丰度显著高于其他级别 Tropl>Trop2、Trop3、Trop4、Trop5。游泳性状、形态性状分布较为均匀,各级别间差异均不显著( $\scriptstyle P > 0 . 0 5 )$ 。
+
+# 2.2.2 功能性状空间格局
+
+对 10 个功能性状的33个等级性状在4条河流间相对丰度的差异性进行研究（图2）,结果表明,Volt1、Drft2、Swim2、Atch1、Atch2、Size3、Rheol、Ther3、Habi2、Habi3、Trop3、Trop5等12个等级性状相对丰度在4 条河流间差异显著( $P { < } 0 . 0 5 )$ 。其中，Size3、Habi3、Trop5 相对丰度表现为九冲河高于其它河流( $\mathrm { ' } \mathrm { J C } { > } \mathrm { X X } \ . \mathrm { G L } \ . \mathrm { G F } )$ ;Rheo1、Habi2表现为九冲河、香溪河高于高岚河、古夫河( $\mathrm { J C } \ , \mathrm { X X > G L } \ , \mathrm { G F } \ ,$ ;Swim2、Trop3表现为九冲河同高岚河、古夫河差异显著( $\mathrm { J C } \geqslant \mathrm { X X } \geqslant \mathrm { G L } \sqrt { \mathrm { \Lambda } } , \mathrm { G F } ,$ );Volt1表现为九冲河同高岚河、香溪河差异显著( $\mathrm { J C } \geqslant \mathrm { G L } \geqslant \mathrm { X X } .$ GF);Drft2表现为九冲河最高,香溪河、高岚河次之,古夫河最低( $\mathrm { ^ { \prime } J C { > } X X , G L { > } G F }$ ）;Atch1表现为九冲河、香溪河、古夫河高于高岚河 $( \mathrm { J C } , \mathrm { X X } , \mathrm { G F } { > } \mathrm { G L }$ ）；Atch2表现为 ${ \mathrm { G L } } > { \mathrm { X X } } \geqslant { \mathrm { G F } } \geqslant { \mathrm { J C } } ; { \mathrm { T h e r } }$ 3表现为 $\mathrm { J C } > \mathrm { X X } \geqslant \mathrm { G L }$ $\geqslant \mathrm { G F }$ 。
+
+![](images/3ead759ea29d657427083c3331fa3a79ac30b2c569de2c8f1e0dcca6fc8ed224.jpg)  
+图24条河流水生昆虫功能性状相对丰度  
+Fig.2Relative abundance of aquatic insect functional traits in the four rivers
+
+图中所示为差异显著性状， $P < 0 . 0 5$ ;Volt1：少于1世代/年semivoltine; $\mathrm { D r f t } 2$ ：一般漂移性common occurrence in drift;Swim2：弱游泳能力weakswimmingabilityAtchl无吸附能力noneatachment;Atch2有吸附能力someatachment;Size3成熟个体大型largesizeatmaturitRheol沉积型depostionalonly;Ther3：喜热型warmeurythermal;Habi2；攀爬型Climb;Habi3;蔓生型 Sprawl;Trop3植食者Herbivore；Trop5：食者 Shredder
+
+# 2.3功能多样性与功能冗余度
+
+应用改进的功能性状多样性指数和树状图功能多样性指数就4条河流功能多样性进行比较研究,结果表明,功能性状多样性指数均值在古夫河、高岚河、九冲河、香溪河分别为 $2 . 8 , 3 . 2 , 6 . 9$ 和5.4;树状图功能多样性指数均值在古夫河、高岚河、九冲河、香溪河分别为 $4 . 8 , 5 . 7 , 1 1 . 1 , 8 . 8$ 。方差分析表明，功能性状多样性指数、树状图功能多样性指数在4条河流间均表现为九冲河最大,香溪河次之,高岚河、古夫河最小( $\left( P < 0 . 0 5 \right)$ 。
+
+对4条河流功能冗余度指数进行分析,结果表明,古夫河、高岚河、九冲河、香溪河功能冗余度指数均值分别为2.9、3.4、4.6、3.9;方差分析表明,九冲河≥香溪河 $\geqslant$ 高岚河 $\geqslant$ 古夫河( $\cdot P { < } 0 . 0 5 )$ 。
+
+表3香溪河水系水生昆虫功能性状组成及其相对丰度平均值和标准差  
+Table 3The functional traits states,relative abundance and Standard Deviation（SD   
+
+<html><body><table><tr><td>性状级别 Trait state</td><td>平均值/% Average</td><td>标准差/% SD</td><td>性状级别/% Trait state</td><td>平均值/% Average</td><td>标准差/% SD</td><td>性状级别/% Trait state</td><td>平均值/% Average</td><td>标准差/% SD</td></tr><tr><td>Volt1a</td><td>3.4</td><td>3.9</td><td>Atch3C</td><td>3.1</td><td>0.1</td><td>Ther3c</td><td>1.5</td><td>1.7</td></tr><tr><td>Volt2b</td><td>59.2</td><td>14.4</td><td>Shpe1a</td><td>51.2</td><td>17.4</td><td>Habi1a</td><td>14.7</td><td>20.3</td></tr><tr><td>Volt3c</td><td>37.4</td><td>15.2</td><td>Shpe2a</td><td>48.8</td><td>17.4</td><td>Habi2b</td><td>0.8</td><td>0.9</td></tr><tr><td>Drft1a</td><td>25.5</td><td>11.3</td><td>Size1a</td><td>65.6</td><td>14.0</td><td>Habi3a</td><td>13.7</td><td>7.5</td></tr><tr><td>Drft2ab</td><td>33..6</td><td>21.9</td><td>Size2b</td><td>34.0</td><td>13.8</td><td>Habi4c</td><td>35.9</td><td>14.9</td></tr><tr><td>Drft3b</td><td>40.9</td><td>20.1</td><td>Size3</td><td>0.4</td><td>0.5</td><td>Habi5e</td><td>34.8</td><td>14.7</td></tr><tr><td>Swim1a</td><td>39.0</td><td>21.7</td><td>Rheo1a</td><td>2.7</td><td>2.7</td><td>Trop1a</td><td>65.0</td><td>14.9</td></tr><tr><td>Swim2a</td><td>26.7</td><td>17.6</td><td>Rheo2b</td><td>80.6</td><td>16.8</td><td>Trop2b</td><td>9.4</td><td>7.7</td></tr><tr><td>Swim3a</td><td>34.3</td><td>14.9</td><td>Rheo3c</td><td>16.6</td><td>16.7</td><td>Trop3b</td><td>7.0</td><td>4.5</td></tr><tr><td>Atch1a</td><td>86.1</td><td>17.0</td><td>Ther1a</td><td>34.6</td><td>17.5</td><td>Trop4b</td><td>6.3</td><td>11.6</td></tr><tr><td>Atch2b</td><td>10.8</td><td>8.5</td><td>Ther2b</td><td>63.9</td><td>17.9</td><td>Trop5b</td><td>12.3</td><td>6.8</td></tr></table></body></html>
+
+表中各功能性状不同级别所注字母不同表示差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$
+
+![](images/b16431f153bd12228842077c9619c0a1dab87e035dc535ef12e65d8363dfd26d.jpg)  
+Fig.3The functional attribute diversity of four Rivers in the Xiangxi River system
+
+# 2.4功能多样性对环境因子的响应
+
+运用逐步回归分析研究功能多样性指数同环境参数间的关系，结果表明，功能性状多样性指数受总氮、水深影响显著 ( $P { < } 0 . 0 5 )$ ;树状图功能多样性指数受总氮、水深、流速影响显著( $P { < } 0 . 0 5 )$ ；功能冗余度指数受硝态氮、溶解氧、二氧化硅影响显著( $P { < } 0 . 0 5 )$ 。
+
+# 3讨论
+
+优势类群主导底栖动物群落结构分布格局[23]。四节蜉、高翔蜉、短尾石蝇为香溪河水系优势类群，参考底栖动物耐污值的划分可知[34-36],香溪河水系生态环境整体较好。优势分类单元组成、相对丰度及多响应置换过程分析结果均表明，4条河流水生昆虫群落结构存在明显差异,栖息环境的质量存在明显的差异。分析各河流优势类群耐污值可知,九冲河生境最好,香溪河、高岚河次之,古夫河明显较差。Wang 等[21]对香溪河环境参数3周年的研究表明,香溪河水系生境质量总体表现为九冲河最好,香溪河次之,高岚河、古夫河相对较差;蒋万祥等[23]通过对香溪河底栖动物1周年的调查也
+
+![](images/7768da581cbf584d50be921ce180b008e66f49169e978d5522c8ed90d0d08497.jpg)  
+图3香溪河水系四条河流功能性状多样性  
+图4香溪河水系4条河流功能冗余度  
+Fig.4The functional redundancy of the 4 Rivers in the Xiangxi River system
+
+得出相同的结论。本文高岚河生境好于古夫河,主要由于取样时间为冬季，而高岚河上游硫铁矿在丰水期(夏季)对河流生态环境影响最大,在枯水期(冬季)明显较小[37]。功能性状通过影响物种沿环境梯度的排列、种间竞争、群落内资源分配等影响整个群落的物种共存格局[38]。研究和比较不同局地功能性状组成及分布格局是开展功能多样性及相关研究的基础。香溪河水生昆虫功能性状表现为：化性每年1代（Volt2）相对丰度最大,少于1世代/a的水生昆虫丰度最小,主要与该区域气候、水文等条件存在较为明显的季节节律所致[39-40]。漂移性、游泳能力反映水生昆虫规避不利生境的能力,具备漂移性和游泳能力的水生昆虫所占比例较高是水电站不定期发电、排水等干扰事件发生程度的反映。吸附能力、形状、流态偏好组成表明调查河流激流生境较少,特别是吸附能力表现为无吸附能力分类单元丰度最高,这主要受调查时间为区域枯水期所致，另外,沿河道梯级分布的小水电站的开发也是造成这一结果的重要原因。营养习性差异反映的是物种在生态系统中物质循环和能量流动中作用的不同（如撕食者主要是分解者的功能;集食者主要是次级生产者的功能）[41」,研究水域集食者占绝对优势（相对丰度为 $6 5 \%$ ),表明香溪河水生昆虫在水域生态系统中主要扮演次级生产者的角色。综上,功能性状是物种在生态系统中的功能及环境适应能力差异性的反映,通过分析功能性状组成可粗略了解区域生态环境状况。
+
+表4功能多样性指数与环境参数的标准回归系数  
+
+<html><body><table><tr><td>环境参数 Environmental parameters</td><td>功能性状多样性 Modified functional attribute diversity</td><td>树状图功能多样性 Functional diversity base on dendrogram</td><td>功能冗余度 Functional redundancy</td></tr><tr><td>总氮 Total nitrogen</td><td>-0.994</td><td>-1.072</td><td></td></tr><tr><td>水深Water depth</td><td>0.995</td><td>0.144</td><td></td></tr><tr><td>硝态氮 Nitrate-N</td><td></td><td></td><td>-0.997</td></tr><tr><td>流速Flow velocity</td><td></td><td>0.922</td><td></td></tr><tr><td>溶解氧Dissolved oxygen</td><td></td><td></td><td>0.995</td></tr><tr><td>二氧化硅 Silicon dioxide</td><td></td><td></td><td>0.966</td></tr><tr><td>常数 Constant</td><td>20.0</td><td>32.5</td><td>8.6</td></tr><tr><td>R²</td><td>0.99</td><td>1.00</td><td>0.99</td></tr><tr><td>F</td><td>165.9</td><td>123.5</td><td>374.5</td></tr><tr><td>P</td><td>0.006</td><td>0.042</td><td>0.003</td></tr></table></body></html>
+
+水生昆虫大型个体(Size3）、撕食者(Trop5)丰度在九冲河最高,主要是因为九冲河地处神农架自然保护区,沿岸人口稀少,河道郁闭度高，一些对水质要求高的大型个体仅在该河能够较为频繁地采集到（如广翅目星齿蛉Protohermes sp.（Megaloptera）,蜻蜓目蜓类 Aeshna sp.（Odonata））;同时,由于河道中来自保护区粗有机物较多(如树叶、枯枝),撕食者相对丰度较高,这其中也包括一些大型个体（如毛翅目角石蛾 Stenopsyche sp.（Trichoptera））。沉积型流态（Rheol）、攀爬型(Habi2)丰度表现为九冲河、香溪河高于高岚河和古夫河,主要由于九冲河和香溪河有梯级水小电站建设[42],拦水坝减少了河道中水流速度,甚至在某些区域由激流生境变为静水生境[43],生境多样、复杂。植食者(Trop3)在高岚河和古夫河丰度较低,主要受高岚河上游硫铁矿矿渣沉积,以及古夫河上游的古洞口1级水库不定期发电造成的泥沙沉积影响,致使基质(石头)表面被沉积物覆盖,影响了藻类的生长[445];同时,这些沉积物还会附着在底栖动物身体和气管腮表面,致使一些底栖动物消失[46]。水生昆虫吸附性总体表现为高岚河同其它河流差异显著,主要原因在于具有强吸附性的纹石蛾类水生昆虫（如侧枝纹石蛾 Ceratopsyche sp.（Trichoptera Hydropsychidae））特别适宜在该河段生活,丰度明显高于其它河段。少于1世代/年（Volt1)性状在研究区域主要属于蜻蜓目（如箭蜓 Gomphus sp.（Odonata)）、鞘翅目（如狭溪泥甲 Stenelmis sp.（Coleoptera））、广翅目（星齿蛉 Protohermes sp.（Megaloptera））等类群,这些类群对水质、水文条件要求较高,而九冲河水体直接来自保护区,相对其它河流更适合上述类群水生昆虫的生存。同时,有些等级性状的空间格局同预期存在一定的反差(如喜热型(Ther3)个体丰度在九冲河高于其它河段),
+
+仍需进一步分析研究。
+
+相比只包括物种有无的物种多样性，功能多样性更能直接体现生物体在生态系统中所起的作用。本研究两个功能多样性指数均表现为九冲河最大,香溪河次之,高岚河、古夫河功能多样性最低。功能多样性指数显著下降,反映出物种丰富度下降后,生物占据的生态位数量也在下降,这和蒋万祥等[23]的研究结果一致。本研究功能多样性变化趋势与Wang[21]和蒋万祥[23]等研究结果一致,而与优势物种组成分析结果存在一定程度的偏差,主要因为功能多样性更能反映物种在生态系统功能上所起到或潜在的作用及相互关系[7,47]。功能冗余度是功能性状的冗余,是一种保险策略,其对生态系统功能的稳定性极为重要[3];如果物种较少,其功能性状重复少,功能冗余度就小[15]。功能冗余度同功能多样性空间格局基本一致,是香溪河及其主要支流生态系统稳定性的重要佐证。
+
+水文参数及含氮营养盐含量是造成该流域水生昆虫功能多样性差异的主要因素,进一步表明：上游小水电建设,下游城镇化是影响香溪河水域生态环境的主要因子;基于功能性状的多样性指数对区域人类活动具备较好的响应性。
+
+致谢：野外调查过程中的到吴乃成、傅小城、李凤清、周淑婵等同志相助,董笑语、孙美琴制作样点图,特此致谢。
+
+# 参考文献（References）：
+
+[1]ChapinIIF,ZavaetaES,EvinerVT,NaylorRL,VitousekPM,ReynoldsHL,HoperDU,LavorelS,SaaOE,HobbieSE,MackMC，Diaz S. Consequences of changing biodiversity.Nature，2000，405(6783）：234-242.  
+[2]DiazS,FargioneJ,ChapinIFS,TanD.odiversitylssthreatenshumanwellbeing.PLSBiology,O6,4（8)305.  
+[3]DiazabdoVivelfere：plantcialisosroeereso&E：646-655.  
+[4］张金屯，范丽宏.物种功能多样性及其研究方法.山地学报，2011，29(5)：513-519.  
+[5] 江小雷，张卫国.功能多样性及其研究方法.生态学报，2010，30（10)：2766-2773.  
+[6] WrightJP,eS,Hctor,nC,eich,dB,Doetioalfucoalsfatosersterelationship with ecosystem functioning.Ecology Letters，2006,9(2）：111-120.  
+[7] 贾鹏，杜国祯.生态学的多样性指数：功能与系统发育.生命科学，2014，26(2)：153-157.  
+[8]VileaolulmesfuliedfultfcfocoEcology，2008，89（8）：2290-2301.  
+[9]SongY,WangP,iGD,ZoDWRelatinssbetwenfuctioaldiverstydosystefuctiong：vieActaEcolicaiica,2014,34(2):85-91.  
+[10]IsbellF,CcagoV,HctorA，CoolyJ,HarpoleW,RichPB,Schere-Lorenzen,hidB,ianDnRujvenJ,Weigelt,WilseyBJ,ZavaletaES,LoreauM.Hghplantdiversityisnededtomaintaincosstemservices.Nature,11,4（736）：99-02.  
+[11] Diaz,LavelelletglctitcaisProceedings of the National Academy of Sciencesof the United Statesof America,2007,104(52）：20684-20689.  
+[12］张瀲波，刘东晓，刘朔孺，张勇，童晓立，王备新.钱塘江中游水生昆虫群落功能多样性对土地利用变化的响应.应用生态学报，2013,24(10): 2947-2954.  
+[13］路兴慧，臧润国，丁易，黄继红，杨秀森，周亚东.抚育措施对热带次生林群落植物功能性状和功能多样性的影响.生物多样性，2015,23(1):79-88.  
+[14] 薛倩妮，闫明，毕润成.山西五鹿山森林群落木本植物功能多样性.生态学报，2015，35（21)：7023-7032.  
+[15] vanderLidenPatrioJ,archnidNtoJaqusologalraitapproachtessthefuctioalofsubtidal benthic communities in an estuarine ecosystem.Ecological Indicators，2012,20：121-133.  
+[16]BechLAelaEeshVesoalatioieolcalritsftacvertebatesiniclimate streams in California,U.S.A.Freshwater Biology，2006,51(1)：56-75.  
+[7]DalerEkelteracisfsdsscalicTheoretical Ecology，2012,5（1）：129-139.  
+18]TngJeltaAssessment，2006，112(1/3)：347-361.
+
+http://www.ecologica.cn
+
+17」 尔八十， ，阿小，目 Ⅱ旧口，北小：家山忙，  
+[20]Li $\mathrm { ~ F ~ Q ~ }$ ，Cai ${ \mathrm { ~ Q ~ H ~ } }$ ,YeL.Developingabenthicindexofbiologicalintegrityndsomeelationships toenvironmentalfactorsinthesubtropical XiangxiRiver,China.International Review of Hydrobiology，2010,95(2）：171-189.  
+21]WagX,C,YeL，QuXDtofidlairetealityiateatistlcase study of the Xiangxi River basin，China. Quaternary International,2012,282：137-144.  
+[22]Wu NC, Tang T, Zhou S C,Jia X H,LiDF,Liu R Q, Cai $^ { \textrm { Q H } }$ .Changes in benthicalgalcommunities followingconstructionofarun-of-riverdam.Journal of the North American Benthological Society，2O09,28(1）：69-79.  
+[23］蒋万祥，蔡庆华，唐涛，吴乃成，傅小城，李凤清，刘瑞秋.香溪河大型底栖无脊椎动物空间分布.应用生态学报，208，19（11)：2443- 2448.  
+24]EplerJHIentifcioaalforealoodae（Diptea）ofthdouthCarolaGat#98497Amec-500.  
+[25] MorseJC,YangLF,ianLX.AquaticIsectsofChinaUsefulforMonitoringWaterQualityNanjing:Hohai UniversityPress，994-568.  
+[26] 黄祥飞.湖泊生态调查观测与分析.北京：中国标准出版社，2000：45-55.  
+[27] PoffNL,OldeJD,ViiraNKFiDmosMKdratieffBC.FucioalraitichsfothAmericanloticistsbasedecolgicalatisihtficeaosoualftetolocalet,.  
+8]Ueledefinition of groups with similar traits.Freshwater Biology，2000,43(2）：175-205.  
+[29]Tachet H,Richoux P,Bournaud $\mathbf { M }$ ，Usseglio-Polatera P.Invertebrés d'Eau Douce：Systématique，Biologie，Ecologie.Paris：CNRS editions,2002:1-552.  
+[30] SchmeraDrosanJsurefoescioaldiesitcolcaqaol）：.  
+[31] PetcheyOLGstonKJ.Fuctioaldivesty（F），specieschssndcouiyopositioEcologLeers，,5（）：11.  
+32]CasanovsFlaLDJzSveitareagforeealyisoffcoaldiversteodiland Evolution，2011,2(3)：233-237.  
+33]BuSEddgnatiadoralraoiacoereateffrsofet,Western Australia：community structure.Freshwater Biology，1986,16(1）：67-91.  
+[34]BarbouriseeBrdtrtoolUseresdeablescMacroinvertebratesandFish2nded.EPA841-B-99-02.WashingtonDC：U.S.EnviromntalProtectionAgencyOficeofWate99:270-324.  
+[35］王备新，杨莲芳.我国东部底栖无脊椎动物主要分类单元耐污值.生态学报，2004，24（12）：2768-2775.  
+[36] 王建国，黄恢柏，杨明旭，唐振华，赵凤霞.庐山地区底栖大型无脊椎动物耐污值与水质生物学评价.应用与环境生物学报，2003，9(3):279-284.  
+［37］蒋万祥.人类活动对香溪河大型底栖动物群落结构的影响[D].武汉：中国科学院水生生物研究所，2008：82-99.  
+[38] 刘晓娟，马克平.植物功能性状研究进展.中国科学：生命科学，2015，45(4)：325-339.  
+[39] WiseEJ.SeasoaldistrbutioandlifestorsofEphemeropteraiaNortumbraniver.Freshwateriolog，98o,O(）：01-111.  
+[40] VanoteRL,SweyBogapcalysisoftalqilibaoeptaloelforevaatigtftofaturaldmodlregimes on aquatic insect communities.The American Naturalist，1980,115(5）:667-695.  
+[41] 蒋万祥，蔡庆华，唐涛，渠晓东.香溪河水系大型底栖动物功能摄食类群生态学.生态学报，2009,29（10)：5207-5218.  
+[42] 何逢志.人类干扰对溪流大型底栖无脊椎动物群落结构和多样性的影响[D].武汉：中国科学院大学水生生物研究所，2015：25-32.  
+[43] BritainE,SltveitSJArevieofthecofriverregulatiooms（Ephemeroptera）Rgulatedivers：Research&Magnt,1989,3(1):191-204.  
+[44］蒋万祥，唐涛，贾兴焕，吴乃成，段树桂，黎道丰，蔡庆华.硫铁矿酸性矿山废水对大型底栖动物群落结构的影响.生态学报，2008，28(10):4805-5814.  
+[45］贾兴焕，蒋万祥，李凤清，唐涛，段树桂，蔡庆华.酸性矿山废水对底栖藻类的影响.生态学报，2009,29（9)：4620-5629.  
+[46]MagbauaFTosedCR,HageanKJathaeiCDdiviualadcombinedfetsoffnedientandherbdegloateobenthic macroinvertebrates and stream ecosystem function.Freshwater Biology，2013,58(8）：1729-1744.  
+[47］卜文圣，马克平.基于功能性状探讨生物多样性与生态系统功能的关系.//马克平.中国生物多样性保护与研究进展(X第十届全国生物多样性保护与持续利用研讨会论文集).北京：气象出版社，2014：175-182.

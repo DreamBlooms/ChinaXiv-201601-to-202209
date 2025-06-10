@@ -1,0 +1,395 @@
+[
+    {
+        "type": "text",
+        "text": "Real-Time Monitoring Surface Chemistry-Dependent In Vivo Behaviors of Protein Nanocages via Encapsulating an NIR-II Ag2S Quantum Dot ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chunyan Li,+ Feng Li,\\*\\* Yejun Zhang,+ Wenjing Zhang,\\* Xian-En Zhang,§ and Qiangbin Wang\\*,t +KeyLaboratoteciboddbntefcelceinctite Nano-ionabit Wuhan30dabofacesiefsj ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Protein nanocages (PNCs) have been recognized as a promising platform for nanomedicine innovation.Real-time in vivo tracking of $P N C s$ can provide critically important information for the development of PNC-based diagnostics and therapeutics. Here we demonstrate a general strategy for monitoring the behaviors of PNCs in vivo by encapsulating a ${ \\tt A g } _ { 2 } \\mathsf { S }$ quantum dot (QD) with fluorescence in the second near-infrared window (NIR-ll, $1 0 0 0 { - } 1 7 0 0 \\ \\mathrm { n m }$ inside the $\\mathsf { P N C } ,$ using simian virus 40 (SV40) PNC $( P N C _ { \\mathsf { S V } 4 0 } )$ as a model. Benefiting from the high spatiotemporal resolution and deep tissue ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cf5ac9fe9636b5017ffc2f2527b9bc8fa9d8e1a12d9ec38b54acb31784279f4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "penetration of NIR-llfluorescence imaging, the dynamic distribution of the $P N C _ { \\mathsf { S V } 4 0 }$ in living mice was tracked in real time with high fidelity,and adopting thePEGylation strategy,surfacechemistry-dependent in vivo behaviors of $P N C _ { \\mathsf { S V } 4 0 }$ were dearly revealed.This study represents the first evidence of realtietrackingofteiecaas imagingstrateillfciatetudyofiteracostweeoesltruddostdyndottevelomte protein-based drugs, sensors,and high-efficacy targeted delivery systems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS: protein nanocage $\\cdot$ surface chemistry $\\cdot$ in vivo imaging $\\cdot \\mathsf { A } \\mathsf { g } _ { 2 } \\mathsf { S }$ quantum dots $\\cdot$ near-infrared fluorescence ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pungg sentative group of protein nanostruc- mrea $1 0 - 1 0 0 \\mathsf { n m }$ assembled from multiple copies of subunits.1 Due to their unique features such as good biocompatibility and direct genetic fusion with peptide/protein drugs，PNCs have been recognized as natural biomedical materials for developing vaccines,2-4 therapeutic molecules delivery vectors,5-9 and in vivo diagnostic devices.10-15 The realization of the functions of PNCs in vivo is dependent on theirtransportation,biodistribution,and the protein-host interactions.Real-time in vivo tracking of PNCs with high fidelity would offer great convenience to analyzing the in vivo behaviors of PNCs and thus to improving the in vivo targeting and functionality of PNCs,substantially benefiting the translation of PNCbased biomedical techniques to practical applications.16,17 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Despite of the available computed tomography (CT),magnetic resonance imaging (MRI),and nuclear imaging (positron emission tomography [PET] and single photon emission computed tomography [SPECT]), fluorescence probes have been widely used for biomolecular labeling due to their inherent advantages of high sensitivity,fast feedback,multiplexing,and absence of ionizing radiation.18 However,they are suffering from the limited tissue penetration depth of theirclassic fluorescence ( $_ { < 9 0 0 \\mathsf { n m } _ { . } }$ ininvivo imaging.19 Alternatively,fluorescence imaging in the second near-infrared window \\*Address correspondence to qbwang2008@sinano.ac.cn, fli@wh.iov.cn. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received for reviewSeptember1,2015 and accepted October23,2015. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published online October23,2015   \n10.1021/acsnano.5b05503 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(NIR-Il,1000-1700 nm) provides unprecedented penetration depth and spatiotemporal resolution in comparison with the conventional fluorescence imaging.20-23 Here,by using a PNC assembled from the major capsid protein of simian virus 40 (SV4O),VP1,as a model,and through encapsulating an NiR-ll emitting $\\mathsf { A g } _ { 2 } \\mathsf { S }$ quantum dot (QD, $\\lambda _ { \\mathsf { E m } } = 1 2 0 0 \\mathsf { n m } )$ in the cavity of SV40,we accomplished dynamically tracking the migration and biodistribution of SV40 PNC $( P N C _ { \\mathsf { S V } 4 0 } )$ in vivo. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SV40,a member of polyomaviridae,is one of the simplest double-stranded DNA viruses.24 SV40 VP1 can form a PNC,which can efficiently encapsulate QD in the cavity through controllable self-assembly while preserving its natural biological activity.25-27 Due to the intrinsic biological transparency window of tissue, ${ \\sf A g } _ { 2 } { \\sf S }$ QD with excellent NiR-ll fluorescence enables the in vivo imaging with deep tissue penetration $( > 1 . 1 c m )$ andhigh spatiotemporal resolution of $2 5 \\mu \\mathsf { m }$ and $5 0 ~ \\mathrm { m s }$ ,respectively.28,29 For the first time, the migration dynamics and biodistribution of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ invivo were tracked in real time. It was found that $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ was cleared out from the blood circulation within 5 min post intravenous injection (pi) and that $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ was mainly accumulated in the reticuloendothelial system (RES).In contrast,when the surface property of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ was modified through the traditional PEGylation strategy,PEGylated $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ behaved dramatically different from the naked $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 } ,$ showing significantly prolonged blood circulation and much less uptake in the RES.These findings of in vivo NIR-ll imaging were corroborated by ex vivo imaging,inductively coupled plasma mass spectrometry (ICP-MS) analysis,and macrophage endocytosis assay.The in vivo PNC tracking strategy described here，with highspatiotemporal resolutionand fidelity，provides a visible and direct way to investigate interactions between exogenously introduced PNCsand hostbody, potentially speeding discovery and innovationin PNC-based nanomedicines. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { A g } _ { 2 } \\mathsf { S }$ QDs were efficiently encapsulated into $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ through a controllable coassembly process of SV40 VP1 and ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } }$ QDs (see the Methods section for details).26 Transmission electron microscopy (TEM) revealed that each $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ contained one ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } }$ QD and possessed an average overall diameter of $2 4 \\pm$ $1 . 7 6 \\ \\mathsf { n m }$ (Figure 1a),which was similar to the native ${ \\sf T } = 1$ virus-like particle of SV40 (Figure S1).30 The optical properties of the as-prepared $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ were characterized as shown in Figure 1b.In comparison with free $\\mathsf { A g } _ { 2 } \\mathsf { S }$ QDs,the encapsulated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ exhibited similar absorbance and fluorescence spectra, except a small red-shifted emission peak probably due to the changed dielectric constant surrounding ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } }$ QDs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to track SV40 in vivo through ${ \\sf A g } _ { 2 } { \\sf S }$ QDs fluorescence, the stability of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ in serum over a prolonged period would be critical.After incubating the stock of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ with serum at $3 7 ^ { \\circ } \\mathsf { C }$ over different time scales,negative-staining TEM analysis was carried out in which $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ was clearly distinguished out of the messy background of serum proteins with well-preserved spherical morphology of $\\mathsf { P N C S } _ { \\mathsf { V } 4 0 }$ embeddinga ${ \\sf A g } _ { 2 } { \\sf S }$ QD core (Figures 1c and S2),suggesting good serum stability f $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The dynamic migration of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ in living mouse was tracked in real time under an InGaAs-based shortwave infrared imaging system (Figure 1d and Movie S1 in Supporting Information).After injecting $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ into a female athymic nude mouse by tail vein, $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ were observed to migrate rapidly throughout the whole blood vessels at the very beginning and then were mainly accumulated in liver and spleen within 5 min pi.Interestingly,besides the bright fluorescence observed in RES including liverand spleen, $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ was also found in bone marrow as displaying high NiR-ll fluorescence in leg bone and sternum at $1 2 \\mathrm { ~ h ~ }$ pi (Figure 1d).Further，through principal component analysis (PCA),different tissues and organs in the living mouse were unambiguously distinguished based on the dynamic contrast after computation on the first 150 frames of fluorescence pictureswithin15 spi (Figure 1e).Clearly, $\\mathsf { A g } _ { 2 } \\mathsf { S }$ -based NIR-ll fluorescence imaging provided an unprecedented method to reveal the dynamic transportation of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ in vivo with high spatiotemporal resolution and deep tissue penetration. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "More and more evidence indicates that surface properties of nanomaterials play a determinant role in regulating their in vivo behaviors.31-35 Intense endeavors have been devoted to reducing nonspecific clearance and enhancing targeting capability of nanomaterials in vivo.36.37 In particular, PEGylation has been successful in reducing nanomaterials accumulation in RES and prolonging their blood circulation time, resulting in increased chance of accumulation in the region of interest (RO).17,38Therefore,PEGylatioof $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ on its outer surface was carried out to help the escape from nonspecific RES uptake.Two different molecular weights of PEG (PEG750 and PEG5K) were chosen for better understanding of how the PEG affected the in vivo performance of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ .The in vivo dynamics and distribution of the PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ were analyzed in real timeusing the aforementioned NiR-ll imaging method. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After PEGylation, the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G }$ preserved intact core/shell structure and exhibited similar size and morphology to that of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ under TEM (Figure S3) as the PEG chains could not be negatively stained.Dynamic light scattering (DLS)analysis revealed the increased hydrodynamic diameters (HDs) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a98ec5bf4bc2cff8bee460f290272407ec7491e2e29832b4a0bc6aca38f5878.jpg",
+        "img_caption": [
+            "Figure1. Real-time in vivo NIR-llfluorescence imaging of $P N C _ { S V 4 0 }$ in virtue of the $\\mathsf { A } \\mathsf { g } _ { 2 } \\mathsf { S }$ QD encapsulated in its cavity. (a) Negativestaining TEM imageof $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ ：(b) Absorbance and photoluminescence spectra of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ in comparison with glutathion modified $A g _ { 2 } S$ QDs $( G S H - A g S$ QDs). (c) TEM image of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ incubated with serum for 2 days,in which the white arrows indicate typical $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ .(d)Time course of NIR-llfluorescence images of living mice injected with $2 0 0 \\mu \\mathrm { L }$ （204号 $( 1 \\ m g / \\ m L )$ $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ .Images wereacquiredat5min,3and $1 2 \\mathsf { h }$ pi,respectively.(e) Dynamic contrast enhanced images with $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ measuredaccording toVP1 proteincontent,similarlyhereafter,basedonPCAanalysis,thesecond (green),third (blue),andfourth(red)principalcomponents(PCs)areretained.PCAimages wereobtainedoverthefirst15s(15frames)pi. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } – P E G 7 ! }$ 50and $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 5 K }$ from $2 8 . 8 \\pm 2 . 3 4 \\mathrm { { \\ n m } }$ of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ to $3 3 . 2 ~ \\pm$ $1 . 9 3 \\ : \\mathsf { n m }$ and $5 7 . 1 \\pm 2 . 1 1 { \\mathrm { ~ n m } }$ ,respectively (Figure 2a), while zeta-potential measurement (Figure 2b) suggests that $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ and $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 7 5 0 }$ possessed comparable values around $- 8 \\mathsf { m } \\mathsf { V } ,$ while $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } / P E G 5 K }$ was found to be nearly $0 ~ \\mathsf { m V }$ (see Table S1).Native gel electrophoresis results indicate that the relative homogeneity of the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ and PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } } ,$ in which asingle band was observed from each sample (Figure 2c). In addition,the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ migrated slightly fasterthan $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } – P E G 7 5 ( }$ ,consistent with the data that $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ possessed a similar surface charge but smaller HD in comparison to $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 7 5 0 }$ .As for $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } }  – P E G 5 K } ,$ the sample was totally trapped in the loading well because of its nearly zero surface charge and a much larger size.These observations confirm that the successful PEGylation of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ . Further,matrixassisted laser desorption ionization-time-of-flight mass spectrometry (MALDl-TOF MS)was utilized to quantify the number of PEG molecules conjugated on $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ .Figure 2d shows the MS spectra of the three kinds of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ .The conjugation density of PEG wasestimated (see Figure S4 for detailed analysis). It was found that,for $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 7 5 0 } _ { i }$ each VP1 was conjugated on average with 12 copies of PEG750 molecules.In contrast,one, two,three,and four PEG5K molecules per VP1 were detected in the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } ^ { - } } }$ PEG5Ksample. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Intact protein structures (Figure S3),excellent NIR-ll fluorescence (Figure S5) and good serum stability (Figure S6) of PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ enabled in vivo tracking of the dynamic migration and biodistribution of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ after PEGylation.As shown in Figure 3a and Movies S2 and S3,both $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } ^ { - } } }$ PEG750 and $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 5 K }$ were migrated to the heart and lung at the beginning after intravenous injection and then were pumped into the whole body through the systemic circulation.Unlike the naked $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ which was rapidly eliminated from bloodstream within 5 min pi, the PEGylated $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ exhibited greatly increased blood retention with distinguishable fluorescence signals lasting over $1 2 \\ h$ In particular, for the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 5 K } _ { \\iota }$ ，therewas ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac2e2958520989e80b65a62ec37315fc2f847b174aa757c3669f2a6b54c2607a.jpg",
+        "img_caption": [
+            "Figure 2. Characterizationof PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ . (a) HD measurement by DLS. (b) Zeta potential measurement. Results are presented as mean $\\pm \\mathsf { S D }$ $( n = 3 )$ .(c) Agarose gel electrophoresis.A bright-flied color photo (left)and an NIR-llfluorescence image (right) of the agarose gel were recorded. Lanes 1-4 $( { \\pmb 1 } ^ { \\prime } - { \\pmb 4 } ^ { \\prime } )$ GSH $\\cdot \\mathsf { A } \\mathsf { g } _ { 2 } \\mathsf { S }$ QDs, $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ -PEG750, and $\\mathsf { A } \\mathsf { g } _ { 2 } \\mathsf { S } @ \\mathsf { P N C } _ { \\mathsf { S V } 4 0 } – \\mathsf { P E G } 5 \\mathsf { K } ,$ respectively.(d) MALDl-TOF MS analysis for semiquantification of PEGylation efficiency of PNCsv40· "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6313ffcc849a246e08731f6d4c164059fa05ad45101c9c1ba40d119d55d3892d.jpg",
+        "img_caption": [
+            "Figure 3.(a) Time course of NIR-ll fluorescence images of living mice injected with 200 μL $( 1 \\ m g / \\ m L )$ of PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ . Images were acquired at 5 min,3 and $^ { 1 2 \\mathrm { ~ h ~ } }$ pi,respectively.(b) Blood circulation curves of naked and PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ in mice. Blood samples $( 2 0 \\mu \\mathsf { L } )$ were collected at a series of time points pi,and the half-lives of different $\\mathsf { A } \\mathsf { g } _ { 2 } \\mathsf { S } \\ @ \\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ in the bloodstream were calculated based on ICP-MS analysis. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3caa41399abca19a0a67a4e3e35038619960357dd53f0b4156c3e269e727b64c.jpg",
+        "img_caption": [
+            "Figure4.Ex vivo analysis of the biodistribution of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ and PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ . (a) $\\pmb { { \\cal E } } \\pmb { x }$ vivobright-field color photosandNIR-llfluorescence images of various tissuesand organstaken fromthemice injected with $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } } ,$ ${ \\sf A g } _ { 2 } { \\sf S @ P N C _ { S V 4 0 } } – { \\sf P E G 7 5 0 }$ and $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ -PEG5Kat $1 2 \\mathsf { h }$ pi.(b)Quantitativeanalysisofshort-termretentionofvarious $P N C _ { 5 V 4 0 }$ in liver,spleen,and bone marrow measured by ICP-MS at12h pi.Resultsare presentedas mean $\\pm \\mathsf { S D }$ $( n = 3 )$ ${ ^ { * } p } < 0 . 0 5$ ，#p $\\mathbf { \\sigma } \\cdot < 0 . 0 1$ · "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "negligible $\\mathsf { A g } _ { 2 } \\mathsf { S }$ fluorescence observed in the RES system and bone marrow. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To quantitatively assess the retention of the PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ in bloodstream，the blood circulation half-lives of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } } ,$ $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } ^ { - } } }$ PEG750,and $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ -PEG5Kwereanalyzed by ICP-MS,respectively.As shown in Figure $^ { 3 \\mathrm { b } , }$ blood clearance rates of naked $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ and PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ were quite different.The concentration of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ in bloodstream was dramatically decreased to an undetectable level within 5 min pi, which can be explained as that exogenous protein molecules were rapidly opsonized and then cleared by RES upon entry into the bloodstream.In contrast, $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 7 5 0 }$ and $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ -PEG5Kexhibited significantly prolonged half-lives of 283 and 476 min in bloodstream,respectively.The half-lives quantified by ICP-MS agreed well with the different fluorescence patterns of naked and PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ in living mice (Figure 3a),supporting the validity of the information delivered by NIR-ll imaging. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In vivo real-time NiR-ll fluorescence imaging clearly reveals that dynamic migration and biodistribution of PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } } ,$ and it was observed that PEGylation significantly inhibits the uptake of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ by liver,spleen,and bone marrow.To quantitatively check the distribution patterns of the naked $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ and PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ in vivo, ex vivo fluorescence quantification and ICP-MS analysis of $\\mathsf { A g } _ { 2 } \\mathsf { S }$ content were conducted.As shown in Figure 4a, most of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ and PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ were nonspecifically accumulated in spleen and liver. It isnotable that the fluorescence intensity in liver, spleen，and bone marrow in the mouse injected with $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ was much higher than that in the case of PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ ． ICP-MS analysis (Figures 4b and S7)showed that the highest uptake of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ was in the spleen $( 8 . 9 8 \\% )$ , followed by the liver $( 2 . 7 7 \\% )$ andbonemarrow $( 1 . 9 6 \\% )$ at $1 2 \\mathsf { h }$ pi. Incontrast,PEGylation significantly reduced the internalization of the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ in these organs (for $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 7 5 0 } _ { i }$ ，spleen: $5 . 3 9 \\% ,$ liver: $2 . 7 4 \\% ,$ （20 and bone marrow: $1 . 5 3 \\%$ for $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } – P E G 5 K } ,$ （20 spleen: $4 . 0 5 \\%$ ,liver: $1 . 1 1 \\%$ ,and bone marrow: $1 . 1 0 \\%$ ） The ICP-MS data are consistent to the fluorescence imaging data,suggesting the high fidelity of ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } }$ NIR-ll imaging in monitoring the transportation and distribution of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ in vivo.Additionally,although $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ were modified by PEG750 with higher density than by PEG5K,the latter offered bettershielding effect against internalization of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ in RES including spleen,liver,and bone marrow.Similar effectswere observed for othermacromolecules, which is ascribed to that PEG molecules of larger molecular weights are thought to provide thicker shielding layers.\"Taken together,these results have demonstrated that PEGylation changed the spatiotemporal distribution of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ in vivo and greatly reduced the nonspecific uptake of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ by ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f5fff04e072e30774829fc5561b7cfc5741315423bc4827f421136b947fd7f4.jpg",
+        "img_caption": [
+            "",
+            "",
+            "Figure 5.Comparison of interactions_between macrophagesand $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ ofdifferent_surface properties. (a)Fluorescence microscope images of living RAW 264.7 cells incubated with $2 0 \\mu { \\mathfrak { g } } / { \\mathfrak { m } } \\llangle$ Alexa Fluor488 conjugated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } - l }$ PEG750,or $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } } ^ { }$ PEG5K and then further with Hoechst 33258. (b) Flow cytometric histogram profilesof different $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ in RAW 264.7 cellsafter incubation for $3 h$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "liver, spleen,and bone marrow,which will have great potential in improving the passive targeting efficacy of the PNCs as delivery vectors.More importantly, these observations have manifested that NIR-ll imaging is a directand reliable way to real-timely track the distribution of PNCs in vivo and is afacile technique to precisely evaluate the surface property-dependent behaviors of PNCs in vivo. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To understand the observed in vivo shielding effect of PEGylation on $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } } ,$ the interactions of $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } } ,$ （ $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 7 5 0 } _ { i }$ and $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 5 K }$ with macrophages were carefully studied.Macrophage,as a representative cell type in the RES,e.g.,liver and spleen,playsa central role in protecting the body from foreign substances and microbes in innate immunity. How the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ interacts with macrophages will provide insights in understanding their in vivo behaviors.Therefore, endocytosis assay of various $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ by activated mouse-derived macrophages，RAW264.7，was carried out.For in vitro fluorescence microscope and fluorescence-activated cell sorting (FACS) assay, Alexa Fluor488 dye was conjugated onto the cysteines of VP1,and it was confirmed that all the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ formulations at the same concentration of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ gave equivalent fluorescence intensity of Alexa Fluor488 (Figure S8).After incubation with various $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ conjugated with Alexa Fluor488 dye in phosphate buffered saline (PBS),RAW264.7 cells incubated with $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ displayed intense fluorescence of Alexa Fluor488,whereas therewasmuch less fluorescence in the cells incubated with PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ under the same condition (Figure 5a), suggesting that PEGylation greatly suppressed the internalization of the $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ by macrophages.As detected by FACS (Figure 5b),by plotting the phagocytosis efficiency versus $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ with different surface properties,similar results to the cell imaging wereobtained.Quantitative analysisof fluorescence intensity in the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ group showed nearly 100-fold higher than that in the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 }  – P E G 5 K }$ group under the same incubation condition.And there was much less $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ uptake by RAW264.7 cells for PEGylation with PEG5K than with PEG750, indicating enhanced shieldingeffect with increased PEG molecular weight.These data are consistent with the significantly prolonged in vivo blood circulation time of PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ and also suggest that modifying PNCs with PEG of larger molecular weights is more suitable for in vivo biomedical applications that need immuno shielding.Taken together, the cellular uptake assays provide an explanation for the in vivo shielding effect of PEGylation on $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ and also additionally verify the information revealed by NIR-ll imaging. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary,we have achieved the real-time tracking of in vivo immigration dynamics and distribution of PNCs in virtue of NIR-ll fluorescence imaging by encaging an ${ \\sf A g } _ { 2 } { \\sf S }$ QD inside.In principle，such a QD-encapsulating strategy for labeling PNCs does notinterfere with the molecular or cellular interactions between PNCs and the host body,in comparison with linking QDs to the external surface of PNCs,as well as avoid exposure to the nuclear radiation in the case of nuclear medicine detection methods of CT,PET,SPECT, etc.The advantageous NiR-ll fluorescence property of ${ \\sf A g } _ { 2 } { \\sf S }$ QDs enabled the tracking of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ in living mice for a long period of time with high stability, fidelity,and spatiotemporal resolution.As clearly revealed by the NIR-ll fluorescence imaging, $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ were rapidlycleared fromthebloodstreamand selectively accumulated mainly in liver,spleen,and bone marrow,but surface PEGylation of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ significantly prolonged its blood circulation time from $< 5$ to $4 7 6 \\mathrm { \\ m i n }$ and resulted in quitedifferentinvivo behaviors of $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 } ,$ the molecular mechanism underlying which should be investigated in terms of receptor recognition，biomolecule corona formation,and so on in future for better regulation of PNC-host interactions.These findings successfully demonstrated the importance of the surface property of the PNCs on their in vivobehaviorsandthe feasibilityof ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } } { \\mathsf { Q D } }$ in realtime tracking ofPNCs in vivo for its NiR-ll fluorescence with deeper penetration depth and higher spatiotemporal resolution. The $\\mathsf { A g } _ { 2 } \\mathsf { S }$ QD-encapsulated strategy canbe generalized to other caged protein materials and promises new insights into interactions between exogenously introduced caged protein materialsand host body,which isessential for rational design and optimization of surface properties for PNC-based in vivo biomedical applications, like vaccine,biosensing,and targeted delivery. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Materials.Unless otherwise noted，all chemicalswere obtained from commercial sources and used without further purification．1-Dodecanethiol (DT, $9 8 \\%$ 1、 ${ \\sf A g N O } _ { 3 } ,$ $( \\mathsf { C } _ { 2 } \\mathsf { H } _ { 5 } ) _ { 2 } .$ $\\mathsf { N C S } _ { 2 } \\mathsf { N a } \\cdot 3 \\mathsf { H } _ { 2 } \\mathsf { O }$ (Na(DDTC)),and glutathione (GSH) were purchased from Sinopharm Chemical Reagent Co., Ltd.(China). Water with a resistivity value of $1 8 ~ \\mathsf { M } \\Omega \\cdot \\mathsf { c m } ^ { - 1 }$ was obtained from a Mili-Q ion-exchange system (Millipore,USA).Amicon Ultra-15 Centrifugal Filter Units with $1 0 0 ~ \\mathsf { k D a }$ MW cutoff were purchased from Millipore (USA).Alexa Fluor $4 8 8 \\mathsf C _ { 5 }$ -maleimide, methoxy PEG750 succinimidyl succinamide,and methoxy PEG5K succinimidyl succinamide were purchased from Thermo Fisher Scientific Inc. (USA),Sigma-Aldrich Co.LLC (USA),and JenKem Technology Co., Ltd.(China), respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of ${ \\tt G S H - A g } _ { 2 } S$ QDs.First,hydrophobic ${ \\sf A g } _ { 2 } { \\sf S }$ QDswere synthesizedaccording topreviousreports.40,41 Inatypical synthetic process,a mixture of 0.1 mmol of $( C _ { 2 } H _ { 5 } ) _ { 2 } N C S _ { 2 } A g$ and $\\boldsymbol { 1 0 } \\ \\mathfrak { g }$ of DT was added into a three-necked flask.After oxygen was removed from the flask,the solution was heated to $2 1 0 ^ { \\circ } { \\mathsf C }$ and kept at this temperature for $1 \\mathrm { ~ h ~ }$ under ${ \\sf N } _ { 2 }$ atmosphere.When the mixture was cooled to room temperature (RT), excess of ethanol was added,and then the precipitates were collected through centrifugation. DT- ${ \\sf A g } _ { 2 } { \\sf S }$ QDsabout $5 . 6 \\mathsf { n m }$ in diameterwere obtained.To make $\\mathsf { A g } _ { 2 } \\mathsf { S }$ QDs hydrophilic,GSH asasurface ligand was introduced to displace DT,and then $G S H - A g S$ QDs were obtained. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Assembly of $\\mathsf { A } \\mathsf { g } _ { 2 } \\mathsf { S } @ \\mathsf { P N C } _ { \\mathsf { S } \\mathsf { V } 4 0 }$ .VP1was expressed in E.coli and purified as described previously.25 VP1 pentamers $( c a . 0 . 5 \\mathrm { m g / m L ) }$ （204号 in the dissociation buffer $1 0 ~ \\mathsf { m M }$ Tris-HCl ${ \\mathsf { p H } } 8 . 8 .$ 200 mM NaCl, $2 ~ { \\mathsf { m M } }$ EDTA, $2 ~ { \\mathsf { m M } }$ dithiothreitol,and $5 \\%$ glycerol) and GSH${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } }$ QDs $1 . 5 \\ : \\mathrm { m g / m L }$ were mixedat a molar ratio of12:1 and exhaustively dialyzed against the encapsulation buffer！ $\\langle 1 0 \\mathsf { m } \\mathsf { M }$ Tris-HCl pH 7.2,1 mM $\\mathsf { C a C l } _ { 2 } ,$ 250 mM NaCl,and $5 \\%$ glycerol) at $4 ^ { \\circ } { \\mathsf { C } } .$ The assembly product was concentrated to a VP1 concentration of ca. $4 \\ m g / \\mathrm m L$ using an Amicon Ultra-15 Centrifugal Filter Unit with $1 0 0 ~ \\mathsf { k D a }$ MW cutoff (Millipore),then loaded onto a $1 0 \\% - 5 0 \\%$ sucrose gradient and centrifugated at 38,000 rpm at $4 ~ ^ { \\circ } C$ for $4 . 5 \\ \\mathsf { h }$ ina SW40 rotor (Beckman). Afterward,the brown sharp band in the middle of tube was harvested,followed by exhaustive dialysis against $1 0 \\mathrm { \\ m M \\ P B S } ,$ and concentrated to a VP1 concentration of ca. $5 \\mathrm { m g / m L }$ using the $1 0 0 ~ \\mathsf { k D a }$ cutoff filter unit. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conjugation of $\\mathsf { A } \\mathsf { g } _ { 2 } \\mathsf { S } @ \\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ .For PEGylation, $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ $( c a . 5 ~ \\mathrm { m g / m L }$ ,measured accordingto VP1 protein) stockwas directly mixed with preweighted methoxy PEG750 succinimidyl succinamide or methoxy PEG5K succinimidyl succinamide at molar ratios of VP1 monomer:PEG $\\mathsf { \\Pi } _ { 1 } = 1 : 1 1 1 7$ and 1:280,respectively,incubated firstatRTfor 4O minand thenat $4 ^ { \\circ } C$ overnight. Free PEG was removed by dialysis against $1 0 ~ \\mathsf { m M P B S }$ at $4 ^ { \\circ } C$ using 50,ooo MW cutoff dialysis membrane.For labelingwith Alexa Fluor 488,naked or PEGylated ${ \\sf A g } _ { 2 } { \\sf S @ P N C _ { \\sf S V 4 0 } }$ was mixed with Alexa Fluor 488 ${ \\mathsf C } _ { 5 }$ -maleimideata1:10 molar ratio of VP1 monomer to dye and incubated at $4 ^ { \\circ } C$ overnight.Free Alexa Fluor 488 dyes were eliminated by dialysis.The Alexa Fluor 488 labeling efficiency was examined using UV-vis absorption spectrometry and fluorescence spectrometry. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Characterizations.Transmission Electron Microscopy(TEM).All samples were negatively stained using a previous procedure² and observed byan FElTecnai 20 TEM equipped with a Gatan UltraScan 894 CCD camera ora Hitachi H7000 TEM equipped with an Olympus MegaView G2 camera.For serum stability analysis,naked or PEGylated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ and mouse serum were mixed well with the final concentration of PNCsv4o as $0 . 5 \\mathrm { \\ m g / m L }$ and that of serum as $5 0 \\%$ .To suppress microorganism growth,penicillin-streptomycin was added at a $2 \\times$ final concentration.The mixtures were incubated at $3 7 ^ { \\circ } \\mathsf C$ and then examined with TEM after 2,4,and 7 days, respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "UV-vis-NIR Absorption and Fluorescence Spectroscopy.The UV-vis-NIR absorption spectra of $G S H - A g S$ QDs and various $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ were measured by a PerkinElmer Lambda 25 UV-vis spectrometer. The NIR fluorescence spectrum of ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } }$ QDs was measured using an Applied NanoFluorescence spectrometer (USA) with an excitation laser source of $6 5 8 ~ \\mathsf { n m }$ ： And the fluorescence spectrum of Alexa Fluor 488 was measured on a PerkinElmer LS 55 luminescence spectrometer using an excitation wavelength of $4 8 0 ~ \\mathsf { n m }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dynamic Light Scattering (DLS) and Zeta Potential Measurement. Samples were loaded in $2 m L$ cuvettes and run at $1 0 \\%$ power (to prevent saturated counts)，and hydrodynamic diameters of various $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ were measured using a Malvern Nanosizer Nano ZS(UK). Zeta potentials of the $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ weremeasured using the same instrument.Each samplewas run 3 times. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Agarose Gel Electrophoresis.Solution $( 1 0 \\mu \\mathsf { L } )$ of each sample was mixed with $2 0 \\%$ ficoll and then analyzed by $1 \\%$ agarose gel electrophoresis using a Mini-sub cell GT Gel electrophoresis system (Bio-Rad Laboratories Inc.).Ending the electrophoresis, pictures were taken under the irradiation of white light and $8 0 8 \\mathsf { n m }$ laser,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Matrix-Assisted Laser Desorption lonization-Time-of-Flight Mass Spectrometry (MALDl-TOFMS).Samplesweredialyzed exhaustivelyagainst ultrapure waterat $4 ^ { \\circ } C$ to get rid of any salt and then added with $\\beta$ -mercaptoethanol at a final concentration of $2 0 ~ \\mathsf { m } \\mathsf { M }$ to break the inter-VP1 disulfide linkage.After incubationat $3 7 ^ { \\circ } \\mathsf C$ for40 min,trifluoroaceticacid wasadded at a final concentration of $0 . 1 \\% ,$ followed by centrifugation at $1 3 , 0 0 0 \\ g$ for $1 0 \\mathrm { \\ m i n }$ to remove aggregated QDs.The resulting supernatant was examined bya 4800 MALDl TOF/TOF instrument (AB SClEX) with sinapic acid as the matrix.Mass spectra were recorded in the range of m/z 9942-400,000.Data were processed using Data Explorer (TM) Software V4.5. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cell Culture and Fluorescence Imaging.The mouse macrophage cell line RAW264.7 was provided by the Institute of Biochemistryand Cell Biology,SIBS,CAS (China).The cellswere grown in Dulbecco's modified Eagle's medium (DMEM) supplemented with $1 0 \\%$ fetal bovine serum (FBS) at $3 7 ^ { \\circ } \\mathsf C$ under $5 \\%$ ${ \\mathsf { C O } } _ { 2 }$ .For living cell imaging, RAW264.7 cells $( 5 \\times 1 0 ^ { 5 } / \\mathrm { m L } )$ were plated on $1 4 \\mathsf { m m }$ glass coverslips and allowed to adhere for $1 2 \\mathsf { h }$ The cells were washed with PBS and then incubated with $2 0 \\mu { \\mathfrak { g } } / { \\mathfrak { m } } \\llcorner$ Alexa Fluor488 conjugated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } } ,$ ， $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 ^ { - } } }$ PEG750,and $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } – P E G 5 K } ,$ respectively，in PBS for $^ { 3 \\mathrm { ~ h ~ } }$ at $3 7 ^ { \\circ } C ,$ and further incubated with Hoechst 33258 for 20 min before fluorescence microscopy imaging. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Flow Cytometry Analysis.Cellular uptake of various ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } } _ { } @ \\cdot$ $\\mathsf { P N C } _ { \\mathsf { S V } 4 0 }$ in PBS was assessed by means of flow cytometry (BD FACSCalibur). RAW264.7 cells were incubated with 10 or $3 0 \\mu \\mathrm { g / m L }$ Alexa_Fluor488conjugated $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } } ,$ $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } ^ { - } } }$ PEG750,and $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } – P E G 5 K } ,$ respectively，for $^ \\textrm { \\scriptsize 3 h }$ at $3 7 ^ { \\circ } C ,$ then harvested,rinsed in PBS,resuspended,and examined by flow cytometry. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Vivo and ex Vivo Fluorescence Imaging of Mice. NIR-ll fluorescence imaging,including in vivo whole-body fluorescence imaging and ex vivo fluorescence imaging of organs and tissues,was performed with a home-built NiR-ll fluorescence imaging system.The excitation lightwas provided by an $8 0 8 \\mathsf { n m }$ diode laser and filtered byan $8 8 0 \\ \\mathsf { n m }$ long-pass filter. The dynamic distribution of the $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { \\mathsf { S V 4 0 } } }$ in living mouse was monitored in real time by a continuous record by using an InGaAs camera under illumination of an $8 0 8 \\mathsf { n m }$ laser diode ata power densityof ${ \\sim } 5 0 ~ \\mathrm { m W } \\mathrm { c m } ^ { - 2 }$ and an exposure time of $1 0 0 ~ \\mathsf { m s }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Biodistribution.The organs,tissues,and excreta of mice injected with different $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } } ,$ including brain,heart, lungs,liver,spleen,kidneys,intestine,bone,urine,and feces were weighted and then dissolved in a digest solution $( H N O _ { 3 } /$ $H C l O _ { 4 } \\lor / \\lor = 4 / 1 .$ .Theuptake of various $\\mathsf { A g } _ { 2 } \\mathsf { S @ P N C _ { S V 4 0 } }$ in different tissues and organs was determined by ICP-MS (Thermo E. IRIS Duo) analysis of ${ \\mathsf { A } } { \\mathsf { g } } ^ { + }$ content. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis.All datawere expressed as the mean $\\pm$ SD and statistical difference between two groups was determined using an unpaired,two-tailed t test. $P \\ < \\ 0 . 0 5$ was considered to be statistically significant. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interest:The authors declare no competing financial interest. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment. This work was financially supported by Chinese Academy of Sciences \"Strategic Priority Research Program\"(XDA01030200),the Key Research Program of the Chinese Academy of Sciences (KGZD-EW-T02-3), the Ministry of Science and Technology of China (2011CB965004),National Natural Science Foundation of China (21303249,31271076, 21425103,31470931,81401464,and 21501192),and Natural Science Foundation of Jiangsu Province (BK20120o7 and BK20130366).We are very grateful to Prof.Dan Luo at Cornell University for critical proofreading of the manuscript. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information Available:The Supporting Information is available free of charge on the ACS Publications website at DOl:10.1021/acsnano.5b05503. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supporting results (PDF)   \nMovie 1 (MPG)   \nMovie 2 (MPG)   \nMovie 3 (MPG) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCESANDNOTES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.Molino,N.M.; Wang,S.W.Caged Protein Nanoparticles for Drug Delivery. Curr Opin. Biotechnol.2014,28,75-82.   \n2.Kanekiyo, M.; Wei, C. J.; Yassine, H. M.; McTamney,P. M.; Boyington, J.C.; Whittle, J.R.R.; Rao, S.S.; Kong,W.P.; Wang,L.S.; Nabel, G.J. Self-Assembling Influenza Nanoparticle Vaccines Elicit Broadly Neutralizing H1N1 Antibodies.Nature 2013,499,102-106.   \n3.Wei, D.Q.; Zhao, X.; Chen, L. M.; Lan, X. G.; Li,Y. H.; Lin, Y.; Wang, Q.Viral Nanoparticles as Antigen Carriers: Influence of Shape on Humoral Immune Responses. RSC Adv.2014, 4,23017-23021.   \n4.Rynda-Apple,A.； Patterson,D.P.; Douglas，T.Virus-like Particles as Antigenic Nanomaterials for Inducing Protective Immune Responses in the Lung.Nanomedicine 2014, 9,1857-1868.   \n5.Liang, M.M.; Fan, K.L.; Zhou, M.; Duan, D.M.; Zheng,J.Y.; Yang，D.LFeng,J.; Yan,X.Y.H-Feritin-Nanocaged Doxorubicin Nanoparticles Specifically Target and Kill Tumors with a Single-Dose Injection.Proc.Natl. Acad. Sci. U. S.A. 2014,111,14900-14905.   \n6.Zhen,Z.P.;Tang,W.;Chen,H.M.;Lin,X.;Todd,T.;Wang,G.; Cowger,T.; Chen,X.Y.; Xie, J.RGD-Modified Apoferritin Nanoparticles for Efficient Drug Delivery to Tumors.ACS Nano 2013,7,4830-4837.   \n7.Yildiz, I.; Lee, K. L.; Chen,K.; Shukla,S.; Steinmetz, N.F. Infusion of Imaging and Therapeutic Molecules into the Plant Virus-Based Carrier Cowpea Mosaic Virus: CargoLoading and Delivery. J.Controlld Release 2013，172, 568-578.   \n8．Anand,P.; O'Neil,A.; Lin,E.; Douglas,T.; Holford,M.Tailored Delivery of Analgesic Ziconotide across a Blood Brain Barrier Model using Viral Nanocontainers.Sci. Rep.2015, 5, 12497.   \n9.Ma,Y.J.; Nolte,R.J.M.; Cornelissen,J.J.L.M.Virus-Based Nanocarriers for Drug Delivery.Adv.Drug Delivery Rev. 2012,64,811-825.   \n10．Sun,C.J.; Yang, H.; Yuan,Y.; Tian,X.; Wang,L.M.;Guo,Y.; Xu, L; Lei,J.L.; Gao,N.; Anderson,G.J.；et al.Controlling Assembly of Paired Gold Clusters within Apoferritin Nanoreactor for In Vivo Kidney Targeting and Biomedical Imaging.J.Am. Chem.Soc.2011,133,8617-8624.   \n11.Cao,C;Wang,X;Cai,Y;Sun,L;Tan,L;Wu,H; He,X; Lei H.; Liu,W.; Chen,G.； Zhu,R.; Pan,Y. Targeted In Vivo Imaging of Microscopic Tumors with Ferritin-Based Nanoprobes across Biological Barriers.Adv.Mater.2014,26, 2566-2571.   \n12.Lin,X.; Xie,J.; Zhu,L; Lee,S.; Niu,G.; Ma,Y.; Kim,K.; Chen,X.Y. Hybrid Feritin Nanoparticles as Activatable Probes for Tumorlmaging.Angew.Chem.,Int.Ed.2011,50,1569-1572.   \n13.Li K.;Nguyen,H.G;Lu,X.B.;Wang,.Virusesandeir Potential in Bioimaging and Biosensing Applications. Analyst 2010,135,21-27.   \n14.Leong, H.S.; Steinmetz, N.F.; Ablack, A.; Destito,G.; Zijlstra, A.; Stuhlmann,H.; Manchester,M.; Lewis, J.D.Intravital Imaging of Embryonic and Tumor Neovasculature using Viral Nanoparticles. Nat.Protoc.2010,5,1406-1417.   \n15.Uchida,M.;Flenniken,M.L; Allen,M.; Wilits,D.A.;Crowley, B.E.; Brumfield,S.; Willis,A.F.; Jackiw,L; Jutila,M.; Young, M.J.;et al.Targeting of Cancer Cells with Ferrimagnetic Ferritin Cage Nanoparticles.J.Am. Chem.Soc.2006,128, 16626-16633.   \n16.Blow,N.In Vivo Molecular Imaging: the Inside Job. Nat. Methods 2009,6,465-469.   \n17.Bruckman, M.A.; Randolph,L.N.; VanMeter,A.; Hern,S.; Shoffstal, A.J.; Taurog,R.E.; Steinmetz, N.F. Biodistribution,Pharmacokinetics,and Blood Compatibility of Native and PEGylated Tobacco Mosaic Virus Nano-Rods and -   \n18. Weissleder,R.; Pittet,M.J.Imaging in the Eraof Molecular Oncology.Nature 2008,452,580-583.   \n19. Gao, X. H.; Cui,Y.Y.; Levenson,R. M.; Chung,L.W. K.; Nie, S. M. In Vivo Cancer Targeting and Imaging with SemiConductor Quantum Dots. Nat. Biotechnol. 2004，22, 969-976.   \n20.Hong,G.S.; Lee,J.C.; Robinson,J.T.; Raaz, U.; Xie,L.M.; Huang,N.F.; Cooke,J.P.; Dai,H.J.Multifunctional InVivo Vascular Imaging using Near-Infrared I Fluorescence. Nat. Med.2012,18,1841-1846.   \n21.Hong，G.S.;Robinson,J.T;Zang,YJ.;DaoS.is A. L.; Wang, $\\mathsf { Q } . \\mathsf { ; }$ Dai, H.J.In Vivo Fluorescence Imaging with ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } }$ Quantum Dots in the Second Near-Infrared Region. Angew.Chem.,Int.Ed.2012,51,9818-9821.   \n22.Chen, G.; Tian,F.; Zhang,Y.; Zhang, Y.; Li, C.;Wang,Q. Tracking of Transplanted Human Mesenchymal Stem Cells in Living Mice using Near-lnfrared ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } }$ Quantum Dots. Adv.Funct.ater.2014,24,2481-2488.   \n23.Smith,A. M.; Mancini, M.C.; Nie,S.M. Bioimaging: Second Window for In Vivo Imaging. Nat. Nanotechnol.2009,4, 710-711.   \n24.Liddington,R.C.;Yan,Y.; Moulai,J.;Sahli, R.; Benjamin,T.L; Harrison,S.C.Structure of Simian Virus 40 at 3.8-A Resolution.Nature 1991,354,278-284.   \n25.Li,F.;Li,K.;Cui,Z.Q.;Zhang,Z.P.;Wei, H.P.; Gao,D.; Deng, J.Y.; Zhang,X.E. Viral Coat Proteins as Flexible NanoBuilding-Blocks for Nanoparticle Encapsulation.Small 2010,6,2301-2308.   \n26.Li,F;Chen,H.L;Zang,Y.J.;Chen,Z;Zhang,Z.P;ang X.E.；Wang，Q.Three-Dimensional Gold Nanoparticle Clusters with Tunable Cores Templated bya Viral Protein Scaffold.Small2012,8,83238.   \n27. Li,F.; Zhang,Z.P.;Peng,J.;Cui,Z.Q.;Pang,D.W.;LiK.;Wei H.P.; Zhou,Y.F.;Wen,J.K.；Zhang,X.E.Imaging Viral Behavior in Mammalian Cells with Self-Assembled CapsidQuantum-Dot Hybrid Particles.Small2009,5,718-726.   \n28.Li,C.Y.; Zhang, Y.J.; Wang,M.; Zhang, Y.; Chen, G.C.;Li,L; Wu,D.M.;Wang，Q.in Vivo Real-Time Visualization of Tissue Blood Flow and Angiogenesis using ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } }$ Quantum Dots in the NIR-ll Window. Biomaterials 2014,35, 393-400.   \n29.Li, C.; Cao,L.; Zhang,Y.; Yi,P.; Wang,M.; Tan,B.; Deng,Z.; Wu, D.; Wang,Q. Preoperative Detectionand Intraoperative Visualization of Brain Tumors for More Precise Surgery: A New Dual-Modality MRl and NIR Nanoprobe.Small 2015,11,4517-4525.   \n30.LF:GaoD;ZhaiX;ChenY;FuT;Wu,DZang Z. P.；Zhang, XE; Wang，Q.Tunable,Discreteee Dimensional Hybrid Nanoarchitectures.Angew. Chem., Int. Ed.2011,50,4202-4205.   \n31. Tenzer,S.;Docter,D.; Kuharev,J.;usyanovych,A.;Fetz,V.; Hecht,R.;Schlenk,F.; Fischer,D.; Kiouptsi,K.; Reinhardt,C; etal.Rapid Formationof Plasma Protein Corona Critically Affects Nanoparticle Pathophysiology.Nat. Nanotechnol. 2013,8,772-781.   \n32. Dai, $\\mathsf { Q } . \\mathsf { \\Omega } ,$ Walkey,C.; Chan,W.C.Polyethylene Glycol Backfilling Mitigates the Negative Impactof the Protein Corona on_Nanoparticle_ Cell Targeting. Angew. Chem.， Int. Ed. 2014,53,5093-5096.   \n33.Calatayud,M.P.; Sanz,B.; Raffa,V.; Riggio,C.; barra,.R; Goya,G.F.The Effect of Surface Charge of Functionalized $\\mathsf { F e } _ { 3 } \\mathsf { O } _ { 4 }$ Nanoparticles on Protein Adsorption and Cell Uptake.Biomaterials2014,35,6389-6399.   \n34.Setyawati.er $\\mathsf { D } \\mathsf { ; }$ Stauber, R. H.; Leong, D.T.UnderstandingandExploitingNanoparticles' Intimacy with the Blood Vessel and Blood. Chem.Soc. Rev.2015,10.1039/C5CS00499C.   \n35.Docter,D.;Westmeier,D.;Markiewicz,M.;Stolte,S.; Knauer S. K.; Stauber, R. H.The Nanoparticle Biomolecule Corona: Lessons Learned-Challenge Accepted? Chem.Soc. Rev. 2015, 44, 6094-6121.   \n36.Gref,R;Domb，A.; QuelecP.；Bunk,T.； Mule，R.H.; Verbavatz,J.M.; Langer，R.The Controlled Intravenous Delivery of Drugs using PEG-Coated Sterically Stabilized Nanospheres.Adv.Drug Delivery Rev.1995,16,215-233.   \n37．Bertrand, N.; Wu,J.; Xu, X.Y.; Kamaly, N.; Farokhzad, O.C. Cancer Nanotechnology: the Impact of Passive and Active Targeting in the Era of Modern Cancer Biology.Adv. Drug Delivery Rev.2014,66,2-25.   \n38.Vannucci, L.; Falvo,E.; Fornara,M.; Di Micco,P.; Benada, $_ { \\mathrm { ~ \\scriptsize ~ O . ; ~ } }$ Krizan,J.; Svoboda,J.; Hulikova-Capkova, K.; Morea,V.; et al. Selective Targeting of Melanoma by PEG-Masked ProteinBased Multifunctional Nanoparticles.Int.J.Nanomed.2012, 7,1489-1509.   \n39．Wortmann，A.；Vohringer，S.；Engler，T.；Corjon，S.; Schirmbeck, R.; Reimann,J.; Kochanek, S.; Kreppel,F.Fully Detargeted Polyethylene Glycol-Coated Adenovirus Vectors are Potent Genetic Vaccines and Escape from Pre-Existing Anti-Adenovirus Antibodies.Mol.Ther.2008, 16,154-162.   \n40．Zhang,Y.J.; Liu,Y. S.; Li,C.Y.; Chen,X.Y.;Wang,Q. Controlled Synthesis of ${ \\mathsf { A g } } _ { 2 } { \\mathsf { S } }$ Quantum Dots and Experimental Determination of the Exciton Bohr Radius.J.Phys. Chem. C2014,118,4918-4923.   \n41.Du,Y.; Xu, B.; Fu,T.; Cai, M.; Li,F.; Zhang,Y.; Wang, Q.NearInfrared Photoluminescent $\\mathsf { A g } _ { 2 } \\mathsf { S }$ Quantum Dots from a Single Source Precursor.J.Am.Chem.Soc.2010，132, 1470-1471. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 8
+    }
+]

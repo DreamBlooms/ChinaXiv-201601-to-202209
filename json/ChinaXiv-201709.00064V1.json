@@ -1,0 +1,517 @@
+[
+    {
+        "type": "text",
+        "text": "Leading Isgur-Wise form factor of $\\Lambda _ { b }  \\Lambda _ { c 1 }$ transition using QCD sum rules ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ming-Qiu Huang $^ { a , b , d * }$ ， Jong-Phil Lee $^ { c \\dagger }$ , Chun Liu $d \\ddag$ , H. S. Song $^ { c \\ S }$ （20 （ $a$ CCAST， World Lab., Beijing, 100080, China （20号 $b$ Department of Applied Physics, Changsha Institute of Technology, Hunan 410o73, China （204号 $c$ School of Physics, Seoul National University， Seoul, 151-742, Korea （20 $d$ Institute of Theoretical Physics, Chinese Academy of Sciences, P.O. Box 2735, Beijing 100080, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The leading Isgur-Wise form factor $\\xi ( y )$ parametrizing the semileptonic transitions $\\Lambda _ { b } \\to \\Lambda _ { c 1 } ^ { 1 / 2 } \\ell \\bar { \\nu }$ and $\\Lambda _ { b } \\to \\Lambda _ { c 1 } ^ { 3 / 2 } \\ell \\bar { \\nu }$ is calculated by using the QCD sum rulesintheframewokofhavuarkeivethhe $\\Lambda _ { c 1 } ^ { 1 / 2 }$ and $\\Lambda _ { c 1 } ^ { 3 / 2 }$ 过 the orbitally excited charmed baryon doublet with $J ^ { P } = ( 1 ^ { - } / 2 , 3 ^ { - } / 2 )$ . The interpolating currents with transverse covariant derivative are adopted for 1/2 and $\\Lambda _ { c 1 } ^ { 3 / 2 }$ in the analysis. The slope parameter $\\rho ^ { 2 }$ in linear approximation of the Isgur-Wise function is obtained to be $\\rho ^ { 2 } = 2 . 0 1 \\$ ，and the interception to be $\\xi ( 1 ) = 0 . 2 9$ . The decay branching ratios are estimated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ground state bottom baryon $\\Lambda _ { b }$ weak decays [1] provide a testing ground for the standard model (SM). They reveal some important features of the physics of bottom quark. The experimental data on them are accumulating,and waiting for reliable theoretical calculations. The main diffculties in the SM calculations,however,are due to the poor understanding of the nonperturbative aspects of the strong interaction (QCD). The heavy quark effective theory (HQET) based on the heavy quark symmetry provides a model-independent method for analyzing heavy hadrons containing a single heavy quark [2]. It allows us to expand the physical quantity in powers of $1 / m _ { Q }$ systematically, where $m _ { Q }$ is the heavy quark mass. Within this framework, the classification of the $\\Lambda _ { b }$ exclusive weak decay form factors has been simplified greatly. The decays $\\Lambda _ { b } \\to \\Lambda _ { c } l \\bar { \\nu }$ [3]， $\\Lambda _ { b } \\to \\Sigma _ { c } ^ { ( * ) } l \\bar { \\nu }$ [4]， $\\Lambda _ { b } \\to \\Sigma _ { c } ^ { ( * ) } \\pi l \\bar { \\nu }$ [5], $\\Lambda _ { b } \\to p ( \\Lambda )$ [6] have been studied. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With the discovery of the orbitally excited charmed baryons $\\Lambda _ { c } ( 2 5 9 3 )$ and $\\Lambda _ { c } ( 2 6 2 5 )$ [7], it would be interesting to investigate the $\\Lambda _ { b }$ semileptonic decays into these baryons. From the phenomenological point of view, these semileptonic transitions are interesting, since in principle they may account for a sizeable fraction of the inclusive semileptonic rate of $\\Lambda _ { b }$ （20 decay. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The properties of excited baryons have attracted attention in recent years. Investigation on them will extend our ability in the application of QCD.It can also help us foresee other excited heavy baryons undiscovered yet. The heavy quark symmetry [2] is a useful tool to classify the hadronic spectroscopy containing a heavy quark $Q$ . In the infinite mass limit, the spin and parity of the heavy quark and that of the light degrees of fredom are separately conserved. Coupling the spin of light degrees of freedom $j _ { \\ell }$ with the spin of heavy quark （20号 $s _ { Q } = 1 / 2$ yields a doublet with total spin $J = j _ { \\ell } \\pm 1 / 2$ (or a singlet if $j _ { \\ell } = 0$ ).This classification can be applied to the $\\Lambda _ { Q }$ -type baryons. For the charmed baryons the ground state $\\Lambda _ { c }$ contains light degrees of freedom with spin-parity $j _ { \\ell } ^ { P } = 0 ^ { + }$ ， being a singlet. The excited states with $j _ { \\ell } ^ { P } = 1 ^ { - }$ are spin symmetry doublet with $J ^ { P } ( 1 ^ { - } / 2 , 3 ^ { - } / 2 )$ .The lowest states of such excited charmed states, $\\Lambda _ { c 1 } ^ { 1 / 2 }$ and $\\Lambda _ { c 1 } ^ { 3 / 2 }$ ,have been observed and are identified with $\\Lambda _ { c } ( 2 5 9 3 )$ and $\\Lambda _ { c } ( 2 6 2 5 )$ respectively [7]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The semileptonic $\\Lambda _ { b }$ decay rate to the excited charmed baryon is determined by corresponding hadronic matrix elements of the weak axial-vector and vector currents. The matrix elements of the vector and axial currents ( $V _ { \\mu } = \\bar { c } \\gamma _ { \\mu } b$ and $A _ { \\mu } = \\bar { c } \\gamma _ { \\mu } \\gamma _ { 5 } b$ ）between the $\\Lambda _ { b }$ and $\\Lambda _ { c 1 } ^ { 1 / 2 }$ αu $\\Lambda _ { c 1 } ^ { 3 / 2 }$ canbe ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { \\langle \\Lambda _ { \\mathrm { e l } } ^ { 1 / 2 } \\left( \\upsilon ^ { \\prime } , \\mathcal { S } ^ { \\prime } \\right) \\vert V _ { \\mu } \\vert \\Lambda _ { b } \\left( \\tau , s , s \\right) \\rangle } { \\sqrt { 4 M } \\Delta _ { \\mathrm { k a } } ( 1 / 2 ) \\mathcal { H } \\Delta _ { \\mathrm { b } } } = \\bar { u } _ { \\mathrm { A } \\mathrm { e l } } ( \\upsilon ^ { \\prime } , s ^ { \\prime } ) \\Bigl [ F _ { 1 } \\gamma _ { \\mu } + F _ { 2 } v _ { \\mu } + F _ { 3 } \\upsilon _ { \\mu } ^ { \\prime } \\Bigr ] \\gamma _ { 3 } \\bar { u } _ { \\mathrm { A } \\nu } ( \\upsilon , s ) \\ , } \\\\ & { \\frac { \\langle \\Lambda _ { \\mathrm { e l } } ^ { 1 / 2 } \\left( \\upsilon ^ { \\prime } , \\mathcal { S } ^ { \\prime } \\right) \\vert A _ { \\mu } \\vert \\Lambda _ { b } \\left( \\tau , s , s \\right) \\rangle } { \\sqrt { 4 M } \\Delta _ { \\mathrm { k a } } ( 1 / 2 ) \\mathcal { H } \\Delta _ { \\mathrm { b } } } = \\bar { u } _ { \\mathrm { A } \\mathrm { e l } } ( \\upsilon ^ { \\prime } , s ^ { \\prime } ) \\Bigl [ G _ { 1 } \\gamma _ { \\mu } + G _ { 2 } v _ { \\mu } + G _ { 3 } \\upsilon _ { \\mu } ^ { \\prime } \\Bigr ] u _ { \\mathrm { A } \\nu } ( \\upsilon , s ) \\ , } \\\\ & { \\frac { \\langle \\Lambda _ { \\mathrm { e l } } ^ { 3 / 2 } \\left( \\upsilon ^ { \\prime } , \\mathcal { S } ^ { \\prime } \\right) \\vert V _ { \\mu } \\vert \\Lambda _ { b } \\left( \\tau , s , s \\right) \\rangle } { \\sqrt { 4 M } \\Delta _ { \\mathrm { k a } } ( 3 / 2 ) \\mathcal { H } \\Delta _ { \\mathrm { b } } } = \\bar { u } _ { \\mathrm { A } \\mathrm { e l } } ^ { \\alpha } ( \\upsilon ^ { \\prime } , s ^ { \\prime } ) \\Bigl [ v _ { \\alpha } \\bigl ( K _ { 1 } \\gamma _ { \\mu } + K _ { 2 } v _ { \\mu } + K _ { 3 } v _ { \\mu } ^ { \\prime } \\bigr ) + K _ { 4 } g _ { \\alpha \\mu } \\Bigr ] u _ { \\bar { u } _ { b } } ( \\theta ^ { \\prime } , s ^ { \\prime } ) \\ } \\\\ &  \\frac { \\langle \\Lambda _ { \\mathrm { e l } } ^ { 3 / 2 } \\left( \\theta ^ { \\prime } , \\mathcal { S } ^ { \\prime } \\right) \\vert A _ { \\mu } \\vert \\Delta _ { b } \\left( \\tau , s \\right) \\rangle } { \\sqrt { 4 M } \\Delta _ { \\mathrm { k a } } ( 3 / 2 ) \\mathcal { H } \\Delta _ { \\mathrm { A } } } = \\bar { u } _ { \\mathrm { A } \\mathrm { e l } } ^ { \\alpha } ( \\upsilon ^ { \\prime } , s ^ { \\prime } ) \\Bigl [ v _ { \\alpha } \\bigl ( N _ { 1 } \\gamma _  \\mu  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { v } ( \\boldsymbol { v } ^ { \\prime } )$ and $s ( s ^ { \\prime } )$ are the four-velocity and spin of $\\Lambda _ { b } ( \\Lambda _ { c 1 } )$ , respectively. And the form factors $F _ { i }$ ， $G _ { i }$ ， $K _ { i }$ and $N _ { i }$ are functions of $y = v \\cdot v ^ { \\prime }$ . In the limit $m _ { Q } \\to \\infty$ , all the form factors are related to one independent universal form factor $\\xi ( y )$ called Isgur-Wise (IW） function [8]. Extensive investigation in [9] further shows that the leading $1 / m _ { Q }$ correction of the form factors at zero recoil can be calculated in a model-independent way in terms of the masses of charmed baryon states. A convenient way to evaluate hadronic matrix elements is by introducing interpolating fields in HQET developed in Ref.[10] to parametrize the matrix elements in Eqs. (1). With the aid of this method the matrix element can be written as [9] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { c } \\Gamma b = \\bar { h } _ { v ^ { \\prime } } ^ { ( c ) } \\Gamma h _ { v } ^ { ( b ) } = \\xi ( y ) v _ { \\alpha } \\bar { \\psi } _ { v ^ { \\prime } } ^ { \\alpha } \\Gamma \\psi _ { v }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "at leading order in $1 / m _ { Q }$ and $\\alpha _ { s }$ ，where $\\Gamma$ is any collection of $\\gamma$ -matrices. The ground state field, $\\psi _ { v }$ ， destroys the $\\Lambda _ { b }$ baryon with four-velocity $v$ ; the spinor field $\\psi _ { v } ^ { \\alpha }$ is given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { v } ^ { \\alpha } = \\psi _ { v } ^ { 3 / 2 \\alpha } + \\frac { 1 } { \\sqrt { 3 } } ( \\gamma ^ { \\alpha } + v ^ { \\alpha } ) \\gamma _ { 5 } \\psi _ { v } ^ { 1 / 2 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\psi _ { v } ^ { 1 / 2 }$ is the ordinary Dirac spinor and $\\psi _ { v } ^ { 3 / 2 \\alpha }$ is the spin $3 / 2$ Rarita-Schwinger spinor, they destroy $\\Lambda _ { c 1 } ^ { 1 / 2 }$ and $\\Lambda _ { c 1 } ^ { 3 / 2 }$ baryons with four-velocity $v$ , respectively. To be explicit, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { F _ { 1 } = \\displaystyle \\frac { 1 } { \\sqrt { 3 } } ( y - 1 ) ~ \\xi ( y ) ~ , ~ G _ { 1 } = \\displaystyle \\frac { 1 } { \\sqrt { 3 } } ( y + 1 ) ~ \\xi ( y ) ~ , } } \\\\ { { F _ { 2 } = G _ { 2 } = - \\displaystyle \\frac { 2 } { \\sqrt { 3 } } ~ \\xi ( y ) ~ , ~ K _ { 1 } = N _ { 1 } = \\xi ( y ) ~ , } } \\\\ { { \\mathrm { ( o t h e r s ) } = 0 ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In general, the IW form factor is a decreasing function of the four velocity transfer $y$ . Since the kinematically allowed region of $y$ for heavy to heavy transition is very narrow around unity, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 \\leq y \\leq \\frac { M _ { \\Lambda _ { b } } ^ { 2 } + M _ { \\Lambda _ { c 1 } } ^ { 2 } } { 2 M _ { \\Lambda _ { b } } M _ { \\Lambda _ { c 1 } } } \\simeq 1 . 2 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "it is convenient to approximate the IW function linearly ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi ( y ) = \\xi ( 1 ) ( 1 - \\rho ^ { 2 } ( y - 1 ) ) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho ^ { 2 }$ is the slope parameter which characterizes the shape of the IW function. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To obtain detailed predictions for the hadrons, however， some nonperturbative QCD methods are required. We adopt QCD sum rules [11] in this work. QCD sum rule is a powerful nonperturbative method based on QCD [11]. It takes into account the nontrivial QCD vacuum, parametrized by various vacuum condensates, to describe the nonperturbative nature. In QCD sum rule,hadronic observables are calculable by evaluating two- or threepoint correlation functions. The hadronic currents for constructing the correlation functions are expressed by the interpolating fields. The static properties of $\\Lambda _ { b }$ and $\\Lambda _ { c 1 }$ ( $\\Lambda _ { c 1 }$ denotes the generic $j _ { \\ell } ^ { P } = 1 ^ { - }$ charmed state) have been studied with QCD sum rules in the HQET in [12] and [13,14], respectively. The aim of this work is to calculate the leading IW function （204号 $\\xi ( y )$ using the QCD sum rules. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the next Section, the QCD sum rule calculations for $\\xi ( y )$ are given. Numerical results and discussions are in Sec. II. Summary of this work is in Sec. IV. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "II.THE QCD SUM RULE CALCULATIONS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As a starting point, consider the interpolating field of heavy baryons. The heavy baryon current is generally expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nj _ { J , P } ^ { v } ( x ) = \\epsilon _ { i j k } [ q ^ { i T } ( x ) C \\Gamma _ { J , P } \\tau q ^ { j } ( x ) ] \\Gamma _ { J , P } ^ { \\prime } h _ { v } ^ { k } ( x ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $i , \\ j , \\ k$ are the color indices, $C$ is the charge conjugation matrix, and $\\tau$ is the isospin matrix while $q ( x )$ is a light quark field. $\\Gamma _ { J , P }$ and $\\Gamma _ { J , P } ^ { \\prime }$ are some gamma matrices which describe the structure of the baryon with spin-parity $J ^ { P }$ .Usually $\\Gamma$ and $\\Gamma ^ { \\prime }$ with least number of derivatives are used in the QCD sum rule method. The sum rules then have better convergence in the high energy region and often have better stability. For the ground state heavy baryon, we use $\\Gamma _ { 1 / 2 , + } = \\gamma _ { 5 }$ ， $\\Gamma _ { 1 / 2 , + } ^ { \\prime } = 1$ .In the previous work [13],two kinds of interpolating fields are introduced to represent the excited heavy baryon. In this work, we find that only the interpolating field of transverse derivative is adequate for the analysis. Nonderivative interpolating field results in a vanishing perturbative contribution. The choice of $\\Gamma$ and $\\Gamma ^ { \\prime }$ with derivatives for the $\\Lambda _ { c 1 } ^ { 1 / 2 }$ and $\\Lambda _ { c 1 } ^ { 3 / 2 }$ is then ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Gamma _ { 1 / 2 , - } = ( a + b \\psi ) \\gamma _ { 5 } ~ , ~ \\Gamma _ { 1 / 2 , - } ^ { \\prime } = \\displaystyle \\frac { i \\overleftarrow { \\mathcal { D } } _ { t } } { M } \\gamma _ { 5 } ~ , } } \\\\ { { \\Gamma _ { 3 / 2 , - } = ( a + b \\psi ) \\gamma _ { 5 } ~ , ~ \\Gamma _ { 3 / 2 , - } ^ { \\prime } = \\displaystyle \\frac { 1 } { 3 M } ( i \\overleftarrow { \\mathcal { D } } _ { t } ^ { \\mu } + i \\overleftarrow { \\mathcal { P } } _ { t } \\gamma _ { t } ^ { \\mu } ) ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where a transverse vector $A _ { t } ^ { \\mu }$ is defined to be ${ \\cal { A } } _ { t } ^ { \\mu } \\equiv { \\cal { A } } ^ { \\mu } - v ^ { \\mu } v \\cdot { \\cal { A } }$ ，and $M$ in Eq. (8) is some hadronic mass scale. $a$ ， $b$ are arbitrary numbers between O and 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The baryonic decay constants in the HQET are defined as follows, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\langle 0 | j _ { 1 / 2 , + } ^ { v } | \\Lambda _ { b } \\rangle = f _ { \\Lambda _ { b } } \\psi _ { v } ~ , } } \\\\ { { { } } } \\\\ { { \\langle 0 | j _ { 1 / 2 , - } ^ { v } | \\Lambda _ { c 1 } ^ { 1 / 2 } \\rangle = f _ { 1 / 2 } \\psi _ { v } ^ { 1 / 2 } ~ , } } \\\\ { { { } } } \\\\ { { \\langle 0 | j _ { 3 / 2 , - } ^ { v \\mu } | \\Lambda _ { c 1 } ^ { 3 / 2 } \\rangle = \\displaystyle \\frac { 1 } { \\sqrt { 3 } } f _ { 3 / 2 } \\psi _ { v } ^ { 3 / 2 \\mu } ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { 1 / 2 }$ and $f _ { 3 / 2 }$ are equivalent since $\\Lambda _ { c 1 } ^ { 1 / 2 }$ and $\\Lambda _ { c 1 } ^ { 3 / 2 }$ belong to the same doublet with $j _ { \\ell } ^ { P } = 1 ^ { - }$ . The QCD sum rule calculations give [12] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\Lambda _ { b } } ^ { 2 } e ^ { - \\bar { \\Lambda } / T } = \\frac { 1 } { 2 0 \\pi ^ { 4 } } \\int _ { 0 } ^ { \\omega _ { c } } d \\omega \\omega ^ { 5 } e ^ { - \\omega / T } + \\frac { 1 } { 6 } \\langle \\bar { q } q \\rangle ^ { 2 } e ^ { - m _ { 0 } ^ { 2 } / 8 T ^ { 2 } } + \\frac { \\langle \\alpha _ { s } G G \\rangle } { 3 2 \\pi ^ { 3 } } T ^ { 2 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and [13] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { f _ { 1 / 2 } ^ { 2 } e ^ { - \\displaystyle \\bar { \\Lambda } ^ { \\prime } / T ^ { \\prime } } = \\int _ { 0 } ^ { \\omega _ { c } ^ { \\prime } } d \\omega \\displaystyle \\frac { 3 N _ { c } ! } { 4 \\pi ^ { 4 } \\cdot 7 ! } \\omega ^ { \\tau } ( 2 4 a ^ { 2 } + 4 0 b ^ { 2 } ) e ^ { - \\omega / T ^ { \\prime } } + \\displaystyle \\frac { \\langle \\alpha _ { s } G G \\rangle } { 3 2 \\pi ^ { 3 } } T ^ { \\prime 4 } ( - a ^ { 2 } + b ^ { 2 } ) } } \\\\ { { \\displaystyle \\quad \\quad + \\displaystyle \\frac { N _ { c } ! } { 2 \\pi ^ { 2 } } \\big [ \\langle \\bar { q } q \\rangle T ^ { \\prime 5 } ( 1 6 a b ) - \\langle \\bar { q } g \\sigma \\cdot G q \\rangle T ^ { \\prime 3 } a b \\big ] - \\displaystyle \\frac { \\langle \\bar { q } g \\sigma \\cdot G q \\rangle } { 4 \\pi ^ { 2 } } T ^ { \\prime 3 } ( 3 a b ) \\ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the above equations, $T ^ { ( \\prime ) }$ are the Borel parameters and $\\omega _ { c } ^ { ( \\prime ) }$ are the continuum thresholds, and $N _ { c } = 3$ is the color number. In the heavy quark limit, the mass parameters $\\Lambda$ and $\\Lambda ^ { \\prime }$ （204号 are defined as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { \\Lambda } ^ { \\prime } = M _ { \\Lambda _ { Q 1 } } - m _ { Q } \\ , \\bar { \\Lambda } = M _ { \\Lambda _ { Q } } - m _ { Q } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to get the QCD sum rule for the IW function, one studies the analytic properties of the three-point correlators ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Xi ^ { \\mu } ( \\omega , \\omega ^ { \\prime } , y ) = i ^ { 2 } \\displaystyle \\int d ^ { 4 } x d ^ { 4 } z ~ e ^ { i ( k ^ { \\prime } \\cdot x - k \\cdot z ) } \\langle 0 | T ~ j _ { 1 / 2 , - } ^ { v ^ { \\prime } } ( x ) ~ \\bar { h } _ { v ^ { \\prime } } ^ { ( c ) } ( 0 ) \\Gamma ^ { \\mu } h _ { v } ^ { ( b ) } ( 0 ) ~ \\bar { j } _ { 1 / 2 , + } ^ { v } ( z ) | 0 \\rangle } } \\\\ { { { } \\ = \\Xi ( \\omega , \\omega ^ { \\prime } , y ) ~ ( \\psi + y ) \\gamma _ { 5 } { \\frac { 1 + { \\psi ^ { \\prime } } } { 2 } } \\Gamma ^ { \\mu } { \\frac { 1 + { \\psi ^ { \\prime } } } { 2 } } ~ , } } \\\\ { { { } \\ ^ { \\mathrm { c } \\mu } ( \\omega , \\omega ^ { \\prime } , y ) = i ^ { 2 } \\displaystyle \\int d ^ { 4 } x d ^ { 4 } z ~ e ^ { i ( k ^ { \\prime } \\cdot x - k \\cdot z ) } \\langle 0 | T ~ j _ { 3 / 2 , - } ^ { v ^ { \\prime } \\alpha } ( x ) ~ \\bar { h } _ { v ^ { \\prime } } ^ { ( c ) } ( 0 ) \\Gamma ^ { \\mu } h _ { v } ^ { ( b ) } ( 0 ) ~ \\bar { j } _ { 1 / 2 , + } ^ { v } ( z ) | 0 \\rangle } } \\\\ { { { } \\ = \\Xi ( \\omega , \\omega ^ { \\prime } , y ) ~ [ ( - v ^ { \\alpha } + y v ^ { ' \\alpha } + { \\frac { 1 } { 3 } } ( \\gamma ^ { \\alpha } + v ^ { ' \\alpha } ) ~ ( \\psi - y ) ] ~ { \\frac { 1 + { \\psi ^ { \\prime } } } { 2 } } \\Gamma ^ { \\mu } { \\frac { 1 + { \\psi ^ { \\prime } } } { 2 } } ~ } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\Gamma ^ { \\mu } = \\gamma ^ { \\mu }$ or $\\gamma ^ { \\mu } \\gamma _ { 5 }$ . The variables $k$ ， $k ^ { \\prime }$ denote residual “off-shell” momenta which are related to the momenta $P$ of the heavy quark in the initial state and $P ^ { \\prime }$ in the final state by $k = P - m _ { Q } v$ ， $k ^ { \\prime } = P ^ { \\prime } - m _ { Q ^ { \\prime } } v ^ { \\prime }$ , respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The coefficient $\\Xi ( \\omega , \\omega ^ { \\prime } , y )$ in (13) is an analytic function in the“off-shell energies” $\\omega = v \\cdot k$ and $\\omega ^ { \\prime } = v ^ { \\prime } \\cdot k ^ { \\prime }$ with discontinuities for positive values of these variables. It furthermore depends on the velocity transfer $y = v \\cdot v ^ { \\prime }$ , which is fixed at its physical region for the process under consideration. By saturating with physical intermediate states in HQET,one finds the hadronic representation of the correlators as following ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Xi _ { \\mathrm { h a d r o n } } ( \\omega , \\omega ^ { \\prime } , y ) = \\frac { f _ { 1 / 2 } f _ { \\Lambda _ { b } } ^ { * } \\xi ( y ) } { \\sqrt { 3 } ( \\bar { \\Lambda } ^ { \\prime } - \\omega ^ { \\prime } ) ( \\bar { \\Lambda } - \\omega ) } + \\mathrm { h i g h e r ~ r e s o n a n c e s } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In obtaining above expression the Dirac and Rartia-Schwinger spinor sums ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Lambda _ { + } = \\displaystyle \\sum _ { s = 1 } ^ { 2 } u ( v , s ) \\bar { u } ( v , s ) = \\frac { 1 + \\rlap / v } { 2 } } } \\\\ { { \\Lambda _ { + } ^ { \\mu \\nu } = \\displaystyle \\sum _ { s = 1 } ^ { 4 } u ^ { \\mu } ( v , s ) \\bar { u } ^ { \\nu } ( v , s ) = ( - g _ { t } ^ { \\mu \\nu } + \\frac { 1 } { 3 } \\gamma _ { t } ^ { \\mu } \\gamma _ { t } ^ { \\nu } ) \\frac { 1 + \\rlap / v } { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "have been used, where $g _ { t } ^ { \\mu \\nu } = g ^ { \\mu \\nu } - v ^ { \\mu } v ^ { \\nu }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the quark-gluon language, $\\Xi ( \\omega , \\omega ^ { \\prime } , y )$ in Eq. (13) is written as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Xi ( \\omega , \\omega ^ { \\prime } , y ) = \\int _ { 0 } ^ { \\infty } d \\nu d \\nu ^ { \\prime } { \\frac { \\rho ^ { \\mathrm { p e r t } } ( \\nu , \\nu ^ { \\prime } , y ) } { ( \\nu - \\omega ) ( \\nu ^ { \\prime } - \\omega ^ { \\prime } ) } } + ( \\mathrm { s u b t r a c t i o n } ) + \\Xi ^ { \\mathrm { c o n d } } ( \\omega , \\omega ^ { \\prime } , y ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where the perturbative spectral density function $\\rho ^ { \\mathrm { p e r t } } ( \\nu , \\nu ^ { \\prime } , y )$ and the condensate contribution $\\Xi ^ { \\mathrm { c o n d } }$ are related to the calculation of the Feynman diagrams depicted in Fig. 1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The QCD sum rule is obtained by equating the phenomenological and theoretical expressions for $\\Xi$ . In doing this the quark-hadron duality needs to be assumed to model the contributions of higher resonance part of Eq. (14). Generally speaking, the duality is to simulate the resonance contribution by the perturbative part above some thresholds $\\omega _ { c }$ and （202 $\\omega _ { c } ^ { \\prime }$ ,that is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { r e s . } = \\int _ { \\omega _ { c } } ^ { \\infty } \\int _ { \\omega _ { c } ^ { \\prime } } ^ { \\infty } d \\nu d \\nu ^ { \\prime } { \\frac { \\rho ^ { \\mathrm { p e r t } } ( \\nu , \\nu ^ { \\prime } , y ) } { ( \\nu - \\omega ) ( \\nu ^ { \\prime } - \\omega ^ { \\prime } ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the QCD sum rule analysis for $B$ semileptonic decays into ground state $\\boldsymbol { D }$ mesons，it was argued by Neubert in [15],and Blok and Shifman in [16] that the perturbative and the hadronic spectral densities can not be locally dual to each other, the necessary way to restore duality is to integrate the spectral densities over the “of-diagonal” variable $\\begin{array} { r } { \\nu _ { - } = \\sqrt { \\frac { y + 1 } { y - 1 } } ( \\nu - } \\end{array}$ （204号 $\\nu ^ { \\prime } ) / 2$ , keeping the “diagonal” variable $\\nu _ { + } = ( \\nu { + } \\nu ^ { \\prime } ) / 2$ fixed. It is in $\\nu _ { + }$ that the quark-hadron duality is assumed for the integrated spectral densities. The same prescription shall be adopted in the following analysis. On the other hand, in order to suppress the contributions of higher resonance states a double Borel transformation in $\\omega$ and $\\omega ^ { \\prime }$ is performed to both sides of the sum rule, which introduces two Borel parameters $T _ { 1 }$ and $T _ { 2 }$ . For simplicity we shall take the two Borel parameters equal: $T _ { 1 } = T _ { 2 } = 2 T$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Combining Eqs. (14), (16), our duality assumption and making the double Borel transformation, one obtains the sum rule for $\\xi ( y )$ as follows ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { f _ { 1 / 2 } f _ { \\Lambda _ { b } } ^ { * } \\xi ( y ) } { \\sqrt { 3 } } e ^ { - ( \\bar { \\Lambda } ^ { \\prime } + \\bar { \\Lambda } ) / 2 T } = 2 \\left( \\frac { y - 1 } { y + 1 } \\right) ^ { 1 / 2 } \\int _ { 0 } ^ { \\omega _ { c } ( y ) } d \\nu _ { + } e ^ { - \\nu _ { + } / T } \\int _ { - \\nu _ { + } } ^ { \\nu _ { + } } d \\nu _ { - } \\rho ( \\nu _ { + } , \\nu _ { - } ; y ) + f _ { \\mathrm { ( f ) } } ^ { * } d \\nu _ { - } e ^ { - \\nu _ { + } / T } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { \\nu = \\nu _ { + } + \\sqrt { \\frac { y - 1 } { y + 1 } } \\nu _ { - } } \\end{array}$ y+iV_,v' =V+ y+iv_ y-1 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Confining us to the leading order of perturbation and the operators with dimension $D \\leq 6$ in OPE, the spectral density $\\rho ^ { \\mathrm { p e r t } } ( \\nu , \\nu ^ { \\prime } ; y )$ and $\\hat { B } _ { 2 T } ^ { \\omega ^ { \\prime } } \\hat { B } _ { 2 T } ^ { \\omega } \\Xi ^ { \\mathrm { c o n d } }$ are ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle { \\rho ( \\nu , \\nu ^ { \\prime } ; y ) = \\frac { 3 6 a } { \\pi ^ { 4 } } \\frac { 1 } { 2 ! 3 ! } \\bigg ( \\frac { 1 } { 2 \\sqrt { y ^ { 2 } - 1 } } \\bigg ) ^ { \\tau } } } } \\\\ { { \\displaystyle { \\times \\left[ A ( \\nu , \\nu ^ { \\prime } ; y ) ^ { 3 } B ( \\nu , \\nu ^ { \\prime } ; y ) ^ { 2 } - A ( \\nu , \\nu ^ { \\prime } ; y ) ^ { 2 } B ( \\nu , \\nu ^ { \\prime } ; y ) ^ { 3 } \\right] } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\hat { B } _ { 2 T } ^ { \\omega ^ { \\prime } } \\hat { B } _ { 2 T } ^ { \\omega } \\Xi _ { ( k ) } = 0 \\ , } } \\\\ { { \\displaystyle \\hat { B } _ { 2 T } ^ { \\omega ^ { \\prime } } \\hat { B } _ { 2 T } ^ { \\omega } \\Xi _ { ( d ) } = - \\frac { b } { 4 8 \\pi ^ { 2 } } \\langle \\bar { q } g \\sigma \\cdot G q \\rangle ( 2 T ) ^ { 2 } \\frac { 2 y + 1 } { ( 1 + y ) ^ { 2 } } \\ , } } \\\\ { { \\displaystyle \\hat { B } _ { 2 T } ^ { \\omega ^ { \\prime } } \\hat { B } _ { 2 T } ^ { \\omega } \\{ \\Xi _ { ( c ) } + \\Xi _ { ( e ) } \\} = \\frac { b } { 2 \\pi ^ { 2 } } \\frac { 1 } { ( 1 + y ) ^ { 2 } } \\biggl [ 2 \\langle \\bar { q } q \\rangle ( 2 T ) ^ { 4 } - \\langle \\bar { q } g \\sigma \\cdot G q \\rangle ( 2 T ) ^ { 2 } \\frac { 4 y + 5 } { 4 8 } \\frac { 1 - 2 \\omega } { ( 1 + y ) ^ { 2 } } \\frac { b } { ( 2 + y ) ^ { 2 } } \\biggr ] \\ , } } \\\\ { { \\displaystyle \\hat { B } _ { 2 T } ^ { \\omega ^ { \\prime } } \\hat { B } _ { 2 T } ^ { \\omega } \\{ \\Xi _ { ( f ) } + \\Xi _ { ( g ) } + \\Xi _ { ( h ) } \\} = - \\frac { a } { 1 9 2 \\pi ^ { 3 } } \\langle \\alpha _ { s } G G \\mathcal { G } \\rangle T ^ { 3 } \\frac { - 2 0 y + 6 7 } { ( 1 + y ) ^ { 3 } } \\ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { A ( \\nu , \\nu ^ { \\prime } ; y ) = \\left( \\nu _ { + } - \\sqrt { \\frac { y - 1 } { y + 1 } } \\nu _ { - } \\right) e ^ { \\theta } - \\left( \\nu _ { + } + \\sqrt { \\frac { y - 1 } { y + 1 } } \\nu _ { - } \\right) , } } \\\\ { { B ( \\nu , \\nu ^ { \\prime } ; y ) = \\left( \\nu _ { + } + \\sqrt { \\frac { y - 1 } { y + 1 } } \\nu _ { - } \\right) - \\left( \\nu _ { + } - \\sqrt { \\frac { y - 1 } { y + 1 } } \\nu _ { - } \\right) e ^ { - \\theta } , } } \\\\ { { \\sinh { \\theta } = \\sqrt { y ^ { 2 } - 1 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Here the dimensionful parameter $M$ in Eq. (8) is dropped since it cancels out in (18). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "III.RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For the numerical analysis, the standard values of the condensates are used; ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\langle \\bar { q } q \\rangle = - ( 0 . 2 3 ~ \\mathrm { G e V } ) ^ { 3 } ~ , } } \\\\ { { \\langle \\alpha G G \\rangle = 0 . 0 4 ~ \\mathrm { G e V } ^ { 4 } ~ , } } \\\\ { { \\langle \\bar { q } g \\sigma \\cdot G q \\rangle \\equiv m _ { 0 } ^ { 2 } \\langle \\bar { q } q \\rangle ~ , ~ m _ { 0 } ^ { 2 } = 0 . 8 ~ \\mathrm { G e V } ^ { 2 } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In dealing with the variables,some remarks should be noticed. First,the continuum threshold $\\omega _ { c } ^ { \\prime }$ in $f _ { \\frac { 1 } { 2 } ( \\frac { 3 } { 2 } ) }$ (Λ) can differ from that in $f _ { \\Lambda _ { b } }$ ( $\\Lambda$ ). However,it is expected that the values of $\\omega _ { c }$ and $\\omega _ { c } ^ { \\prime }$ have no significant difference. This is because the mass difference $\\Lambda ^ { \\prime } - \\Lambda$ is not large [13], $\\Lambda ^ { \\prime } { - } \\Lambda \\simeq 0 . 2$ GeV. Indeed the central values of them were close to each other in the sum rules analysis for $f _ { \\frac { 1 } { 2 } \\left( \\frac { 3 } { 2 } \\right) } \\ \\left( \\bar { \\Lambda } ^ { \\prime } \\right)$ and $f _ { \\Lambda _ { b } }$ ( $\\Lambda$ ). In addtion, the continuum threshold $\\omega _ { c } ( y )$ in Eq. (18) in general can be a function of $y$ . We take it to be a constant $\\omega _ { c } ( y ) = \\omega _ { c } = \\omega _ { c } ^ { \\prime } = \\omega _ { 0 }$ （204号 in the numerical analysis. In this sense,we use only one continuum threshold throughout the analysis. Second, there are input parameters of $a$ and $b$ in the interpolating fields (8). In [13], the choice of $( a , b ) = ( 1 , 0 )$ shows the best stability for the mass parameter $\\Lambda ^ { \\prime }$ .We adopt the same set of $( a , b ) = ( 1 , 0 )$ in this analysis. Third, there are two Borel parameters （204号 $T _ { 1 }$ and $T _ { 2 }$ in general, corresponding to $\\omega$ and $\\omega ^ { \\prime }$ in $\\Xi ( \\omega , \\omega ^ { \\prime } , y )$ , respectively. We have taken （204号 $T _ { 1 } = T _ { 2 } ^ { \\prime }$ in the analysis. In [17] for $B$ into excited charmed meson transition, the authors got a $1 0 \\%$ increase of the leading IW function at zero recoil when $T _ { 2 } / T _ { 1 } = 1 . 5$ compared to the value when $T _ { 1 } = T _ { 2 }$ . It seems quite reasonable to expect that in the heavy baryon case, the numerical results are similar for small variations around $T _ { 2 } / T _ { 1 } = 1$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The leading IW function $\\xi ( y )$ is plotted in Figs. 2,3. In Fig. 2, we give a three-dimensional plot of $\\xi = \\xi ( y , T )$ . The best stability is shown within the sum rule window, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 1 6 \\leq T \\leq 0 . 6 \\ \\mathrm { ( G e V ) } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The upper and lower bounds are fixed such that the condensate contribution amounts to at most 30% while the pole contribution to $5 0 \\%$ . Note that this range has overlaps with the sum rule windows in [13] and [12]. This reflects the self-consistence of the sum rule analysis. In Fig. 3, the band corresponds to the variation of $\\xi ( y )$ from $\\omega _ { 0 } = 1 . 2$ to $\\omega _ { 0 } = 1 . 6$ GeV. In addition,we have found that there is almost no numerical difference if the threshold $\\omega _ { c } ( y )$ is instead taken to be $( 1 + y ) \\omega _ { 0 } / 2 y$ which was suggested in [15]. This is because the allowed kinematical region is very narrow around $y \\simeq 1$ . At zero recoil, $\\xi ( 1 )$ is ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi ( 1 ) = 0 . 2 9 _ { - 0 . 0 3 5 } ^ { + 0 . 0 3 8 } , \\quad \\mathrm { f o r } \\quad \\omega _ { 0 } = 1 . 4 \\pm 0 . 1 \\mathrm { G e V } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "and the slope parameter $\\rho ^ { 2 }$ in (6) for different $\\omega _ { 0 }$ is ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho ^ { 2 } = 2 . 0 1 _ { - 0 . 0 0 5 } ^ { + 0 . 0 0 3 } \\ , \\quad \\mathrm { f o r } \\quad \\omega _ { 0 } = 1 . 4 \\pm 0 . 1 \\ \\mathrm { G e V } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This value is somewhat larger than the large $N _ { c }$ HQET prediction in [9] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "IV.SUMMARY ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For the weak decays of the $\\Lambda _ { b }$ baryon to the excited charmed baryons $\\Lambda _ { c 1 } ^ { 1 / 2 , 3 / 2 }$ by using QCD sum rules, we have obtained the information of the leading IW function which has been defined in Eqs. (1) and (4)，within the framework of HQET, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi ( y ) = 0 . 2 9 [ 1 - 2 . 0 1 ( y - 1 ) ] ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The sum rule uncertainty of $\\xi ( y )$ can be found in Eqs. (23) and (24). Compared to the result of the large $N _ { c }$ HQET [9], the main difference here lies in the value of $\\xi ( 1 )$ .The branching ratios are therefore estimated to be smaller than those given in [9], ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { B r } . ( \\Lambda _ { b } \\to \\Lambda _ { c 1 } ^ { 1 / 2 , 3 / 2 } e \\bar { \\nu } _ { e } ) \\simeq 0 . 2 1 - 0 . 2 8 \\% .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The future experiments will check this prediction. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank I. W. Stewart for helpful communication. This work was supported in part by the BK2l program of Korea, and the National Natural Science Foundation of China. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] D. E. Groom et al. (Particle Data Group), Eur.Phys. J C 15,1 (2000).   \n[2] N. Isgur and M. B. Wise, Phys. Lett.B 232,113 (1989); ibid. 237, 527 (1990); E. V. Shuryak, ibid.93B,134 (1980); H. Georgi, ibid. B 240, 447 (1990); E. Eichten and B. Hill, ibid. B 234, 511 (1990); M. B. Voloshin and M. A. Shifman, Yad. Fiz. 45, 463 (1987); ibid. 47, 801 (1988); S. Nussinov and W. Wetzel, Phys. Rev. D 36, 130 (1987); A. F. Falk, H. Georgi, B. Grinstein and M. B. Wise, Nucl. Phys. B 343,1(1990).   \n[3] N. Isgur and M. B. Wise, Nucl. Phys. B 348, 276 (1991); H. Georgi, ibid., 293 (1991); J.-P. Lee, C. Liu, and H. S. Song, Phys. Rev. D 58, 014013 (1998).   \n[4] T. Mannel, W. Roberts, and Z. Ryzak, Phys. Lett.B 271, 421 (1991); Y.-B. Dai, X.-H. Guo, and C.-S. Huang, Nucl. Phys. B 421, 277 (1994).   \n[5] P. Cho, Phys. Lett. B 285,145 (1992); J.-P. Lee, C. Liu, and H.S. Song, Phys. Rev. D 61, 014006 (1999).   \n[6] C.-S. Huang, C.-F. Qiao, and H.-G. Yan, Phys. Lett. B 437, 403 (1998); C.-S. Huang and H.-G. Yan, Phys. Rev. D 59, 114022 (1999).   \n[7] H. Albrecht et al. (ARGUS Collaboration), Phys. Lett. B 317, 227 (1993); P.L. Frabetti et al. (E687 Collaboration)， Phys. Rev. Lett. 72, 961 (1994)； K. W. Edwards et al. (CLEO Collaboration), Phys. Rev. Lett. 74, 3331 (1995); J.P. Alexander et al.(CLEO Collaboration), Phys. Rev. Lett. 83, 3390 (1999).   \n[8] S. Y. Choi, T. Lee, and H. S. Song, Phys. Rev. D 40, 2477 (1989); N. Isgur, M. B. Wise,and M. Youssefmir, Phys. Lett. B 254, 215 (1991); W. Roberts, Nucl. Phys. B 389, 549 (1993).   \n[9] A. K. Leibovich and I.W. Stewart, Phys. Rev. D 57, 5620 (1998).   \n[10] A. F. Falk, Nucl. Phys. B378, 79 (1992).   \n[11] M. Shifman, A. Vainshtein and V. Zakharov, Nucl. Phys. B147,385, 488, 519 (1979).   \n[12] A. G. Grozin and O. I. Zakovlev, Phys. Lett. B 285, 254 (1992); E. V. Shuryak, Nucl. Phys. B 198, 83 (1982); B. Bagan, M. Chabab, H. G. Dosch,and S. Narison, Phys. Lett. B 301, 243 (1993); Y.-B. Dai, C.-S. Huang, C. Liu,and C.-D. Lü, Phys. Lett. B 371, 99 (1996); Y.-B. Dai, C.-S. Huang, M.-Q. Huang, and C. Liu, ibid.387, 379 (1996); S. Groote, J. G. Korner, and O. I. Yakovlev, Phys. Rev. D 55,3016 (1997); D 56, 3943 (1997).   \n[13] J.-P. Lee, C. Liu, and H. S. Song, Phys. Lett. B 476 303 (2000).   \n[14] S.-L. Zhu, Phys. Rev. D 61, 114019 (2000); C.-S. Huang, A. Zhang and S.-L. Zhu, hep-ph/0007330, to appear in Phys. Lett. B.   \n[15] M. Neubert, Phys. Rev. D 45, 2451 (1992).   \n[16] B. Blok and M. Shifman, Phys. Rev. D47 2949 (1993).   \n[17] M.-Q. Huang and Y.-B. Dai, Phys. Rev. D 59, 034018 (1999). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FIGURE CAPTIONS ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1   \nFeynman diagrams for the three-point function with derivative interpolating fields. Double line denotes the heavy quark. Fig. 2   \nThree-dimensional plot of IW function for $1 \\leq y \\leq 1 . 2$ and $0 \\leq T \\leq 1$ (GeV). The continuum threshold is chosen to be $\\omega _ { c } ( y ) = 1 . 4$ GeV. Fig. 3   \nIW function as a function of $y$ for various $\\omega _ { 0 }$ at fixed $\\mathit { \\Delta } T ^ { \\prime } = \\ 0 . 3 8$ GeV. The lowest line corresponds to $\\omega _ { 0 } = 1 . 2$ GeV while the highest to $\\omega _ { 0 } = 1 . 6$ GeV,with the increment 0.1 GeV. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "FIGURES ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/58e12e9dc534a0bd275fb35935b7a76e8a8b88a2eeefd98f9ed35ed50aea829a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/1da26199bf5c6863a5ea96b45699a92b26b7dac89af5f88d3610d4c107c5e61d.jpg",
+        "img_caption": [
+            "FIG. 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2981bf0efc2fe35f34d45d0436095814af47f99477dd2933e893f4901a24e3b.jpg",
+        "img_caption": [
+            "FIG. 2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/3be4cdf84327fa907275ea66d2d8098c646243d328811c56daff6cc3f8c0a1d3.jpg",
+        "img_caption": [
+            "FIG. 3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    }
+]

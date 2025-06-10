@@ -1,0 +1,538 @@
+[
+    {
+        "type": "text",
+        "text": "2003—2019年新疆气溶胶光学厚度时空变化特征 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "于志翔1²，李　霞¹，于晓晶34，郑宇§，毛列尼·阿依提看'，李淑婷1，王　楠}(1.中国气象局乌鲁木齐沙漠气象研究所,新疆 乌鲁木齐830002；2.乌鲁木齐气象卫星地面站,新疆 乌鲁木齐830011；3.中国科学院大气物理研究所大气科学与地球流体力学数值模拟国家重点实验室,北京100029;4.中国科学院大学,北京100049；5.中国气象科学院大气成分和环境气象研究所，北京100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于2003—2019年MODIS Aqua AerosolL2反演的新疆大气气溶胶光学厚度(Aerosolopt-ical depth,AOD)产品,选取中国气象局大气气溶胶光学特性观测网（Chinese aerosol optical propertynetwork,CAOPNET)乌鲁木齐地面观测站点CE-318太阳光度计观测数据与MODIS AOD数据进行对比验证，通过Spearman秩相关检验,研究近17a新疆AOD的年均值变化，并提取14个AOD高值区，以分析其逐年线性变化趋势，最后得到近17a新疆AOD的时空变化特征。结果表明：(1)MO-DIS AOD与CAOPNETAOD两者具有良好的相关性,相关系数(r)为0.6381,符合期望误差(Expect-ed error,EE)的数据占 $6 5 \\%$ ,MODISAOD产品与CAOPNETAOD数据对比表明，MODISAOD产品在新疆反演精度较高。(2)2003—2019年新疆A0D分布地域差异明显，南疆地区均值明显高于北疆地区。第一高值区位于南疆塔里木盆地，其边缘地带年均值超过0.6,第二高值区位于天山北坡经济带,年均值超过0.3。2003—2019年，新疆除石河子和乌昌地区A0D呈现显著上升以外，大部分地区AOD年变化趋势不明显。（3)2003—2019年新疆四季A0D差异非常显著，总体表现为春季>夏季 $>$ 冬季 $>$ 秋季。南疆地区四季AOD均值变化比北疆地区大。(4）新疆AOD月均值范围为0.11\\~0.51,整体呈1—4月逐月增加,5—12月逐月下降的“单峰型”变化特征，4月A0D月均值达到峰值，12月AOD月均值最小。本研究结果可为新疆大气环境治理和未来污染防治提供一定的科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：MODIS；气溶胶光学厚度；太阳光度计；分布特征；变化趋势",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "气溶胶是指悬浮在大气中直径在0.001\\~100$\\mu \\mathrm { m }$ 之间的液态或固态的微小粒子[]。气溶胶的直接来源可分为自然源和人为源，影响气溶胶变化的因素也可分为自然因素和社会因素。自然因素主要有自然排放(沙尘、海盐、矿石灰、火山灰等)和气象因素(气温、降水量、湿度等），社会因素则包括人口密度、经济发展及汽车尾气排放、化石燃料燃烧、垃圾和秸秆焚烧等人类活动[2]。作为大气的重要组成部分，气溶胶对太阳辐射的多次吸收和散射改变了地面接收的太阳辐射能量[3],同时气溶胶作为云的凝结核，改变了云的辐射特征和变化周期，进一步间接地影响区域气候[4]。开展全球及区域尺度气溶胶分布特征研究对深入理解气溶胶在生态环境[5]、气候变化[、空气质量和人体健康[7]、细颗粒物与能见度[8等方面的作用都具有重要意义。气溶胶光学厚度(Aerosoloptical depth,AOD)是气溶胶基本光学特征的基本参数之一，其为气溶胶的消光系数在垂直方向上的积分。AOD可以计算气溶胶含量、确定气溶胶的尺度、评估气溶胶气候效应，在一定程度上反映了区域大气的污染程度和污染类型[-]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AOD是气溶胶数据中覆盖范围最广且较为准确的一种数据，目前获取AOD数据资料包括地基观测和卫星遥感2种手段。地基观测值精度较高，但在时间和空间上连续性较差。与地基观测相比，卫星遥感具有连续性好、观测覆盖范围广等优势。近年来，关于研究AOD时空分布方面，国内学者做了大量研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从全国范围来看，AOD分布具有明显的地区差异，总体是东部 $\\mathrm { \\dot { > } }$ 西部，北部 $\\mathrm { \\dot { > } }$ 南部；全国绝大部分地区春季AOD值最大、最小值则各地不同[12]。1979—1990年青藏高原、四川盆地西部、贵州北部、长江中下游大部分地区、山东半岛和南疆盆地西部等AOD呈增长趋势。而东北地区、西北地区大部、云贵高原和广西西部以及华东沿海等地AOD呈减小势态[13]2000一2015年除南疆盆地外，中国AOD高值中心主要在胡焕庸线的东南一侧,其中高值中心主要位于四川盆地、华中地区、长江三角洲、华北平原、关中平原，珠江三角洲地区也有小范围的高值区；全国春、夏两季AOD的均值明显高于秋、冬两季[14]。2007一2017年全国气溶胶空间变化呈现出减少的特征，没有AOD显著增加的区域,AOD显著减少的区域主要分布在长江以南的地区。这可能与上述地区在近10a内节能减排工作推行较好有关[15]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从不同区域来看，中国东部地区气溶胶主要来源与人类活动密切相关，AOD高值分布区都集中于工业发达、人口密集、经济迅速发展的地区[16-17]。京津冀地区AOD空间分布大体上呈南高北低的格局;AOD月平均值从2月逐渐增长，到6月达到最高，然后逐渐降低。春季受北方沙尘天气外来输送的影响最大，夏季则主要受本地人为排放源的制约[18]2006—2017年四川盆地A0D四季中春季最大，夏季次之，秋季最小的特征；春季主要受北方沙尘天气外来输送的影响，夏季与气温有关，秋、冬季主要受人为排放源的影响，还与降水因素有关。同时盆地静风率高，气溶胶水平扩散条件差；空间上表现为中部低海拔城市AOD值较高，盆地中部向四周高山区域递减。多年来盆地中部AOD呈“倒N型\"曲线下降,盆地四周无明显时序变化[15.19]。广东地区春季AOD值最高，夏季、秋季次之，冬季最低。冬季是生产淡季，人类活动排放减少，且冷空气南下利于污染物扩散；2003—2016年广东省年均AOD呈现波动式下降趋势[20]。由此可见,中国幅员辽阔,各地自然环境和社会经济发展水平差异很大，不同地区、不同季节、不同阶段AOD的时空分布特征会随着社会经济、气象要素、地形因素、污染治理等而发生变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆地处干旱半干旱地区，地形和下垫面复杂，降水稀少，天山南北分别分布着塔克拉玛干沙漠和古尔班通古特沙漠，广袤的沙漠、戈壁是天然的沙尘排放源区，因此颗粒物污染严重[21-22]。同时，“三山夹两盆\"地形导致冬季容易形成逆温,阻碍了中高层大气与盆地边低层气流的交换，严重阻碍了污染物的扩散[23-25],致使冬季人为活动排放的颗粒物浓度严重超标,北疆城市尤为突出[21-22]。2018年环境状况公报2显示，若不扣除沙尘影响，全国338个城市中，环境空气质量达标城市比例为 $3 3 . 7 \\%$ ，超标城市比例为 $6 6 . 3 \\%$ · $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 平均浓度分别为$4 1 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 和 $7 8 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ ;新疆有9座城市空气质量综合指数排名在 $3 0 1 { \\sim } 3 3 8$ 之间。2018年新疆环境状况公报27则显示：全疆19个城市中只有4座城市空气质量达标，占比 $2 1 . 1 \\%$ ,超标城市比例为 $78 . 9 \\%$ ；全疆$\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 平均浓度分别为 $5 4 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 3 }$ 和 $1 4 7 \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ ，可见无论是颗粒物浓度还是超标率新疆都远高于全国平均水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前新疆仅有19个国控级大气环境监测站，远远无法全面揭示新疆大气污染物分布特征的全貌。针对新疆区域尺度范围AOD变化研究严重缺乏，在实施《新疆“三线一单\"生态环境分区管控方案》的过程中，编制大气环境未来管控方案时遭遇到了瓶颈问题。与此同时，基于西北地区的全球自动观测网（AErosolROboticNETwork,AERONET)地基观测数据对MODISAOD融合产品的验证结果表明：MODISAOD融合产品在西北地区的覆盖度良好，数据精度高，可作为研究区域性气溶胶光学特征变化的基础数据[28-29]；最新一代的MODIS C6.1AOD在全球范围内都优于C6 AOD数据[30-31]。此外,研究揭示在干旱、半干旱区AOD与地面监测站$\\mathrm { P M } _ { 2 . 5 }$ 浓度、 $\\mathrm { P M } _ { 1 0 }$ 浓度或空气质量指数的相关性良好[32-34]。因此,本文将采用 2003—2019年MODISC6.1AOD融合数据开展新疆气溶胶长时间序列时空分布特征研究。这不仅有助于提高对新疆大气环境的全面了解，且对于大气环境的变迁和未来污染防治对策都可以提供一定的科学依据",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆位于亚欧大陆中部，地处我国西北边陲，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "是中国陆地面积最大的省级行政区，面积 $1 6 6 \\times 1 0 ^ { 4 }$ $ { \\mathrm { k m } } ^ { 2 }$ ，占中国陆地国土总面积的1/6。新疆的地形地貌可简单概括为“三山夹两盆\"的地理特征(图1)：最北端是阿尔泰山，南端昆仑山，中部天山山脉横贯新疆，将新疆分为南疆、北疆两大区域。位于北疆的准噶尔盆地面积约为 $3 8 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ，是中国第二大盆地，盆地中部是古尔班通古特沙漠;位于南疆的塔里木盆地面积约 $5 2 . 3 4 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ,是中国最大的内陆盆地，盆地中部是中国最大、世界第二大流动沙漠——塔克拉玛干沙漠。沙尘就成为南疆的主导气溶胶类型，对区域气候变化和人类生产生活产生重要影响[35]。新疆绿洲主要分布于盆地边缘和干旱河谷平原区，绿洲总面积为 $1 4 . 3 { \\times } 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 }$ ，占新疆国土总面积的 $8 . 7 \\%$ 。全疆降水少且分布不均匀，北疆在 $1 5 0 { \\sim } 2 0 0 ~ \\mathrm { m m }$ 以上，南疆不足 $1 0 0 \\mathrm { m m }$ ,属典型的温带大陆性干旱荒漠气候。降水北疆多于南疆，西部多于东部，山地多于平原，盆地边缘多于盆地中心,迎风坡多于背风坡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2019)3333号的标准地图制作，底图边界无修改。下同。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4927c6cb02f4df6e4cc782c029e63dca294387b72f72ba65c162ef7c57d3629d.jpg",
+        "img_caption": [
+            "图1新疆地形和行政区划分布",
+            "Fig.1 Distributions of topography and administrative regions in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新疆全区辖有14个地级行政单位，其中包括5个自治州（伊犁哈萨克自治州、博尔塔拉蒙古自治州、昌吉回族自治州、巴音郭楞蒙古自治州、克孜勒苏柯尔克孜自治州）、5个地区(阿勒泰地区、塔城地区、阿克苏地区、喀什地区、和田地区)和4个地级市(乌鲁木齐市、克拉玛依市、吐鲁番市、哈密市)。国家在新疆重点打造的区域性城市群一一乌昌石城市群(具体包括乌鲁木齐市、昌吉市、石河子市、阜康市、五家渠市及呼图壁县、玛纳斯县和沙湾县5市3县)位于天山北坡、准噶尔盆地南缘，是新疆经济最为发达的地区。该区域面积仅为 $6 . 3 8 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，占新疆总面积的 $3 . 8 \\%$ ,却聚集了新疆 $4 0 \\%$ 以上的城镇人口，创造了约占全疆2/5的生产总值。由于人为活动密度大，因此气溶胶分布较其他地区更为复杂多样[36]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "美国国家航空航天局发布的MODISAquaAerosol5-MinL2Swath产品反演精度较高，被广泛应用于研究中。赵仕伟等[28]利用MODISAOD产品与AERONET太阳光度计站点数据进行对比验证，确认了MODISAOD融合产品在西北地区的实用性;吴序鹏等3基于塔克拉玛干沙漠地区地基太阳光度计数据验证了MODIS产品在我国沙漠地区的AOD反演精度最高。L2产品为每日气溶胶数据集，该产品提供了深蓝算法(Deepblue,DB）、暗像元算法(Darktarget,DT)和融合算法(Combined)3种数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DT算法是Kaufman等[38]在利用大量数据的基础上提出的AOD反演算法，该算法是建立在浓密植被像元、暗目标红蓝波段发射率较低，并与红外波段反射率之间存在相关关系的理论基础上，将中红外通道表观反射率近似看做此通道的地表反射率，进而得到红蓝波段的地表反射率，根据选择气溶胶模型的查找表反演AOD。该算法对植被覆盖率高地表反照率较低地区的AOD数据反演效果好，但无法获取沙漠、戈壁等地表反照率较高地区的AOD数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DB算法是假设蓝波段在亮目标地区地表反射率远低于其他波段地表反射率，根据历史的地表反射率产品建立蓝波段地表反射率库，进而反演亮目标地区AOD，DB算法解决了DT算法的不足，可以很好的反演地表反照率较高地区的AOD数据，且可以反演暗地表的AOD数据[39]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与DB和DT相比，融合算法基于归一化植被指数（Normalized difference vegetation index,NDVI）数据，结合DB与DT算法的优点，将地表类型分为3类，对于每个像元，当 $\\mathrm { N D V I } { < } 0 . 2$ 时，采用DB算法所得结果；当 $\\mathrm { N D V I } { > } 0 . 3$ 时，采用DT算法所得结果；当$0 . 2 { \\leqslant } \\mathrm { N D V I } { \\leqslant } 0 . 3$ 时,采用质量保证（Quality assurance,QA)值大的反演算法所得结果，当二者的QA值一样大时，采用DB、DT算法所得结果的均值[40]。融合算法可最大限度的提高复杂地表类型情况的AOD数据覆盖率和准确度[41-42]。因此,本文选取MODIS融合算法的AOD数据，版本为C6.1，波段为 $5 5 0 \\mathrm { n m }$ ，时间序列为2003年1月—2019年12月，空间分辨率为$0 . 1 ^ { \\circ } \\times 0 . 1 ^ { \\circ }$ 。对L2产品进行几何校正、拼接、裁剪等批量处理，得到AOD日均格点数据，进而计算分析。四季划分如下：3—5月为春季，6—8月为夏季，9—11月为秋季，12月一次年2月为冬季。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Spearman秩次相关检验法本文使用Spear-man秩次相关检验法进行时间序列变化趋势分析及其显著性检验，Spearman 秩次相关检验法，是将AOD序列 $x _ { 1 } , x _ { 2 } , . . . , x _ { n }$ ，按由大到小的顺序排列，将 $x _ { i }$ 用其秩次 $R _ { i }$ 表示，则秩次相关系数 $( r )$ 如公式(1)所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = 1 - \\frac { 6 \\displaystyle \\sum _ { i = 1 } ^ { n } d _ { i } ^ { 2 } } { n ( n ^ { 2 } - 1 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 为样本容量， $n { = } 1 7$ $d _ { i }$ 为秩次之差， $\\scriptstyle d _ { i } = R _ { i } - i$ 。根据Spearman秩次相关系数界值表查阅可知，当 $n { = }$ 17时，在显著性水平 $\\scriptstyle \\alpha = 0 . 0 5$ 情况下，界值 $\\mathbf { r s } _ { 0 . 0 5 } \\mathbf { = }$ 0.485，当 $| r | > \\mathrm { r s } _ { 0 . 0 5 }$ 时，呈显著性趋势变化，反之则为不显著性趋势变化；当 $r { > } 0$ ,呈上升趋势，当 $r { < } 0$ ，呈减少趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2AOD产品精度验证为了进一步确认MO-DISAOD融合产品在新疆的实用性，选取中国气象局大气气溶胶光学特性观测网（Chineseaerosolopti-calpropertynetwork,CAOPNET)乌鲁木齐站点CE-318太阳光度计观测数据与MODISAOD产品数据进行对比验证。CE-318太阳光度计波段包括340$\\mathrm { n m } , 3 8 0 \\ \\mathrm { n m } , 4 4 0 \\ \\mathrm { n m } , 5 0 0 \\ \\mathrm { n m } , 6 7 0 \\ \\mathrm { n m } , 8 7 0 \\ \\mathrm { n m } , 9 3 6$ $ { \\mathrm { n m } }$ 和 $1 0 2 0 ~ \\mathrm { n m }$ 数据，通过相邻2个波段 $5 0 0 \\ \\mathrm { n m }$ 和$6 7 0 ~ \\mathrm { n m }$ 的Angstrom指数内插获取 $5 5 0 ~ \\mathrm { n m }$ Angstrom指数,进而求得 $5 5 0 \\mathrm { n m }$ 的AOD地面观测数据[39],其计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { 5 0 0 \\sim 6 7 0 } = - \\frac { \\ln ( \\tau _ { 5 0 0 } / \\tau _ { 6 7 0 } ) } { \\ln ( 5 0 0 / 6 7 0 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { _ { 5 5 0 } } = \\tau _ { _ { 6 7 0 } } ( 5 0 0 / 6 7 0 ) ^ { - \\alpha _ { 5 0 0 - 6 7 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\tau _ { 5 0 0 }$ 和 $\\dot { \\tau } _ { 6 7 0 }$ 分别为波长 $5 0 0 \\mathrm { n m }$ 和 $6 7 0 \\mathrm { n m }$ 的AOD值； $\\alpha _ { 5 0 0 \\sim 6 7 0 }$ 为 $5 0 0 { \\sim } 6 7 0 ~ \\mathrm { n m }$ 的Angstrom指数; $\\tau _ { 5 5 0 }$ 为内插所得 $5 5 0 \\mathrm { n m }$ 的AOD值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过与卫星数据直接匹配，瞬时窗口选择 $\\pm 3 0$ $\\operatorname* { m i n }$ ,空间窗口选择 $5 0 \\mathrm { k m } { \\times } 5 0 \\mathrm { k m } ^ { [ 3 9 ] }$ ,筛选出与地面观测站点时间和空间一致的卫星数据，经过计算共筛选出57对有效数据用于对比分析评估卫星数据的准确性和实用性，结果如图2所示。相关系数 $( r )$ 是结果评价的首选统计量，同时期望误差(EE)内样本点的多少也可以反应MODISAOD数据质量。当MODISAOD满足 $\\tau ^ { - } | \\mathrm { E E } | { \\leqslant } \\tau _ { \\mathrm { M O D I s } } { \\leqslant } \\tau +$ IEEI时，认为卫星反演效果较好;其中 $\\tau$ 为CAOPNET AOD数据, $\\tau _ { \\mathrm { M O D I S } }$ 为MODISAOD数据，EE为期望误差，即 $\\pm \\left( 0 . 0 5 + \\right.$ $0 . 1 5 \\tau \\$ ）。从图2可以看出，MODISAOD与站点实测数据具有良好的相关性( $_ { r = 0 . 6 3 8 1 }$ ),符合EE的数据占 $6 5 \\%$ ,大于EE的数据占 $2 8 \\%$ ,小于EE的数据占$7 \\%$ 。由此说明MODISAOD融合数据在新疆具有较高的精度和适用性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1新疆AOD年均值空间分布特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2003—2019年新疆AOD年均值空间分布特征地域差异明显(图3)，受下垫面状况影响显著。北疆AOD年均值为0.15，从西到东高值区依次为伊宁市（AOD年均值0.25）、博乐市（AOD年均值0.27）、",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f3d80213cdd9f3f2b738362c145508663b6a479a6977f8f91f39535835b227e.jpg",
+        "img_caption": [
+            "图22013—2017年MODISAOD与CAOPNETAOD对比 Fig.2 Comparison between MODIS AOD and CAOPNET AOD from 2013 to 2017 "
+        ],
+        "img_footnote": [
+            "注：AOD为气溶胶光学厚度。"
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d71fe28dda752572b9badf709fd49a85ee604d1076e5a9905e6bb6ab0b7ca3d.jpg",
+        "img_caption": [
+            "图32003—2019年新疆AOD年均值空间分布 Fig.3Spatial distribution of the annual mean AOD in Xinjiang from 2003 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：方框中的序号代表区域分别为：1伊宁市；2博乐市；3独奎乌地区；4石河子市；5乌昌地区;6吐鲁番盆地;7焉耆盆地；8库沙新地区；9阿克苏市；10喀什市；11叶尔羌河流域；12和田市；13民丰地区；14若羌地区。下同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "独奎乌地区（AOD年均值0.31）、石河子市（AOD年均值0.35）、乌昌地区(AOD年均值0.29)以及吐鲁番盆地(AOD年均值0.29)。可见，北疆AOD高值区集中在经济最发达的地区，人口密集度高，特别是天山北坡经济带集中了新疆 $8 3 \\%$ 的重工业和 $6 2 \\%$ 的轻工业34，城市化发展水平和人类活动对气溶胶的分布有着明显的影响[14,18]。已有研究表明 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 浓度与AOD具有较高的正相关[32-34.43]。吐鲁番盆地受地形影响，空气污染物不易扩散，导致AOD常年居高。南疆AOD年均值为0.33，明显高于北疆地区。从空间分布上看，南疆环塔里木盆地边缘地带出现了均值大于0.6的弧形高值区，与近年来国内的一些研究学者对该区域AOD的时空分布研究结论相同[14-15.28.44]。从盆地东部顺时针来看,分别为若羌地区（AOD年均值0.52）、民丰地区（AOD年均值0.50）、和田市（AOD年均值0.47）、叶尔羌河流域（AOD年均值0.46）、喀什市（A0D年均值0.48）、阿克苏市（AOD年均值0.53）、库沙新地区（AOD年均值0.48）、焉耆盆地(AOD年均值0.36)，AOD年均值高的地区发生沙尘天气的日数较多[45]。塔里木盆地南、北分别受昆仑山和天山阻挡，西接帕米尔高原，北方和西北方南下的气流，经东天山山口进入塔里木盆地,在沙漠下垫面热力作用和沙漠东侧狭窄地形的共同作用下，形成沙尘天气，加之该区域植被覆盖率低、降水稀少，降水对气溶胶的清除和植被对沙尘的阻碍作用非常微弱，进而形成高值区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2新疆AOD四季分布特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2003—2019年新疆AOD四季均值分布差异非常显著(图4)，总体表现为春季 $( 0 . 4 5 ) >$ 夏季 $( 0 . 2 5 ) \\succ$ 冬季 $( 0 . 1 8 ) >$ 秋季(0.15)。南疆地区由于受沙尘天气发生频率的影响,AOD四季均值波动较大[15.42];北疆大部分地区AOD四季均值变化不明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "春季是新疆沙尘天气频发的季节，受沙尘源区的影响，塔克拉玛干沙漠和库姆塔格沙漠地区，AOD均值普遍偏高，南疆大部分地区AOD均值在0.6以上(图4a)。北疆地区沿天山北坡一带大风天气居多，降水偏少，气候干燥，易引发沙尘天气，且由于供暖期还未结束，大气扩散条件差9，AOD均值也较高，其中伊宁市、独奎乌地区、石河子市还出现了大于0.4的高值区;准噶尔盆地、吐鲁番盆地中央地势较低，气溶胶粒子不易向盆地外输送，堆积形成高值区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "夏季新疆整体AOD均值较春季有大幅下降，南疆环塔里木盆地中部地区大面积的高值区基本消失，在盆地东部一东南边缘地带出现弧形高值区（图4b)。北疆天山北坡经济带地区AOD均值仍处于较高值，虽然北疆夏季降水增多，植被覆盖率较好，大气扩散条件好，但是干旱、半干旱地表仍然是天然的颗粒物排放源[42]",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b676034c8f7f4813993a713c64af9c6be9a958374818635a6d247bfb53c3629.jpg",
+        "img_caption": [
+            "图42003—2019年新疆AOD四季均值空间分布 Fig.4Spatial distributions of the average AOD in four seasons in Xinjiang from 2003 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "秋季新疆大部分地区AOD均值保持在全年最低水平，空间分布较均匀(图4c)。塔里木盆地边缘的弧形高值区基本消失，南北疆地区AOD均值整体差异较小，这与秋季沙尘天气发生频率的减少有很大关系[28]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "冬季新疆大部分地区AOD均值较秋季无明显变化，南疆若羌地区出现AOD聚集现象，AOD均值较秋季显著上升，AOD极大值达0.7以上（图4d)。北疆地区由于冬季被积雪覆盖，导致地表反照率增加，在一定程度上影响了AOD的反演，因此大部分区域无法获取AOD数据。个别有AOD数据的区域，由于冬季供暖，排放的气溶胶数量增多，AOD较秋季增长[42]。由此可见，冬季北疆的AOD数据不能够真实地反映大气实际的污染状况，与地面环境监测比较差别很大[22]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据新疆AOD总体分布特征，参照图3中14个AOD年均值较高的重点区域，计算了AOD四季均值/方差以及年均值/方差(表1)。从年均值来看，阿克苏市的AOD年均值最大，为0.53。从季节均值看，春季受沙尘气溶胶主导若羌地区AOD均值最大，高达0.93；夏季民丰地区AOD均值最大，为",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.69;秋季阿克苏市和喀什市AOD均值最大，为0.31；冬季受人为气溶胶影响独奎乌地区AOD均值最大，为0.28。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3新疆AOD月分布特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2003—2019年新疆AOD随月份变化显著（图5），AOD月均值介于0.11\\~0.51，且南北疆AOD月均值差异显著。全疆AOD呈现1一4月逐月增加，5—12月逐月下降的“单峰型\"变化特征，4月AOD月均值达到峰值(0.51），12月A0D月均值最小（0.11）。北疆1、2、12月大量地区缺少AOD反演数据，从3—11月，天山北坡从西到东AOD月均值都比其他地区高，其中5一6月独奎乌、石河子市和乌鲁木齐地区AOD月均值达到0.5左右，这期间沙尘天气对大气柱AOD的贡献不可忽视[9。对于南疆地区来说，1—2月除盆地东南缘若羌地区一带个别地区AOD月均值大于0.5,南疆AOD月均值在0.25以下；3—5月受沙尘天气影响，形成以塔克拉玛干沙漠为中心的AOD高值区，AOD月均值大于0.4;6—9月随着塔里木盆地沙尘天气频数的减少而降低[46-47],AOD高值区面积逐渐减小，形成以环塔里木盆地边缘为主的弧形高值区，AOD月均值在0.18\\~0.29之间。10—12月，南疆AOD分布均匀，高值区消失，AOD月均值在0.13以下。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4新疆气溶胶变化情况监测 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 新疆AOD年均值变化监测从2003—2019年新疆AOD逐年年均值分布图(图6)可见，近17a新疆AOD年均值范围为0.19\\~0.31，最大值出现在2006年(0.31)，最小值出现在2017年(0.19)，整体呈曲线下降。2003—2005年A0D值逐年减小，AOD年均值范围为0.21\\~0.24，AOD高值中心分布于天山北坡经济带和南疆塔克拉玛干沙漠东南地带。2006年南疆AOD高值区明显增大，新疆AOD达到17a的峰值。2007—2016年AOD年均值呈下降、上升交替变化趋势但整体变化不明显，AOD年均值范围为0.24\\~0.28。2017年南疆A0D高值区较之前明显减小，新疆AOD达到17a的最小值。2018—2019年AOD年均值又上升到0.25。从整个17a的时间序列看，新疆AOD高值区除了集中出现在南疆环塔里木盆地弧形区域外，北疆经济较发达地区的AOD也开始增加，尤其是天山北坡经济带的独奎乌地区、石河子市、乌昌地区等，这些地区AOD值呈现上升趋势，逐渐成为新增的高值中心。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/46a3b8f568a31e032890522e44020919efd1d794cf9b463b98e660a25033851d.jpg",
+        "table_caption": [
+            "表1新疆重点区域AOD四季均值统计表",
+            "Tab.1 Statistical table of the mean AOD in four seasons in typical regions of Xinjiang "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">地区</td><td colspan=\"2\">春季</td><td colspan=\"2\">夏季</td><td colspan=\"2\">秋季</td><td colspan=\"2\">冬季</td><td colspan=\"2\">年均值</td></tr><tr><td>均值</td><td>方差</td><td>均值</td><td>方差</td><td>均值</td><td>方差</td><td>均值</td><td>方差</td><td>均值</td><td>方差</td></tr><tr><td>伊宁市</td><td>0.31</td><td>0.0024</td><td>0.27</td><td>0.0003</td><td>0.19</td><td>0.0009</td><td>0.15</td><td>0.0080</td><td>0.25</td><td>0.0008</td></tr><tr><td>博乐市</td><td>0.21</td><td>0.0015</td><td>0.32</td><td>0.0020</td><td>0.26</td><td>0.0024</td><td>0.22</td><td>0.0182</td><td>0.27</td><td>0.0008</td></tr><tr><td>独奎乌地区</td><td>0.33</td><td>0.0038</td><td>0.36</td><td>0.0011</td><td>0.25</td><td>0.0044</td><td>0.28</td><td>0.0275</td><td>0.31</td><td>0.0015</td></tr><tr><td>石河子市</td><td>0.37</td><td>0.0036</td><td>0.39</td><td>0.0009</td><td>0.28</td><td>0.0041</td><td>0.26</td><td>0.0169</td><td>0.35</td><td>0.0024</td></tr><tr><td>乌昌地区</td><td>0.29</td><td>0.0024</td><td>0.34</td><td>0.0012</td><td>0.24</td><td>0.0017</td><td>0.14</td><td>0.0069</td><td>0.29</td><td>0.0013</td></tr><tr><td>吐鲁番盆地</td><td>0.46</td><td>0.0213</td><td>0.22</td><td>0.0023</td><td>0.21</td><td>0.0028</td><td>0.26</td><td>0.0061</td><td>0.29</td><td>0.0035</td></tr><tr><td>焉耆盆地</td><td>0.54</td><td>0.0100</td><td>0.35</td><td>0.0023</td><td>0.24</td><td>0.0020</td><td>0.27</td><td>0.0221</td><td>0.36</td><td>0.0023</td></tr><tr><td>库沙新地区</td><td>0.75</td><td>0.0345</td><td>0.51</td><td>0.0090</td><td>0.29</td><td>0.0058</td><td>0.23</td><td>0.0065</td><td>0.48</td><td>0.0043</td></tr><tr><td>阿克苏市</td><td>0.84</td><td>0.0353</td><td>0.53</td><td>0.0130</td><td>0.31</td><td>0.0103</td><td>0.26</td><td>0.0057</td><td>0.53</td><td>0.0054</td></tr><tr><td>喀什市</td><td>0.80</td><td>0.0348</td><td>0.47</td><td>0.0081</td><td>0.31</td><td>0.0095</td><td>0.17</td><td>0.0049</td><td>0.48</td><td>0.0036</td></tr><tr><td>叶尔羌河流域</td><td>0.80</td><td>0.0310</td><td>0.49</td><td>0.0083</td><td>0.28</td><td>0.0097</td><td>0.18</td><td>0.0049</td><td>0.46</td><td>0.0034</td></tr><tr><td>和田市</td><td>0.79</td><td>0.0265</td><td>0.58</td><td>0.0097</td><td>0.24</td><td>0.0050</td><td>0.18</td><td>0.0114</td><td>0.47</td><td>0.0026</td></tr><tr><td>民丰地区</td><td>0.82</td><td>0.0206</td><td>0.69</td><td>0.0170</td><td>0.24</td><td>0.0036</td><td>0.22</td><td>0.0039</td><td>0.50</td><td>0.0027</td></tr><tr><td>若羌地区</td><td>0.93</td><td>0.0154</td><td>0.61</td><td>0.0121</td><td>0.25</td><td>0.0032</td><td>0.26</td><td>0.0090</td><td>0.52</td><td>0.0030</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/84fa3d3defb1767bc26cb111d4b01387c0da6da5a45b34e2f7b69e69653a7a1b.jpg",
+        "img_caption": [
+            "干辛区地理",
+            "图52003—2019年新疆AOD逐月空间分布",
+            "Fig.5Spatial distributions of the monthly mean AOD in Xinjiang from 20o3 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.2新疆AOD年均值变化趋势分析为了定量地评价新疆AOD变化趋势及其显著性,使用Spear-man秩次相关检验法进行时间序列变化趋势分析及其显著性检验，对时间序列的17幅影像，分别计算每个像元点的 $r$ 值，得到整景变化趋势图（图7a）。为了直观的观察AOD值的变化情况，对AOD年均值Spearman秩次相关系数图进行了密度分割（图7b）， $- 1 . 0 0 0 < r < - 0 . 4 8 5$ 为显著性下降区域， $- 0 . 4 8 5 < r <$ 0.000为不显著下降区域， $0 . 0 0 0 < r < 0 . 4 8 5$ 为不显著上升区域， $0 . 4 8 5 { < } r { < } 1 . 0 0 0$ 为显著上升区域。从图7可以看出，AOD显著下降区域主要集中在新疆北部阿勒泰地区、西南部喀什地区的零星地带，南疆大部分地区呈现下降趋势，但下降趋势不显著；显著上升区域主要集中在北疆沿天山北坡经济带地区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "针对14个重点区域进一步分析了其时间序列变化趋势及其显著性。如图8所示，可以看出伊宁市、博乐市、独奎乌地区、石河子市、乌昌地区、焉耆盆地、民丰地区呈现上升趋势；吐鲁番盆地、库沙新地区、阿克苏市、喀什市、叶尔羌河流域、若羌地区为下降趋势。14个重点区域内的 $r$ 值如表2所示，上述地区中只有石河子市、乌昌地区的秩次相关系数分别是0.662、0.503，即 $\\vert r \\vert { > } 0 . 4 8 5$ ,呈现显著性上升",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9d33d2b2247b827ff090bcc6038cb1e5496c6d759c10c25d69f6c4f7cddbdd1.jpg",
+        "img_caption": [
+            "图62003—2019年新疆AOD年均值空间分布",
+            "Fig.6Spatial distributions of the annual mean AOD in Xinjiang from 2Oo3 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb30ed2ea614c6b2baa09e6c4a1b68a9392aaa89b3292dc3977baa8f09e7525f.jpg",
+        "img_caption": [
+            "图72003—2019年新疆气溶胶光学厚度年均值变化趋势分析",
+            "Fig.7Significance of the change trend of the annual average AOD in Xinjiang from 2Oo3 to 2019 ",
+            "图82003—2019年新疆重点区域气溶胶光学厚度年均值线性趋势",
+            "Fig.8Linear change trends of the annual mean AOD in typical regions of Xinjiang from 2Oo3 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "0.32 −(a)伊宁市 0.33 (b)博乐市 0.41 (c)独奎乌地区  \n88 0O0 0.38 =0.0035x+0.2716y=0.0012x+0.2278 0041 y=0.0031x+0.2302 35260 r=0.4350.17 T 0.18 0.232003 2007 2011 2015 2019 2003 2007 2011 2015 2019 2003 20072011 2015 2019年份 年份 AOD年均值0.45 (d)石河子市 0.36 -(e)乌昌地区 0.44 (f吐鲁番盆地  \nH0 0.41 0.33 0 0.40 A07135 0.06x+02709 85 =0.0045x+0.2181 32406 -0.003x390.31842003 2007 2011 2015 2019 2003 2007 2011 2015 2019 2003 2007 2011 20152019年份 年份 年份0.45 (g)焉耆盆地 0.59 (h)库沙新地区 0.63 (i)阿克苏市8 8 A0.33 0.4309 y-0.0015x+0.362 0034 −0.0021x+0.4658 038 −0.0053x+052850.24 0.29 0.282003 2007 2011 2015 2019 2003 2007 2011 2015 2019 2003 2007 2011 2015 2019年份 年份 年份0.58 (i)喀什市 0.57 (k)叶尔羌河流域 0.57 (l)和田市0.0052x+0.4884 O 0.57 A0 0.5 A44484 82 =−0.0052x+0.4854 448 −0.0054X+0.50030.30 0.27 0.292003 2007 20112015 2019 2003 20072011 2015 2019 2003 2007 2011 2015 2019年份 年份 年份(m)民丰地区 (n)若羌地区0.62 y=0.0011x+0.4844 0.67值 0.58 r=-0.103 值0.620.50 0.520.46 0.47 0.0015x+0.52740.42 0.42 =0.0460.38 0.3720032007 2011 2015 2019 2003 2007 2011 2015 2019年份 年份",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表22003—2019年新疆重点区域A0D年变化趋势显著性检验统计",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/be6b7c1a5ecc1344511f62dc1779cb6be4b82d03320d8884555af3338532c042.jpg",
+        "table_caption": [
+            "Tab.2 Significance test ofAOD annual change trend in typical regions of Xinjiang from 2oo3 to 2019 "
+        ],
+        "table_footnote": [
+            "趋势，其他地区变化不显著。"
+        ],
+        "table_body": "<html><body><table><tr><td>地区</td><td>相关系数(r)</td><td>变化趋势</td><td>显著性</td></tr><tr><td>伊宁市</td><td>0.388</td><td>上升</td><td>不显著</td></tr><tr><td>博乐市</td><td>0.459</td><td>上升</td><td>不显著</td></tr><tr><td>独奎乌地区</td><td>0.435</td><td>上升</td><td>不显著</td></tr><tr><td>石河子市</td><td>0.662</td><td>上升</td><td>显著</td></tr><tr><td>乌昌地区</td><td>0.503</td><td>上升</td><td>显著</td></tr><tr><td>吐鲁番盆地</td><td>-0.249</td><td>下降</td><td>不显著</td></tr><tr><td>焉耆盆地</td><td>0.033</td><td>上升</td><td>不显著</td></tr><tr><td>库沙新地区</td><td>-0.118</td><td>下降</td><td>不显著</td></tr><tr><td>阿克苏市</td><td>-0.206</td><td>下降</td><td>不显著</td></tr><tr><td>喀什市</td><td>-0.292</td><td>下降</td><td>不显著</td></tr><tr><td>叶尔羌河流域</td><td>-0.371</td><td>下降</td><td>不显著</td></tr><tr><td>和田市</td><td>-0.223</td><td>下降</td><td>不显著</td></tr><tr><td>民丰地区</td><td>0.103</td><td>上升</td><td>不显著</td></tr><tr><td>若羌地区</td><td>0.046</td><td>上升</td><td>不显著</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）乌鲁木齐地区MODISAOD产品与太阳光度计AOD值的相关系数达0.6381，符合期望误差的数据占比 $6 5 \\%$ ,表明MODISAOD融合数据在新疆达到了一定精度。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）新疆AOD分布地域差异明显，南疆地区均值明显高于北疆地区。第一高值区位于南疆塔里木盆地，其边缘地带均值超过0.6，主要由于该地区沙尘天气频繁;第二高值区位于北疆沿天山北坡经济带，其均值超过0.3,该地区主要受人类经济活动和自然源的双重影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）2003—2019年新疆四季的A0D差异非常显著，总体表现为春季 $( 0 . 4 5 ) >$ 夏季 $( 0 . 2 5 ) >$ 冬季$( 0 . 1 8 ) >$ 秋季(0.15)。南疆地区由于受沙尘天气发生频率的影响，AOD四季均值变幅比北疆地区大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）新疆AOD月均值介于 $0 . 1 1 { \\sim } 0 . 5 1$ ,整体呈现为1—4月逐月增加，5—12月逐月下降的\"单峰型”变化特征。4月AOD月均值达到峰值(0.51)，12月AOD月均值最小(0.11)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（5）2003—2019年新疆大部分地区A0D变化趋势不明显。AOD高值区除了传统的南疆环塔里木盆地弧形区域外，天山北坡经济带的独奎乌地区、石河子市、乌昌地区等，逐渐成为新增的AOD高值中心。14个重点区域只有石河子市和乌昌地区AOD为显著上升，其他区域变化趋势不显著。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]李成才,毛节泰,刘启汉,等.MODIS卫星遥感气溶胶产品在北 京市大气污染研究中的应用[J].中国科学D辑,2005,35(增刊 1):177-186.[Li Chengcai,Mao Jietai,Liu Qihan,et al.Application of MODIS AOD products in the study of air pollution in Beijing[J]. Science in China (Series D),2005,35(Suppl.1): 177-186.]   \n[2]吴邦灿,费龙.现代环境监测技术[M].北京:中国环境科学出版 社,2014.[Wu Bangcan,Fei Long.Modern environmental monitoring technology[M]. Beijing: China Environmental Science Press, 2014.]   \n[3]Kaiser D P, Qian Y. Decreasing trends in sunshine duration over China for 1954—1998: Indication of increased haze polution?[J]. Geophysical Research Letters,2002,29(21): 381-384.   \n[4]Rosenfeld D,Dai J, Yu X,et al.Inverse relations between amounts of air pollution and orographic precipitation[J]. Science,2007,315 (5817): 1396-1398.   \n[5]Cao JJ, Chow JC.Recent advances for aerosol and environment study in Asia[J]. Particuology,2013,11(1): 3-4.   \n[6]张华,黄建平.对IPCC第五次评估报告关于人为和自然辐射强 迫的解读[J].气候变化研究进展,2014,10(1):40-44.[Zhang Hua, Huang Jianping. An interpretation of man-made and natural radiative forcing in IPCC Fifth Assessment Report[J]. Climate Change Research,2014,10(1): 40-44.]   \n[7]Van Zelm R V, Huijbregts MAJ, Hollander HA Den, et al. European characterization factors for human health damage of $\\mathrm { P M } _ { 1 0 }$ （20号 and ozone in life cycle impact assessment[J]. Atmospheric Environment, 2008,42: 441-453.   \n[8]He Q,Huang B. Satelite-based mapping of daily high-resolution ground $\\mathrm { P M } _ { 2 . 5 }$ in China via space-time regression modeling[J]. Remote Sensing of Environment,2018,206: 72-83.   \n[9]黄观,刘志红,刘伟,等.北疆地区气溶胶光学厚度的时空特征 [J].生态与农村环境学报,2015,31(3):286-292.[Huang Guan, Liu Zhihong,Liu Wei,et al. Spatio-temporal characteristics of aerosol optical depth in north Xinjiang[J].Journal of Ecology and Rural Environment,2015,31(3): 286-292.]   \n[10]Xia X, Chen H,Li Z,et al. Significant reduction of surface solar irradiance induced by aerosol ina suburban region in northeastern China[J]. Journal of Geophysical Research,2007,112(D22): 928- 935.   \n[11]Li S,Chen L, Xiong X,et al.Retrieval of the haze optical thickness in North China Plain using MODIS data[J]. IEEE Transactions on Geoscience & Remote Sensing,2013,51(5): 2528-2540.   \n[12] 罗云峰,李维亮,周秀骥.20世纪80年代中国地区大气气溶胶 光学厚度的平均状况分析[J].气象学报,2001,59(1): 77-87. [Luo Yunfeng,Li Weiliang, Zhou Xiuji.Analysis of the 1980's at",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "mospheric aerosol optical depth over China[J].Acta Meteorologica Sinica,2001,59(1): 77-87.]   \n[13]罗云峰,吕达仁,周秀骥,等.30年来我国大气气溶胶光学厚度 平均分布特征分析[J].大气科学,2002,26(6):721-730.[Luo Yunfeng, Lu Daren, Zhou Xiuji,et al.Analyses on the spatial distribution of aerosol optical depth over China in recent 3O years[J]. Chinese Journal of Atmospheric Sciences,2002,26(6): 721-730.]   \n[14] 王银牌,喻鑫,谢广奇.中国近15年气溶胶光学厚度时空分布 特征[J].中国环境科学,2018,38(2):426-434.[Wang Yinpai, Yu Xin,Xie Guangqi. Spatial distribution and temporal variation of aerosol optical depth over China in the past 15 years[J]. China Environmental Science,2018,38(2): 426-434.]   \n[15] 张亮林,潘竟虎,张大弘.基于MODIS数据的中国气溶胶光学 厚度时空分布特征[J].环境科学学报,2018,38(11):4431- 4439.[Zhang Lianglin,Pan Jinghu, Zhang Dahong.Spatio-tempo ral distribution characteristics of aerosol optical depths in China based on MODIS data[J].Acta Scientiae Circumstantiae,2018,38 (11): 4431-4439.]   \n[16] 李成才,毛节泰,刘启汉,等.利用MODIS研究中国东部地区气 溶胶光学厚度的分布和季节变化特征[J].科学通报,2003,48 (19): 2094-21Oo.[Li Chengcai, Mao Jietai,Liu Qihan,etal.Analysis of distribution and seasonal variation characteristics of aerosol optical depth over the east of China by MODIS[J]. Chinese Science Bulletin,2003,48(19): 2094-2100.]   \n[17]郑小波,周成霞,罗宇翔,等.中国各省区近10年遥感气溶胶光 学厚度和变化[J].生态环境学报,2011,20(4): 595-599.[Zheng Xiaobo, Zhou Chengxia,Luo Yuxiang,et al. Chinese province-lev el variations and trends in aerosol optical depth from recent 10 years of remote sensing data[J]. Ecology and Environmental Sciences,2011,20(4): 595-599.]   \n[18] 张西雅,扈海波.京津冀地区气溶胶时空分布及与城市化关系 的研究[J].大气科学,2017,41(4): 797-810.[Zhang Xiya,Hu Haibo.Spatio-temporal characteristics of aerosol optical depth and heir relationship with urbanization over Beijing-Tianjin-Hebei region [J]. Chinese Journal of Atmospheric Sciences,2017,41(4): 797- 810.]   \n[19] 王晨莹,何沐全,陈军辉,等.2006—2017年四川盆地MODIS气 溶胶光学厚度时空变化特征环[J].环境科学研究,2020,33(1): 54-62.[Wang Chenying,He Muquan, Chen Junhui,et al. Temporal and spatial variation characteristics of MODIS aerosoloptical depth in Sichuan Basin from 2OO6 to 2O17[J]. Research of Environmental Sciences,2020,33(1): 54-62.]   \n[20] 王捷纯,邓玉娇.利用MODIS C6产品分析广东省气溶胶光学 厚度时空特征[J].气象科技,2018,46(4):809-813.[Wang Jiechun,Deng Yujiao.Spatial-temporal characteristics of aerosol optical depth in Guangdong basedon MODIS C6 data[J]. Meteorological Science and Technology,2018,46(4): 809-813.]   \n[21] 赵辉,郑有飞,徐静馨,等.乌鲁木齐市大气污染物浓度的变化 特征[J].环境化学,2016,34(11): 2118-2126.[Zhao Hui, Zheng Youfei,Xu Jingxin,et al.Variation characteristics of air pollutant concentrations in Urumqi[J]. Environmental Chemistry,2016,34 (11): 2118-2126.]   \n[22] 谢运兴,唐晓,郭宇宏,等.新疆大气颗粒物的时空分布特征[J] 中国环境监测,2019,35(1):26-36.[Xie Yunxing,Tang Xiao, Guo Yuhong,et al. Spatial and temporal distribution of atmospheric particulate mater in Xinjiang[J]. Environmental Monitoring in China,2019,35(1):26-36.]   \n[23] 赵克明,李娜,李霞,等.乌鲁木齐冬季风天气过程大气扩散 条件特征分析[J].干旱区地理,2021,44(6):1534-1544.[Zhao Keming,Li Na,Li Xia,etal.Characteristic analysis of atmospheric diffusion conditions of winter foehn weather process in Urumqi City[J]. Arid Land Geography,2021,44(6): 1534-1544.]   \n[24]Li X,Xia X,Wang L,et al. The role of foehn in the formation of heavy air pollution events in Urumqi, China[J]. Journal of Geophysical Research,2015,120: 5371-5384.   \n[25]Li X, Xia X, Zhong S,et al. Shallow foehn on the northern leeside of Tianshan Mountains and its influence on atmospheric boundary layer over Urumqi,China:A climatological study[J].Atmospheric Research,2020,240: 104940,doi: 10.1016/j.atmosres.2020.104940.   \n[26] 中华人民共和国生态环境部.2018中国生态环境状况公报[EB/ OLJ.[2019-05-29]. http://www.mee.gov.cn/xxgk2018/xxgk/xxgk15/ 201912/t20191231_754139.html.[Ministry of Ecology and Environment of the People's Republic of China. China eco-environmental quality report 2018[EB/OL].[2019-05-29].htp://www.mee.gov. cn/xxgk2018/xxgk/xgk15/201912/20191231_754139.html.]   \n[27]新疆维吾尔自治区生态环境厅.新疆维吾尔自治区2018年环 境状况公报[EB/OL].[2019-06-11]. http://sthjt.xinjiang.gov.cn/ xjepd/hjzkgb/202001/ad13302dfddb40f4946db95c83fd08e2/files/ 44f1bd47a80140fcb99a859cd045166e.pdf.[Department of Ecological Environment of Xinjiang. Xinjiang environmental quality report 2018[EB/OL]. [2019-06-11]. htp: //sthjt.xinjiang.gov.cn/xjepd/hjzkgb/202001/ad13302dfddb40f4946db95c83fd08e2/files/44f1 bd47a80140fcb99a859cd045166e.pdf.]   \n[28] 赵仕伟,高晓清.利用MODIS C6数据分析中国西北地区气溶 胶光学厚度时空变化特征[J].环境科学,2017,38(7):2637- 2646.[Zhao Shiwei, Gao Xiaoqing. Analysis of spatio-temporal distribution and variation characteristics of aerosol optical depth over the northwest of China by MODIS C6 product[J]. Environmental Science,2017,38(7): 2637-2646.]   \n[29] 孙晓雷,甘伟,林燕,等.MODIS $3 \\mathrm { k m }$ 气溶胶光学厚度产品检验 及其环境空气质量指示[J].环境科学学报,2015,35(6):1657- 1666.[Sun Xiaolei,Gan Wei,Lin Yan,et al.Validation of MODIS 3 km aerosol optical depth product and its air quality indication [J].Acta Scientiae Circumstantiae,2015,35(6): 1657-1666.]   \n[30]Wei J, Li Z,Peng Y,et al. MODIS Collection 6.1 aerosol optical depth products over land and ocean: Validation and comparison [J].Atmospheric Environment,2018,201: 428-440. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[31]Wang Y,Yuan Q,Li T,et al.Evaluation and comparison of MO",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DIS Collection 6.1 aerosol optical depth against AERONET over regions in China with multifarious underlying surfaces[J].Atmospheric Environment, 2019,200: 280-301.   \n[32] Imani Maryam.Particulate matter ( $\\mathrm { P M } _ { 2 . 5 }$ and $\\mathrm { P M } _ { 1 0 }$ ）generation map using MODIS Level-1 satellite images and deep neural network[J]. Journal of Environmental Management,2021,281:111888,doi: 10.1016/j.jenvman.2020.111888.   \n[33] 陈鹏,张青,李悦.乌鲁木齐市MODIS气溶胶光学厚度与空气 质量指数相关性分析[J].沙漠与绿洲气象,2018,12(2):71-77. [Chen Peng, Zhang Qing, Li Yue.Analysis on correlation between MODIS aerosol optical depth values and air quality indices in Urumqi[J]. Desert and Oasis Meteorology,2018,12(2): 71-77.]   \n[34] 黄观,刘伟,刘志红,等.乌鲁木齐市MODIS气溶胶光学厚度与 $\\mathrm { P M } _ { 1 0 }$ 浓度关系模型研究[J].环境科学学报,2016,36(2):649- 657.[Huang Guan,Liu Wei,Liu Zhihong,et al.Relationship between MODIS aerosol optical depth and $\\mathrm { P M } _ { 1 0 }$ ground concentration in Urumqi[J].Acta Scientiae Circumstantiae,2016,36(2): 649-657.]   \n[35] 孙小雲,房彦杰,赵景峰,等.塔克拉玛干沙漠输沙势时空分布 特征[J].干旱区地理,2020,43(1):38-47.[Sun Xiaoyun,Fang Yanjie,Zhao Jingfeng,et al. Spatial and temporal distribution characteristics of sand drift potential in Taklimakan Desert[J].Arid Land Geography,2020,43(1): 38-47.]   \n[36] 刘新春,陈红娜,赵克蕾,等.乌鲁木齐大气细颗粒物 $\\mathrm { P M } _ { 2 . 5 } .$ 水溶 性离子浓度特征及其来源分析[J].生态环境学报,2015,24 (12): 2002-2008.[Liu Xinchun,Chen Hongna, Zhao Kelei,et al. Analysis the effect and source on water-soluble ions of fine particulate matter $( \\mathrm { P M } _ { 2 . 5 }$ )in Urumqi[J].Ecology and Environmental Sciences,2015,24(12): 2002-2008.]   \n[37] 吴序鹏,杨军,车慧正,等.塔克拉玛干沙漠地区气溶胶光学厚 度卫星遥感产品验证[J].气候与环境研究,2012,17(2):149- 159.[Wu Xupeng, Yang Jun, Che Huizheng,et al. Verification for the satellite remote sensing products of aerosol optical depth in Taklimakan Desert area[J]. Climatic and Environmental Research, 2012,17(2): 149-159.]   \n[38]Kaufman Y J,WaldA E,Remer L A,et al. The MODIS 2.1- $\\mu \\mathrm { m }$ channel-correlation with visible reflectance for use in remote sensing of aerosol[J]. IEEE Transactions on Geoscience and Remote Sensing,1997,35(5): 1286-1298.   \n[39] 李忠宾,王楠,张自力,等.中国地区MODIS气溶胶光学厚度产 品综合验证及分析[J].中国环境科学,2020,40(10):4190- 4204.[Li Zhongbin,Wang Nan, Zhang Zili,et al. Validation and analyzation of MODIS aerosol optical depth product over China[J]. China Environmental Science,2020,40(10): 4190-4204.]   \n[40]Wei J,Li ZQ, Sun L,et al.An improved merge schemes for MODIS Collection 6.1 Dark Target and Deep Blue combined aerosol products[J]. Atmospheric Environment, 2019,202: 315-327.   \n[41]Levy R,Mattoo S,Munchak L,et al. The Collection 6 MODIS aerosol products over land and ocean[J]. Atmospheric Measurement Techniques,2013,6(11): 159-259.   \n[42] 胡俊,钟珂,亢燕铭,等.新疆典型城市气溶胶光学厚度变化特 征[J].中国环境科学,2019,39(10):4074-4081.[Hu Jun, Zhong Ke,Kang Yanming,et al. Variation in aerosol optical depth over the typical cities in the Xinjiang region[J]. China Environmental Science,2019,39(10): 4074-4081.]   \n[43] 付宏臣,孙艳玲,陈莉,等.基于AOD数据与GWR模型的2016 年新疆地区 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 时空分布特征[J].环境科学学报, 2020,40(1): 27-35.[Fu Hongchen,Sun Yanling,Chen Li,et al. Temporal and spatial distribution characteristics of $\\mathrm { P M } _ { 2 . 5 }$ and $\\mathrm { P M } _ { 1 0 }$ in Xinjiang region in 2016 based on AOD data and GWR model [J].Acta Scientiae Circumstantiae,2020,40(1): 27-35.]   \n[44] 岳辉,刘英,张元敏.基于MODIS数据的中国地区气溶胶光学 厚度时空变化特征[J].环境污染与防治,2020,42(1):89-93. [Yue Hui, Liu Ying, Zhang Yuanmin. Study on temporal and spatial variability of aerosol optical depth in China region based on MODIS data[J].Environmental Polution & Control,2020,42(1): 89-93.]   \n[45] 刘尊驰.南疆典型沙区沙尘天气发生发展规律研究[D].石河 子：石河子大学,2016.[Liu Zunchi. The occurrence and development of sand dust weather in the typical area of southern Xinjiang, China[D]. Shihezi: Shihezi University,2016.]   \n[46] 贾瑞,李君,祝清哲,等.中国西北地区气溶胶的三维分布特征 及其成因[J].中国沙漠,2021,41(3):34-43.[Jia Rui,Li Jun, Zhu Qingzhe,et al. Three-dimensional distribution and formation causes of aerosols over northwest China[J]. Journal of Desert Research,2021,41(3): 34-43.]   \n[47] 谭婷,王天竺.1961—2015年塔里木盆地夏季沙尘天气时空特 征及环流背景分析[J].防灾科技学院学报,2020,22(3):69-76. [Tan Ting,Wang Tianzhu.Analysis on spatial and temporal characteristics and circulation background of dust weather in Tarim Basin in summer from 1961 to 2015[J]. Journal of Institute of Disaster Prevention,2020,22(3): 69-76.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal variation characteristics of aerosol optical depth in Xinjiang from 2003 to 2019 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "YU Zhixiang¹²， LI Xia'， YU Xiaojing³4， ZHENG Yu’， Manlen AYITKEN',LI Shuting'， WANG Nan'",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1.InstituteofDesertMeteorology,ChineseMeteorologicalAdministration,Urumqi83oo2,Xinjiang,China;2.Urumqi   \nMeteorologicalSateliteGroundStaton,Urumqi30l1,Xijang,China;3.LASG,InstituteofAtmospherichysics,Cie AcademyofSciences,Beijing10oo29,China;4.UniversityoftheChineseAcademyofSciences,Beijing10o049,China;   \n5.InstituteofAtmosphericCompositionandEnvironmentaleteorology,ChineseAcademyofMeteorologicalSciences,eiing 100081, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aerosol optical depth (AOD) is the integration of the aerosol extinction coefficient in the vertical direction, which is an important indicator of air polution.Based on the MODIS Aqua Aerosol L2 products,the temporal and spatial variationcharacteristics ofAOD in Xinjiang,China from 2003 to 2019 were analyzed.First, the MODIS AOD was verified based on the Chinese Aerosol Optical Property Network AOD data, with a correlation coefficient of O.6381 and an expected error of $65 \\%$ . Then, the Spearman rank correlation test was used to analyze the annual mean variation of AOD,and 14 main AOD regions were extracted to analyze the anual linear trend.The results show that the climatology of AOD presents obvious regional characteristics in Xinjiang, with higher values over southern Xinjiang than northern Xinjiang.The AOD center located over the Tarim Basin, with mean values exceeding O.6,is highly related to dust weather.The AOD center located along the economic belt of the north slope of the Tianshan Mountains,with an average value of about 0.3,is mainly affected by human conomic activities.Therefore,natural and anthropogenic aerosols are responsible for the air polution in Xinjiang. In terms of seasonal change,AOD is the most in spring (0.45); however,it is the least inautumn (0.15). Furthermore,the seasonal change in AOD in southern Xinjiang is more significant than in northern Xinjiang for the dust weather.The monthly mean AOD increases from January to April and decreases from May to December, with a range of 0.11-0.51.For the long-term trend,the AOD shows an increasing tendency in the economic belt of the north slope of the Tianshan Mountains and decreasing tendency in desert regions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: MODIS；aerosol optical depth (AOD)； sun photometer; distribution characteristics;variation trend ",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,285 @@
+# 一种利用情感词统计信息构造文本特征表示的方法
+
+韩彤晖，杨东强，马宏伟(山东建筑大学 计算机科学与技术学院，济南 250100)
+
+摘要：数据表达方法和文本分类的效果密切相关。文本分类中常用的数据表达方法主要包括基于词典的共现频率方法、基于隐性语义空间(LSA/SVD)的方法、基于神经网络语言模型的方法。提出一种利用单词的统计特征创建文本分类中特征空间的表达方法。该方法利用单词的七种常见的统计特征，通过相关性分析选取相对独立的统计特征创建特征空间。该方法能够有效降低文本向量空间的维度，同时降低了语义空间内的计算复杂度。情感分类实验的结果表明，与现有的单词的数据表达方法相比，该方法能够显著提高分类算法的准确率和召回率。
+
+关键词：数据表达；统计特征；情感分类 中图分类号：TP391.1 doi:10.3969/j.issn.1001-3695.2018.01.0035
+
+# Novel method of using statistical information to construct feature representation in sentiment classification
+
+Han Tonghui, Yang Dongqiang,Ma Hongwei (School of Computer Science& Technology Shandong Jianzhu University,Jinan 25010o,China)
+
+Abstract:Datarepresentationis closelyrelated totheperformanceof textclasification method.There existthree typical methods,namelylexicalco-occurrence,Latent Semantic Analysis (LSA)orLatent Semantic Analysis (LSA)or Singular value decomposition (SVD）,and various neural language models.This paper introduces a feature space construction method only using statisticalinformation.Themethod firstcolects7typesofcommonword'sstatistical information,andthenchooses independent features throughcorelationanalysis,tocontrast wordfeaturespacevector.This methodcan effectivelyreduce the dimensio sizeofvector space models,andcaneffectivelylowercomputationcomplexity inderiving latent semantic space.The sentiment clasification results shows that in contrast with those current data representation methods,our methodcan significantly improve the accuracy and recall rates for different classifier.
+
+Key words:data representation; statistical features; sentiment classificatior
+
+# 0 引言
+
+文本的数据表达是文本分类研究的基础，目的是将单词转换为可以被计算机处理的形式。文本的数据表达方式的好坏直接影响到分类算法的准确率。目前文本的数据表达方法主要包括基于词典的共现频率方法[I]、基于隐性语义空间(LSA/SVD)的方法[2]、基于神经网络语言模型的方法[3]。基于词典的共现频率方法将单词在词典内的位置信息和单词在文本内的分布频率作为文本数据表达的基础，该方法简单易行，但是该方法处理大规模数据时会生成稀疏、高维的文本矩阵，降低分类算法的效率。基于隐性语义空间模型的方法通过词-文档矩阵描述单词在文本中的分布信息，通过压缩得到上述矩阵的低阶近似矩阵，通过该近似矩阵实现文本的数据表达，该方法适用于文本主题抽取[2]、单词聚类[4]等研究中。与基于词典的共现频率方法相似该算法执行时需要创建高维稀疏矩阵。矩阵分解过程中奇异值计算的时间复杂度为 ${ \mathrm { O } } ( n ^ { 3 } )$ ， $n$ 表示数据规模，并且压缩操作使生成的低阶矩阵解释性较差。基于神经网络语言模型的方法以单词的分布信息为依据，通过多层神经网络得到词向量，这类方法被广泛应用于词义相似性计算[5]，与基于词典的方法和基于隐性语义空间的方法相比，深度学习的方法具有更好的可扩展性。但是，相较于基于词典的共现频率方法，通过深度学习方法生成的词向量每一维的特征是难以解释的，因此难以对词向量做进一步分析。Kim、Zhang[67]等人利用神经网络直接产生文本的特征表示，本文主要研究单词表达方法对文本情感分类的影响，因此没有将利用深度学习的方法直接产生文本特征并进行分类的方法列入本文的比较范围。
+
+本文提出一种通过组合常见的统计特征，实现单词和文本的数据表达的方法。统计特征根据单词在文本内的分布规律，反映该单词影响文本类别划分的强度。在文本分类研究中，统计特征是提取关键词的参照标注[8]。基于统计特征的关键词抽取方法利用单词的特征值表示单词，根据特征值判断单词能否成为关键词。利用统计特征实现单词的数据表达方法首先选取七种常见的统计特征，再通过相关性分析得到相对独立的统计特征，利用这些独立的统计特征实现单词和文本的数据表达。该方法有效降低了文本空间向量的维度，具有隐性语义空间(LSA/SVD)的压缩效果，与隐性语义空间相比，该方法的时间复杂度仅为 ${ \mathrm { O } } ( n )$ 。文本分类的实验结果表明，与基于词典的共现频率的方法和基于神经网络语言模型的方法相比，通过单词的统计特征创建文本分特征空间的方法使支持向量机、决策树、随机森林的分类结果具有更高的准确率。
+
+# 1 相关研究
+
+One-hot-vector一种典型的基于词典的共现频率的表达方法[9]，该方法操作简单，适用于处理小规模数据集，但是当处理大规模的数据时，该方法会占用大量资源，效率也随之降低。常见的基于神经网络语言模型的方法包括基于卷积神经网络(CNN)的方法、基于Word2Vec[10\~12]模型的方法、基于GloVe[13]模型的方法等。基于卷积神经网络的方法将训练集中的单词作为基本单元，以one-hot-vector的形式表示单词，经过多层卷积和池化操作得到最终的单词数据表达形式，该方法的效果取决于神经网络的层数以及训练集的容量，适用于处理大规模语料库，程序执行过程会占用大量计算资源。Weston[14]创建了一个多层CNN 模型，实现半监督方式对单词进行数据表达，并证明输出层采用的激活函数也会影响实验结果。Meng[15]对目标单词的信息源进行集中处理，将处理的信息引入CNN 创建词向量，该方法在机器翻译中取得较好的效果。使用Word2Vec 创建单词的数据表达的方法得到了广泛的关注，首先建立一个词汇表，词汇表内部的单词的表达形式与基于CNN的方法类似。之后将原始的词向量送入隐藏层，利用单词的分布信息生成最终的词向量。Word2Vec 的数据表达方法能够根据被分析文本所属的领域选取合适的语料库训练模型，具有良好的扩展性，该方法所生成的词向量的解释性较差。Segura-Bedmar 等人[16]将Wikipedia和MedLine作为训练语料库，用Word2Vec 得到词向量，使系统能够在生物医学类文本中识别药品名称。Yang等人[17]通过使用Word2Vec 以 Wikipedia 中文语料库为训练集构造模型，实现中文单词的数据表达。Google News1模型是基于Word2Vec创建的语言模型，将谷歌新闻数据集作为训练语料库，该模型包含三百万个单词，生成词向量的维度为 $3 0 0 _ { \circ }$ Ghosal[18]通过GoogleNews模型生成词向量，利用生成的词向量构造文本矩阵，将文本矩阵送入CNN-LSTM 网络，实现文本情感分类。Glove 是一种无监督的矩阵生成方法，通过语料库中单词之间的共现频率建立语言模型，最终实现单词的数据表达。使用GloVe模型时需要创建单词的共现矩阵，因此该模型处理大规模的数据时会占用大量的计算资源。Lee等人[19]将Word2Vec和GloVe模型同WordNet词典结合提出一种单词编码方法，该方法能够有效保留单词的语义信息，适用于语义相似性研究，但是这种方法难以有效处理大规模数据。
+
+统计特征能够以数值的形式反映单词的分布信息，在关键词提取实验中特征值可以作为衡量单词与文本类型之间关联强度的指标。Rajeswari[20]将信息增益作为衡量单词与文本类型关联强度的指标。Uysal[2I结合信息增益和让步比，实现从文本中提取关键词。Jana[22]用单词与文本类型之间的共现频率计算互信息，根据单词的互信息取值过滤非关键词。Mesleh[23]将卡方统计量作为单词权重，并以此作为标准，判断单词是否影响文本的类型。Mitra[24]使用相关系数作为衡量单词与文本之间关联程度的标准。Habibi[25]根据候选单词在不同主题的文本内分布频率的差异判断该单词是否为关键词。在文本集合中，关键词与统计特征之间近似一对一的关系。根据上述原因，本文选取7种常见的统计特征，通过相关性分析，使用相对独立的特征作为特征空间的元素，实现文本数据表达。
+
+# 2 统计特征与文本的数据表达
+
+# 2.1统计特征与特征值计算
+
+根据文献[26]中关于单词统计特征的描述，选取七种分布统计特征创建单词数据表达。以下是这七种统计特征的计算公式。
+
+# 2.1.1统计特征
+
+1)信息增益(information gain，IG)
+
+信息增益的计算公式描述如下：
+
+$$
+\begin{array} { l } { { \displaystyle I G \big ( w \big ) = S \big ( w \big ) \times \left\{ - \sum _ { C \in \Omega } P ( C ) \times \log P ( C ) \right\} } - } \\ { { \displaystyle \left\{ \sum _ { t \in \big \{ w , \overline { { w } } \big \} } P ( t ) \times \left[ - \sum _ { C \in \Omega } P ( C | t ) \times \log P ( C | t ) \right] \right\} } } \end{array}
+$$
+
+该公式在原始信息增益的基础上乘以单词的情感值 $S ( w )$ $S ( w )$ 取值为-1、1，使IG可以映射单词的情感极性。
+
+2)让步比(odds ratio，OR)
+
+让步比的计算公式如下：
+
+$$
+{ \cal O R } ( w , C ) = \log \frac { P ( w | C ) \times \left[ 1 - P \Big ( w \Big | \overline { { C } } \Big ) \right] } { \left[ 1 - P \big ( w | C \big ) \right] \times P \Big ( w \Big | \overline { { C } } \Big ) }
+$$
+
+3)互信息(mutual information，MI)
+
+单词互信息的计算公式如下：
+
+$$
+M I ( w , C ) = \log \frac { P ( w | C ) } { P ( w ) }
+$$
+
+4)对数概率比(logprobabilityratio，LPR)以下是单词对数概率比的计算公式：
+
+$$
+{ L P R } ( w , \ C ) { = } \log { \frac { P ( w | C ) } { P \big ( w | \overline { { C } } \big ) } }
+$$
+
+5)卡方统计(Chi-squire，Chi)
+
+单词卡方值的计算公式如下所述：
+
+$$
+\chi ^ { 2 } \left( w , C \right) = \frac { \left( A \times D - E \times B \right) ^ { 2 } } { \left( A + E \right) \times \left( B + D \right) \times \left( A + B \right) \times \left( E + D \right) }
+$$
+
+6)相关系数(correlationcoefficient，CC)
+
+相关系数的计算公式如下所述：
+
+$$
+C C ( w , C ) = \frac { \Big [ P ( w , C ) P \big ( \overline { { w } } , \overline { { C } } \big ) - P \big ( w , \overline { { C } } \big ) P \big ( \overline { { w } } , C \big ) \Big ] } { \sqrt { P ( w ) P \big ( \overline { { W } } \big ) P ( C ) P \big ( \overline { { C } } \big ) } }
+$$
+
+7)差异性分布(differentialdistribution，DD)
+
+差异性分布的公式描述如下：
+
+$$
+D D \big ( w \big ) = S \big ( w \big ) \times P \big ( w \big ) \times \frac { s d \big ( w \big ) } { \underset { C \in \Omega } { \operatorname* { m a x } } \left\{ P \big ( C | w \big ) \right\} }
+$$
+
+$s d ( \boldsymbol { w } )$ 表示上述条件概率的标准差， $S ( w )$ 的意义与IG 部分的介绍相同，即差异性分布公式需要在原公式的基础上乘以单词情感值。
+
+# 2.1.2特征值计算
+
+使用元组 $Q _ { W } \mathrm { = } \left. q _ { C 1 } , \overline { { q _ { C 1 } } } , \cdots , q _ { C i } , \overline { { q _ { C i } } } , \cdots , q _ { C n } , \overline { { q _ { C n } } } \right.$ ，记录单词 $w$ 在不同情感极性的文本集合中的分布频率。 $q { \boldsymbol { c } } _ { i }$ 表示包含 $w$ ，且情感极性为 $C i$ 的文本的频率， $\overline { { q _ { C i } } }$ 表示不包含 $w$ ，且情感极性为 $\boldsymbol { C } i$ 的文本的频率。上述统计特征的计算方法基本相似，以计算fake'在IMDB文本集内部的信息增益和让步比为例，描述特征值计算的实现过程。
+
+IMDB分为积极性评论和消极性评论， $\boldsymbol { \mathcal { Q } } _ { f a k e }$ 的格式为$\scriptstyle Q _ { f a k e } = < 1 1 3 , 1 2 3 8 7 , 3 3 4 , 1 2 1 6 6 >$ ，即包含和不包含fake'的积极性文本的频率分别为113、12387；包含和不包含'fake的消极性文本的频率分别为334、12166。通过 $\mathcal { Q } _ { f a k e }$ 得到计算'fake'的信息增益和让步比所需的概率，结果如表1所示。
+
+表1概率计算结果  
+
+<html><body><table><tr><td>类型</td><td>取值</td><td>类型</td><td>取值</td></tr><tr><td>P(fake)</td><td>0.0179</td><td>P(positive fake)</td><td>0.5045</td></tr><tr><td>P(fake)</td><td>0.9821</td><td>P(negativefake)</td><td>0.4955</td></tr><tr><td>P(positive)</td><td>0.5000</td><td>P(fakepositive)</td><td>0.0090</td></tr><tr><td>P(negative)</td><td>0.5000</td><td>P(fakepositive)</td><td>0.9910</td></tr><tr><td>P(positivelfake)</td><td>0.2528</td><td>P(fakenegative)</td><td>0.0267</td></tr><tr><td>P(negativefake)</td><td>0.7472</td><td>P(fakenegative)</td><td>0.9733</td></tr></table></body></html>
+
+在情感词典中,fake被标注为消极性情感词，因此 $S ( \mathrm { f a k e } ) { = } _ { - }$ 1。经过计算得到fake'的信息增益： $\scriptstyle \mathrm { I G ( f a k e ) } = - 0 . 2 3 2 4$ ，'fake'在积极性文本中的让步比:OR(fake,positive)=-1.1018,在消极性文本中的让步比：OR(fake,negative)=1.1.18。
+
+# 2.2单词数据表达
+
+通过特征值创建词向量。其中，图1展示了创建词向量的具体流程。
+
+![](images/705d7d32ff0e01fca820473d15cd318893a4df7105efc9c2de44c8dbe33ce53a.jpg)  
+图1词向量的创建流程
+
+经过计算得到单词的上述7种特征值，利用得到的特征值创建特征值向量 $V I { \sim } V 7 _ { \circ }$ 根据在3.1中描述的统计特征的计算公式可知，IG与DD反映单词在语料库中整体的统计特征，向量 $\boldsymbol { \nu } \boldsymbol { \imath }$ 和 $\scriptstyle { V 7 }$ 的维度为1，而 ${ \mathrm { O R } } { \sim } { \mathrm { C C } }$ 记录单词在不同极性文本内的统计特征，因此，向量 $V 2 { \sim } V 6$ 的维度为 $| \varOmega |$ ，其中， $| \varOmega |$ 表示文本集中包含 $| \varOmega |$ 类文本。合并 $\scriptstyle { V I \sim V 7 }$ 构造词向量 $\nu _ { w }$ ，维度为 $5 | \boldsymbol { \varOmega } | + 2$ 。使用情感词典中的所有词向量构造矩阵，分析单词的各种统计特征之间的相关性，保留相对独立的特征。
+
+以'fake对应的词向量 $\boldsymbol { V } _ { \mathrm { { a b } } } ^ { T }$ 的创建过程为例，表2展示了fakefake'在文本集IMDB中的统计特征。
+
+表2'fake'在IMDB内的统计特征  
+
+<html><body><table><tr><td>统计特征</td><td>取值</td><td>统计特征</td><td>取值</td></tr><tr><td>IG(fake)</td><td>-0.2324</td><td>LPR(fake,negative)</td><td>1.0838</td></tr><tr><td>OR(fake,positive)</td><td>-1.1018</td><td>CHI(fake,positive)</td><td>0.0323</td></tr><tr><td>OR(fake,negative)</td><td>1.1018</td><td>CHI(fake,negative)</td><td>0.0323</td></tr><tr><td>MI(fake,positive)</td><td>-0.0122</td><td>CC(fake,positive)</td><td>-10.5477</td></tr><tr><td>MI(fake,negative)</td><td>0.0072</td><td>CC(fake,negative)</td><td>10.5477</td></tr><tr><td>LPR(fake,positive)</td><td>-1.0838</td><td>DD(fake)</td><td>-0.0183</td></tr></table></body></html>
+
+利用特征值创建向量 $\mathrm { V } 1 ^ { \textrm { T } } { \sim } \mathrm { V } 7 ^ { \textrm { T } }$ ，得到'fake最初的数据表达形式 $\boldsymbol { V } ^ { ' T }$ ，格式如下：
+
+$$
+V ^ { ' T } = \binom { - 0 . 2 3 2 4 , - 1 . 1 0 1 8 , 1 . 1 0 1 8 , - 0 . 0 1 2 2 , 0 . 0 0 7 2 , - 1 . 0 8 3 8 , } { 1 . 0 8 3 8 , 0 . 0 3 2 3 , 0 . 0 3 2 3 , - 1 0 . 5 4 7 7 , 1 0 . 5 4 7 7 , - 0 . 0 1 8 3 }
+$$
+
+分析词向量内部各个特征之间的相关性，选取相对独立的统计特征。表3为上单词的统计特征在IMDB语料库中的相关
+
+系数。
+
+表3IMDB内统计特征之间的相关系数  
+
+<html><body><table><tr><td></td><td>IG</td><td>ORpos</td><td>ORg</td><td>MIpos</td><td>MIneg</td><td>LPRpos</td><td>LPRneg</td><td>CHIpos</td><td>CHIeg</td><td>Cpos</td><td>CCneg</td><td>DD</td></tr><tr><td>IG</td><td>1</td><td>-0.11</td><td>0.11</td><td>-0.59</td><td>0.18</td><td>-0.10</td><td>0.10</td><td>0.82</td><td>0.82</td><td>-0.25</td><td>0.25</td><td>-0.32</td></tr><tr><td>ORpos</td><td>-0.11</td><td>1</td><td>1</td><td>0.41</td><td>-0.43</td><td>0.99</td><td>-0.99</td><td>-0.05</td><td>-0.05</td><td>0.80</td><td>-0.80</td><td>0.40</td></tr><tr><td>ORceg</td><td>0.11</td><td>-1</td><td>1</td><td>-0.41</td><td>0.43</td><td>-0.99</td><td>0.99</td><td>0.05</td><td>0.05</td><td>-0.80</td><td>0.80</td><td>-0.40</td></tr><tr><td>MIpos</td><td>-0.59</td><td>0.41</td><td>-0.41</td><td>1</td><td>-0.89</td><td>0.40</td><td>-0.40</td><td>-0.53</td><td>-0.53</td><td>0.80</td><td>-0.80</td><td>0.93</td></tr><tr><td>MIeg</td><td>0.18</td><td>-0.43</td><td>0.43</td><td>-0.89</td><td>1</td><td>-0.42</td><td>0.42</td><td>0.26</td><td>0.26</td><td>-0.84</td><td>0.84</td><td>-0.97</td></tr><tr><td>LPRpos</td><td>-0.10</td><td>0.99</td><td>-0.99</td><td>0.40</td><td>-0.42</td><td>1</td><td>1</td><td>-0.04</td><td>-0.04</td><td>0.79</td><td>-0.79</td><td>0.38</td></tr><tr><td>LPR</td><td>0.10</td><td>-0.99</td><td>0.99</td><td>-0.40</td><td>0.42</td><td>-1</td><td>1</td><td>0.04</td><td>0.04</td><td>-0.79</td><td>0.79</td><td>-0.38</td></tr><tr><td>CHIpos</td><td>0.82</td><td>-0.05</td><td>0.05</td><td>-0.53</td><td>0.26</td><td>-0.04</td><td>0.04</td><td>1</td><td>1</td><td>-0.20</td><td>0.20</td><td>-0.36</td></tr><tr><td>CHLe</td><td>0.82</td><td>-0.05</td><td>0.05</td><td>-0.53</td><td>0.26</td><td>-0.04</td><td>0.04</td><td>1</td><td>1</td><td>-0.20</td><td>0.20</td><td>-0.36</td></tr><tr><td>CCpos</td><td>-0.25</td><td>0.80</td><td>-0.80</td><td>0.80</td><td>-0.84</td><td>0.79</td><td>-0.79</td><td>-0.20</td><td>-0.20</td><td>1</td><td>-1</td><td>0.81</td></tr><tr><td>CCneg</td><td>0.25</td><td>-0.80</td><td>0.80</td><td>-0.80</td><td>0.84</td><td>-0.79</td><td>0.79</td><td>0.20</td><td>0.20</td><td>1</td><td>1</td><td>-0.81</td></tr><tr><td>DD</td><td>-0.32</td><td>0.40</td><td>-0.40</td><td>0.93</td><td>-0.97</td><td>0.38</td><td>-0.38</td><td>-0.36</td><td>-0.36</td><td>0.81</td><td>-0.81</td><td>1</td></tr></table></body></html>
+
+根据统计特征之间的相关系数，选取相对独立的统计特征。实验结果表明，在IMDB中，将相关系数绝对值小于0.85的两个统计特征认定为相对独立时，系统效率最高。最终得到fake的词向量 $\boldsymbol { V } _ { f a k e } ^ { \tau }$ ，格式如下：
+
+$$
+V _ { f a k e } ^ { T } = ( - 0 . 2 3 2 4 , - 1 . 1 0 1 8 , - 0 . 0 1 2 2 , 1 0 . 0 3 2 3 , - 1 0 . 5 4 7 7 )
+$$
+
+# 2.3文本的数据表达
+
+使用基于词袋模型(bagofwords)的方法构造文本的空间向量模型。构造文本向量的表达式如下：
+
+$$
+V _ { T } { = } \sum _ { u = 1 } ^ { | l e x i c o n | } s i g n a l ( w _ { u } ) { \times } V _ { w } ^ { u }
+$$
+
+其中：|lexicon|表示情感词典内单词的数量， $u$ 表示单词在词典中的编号， $s i g n a l ( w _ { u } )$ 为符号函数，指示 $w _ { u }$ 是否在文本 $T$ 中出现，若 $w _ { u } \in T$ 则 $s i g n a l ( w _ { u } ) { = } 1$ ，否则 $s i g n a l ( w _ { u } ) { = } 0 ,$
+
+将语料库中的文本以列表的形式存储，并将列表命名为 $L _ { T }$ 读入情感词典 $L$ 。从 $L _ { T }$ 的表头位置读取文本 $T$ ，创建文本空间向量 $\smash {  { V _ { T } } }$ ，并将该向量初始化为0向量；遍历 $L$ ，若单词 $w$ 属于$T$ 和 $L$ 的交集，则 $V _ { T } = V _ { T } + V _ { w }$ 。
+
+以创建文本 $T$ 的空间向量模型为例，介绍文本向量的构造过程。 $T$ 选自IMDB，具体表述如下：
+
+'Greatmovie and the familywilllove it!Ifkidbe bore one day just pop the tape in and you will be so glad you do!"
+
+遍历 $L$ 得到， ${ \cal T } \cap { \cal L } = \{ \mathrm { ` } g r e a t ^ { \prime } , \mathrm { ' } l o \nu e ^ { \prime } , \mathrm { ' } g l a d ^ { \prime } \}$ 。情感词'great'、'love和 $\prime g l a d `$ 的数据表达格式如下：
+
+$$
+\begin{array} { r } { V _ { g r e a t } ^ { T } = ( 2 . 1 2 7 8 , 0 . 9 5 1 2 , 0 . 0 7 8 3 , 4 . 5 8 7 9 , 3 2 . 3 7 2 5 ) } \\ { V _ { l o \nu e } ^ { T } = ( 1 . 3 1 8 1 , 0 . 8 8 4 8 , 0 . 0 5 8 6 , 2 . 3 4 2 6 , 2 5 . 5 1 2 3 ) } \\ { V _ { g l a d } ^ { T } = ( 0 . 0 3 0 0 , 0 . 3 7 6 0 , 0 . 0 0 2 9 , 0 . 0 0 4 2 , 3 . 8 5 6 5 ) } \end{array}
+$$
+
+该文本的空间向量 $V _ { T } { = } \ : V _ { g r e a t } { + } \ : V _ { l o v e } \ : + \ : V _ { g l a d }$ ，最终的计算结果如下：
+
+$$
+V _ { \scriptscriptstyle T } ^ { \scriptscriptstyle T } = ( 3 . 4 7 5 9 , 2 . 2 1 2 0 , 0 . 1 3 9 8 , 6 . 9 3 4 7 , 6 1 . 7 4 1 3 )
+$$
+
+# 3 文本情感分类测试
+
+本文采用基于统计特征的单词数据表达方法、one-hot-vector方法、基于词频的方法、基于词频-压缩的方法、基于CNN创建单词数据表达的方法，得到情感词的向量模型，并通过Word2Vec 提供的GoogleNews 模型直接得到情感词向量，通过对测试文本进行情感分类，分析以上各种单词数据表达方法对分类算法的影响。其中，one-hot-vector方法和基于单词频率的方法为传统的基于词典的共现频率单词的方法，基于CNN 的单词数据表达方法属于基于神经网络语言模型的方法。实验采用的文本集分别为IMDB、yelp2013、yelp2014，情感词典采用MPQA²。上述文本集的基本信息如表4所示。
+
+表4文本集合的基本信息  
+
+<html><body><table><tr><td rowspan="3"></td><td rowspan="3">文本集</td><td rowspan="3">分 类</td><td rowspan="3">文本 总量</td><td colspan="5">各类情感极性的文本的数量</td></tr><tr><td>high-positive</td><td>positive</td><td>neutral</td><td>negative</td><td>high-negative</td></tr><tr><td>训</td><td>IMDB</td><td>2</td><td>25000</td><td>1</td><td>12500</td><td>1</td><td>12500</td><td>1</td></tr><tr><td>练</td><td>yelp2013</td><td>5</td><td>62522</td><td>17167</td><td>26057</td><td>11989</td><td>5130</td><td>2179</td></tr><tr><td>集</td><td>yelp2014</td><td>5</td><td>183019</td><td>50312</td><td>72740</td><td>36346</td><td>16218</td><td>7231</td></tr><tr><td>测</td><td>IMDB</td><td>2</td><td>25000</td><td>一</td><td>12500</td><td>二</td><td>12500</td><td>一</td></tr><tr><td>试</td><td>yelp2013</td><td>5</td><td>8671</td><td>2447</td><td>3567</td><td>1607</td><td>751</td><td>299</td></tr><tr><td>集</td><td>yelp2014</td><td>5</td><td>25399</td><td>7059</td><td>9946</td><td>5118</td><td>2221</td><td>1055</td></tr></table></body></html>
+
+图2展示了实验的基本流程，该实验包含3个阶段，第一阶段包含三个步骤：文本预处理、统计单词的分布频率、特征值计算；第二阶段同样包含三个步骤：创建词向量、相关性分析、创建文本向量空间模型；第三阶段的任务为文本情感分类。
+
+![](images/d704689e6dc575cf7fcf58abc70849536f6a173bec53b8c3bbb5616d7a820576.jpg)  
+图2实验流程图
+
+该文将在3.1中对文本预处理操作进行详细介绍；第一阶段第2步操作统计情感词在各种情感极性的文本内的分布频率，并将频率信息存入元组 $\varrho$ ，例如'fake'在IMDB内的分布信息为$\scriptstyle Q _ { f a k e } = < 1 1 3 , 1 2 3 8 7 , 3 3 4 , 1 2 1 6 6 >$ ，根据元组记录的信息计算情感词的7种统计特征，其中计算方法如2.1.2所。依据2.2的描述执行第二阶段的前两步操作，即创建词向量、相关性分析，创建词向量最初的表达形式，再通过相关性分析保留词向量内部相对独立的统计特征，最后得到词向量的最终形式；根据2.3的描述，创建文本向量空间模型，实现文本的数据表达。最后执行第7步，将生成的文本向量送入分类器，得到分类结果。
+
+# 3.1文本预处理
+
+实验之前对上述文本集合进行如下操作：a)规范化(normalization)。将文本中出现的大写字母转换为
+
+小写字母，去除文本中包含的特殊符号，使用语义相近的单词替代文本中出现的表情符号（例如：:-D $$ happy'、':-( $^ { \prime } $ 'sad')。
+
+b)词干处理(stemming)。还原文本中出现的名词复数、形容词比较级、动词第三人称单数形式、动词过去式等形式的单词。
+
+c)情感词抽取。被抽取的单词在文本集合中出现的频率大于β(根据上述3个文本集合内单词总量，分别将 $\beta$ 设置为15、35、55)，并且单词属于词典MPQA。
+
+表5展示了预处理操作结束后各文本集合内部的单词总量、单词种类以及情感词种类的统计结果。
+
+表5文本集合内部的单词信息  
+
+<html><body><table><tr><td>语料库</td><td>单词总量</td><td>单词种类</td><td>情感词种类</td></tr><tr><td>IMDB</td><td>6025237</td><td>7666</td><td>2808</td></tr><tr><td>yelp2013</td><td>9901789</td><td>54483</td><td>1914</td></tr><tr><td> yelp2014</td><td>30087844</td><td>98566</td><td>2660</td></tr></table></body></html>
+
+# 3.2创建词向量和文本向量
+
+基于统计特征的单词的数据表达方法根据单词在文本集中的七种特征值创建情感词向量，方法如3.2所述。经过相关性分析后得到在IMDB 中词向量的维度为5，在 yelp2013和yelp2014中词向量的维度均为8。实验表明在IMDB中最佳的统计特征组合为：IG、 $\mathrm { O R } _ { \mathrm { p o s } }$ 、 $\mathrm { M I _ { p o s } }$ 、 $\mathrm { C H I _ { p o s } }$ 、 $\mathrm { C C _ { p o s } }$ ；在yelp2013中最佳的统计特征组合为:IG、ORhigh-pos、ORneutral $\mathbf { M } \mathrm { I _ { n e g } }$ ， $\mathrm { { C H I } _ { \mathrm { { h i g h } } } }$ pos、CHIneutral、CChigh-pos、 $\mathbf { C C _ { \mathrm { { h i g h - n e g } } } }$ ；在 yelp2014 中最佳的统计特征组合为:IG、ORhigh-pos、ORneutral、 $\mathbf { M } \mathrm { I _ { n e g } }$ 、CHIhigh-pos、CHIneutral、CChigh-pos、CCpos o
+
+对比实验中情感词的数据表达方法分别为：one-hot-vector方法、基于单词频率的方法、基于CNN的单词数据表达方法、Word2Vec模型，描述如下：
+
+a)one-hot-vector方法。词向量由0、1组成，向量长度等于情感词典内单词的数量。例如情感词为 $w _ { u }$ ， $\mathrm { ~  ~ u ~ }$ 表示该单词在情感词典中的序号，则该单词对应的one-hot-vector向量的第 $\mathrm { ~  ~ u ~ }$ 位元素为1，其他位置的元素均为0。
+
+b)基于词频的方法。该向量的创建方法与one-hot-vector方法相似，向量长度等于情感词典内的单词数量，在情感词 $w _ { u }$ 对应的词向量中，第 $\mathrm { ~  ~ u ~ }$ 位元素为 $w _ { u }$ 的 TF-IDF 值，其余元素均为0。
+
+c)基于词频-压缩的方法。首先使用基于词频的方法创建文本空间模型，再通过SVD分解矩阵得到奇异值，根据奇异值设置压缩后文本空间的，经过实验可知，当IMDB、yelp2013、yelp2014的文本空间维度分别设置为75、125、130时，分类器具有最佳效果。
+
+d)基于CNN 创建单词数据表达的方法。分别将IMDB、yelp2013、yelp2014作为语料库，CNN根据情感词在对应语料库中的分布信息生成单词的数据表达模型。生成词向量的维度分别设置为5、10、20、30、40、50、60，实验证明向量维度为40时分类效率达到最优。
+
+e)Word2Vec 模型。通过Word2Vec 对谷歌新闻语料库(大约包含1000亿个单词)进行训练得到的单词的数据表达模型。该模型包含三百万个词向量，由于模型设置的缺省向量维度为300，因此实验不再修改向量维度。
+
+实验中采用基于词袋模型的方法创建文本向量空间模型，向量的创建方法与图2中步骤6的描述相同。
+
+# 3.3文本情感分类
+
+实验依次选择支持向量机(SVM)、朴素贝叶斯(naiveBayes)决策树(decisiontree）、随机森林(randomforest)作为分类算法，用于测试上述文本的数据表示方法对分类算法效率的影响程度。其中，实验使用数据处理工具Weka提供的分类器，分类器的参数为Weka设置的缺省值。
+
+SVM分类算法的核心观点是通过运算找到一个超平面，利用该平面能够将具有某一类特征的数据从整个数据集中分离。实验表明 SVM 算法在文本情感分类研究中具有较高的效率[27]。
+
+朴素贝叶斯是一种简单的分类算法，该算法求解给定的分类项出现的条件下各个类别出现的概率，将分类项归属于出现概率最大的类别。朴素贝叶斯分类器被普遍应用于文本分类[28]和垃圾邮件过滤[29]。
+
+决策树又称判定树，是一种树型结构，分支节点表示对某一属性的一次检测，每条边为对应的测试结果，叶节点表示类别标记。决策树的执行过程从根节点开始，待分类项与中间节点中的属性进行比较，根据比较结果选择对应的分支，直到叶节点确定待分类项的类别。决策树算法在文本特征提取中具有较高的效率[30]。
+
+随机森林是一种将多棵树集成为一体的学习算法，该算法的基本单元为决策树。对于待分类项，多棵决策树会有多种不同的投票结果，随机森林将待分类项划分到投票次数最多的类型中。Buscaldi[31]证明随机森林在语义相似性计算中的效率优于其他分类器。
+
+# 4 实验结果及分析
+
+# 4.1实验结果展示
+
+表6展示了文本情感分类的结，加粗字体表示分类器的准确率能够达到的最大值。实验结果表明，与其他的数据表达方法相比，基于统计特征创建文本数据表达的方法使分类算法具有更高的准确率。当采用统计特征进行文本数据表达时，使用SVM分类器对IMDB、yelp2013、yelp204进行情感分类的准确率依次为： $84 . 2 \%$ 、 $50 . 4 \%$ 、 $4 8 . 1 \%$ ；使用朴素贝叶斯分类器对上述文本集进行分类的准确率分别为： $8 1 . 0 \%$ 、 $3 9 . 6 \%$ 、 $3 9 . 1 \%$ ；使用决策树分类器的结果分别为： $8 3 . 9 \%$ 、 $4 2 . 6 \%$ 、 $4 0 . 7 \%$ ；使用随机森林的分类结果依次为 $84 . 2 \%$ ， $49 . 3 \%$ 、47.6。SVM在文本情感分类测试中具有最高的准确率，朴素贝叶斯算法更适合对基于词典的共现频率方法创建文本向量进行分类测试，随机森林的分类效果优于决策树的分类效果。
+
+表6文本分类结果  
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">Method</td><td colspan="2">IMDB</td><td colspan="2">yelp2013</td><td colspan="2">yelp2014</td></tr><tr><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td></tr><tr><td rowspan="6">S</td><td>one-hot-vector</td><td>77.6%</td><td>77.6%</td><td>49.2%</td><td>47.6%</td><td>46.1%</td><td>45.3%</td></tr><tr><td>单词频率</td><td>74.2%</td><td>74.2%</td><td>47.4%</td><td>46.2%</td><td>44.5%</td><td>43.7%</td></tr><tr><td>单词频率-压缩</td><td>65.1%</td><td>65.1%</td><td>43.5%</td><td>44.7%</td><td>41.1%</td><td>42.6%</td></tr><tr><td>Word2Vec</td><td>83.0%</td><td>83.02%</td><td>51.0%</td><td>49.9%</td><td>48.7%</td><td>47.3%</td></tr><tr><td>CNN</td><td>66.8%</td><td>66.8%</td><td>41.1%</td><td>42.0%</td><td>39.1%</td><td>39.2%</td></tr><tr><td>统计特征</td><td>84.2%</td><td>84.2%</td><td>50.4%</td><td>51.5%</td><td>48.1%</td><td>48.3%</td></tr><tr><td>朴</td><td>one-hot-vector</td><td>79.8%</td><td>79.8%</td><td>44.2%</td><td>43.8%</td><td>42.8%</td><td>42.2%</td></tr><tr><td>素</td><td>单词频率</td><td>81.5%</td><td>81.5%</td><td>42.4%</td><td>41.3%</td><td>40.1%</td><td>39.9%</td></tr><tr><td>贝</td><td>单词频率-压缩</td><td>70.9%</td><td>71.0%</td><td>39.1%</td><td>38.6%</td><td>35.4%</td><td>34.6%</td></tr><tr><td>叶</td><td>Word2Vec</td><td>70.3%</td><td>70.3%</td><td>38.7%</td><td>39.5%</td><td>36.9%</td><td>36.1%</td></tr><tr><td>斯</td><td>CNN</td><td>59.0%</td><td>59.1%</td><td>35.7%</td><td>37.2%</td><td>34.2%</td><td>34.6%</td></tr><tr><td></td><td>统计特征</td><td>81.0%</td><td>81.0%</td><td>39.6%</td><td>40.3%</td><td>39.1%</td><td>39.3%</td></tr><tr><td rowspan="6">决策 树</td><td>one-hot-vector</td><td>65.2%</td><td>65.2%</td><td>34.2%</td><td>34.0%</td><td>32.1%</td><td>32.4%</td></tr><tr><td>单词频率</td><td>63.9%</td><td>63.9%</td><td>33.2%</td><td>32.9%</td><td>32.3%</td><td>32.0%</td></tr><tr><td>单词频率-压缩</td><td>60.1%</td><td>60.1%</td><td>32.5%</td><td>32.6%</td><td>31.8%</td><td>32.1%</td></tr><tr><td>Word2Vec</td><td>67.9%</td><td>66.0%</td><td>35.8%</td><td>35.7%</td><td>33.7%</td><td>33.8%</td></tr><tr><td>CNN</td><td>59.6%</td><td>59.7%</td><td>32.1%</td><td>32.0%</td><td>30.9%</td><td>31.3%</td></tr><tr><td>统计特征</td><td>83.9%</td><td>84.0%</td><td>42.6%</td><td>44.0%</td><td>40.7%</td><td>41.3%</td></tr><tr><td></td><td>one-hot-vector</td><td>70.2%</td><td>70.2%</td><td>43.5%</td><td>43.3%</td><td>42.6%</td><td>42.6%</td></tr><tr><td>随</td><td>单词频率</td><td>69.3%</td><td>69.3%</td><td>42.6%</td><td>43.0%</td><td>41.3%</td><td>41.7%</td></tr><tr><td>机</td><td>单词频率-压缩</td><td>65.5%</td><td>65.5%</td><td>40.7%</td><td>40.1%</td><td>39.8%</td><td>39.4%</td></tr><tr><td>森</td><td>Word2Vec</td><td>79.6%</td><td>79.6%</td><td>45.1%</td><td>45.2%</td><td>44.6%</td><td>44.4%</td></tr><tr><td>林</td><td>CNN</td><td>65.3%</td><td>65.3%</td><td>42.7%</td><td>43.5%</td><td>40.9%</td><td>41.1%</td></tr><tr><td></td><td>统计特征</td><td>84.2%</td><td>84.3%</td><td>49.3%</td><td>50.9%</td><td>47.6%</td><td>48.1%</td></tr></table></body></html>
+
+# 4.2 实验结果分析
+
+对IMDB文本集的分类问题属于二分类问题，对yelp2013、yelp2014文本集的分类属于五分类问题，实验结果显示，文本情感分类的结果显示，所有分类器在二分类问题中的准确率明显高于在五分类问题中的准确率。产生该现象的原因有以下三点：a）yelp2013/14内文本数量庞大，造成大量出现在yelp2013/14中的情感词没有被 MPQA 收录；b)词典 MPQA只包含情感词，忽略了由非情感词组成的情感短语，例如："itwasontime"，从单词层次分析，'it'、'was'、'on'和'time'单独在文本中出现时均不具有表达情感的能力，但是从短语层次分析，该短语表示"准时"，在客户评论中能够表达积极性观点；c)yelp2013/14内包含大量讽刺、否定、转折句式，但是基于词袋模型创建文本向量的方法忽略了这些信息。压缩文本空间模型能够节省计算资源，缩减分类算法的运行时间。通过压缩原矩阵生成低阶近似矩阵虽然能够有效缩减文本空间模型的维度，但是在一定程度上舍弃部分信息，使得基于词频的方法创建的文本空间模型在情感分类测试中的准确率高于基于词频-压缩的方法。相比基于CNN的单词数据表达方法，使用Word2Vec模型创建的词向量在文本分类测试中具有更高的准确率。其原因是Word2Vec 模型使用谷歌新闻作为训练语料库(大约包含1000亿个单词)，其规模远远大于IMBD、yelp2013/14(IMDB包含6025237个单词、yelp2013包含9901789个单词、yelp2014包含30087844个单词)，使得Word2Vec 模型创建的词向量更能够准确反映情感词的特征。并且，Word2Vec创建的词向量包含300个特征，而基于CNN创建的词向量只包含30个特征，特征数量在一定程度上影响了分类器的准确率。
+
+该实验使用词袋模型创建文本的数据表达，该方法将文本中出现的单词作为独立的个体，因此，使用该方法创建的文本向量无法记录单词之间的位置信息，进而忽略了单词间的语法依赖关系。由于语言表达存在领域依赖性(domain dependence),即某些单词只有在特定类型的文本或者上下文环境中才具有表达情感的能力(例如：'refund的意思为'退货，该单词通常只在商品评论中表达消极情感)，使得文本集内存在大量单词具有表达情感的能力，但是这些单词没有被MPQA收录。因此，领域依赖性造成文本分类测试的情感词数量不足，降低分类算法的准确率。对比四种不同的分类器可知，SVM 更适合对文本进行情感分类，与朴素贝叶斯和决策树相比，SVM具有更高的准确率，并且SVM通过计算距离实现文本分类，不必计算文本特征的先验概率和最大熵。虽然随机森林的准确率与SVM相当，但是随机森林的执行过程占用大量计算资源，难以实时有效的处理大规模数据。
+
+由对照实验可知，基于统计特征创建单词和文本的数据表达的方法能够有效降低文本向量的维度，具有隐性语义空间(LSA/SVD)的压缩效果。基于统计特征创建文本向量的方法有效的减小了数据规模，降低了分类算法的复杂度，相较于基于Word2Vec 模型的单词数据表达方法和one-hot-vector方法，该方法具有更高的实时性，适用对大规模文本集进行情感分类。
+
+# 5 结束语
+
+本文提出一种通过计算单词在文本集内的7中常见的分布特征，并且将七种统计特征进行组合，以低维向量的形式表示单词。实验结果显示，与其他单词的数据表达方法相比，该方法能够在保证分类算法准确率的前提下，有效的降低算法的时间和空间复杂度。下一步研究将检验该方法用在文本情感分析的其他领域中的作用例如：假新闻识别、讽刺和隐喻分析、情感强度计算。
+
+# 参考文献：
+
+[1]Gliozzo A, Strapparava C.Domain kernels for text categorization [C]//Proc of the 9th Conference on Computational Natural Language Learning. Stroudsburg:Association for Computational Linguistics,2oo5:56-63.   
+[2]May C,Ferraro F,McCree A,et al. Topic identification and discovery on text and speech [C]//Proc of Conference on Empirical Methods in Natural Language Processing.2015:2377-2387.   
+[3]Wang P, Qian Y, Soong F.K,et al.Aunified tagging solution: Bidirectional LSTM recurrent neural network with word embedding [J].arXiv:1511. 00215vl [cs.CL],2015.   
+[4] Saric,F,Glavas G,Karan M,et al. Takelab: Systems for measuring semantic text similarity [C]//Proc of the lst Joint Conference on Lexical and Computational Semantics.2012: 441-448.   
+[5]Iacobacci I，Pilehvar M.T,Navigli R.Sensembed:learning sense embeddings for word and relational similarity[C]//Proc of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing.2015: 95- 105.   
+[6]Kim Y. Convolutional neural networks for sentence clasification [C]//Proc ofConference on Empirical Methods in Natural Language Processing. 2014: 1746-1751.   
+[7]Zhang H,Wang J,Zhang J,et al. Ynu-hpcc at semeval 2O17 task 4: using a multi-channel cnn-lstm model for sentiment classification [C]//Proc of the 11th International Workshop on Semantic Evaluation.2017: 796-801.   
+[8] Chetviorkin I,Loukachevitch N.Two-step model for sentiment lexicon extraction from Twitter streams[C]//Proc of the 5th Workshop on Computational Approaches to Subjectivity,Sentiment and Social Media Analysis. 2014: 67-72.   
+[9]Pang B,Lee L，Shivakumar Vaithyanathan．Thumbsup?Sentiment classification using machine learning techniques [C]// Proc of Conference on Empirical Methods in Natural Language Processing.20o2: 79-86.   
+[10] Mikolov T, Chen Kai,Greg Corrado,et al. Efficient estimationof word representations invector space [J].arXiv:1301.3781v3 [cs.CL],2013.   
+[11] Mikolov T,Sutskever I, Chen K,et al. Distributed representations of words and phrasesand theircompositionality[C]//Advances in Neural Information Processing Systems.2013: 3111-3119.   
+[12] Mikolov T, Yih WT, Zweig G.Linguistic regularities in continuous space Word representations [C]//Proc of NAACL-HLT.2013: 746-751.   
+[13]Pennington J,Socher R，Manning C.Glove:global vectors forword representation [C]// Proc of Conference on Empirical Methods in Natural Language Processing. 2014: 1532-1543.   
+[14] Weston J,Ratle F,Mobahi H,et al.Deep learningvia semi-supervised embedding [M//Neural Networks: Tricks of the Trade.Berlin: Springer, 2012. 639-655.   
+[15] MengF,Lu Z,Wang M,et al.Encoding source language with convolutional neural network for machine translation[C]// Proc of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing,2015:20- 30.   
+[16] Segura-Bedmar I, Suarez-Paniagua V, Martinez P.Exploringword embedding for drug name recognition [C]//Proc of the 6th International Workshop on Health Text Mining and Information Analysis.2015: 64-72.   
+[17] Yang J,Peng B, Wang J,et al. Chinese grammatical error diagnosis using single word embedding[C]//Proc of the 3rd Workshop on Natural Language Processing Techniques for Educational Applications. 2016: 155-161.   
+[18] Ghosal D,Bhatnagar S,Akhtar M.S,et al.ITPat SemEval-2017 task 5: an ensemble of deep learningand feature based models for financial sentiment analysis[C]// Proc of the 11th International Workshop on Semantic Evaluation. 2017: 899-903.   
+[19] Lee Y. Y,Ke H, Huang H. H,et al. Combining word embedding and lexical database for semantic relatedness measurement [C]// Proc of the 25th International Conference Companion on World Wide Web.2016: 73-74.   
+[20] Rajeswari K,Nakil S,Patil N,et al. Text categorization optimization bya hybrid approach using multiple feature selection and feature extraction methods [J]. International Journal of Engineering Research and Applications, 2014, 4 (3): 86-90.   
+[21] Uysal A K.An improved global feature selection scheme for text classification[J].Expert Systems with Applications,2016,43: 82-92.   
+[22] Novovicov'a Jana,Mal'ik Antonin,Pudil Pavel. Feature selection using improved mutual information for text clasification [C]// Proc of the Joint IAPR International Workshop on Structural, Syntactic,and Statistical Pattern Recognition. 2004:1010-1017.   
+[23] Mesleh AA. Chi square feature extraction based svms arabic language text categorization system[J]. Journal of Computer Science,2007,3(6): 430- 435.   
+[24] Mitra P, Murthy C A,Sankar K. P. Unsupervised feature selection using featuresimilarity[J].IEEE Trans on Pattern Analysisand Machine Intelligence,2002,24(3):301-312.   
+[25] Habibi M,Popescu-Belis A.Keyword extraction and clustering for document recommendation in conversations [J]. IEEE//ACM Trans on Audio,Speech,and Language Processing,2015,23(4): 746-759.   
+[26]韩彤晖，杨东强，马宏伟．单词统计特性在情感词自动抽取和商品评论 分类中的作用[J/OL].2019,36(3).[2018-02-02].http://www.arocmag. com/article/02-2019-03-010.html.   
+[27] Duwairi R. M, Qarqaz I. Arabic sentiment analysis using supervised classification [Cl// Proc of International Conference on Future Internet of Things and Cloud. 2014: 579-53.   
+[28] LoharP,ChowdhuryK.D,AfliH,et al.ADAPTat IJCNLP-2017 Task 4: a multinomial naive Bayes classification approach for customer feedback analysis task[C]//Proc of the 8th International Joint Conferenceon Natural Language Processing. 2017: 161-169.   
+[29] Esmaeili M, Arjomandzadeh A, Shams R,et al. An anti-spam system using naive Bayes method and feature selection methods [J]. International Journal of Computer Applications,2017,165 (4): 1-5.   
+[30] Kotani K,Yoshimi T.Effectiveness of linguistic and learner features to listenability measurement using a decision tree classifier[J]. Journal of Information and Systems in Education,2016,16(1): 7-11   
+[31] Buscaldi D,Flores J. G,Meza I. V,etal.OPA: randomforests regression for the semantic textual similarity task [C]//Proc of the 9th International Workshop on Semantic Evaluation.2015: 132-133.

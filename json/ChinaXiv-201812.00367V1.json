@@ -1,0 +1,430 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮蛋氨酸水平对羊驼生产性能、养分表观消化率和血清生化指标的影响 郝薪云」林英庭」刘迎春²宋玉芹 $^ 1$ 朱风华」王述柏 1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.青岛农业大学动物科技学院，青岛 266109；2.青岛市畜牧兽医研究所，青岛 266000）摘要：本试验旨在研究饲粮蛋氨酸水平对羊驼生产性能、养分表观消化率和血清生化指标的影响。选用体重相近的26月龄母羊驼9只，随机分为3个组，每组3个重复，每个重复1只。各组饲粮蛋氨酸水平分别为 $0 . 1 6 \\%$ 、 $0 . 3 2 \\%$ 、 $0 . 6 4 \\%$ ，采用全混合日粮进行饲养试验和代谢试验。预试期7d，正试期 $6 0 \\mathrm { d }$ 。结果表明：1) $0 . 3 2 \\%$ 组和 $0 . 6 4 \\%$ 组羊驼平均日采食量、平均日增重、单位体表面积产毛量显著高于 $0 . 1 6 \\%$ 组（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ， $0 . 3 2 \\%$ 组略高于 $0 . 6 4 \\%$ 组（ $P$ >0.05)。2）粗蛋白质、中性洗涤纤维、粗纤维和钙表观消化率均以 $0 . 3 2 \\%$ 组最高，与 $0 . 1 6 \\%$ 组差异显著 ( $_ { \\cdot P < 0 . 0 5 ) }$ ； $0 . 3 2 \\%$ 组酸性洗涤纤维表观消化率显著高于 $0 . 6 4 \\%$ 组（ $. P { < } 0 . 0 5 ^ { \\cdot }$ $0 . 3 2 \\%$ 组和 $0 . 6 4 \\%$ 组蛋氨酸表观消化率极显著高于 $0 . 1 6 \\%$ 组（ $P { < } 0 . 0 1$ )。3）各组间羊驼血清谷丙转氨酶、谷草转氨酶、碱性磷酸酶活性及甘油三酯、葡萄糖、尿素氮和总蛋白含量均无显著差异（ $P { > } 0 . 0 5 )$ 。由此可见，在本试验条件下，母羊驼饲粮适宜蛋氨酸水平为 $0 . 3 2 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：羊驼；蛋氨酸；生产性能；养分表观消化率；血清生化指标中图分类号：S816.7 文献标识码：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "羊驼（alpaca）是我国从澳大利亚引进的动物新物种，原产于亚马逊河上游的安第斯山脉，具有极强的环境适应能力与耐粗饲能力[1。羊驼属毛肉兼用的草食家畜，驼绒柔顺亮滑，价格昂贵，国际上被誉为“软黄金”[2]。羊驼外貌独特，性情温顺，作为动物园和旅游景点的观赏动物颇受人们喜爱[3]。近年来，羊驼在我国受到广泛欢迎，据不完全统计，2015年我国已拥有羊驼3500只，新疆、山西、河南、山东等地羊驼养殖业均已进入起步阶段[4。但目前我国对羊驼饲料和营养需要方面的研究报道很少，国内缺乏羊驼的饲养标准，因此生产中羊驼的饲料配制缺乏可参考的营养标准。蛋氨酸（Met）是动物合成蛋白质的重要限制性氨基酸之一。动物饲粮中普遍采用额外添加适量蛋氨酸的方法满足动物的需求[5]。目前，羊驼的蛋氨酸需要量鲜见报道。Moore 等报道，在羊驼饲粮中添加2、4g蛋氨酸饲喂4\\~7周，羊驼毛纤维直径显著增加。燕磊等[7在小尾寒羊饲粮中添加 $0 . 2 4 3 \\% { \\sim } 0 . 9 7 1 \\%$ 瘤胃保护性蛋氨酸，发现饲粮中蛋氨酸适宜添加量为 $0 . 4 8 5 \\%$ 。本试验参考国内外羊驼蛋氨酸营养及绵羊饲粮蛋氨酸营养水平研究方面的相关文献进行试验设计，在成年母羊驼饲粮中添加不同水平蛋氨酸，测定其生产性能、养分表观消化率和血清生化指标，旨在探讨成年母羊驼饲粮中的适宜蛋氨酸水平，为其饲粮的合理配制提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用健康无病、26月龄、体重 $[ ( 6 2 . 7 7 \\pm 1 . 0 6 ) \\mathrm { k g } ]$ 相近的成年母羊驼9只，随机分成3个组，每组3个重复，每个重复1只，单圈饲养。3组均饲喂全混合日粮，饲粮蛋氨酸水平参考相关文献[6-9]分别设置为 $0 . 1 6 \\%$ 、 $0 . 3 2 \\%$ 、 $0 . 4 8 \\%$ ，其他营养水平一致。试验饲粮组成及营养水平见表1。试验预试期7d，正试期 $6 0 \\mathrm { d }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b2291ab7fd37caffb530227d5f2be1f9b3425e9876d696ade4466cf166a09ec.jpg",
+        "table_caption": [
+            "表1试验饲粮组成及营养水平 (风干基础)",
+            "Table 1Composition and nutrient levels of experimental diets (air-dry basis) ",
+            "原料Ingredients"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td colspan=\"3\">饲粮蛋氨酸水平 Dietary Met level/%</td></tr><tr><td></td><td>0.16</td><td>0.32</td><td>0.64</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/91865bc1d11fabb2fe416e1a81e8fc8e0d9d1284ad625190d284f225a1bf34e7.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "1’预混料为每千克饲粮提供 The premix provided the following per $\\mathrm { k g }$ of diets: VA 7 500 IU，VD 2 250 IU，VE 250 IU, $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 } 1 . 8 \\ \\mathrm { g }$ ， $\\mathrm { M g O } 0 . 5 \\ : \\mathrm { g }$ ， $\\mathrm { C u S O _ { 4 } } 1 7 . 9 \\mathrm { m g }$ ， $Z n S O _ { 4 } 5 0 . 5 \\mathrm { m g }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>玉米Corn</td><td>22.25</td><td>22.45</td><td>22.90</td></tr><tr><td>小麦麸 Wheat bran</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>豆粕 Soybean meal</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>1.05</td><td>1.05</td><td>1.05</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>食盐 NaCl</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>苜蓿Alfalfa</td><td>16.50</td><td>16.40</td><td>16.80</td></tr><tr><td>花生秧 Peanut vine</td><td>19.25</td><td>19.29</td><td>18.42</td></tr><tr><td>玉米干酒糟及其可溶物 Corn</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>DDGS</td><td></td><td></td><td></td></tr><tr><td>次粉 Wheat middling</td><td>8.00</td><td>8.00</td><td>8.00</td></tr><tr><td>玉米秸秆 Corn stover</td><td>26.30</td><td>26.00</td><td>25.70</td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td></td><td>0.16</td><td>0.48</td></tr><tr><td>预混料 Premixl)</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2</td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>9.72</td><td>9.72</td><td>9.72</td></tr><tr><td>粗蛋白质CP</td><td>8.73</td><td>8.75</td><td>8.76</td></tr><tr><td>钙Ca</td><td>0.76</td><td>0.76</td><td>0.75</td></tr><tr><td>磷P</td><td>0.52</td><td>0.50</td><td>0.51</td></tr><tr><td>蛋氨酸 Met</td><td>0.16</td><td>0.32</td><td>0.64</td></tr><tr><td>赖氨酸 Lys</td><td>0.41</td><td>0.40</td><td>0.42</td></tr><tr><td>粗纤维CF</td><td>21.40</td><td>21.29</td><td>21.04</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>28.00</td><td>27.87</td><td>27.50</td></tr><tr><td>中性洗涤纤维 NDF</td><td>41.73</td><td>41.54</td><td>41.07</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MnSO4 68.9 mg，KI 20 mg，Na2SeO3 50 mg， CoCl 38.3 mg。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "羊驼舍为敞棚开放式，避风、向阳、干燥、通风良好。试验开始前对羊驼舍、食槽、水槽、地面及过道等进行全面清洗、消毒。试验羊驼入舍前对其进行编号、防疫和驱虫。试验期间羊驼均自由采食和饮水。对羊驼舍每天清扫，定期消毒，保持羊驼舍干净卫生。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 指标测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 生产性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "正试期开始后，每天准确记录喂料量和剩料量。饲料样品和每天的剩料均密封后，于-20℃冷冻保存，用于检测干物质（DM）含量。分别于正试期第1天、第60天早晨空腹称体重，计算平均日增重（ADG)。正试期开始后，采用手工剪毛方式剃光臀部左上侧近背部$1 5 \\mathrm { c m } \\times 1 5 \\mathrm { c m }$ 面积毛样，正试期结束时采集该部位毛样并称重，计算单位体表面积产毛量号 $\\mathrm { \\langle { m g / c m ^ { 2 } } \\rangle }$ ）°",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每日干物质采食量 $\\scriptstyle \\cdot =$ 每日饲粮饲喂量 $\\times$ 干物质含量-每日饲粮剩余量 $\\times$ 干物质含量;平均日增重 $\\vdots =$ （末重-始重）/试验天数；单位体表面积产毛量（ $\\mathrm { m g / c m } ^ { 2 }$ ） $\\scriptstyle =$ 试验期间产毛重／（ $1 5 \\times 1 5$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 养分表观消化率 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于正试期的第30天开始代谢试验，将羊驼饲养于专用的代谢笼内，采用全收粪法进行代谢试验，预试期7d，正试期 $3 \\mathrm { d }$ 。每天准确记录投料量及剩料量，并收集每天的剩料，于65 $\\mathrm { { } ^ { \\circ } C }$ 烘干制成风干样后保存备用。每期消化代谢试验连续3d收集全部粪样、尿样，准确称重。用 $10 \\%$ 盐酸溶液固氮，于-20℃冷冻待测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲料和粪样各养分含量检测：粪样室温解冻、混匀后65℃烘箱内烘干至恒重，制成风干样品，采用文献[10]方法测定干物质含量；采用凯氏定氮法（GB/T6432—1994）测定粗蛋白质（CP）含量；采用残余法（GB/T6433—2006）测定粗脂肪（EE）含量；采用 NY/T1459—2007的方法测定酸性洗涤纤维（ADF）含量；采用滤袋技术用ANKOMA200i型半自动纤维分析仪测定粗纤维（CF）含量；采用GB/T20806—2006的方法测定中性洗涤纤维（NDF）含量；采用高锰酸钾滴定法（GB/T6436—2002）测定钙（Ca）含量；采用分光光度法（GB/T6437—2002）测定磷（P）含量；采用日立L-8900 高速氨基酸分析仪测定蛋氨酸、赖氨酸（Lys）含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 血清生化指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验结束当天，每只羊驼晨饲前空腹颈静脉采血 $5 \\mathrm { m L }$ ，静置 $2 \\mathrm { h }$ 后 $3 ~ 5 0 0 ~ \\mathrm { r / m i n }$ 离心10min，于-20℃冰箱中保存待测。检测血清的谷丙转氨酶、谷草转氨酶、碱性磷酸酶活性及甘油三酯、葡萄糖、尿素氮、总蛋白含量。采用日立7600 生化全自动分析仪检测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用 Excel2016软件对试验数据进行初步处理。使用 SPSS 20.0软件进行统计处理，用Duncan氏法进行组间差异显著性检验，结果以“平均值士标准差”表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮蛋氨酸水平对羊驼生产性能的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲粮蛋氨酸水平对羊驼生产性能的影响见表2。3组间羊驼始重、末重无显著差异（ $P$ ${ > } 0 . 0 5 { : }$ 。 $0 . 3 2 \\%$ 组和 $0 . 6 4 \\%$ 组羊驼平均日采食量、平均日增重、单位体表面积产毛量显著高于 $0 . 1 6 \\%$ 组（ $. P { < } 0 . 0 5 )$ ， $0 . 3 2 \\%$ 组略高于 $0 . 6 4 \\%$ 组（ $P { > } 0 . 0 5 )$ )°",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2饲粮蛋氨酸水平对羊驼生产性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe6fdd85527451ad1f6c146c0eeda15ecd5efc168b8979be46419fe9b5e83f5d.jpg",
+        "table_caption": [
+            "Table 2Effects of dietary Met level on performance of alpacas "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">饲粮蛋氨酸水平 Dietary Met level/%</td></tr><tr><td>项目</td><td>0.16 0.32</td><td></td></tr><tr><td>Items</td><td></td><td>0.64</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/15b8a0a0a9c2a55e3b7862817cdc7469fd0dbbebf8f2d2dfd4035103f040e618.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>始重 BW/kg</td><td>63.78±3.45</td><td>61.98±4.07</td><td>63.26±3.31</td></tr><tr><td>末重BW/kg</td><td>65.45±3.23</td><td>64.08±3.65</td><td>65.22±4.27</td></tr><tr><td>平均日增重 ADG/g</td><td>27.84±5.95b</td><td>35.00±4.33a</td><td>32.67±4.11a</td></tr><tr><td>平均日采食量 ADFI/kg</td><td>1.69±0.21b</td><td></td><td></td></tr><tr><td></td><td></td><td>2.00±0.04a</td><td>1.98±0.09a</td></tr><tr><td>单位体表面积产毛量</td><td></td><td></td><td></td></tr><tr><td>AWG/（mg/cm²）</td><td>10.09±0.56b</td><td>11.96±0.50a</td><td>11.17±0.91a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \\ )$ ，不同大写字母表示差异极显著1 $\\cdot P { < } 0 . 0 1 \\cdot$ )，相同或无字母表示差异不显著（ $\\cdot P { > } 0 . 0 5 \\$ )。下表同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with different small leter superscripts mean significant difference （204号 $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 饲粮蛋氨酸水平对羊驼养分表观消化率的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲粮蛋氨酸水平对羊驼养分表观消化率的影响见表3。 $0 . 3 2 \\%$ 组的粗蛋白质和中性洗涤 纤维表观消化率最高，与其他2组差异显著（ $. P { < } 0 . 0 5 \\$ 。 $0 . 3 2 \\%$ 组的粗脂肪和总磷表观消化率 略高于 $0 . 1 6 \\%$ 组和 $0 . 6 4 \\%$ 组（ $\\cdot P { > } 0 . 0 5$ )。 $0 . 3 2 \\%$ 组的钙表观消化率显著高于 $0 . 1 6 \\%$ 组（ $. P { < } 0 . 0 5 )$ ， 略高于 $0 . 6 4 \\%$ 组 $\\cdot P { > } 0 . 0 5$ ）。 $0 . 3 2 \\%$ 组的酸性洗涤纤维表观消化率显著高于 $0 . 6 4 \\%$ 组 $. P { < } 0 . 0 5 )$ 。 $0 . 3 2 \\%$ 组的粗纤维表观消化率显著高于 $0 . 1 6 \\%$ 组 $( P { < } 0 . 0 5 )$ ，略高于 $0 . 6 4 \\%$ 组 $\\cdot P { > } 0 . 0 5$ )。 $0 . 3 2 \\%$ 组和 $0 . 6 4 \\%$ 组的蛋氨酸表观消化率极显著高于 $0 . 1 6 \\%$ 组（ $_ { . } { P } { < } 0 . 0 1 \\$ )° ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3饲粮蛋氨酸水平对羊驼养分表观消化率的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a86fc608274c70fce29541c4d1535d6f63be89033e42e0ddf2110d84aa39fccf.jpg",
+        "table_caption": [
+            "Table 3Effects of dietary Met level on nutrient apparent digestibility of alpacas $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目</td><td colspan=\"2\">饲粮蛋氨酸水平DietaryMetlevel/%</td></tr><tr><td>0.16</td><td></td></tr><tr><td>Items</td><td></td><td>0.64</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/543df8294fe1f85f816aa316eab1607f768e1b961f78ae8cbc774c6d6182067d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\"></td></tr><tr><td>粗蛋白质CP</td><td>81.82±0.23b</td><td>83.74±0.42a</td><td>82.25±1.14b</td></tr><tr><td>粗脂肪 EE</td><td>83.72±0.78</td><td>85.57±0.10</td><td>84.64±1.50</td></tr><tr><td>总磷TP</td><td>78.61±0.76</td><td>80.37±0.03</td><td>79.46±2.44</td></tr><tr><td>钙Ca</td><td>78.69±0.70b</td><td>81.44±0.22a</td><td>80.77±2.05ab</td></tr><tr><td>中性洗涤纤维 NDF</td><td>86.66±0.53b</td><td>90.38±0.34a</td><td>86.30±2.97b</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>78.28±0.50ab</td><td>81.76±0.91a</td><td>77.80±3.12b</td></tr><tr><td>粗纤维CF</td><td>85.33±0.47b</td><td>86.98±0.46a</td><td>86.26±1.18ab</td></tr><tr><td>蛋氨酸Met</td><td>80.40±0.60Bb</td><td>91.11±1.81Aa</td><td>93.57±1.67Aa</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3饲粮蛋氨酸水平对羊驼血清生化指标的影响 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "饲粮蛋氨酸水平对羊驼血清生化指标的影响见表4。3组间羊驼血清谷丙转氨酶、谷草转氨酶、碱性磷酸酶活性无显著差异（ $\\vert P { > } 0 . 0 5 \\rangle$ )，3组间羊驼血清甘油三酯、葡萄糖、总蛋白含量亦无显著差异（ $\\cdot P { > } 0 . 0 5 .$ )，血清尿素氮含量随饲粮蛋氨酸水平增加呈升高趋势（ $P >$ 0.05)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4饲粮蛋氨酸对羊驼血清生化指标的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/281c9d757eedb2716aeba0f42d9719ae1da77e7884ce0fcdd4316ab28eb5f7a1.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary Met level on serum biochemical indexes of alpacas "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"3\">饲粮蛋氨酸水平 Dietary Met level/%</td></tr><tr><td>0.16</td><td>0.32</td><td>0.64</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>7.00±2.65</td><td>7.67±3.21</td><td>6.67±2.08</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>220.33±12.66</td><td>214.67±11.37</td><td>223.02±14.18</td></tr><tr><td>碱性磷酸酶 ALP/(U/L)</td><td>63.33±9.50</td><td>62.33±7.51</td><td>61.67±8.33</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.36±0.05</td><td>0.36±0.03</td><td>0.34±0.02</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>6.90±0.49</td><td>6.85±0.34</td><td>7.93±1.22</td></tr><tr><td>尿素氮 UN/（mmol/L）</td><td>6.65±0.70</td><td>6.87±0.61</td><td>7.15±1.02</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮蛋氨酸水平对羊驼生产性能的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "羊驼在我国的饲养历史仅20余年，在营养需求、繁育、疾病控制等各方面仍处研究探索阶段，目前我国有关饲粮蛋氨酸对羊驼生产性能方面的影响研究报道很少。羊驼属草食动物，消化器官解剖学构造类似于反刍动物羊和骆驼等，但有其独特之处，如羊驼只有3个胃[]。王杰等[12]研究发现，饲粮蛋氨酸水平低时会显著降低羔羊生长性能和屠宰性能。毛成文[13]研究发现，随着饲粮氨基酸水平升高，肉羊平均日增重呈增加趋势，料重比显著降低。燕磊[14]在9月龄小尾寒羊饲粮中分别添加0、 $0 . 2 4 3 \\%$ 、 $0 . 4 8 5 \\%$ 、 $0 . 7 2 8 \\%$ 的过瘤胃蛋氨酸后，发现小尾寒羊饲粮中蛋氨酸水平增加能够显著提高体增重。密士恒等[15]研究了瘤胃保护性蛋氨酸对肉羊生长性能的影响，发现蛋氨酸添加组增重高于对照组，但差异不显著。羊驼每年剪毛1次，每年产绒毛 $3 { \\sim } 5 \\mathrm { k g }$ ，为成年母山羊产毛量的8\\~10 倍。羊驼毛细度较细羊毛和山羊绒差，但毛丛长度、净毛率有较大的优势，品质较好[1]。本试验结果显示，饲粮蛋氨酸水平增加（ $0 . 1 6 \\% { \\sim } 0 . 6 2 \\%$ ）可提高羊驼采食量、体增重和产毛量，高水平（ $0 . 6 4 \\%$ ）和中水平（ $0 . 3 2 \\%$ ）作用效果相近，说明适宜的饲粮蛋氨酸水平可促进羊驼采食量、体重和绒毛增长。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮蛋氨酸水平对羊驼养分表观消化率的影响 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸通常为反刍动物的第一或第二限制性氨基酸[17]。王杰等[12]研究了饲粮蛋氨酸水平对湖羊公羔营养物质表观消化率的影响，试验结果显示，饲粮低蛋氨酸水平会降低其营养物质表观消化率。高红建[18]研究发现，向绵羊瘤胃内投饲氮-羟甲基蛋氨酸钙（N-HMM-Ca)可以显著提高饲粮中干物质、粗蛋白质、酸性洗涤纤维和中性洗涤纤维的消化率。本试验结果显示，母羊驼饲粮蛋氨酸水平为 $0 . 3 2 \\%$ 组的粗蛋白质、中性洗涤纤维、酸性洗涤纤维、粗纤维、钙等表观消化率不同程度高于 $0 . 1 6 \\%$ 组和 $0 . 6 4 \\%$ 组。研究表明，提高饲粮蛋氨酸水平可促进反刍动物对饲粮养分的消化率，机理是刺激了瘤胃微生物的生长繁殖，加强了瘤胃的发酵作用[17-18]。本试验结果显示，饲粮蛋氨酸水平为 $0 . 6 4 \\%$ 组的养分表观消化率不同程度低于 $0 . 3 2 \\%$ 组，说明 $0 . 6 4 \\%$ 这一饲粮蛋氨酸水平超过了羊驼的正常需要量，其原因可能是过量的蛋氨酸对机体产生了毒性，饲粮中过量的蛋氨酸会通过其代谢中间产物或改变氨基酸代谢中某些酶活性的方式对机体生理产生不良影响[7]，确切机理有待进一步研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮蛋氨酸水平对羊驼血清生化指标的影响 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rulquin 等[19]报道，饲粮中添加瘤胃保护性蛋氨酸可促进肝糖异生作用使血清葡萄糖含量增加。本试验结果显示， $0 . 6 4 \\%$ 组血清葡萄糖含量略高于 $0 . 1 6 \\%$ 组、 $0 . 3 2 \\%$ 组，这可能与饲粮中蛋氨酸在一定程度上促进肝糖异生作用有关。孙菲菲[20]和毕晓华等[21研究发现，奶牛饲粮蛋氨酸水平有提高其血清谷丙转氨酶、谷草转氨酶活性及总蛋白、白蛋白、甘油三酯、葡萄糖含量的趋势，但均未达到显著水平。Moore 等[6报道，在羊驼饲粮中添加2、4g蛋氨酸，羊驼血清葡萄糖、尿素氮含量与对照组比较均无显著差异。本试验结果显示，饲粮蛋氨酸水平对羊驼各项血清生化指标均无显著影响，与上述报道一致。谷丙转氨酶和谷草转氨酶都是催化氨基酸转氨基的重要转氨酶，主要存在于细胞中，血清中二者活性较低，心脏和肝脏中二者活性最高，当机体组织受损时，大量转氨酶进入血液，血清中转氨酶活性随之升高[21]。碱性磷酸酶是动物体内消化代谢的关键酶。血清中的碱性磷酸酶主要来源与机体内骨骼、肝脏和肠黏膜，其活性与动物生长密切相关[22]。王海东等[23]研究了羊驼各项血清生化指标的常规值范围，本试验各项血清学指标数值均与之接近，说明 $0 . 1 6 \\% { \\sim } 0 . 6 4 \\%$ 的饲粮蛋氨酸水平对羊驼机体生理代谢未产生显著影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本试验条件下，母羊驼饲粮适宜蛋氨酸水平为 $0 . 3 2 \\%$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] LONG P.A practitioner's approach to llama and alpaca nutrition[J].Camel Practice and Research,1999,6(2):275-277. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2]TAPIA M E.Some aspects in alpaca nutrition[J].Projiect Alpaca,2001,23(2):10-13. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[3]李涛.羊驼的饲养管理和生活习性初报[J].贵州畜牧兽医,2004,28(5)46.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[4]杨启堂.新疆羊驼养殖业的进展研究[J].新疆畜牧业,2015(S1):2-5.  \n[5]王萌,周玉香,张艳梅,等.过瘤胃蛋氨酸对舍饲滩羊生产性能的影响[J].家畜生态学报,2017,38(1):36-38,51.  \n[6]MOORE K E,MALONEY S K,VAUGHAN J L,et al.Rumen-protected methioninesupplementation and fibre production in alpacas (Vicugna pacos)[J].Journal of AnimalPhysiology and Animal Nutrition,2013,97(6):1084-1090.  \n[7]燕磊,杨维仁,杨在宾,等.不同水平瘤胃保护性蛋氨酸对小尾寒羊氮代谢及生产性能的影响[J].家畜生态学报,2005,26(6):27-30.  \n[8]董常生.羊驼学[M].北京:中国农业出版社,2010:149-163.  \n[9]武安泉,杨开伦.瘤胃投注 N-乙酰-DL-蛋氨酸对新疆美利奴羯羊表观消失率及瘤胃液稀释率的影响[J].湖北农业科学,2013,52(11):2588-2590.  \n[10]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007:49-74.  \n[11]黄兴禄,赫晓燕,毕建敏,等.羊驼内脏的系统解剖学特征[J].动物医学进展,2005,26(9):105-107.  \n[12] 王杰,崔凯,王世琴,等.饲粮蛋氨酸水平对湖羊公羔营养物质消化、胃肠道pH及血清指标的影响[J].动物营养学报,2017,29(8):3004-3013.  \n[13]毛成文.包被蛋氨酸和赖氨酸对肉羊氮代谢和生产性能影响研究[D].硕士学位论文.北京:中国农业大学,2004:42 - 45.  \n[14]燕磊.瘤胃保护性蛋氨酸对小尾寒羊氨基酸代谢影响的研究[D].硕士学位论文.泰安:山东农业大学,2005:61-69  \n[15]密士恒,王晓凤,马慧.瘤胃保护性蛋氨酸对肉羊氮代谢及生长性能的影响[J].中国畜牧",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "杂志,2010,46(7):43-45. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[16]胡昕,魏佩玲,张敏,等.羊驼毛品质分析研究[J].家畜生态学报,2014,35(3):50-52.[17]姜淑贞,杨在宾,杨维仁.反刍动物与蛋氨酸营养[J].中国饲料,2001(20):17-19.[18]高红建.氮-羟甲基蛋氨酸钙对绵羊瘤胃代谢及营养物质消化代谢的影响[D].硕士学位论文.北京.中国农业科学院,2002:20-31.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[19] RULQUIN H,DELABY L.Effects of the energy balance of dairy cows on lactational responses to rumen-protected methionine[J].Journal of Dairy Science,1997,80(10):2513-2522. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[20]孙菲菲.胆碱和蛋氨酸对奶牛围产期营养平衡和机体健康的影响及机制[D].硕士学位论文.杨凌:西北农林科技大学,2017:50-65.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[21]毕晓华,张晓明.过瘤胃保护蛋氨酸对奶牛氨基酸代谢和血液生化指标的影响[J].饲料研究,2014(21):48-53.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[22]孙敏.不同精料蛋白质水平对羊驼日粮营养物质消化及生产性能的影响[D].硕士学位论文.晋中:山西农业大学,2005:19-22.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[23]王海东,董常生,李宏全,等.羊驼31项血清生化指标的测定与分析[J].畜牧兽医杂志,2008,27(5):5-8,12.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Methionine Level on Performance, Nutrient Apparent Digestibility and Serum Biochemical Indexes of Alpacas ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "HAO Xinyun’LIN Yingting1 LIU Yingchun²SONG Yuqing1 ZHUFenghualWANG Shubai1\\* ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Animal Science and Technology, Qingdao Agricultural University, Qingdao 266109, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "China; 2. Institute of Animal Husbandry and Veterinary, Qingdao 266ooo, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to study the effect of dietary methionine level on performance, nutrient apparent digestibility and serum biochemical indexes of alpacas. Nine 26-month-old female alpacas with similar body weight were randomly divided into three groups with 3 replicates in each group and 1 alpaca in each replicate. The methionine levels were set with $0 . 1 6 \\%$ ， $0 . 3 2 \\%$ and $0 . 6 4 \\%$ in each group. The feeding experiment and digestion experiment were conducted with total mixed ration. The pre-experimental period lasted for 7 days, and the experimental period lasted for 60 days. The results showed as folows: 1) the average daily feed intake, average daily gain and wool production of body surface area per $\\mathrm { c m } ^ { 2 }$ of alpacas of group $0 . 3 2 \\%$ and group $0 . 6 4 \\%$ were significantly higher than those of group $0 . 1 6 \\%$ （ $( P { < } 0 . 0 5 )$ , and group $0 . 3 2 \\%$ was slightly higher than those of group $0 . 6 4 \\%$ 0 $P { > } 0 . 0 5$ ). 2) The apparent digestibilities of crude protein, neutral detergent fiber, crude fiber and calcium of group $0 . 3 2 \\%$ was the highest, and significantly higher than those of group $0 . 1 6 \\%$ 1 $( P { < } 0 . 0 5 )$ ; the acid detergent fiber apparent digestibility of group $0 . 3 2 \\%$ was significantly higher than that of group $0 . 6 4 \\%$ $( P { < } 0 . 0 5 )$ ; the methionine apparent digestibility of group $0 . 3 2 \\%$ and group $0 . 6 4 \\%$ was significantly higher than that of group $0 . 1 6 \\%$ $( P { < } 0 . 0 1 \\$ ). 3) The activities of alanine transaminase,aspartate aminotransferase and alkaline phosphatase in serum of alpacas had no significant difference among all groups ( $\\mathrm { \\langle } P { > } 0 . 0 5 \\mathrm { \\rangle }$ , as well as the contents of triglyceride, glucose, usea nitrogen and total protein in serum of alpacas ( $\\mathrm { \\Phi } ^ { \\prime } P { > } 0 . 0 5 \\mathrm { \\dot { \\Omega } }$ ). In conclusion, the optimal dietary methionine level of female alpacas is $0 . 3 2 \\%$ under the condition of this experiment. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: alpacas; methionine; performance; nutrient apparent digestibility; serum biochemical indexes ",
+        "page_idx": 11
+    }
+]

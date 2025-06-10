@@ -1,0 +1,235 @@
+# 一种基于备份代价重要度的虚拟网络功能备份方法
+
+王琛1,²，汤红波1，游伟1，牛犇1(1．国家数字交换系统工程技术研究中心，郑州 450000;2.中国人民解放军 32128部队，济南 250000)
+
+摘要：5G移动通信网虚拟化场景下，为了保证网络服务的可靠性，通常采用冗余备份的方法。为了降低备份资源成本开销，首先在初始映射视图中计算每个虚拟网络功能的备份代价重要度，每次选代选择具有最大和次大备份代价重要度的虚拟网络功能进行联合备份，通过相应的选择和更新模型最终得到最优的备份策略。最后，将该方法与其他三种方法进行对比实验，所提算法在备份成本开销、占用的物理节点数量、服务请求接受数量和备份资源利用率上具有良好的性能。
+
+关键词：网络功能虚拟化；虚拟网络功能；服务功能链；备份代价重要度；联合备份中图分类号：TN915.07 doi:10.3969/j.issn.1001-3695.2018.05.0389
+
+# Method for virtual network function backup based on backup-cost importance
+
+Wang Chen1,², Tang Hongbo1, You Wei1,Niu Ben1 (1.National DigitalSwitching System Engineeing Technological Research Center,Zhengzhou450o,China;2.32128 Troops of the PLA, Jinan 250000 China)
+
+Abstract:Inthe5G mobilecommunication network virtualizationscenario,aredundantbackup method isusuallyadoptedin orderto ensure thereliabilityof network services.Toreduce thecostof backupresources,first,byordering the Backup-Cost Importance of thevirtual network functions,this paper makesa joint backupofvirtual network function with the largestand secondlargest Backup-Cost Importanceineach iteration,andobtain theoptimalbackupstrategythrough thecorrsponding selectionand update model.Finally，the method iscompared with other three methods，theproposed method hasbetter performance in the backup cost,the amount of used physical node,the number of acepted service requests and backup resource utilization.
+
+KeyWords: network function virtualization；virtual network function；service function chaining；backup-cost importance; joint backup
+
+# 0 引言
+
+5G移动通信网中，网络功能虚拟化（networkfunctionvirtualization，NFV）将成为促进网络创新和业务灵活部署的重要技术，其通过将网络功能从专用硬件平台解耦，使移动网络运营商实现了网络管理的灵活性和扩展性[1]。同时，通过低成本的通用硬件来实现这些网络功能，显著降低了移动网络运营商的资本支出和运营支出。传统移动核心网采用高可靠的专用硬件设备，可靠性可以达到 $9 9 . 9 9 9 \%$ ，而5G网络将采用通用服务器实现网络功能，其可靠性明显低于传统专用硬件设备。在网络功能虚拟化环境下，虚拟网络功能（virtualnetworkfunction，VNF）作为实例化在通用服务器上的软件，其故障原因将更复杂[2]。网络服务以服务功能链的形式实现，其由多个虚拟网络功能按照一定的顺序构成，端到端网络服务的可靠性不是由单一组件决定，而是由整个服务功能链的所有组件决定[3]。增强移动宽带、海量机器通信和高可靠低时延通信是 5G通信网络的典型应用场景[4]。5G移动通信网高可靠场景对移动通信服务的可靠性要求较高，需要支持用户5个9的可靠性等级的端到端网络服务。因此，如何在满足资源约束的前提下满足网络服务的可靠性需求，是NFV技术应用在5G网络需要解决的关键问题之一。
+
+冗余备份是提高系统可靠性的通用方法。如何选择备份VNF以满足端到端网络服务的可靠性要求是研究点之一[5]。现有的冗余备份方法采用两阶段的方法解决这一问题，通过不断的迭代选择和映射两个过程，直到满足服务的可靠性需求。为了选择备份VNF，文献备份了整个服务功能链，导致成本开销浪费，增加了移动运营的资本支出。文献[5]提出的GREP算法备份每个服务功能链中可靠性较低的VNF，文献[7]采用混合路由的方式备份VNF，提出了基于贪婪算法的GSP算法，两种算法忽视了VNF可以由多个服务功能链共享，导致了较低的资源利用率。
+
+针对上述VNF备份方法的不足，本文提出了将选择和映射过程一阶段进行的基于备份代价重要度的VNF备份方法，首先根据初始部署的VNF转发图计算每个VNF的备份代价重要度，从而选择出备份VNF，利用联合备份的方法映射到物理节点上，然后根据更新模型对VNF转发图进行更新，通过迭代，最终得到满足可靠性需求的备份VNF及映射的物理节点。该方法在满足网络服务可靠性的前提下，能够有效降低备份资源成本开销，而且在服务请求接受率、运营支出上具有较好的性能。
+
+# 1 网络模型与问题描述
+
+# 1.1物理网络与服务功能链请求
+
+定义 $G _ { p } ( N , E )$ 表示物理网络拓扑，其中 $N$ 表示物理节点的集合，每个节点具有实例化多个VNF的能力。 $E$ 表示物理链路的集合。每个节点 $n \in N$ 具有相应的属性，包括计算资源能力 $c ( n )$ ，存储资源能力 $s ( n )$ ，网络资源能力 $b ( n )$ 。定义 $r _ { n }$ 表示物理节点的可靠性值，可以根据平均无故障时间（mean timebetween failure,MTBF）和平均修复时间（mean time to repair,MTTR）计算得出[8]:
+
+$$
+r _ { n } = \frac { M T B F _ { n } } { M T B F _ { n } + M T T R } _ { n }
+$$
+
+定义服务功能链集合S，对于每个服务功能链si(i∈[1,|S]),具有一组数据流量需要以固定顺序通过的VNF，定义$V N F _ { i } ( i \in [ 1 , | S | ] _ { z } )$ 为服务功能链 $s _ { i }$ 中VNF 的集合。 $\nu n f _ { i j }$ 表示服务功能链 $s _ { i }$ 中的第 $j$ 个VNF。定义 $\theta _ { r e q } ^ { i }$ 表示服务功能链 $s _ { i }$ 的可靠性需求。
+
+在对服务功能链请求进行初步部署后,其在物理网络上的逻辑连接视图称为VNF 转发图,如图1所示。定义 $G _ { \scriptscriptstyle F G } ( { \cal F } , L )$ 表示VNF 转发图的拓扑,其中 $F$ 表示部署在物理网络上的VNF集合， $L$ 表示相邻VNF之间的逻辑链路集合。每个 $f \in F$ 具有相应的资源需求,包括计算资源需求 $c ^ { \prime } ( f )$ ,存储资源需求 $s ^ { \prime } ( f )$ ，网络资源需求 $b ^ { \prime } ( f )$ 。
+
+# 1.2 可靠性评价
+
+导致VNF故障的原因很多，比如硬件故障、软件故障和操作故障。本文仅考虑硬件故障，因此可以 $\operatorname { V N F } _ { f }$ 的可靠性 $r _ { f }$ 可由实例化其的物理节点的可靠性来评价。定义决策变量 $x _ { n } ^ { f }$ ：
+
+$\displaystyle x _ { n } ^ { f } = \left\{ { 1 \atop 0 } \right.$ 若备份VNFf实例化在物理节点n上其它
+
+定义 $\Delta _ { f }$ 表示冗余备份后 $\operatorname { V N F } _ { f }$ 的可靠性增量，
+
+$$
+\Delta _ { { f } } = ( 1 - ( 1 - r _ { f } ) \prod _ { n \in N } ( 1 - x _ { n } ^ { f } r _ { n } ) ) - r _ { f }
+$$
+
+定义 $\theta _ { i }$ 表示服务功能链 $s _ { i }$ 的可靠性值，
+
+$$
+\theta _ { i } = \prod _ { f \in V N F _ { i } } ( r _ { f } + \Delta _ { f } )
+$$
+
+![](images/63d18b3a6998c947d5e2437e387aa93104fa047853fcbaf61dab49b50631341d.jpg)  
+图1VNF 转发图示意
+
+# 1.3优化目标
+
+导致VNF故障的原因很多，比如硬件故障、软件故障和操作故障。
+
+在对服务功能链请求进行初步的映射部署后，其部署方案不能满足一些服务功能链请求的可靠性需求。同时，冗余备份的VNF在很长一段时间内不能产生收益，因此本文以冗余备份资源的成本效益为优化目标，找到相应的备份冗余方案。将其建模为
+
+优化目标：
+
+$$
+\operatorname* { m a x } _ { \mathbf { \mu } _ { X _ { n } ^ { f } , \Delta } } \frac { \Delta R } { B a c k u p \ : \mathrm { C o s t } }
+$$
+
+约束条件：
+
+$$
+\sum _ { f \in F } x _ { n } ^ { f } c ^ { \prime } ( f ) \leq c ( n )
+$$
+
+$$
+\sum _ { f \in F } x _ { n } ^ { f } s ^ { \prime } ( f ) \leq s ( n )
+$$
+
+$$
+\sum _ { f \in F } x _ { n } ^ { f } b ^ { \prime } ( f ) \leq b ( n ) , { \stackrel { \scriptstyle \sharp } { \to } } \forall f \in F , n \in N
+$$
+
+$$
+\boldsymbol { x } _ { n } ^ { f } \in \{ 1 , 0 \}
+$$
+
+式（5）表示最大化备份冗余方案的成本效益。式（6）确保每个服务功能链的可靠性值满足其可靠性需求。式（7）\~（9)确保备份VNF所占用的计算、存储和网络资源不超过实例化其的物理节点的计算、存储和网络资源能力。本文的主要参数符号定义如表1所示。
+
+表1主要参数符号和定义  
+
+<html><body><table><tr><td>参数</td><td>定义</td></tr><tr><td>N</td><td>物理节点集合</td></tr><tr><td>E</td><td>物理链路集合</td></tr><tr><td>c(n)</td><td>底层节点n的计算资源能力</td></tr></table></body></html>
+
+<html><body><table><tr><td>s(n)</td><td>底层节点n的存储资源能力</td></tr><tr><td>b(n)</td><td>底层节点n的网络资源能力</td></tr><tr><td>rn</td><td>物理节点n的可靠性值</td></tr><tr><td>S</td><td>服务功能链集合</td></tr><tr><td>VNFi</td><td>服务功能链si中VNF的集合</td></tr><tr><td>vnfi</td><td>服务功能链s中的第j个VNF</td></tr><tr><td></td><td>服务功能链si的可靠性需求</td></tr><tr><td>F</td><td>部署在物理网络上的VNF集合</td></tr><tr><td>L</td><td>相邻VNF之间的逻辑链路集合</td></tr><tr><td>c'(f)</td><td>VNFf的计算资源需求</td></tr><tr><td>s'(f)</td><td>VNFf的存储资源需求</td></tr><tr><td>b'(f)</td><td>VNFf的网络资源需求</td></tr><tr><td>rf</td><td>VNFf的可靠性值</td></tr><tr><td>x</td><td>决策变量，若备份VNFf映射在物理节点n上，</td></tr><tr><td></td><td>x=1，反之，xf=0</td></tr><tr><td>△</td><td>冗余备份后VNFf的可靠性增量</td></tr><tr><td>0</td><td>服务功能链si的可靠性值</td></tr></table></body></html>
+
+# 2 基于备份代价重要度的虚拟网络功能备份方法
+
+# 2.1选择模型
+
+部件可靠性变化引起系统可靠性的变化程度称为概率重要度，又称Birnbaum 重要度，其有效描述了一个部件状态变化对于系统变化的影响[9]。在可靠性系统里，一个部件 $k$ 的概率重要度定义为：
+
+$$
+B I M _ { _ f } = \frac { \displaystyle \sum _ { i \in S } ( \prod _ { f \in V N F _ { i } } ( r _ { f } + \Delta _ { f } ) - \prod _ { f \in V N F _ { i } } r _ { f } ) } { \displaystyle \sum _ { f \in F } \Delta _ { f } }
+$$
+
+为了更好地进行各种资源的分配，定义 $\boldsymbol { d } _ { f }$ 表示备份$\operatorname { V N F } _ { f }$ 的资源需求，对于特定的网络环境，可以相应地调整。
+
+$$
+d _ { f } = \lambda _ { 1 } c ^ { \prime } ( f ) + \lambda _ { 2 } s ^ { \prime } ( f ) + \lambda _ { 3 } b ^ { \prime } ( f ) ,
+$$
+
+$$
+\begin{array} { r } { \mathbb { H } \lambda _ { 1 } , \lambda _ { 2 } , \lambda _ { 3 } \in [ 0 , 1 ] , \lambda _ { 1 } + \lambda _ { 2 } + \lambda _ { 3 } = 1 } \end{array}
+$$
+
+$\lambda _ { 1 } , \lambda _ { 2 } , \lambda _ { 3 }$ 是表示权重的常数，对于特定的网络环境，相应的调整权重系数，提高了资源分配的灵活性，比如要减少计算资源的开销时，可以适当增大 $\lambda _ { 1 }$ 的权重值。
+
+根据备份冗余后 $\operatorname { V N F } _ { f }$ 的的可靠性增量和资源需求，可以得出备份冗余 $\operatorname { V N F } _ { f }$ 的单位开销：
+
+$$
+\delta _ { f } = \frac { \displaystyle \sum _ { n \in N } x _ { n } ^ { f } d _ { f } } { \Delta _ { f } }
+$$
+
+为了进一步降低备份冗余开销，本文根据概率重要度定义了 $\operatorname { V N F } _ { f }$ 的备份代价重要度（BCI)，以评估其在VNF转发图中的重要性：
+
+$$
+B C I _ { _ { f } } = \frac { B I M _ { _ { f } } } { \delta _ { _ { f } } }
+$$
+
+BCI有效评估了 $\operatorname { V N F } _ { f }$ 在VNF转发图中的重要度，尤其能够反映为多条服务功能链共享的VNF 的重要性[I0]。BCI值是概率重要度BIM和单位资源开销 $\delta _ { f }$ 的比值，能够准确的反映VNF的重要性，即BCI值越高的VNF，当进行备份后，获得系统的可靠性增量最高，且消耗的资源最小。这些VNF发生故障将会导致更加广泛的网络服务中断，会严重影响移动通信用户的业务体验。另外，若单一物理节点备份多个VNF，其发生故障后，将导致多个网络服务中断。通过对比实验，本文设置单一物理节点至多备份2个VNF获得的可靠性增量最大，因此通过选择具有最大和次大BCI值的VNF进行联合备份可以提高备份冗余资源成本收益，有效减少了备份资源开销。本文算法通过迭代的方式，将具有最大和次大BCI值的VNF进行联合备份，能够实现较好的备份冗余成本收益。
+
+# 2.2 更新模型
+
+为了提高本文算法的收敛速度，在备份冗余VNF部署后，需要对VNF转发图进行更新。由于将过多的备份VNF映射到同一物理节点会降低系统的可靠性，限定同一物理节点至多实例化2个备份VNF。由于选择具有最大和次大BCI值的VNF进行联合备份，共有两种更新形式：
+
+a）物理节点实例化了同一服务功能链的2个备份VNF，将初始VNF和备份VNF更新为新的VNF，如图2所示。新的VNF的可靠性值为
+
+$$
+r _ { \nu n f _ { 7 } } = r _ { \nu n f _ { 3 , 4 } } + ( 1 - r _ { \nu n f _ { 3 , 4 } } ) r _ { \nu n f _ { 3 } } r _ { \nu n f _ { 4 } }
+$$
+
+![](images/a1415d964a94fc916163b508983ad032ea5192b3a81f31fefd7f66a6293a3faa.jpg)  
+图2形式一的更新过程
+
+b）物理节点实例化了不同服务功能链的2个备份VNF，分别在相应的服务功能链中更新VNF，如图3所示。新的可靠性值为
+
+$$
+r _ { \nu n f _ { 1 1 } } = 1 - ( 1 - r _ { \nu n f _ { 3 } } ) ( 1 - r _ { \nu n f _ { 3 , 8 } } )
+$$
+
+$$
+r _ { \nu n f _ { 1 2 } } = 1 - ( 1 - r _ { \nu n f _ { 8 } } ) ( 1 - r _ { \nu n f _ { 3 , 8 } } )
+$$
+
+![](images/9d741fe38ceedc01476f46305bdfd94d2b5081af83205de033a6ce83f93ade77.jpg)  
+图3形式二的更新过程
+
+本文提出的算法的伪代码如下所示：
+
+基于备份代价重要度的虚拟网络功能备份算法（BCIA)
+
+输入：物理网络 $G _ { p } ( N , E )$ ，服务功能链请求 $s$ ，初步部署后的VNF 转发图GF(F,L)
+
+输出：备份冗余方案 $\left\{ x _ { n } ^ { f } \mid f \in F , n \in N \right\}$
+
+1:计算每个服务功能链 $s _ { i } ( i \in [ 1 , | S | ] _ { z } )$ 的可靠性值 $\theta _ { i }$
+
+2:while $\theta _ { i } < \theta _ { r e q } ^ { i }$ ,for $\forall i \in S$ do
+
+3:将 $G _ { F G }$ 中已接受服务功能链请求中的VNF 移除，生成新的VNF转发图GFG
+
+4: for $f \in G _ { F G } ^ { \prime }$ and $n \in N$ do
+
+5: $n ^ { \prime } $ 根据选择模型，选择具有最大BCI值的VNF $f ^ { \prime }$ 和次大BCI值的VNF $f ^ { \prime }$ ，并根据其资源需求找到实例化2个VNF 的物理节点 $n ^ { \prime }$
+
+6: if ${ \boldsymbol { n } } ^ { \prime } \in N$ then7: $x _ { n ^ { \prime } } ^ { f ^ { \prime } } = 1 \& x _ { n ^ { \prime } } ^ { f ^ { \prime } } = 1$ 8: 根据更新模型，将初始VNF和备份VNF生成新的VNF9: 更新 $r _ { f } , \theta _ { i }$ for $f \in F , i \in S$ 10: end11: end12: end13: return $\left\{ x _ { n } ^ { f } \vert f \in F , n \in N \right\}$
+
+# 3 仿真实验与性能分析
+
+为了评估模型可行性及算法的有效性，本文采用总的备份代价、备份资源占用的物理节点数目、备份资源效益和请求接受率作为性能评价指标，并与最小开销MinCost算法[1o]、最大可靠性MaxRbyInr算法[10]和GREP[5]算法进行了比较。
+
+# 3.1仿真设置
+
+使用具有116个节点的网络拓扑[1作为物理网络。每个物理节点具有2000个单位的资源能力，每个物理节点的可靠性值
+
+在[0.9,0.99]间随机分布。
+
+每个服务功能链有2\~6个VNF串联组成。根据谷歌服务的服务等级协议[12]，服务功能链的可靠性需求在{0.95,0.98,0.99,0.995，0.999}中选择。
+
+假设VNF转发图中共有1100个服务功能链，每个服务功能链请求由多个VNF串联构成，数量服从2\~6的均匀分布，每个VNF的资源需求满足[1,30]的随机分布。本文算法运行在CPU 型号为Inteli74790，内存为4GB的个人电脑上，使用Matlab 进行了仿真实验。
+
+# 3.2性能分析
+
+假设VNF转发图中共有1100个服务功能链，每个服务功能链请求由多个VNF串联构成，数量服从2\~6的均匀分布，每个VNF的资源需求满足[1,30]的随机分布。本文算法运行在CPU型号为Inteli74790，内存为4GB的个人电脑上，使用Matlab进行了仿真实验。
+
+![](images/0fb15c0ebf239d5b4ae27c69ef78fb3575cd394414de7c85a9d1e6f54009d3bf.jpg)  
+图4备份代价对比图
+
+图4表示不同可靠性需求下不同算法的备份代价，从图中可以看出，随着可靠性需求的增加，3种算法的备份代价逐渐增加。在可靠性需求为0.999时，BCIA算法的备份代价仍然最小。
+
+![](images/468148c9d5081a7d58fc413f6a79b917e645d64825bece724111b1c6778f6a4b.jpg)  
+图5占用物理节点数量对比图
+
+图5表示不同可靠性需求下不同算法备份资源占用的物理节点数目。随着可靠性需求的增加，3种算法的备份资源占用的物理节点数目逐渐增加。与MinCost算法和MaxRbyInr算法相比，BCIA 算法分别减少了 $3 2 \%$ 和 $12 \%$ 的物理节点数量。当可靠性需求为0.95时，由于MaxRbyInr算法在选择阶段具有最大的可靠性增量，比其它2种算法占用的物理节点数目少。但是，当可靠性需求增大时，BCIA算法占用的物理节点数量最少。
+
+![](images/3233c39311152030e97ced78341762e429c3474b150efdcfb5d5b032c057115f.jpg)  
+图6请求接受数量对比图
+
+图6表示不同服务功能链请求数量下不同算法的请求接受率。从图中可以看出，BCIA算法与其它2种算法相比，在发送请求数量相同的情况下，特别是在发送请求数目增多时表现更加明显，接受请求数量明显较高，证明了BCIA算法的有效性。该仿真证明了本方法在大量服务功能链请求环境下的优异性能。主要原因是BCIA算法在选择阶段具有更高的细粒度，能够有效的提高资源利用率。
+
+![](images/3fd445191f93074239f5f9446257a22ca0788da6c9a05da610dbcb0355ffae09.jpg)  
+图7备份资源利用率对比图
+
+图7表示不同可靠性需求下不同算法的备份资源利用率，可以看出其它3种方案并未对资源效用进行优化，三者的资源利用率相差不大，而BCIA方法和三者相比，提高约 $1 5 \small { \sim } 2 0 \%$ ，明显优于其他三种方案，即以最小的资源开销得到最大的备份冗余收益。
+
+# 4 结束语
+
+NFV技术实现了网络功能软件化，通过构建服务功能链实现网络服务的虚拟化，增强了资源配置的伸缩性，促进了基础设施资源的共享。为了保证服务的高可靠性，VNF节点需要进行冗余备份，因此需要大量的备份资源开销。针对该问题，本文提出的BCIA算法，在保证网络服务可靠性需求的同时，有效的降低了备份资源开销，增加了备份资源收益，能够满足5G高可靠场景下移动通信服务的需求。
+
+# 参考文献：
+
+[1]Han Bo，Gopalakrishnan V,Ji Lusheng，et al.Network function virtualization:Challenges and opportunities for innovations [J].IEEE Communications Magazine,2015,53 (2): 90-97.   
+[2]Cotroneo D,De Simone L,Iannillo A K,et al.Network function virtualization: Challenges and directions for reliability assurance [Cl// Proc of IEEE International Symposium on Software Reliability Engineering. 2014: 37-42.   
+[3]Network Functions Virtualisation (NFV）；Reliability;Report on Models and Features for End-to-End Reliability [R].ETSI ISG NFV,2016.   
+[4]ITU-R M 2083-0.IMT vision,framework and overall objectives of the future development of IMT for 2O2O and beyond [S].ITU-R,Document 5/199-E, 2015.   
+[5]Fan Jingyuan，Ye Zilong，Guan Chaowen，et al.GREP:Guaranteeing reliabilitywithenhancedprotection in NFV [C]// Proc ofACM SIGCOMM Workshop on Hot Topics in Middleboxes and Network Function Virtualization. New York: ACMPress,2015: 13-18.   
+[6]Herker S,An X,Kiess W,et al.Data-center architecture impacts on virtualized network functions service chain embedding with high availability requirements [Cl// Proc of IEEE Globecom Workshops.2015: 1-7.   
+[7]Qu Long,Assi C,Shaban K,et al.A reliability-aware network service chain provisioning with delay guarantees in NFV-enabled enterprise datacenter networks [J]. IEEE Trans on Network and Service Management, 2017,14 (3): 554-568.   
+[8]Fan Jingyuan,Guan Chaowen, Zhao Yangming,et al.Availability-aware mapping of service function chains [C]// Proc of IEEE Conference on Computer Communications.2017:1-9.   
+[9]Birmbaum Z W.On the importance of diferent components in a multicomponent system [R]. Washington Univ Seattle Lab of Statistical Research, 1968.   
+[10] Ding Weiran,Yu Hongfang,Luo Shouxi.Enhancing the reliability of services in NFV with the cost-efficient redundancy scheme [C]// Proc of IEEE International Conference on Communications. 2017: 1-6.   
+[11] Verizonnetworkmap[EB/OL].https://www22. verizon. com/wholesale/images/networkMap. png.   
+[12] Google Apps service level agreement. [EB/OL].http://www.google. com/apps/intl/en/terms/sla. htm

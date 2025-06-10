@@ -1,0 +1,197 @@
+# 两种不同生境苦苣苔科植物的复苏特性及其对水分的光合和生理响应
+
+李爱花1,3，王丹丹2.3，李唯奇 3\*
+
+京市植物园，北京市花卉园艺工程技术研究中心，北京100093；2.贵州中医药大学 药学院，贵阳550025；3．中国科学院昆明植物研究所种质资源库，昆明650204）
+
+摘要：复苏植物可以耐受极度干旱的环境，脱水至 $10 \%$ RH后仍然可以复苏。苦苣苔科植物包含有较多复苏植物，不同类群的复苏机理可能存在差异。该文选择分别分布在亚热带和温带石灰岩地区的锈色蛛毛苣苔（Paraboea rufescens）和心叶马铃苣苔（Oreocharis cordatula)两种苦苣苔科植物，检测两个物种是否具有复苏特性及其响应干旱的生理机制异同，对其叶片分别进行脱水1、2、3d，并分别复水1d，检测不同脱水复水过程的叶片形态、相对含水量、光合活性、膜完整性、渗透调节物质等指标的变化。结果表明：锈色蛛毛苣苔的叶圆片在脱水后即发生向内折叠，脱水2d时将叶上面完全包裹，同时表征最大光合潜力的叶绿素荧光 $F _ { \nu } / F _ { m }$ 受到抑制；而心叶马铃苣苔的叶片仅发生轻度皱缩，且 $F _ { \nu } / F _ { m }$ 基本维持对照水平，同时具有更高的光保护能力[Y(NPQ)]；复水后，两个物种的叶片均展开， $F _ { \nu } / F _ { m }$ 恢复。两个物种均在脱水2d时，相对含水量降低至 $5 \%$ 左右，电导率分别升高至 $5 1 . 8 \%$ 和 $56 . 2 \%$ ，渗透调节物质可溶性糖含量显著升高；而复水后，相对含水量、电导率和可溶性糖均恢复到对照水平。而进一步脱水3d时，锈色蛛毛苣苔和心叶马铃苣苔叶片的相对含水量均达到 $1 . 5 \%$ 左右，复水后的电导率升高至 $9 5 \%$ 左右，叶绿素荧光 $F _ { \nu } / F _ { m }$ 消失。锈色蛛毛苣苔在可复苏脱水复水过程的叶绿素 $\mathbf { a } + \mathbf { b }$ 含量下降 $5 0 \%$ ，而心叶马铃苣苔基本保持不变，说明二者均为叶绿素维持型复苏植物，可以在脱水后复水时迅速恢复光合作用。在脱水复水过程中，两个物种的膜脂过氧化产物含量也均无显著变化，且保持极低水平，说明两个物种在极度干旱条件下可以维持其细胞膜脂免于被氧化。综上，这两个物种可以耐受 $5 \%$ RH脱水，均为复苏植物。剧烈脱水时，锈色蛛毛苣苔通过卷缩叶片来避免吸收过量光照对植物造成伤害；而心叶马铃苣苔则通过PSII的光保护机制将吸收的过多能量通过热耗散形式散布出去，从而保护其光器官的完整性。
+
+关键词：锈色蛛毛苣苔，心叶马铃苣苔，脱水，复苏植物，叶绿素荧光，渗透调节物质，丙二醛，光保护
+
+中图分类号：Q945 文献标识码：A
+
+# Resurrection characteristics and physiological response to desiccation and rehydration of two species in the Gesneriaceae with different habitats
+
+LI Aihua1,3，WANG Dandan23，LI Weiqi³
+
+(1.BeijingFloriculture Engineering Technology Research Center,Beijing Botanical Garden,Beijing 100093, China; 2. Colegeof Pharmacy,Guizhou University ofTraditional Chinese Medicine,Guiyang 55o025,China; 3.
+
+Germplasm Bank ofWild Species,Kunming InstituteofBotany,ChineseAcademy ofSciences,Kunming 650204, China）
+
+Abstract: Resurrection plants usually grow in extreme habitats and have the capacity to survive from lower relative water content to $10 \%$ . There are many resurrection plants in Gesneriaceae family,and the resuscitating mechanism of different species may be different. In order to investigate whether the two species have resurrection characteristics and their physiological mechanisms in response to drought， two species of Gesneriaceae, Paraboea rufescens and Oreocharis cordatula,which are distributed in subtropical and temperate limestone areas respectively，were selected in this study. Their leaves were dehydrated for 1，2 and 3 d respectively，and then rehydrated for 1 day respectively. The leaf morphology,relative water content， photosynthetic activity， photosynthetic pigments， membrane integrity and osmotic adjustment substances during different dehydration and rehydration treatments were detected and analyzed. The results showed that the leaf discs of Paraboea rufescens folded inward after dehydration,and the leaf upper epidermis was completely wrapped after dehydrated for 2 days, and the chlorophyll fluorescence parameter $F _ { \nu } / F _ { m }$ ，which characterized the maximum photosynthetic potential, was inhibited. Comparatively,the leaf discs of Oreocharis cordatula shrunk slightly,and they maintained the $F _ { \nu } / F _ { m }$ level,and had higher photoprotection ability $[ Y ( \mathrm { N P Q } ) ]$ . The leaf discs of both species spread out and $F _ { \nu } / F _ { m }$ recovered following rewatered. After two days of dehydration, the relative water content (RWC) of the two species decreased to about $5 \%$ , the conductivity increased to $5 1 . 8 \%$ and $56 . 2 \%$ ,respectively,and the content of soluble sugar content increased significantly. During the following rewatered, RWC, conductivity and soluble sugar all recovered to the control level. After further dehydration for 3 days,RWC of leaf discs of two species reached about $1 . 5 \%$ ， the conductivity increased to about $9 5 \%$ after rehydration, and $F _ { \nu } / F _ { m }$ disappeared. Chlorophyll $a + b$ content of $P$ .rufescens decreased by $5 0 \%$ during resuscitable dehydration and rehydration, while Oreocharis cordatula remained basically unchanged, which indicated that both of them were homoiochlorophyllous desiccation tolerance species and could quickly resume photosynthesis after rehydration following dehydration. During dehydration and rehydration， the contents of malonic dialdehyde (MDA） had no significant change，and remained extremely low level， which indicated two species could keep their membrane lipids from being oxidized under extreme drought conditions. To sum up, these two species can survive from dehydration to lower level of $5 \%$ RH,therefore they are both resurrection plants. Under severe dehydration， Paraboea rufescens can avoid the damage from excessve light absorption by curling its leaves; however, Oreocharis cordatula can spread the excessive energy by heat dissipation through photoprotection of PS II,， thus protecting its photosynthesis organs.
+
+Key words : Paraboea rufescens， Oreocharis cordatula， desiccation， resurrection plant,chlorophyl fluorescense, osmotic adjustment substance, malonic dialdehyde, photoprotection
+
+复苏植物通常可以耐受极度严酷的环境，经常出现在有零星雨季的生境中，包括分布在热带亚热带的荒漠地区(Rascio etal.,2005)，或者降雨量相对丰富但是存在岩溶干旱现象(Zeng et al.,2007;刘艳，2016)的喀斯特生境。复苏植物的植株通常矮小(Moore et al.,2007)，在高等植物中比较少，目前证实的有350 多种(Leuttge etal.,2011)，并不断有新的有复苏特性的物种被发现。复苏植物是探索植物脱水耐性的生理、生化和分子基础的最佳模型。对于复苏植物独特特性的研究和理解，将有助于提高缺水条件下作物的产量。苦苣苔科植物中有较多复苏植物，有报道的已有二三十种(Porembski,2011)。锈色蛛毛苣苔(Paraboea rufescens )和心叶马铃苣苔（Oreocharis cordatula）均为苦苣苔科（Gesneriaceae）植物，前者产于我国广西西南部、贵州南部及云南省，生于海拔 $7 0 0 { \sim } 1 5 0 0 \mathrm { m }$ 喀斯特生境的石灰岩上、岩石隙间；后者产于云南省香格里拉县、四川省木里县等地，生于海拔 $\geq 1 0 0 { \sim } 2 7 0 0 \mathrm { m }$ 的山顶、沟谷石灰岩上。而二者的生境被认为是复苏植物多样性的形成中心(Rascioetal.,2005)。锈色蛛毛苣苔为多年生草本，根状茎木质化，稀为亚灌木；叶上表皮被蛛丝状绵毛，后变近无毛，下表皮通常密被彼此交织的毡毛，毛簇生、星状或成树枝状分枝。心叶马铃苣苔为多年生无茎草本，根状茎粗而短，叶全部基生，具柄；叶片长圆状披针形或长圆状卵形，边缘具不规则圆齿，上表皮密被贴伏柔毛，下表皮密被淡褐色绢状绵毛(王文采等,1990)。为了探究锈色蛛毛苣苔和心叶马铃苣苔是否具有复苏特性及其响应机制的异同，对其应对脱水复水过程的生理生化及光合生理变化进行研究。
+
+植物响应干旱会发生一系列生理生化变化。很多植物应对脱水会积累非水性物质，如氨基酸和可溶性糖，来代替水分以维持其细胞的原始体积(Farrant,2000)。复苏植物水分缺失后，最常见的变化是可溶性糖大量积累，淀粉快速转化为葡萄糖(Bianchi etal.,1993;Mulleret al.,1997)。研究也发现，脱水时复苏植物中的渗透调节物质脯氨酸含量通常显著升高(Tymms etal.,1979;Pandey etal.,2010)。干旱胁迫诱导产生的过氧化物，会氧化细胞膜脂生成丙二醛（malonic dialdehyde,MDA），破坏膜的完整性。复苏植物Selaginella bryopteris 在脱水至 $10 \%$ 相对水分含量后，MDA含量会上升 $30 \%$ (Pandey etal.,2010)，甚至增加两倍(Jovanovic etal.,2011)，复水后均可以恢复到对照水平。
+
+叶绿体类囊体膜是植物进行光合作用的主要器官。在脱水和复水过程中，复苏植物的叶绿体发生改变。叶绿素维持型复苏植物（homoiochlorophyllous desiccation tolerance species,HDT）在脱水时可以保持其大部分叶绿素含量并维持其类囊体结构，类囊体膜结构仅有轻微损伤，在复水后可以迅速恢复光合作用(Strasser etal.,2010; Tuba et al.,1998)，适合短期间歇性缺水环境；而叶绿素丧失型复苏植物（poikilochlorophylous desiccation tolerance species,PDT）脱水时叶绿素基本全部降解，复水时叶绿素重新合成，膜结构重新修复(Ingle et al.,2008)。总体上PDT 比HDT 需要更多的时间来复苏，因为它需要重新合成叶绿素并重构类囊体结构(Sherwin et al.,1996)。因此，通过检测脱水复水过程复苏植物叶片的叶绿素含量，可以得知其光合器官对干旱环境的响应对策。叶绿素荧光是测量光合作用，特别是光系统（PSII）光能转换的重要探针，可以探测到光系统对光能吸收、传递、耗散、分配等方面的变化，是研究和探测光合生理与逆境胁迫关系的理想手段（Rohacek etal.,2008）。复苏植物的光合作用在脱水时均会发生改变，在温和脱水时，这类植物的光合活性变化较小；而在严重脱水时则完全丧失，复水后又可恢复(Farrant et al.,2003;Georgieva et al.,2005）。
+
+基于此，本研究以分布在亚热带和温带石灰岩地区的锈色蛛毛苣苔和心叶马铃苣苔为研究对象，对其进行不同程度的脱水及脱水后复水处理，检测脱水复水过程植物叶片的形态特征、光合活性指标、光合色素含量、膜完整性指标、渗透调节物质含量等变化，拟研究两种苦苣苔科植物的耐脱水特性及其相应脱水复水机理的异同，为植物抗旱生理生化研究提供理论背景，为基于植物生理生化特征的作物遗传改良提供应用科学指导。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+锈色蛛毛苣苔植株引自云南省石林县乃古石林内石灰岩缝隙，心叶马铃苣苔植株引自云南省香格里拉县石灰岩表面及缝隙，采样时周围的土壤与植株共同收集，引种后栽植在中国科学院昆明植物研究所种质资源库的引种驯化中心温室内。温室的温度 $2 0 { \sim } 2 3 \mathrm { ~ ~ } ^ { \circ } \mathrm { C }$ ，光照$1 2 0 \ { \mathrm { \textmu m o l { \cdot } m } } ^ { - 2 } { \mathrm { s } } ^ { - 1 }$ ，光周期为12h光照/12h黑暗，相对湿度 $60 \%$ 。
+
+# 1.2试验处理
+
+选取植株上成熟且完全展开的叶片，用打孔器制作直径 $1 . 5 \mathrm { c m }$ 的叶圆片。叶圆片在15℃、$1 5 \%$ 相对湿度（relative humidity，RH）条件下，进行快速脱水处理，分别脱水1d（Deh1）、2 d（Deh2）、3d（Deh3）；将Deh1、Deh2、Deh3的叶圆片进行复水处理，放到铺有吸水滤纸的培养皿上，置于20℃黑暗条件下进行复水处理 $2 4 \mathrm { h }$ ，分别标注为Reh1、Reh2、Reh3。对不同脱水和复水处理取样，进行相对含水量（relative water content，RWC）、光合色素含量、叶绿素荧光参数、电导率、MDA、可溶性糖和脯氨酸含量的检测，每个处理5次重复。
+
+# 1.3检测指标及检测方法
+
+1.3.1 相对含水量 参照Barrs et al.(1962)，通过重量计算法得到相对含水量(RWC)，公式如下：
+
+RWC $( \% ) = 1 0 0 \times [ ($ 鲜重一干重)/(饱和鲜重一干重)]。
+
+式中：鲜重指正常生长的叶圆片重量；干重指80℃烘烤48h之后的叶圆片重量；将叶圆片放在水中吸水至重量不再增加时的重量，即为饱和鲜重。
+
+1.3.2叶绿素荧光 使用叶绿素荧光成像仪[MAXI-Imaging Pulse-Amplitude (PAM) Instrument(Walz,Germany)测定叶圆片的叶绿素荧光，用ImagingWin Software软件进行分析。将叶圆片避光放置 $2 0 \mathrm { m i n }$ ，进行暗适应，之后用叶绿素荧光成像仪测定相关的荧光参数， $F _ { \nu } / F _ { m }$ ，$Y ( \mathrm { I I } )$ 和Y(NPQ)的计算公式如下：
+
+$$
+F _ { \nu } / F _ { m } { = } \left( F _ { m } { - } F _ { 0 } \right) / F _ { m } { ; }
+$$
+
+$$
+Y ( \mathrm { N P Q } ) { = } ( F _ { m } { - } F _ { m } { ' } ) / F _ { m } { ' } { \circ }
+$$
+
+式中： $F _ { \nu } / F _ { m }$ 为叶绿体光系统II的最大量子产量；Y(II）为实际量子产量；Y(NPQ)为非光化学淬灭耗散的能量； $F _ { O }$ 为暗适应 $2 0 \mathrm { m i n }$ 的最小荧光产率； $F _ { m }$ 为暗适应 $2 0 \mathrm { m i n }$ 后饱和脉冲测量的最大荧光产率； $F _ { m } ^ { \phantom { \dagger } }$ 为照光状态下，光合作用稳定后饱和脉冲测量的最大荧光产率； $F _ { s }$ 为相对稳定状态的荧光产率。
+
+1.3.3叶绿素含量检测：将叶圆片用去离子轻轻清洗，之后浸泡在 $3 { \mathrm { ~ m L } }$ N,N-二甲基-甲酰胺中，置于摇床中， $2 5 \mathrm { ~ \textdegree C }$ 、 $8 0 \ \mathrm { r \cdot m i n ^ { - 1 } }$ 震荡过夜。待叶片变为白色之后，用分光光度计测定其在480、647和 $6 6 4 \mathrm { n m }$ 处的吸光值。按照以下公式计算：
+
+$\mathrm { C a } { = } 1 2 { \times } \mathrm { A } _ { 6 6 4 } { - } 3 . 1 1 { \times } \mathrm { A } _ { 6 4 7 } { ; }$   
+$\mathrm { C b } { = } 2 0 . 7 8 { \times } \mathrm { A } _ { 6 4 7 } { - } 4 . 8 8 { \times } \mathrm { A } _ { 6 6 4 }$   
+Chla $( \mathrm { m g \bullet g ^ { - 1 } } ) \mathrm { = C a \times V / W } .$   
+Chlb $( \boldsymbol { \mathrm { m g } } \cdot \boldsymbol { \mathrm { g } } ^ { - 1 } ) { = } \boldsymbol { \mathrm { C b } } { \times } \boldsymbol { \mathrm { V } } / \boldsymbol { \mathrm { W } } ;$   
+Caro $( \mathrm { m g \bullet \ g ^ { - 1 } } ) = [ ( 1 0 0 0 \times \mathrm { A _ { 4 8 0 } } - 1 . 1 2 \times \mathrm { C a } - 3 4 . 0 7 \times \mathrm { C b } ) ] / 2 4 5 \times \mathrm { V } / \mathrm { W } \circ$
+
+式中：Ca、Cb分别为叶绿素a和b的提取液浓度；V为提取溶液体积；W为叶圆片干重;Chla、Chlb、Caro分别表示叶圆片的叶绿素a、叶绿素b和类胡萝卜素含量。1.3.4 相对电导率 将叶圆片置入洁净试管中，加入 $2 { \mathrm { m L } }$ 室温去离子水至浸没植物材料，将试管置于摇床中， $2 5 \mathrm { ~ \textdegree C }$ 、 $8 0 \mathrm { r \cdot m i n ^ { - 1 } }$ 孵育 $2 \mathrm { h }$ ，用雷磁DSS-II型电导率仪测定试管溶液的电导率C1；将试管于沸水浴中煮 $3 0 \mathrm { m i n }$ ，待样品冷却到室温后，测得溶液电导率C2；根据以下公式计算相对电导率（relative electricity conductiviy,REC）：
+
+${ \bf R E C } ( \% ) = { \bf \Psi } ( { \bf C } 1 / { \bf C } 2 ) { \bf \Psi } \times 1 0 0 \% .$ 0
+
+1.3.5丙二醛（malonialdehyde,MDA)含量检测，用硫代巴比妥酸法。取叶圆片加入 $2 \mathrm { m L } 1 0 \%$ 三氯乙酸（TCA），研钵中研磨提取 $2 \mathrm { m i n }$ ；提取液转入离心管，用 $3 \mathrm { m L } 1 0 \%$ TCA 冲洗研钵，冲洗液与提取液合并； $9 5 0 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 }$ 离心 $1 5 \mathrm { m i n }$ ，取上清液，用 $10 \%$ 的TCA 溶液定容至5mL。取 $1 \mathrm { m L }$ 上清液，加入 $1 \mathrm { m L } 0 . 6 \%$ 硫代巴比妥酸（TBA）， $1 0 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 水浴加热 $2 0 \mathrm { m i n }$ ，迅速冷却; $4 { \mathrm { ~ ‰ ~ } }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液在532、600、450nm 测定吸光值。MDA含量计算公式（Heath and Packer，1968）如下：  
+MDA含量 $( \mathrm { \underline { { { \ } } } \mathrm { { \mu m o l } } \cdot g ^ { - 1 } } ) \ = [ \ 6 . 4 5 \times \ ( \mathrm { A } _ { 5 3 2 ^ { - } } \mathrm { { A } } _ { 6 0 0 } ) \ - 0 . 5 6 \times \mathrm { { A } } _ { 4 5 0 } ] \times \mathrm { { V } } / \mathrm { { W } } \ $ （
+
+式中：V表示提取液体积（L），本研究为 $0 . 0 0 5 \mathrm { L }$ ；W为组织干重（g）。
+
+1.3.6 可溶性糖和脯氨酸的提取和检测参照Lietal.(2004)。将样品液氮研磨，加入4 mL $7 5 \%$ 乙醇，转移至离心管，置于摇床提取过夜。 $4 \ 5 0 0 \ \mathrm { r { \cdot m i n } ^ { - 1 } }$ 离心 $1 5 ~ \mathrm { m i n }$ 后取上清。用于可溶性糖和脯氨酸的测定。
+
+可溶性糖检测采用蒽酮比色法，取提取上清液 $4 0 ~ \mu \mathrm { L }$ 加葱酮 $2 { \mathrm { m L } }$ ， $1 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴 $1 \mathrm { h }$ 测定 $6 2 5 \mathrm { n m }$ 吸光值。脯氨酸检测采用璜基水杨酸法。取提取上清液 $6 0 0 ~ \mu \mathrm { L }$ 加芘三酮 $9 0 0 ~ \mu \mathrm { L }$ $1 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴1h，按 $1 : 3$ （样品：甲苯）比例加入甲苯 $4 . 5 ~ \mathrm { m L }$ ，振荡后 $2 3 ^ { \circ } \mathrm { C }$ 温育 $2 4 \mathrm { h }$ ，取上清测 $5 2 0 \mathrm { n m }$ 吸光值。
+
+配制不同浓度的可溶性糖和脯氨酸标准溶液，用上述的方法绘制标准曲线，根据标准曲线计算出样品中可溶性糖和脯氨酸的浓度（ $\mu \mathrm { g } \cdot \mathrm { m g } ^ { - 1 }$ DW）。
+
+# 1.4数据处理与分析
+
+数据异常值处理用Q检验法。将要检测的一组数据按照从大到小的顺序排列；用下面的公式算出 $\boldsymbol { Q }$ 值。$\begin{array} { r } { Q _ { \overset { . } { + } \overset { . } { \underset { \mathcal { H } } { \underbrace { \sum } } } } = \frac { | X _ { \overset { . } { \underset { \mathrm { E q } } { \underbrace { \sum } } \mathcal { H } \overset { . } {  } } } - X _ { \overset { . } { \ast } \overset { . } { \ast } \overset { . } { \ast } \overset { . } { \ast } } | } { X _ { \mathrm { m a x } } - X _ { \mathrm { m i n } } } \circ } \end{array}$
+
+式中： $X _ { \mathrm { m a x } }$ 是检测数据中的最大测量值； $X _ { \operatorname* { m i n } }$ 是检测数据中的最小测量值； $X _ { \sharp \sharp \sharp }$ 是要检测的数据； $X _ { \because | \sqrt { 5 } ) | \sqrt { 5 } }$ 为检测数据的邻近数据。本研究中，重复数为5，则在0.05水平，若 $Q _ { \mathrm { i + f } \hbar } > 0 . 7 3$ （Weltietal.,2002），则离群值应弃去；否则应保留。
+
+通过软件SPSS16.0，采用ANOVA法进行数据间的差异显著性分析。
+
+# 2结果与分析
+
+# 2.1锈色蛛毛苣苔和心叶马铃苣苔脱水复水过程的叶片形态及相对含水量变化
+
+由图1：A可知，锈色蛛毛苣苔在脱水1d时，叶片即表现出严重卷缩，叶背面锈毛完全露出，叶绿素荧光 $F _ { \nu } / F _ { m }$ 几乎消失，复水（Reh1）后，叶片逐渐展开， $F _ { \nu } / F _ { m }$ 基本恢复到对照水平；脱水2d时，叶片进一步卷缩，复水（Reh2）后叶片仍然可以展开， $F _ { \nu } / F _ { m }$ 恢复；而脱水3d后再复水的叶片不能完全展开，且叶片变为褐色，叶绿素荧光 $F _ { \nu } / F _ { m }$ 完全消失。图1：B显示，心叶马铃苣苔在脱水1d时，叶片平整，未出现卷缩，叶绿素荧光变化不大，复水(Reh1)后，叶片颜色及叶绿素荧光 $F _ { \nu } / F _ { m }$ 与对照相似；脱水2d时，叶片发生皱缩， $F _ { \nu } / F _ { m }$ 仍然保持与对照类似水平，复水（Reh2）后叶片展开， $F _ { \nu } / F _ { m }$ 恢复到类似对照水平；脱水3d时，叶片进一步皱缩，叶绿素荧光 $F _ { \nu } / F _ { m }$ 消失，再复水（Reh3）的叶片不能展开， $F _ { \nu } / F _ { m }$ 变为0。脱水复水过程的RWC结果（图1：C）显示，锈色蛛毛苣苔和心叶马铃苣苔新鲜叶片的RWC相似，分别为 $8 1 . 7 \%$ 和 $7 9 . 9 \%$ ，其失水速率也基本一致，第1天下降到约初始水平一半的值，第2天RWC分别迅速下降至 $4 . 2 \%$ 和 $5 . 6 \%$ ，第3天分别达到约 $1 . 3 \%$ 和 $1 . 5 \%$ 。脱水2d后复水，两个物种的RWC分别恢复到 $78 \%$ 和 $8 5 \%$ 。综上，锈色蛛毛苣苔和心叶马铃苣苔在脱水2d后，RWC达到 $5 \%$ 左右，复水仍然可以复活；脱水3d，RWC达到 $1 . 5 \%$ 左右后，即丧失活力。
+
+![](images/af6d28444ffc1ebaacf153fb88a7ca105a8aa8606e9f6210072a5daa379023ca.jpg)  
+A．锈色蛛毛苣苔叶圆片及其叶绿素荧光；B.心叶马铃苣苔叶圆片及其叶绿素荧光；C.相对含水量。 A.Leaf disces and their fluorescenceof P.rufescens；B.Leaf disces and their fluorescence of $o$ .cordatula; C. Relative water content. 图1 锈色蛛毛苣苔和心叶马铃苣苔不同脱水复水过程的叶圆片及其 $F _ { \nu } / F _ { m }$ 和相对含水量 Fig.1Leaves discs and their $F _ { \nu } / F _ { m }$ andRWCofParaboearufescensand Oreochariscordatula during dehydrated and rehydrated treatments
+
+# 2.2锈色蛛毛苣苔和心叶马铃苣苔脱水复水过程的叶片叶绿素荧光学参数变化
+
+$F _ { \nu } / F _ { m }$ 能反映植物的最大光能转化效率，即最大光合能力。不同脱水复水过程的叶片$F _ { \nu } / F _ { m }$ 结果（图2）显示，在脱水1和2d时，锈色蛛毛苣苔的 $F _ { \nu } / F _ { m }$ 值急剧下降，Deh2处理甚至下降到0，但是相应复水（Reh1、Reh2）后， $F _ { \nu } / F _ { m }$ 值均可以恢复到对照水平；在脱水3d时， $F _ { \nu } / F _ { m }$ 值急剧下降到0，复水后， $F _ { \nu } / F _ { m }$ 值仍旧为0，未能恢复，说明叶片的潜在最大光合能力消失。心叶马铃苣苔叶片的 $F _ { \nu } / F _ { m }$ 值在Deh1、Deh2、Reh1、Reh2处理中，基本保持与对照相似的水平；脱水3d后， $F _ { \nu } / F _ { m }$ 值急剧下降，复水后完全消失。
+
+Y(II)可以表征植物当前状态下的实际光能转换效率，由图2可知，光适应之后，锈色蛛毛苣苔和心叶马铃苣苔的叶片Y(II)均降为很低的值，脱水1d后，锈色蛛毛苣苔的Y(II)值有升高，而心叶马铃苣苔继续下降；脱水2d时，两个物种的Y(II)均无法检测到；复水处理中，在Reh2处理时，锈色蛛毛苣苔和心叶马铃苣苔叶片的Y(II)有小幅升高趋势，而在其他处理中，锈色蛛毛苣苔和心叶马铃苣苔的叶片Y(II)均无法检测到。
+
+Y(NPQ)是PSII吸收的能量通过光保护机制耗散为热量的那部分能量，反映植物的光保护能力。图2可知，锈色蛛毛苣苔和心叶马铃苣苔的Y(NPQ)与 $F _ { \nu } / F _ { m }$ 的整体变化趋势类似。然而在心叶马铃苣苔中，脱水1d的Y(NPQ)较对照有升高趋势，表明脱水1d后心叶马铃苣苔的光保护能力提高；脱水2d时，其Y(NPQ)值与其对照水平相当，而此时锈色蛛毛苣苔的Y(NPQ)值无法监测到；Reh3处理的Y(NPQ)下降为0，而其 $F _ { \nu } / F _ { m }$ 值为0.07，表明心叶马铃苣苔脱水3d时，其PSⅡ仍具有潜在光合能力，但是已经丧失光保护能力。说明心叶马铃苣苔在脱水1、
+
+2d时，其光保护能力较强。
+
+![](images/484908e6dc566ffe004d91b81b88f1565cc89b5515b8abf3c6e63fb5c74d01d7.jpg)
+
+$F _ { \mathbf { \Omega } } / F _ { m }$ ．叶绿体光系统ⅡI最大光化学量子产量；Y(II).叶绿体光系统ⅡI实际光化学量子产量；Y(NPQ).调节 性能量耗散量子产量。不同小写字母表示同一物种不同处理间存在显著性差异 $( P < 0 . 0 5 )$ 。下同。 $F _ { \nu } / F _ { m }$ .Maximal photochemical efficiency of PSI; Y(II). Actual photochemical efficiency of PSII; Y(NPQ). Adjusted photochemical efficiency of PSII. Different smalletters of the same species indicate significant differences among different treatments ( $( P < 0 . 0 5 )$ . The same below.
+
+图 2 锈色蛛毛苣苔和心叶马铃苣苔不同脱水复水过程的叶圆片叶绿素荧光参数 Fig. 2 Chlorophyll fluorescence parameters of Paraboea rufescens and Oreocharis cordatula leaves discs during dehydrated and rehydrated treatments
+
+# 2.3锈色蛛毛苣苔和心叶马铃苣苔不同脱水复水处理的光合色素含量变化
+
+锈色蛛毛苣苔和心叶马铃苣苔叶圆片在脱水复水过程的光合色素含量结果(表1)显示，锈色蛛毛苣苔叶圆片在脱水1、2d时，叶绿素a含量均较对照显著下降，脱水2d复水（Reh2）后，叶绿素a含量升高，但是没有达到显著水平；其叶绿素b含量、叶绿素 $a + b$ 含量以及类胡萝卜素也表现出相似的变化趋势，叶绿素 $a + b$ 含量在脱水2d时，下降 $5 0 \%$ ，胡萝卜素含量也分别下降 $2 8 \%$ ；而叶绿素a/b比值表现出相反的趋势，即Deh1、Deh2和Reh2处理中的叶绿素a/b比值均显著升高。心叶马铃苣苔叶片在脱水1、2d时，与对照相比，叶绿素a含量均显著下降，Reh2处理的叶绿素a含量有升高，达到与对照相似水平；其叶绿素b含量和叶绿素 $a { + } b$ 含量在Deh1处理显著下降，而Deh2和Reh2处理中，与对照无显著差异；其类胡萝卜素含量在处理过程中下降，但是仅Deh2处理达到显著水平，其他处理均未达到显著水平；其叶绿素a/b比值在整个脱水复水过程中均未发生改变。可见，锈色蛛毛苣苔和心叶马铃苣苔叶片在脱水复水过程的光合色素含量下降，表明光合色素发生部分降解，锈色蛛毛苣苔较心叶马铃苣苔发生更多降解。
+
+表1锈色蛛毛苣苔和心叶马铃苣苔叶圆片不同脱水复水过程的光合色素含量  
+le1PotostheticpigmentsofPrabeufendOreoarisdatulaesdiscsurigdierentddatednddatedeats   
+
+<html><body><table><tr><td rowspan="2">色素 Pigment</td><td rowspan="2">物种 Species</td><td colspan="4">含量Content (μg·mg-1)</td></tr><tr><td>新鲜Fresh</td><td>Deh1</td><td>Deh2</td><td>Reh2</td></tr><tr><td>叶绿素a Chla</td><td>锈色蛛毛苣苔 Paraboea rufescens</td><td>4.05 ± 0.68a</td><td>2.68 ± 0.35b</td><td>2.16 ± 0.27b</td><td>2.61 ± 0.32b</td></tr><tr><td rowspan="2"></td><td>心叶马铃苣苔 Oreocharis cordatula</td><td>3.65 ± 0.69a</td><td>2.17 ± 0.14b</td><td>2.57 ± 0.06b</td><td>2.75 ± 1.23ab</td></tr><tr><td>锈色蛛毛苣苔 Paraboea rufescens</td><td>1.53 ± 0.25a</td><td>0.78 ± 0.1b</td><td>0.63 ± 0.06b</td><td>0.72 ± 0.08b</td></tr><tr><td>叶绿素b Chlb</td><td>心叶马铃苣苔 Oreocharis cordatula</td><td>1.47 ± 0.11a</td><td>0.98 ± 0.06b</td><td>1.1 ± 0.08ab</td><td>1.21 ± 0.49ab</td></tr><tr><td>叶绿素a/b</td><td>锈色蛛毛苣苔 Paraboea rufescens</td><td>2.65 ± 0.11b</td><td>3.46 ± 0.19a</td><td>3.42 ± 0.38a</td><td>3.63 ± 0.2a</td></tr><tr><td>Chla/b</td><td>心叶马铃苣苔 Oreocharis cordatula</td><td>2.3 ± 0.17a</td><td>2.26 ± 0.02a</td><td>2.24 ± 0.02a</td><td>2.26 ± 0.1a</td></tr><tr><td>叶绿素a+b</td><td>锈色蛛毛苣苔 Paraboea rufescens</td><td>5.58 ± 0.92a</td><td>3.46 ± 0.45b</td><td>2.8 ± 0.35b</td><td>3.32 ± 0.39b</td></tr><tr><td>Chla+b</td><td>心叶马铃苣苔 Oreocharis cordatula</td><td>4.84 ± 0.4a</td><td>3.15 ± 0.19b</td><td>3.71 ± 0.1ab</td><td>3.26 ±0.86ab</td></tr><tr><td>类胡萝卜素</td><td>锈色蛛毛苣苔 Paraboea rufescens</td><td>0.92 ± 0.16 a</td><td>0.68 ± 0.02b</td><td>0.66 ± 0.12b</td><td>0.73 ± 0.1b</td></tr><tr><td>Carotenoid</td><td>心叶马铃苣苔 Oreocharis cordatula</td><td>0.96 ± 0.15a</td><td>0.76 ± 0.14ab</td><td>0.72 ± 0.05b</td><td>0.8 ± 0.26ab</td></tr></table></body></html>
+
+注：同行不同小写字母表示不同处理间存在显著性差异 $( P < 0 . 0 5 )$ 。 Note: Different small letters in the same row indicate significant differences among different treatments $( P < 0 . 0 5 )$
+
+# 2.4锈色蛛毛苣苔和心叶马铃苣苔在脱水复水过程的膜损伤指标变化
+
+质膜是植物应对胁迫的第一响应器官。脱水后叶片细胞的膜渗透性可能发生改变，膜渗透性的伤害程度可用电导率表示。由图3可知，脱水1、2、和3d后，锈色蛛毛苣苔的电导率均逐渐升高，脱水1d时与对照相比无显著变化，脱水2d时较对照显著升至 $5 1 . 8 \%$ ，在致死脱水3d时，电导率最高，达到 $9 5 \%$ ；Reh1和Reh2处理的叶圆片电导率与相应脱水处理（Deh1和Deh2）没有显著差异，而Reh3较Deh3处理的电导率显著下降，原因可能是，脱水3d，叶片细胞已丧失活力，细胞膜破裂，导致叶片内大量电解质泄露到叶片外面，因此电解质急剧下降。心叶马铃苣苔的叶圆片，在脱水1d及复水时，其电导率与对照类似，而脱水2d（Deh2）较对照显著升高至 $56 . 2 \%$ ，致死脱水3d时继续升高至 $9 5 . 7 \%$ ；脱水2d后复水（Reh2）与脱水2d（Deh2）处理的电导率无显著差异，Reh3处理较Deh3处理有下降。表明两个物种在脱水1、2d时，膜发生损伤，但是并不致命，仍然可以恢复，而脱水3d 后膜发生致命损伤，无法恢复。
+
+细胞受到水分胁迫时会产生过氧化产物，这些过氧化产物会氧化膜脂生成膜脂过氧化产物 MDA。由图3可知，不同脱水复水过程，锈色蛛毛苣苔和心叶马铃苣苔的MDA含量虽有变化，但是变化不显著，且与非复苏植物拟南芥 (Lietal.,2014)相比，其含量保持很低水平。即其膜脂过氧化水平在脱水复水过程并未发生显著改变，即使是致死脱水后复水处理（Reh3）中，MDA含量也未大幅上升。
+
+![](images/8932f90ed63f39ae6695ea0083952fb26ddd3b0d9ad13eefce6225ef5b3dd0da.jpg)  
+图3 锈色蛛毛苣苔和心叶马铃苣苔叶圆片不同脱水复水过程的电导率和MDA含量 Fig.3 Relative electricity conductivity and MDA contents of Paraboea rufescens and Oreocharis cordatula leaves discs during dehydration and rehydration treatments
+
+# 2.5锈色蛛毛苣苔和心叶马铃苣苔不同脱水复水过程的渗透调节物质变化
+
+锈色蛛毛苣苔和心叶马铃苣苔在脱水复水过程的可溶性糖含量(图4)显示，脱水1、2、3d的可溶性糖含量均较对照显著升高，Deh3处理升高最多；复水后，锈色蛛毛苣苔的可溶性糖含量较相应脱水处理显著下降，而心叶马铃苣苔的可溶性糖含量在Deh1和Reh1之间无显著差异，脱水2、3d后复水的可溶性糖含量较相应脱水处理显著下降。锈色蛛毛苣苔中，脯氨酸含量在脱水复水过程中，均无显著变化；而心叶马铃苣苔中脱水2、3d的脯氨酸含量较对照有升高。然而，两个物种在脱水复水过程中，脯氨酸含量均为 $1 ~ { \mu \mathrm { g } } ^ { \cdot } \mathrm { m g } ^ { - 1 }$ 数量级，在非复苏植物拟南芥中，对照条件下的脯氨酸含量为 $1 0 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m g } ^ { - 1 }$ 数量级(Li et al.,2014)。
+
+![](images/753a135bb73f7c554785f4fb25dddc5119a6218fc154915ff0ccfefed55ad542.jpg)  
+图 4锈色蛛毛苣苔和心叶马铃苣苔叶圆片不同脱水复水过程的可溶性糖和脯氨酸含量 Fig.4 Contents of soluble sugar and proline in Paraboea rufescens and Oreocharis cordatula leaves discs during dehydration and rehydration treatments
+
+# 3讨论与结论
+
+大多复苏植物生长于年降雨量仅为 $1 6 0 { \sim } 5 7 0 \ \mathrm { m m }$ （Hickel,1967）的干旱半干旱地区。虽然锈色蛛毛苣苔和心叶马铃苣苔的原产地云南省石林县和香格里拉县相对荒漠地区年降雨量并不低（张忱,2015；刘盈曦等，2016），但是由于其喀斯特地貌的基岩裸露率高、土壤浅薄、保水性较差等原因致使出现岩溶干旱现象(Zeng etal.,2007；刘艳,2016)。干旱会影响植物的生理生化特征，严重失水时，原生质水完全丧失，细胞内仅剩余小部分束缚水(Bartels& Salamini,2001)。本研究中，锈色蛛毛苣苔和心叶马铃苣苔的叶圆片在脱水至2d时，叶圆片的RWC即下降到 $5 \%$ 左右；并且此时复水1d叶圆片的RWC可以恢复到对照水平，这远远低于复苏植物的可恢复相对含水量水平 $10 \%$ （Alpert,2006），表明两个物种均为复苏植物。锈色蛛毛苣苔和心叶马铃苣苔叶圆片的脯氨酸和可溶性糖含量，以及在脱水和随后的复水过程中膜脂过氧化和离子渗漏结果，进一步证明了两个物种的复苏特性。叶片中的可溶性糖在脱水过程中略有积累；而脯氨酸含量在脱水以及复水过程中均保持较低水平且基本不变，这与其他复苏植物(Bianchi,1993;Georgieva et al.,2005;Li et al.,2014）相同，推测脯氨酸可能不参与该类复苏植物耐受极度脱水的渗透调节过程(Lietal.,2014)。膜的完整性可由MDA和离子渗漏的量来指示，锈色蛛毛苣苔和心叶马铃苣苔在脱水1、2d及相应复水时的MDA和离子渗漏量均较低，这也与弥勒苣苔(Lietal.,2014)相似。由此推测，在脱水复水过程中，这些复苏植物的膜脂有其独特的保护机制，能够在极度干旱条件下维持其细胞膜脂的组成。表明在可复苏脱水时，复苏植物可以保持较好的膜完整性。而随着脱水程度加重，脱水3d时，两个物种的RWC均降低至 $1 . 5 \%$ 左右，光合活性降为0，电解质几乎全部泄漏；此时复水，叶圆片的RWC、光合活性均不能恢复到对照水平。说明此时锈色蛛毛苣苔和心叶马铃苣苔的叶圆片过度脱水，叶片细胞内的束缚水也发生脱水(Bartels＆ Salamini,2001)，叶片丧失恢复能力。
+
+在脱水复水过程中，HDT可以保持其光合色素水平及光合器官结构的完整性(Drazic etal.,1999)。在黑暗干燥条件下，心叶马铃苣苔的叶绿素 $a + b$ 含量在脱水至 $5 \%$ 及复水时均未发生显著变化，表明该物种为叶绿素维持型复苏植物。而锈色蛛毛苣苔在脱水至 $5 \%$ 时，叶绿素 $\mathbf { a } { + } \mathbf { b }$ 含量下降 $5 0 \%$ 左右，复水后短期内即可有升高趋势，区别于脱水后叶绿素完全降解，复水需要较长时间完成修复的PDT(Leuttge etal.,2011)，其仍然为HDT，脱水后降解部分叶绿素，复水后迅速恢复其水平，这在复苏植物弥勒苣苔（Lietal.,2014）、Myrothamnusflabellifolia (Farrant et al.,1999)、Ramonda nathaliae (Drazic et al.,1999)、 Craterostigmawilmsii(Farrantetal.,2000)等物种中也有发现。这种类型的复苏植物在复水后可以迅速恢复叶绿素水平，并修复类囊体结构(Hallam&Luff,1980），有利于植物迅速恢复光合作用状态而进行物质合成，是植物生长在间歇性降雨环境的一种适应策略(Sherwin&Farrant,1996)。
+
+虽然脱水过程中叶绿素含量呈维持的趋势，但是通常复苏植物叶片的光合活性在脱水时完全消失，复水后又能够恢复(Georgieva et al.,2005;Evelin etal.,2012)。锈色蛛毛苣苔在脱水1、2d后，其最大光合潜力参数 $F _ { \nu } / F _ { m }$ 即消失，相应复水后其值又可恢复到对照相似水平，这可能与先前报道的植物在干燥过程中具有保持光合机构完整性的保护机制有关(Augusti etal.,2001；Bartels& Salamini,2001)。而心叶马铃苣苔叶圆片在脱水1、2d时，区别于锈色蛛毛苣苔，其 $. F _ { \nu } / F _ { m }$ 值基本维持在对照水平。心叶马铃苣苔脱水时能够维持其 $F _ { \nu } / F _ { m }$ 能力，可能是因为其能够通过光保护机制将过量的光耗散为热量[Y(NPQ)]，具有更强的光保护能力。而脱水3d时，不管锈色蛛毛苣苔，还是心叶马铃苣苔的叶圆片 $F _ { \nu } / F _ { m }$ 值均消失且复水未能恢复。这是因为过度脱水导致叶圆片的叶绿素及类囊体结构受到破坏（Tuba etal.,1996），而复水后叶圆片的叶绿体及内部结构迅速崩解。
+
+叶片折叠和展开是复苏植物应对脱水及脱水后复水过程常见的形态适应特性(Gaff,1989)。本研究发现，锈色蛛毛苣苔的叶圆片在脱水后向内折叠，密被白色毡毛的叶背面露在外面，可以防止过量光照产生活性氧对叶片造成伤害(Dalla Vecchia et al.,1998；Farrant etal.,2003)。而心叶马铃苣苔脱水复水过程的叶圆片形态变化完全不同，在脱水1、2d时，其叶圆片相对平整，稍有皱缩；而脱水3d时，叶片有卷缩，但是与锈色蛛毛苣苔相比程度轻很多。可见，锈色蛛毛苣苔和心叶马铃苣苔的叶片形态结构响应干旱的适应机制不同。
+
+综上所述，锈色蛛毛苣苔和心叶马铃苣苔的叶圆片均可以耐受 $5 \%$ RWC的脱水，复水后其叶圆片的外部形态、叶绿素含量、光合活性、离子渗漏指标等均可以恢复到对照水平，而继续脱水至 $1 . 5 \%$ RWC，则上述指标均不能恢复，表明这两个物种均具有复苏特性。在应对脱水复水处理时，两个物种具有一些相同的生理生化变化。两种复苏植物均能够相对维持其叶绿素水平，便于植物在雨季来临能够迅速恢复光合作用进行生长。可溶性糖在锈色蛛毛苣苔和心叶马铃苣苔的脱水胁迫过程中起到渗透调节作用，而脯氨酸可能不参与该类复苏植物耐受极度脱水的渗透调节过程。两个物种的膜脂可能有其独特的保护机制，能够在极度干旱条件下维持其细胞膜脂免于被氧化的过程，而其机制需要进一步研究。但是二者也存在不同的响应机制，锈色蛛毛苣苔通过剧烈卷缩叶片来避免脱水时过量的光照对植物造成的伤害；而心叶马铃苣苔则具有更强的光保护能力，在受到脱水胁迫时，其能够通过光保护机制将PS $\mathrm { I I }$ 吸收的过多能量通过热耗散形式散布出去，从而保护其光器官免受伤害。而这两个物种对脱水复水响应的差异，是否与其野外生境的差别有关系，需要进一步研究。
+
+# 参考文献:
+
+ALPERT P,2Oo6. Constraints of tolerance: why are desiccation-tolerant organisms so small or rare [J]. JExp Biol, 209: 1575-1584.   
+AUGUSTI A, SCARTAZZA A, NAVARI-IZZO F, et al., 20O1. Photosystem I photochemical efficiency, zeaxanthin, and antioxidant contents in the poikilohydric Ramonda serbica during dehydration and rehydration [J].Photosyn Res, 67: 79-88.   
+BARRS HD, WEATHERLEY PE,1962.A re-examination of the relative turgidity technique for estimating water deficits in leaves [J]. Aust JBiol Sci,15(3): 413-428.   
+BARTELS D, SALAMINI F,2O01. Desiccation tolerance in the resurrection plant Craterostigma plantagineum. A contribution to the study of drought tolerance at the molecular level [J]. Plant Physiol, 127(4): 1346-1353.   
+BIANCHI G, GAMBA A, LIMIROLI R, et al., 1993. The unusual sugar composition in leaves of the resurrection plant Myrothamnus flabellifolia [J]. Physiol Plantarum, 87(2): 223-226.   
+DALLA VECCHIA F, EL ASMAR T, CALAMASSI R, et al., 1998. Morphological and ultrastructural aspects of dehydration and rehydration in leaves of Sporobolus stapfianus [J]. Plant Growth Regul, 24(3): 219-228.   
+DRAZIC G, MIHAILOVIC N, STEVANOVIC B, 1999. Chlorophyll metabolism in leaves of higher poikilohydric plants Ramonda serbica Panc, and Ramonda nathaliae Panc, et Petrov. during dehydration and rehydration [J]. JPlant Physiol, 154(3): 379-384.   
+EVELIN RP, MIHAILOVA G,PETKOVA S,et al., 2012. Differences in physiological adaptation of Haberlea rhodopensis Friv. leaves and roots during dehydration-rehydration cycle [J]. Acta Physiol Plant, 34: 947-955.   
+FARRANT JM, 2000. A comparison of mechanisms of desiccation tolerance among three angiosperm resurrection plant species [J]. Plant Ecol, 151(1): 29-39.   
+FARRANTJM, COOPER K, KRUGER LA, et al., 1999. The effect of drying rate on the survival of three desiccation-tolerant angiosperm species [J]. Ann Bot-London, 84(3): 371-379.   
+FARRANT JM, VANDER WILLIGEN C, LOFFELL DA, et al., 2003. An investigation into the role of light during desiccation of three angiosperm resurrection plants [J]. Plant Cell Environ, 26(8): 1275-1286.   
+GAFF DF, 1989. Responses of desiccation tolerant ‘resurrection’ plants to water stress [M] // KREEB KH, RICHTER H, HINCKLEY TM. Structural and functional responses to environmental stresses: Water shortage. The Hague: SPB Academic Publishing: 255-268.   
+GEORGIEVA K, MASLENKO VA L, PEEVA V, et al.,2005. Comparative study on the changes in photosynthetic activity of the homoiochlorophyllous desiccation-tolerant Haberlea rhodopensis and desiccation-sensitive spinach leaves during desiccation and rehydration [J]. Photosynth Res, 85(2): 191-203.   
+HALLAM ND,LUFF SE,1980. Fine structural changes in the leaves of the desiccation-tolerant plant Talbotia elegans during extreme water stress [J]. Bot Gaz,141: 180-187.   
+HEATH RL, PACHER L,1968.Photo peroxidation in isolated chloroplast I. Kinetics and stoichemistry of fatty acid peroxidation [J]. Arch Biochem Biophys,125:189-198.   
+HICKEL B, 1967. Zur Kenntnis einer xerophilen Wasserpflanze: Chamaegigas intrepidus DTR. Aus Südwestafrika [J]. Int Revue Ges Hydrobiol, 52(3): 361-400.   
+INGLE RA, COLLETT H, COOPER K, et al., 2008. Chloroplast biogenesis during rehydration of the resurrection plant Xerophyta humilis: parallels to the etioplast-chloroplast transition [J]. Plant Cell Environ, 31(12): 1813-1824.   
+JOVANOVIC Z, RAKIC T, STEVANOVIC B, et al., 2011. Characterization of oxidative and antioxidative events during dehydration and rehydration of resurrection plant Ramonda nathaliae [J]. Plant Growth Regul, 64(3): 231-240.   
+LEUTTGE U, BECK E, BARTELS D, 2011. Plant desiccation tolerance [M]. New York: Springer Publishing Company: 182-183.   
+LI AH, WANG DD, YU BZ, et al., 2014. Maintenance or collapse: responses of extraplastidic membrane lipid composition to desiccation in the resurrection plant Paraisometrum mileense [J].PLoS ONE, 9(7): e103430.   
+LI WQ, LI MY, ZHANG WH, et al., 2004. The plasma membrane-bound phospholipase D δ enhances freezing tolerance in Arabidopsis thaliana [J]. Nat Biotech, 22(4): 427-433.   
+LIU Y,2016. Research of spatial and temporal of diferent land use types on surface soil moisture on the slope in the region of depression between karst hills, in Southwest of China [D]. Nanning:GuangxiUniversity.[刘艳,2016．喀斯特峰丛洼地不同土地利用方式下表层土 壤水分的时空规律研究[D]．南宁：广西大学.]   
+LIU YX,PENG GF,CHEN XG, et al., 2016. Climatic and environmental changes in Shangri-La in next 5O years according to wavelet analysis and multiple VAR regression prediction modeling[J].Resour Sci,38(9):1754-1767.[刘盈曦，彭贵芬，陈先刚，等，2016．香格 里拉未来 50a主要气候环境要素变化预估——基于小波分析和多元VAR 回归预估模型 [J].资源科学，38(9): 1754-1767.]   
+MOORE JP,LINDSEY GG,FARRANT JM, et al.,2OO7. An overview of the biology of the desiccation-tolerant resurrection plant Myrothamnus flabellifolia [J]. Ann Bot-London, 99(2): 211-217.   
+MULLER J, SPRENGER N, BORTLIK K, et al.,1997. Desiccation increases sucrose levels in Ramonda and Haberlea, two genera of resurrection plants in the Gesneriaceae [J]. Physiol Plantatum, 100(1): 153-158.   
+PANDEY V,RANJAN S,DEEBA F, et al., 2010. Desiccation-induced physiological and biochemical changes in resurrection plant Selaginella bryopteris [J]. J Plant Physiol,167(16): 1351-1359.   
+POREMBSKI S,2011. Evolution, diversity,and habitats of poikilohydrous vascular plants: plant desiccation tolerance [M]. Berlin Heidelberg: Springer: 139-156.   
+RASCIO N, ROCCA NL, 2005. Resurrection plants: the puzzle of surviving extreme vegetative desiccation [J]. Crit Rev Plant Sci, 24(3): 209-225.   
+ROHACEK K, SOUKUPOVA J, BARTAK M, 2008. Chlorophyl fluorescence: a wonderful tool to study plant physiology and plant stress [M]// SCHOEFS B, Plant cell compartments. India: Research Sigpost: 41-104.   
+SHERWIN W,FARRANT M, 1996. Differences in rehydration of three desiccation-tolerant angiosperm species [J]. Ann Bot-London, 78(6): 703-710.   
+STRASSER RJ, TSIMILLI-MICHAEL M, QIANG S, et al., 2010. Simultaneous in vivo recording of prompt and delayed fluorescence and $8 2 0 – \mathrm { n m }$ reflection changes during drying and after rehydration of the resurrection plant Haberlea rhodopensis [J]. BBA-Bioenergetics,1797(6): 1313-1326.   
+TUBA Z, LICHTENTHALER HK, CSINTALAN Z, et al., 1996.Loss of chlorophylls, cessation of photosynthetic CO2 assimilation and respiration in the poikilochlorophyllous plant Xerophyta scabrida [J].Physiol Plantarum, 96: 383-388.   
+TUBA Z, PROTOR CF, CSINTALAN Z, 1998. Ecophysiological responses of homoiochlorophyllous and poikilochlorophyllous desiccation tolerant plants: a comparison and an ecological perspective [J]. Plant Growth Regul, 24(3): 211-217.   
+TYMMS MJ, GAFF DF, 1979. Proline accumulation during water stress in resurrection plants [J]. JExp Bot, 30(1): 165-168.   
+WANG WT, PAN KY, LI ZY, 1990. Fora Reipublicae Popularis Sinicae: Gesneriaceae [M]. Beijing: Science Press,69:151-466.[王文采，潘开玉，李振宇,1990.中国植物志：苦苣苔 科 [M]．北京：科学出版社,69:151-466.]   
+WELTI R, LI WQ,LI MY, 2002. Profiling membrane lipids in plant stress responses. role of phospholipase D alpha in freezing-induced lipid changes in Arabidopsis [J]. JBiol Chem, 277: 31994-32002.   
+ZENG FP, PENG WX, SONG TQ, et al., 2O07. Changes in vegetation after 22 years'natural restoration in the karst disturbed area in northwestern Guangxi, China [J]. Acta Ecol Sin, 27(12): 5110-5119.   
+ZHANG C, WANG YM, LI YX, et al., 2015. Precipitation analysis of Shiling County during 2010-2013 [J].JAnhui Agric Sci,43(13): 245-246.[张忱，王一鸣，黎云霞，等,2015．石 林县 2010—2013 年降水情况分析[J]．安徽农业科学，43（13）：245-246.]

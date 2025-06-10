@@ -1,0 +1,154 @@
+# 西花蓟马孤雌产雄生殖繁育的后代种群生命表的建立
+
+李　帅」　张　彬¹　李洪刚1,²　王俊平」王吉锋}　万方浩1,3 郑长英1\*\*(1．青岛农业大学农学与植物保护学院 青岛266109;2.山东省植物保护总站 济南250000;3．中国农业科学院植物保护研究所 北京100193)
+
+摘要孤雌生殖是西花蓟马(Frankliniella occidentalis)繁殖的一种重要方式。前期研究发现，西花蓟马在高温下，雌性的存活率远大于雄性。为探究高温处理后仅有雌性西花蓟马孤雌产雄的情况下其后代建立种群的可能性，试验设定：高温 $( 4 5 \ \mathrm { ~ \textbar ~ { ~ C ~ } ~ } , \ 2 \ \mathrm { h } )$ 处理西花蓟马单个雌性个体，分别进行孤雌产雄生殖后，雄性子代 $( \mathrm { F } _ { 1 }$ 代)与其母系回交产生 $\mathrm { F } _ { 2 }$ 代；高温 $( 4 5 ~ \mathrm { ~ \textdegree ~ }$ ， $2 \ \mathrm { h } ) ,$ 处理西花蓟马多个雌性个体，进行孤雌产雄生殖后，雄性子代 $\mathrm { { F } } _ { 1 }$ 代)与亲代多个雌性个体共存情况下进行交配产生 $\mathrm { ~ F } _ { 2 }$ 代。两组处理模式下建立 $\mathrm { ~ F } _ { 2 }$ 代实验种群生命表。结果表明，上述两种处理模式，母代雌性个体与子代雄性个体交配后均可产生后代，雄性 $\mathrm { ~ F _ { 1 } ~ }$ 代与其母系回交产生的$\mathrm { F } _ { 2 }$ 代的雌雄性比为 $1 . 0 5 : 1$ ；与亲代多个雌性个体共存下交配产生的 $\mathrm { F } _ { 2 }$ 代性比为 $1 . 5 5 : 1$ 。雄性 $\mathrm { ~ F _ { 1 } ~ }$ 代与其母系回交产生的 $\mathrm { ~ F } _ { 2 }$ 代的平均单雌产卵量 $( F )$ 和内禀增长率 $( r _ { m } )$ 显著小于与亲代多个雌性个体共存下交配产生的 $\mathrm { ~ F } _ { 2 }$ 代$( P { < } 0 . 0 5 )$ ；各龄期的平均发育历期、平均产卵前期和平均总产卵前期2个繁殖力参数以及净生殖率 $( R _ { 0 } )$ 、平均世代周期(T)2个种群参数，前者则比后者长 $( P { < } 0 . 0 5 )$ ；另周限增长率()两者之间无显著差异。研究表明西花蓟马在孤雌产雄状态下仍然可以在短期建立种群，具有较强的抗高温能力和繁殖能力，为其成功入侵奠定了生态学基础。
+
+关键词 西花蓟马孤雌生殖种群参数生命表 $\mathrm { F } _ { 1 }$ 代 $\mathrm { F } _ { 2 }$ 代 中图分类号：S436 文献标识码：A 文章编号:1671-3990(2016)10-1409-08
+
+# Population establishment of Frankliniella occidentalis (Thysanoptera: Thripidae) offspring under parental arrhenotocous parthenogenesis reproduction
+
+LI Shuai¹, ZHANG Bin],LI Honggang1,2, WANG Junping1, WANG Jifengl, WAN Fanghao1'3, ZHENG Changying1   
+(1.Collge ofAgronomyandPlantProtection,QingdaoAgriculturalUniversityQingdao266109,China;2lantProtectiontation   
+ofShandongProvince,Jinan250ooo,China;3.InstituteofPlantProtection,ChineseAcademyofAgricultural Sciences,Beijing 100193,China)
+
+AbstractThereproductivemodeof parthenogenesis iscriticalforFranklinielloccidentalis(Thysanoptera:Thripidae) invasive species.Studies haveshown that the survival offemale thrips was significantly higher than thatofmale thrips at high temperature $( 4 5 \mathrm { ~ \ r ~ C ~ } , \mathrm { ~ \ r ~ 2 ~ } \mathrm { ~ h ~ } )$ .In order to explore the possbility of population establishment of western flower thrips by parthenogenesis under high temperature conditions, female adult thrips were exposed to $4 5 \ \mathrm { ~ \textdegree C }$ for $^ { 2 \mathrm { h } }$ and then their offspring $\mathrm { { F } } _ { 1 }$ generation）back-crossd with parentalor“uncertain parental”female thrips.The lifetable was established todescribe the population development of offspring after back-crossing ${ \mathrm { ~ F } } _ { 2 }$ generation). The results indicated that the above two modes of generation of female copulated with $\mathrm { F } _ { 1 }$ male offspring both produced fertile offsprings. The sex ratio of the $\mathrm { F } _ { 2 }$ generation from parental female adult (female : male $: = 1 . 0 5 : 1$ ） was lower than the sex ratio of the $\mathrm { F } _ { 2 }$ generation from “uncertain parental” female adults (female $\vdots$ male $= 1 . 5 5 : 1$ ).In addition，the $\mathrm { F } _ { 2 }$ generation from parental female had lower average female fecundity ( $\boldsymbol { \mathsf { \Pi } } ^ { \prime }$ ，44.25 eggs per female), lower intrinsic rate of increase $( r _ { m } , \ 0 . 1 3 3 \ 9 )$ , longer average developmental duration, longer adult pre-oviposition period (APOP,3.13d),longer total pre-ovipositionperiod(TPOP,17.19d)andlongeraverage generation duration $( 2 3 . 3 2 \mathrm { ~ d } )$ than the $\mathrm { F } _ { 2 }$ generation from“uncertain parental” female adults( $\textstyle \mathcal { P } < 0 . 0 5$ ·， $F$ of 62.25 eggs per female, $r _ { m }$ of 0.146 8, APOP of $2 . 8 5 \mathrm { ~ d ~ }$ , TPOP of $1 4 . 4 5 \mathrm { ~ d ~ }$ and longer generation duration of 20.49 d). However, no significant difference was noted in the finite rate of increase $( P > 0 . 0 5 )$ ). The results indicated that $F .$ occidentalis established populations withinashort timebyarrhenotocous parthenogenesis and had strongresistance to hightemperatures andreproductivecapacity which laid the basis for successful invasion.A single high temperature model was not ideal for the control of $F .$ occidentalis in case of host plant without serious injuries.This suggested that multiple control modes were beter.Future studies should investigate and discuss effective control modes of $F .$ occidentalis.
+
+KeywordsFrankliniella occidentalis； Arhenotoky reproduction; Population parameters； Life table; $\mathrm { F } _ { 1 }$ generation; $\mathrm { F } _ { 2 }$ generation
+
+近年来，随着经济发展，外来昆虫通过多种途径迅速进入我国，对我国农林业、生态平衡以及人类健康造成了很大的影响[1-2]。外来昆虫能否在入侵地成功建立种群取决于一系列的生物和非生物因素如当地气候、资源、与本地种的互作等等[3]，然而其自身对环境的适应能力及繁殖能力则起到决定性的作用。入侵后的昆虫在其生殖方式上具有明显特点。一些自发性起源的孤雌生殖的害虫为适应环境压力，会拓展自己的生殖方式，比如黄蜂(Vespulavulgaris)、蚜虫(Aphidoidea)都能够产生两性生殖和孤雌生殖的品系[4]。起源于北美密西西比河流域的稻水象甲(Lissorhoptrusoryzophilus)原为两性生殖型，侵入中国和其他地区后，均转变为地理性孤雌生殖[5-6]。孤雌生殖是自然界中常见的一种生殖方式，又包括产雄孤雌生殖和产雌孤雌生殖两种模式，例如一些膜翅目昆虫小蜜蜂(Apidie sp.)、胡峰(Paperwasp)等都具有产雄孤雌生殖的特征，而缨翅目中的烟蓟马(Thripstabaci)则是以产雌孤雌生殖的方式来繁殖后代的[7]。因此，孤雌生殖的能力以及模式对后代种群建立有着不可忽视的作用。
+
+西花蓟马[Frankliniella occidentalis Pergande(Thysanoptera:Thripidae)]营产雄孤雌生殖和两性生殖两种生殖方式，以有性生殖为主[8]。对西花蓟马的研究发现，相同条件下高温处理不同生殖方式的成虫或2龄若虫，孤雌生殖条件下的雌虫寿命显著高于两性生殖，但产卵量无明显差异[9]。另外，高温对西花蓟马雌性和雄性的影响不同，有研究发现，$3 3 { \sim } 4 3 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 高温 $2 \mathrm { h }$ ，西花蓟马雌性的存活率显著高于雄性[10]。本实验室前期研究也发现, $4 5 \mathrm { ~ \textdegree C }$ 高温 $2 \mathrm { ~ h ~ }$ 后，西花蓟马成虫的存活率明显降低，而存活下的成虫多为雌性[11]。针对此现象，若在极端高温下，西花蓟马种群只存在雌性个体时，其能否建立种群呢？这类种群与亲本或亲代种群交配后所产生的后代种群会发生什么变化呢？
+
+因此，应用年龄-龄期两性生命表，测定 $4 5 \ \mathrm { ~ \textdegree ~ }$ 高温2h热激单头雌性成虫孤雌生殖后，其雄性子代$( \mathrm { F } _ { 1 }$ 代)与其母系回交产生 $\mathrm { F } _ { 2 }$ 代，以及 $4 5 \ \mathrm { ~ \textdegree C }$ 高温 $2 \mathrm { h }$ 热激多头雌性成虫孤雌生殖后，其雄性子代 $\left( \operatorname { F } _ { 1 } \right)$ 代)与亲代多个雌性个体存在下交配后产生 $\mathrm { F } _ { 2 }$ 代，对 $\mathrm { F } _ { 2 }$ 代后代种群的影响，旨在探究西花蓟马仅存在一雌或多雌的条件下，能否成功建立种群，从而从生物学角度探究西花蓟马入侵机制，为其制定防治策略提供科学依据。
+
+# 1材料与方法
+
+# 1.1 供试昆虫
+
+西花蓟马是青岛农业大学生态学实验室多年在紫甘蓝(Brassicaoleracea)上培养的种群。室内培养条件为恒温 $2 5 \mathrm { ~ \textdegree ~ }$ ，相对湿度为 $5 5 \% { \sim } 6 0 \%$ ，光周期为 $1 6 \mathrm { ~ h ~ : ~ } 8 \mathrm { ~ h ~ , ~ L ~ : ~ } \mathrm { D } _ { \mathsf { c } }$ 。选取足量羽化1日龄的雌虫作为供试虫。
+
+# 1.2 处理方法
+
+高温处理：将羽化1日龄的雌虫置于 $2 5 \mathrm { ~ \textdegree C }$ 光照培养箱中，升温至 $4 5 \ \mathrm { ~ \textdegree C }$ 后处理 $2 \mathrm { h }$ ，然后于 $2 5 \mathrm { ~ \textdegree ~ }$ 培养箱中培养，吸取存活的雌成虫(作为亲代种群)在MGC-250BP-2型光照培养箱中(温度为 $2 5 \mathrm { ~ \textdegree ~ }$ ，相对湿度为 $5 5 \% { \sim } 6 0 \%$ ，光周期 $_ { \textrm { L } : \textrm { D } = 1 6 \textrm { h } : \textrm { 8 h } }$ 进行试验。
+
+处理1(与亲代种群交配试验)：吸取高温处理后存活的雌成虫(大于60头)置于放有5片甘蓝圆片(直径为 $1 . 5 ~ \mathrm { c m } ^ { \cdot }$ 的 $5 ~ \mathrm { m L }$ 的离心管中待产卵。产卵 $2 4 \mathrm { ~ h ~ }$ 后，将甘蓝圆片取出于培养血中。每日观察，一旦有初孵化的若虫立即进行接虫试验。选取60头初孵若虫单头分别小心地接入放有新的甘蓝圆片的 $5 \mathrm { \ m L }$ 离心管内，待 $\mathrm { ~ F _ { 1 } ~ }$ 代若虫刚羽化为雄性成虫时，随机选取亲代高温处理后存活的雌虫按 $1 : 1$ 比例交配。产卵 $2 4 \mathrm { ~ h ~ }$ 后，再次取出甘蓝圆片，观察，有若虫孵出立即单头于 $5 \mathrm { \ m L }$ 离心管中培养，共接入60头。记录 $\mathrm { F } _ { 2 }$ 代发育历期及繁殖力。
+
+$\mathrm { F } _ { 2 }$ 代发育历期记录：接入的 $\mathrm { ~ F } _ { 2 }$ 代若虫，每日观察两次，记录各虫态的发育及存活情况，每隔 $2 { \sim } 3 \mathrm { ~ d ~ }$ 更换一次新鲜食料，直至羽化为成虫为止。 $\mathrm { ~ F } _ { 2 }$ 代繁殖力记录：选取羽化的 $\mathrm { F } _ { 2 }$ 代雌成虫与 $\mathrm { F } _ { 2 }$ 种群内的雄成虫 $1 : 1$ 比例交配，记录每天的产卵量。
+
+处理2(与亲代母系回交试验)：吸取高温后存活的雌成虫(大于60头)单头分别置于放有1片甘蓝圆片(直径为 $1 . 5 \mathrm { c m } \dot { }$ 的 ${ 5 } \mathrm { m L }$ 离心管中并用从序号 $\textcircled{1}$ 开始连续标记各离心管。产卵 $2 4 \mathrm { ~ h ~ }$ 后，将甘蓝圆片分别取出于标记的培养皿中培养，标记的亲代雌虫在同样条件下单头持续培养。每日观察，一旦有初孵化的若虫立即进行接虫试验。每个标记的培养血中选取1头初孵若虫(共选取60头)，单头分别小心地接入放有新的甘蓝圆片 $5 \mathrm { \ m L }$ 离心管内培养。待 $\mathrm { ~ F _ { 1 } ~ }$ 代若虫刚羽化为雄性成虫，分别与标记的亲代雌虫进行 $1 : 1$ 比例回交。产卵 $2 4 \mathrm { h }$ 后，再次取出甘蓝切片，观察，有若虫孵出立即单头分别接虫60头于 ${ 5 } \mathrm { m L }$ 离心管中培养。记录 $\mathrm { F } _ { 2 }$ 代发育历期及繁殖力。
+
+$\mathrm { F } _ { 2 }$ 代发育历期记录：接入的 $\mathrm { F } _ { 2 }$ 代若虫，每日观察两次，记录各虫态的发育及存活情况，每隔 $2 { \sim } 3 \mathrm { ~ d ~ }$ 更换一次新鲜食料，直至羽化为成虫为止。 $\mathrm { ~ F } _ { 2 }$ 代繁殖力记录：选取羽化的 $\mathrm { F } _ { 2 }$ 代雌成虫与 $\mathrm { F } _ { 2 }$ 代种群内的雄成虫 $1 : 1$ 比例交配(注：必须是同一组 $\mathrm { F } _ { 1 }$ 亲代产生的)，记录每天的产卵量。
+
+为保证离心管内的温度、湿度与培养箱内一致离心管盖上打孔，并覆上200目的尼龙纱封口。
+
+# 1.3 数据统计与分析
+
+所有记录的数据采用年龄-龄期两性生命表软件进行分析[12-13]。两性生命表软件分析后得出的发育历期、成虫的平均寿命等通过 SPSS 19.0(IBM,Armonk，NY,USA)进行统计分析，采用 One-wayANOVE方法和 $T$ 检测法分别比较两组处理西花蓟马的发育历期、未成熟期、产卵量和雌成虫寿命等之间的差异显著性。通过年龄-龄期两性生命表分析出西花蓟马的平均成虫寿命、平均产卵前期(APOP)、平均总产卵前期(TPOP)以及种群参数平均净生殖率$( R _ { 0 } )$ 、平均内禀增长率 $( r _ { m } )$ 、平均世代周期(T)和平均周限增长率 $( \lambda ) _ { \circ }$ 使用SigmaPlot12.0作图，分别作出两组处理的年龄-龄期存活率 $( S _ { x j } )$ 、特定年龄-龄期繁殖力 $( f _ { x j } )$ 、特定年龄存活率 $( l _ { x } )$ 、特定年龄繁殖力$( m _ { x } )$ 、生命期望值 $( e _ { x j } )$ 以及生殖值 $( \nu _ { x j } )$ 等图。种群参数计算公式如下：内禀增长率 $\boldsymbol { r _ { m } }$ 以 $\begin{array} { r } { \sum _ { x = 0 } ^ { \infty } l _ { x } m _ { x } \mathbf { e } ^ { - r ( x + 1 ) } = } \end{array}$ 1计算求得，净生殖率 $R _ { 0 } = \sum _ { x = 0 } ^ { \infty } l _ { x } m _ { x }$ ，平均世代周期${ T { = } } ( \mathrm { l n } R _ { 0 } ) / r _ { m }$ ，周限增长率 $\lambda = \mathbf { e } ^ { r m }$ 。
+
+# 2 结果与分析
+
+# 2.1 亲代孤雌生殖 $\mathbf { F _ { 1 } }$ 代与亲代交配后 $\mathbf { F } _ { 2 }$ 代的发育历期
+
+如表1所示, $4 5 \ \textrm { ‰}$ 处理亲代雌成虫，其 $\mathrm { F } _ { 1 }$ 代与亲代交配后都能够产生 $\mathrm { ~ F } _ { 2 }$ 代，且与亲代回交组各个龄期天数都显著长于与亲代种群交配组(卵：$\scriptstyle t = 4 . 5 1 5$ ， $d f = 1 1 8$ ， $P { < } 0 . 0 0 0 \ 1$ ；1龄: $\scriptstyle t = 8 . 7 3 7$ ， $d f = 8 6$ $P { < } 0 . 0 0 0$ 1；2龄: $\scriptstyle t = 3 . 9 9 6$ ， $d f = 8 2$ ， $P { < } 0 . 0 0 0 \ 1$ ；预蛹：$\scriptstyle t = 3 . 3 9 1$ ， $d f = 8 0$ ， $P { = } 0 . 0 1$ ；蛹： $t = 2 . 1 8 9 \ \mathrm { ~ 0 ~ }$ ， $d f = 8 0$ ， $P <$ 0.05)。对于整个未成熟期，与亲代回交组显著长于与亲代种群交配组 $. ( t = 9 . 6 4 5 , d f = 7 8 , P < 0 . 0 0 0 \ 1 )$ 。这些都表明，与亲代回交组受到的影响要大于与亲代种群交配组，这可能是其 $\mathrm { F } _ { 1 }$ 代与母系回交不亲和的现象所致。
+
+表1 高温处理西花蓟马雌虫孤雌生殖下 $\mathbf { F } _ { 2 }$ 代的发育历期 Table 1 Developmental durations of the $\mathrm { F } _ { 2 }$ offspring of Frankliniella occidentalis under arrhenotoky reproduction conditions at high temperature $( 4 5 \mathrm { ~ } ^ { \circ } \mathrm { C } )$ d   
+
+<html><body><table><tr><td rowspan="2">虫态 Insect stage</td><td>P 与亲代种群交配</td><td>与亲代回交</td></tr><tr><td>Marentalwithmale thrin</td><td>parentak femalw ihrips</td></tr><tr><td>卵Egg</td><td>3.28±0.059</td><td>3.67±0.061***</td></tr><tr><td>1龄1st instar</td><td>2.26±0.059</td><td>3.07±0.073***</td></tr><tr><td>2龄2nd instar</td><td>2.60±0.072</td><td>3.16±0.070***</td></tr><tr><td>预蛹 Prepupa</td><td>1.18±0.058</td><td>1.53±0.069**</td></tr><tr><td>蛹Pupa</td><td>2.52±0.080</td><td>2.82±0.078*</td></tr><tr><td>未成熟期 Immature</td><td>11.75±0.071</td><td>14.12±0.155***</td></tr></table></body></html>
+
+用 $t$ 检验法进行分析。同行数据(平均值 $\backslash \pm$ 标准误)后\*表示差异显 著 $( P { < } 0 . 0 5 )$ ， $^ { * * }$ 极显著 $( P { < } 0 . 0 1 )$ 和 $\ast \ast \ast$ 特显著 $( P { < } 0 . 0 0 1 )$ 。下同。Data were analyzed using $t$ -test.Data(mear $\mathrm { \Omega _ { \mathrm { 1 \pm S E } } }$ ）in the same line followed by single,double and three asterisks are significantly different at $P <$ 0.05, $P < 0 . 0 1$ and $P < 0 . 0 0 1$ ,respectively.The same below.
+
+# 2.2亲代孤雌生殖 $\mathbf { F _ { 1 } }$ 代与亲代交配后 $\mathbf { F } _ { 2 }$ 代雌成虫 寿命及繁殖力
+
+产卵前期指的是从成虫羽化到第1次产卵的时期，总产卵前期指的是从新生卵长到成虫再到第1次产卵的时期，即整个的预产卵期。如表2所示， $4 5 \ \mathrm { ~ \textdegree ~ }$ $2 \mathrm { h }$ 处理雌成虫，其 $\mathrm { F } _ { 1 }$ 代与亲代交配后，与亲代回交组的 $\mathrm { F } _ { 2 }$ 代其产卵前期为 $3 . 1 3 \mathrm { d }$ ，总产卵前期为 $1 7 . 1 9 \mathrm { d }$ 两者都显著高于与亲代种群交配组的产卵前期 $2 . 8 5 \mathrm { ~ d ~ }$ 总产卵前期 14.45 d(产卵前期: $\scriptstyle t = 2 . 8 4 5$ ， $d f = 3 8$ ， $P <$ 0.05；总产卵前期： $\scriptstyle t = 7 . 5 7 0$ ， $d f = 3 8$ ， $P { < } 0 . 0 0 0 \ 1$ )。与亲代回交组其 $\mathrm { F } _ { 2 }$ 代产卵量(44.45粒)显著低于与亲代种群交配组其 $\mathrm { ~ F } _ { 2 }$ 代的产卵量(62.25粒) $\scriptstyle ( t = 2 . 1 6 8$ ， $d f = 3 0$ $P { < } 0 . 0 5 )$ ，雌虫寿命两者无显著差异。从雌成虫的繁殖力参数来看，与亲代回交组合其 $\mathrm { ~ F } _ { 2 }$ 代所受的影响要高于与亲代种群交配组。
+
+表2高温处理西花蓟马雌虫孤雌生殖下 $\mathbf { F } _ { 2 }$ 代雌成虫的繁殖力参数  
+
+<html><body><table><tr><td>繁殖力参数 Reproduction parameter</td><td>与亲代种群交配 Mating with “uncertain parental” parental female female thrips</td><td>与亲代回交 Backcross with thrips</td></tr><tr><td>产卵前期 Adult pre-oviposition period (d)</td><td>2.85±0.82</td><td>3.13±0.06*</td></tr><tr><td>总产卵前期 Total pre-oviposition period (d)</td><td>14.45±0.27</td><td>17.19±0.20***</td></tr><tr><td>单雌产卵量 Number of eggs laid per female</td><td>62.25±5.65</td><td>44.45±2.69*</td></tr><tr><td>雌虫寿命 Female longevity (d)</td><td>18.90±1.21</td><td>17.55±0.79</td></tr></table></body></html>
+
+# 2.3亲代孤雌生殖 $\mathbf { F _ { 1 } }$ 代与亲代交配后 $\mathbf { F } _ { 2 }$ 代的种群参数
+
+通过年龄-龄期两性生命表计算出西花蓟马不同处理间的生命表参数，繁殖力 $( F )$ 、平均世代周期$( T )$ 、净增殖率 $( R _ { 0 } )$ 、内禀增长率 $( r _ { m } )$ 以及周限增长率()的均值和标准差。如表3所示，2个处理的内禀增长率 $( R _ { 0 } )$ 均大于零，说明种群数量都呈上升的趋势，但与亲代种群交配组的 $R _ { 0 } ( 2 0 . 7 0 )$ 要低于与亲代回交组的 $R _ { 0 } ( 2 2 . 9 7 )$ ，说明与亲代回交组的后代可增长至23 倍。与亲代种群交配组的内禀增长率 $r _ { m } ( 0 . 1 4 6 \mathrm { ~ } 8 )$ （204号要高于与亲代回交组的内禀增长率 $r _ { m } ( 0 . 1 3 3 9 )$ ，说明与亲代种群交配组其后代种群增长力强于与亲代回交组。与亲代种群交配组的平均一代时间 $T$ 要低于与亲代回交组，而其周限增长率要高于与亲代回交组。这表明与亲代回交组的后代增长速率要低于与亲代种群交配组。
+
+Table 2Reproduction parameters of the $\mathrm { F } _ { 2 }$ offspring of Frankliniella occidentalisunderarrhenotokyreproduction conditions at high temperature $( 4 5 \ \mathrm { ~ } ^ { \circ } \mathrm { C } )$   
+表3高温处理西花蓟马雌虫孤雌生殖下其 $\mathbf { F } _ { 2 }$ 代的种群参数 Table 3Population parameters of the $\mathrm { F } _ { 2 }$ offspring of Frankliniella occidentalis under arrhenotoky reproduction conditions at high temperature $( 4 5 \ \mathrm { ~ } ^ { \circ } \mathrm { C } )$ 0   
+
+<html><body><table><tr><td>种群参数 Population parameter</td><td>与亲代种群交配 Matingwith“uncertain</td><td>与亲代回交 Backcross with parental” female thrips parental female thrips</td></tr><tr><td>净生殖率(Ro) Net reproduction rate</td><td>20.70±4.24***</td><td>22.97±3.18</td></tr><tr><td>内禀增长率(rm) Intrinsic rate ofincrease</td><td>0.146 8±0.010 6*</td><td>0.133 9±0.006 1</td></tr><tr><td>平均一代时间(T) Average generation</td><td>20.49±0.55</td><td>23.32±0.49**</td></tr><tr><td>period 周限增长率() Finite rate of increase</td><td>1.1582±0.0122</td><td>1.143 4±0.006 9</td></tr></table></body></html>
+
+# 2.4亲代孤雌生殖 $\mathbf { F _ { 1 } }$ 代与亲代交配后 $\mathbf { F } _ { 2 }$ 代的生命表参数
+
+图1表示年龄-龄期存活率 $( s _ { x j } )$ 曲线。年龄-龄期存活率 $( s _ { x j } )$ 表示个体从新生卵存活到年龄 $x$ 龄期 $j$ 的概率。图1表示的是 $4 5 \ \textrm { C } \ 2 \textrm { h }$ 处理亲代雌成虫，亲代孤雌生殖 $\mathrm { F } _ { 1 }$ 代分别与亲代种群杂交和与亲代回交其 $\mathrm { F } _ { 2 }$ 代在紫甘蓝上的年龄-龄期存活率 $( s _ { x j } )$ 。由于西花蓟马的卵用肉眼很难观察到，所以我们认定卵的存活率为 $100 \%$ 。图1显示，热处理后，其 $\mathrm { F } _ { 2 }$ 代存活率都随龄期而逐渐下降。但若虫羽化后，两组处理组雌虫的存活率以及存活天数具有显著差异，与亲代种群交配组雌虫存活率为 $3 3 . 3 \%$ ，存活天数为 $3 9 \mathrm { ~ d ~ }$ 而与亲代回交组雌虫存活率为 $5 1 . 6 \%$ ，存活天数为$4 2 \mathrm { ~ d } _ { \circ }$ 两组处理组雄虫的存活率以及存活天数无显著差异。另外，由于西花蓟马个体在发育阶段(卵、1龄若虫、2龄若虫、预蛹、蛹)具有不同的发育速率，因此图像中有显著跳跃性曲线以及曲线重叠现象(如图1)。
+
+图2表示年龄-龄期特征繁殖力曲线 $( f _ { x j } )$ 。其中， $l _ { x }$ 为种群年龄特征存活率，其忽略了图1、图2中的不同发育阶段变化，分别为图1的缩略图。 $f _ { x }$ 为雌虫繁殖力，它表示任意一天的卵数除以这一天中雌虫和雄虫个体的总和， $m _ { x }$ 为年龄-龄期繁殖力，它表示任意一天的卵数除以这一天中雌虫、雄虫和未成熟期个体的总和。对于 $f _ { x }$ 值和 $m _ { x }$ 值，当一部分个体已经羽化为成虫，一部分个体还在未成熟阶段时， $f _ { x }$ 值高于$m _ { x }$ 值；当所有未成熟的蓟马羽化为成虫时, $f _ { x }$ 值与 $m _ { x }$ 值相等，即图线出现重叠。如图2所示，两组处理的$f _ { x }$ 值均高于 $m _ { x }$ 值。图中还可看出，两组处理的 $f _ { x \setminus }$ $m _ { x }$ 和 $l _ { x } m _ { x }$ 都呈现正态分布，表明西花蓟马每雌每日的平均产卵量出现先增多后减少的趋势。另外，与亲代种群交配组的繁殖力天数要显著高于与亲代回交组。说明 $4 5 \ \textrm { C } \ 2 \textrm { h }$ 处理亲代雌成虫，其 $\mathrm { F } _ { 1 }$ 代与亲代回交对$\mathrm { F } _ { 2 }$ 代的影响要大于其 $\mathrm { F } _ { 1 }$ 代与亲代种群交配组。
+
+图3表示年龄-龄期特征生命期望值曲线 $( e _ { x j } )$ 。生命期望值描述的是每个个体在年龄 $x$ 龄期和 $j$ 期望存活的天数。如图所示，与亲代种群交配组新生卵的生命期望值为24d，与亲代回交组新生卵的生命期望值为 $2 9 \mathrm { ~ d } _ { \circ }$ 这表明 $4 5 \ \textrm { ‰}$ 处理雌虫，其 $\mathrm { F } _ { 1 }$ 代与亲代回交组对 $\mathrm { F } _ { 2 }$ 代卵的影响要小于其 $\mathrm { F } _ { 1 }$ 代与亲代种群交配组。随着龄期增加，从预蛹期开始，与亲代回交组出现转折，其所受的影响高于与亲代种群交配组。两个处理组雄成虫的 $e _ { x j }$ 都高于雌成虫，且与亲代回交组的雌成虫和雄成虫的 $e _ { x j }$ 都高于与亲代种群交配组。
+
+![](images/7ba44ce5613a5bb1de8b2bf99e5a6663e2f48597c244c8683b2279ed6cde120e.jpg)  
+图1高温处理西花蓟马雌虫孤雌生殖下F2代的年龄-龄期存活率曲线 $( S _ { x j } )$ （20 Fig.1Age-stage survival rate $( S _ { x j } )$ of the $\mathrm { F } _ { 2 }$ offspring of female adult of Frankliniella occidentalis populations heat shocked at high temperature $( 4 5 \ \mathrm { ~ \textdegree ~ }$ ）
+
+A：西花蓟马雄性子代 $( \mathrm { F } _ { 1 }$ 代)与亲代多个雌性个体存在下交配；B：西花蓟马雄性子代 $( \mathrm { F } _ { 1 }$ 代)与其母系回交。A: $\mathrm { F } _ { 1 }$ offspring matec with “uncertain parental” female thrips;B: $\mathrm { F } _ { 1 }$ offspring backcrossed with parental female thrips.
+
+![](images/72c915518af03d732c79cbd561671db59bbdba8c940351962faf8b9027dfeeaa.jpg)  
+图2高温处理西花蓟马雌虫孤雌生殖下 $\mathbf { F } _ { 2 }$ 代的种群年龄特征存活率 $( l _ { x } )$ 、雌虫繁殖力 $( f _ { x } )$ 、年龄-龄期繁殖力 $( m _ { x } )$ 以及年龄龄期繁殖存活率(lxmx)
+
+Fig.2Age specific survival rate $( l _ { x } )$ ,age-stage specific fecundity $( f _ { x } )$ ,age-specific fecundity $( m _ { x } )$ ,and age-specific maternity $( l _ { x } m _ { x } )$ of the $\mathrm { F } _ { 2 }$ offspring of female adult of Frankliniella occidentalis populations heat shocked at high temperature $( 4 5 \ \mathrm { ~ \textdegree ~ } )$ ） A:西花蓟马雄性子代 $( \mathrm { F } _ { 1 }$ 代)与亲代多个雌性个体存在下交配;B：西花蓟马雄性子代 $( \mathrm { F } _ { 1 }$ 代)与其母系回交。A: $\mathrm { F } _ { 1 }$ offspring mated   
+with “uncertain parental” female thrips; B: $\mathrm { F } _ { 1 }$ offspring backcrossed with parental female thrips.
+
+![](images/daaf87462eda1a4c4c99c728065f40f9d4d58f2fa8f9d04be5e8b5a4710bf169.jpg)  
+图3高温处理西花蓟马雌虫孤雌生殖下 $\mathbf { F } _ { 2 }$ 代的种群生命期望值曲线 $( e _ { x j } )$ （204号 ig.3Age-stage specific life expectancy $( e _ { x j } )$ of the $\mathrm { F } _ { 2 }$ offspring of female adult of Frankliniella occidentalis populations heat shocked at high temperature $( 4 5 \ \mathrm { ~ \textdegree ~ { ~ C ~ } ~ } )$ ！ A:西花蓟马雄性子代 $( \mathrm { F } _ { 1 }$ 代)与亲代多个雌性个体存在下交配;B:西花蓟马雄性子代 $( \mathrm { F } _ { 1 }$ 代)与其母系回交。A: $\mathrm { F } _ { 1 }$ offspring mated with “uncertain parental” female thrips;B: $\mathrm { F } _ { 1 }$ offspring backcrossed with parental female thrips.
+
+图4表示年龄-龄期生殖贡献值曲线 $( \nu _ { x j } )$ 。生殖值 $( \nu _ { x j } )$ 意为个体在年龄 $x$ 龄期 $j$ 对将来整个种群的贡献大小。如图所示，两组处理的雌成虫随着开始产卵都呈现先上升后下降的趋势。与亲代种群交配组其 $\mathrm { F } _ { 2 }$ 代雌成虫的最大贡献值在第 $1 5 \mathrm { ~ d ~ }$ ，为28粒；与亲代回交组其 $\mathrm { F } _ { 2 }$ 代雌成虫的最大贡献值在第 $\begin{array} { r } { 1 9 \mathrm { ~ d ~ } , } \end{array}$ 为23粒。另外，与亲代种群交配组在第 $4 2 { \mathrm { ~ d ~ } }$ 时，其$\nu _ { x j }$ 变为0；而与亲代回交组为第 $3 8 \mathrm { ~ d ~ }$ ，其 $\nu _ { x j }$ 变为 $0 _ { \circ }$ 这些都说明，与亲代回交组对后代生殖上的影响更为显著。
+
+![](images/5e642a9f575e19f48a99dfdd137eaa58bfbfac3a6399506c494fae32b07896aa.jpg)  
+图4高温处理西花蓟马雌虫孤雌生殖下 $\mathbf { F } _ { 2 }$ 代的种群生殖值曲线 $( \nu _ { x j } )$ （204号 Fig. 4Age-stage reproductive value $( \nu _ { x j } )$ of the $\mathrm { F } _ { 2 }$ offspring of female adult of Frankliniella occidentalis populations heat shocked at high temperature $( 4 5 \ \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ } )$ ！
+
+# 2.5亲代孤雌生殖 $\mathbf { F _ { 1 } }$ 代与亲代交配后 $\mathbf { F } _ { 2 }$ 代的性比
+
+$4 5 \ \textrm { ‰}$ 处理亲代雌成虫，其 $\mathrm { ~ F _ { 1 } ~ }$ 代与亲代交配后，其 $\mathrm { F } _ { 2 }$ 代性比发生显著变化。两组处理组的 $\mathrm { F } _ { 2 }$ 代性比分别为：与亲代种群交配组 $( \mathcal { Q } : \mathcal { J } ^ { = } 1 : 1 )$ ，与亲代回交组 $\mathit { \Omega } \left( \mathcal { Q } : \mathcal { J } \mathit { \mathrm { = 1 . 5 5 } } : 1 \right)$ 。亲代种群交配组对后代性比的影响更为显著。
+
+# 3 讨论与结论
+
+昆虫的生殖能力是影响昆虫种群密度调节机制的重要因素[14]，而昆虫的生殖方式则是衡量昆虫生殖能力主要因子。据报道，有多种昆虫在有性生殖的基础上，又能够进行孤雌生殖[15-16]。如沙漠蝗(Schistocerca gregaria)、萼花臂尾轮虫(Brachionuscalyciflorus)等[17-18]。孤雌生殖对昆虫的广泛分布起着重要的作用，因为即使只有一个雌虫被偶然带到新的地区，就有可能在这地区繁殖起来。已有研究发现，逆境下营孤雌生殖和两性生殖的萼花臂尾轮虫会以孤雌生殖的方式来应对不利的环境，以此保持种群的稳定性[18]。产雄孤雌生殖是孤雌生殖一种重要方式，前人发现产雄孤雌生殖能够保持昆虫种群数量的稳定，但会造成生活史特性和种群特性发生部分遗传的改变，从而影响昆虫的后代种群[19]。因此，产雄孤雌生殖被认为是维持昆虫种群动态的重要因素。
+
+在恶劣环境胁迫下，昆虫种群中并不是每一个雌性都能成功与雄性配对，尤其是雌性耐受性高于雄性的昆虫种群，仅剩雌性的状况极有可能发生。那么在雄性缺乏的状况下，其后代种群是如何保留下来的呢？有些种类单个或多个雌性会在适宜建巢的地方以孤雌生殖的方式建立新巢群，如在日本的栖北散白蚁(Reticulitermes speratus)中未能成功配对的雌性个体会与另一雌性个体进行追逐或者单独建巢，然后以孤雌生殖的方式建立新的巢群[20]；产雄孤雌生殖后的 $\mathrm { F } _ { 1 }$ 代雄蜂与蜂王回交后，能够产生后代种群[21]。也有研究表明，尖唇散白蚁(Reticulitermesaculabialis)在不存在雄性的情况下，多个雌性个体存在下也会通过雌雌交配方式繁衍后代，保留它的种群，但是单个雌性个体不能产生后代[22]。这些现象说明，多个或单个雌性个体存在的情况下能否通过孤雌生殖建立后代种群，从而维持种群数量，这很大程度上取决于昆虫的种类。
+
+西花蓟马是我国重要的入侵性害虫，其为害非常隐蔽，目前大部分地区采用高温等物理方法对其进行防治[23]。实验室前期已对 $2 5 \mathrm { ~ \textdegree C }$ 条件下西花蓟马孤雌生殖和有性生殖做了具体的研究[8-9]，而本研究发现用高温 $4 5 \ \textrm { ‰}$ 一次防治方法来防治西花蓟马存在一定局限性，存活的害虫尤其是雌性西花蓟马会通过单雌或多雌的孤雌生殖的方式建立$\mathrm { F } _ { 1 }$ 代雄性种群，高温处理后的雌性西花蓟马繁殖力仍很强，产卵高峰发生在 $1 5 { \sim } 2 0 \mathrm { ~ d ~ }$ ，且羽化3d后可一直产卵至死亡，因此可与 $\mathrm { F } _ { 1 }$ 代雄性进行两性生殖，但这种方式会使种群特性发生改变，尤其表现在性比上其 $\mathrm { F } _ { 2 }$ 代的雌雄性比较自然条件下的性比 $( 2 . 6 9 : 1 ) ^ { [ 2 4 ] }$ 显著减小，雌雄比例接近 $1 : 1$ ，这与Enkegaard发现的 $4 3 ^ { \circ } \mathrm { C }$ 及以上高温热激B型烟粉虱 $\mathrm { F } _ { 1 }$ 代雄虫比例上升的研究结果类似[25]。这种性比的改变会造成西花蓟马更好地进行两性生殖，很有可能会造成后代种群的大暴发。因此对于高温物理闷棚 $4 5 \ \mathrm { ~ \textdegree ~ } \ 2 \ \mathrm { ~ h ~ }$ 一次的模式需要更进一步探讨，以便获得更好的防控方式。另外，昆虫既能进行孤雌生殖又能两性生殖应该是昆虫长期生存斗争的适应性结果[26]。孤雌生殖能在适宜生存的环境下产生大量的后代，但其缺陷是缺乏基因多样性，适应不了环境变化，理论上讲，其后代种群很难继续进化。但有研究表明，孤雌生殖的物种并未停止进化，在孤雌生殖的蜜蜂中发现其重组率并没有下降[27]，这其中的机制有待于我们去研究并揭示。而对于传播起源的孤雌生殖，研究其与两性生殖之间的差异，以及寻找差异表达的内部机理，也许是能够解释其母系孤雌生殖而后代种间交配仍能建立种群的一个有效途径。
+
+# 参考文献References
+
+[1]黄顶成，张润志．中国外来入侵种的类群、原产地及变化趋 势[J].生物安全学报,2011,20(2):113-118 Huang D C,Zhang R Z.Taxonomic categorisation,origins and trends of invasive alien species in China[J]. Journal of Biosafety,2011,20(2): 113-118   
+[2]万方浩，郭建英，张峰．中国生物入侵研究[M]．北京：科 学出版社,2009 Wan F H, Guo JY, Zhang F.Research on Biological Invasions in China[M].Beijing: Science Press,2009   
+[3] Holmes T P,Aukema J E,Von Holle B,et al.Economic impacts of invasive species in forests:Past,present,and future[J].Annals of the New York Academy of Sciences,2009, 1162: 18-38   
+[4] Simon J C，Delmotte F，Rispe C，et al.Phylogenetic relationships between parthenogens and their sexual relatives: Thepossible routes to parthenogenesisin animals[J]. Biological Journal of the Linnean Society，2oo3,79(1): 151-163   
+[5] 张富满，王越人，王宝春．稻水象甲的扩散原因及治理对 策[J]．吉林农业科学,2006,31(5):42-44 Zhang F M, Wang YR, Wang B C. Reasons for the spreading of rice weevil and controlling measures[J].Journal of Jilin Agricultural Sciences,2006,31(5):42-44   
+[6]杨璞．稻水象甲地理型孤雌生殖的研究[D]．杭州：浙江大 学,2008 Yang P. The research on the geographical parthenogenesis of rice water weevil, Lissorhoptrus oryzophilus Kuschel[D]. Hangzhou: Zhejiang University, 2008   
+[7]弗·弗·雅洪托夫．昆虫的孤雌生殖[J]．胡弢成，译．昆虫知 识,1958,4(2): 51-56 Rxohtob B B.Parthenogenesis of insects[J]. Hu T C,trans. Entomological Knowledge,1958,4(2): 51-56   
+[8]Wang JC,Zhang B,Li JH,et al.Effects of exposure to high temperature on Frankliniella occidentalis(Thysanoptera: Thripidae)，under arrhenotokyand sexual reproduction conditions[J].Florida Entomologist,2014,97(2): 504-510   
+[9]Jiang S,Wang SF,Wang JP,et al.Effects of heat shock on Thripidae) $\mathrm { F } _ { 1 }$ offspring[J]. Florida Entomologist, 2014,97(3): 1157-1166   
+[10] Li H B,Shi L，Lu M X,et al.Thermal tolerance of Frankliniella occidentalis:Effects of temperature,exposure time,and gender[J].Journal of Thermal Biology,2011,36(7): 437-442   
+[11] Wang JC, Zhang B,Wang JP, et al. Effects of heat stress on survival of Frankliniella occidentalis (Thysanptera:Thripidae) and Thrips tabaci (Thysanoptera: Thripidae)[J]. Journal of Economic Entomology,2014,107(4): 1426-1433   
+[12] Chi H,Liu H. Two new methods for the study of insect population ecology[J]. Academia Sinica,1985,24(2): 225-240   
+[13] Chi H. Life-table analysis incorporating both sexes and variable development rates among individuals[J]. Environmental Entomology,1988,17(1): 26-34   
+[14]郭郛．东亚飞蝗(Locusta migratoria manilensis Meyen)的生 殖[J]．昆虫学报,1956,6(2):145-167 Guo F. The reproductive of Locusta migratoria[J]. Acta Entomologica Sinica,1956,6(2): 145-167   
+[15] Uvarov B P. Grasshoppers and Locusts: A Handbook of General Acridology[M].Cambridge: Cambridge University Press,1966:1-481   
+[16] 王自立，陈晓鸣，王绍云，等．白蜡虫孤雌生殖的研究[J]. 林业科学研究,2003,16(4):386-390 Wang Z L,Chen X M,Wang S Y,et al.Study on the parthenogenesis of Ericerus pela (Chavannes)[J]. Forest Research,2003,16(4): 386-390   
+[17]Hamilton A G. Thelytokousparthenogenesis forfour generations in the desert locust (Schistocerca gregaria forsk) (Acridide)[J]. Nature,1953,172(4390): 1153-1154   
+[18]葛雅丽，席贻龙．长、短期连续孤雌生殖对萼花臂尾轮 虫生活史和遗传特征的影响[J].生态学报，2011，31(11): 3170-3179 Ge YL,Xi Y L. Effects of long- and short-term successive parthenogenesis on life history and genetics characteristics of Brachionus calyciflorus[J]. Acta Ecologica Sinica,2011, 31(11): 3170-3179   
+[19] 荣秀兰，雷朝亮，姜勇，等．朱砂叶螨实验种群的孤雌生殖 效应[J]．蛛形学报,2000,9(2):82-85 Rong XL,Lei C L,Jiang Y,et al. The parthenogenesis effects of carmine spider mite experimental population[J].Acta Arachnologica Sinica,200o, 9(2): 82-85   
+[20] Matsuura K,Nishida T. Comparison of colony foundation success between sexual pairs and female asexual units in the termite Reticulitermes speratus (Isoptera: Rhinotermitidae)[J]. Population Ecology,2001,43(2): 119-124   
+[21]Lattorff H M G, Moritz R F A,Fuchs S.A single locus determines thelytokous parthenogenesis of laying honeybee workers (Apis mellifera capensis)[J]. Heredity,2005,94(5): 533-537   
+[22] 邢连喜，刘明花，孔小红，等．尖唇散白蚁的孤雌生殖行为 及初建群体研究[J]．应用昆虫学报,2013,50(6):1671-1678 Xing L X,Liu M H, Kong X H, et al. Parthenogenetic reproductive behavior and initial colony foundation in the termite,Reticulitermes aculabialis[J].Chinese Journal of Applied Entomology, 2013,50(6):1671-1678   
+[23]周永丰，唐峻岭．高温对南美斑潜蝇的致死作用[J]．昆虫 知识,2003,40(4):372-373 Zhou YF,TangJL.Lethal effect of high temperature on the leafminer fly,Liriomyza huidobrensis in a greenhouse[J]. Entomological Knowledge,2003,40(4):372-373   
+[24]王健立，李洪刚，冯志国，等．西花蓟马与烟蓟马在紫甘蓝 上的种间竞争[J].中国农业科学,2011,44(24):5006-5012 WangJL,LiHG,Feng ZG,etal.Interspecific competition between Frankliniella occidentalis and Thrips tabaci on purple cabbage[J]. Scientia Agricultura Sinica,2011,44(24):
+
+# 5006-5012
+
+[25]Enkegaard A.Encarsia formosa parasitizing the Poinsettiastrain of the cotton whitefly,Bemisia tabaci,on Poinsettia: Bionomicsin relationto temperature[J]. Entomologia Experimentalis et Applicata,1993,69(3):251-261   
+[26]Rispe C,Pierre J S.Coexistence between cyclical parthenogens, obligate parthenogens,and intermediates in a fluctuating environment[J].Journal of Theoretical Biology,1998,195(1): 97-110   
+[27]Oldroyd B P,Allsopp M H,Gloag R S,et al.Thelytokous parthenogenesis in unmated queen honeybees (Apis mellifera capensis): Central fusion and high recombination rates[J]. Genetics,2008,180(1):359-366
+
+# 欢迎订阅 2017年《果树学报》
+
+《果树学报》是中国农业科学院郑州果树研究所主办的国家级学术期刊，分别被有关权威期刊评价机构评为中国精品科技期刊、中国农林水产类权威学术期刊、中文园艺学核心期刊、中国科技核心期刊，已被中国科学引文数据库来源期刊(核心库)、美国化学文摘(CA)、日本科学技术振兴机构数据库(JST)、英国CABI等 20 余种国内外重要数据库收录。2015年10月《中国科技期刊引证报告》(核心版)中本刊总被引频次2392，影响因子为0.992;12月中国科学文献计量评价研究中心(中国知网)中本刊复合影响因子为1.490，期刊综合影响因子为1.028，基础研究类影响因子为1.025。已成为国内外有影响的学术期刊之一。《果树学报》着重选发密切结合我国果树科研、教学、生产实际，反映学科学术水平和发展动向的优秀稿件，及时报道重大科研成果、阶段性成果和科研进展情况。栏目设置有种质资源·遗传育种·分子生物学、栽培·生理·生态、植物保护·果品质量与安全、贮藏·加工、专论与综述、技术与方法、新品种选育报告等。读者对象为果树学科的科研人员、高等农业院校师生及基层果树管理技术人员。月刊，每期128页码，定价20元，全年12期共240元。邮发代号:36-93，国际代号BM/1107。欢迎投稿，欢迎订阅。
+
+编辑部地址：河南省郑州市航海东路南中国农业科学院郑州果树研究所邮编：450009 电话：0371-63387308E-mail: guoshuxuebao@caas.cn 网址:http://gskk.cbpt.cnki.net

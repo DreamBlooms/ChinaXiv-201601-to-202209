@@ -1,0 +1,508 @@
+[
+    {
+        "type": "text",
+        "text": "Land cover change and eco-environmental quality response of different geomorphic units on the Chinese Loess Plateau ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SONG Yongyong1, XUE Dongqian1\\*, DAI Lanhai1, WANG Pengtao², HUANG Xiaogang1, XIA Siyou³ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Geography and Tourism, Shaanxi Normal University, Xi'an 71o119, China;   \n2Schoolof Tourism&ResearchInstituteofHuman GeographyXi'anInternational Studies Unversity,Xi'an7028,China;   \n3 School of Geography Science, Nanjing Normal University, Nanjing 21oo23, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Land cover in the Chinese Loess Plateau has undergone dramatic changes since the late 1980s. Revealing the trend in land cover change and eco-environmental quality response of different geomorphic units in this stage is a realistic requirement for promoting sustainable development of the Chinese Loess Plateau. Based on the data of geomorphic units and land cover in 1990, 2000,2010 and 2018 of the Chinese Loess Plateau, we studied the trend of land cover change and eco-environmental quality response of different geomorphic units by using a significance index of land cover change, a proportion index of land cover change and an eco-environmental response model. The results indicated that from 1990 to 2018,the areas of forestland and construction land substantialy increased, whereas those of cropland, grassand， wetland and unused land considerably decreased. Land cover change exhibited large geomorphic diferences, and the main conversion of land cover was from cropland into other land types. Unstable trend of land cover change in the loess tablelands and sandy loess hills declined, whereas the unstable trends in the other geomorphic units enhanced. Eco-environmental quality varied among diferent geomorphic units. The expansion of construction land and degradation of forestland, grasland and wetland resulted in the deterioration of eco-environmental quality. The conversion of cropland and unused land into forestland and grassland,and the conversion of grassland into forestland were the main factors that drove the improvement of eco-environmental quality. The findings of this study may provide theoretical reference and support decision making for the optimization of land use structure and the improvement of eco-environmental quality on the Chinese Loess Plateau. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: cropland; degradation; eco-environmental quality index; grassland; human activity; unused land; relative ecological value ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: SONG Yongyong, XUE Dongqian, DAI Lanhai, WANG Pengtao, HUANG Xiaogang, XIA Siyou. 2020. Land cover change and eco-environmental quality response of diferent geomorphic units on the Chinese Loess Plateau. Journal of Arid Land,12(1): 29-43. https://doi.org/10.1007/s40333-019-0031-8 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Land use/cover change (LUCC), as a key link among four spheres (atmosphere, hydrosphere, biosphere and lithosphere) of the Earth's system (Mayer and Turner,1994; Reid et al.,2O1O), is the most direct manifestation of the role of human activity on the Earth's system (Mooney et al., 2013; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lawler et al., 2014) and an important indicator of the response of human activity to global land cover change (Deng et al., 2014; Wu et al., 2O14; Ning et al., 2O18). The global land cover pattern has been dramatically changing since the 195Os due to the rapid growth of population and the fast development of social economy,and this situation has elicited widespread concern (Lambin et al., 1995; Turner et al., 1995; GLP, 2Oo5). In China, sustained and rapid development of social economy, accelerations of industrialization and urbanization and implementation of national and regional development and ecological protection strategies have considerably affected the spatial patterns of land cover change since the end of the $2 0 ^ { \\mathrm { t h } }$ century (Liu et al., 2014; Song and Deng, 2017). LUCC, with the coupled human-natural system as its core, has become an important factor for studies of the global climate and environmental changes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Studies on land cover changes,its driving factors and effects on the ecological environments have been extensively conducted (Kalnay and Cai, 2003; Turner et al., 2OO7; Zhang et al., 2014). For example, Waisanen et al. (2Oo2) used cropland-related data to analyze the spatio-temporal variations in arable land in the United States from 1790 to 1997. Ge et al. (2008) examined the variations of land use change in China in the past 3OO years by using the historical land data. Liu et al. (2014) described the spatial distribution pattern of land cover change in China by using the LUCC transfer matrix and land dynamic degree model. Land cover change is driven by many factors. On a large regional scale, natural environmental factors, such as climate, hydrology, soil and topography play important roles (Bicik et al., 2015). And their impacts are long and stable (Chen et al., 2016). On a small regional scale, where differences in climatic factors are small, topography and geomorphology are the key factors that restrict human activity and influence land cover changes (Verbuerg and Chen, 2000). Moreover, the relationships between topographical factors, such as elevation, slope, slope direction and land use changes were studied (Zhong et al., 2012; Li et al., 2013; Li et al., 2016). However, the data used in iluminating the relationships is based on macroscopic geomorphic unit (GAPRCEC, 2009; Zhao et al., 2016), which cannot reflect the geomorphic structures on a regional scale (He et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Chinese Loess Plateau has complex geomorphic units, and typical and unique loess geomorphologies, such as tablelands, beams and mounds. The region has become one of the world's most heavily eroded areas due to the influence of global climatic changes and long-term disturbance by human activities (Shi and Shao, 20O0). In the late 198Os, Chinese government promoted regional vegetation restoration and ecological reconstruction projects (Wang et al., 2016; Liu et al., 2017; Bryan et al.,2018). However, with the implementation of the China's Western Region Development Strategy and the National Energy Security Strategy in China, rapid urbanization and high-intensity energy resource development have exerted great pressure on the local ecological environment, thus resulting in environmental pollution, vegetation destruction and soil erosion in the Loess Plateau, China (CSNR， 2018). Geomorphology, the basic factor that affects human activities, directly influences land cover and land carrying capacity,controls the distribution of water, heat and sunlight resources and determines the direction of land cover change (CAS and CNGEC,198O; Brierley and Stankoviansky， 2003; Luo et al., 2014). Therefore, it is necessary to study the process of regional changes of ecological environment to reveal the direction of land cover change and the response of ecological environment of different geomorphic units. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using the significance index of land cover change, proportion index of land cover change and eco-environmental response model, this study aimed to (1) reveal land cover change and its dynamic conversion process before and after the implementation of converting cropland into forest and grassland; (2) discuss the process and possible causes of land cover change of different geomorphic units; and (3) examine the evolution of eco-environmental quality and its driving factors of different geomorphic units. The findings of this study will elucidate the relationships among geomorphology, land cover change and eco-environmental quality， and provide theoretical reference for the improvement of ecological restoration and sustainable development on the Chinese Loess Plateau. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Loess Plateau is located in the upper and middle reaches of the Yellow River in northern China $( 3 2 ^ { \\circ } - 4 1 ^ { \\circ } \\mathbf { N }$ $1 0 1 ^ { \\circ } { \\mathrm { - } } 1 1 4 ^ { \\circ } \\mathrm { E } )$ . It extends to the Yinshan Mountains in the north, the Qinling Mountains in the south, the Taihang Mountains in the east and the Wushaoling-Sun Moon Mountain in the west. It covers a total area of $6 2 . 4 6 { \\times } 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ . The plateau is approximately 1300 km long from east to west and approximately $8 0 0 { \\mathrm { k m } }$ wide from north to south, with an average elevation of $1 5 0 0 { - } 2 0 0 0 \\ \\mathrm { ~ m ~ }$ a.s.l. It covers the areas of Shanxi Province and Ningxia Hui Autonomous Region and parts of areas of Shaanxi, Henan, Gansu, Qinghai provinces and Inner Mongolia Autonomous Region (Wang, 2O17). This area is a sub-humid and semi-arid zone with a temperate monsoon climate, a mean annual precipitation of $2 0 0 { - } 7 0 0 ~ \\mathrm { m m }$ and an annual mean temperature of $9 ^ { \\circ } \\mathrm { C } \\mathrm { - } 1 2 ^ { \\circ } \\mathrm { C }$ (Gao et al., 2O16). Under the long-term disturbances of climate change and human activities, severe soil erosion occurs in the Loess Plateau. Soil erosion area is $4 . 7 2 \\times 1 0 ^ { 5 } ~ \\mathrm { k m } ^ { 2 }$ and water erosion amount is greater than $8 0 0 0 ~ \\mathrm { t / ( k m ^ { 2 } { \\cdot } a ) }$ with an area of $9 . 1 2 \\times 1 0 ^ { 4 }$ $\\mathrm { k m } ^ { 2 }$ , thereby resulting in the severe sediments in the lower reaches of the Yellow River (Zhao et al., 2013). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data sources ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data of area of the Loess Plateau were obtained from an investigation of the Chinese Academy of Sciences (Wang, 2O17). Data of major rivers were obtained from the national geographical database (http://www.web map.cn). Digital elevation model data with a spatial resolution of $9 0 ~ \\mathrm { m }$ were provided by Data Center for Resources and Environmental Sciences, Chinese Academy of Sciences (http://www.resdc.cn). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data of geomorphic units were referenced from Yang (1995; http://loess.geodata.cn), which were divided into 1O types, i.e., loess tableland (LT), river aluvial plain (RAP), loess beam hill (LBH), loess mound hill (LMH), loess valley hill (LVH), loess hills of intermountain basin (LHIB), sandy loess hill (SLH), sand blown hill (SBH), soil stone hill (SSH) and soil stone mountain (SSM; Fig. 1a). Among the 10 types of geomorphic units, SSM had the largest area, accounting for $2 5 . 3 7 \\%$ of the total, and SLH had the smallest area, accounting for only $3 . 1 2 \\%$ (Fig. 1b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/70f75a500cd932f4ad5617d31ace24f7e21c9cf9454cfe2c57c17a5057f7ff4b.jpg",
+        "img_caption": [
+            "Fig.1 Spatial distribution (a) and area proportion (b) of 10 types of geomorphic units on the Chinese Loess Plateau.LT,loesstableland; RAP,river alluvial plain; LBH,loessbeam hill; LMH,loessmound hill; LVH,loess vally hill;LHB,loesshillsofitermountainbasin; SLH,sandyloess hill;SBH,sandblown hill;SSH,soilstone hill; SSM, soil stone mountain. The abbreviations are the same as in Figures 4 and 5 and Table 3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data of land cover were referenced from the Data Center for Resources and Environmental Sciences, Chinese Academy of Sciences.Landsat TM/ETM images in 1990, 2000, 2010 and 2018 with a spatial resolution of $3 0 \\mathrm { ~ m ~ }$ were utilized as as the main data source combined with a field investigation. According to the classification system of land cover, this study classified the study area into 6 types of land cover, namely, cropland,forestland, grassland, wetland, construction land and unused land (Fig. 2). To evaluate the applicability of these data in the Loess Plateau, we firstly superimposed the land cover maps of each period and then extracted the unaltered areas, from which 5O0 points were randomly collected by computer, and finally superimposed them with a high-resolution satellite image from Google Earth for the accuracy test. The interpretation accuracy was $8 7 . 6 \\%$ that could meet the requirement for mapping accuracy (Janssen et al., 1994; Li et al., 2016). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/833331630bf57ae1f0bbebecd8d4bdb73410d26afa317b107039ae4c39c22fff.jpg",
+        "img_caption": [
+            "Fig. 2 Land cover changes on the Chinese Loess Plateau in 1990 (a), 2000 (b), 2010 (c) and 2018 (d) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Significance index of land cover change ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The significance index of land cover change refers to the degree of importance of regional land cover change and is utilized to identify the main types of land cover change (Zhao et al., 2016). The significance index of land cover change can be calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i } = A _ { i } / A { \\times } 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = \\sum _ { i = 1 } ^ { n } A _ { i } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { i }$ is the significance index of land cover change $( \\% )$ , ranging from $0 \\%$ to $100 \\%$ $A _ { i }$ is the cover change area of type $i$ land $( \\mathrm { k m } ^ { 2 } )$ ; and $A$ is the total area of land cover change $( \\mathrm { k m } ^ { 2 } )$ . The larger the $C _ { i }$ value is, the more dominant the land cover change of type $i$ land is. In analyses, $C _ { i }$ values are sorted in descending order from large to small, and the land cover change types with cumulative values of $C _ { i }$ greater than $70 \\%$ are statistically plotted to identify the main types of land cover change in the study area (Zhao et al., 2016). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Proportion index of land cover change ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The proportion index of land cover change refers to the percentage of land cover change area in the total regional area and is used to depict the intensity of land cover change (Luo et al., 2014). The proportion index of land cover change can be calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = A / S \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $D$ is the proportion index of land cover change $( \\% )$ , ranging from $0 \\%$ to $100 \\%$ ： $A$ is the ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "area of land cover change of different land types $( \\mathrm { k m } ^ { 2 } )$ ; and $S$ is the total regional area $( \\mathrm { k m } ^ { 2 } )$ . The larger the $D$ value is, the more drastic the land cover change is. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3Eco-environmental quality index (EQI) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The EQI is quantitatively expressed as the overall state of regional environmental quality (Lu et al., 2013), which is defined as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E V } _ { t } \\ = \\ \\sum _ { i = 1 } ^ { n } \\mathrm { L U } _ { i } \\times V _ { i } \\ / \\ \\mathrm { T A } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $ { \\mathrm { E V } _ { t } }$ is the eco-environmental quality index; $\\mathrm { L U } _ { i }$ is the area of the land cover type $i ( \\mathrm { k m } ^ { 2 } )$ $V _ { i }$ is the relative ecological value of type $i _ { \\cdot }$ ，which refers to the proportion relation of the ecosystem service value per unit area of different ecosystems (Song et al., 2O18); TA is the total regional area $( \\mathrm { k m } ^ { 2 } )$ ; and $n$ is the number of land cover types. According to the coefficients of ecosystem service value of China's terrestrial ecosystem established by Xie et al. (2003), this study calculated the relative ecological values of different types of land cover in the Loess Plateau (Table 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f431d37a0104e32efdf5e558159933032e80991bb2b22ae1301b3d432a0db1e.jpg",
+        "table_caption": [
+            "Table 1 Relative ecological values of different types of land cover on the Chinese Loess Plateau "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Index</td><td>Cropland</td><td>Forestland</td><td>Grassland</td><td>Wetland</td><td>Construction land</td><td>Unused land</td></tr><tr><td>Coefficient of ecosystem service value (CNY/(hm2·a))</td><td>6114.3</td><td>19,334.0</td><td>6406.5</td><td>5,5489.0</td><td>0.0</td><td>371.4</td></tr><tr><td>Relative ecological value</td><td>0.110</td><td>0.348</td><td>0.116</td><td>1.000</td><td>0.000</td><td>0.007</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The change index of eco-environmental quality is utilized to express the change trend of regional eco-environmental quality and is calculated as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { E I } = \\mathbf { E V } _ { t } - \\mathbf { E V } _ { t - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where EI is the change index of eco-environmental quality; $ { \\mathrm { E V } _ { t } }$ and $\\boldsymbol { \\mathrm { E V } } _ { t - 1 }$ are the EQI at the $t$ and $_ { t - 1 }$ periods, respectively. $\\operatorname { E I } { > } 0$ indicates that the regional eco-environmental quality at a certain phase is improving, $\\scriptstyle \\mathrm { E I = 0 }$ indicates stable, and $\\mathrm { E I } { < } 0$ means deteriorate. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Characteristics of land cover change ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The areas of forestland and construction land in the Loess Plateau considerably increased from 1990 to 2O18, whereas the areas of cropland, grassland, wetland and unused land considerably decreased. The time series from 1990 to 2018 were divided into three periods (1990-2000, 2000-2010 and 2010-2018) in this study. In the three periods, the area of forestland continued to increase at an average annual increase rate of $0 . 1 2 \\%$ . The area of construction land presented a continuous expansion trend at an average annual increase rate of $2 . 4 5 \\%$ . The area of wetland decreased and then increased but showed an overal decreasing tendency. The area of cropland increased and then decreased, showing an overall decreasing tendency. The areas of unused land showed a continuous decreasing trend, and the grassand land tended to fluctuate downward. Land cover changes in Ningxia, Shaanxi, Shanxi and Henan regions were notable, whereas the changes were small in Qinghai, Gansu and Inner Mongolia regions (Fig. 3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From 1990 to 2018,30 types of land cover change were observed in the Loess Plateau, and the total area of land cover change was $9 5 , 1 5 1 . 9 0 \\mathrm { k m } ^ { 2 }$ ，accounting for $1 5 . 1 7 \\%$ of the total area of the Loess Plateau (Table 2). The area of land cover change from 199O to 200O was small and accounted for $2 . 1 4 \\%$ of the total regional area; mutual conversions between grassland and cropland and between grassland and unused land were the main types of land cover change. The area of land cover change increased from 2OoO to 2O1O and accounted for $7 . 4 7 \\%$ of the total regional area. Conversions from cropland into grassland, construction land and forestland land and mutual conversion between cropland and grassand were the main types of land cover change. The area of land cover change from 201O to 2018 was large and accounted for $9 . 3 0 \\%$ of the total regional area, mainly showing a significant expansion of construction land. Generally, land cover change was primarily converted from cropland into other land types in the Loess Plateau over the 28-year study period. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "N A   \n(a）1990-2000 (b)2000-2010 Legend Forestlandintocropland Grasslandintocropland Wetlandintocropland Construction land intocropland Unused land intocropland Croplandintoforestland Grassland into forestland Wetland into forestland Construction land into forestland Unused land into forestland Cropland intograssland Forestland intograssland Wetland intograssland ConstructionTand into grassland Unused land into grassland   \n(c)2010-2018 (d)1990-2018 Cropland intowetland Forestlandintowetland Grasslandintowetland Construction land intowetland Unused land intowetland Cropland into construction land Forestland intoconstructionland Grassland intoconstruction land Wetland intoconstruction land Unusedland intoconstructionland Cropland intounused land Forestlandintounusedland Grassland intounusedland Wetland intounused land Constructionland intounused land Loess Plateau boundary 0 160320km ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Spatial-temporal patterns of land cover change of different geomorphic units ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1Significance index of land cover change ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From 1990 to 2018, the significance index of land cover change was remarkably different among different geomorphic units in the Loess Plateau. Six types of change trends, namely， stable, smoothly descending, quickly descending, quickly descending followed by stable, stable followed by quickly descending and stable folowed by quickly descending and then stable were found (Fig. 4). Over the 28-year study period, the main types of land cover changes in the 5 geomorphic units, namely, LT, LBH, LMH, SLH and SSH, were the conversion from cropland into grassland, and the significance indices for these geomorphic units were $3 7 . 1 2 \\%$ for LT, $4 1 . 7 9 \\%$ for LBH, $3 6 . 6 1 \\%$ for LMH, $34 . 0 5 \\%$ for SLH and $2 5 . 8 1 \\%$ for SSH. However, the main types of land cover changes were the conversion from grassand into cropland of the 3 geomorphic units of LVH, LHIB and SSM, and the significance indices for these geomorphic units were $3 8 . 2 9 \\%$ for LVH, $20 . 4 6 ~ \\%$ for LHIB and $1 8 . 1 6 \\%$ for SSM. Meanwhile, the main types of land cover changes in another 2 geomorphic units, namely, RAP and SBH, were the conversion from cropland into construction land and from unused land into grassand, respectively,and the significance indices for these geomorphic units were $2 3 . 9 7 \\%$ and $2 5 . 1 2 \\%$ , correspondingly. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From 1990 to 2OO0, the change trend of significance indices of LT, RAP, LHIB and SBH were smoothly descending. For LMH, LVH and SSH, their indices showed quickly descending trends. For LBH, SLH and SSM, their indices showed a quickly descending followed by stable trend. From 20OO to 2O10, the significance indices of LHIB, SBH and SSM showed a smoothly descending trend. For LT, LBH, SLH and SSH, their indices showed a quickly descending followed by stable trend. For LMH and LVH, their indices showed a rapidly descending trend. For RAP, the value of significance index showed a stable trend before rapidly descending and finally became stable. From 2010 to 2018, the significance indices of LBH, LMH and LVH showed a steady trend. For RAP, SBH and SSH, their indices showed a smoothly descending trend. For SLH and SSM, their indices showed a stable followed by quickly descending trend. For LT and LHIB, their indices showed a stable followed by quickly descending and then stable trend. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/46126804deca6a9795acca2cca3732dd8bf7e2b22e48991a0168f51bfa3be95a.jpg",
+        "table_caption": [
+            "Table 2Types of land cover change on the Chinese Loess Plateau from 199O to 2018 "
+        ],
+        "table_footnote": [
+            "Note: $C _ { i }$ ,significance indexof land cover change; $D$ ,proportion index of land cover change. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">TypesorTandcoverclange iheseLoessFlateauonrT990t02018</td></tr><tr><td>Phase 1990-2000</td><td>Type of conversion Grassland into cropland</td><td>Area of conversion (km²) 3477.24</td><td>Ci (%) 25.93</td><td>D (%) 0.55</td></tr><tr><td rowspan=\"10\"></td><td>Unused land into grassland</td><td>2216.95</td><td>16.54</td><td>0.35</td></tr><tr><td>Grassland into unused land</td><td>1396.36</td><td>10.41</td><td>0.22</td></tr><tr><td> Cropland into grassland</td><td>1180.17</td><td></td><td>0.19</td></tr><tr><td>Cropland into construction land</td><td>1034.60</td><td>8.80</td><td>0.17</td></tr><tr><td>Forestland into grassland</td><td>860.72</td><td>7.72</td><td></td></tr><tr><td>Cumulative area of conversions</td><td>10,166.04</td><td>6.42</td><td>0.14 1.62</td></tr><tr><td>Others</td><td>3241.40</td><td>75.82</td><td>0.52</td></tr><tr><td>Total (30 types)</td><td>13,407.45</td><td>24.18 100.00</td><td></td></tr><tr><td>2000-2010 Cropland into grassland</td><td>9221.81</td><td>19.69</td><td>2.14 1.47</td></tr><tr><td>Grassland into cropland</td><td>7453.21</td><td></td><td></td></tr><tr><td></td><td>Cropland into construction land</td><td>5604.95</td><td>15.91</td><td>1.19</td></tr><tr><td></td><td>Unused land into grassland</td><td>4059.94</td><td>11.96</td><td>0.89</td></tr><tr><td></td><td>Grassland into forestland</td><td>3148.83</td><td>8.67</td><td>0.65</td></tr><tr><td rowspan=\"10\">2010-2018</td><td></td><td></td><td>6.72</td><td>0.50</td></tr><tr><td>Cropland into forestland Grassland into unused land</td><td>3,096.33</td><td>6.61</td><td>0.49</td></tr><tr><td>Cumulative area of conversions</td><td>2250.93</td><td>4.80</td><td>0.36</td></tr><tr><td>Others</td><td>34,836.00</td><td>74.36</td><td>5.55</td></tr><tr><td>Total (30 types)</td><td>12,010.17</td><td>25.64</td><td>1.91</td></tr><tr><td>Cropland into grassland</td><td>46,846.17 14,673.72</td><td>100.00</td><td>7.47</td></tr><tr><td>Grassland into cropland</td><td>13,474.82</td><td>25.13</td><td>2.34</td></tr><tr><td>Cropland into construction land</td><td></td><td>23.08</td><td>2.15</td></tr><tr><td>Grassland into forestland</td><td>4323.83 4040.14</td><td>7.41</td><td>0.69</td></tr><tr><td>Forestland into grassland</td><td></td><td>6.92</td><td>0.64</td></tr><tr><td rowspan=\"10\">1990-2018</td><td>Grassland into construction land</td><td>3554.50</td><td>6.09</td><td>0.56</td></tr><tr><td>Cumulative area of conversions</td><td>2562.50</td><td>4.39</td><td>0.41</td></tr><tr><td>Others</td><td>42,629.50</td><td>73.02</td><td>6.79</td></tr><tr><td>Total (30 types)</td><td>15,749.95</td><td>26.98</td><td>2.51</td></tr><tr><td> Cropland into grassland</td><td>58,379.45</td><td>100.00</td><td>9.30</td></tr><tr><td>Grassland into cropland</td><td>20,489.52 19,614.42</td><td>21.53</td><td>3.27 3.13</td></tr><tr><td>Cropland into construction land</td><td>9725.86</td><td>20.62 10.22</td><td>1.55</td></tr><tr><td>Unused land into grassland</td><td>6806.69</td><td>7.15</td><td>1.09</td></tr><tr><td>Grassland into forestland</td><td>6658.70</td><td>7.00</td><td>1.06</td></tr><tr><td>Forestland to grassland</td><td>4917.78</td><td>5.17</td><td>0.78</td></tr><tr><td>Cumulative area of conversions</td><td>68,212.97</td><td>71.69</td><td></td><td>10.88</td></tr><tr><td>Others</td><td></td><td>26,938.93</td><td>28.31</td><td>4.29</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total (30 types)</td><td>95,151.90</td><td>100.00</td><td></td><td>15.17</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(al) (a2) (a3) (a4)3200 士 古 中 山 山  \nRAdJ 6504032100 →5 3-→1 2→33→2 (b1) 1→3 1→5 3→1 (b2) 1→3 3→11→53→2 (b3) 1→3 3→1 1→5 (b4)H← ← s← 日 真西 i3 III13 西面西面面 IIiIII1J1 西西雪再再再雲雪 IIII 35 了N (c1) (c2) (c3) (c4)NT中 中 中3→1 3→2 5 1→3 3→1 3 22) 1→3 3-→1 (d3) 1→3 3→1 (44)中 H 1  \n5 →2 1²(e1) 1→3 1→2 2→3(2) 1→3 3→1 (e3) 1→3 3→1 -24) L中 A  \n配 3→1 →3 2) →3 () 3→1 1→3(f4)士古 西西西 古西→13→51→51→32→3 1→51→33→11→23→2 3→11→31→52→11→2 3→11→31→51→23→2(g1) （g2) （g3） (g4)中十真电山 y100 6-31-33 1→3 6→3 1→2 3-→1 1→33→13-→51→5 1→33→13→51→53→2 山西  \n00 (h1) (h2) (h3) (h4面 百百西 古丙西0 6→3 3→1 3→6 6→33-→61→33→13→2 1→33→16-→33→53-61→5 6→33→13→63-→53→2SSH (i1) (i2) (i3) (i4中 古2→3 1→33→2 3-→1(i2) 3-→2 2-31-3 3-1) 1→3 23 3→2′ 3→1j4(j1)0 山 门門西 西 直直直2→33→11→53→6 1→33→11→53→26→33-→5 3→11-33-22-32-1 3→11→33-→22-31→51990-2000 2000-2010 2010-2018 1990-2018",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Generally, over the 28-year study period, significance indices of LBH and LVH were stable. For LT, RAP, SBH, SSH and SSM, their indices showed a smoothly descending trend. For LMH, the index showed a quickly descending trend. For LHIB,the index was stable followed by a quickly descending and then stable trend. For SLH, the index showed a quickly descending followed by stable trend. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 Proportion index of land cover change ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From 1990 to 2O18, the proportion indices of land cover change in the 10 types of geomorphic units in the Loess Plateau significantly varied (Fig. 5). The proportion index of LVH was the largest $( D { = } 2 3 . 3 2 \\% )$ ，and the proportion index of SSM was the smallest $( D { = } 1 0 . 5 0 \\%$ ). Average proportion index was $1 5 . 8 3 \\%$ (Fig. 5d) over the 28-year study period. From 1990 to 2000, the land cover types in the 1O types of geomorphic units gently changed, and the proportion indices of LT, SBH, SSH, LBH, LHIB, RAP, SSM, LMH, SLH and LVH successively declined, with $D$ values of $4 . 2 9 \\%$ ， $3 . 4 9 \\%$ ， $1 . 8 8 \\%$ ， $1 . 8 2 \\%$ ， $1 . 6 6 \\%$ ， $1 . 2 1 \\%$ ， $1 . 0 0 \\%$ ， $0 . 8 3 \\%$ ， $0 . 7 6 \\%$ and $0 . 6 8 \\%$ respectively. Average proportion index in this period was $1 . 7 6 \\%$ (Fig. 5a). Fr0m 2000 to 2010, the proportion indices remarkably increased, and $D$ values were $1 1 . 8 9 \\%$ for LT, $1 0 . 7 0 \\%$ for SLH, $8 . 7 6 \\%$ for LMH, $7 . 7 8 \\%$ for SBH, $7 . 0 9 \\%$ for RAP, $7 . 0 1 \\%$ for LBH, $6 . 4 5 \\%$ for LVH, $5 . 9 0 \\%$ for LHIB, $4 . 6 9 \\%$ for SSM and $4 . 5 3 \\%$ for SSH (Fig. 5b). Average proportion index in this period was $7 . 4 8 \\%$ ，which was $5 . 7 2 \\%$ higher than that in the previous 10 years. From 201O to 2018, the proportion indices of LT and SLH remarkably decreased, with $D$ values of $8 . 1 3 \\%$ and $8 . 1 2 \\%$ respectively. The proportion indices of the other 8 geomorphic units showed an increasing trend, and $D$ values were $1 9 . 5 0 \\%$ for LVH, $1 2 . 7 5 \\%$ for LHIB, $1 2 . 4 8 \\%$ for RAP, $9 . 5 9 \\%$ for LBH, $9 . 5 7 \\%$ for LMH, $7 . 8 7 \\%$ for SBH, $7 . 6 8 \\%$ for SSH and $6 . 9 8 \\%$ for SSM (Fig. 5c). Average proportion index in this period was $1 0 . 2 7 \\%$ , which was $2 . 7 9 \\%$ higher than that in the previous 1O years. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/05271636f459f651949044be3b113fb5ad48ce18ddb629c39c596fab91f25752.jpg",
+        "img_caption": [
+            "Fig. 5Proportion index of land cover change $( D )$ of different geomorphic units on the Chinese Loess Plateau from 1990 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3 EQI ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The values of EQI in the Loess Plateau in 1990, 2000, 2010 and 2018 were 0.1506, 0.1503, 0.1504 and O.15O5, respectively, and the EQI of diferent geomorphic units considerably varied (Table 3). The values of EQI in LBH, LMH, LVH,and SBH slightly increased, but they considerably decreased in LT, RAP and SLH. The values of EQI in LHIB, SSH and SSM slightly decreased. The EQI in SSH was the highest, followed by that in SSM, and that in SBH was the lowest. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a568a1719d33b2a31ce5aa820ff9473fdf6b60f8579e95a7b275e8cbb9b81d6.jpg",
+        "table_caption": [
+            "Table3 Eco-environmental quality index (EQI) of diferent geomorphic units on the Chinese Loess Plateau from 1990 to 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Type of geomorphic unit</td><td>EQI in 1990</td><td>EQI in 2000</td><td>EQI in 2010</td><td>EQI in 2018</td><td>Average EQI</td></tr><tr><td>LT</td><td>0.1488</td><td>0.1481</td><td>0.1474</td><td>0.1471</td><td>0.1478</td></tr><tr><td>RAP</td><td>0.1347</td><td>0.1333</td><td>0.1310</td><td>0.1315</td><td>0.1326</td></tr><tr><td>LBH</td><td>0.1328</td><td>0.1328</td><td>0.1363</td><td>0.1366</td><td>0.1347</td></tr><tr><td>LMH</td><td>0.1471</td><td>0.1483</td><td>0.1486</td><td>0.1476</td><td>0.1479</td></tr><tr><td>LVH</td><td>0.1242</td><td>0.1243</td><td>0.1266</td><td>0.1264</td><td>0.1254</td></tr><tr><td>LHIB</td><td>0.1602</td><td>0.1599</td><td>0.1606</td><td>0.1593</td><td>0.1600</td></tr><tr><td>SLH</td><td>0.1370</td><td>0.1368</td><td>0.1380</td><td>0.1350</td><td>0.1367</td></tr><tr><td>SBH</td><td>0.1082</td><td>0.1091</td><td>0.1084</td><td>0.1089</td><td>0.1087</td></tr><tr><td>SSH</td><td>0.2241</td><td>0.2227</td><td>0.2235</td><td>0.2237</td><td>0.2235</td></tr><tr><td>SSM</td><td>0.1981</td><td>0.1972</td><td>0.1977</td><td>0.1979</td><td>0.1977</td></tr><tr><td>Total</td><td>0.1506</td><td>0.1503</td><td>0.1504</td><td>0.1505</td><td>0.1505</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "During the study period, the EQI of the Loess Plateau had apparent geomorphic differences, and there were three evolution types,i.e.， deterioration， stability and improvement of EQI in each geomorphic unit (Fig. 6). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bf969380b9747c079fb4b4ad49f5d8a9fdb92d78b33699902db2b31f337f68d.jpg",
+        "img_caption": [
+            "Fig.6Change in the eco-environment quality index of different geomorphic units on the Chinese Loess Plateau from 1990 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "From 1990 to 2Oo0, the stable, deteriorated and improved areas of EQI accounted for $9 7 . 8 6 \\%$ $1 . 3 0 \\%$ and $0 . 8 3 \\%$ of the total area of the Loess Plateau, respectively (Fig. 6a). Among the 10 geomorphic units, the proportions of deterioration and improvement of EQI in RAP were the largest $( 2 . 5 6 \\%$ and $1 . 7 3 \\%$ , respectively). SBH had the second change proportion, with its proportions of deterioration and improvement being $1 . 6 9 \\%$ and $1 . 8 0 \\%$ , respectively. The EQI of LBH was the most stable，and the proportions of deterioration and improvement were only $0 . 5 1 \\%$ and $0 . 1 7 \\%$ respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From 20o0 to 2010, stable, deteriorated and improved areas of EQI accounted for $9 2 . 5 3 \\%$ ， $3 . 6 5 \\%$ and $3 . 8 1 \\%$ of the total area of the Loess Plateau, respectively (Fig. 6b). The proportion of deteriorated area in RAP based on the EQI value was the largest $( 7 . 4 6 \\% )$ , followed by that of in LHIB $( 5 . 6 9 \\% )$ . The proportion of deteriorated area in SSH was the smallest $( 1 . 5 8 \\% )$ . Proportion of improved area in LMH was the largest $( 5 . 5 7 \\% )$ , followed by those of in LHIB and SLH $( 5 . 0 1 \\%$ and $4 . 9 9 \\%$ , respectively). Proportion of improved area in SSM was the smallest $( 2 . 2 9 \\% )$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From 2010 to 2018, stable, deteriorated and improved areas of EQI accounted for $9 0 . 6 9 \\%$ ， $4 . 8 1 \\%$ and $4 . 4 9 \\%$ of the total area of the Loess Plateau, respectively (Fig. 6c). Proportion of deteriorated area in LBH was the largest $( 9 . 5 0 \\% )$ ，followed by that of in LVH $( 6 . 3 1 \\% )$ . Proportion of deteriorated area in SSM was the smallest $( 3 . 5 0 \\% )$ . Correspondingly, proportion of improved area in LBH was the largest $( 1 0 . 0 1 \\% )$ , followed by that of in LVH $( 6 . 4 5 \\% )$ . Proportion of improved area in LHIB was the smallest $( 3 . 4 0 \\% )$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Overall,most of the areas in the Loess Plateau had stable EQI from 1990 to 2018,accounting for $8 4 . 8 3 \\%$ of the total area. The areas that deteriorated or improved were similar in size, accounting for $7 . 9 0 \\%$ and $7 . 2 7 \\%$ , respectively (Fig. 7d). Proportions of deteriorated area of EQI were $1 1 . 6 9 \\%$ for RAP, $9 . 9 4 \\%$ for LBH, $9 . 4 0 \\%$ for LHIB, $8 . 4 2 \\%$ for LVH, $7 . 9 1 \\%$ for LT, $7 . 2 8 \\%$ for SBH, $7 . 1 9 \\%$ for SLH, $6 . 8 3 \\%$ for LMH, $5 . 6 1 \\%$ for SSM and $5 . 0 9 \\%$ for SSH. Correspondingly, proportions of the improved area were $1 3 . 3 9 \\%$ for LBH, $9 . 2 7 \\%$ for LMH, $9 . 0 3 \\%$ for LT, $7 . 9 0 \\%$ for SLH, $7 . 8 0 \\%$ for LVH, $7 . 5 8 \\%$ for SBH, $6 . 9 3 \\%$ for LHIB, $6 . 6 6 \\%$ for RAP, $5 . 5 7 \\%$ for SSH and $4 . 8 9 \\%$ for SSM. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1 Geomorphic units and land cover change ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The geomorphic units in the Loess Plateau are complex and varied, and land cover pattern and evolution direction of different geomorphic units exhibit remarkable regional differences under the long-term effects of natural, social and economic factors (Luo et al., 2O14; He et al., 2016). This study used geomorphology, the determinant of the direction of land cover change and the mode of vegetation restoration, as the basic research unit and analyzed the spatial variation trends and change characteristics of the land cover change of different geomorphic units at the regional scale. Compared with research on land cover changes that have used single topographical factors, such as elevation, slope and slope direction (Zhong et al., 2012; Li et al., 2013; Zhang et al., 2015; Li et al., 2016), this study revealed the relationship between geomorphology and land cover change in a relatively comprehensive manner, which will be helpful for evaluating the effects of ecological restoration projects, such as the conversion from cropland into forestland and grassland in the Loess Plateau, and for formulating targeted measures that optimize management of land use structure and for realizing a rational layout of land cover types of different geomorphic units. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The significance index of land cover change indicated that the dominant types of land cover change of the 5 geomorphic units (LT, LBH, LMH, SLH and SSH) from 199O to 2018, were conversions from cropland into grassland, and mutual conversion between forestland and grassland. This result showed that conversions from cropland into grassland and forestland were the main directions of land cover change in the Loess Plateau and were closely related to the regional implementation of converting cropland into forestland and grassland and the other ecological construction projects (Liu et al.， 2017; Zhang et al., 2017). The conversion from cropland into construction land was the main type of conversion in RAP that has a flat terrain and is densely populated. The construction of towns and mining and transportation facilities occupied a large area of the cropland. The conversion from grassland into cropland was the main types in LVH, LHIB and ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SSM. In the valleys of the Yellow River,the terrain is relatively flat, and the combination of soil and water resources is beneficial. Owing to the implementation of comprehensive small watershed management, the construction of warping dams, gully land consolidation and other ecological projects, the cropland area significantly increased. The conversion from unused land into grassland was the main type of land cover change in SBH, which primarily benefited from the promotion of ecological protection and the sand control project, which accelerated the conversion from unused land into grassland. Generally, the land cover changes of different geomorphic units were related not only to the implementation time of the ecological construction projects but also to the local urban and rural construction in different periods, leading to spatial differences in land cover change (He et al., 2016; Liu et al., 2018). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The degree of proportion index of land cover change in the Loess Plateau from 1990 to 2000 was low, and mutual conversions between grassland and cropland and between grassland and unused land were the main types of land cover change. A probable reason is the household contract responsibility system that began in the 198Os, which effectively encouraged farming in the Loess Plateau. Many of the wastelands, grasslands and forestlands, especially wetlands and water bodies along the Yellow River, were extensively reclaimed for planting crops. The proportion index of land cover change and its degree in the Loess Plateau increased from 200O to 2010. The reasons may be as follows: the implementation of two strategies including the West China Development Strategy and the Rise of Central China Strategy, resulted in the rapid expansion of regional urban land and large-scale exploitation of energy resources, accelerated the change rate of land utilization in the Loess Plateau and increased the area of construction land of diferent geomorphic units after 2Ooo. However, the proportion indices in LT and SLH obviously decreased from 2010 to 2018, which indicated that the unstable tendency of land cover change was declining. This result can be atributed to the project of conversion from cropland into forest and grassland that resulted in the fewer disturbances from the human activities in the rural areas. Studies on the Qingjian River Basin (Guo et al., 2O12) and the Hekou and Tongguan counties of the Yellow River (Luo et al., 2O14), have also proven this finding. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2Government policy and land cover change ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Government policy had a profound impact on the types and changes of land utilization (Liu et al., 2014).Along with the implementation of the market economy， the industrialization and urbanization of the Loess Plateau rapidly developed, imposing direct impacts on the types of land utilization. During this process, a series of policies has been implemented to improve the deterioration of ecological environment (Fu, 2019; Jin, 2019). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "At the beginning of 2Oo0, the Returning Land from Farming to Forest policy was implemented, which resulted in lands with a slope $> 2 5 ^ { \\circ }$ and drylands being converted into forestland and grassland. Meanwhile, the tax exemption on agricultural and grain subsidies were implemented in 2005, which led to the conversion from grasslands, unused lands and forestlands into cropland in RAP, LVH and RAP. In addition, the implementation of the National Food Security policy made croplands relatively stable in Ningxia Plain, Hetao Area of Inner Mongolia and Fenwei plains. The Main Functional Zones and the Constructing Ecological Civilizations policies were implemented in the Loess Plateau from 2010 to 2018 (Jin, 2019; Li et al., 2019). Large-scale ecological construction projects have restrained the reduction of forestland in natural forest regions, effectively expanded the areas of artificial forest, and inhibited grassland degradation in SBH and SLH， thus exerting a positive effect on regional ecological restoration and eco-environmental quality (Liu et al., 2014). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3 Land cover change and eco-environmental quality ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The conversion of land cover types is an important driving force for the regional EQI change (Lu et al., 2013; Song et al., 2O18). The deteriorated zones of EQI were mainly distributed in the major cities and towns of the Loess Plateau, including the Fenhe and Weihe river valleys, Yiluo Basin in wester Henan, the central region in Inner Mongolia and the Yinchuan Plain in Ningxia. Disturbance intensity of human activities of these deteriorated zones is high, leading to the degradation of ecosystem. The improved zones were distributed in the northern part of Shaanxi, the Liupanshan ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Mountains in southern Ningxia, central and eastern Gansu and the Luliang and Taihang mountains in Shanxi. Similar findings was given by Zhou et al. (2O16), who found that the eco-environmental quality of the Loess Plateau worsened from the late 1980s to 2000 and improved from 2000 to 2008. Kong et al. (2O18) also found that the effect of ecological restoration was better during 2001-2013 than during 1991-2OoO due to the significant increased vegetation coverage. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.4Implications ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study investigated the change in land cover and the evolution of its ecological environment based on the geomorphic data and land cover data on the Loess Plateau. We found that the overall eco-environmental quality was low in the Loess Plateau, which confirmed the effects of human activity factors and socioeconomic factors of different geomorphic units on the Chinese Loess Plateau. However, the topography and hydrology are not considered in this study and the results have certain limitations. Therefore, according to the actual situation in the Loess Plateau, we should fully consider the geomorphology, topography and wet and dry conditions, to reveal the internal relations among geomorphology, land cover change and eco-environmental quality. This study determined the relative ecological value of diferent land cover types and calculated ecological environment quality index based on coeficients of ecosystem service value of China's terrestrial ecosystem. However, with the development of urbanization and industrialization, the demand for ecological products by urban and rural residents has become increasingly diversified, and new changes have occurred in the land use types correspondingly. Therefore, scientific measurement of ecosystem service value and improvement of measured model of ecological environment quality need to be further studied and discussed. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study found that the areas of forestland and construction land substantially increased, whereas those of cropland, grassland, wetland and unused land considerably decreased. Thirty land cover change types were observed, and the area accounted for $1 5 . 1 7 \\%$ of the total area of the Chinese Loess Plateau. The main conversion of land cover change was from cropland into other land types. The unstable trend of land cover change in LT and SLH declined, and the proportion index of land cover change decreased, whereas the proportion index of the other geomorphic units increased. The eco-environmental quality of the Loess Plateau decreased and then improved, and the improvement was most obvious after 2OO0. The eco-environmental qualities of LT, LBH, LMH, SLH, SBH and SSH were notably improved, whereas those of RAP, LVH, LIHB and SSM were gradually deteriorated. The degradations of forestland, grassand and wetland, and the expansion of construction land were the main driving factors for the deterioration of eco-environmental quality. The conversion from cropland and unused land into grassland and forestland and the conversion from grassland into forestland were important driving factors for the improvement of eco-environmental quality. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This research was funded by the Special Project of the Ministry of Science and Technology of China (2014FY210100),the National Key Research and Development Program of China (2018YFD1100101） and the National Natural Science Foundation of China (41971204). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BicikI,KupkoaLJeecekL,etal.5.LandUseCangesintheCechRepublic84.Switzerlad:Sprger,70.   \nBrierley G,Stankoviansky M.2Oo3.Geomorphic responses to land use change.Catena,51(3-4): 173-179.   \nBryan BA,GaoL,YeYQ,etal.0l8.Chna'sresponsetoanationalland-systemsustainabilityemergency.Nature,9(7713): 193-204.   \nCAS(Chinese Academyof Sciences)，CNGEC (China's Natural Geographic Editor Commitee).1980.China'sNatural Geographical Landscape. Beijing: Science Press,15-20. (in Chinese) Dunhuang Basin, northwestern China. Environmental Earth Sciences,75: 1027.   \nCSNR(China SocietyofNaturalResources).2018.ReportonAdvances in Resources Science (2016-2017).Beijing: China Science and Technology Press,106-107. (in Chinese)   \nDengL,LiuGB,ShangguanZP.2014.Land-useconversionandchanging soilcarbonstocksinChina's'Grain-for-Green'program: A synthesis. Global Change Biology,20(11): 3544-3556.   \nFu B J.2019.The projectof returning farmland to forests has enabled the Loess Plateau to achievea \"win-win\" situation for ecological environmental protection and social economic development.Yan'an Daily,[2004-08-13]. (inChinese)   \nGao HD,LiZB,JiaLL,et al.2016.Capacityof soilloss controlintheLoess Plateaubasedonsoilerosioncontrolderee. Journal of Geographical Sciences, 26(4): 457-472.   \nGAPRCEC (Geomorphologic Atlas of thePeople's RepublicofChina EditorCommitee.2009.The Geomorphologic Atlas of the People's Republic of China (1:1,000,00O). Beijing: Science Press,23. (in Chinese)   \nGe QS,DaiJH,HeFN,etal.20o8.Theresearchoflanduse/coverchangeandcarboncycleofChinainthe past30O years.cience in China: Earth Science,38(2):197-210. (in Chinese)   \nGLP(Global Land Project).2005.Global land project: Science plan and implementation strategy.In: IGBPReport No.53/IHDP Report No.19, IGBP Secretariat, Stockholm.   \nGuo B Y,Wang G Q,Fu X D,et al.2O12. Spatialstructureandfractal modeloflnduseinQingjianriverbasinof middleYellow River. Transaction of the Chinese Society of Agricultural Engineering,28(14): 223-228. (in Chinese)   \nHe W C,ZhaoS M, Cheng W M.2016.Analysis ofland cover change on basic geomorphic types in Shanxi province.Journalof Geo-Information Science,18(2): 210-219. (in Chinese)   \nJanssen L L F, Vander WelfFJM. Accuracy assessment of satelie derived land-cover data: A review.Photogrammetric Engineering and Remote Sensing, 1994, 60: 419-426.   \nJinZ.2019.Ecologicalrestorationand management inthe LoessPlateau enteringthenewera.JournalofEarthEnvironment, 10(3): 316-322. (in Chinese)   \nKalnay E, Cai M. 2O03. Impact of urbanization and land-use change on climate. Nature, 423(6939): 528-531.   \nKong DX,MiaoCY,Borthwick AGL,et al.2O18.Spatiotemporalvariations invegetationcoverontheLoessPlateau,China, between 1982and 2013: possible causesand potential impacts.Environmental Scienceand Polution Research,25(14): 13633-13644.   \nLambin EF,Baulies X,Bockstael N,et al.1995. Land-use andland-coverchange (LUCC): Implementation strategy.In:Acore projectof the International Geosphere-BiosphereProgrammeandthe International Human Dimensions ProgrammeonGlobal Environmental Change. IGBP Report 48. IHDP Report 10. IGBP, Stockholm, 125.   \nLawler JJ,Lewis JD,NelsonE,et al.2014.Projected land-usechange impacts onecosystemservicesinthe UnitedStates. Proceedings of the National Academy of Sciences,111(20): 7492-7497.   \nLi JJ, Li Z,Lu Z M.2O16.Analysis of spatiotemporal variations inland useontheLoessPlateau ofChina during1986-2010. Environmental Earth Sciences,75(11): 2-12.   \nLi Z,Liu WZ,ZhengFL.2O13.The landusechangesanditsrelationship with topographic factors intheJingrivercatchmenton the Loess Plateau of China. Springer Plus, 2(S1): S3.   \nLiu GB,Shangguan ZP,YaoWY,etal.217.EcologicaleffctsofsoilconservationinLoess Plateau.BuletinofCese Academy of Sciences,32(1): 11-19.(in Chinese)   \nLiu JF,Sun H,Chang GQ,etal.2014.Researchonnationalinvestmentpolicyand mechanismof ecologicalsecurityintheLo Plateau. Soil and Water Conservation,(4): 23-27. (in Chinese)   \nLiuJY,Kuag WH,ZangZX,etal.214.Satiotempraharacteristics,pattsdcusesofusehgesinaince the late 198Os. Journal of Geographical Sciences. 24 (2): 195-210.   \nLiu M X, ZhaoRDShaoP,etal.2018.Temporalandspatialvariationofvegetationcoverageandits drivingforcesintheLoess Plateau from 2001 to 2015. Arid Land Geography,41(1): 99-108. (in Chinese)   \nLvL G,ZhouSL,ZhouBB,etal.2O13.Landusetransformationandits eco-environmentalresponse inprocessoftheregional development: A case study of Jiangsu province.Scientia Geographica Sinica,33(12): 1442-1449. (in Chinese)   \nLuo Y,Yang S T,Liu X Y,et al. 2014. Landusechangein thereachfrom Hekouzhen to Tongguanof theYellow Riverduring 1998-2010. Acta Geographic Sinica, 69(1): 42-53.   \nMayer WB,TurnerBL.1994.Changes in Land Use and Land Cover: AGlobal Perspective.New York: Cambridge University Press,537-538.   \nMooney HA,Duraiappah A,Larigauderie A.2O13.Evolutionof naturaland social science interactions in globalchangerseach programs. Proceedings of the National Academy of Sciences, 110(Suppl. 1): 3665-3672.   \nNingJ,LiuJKuagW,eta8.atiotepalpasndracterstisodsengeiurng15. Journal of Geographical Sciences,28(5): 547-562.   \nReidWV,ChenD,oldfarbL,etal.O1.Earthsystemcienceforglobalsustainability:grandhallnges.Sience,(606): 916-917.   \nShi H,Shao M.2Ooo.Soiland waterlossfrom theLoessPlateau inChina.Jounal of AridEnvironments,45(1): 9-20.   \nSong W,DengXZ.2O17.Land-use/land-coverchangeandecosystemserviceprovisioninChina.ScienceoftheTotalEnviont, 576: 705-719.   \nSong YY,XueDaiLH,etal.18Landuseangeadisecolgicalresponsetyicalfoilergyevelontosof Shanxi-Shaanxi-Inner Mongolia. Arid Zone Research, 35(5): 1-9. (in Chinese)   \nTurnerBL,SkoleD,Sanderson S,etal.995.Landuseand landcoverchangescience/researchplan.In:IGBPReportNo.35, IHDP Report 7. Stockholm, Geneva, 61-78.   \nTurnerBL,LambinEF,Reenberg A.2Oo7.The emergenceof land change science for global environmental changeand sustainability. Proceeding of the National Academy of Sciences,104(52): 20666-20671.   \nVerbuerg PH,Chen YQ.20oo.Multiscale characterizationof landuse paterns in China.Ecosystems,3(4): 369-385.   \nWaisanenPJ,BlissNB.2OO2.Changes inpopulationandagriculturalland inconterminous UnitedStatescounties,79t997. Global Biogeochemical Cycle, 16(4): 1-15.   \nWangS,FuBJ,PiaoSL,etal.2O16.ReducedsedimenttransportintheYelowRiverduetoanthropogenicchanges.Nature Geoscience, 9(1): 38-41.   \nWuLN,YangST,Liu XY,et al.2O14.Responseanalysisoflandusechangetothe degreofhumanactivities inBeiluoRiver basin since 1976. Acta Geographica Sinica, 69(1): 54-63. (in Chinese)   \nXieGD,LuCX,LngYF,etal.O.Ecologicalssetsvauationofthebetanateau.JoualofNaturalResourcs,18(2): 189-196. (in Chinese)   \nZhang JX,ZhangDY,ZhangB,etal.2015.Vegetationlandscapechange andits multi-saleresponserelationshipwithteaiin Loess Plateau. Chinese Journal of Ecology,34(3): 611-620. (in Chinese)   \nZhangK,LuYH,FuBJ.2O17.VegetatinrestoratioanditsinfuencesoecosystemsericesinreastyicaloftheLsateau. Journal of Ecology and Rural Environment,33(1): 23-31. (in Chinese)   \nZhang XR,LiuLP,FangS,etal.2O14.Researchadvancesontherelationshipbetwenlandusecoverchangeandenvioetal change. Ecological and Environment Science,23(12): 2013-2021. (in Chinese)   \nZhaoG,MuX,WenZ,etal.Solerosion,seationdeoevoethgesinteLosateauofi. Degradation and Development, 24(5): 499-510.   \nZhaoM,ChengWM,HuangK,etal.2016.ResearchonlandcoverchangeinBeijing-Tanjin-Hebeiregionduringthelastars based on different geomorphic units.Journal of Natural Resources,31(2): 251-264. (in Chinese)   \nZhongDY,Chang QR,SongFJ.2O12.Relationshipbetweenterainfactorsandspatialdistributionoflandusehillyand gullyrea. Journal of Arid Land Resources and Environment, 26(6): 102-107. (in Chinese)   \nZhou S G, Shao Q Q,Cao W.2O16. Characteristics of land use and land coverchange in theLoessPlateau over thepast 20 years. Journal of Geo-Information Science,18(2): 190-199. (in Chinese) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

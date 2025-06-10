@@ -1,0 +1,183 @@
+# 基于M0D16数据的焉耆盆地蒸散量变化研究
+
+李晴¹²，杨鹏年}²，彭亮¹²，周龙²，玉素甫江·如素力³，王环波¹²，章文亭1.2(1.新疆农业大学水利与土木工程学院,新疆 乌鲁木齐830052；2.新疆水利工程安全与水灾害防治重点实验室，新疆乌鲁木齐830052；3.新疆师范大学地理科学与旅游学院,新疆 乌鲁木齐830052)
+
+摘要：蒸散量是水资源转化中非常关键的变量，特别是对当前变化环境下干旱区作物耗水量的时空变化与预测具有重要的作用。基于2001—2019年MOD16数据产品,通过遥感反演蒸散量数据,对焉耆盆地实际蒸散量(AET)和潜在蒸散量(PET)的时空变化进行分析,结果表明：(1）MOD16蒸散产品和小型蒸发皿实测数据较为一致( $R ^ { 2 } =$ 0.94),其精度可以用于分析和探究焉耆盆地蒸散量的时空分布特征。（2)多年平均AET与PET分别为 $1 2 8 . 7 \ : \mathrm { m m }$ 和$1 3 8 1 . 5 \mathrm { m m }$ ,年际变化尺度上AET呈上升趋势,PET呈下降趋势。（3)多年平均AET与PET在空间分布上呈现出明显的差异特征且表现出相反的趋势,年际AET与PET线性倾斜率处于基本不变趋势。（4）AET与PET的变化趋势与焉耆盆地膜下滴灌技术的普及与气象要素(蒸发量、相对湿度、平均气温)的改变具有内在的联系。
+
+关键词：MOD16数据；遥感蒸散量；耗水变化趋势；焉耆盆地
+
+在干旱与半干旱区域的水循环中，蒸散是水量消耗的主要途径1，它与降水共同决定着干旱程度，同时，在合理调配水土资源、区域生态平衡研究等方面发挥着关键作用。蒸散量的研究包括实际蒸散量(AET)和潜在蒸散量(PET），AET是地表水分蒸发和植物冠层蒸腾之和，是水文循环和地表能量平衡中极其重要的分量，也是维持植被生存所必须的生理过程[2；PET是水分充足条件下的蒸散量，是干旱区气候及水资源研究中决定该地区气候变化和水资源时空分布的重要指标[3]。蒸散发是区域水循环的重要环节[4],是联系能量平衡和水量平衡的枢纽5，准确的测定和估算蒸散量不仅对科学认识区域水循环过程有重要意义，也对研究气候演变、环境问题以及水资源评价等有着重要的意义。
+
+2011年，美国NASA研究团队基于Penman-Monteith模型结合MODIS遥感数据在蒸散发反演算法上取得了重要成果，并通过NASA地球观测系统发布了全球MODIS陆地蒸散产品数据（MOD16）[7]，该数据已通过全球通量塔站台的检验，模拟精度达到 $8 6 \% ^ { [ 8 ] }$ 。MODIS作为新一代资源卫星传感器在研究典型生态系统蒸散时空分布以及变化趋势时有一定的优势，国内学者基于MOD16对塔里木河流域[9、安徽省[10]、祁连山[1]、三江平原[12]、毛乌素沙地[13]等不同区域的蒸散量进行了时空分布研究。另外，郑荣伟等[14]以MOD16数据为基础,探讨不同土地利用类型及其相互间转化对北京市蒸散耗水的影响。刘可等[15]基于2000—2014年MOD16地表蒸散数据研究了宁夏草地近15a的蒸散时空分布格局与演变规律，并讨论了可能影响因素。田义超等基于北部湾海岸带2000—2013年MOD16蒸散发(ET)数据和植被类型数据，对海岸带蒸散量的时空变化特征进行定量分析，并在此基础上，对蒸散量的未来变化趋势进行预测。
+
+前人对焉耆盆地内蒸散量的研究多基于气象观测资料和大田试验研究，这些研究多是基于“点”尺度，若将相关结果进行空间尺度扩展用于整个焉耆盆地蒸散量的计算时，则会引起较大误差[17]。随着遥感技术的发展，其可见光、近红外和热红外波段数据能够反映植被覆盖与地表温度的时空分布特征，遥感蒸散量较好地反映了区域水和能量平衡，可用于揭示区域蒸散发的时空动态特征[18],为地表蒸散的区域估算提供了新的途径[19]
+
+本文基于MOD16数据产品，通过遥感反演蒸散量数据，分析了2001—2019年间AET与PET的时空变化规律，在一定程度上反映了焉耆盆地近年来灌水方式与田间耗水的演变特征，并揭示了由此引发盆地内水资源转化方式变化的新趋势，实现了绿洲区蒸散耗水量计算的新方案，为最严格水资源管理制度下的水资源管理、水量转化研究及焉耆盆地用水总量控制制度的落实和生态环境恢复与治理措施提供了技术依据。
+
+# 研究区与研究方法
+
+# 1.1 研究区概况
+
+焉耆盆地是新疆天山东段南麓一个半封闭的山间盆地(图1),位于 $8 2 ^ { \circ } 5 0 ^ { \prime } { \sim } 9 0 ^ { \circ } 3 0 ^ { \prime } \mathrm { E } , 3 9 ^ { \circ } 0 6 ^ { \prime } { \sim } 4 3 ^ { \circ } 1 4 ^ { \prime } \mathrm { N } ,$ 面积约 $1 . 3 { \times } 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,包括和静、和硕、焉耆、博湖4个行政县和生产建设兵团第2师21团等8个团场。盆地深居欧亚大陆腹地，冬季严寒，春季气温回升迅速，夏季气候温和，秋季气温下降快，是南北疆气候交错带，具有阳光充裕、热量较丰富、气温日较差大、降水量小、蒸发量大、空气干燥等典型干旱区绿洲特征。
+
+和静气象台 NΛ开乌拉斯 台河  
+和静县和硕县戈壁滩焉耆气象台耆县博湖气象台 七博斯腾湖博湖县盼农 山前平原区  
+图例 乐气象站 □边界草地 水域林地 城镇建设用地 0 20 km耕地 未利用土地 L J
+
+# 1.2数据来源及处理
+
+1.2.1遥感数据 MOD16是NASA于2011年发布的全球陆地蒸散发产品数据。数据反演过程基于Penman-Monteith公式，采用 $\mathrm { \Delta \ m u }$ 等8在2007年的算法基础上得到的蒸散算法。计算输入数据包括叶面积指数、反照率、植被覆盖度等遥感信息及气温、气压、相对湿度、辐射等气象资料，输出产品包含蒸散发、潜热通量、潜在蒸散发和潜热通量。本研究选用2001—2019年MOD16A2蒸散量数据（下载地址:https://earthexplorer.usgs.gov/）,数据空间分辨率为 $1 ~ \mathrm { k m }$ ,时间分辨率为 $8 \textup { d }$ 。根据产品数据轨道号的排列规律及焉耆盆地所在的地理位置，选择卫星轨道号为 $\mathrm { { h 2 4 v 0 4 } }$ 。借助NASA提供的MODIS数据专业投影工具MODISReprojection Tool(MRT)将原始数据转换为WGS-1984/Geographic经纬坐标，进行重采样、投影转换等操作，并借助GIS中的相关工具剔除数据，最后对数据进行矢量裁剪。
+
+1.2.2地面观测数据选取焉耆盆地内焉耆、和静和博湖3个气象站点2001—2019年小型蒸发皿 $\Phi 2 0$ 实测月均水面蒸发量以及气象站的平均风速、平均温度等数据，对遥感数据进行精度验证。
+
+1.2.3土地利用数据盆地内水分的耗散与不同的地类具有直接的关系，选用2017年焉耆盆地土地利用数据,空间分辨率为 $3 0 \mathrm { m } { \times } 3 0 \mathrm { m }$ ,下载地址为:http://data.ess.tsinghua.edu.cn/。利用GIS将研究区域土地利用类型归并为6个一级地类，包括耕地、林地、草地、水域、建设用地、未利用土地。
+
+# 1.3 研究方法
+
+1.3.1线性趋势法为了定量描述研究区AET与PET的变化趋势，综合的反映蒸散时空变化特征，本文选用线性趋势法分析AET与PET的年际变化趋势，利用线性趋势法计算每个像元2001一2019年AET与PET的线性倾向率 $( K )$ 。计算公式如下：
+
+$$
+K = { \frac { n \displaystyle \sum _ { i = 1 } ^ { n } ( i \mathrm { E T } _ { i } ) - \sum _ { i = 1 } ^ { n } i \sum _ { i = 1 } ^ { n } \mathrm { E T } _ { i } } { n \displaystyle \sum _ { i = 1 } ^ { n } i ^ { 2 } - \left( \sum _ { i = 1 } ^ { n } i \right) ^ { 2 } } }
+$$
+
+式中： $K$ 为线性倾向率; $n$ 为年序列总长度， $n { = } 1 9 ; i$ 为具体计算年份； $ { \mathrm { E T } } _ { i }$ 为第 $i$ 年的AET/PET。 $K$ 值大小反映AET/PET上升或下降的倾向程度， $K { > } 0$ 时，表示随着年份 $i$ 的增加，AET/PET处于上升趋势； $K { < } 0$ 时，表示随着年份 $i$ 的增加，AET/PET处于下降趋势。
+
+1.3.2变异系数法利用变异系数(Coefficient ofVariation, $\boldsymbol { C v }$ )对研究区2001—2019年AET/PET的空间格局变化进行稳定性分析， $\boldsymbol { C v }$ 作为反映观测值的变异程度的一个重要指标，为标准差与多年平均值的比值。计算公式如下：
+
+$$
+C \nu { = } \frac { S _ { \mathrm { E T } } } { \overline { { \mathrm { E T } } } }
+$$
+
+式中： $S _ { \mathrm { E T } }$ 为每个栅格单元的标准差；ET为AET/PET多年平均值, $\mathbf { m } \mathbf { m }$ 。
+
+利用2001—2019年遥感数据计算和分析AET与PET年际波动，为了更直观的揭示蒸散量的时空变化，根据不同蒸散量类型的不同取值范围，将 $\boldsymbol { C v }$ 分别划分为3个等级：轻微波动、中度波动、显著波动。
+
+# 1.3.3相对变化率
+
+$$
+r { = } \frac { \mathrm { E T } _ { i } { - } \overline { { \mathrm { E T } } } } { \mathrm { E T } _ { i } }
+$$
+
+式中： $\boldsymbol { r }$ 为相对变化率; $ { \mathrm { E T } _ { i } }$ 为第 $i$ 年AET/PET, $\mathrm { m m }$ ET为AET/PET多年平均值, $\mathrm { m m }$ 。
+
+# 1.4MOD16数据精度检验
+
+为了检验遥感监测区域蒸散量数据的准确性，选取研究区内和静、焉耆、博湖3个气象观测站(图1)小型蒸发皿 $\Phi 2 0$ 实测月均水面蒸发量在"点"尺度上进行精度验证。AET是指真实气候背景和现实水分、能量条件下土壤蒸发和植被蒸腾的过程，其大小受水分和能量的影响。在干旱与半干旱区，地表所能获得的太阳辐射较多，气象站蒸发血实测值是指在水分充足的条件下，蒸发血所在区域自由水体的最大蒸发状况，其测量过程中水分是充足的，因此，其大小只受能量的影响[3]。PET则是指在充分供水情况下的某一固定下垫面的最大可能蒸散量，与蒸发皿实测值的含义有较大的重合部分。从气象站实测蒸散量与PET的相关性(图2)可以看出，蒸发血实测水面蒸发量与PET之间具有较高的相关性，相关系数达到 $R ^ { 2 } { = } 0 . 9 4$ ，说明MOD16蒸散产品在该研究区精度满足要求，因此，通过蒸发血实测水面蒸发量与PET的相关性来检验MOD16蒸散产品在焉耆盆地的可用性是可行的[20]，该数据可以用于分析和探究焉耆盆地蒸散量的时空分布特征研究。
+
+![](images/2c84af8c47fcd1df46cd89d4870de584e1279c4604e2d42a52754212114987bc.jpg)  
+图2气象站实测蒸散量与PET的关系  
+Fig.2The relationship between evapotranspiration measured by meteorological station and PET
+
+# 2结果与分析
+
+# 2.1区域平均AET与PET的年际变化特征
+
+2001—2019年焉耆盆地AET与PET的年际变化特征如图3a所示，AET波动范围为81.6\~186.3$\mathbf { m } \mathbf { m }$ ,多年平均AET为 $1 2 8 . 7 \ : \mathrm { m m }$ ,AET波动最突出的年份在2001年和2019年，相对变化率分别为$- 5 7 . 8 \%$ 和 $3 0 . 9 \%$ 。PET波动范围为 $1 2 9 4 . 8 { \sim } 1 5 5 1 . 3$ $\mathbf { m } \mathbf { m }$ ,多年平均PET为 $1 3 8 1 . 5 \mathrm { m m }$ ,PET波动最突出的年份为2003年和2007年，相对变化率分别为 $- 6 . 7 \%$ 和 $1 0 . 9 \%$ 。AET是指地表实际蒸散量，PET是指在水分供应充足条件下的最大蒸发蒸腾量，两者差值可以反映该研究区的干旱程度，从图3a可以看出，年际平均AET与PET差值较大，说明盆地内整体干旱缺水,最干旱年份为2007年,两者差值为 $1 4 3 2 . 8 \mathrm { m m }$ 。
+
+2001—2019年焉耆盆地具体AET与PET的年际变化特征如图3b和图3c所示，从AET年际间的逐渐增加的趋势来看，从 $8 1 . 5 ~ \mathrm { m m }$ 增加到了186.3$\mathbf { m } \mathbf { m }$ ，表明盆地内土壤水分的状况得到了显著的改善，这应与盆地内灌水方式的变化有直接关系。自2005年以来，膜下滴灌在当地得到了广泛推广和应用1，灌溉方式从过去的沟畦灌转变为机井加首部的滴灌模式，作物在生长季节内受水胁迫的状况较之前明显改善，可供蒸腾的水量呈增加趋势。从PET逐年降低的趋势来看，应受气候变化的影响可能性较大，从近几年来，部分学者的研究结论来看，干旱区内也存在着"蒸发悖论"的现象[22]。同时，从一些学者的研究成果来看,PET受相对湿度的影响很大，相对湿度的增加会减小PET的数值[23]，通过对收集到的焉耆气象站E601蒸发血及相对湿度资料的分析，已部分验证了上述的观点。
+
+# 2.2多年平均AET与PET的空间分布特征
+
+焉耆盆地2001—2019年平均AET与PET的空间分布特征如图4所示，多年平均AET与PET的波动范围分别为 $1 1 . 6 { \sim } 6 1 7 . 5 ~ \mathrm { m m }$ 和 $5 8 8 . 4 \small { \sim } 1 7 6 9 . 1 \ \mathrm { m m }$ ，两者具有明显的空间分布差异且呈现出相反的分布。AET与PET空间分布相反的状况，可以用蒸散发互补相关理论来解释[24],当下垫面充分湿润的条件下，AET与PET相等；当水分不足时，AET变少，陆面和大气的相互作用导致PET增大。博斯腾湖周围由于芦苇等植被的覆盖以及绿洲区的灌溉引水，所以导致AET偏高 $( 3 3 0 . 0 { \sim } 6 1 7 . 5 \ \mathrm { m m }$ ），PET偏低$\left( 5 8 8 . 4 \mathrm { \sim } 1 1 9 9 . 1 \ \mathrm { m m } \right)$ ；山前平原区以及戈壁滩周围的沙地和盐碱地等区域由于太阳辐射较高、日照时数长、降水量少、下垫面供水不足，所以导致AET偏低（ $1 1 . 6 { \sim } 1 1 7 . 4 ~ \mathrm { m m }$ ），PET偏高 $( 1 5 3 6 . 3 { \sim } 1 7 6 9 . 1 \ \mathrm { m m } )$ 。由于MOD16产品覆盖范围为有植被区域，因此在博斯腾湖、未利用土地及城镇建设用地等没有植被区域为空白，没有数据。
+
+![](images/24448c5311b48c1c8fb9ec41b1af81801664cd3fbfad4c45647b4e5cd051f6bc.jpg)  
+图3区域平均AET与PET的年际变化
+
+![](images/978d9322484e9b532dd14df04e3364b6f0ecabb52d38b4f11ec9c27a64ff8ebc.jpg)  
+Fig.3Interannual variation of regional mean AET and PET   
+图4平均AET与PET的空间分布  
+Fig.4 Spatial distribution of mean AET and PET
+
+# 2.3AET与PET年际长期变化趋势
+
+采用线性趋势计算法，将区间按自然间断点分隔法划分后得到的焉耆盆地近19a的AET与PET年际线性变化趋势空间分布情况(图5)。本文将线性倾斜率 $K$ 值定义为严重减少、轻微减少、基本不变、轻微增加、显著增加5个等级，具体趋势分类情况见表1。
+
+![](images/88f937da8d6aa7155d8ec565df952010457d204f8d196e18fa3e9acd596a6a4d.jpg)  
+图5年际AET与PET线性变化趋势  
+Fig.5Linear variation trend of AET and PET between years
+
+# 表1年际AET、PET线性变化趋势分类
+
+Tab.1 Classification ofannual linearvariation trend of AETandPET   
+
+<html><body><table><tr><td>蒸散类型</td><td>趋势类型</td><td>K取值范围</td><td>像元数</td><td>面积比例/%</td></tr><tr><td>AET</td><td>严重减少</td><td>-16<K<-3</td><td>1485</td><td>3.1</td></tr><tr><td rowspan="10">PET</td><td>轻微减少</td><td>-3<K<2</td><td>10481</td><td>22.2</td></tr><tr><td>基本不变</td><td>2<K<5</td><td>17679</td><td>37.5</td></tr><tr><td>轻微增加</td><td>5<K<8</td><td>14060</td><td>29.8</td></tr><tr><td>显著增加</td><td>8<K<32</td><td>3481</td><td>7.4</td></tr><tr><td>合计</td><td></td><td>47186</td><td>100.0</td></tr><tr><td>严重减少</td><td>-42<K<-10</td><td>5850</td><td>12.4</td></tr><tr><td>轻微减少</td><td>-10<K<-5</td><td>16765</td><td>35.5</td></tr><tr><td>基本不变</td><td>-5<K<0</td><td>16716</td><td>35.4</td></tr><tr><td>轻微增加</td><td>0<K<9</td><td>6718</td><td>14.3</td></tr><tr><td>显著增加</td><td>9<K<44</td><td>1137</td><td>2.4</td></tr><tr><td>合计</td><td></td><td></td><td>47186</td><td>100.0</td></tr></table></body></html>
+
+从图5可以看出，AET在博斯腾湖西侧、开孔河流域、乌拉斯台等河流附近处于显著增加趋势，约占面积的 $7 . 4 \%$ ，这些区域地势较低、植被覆盖较密集且植物种类繁多；在博斯腾湖周边的沼泽滩地处于严重减少趋势，约占面积的 $3 . 1 \%$ ;PET在博斯腾湖下游、孔雀河上游附近处于显著增加趋势，约占面积的 $2 . 4 \%$ ,在和静县、和硕县的灌区耕地附近处于严重减少趋势，约占面积的 $1 2 . 4 \%$ 。焉耆盆地年际AET与PET线性倾斜率 $K$ 的平均值分别为4.3和-2.0,则说明整个盆地年际AET与PET总体上处于基本不变趋势，基本不变区域面积分别约占总面积的 $3 7 . 5 \%$ 和 $3 5 . 4 \%$ 。按增加或减少的趋势所占的面积来看，AET有增加趋势的面积大于有减少趋势的面积，PET有减少趋势的面积明显大于有增加趋势的面积，AET增加趋势和PET减少趋势表明，该灌区内作物的耗水需求逐步改善，这主要是由于灌区内近些年用水总量的控制及超采治理等措施的实行。
+
+# 2.4AET与PET年际波动程度
+
+经过波动值栅格计算、剔除极值，将区间按自然间断点分隔法划分后得到的焉耆盆地近19a的AET与PET年际波动程度(图6)，本文将 $\boldsymbol { C v }$ 值定义为轻微波动、中度波动、显著波动3个波动区间，具体分类情况见表2。
+
+焉耆盆地AET与PET整体呈现轻微波动居多，中度波动偏少，显著波动最少的特征。AET呈现轻微波动的面积占总面积的 $5 5 . 7 \%$ ，主要分布在土地利用类型为耕地的范围；呈现中度波动的占总面积的 $3 3 . 8 \%$ ，土地利用类型大部分为林地和草地；呈现显著波动的面积占总面积的 $1 0 . 5 \%$ ，分布在水域周围地势低洼处。PET呈现轻微波动的面积占总面积的 $6 2 . 9 \%$ ，主要分布在和静县和焉耆县的耕地范围内；呈现中度波动的占总面积的 $3 5 . 3 \%$ ，分布在和静县和博湖县的林地、草地与和硕县的耕地、草地范围内；呈现显著波动的面积仅占总面积的 $1 . 8 \%$ ，分布在博斯腾湖周边的沼泽滩地。由此可见，整个焉耆盆地AET与PET近19a来比较稳定，水域附近波动性最大，因此，未来应该对该区域天然植被及其
+
+![](images/815970edff43b4982e26afcb53ee38b084105b8e49f8978c2370c0bc81e37169.jpg)  
+图6年际AET与PET的波动程度  
+Fig.6 Annual fluctuation degree ofAET and PET
+
+# 表2年际AET、PET的 $c \nu$ 空间分布分类
+
+Tab.2 Classification of $c \nu$ spatial distributionofAET andPETbetweenyears   
+
+<html><body><table><tr><td>蒸散类型</td><td>波动程度</td><td>Cu取值范围</td><td>像元数</td><td>面积比例/%</td></tr><tr><td>AET</td><td>轻微波动</td><td>0.05<Cv<0.2</td><td>26278</td><td>55.7</td></tr><tr><td rowspan="7">PET</td><td>中度波动</td><td>0.2<Cv<0.31</td><td>15945</td><td>33.8</td></tr><tr><td>显著波动</td><td>0.31<Cv<0.98</td><td>4963</td><td>10.5</td></tr><tr><td>合计</td><td></td><td>47186</td><td>100.0</td></tr><tr><td>轻微波动</td><td>0.02<Cu<0.07</td><td>29685</td><td>62.9</td></tr><tr><td>中度波动</td><td>0.07<Cv<0.15</td><td>16632</td><td>35.3</td></tr><tr><td>显著波动</td><td>0.15<Cv<0.5</td><td>869</td><td>1.8</td></tr><tr><td>合计</td><td></td><td>47186</td><td>100.0</td></tr></table></body></html>
+
+生态保护区的耗水进行研究，建立灌区与非灌区间耗水的平衡关系。
+
+# 3讨论
+
+焉耆盆地内水土资源的演化是多年来研究的热点，蒸散量作为水循环不可或缺的构成部分，对焉耆盆地水均衡过程的演变具有重要的作用。本文利用MOD16蒸散产品和连续时间段的气象观测数据，在得出焉耆盆地AET与PET时空分布特征的基础上，探讨了两者的关系及多年的变化趋势，对揭示盆地内水资源耗散方式的演变具有重要的作用，同时，蒸散量的确定将对绿洲区的水均衡计算拓展一种新的数据途径。
+
+随着滴灌面积的扩大，在地下水利用量大幅增加的同时，地下水埋深却不断下降，地下水环境受到了破坏，部分区域甚至已被划定为超采区[25]，表明蒸散量持续增加已超过了灌区水资源的承载能力。近几年来，焉耆盆地内在用水总量控制的要求下，已开始了退耕减水的工作，为能有效地评估区域内以水定需和用水总量年度考核的要求，建议在后续的工作中可持续开展AET的年度监测工作，从耗水量管理的角度出发，对区域内的用水总量进行监管，使得用水总量控制能够真正得以落实。
+
+本文的研究结果在一定程度上反映了焉耆盆地近年来灌水方式与田间耗水的演变特征，并揭示了由此引发盆地内水资源转化方式变化的新趋势。在今后的研究中，可结合研究区不同地类上蒸散量的变化趋势，结合灌区内实际引水量，通过建立水均衡方程进一步开展有针对性的研究，深入分析探讨其他因素对蒸散量的影响，对该盆地内天然植被及其生态保护区的耗水进行研究，提出灌区与非灌区间耗水的合理分配关系，为今后焉耆盆地用水总量控制制度的落实与生态环境恢复与治理措施提供依据。
+
+# 4结论
+
+（1）选取焉耆盆地内3个气象观测站点实测蒸发皿进行可靠性检验，结果表明：实测水面蒸发量与PET相关系数达到 $R ^ { 2 } { = } 0 . 9 4$ ，说明MOD16蒸散产品在该研究区精度满足要求，可以用于分析和探究焉耆盆地蒸散量的时空分布特征
+
+（2）年际变化尺度上AET呈上升趋势，PET呈下降趋势。AET的上升将会加剧灌区的水资源紧张，而PET的下降则与气候变化相关，这两种不同趋势的出现，实质上反映了焉耆盆地蒸散方式与气候变化可能正处于演变之中，这将对灌区水资源的利用与管理具有重要的意义。
+
+（3）根据AET与PET的空间分布情况可以看出，两者在空间分布上呈现出明显的差异特征且表现出相反的趋势，博斯腾湖湿地区及绿洲区水分比较充足，AET高而PET低；山前平原区以及戈壁滩边缘区域下垫面供水不足，AET低而PET较高。
+
+（4）年际AET与PET线性倾斜率总体上处于基本不变趋势，按增加或减少的趋势所占的面积来看，AET增加趋势和PET减少趋势表明该灌区内作物的耗水需求逐步改善。从年际波动程度上看，多年平均AET与PET近19a来比较稳定;按不同土地利用类型来看，耕地、林地和草地比较稳定，水域附近波动性最大。
+
+# 参考文献(Keterences）：
+
+[1]周彦昭,周剑,李妍,等.利用SEBAL和改进的 SEBAL模型估算 黑河中游戈壁、绿洲的蒸散发[J].冰川冻土,2014,36(6):1526- 1537.[Zhou Yanzhao,Zhou Jian,Li Yan,et al. Simulating the evapotranspiration with SEBAL and modified SEBAL(M- SEBAL) models over the desert and oasis of the middle reaches of the Heihe River[J]. Journal of Glaciology and Geocryology,2014,36(6): 1526-1537.]   
+[2]Chahine M T.The hydrological cycle and its influence on climate [J]. Nature,1996,359(6349): 373-380.   
+[3]阿迪来·乌甫,玉素甫江·如素力,热伊莱·卡得尔,等.基于MODIS 数据的新疆地表蒸散量时空分布及变化趋势分析[J].地理 研究,2017,36(7):1245-1256.[Adilai Wufu, Yusufujiang Rusuli, Reyilai Kadeer,et al.Spatio-temporal distribution and evolution trend of evapotranspiration in Xinjiang based on MOD16 data[J]. Geographical Research,2017,36(7): 1245-1256.]   
+[4]董晴晴,占车生,王会肖,等.2000年以来的渭河流域实际蒸散 发时空格局分析[J].干旱区地理,2016,39(2):327-335.[Dong Qingqing,Zhan Chesheng,Wang Huixiao,et al. Spatio-temporal patterns of actual evapotranspiration in the Weihe River Basin since 2000[J]. Arid Land Geography,2016,39(2): 327-335.]   
+[5]赵玲玲,夏军,王中根,等.北京潜在蒸散发量年内-年际的气 候变化特征及成因辨识[J].自然资源学报,2013,28(11):1911- 1921.[Zhao Lingling,XiaJun,Wang Zhonggen,etal.The inter-intra annual climatic pattern of potential evaporation in Beijing and attribution[J]. Journal of Natural Resources,2013,28(11):1911- 1921.]   
+[6]张明明.2000—2015年中国干旱半干旱区蒸散发时空变化及 其影响因素分析[D].西安:长安大学,2019.[Zhang Mingming. Analysis of the Temporal and Spatial Variation of Evapotranspiration and Its Driving Factors in Arid and Semi-Arid Region of China from 2000 to 2015[D].Xi'an: Chang'an University,2019.]   
+[7]杨秀芹,王磊,王凯.基于MOD16产品的淮河流域实际蒸散发 时空分布[J].冰川冻土,2015,37(5):1343-1352.[Yang Xiuqin, Wang Lei,Wang Kai. Spatio- temporal distribution of terrestrial evapotranspiration in Huaihe River basin based on MOD16 ET data[J]. Journal of Glaciology and Geocryology,2015,37(5):1343- 1352.]   
+[8]Mu Q Z, Zhao M S, Runnin S W.Improvements to a MODIS global terrestrial evapotranspiration algorithm[J]. Remote Sensing of Environment,2011,115(8): 1781-1800.   
+[9]艾力亚·艾尼瓦尔,玉米提·哈力克,买尔当·克依木,等.基于 MOD16产品的塔里木河流域蒸散量时空分布特征[J].中国农 村水利水电,2018(9):79-84,95.[Ailiya Ainiwaer,Mut Halik, Maierdang Keyimu,et al. Spatio-temporal variation of evapotranspiration in the Tarim River Basin by using MOD16 products[J]. China Rural Water and Hydropower,2018(9): 79-84,95.]   
+[10] 王芳,汪左,张运,等.基于MOD16的安徽省地表蒸散量时空变 化特征[J].长江流域资源与环境,2018,27(3):523-534.[Wang Fang,Wang Zuo,Zhang Yun,et al. Spatio-temporal variations of evapotranspiration in Anhui Province using MOD16 products[J]. Resources and Environment in the Yangtze Basin,2018,27(3): 523-534.]   
+[11] 邱丽莎,张立峰,何毅,等.2000—2018年祁连山蒸散发时空变 化及影响因素[J].水土保持研究,2020,27(3):210-217.[Qiu Lisha, Zhang Lifeng,He Yi,et al. Spatiotemporal variations of evapotranspiration and influence factors in Qilian Mountain from 2000 to 2018[J]. Research of Soil and Water Conservation,2020,27(3): 210-217.]   
+[12] 冯飞,姚云军,张彦彬,等.基于MOD16产品的三江平原蒸散量 时空分布特征分析[J].生态环境学报,2015,24(11):1858- 1864.[Feng Fei,Yao Yunjun, Zhang Yanbin,et al. Spatio-temporal variationsof evapotranspiration in Sanjiang Plainusing MOD16 products[J]. Ecology and Environmental Sciences,2015, 24(11): 1858-1864.]   
+[13] 刘静,刘铁军,杜晓峰,等.基于MOD16A2的毛乌素沙地实际 蒸散量时空稳定性模拟[J].干旱地区农业研究,2020,38(2): 243-250.[Liu Jing,Liu Tiejun,Du Xiaofeng,et al. Simulation on spatio-temporal stabilityof ETbasedon MOD16A2 in Mu Us sandy land[J].Agricultural Research in the Arid Areas,2O20, 38(2): 243-250.]   
+[14] 郑荣伟,程明瀚,张航.北京市 2005—2015年植被覆盖变化对 蒸散发量的影响[J].水电能源科学,2020,38(2):22-25.[Zheng Rongwei, Cheng Minghan, Zhang Hang.Impact of land use change on evapotranspiration in Beijing from 2005 to 2015[J].Water Resources and Power,2020,38(2): 22-25.]   
+[15] 刘可,杜灵通,候静,等.2000—2014年宁夏草地蒸散时空特征 及演变规律[J].草业学报,2018,27(3):1-12.[Liu Ke,Du Lingtong,Hou Jing,et al. Spatio-temporal characteristics and evolution of evapotranspiration of natural grassland in Ningxia during 2000- 2014[J]. Acta Prataculturae Sinica,2018,27(3): 1-12.]   
+[16]田义超,梁铭忠,胡宝清.2000—2013年北部湾海岸带蒸散量 时空动态特征[J].农业机械学报,2015,46(8):146-158.[Tian Yichao,Liang Mingzhong,Hu Baoqing.Temporal-spatial dynamic change characteristics of evapotranspirationin Beibu Gulf Coastal Zone during 2000-2013[J]. Transactionsof the Chinese Society for Agricultural Machinery,2015,46(8): 146-158.]   
+[17] 郭晓寅,程国栋.遥感技术应用于地表面蒸散发的研究进展[J]. 地球科学进展,2004,19(1):107-114.[Guo Xiaoyin,Cheng Guodong.Advances in the application of remote sensing to evapotranspiration research[J].Advances in Earth Science,2004,19(1): 107-114.]   
+[18] 靖娟利,蔡江涛,耿仁方,等.基于MOD16的珠江流域蒸散量时 空分布特征[J].桂林理工大学学报,2019,39(4):912-920.[Jing Juanli, Cai Jiangtao,Geng Renfang,et al. Spatial-temporal variations of evapotranspiration in Pearl River Basin based on MOD16 [J].Journal of Guilin University of Technology,2019,39(4): 912-920.]   
+[19]郭玉川.基于遥感的区域蒸散发在干旱区水资源利用中的应用 [D].乌鲁木齐:新疆农业大学,2007.[Guo Yuchuan.Application ofRegional Evapotranspiration Based on the Remote Sensing for Water Resource Utilization in Arid Aera[D]. Urumqi: Xinjiang Agricultural University,2007.]   
+[20]宋佳,徐长春,杨媛媛,等.基于MODIS16的新疆干湿气候时空 变化及影响因素[J].水土保持研究,2019,26(5):210-214,221, 2.[Song Jia,Xu Changchun,Yang Yuanyuan,etal. Temporal and spatial variation characteristics of evapotranspiration and dry-wet climate in Xinjiang based on MODIS16[J].Research of Soil and Water Conservation,2019,26(5): 210-214,221,2.]   
+[21]马金龙,刘丽娟,李小玉,等.干旱区绿洲膜下滴灌棉田蒸散过 程[J].生态学杂志,2015,34(4):974-981.[Ma Jinlong,Liu Lijuan,Li Xiaoyu,et al. Evapotranspiration process of cotton field under mulched drip irrigation of oasis in arid[J]. Chinese Journal of Ecology,2015,34(4): 974-981.]
+
+[22]王怡宁，杨秒,王兵,等.五道沟地区"蒸发悖论"及成因探析[J]
+
+灌溉排水学报,2020,39(3):126-133.[Wang Yining,Yang Miao, WangBing,et al.The“Evaporation Paradox”in Wudaogou area and its underlying mechanisms[J].Journal of Irrigation and Drainage,2020,39(3): 126-133.]   
+[23] 郭梦瑶,余敦先,张利平,等.渭河流域潜在蒸散量变化的气候 归因[J].资源科学,2020,42(5):907-919.[Guo Mengyao,She Dunxian, Zhang Liping,et al. Climate explanation of the potential evapotranspiration changes in Weihe River Basin[J].Resources Science,2020,42(5): 907-919.]   
+[24]刘波，肖子牛,马柱国.中国不同干湿区蒸发皿蒸发和实际蒸发 之间关系的研究[J].高原气象,2010,29(3):629-636.[Liu Bo, Xiao Ziniu,Ma Zhuguo.Relationship between pan evaporation and actual evaporation in different humid and arid regions of China [JJ.Plateau Meteorology,2010,29(3): 629-636.]   
+[25] 杜明亮,吴彬,刘江,等.新疆地下水利用存在的问题及对策研 究[J].水利规划与设计,2017(10):57-59.[Du Mingliang,Wu Bin,Liu Jiang,et al. Research on the problems and countermeasures of groundwater utilization in Xinjiang[J].Water Resources Planning and Design,2017(10): 57-59.]
+
+# Study of the variation trend of evapotranspiration in the Yanqi Basin based on MOD16 data
+
+LI Qing¹2，YANG Pengnian12，PENG Liangl2，ZHOU Long2, Yusufujiang Rusuli’， WANG Huanbo1²， ZHANG Wenting1,2   
+(1. College of Hydraulicand Civil Engieering,Xinjiang Agricultural University,Urumqi830o52,Xinjiang,China;   
+2.Xinjiang Key Laboratory of Hydraulic Engineering Security and Water DisastersPrevention, Urumqi 830052,   
+Xinjiang, China; 3.Institute of Geographical Science and Tourism,Xinjiang Normal University, Urumqi 830052, Xinjiang, China)
+
+Abstract: Evapotranspiration is a key variable in water resource transformation,and it plays an important role in spatiotemporal variation and prediction of crop water consumption inarid regions under the current environmental changes.Based on MOD16 data products from 2001 to 2019,this paper analyzes the spatial and temporal changes of actual evapotranspiration (AET)and potential evapotranspiration (PET) in the Yanqi Basin in Xinjian Province,China,through remote sensing inversion of evapotranspiration data.The findings reveal that: (1）The measured data of MOD16 evapotranspiration products and small evaporating dishes were relatively consistent $\scriptstyle ( R ^ { 2 } = 0 . 9 4$ ),and their accuracy can be used to study and analyze the spatial and temporal distribution characteristics of evapotranspiration in Yanqi Basin. (2) The annual mean AET and PET were $1 2 8 . 7 \ \mathrm { m m }$ and $1 3 8 1 . 5 ~ \mathrm { m m }$ ,respectively. On the scale of interannual change,AET exhibited an upward trend,whereas PET exhibited a downward trend.(3)The spatial distribution of the perennial averages of AET and PET exhibited obvious diferences and opposite trends,and the linear inclination rate of annual AETand PET was basically unchanged.(4)The trend of variation of AET and PET is intrinsically related to the popularization of drip irigation technology under plastic film in Yanqi Basin and the change of meteorological factors (evaporation, relative humidity, average temperature).
+
+Keywords: MOD16 data; remote sensing of evapotranspiration; trends in water consumption; Yanqi Basin

@@ -1,0 +1,198 @@
+# 睡眠质量对冒险行为影响的证据及解析
+
+刘晓婷」张丽锦」张宁2(陕西师范大学心理学院，西安 710062)(平凉市静宁县威戎中学，平凉 743403)
+
+摘 要睡眠质量影响个体冒险行为已得到许多研究的验证和支持。睡眠缺失既影响大脑前额叶功能的完整性，也影响杏仁核、纹状体等脑区的激活，从而降低了个体对危险的知觉和对损失的敏感，导致冒险意愿和冒险行为增加。已往相关研究多以成人群体为研究对象，且忽略了个体特质与所处社会环境在睡眠质量与冒险行为关系中的交互影响。由于青少年期睡眠不足和高冒险行为普遍存在，未来研究应对青少年睡眠质量与冒险行为的关系及其中的影响作用机制，尤其是神经机制给予更多关注。
+
+关键词睡眠质量；冒险行为；认知控制系统；情感奖赏系统
+
+# 1引言
+
+睡眠与人类生理、心理和行为等诸多方面密切相关。以往研究发现，睡眠缺失会引发一系列的冒险行为，如吸烟（Patterson,Grandner,Lozano,Satti,& Ma,2017; Sivertsen,Skogen,Jakobsen,&Hysing,2015）、酗酒（Park,Lee,&Lee,2016）、药物滥用（Daly et al.,2015）、危险驾驶（Hartley etal.,2013）和暴力/违法行为（Backman et al.,2015）等。研究者认为，睡眠缺失会影响个体对风险的感知，使其对收益更敏感、对损失更不敏感，这便降低了个体对风险的感知能力，导致参与风险行为的意愿增强，进而增加了风险行为发生的概率及频率（Mullette-Gillman,Kurnianingsih,&Liu,2015）。除了睡眠缺失和睡眠剥夺外，睡眠质量欠佳或睡眠障碍也会增加个体的（消极）冒险行为（Lei et al.,2016;Wong etal.,2017）。消极冒险行为会威胁并损害个体的身心健康、导致意外伤害、影响社会安全。睡眠质量作为个体因素与消极冒险行为密切相关，因此，关注睡眠质量与冒险行为的关系，考查睡眠质量对冒险行为的作用强度和方式，从重视和改善睡眠质量入手减少个体，尤其是青少年的消极冒险行为，将有助于对消极冒险行为进行引导和干预，并对个体和社会的健康发展具有促进意义。
+
+# 2睡眠质量与冒险行为概述
+
+# 2.1睡眠质量及其测量方式
+
+睡眠是每人每天都需要的，绝大多数人一生中的睡眠时间超过生命历程的三分之一。睡眠使人体的能量得到贮存，有利于精神和体力的恢复，增强机体免疫力；适时适量的睡眠既是维护健康和体力的基础，也是取得高度生产能力的保证。当睡眠出现问题时，个体的修复状况将受到影响，从而给身心活动带来不利结果。研究者主要从睡眠质量和睡眠时间两个方面考查睡眠对个体生理和心理健康的影响。目前，对睡眠质量的测定还缺乏准确的量化标准。科学研究表明，睡眠时间的长短是衡量睡眠质量的最主要指标，睡眠时间是指一天之内个体睡眠的时间量（Roehrs,Surilla,Erica,Renee,& Thomas,2011）。而睡眠剥夺和睡眠不足本质上都反映了个体睡眠时间不足和质量欠佳（Dewald,Meijer,Oort,Kerkhof,2010）。
+
+近些年对睡眠质量的评估主要有现场研究和实验室研究。现场研究最常用的方法是睡眠日志法和问卷自评法。睡眠日志法以天为单位进行连续跟踪观测，便于解释个体睡眠的变化规律（Barnes,Lucianetti,Bhave,&Christian,2015）。对于问卷自评，《匹兹堡睡眠质量指数》（The Pitsburgh SleepQuality Index,PSQI）因简单明晰，而为国内外研究者最常选用。实验室研究采用非主观的测量方式，用的最多的是多导睡眠图（polysomnogram,PSG）和体动记录仪（actigraphy）。多导睡眠图是一种探究大脑活动的技术，通过电极采集脑电波，实时监控大脑的活动，让人们了解睡眠的过程。而体动记录仪应用人类在睡眠时手腕保持不动的特性采集手腕的活动强度和数据来判断被试是睡眠还是清醒。相比于主观报告，仪器记录在时间上更加准确。
+
+睡眠剥夺（sleep deprivation）是指由于各种原因导致睡眠缺失，并引起一系列生理及心理功能改变，进而引发多种认知能力下降的状态（Tobaldinietal.,2017）。其实际的表现形式是睡眠时间不足或睡眠时间较短。依据睡眠剥夺的时间可分为完全剥夺和部分剥夺（Christian& Ellis,2011）。完全睡眠剥夺（total sleep deprivation）是在睡眠剥夺的整个过程中始终让被试处于清醒状态，一般研究的剥夺时间为 24小时、36 小时和 48小时；部分睡眠剥夺（partial sleep deprivation）是让被试每晚睡眠量少于通常睡眠量的 $5 0 \%$ ，可连续也可断续（李爱梅，谭磊，孙海龙，熊冠星，潘集阳,2016）。依据睡眠剥夺发生的急缓可分为急性睡眠剥夺和慢性睡眠剥夺（Tobaldini et al.,2017）。急性睡眠剥夺（acute sleep deprivation）是快速地完全或部分剥夺睡眠,持续 24小时或更多;慢性睡眠剥夺(chronic sleep deprivation）是连续两周内每晚睡眠时间少于6小时的状态。随着生活节奏的加快和一些不健康生活方式的增多，越来越多的人处于不同程度的睡眠剥夺状态，而长期的睡眠剥夺会导致大脑功能紊乱（Kahn-Greene,Killgore,Kamimori，Balkin，& Killgore,2007），免疫力下降，精神烦躁（Cardinali&Esquifino,2012）。这样，个体对风险情境的感知和识别能力就会降低，表现出更多的风险趋近行为（Ferrara etal.,2015）。
+
+# 2.2冒险行为的概念、测量与类别划分
+
+冒险行为（risk-taking behavior）是指个体在不确定情境中的决策，反映了个体选择明显风险行为的意愿，即个体面对趋避冲突时，会为了趋向于更有利于满足个体需要而采取的带有危险性的行为（Benzur& Zeidner,2009）。Moore 和Gullone（1996）将冒险行为定义为：个体在一定程度上通过感知的积极结果（或收益）来平衡包含某种潜在消极结果（或损失）的行为。虽然研究者对冒险行为的表述和界定不尽相同，但大多都涉及到不确定性、目标与结果、风险和收益以及是否考虑当下决策可能带来的负性后果等行为特征。
+
+以往研究对冒险行为的评估和测量或通过问卷测查方式，或通过设置风险情境任务来实施。其中《青少年冒险问卷》（Adolescent Risk-taking Questionnaire,ARQ）（Gullone,Moore,Moss,& Boyd,2000；张晨，张丽锦，尚丽,2011）是最常用的测量问卷之一；另外，基于冒险的领域特殊性主张，冒险行为更容易被理解为一种“风险——收益模型”，基于该模型，研究者提出了经济、健康-安全、娱乐、道德和社会等5个领域的冒险行为，并编制了《冒险行为领域特殊性量表》（domain-specific risk-taking scale,DOSPERT）（Weber, Blais,& Betz,2002）。经典的风险情境任务主要有“气球模拟风险任务”（Balloon Analogue Risk Task,BART）（Kessler,Hewig,Weichold, Silbereisen,&Miltner,2016）及与之类似的“停止交通信号灯任务”（Stop-light Task）（Telzer,Miernicki,&Rudolph,2017）、“爱荷华赌博任务”(Iowa Gambling Task, IGT）（Almy, Kuskowski, Malone,Myers,& Luciana, 2017; Cosenza,Grifths,Nigro,& Ciccarell，,2016）、“延迟折扣任务”（Delay Discounting Task,DDT）（Hartmann& Slapnicar,2015; Libedinsky et al.,2013;）和“哥伦比亚卡牌任务”（ColumbiaCard Task,CCT）（Lukasz& Elzbieta,2015）等。
+
+有研究者从积极/消极的角度将冒险行为分为社会许可冒险（socially approved risks）和问题冒险（problem risks）。也有研究者将其称为娱乐冒险（recreational risks）和问题冒险或积极冒险和消极冒险（positive/negative risks）（Ozmen& Sumer,2011）。很显然，消极冒险行为会对身体健康带来威胁（Fischer,Kastenmuller,&Asal,2012），对他人和社会造成不利影响。研究发现，与睡眠正常的人群相比，睡眠不足者往往会不顾危害性后果而更多参与诸如吸烟、酗酒、赌博之类的消极冒险行为（Chein，Albert,O'Brien,Uckert,& Steinberg,2011; Foley & Weinraub,2017; Weigard, Chein,Albert, Smith,& Steinberg,2014）。因此，研究者一直在关注睡眠质量与冒险行为的关系，直接和间接证明睡眠质量对冒险行为，尤其是对消极冒险行为的影响。随着近些年认知神经科学的进步，研究者就睡眠质量对消极冒险行为的影响不但进行了心理行为上的解释，也给予了神经机制上的解释。
+
+# 3睡眠质量对个体冒险行为的影响——来自行为、ERP和脑成像的证据
+
+目前，许多研究者采用行为测量、事件相关电位（event-related potentials,ERP）技术和功能磁共振成像（functional magnetic resonance imaging,fMRI）技术探究睡眠质量对个体冒险行为的影响，使人们对冒险行为的发生及影响机制的解释有了多角度的广泛而深入的认识。
+
+# 3.1行为研究的证据
+
+行为研究一般采用自我报告和人为设计的实验室冒险任务来考查睡眠质量对冒险行为的影响，在具体研究中，研究者依据样本的特点有选择地采用相应的方法：有关睡眠对青少年冒险行为影响的研究大多采用大样本的主观报告法（e.g.，Ayres,Pontes，& Pontes，2016;Meldrum&Restivo,2014）；而关于睡眠影响成人冒险行为的研究除主观报告法之外还使用了实验室任务（e.g.,Maric et al.,2017;Wilhelm et al.,2014）。许多大样本调查研究发现，睡眠缺乏会导致青少年出现更多的消极冒险行为。针对 6504 名青少年睡眠时间与暴饮暴食、非法药物使用和吸烟之间关系的纵向研究发现，T1时的睡眠时间能够显著负向预测 T2 和T3 时的酗酒和暴饮暴食等冒险行为；而且睡眠不足是青少年随后参与更多冒险行为的重要预测因素（Wong,Robertson,&Dyson,2015）。有研究者在2010年和2012年分别选取了10718名和11240名中学生，考查其睡眠质量与冒险行为的关系。以7点计分的自我报告方式调查被试每晚的平均睡眠时间( $1 =$ 少于4小时/夜; $\ 7 =$ 超过10小时/夜）；以叛逆（rebelliousness）、药物使用开始时间（early initiation of drug use）、早期出现的反社会行为（early initiation ofantisocial behavior）、反社会行为态度倾向（atitudes favorable to antisocialbehavior）、药物使用态度倾向（attudes favorable to drug use）、药物使用的风险感知（perceived risk of druguse）、感觉寻求（sensation seeking）和帮派卷入（gang involvement）作为冒险行为的指标。控制性别、种族和社会经济地位等因素后发现，与每晚平均睡眠时间9小时的被试相比，每晚平均睡眠少于7小时的中学生冒险行为得分显著增高，而且每晚平均睡眠少于5小时的被试在冒险行为各方面的得分均达到最高。该研究相对直接地证明了青少年冒险行为与其睡眠不足的关系，每晚平均睡眠时间越少的青少年在日常生活中越容易表现出冒险行为（Owens,Wang,Lewin,Skora,&Baylor,2017）。另一项对12154名中学生的调查发现，睡眠不足组（每晚睡眠时间少于8小时）在吸烟、饮酒、吸食大麻和不安全性行为上的频次显著高于睡眠充足组（每晚睡眠时间大于等于8小时）；而且被试报告的每晚睡眠时间越少，在吸烟、饮酒和大麻使用等冒险行为上的比例也越高（Mcknight-Eily etal.,2011）。青少年时期个体身心快速发展却又不平衡，从而表现出情绪敏感、不稳定、自控力差等特点。同时该时期大脑正处于神经精细结构组织的重要发展阶段，发育不成熟的大脑神经结构和功能可能导致青少年失调的行为模式（Blakemore,2008;Romer,2010）。具体来说，青少年的认知控制系统仍在持续发展成熟的时期，而不成熟的认知控制系统不足以控制青少年从事冒险行为的冲动。睡眠问题使得青少年认知控制系统发育的滞后和不成熟增大，从而表现出与睡眠较好的青少年相比，有睡眠问题的青少年表现出更高的冒险倾向和更多的冒险行为（Telzer，Fuligni,Lieberman,& Galvan,2013）。
+
+风险模拟任务的测查也证实了上述发现。以爱荷华赌博任务考查不同程度睡眠剥夺大学生的风险选择发现，睡眠剥夺改变了个体感知风险的能力而偏向风险寻求，在赌博任务中表现出选择更多的盈利牌。具体而言，面对高收益时，与正常睡眠组相比，24 小时睡眠剥夺的大学生就已经开始较少在乎负面后果而倾向于风险寻求了；而48小时和72小时睡眠剥夺的大学生选择高风险盈利牌的次数更多，冒险倾向更加明显（Varsha，2013）。不但在上述这类与赢利/损失相关的经济决策冒险中，在与冲动相关的行为冒险任务中睡眠与冒险的关系也得到了证实。停止交通信号灯任务的研究发现，经历部分睡眠剥夺后，被试对风险的感知能力开始下降，表现出更多的冲动和鲁莽行为。在实验任务中表现出更多的撞车（风险行为指标）结果（Banks,Catcheside,Lack,Grunstein,&Mcevoy,2004）；气球模拟风险任务的研究也发现，睡眠质量较差的大学生在风险寻求的两个指标(平均充气次数和气球爆炸数量）上均显著高于睡眠正常组（Hisler＆ Krizan,2017）。此外，一项采用被试内实验设计的研究比较了每晚睡眠8.5小时和每晚睡眠4小时两种条件下的被试在虚拟现实行人环境（virtualreality pedestrian environment）中的表现，与前者相比，睡眠时间减少到4小时时，被试做出的选择风险更大，包括横穿马路时允许自己和迎面而来的汽车之间的距离更小，遭遇更多的虚拟撞击和左顾右盼的次数更多（Davis,Avis,&Schwebel,2013）。这可能是睡眠剥夺后个体的注意分配和自我控制能力都有所下降，加工整合迅速变化信息的能力受损，便表现出了风险意愿的增强和冒险频率的增加（Mullette-Gillman et al.,2015）。
+
+# 3.2ERP研究的证据
+
+事件相关电位反映了与一定心理活动（事件)相关联的脑电位变化，具有实时性的优点。使用 ERP 技术直接揭示睡眠质量对冒险行为影响的研究还相对缺乏。目前，有关睡眠质量和冒险行为之间关系的研究是通过睡眠对个体反应抑制能力的影响而间接推测的。反应抑制（response inhibition）是指个体抑制不符合当前需要的反应或抑制不恰当行为反应的能力（Johnstone,Barry,Markovska,Dimoska,& Clarke,2009），实验室研究反应抑制最常用的是Go/No-Go 任务和 Stop-Signal任务。Go/No-Go 任务通常包含高频刺激（Go 刺激）和低频刺激（No-Go刺激），要求被试对高频刺激进行反应、对低频刺激不作反应，考查个体对优势反应的抑制（Friedman＆ Akira,2004）。Stop-Signal任务包括Go 刺激和 Stop 刺激，几个Go 试次之后出现一个 Stop 试次，当被试觉察到 Stop 信号后，立即停止对目标刺激的按键反应。Stop-Signal任务要求个体停止正在进行的选择反应，由于停止刺激的出现在时间上滞后于反应刺激，所以个体所抑制的是已经被启动的行为或是正在进行的行为。这一过程要求个体在运动过程中合理分配注意、控制行为反应之间的冲突。Go/No-Go任务要求个体根据所呈现的刺激来判断是否进行反应，然后进行相应的操作，这一过程涉及刺激辨别、反应选择及对反应激活状态的抑制等。因此，Stop-Signal任务的行为抑制难度大于Go/No-Go 任务，前者要求将已启动的行为停止下来，包含了在线控制和对冲突的控制，后者则着重考查个体在认知层面对行为的选择。
+
+无论是Go/No-Go 任务还是 Stop-Signal任务，在 ERP 数据的采集中均通过分析 N2 和P3 的变化规律来评估个体的反应抑制能力，研究者在采用哪个抑制任务时并没有严格的区别对待。例如，王富贵等人（2010）采用Go/No-Go任务考查了14 名完全睡眠剥夺前后的大学生被试的反应抑制能力变化。与 ERP 波幅的基线值相比，睡眠剥夺12小时时 N2 波幅开始减小，36 小时时波幅下降的更显著；P3 的波幅和潜伏期在睡眠剥夺 24 小时时出现变化，即波幅降低，潜伏期延长；睡眠剥夺36 小时时这种变化更为显著，但潜伏期同波幅相比发生显著改变的时间较晚。而失眠患者反应抑制缺陷的 Stop-Signal 事件相关电位研究显示，在 Stop 试次中，失眠患者的反应时显著长于健康组，分析ERP数据后发现失眠患者成功抑制的试次中P3成分波幅降低，潜伏期延长，这可能解释了失眠人群低效率的反应抑制（Zhao et al.,2018）。可见，考查反应抑制的Go/No-Go任务和 Stop-Signal任务在睡眠状况较差的群体中其脑电波上的表现是类似的。N2 波形代表被试对认知控制过程的知觉模式（Falkenstein,Hoormann,& Hohnsbein,1999），P3代表了行为抑制控制的加工过程，潜伏期反映了个体对相应刺激的评价时间（Debeneret al.，2005）。上述研究证实，长时间持续觉醒状态对执行控制功能的渐进性损害。以往研究证实，睡眠剥夺后被试对刺激的分类和评估以及对靶刺激的分辨能力均有所下降（Drummond,Brown,Salamat,& Christian,2004），这种下降导致个体的执行控制能力减弱，并体现为脑电波上的异常状况，而且睡眠质量越差、睡眠剥夺时间越久，其抑制控制能力的损伤也会越严重。我们推测睡眠剥夺的被试因执行功能受损而使其冲动性增强，进而出现反应抑制功能的降低，导致冒险行为的增加。这可能是睡眠质量影响冒险行为的神经作用机制，但这一推论还需要相关研究进一步证实。
+
+# 3.3脑成像研究的证据
+
+随着认知神经科学的兴起，研究者开始在经典的风险决策任务中利用功能磁共振（fMRI）的高空间分辨率优势探究睡眠影响冒险行为的神经机制。近20多年的fMRI研究均证实了睡眠质量与脑中枢的关系。研究发现，随着睡眠剥夺时间的增加，两侧前额叶（prefrontal cortex，PFC）、额下回（inferior frontal gyrus,IFG）和辅助运动区（supplementarymotor area,SMA）等相关脑区激活强度降低（Mccoy& Strecker,2011）。这些脑区是抑制控制过程网络的核心组成部分，前额叶功能的失调，会使个体失去或降低抑制能力（Wiers et al.,2015）；额下回，特别是右侧额下回是调控反应抑制功能更为高级的皮质脑区。额下回的激活降低可能与反应抑制能力有关，反应抑制能力越低，该脑区的激活程度就越弱（Stramacciaet al.,2015）。睡眠剥夺降低了个体的反应抑制能力，进而增加了在气球模拟风险任务中给气球充气（次数）的冲动性反应（Rao,Korczykowski,Pluta,Hoang,& Detre,2008）。前额叶、额下回可能是目前发现的睡眠影响冒险行为的重要大脑标记。
+
+另外，研究还发现，长期睡眠不足使个体与奖赏相关的丘脑（thalamus）和纹状体（striatum）的激活显著上升，而激活强度与个体参与冒险行为的可能性呈正相关（Figner,Mackinlay,Wilkening,&Weber,2009）；睡眠不足还会使杏仁核（amygdala）和负责情绪处理的脑岛（insula）的功能连接增强（Pace-Schottet al.,2017），这种大脑情绪环路功能的增强可能使睡眠缺失者对情绪，尤其是对负性情绪的加工和管理增多，使之无力摆脱不良情绪困扰。而处于消极情绪的个体往往会选择冒险行为以获取更多利益，期待改变当前的消极情绪状态（Berger,Miler,Seifer,Cares,&Lebourgeois,20l2）。神经影像学对睡眠质量与皮层关系的研究证实，睡眠剥夺作为一种心理上自我调节损耗（self-regulatory depletion）的生理过程，严重消耗了大脑前额皮质所需的能量物质——葡萄糖，进而降低了该区域活动的新陈代谢率，这样，受此区域控制的自我控制与执行功能等相关认知功能便受到阻碍（Christian& Elis,2011），而睡眠剥夺者的自我控制能力下降必然导致冲动性增高和冒险倾向增加。上述这些发现在不同程度上支持了睡眠质量影响冒险行为的观点。
+
+# 4睡眠质量对个体冒险行为影响的双系统模型解析
+
+Steinberg于2010年提出的冒险行为“双系统模型”得到了广泛认同。该模型主张，大脑中主要存在两个系统以指导和支持人们的日常活动：一个是认知控制系统，是分析性的理性决策系统；另一个是情感奖赏系统，是自动化的经验决策系统。前者需要意识参与，主要依靠逻辑规则和概率计算作出决策，是一个相对较慢的认知决策过程；后者不太需要意识的参与，主要依靠经验或事物之间的联结作出相对快速的决策，情绪在其中发挥主要作用（Steinberg，2010）。已有研究发现睡眠缺失既影响大脑前额叶功能的完整性，也会使杏仁核、纹状体等奖赏相关脑区的激活增强，从而降低个体对危险的知觉和对损失的敏感，导致冒险意愿和冒险行为增加（Liu＆Zhou,2016）。下面将从双系统模型角度对睡眠质量影响个体的冒险行为进行阐释。
+
+# 4.1睡眠质量对认知控制系统的影响
+
+认知控制系统的脑区主要是前额叶皮层，主要包括背外侧前额叶（dorsolateral prefrontalcortex，DLPFC）、腹内侧前额叶（ventromedial prefrontalcortex，VMPFC）和眶额叶（orbitofrontal cortex,OFC）。有研究发现冒险行为的发生尤其依赖于大脑皮层前额叶功能的完整性（Mccoy&Strecker,2011），而睡眠剥夺后大脑负责高级认知加工的脑区自发功能活动显著减弱（Wuetal.,2006）。研究表明，24小时的睡眠剥夺之后，个体注意力分散、注意视角变窄，对情境中危险的知觉敏感性降低，进而冒险行为增加（Jugovac＆Cavallero,2012）。
+
+背外侧前额叶皮层（DLPFC）与冲动性控制密切相关（Duncan＆Owen,2000）。研究表明，右侧DLPFC损伤的病人在爱荷华赌博任务上表现出明显的风险选择，研究者认为，DLPFC 损伤可能导致与组织注意有关的神经网络的活动异常，使个体不能有效组织注意资源以满足任务相关脑区的需要（Seeley,Smith,Macdonald,& Beninger,2016）。使用正电子发射断层成像（positron emission tomography,PET）技术发现，24小时的睡眠剥夺后被试的DLPFC 中葡萄糖代谢水平显著下降，48小时和72小时睡眠剥夺后，葡萄糖代谢水平持续下降，而且睡眠剥夺时间越长，DLPFC 激活程度越低（Thomas et al.,2003）。上述研究证实，睡眠剥夺降低了DLPFC 的激活程度，进而减少了个体对冲动的抑制能力，导致冒险行为增加。
+
+腹内侧前额叶皮层（VMPFC）是负责自我控制、决策及价值判断的核心脑区，睡眠剥夺的被试和VMPFC 受损的病人表现出相似的行为特点，即倾向于作出高风险选择（Bechara& Damasio，2002）。研究发现，睡眠剥夺条件下VMPFC的功能连接密度（functionalconnectivitydensity，FCD）、局部一致性（regional homogeneity，ReHo）及低频振荡幅度（amplitude of low frequency fluctuations,ALFF）均显著下降，这些下降可能导致睡眠剥夺者自我控制能力下降，冒险倾向增加（Libedinskyetal.,2011）。另一项采用 fMRI技术探查睡眠剥夺者在气球模拟风险任务中的表现，发现睡眠剥夺组在VMPFC上的激活程度显著低于控制组，相应地在气球模拟风险任务上的表现更加冲动，即有更多的气球点击和爆炸次数（Spoormaker,Gvozdanovic, Sämann,& Czisch,2O14）。
+
+眶额叶皮层（OFC）的主要作用是对预期结果的编码和对冲动性的控制。OFC 损伤会导致对危险的感知出现障碍并且社会行为表现异常，OFC 受损者倾向于作出即刻奖赏选择而不顾未来消极结果（Bechara，2004）。研究发现，睡眠剥夺被试相较于正常睡眠被试其OFC 激活有所减弱，具体表现为，睡眠剥夺后的被试在经历损失时，其OFC 的激活程度更低，情绪学习能力更差（Mccoy& Strecker，2011）。以往研究证实，OFC受损会使个体无法从消极冒险行为的结果中获取恰当的情感（如，失望或遗憾）标记，进而无法根据反馈指导随后的风险行为，这样，个体对风险的知觉和对损失的敏感就会降低，冒险行为的意愿和频率随之增加（Cela-Conde etal.,2013）。因此，OFC 的功能减退可能是睡眠剥夺者表现出更多冒险行为的机制之一。
+
+# 4.2睡眠质量对情感奖赏系统的影响
+
+睡眠剥夺不但会通过影响DLPFC、VMPFC 和OFC 来影响个体对风险的敏感性，还会通过影响情绪及其加工功能来影响风险感知和风险评估，最终导致冒险行为增加（Minkel etal.,2012）。研究证实，杏仁核、纹状体和伏隔核（nucleus accumbens,NAcc）（Dolcos,Iordan,& Dolcos,2011）是主要的奖赏脑区，这些脑区之间相互联系紧密，形成了一个整合的神经网络，主要对情感刺激进行加工，被称之为情感奖赏系统（Albert＆ Steinberg,2011）。研究发现，睡眠剥夺后与奖赏相关的脑区激活程度增强，使睡眠剥夺者感觉寻求大幅增加，造成对奖赏的敏感性上升和对冲动的控制力下降（Vermeulen，van der Heijden，Benjamins.Swaab,&van Someren,2017）。另外，情感奖赏系统的激活增强会使个体对概率不敏感，而对可能出现的结果更敏感。这样，个体便可能会忽视高风险，注重高收益，表现出风险趋近。
+
+杏仁核是大脑中负责情绪加工，尤其是负性情绪加工的主要脑区（Horacek etal.,2015），参与了多种情绪活动的调节，包括焦虑、狂躁、易怒等（Davis,1992），负性情绪越多，杏仁核的激活越强（Spohrs et al.,2018; Weber,Morrow,Rizer,Kangas,& Carlson,2016）；而睡眠剥夺会增加个体的愤怒（Keenan,Tiplady,Priestley,&Rogers,2014）、焦虑（Baum et al.,2014）、易怒（Demos et al.,2016）、沮丧（Tkachenko et al.,2014)与敌意（Welsh,Ellis,Christian,& Mai,2014）等负性情绪，同时也会抑制愉悦情绪（Baglionietal.,2012），因此，睡眠剥夺会使杏仁核产生更加强烈的激活（Killgore,Balkin,Yarmell,&Ii,2017）；而过多的负性情绪体验会增加个体的冒险行为（Reynolds et al.,2013），这是因为处于消极状态的个体为了改变现有的负性情绪体验，会倾向于风险选择，以获取收益（Berger et al.,2012）；换句话说，睡眠剥夺后杏仁核高度激活是因为睡眠剥夺使得个体的消极情绪体验增加，所以睡眠剥夺被试要通过寻求奖赏带来的正面情绪来调节由睡眠引起的负性情绪状态，从而导致更多的冒险行为出现。
+
+纹状体是奖赏网络的核心脑区，在奖赏预期的评估、奖赏大小的感知以及奖赏结果的体验上都发挥着重要的作用（Liu,Hairston,Schrier,&Fan,2011）。研究发现，纹状体的激活强度与冒险行为呈显著正相关（Figner et al.,2009）；高风险寻求者在获得奖赏结果时，纹状体的激活强度要高于低风险寻求者（Chein et al.，2011）。有关睡眠与冒险行为的研究发现，健康被试在经历睡眠剥夺后，面对奖赏结果时，其纹状体激活程度会显著增强，表现出对高收益的期待和高冒险行为（Gujar,Yoo,Hu,&Walker,2011）。由上述研究发现可以推论，睡眠剥夺会造成纹状体显著激活，使个体对奖赏的敏感性上升，进而增加了冒险行为。
+
+伏隔核含有与睡眠相关的递质和受体，和睡眠觉醒核团也有纤维联系（Basar et al,2010），该核团内 $9 5 \%$ 以上都是 $\gamma$ 氨基丁酸（γ- aminobutyric acid，GABA）， $\gamma \cdot$ 氨基丁酸主要作用是抑制多巴胺细胞并且对其它结构产生影响，比如脚桥被盖核、谷氨酸能的神经元等。睡眠不足或睡眠缺失会影响多巴胺（dopamine，DA）的释放或抑制GABA 能神经元，最终导致腹侧被盖区的多巴胺输入端向伏隔核释放多巴胺的持续增强（Sardi,Tobaldini，Morais,& Fischer,2018）。多巴胺是一个多层面的神经递质，涉及注意调整和认知功能的调节以及奖赏和动机的调节（Baler,Ruben,Volkow,&Nora,2007）。而长期的睡眠不足会造成个体大脑奖赏系统多巴胺传递增强，导致个体的奖赏阈限减小，从而表现出偏爱即刻就能得到的小奖赏（Uy，&Galvan,2017）。因此，睡眠剥夺后表现出对即刻奖赏的偏好和对延迟大奖赏的兴趣降低，这是睡眠剥夺者冒险行为增加的重要原因之一。
+
+# 5研究展望
+
+综上所述，众多研究者从行为和神经机制方面直接或间接地对睡眠质量与冒险行为的关系进行了研究，发现并揭示了一些规律和趋势，但仍然有一些问题有待进一步探究，未来的研究方向可以集中在以下几个方面：
+
+第一，青少年时期是个体从幼稚向成熟过渡的关键时期，也是个体一生中生理和心理动荡起伏最大的时期。因而，成人研究的结果不能推广到青少年身上，因为青少年时期的个体需要比成年人更多的睡眠来实现自身的最佳功能状态，而且青少年时期面临更多新的冒险行为，但是他们的大脑发育还不完整，与强烈的感觉寻求和冒险有关的脑区发展的更快，而对决策和抑制冒险行为至关重要的脑区则相对不发达（Hirshkowitzetal.,2015）。而现有研究在探讨睡眠质量和青少年冒险行为之间的关系时对两者的测量均使用大样本的主观报告法，但是主观报告的测量方法具有一定的内在风险，包括不准确性和被试的应对偏好，这样的反应偏差在睡眠和冒险行为的测量中起类似的作用，因此，青少年群体睡眠和冒险行为之间的关系可能因为主观报告而被夸大，而且这样的主观报告法得不出强有力的因果结论。因此，未来的研究应该考虑到青少年这一群体的特殊性，采用主观和客观相结合的方法来探讨睡眠质量和冒险行为之间的关系。
+
+第二，睡眠测量方法有待进一步改进。目前尽管开发了一些测量睡眠质量的方法，但由于睡眠本身的复杂性和特殊性，这些方法还是各有优劣，需要补充完善。多导睡眠图具有非主观的特性，所获得的数据也最为详细、真实，但成本较高；重要的是需要临床环境，而且会一定程度上干扰被试的正常睡眠。另一非主观测试的体动记录仪具有便于携带、能够测得个体自然睡眠条件下睡眠数据的优势，但不如多导睡眠图全面、精细。而问卷测量，虽然简单易行，方便大范围施测，但所获得的数据较为粗糙，不如上述两种客观方法那么精确。有研究者指出，在研究睡眠质量与冒险行为的关系中，主、客观方法得到的结果会存在很大差异（Mccall＆Mccall,2012）。因此，未来的研究需要从技术上加以突破，努力探究既不影响被试正常睡眠、又能全面反映被试睡眠指标的高效便捷的方法，以更好地改进和提升研究技术，为研究服务。
+
+第三，立足于布朗芬布伦纳的社会生态系统理论，深入探究在各个系统环境中和各系统相互作用下睡眠质量对青少年冒险行为的作用机制，以提升该领域研究的应用价值。已有研究发现，个体的冒险行为与社会文化背景及受文化背景影响的人格特质密切相关（Mcghee,Ehrler,Buckhalt,&Philips,2012）。相对于成人，社会环境对（儿童）青少年冒险行为的影响会得到扩大。研究发现，在同伴陪同、家庭关系和社会排斥等条件下，青少年冒险行为的神经机制也会随之发生变化。例如，有研究发现，在同伴陪同下，青少年奖赏相关脑区得到了显著激活，而且这些激活能够预测青少年因同伴在场而加剧其冒险行为的现象（Chein etal.,2011）。长期良好的家庭关系会降低青少年社会情感系统的活动而加强认知控制系统的活动，从而可以减少冒险行为的发生（Telzer etal.,2013）。因此，探究睡眠质量对冒险行为的影响时，研究者们应进一步探查各因素的作用及它们之间的交互作用影响，特别是认知、情绪、人格、社会环境等多种因素对冒险行为的影响。在这些研究的基础上，可以制定合理的干预方案，减少和降低因睡眠质量而带来的消极冒险行为所造成的不良影响。
+
+# 参考文献
+
+李爱梅，谭磊，孙海龙，熊冠星，潘集阳.(2016).睡眠剥夺影响风险决策的双系统模型探讨．心理科学进展，24(5),804-814.
+
+王富贵，邵永聪，齐建林，叶恩茂，毕国华，李诺敏，杨征.(2010)．睡眠剥夺对青年男性执行功能的影响. 中国心理卫生杂志,24(7),541-545.   
+张晨，张丽锦，尚丽.(2011).青少年冒险问卷一冒险行为量表在中学生中的信效度．中国心理卫生杂志, 25(8), 636-640.   
+Albert,D.,& Steinberg,L. (2O11).Peer influences on adolescent risk behavior.In M.T.Bardo,D.H.Fishbein,& R. Milich (Eds.), Inhibitory control and drug abuse prevention: From research to translation (p. 221- 228).New York, America: Springer-NY.   
+Almy,B., Kuskowski,M.,Malone,S.M.,Myers,E.,&Luciana,M.(2O17).A longitudinal analysis of adolescent decision-making with the Iowa Gambling Task. Developmental Psychology, 54(4), 689-702.   
+Ayres，C.G.， Pontes，N. M.，& Pontes，M. C.(2016).Understanding the nonmedical use of prescription medications in the U.S. high school adolescents.Journal of School Nursing, 33(4),269-276.   
+Backman,H.,Laajasalo,T.,Saukkonen,S.,Salmi,V.,Kivivuori,J.,& Aronen,E.T.(2O15).Are qualitative and quantitative sleep problems associated with delinquency when controlling for psychopathic features and parental supervision? Journal of Sleep Research, 24(5), 543-548.   
+Baglioni, C.， Spiegelhalder,K.，Regen，W.,Feige,B.,Lombardo,C.，Nissen,C.，...Riemann,D.(2012). Psychophysiological reactivity to sleep-related emotional stimuli in people with insomnia: An fMRI study. International Journal of Psychophysiology, 85(3),357-357.   
+Banks，S., Catcheside,P.,Lack,L., Grunstein,R.R.，& Mcevoy,R.D. (2004).Low levels of alcohol impair driving simulator performance and reduce perception of crash risk in partially sleep deprived subjects. Sleep, 27(6),1063-1067.   
+Baler,Ruben D., Volkow.,& Nora D. (2007). Drug addiction:the neurobiology of disrupted self-control. Trends in Molecular Medicine,12(12),559-566.   
+Barnes,C.M.,Lucianeti,L.,Bhave, D.P.,& Christian,M.S.(2015).“You wouldn't like me when Pm sleepy": Leaders’ sleep, daily abusive supervision, and work unit engagement. Academy of Management Journal, 58(5), 1419-1437.   
+Basar,K.,Sesia,T., Groenewegen,H.,Steinbusch, H. W.M.,Visser-Vandewalle,V.,& Temel,Y. (201). Nucleus accumbens and impulsivity. Progress in Neurobiology, 92(4),533-557.   
+Baum,K.T.,Desai,A.,Field,J.,Miller,L.E.,Rausch,J.,& Beebe,D.W.(2O14).Sleeprestriction worsens mood and emotion regulation in adolescents. Journal of Child Psychology & Psychiatry,55(2),180-190.   
+Bechara，A.(2004).The role of emotion in decision-making:Evidence from neurological patients with orbitofrontal damage. Brain and Cognition, 55(1),30-40.   
+Bechara, A.，& Damasio, H. (2O02). Decision-making and addiction: Impaired activation of somatic states in substance dependent individuals when pondering decisions with negative future consequences. Neuropsychologia, 40(10),1675-1689.   
+Ben-Zur, H.,& Zeidner, M.(2O09). Threat to life and risk-taking behaviors: A review of empirical findings and explanatory models. Personality and Social Psychology Review,13(2),109-128.   
+Berger,R. H., Miller,A.L.,Seifer,R., Cares,S.R.,& Lebourgeois,M. K. (2012). Acute sleep restriction effects on emotion responses in 30-to 36-month old children.Journal of Sleep Research, 21(3),235-246.   
+Blakemore,S.-J.(2O08).The social brain in adolescence. Nature Reviews Neuroscience, 9(4),267-277.   
+Cardinali, D.P.,& Esquifino,A.I. (2012). Sleep and the immune system. Current Immunology Reviews,8(1),50- 62.   
+Cela-Conde,C.J., Garcia-Prieto,J.,Ramasco,J.J.,Mirasso,C.R.,Bajo,R.,Munar,E...Maestu,F.(2013). Dynamics of brain networks in the aesthetic appreciation. Proceedings of the National Academy of Sciences, 110(2),10454-10461.   
+Chein, J.,Albert,D.,O'Brien,L.，Uckert, K.,& Steinberg,L. (2O11).Peers increase adolescent risk taking by enhancing activity in the brain's reward circuitry. Developmental Science,14(2),1-10.   
+Christian, M. S.,& Elis,A.P.J. (2011). Examining the effects of sleep deprivation on workplace deviance: A self-regulatory perspective. Academy of Management Journal, 54(5), 913-934.   
+Cosenza,M.， Grifiths,M.D.，Nigro,G.，& Ciccarelli, M. (2016). Risk-taking，delay discounting，and time perspective in adolescent gamblers: An experimental study. Journal of Gambling Studies,33(2),1-13.   
+Daly,B.P.,Jameson,J.P.,Patterson,F.,McCurdy,M.,Kirk,A.,& Michael,K.D. (2015).Sleep duration,mental health,and substance use among rural adolescents: Developmental correlates. Journal of Rural Mental Health, 39(2),108-122.   
+Davis，A.L.，Avis,K. T.，& Schwebel,D.C. (2013). The effects of acute sleep restriction on adolescents' pedestrian safety in a virtual environment. Journal of Adolescent Health, 53(6),785-790.   
+Davis,M. (1992). The role of the amygdala in fear and anxiety. Annual Review of Neuroscience 15(1),353-375.   
+Debener,S.,Ullsperger,M. Siegel,M.，Fiehler,K.，Von Cramon,D.Y.,Engel,A.K. (2005).Trial-by-trial coupling of concurrent electroencephalogram and functional magnetic resonance imaging identifies the dynamics of performance monitoring. The Journal of Neuroscience, 25(50),11730-11737.   
+Demos,K. E., Hart, C. N.,Sweet,L. H., Mailloux, K. A.,Trautvetter,J., Williams,S.E... Mccaffery,J.M. (2016).Partial sleep deprivation impacts impulsive action but not impulsive decision-making. Physiology and Behavior, 164(Pt A),214-219.   
+Dewald,J.F., Oort,M.F.J.,Kerkhof,G.A.,& Bgels,S.M. (2010). The influence of sleep quality,sleep duration and sleepiness on school performance in children and adolescents: A meta-analytic review. Sleep Medicine Reviews,14(3),179-189.   
+Dolcos,F., Iordan, A.D.,& Dolcos,S. (2011). Neural correlatesof emotion-cognition interactions: A reviewof evidence from brain imaging investigations. Journal of Cognitive Psychology, 23(6), 669-694.   
+Drummond,S.P.A., Brown, G. G., Salamat, J. S.,&JChristian, G. (2004). Increasing task dificulty facilitates the cerebral compensatory response to total sleep deprivation. Sleep, 27(3), 445-451.   
+Duncan,J.，& Owen, A. M. (20o). Common regions of the human frontal lobe recruited by diverse cognitive demands. Trends in Neurosciences,23(10),475-483.   
+Falkenstein,M., Hoormann,J.,& Hohnsbein, J. (199).ERP components in Go/Nogo tasks and their relation to inhibition. Acta Psychologica,101(2-3),267-291.   
+Ferrara,M.,Botasso,A.,Tempesta,D., Carrieri, M.,De,G.L,& Ponti, G. (2O15). Gender differencesinsleep deprivation effects on risk and inequality aversion: evidence from an economic experiment. PLoS ONE, 10(3), e0120029.   
+Figner,B.,Mackinlay,R.J.，Wilkening,F.,& Weber,E. U. (2Oo9). Affective and deliberative processs inrisky choice: Age diffrences in risk taking in the Columbia Card Task. Journal of Experimental Psychology, 35(3), 709-730.   
+Fischer,P.,Kastenmuller,A.，& Asal,K. (2012).Ego depletion increases risk-taking.The Journal of Social Psychology, 152(5), 623-638.   
+Foley,J.E.,& Weinraub,M.(2Ol7). Sleep,affect,and social competence from preschool to preadolescence: Distinct pathways to emotional and social adjustment for boys and for girls.Frontiers in Psychology，8, 711-734.   
+Friedman,N.P.，& Akira,M.(2O004).The relations among inhibition and interference control functions: a latent-variable analysis. Journal of Experimental Psychology General,133(1),101-135.   
+Gujar,N.,Yoo,S.S., Hu,P.,& Walker, M.P.(2011). Sleep deprivation amplifies reactivity of brain reward networks,biasing the appraisal of positive emotional experiences. Journal of Neuroscience, 31(12), 4466-4474.   
+Gullone,E.,Moore,S., Moss,S.,& Boyd, C. (200o). The adolescent risk-taking questionnaire: Development and psychometric evaluation. Journal of Adolescent Research,15(2), 231-250.   
+Hartley，S.L.，Barbot,F.,，Machou,M.,Lejaile,M., Moreau,B.，Vaugier,I，.. Quera-Salva,M. A.(2013). Combined caffeine and bright light reduces dangerous driving in sleep-deprived healthy volunteers: A Pilot Cross-Over Randomised Controlled Trial. Neurophysiologie Clinique, 43(3),161-169.   
+Hartmann, F.,& Slapnicar, S. (2015). An experimental study of the efects of negative, capped and deferred bonuses on risk taking in a multi-period setting. Journal of Management & Governance,19(4),875-896.   
+Hirshkowitz,M., Whiton,K.,Albert,S.M.,Alessi,C.,Bruni,O.,Doncarlos,L.,.Kheirandish-Gozal,L. (2015). National sleep foundation's sleep time duration recommendations: Methodology and results summary. Sleep Health, 1(1), 40-43.   
+Hisler,G.,& Krizan,Z. (2O17). Sleepiness and behavioral risk-taking: Do sleepy people take more or less risk? Behavioral Sleep Medicine,1-14.   
+Horacek,J.，Mikolas,P., Tintera,J.，Novak,T.,Palenicek,T.，Brunovsky，M.，.Alda,M.(2015). Sad mood induction has an opposite effect on amygdala response to emotional stimuli in euthymic patients with bipolar disorder and healthy controls. Journal Psychiatry Neuroscience,40(2),134-142.   
+Johnstone,S.J.， Barry,R.J., Markovska, V.，Dimoska,A.，& Clarke,A.R.(2009).Response inhibition and interference control in children with ADHD:A visual ERP investigation. International Journal of Psychophysiology,72(2),145-153.   
+Jugovac,D.,& Cavallro, C. (2O12). Twenty-four hours of total sleep deprivation selectively impairs atentional networks. Experimental Psychology, 59(3),115-123.   
+Kahn-Greene,E.T.,Killgore,D.B.,Kamimori, G.H.,Balkin,T.J.,& Killgore, W.D.S.(2007). The effcts of sleep deprivation on symptoms of psychopathology in healthy adults. Sleep Medicine,8(3),215-221.   
+Keenan,E.K., Tiplady,B.,Priestley,C.M.,&Rogers,P.J. (2014). Naturalistic efectsof five daysof bedtime caffeine use on sleep, next-day cognitive performance,and mood. Journal of Caffine Research, 4(1), 13-20.   
+Kesler,L.,Hewig,J., Weichold, K. Silbereisen,R.K.,& Miltner,W. H.R.(2016).Feedback negativityand decision-making behavior in the Balloon Analogue Risk Task (BART) in adolescents is modulated by peer presence. Psychophysiology, 54(2),260-269.   
+Killgore,W.D.S.,Balkin,T.J., YarnellA. M.,& Ii,V.F.C.(2017).Sleep deprivation impairs recognition of specific emotions. Neurobiology of Sleep and Circadian Rhythms,3,10-16.   
+Lei，Y.,Wang,L.,，Chen,P.,，Li, Y.，Han,W.，Ge,M.，...Yang，Z. (2016). Neural correlates of increased risk-taking propensity in sleep-deprived people along with a changing risk level. Brain Imaging and Behavior,11(6),1-12.   
+Libedinsky, C., Massar, S. A. A.,Ling, A.,Chee, W., Huetel, S.A., & Chee, M. W.L. (2013). Sleep deprivation alters effort discounting but not delay discounting of monetary rewards. Sleep,36(6),899-904.   
+Libedinsky, C.,Smith,D.V., Teng, C.S.,Namburi,P. Chen, V.W., Huettel, S.A.,& Chee,M.W.L.(2011). Sleep deprivation alters valuation signals in the ventromedial prefrontal cortex.Frontiers in Behavioral Neuroscience, 5(2), 70-80.   
+Liu,X.,Hairston,J.,Schrier,M.,&Fan,J. (2011).Commonand distinct networks underlying reward valence and processing stages: A meta-analysis of functional neuroimaging studies. Neuroscience and Biobehavioral Reviews,35(5),1219-1236.   
+Liu,L.,& Zhou,R.(2016).Effect of 72h of sleep deprivation on the Iowa Gambling Task. Arch Neuropsychiatry, 53(4),357-360.   
+Lukasz，M.，& Elzbieta,K. (2015). Information use differences in hot and old risk processing:When does information about probability count in the Columbia Card Task? Frontiers in Psychology,6,1727-1738.   
+Maric,A.，Montvai, E.，Werth,E.， Storz, M.，Leemann,J.，Weissengruber,S.，.. Baumann, C.R.(2017). Insufficient sleep: Enhanced risk-seeking relates to low local sleep intensity. Annals of Neurology, 82(3), 409-418.   
+Mccall,C.,& Mccall W.V. (2012).Comparisonofactigraphywithpolysomnographyandseeplogs indepressed insomniacs.Journal Sleep Research,21(1),122-127.   
+Mccoy, J. G.,& Strecker,R.E. (2011). The cognitive cost of sleep lost. Neurobiology of Learning and Memory, 96(4),564–582.   
+Mcghee,R.L.,Ehrler,D.J., Buckhalt,J.A.,&Philips,C. (2012). The relation between five-factor personality traits and risk-taking behavior in preadolescents. Psychology, 3(8),558-561.   
+Mcknight-Eily，L.R.，Eaton,D.K.，Lowry，R.,Croft,J.B.,Presley-Cantrell，L.，& Perry，G. S.(2011). Relationships between hours of sleep and health-risk behaviors in US adolescent students. Preventive Medicine,53(4-5),271-273.   
+Meldrum, R. C.,& Restivo,E. (2014). The behavioral and health consequences of sleep deprivation among U.S. high school students: Relative deprivation maters. Preventive Medicine, 63(6), 24-28.   
+Minkel,J. D.,Bank,S.,Htaik,O.,Marisa,C.M.,Jones,C.W.,Mcglinchey,E.L...Dinges,D.F. (2012).Sleep deprivation and stressors: Evidence for elevated negative afect in response to mild stressors when sleep deprived. Emotion,12(5),1015-1020.   
+Moore,S.,& Gullone,E.(1996). Predicting adolescent risk behavior using a personalized cost-benefit analysis. Journal of Youth and Adolescence, 25(3), 343-359.   
+Mullette-Gillman,O.A., Kurnianingsih, Y.A.,&Liu,J. C.J. (2015). Slep deprivation alters choice strategy without altering uncertainty or loss aversion preferences.Frontiers in Neuroscience, 9(352),352-364.   
+Owens, J.,Wang,G.,Lewin,D.,Skora,E.,& Baylor,A.(2Ol7).Assciation between short sleep duration and risk behavior factors in middle school students. Sleep,4O(1),1-10.   
+Ozmen,O.,& Sumer, Z. H. (2011).Predictors of risk-taking behaviors among Turkish adolescents.Personality and Individual Differences,50(1),4-9.   
+Pace-Schott, E.F., Zimmerman, J. P., BottryR. M.,Lee,E.G., Milad, M.R.,& Camprodon,J. A. (2017). Resting state functional connectivity in primary insomnia,generalized anxiety disorder and controls. Psychiatry Research: Neuroimaging, 265,26-34.   
+Park,S.,Lee, Y.,& Lee, J. H. (2O16). Assciation between energy drink intake, sleep, stress,and suicidality in Korean adolescents: Energy drink use in isolation or in combination with junk food consumption. Nutrition Journal, 15(1),87-95.   
+Paterson,F.,Grandner,M.A.,Lozano,A.,Satti,A.,& Ma, G. (2O17).Transitioning from adequate to inadequate sleep duration associated with higher smoking rate and greater nicotine dependence in a population sample. Addictive Behaviors, 77, 47-50.   
+Rao,H., Korczykowski, M.，Pluta,J.，Hoang,A.，& Detre,J.A. (2Oo8).Neural corelates of voluntary and involuntary risk taking in the human brain: An fMRI study of the Balloon Analog Risk Task (BART). Neuroimage, 42(2), 902-910.   
+Reynolds,E.K.,Schreiber,W.M., Geisel,K.,Macpherson,L.,Ernst,M.,&Lejuez, C.W.(2013). Influenceof social stress on risk-taking behavior in adolescents. Journal of Anxiety Disorders,27(3),272-277.   
+Roehrs,T. A.,Surila,R.,Erica,H.,Renee,M.,& Thomas,R.(2O11).MSLT in primary insomnia: Stability and relation to nocturnal sleep. Sleep, 34(12),1647-1652.   
+Romer,D. (2010). Adolescent risk taking,impulsivity，and brain development: Implications for prevention. Developmental Psychobiology, 52(3),263-276.   
+Sardi,N.F.,Tobaldini, G.,Morais,R.N.,& Fischer,L. (2O18). Nucleus accumbens mediates the pronociceptive effect of sleep deprivation: The role of adenosine A2A and dopamine D2 receptors. Pain,159(1),75-84.   
+Seeley,C.J. Smith,C. T. Macdonald, K.J.,& Beninger,R.J. (2016). Ventromedial prefrontal theta activity during rapid eye movement sleep is associated with improved decision-making on the Iowa Gambling Task. Behavioral Neuroscience, 130(3),271-280.   
+Sivertsen,B.,Skogen,J. C., Jakobsen,R.,& Hysing,M. (2015). Sleep and use of alcohol and drug inadolescence: A large population-based study of Norwegian adolescents aged 16 to 19 years.Drug Alcohol Dependence, 149(4), 180-186.   
+Spohrs,J.,Bosch,J.E.,Dommes,L.,Beschoner,P.,Stingl,J.C.Geiser,F..Viviani,R.(2018).Repeated fMRI in measuring the activation of the amygdala without habituation when viewing faces displaying negative emotions. PLoS ONE,13(6),e0198244.   
+Spoormaker,V.I., Gvozdanovic, G.A., Sämann,P. G.,& Czisch, M. (2O14). Ventromedial prefrontal cortex activity and rapid eye movement sleep are associated with subsequent fear expression in human subjects. Experimental Brain Research, 232(5),1547-1554.   
+Steinberg,L. (2010).A dual systems model of adolescent risk-taking. Developmental Psychobiology,52(3),216- 224.   
+Stramaccia,D.F.,Penolazzi,B.,Sartori, G.,Braga,M.,Mondini,S.,& Galfano,G.(2015).Assessing the effects of tDCS over a delayed response inhibition task by targeting the right inferior frontal gyrus and right dorsolateral prefrontal cortex. Experimental Brain Research,233(8),2283-2290.   
+Telzer,E.H., Miernicki, M.E.,& Rudolph, K.D. (2017). Chronic per victimization heightens neural sensitivity to risk taking. Development and Psychopathology,30(1), 1-14.   
+Telzer,E.H.,Fuligni,A.J.,Lieberman,M.D.,& Galvan,A.(2013).The effcts of poor quality sleep on brain function and risk taking in adolescence. Neuroimage,71(5),275-283.   
+Thomas,M. L., Sing,H. C., Belenky, G., Holcomb, H. H., Mayberg, H. S., Dannals,R.F...Redmond, D.P. (2003).Neural basis of alertness and cognitive performance impairments during sleepiness: Effects of 48 and 72h of sleep deprivation on waking human regional brain activity. Thalamus and Related Systems, 2(3), 199-229.   
+Tkachenko,O.,Olson,E.A.,Weber,M.,Preer,L.A.,Gogel,H.,&Killgore,W.D.S.(2014).Sleep dificulties are associated with increased symptoms of psychopathology. Experimental Brain Research, 232(5), 1567-1574.   
+Tobaldini,E.，Costantino,G.,Solbiati,M.,Cogliati,C.,Kara,T.,Nobili,L.,& Montano,N.(2017). Sleep,sleep deprivation,autonomic nervous system and cardiovascular diseases. Neuroscience & Biobehavioral Reviews, 74(8),321-329.   
+Uy,J.P.,& Galvan,A. (2O17).Sleep duration moderates the asociation between insula activation and risky decisions under stressin adolescents and adults. Neuropsychologia, 95,119-129.   
+Varsha,S.(2013). Dual conception of risk in the Iowa Gambling Task: Efects of sleep deprivation and test-retest gap. Frontiers in Psychology, 4(4), 628-636.   
+Vermeulen,M.C.M. van der Heijden,K.B.,Benjamins,J. S.,Swaab,H.,& van Someren,E.J.W. (2017). Memory effects of sleep,emotional valence,arousal and novelty in children. Journal of Sleep Research, 26(3), 309-317.   
+Weber,E.U.,Blais,A.-R.,&Betz,N.E. (2OO2). A domain-specific risk-attitude scale: Measuring risk perceptions and risk behaviors. Journal of Behavioral Decision Making,15(4),263-290.   
+Weber,M.A.,Morrow, K.A.,Rizer,W.S.,Kangas,K.J.,& Carlson,J. M. (2016).Sustained, not habituated, activity in the human amygdala: A pilot fMRI dot-probe study of atentional bias to fearful faces.Cogent Psychology, 3(1).1259881.   
+Weigard,A., Chein,J. Albert,D.,Smith,A.,& Steinberg,L. (2O14). Effects of anonymous peer observation on adolescents' preference for immediate rewards. Developmental Science,17(1),71-78.   
+Welsh,D.T.,Elis,A.P.J.,Christian,M.S.,& Mai, K.M. (2014). Building a self-regulatory model of sleep deprivation and deception: The role of caeine and social influence. Journal of Applied Psychology, 99(6),1268-1277.   
+Wiers,C.E., Gawron,C.K., Gropper,S.,Spengler,S.，Stuke,H.,Lindenmeyer,J....Bermpohl,F. (2015). Decreased gray matter volume in inferior frontal gyrus is related to stop-signal task performance in alcohol-dependent patients. Psychiatry Research Neuroimaging, 233(2),25-130.   
+Wilhelm,I., Kurth,S.，Ringli, M., Mouthon，A.L.， Buchmann,A.， Geiger,A.，.. Huber,R. (2014). Sleep slow-wave activity reveals developmental changes in experience-dependent plasticity. Journal of Neuroscience, 34(37), 12568-12575.   
+Wong，M. M.，Robertson,G.C.，& Dyson,R. B.(2015).Prospective relationship between poor sleep and substance-related problems in a national sample of adolescents.Alcoholism Clinical and Experimental Research,39(2),355-362.   
+Wong,M.L., Tseng, C. H., Wing, Y. K. Rusak, B., Lee, T. M. C.,& Lau,E. Y. Y. (2017). Impact of habitual short sleep and perceived sleep need on risk-taking in young people. Sleep Medicine, 40, e179.   
+Wu,J. C.,Gilln,J. C.,Buchsbaum,M.S., Chen,P.,Keator,D.B.,Wu,N.K...Bunney,W.E. (2006).Frontal lobemetabolic decreaseswithsleep deprivation not totally reversed byrecoverysleep. Neuropsychopharmacology, 31(12),2783-2792.
+
+Zhao,W.,Gao,D.,Yue,F.,Wang,Y.,Mao,D.,Chen,X.,& Lei, X.(2018).Response inhibition deficits in insomnia disorder: An event-related potential study with the stop-signal task. Frontiers in Neurology, 9.1-12.
+
+# The Effects of Sleep Quality on Risk-Taking Behavior: Evidence and Explanation
+
+LIU Xiaotingl； ZHANG Lijin'； ZHANG Ning² (lSchool ofPsychology,Shaanxi Normal University,Xi'an 7loo62,China) (²Weirong Middle School,Jingning County,Pingliang7434O3,China)
+
+Abstract: That sleep quality could afect individual's risk-taking behavior has been largely confirmed and supported bya growing body of research.It has been revealed that sleep loss affects not only the functional integrityof the frontal cortex,but also the activationof theamygdalaand striatum brainregions,ultimately increasing individuals’risk-taking behavior by decreasing their perception of danger and sensitivity to loss. However,previous studies have mostly focused on adult populations and neglected the interaction effect of personality traitsand social environment on the relationship between sleep quality and risk-taking behavior. Moreover,due tothe prevalenceof sleepdeprivation and high-risk-taking behavior inadolescents,the implications offurther studies to understand these dynamics—especially the neural processing involved—in this population are addressed.
+
+Keyword: sleep quality, risk-taking behavior,cognitive control system,emotional reward system

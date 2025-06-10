@@ -1,0 +1,223 @@
+[
+    {
+        "type": "text",
+        "text": "中国科学院大气灰霾追因与控制研究进展 \\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白春礼",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国科学院 北京 100864",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4925ab55e164734454f21f46dcd74afe66547a6998b2667424da6bdfbcd6a86d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要中科院通过实施“大气灰霾追因与控制”B类先导专项，通过实验模拟、外场观测以及模式模拟等研究对大气灰霾形成机理进行了系统的研究。我国的大气污染由多种排放复合而成，表现为排放源多样，污染物成分复杂、浓度高，不同污染物之间存在相互影响、相互促进的关系。根据灰霾形成特点，现阶段治理的基本思路应该在继续做好源头减排的同时，集中力量解决冬半年重污染问题，在管控措施上进一步增强针对性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词中国科学院，大气灰霾追因与控制，战略性先导科技专项DOI 10.16418/j.issn.1000-3045.2017.03.001",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对大气灰霾成因的科学认识是制定治理措施的重要依据。中科院结合“大气灰霾追因与控制”先导专项的研究进展，认为灰霾形成是内外因共同作用的结果，其中复合污染叠加效应是我国灰霾形成的关键过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1近年灰霾污染总体有所下降，但冬半年下降不明显",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大气环境监测统计数据表明，2013年以来全国空气质量总体向好，重度及以上污染天数占比逐步降低，优良天数比例明显上升。2016年，全国31个省、直辖市和自治区 $\\mathrm { P M } _ { 2 . 5 }$ 年均浓度为47微克/立方米，平均优良天数比例为 $78 . 8 \\%$ 。与2015年相比， $\\mathrm { P M } _ { 2 . 5 }$ 年均浓度下降 $6 \\%$ ，优良天数比例提高 $2 . 1 \\%$ 。以北京为例，从2013年到2016年空气质量达标天数分别为176天、172天、186天和198天；发生重污染天数分别为58天、47天、46天和39天。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "北京市2016年 $\\mathrm { P M } _ { 2 . 5 }$ 年均浓度为73微克/立方米，较2013年累计降幅已达 $1 9 \\%$ ，但依然超过国家标准（35微克/立方米）1倍以上。颗粒物浓度未达到环境显著改善的拐点，是公众尚未明显感受到大气质量改善的主要原因。此外，我国中东部部分地区秋冬季节大气污染防控的形势依然严峻，观测结果显示，2016年北京冬季 $\\mathrm { P M } _ { 2 . 5 }$ 浓度与前3年相比没有显著降低，京津冀及周边地区改善也不明显，说明冬季减排的力度远远不够。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2不同区域主要污染源并不相同",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国 $\\mathrm { P M } _ { 2 . 5 }$ 及其各种组分的来源复杂多样，包括工业、交通、建筑、农业、养殖、生物质燃烧、扬尘等。根据中科院源解析研究结果，燃煤、机动车、工业是京津冀、长三角、珠三角、成渝、关中区域典型城市的大气颗粒物的主要来源。其中在北方地区，燃煤 $\\scriptstyle \\cdot >$ 机动车>工业。南方地区燃煤与机动车相当，大于工业。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于北京市而言，尽管在不同污染事件或某一污染事件的不同阶段各排放源相对贡献有所差别，但机动车、燃煤作用最大。2014—2015年北京市机动车、燃煤、工业、扬尘的贡献率分别为 $2 9 \\%$ 、 $1 6 \\%$ 、$14 \\%$ 和 $8 \\%$ ，另外为区域输送（ $24 \\%$ ）和不确定源。相比2012一2013年，近年北京市机动车的排放比例明显上升（增加约 $7 \\%$ ）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在形成重度污染天气过程中，北京机动车的本地排放贡献更加明显。而周边地区，如天津和石家庄，重污染天气形成过程的最大污染源依然是燃煤。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3灰霾污染有内因和外因",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { P M } _ { 2 . 5 }$ 颗粒物来源有二：一是直接排放（一次源），二是二次生成（二次源）。各种污染源或多或少都直接排放颗粒物，并产生一定程度的消光（对光线的遮蔽）。二次生成是指排放到大气中的气态污染物转变成固体颗粒物的过程。也就是说，虽然当时不一定产生消光现象（即当时没有出现灰霾），但若干天以后，在适当的气候条件下，通过多种化学物理过程被转化为硫酸盐、硝酸盐、铵盐和二次有机气溶胶等固体细颗粒物，从而产生消光现象（即肉眼可见的灰霾）。这就是为什么有时一天前还蓝天白云，第二天即中度乃至重度污染的原因，因为这不仅仅是由一次排放引起的。一些污染源比如汽油车，虽然其尾气中一次颗粒物浓度不高，但其排放的氮氧化物等气体物质在大气中同其他气体物质如二氧化硫等反应后会产生大量固体颗粒物，形成灰霾，并成为城市 $\\mathrm { P M } _ { 2 . 5 }$ 的重要来源之一。全球范围内，二次颗粒物对 $\\mathrm { P M } _ { 2 . 5 }$ 的贡献率为 $2 0 \\% - 8 0 \\%$ 。中科院研究表明，在我国中东部地区二次颗粒物所占比例常常高达$60 \\%$ ，在静稳天气时还会更高，这也是我们经常感知到的“爆发性”成霾的原因。过量排放是灰霾天气经常出现的内因。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "出现以低风速和逆温为特征的不利气象条件是灰霾形成的外因。从时间分布上看，一年中我国3一10月空气质量较好，其中一个重要原因就是夏季大气边界层高、水平风速大，有利于污染物扩散，环境容量大，而冬季则相反。2016年秋冬季，华北区域整体显示南风异常，尤其冬季西北风较同期平均偏弱，冷空气活动偏少，大气较为稳定，不利于污染物扩散。气象资料统计表明，近40年来京津冀年平均风速逐年减小，减小幅度达 $37 \\%$ ，尤其对京津冀污染物扩散有利的北风频次和风速都显著下降。当然，这样的静稳天气在20世纪五六十年代也曾出现过。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此外，内外因之间还会出现正反馈过程。排放到大气中的 $\\mathrm { P M } _ { 2 . 5 }$ 颗粒会削弱到达地表的太阳光强度，导致地表温度下降，而上层大气中存在的颗粒物通过吸光作用，会提高该层大气的温度，从而形成下冷上热的稳定大气结构，进一步降低空气对流，促使大气边界层（靠近地球表面、受地面影响最大的大气层区域）高度下降，导致环境容量进一步降低，从而加剧污染程度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4我国的大气污染由多种排放复合而成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近几十年来，随着我国经济的快速发展导致多种污染物同时排放，从而形成了复合型污染这一特点，表现为排放源多样，污染物成分复杂、浓度高。中科院研究表明，不同污染物之间存在相互影响、相互促进的关系，加速了气态污染物向颗粒物的转化，放大了污染效应。比如，在大气高浓度氮氧化物和矿质颗粒物（粉尘）共存的情况下，会促使二氧化硫向硫酸盐的快速转化（氧化作用和催化作用），这是发生复合污染的典型例子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "和伦敦烟雾事件相比，我国京津冀地区强霾事件中二氧化硫的浓度要低1一2个数量级，但产生的细颗粒物浓度两地却相当。一个重要的原因就是大量的氮氧化物（主要来自机动车和燃煤排放）和氨气排放会非线性地降低大气对二氧化硫的环境容量，促进灰霾的爆发。也就是说，伦敦当年的大气污染主要来自燃煤排放，而我国则由燃煤、机动车等排放源复合作用所致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5灰霾综合整治具有长期性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对英国伦敦烟雾事件、美国洛杉矶光化学烟雾事件、日本四日市哮喘事件的分析，采取严格立法和执法、污染控制技术升级、产业结构和能源结构调整等的“组合拳”，经过20一40年的努力，使得空气质量得以改善。我们国家面临的灰霾问题更加复杂，空气质量的改善既要打攻坚战，也要立足于打持久战。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我国现阶段污染物排放总量的基数大。近年来，机动车、工业、农业以及生活源排放强度显著增加，导致大气中各种污染物浓度偏高。我国产业布局相对集中，使得华北、东北、成渝、关中、珠三角、长三角的区域特征明显，尤其是华北地区单位面积的能耗和污染物排放量都是全球最高的区域，逐步减排要假以时日。从趋势上来讲，全国空气质量总体在向好发展，但要从根本上解决灰霾污染，涉及到产业结构、能源结构、控制技术和社会经济成本等诸多问题，需要经历一个不断优化调整的过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6现阶段治霾还需加强针对性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据灰霾形成特点，现阶段治理的基本思路应该是：在继续做好源头减排的同时，集中力量解决冬半年重污染问题。在具体措施上，应着重做好5个方面工作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）地方政府在保增长和促减排方面要坚持两手抓、两手硬，一年到头，一以贯之，避免“前紧后松”，把冬半年的产能缩减到位。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）针对华北冬季取暖问题，因地制宜、多措并举，加大清洁能源替代力度。中科院针对华北农村民用散烧煤污染，研发了新型散煤共燃、解耦燃烧等高效中小型燃煤实用技术，在节能的同时可有效降低污染物排放（相关图片请见封二）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）控制重型卡车的排放。重型卡车占机动车保有量的 $5 \\%$ ，但排放的一次颗粒物占到机动车的 $90 \\%$ ，氮氧化物占 $50 \\%$ 以上。通过调结构、降产能、完善物流网络等方式缓解运输需求、提高运输效率，同时，积极推进油品质量的升级和净化装置的改造。中科院主导研制的催化剂在柴油车排放有害气体控制技术已得到广泛应用，占新车市场的 $60 \\%$ 。最近，中科院基于原创的摩擦纳米发电技术研制出了一种专门去除机动车尾气颗粒物的新型净化器，在不影响汽车发动机性能的前提下，可将尾气中的 $\\mathrm { P M } _ { 2 . 5 }$ 含量从800—2000 微克/立方米降低到10微克/立方米以下（清除效率 $5 9 8 \\%$ ）。如果全市 500多万辆汽车全部加装这种净化器，空气中颗粒物总体浓度有望下降 $30 \\%$ （相关图片请见封二）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4）开展秸秆的综合整治。秸秆污染面大量广，全国每年约8.5万吨，需综合运用行政、法律市场的手段，探索秸秆利用规模化、专业化、产业化的运营模式。中科院开发了加速秸秆降解、生物能源转化等一系列技术。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（5）切实加强企业偷排偷放问题行为的监管。中科院已研发了高时空分辨率的监控系统，可大幅提高监管效率（相关图片请见封二）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Research Progress on Formation Mechanism and Control Strategies of Haze in Chinese Academy of Sciences ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Bai Chunli ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（Chinese Academy of Sciences,Beijing 10o864, China）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AbstractSystematicresearchonformation mechanismofhazehasbeencariedoutin Chinese AcademyofSciences (CAS)byexperiment simulation,feldeatiododelsiulatioderteplemetedtategicporityseachprgaofategoryoati MechanismandControltrategyofHazeinChinaChina'sairpolltionisformdbyompoundingavarietyofemisions,showingariety fourcesplepsofatseatisdtntsmosratetualicedte otherAccordingtothcaractesticsofhazefation,tebasicprcileofhazecotrolatpresettagesouldpdoingtei reductionattesou,hilefocusonsolvingaypolutionproblemsintheinterhalf,andurterenanetetargetedcontrosure. KeywordsChineseAcademyofSciences (CAS)formatiomechanismandcontroltrategyofhaze,strategic priorityresearchprogam ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "白春礼化学家和纳米科技专家。中国科学院院长、党组书记、学部主席团执行主席，发展中国家科学院院长，中共十八届中央委员会委员。1953年9月出生，辽宁人。博士。中国科学院、发展中国家科学院、美国国家科学院、美国艺术与科学院、英国皇家学会、欧洲科学院、俄罗斯科学院等10 余个国家科学院或工程院院士。兼任中国微纳协会名誉理事长、国家纳米科技指导协调委员会首席科学家等；国务院学位委员会副主任委员、国家科技奖励委员会副主任委员等；《中国科学院院刊》主编，若干化学和纳米科技领域重要国际学术刊物的共同主编或国际顾问编委。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "E-mail: xwnie@cashq.ac.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Bai ChunliWell-nownchemistand leadingscientistinnanoscience,Dr.Bai Chunliisthe Presidentofthe ChineseAcademyof Sciences(CAS).HeisalsothePresidentoftheresidiumoftheAcademicDivisionsofCAS,andthePresidentof theWorldAcademyof Sciences fortheAdvancementofScieneinDeveloping Countries (TWAS).Hehasalonglistofscientifcpublicationsandhasonmore thantwentyprestigiousawardsandprizesforhisacademicachievements,includingUNESCOMedalof\"ContributionstoDevelopentof Nanoscience andNanotechnology\".He hasbenelected memberorforeign memberof world-knownacademiesof scienceorengineering, includingtheCAS,TWAS,USNationalAcademyofSiences(NAS),theRoyalSocietyAmericanAcademyofArtsandScienes (AAA), AcademiaEuropaea(thecademyofurope),teusiaAcademyofSiences(RAS),theustralianAcadeyofSience(AA)teIan AcademyofSciences(IAS),theeanAcademyofcienceandEnginering (acatech),teRoyalDanishAcademyofScienceaders, HonoraryFelowoftheRoyalSocietyofChemistry,HonoraryMemberoftheChemicalSocietyofJapan(CSJ),andHonoraryoctoror Professorofseveralhiglyselecteduiversitis.HealsoesasthChefScientistfrteNtoalStgComiteforNaoeea TechnologyandwastheFoundingDirectorofChinaNationalCenterforNanoscienceandTechnology.Moreover,heistheEdito-in-hief ofBuletinofiscdeyfencsembrofteIteatioalEditoraldvisoryardofJACAngewandteCeedced Materials,and Chemical Physics Letters.E-mail: xwnie@cashq.ac.cn ",
+        "page_idx": 3
+    }
+]

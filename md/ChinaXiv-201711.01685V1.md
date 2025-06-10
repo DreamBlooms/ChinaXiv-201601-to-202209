@@ -1,0 +1,231 @@
+1 谷氨酰胺及其二肽对过氧化氢诱导山羊瘤胃上皮细胞凋亡及凋亡相关基因表达的影响  
+2 韩奇鹏1,²　揭红东²罗　玲²　王凯军²　周传社1\* 张佩华2\*孔志伟」 汤少勋1  
+3 （1.中国科学院，亚热带农业生态研究所，亚热带农业生态过程重点实验室，湖南省畜禽健  
+4 康养殖工程技术中心，农业部中南动物营养与饲料科学观测实验站，长沙 410125；2.湖南  
+5 农业大学，动物科学技术学院，畜禽遗传改良湖南省重点实验室湖南农业大学动物科学技术  
+6 学院畜禽遗传改良湖南省重点实验室，长沙 410128)  
+7 摘要：本试验通过建立过氧化氢 $\mathrm { ( H } _ { 2 } \mathrm { O } _ { 2 } )$ 诱导山羊瘤胃上皮传代细胞凋亡模型，研究谷氨酰  
+8 胺（Gln）、甘氨酰谷氨酰胺（Gly-Gln）和丙氨酰谷氨酰胺（Ala-Gln）对凋亡细胞的凋亡  
+9 率及 Bcl-2、Bax 基因表达量的影响。选用60 日龄湘东黑山羊的瘤胃上皮传代细胞，采用不  
+10 同浓度[0(对照组)、 $1 0 0 , ~ 4 0 0 , ~ 8 0 0 ~ \mu \mathrm { m o l / L } ]$ 的 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 培养细胞，应用流式细胞术检测细胞凋  
+11 亡情况。传代瘤胃上皮细胞分为5组，对照组和1组分别添加0、 ${ 8 0 0 \mu \mathrm { m o l / L \mathrm { H } _ { 2 } O _ { 2 } } }$ ，2组、  
+12 3 组、4组均添加 $\mathbf { 8 0 0 \mu m o l / L \hat { H } _ { 2 } O _ { 2 } }$ ，同时分别添加17.28mmol/LGly-Gln（2组）、16.0 mmol/L  
+13 Gln（3组）、16.0mmol/LAla-Gln（4组），应用流式细胞术检测细胞凋亡情况，同时采用  
+14 实时荧光定量 PCR（FQ-PCR）法检测细胞 Bcl-2、Bax 基因表达量。结果显示：1）与对照  
+15 组相比，当 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 浓度增加到 $8 0 0 \ \mu \mathrm { m o l / L }$ 时，早期凋亡的凋亡率显著增加（ $\scriptstyle P < 0 . 0 5 .$ ），而  
+16 晚期凋亡的凋亡率随着 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 浓度的增加呈现增加后减少的趋势，但相对于对照组，都呈显  
+17 著增加 （ $P { < } 0 . 0 5$ ）。2）与对照组相比，4组晚期凋亡的凋亡率显著增加（ $\cdot < 0 . 0 5$ ），试验  
+18 组早期凋亡的凋亡率均显著增加（ $\scriptstyle \cdot < 0 . 0 5$ ）。3）与对照组相比，试验组 $B c l - 2 / B a x$ 均显著  
+19 增加（ $\scriptstyle P < 0 . 0 5$ ）；与1组相比，2组、3组和4组 $B c l - 2 / B a x$ 均显著增加 ( $\cdot P { < } 0 . 0 5$ ），且2  
+20 组显著高于3组、4组（ $\cdot P { < } 0 . 0 5$ ）。综合得出，Gly-Gln 对 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 引起山羊瘤胃上皮细胞早  
+21 期凋亡具有一定的保护作用。
+
+关键词：湘东黑山羊；瘤胃上皮细胞；凋亡；凋亡基因
+
+3 中图分类号：S826
+
+氧化应激（oxidative stress,OS）是断奶家畜常见的机体状态，是导致断奶家畜生产遭受损失的重大原因之一[。近年，畜牧业集约化生产程度虽不断提高，但是由于家畜断奶后采食量的迅速下降后再上升，导致胃肠道内血流量大量减少后再升高，进而出现"缺血再灌注”的现象，并伴随产生大量的过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ）， $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 再通过 Fenton 反应和 Haber-Weiss 反应产生大量的氧自由基，对胃肠组织细胞造成损伤[2-5]。同时饲粮中多饱和脂肪酸含量过高、矿物元素（硒、锌、锰等）缺乏、环境冷热变化、电离辐射、药物和疫苗大量使用等都会使组织细胞内抗氧化防御系统受损，使断奶家畜处于氧化应激状态[]。$\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 可使细胞发生氧化应激，导致细胞进入内源性凋亡和/或线粒体凋亡途径。如 Bcl-2家族的Bax、Bak 凋亡前体蛋白被激活，导致线粒体膜发生易位，但同时 Bcl-2 抗凋亡蛋白与被激活的凋亡前体蛋白形成异聚体，进而抑制线粒体膜的损伤[7-8]。此外，Bcl-2可抑制细胞色素C(Cty C)的释放[9]，阻止脱氧三磷酸腺苷（deoxyadenosine triphosphate,dATP）和调亡蛋白酶激活因子（apoptosis totic protease activating factor-1,Apaf-1）在胞质内形成混合物[10],进而抑制半胱天冬氨酸蛋白酶（caspase）-9 的激活，并阻止下游的caspases-3 和caspases-7的激活，最终抑制凋亡的发生[1]。随着畜牧业集约化生产和动物保健意识的不断成熟，一些实际生产问题有了深入认识。因此，了解氧化应激的概念、机制、内外因素作用的机理等，可使营养物质[如谷胱甘肽（GSH）、维生素E、谷氨酰胺（Gln）、镁（Mg）、硒（Se）、维生素C及活性物质二氢杨梅素和茶多酚等外源性抗氧化活性物质]得到更好的应用[12-13]。饲料中适量添加Gln、丙氨酰谷氨酰胺（alanyl-glutamine,Ala-Gln）和甘氨酰谷氨酰胺（glycyl-glutamine,Gly-Gln）的对过氧化应激损伤具有一定的保护作用[12]。但在饲料工业化生产过程中，GIn 的添加量较大、吸收率较低、水溶性较低、稳定性较差和易产生有害物质（焦谷氨酸和氨），所以GIn 未在实际生产中得到广泛的应用[14]。但随着人们对二肽及动物胃肠道对二肽消化吸收特点认识的不断提高，作为Gln 供体物质的 Ala-Gln 和Gln 替代品的 Gly-Gln 可弥补GIn 单体的缺陷[15]。此外，已成为人类营养研究领域研究热点的Ala-Gln和 Gly-Gln，在临床医学的全肠胃外营养（TPN）中的研究逐渐成熟，为Ala-Gln 和Gly-Gln二肽在饲料生产中广泛的应用提供了理论支撑[16]。因此,本试验以 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导山羊瘤胃上皮传代细胞氧化应激,研究Gln、Gly-Gln 和 Ala-Gln对细胞凋亡及Bcl-2、Bax 基因表达的影响，为研究山羊瘤胃上皮细胞营养代谢和氧化应激机制之间相互关系提供一定的试验参考。
+
+1材料与方法
+
+1.1主要试剂与设备细胞培养试剂：胎牛血清(FBS）、基本培养基(dulbecco's modified eagle medium: nutrientmixture F-12,DMEM/F12）、 $0 . 2 5 \%$ trypsin $+ 0 . 0 2 \%$ EDTA、青霉素均购自Gibico 公司；两性霉素 $\mathbf { B } +$ 庆大霉素（gentamicin/amphotericin solution）购自 Thermo 公司；Gln、Gly-Gln 和Ala-Gln 均购自 Abcam 公司。PCR 相关试剂：逆转录试剂盒购自北京康为世纪生物科技有限公司；EDTA、三羟甲基氨基甲烷（Tris）、焦碳酸二乙酯（DEPC）、二溴乙烷（EB）购自 Sigma 公司；Trizol 购自 Invitrogen 公司；Taq 酶、DL2O00 DNA marker、dNTP 购自Genstar 公司；引物购自南京金斯瑞生物科技公司；SYBR Green PCR Mix 购自 Invitrogen 公司；常规化学试剂购自北京化学试剂公司。台式冷冻离心机购自Eppendorf 公司；实时荧光定量PCR（real-time fluorescentquantitative PCR,FQ-PCR）仪购自 Thermo 公司；电泳仪购自 Bio-Rad 公司；水平琼脂糖电泳槽购自北京六一仪器厂；精密pH计购自雷磁仪器厂；电动玻璃匀浆器购自宁波新芝生物科技股份有限公司。1.2主要溶液与配制主要溶液有：还原型 $5 \times$ 十二烷基硫酸钠（SDS）上样缓冲液；电泳液缓冲液；转膜缓冲液；TBS 缓冲液；TBST 缓冲液； $5 { \times } \mathrm { T B E }$ 溶液；RNase A母液( $\mathrm { 1 0 ~ m g / m L ) }$ ；Agarose 凝胶;无酶水。$\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 的稀释： $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 用无菌、无霉水稀释至终浓度分别为100、400、 ${ 8 0 0 \mu \mathrm { m } / \mathrm { L } }$ 。1.3 山羊瘤胃上皮传代细胞试验动物为3只60日龄健康的湘东黑山羊，体重为（ $6 . 4 { \pm } 0 . 8 \$ ）kg。颈静脉放血致死，取出瘤胃组织，去掉内容物后用生理盐水反复冲洗干净，待用于样品采集。当山羊瘤胃上皮原代细胞长满培养皿的 $80 \% \sim 9 0 \%$ 时，弃去 DMEM/F12 完全培养液[含$5 \%$ 胎牛血清（FBS）、 $10 \%$ 双抗、 $0 . 1 ~ \mathrm { m g / m L }$ 庆大霉素、 $2 . 5 ~ \mu \mathrm { g / m L }$ 两性霉素B]，用磷酸盐缓冲液（PBS）洗涤细胞1\~2次后，加入 $1 \ \mathrm { m L }$ 的含 $0 . 2 5 \%$ 胰蛋白酶（trypsin） $+ 0 . 0 2 \%$ 乙二胺四乙酸（EDTA）的消化液，放入含 $5 \% \mathrm { C O } _ { 2 }$ 的 $3 7 \mathrm { ~ \textdegree C }$ 培养箱中消化 $2 { \sim } 3 \ \operatorname* { m i n }$ 。放在倒置显微镜下观察细胞开始变亮、变圆时，迅速用含DMEM/F12完全培养液终止消化。将贴壁的细胞吹打为悬液，转移到 $1 5 ~ \mathrm { m L }$ 离心管中，在 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 离心机中 $9 4 \times g$ 离心 $5 \mathrm { m i n }$ ，弃去上清液，：加入 $1 ~ \mathrm { m L }$ 的 DMEM/F12完全培养液重悬细胞，以1:2进行传代。在含 $5 \%$ （204号 $\mathrm { C O } _ { 2 }$ 的 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 培养箱中培养 $3 0 ~ \mathrm { m i n }$ 后，转移含细胞的DMEM/F12完全培养液至培养皿中继续培养，重复1次，此步为纯化过程。
+
+1.4试验设计
+
+..4.1 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡瘤胃上皮细胞的凋亡率
+
+取第4代后对数期生长细胞，消化后按 $1 { \times } 1 0 ^ { 6 }$ 个/孔接种于6孔板中，培养 $1 2 \mathrm { ~ h ~ }$ 后，吸弃培养基，PBS 洗2次，加入 $2 { \mathrm { m L } }$ 不含PBS的新鲜培养基，分为4组，分别添加0（对照）、100、400和 $\mathbf { 8 0 0 \mu m o l / L \hat { H } _ { 2 } O _ { 2 } }$ ，继续培养 $2 4 \mathrm { h }$ 。
+
+1.4.2Gln 及其二肽对 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡瘤胃上皮细胞Bcl-2、Bax基因表达量的影响
+
+细胞选择和前期处理同1.4.1,细胞分为5组，对照组和1组分别添加 $0 . 8 0 0 \mu \mathrm { m o l / L \mathrm { H } _ { 2 } O _ { 2 } }$ 2组、3组、4组均添加 ${ \mathrm { 8 0 0 \mu \mathrm { m o l / L \mathrm { H } } } } _ { 2 } { \mathrm { O } } _ { 2 }$ ，同时分别添加17.28 mmol/LGly-Gln（2组）、16.0mmol/LGln（3 组）、16.0 mmol/LAla-Gln（4组）。
+
+1.5 试验方法
+
+1.5.1流式细胞（flowcytometry,FCM）技术检测瘤胃上皮细胞凋亡率[膜联蛋白-V（annexin V，AV）/碘化丙啶（propidiumiodide,PI）双染法]
+
+山羊瘤胃上皮传代细胞培养于含 $5 \%$ FBS的DMEM/F12中，收集培养 $2 4 \mathrm { h }$ 的传代细胞进行凋亡检测，每组重复3次。步骤如下：1）用不含EDTA的trypsin 消化液消化，并收集山羊瘤胃上皮传代细胞;2)用PBS 洗涤细胞2次，每次 $3 7 6 \times g$ 离心 $5 \mathrm { m i n }$ ，收集 $1 { \times } 1 0 ^ { 5 } { \sim } 5 { \times } 1 0 ^ { 5 }$ 个细胞；3）加入 ${ 5 0 0 \mu \mathrm { L } }$ 的结合缓冲液（binding buffer）悬浮细胞；4）加入 ${ 5 \mu \mathrm { L } }$ 细胞凋亡检测试剂[AV-异硫氰酸荧光素（FITC）凋亡检测试剂盒]混匀后，加入 ${ 5 \mu \mathrm { L } }$ PI，混匀；5)室温、避光，反应 $5 \sim 1 5 \mathrm { m i n }$ ；6）1h内，上BDFACSCalibur流式细胞仪观察检测。
+
+1.5.2Gln及其二肽对 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 诱导凋亡瘤胃上皮细胞 $B c l { - } 2$ 、Bax基因表达的影响
+
+1.5.2.1 总RNA提取
+
+1.5.2.1.1试验前准备将所有提取总RNA所需器械及耗材浸泡于提前配制好的 $1 \%$ DEPC水中过夜，第2天将器械和耗材用报纸包好，121℃60min 湿热灭菌。
+
+1.5.2.1.2Trizol 提取细胞总 RNA总 RNA 提取步骤如下：1）向细胞中加入 $1 \ \mathrm { m L }$ Trizol充分吹打，混匀后室温裂解 $3 \mathrm { m i n }$ ；加入0.2倍体积的三氯甲烷，振荡，室温静置 $3 { \sim } 5 \ \mathrm { m i n }$ 。2） $1 2 0 0 0 \times g$ 低温离心 $1 5 \mathrm { m i n }$ ，取上层液相，加入等体积的异丙醇， $- 2 0 \mathrm { ~ \textdegree C }$ 静置 $2 0 \mathrm { m i n }$ 。3)$1 2 0 0 0 \times g$ 低温离心 $1 5 \mathrm { m i n }$ ，去上清，沉淀中加入 $1 \mathrm { m L } 7 5 \%$ 乙醇（无菌 $1 \%$ DEPC 水配制），振荡混匀。4) $1 2 0 0 0 \times g$ 低温离心 $5 \mathrm { m i n }$ ，去上清，空气干燥 $5 { \sim } 1 0 \ \mathrm { m i n }$ 。加入 $4 0 \mu \mathrm { L }$ 无菌 $1 \%$ DEPC 水溶解沉淀得到总RNA 溶液。5）紫外分光光度计测定总RNA浓度，吸取 $2 ~ \mu \mathrm { L }$ 总
+
+113 RNA 溶液于石英比色皿中，用无酶水定容至 $1 0 0 \mu \mathrm { L }$ ，在260与 $2 8 0 \mathrm { n m }$ 处测其吸光度值(A)，  
+114 并计算其浓度及纯度（要求达到1.8\~2.0）,公式如下：  
+115 RNA 浓度 $\mathrm { ( n g / \mu L ) \ l a _ { 2 6 0 n m } \times }$ 稀释倍数 $\times 4 0$   
+116 RNA纯度 ${ = } \mathbf { A } _ { 2 6 0 \ n m } / \mathbf { A } _ { 2 8 0 \ n m }$ 。  
+117 1.5.2.1.3RNA 的琼脂糖凝胶电泳 将配制好的 $1 \%$ 变性琼脂糖凝胶加热至琼脂糖溶解，再  
+118 冷至 $6 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ,加入 $0 . 5 ~ \mu \mathrm { L }$ EB( $1 0 ~ \mathrm { m g / m L }$ ），混匀后倒入事先用灭菌 $1 \%$ DEPC 水处理的电泳  
+119 槽中；取 $2 ~ \mu \mathrm { L }$ 提取的总RNA，按1:5 的比例与上样缓冲液混匀， $1 7 0 { \mathrm { ~ V ~ } }$ 恒压电泳，溴酚蓝  
+120 前沿迁移至凝胶总长2/3处停止电泳；凝胶成像系统下观察。  
+121 1.5.2.1.4反转录PCR 反转录 PCR 体系 $( 3 0 \mu \mathrm { L } )$ :dNTP(2.5 mmol/L) $6 { \mu } \mathrm { L }$ 、Primer Mix $3 \mu \mathrm { L }$ 、  
+122 总 RNA $6 { \mu } L$ ， $5 { \times } \mathrm { R T }$ Buffer $6 { \mu } \mathrm { L }$ 、二硫苏糖醇（DTT）0.1 mmol/L $3 \mu \mathrm { L }$ 、HiFiScript( $2 0 0 \mathrm { U / \mu L } )$   
+123 $1 . 5 \mu \mathrm { L }$ 、无RNA酶水 $4 . 5 \mu \mathrm { L }$ 。  
+124 1.5.2.2FQ-PCR  
+125 1.5.2.2.1引物设计在NCBI上搜索目的基因的序列，运用Primer5软件设计引物，由南  
+126 京金斯瑞生物科技公司合成引物，引物参数见表1。
+
+# 表1 引物参数
+
+# Table1Primer parameters
+
+基因 NCBI登录号NCBI 引物序列 Primer sequences $( 5 ^ { \prime } - 3 ^ { \prime } )$ （204 产物长度  
+Genes accession No. Product length/bp  
+Bcl-2 JN036559 F:GATGACCGAGTACCTGAACCG 20R:GACAGCCAGGAGAAATCAAACA  
+Bax JN036558 F:AGTGGCGGCTGAAATGTTR:GACAGCCAGGAGAAATCAAACA 221  
+甘油醛-3-磷酸脱氢 F:TCCACGGCACAGTCAAGG 112  
+酶GAPDHR:TCAGCACCAGCATCACCC
+
+129 1.5.2.2.2 FQ-PCR体系组成 FQ-PCR体系（ $3 0 \mu \mathrm { L }$ ）：模板（反转录产物） $1 \mu \mathrm { L }$ ，上、下游  
+130 引物 $1 0 \mathrm { \ \mu m o l / L } )$ 各 $0 . 5 ~ \mu \mathrm { L }$ ，PCR水 $1 3 ~ \mu \mathrm { L }$ ， $2 { \times } \mathrm { S }$ YBR Green PCR Master Mix $1 5 ~ \mu \mathrm { L }$ 。每个样品3  
+131 个重复，每孔（ $1 0 \mu \mathrm { L }$ ）为1个重复。  
+132 1.5.2.2.3FQ-PCR 扩增程序扩增程序如下： $5 0 \mathrm { ~ \textdegree C }$ 2 min;95 ℃ 10 min; 95 ℃ 5 s,60 ℃  
+133 30 s，45 个循环。  
+134 1.6 数据统计与分析  
+135 细胞凋亡应用BDFACSCalibur 流式细胞仪采集数据，并用Flowjo 软件进行图像分析。
+
+试验数据用SAS9.2统计分析，统计差异显著性水平定义为 $P { < } 0 . 0 5$ ， $P { > } 0 . 0 5$ 则无显著差异。
+
+2结果与分析
+
+2.1 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡瘤胃上皮细胞的凋亡率
+
+由表2可以看出，与对照组相比，当 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 浓度增加到 $8 0 0 \mu \mathrm { m o l / L }$ 时，早期凋亡的凋亡率显著增加 ( $\scriptstyle \cdot < 0 . 0 5$ ）；而晚期凋亡的凋亡率随着 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 浓度的增加呈现增加后减少的趋势，但试验组相对于对照组，都呈显著增加（ $P { < } 0 . 0 5$ ）。结果说明， $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 可以诱导山羊瘤胃上皮细胞凋亡加剧。
+
+表2 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡瘤胃上皮细胞的凋亡率  
+Table 2Apoptosis rate of ruminal epithelial cells with apoptosis induced by $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 } \left( n { = } 3 \right)$ （20 （204号 $\%$   
+
+<html><body><table><tr><td>项目Items</td><td colspan="4">H2O2 浓度 HOconcentration/（umol/L）</td><td>SEM</td><td>P值</td></tr><tr><td></td><td>0</td><td>100</td><td>400</td><td>800</td><td></td><td>P-value</td></tr><tr><td>晚期调亡Late apoptosis</td><td>1.60d</td><td>8.35b</td><td>9.33a</td><td>4.19c</td><td>0.11</td><td><0.01</td></tr><tr><td>早期凋亡 Early apoptosis</td><td>5.03b</td><td>5.38b</td><td>3.76c</td><td>10.57a</td><td>0.12</td><td><0.01</td></tr></table></body></html>
+
+同行数据不同小写字母表示差异显著（ $_ { \scriptstyle P < 0 . 0 5 }$ ），相同小写字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。
+
+Values in the same row with different small letter superscripts mean significant difference ( $P { < } 0 . 0 5 \$ ），while with the same small letter superscripts mean no significant difference( $P { > } 0 . 0 5$ ）.The same as below.
+
+![](images/44db7b52472aa436b60c22879638592a80368d4098a116e6e023d9cfd9d7bff8.jpg)
+
+![](images/aedad8063e601d708304b29a2c8d82edf68d11e6a0abea3dd63c12cfb9953d64.jpg)  
+图1 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡瘤胃上皮细胞流式细胞技术检测结果
+
+Fig.1FCM results of ruminal epithelium cells with apoptosis induced by $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$
+
+2.2Gln 及其二肽对 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 诱导凋亡瘤胃上皮细胞的凋亡率的影响
+
+由表3可以看出，与对照组相比，4组晚期凋亡的凋亡率显著增加（ $P { < } 0 . 0 5$ ），1组、3组晚增加，2组降低，但差异均不显著（ $. P { > } 0 . 0 5$ ）；与对照组相比，试验组早期凋亡的凋亡率均显著增加 （ $. P { < } 0 . 0 5$ ），而2组为试验组中最低。结果说明，Gly-Gln 可缓解 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 对山羊瘤胃上皮细胞造成早期凋亡。
+
+表3Gln及其二肽对 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡瘤胃上皮细胞的凋亡率的影响  
+
+<html><body><table><tr><td>162</td><td colspan="8">Table 3Effects of Gln and its dipeptides on apoptosis ratio of ruminal epithelial cells with apoptosis induced by</td></tr><tr><td>163</td><td></td><td>HO2 (n=3)</td><td></td><td>%</td><td></td><td></td><td></td><td></td></tr><tr><td>项目Items</td><td></td><td>对照组</td><td>1组 Group 1</td><td>2组</td><td>3组 Group 3</td><td>4组 Group 4</td><td>SEM</td><td>P值 P-value</td></tr><tr><td>晚期调亡Lateapoptosis</td><td></td><td>Control group 4.10bc</td><td>4.19bc</td><td>Group 2 2.09c</td><td>5.71b</td><td>17.88a</td><td>0.89</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><0.01</td></tr></table></body></html>
+
+![](images/41812027a33d85bf472a1edd5c8520d879734a1251fc7ff8ce637ca4a0bb8734.jpg)
+
+165
+
+![](images/97f96aed98a744e94c7459b2f76f67da1d8092ca9d894e6f575a8dc40bd95528.jpg)  
+图2Gln及其二肽影响 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡瘤胃上皮细胞的流式细胞技术检测结果
+
+Fig.2FCMresults of Gln and its dipeptides affected ruminal epithelial cells with apoptosis induced by $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$
+
+2.3Gln 及其二肽对 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导的凋亡瘤胃上皮细胞Bcl-2、Bax基因表达量的影响
+
+# 2.3.1 总RNA提取
+
+总RNA提取结果如图3所示，提取的总RNA条带清晰，可用于FQ-PCR操作。
+
+![](images/b33e26859aa7fa26c0743fb0624b3edd861e5257d4855845397c92836473a050.jpg)  
+图3部分总RNA电泳图  
+Fig.3The electrophoretogram of partial total RNA
+
+# 2.3.2 FQ-PCR检测结果
+
+由表4可以看出，与对照组比较，试验组Bax、Bcl-2表达量分别显著升高和降低（ $P$ ${ < } 0 . 0 5$ ）。与1组相比较，对照组、2组、3组和4组Bax表达量均显著降低（ $\scriptstyle P < 0 . 0 5 .$ ）；2组和4组 $B c l { - } 2$ 表达量均显著增加（ $\cdot < 0 . 0 5$ ）；2组、3组和4组 $B c l - 2 / B a x$ 均显著增加 ( $P$ $< 0 . 0 5 \dot$ ），且2组显著高于3组、4组（ $\cdot < 0 . 0 5$ ），试验组显著低于对照组（ $\scriptstyle P < 0 . 0 5 .$ ）。
+
+表4Gln及其二肽对 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡瘤胃上皮细胞 $B c l { - } 2$ 、Bax 基因表达量的影响
+
+Table 4Effects of Gln and its dipeptides on $B c l { - } 2$ and Bax gene expressions of ruminal epithelial cells with apoptosis induced by $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 0 $\scriptstyle ( n = 3 )$   
+
+<html><body><table><tr><td>项目Items</td><td>对照组</td><td>1组</td><td>2组</td><td>3组</td><td>4组</td><td>SEM</td><td>P值P-value</td></tr><tr><td></td><td>Control group</td><td>Group 1</td><td>Group 2</td><td>Group 3</td><td>Group 4</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>Bax</td><td>0.95d</td><td>3.56a</td><td>1.82℃</td><td>1.64c</td><td>2.62b</td><td>0.18</td><td><0.01</td></tr><tr><td>Bcl-2</td><td>1.04a</td><td>0.28d</td><td>0.59b</td><td>0.39cd</td><td>0.45c</td><td>0.04</td><td><0.01</td></tr><tr><td>Bcl-2/Bax</td><td>1.09a</td><td>0.08d</td><td>0.33b</td><td>0.24c</td><td>0.18c</td><td>0.03</td><td><0.01</td></tr></table></body></html>
+
+3讨论
+
+3.1Gln 及其二肽对 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 诱导凋亡细胞凋亡率的影响
+
+高浓度氧直接损伤瘤胃上皮细胞，促使细胞凋亡或使胃部疾病恶化。大量氧化自由基是引起细胞损伤的重要原因之一，缺血再灌注、药物代谢、金属中毒等会诱导细胞产生大量氧自由基[17]，而 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 作为氧化自由基的主要成分，得到广泛的应用[18-20]。 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 可导致细胞损伤的机制包括：损伤线粒体和耗竭 ATP，氧化细胞内蛋白质和细胞脂质及引起DNA损伤，引起细胞凋亡等[21]。
+
+Gln 及其二肽是具有特殊药理学、无毒副作用的非必需氨基酸[22]。GIn 及其二肽可为胃肠上皮细胞、免疫细胞等分裂较快的组织细胞，提供合成氨基酸及蛋白质所需的氮源[23-24],为维持黏膜细胞完整性和功能稳定性方面起重要作用[25]。现己发现Gln 及其二肽具有减少疾病或应激状态下的过氧化损伤，其可能是通过减少氧化应激下的细胞凋亡，增强抗氧化酶防御作用、热休克蛋白的表达及诱导细胞自噬来发挥作用[26]。GIn及其二肽在是近 20 年来外科研究的热点，虽然在临床中已获得广泛应用[27-31]，但其对于 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 诱导的山羊瘤胃上皮细胞凋亡的影响却鲜有报道。
+
+减少 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡细胞凋亡率，对减轻过氧化应激对机体损伤，改善机体功能与状态具有非常重要的意义。因此，本试验对于山羊瘤胃上皮传代细胞的凋亡率进行检测，流式细胞技术检测结果说明，添加Gly-Gln 可使 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 对山羊瘤胃上皮细胞氧化应激损伤得到缓解。其机制可能是：1）具有添加量较小、吸收率较高、水溶性较高、稳定性较好和不易产生有害物质（焦谷氨酸和氨）等优点的Gln替代品Gly-Gln，更有助于提高与维持山羊瘤胃上皮细胞组织中 GSH 的含量，具有更强的抗氧化、抗调亡的作用[32-33]。2）Gly-Gln 比Gln 和Ala-Gln 更多地抑制活性氧群的移位，由于活性氧会直接或间接诱导山羊瘤胃上皮细胞凋亡，因此Gly-Gln一定程度上缓解了 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导山羊瘤胃上皮细胞凋亡。但Gln、Ala-Gln 和Gly-Gln之间对山羊瘤胃上皮细胞氧化应激缓解机制有待进一步研究。
+
+3.2Gln及其二肽对 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡山羊瘤胃上皮细胞Bcl-2、Bax 基因表达量的影响有研究发现，Bcl-2 家族中促凋亡（ $B c l { - } 2$ ）和抑凋亡基因（Bax）的比率决定了线粒体通透性转换孔（MPTP）的开放程度，形成调控细胞凋亡的枢纽，因此认为调控细胞死亡的“可变电阻器（rheostat）”是 $B c l { - } 2 / B a x ^ { [ 3 4 ] }$ 。在内外因素刺激下，Bcl-2和 Bax 2 种调控因子的平衡决定细胞了生命，而 $B c l - 2 / B a x$ 是决定细胞凋亡发生及凋亡程度的重要因素[35]。
+
+本试验从细胞凋亡角度出发，在细胞传代培养试验的基础上，利用 FQ-PCR 针对 Gln及其二肽对 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡山羊瘤胃上皮细胞Bcl-2、Bax 基因表达情况进行检测，结果说明，$\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 能诱导山羊瘤胃上皮细胞凋亡，Gly-Gln 可降低促凋亡基因 Bax 表达量，而抑制凋亡基因 Bcl-2 的增加，这与凋亡率的结果相一致。但是对于Gln、Gly-Gln 和 Aln-Gln 影响 Bcl-2和 $B a x$ 基因表达的机制尚不清楚，有待进一步研究。可能由于GIn、Gly-Gln 和 Aln-Gln 能增加 GSH的含量[36]，或是Gln、Gly-Gln 和 Aln-Gln 能增加细胞膜的稳定性，减轻 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 过氧化损伤作用[37]。本试验结果显示，Gly-Gln 和 Aln-Gln 二肽使 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 诱导凋亡细胞的 $B c l { - } 2$ 基因表达显著增加，这可能是一种机体代偿性反应。如果大量的细胞膜性结构被破坏，不能维持 Bcl-2蛋白结构，机体代偿性反应不充分，而添加Gly-Gln 和 Aln-Gln二肽将使细胞膜性结构的破坏减轻，有助于膜上Bcl-2蛋白结构的稳定，促进代偿反应的发生。
+
+4结论
+
+Gly-Gln对 $\mathrm { \cdot H } _ { 2 } \mathrm { O } _ { 2 }$ 引起山羊瘤胃上皮细胞早期凋亡具有一定的保护作用。
+
+参考文献：
+
+[1] 田刚,陈代文,郑萍,等.氧化应激与仔猪健康及其营养调控[J].饲料工 业,2012,33(14):58-66.   
+[2] 张旭,戴朝六,崔凯,等.丙氨酰-谷氨酰胺二肽保护大鼠肝脏缺血再灌注损伤的实验研究 [J].消化外科,2004,3(4):261-266.   
+[3]黎君友,孙丹,吕艺,等.肠缺血再灌注对小肠屏障、吸收、通透和传输功能的影响[J].世界 华人消化杂志,2004,12(2):464-466.   
+[4]ARAUJO W A G,FERREIRA A S,RENAUDEAU D,et al.Effects of diet protein source on the behavior of piglets after weaning[J].Livestock Science,2010,132(1/2/3):35-40.   
+[5]BRUNI A,QUINTON V M,WIDOWSKI T M.The effect of feed restriction on belly nosing behaviour in weaned piglets[J].Applied Animal Behaviour Science,2008,110(1/2):203-215.   
+[6]方允中,杨胜,伍国耀.自由基、抗氧化剂、营养素与健康的关系[J].营养学 报,2003,25(4):337-343.   
+[7] GOPING IS,GROSS A,LAVOIE J N,et al. Regulated targeting of Baxto mitochondria[J].The Journal of Cell Biology,1998,143(1):207-215.   
+[8] CHENG E H,WEI MC,WEILER S,et al.Bcl-2,Bcl-XL sequester BH3 danain-only molecules
+
+243 preventing Bax-and Bak-mediated mitochondrial apoptosis[J].Molecular  
+244 Cell,2001,8(3):705-711.  
+245 [9]YANG J,LIU X,BHALLA K,et al.Prevention of apoptosis by Bcl-2:release of cytochrome c  
+246 from mitochondria blocked[J].Science,1997,275(5303):1129-1132.  
+247 [10]ZOU H,LI Y,LIU X,et al.An APAF-1 cytochrome c multimeric complex is a functional  
+248 apoptosome thatactivatesprocaspase-9[J].Journal of Biological  
+249 Chemistry,1999,274(17):11549-11556.  
+250 [11]KELEKAR A,THOMPSON C B.Bcl-2-family proteins:the role of the BH3 domain in  
+251 apoptosis[J].Trends in Cell Biology,1998,8(8):324-330.  
+252 [12]王海燕,曹婧然,谢颖,等.谷氨酰胺强化肠内营养对 ICU 患者氧化应激状态影响的临床  
+253 研究[J].临床误诊误治,2013,26(9):97-99.  
+254 [13]赵娇.葡萄籽原花青素缓解氧化应激仔猪肝脏损伤及可能机制研究[D].硕士学位论文.  
+255 雅安:四川农业大学,2013.  
+256 [14]李幼生,黎介寿.谷氨酰胺二肽的研究进展[J].中华胃肠外科杂志,2002.5(3):232-233.  
+257 [15]郑燕斌,董娜,单安山.谷氨酰胺二肽生物学功能及在动物营养中的应用[J].动物营养学  
+258 报,2011,23(8):1264-1268.  
+259 [16]王志华,蔡金芳,汪伟,等.丙氨酰-谷氨酰胺在重度颅脑损伤治疗中的应用价值研究[J].中  
+260 国全科医学,2011,14(3):277-279.  
+261 [17]叶煦亭,沙继宏,汤莹,等.生物细胞氧化应激模型探讨[J].电子显微学  
+262 报,2000,19(3):207-208.  
+263 [18]蔡善荣,郑树,张苏展,等.过氧化氢诱导肠上皮干细胞DNA氧化损伤模型的建立[J].浙江  
+264 大学学报:医学版,2006,35(4):366-369,376.  
+265 [19]廖德荣,刘启功,程燕子,等.血管内皮生长因子对过氧化氢诱导的内皮细胞凋亡的影响  
+266 及其机制[J].中国动脉硬化杂志,2006,14(6):483-486.  
+267 [20]郑延松,李源,张珊红,等.用低浓度过氧化氢建立心肌细胞氧化损伤模型[J].第四军医大  
+268 学学报,2001,22(20):1849-1851.  
+269 [21]张丽,李亮,李克忠,等.谷氨酰胺抑制过氧化氢诱导的 A549 细胞凋亡[J].山东大学学报:  
+270 医学版,2007,45(11):1106-1109.  
+271 [22]叶均安,王冰心,孙红霞,等.谷氨酰胺二肽对日本对虾血清生化指标、肝胰腺细胞凋亡及  
+272 肠黏膜形态的影响[J].海洋与湖沼,2009,40(3):347-352.
+
+[23]戴定威,李敏.谷氨酰胺对体外培养人小肠上皮细胞缺氧复氧损伤的保护作用[J].氨基酸和生物资源,1997,19(3):1-3.  
+[24]姜俊,周小秋.谷氨酰胺对肠上皮细胞增殖的调节作用[J].饲料工业,2004,25(2):31-33.  
+[25]CHOMCZYNSKI P,SACCHI N.Single-step method of RNA isolation by acid guanidiniumthiocyanate-phenol-chloroform extraction[J].Analytical Biochemistry,1987,162(1):156-159.  
+[26]曹婧然,谢颖,李辉,等.谷氨酰胺在氧化应激疾病中的作用及其机制的研究[J].临床误诊误治,2013,26(9):102-104.  
+[27]蔡文训,张卫星,罗华.谷氨酰胺肠外营养对危重病患者的营养作用[J].中国基层医药,2006,13(6):904-906.  
+[28] 戴定威,吴圣楣,戚秋芬,等.谷氨酰胺对缺氧复氧损伤人小肠上皮细胞谷胱甘肽的影响[J].中国病理生理杂志,1999,15(2):128-130.  
+[29]王军军,王凤来,印遇龙,等.断奶和谷氨酰胺对仔猪肠道氧化状态与基因表达的影响[C]//中国畜牧兽医学会 2008 年学术年会暨第六届全国畜牧兽医青年科技工作者学术研讨会论文集.广州:中国畜牧兽医学会,2008.  
+[30]陈恒灿,马黎,陈克鳞,等.丙氨酰谷氨酰胺二肽对早期断奶仔猪抗氧化能力及肠道保护的研究[J].畜牧兽医学报,2011,42(2):251-259.  
+[31]席鹏彬,林映才,蒋宗勇,等.谷氨酰胺二肽对断奶仔猪生长、免疫、抗氧化力和小肠黏膜形态的影响[J].动物营养学报,2007,19(2):135-141.  
+[32]CAO Y H.FENG Z L,HOOS A,et al.Glutamine enhances gut glutathioneproduction[J].Journal of Parenteral and Enteral Nutrition,1998,22(4):224-227.  
+[33]SUHG J,YOUN Y K,SONG H G,et al.The effect of glutamine on inducible nitric oxidesynthase gene expression in intestinal ischemia-reperfusion injury[J].NutritionResearch,2003,23(1):131-140.  
+[34]KORSMEYER S J,SHUTTER JR,VEIS D J,et al.Bcl-2/Bax:a rheostat that regulates ananti-oxidant pathway and celldeath[J].Seminars in Cancer Biology,1993,4(6):327-332.  
+[35]王卫东.Bcl-2/Bax 比率与细胞"命运"[J].中国肿瘤生物治疗杂志,2007,14(4):393-396.  
+[36]刘国平,朱闻溪,杨广顺,等.谷氨酰胺对大鼠肝门阻断后肝脏 Bcl-2mRNA表达的影响及其保护作用[J].中国现代普通外科进展,2008,11(4):297-300.
+
+N-Acetylcysteine in hepatic ischemia-reperfusion injury during hemorrhagic shock[J].Transplantation Proceedings,2004,36(4):846-848. Effects of Glutamine and Its Dipeptides on Apoptosis and Apoptosis Related Gene Expressions Induced by Hydrogen Peroxide in Ruminal Epithelial Cells of Goats HAN Qipeng1,² JIE Hongdong² LUO Ling² WANG Kaijun² ZHOU Chuanshe1\* ZHANG Peihua2\*KONG Zhiwei1TANG ShaoXun1 (1. Key Laboratory for Agro-Ecological Processes in Subtropical Region, Hunan Research Center of Livestock & Poultry Sciences, South-Central Experimental Station of Animal Nutrition and Feed Science of Ministry of Agriculture, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha 410125, China; 2. Hunan Provincial Key Laboratory for Genetic Improvement of Domestic Animal, College of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, China) Abstract: This study was conducted to investigate the effects of glutamine (Gln), glycyl-glutamine (Gly-Gln) and alanyl-glutamine (Ala-Gln) on apoptosis rate and gene expressons of Bcl-2 and Bax of apoptosis cells according to establish apoptosis models for ruminal epithelial cells of goats induced by hydrogen peroxide $\mathrm { ( H } _ { 2 } \mathrm { O } _ { 2 } )$ . Subculture ruminal epithelium cells of 6O day-old Xiangdong black goats were selected and cultured with different concentrations [O(control group), 100, 400 and $8 0 0 \mu \mathrm { m o l / L } ]$ of $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ,and flow cytometry (FCM) technique was used to detected cell apoptosis. Subculture ruminal epithelium cels were divided into 5 groups, control group and group 1 were cultured with O and $\mathsf { 8 0 0 \mu m o l / L \hat { H } _ { 2 } O _ { 2 } }$ ,and groups 2, 3 and 4 were cultured with 800 $\mu \mathrm { m o l / L } \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ , meanwhile with $1 7 . 2 8 \ \mathrm { m m o l / L }$ Gly-Gln （group 2）,16.0 mmol/L Gln （group 3） and 16.0 mmol/L Ala-Gln（group 4） .FCM technique was used to detected cell apoptosis,and gene expressions of Bcl-2 and Bax were detected by real-time fluorescent quantitative PCR. The results showed as follows: 1) compared with control group, when the concentration of $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ （204号 reached $8 0 0 \mu \mathrm { m o l / L }$ ,apoptosis rate of early apoptosis significantly increased ( $\scriptstyle \sum 0 . 0 5 ,$ ; apoptosis rate of late apoptosis firstly increased and then decreased with the increasing of $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ （204号 concentration, while compared with control group, experimental groups were al significantly
+
+increased ( $\cdot P { < } 0 . 0 5$ ). 2） Compared with control group, apoptosis rate of late apoptosis in group 4 significant increased（ $\scriptstyle P < 0 . 0 5$ ）,and apoptosis rate of early apoptosis in experimental groups were all significantly higher than that in control group（ $P { < } 0 . 0 5$ ）.3) Compared with control group,Bcl-2/Bax in experimental groups was significantly increased( $\scriptstyle P < 0 . 0 5 .$ ）; compared with group 1, Bcl-2/Bax in groups 2, 3 and 4 was significantly increased ( $\scriptstyle \sum 0 . 0 5 ,$ ), and group 2 was significantly higher than groups 3 and 4 ( $\cdot P { < } 0 . 0 5$ ). In conclusion, Gly-Gln plays protection role in early apoptosis induced by $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ in ruminal epithelium cells of goats. Key words: Xiangdong black goat; ruminal epithelium cell; apoptosis; apoptosis gene

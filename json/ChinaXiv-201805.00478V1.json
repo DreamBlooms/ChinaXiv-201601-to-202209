@@ -1,0 +1,816 @@
+[
+    {
+        "type": "text",
+        "text": "融合地理社交和时间序列信息嵌入排名位置推荐模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张松慧1，熊汉江²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．武汉软件工程职业学院 计算机学院，武汉 430205;2.武汉大学 测绘遥感信息工程国家重点实验室，武汉 430079)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在基于社会化媒体的位置推荐中，建模用户签到的位置序列建模十分必要。然而，已有的相关算法大多都忽略了这样一个事实，即不同日子的签到序列表现出了不同的时间特征。为解决上述问题，提出一个地理社交时间序列嵌入排名（GSTSER）模型用于基于社会化媒体的位置推荐。该统一模型中的时间位置嵌入模型用于捕获序列中的上下签到信息以及不同日子的各种时间特征；同时，也提出了一种新的方法，根据地理-社交信息区分未访问的位置，将地理一社交影响纳入成对偏好排序方法。最后，基于一个统一的框架来结合这两种模型用于推荐位置。为了验证提出方法的有效性，在两个真实的数据集实验结果表明，GSTSER模型优于主流先进位置推荐算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：嵌入排名；序列建模；地理-社交影响；兴趣点推荐中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.02.0146",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GSTSER: geo-social-temporal sequential embedding rank for point-of-interest recommendation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Songhui', Xiong Hanjiang² (1.SchoolofComputer,Wuhan VcationalCollgeofSoftware&Engineering,Wuhan430O5,China;2.StateKeyLaboratory ofInformation Engineering in Surveying,Mapping &Remote Sensingof Wuhan University,Wuhan 43o079,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Insocialmedia-bsed locationrecommendation,itisecessrytomodelthe location squences ofuser'scheck-in. Theexistingrecommendationalgorithms always ignore thefactthat thecheck-insequencesondiferent days show diferent timecharacteristics.Inorder tosolvetheabove problem,inspiredbythesequencecontextsuccessfullymodeledbytheword2vec framework,thispaperproposeda Geo-Social-Temporal-SequentialEmbedingRanking(GSTSER)model forPoint-of-Interest recommendation.InGSTSER model,thetime-location embedding model is used tocapture the check-in information in the sequence as wellas various timecharacteristics of diferent days.In the meantime,this paper also presents anew methodof distinguishingunvisitedlocations basedongeo-socialinformation,which incorporates theeffectsof geo-socialintoapairwise preferenceranking model.Finaly,the two modelsarecombined torecommend locations based ona unified framework. Evaluationontwopubliclydatasets shows thatour model performs significantlybeterthanthe state-of-the-art algorithms for social media-based location recommendation task. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: embedding ranking; sequential model; geo-social information; point-of-interest recommendation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社会化媒体中位置感知服务的成功开发，如基于位置的社交网络（LBSN)，已经改变了人们的生活。例如，截至2015年12月，著名的位置社交网络Foursquare 报告了超过5500万用户关于6500万个兴趣点（POI）的80亿次签到。随着基于位置社交网络的繁荣，兴趣点推荐应运而生，它帮助用户探索新的地方以改善用户体验，挖掘用户的签到序列，并推荐给用户那些没有去过的位置。兴趣点推荐成为了基于位置社交网络的重要特征。给企业和服务提供商带来了巨大商机，他们可以通过POI推荐更方便地向目标客户发布广告，进行精准营销。因此，POI推荐的商业价值也引起了工业界和学术界的普遍关注，并且已经在研究领域内提出了一系列的方法来提高POI推荐的性能[1,2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "POI 的推荐是一个时间感知的任务[3.4]。用户对兴趣点的需求和偏好通常会随时变化，通过捕捉用户的动态需求和不断变化的偏好，可以很方便地在正确的时间里提供精准的POI推荐。近年来，从人类位置移动规律和轨迹上观察到，人类运动位置特征呈现序列化特点。文献[6]中对三个公开的现实世界数据集Foursquare，Gowalla和Brightkite进行了分析，计算出用户在访问给定空间位置之后，立即访问下一个空间位置的概率。结果表明，用户访问的每一个空间位置之间都存在潜在的序列模式，这种位置序列化特征受综合因素影响，但与时间因素的关联最为密切。人们在一天中不同的时刻，会按照时间序列去到不同的地理位置从事有规律的活动。例如，人们常常偏好在就餐之前到健身房签到，而不是按相反的签到序列，因为就餐后剧烈的身体锻炼不利于身体的健康。不容忽视的是，人类活动偏好与位置类型之间有一致性的关系。所以，利用位置签到建模位置序列与时间信息对于提高LBSN中的POI推荐性能十分必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有兴趣点推荐研究主要利用马尔可夫链模型、递归神经网络和word2vec 框架等方法来建模签到序列。如文献[7,8,9]的研究利用马尔可夫链模型来捕捉连续签到的传递模式。最近，在深度学习的成功启发下，神经网络技术也已经被用来建模签到序列，Liu等人[10]就是采用循环神经网络（RNN）发现了签到位置的序列规律，而文献[11]所做的工作则是通过word2vec框架对签到序列进行建模来捕获位置序列的上下文信息。不管是何种方法，可以观察到的是在不同时间的签到位置上，序列信息都表现出各种时间特征[12]。例如，用户在工作日期间往往偏好在办公室周围的POI签到，周末时间则往往偏好在繁华商圈附近的POI进行签到。但是，上述方法模型都忽略了这些时间特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9223568ed84e2853690df3fd1228d9f7a66bb1c27308a53f6a596da6586bc87a.jpg",
+        "img_caption": [
+            "图1 GSTSER模型框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "受word2vec 框架成功模拟顺序上下文的启发，在文献[11]中，所有POI都被建立为“语料库”，每个POI被视为一个“单词”，用户的所有连续签到被视为一个“句子”。然后，word2vec框架[13]用于学习POI嵌入，它包含了连续访问的POI的上下文关系。然而，基于上述框架学习POI嵌入模式捕获签到位置序列上下文并没有包含不同日子的各种时间特征。同时地理-社交影响作为POI推荐的最重要因素[14,15]之一也没有体现在最终的推荐模型中。因此，在本文中，地理-社交影响也被纳入统一推荐模型中用于提高兴趣点推荐的性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文提出了一个用于位置推荐的统一地理社交时间序列嵌入排名（GSTSER）模型，模型框架如图1所示。一方面，本文提出了一个时间POI嵌入模型来捕获上下文检查信息和各种时间特征另一方面，本文创新性的将地理-社交影响力纳入一个成对偏好排序模型，并建立了一个地理-社交上分层成对偏好排序模型。相关文献[16,17]表明用户更偏好在地理位置上与他们所访问的兴趣点相邻的POI签到，同时用户也更容易访问朋友推荐的位置，这种混合特征验证了通过分层次的偏好关系来提升成对排序模型的可靠性，从而区分未访问POI的地理信息。最后，本文提出GSTSER模型，即基于一个统一的框架结合时间POI嵌入模型和地理-社交上分层的两两排序模型进行推荐POI。本文贡献如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)本文提出时间POI嵌入模型，它捕获签到的顺序上下文和不同日子的各种时间特征。具体来说，本文引入word2vec 框架来将每个POI作为一个对象嵌入到一个嵌入空间中，以便学习POI之间的顺序关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)本文提出方法，即创新性的根据地理-社交信息区分未访问的POI，将地理-社交影响纳入成对偏好排序方法。具体来说，为每个用户签到定义一个分层的成对偏好关系：相对比未访问的邻近POI，用户偏好访问的POI，并且用户偏好未访问的邻近POI而不是偏好未访问的非邻近POI，同时用户也更喜欢访问朋友们推荐的位置。然后，学习分层配对偏好来捕捉地理影响、社交影响和用户偏好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)本文提出GSTSER模型基于一个统一框架，结合了时间POI嵌入模型和地理-社交分层次的成对偏好排序模型。两个实际数据集上的实验结果表明，GSTSER 模型的性能优于主流先进推荐模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1POI推荐 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "POI推荐最近引起了学术界的广泛关注。大多数提出的方法基于协同过滤(CF)技术来学习POI上的用户偏好。一方面，文献[18,19]的研究采用基于内存的协同过滤算法来推荐兴趣点。即首先发现一些用户与目标用户相似的签到偏好，然后推荐与目标用户“相似”签到行为的用户。此外，研究人员试图分析用户的签到行为，并纳入地理、社交、空间和时间等上下文信息的影响，以提高推荐性能。另一方面，在文献[15,16,20]中的一些其他研究利用基于模型的协同过滤算法，即矩阵分解(MF)技术。他们将POI视为“项目”，签到频率视为“评级”，基于经典MF 模型建立用户-兴趣点矩阵来推荐POI。而且，文献[16,20]中的研究人员观察到，最好将签到作为隐式反馈而不是显式的方式，即签到类似于点击网页而不是评级。他们利用加权正则化MF[21]来模拟这种隐式反馈。另外，最近在文献[22,23]中的工作采用了成对排名模型来学习用户签到作为隐式反馈，并显示了排名方法的优点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2社会影响建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用户之间的社会联系也被广泛使用，以提高基于位置的推荐系统的性能，因为相比陌生人，社交朋友更容易在POI上分享共同兴趣。目前，大多数工作从用户之间的社会联系获得相似性，并把它们整合到传统的基于模型或者基于内存的协同过滤模型。例如，一些文献[24,25]的工作则基于协同过滤模型无缝集成用户相似性，而其他一些工作[26,27]将用户相似性建模作为最终潜在因子模型的正则项或权重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3地理影响建模",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地理影响在POI推荐中起着重要的作用。首先，有些研究人员在分析签到的POI之间的地理关系后发现LBSN中每对访问POI的距离大多遵循幂律分布。然后，他们提出基于幂律分布模型来拟合POI之间的空间关系，并根据这种地理影响推荐POIs[18,19]。此外，有些研究人员分析每个用户的签到后，则提出基于高斯分布的模型来捕捉地理影响[3,26]。最近，Zhang 等人则利用核密度估计的方法来对每个用户的签到进行个性化建模[28,29]。同时，越来越多的研究者试图将地理影响和其他因素如用户偏好和时间影响联合起来，而不是独立地模拟地理影响。与文献[16,20]工作类似，本文也将签到行为建模为一种隐式反馈。鉴于贝叶斯排名技术[30]在文献[22]中取得了成功，本文也采用这种方法学习相关的表示。为此，本文提出了一个地理-社交上分层的成对排名模型，即通过根据地理-社交信息区分未访问的POI。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4序列建模 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "建模签到位置的序列对POI推荐很重要。大多数的研究签到位置序列建模过程中使用一阶马尔可夫链模型。提出了基于最近签到的情况下进行POI推荐，试图建模用户的签到位置序列[7,31]。Zhang 等人[9]则通过多阶马尔可夫链模型来学习传递概率从而推荐POI。最近，随着深度学习技术在人工智能领域的成功应用，神经网络技术业已被用来建模签到序列。Liu等人[10]采用循环神经网络（RNN）来建模POI之间的序列相关性。而且，在工作[6,32]也验证了建模用户签到位置的序列，可以有效提高POI推荐性能。然而，已有的序列建模中大多忽略了各种时间特征。因此，本文提出了一种基于word2vec框架的时间POI嵌入建模方法来捕获在不同时间状态下POI序列的相关性",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5嵌入学习 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "word2vec框架[13]是Mikolov等人提出的一个高级神经语言模型，用于学习单词序列的嵌入表示。关键的思想是把句子当作词袋来学习，代表嵌入子空间中词的关系，如“male”-“female+“queen” $\\ O =$ “king\"。word2vec 框架中的嵌入式学习技术试图捕捉单词在句子中的上下文相关性，从而实现比句子中的单词传递性和词相似性更好的表现。因此，嵌入式学习技术最近在自然语言处理中得到了广泛的应用[32.33]。然后，其他研究人员也相继提出了paragraph2vector[11]和其他变体[15,19]来增强word2vec框架。由于上述框架在捕获项目的上下文相关性方面的有效性，基于word2vec 框架的嵌入技术逐渐被用于网络嵌入[34]以及用户建模[35]和项目建模[36]。为了将POI推荐与嵌入学习相结合，Liu等人通过Skip-Gram模型对序列上下文进行建模，并获得比Markov 链模型更好的性能[]。Xie 等人[37]使用类似的嵌入技术来推荐兴趣点。然而，相关工作[11.37]忽略了几个重要的因素考虑到签到活动，各种时间特征、社交影响和地理影响。为了结合这几个因素，本文提出了GSTSER模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 GSTSER模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 时间-POI嵌入",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节提出了一个时间POI嵌入方法来学习序列模式，具体来说，首先按照时间顺序对每个用户的访问位置进行排序，将每个位置视为一个单词，并将每个用户的访问位置视为一个句子，以便最终集合成一个表示为句子集合的文档，表示所有用户的访问位置。所有独特位置的集合用作位置词汇表。然后，应用Skip-gram模型来学习每个单词（即每个位置）的潜在呈现。基本上，通过结合每个位置的上下文的影响（即，在位置之前或之后访问的一组位置）来了解位置的潜在表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从用户签到序列，以及各种时间特征捕获POI的上下文信息。与将用户的所有签到视为“句子”[I]不同，本文将用户签到的某一天视为“句子”。因为不同日子的连续签到可能会很长时间，并且不会高度相关。此外，假设不同日子的签到顺序表现出不同的时间特征。然后，学习POI嵌入在一个具有特定时间状态的序列。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了更好地描述模型，首先提出了一些基本的概念如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义1签到。将签到定义为一个三元组，描绘了用户在时间 $t$ 访问 $\\mathrm { P O I } l$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义2签到序列。签到位置顺序是一天中用户 $u$ 的一组签到位置，表示为 $C _ { s } = \\left\\{ \\left( l _ { 1 } , t _ { 1 } \\right) , . . . , \\left( l _ { n } , t _ { n } \\right) \\right\\}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义3 目标POI和上下文POI。在序列Cs中，选择的$l _ { i }$ 是目标POI， $C _ { s }$ 中的其他 POI 是上下文 POI。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/91ad9933b8b752a05d912cc5f8fa1d7ead99fd3574824bdfa7f51d4f7e72ee13.jpg",
+        "img_caption": [
+            "图2时间-POI嵌入模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于，对于每个位置 $l \\in L _ { \\mathfrak { u } }$ ，及其上下文 $C ( l )$ ，Skip-gram模型的目的是最大化以下位置语料库概率：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\arg \\operatorname* { m a x } \\prod _ { l \\in L } \\left[ \\prod _ { l _ { c } \\in C \\left( l \\right) } p \\left( l _ { c } \\mid l \\right) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $p \\big ( l _ { c } \\big | l \\big )$ 是使用 softmax 函数估计，得到如下公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np \\left( l _ { c } \\mid l \\right) = \\frac { \\exp \\left( \\nu _ { c } ^ { T } \\nu _ { l } \\right) } { \\sum _ { x \\in L } \\exp \\left( \\nu _ { x } ^ { T } \\nu _ { l } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\nu _ { l } \\in R ^ { k _ { d } \\times l }$ 和 $\\nu _ { c } \\in R ^ { k _ { d } \\times l }$ 分别是目标位置 $l$ 和对应的上下文位置 $l _ { c }$ 的潜在表示。 $k _ { d }$ 是潜在空间的维度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，与文献[11]类似，基于word2veck框架，本文提出了基于 Skip-Gram 模型的时间POI嵌入模型。如图2所示，学习基于给定目标POI $l _ { i }$ 和序列时间状态 $t _ { s }$ 的 $l _ { i - k }$ 到 $l _ { i + k }$ 的上下文POI的表示。其中 $k$ 是控制上下文窗口大小的参数。另外，时间状态 $t _ { s }$ 由周中和周末两个选项组成。因为本文要区分星期几和周末，它们描述了如图3所示的一天中的各种时间特征。形式上，给定一个位置序列 $C _ { s }$ 及其时态 $t _ { s }$ ，本文提出的模型则通过最大化以下函数来学习时间POI嵌入：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { T P E } = \\sum _ { C _ { u } \\in C } \\frac { 1 } { \\left| C _ { u } \\right| } \\sum _ { l _ { i } \\in C s } \\sum _ { k \\le c \\le k } \\left( \\log P _ { r } \\left( l _ { i + c } \\left| l _ { i } , t _ { s } \\right. \\right) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：C是包含所有用户的所有序列 $C _ { s }$ 的集合。 $H _ { \\mathit { T P E } }$ 为旨在最大化所有序列的上下文POI的条件发生可能性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，本文使用softmax函数来制定概率 $P _ { r } \\left( l _ { i + c } \\ | { l } _ { i } , { t } _ { s } \\right)$ 。为了更好地描述，本文引入了两个符号，定义如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { q } _ { c } ^ { ' } = q _ { c } ^ { ' } \\oplus q _ { c } ^ { ' }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { q } _ { i } ^ { t } = q _ { i } \\oplus q _ { s } ^ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\oplus$ 是连接算子， $q _ { c } ^ { ' } \\cdot q _ { i }$ 和 $q _ { s } ^ { t }$ 分别是输出层上下文POI,目标POI和时间状态的潜在向量。于是，可以得到如下公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { q } _ { c } ^ { ' } \\cdot \\hat { q } _ { i } ^ { t } = q _ { c } ^ { ' } \\cdot q _ { i } \\oplus q _ { c } ^ { ' } \\cdot q _ { s } ^ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，概率 $P _ { r } \\left( l _ { i + c } \\left| l _ { i } , t _ { s } \\right. \\right)$ 计算如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { r } ( l _ { i + c } \\mid l _ { i } , t _ { s } ) = \\frac { \\exp \\left( \\hat { q } _ { c } ^ { ' } \\cdot q _ { i } ^ { t } \\right) } { \\sum _ { l _ { i } \\in L } \\exp \\left( \\hat { q } _ { c } ^ { ' } \\cdot q _ { i } ^ { t } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于 $L _ { \\phantom { } _ { u } }$ 的大小很大，从而直接优化上述公式通常不可行。本文利用负采样技术[13]学习模型，从而提高优化效率。那么，目标函数可以用一种新的形式来表达，得到如下公式。对于每个位置 $l$ 和一组没有出现在位置 $l$ 的上下文 $C ( l )$ 中的 $k$ 个位置进行采样。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { T P E } = \\arg \\operatorname* { m a x } _ { C _ { u } \\in C } \\frac { 1 } { | C _ { u } | } { \\sum _ { l _ { i } \\in C \\delta - k \\le c \\le k , c \\neq 0 } } \\left( \\log \\sigma \\big ( \\hat { q _ { c } } \\cdot q _ { i } ^ { t } \\big ) + \\sum _ { n } M _ { l _ { \\cdot } } \\log \\sigma \\big ( - \\hat { q _ { c } } \\cdot q _ { i } ^ { t } \\big ) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $l _ { \\mathbf { \\Phi } _ { m ^ { ' } } }$ 是取样的负POI, $n$ 是负样本的数量， $\\sigma ( \\cdot )$ 是 sigmoid函数， $M \\left( \\cdot \\right)$ 表示计算所有生成的负样本的期望值。这里，与文献[37]类似，本文也采用文献[13]中的相同策略，使用单字符分布来绘制负样本。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2地理-社交分层排序模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出了地理上分层的两两偏好排序模型，它将地理-社交影响结合到成对排序模型中。签到活动被观察为一种类似于网页点击的隐式反馈[16.20]。为了学习这种隐式反馈，本文利用贝叶斯个性化排名（BPR）标准[30]来学习POI上的用户偏好。在地理-社交分层两两排序模型中，POI的地理信息和用户的朋友信息被用来区分未访问的POI。在本文中，如果观察到用户$\\nu$ 对兴趣点 $l _ { e }$ 的签到行为，则将用户-兴趣点 $\\left( u , l _ { e } \\right)$ 对的集合定义为正反馈，表示为 ${ \\cal L } _ { u } ^ { + } = \\left\\{ \\left( u , l _ { e } \\right) \\right\\}$ 。与Rendle 等人在文献[30]中提出的负反馈定义不同，本文通过利用兴趣点邻居信息和用户社交关系引入新的反馈。具体而言，兴趣点地理网络 $G = { \\left( L , F \\right) }$ 其中 $\\left( l _ { e } , l _ { g } \\right) \\in F$ 表示兴趣点 $l _ { e }$ 和 $l _ { g }$ 是地理邻居；用户社交网络$S = \\left( U , E \\right)$ ，其中 $\\left( u , \\nu \\right) \\in E$ 表示用户 $u$ 和用户 $\\nu$ 之间存在链接，则2人属于好友。如果兴趣点 $l _ { e }$ 和 $l _ { g }$ 是地理邻居，而兴趣点 $l _ { g }$ 未被用户 $u$ 签到，那么 $\\left( u , l _ { g } \\right)$ 对的集合被定义为地理反馈，表示为 $L _ { u , l _ { e } } ^ { l _ { g } } = \\left\\{ \\left( u , l _ { g } \\right) \\right\\}$ 。如果 $\\left( u , l _ { g } \\right)$ 对集合中的兴趣点 $l _ { k }$ 至少被一个用户好友 $u$ 签到，那么 $\\left( u , l _ { k } \\right)$ 对的集合被定义为地理-社交反馈，表示为 $L _ { u , l _ { e } } ^ { l _ { k } } = \\big \\{ \\big ( \\boldsymbol { u } , l _ { k } \\big ) \\big \\}$ 。因此，对于那些既没有被用户 $u$ 签到也不是所有签到兴趣点的地理邻居且没有被用户好友签到过的兴趣点 $l _ { \\scriptscriptstyle w }$ ，本文将 $\\left( u , l _ { \\scriptscriptstyle w } \\right)$ 对的集合定义为负反馈，表示为 $L _ { \\nu } ^ { - } = \\left\\{ \\left( u , l _ { \\nu } \\right) \\right\\}$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义4 $\\hat { r } _ { u , l _ { i } }$ 表示用户 $u$ 对兴趣点 $l _ { i }$ 的偏好， $\\hat { r } _ { u , l _ { g } }$ 表示用户 $u$ 对于兴趣点 $l _ { g }$ 的偏好， $\\hat { r } _ { u , l _ { i } } \\succ \\hat { r } _ { u , l _ { g } }$ 表示用户 $u$ 偏好兴趣点$l _ { i }$ 胜过兴趣点 $l _ { g }$ ，其中可以观察到 $\\left( u , l _ { i } \\right)$ 对，但无法观察到$\\left( u , l _ { g } \\right)$ 对，而 $l _ { g }$ 是 $l _ { i }$ 的地理邻居；此外， $\\hat { r } _ { u , l _ { w } }$ 表示用户 $u$ 对于兴趣点 $l _ { \\ d _ { w } }$ 的偏好， $\\hat { r } _ { u , l _ { g } } \\succ \\hat { r } _ { u , l _ { w } }$ 表示用户 $u$ 偏好兴趣点 $l _ { g }$ 胜过兴趣点 $l _ { \\scriptscriptstyle w }$ ，条件是无法观测到 $\\left( u , l _ { w } \\right)$ ，并且 $l _ { \\ d _ { w } }$ 不是所有签到过兴趣点的一个地理邻居。基于文献[38]的启发，得到如下公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { r } _ { u , l _ { i } } \\succ \\hat { r } _ { u , l _ { g } } \\land \\hat { r } _ { u , l _ { g } } \\succ \\hat { r } _ { u , l _ { w } } , l _ { e } \\in L _ { \\nu } ^ { + } , l _ { w } \\in L _ { \\nu } ^ { - }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定义5在定义4的基础上，进一步引入用户社交信息，好友的兴趣也为推荐提供了重要参考和线索。显然，在兴趣点$l$ 的地理邻居 $l _ { g }$ 中，用户更加偏好那些他们好友签到过的兴趣点 $s$ 。因此，相对比那些距离用户较远且没有被用户签到的兴趣点，用户更加偏好已经签到兴趣点附近且还没有被签到的兴趣点。相对比那些在用户已经签到过兴趣点附近且还没有被用户签到的兴趣点中，用户更加偏好受到用户好友签到的兴趣点。因此，基于上述公式，得到如下公式定义成对偏好：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { r } _ { u , l _ { i } } \\succ \\hat { r } _ { u , l _ { s } } \\land \\hat { r } _ { u , l _ { s } } \\succ \\hat { r } _ { u , l _ { g } } \\land \\hat { r } _ { u , l _ { g } } \\succ \\hat { r } _ { u , l _ { w } } , l _ { e } \\in L _ { \\nu } ^ { + } , l _ { w } \\in L _ { \\nu } ^ { - }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，学习地理一社交上分层的两两排序模型就相当于模拟训练集Dc中的偏好关系。这里本文采用用矩阵分解模型来制定偏好分数函数。本文用 $q _ { i } ^ { t } = q _ { i } \\oplus q _ { s } ^ { t }$ 来表示时间-POI潜在向量，这与时间 POI嵌入模型一致。此外，定义 $\\hat { q } _ { u } = q _ { u } \\oplus q _ { u }$ 来表示用户潜在向量，则目标评分函数 $f$ 可以表示为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( \\boldsymbol { u } , t _ { s } , l _ { i } \\right) = \\boldsymbol { \\hat { q } } _ { \\boldsymbol { u } } \\cdot \\boldsymbol { q } _ { l _ { i } ^ { t } } \\cdot \\boldsymbol { q } _ { l _ { g } } \\cdot \\boldsymbol { q } _ { l _ { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "接下来，本文使用 sigmoid 函数来制定成对的偏好概率。假设 $P _ { r } ( \\hat { r } _ { u , l _ { e } } \\succ \\hat { r } _ { u , l _ { s } } .$ )表示用户偏好POI $l _ { e }$ 的概率大于 $l _ { s }$ ，同时$\\sigma ( \\cdot )$ 是 sigmoid 函数。那么，根据定义5，基于每一点对，所有用户基于全部兴趣点偏好的概率可以表示为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { P _ { \\nu } ( \\hat { r } _ { a , \\nu } ^ { \\phantom { * } } \\succ \\hat { r } _ { a , \\nu } ^ { \\phantom { * } } \\wedge \\hat { r } _ { a , \\nu } ^ { \\phantom { * } } \\succ \\hat { r } _ { a , \\nu } ^ { \\phantom { * } } \\wedge \\hat { r } _ { a , \\nu } ^ { \\phantom { * } } \\succ \\hat { r } _ { a , \\nu } ^ { \\phantom { * } } ) = \\sigma \\big ( f \\left( u , t _ { a } ^ { \\phantom { * } } , t \\right) - f \\left( u , t _ { a } ^ { \\phantom { * } } , l _ { a } ^ { \\phantom { * } } \\right) \\big ) } \\\\ & { \\qquad \\quad + \\sigma \\big ( f \\left( u , t _ { a } ^ { \\phantom { * } } , l _ { a } ^ { \\phantom { * } } \\right) - f \\left( u , t _ { a } ^ { \\phantom { * } } , l _ { a } ^ { \\phantom { * } } \\right) \\big ) } \\\\ & { \\qquad \\quad + \\sigma \\big ( f \\left( u , t _ { a } ^ { \\phantom { * } } , l _ { a } ^ { \\phantom { * } } \\right) - f \\left( u , t _ { a } ^ { \\phantom { * } } , l _ { a } ^ { \\phantom { * } } \\right) \\big ) } \\\\ & { \\qquad = \\sigma \\big ( q _ { a } ^ { \\phantom { * } } \\cdot \\left( q _ { a } ^ { \\phantom { * } } , - q _ { a } ^ { \\phantom { * } } , \\right) \\big ) } \\\\ & { \\qquad \\quad + \\sigma \\big ( q _ { a } ^ { \\phantom { * } } \\cdot \\left( q _ { b } ^ { \\phantom { * } } - q _ { a } ^ { \\phantom { * } } , \\right) \\big ) } \\\\ & { \\qquad \\quad + \\sigma \\big ( q _ { a } ^ { \\phantom { * } } \\cdot \\left( q _ { b } ^ { \\phantom { * } } - q _ { a } ^ { \\phantom { * } } , \\right) \\big ) } \\\\ & { \\qquad \\quad + \\sigma \\big ( q _ { a } ^ { \\phantom { * } } \\cdot \\left( q _ { a } ^ { \\phantom { * } } - q _ { a } ^ { \\phantom { * } } , \\right) \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，学习地理-社交上分层的两两排序模型相当于使以下函数最大化，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\displaystyle H _ { G S P R } = \\sum _ { C _ { s } \\in C } \\displaystyle \\sum _ { ( u , l _ { s } , l _ { s } , l _ { s } , l _ { v } ) \\in D _ { c } } \\log \\sigma \\Big ( q _ { u } \\cdot \\big ( q _ { l _ { s } } - q _ { l _ { s } } \\big ) \\Big ) + } & { } \\\\ { \\displaystyle \\sum _ { C _ { s } \\in C } \\sum _ { ( u , l _ { s } , l _ { s } , l _ { v } , l _ { v } ) \\in D _ { c } } \\log \\sigma \\Big ( q _ { u } \\cdot \\big ( q _ { l _ { s } } - q _ { l _ { s } } \\big ) \\Big ) + } & { } \\\\ { \\displaystyle \\sum _ { C _ { s } \\in C } \\sum _ { ( u , l _ { s } , l _ { s } , l _ { s } , l _ { v } ) \\in D _ { c } } \\log \\sigma \\Big ( q _ { u } \\cdot \\big ( q _ { l _ { s } } - q _ { l _ { v } } \\big ) \\Big ) } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $C$ 是包含所有用户的所有序列 $C _ { s }$ 的集合， $D _ { c }$ 是序列$C _ { s }$ 上的分层成对偏好关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 GSTSER模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GSTSER 模型作为一个统一的框架来推荐结合时间嵌入模型和成对排序模型的 POI。学习GSTSER 模型相当于将 $H _ { \\mathit { T P E } }$ 和$H _ { _ { G S P R } }$ 最大化，得到如下公式：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = \\underset { U , L , T } { \\arg \\operatorname* { m a x } } \\left( \\theta \\cdot H _ { \\mathit { \\scriptscriptstyle T P E } } + \\rho \\cdot H _ { \\mathit { \\scriptscriptstyle G S P R } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\theta$ 和 $\\rho$ 是用来权衡序列建模和偏好学习模块2个超参数。通过学习GSTSER 模型中的时间 POI嵌入和地理上两两的偏好关系来获得用户，POI和时间状态表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用式（8）和（11）分别代替 $H _ { \\scriptscriptstyle T P E }$ 和 $H _ { _ { G S P R } }$ 。则可以通过以下目标函数学习GSTSER 模型，其中，正则化项 $\\lambda _ { \\Omega } \\left\\| \\Omega \\right\\| ^ { 2 }$ 用来避免学习过程中的过度拟合， $\\lambda _ { \\Omega }$ 是正则化参数。则基于公式",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（11）得到如下公式：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\underset { \\varepsilon , c , L , \\mathcal { L } } { \\bf { m a x } } \\underset { c , c ^ { \\prime } \\leq c _ { i _ { 1 } , \\varepsilon , t _ { i _ { 1 } } , t _ { i _ { 1 } } , c _ { i _ { 1 } , c _ { i _ { 1 } , c _ { i } } } } , \\varepsilon , c } \\bigg ( \\underset { - \\varepsilon \\leq c \\leq i _ { \\varepsilon - \\varepsilon , \\varepsilon , \\varepsilon } \\ L { m } } { \\sum } \\theta \\log \\sigma \\Big ( q _ { i _ { \\varepsilon } } \\cdot q _ { i _ { 1 } } \\Big ) + } & { } \\\\ & { \\underset { n _ { \\varepsilon } } { \\sum } \\theta M _ { \\varepsilon } \\log \\sigma \\Big ( - q _ { i _ { \\varepsilon } } \\cdot q _ { i _ { \\varepsilon } } \\Big ) + } \\\\ & { \\underset { \\varepsilon , \\rho } { \\sum } \\rho \\log \\Big ( \\sigma \\Big ( q _ { n } \\cdot \\big ( q _ { t _ { i } } - q _ { i _ { \\varepsilon } } \\Big ) \\Big ) \\Big ) + } \\\\ & { \\underset { \\varepsilon , \\varepsilon } { \\sum } \\rho \\log \\Big ( \\sigma \\Big ( q _ { n } \\cdot \\big ( q _ { t _ { i } } , - q _ { i _ { \\varepsilon } } \\Big ) \\Big ) \\Big ) + } & { ( } \\\\ & { \\underset { n _ { \\varepsilon } } { \\sum } \\rho \\log \\Big ( \\sigma \\Big ( q _ { n } \\cdot \\big ( q _ { i _ { \\varepsilon } } - q _ { i _ { \\varepsilon } } \\Big ) \\Big ) \\Big ) - \\lambda _ { \\Omega } \\big \\lVert \\mathbf { {0 } } \\big \\rVert ^ { 2 } \\Big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4模型推导 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文使用一个交替的迭代更新程序，并采用随机梯度下降（SGD）来学习目标函数。算法1给出学习过程。为了学习模型，对于每个采样训练实例，分别计算 $H _ { \\mathit { T P E } }$ 和 $H _ { \\mathrm { \\it G S P R } }$ 的梯度，然后沿着上升梯度方向更新相应的参数，其中：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega ^ { t + 1 } = \\Omega ^ { t } + \\eta \\times \\frac { \\partial O ( \\Omega ) } { \\partial \\Omega }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Omega$ 是训练参数， $\\eta$ 是学习率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "具体而言，首先计算 $H _ { \\mathit { T P E } }$ 的随机梯度下降。则得到上下文POI $l _ { c }$ 的更新规则,",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { q _ { l _ { i } } \\gets q _ { l _ { i } } + \\theta \\eta \\left( 1 - \\sigma \\left( \\hat { q } _ { l _ { i } } \\cdot \\hat { q } _ { l _ { i } ^ { \\prime } } \\right) \\right) q _ { l _ { i } ^ { \\prime } } } \\\\ { q _ { t _ { i } } \\gets q _ { t _ { i } } + \\theta \\eta \\left( 1 - \\sigma \\left( \\hat { q } _ { l _ { i } } \\cdot \\hat { q } _ { l _ { i } ^ { \\prime } } \\right) \\right) q _ { l _ { i } ^ { \\prime } } } \\\\ { q _ { l _ { i } ^ { \\prime } } \\gets q _ { l _ { i } ^ { \\prime } } + \\theta \\eta \\left( 1 - \\sigma \\left( \\hat { q } _ { l _ { i } } \\cdot \\hat { q } _ { l _ { i } ^ { \\prime } } \\right) \\right) \\left( q _ { l _ { i } } + q _ { t _ { i } } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "然后，更新负样本 $l _ { \\ d _ { m } }$ 得到如下公式：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { q _ { l _ { i } }  q _ { l _ { i } } - \\theta \\eta \\sigma \\big ( \\hat { q } _ { l _ { i } } ^ { \\cdot } \\cdot q _ { l _ { i } ^ { t } } \\big ) q _ { i _ { k } ^ { \\cdot } } ^ { \\cdot } } \\\\ & { q _ { t _ { i } }  q _ { t _ { i } } - \\theta \\eta \\sigma \\big ( \\hat { q } _ { l _ { k } ^ { \\cdot } } ^ { \\cdot } \\cdot q _ { l _ { i } ^ { t } } \\big ) q _ { l _ { k } ^ { \\cdot } } ^ { \\cdot } } \\\\ & { q _ { i _ { k } ^ { \\cdot } } ^ { \\cdot }  q _ { l _ { k } ^ { \\cdot } } ^ { \\cdot } - \\theta \\eta \\sigma \\big ( \\hat { q } _ { l _ { k } ^ { \\cdot } } ^ { \\cdot } \\cdot q _ { l _ { i } ^ { t } } \\big ) \\big ( q _ { l _ { i } } + q _ { t _ { i } } \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了更新 $H _ { _ { G S P R } }$ ，则计算基于每个偏好对的随机下降梯度。其中：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\varpi = 1 - \\sigma \\Big ( q _ { u } \\cdot q _ { l _ { e } } - q _ { u } \\cdot q _ { l _ { s } } \\Big ) } \\\\ { \\qquad } \\\\ { \\xi = 1 - \\sigma \\Big ( q _ { u } \\cdot q _ { l _ { s } } - q _ { u } \\cdot q _ { l _ { s } } \\Big ) } \\\\ { \\qquad \\gamma = 1 - \\sigma \\Big ( q _ { u } \\cdot q _ { l _ { s } } - q _ { u } \\cdot q _ { l _ { w } } \\Big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同时，更新参数如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { q _ { u } \\gets q _ { u } + \\rho \\eta \\varpi \\big ( q _ { l _ { s } } - q _ { i _ { s } } \\big ) + } \\\\ & { \\qquad \\rho \\eta \\xi \\Big ( q _ { i _ { s } } - q _ { i _ { s } } \\Big ) + \\rho \\eta \\gamma \\Big ( q _ { l _ { s } } - q _ { i _ { s } } \\Big ) } \\\\ & { q _ { l _ { s } } \\gets q _ { i _ { s } } + \\rho \\eta \\varpi q _ { u } } \\\\ & { q _ { l _ { s } } \\gets q _ { i _ { s } } + \\rho \\eta \\big ( \\xi - \\varpi \\big ) q _ { u } } \\\\ & { q _ { l _ { s } } \\gets q _ { i _ { s } } + \\rho \\eta \\big ( \\gamma - \\xi \\big ) q _ { u } } \\\\ & { q _ { i _ { s } } \\gets q _ { i _ { s } } - \\rho \\eta \\gamma q _ { u } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "算法1 GSTSER 模型的学习算法",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "输入： $C$ （204号输出： $U , L , T$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.随机初始化 $U , L , T$ 和",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.for迭代do  \n3. for $C _ { s } \\in C$ do  \n4. for $\\left. u , l _ { e } \\right. \\in C _ { s }$ do  \n5.for每个 $\\mathrm { P O I } l _ { c }$ 的上下文do  \n6.得到公式(17);  \n7. for $\\boldsymbol { m } ^ { \\cdot } \\sim P _ { r } \\left( l _ { i + c } \\left| l _ { i } , t _ { s } \\right. \\right)$ do  \n8.得到式(18)  \n9.end for  \n10.end for  \n11．统一采样未访问 $m$ 个的POI  \n12. for $\\left( u , l _ { i } , l _ { e } , l _ { s } , l _ { g } , l _ { w } { \\in } \\boldsymbol { D } _ { \\boldsymbol { c } } \\right) \\mathrm { d o }$ （204号  \n13.得到公式(22)  \n14.end for  \n15.end for  \n16.end for  \n17.end for",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "算法1显示了学习GSTSER模型的细节。 $C$ 是所有序列的集合， $C _ { s }$ 是用户 $u$ 的签到位置序列。 ${ \\cal U } , { \\cal L }$ 和 $T$ 是用户的特征矩阵、POI和时间状态。 $\\Theta$ 是辅助学习参数，是 Skip-Gram 模型中的输出层POI矩阵。接下来，本文利用Bootstrap 抽样来生成 $m$ 个未访问的POI，然后将未访问的POI进行分类，分为相邻兴趣点和非相邻兴趣点，根据这两种 POI与访问的 POI $l _ { i }$ 的距离。在学习GSTSER 模型之后，得到用户，POI和时间的潜在特征表示。然后，可以根据偏好分数函数来估计在时间状态 $t _ { s }$ 下候选POI $l$ 的用户 $u$ 的签到可能性。最后，对候选POI进行排名，并为每个用户选择具有最高估计可能性值的 top-N个POI。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于一个位置签到，学习时间嵌入模型的时间耗费为$O \\big ( k _ { 1 } \\cdot k _ { 2 } \\cdot k _ { d } \\big )$ ，其中 $k _ { \\mathrm { 1 } }$ ， $k _ { 2 }$ 和 $k _ { d }$ 分别表示上下文窗口大小，负样本数量和潜在向量维度，它们都是固定的超参数。对于算法1中 $m$ 个未访问的POI进行采样,这可以产生最大的 $O \\left( m ^ { 2 } \\right)$ 个成对偏好元组。对于每次签到位置，学习过程的耗费为$O \\big ( m ^ { 2 } \\cdot k _ { d } \\big )$ 。因此，本文模型的复杂性是$O \\Big ( \\big ( \\boldsymbol { k } _ { 1 } \\cdot \\boldsymbol { k } _ { 2 } + \\boldsymbol { m } ^ { 2 } \\big ) \\cdot \\boldsymbol { k } _ { d } \\cdot \\big | C \\big | \\Big )$ ，其中 $C$ 是所有签到序列的集合。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文所提出GSTSER算法的性能，本节主要展示在真实数据集下该算法与其他相关算法的实验结果。首先介绍",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验采用了数据集和评价方法，然后设计了多组实验从不同的角度对比分析了本文算法的性能情况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1实验数据集",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文选择2个公开数据集：Foursquare[39]和Gowalla[3]，验证本文提出推荐算法的性能。2个数据集所有的签到数据都是分布在世界各地。在Foursquare 数据集中，时间范围是从2011年1月——2011年7月。在Gowalla数据集中，时间范围是从2009年2月一一2010年10月。本文清洗较少发生的数据，在2个数据集中，本文过滤掉少于10次签到的用户，并要求每个POI应该被至少访问过10 次。因此，一个用户应该至少访问5个不同的POIs。在本文的实验中，随机选择数据集的 $20 \\%$ 作为测试数据集，其余 $80 \\%$ 的数据集作为训练数据集。数据集的统计信息如表1所示。如同表1中所观察，两个数据集的用户兴趣点矩阵密度分别为 $2 . 3 \\times 1 0 ^ { - 4 }$ 和 $1 2 . 9 \\times 1 0 ^ { - 5 }$ 。显然，两个数据集都非常稀疏，",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/649cbac68a1b9e7bef1f60dc73cea1818e336d83e55d49075cad715c67a7f54e.jpg",
+        "table_caption": [
+            "表1实验数据集统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Foursquare</td><td>Gowalla</td></tr><tr><td>用户数量</td><td>11,326</td><td>196,591</td></tr><tr><td>兴趣点数量</td><td>182,968</td><td>1,280,969</td></tr><tr><td>签到位置数量</td><td>1,385,223</td><td>35989</td></tr><tr><td>社交关系数量</td><td>47,164</td><td>950,327</td></tr><tr><td>用户-POI矩阵密度</td><td>2.3×10-4</td><td>2.9×10-5</td></tr><tr><td>时间间隔</td><td>01/2011-07/2011</td><td>02/2009-10/2010</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2评估指标",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在这一节中，本文通过精确度和召回率来比较模型的性能，这是通常用来评估一个兴趣点推荐系统的2个重要评估指标。本文中，分别表示精度和召回率分别表示为 $P \\ @ N$ 和 $R \\ @ N$ 。其中， $L _ { \\nu i s i t e d }$ 表示测试数据中对应的签到POI的集合，并且 $L _ { r e c }$ 表示推荐POI的集合， $P \\ @ N$ 和 $R @ N$ 的定义如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP @ N = { \\frac { 1 } { | U | } } \\sum _ { u \\in U } { \\frac { \\left| L _ { v i s i t e d } \\cap L _ { r e c } \\right| } { N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR @ N = \\frac { 1 } { | U | } \\sum _ { u \\in U } \\frac { \\big | L _ { v i s t e d } \\cap L _ { r e c } \\big | } { \\big | L _ { v i s t e d } \\big | }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验方案设计",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了全面的测试本文提出算法的性能，本文的实验设计从3个不同的角度对算法进行测试，以验证文中算法的有效性：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a）将GSTSER模型与5个主流先进兴趣点推荐算法进行对比，从而验证本文算法的有效性和先进性；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "b）基于提出的模型组件对于推荐系统评估指标的贡献；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "c）讨论了相关参数对于最终推荐性能的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先，与文献[16,20]一样，本文将签到作为隐式反馈来处理用户偏好。因此，将本文提出的模型与WRMF[40]和BPRMF[30]进行比较，这2个都是用于捕获隐式反馈的主流先进协同过滤模型。同时，为了说明本文模型的有效性，将其与四种最先进的POI推荐方法进行比较：LRT[41]，LORE[9]，Rank-GeoFM[42]和 SG-CWARP[11]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BPRMF[30]：贝叶斯个性化排名矩阵分解（BPRMF）是一种流行的成对排序方法，对隐式反馈数据进行建模以推荐前N项。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WRMF[40]：加权正则矩阵分解（WRMF）模型是针对隐式反馈排序问题而设计的。参照文献[20]中的参数设置，本文则设置用户 $u$ 在POI $l _ { c }$ 处的权重映射函数为 $w = \\big ( 1 + 1 0 \\cdot \\xi \\big ) \\cdot 0 . 5$ 其中 $\\xi$ 为用户签到次数。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LRT[4I]：具有时间效应模型（LRT）的位置推荐框架主要是建模了POI推荐中的时间效应用于推荐。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LORE[9]：LORE模型利用序列影响进行位置推荐，它采用了基于整个位置签到序列建模的多阶马尔科夫链模型。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rank-GeoFM[42]:Rank-GeoFM是一种基于排序的地理图模型，它基于潜在排序模型将地理和时间影响结合起来。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SG-CWARP[11]：SG-CWARP模型则利用word2vec 框架为连续上下文的签到行为进行建模。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4 实验结果分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在下文中，本文展示关于相关模型对比的实验结果。由于模型比较结果基于N的不同取值（例如 $N = 1 , 5 , 1 0 , 2 0$ ）的展示的对比趋势几乎一致，因此，本文只展示 $N = 5$ 和 $N = 1 0$ 作为代表性的结果进行分析。所有模型在适当的参数设置下达到最佳性能。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "0.20 0.30 BPRMF WRMF LRT LORE BPRMF WRMF ILRT ILORE Rank-GeoFM SG-CWARP GSTSER Rank-GeoFM SG-CWARP GSTSER 0.25 0.15 0.20 0.10 0.15 正 1 山 0.10 0.05 0.05 0.00 0.00 P@5 P@10 R@5 R@10 (a)准确率-Foursquare (b)召回率-Foursquare   \n0.30 0.20 BPRMF WRMF LRT LORE BPRMF WRMF LRT LORE Rank -G eoFm SG-CWARP GSTSER Rank-GeoFM SG-CWARP GSTSER   \n0.25 0.15   \n0.20   \n0.15 1 0.10   \n0.10 d [l 0.05   \n0.05   \n0.00 0.00 P@5 P@10 R@5 R@10 (a)准确率-Gowalla (b)召回率-Gowalla ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图3显示了不同模型对比的实验结果。显而易见，GSTSER模型比上述所有的主流先进模型都能获得更好的性能。与包含地理影响和时间影响的最先进模型Rank-GeoFM相比，GSTSER模型在所有度量标准的两个数据集上都实现了一定程度的提升。这验证了本文的基于序列建模思想的有效性，以及合并各种时间特征和地理影响的方法的有效性。SG-CWARP作为对比模型体现了比通过马尔可夫链模型（即LORE模型）的性能提升，也验证了通过Skip-Gram模型对序列模式进行建模的优势。本文提出的GSTSER模型在所有度量标准的数据集上都优于SG-CWARP，验证了采用各种时间特征和地理影响来提高POI推荐的策略的正确性。另外，本文观察到GSTSER 模型在Gowalla比Foursquare 准确率更好，召回率差。原因在于Gowalla数据集中的测试数据密集度都大于Foursquare 数据集。如表1所示，Gowalla中每个用户的平均签到次数约为Foursquare的两倍。同时，给用户推荐更多的兴趣点有助于用户发现更多的兴趣点，这样会促进用户更愿意进行兴趣点的签到。因此，随着兴趣点个数的增加，而使得准确率不断下降和召回率不断上升。因此，结果是合理的，这也于文献[22,29]结论一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4.2模型组件分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在本节中对GSTSER模型中几个组件的作用进行了探讨。在最终的式（15）中忽略时间-POI之间相互作用的建模和地理-社交之间相互作用的建模，得到仅仅依靠用户历史签到信息建模用户偏好的模型SG-BPRMF模型。其次，在最终的式（15）中忽略地理-社交之间相互作用的建模得到Teaser模型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "0.15 0.3 SG-BPRMF SG-BPRMF 山 Teaser GSTSER   \n0.10   \n0.05 1   \n0.00 R@5 R@10 (a)准确率-Foursquare (b)召回率-Foursquare   \n0.25 0.15 SG-BPRMF SG-BPRMF Teaser Tease GSTSER GSTSER   \n0.20   \n0.15 0.10 山 三   \n0.05   \n0.00 (a)准确率-Gowalla (b)召回率-Gowalla ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图4显示了模型的性能，本文比较SG-BPRMF，Teaser和GSTSER，以显示各种时间特征和地理影响如何影响最终本文的模型。相对比SG-BPRMF 模型，本文观察到Teaser 模型的性能基于本文提出的评估标准-准确率和召回率在2个数据集上得到了一定的提升，这表明了时间信息的重要性以及引入时间-POI 嵌入建模可以提高最终推荐模型的性能。此外，相对比Teaser 模型和SG-BPRMF模型，GSTSER模型在两个数据集上表现最好。这意味着通过融合基于地理-社交影响分层建模和引入时间-Poi嵌入建模对于最终推荐性能的提高是有效的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4.3参数影响评估",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在本节中，展示二个重要的超参数，以及它们如何影响模型的性能。本文通过调整 $\\theta$ 和 $\\rho$ ，看看如何权衡位置序列信息建模和用户偏好学习，如图5所示。在参数更新过程中， $\\theta$ 和$\\rho$ 都与学习率 $\\eta$ 一起出现，学习率直接影响本文提出模型能够以多快的速度收敛到局部最小值（也就是达到最好的性能)。本文实验中将学习率η吸收到 $\\theta$ 和 $\\rho$ 中。换句话说,设置 $\\theta \\gets \\theta \\cdot \\eta$ $\\rho \\gets \\rho \\cdot \\eta$ ，固定学习速率 $\\eta$ ，通过调整 $\\theta$ 和 $\\rho$ 来分析其对最终推荐结果的影响，从而使得 $\\theta$ 和 $\\rho$ 足够小以保证收敛。本文调整 $\\theta$ ，固定 $\\rho = 0 . 0 5$ 和学习率 $\\eta { = } 0 . 0 1$ 。当 $\\scriptstyle \\theta = 0 . 0 5$ 时，模型获得最佳性能。然后固定 $\\textstyle \\theta = 0 . 0 5$ 和学习率 $\\scriptstyle = 0 . 0 1$ ，改变 $\\rho$ 来验证模型的性能如何随着% 而变化。显然， $\\theta _ { / \\rho } { \\in } [ 0 . 2 5 , 0 . 5 ]$ 则GSTSER模型效果最好。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b29b1c8d1df05e2f9b67bd73f840a407ba3f10b1e5bca72a86eba274a22cdee.jpg",
+        "img_caption": [
+            "图4.GSTSER模型组件性能对比",
+            "图5. $\\theta$ 和 $\\rho$ 的参数影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "随着移动设备和GPS等技术的发展，基于位置的社交网络变得越来越流行。用户偏好通过签到兴趣点来分享他们的位置和他们的活动经验。大量的签到数据为更好地理解用户的移动行为提供了很好的机会，使得推荐POI变得非常有意义。而对于在POI推荐中引入签到位置序列信息而作为一个通用POI推荐的研究延伸研究，于最近被提出，引起了极大的研究兴趣。本文模型中提出时间POI嵌入模型来捕获签到的顺序上下文和不同日子的各种时间特征。此外，本文提出了地理-社交上分层的两两排序模型，通过结合地理-社交影响来提高推荐性能。最后，本文提出GSTSER模型作为一个统一的框架结合这两个部分来推荐兴趣点。在两个数据集Foursquare 和Gowalla上的实验结果表明，与SG-CWARP等主流先进模型相比，本文的模型表现出了更好的性能。所提出的GSTSER模型在两个数据集上都得到了一定程度的提高了。由于本文只考虑一天的顺序，未来讨论其他时间特征的情况。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Bao Jie,Zheng Yu,Wilkie D,et al.Recommendations in location-based social networks:a survey[J].Geoinformatica,2015,19 (3): 525-565.   \n[2]Yin Hongzhi, Sun Yizhou,Cui Bin,et al.LCARS: a location-content-aware recommender system [C]//Proc of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,New York:ACM ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Press,2013:221-229. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3]Cho E,Myers SA,Leskovec J.Friendship and mobility: user movement in location-based social networks [C]//Proc of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,New York: ACM Press,2011: 1082-1090. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]Fang Quan, Xu Changsheng,Hossain M S,et al. STCAPLRS: A Spatialtemporal context-aware personalized location recommendation System [J]. ACM Transactions on Intellgent Systems and Technology,2016,7 (4):1- 30.   \n[5]Liu Yanchi,Liu Chuanren,Lu Xinjiang,et al.Point-of-interest demand modeling with human mobility patterns [C]// Proc of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,New York: ACMPress,2017: 947-955.   \n[6]Zhang Jiadong, Chow C Y. Spatiotemporal sequential influence modeling for location recommendations: a gravity-based approach [J].ACM Trans on Intelligent Systems & Technology,2015,7(1):1-25.   \n[7] Cheng Chen,Yang Haiqin,Lyu MR,etal. Where you like to go next: successive point-of-interest recommendation [C]// Proc of the 23rd International Joint Conference on Artificial Inteligence,Menlo Park, CA: AAAI Press,2013: 2605-2611.   \n[8]He Jing,Li Xin,Liao Lejian,et al.Inferring a personalized next point-ofinterest recommendation model with latent behavior patterns [C]/ Proc of the 30th AAAI Conference on Artificial Intelligence,Menlo Park, CA: AAAI Press,2016: 137-143.   \n[9] Zhang Jiadong,Chow C Y,Li Yanhua.LORE:exploiting sequential influence for location recommendations [C]// Proc of the 22nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems,New York: ACMPress,2014: 103-112.   \n[10]Liu Qiang,Wu Shu,Wang Liang,et al. Predicting the next location: a recurrent model with spatial and temporal contexts [C]// Proc of the 30th AAAI Conference on Artificial Intelligence, Menlo Park, CA: AAAI Press, 2016: 194-200.   \n[11] Liu Xin,Liu Yong,Li Xiaoli. Exploring the context of locations for personalized location recommendations [C]// Proc of the 30th AAAI Conference on Artificial Intelligence, Menlo Park, CA: AAAI Press,2016: 194-200.   \n[12] Yin Hongzhi, Cui Bin,Zhou Xiaofang,et al. Joint modeling ofuser checkin behaviors for real-time point-of-interest recommendation[J].ACM Trans on Information Systems,2016,35 (2): 11.1-44.   \n[13]MikolovT,SutskeverI, Chen Kai,et al. Distributed representations of words and phrases and their compositionality [C]//Proc of the26th International Conference on Neural Information Processing Systems, Cambridge: MIT Press,2013: 3111-3119.   \n[14] Gao Rong,Li Jing,Li Xuefei,et al.A personalized point-of-interest recommendation model via fusion of geo-social information[J]. Neurocomputing,2018,273 (17): 159-170. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15]任星怡，宋美娜，宋俊德.基于位置社交网络的上下文感知的兴趣点推 荐[J].计算机学报,2017,40 (4):824-841.(Ren Xingyi,Song Meina, Song Junde.Context-Aware point-of-interest recommendation in locationbased social networks [J]. Chinese Journal Of Computer, 2017,40(4): 824- 841.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16] Liu Yong,Wei Wei,SunAixin,etal.Exploiting geographical neighborhood characteristics for location recommendation [Cl// Proc of the 23rd ACM International Conferenceon Conference on Information and Knowledge Management. New York: ACMPress,2014: 739-748.   \n[17]陈志雄，曾诚，高榕．一种基于位置社交网络融合多种情景信息的兴趣 点推荐模型[J].计算机应用研究，2017,34(10):2978-2983.(Chen Zhixiong,Zeng Cheng,Gao Rong.UGTM: exploiting Various types of contextual information forpoint-of-interest recommendation on locationbased socialnetworks [J].Application Research ofComputers,2017,34 (10): 2978-2983. )   \n[18] Yuan Quan, Cong Gao,Ma Zongyang,et al. Time-aware point-of-interest recommendation [C]// Proc of the 36th International ACM SIGIR Conference on Research and Development in Information Retrieval, New York: ACMPress,2013: 363-372.   \n[19] Ye Mao,Yin Peifeng,Lee Wangchien,etal.Exploiting geographical influence for collaborative point-of-interest recommendation [C]//Proc of the 34th International ACM SIGIR Conference on Research and Development in Information Retrieval,New York: ACMPress,2011: 325- 334.   \n[20] Lian Defu, Zhao Cong,Xie Xing,etal. GeoMF: joint geographical modeling and matrix factorization for point-of-interest recommendation[C]//Proc of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,New York: ACMPress,2014: 831-840.   \n[21]Hu Yifan,Koren Y, Volinsky C.Collaborative filtering for implicit feedback datasets[C]//Procof the 8th IEEE International Conference onData Mining. Piscataway,NJ: IEEE Press,2008:263-272.   \n[22] Zhao Shenglin,Zhao Tong,Yang Haiqin,etal.STELLAR: Spatial-Temporal latentranking for successive point-of-interest recommendation [C]//Proc of the 30th AAAI Conference on Artificial Intelligence,Menlo Park, CA: AAAI Press,2016: 315-322.   \n[23]余永红，高阳，王皓．基于 Ranking 的泊松矩阵分解兴趣点推荐算法 [J]．计算机研究与发展，2016,53（8):1651-1663.(Yu Yonghong,Gao Yang,Wang Hao.A ranking based Poisson matrix factorization model for point-of-interest recommendation [J]. Journal of Computer Research and Development,2016,53 (8): 1651-1663.)   \n[24]Wang Hao,Terrovitis M,Mamoulis N.Location recommendation in location-based social networks usinguser check-in data [Cl//Proc of the 21st ACM SIGSPATIAL International Conference on Advancesin Geographic Information Systems, New York: ACM Press,2013: 374-383.   \n[25] Ying JiaChing,Kuo WenNing,TsengV S,et al.Mining user check-in behavior with arandomwalk forurbanpoint-of-interestrecommendations ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[J].ACM Trans on Intelligent Systems and Technology(TIST),2014,5 (3): 1-27. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26] Cheng Chen,Yang Haiqin,King I,et al.Fused matrix factorization with geographical and social influence in location-based social networks [C]// Proc of the 26th AAAI Conference on Artificial Intellgence, Menlo Park, CA: AAAI Press,2012: 17-23.   \n[27] Zhao Yiliang，Nie Liqiang，WangXiangyu，etal.Personalized recommendations of locally interesting venues to tourists via cross-region community matching [J].ACM Trans on Intelligent Systemsand Technology(TIST),2014,5 (3): 50.   \n[28] Zhang Jiadong，Chow C Y. iGSLR:personalized geo-social location recommendation: a kernel density estimation approach [C]//Proc of the 21st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems,New York: ACM Press,2013: 334-343.   \n[29] Zhang Jiadong,Chow C Y,Li Yanhua.iGeoRec: a personalized and efficient geographical location recommendation framework [J]. IEEE Transon Services Computing,2015,8 (5): 701-714.   \n[30] Rendle S,Freudenthaler C,Gantner Z,et al. BPR:Bayesian personalized ranking from implicit feedback [Cl/ Proc of the 25th Conference on Uncertainty in Artificial Intelligence,New York: AUAI, 20o9: 452-461.   \n[31] Feng Shanshan,Li Xuetao, Zeng Yifeng,et al.Personalized ranking metric embedding for next new POI recommendation [Cl// Proc of the 24th International Joint Conference on Artificial Intelligence,Menlo Park, CA: AAAI Press,2015: 2069-2075.   \n[32] Feng Shanshan,Cong Gao,An Bo,et al. POI2Vec: Geographical Latent Representation for Predicting Future Visitors [C]//Proc of the 31st AAAI Conference on Artificial Intelligence,Menlo Park, CA:AAAI Press,2017: 102-108.   \n[33] Mikolov T, Yih W T, Zweig G.Linguistic regularities in continuous space word representations [C]// Proc of the 12nd Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Stroudsburg: NAACL, 2013: 746-751.   \n[34] Perozzi B,Al-Rfou R,Skiena S.Deepwalk:Online learning of social representations $[ \\mathrm { C } ] / \\AA$ Proc of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,New York:ACM Press,2014: 701-710.   \n[35] Tang Duyu, Qin Bing,Liu Ting,et al. User modeling with neural network for review rating prediction [C]// Proc of the 24th International Joint Conference on Artificial Intelligence,Menlo Park, CA: AAAI Press, 2015: 1340-1346.   \n[36] Tang Duyu,Qin Bing,Liu Ting,et al. Learning semantic representations of users and products for document level sentiment classification [C]// Proc of the 53rd Annual Meeting of the Association for Computational Linguistics. Stroudsburg: ACL,2015: 1014-1023.   \n[37] Xie Min,Yin Hongzhi,Wang Hao,et al.Learning graph-based poi embedding for location-based recommendation [C]// Proc of the 25th ACM International on Conference on Information and Knowledge Management. New York: ACM Press,2016:15-24.   \n[38] Zhao Tong,Mcauley J, King I. Leveraging social connections to improve personalized ranking for collaborative filtering[C]// Proc of the 23rd ACM International Conference on Conference on Information and Knowledge Management, New York: ACM Press,2014: 261-270.   \n[39] GaoHuiji，Tang Jiliang，Liu Huan．gSCorr:Modeling geo-social correlations for new check-ins on location-based social networks [Cl/ Proc of the 21st ACM International Conference on Conference on Information and Knowledge Management. New York: ACM Press,2012: 1582-1586.   \n[40] Pan Rong, Zhou Yunhong,Cao Bin,et al. One-class collaborative filtering [C]// Proc of the 8th IEEE International Conference on Data Mining, Piscataway: IEEE Press,2008: 502-511.   \n[41] Gao Huiji, Tang Jiliang,Hu Xia,et al.Exploring temporal effects for location recommendation on location-based social networks $[ \\mathrm { C } ] / \\hbar$ Proc of the 7th ACM Conference on Recommender Systems, New York: ACM Press, 2013: 93-100.   \n[42] Li Xutao,Cong Gao,Li Xiaoli,et al.Rank-geofm: A ranking based geographical factorization method for point of interest recommendation [C]/ Proc of the 38th international ACM SIGIR Conference on Research and Development in Information Retrieval.New York:ACM Press,2015: 433-442. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

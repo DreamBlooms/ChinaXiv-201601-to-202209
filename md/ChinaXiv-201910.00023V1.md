@@ -1,0 +1,148 @@
+# 新疆博斯腾湖近现代湖泊沉积物粒度分布特征及其环境记录
+
+华攸胜1,2.3，马龙1,2.3，吉力力·阿不都外力1,2.3，刘文1,2（1．中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2．中国科学院中亚生态与环境研究中心,新疆 乌鲁木齐830011；3．中国科学院大学,北京100049)
+
+摘要：以新疆博斯腾湖岩芯( $\mathbf { 4 1 } ~ \mathrm { c m } { \dot { } }$ )沉积物粒度为研究对象，结合放射性同位素 $^ { 2 1 0 } \mathrm { P b }$ 测年方法建立了沉积年代序列,利用粒径－标准偏差方法分析了沉积物中环境敏感组分，并重建了过去150a来的湖泊水位变化历史。博斯腾湖岩芯沉积物中黏土质( $< 4 ~ \mu \mathrm { m } \dot $ 含量为 $1 8 \%$ ,细粉砂质 $( 4 \sim 1 6 ~ \mu \mathrm { m } )$ 含量为 $4 0 . 2 \%$ ，中粉砂质( $1 6 \sim 3 2 ~ { \mu \mathrm { m } } ;$ 含量$2 3 . 3 \%$ ，粗粉砂质( $3 2 \sim 6 4 ~ \mu \mathrm { m } ,$ 含量 $1 3 . 4 \%$ ，砂质( $> 6 4 ~ \mu \mathrm { m } \ '$ 仅有 $5 . 1 \%$ ，不同粒级组分的垂向变化趋势具有较为明显的差异性。通过粒径-标准偏差法对沉积物环境敏感组分的提取表明,组分 $\mathrm { C } _ { 2 }$ （粒径 $7 . 5 9 \sim 2 2 . 9 1 ~ \mu \mathrm { m } )$ 的平均粒径变化与中值粒径变化一致( $\stackrel { \prime } { r } = 0 . 7 , P < 0 . 0 1 ,$ ，组分 $\mathrm { C } _ { 2 }$ 对博斯腾湖沉积环境变化响应敏感,并由此重建了过去150 a的湖泊水位变化历史。1940年之前，博斯腾湖水位整体处于近150a来的历史低值期,1910s—1930s 低水位期代表了一次较大范围的区域干旱事件;在气候变化和显著增强的人类活动的共同作用下,1980s中后期博斯腾湖水位显著降低。湖泊水位作为沉积粒度变化的影响因子之一，可以通过湖泊沉积物中环境敏感组分的含量重建过去博斯腾湖水位的波动历史，为研究湖泊的历史变化规律及其影响因素提供一种新的途径。
+
+关键词：沉积物；粒度；粒径-标准偏差；环境重建；博斯腾湖；新疆
+
+近百年来，以全球变暖、人类活动显著增强为特征的强烈而全新的变化深刻影响着中亚区域地表过程[]。湖泊作为流域中物质的“汇”,记录了自然和人类活动相互作用的历史，是重建不同时间尺度下气候变化、生态环境演变历史的天然档案库[2-3] 。湖泊沉积档案记录可以与器测衔接，通过与现代湖泊及流域器测数据的对比[4],重建区域气候环境变化序列，并为预测未来情境下湖泊环境的演变趋势提供科学依据。
+
+湖泊沉积物粒度是恢复古环境的可靠物理指标之—[5-6],但湖泊沉积物的粒度分布特征与水动力条件、沉积物源、搬运介质以及搬运方式有关[-8]基于单一的沉积物粒径组分含量变化反演古环境演变信息已不能满足当前沉积记录研究的需要[9]因此,近年来Weibull 函数[10],EMMA端元模型[1]贝叶斯端元模型（BEMMA）〔12]、系统聚类－端元模型（CEMMA）〔13]、粒径－标准偏差[14]等数学方法被应用于流域环境信息提取，其中粒径-标准偏差法广泛应用于干旱区湖泊沉积粒度研究中，例如，通过对巴里坤湖[15]、柴窝堡湖[16]、艾比湖[17]、赛里木湖[18]乌伦古湖[19]、喀纳斯湖[20]等湖泊沉积物粒度的分析，提取环境敏感组分，并对其环境意义进行了深入讨论，表明了粒径－标准偏差方法在干旱区湖泊沉积研究方面的有效性。
+
+位于天山南坡的博斯腾湖是进行古环境研究较为理想的场所，湖泊沉积记录蕴藏了丰富的气候、环境信息[21-23]。前人利用博斯腾湖沉积物沉积环境代用指标，针对全新世以来不同时间尺度下的气候与环境变化开展了系列研究[24-26],同时,也利用沉积物重金属元素地球化学[27]、有机碳及其同位素[28]、碳酸盐及其碳氧同位素[29]等代用指标,开展博斯腾湖现代沉积研究。本文通过对博斯腾湖岩芯沉积物粒度的分析，结合器测气象、水文记录，深入研究博斯腾湖沉积特征，对已有的研究进行有效的补充，丰富了博斯腾湖地区不同时间尺度下环境变化信息。研究湖泊沉积过程对气候变化和人类活动的响应，为湖泊环境保护提供借鉴和参考。
+
+# 1研究区概况
+
+博斯腾湖 $( 4 1 ^ { \circ } 4 6 ^ { \prime } \sim 4 2 ^ { \circ } 0 8 ^ { \prime } \mathrm { N } , 8 9 ^ { \circ } 1 9 ^ { \prime } \sim 8 7 ^ { \circ } 2 8 ^ { \prime } \mathrm { E } )$ 位于天山南麓焉耆盆地东南部，曾是我国最大的内陆吞吐性淡水湖，既是开都河、黄水沟、清水河等河流的尾闾，又是孔雀河的源头（图1）。开都河来水量占全部入湖总径流量的近 $8 5 \%$ [30]。湖泊水位的多年平均值是， $( 1 ~ 0 4 6 . 8 6 \pm 1 . 0 ) \mathrm { m }$ ,最小值出现在1987年和2013年的 $1 \ 0 4 5 . 0 \ \mathrm { m }$ ,最大值是2002年的$1 \ 0 4 9 . 3 9 \ \mathrm { m } ^ { [ 3 1 ] }$ 对应的湖泊水量 $5 9 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 [ 3 2 ] }$ 。湖泊平均水深 $8 . 8 \mathrm { ~ m ~ }$ ,最大水深 $1 7 \mathrm { ~ m } ^ { [ 3 3 ] }$ 。湖水矿化度由1956年的 $0 . 3 8 \mathrm { ~ g ~ } \cdot \mathrm { ~ L ~ } ^ { - 1 }$ 增加到1988 年的1.87$\mathbf { g } \cdot \mathbf { L } ^ { - 1 }$ ,已从淡水湖变为微咸水湖[34]。近50a来博斯腾湖水质水量的分析表明，1966年以前博斯腾湖受人类活动影响弱，处于高水位期；1966—1996年，博斯腾湖水位低，其中1987年为拐点；1996 年以来,水位处于高值段(35]。湖区常年主导风向为NW、SW,春夏季多年平均风速分别为 $3 . 2 \ \mathrm { m \cdot s ^ { - 1 } }$ 和$3 . 3 \ \mathrm { m } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,秋冬季多年平均风速为 $1 . 4 \ \mathrm { m } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,湖区年平均气温 $7 . 9 ~ \mathrm { ^ { \circ } C }$ ,年平均降水量 $6 4 . 6 ~ \mathrm { m m }$ ,年平均蒸发量达1949.5mm[36] C
+
+![](images/a760c752fdc7bc55c4bc139422ab5fbc80e4a2478641f03c25d3e9d14007acb5.jpg)  
+图1博斯腾湖流域地理位置及采样点(BTH01)位置  
+Fig.1Geographical location of the Bosten Lake and the sampling site（BTHO1)
+
+# 2材料和方法
+
+2016年4月采用奥地利产UWITEC重力采样器，采集 $4 1 \ \mathrm { c m }$ 长湖泊沉积物岩芯（BTH01，图1）。采样点坐标 $4 1 ^ { \circ } 5 5 . 6 6 5 ^ { \prime } \mathrm { N } , 8 6 ^ { \circ } 4 9 . 0 7 8 ^ { \prime } \mathrm { E }$ ,采样点湖泊水深 $7 . 0 \mathrm { ~ m ~ }$ ,岩芯柱按 $1 \ \mathrm { c m }$ 间隔野外现场分样，装入聚乙烯塑料袋密封保存以备室内 $^ { 2 1 0 } \mathrm { P b }$ 测年和沉积物粒度实验室分析。样品中 $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { t o t a l } } \cdot ^ { 2 2 6 } \mathrm { R a }$ 的比活度，采用美国ORTEC公司生产的高纯锗井型探测器（OrtecHPGeGWL）与Ortec919型谱控器构成的多道 $\gamma$ 谱分析系统分析测定。沉积物粒度的测试步骤是取沉积物样品少量 $( 0 . 3 \mathrm { ~ g ~ }$ 左右)放入 $1 0 0 ~ \mathrm { { m L } }$ 的烧杯中，加入 $2 0 ~ \mathrm { m L }$ 的蒸馏水和 $10 \%$ 的过氧化氢$( \mathrm { ~ H } _ { 2 } \mathrm { O } _ { 2 } ) 1 0 \mathrm { ~ m L }$ 以去除有机质，将烧杯放到通风橱内控温电板上加热煮沸，同时用洗瓶不断清洗因反应的泡沫带至烧杯壁上的沉积物，待充分反应直至过量的过氧化氢分解完毕，再加入 $1 0 \mathrm { \ m L \ } 1 0 \%$ 的盐酸以去除碳酸盐，煮沸后取下烧杯。加入蒸馏水100$\mathrm { m L }$ ,静置一夜，抽去蒸馏水，洗去过量的盐酸，使样品呈中性。在样品中加入 $2 0 ~ \mathrm { m L }$ 蒸馏水和 $1 0 ~ \mathrm { m L }$ 浓度为 $0 . 0 5 ~ \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 的六偏磷酸钾,将烧杯放入超声波清洗仪内超声振荡 $1 5 ~ \mathrm { m i n }$ ;将振荡后的样品用英国MalvernMastersizer20OO型激光粒度仪（精确度$0 . 0 2 \sim 2 ~ 0 0 0 ~ { \mu \mathrm { m } }$ )进行测试[37]。测试工作在中国科学院南京地理与湖泊研究所湖泊与环境国家重点实验室完成。
+
+# 3结果
+
+# 3.1 沉积物岩芯年代序列
+
+通过分析岩芯沉积物同深度 $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { t o t a l } }$ 与 $^ { 2 2 6 } \mathrm { R a }$ 的比活度,用相应深度的 $^ { 2 2 6 } \mathrm { R a }$ 校正 $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { t o t a l } }$ 获取博斯腾湖沉积物过剩 $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { e x } }$ 的比活度( $^ { \cdot 2 1 0 } \mathrm { P b } _ { \mathrm { e x } } =$ $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { t o t a l } } - ^ { 2 2 6 } \mathrm { R a } )$ ,博斯腾湖沉积物中 $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { t o t a l } }$ 和 $^ { 2 2 6 } \mathrm { R a }$ 在 $4 1 \ \mathrm { c m }$ 达到平衡。 $^ { 2 1 0 } \mathrm { P b }$ 计年采用恒定补给速率（CRS）模式[38] ○
+
+$$
+t = 1 / \lambda \cdot \ln ( \sum C _ { 0 } / \sum C _ { n } )
+$$
+
+式中： $\lambda$ 为 $^ { 2 1 0 } \mathrm { P b }$ 衰变常数, $\lambda = 0 . 0 3 1 1 4 ; \Sigma C _ { 0 }$ 为沉积物岩芯中现存过剩 $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { e x } }$ 总累积量( $\mathrm { ^ { ' } B q } \cdot \mathrm { c m } ^ { - 2 }$ ）；$\Sigma C _ { n }$ 为深度 $n$ 以下各样层沉积物中现存过剩 $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { e x } }$ 总累积量( $\mathrm { B q } \cdot \mathrm { c m } ^ { - 2 }$ ）。
+
+根据以上方法确定了岩芯沉积物不同深度所对应的年代。计算沉积岩芯底部沉积年代为1868AD,平均沉积速率为 $0 . 2 1 \mathrm { ~ g ~ } \cdot \mathrm { ~ c m ~ } ^ { - 2 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,据此,确定了岩芯沉积物不同深度所对应的年代（图2）。
+
+# 3.2 沉积物粒度特征
+
+为了研究博斯腾湖岩芯沉积物的垂向分布特征,将粒径组分分为黏土质 $( < 4 ~ \mu \mathrm { m }$ ）、细粉砂质$( 4 \sim 1 6 ~ \mu \mathrm { m }$ ）、中粉砂质( $1 6 \sim 3 2 ~ \mu \mathrm { m }$ ）、粗粉砂质$( 3 2 \sim 6 4 ~ \mu \mathrm { m } )$ 和砂质 $( { \bf \nabla } > 6 4 { \bf \nabla } \mu \mathrm { m }$ )5类。沉积物中黏土质( $: < 4 ~ \mu \mathrm { m } \dot { }$ )平均含量为 $18 \%$ ，在 $1 \sim 2 8 \ \mathrm { c m }$ 处黏土质组分平均含量为 $1 9 . 5 \%$ ，而 $2 8 ~ \mathrm { c m }$ 以下平均含量为 $1 4 . 9 \%$ 。沉积物粒度以细粉砂质组分为主，细粉砂质 $( 4 \sim 1 6 ~ \mu \mathrm { m } )$ 平均含量最高( $4 0 . 2 \%$ ),中粉砂质（ $1 6 \sim 3 2 ~ \mu \mathrm { m } ,$ 平均含量为 $2 3 . 3 \%$ ,在 $1 \sim 2 5 \ \mathrm { c m }$ 沉积物粒度较为稳定，但在 $2 6 \sim 4 1 ~ \mathrm { c m }$ 出现了较大的波动性;粗粉砂质 $( 3 2 \sim 6 4 ~ \mu \mathrm { m } )$ 平均含量为 $1 3 . 4 \%$ 。砂质 $\mathrm { ( ) 6 4 ~ \mu m } \mathrm { ) }$ 总体平均含量最小，仅有 $5 \%$ ，在$1 \sim 2 8 \ \mathrm { c m }$ 砂质( $> 6 4 ~ \mu \mathrm { m } \ '$ 组分平均含量为 $3 . 7 \%$ ，而 $2 9 \sim 4 1 \mathrm { c m }$ 平均含量为 $8 . 0 \%$ （图3）。从图3可
+
+![](images/491f7b5a1e3acb877125744ecb4f08aeb6ed1616644002c5dc01fc7fca160b01.jpg)  
+图2博斯腾湖岩芯沉积物中 $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { t o t a l } }$ 与 $^ { 2 2 6 } \mathrm { R a }$ 比活度垂直分布及年代序列  
+Fig.2Vertical distribution of $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { t o t a l } }$ and $^ { 2 2 6 } \mathrm { R a }$ in the core sediment from the Bosten Lake and its corresponding chronological sequence   
+图3博斯腾湖沉积物粒度垂向分布特征  
+Fig.3Vertical distribution of grain size in the sediments from the Bosten Lake
+
+细粉砂质 $( 4 { \sim } 1 6 ~ \mu \mathrm { m } )$ 号 粗粉砂质 $( 3 2 { \sim } 6 4 ~ \mu \mathrm { m } )$ 中值粒径/ $\mathbf { \mu m }$ 含量/% 含量%5 0 .! T ： 官 ： 多10 F M WA ! !.15 F E ?  
+20 . 11  
+深25 度 八 ： … L 三! · T . V. MA . .六 i .！ 1 室30 1 心= 之 .35 F ” . 二 . .心 ：40 F . .1 E 上45812162024 28 20 2122 2324 25 2627 0.246810121416 1.51.61.7 1.8 1.9黏土质 $\scriptstyle ( < 4 \mu \mathrm { m } )$ 1 中粉砂质 $( 1 6 \mathrm { \sim } 3 2 ~ \mu \mathrm { m } )$ 砂质(>64μm)含量/% 含量/% 含量/% 标准偏差
+
+以看出，不同粒级组分的变化趋势有较为明显的差异性，反映了沉积环境的变化。其中，黏土质和细粉砂质在 $1 \sim 4 1 ~ \mathrm { c m }$ 变化趋势总体一致，但在 $2 7 \sim 2 8$ cm出现异常，黏土组分在下降的情况下，细粉砂质组分呈现上升趋势;细粉砂质总体变化趋势与各样层的标准偏差变化比较吻合，但在 $3 \sim 4 ~ \mathrm { c m }$ 有些差异。粗粉砂质含量变化趋势与中值粒径(Md)变化趋势基本一致。
+
+# 4讨论
+
+沉积物粒度频率曲线能够直观反映陆源碎屑的来源以及沉积环境的改变[37],由于绝大多数陆源碎屑物质在湖泊沉积时受到搬运介质、搬运方式、介质动力大小等因素的影响，使湖泊沉积物粒径频率分布曲线呈现多峰分布特征[39]。可通过组分分离方法[40计算不同粒径组分的粒径范围和含量,进而研究湖泊沉积物中陆源碎屑物质的来源和沉积过程。本文运用粒径－标准偏差法[37来提取博斯腾湖沉积物粒度中的敏感组分，从图4可以看出，粒径－标准偏差曲线中出现了4个峰值，其粒径依次为3.31$\mu \mathrm { m } \underline { 1 } 1 . 4 8 \ \mu \mathrm { m } \underline { 6 } 9 . \ 1 8 \ \mu \mathrm { m }$ 和 $4 1 6 . 8 7 ~ \mu \mathrm { m }$ ,与其对应的边界为 $7 . 5 9 ~ \mu \mathrm { m } \setminus 2 2 . 9 1 ~ \mu \mathrm { m }$ 和 $2 3 9 . 8 8 ~ \mu \mathrm { m }$ 。因此,将博斯腾湖岩芯沉积物粒度划分为 $\mathrm { C } _ { 1 }$ （粒径 $\angle$ $7 . 5 9 ~ \mu \mathrm { m }$ ）、 $\mathbf { C } _ { 2 }$ （粒径为 $7 . 5 9 \sim 2 2 . 9 1 ~ \mu \mathrm { m }$ ）、 $\mathrm { C } _ { 3 }$ （粒径为 $2 2 . 9 1 \sim 2 3 9 . 8 8 ~ \mu \mathrm { m } )$ 和 $\mathrm { C } _ { 4 }$ （粒径 $> 2 3 9 . 8 8 ~ \mu \mathrm { m } )$ 4个粒度组分。
+
+![](images/c603acb983f337c2c0032259badfe3e22df0d465a32927d9e9020c1a1bfeee73.jpg)  
+图4粒径标准偏差曲线  
+Fig.4Standard deviation of grain size in the sediments from the Bosten Lake   
+图5博斯腾湖岩芯沉积物不同粒径组分含量及其平均粒径与中值粒径对比 Fig.5 Contents of diffrent grain sizes and their mean grain sizes compared with the median grain size of sediments from the Bosten Lake
+
+为了分析4个粒径组分对沉积环境的敏感程度，分别计算了各组分的含量及平均粒径（图5）。组分 $\mathbf { C } _ { 1 }$ 含量变化范围为 $2 2 . 6 \% \sim 4 0 . 5 \%$ ,平均值$3 2 . 5 \%$ ,平均粒径范围 $3 . 6 \sim 4 . 1 ~ upmu \mathrm { m }$ ,平均值为$3 . 7 6 9 ~ \mu \mathrm { m }$ ;组分 $\mathrm { C } _ { 2 }$ 含量为 $3 4 . 1 7 7 \% \sim 4 2 . 4 \%$ ,平均为$3 8 . 7 0 6 \%$ ,平均粒径在 $1 3 . 8 9 3 \sim 1 4 . 3 8 7 ~ upmu \mathrm { m }$ 范围波动,平均值为 $1 4 . 0 9 1 ~ \mu \mathrm { m }$ ;组分 $\mathrm { C } _ { 3 }$ 含量为 $1 8 . 7 8 8 \%$ \~$3 9 . 5 1 9 \%$ ,平均值为 $2 8 . 3 7 \%$ ,平均粒径在 $3 4 . 7 2 2 \sim$ $6 2 . 3 4 7 ~ { \mu \mathrm { m } }$ 范围波动,平均值为 $4 5 . 1 3 5 ~ \mu \mathrm { m }$ ;由于组分 $\mathrm { C } _ { 4 }$ 的平均含量低于 $1 \%$ ,在此不讨论其环境指示意义。从图5可以看出，组分 $\mathbf { C } _ { 1 }$ 含量与组分 $\mathrm { C } _ { 3 }$ 含量呈反向变化，而组分 $\mathrm { C } _ { 2 }$ 的平均粒径与中值粒径
+
+C含量/% C平均粒径/ $\mu \mathrm { m }$ （20 C平均粒径/μmF 3.53.63.73.83.94 4.1 32364044485256606410 05 1 山 r Ww 上 WM WL M 115 ！  
+/ ！20  
+深25 . MA 上 三 .F!. ·30 L V 天35 家40 山 T ！ .. ：4520 24 28 32 36 40 44 16 20242832364044 13.814 14.214.4 8 121620C含量% C含量% C平均粒径/μm 中值粒径/ $\mu \mathrm { m }$ （204号
+
+的相关系数为 $0 . 7 ( P < 0 . 0 1 )$ ，表现为较强的正相关性，反映了博斯腾湖湖泊沉积物中粒度的整体变化受组分 $\mathrm { C } _ { 2 }$ 的显著影响，因此,确定粒径组分 $\mathbf { C } _ { 2 }$ 对博斯腾湖湖泊沉积物中的环境敏感粒度组分，由此用来揭示博斯腾湖沉积环境的变化，
+
+干旱区湖泊沉积物的来源除了流水携带入湖的陆源碎屑物质外，风沙携带的流域风化产物也是重要的来源之—[16-18]。但博斯腾湖湖泊沉积物主要来源于河流相的陆源碎屑组分，风沙对其影响较小[41]。对于干旱区封闭湖泊,沉积物粒度大小受流域降水、湖水位的显著影响[37],一方面粒度的粗细受搬运介质水动力强弱的影响，在一定程度上反映了流域降水的强弱变化；另一方面，浅水强动力条件下沉积的颗粒较粗，深水弱动力条件更有利于细颗粒物的沉积[5]
+
+因此，为了揭示博斯腾湖沉积物中敏感组分所指示的环境意义，将粒径敏感组分 $\mathrm { C } _ { 2 }$ 的含量变化与博斯腾湖流域内巴音布鲁克站降水量和湖泊水位变化曲线进行对比（图6），在湖泊水位逐渐下降的阶段， $\mathbf { C } _ { 2 }$ （粒径为 $7 . 5 9 \sim 2 2 . 9 1 ~ \mu \mathrm { m }$ )含量增加，反之，组分 $\mathrm { C } _ { 2 }$ 含量减少，环境敏感组分 $\mathbf { C } _ { 2 }$ 的含量滑动平均曲线与湖泊水位的变化呈现一定的反相关关系。当博斯腾湖湖泊水位下降，岩芯采样点离岸距离变得更近，导致细颗粒物质沉积在更远的地方，造成粗颗粒物质的增多；随着博斯腾湖湖泊水位的上升，形成深水弱动力环境，细颗粒物质沉积增多。因此，可以利用环境敏感组分 $\mathrm { C } _ { 2 }$ 的含量变化重建过去150a的湖泊水位变化历史。
+
+从图6可知，1940年之前，博斯腾湖整体处于低水位期，在1940—1955 年湖泊水位达到峰值，20世纪80年代中后期湖泊水位处于低值期。Chen等[23]对博斯腾湖1000 a来的湖泊沉积记录研究表明，本地区小冰期（1500—1900 AD）气候湿润。1900 AD以来，区域气候变得干燥，这与本文的研究结果一致。需要指出的是，博斯腾湖水位1910—1930 年达到历史低值,这与艾比湖[17]、柴窝堡湖[16]等湖泊沉积物粒度敏感组分揭示的区域干旱化历史一致，同时，树木年轮等其他气候代用资料也反映了20 世纪 20 年代的区域干旱历史[42-44],表明1910—1930年低水位期代表了一次较大范围的区域性干
+
+![](images/52405d23063803e31c787278bff461a905d2ee0dcd5f192c867c7b6fb8b97de6.jpg)  
+图6博斯腾湖粒径敏感组分 $\mathrm { C } _ { 2 }$ 与巴音布鲁克站降水量及湖泊水位[34]的对比
+
+Fig.6Compared results of grain sizes in the sensitive components $\mathrm { C } _ { 2 }$ from the Bosten Lake,precipitation at Bayanbulal Station and lake water level[34]
+
+旱事件。另外一次湖泊低水位期发生在20世纪80年代中后期，在本时期北大西洋涛动(NAO)存在于负相位[45],当NAO 处于负相位时，西风强度相对较弱[46],西风带来的大西洋水汽难以进入新疆南部地区并在那里产生降水，表现为流域降水量处于低值（图6)；另一方面，耕地面积扩大导致的耗水量显著上升[35],在气候变化和人类活动显著增强的共同作用下，博斯腾湖水位在20世纪80年代中后期湖泊水位显著降低。总体来看，湖泊水位作为湖泊沉积粒度变化的影响因素之一，可以通过湖泊沉积物中环境敏感组分的含量重建过去博斯腾湖水位的波动历史。
+
+# 5结论
+
+（1）博斯腾湖沉积物岩芯底部( $\mathrm { 4 1 ~ c m } )$ 沉积年代为1868AD,平均沉积速率为 $0 . 2 1 \mathrm { ~ g ~ } \cdot \mathrm { c m } ^ { - 2 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 车沉积物组分 $\mathbf { C } _ { 1 }$ （粒径 $< 7 . 5 9 ~ \mu \mathrm { m } \$ )与组分 $\mathrm { C } _ { 3 }$ （粒径$2 2 . 9 1 \sim 2 3 9 . 8 8 ~ \mu \mathrm { m } )$ 的含量呈反向变化,而组分 $\mathrm { C } _ { 2 }$ （粒径 $7 . 5 9 \sim 2 2 . 9 1 ~ \mu \mathrm { m } )$ 的平均粒径垂向分布与中值粒径变化趋势一致，反映了博斯腾湖沉积物中粒度的整体变化受组分 $\mathbf { C } _ { 2 }$ 的显著影响。
+
+（2）博斯腾湖沉积记录了1910—1930年低水位期一次较大范围的区域性干旱事件;在气候变化和人类活动显著增强的共同作用下，博斯腾湖水位在20世纪80年代中后期湖泊水位显著降低，在沉积记录中也有明显体现。湖泊水位作为湖泊沉积粒度变化的低频影响因子，可以通过湖泊沉积物中环境敏感组分的含量重建过去博斯腾湖水位的波动历史，为研究湖泊的历史变化规律及其影响因素提供一种新的途径。
+
+# 参考文献（References）：
+
+[1]Lioubimtseva E,Henebry G M.Climate and environmental change inarid Central Asia: Impacts,vulnerability,and adaptations[J]. Journal of Arid Environments,2009,73（11）:963-977.   
+[2] 王苏民，张振克.中国湖泊沉积与环境演变研究的新进展[J]. 科学通报,1999,44（6）：579-587.[Wang Sumin,Zhang Zhenke.New progress in the study of lake sediment and environmental evolution in China[J].Chinese Science Bulletin,1999,44（6）： 579 -587.]   
+[3]马龙，吴敬禄.新疆湖泊沉积记录的气候水文变化及其环境效 应[J].干旱区研究,2009,26（6)：786-792.［MaLong，Wu Jinglu. Climate and hydrological change and environmental response recorded in lacustrine sediment in Xinjiang[J].Arid Zone Research,2009,26(6) :786-792.]   
+[4]Wu J,Schleser G H,Lucke A,et al.A stable isotope record from freshwater lake shelsof the eastern Tibetan Plateau,China,during the past two centuries[J].Boreas,2007,36(1）:38-46.   
+[5]陈敬安,万国江,张峰,等.不同时间尺度下的湖泊沉积物环境 记录——以沉积物粒度为例[J].中国科学D辑:地球科学, 2003,33（6）:563- 568.[Chen Jingan,Wan Guojiang，Zhang Feng,etal.Environmental records of lacustrine sediments in diferent time scales:Sediment grain size as an example[J]. Science in China Series D:Earth Sciences,2003,33(6) :563 -568.]   
+[6]Macumber AL,Patterson R T,Galloway JM,et al. Reconstruction of Holocene hydroclimatic variability in subarctic treeline lakes using lake sediment grain-size end-members〔J].The Holocene, 2018,28(6) :845 -857.   
+[7］郭晓阳,王维,王国良,等.季风边缘区湖泊表层沉积物粒度组 分分布特征与影响因素[J].地理研究,2016,35（4）:677 - 691.[Guo Xiaoyang,Wang Wei,Wang Guoliang,et al.Withinlake distributions of grain-size components and environmental implications based on the survey of lake surface sediment of Chinese monsoon marginal area[J]. Geographical Research,2016,35（4）: 677 - 691. ]   
+[8]Lu Y,Fang X,Friedrich O,et al.Characteristic grain-size component:A useful process-related parameter for grain-size analysis of lacustrine clastics？[J]. Quaternary International,2018,479 :90 - 99.   
+[9]Vandenberghe J,Sun Y,Wang X,et al. Grain-size characterization of reworked fine-grained aeolian deposits[J]. Earth-Science Reviews,2018,177:43 -52.   
+[10]Sun D,Bloemendal J,Rea D,et al.Grain-size distribution function of polymodal sediments in hydraulic and aeolian environments,and numerical partitioning of the sedimentary components[J].Sedimentary Geology,2002,152(3-4):263-277.   
+[11]Dietze E,Mausson F,Ahlborn M,et al.Sediment transport processes across the Tibetan Plateau inferred from robust grain size endmembers in lake sediments[J].Climate of the Past,2014,10:91- 106.   
+[12]Yu SY,Colman S M,Li L.BEMMA:A hierarchical Bayesian endmember modeling analysis of sediment grain-size distributions[J]. Mathematical Geosciences,2016,48(6） :723-741.   
+[13]Zhang X,ZhouA,Wang X,et al. Unmixing grain-size distributions in lake sediments:A new method of endmember modeling using hierarchical clustering[J]. Quaternary Research,2018,89（1）:365 -373.   
+[14]Sun Y,Gao S,Li J. Preliminary analysis of grain-size populations with environmentallysensitive terrigenouscomponentsin marginal sea setting[J].Chinese Science Bulletin,2003,48（2）:184- 187.   
+[15］薛积彬,钟巍.干旱区湖泊沉积物粒度组分记录的区域沙尘活 动历史：以新疆巴里坤湖为例[J].沉积学报,2008,26(4）:647 -654.[Xue Jibin,Zhong Wei.Variations in dust event reflected by grain-size component of lacustrine records in droughty area: A case studyon BarkolLake,Xinjiang,China[J].Acta Sedimentologica Sinica,2008,26(4） :647-654.]   
+[16]Ma L,Wu J,Abuduwaili J. Climate and environmental changes over the past 15O years inferred from the sediments of Chaiwopu Lake, central Tianshan Mountains,Northwest China[J]. International Journal of Earth Sciences,2013,102(3):959-967.   
+[17]Ma L,Wu J,Abuduwaili J.Variation in aeolian environments recorded by the particle size distribution of lacustrine sediments in Ebinur Lake,northwest China[J].Springer Plus,2016,5（1）:481 -488.   
+[18]Ma L,Abuduwaili J,Wu J,et al.Aeolian particle transport inferred using a\~150 - year sediment record from Sayram Lake,arid northwest China[J].Journal of Limnology,2015,74(3）:584-593.   
+[19］周建超,吴敬禄,曾海鳌.新疆乌伦古湖沉积物粒度特征揭示 的环境信息[J].沉积学报,2017,35（6）:1158-1165.[Zhou Jianchao,Wu Jinglu,Zeng Hai'ao.Environmental information inferred from environmrntally sensitive grain-size component records in Wulungu Lake,Xinjiang[J].Acta Sedimentologica Sinica, 2017,35(6) :1 158 -1 165.]   
+[20］周建超,吴敬禄,曾海鳌.新疆喀纳斯湖沉积物粒度组分所揭 示的环境特征[J].地球科学与环境学报,2016,38(6）:859 - 868.［Zhou Jianchao,Wu Jinglu,Zeng Hai'ao.Environmental characteristics inferred from sediment sensitive grain-size component records in Knans Lake of Xinjiang[J]. Journal of Earth Sciences and Environment,2016,38(6）:859 -868.]   
+[21]Tarasov PE,Demske D,Leipe C,et al.An8 500- year palynological record of vegetation,climate change and human activity in the Bosten Lakeregion of Northwest China[J].Palaeogeography, Palaeoclimatology,Palaeoecology,2019,516:166-178.   
+[22]Mischke S,Winnemann B.The Holocene salinity history of Bosten Lake（Xinjiang,China） inferred from ostracod species assemblages and shell chemistry:Possible palaeoclimatic implications[J]. Quaternary International,2006,154-155:100 -112.   
+[23]ChenF,Huang X,Zhang J,etal. Humid Litle Ice Agein arid central Asia documented by Bosten Lake,Xinjiang,China[J].Science in China Series D:Earth Sciences,2006,49(12):1 280 -1 290.   
+[24] Zhang C,Feng Z,Yang Q,et al. Holocene environmental variations recorded by organic-related and carbonate-related proxies of the lacustrine sediments from Bosten Lake,Northwestern China[J].The Holocene,2010,20(3）:363-373.   
+[25]Huang X Z,Chen F H,Fan Y X,et al.Dry late-glacial and early Holocene climate in arid central Asia indicated by lithological and palynological evidence from Bosten Lake,China[J]. Quaternary Intermational,2009,194(1-2）:19 -27.   
+[26]Winnemann B,Mischke S,Chen F.A Holocene sedimentary record from BostenLake,ChinaJ].Palaeogeography,Palaeoclimatology, Palaeoecology,2006,234(2）:.   
+[27]Guo W,Huo S,Xi B,et al.Heavy metal contamination in sediments from typical lakes in the five geographic regions of China: Distribution,bioavailability,and risk[J].Ecological Engineering,2015, 81:243 - 255.   
+[28]Yu Z,Wang X,Zhao C,et al.Carbon burial in Bosten Lake over the past century: Impacts of climate change and human activity [J].Chemical Geology,2015,419:132-141.   
+[29］欧文佳,雷怀彦,张成君.博斯腾湖现代沉积特征及其环境意 义[J].干旱区研究,2012,29(4）:721-726.[Ou Wenjia,Lei Huaiyan,Zhang Chengjun.Modern sedimentation and its environmental significance of the Bosten Lake[J].Arid Zone Research, 2012,29(4):721 - 726.]   
+[30]王润,孙占东,高前兆.2002 年前后博斯腾湖水位变化及其对 中亚气候变化的响应[J].冰川冻土,2006,28（3）:324－329. [Wang Run,Sun Zhandong,Gao Qianzhao.Water level change in Bosten Lake under the climatic variation background of Central Asia around 2002[J].Journalof Glaciologyand Geocryology,2006, 28(3) :324 -329.]   
+[31]Yao J,Chen Y,Zhao Y,et al. Hydroclimatic changes of Lake Bostenin Northwest China during the last decades[J].Scientific Reports,2018,8(1) :9 118.   
+[32]Wu J,Liu W,Zeng H,et al. Water quantity and quality of six lakes in thearid Xinjiang region,NW China[J].Environmental Processes,2014,1(2) :115 -125.   
+[33]Zhou HH,Chen YN,Perry L,et al.Implications of climate change for water management of an arid inland lake in Northwest China [J].Lake and Reservoir Management,2015,31(3）:202-213.   
+[34]杨桂山，马荣华,张路,等.中国湖泊现状及面临的重大问题与 保护策略[J].湖泊科学,2010,22(6）:799-810.[Yang Guishan,Ma Ronghua,Zhang Lu,et al.Lake status,major problems and protection strategy in China[J]. Journal of Lake Sciences,2010,22 (6) :799 - 810. ]   
+[35］吴敬禄,马龙,曾海螯.新疆博斯腾湖水质水量及其演化特征 分析[J].地理科学,2013,33（2）:231-237.[Wu Jinglu,Ma Long,Zeng Hai'ao.Water quanlity characteristics and its evolution inLake Bosten,Xinjiang over the past 5O years[J].Scientia Geographica Sinica,2013,33(2):231-237.]   
+[36]郝永志,王君丽.新疆博斯腾湖二维水动力数学模型研究 [J].西北水电,2014（1）:85－87.[Hao Yongzhi,Wang Junli. Study on Bosten Lake by 2D hydrodynamic mathematical model [J].Northwest Hydropower,2014（1）:85-87.]   
+[37]马龙,吴敬禄,吉力力·阿不都外力.新疆柴窝堡湖沉积物中 环境敏感粒度组分揭示的环境信息〔J].沉积学报,2012,30 (5）:945-954.[Ma Long,Wu Jinglu,Jilili Abuduwaili.Environmental changes inferred from environmrntally sensitive grain-size component records in Chaiwopu Lake,Xinjiang[J].Acta Sedimentological Sinica,2012,30(5）:945-954.]   
+[38］张敬,牟德海,杜金洲,等.过剩 $^ { 2 1 0 } \mathrm { P b }$ 年代学的多种计算模式 的比较研究[J].海洋环境科学,2008,27（4）:370 － 374. [Zhang Jing,Mu Dehai,Du Jinzhou,et al.Study on comparison of excess $^ { 2 1 0 } \mathrm { P b }$ chronology of several models[J]. Marine Environmental Science,2008,27(4）:370-374.]   
+[39］孙千里,周杰,肖举乐.岱海沉积物粒度特征及其古环境意义 [J].海洋地质与第四纪地质,2001,1（1）:93-95.[Sun Qianli,Zhou Jie,Xiao Jule.Grain-size characteristicsof Lake Daihai sediments and its paleaoenvironment significance[J].Marine Geology&Quaternary Geology,2001,1（1） :93-95.]   
+[40]孙东怀，鹿化煜,DavidRea,等.中国黄土粒度的双峰分布及其 古气候意义[J].沉积学报，2000，18（3）：327-335.［SunDonghuai,Lu Huayu,David Rea,et al.Bimode grain-size distribution of Chinese Loess and its paleoclimate implication[J].Acta Sedimentologica Sinica,2000,18(3）:327-335.]   
+[41］黄小忠,陈发虎,肖舜,等.新疆博斯腾湖沉积物粒度的古环境 意义初探[J].湖泊科学,2008,20（3）:291-297.[Huang Xiaozhong,Chen Fahu,Xiao Shun,etal.Primary study on the enviromental significance of grain-size changes of the Lake Bosten sediments[J]. Journal ofLake Sciences,2008,20(3）:291-297.]   
+[42]Chen F,Yuan Y,Chen F,et al.A 426-year drought history for Western Tianshan,Central Asia,inferred from tree rings and linkages to the North Atlantic and Indo-West Pacific Oceans[J].The Holocene,2013,23(8):1 095-1 104.   
+[43]Li J,Gou X,Cook ER,et al.Tree-ring based drought reconstruction for the central Tien Shan area in Northwest China[J].Geophysical Research Letters,2006,33(7):408-412.   
+[44]Chen F,Yuan Y,Wei W,et al. Tree-ring recorded hydroclimatic change in Tienshan mountains during the past 5OO years[J].Quaternary International,2015,358:35 -41.   
+[45]Hurrell JW,Deser C.North Atlantic climate variability:The role of the North Atlantic Oscillation[J].Journal of Marine Systems, 2009,78(1):28-41.   
+[46]Hurrell JW.Decadal trends in the North Atlantic Oscillation:Regional temperatures and precipitation[J].Science,1995，269 (5224) :676-679.
+
+# Grain-Size Distribution and Its Environmental Records of Modern Lacustrine Sediments from the Bosten Lake in Xinjiang
+
+HUAYou-sheng,3，MALong，iliAbuili $^ { 1 , 2 , 3 }$ ，LIU Wen $^ { 1 , 2 }$ (1.State KeyLaboratoryof Desertand Oasis EcologyXinjiang Instituteof EcologyandGeography,Chinese Academyof Sciences ,Urumqi 830011,Xinjiang,China; 2. CAS Research Center for Ecology and Environment in Central Asia,Urumqi 830011,Xinjiang,China; 3.University of Chinese Academy of Sciences,Beijing 10oo49,China)
+
+Abstract:In this study,the $^ { 2 1 0 } \mathrm { P b }$ dating method was used to establish the sedimentary chronology sequence of lacustrine sediments of the Bosten Lake in Xinjiang,China.The purposes of the study were to research the grain size distribution of core sediment（ $\mathrm { 4 1 ~ c m } \dot { }$ ）,analyze the sediment components sensitive to environment by applying the grain size-standard deviation method,and reconstructthe historyof lake water level change over the past15O years. The contents of clay $( < 4 ~ \mu \mathrm { m } )$ ,fine silt $( 4 - 1 6 ~ \mu \mathrm { m }$ ）,mediumsilt ( $1 6 - 3 2 ~ { \mu \mathrm { m } } ,$ ）,coarse silt $( 3 2 - 6 4 ~ \mu \mathrm { m } )$ ）and the sand $( { \bf \alpha } > 6 4 { \bf \alpha } \mu \mathrm { m }$ ）in the core sediment of the Bosten Lake were $18 \%$ ， $4 0 . 2 \%$ ， $2 3 . 3 \%$ ， $1 3 . 4 \%$ and $5 . 1 \%$ respectively,and the vertical variations of different fractions were obvious.The average grain size of component $\mathrm { C } _ { 2 }$ （204 (with particle size of $7 . 5 9 - 2 2 . 9 1 ~ \mu \mathrm { m }$ ） was consistent with the median particle size $\stackrel { \prime } { r } = 0 . 7 , P < 0 . 0 1$ ）,and the component $\mathrm { C } _ { 2 }$ was very sensitive to the change of sedimentary environment in the Bosten Lake Basin,which could be used to reconstruct the water level ofthelakeover the past15O years.Water levelof the BostenLake was lowfrom the 1910s to the 193Os,which revealed that a large-scale regional drought occurred during this period.Under the joint efectofclimate changeand humanactivities,waterlevel ofthe Bosten Lakewas significantlyfalen in the midand late-198Os. The change of sensitive components $\mathrm { C } _ { 2 }$ was consistent with the change of lake water level,and the water levelfluctuation historyof the Bosten Lake could bereconstructed from the sensitive components inlake sediments.
+
+Key words：lacustrine sediment；grain size；grain size-standard deviation；environmental reconstruction； BostenLake ； Xinjiang

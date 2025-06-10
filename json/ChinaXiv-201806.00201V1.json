@@ -1,0 +1,473 @@
+[
+    {
+        "type": "text",
+        "text": "基于固态变压器直流侧电压平衡控制的SVPWM算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘凯陈才学 文军（湘潭大学信息工程学院 湘潭 411105）",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e9b1c10534e43879418f720a91fa6ff4d4d2bf694cac27fe80c901cc1ffa71f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘凯男1991年生，硕士，主要从事电力电子技术、能源互联网方面的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：固态变压器作为能源互联网的核心设备具有电压等级转换和隔离的功能，可以有效地整合分布式可再生能源，但模块级联H桥型固态变压器也存在各个H桥模块之间的均压问题。本文首先研究了单相任意单元数级联H桥固态变压器的SVPWM及其电压平衡控制原理，提出一种固态变压器电压环控制一个H桥直流母线电压，然后通过在SVPWM中增加一个新控制环控制其他H桥的矢量脉冲宽度，从而使其他H桥电压跟随的控制策略来实现各个H桥均压的目的。最后通过仿真验证了所提控制策略的正确性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：固态变压器 单相级联H桥均压中图分类号：TM464",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SVPWM With Voltage Balance Control in DC Side Based on the Solid-State Transformer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b8643ab628ea674682346a4fce941cbea23511080a76b06600a8c977ddd66ea.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈才学男 1979年生，博士，副教授，主要从事电力电子技术、能源互联网方面的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Kai Chen CaixueWen Jun (College of Information Engineering Xiangtan UniversityXiangtan 411105 China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Solid-state transformer has the function of conversion and isolation in different voltage grade as the important equipment of energy internet, and it can integrate distributed renewable energy effectively, but also has some imbalance problem in voltage. At first， the SVPWM of single-phase solid-state transformer cascaded by arbitrary number of H bridge and the principle of voltage balance control are studied in the paper. Then,a control strategy which control one of H bridge's voltage through solid-state transformer voltage control loop is proposed,and this strategy control other H bridge's voltage to follow master H bridge by adding a new control loop in the SVPWM which control the vector pulse width of each slave H bridge.Finally, the simulation verifies the correctness of strategy proposed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Solid-state transformer, single phase cascaded H bridge, voltage balance ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "能源互联网作为当今电网提高供电可靠性和供电质量、整合分布式可再生能源的发展方向而受到广泛的重视。文献[1-2]提出了用于配电网的基于固态变压器的“能量互联网”的概念。目前固态变压器的研究以三级式拓扑的控制策略为主要目标，其具有能量控制的灵活性和功能的可实现性等优点[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "H桥级联固态变压器AC/DC侧采用多个H桥级联方式，具有降低各个模块电流电压应力的优点[4，但H桥级联固态变压器由于各个级联单元的结构不对称、元件不一致、延迟不一样及功率不平衡等会使级联单元直流母线电压出现不平衡而影响固态变压器及其控制系统的正常工作[5]。文献[6]增加了辅助均压电路，具有控制系统简单等优点，但也存在电路拓扑复杂、成本高、损耗大等问题。文献[7]采用3D-SVPWM调制策略，无需辅助电路即可快速实现直流母线电压平衡控制；文献[8]采用单相dq解耦控制，采用重新分配 $d$ 轴有功功率的方式来实现直流侧电容电压平衡控制，但两种方法计算过程复杂。为此，文献[9]采用单相SVPWM和叠加补偿分量调节冗余基本矢量作用时间的方法，快速调节直流母线电压，但局限于两个单位级联H桥的固态变压器。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究单相H桥级联固态变压器的SVPWM调制和均压策略，针对单相多个H桥级联固态变压器的通用SVPWM方法存在的电压和功率不均问题，提出了一种控制单个H桥直流母线电压、调节其他H桥的脉冲宽度来使电压跟随的控制策略。最后通过仿真证明了该控制策略的可行性和正确性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 固态变压器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1固态变压器在能源互联网中的作用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，固态变压器作为能源互联网中的重要组成部分，不仅起到电能变换的作用，更重要的是维持了整个系统的兼容性和灵活性[10]。固态变压器包含高压交流电网、交流负载、低压直流负载和直流母线四个端口，通过与各个电源和负载的信息共享来协调分布式能源、储能、负载和电网之间的能量流动，有效整合了分布式可再生能源，使分布式可再生能源系统与传统的发电系统的能源得到高效利用。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/159e5c73c931c989b7216f81edb8d2c8fb04cc5b9bfd1885a908da52041a23a9.jpg",
+        "img_caption": [
+            "图1能源互联网结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2固态变压器的拓扑 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "固态变压器的拓扑如图2所示[1]。AC/DC 侧采用多个H桥模块级联而成，具有结构简单、扩展强和控制难度小的优点，不仅可以有效减小开关管的应力，同时还能提高等效开关频率，降低输入电流谐波，减小滤波电感的体积[12]。DC/DC 隔离级采用移相全桥DC/DC变换电路(DAB)，该电路结构简单、开关损耗小、控制方便，采用移相脉冲可实现其能量的双向流动。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ceaa5d061a40ec4b036deb372d20fd296d27358322dffdb17d07ee41524dbe7.jpg",
+        "img_caption": [
+            "Fig.1Structure of energy internet ",
+            "图2固态变压器拓扑",
+            "Fig.2Topology of solid-state transformer "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3单相级联H桥变换器SVPWM算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AC/DC侧采用单相级联H桥变换器，单相级联H桥变换器拓扑如图3所示。 $u _ { \\mathrm { s } }$ ， $i _ { \\mathrm { s } }$ 分别为网侧输入电压和电流； $L$ 为网侧电感； $C _ { 1 }$ 、 $C _ { 2 }$ 、 $C _ { 3 }$ 和 $V _ { \\mathrm { d c l } }$ 、$V _ { \\mathrm { d c } 2 }$ 、 $V _ { \\mathrm { d c } 3 }$ 分别为3个 $\\mathrm { ~ H ~ }$ 桥的直流母线电容和电压；$R _ { 1 }$ 、 $R _ { 2 }$ 、 $R _ { 3 }$ 分别为3个等效负载； $\\mathrm { S } _ { i j }$ ( $i = 1 , 2 , 3$ $j =$ 1,2,3,4）代表H桥的各个开关管。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc0cf1c9d5af1002194b3b08cb2bb0b07cab72ab6d9190373ab9d3cb2c863396.jpg",
+        "img_caption": [
+            "图3级联H桥变换器拓扑图",
+            "Fig.3Topology of cascaded H-bridge transformer "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每个 $\\mathrm { ~ H ~ }$ 桥可以输出 $U _ { \\mathrm { d c } }$ 、0、 $- U _ { \\mathrm { d c } }$ 三种状态，定 义每个 $\\mathrm { ~ H ~ }$ 桥的三种状态为 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ i } = \\left\\{ \\begin{array} { l l } { { U _ { _ \\mathrm { d c } } } } & { { \\mathrm { S } _ { _ \\mathrm { i 1 ^ { \\bf ~ \\hat { \\imath } } } } \\mathrm { S } _ { _ \\mathrm { i 4 } } \\mathcal { W } \\mathrm { i } \\overrightarrow { \\underline { { \\sharp } } } } } \\\\ { { 0 } } & { { \\mathrm { S } _ { _ \\mathrm { i 1 ^ { \\bf ~ \\hat { \\imath } } } } \\mathrm { S } _ { _ \\mathrm { i 3 } } ( \\mathrm { S } _ { _ \\mathrm { i 2 ^ { \\bf ~ \\hat { \\imath } } } } \\mathrm { S } _ { _ \\mathrm { i 4 } } ) \\mathcal { W } \\mathrm { i } \\overrightarrow { \\underline { { \\sharp } } } } } \\\\ { { - U _ { _ \\mathrm { d c } } } } & { { \\mathrm { S } _ { _ \\mathrm { i 2 ^ { \\bf ~ \\hat { \\imath } } } } \\mathrm { S } _ { _ \\mathrm { i 3 } } \\mathcal { W } \\mathrm { i } \\overrightarrow { \\underline { { \\sharp } } } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $i = 1 , 2 , 3$ ，所以3个 $\\mathrm { ~ H ~ }$ 桥级联 $U _ { \\mathrm { a b } }$ 能输出 $+ 3 U _ { \\mathrm { d c } } \\sim$ $- 3 U _ { \\mathrm { d c } } \\ 7$ 种电平，当有 $n$ 个 $\\mathrm { ~ H ~ }$ 桥级联时， $U _ { \\mathrm { a b } }$ 最多可以输出 $2 n { + } 1$ 个电平。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1扇区判断和矢量时间计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "扇区判断如图4所示，其中 $U$ 为信号调制波。设 $U = V _ { \\mathrm { m } } \\mathrm { s i n } \\ ( \\omega t - \\theta )$ ，根据 $V _ { \\mathrm { m } }$ 与 $U _ { \\mathrm { d c } }$ 的大小判断位于哪个扇区。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在一个开关周期 $T$ 内，由 $V _ { \\mathrm { m } }$ 所在扇区的最近两个电平合成 $V _ { \\mathrm { m } }$ 。例如，当 $V _ { \\mathrm { m } }$ 处于第2扇区时，",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8ee330bef195cb492cf18d4bd08fdc0b601035cc8a5343dddf2da5c99565ee2.jpg",
+        "img_caption": [
+            "图4扇区判断",
+            "Fig.4Judge sector methed "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$V _ { \\mathrm { m } }$ 由大矢量 $V _ { \\mathrm { m a x } } = 2 U _ { \\mathrm { d c } }$ 和小矢量 $V _ { \\mathrm { m i n } } = U _ { \\mathrm { d c } }$ 合成。由 伏秒平衡原理可得 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ { \\begin{array} { l } { V _ { \\mathrm { m i n } } T _ { \\mathrm { m i n } } + V _ { \\mathrm { m a x } } T _ { \\mathrm { m a x } } = V _ { \\mathrm { m } } T } \\\\ { T _ { \\mathrm { m i n } } + T _ { \\mathrm { m a x } } = T } \\end{array} } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "解方程组式（1）可得 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left\\{ { { T } _ { \\mathrm { { m i n } } } } = ( { { V } _ { \\mathrm { { m } } } } - { { V } _ { \\mathrm { { m a x } } } } ) T \\big / ( { { V } _ { \\mathrm { { m i n } } } } - { { V } _ { \\mathrm { { m a x } } } } ) \\right. } \\\\ &  \\left. \\left[ { { { T } _ { \\mathrm { { m a x } } } } = { { T } - ( { { V } _ { \\mathrm { { m } } } } - { { V } _ { \\mathrm { { m a x } } } } ) T } / ( { { V } _ { \\mathrm { { m i n } } } } - { { V } _ { \\mathrm { { m a x } } } } ) \\right. \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2矢量状态次序 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每个电平矢量（除 $\\pm 3 U _ { \\mathrm { d c } }$ 外）都存在冗余矢量，不同的冗余矢量对直流侧电压 $U _ { \\mathrm { a b } }$ 没有影响，但对各个H桥直流侧电容电压作用效果不同。为了增强SVPWM对任意电平级联H桥多电平变换器的通用性，防止出现电平越级跳变现象，本文简化冗余矢量的选取规则，规定正矢量由0和1两个状态组成；负矢量由0和-1两个状态组成。为了保证各个H桥的直流电容电压的充放电时间相同，每个冗余矢量的作用时间一致。为了防止出现反极性的脉冲，产生反向转矩，任意一次电压矢量的变化最多只能有一个桥臂的开关动作[13]。级联3-H桥的矢量状态次序见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9d42d9234ecb41fc25d6d975e6a8356fd3880dee3529c31bb4720821cc89e2f.jpg",
+        "table_caption": [
+            "表1级联3-H桥矢量状态次序",
+            "Tab.1 State switch sequence cascaded three-H bridge "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间 扇区</td><td>Tmin/3</td><td>Tmax/3</td><td>Tmin/3</td><td>Tmax/3</td><td>Tmim/3</td><td>Tmax/3</td></tr><tr><td>3</td><td>110</td><td>111</td><td>011</td><td>111</td><td>101</td><td>111</td></tr><tr><td>2</td><td>100</td><td>110</td><td>010</td><td>011</td><td>001</td><td>101</td></tr><tr><td>1</td><td>000</td><td>100</td><td>000</td><td>010</td><td>000</td><td>001</td></tr><tr><td>-1</td><td>000</td><td>-100</td><td>000</td><td>0-10</td><td>000</td><td>00-1</td></tr><tr><td>-2</td><td>-100</td><td>-1-10</td><td>0-10</td><td>0-1-1</td><td>00-1</td><td>-10-1</td></tr><tr><td>-3</td><td>-1-10</td><td>-1-1-1</td><td>0-1-1</td><td>-1-1-1</td><td>-10-1</td><td>-1-1-1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3电容电压平衡控制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "即使每个H桥直流母线电容的充放电时间相同，但由于各H桥损耗不同、系统延时不同步等原因会导致各个电容电压存在差别。当开关管 $\\mathbf { S } _ { i 1 }$ 和$\\mathbf { S } _ { i 3 }$ 开通或 $\\mathbf { S } _ { i 2 }$ 和 $\\mathbf { S } _ { i 4 }$ 导通时（ $i = 1 , 2 , 3 ,$ ，电容被旁路。当开关管 $\\mathbf { S } _ { i 1 }$ 和 $\\mathbf { S } _ { i 4 }$ 或 $\\mathbf { S } _ { i 2 }$ 和 $\\mathbf { S } _ { i 3 }$ 导通时，电流流向对电容电压的影响如图5所示。由图5可知，当电容的电压和电流方向相同，即 $i V _ { \\mathrm { h } } \\geqslant 0$ ，电容电压上升，当电容的电压和电流方向相反时，即 $i V _ { \\mathrm { h } } \\leqslant 0$ ，电容电压下降[14]。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9705b643bb8aa027321298252b8f6ed0338f2b05779cedf1374bc0b41193759.jpg",
+        "img_caption": [
+            "图5H桥电流流径"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分析表1的矢量状态表可知，在扇区2、1、-1、-2中都存在矢量 $V _ { \\mathrm { d c } }$ ，如级联H桥变换器工作在001矢量时，H桥3的直流电容工作在充放电状态，H桥1和H桥2被旁路。在2、1、-1、-2这些扇区中，状态001、100、010的工作时间都相同。当H桥直流电容电压出现不平衡时，根据H桥的电容电压和电流方向来判断电容的充放电状态，然后在保证001、100、010这三个状态总的工作时间不变的情况下，通过分别控制这三个状态的工作时间来调节各个 $\\mathrm { ~ H ~ }$ 桥的直流电容电压使之平衡，具体如图6所示。如当调制波 $u$ 处于扇区2时，状态001的工作时间增加 $d _ { 1 } T _ { \\mathrm { m i n } } / 3$ ；状态010的工作时间增加 $d _ { 2 } T _ { \\mathrm { m i n } } / 3$ ；为了保证这三个状态的工作总时间不变，状态010的工作时间为 $( 1 - d _ { 1 } - d _ { 2 } ) T _ { \\mathrm { m i n } } / 3$ ，防止状态010的时间出现负数 $- T _ { \\mathrm { m i n } } / 6 \\leqslant d _ { 1 } \\leqslant T _ { \\mathrm { m i n } } / 6$ 、1$T _ { \\mathrm { m i n } } / 6 \\leqslant d _ { 2 } \\leqslant T _ { \\mathrm { m i n } } / 6 \\leqslant$ （204号",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着级联 $\\mathrm { ~ H ~ }$ 桥数量的增加，需要控制的变量 $d _ { n }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5565719409c41057dccce4c966ae8b6ad2bcf9157de4a5eddc67754c91c3edb6.jpg",
+        "img_caption": [
+            "图6电压平衡 SVPWM波形",
+            "Fig.6SVPWM waveforms of voltage balance "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "L $\\mathbf { \\Phi } _ { n } = 1 , 2 \\cdots ,$ ）也随着增加，控制的难度也随之加大。为了更好地控制这些变量，使每个H桥电容电压平衡，提出一种控制一个H桥直流母线电压，其他H桥跟随控制来平衡各个H桥电容电压的策略。以3个H桥级联为例，以第一个H桥为主控制，控制使H桥直流电容电压为设定值 $V _ { \\mathrm { d c 1 - r e f } }$ ，其他H桥跟随第一个H桥对直流电容电压进行调整，使每个 $\\mathrm { ~ H ~ }$ 桥电容电压达到平衡。控制策略如图7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1fefaa305e58c06fdecb2a75ac7213d6f3f03a8597ee84fe7a688bfa26b5f19.jpg",
+        "img_caption": [
+            "Fig.5Current path of H bridge ",
+            "图7跟随控制器",
+            "Fig.7Trace controller "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 控制策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1级联H桥控制策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了实现AC/DC侧无静差控制，本文采用单相dq变换控制策略。单相dq变换原理跟三相dq变换原理相似，都是通过坐标变换将三相交流变成直流，从而可以用PI实现无静差控制，然后将直流通过坐标反变换变成交流产生PWM波。单相dq变换的控制策略如图8所示，通过增加一个滞后电流$i ~ 9 0 ^ { \\circ }$ 相位的虚拟电流。其中， $V _ { \\mathrm { d c l } }$ 为级联H桥第一个 $\\mathrm { ~ H ~ }$ 桥的电容电压。 $\\mathrm { a m } / d q$ 变换矩阵为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\operatorname { a m } / \\mathop { d q } = \\left( \\begin{array} { c c } { \\sin \\theta } & { - \\cos \\theta } \\\\ { \\cos \\theta } & { \\sin \\theta } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "dq/am变换矩阵为 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { T } ^ { - 1 } = d q / \\mathrm { a m } = \\left( \\begin{array} { c c } { { \\sin \\theta } } & { { \\cos \\theta } } \\\\ { { - \\cos \\theta } } & { { \\sin \\theta } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e23b2db3c0e9d1620904a1f5d132080ad2f7dfa2d9c9bb3236e9c5197c4d42b.jpg",
+        "img_caption": [
+            "图8单相dq变换控制策略图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2移相全桥DC/DC变换电路控制策略",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "移相全桥DC/DC变换电路采用移相的PWM波控制开关管来实现能量的双向流动。控制策略如图9所示，先采用下垂控制提供参考电压 $U _ { \\mathrm { d c - r e f } }$ ，然后用电压外环、电流内环控制直流母线电压使直流母线电压等于参考电压。其中， $U _ { \\mathrm { d c - s e t } }$ 为直流母线参考电压， $U _ { \\mathrm { d c } }$ ， $i _ { \\mathrm { r } }$ 分别为直流母线电压和输出电流。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c63c159edcaa06872945aa141599fed4678705fe969b4cce097c534e605379eb.jpg",
+        "img_caption": [
+            "Fig.8Strategy of single phase $d q$ transform ",
+            "图9移相全桥DC/DC控制结构图Fig.9Control structure of DAB"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 仿真",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证所提的单相级联H桥电压平衡控制的SVPWM策略和固态变压器控制策略的正确性，本文在Matlab/Simulink基于3个H桥单元的固态变压器进行仿真。仿真参数见表2。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "电网侧电压如图10a所示，AC/DC采用3个单元的H桥实现了7电平运行，电网侧电流和电压的波形如图10b所示，可以看出电网工作在单位功率因数；图10c为电网侧电流，电网电流谐波小，减小了固态变压器对电网影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2仿真参数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/259de9fdd3f5ddb47e76fcb4afaf0c4d00d52b0e9cf9acfd43ef5e2bd9caa2ae.jpg",
+        "table_caption": [
+            "Tab.2Simulation parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>电网电压/V</td><td>220</td><td>直流母线电压/V</td><td>400</td></tr><tr><td>H桥电容电压/V</td><td>200 ×3</td><td>交流负载端口电压/V</td><td>220</td></tr><tr><td>AC/DC开关频率/kHz</td><td>10</td><td>低压直流负载电压/V</td><td>20</td></tr><tr><td>DC/DC开关频率/kHz</td><td>10</td><td>负载电阻/Ω</td><td>5</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4805445b1efcb2a882ef18ade758814627eb82ab84fb111e18b7685341e6a21.jpg",
+        "img_caption": [
+            "图10 仿真波形",
+            "Fig.10Simulation waveforms of experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图11为固态变压器AC/DC部分仿真波形图，仿真开始时，电容电压平衡控制处于屏蔽状态，3个H桥所接等效电阻分别为12、8、 $1 6 \\Omega$ 。由图11可知3个电容电压处于不平衡状态，第一个H桥直流母线电压由于单相dq变换控制等于 $2 0 0 \\mathrm { V }$ ，在0.2s时，电容电压平衡控制开始作用，第二、第三个H桥的电容电压向第一个H桥的电容电压迅速靠近，达到平衡状态。通过对比分析图11的结果，当电压不平衡时，本文所提控制策略与文献[4]所提控制策略都能在短时间内实现直流侧电压平衡。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f48a00017ce655542d463269365c7cd1aee9cb61e9875a024db6d0cc2d14b79.jpg",
+        "img_caption": [
+            "图11H桥电容电压波形"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图12所示，图12a为固态变压器中移相全桥DC/DC变换器的移相PWM波，通过控制移相角来实现能量的双向流动；图12b为固态变压器直流母线端口电压波形；图12c为固态变压器低压直流端□电压波形。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cbb8f04c90f55902d40be14105c316b1348083424c5a50b823fc689489d658f.jpg",
+        "img_caption": [
+            "Fig.11Capacitor voltage waveforms ofHbridge ",
+            "图12 仿真波形",
+            "Fig.12Simulation waveforms of experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "固态变压器作为能源互联网中的核心装置在能量协调与转换中起到非常重要的作用。本文针对固态变压器前侧AC/DC侧的级联H桥提出了一种单相多H桥的SVPWM方法，并为了解决多个H桥电路中存在的电容电压不平衡问题，提出控制一个H桥电路电压，其他H桥跟随控制的策略，最后通过仿真证明了上述方法的正确性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Huang A Q, Crow M L, Heydt G T, et al. The future renewable electric energy delivery and management (FREEDM) system: the energy internet[J].Proceedings of the IEEE,2011,99(O1): 133-148.   \n[2] Huang AQ.FREEDM system-a vision for the future grid[C]. Power and Energy Society General Meeting, Minneapolis,MN,2010: 1-4.   \n[3] Dujic D,Zhao C,Mester A,et al.Power electronic traction transformer-low voltage prototype[J]. IEEE Transactions on Power Electronics,2013,28(12): 5522-5534.   \n[4] 苟伟．一种模块级联固态变压器及其控制策略的 研究[D]．杭州：浙江大学，2013.   \n[5] 吴瑕杰，熊成林，侯聂，等．一种适用于任意电平 数三相级联H桥变换器的简化多电平 SVPWM算法 [J]．中国电机工程学报，2016，36(10)：2753-2761. Wu Xiajie,Xiong Chenglin, Hou Nie, et al. A simplified multilevel space vector pulse width modulation algorithm for three-phase cascaded H-bridge converters with any level[J]. Proceeding of the CSEE,2016,36(10): 2753-2761.   \n[6] 葛俊杰，赵争鸣．级联型电压自平衡固态变压器 [J]．清华大学学报（自然科学版），2013，54(4)： 459-464. Ge Junjie, Zhao Zhenming. Cascaded voltage self balancing solid state transformer[J]. Journal of Tsinghua University (Science and Technology), 2013, 54(4): 459-464.   \n[7] Xu She,Alex Q Huang. 3-D space modulation with voltage balancing capability for a cascaded sevenlevel converter in a solid-state transformer[J]. IEEE Transactions on Power Electronics,2011, 26(12): 3778-3789.   \n[8] Zhao F,Wang G,Bhattavhrya S,et al.Voltage and power balance control for a cascaded H-bridge converter based solid state transformer[J].IEEE Transactions on Power Electronic,2013,28(4): 1523-1532.   \n[9] 王顺亮，宋文胜，冯晓云．一种单相级联H桥整 流器 SVPWM及其电容电压平衡控制方法[J]．铁 道学报，2016，07：26-33. Wang Shunliang, Song Wenbing, Feng Xiaoyun. A SVPWM method with capacitor voltage balancing control for single phase cascaded H-bridge rectifiers[J]. Journal of the China Railway Society, 2016,38(7): 26-33.   \n[10] Zhao TF,Wang GY,Bhattacharya S,et al.Voltage and power balance control for a cascaded H-bridge converter-based solid-state transformer[J].IEEE Transactions on Power Electronics,2013,28(4): 1523-1532.   \n[11] Bhattacharya S,Zhao TF,Wang G Y,et al.Design and development of generation-I silicon based solid state transformer[C].In Proc.25th IEEE Appl.Power Electron.Conf.Expo.,2010:1666-1673.   \n[12] 吴剑．模块级联型三相固态变压器及其控制策略 的研究[D]．杭州：浙江大学，2015.   \n[13] 高虎军．移相全桥DC/DC 变换器的设计与研究[D]. 西安：长安大学，2013.   \n[14] 苑春明．三电平变换器SVPWM关键技术研究[D]. 合肥：合肥工业大学，2008. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

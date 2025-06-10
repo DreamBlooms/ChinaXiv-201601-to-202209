@@ -1,0 +1,168 @@
+# 基于PSASP程序的TCPST潮流建模与仿真
+
+杨永前」　陈　曦²
+
+（1.国网江苏省电力工程咨询有限公司南京2100082.国网江苏省电力有限公司经济技术研究院南京210008）
+
+![](images/4d41989d9259890b9c895de438d4ddfc2a09bda885cee4b6747335e0fbbf0bec.jpg)
+
+杨永前男 1990年生，工程师，主要从事电力工程项目管理方面的工作。
+
+摘要：本文针对双芯对称型可控移相器（TCPST）推导了注入功率方程和注入电流模型。针对两种不同的模型，利用电力系统分析综合程序PSASP6.2提供的用户自定义模型，构造了两种适合于PSASP的潮流算法，便于进行含TCPST电力系统的潮流分析。基于PSASP6.2搭建了3机9节点系统，并进行仿真。结果表明本文所搭建的两种模型均能有效实现含TPCST系统的潮流计算，对于其他电力系统元件建模具有一定的参考意义。
+
+关键词：晶闸管可控移相器 PSASP 建模仿真潮流计算中图分类号：TM743
+
+# Modeling and Simulation of Power Flow for TCPSTBasedon PSASP
+
+![](images/4d4f277dbe7e30f6c509fbc7de2b96c938cba9fa6b6b109cf70fbfcbeb03594e.jpg)
+
+Yang Yongqian'Chen $X i ^ { 2 }$ (1.State Grid Jiangsu Electric Power Engineering Consulting Co,Ltd.Nanjing210008 China 2.State Grid Jiangsu Economic Research InstituteNanjing21oo08China ）
+
+陈曦男1988年生，工程师，主要从事配电网规划方面的工作。
+
+Abstract: Based on current-injected method and power-injected method, two different models of two-core symmetrical thyristor controlled phase shifting transformer (TCPST) are proposed in this paper. Using the user defined model interface of power system analysis software package (PSASP) 6.2, two corresponding models appropriate to PSASP are established,which can be used to analyze the power flow.In order to prove the validity of the two models,a 3-machine 9-bus system for calculation example is established. Calculation result validates the two models are effective to modeling a TCPST.
+
+KeyWords: Thyristor-controlled phase shifter, PSASP,modeling, simulation, power flow calculation
+
+# 1 引言
+
+作为FACTS设备的一类，晶闸管可控移相器(Thyristor Controlled Phase Shifting Transformer,TCPST）不仅能够完成传统机械式移相器调节稳态潮流的任务，还具备对电力系统暂态稳定性产生积极影响的快速响应特性。文献[1]对目前已有的TCPST类型进行了详细的讨论，并根据拓扑形式的不同进行了分类；文献[2]介绍了一种新型的双芯对称离散型可控移相器（Two-CoreSymmetricalDiscrete Thyristor Controlled Phase ShiftingTransformer，TCSD-TCPST)，并针对其数学建模进行了详细的推导。尽管TCPST的拓扑结构多种多样，每种TCPST的具体模型也不尽相同，但可以根据TCPST的相量关系图，利用TCPST的串联部分和并联部分的耦合关系建立TCPST的数学模型。在可控移相器的潮流计算数学建模中，通常采取注入功率法，其中文献[3]推导了理想移相器的节点注入功率模型；文献[4]对考虑阻抗值的移相器建模及注入功率模型进行了详细的推导。
+
+为便于新型电力系统元件的数学建模，电力系统分析综合程序PSASP6.2开发了用户自定义模型(UserDefinition，UD）[5]。文献[6]利用PSASP的自定义模块UD构建了TCPST的节点注入功率模型，并在IEEE14节点系统中验证了所建模型的合理性。文献[7]利用PSASP建立了统一潮流控制器的节点注入功率模型。事实上，TCPST除了可以用节点注入功率模型进行建模外，还可以利用节点注入电流模型进行建模，而且PSASP中UD自定义模块预留了注入电流接口，可方便进行建模。
+
+本文针对文献[2]提出的移相器模型进行进一步建模分析，推导出了方便潮流计算的节点注入电流模型和节点注入功率模型。利用PSASP中的UD自定义模块，对这两种模型分别进行建模，并利用3机9节点系统算例验证了两种模型的有效性。
+
+# 2 TCPST潮流计算模型
+
+由文献[2]推导可知，安装在系统中 $i \mathrm { - } j$ 节点之间的TCPST，能够用一个具有复变比的理想变压器和相应的等值阻抗表示，如图1所示。图1中，变压器的复变比 ${ \dot { T } } = \operatorname { e } ^ { - \mathrm { j } \varphi }$ ，其阻抗值为 $Z _ { \mathrm { { T } } }$ ，对应导纳值为 $Y _ { \mathrm { { T } } } = 1 / Z _ { \mathrm { { T } } } = g _ { \mathrm { { T } } } + \mathrm { { j } } b _ { \mathrm { { T } } }$ 。通常情况下，TCPST的电阻值小，为方便建模及潮流计算，其阻抗值可忽略不计，即 $g _ { \mathrm { T } } = 0$ 。
+
+![](images/26518fef4338cc2af02a8ce2a5a44a8f8dff1fe7a7b304f5eaf8baa474f83846.jpg)  
+图1TCPST等效电路
+
+图1中两端口网络的注入电流与节点电压的关系为
+
+$$
+{ \left( \begin{array} { l } { { \dot { I } } _ { i } } \\ { - { \dot { I } } _ { j } } \end{array} \right) } = { \frac { 1 } { Z _ { \operatorname { T } } } } { \left( \begin{array} { l l } { ~ 1 } & { - { \dot { T } } } \\ { - { \dot { T } } ^ { * } } & { ~ 1 } \end{array} \right) } { \left( \dot { \bar { U } } _ { i } \right) }
+$$
+
+由式（1）可知，当一个系统含有TCPST时，该系统的节点导纳矩阵将为非对称矩阵，且节点导纳矩阵在潮流计算时与移相器有关节点的元素将随移相角的变化而变化。因此，在潮流计算时，势必需要考虑矩阵中的可变元素。而利用TCPST的注入电流模型或注入功率模型，可有效避免上述情况的发生，并且方便利用PSASP程序的UD模块实现与潮流元件的接口。
+
+# 2.1节点注入电流模型
+
+为推导TCPST的注入电流模型，可根据式（1)先将TCPST等值为由一个受控电压源和一个受控电流源组成的受控电源模型，如图2所示。
+
+![](images/b0b6f3abd84b0c86481f2248b1631d41918911a897919a42e86dbb70c367865b.jpg)  
+Fig.1The equivalent circuit of TCPST   
+图2TCPST受控电源模型及注入电流模型 Fig.2The controlled power supply model and current-inject model ofTCPST
+
+图2中， $\dot { U } _ { \mathrm { B } }$ 、 $\dot { I } _ { \mathrm { E } }$ 和 $\dot { K }$ 的表达式为
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \dot { U } _ { \mathrm { B } } = \dot { U } _ { j } - \dot { U _ { i } } = ( \mathrm { e } ^ { \mathrm { i } \varphi } - 1 ) \dot { U _ { i } } = \dot { K } \dot { U _ { i } } } \\ { \dot { I } _ { \mathrm { E } } = \dot { I } _ { i } - \dot { I } _ { j } = ( \mathrm { e } ^ { - \mathrm { j } \varphi } - 1 ) \dot { I } _ { j } = \dot { K } ^ { \ast } \dot { I } _ { j } } \\ { \dot { K } = \mathrm { e } ^ { \mathrm { j } \varphi } - 1 = \left( \cos \varphi - 1 \right) + \mathrm { j } \sin \varphi \enspace } \end{array} \right. } \end{array}
+$$
+
+由于PSASP中UD模型的注入电流接口是由注入电流的虚部和实部表示，因而应先求出节点 $i$ 和节点 $j$ 的注入电流的实部及虚部。为此，可利用诺顿定理，将图2a中的串联电压源 $\dot { U } _ { \mathrm { B } }$ 与导纳 $Y _ { \mathrm { T } }$ 串联的含源支路 $i$ ， $j$ 化为支路导纳与电流源并联的形式，进而求出图2b中TCPST在节点 $i$ 和节点 $j$ 的注入电流 $\Delta \dot { I } _ { i }$ 和 $\Delta \dot { I } _ { j }$ ，即
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \Delta \dot { I } _ { i } = - \dot { I } _ { \mathrm { E } } + \Delta \dot { I } _ { j } } \\ { \Delta \dot { I } _ { j } = Y _ { \mathrm { T } } \dot { U } _ { \mathrm { B } } = Y _ { \mathrm { T } } \dot { K } \dot { U } _ { i } } \end{array} \right. } \end{array}
+$$
+
+综合式（1）～式（3)，可以求出TCPST在节点 $i$ 和节点 $j$ 的注入电流的实部及虚部的表达式为
+
+$$
+\begin{array} { r } { \left\{ \Delta I _ { \mathrm { r s } } = \left[ g _ { \mathrm { r } } \left( \cos \varphi - 1 \right) + b _ { \mathrm { r } } \sin \varphi \right] U _ { j \mathrm { R } } - \right. } \\ { \left. \left[ b _ { \mathrm { r } } \left( \cos \varphi - 1 \right) - g _ { \mathrm { r } } \sin \varphi \right] U _ { j \mathrm { R } } \right. } \\ { \left. \left[ b _ { \mathrm { r } } \left( \cos \varphi - 1 \right) - g _ { \mathrm { r } } \sin \varphi \right] U _ { j \mathrm { R } } + \right. } \\ { \left. \left[ g _ { \mathrm { r } } \left( \cos \varphi - 1 \right) + b _ { \mathrm { r } } \sin \varphi \right] U _ { j \mathrm { R } } \right. } \\ { \left. \left[ g _ { \mathrm { r } } \left( \cos \varphi - 1 \right) - b _ { \mathrm { r } } \sin \varphi \right] U _ { j \mathrm { R } } \right. } \\ { \left. \left[ b _ { \mathrm { r } } \left( \cos \varphi - 1 \right) + g _ { \mathrm { r } } \sin \varphi \right] U _ { j \mathrm { R } } \right. } \\ { \left. \left[ b _ { \mathrm { r } } \left( \cos \varphi - 1 \right) + g _ { \mathrm { r } } \sin \varphi \right] U _ { i } \right. } \\ { \left. \left[ g _ { \mathrm { r } } \left( \cos \varphi - 1 \right) + g _ { \mathrm { r } } \sin \varphi \right] U _ { j \mathrm { R } } + \right. } \\ { \left. \left[ g _ { \mathrm { r } } \left( \cos \varphi - 1 \right) - b _ { \mathrm { r } } \sin \varphi \right] U _ { i } \right. } \end{array}
+$$
+
+式中， $U _ { i \mathrm { R } }$ ， $U _ { j \mathrm { R } }$ 分别为节点 $i$ 和节点 $j$ 电压的实部;$U _ { i \mathrm { I } }$ 、 $U _ { j \mathrm { I } }$ 分别为节点 $i$ 和节点 $j$ 电压的虚部； $I _ { i \mathrm { R } }$ ， $I _ { j \mathrm { R } }$ 分别为节点 $i$ 和节点 $j$ 处TCPST注入电流的实部；$I _ { i \mathrm { I } }$ ， $I _ { j \mathrm { I } }$ 分别为节点 $i$ 和节点 $j$ 处TCPST注入电流的的虚部。
+
+# 2.2节点注入功率模型
+
+由图2b可得TCPST的注入功率模型如图3所示。其中TCPST在节点 $i$ 和节点 $j$ 的注入功率 $\Delta P _ { i }$ 和 $\Delta P _ { j }$ 可表示为
+
+![](images/ac93d37a220ec79188bec7cf23941e8082f93f5db4eb609e8b932b2f2fba1bae.jpg)  
+图3TCPST注入功率模型
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \Delta P _ { i } + \mathrm { j } \Delta Q _ { i } = \dot { U _ { i } } \Delta \dot { I _ { i } ^ { * } } } \\ { \Delta P _ { j } + \mathrm { j } \Delta Q _ { j } = \dot { U _ { j } } \Delta \dot { I _ { j } ^ { * } } } \end{array} \right. } \end{array}
+$$
+
+同样，PSASP中UD模型的注入功率接口是由注入功率的有功和无功表示，可求得TCPST在节点$i$ 和节点 $j$ 的注入功率的实部及虚部的表达式为
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { c } { \Delta P _ { i } = U _ { i } U _ { j } \Big \{ g _ { \mathrm { T } } \big [ \cos \big ( \varphi + \theta _ { i j } \big ) - \cos \theta _ { i j } \big ] + } \\ { b _ { \mathrm { T } } \big [ \sin \big ( \varphi + \theta _ { i j } \big ) - \sin \theta _ { i j } \big ] \Big \} } \\ { \Delta Q _ { i } = U _ { i } U _ { j } \Big \{ g _ { \mathrm { T } } \big [ \cos \big ( \varphi + \theta _ { i j } \big ) - \cos \theta _ { i j } \big ] - } \\ { b _ { \mathrm { T } } \big [ \cos \big ( \varphi + \theta _ { i j } \big ) - \cos \theta _ { i j } \big ] \Big \} } \\ { \Delta P _ { i } U _ { j } \Big \{ g _ { \mathrm { T } } \big [ \cos \big ( \varphi - \theta _ { j i } \big ) - \cos \theta _ { j j } \big ] + } \\ { b _ { \mathrm { T } } \big [ \sin \big ( \varphi - \theta _ { j i } \big ) + \sin \theta _ { i j } \big ] \Big \} } \end{array} \right. } \end{array}
+$$
+
+$$
+\begin{array} { c } { { | \Delta Q _ { j } = - U _ { i } U _ { j } \{ g _ { \mathrm { T } } [ \sin { ( \varphi - \theta _ { j i } ) } + \sin { \theta _ { j i } } ] -  } } \\ { {  b _ { \mathrm { T } } [ \sin { ( \varphi - \theta _ { j i } ) } + \sin { \theta _ { j i } } ] \} } } \end{array}
+$$
+
+式中， $\Delta P _ { i }$ ， $\Delta P _ { j }$ 分别为节点 $i$ 和节点 $j$ 的注入有功功率； $\Delta Q _ { i }$ 、 $\Delta Q _ { j }$ 分别为节点 $i$ 和节点 $j$ 的注入无功功率； $U _ { i \setminus \theta _ { i } }$ 为节点 $i$ 的电压幅值和相位； $U _ { j \setminus \mathrm { ~ } } \theta _ { j }$ 为节点 $j$ 的的电压幅值和相位；且 $\theta _ { i j } = \theta _ { i } - \theta _ { j } ; \theta _ { j i } = \theta _ { j } - \theta _ { i } { \mathrm { < } } \theta$
+
+# 3 TCPST用户自定义建模
+
+# 3.1PSASP自定义模型
+
+电力系统分析综合程序（PowerSystemAnalysisAoftwarePackage，PSASP）是中国电力科学研究院推出的电力系统综合仿真软件。随着电力系统和电力电子技术的发展，新型系统元件不断被开发并在系统中应用，同时新的系统控制技术日益进步。为了顺应趋势，PSASP设计了用户自定义建模方法，利用用户自定义模型UD来模拟新型元件和功能。
+
+用户自定义模型的最小组成部分如图4所示，每个功能框可根据输入量 $( x _ { 1 } , \ x _ { 2 } )$ 完成输出量 $y$ 的运算。PSASP中的用户自定义模型，是通过各种基本功能框的连接装配设计而成。这些功能框可以方便实现微积分运算、代数运算、基本函数运算、逻辑控制运算、线性和非线性函数运算及其他运算等类型。一个复杂的、新型的电力元件，可以通过足够多的基本功能框进行组合，即可构建所需的模型，完成相应的功能。
+
+![](images/04b20702f21e96639dfa56ef3346026df6bdcdc61374dc1482e3c48050196bc7.jpg)  
+Fig.3The power-inject model of TCPST   
+图4UD基本功能框结构
+
+每个用户所定义的模型，通过该模型的输入信息 $X \left( x _ { 1 } , x _ { 2 } , \cdots \right)$ 和输出信息 $Y \left( y _ { 1 } , y _ { 2 } , \cdots \right)$ 与所研究的电力系统连成一个整体，如图5所示。
+
+![](images/01adf863ad38b37553356271ff02e98aa8d925843c00d8432cf68699599f3702.jpg)  
+Fig.4The structure of basic function of UD   
+图5UD模型与电力系统的联系  
+Fig.5The relationship between UD and power system
+
+由式（4）和式（6）可知，TCPST的节点注入电流模型和节点注入功率模型均为基本的代数计算。显然，通过UD中的基本功能框，通过彼此连接，即可构建TCPST的潮流计算模型，从而完成含TCPST系统的潮流仿真计算。
+
+# 3.2TCPST节点注入电流自定义模型
+
+根据式（4)，在PSASP中，可利用各种基本功能框的连接搭建出TCPST节点注入电流的自定义模型如图6所示。图6中有关参数如下：B1、B2节点分别为TCPST的节点 $i$ 和节点 $j$ ；VTR为节点电压实部；VTI为节点电压虚部； $\mathrm { X ( L ) }$ 为所需要的线路电抗，即TCPST的等值电抗；XO(B1)为TCPST的移相角 $\varphi$ ；输出ITR为对应节点母线注入电流的实部；输出ITI为对应节点母线注入电流的虚部。需要注意的是，每个基本功能框中的A参数需要根据式（4）进行设置，确保模型正确。
+
+# 3.3TCPST节点注入功率自定义模型
+
+根据式(6)，在PSASP中，利用各种基本功能框的连接可以搭建出TCPST节点注入功率的自定义模型如图7所示。图7中有关参数如下：B1、B2节点分别为TCPST的节点i和节点 $j$ ；VT为节点电压幅值；X(L)为所需要的线路电抗，即TCPST的等值电抗；X0(B1)为TCPST的移相角 $\varphi$ ；输出P为对应节点母线的注入有功功率；输出Q为对应节点母线注入有功功率。同样需要注意的是，每个基本功能框中的A参数需要根据式（6）进行设置，确保模型正确。
+
+![](images/54d34bdb007e3d0e291762d2ded850879934481127bfc36a75ebf36786deb21b.jpg)  
+图6TCPST节点注入电流自定义模型
+
+![](images/e79669b3bc67845a6d7f5187164def1e8a432ce7d89b77bba3c4a03fabed1064.jpg)  
+Fi.6The current-inject UD model of TCPST   
+图7TCPST节点注入功率自定义模型 Fig.7The power-injectUD model of TCPST
+
+# 4 算例分析
+
+下面以安德森3机9节点测试系统的潮流计算结果为例来说明采用计及阻抗的详细模型的必要性。系统潮流计算数据参见文献[9]，本文利用PSASP搭建的系统如图8所示，设移相器安装在线路8-9上，分别运用TCPST节点注入电流自定义模型、节点注入功率自定义模型进行潮流计算。为验证数据的正确性，同时利用文献[10]介绍的Matpower软件包搭建系统进行潮流计算对比，如图8所示。潮流计算数据见下表。
+
+![](images/e908dd04c4352a6b951370ea6027277062617bb32637f03c30dce770dd717dc4.jpg)  
+图8含TCPST的3机9节点系统单线图  
+Fig.8A3-machine 9-bus system containa TCPST
+
+表不同移相角 $\varphi$ 时TCPST支路的有功功率计算结果 Tab．The active power of TCPST branch under different angle ofTCPST
+
+<html><body><table><tr><td rowspan="2">移相角/(°)</td><td colspan="3">TCPST支路有功功率</td></tr><tr><td>节点注入电流模型</td><td>节点注入功率模型</td><td>Matpower</td></tr><tr><td>7</td><td>不收敛</td><td>不收敛</td><td>不收敛</td></tr><tr><td>5</td><td>0.369 630</td><td>0.369 629</td><td>0.369 624</td></tr><tr><td>3</td><td>0.317 881</td><td>0.317 880</td><td>0.317 879</td></tr><tr><td>0</td><td>0.240123</td><td>0.240 121</td><td>0.240 119</td></tr><tr><td>-3</td><td>0.162 286</td><td>0.162 284</td><td>0.162 288</td></tr><tr><td>-5</td><td>0.110 408</td><td>0.110 407</td><td>0.110 413</td></tr><tr><td>-7</td><td>不收敛</td><td>不收敛</td><td>不收敛</td></tr></table></body></html>
+
+由上表计算结果可知，利用TCPST注入电流自定义模型、节点注入功率自定义模型在PSASP中的计算结果，与Matpower中含TCPST系统的潮流计算结果误差均在 $0 . 1 \%$ 内。这表明图6及图7搭建的用户自定义模型有效，可以为含TPCST的系统在PSASP中计算提供可靠的参考UD 模型。
+
+# 5 结论
+
+本文将TCPST等值模型抽象为可控电源模型，并依据可控电源模型推导出了TCPST节点注入电流自定义模型、节点注入功率自定义模型详细的表达式。TCPST注入电流模型和注入功率模型可以避免含TCPST系统不对称导纳矩阵的处理，可有效与传统潮流计算程序接口。根据PSASP接口数据的特点，本文依据TCPST两种不同的模型表达式，搭建了两种不同的适应PSASP潮流计算的UD模型。此外，本文在安德森3机9节点系统中对含TCPST系统进行了计算，结果表明本文搭建的TCPST节点注入电流自定义模型和节点注入功率自定义模型均能有效地描述TCPST模型，可为PSASP中其他类型的TCPST或FACTS元件的模型搭建提供参考。
+
+# 参考文献
+
+[1] Iravani MR,Maratukulam D.Review of semiconductor-controlled(static) phase shifters for power systemsapplications[J].IEEE Transactions on PowerSystems,1994,9(4):1833-1839.  
+[2] 杨永前，崔勇，杨增辉，等．双芯对称离散型可控移相器的数学建模[J]．陕西电力，2014，42(11)：61-67.Yang Yongqian, Cui Yong,Yang Zenghui, et al.Modelling of two-core symmetrical discrete thyristorcontrolled phase shifting transormer[J]. ShanxiElectric Power,2014,42(11): 61-67.  
+[3] Han Z X.Phase shifter and power flow control[J].IEEE Transactions on Power Apparatus and Systems,1982,PAS-101(10):3790-3795.  
+[4] Noroozian M,Andersson G.Power flow controlby use of controllable series components[J].IEEETransactions on Power Delivery,1993,8(3):1420-1429.  
+[5] 中国电力科学研究院．电力系统分析综合程序用户手册[M]．北京：中国电力科学研究院，2005.  
+[6] 刘前进，黎雄，孙元章．基于PSASP 程序的FACTS潮流建模[J]．电网技术，2000(7)：6-9.Liu Qianjin,Li Xiong,Sun Yuanzhang. Power flowmodelling of FACTS based on PSASP[J].PowerSystem Techonlogy,2000(7):6-9.
+
+[7] 姚蜀军，宋晓燕，汪燕．基于PSASP的统一潮流控制器潮流建模与仿真[J].华北电力大学学报（自然科学版），2011，38(5)：11-16.Yao Shujun, Song Xiaoyan, Wang Yan. Power flowmodelling of unified power flow controller base onpower system analysis software pcckage(PASAP)[J].Journal of North China Electric PowerUniversity(Natural Science Edition),2011,38(5):
+
+11-16.   
+[8] AndersonPM,FouadAA.Power system control and stability[M].Wiley.com,2008.   
+[9] Zimmerman R D,Murillo-Sänchez C E,Thomas R J. Matpower: steady-state operations,planning and analysis tools for power systems research and education[J]. IEEE Transactions on Power Systems, 2011,26(1): 12-19.

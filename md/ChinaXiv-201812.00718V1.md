@@ -1,0 +1,184 @@
+1饲料中添加牛磺酸对红鳍东方鲀幼鱼生长性能、体组成和肝脏中牛磺酸合成关键酶活性的影  
+2 响
+
+3 郭斌1,²梁萌青 2\*徐后国²卫育良²（1.上海海洋大学水产与生命学院，上海 201306；2.中国水产科学研究院黄海水产研究所，
+
+5 青岛 266071)  
+6 摘要：本试验旨在研究饲料中添加牛磺酸对红鳍东方鲀幼鱼生长性能、体组成和牛磺酸合  
+7 成关键酶活性的影响。试验共配制4种等氮等脂的试验饲料，试验共配制4种等氮等脂的试  
+8 验饲料，分别是含 $60 \%$ 鱼粉的对照1饲料、含 $45 \%$ 鱼粉的对照2饲料，含 $30 \%$ 鱼粉且分别  
+9 添加 $0 . 5 \%$ 和 $1 . 0 \%$ 牛磺酸的 2种含牛磺酸饲料。选取健康、初始体重为（ $. 1 7 . 3 3 { \scriptstyle \pm 0 . 5 5 }$ ）g的  
+10 红鳍东方鲀幼鱼，随机分配到12个养殖桶中，每个养殖桶中投放25尾。将12个养殖桶随  
+11 机分为4组，每组3个养殖桶，每组随机投喂1种试验饲料，持续投喂 $5 6 \mathrm { d }$ 。结果显示：1)  
+12 各组存活率(SR)无显著差异 $( P { > } 0 . 0 5 )$ ；特定生长率（SGR）以 $1 . 0 \%$ 牛磺酸组最高，对照2组  
+13 最低，但各组间无显著差异 $( P { > } 0 . 0 5 )$ ；对照1组和 $0 . 5 \%$ 牛磺酸组的饲料效率（FE）显著高  
+14 于对照2组 $( P { < } 0 . 0 5 )$ ，与 $1 . 0 \%$ 牛磺酸组无显著差异 $( P { > } 0 . 0 5 )$ ；各组蛋白质沉积率（PPV）、蛋  
+15 白质效率（PER）、肝体比（HSI）、脏体比（VSI）和肥满度（CF）均无显著差异 $( P { > } 0 . 0 5 )$ 。  
+16 2）各组血清和肝脏中谷丙转氨酶（GPT）和谷草转氨酶（GOT）活性均无显著差异 $( P { > } 0 . 0 5 )$ 0  
+17 各组肝脏中半胱氨酸双加氧酶（CDO）活性均无显著差异 $( P { > } 0 . 0 5 )$ ，对照2组肝脏中半胱亚  
+18 磺酸脱羧酶（CSD）活性显著高于对照1组、 $0 . 5 \%$ 牛磺酸组和 $1 . 0 \%$ 牛磺酸组 $( P { < } 0 . 0 5 )$ 。3)  
+19 各组鱼体水分、粗蛋白质、粗脂肪和粗灰分含量均无显著差异 $( P { > } 0 . 0 5 )$ 。综合来看，饲料中  
+20 添加 $0 . 5 \%$ 或 $1 . 0 \%$ 的牛磺酸可以减少 $30 \%$ 的鱼粉用量而不显著影响红鳍东方鲀幼鱼的生长性  
+21 能。
+
+关键词：红鳍东方鲀幼鱼；牛磺酸；生长性能；体组成；牛磺酸合成关键酶中图分类号：S963.7 文献标识码：A 文章编号：
+
+牛磺酸，即 2-氨基乙磺酸，又称牛胆碱、牛胆素，是生物体内的一种非蛋白质β-含硫氨基酸，对于调节机体生理机能具有多种重要功能[1-2]。牛磺酸广泛存在于动物、海藻和真菌的细胞内，在小麦、大豆等陆生植物体内几乎不存在[3-5]。因此，植物蛋白质原料中的牛磺酸缺乏可能是高植物蛋白质饲料降低水产动物生长性能的原因之一。有研究表明当饲料中缺乏牛磺酸时会引起五条的绿肝综合征]。红鳍东方鲀（Takifugu rubripes）属于鲀形目（Telraodontiformes），鲀科（Teraodontoidae）,东方鲀属（Takifugu)，是目前主要的东方鲀养殖种类之一。红鳍东方鲀鱼肉鲜美、营养丰富，具有极高的经济价值。目前红鳍东方鲀的人工养殖技术已经比较成熟，但对红鳍东方鲀营养需求和配合饲料的研究相对滞后，研发高效专用配合饲料成为东方鲀产业发展的关键。牛磺酸作为一种重要的功能性氨基酸，在鱼类的维持、生长、发育、繁殖、代谢方面起着多种调节作用，其有效、合理的添加不仅能提高饲料利用效率、降低饲料和养殖成本，而且能显著促进鱼类生长，提高产品品质。因此，本试验以红鳍东方鲀幼鱼为试验对象，探究在饲料中添加牛磺酸对红鳍东方鲀幼鱼生长的影响，以期为红鳍东方鲀配合饲料的研制提供参考。
+
+1材料与方法
+
+# 1.1 试验饲料
+
+试验共配制4种等氮等脂的试验饲料，首先配制含 $60 \%$ 鱼粉的对照1饲料和含 $45 \%$ 鱼粉的对照2饲料，然后配制含 $30 \%$ 鱼粉且分别添加 $0 . 5 \%$ 和 $1 . 0 \%$ 牛磺酸的2种含牛磺酸饲料。试验饲料组成及营养水平见表1，试验饲料氨基酸组成见表2。所有原料测定常规营养成分后，粉碎机粉碎过80目筛网，按配方称量原料，逐级混匀，然后加鱼油混匀，加 $30 \%$ 水搅拌均匀，用制粒机制成直径为 $2 \mathrm { m m }$ 的颗粒饲料， $5 5 \ \mathrm { ^ \circ C }$ 鼓风干燥 $1 2 \mathrm { h }$ 后置于 ${ } - 2 0 \ { } ^ { \circ } { \mathrm { C } }$ 冷库保存。
+
+# 表1试验饲料组成及营养水平（干物质基础）
+
+Table 1 Composition and nutrient levels of experimental diets (DM basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td>对照1</td><td>对照2</td><td>0.5%牛磺酸</td><td>1.0%牛磺酸</td></tr><tr><td></td><td>Control 1</td><td>Control 2</td><td>0.5%Tau</td><td>1.0%Tau</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>60.00</td><td>45.00</td><td>30.00</td><td>30.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>牛磺酸 Tau</td><td></td><td></td><td>0.50</td><td>1.00</td></tr><tr><td>谷胱粉 Wheat gluten</td><td>1.00</td><td>9.00</td><td>16.00</td><td>16.00</td></tr><tr><td>玉米蛋白粉 Corm gluten</td><td>2.00</td><td>5.00</td><td>9.00</td><td>9.00</td></tr><tr><td>meal</td><td></td><td></td><td></td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>2.00</td><td>8.00</td><td>15.00</td><td>15.00</td></tr><tr><td>小麦粉 Wheat meal</td><td>26.30</td><td>23.30</td><td>18.80</td><td>18.30</td></tr><tr><td>磷脂Phospholipid</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>胆碱 Choline</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>鱼油Fish oil</td><td>4.00</td><td>5.00</td><td>6.00</td><td>6.00</td></tr><tr><td>磷酸二氢钙Ca（HPO4）2</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>维生素预混料 Vitamin</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>premix1)</td><td></td><td></td><td></td><td></td></tr><tr><td>矿物质预混料 Mineral</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>premix2) 维生素CVC</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>51.04</td><td>50.72</td><td>51.11</td><td>51.60</td></tr><tr><td>粗脂肪 Crude lipid</td><td></td><td>9.66</td><td></td><td></td></tr><tr><td></td><td>9.92</td><td></td><td>9.42</td><td>9.47</td></tr><tr><td>粗灰分 Ash</td><td>10.40</td><td>12.70</td><td>8.76</td><td>8.81</td></tr></table></body></html>
+
+1 每千克维生素预混料含有 Contained the folowing per kg of vitamin premix：硫胺素thiamine $2 . 5 \ \mathrm { g }$ ，核黄素，riboflavin $4 . 5 \ \mathrm { g }$ ，盐酸吡哆醇 pyridoxine hydrochloride $2 { \mathrm { g } }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 1$ g， $\mathrm { V K } _ { 3 } \mathrm { ~ 1 ~ g ~ }$ ，肌醇 inositol $8 0 ~ \mathrm { g }$ ，泛酸 pantothenate $6 \mathrm { g }$ ，烟酸 nicotinic acid $2 0 \mathrm { g }$ ，叶酸 folicacid $2 { \mathrm { g } }$ ，生物素 biotin $0 . 1 2 { \mathrm { ~ g ~ } }$ ，VA $3 . 2 \ \mathrm { g }$ ，VD $0 . 5 \mathrm { \ g }$ ，VE $1 2 { \mathrm { g } }$ ，次粉 867 wheat flour g。
+
+2每千克矿物质预混料含有 Contained the following per $\mathbf { k g }$ of mineral premix: NaF $0 . 2 { \ \mathrm { g } }$ K1 0.08 g, $\mathrm { C o C l } _ { 2 }$ 6HO 5 g, $\mathrm { C u S O _ { 4 } }$ :5H2O 1 g, FeSO4:7H2O 8 g, ZnSO4:7H2O 5 g,MnSO4:4HO $1 2 0 \ \mathrm { g }$ ， $\mathrm { C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } } { \cdot } \mathrm { H _ { 2 } O } \ 3 0 0 \ \mathrm { g }$ ， $\mathrm { { N a C l 1 0 } g }$ ，沸石粉 zeolite powder $5 5 1 \ \mathrm { g }$
+
+Table 2Amino acid composition of experimental diets (DM basis)   
+
+<html><body><table><tr><td rowspan="2">氨基酸 Amino acids</td><td colspan="4">组别Groups</td></tr><tr><td>对照1</td><td>对照2</td><td>0.5%牛磺酸</td><td>1.0%牛磺酸</td></tr><tr><td></td><td>Control 1</td><td>Control 2</td><td>0.5%Tau</td><td>1.0%Tau</td></tr><tr><td>必需氨基酸 EAA</td><td></td><td></td><td></td><td></td></tr><tr><td>苏氨酸Thr</td><td>1.91</td><td>1.75</td><td>1.59</td><td>1.54</td></tr><tr><td>氨酸 Val</td><td>2.13</td><td>2.06</td><td>1.86</td><td>1.90</td></tr><tr><td>蛋氨酸 Met</td><td>1.16</td><td>1.19</td><td>0.80</td><td>0.85</td></tr><tr><td>异亮氨酸 Ile</td><td>1.84</td><td>1.81</td><td>1.67</td><td>1.61</td></tr><tr><td>亮氨酸Leu</td><td>3.43</td><td>3.51</td><td>3.48</td><td>3.42</td></tr><tr><td>苯丙氨酸 Phe</td><td>2.27</td><td>2.13</td><td>2.15</td><td>2.57</td></tr><tr><td>赖氨酸Lys</td><td>3.19</td><td>2.64</td><td>2.09</td><td>2.14</td></tr><tr><td>组氨酸 His</td><td>1.14</td><td>1.26</td><td>1.00</td><td>0.99</td></tr><tr><td>精氨酸Arg</td><td>2.44</td><td>2.20</td><td>2.01</td><td>2.02</td></tr><tr><td>总必需氨基酸ΣEAA</td><td>19.52</td><td>18.55</td><td>16.63</td><td>17.02</td></tr><tr><td>非必需氨基酸 NEAA</td><td></td><td></td><td></td><td></td></tr><tr><td>天冬氨酸 Asp</td><td>3.92</td><td>3.55</td><td>3.22</td><td>3.11</td></tr><tr><td>丝氨酸 Ser</td><td>1.85</td><td>1.91</td><td>1.92</td><td>1.87</td></tr><tr><td>谷氨酸 Glu</td><td>7.32</td><td>8.87</td><td>9.81</td><td>9.55</td></tr><tr><td>甘氨酸Gly</td><td>2.26</td><td>2.08</td><td>1.84</td><td>1.91</td></tr><tr><td>丙氨酸 Ala</td><td>2.77</td><td>2.49</td><td>2.14</td><td>2.14</td></tr><tr><td>半胱氨酸Cys</td><td>0.38</td><td>0.62</td><td>0.52</td><td>0.53</td></tr><tr><td>酪氨酸Tyr</td><td>1.60</td><td>1.60</td><td>1.50</td><td>1.66</td></tr><tr><td>脯氨酸 Pro</td><td>5.73</td><td>7.00</td><td>7.80</td><td>7.56</td></tr><tr><td>牛磺酸 Tau</td><td>0.42</td><td>0.31</td><td>0.65</td><td>1.08</td></tr></table></body></html>
+
+<html><body><table><tr><td>总非必需氨基酸ΣNEAA</td><td>26.24</td><td>28.53</td><td>29.39</td><td>29.42</td></tr><tr><td>总必需氨基酸/总非必需氨</td><td>0.75</td><td>0.66</td><td>0.58</td><td>0.59</td></tr></table></body></html>
+
+# 1.2 饲养管理
+
+养殖试验在山东省烟台市天源水产有限公司进行，试验所用红鳍东方鲀幼鱼购自海阳市黄海水产有限公司。试验开始前先使用对照1饲料暂养1周，使其适应养殖环境和饲料的大小、硬度。试验采用自然光照，养殖模式为流水养殖，水源为自然海水，水温在 $1 4 { \sim } 2 5 ^ { \circ } \mathrm { C }$ ，溶氧浓度在 $5 . 5 \mathrm { m g / L }$ 左右，盐度在35左右，pH在 $7 . 5 \sim 8 . 0$ 。
+
+试验开始前停食 $2 4 \mathrm { h }$ ，然后随机选取健康、规格一致、初始体重为（ $. 1 7 . 3 3 { \pm } 0 . 5 5 \$ ）g的红鳍东方鲀幼鱼，随机分配到12个容积为 $1 5 0 \mathrm { L }$ 的塑料养殖桶中，每个养殖桶中投放25尾。将12个养殖桶随机分为4组，每组3个养殖桶，每组随机投喂1种试验饲料。养殖试验期间每天早、中、晚各表观饱食投喂1次，投喂 $0 . 5 \mathrm { h }$ 后对每个养殖桶内的残饵计数，根据每100 粒饲料的平均质量，计算残饵质量。养殖 $2 8 \mathrm { d }$ 后将 $1 5 0 \mathrm { L }$ 养殖桶换为 $5 0 0 \mathrm { { L } }$ 大桶，换桶没有造成鱼死亡。试验时间为2017年8一10月，养殖期共 $5 6 \mathrm { d }$ 。
+
+1.3样品采集与分析
+
+试验开始前随机取20尾红鳍东方鲀幼鱼作为初始鱼，用于常规营养成分分析。试验结束后，饥饿 $2 4 \mathrm { h }$ ，对每桶鱼进行计数、称重。每桶随机取3尾鱼，尾静脉取血，用 $1 \%$ 肝素钠抗凝， $4 \mathrm { { ^ \circ C } }$ 静置 $^ { 4 \mathrm { h } }$ 后 $3 ~ 5 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 取上层血清，置于液氮中保存；采血后的鱼称重并测量体长，解剖分离内脏团和肝脏并称重。
+
+饲料和鱼体常规营养成分分析参考AOAC（1995）的方法。其中，水分含量测定采用$1 0 5 \mathrm { ~ \textdegree ~ }$ 烘干至恒重法；粗蛋白质含量测定采用凯氏定氮法（VELP凯氏定氮仪，UDK-142Automatic Distillation Unit，意大利)；粗脂肪含量测定采用索氏抽提法（SOXTEC2050 FOSS脂肪测定仪，瑞典)，以石油醚作为抽提液；粗灰分含量采用马弗炉（ $5 5 0 \ \mathrm { ^ \circ C } \$ ）灼烧 $6 \mathrm { { h } }$ 测得。谷草转氨酶(GOT)、谷丙转氨酶(GPT)活性采用南京建成生物工程研究所生产的试剂盒进行测定。半胱亚磺酸脱羧酶(CSD)和半胱氨酸双加氧酶(CDO)活性采用仁捷生物公司生产的酶联免疫吸附测定（ELISA）试剂盒测定。
+
+饲料氨基酸组成的测定参考GB/T18246-2000 的方法，使用L-8900 全自动氨基酸分析仪（Hitachi，日本）测定。检测了饲料中9种必需氨基酸、7种非必需氨基酸和牛磺酸的含量，色氨酸因酸水解破坏而未检测。
+
+1.4计算公式存活率（survival rate，SR， $\%$ ） $\scriptstyle = 1 0 0 \times$ 终末鱼尾数/初始鱼尾数;摄食率（feed intake，FI， $\% \%$ ） ${ \bf \Pi } = 1 0 0 \times$ 摄食饲料干重/试验天数 $\times$ （初始体重 $. +$ 终末体重）  
+/2]；特定生长率（水平 pecial growth rate，SGR， $\% \%$ ） $\scriptstyle = 1 0 0 \times$ （ln 终末体重-In 初始体重）/  
+试验天数;饲料效率（feed efficiency，FE， $\% ) =$ （终末体重-初始体重）/摄食饲料干重；蛋白质沉积率（protein productive value，PPV， $\%$ ） ${ \bf \Pi } = 1 0 0 \times \mathbf { \Pi }$ 鱼体蛋白质沉积量/总饲料蛋  
+白质摄入量;蛋白质效率（protein efficiency ratio，PER） $\mathbf { \Sigma } = \mathbf { \Sigma }$ （终末体重-初始体重）/总饲料蛋白质摄  
+入量；肝体比（hepatosomatic index，HSI， $\%$ ） ${ \bf \Pi } = 1 0 0 \times$ 肝脏重/体重;脏体比（viscerosomatic index，VSI， $\%$ ） ${ \bf \Pi } = 1 0 0 \times$ 内脏团重/体重;肥满度（condition factor，CF， $\mathbf { g } / \mathbf { c m } ^ { 3 } ) = 1 0 0 \times$ 体重/体长(体重单位：g；体长单位：cm)。
+
+# 1.5 数据分析
+
+试验数据使用 SPSS17.0软件进行处理，采用单因素方差分析（one-wayANOVA）程序进行方差分析，若存在显著差异（ $\cdot P { < } 0 . 0 5 \rangle$ ，则采用Duncan氏法进行组间多重比较。结果以平均值±标准误（mean±SE）表示。
+
+2结果
+
+2.1饲料中添加牛磺酸对红鳍东方鲀幼鱼生长性能和形体指标的影响
+
+饲料中添加牛磺酸对红鳍东方鲀幼鱼生长性能和形体指标的影响见表3。各组存活率无显著差异 $( P { > } 0 . 0 5 )$ ； $1 . 0 \%$ 牛磺酸组特定生长率最高，但各组之间并无显著差异 $( P { > } 0 . 0 5 )$ ；对照2 组摄食率显著高于对照1组 $_ { ( P < 0 . 0 5 ) }$ ，与 $0 . 5 \%$ 牛磺酸组和 $1 . 0 \%$ 牛磺酸组无显著差异$( P { > } 0 . 0 5 )$ ；对照1组和 $0 . 5 \%$ 牛磺酸组饲料效率显著高于对照2 组 $( P { < } 0 . 0 5 )$ ，与 $1 . 0 \%$ 牛磺酸组无显著差异 $( P { > } 0 . 0 5 )$ ；各组蛋白质沉积率、蛋白质效率、肝体比、脏体比和肥满度均无显著
+
+差异 $( P { > } 0 . 0 5 )$ 。
+
+# 表3饲料中添加牛磺酸对红鳍东方鲀幼鱼生长性能和形体指标的影响
+
+Table 3Effects of dietary taurine on growth performance and physical indicators of juvenile   
+
+<html><body><table><tr><td colspan="5">tigerpuffer</td></tr><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td>对照1 Control 1</td><td>对照2 Control 2</td><td>0.5%牛磺酸 0.5%Tau</td><td>1.0%牛磺酸 1.0%Tau</td></tr><tr><td>存活率 SR/%</td><td>85.33±3.53</td><td>80.00±2.31</td><td>85.33±4.81</td><td>85.33±2.67</td></tr><tr><td>特定生长率 SGR/(%/d)</td><td>1.96±0.07</td><td>1.88±0.07</td><td>2.00±0.11</td><td>2.06±0.06</td></tr><tr><td>摄食率 FI/ (%/d)</td><td>1.89±0.06b</td><td>2.14±0.02a</td><td>1.98±0.10ab</td><td>2.05±0.04ab</td></tr><tr><td>饲料效率 FE/%</td><td>0.93±0.01a</td><td>0.80±0.03b</td><td>0.91±0.05a</td><td>0.89±0.02ab</td></tr><tr><td>蛋白质沉积率 PPV/%</td><td>28.04±0.20</td><td>24.69±0.87</td><td>27.13±2.05</td><td>26.85±0.80</td></tr><tr><td>蛋白质效率 PER</td><td>1.85±0.02</td><td>1.64±0.06</td><td>1.81±0.10</td><td>1.73±0.03</td></tr><tr><td>肝体比 HSI/%</td><td>9.30±0.41</td><td>9.15±0.52</td><td>10.54±0.58</td><td>9.55±0.40</td></tr><tr><td>脏体比 VSI/%</td><td>18.65±0.65</td><td>17.73±0.72</td><td>19.6±0.51</td><td>18.04±0.78</td></tr><tr><td>肥满度 CF/（g/cm³）</td><td>3.71±0.13</td><td>3.65±0.12</td><td>3.63±0.24</td><td>3.83±0.34</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同字母表示差异显著(P$< 0 . 0 5 )$ 。下表同。
+
+In the same row, values with no letter or the same letter superscripts mean no significant difference ( $\mathrm { \Delta } P { > } 0 . 0 5 \mathrm { \Delta }$ ), while with different letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ ： The same as below.
+
+2.2饲料中添加牛磺酸对红鳍东方鲀幼鱼血清和肝脏中GPT 和GOT活性的影响饲料中添加牛磺酸对红鳍东方鲀幼鱼血清和肝脏中GPT 和GOT活性的影响见表4。各组血清和肝脏中GPT 和GOT 活性均无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+表 4饲料中添加牛磺酸对红鳍东方鲀幼鱼血清和肝脏中GPT 和GOT 活性的影响 Table 4Effects of dietary taurine on GPT and GOT activities in serum and liver of juvenile tiger
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td>对照1</td><td>对照2</td><td>0.5%牛磺酸</td><td>1.0%牛磺酸</td></tr><tr><td>血清 Serum</td><td>Control 1</td><td>Control 2</td><td>0.5%Tau</td><td>1.0%Tau</td></tr><tr><td>谷丙转氨酶</td><td>26.75±4.26</td><td>21.16±5.96</td><td>32.98±2.28</td><td>29.51±3.42</td></tr><tr><td>GPT/(U/L) 谷草转氨酶</td><td></td><td></td><td></td><td></td></tr><tr><td>GOT/(U/L)</td><td>13.57±2.09</td><td>11.83±3.37</td><td>18.46±1.28</td><td>14.17±2.29</td></tr><tr><td>肝脏Liver</td><td></td><td></td><td></td><td></td></tr><tr><td>谷丙转氨酶</td><td>48.15±1.36</td><td>51.02±5.24</td><td>41.26±1.72</td><td>41.11±3.55</td></tr><tr><td>GPT/(U/g prot)</td><td></td><td></td><td></td><td></td></tr><tr><td>谷草转氨酶</td><td>48.45±3.48</td><td>47.22±1.55</td><td>42.20±6.75</td><td>45.37±5.25</td></tr></table></body></html>
+
+2.3饲料中添加牛磺酸对红鳍东方鲀肝脏中CDO 和CSD 活性的影响
+
+饲料中添加牛磺酸对红鳍东方鲀幼鱼肝脏中CDO 和CSD 活性的影响见表5。各组肝脏中 CDO 活性均无显著差异 $( P { > } 0 . 0 5 )$ ，对照2 组肝脏中CSD 活性显著高于其他3组 $_ { ( P < 0 . 0 5 ) }$ 而其他3组之间则无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+表5饲料中添加牛磺酸对红鳍东方鲀幼鱼肝脏中CDO 和CSD 活性的影响
+
+Table 5Effects of dietary taurine on liver CDO and CSD activities of juvenile tiger puffer   
+
+<html><body><table><tr><td colspan="5">pg/g prot</td></tr><tr><td>项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td></td><td>对照1 Control 1</td><td>对照2 Control 2</td><td>0.5%牛磺酸 0.5%Tau</td><td>1.0%牛磺酸 1.0%Tau</td></tr><tr><td>半胱氨酸双加氧酶</td><td>40.37±1.00</td><td>41.04±1.78</td><td>40.17±1.42</td><td>40.73±0.65</td></tr><tr><td>CDO 半胱亚磺酸脱羧酶</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>23.52±0.94b</td><td></td><td></td><td></td></tr><tr><td>CSD</td><td></td><td>27.39±0.69a</td><td>22.50±0.14b</td><td>21.94±1.01b</td></tr></table></body></html>
+
+2.4饲料中添加牛磺酸对红鳍东方鲀幼鱼体组成的影响
+
+饲料中添加牛磺酸对红鳍东方鲀幼鱼体组成的影响见表6。各组水分、粗蛋白质、粗脂肪和粗灰分含量均无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+# 表6饲料中添加牛磺酸对红鳍东方鲀幼鱼体组成的影响 (湿重基础)
+
+Table 6Effects of dietary taurine on body composition of juvenile tiger puffer (wet weight   
+
+<html><body><table><tr><td colspan="5">basis) %</td></tr><tr><td>项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td></td><td>对照1 Control 1</td><td>对照2 Control 2</td><td>0.5%牛磺酸 0.5%Tau</td><td>1.0%牛磺酸 1.0%Tau</td></tr><tr><td>水分 Moisture</td><td>77.54±0.33</td><td>77.89±0.30</td><td>77.52±0.41</td><td>77.42±0.45</td></tr><tr><td>粗蛋白质 Crude</td><td>14.80±0.16</td><td>14.70±0.02</td><td>14.67±0.21</td><td>15.02±0.14</td></tr><tr><td>protein 粗脂肪 Crude lipid</td><td>4.33±0.22</td><td>3.88±0.05</td><td>4.41±0.32</td><td>4.51±0.30</td></tr><tr><td></td><td>2.46±0.03</td><td>2.49±0.05</td><td></td><td></td></tr><tr><td>粗灰分 Ash</td><td></td><td></td><td>2.31±0.02</td><td>2.44±0.14</td></tr></table></body></html>
+
+3讨论
+
+3.1饲料中添加牛磺酸对红鳍东方鲀幼鱼生长性能的影响
+
+饲料中植物蛋白质含量的增加通常会降低水产动物的生长性能和饲料效率，这一方面与植物蛋白质中的抗营养物质有关，另一方面也与植物蛋白质中缺少牛磺酸有关[7]。Kikuchi等[8]以含 $70 \%$ 鱼粉饲料为对照，发现豆粕可以替代 $13 \%$ 的鱼粉而不影响红鳍东方鲀的生长性能；Lim 等[]以含 $45 \%$ 鱼粉饲料为对照，发现豆粕可以替代饲料中 $1 3 . 5 \%$ 的鱼粉而不影响红鳍东方鲀的生长性能。在本试验中，在含 $30 \%$ 鱼粉的饲料中添加 $0 . 5 \%$ 或 $1 . 0 \%$ 的牛磺酸，其特定生长率、蛋白质沉积率及蛋白质效率与 $60 \%$ 鱼粉组和 $45 \%$ 鱼粉组无显著差异， $60 \%$ 鱼粉组和 $0 . 5 \%$ 牛磺酸组饲料效率显著高于 $45 \%$ 鱼粉组，与 $1 . 0 \%$ 牛磺酸组无显著差异，这表明饲料中添加 $0 . 5 \%$ 或 $1 . 0 \%$ 的牛磺酸可以减少 $30 \%$ 的鱼粉用量而不影响红鳍东方鲀的生长性能和饲料效率。目前对于红鳍东方鲀牛磺酸需求量的研究尚未见报道，在已报道的鱼类牛磺酸需求量的研究中，适宜水平的牛磺酸可以促进水产动物生长，提高饲料效率[10]。柳茜等[]在含 $1 5 \%$ 鱼粉的饲料中分别添加 $1 \%$ 和 $2 \%$ 的牛磺酸，发现随饲料中牛磺酸含量的增加，大菱鲆的特定生长率和饲料效率显著增加。周铭文等[12]报道了饲料中适宜水平（ $0 . 4 \% \sim 1 . 2 \%$ ）的牛磺酸能显著促进尼罗罗非鱼的生长和摄食，增加体蛋白质和脂肪沉淀。Gaylord 等[13]发现在植物蛋白质饲料中添加牛磺酸可以显著提高虹鳟的生长性能，且添加量在 $0 . 5 \%$ 和 $1 . 0 \%$ 时效果较好。何明等[14]报道了 $8 5 . 9 5 \mathrm { g }$ 左右花鳗幼鳗对饲料中牛磺酸需求量在 $1 . 3 0 8 \%$ 左右，适量添加牛磺酸可以提高花鳗的生长性能，降低饲料系数。王学习等[15]研究发现饲料中$1 \% \sim 1 . 2 \%$ 的牛磺酸有利于斜带石斑鱼幼鱼的生长，并可提高饲料效率，而饲料牛磺酸不足或过多则不利于其生长。本试验中，添加 $0 . 5 \%$ 和 $1 . 0 \%$ 牛磺酸的2组红鳍东方鲀幼鱼的生长性能无显著差异，与含 $60 \%$ 鱼粉的对照1组和含 $45 \%$ 鱼粉的对照2组也无显著差异，由于本试验没有设含 $30 \%$ 鱼粉的对照组，在含 $30 \%$ 鱼粉饲料中添加牛磺酸组与不添加牛磺酸组红鳍东方鲀幼鱼的生长性能是否有差异还不能确定，牛磺酸在红鳍东方鲀幼鱼饲料中的最适添加量还需要进一步研究。
+
+Matsunari等[1]报道，在以鱼粉为基础的饲料中添加 $1 \%$ 的牛磺酸投喂 $0 . 5 \mathrm { \ g }$ 左右鱼6周，发现前3周牛磺酸的添加可促进其生长，但后3周鱼的生长性能与牛磺酸添加无显著相关关系。Qi等[17]研究发现，在 $6 . 3 \ \mathrm { g }$ 的大菱鲆饲料中添加牛磺酸不仅课提高其摄食率、饲料利用，而且可显著提高其生长速度，但对于 $ { 1 6 5 . 9 \mathrm { g } }$ 的大菱鲆，饲料中添加牛磺酸可显著提高其摄食率，但饲料效率并没有显著改善，这个结果提示饲料中添加牛磺酸后生长速度的提高归因于摄食率的增加。在本研究中，当饲料中鱼粉含量由 $60 \%$ 降为 $45 \%$ 时，红鳍东方鲀幼鱼的摄食率显著增加，添加牛磺酸对其无显著影响，摄食率的增加与生长及饲料利用似乎并无相关关系。
+
+3.2饲料中添加牛磺酸对红鳍东方鲀幼鱼肝脏中牛磺酸合成关键酶活性和肝功能的影响牛磺酸是一种条件性必需氨基酸，鱼类对牛磺酸的需求量与鱼的种类和所处的生长时期有关。有报道，海鲈对牛磺酸的需求量为 $0 . 2 \% ^ { [ 1 8 ] }$ ，而五条对牛磺酸的需求量高达 $3 . 4 \% ^ { [ 3 ] }$ 。Qi 等[17]的研究发现， $6 . 3 \ \mathrm { g }$ 的大菱鲆对牛磺酸需求量为 $1 . 1 5 \%$ ，而 $1 6 6 ~ \mathrm { g }$ 的大菱鲆对牛磺酸的需求量降为 $0 . 6 4 \%$ 。这主要与不同鱼类在不同时期自身的牛磺酸合成能力不同有关[19-20]。在鱼体内，牛磺酸可由半胱氨酸、胱氨酸和蛋氨酸等含硫氨基酸合成，肝脏、眼、脑等组织器官均具有合成牛磺酸的能力，但各组织器官合成牛磺酸的能力不同，肝脏为牛磺酸合成的最主要器官[2I]。目前已知的牛磺酸的合成途径主要是半胱亚磺酸途径、半胱胺途径和磺基丙氨酸途径，其中最主要的是半胱亚磺酸途径。这条途径的关键限速酶是CDO 和CSD[2I]。本试验中各组试验鱼肝脏中CDO 活性均无显著差异；但对于CSD 的活性，对照2组肝脏中CSD 活性显著高于其他3组，这说明对照2组由于饲料中牛磺酸含量较低（表2)，使得鱼体通过调节肝脏中CSD 活性来促进牛磺酸的体内合成，从而弥补食物中牛磺酸的缺乏。齐国山[22]在大菱鲆幼鱼高植物蛋白质饲料中分别添加 $1 \%$ 和 $2 \%$ 的牛磺酸，发现 $2 \%$ 牛磺酸添加组大菱鲆肝脏中CSD、CDO 活性显著低于不添加牛磺酸组，与 $1 \%$ 牛磺酸添加组无显著差异。周铭文[21研究发现，尼罗罗非鱼和斜带石斑鱼肝脏中CSD 活性均随着饲料牛磺酸含量的增加而下降。本试验中红鳍东方鲀幼鱼肝脏中CDO活性并没有随饲料牛磺酸含量的增加而发生显著变化，但肝脏中CSD 活性随着饲料牛磺酸含量的增加有所下降，尽管 $0 . 5 \%$ 牛磺酸组和 $1 . 0 \%$ 牛磺酸组之间无显著差异，红鳍东方鲀是否能够通过调节半胱亚磺酸合成调节牛磺酸合成还有待进一步研究。
+
+饲料氨基酸主要通过转氨基作用和脱氨基作用在体内代谢转化，鱼类则主要通过联合脱氨基作用满足机体需要，GPT 和GOT是鱼类氨基酸代谢中的2个关键酶，它们在肝脏中活性的高低反映了氨基酸代谢程度的强弱和肝功能的正常与否[23]。GPT 和GOT 主要存在于肝脏中，正常情况下血清中这2种酶的活性很低，当肝脏组织受损时，细胞膜通透性发生改变，GPT 和GOT会进入血液，导致血清中GPT 和GOT活性上升[23]。本试验中各组红鳍东方鲀幼鱼的血清和肝脏中GPT和GOT活性均无显著差异，说明减少饲料中 $30 \%$ 或 $1 5 \%$ 的鱼粉，同时添加 $0 . 5 \%$ 或 $1 . 0 \%$ 的牛磺酸并没有对红鳍东方鲀幼鱼的肝脏造成不良影响，也并没有显著影响其对氨基酸的代谢，这也与各组生长性能无显著差异的试验结果相对应。
+
+3.3饲料中添加牛磺酸对红鳍东方鲀鱼幼鱼体组成和形态指标的影响
+
+有报道显示饲料中植物蛋白质的增加会降低鱼体的粗脂肪含量[7,24-25]，这主要是由于植物蛋白质中含有的抗营养物质影响了鱼体对脂肪的吸收和代谢，降低了鱼体的脂肪沉积。刘兴旺等[7研究发现，不添加牛磺酸的高植物蛋白质饲料会显著降低大菱鲆鱼体的粗脂肪含量，在高植物蛋白质饲料中添加牛磺酸后，鱼体的粗脂肪含量随牛磺酸含量的增加而增加。这表明牛磺酸对于植物蛋白质造成的鱼体脂肪代谢异常有改善效果。本试验中，各组鱼体粗脂肪含量无显著差异，但随着饲料牛磺酸含量的增加，鱼体粗脂肪含量有升高的趋势，由于缺少含 $30 \%$ 鱼粉的对照组，具体牛磺酸对红鳍东方鲀幼鱼鱼体粗脂肪含量是否有影响还需要进一步研究。
+
+肝体比通常反映了肝脏的脂肪沉积情况。有研究发现鲈鱼肝体比随饲料牛磺酸含量的增加有降低的趋势[26]，这可能与牛磺酸对肝脏脂肪代谢的作用有关。张圆琴等[27]研究发现，在高植物蛋白质饲料中添加牛磺酸显著降低了大菱鲆肝脏粗脂肪含量，增加了大菱鲆肌肉粗脂肪含量，而对全鱼粗脂肪含量无显著影响。这说明牛磺酸可以调节脂肪代谢，降低鱼体肝脏脂肪沉积。而本试验中2个牛磺酸添加组红鳍东方鲀幼鱼的肝体比与对照1组和对照2组均无显著差异，具体牛磺酸对红鳍东方鲀脂肪代谢的影响还需要进一步研究。
+
+4结论
+
+饲料中添加 $0 . 5 \%$ 或 $1 . 0 \%$ 的牛磺酸可以减少 $30 \%$ 的鱼粉用量而不显著影响红鳍东方鲀幼鱼的生长性能。
+
+参考文献：   
+[1]HAYES K C,TRAUTWEIN E A.Taurine deficiency syndrome in cats[J].Veterinary Clinics of North America:Small Animal Practice,1989,19(3):403-413.   
+[2]张龙,杨志刚,周俊宇,等.牛磺酸在水产饲料中的应用[J].饲料研究,2017(24):1-4,10.   
+[3]JACOBSEN J G,SMITH L H.Biochemistry and physiology of taurine and taurine derivatives[J].Physiological Reviews,1968,48(2):424-511.   
+[4]SPITZE A R,WONG D L,ROGERS Q R,et al.Taurine concentrations in animal feed ingredients; cooking influences taurine content[J].JournalofAnimalPhysiologyand Animal Nutrition,2003,87(7/8):251-262.   
+[5]HUXTABLE R J.Physiological actions of taurine[J].Physiological Reviews,1992,72(1):101-163.   
+[6]TAKAGI S,MURATA H,GOTO T,et al.Hemolytic suppression roles of taurine in yellowtail Seriola quinqueradiatafed non-fishmeal diet basedonsoybean protein[J].Fisheries Science,2006,72(3):546-555.   
+[7]刘兴旺,麦康森,刘付志国,等.动植物蛋白源及牛磺酸对大菱鲆摄食、生长及体组成的影响 [J].中国海洋大学学报（自然科学版）,2018,48(5):25-31. [8]KIKUCHI K,FURUTA T.Use of defatted soybean meal and blue mussel meat as substitute for fish meal in the diet of tiger puffer,Takifugu rubripes[J].Journal of the World Aquaculture Society,2009,40(4):472-482.   
+[9]LIM S J,KIM S S,KO G Y,et al.Fish meal replacement by soybean meal in diets for Tiger puffer,Takifugu rubripes[J].Aquaculture,2011,313(1/2/3/4):165-170.   
+[10]EL-SAYED AF M.Is dietary taurine supplementation beneficial for farmed fish and shrimp?A comprehensive review.[J]Reviews in Aquaculture,2013,6(4):241-255.   
+[11]柳茜,梁萌青,郑珂珂,等.牛磺酸及相关氨基酸对大菱鲆幼鱼生长性能及TauTmRNA 表达 的影响[J].水生生物学报,2017,41(1):165-173.   
+[12]周铭文,王和伟,叶继丹.饲料牛磺酸对尼罗罗非鱼生长、体成分及组织游离氨基酸含量的 影响[J].水产学报,2015,39(2):213-223.   
+[13]GAYLORD T G,TEAGUE A M,BARROWS F T.Taurine supplementation of all - plant protein diets for rainbow trout (Oncorhynchus mykiss)[J].Journal of the World Aquaculture Society,2010,37(4):509-517.   
+[14]何明,刘利平,曲恒超,等.牛磺酸对花鳗生长和消化酶活力的影响[J].上海海洋大学学 报,2017,26(2):227-234.   
+[15]王学习,周铭文,黄岩,等.饲料牛磺酸水平对不同生长阶段斜带石斑鱼幼鱼生长性能和体 成分的影响[J].动物营养学报,2017,29(5):1810-1820.   
+[16]MATSUNARIH,TAKEUCHIT,TAKAHASHIM,etal.Effectofdietarytaurine supplementationongrowthperformanceofyellowtail juveniles Seriola quinqueradiata[J].Fisheries Science,2005,71(5):1131-1135.   
+[17]QI G S,AI Q H,MAI K S,et al.Efects of dietary taurine supplementation to a casein-based diet on growth performance and taurine distribution in two sizes of juvenile turbot (Scophthalmus maximus L.)[J].Aquaculture,2012,358/359:122-128.   
+[18]MARTINEZ B J,CHATZIFOTIS S,DIVANACH P,et al.Effect of dietary taurine supplementation on growth performance and feed selection of sea bass Dicentrarchus labrax fry
+
+fed with demand - feeders[J].Fisheries Science,2010,70(1):74-79.
+
+[19]KIM S K,MATSUNARI H,TAKEUCHI T,et al.Effect of different dietary taurine levels on the  
+conjugated bile acid composition and growth performance of juvenile and fingerling Japanese  
+flounder Paralichthys olivaceus[J].Aquaculture,2007,273(4):595-601.  
+[20]PARK G S,TAKEUCHI T,YOKOYAMA M,et al.Optimal dietary taurine level for growth of  
+juvenile Japanese flounder Paralichthys olivaceus[J].Fisheries Science,2002,68(4):824-829.  
+[21]周铭文.饲料牛磺酸对不同饲喂期罗非鱼和石斑鱼的生长及牛磺酸合成酶活性的影响[D].  
+硕士学位论文.厦门:集美大学,2015.  
+[22]齐国山.饲料中牛磺酸、蛋氨酸、胱氨酸、丝氨酸和半胱胺对大菱鲆生长性能及牛磺酸合  
+成代谢的影响[D].博士学位论文.青岛:中国海洋大学,2012.  
+[23]严俊丽,陈四清,常青,等.南极磷虾粉替代鱼粉对圆斑星鲽幼鱼生长性能、血清和肝脏生化  
+指标及血清非特异性免疫指标的影响[J].动物营养学报,2016,28(11):3503-3510.  
+[24]王国霞,付晶晶,黄燕华,等.5 种植物蛋白源替代鱼粉对花鲈生长性能和消化酶活性的影响  
+[J].湖北农业科学,2014,53(4):866-870.  
+[25]赵庆超,张红娟,刘海燕,等.不同动植物蛋白比对大菱鲆摄食生长与体成分的影响[J].饲料  
+研究,2013(11):71-73,82.  
+[26]柳茜,王成强,梁萌青,等.牛磺酸及相关氨基酸对鲈鱼(Lateolabrax japonicus)幼鱼生长及组  
+织氨基酸含量的影响[J].渔业科学进展,2017,38(4):44-52.  
+[27] 张圆琴,张越,卫育良,等.大菱鲆鱼体脂肪累积调节方法研究[J].上海海洋大学学  
+报,2016,25(5):700-709.Effects of Dietary Taurine on Growth Performance, Body Composition and Activities of KeyTaurine Synthesis Enzymes in Liver of Juvenile Tiger Puer (Takifugu rubripes)GUO Bin1,2 LIANG Mengqing2\* XU Houguo²WEI Yuliang2  
+(1. College of Fishers and Life Science, Shanghai Ocean University, Shanghai 201306, China; 2.Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Science, Qingdao 266071,China)
+
+Aostract: Inis experiment was invesugated to stuay ine enects ol uielary aurine on growin performance, body composition and activities of key taurine synthesis enzymes of juvenile tiger puffer（ Takifugu rubripes ）. Six isoenergetic and isonitrogenous experimental diets were formultated, they were control 1 diet containing $60 \%$ fish meal, control 2 diet containing $45 \%$ fish meal and two taurine diets containing $30 \%$ fish mean and adding $0 . 5 \%$ and $1 . 0 \%$ taurine, respectively. Juvenile tiger puffers with the initial body weight of ( $( 1 7 . 3 3 \pm 0 . 5 5 )$ $\mathbf { g }$ were randomly assigned into 12 culture buckets and each buckets cultured 25 fish. The 12 culture buckets were randomly divided into 4 groups and each group had 3 culture buckets. Each diet was fed to one group for $5 6 ~ \mathrm { d } .$ . The results showed as follows: 1) no significant differences were found in survival rate among groups $( P { > } 0 . 0 5 )$ . The specific growth rate (SRG) of $1 . 0 \%$ taurine group was the highest, while the SRG of control 2 group was the lowest, but no significant difference was found among groups $( P { > } 0 . 0 5 )$ . The feed efficiency of control 1 group and $0 . 5 \%$ taurine group was significantly higher than that of control 2 group $( P { < } 0 . 0 5 )$ , but no significant difference was found when compared with $1 . 0 \%$ taurine group $( P { > } 0 . 0 5 )$ . No significant differences were found in protein productive value (PPV)， protein efficiency ratio (PER)， heaptosomatic index (HSI), viscerosomatic index (VSI) and condition factor (CF） among groups $( P { > } 0 . 0 5 )$ . 2) No significant differences were found in the activities of glutamic-pyruvic transaminase (GPT)， glutamic oxalacetic transaminase (GOT） in serum and liver among groups $( P { > } 0 . 0 5 )$ . No significant difference was found in the activity of liver cysteine dioxygenase (CDO) among groups $( P { > } 0 . 0 5 )$ ： The activity of liver cysteinesulfinate decar-boxylase (CSD) of control 2 group was significantly higher thanthat of control 1 group group, $0 . 5 \%$ taurine group and $1 . 0 \%$ taurine group $( P { < } 0 . 0 5 )$ ： 3) No significant differences were found in moisture,crude protein, crude lipid and ash contents of whole body among groups $( P { > } 0 . 0 5 )$ . Above results show that dietary $0 . 5 \%$ or $1 . 0 \%$ taurine can instead of $30 \%$ fish meal do not significantly affect the growth performance of juvenile tiger puffer. Key words: juvenile tiger puffer; taurine; growth performance; body composition; key taurine synthesis enzymes

@@ -1,0 +1,423 @@
+[
+    {
+        "type": "text",
+        "text": "Cyanohydrin as an Anchoring Group for Potent and Selective Inhibitors of Enterovirus 71 3C Protease ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yangyang ZhaiXiangshuai ZhaotZhengjieCui, Man Wang Yaxin Wang\\$Linfeng Lit Qi SunXi YangDebin ZengYingLiuYuna SunZhiyongLouLuqing Shang and Zheng Yin\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+Collge ofParmacyandStateKeyLboratoryofementoOrganicChemistry,nkai Uiversty,94WijinRoad,ankaiistrict   \nTianjin 300071, China   \n‡Collaborative Innovation Center of Chemical Science and Engineering (Tianjin), Tianjin 30o071, China   \n\\$LaboratoryofStructural Biological&MinistryofEducation (MOE),andLaboratoryofProtein Sience,ScholofMedicineadLife   \nSciences，Tsinghua University,Beijing 100084,China   \n\"Collge of Chemistryand KeyLaboratoryofPesticide& Chemical Biology,MinistryofEducation,Central China Noral   \nUniversity,Wuhan 430079, China   \nNational Laboratoryof Macromolecules, Institute of Biophysics,Chinese Academy of Science, Beijing 10o11,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Cyanohydrin derivatives as enterovirus 71 (EV71) 3C protease $\\left( 3 { \\dot { \\mathrm { C } } } ^ { \\mathrm { p r o } } \\right)$ inhibitors have been synthesized and assayed for their biochemical and antiviral activities. Compared with the reported inhibitors， cyanohydrins $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S )  – \\mathrm { . }$ 16and ${ \\big ( } 1 R , 2 S , 2 ^ { \\prime } S , 5 S { \\big ) } .$ -16exhibited significantly improved activity and attractive selectivity profiles against other proteases，which were a result of the specific interactions between the cyanohydrin moiety and the catalytic site of $3 C ^ { \\mathrm { { p r o } } }$ . Cyanohydrin as an anchoring group with high selectivity and excellent inhibitory activity represents a useful choice for cysteine protease inhibitors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e93669662c29847a4ce034b311efe751c36d7854340ab3c9ffc3f75cbd71c42.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cysteine proteases are an important class of enzymes that are heavily involved in various human physiological processes.1 Functional abnormalities of cysteine proteases may lead to human diseases，for instance,inflammatory diseases，neurodegenerative disorders,rheumatoid arthritis，and Alzheimer's disease,among others.² Thus, cysteine proteases are an attractive class of targets for drug discovery.Many inhibitors have been discovered and developed, for example,belnacasan as a caspase-1 inhibitor for the treatment of interleukin- $1 \\beta$ converting enzymerelated diseases.³ Peptidomimetic approaches have been widely adopted in drug discovery targeting cysteine proteases. On the basis of the peptide substrate cleavage specificity of the proteases, peptidomimetic inhibitors generally share a common structure: (1) a modified peptide recognition sequence for specific binding to the protease and (2）a C-terminal electrophilic functional group for anchoring the active-site cysteine.' On the basis of the characterization of the binding modes,the inhibitors can be broadly divided into the reversibles (e.g.,aldehydes,nitriles, $\\alpha \\cdot$ keto amides,etc.） and the irreversibles (e.g., $\\alpha ,$ （ $\\beta$ -unsaturated esters，disulfides,etc.).' According to the mechanism of the interaction,the activity of the inhibitors is proportional to the electrophilicity of the reactive group.However，the covalentirreversible modifiers have seen limited use as potential drug candidates because the strong reactive electrophiles are generally accompanied by poor selectivity toward other proteases' and potential toxicity caused by the formation of protein adducts.4 Therefore,the important issue for cysteine protease inhibitors is the development of a highly selective functional group that can interact noncovalently with the cysteine residue.Cyanohydrin is scarcely reported as an anchoring group of cysteine protease inhibitors,and cyanohydrins as human EV71 $3 C ^ { \\mathrm { p r o } }$ inhibitors with high selectivity are introduced here. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Human EV71,one of the major pathogens of hand, foot,and mouth disease,has caused several large outbreaks in infants and children since 1997，mostly in the Asia-Pacific region. Unfortunately,there are currently no antiviral drugs or vaccines clinically available.EV71 $3 C ^ { \\mathrm { p r o } }$ ，avirus-encoded cysteine protease，plays a key role in the process of virus replication. The single-stranded, positive-sense RNA genome encodes a large polyprotein precursor,which is subsequentlycleaved into four structural proteins (VP1-VP4) and seven nonstructural proteins (2A-3D). $3 C ^ { \\mathrm { { p r o } } }$ is indispensable for all EV71 polyprotein cleavage processes,with the exception of the cleavages of VP1/ 2A and 3C/3D by 2A protease.Meanwhile, $3 C ^ { \\mathrm { p r o } }$ reportedly interferes with host cell function.7 Therefore, the essential role of $3 C ^ { \\mathrm { { p r o } } }$ makes it an attractive target for anti-EV71 drug discovery. In this brief article,we introduce cyanohydrin as an anchoring group of cysteine protease inhibitors with high selectivity against human EV71 $3 C ^ { \\mathrm { p r o } }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A literature survey of EV71 $3 C ^ { \\mathrm { { p r o } } }$ inhibitors revealed that,in addition to the good inhibition exhibited by rupintrivir $\\left( \\mathrm { I C } _ { 5 0 } = \\right.$ $2 . 3 \\pm 0 . 5 \\mu \\mathrm { M } )$ ,derivative ${ \\bf 1 } ^ { 9 }$ 0 $\\mathrm { ' } \\mathrm { I C } _ { 5 0 } < 0 . 5 \\ \\dot { \\mu } \\mathrm { M } ,$ （20 $\\mathrm { E C } _ { 5 0 } = 0 . 0 9 6 \\pm$ $0 . 0 0 6 \\mu \\mathrm { M } )$ with aldehydeas an electrophile(Figure 1) possessed even better activity. The crystal structure of EV71 $3 C ^ { \\mathrm { p r o 1 0 } }$ and the co-crystal structure ofrupintrivir/EV71 $3 { \\mathrm { C } } ^ { { \\mathrm { p r o } } 8 , 1 1 }$ revealed that, in the (S)-γ-lactam fragment, the carbonyl moiety forms a hydrogen bond with the imidazole segment of Hisl6l and the amide nitrogen donates a hydrogen bond to the Thrl42 backbone.Our research was initiated based on the hypothesis that the replacement of the (S)-γ-lactam ring by a (S). $\\cdot \\delta \\cdot$ -lactam ring could improve the potency against EV71 $3 C ^ { \\mathrm { p r o } }$ .As shown in Figure 2,the(S)-δ-lactam ring displayed shorter hydrogen bond distancesand more preferable orientation than the (S)-y-lactam ring when being docked into EV71 $3 C ^ { \\mathrm { p r o } }$ . To validate our hypothesis,aldehyde 6 with a (S)-δ-lactam ring was synthesized together with aldehyde 1 as a reference (Scheme 2).The key intermediate 2 was prepared similarly to literature，and the stereochemistry and high diastereoselectivity were consistent with publications (see Scheme 1，Figure 1，and Part $\\textrm { \\text Q }$ in Supporting Information (S1).9,12 Removal of the Boc group of 2 with TFA followed by an amide bond formation using EDCI as coupling reagent resulted in 3,which was subsequently reacted with cinnamic acid to give 4 through a similar procedure.Alcohol 5,obtained by the reduction of ester 4 with $\\mathrm { N a B H } _ { 4 } ,$ was finally oxidized to aldehyde6 with Dess-Martin periodinane.The biological activities (Table1) indicated that 6 ( $\\mathrm { ' I C } _ { 5 0 } = 0 . 5 4 \\pm 0 . 0 2$ $\\mu \\mathrm { M } , \\mathrm { E C } _ { 5 0 } = 0 . 2 6 \\pm 0 . 0 7 \\mu \\mathrm { M } )$ presented approximately $_ { 7 - 1 0 }$ -fold αThe $\\mathsf { p H }$ condition of biochemical assay for the inhibitors was 7.0 except $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S )$ -16and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16was 6.0.Eachdata presents the average results from three independent experiments,and error bars represent SEMs $\\left( n = 3 \\right)$ ） ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef8ac5b564df4ada6d40f3be6e002c00427e79710e7ee83a1c23b0abf0d72e82.jpg",
+        "img_caption": [
+            "Figure 1. Structures of rupintrivir,1 and 6. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/245d22a44095f5ae415d48d8c003b7e89a12d48aec5bc4d410a80c297074d6e8.jpg",
+        "img_caption": [
+            "Figure 2.Comparison between the docking models of1(yellow) and 6 (green) bound to EV71 $3 C ^ { \\mathrm { p r o } }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7b1e224199b5c71e26d3fc8882cd9c5a16b61c87831e4c628838fa9676a0e72.jpg",
+        "img_caption": [
+            "Scheme 1.Representative Synthetic Scheme of Aldehyde 6 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ddae71051bb140f489eaf3294607e896cd15192c2936081552e639f69ee0405.jpg",
+        "table_caption": [
+            "Table1.Enzyme Inhibitory Activity,Antiviral Activity,and Cytotoxicity of1, 5,6,and 8-16 asEV71 $3 C ^ { \\mathbf { p r o } }$ Inhibitors "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>H R1</td><td>立 R2=O =O</td><td>=0</td><td>F</td></tr><tr><td>NO.</td><td>IC50a b (μM)</td><td>EC50b (uM)</td><td>CC50b (uM)</td></tr><tr><td>1</td><td>3.81 ±0.19 R1H</td><td>3.07 ± 0.20</td><td>>100</td></tr><tr><td>6</td><td>=o 0.54± 0.02 R1-CN</td><td>0.26± 0.07</td><td>>100</td></tr><tr><td>8</td><td>>10 o C3H7</td><td>>100</td><td>>100</td></tr><tr><td>11 R1 =o</td><td>9.49 ± 1.11 ZH R1 CN</td><td>4.59 ± 0.27</td><td>>100</td></tr><tr><td>9</td><td>1.13 ± 0.10 OH R1OH</td><td>0.12 ± 0.05</td><td>>100</td></tr><tr><td>5 14</td><td>>10 R1CN >10</td><td>>100 28.40 ± 1.33</td><td>>100</td></tr><tr><td></td><td></td><td></td><td>>100</td></tr><tr><td>10 R1</td><td>>10 CN</td><td>>100</td><td>>100</td></tr><tr><td>12</td><td>0 s o-ph</td><td>1.05 ± 0.09 0.15 ±0.08</td><td>>100</td></tr><tr><td>13</td><td>R1CN o</td><td>1.62 ± 0.13 0.10 ±0.06</td><td>>100</td></tr><tr><td>15</td><td>RH =o 0.10 ±0.02</td><td>0.11 ± 0.05</td><td>>100</td></tr><tr><td>16</td><td>R2CN OH</td><td>0.28±0.03 0.056±0.004</td><td>>100</td></tr><tr><td>(1S,2S, 2'S, 5S)-16</td><td>R2YON</td><td>0.31 ± 0.03 0.045 ±0.008</td><td>>100</td></tr><tr><td>(1R,2S, 2'S,5S)-16</td><td>R2CN 0H</td><td>0.27± 0.05 0.048± 0.006</td><td>>100</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "better activities than1 $\\mathrm { ' } \\mathrm { I C } _ { 5 0 } = 3 . 8 1 \\pm 0 . 1 9 \\mu \\mathrm { M } ,$ （204号 $\\mathrm { E C } _ { 5 0 } = 3 . 0 7 \\pm$ $0 . 2 0 \\mu \\mathrm { M } )$ in both the protease and cellular assays.The observed $\\mathrm { I C } _ { 5 0 }$ and $\\mathrm { E C } _ { 5 0 }$ values for 1 were different from the previously reported values’ because of the use of different enzyme biochemical assays1’ and cell-based EV71 assays.14 Additionally, the cellular activity is more potent than that of enzymatic activity, which is consistent with the observations in the published literaturesabout3Cand3C-like protease inhibitors.,9,5he enhanced efficacy and low toxicity of 6 $( \\mathrm { C C } _ { 5 0 } > 1 0 0 ~ \\mu \\mathrm { M } )$ directed our attention to the (S)- $\\cdot \\delta$ -lactam ring analogues. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Despite the significant improvement in biological activities,6 asan aldehyde inhibitor may lead to various issues, such as low selectivity,1 in further development. Therefore,we shifted our efforts to replace aldehyde with other anchoring functional groups.Nitriles are well-established cysteine protease inhibitors,17 and $\\alpha$ -keto amides possess good inhibition to calpain, which is a calcium-activated cysteine protease.18A series of compounds were synthesized (Scheme 2).The intermediate ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Scheme 2. Synthetic Scheme of 8-14 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/95fdc70b4c8d8bfd16791ef0640ae99df2791009cb1c9098859d227b7acff6ba.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "carboxylic acid was reacted with carbonyldiimidazoleafter the saponification of ester 4 with aqueous lithium hydroxide,and then the resulting imidazolide was quenched in situ with aqueous $\\mathrm { N H } _ { 3 }$ to provide amide 7.Amide 7was converted to nitrile 8 by $( \\mathrm { C F } _ { 3 } \\mathrm { C O } ) _ { 2 } \\mathrm { O }$ -mediated dehydration.19 Reaction of aldehyde 6 with KCN and ${ \\mathrm { N a H S O } } _ { 3 }$ afforded the corresponding cyanohydrin 9.2o Cyanohydrin 9 was then converted to the methyl ester with hydrochloric acid gas and ethyl acetate.21 Then the carboxylic acid,derived from the hydrolysis of the intermediate methyl ester, coupled with amine to provide 10. $\\alpha$ -Keto amide11 was the oxidative products of 10.14 was achieved in a two-step process via the reduction of the corresponding thionocarbonate ester derivative of9.2² Ester12 was the methyl ester derivative of 9. The biological results showed that，nitrile 8 surprisingly exhibited no inhibitory activities $\\left( \\mathrm { I C } _ { 5 0 } > 1 0 \\mu \\mathrm { M } \\right.$ and $\\mathrm { E C } _ { 5 0 } > \\mathrm { 1 0 0 }$ $\\mu \\mathbf { M } )$ (Table 1).In addition, the anti-EV71 activities of $\\alpha$ -keto amide 11 $\\mathrm { \\langle I C _ { 5 0 } = 9 . 4 9 \\pm 1 . 1 1 ~ } \\mu \\mathrm { M } ,$ $\\operatorname { E C } _ { 5 0 } = 4 . 5 9 \\pm 0 . 2 7 ~ \\mu \\mathrm { M } )$ （204号 presented greater than 1O-fold activity loss compared to 6.The furtherstudyof nitriles and $\\alpha$ -ketoamideswasterminateddue to the unsatisfactory biological activities. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To our surprise,compared to aldehyde 6,cyanohydrin 9, the synthetic precursor of $\\alpha$ -ketoamides,presentedarelatively weak enzyme inhibitory activity $\\left( \\mathrm { I C } _ { 5 0 } = 1 . 1 3 \\pm 0 . 1 \\mu \\mathrm { M } \\right)$ but greater than 2-fold enhancement in cellular activity with an $\\mathrm { E C } _ { 5 0 }$ of 0.12 $\\pm \\ 0 . 0 5 \\ \\mu \\mathrm { M }$ ，To rapidly obtain more knowledge regarding the cyanohydrin group,we focused on the modifications of both -CN and $- \\mathrm { O H }$ in the cyanohydrin group based on the epimeric mixture of cyanohydrins 9.With the removal of $- \\mathrm { C N }$ or $- \\mathrm { O H } ,$ the inhibitors exhibited a dramatic loss in efficacy against $3 C ^ { \\mathrm { p r o } }$ indicating that both $- \\mathrm { C N }$ and $- \\mathrm { O H }$ play critical roles in activity. The virus replication in virus-infected RD cells was attenuated by the treatment of14 with an $\\mathrm { E C } _ { 5 0 }$ of $2 8 . 4 0 \\pm 1 . 3 3 \\mu \\mathrm { M } ,$ whereas 5 provided no inhibition, even at the highest concentration tested $\\mathsf { \\bar { ( } E C } _ { 5 0 } > 1 0 0 \\mu \\mathrm { M ) }$ . It was hypothesized that the nitrile group and the $\\alpha \\mathrm { . }$ -carbon in cyanohydrin contributed synergistically to the activity.Hence,further studies on $- \\mathrm { C N / - O H }$ were performed. Following the replacement of $- \\mathrm { C N }$ with an amide group, $\\alpha \\cdot$ hydroxy amide 10 exhibited no activity against EV71 at the highest concentration tested $' \\mathrm { I C } _ { 5 0 } > 1 0 ~ \\mu \\mathrm { M } ,$ $\\mathrm { E C } _ { 5 0 } > 1 0 0 \\mu \\mathrm { M } )$ ： Moreover,with the esterification of $- \\mathrm { O H }$ by a phenoxythiocarbonyl or acetyl group,derivatized cyanohydrins 12 $\\left( \\mathrm { I C } _ { 5 0 } = \\right.$ $1 . 0 5 \\pm 0 . 0 9 \\mu \\mathrm { M } ,$ （20号 $\\operatorname { E C } _ { 5 0 } = 0 . 1 5 \\pm 0 . 0 8 \\mu \\mathrm { M } )$ and 13 $\\prime { \\mathrm { I C } } _ { 5 0 } = 1 . 6 2 \\pm$ $0 . 1 3 \\ \\mu \\mathrm { M } ,$ $3 \\ \\mu \\mathrm { M } , \\ \\mathrm { E C } _ { 5 0 } = 0 . 1 0 \\pm 0 . 0 6 \\ \\mu \\mathrm { M } )$ presented nearly identical efficacy as 9 against $3 C ^ { \\mathrm { p r o } }$ and EV71 viral replication. These findings suggested that the presence of the -CN group and the electrophilicity of the $\\alpha$ -carbon play important roles in the process of cyanohydrin binding to EV71 $3 C ^ { \\mathrm { p r o } }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In parallel to the structure-activity relationship study, the Xray crystal structure study resulted in elucidation of the cocrystal structure of $\\left( 1 R , 2 S , 2 ^ { \\prime } S , \\right.$ 5S)-9/EV71 $3 C ^ { \\mathrm { p r o } }$ ，which was determined at a $2 . 7 \\mathrm { ~ \\AA ~ }$ resolution during the crystallization experiment of the epimeric mixture of cyanohydrins 9 with EV71 $3 C ^ { \\mathrm { p r o } }$ (Protein Data Bank code SBPE). The binding mode is presented in Figure 3 with the electrostatic potential mapped on the solvent-accessible surface of $3 C ^ { \\mathrm { p r o } }$ . The most important interactions between $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -9 and $3 C ^ { \\mathrm { { p r o } } }$ are highlighted in this figure.Similar to the rupintrivir-liganded protease complex, the overall structure of the $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -9-bound form of EV71 $3 C ^ { \\mathrm { p r o } }$ adopts the typical chymotrypsin-like fold. The $S _ { 1 }$ pocket is formed by Thr142,His161，Glyl63，and Gly164. The (S) $\\cdot \\delta$ -lactam ring engages in two intermolecular hydrogen-bonding interactions with the side chain and the backbone of Thrl42 as donors with distances of 3.1 and $2 . 7 \\mathring { \\mathrm { A } } ,$ respectively.Additionally， the NH proton of Hisl61 forms a hydrogen bond $( 1 . 9 \\mathring \\mathrm { A } )$ , with the lone pair supplied by the (S)-Slactam ring oxygen. The larger $S _ { 2 }$ pocket is able to accommodate the more deeply sunk ${ \\bf P } _ { 2 }$ fragment.Arg39 is located at the back of the $S _ { 2 }$ pocket, forming a $\\pi { - } \\pi$ stacking interaction with the ${ \\bf P } _ { 2 }$ benzene ring. The ${ \\bf P } _ { 3 }$ phenylethylene group occupies the $S _ { 3 }$ pocket, with its phenyl ring extending vertically along the binding groove.The cyanohydrin occupies the ${ \\mathbf { } } S _ { 1 } { } ^ { \\prime }$ pocket and is in close proximity to the protease catalytic center. Compared to $\\alpha { , } \\beta { \\mathrm { . } }$ unsaturated ethyl ester in rupintrivir,one of striking differences is that the cyanohydrin moiety of $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -9 interacts with Cysl47.Neither-CN nor $- \\mathrm { O H }$ forma hydrogen bond with the thiol of Cysl47.However, because of the electron-withdrawing profile of $- \\mathrm { O H }$ and -CN, the $\\alpha$ -carbonof cyanohydrin exhibits electrophilicity to a certain extent,which forms a noncovalent interaction $( \\dot { 2 } . 8 \\ \\mathring \\mathrm { \\ A } )$ with the thiol (Figure 3B). This specific binding element is critical for the cyanohydrin function. Furthermore, the $- \\mathrm { C N }$ ofcyanohydrin participates in a bridge with a tightly bound water molecule in the ${ \\mathbf { } } { S _ { 1 } } ^ { \\prime }$ pocket to stabilize the binding of the inhibitor-protein complex,and the nitrogen is within hydrogen-bonding distances of 2.S and $2 . 3 \\mathrm { ~ \\AA ~ }$ to the backbones of $\\mathrm { G l n } 1 4 6$ and Cys147,respectively. The $- \\mathrm { O H }$ of cyanohydrin interacts with His40 $( 2 . 3 { \\mathrm { \\hat { A } } } )$ as a hydrogen bond acceptor. Kinetic measurements were also performed.The inhibition of EV71 $3 C ^ { \\mathrm { p r o } }$ by 9 was independent of incubation time and competitive,with a $K _ { \\mathrm { i } }$ of $0 . 7 7 \\mu \\mathrm { M }$ (see Part C in SI). These observations were consistent with a reversible，noncovalent mechanism of inhibition. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea7b0f018dfe1a0eaf4ff646c73e8a8f6c677f003c7ab1b4e52967b28f1dfd45.jpg",
+        "img_caption": [
+            "Figure 3.(A)X-ray co-crystal structure of $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right) { \\cdot } 9 / \\mathrm { E V } 7 1$ $3 { \\dot { \\mathrm { C } } } ^ { \\mathrm { p r o } }$ .（B）Partial enlargement for $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right) { \\bf - 9 / E V 7 1 } 3 C ^ { \\mathrm { p r o } }$ complex at $S 1 ^ { \\prime }$ pocket. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Further optimization of9 led to the discovery of cyanohydrin 16, which contained the ${ \\bf P } _ { 2 }$ para-fluorine benzyl group and ${ \\bf P } _ { 3 }$ 5- methylisoxazole fragment (Scheme 3).The docking models of (1S,2S,2'S,5S)-16 and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 bound to EV71 $3 C ^ { \\mathrm { { p r o } } }$ (Figure 4) indicated that the introduction of para-fluoro benzyl influences the electron distribution of the $S _ { 2 }$ pocket，thus enhancing the interaction with positively charged Arg39. Additionally, the P3-isoxazole could form hydrogen interactions with surrounding residues (Serl28,Leul27) of $3 { \\dot { \\mathrm { C } } } ^ { \\mathrm { p r o } }$ .There is an intramolecular hydrogen bond formed between the atoms on the skeleton structure.Indeed,as shown in Table 1,the epimeric mixture of cyanohydrins 16 exhibited better inhibition against EV71 $3 C ^ { \\mathrm { { p r o } } }$ $\\left( \\mathrm { I C } _ { 5 0 } = 0 . 2 8 \\pm 0 . 0 3 \\mu \\mathrm { M } \\right)$ than that of 9, which was consistent with $1 1 5 ^ { 2 3 } \\left( \\mathrm { I C } _ { 5 0 } = 0 . 1 0 \\pm 0 . 0 2 \\mu \\mathrm { M } \\right)$ that had more than 5-fold improved inhibitory activity than that of 6.We next separated the epimeric mixture of cyanohydrins 16 to $\\left( 1 S , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16. The absolute configuration of the chiral carbon of cyanohydrin was determined by modified Mosher's method24 and further supported by $^ 1 \\mathrm { H }$ NMR and the calculated results of energy minimization by MOE (see Part B in SI).Epimerization of the chiral carbon of cyanohydrin only occurred at $\\mathrm { p H } ~ > ~ 6 . 0$ in Tris-HCl buffer，while no epimerization was observed at $\\mathrm { \\ p H } \\le 6 . 0$ in buffer and other solvents (see Figures 20-23 in SI). To obtain the enzyme inhibitory activity of the pure isomers $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S )  –$ 16 and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16, the $\\mathsf { p H }$ condition of biochemical assay was adjusted to 6.O，in which there should be no cyanohydrin epimerization (see Figure 24 in SI） and little impact was observed with the assay. Interestingly, $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S \\bar { S } ) -$ 16 and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 exhibited similar activities in protease and cellular assays.The interactions of $( \\mathbf { 1 } S , \\mathbf { 2 } S , \\mathbf { \\bar { 2 } ^ { \\prime } } S , \\mathbf { 5 } S ) – \\mathbf { 1 6 } /$ $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 docked to EV71 $3 C ^ { \\mathrm { p r o } }$ could help to explain their unsubstantial difference in $\\mathrm { I C } _ { 5 0 }$ values ( $\\left( 0 . 3 1 \\pm 0 . 0 3 \\right.$ vs 0.27 $\\pm \\ 0 . 0 5 \\ \\mu \\mathrm { M } )$ ．As illustrated in Figure 4，in addition to the noncovalent bond between the $\\alpha$ -carbon and the thiol in the ${ \\mathbf { S _ { 1 } } } ^ { \\prime }$ pocket, $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S )$ -16 and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 have almost the same interactive distances between the nitrogen of $- \\mathrm { C N }$ and His40.Moreover， the corresponding distances between $- \\mathrm { O H }$ and Gly145/Cys147 are 2.0 and $4 . 2 \\ \\mathrm { \\bar { A } }$ in the $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S )  –$ 16 model， respectively，compared to 2.2 and 3.1 A in the $( 1 R , 2 S , 2 ^ { \\prime } S , \\bar { 5 } S )$ -16 model.However，although aldehyde 15 presented a strong enzyme inhibitory potency compared to the corresponding cyanohydrin 16, improved antiviral activity of 16 was observed in the cellular assay. The calculated log $P$ value of 16(0.54) is 1.5-fold higher than that of aldehyde 15 (0.34).This could be the main factor that the cyanohydrin 16 could have better cellular penetration compared with the aldehyde 15 ( $\\mathrm { \\ ' { E C } } _ { 5 0 }$ $= 0 . 1 1 \\pm 0 . 0 5 \\mu \\mathrm { M } ,$ .Further,aldehyde as a reactive functional group could react with various nuleophiles in the cell. Therefore, the aldehyde may be consumed by nucleophile in the cell that results in less exposure.In addition, the epimeric mixture of cyanohydrins 16 $\\left( \\mathrm { E C } _ { 5 0 } = 0 . 0 5 6 \\pm 0 . 0 0 4 \\mu \\mathrm { M } \\right)$ ， $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S ) .$ 16 （20 $\\left( \\mathrm { E C } _ { 5 0 } = 0 . 0 4 5 \\pm 0 . 0 0 8 ~ \\mu \\mathrm { M } \\right)$ ，and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 ( $\\mathrm { \\text E C } _ { 5 0 } =$ $0 . 0 4 8 \\pm 0 . 0 0 6 \\mu \\mathrm { M } ,$ exhibited equipotent antiviral activities in the cell-based assay.Compared with the reported inhibitor 1 with an aldehyde group $\\left( \\mathrm { E C } _ { 5 0 } ~ = ~ 3 . 0 7 ~ \\pm ~ 0 . 2 0 ~ \\mu \\mathrm { M } \\right)$ ，cyanohydrin derivatives $\\mathbf { ( 1 } S , 2 S , 2 ^ { \\prime } S , 5 S ) – 1 6 / \\big ( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\big ) – 1 6$ exhibited more than 80-fold higher antiviral activities.Additionally, favorable $\\mathrm { C C } _ { 5 0 }$ values $\\ ' \\mathrm { C C } _ { 5 0 } > 1 0 0 \\mu \\mathrm { M } )$ were observed for all of the inhibitors in the in vitro cytotoxicity assay. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b54745ef9834993eaaf555b779911bf840fd96d85551fd3507a0bf489461bb4e.jpg",
+        "img_caption": [
+            "Scheme 3.Synthetic Scheme of16 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7cc868aede2955a50085c1551b901b05473d083c721ecf644d869e7e565b86c.jpg",
+        "img_caption": [
+            "Figure 4. Comparison between the docking models of $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S )$ 1 16 (purple) and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16(green） bound to $\\mathrm { E V 7 1 ~ } 3 \\mathrm { C } ^ { \\mathrm { p r o } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cyanohydrin derivatives are present in a number of natural products such as mandelonitrile,25 cyanohydrin phosphonate,26 and $\\alpha$ -ketoglutarate cyanohydrin $( \\alpha { \\mathrm { - k g C N } } )$ in animals.27More importantly，cyanohydrin derivatives have been used as prescription drugs for treating asthma and proved to possess high potential in cancer chemotherapy.28, .28,29 Because cyanogenic glycosides can potentially degrade into hydrogen cyanide in a process known as cyanogenesis,30 we focused more atention on the toxicity of the cyanohydrin derivative as an EV71 $3 C ^ { \\mathrm { p r o } }$ inhibitor. Compared to a $\\mathrm { L D } _ { 5 0 }$ of $2 . 6 ~ \\mathrm { m g / k g }$ for $\\mathrm { K C N } ^ { 3 1 }$ in mice via intravenous injection，the acute toxicokinetic behavior of $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 represented tolerated toxicity with a $\\mathrm { L D } _ { 5 0 }$ of $9 6 . 5 ~ \\mathrm { m g / k g } .$ （20 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Selectivity is one of the general issues for protease inhibitors, particularly those with reactive electrophiles such as aldehyde. We profiled selected inhibitors containing either cyanohydrin or aldehyde while keeping the rest of the structure constant against a list of proteases available to our research group.The inhibition ratios of 15, $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S )$ -16，and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 were determined against serine protease (human neutrophil elastase (HNE)，human trypsin (hTrypsin)，human chymotrypsin (hchymotrypsin),porcine pancreatic elastase (PPE),acetylcholine esterase (AChE）and butyrylcholinesterase (BChE)）and cysteine protease (EV71 $3 C ^ { \\mathrm { p r o } }$ and severe acute respiratory syndrome coronaviruses main protease (SARS $\\mathrm { C o V M ^ { p r o } ) }$ ).3² As indicated by the results summarized in Figure S,in contrast to the low selectivity of 15, $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S )$ -16 and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 both exhibited significantly high selectivities for EV71 $3 C ^ { \\mathrm { p r o } }$ and SARS CoV ${ \\bf { M } } ^ { \\mathrm { { p r o } } }$ over other proteases. The selectivities of $\\left( 1 S , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 and $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16 are presumably related to the specificity of the cyanohydrin. Therefore，cyanohydrin potentially represents a good choice as an anchoring group for cysteine protease inhibitors because of its high selectivity and good inhibitory activity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0123e52430780874cf93f49830c8cef16453df3991d479df8258558a546eb7e4.jpg",
+        "img_caption": [
+            "Figure 5. 15, $( 1 S , 2 S , 2 ^ { \\prime } S , 5 S )$ -16 and $( 1 R , 2 S , 2 ^ { \\prime } S , 5 S ) .$ -16( ${ \\bf \\chi } ^ { \\prime } 1 0 0 \\ \\mu { \\bf M } )$ protease inhibitory activities ofHNE,hTrypsin,hChymotrypsin,PPE, AChE,BChE,EV71 $3 C ^ { \\mathrm { p r o } }$ ,and SARS $\\mathrm { C o V M ^ { p r o } }$ .Vertical bars represent the standard deviation of each data point $\\left( n = 3 \\right)$ ！ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In conclusion，cyanohydrin derivatives as potent inhibitors of EV71 $3 C ^ { \\mathrm { p r o } }$ have been described. The cocrystal structure of cyanohydrin inhibitor and $3 C ^ { \\mathrm { { p r o } } }$ was resolved，and the interactions between the cyanohydrin group and $3 C ^ { \\mathrm { p r o } }$ were revealed.On the basis of the data analysis of the co-crystal structure，a number of potent EV71 $3 C ^ { \\mathrm { { p r o } } }$ inhibitors were discovered,and the antiviral efficacies of the inhibitors were significantly improved.Importantly,cyanohydrin as an anchoring group with high selectivity and excellent inhibitory activity provides a useful choice for cysteine protease inhibitors. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALSECTION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "General.All reagents were purchased from commercial suppliers and used as received.NMR spectra were recorded on a Bruker AVANCE400 $\\bf { \\Psi } _ { 4 0 0 \\ M H z } )$ (Bruker,Karlsruhe,Germany）NMR spectrometer. Molecular mass was determined by ESI mass spectrometry using a Shimadzu LCMS-2020 (Shimadzu,Kyoto,Japan).Optical rotations were measured with an Insmark IP-12O automatic polarimeter (Insmark, Shanghai, China).Measurements were collected at $1 5 ~ ^ { \\circ } \\mathrm { C }$ in DCM at ${ 5 8 9 } \\mathrm { n m }$ $[ \\alpha ] _ { \\mathrm { D } }$ values are given in units of $( \\mathrm { d e g \\times m L } ) / ( \\mathrm { g \\times d m } )$ .HRMS were recorded on a high-resolution ESI-FTICR mass spectrometer (Varian $7 . 0 \\mathrm { T }$ ,Varian, USA).All tested compounds exhibited purities of ${ > } 9 5 \\%$ as analyzed by HPLC (Dionex UltiMate 30oo,Germany). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "General Procedure forthe SynthesisofAldehydes $( 1 , 6 ,$ and 15). Preparation of Aldehyde6.Toa solution of 5 $\\left( 2 . 1 ~ \\mathrm { g } , 4 . 7 ~ \\mathrm { m m o l } \\right) \\mathrm { . }$ in anhydrousDCM( $\\mathrm { \\Omega } _ { 3 0 . 0 \\mathrm { m L } } )$ was added Dess-Martin reagent $( 3 . 0 \\mathrm { g } , 7 . 1 \\$ mmol) slowly at $0 { } ^ { \\circ } \\mathrm { C } .$ Then, the reaction mixture was stirred at RT for 1 h.A solution of ${ \\mathrm { N a H C O } } _ { 3 }$ and ${ \\bf N a } _ { 2 } { \\bf S } _ { 2 } { \\bf O } _ { 3 }$ was added to quench the reaction.After $1 0 \\ \\mathrm { m i n } ,$ DCM $\\left( 3 0 . 0 ~ \\mathrm { m L } \\times 2 \\right)$ ）wasaddedto extract the mixture.The organic phase was washed with brine $( 3 0 ~ \\mathrm { m L } \\times 2 )$ ，dried over ${ \\mathrm { N a } } _ { 2 } S { \\mathrm { O } } _ { 4 } ,$ and concentrated,and the residue was purified by column chromatography (DCM:MeOH, $3 5 { : } 1 \\ \\mathbf { v } / \\mathbf { v } )$ to afford the pure product as a white solid 6 $( 1 . 7 0 \\mathrm { g } , 3 . 8 \\mathrm { m m o l } , 8 1 \\%$ ） $\\dot { [ \\alpha ] _ { \\mathrm { D } } } ^ { 1 5 } = - 2 . 4$ $\\mathit { \\check { c } } = 0 . 2 1 \\ : \\mathrm { g } / 1 0 0 \\$ mL,MeOH). $^ { 1 } \\mathrm { H }$ NMR $( 4 0 0 \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ )8:9.22 (s,1H),7.48 $( \\mathrm { d } , J =$ $4 . 4 \\mathrm { H z } , 2 \\mathrm { H } )$ ， $7 . 4 2 \\mathrm { - } 7 . 1 7$ （204号 $( \\mathrm { m } , 9 \\mathrm { H } )$ ，6.47 $\\left( \\mathrm { d } , J = 1 5 . 6 ~ \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ,5.12-4.89 $( \\mathrm { m } , 1 \\mathrm { H } )$ ，4.33-4.20 $\\left( \\mathrm { m } , 1 \\mathrm { H } \\right)$ ,3.35（ $\\mathrm { \\Phi _ { d } } , J = 1 1 . 7 \\mathrm { H z } , \\mathrm { 1 H } )$ ,3.31-3.17 $( \\mathbf { m } ,$ 3H),2.23 (dt, $J = 1 3 . 6 ,$ （204号 $\\begin{array} { r } { 6 . 8 \\ : \\mathrm { H z } , } \\end{array}$ 1H),2.17-2.06 $( \\mathrm { m } , \\mathrm { 1 H } )$ ,1.98 (s,2H), 1.91-1.83 $\\left( \\mathrm { m } , 1 \\mathrm { H } \\right)$ ，1.69(dd, $J = 2 0 . 0 \\$ 1 ${ 1 1 . 4 ~ \\mathrm { H z } } ,$ 1H),1.59-1.45（ $\\scriptstyle { \\mathrm { ~ m , ~ } }$ 1H). $^ { 1 3 } \\mathrm { C }$ NMR( $\\mathrm { ' } _ { 1 0 0 } \\mathrm { M H z } ,$ （204号 $\\mathrm { C D C l } _ { 3 }$ ）δ: 200.15,174.90,171.91,165.58, 141.57,136.42,134.69,129.82,129.70,129.58,129.53,128.82,128.60, 128.57,127.88,127.01,120.31,57.41,54.27,42.31,38.82,37.49,30.79, 27.53，21.30. HRMS (ESMS): $\\mathrm { C } _ { 2 6 } \\mathrm { H } _ { 2 9 } \\mathrm { N } _ { 3 } \\mathrm { N a O } _ { 4 }$ $( \\mathbf { M } \\ + \\ \\mathbf { N a } ) ^ { + }$ calcd, 470.2050; found, 470.2052. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Preparation of Nitrile8.Toa solution of 7 $\\left( 1 . 7 7 g , 3 . 8 3 \\mathrm { m m o l } \\right)$ and $\\mathrm { E t } _ { 3 } \\mathrm { N }$ C $\\cdot 1 . 3 3 \\ \\mathrm { \\ m L }$ ， $9 . 5 8 ~ \\mathrm { \\ m m o l } ;$ in $1 0 0 ~ \\mathrm { \\ m L }$ of anhydrous THF, trifluoroacetic acid anhydride（TFAA） $\\left( 0 . 9 7 \\ { \\mathrm { g } } , 4 . 6 0 \\ { \\mathrm { m m o l } } \\right)$ was added dropwise at $- 5 ^ { \\circ } \\mathrm { C }$ The reaction mixture was stirred at $0 { } ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { h } }$ and then partitioned between EtOAc and $\\mathrm { H } _ { 2 } \\mathrm { O }$ .The organic phase was dried over ${ \\mathrm { N a } } _ { 2 } S { \\mathrm { O } } _ { 4 }$ and concentrated,and the residue was purified by column chromatography $\\left( \\mathrm { D C M } { : } \\mathrm { M e O H } , 3 5 { : } 1 \\mathrm { v / v } \\right)$ to afford the pure product as a white solid 8 $\\left( 1 . 5 1 \\mathrm { g } , 8 9 \\% \\right)$ ; $\\left[ \\alpha \\right] _ { \\mathrm { D } } 1 5 = - 9 . 0$ 0 ${ \\overset { \\cdot } { c } } = 0 . 1 6 ,$ DCM). $^ { 1 } \\mathrm { H }$ NMR 中 $\\bf { \\Psi } _ { 4 0 0 M H z } ,$ DMSO- $d _ { 6 }$ 8: 7.55 $\\left( \\mathrm { d } , J = 7 . 0 \\mathrm { H z } , 3 \\mathrm { H } \\right)$ ， $7 . 4 6 { - } 7 . 3 7 ( \\mathrm { m } , 4 \\mathrm { H } ) ,$ （204 7.28 $\\left( \\mathrm { d } , J = 4 . 2 \\mathrm { H z } , 4 \\mathrm { H } \\right)$ ，6.70 $\\left( \\mathrm { d } , J = 1 5 . 8 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ，5.04 $\\mathrm { ( d d , } J = 1 5 . 6 , 7 . 9$ $\\mathrm { H z } , \\mathrm { 1 H } ,$ ，4.59 $( \\mathrm { m } , \\mathrm { 1 H } )$ ，3.06 $( \\mathrm { m } , 3 \\mathrm { H } )$ ,2.87 (dd, $J = 1 3 . 6 ,$ 9.5 Hz, 1H), 2.29-2.16 $( \\mathrm { m } , 2 \\mathrm { H } )$ ，1.78 $( \\mathrm { m } , 3 \\mathrm { H } )$ ,1.65-1.51 $( \\mathrm { m } , \\mathrm { 1 H } )$ ，1.40 $\\left( \\mathbf { m } , 1 \\mathrm { H } \\right)$ ！ $^ { 1 3 } \\mathrm { C }$ NMR ( $\\bf { \\chi } _ { 1 0 0 } \\ M H z _ { \\it { 1 0 0 } }$ DMSO $\\cdot d _ { 6 . }$ ）8:172.48,171.75,165.33,139.58, 137.93,135.23,130.02,129.59,129.42,128.64,128.01,126.91,122.19, 119.96,116.99,54.67,41.55,39.08,37.88,37.34,34.48,26.55,21.63. HRMS (ESMS): $\\mathrm { C } _ { 2 6 } \\mathrm { H } _ { 2 8 } \\mathrm { N } _ { 4 } \\mathrm { N a O } _ { 3 }$ $( \\mathbf { M } + \\mathbf { N a } ) ^ { + }$ calcd, 467.2054； found, 467.2060. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "General Procedure forthe SynthesisofCyanohydrins (9and16): Preparation of Cyanohydrin9.Toa solution of 6 $\\left( 5 0 0 \\mathrm { m g } , 1 . 1 \\mathrm { m m o l } \\right)$ （204号 in DCM ( $\\mathrm { 2 0 ~ m L }$ ）was added saturated ${ \\mathrm { N a H S O } } _ { 3 }$ 0 $\\cdot 1 4 9 \\ \\mathrm { m g } , \\ 1 . 4 \\ \\mathrm { m m o l } )$ solution.The mixture was stirred at RT for $0 . 5 \\mathrm { h } ,$ and then an aq solution ofKCN( $\\left. 8 6 \\mathrm { m g } , 1 . 3 \\mathrm { m m o l } \\right.$ was added.The mixture was stirred atRT for $^ { 1 2 \\mathrm { h } . }$ Then, the organic phase was collected and the aqueous layerwas extracted with DCM $\\left( 3 0 ~ \\mathrm { m L } \\times 3 \\right)$ . The combined organic phase was washed with brine $\\left( 3 0 \\mathrm { m L } \\times 2 \\right)$ ，driedover ${ \\mathrm { N a } } _ { 2 } S { \\mathrm { O } } _ { 4 } ,$ and concentrated, and the residue was purified by column chromatography(DCM:MeOH, $3 3 { : } 1 { \\mathrm { ~ v / v } } )$ to afford the pure product as a white solid 9 $( 4 8 0 \\ \\mathrm { m g } , \\ 1 . 0 1 \\$ mmol, $9 2 \\%$ ） ${ } ^ { 1 } \\mathrm { H N M R }$ 0 ${ \\bf \\Psi } _ { 4 0 0 } \\bf { M H z }$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ ：7.54 $\\left( \\mathrm { d } , J = 1 5 . 6 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ， 7.49-7.38 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,7.36-7.15 $( \\mathrm { m } , 8 \\mathrm { H } )$ ，6.43 $\\left( \\mathrm { d } , J = 4 . 7 \\ \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ，4.96 $\\left( \\mathrm { d d } , J = 1 3 . 9 , 6 . 8 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ,4.57-4.46 $\\left( \\mathrm { m } , \\mathrm { 1 H } \\right)$ ,4.23 $\\left( \\mathrm { d d } , J = 1 2 . 6 , 9 . 2 \\mathrm { H z } , \\right.$ （204号 1H), $3 . 2 9 { - } 3 . 0 5 \\ \\mathrm { ( m , 4 H ) }$ ,2.24 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,2.03-1.90 $\\left( \\mathrm { m } , \\mathrm { 1 H } \\right)$ ,1.86-1.70 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,1.65 $\\left( \\mathrm { d } \\mathrm { d } , J = 1 2 . 8 , \\right.$ ${ 5 . 3 \\mathrm { H z } , 1 \\mathrm { H } } ,$ ,1.44 $\\begin{array} { r } { \\left( \\mathrm { d d } , J = 2 2 . 0 , \\right. } \\end{array}$ $1 1 . 3 \\mathrm { H z } , \\mathrm { 1 H } \\dot { }$ ） $^ { 1 3 } \\mathrm { C }$ NMR $\\left( 1 0 0 \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 } \\right.$ )S: 175.42,172.86,166.07,141.67,136.36, 134.62,129.83,129.48,128.80,128.58,127.92,126.99,120.23,118.72, 64.30,54.57,51.25,42.25,38.47,31.50,26.99,21.15.HRMS (ESMS): $\\mathrm { C } _ { 2 7 } \\mathrm { H } _ { 3 0 } \\mathrm { N } _ { 4 } \\mathrm { N a O } _ { 4 }$ （ $( \\mathbf { M } + \\mathbf { N a } ) ^ { + }$ calcd, 497.2159; found, 497.2158. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cyanohydrin 16.16( $9 4 \\%$ yield）was purifed by column chromatography (DCM: $\\scriptstyle { \\mathrm { ~ \\mathrm { ~ \\cal ~ M e O H } ~ } }$ ， $3 3 { : } 1 \\ \\mathbf { v } / \\mathbf { v } )$ to afford the two pure products as white solids: $( \\mathbf { 1 } S , 2 S , 2 ^ { \\prime } S , 5 S ) – \\mathbf { 1 6 }$ ; $4 4 \\%$ yield; $[ \\alpha ] _ { \\mathrm { D } } ^ { \\mathrm { ~ \\tiny ~ \\frac ~ { ~ 2 8 ~ } ~ } } =$ $- 1 6 0 . 0 4$ 0 $\\mathit { \\check { c } } = 0 . 0 3 1 \\ : \\mathrm { g } / 1 0 0 \\ : \\mathrm { m L }$ DCM). $\\mathrm { ^ { 1 } H N M R }$ （ $( 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l _ { 3 } }$ $\\delta$ 8.60(c $\\left. , J = 6 . 8 \\mathrm { H z } , 1 \\mathrm { H } _ { \\cdot } \\right.$ ，7.60（ $\\mathrm { d } , J = 8 . 1 \\ \\mathrm { H z } , 1 \\mathrm { H } ,$ ，7.21 $\\left( \\mathrm { d d } , J = 7 . 7 , \\right.$ 5.7 $\\mathrm { H z } , 2 \\mathrm { H } )$ ,6.96 $\\left( \\mathrm { t } , J = 8 . 5 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,6.37 (s,1H),4.92 $\\left( \\mathbf { q } , J = 1 4 . 0 \\right.$ $7 . 1 \\mathrm { H z } ,$ 1H),4.54 $\\left( \\mathrm { d } , J = 2 . 9 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ，4.20 $( \\mathrm { m } , \\mathrm { 1 H } )$ ，3.30 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,3.23 $\\begin{array} { r l } { \\left( \\mathrm { d } \\mathrm { d } , J = \\right. } \\end{array}$ $1 4 . 0 , 5 . 8 \\mathrm { H z } , \\mathrm { 1 H } )$ ,3.13 $\\left( \\mathrm { d d } , J = 1 4 . 0 , 7 . 3 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ,2.46 $\\left( s , 3 \\mathrm { H } \\right)$ ,2.28(tt,J $= 1 0 . 4 , 5 . 1 \\mathrm { H z } , 2 \\mathrm { H }$ ，2.02(dd $, J = 8 . 4 , 4 . 0 \\mathrm { H z } , \\mathrm { 1 H }$ ，1.87(dd, $J = 9 . 5 ,$ 4.1 $\\mathrm { H z } , \\mathrm { 1 H } ,$ ）, $1 . 7 9 { - } 1 . 6 2 \\left( \\mathrm { m } , 2 \\mathrm { H } \\right)$ $\\mathrm { n } , 2 \\mathrm { H } ) , 1 . 5 4 \\left( \\mathrm { d } \\mathrm { d } , J = 2 2 . 2 , 1 1 . 0 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ $^ { 1 3 } \\mathrm { C N M R }$ （2 $\\left( 1 0 0 \\mathrm { M H z } , \\right.$ （204号 $\\mathrm { C D C l } _ { 3 }$ ）8:175.38,172.32,171.38,161.97( $\\mathrm { d } , J _ { \\mathrm { C - F } } = 2 4 5 . 2$ $\\mathrm { H z }$ ),159.18,158.14,131.81 $\\left( \\mathrm { d } , J _ { \\mathrm { C - F } } = 3 . 0 \\mathrm { H z } \\right)$ ，130.99( $\\mathrm { \\Delta } \\mathrm { d } , J _ { \\mathrm { \\scriptsize ~ C - F } } = 7 . 9$ ${ \\mathrm { H z } } { \\mathrm { \\cdot } }$ ),118.26,115.46(d, $J _ { \\mathrm { { \\scriptsize ~ C - F } } } = 2 1 . 2 \\ : \\mathrm { H z } ,$ ,101.38,65.06,54.46,52.22, 42.29，37.89，37.52，31.31，27.26，21.27，12.31．HRMS(ESMS): $\\mathrm { C } _ { 2 3 } \\mathrm { H } _ { 2 6 } \\mathrm { F N } _ { 5 } \\mathrm { N a O } _ { 5 }$ $( \\mathbf { M } ~ + ~ \\mathbf { N a } ) ^ { + }$ calcd，494.1810；found,494.1815. （204号 $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -16: $5 0 \\%$ yield; $[ \\alpha ] _ { \\mathrm { D } } { } ^ { 2 8 } = - 4 1 . 8 8$ $\\mathit { \\Omega } ^ { \\prime } c = 0 . 0 2 8 ~ \\mathrm { g } / 1 0 0 ~ \\mathrm { m L } ,$ DCM). $\\mathrm { ^ { 1 } H N M R }$ （ $4 0 0 \\mathrm { M H z } ,$ （20 $\\mathrm { C D C l } _ { 3 }$ 8:8.38 ( $\\mathrm { d } , J = 7 . 4 \\mathrm { H z } , 1 \\mathrm { H } ) ,$ 7.61 $\\left( \\mathrm { d } , J = 8 . 1 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ,7.23 $\\left( \\mathrm { d } , J = 7 . 2 \\mathrm { H z } , 2 \\mathrm { H } , \\right)$ ,6. $9 6 \\left( \\mathrm { t } , J = 8 . 2 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ 6.35 $( s , \\mathrm { 1 H } )$ ,4.93 $\\left( { \\bf q } , J = 1 4 . 1 \\right.$ 7.0 Hz,1H),4.57 $\\left( \\mathrm { d } , J = 4 . 3 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ，4.24(m， 1H), $3 . 3 6 { - } 3 . 1 7$ （204号 $\\left( \\mathrm { m } , 3 \\mathrm { H } \\right)$ ,3.12 (dd, $J = 1 4 . 0$ ,7.5 Hz,1H),3.29 $( \\mathrm { m } , 2 \\mathrm { H } )$ 3.22 (dd, $J = 1 3 . 7$ 5 $7 . 8 \\mathrm { H z } , 1 \\mathrm { H } )$ ,3.12( $\\mathrm { 1 d } , J = 1 4 . 0 , 7 . 5 \\mathrm { H z } , 1 \\mathrm { H }$ ,2.46(s, 3H),2.36-2.14 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,2.10-1.97 $\\mathrm { ( m , 1 H ) }$ ,1.77 $( \\mathrm { m } , 3 \\mathrm { H } )$ ,1.51(dd,) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$= 2 1 . 8 ,$ （ $1 0 . 7 \\mathrm { H z } , \\mathrm { 1 H }$ ） $^ { 1 3 } \\mathrm { C }$ NMR ( $\\mathrm { i } 0 0 \\mathrm { M H z } ,$ $\\mathrm { C D C l } _ { 3 . }$ )8:175.56,172.00, 171.32, 161.96 ( $\\mathrm { d } , J _ { \\mathrm { C - F } } = 2 4 5 . 0 \\mathrm { H z } \\rangle$ ,159.10,158.18,131.86 $\\begin{array} { r l } { \\left( \\mathrm { d } , J _ { \\mathrm { C - F } } = \\right. } \\end{array}$ $3 . 1 \\mathrm { H z }$ 131.01( $\\mathrm { d } , J _ { \\mathrm { C - F } } = 8 . 0 \\mathrm { H z }$ ),118.62,115.45( $\\mathrm { d } , J _ { \\mathrm { C - F } } = 2 1 . 3 \\mathrm { H z } )$ 101.38,64.19,54.51,51.25,42.31,37.72,37.64,31.43,26.95,21.19, 12.30.HRMS (ESMS): $\\mathrm { C } _ { 2 3 } \\mathrm { H } _ { 2 6 } \\mathrm { F N } _ { 5 } \\mathrm { N a O } _ { 5 }$ （ $( \\mathbf { M } + \\mathbf { N a } ) ^ { + }$ calcd, 494.1810; found, 494.1812. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Preparation of $\\alpha$ -HydroxyAmide10.9 $\\left. 3 7 9 \\mathrm { \\ m g } , 0 . 8 0 \\mathrm { \\ m m o l } \\right.$ was dissolved ina solution of 4NHCl/EtOAc $\\mathrm { ( 4 m L ) }$ andMeOH $\\mathrm { ( 4 m L ) }$ and the mixture was refluxed for $^ { 1 6 \\mathrm { ~ h ~ } }$ under a N2 atm.After concentrating, the residue was dissolved in DCM,washed with brine (30 ${ \\mathrm { m L } } \\times 2 )$ ,driedover ${ \\mathrm { N a } } _ { 2 } S { \\mathrm { O } } _ { 4 } ,$ and concentrated. The obtained residue was dissolved in $\\mathrm { M e O H } { : } \\mathrm { H } _ { 2 } \\mathrm { O }$ 1 $\\mathrm { ' } 1 5 0 \\mathrm { m L } , 2 5 { : } 3 \\mathrm { v / v } \\mathrm { ) }$ atRT,and then LiOH $( 2 8 . 8 ~ \\mathrm { m g } , ~ 1 . 2 ~ \\mathrm { m m o l } )$ ）wasadded.After $1 . 5 \\ \\mathrm { h } ,$ the $\\mathrm { \\ p H }$ of the reaction mixture was adjusted to 3.0.The mixture was extracted with EtOAc(100 $\\mathrm { m L } \\times 3 \\rangle$ ，and the organic phase was dried over ${ \\ N a } _ { 2 } S O _ { 4 }$ and concentrated to afford the pure product as a white solid intermediate, which was engaged in an amide bond formation with propan-1-amine （20 $\\left( 5 6 . 7 4 \\mathrm { m g } , 0 . 9 6 \\mathrm { m m o l } \\right)$ to afford a white solid 10 $( 3 5 3 \\mathrm { m g } , 0 . 6 8 \\mathrm { m m o l } ,$ （204号 $8 5 \\%$ yield). $^ { 1 } \\mathrm { H }$ NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ 8: 7.54 $\\left( \\mathrm { d } , J = 1 5 . 7 \\mathrm { H z } , 1 \\mathrm { H } \\right) _ { \\itOmega }$ $7 . 4 4 { - } 7 . 3 8 \\ ( \\mathrm { m } , 2 \\mathrm { H } )$ ,7.30 (dd, $J = 5 . 1 _ { - }$ ,1.4 Hz, 3H), $7 . 2 0 { - } 7 . 0 6 \\ ( \\mathrm { m } , 3 \\mathrm { H } ) .$ 6.91 $\\left( \\mathrm { t } , J = 8 . 6 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,6.53 $\\left( \\mathrm { d } , J = 1 5 . 7 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ,5.44 $( s , \\mathrm { 1 H } )$ ,4.95 (dd, $J = 1 4 . 0 ,$ 6.4 Hz,1H),4.36-4.26 $( \\mathrm { m } , \\mathrm { 1 H } )$ ,3.16 $\\left( \\mathrm { m } , 4 \\mathrm { H } \\right)$ ,2.46-2.18 (m, 1H),2.10-1.98 $( \\mathrm { m } , \\mathrm { 1 H } )$ ,1.98-1.86 $\\left( \\mathrm { m } , 1 \\mathrm { H } \\right)$ ，1.71 $\\mathrm { ( d d , } J = 8 . 7 ,$ （204号 $4 . 0 \\mathrm { H z } ,$ 1H), 1.64-1.32 $( \\mathrm { m } , 6 \\mathrm { H } )$ ,1.26 (s,1H),0.88 $\\mathrm { ^ { \\prime } t } , J = 7 . 4 \\ \\mathrm { H z } , 3 \\mathrm { H }$ ） $^ { 1 3 } \\mathrm { C }$ NMR $( 1 0 0 \\ \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 }$ ）8:175.71,172.22,171.35,166.03,141.40, 134.64,132.54,131.06,130.98,129.82,128.81,127.88,120.45,115.34, 115.13,74.20,54.66,53.46,52.16,42.31,40.78,38.11,37.40,30.75, 29.71,27.21,22.80,21.14,11.40.HRMS (ESMS): $\\mathrm { C } _ { 3 0 } \\mathrm { H } _ { 3 8 } \\mathrm { N } _ { 3 } \\mathrm { O } _ { 5 }$ 0 $\\mathbf { \\dot { M } } + \\mathbf { \\dot { \\Omega } }$ $\\mathrm { H } ) ^ { + }$ calcd, 520.2806; found, 520.2810. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\alpha$ -Keto Amide 11. $\\left[ \\alpha \\right] _ { \\mathrm { D } } { } ^ { 1 5 } = - 4 0 . 8$ （ $c = 0 . 0 8 ~ \\mathrm { g } / 1 0 0 ~ \\mathrm { m L }$ DCM). $^ { 1 } \\mathrm { H }$ NMR $( 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 }$ 8: 7.58 $\\left( \\mathrm { d } , J = 1 5 . 6 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ,7.46 $\\left( \\mathrm { d } \\mathrm { d } , J = 6 . 3 , \\right.$ （204号 $2 . 7 \\mathrm { H z } , 2 \\mathrm { H } )$ ,7.39-7.31 $( \\mathrm { m } , 3 \\mathrm { H } )$ ,7.19 $\\left( \\mathrm { d d } , J = 8 . 3 , \\right.$ 5.5 Hz,2H),7.05 (t,) $= 5 . 9 \\mathrm { H z } , 1 \\mathrm { H } )$ ,6.94 $\\left( \\mathrm { t } , J = 8 . 6 \\mathrm { H z } , 2 \\mathrm { H } , \\right)$ ,6.39 $( \\mathrm { d } , J = 1 5 . 6 \\mathrm { H z } , 1 \\mathrm { H }$ ) $5 . 2 9 -$ 5.22 $( \\mathrm { m } , \\mathrm { 1 H } )$ ,5.03 (dd, $J = 1 4 . 0 , 6 . 1 \\mathrm { H z } , \\mathrm { 1 H }$ ,3.31-3.24 $( \\mathrm { m } , 3 \\mathrm { H } )$ ,3.14 $( \\mathrm { t } , J = 6 . 5 \\ \\mathrm { H z } ,$ 1H),2.29 $\\left( \\mathbf { m } , 1 \\mathrm { H } \\right)$ ,2.17-1.97 $( \\mathrm { m } , 3 \\mathrm { H } )$ ， $1 . 9 3 \\substack { - 1 . 8 3 }$ $( \\mathbf { m } ,$ 1H), 1.79-1.68 $( \\mathrm { m } , \\mathrm { 1 H } )$ ,1.64-1.50 $( \\mathrm { m } , 3 \\mathrm { H } )$ ,1.25 (s,2H),0.94 $( \\mathrm { t } , J =$ $7 . 4 \\ \\mathrm { H z } , 3 \\mathrm { H } ,$ ） $^ { 1 3 } \\mathrm { C }$ NMR ( ${ 1 0 0 } \\ \\mathrm { M H z } ,$ $\\mathrm { C D C l } _ { 3 }$ ）8:195.03,175.00,171.03, 165.43,159.49,141.54,134.65,132.14,131.24,131.16,129.83,128.83, 127.88,120.24,53.81,53.57,42.35,38.57,37.95,32.62,22.51,21.59, 11.37. HRMS (ESMS): $\\mathrm { C } _ { 3 0 } \\mathrm { H } _ { 3 5 } \\mathrm { N } _ { 3 } \\mathrm { N a O } _ { 5 }$ $( \\mathbf { M } + \\mathbf { N a } ) ^ { + }$ calcd, 540.2469; found, 540.2461. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "General ProcedurefortheSynthesisofDerivatized Cyanohydrins (12and 13):Preparation of Derivatized Cyanohydrin 12.To a solution of 9 $( 2 3 7 \\mathrm { m g } , 0 . 5 \\mathrm { m m o l } )$ inDCM $ { \\left( 3 0 \\mathrm { m L } \\right) }$ was added DMAP （204号 $\\left( 4 8 8 . 6 8 ~ \\mathrm { m g } , 4 . 0 ~ \\mathrm { m m o l } \\right)$ and phenyl chlorothionoformate（ $\\mathrm { 3 4 5 . 2 6 ~ m g , }$ $2 . 0 \\ \\mathrm { m m o l } \\$ )undera ${ \\bf N } _ { 2 }$ atmosphere at $0 ~ ^ { \\circ } \\mathrm { C }$ 、The reaction mixture was stirred atRT for $^ { 2 \\mathrm { h } }$ ，poured into water,and extracted withDCM. The organic phase was washed with $\\mathrm { H } _ { 2 } \\mathrm { O } ,$ dried over ${ \\bf N a } _ { 2 } S { \\bf O } _ { 4 } ,$ and concentrated,and the residue was purified by column chromatography $\\left( \\mathrm { D C M } { : } \\mathrm { M e O H } , 5 0 { : } 1 \\mathrm { v / v } \\right)$ to afford the pure product as a yellow solid 12 L $2 8 9 . 8 \\mathrm { m g } , 0 . 4 8 \\mathrm { m m o l }$ $9 5 \\%$ ） $\\mathrm { ^ { 1 } H N M R } \\mathrm { \\overline { { \\Omega } } }$ 1 $( 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 } )$ 8:7.59 $\\left( \\mathrm { d } , J \\right.$ $= 1 5 . 6 \\mathrm { H z } , \\mathrm { 1 H }$ ,7.44 $\\begin{array} { r } { \\left( \\mathrm { d } \\mathrm { d } , J = 1 0 . 9 , \\right. } \\end{array}$ （204号 $4 . 3 \\mathrm { H z } , 4 \\mathrm { H } ,$ ,7.34 $\\mathrm { ( d d , } J = 8 . 1$ $5 . 5 \\mathrm { H z } ,$ 5H), $7 . 3 1 - 7 . 2 8 \\$ （204 $\\left( \\mathrm { m } , 3 \\mathrm { H } \\right)$ ，7.13（ $\\mathrm { \\Phi } ^ { \\mathrm { ' } } \\mathrm { d } , J = 7 . 8 \\ \\mathrm { H z } , 2 \\mathrm { H }$ ),7.00 $\\begin{array} { r } { \\left( \\mathrm { d } , J = 8 . 1 \\ \\mathrm { H z } , \\right. } \\end{array}$ （204号 1H), 6.50 $\\left( \\mathrm { d } , J = 1 5 . 7 \\ \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ,5.77 $\\left( \\mathrm { d } , J = 4 . 7 \\mathrm { H z } , 1 \\mathrm { H } \\right)$ ，5.18 $( \\operatorname { d d } , J =$ 14.3, $6 . 7 \\ \\mathrm { H z } ,$ 1H), $4 . 5 6 { - } 4 . 4 2$ $\\mathrm { ( m , 1 H ) }$ ，3.23 (tt, $J = 1 3 . 7 ,$ $6 . 7 \\ \\mathrm { H z } ,$ 4H), 2.60 (td, $J = 1 3 . 8 ,$ （204号 $3 . 2 \\mathrm { H z } , \\mathrm { 1 H } ,$ ,2.34 $\\left( \\mathrm { t } , J = 1 3 . 6 \\mathrm { H z } , \\mathrm { 1 H } \\right)$ ,2.10-1.97 ( $\\mathrm { i n } ,$ 1H), 1.93-1.77 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,1.77-1.62 $\\left( \\mathrm { m } , 1 \\mathrm { H } \\right)$ ， $1 . 5 9 \\mathrm { - } 1 . 4 5$ （2 $( \\mathrm { m } , \\mathrm { 1 H } )$ ： $^ { 1 3 } \\mathrm { C }$ NMR( $\\mathrm { 1 0 0 \\ M H z , }$ $\\mathrm { C D C l } _ { 3 }$ ）8:192.60,174.49,172.72,165.66,153.41, 141.48,136.37,134.70,129.81,129.46,128.83,128.72,127.90,127.15, 127.10,121.63,120.39,114.25,71.08,54.36,48.60,42.18,38.96,37.56, 31.14,26.98,21.42.HRMS (ESMS): $\\mathrm { C _ { 3 4 } H _ { 3 4 } N _ { 4 } N a O _ { 5 } S }$ （204号 $( M + \\Nu _ { \\mathsf { a } } ) ^ { + }$ calcd, $6 3 3 . 2 1 4 2 ;$ found, 633.2148. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Preparation of Acetonitrile14.To a solution of 12( $\\cdot 1 3 4 \\mathrm { \\ m g } , 0 . 2 2$ mmol) in toluene $\\mathrm { \\langle 4 0 ~ m L \\rangle }$ was added tri $\\cdot n$ -butyltinhydride $( 2 2 3 . 3 ~ \\mathrm { m g } ,$ $0 . 7 7 \\ \\mathrm { m m o l } ,$ ）andacatalytic amount of $^ { 2 , 2 ^ { \\prime } }$ -azobis(2-methylpropionitrile)under a ${ \\bf N } _ { 2 }$ atmosphere.The reaction mixture was stirred under reflux for $^ { \\textrm { 1 h , } }$ cooled,and concentrated. The residue was purified by column chromatography $\\left( \\mathrm { D C M } { : } \\mathrm { M e O H } , 2 0 { : } 1 \\ \\mathrm { v / v } \\right)$ to afford the pure product as a white solid 14 $\\cdot ( 7 1 . 6 \\mathrm { m g } , 0 . 1 6 \\mathrm { m m o l } , 7 1 \\%$ ） $\\left[ \\alpha \\right] _ { \\mathrm { D } } { } ^ { 1 5 } = - \\mathrm { \\dot { 1 } } 5 . 7$ $( c = 0 . 1 5 \\mathrm { g } / 1 0 0 \\mathrm { m L }$ DCM). $\\mathrm { ^ { 1 } H }$ NMR ( ${ \\bf \\dot { 4 0 0 M H z } }$ = $\\mathrm { C D C l } _ { 3 }$ ） $\\delta \\colon 7 . 4 9 ( \\mathrm { d } , J =$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$1 5 . 6 \\mathrm { H z } , \\mathrm { 1 H } )$ ,7.38 $\\left( \\mathrm { d d } , J = 6 . 2 , 2 . 6 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,7.29-7.23 $( \\mathrm { m } , 3 \\mathrm { H } )$ ,7.21-7.17 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,7.15 $\\left( \\mathrm { t } , J = 7 . 7 \\mathrm { H z } , 3 \\mathrm { H } \\right)$ ，6.39 $\\mathrm { \\Phi } ^ { \\prime } \\mathrm { d } , J = 1 5 . 6 \\ \\mathrm { H z } , 1 \\mathrm { H } ,$ ，5.01（dd， $\\lceil = 1 4 . 8 \\$ ,6.9Hz,1H),3.94 $\\langle \\mathrm { m } , \\mathrm { 1 H } \\rangle$ ,3.18 $( s , 2 \\mathrm { H } )$ ,3.05 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,2.48(dd, $J = 1 6 . 6 , 4 . 0 \\ \\mathrm { H z } , \\ \\mathrm { 1 H }$ )，2.23-2.12 $( \\mathrm { m } , 2 \\mathrm { H } )$ ，2.12-2.04 $\\mathrm { ( m , 1 H ) }$ ，1.95-1.82 $( \\mathrm { m } , \\mathrm { 1 H } )$ ,1.80-1.67 $\\left( \\mathrm { m } , 1 \\mathrm { H } \\right)$ ,1.66-1.47 $( \\mathrm { m } , 2 \\mathrm { H } )$ ，1.36 ( $\\mathbf { \\bar { m } } ,$ 1H). $^ { 1 3 } \\mathrm { C }$ NMR( $\\bf { \\chi } ^ { \\prime } 1 0 0 \\ M H z ,$ $\\mathrm { C D C l } _ { 3 }$ ）δ: 174.65, 171.82, 165.52,141.45,136.50,134.69,129.83,129.53,128.85,128.53,127.87,126.99,120.45,117.40,54.07,44.83,42.19,39.15,37.94,34.87,27.13,23.51,21.52.HRMS (ESMS): $\\mathrm { C } _ { 2 7 } \\mathrm { H } _ { 3 0 } \\mathrm { N } _ { 4 } \\mathrm { N a O } _ { 3 }$ $( \\mathbf { M } + \\mathbf { N a } ) ^ { + }$ calcd,481.2210； found,481.2214.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "X-ray Co-crystal Structure of EV71 $3 C ^ { p r o }$ Complexed with (1R,2S, $2 ^ { \\prime } S ,$ 5S)-9.The inhibitor $\\left( 1 R , 2 S , 2 ^ { \\prime } S , 5 S \\right)$ -9 was mixed with EV71 $3 C ^ { \\mathrm { p r o } }$ at a molar ratio of S:1,and the optimal crystallization of EV71 $3 C ^ { \\mathrm { p r o } }$ was achieved by mixing $1 . 0 \\mu \\mathrm { L }$ of protein with $1 . 0 \\mu \\mathrm { L }$ of buffer containing $1 0 0 ~ \\mathrm { \\ m M }$ Tris-HCl $\\mathrm { ( p H } ~ 7 . 7 )$ ， $2 0 0 \\ \\mathrm { \\ m M }$ sodium citrate,and $20 \\%$ polyethylene glycol 335O in a hanging-drop vapor diffusion system at 22 $^ { \\circ } \\mathrm { C }$ Crystals appeared and reached their final size within 5 days. The resulting crystals were soaked in reservoir solution containing $1 5 \\%$ ethylene glycol as the cryoprotectant and flash-frozen in liquid nitrogen. The native data set of EV71 $3 C ^ { \\mathrm { p r o } }$ in complex with inhibitor was collected to $2 . 7 \\mathrm { ~ \\AA ~ }$ resolution at beamline BL17U of the Shanghai Synchrotron Radiation Facility(SSRF)witha wavelength of O.9789A. The data were processed and scaled using the HKL2oo0 package.³ The space group was identified as $C 2$ ，and one molecule was found per asymmetric unit. The complex structure was determined using PHENIX34 with the crystal structure of EV71 $3 C ^ { \\mathrm { p r o } }$ (PDB code: 3OSY)as the initial searching model.Manual model construction and refinement were performed using $\\mathbf { C O O T } ^ { 3 5 }$ and PHENIX following rigid body refinement,energy minimization，and individual B-factor refinement.The quality of the final refined model was verified using the program PROCHECK.36 Data collection and the final model statistics are summarized in Table S1 of the SI. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATEDCONTENT ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\otimes$ Supporting Information ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Supporting Information is available free of charge on the ACS Publications website at DOI: 10.1021/acs.jmedchem.5b01013. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Detailed synthetic procedures，compound characterization，crystallographic data，and biochemical and antiviral assays (PDF)   \nMolecular formula strings (CSV) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "\\*For Z.Y.: e-mail, zheng_yin@nankai.edu.cn.   \n\\*For L.S.: e-mail, shanglq@nankai.edu.cn. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interest. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We thank the staff of SSRF BL17U1 for their support in collecting the diffraction data. This work was supported by the National Basic Research Program of China (973 program, grant nos.2013CB911104，2013CB911100)，the National Natural Science Foundation of China(grant nos.21202087,81322023, 31170678，31370733)，the Tianjin Science and Technology Program (grant nos.13JCYBJC24300,13JCQNJC13100)，and the $^ { \\ast } 1 1 1 ^ { \\prime \\prime }$ Project of the Ministry of Education of China (project no.B06005). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）Otto，H.H.；Schirmeister，T.Cysteine Proteases and Their Inhibitors. Chem. Rev.1997,97,133-171. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)Leung-Toung,R.; Li,W.R； Tam,T.F.； Kaarimian,K. ThiolDependent Enzymes and Their Inhibitors: A Review. Curr Med. Chem. 2002,9 (9),979-1002.   \n(3)(a) Leung, D.; Abbenante, G.； Fairlie,D.P.Protease Inhibitors: Current Status and Future Prospects.J. Med.Chem.2000,43 (3),305- 341. (b)Abbenante,G.; Fairlie, D.P.Protease Inhibitors in the Clinic. Med. Chem.2005,1 (1),71-104.   \n(4)Shah,F.; Mukherjee,P.; Gut,J.;Legac,J.; Rosenthal,P.J.; Tekwan, B.L.;Avery,M.A.Identification of Novel Malarial Cysteine Protease Inhibitors Using Structure-Based Virtual Screening of a Focused Cysteine Protease Inhibitor Library.J. Chem. Inf.Model. 2011,51 (4), 852-864.   \n(5)Mehrtens,J.M.TheDesign,Synthesis and Biological AssayofCysteine Protease Specific Inbibitors; University of Canterbury: Christchurch,New Zealand, 2007.   \n(6) Shang, L. Q; Xu,M. Y.; Yin,Z.Antiviral Drug Discovery for the Treatment of Enterovirus 71 Infections.Antiviral Res. 2013, 97 (2), 183-194.   \n(7) Weng, K.F.; Li, M.L.; Hung, C.T.; Shih,S.R Enterovirus 713c Protease Cleaves a Novel Target Cstf-64 and Inhibits Cellular Polyadenylation.PLoS Pathog.2009,5(9),e1000593.   \n(8)Wang,J.; Fan,T.T.; Yao,X.;Wu,Z. $\\mathrm { Q . ; }$ Guo,L.; Lei, X.B.; Wang,J. W.; Wang,M.T.;Jin, $\\mathrm { Q . ; }$ Cui,S.Crystaltructuresofnterous73c Protease Complexed with Rupintrivir Reveal the Roles of Catalytically Important Residues.J.Virol.2011,85 (19),10021-10030.   \n(9) Kuo,C.J.; Shie,J.J.; Fang,J. M.; Yen, G.R; Hsu,J. T.A.; Liu,H. G.; Tseng, S. N.; Chang,S. C.; Lee, C.Y.; Shih, S.R; Liang,P.H. Design, Synthesis,and Evaluation of 3c Protease Inhibitors as Anti-Enterovirus 71 Agents.Bioorg.Med. Chem. 2008,16 (15),7388-7398.   \n(10)Cui,S.;Wang,J;Fan,T.T;Qin,B.;Guo,L;LeiX.B.;Wang,J. W.; Wang, M. T.; Jin, $\\mathsf { Q } .$ Crystal Structure of Human Enterovirus 71 3c Protease.J. Mol. Biol.2011,408 (3),449-461.   \n(11) Wu, C.M.; Cai,Q.X.; Chen, C.; Li,N.; Peng, X.J.; Cai, Y.X.; Yin, K; Chen, X. S.; Wang, X.L.; Zhang,RF.; Liu,L.J.; Chen, S.H.; Li,J; Lin,T.W.Structures of Enterovirus 71 3c Proteinase (Strain E2o04104- Tw-Cdc） and Its Complex with Rupintrivir.Acta Crystallogr. Sect. D: Biol. Crystallogr.2013,69,866-871.   \n(12) (a) Gu, Z. $\\mathrm { Q . ; }$ Hesson, D.P.; Pelletier,J. C.; Maccecchini, M.L.; Zhou,L.M.；Skolnick，P.Synthesis，Resolution，and Biological Evaluation of the 4 Stereoisomers of 4-Methylglutamic Acid - Selective Probes of Kainate Receptors.J. Med. Chem.1995,38 (14),2518-2520. (b)Hanessian,S.; Margarita,R.1,3-Asymmetric Induction in Dianionic Allylation Reactions of Amino Acid Derivatives-Synthesis of Functionally Useful Enantiopure Glutamates,Pipecolates and Pyroglutamates. Tetrahedron Lett.1998,39 (33),5887-5890.   \n(13) Shang, L. $\\mathrm { Q . ; }$ Zhang,S.M.; Yang,X.; Sun,J.X.; Li,L.F.; Cui,Z.J.; He, Q.H.; Guo,Y.; Sun,Y.N.; Yin, Z.Biochemical Characterization of Recombinant Enterovirus 71 3c Protease with Fluorogenic Model Peptide Substratesand Development of a Biochemical Assay. Antimicrob.Agents Chemother.2015,59 (4),1827-1836.   \n(14) Shang, L. $\\mathrm { Q . ; }$ Wang, Y. X.; Qing,J.; Shu, B.; Cao, L.; Lou, Z. Y.; Gong, P.； Sun, Y. N.； Yin, Z. An Adenosine Nucleoside Analogue Nitd008 Inhibits Ev71 Proliferation.Antiviral Res.2014,112,47-58. (15)Prior,A.M.; Kim,Y.J.; Weerasekara, S.; Moroze,M.; Alliston,K. R; Uy， R A. Z.; Groutas, W. C.; Chang,K O.; Hua, D. H. Design Synthesis,and Bioevaluation of Viral 3cand 3c-LikeProtease Inhibitors. Bioorg.Med.Chem.Lett.2013,23 (23),6317-6320.   \n(16)Rishton, G.M.Nonleadlikeness and Leadlikeness in Biochemical Screening. Drug Discovery Today 2003,8 (2),86-96.   \n(17）Frizler，M.；Stirnberg，M.；Sisay，M.T.；Gutschow，M. Development of Nitrile-Based Peptidic Inhibitors of Cysteine Cathepsins. Curr. Top.Med. Chem.2010,10 (3),294-322.   \n(18)Harbeson,S.L. Abelleira, S.M.; Akiyama,A.; Barret,R; Carroll, R M.; Straub,J.A.; Tkacz,J. N.; Wu, C. C.; Musso, G.F.Stereospecific Synthesis of Peptidyl Alpha-Keto Amides as Inhibitors of Calpain. J. Med. Chem.1994,37 (18),2918-2929.   \n(19)Altmann,E.; Aichholz,R; Betschart, C.; Buhl,T.; Green,J. Irie, O.; Teno,N.; Lattmann,R；Tintelnot-Blomley,M.； Missbach,M.2- Cyano-Pyrimidines: A New Chemotype for Inhibitors of the Cysteine Protease Cathepsin K.J. Med. Chem. 2007,50 (4),591-594.   \n(20)Malamas,M.S.; Erdei,J.; Gunawan,I.; Barnes,K.; Johnson,M.; Hui,Y.;Turner,J.;Hu,Y.; Wagner,E.;Fan,KOlland,A;Bard,J; Robichaud,A.J.Aminoimidazoles as Potent and Selective Human BetaSecretase (Bace1)Inhibitors.J.Med.Chem.2009,52(20),6314-6323. (21) Ezzili, C.; Mileni, M.; McGlinchey,N.; Long,J. Z.; Kinsey, S.G.; Hochstater，D.G.； Stevens, R C.; Lichtman, A. H.； Cravatt, B.F.; Bilsky,E.J.; Boger,D.L.Reversible Competitive Alpha-Ketoheterocycle Inhibitors of Faty Acid Amide Hydrolase Containing Additional Conformational Constraints in the Acyl Side Chain: Orally Active, Long-Acting Analgesics.J.Med. Chem.2011, 54 (8),2805-2822. (22) Palombo,E.;Audran,G.; Monti,H. Straightforward Enantioselective Synthesis of $\\left( + \\right)$ -Ancistrofuran. Tetrahedron 2005,61 (40), 9545-9549.   \n(23) Wang,Y. X.; Yang, B.; Zhai, Y.Y.; Yin, Z.; Sun, Y. N.; Rao, Z. H. Peptidyl Aldehyde Nk-1.8k Suppresses Enterovirus 71 and Enterovirus 68 Infection by Targeting Protease 3c.Antimicrob.Agents Chemother. 2015, 59, 2636-2646.   \n(24) Ohtani, L; Kusumi,T.; Kashman,Y.; Kakisawa, H.High-FieldFt Nmr Application of Mosher's Method.The Absolute Configurations of Marine Terpenoids.J.Am. Chem. Soc.1991,113 (11),4092-4096. (25) Chang,H.K.; Shin,M.S.; Yang,H.Y.; Lee,J.W.; Kim, Y.S. Lee, M.H; Kim,J.; Kim,K H.; Kim,C.J. Amygdalin Induces Apoptosis through Regulation of Bax and Bcl-2 Expressions in Human Du145 and Lncap Prostate Cancer Cels.Biol.Pharm.Bull. 2006,29 (8)，1597- 1602.   \n(26) Cioni,J.P; Doroghazi,J.R;Ju,KS.; YuX..;Evans,B.S.;Lee, J.；Metcalf,W.W. Cyanohydrin Phosphonate Natural Product from Streptomyces Regensis.J. Nat. Prod. 2014,77 (2),243-249.   \n(27) Mitchel, B.L.; Bhandari, R. K.; Bebarta, V.S.; Rockwood, G.A; Boss, G.R.; Logue,B.A. Toxicokinetic Profiles of Alpha-Ketoglutarate Cyanohydrin,a Cyanide Detoxification Product,Following Exposure to Potassium Cyanide. Toxicol. Lett.2013,222 (1),83-89.   \n(28）Chang, J.； Zhang, Y. Catalytic Degradation of Amygdalin by Extracellular Enzymes from Aspergillus Niger.Process Biochem.2012,47 (2),195-200.   \n(29)Ramalho,R. T.; Aydos,R.D.; Schettert,I.; de Assis,P.V.; Cassino, P.C.Sulfane Sulfur Deficiency in Malignant Cells，Increasing the Inhibiting Action of Acetone Cyanohydrin in Tumor Growth.Acta Cir. Bras.2013,28(10),728-732.   \n(30)De Nicola, G.R; Leoni, O.; Malaguti,L.; Bernardi,R.; Lazzeri,L. A Simple Analytical Method for Dhurrin Content Evaluation in Cyanogenic Plants for Their Utilization in Fodder and Biofumigation. J. Agric.Food Chem.2011,59 (15),8065-8069.   \n(31）Yokoi, Y. Pharmacological Studies of Some Organic Thiocyanates. Jpn. J. Pharmacol. 1954,3, 99-111.   \n(32)Winiarski, L.； Oleksyszyn, J.； Sienczyk,M.Human Neutrophil Elastase Phosphonic Inhibitors with Improved Potency of Action. J. Med. Chem.2012,55 (14),6541-6553.   \n(33) Otwinowski,Z.; Minor, W.Macromolecular Crystallography.In Methods inEnmologyVol.276;AcademicPres:NewYork9; 307-326.   \n(34)Adams, P.D.; Grosse-Kunstleve,R.W.; Hung,L.W.; Ioerger, T. R; McCoy,A.J; Moriarty,N. W.; Read,RJ.; Sacchetini,J. C.;utr N.K.; Terwiliger, T.C.Phenix: Building New Software for Automated Crystallographic Structure Determination.Acta Crystalogr., Sect.D: Biol. Crystallogr.2002,58 (11),1948-1954.   \n(35）Emsley， P.；Cowtan，K. Coot:Model-Building Tools for Molecular Graphics.Acta Crystallogr.，Sect.D:Biol. Crystallogr.2004, 60 (12),2126-2132.   \n(36) Laskowski, R; MacArthur,M.; Moss,D.; Thornton,J. Procheck: AProgram to Check the Stereochemical Quality of Protein Structures.J. Appl. Crystallogr.1993,26,283-291. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

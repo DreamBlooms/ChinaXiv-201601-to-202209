@@ -1,0 +1,538 @@
+[
+    {
+        "type": "text",
+        "text": "基于主成分分析法搭建A型星有效温度的神经网络模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李正泽1,2，赵刚1.2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国科学院光学天文重点实验室（国家天文台），北京100101",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.中国科学院大学天文与空间科学学院，北京100049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：大天区面积多目标光纤光谱天文望远镜（Large Sky Area Multi-Object FiberSpectroscopyTelescope，LAMOST，又叫郭守镜望远镜）巡天项目提供了海量恒星光谱数据，DR5数据集中包含大量A型星谱线指数和有效温度的信息。机器学习算法例如可以发掘数据底层相互关系的神经网络模型广泛运用于多个学科。通过使用DR5数据集中的 A型星19种谱线指数和有效温度数据，通过主成分分析法，给出了每种谱线指数占整个数据信息的百分比，并以此为基础，选取与有效温度关系最紧密的12种谱线指数数据，利用有效温度误差小于100K的数据训练得到有效温度的神经网络回归模型。模型在测试数据集上整体表现较好，程序给出的决定系数 $R ^ { 2 }$ 为0.904，平均绝对误差为58.38K。对比相关研究的模型，测量准确度有了明显提升。此外，通过建立模型，对有效温度误差大于100K的原始数据重新进行测量，得到的有效温度数据绝对误差的平均值有了明显下降；同时DR5数据集中A5型恒星数据缺少有效温度参数，通过模型的测量，对这一部分数据进行了补充，提供了一定程度的参考意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键字：神经网络；主成分分析；A型星；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：P144.2 文献标识码：A 文章编号：1672-7673（2020）03根据哈佛恒星光谱分类方法，恒星的光谱可分为O，B，A，F，G，K，M，R，S，N等光谱型，对应恒星的温度依次递减，A型星的温度区间位于7500K至11000K，呈白色，有强烈的氢吸收线，并且由于温度很高，同时具有电离钙和电离镁线[1][6]。于 1993 年提出建设的LAM0ST项目[2，2009 年通过验收观测至今已经十余年，数据集 DR5 包括4154个观测天区，发布901万条光谱，其中包含大量的A型星的谱线指数数据和恒星参数数据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相对于简单传统的回归模型，通过神经网络建立的回归模型可以更高效准确地完成任务，这要归功于神经网络模型可以捕捉非线性效应和更高阶的相互作用。对于较为复杂的数据和问题，神经网络可以挖掘出数据背后的相关性，并且给出比较令人满意的结果，在数据处理领域，以神经网络为例的众多机器学习算法已经被广泛运用于各个学科的研究之中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "包括有效温度在内的恒星参数是决定恒星光谱的重要信息，对恒星演化的研究具有重要意义[1]。对于包括有效温度在内的恒星参数的测量方法，主要有两类[8]：（1）通过将待测恒星光谱与已知参数的标准恒星光谱进行匹配，将匹配最好的模板光谱参数作为待测恒星参数（2）类似非线性回归的方法，比如神经网络模型，利用光谱数据通过神经网络结构训练测试恒星大气参数。谱线指数是包含恒星自身物理特征信息的重要参数，利用谱线指数可以进行众多的天文研究，例如：文[12]利用谱线指数数据对恒星光谱进行聚类分析研究。文[7]利用谱线指数建立人工神经网络对包括有效温度在内的恒星参数进行了测量，文中使用LAMOST数据训练得到的模型，预测得到有效温度的误差正态分布数学期望为-316.02，标准差为617.36。使用 SDSS DR8数据训练的模型结果稍好，但误差的正态分布数学期望为88.58，标准差为147.81。可见文中的方法还不能比较准确地给出有效温度数据，需要进一步的改进与研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用主成分分析方法（Principal Components Analysis，PCA)，运用于LAMOST DR5数据集中的A型星数据，对19种谱线指数数据进行相关性降维，再给出每种谱线指数占整个数据信息的百分比，以此为依据，选择与有效温度关系最紧密的几种谱线指数作为模型的输入，经过测试，选择占比最大的前12种谱线指数数据作为神经网络模型的输入。同时选择有效温度误差小于100K的数据作为输入数据，训练得到了A型星的谱线指数与有效温度的神经网络回归模型。通过建立的神经网络模型，给出了8644组有效温度误差大于100K的A 型星有效温度数据，一定程度上对数据进行了改进与提升，并且通过神经网络模型对LAMOSTDR5数据集中光谱型为A5，缺少有效温度数据的A5型星数据进行了补充，给出了这些恒星的有效温度数据，提供了一定的参考意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1主成分分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如今科学研究所面临的问题日渐深入复杂，要处理的数据量也随之剧增，单纯直接处理庞大的数据已经不能满足科学研究对高效性地追求。为了从复杂繁琐的数据中提取主要信息，必须利用一些科学手段，寻找数据之间的相关性，对数据进行简化，有效减少数据的维度，但同时保证数据提供的信息极大程度地保留下来，尽量减少在这个过程中数据所携带信息的损失。主成分分析法便是为此应运而生的一种算法，现在已经成为使用最广泛的降维方法之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主成分分析法是一种运用十分广泛的降维方法。对于大样本多参量观测数据，它可以简捷有效地寻求参量之间的相互关系，从而对数据降维，可以去除数据噪声，消除数据沉余，使得数据更易被使用。主成分分析法的主要思想是找出数据最主要的信息、最主要的成分代替原始数据，以此达到对原始数据降维的目的，即在减少需要分析的指标的同时，尽量减少原指标所包含的信息的损失。这种方法最早被应用于社会科学的研究领域。之后随着 20 世纪 60 年代计算机的兴起和发展，开始广泛运用于自然科学的研究领域[3]，于此同时，主成分分析法也开始运用于天体物理学领域，在近几年的天文研究中，文[4]利用LAMOST巡天光谱 DR2数据，使用R语言的主成分分析工具提取各类型光谱数据的特征量，从含有大量冗余信息的光谱中提取代表恒星光谱特征的主要成分，除此之外在星系和恒星的光谱分类、特征参量的挑选、活动星系核光变的研究、大样本天体红移的测量等方面，主成分分析法都有不错的表现3。近年来随着计算机与机器学习的飞速发展，为了克服主成分分析法的一些缺点，开发了很多主成分分析法的一些变种，比如解决非线性降维的 KPCA，解决内存限制的增量PCA方法(Incremental PCA)，以及解决稀疏数据降维的PCA方法 Sparse PCA 等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1主成分分析的数学原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接下来在天文观测的背景下，介绍主成分分析法的数学原理，首先假设需要处理分析的数据样本由 $n$ 个天体组成，每个天体对应 $m$ 个观测参量，即 $m$ 个特征指标，因此，观测量可以表示成矩阵 $\\pmb { X }$ ，如（1）式，矩阵 $\\pmb { X }$ 称之为观测矩阵，其行矢量对应同一天体的不同特征量，列矢量对应不同天体的同一特征量。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = ( x _ { i j } ) _ { n * m } = { \\left| \\begin{array} { l l l l } { x _ { 1 1 } } & { x _ { 1 2 } } & { \\dots } & { x _ { 1 m } } \\\\ { x _ { 2 1 } } & { x _ { 2 2 } } & { \\dots } & { x _ { 2 m } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { x _ { n 1 } } & { x _ { n 2 } } & { \\dots } & { x _ { n m } } \\end{array} \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np c = e X = e _ { 1 } x _ { k 1 } + \\cdots + e _ { i } x _ { k i } + \\cdots + e _ { m } x _ { k m }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设待求的 $m$ 维特征向量为 $\\pmb { e }$ ，则一个主成分 $p c$ 可以表示成（2）式。同时，为了保证在降维过程中数据所携带的信息不丢失，降维后的主成分应尽可能多地体现原始观测量的信息，并且保证主成分之间互相独立。随机变量的方差可以体现随机变量所携带的信息，而不同的特征向量 $\\pmb { e }$ 其方差的大小也不同，主成分分析法就是寻找使主成分 $p c$ 的方差达到最大的一组特征向量 $\\scriptstyle { e }$ 。为此根据最小二乘法原理，此处的 $\\pmb { e }$ 为观测矩阵 $\\pmb { X }$ 的协方差矩阵 $\\pmb { C } = ( c _ { j k } ) _ { m \\times m }$ 的正交特征矢量，其中 $c _ { j k }$ 的表达式如（3）式， $\\bar { x } _ { j }$ ， $\\bar { x } _ { k }$ 为列矢量的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { c _ { j k } = \\frac { 1 } { n - 1 } \\sum _ { i = 1 } ^ { n } \\left( x _ { i j } - \\bar { x } _ { j } \\right) \\left( x _ { i k } - \\bar { x } _ { k } \\right) 1 \\leq j , k \\leq m } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bar { x } } _ { j } = { \\textstyle { \\frac { 1 } { n } } } { \\sum } _ { i = 1 } ^ { n } x _ { i j } \\ { \\bar { x } } _ { k } = { \\textstyle { \\frac { 1 } { n } } } \\sum _ { i = 1 } ^ { n } x _ { i k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "构造行列式方程 $| c - l I | = 0$ ，其中 $l$ 为行列式的特征根， $\\pmb { I }$ 为（ $m \\times m$ ）的单位矩阵，通过求解这个方程，可以得到特征根,再求解（5）式，就能求得特征矢量 $\\pmb { e } _ { i }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\pmb { C } - l \\pmb { I } ) e _ { i } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方程 $| c - l I | = 0$ 可以求解得到 $m$ 个特征根，按从大到小的顺序排列， $l _ { 1 } \\ge l _ { 2 } \\ge l _ { 3 } \\ge \\cdots \\ge l _ { m } \\ge$ 0。每一个特征根 $l _ { i }$ 对应一个特征向量 $\\scriptstyle \\mathbf { e } _ { i }$ ，同时对应可得第i个主成分 $p c _ { i }$ ，最大的 $l _ { 1 }$ 对应第1主成分。在主成分分析法中，将 $l _ { k } / \\Sigma _ { i = 1 } ^ { m } l _ { i }$ 称为主成分 $p c _ { k }$ 的贡献率，将 $\\textstyle \\sum _ { j = 1 } ^ { k } l _ { j } / \\Sigma _ { i = 1 } ^ { m } l _ { i }$ 称为主成分 $p c _ { 1 }$ ， $p c _ { 2 }$ ， $p c _ { 3 }$ ，…, $p c _ { k }$ （ $k \\leq m$ ）的累计贡献率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2主成分分析的算法流程",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1） 对样本中每个特征指标下的数据，减去该特征的平均值，即对所有样本进行中心化；  \n(2) 计算样本矩阵的协方差矩阵；  \n(3） 求协方差矩阵的特征根和特征根所对应的特征矢量;  \n(4） 根据特征根的大小，计算得到每个特征根对应的贡献率和累计贡献率;  \n(5） 用每一个特征矢量乘以样本矩阵计算得到每一个主成分，即降维后输出的新样本。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3主成分分析结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用LAMOSTDR5数据集给出的谱线指数、有效温度以及有效温度误差数据，给定温度为7500K至11000K提取A型星的数据，之后首先对数据筛选预处理，去除一些明显异常的数据，比如空值、显示为-9999的数据，除此之外，正常情况下谱线指数都应该是正值，但是由于郭守敬望远镜流量定标没有定好，有些谱线指数的数据出现负值，因此，在这里只选取谱线指数为正值的正常数据，一共选取53739组A型星的数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过主成分分析的方法对19 种谱线指数数据（kpl2，kp18,kp6，hdeltal2，hdelta24,hdelta48， hdelta64， hgammal2,hgamma24， hgamma48， hgamma54， hbetal2， hbeta24,hbeta48，hbeta60,halphal2，halpha24，halpha48，halpha70）进行相关性降维，设定累计贡献率大于 $9 0 \\%$ ，得到了3个主成分，方差分别为：15.479，1.563，1.507。因此,主成分一贡献率 $\\alpha { = } 7 7 . 8 2 \\%$ ，主成分二贡献率 $\\beta { = } 7 . 8 6 \\%$ ，主成分三贡献率 $\\cdot \\gamma { = } 7 . 5 8 \\%$ 。再结合主成分分析过程中得到的转换矩阵 ${ \\pmb w }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb w } = \\left| { \\begin{array} { l l l l } { a _ { 1 } } & { a _ { 2 } } & { \\dots } & { a _ { 1 9 } } \\\\ { b _ { 1 } } & { b _ { 2 } } & { \\dots } & { b _ { 1 9 } } \\\\ { c _ { 1 } } & { c _ { 2 } } & { \\dots } & { c _ { 1 9 } } \\end{array} } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { a _ { i } ^ { \\prime } = \\frac { a _ { i } } { a _ { 1 } + a _ { 2 } + \\cdots + a _ { 1 9 } } b _ { i } ^ { \\prime } = \\frac { b _ { i } } { b _ { 1 } + b _ { 2 } + \\cdots + b _ { 1 9 } } c _ { i } ^ { \\prime } = \\frac { c _ { i } } { c _ { 1 } + c _ { 2 } + \\cdots + c _ { 1 9 } } , \\quad i = 1 , 2 , \\cdots , 1 9 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { i } = a _ { i } ^ { \\prime } \\cdot \\alpha + b _ { i } ^ { \\prime } \\cdot \\beta + c _ { i } ^ { \\prime } \\cdot \\gamma ~ i = 1 , 2 , \\cdots , 1 9\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "转换矩阵 ${ \\pmb w }$ 每一行对应新得到的一种主成分，每一列代表每种原始特征的权重大小，根据（7)式按行进行归一化，得到每种谱线指数对应3个主成分的权重大小 $a _ { i } ^ { \\prime }$ ， $b _ { i } ^ { \\prime }$ ， $c _ { i } ^ { \\prime }$ ，之后结合每种主成分的贡献率，按照（8）式计算得到每种谱线指数占整个数据信息的百分比大小 $p _ { i }$ 。见表1。从大到小排序如下:hgamma54,hdelta64，hgamma48,hdelta48，halpha70,hbeta60,halpha48,hbeta48,kpl8,hdelta24，hgamma24，kpl2，halpha24，hbeta24，kp6， hdelta12,halphal2，hgamma12，hbeta12。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/76fe985ac4149f892674dd652e95cc43bc64baab0eb69c17b6aa37567c7e8902.jpg",
+        "table_caption": [
+            "表1每种谱线指数占整个数据信息的百分比大小",
+            "Table 1 thepercentage of the entire informationfor each spectral index "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>kp12</td><td>kp18</td><td>kp6</td><td>hdelta12</td><td>hdelta24</td><td>hdelta48</td><td>hdelta64</td><td>hgamma12</td><td>hgamma24</td><td>hgamma48</td></tr><tr><td>4.06%</td><td>4.96%</td><td>2.31%</td><td>1.96%</td><td>4. 71%</td><td>7.50%</td><td>8.29%</td><td>1.91%</td><td>4.38%</td><td>8.22%</td></tr><tr><td>hgamma54</td><td>hbeta12</td><td>hbeta24</td><td>hbeta48</td><td>hbeta60</td><td>halpha12</td><td>halpha24</td><td>halpha48</td><td>halpha70</td><td></td></tr><tr><td>8.92%</td><td>1.55%</td><td>3.23%</td><td>5.70%</td><td>6.29%</td><td>1. 94%</td><td>3.70%</td><td>6.21%</td><td>7.47%</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 搭建神经网络模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文使用的机器学习模型是多层感知器（Multilayer Perceptron，MLP)，即神经网络模型[5][10]，在 Python 环境下提供了多种机器学习算法，其中 sklearn.neural_network 模块提供多层感知器回归算法，即 MLPRegres Sor[9]。多层感知器顾名思义，由多个层构成，包括一个输入层和可以规定数量的多个隐藏层以及一个输出层，隐藏层的加入增强了模型的表达能力，但同时也使得模型变得更加复杂，对于输出层的神经元来说，可以有不止一个输出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "神经网络模型设置了两个隐藏层，每个隐藏层包含100个节点，多层感知器回归算法MLPRegressor中可选择的激励函数有4种，分别是identity，logistic，tanh，relu，分别测试了这4种激励函数下模型的表现，如表2。由表2可以看出,选择identity 和relu时模型表现比较好。选择relu时模型表现更好,并且选择relu时模型训练速度较快，效率较高。因此,搭建神经网络模型的激励函数设置为relu。但是选择relu作为激励函数时有一个缺点，可能会造成神经元坏死，为了避免这种情况发生，在这里网络的学习速率设置的较小，避免权重突然更新过多，导致神经元彻底关闭。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3053c0ea9a8f971e9d637e3bb8adcedaf7c82e506f805a11a400b8201b4a82d.jpg",
+        "table_caption": [
+            "表2不同激励函数下多层感知器的表现",
+            "Table 2 the performance of MLP byusing different Activation function "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>identity</td><td>logistic</td><td>tanh</td><td>relu</td></tr><tr><td>Score</td><td>0.886</td><td><0</td><td><0</td><td>0.904</td></tr><tr><td>Mean absolute error</td><td>70.02K</td><td>large</td><td>large</td><td>58.38K</td></tr><tr><td>Standard deviation</td><td>59.22K</td><td>large</td><td>large</td><td>60.81K</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经过测试，梯度下降函数选择在相对较大数据集上效果较好的adam，此时模型运算效率较高并且结果较好。设置正则化系数alpha 则是为了避免过拟合的发生，设置为0.001，同时保证模型的运行结果较好。最大训练迭代次数 max_iter经过测试设置为4000。除此之外其他参数设定为默认设置。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1选择输入参数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1是郭守敬望远镜提供的有效温度的绝对误差分布图，选取有效温度误差小于100K，共计45095组数据建立模型，其中随机选取 $8 0 \\%$ 的数据作为训练数据， $2 0 \\%$ 的数据作为训练之后的测试数据。通过主成分分析法给出了19种谱线指数占整个数据信息的百分比大小排序，据此，选择与有效温度关系最紧密的几种谱线指数作为神经网络模型的输入，按照信息占比从大到小的顺序依次选择1种到全部19 种谱线指数作为神经网络模型输入。测试不同指标数量下模型的表现，建立模型之后 score命令可以给出模型的评分，即模型对全部数据的预测结果的决定系数 $R ^ { 2 }$ ，具体计算公式见（9）式，其中， $U$ 为残差平方和； $y _ { t }$ 为真实的数据； $y _ { p }$ 为预测的数据； $V$ 为总平方和； $\\bar { y } _ { t }$ 为真实数据的平均值。决定系数 $R ^ { 2 }$ 越接近1表示模型与数据匹配越好[9]。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R ^ { 2 } = 1 - \\frac { U } { V } \\sharp \\sharp U = \\sum _ { i = 1 } ^ { n } ( y _ { t } - y _ { p } ) ^ { 2 } V = \\sum _ { i = 1 } ^ { n } ( y _ { t } - \\bar { y } _ { t } ) ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3与图2是以模型的评分为标准给出的结果。可以看出，选取包含信息最多的前 12种谱线指数数据时，模型的评分最高，模型表现最好，因此，选取前12种谱线指数，即hgamma54,hdelta64， hgamma48，hdelta48，halpha70，hbeta60，halpha48，hbeta48，kp18,hdelta24，hgamma24，kp12作为神经网络模型的输入。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/625d6c713a4683db048d48c149638b1e943af32822e03beebd4783e419d8abf3.jpg",
+        "img_caption": [
+            "图1有效温度绝对误差分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3不同指标数量下模型的评分",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e44921bded0b8b3cd9c36235672da3b8b933c777e19e0684a564774b204f88c5.jpg",
+        "table_caption": [
+            "Table3themodel scorefordifferentnumberoffeatures "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td>0.498</td><td>0.597</td><td>0.703</td><td>0.743</td><td>0.732</td><td>0.743</td><td>0.759</td><td>0.761</td><td>0.874</td><td>0.882</td></tr><tr><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td></td></tr><tr><td>0.880</td><td>0.904</td><td>0.873</td><td>0.880</td><td>0.895</td><td>0.887</td><td>0.897</td><td>0.888</td><td>0.872</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e83bad89b9192c692fa2248154fcf293fc59fd7aeecf9b6f83b1592f805cba4.jpg",
+        "img_caption": [
+            "Fig 1 Absolute error distribution diagram effective temperature ",
+            "图2模型评分随指标数量的变化",
+            "Fig.2 the relationship between score and the number of selected features "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2建立模型",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1模型在训练数据集上的表现",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 $8 0 \\%$ 的训练数据集上，用得到的神经网络模型对有效温度进行了预测，如图3（a)，训练数据集36076个数据点整体分布在相对集中的区域，个别数据偏离较大，除此之外，由图3（b）可以看出，随着有效温度变大，误差存在一个轻微的下降趋势，文[7]对于这个现象的解释是可能因为人工神经网络内部的机制的原因,考虑到郭守敬望远镜数据本身对于早型星的恒星参数测量并不准确，所以有可能是数据本身的影响造成的，有待进行更加深入的讨论。经过计算绝对误差的平均值为58.12K，标准差为60.99K，结合测试数据集上的预测结果，两者的平均绝对误差和标准差的结果基本一致，由此可以表明，神经网络模型并没有发生过拟合。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d536eff6c7b533aa1866511f8cb3c045cfc4dafb6b34ee4b1d80b6e8e12a716.jpg",
+        "img_caption": [
+            "Fig.3 the results of forecast by neural networkontraindataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7feefaed047720a2187900a1602a98dab49b2ad47ede8743f2df8fce47418d8.jpg",
+        "img_caption": [
+            "图3神经网络回归模型在训练数据集上的预测结果",
+            "图4训练数据集上有效温度的误差分布图图5神经网络学习曲线",
+            "Fig.5 learning curves "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 error distribution diagram of effective temperature on train data set ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图4给出了误差分布图及其拟合的正态分布曲线，正态分布的数学期望为-3.668，标准差为84.167。图5是神经网络模型的学习曲线，从图中可以看出，随着训练样本数量的增加，训练得分（图中红线部分）快速增加，达到饱和之后趋于水平。测试得分（图中绿线部分）与训练得分变化趋势一致，但是并没有出现训练得分较高，测试得分较低或者测试得分达到某一值后迅速下降，即过拟合的情况。除此之外，训练得分与测试得分都处于较高的水平，因此神经网络模型并没有欠拟合。整体来看，模型的学习曲线收敛且误差较小，是一条比较理想的学习曲线。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.2模型在测试数据集上的表现",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对于神经网络回归模型，程序给出的评分为0.904，图6是在测试数据集上得到的有效温度的预测结果，其中，由图6（a）可以看出，预测有效温度值与实际有效温度值成正比，整体预测结果较好，绝对误差的平均值为58.38K，不足A型星有效温度的百分之一，标准差为60.81K，但是还是存在个别预测数据与实际数据偏离较大；图6（b）给出了模型的误差变化趋势，可以看出，误差围绕在纵坐标轴 $\\scriptstyle { \\mathcal { I } } = 0$ 上下，个别数据还是出现了较大的偏离，除此之外，还能够看出误差有一个轻微的下降趋势。图6（c）给出了误差的分布图及其拟合的正态分布曲线，可以看出与训练数据集上的结果一致，误差主要集中在100K以内，正态分布拟合的数学期望为-3.366，标准差为84.229。可见模型的有效温度预测准确度相比文[7]建立的模型有了很大的改进与提升。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1857ec7a554b304983d2394e899e69ad5a80d5b4c8522c439116077fc2dbcb16.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/36d308e3a57b9104b849c9f170d1f42f27c78096cc2994a9d7825d9500e69891.jpg",
+        "img_caption": [
+            "图6神经网络回归模型在测试数据集上的预测结果",
+            "Fig.6 the results of forecast by neural networkontestdataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3不同模型比较",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支持向量机和神经网络模型都可以解决非线性的回归问题，通过sklearn.svm中的 SVR模块，建立了一个支持向量机回归模型（Support Vector Regression，SVR）与前文的神经网络模型进行了对比，见表4。此外还建立了一个决策树回归模型（Decision TreeRegression,DTR)，选取 $8 0 \\%$ 的数据作为训练数据， $2 0 \\%$ 的数据作为测试数据，为了防止严重过拟合的发生，经过测试决策树回归模型的最大深度设置为6。查看决策树回归模型在两个数据集上的结果，此时在训练数据集上绝对误差的平均值为65.10K，标准差为61.74K，在测试数据集上绝对误差的平均值为66.76K，标准差为62.83K，因此，模型没有发生过拟合。表4给出了3种模型在测试数据集上的结果对比。可以看出，神经网络模型在评分和误差方面比支持向量机、决策树回归模型较好的结果。图7（a）和图7（b）分别给出了支持向量机和决策树回归模型在测试数据集上的误差变化，前文提到神经网络模型随着有效温度的变大，误差存在一个轻微的下降趋势，从图7（a）支持向量机模型整体来看，误差也存在一个下降的趋势，尤其是8200K到8500K之间，误差有明显的下降趋势，因此，产生这个现象的原因可能不单单是神经网络内部的原因，也可能与数据本身有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/afcf78d6568399769136f418fb1e7cd3bc08bddd6adb8f14bf0facf34323bad2.jpg",
+        "table_caption": [
+            "表4模型的比较 Table4thecomparisonofdifferentmodels "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>DTR</td><td>SVR</td><td>MLP</td></tr><tr><td>Score</td><td>0.890</td><td>0.882</td><td>0.904</td></tr><tr><td>Mean absolute error</td><td>66.76K</td><td>67.23K</td><td>58.38K</td></tr><tr><td>Standard deviation</td><td>62.83K</td><td>68.64K</td><td>60.81K</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9847dfb1296dac8d2ed3acb0057b950142da1ab566edd6bf90799fae32a1c575.jpg",
+        "img_caption": [
+            "图7支持向量机和决策树回归模型在测试数据集上的预测结果Fig.7 the results of forecast by SVR and DTR"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 神经网络模型的应用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1对有效温度误差较大的数据进行改进",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "选取了LAMOSTDR5数据集中包含有有效温度、有效温度绝对误差以及19种谱线指数数据的A型星数据，共计 53739组，使用其中有效温度误差小于100K共45095组数据建立了神经网络模型。通过建立的神经网络模型对有效温度误差大于100K的8644组数据，使用其谱线指数数据进行了计算预测，给出了有效温度值，对数据进行了改进与提升，提供了一定程度的参考价值。对于LAMOSTDR5数据集中有效温度绝对误差大于100K的数据，图8（a）是有效温度绝对误差的分布图，图8（b）是通过模型的预测得到的有效温度的绝对误差分布图。对于LAMOST给出的有效温度绝对误差，平均值为185.10K，标准差为78.79K；神经网络模型给出的有效温度绝对误差平均值为115.24K，标准差为104.88K。可以看出，有效温度绝对误差平均值有明显下降，对于有效温度数据一定程度上有所改进与提升。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad4cbb5b8500db2b632cfdf02a7cd35b827e0cc2fec54e6b0c025bc22999f3e1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.8absolute error distribution diagram of effective temperature for LAMoST and prediction ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2对LAMOST缺少的A5光谱型恒星有效温度数据进行补充",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DR5 数据集一共给出了40多万条A型星光谱，但明确给出有效温度数据的A型星只有8万多颗，这其中还包括很多误差非常大的数据。对于有效温度的测量，通过神经网络模型可以使用谱线指数的数据，更加自动高效地进行测量，一定程度上弥补这部分数据的缺失，提供一定的参考意义。依据哈佛天文台的恒星光谱分类系统，除了分为0、B、A、F、G、K、M、R、S、N几个光谱型之外，对于每种光谱型还可以分为10个次型，用数字0到9表示，并且对应恒星的温度依次下降。考虑到模型使用有效温度7500K到8500K的数据训练建立的，这里选取温度区间相近的光谱型恒星，以A5型恒星数据为例，LAMOST提供了谱线指数数据且分类为A5型的恒星一共有470组，基本没有给出有效温度的数据。考虑到流量定标没有定好，导致谱线指数出现负值的情况，选取其中每种谱线指数都大于0的数据，通过神经网络模型给出了这些恒星的有效温度数据，表5展示了其中一小部分结果，包括观测号（obsid)，赤纬（Dec），赤经（Ra）和预测得到的有效温度（teff）。根据 MK分类系统的光谱型与有效温度之间的关系[，对于A5型恒星来说，光度级为I（超巨星)，即A5I型恒星的有效温度为8610K；光度级为V（主序星)，即 $\\mathrm { A 5 V }$ 型恒星的有效温度为8180K，光度级VI（亚矮星）的恒星的有效温度更低。考虑到观测数据的分类以及谱线指数数据都可能不准确，预测得到的A5型恒星的有效温度基本符合上述范围。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fc80cd25b05d0dd4b72f9add4a8303befc81e1b3f20f28cd986a6ea8758e722.jpg",
+        "table_caption": [
+            "表5预测得到LAM0STDR5数据集中A5型恒星有效温度",
+            "Table 5predicted effective temperature of A5 type star in LAMOST DR5 data se "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>obsid</td><td>Ra</td><td>Dec</td><td>teff</td><td>obsid</td><td>Ra</td><td>Dec</td><td>teff</td></tr><tr><td>4113006</td><td>51.65291</td><td>52.66395</td><td>8571. 45</td><td>555314004</td><td>91. 01701</td><td>20.9542681</td><td>7987. 72</td></tr><tr><td>4607082</td><td>36.6579</td><td>56.944608</td><td>7839.64</td><td>557706227</td><td>235.2796</td><td>0.8151459</td><td>6991. 45</td></tr><tr><td>6808044</td><td>98.74538</td><td>28.21549</td><td>7154.94</td><td>565210158</td><td>273.0517</td><td>1. 957477</td><td>8497.29</td></tr><tr><td>15004223</td><td>57. 59596</td><td>50.719356</td><td>8172.05</td><td>583707042</td><td>281. 6488</td><td>0.500164</td><td>7415. 48</td></tr><tr><td>15010203</td><td>54.65725</td><td>49.709679</td><td>8807.14</td><td>583707045</td><td>281.6511</td><td>0. 224461</td><td>7120. 40</td></tr><tr><td>38501228</td><td>60.50061</td><td>47.978225</td><td>7450.72</td><td>573311118</td><td>275.7202</td><td>-0.859244</td><td>8354.52</td></tr><tr><td>38504105</td><td>62.32311</td><td>50.106506</td><td>7339.61</td><td>573504037</td><td>281. 2724</td><td>7. 070487</td><td>8316.87</td></tr><tr><td></td><td>…</td><td>：</td><td>：</td><td>…</td><td>…</td><td>：</td><td></td></tr><tr><td>506112038</td><td>309.9581</td><td>43.619166</td><td>8170. 19</td><td>289916227</td><td>83.09115</td><td>37.684256</td><td>8311. 47</td></tr><tr><td>506113076</td><td>311. 0851</td><td>41. 94965</td><td>8640.66</td><td>250705140</td><td>306.9164</td><td>37.379419</td><td>8564.75</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过LAMOSTDR5数据集提供的A型星19 种谱线指数与有效温度数据，通过主成分分析法进行相关性降维，根据每种谱线指数占整个数据信息的百分比，经过测试选择了与有效温度关系最紧密的12种谱线指数作为输入数据。筛选有效温度误差小于100K的数据建立了神经网络回归模型，模型在测试数据集上表现良好，评分为0.904，平均绝对误差为58.38K，标准差为60.81K。对比相关研究的模型，准确度有了很大的提升。通过有效温度神经网络回归模型对LAMOST提供的有效温度误差大于100K的数据进行了预测，经过模型预测得到的有效温度数据的绝对误差平均值有明显的下降，一定程度上对这部分数据进行了改进与提升，此外,LAMOSTDR5数据集提供了大量的A型星数据，但绝大部分缺少有效温度数据，通过神经网络模型可以实现高效自动较为准确地给出这部分数据，以光谱型为A5的恒星数据为例，对 LAMOST 缺少有效温度的A型星数据进行了弥补与补充，提供了一定的参考意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "包括A型星在内的早型星的恒星参数不容易测量得到，LAMOST巡天项目提供了海量的光谱观测数据，其中包括大量的A型星数据，但包括有效温度在内的恒星参数数据却非常缺乏。通过本文方法验证了建立神经网络模型利用谱线指数预测有效温度的方法是有效可行的，同时该方法能够自动高效地测量有效温度，并且测量的准确度相比于前人建立的模型有了很大的改进与提升。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "致谢：本文工作由国家自然科学基金（11988101，11890694）和国家重点研发计划",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（2019YFA0405502）资助。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]Ledrew Glenn. The Real Starry Sky [J]. Journal of the Royal Astronomical Society of Canada,2001,95: 32.  \n[2] Gang Zhao, Yongheng Zhao, Yaoquan Chu, Yipeng Jing, Licai Deng. LAMOST SpectralSurvey [J]. RAA,2012,12,723.  \n[3] 李成，孔旭，程福臻．主成分分析法在天体物理中的应用［J].天文学进展,2001(01) :9-16.  \n[4] 陈淑鑫,罗阿理,孙伟民.R 语言应用于 LAMOST 光谱分析初探［J].天文研究与技术,2017,14(03) :363-368.  \n[5] 李丽丽,张彦霞,赵永恒,杨大卫.人工神经网络在天文学中的应用［J].天文学进展，2006(04):285-295.  \n[6] 覃冬梅,胡占义,赵永恒.一种基于主分量分析的恒星光谱快速分类法[J].光谱学与光谱分析,2003(01):182-186.  \n[7] 谭鑫,潘景昌，王杰,罗阿理,屠良平.基于神经网络的线指数恒星大气物理参数测量方法［J].光谱学与光谱分析,2013,33(06):1701-1705.  \n[8] 潘亚春，屠良平.基于神经网络的恒星大气参数自动测量［J].辽宁科技大学学报,2009,32(01):21-26.  \n[9] Pedregosaetal.Scikit-learn:MachineLearninginPython[J]. JMLR,2011,12(Oct):2825-2830.  \n[10] Bailer-Jones C A L, Gupta R, Singh HP. An introduction to artificial neural networks [J].Automated Data Analysis in Astronomy, 2002, p.51.  \n[11]李宗伟,肖华.天体物理学[M].北京:高等教育出版社,2000:1  \n[12]王光沛,潘景昌,衣振萍,韦鹏,姜斌.基于线指数特征的海量恒星光谱聚类分析研究[J].光谱学与光谱分析.2016.36(08):2646-2650",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Neural network model of the effective temperature for A type star based on principal component analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Li Zhengze1,2,Zhao Gang1,2 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1.Key Laboratory of Optical Astronomy,National Astronomical Observatories, Chinese Academy of ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Sciences,Beijing 100101 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2. School of Astronomy and Space Science, University of Chinese Academy of Sciences,Beijing 100049) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) has provided bulk of stellr spectra data. DR5 catalogue contains plenty ofspectral indices and effective temperature of A type stars. Recently machine learning algorithms such as Neural network model which can be used to explore the deep relationship between different data have been widely used in various disciplines. In this paper with19 spectral line indices and effective temperature of A type star from LAMOST DR5 data set. Through Principal component analysis (PCA)，we present thepercentage of the entire informationfor each spectral index and 12 spectral line indices which are most closely related toeffective temperature are selected as an input to establish a Neural network model for effective temperature,meanwhile the absolute error of effective temperature for these input data are less than 1OOK.The model performs well overall on the test data set. The coefficient of determinationR²given by the program is 0.904 and an average absolute error of 58.38K.Compared with related research model， the measurement accuracy has been significantly improved.Furthermore， fortheraw data which have absolute error more than 1OoK, we remeasureeffective temperature via our model and the average absolute error of the new effective temperature data has decreased significantly. Besides LAMOST DR5 catalogue barely have effective temperature of A5 type star, we make up these missing data. Thiswork provides a certain degree of reference significance. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words:Neural network; A type star; principal component analysis ",
+        "page_idx": 11
+    }
+]

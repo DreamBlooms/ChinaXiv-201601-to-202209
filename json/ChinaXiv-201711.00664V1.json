@@ -1,0 +1,438 @@
+[
+    {
+        "type": "text",
+        "text": "太阳能驱动的生物质气化发电系统研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白章1,²，刘启斌1\\*，李洪强³，金红光¹（1．中国科学院工程热物理研究所，北京100190；2.中国科学院大学，北京100049;3．湖南大学土木工程学院，湖南长沙410082)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文提出一种基于太阳能驱动生物质气化的新型发电系统，利用塔式定日镜场聚光产生 $1 0 0 0 { \\sim } 1 5 0 0 \\mathrm { K }$ 高温太阳热能驱动生物质进行气化反应，并集成先进燃气—蒸汽联合循环发电系统高效利用气化合成气。对该系统进行了热力学性能分析，结果表明：与常规生物质气化方式相比，通过驱动生物质发生气化反应，不仅将间歇性的太阳能转化为稳定的合成气化学能，并增加了气化合成气的化学能，同时合成气中的 $\\mathrm { H } _ { 2 }$ 和CO的摩尔含量之比在气化温度为 $1 0 0 0 { \\sim } 1 5 0 0 \\mathrm { K }$ 时达到 $1 . 6 5 { \\sim } 2 . 4 4$ ，有利于直接合成甲醇等清洁液体燃料。在设计工况下，系统的太阳能热功转化效率将达到 $2 3 . 6 8 \\%$ ，随着气化反应温度的升高，系统的太阳能份额和输出的电功率增大，系统的总热效率和总烟效率均下降。研究成果将为高效利用我国西部丰富的太阳能与生物质能综合利用提供一条有效途径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：太阳能；生物质气化；发电；性能分析中图分类号：TK6 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Investigation of apower generation system integrated with solar-driven biomass ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "gasification ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bai Zhang12,Liu Qi-Bin 1\\*,Li Hong-Qiang',Jin Hong-Guang (1.Institute of Engineering Thermophysics,Chinese Academy of Sciences,Beijing 100190, China; 2.University of the Chinese Academy of Sciences,Beijing 100149 , China; 3.College ofCivil Engineering,Hunan University, Changsha 41oo82, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:A novel power generation systemwith a biomass gasification was developed in this work.The biomass gasification reaction is driven by the concentrated solar thermal energy of $1 0 0 0 { \\sim } 1 5 0 0 \\mathrm { K }$ provided by the solar tower collctors,thenan advanced combined cycle system is integrated for effciently utilizing the syngasproduced.The thermodynamic performance of the proposed system was evaluated.Results indicate that the solar energy can be converted into the high-quality chemical energy of syngas，and the quantity of the chemical energy of syngasproducedwasincreased. Meanwhile the $\\mathrm { H } _ { 2 } / \\mathrm { C O }$ molar ratios of syngas reachin range ofl $. 6 5 { \\sim } 2 . 4 4$ at the gasification temperature of $1 0 0 0 { \\sim } 1 5 0 0 \\ \\mathrm { K }$ ,which was suitable for synthesing the high-quality liquid fuels, such as methanol.Under the on-design condition,the net solar-to-electricityconversion eficiency of the systemcan be get 0 $2 3 . 6 8 \\%$ . The solar share fraction and the quantity ofthe generated electricityincrease with the increase of thesolar gasification temperature,while the thermal efficiency and the exergy eficiency of the system were reduced. The promising results in the work will provide a new approach for effciently utilizing abundant resources of solar energy and biomass in West China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:solar energy; biomass gasification; power generation; performance analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为应对日益严峻的能源短缺和环境污染问题，各国正在大力开发利用太阳能和生物质等可再生能源。与直接燃烧相比，生物质通过气化反应可转化为富含CO和 $\\mathrm { H } _ { 2 }$ 的优质气体燃料，不仅可借助燃气一蒸汽联合循环机组加以高效利用，还可作为原料气用于生产甲醇和二甲醚等各类化工产品[1,2]。常规的生物质气化技术采用自供热型的方式提供反应热，虽可简化气化反应流程并降低对反应器的技术要求，但存在着以下不足：（1）需消耗 $20 \\% { \\sim } 4 0 \\%$ 左右的生物质来提供气化热源，降低了生物质的有效利用率[3];（2）因合成气中的 $\\mathrm { C O } _ { 2 }$ 和 $\\mathbf { N } _ { 2 }$ 含量较高，造成合成气热值偏低，并限制了合成气的应用范围[4,5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在太阳能和生物质资源均丰富的地域，高温聚光太阳能可作为驱动热源参与生物质气化反应，不仅能将间歇性和不稳定的太阳能转化为高品质合成气的化学能，实现太阳能的稳定存储，同时还可规避了常规气化技术的诸多不足[5-7]。基于此，Kalinci等[8]构建了以高温太阳能作为驱动热源的生物质气化制氢系统，并进行了热力学性能分析，所得到合成气中 $\\mathrm { H } _ { 2 }$ 含量将达到 $4 8 \\% { \\sim } 5 7 . 6 \\%$ ，优于常规化石燃料气化制氢系统。Piatkowski等9设计了填充床型等太阳能气化反应器，并针对不同碳氢化合物开展气化特性实验研究。 $\\mathrm { N g }$ 等[10]和Kaniyal等[11]相继提出利用太阳能驱动生物质或化石燃料气化的多联产系统，集成了联合循环发电装置和F-T合成系统用于生产电能和燃油。本文则结合地区性可再生能源的资源现状，提出直接将太阳能-生物质气化与合成气燃烧发电相结合的多能源互补利用方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以新疆地区的棉花秸秆为原料，并利用高温聚焦太阳能作为气化驱动热源，开展生物质水蒸汽气化特性研究，分析不同气化温度等因素对气化特性及合成气组分的影响，并提出一种太阳能驱动的生物质气化发电系统，同时基于热力学第一定律和第二定律对系统的热力学性能进行评价分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1生物质气化及试样基础物性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生物质气化是一个复杂的热化学反应体系，经历干燥、热解、氧化和还原四个反应阶段，最终完成向气体燃料的转变。以水蒸汽作为气化剂的太阳能一生物质气化方式，利用高温太阳能聚光装置提供的外热源替代常规生物质气化过程中的氧化反应过程，减少了生物质的燃烧消耗，同时也规避氧化反应产生的大量 $\\mathrm { C O } _ { 2 }$ 及空气中 $\\Nu _ { 2 }$ 对合成气的稀释。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气化反应过程包括气化剂或气态反应产物与固体燃料之间的非均相气固反应，以及气态反应产物或与气化剂之间的均相反应，其中主要的气化反应如下所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { C } + \\mathbf { H } _ { 2 } \\mathbf { O } \\longrightarrow \\mathbf { C O } + \\mathbf { H } _ { 2 } \\qquad \\Delta _ { \\mathrm { r } } H _ { \\mathrm { 2 9 8 K } } = 1 3 1 . 2 9 \\ \\mathrm { k J / m o l } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r l } & { \\mathrm { C } + \\mathrm { C O } _ { 2 } \\to 2 \\mathrm { C O } } & & { \\Delta _ { \\mathrm { r } } H _ { 2 9 8 \\mathrm { K } } = 1 7 2 . 4 6 \\mathrm { ~ k J } / \\mathrm { m o l } } \\\\ & { \\mathrm { C } + 2 \\mathrm { H } _ { 2 } \\to \\mathrm { C H } _ { 4 } \\quad } & & { \\Delta _ { \\mathrm { r } } H _ { 2 9 8 \\mathrm { K } } = - 7 4 . 8 1 \\mathrm { k J } / \\mathrm { m o l } } \\\\ & { \\mathrm { C H } _ { 4 } + \\mathrm { H } _ { 2 } \\mathrm { O } \\to \\mathrm { C O } + 3 \\mathrm { H } _ { 2 } \\quad } & & { \\Delta _ { \\mathrm { r } } H _ { 2 9 8 \\mathrm { K } } = 2 0 6 . 1 0 \\mathrm { k J } / \\mathrm { m o l } } \\\\ & { \\mathrm { C O } + \\mathrm { H } _ { 2 } \\mathrm { O } \\to \\mathrm { C O } _ { 2 } + \\mathrm { H } _ { 2 } } & & { \\Delta _ { \\mathrm { r } } H _ { 2 9 8 \\mathrm { K } } = - 4 1 . 1 7 \\mathrm { k J } / \\mathrm { m o l } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国新疆地区的太阳能资源非常丰富，年均日照小时数 $2 5 0 0 { \\sim } 3 5 5 0 \\mathrm { h }$ ，水平表面太阳辐照年总量为$5 0 0 0 { \\sim } 6 4 0 0 \\mathrm { M J / m } ^ { 2 }$ 。新疆也是我国的棉花主产区，2012年的棉花产量已达到 $4 . 3 5 \\times 1 0 ^ { 6 } \\mathrm { t }$ ，占全国总产量的$57 \\%$ ，同时拥有着丰富太阳能和生物质资源也为实现这两种可再生能源的高效集成利用奠定了资源基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文选用的生物质试样为取于自新疆库尔勒地区的棉花秸秆，经过实验测定，试样的基础物性参数如表1-3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd8512f50ad75476e5d606f5d806f7642151393d59be15380d637f6cfedb40b8.jpg",
+        "table_caption": [
+            "表1样品的工业分析／adTable 1Proximate analysis of sample"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">样品</td><td colspan=\"4\">工业分析/%</td></tr><tr><td>水分</td><td>灰分</td><td>挥发分</td><td>固定碳</td></tr><tr><td>生物质</td><td colspan=\"3\">6.78 3.97</td><td>68.54 20.71</td></tr><tr><td colspan=\"4\">表2样品的元素分析和发热量／ad Table 2Ultimate analysis and heat value of sample</td></tr><tr><td rowspan=\"2\">样品</td><td></td><td>元素分析/%</td><td></td><td>低位发热量/</td></tr><tr><td>C H</td><td>N</td><td>S 0</td><td>kJ·kg-1</td></tr><tr><td>生物质 42.6</td><td colspan=\"3\">5.59 1.28 0.2</td><td>39.58 15999</td></tr><tr><td colspan=\"6\">表3生物质灰分的熔融特性 Table 3Melting properties of the biomass ash</td></tr><tr><td>试样</td><td colspan=\"3\">变形温度/K 软化温度/K</td><td>半球温度/K</td><td>流动温度/K</td></tr><tr><td>灰分</td><td colspan=\"3\">1399.15 1527.15</td><td>1527.15</td><td>1615.15</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同时根据生物质试样原产地一新疆库尔勒地区的气象参数，选择以9月22日作为设计工况点，选取的太阳直射辐射强度DNI和入射角分别为 $7 4 4 \\mathrm { W / m } ^ { 2 }$ 和 $3 3 . 3 2 ^ { \\circ }$ ，塔式高温太阳能气化吸收/反应器在设计点的热效率 $\\eta _ { \\mathrm { c o l } }$ 为 $4 8 . 3 8 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2系统流程及性能评价指标 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1系统流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用聚光太阳能为生物质气化提供充足的外热源，不仅改善了生物质的气化特性，同时也实现太阳能向合成气化学能的转化，并在此基础上集成燃气一蒸汽联合循环发电系统，所构建的太阳能驱动的生物质气化发电系统流程如图1所示。经自然风干后的生物质（含水率 $1 5 \\%$ ）和水蒸汽一同送入太阳能反应器中，定日镜场聚光产生的 $1 0 0 0 { \\sim } 1 5 0 0 \\mathrm { ~ K ~ }$ 高温热源投射至气化反应器，用以驱动生物质发生气化反应；气化产生的高温合成气借助气化废热锅炉回收高温显热，经降温后的合成气将继续进行冷却和净化处理，随后送至燃气一蒸汽联合循环发电系统中；联合循环发电系统配置了双压再热型余热锅炉，将从余热锅炉中抽取部分经预热的饱和水送往气化废热锅炉中，利用合成气的高温显热继续加热至过热蒸汽，部分蒸汽作为气化剂送至吸收/反应器中，同时还将剩余的过热蒸汽返送至余热锅炉中，经进一步加热后送入蒸汽透平作功。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6facc583e0eabe300550b5fc5a10865d479d9cc5bdec6e07a942404d39e06314.jpg",
+        "img_caption": [
+            "图1生物质—太阳能气化发电系统流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Schematic diagram of the proposed power generation system ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时构建一组参比生物质气化发电系统，设定相同的生物质输入量，并与原系统进行横向对比分析，该参比系统采用常规的生物质气化方式，选用的气化剂为氧气/水蒸汽（氧气纯度为 $9 5 \\%$ )。参比系统与原系统的差异仅体现为气化方式和气化参数的不同，在设计工况下各自主要设备的参数如表4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/19c914e06547966e5fa0b657fb27a75845a1f9d8fc504644fd0c99ffac7928e8.jpg",
+        "table_caption": [
+            "表4原系统及参比系统设计工况下的主要设备参数Table 4Operating parameters of key devices for the systems"
+        ],
+        "table_footnote": [
+            "注，S/B：Steam/Biomass，水蒸汽与空干基生物质的质量比；ER：空气当量比(Equivalence Ratio)，生物质气化过程实际消耗空气量与完全燃烧所需理论空气量之比。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td>原系统</td><td>参比系统</td></tr><tr><td>气化温度/压力</td><td>1150K/0.1MPa</td><td>1150K/0.1MPa</td></tr><tr><td>气化剂</td><td>水蒸汽</td><td>氧气/水蒸汽</td></tr><tr><td>S/B</td><td>0.85</td><td>0.4</td></tr><tr><td>ER</td><td></td><td>0.2~0.35</td></tr><tr><td>生物质流量</td><td>10 kg/s</td><td>10 kg/s</td></tr><tr><td>压缩机压比/等熵效率</td><td>20.8/0.85</td><td>20.8/0.85</td></tr><tr><td>燃气透平等熵效率</td><td>87%</td><td>87%</td></tr><tr><td>燃烧温度</td><td>1500K</td><td>1500K</td></tr><tr><td>主蒸汽温度/压力</td><td>783K/12.5MPa</td><td>783K/12.5MPa</td></tr><tr><td>再热蒸汽温度/压力</td><td>783K/3.25MPa</td><td>783K/3.25MPa</td></tr><tr><td>低压蒸汽温度/压力</td><td>505K/0.72MPa</td><td>505K/0.72MPa</td></tr><tr><td>蒸汽透平排汽压力</td><td>8 kPa</td><td>8 kPa</td></tr><tr><td>蒸汽透平等熵效率</td><td>87%</td><td>87%</td></tr><tr><td>发电机效率</td><td>98%</td><td>98%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2性能评价指标 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于热力学第一定律和第二定律对所构建的太阳能一生物质气化发电系统进行评价分析，构建一组特定的参比系统，并选用以下评价指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中太阳能份额 $f$ 用于表征太阳能占总输入能",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "量的比例，如式（1）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf = { \\frac { { \\cal Q } _ { \\mathrm { s o l } } } { m _ { \\mathrm { b i o } } \\mathrm { L H V } _ { \\mathrm { b i o } } + { \\cal Q } _ { \\mathrm { s o l } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对生物质气化部分，定义合成气化学能提升系数 $U$ 表征太阳能一生物质气化方式所获得的合成气化学能与参比系统产生合成气的化学能比值，如式（2）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU = \\frac { n _ { \\mathrm { g a s } } \\mathrm { L H V } _ { \\mathrm { g a s } } } { n _ { \\mathrm { r e f , g a s } } \\mathrm { L H V } _ { \\mathrm { r e f , g a s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对太阳能一生物质气化发电系统，将选用系统热效率 $\\eta _ { \\mathrm { I , t o t } }$ 和系统烟效率 $\\eta _ { \\mathrm { I I , t o t } }$ 对系统的整体性能进行评价，见式（3）和式（4)，同时利用太阳能净发电效率 $\\eta _ { \\mathrm { s o l - e l e c } }$ 表征系统输入的太阳能热量转化为电功率的比值，如式（5）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\eta _ { \\mathrm { _ { I , o t } } } = \\displaystyle \\frac { P } { m _ { \\mathrm { _ { b i o } } } \\mathrm { L H V _ { b i o } } + Q _ { \\mathrm { s o l } } } \\left( 3 \\right) } } \\\\ { { \\displaystyle \\eta _ { \\mathrm { _ { I , t o t } } } = \\displaystyle \\frac { P } { m _ { \\mathrm { _ { b i o } } } e _ { \\mathrm { c h , b i o } } + E _ { \\mathrm { _ { s o l } } } } } } \\\\ { { \\displaystyle \\eta _ { \\mathrm { _ { s o l - e c } } } = \\displaystyle \\frac { P - P _ { \\mathrm { _ { r e f } } } } { Q _ { \\mathrm { _ { s o l } } } } \\left( 5 \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $n$ 为合成气摩尔流量， $\\mathrm { k m o l / s }$ ；LHV 和 $e$ 分别表示燃料的低位发热值和燃料烟值， $\\mathrm { k J / k m o l }$ 或$\\mathrm { k J / k g }$ ： $\\varrho _ { \\mathrm { s o l } }$ 和 $E _ { \\mathrm { s o l } }$ 分别表示太阳能集热量和太阳能热烟， $\\operatorname { k W }$ ，分别按照 $\\scriptstyle Q _ { \\mathrm { s o l } } = \\ Q _ { \\mathrm { s o l , r e c } } \\ / \\eta _ { \\mathrm { c o l } }$ 和 $E _ { \\mathrm { s o l } } { = } ~ ( Q _ { \\mathrm { s o l , r e c } }$ $/ \\eta _ { \\mathrm { c o l } } ) \\cdot ( 1 { - } T _ { 0 } / T _ { \\mathrm { s u n } } ) ^ { }$ 计算。下标：gas 和bio分别表示合成气和生物质；ref和ch分别表示参比系统和化学烟。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3生物质气化特性及系统性能分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1生物质气化特性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "借助AspenPlus 流程模拟软件中的吉布斯最小自由能计算模型对太阳能一生物质气化反应特性进行分析，如图2所示。随着提高气化温度，合成气中的 $\\mathrm { C O } _ { 2 }$ 和 $\\mathrm { C H } _ { 4 }$ 含量均逐渐降低，尤其是 $\\mathrm { C H } _ { 4 }$ 含量在气化温度增至960K时将急剧降至 $1 \\%$ 以下；与此同时，合成气中的 $\\mathrm { H } _ { 2 }$ 和CO含量呈上升趋势，待气化温度达到1000K后， $\\mathrm { H } _ { 2 }$ 含量将小幅下降，但其含量基本保持在 $42 \\%$ 以上，同时CO含量的增长趋势将趋于平缓。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "合成气中 $\\mathrm { H } _ { 2 } / \\mathrm { C O }$ 的变化趋势如图3所示，由于CO的含量增长迅速，使得合成气中的 $\\mathrm { H } _ { 2 } / \\mathrm { C O }$ 随着气化温度的增加而降低，与常规的生物质气化方式相比，两种不同气化方式所获得合成气的 $\\mathrm { { H } } _ { 2 } / \\mathrm { { C O } }$ 变化趋势相类似。气化温度高于1000K时，太阳能一生物质气化方式和常规气化方式产生合成气的 $\\mathrm { H } _ { 2 } / \\mathrm { C O }$ 下降趋势均趋于平缓，但前者的 $\\mathrm { H } _ { 2 } / \\mathrm { C O }$ 更高，两组$\\mathrm { H } _ { 2 } / \\mathrm { C O }$ 的差值达到 $0 . 6 2 \\sim 0 . 7 6$ 。在气化温度为$1 0 0 0 { \\sim } 1 5 0 0 \\mathrm { K }$ 时，太阳能一生物质气化所产生合成气的 $\\mathrm { H } _ { 2 } / \\mathrm { C O }$ 为 $1 . 6 5 { \\sim } 2 . 4 4$ ，可直接作为优质的合成气用于生产甲醇和二甲醚等清洁液体燃料。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3b58f8be8b3e04105df65db2c4b0c78c216173fe5347393e9f179a0d4092b60.jpg",
+        "img_caption": [
+            "图2气化反应温度对合成气组分的影响 Fig.2 Variation of syngas compositions of the biomass gasification with gasification temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e45daf22251d10cfe9202d9f429c980424e9eccb7b583e89c8c26c263bd3d531.jpg",
+        "img_caption": [
+            "图3合成气中 $\\mathrm { H } _ { 2 } / \\mathrm { C O }$ 之对比 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Variation of $_ \\mathrm { H } _ { 2 } / \\mathrm { C O }$ molar ratioswith gasification temperatures ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在太阳能一生物质气化反应过程中，高温太阳能通过驱动生物质气化反应实现了太阳能向合成气化学能的转变，并完成太阳能的稳定存储和能量品质提升。调整气化反应温度，系统的太阳能份额 $f$ 及太阳能一生物质气化过程的合成气化学能提升系数 $U$ 见图4。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因提高气化反应温度，反应物的显热和反应焓变有所增加，使得系统的太阳能份额也随之增加，气化温度为950K时，太阳能份额达到 $3 5 . 9 8 \\%$ ，而后其增长速率有所减缓。与此同时，由单位质量生物质气化最终获得的合成气化学能的绝对值将增加。在常规生物质的气化反应中，提高反应温度，却需消耗更多的生物质来提供反应热，从而降低常规气化的所产生合成气的化学能，使得合成气化学能提升系数 $U$ 将随着增加。在气化温度为950K时，合成气化学能提升系数 $U$ 达到1.28，随后其增长速率也变缓，即表明提高气化温度，太阳能转化为化学能的效率将不会持续增长，且此时对材料的耐高温性能也将提出更高的要求，还需综合考虑对系统热力学性能等方面的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e60fdd86c6c155a5950422f393007144a2c2f9692e31ee80a7562dd8b448e296.jpg",
+        "img_caption": [
+            "图4气化温度对太阳能份额 $f$ 和提升系数 $U$ 影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 The effectsof gasification temperature on the solar share fraction and the upgrade factor ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2太阳能一生物质气化发电系统性能分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经过净化和冷凝后的合成气将借助燃气一蒸汽联合循环发电系统加以利用，最终实现太阳能经合成气化学能向电能的转化。改变生物质的气化反应温度是调整运行特性的重要手段，提高气化反应温度，将提高太阳能占系统总输入能量的份额，这在一定程度上将增加气化合成气的化学能，最终提高系统的发电功率。如图5所示，将气化温度从1000K提高至 $1 5 0 0 \\mathrm { K }$ ，系统的输出电功率 $P$ 从 $6 7 { , } 3 5 4 \\mathrm { k W }$ 增加至 $7 3 , 7 4 7 \\mathrm { k W }$ ，提高了 $9 . 4 9 \\%$ ，而且太阳能一生物质发电系统的太阳能热功转化效率 $\\eta _ { \\mathrm { s o l - e l e c } }$ 从 $23 . 2 0 \\%$ 增至 $2 4 . 2 0 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/184e893d6fb199a7f3ff7ab46c6c7b56157a358cfecc7684630d17f063cc383f.jpg",
+        "img_caption": [
+            "图5气化温度对 $P$ 和 $\\eta _ { \\mathrm { t o t } }$ 的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 The effect of gasification temperature on Pand $\\eta _ { \\mathrm { t o t } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "但需指出的是，在此气化反应温度区间内，提高气化反应温度虽然可以增加太阳能的输入量并增加合成气的化学能，但太阳能集热过程和气化过程中产生的热损失将增大，最终导致太阳能一生物质发电系统的总热效率和总烟效率分别从 $3 6 . 0 4 \\%$ 和$3 3 . 7 8 \\%$ 降至 $3 3 . 2 \\%$ 和 $3 1 . 7 6 \\%$ 。过高的气化反应温度势必增加太阳能气化反应器的热损失，同时对气化反应器也有着更加严格的技术要求，因此不能为单一地追求较高的发电功率而提高气化反应温度，应结合不同的生物质气化技术和工艺水平选择合适的运行参数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3系统热平衡/烟平衡分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "太阳能一生物质气化发电系统是对高温太阳能热化学反应装置与先进燃气一蒸汽联合发电系统进行的科学集成，系统的能源输入侧是生物质和太阳能这两类可再生能源，系统的产品为优质的二次能源一电能。经过系统集成，太阳能一生物质气化发电系统在设计工况下的热效率和烟效率分别达到$34 . 9 0 \\%$ 和 $3 3 . 0 8 \\%$ 。由于系统的输入能源仅为生物质和太阳能这两类可再生能源，即使系统对外排放了$\\mathrm { C O } _ { 2 }$ ，但其单位排放量仅为 $0 . 5 6 8 \\mathrm { k g \\ C O _ { 2 } / \\ k W { \\cdot h } }$ ，远低于常规燃煤发电系统的 $0 . 9 9 7 \\mathrm { k g } \\mathrm { C O } _ { 2 } / \\mathrm { k W } { \\cdot } \\mathrm { h }$ ，若考虑光合作用对 $\\mathrm { C O } _ { 2 }$ 的重复吸收，所构建的太阳能—生物质气化发电系统是近 $\\mathrm { C O } _ { 2 }$ 零排放的先进发电系统。基于与参比系统的对比，原系统的太阳能净发电效率 $\\eta _ { \\mathrm { s o l - e l e c } }$ 达到 $23 . 6 8 \\%$ ，同时在相同电能输出的基准下原系统中生物质燃料的节省率为 $2 5 . 0 4 \\%$ 。为综合分析系统的热力学性能，利用热力学第一定律和第二定律对原系统进行了热平衡和烟平衡计算，如表5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表5太阳能一生物质气化发电系统的热平衡和烟平衡",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/676ba64088d26a34145548f56193baca6886aa2154a5039040b113e4ac9b0383.jpg",
+        "table_caption": [
+            "Table5Energyand exergybalancesof the system "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>热分析/kW</td><td>比例/%</td><td>烟分析/kW</td><td>比例/%</td></tr><tr><td rowspan=\"3\">输入</td><td>生物质</td><td>119,814.64</td><td>58.13</td><td>135,617.64</td><td>62.37</td></tr><tr><td>太阳能</td><td>86,288.81</td><td>41.87</td><td>81,837.77</td><td>37.63</td></tr><tr><td>总计</td><td>206,103.45</td><td>100</td><td>21,7455.41</td><td>100</td></tr><tr><td>输出</td><td>电能</td><td>71,932.71</td><td>34.9</td><td>71,932.71</td><td>33.08</td></tr><tr><td colspan=\"2\"></td><td>系统热/烟损失分布</td><td></td><td></td><td></td></tr><tr><td rowspan=\"10\">损失</td><td>太阳能集热过程</td><td>44,542.25</td><td>33.2</td><td>50914.49</td><td>34.99</td></tr><tr><td>生物质气化过程</td><td></td><td></td><td>27251.37</td><td>18.72</td></tr><tr><td>合成气/灰渣显热损失</td><td>13,700.61</td><td>10.21</td><td>3434.24</td><td></td></tr><tr><td>压缩机</td><td>1,420.73</td><td>1.06</td><td>5698.96</td><td>2.36 3.92</td></tr><tr><td>燃烧室</td><td></td><td></td><td>31289.8</td><td>21.5</td></tr><tr><td>燃气透平</td><td>2474.61</td><td>1.84</td><td>9644.17</td><td>6.63</td></tr><tr><td>余热锅炉</td><td></td><td></td><td>6857.66</td><td>4.71</td></tr><tr><td>蒸汽透平</td><td>484.45</td><td>0.36</td><td>3407.46</td><td>2.34</td></tr><tr><td>发电机</td><td>1,479.09</td><td>1.1</td><td>1479.09</td><td>1.02</td></tr><tr><td>燃气排烟热损失</td><td>12,792</td><td>9.54</td><td>1595.76</td><td>1.1</td></tr><tr><td>蒸汽乏汽冷凝损失</td><td>56,234.96</td><td>41.91</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>3820.21</td><td>2.62</td></tr><tr><td>其他损失 总计</td><td>1,042.04 134170.74</td><td>0.78 100</td><td>129.49 145522.7</td><td>0.09 100</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于热平衡分析，系统的热损失主要发生在蒸汽透平的乏汽冷凝过程和太阳能集热过程，分别占系统总热损失的 $4 1 . 9 1 \\%$ 和 $3 3 . 2 \\%$ ，同时合成气的显热损失和燃气的排烟损失也将分别达到 $1 0 . 2 1 \\%$ 和$9 . 5 4 \\%$ 。对于系统烟分析，太阳能集热部分的烟损失份额最大，占系统总烟损失的 $34 . 9 9 \\%$ ，同时由于合成气燃烧及生物质气化过程存在较大的反应温差，使得燃烧室和生物质气化反应器的烟损失高达 $21 . 5 \\%$ 和 $1 8 . 7 2 \\%$ 。相对而言，太阳能集热过程所产生的热损失和烟损失占总损失量的份额较高，因此结合气化反应的需求来优化系统运行参数将对于提升系统的热力学性能有着重要意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为实现太阳能和生物质资源的互补高效利用，本文提出借助高温聚光太阳能为生物质气化提供热源的利用方式，并集成先进的燃气一蒸汽联合循环发电系统。通过对该系统进行系统模拟及分析，得出以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）利用太阳能驱动生物质的气化反应，能够将间歇不稳定的太阳能转化为合成气化学能，同时规避部分生物质的氧化燃烧反应，将提高合成气的化学能，同时合成气也具有更高的 $\\mathrm { H } _ { 2 } / \\mathrm { C O }$ 比；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）通过系统集成，太阳能转化至合成气化学能，实现了太阳能的稳定高效存储，并提升了太阳能的能量品位，系统的太阳能净发电效率能达到$2 3 . 6 8 \\%$ ，高于常规的太阳能热发电效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）提高气化反应温度，将增加输入至系统的太阳能份额，气化反应的合成气化学能提升系数和系统输出电功率也都将增加，气化反应温度从1000K提高至 $1 5 0 0 \\mathrm { K }$ ，系统的总热效率和总烟效率分别从$3 6 . 0 4 \\%$ 和 $3 3 . 7 8 \\%$ 降至 $3 3 . 2 \\%$ 和 $3 1 . 7 6 \\%$ ，因此需根据生物质反应特性选择优化系统运行参数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]T.Damartzis,A. Zabaniotou. Thermochemical conversion of biomass to second generation biofuels through integrated process design—A review[J].Renewable & Sustainable EnergyReviews,2011,15(1):366-378 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2]A.V. Bridgwater. Review of fast pyrolysis of biomass and product upgrading[J]. Biomass & Bioenergy， 2012,38 : 68-94   \n[3]M. Kruesi，Z.R. Jovanovic，E.C. dos Santos，et al. Solar-driven steam-based gasification of sugarcane bagasse inacombined drop-tubeand fixed-bedreactor Thermodynamic,kinetic,and experimental analyses[J]. Biomass & Bioenergy,2013,52 :173-183   \n[4]A.Kumar, D.D.Jones，M.A. Hanna.Thermochemical Biomass Gasification:AReview of the Current Status of the Technology[J].Energies,2009,2(3) : 556-581   \n[5] N. Piatkowski，C.Wieckert,A.W. Weimer,et al. Solar-drivengasification of carbonaceousfeedstock-a review[J]. Energy & Environmental Science, 2011,4(1) : 73-82   \n[6]M.Roeb,H. Muller-Steinhagen. Concentrating on Solar Electricity and Fuels[J]. Science,2010,329(5993) :773-774   \n[7]A. Steinfeld. Solar thermochemical production of hydrogen -- a review[J]. Solar Energy,2005,78(5) : 603-615   \n[8]Y. Kalinci,A. Hepbasli,I. Dincer. Performance assessment of hydrogen production from a solar-assisted biomass gasification system[J]. International Journal of Hydrogen Energy,2013,38(14) :6120-6129   \n[9]N. Piatkowski,A. Steinfeld. Solar-driven coal gasification in a thermally irradiated packed-bed reactor[J]. Energy & Fuels,2008,22(3) : 2043-2052   \n[10]Y.C. Ng, W. Lipinski. Thermodynamic analyses of solar thermal gasification of coal for hybrid solar-fossil power and fuel production[J].Energy,2012,44(1) : 720-731   \n[11]A.A. Kaniyal， P.J. van Eyk,G.J. Nathan，et al. Polygeneration of liquid fuels and electricity bythe atmospheric pressure hybrid solar gasification of coal[J]. Energy & Fuels,2013,27(6) :3538-3555 ",
+        "page_idx": 5
+    }
+]
